@@ -252,8 +252,6 @@ Hi Kishore,
 
 Picking up our earlier exchange about PoE / industrial switches. Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/

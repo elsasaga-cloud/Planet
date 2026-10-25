@@ -84,7 +84,7 @@
     "tier": 20,
     "why": "需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）"
   },
-  "email_hook": "Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?",
+  "email_hook": "Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?",
   "products_seen": [
     {
       "brand": "ORing",
@@ -129,7 +129,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?"
+      "one_question": "Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?"
     },
     "facts": [
       {

@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）。已打开的主题（1/17 封有打开记录）：「Saga Q3 Product Links」(2026-07-14) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-23 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?
+- **第一问（只问一个）**：Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your packaging — which port count do your automation panels use most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：现供 Uotek（深圳）价格基准低；交换机仅为 PLC 周边（量取决于面板配套率）；土耳其汇率敏感
 - **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-23 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch））——PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）。已打开的主题（1/17 封有打开记录）：「Saga Q3 Product Links」(2026-07-14) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?
+  - 第一问（只问一个）：Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your packaging — which port count do your automation panels use most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@ updated: 2026-10-25
   - 表内：工业 FS 只有几个 自己的 logo 其他的都是周边产品了；Uotek 的工业 FS（https://www.uotek.com/product-73.html）；KP Abdullah Aydin / Project Manager
 - **风险/边界**：现供 Uotek（深圳）价格基准低；交换机仅为 PLC 周边（量取决于面板配套率）；土耳其汇率敏感；2 次跟进无回复 → 改向 Project Manager 具名首触
 - **Saga 对位结论**：P1 STI-280GE（30% 档）——PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）
-- **邮件切入句（英文）**：Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?
+- **邮件切入句（英文）**：Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your packaging — which port count do your automation panels use most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -277,21 +277,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
 Hi Abdullah,
 
-Picking up our earlier exchange about PoE / industrial switches. Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your packaging — which port count do your automation panels use most?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $50.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

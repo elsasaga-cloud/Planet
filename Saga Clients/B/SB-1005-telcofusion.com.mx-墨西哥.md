@@ -226,7 +226,7 @@ updated: 2026-10-25
 ```text
 Hi Jose,
 
-Picking up our earlier exchange about PoE / industrial switches. Jose, for the 4 × 10G media converters — SFP+ to 10G RJ45, desktop, ~$60 class EXW; still needed? Reverse-PoE boards we don't make.
+We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue. For the 4 × 10G media converters — SFP+ to 10G RJ45, desktop, ~$60 class EXW; still needed? Reverse-PoE boards we don't make.
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

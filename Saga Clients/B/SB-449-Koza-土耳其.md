@@ -280,7 +280,7 @@ updated: 2026-10-25
 ```text
 Hi Deniz,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Deniz, alongside the TRENDnet TN-P08G / TN-P16M PoE switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD — which TRENDnet size do your dealers order most, so we quote its equivalent first?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the TRENDnet TN-P08G / TN-P16M PoE switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD — which TRENDnet size do your dealers order most, so we quote its equivalent first?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your TRENDnet TN-P08G at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

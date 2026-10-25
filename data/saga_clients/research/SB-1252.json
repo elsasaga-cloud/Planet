@@ -55,7 +55,7 @@
     "tier": 20,
     "why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）"
   },
-  "email_hook": "For the industrial switches you supply, we offer neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which configuration do your customers order most?",
+  "email_hook": "For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most?",
   "mail_review": {
     "binding": {
       "level": "Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS」",
@@ -82,7 +82,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → villa@frekvent.com",
       "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-      "one_question": "For the industrial switches you supply, we offer neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

@@ -224,14 +224,14 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (neutral label)
 
 ```text
 Hi Enes,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

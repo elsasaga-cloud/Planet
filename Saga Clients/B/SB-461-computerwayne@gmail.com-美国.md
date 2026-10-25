@@ -243,21 +243,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-054GP - industrial DIN-rail switch (neutral label)
 
 ```text
 Hi Wayne,
 
 Picking up our earlier exchange about PoE / industrial switches. Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 Gigabit uplink (unmanaged) - model STI-054GP - that fits the same slot as the redlion class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $32.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

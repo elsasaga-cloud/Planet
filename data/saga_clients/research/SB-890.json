@@ -87,7 +87,7 @@
   "tier": 30,
   "why": "自有 AIS 工业 PoE 线（AIS4001P / AIS2002P）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 口 STI-154GP 作二供；DC/400G 线 Saga 不做"
  },
- "email_hook": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?",
+ "email_hook": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?",
  "products_seen": [
   {
    "brand": "AurCore（自有）",
@@ -132,7 +132,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?"
+   "one_question": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?"
   },
   "facts": [
    {

@@ -220,21 +220,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-448DGGGPM - industrial L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Khursheed,
 
-Picking up our earlier exchange about PoE / industrial switches. Khursheed, following your enquiry for an 8-fibre + 8-PoE managed switch: our industrial L2+ model offers 8 × PoE+ with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS) from single units, EXW USD, 10–15 days — how many units does your BMS project need, and is DIN-rail or rack mounting required?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your enquiry for an 8-fibre + 8-PoE managed switch: our industrial L2+ model offers 8 × PoE+ with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS) from single units, EXW USD, 10–15 days — how many units does your BMS project need, and is DIN-rail or rack mounting required?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply a Marvell-based industrial L2+ managed switch, 8x Gigabit PoE+ plus 4 SFP plus 4x 2.5G SFP - model STI-448DGGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $220.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

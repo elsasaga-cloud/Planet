@@ -217,21 +217,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-288GP - industrial DIN-rail switch (neutral label)
 
 ```text
 Hi Ümit,
 
-Picking up our earlier exchange about PoE / industrial switches. Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?
+Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $59.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

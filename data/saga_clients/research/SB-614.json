@@ -74,7 +74,7 @@
     "tier": 20,
     "why": "工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）"
   },
-  "email_hook": "For the switches you bundle with your industrial PCs and Delock accessories, we supply Marvell-based DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?",
+  "email_hook": "For the switches you bundle with your industrial PCs and Delock accessories, we supply DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@kmsoltec.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）",
@@ -101,7 +101,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "For the switches you bundle with your industrial PCs and Delock accessories, we supply Marvell-based DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?"
+      "one_question": "For the switches you bundle with your industrial PCs and Delock accessories, we supply DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?"
     },
     "facts": [
       {

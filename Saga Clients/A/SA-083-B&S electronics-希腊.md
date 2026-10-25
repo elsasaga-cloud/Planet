@@ -296,7 +296,7 @@ Hi Vasilis,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your EWIND（现供应商 5 年） 工业 PoE 交换机（IP camera 项目） at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your EWIND（现供应商 5 年） 工业 PoE 交换机（IP camera 项目） at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

@@ -114,7 +114,7 @@ updated: 2026-10-25
   - 表内：MC 很多种外壳 刷了自己的 logo；非常大的公司；KP Ashish Prakash / Network Specialist
 - **风险/边界**：大型目录商（数千 SKU）：单品量小、供应商众多，谈判地位弱；17 次无回复：仅 sales@ 公共邮箱，KP 为技术岗；商用桌面 MC（主要需求）Saga 价目无 SKU（Q-32）
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——自有 logo 光纤 MC 多外壳 → 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 GAO 标；工业 FS 位 STI-080GE；商用桌面 MC Saga 价目无（HRUI 待核）
-- **邮件切入句（英文）**：Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?
+- **邮件切入句（英文）**：Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches; managed versions on a Marvell platform) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -276,14 +276,14 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
 
 ```text
 Hi Ashish,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches; managed versions on a Marvell platform) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

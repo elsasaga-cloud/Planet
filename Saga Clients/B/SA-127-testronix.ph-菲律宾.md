@@ -255,8 +255,6 @@ Hello,
 
 Picking up our earlier exchange about PoE / industrial switches. Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/

@@ -84,7 +84,7 @@
   "tier": 30,
   "why": "加油机/站点机柜小口数工业 PoE → 工业 4 PoE + 1 GE 非管理 STI-154GP（$40.8 @30%）/ 8 PoE + 2 SFP STI-288GP（$62.2）贴 AvaLAN 标；管理版 STI-288GPM"
  },
- "email_hook": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS) under your label from small lots — which port count do your dispenser and canopy installs use most?",
+ "email_hook": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS; managed versions on a Marvell platform) under your label from small lots — which port count do your dispenser and canopy installs use most?",
  "mail_review": {
   "binding": {
    "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 cindy.powers@avalan.com, nigel.widner@avalan.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:avalan.com OR to:volumeinc.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(h)））",
@@ -111,7 +111,7 @@
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
    "action": "换收件人再发一封",
-   "one_question": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS) under your label from small lots — which port count do your dispenser and canopy installs use most? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS; managed versions on a Marvell platform) under your label from small lots — which port count do your dispenser and canopy installs use most? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {

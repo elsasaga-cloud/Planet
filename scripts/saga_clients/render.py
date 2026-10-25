@@ -564,15 +564,72 @@ def followup_plan(ent, grade, p1, tier):
 
 
 P1_EN = {
-    'STC-448DGGPM': ('48-port Gigabit PoE+ L2+ managed switch', 'Marvell-based'),
+    # (英文描述, 芯片字样)——芯片字样只给网管 L2/L2+/L3 的 Marvell 线（规则 ㉛）；非网管/HRUI Realtek 线留空；CENTEC 只在 STH
+    # 商用 Marvell 线（SmartByte 价格主表）
+    'STC-28DGGPM': ('8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks', 'Marvell-based'),
     'STC-424DGGPM-280W': ('24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks)', 'Marvell-based'),
     'STC-424XGGPM-280W': ('24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks', 'Marvell-based'),
-    'STC-448XGGM(L3)': ('48-port Gigabit L3 switch with 10G uplinks', 'CENTEC-based'),
-    'STI-21616GP': ('16-port Gigabit PoE+ industrial switch with 2 SFP uplinks', 'Marvell-based'),
+    'STC-448DGGPM': ('48-port Gigabit PoE+ L2+ managed switch', 'Marvell-based'),
+    'STC-448XGGPM': ('48-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (440 W)', 'Marvell-based'),
+    'STC-424XGGM': ('24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks', 'Marvell-based'),
+    'STC-448XGGM': ('48-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks', 'Marvell-based'),
+    'STC-424XGGM(L3)': ('24-port Gigabit L3 switch with 4x10G SFP+ uplinks', 'Marvell-based'),
+    'STC-448XGGM(L3)': ('48-port Gigabit L3 switch with 10G uplinks', 'Marvell-based'),  # 主表 L3 档 = Marvell 线（CENTEC 只在 STH）
+    'STC-448XGGMO': ('48-port SFP L3 fibre switch with 4x10G SFP+ uplinks', 'Marvell-based'),
+    'STC-4168XGGCM': ('16-SFP + 8-combo L3 fibre switch with 4x10G SFP+ uplinks', 'Marvell-based'),
+    # 工业 Marvell 网管线
+    'STI-240GM': ('industrial DIN-rail L2 managed switch, 4x Gigabit plus 2 SFP', 'Marvell-based'),
+    'STI-244GPM': ('industrial DIN-rail L2 managed switch, 4x Gigabit PoE+ plus 2 SFP (120 W)', 'Marvell-based'),
+    'STI-280GM': ('industrial DIN-rail L2 managed switch, 8x Gigabit plus 2 SFP', 'Marvell-based'),
+    'STI-288GPM': ('industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W)', 'Marvell-based'),
+    'STI-280DGGM': ('industrial DIN-rail L2+ managed switch, 8x Gigabit plus 2x 2.5G SFP', 'Marvell-based'),
     'STI-288DGGPM': ('industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP', 'Marvell-based'),
-    'STI-144GP': ('compact industrial switch, 4x Gigabit PoE+ plus 1 SFP', 'Marvell-based'),
-    'STC-28DGGPM': ('8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks', 'Marvell-based'),
-    'STI-110GE': ('industrial mini Gigabit media converter (1 fiber + 1 copper)', 'Marvell-based'),
+    'STI-288DGGPM-2BT': ('industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ (2x 90 W bt) plus 2x 2.5G SFP', 'Marvell-based'),
+    'STI-488DGGPM': ('industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 4x 2.5G SFP', 'Marvell-based'),
+    'STI-488XGGPM': ('industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 4x10G SFP+', 'Marvell-based'),
+    'STI-488DGGGM': ('industrial L2+ managed switch, 8x Gigabit plus 8 SFP plus 4x 2.5G SFP uplinks', 'Marvell-based'),
+    'STI-448DGGGM': ('industrial L2+ managed switch, 8x Gigabit plus 4 SFP plus 4x 2.5G SFP', 'Marvell-based'),
+    'STI-448DGGGPM': ('industrial L2+ managed switch, 8x Gigabit PoE+ plus 4 SFP plus 4x 2.5G SFP', 'Marvell-based'),
+    'STI-448XGGGPM(L3)': ('industrial L3 managed switch, 8x Gigabit PoE+ plus 4 SFP plus 4x10G SFP+', 'Marvell-based'),
+    'STI-21616XGGPM': ('industrial L2+ managed switch, 16x Gigabit PoE+ plus 2x10G SFP+', 'Marvell-based'),
+    'STI-41616XGGPM': ('industrial L3 managed switch, 16x Gigabit PoE+ plus 4x10G SFP+', 'Marvell-based'),
+    'STI-41616XGGPM-4BT': ('industrial L3 managed switch, 16x Gigabit PoE+ (4x 90 W bt) plus 4x10G SFP+', 'Marvell-based'),
+    'STI-42424XGGPM-4BT': ('industrial L2+ managed switch, 24x Gigabit PoE+ (4x 90 W bt) plus 4x10G SFP+', 'Marvell-based'),
+    'STI-4168DGGCM-U': ('industrial L2+ managed fibre switch, 16 SFP plus 8 combo plus 4x 2.5G SFP', 'Marvell-based'),
+    # 工业非网管线（SmartByte 非网管表；不写芯片）
+    'STI-110GE': ('industrial mini Gigabit media converter (1 fiber + 1 copper)', ''),
+    'STI-110FE': ('industrial mini Fast Ethernet media converter (1 fiber + 1 copper)', ''),
+    'STI-111GP': ('industrial mini Gigabit PoE media converter (1 SFP + 1 PoE copper)', ''),
+    'STI-220GE': ('industrial compact switch, 2x Gigabit plus 2 SFP (unmanaged)', ''),
+    'STI-050GE': ('industrial DIN-rail 5-port Gigabit switch (unmanaged)', ''),
+    'STI-080GE': ('industrial DIN-rail 8-port Gigabit switch (unmanaged)', ''),
+    'STI-280GE': ('industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged)', ''),
+    'STI-054FP': ('industrial DIN-rail switch, 4x Fast Ethernet PoE plus 1 uplink (unmanaged)', ''),
+    'STI-054GP': ('industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 Gigabit uplink (unmanaged)', ''),
+    'STI-144GP': ('compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged)', ''),
+    'STI-154GP': ('industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 SFP and 1 copper uplink (unmanaged)', ''),
+    'STI-244GP': ('industrial DIN-rail switch, 4x Gigabit PoE+ plus 2 SFP (unmanaged)', ''),
+    'STI-288GP': ('industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged)', ''),
+    'STI-488GP': ('industrial DIN-rail switch, 8x Gigabit PoE+ plus 4 SFP (unmanaged)', ''),
+    'STI-21616GP': ('16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (unmanaged)', ''),
+    'LT-IS6312GP-4GX8GT-FBP': ('industrial L2+ managed fibre-bypass switch, 8x Gigabit PoE+ plus 4x 2.5G SFP (SmartByte model number kept)', ''),
+    # 商用 Realtek 线（HRUI 对照表；Saga 对外列表价）
+    'STC-08GE': ('8-port Gigabit desktop switch (unmanaged)', ''),
+    'STC-024FP': ('4-port Fast Ethernet PoE switch with 2 uplinks (unmanaged)', ''),
+    'STC-028GFP': ('8-port Fast Ethernet PoE switch with 2 Gigabit uplinks (unmanaged)', ''),
+    'STC-024GP': ('4-port Gigabit PoE switch with 2 Gigabit uplinks (unmanaged)', ''),
+    'STC-028GP': ('8-port Gigabit PoE switch with 2 Gigabit uplinks (unmanaged, 120 W)', ''),
+    'STC-114GP': ('4-port Gigabit PoE switch with 1 SFP and 1 copper uplink (unmanaged)', ''),
+    'STC-204GP': ('4-port Gigabit PoE switch with 2 SFP uplinks (unmanaged)', ''),
+    'STC-228GP': ('8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog)', ''),
+    'STC-2016GP': ('16-port Gigabit PoE switch with 2 SFP uplinks (unmanaged, 300 W)', ''),
+    'STC-2024GP': ('24-port Gigabit PoE switch with 2 SFP uplinks (unmanaged, 300 W)', ''),
+    'STC-114XGDGP': ('4-port 2.5G PoE switch with 1x10G SFP+ and 1x 2.5G uplink (unmanaged)', ''),
+    'STC-28GM': ('8-port Gigabit L2 managed switch with 2 SFP uplinks (commercial line)', ''),
+    'STC-28GPM': ('8-port Gigabit PoE+ L2 managed switch with 2 SFP uplinks (commercial line, 120 W)', ''),
+    'STC-2216GPM': ('16-port Gigabit PoE+ L2 managed switch with 2 SFP and 2 copper uplinks (commercial line)', ''),
+    # 数据中心 CENTEC 线
+    'STH-2C24XF-SFI': ('24x10G SFP+ plus 2x100G QSFP28 data-centre switch', 'CENTEC-based'),
 }
 SWITCH_BRANDS = {'ONV', 'Utepo', 'Upeto', 'Ewind', 'HRUI', 'E-link', 'Elink', 'E-Link', 'BDCOM', 'PLANET', 'Planet', 'planet', 'Cisco', 'Redlion', 'redlion',
                  'Red Lion', 'Moxa', 'MOXA', 'Antaira', 'TP-Link', 'Mikrotik', 'MikroTik', 'Ubiquiti', 'Netgear', 'Trendnet', 'TRENDnet', '迈威', 'Maiwe',
@@ -761,21 +818,57 @@ def elsa_touch(ent):
 def email_draft(ent, g, typ, p1, tier, brands, first_q):
     if g == 'C':
         return '> C 级不出邮件样板（不主动跟进）。'
+    hook_raw = ((ent.get('research') or {}).get('email_hook') or '').strip()
+    if re.search(r'[\u4e00-\u9fff]', hook_raw) and re.search(r'不主动发送|不发送|不发：|不跟|不触达|守界：不', hook_raw[:40]):
+        return f'> 研究档 email_hook 标注「{hook_raw}」：不出邮件样板（对方来询再按「产品决策」P1 手写）。'
     if not p1 or p1 not in P1_EN:
-        hook = ((ent.get('research') or {}).get('email_hook') or '').strip()
+        hook = hook_raw
+        if re.search(r'[\u4e00-\u9fff]', hook):
+            m_en = re.search(r'[：:]\s*([A-Z][^）]{30,})', hook)
+            hook = m_en.group(1).strip() if m_en else ''
         if hook:
             name = greeting_name(ent)
             hi = f'Hi {name},' if name else 'Hello,'
-            body = (f"{hi}\n\nPicking up our earlier exchange about PoE / industrial switches. {hook}\n\n"
-                    "One question: is the port mix fixed by the design, or can we propose an equivalent layout?\n\n"
+            if name:
+                hook = re.sub(r'^' + re.escape(name) + r'(?: Bey| Hanım)?,\s*', '', hook)
+                if hook and hook[0].islower():
+                    hook = hook[0].upper() + hook[1:]
+            et0 = elsa_touch(ent)
+            if ent['reply_sub'] or ent['flags'].get('deal') or ent['deal_in_fu']:
+                op0 = 'Picking up our earlier exchange about PoE / industrial switches.'
+            elif et0:
+                op0 = (f'{"Over the past months" if et0[1] >= "2026-04-01" else "Some time ago"} you had '
+                       f'{"a few product mails" if et0[0] >= 2 else "a product mail"} from us - {"most recently " if et0[0] >= 2 else ""}"{et0[2]}" on {et0[1]} - '
+                       f'and there was no reason to answer a mass mail. This one is specific.')
+            else:
+                op0 = 'We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue.'
+            q0 = '' if hook.rstrip('.').endswith('?') else 'One question: is the port mix fixed by the design, or can we propose an equivalent layout?\n\n'
+            body = (f"{hi}\n\n{op0} {hook}\n\n{q0}"
                     "Best regards,\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/")
-            return ('**主题**：Follow-up on your switch requirement (model confirmation in progress)\n\n```text\n' + body + '\n```\n\n'
-                    '> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。')
+            note0 = ('> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。' if not p1
+                     else f'> P1 = {p1}：型号不在样板描述表（render.py P1_EN）内，样板未带型号/价格——报价前按价格表核 {p1}。')
+            if re.search(r'[\u4e00-\u9fff]', hook_raw):
+                note0 = f'> 研究档备注（未并入正文）：{hook_raw}\n\n' + note0
+            return ('**主题**：Follow-up on your switch requirement (model confirmation in progress)\n\n```text\n' + body + '\n```\n\n' + note0)
+        if hook_raw:
+            return f'> 研究档 email_hook 为备注「{hook_raw}」，无英文钩子句：不出自动样板。'
         return '> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。'
     desc, chip = P1_EN[p1]
     r = PRICES.get(p1)
     col = {20: 'USD@+20%', 25: 'USD@+25%', 30: 'USD@+30%'}[tier]
-    price = f"${r[col]} USD EXW (price snapshot {r['汇率日期']}, valid 15 days)" if r else 'price on request'
+    if r:
+        price = f"${r[col]} USD EXW (price snapshot {r['汇率日期']}, valid 15 days)"
+    elif ALT_PRICES.get(p1):
+        price = f"${ALT_PRICES[p1][0]} USD EXW (list price, valid 15 days)"
+    else:
+        price = 'price on request'
+    # 规则 ㉕：档案 saga_now.price 里已定的锚价（own quote → 群发现价 → 最近实报 → 档位）优先于档位公式
+    _snp = (((ent.get('research') or {}).get('mail_review') or {}).get('saga_now') or {})
+    _snp = _snp.get('price') if isinstance(_snp, dict) else None
+    if isinstance(_snp, str):
+        _m = re.search(r'锚价[：:]?\s*' + re.escape(p1) + r'\s*\$\s*([0-9][0-9,]*(?:\.[0-9]+)?)', _snp)
+        if _m:
+            price = f"${_m.group(1)} USD EXW (valid 15 days)"
     deal = ent['flags'].get('deal') or ent['deal_in_fu']
     name = greeting_name(ent)
     hi = f'Hi {name},' if name else 'Hello,'
@@ -806,28 +899,44 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
             price = f'${live} USD EXW (same as the ${seen_pr} you saw in our {seen_d[:7]} mail; MOQ 1, 15-day validity)'
     rs = ent.get('research') or {}
     sb = [b for b in brands if b in SWITCH_BRANDS]
-    slot = f'the {sb[0]} class you work with' if sb else 'the usual Taiwan-grade units'
+    slot = f'the {sb[0]} class you work with' if sb else 'the units you source today'
     ps = [x for x in (rs.get('products_seen') or []) if x.get('model') and x.get('saga') == p1] or [x for x in (rs.get('products_seen') or []) if x.get('model')]
     if ps:
         slot = f"your {ps[0].get('brand', '').strip()} {ps[0]['model']}".replace('  ', ' ')
-    if rs.get('email_hook'):
-        opener = opener + ' ' + rs['email_hook'].strip()
+    hook_note = None
+    hk = (rs.get('email_hook') or '').strip()
+    if re.search(r'[\u4e00-\u9fff]', hk):
+        # 研究档 email_hook 是中文备注（「（不主动发送）」「（无邮箱；WhatsApp：…）」「（低优先…）」）而非钩子句
+        hook_note = hk
+        if re.search(r'不主动发送|不发送|不发：|不跟|不触达|守界：不', hk[:40]):
+            return f'> 研究档 email_hook 标注「{hk}」：不出邮件样板（对方来询再按「产品决策」P1 手写）。'
+        m_en = re.search(r'[：:]\s*([A-Z][^）]{30,})', hk)
+        hk = m_en.group(1).strip() if m_en else ''
+    if hk:
+        if name:  # 称呼已在 Hi 行：钩子句开头的「Name,」/「Name Bey,」去重
+            hk = re.sub(r'^' + re.escape(name) + r'(?: Bey| Hanım| Bey,)?,\s*', '', hk)
+            if hk and hk[0].islower():
+                hk = hk[0].upper() + hk[1:]
+        opener = opener + ' ' + hk
     oem = ' under your own label with neutral packaging' if ('品牌' in typ or 'OEM' in typ or '分销' in typ or '经销' in typ) else ' with neutral packaging'
     short = re.split(r' \(|, ', desc)[0]
-    subj = f'{p1} - {short} ({chip}, neutral label)'
-    hook_q = bool(rs.get('email_hook')) and rs['email_hook'].strip().rstrip('.').endswith('?')
+    subj = f'{p1} - {short} ({chip + ", " if chip else ""}neutral label)'
+    hook_q = bool(hk) and hk.rstrip('.').rstrip('）').endswith('?')
     body = '\n'.join([
         hi, '',
         opener, '',
-        f'We supply a {chip} {desc} - model {p1} - that fits the same slot as {slot} at a lower landed cost, and we can ship it{oem}. '
+        f"We supply {'a ' + chip + ' ' if chip else ('an ' if (desc[0] in 'aeiou' or desc.startswith(('8', '18', '80'))) else 'a ')}{desc} - model {p1} - that fits the same slot as {slot} at a lower landed cost, and we can ship it{oem}. "
         f'Current price: {price}.', ''] + ([] if hook_q else [f'One question: {first_q}', '']) + [
         'If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.', '',
         'Best regards,',
         'Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)',
         'https://sagatele.com/',
     ])
-    return '\n'.join([f'**主题**：{subj}', '', '```text', body, '```', '',
-                      '> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。'])
+    out = [f'**主题**：{subj}', '', '```text', body, '```', '']
+    if hook_note:
+        out += [f'> 研究档备注（未并入正文）：{hook_note}', '']
+    out.append('> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。')
+    return '\n'.join(out)
 
 
 def next_review(g):

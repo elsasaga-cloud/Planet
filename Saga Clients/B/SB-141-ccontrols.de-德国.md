@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-25 → 2025-11-04）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无。已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-06 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?
+- **第一问（只问一个）**：For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request; managed versions on a Marvell platform) from small lots under your label, CE/RoHS — which model would you dual-source first?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：楼宇自动化（BACnet）生态：对 24 VAC 供电/认证细节有要求，需核规格
 - **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-06 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch））——自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无。已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?
+  - 第一问（只问一个）：For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request; managed versions on a Marvell platform) from small lots under your label, CE/RoHS — which model would you dual-source first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@ updated: 2026-10-25
   - 官网：Innovative Lösungen für Gebäudeautomation；Auftragsanfertigungen – Kundenspezifisches Design und Fertigung；Seit 1975
 - **风险/边界**：楼宇自动化（BACnet）生态：对 24 VAC 供电/认证细节有要求，需核规格；8 次无回复，仅 info@；用户表「可以着重跟一下」
 - **Saga 对位结论**：P1 STI-288GP（30% 档）——自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无
-- **邮件切入句（英文）**：For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?
+- **邮件切入句（英文）**：For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request; managed versions on a Marvell platform) from small lots under your label, CE/RoHS — which model would you dual-source first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -270,21 +270,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-288GP - industrial DIN-rail switch (neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request; managed versions on a Marvell platform) from small lots under your label, CE/RoHS — which model would you dual-source first?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as your Contemporary Controls（自有 CTRLink） EISK8P-GT at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $62.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

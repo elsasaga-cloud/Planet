@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：推送 23 次（2024-05-02 → 2025-10-30）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）。已打开的主题（1/34 封有打开记录）：「16 Port Ethernet Switch」(2024-12-18) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-23 $220（48 port managed switch）、2024-08-21 $65（Media Converter）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-28 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
+- **第一问（只问一个）**：For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；官网快照乱码（业务待核）；23 次无回复，仅 unitel@
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-23 $220（48 port managed switch）、2024-08-21 $65（Media Converter）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-28 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch））——光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）。已打开的主题（1/34 封有打开记录）：「16 Port Ethernet Switch」(2024-12-18) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
-  - 第一问（只问一个）：For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@ updated: 2026-10-25
   - 快照：标题乱码
 - **风险/边界**：非主攻区（T5，韩国；KC 由客户侧）；官网快照乱码（业务待核）；23 次无回复，仅 unitel@
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）
-- **邮件切入句（英文）**：For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?
+- **邮件切入句（英文）**：For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -264,14 +264,14 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
 
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 2025-02-28 - and there was no reason to answer a mass mail. This one is specific. For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?
+Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 2025-02-28 - and there was no reason to answer a mass mail. This one is specific. For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

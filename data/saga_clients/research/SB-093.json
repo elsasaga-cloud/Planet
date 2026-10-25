@@ -91,7 +91,7 @@
     "tier": 25,
     "why": "工业 switch（现国内外壳）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）"
   },
-  "email_hook": "For the industrial switches on your /switch/ page, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS; neutral packing) from single units, EXW USD — which configuration do your Japanese customers order most?",
+  "email_hook": "For the industrial switches on your /switch/ page, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; neutral packing; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Japanese customers order most?",
   "mail_review": {
     "binding": {
       "level": "未绑定（询问阶段；Alan 2026-04-24 已允诺**免费借样**测试「lending a piece is OK… how will you send it back?」，对方未接、未给中国货代地址）；Elsa 1:1 去信 2 轮 2025-05-02→2025-06-23（To 仅本户 info@unea-x.com；头 msg 1979adf13b0bbff3 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Mini Industrial PoE Switch、16 Port Ethernet Switch；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete，直收 2 条、无 Re: 行）",

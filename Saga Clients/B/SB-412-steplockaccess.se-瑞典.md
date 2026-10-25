@@ -234,9 +234,9 @@ updated: 2026-10-25
 ```text
 Hi Peter,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Peter, following the web-UI demo of the 2-fibre + 10-copper switch: our Marvell-based 8-PoE + 2 SFP L2+ supports per-port PoE status and remote on/off via web/SNMP (no cloud, local management) and can carry the StepLock label from small lots, CE/RoHS — would per-port PoE scheduling and reset meet your access-control use case?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following the web-UI demo of the 2-fibre + 10-copper switch: our Marvell-based 8-PoE + 2 SFP L2+ supports per-port PoE status and remote on/off via web/SNMP (no cloud, local management) and can carry the StepLock label from small lots, CE/RoHS — would per-port PoE scheduling and reset meet your access-control use case?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

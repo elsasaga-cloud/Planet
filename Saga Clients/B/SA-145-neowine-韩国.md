@@ -295,7 +295,7 @@ Hi John,
 
 Picking up our earlier exchange about PoE / industrial switches. Dexter, since the 48-port sample request last year — is there an actual Korean customer behind it (CCTV or office)? If yes, send me the PoE budget needed and I'll quote 1 pc EXW; we're not appointing agents at this stage.
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

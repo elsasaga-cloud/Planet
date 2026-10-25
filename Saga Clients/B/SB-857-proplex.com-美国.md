@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-22 → 2025-10-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-22 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-22；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）
-- **第一问（只问一个）**：For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
+- **第一问（只问一个）**：For the GBS DIN-rail PoE switches in your range, we can be a second ODM source (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 仅 2025-02-22 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：北京有办事处（可直接在国内采购，比价激烈）；IP 级/便携特殊外壳 Saga 不做；10 次无回复
 - **Saga 现在该推什么**：P1 **STI-054GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-22 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-22；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280））——GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做
 - **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 仅 2025-02-22 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；观察打开
-  - 第一问（只问一个）：For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
+  - 第一问（只问一个）：For the GBS DIN-rail PoE switches in your range, we can be a second ODM source (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@ updated: 2026-10-25
   - 表内：switch 外壳有一些特别 周边产品较多 北京有办事处；细分特种行业公司
 - **风险/边界**：北京有办事处（可直接在国内采购，比价激烈）；IP 级/便携特殊外壳 Saga 不做；10 次无回复
 - **Saga 对位结论**：P1 STI-054GP（30% 档）——GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做
-- **邮件切入句（英文）**：For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
+- **邮件切入句（英文）**：For the GBS DIN-rail PoE switches in your range, we can be a second ODM source (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -251,21 +251,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-054GP - industrial DIN-rail switch (neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
+Some time ago you had a product mail from us - "24 Port Fiber Switch" on 2025-02-22 - and there was no reason to answer a mass mail. This one is specific. For the GBS DIN-rail PoE switches in your range, we can be a second ODM source (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 Gigabit uplink (unmanaged) - model STI-054GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

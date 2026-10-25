@@ -107,7 +107,7 @@ updated: 2026-10-25
   - 快照：http_error
 - **风险/边界**：既有 ODM 供应链（自有标、高定价策略）；官网 http_error；19 次无回复 → 改向 Engineering Manager 具名首触
 - **Saga 对位结论**：P1 STI-280GE（30% 档）——Mencom 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、工业千兆 MC STI-110GE（$24.3）贴标作二供
-- **邮件切入句（英文）**：John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?
+- **邮件切入句（英文）**：John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS; managed versions on a Marvell platform) in your packaging from small lots — which SKU would you want sampled first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -265,21 +265,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
 Hi John,
 
-Picking up our earlier exchange about PoE / industrial switches. John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS; managed versions on a Marvell platform) in your packaging from small lots — which SKU would you want sampled first?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $50.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

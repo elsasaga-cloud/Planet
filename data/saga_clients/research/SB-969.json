@@ -85,7 +85,7 @@
   "tier": 30,
   "why": "CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供"
  },
- "email_hook": "Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source on a Marvell platform — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?",
+ "email_hook": "Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ (Marvell platform) — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?",
  "mail_review": {
   "binding": {
    "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 iletisim@cebecigrup.com, mustafaengin@cebecigrup.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:cebecigrup.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））",
@@ -112,7 +112,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source on a Marvell platform — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?"
+   "one_question": "Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ (Marvell platform) — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?"
   },
   "facts": [
    {

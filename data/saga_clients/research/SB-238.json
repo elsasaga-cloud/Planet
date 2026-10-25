@@ -86,7 +86,7 @@
   "tier": 20,
   "why": "工业自动化配套网络 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 非 PoE STI-280GE；MC 位 STI-110GE；加固/轨道（EN50155）场景不报"
  },
- "email_hook": "Chiara, for the networking items alongside your industrial and panel PCs, we supply Marvell-based DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?",
+ "email_hook": "Chiara, for the networking items alongside your industrial and panel PCs, we supply DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?",
  "mail_review": {
   "binding": {
    "level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 c.beriachetto@sisav.it, i.cianciola@sisav.it；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:sisav.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
@@ -113,7 +113,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Chiara, for the networking items alongside your industrial and panel PCs, we supply Marvell-based DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?"
+   "one_question": "Chiara, for the networking items alongside your industrial and panel PCs, we supply DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?"
   },
   "facts": [
    {

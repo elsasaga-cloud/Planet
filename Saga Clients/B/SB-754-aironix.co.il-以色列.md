@@ -116,7 +116,7 @@ updated: 2026-10-25
   - 快照：内容为空
 - **风险/边界**：非主攻区（T5，以色列）；ORing（台湾）品牌粘性；8 次无回复 → 改向 CEO 具名首触；官网快照空
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——ORing 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）
-- **邮件切入句（英文）**：Yair, alongside the ORing industrial switches you distribute, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a lower-priced industrial position your integrator customers ask for?
+- **邮件切入句（英文）**：Yair, alongside the ORing industrial switches you distribute, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a lower-priced industrial position your integrator customers ask for?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

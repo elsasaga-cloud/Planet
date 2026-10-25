@@ -71,7 +71,7 @@
   "tier": 30,
   "why": "自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做"
  },
- "email_hook": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?",
+ "email_hook": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which configuration do your automation customers order most?",
  "mail_review": {
   "binding": {
    "level": "读而不回（A 邮箱 10 封 2025→2026，其中 2 封被打开，0 回；收件 shop@murrelektronik.de；被打开主题「16 Port Ethernet Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 murrelektronik.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））",
@@ -98,7 +98,7 @@
    "when": "2026-11",
    "channel": "A 邮箱 → shop@murrelektronik.de",
    "action": "短信一问（email_hook）",
-   "one_question": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which configuration do your automation customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
@@ -121,7 +121,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "One question — 16 Port Ethernet Switch",
-   "body": "Hello,\n\nWe have sent you a few mails on \"16 Port Ethernet Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+   "body": "Hello,\n\nWe have sent you a few mails on \"16 Port Ethernet Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which configuration do your automation customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
   },
   "as_of": "2026-10-24"
  }

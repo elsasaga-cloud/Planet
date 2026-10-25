@@ -275,7 +275,7 @@ Hi Wolfgang,
 
 Picking up our earlier exchange about PoE / industrial switches. Across the ALL-SGI line the 8-port gigabit PoE managed DIN unit with 2 SFP is where a Marvell-based second source makes the most sense, so I am quoting that in ALLNET packing with full CE/RoHS documentation, and can add the 4-port bt version if useful.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your ALLNET ALL-SGI8004P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your ALLNET ALL-SGI8004P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

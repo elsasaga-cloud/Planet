@@ -298,7 +298,7 @@ Hi Graham,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Securitytec（自有标，Utepo 源） NTP3-GSW0802S-MTP150 at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Securitytec（自有标，Utepo 源） NTP3-GSW0802S-MTP150 at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

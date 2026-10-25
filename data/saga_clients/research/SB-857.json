@@ -69,7 +69,7 @@
     "tier": 30,
     "why": "GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做"
   },
-  "email_hook": "For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?",
+  "email_hook": "For the GBS DIN-rail PoE switches in your range, we can be a second ODM source (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 sales@tmb.com；主题多为「Managed Optical Bypass Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-22「24 Port Fiber Switch」；To 仅本户 sales@tmb.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@tmb.com` 仅此 1 条，complete）（第 74 批(m)）",
@@ -96,7 +96,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "首封前知悉：Elsa 仅 2025-02-22 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；观察打开",
-      "one_question": "For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?"
+      "one_question": "For the GBS DIN-rail PoE switches in your range, we can be a second ODM source (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?"
     },
     "facts": [
       {

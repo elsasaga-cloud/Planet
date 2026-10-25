@@ -265,7 +265,7 @@ updated: 2026-10-25
 ```text
 Hi Elliot,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Elliot, alongside the PLANET and BDCOM switches you stock, we supply neutral-brand Marvell-based 24-PoE + 4 SFP L2+ (280 W) and 24-PoE + 4×10G models from small lots, FCC/CE/RoHS, EXW USD — is there a 24-port price band your security dealers ask for below the branded lines?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the PLANET and BDCOM switches you stock, we supply neutral-brand Marvell-based 24-PoE + 4 SFP L2+ (280 W) and 24-PoE + 4×10G models from small lots, FCC/CE/RoHS, EXW USD — is there a 24-port price band your security dealers ask for below the branded lines?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the BDCOM class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

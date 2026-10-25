@@ -17929,7 +17929,7 @@
 "tier": 30,
 "why": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档"
 },
-"email_hook": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?",
+"email_hook": "For the X-104GP-SFP slot in your shop, the 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 info@xcam.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 xcam.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(f)））",
@@ -17956,7 +17956,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?"
+"one_question": "For the X-104GP-SFP slot in your shop, the 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?"
 },
 "facts": [
 {
@@ -33885,7 +33885,7 @@
 "tier": 25,
 "why": "网店在售 8 PoE + 2 SFP 管理型工业机 ≈US$390 零售；STI-288DGGPM EXW 对位 + STI-144GP（4+1）替其 4 口管理 + FO 位；工业/矿业方案商 25% 档"
 },
-"email_hook": "Your 8-port PoE + 2 SFP managed industrial switch is listed at CLP 370,000; the Marvell-based equivalent I supply lands well under half of that EXW, with the 4+1 compact unit for your pump and well sites.",
+"email_hook": "Your 8-port PoE + 2 SFP managed industrial switch is listed at CLP 370,000; the equivalent I supply lands well under half of that EXW, with the 4+1 compact unit for your pump and well sites.",
 "mail_review": {
 "binding": {
 "level": "未绑定（2024-09 问价与 MOQ → STI-154GP 38 USD、MOQ 1 → 无下文；Elsa 箱：`to:energyplusystems.cl` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 1）（第 74 批(g)））",
@@ -44161,7 +44161,7 @@
 "tier": 30,
 "why": "DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档"
 },
-"email_hook": "Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a Marvell-based gigabit PoE DIN switch in 8+2 SFP and 4+1 formats under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.",
+"email_hook": "Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a gigabit PoE DIN switch in 8+2 SFP and 4+1 formats (the 8+2 also as a Marvell-based managed version) under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.",
 "mail_review": {
 "binding": {
 "level": "未绑定（0 回复：档案里的 1 封「来信」是 Alpha Net 的 Nate 回群发时抄送 bpatton@data-connect.com，非 DCE 回复；Elsa 箱：`to:data-connect.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 1）（第 74 批(g)））",
@@ -110710,7 +110710,7 @@
 "tier": 25,
 "why": "工业 switch（现国内外壳）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）"
 },
-"email_hook": "For the industrial switches on your /switch/ page, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS; neutral packing) from single units, EXW USD — which configuration do your Japanese customers order most?",
+"email_hook": "For the industrial switches on your /switch/ page, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; neutral packing; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Japanese customers order most?",
 "mail_review": {
 "binding": {
 "level": "未绑定（询问阶段；Alan 2026-04-24 已允诺**免费借样**测试「lending a piece is OK… how will you send it back?」，对方未接、未给中国货代地址）；Elsa 1:1 去信 2 轮 2025-05-02→2025-06-23（To 仅本户 info@unea-x.com；头 msg 1979adf13b0bbff3 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Mini Industrial PoE Switch、16 Port Ethernet Switch；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete，直收 2 条、无 Re: 行）",
@@ -119323,7 +119323,7 @@
 "tier": 20,
 "why": "分销工业交换机 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）"
 },
-"email_hook": "Gireesh, for the industrial switches you distribute in the UAE, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — which configuration do your customers order most, and does Magnus have a company email I should use?",
+"email_hook": "Gireesh, for the industrial switches you distribute in the UAE, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots, EXW USD — which configuration do your customers order most, and does Magnus have a company email I should use?",
 "mail_review": {
 "binding": {
 "level": "未发信（S/A 邮箱均无往来；来源：用户表「分销工业交换机 / from: 领英」；Elsa 箱：`to:gireeshk70@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
@@ -121065,7 +121065,7 @@
 "tier": 20,
 "why": "名牌组合分销（研华等）→ 白牌契合低；入门位工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）作价格补充线；bypass 需求 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明 SmartByte 型号，$186.5 @20%）"
 },
-"email_hook": "Alongside the Advantech and other named industrial switch brands in your portfolio, we can supply a Marvell-based neutral-brand DIN-rail 8-GE + 2 SFP line (and a 12-port bypass model) from small lots for price-sensitive projects — is there room for a budget tier in your industrial Ethernet range?",
+"email_hook": "Alongside the Advantech and other named industrial switch brands in your portfolio, we can supply a neutral-brand DIN-rail 8-GE + 2 SFP line (unmanaged, or managed on a Marvell platform) (and a 12-port bypass model) from small lots for price-sensitive projects — is there room for a budget tier in your industrial Ethernet range?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@besd.nl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）",
@@ -121092,7 +121092,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Alongside the Advantech and other named industrial switch brands in your portfolio, we can supply a Marvell-based neutral-brand DIN-rail 8-GE + 2 SFP line (and a 12-port bypass model) from small lots for price-sensitive projects — is there room for a budget tier in your industrial Ethernet range?"
+"one_question": "Alongside the Advantech and other named industrial switch brands in your portfolio, we can supply a neutral-brand DIN-rail 8-GE + 2 SFP line (unmanaged, or managed on a Marvell platform) (and a 12-port bypass model) from small lots for price-sensitive projects — is there room for a budget tier in your industrial Ethernet range?"
 },
 "facts": [
 {
@@ -124942,7 +124942,7 @@
 "tier": 30,
 "why": "无线站点配套 PoE 交换机（RADWIN 标）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$85.5 @30%）/ 4 PoE STI-154GP（$40.8）；室外 IP67 Saga 不做"
 },
-"email_hook": "Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?",
+"email_hook": "Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (the 8-PoE managed version on a Marvell platform) under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 dave_a@radwin.com, sharon_sher@radwin.com；主题多为「10G Enterprise SFP Switch、10G L3 Managed Switch」；Elsa 箱：`to:radwin.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(n)））",
@@ -124969,7 +124969,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?"
+"one_question": "Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (the 8-PoE managed version on a Marvell platform) under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?"
 },
 "facts": [
 {
@@ -133252,7 +133252,7 @@
 "tier": 25,
 "why": "无线站点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）、8 GE + 2 SFP STI-280GE（$48.6）"
 },
-"email_hook": "Wayne, for the switches at your microwave link sites and tower cabinets, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS; RCM by your side) from single units, EXW USD — which site configuration do your building-to-building links use most?",
+"email_hook": "Wayne, for the switches at your microwave link sites and tower cabinets, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; RCM by your side; the 8-PoE managed version on a Marvell platform) from single units, EXW USD — which site configuration do your building-to-building links use most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 32 封 2024→2026，1 次记录打开，0 回；收件 wayne@wave1.com.au, wayneand4305@icloud.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:wave1.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 0）（第 74 批(n)））",
@@ -133279,7 +133279,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Wayne, for the switches at your microwave link sites and tower cabinets, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS; RCM by your side) from single units, EXW USD — which site configuration do your building-to-building links use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Wayne, for the switches at your microwave link sites and tower cabinets, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; RCM by your side; the 8-PoE managed version on a Marvell platform) from single units, EXW USD — which site configuration do your building-to-building links use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -141861,7 +141861,7 @@
 "tier": 25,
 "why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）"
 },
-"email_hook": "Robin, for the industrial switches in your projects, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — which configuration do your Singapore installations use most?",
+"email_hook": "Robin, for the industrial switches in your projects, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Singapore installations use most?",
 "mail_review": {
 "binding": {
 "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 3 封被打开，0 回；收件 info@grep.sg, robin@grep.sg；被打开主题「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:grep.sg` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(n)））",
@@ -141888,7 +141888,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → robin@grep.sg（Robin Luo；只发他，不抄 info@）",
 "action": "短信一问（email_hook）",
-"one_question": "Robin, for the industrial switches in your projects, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — which configuration do your Singapore installations use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Robin, for the industrial switches in your projects, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Singapore installations use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -141911,7 +141911,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Industrial PoE Switch",
-"body": "Hi Robin,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches in your projects, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — which configuration do your Singapore installations use most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi Robin,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches in your projects, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Singapore installations use most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -145536,7 +145536,7 @@
 "tier": 20,
 "why": "其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；分销/网店 → 20%（沿用 Planet 档案 PB-065）；需求："
 },
-"email_hook": "Your industrial DIN-rail shelf already mixes PLANET (ISW-621 class) with Chinese-made Scodeno units; a Marvell-based 8-port Gigabit + 2 SFP industrial switch at EXW fits the WISP tower slot between the two on price and spec. For the industrial DIN-rail switches your WISP customers buy for towers, is the unmanaged 8×GE + 2×SFP the volume model, or do they still take Fast Ethernet units like the ISW-621?",
+"email_hook": "Your industrial DIN-rail shelf already mixes PLANET (ISW-621 class) with Chinese-made Scodeno units; an 8-port Gigabit + 2 SFP industrial switch at EXW fits the WISP tower slot between the two on price and spec. For the industrial DIN-rail switches your WISP customers buy for towers, is the unmanaged 8×GE + 2×SFP the volume model, or do they still take Fast Ethernet units like the ISW-621?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 artur@wisp.pl, sklep@wisp.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）",
@@ -148596,7 +148596,7 @@
 "tier": 20,
 "why": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）"
 },
-"email_hook": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD; KC by your side — which configuration sells most in your panels?",
+"email_hook": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD; KC by your side — which configuration sells most in your panels?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 29 封 2024→2026，1 次记录打开，0 回；收件 sales@servo-tech.co.kr；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:servo-tech.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(n)））",
@@ -148623,7 +148623,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD; KC by your side — which configuration sells most in your panels? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD; KC by your side — which configuration sells most in your panels? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -150312,7 +150312,7 @@
 "tier": 20,
 "why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）"
 },
-"email_hook": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?",
+"email_hook": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing; managed versions on a Marvell platform) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 36 封 2024→2026，1 次记录打开，0 回；收件 master@factos.co.kr；主题多为「Booster PoE Switch、Industrial PoE Switch」；Elsa 箱：`to:top-fa.com OR to:factos.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 36 / 来 0）（第 74 批(n)））",
@@ -150339,7 +150339,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing; managed versions on a Marvell platform) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -151347,7 +151347,7 @@
 "tier": 20,
 "why": "光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）"
 },
-"email_hook": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?",
+"email_hook": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 unitel@unitelco.co.kr；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）；Elsa 1:1 去信 1 封（2025-02-28「Mini Industrial PoE Switch」；To 仅本户 unitel@unitelco.co.kr；头 msg 19fcbedfe7807ff7 核对无 Bcc，称呼「Hi, Faisal」= 个性化逐月 1:1 名单；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:unitel@unitelco.co.kr` 仅此 1 条，complete）（第 74 批(m)）",
@@ -151374,7 +151374,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
-"one_question": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -159490,7 +159490,7 @@
 "tier": 20,
 "why": "在售 PLANET IP30 工业 4 口 PoE / 5 口 slim → 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）；MC 位 STI-110GE（$22.4）"
 },
-"email_hook": "Jacqueline, alongside the PLANET IP30 industrial 4/5-port switches and media converters you list, we supply Marvell-based DIN-rail 4-PoE + 1 GE, 5-GE and gigabit MC units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which PLANET model do your installers order most?",
+"email_hook": "Jacqueline, alongside the PLANET IP30 industrial 4/5-port switches and media converters you list, we supply DIN-rail 4-PoE + 1 GE, 5-GE and gigabit MC units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which PLANET model do your installers order most?",
 "products_seen": [
 {
 "brand": "PLANET",
@@ -171245,7 +171245,7 @@
 "tier": 30,
 "why": "户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM"
 },
-"email_hook": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?",
+"email_hook": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 ken.burgner@altelix.com, ryan.sheehan@altelix.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:altelix.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(h)））",
@@ -171272,7 +171272,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?"
+"one_question": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?"
 },
 "facts": [
 {
@@ -180714,7 +180714,7 @@
 "tier": 30,
 "why": "自有品牌光纤传输线中 MC / 以太网交换机外采 → 工业 MC STI-110GE（$24.3 @30%）、工业 8 GE STI-080GE（$34.0）贴 Fibersystem 标；数据二极管/TEMPEST（政府/国防）线不碰"
 },
-"email_hook": "Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply Marvell-based DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers?",
+"email_hook": "Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers?",
 "country_fix": "瑞典",
 "mail_review": {
 "binding": {
@@ -180742,7 +180742,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → anne.ekblad@fibersystem.com（Anne Ekblad）",
 "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-"one_question": "Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply Marvell-based DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -180977,7 +180977,7 @@
 "tier": 20,
 "why": "线缆主业配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 商用 MC 用 HRUI 桌面型（列表价，注明）；国防客户不涉（守界）"
 },
-"email_hook": "Alongside your fibre assemblies, we supply Marvell/Realtek-based gigabit media converters and 8-GE + 2 SFP switches (industrial −40~75 °C or desktop, FCC/CE/RoHS, neutral packing) from small lots, EXW USD — which MC configuration do your telecom and industrial customers bundle most with cable orders?",
+"email_hook": "Alongside your fibre assemblies, we supply gigabit media converters and 8-GE + 2 SFP switches (industrial −40~75 °C or desktop, FCC/CE/RoHS, neutral packing) from small lots, EXW USD — which MC configuration do your telecom and industrial customers bundle most with cable orders?",
 "mail_review": {
 "binding": {
 "level": "未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）",
@@ -183191,7 +183191,7 @@
 "tier": 25,
 "why": "工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）"
 },
-"email_hook": "For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most?",
+"email_hook": "For the Ethernet switches in your electrical and instrumentation panels, we supply DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your industrial projects use most?",
 "mail_review": {
 "binding": {
 "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch」",
@@ -183218,7 +183218,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@grinsrl.it（无具名 KP；公用地址）",
 "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-"one_question": "For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the Ethernet switches in your electrical and instrumentation panels, we supply DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your industrial projects use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -185461,7 +185461,7 @@
 "tier": 20,
 "why": "USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做"
 },
-"email_hook": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?",
+"email_hook": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?",
 "mail_review": {
 "binding": {
 "level": "Elsa 群发 To 直收 13 轮 2025-02-17→2026-08-13（本户是「SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户」批次的锚：首轮 2025-02-17 本户在 Bcc、To 为 info@megamobile.be，2025-03-08 起每轮 To 本户、其余客户 Bcc；最近 2026-08-13「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS 光猫 一小部分 多数还是其他的」",
@@ -185488,7 +185488,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@iotkomponenty.sk（无具名 KP；公用地址）",
 "action": "首封前知悉：Elsa 已 To 直发 13 轮（2025-02-17→2026-08-13）（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-"one_question": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -187749,7 +187749,7 @@
 "tier": 20,
 "why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、PoE 版 STI-288GPM（$78.9）"
 },
-"email_hook": "For the industrial switches you source, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?",
+"email_hook": "For the industrial switches you source, we supply DIN-rail 8-GE + 2 SFP managed (Marvell platform) and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?",
 "mail_review": {
 "binding": {
 "level": "未触达（S 邮箱 7 封 2024，1 次记录打开，0 回；收件 info@kargor.com；主题多为「Industrial PoE Switch、10G fiber media converter」）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）",
@@ -187776,7 +187776,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "For the industrial switches you source, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?"
+"one_question": "For the industrial switches you source, we supply DIN-rail 8-GE + 2 SFP managed (Marvell platform) and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?"
 },
 "facts": [
 {
@@ -188592,7 +188592,7 @@
 "tier": 30,
 "why": "自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标"
 },
-"email_hook": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit?",
+"email_hook": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit?",
 "mail_review": {
 "binding": {
 "level": "Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IN/BD+TR 个别 批次 To info@rasatechbd.com，0 回（第 74 批 Bcc 头核对 msg 1a01d6edda8ab595）；S/A 箱：S/A 邮箱均无往来；来源：用户表「从VOLKTEK 买工业交换机」",
@@ -188619,7 +188619,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@klemsan.com.tr（无具名 KP；公用地址）",
 "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-"one_question": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -189103,7 +189103,7 @@
 "tier": 20,
 "why": "在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE"
 },
-"email_hook": "Alongside the Planet industrial switches and converters you list with your fiber assemblies, we supply Marvell-based DIN-rail 8-GE + 2 SFP (and PoE) switches and gigabit media converters in neutral packing from small lots, CE/RoHS — which Planet model sells most in your shop?",
+"email_hook": "Alongside the Planet industrial switches and converters you list with your fiber assemblies, we supply DIN-rail 8-GE + 2 SFP (and PoE) switches (managed versions on a Marvell platform) and gigabit media converters in neutral packing from small lots, CE/RoHS — which Planet model sells most in your shop?",
 "mail_review": {
 "binding": {
 "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS(planet) MC 周边产品 销售平台」",
@@ -189757,7 +189757,7 @@
 "tier": 20,
 "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
 },
-"email_hook": "Alongside the industrial switch brands you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your customers ask for?",
+"email_hook": "Alongside the industrial switch brands you carry, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?",
 "mail_review": {
 "binding": {
 "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 info@marcomweb.it；主题多为「24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）",
@@ -189784,7 +189784,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Alongside the industrial switch brands you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your customers ask for?"
+"one_question": "Alongside the industrial switch brands you carry, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?"
 },
 "facts": [
 {
@@ -190978,7 +190978,7 @@
 "tier": 20,
 "why": "其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求："
 },
-"email_hook": "Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a Marvell-based, neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?",
+"email_hook": "Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?",
 "mail_review": {
 "binding": {
 "level": "Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）；S/A 箱：S/A 邮箱均无往来；来源：调研建档",
@@ -193801,7 +193801,7 @@
 "tier": 25,
 "why": "RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）"
 },
-"email_hook": "For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?",
+"email_hook": "For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?",
 "country_fix": "立陶宛",
 "mail_review": {
 "binding": {
@@ -193829,7 +193829,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?"
+"one_question": "For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?"
 },
 "facts": [
 {
@@ -197910,7 +197910,7 @@
 "tier": 20,
 "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP"
 },
-"email_hook": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?",
+"email_hook": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?",
 "mail_review": {
 "binding": {
 "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch」",
@@ -197937,7 +197937,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@spesaelettrica.it（无具名 KP；公用地址）",
 "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-"one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -199590,7 +199590,7 @@
 "tier": 20,
 "why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）"
 },
-"email_hook": "For the industrial switches you supply, we offer neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which configuration do your customers order most?",
+"email_hook": "For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most?",
 "mail_review": {
 "binding": {
 "level": "Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS」",
@@ -199617,7 +199617,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → villa@frekvent.com",
 "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-"one_question": "For the industrial switches you supply, we offer neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -216862,7 +216862,7 @@
 "tier": 30,
 "why": "自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无"
 },
-"email_hook": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?",
+"email_hook": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request; managed versions on a Marvell platform) from small lots under your label, CE/RoHS — which model would you dual-source first?",
 "products_seen": [
 {
 "brand": "Contemporary Controls（自有 CTRLink）",
@@ -216907,7 +216907,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?"
+"one_question": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request; managed versions on a Marvell platform) from small lots under your label, CE/RoHS — which model would you dual-source first?"
 },
 "facts": [
 {
@@ -220306,7 +220306,7 @@
 "tier": 30,
 "why": "Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE"
 },
-"email_hook": "Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?",
+"email_hook": "Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source (5/8-port DIN-rail, −40~75 °C; 8-port desktop; managed versions on a Marvell platform) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 20 封 2025→2026，无记录打开，0 回；收件 darren.casey@lindy.co.uk, internationalsales@lindy.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-21「Mini Industrial PoE Switch」；To 仅本户 internationalsales@lindy.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:internationalsales@lindy.com` 仅此 1 条，complete）（第 74 批(m)）",
@@ -220333,7 +220333,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "首封前知悉：Elsa 仅 2025-02-21 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
-"one_question": "Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source (5/8-port DIN-rail, −40~75 °C; 8-port desktop; managed versions on a Marvell platform) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -220839,7 +220839,7 @@
 "tier": 30,
 "why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM"
 },
-"email_hook": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?",
+"email_hook": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?",
 "mail_review": {
 "binding": {
 "level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 4 封被打开，0 回；收件 george@ltsecurityinc.com.au, info@ltsecurityinc.com.au；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-14「24 Port Fiber Switch」；To 仅本户 george@ltsecurityinc.com.au；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:george@ltsecurityinc.com.au` 仅此 1 条，complete）（第 74 批(m)）",
@@ -220866,7 +220866,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → george@ltsecurityinc.com.au",
 "action": "首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
-"one_question": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -220898,7 +220898,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Marvell Industrial Alert System",
-"body": "Hi George,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi George,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -223378,7 +223378,7 @@
 "tier": 30,
 "why": "自有 TP-SW5G-D（DIN 5 口千兆 4 PoE）→ Saga STI-054GP（工业 4 PoE + 1 GE，$33.8 @30%）贴 Tycon 标；带 SFP 位 STI-154GP（$40.8）；管理型 STI-288GPM"
 },
-"email_hook": "Andy, for the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build Marvell-based 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?",
+"email_hook": "Andy, for the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?",
 "products_seen": [
 {
 "brand": "Tycon（自有）",
@@ -237939,7 +237939,7 @@
 "tier": 25,
 "why": "现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做"
 },
-"email_hook": "Gianni, next to the Maiwe industrial switches you specify, we supply Marvell-based DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent?",
+"email_hook": "Gianni, next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent?",
 "products_seen": [
 {
 "brand": "Maiwe",
@@ -237984,7 +237984,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
-"one_question": "Gianni, next to the Maiwe industrial switches you specify, we supply Marvell-based DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Gianni, next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -245591,7 +245591,7 @@
 "tier": 20,
 "why": "工业 FS/MC（现 XPS/ONV）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GP（$57.4）、工业千兆 MC STI-110GE（$22.4）；视频光端机 Saga 不供"
 },
-"email_hook": "Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP units and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?",
+"email_hook": "Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand DIN-rail 8-GE/8-PoE + 2 SFP units (managed versions on a Marvell platform) and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@eretekne.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:eretekne.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））",
@@ -245618,7 +245618,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP units and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?"
+"one_question": "Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand DIN-rail 8-GE/8-PoE + 2 SFP units (managed versions on a Marvell platform) and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?"
 },
 "facts": [
 {
@@ -251032,7 +251032,7 @@
 "tier": 20,
 "why": "工业自动化配套网络 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 非 PoE STI-280GE；MC 位 STI-110GE；加固/轨道（EN50155）场景不报"
 },
-"email_hook": "Chiara, for the networking items alongside your industrial and panel PCs, we supply Marvell-based DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?",
+"email_hook": "Chiara, for the networking items alongside your industrial and panel PCs, we supply DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 c.beriachetto@sisav.it, i.cianciola@sisav.it；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:sisav.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
@@ -251059,7 +251059,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Chiara, for the networking items alongside your industrial and panel PCs, we supply Marvell-based DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?"
+"one_question": "Chiara, for the networking items alongside your industrial and panel PCs, we supply DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?"
 },
 "facts": [
 {
@@ -251378,7 +251378,7 @@
 "tier": 25,
 "why": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换"
 },
-"email_hook": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply Marvell-based DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?",
+"email_hook": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?",
 "products_seen": [
 {
 "brand": "ICP DAS",
@@ -251423,7 +251423,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply Marvell-based DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?"
+"one_question": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?"
 },
 "facts": [
 {
@@ -266074,7 +266074,7 @@
 "tier": 20,
 "why": "在售 PLANET ISW-511T（4 PoE + 1）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）；IGS-4215-4T2S 位 STI-244GPM（$64.6）；自有 logo 可贴"
 },
-"email_hook": "Alongside the PLANET ISW-511T and IGS-4215 industrial switches you list, we supply Marvell-based DIN-rail 4-PoE + 1 GE and 4-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) under neutral or your own label from small lots, EXW USD — which PLANET model do your cabinet projects use most?",
+"email_hook": "Alongside the PLANET ISW-511T and IGS-4215 industrial switches you list, we supply DIN-rail 4-PoE + 1 GE and 4-PoE + 2 SFP units (−40~75 °C, CE/RoHS; the managed one on a Marvell platform) under neutral or your own label from small lots, EXW USD — which PLANET model do your cabinet projects use most?",
 "products_seen": [
 {
 "brand": "PLANET",
@@ -279757,7 +279757,7 @@
 "tier": 30,
 "why": "自有 logo 光纤 MC 多外壳 → 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 GAO 标；工业 FS 位 STI-080GE；商用桌面 MC Saga 价目无（HRUI 待核）"
 },
-"email_hook": "Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?",
+"email_hook": "Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches; managed versions on a Marvell platform) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?",
 "mail_review": {
 "binding": {
 "level": "未触达（1 封自动回复）；退信：sales@gaotek.com 2025-06-26；Elsa 箱：`to:gaotek.com OR to:gaorfid.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 1）（第 74 批(h)）",
@@ -283162,7 +283162,7 @@
 "tier": 30,
 "why": "自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM"
 },
-"email_hook": "For your IPS-series industrial PoE switches (16/24-port), we build Marvell-based DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?",
+"email_hook": "For your IPS-series industrial PoE switches (16/24-port), we build DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?",
 "products_seen": [
 {
 "brand": "Main Tech Connect（自有）",
@@ -283215,7 +283215,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "For your IPS-series industrial PoE switches (16/24-port), we build Marvell-based DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often? Reference: STI-21616GP at $185 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For your IPS-series industrial PoE switches (16/24-port), we build DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often? Reference: STI-21616GP at $185 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -284676,7 +284676,7 @@
 "tier": 30,
 "why": "ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。"
 },
-"email_hook": "For the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?",
+"email_hook": "For the ROBOfiber switch and media-converter lines — DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?",
 "mail_review": {
 "binding": {
 "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 4 封被打开，0 回；收件 sales@robofiber.com；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:robofiber.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
@@ -284703,7 +284703,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → sales@robofiber.com",
 "action": "短信一问（email_hook）",
-"one_question": "For the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the ROBOfiber switch and media-converter lines — DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -284726,7 +284726,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Industrial PoE Switch",
-"body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the ROBOfiber switch and media-converter lines — DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -291061,7 +291061,7 @@
 "tier": 25,
 "why": "工业 PoE 用户 → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）"
 },
-"email_hook": "Sahil, for the industrial PoE switches in your CCTV and ANPR installations, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 802.3at/bt options, CE/RoHS/UKCA) from single units, EXW USD — which port count do your outdoor cabinets use most?",
+"email_hook": "Sahil, for the industrial PoE switches in your CCTV and ANPR installations, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 802.3at/bt options, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — which port count do your outdoor cabinets use most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 info@trksolutions.co.uk；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 trksolutions.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(f)））",
@@ -291088,7 +291088,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Sahil, for the industrial PoE switches in your CCTV and ANPR installations, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 802.3at/bt options, CE/RoHS/UKCA) from single units, EXW USD — which port count do your outdoor cabinets use most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Sahil, for the industrial PoE switches in your CCTV and ANPR installations, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 802.3at/bt options, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — which port count do your outdoor cabinets use most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -311854,7 +311854,7 @@
 "tier": 30,
 "why": "自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做"
 },
-"email_hook": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?",
+"email_hook": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which configuration do your automation customers order most?",
 "mail_review": {
 "binding": {
 "level": "读而不回（A 邮箱 10 封 2025→2026，其中 2 封被打开，0 回；收件 shop@murrelektronik.de；被打开主题「16 Port Ethernet Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 murrelektronik.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））",
@@ -311881,7 +311881,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → shop@murrelektronik.de",
 "action": "短信一问（email_hook）",
-"one_question": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which configuration do your automation customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -311904,7 +311904,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — 16 Port Ethernet Switch",
-"body": "Hello,\n\nWe have sent you a few mails on \"16 Port Ethernet Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hello,\n\nWe have sent you a few mails on \"16 Port Ethernet Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which configuration do your automation customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -322825,7 +322825,7 @@
 "tier": 30,
 "why": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）"
 },
-"email_hook": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?",
+"email_hook": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your packaging — which port count do your automation panels use most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 17 封 2024→2026，1 次记录打开，0 回；收件 abdullahaydin@gmtcontrol.com, gmt@gmtcontrol.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:gmtcontrol.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(i)））",
@@ -322852,7 +322852,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?"
+"one_question": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your packaging — which port count do your automation panels use most?"
 },
 "facts": [
 {
@@ -337083,7 +337083,7 @@
 "tier": 25,
 "why": "无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）"
 },
-"email_hook": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your energy and smart-city sites use most?",
+"email_hook": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing; the 8-PoE managed version on a Marvell platform) from small lots, EXW USD — which port count do your energy and smart-city sites use most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abdurrahman.pehlivanoglu@radioteknoloji.com.tr, info@radioteknoloji.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:radioteknoloji.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(i)））",
@@ -337110,7 +337110,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your energy and smart-city sites use most?"
+"one_question": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing; the 8-PoE managed version on a Marvell platform) from small lots, EXW USD — which port count do your energy and smart-city sites use most?"
 },
 "facts": [
 {
@@ -342959,7 +342959,7 @@
 "tier": 30,
 "why": "自有 logo 少量交换机（配电柜/自动化配套）→ 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Eltech 标"
 },
-"email_hook": "Todd, for the Eltech-branded switches you offer with your automation and switchboard range, we can supply Marvell-based DIN-rail 5/8-port gigabit units under your label from small lots (−40~75 °C, 12–58 VDC, CE/RoHS) — which port count do your electrical customers pick most?",
+"email_hook": "Todd, for the Eltech-branded switches you offer with your automation and switchboard range, we can supply DIN-rail 5/8-port gigabit units under your label from small lots (−40~75 °C, 12–58 VDC, CE/RoHS) — which port count do your electrical customers pick most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 32 封 2024→2026，无记录打开，0 回；收件 jolyn.soo@eltech.com.au, sales@eltech.com.au；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:eltech.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 0）（第 74 批(n)））",
@@ -342986,7 +342986,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Todd, for the Eltech-branded switches you offer with your automation and switchboard range, we can supply Marvell-based DIN-rail 5/8-port gigabit units under your label from small lots (−40~75 °C, 12–58 VDC, CE/RoHS) — which port count do your electrical customers pick most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Todd, for the Eltech-branded switches you offer with your automation and switchboard range, we can supply DIN-rail 5/8-port gigabit units under your label from small lots (−40~75 °C, 12–58 VDC, CE/RoHS) — which port count do your electrical customers pick most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -343302,7 +343302,7 @@
 "tier": 20,
 "why": "自动化配套小型工业交换机（现 SW05E 类 5 口）→ 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）"
 },
-"email_hook": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?",
+"email_hook": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 info@eso.co.th, sales@eso.co.th；主题多为「Mini Industrial PoE Switch、Industrial PoE Switch」；Elsa 箱：`to:eso.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(n)））",
@@ -343329,7 +343329,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?"
+"one_question": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?"
 },
 "facts": [
 {
@@ -347309,7 +347309,7 @@
 "tier": 30,
 "why": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）"
 },
-"email_hook": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?",
+"email_hook": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?",
 "mail_review": {
 "binding": {
 "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 3 封被打开，0 回；收件 scale@goriver.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）；Elsa 1:1 去信 1 封（2025-02-25「16 Port Ethernet Switch」；To 仅本户 scale@goriver.co.kr；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:scale@goriver.co.kr` 仅此 1 条，complete）（第 74 批(m)）",
@@ -347336,7 +347336,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → scale@goriver.co.kr",
 "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
-"one_question": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -347368,7 +347368,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Managed Optical Bypass Switch",
-"body": "Hi Scale,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi Scale,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -354791,7 +354791,7 @@
 "tier": 30,
 "why": "加油机/站点机柜小口数工业 PoE → 工业 4 PoE + 1 GE 非管理 STI-154GP（$40.8 @30%）/ 8 PoE + 2 SFP STI-288GP（$62.2）贴 AvaLAN 标；管理版 STI-288GPM"
 },
-"email_hook": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS) under your label from small lots — which port count do your dispenser and canopy installs use most?",
+"email_hook": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS; managed versions on a Marvell platform) under your label from small lots — which port count do your dispenser and canopy installs use most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 cindy.powers@avalan.com, nigel.widner@avalan.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:avalan.com OR to:volumeinc.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(h)））",
@@ -354818,7 +354818,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS) under your label from small lots — which port count do your dispenser and canopy installs use most? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS; managed versions on a Marvell platform) under your label from small lots — which port count do your dispenser and canopy installs use most? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -355174,7 +355174,7 @@
 "tier": 30,
 "why": "自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大"
 },
-"email_hook": "For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build Marvell-based 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first?",
+"email_hook": "For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first?",
 "products_seen": [
 {
 "brand": "CommFront（自有）",
@@ -355219,7 +355219,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
-"one_question": "For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build Marvell-based 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -361429,7 +361429,7 @@
 "tier": 30,
 "why": "自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工"
 },
-"email_hook": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?",
+"email_hook": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which model do you reorder most often?",
 "products_seen": [
 {
 "brand": "JDK（自有）",
@@ -361466,7 +361466,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → info@jdktech.com.au",
 "action": "首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
-"one_question": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which model do you reorder most often? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -361498,7 +361498,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Managed Optical Bypass Switch",
-"body": "Hello,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?\n\nReference price: DIN-rail 4-PoE + 1-GE + 1-SFP unmanaged industrial switch (STI-154GP) $40.8 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hello,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which model do you reorder most often?\n\nReference price: DIN-rail 4-PoE + 1-GE + 1-SFP unmanaged industrial switch (STI-154GP) $40.8 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -365500,7 +365500,7 @@
 "tier": 30,
 "why": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做"
 },
-"email_hook": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most?",
+"email_hook": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 sales@netsys-america.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:netsys-direct.com OR to:netsys-america.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(h)））",
@@ -365527,7 +365527,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -372776,7 +372776,7 @@
 "tier": 20,
 "why": "VIPA 标工业交换机为配套线（由其品牌方供货）→ 白牌切入点弱；入门位工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充"
 },
-"email_hook": "Alongside the VIPA-branded industrial switches in your PLC accessories, we can supply Marvell-based DIN-rail 5/8-port gigabit units in neutral packing from small lots (−40~75 °C, FCC/CE/RoHS) for price-sensitive panels — do your integrator customers ask for a lower-cost switch option?",
+"email_hook": "Alongside the VIPA-branded industrial switches in your PLC accessories, we can supply DIN-rail 5/8-port gigabit units in neutral packing from small lots (−40~75 °C, FCC/CE/RoHS) for price-sensitive panels — do your integrator customers ask for a lower-cost switch option?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 info@vipausa.com, ventas@vipausa.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」；Elsa 箱：`to:vipausa.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(h)））",
@@ -372803,7 +372803,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Alongside the VIPA-branded industrial switches in your PLC accessories, we can supply Marvell-based DIN-rail 5/8-port gigabit units in neutral packing from small lots (−40~75 °C, FCC/CE/RoHS) for price-sensitive panels — do your integrator customers ask for a lower-cost switch option? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Alongside the VIPA-branded industrial switches in your PLC accessories, we can supply DIN-rail 5/8-port gigabit units in neutral packing from small lots (−40~75 °C, FCC/CE/RoHS) for price-sensitive panels — do your integrator customers ask for a lower-cost switch option? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -373630,7 +373630,7 @@
 "tier": 20,
 "why": "专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W"
 },
-"email_hook": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply Marvell-based DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version, neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?",
+"email_hook": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version (Marvell platform), neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 30 封 2024→2026，1 次记录打开，0 回；收件 faisal@zoomlinenetwork.com, sales@zoomlinenetwork.com；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 7 轮 2025-04-09→2025-11-20（锚 To amr_sha@hotmail.com 7 轮 2025-04-09→2025-11-20；锚至少发到 2026-09-08，本户 2025-11-20 后不再在 Bcc（Elsa 剔出）；本户在 Bcc；主题 Mini Industrial PoE Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:zoomlinenetwork.com` 全程 complete：命中 7 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
@@ -373657,7 +373657,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-09→2025-11-20，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封",
-"one_question": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply Marvell-based DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version, neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version (Marvell platform), neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -386104,7 +386104,7 @@
 "tier": 20,
 "why": "工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）"
 },
-"email_hook": "For the switches you bundle with your industrial PCs and Delock accessories, we supply Marvell-based DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?",
+"email_hook": "For the switches you bundle with your industrial PCs and Delock accessories, we supply DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@kmsoltec.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）",
@@ -386131,7 +386131,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "For the switches you bundle with your industrial PCs and Delock accessories, we supply Marvell-based DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?"
+"one_question": "For the switches you bundle with your industrial PCs and Delock accessories, we supply DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?"
 },
 "facts": [
 {
@@ -420528,7 +420528,7 @@
 "tier": 20,
 "why": "需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）"
 },
-"email_hook": "Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?",
+"email_hook": "Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?",
 "products_seen": [
 {
 "brand": "ORing",
@@ -420573,7 +420573,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?"
+"one_question": "Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?"
 },
 "facts": [
 {
@@ -425431,7 +425431,7 @@
 "tier": 20,
 "why": "ORing 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）"
 },
-"email_hook": "Yair, alongside the ORing industrial switches you distribute, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a lower-priced industrial position your integrator customers ask for?",
+"email_hook": "Yair, alongside the ORing industrial switches you distribute, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a lower-priced industrial position your integrator customers ask for?",
 "mail_review": {
 "binding": {
 "level": "轻度绑定→活线索（2026-08-13 Yair：「equivalent to Allied AT-GS910-24, 47 pcs, 300 pcs a year」→ Alan 给近似款 → Yair「customer target $150」→ Alan「$60 EXW… I think we can make it」；之后 Yair 无回，Alan 9-18 改发 16 口群发；Elsa 箱：`to:aironix.co.il` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 2）（第 74 批(n)））",
@@ -427619,7 +427619,7 @@
 "tier": 30,
 "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）"
 },
-"email_hook": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?",
+"email_hook": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?",
 "products_seen": [
 {
 "brand": "CCD（自有）",
@@ -427664,7 +427664,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → mk@ccdact.com",
 "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
-"one_question": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -427696,7 +427696,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Industrial PoE Switch",
-"body": "Hi Marcus,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi Marcus,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -432985,7 +432985,7 @@
 "tier": 20,
 "why": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）"
 },
-"email_hook": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?",
+"email_hook": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?",
 "mail_review": {
 "binding": {
 "level": "读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 daniel@madalix.co.il, info@madalix.co.il；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:madalix.co.il` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(n)））",
@@ -433012,7 +433012,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → daniel@madalix.co.il",
 "action": "短信一问（email_hook）",
-"one_question": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -433035,7 +433035,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Marvell Industrial Alert System",
-"body": "Hi Daniel,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi Daniel,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Maiwe industrial switches you carry with your industrial PCs, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -433231,7 +433231,7 @@
 "tier": 30,
 "why": "自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM"
 },
-"email_hook": "Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?",
+"email_hook": "Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 alexm@maplesystems.com, dianec@maplesystems.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:maplesystems.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(h)））",
@@ -433258,7 +433258,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?"
+"one_question": "Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?"
 },
 "facts": [
 {
@@ -433652,7 +433652,7 @@
 "tier": 30,
 "why": "无线回传站点配套 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 PoE + 1 SFP STI-154GP（$40.8）贴 Netronics 标；室内 STC-28DGGPM（$87.4）"
 },
-"email_hook": "For the PoE switches that aggregate your radios and cameras at remote sites, we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Netronics label from small lots — which port count do your wireless-surveillance kits need most?",
+"email_hook": "For the PoE switches that aggregate your radios and cameras at remote sites, we can supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS; the 8-PoE managed version on a Marvell platform) under the Netronics label from small lots — which port count do your wireless-surveillance kits need most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 info@netronicsnetworks.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:netronicsnetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(h)））",
@@ -433679,7 +433679,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "For the PoE switches that aggregate your radios and cameras at remote sites, we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Netronics label from small lots — which port count do your wireless-surveillance kits need most?"
+"one_question": "For the PoE switches that aggregate your radios and cameras at remote sites, we can supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS; the 8-PoE managed version on a Marvell platform) under the Netronics label from small lots — which port count do your wireless-surveillance kits need most?"
 },
 "facts": [
 {
@@ -443944,7 +443944,7 @@
 "tier": 20,
 "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
 },
-"email_hook": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — is there a budget industrial position your customers ask for?",
+"email_hook": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 sales@bcp-uk.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:britaniccablingproduction.com OR to:bcp-uk.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(j)））",
@@ -443971,7 +443971,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — is there a budget industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -446393,7 +446393,7 @@
 "tier": 20,
 "why": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE"
 },
-"email_hook": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?",
+"email_hook": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?",
 "mail_review": {
 "binding": {
 "level": "读而不回（A/S 邮箱 27 封 2024→2026，其中 2 封被打开，0 回；收件 sales@comtrol.co.uk, tim.jones@comtrol.co.uk；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-24「16 Port Ethernet Switch」；To 仅本户 sales@comtrol.co.uk；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@comtrol.co.uk` 仅此 1 条，complete）（第 74 批(m)）",
@@ -446420,7 +446420,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → tim.jones@comtrol.co.uk（Tim Jones；只发他，不抄 sales@）",
 "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 sales@comtrol.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）",
-"one_question": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -446452,7 +446452,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Marvell Industrial Alert System",
-"body": "Hi Tim,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi Tim,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Omnitron OmniConverter range you distribute, we supply industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-25"
 }
@@ -454602,7 +454602,7 @@
 "tier": 30,
 "why": "自有 INET 8 PoE 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 PoE + 2 SFP 位 STI-154GP（$40.8，注明端口差异）"
 },
-"email_hook": "For the INET industrial PoE switch range, we can serve as a second ODM source on a Marvell platform (DIN-rail 4-PoE and 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you currently source from a single supplier?",
+"email_hook": "For the INET industrial PoE switch range, we can serve as a second ODM source (DIN-rail 4-PoE and 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — is there a model in the range you currently source from a single supplier?",
 "products_seen": [
 {
 "brand": "IFOTEC（自有）",
@@ -459685,7 +459685,7 @@
 "tier": 30,
 "why": "Mencom 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、工业千兆 MC STI-110GE（$24.3）贴标作二供"
 },
-"email_hook": "John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?",
+"email_hook": "John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS; managed versions on a Marvell platform) in your packaging from small lots — which SKU would you want sampled first?",
 "mail_review": {
 "binding": {
 "level": "未触达（3 封来信全部自动回复；Elsa 箱：`to:mencom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 3）（第 74 批(h)））",
@@ -462074,7 +462074,7 @@
 "tier": 30,
 "why": "GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做"
 },
-"email_hook": "For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?",
+"email_hook": "For the GBS DIN-rail PoE switches in your range, we can be a second ODM source (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 sales@tmb.com；主题多为「Managed Optical Bypass Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-22「24 Port Fiber Switch」；To 仅本户 sales@tmb.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@tmb.com` 仅此 1 条，complete）（第 74 批(m)）",
@@ -462101,7 +462101,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "首封前知悉：Elsa 仅 2025-02-22 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；观察打开",
-"one_question": "For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?"
+"one_question": "For the GBS DIN-rail PoE switches in your range, we can be a second ODM source (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?"
 },
 "facts": [
 {
@@ -465177,7 +465177,7 @@
 "tier": 30,
 "why": "以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供"
 },
-"email_hook": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most?",
+"email_hook": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on our industrial platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 35 封 2025→2026，无记录打开，0 回；收件 contact@tracnova.com, ramesh@sitech-bitdriver.com；主题多为「Managed Optical Bypass Switch、90W PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-25「Mini Industrial PoE Switch」；To 仅本户 sales@sitech-bitdriver.com；头 msg 19fcbedfe7807ff7 核对无 Bcc，称呼「Hi, Faisal」= 个性化逐月 1:1 名单；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@sitech-bitdriver.com` 仅此 1 条，complete）（第 74 批(m)）",
@@ -465204,7 +465204,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
-"one_question": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on our industrial platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -469179,7 +469179,7 @@
 "tier": 20,
 "why": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套"
 },
-"email_hook": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?",
+"email_hook": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 10 封 2025→2026，1 次记录打开，0 回；收件 kontakt@segno.de；主题多为「16 Port Ethernet Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 wachendorff-prozesstechnik.de / segno.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））",
@@ -469206,7 +469206,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?"
+"one_question": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?"
 },
 "facts": [
 {
@@ -470790,7 +470790,7 @@
 "tier": 30,
 "why": "W&T 自产接口产品，交换机为补充线（贴标外采）→ 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）、5 口 STI-050GE（$18.5）、PoE STI-288GP"
 },
-"email_hook": "For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply Marvell-based DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?",
+"email_hook": "For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@wut.de；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-21「16 Port Ethernet Switch」；To 仅本户 info@wut.de；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@wut.de` 仅此 1 条，complete）（第 74 批(m)）",
@@ -470817,7 +470817,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 info@wut.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开",
-"one_question": "For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply Marvell-based DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?"
+"one_question": "For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?"
 },
 "facts": [
 {
@@ -473508,7 +473508,7 @@
 "tier": 30,
 "why": "自有 AIS 工业 PoE 线（AIS4001P / AIS2002P）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 口 STI-154GP 作二供；DC/400G 线 Saga 不做"
 },
-"email_hook": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?",
+"email_hook": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?",
 "products_seen": [
 {
 "brand": "AurCore（自有）",
@@ -473553,7 +473553,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?"
+"one_question": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?"
 },
 "facts": [
 {
@@ -488321,7 +488321,7 @@
 "tier": 20,
 "why": "三旺/Moxa 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）"
 },
-"email_hook": "Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?",
+"email_hook": "Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 ventes@gmidatabox.fr；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」；Elsa 箱：`to:.fr` 穷举 14 条（2026-10-25，锚批 Bcc 头已读）未见 gmidatabox.fr → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(f)））",
@@ -488348,7 +488348,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?"
+"one_question": "Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?"
 },
 "facts": [
 {
@@ -489401,7 +489401,7 @@
 "tier": 20,
 "why": "在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）"
 },
-"email_hook": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?",
+"email_hook": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?",
 "mail_review": {
 "binding": {
 "level": "读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 sales@kohen.ca；被打开主题「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:.ca` 穷举 13 条（2026-10-25，锚批 Bcc 头已读）未见 kohen.ca → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 0）（第 74 批(f)））",
@@ -489428,7 +489428,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → sales@kohen.ca",
 "action": "短信一问（email_hook）",
-"one_question": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -489451,7 +489451,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Industrial PoE Switch",
-"body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?\n\nReference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?\n\nReference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -494247,9 +494247,9 @@
 "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复"
 ],
 "saga_fit": {
-"p1": "STI-280GE",
+"p1": "STI-280GM",
 "tier": 30,
-"why": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标"
+"why": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标"
 },
 "email_hook": "For the Marvell-based positions in the Tayle range, we can offer industrial DIN-rail 8-GE + 2 SFP managed, industrial L3 16-PoE + 4×10G, and commercial 24-GE + 4×10G L2+ platforms in your packaging from small lots, CE/RoHS; EAC by your side — which Marvell SKU family would you evaluate first?",
 "mail_review": {
@@ -494264,13 +494264,13 @@
 "evidence": "gmail_digest：out 6；用户表：「实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
 },
 "situation": "俄罗斯 Тайле Tayle（俄罗斯网络设备制造商与分销商；表内「实力非常强，用 Oring 的，用 marvell 比较多；主要是 BADU 和丰润达的；和中国供应商合作很多，从很多国内供应商买 SFP；覆盖了很多产品」；KP A. Kuznetsova、A. Rubeko）；表内 1 次跟进无回复。",
-"need": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标",
+"need": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标",
 "breakpoint": "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复",
 "saga_now": {
-"p1": "STI-280GE",
+"p1": "STI-280GM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-01 $240（24 Port Fiber Switch）、2025-11-03 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-"why": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标",
+"why": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标",
 "repeat": [],
 "gaps": []
 },
@@ -498694,7 +498694,7 @@
 "tier": 30,
 "why": "CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供"
 },
-"email_hook": "Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source on a Marvell platform — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?",
+"email_hook": "Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ (Marvell platform) — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 iletisim@cebecigrup.com, mustafaengin@cebecigrup.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:cebecigrup.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））",
@@ -498721,7 +498721,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source on a Marvell platform — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?"
+"one_question": "Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ (Marvell platform) — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?"
 },
 "facts": [
 {
@@ -506285,7 +506285,7 @@
 "tier": 20,
 "why": "在售 Utepo UTP7204E-POE（4 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）；商用 8 口位 STC-28DGGPM；L3 24 口不做"
 },
-"email_hook": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply Marvell-based 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent?",
+"email_hook": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units (the latter L2+ managed on a Marvell platform) in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent?",
 "products_seen": [
 {
 "brand": "Utepo",
@@ -506322,7 +506322,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply Marvell-based 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units (the latter L2+ managed on a Marvell platform) in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -507217,7 +507217,7 @@
 "tier": 20,
 "why": "在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP"
 },
-"email_hook": "Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply Marvell-based DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent?",
+"email_hook": "Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent?",
 "products_seen": [
 {
 "brand": "Teltonika",
@@ -507262,7 +507262,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply Marvell-based DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {

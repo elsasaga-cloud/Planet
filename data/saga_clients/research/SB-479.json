@@ -74,7 +74,7 @@
   "tier": 25,
   "why": "无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）"
  },
- "email_hook": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your energy and smart-city sites use most?",
+ "email_hook": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing; the 8-PoE managed version on a Marvell platform) from small lots, EXW USD — which port count do your energy and smart-city sites use most?",
  "mail_review": {
   "binding": {
    "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abdurrahman.pehlivanoglu@radioteknoloji.com.tr, info@radioteknoloji.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:radioteknoloji.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(i)））",
@@ -101,7 +101,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your energy and smart-city sites use most?"
+   "one_question": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing; the 8-PoE managed version on a Marvell platform) from small lots, EXW USD — which port count do your energy and smart-city sites use most?"
   },
   "facts": [
    {

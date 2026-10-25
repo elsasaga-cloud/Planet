@@ -73,7 +73,7 @@
     "tier": 30,
     "why": "W&T 自产接口产品，交换机为补充线（贴标外采）→ 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）、5 口 STI-050GE（$18.5）、PoE STI-288GP"
   },
-  "email_hook": "For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply Marvell-based DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?",
+  "email_hook": "For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@wut.de；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-21「16 Port Ethernet Switch」；To 仅本户 info@wut.de；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@wut.de` 仅此 1 条，complete）（第 74 批(m)）",
@@ -100,7 +100,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 info@wut.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开",
-      "one_question": "For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply Marvell-based DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?"
+      "one_question": "For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?"
     },
     "facts": [
       {

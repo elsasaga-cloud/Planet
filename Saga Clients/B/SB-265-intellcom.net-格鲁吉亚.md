@@ -257,7 +257,7 @@ updated: 2026-10-25
 ```text
 Hi Ekvtime,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Ekvtime, next to the CSS610-8P-2S you list, we supply a Marvell-based 8-port PoE+ L2+ switch with 2 SFP (and a DIN-rail gigabit media converter) in neutral packing from small lots — would a sample pair for your bench test be useful, and which uplink do you prefer, SFP or 2.5G?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to the CSS610-8P-2S you list, we supply a Marvell-based 8-port PoE+ L2+ switch with 2 SFP (and a DIN-rail gigabit media converter) in neutral packing from small lots — would a sample pair for your bench test be useful, and which uplink do you prefer, SFP or 2.5G?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your MikroTik CSS610-8P-2S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）
 - **历史互动**：推送 22 次（2024-05-30 → 2025-10-24）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）。已打开的主题（3/34 封有打开记录）：「8 Port Ethernet Switch」(2024-09-24)、「8 Port Industrial PoE Switch」(2024-12-19)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-24)、Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-29)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-22 $240（24 Port Fiber Switch）、2025-09-11 $65（10G Media Converter）、2025-09-29 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
+- **第一问（只问一个）**：For the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → scale@goriver.co.kr 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-22 $240（24 Port Fiber Switch）、2025-09-11 $65（10G Media Converter）、2025-09-29 $280（10G Enterprise SFP Switch））——NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）。已打开的主题（3/34 封有打开记录）：「8 Port Ethernet Switch」(2024-09-24)、「8 Port Industrial PoE Switch」(2024-12-19)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-24)、Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-29)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题
 - **下一步（具体）**：2026-11　A 邮箱 → scale@goriver.co.kr　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
-  - 第一问（只问一个）：For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：For the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@ updated: 2026-10-25
   - 表内：工业 FS 自己的品牌 NEXi；质量高
 - **风险/边界**：非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）
-- **邮件切入句（英文）**：For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?
+- **邮件切入句（英文）**：For the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -288,7 +288,7 @@ Hi Scale,
 
 We have sent you a few mails on "Managed Optical Bypass Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
-For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?
+For the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?
 
 Reference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.
 

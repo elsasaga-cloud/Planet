@@ -98,7 +98,7 @@
     "tier": 20,
     "why": "专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W"
   },
-  "email_hook": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply Marvell-based DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version, neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?",
+  "email_hook": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version (Marvell platform), neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 30 封 2024→2026，1 次记录打开，0 回；收件 faisal@zoomlinenetwork.com, sales@zoomlinenetwork.com；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 7 轮 2025-04-09→2025-11-20（锚 To amr_sha@hotmail.com 7 轮 2025-04-09→2025-11-20；锚至少发到 2026-09-08，本户 2025-11-20 后不再在 Bcc（Elsa 剔出）；本户在 Bcc；主题 Mini Industrial PoE Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:zoomlinenetwork.com` 全程 complete：命中 7 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
@@ -125,7 +125,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-09→2025-11-20，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封",
-      "one_question": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply Marvell-based DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version, neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version (Marvell platform), neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

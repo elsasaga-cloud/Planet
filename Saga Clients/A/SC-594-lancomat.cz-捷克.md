@@ -226,21 +226,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Tomáš,
 
-Picking up our earlier exchange about PoE / industrial switches. Your active-equipment range carries PLANET industrial units (IGS-10020PT, IGS-624HPT, GSD-908HP) for cabling installers — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. Among your industrial PoE switches, is the 8-port Gigabit PoE+ managed class (IGS-10020PT) the one installers order most, or the 4-port IGS-624HPT — so I send the right sample first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-28 - and there was no reason to answer a mass mail. This one is specific. Your active-equipment range carries PLANET industrial units (IGS-10020PT, IGS-624HPT, GSD-908HP) for cabling installers — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. Among your industrial PoE switches, is the 8-port Gigabit PoE+ managed class (IGS-10020PT) the one installers order most, or the 4-port IGS-624HPT — so I send the right sample first?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as your PLANET IGS-10020PT at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

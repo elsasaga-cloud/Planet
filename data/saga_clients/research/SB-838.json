@@ -79,7 +79,7 @@
   "tier": 30,
   "why": "自有 INET 8 PoE 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 PoE + 2 SFP 位 STI-154GP（$40.8，注明端口差异）"
  },
- "email_hook": "For the INET industrial PoE switch range, we can serve as a second ODM source on a Marvell platform (DIN-rail 4-PoE and 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you currently source from a single supplier?",
+ "email_hook": "For the INET industrial PoE switch range, we can serve as a second ODM source (DIN-rail 4-PoE and 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — is there a model in the range you currently source from a single supplier?",
  "products_seen": [
   {
    "brand": "IFOTEC（自有）",

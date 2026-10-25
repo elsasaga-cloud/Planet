@@ -252,7 +252,7 @@ updated: 2026-10-25
 ```text
 Hi Nasir,
 
-Picking up our earlier exchange about PoE / industrial switches. Nasir, you asked which of ours maps to a Cisco model — our 8-PoE + 2-SFP managed unit sits against the CBS250-8P-E-2G at roughly a third of the street price; want the one-page comparison for your CCTV / access-control sites?
+Picking up our earlier exchange about PoE / industrial switches. You asked which of ours maps to a Cisco model — our 8-PoE + 2-SFP managed unit sits against the CBS250-8P-E-2G at roughly a third of the street price; want the one-page comparison for your CCTV / access-control sites?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Cisco class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

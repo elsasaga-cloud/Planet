@@ -245,7 +245,7 @@ Hello,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-11 - and there was no reason to answer a mass mail. This one is specific. For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

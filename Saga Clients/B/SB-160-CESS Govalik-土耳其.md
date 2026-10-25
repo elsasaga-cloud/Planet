@@ -211,7 +211,7 @@ updated: 2026-10-25
 ```text
 Hi Şahin,
 
-Picking up our earlier exchange about PoE / industrial switches. Şahin Bey, ISAF'ta sorduğunuz SFP modüller için tip (1G/10G, SM/MM, mesafe) ve adet bilgisini alabilir miyim? Fiyatla birlikte 2 SFP + 8 port PoE switch (30,8 USD EXW) seçeneğini de ekleyeyim.
+We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue. ISAF'ta sorduğunuz SFP modüller için tip (1G/10G, SM/MM, mesafe) ve adet bilgisini alabilir miyim? Fiyatla birlikte 2 SFP + 8 port PoE switch (30,8 USD EXW) seçeneğini de ekleyeyim.
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

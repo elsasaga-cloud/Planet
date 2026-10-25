@@ -90,7 +90,7 @@
     "tier": 25,
     "why": "现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做"
   },
-  "email_hook": "Gianni, next to the Maiwe industrial switches you specify, we supply Marvell-based DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent?",
+  "email_hook": "Gianni, next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent?",
   "products_seen": [
     {
       "brand": "Maiwe",
@@ -135,7 +135,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
-      "one_question": "Gianni, next to the Maiwe industrial switches you specify, we supply Marvell-based DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "Gianni, next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

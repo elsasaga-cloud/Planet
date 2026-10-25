@@ -20,7 +20,7 @@ followups: 1
 first_contact: 2025-11-03
 last_contact: 2025-11-03
 s_mail: 6 msgs (out 6 / in 0), 2025-01-01 -> 2026-09-04
-p1: STI-280GE
+p1: STI-280GM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：俄罗斯 Тайле Tayle（俄罗斯网络设备制造商与分销商；表内「实力非常强，用 Oring 的，用 marvell 比较多；主要是 BADU 和丰润达的；和中国供应商合作很多，从很多国内供应商买 SFP；覆盖了很多产品」；KP A. Kuznetsova、A. Rubeko）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-11-03 → 2025-11-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-01 $240（24 Port Fiber Switch）、2025-11-03 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GM — Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-01 $240（24 Port Fiber Switch）、2025-11-03 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -44,9 +44,9 @@ updated: 2026-10-25
 
 - **绑定等级：未触达（A/S 邮箱 6 封 2025→2026，无记录打开，0 回；收件 akuznetsova@tayle.ru, arubeko@tayle.ru；主题多为「10G Enterprise SFP Switch、Marvell Industrial Alert System」）；Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/UZ/KZ/BY/TR+PL 个别 批次 To info@smartsystems.jo，0 回（第 74 批 Bcc 头核对 msg 1a01e5768ba94543）** ｜ 类型：网络设备制造/分销商（俄罗斯，实力强，Marvell 偏好，Q-33 口径） ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 6；用户表：「实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读
 - **现状一句话**：俄罗斯 Тайле Tayle（俄罗斯网络设备制造商与分销商；表内「实力非常强，用 Oring 的，用 marvell 比较多；主要是 BADU 和丰润达的；和中国供应商合作很多，从很多国内供应商买 SFP；覆盖了很多产品」；KP A. Kuznetsova、A. Rubeko）；表内 1 次跟进无回复。
-- **对方真实需求（有据）**：Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
+- **对方真实需求（有据）**：Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
 - **断点 / 为什么停在这里**：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复
-- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-01 $240（24 Port Fiber Switch）、2025-11-03 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
+- **Saga 现在该推什么**：P1 **STI-280GM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-01 $240（24 Port Fiber Switch）、2025-11-03 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -110,7 +110,7 @@ updated: 2026-10-25
   - 官网：Компания Тайле - Российский производитель и дистрибутор сетевого оборудования；页面 /catalog/section/arec/、/catalog/section/qsan/
   - 表内：实力非常强 用 Oring 的 用 marvell 比较多；主要是 BADU 和丰润达的 / 和中国供应商合作很多；从很多国内供应商买 SFP；覆盖了很多产品
 - **风险/边界**：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复
-- **Saga 对位结论**：P1 STI-280GE（30% 档）——Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
+- **Saga 对位结论**：P1 STI-280GM（30% 档）——Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
 - **邮件切入句（英文）**：For the Marvell-based positions in the Tayle range, we can offer industrial DIN-rail 8-GE + 2 SFP managed, industrial L3 16-PoE + 4×10G, and commercial 24-GE + 4×10G L2+ platforms in your packaging from small lots, CE/RoHS; EAC by your side — which Marvell SKU family would you evaluate first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -206,7 +206,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-280GE | 深挖对位：Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标 | $50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（网络设备制造/分销商（俄罗斯，实力强，Marvell 偏好，Q-33 口径）） |
+| **P1** | STI-280GM | 深挖对位：Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标 | $73.8 USD EXW（30% 档，SmartByte LT-IS3210G-2GX8GT 380 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（网络设备制造/分销商（俄罗斯，实力强，Marvell 偏好，Q-33 口径）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -215,9 +215,9 @@ updated: 2026-10-25
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280GM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -227,7 +227,7 @@ updated: 2026-10-25
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-280GE 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 Oring：涨价、断货或交期拉长时切入
+- **O**：P1 STI-280GM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 Oring：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -255,21 +255,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-280GM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the Marvell-based positions in the Tayle range, we can offer industrial DIN-rail 8-GE + 2 SFP managed, industrial L3 16-PoE + 4×10G, and commercial 24-GE + 4×10G L2+ platforms in your packaging from small lots, CE/RoHS; EAC by your side — which Marvell SKU family would you evaluate first?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 2026-08-20 - and there was no reason to answer a mass mail. This one is specific. For the Marvell-based positions in the Tayle range, we can offer industrial DIN-rail 8-GE + 2 SFP managed, industrial L3 16-PoE + 4×10G, and commercial 24-GE + 4×10G L2+ platforms in your packaging from small lots, CE/RoHS; EAC by your side — which Marvell SKU family would you evaluate first?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit plus 2 SFP - model STI-280GM - that fits the same slot as the Oring class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $73.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

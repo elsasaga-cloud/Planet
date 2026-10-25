@@ -209,8 +209,6 @@ Hello,
 
 Picking up our earlier exchange about PoE / industrial switches. We do not carry GPON OLTs or routers, but if your deployments need PoE access switches or fiber media converters behind the ONT I can send prices — is that part of your projects?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/

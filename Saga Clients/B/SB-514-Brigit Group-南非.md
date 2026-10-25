@@ -251,9 +251,9 @@ updated: 2026-10-25
 ```text
 Hi Deon,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. You took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

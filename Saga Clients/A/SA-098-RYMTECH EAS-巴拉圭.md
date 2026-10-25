@@ -264,8 +264,6 @@ Hi Ruslan,
 
 Picking up our earlier exchange about PoE / industrial switches. For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/

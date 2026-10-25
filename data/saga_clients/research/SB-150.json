@@ -83,7 +83,7 @@
     "tier": 30,
     "why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM"
   },
-  "email_hook": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?",
+  "email_hook": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?",
   "mail_review": {
     "binding": {
       "level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 4 封被打开，0 回；收件 george@ltsecurityinc.com.au, info@ltsecurityinc.com.au；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-14「24 Port Fiber Switch」；To 仅本户 george@ltsecurityinc.com.au；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:george@ltsecurityinc.com.au` 仅此 1 条，complete）（第 74 批(m)）",
@@ -110,7 +110,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → george@ltsecurityinc.com.au",
       "action": "首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
-      "one_question": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -142,7 +142,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Marvell Industrial Alert System",
-      "body": "Hi George,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi George,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

@@ -72,7 +72,7 @@
   "tier": 20,
   "why": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）"
  },
- "email_hook": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD; KC by your side — which configuration sells most in your panels?",
+ "email_hook": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD; KC by your side — which configuration sells most in your panels?",
  "mail_review": {
   "binding": {
    "level": "未触达（A/S 邮箱 29 封 2024→2026，1 次记录打开，0 回；收件 sales@servo-tech.co.kr；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:servo-tech.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(n)））",
@@ -99,7 +99,7 @@
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
    "action": "换收件人再发一封",
-   "one_question": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD; KC by your side — which configuration sells most in your panels? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD; KC by your side — which configuration sells most in your panels? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {

@@ -240,9 +240,9 @@ updated: 2026-10-25
 ```text
 Hi Annamery,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first.
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. For the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

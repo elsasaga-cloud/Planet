@@ -216,21 +216,7 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
-
-```text
-Hi Oscar,
-
-Picking up our earlier exchange about PoE / industrial switches. （待 Q-32 价目补齐后报 500 pcs injector）
-
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 研究档 email_hook 为备注「（待 Q-32 价目补齐后报 500 pcs injector）」，无英文钩子句：不出自动样板。
 
 ## 新跟进记录（仓库外发出后补）
 

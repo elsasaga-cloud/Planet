@@ -289,9 +289,9 @@ updated: 2026-10-25
 ```text
 Hi Marco,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Marco, for the PoE switches you bundle under the Bettini label with GAMS recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP; DIN-rail industrial option) in your packaging from small lots, CE/RoHS — which port count do your installers order most with GAMS systems?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches you bundle under the Bettini label with GAMS recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP; DIN-rail industrial option) in your packaging from small lots, CE/RoHS — which port count do your installers order most with GAMS systems?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

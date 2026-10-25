@@ -230,14 +230,14 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
 
 ```text
 Hi Fabio,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-03 - and there was no reason to answer a mass mail. This one is specific. Fabio, for the media converters you sell under your own label, we can supply gigabit MCs (desktop or industrial) and small SFP-uplink switches in your packaging from small lots, CE/RoHS — are you still carrying the MC line?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-03 - and there was no reason to answer a mass mail. This one is specific. For the media converters you sell under your own label, we can supply gigabit MCs (desktop or industrial) and small SFP-uplink switches in your packaging from small lots, CE/RoHS — are you still carrying the MC line?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

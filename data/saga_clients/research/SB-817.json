@@ -82,7 +82,7 @@
     "tier": 20,
     "why": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE"
   },
-  "email_hook": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?",
+  "email_hook": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?",
   "mail_review": {
     "binding": {
       "level": "读而不回（A/S 邮箱 27 封 2024→2026，其中 2 封被打开，0 回；收件 sales@comtrol.co.uk, tim.jones@comtrol.co.uk；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-24「16 Port Ethernet Switch」；To 仅本户 sales@comtrol.co.uk；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@comtrol.co.uk` 仅此 1 条，complete）（第 74 批(m)）",
@@ -109,7 +109,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → tim.jones@comtrol.co.uk（Tim Jones；只发他，不抄 sales@）",
       "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 sales@comtrol.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）",
-      "one_question": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -141,7 +141,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Marvell Industrial Alert System",
-      "body": "Hi Tim,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Tim,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Omnitron OmniConverter range you distribute, we supply industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-25"
   }

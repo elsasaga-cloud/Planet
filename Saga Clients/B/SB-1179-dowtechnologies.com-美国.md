@@ -231,7 +231,7 @@ Hello,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. For the integrator-facing PoE line next to Luxul and Intellinet, we supply a Marvell-based 8-port PoE+ L2+ switch (2 SFP) and a 24-port 4×10G model in neutral packing from small lots — which port count do your dealers pull most, 8 or 24?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Luxul 8-PoE managed 1Gb 2 RJ45 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Luxul 8-PoE managed 1Gb 2 RJ45 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -71,7 +71,7 @@
   "tier": 30,
   "why": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做"
  },
- "email_hook": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most?",
+ "email_hook": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most?",
  "mail_review": {
   "binding": {
    "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 sales@netsys-america.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:netsys-direct.com OR to:netsys-america.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(h)））",
@@ -98,7 +98,7 @@
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
    "action": "换收件人再发一封",
-   "one_question": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {

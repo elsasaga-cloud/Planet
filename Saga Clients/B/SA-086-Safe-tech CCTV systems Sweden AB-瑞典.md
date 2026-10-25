@@ -258,9 +258,9 @@ updated: 2026-10-25
 ```text
 Hi Jimmy,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $25.1 — shall I send a 5+5 starter carton to Markaryd?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. From the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $25.1 — shall I send a 5+5 starter carton to Markaryd?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

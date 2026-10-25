@@ -244,9 +244,7 @@ updated: 2026-10-25
 ```text
 Hi Marina,
 
-Picking up our earlier exchange about PoE / industrial switches. Re your RFQ for a 30 W PoE injector: we can quote the injector together with a 24× PoE+ (280 W) + 4× SFP L2+ switch under your Proxeet/Chiprian label (neutral packing standard) — which quantity per month should the injector quote be based on?
-
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue. Re your RFQ for a 30 W PoE injector: we can quote the injector together with a 24× PoE+ (280 W) + 4× SFP L2+ switch under your Proxeet/Chiprian label (neutral packing standard) — which quantity per month should the injector quote be based on?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

@@ -286,7 +286,7 @@ updated: 2026-10-25
 ```text
 Hi Hasan,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Hasan, for the SURENIX-labelled PoE switches (SRX-4GS24PP and the 8/16-port models), we can be a second source on a Marvell L2+ platform (24-PoE + 4 SFP, 8-PoE + 2 SFP) from small lots in your packaging, CE/RoHS, EXW USD — which port count do your Hanwha projects use most?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the SURENIX-labelled PoE switches (SRX-4GS24PP and the 8/16-port models), we can be a second source on a Marvell L2+ platform (24-PoE + 4 SFP, 8-PoE + 2 SFP) from small lots in your packaging, CE/RoHS, EXW USD — which port count do your Hanwha projects use most?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your SURENIX SRX-4GS24PP at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

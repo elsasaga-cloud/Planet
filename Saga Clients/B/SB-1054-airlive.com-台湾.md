@@ -276,7 +276,7 @@ updated: 2026-10-25
 ```text
 Hi John,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. John, for the IGM-series industrial PoE switches, we can supply Marvell-based DIN-rail L2+ 8-PoE++ + 2 SFP units (BT 90 W option, −40~75 °C) built to your spec from small lots — would a second-source quotation on the 8-port BT model be useful?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the IGM-series industrial PoE switches, we can supply Marvell-based DIN-rail L2+ 8-PoE++ + 2 SFP units (BT 90 W option, −40~75 °C) built to your spec from small lots — would a second-source quotation on the 8-port BT model be useful?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your AirLive（自有） IGM-1484POE-2 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

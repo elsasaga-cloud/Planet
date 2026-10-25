@@ -55,7 +55,7 @@
     "tier": 20,
     "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
   },
-  "email_hook": "Alongside the industrial switch brands you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your customers ask for?",
+  "email_hook": "Alongside the industrial switch brands you carry, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?",
   "mail_review": {
     "binding": {
       "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 info@marcomweb.it；主题多为「24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）",
@@ -82,7 +82,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Alongside the industrial switch brands you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your customers ask for?"
+      "one_question": "Alongside the industrial switch brands you carry, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?"
     },
     "facts": [
       {

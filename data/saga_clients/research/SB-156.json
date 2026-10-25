@@ -103,7 +103,7 @@
   "tier": 30,
   "why": "自有 TP-SW5G-D（DIN 5 口千兆 4 PoE）→ Saga STI-054GP（工业 4 PoE + 1 GE，$33.8 @30%）贴 Tycon 标；带 SFP 位 STI-154GP（$40.8）；管理型 STI-288GPM"
  },
- "email_hook": "Andy, for the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build Marvell-based 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?",
+ "email_hook": "Andy, for the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?",
  "products_seen": [
   {
    "brand": "Tycon（自有）",

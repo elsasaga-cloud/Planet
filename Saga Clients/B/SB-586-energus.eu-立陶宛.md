@@ -232,7 +232,7 @@ Hi Daniel,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-01 - and there was no reason to answer a mass mail. This one is specific. Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

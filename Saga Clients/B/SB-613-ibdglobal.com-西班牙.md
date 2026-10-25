@@ -266,7 +266,7 @@ updated: 2026-10-25
 ```text
 Hi Jordi,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Jordi, alongside the Utepo and TP-Link PoE switches you distribute to installers, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24/48-PoE + 4×10G units from small lots, CE/RoHS, EXW USD — which band do your Dahua projects use most?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Utepo and TP-Link PoE switches you distribute to installers, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24/48-PoE + 4×10G units from small lots, CE/RoHS, EXW USD — which band do your Dahua projects use most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your TP-Link SG3452XMPP at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

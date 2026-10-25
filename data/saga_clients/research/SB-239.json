@@ -81,7 +81,7 @@
   "tier": 25,
   "why": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换"
  },
- "email_hook": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply Marvell-based DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?",
+ "email_hook": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?",
  "products_seen": [
   {
    "brand": "ICP DAS",
@@ -126,7 +126,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply Marvell-based DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?"
+   "one_question": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?"
   },
   "facts": [
    {

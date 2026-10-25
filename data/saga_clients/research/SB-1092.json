@@ -62,7 +62,7 @@
     "tier": 20,
     "why": "光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）"
   },
-  "email_hook": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?",
+  "email_hook": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 unitel@unitelco.co.kr；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）；Elsa 1:1 去信 1 封（2025-02-28「Mini Industrial PoE Switch」；To 仅本户 unitel@unitelco.co.kr；头 msg 19fcbedfe7807ff7 核对无 Bcc，称呼「Hi, Faisal」= 个性化逐月 1:1 名单；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:unitel@unitelco.co.kr` 仅此 1 条，complete）（第 74 批(m)）",
@@ -89,7 +89,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
-      "one_question": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

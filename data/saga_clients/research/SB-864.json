@@ -79,7 +79,7 @@
     "tier": 30,
     "why": "以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供"
   },
-  "email_hook": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most?",
+  "email_hook": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on our industrial platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 35 封 2025→2026，无记录打开，0 回；收件 contact@tracnova.com, ramesh@sitech-bitdriver.com；主题多为「Managed Optical Bypass Switch、90W PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-25「Mini Industrial PoE Switch」；To 仅本户 sales@sitech-bitdriver.com；头 msg 19fcbedfe7807ff7 核对无 Bcc，称呼「Hi, Faisal」= 个性化逐月 1:1 名单；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@sitech-bitdriver.com` 仅此 1 条，complete）（第 74 批(m)）",
@@ -106,7 +106,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
-      "one_question": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on our industrial platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

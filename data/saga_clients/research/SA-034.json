@@ -94,7 +94,7 @@
   "tier": 30,
   "why": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档"
  },
- "email_hook": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?",
+ "email_hook": "For the X-104GP-SFP slot in your shop, the 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?",
  "mail_review": {
   "binding": {
    "level": "未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 info@xcam.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 xcam.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(f)））",
@@ -121,7 +121,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?"
+   "one_question": "For the X-104GP-SFP slot in your shop, the 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?"
   },
   "facts": [
    {

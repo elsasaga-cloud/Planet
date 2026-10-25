@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-01-28 → 2025-10-09）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP。已打开的主题（1/24 封有打开记录）：「Passive PoE Switch」(2024-08-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；换人再触锚价 STI-154GP $37.7 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-18 $65（10g fiber media converter）、2025-07-10 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply Marvell-based DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity).
+- **第一问（只问一个）**：Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：非主攻区（T5）
 - **Saga 现在该推什么**：P1 **STI-154GP**（20% 档，换人再触锚价 STI-154GP $37.7 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-18 $65（10g fiber media converter）、2025-07-10 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch））——在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP。已打开的主题（1/24 封有打开记录）：「Passive PoE Switch」(2024-08-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply Marvell-based DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@ updated: 2026-10-25
   - KP：Prapapim Phetnoi / System Engineer；Jiraporn Teeramasvanich / Purchasing Manager（表内）
 - **风险/边界**：非主攻区（T5）；Teltonika（立陶宛）品牌生态强：白牌仅价格补充；9 次无回复 → 改向 Purchasing Manager 具名首触
 - **Saga 对位结论**：P1 STI-154GP（20% 档）——在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP
-- **邮件切入句（英文）**：Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply Marvell-based DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent?
+- **邮件切入句（英文）**：Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -276,21 +276,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-154GP - industrial DIN-rail switch (neutral label)
 
 ```text
 Hi Jiraporn,
 
-Picking up our earlier exchange about PoE / industrial switches. Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply Marvell-based DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 SFP and 1 copper uplink (unmanaged) - model STI-154GP - that fits the same slot as your Teltonika TSW100 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $37.7 USD EXW (valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

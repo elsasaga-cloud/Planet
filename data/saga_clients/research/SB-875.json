@@ -73,7 +73,7 @@
   "tier": 20,
   "why": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套"
  },
- "email_hook": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?",
+ "email_hook": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?",
  "mail_review": {
   "binding": {
    "level": "未触达（A 邮箱 10 封 2025→2026，1 次记录打开，0 回；收件 kontakt@segno.de；主题多为「16 Port Ethernet Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 wachendorff-prozesstechnik.de / segno.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））",
@@ -100,7 +100,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?"
+   "one_question": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?"
   },
   "facts": [
    {

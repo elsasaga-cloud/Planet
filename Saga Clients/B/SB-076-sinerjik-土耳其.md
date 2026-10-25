@@ -210,9 +210,7 @@ updated: 2026-10-25
 ```text
 Hi Ufuk,
 
-Picking up our earlier exchange about PoE / industrial switches. Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?
-
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue. 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

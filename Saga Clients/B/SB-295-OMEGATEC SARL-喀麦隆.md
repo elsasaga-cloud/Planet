@@ -207,21 +207,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STC-2016GP - 16-port Gigabit PoE switch with 2 SFP uplinks (neutral label)
 
 ```text
 Hi Stephane,
 
 Picking up our earlier exchange about PoE / industrial switches. Vous cherchiez un switch 16 ports Gigabit PoE et une liste de prix revendeur — je peux envoyer la grille USD EXW (16 PoE + 2 SFP, et le modèle L3 24 ports + 4×10G). Quelle quantité par commande ?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply a 16-port Gigabit PoE switch with 2 SFP uplinks (unmanaged, 300 W) - model STC-2016GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $88.0 USD EXW (list price, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

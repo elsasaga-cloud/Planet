@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-10 → 2025-10-24）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位。已打开的主题（1/27 封有打开记录）：「48 port switch」(2024-09-02) → 读者兴趣主题类别不明（看原主题）；换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-02 $300（48 port switch）、2025-10-01 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — is there a budget industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
+- **第一问（只问一个）**：Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：多品牌、品类杂（白牌契合度待核）；官网 http_error；18 次无回复，仅 sales@
 - **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-02 $300（48 port switch）、2025-10-01 $280（10G Enterprise SFP Switch））——工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位。已打开的主题（1/27 封有打开记录）：「48 port switch」(2024-09-02) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — is there a budget industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@ updated: 2026-10-25
   - 快照：http_error
 - **风险/边界**：多品牌、品类杂（白牌契合度待核）；官网 http_error；18 次无回复，仅 sales@
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位
-- **邮件切入句（英文）**：Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — is there a budget industrial position your customers ask for?
+- **邮件切入句（英文）**：Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -261,21 +261,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — is there a budget industrial position your customers ask for?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $46 USD EXW (valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

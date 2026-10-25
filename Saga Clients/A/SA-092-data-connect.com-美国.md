@@ -134,7 +134,7 @@ updated: 2026-10-25
   - 用户表：1 次回复、16 次跟进，兴趣工业 FS/MC/串口，「卖很多牌子的产品」
 - **风险/边界**：SCADA/公用事业客户可能要求 IEEE 1613/UL——不承诺；产品页多年未更新，采购活跃度待验证
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档
-- **邮件切入句（英文）**：Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a Marvell-based gigabit PoE DIN switch in 8+2 SFP and 4+1 formats under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.
+- **邮件切入句（英文）**：Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a gigabit PoE DIN switch in 8+2 SFP and 4+1 formats (the 8+2 also as a Marvell-based managed version) under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -299,7 +299,7 @@ updated: 2026-10-25
 ```text
 Hi Barry,
 
-Picking up our earlier exchange about PoE / industrial switches. Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a Marvell-based gigabit PoE DIN switch in 8+2 SFP and 4+1 formats under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.
+Picking up our earlier exchange about PoE / industrial switches. Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a gigabit PoE DIN switch in 8+2 SFP and 4+1 formats (the 8+2 also as a Marvell-based managed version) under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your DCE ANS208 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

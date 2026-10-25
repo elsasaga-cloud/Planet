@@ -243,8 +243,6 @@ Hi Khalil,
 
 Picking up our earlier exchange about PoE / industrial switches. We do not make HDMI-over-IP extenders, but for the IP side of a playout room our 8-port L2+ switch with IGMP snooping and 2 SFP uplinks is a common pairing — is there a current project where that would help?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/

@@ -223,9 +223,9 @@ updated: 2026-10-25
 ```text
 Hi Aycan,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. Aycan Bey, sorduğunuz gigabit 2 SFP + 8 PoE yönetilebilir endüstriyel switch 145,7 USD EXW; fiber bypass'lı sürüm 4 SFP'li gövdede 194,3 USD — bariyer/otopark projenizde bypass şart mı, yoksa standart sürüm yeterli mi?
+Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. Sorduğunuz gigabit 2 SFP + 8 PoE yönetilebilir endüstriyel switch 145,7 USD EXW; fiber bypass'lı sürüm 4 SFP'li gövdede 194,3 USD — bariyer/otopark projenizde bypass şart mı, yoksa standart sürüm yeterli mi?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

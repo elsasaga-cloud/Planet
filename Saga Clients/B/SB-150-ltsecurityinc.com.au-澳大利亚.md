@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 21 次无任何回复（聋名单）
 - **历史互动**：推送 21 次（2024-05-09 → 2025-10-27）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM。已打开的主题（4/30 封有打开记录）：「Commercial Network Switch」(2025-05-07)、「Industrial PoE Switch」(2025-06-24)、「Managed Optical Bypass Switch」(2025-07-14)、「L3 Managed Switch」(2025-10-27) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-01 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-14 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-14；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）
-- **第一问（只问一个）**：George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
+- **第一问（只问一个）**：George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → george@ltsecurityinc.com.au 首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：非主攻区（T5）；RCM 合规由客户申报
 - **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-01 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-14 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-14；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280））——自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM。已打开的主题（4/30 封有打开记录）：「Commercial Network Switch」(2025-05-07)、「Industrial PoE Switch」(2025-06-24)、「Managed Optical Bypass Switch」(2025-07-14)、「L3 Managed Switch」(2025-10-27) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → george@ltsecurityinc.com.au　首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
-  - 第一问（只问一个）：George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@ updated: 2026-10-25
   - 表内：Utepo 的工业 FS 自己的型号；KP George Lu / Technical Support Specialist
 - **风险/边界**：非主攻区（T5）；RCM 合规由客户申报；现代工 Utepo（深圳）价格基准低；21 次无回复 → 改向具名技术支持首触，预期低
 - **Saga 对位结论**：P1 STI-288GP（30% 档）——自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM
-- **邮件切入句（英文）**：George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?
+- **邮件切入句（英文）**：George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -292,7 +292,7 @@ Hi George,
 
 We have sent you a few mails on "Marvell Industrial Alert System" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
-For the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?
+For the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?
 
 Reference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.
 

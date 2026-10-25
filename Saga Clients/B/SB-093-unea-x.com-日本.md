@@ -138,7 +138,7 @@ updated: 2026-10-25
   - 表内：工业 switch 国内的外壳
 - **风险/边界**：非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供国内货价格基准低；2 次无回复，仅 info@
 - **Saga 对位结论**：P1 STI-280GE（25% 档）——工业 switch（现国内外壳）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）
-- **邮件切入句（英文）**：For the industrial switches on your /switch/ page, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS; neutral packing) from single units, EXW USD — which configuration do your Japanese customers order most?
+- **邮件切入句（英文）**：For the industrial switches on your /switch/ page, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; neutral packing; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Japanese customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

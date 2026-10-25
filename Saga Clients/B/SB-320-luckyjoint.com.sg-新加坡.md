@@ -269,9 +269,9 @@ updated: 2026-10-25
 ```text
 Hi Jackson,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Jackson, on your question about 250 m PoE runs: our Marvell-based 8-PoE + 2 SFP L2+ switch supports an extended-reach mode on PoE ports (250 m at 10 Mbps for cameras; standard 100 m at gigabit) — shall I confirm the exact figures on a datasheet and quote one evaluation unit, EXW USD?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. On your question about 250 m PoE runs: our Marvell-based 8-PoE + 2 SFP L2+ switch supports an extended-reach mode on PoE ports (250 m at 10 Mbps for cameras; standard 100 m at gigabit) — shall I confirm the exact figures on a datasheet and quote one evaluation unit, EXW USD?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -59,7 +59,7 @@
   "tier": 20,
   "why": "工业 FS/MC（现 XPS/ONV）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GP（$57.4）、工业千兆 MC STI-110GE（$22.4）；视频光端机 Saga 不供"
  },
- "email_hook": "Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP units and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?",
+ "email_hook": "Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand DIN-rail 8-GE/8-PoE + 2 SFP units (managed versions on a Marvell platform) and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?",
  "mail_review": {
   "binding": {
    "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@eretekne.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:eretekne.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））",
@@ -86,7 +86,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP units and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?"
+   "one_question": "Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand DIN-rail 8-GE/8-PoE + 2 SFP units (managed versions on a Marvell platform) and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?"
   },
   "facts": [
    {

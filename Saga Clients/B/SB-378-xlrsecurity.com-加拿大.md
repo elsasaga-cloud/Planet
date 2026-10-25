@@ -298,9 +298,9 @@ updated: 2026-10-25
 ```text
 Hi Jaeden,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Jaeden, for the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your Lysora（自有） PN-D7012-8P-120 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your Lysora（自有） PN-D7012-8P-120 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

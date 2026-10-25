@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-08 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?
+- **第一问（只问一个）**：Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：自有品牌配套件：现有代工来源稳定，需以小批量/宽压/价格切入
 - **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-08 $280（10G Enterprise SFP Switch））——自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?
+  - 第一问（只问一个）：Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@ updated: 2026-10-25
   - KP：Alex M / President；Diane C / Director of Sales and GTM Operations（表内）
 - **风险/边界**：自有品牌配套件：现有代工来源稳定，需以小批量/宽压/价格切入；表内无跟进记录：首触直接具名 President/Sales
 - **Saga 对位结论**：P1 STI-080GE（30% 档）——自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM
-- **邮件切入句（英文）**：Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?
+- **邮件切入句（英文）**：Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -239,21 +239,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-080GE - industrial DIN-rail 8-port Gigabit switch (neutral label)
 
 ```text
 Hi Alex,
 
-Picking up our earlier exchange about PoE / industrial switches. Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the industrial network switches you offer alongside your HMIs and PLCs, we build DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

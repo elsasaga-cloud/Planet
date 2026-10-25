@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-21 → 2025-11-05）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE；换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-27 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
+- **第一问（只问一个）**：Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source (5/8-port DIN-rail, −40~75 °C; 8-port desktop; managed versions on a Marvell platform) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-21 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：成熟品牌（英/德双总部）：供应商导入流程长、文档要求高
 - **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-27 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch））——Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-21 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
-  - 第一问（只问一个）：Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source (5/8-port DIN-rail, −40~75 °C; 8-port desktop; managed versions on a Marvell platform) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@ updated: 2026-10-25
   - KP：Darren Casey / Director；Megan Fairbairn / Purchase（表内）
 - **风险/边界**：成熟品牌（英/德双总部）：供应商导入流程长、文档要求高；现有 ODM 未知（表内「价格很高」= 品牌溢价而非成本）；10 次无回复 → 改向 Purchase 具名首触
 - **Saga 对位结论**：P1 STI-080GE（30% 档）——Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE
-- **邮件切入句（英文）**：Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?
+- **邮件切入句（英文）**：Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source (5/8-port DIN-rail, −40~75 °C; 8-port desktop; managed versions on a Marvell platform) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -275,21 +275,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-080GE - industrial DIN-rail 8-port Gigabit switch (neutral label)
 
 ```text
 Hi Megan,
 
-Picking up our earlier exchange about PoE / industrial switches. Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?
+Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 2025-02-21 - and there was no reason to answer a mass mail. This one is specific. For the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source (5/8-port DIN-rail, −40~75 °C; 8-port desktop; managed versions on a Marvell platform) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $32.5 USD EXW (valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -269,7 +269,7 @@ updated: 2026-10-25
 ```text
 Hi Richard,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Richard, next to the PLANET PoE range you distribute, we supply Marvell-based 24-PoE L2+ (4 SFP) and 8-PoE + 2 SFP switches in neutral packing from small lots, CE/RoHS — which PLANET port count do your installers pull most, so we quote the matching model first?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to the PLANET PoE range you distribute, we supply Marvell-based 24-PoE L2+ (4 SFP) and 8-PoE + 2 SFP switches in neutral packing from small lots, CE/RoHS — which PLANET port count do your installers pull most, so we quote the matching model first?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Planet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

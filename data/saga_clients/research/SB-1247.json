@@ -74,7 +74,7 @@
     "tier": 20,
     "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP"
   },
-  "email_hook": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?",
+  "email_hook": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?",
   "mail_review": {
     "binding": {
       "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch」",
@@ -101,7 +101,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → info@spesaelettrica.it（无具名 KP；公用地址）",
       "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-      "one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

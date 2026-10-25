@@ -71,7 +71,7 @@
   "tier": 30,
   "why": "Mencom 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、工业千兆 MC STI-110GE（$24.3）贴标作二供"
  },
- "email_hook": "John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?",
+ "email_hook": "John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS; managed versions on a Marvell platform) in your packaging from small lots — which SKU would you want sampled first?",
  "mail_review": {
   "binding": {
    "level": "未触达（3 封来信全部自动回复；Elsa 箱：`to:mencom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 3）（第 74 批(h)））",

@@ -268,7 +268,7 @@ updated: 2026-10-25
 ```text
 Hi Ryan,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Ryan, for the PoE switches you source from ONV today — like-for-like Marvell L2+ 24-PoE and 8-PoE units under the Nelly's label from small lots (FCC/CE); send me the ONV model numbers and I'll quote them directly.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches you source from ONV today — like-for-like Marvell L2+ 24-PoE and 8-PoE units under the Nelly's label from small lots (FCC/CE); send me the ONV model numbers and I'll quote them directly.
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

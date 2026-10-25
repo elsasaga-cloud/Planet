@@ -71,7 +71,7 @@
     "tier": 25,
     "why": "工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）"
   },
-  "email_hook": "For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most?",
+  "email_hook": "For the Ethernet switches in your electrical and instrumentation panels, we supply DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your industrial projects use most?",
   "mail_review": {
     "binding": {
       "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch」",
@@ -98,7 +98,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → info@grinsrl.it（无具名 KP；公用地址）",
       "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-      "one_question": "For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "For the Ethernet switches in your electrical and instrumentation panels, we supply DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your industrial projects use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

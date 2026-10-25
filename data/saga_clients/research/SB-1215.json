@@ -72,7 +72,7 @@
     "tier": 20,
     "why": "在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE"
   },
-  "email_hook": "Alongside the Planet industrial switches and converters you list with your fiber assemblies, we supply Marvell-based DIN-rail 8-GE + 2 SFP (and PoE) switches and gigabit media converters in neutral packing from small lots, CE/RoHS — which Planet model sells most in your shop?",
+  "email_hook": "Alongside the Planet industrial switches and converters you list with your fiber assemblies, we supply DIN-rail 8-GE + 2 SFP (and PoE) switches (managed versions on a Marvell platform) and gigabit media converters in neutral packing from small lots, CE/RoHS — which Planet model sells most in your shop?",
   "mail_review": {
     "binding": {
       "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS(planet) MC 周边产品 销售平台」",

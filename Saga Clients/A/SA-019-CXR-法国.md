@@ -310,7 +310,7 @@ Hi Marco,
 
 Picking up our earlier exchange about PoE / industrial switches. Your SWMD-H-8TGPS-2GSF sits on the same 8-port gigabit PoE + 2 SFP DIN footprint we build on a Marvell switch core, so I am quoting that unit in CXR packing first, with the 4-port 120 W version as the second SKU.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your CXR SWMD-H-8TGPS-2GSF / 8TPG-2GSF at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your CXR SWMD-H-8TGPS-2GSF / 8TPG-2GSF at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

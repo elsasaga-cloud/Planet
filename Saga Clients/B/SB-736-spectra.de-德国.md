@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 3 次（2025-08-26 → 2025-10-28）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-080GE — 需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
-- **第一问（只问一个）**：Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
+- **第一问（只问一个）**：Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入
 - **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
+  - 第一问（只问一个）：Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@ updated: 2026-10-25
   - KP：Juergen Rauscher / Managing Director（表内）
 - **风险/边界**：现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入；德国工业客户：文档/验证要求高；3 次无回复
 - **Saga 对位结论**：P1 STI-080GE（20% 档）——需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
-- **邮件切入句（英文）**：Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
+- **邮件切入句（英文）**：Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -275,21 +275,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-080GE - industrial DIN-rail 8-port Gigabit switch (neutral label)
 
 ```text
 Hi Juergen,
 
-Picking up our earlier exchange about PoE / industrial switches. Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-31 - and there was no reason to answer a mass mail. This one is specific. Alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as your ORing IGS-9168GP at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $31.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

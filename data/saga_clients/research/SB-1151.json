@@ -74,7 +74,7 @@
   "tier": 30,
   "why": "户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM"
  },
- "email_hook": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?",
+ "email_hook": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?",
  "mail_review": {
   "binding": {
    "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 ken.burgner@altelix.com, ryan.sheehan@altelix.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:altelix.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(h)））",
@@ -101,7 +101,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?"
+   "one_question": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?"
   },
   "facts": [
    {

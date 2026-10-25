@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-21 → 2025-11-04）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — W&T 自产接口产品，交换机为补充线（贴标外采）→ 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）、5 口 STI-050GE（$18.5）、PoE STI-288GP；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-03 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply Marvell-based DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
+- **第一问（只问一个）**：For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 info@wut.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：德国工程型制造商：对品质/文档要求高，验证周期长
 - **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-03 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch））——W&T 自产接口产品，交换机为补充线（贴标外采）→ 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）、5 口 STI-050GE（$18.5）、PoE STI-288GP
 - **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 info@wut.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开
-  - 第一问（只问一个）：For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply Marvell-based DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
+  - 第一问（只问一个）：For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@ updated: 2026-10-25
   - 表内：switch 主要是工业通讯；可以着重跟一下
 - **风险/边界**：德国工程型制造商：对品质/文档要求高，验证周期长；现有交换机货源未知；8 次无回复，无具名 KP（info@）
 - **Saga 对位结论**：P1 STI-280GE（30% 档）——W&T 自产接口产品，交换机为补充线（贴标外采）→ 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）、5 口 STI-050GE（$18.5）、PoE STI-288GP
-- **邮件切入句（英文）**：For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply Marvell-based DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
+- **邮件切入句（英文）**：For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -247,21 +247,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply Marvell-based DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
+Some time ago you had a product mail from us - "16 Port Ethernet Switch" on 2025-02-21 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $50.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

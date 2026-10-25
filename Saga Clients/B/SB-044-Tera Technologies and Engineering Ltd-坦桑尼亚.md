@@ -252,14 +252,14 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (neutral label)
 
 ```text
 Hi Ramadhani,
 
-Picking up our earlier exchange about PoE / industrial switches. Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?
+Picking up our earlier exchange about PoE / industrial switches. In February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?
 
-We supply a Marvell-based 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks - model STI-21616GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $177.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (unmanaged) - model STI-21616GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $177.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

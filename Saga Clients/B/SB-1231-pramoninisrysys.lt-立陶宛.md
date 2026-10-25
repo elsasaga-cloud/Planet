@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）。已打开的主题（1/2 封有打开记录）：「Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-13 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
-- **第一问（只问一个）**：For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?
+- **第一问（只问一个）**：For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：守界备注：公用事业/配电网场景——只供民用通用工业交换机，IEC 61850-3 认证 Saga 无
 - **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-13 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）。已打开的主题（1/2 封有打开记录）：「Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?
+  - 第一问（只问一个）：For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@ updated: 2026-10-25
   - 表内：Beijer sbjlink 的工业 FS；质量一般
 - **风险/边界**：守界备注：公用事业/配电网场景——只供民用通用工业交换机，IEC 61850-3 认证 Saga 无；小国（立陶宛）；国别已更正（表内误填意大利）；Beijer/Westermo 价格基准高但品牌粘性强；表内「质量一般」
 - **Saga 对位结论**：P1 STI-280GE（25% 档）——RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）
-- **邮件切入句（英文）**：For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?
+- **邮件切入句（英文）**：For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -233,21 +233,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-31 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $48.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

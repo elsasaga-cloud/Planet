@@ -261,7 +261,7 @@ updated: 2026-10-25
 ```text
 Hi Igor,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

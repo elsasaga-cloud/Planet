@@ -263,7 +263,7 @@ Hi Vicente,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

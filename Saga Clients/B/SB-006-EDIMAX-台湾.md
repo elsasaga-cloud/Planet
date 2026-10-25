@@ -247,14 +247,14 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (neutral label)
 
 ```text
 Hi Jesse,
 
-Picking up our earlier exchange about PoE / industrial switches. Jesse, on the 16-port industrial PoE you asked about — 16×PoE+ + 2 SFP, L2+ managed, −40~75 ℃, CE/FCC/RoHS; if EDIMAX is re-sourcing that SKU, I can send the OEM spec and a sample price this week.
+Picking up our earlier exchange about PoE / industrial switches. On the 16-port industrial PoE you asked about — 16×PoE+ + 2 SFP, L2+ managed, −40~75 ℃, CE/FCC/RoHS; if EDIMAX is re-sourcing that SKU, I can send the OEM spec and a sample price this week.
 
-We supply a Marvell-based 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks - model STI-21616GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $184.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (unmanaged) - model STI-21616GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $184.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

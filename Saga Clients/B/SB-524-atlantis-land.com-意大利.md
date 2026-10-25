@@ -267,9 +267,9 @@ updated: 2026-10-25
 ```text
 Hi Daniela,
 
-Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 2025-02-19 - and there was no reason to answer a mass mail. This one is specific. Daniela, for the PoE switches sold under the Atlantis label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled against your current ONV unit?
+Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 2025-02-19 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches sold under the Atlantis label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled against your current ONV unit?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -63,7 +63,7 @@
   "tier": 25,
   "why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）"
  },
- "email_hook": "Robin, for the industrial switches in your projects, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — which configuration do your Singapore installations use most?",
+ "email_hook": "Robin, for the industrial switches in your projects, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Singapore installations use most?",
  "mail_review": {
   "binding": {
    "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 3 封被打开，0 回；收件 info@grep.sg, robin@grep.sg；被打开主题「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:grep.sg` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(n)））",
@@ -90,7 +90,7 @@
    "when": "2026-11",
    "channel": "A 邮箱 → robin@grep.sg（Robin Luo；只发他，不抄 info@）",
    "action": "短信一问（email_hook）",
-   "one_question": "Robin, for the industrial switches in your projects, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — which configuration do your Singapore installations use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "Robin, for the industrial switches in your projects, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Singapore installations use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
@@ -113,7 +113,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "One question — Industrial PoE Switch",
-   "body": "Hi Robin,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches in your projects, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — which configuration do your Singapore installations use most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+   "body": "Hi Robin,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches in your projects, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Singapore installations use most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
   },
   "as_of": "2026-10-24"
  }

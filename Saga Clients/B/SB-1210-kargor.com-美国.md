@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — 工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、PoE 版 STI-288GPM（$78.9）。已打开的主题（1/7 封有打开记录）：「24 Port Fiber Switch」(2024-12-17) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G fiber media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-17 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
-- **第一问（只问一个）**：For the industrial switches you source, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
+- **第一问（只问一个）**：For the industrial switches you source, we supply DIN-rail 8-GE + 2 SFP managed (Marvell platform) and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：官网快照为重定向（实体/经营状态待核）；仅 info@，未跟进过
 - **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G fiber media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-17 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、PoE 版 STI-288GPM（$78.9）。已打开的主题（1/7 封有打开记录）：「24 Port Fiber Switch」(2024-12-17) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For the industrial switches you source, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
+  - 第一问（只问一个）：For the industrial switches you source, we supply DIN-rail 8-GE + 2 SFP managed (Marvell platform) and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@ updated: 2026-10-25
   - 表内：工业 FS
 - **风险/边界**：官网快照为重定向（实体/经营状态待核）；仅 info@，未跟进过
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、PoE 版 STI-288GPM（$78.9）
-- **邮件切入句（英文）**：For the industrial switches you source, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
+- **邮件切入句（英文）**：For the industrial switches you source, we supply DIN-rail 8-GE + 2 SFP managed (Marvell platform) and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -223,21 +223,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the industrial switches you source, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches you source, we supply DIN-rail 8-GE + 2 SFP managed (Marvell platform) and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $46.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

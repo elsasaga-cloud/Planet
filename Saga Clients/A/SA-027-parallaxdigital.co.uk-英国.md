@@ -306,14 +306,14 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (neutral label)
 
 ```text
 Hi Jeffrey,
 
 Picking up our earlier exchange about PoE / industrial switches. Your PDT-NSU-7104-MP-SF-I is the same 4-port PoE+ with SFP uplink footprint we build in DIN format, so I am quoting that unit in PDT packing with the 8-port managed version as the next size up.
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your PDT（自有） PDT-NSU-7104-MP-SF-I at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as your PDT（自有） PDT-NSU-7104-MP-SF-I at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

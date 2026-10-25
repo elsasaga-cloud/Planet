@@ -241,7 +241,7 @@ updated: 2026-10-25
 ```text
 Hi Paul,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Paul, for the DG-S1930K-8GP2S-120W and 24GP4S models, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, with FCC/CE/RoHS reports — which of the two would you dual-source first?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the DG-S1930K-8GP2S-120W and 24GP4S models, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, with FCC/CE/RoHS reports — which of the two would you dual-source first?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Data General（自有） DG-S1930K-8GP2S-120W at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

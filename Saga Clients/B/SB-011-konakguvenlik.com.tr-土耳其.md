@@ -274,7 +274,7 @@ updated: 2026-10-25
 ```text
 Hi Erkut,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Erkut, alongside the budget PoE switches in your shop, we offer a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS/extend mode) from small lots, CE/RoHS, EXW USD — would a managed PoE option fit your installer customers?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the budget PoE switches in your shop, we offer a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS/extend mode) from small lots, CE/RoHS, EXW USD — would a managed PoE option fit your installer customers?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the 洪瑞 class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

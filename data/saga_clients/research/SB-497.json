@@ -73,7 +73,7 @@
   "tier": 20,
   "why": "自动化配套小型工业交换机（现 SW05E 类 5 口）→ 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）"
  },
- "email_hook": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?",
+ "email_hook": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?",
  "mail_review": {
   "binding": {
    "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 info@eso.co.th, sales@eso.co.th；主题多为「Mini Industrial PoE Switch、Industrial PoE Switch」；Elsa 箱：`to:eso.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(n)））",
@@ -100,7 +100,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?"
+   "one_question": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?"
   },
   "facts": [
    {

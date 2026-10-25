@@ -88,7 +88,7 @@
   "tier": 30,
   "why": "无线站点配套 PoE 交换机（RADWIN 标）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$85.5 @30%）/ 4 PoE STI-154GP（$40.8）；室外 IP67 Saga 不做"
  },
- "email_hook": "Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?",
+ "email_hook": "Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (the 8-PoE managed version on a Marvell platform) under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?",
  "mail_review": {
   "binding": {
    "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 dave_a@radwin.com, sharon_sher@radwin.com；主题多为「10G Enterprise SFP Switch、10G L3 Managed Switch」；Elsa 箱：`to:radwin.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(n)））",
@@ -115,7 +115,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?"
+   "one_question": "Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (the 8-PoE managed version on a Marvell platform) under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?"
   },
   "facts": [
    {

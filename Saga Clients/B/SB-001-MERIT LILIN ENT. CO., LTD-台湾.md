@@ -273,9 +273,9 @@ updated: 2026-10-25
 ```text
 Hi Gina,
 
-Picking up our earlier exchange about PoE / industrial switches. Gina, for LILIN-branded PoE switches and media converters to ship with your cameras — which two SKUs would you start with (e.g. 8-PoE + 2-SFP managed and a 4-PoE industrial)? I'll send neutral samples with your logo mock-up.
+Picking up our earlier exchange about PoE / industrial switches. For LILIN-branded PoE switches and media converters to ship with your cameras — which two SKUs would you start with (e.g. 8-PoE + 2-SFP managed and a 4-PoE industrial)? I'll send neutral samples with your logo mock-up.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -145,7 +145,7 @@
   "tier": 30,
   "why": "DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档"
  },
- "email_hook": "Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a Marvell-based gigabit PoE DIN switch in 8+2 SFP and 4+1 formats under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.",
+ "email_hook": "Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a gigabit PoE DIN switch in 8+2 SFP and 4+1 formats (the 8+2 also as a Marvell-based managed version) under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.",
  "mail_review": {
   "binding": {
    "level": "未绑定（0 回复：档案里的 1 封「来信」是 Alpha Net 的 Nate 回群发时抄送 bpatton@data-connect.com，非 DCE 回复；Elsa 箱：`to:data-connect.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 1）（第 74 批(g)））",

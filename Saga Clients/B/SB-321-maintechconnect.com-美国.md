@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：推送 23 次（2024-02-08 → 2025-10-31）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP — 自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM；换人再触锚价 STI-21616GP $185 EXW（最近实报 $185（㉕；档位 170.4 低于实报不用）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-09-22 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For your IPS-series industrial PoE switches (16/24-port), we build Marvell-based DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often? Reference: STI-21616GP at $185 USD EXW (MOQ 1, 15-day validity).
+- **第一问（只问一个）**：For your IPS-series industrial PoE switches (16/24-port), we build DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often? Reference: STI-21616GP at $185 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：疑为 IC Intracom（Intellinet 母公司）关联网店：若由母公司统一采购，决策不在此站
 - **Saga 现在该推什么**：P1 **STI-21616GP**（30% 档，换人再触锚价 STI-21616GP $185 EXW（最近实报 $185（㉕；档位 170.4 低于实报不用）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-09-22 $280（10G Enterprise SFP Switch））——自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：For your IPS-series industrial PoE switches (16/24-port), we build Marvell-based DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often? Reference: STI-21616GP at $185 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：For your IPS-series industrial PoE switches (16/24-port), we build DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often? Reference: STI-21616GP at $185 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@ updated: 2026-10-25
   - 表内「自己的 logo/型号」→ OEM 30% 档
 - **风险/边界**：疑为 IC Intracom（Intellinet 母公司）关联网店：若由母公司统一采购，决策不在此站；群发 23 次无回复：换角度首触（自有型号对位）；自有型号产品少（表内）→ 量未知
 - **Saga 对位结论**：P1 STI-21616GP（30% 档）——自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM
-- **邮件切入句（英文）**：For your IPS-series industrial PoE switches (16/24-port), we build Marvell-based DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?
+- **邮件切入句（英文）**：For your IPS-series industrial PoE switches (16/24-port), we build DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -285,14 +285,14 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (neutral label)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For your IPS-series industrial PoE switches (16/24-port), we build Marvell-based DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For your IPS-series industrial PoE switches (16/24-port), we build DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?
 
-We supply a Marvell-based 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks - model STI-21616GP - that fits the same slot as your Main Tech Connect（自有） IPS-16GM02-518W at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $184.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (unmanaged) - model STI-21616GP - that fits the same slot as your Main Tech Connect（自有） IPS-16GM02-518W at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $185 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -81,7 +81,7 @@
   "tier": 30,
   "why": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）"
  },
- "email_hook": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?",
+ "email_hook": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your packaging — which port count do your automation panels use most?",
  "mail_review": {
   "binding": {
    "level": "未触达（A/S 邮箱 17 封 2024→2026，1 次记录打开，0 回；收件 abdullahaydin@gmtcontrol.com, gmt@gmtcontrol.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:gmtcontrol.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(i)））",
@@ -108,7 +108,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?"
+   "one_question": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your packaging — which port count do your automation panels use most?"
   },
   "facts": [
    {

@@ -71,7 +71,7 @@
   "tier": 30,
   "why": "自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无"
  },
- "email_hook": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?",
+ "email_hook": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request; managed versions on a Marvell platform) from small lots under your label, CE/RoHS — which model would you dual-source first?",
  "products_seen": [
   {
    "brand": "Contemporary Controls（自有 CTRLink）",
@@ -116,7 +116,7 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?"
+   "one_question": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request; managed versions on a Marvell platform) from small lots under your label, CE/RoHS — which model would you dual-source first?"
   },
   "facts": [
    {

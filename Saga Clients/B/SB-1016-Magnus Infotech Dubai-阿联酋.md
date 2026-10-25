@@ -96,7 +96,7 @@ updated: 2026-10-25
   - 表内：分销工业交换机 / from: 领英；KP Gireesh Kumar K；gireeshk70@gmail.com
 - **风险/边界**：仅 gmail 免费邮箱、无公司域名（实体待核）；非主攻区（T5，阿联酋）；领英线索未跟进
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——分销工业交换机 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）
-- **邮件切入句（英文）**：Gireesh, for the industrial switches you distribute in the UAE, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — which configuration do your customers order most, and does Magnus have a company email I should use?
+- **邮件切入句（英文）**：Gireesh, for the industrial switches you distribute in the UAE, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots, EXW USD — which configuration do your customers order most, and does Magnus have a company email I should use?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -184,21 +184,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
 Hi Gireesh,
 
-Picking up our earlier exchange about PoE / industrial switches. Gireesh, for the industrial switches you distribute in the UAE, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — which configuration do your customers order most, and does Magnus have a company email I should use?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the industrial switches you distribute in the UAE, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots, EXW USD — which configuration do your customers order most, and does Magnus have a company email I should use?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $46.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

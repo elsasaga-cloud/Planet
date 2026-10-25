@@ -119,7 +119,7 @@ updated: 2026-10-25
   - 网店工业交换机明码标价：8 PoE+2 SFP 管理型 CLP 370,000（≈US$390 含税）vs Saga STI-288DGGPM EXW ≈US$146——毛利空间大，是最直接的报价切入（2026-10-21）
 - **风险/边界**：矿业场景可能要求更高防护/认证；智利不在主攻区；西语资料
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——网店在售 8 PoE + 2 SFP 管理型工业机 ≈US$390 零售；STI-288DGGPM EXW 对位 + STI-144GP（4+1）替其 4 口管理 + FO 位；工业/矿业方案商 25% 档
-- **邮件切入句（英文）**：Your 8-port PoE + 2 SFP managed industrial switch is listed at CLP 370,000; the Marvell-based equivalent I supply lands well under half of that EXW, with the 4+1 compact unit for your pump and well sites.
+- **邮件切入句（英文）**：Your 8-port PoE + 2 SFP managed industrial switch is listed at CLP 370,000; the equivalent I supply lands well under half of that EXW, with the 4+1 compact unit for your pump and well sites.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -287,7 +287,7 @@ updated: 2026-10-25
 ```text
 Hi Ling,
 
-Picking up our earlier exchange about PoE / industrial switches. Your 8-port PoE + 2 SFP managed industrial switch is listed at CLP 370,000; the Marvell-based equivalent I supply lands well under half of that EXW, with the 4+1 compact unit for your pump and well sites.
+Picking up our earlier exchange about PoE / industrial switches. Your 8-port PoE + 2 SFP managed industrial switch is listed at CLP 370,000; the equivalent I supply lands well under half of that EXW, with the 4+1 compact unit for your pump and well sites.
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your 中科德能（现来源） 工业 FS at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

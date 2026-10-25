@@ -73,7 +73,7 @@
     "tier": 25,
     "why": "RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）"
   },
-  "email_hook": "For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?",
+  "email_hook": "For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?",
   "country_fix": "立陶宛",
   "mail_review": {
     "binding": {
@@ -101,7 +101,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?"
+      "one_question": "For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?"
     },
     "facts": [
       {

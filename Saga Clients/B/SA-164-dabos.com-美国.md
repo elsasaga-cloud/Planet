@@ -248,21 +248,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STC-08GE - 8-port Gigabit desktop switch (neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an 8-port Gigabit desktop switch (unmanaged) - model STC-08GE - that fits the same slot as the Trendnet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $10.5 USD EXW (list price, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

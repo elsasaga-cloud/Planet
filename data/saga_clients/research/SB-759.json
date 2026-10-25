@@ -78,7 +78,7 @@
     "tier": 30,
     "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）"
   },
-  "email_hook": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?",
+  "email_hook": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?",
   "products_seen": [
     {
       "brand": "CCD（自有）",
@@ -123,7 +123,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → mk@ccdact.com",
       "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
-      "one_question": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -155,7 +155,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Industrial PoE Switch",
-      "body": "Hi Marcus,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Marcus,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

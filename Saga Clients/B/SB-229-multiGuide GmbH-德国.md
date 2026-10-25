@@ -218,14 +218,14 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
 
 ```text
 Hi Javier,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

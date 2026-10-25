@@ -72,7 +72,7 @@
     "tier": 30,
     "why": "自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工"
   },
-  "email_hook": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?",
+  "email_hook": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which model do you reorder most often?",
   "products_seen": [
     {
       "brand": "JDK（自有）",
@@ -109,7 +109,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → info@jdktech.com.au",
       "action": "首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
-      "one_question": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which model do you reorder most often? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -141,7 +141,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Managed Optical Bypass Switch",
-      "body": "Hello,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?\n\nReference price: DIN-rail 4-PoE + 1-GE + 1-SFP unmanaged industrial switch (STI-154GP) $40.8 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hello,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which model do you reorder most often?\n\nReference price: DIN-rail 4-PoE + 1-GE + 1-SFP unmanaged industrial switch (STI-154GP) $40.8 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

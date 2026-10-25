@@ -246,9 +246,9 @@ updated: 2026-10-25
 ```text
 Hi Nalan,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Nalan Hanım, Rejitek endüstriyel PC hattınızın yanına DIN ray 8 port PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C) distribütör fiyatı EXW 139,9 USD, sunucu kabinleri için 24 port + 4×10G L3 switch 269,1 USD — 'network appliance' talebiniz bu iki gruptan hangisine yakın?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Rejitek endüstriyel PC hattınızın yanına DIN ray 8 port PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C) distribütör fiyatı EXW 139,9 USD, sunucu kabinleri için 24 port + 4×10G L3 switch 269,1 USD — 'network appliance' talebiniz bu iki gruptan hangisine yakın?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -116,7 +116,7 @@ updated: 2026-10-25
   - 样机：1 台到 Gdańsk 并行比对（PoE 预算 / 温度范围 / 外观中性）
 - **风险/边界**：PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档；Planet 首触邮件未发送（Elsa 账号待定）
 - **Saga 对位结论**：P1 STI-244GP（20% 档）——其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：
-- **邮件切入句（英文）**：Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a Marvell-based, neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?
+- **邮件切入句（英文）**：Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -234,21 +234,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STI-244GP - industrial DIN-rail switch (neutral label)
 
 ```text
 Hi Damian,
 
-Picking up our earlier exchange about PoE / industrial switches. Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a Marvell-based, neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-01 - and there was no reason to answer a mass mail. This one is specific. Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-244GP - that fits the same slot as your PLANET IGS-624HPT at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $35.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

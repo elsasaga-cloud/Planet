@@ -74,7 +74,7 @@
   "tier": 20,
   "why": "在售 Utepo UTP7204E-POE（4 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）；商用 8 口位 STC-28DGGPM；L3 24 口不做"
  },
- "email_hook": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply Marvell-based 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent?",
+ "email_hook": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units (the latter L2+ managed on a Marvell platform) in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent?",
  "products_seen": [
   {
    "brand": "Utepo",
@@ -111,7 +111,7 @@
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
    "action": "换收件人再发一封",
-   "one_question": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply Marvell-based 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units (the latter L2+ managed on a Marvell platform) in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {

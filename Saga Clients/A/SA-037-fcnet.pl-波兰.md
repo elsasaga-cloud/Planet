@@ -283,7 +283,7 @@ Hi Jaroslaw,
 
 Picking up our earlier exchange about PoE / industrial switches. Against the TL-SG2428P and TL-SG2210MP price points on fcnet.pl, a Marvell-based 24-port PoE+ with 4 SFP and the matching 8-port unit under your own label leave a workable margin at EXW, so those are the two I am quoting.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your TP-Link（转售） TL-SG2428P（24×GE PoE+ 250W + 4 SFP） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your TP-Link（转售） TL-SG2428P（24×GE PoE+ 250W + 4 SFP） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

@@ -270,7 +270,7 @@ updated: 2026-10-25
 ```text
 Hi Jason,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Jason, alongside the ONV PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your installer customers order most with CCTV kits?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the ONV PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your installer customers order most with CCTV kits?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
