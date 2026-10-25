@@ -1,121 +1,121 @@
 {
-  "code": "SB-252",
-  "name_official": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.（Antalya Muratpaşa, TR；antalyaturkuaz.com）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（含 B2B 门户）",
-  "summary": "安塔利亚的安防/网络技术公司 Antalya Turkuaz Bilişim（25+ 年行业经验；11–50 人（ZoomInfo）；业务：AI 分析/人脸/车牌/热成像安防工程、企业网络基础设施（光纤熔接、结构化布线、机柜、Wi-Fi Mesh）、火灾报警、网络安全；B2B 订货门户 b2b.antalyaturkuaz.com；自述「全球品牌产品分销」；Altındağ Mah. 166. Sok. Doğan Apt. No:24/C Muratpaşa；+90 242 345 36 91；turkuaz@antalyaturkuaz.com）。ISAF 记录：Gökhan Naktar——不会说英语，拿了彩页；无后续跟进。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "业务与地址",
-      "quote": "Endüstriyel Güvenlik Mühendisliği … yapay zeka destekli analiz, yüz tanıma, plaka okuma ve termal görüş … Kurumsal Network Altyapısı … Fiber optik sonlandırma, yapısal kablolama … 25+ Yıl … turkuaz@antalyaturkuaz.com … Altındağ Mah. 166. Sokak Doğan Apt No:24/C, Muratpaşa, Antalya",
-      "url": "http://www.antalyaturkuaz.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "名录",
-      "claim": "规模与电话",
-      "quote": "Antalya Turkuaz Bilişim Teknolojileri … security camera systems, fire alarm systems, network systems, and cybersecurity solutions … revenue is <$5 Million … has 11-50 employees … Phone number: +90 2423453691",
-      "url": "https://www.zoominfo.com/c/antalya-turkuaz-bilis%CC%A7im-teknolojileri/1339718310",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "ISAF：不会英语，拿彩页",
-      "quote": "不会说英语， 拿了彩页 / Gokhan naktar",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Gökhan Naktar",
-      "role": "（ISAF 名片；职务待核）",
-      "email": "naktar@antalyaturkuaz.com（用户表）",
-      "phone": "+90 242 345 36 91（公司）",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网核对）"
+ "code": "SB-252",
+ "name_official": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.（Antalya Muratpaşa, TR；antalyaturkuaz.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（含 B2B 门户）",
+ "summary": "安塔利亚的安防/网络技术公司 Antalya Turkuaz Bilişim（25+ 年行业经验；11–50 人（ZoomInfo）；业务：AI 分析/人脸/车牌/热成像安防工程、企业网络基础设施（光纤熔接、结构化布线、机柜、Wi-Fi Mesh）、火灾报警、网络安全；B2B 订货门户 b2b.antalyaturkuaz.com；自述「全球品牌产品分销」；Altındağ Mah. 166. Sok. Doğan Apt. No:24/C Muratpaşa；+90 242 345 36 91；turkuaz@antalyaturkuaz.com）。ISAF 记录：Gökhan Naktar——不会说英语，拿了彩页；无后续跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务与地址",
+   "quote": "Endüstriyel Güvenlik Mühendisliği … yapay zeka destekli analiz, yüz tanıma, plaka okuma ve termal görüş … Kurumsal Network Altyapısı … Fiber optik sonlandırma, yapısal kablolama … 25+ Yıl … turkuaz@antalyaturkuaz.com … Altındağ Mah. 166. Sokak Doğan Apt No:24/C, Muratpaşa, Antalya",
+   "url": "http://www.antalyaturkuaz.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.",
-    "hq": "Altındağ Mah. 166. Sokak Doğan Apt. No:24/C, Muratpaşa / Antalya（+90 242 345 36 91；turkuaz@antalyaturkuaz.com）",
-    "size": "11–50（ZoomInfo）；营收 <$5M",
-    "other": "安防工程 + 网络基础设施 + B2B 分销门户；守界：火灾报警主系统不供"
+  {
+   "kind": "名录",
+   "claim": "规模与电话",
+   "quote": "Antalya Turkuaz Bilişim Teknolojileri … security camera systems, fire alarm systems, network systems, and cybersecurity solutions … revenue is <$5 Million … has 11-50 employees … Phone number: +90 2423453691",
+   "url": "https://www.zoominfo.com/c/antalya-turkuaz-bilis%CC%A7im-teknolojileri/1339718310",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "AI 安防工程（人脸/车牌/热成像）",
-    "企业网络基础设施（光纤、布线、Wi-Fi）",
-    "B2B 产品分销（b2b 门户）"
-  ],
-  "channels": {
-    "网站": "http://www.antalyaturkuaz.com/ · https://b2b.antalyaturkuaz.com/",
-    "电话": "+90 242 345 36 91（公开）",
-    "邮箱（公开）": "turkuaz@antalyaturkuaz.com"
-  },
-  "signals": [
-    "既做工程又有 B2B 分销门户 → 可同时自用与上架；安塔利亚酒店/设施安防 → 24 口 PoE 与工业 8 口"
-  ],
-  "risks": [
-    "语言（土耳其语）；需求未表达；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）"
-  },
-  "email_hook": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会说英语， 拿了彩页 / Gokhan naktar」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "TR 主攻（四主）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「不会说英语， 拿了彩页 / Gokhan naktar」；研究档 risks：语言（土耳其语）；需求未表达；无后续跟进"
-    },
-    "situation": "安塔利亚的安防/网络技术公司 Antalya Turkuaz Bilişim（25+ 年行业经验；11–50 人（ZoomInfo）；业务：AI 分析/人脸/车牌/热成像安防工程、企业网络基础设施（光纤熔接、结构化布线、机柜、Wi-Fi Mesh）、火灾报警、网络安全；B2B 订货门户 b2b.antalyaturkuaz.com；自述「全球品牌产品分销」；Altındağ Mah. 166. Sok. Doğan Apt. No:24/C Muratpaşa；+90 242 345 36 91；turkuaz@antalyaturkuaz.com）。ISAF 记录：Gökhan Naktar——不会说英语，拿了彩页；无后续跟进。",
-    "need": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）",
-    "breakpoint": "语言（土耳其语）；需求未表达；无后续跟进",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → naktar@antalyaturkuaz.com（Gökhan Naktar）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "不会说英语， 拿了彩页 / Gokhan naktar",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "ISAF：不会英语，拿彩页",
+   "quote": "不会说英语， 拿了彩页 / Gokhan naktar",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Gökhan Naktar",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "naktar@antalyaturkuaz.com（用户表）",
+   "phone": "+90 242 345 36 91（公司）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.",
+  "hq": "Altındağ Mah. 166. Sokak Doğan Apt. No:24/C, Muratpaşa / Antalya（+90 242 345 36 91；turkuaz@antalyaturkuaz.com）",
+  "size": "11–50（ZoomInfo）；营收 <$5M",
+  "other": "安防工程 + 网络基础设施 + B2B 分销门户；守界：火灾报警主系统不供"
+ },
+ "business_lines": [
+  "AI 安防工程（人脸/车牌/热成像）",
+  "企业网络基础设施（光纤、布线、Wi-Fi）",
+  "B2B 产品分销（b2b 门户）"
+ ],
+ "channels": {
+  "网站": "http://www.antalyaturkuaz.com/ · https://b2b.antalyaturkuaz.com/",
+  "电话": "+90 242 345 36 91（公开）",
+  "邮箱（公开）": "turkuaz@antalyaturkuaz.com"
+ },
+ "signals": [
+  "既做工程又有 B2B 分销门户 → 可同时自用与上架；安塔利亚酒店/设施安防 → 24 口 PoE 与工业 8 口"
+ ],
+ "risks": [
+  "语言（土耳其语）；需求未表达；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）"
+ },
+ "email_hook": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会说英语， 拿了彩页 / Gokhan naktar」；Elsa 箱：`to:antalyaturkuaz.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「不会说英语， 拿了彩页 / Gokhan naktar」；研究档 risks：语言（土耳其语）；需求未表达；无后续跟进"
+  },
+  "situation": "安塔利亚的安防/网络技术公司 Antalya Turkuaz Bilişim（25+ 年行业经验；11–50 人（ZoomInfo）；业务：AI 分析/人脸/车牌/热成像安防工程、企业网络基础设施（光纤熔接、结构化布线、机柜、Wi-Fi Mesh）、火灾报警、网络安全；B2B 订货门户 b2b.antalyaturkuaz.com；自述「全球品牌产品分销」；Altındağ Mah. 166. Sok. Doğan Apt. No:24/C Muratpaşa；+90 242 345 36 91；turkuaz@antalyaturkuaz.com）。ISAF 记录：Gökhan Naktar——不会说英语，拿了彩页；无后续跟进。",
+  "need": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）",
+  "breakpoint": "语言（土耳其语）；需求未表达；无后续跟进",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → naktar@antalyaturkuaz.com（Gökhan Naktar）",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "不会说英语， 拿了彩页 / Gokhan naktar",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

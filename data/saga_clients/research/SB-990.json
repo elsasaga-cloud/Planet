@@ -1,143 +1,143 @@
 {
-  "code": "SB-990",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（mfd.com.tr，快照 2026-10-21）",
-  "summary": "土耳其 MFD / MCS Factory Digitalization（工厂数字化与工业 4.0：SmartCNC、SCADA、Codemaster 平台、Siemens RF200/300/600；KP Mustafa Cimic（Project Manager）；表内「工业以太网 工业控制」）；表内 2 次跟进无回复。",
-  "type": "工业自动化/数字化集成商（土耳其）",
-  "size": "",
-  "brands_seen": [
-    "Siemens"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：MCS Factory Digitalization；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
-      "quote": "GÜNCEL PROJELER；SmartCNC Endüstri 4.0 uygulaması lansman tanıtımı yapıldı..；Win Eurasia 2022 Fuarı；Codemaster Platformu Web Sitemiz Yayına Başladı..",
-      "url": "https://mfd.com.tr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业以太网 工业控制",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "MFD 定位",
-      "quote": "MCS Factory Digitalization ; SmartCNC Endüstri 4.0 uygulaması ; Codemaster Platformu",
-      "url": "https://mfd.com.tr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业以太网 工业控制",
-      "quote": "工业以太网 工业控制",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Mustafa Cimic",
-      "title": "Project Manager",
-      "email": "info@mfd.com.tr",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-990",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（mfd.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 MFD / MCS Factory Digitalization（工厂数字化与工业 4.0：SmartCNC、SCADA、Codemaster 平台、Siemens RF200/300/600；KP Mustafa Cimic（Project Manager）；表内「工业以太网 工业控制」）；表内 2 次跟进无回复。",
+ "type": "工业自动化/数字化集成商（土耳其）",
+ "size": "",
+ "brands_seen": [
+  "Siemens"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：MCS Factory Digitalization；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "GÜNCEL PROJELER；SmartCNC Endüstri 4.0 uygulaması lansman tanıtımı yapıldı..；Win Eurasia 2022 Fuarı；Codemaster Platformu Web Sitemiz Yayına Başladı..",
+   "url": "https://mfd.com.tr/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "土耳其",
-    "other": "官网 mfd.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业以太网 工业控制",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工厂数字化 / 工业 4.0 / SCADA 集成（土耳其）"
-  ],
-  "channels": {
-    "role": "工业自动化/数字化集成商（土耳其）",
-    "region": "土耳其",
-    "contact": "info@mfd.com.tr"
+  {
+   "kind": "官网快照",
+   "claim": "MFD 定位",
+   "quote": "MCS Factory Digitalization ; SmartCNC Endüstri 4.0 uygulaması ; Codemaster Platformu",
+   "url": "https://mfd.com.tr/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：MCS Factory Digitalization ; SmartCNC Endüstri 4.0 uygulaması lansman tanıtımı yapıldı ; Win Eurasia 2022 Fuarı；kw scada 13；brands Siemens",
-    "表内：工业以太网 工业控制；KP Mustafa Cimic / Project Manager"
-  ],
-  "risks": [
-    "Siemens 生态（Scalance 价格基准高但粘性强）；项目型量小；土耳其汇率敏感；2 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 25,
-    "why": "工业以太网 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）、8 PoE + 2 SFP STI-288GPM（$82.2）"
-  },
-  "email_hook": "Mustafa, for the industrial Ethernet layer in your factory-digitalization and SCADA projects, we supply DIN-rail 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which switch position do your SmartCNC installations use most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@mfd.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-      "type": "工业自动化/数字化集成商（土耳其）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "TR 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 18；用户表：「工业以太网 工业控制」；研究档 risks：Siemens 生态（Scalance 价格基准高但粘性强）；项目型量小；土耳其汇率敏感；2 次无回复"
-    },
-    "situation": "土耳其 MFD / MCS Factory Digitalization（工厂数字化与工业 4.0：SmartCNC、SCADA、Codemaster 平台、Siemens RF200/300/600；KP Mustafa Cimic（Project Manager）；表内「工业以太网 工业控制」）；表内 2 次跟进无回复。",
-    "need": "工业以太网 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）、8 PoE + 2 SFP STI-288GPM（$82.2）",
-    "breakpoint": "Siemens 生态（Scalance 价格基准高但粘性强）；项目型量小；土耳其汇率敏感；2 次无回复",
-    "saga_now": {
-      "p1": "STI-280GE",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-15 $65（10G Media Converter）、2024-10-29 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
-      "why": "工业以太网 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）、8 PoE + 2 SFP STI-288GPM（$82.2）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Mustafa, for the industrial Ethernet layer in your factory-digitalization and SCADA projects, we supply DIN-rail 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which switch position do your SmartCNC installations use most?"
-    },
-    "facts": [
-      {
-        "date": "2024-11-05",
-        "dir": "去",
-        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-        "quote": "名单行：「industrial network info@mfd.com.tr http://mfd.com.tr/endustriyel-ethernet_s_tr_165_.aspx」",
-        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-      },
-      {
-        "date": "2026-09-17",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-        "why": "18 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-17（18 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业以太网 工业控制",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业以太网 工业控制",
+   "quote": "工业以太网 工业控制",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mustafa Cimic",
+   "title": "Project Manager",
+   "email": "info@mfd.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 mfd.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工厂数字化 / 工业 4.0 / SCADA 集成（土耳其）"
+ ],
+ "channels": {
+  "role": "工业自动化/数字化集成商（土耳其）",
+  "region": "土耳其",
+  "contact": "info@mfd.com.tr"
+ },
+ "signals": [
+  "官网：MCS Factory Digitalization ; SmartCNC Endüstri 4.0 uygulaması lansman tanıtımı yapıldı ; Win Eurasia 2022 Fuarı；kw scada 13；brands Siemens",
+  "表内：工业以太网 工业控制；KP Mustafa Cimic / Project Manager"
+ ],
+ "risks": [
+  "Siemens 生态（Scalance 价格基准高但粘性强）；项目型量小；土耳其汇率敏感；2 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "工业以太网 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）、8 PoE + 2 SFP STI-288GPM（$82.2）"
+ },
+ "email_hook": "Mustafa, for the industrial Ethernet layer in your factory-digitalization and SCADA projects, we supply DIN-rail 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which switch position do your SmartCNC installations use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@mfd.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:mfd.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））",
+   "type": "工业自动化/数字化集成商（土耳其）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「工业以太网 工业控制」；研究档 risks：Siemens 生态（Scalance 价格基准高但粘性强）；项目型量小；土耳其汇率敏感；2 次无回复"
+  },
+  "situation": "土耳其 MFD / MCS Factory Digitalization（工厂数字化与工业 4.0：SmartCNC、SCADA、Codemaster 平台、Siemens RF200/300/600；KP Mustafa Cimic（Project Manager）；表内「工业以太网 工业控制」）；表内 2 次跟进无回复。",
+  "need": "工业以太网 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）、8 PoE + 2 SFP STI-288GPM（$82.2）",
+  "breakpoint": "Siemens 生态（Scalance 价格基准高但粘性强）；项目型量小；土耳其汇率敏感；2 次无回复",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-15 $65（10G Media Converter）、2024-10-29 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "工业以太网 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）、8 PoE + 2 SFP STI-288GPM（$82.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Mustafa, for the industrial Ethernet layer in your factory-digitalization and SCADA projects, we supply DIN-rail 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which switch position do your SmartCNC installations use most?"
+  },
+  "facts": [
+   {
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「industrial network info@mfd.com.tr http://mfd.com.tr/endustriyel-ethernet_s_tr_165_.aspx」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-17（18 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业以太网 工业控制",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

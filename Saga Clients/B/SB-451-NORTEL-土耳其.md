@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-451` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「没说什么，要catalog / 90 53013 69407 已加」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「没说什么，要catalog / 90 53013 69407 已加」；研究档 risks：ISAF 只要了目录；无后续跟进
+- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「没说什么，要catalog / 90 53013 69407 已加」；S/A 邮箱 0 封；Elsa 箱：`to:norteliletisim.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「没说什么，要catalog / 90 53013 69407 已加」；研究档 risks：ISAF 只要了目录；无后续跟进
 - **现状一句话**：安塔利亚的通信/网络集成商 Nortel İletişim（与 Nortel Networks 无关；业务：Avaya IP 电话交换机、LAN、结构化布线与机房、光纤骨干与熔接、CCTV、火灾探测、紧急广播；7/24 支持；Varlık Mah. Piri Reis Cad. No:19/B Muratpaşa + Yükseliş Mah. 2116 Sk. 26/A Kepez；+90 242 237 27 27；info@/nortel@norteliletisim.com）。ISAF 记录：项目经理 Bayram Tatlı——没说什么、要 catalog；WhatsApp 已加（+90 530 136 94 07）；无后续跟进。安塔利亚酒店/旅游业弱电项目 → 25%。
 - **对方真实需求（有据）**：集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP
 - **断点 / 为什么停在这里**：ISAF 只要了目录；无后续跟进
@@ -241,12 +241,12 @@ Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP tel
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

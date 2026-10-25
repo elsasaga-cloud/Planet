@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-972` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 aricoz@dacel.com.tr, ecirit@dacel.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：工业自动化/弱电系统集成商（土耳其，Hirschmann 在用） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「工业FS」；研究档 risks：守界备注：火灾探测/气体灭火等生命安全系统不涉，只供 CCTV/自动化通用交换机
+- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 aricoz@dacel.com.tr, ecirit@dacel.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:dacelsolutions.com OR to:dacel.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(i)））** ｜ 类型：工业自动化/弱电系统集成商（土耳其，Hirschmann 在用） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「工业FS」；研究档 risks：守界备注：火灾探测/气体灭火等生命安全系统不涉，只供 CCTV/自动化通用交换机
 - **现状一句话**：土耳其 DACEL Mühendislik（工业控制与自动化产品销售/服务 + 弱电系统：火灾探测（Xtralis VESDA）、CCTV、门禁、气体灭火、KNX、公共广播；Siemens / Hirschmann；表内「工业 FS」；KP Erkan Cirit（Shareholder，ecirit@）、Ibrahim Gokcen（Head of Purchasing and Logistics）、Ali Icoez（Vice President Projects））；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：项目用工业 FS（现 Hirschmann）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE（$48.6）作预算线；消防/生命安全回路不涉（守界）
 - **断点 / 为什么停在这里**：守界备注：火灾探测/气体灭火等生命安全系统不涉，只供 CCTV/自动化通用交换机
@@ -298,12 +298,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

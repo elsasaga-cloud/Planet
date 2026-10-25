@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-577` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 nalan@pcgbilgisayar.com；主题多为「16 Port Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「network appliance / from: 珊姐转 / nalan@pcgbilgisayar.com」；研究档 risks：主业服务器，交换机为新品类；「network appliance」需求待澄清；无后续跟进
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 nalan@pcgbilgisayar.com；主题多为「16 Port Ethernet Switch」；Elsa 箱：`to:pcgbilgisayar.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(i)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「network appliance / from: 珊姐转 / nalan@pcgbilgisayar.com」；研究档 risks：主业服务器，交换机为新品类；「network appliance」需求待澄清；无后续跟进
 - **现状一句话**：伊斯坦布尔 Kartal 的企业 IT 分销商/集成商 PCG Bilgisayar（1998 年起，法人 2004-06-04；11–50 人（ZoomInfo 17）；Gigabyte Enterprise（服务器/工作站）土耳其独家分销商（2016 起）、NVIDIA Compute Partner、Rejitek 工业电脑/显示器土耳其独家分销（2026）、E-View、Terramaster、Thecus；HPC/AI/数据中心方案；Baltacı Mehmet Paşa Sok. No:4 Moment İstanbul B Blok D:77 Soğanlık Kartal；+90 216 441 07 24；info@pcgbilgisayar.com）。用户表：珊姐转来，询 network appliance；联系人 Nalan；WhatsApp 已加；无跟进。分销商 →
 - **对方真实需求（有据）**：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$139.9）与 Rejitek 工业 PC 捆绑；机柜 ToR STC-424XGGM(L3)（24 GE + 4×10G，$269.1）
 - **断点 / 为什么停在这里**：主业服务器，交换机为新品类；「network appliance」需求待澄清；无后续跟进
@@ -271,12 +271,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

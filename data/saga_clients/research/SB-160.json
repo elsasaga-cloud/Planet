@@ -58,7 +58,7 @@
  "email_hook": "Şahin Bey, ISAF'ta sorduğunuz SFP modüller için tip (1G/10G, SM/MM, mesafe) ve adet bilgisini alabilir miyim? Fiyatla birlikte 2 SFP + 8 port PoE switch (30,8 USD EXW) seçeneğini de ekleyeyim.",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com」；Elsa 箱：`to:shnrise.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

@@ -1,146 +1,146 @@
 {
-  "code": "SB-011",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（konakguvenlik.com.tr，快照 2026-10-21）",
-  "summary": "土耳其 Konak Güvenlik（安防电商：报警、摄像机、OPAX PoE 交换机 OPAX-2427 / OPAX-1619 / OPAX-0810；表内「洪瑞（HRUI）、丰润达的商业 PoE」；KP Erkut Sevin（+90 531…））；表内 2 次跟进无回复。",
-  "type": "安防电商（土耳其，HRUI/丰润达在售 → Q-33 口径）",
-  "size": "",
-  "brands_seen": [
-    "HRUI",
-    "丰润达",
-    "OPAX"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Anasayfa；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-      "quote": "Anasayfa -Güvenli E-Ticaret,Motif Kart,Sendika,MemurSen, Alışveriş,İndirim, Kupon, Ucuz, Kaliteli, Vakıf,Elektronik, İnşaat, Okul, Bilgisayar,Tablet, Sanat,Kamera.Alarm",
-      "url": "https://www.konakguvenlik.com.tr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "洪瑞 丰润达的商业POE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Konak Güvenlik 站点",
-      "quote": "Anasayfa ; KABLOSUZ ALARM SİSTEMİ KAMPANYASI ; OPAX-2427 ; OPAX-1619 ; OPAX-0810",
-      "url": "https://www.konakguvenlik.com.tr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "HRUI 丰润达的商业 PoE",
-      "quote": "洪瑞 丰润达的商业POE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Erkut Sevin",
-      "title": "（职务待核）",
-      "email": "satis@konakguvenlik.com.tr",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-011",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（konakguvenlik.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 Konak Güvenlik（安防电商：报警、摄像机、OPAX PoE 交换机 OPAX-2427 / OPAX-1619 / OPAX-0810；表内「洪瑞（HRUI）、丰润达的商业 PoE」；KP Erkut Sevin（+90 531…））；表内 2 次跟进无回复。",
+ "type": "安防电商（土耳其，HRUI/丰润达在售 → Q-33 口径）",
+ "size": "",
+ "brands_seen": [
+  "HRUI",
+  "丰润达",
+  "OPAX"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Anasayfa；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Anasayfa -Güvenli E-Ticaret,Motif Kart,Sendika,MemurSen, Alışveriş,İndirim, Kupon, Ucuz, Kaliteli, Vakıf,Elektronik, İnşaat, Okul, Bilgisayar,Tablet, Sanat,Kamera.Alarm",
+   "url": "https://www.konakguvenlik.com.tr/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "土耳其",
-    "other": "官网 konakguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "洪瑞 丰润达的商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "安防电商（报警 / 摄像机 / PoE）"
-  ],
-  "channels": {
-    "role": "安防电商（土耳其，HRUI/丰润达在售 → Q-33 口径）",
-    "region": "土耳其",
-    "contact": "satis@konakguvenlik.com.tr"
+  {
+   "kind": "官网快照",
+   "claim": "Konak Güvenlik 站点",
+   "quote": "Anasayfa ; KABLOSUZ ALARM SİSTEMİ KAMPANYASI ; OPAX-2427 ; OPAX-1619 ; OPAX-0810",
+   "url": "https://www.konakguvenlik.com.tr/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "站内 OPAX-2427 / OPAX-1619 / OPAX-0810；kw ethernet 17 / poe 9 / cctv 5 / nvr 5",
-    "表内：洪瑞 丰润达的商业 PoE；KP Erkut Sevin / 90 5315637721"
-  ],
-  "risks": [
-    "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；丰润达价格基准低",
-    "土耳其：汇率敏感；2 次跟进无回复；KP 职务待核"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "现售 HRUI/丰润达商用 PoE → 按 Q-33 口径不碰 HRUI 同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
-  },
-  "email_hook": "Erkut, alongside the budget PoE switches in your shop, we offer a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS/extend mode) from small lots, CE/RoHS, EXW USD — would a managed PoE option fit your installer customers?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（2024-06-26 Erkut 贴了一张 Allied Telesis AT-FS750-28 的图问「有没有这个规格的」→ Simon 给了 24 口 PoE 近似款；无后续；HRUI/丰润达在售 → Q-33 口径）",
-      "type": "土耳其安防电商（Konak Güvenlik）",
-      "sieve": "2",
-      "stop": "Q-33 + 需求是 24 口百兆非 PoE 入门款",
-      "revive": "不动",
-      "lane": "TR 主攻但 Q-33",
-      "cadence": "不动",
-      "evidence": "k=f2187e6f5c356bda / 8c1d7c507bf9d631；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
-    },
-    "situation": "—",
-    "need": "AT-FS750-28 同类。",
-    "breakpoint": "Q-33。",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "口径修正：他要 AT-FS750/28 等价（24 FE + 2 GE Combo + 2 SFP WebSmart 非 PoE），不是 4424GCPM；群发已见 STC-448XGGM $220（2024-06-14）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-14 $220（L2 managed switch）、2024-08-10 $65（Re: L2 managed switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
-      "why": "已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-06-26",
-        "dir": "来",
-        "who": "satis@konakguvenlik.com.tr",
-        "quote": "Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21, 14 Hazir",
-        "why": "来信原文（主题「Re: L2 managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "f2187e6f5c356bda"
-      },
-      {
-        "date": "2024-06-26",
-        "dir": "去",
-        "who": "Simon → Erkut Sevin（Re: L2 managed switch；附 STC-4424GCPM.pdf）",
-        "quote": "对「Do you have a product with the features in the description? network-switches-AT-FS750-28」的回复：「We just have a similar model (difference: 24 port Gigabit Ethernet, With PoE, more ports). Please check the datasheet」→ 给的是 STC-4424GCPM（24 GE PoE + 4 Combo，L2 管理）；6-30 又推 24 口被动 PoE → 无回。",
-        "why": "Erkut 要的是 **Allied Telesis AT-FS750/28 的等价物**（24×FE + 2×GE Combo + 2×SFP，WebSmart，非 PoE，低价）——Simon 给了 PoE 千兆 L2 机，口径没对上（价位差一个量级）。土耳其安防集成商，重启时直接按「百兆 24 口 Web 管理非 PoE」给 STC-2216/2224 系列价而不是 4424GCPM；群发里他已见 448XGGM $220（2024-06-14）",
-        "k": "k=8c1d7c507bf9d631（S 邮箱 2024-06-26 09:14Z）"
-      },
-      {
-        "date": "2024-11-05",
-        "dir": "去",
-        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-        "quote": "名单行：「90 5315637721 Commercial POE satis@konakguvenlik.com.tr https://www.konakguvenlik.com.tr/k/2539-.html」",
-        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-      }
-    ],
-    "proof_gaps": [
-      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "HRUI 丰润达的商业 PoE",
+   "quote": "洪瑞 丰润达的商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Erkut Sevin",
+   "title": "（职务待核）",
+   "email": "satis@konakguvenlik.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 konakguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防电商（报警 / 摄像机 / PoE）"
+ ],
+ "channels": {
+  "role": "安防电商（土耳其，HRUI/丰润达在售 → Q-33 口径）",
+  "region": "土耳其",
+  "contact": "satis@konakguvenlik.com.tr"
+ },
+ "signals": [
+  "站内 OPAX-2427 / OPAX-1619 / OPAX-0810；kw ethernet 17 / poe 9 / cctv 5 / nvr 5",
+  "表内：洪瑞 丰润达的商业 PoE；KP Erkut Sevin / 90 5315637721"
+ ],
+ "risks": [
+  "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；丰润达价格基准低",
+  "土耳其：汇率敏感；2 次跟进无回复；KP 职务待核"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "现售 HRUI/丰润达商用 PoE → 按 Q-33 口径不碰 HRUI 同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
+ },
+ "email_hook": "Erkut, alongside the budget PoE switches in your shop, we offer a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS/extend mode) from small lots, CE/RoHS, EXW USD — would a managed PoE option fit your installer customers?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-06-26 Erkut 贴了一张 Allied Telesis AT-FS750-28 的图问「有没有这个规格的」→ Simon 给了 24 口 PoE 近似款；无后续；HRUI/丰润达在售 → Q-33 口径；Elsa 箱：`to:konakguvenlik.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 1）（第 74 批(i)））",
+   "type": "土耳其安防电商（Konak Güvenlik）",
+   "sieve": "2",
+   "stop": "Q-33 + 需求是 24 口百兆非 PoE 入门款",
+   "revive": "不动",
+   "lane": "TR 主攻但 Q-33",
+   "cadence": "不动",
+   "evidence": "k=f2187e6f5c356bda / 8c1d7c507bf9d631；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "—",
+  "need": "AT-FS750-28 同类。",
+  "breakpoint": "Q-33。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "口径修正：他要 AT-FS750/28 等价（24 FE + 2 GE Combo + 2 SFP WebSmart 非 PoE），不是 4424GCPM；群发已见 STC-448XGGM $220（2024-06-14）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-14 $220（L2 managed switch）、2024-08-10 $65（Re: L2 managed switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
+   "why": "已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-06-26",
+    "dir": "来",
+    "who": "satis@konakguvenlik.com.tr",
+    "quote": "Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21, 14 Hazir",
+    "why": "来信原文（主题「Re: L2 managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "f2187e6f5c356bda"
+   },
+   {
+    "date": "2024-06-26",
+    "dir": "去",
+    "who": "Simon → Erkut Sevin（Re: L2 managed switch；附 STC-4424GCPM.pdf）",
+    "quote": "对「Do you have a product with the features in the description? network-switches-AT-FS750-28」的回复：「We just have a similar model (difference: 24 port Gigabit Ethernet, With PoE, more ports). Please check the datasheet」→ 给的是 STC-4424GCPM（24 GE PoE + 4 Combo，L2 管理）；6-30 又推 24 口被动 PoE → 无回。",
+    "why": "Erkut 要的是 **Allied Telesis AT-FS750/28 的等价物**（24×FE + 2×GE Combo + 2×SFP，WebSmart，非 PoE，低价）——Simon 给了 PoE 千兆 L2 机，口径没对上（价位差一个量级）。土耳其安防集成商，重启时直接按「百兆 24 口 Web 管理非 PoE」给 STC-2216/2224 系列价而不是 4424GCPM；群发里他已见 448XGGM $220（2024-06-14）",
+    "k": "k=8c1d7c507bf9d631（S 邮箱 2024-06-26 09:14Z）"
+   },
+   {
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「90 5315637721 Commercial POE satis@konakguvenlik.com.tr https://www.konakguvenlik.com.tr/k/2539-.html」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   }
+  ],
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-624` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」；研究档 risks：已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」；Elsa 箱：`to:aniltelekom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」；研究档 risks：已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进
 - **现状一句话**：伊斯坦布尔 Perpa 商贸中心的安防/通信分销商 Anıl Telekom（2002 年起；自称「Ana Dağıtıcı」总分销：Dahua 摄像、Gigaset/Karel/Yealink/Panasonic 话机、TP-Link/Ruijie/Lande 网络、Ajax/Paradox 报警、Westa/Decon 音响；11–50 人；Perpa A Blok No:1440-1442-1575-1577-1579 Kat:10-12 Şişli；0212 292 90 90；aniltelekom@aniltelekom.com）。ISAF 记录：Cumhur Ölmez（cumhur@aniltelekom.com）——「应该是老板，没说什么，给了名片」；无后续跟进。核实：Cumhur Ölmez = Pazarlama ve Satış Yöneticisi（市场与销售经理
 - **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）
 - **断点 / 为什么停在这里**：已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进
@@ -257,12 +257,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

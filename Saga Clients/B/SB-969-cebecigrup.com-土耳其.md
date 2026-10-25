@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-969` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 iletisim@cebecigrup.com, mustafaengin@cebecigrup.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：光纤/电信设备分销商（土耳其，自有 CFC 标 PoE 线，现 ONV/国内） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「ONV 工业FS 工业串口 有国内的」；研究档 risks：现供 ONV/国内厂（价格基准低）；工业串口产品 Saga 不供；土耳其汇率敏感
+- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 iletisim@cebecigrup.com, mustafaengin@cebecigrup.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:cebecigrup.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））** ｜ 类型：光纤/电信设备分销商（土耳其，自有 CFC 标 PoE 线，现 ONV/国内） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「ONV 工业FS 工业串口 有国内的」；研究档 risks：现供 ONV/国内厂（价格基准低）；工业串口产品 Saga 不供；土耳其汇率敏感
 - **现状一句话**：土耳其 Cebeci Grup（Cebeci Teleteks San. ve Tic. Ltd. Şti.：光纤/电信测试与接入设备分销——Kingfisher/Tempo、Transition Networks/Lantronix、Micos Telcom/PLP、Argus 260；站内自有 CFC 系列 PoE 交换机页（CFC-8T2S 非管理 PoE、CFC-2F1S 工业 FE PoE）；表内「ONV；工业 FS 工业串口 有国内的」；KP Mustafa Engin（Satış ve Proje Direktörü））；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供
 - **断点 / 为什么停在这里**：现供 ONV/国内厂（价格基准低）；工业串口产品 Saga 不供；土耳其汇率敏感
@@ -299,12 +299,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

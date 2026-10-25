@@ -1,131 +1,131 @@
 {
-  "code": "SB-116",
-  "name_official": "Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti.（İstanbul Çekmeköy, TR；zeytek.com.tr）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "伊斯坦布尔 Çekmeköy 的弱电/布线材料供应商 Zeytek（2019 年成立，团队 15 年行业经验；2–10 人（RocketReach 5 人）；为工业设施、政府建筑、医院、银行、连锁店、高层建筑供应结构化布线、机房与基础设施材料；总协调人 Mehmet Zeytinli（ex-Legrand 企业销售、Dat Telekom、Asrack 机柜、Gunko）；Çatalmeşe Mah. Saray Cad. No:261/A Çekmeköy；+90 216 755 72 33）。ISAF 记录：没做过多交谈、要了名片和彩页；WhatsApp 已加（+90 535 662 35 48）；无后续跟进。材料供应商 → 分销 20%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "名录",
-      "claim": "公司背景与 KP",
-      "quote": "Mehmet Zeytinli is a Genel Koordinatör at Zeytek … Zeytek Bilişim ve Teknoloji Ürünleri is a company established in 2019 … With 15 years of industry experience, they provide structural cabling, data center solutions, and infrastructure materials for various sectors including industrial facilities, government buildings, hospitals, banks … Previously … Legrand Group … Dat Telekom … +90 2167557233",
-      "url": "https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "地址",
-      "quote": "(216) 755 7233 … Çatalmeşe Mah., Saray Cad., No:261/A, Çekmeköy/İSTANBUL",
-      "url": "http://zeytek.com.tr/Iletisim",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "名录",
-      "claim": "规模",
-      "quote": "Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti. employs 5 employees. The … management team includes Mehmet Zeytinli (Genel Koordinatör)",
-      "url": "https://rocketreach.co/zeytek-bilisim-ve-teknoloji-urunleri-san-tic-ltd-sti-management_b43dfa18c19ce3fa",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "ISAF：要名片和彩页；WhatsApp 已加",
-      "quote": "没做过多交谈，要了名片和彩页 / 9053566 23548 已加",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Mehmet Zeytinli",
-      "role": "Genel Koordinatör / Director（名录公开）",
-      "email": "mehmet@zeytek.com.tr（用户表）",
-      "phone": "+90 535 662 35 48（用户表，WhatsApp 已加）",
-      "source": "https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 名录核对）"
+ "code": "SB-116",
+ "name_official": "Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti.（İstanbul Çekmeköy, TR；zeytek.com.tr）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "伊斯坦布尔 Çekmeköy 的弱电/布线材料供应商 Zeytek（2019 年成立，团队 15 年行业经验；2–10 人（RocketReach 5 人）；为工业设施、政府建筑、医院、银行、连锁店、高层建筑供应结构化布线、机房与基础设施材料；总协调人 Mehmet Zeytinli（ex-Legrand 企业销售、Dat Telekom、Asrack 机柜、Gunko）；Çatalmeşe Mah. Saray Cad. No:261/A Çekmeköy；+90 216 755 72 33）。ISAF 记录：没做过多交谈、要了名片和彩页；WhatsApp 已加（+90 535 662 35 48）；无后续跟进。材料供应商 → 分销 20%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "名录",
+   "claim": "公司背景与 KP",
+   "quote": "Mehmet Zeytinli is a Genel Koordinatör at Zeytek … Zeytek Bilişim ve Teknoloji Ürünleri is a company established in 2019 … With 15 years of industry experience, they provide structural cabling, data center solutions, and infrastructure materials for various sectors including industrial facilities, government buildings, hospitals, banks … Previously … Legrand Group … Dat Telekom … +90 2167557233",
+   "url": "https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti.",
-    "founded": "2019",
-    "hq": "Çatalmeşe Mah. Saray Cad. No:261/A, Çekmeköy / İstanbul（+90 216 755 72 33）",
-    "size": "2–10（LinkedIn）；5（RocketReach）",
-    "other": "布线/机房材料供应；客户含政府建筑/医院/银行（守界：政府项目按个案）"
+  {
+   "kind": "官网",
+   "claim": "地址",
+   "quote": "(216) 755 7233 … Çatalmeşe Mah., Saray Cad., No:261/A, Çekmeköy/İSTANBUL",
+   "url": "http://zeytek.com.tr/Iletisim",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "结构化布线与机房基础设施材料供应",
-    "弱电项目材料配套"
-  ],
-  "channels": {
-    "网站": "http://zeytek.com.tr/",
-    "电话": "+90 216 755 72 33（公开）",
-    "LinkedIn": "https://tr.linkedin.com/company/zeytek-bi%CC%87li%CC%87%C5%9Fi%CC%87m-ve-teknoloji%CC%87-%C3%BCr%C3%BCnleri%CC%87-san-ti%CC%87c-ltd-%C5%9Fti%CC%87"
+  {
+   "kind": "名录",
+   "claim": "规模",
+   "quote": "Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti. employs 5 employees. The … management team includes Mehmet Zeytinli (Genel Koordinatör)",
+   "url": "https://rocketreach.co/zeytek-bilisim-ve-teknoloji-urunleri-san-tic-ltd-sti-management_b43dfa18c19ce3fa",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "布线材料商在项目 BOM 中顺带供交换机 → 8/24 口 PoE 与 MC 作配套；创始人 Legrand/机柜背景 → 懂机柜配套"
-  ],
-  "risks": [
-    "小团队、无库存能力；ISAF 未深谈；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "分销 20% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$80.7）配布线项目；24 口 STC-424DGGPM-280W（$134.5）；MC STI-110GE（$22.4）"
-  },
-  "email_hook": "Mehmet Bey, yapısal kablolama projelerinizin BOM'una ekleyebileceğiniz 8 port PoE+ + 2 SFP L2+ yönetilebilir switch EXW 80,7 USD, 24 port 280 W sürümü 134,5 USD; ilk projede kaç kabin var, kabin başına teklif hazırlayayım mı?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做过多交谈，要了名片和彩页 / 9053566 23548 已加」；S/A 邮箱 0 封",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "土耳其 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「没做过多交谈，要了名片和彩页 / 9053566 23548 已加」；研究档 risks：小团队、无库存能力；ISAF 未深谈；无后续跟进"
-    },
-    "situation": "伊斯坦布尔 Çekmeköy 的弱电/布线材料供应商 Zeytek（2019 年成立，团队 15 年行业经验；2–10 人（RocketReach 5 人）；为工业设施、政府建筑、医院、银行、连锁店、高层建筑供应结构化布线、机房与基础设施材料；总协调人 Mehmet Zeytinli（ex-Legrand 企业销售、Dat Telekom、Asrack 机柜、Gunko）；Çatalmeşe Mah. Saray Cad. No:261/A Çekmeköy；+90 216 755 72 33）。ISAF 记录：没做过多交谈、要了名片和彩页；WhatsApp 已加（+90 535 662 35 48）；无后续跟进。材料供应商 → 分销 20%。",
-    "need": "分销 20% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$80.7）配布线项目；24 口 STC-424DGGPM-280W（$134.5）；MC STI-110GE（$22.4）",
-    "breakpoint": "小团队、无库存能力；ISAF 未深谈；无后续跟进",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "分销 20% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$80.7）配布线项目；24 口 STC-424DGGPM-280W（$134.5）；MC STI-110GE（$22.4）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "Mehmet Bey, yapısal kablolama projelerinizin BOM'una ekleyebileceğiniz 8 port PoE+ + 2 SFP L2+ yönetilebilir switch EXW 80,7 USD, 24 port 280 W sürümü 134,5 USD; ilk projede kaç kabin var, kabin başına teklif hazırlayayım mı?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "没做过多交谈，要了名片和彩页 / 9053566 23548 已加",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Mehmet Bey, yapısal kablolama projelerinizin BOM'una ekleyebileceğiniz 8 port PoE+ + 2 SFP L2+ yönetilebilir switch EXW 80,7 USD, 24 port 280 W sürümü 134,5 USD; ilk projede kaç kabin var, kabin başına teklif hazırlayayım mı?"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "ISAF：要名片和彩页；WhatsApp 已加",
+   "quote": "没做过多交谈，要了名片和彩页 / 9053566 23548 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mehmet Zeytinli",
+   "role": "Genel Koordinatör / Director（名录公开）",
+   "email": "mehmet@zeytek.com.tr（用户表）",
+   "phone": "+90 535 662 35 48（用户表，WhatsApp 已加）",
+   "source": "https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti.",
+  "founded": "2019",
+  "hq": "Çatalmeşe Mah. Saray Cad. No:261/A, Çekmeköy / İstanbul（+90 216 755 72 33）",
+  "size": "2–10（LinkedIn）；5（RocketReach）",
+  "other": "布线/机房材料供应；客户含政府建筑/医院/银行（守界：政府项目按个案）"
+ },
+ "business_lines": [
+  "结构化布线与机房基础设施材料供应",
+  "弱电项目材料配套"
+ ],
+ "channels": {
+  "网站": "http://zeytek.com.tr/",
+  "电话": "+90 216 755 72 33（公开）",
+  "LinkedIn": "https://tr.linkedin.com/company/zeytek-bi%CC%87li%CC%87%C5%9Fi%CC%87m-ve-teknoloji%CC%87-%C3%BCr%C3%BCnleri%CC%87-san-ti%CC%87c-ltd-%C5%9Fti%CC%87"
+ },
+ "signals": [
+  "布线材料商在项目 BOM 中顺带供交换机 → 8/24 口 PoE 与 MC 作配套；创始人 Legrand/机柜背景 → 懂机柜配套"
+ ],
+ "risks": [
+  "小团队、无库存能力；ISAF 未深谈；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "分销 20% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$80.7）配布线项目；24 口 STC-424DGGPM-280W（$134.5）；MC STI-110GE（$22.4）"
+ },
+ "email_hook": "Mehmet Bey, yapısal kablolama projelerinizin BOM'una ekleyebileceğiniz 8 port PoE+ + 2 SFP L2+ yönetilebilir switch EXW 80,7 USD, 24 port 280 W sürümü 134,5 USD; ilk projede kaç kabin var, kabin başına teklif hazırlayayım mı?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做过多交谈，要了名片和彩页 / 9053566 23548 已加」；S/A 邮箱 0 封；Elsa 箱：`to:zeytek.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「没做过多交谈，要了名片和彩页 / 9053566 23548 已加」；研究档 risks：小团队、无库存能力；ISAF 未深谈；无后续跟进"
+  },
+  "situation": "伊斯坦布尔 Çekmeköy 的弱电/布线材料供应商 Zeytek（2019 年成立，团队 15 年行业经验；2–10 人（RocketReach 5 人）；为工业设施、政府建筑、医院、银行、连锁店、高层建筑供应结构化布线、机房与基础设施材料；总协调人 Mehmet Zeytinli（ex-Legrand 企业销售、Dat Telekom、Asrack 机柜、Gunko）；Çatalmeşe Mah. Saray Cad. No:261/A Çekmeköy；+90 216 755 72 33）。ISAF 记录：没做过多交谈、要了名片和彩页；WhatsApp 已加（+90 535 662 35 48）；无后续跟进。材料供应商 → 分销 20%。",
+  "need": "分销 20% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$80.7）配布线项目；24 口 STC-424DGGPM-280W（$134.5）；MC STI-110GE（$22.4）",
+  "breakpoint": "小团队、无库存能力；ISAF 未深谈；无后续跟进",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销 20% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$80.7）配布线项目；24 口 STC-424DGGPM-280W（$134.5）；MC STI-110GE（$22.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Mehmet Bey, yapısal kablolama projelerinizin BOM'una ekleyebileceğiniz 8 port PoE+ + 2 SFP L2+ yönetilebilir switch EXW 80,7 USD, 24 port 280 W sürümü 134,5 USD; ilk projede kaç kabin var, kabin başına teklif hazırlayayım mı?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "没做过多交谈，要了名片和彩页 / 9053566 23548 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Mehmet Bey, yapısal kablolama projelerinizin BOM'una ekleyebileceğiniz 8 port PoE+ + 2 SFP L2+ yönetilebilir switch EXW 80,7 USD, 24 port 280 W sürümü 134,5 USD; ilk projede kaç kabin var, kabin başına teklif hazırlayayım mı?"
+  },
+  "as_of": "2026-10-24"
+ }
 }

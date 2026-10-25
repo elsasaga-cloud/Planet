@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-460` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 can@cctvdepo.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）** ｜ 类型：安防/电脑配件经销门户（土耳其，SZNT PoE） ｜ 筛子：1（只收到群发） ｜ 停点：11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；研究档 risks：现卖 SZNT（深圳）价格基准低
+- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 can@cctvdepo.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:cctvdepo.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(i)））** ｜ 类型：安防/电脑配件经销门户（土耳其，SZNT PoE） ｜ 筛子：1（只收到群发） ｜ 停点：11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；研究档 risks：现卖 SZNT（深圳）价格基准低
 - **现状一句话**：土耳其 CCTV Depo A.Ş.（摄像机系统 / 电脑配件 / 网络产品 / 手机配件 / 安装材料 / 智能安防经销门户（bayi 分类 poe-network）；站内 SZNT-PSY0420FL / SZNT-PSP0820FLR / SZNT-PSP0420GLR PoE 交换机；KP Can Gurcan（CTO，can@）、Asuman Ozuedogru（Portfolio Manager））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 SZNT 系列百兆/千兆 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）/ 4 口 STC-204GP（$20.4）
 - **断点 / 为什么停在这里**：现卖 SZNT（深圳）价格基准低
@@ -288,12 +288,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

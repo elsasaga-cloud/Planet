@@ -1,131 +1,131 @@
 {
-  "code": "SB-965",
-  "name_official": "Areskom İletişim Ltd（伊斯坦布尔）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（areskom.com.tr，快照 2026-10-21，土耳其语）",
-  "summary": "土耳其工业通信 / 控制分销商（2004 年起；Westermo、Teltonika；switch 326 / poe 266 / automation 21；+90 216 428 78 78），仅 info@；表内「很多有名的牌子；工业 MC FS 工业控制」；群发 2 次。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Westermo",
-    "Teltonika"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "Areskom İletişim – 技术伙伴；品牌 Westermo / Teltonika；+90 (216) 428 78 78；2004–2026",
-      "quote": "Areskom İletişim LTD – Teknoloji Ortağınız… brands Westermo, Teltonika",
-      "url": "https://areskom.com.tr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "很多有名的牌子；工业 MC FS 工业控制",
-      "quote": "兴趣：很多有名的牌子 工业MC FS 工业控制",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（未具名）",
-      "title": "",
-      "email": "info@areskom.com.tr",
-      "phone": "+90 216 428 78 78",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-965",
+ "name_official": "Areskom İletişim Ltd（伊斯坦布尔）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（areskom.com.tr，快照 2026-10-21，土耳其语）",
+ "summary": "土耳其工业通信 / 控制分销商（2004 年起；Westermo、Teltonika；switch 326 / poe 266 / automation 21；+90 216 428 78 78），仅 info@；表内「很多有名的牌子；工业 MC FS 工业控制」；群发 2 次。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Westermo",
+  "Teltonika"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Areskom İletişim – 技术伙伴；品牌 Westermo / Teltonika；+90 (216) 428 78 78；2004–2026",
+   "quote": "Areskom İletişim LTD – Teknoloji Ortağınız… brands Westermo, Teltonika",
+   "url": "https://areskom.com.tr/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Areskom İletişim Ltd. Şti.",
-    "founded": "2004",
-    "hq": "Istanbul (Anadolu), Türkiye",
-    "size": "中小型工业通信分销",
-    "other": "Westermo 土耳其渠道"
-  },
-  "business_lines": [
-    "工业通信 / 控制产品分销"
-  ],
-  "channels": {
-    "role": "工业分销商",
-    "region": "土耳其"
-  },
-  "signals": [
-    "Westermo 之下价位带；PoE / switch 词频高"
-  ],
-  "risks": [
-    "仅 info@"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。"
-  },
-  "email_hook": "Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 15 封 2024→2026，无记录打开，0 回；收件 info@areskom.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "TR 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 15；用户表：「兴趣：很多有名的牌子 工业MC FS 工业控制」；研究档 risks：仅 info@"
-    },
-    "situation": "土耳其工业通信 / 控制分销商（2004 年起；Westermo、Teltonika；switch 326 / poe 266 / automation 21；+90 216 428 78 78），仅 info@；表内「很多有名的牌子；工业 MC FS 工业控制」；群发 2 次。",
-    "need": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。",
-    "breakpoint": "仅 info@",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
-      "why": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?"
-    },
-    "facts": [
-      {
-        "date": "2024-11-05",
-        "dir": "去",
-        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-        "quote": "名单行：「industrial network info@areskom.com.tr https://areskom.com.tr/」",
-        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-      },
-      {
-        "date": "2026-09-21",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-        "why": "15 封 / 0 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-21（15 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：很多有名的牌子 工业MC FS 工业控制",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "很多有名的牌子；工业 MC FS 工业控制",
+   "quote": "兴趣：很多有名的牌子 工业MC FS 工业控制",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@areskom.com.tr",
+   "phone": "+90 216 428 78 78",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Areskom İletişim Ltd. Şti.",
+  "founded": "2004",
+  "hq": "Istanbul (Anadolu), Türkiye",
+  "size": "中小型工业通信分销",
+  "other": "Westermo 土耳其渠道"
+ },
+ "business_lines": [
+  "工业通信 / 控制产品分销"
+ ],
+ "channels": {
+  "role": "工业分销商",
+  "region": "土耳其"
+ },
+ "signals": [
+  "Westermo 之下价位带；PoE / switch 词频高"
+ ],
+ "risks": [
+  "仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。"
+ },
+ "email_hook": "Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 15 封 2024→2026，无记录打开，0 回；收件 info@areskom.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:areskom.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(i)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「兴趣：很多有名的牌子 工业MC FS 工业控制」；研究档 risks：仅 info@"
+  },
+  "situation": "土耳其工业通信 / 控制分销商（2004 年起；Westermo、Teltonika；switch 326 / poe 266 / automation 21；+90 216 428 78 78），仅 info@；表内「很多有名的牌子；工业 MC FS 工业控制」；群发 2 次。",
+  "need": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。",
+  "breakpoint": "仅 info@",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?"
+  },
+  "facts": [
+   {
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「industrial network info@areskom.com.tr https://areskom.com.tr/」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-09-21",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "15 封 / 0 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-21（15 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：很多有名的牌子 工业MC FS 工业控制",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

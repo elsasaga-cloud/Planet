@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-160` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：TR 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com」；研究档 risks：SFP 未在价格表；无公开资料；无后续跟进
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com」；Elsa 箱：`to:shnrise.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：TR 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com」；研究档 risks：SFP 未在价格表；无公开资料；无后续跟进
 - **现状一句话**：ISAF 记录：Şahin Öztürk（sahin@shnrise.com）——最主要问了收发器；无后续跟进。用户表公司名「CESS Govalik」（疑 CESS Güvenlik），域名 shnrise.com 无搜索结果 → 仅表内信息。需求为光收发器：价格表无 SFP 单列 → 待核型。
 - **对方真实需求（有据）**：待核型：收发器（SFP）不在价格表；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）
 - **断点 / 为什么停在这里**：SFP 未在价格表；无公开资料；无后续跟进
@@ -232,12 +232,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

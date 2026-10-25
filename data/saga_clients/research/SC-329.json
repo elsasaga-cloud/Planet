@@ -1,157 +1,157 @@
 {
-  "code": "SC-329",
-  "name_official": "Nokta Elektronik ve Bilişim Sistemleri",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（noktaelektronik.net；并档 Planet 渠道档案 PB-041）",
-  "summary": "伊斯坦布尔的安防与网络分销商，ORing 授权，首页主推 PLANET GS-5220 高端 PoE 交换机，设 B2B 批发平台。类型：分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）。信号：官网 PLANET 产品页：GS-5220-8P2T2S、GS-5220-24UP4XV/24UP4XVR（Ultra PoE + 4×10G SFP+）、GS-5220-16S8C；Mikrotik 仓库 A-462 核：首页主推 Planet GS-5220 L3 24 口 802.3bt PoE + 4×10G SFP+。Planet 渠道档案 PB-041 评级 B（需求：PLANET GS-5220 系列在售 + 安防/网络分销 + B2B 批发平台；触达：nokta@noktaelektronik.net（官网，经 Mikrotik A-462 记录），无具名；体量中小（伊斯坦布尔），可赢；区域土耳其（T05 入池）；Mikrotik A-462 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：Saga 表内本条 SC-329（土耳其）自动评 C（原因：；Saga 群发已推送 2 次无回复）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "PLANET",
-    "MikroTik",
-    "ORing"
-  ],
-  "evidence": [
-    {
-      "kind": "卖方目录",
-      "claim": "PLANET GS-5220 产品页（PoE+ 8 口）",
-      "quote": "GS-5220-8P2T2S L2+ 8-Port 10/100/1000T 802.3at PoE + 2-Port 10/100/1000T + 2-Port 100/1000X SFP Managed Switch - Nokta Elektronik ve Bilişim Sistemleri",
-      "url": "https://noktaelektronik.net/tr/urunler/9375/2433/gs-5220-8p2t2s",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "卖方目录",
-      "claim": "PLANET Ultra PoE + 10G 机型页",
-      "quote": "GS-5220-24UP4XV / GS-5220-24UP4XVR L2+ 24-Port 10/100/1000T Ultra PoE + 4-Port 10G SFP+ Managed Switch with LCD touch screen - Nokta Elektronik ve Bilişim Sistemleri",
-      "url": "https://noktaelektronik.net/tr/urunler/12395/2395/gs-5220-24up4xv-gs-5220-24up4xvr",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "卖方目录",
-      "claim": "PLANET 光口核心机型页",
-      "quote": "GS-5220-16S8C / GS-5220-16S8CR L2+ 24-Port 100/1000X SFP + 8-Port Shared TP Managed Switch - Nokta Elektronik ve Bilişim Sistemleri",
-      "url": "https://www.noktaelektronik.net/tr/urunler/12411/2433/gs-5220-16s8c-gs-5220-16s8cr",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "Mikrotik 仓库",
-      "claim": "A-462 同户（人工 A）：定位与 PLANET 主推",
-      "quote": "A-462 Nokta Elektronik 土耳其 分销（ORing 授权）… +90 212 222 87 80 / nokta@noktaelektronik.net … 官网核对：Nokta Elektronik 定位「Güvenlik ve Network Distribütörü」，有 Aktif Network Ürünleri 分类（Dahua 交换机、Uptech ethernet switch），首页主推 Planet GS-5220 L3 24口 802.3bt PoE + 4×10G SFP+ 管理型交换机，另设 B2B 批发平台",
-      "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
-      "date": "2026-09-28"
-    }
-  ],
-  "kp": [],
-  "grade_override": "B",
-  "override_reason": "Planet 渠道档案 PB-041 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-041，W 批次调研 2026-10-19/20）"
+ "code": "SC-329",
+ "name_official": "Nokta Elektronik ve Bilişim Sistemleri",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（noktaelektronik.net；并档 Planet 渠道档案 PB-041）",
+ "summary": "伊斯坦布尔的安防与网络分销商，ORing 授权，首页主推 PLANET GS-5220 高端 PoE 交换机，设 B2B 批发平台。类型：分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）。信号：官网 PLANET 产品页：GS-5220-8P2T2S、GS-5220-24UP4XV/24UP4XVR（Ultra PoE + 4×10G SFP+）、GS-5220-16S8C；Mikrotik 仓库 A-462 核：首页主推 Planet GS-5220 L3 24 口 802.3bt PoE + 4×10G SFP+。Planet 渠道档案 PB-041 评级 B（需求：PLANET GS-5220 系列在售 + 安防/网络分销 + B2B 批发平台；触达：nokta@noktaelektronik.net（官网，经 Mikrotik A-462 记录），无具名；体量中小（伊斯坦布尔），可赢；区域土耳其（T05 入池）；Mikrotik A-462 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：Saga 表内本条 SC-329（土耳其）自动评 C（原因：；Saga 群发已推送 2 次无回复）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET",
+  "MikroTik",
+  "ORing"
+ ],
+ "evidence": [
+  {
+   "kind": "卖方目录",
+   "claim": "PLANET GS-5220 产品页（PoE+ 8 口）",
+   "quote": "GS-5220-8P2T2S L2+ 8-Port 10/100/1000T 802.3at PoE + 2-Port 10/100/1000T + 2-Port 100/1000X SFP Managed Switch - Nokta Elektronik ve Bilişim Sistemleri",
+   "url": "https://noktaelektronik.net/tr/urunler/9375/2433/gs-5220-8p2t2s",
+   "date": "2026-10-19"
   },
-  "company_facts": {
-    "legal_name": "Nokta Elektronik ve Bilişim Sistemleri",
-    "founded": "",
-    "hq": "İstanbul, 土耳其",
-    "size": "",
-    "other": "Planet 渠道档案 PB-041（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）"
+  {
+   "kind": "卖方目录",
+   "claim": "PLANET Ultra PoE + 10G 机型页",
+   "quote": "GS-5220-24UP4XV / GS-5220-24UP4XVR L2+ 24-Port 10/100/1000T Ultra PoE + 4-Port 10G SFP+ Managed Switch with LCD touch screen - Nokta Elektronik ve Bilişim Sistemleri",
+   "url": "https://noktaelektronik.net/tr/urunler/12395/2395/gs-5220-24up4xv-gs-5220-24up4xvr",
+   "date": "2026-10-19"
   },
-  "business_lines": [
-    "分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）"
-  ],
-  "products_seen": [
-    {
-      "brand": "PLANET",
-      "model": "GS-5220-24UP4XV",
-      "spec": "PLANET 为 24×75W Ultra PoE + 4×10G SFP+ + LCD；Saga 为 24×802.3at PoE+ 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）",
-      "saga": "STC-424XGGPM-280W",
-      "url": "https://noktaelektronik.net",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GS-5220-8P2T2S",
-      "spec": "8×GE PoE+ + 2 SFP（Saga 无额外 2 铜口，注明）",
-      "saga": "STC-28DGGPM",
-      "url": "https://noktaelektronik.net",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GS-5220-16S8C",
-      "spec": "24 SFP 光口核心机型，Saga 暂无对应型号（不推）",
-      "saga": "—",
-      "url": "https://noktaelektronik.net",
-      "date": "2026-10-19"
-    }
-  ],
-  "channels": {
-    "role": "分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）",
-    "region": "土耳其"
+  {
+   "kind": "卖方目录",
+   "claim": "PLANET 光口核心机型页",
+   "quote": "GS-5220-16S8C / GS-5220-16S8CR L2+ 24-Port 100/1000X SFP + 8-Port Shared TP Managed Switch - Nokta Elektronik ve Bilişim Sistemleri",
+   "url": "https://www.noktaelektronik.net/tr/urunler/12411/2433/gs-5220-16s8c-gs-5220-16s8cr",
+   "date": "2026-10-19"
   },
-  "signals": [
-    "土耳其安防+网络专业分销，PLANET 高端 PoE（GS-5220 bt/10G 上联）是其首页主推——说明 PLANET 在其组合里是「中高端 PoE 交换机」位置，Saga 可作同规格低一档第二货源；Mikrotik 仓库 A-462（人工 A，nokta@）同户 → 本仓 B 并档，只补 PLANET 侧证据"
-  ],
-  "risks": [
-    "Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）",
-    "Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGPM-280W",
-    "tier": 20,
-    "why": "对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求："
-  },
-  "email_hook": "PLANET's GS-5220 sits at the top of your PoE range; a 24-port PoE+ with 4×10G uplinks at a lower tier gives your dealers the same uplink spec for mid-size camera sites. For your dealers' camera and campus jobs, is the 24-port PoE+ with 10G uplinks the size that moves most, or the 8-port units?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 14 封 2024→2026，无记录打开，0 回；收件 nokta@noktaelektronik.net；主题多为「24 Port PoE Managed Switch、10G Enterprise SFP Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-      "revive": "不动（Q-33）",
-      "lane": "TR 主攻（四主）",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 14；研究档 risks：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）"
-    },
-    "situation": "伊斯坦布尔的安防与网络分销商，ORing 授权，首页主推 PLANET GS-5220 高端 PoE 交换机，设 B2B 批发平台。类型：分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）。信号：官网 PLANET 产品页：GS-5220-8P2T2S、GS-5220-24UP4XV/24UP4XVR（Ultra PoE + 4×10G SFP+）、GS-5220-16S8C；Mikrotik 仓库 A-462 核：首页主推 Planet GS-5220 L3 24 口 802.3bt PoE + 4×10G SFP+。Planet 渠道档案 PB-041 评级 B（需求：PLANET GS-5220 系列在售 + 安防/网络分销 + B2B 批发平台；触达：nokta@noktaelektronik.n",
-    "need": "对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：",
-    "breakpoint": "Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）",
-    "saga_now": {
-      "p1": "STC-424XGGPM-280W",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-10-05 $180（24 Port PoE Managed Switch）",
-      "why": "对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-11-05",
-        "dir": "去",
-        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-        "quote": "名单行：「CCTV products nokta@noktaelektronik.net https://www.noktaelektronik.net/tr」",
-        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-      },
-      {
-        "date": "2026-10-20",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "24 Port PoE Managed Switch、10G Enterprise SFP Switch",
-        "why": "14 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-10-20（14 去 / 0 来）",
-        "k": "gmail_digest"
-      }
-    ],
-    "proof_gaps": [
-      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "Mikrotik 仓库",
+   "claim": "A-462 同户（人工 A）：定位与 PLANET 主推",
+   "quote": "A-462 Nokta Elektronik 土耳其 分销（ORing 授权）… +90 212 222 87 80 / nokta@noktaelektronik.net … 官网核对：Nokta Elektronik 定位「Güvenlik ve Network Distribütörü」，有 Aktif Network Ürünleri 分类（Dahua 交换机、Uptech ethernet switch），首页主推 Planet GS-5220 L3 24口 802.3bt PoE + 4×10G SFP+ 管理型交换机，另设 B2B 批发平台",
+   "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+   "date": "2026-09-28"
   }
+ ],
+ "kp": [],
+ "grade_override": "B",
+ "override_reason": "Planet 渠道档案 PB-041 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-041，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "Nokta Elektronik ve Bilişim Sistemleri",
+  "founded": "",
+  "hq": "İstanbul, 土耳其",
+  "size": "",
+  "other": "Planet 渠道档案 PB-041（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）"
+ },
+ "business_lines": [
+  "分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "GS-5220-24UP4XV",
+   "spec": "PLANET 为 24×75W Ultra PoE + 4×10G SFP+ + LCD；Saga 为 24×802.3at PoE+ 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）",
+   "saga": "STC-424XGGPM-280W",
+   "url": "https://noktaelektronik.net",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GS-5220-8P2T2S",
+   "spec": "8×GE PoE+ + 2 SFP（Saga 无额外 2 铜口，注明）",
+   "saga": "STC-28DGGPM",
+   "url": "https://noktaelektronik.net",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GS-5220-16S8C",
+   "spec": "24 SFP 光口核心机型，Saga 暂无对应型号（不推）",
+   "saga": "—",
+   "url": "https://noktaelektronik.net",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）",
+  "region": "土耳其"
+ },
+ "signals": [
+  "土耳其安防+网络专业分销，PLANET 高端 PoE（GS-5220 bt/10G 上联）是其首页主推——说明 PLANET 在其组合里是「中高端 PoE 交换机」位置，Saga 可作同规格低一档第二货源；Mikrotik 仓库 A-462（人工 A，nokta@）同户 → 本仓 B 并档，只补 PLANET 侧证据"
+ ],
+ "risks": [
+  "Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）",
+  "Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 20,
+  "why": "对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求："
+ },
+ "email_hook": "PLANET's GS-5220 sits at the top of your PoE range; a 24-port PoE+ with 4×10G uplinks at a lower tier gives your dealers the same uplink spec for mid-size camera sites. For your dealers' camera and campus jobs, is the 24-port PoE+ with 10G uplinks the size that moves most, or the 8-port units?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 14 封 2024→2026，无记录打开，0 回；收件 nokta@noktaelektronik.net；主题多为「24 Port PoE Managed Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:noktaelektronik.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(i)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 14；研究档 risks：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）"
+  },
+  "situation": "伊斯坦布尔的安防与网络分销商，ORing 授权，首页主推 PLANET GS-5220 高端 PoE 交换机，设 B2B 批发平台。类型：分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）。信号：官网 PLANET 产品页：GS-5220-8P2T2S、GS-5220-24UP4XV/24UP4XVR（Ultra PoE + 4×10G SFP+）、GS-5220-16S8C；Mikrotik 仓库 A-462 核：首页主推 Planet GS-5220 L3 24 口 802.3bt PoE + 4×10G SFP+。Planet 渠道档案 PB-041 评级 B（需求：PLANET GS-5220 系列在售 + 安防/网络分销 + B2B 批发平台；触达：nokta@noktaelektronik.n",
+  "need": "对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：",
+  "breakpoint": "Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）",
+  "saga_now": {
+   "p1": "STC-424XGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-10-05 $180（24 Port PoE Managed Switch）",
+   "why": "对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「CCTV products nokta@noktaelektronik.net https://www.noktaelektronik.net/tr」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-10-20",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "24 Port PoE Managed Switch、10G Enterprise SFP Switch",
+    "why": "14 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-10-20（14 去 / 0 来）",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

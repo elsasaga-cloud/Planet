@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-111` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈， 拿了名片 / 90 50722 52728 已加」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「没做交谈， 拿了名片 / 90 50722 52728 已加」；研究档 risks：ISAF 仅交换名片、需求未表达；无后续跟进
+- **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈， 拿了名片 / 90 50722 52728 已加」；S/A 邮箱 0 封；Elsa 箱：`to:foline.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「没做交谈， 拿了名片 / 90 50722 52728 已加」；研究档 risks：ISAF 仅交换名片、需求未表达；无后续跟进
 - **现状一句话**：伊斯坦布尔 Kağıthane 的数据中心/弱电工程商 Foline Bilişim（业务：数据中心与集装箱数据中心、弱电系统、结构化布线的工程/咨询/实施；CCTV、电话交换机、考勤门禁、紧急广播、火灾探测、维保；销售办公室 Premier Kampüs Kağıthane İmrahor Cd. No:29 B Blok K3/302；0 212 535 00 33；info@foline.com.tr；总经理 Mahmut Cesur）。ISAF 记录：没做交谈、拿了名片；WhatsApp 已加（+90 507 225 27 28）；无后续跟进。
 - **对方真实需求（有据）**：工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）
 - **断点 / 为什么停在这里**：ISAF 仅交换名片、需求未表达；无后续跟进
@@ -238,12 +238,12 @@ Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 52）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 52）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -88,7 +88,7 @@
  "email_hook": "Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「I/O模块 / from: 自建站 已转给Ady跟进」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「I/O模块 / from: 自建站 已转给Ady跟进」；Elsa 箱：`to:ebcoelectronic.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

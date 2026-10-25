@@ -1,109 +1,109 @@
 {
-  "code": "SB-728",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（perkotek.com，快照 2026-10-21）",
-  "summary": "土耳其 Perkotek（指纹识别/人脸识别考勤（PDKS）、闸机、停车道闸、X 光机与手持探测器品牌；CCTV 37 处；KP cenk@）；表内 1 次跟进无回复。",
-  "type": "门禁/考勤系统品牌商（土耳其，PoE 为配套）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Perkotek Parmak İzi Okuma | X Ray Cihazı | Turnike Ve Otopark Bariyeri；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-      "quote": "Parmak izi okuma biyometrik sistemler parmak izi okuyucu yüz tanıma personel takip sistemi pdks turnike sistemi otopark bariyeri ve üst arama dedektörü.",
-      "url": "https://www.perkotek.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Perkotek 定位",
-      "quote": "Perkotek Parmak İzi Okuma | X Ray Cihazı | Turnike Ve Otopark Bariyeri ; Parmak İzi Okuma Sistemi ; Personel Takip Sistemi ; Turnike Sistemi",
-      "url": "https://www.perkotek.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Cenk",
-      "title": "（职务待核）",
-      "email": "cenk@perkotek.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-728",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（perkotek.com，快照 2026-10-21）",
+ "summary": "土耳其 Perkotek（指纹识别/人脸识别考勤（PDKS）、闸机、停车道闸、X 光机与手持探测器品牌；CCTV 37 处；KP cenk@）；表内 1 次跟进无回复。",
+ "type": "门禁/考勤系统品牌商（土耳其，PoE 为配套）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Perkotek Parmak İzi Okuma | X Ray Cihazı | Turnike Ve Otopark Bariyeri；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Parmak izi okuma biyometrik sistemler parmak izi okuyucu yüz tanıma personel takip sistemi pdks turnike sistemi otopark bariyeri ve üst arama dedektörü.",
+   "url": "https://www.perkotek.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "土耳其",
-    "other": "官网 perkotek.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
-  },
-  "business_lines": [
-    "指纹 / 人脸识别考勤、闸机、道闸（自有品牌 Perkotek）"
-  ],
-  "channels": {
-    "role": "门禁/考勤系统品牌商（土耳其，PoE 为配套）",
-    "region": "土耳其",
-    "contact": "cenk@perkotek.com"
-  },
-  "signals": [
-    "官网：Perkotek Parmak İzi Okuma | X Ray Cihazı | Turnike Ve Otopark Bariyeri ; Parmak izi okuma biyometrik sistemler ; personel takip sistemi pdks turnike sistemi otopark bariyeri；kw cctv 37 / access control 3",
-    "KP cenk@perkotek.com（表内）"
-  ],
-  "risks": [
-    "PoE 为门禁系统配套（量随项目）；土耳其汇率敏感；1 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "门禁/闸机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Perkotek 标；工业 4 PoE + 1 SFP STI-154GP（$40.8）用于停车场柜"
-  },
-  "email_hook": "Cenk, for the PoE switches that power your face-recognition terminals, turnstiles and car-park cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE units under the Perkotek label from small lots, CE/RoHS — which PoE SKU ships most with your access-control projects?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 cenk@perkotek.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
-      "type": "门禁/考勤系统品牌商（土耳其，PoE 为配套）",
-      "sieve": "1（只收到群发）",
-      "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "TR 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 5；研究档 risks：PoE 为门禁系统配套（量随项目）；土耳其汇率敏感；1 次无回复"
-    },
-    "situation": "土耳其 Perkotek（指纹识别/人脸识别考勤（PDKS）、闸机、停车道闸、X 光机与手持探测器品牌；CCTV 37 处；KP cenk@）；表内 1 次跟进无回复。",
-    "need": "门禁/闸机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Perkotek 标；工业 4 PoE + 1 SFP STI-154GP（$40.8）用于停车场柜",
-    "breakpoint": "PoE 为门禁系统配套（量随项目）；土耳其汇率敏感；1 次无回复",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）",
-      "why": "门禁/闸机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Perkotek 标；工业 4 PoE + 1 SFP STI-154GP（$40.8）用于停车场柜",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Cenk, for the PoE switches that power your face-recognition terminals, turnstiles and car-park cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE units under the Perkotek label from small lots, CE/RoHS — which PoE SKU ships most with your access-control projects?"
-    },
-    "facts": [
-      {
-        "date": "2026-03-09",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-09（5 去 / 0 来）",
-        "k": "gmail_digest"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网快照",
+   "claim": "Perkotek 定位",
+   "quote": "Perkotek Parmak İzi Okuma | X Ray Cihazı | Turnike Ve Otopark Bariyeri ; Parmak İzi Okuma Sistemi ; Personel Takip Sistemi ; Turnike Sistemi",
+   "url": "https://www.perkotek.com/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Cenk",
+   "title": "（职务待核）",
+   "email": "cenk@perkotek.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 perkotek.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "指纹 / 人脸识别考勤、闸机、道闸（自有品牌 Perkotek）"
+ ],
+ "channels": {
+  "role": "门禁/考勤系统品牌商（土耳其，PoE 为配套）",
+  "region": "土耳其",
+  "contact": "cenk@perkotek.com"
+ },
+ "signals": [
+  "官网：Perkotek Parmak İzi Okuma | X Ray Cihazı | Turnike Ve Otopark Bariyeri ; Parmak izi okuma biyometrik sistemler ; personel takip sistemi pdks turnike sistemi otopark bariyeri；kw cctv 37 / access control 3",
+  "KP cenk@perkotek.com（表内）"
+ ],
+ "risks": [
+  "PoE 为门禁系统配套（量随项目）；土耳其汇率敏感；1 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "门禁/闸机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Perkotek 标；工业 4 PoE + 1 SFP STI-154GP（$40.8）用于停车场柜"
+ },
+ "email_hook": "Cenk, for the PoE switches that power your face-recognition terminals, turnstiles and car-park cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE units under the Perkotek label from small lots, CE/RoHS — which PoE SKU ships most with your access-control projects?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 cenk@perkotek.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:perkotek.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
+   "type": "门禁/考勤系统品牌商（土耳其，PoE 为配套）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：PoE 为门禁系统配套（量随项目）；土耳其汇率敏感；1 次无回复"
+  },
+  "situation": "土耳其 Perkotek（指纹识别/人脸识别考勤（PDKS）、闸机、停车道闸、X 光机与手持探测器品牌；CCTV 37 处；KP cenk@）；表内 1 次跟进无回复。",
+  "need": "门禁/闸机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Perkotek 标；工业 4 PoE + 1 SFP STI-154GP（$40.8）用于停车场柜",
+  "breakpoint": "PoE 为门禁系统配套（量随项目）；土耳其汇率敏感；1 次无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）",
+   "why": "门禁/闸机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Perkotek 标；工业 4 PoE + 1 SFP STI-154GP（$40.8）用于停车场柜",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Cenk, for the PoE switches that power your face-recognition terminals, turnstiles and car-park cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE units under the Perkotek label from small lots, CE/RoHS — which PoE SKU ships most with your access-control projects?"
+  },
+  "facts": [
+   {
+    "date": "2026-03-09",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-09（5 去 / 0 来）",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

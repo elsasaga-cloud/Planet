@@ -1,145 +1,145 @@
 {
-  "code": "SB-434",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（gmtcontrol.com，快照 2026-10-21）",
-  "summary": "土耳其 GMT Endüstriyel Elektronik / GMTCNT（本土 PLC 制造商：操作面板、面板 PC、变频器、伺服、步进、电源、工业通信栏目；表内「工业 FS 只有几个 自己的 logo，其他都是周边产品；Uotek 的工业 FS」（备注 uotek.com/product-73.html）；KP Abdullah Aydın（Project Manager））；表内 2 次跟进无回复。",
-  "type": "土耳其 PLC 制造商（自有标工业 FS，现 Uotek）",
-  "size": "",
-  "brands_seen": [
-    "Uotek"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：GMT Endüstriyel Elektronik - GMTCNT - Yerli PLC Üreticisi；品类词 网络交换 / PoE",
-      "quote": "GMT, yerli PLC üreticisi olarak operatör paneli, panel PC, hız kontrol cihazı, servo sistemler, step motorlar ve güç kaynaklarını güvenle sunmaktadır.",
-      "url": "https://gmtcontrol.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 只有几个 自己的logo 其他的都是周边产品了；工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www.uotek.com/product-73.html",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "GMT 定位",
-      "quote": "GMT Endüstriyel Elektronik - GMTCNT - Yerli PLC Üreticisi ; operatör paneli, panel PC, hız kontrol cihazı, servo sistemler ; /en/industrial-communication/",
-      "url": "https://gmtcontrol.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "自有 logo 工业 FS；Uotek 的",
-      "quote": "工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www.uotek.com/product-73.html",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Abdullah Aydın",
-      "title": "Project Manager",
-      "email": "abdullahaydin@gmtcontrol.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-434",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（gmtcontrol.com，快照 2026-10-21）",
+ "summary": "土耳其 GMT Endüstriyel Elektronik / GMTCNT（本土 PLC 制造商：操作面板、面板 PC、变频器、伺服、步进、电源、工业通信栏目；表内「工业 FS 只有几个 自己的 logo，其他都是周边产品；Uotek 的工业 FS」（备注 uotek.com/product-73.html）；KP Abdullah Aydın（Project Manager））；表内 2 次跟进无回复。",
+ "type": "土耳其 PLC 制造商（自有标工业 FS，现 Uotek）",
+ "size": "",
+ "brands_seen": [
+  "Uotek"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：GMT Endüstriyel Elektronik - GMTCNT - Yerli PLC Üreticisi；品类词 网络交换 / PoE",
+   "quote": "GMT, yerli PLC üreticisi olarak operatör paneli, panel PC, hız kontrol cihazı, servo sistemler, step motorlar ve güç kaynaklarını güvenle sunmaktadır.",
+   "url": "https://gmtcontrol.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "土耳其",
-    "other": "官网 gmtcontrol.com，语言 tr-TR，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 只有几个 自己的logo 其他的都是周边产品了；工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www.uotek.com/product-73.html",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "PLC / HMI / 驱动 / 电源（自有品牌 GMTCNT）",
-    "工业通信（自有标交换机，Uotek 代工）"
-  ],
-  "channels": {
-    "role": "土耳其 PLC 制造商（自有标工业 FS，现 Uotek）",
-    "region": "土耳其",
-    "contact": "gmt@gmtcontrol.com、abdullahaydin@gmtcontrol.com"
+  {
+   "kind": "官网快照",
+   "claim": "GMT 定位",
+   "quote": "GMT Endüstriyel Elektronik - GMTCNT - Yerli PLC Üreticisi ; operatör paneli, panel PC, hız kontrol cihazı, servo sistemler ; /en/industrial-communication/",
+   "url": "https://gmtcontrol.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：GMT, yerli PLC üreticisi olarak operatör paneli, panel PC, hız kontrol cihazı, servo sistemler, step motorlar ve güç kaynaklarını güvenle sunmaktadır；页面 /en/industrial-communication/；WIN EURASIA 2026",
-    "表内：工业 FS 只有几个 自己的 logo 其他的都是周边产品了；Uotek 的工业 FS（https://www.uotek.com/product-73.html）；KP Abdullah Aydin / Project Manager"
-  ],
-  "risks": [
-    "现供 Uotek（深圳）价格基准低；交换机仅为 PLC 周边（量取决于面板配套率）；土耳其汇率敏感",
-    "2 次跟进无回复 → 改向 Project Manager 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 30,
-    "why": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）"
-  },
-  "email_hook": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 17 封 2024→2026，1 次记录打开，0 回；收件 abdullahaydin@gmtcontrol.com, gmt@gmtcontrol.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-      "type": "土耳其 PLC 制造商（自有标工业 FS，现 Uotek）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "TR 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 只有几个 自己的logo 其他的都是周边产品了；工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www」；研究档 risks：现供 Uotek（深圳）价格基准低；交换机仅为 PLC 周边（量取决于面板配套率）；土耳其汇率敏感"
-    },
-    "situation": "土耳其 GMT Endüstriyel Elektronik / GMTCNT（本土 PLC 制造商：操作面板、面板 PC、变频器、伺服、步进、电源、工业通信栏目；表内「工业 FS 只有几个 自己的 logo，其他都是周边产品；Uotek 的工业 FS」（备注 uotek.com/product-73.html）；KP Abdullah Aydın（Project Manager））；表内 2 次跟进无回复。",
-    "need": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）",
-    "breakpoint": "现供 Uotek（深圳）价格基准低；交换机仅为 PLC 周边（量取决于面板配套率）；土耳其汇率敏感",
-    "saga_now": {
-      "p1": "STI-280GE",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-23 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）",
-      "why": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）。已打开的主题（1/17 封有打开记录）：「Saga Q3 Product Links」(2026-07-14) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?"
-    },
-    "facts": [
-      {
-        "date": "2024-11-05",
-        "dir": "去",
-        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-        "quote": "名单行：「industrial network gmt@gmtcontrol.com https://www.uotek.com/product-73.html https://gmtcontrol.com/en/endustriyel-haberlesme/」",
-        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-      },
-      {
-        "date": "2026-09-17",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-        "why": "17 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-17（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS 只有几个 自己的logo 其他的都是周边产品了；工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www.uotek.com/product-73.html",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "自有 logo 工业 FS；Uotek 的",
+   "quote": "工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www.uotek.com/product-73.html",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Abdullah Aydın",
+   "title": "Project Manager",
+   "email": "abdullahaydin@gmtcontrol.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 gmtcontrol.com，语言 tr-TR，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "PLC / HMI / 驱动 / 电源（自有品牌 GMTCNT）",
+  "工业通信（自有标交换机，Uotek 代工）"
+ ],
+ "channels": {
+  "role": "土耳其 PLC 制造商（自有标工业 FS，现 Uotek）",
+  "region": "土耳其",
+  "contact": "gmt@gmtcontrol.com、abdullahaydin@gmtcontrol.com"
+ },
+ "signals": [
+  "官网：GMT, yerli PLC üreticisi olarak operatör paneli, panel PC, hız kontrol cihazı, servo sistemler, step motorlar ve güç kaynaklarını güvenle sunmaktadır；页面 /en/industrial-communication/；WIN EURASIA 2026",
+  "表内：工业 FS 只有几个 自己的 logo 其他的都是周边产品了；Uotek 的工业 FS（https://www.uotek.com/product-73.html）；KP Abdullah Aydin / Project Manager"
+ ],
+ "risks": [
+  "现供 Uotek（深圳）价格基准低；交换机仅为 PLC 周边（量取决于面板配套率）；土耳其汇率敏感",
+  "2 次跟进无回复 → 改向 Project Manager 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 30,
+  "why": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）"
+ },
+ "email_hook": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 17 封 2024→2026，1 次记录打开，0 回；收件 abdullahaydin@gmtcontrol.com, gmt@gmtcontrol.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:gmtcontrol.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(i)））",
+   "type": "土耳其 PLC 制造商（自有标工业 FS，现 Uotek）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 只有几个 自己的logo 其他的都是周边产品了；工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www」；研究档 risks：现供 Uotek（深圳）价格基准低；交换机仅为 PLC 周边（量取决于面板配套率）；土耳其汇率敏感"
+  },
+  "situation": "土耳其 GMT Endüstriyel Elektronik / GMTCNT（本土 PLC 制造商：操作面板、面板 PC、变频器、伺服、步进、电源、工业通信栏目；表内「工业 FS 只有几个 自己的 logo，其他都是周边产品；Uotek 的工业 FS」（备注 uotek.com/product-73.html）；KP Abdullah Aydın（Project Manager））；表内 2 次跟进无回复。",
+  "need": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）",
+  "breakpoint": "现供 Uotek（深圳）价格基准低；交换机仅为 PLC 周边（量取决于面板配套率）；土耳其汇率敏感",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-23 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）。已打开的主题（1/17 封有打开记录）：「Saga Q3 Product Links」(2026-07-14) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?"
+  },
+  "facts": [
+   {
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「industrial network gmt@gmtcontrol.com https://www.uotek.com/product-73.html https://gmtcontrol.com/en/endustriyel-haberlesme/」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "17 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-17（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 只有几个 自己的logo 其他的都是周边产品了；工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www.uotek.com/product-73.html",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

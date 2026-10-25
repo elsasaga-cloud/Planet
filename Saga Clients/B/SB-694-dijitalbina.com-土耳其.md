@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-694` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@dijitalbina.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）** ｜ 类型：楼宇控制/消防系统集成商（土耳其，民用网络侧） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；研究档 risks：守界备注：火灾报警系统本体为生命安全品类（Saga 不碰），仅供楼宇网络侧；Schneider 生态价格基准高；1 次无回复
+- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@dijitalbina.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:dijitalbina.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））** ｜ 类型：楼宇控制/消防系统集成商（土耳其，民用网络侧） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；研究档 risks：守界备注：火灾报警系统本体为生命安全品类（Saga 不碰），仅供楼宇网络侧；Schneider 生态价格基准高；1 次无回复
 - **现状一句话**：土耳其 Dijital Bina（楼宇控制系统：Schneider Electric EcoXpert 与 Jade Bird 火灾系统合作伙伴；Esmi Impresia 产品页；CCTV 24 处）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：楼宇 CCTV/BMS 网络配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）；守界：消防系统本体不碰，仅供网络侧
 - **断点 / 为什么停在这里**：守界备注：火灾报警系统本体为生命安全品类（Saga 不碰），仅供楼宇网络侧；Schneider 生态价格基准高；1 次无回复
@@ -260,12 +260,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

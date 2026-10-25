@@ -1,100 +1,100 @@
 {
-  "code": "SB-898",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（deponet.com.tr，快照 2026-10-21）",
-  "summary": "土耳其 Deponet Elektronik Mamulleri A.Ş.（网络技术产品分销：Ruijie / Teltonika / Allied Telesis / Maipu（产品推介会）、无线（18）、MC、光纤；表内无兴趣记录）；表内无跟进记录。",
-  "type": "网络产品分销商（土耳其，多品牌）",
-  "size": "",
-  "brands_seen": [
-    "Ruijie",
-    "Teltonika",
-    "Allied Telesis",
-    "Maipu"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Deponet Elektronik Mamulleri A.Å.；品类词 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Cart Items 0；Network Teknoloji ÃrÃ¼nleri；Deponet Ä°htiyacÄ±nÄ±za Ãzel ÃÃ¶zÃ¼mler；BiliÅim SektÃ¶rÃ¼ndeki Deponuz；Ä°htiyaÃ§larÄ±nÄ±za uygun Ã§Ã¶zÃ¼mler；Haberler & YazÄ±lar",
-      "url": "https://deponet.com.tr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Deponet 首页",
-      "quote": "Deponet Elektronik Mamulleri A.Ş. ; Network Teknoloji Ürünleri ; Bilişim Sektöründeki Deponuz ; maipu-urunlerinin-tanitim-toplantisi",
-      "url": "https://deponet.com.tr/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-898",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（deponet.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 Deponet Elektronik Mamulleri A.Ş.（网络技术产品分销：Ruijie / Teltonika / Allied Telesis / Maipu（产品推介会）、无线（18）、MC、光纤；表内无兴趣记录）；表内无跟进记录。",
+ "type": "网络产品分销商（土耳其，多品牌）",
+ "size": "",
+ "brands_seen": [
+  "Ruijie",
+  "Teltonika",
+  "Allied Telesis",
+  "Maipu"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Deponet Elektronik Mamulleri A.Å.；品类词 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Cart Items 0；Network Teknoloji ÃrÃ¼nleri；Deponet Ä°htiyacÄ±nÄ±za Ãzel ÃÃ¶zÃ¼mler；BiliÅim SektÃ¶rÃ¼ndeki Deponuz；Ä°htiyaÃ§larÄ±nÄ±za uygun Ã§Ã¶zÃ¼mler；Haberler & YazÄ±lar",
+   "url": "https://deponet.com.tr/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "土耳其",
-    "other": "官网 deponet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
-  },
-  "business_lines": [
-    "网络技术产品分销"
-  ],
-  "channels": {
-    "role": "网络产品分销商（土耳其，多品牌）",
-    "region": "土耳其",
-    "contact": "info@deponet.com.tr"
-  },
-  "signals": [
-    "页面 /urunler/、/maipu-urunlerinin-tanitim-toplantisi/、/icx-7850-crn-tarafindan-yilin-ag-urunu-secildi/；站内品牌 Ruijie / Teltonika / Allied Telesis",
-    "首页：Network Teknoloji Ürünleri ; Bilişim Sektöründeki Deponuz"
-  ],
-  "risks": [
-    "土耳其：汇率敏感；品牌授权分销为主，白牌需靠价差",
-    "无具名 KP（info@）；无跟进记录"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE"
-  },
-  "email_hook": "Alongside the Ruijie, Maipu and Allied Telesis switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-GE + 4×10G units from small lots, CE/RoHS, EXW USD — which PoE size do your resellers order most?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
-      "type": "网络产品分销商（土耳其，多品牌）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "TR 主攻（四主）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；研究档 risks：土耳其：汇率敏感；品牌授权分销为主，白牌需靠价差"
-    },
-    "situation": "土耳其 Deponet Elektronik Mamulleri A.Ş.（网络技术产品分销：Ruijie / Teltonika / Allied Telesis / Maipu（产品推介会）、无线（18）、MC、光纤；表内无兴趣记录）；表内无跟进记录。",
-    "need": "多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE",
-    "breakpoint": "土耳其：汇率敏感；品牌授权分销为主，白牌需靠价差",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → info@deponet.com.tr（无具名 KP；公用地址）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "Alongside the Ruijie, Maipu and Allied Telesis switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-GE + 4×10G units from small lots, CE/RoHS, EXW USD — which PoE size do your resellers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网快照",
+   "claim": "Deponet 首页",
+   "quote": "Deponet Elektronik Mamulleri A.Ş. ; Network Teknoloji Ürünleri ; Bilişim Sektöründeki Deponuz ; maipu-urunlerinin-tanitim-toplantisi",
+   "url": "https://deponet.com.tr/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 deponet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络技术产品分销"
+ ],
+ "channels": {
+  "role": "网络产品分销商（土耳其，多品牌）",
+  "region": "土耳其",
+  "contact": "info@deponet.com.tr"
+ },
+ "signals": [
+  "页面 /urunler/、/maipu-urunlerinin-tanitim-toplantisi/、/icx-7850-crn-tarafindan-yilin-ag-urunu-secildi/；站内品牌 Ruijie / Teltonika / Allied Telesis",
+  "首页：Network Teknoloji Ürünleri ; Bilişim Sektöründeki Deponuz"
+ ],
+ "risks": [
+  "土耳其：汇率敏感；品牌授权分销为主，白牌需靠价差",
+  "无具名 KP（info@）；无跟进记录"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE"
+ },
+ "email_hook": "Alongside the Ruijie, Maipu and Allied Telesis switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-GE + 4×10G units from small lots, CE/RoHS, EXW USD — which PoE size do your resellers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:deponet.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
+   "type": "网络产品分销商（土耳其，多品牌）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；研究档 risks：土耳其：汇率敏感；品牌授权分销为主，白牌需靠价差"
+  },
+  "situation": "土耳其 Deponet Elektronik Mamulleri A.Ş.（网络技术产品分销：Ruijie / Teltonika / Allied Telesis / Maipu（产品推介会）、无线（18）、MC、光纤；表内无兴趣记录）；表内无跟进记录。",
+  "need": "多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE",
+  "breakpoint": "土耳其：汇率敏感；品牌授权分销为主，白牌需靠价差",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → info@deponet.com.tr（无具名 KP；公用地址）",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Alongside the Ruijie, Maipu and Allied Telesis switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-GE + 4×10G units from small lots, CE/RoHS, EXW USD — which PoE size do your resellers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

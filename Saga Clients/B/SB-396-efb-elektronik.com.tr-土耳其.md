@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-396` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 12 封 2024→2026，1 次记录打开，0 回；收件 a.tugrul@efb-elektronik.com.tr, info@efb-elektronik.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：德系布线/网络制造商土耳其公司（自有标网络产品，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；用户表：「MC 机架 SFP DAC FS 工业设备」；研究档 risks：集团采购可能集中在德国总部（土耳其公司为销售/方案）；SFP/DAC/机架为其主品类，Saga 不供
+- **绑定等级：未触达（A/S 邮箱 12 封 2024→2026，1 次记录打开，0 回；收件 a.tugrul@efb-elektronik.com.tr, info@efb-elektronik.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:efb-elektronik.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(i)））** ｜ 类型：德系布线/网络制造商土耳其公司（自有标网络产品，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；用户表：「MC 机架 SFP DAC FS 工业设备」；研究档 risks：集团采购可能集中在德国总部（土耳其公司为销售/方案）；SFP/DAC/机架为其主品类，Saga 不供
 - **现状一句话**：土耳其 EFB-Elektronik Türkiye（德国 EFB-Elektronik 集团（1988 年起，布线与网络产品制造商）土耳其公司：传输网络技术目录 2026/27、安防方案、PoE 远程供电方案页；表内「MC / 机架 / SFP / DAC / FS / 工业设备」；KP Tuğrul Akarsu（a.tugrul@））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：自有 EFB 标工业/PoE 设备 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 商用 PoE 位 STC-28DGGPM；MC 位 STI-110GE；SFP/DAC/机架 Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：集团采购可能集中在德国总部（土耳其公司为销售/方案）；SFP/DAC/机架为其主品类，Saga 不供
@@ -282,12 +282,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

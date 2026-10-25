@@ -1,131 +1,131 @@
 {
-  "code": "SB-357",
-  "name_official": "Hiperonline İletişim Hizmetleri San. Tic. Ltd. Şti.（Eskişehir, TR；hiperonline.com.tr；区域 ISP）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "埃斯基谢希尔的区域互联网服务商 Hiperonline（BTK 授权 ISP；在 Eskişehir 自建光纤（HiperFiber，最高 1000 Mbps）与无线 airfiber 接入网，其他地区借用主导运营商网络覆盖 81 省；企业 Metro Ethernet 最高 10 Gbps；0850 840 98 83；经销商体系）。ISAF 记录：eskisehir@hiperonline.com——Ady 加了 WhatsApp，一直在看多口交换机，不会英文；无后续跟进。ISP 自用：接入/汇聚多口交换机（24/48 口 + 10G 上联）、无线基站供电 PoE。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "ISP 定位与网络",
-      "quote": "Hiperonline, Eskişehir'de kendi kuruduğu fiber internet altyapısı ve kablosuz internet altyapısı üzerinden hizmet vermektedir. … yerleşik operatöre ait altyapı üzerinden fiber ve VDSL internet hizmetini Türkiye'nin 81 ilinde sunmaktadır. … 1000 Mbps'e varan hızlarla",
-      "url": "https://hiperonline.com.tr/eskisehir-internet",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "法人与 BTK 授权",
-      "quote": "HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ, internet erişim hizmetini BTK tarafından verilmiş yetkilendirme belgesi ile yasal olarak vermektedir.",
-      "url": "https://hiperonline.com.tr/hizmet-bolgelerimiz",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "Metro Ethernet 10 Gbps",
-      "quote": "Eskişehir'de 10.000 Mbps'e kadar kurumsal simetrik metro ethernet internet",
-      "url": "https://hiperonline.com.tr/eskisehir-metro-ethernet-internet",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "ISAF：看多口交换机；不会英文；WA 已加",
-      "quote": "Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（姓名未记录；Eskişehir 办公室）",
-      "role": "ISP 技术/采购（待核）",
-      "email": "eskisehir@hiperonline.com（用户表）",
-      "phone": "0850 840 98 83（公司）",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网核对）"
+ "code": "SB-357",
+ "name_official": "Hiperonline İletişim Hizmetleri San. Tic. Ltd. Şti.（Eskişehir, TR；hiperonline.com.tr；区域 ISP）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "埃斯基谢希尔的区域互联网服务商 Hiperonline（BTK 授权 ISP；在 Eskişehir 自建光纤（HiperFiber，最高 1000 Mbps）与无线 airfiber 接入网，其他地区借用主导运营商网络覆盖 81 省；企业 Metro Ethernet 最高 10 Gbps；0850 840 98 83；经销商体系）。ISAF 记录：eskisehir@hiperonline.com——Ady 加了 WhatsApp，一直在看多口交换机，不会英文；无后续跟进。ISP 自用：接入/汇聚多口交换机（24/48 口 + 10G 上联）、无线基站供电 PoE。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "ISP 定位与网络",
+   "quote": "Hiperonline, Eskişehir'de kendi kuruduğu fiber internet altyapısı ve kablosuz internet altyapısı üzerinden hizmet vermektedir. … yerleşik operatöre ait altyapı üzerinden fiber ve VDSL internet hizmetini Türkiye'nin 81 ilinde sunmaktadır. … 1000 Mbps'e varan hızlarla",
+   "url": "https://hiperonline.com.tr/eskisehir-internet",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Hiperonline İletişim Hizmetleri Sanayi Ticaret Limited Şirketi",
-    "hq": "Eskişehir（0850 840 98 83）",
-    "size": "区域 ISP（规模待核）",
-    "other": "自建光纤 + airfiber 无线；Metro Ethernet 10 Gbps；全国 81 省转售"
+  {
+   "kind": "官网",
+   "claim": "法人与 BTK 授权",
+   "quote": "HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ, internet erişim hizmetini BTK tarafından verilmiş yetkilendirme belgesi ile yasal olarak vermektedir.",
+   "url": "https://hiperonline.com.tr/hizmet-bolgelerimiz",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "住宅/企业宽带（光纤、VDSL、无线）",
-    "企业 Metro Ethernet 专线"
-  ],
-  "channels": {
-    "网站": "https://hiperonline.com.tr/",
-    "电话": "0850 840 98 83（公开）",
-    "邮箱": "eskisehir@hiperonline.com（用户表）"
+  {
+   "kind": "官网",
+   "claim": "Metro Ethernet 10 Gbps",
+   "quote": "Eskişehir'de 10.000 Mbps'e kadar kurumsal simetrik metro ethernet internet",
+   "url": "https://hiperonline.com.tr/eskisehir-metro-ethernet-internet",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "ISP 持续看多口交换机 → 24/48 口 + 10G 上联汇聚；无线基站/户外 CPE 供电 → PoE 与工业机",
-    "WhatsApp 已加 → 用土耳其语发规格对照"
-  ],
-  "risks": [
-    "运营商采购偏品牌（MikroTik/华为等）；语言；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 25,
-    "why": "运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）"
-  },
-  "email_hook": "Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com」；S/A 邮箱 0 封",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "土耳其 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com」；研究档 risks：运营商采购偏品牌（MikroTik/华为等）；语言；无后续跟进"
-    },
-    "situation": "埃斯基谢希尔的区域互联网服务商 Hiperonline（BTK 授权 ISP；在 Eskişehir 自建光纤（HiperFiber，最高 1000 Mbps）与无线 airfiber 接入网，其他地区借用主导运营商网络覆盖 81 省；企业 Metro Ethernet 最高 10 Gbps；0850 840 98 83；经销商体系）。ISAF 记录：eskisehir@hiperonline.com——Ady 加了 WhatsApp，一直在看多口交换机，不会英文；无后续跟进。ISP 自用：接入/汇聚多口交换机（24/48 口 + 10G 上联）、无线基站供电 PoE。",
-    "need": "运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）",
-    "breakpoint": "运营商采购偏品牌（MikroTik/华为等）；语言；无后续跟进",
-    "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "ISAF：看多口交换机；不会英文；WA 已加",
+   "quote": "Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（姓名未记录；Eskişehir 办公室）",
+   "role": "ISP 技术/采购（待核）",
+   "email": "eskisehir@hiperonline.com（用户表）",
+   "phone": "0850 840 98 83（公司）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Hiperonline İletişim Hizmetleri Sanayi Ticaret Limited Şirketi",
+  "hq": "Eskişehir（0850 840 98 83）",
+  "size": "区域 ISP（规模待核）",
+  "other": "自建光纤 + airfiber 无线；Metro Ethernet 10 Gbps；全国 81 省转售"
+ },
+ "business_lines": [
+  "住宅/企业宽带（光纤、VDSL、无线）",
+  "企业 Metro Ethernet 专线"
+ ],
+ "channels": {
+  "网站": "https://hiperonline.com.tr/",
+  "电话": "0850 840 98 83（公开）",
+  "邮箱": "eskisehir@hiperonline.com（用户表）"
+ },
+ "signals": [
+  "ISP 持续看多口交换机 → 24/48 口 + 10G 上联汇聚；无线基站/户外 CPE 供电 → PoE 与工业机",
+  "WhatsApp 已加 → 用土耳其语发规格对照"
+ ],
+ "risks": [
+  "运营商采购偏品牌（MikroTik/华为等）；语言；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）"
+ },
+ "email_hook": "Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com」；S/A 邮箱 0 封；Elsa 箱：`to:hiperonline.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com」；研究档 risks：运营商采购偏品牌（MikroTik/华为等）；语言；无后续跟进"
+  },
+  "situation": "埃斯基谢希尔的区域互联网服务商 Hiperonline（BTK 授权 ISP；在 Eskişehir 自建光纤（HiperFiber，最高 1000 Mbps）与无线 airfiber 接入网，其他地区借用主导运营商网络覆盖 81 省；企业 Metro Ethernet 最高 10 Gbps；0850 840 98 83；经销商体系）。ISAF 记录：eskisehir@hiperonline.com——Ady 加了 WhatsApp，一直在看多口交换机，不会英文；无后续跟进。ISP 自用：接入/汇聚多口交换机（24/48 口 + 10G 上联）、无线基站供电 PoE。",
+  "need": "运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "运营商采购偏品牌（MikroTik/华为等）；语言；无后续跟进",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?"
+  },
+  "as_of": "2026-10-24"
+ }
 }

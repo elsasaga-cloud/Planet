@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1040` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「不会英文  要收发器价格  问在当地是否有经销商 / Mustafa YILDIZ / 0 530 934 12 80」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「不会英文  要收发器价格  问在当地是否有经销商 / Mustafa YILDIZ / 0 530 934 12 80」；研究档 risks：SFP 未在价格表；微型；无后续跟进
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「不会英文  要收发器价格  问在当地是否有经销商 / Mustafa YILDIZ / 0 530 934 12 80」；Elsa 箱：`to:dimasteknoloji@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「不会英文  要收发器价格  问在当地是否有经销商 / Mustafa YILDIZ / 0 530 934 12 80」；研究档 risks：SFP 未在价格表；微型；无后续跟进
 - **现状一句话**：ISAF 记录：Mustafa Yıldız（dimasteknoloji@gmail.com，+90 530 934 12 80）——不会英文，要收发器价格，问在当地是否有经销商；无跟进。无域名/公开资料 → 仅表内信息。需求为光收发器（SFP）：价格表无 SFP 单列 → 需向 SmartByte 另询；「当地经销商」问题 = Saga 在土耳其无代理，可直供。
 - **对方真实需求（有据）**：默认 25% 档：STI-110GE（工业千兆 MC，$23.4）+ SFP 模块（向 SmartByte 另询）作光纤接入组合；交换机 STC-228GP（$30.8）
 - **断点 / 为什么停在这里**：SFP 未在价格表；微型；无后续跟进
@@ -216,12 +216,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-224` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 16 封 2024→2026，无记录打开，0 回；收件 info@hanelektronik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：安防方案商 + 自有标 PoE 系列（HiSource 代工迹象，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16；用户表：「商业POE 看着有hisource的 MC 工业FS VC 无源产品；商业POE 看着有hisource的 MC 工业FS VC 无源产品 很多种外壳」；研究档 risks：现代工 HiSource（深圳）：价格基准低，需以外壳选择/交期/Marvell 千兆升级切入
+- **绑定等级：未触达（A/S 邮箱 16 封 2024→2026，无记录打开，0 回；收件 info@hanelektronik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:hanelektronik.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(i)））** ｜ 类型：安防方案商 + 自有标 PoE 系列（HiSource 代工迹象，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16；用户表：「商业POE 看着有hisource的 MC 工业FS VC 无源产品；商业POE 看着有hisource的 MC 工业FS VC 无源产品 很多种外壳」；研究档 risks：现代工 HiSource（深圳）：价格基准低，需以外壳选择/交期/Marvell 千兆升级切入
 - **现状一句话**：土耳其 Han Elektronik（「Türkiye’nin Güvenlik Çözümü」安防方案商，ISAF 参展商；自有「AI」系列 PoE 交换机商品页：AI806M 4 PoE + 2 上联 65W、AI8082M 8×100M PoE + 2 GE 96W、AI8024 24×100M PoE + 2 GE + 1 SFP 250W、VP-16PG-2SFP 16 口千兆 PoE 300W；站内 Milesight；表内「商业 PoE 看着有 HiSource 的，MC / 工业 FS / VC / 无源，很多种外壳」）；群发 2 次无回复。
 - **对方真实需求（有据）**：自有 AI 系列以百兆 PoE 为主（HiSource 外壳）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；百兆位对价 HRUI STC-028GFP（8 FE PoE + 2 GE，列表价 $17.6）；16 口千兆 PoE 位 HRUI STC-2016GP（$88.0）
 - **断点 / 为什么停在这里**：现代工 HiSource（深圳）：价格基准低，需以外壳选择/交期/Marvell 千兆升级切入
@@ -309,12 +309,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

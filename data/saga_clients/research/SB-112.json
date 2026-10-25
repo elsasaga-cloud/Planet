@@ -1,134 +1,134 @@
 {
-  "code": "SB-112",
-  "name_official": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş.（İstanbul Ataşehir, TR；inter-pos.com）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "伊斯坦布尔 Ataşehir 的零售自动化/POS 设备公司 İnterpos（1995 年成立；POS 收银机、EFT-POS、电子秤、打印机、条码系统；11–50 人、营收 $1–10M；董事长/总裁 Hulusi Kültür（ex-Inter Mühendislik、Inter Hong Kong）；兼 Tadiran 电池土耳其代理；İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91；+90 216 469 64 00）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加（+90 532 264 89 90）；无后续跟进。零售终端网络需要小型 PoE/非 PoE 交换机 → 分销/配套 20%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Tadiran（电池代理）"
-  ],
-  "evidence": [
-    {
-      "kind": "LinkedIn",
-      "claim": "公司信息与 KP 邮箱",
-      "quote": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş. … Şirket büyüklüğü: 11 - 50 çalışan … Genel Merkez: İstanbul, Ataşehir … Kuruluş: 1995 … Uzmanlık Alanları: Posyazarkasa, Yazarkasa, EFT-Pos, Terazi, Yazıcı, Barkod Sistemleri ve Perakende … Hulusi K. Y.K.B İnterpos AŞ. hkultur@inter-pos.com",
-      "url": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "名录",
-      "claim": "地址、规模、总裁履历",
-      "quote": "Hulusi Kültür is the President at İnterpos Bilgi Teknolojileri Elektronik San ve Tic AŞ … Previously, Hulusi was the Director at Inter (Hongkong) Ltd. … It employs 10to19 people and has 1Mto5M of revenue … no 91 İçerenköy Mah. Prof.dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K 8 … +90 2164696400",
-      "url": "https://www.zoominfo.com/p/Hulusi-Ku%CC%88ltu%CC%88r/1540298018",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "厂商名录",
-      "claim": "Tadiran 代理",
-      "quote": "Tel: +90(216) 469 64 00 Fax: +90(216) 469 64 06 info@inter-pos.com www.inter-pos.com Contact Person: Hulusi Kültür",
-      "url": "https://tadiranbat.com/distributors/sales-network-international/",
-      "date": "2025-10-06"
-    },
-    {
-      "kind": "用户表",
-      "claim": "ISAF：给名片未交谈；WhatsApp 已加",
-      "quote": "没做交谈，给了名片 / 90 53226 48990 已加",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Hulusi Kültür",
-      "role": "Yönetim Kurulu Başkanı / President（LinkedIn 公开）",
-      "email": "hkultur@inter-pos.com（LinkedIn 公开 + 用户表）",
-      "phone": "+90 532 264 89 90（用户表，WhatsApp 已加）",
-      "source": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（名录核对）"
+ "code": "SB-112",
+ "name_official": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş.（İstanbul Ataşehir, TR；inter-pos.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "伊斯坦布尔 Ataşehir 的零售自动化/POS 设备公司 İnterpos（1995 年成立；POS 收银机、EFT-POS、电子秤、打印机、条码系统；11–50 人、营收 $1–10M；董事长/总裁 Hulusi Kültür（ex-Inter Mühendislik、Inter Hong Kong）；兼 Tadiran 电池土耳其代理；İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91；+90 216 469 64 00）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加（+90 532 264 89 90）；无后续跟进。零售终端网络需要小型 PoE/非 PoE 交换机 → 分销/配套 20%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Tadiran（电池代理）"
+ ],
+ "evidence": [
+  {
+   "kind": "LinkedIn",
+   "claim": "公司信息与 KP 邮箱",
+   "quote": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş. … Şirket büyüklüğü: 11 - 50 çalışan … Genel Merkez: İstanbul, Ataşehir … Kuruluş: 1995 … Uzmanlık Alanları: Posyazarkasa, Yazarkasa, EFT-Pos, Terazi, Yazıcı, Barkod Sistemleri ve Perakende … Hulusi K. Y.K.B İnterpos AŞ. hkultur@inter-pos.com",
+   "url": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş.",
-    "founded": "1995-04-10",
-    "hq": "İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91, 34752 Ataşehir / İstanbul（+90 216 469 64 00；info@inter-pos.com）",
-    "size": "11–50（LinkedIn）/ 10–19（ZoomInfo）；营收 $1–10M",
-    "other": "POS/收银机/EFT-POS/电子秤/条码；Tadiran 电池代理；有香港关联公司 Inter (Hongkong) Ltd."
+  {
+   "kind": "名录",
+   "claim": "地址、规模、总裁履历",
+   "quote": "Hulusi Kültür is the President at İnterpos Bilgi Teknolojileri Elektronik San ve Tic AŞ … Previously, Hulusi was the Director at Inter (Hongkong) Ltd. … It employs 10to19 people and has 1Mto5M of revenue … no 91 İçerenköy Mah. Prof.dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K 8 … +90 2164696400",
+   "url": "https://www.zoominfo.com/p/Hulusi-Ku%CC%88ltu%CC%88r/1540298018",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "零售自动化设备（POS、收银机、EFT-POS、秤、打印机、条码）",
-    "Tadiran 锂电池分销"
-  ],
-  "channels": {
-    "网站": "https://www.inter-pos.com/",
-    "电话": "+90 216 469 64 00（公开）",
-    "邮箱（公开）": "info@inter-pos.com",
-    "LinkedIn": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-"
+  {
+   "kind": "厂商名录",
+   "claim": "Tadiran 代理",
+   "quote": "Tel: +90(216) 469 64 00 Fax: +90(216) 469 64 06 info@inter-pos.com www.inter-pos.com Contact Person: Hulusi Kültür",
+   "url": "https://tadiranbat.com/distributors/sales-network-international/",
+   "date": "2025-10-06"
   },
-  "signals": [
-    "POS/零售门店组网 → 5/8 口千兆与 8 口 PoE 小机为配套 SKU；有香港公司 → 熟悉中国采购、可走 HK 结算"
-  ],
-  "risks": [
-    "主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STC-028GP",
-    "tier": 20,
-    "why": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）"
-  },
-  "email_hook": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈，给了名片 / 90 53226 48990 已加」；S/A 邮箱 0 封",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "土耳其 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「没做交谈，给了名片 / 90 53226 48990 已加」；研究档 risks：主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进"
-    },
-    "situation": "伊斯坦布尔 Ataşehir 的零售自动化/POS 设备公司 İnterpos（1995 年成立；POS 收银机、EFT-POS、电子秤、打印机、条码系统；11–50 人、营收 $1–10M；董事长/总裁 Hulusi Kültür（ex-Inter Mühendislik、Inter Hong Kong）；兼 Tadiran 电池土耳其代理；İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91；+90 216 469 64 00）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加（+90 532 264 89 90）；无后续跟进。零售终端网络需要小型 PoE/非 PoE 交换机 → 分销/配套 20%。",
-    "need": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）",
-    "breakpoint": "主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进",
-    "saga_now": {
-      "p1": "STC-028GP",
-      "tier": 20,
-      "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-028GP $24.2→$25.1；按主表（研究档 saga_fit）",
-      "why": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "没做交谈，给了名片 / 90 53226 48990 已加",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "ISAF：给名片未交谈；WhatsApp 已加",
+   "quote": "没做交谈，给了名片 / 90 53226 48990 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Hulusi Kültür",
+   "role": "Yönetim Kurulu Başkanı / President（LinkedIn 公开）",
+   "email": "hkultur@inter-pos.com（LinkedIn 公开 + 用户表）",
+   "phone": "+90 532 264 89 90（用户表，WhatsApp 已加）",
+   "source": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş.",
+  "founded": "1995-04-10",
+  "hq": "İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91, 34752 Ataşehir / İstanbul（+90 216 469 64 00；info@inter-pos.com）",
+  "size": "11–50（LinkedIn）/ 10–19（ZoomInfo）；营收 $1–10M",
+  "other": "POS/收银机/EFT-POS/电子秤/条码；Tadiran 电池代理；有香港关联公司 Inter (Hongkong) Ltd."
+ },
+ "business_lines": [
+  "零售自动化设备（POS、收银机、EFT-POS、秤、打印机、条码）",
+  "Tadiran 锂电池分销"
+ ],
+ "channels": {
+  "网站": "https://www.inter-pos.com/",
+  "电话": "+90 216 469 64 00（公开）",
+  "邮箱（公开）": "info@inter-pos.com",
+  "LinkedIn": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-"
+ },
+ "signals": [
+  "POS/零售门店组网 → 5/8 口千兆与 8 口 PoE 小机为配套 SKU；有香港公司 → 熟悉中国采购、可走 HK 结算"
+ ],
+ "risks": [
+  "主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-028GP",
+  "tier": 20,
+  "why": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）"
+ },
+ "email_hook": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈，给了名片 / 90 53226 48990 已加」；S/A 邮箱 0 封；Elsa 箱：`to:inter-pos.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「没做交谈，给了名片 / 90 53226 48990 已加」；研究档 risks：主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进"
+  },
+  "situation": "伊斯坦布尔 Ataşehir 的零售自动化/POS 设备公司 İnterpos（1995 年成立；POS 收银机、EFT-POS、电子秤、打印机、条码系统；11–50 人、营收 $1–10M；董事长/总裁 Hulusi Kültür（ex-Inter Mühendislik、Inter Hong Kong）；兼 Tadiran 电池土耳其代理；İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91；+90 216 469 64 00）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加（+90 532 264 89 90）；无后续跟进。零售终端网络需要小型 PoE/非 PoE 交换机 → 分销/配套 20%。",
+  "need": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）",
+  "breakpoint": "主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进",
+  "saga_now": {
+   "p1": "STC-028GP",
+   "tier": 20,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-028GP $24.2→$25.1；按主表（研究档 saga_fit）",
+   "why": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "没做交谈，给了名片 / 90 53226 48990 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
+  },
+  "as_of": "2026-10-24"
+ }
 }

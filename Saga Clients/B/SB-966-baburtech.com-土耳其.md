@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-966` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 ayse@baburtech.com, destek@baburtech.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：电脑配件电商兼安防网络（土耳其） ｜ 筛子：1（只收到群发） ｜ 停点：19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：TR 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 19；用户表：「switch；switch 有海思的」；研究档 risks：主业笔记本配件：网络安防为兼营，量小
+- **绑定等级：未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 ayse@baburtech.com, destek@baburtech.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:baburtech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(i)））** ｜ 类型：电脑配件电商兼安防网络（土耳其） ｜ 筛子：1（只收到群发） ｜ 停点：19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：TR 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 19；用户表：「switch；switch 有海思的」；研究档 risks：主业笔记本配件：网络安防为兼营，量小
 - **现状一句话**：土耳其 Baburtech Bilişim A.Ş.（安卡拉笔记本配件/维修电商，兼售 Hikvision 77 / Dahua 74 / TP-Link 30 / Ubiquiti 19 / Planet 18 网络安防产品；表内「switch，有海思的」；KP Ayse Narinsoez（Project Manager，ayse@））；群发 2 次无回复。
 - **对方真实需求（有据）**：兼售 Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：主业笔记本配件：网络安防为兼营，量小
@@ -301,12 +301,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

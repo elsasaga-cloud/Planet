@@ -1,103 +1,103 @@
 {
-  "code": "SB-334",
-  "name_official": "3S（3s.com.tr，TR；官网未检索到）",
-  "researched_at": "2026-10-21",
-  "website_status": "未检索到（搜索被 ASELSAN「TULGAR」噪声淹没）",
-  "summary": "ISAF 记录：Savaş Tulgar（savas@3s.com.tr）——要工业级交换机；无后续跟进。3s.com.tr 在搜索引擎无有效结果（同名 3-S Mühendislik Düzce 为润滑油厂，非本客户）→ 仅表内信息；需求明确 → 直接报工业机。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "ISAF：要工业级交换机",
-      "quote": "要工业级交换机 / SAVAS TULGAR / savas@3s.com.tr",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Savaş Tulgar",
-      "role": "（ISAF 名片；职务待核）",
-      "email": "savas@3s.com.tr（用户表）",
-      "phone": "—",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "官网未检索到 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "3S（待核）",
-    "hq": "Türkiye（待核）",
-    "size": "待核",
-    "other": "—"
-  },
-  "business_lines": [
-    "（待核）"
-  ],
-  "channels": {
-    "邮箱": "savas@3s.com.tr（用户表）"
-  },
-  "signals": [
-    "要工业级交换机 → 报 DIN 8 口（PoE/非 PoE 两版）"
-  ],
-  "risks": [
-    "无公开资料；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 25,
-    "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；非 PoE STI-280GE（$48.6）；管理型 STI-288DGGPM（$145.7）"
-  },
-  "email_hook": "Savaş Bey, ISAF'ta istediğiniz endüstriyel switch için: DIN ray 8 port gigabit + 2 SFP, PoE'li 59,8 USD / PoE'siz 48,6 USD, yönetilebilir 145,7 USD (EXW) — uygulamanızda PoE ve yönetim gerekiyor mu?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「要工业级交换机 / SAVAS TULGAR / savas@3s.com.tr」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "TR 主攻（四主）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「要工业级交换机 / SAVAS TULGAR / savas@3s.com.tr」；研究档 risks：无公开资料；无后续跟进"
-    },
-    "situation": "ISAF 记录：Savaş Tulgar（savas@3s.com.tr）——要工业级交换机；无后续跟进。3s.com.tr 在搜索引擎无有效结果（同名 3-S Mühendislik Düzce 为润滑油厂，非本客户）→ 仅表内信息；需求明确 → 直接报工业机。",
-    "need": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；非 PoE STI-280GE（$48.6）；管理型 STI-288DGGPM（$145.7）",
-    "breakpoint": "无公开资料；无后续跟进",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；非 PoE STI-280GE（$48.6）；管理型 STI-288DGGPM（$145.7）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → savas@3s.com.tr（Savaş Tulgar）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "Savaş Bey, ISAF'ta istediğiniz endüstriyel switch için: DIN ray 8 port gigabit + 2 SFP, PoE'li 59,8 USD / PoE'siz 48,6 USD, yönetilebilir 145,7 USD (EXW) — uygulamanızda PoE ve yönetim gerekiyor mu?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "要工业级交换机 / SAVAS TULGAR / savas@3s.com.tr",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-334",
+ "name_official": "3S（3s.com.tr，TR；官网未检索到）",
+ "researched_at": "2026-10-21",
+ "website_status": "未检索到（搜索被 ASELSAN「TULGAR」噪声淹没）",
+ "summary": "ISAF 记录：Savaş Tulgar（savas@3s.com.tr）——要工业级交换机；无后续跟进。3s.com.tr 在搜索引擎无有效结果（同名 3-S Mühendislik Düzce 为润滑油厂，非本客户）→ 仅表内信息；需求明确 → 直接报工业机。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：要工业级交换机",
+   "quote": "要工业级交换机 / SAVAS TULGAR / savas@3s.com.tr",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Savaş Tulgar",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "savas@3s.com.tr（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "官网未检索到 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "3S（待核）",
+  "hq": "Türkiye（待核）",
+  "size": "待核",
+  "other": "—"
+ },
+ "business_lines": [
+  "（待核）"
+ ],
+ "channels": {
+  "邮箱": "savas@3s.com.tr（用户表）"
+ },
+ "signals": [
+  "要工业级交换机 → 报 DIN 8 口（PoE/非 PoE 两版）"
+ ],
+ "risks": [
+  "无公开资料；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；非 PoE STI-280GE（$48.6）；管理型 STI-288DGGPM（$145.7）"
+ },
+ "email_hook": "Savaş Bey, ISAF'ta istediğiniz endüstriyel switch için: DIN ray 8 port gigabit + 2 SFP, PoE'li 59,8 USD / PoE'siz 48,6 USD, yönetilebilir 145,7 USD (EXW) — uygulamanızda PoE ve yönetim gerekiyor mu?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「要工业级交换机 / SAVAS TULGAR / savas@3s.com.tr」；Elsa 箱：`to:3s.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「要工业级交换机 / SAVAS TULGAR / savas@3s.com.tr」；研究档 risks：无公开资料；无后续跟进"
+  },
+  "situation": "ISAF 记录：Savaş Tulgar（savas@3s.com.tr）——要工业级交换机；无后续跟进。3s.com.tr 在搜索引擎无有效结果（同名 3-S Mühendislik Düzce 为润滑油厂，非本客户）→ 仅表内信息；需求明确 → 直接报工业机。",
+  "need": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；非 PoE STI-280GE（$48.6）；管理型 STI-288DGGPM（$145.7）",
+  "breakpoint": "无公开资料；无后续跟进",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；非 PoE STI-280GE（$48.6）；管理型 STI-288DGGPM（$145.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → savas@3s.com.tr（Savaş Tulgar）",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Savaş Bey, ISAF'ta istediğiniz endüstriyel switch için: DIN ray 8 port gigabit + 2 SFP, PoE'li 59,8 USD / PoE'siz 48,6 USD, yönetilebilir 145,7 USD (EXW) — uygulamanızda PoE ve yönetim gerekiyor mu?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "要工业级交换机 / SAVAS TULGAR / savas@3s.com.tr",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

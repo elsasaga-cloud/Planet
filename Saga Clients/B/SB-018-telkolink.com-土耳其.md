@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-018` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 info@telkolink.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台」；研究档 risks：现有多源（CLR / 3onedata / TG-NET / 台湾厂）价格基准低
+- **绑定等级：未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 info@telkolink.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:telkolink.com OR to:clrnetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(i)））** ｜ 类型：IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台」；研究档 risks：现有多源（CLR / 3onedata / TG-NET / 台湾厂）价格基准低
 - **现状一句话**：土耳其 Telkolink Kurumsal Bilgi Teknolojileri（IT 产品供应商：PoE 交换机 / 网络设备 / 光纤系统 / RF 线缆 / 结构化布线 / 工业自动化产品，站内 Katalog PDF；表内「VC 刷了自己的标，合作很密切：FS、机架、MC、SFP 模块；还有三旺、TG-NET、一家台湾公司；在用 CLR（深圳）的 VC；整体外观一般」；KP Yusuf Olcer（Sales Manager））；群发 2 次无回复。
 - **对方真实需求（有据）**：已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）
 - **断点 / 为什么停在这里**：现有多源（CLR / 3onedata / TG-NET / 台湾厂）价格基准低
@@ -303,12 +303,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 60）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 60）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-422` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 13 封 2024→2026，无记录打开，0 回；收件 furkan@optima.tc；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13；用户表：「只处理IP camera，基本不处理analog video,对POE switch有兴趣 会来深圳买产品但不是参展，邀请了他参观公司」；研究档 risks：公共/军事设施出入口项目按个案守界（设备商本身为民用制造）；2 次跟进 0 回复
+- **绑定等级：未触达（A/S 邮箱 13 封 2024→2026，无记录打开，0 回；收件 furkan@optima.tc；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:optima-engineering.com OR to:optima.tc` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(i)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13；用户表：「只处理IP camera，基本不处理analog video,对POE switch有兴趣 会来深圳买产品但不是参展，邀请了他参观公司」；研究档 risks：公共/军事设施出入口项目按个案守界（设备商本身为民用制造）；2 次跟进 0 回复
 - **现状一句话**：安卡拉 Sincan Başkent OSB 的车辆出入口安防设备制造商 Optima Engineering（路障/升降柱/滑动门/道闸/破胎器/闸机/车牌识别/停车道闸；总部与工厂 Başkent OSB 19. Cadde No:62 Malıköy；伊斯坦布尔 Perpa 销售办；沙特 KSA 工厂；+90 312 815 15 00；optima@optima.tc；Optima Soft = 其软件/IP 视频团队）。ISAF 记录：技术经理 Furkan Kalkan——只处理 IP 摄像、基本不处理模拟，对 PoE 交换机有兴趣，会来深圳买产品（非参展），已邀其参观公司；2 次跟进 0 回复。设备制造商在柜内配套 PoE 交换机 → OEM/配套 30%。
 - **对方真实需求（有据）**：OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标
 - **断点 / 为什么停在这里**：公共/军事设施出入口项目按个案守界（设备商本身为民用制造）；2 次跟进 0 回复
@@ -302,12 +302,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

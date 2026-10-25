@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-355` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com」；研究档 risks：新设公司规模小；火灾报警业务守界；无后续跟进
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com」；Elsa 箱：`to:fhguvenlik.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com」；研究档 risks：新设公司规模小；火灾报警业务守界；无后续跟进
 - **现状一句话**：伊斯坦布尔的弱电/安防工程公司 FH Güvenlik（法人 2025-02-13 新设，团队自述 15 年以上经验；CCTV（模拟/AHD/IP）、火灾报警、报警、自动化等弱电集成；总部 Sinan Paşa Mah. Süleyman Seba Cad. No:6 Beşiktaş，技术办公室 Perpa B Blok Kat:11 No:1730 Şişli；0534 594 63 61 / 0534 484 98 11；info@fhguvenlik.com）。ISAF 记录：Hasti F. Göller（hasti@fhguvenlik.com）——要工业级交换机；无后续跟进。守界：火灾报警主系统不供，仅网络层。
 - **对方真实需求（有据）**：工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业级交换机」；机房侧 STC-28DGGPM（$84.1）；管理型工业 STI-288GPM（$82.2）
 - **断点 / 为什么停在这里**：新设公司规模小；火灾报警业务守界；无后续跟进
@@ -244,12 +244,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
