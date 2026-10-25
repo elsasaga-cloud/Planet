@@ -103,7 +103,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → tomasz.wieczorek@cellco.com.pl（Tomasz Wieczorek）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）",
       "one_question": "Tomasz, for the media converters you carry alongside your fibre cabling and CWDM ranges, we supply gigabit and PoE media converters plus 8-GE + 2 SFP switches (industrial grade, CE/RoHS) neutral-brand from small lots, EXW USD — which MC type do your FTTH and enterprise customers buy most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -135,7 +135,10 @@
     "proof_gaps": [
       "无邮件往来"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Media converters for the Cellco fibre range - STI-110GE from small lots",
+      "body": "Hi Tomasz,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 1 September - and there was no reason to answer a mass mail. This one is about the part of your range we actually fit: media converters.\n\nAlongside Cellco's fibre cabling, CWDM and FTTH lines, we supply industrial-grade gigabit media converters, neutral-brand or your label, from small lots:\n\n- 1 x Gigabit RJ45 + 1 x SFP, DIN-rail, -40 to 75 C, model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity).\n- Same unit with PoE+ output on the copper port, model STI-111GP - $27.8 USD EXW.\n- Companion 8 x Gigabit + 2 x SFP industrial switch, unmanaged, model STI-280GE - $46.6 USD EXW.\n\nCE/RoHS; metal housing; 3-year warranty with our DIN power supply. Optics, patch cords and CWDM stay with your existing suppliers - we only do the active boxes.\n\nOne question: which converter type do your FTTH and enterprise customers buy most - plain gigabit, or the PoE version?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-25"
   }
 }

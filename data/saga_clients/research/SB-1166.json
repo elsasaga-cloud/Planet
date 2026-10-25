@@ -109,7 +109,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → petru.pislariu@bluenote.ro（Petru Pislariu）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-12「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-12「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）",
       "one_question": "Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -149,7 +149,10 @@
     "proof_gaps": [
       "无邮件往来"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Industrial switch for SCADA / metering sites - STI-288GPM under your label",
+      "body": "Hi Petru,\n\nOver the past year you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 12 August - and there was no reason to answer a mass mail. This one is specific to BlueNote's SCADA and metering sites.\n\nFor the DIN-rail industrial switches in those sites (you have been using a Shenzhen industrial line so far), we supply two Marvell-based managed units from single pieces, neutral housing or BlueNote label:\n\n- 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, redundant 12-57 V input, model STI-288GPM - $82.2 USD EXW (MOQ 1, 15-day validity).\n- Same chassis without PoE, model STI-280GM - $71.0 USD EXW.\n\nCE/RoHS, 3-year warranty together with our DIN power supply. We do not supply SFP optics (your BiDi modules stay with your current source) - the switches take standard 100M/1G SFP.\n\nOne question: which uplink and port count do your sites standardise on - 2 x SFP with 8 copper ports, or something larger?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-25"
   }
 }

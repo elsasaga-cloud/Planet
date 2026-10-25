@@ -171526,7 +171526,7 @@
 ],
 "draft_en": {
 "subject": "STI-288GPM - DIN managed 8-PoE + 2-SFP below the Hirschmann / Moxa price points",
-"body": "Hi Gina,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 4 September - and there was no reason to answer a mass mail. This one is specific to Amplicon's industrial networking page.\n\nBelow the Hirschmann / Moxa price points you list, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ERPS ring, -40 to 75 C, CE/UKCA/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). Non-PoE sister model STI-280GM at $68.2.\n\nIt ships under your own label with neutral packaging if that suits the Amplicon catalogue better than a third-party brand; 3-year warranty together with our DIN power supply.\n\nOne question: is one evaluation unit (at the unit price) for the Brighton lab worth a slot in your 2027 line-card review?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+"body": "Hi Gina,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 4 September - and there was no reason to answer a mass mail. This one is specific to Amplicon's industrial networking page.\n\nBelow the Hirschmann / Moxa price points you list, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, CE/UKCA/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). Non-PoE sister model STI-280GM at $68.2.\n\nIt ships under your own label with neutral packaging if that suits the Amplicon catalogue better than a third-party brand; 3-year warranty together with our DIN power supply.\n\nOne question: is one evaluation unit (at the unit price) for the Brighton lab worth a slot in your 2027 line-card review?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-25"
 }
@@ -175155,7 +175155,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → petru.pislariu@bluenote.ro（Petru Pislariu）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-12「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-12「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）",
 "one_question": "Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -175195,7 +175195,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Industrial switch for SCADA / metering sites - STI-288GPM under your label",
+"body": "Hi Petru,\n\nOver the past year you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 12 August - and there was no reason to answer a mass mail. This one is specific to BlueNote's SCADA and metering sites.\n\nFor the DIN-rail industrial switches in those sites (you have been using a Shenzhen industrial line so far), we supply two Marvell-based managed units from single pieces, neutral housing or BlueNote label:\n\n- 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, redundant 12-57 V input, model STI-288GPM - $82.2 USD EXW (MOQ 1, 15-day validity).\n- Same chassis without PoE, model STI-280GM - $71.0 USD EXW.\n\nCE/RoHS, 3-year warranty together with our DIN power supply. We do not supply SFP optics (your BiDi modules stay with your current source) - the switches take standard 100M/1G SFP.\n\nOne question: which uplink and port count do your sites standardise on - 2 x SFP with 8 copper ports, or something larger?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -176663,7 +176666,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → tomasz.wieczorek@cellco.com.pl（Tomasz Wieczorek）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）",
 "one_question": "Tomasz, for the media converters you carry alongside your fibre cabling and CWDM ranges, we supply gigabit and PoE media converters plus 8-GE + 2 SFP switches (industrial grade, CE/RoHS) neutral-brand from small lots, EXW USD — which MC type do your FTTH and enterprise customers buy most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -176695,7 +176698,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Media converters for the Cellco fibre range - STI-110GE from small lots",
+"body": "Hi Tomasz,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 1 September - and there was no reason to answer a mass mail. This one is about the part of your range we actually fit: media converters.\n\nAlongside Cellco's fibre cabling, CWDM and FTTH lines, we supply industrial-grade gigabit media converters, neutral-brand or your label, from small lots:\n\n- 1 x Gigabit RJ45 + 1 x SFP, DIN-rail, -40 to 75 C, model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity).\n- Same unit with PoE+ output on the copper port, model STI-111GP - $27.8 USD EXW.\n- Companion 8 x Gigabit + 2 x SFP industrial switch, unmanaged, model STI-280GE - $46.6 USD EXW.\n\nCE/RoHS; metal housing; 3-year warranty with our DIN power supply. Optics, patch cords and CWDM stay with your existing suppliers - we only do the active boxes.\n\nOne question: which converter type do your FTTH and enterprise customers buy most - plain gigabit, or the PoE version?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -198213,7 +198219,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → markus.brenner@sphinxcomputer.de（Markus Brenner）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价；德文钩子句只留作备用，发信用英文）",
 "one_question": "Herr Brenner, unterhalb der Moxa/Advantech-Preispunkte: Marvell-basierter DIN-Switch 8×PoE + 2×SFP managed (ERPS, −40~75 °C, CE/RoHS) zu 79 $ EXW — ein Evaluierungsgerät für Laudenbach?"
 },
 "facts": [
@@ -198245,7 +198251,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "STI-288GPM - DIN managed 8-PoE + 2-SFP below the Moxa / Advantech price points",
+"body": "Hi Markus,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 31 August - and there was no reason to answer a mass mail. This one is specific to the industrial networking part of Sphinx's line card.\n\nBelow the Moxa / Advantech price points you carry, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, CE/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). The matching industrial gigabit media converter STI-110GE is $22.4.\n\nNeutral housing and carton as standard; a Sphinx label is possible from small lots; 3-year warranty together with our DIN power supply.\n\nOne question: is one evaluation unit (at the unit price) for Laudenbach worth a look before your next line-card review?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }

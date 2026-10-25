@@ -234,7 +234,7 @@ Hi Gina,
 
 Some time ago you had a product mail from us - "24 Port PoE Managed Switch" on 4 September - and there was no reason to answer a mass mail. This one is specific to Amplicon's industrial networking page.
 
-Below the Hirschmann / Moxa price points you list, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ERPS ring, -40 to 75 C, CE/UKCA/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). Non-PoE sister model STI-280GM at $68.2.
+Below the Hirschmann / Moxa price points you list, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, CE/UKCA/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). Non-PoE sister model STI-280GM at $68.2.
 
 It ships under your own label with neutral packaging if that suits the Amplicon catalogue better than a third-party brand; 3-year warranty together with our DIN power supply.
 
