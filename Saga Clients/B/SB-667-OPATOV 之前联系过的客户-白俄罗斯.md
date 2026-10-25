@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：LT-IS6312GP-4GX8GT-FBP — 阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2）；首触锚价 LT-IS6312GP-4GX8GT-FBP $186.5 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design? Reference: the bypass unit at $186.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → dia@opatov.ru（Igor Dashchinski） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → dia@opatov.ru（Igor Dashchinski） 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`；bypass 整机为 SmartByte 型号，信稿只描述不写型号）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2）
 - **断点 / 为什么停在这里**：白俄罗斯：制裁/结算/物流通道受限，需经第三国；非主攻区（T5）
 - **Saga 现在该推什么**：P1 **LT-IS6312GP-4GX8GT-FBP**（20% 档，首触锚价 LT-IS6312GP-4GX8GT-FBP $186.5 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → dia@opatov.ru（Igor Dashchinski）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → dia@opatov.ru（Igor Dashchinski）　首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`；bypass 整机为 SmartByte 型号，信稿只描述不写型号）
   - 第一问（只问一个）：Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design? Reference: the bypass unit at $186.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -225,19 +225,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Your bypass-switch enquiry on Alibaba - industrial managed unit with hardware bypass
 
 ```text
 Hi Igor,
 
-We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue. Following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design?
+You asked on Alibaba about bypass modules and did not get a proper answer from us - apologies, here it is.
+
+We do not sell the bypass module on its own; we supply it built into an industrial switch: DIN-rail L2+ managed, 8 x Gigabit RJ45 (PoE+ version) + 4 x SFP, hardware optical bypass on the fibre uplinks, -40 to 75 C, CE/RoHS - $186.5 USD EXW (MOQ 1, 15-day validity); the non-PoE version - $172.2. Alongside it, the regular DIN-rail 8 x Gigabit + 2 x SFP L2 managed unit, STI-280GM, $68.2.
+
+One question: is the bypass needed on the copper ports or on the fibre uplinks in your design?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> P1 = LT-IS6312GP-4GX8GT-FBP：型号不在样板描述表（render.py P1_EN）内，样板未带型号/价格——报价前按价格表核 LT-IS6312GP-4GX8GT-FBP。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

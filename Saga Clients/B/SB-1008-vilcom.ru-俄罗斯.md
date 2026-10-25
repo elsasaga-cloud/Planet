@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@vilcom.ru（无具名 KP；公用地址） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@vilcom.ru（无具名 KP；公用地址） 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
 - **断点 / 为什么停在这里**：业务范围待核（官网 timeout）；俄罗斯：结算/物流/合规风险；未跟进过，仅 info@
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@vilcom.ru（无具名 KP；公用地址）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@vilcom.ru（无具名 KP；公用地址）　首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -201,23 +201,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Neutral-brand switches from small lots - 8-PoE L2+ and 24 + 4 x 10G
 
 ```text
-Hello,
+Hello Vilcom team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?
+For the switches you supply, two neutral-brand units from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); 24 x Gigabit + 4 x 10G SFP+ L2+ - STC-424XGGM - $127.4. CE/RoHS files supplied; EAC stays on your side.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which port count do your customers order most - 8 or 24?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
