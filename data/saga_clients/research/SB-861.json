@@ -110,7 +110,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → indikul@signamax.com",
-   "action": "短信一问（email_hook）",
+   "action": "短信一问（email_hook）（第 75 批(n)：「Marvell platform」只挂管理型，MC 不挂）",
    "one_question": "Lynn, for the Signamax industrial switch and media-converter lines, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit/PoE MCs, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -150,7 +150,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "One question — Industrial PoE Switch",
-   "body": "Hi Lynn,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Signamax industrial switch and media-converter lines, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit/PoE MCs, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+   "body": "Hi Lynn,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Signamax industrial switch and media-converter lines, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on a Marvell platform, gigabit/PoE media converters, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
   },
   "as_of": "2026-10-24"
  }

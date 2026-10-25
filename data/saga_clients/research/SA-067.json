@@ -170,7 +170,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → mats.backlund@direktronik.se + anders.hedin@direktronik.se（抄 info@ 回原工单）",
-   "action": "附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品",
+   "action": "附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品（第 75 批(n)：信里写了「attached」——发前必须附 CE DoC（EMC+LVD）、RoHS、REACH、FCC、UKCA 文件，缺一则把该行改「on request」）",
    "one_question": "Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?"
   },
   "facts": [

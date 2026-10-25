@@ -77,7 +77,7 @@
   "next_move": {
    "when": "2026-11（顺手）",
    "channel": "Elsa 邮箱回原线程",
-   "action": "首封前知悉：Elsa 已 To 直发 2 轮（2025-04-09→2025-05-02）（最近 2025-05-02「Commercial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+   "action": "首封前知悉：Elsa 已 To 直发 2 轮（2025-04-09→2025-05-02）（最近 2025-05-02「Commercial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用（第 75 批(n)：Elsa 箱回原线程，正文第一人称，不写「Elsa sent」）",
    "one_question": "Is the 24-SFP aggregation unit (STC-4168XGGCM, $300 USD EXW for one sample, FedEx $105) for a project of your own, or are you looking for Cisco-compatible parts?"
   },
   "facts": [
@@ -135,7 +135,7 @@
   ],
   "draft_en": {
    "subject": "24-port SFP aggregation switch — still relevant?",
-   "body": "Hi Kennedy,\n\nIn October 2025 Elsa sent you the STC-4168XGGCM datasheet (Marvell-based L2+ aggregation: 24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC) with shipping to Zambia at $105 by FedEx door-to-door and a 3–5 working-day lead time, and did not hear back.\n\nThe price in the mail you answered was $280 USD EXW; for one sample unit today it is $300 USD EXW (the RMB has moved from 7.2 to 6.7 since), 15-day validity, MOQ 1.\n\nOne question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+   "body": "Hi Kennedy,\n\nIn October 2025 I sent you the STC-4168XGGCM datasheet (Marvell-based L2+ aggregation: 24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC) with shipping to Zambia at $105 by FedEx door-to-door and a 3–5 working-day lead time, and did not hear back.\n\nThe price in the mail you answered was $280 USD EXW; for one sample unit today it is $300 USD EXW (the RMB has moved from 7.2 to 6.7 since), 15-day validity, MOQ 1.\n\nOne question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
   },
   "as_of": "2026-10-25"
  }

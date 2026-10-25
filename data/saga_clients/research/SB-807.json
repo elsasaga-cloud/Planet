@@ -81,7 +81,7 @@
     "next_move": {
       "when": "2026-11（Simon）",
       "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
+      "action": "首封 + 一句话（第 75 批(n)：信稿「ERPS」改「halka yedekli」——口径只说 ring redundancy）",
       "one_question": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
     },
     "facts": [
@@ -99,7 +99,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
+      "body": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (halka yedekli) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
     },
     "as_of": "2026-10-24"
   }
