@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — 工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）。已打开的主题（1/30 封有打开记录）：「24 Port Fiber Switch」(2025-01-31) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）
 - **断点 / 为什么停在这里**：Saga 无独立注入器 SKU；20 次跟进无果
 - **Saga 现在该推什么**：P1 **STI-054GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch））——工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）。已打开的主题（1/30 封有打开记录）：「24 Port Fiber Switch」(2025-01-31) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
   - 第一问（只问一个）：Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -243,23 +243,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-054GP - industrial DIN-rail switch (neutral label)
+**主题**：Instead of the Red Lion injector - a 4-port industrial PoE switch at $32.5
 
 ```text
 Hi Wayne,
 
-Picking up our earlier exchange about PoE / industrial switches. Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?
+Over the past months you had a few product mails from us - most recently "Commercial PoE Switch" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 Gigabit uplink (unmanaged) - model STI-054GP - that fits the same slot as the redlion class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $32.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+You pointed us at the Red Lion 100-PoE injector; we do not carry a single-port injector, but the unit that normally replaces it: DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged, -40 to 75 C, 44-57 V DC - model STI-054GP - $32.5 USD EXW (MOQ 1, 15-day validity), powers up to four devices from one box; with an SFP uplink instead - STI-144GP - $35.5. FCC/CE/RoHS.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the field device 802.3af or 802.3at, and how many of them per site?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
