@@ -235,7 +235,7 @@ updated: 2026-10-25
 ```text
 Hello Daejin Networks team,
 
-For the CENTEC-based Ethernet switches in your portfolio: we supply CENTEC-platform aggregation switches from small lots, neutral or your label - 24 x 10G SFP+ + 2 x 100G QSFP28, L3 (BGP/OSPF), dual PSU - model STH-2C24XF-HSI - $1,500 USD EXW (MOQ 1, 15-day validity); 32 x 100G - STH-32C - $6,000; and Marvell-based access, 24 x Gigabit + 4 x 10G SFP+ L2+ - STC-424XGGM - $138.0. CE/RoHS files supplied; KC stays on your side.
+For the CENTEC-based Ethernet switches in your portfolio: we supply CENTEC-platform aggregation switches from small lots, neutral or your label - 24 x 10G SFP+ + 2 x 100G QSFP28, L3 (BGP/OSPF), dual PSU - model STH-2C24XF-HSI - $1,500 USD EXW (MOQ 1, 15-day validity); 32 x 100G - STH-32C-HSI - $6,000; and Marvell-based access, 24 x Gigabit + 4 x 10G SFP+ L2+ - STC-424XGGM - $138.0. CE/RoHS files supplied; KC stays on your side.
 
 One question: which port configuration do your projects need most - 10G aggregation, 100G spine, or gigabit access?
 

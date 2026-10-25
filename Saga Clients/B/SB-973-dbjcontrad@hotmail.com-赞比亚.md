@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）；同款群发价（他回的那封「10G Enterprise SFP Switch」）= STC-4168XGGCM $280（2025-09→2026-05，≈ 进价）；信稿按 FX 7.2→6.7 写 $300（1 台样机），并沿用 Elsa 的 FedEx $105；25% 档 $392.4 / PDF 上限 $413 只能在 Simon 另给理由时用；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter）
 - **第一问（只问一个）**：Is the 24-SFP aggregation unit (STC-4168XGGCM, $300 USD EXW for one sample, FedEx $105) for a project of your own, or are you looking for Cisco-compatible parts?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 首封前知悉：Elsa 已 To 直发 2 轮（2025-04-09→2025-05-02）（最近 2025-05-02「Commercial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 首封前知悉：Elsa 已 To 直发 2 轮（2025-04-09→2025-05-02）（最近 2025-05-02「Commercial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用（第 75 批(n)：Elsa 箱回原线程，正文第一人称，不写「Elsa sent」）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：Cisco / DAC 需求不在 Saga 线。
 - **断点 / 为什么停在这里**：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明
 - **Saga 现在该推什么**：P1 **—**（25% 档，同款群发价（他回的那封「10G Enterprise SFP Switch」）= STC-4168XGGCM $280（2025-09→2026-05，≈ 进价）；信稿按 FX 7.2→6.7 写 $300（1 台样机），并沿用 Elsa 的 FedEx $105；25% 档 $392.4 / PDF 上限 $413 只能在 Simon 另给理由时用；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter））——Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　首封前知悉：Elsa 已 To 直发 2 轮（2025-04-09→2025-05-02）（最近 2025-05-02「Commercial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　首封前知悉：Elsa 已 To 直发 2 轮（2025-04-09→2025-05-02）（最近 2025-05-02「Commercial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用（第 75 批(n)：Elsa 箱回原线程，正文第一人称，不写「Elsa sent」）
   - 第一问（只问一个）：Is the 24-SFP aggregation unit (STC-4168XGGCM, $300 USD EXW for one sample, FedEx $105) for a project of your own, or are you looking for Cisco-compatible parts?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -214,7 +214,7 @@ updated: 2026-10-25
 ```text
 Hi Kennedy,
 
-In October 2025 Elsa sent you the STC-4168XGGCM datasheet (Marvell-based L2+ aggregation: 24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC) with shipping to Zambia at $105 by FedEx door-to-door and a 3–5 working-day lead time, and did not hear back.
+In October 2025 I sent you the STC-4168XGGCM datasheet (Marvell-based L2+ aggregation: 24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC) with shipping to Zambia at $105 by FedEx door-to-door and a 3–5 working-day lead time, and did not hear back.
 
 The price in the mail you answered was $280 USD EXW; for one sample unit today it is $300 USD EXW (the RMB has moved from 7.2 to 6.7 since), 15-day validity, MOQ 1.
 

@@ -5958,7 +5958,7 @@
 "next_move": {
 "when": "立即（距 09-27 已 25 天）",
 "channel": "S 邮箱回复同一线程「Re: Fw: T/T Payment」或新主题",
-"action": "补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈",
+"action": "补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈（第 75 批(n)：信稿去掉 CLI（未核实）",
 "one_question": "Is this 24-port PoE switch for your own Vi-Link label (same OEM printing as the converters), or for a specific end-customer project?"
 },
 "facts": [
@@ -6281,7 +6281,7 @@
 ],
 "draft_en": {
 "subject": "STC-424XGGPM-280W for Vi-Link - price and sample option",
-"body": "Hi Thu,\n\nFollowing up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).\n\nSTC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/CLI/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.\n\nOne question: is this switch for your own Vi-Link label, or for a specific end-customer project?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
+"body": "Hi Thu,\n\nFollowing up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).\n\nSTC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.\n\nOne question: is this switch for your own Vi-Link label, or for a specific end-customer project?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
 },
 "binding": {
 "level": "中度（三单 OEM 复购、以 Vi-Link 品牌出货；Elsa 箱：`to:vilinknet.com OR to:vi-link.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 69 / 来 42）（第 74 批(g)））",
@@ -32997,7 +32997,7 @@
 "next_move": {
 "when": "2026-11",
 "channel": "A 邮箱 → mats.backlund@direktronik.se + anders.hedin@direktronik.se（抄 info@ 回原工单）",
-"action": "附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品",
+"action": "附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品（第 75 批(n)：信里写了「attached」——发前必须附 CE DoC（EMC+LVD）、RoHS、REACH、FCC、UKCA 文件，缺一则把该行改「on request」）",
 "one_question": "Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?"
 },
 "facts": [
@@ -121902,7 +121902,7 @@
 ],
 "draft_en": {
 "subject": "CENTEC-platform aggregation switches from small lots - next to your CTC8180",
-"body": "Hello Daejin Networks team,\n\nFor the CENTEC-based Ethernet switches in your portfolio: we supply CENTEC-platform aggregation switches from small lots, neutral or your label - 24 x 10G SFP+ + 2 x 100G QSFP28, L3 (BGP/OSPF), dual PSU - model STH-2C24XF-HSI - $1,500 USD EXW (MOQ 1, 15-day validity); 32 x 100G - STH-32C - $6,000; and Marvell-based access, 24 x Gigabit + 4 x 10G SFP+ L2+ - STC-424XGGM - $138.0. CE/RoHS files supplied; KC stays on your side.\n\nOne question: which port configuration do your projects need most - 10G aggregation, 100G spine, or gigabit access?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+"body": "Hello Daejin Networks team,\n\nFor the CENTEC-based Ethernet switches in your portfolio: we supply CENTEC-platform aggregation switches from small lots, neutral or your label - 24 x 10G SFP+ + 2 x 100G QSFP28, L3 (BGP/OSPF), dual PSU - model STH-2C24XF-HSI - $1,500 USD EXW (MOQ 1, 15-day validity); 32 x 100G - STH-32C-HSI - $6,000; and Marvell-based access, 24 x Gigabit + 4 x 10G SFP+ L2+ - STC-424XGGM - $138.0. CE/RoHS files supplied; KC stays on your side.\n\nOne question: which port configuration do your projects need most - 10G aggregation, 100G spine, or gigabit access?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -443054,7 +443054,7 @@
 "next_move": {
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
-"action": "首封 + 一句话",
+"action": "首封 + 一句话（第 75 批(n)：信稿「ERPS」改「halka yedekli」——口径只说 ring redundancy）",
 "one_question": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
 },
 "facts": [
@@ -443072,7 +443072,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
+"body": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (halka yedekli) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
 },
 "as_of": "2026-10-24"
 }
@@ -464090,7 +464090,7 @@
 "next_move": {
 "when": "2026-11",
 "channel": "A 邮箱 → indikul@signamax.com",
-"action": "短信一问（email_hook）",
+"action": "短信一问（email_hook）（第 75 批(n)：「Marvell platform」只挂管理型，MC 不挂）",
 "one_question": "Lynn, for the Signamax industrial switch and media-converter lines, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit/PoE MCs, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -464130,7 +464130,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Industrial PoE Switch",
-"body": "Hi Lynn,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Signamax industrial switch and media-converter lines, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit/PoE MCs, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi Lynn,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Signamax industrial switch and media-converter lines, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on a Marvell platform, gigabit/PoE media converters, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -500094,7 +500094,7 @@
 "next_move": {
 "when": "2026-11（顺手）",
 "channel": "Elsa 邮箱回原线程",
-"action": "首封前知悉：Elsa 已 To 直发 2 轮（2025-04-09→2025-05-02）（最近 2025-05-02「Commercial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+"action": "首封前知悉：Elsa 已 To 直发 2 轮（2025-04-09→2025-05-02）（最近 2025-05-02「Commercial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用（第 75 批(n)：Elsa 箱回原线程，正文第一人称，不写「Elsa sent」）",
 "one_question": "Is the 24-SFP aggregation unit (STC-4168XGGCM, $300 USD EXW for one sample, FedEx $105) for a project of your own, or are you looking for Cisco-compatible parts?"
 },
 "facts": [
@@ -500152,7 +500152,7 @@
 ],
 "draft_en": {
 "subject": "24-port SFP aggregation switch — still relevant?",
-"body": "Hi Kennedy,\n\nIn October 2025 Elsa sent you the STC-4168XGGCM datasheet (Marvell-based L2+ aggregation: 24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC) with shipping to Zambia at $105 by FedEx door-to-door and a 3–5 working-day lead time, and did not hear back.\n\nThe price in the mail you answered was $280 USD EXW; for one sample unit today it is $300 USD EXW (the RMB has moved from 7.2 to 6.7 since), 15-day validity, MOQ 1.\n\nOne question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+"body": "Hi Kennedy,\n\nIn October 2025 I sent you the STC-4168XGGCM datasheet (Marvell-based L2+ aggregation: 24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC) with shipping to Zambia at $105 by FedEx door-to-door and a 3–5 working-day lead time, and did not hear back.\n\nThe price in the mail you answered was $280 USD EXW; for one sample unit today it is $300 USD EXW (the RMB has moved from 7.2 to 6.7 since), 15-day validity, MOQ 1.\n\nOne question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-25"
 }

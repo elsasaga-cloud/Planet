@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — Signamax 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）；SFP Saga 不供。已打开的主题（3/29 封有打开记录）：「Power Converter」(2024-09-27)、「16 Port Ethernet Switch」(2024-12-25)、「Managed Optical Bypass Switch」(2025-03-18) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $220（48 port managed switch）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-03 $65（10G Media Converter）、2025-04-18 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Lynn, for the Signamax industrial switch and media-converter lines, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit/PoE MCs, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → indikul@signamax.com 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → indikul@signamax.com 短信一问（email_hook）（第 75 批(n)：「Marvell platform」只挂管理型，MC 不挂）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：Signamax 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）；SFP Saga 不供
 - **断点 / 为什么停在这里**：既有 ODM 供应链（量大但切换门槛高）；18 次无回复 → 改向 VP Sales 具名首触；官网快照空
 - **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $220（48 port managed switch）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-03 $65（10G Media Converter）、2025-04-18 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——Signamax 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）；SFP Saga 不供。已打开的主题（3/29 封有打开记录）：「Power Converter」(2024-09-27)、「16 Port Ethernet Switch」(2024-12-25)、「Managed Optical Bypass Switch」(2025-03-18) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → indikul@signamax.com　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → indikul@signamax.com　短信一问（email_hook）（第 75 批(n)：「Marvell platform」只挂管理型，MC 不挂）
   - 第一问（只问一个）：Lynn, for the Signamax industrial switch and media-converter lines, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit/PoE MCs, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -274,7 +274,7 @@ Hi Lynn,
 
 We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
-For the Signamax industrial switch and media-converter lines, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit/PoE MCs, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first?
+For the Signamax industrial switch and media-converter lines, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on a Marvell platform, gigabit/PoE media converters, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first?
 
 Reference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.
 

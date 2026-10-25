@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏｜毛利复盘：三单 3.8% / 11.4% / 8.4%，利润合计 750 RMB——丝印固定费 + 运费摊在 4–10 台上；以后丝印单收一次性费（2024-11 收过 $50）或 MOQ 20 台，否则只维持不追；Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效；历史报价（邮件原话，老汇率）：2024-11-16 ；2024-11-14 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-13 $65（10G Media Converter）、2025-10-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Is this 24-port PoE switch for your own Vi-Link label (same OEM printing as the converters), or for a specific end-customer project?
 - **最大未知**：年走量与现供应商
-- **下一步**：立即（距 09-27 已 25 天） S 邮箱回复同一线程「Re: Fw: T/T Payment」或新主题 补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈
+- **下一步**：立即（距 09-27 已 25 天） S 邮箱回复同一线程「Re: Fw: T/T Payment」或新主题 补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈（第 75 批(n)：信稿去掉 CLI（未核实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -52,7 +52,7 @@ updated: 2026-10-25
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效；历史报价（邮件原话，老汇率）：2024-11-16 ；2024-11-14 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-13 $65（10G Media Converter）、2025-10-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏｜毛利复盘：三单 3.8% / 11.4% / 8.4%，利润合计 750 RMB——丝印固定费 + 运费摊在 4–10 台上；以后丝印单收一次性费（2024-11 收过 $50）或 MOQ 20 台，否则只维持不追
   - 复购/在买项：STC-110GE（纯净版千兆 MC，Vi-Link 型号 MC1000SC03）：已成交 10 台，确认顶盖全白后可随时复购；STC-110XGE 10G MC + STC-14DUR 14 槽机架（Vi-Link MC10G / MC1400）：2024-11 成交 5 台；STC-110FE（MC100SC03，带 DIP）：2026-08 报过 $32.5/台，终端客户拒绝 DIP 版 → 只在客户明确接受 DIP 时再推
   - 做不了 / 要先核的：外壳顶盖是否恢复全白（SmartByte 2026 新批次有印刷字）——下次 PI 前先向 SmartByte 确认；Vi-Link 要的『no DIP』纯净 MC 在 Saga 价格主表里没有商用 MC 条目 → 继续用 SmartByte LT-MC80G 系列报价并在 MD 标注；Vi-Link 主业是 SFP 模块（2024-05-31 自述）——交换机/MC 是其副线，复购节奏取决于其美国客户项目
-- **下一步（具体）**：立即（距 09-27 已 25 天）　S 邮箱回复同一线程「Re: Fw: T/T Payment」或新主题　补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈
+- **下一步（具体）**：立即（距 09-27 已 25 天）　S 邮箱回复同一线程「Re: Fw: T/T Payment」或新主题　补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈（第 75 批(n)：信稿去掉 CLI（未核实）
   - 第一问（只问一个）：Is this 24-port PoE switch for your own Vi-Link label (same OEM printing as the converters), or for a specific end-customer project?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -367,7 +367,7 @@ Hi Thu,
 
 Following up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).
 
-STC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/CLI/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.
+STC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.
 
 One question: is this switch for your own Vi-Link label, or for a specific end-customer project?
 
