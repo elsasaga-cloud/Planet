@@ -85,7 +85,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "爱尔兰（欧洲全域主攻）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「VC POE 工业FS」；研究档 risks：Dahua 总分销：PoE 多随 Dahua PFS 套装走，白牌需靠价差；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2026-08-13 名单；2025-02-17 首轮名单无此地址 → 中途加入"
+   "evidence": "gmail_digest：out 0；用户表：「VC POE 工业FS」；研究档 risks：Dahua 总分销：PoE 多随 Dahua PFS 套装走，白牌需靠价差；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To dipol@skuatechnology.com）本户见于 2025-02-18 名单；同批次（To info@iotkomponenty.sk）本户见于 2026-08-13 名单；2025-02-17 首轮名单无此地址 → 中途加入"
   },
   "situation": "爱尔兰 KD Electronics（CCTV、安防、AV 与网络产品贸易供应商，「Dahua Largest Distributor」（爱尔兰）、TP-Link（21）、Ajax、Triax 线缆；表内「VC / PoE / 工业 FS；大华 PoE」）；表内无跟进记录。",
   "need": "Dahua 配套 PoE（现 Dahua PFS 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM；非管理位 HRUI STC-028GP",
@@ -105,6 +105,14 @@
    "one_question": "For the PoE switches your trade customers buy with Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model, DIN-rail industrial 8-PoE units and budget 4/8-port PoE switches from small lots, CE/RoHS, EXW USD — which band do your installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-02-18",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To dipol@skuatechnology.com，PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合 批次）",
+    "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@kdelectronics.ie, kdelectronics.ie, sales@kdelectronics.ie）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-13",
     "dir": "去",

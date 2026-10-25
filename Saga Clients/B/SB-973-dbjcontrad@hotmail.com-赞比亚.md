@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,26 +35,27 @@ updated: 2026-10-24
 - **是谁**：赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。（调研 2026-10-21；表内兴趣：Cisco Switch）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 非洲/赞比亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2025-10-05 → 2025-10-05）；最近一次客户回复：2025-10-05：price info
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）；同款群发价（他回的那封「10G Enterprise SFP Switch」）= STC-4168XGGCM $280（2025-09→2026-05，≈ 进价）；信稿按 FX 7.2→6.7 写 $300（1 台样机），并沿用 Elsa 的 FedEx $105；25% 档 $392.4 / PDF 上限 $413 只能在 Simon 另给理由时用；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）；同款群发价（他回的那封「10G Enterprise SFP Switch」）= STC-4168XGGCM $280（2025-09→2026-05，≈ 进价）；信稿按 FX 7.2→6.7 写 $300（1 台样机），并沿用 Elsa 的 FedEx $105；25% 档 $392.4 / PDF 上限 $413 只能在 Simon 另给理由时用；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter）
 - **第一问（只问一个）**：Is the 24-SFP aggregation unit (STC-4168XGGCM, $300 USD EXW for one sample, FedEx $105) for a project of your own, or are you looking for Cisco-compatible parts?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 首封前知悉：Elsa 已 To 直发 2 轮（2025-04-09→2025-05-02）（最近 2025-05-02「Commercial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-973` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-973` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-10-05 dbjcontrad@hotmail.com（赞比亚）长回复：要 24 口 SFP 管理机规格书并追问；S 邮箱 8 封 1 次打开 0 回）；补核（第 73 批）：Elsa 10-05 已回 STC-4168XGGCM 规格书 + 运费 + 交期、10-08 追问，之后无回 → 实为「回过一次后读而不回」** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：一封规格书即可；不追 ｜ 通路：赞比亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：Cisco Switch；回复：price info」；研究档 risks：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-10-05 dbjcontrad@hotmail.com（赞比亚）长回复：要 24 口 SFP 管理机规格书并追问；S 邮箱 8 封 1 次打开 0 回）；补核（第 73 批）：Elsa 10-05 已回 STC-4168XGGCM 规格书 + 运费 + 交期、10-08 追问，之后无回 → 实为「回过一次后读而不回」；Elsa 群发 To 直收 2 轮 2025-04-09→2025-05-02（本户是「CH/KE/TR/IL 散户」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2025-05-02「Commercial PoE Switch」）；这两轮当时无回，但同一地址 2025-10-05 主动来信要 24 口 SFP 规格书（见上）→ Elsa 的触达是有效的（第 74 批核对 msg 19690395a7879eb6）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：一封规格书即可；不追 ｜ 通路：赞比亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：Cisco Switch；回复：price info」；研究档 risks：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To dbjcontrad@hotmail.com）本户见于 2025-05-02 名单；该批次最早 2025-04-09 起共 2 轮，更早轮次 Bcc 未读
 - **现状一句话**：赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。
 - **对方真实需求（有据）**：Cisco / DAC 需求不在 Saga 线。
 - **断点 / 为什么停在这里**：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明
 - **Saga 现在该推什么**：P1 **—**（25% 档，同款群发价（他回的那封「10G Enterprise SFP Switch」）= STC-4168XGGCM $280（2025-09→2026-05，≈ 进价）；信稿按 FX 7.2→6.7 写 $300（1 台样机），并沿用 Elsa 的 FedEx $105；25% 档 $392.4 / PDF 上限 $413 只能在 Simon 另给理由时用；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter））——Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　首封前知悉：Elsa 已 To 直发 2 轮（2025-04-09→2025-05-02）（最近 2025-05-02「Commercial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：Is the 24-SFP aggregation unit (STC-4168XGGCM, $300 USD EXW for one sample, FedEx $105) for a project of your own, or are you looking for Cisco-compatible parts?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-12-30 | 去 | S 群发 | 48 port managed switch、10G media converter | 8 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-30（8 去 / 0 来） | `gmail_digest` |
+| 2025-05-02 | 去 | Elsa 群发（To 直收：本户是「CH/KE/TR/IL 散户」批次的锚，其余客户在 Bcc） | Commercial PoE Switch — This is about our commercial PoE switches for your CCTV security projects. 1, 4/8/16/24 port PoE 2, 120W/240W/300W/400W budget 3, Managed models are a | Elsa 箱群发直达证据（To dbjcontrad@hotmail.com）；该批次 2 轮 2025-04-09→2025-05-02 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信 | `elsa_bcc` |
 | 2025-10-05 | 来 | dbjcontrad（赞比亚） | could you kindly provide us with the datasheet for this switch? Additionally, we would like to inquire… | 要规格书 + 追问；非主攻区，个人邮箱 | `gmail_e` |
 | 2025-10-05 | 去 | Elsa | 1, please see attached datasheet. 2, it is 6Kg/piece, we just sold a piece of sample to a German client. Shipping cost to Zambia is 105usd by FedEx(door-to-door service, 5~7 days to deliver) 3, leadtime is 3~5 working days, we got materials in stock.（附 STC-4168XGGCM.pdf） | Elsa 当天就回了规格书 + 运费 + 交期——型号 = STC-4168XGGCM；之前信稿「attached now, with apologies for the gap」写反了 | `gmail_e 199b4b24a25586f7` |
 | 2025-10-08 | 去 | Elsa | Any feedback about our model and offer? Do you need to order? | 追问一次，之后 Kennedy 无回 → 读而不回 | `gmail_e 199c34fb78d515e2` |
@@ -236,12 +237,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

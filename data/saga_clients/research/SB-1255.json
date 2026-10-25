@@ -65,7 +65,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "罗马尼亚（欧洲全域主攻）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「POE injector 比较杂 啥都有」；研究档 risks：综合平台型网店（品类杂、低粘性）；PoE 注入器需求 Saga 不供（Q-32）；官网 http_error；小国（罗马尼亚）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2026-08-13 名单；2025-02-17 首轮名单无此地址 → 中途加入"
+   "evidence": "gmail_digest：out 0；用户表：「POE injector 比较杂 啥都有」；研究档 risks：综合平台型网店（品类杂、低粘性）；PoE 注入器需求 Saga 不供（Q-32）；官网 http_error；小国（罗马尼亚）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To dipol@skuatechnology.com）本户见于 2025-02-18 名单；同批次（To info@iotkomponenty.sk）本户见于 2026-08-13 名单；2025-02-17 首轮名单无此地址 → 中途加入"
   },
   "situation": "罗马尼亚 Tehnoelectric（tehnoelectric.ro：销售平台型网店，「PoE injector 比较杂 啥都有」；官网 http_error）；表内未跟进。",
   "need": "PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）；PoE 注入器 Saga 不供（Q-32）",
@@ -85,6 +85,14 @@
    "one_question": "For the PoE products you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE switch SKU sells most in your shop? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-02-18",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To dipol@skuatechnology.com，PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合 批次）",
+    "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 office@tehnoelectric.ro, tehnoelectric.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-13",
     "dir": "去",

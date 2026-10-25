@@ -1,106 +1,114 @@
 {
-  "code": "SB-445",
-  "name_official": "Groupe Penda Telecoms（塞内加尔；Hotmail；无域名）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "用户表：Groupe Penda Telecoms（塞内加尔；Seydou Jah；bigbocar@hotmail.com）——2019-03 询盘，千兆 SFP 收发器成样品单，有自己的货代；无后续跟进。无公开资料 → 仅表内信息；SFP 模块不在价格表（Q-32）→ 待核型；可搭 MC/2 光口交换机。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "千兆 SFP 成样品单；自有货代",
-      "quote": "千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Seydou Jah",
-      "role": "（用户表）",
-      "email": "bigbocar@hotmail.com（用户表）",
-      "phone": "—",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "Groupe Penda Telecoms（待核）",
-    "hq": "Senegal（待核）",
-    "size": "待核",
-    "other": "自有货代；Hotmail"
-  },
-  "business_lines": [
-    "电信/网络设备贸易（推测）"
-  ],
-  "channels": {
-    "邮箱": "bigbocar@hotmail.com（用户表）"
-  },
-  "signals": [
-    "SFP 样品已成交 + 自有货代 → 复购门槛低；法语市场"
-  ],
-  "risks": [
-    "SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 25,
-    "why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）"
-  },
-  "email_hook": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；S/A 邮箱 0 封",
-      "type": "—",
-      "sieve": "5（表内成单/样品单）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
-      "lane": "塞内加尔 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；研究档 risks：SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动"
-    },
-    "situation": "用户表：Groupe Penda Telecoms（塞内加尔；Seydou Jah；bigbocar@hotmail.com）——2019-03 询盘，千兆 SFP 收发器成样品单，有自己的货代；无后续跟进。无公开资料 → 仅表内信息；SFP 模块不在价格表（Q-32）→ 待核型；可搭 MC/2 光口交换机。",
-    "need": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）",
-    "breakpoint": "SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动",
-    "saga_now": {
-      "p1": "—",
-      "tier": 25,
-      "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
-      "why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "现在（Simon）",
-      "channel": "WhatsApp（Simon）",
-      "action": "一句话",
-      "one_question": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?"
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-445",
+ "name_official": "Groupe Penda Telecoms（塞内加尔；Hotmail；无域名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "用户表：Groupe Penda Telecoms（塞内加尔；Seydou Jah；bigbocar@hotmail.com）——2019-03 询盘，千兆 SFP 收发器成样品单，有自己的货代；无后续跟进。无公开资料 → 仅表内信息；SFP 模块不在价格表（Q-32）→ 待核型；可搭 MC/2 光口交换机。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "千兆 SFP 成样品单；自有货代",
+   "quote": "千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Seydou Jah",
+   "role": "（用户表）",
+   "email": "bigbocar@hotmail.com（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Groupe Penda Telecoms（待核）",
+  "hq": "Senegal（待核）",
+  "size": "待核",
+  "other": "自有货代；Hotmail"
+ },
+ "business_lines": [
+  "电信/网络设备贸易（推测）"
+ ],
+ "channels": {
+  "邮箱": "bigbocar@hotmail.com（用户表）"
+ },
+ "signals": [
+  "SFP 样品已成交 + 自有货代 → 复购门槛低；法语市场"
+ ],
+ "risks": [
+  "SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）"
+ },
+ "email_hook": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；S/A 邮箱 0 封；Elsa 群发 BCC 已触达 2025-02-18「Mini Industrial PoE Switch」（价格未读），PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合 批次 To dipol@skuatechnology.com，0 回（第 74 批 Bcc 头核对 msg 19518800c3f89634）",
+   "type": "—",
+   "sieve": "5（表内成单/样品单）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
+   "lane": "塞内加尔 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；研究档 risks：SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To dipol@skuatechnology.com）本户见于 2025-02-18 名单"
+  },
+  "situation": "用户表：Groupe Penda Telecoms（塞内加尔；Seydou Jah；bigbocar@hotmail.com）——2019-03 询盘，千兆 SFP 收发器成样品单，有自己的货代；无后续跟进。无公开资料 → 仅表内信息；SFP 模块不在价格表（Q-32）→ 待核型；可搭 MC/2 光口交换机。",
+  "need": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）",
+  "breakpoint": "SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
+   "why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "现在（Simon）",
+   "channel": "WhatsApp（Simon）",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2025-02-18「Mini Industrial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一句话",
+   "one_question": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?"
+  },
+  "facts": [
+   {
+    "date": "2025-02-18",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To dipol@skuatechnology.com，PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合 批次）",
+    "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 bigbocar@hotmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?"
+  },
+  "as_of": "2026-10-25"
+ }
 }

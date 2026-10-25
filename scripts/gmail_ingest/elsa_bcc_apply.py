@@ -187,8 +187,9 @@ def apply_anchor_to(res, meta):
         if v['grade'] not in ('A', 'B'):
             continue
         hits = sorted(v['hits'], key=lambda x: x['date'])
-        to_hits = [h for h in hits if h['to'].split('@')[-1].lower() not in FREEMAIL
-                   and h['to'].split('@')[-1].lower() in {m.split('@')[-1].lower() for m in h['matched']}]
+        to_hits = [h for h in hits if h['to'].lower() in {m.lower() for m in h['matched']}
+                   or (h['to'].split('@')[-1].lower() not in FREEMAIL
+                       and h['to'].split('@')[-1].lower() in {m.split('@')[-1].lower() for m in h['matched']})]
         if not to_hits:
             continue
         p = os.path.join(RES, f'{c}.json')

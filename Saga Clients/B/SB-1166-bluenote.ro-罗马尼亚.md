@@ -24,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -32,25 +32,27 @@ updated: 2026-10-24
 - **是谁**：罗马尼亚 BlueNote Communications（2003 年起 IT 方案：SCADA / IoT / IIoT 集成、电话录音系统、远程抄表、能效监测；SCADA 网店；表内「8K bidi 1 对；2020 年使用国际站」，备注「用的宇航的工业 FS」；KP Petru Pislariu）；表内未跟进。（调研 2026-10-21；表内兴趣：8K bidi  1对 2020年使用国际站）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/罗马尼亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现用宇航（深圳）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）作替代；bidi SFP Saga 不供（Q-32）；首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 现用宇航（深圳）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）作替代；bidi SFP Saga 不供（Q-32）；首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → petru.pislariu@bluenote.ro（Petru Pislariu） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → petru.pislariu@bluenote.ro（Petru Pislariu） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-12「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1166` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1166` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「8K bidi 1对 2020年使用国际站；用的宇航的工业FS」）** ｜ 类型：SCADA/IoT 集成商（罗马尼亚，现用宇航工业 FS） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：罗马尼亚（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「8K bidi 1对 2020年使用国际站；用的宇航的工业FS」；研究档 risks：小国（罗马尼亚，非主动挖掘范围）；2020 年国际站来源，未跟进过，联系人职务待核
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-12「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，非洲/中亚/中东散户-2（锚 2026 起 jango KZ） 批次 To jango.94.94@gmail.com，首见 2025-12-09，0 回（第 74 批 Bcc 头核对 msg 19ff56a1da83b526）；S/A 箱：S/A 邮箱均无往来；来源：用户表「8K bidi 1对 2020年使用国际站；用的宇航的工业FS」）** ｜ 类型：SCADA/IoT 集成商（罗马尼亚，现用宇航工业 FS） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：罗马尼亚（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「8K bidi 1对 2020年使用国际站；用的宇航的工业FS」；研究档 risks：小国（罗马尼亚，非主动挖掘范围）；2020 年国际站来源，未跟进过，联系人职务待核；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sibandaprofp@gmail.com）本户见于 2025-12-09 名单；该批次最早 2025-03-02 起共 9 轮，更早轮次 Bcc 未读；同批次（To jango.94.94@gmail.com）本户见于 2026-08-12 名单；该批次最早 2026-05-12 起共 2 轮，更早轮次 Bcc 未读
 - **现状一句话**：罗马尼亚 BlueNote Communications（2003 年起 IT 方案：SCADA / IoT / IIoT 集成、电话录音系统、远程抄表、能效监测；SCADA 网店；表内「8K bidi 1 对；2020 年使用国际站」，备注「用的宇航的工业 FS」；KP Petru Pislariu）；表内未跟进。
 - **对方真实需求（有据）**：现用宇航（深圳）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）作替代；bidi SFP Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：小国（罗马尼亚，非主动挖掘范围）；2020 年国际站来源，未跟进过，联系人职务待核
 - **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——现用宇航（深圳）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）作替代；bidi SFP Saga 不供（Q-32）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → petru.pislariu@bluenote.ro（Petru Pislariu）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → petru.pislariu@bluenote.ro（Petru Pislariu）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-12「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-12-09 | 去 | Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次） | Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3,  | Elsa 箱群发 BCC 触达证据（命中地址 bluenote.ro, petru.pislariu@bluenote.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-08-12 | 去 | Elsa 群发（BCC；To jango.94.94@gmail.com，非洲/中亚/中东散户-2（锚 2026 起 jango KZ） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 bluenote.ro, petru.pislariu@bluenote.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 8K bidi 1对 2020年使用国际站；用的宇航的工业FS | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
@@ -248,12 +250,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

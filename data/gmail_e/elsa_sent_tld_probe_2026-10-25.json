@@ -245,7 +245,270 @@
    },
    "one_to_one": [],
    "_warn": "token 'it' 噪音大（it@…），未穷尽；意大利以 IT 批次 + 逐户核为准"
+  },
+  ".at": {
+   "query": "in:sent to:.at -to:tssgroup.sk",
+   "complete": true,
+   "n": 0,
+   "anchors": {
+    "sokol@tssgroup.sk": "SK 批次含 n.hoefling@pke.at"
+   },
+   "one_to_one": [],
+   "_note": "奥地利：Elsa 侧只有 SK 批次里的 pke.at；schrack.com（AT 大分销）是另一批次的锚 To（见 .pt 探测）"
+  },
+  ".be": {
+   "query": "in:sent to:.be -to:tssgroup.sk -to:iotkomponenty.sk -to:megamobile.be",
+   "complete": true,
+   "n": 16,
+   "anchors": {
+    "sales@unilinkcommunication.com": "2025-02-15→2026-08-13 共 13 轮（Bcc 含 belram.be）",
+    "dipol@skuatechnology.com": "2025-02-18 一轮（Bcc 含 thelastmile.be）"
+   },
+   "one_to_one": [
+    [
+     "info@alcom.be",
+     "2025-02-18",
+     "195195bc7dffc718"
+    ]
+   ]
+  },
+  ".se": {
+   "query": "in:sent to:.se -to:icecom.is -to:iotkomponenty.sk -to:morion.ru -to:dasys.fi",
+   "complete": true,
+   "n": 12,
+   "anchors": {
+    "j.zaczek@mbs-systems.pl": "PL-2 批次含 .se",
+    "dipol@skuatechnology.com": "2025-02-18（Bcc 含 elfa.se）"
+   },
+   "one_to_one": []
+  },
+  ".fi": {
+   "query": "in:sent to:.fi -to:iotkomponenty.sk -to:dasys.fi -to:megamobile.be",
+   "complete": true,
+   "n": 0,
+   "anchors": {},
+   "one_to_one": []
+  },
+  ".no": {
+   "query": "in:sent to:.no -to:tssgroup.sk -to:iotkomponenty.sk -to:dasys.fi -to:megamobile.be",
+   "complete": true,
+   "n": 0,
+   "anchors": {},
+   "one_to_one": []
+  },
+  ".dk": {
+   "query": "in:sent to:.dk -to:iotkomponenty.sk -to:dasys.fi -to:megamobile.be",
+   "complete": true,
+   "n": 0,
+   "anchors": {},
+   "one_to_one": []
+  },
+  ".ch": {
+   "query": "in:sent to:.ch -to:lightwin.ch -to:fabrimex-systems.ch -to:mpl.ch",
+   "complete": true,
+   "n": 31,
+   "anchors": {
+    "info@dasys.fi": "北欧批次含 .ch",
+    "dbjcontrad@hotmail.com": "2025-04-09、2025-05-02 两轮（Bcc 含 polinnov.ch）",
+    "info@alphatelecom.cc": "2025-02-16（北欧批次早期锚）"
+   },
+   "one_to_one": [
+    [
+     "info@inroi.ch",
+     "2025-02-13",
+     "194fb1a6a3363a49"
+    ],
+    [
+     "info@inroi.ch",
+     "2025-10-08",
+     "199c41f268d5d133"
+    ],
+    [
+     "info@inroi.ch",
+     "2025-12-05",
+     "19aeae0ea8be2fbd"
+    ],
+    [
+     "info@inroi.ch",
+     "2026-01-05",
+     "19b8e99c23a2859f"
+    ],
+    [
+     "info@inroi.ch",
+     "2026-02-17",
+     "19c6c0b37f8a4009"
+    ],
+    [
+     "info@inroi.ch",
+     "2026-03-24",
+     "19d1fb74f15491d6"
+    ],
+    [
+     "info@inroi.ch",
+     "2026-05-06",
+     "19df9cc293495270"
+    ],
+    [
+     "info@inroi.ch",
+     "2026-08-06",
+     "19fd574f653ed282"
+    ],
+    [
+     "info@flexdsl.ch",
+     "2025-05-25",
+     "1970318175c81857"
+    ],
+    [
+     "info@flexdsl.ch",
+     "2025-06-24",
+     "197a2a82d9d75640"
+    ],
+    [
+     "info@flexdsl.ch",
+     "2025-10-08",
+     "199c40cd73053059"
+    ],
+    [
+     "info@flexdsl.ch",
+     "2025-12-05",
+     "19aeace9a1a6bf43"
+    ],
+    [
+     "info@flexdsl.ch",
+     "2026-01-05",
+     "19b8e877362dbb06"
+    ],
+    [
+     "info@flexdsl.ch",
+     "2026-02-17",
+     "19c6bf8e695c3da6"
+    ],
+    [
+     "info@flexdsl.ch",
+     "2026-03-24",
+     "19d1fa4ffb934dc5"
+    ],
+    [
+     "info@flexdsl.ch",
+     "2026-05-06",
+     "19df9b9dbab6073d"
+    ],
+    [
+     "info@flexdsl.ch",
+     "2026-08-06",
+     "19fd771fe6fa8453"
+    ]
+   ],
+   "_note": "indico-support@cern.ch ×2 为会议系统通知，噪音；inroi.ch / flexdsl.ch 是 Elsa 的 1:1 逐月序列（无 Bcc），最近一封 2026-08-06「24 Port PoE Managed Switch」$170"
+  },
+  ".pt": {
+   "query": "in:sent to:.pt -to:iotkomponenty.sk",
+   "complete": true,
+   "n": 29,
+   "anchors": {
+    "info@euromobile.ru": "2025-03-05→2026-08-22 共 13 轮（RU 批次，Bcc 含 .pt？待核）",
+    "export@schrack.com": "AT 大分销 schrack 为锚 To，2025-04-17 起（时间线待拉）",
+    "dipol@skuatechnology.com": "2025-02-18（Bcc 含 office@dipol.pt）"
+   },
+   "one_to_one": [],
+   "_note": "pt-smi.co.id / gunawan@pt-aag.co.id 为印尼 1:1 序列（token 'pt' 噪音）各 ~10 轮"
+  },
+  ".ie": {
+   "query": "in:sent to:.ie -to:skuatechnology.com -to:unilinkcommunication.com",
+   "complete": true,
+   "n": 1,
+   "anchors": {
+    "info@iotkomponenty.sk": "SK-2 批次含 .ie"
+   },
+   "one_to_one": []
+  },
+  ".hu": {
+   "query": "in:sent to:.hu -to:skuatechnology.com -to:tssgroup.sk -to:iotkomponenty.sk",
+   "complete": true,
+   "n": 7,
+   "anchors": {
+    "khmisti39@gmail.com": "2025-02-26→2025-08-21 共 7 轮含 .hu"
+   },
+   "one_to_one": []
+  },
+  ".ro": {
+   "query": "in:sent to:.ro -to:skuatechnology.com -to:unilinkcommunication.com -to:tssgroup.sk -to:iotkomponenty.sk",
+   "complete": true,
+   "n": 22,
+   "anchors": {
+    "info@dasys.fi": "北欧批次含 .ro",
+    "sibandaprofp@gmail.com": "2025-03-02→2025-12-09 共 10 轮（非洲/中亚/中东散户-2，Bcc 含 bluenote.ro）",
+    "jango.94.94@gmail.com": "2026-05-12、2026-08-12（同一批次换锚）",
+    "info@alphatelecom.cc": "2025-02-16"
+   },
+   "one_to_one": [
+    [
+     "office@fiberstore.ro",
+     "2025-02-18",
+     "1951924d9cf007e9"
+    ]
+   ]
+  },
+  ".gr": {
+   "query": "in:sent to:.gr",
+   "complete": true,
+   "n": 15,
+   "anchors": {
+    "shop@idelectro.ru": "RU/UK 元器件批次含 .gr",
+    "paul.such@avigilon.com": "2026-01-21 一轮含 .gr"
+   },
+   "one_to_one": [
+    [
+     "info@telenet.com.gr",
+     "2025-02-18",
+     "195182da64edab0d"
+    ]
+   ]
+  },
+  ".ca": {
+   "query": "in:sent to:.ca -to:avigilon.com -to:ionsecurity.com.au",
+   "complete": true,
+   "n": 13,
+   "anchors": {
+    "orders@premiertek.net": "US/CA-1 批次含 .ca（10 轮）"
+   },
+   "one_to_one": [
+    [
+     "sales@infralinknetworks.ca",
+     "2025-02-27",
+     "19547ebf01024a21"
+    ],
+    [
+     "info@globall.ca, sales@globall.ca",
+     "2025-02-28",
+     "195483e565c421fc"
+    ],
+    [
+     "front.desk@communitech.ca",
+     "2025-02-28",
+     "19548c7ab193a3e8"
+    ]
+   ]
+  },
+  ".nz": {
+   "query": "in:sent to:.nz -to:skuatechnology.com -to:unilinkcommunication.com -to:ionsecurity.com.au -to:avigilon.com",
+   "complete": true,
+   "n": 15,
+   "anchors": {
+    "info@iotkomponenty.sk": "SK-2",
+    "info@andasis.com": "misc 批次含 .nz（14 轮）"
+   },
+   "one_to_one": []
+  },
+  ".lt/.lv/.ee/.si/.hr/.bg/.rs": {
+   "query": "in:sent (to:.lt OR to:.lv OR to:.ee OR to:.si OR to:.hr OR to:.bg OR to:.rs)",
+   "complete": false,
+   "n": "201+",
+   "anchors": {},
+   "one_to_one": [],
+   "_note": "OR 组合 token 噪音过大（rs/si/hr 命中普通词），未穷尽；首页 50 行全是已知锚"
   }
  },
- "fetched_at": "2026-10-25T02:12Z"
+ "fetched_at": "2026-10-25T02:12Z",
+ "_schrack_timeline": "from:e.sagatelecom to:schrack.com 共 14 轮 2025-03-06→2026-08-22"
 }
