@@ -126,7 +126,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Mini Industrial PoE Switch」给 sales@cctv-global.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封",
+      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Mini Industrial PoE Switch」给 sales@cctv-global.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2216GPM/08GE 为 HRUI，不写 Marvell）",
       "one_question": "Iain, next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -157,7 +157,10 @@
       }
     ],
     "proof_gaps": [],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Next to the Ruijie and Hikvision PoE switches you stock - two price bands from small lots",
+      "body": "Hi Iain,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"Industrial PoE Switch\" on 8 September 2026 - none of which needed an answer. This one is specific.\n\nNext to the Ruijie RG-ES106F-P and Hikvision DS-3E11xx units you stock, two price bands at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS/UKCA: budget unmanaged - 4 x Gigabit PoE+ + 2 x Gigabit - model STC-204GP - $24.2 USD; 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1; managed - 8 x Gigabit PoE+ + 2 x SFP, L2+, Marvell-based - STC-28DGGPM - $80.7. Neutral brand.\n\nOne question: which price band do your installers buy most - unmanaged under 30 dollars, or managed?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-25"
   }
 }

@@ -91,7 +91,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
+   "action": "换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
    "one_question": "Scott, alongside the Utepo PoE switches you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units from small lots, CE/RoHS/UKCA, EXW USD — is there a budget managed-PoE position your installer customers ask for? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -113,7 +113,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Alongside the Utepo PoE switches you stock - a budget managed-PoE position",
+   "body": "Hi Scott,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 14 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Utepo PoE switches you stock, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS/UKCA: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5; DIN-rail industrial 8 x PoE+ + 2 x SFP, unmanaged - STI-288GP - $60. PoE accessories stay with your current source - we do not carry them.\n\nOne question: is there a budget managed-PoE position your installer customers ask for that the current range does not fill?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }
