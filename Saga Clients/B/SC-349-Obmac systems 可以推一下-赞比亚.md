@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推；若其 ICT 项目再来，按 2024 清单复购 — 已成交一单大单｜毛利复盘：一单 34.5%，利润 23,118 RMB（机架设备 15 + 2光4工业 PoE 50 + 光模块 200）——全库第二大利润单，C 级只因无复购；按主表
 - **第一问（只问一个）**：Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2027-Q1 LinkedIn / WhatsApp（若有） 首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机
+- **下一步**：2027-Q1 LinkedIn / WhatsApp（若有） 首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机（第 75 批(an) 2026-10-25：一句话稿已写 `draft_en`；成单户一问（LinkedIn/WhatsApp））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -52,7 +52,7 @@ updated: 2026-10-25
 - **Saga 现在该推什么**：P1 **不推；若其 ICT 项目再来，按 2024 清单复购**（25% 档，按主表）——已成交一单大单｜毛利复盘：一单 34.5%，利润 23,118 RMB（机架设备 15 + 2光4工业 PoE 50 + 光模块 200）——全库第二大利润单，C 级只因无复购
   - 复购/在买项：2024-01-17 唯一一单：265 台 $9,350（STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC；Simon 利润 RMB 23,118；PI 复盘 #3——金额最大的单次 C 档客户，Simon 标 gg）
   - 做不了 / 要先核的：2024 设备运行反馈（从未问）
-- **下一步（具体）**：2027-Q1　LinkedIn / WhatsApp（若有）　首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机
+- **下一步（具体）**：2027-Q1　LinkedIn / WhatsApp（若有）　首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机（第 75 批(an) 2026-10-25：一句话稿已写 `draft_en`；成单户一问（LinkedIn/WhatsApp））
   - 第一问（只问一个）：Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -239,7 +239,13 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）（LinkedIn / WhatsApp；2027-Q1）
+
+```text
+Hello, Simon from Saga Telecom (Shenzhen) - the January 2024 shipment to Lusaka: 15 x 48-port 10G switches, 50 x 4-PoE industrial units and the SFPs. Two questions in one: how has that equipment run since, and is there a solar-plant or ICT project in 2027 where industrial switches come up again? No catalogue - just tell me if yes.
+```
+
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -109,7 +109,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "LinkedIn / WhatsApp（若有）",
-   "action": "首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机",
+   "action": "首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机（第 75 批(an) 2026-10-25：一句话稿已写 `draft_en`；成单户一问（LinkedIn/WhatsApp））",
    "one_question": "Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?"
   },
   "facts": [
@@ -158,7 +158,10 @@
   "proof_gaps": [
    "成交前的沟通（2023）不在 A/S 邮箱——应在 WhatsApp"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）（LinkedIn / WhatsApp；2027-Q1）",
+   "body": "Hello, Simon from Saga Telecom (Shenzhen) - the January 2024 shipment to Lusaka: 15 x 48-port 10G switches, 50 x 4-PoE industrial units and the SFPs. Two questions in one: how has that equipment run since, and is there a solar-plant or ICT project in 2027 where industrial switches come up again? No catalogue - just tell me if yes."
+  },
   "as_of": "2026-10-24"
  }
 }
