@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-03-13 → 2025-10-08）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（3/12 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08)、「Booster PoE Switch」(2025-11-13)、「Managed Optical Bypass Switch」(2026-02-09) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
+- **第一问（只问一个）**：Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer an alternative (8-PoE + 2 SFP L2+ and 24-PoE 280 W on a Marvell platform, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → j.drbohlav@schrack.cz 短信一问（email_hook）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复
 - **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch））——Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（3/12 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08)、「Booster PoE Switch」(2025-11-13)、「Managed Optical Bypass Switch」(2026-02-09) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → j.drbohlav@schrack.cz　短信一问（email_hook）
-  - 第一问（只问一个）：Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer an alternative (8-PoE + 2 SFP L2+ and 24-PoE 280 W on a Marvell platform, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@ updated: 2026-10-25
   - 表内：销售平台 工商业 台湾厂商的；KP Jakub Drbohlav；可以尝试多跟进一下
 - **风险/边界**：体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）
-- **邮件切入句（英文）**：Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?
+- **邮件切入句（英文）**：Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer an alternative (8-PoE + 2 SFP L2+ and 24-PoE 280 W on a Marvell platform, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -207,8 +207,8 @@ updated: 2026-10-25
 |---|---|---|---|---|
 | **P1** | STI-280GE | 深挖对位：Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5） | $46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -261,7 +261,7 @@ Hi Jakub,
 
 We have sent you a few mails on "Managed Optical Bypass Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
-For the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?
+For the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer an alternative (8-PoE + 2 SFP L2+ and 24-PoE 280 W on a Marvell platform, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?
 
 Reference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.
 

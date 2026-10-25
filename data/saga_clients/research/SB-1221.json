@@ -92,7 +92,7 @@
     {
       "brand": "PLANET",
       "model": "GSW-4800",
-      "spec": "机架 48×GE 非管理（1 200,00 zł 净价，缺货）→ Saga 48×GE + 4×SFP 管理型 $236.8 USD EXW（管理型对非管理，规格高一级，注明）",
+      "spec": "机架 48×GE 非管理（1 200,00 zł 净价，缺货）→ Saga 48×GE + 4×SFP 管理型 $220.0 USD EXW（管理型对非管理，规格高一级，注明）",
       "saga": "STC-448DGGM",
       "url": "https://multiproject.com.pl",
       "date": "2026-10-19"
@@ -134,7 +134,7 @@
     "saga_now": {
       "p1": "STI-244GP",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STC-448DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
       "why": "其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：",
       "repeat": [],
       "gaps": []

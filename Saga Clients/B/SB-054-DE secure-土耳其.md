@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：土耳其代尼兹利的大型保安集团 Desecure（2008 年起；私人保安服务 LinkedIn 规模 1,001–5,000 人；技术公司 Desecure Technology 约 60 名工程/软件人员，自研太阳能移动安防塔、远程监控中心（AİM），服务风电/光伏/储能、工业设施与港口；总部 Vadistanbul（İstanbul Sarıyer），运营与技术中心 Desecure Plaza Denizli；444 76 49；bilgi@desecuretechnology.com）。ISAF 记录：Serdar Türker——想要工业级 8 口 PoE 交换机（30 W），英文不太好，要含当地 20% 关税的报价；无后续跟进。保安集团体量大，但技术公司自产移动安防设备 = 真实硬件采购方 → 保留 B。（调研 2026-10-21；表内兴趣：想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$137.5）；报价附土耳其关税/KDV 估算；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → serdar.turker@desecure.com.tr（Serdar Türker） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方英文不好、要含 20% 关税的到门价 → 土耳其语整段发；DDP 估算按其回的数量再做；价与研究档一致，15 天有效）
@@ -45,9 +45,9 @@ updated: 2026-10-25
 
 - **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格」；Elsa 箱：`to:desecuretechnology.com OR to:desecure.com.tr` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格」；研究档 risks：集团采购流程；英文沟通弱（用土耳其语）；无后续跟进
 - **现状一句话**：土耳其代尼兹利的大型保安集团 Desecure（2008 年起；私人保安服务 LinkedIn 规模 1,001–5,000 人；技术公司 Desecure Technology 约 60 名工程/软件人员，自研太阳能移动安防塔、远程监控中心（AİM），服务风电/光伏/储能、工业设施与港口；总部 Vadistanbul（İstanbul Sarıyer），运营与技术中心 Desecure Plaza Denizli；444 76 49；bilgi@desecuretechnology.com）。ISAF 记录：Serdar Türker——想要工业级 8 口 PoE 交换机（30 W），英文不太好，要含当地 20% 关税的报价；无后续跟进。保安集团体量大，但技术公司自产移动安防设备 = 真实硬件采购方 → 保留 B。
-- **对方真实需求（有据）**：项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算
+- **对方真实需求（有据）**：项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$137.5）；报价附土耳其关税/KDV 估算
 - **断点 / 为什么停在这里**：集团采购流程；英文沟通弱（用土耳其语）；无后续跟进
-- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$137.5）；报价附土耳其关税/KDV 估算
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → serdar.turker@desecure.com.tr（Serdar Türker）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方英文不好、要含 20% 关税的到门价 → 土耳其语整段发；DDP 估算按其回的数量再做；价与研究档一致，15 天有效）
   - 第一问（只问一个）：Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?
 
@@ -106,7 +106,7 @@ updated: 2026-10-25
   - 太阳能移动安防塔 = DC 供电、宽温、8 口 PoE 30 W 工业交换机的标准场景 → 持续性采购（每塔一台）
   - 要求含 20% 关税的报价 → 需给 DDP/到岸估算
 - **风险/边界**：集团采购流程；英文沟通弱（用土耳其语）；无后续跟进
-- **Saga 对位结论**：P1 STI-288GP（25% 档）——项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算
+- **Saga 对位结论**：P1 STI-288GP（25% 档）——项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$137.5）；报价附土耳其关税/KDV 估算
 - **邮件切入句（英文）**：Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -175,10 +175,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 深挖对位：项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算 | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| **P1** | STI-288GP | 深挖对位：项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$137.5）；报价附土耳其关税/KDV 估算 | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 

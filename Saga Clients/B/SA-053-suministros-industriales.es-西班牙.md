@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **是谁**：巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。（调研 2026-10-21；表内兴趣：价格 网站比较抽象）
 - **为什么是 B 级**：**调研后定级 B**（品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。）；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 18 次（2023-12-15 → 2025-11-29）；最近一次客户回复：2023-12-15：问问价近期会不会变化
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）。已打开的主题（1/17 封有打开记录）：「Industrial Network Switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续；锚价：STI-050GE $24.0（LT-IS3005G-5GT 12–58 V 宽压版 @20%，与钩子句一致；主表另有 -M 版 12–36 V $17.0，第 74 批(r) 2026-10-25）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-08-27 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$121.0）。已打开的主题（1/17 封有打开记录）：「Industrial Network Switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续；锚价：STI-050GE $24.0（LT-IS3005G-5GT 12–58 V 宽压版 @20%，与钩子句一致；主表另有 -M 版 12–36 V $17.0，第 74 批(r) 2026-10-25）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-08-27 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -47,9 +47,9 @@ updated: 2026-10-25
 
 - **绑定等级：未触达（S 邮箱 17 封 2024→2026，1 次记录打开，0 回；收件 info@suministros-industriales.es；主题多为「Industrial Network Switch、Power Converter」；Elsa 箱：`to:.es` 穷举 15 条（2026-10-25，锚批 Bcc 头已读）未见 suministros-industriales.es → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(f)））** ｜ 类型：工业 MRO 供应商（非网络渠道） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；研究档 risks：无网络品类经验；1 次回复后 18 次无果
 - **现状一句话**：巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。
-- **对方真实需求（有据）**：工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）
+- **对方真实需求（有据）**：工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$121.0）
 - **断点 / 为什么停在这里**：无网络品类经验；1 次回复后 18 次无果
-- **Saga 现在该推什么**：P1 **STI-050GE**（20% 档，锚价：STI-050GE $24.0（LT-IS3005G-5GT 12–58 V 宽压版 @20%，与钩子句一致；主表另有 -M 版 12–36 V $17.0，第 74 批(r) 2026-10-25）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-08-27 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch））——工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）。已打开的主题（1/17 封有打开记录）：「Industrial Network Switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-050GE**（20% 档，锚价：STI-050GE $24.0（LT-IS3005G-5GT 12–58 V 宽压版 @20%，与钩子句一致；主表另有 -M 版 12–36 V $17.0，第 74 批(r) 2026-10-25）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-08-27 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$121.0）。已打开的主题（1/17 封有打开记录）：「Industrial Network Switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?
 
@@ -100,7 +100,7 @@ updated: 2026-10-25
 - **近况信号**：
   - 卖机柜与电柜配件 → 可补 DIN 导轨工业交换机作柜内配套 SKU；对方关注价格
 - **风险/边界**：无网络品类经验；1 次回复后 18 次无果
-- **Saga 对位结论**：P1 STI-050GE（20% 档）——工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）
+- **Saga 对位结论**：P1 STI-050GE（20% 档）——工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$121.0）
 - **邮件切入句（英文）**：Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -213,10 +213,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-050GE | 深挖对位：工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6） | $17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（工业 MRO 供应商（非网络渠道）） |
+| **P1** | STI-050GE | 深挖对位：工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$121.0） | $17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（工业 MRO 供应商（非网络渠道）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 

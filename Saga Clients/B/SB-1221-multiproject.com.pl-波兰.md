@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：格但斯克安防 / 电子批发商，PLANET 工业 PoE IGS-624HPT 带价在售但缺货，商品页公开两位具名联系人。类型：格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）。信号：multiproject.com.pl：IGS-624HPT 商品页 1 661,12 zł brutto / 1 350,50 zł netto「Chwilowo niedostępny」（完整波兰文 PLANET 描述，2026-10-20 fetch）；GSD-1002M 479,92 zł brutto / 390,18 zł netto（Numer katalogowy 17809）；GSW-4800 1 476,00 zł brutto / 1 200,00 zł netto「Chwilowo niedostępny」。Planet 渠道档案 PB-097 评级 B（需求：PLANET 工业 PoE IGS-624HPT 独立商品页带净价 / 含税价 + GSD-1002M / GSW-4800 → 有 PLANET 在售线，但三款中两款「Chwilowo niedostępny」且站点为含汽车 / 家用的全品类批发目录 → 需求真实性中等；触达：商品页侧栏具名 Damian Lis（+48 535 840 740，damian.lis@）/ Sławomir Janusch（slawek.janusch@）+ biuro@ 公开 → 具名邮箱可用且未被群发触达；体量：PHU（个体经营）区域批发 → 可赢但小。按 net-s.pl 口径全品类目录型本不建档，因具名 KP 邮箱公开而例外建 B ★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1221，波兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：工业FS VC MC 很多其他的牌子 Moxa的工业FS VC和MC没写牌子）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-244GP — 其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-244GP — 其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STC-448DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：格但斯克安防 / 电子批发商，PLANET 工业 PoE IGS-624HPT 带价在售但缺货，商品页公开两位具名联系人。类型：格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）。信号：multiproject.com.pl：IGS-624HPT 商品页 1 661,12 zł brutto / 1 350,50 zł netto「Chwilowo niedostępny」（完整波兰文 PLANET 描述，2026-10-20 fetch）；GSD-1002M 479,92 zł brutto / 390,18 z
 - **对方真实需求（有据）**：其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：
 - **断点 / 为什么停在这里**：PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档
-- **Saga 现在该推什么**：P1 **STI-244GP**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：
+- **Saga 现在该推什么**：P1 **STI-244GP**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STC-448DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -107,7 +107,7 @@ updated: 2026-10-25
 |---|---|---|---|---|
 | PLANET | IGS-624HPT | 工业 4×GE PoE+ + 2×SFP 非管理 DIN（1 350,50 zł 净价，缺货）→ Saga 同口型 $35.2 USD EXW | STI-244GP | https://multiproject.com.pl（2026-10-19） |
 | PLANET | GSD-1002M | 桌面 8×GE + 2×SFP 管理型（390,18 zł 净价）→ Saga 8×GE PoE + 2×SFP 管理型 $80.7 USD EXW（非 PoE 款 STC-28DGGM 暂停，沿用 PoE 款，注明） | STC-28DGGPM | https://multiproject.com.pl（2026-10-19） |
-| PLANET | GSW-4800 | 机架 48×GE 非管理（1 200,00 zł 净价，缺货）→ Saga 48×GE + 4×SFP 管理型 $236.8 USD EXW（管理型对非管理，规格高一级，注明） | STC-448DGGM | https://multiproject.com.pl（2026-10-19） |
+| PLANET | GSW-4800 | 机架 48×GE 非管理（1 200,00 zł 净价，缺货）→ Saga 48×GE + 4×SFP 管理型 $220.0 USD EXW（管理型对非管理，规格高一级，注明） | STC-448DGGM | https://multiproject.com.pl（2026-10-19） |
 
 - **触达通道（公开）**：role: 格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）；region: 波兰
 - **近况信号**：
@@ -187,8 +187,8 @@ updated: 2026-10-25
 |---|---|---|---|---|
 | **P1** | STI-244GP | 深挖对位：其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求： | $35.2 USD EXW（20% 档，SmartByte LT-IS3006GP-2GX4GT 196 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 

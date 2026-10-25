@@ -36,8 +36,8 @@ updated: 2026-10-25
 - **是谁**：西班牙智能家居与网络设备电商（多品牌，含 Witek 工业 FS），8 次跟进 0 回复；用户 AI 评估：早期 40% B，后期 8% C（重心为家居自动化零售）。（调研 2026-10-21；表内兴趣：很多牌子的；工业FS Witek的）
 - **为什么是 B 级**：**调研后定级 B**（0 回复 / 8 次推送，重心为消费级智能家居零售（Saga 不做消费），交换机仅附带 → 慢跟；西班牙在欧洲区故不降 C。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 8 次（2025-01-30 → 2025-11-06）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM — 电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W。已打开的主题（1/18 封有打开记录）：「Managed PoE Switches」(2026-09-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM — 电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W。已打开的主题（1/18 封有打开记录）：「Managed PoE Switches」(2026-09-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $137.5 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -49,9 +49,9 @@ updated: 2026-10-25
 - **现状一句话**：西班牙智能家居与网络设备电商（多品牌，含 Witek 工业 FS），8 次跟进 0 回复；用户 AI 评估：早期 40% B，后期 8% C（重心为家居自动化零售）。
 - **对方真实需求（有据）**：电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W
 - **断点 / 为什么停在这里**：网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch））——电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W。已打开的主题（1/18 封有打开记录）：「Managed PoE Switches」(2026-09-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W。已打开的主题（1/18 封有打开记录）：「Managed PoE Switches」(2026-09-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?
+  - 第一问（只问一个）：Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $137.5 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@ updated: 2026-10-25
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
-| Stonet | NIS3010GP-WMC | 8×GE PoE af/at 管理 + 2 SFP，DIN，宽温，IP40/EMC4，€188.76 | STI-288DGGPM（$139.9 @20% ≈ €—，直接替代） | https://www.domoticalia.es/en/170-industrial-switches（2026-10-21） |
+| Stonet | NIS3010GP-WMC | 8×GE PoE af/at 管理 + 2 SFP，DIN，宽温，IP40/EMC4，€188.76 | STI-288DGGPM（$137.5 @20% ≈ €—，直接替代） | https://www.domoticalia.es/en/170-industrial-switches（2026-10-21） |
 | Stonet | NIS3006GP-WMC | 4 PoE + 2 SFP L2 管理工业 DIN，€158.27 | STI-144GP（非管理，价位远低） | https://www.domoticalia.es/en/170-industrial-switches（2026-10-21） |
 | EnGenius | ECS1528P / ECS1528FP / ECS1552FP | 24 PoE+ 240W / 410W + 4×10G SFP+；48 口 740W €1,231.18；云管理 | STC-424XGGPM-280W（本地管理，无云） | https://www.domoticalia.es/en/poe-switches/1385-engenius-ecs1552fp-switch-poe-48-ports-and-740-w-with-cloud-management-4713361935008.html（2026-10-21） |
 
@@ -120,7 +120,7 @@ updated: 2026-10-25
   - 已成交（用户表）；工业 DIN 类目目前由 Stonet 独占 6 款 → Saga STI-288DGGPM 可作同类目第二品牌，零售价有 €40–50 空间
 - **风险/边界**：网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W
-- **邮件切入句（英文）**：Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?
+- **邮件切入句（英文）**：Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $137.5 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -223,9 +223,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商零售（智能家居为主）） |
+| **P1** | STI-288DGGPM | 深挖对位：电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商零售（智能家居为主）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -276,9 +276,9 @@ updated: 2026-10-25
 ```text
 Hi Rafael,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $137.5 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Stonet NIS3010GP-WMC at a lower landed cost, and we can ship it with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Stonet NIS3010GP-WMC at a lower landed cost, and we can ship it with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

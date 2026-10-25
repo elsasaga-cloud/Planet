@@ -86,7 +86,7 @@
  "saga_fit": {
   "p1": "STC-424DGGPM-280W",
   "tier": 20,
-  "why": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）"
+  "why": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$180）"
  },
  "email_hook": "Elliot, alongside the PLANET and BDCOM switches you stock, we supply neutral-brand Marvell-based 24-PoE + 4 SFP L2+ (280 W) and 24-PoE + 4×10G models from small lots, FCC/CE/RoHS, EXW USD — is there a 24-port price band your security dealers ask for below the branded lines?",
  "mail_review": {
@@ -101,13 +101,13 @@
    "evidence": "gmail_digest：out 13；用户表：「大口FS；大口FS BDCOM」；研究档 risks：PLANET 为其合作品牌（白牌为预算补位）；BDCOM 价格基准低"
   },
   "situation": "加拿大 Provo Ltd.（1958 年起北美电子线缆、CCTV、音视频与配件供应商，服务安防/自动化/对讲/电信行业；合作品牌含 PLANET；表内「大口 FS；BDCOM」；KP Elliot Greenberg（VP of Operations）、Sy Greenberg（Procurement and Operations））；表内 1 次跟进无回复。",
-  "need": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）",
+  "need": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$180）",
   "breakpoint": "PLANET 为其合作品牌（白牌为预算补位）；BDCOM 价格基准低",
   "saga_now": {
    "p1": "STC-424DGGPM-280W",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）",
-   "why": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+   "why": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$180）",
    "repeat": [],
    "gaps": []
   },

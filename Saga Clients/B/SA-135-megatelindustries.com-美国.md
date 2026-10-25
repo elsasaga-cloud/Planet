@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **是谁**：美国工业以太网产品网店/品牌商：自有 logo 的 IFS/IGS/IMC/ITP/IPSW/FMC 系列（工业管理型 PoE 交换机、工业介质转换器、IP40 非管理交换机），用户记录其大多为 CTCU（CTC Union）贴牌、亦有 ONV 设备；标价高（8 口千兆管理 PoE 标 $1,800 售 $699；6 口非管理 PoE 售 $145）；S 重点名单，22 次推送 0 回复。（调研 2026-10-21；表内兴趣：有自己的logo 大多数还是CTCU的  工业FS MC POE SFP）
 - **为什么是 B 级**：**人工定级 B**（T27 用户原话「这个客户不用咋管 慢慢来」→ B 慢慢跟进；22 封 0 回复的 S 重点 OEM 买家，不再主动投入，对方有动静再升）；自动分级 A：+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）；+5 跟进表最近平台标记 S
 - **历史互动**：推送 22 次（2024-01-03 → 2025-11-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW） — 一次对位表。已打开的主题（1/24 封有打开记录）：「Re: 10G Media Converter」(2024-11-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；他见过的实价：10G MC STC-110XGE $65（2024-11-26 群发原文）；阶梯 $75 / $70@100 / $65@500（NYNEX 同期报价单）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 IGS-803SM（研究档 $137.5 EXW） — 一次对位表。已打开的主题（1/24 封有打开记录）：「Re: 10G Media Converter」(2024-11-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；他见过的实价：10G MC STC-110XGE $65（2024-11-26 群发原文）；阶梯 $75 / $70@100 / $65@500（NYNEX 同期报价单）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 S 邮箱 → zack@ 对位表 + 一句话
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **现状一句话**：Zack 要 10G MC 规格书，Simon 给了。此后无回。
 - **对方真实需求（有据）**：MC / 工业 PoE 全品类贴牌。
 - **断点 / 为什么停在这里**：触达层：VP 回了一次，之后群发无效。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW）**（30% 档，换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；他见过的实价：10G MC STC-110XGE $65（2024-11-26 群发原文）；阶梯 $75 / $70@100 / $65@500（NYNEX 同期报价单）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter））——一次对位表。已打开的主题（1/24 封有打开记录）：「Re: 10G Media Converter」(2024-11-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 IGS-803SM（研究档 $137.5 EXW）**（30% 档，换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；他见过的实价：10G MC STC-110XGE $65（2024-11-26 群发原文）；阶梯 $75 / $70@100 / $65@500（NYNEX 同期报价单）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——一次对位表。已打开的主题（1/24 封有打开记录）：「Re: 10G Media Converter」(2024-11-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1　S 邮箱 → zack@　对位表 + 一句话
   - 第一问（只问一个）：Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 
@@ -90,7 +90,7 @@ updated: 2026-10-25
   > IMC-1000MS-PHE12, Managed Gigabit PoE Ethernet Converter… Sale Price: $345.00
   > 来源：https://www.megatelindustries.com/imc1000100012.html（抓取 2026-10-21）
 - **KP**：Zack Yu（来信署名人（职务未在邮件署名里出现））zack@megatelindustries.com 〔S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补）〕
-- 备注：画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $151.6 EXW（OEM 30%）'一句话价差。若再无回应则降 B。
+- 备注：画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $137.5 EXW（OEM 30%）'一句话价差。若再无回应则降 B。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先））
 
@@ -104,7 +104,7 @@ updated: 2026-10-25
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
-| Megatel | IGS-803SM-8PH24 | 工业 8 GE PoE 管理 + 3 SFP，售 $699 | STI-288DGGPM（8 PoE+ 2 SFP 管理，$151.6 @30） | https://www.megatelindustries.com/ge-managed-poe-ethernet-switch.html（首轮调研） |
+| Megatel | IGS-803SM-8PH24 | 工业 8 GE PoE 管理 + 3 SFP，售 $699 | STI-288DGGPM（8 PoE+ 2 SFP 管理，$137.5 @30） | https://www.megatelindustries.com/ge-managed-poe-ethernet-switch.html（首轮调研） |
 | Megatel | IPSW-G04-1GE1SFP | 6 口工业非管理 PoE，售 $145 | STI-154GP（4 PoE + 1 SFP + 1 GE，$40.8 @30） | https://www.megatelindustries.com/ipinun6gipoe.html（首轮调研） |
 | Megatel | IMC-1000MS-PHE12 | 管理型千兆 PoE 介质转换器，售 $345 | STI-111GP（$30.1 @30） | https://www.megatelindustries.com/imc1000100012.html（首轮调研） |
 
@@ -112,7 +112,7 @@ updated: 2026-10-25
 - **近况信号**：
   - 售价/成本比 4–5 倍 → 换源动机强；型号命名与 CTC Union 一致 → 对比表可直接给出
 - **风险/边界**：用户定级 B 低优先；22 次推送 0 回复；现有贴牌来源稳定
-- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（$137.5）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12
 - **邮件切入句（英文）**：Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -228,9 +228,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/网店（OEM 采购）） |
+| **P1** | STI-288DGGPM | 深挖对位：OEM 30% 档：STI-288DGGPM（$137.5）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12 | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/网店（OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 

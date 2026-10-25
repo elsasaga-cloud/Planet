@@ -60,7 +60,7 @@
  "saga_fit": {
   "p1": "STC-424XGGM",
   "tier": 30,
-  "why": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$363.4）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代"
+  "why": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代"
  },
  "email_hook": "For the high-port-count and bypass switch positions you source, we can supply Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches plus an industrial 8-GE + 4-SFP model with hardware bypass, in your packaging from small lots, CE/RoHS; KC by your side — which configuration should I quote first?",
  "mail_review": {
@@ -75,13 +75,13 @@
    "evidence": "gmail_digest：out 35；用户表：「bypass 大口FS」；研究档 risks：业务范围待核（快照仅标题）；bypass 款不在 Saga 列表（以 SmartByte 替代，注明）；非主攻区（T5，韩国）；23 次无回复，仅 suppor"
   },
   "situation": "韩国 Nemon（nemon.co.kr；表内「bypass 大口 FS」「质量高」；官网快照仅标题，业务范围待核；仅 support@）；群发 23 次无回复。",
-  "need": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$363.4）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代",
+  "need": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代",
   "breakpoint": "业务范围待核（快照仅标题）；bypass 款不在 Saga 列表（以 SmartByte 替代，注明）；非主攻区（T5，韩国）；23 次无回复，仅 support@",
   "saga_now": {
    "p1": "STC-424XGGM",
    "tier": 30,
-   "price": "换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
-   "why": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$363.4）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代",
+   "price": "换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+   "why": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代",
    "repeat": [],
    "gaps": []
   },

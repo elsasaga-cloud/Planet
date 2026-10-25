@@ -207,10 +207,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448XGGPM | 深挖对位：表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核） | $335.4 USD EXW（20% 档，SmartByte LT-S8352XGP-4XS48GT 1870 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（网络设备电商/经销 + 安装（多品牌）） |
+| **P1** | STC-448XGGPM | 深挖对位：表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核） | $335 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $335.4——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（网络设备电商/经销 + 安装（多品牌）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -263,7 +263,7 @@ Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Reyee and Omada PoE units you list, we supply Marvell-based 48-port PoE+ L2+ switches with 4×10G SFP+ uplinks and the 24-port version from small lots (neutral packing, CE/RoHS/FCC) — for your high-port-count demand, is PoE or non-PoE 48-port the bigger mover?
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (440 W) - model STC-448XGGPM - that fits the same slot as your Ruijie/Reyee RG-ES210GS-P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $335.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (440 W) - model STC-448XGGPM - that fits the same slot as your Ruijie/Reyee RG-ES210GS-P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $335 USD EXW (MOQ 1, 15-day validity).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

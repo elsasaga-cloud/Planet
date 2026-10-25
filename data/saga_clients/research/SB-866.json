@@ -63,7 +63,7 @@
   "saga_fit": {
     "p1": "STC-424XGGM",
     "tier": 25,
-    "why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）"
+    "why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$335）、24 口 PoE STC-424DGGPM-280W（$140.1）"
   },
   "email_hook": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?",
   "mail_review": {
@@ -78,13 +78,13 @@
       "evidence": "gmail_digest：out 13，Opened 标签 3（Simon 群发追踪）；用户表：「大口FS；大口FS BDCOM；switch」；研究档 risks：非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
     },
     "situation": "约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。",
-    "need": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）",
+    "need": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$335）、24 口 PoE STC-424DGGPM-280W（$140.1）",
     "breakpoint": "非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触",
     "saga_now": {
       "p1": "STC-424XGGM",
       "tier": 25,
-      "price": "首触锚价 STC-424XGGM $132.7 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-31 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+      "price": "首触锚价 STC-424XGGM $132.7 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-31 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+      "why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$335）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
     },

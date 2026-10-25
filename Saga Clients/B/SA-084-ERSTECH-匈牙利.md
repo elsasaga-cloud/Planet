@@ -36,8 +36,8 @@ updated: 2026-10-25
 - **是谁**：匈牙利小型安防/电气安装商（2003 年，主业电气安装 TEÁOR 4321；摄像/报警/空调系统维护），2025 年营收仅 2,798 万福林（≈7 万欧元）；ISAF 2025 到访，MD Janos Hogye 对升压 5 口与 2 光 10 电机型有兴趣，之后 6 次推送 0 回复。（调研 2026-10-21；表内兴趣：对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3）
 - **为什么是 B 级**：**调研后定级 B**（微型安装商（年营收 ≈7 万欧元）、展后 6 次推送 0 回复；匈牙利非主攻区。需求真实（升压 5 口/2 光 10 电）但体量只够零星小单 → 慢跟。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/匈牙利；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $130.8 — for your camera jobs, do you need the 8-port version with PoE or without?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$121.0）。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $121.0 — for your camera jobs, do you need the 8-port version with PoE or without?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -47,11 +47,11 @@ updated: 2026-10-25
 
 - **绑定等级：未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 jhogye@erstech.hu；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:.hu` 穷举 7 条（2026-10-25，锚批 Bcc 头已读）未见 erstech.hu → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））** ｜ 类型：安装商/小型集成商 ｜ 筛子：1~2（1 次打开） ｜ 停点：16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：匈牙利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3」；研究档 risks：微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓
 - **现状一句话**：匈牙利小型安防/电气安装商（2003 年，主业电气安装 TEÁOR 4321；摄像/报警/空调系统维护），2025 年营收仅 2,798 万福林（≈7 万欧元）；ISAF 2025 到访，MD Janos Hogye 对升压 5 口与 2 光 10 电机型有兴趣，之后 6 次推送 0 回复。
-- **对方真实需求（有据）**：安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）
+- **对方真实需求（有据）**：安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$121.0）
 - **断点 / 为什么停在这里**：微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓
-- **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch））——安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$121.0）。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $130.8 — for your camera jobs, do you need the 8-port version with PoE or without?
+  - 第一问（只问一个）：Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $121.0 — for your camera jobs, do you need the 8-port version with PoE or without?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -119,8 +119,8 @@ updated: 2026-10-25
 - **近况信号**：
   - 对「升压 5 口」与 2 光 10 电管理型有兴趣、问 L2/L3 → 小型安装商的典型小量采购
 - **风险/边界**：微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓
-- **Saga 对位结论**：P1 STI-144GP（25% 档）——安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）
-- **邮件切入句（英文）**：Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $130.8 — for your camera jobs, do you need the 8-port version with PoE or without?
+- **Saga 对位结论**：P1 STI-144GP（25% 档）——安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$121.0）
+- **邮件切入句（英文）**：Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $121.0 — for your camera jobs, do you need the 8-port version with PoE or without?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -209,10 +209,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 深挖对位：安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8） | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安装商/小型集成商） |
+| **P1** | STI-144GP | 深挖对位：安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$121.0） | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安装商/小型集成商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -264,7 +264,7 @@ updated: 2026-10-25
 ```text
 Hi Janos,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. On the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $130.8 — for your camera jobs, do you need the 8-port version with PoE or without?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. On the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $121.0 — for your camera jobs, do you need the 8-port version with PoE or without?
 
 We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

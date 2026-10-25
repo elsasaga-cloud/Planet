@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：捷克最大电气安装材料与灯具批发商之一（总部 Brno Kšírova 701；约 700 名员工、集团年营业额约 55 亿 CZK；32–33 家分店；1,500+ 供应商、20,000+ 客户；业务含工具租赁、光伏、充电桩、智慧城市系统；股东 MV elektro）。展会记录：联系人懂交换机、详细介绍 2 光 10 电后只说 OK，拍了 WDM 照片、拿了目录；邮箱 vladimir.novak@elkov.cz + nabidky.brno（报价部）；WhatsApp 加不上；16 次跟进 0 回复。规模远超 Saga 常规目标（临界），作「慢跟」B 保留——以自有品牌/白牌安装类 SKU 切入。（调研 2026-10-21；表内兴趣：对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-10 → 2025-10-09）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-050GE — 批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$125.6）供光伏/智慧城市柜。已打开的主题（2/17 封有打开记录）：「24 Port Fiber Switch」(2025-03-17)、「Industrial PoE Switch」(2025-07-30) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-11 $65（10G Media Converter）、2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-17 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-050GE — 批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜。已打开的主题（2/17 封有打开记录）：「24 Port Fiber Switch」(2025-03-17)、「Industrial PoE Switch」(2025-07-30) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-11 $65（10G Media Converter）、2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-17 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → nabidky.brno@elkov.cz 首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 vladimir.novak@elkov.cz（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）
@@ -46,9 +46,9 @@ updated: 2026-10-25
 
 - **绑定等级：读而不回（A/S 邮箱 17 封 2024→2026，其中 2 封被打开，0 回；收件 nabidky.brno@elkov.cz, vladimir.novak@elkov.cz；被打开主题「Managed Optical Bypass Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-10「16 Port Ethernet Switch」；To 仅本户 vladimir.novak@elkov.cz；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:vladimir.novak@elkov.cz` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；用户表：「对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog」；研究档 risks：规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
 - **现状一句话**：捷克最大电气安装材料与灯具批发商之一（总部 Brno Kšírova 701；约 700 名员工、集团年营业额约 55 亿 CZK；32–33 家分店；1,500+ 供应商、20,000+ 客户；业务含工具租赁、光伏、充电桩、智慧城市系统；股东 MV elektro）。展会记录：联系人懂交换机、详细介绍 2 光 10 电后只说 OK，拍了 WDM 照片、拿了目录；邮箱 vladimir.novak@elkov.cz + nabidky.brno（报价部）；WhatsApp 加不上；16 次跟进 0 回复。规模远超 Saga 常规目标（临界），作「慢跟」B 保留——以自有品牌/白牌安装类 SKU 切入。
-- **对方真实需求（有据）**：批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$125.6）供光伏/智慧城市柜
+- **对方真实需求（有据）**：批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜
 - **断点 / 为什么停在这里**：规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上
-- **Saga 现在该推什么**：P1 **STI-050GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-11 $65（10G Media Converter）、2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-17 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch））——批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$125.6）供光伏/智慧城市柜。已打开的主题（2/17 封有打开记录）：「24 Port Fiber Switch」(2025-03-17)、「Industrial PoE Switch」(2025-07-30) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-050GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-11 $65（10G Media Converter）、2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-17 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜。已打开的主题（2/17 封有打开记录）：「24 Port Fiber Switch」(2025-03-17)、「Industrial PoE Switch」(2025-07-30) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → nabidky.brno@elkov.cz　首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 vladimir.novak@elkov.cz（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）
   - 第一问（只问一个）：For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?
 
@@ -105,7 +105,7 @@ updated: 2026-10-25
   - 电气批发渠道正在吸纳弱电/网络品类（智慧城市、光伏监控）→ DIN 导轨工业交换机与 PoE 可作白牌 SKU
   - 报价部邮箱（nabidky.brno）为公开采购入口
 - **风险/边界**：规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上
-- **Saga 对位结论**：P1 STI-050GE（20% 档）——批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$125.6）供光伏/智慧城市柜
+- **Saga 对位结论**：P1 STI-050GE（20% 档）——批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜
 - **邮件切入句（英文）**：For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -214,10 +214,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-050GE | 深挖对位：批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$125.6）供光伏/智慧城市柜 | $17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-050GE | 深挖对位：批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜 | $17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 

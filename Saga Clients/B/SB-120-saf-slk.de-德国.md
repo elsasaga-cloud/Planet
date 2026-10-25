@@ -35,8 +35,8 @@ updated: 2026-10-25
 - **是谁**：德国萨克森-安哈尔特州的开关柜/配电柜制造商（HRB 19446 Stendal；USt-ID DE289406638；24 人、营收 ≤€10M 口径；总经理 Marco Bohne）：低压/中压开关柜定制、能源管理、故障/熔断/差流/温度监控、PV 直流汇流与消防急停、公用事业户外配电柜、住宅配电；另做网络分析、电池与保护继电器测试。柜内能源管理与监控需要 DIN 导轨工业以太网交换机——与 STI 系列直接相关。用户表：WhatsApp 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：IM-FP888GW）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-03-25 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280DGGM — 终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）、2026-04-30 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $130.8 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280DGGM — 终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）、2026-04-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $121.0 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,9 +48,9 @@ updated: 2026-10-25
 - **现状一句话**：德国萨克森-安哈尔特州的开关柜/配电柜制造商（HRB 19446 Stendal；USt-ID DE289406638；24 人、营收 ≤€10M 口径；总经理 Marco Bohne）：低压/中压开关柜定制、能源管理、故障/熔断/差流/温度监控、PV 直流汇流与消防急停、公用事业户外配电柜、住宅配电；另做网络分析、电池与保护继电器测试。柜内能源管理与监控需要 DIN 导轨工业以太网交换机——与 STI 系列直接相关。用户表：WhatsApp 已加，7 次跟进 0 回复。
 - **对方真实需求（有据）**：终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM
 - **断点 / 为什么停在这里**：德国柜体厂对 EN/IEC 认证与 24 V DC 供电有要求（Saga STI 12–58 V DC 覆盖）；7 次跟进 0 回复
-- **Saga 现在该推什么**：P1 **STI-280DGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）、2026-04-30 $280（10G Enterprise SFP Switch））——终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM
+- **Saga 现在该推什么**：P1 **STI-280DGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）、2026-04-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $130.8 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
+  - 第一问（只问一个）：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $121.0 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@ updated: 2026-10-25
   - 柜内能源管理/监控网络 → 每柜 1 台 DIN 导轨管理交换机（非 PoE 为主，部分摄像/传感器 PoE）；采购口径人（Kalkulation）公开——可直接对接
 - **风险/边界**：德国柜体厂对 EN/IEC 认证与 24 V DC 供电有要求（Saga STI 12–58 V DC 覆盖）；7 次跟进 0 回复
 - **Saga 对位结论**：P1 STI-280DGGM（25% 档）——终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM
-- **邮件切入句（英文）**：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $130.8 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
+- **邮件切入句（英文）**：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $121.0 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -222,10 +222,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-280DGGM | 深挖对位：终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM | $130.8 USD EXW（25% 档，SmartByte LT-IS6310G-2GX8GT 700 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| **P1** | STI-280DGGM | 深挖对位：终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM | $121.0 USD EXW（㉕ 封顶：25% 档 $130.8 高于 2026-06 Saga 列表价 $121.0，按列表价；SmartByte LT-IS6310G-2GX8GT 700 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -276,9 +276,9 @@ updated: 2026-10-25
 ```text
 Hi Marco,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $130.8 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $121.0 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit plus 2x 2.5G SFP - model STI-280DGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $130.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit plus 2x 2.5G SFP - model STI-280DGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $121.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

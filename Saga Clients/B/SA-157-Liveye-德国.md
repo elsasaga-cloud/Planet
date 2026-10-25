@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **是谁**：德国 Föhren 的移动视频监控塔制造商与全服务安防商（2018/2019 年成立，创办人 Marc Thurn；2022-09 Nord Holding 收购 70%；总经理 Carsten Simons，2025-10 增任 Markus Diederichs；约 95–130 人，D-A-CH + 波兰 5 个站点；2024 年在 Badem 自建生产基地；LinkedIn 51–200）：LivEye PRO 2.0 / PRO SOLAR / ONE+ / LIGHT+ / FALCON / DOCU 系列视频塔 2,000+ 套在市、自营 24/7 监控中心、德国服务器；客户从工商业、建筑工地到电厂/关键基础设施（守界：KRITIS 项目不供）。每台视频塔内需 1 台宽温 DC 供电 PoE 交换机——Saga STI 系列可作配套件。用户记录：展会交流对方仅附和；WhatsApp 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：给他说了工商POE交换机，他没说太多，一直附和着回答，名片里面显示是安防产品）
 - **为什么是 B 级**：**调研后定级 B**（无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-04-11 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$137.5）；2.5G/10G 回传塔 STI-480XGGM。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -47,9 +47,9 @@ updated: 2026-10-25
 
 - **绑定等级：未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 f.hoffmann@liveye.com；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」；Elsa 箱：`to:liveye.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））** ｜ 类型：安防产品商 ｜ 筛子：1~2（1 次打开） ｜ 停点：15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；研究档 risks：已有既定 BOM 供应商；KRITIS/电厂项目守界；7 次跟进 0 回复；回复后可升 A（候选）
 - **现状一句话**：德国 Föhren 的移动视频监控塔制造商与全服务安防商（2018/2019 年成立，创办人 Marc Thurn；2022-09 Nord Holding 收购 70%；总经理 Carsten Simons，2025-10 增任 Markus Diederichs；约 95–130 人，D-A-CH + 波兰 5 个站点；2024 年在 Badem 自建生产基地；LinkedIn 51–200）：LivEye PRO 2.0 / PRO SOLAR / ONE+ / LIGHT+ / FALCON / DOCU 系列视频塔 2,000+ 套在市、自营 24/7 监控中心、德国服务器；客户从工商业、建筑工地到电厂/关键基础设施（守界：KRITIS 项目不供）。每台视频塔内需 1 台宽温 DC 供电 PoE 交换机——Saga STI 系列可作配套件。用户记录：展会交流对方仅附和；Whats
-- **对方真实需求（有据）**：OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM
+- **对方真实需求（有据）**：OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$137.5）；2.5G/10G 回传塔 STI-480XGGM
 - **断点 / 为什么停在这里**：已有既定 BOM 供应商；KRITIS/电厂项目守界；7 次跟进 0 回复；回复后可升 A（候选）
-- **Saga 现在该推什么**：P1 **STI-144GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch））——OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **STI-144GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$137.5）；2.5G/10G 回传塔 STI-480XGGM。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?
 
@@ -134,7 +134,7 @@ updated: 2026-10-25
   - 自产 2,000+ 视频塔、年产数百台 → 塔内 PoE 交换机为批量 BOM 件；太阳能塔需低功耗宽温 DC 输入机（STI 12–58 V DC）
   - 『Souveränität made in Germany』路线：对供应链来源敏感 → 以中性包装 + 元器件声明应对
 - **风险/边界**：已有既定 BOM 供应商；KRITIS/电厂项目守界；7 次跟进 0 回复；回复后可升 A（候选）
-- **Saga 对位结论**：P1 STI-144GP（30% 档）——OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM
+- **Saga 对位结论**：P1 STI-144GP（30% 档）——OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$137.5）；2.5G/10G 回传塔 STI-480XGGM
 - **邮件切入句（英文）**：For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -242,10 +242,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 深挖对位：OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM | $36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（安防产品商） |
+| **P1** | STI-144GP | 深挖对位：OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$137.5）；2.5G/10G 回传塔 STI-480XGGM | $36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（安防产品商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 

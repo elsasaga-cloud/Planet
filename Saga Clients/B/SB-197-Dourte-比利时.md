@@ -35,8 +35,8 @@ updated: 2026-10-25
 - **是谁**：比利时布鲁塞尔南郊的电子安防集成商（SRL，2017-11 注册；10.2 FTE；毛利 €598k（最新年报）；内政部（FPS Interior）认可的报警与摄像安装商；负责人 Sébastien Dourte）：视频安防、门禁、火灾探测、入侵探测、停车管理、对讲、可再生能源，覆盖全比利时。展会记录：看了工业级管理/非管理与 bypass 交换机，「感觉比较懂」；联系人 gli@dourte.be；WhatsApp 已加；6 次跟进 0 回复。（调研 2026-10-21；表内兴趣：看了工业级交换机，管理和非管理 bypass,，没做过多的管理，但是感觉比较懂，可以调查一下网站）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/比利时；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-03-19 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-31 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$137.5）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-31 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $137.5 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -46,11 +46,11 @@ updated: 2026-10-25
 
 - **绑定等级：未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 gli@dourte.be, info@dourte.be；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:.be` 穷举 16 条（2026-10-25，锚批 Bcc 头已读）未见 dourte.be → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：比利时（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16；用户表：「看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂」；研究档 risks：规模小；6 次跟进 0 回复
 - **现状一句话**：比利时布鲁塞尔南郊的电子安防集成商（SRL，2017-11 注册；10.2 FTE；毛利 €598k（最新年报）；内政部（FPS Interior）认可的报警与摄像安装商；负责人 Sébastien Dourte）：视频安防、门禁、火灾探测、入侵探测、停车管理、对讲、可再生能源，覆盖全比利时。展会记录：看了工业级管理/非管理与 bypass 交换机，「感觉比较懂」；联系人 gli@dourte.be；WhatsApp 已加；6 次跟进 0 回复。
-- **对方真实需求（有据）**：集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM
+- **对方真实需求（有据）**：集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$137.5）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM
 - **断点 / 为什么停在这里**：规模小；6 次跟进 0 回复
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-31 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch））——集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-31 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$137.5）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
+  - 第一问（只问一个）：For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $137.5 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -116,8 +116,8 @@ updated: 2026-10-25
 - **近况信号**：
   - 关注工业级 + bypass → 停车场/户外门禁柜场景；10 人集成商可成常备小客户
 - **风险/边界**：规模小；6 次跟进 0 回复
-- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM
-- **邮件切入句（英文）**：For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$137.5）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM
+- **邮件切入句（英文）**：For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $137.5 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -204,9 +204,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 深挖对位：集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$137.5）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -257,9 +257,9 @@ updated: 2026-10-25
 ```text
 Hi Lisart,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $137.5 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

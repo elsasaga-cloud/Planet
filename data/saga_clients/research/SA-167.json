@@ -54,9 +54,9 @@
  "saga_fit": {
   "p1": "STI-288DGGPM",
   "tier": 25,
-  "why": "安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）"
+  "why": "安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）"
  },
- "email_hook": "ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $145.7 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?",
+ "email_hook": "ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $137.5 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?",
  "mail_review": {
   "binding": {
    "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:voltechelektronik.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
@@ -69,13 +69,13 @@
    "evidence": "gmail_digest：out 0；研究档 risks：微型；官网未建成"
   },
   "situation": "土耳其 Silivri 地区小型电子/安防服务商（摄像系统、报警、电脑、电话交换机、电气电子服务），官网为建设中占位页；ISAF 2025 现场取彩页，找工业级 PoE 网管交换机；WA 已加（+90 551 375 12 25 与官网一致），无后续互动。",
-  "need": "安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）",
+  "need": "安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）",
   "breakpoint": "微型；官网未建成",
   "saga_now": {
    "p1": "STI-288DGGPM",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）",
+   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）",
    "repeat": [],
    "gaps": []
   },
@@ -83,7 +83,7 @@
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → info@voltechelektronik.com（无具名 KP；公用地址）",
    "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
-   "one_question": "ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $145.7 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?"
+   "one_question": "ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $137.5 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?"
   },
   "facts": [],
   "proof_gaps": [
@@ -92,7 +92,7 @@
   ],
   "draft_en": {
    "subject": "Industrial managed PoE switch from ISAF - DIN-rail 8 PoE+ + 2 SFP",
-   "body": "Hello,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nYou were looking for an industrial managed PoE switch: DIN-rail, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, -40 to 75 C, model STI-288DGGPM - $145.7 USD EXW (MOQ 1, 15-day validity). The unmanaged version of the same box, STI-288GP, is $59.8 USD EXW. CE/RoHS, 3-year warranty together with our DIN power supply.\n\nOne question: is the field cabinet powered at 48 V DC, or do you need the power supply included?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nYou were looking for an industrial managed PoE switch: DIN-rail, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). The unmanaged version of the same box, STI-288GP, is $59.8 USD EXW. CE/RoHS, 3-year warranty together with our DIN power supply.\n\nOne question: is the field cabinet powered at 48 V DC, or do you need the power supply included?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

@@ -36,8 +36,8 @@ updated: 2026-10-25
 - **是谁**：意大利卡塞塔的专业影像/广播/安防分销集团 Trans Audio Video S.r.l.（1987 年由 Salvatore Brighel 创立；P.IVA 01675270613；30 名专业人员；三大事业部 Media / Academy / Security；2024 年营收 €18.0M、净利 €33.8k；办公室 Caserta Viale Melvin Jones 12 与 Cologno Monzese Corso Roma 186；参展 SICUREZZA 2025 米兰）。展会（IFSEC UK 2023）记录：GM Francesco Brighel——采购过多次交换机（主要商业级、少量工业级），希望合作，问工业电源，要详细报价单；之后 14 次推送 0 回复。（调研 2026-10-21；表内兴趣：采购过多次交换机（少量工业级，主要是商业级）希望与我们合作 问了工业电源（朱姐说可以替他们采购） 要详细报价单）
 - **为什么是 A 级**：**调研后定级 A**（A 三条件：① 可追溯需求——「采购过多次交换机（主要商业级、少量工业级）、希望合作、要详细报价单」；② 直接具名联系人——GM Francesco Brighel（f.brighel@，手机在册，家族企业第二代）；③ 可赢规模——30 人家族分销商、2024 年营收 €18.0M，Security 事业部分销 CCTV，非巨头。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-06-12 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STC-424DGGPM-280W — 已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STC-424DGGPM-280W — 已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 WhatsApp 一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）
 
@@ -49,9 +49,9 @@ updated: 2026-10-25
 - **现状一句话**：23 封被打开 2 次（同日）。
 - **对方真实需求（有据）**：8/24 口 PoE 项目价。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STC-28DGGPM / STC-424DGGPM-280W**（25% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch））——已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM / STC-424DGGPM-280W**（25% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1　WhatsApp　一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）
-  - 第一问（只问一个）：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?
+  - 第一问（只问一个）：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -129,8 +129,8 @@ updated: 2026-10-25
   - Security 事业部分销 CCTV 并做方案设计 → 商业 PoE 接入（8/24 口）+ 少量工业 PoE 是其明确采购品类
   - 要「详细报价单」= 直接给完整价格册（商业 + 工业）而非单品
 - **风险/边界**：14 次推送 0 回复；米兰 SICUREZZA 2025 后可能已另选供应商
-- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——分销 20% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$134.5）+ STC-28DGGPM（$80.7）作商业 PoE 主力；少量工业 STI-288DGGPM（$139.9）；随附完整价格册（其明确索要）
-- **邮件切入句（英文）**：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——分销 20% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$134.5）+ STC-28DGGPM（$80.7）作商业 PoE 主力；少量工业 STI-288DGGPM（$137.5）；随附完整价格册（其明确索要）
+- **邮件切入句（英文）**：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -234,10 +234,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 深挖对位：分销 20% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$134.5）+ STC-28DGGPM（$80.7）作商业 PoE 主力；少量工业 STI-288DGGPM（$139.9）；随附完整价格册（其明确索要） | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（AV/安防集成商） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：分销 20% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$134.5）+ STC-28DGGPM（$80.7）作商业 PoE 主力；少量工业 STI-288DGGPM（$137.5）；随附完整价格册（其明确索要） | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（AV/安防集成商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -288,7 +288,7 @@ updated: 2026-10-25
 ```text
 Hi Francesco,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. The detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. The detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

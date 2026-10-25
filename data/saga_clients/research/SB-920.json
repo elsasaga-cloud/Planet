@@ -85,7 +85,7 @@
  "saga_fit": {
   "p1": "STC-424XGGPM-280W",
   "tier": 25,
-  "why": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）"
+  "why": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @25%）/ 非 PoE STC-424XGGM（$132.7）"
  },
  "email_hook": "Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD — stacking is handled via 10G uplinks rather than a proprietary stack; would that fit the SMB sites you support?",
  "mail_review": {
@@ -100,13 +100,13 @@
    "evidence": "gmail_digest：out 2；用户表：「Stacking」；研究档 risks：需求为堆叠（Stacking）：Saga 产品无专有堆叠（仅 10G 上联），契合度待确认"
   },
   "situation": "美国 SynchroNet（布法罗 IT 支持服务商/MSP：面向各规模企业的托管 IT；博客含 switchport / stack-switch；表内「Stacking」；KP Tanner Sanderson（BD）、Gordon Brandt（Engineer））；表内未跟进。",
-  "need": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）",
+  "need": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @25%）/ 非 PoE STC-424XGGM（$132.7）",
   "breakpoint": "需求为堆叠（Stacking）：Saga 产品无专有堆叠（仅 10G 上联），契合度待确认",
   "saga_now": {
    "p1": "STC-424XGGPM-280W",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-   "why": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+   "why": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @25%）/ 非 PoE STC-424XGGM（$132.7）",
    "repeat": [],
    "gaps": []
   },

@@ -75,7 +75,7 @@
  "saga_fit": {
   "p1": "STI-288DGGPM-2BT",
   "tier": 25,
-  "why": "90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）"
+  "why": "90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2）"
  },
  "email_hook": "Carlos, following your request for 90 W PoE injectors: we do not carry injectors, but our DIN-rail 8-PoE + 2 SFP industrial switch with two 802.3bt 90 W ports (−40~75 °C, 12–58 V redundant, CE/RoHS) can power VMS panels and cameras at your gantries from single units, EXW USD — how many bt ports does each roadside cabinet need?",
  "mail_review": {
@@ -90,13 +90,13 @@
    "evidence": "gmail_digest：out 0；用户表：「90W PoE Injector外购品 / from: 阿里巴巴RFQ」；研究档 risks：PoE 注入器品类 Saga 不供（Q-32）；守界备注：道路 ITS（民用收费道路运营商项目，非执法/军事）；非主攻区（T5，巴西；进口税高）；未跟进过"
   },
   "situation": "巴西 Elementu Engenharia e Integração（道路基础设施技术集成：高速动态称重 HS-WIM、龙门架与可变情报板（Ecovias do Araguaia 项目）、工业安装；阿里巴巴 RFQ「90W PoE Injector 外购品」；KP Carlos Gabriel Alonso）；表内未跟进。",
-  "need": "90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）",
+  "need": "90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2）",
   "breakpoint": "PoE 注入器品类 Saga 不供（Q-32）；守界备注：道路 ITS（民用收费道路运营商项目，非执法/军事）；非主攻区（T5，巴西；进口税高）；未跟进过",
   "saga_now": {
    "p1": "STI-288DGGPM-2BT",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）",
+   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2）",
    "repeat": [],
    "gaps": []
   },

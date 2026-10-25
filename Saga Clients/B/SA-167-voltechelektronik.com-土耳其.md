@@ -35,8 +35,8 @@ updated: 2026-10-25
 - **是谁**：土耳其 Silivri 地区小型电子/安防服务商（摄像系统、报警、电脑、电话交换机、电气电子服务），官网为建设中占位页；ISAF 2025 现场取彩页，找工业级 PoE 网管交换机；WA 已加（+90 551 375 12 25 与官网一致），无后续互动。（调研 2026-10-21；表内兴趣：拿了彩页， 找工业级POE网管交换机；拿了彩页， 找工业级PoE网管交换机）
 - **为什么是 B 级**：**调研后定级 B**（微型安装商、需求仅'找工业 PoE 网管'且无后续互动；土耳其主攻区故保留 B。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $145.7 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $137.5 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@voltechelektronik.com（无具名 KP；公用地址） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
 
@@ -46,11 +46,11 @@ updated: 2026-10-25
 
 - **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:voltechelektronik.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））** ｜ 类型：小型安防/电气安装商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；研究档 risks：微型；官网未建成
 - **现状一句话**：土耳其 Silivri 地区小型电子/安防服务商（摄像系统、报警、电脑、电话交换机、电气电子服务），官网为建设中占位页；ISAF 2025 现场取彩页，找工业级 PoE 网管交换机；WA 已加（+90 551 375 12 25 与官网一致），无后续互动。
-- **对方真实需求（有据）**：安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）
+- **对方真实需求（有据）**：安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）
 - **断点 / 为什么停在这里**：微型；官网未建成
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit））——安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@voltechelektronik.com（无具名 KP；公用地址）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
-  - 第一问（只问一个）：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $145.7 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
+  - 第一问（只问一个）：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $137.5 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -95,8 +95,8 @@ updated: 2026-10-25
 - **近况信号**：
   - 明确找工业级 PoE 网管 → STI-288DGGPM 直接对位
 - **风险/边界**：微型；官网未建成
-- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）
-- **邮件切入句（英文）**：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $145.7 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）
+- **邮件切入句（英文）**：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $137.5 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
 
@@ -155,9 +155,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（小型安防/电气安装商） |
+| **P1** | STI-288DGGPM | 深挖对位：安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8） | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（小型安防/电气安装商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -211,7 +211,7 @@ Hello,
 
 We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.
 
-You were looking for an industrial managed PoE switch: DIN-rail, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, -40 to 75 C, model STI-288DGGPM - $145.7 USD EXW (MOQ 1, 15-day validity). The unmanaged version of the same box, STI-288GP, is $59.8 USD EXW. CE/RoHS, 3-year warranty together with our DIN power supply.
+You were looking for an industrial managed PoE switch: DIN-rail, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). The unmanaged version of the same box, STI-288GP, is $59.8 USD EXW. CE/RoHS, 3-year warranty together with our DIN power supply.
 
 One question: is the field cabinet powered at 48 V DC, or do you need the power supply included?
 
@@ -222,7 +222,7 @@ Saga Telecom - sagatele.com
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
-> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $145.7 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $137.5 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
 
 ## 新跟进记录（仓库外发出后补）
 

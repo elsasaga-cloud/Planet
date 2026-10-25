@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：德国 Erkrath（杜塞尔多夫旁）的 GRUNDIG Security 品牌独家被许可人 Abetechs GmbH（HRB 82264 Düsseldorf / 官网载 HRB 35197 Wuppertal；注册资本 €800,000；总经理 Ludwig Bergschneider、Yalcin Demirak；LinkedIn 11–50 人，2010 年成立）：以 GRUNDIG 品牌在全球分销专业视频安防（IP 摄像机、热成像、NVR、C-WERK VMS、工业监视器），SMART 产品线标榜 NDAA 合规，并已新增 4/8/16 口 NDAA 合规智能管理 PoE 交换机（250 m PoE、4 kV 浪涌；经销商料号 VGR-GU-HW-ACSW08D）。典型品牌 OEM 买家——Saga 可作其交换机第二来源。用户表：WhatsApp 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：从UTEPO买商业级交换机，也去了EWIND摊位，推荐工业级POE产品就可以了）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-04-14 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））———
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））———
 - **下一步（具体）**：不动　—　—
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
@@ -126,7 +126,7 @@ updated: 2026-10-25
   - 已有 OEM PoE 交换机线（4/8/16 口 NDAA）→ 缺 24/48 口与 10G 上联管理机、工业 DIN 系列：Saga 可补 STC-424DGGPM-280W / STC-424XGGPM-280W / STI-288DGGPM 并贴 GRUNDIG 标
   - NDAA 口径：Saga 整机/芯片不属 889 条所列厂商，可出具 NDAA 合规声明（需 SmartByte 确认元器件清单）
 - **风险/边界**：品牌方对 OEM 质量/固件定制（Web UI 品牌化、NDAA 声明、EN 55032）要求高；7 次跟进 0 回复
-- **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$137.5）；8 口 STC-28DGGPM（$87.4）作第二来源
 - **邮件切入句（英文）**：Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -230,10 +230,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 深挖对位：OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$137.5）；8 口 STC-28DGGPM（$87.4）作第二来源 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 

@@ -88,7 +88,7 @@
       "brand": "PLANET",
       "model": "DIN-rail L2+ Ring Managed Gigabit PoE Switch（系列）",
       "spec": "工业 DIN L2+ 环网 PoE（官网专区）",
-      "saga": "STI-288DGGPM（$139.9@20）",
+      "saga": "STI-288DGGPM（$137.5@20）",
       "url": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
       "date": "2026-10-21"
     },
@@ -125,9 +125,9 @@
   "saga_fit": {
     "p1": "STI-288DGGPM",
     "tier": 20,
-    "why": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）"
+    "why": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）"
   },
-  "email_hook": "Hello Ayk team, next to the PLANET DIN-rail L2+ ring PoE switches you list: our same-port-type 2× SFP + 8× GbE PoE+ L2+ (ERPS, −40/+75 °C) is $139.9 EXW at distributor level, industrial gigabit media converter $22.4 — would a sample pair for your utility projects be useful?",
+  "email_hook": "Hello Ayk team, next to the PLANET DIN-rail L2+ ring PoE switches you list: our same-port-type 2× SFP + 8× GbE PoE+ L2+ (ERPS, −40/+75 °C) is $137.5 EXW at distributor level, industrial gigabit media converter $22.4 — would a sample pair for your utility projects be useful?",
   "mail_review": {
     "binding": {
       "level": "Elsa 群发 BCC 已触达 2026-09-07「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，巴基斯坦（锚 globalconnectsynergy PK） 批次 To info@globalconnectsynergy.com，0 回（第 74 批 Bcc 头核对 msg 1a07aaaa8ce34b26）；S/A 箱：S/A 邮箱均无往来；来源：用户表「卖planet的switch / 买过管理FS / 谷歌」）",
@@ -140,13 +140,13 @@
       "evidence": "gmail_digest：out 0；用户表：「卖planet的switch / 买过管理FS / 谷歌」；研究档 risks：已有 PLANET 关系（品牌忠诚）；南亚非主攻区；巴基斯坦外汇；无互动记录；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@globalconnectsynergy.com）2025-04-09→2026-09-07 共 9 轮群发（Mini Industrial PoE Switch、Commercial Network Switch、10G Media Converter、16 Port Ethernet Switch、8 Port Industrial PoE Switch、10G Enterprise SFP Switch、Industrial PoE Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
     },
     "situation": "巴基斯坦古杰兰瓦拉的电力测试与工程公司 Ayk (Pvt.) Ltd.（1996 年成立、2006 年注册；分支拉合尔/伊斯兰堡；~90 人；业务：变压器/电缆/开关设备高压测试服务、电力测试设备独家分销（Omicron、Chauvin Arnoux、Tempo、Opal-RT、Poly、SKB、Planet、b2、Vivax Metrotech），自制变电站蓄电池充电器（NTDC 认证，365+ 台）；官网设 PLANET 产品专区（工业以太网交换机、DIN 导轨 L2+/L3 环网、工业 PoE、EN50155、媒体转换器、光纤 bypass、串口服务器）；2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala；+92 55 3255800；info@ayk.com.pk）。用户表（谷歌 + 富通天下）：卖 PLANET 的 sw",
-    "need": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）",
+    "need": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）",
     "breakpoint": "已有 PLANET 关系（品牌忠诚）；南亚非主攻区；巴基斯坦外汇；无互动记录",
     "saga_now": {
       "p1": "STI-288DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+      "why": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）",
       "repeat": [],
       "gaps": []
     },

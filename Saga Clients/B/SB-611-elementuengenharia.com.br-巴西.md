@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：巴西 Elementu Engenharia e Integração（道路基础设施技术集成：高速动态称重 HS-WIM、龙门架与可变情报板（Ecovias do Araguaia 项目）、工业安装；阿里巴巴 RFQ「90W PoE Injector 外购品」；KP Carlos Gabriel Alonso）；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴西；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT — 90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT — 90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：不动 — —
@@ -43,9 +43,9 @@ updated: 2026-10-25
 
 - **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「90W PoE Injector外购品 / from: 阿里巴巴RFQ」；Elsa 箱：`to:elementuengenharia.com.br` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：道路 ITS 集成商（巴西，守界备注：民用道路设施） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴西 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「90W PoE Injector外购品 / from: 阿里巴巴RFQ」；研究档 risks：PoE 注入器品类 Saga 不供（Q-32）；守界备注：道路 ITS（民用收费道路运营商项目，非执法/军事）；非主攻区（T5，巴西；进口税高）；未跟进过
 - **现状一句话**：巴西 Elementu Engenharia e Integração（道路基础设施技术集成：高速动态称重 HS-WIM、龙门架与可变情报板（Ecovias do Araguaia 项目）、工业安装；阿里巴巴 RFQ「90W PoE Injector 外购品」；KP Carlos Gabriel Alonso）；表内未跟进。
-- **对方真实需求（有据）**：90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）
+- **对方真实需求（有据）**：90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2）
 - **断点 / 为什么停在这里**：PoE 注入器品类 Saga 不供（Q-32）；守界备注：道路 ITS（民用收费道路运营商项目，非执法/军事）；非主攻区（T5，巴西；进口税高）；未跟进过
-- **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT**（25% 档，按主表（研究档 saga_fit））——90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）
+- **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -102,7 +102,7 @@ updated: 2026-10-25
   - 官网：Nós da Elementu somos especializados em soluções tecnológicas em ambientes de infraestrutura viária ; Sistema de Pesagem em Movimento de Alta Velocidade (HS-WIM) ; Implantação de 15 Pórticos e 15 PMV’s
   - 表内：90W PoE Injector 外购品 / from: 阿里巴巴 RFQ；KP Carlos Gabriel Alonso
 - **风险/边界**：PoE 注入器品类 Saga 不供（Q-32）；守界备注：道路 ITS（民用收费道路运营商项目，非执法/军事）；非主攻区（T5，巴西；进口税高）；未跟进过
-- **Saga 对位结论**：P1 STI-288DGGPM-2BT（25% 档）——90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）
+- **Saga 对位结论**：P1 STI-288DGGPM-2BT（25% 档）——90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2）
 - **邮件切入句（英文）**：Carlos, following your request for 90 W PoE injectors: we do not carry injectors, but our DIN-rail 8-PoE + 2 SFP industrial switch with two 802.3bt 90 W ports (−40~75 °C, 12–58 V redundant, CE/RoHS) can power VMS panels and cameras at your gantries from single units, EXW USD — how many bt ports does each roadside cabinet need?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -168,10 +168,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM-2BT | 深挖对位：90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2） | $164.4 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（道路 ITS 集成商（巴西，守界备注：民用道路设施）） |
+| **P1** | STI-288DGGPM-2BT | 深挖对位：90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2） | $154.0 USD EXW（㉕ 封顶：25% 档 $164.4 高于 2026-06 Saga 列表价 $154.0，按列表价；SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（道路 ITS 集成商（巴西，守界备注：民用道路设施）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -225,7 +225,7 @@ Hi Carlos,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your request for 90 W PoE injectors: we do not carry injectors, but our DIN-rail 8-PoE + 2 SFP industrial switch with two 802.3bt 90 W ports (−40~75 °C, 12–58 V redundant, CE/RoHS) can power VMS panels and cameras at your gantries from single units, EXW USD — how many bt ports does each roadside cabinet need?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ (2x 90 W bt) plus 2x 2.5G SFP - model STI-288DGGPM-2BT - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $164.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ (2x 90 W bt) plus 2x 2.5G SFP - model STI-288DGGPM-2BT - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $154.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

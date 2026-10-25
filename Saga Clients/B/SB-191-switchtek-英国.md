@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：英国斯塔福德郡 Stone 的工业电气/电子元器件分销商（1982 年成立，Alan Lester 创办，CEO Jeremy Lester；11–50 人；7,000+ 现货品类；无最小订量；FedEx/Royal Mail 发货）：继电器、定时器、接触器、SCL/Meanwell 电源、变压器、传感器、电机起动器，并新近代理 Kyland 工业以太网交换机（非管理 Opal 系列、管理型、EN50155 系列）。工业自动化渠道、已有中国品牌工业交换机线 → Saga STI 为价格替代/补充。用户表：17 次跟进 0 回复。（调研 2026-10-21；表内兴趣：分销爱尔兰和英国，问了非管理和管理 主要处理Ethernet switch；Kyland）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-13 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（1/28 封有打开记录）：「Passive poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G fiber media converter）、2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（1/28 封有打开记录）：「Passive poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G fiber media converter）、2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G fiber media converter）、2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——已打开的主题（1/28 封有打开记录）：「Passive poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G fiber media converter）、2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——已打开的主题（1/28 封有打开记录）：「Passive poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -128,8 +128,8 @@ updated: 2026-10-25
 - **近况信号**：
   - 已建工业以太网品类（Kyland）但仅一家品牌 → 可作第二来源/价格线；无 MOQ、7,000 品类现货模式适合小批量 STI
 - **风险/边界**：与 Kyland 代理关系（同为中国品牌，需差异化：Marvell 芯片、−40~+75 ℃、价格）；EN50155 铁路线守界；17 次跟进 0 回复
-- **Saga 对位结论**：P1 STI-280DGGM（20% 档）——分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM
-- **邮件切入句（英文）**：Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?
+- **Saga 对位结论**：P1 STI-280DGGM（20% 档）——分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$121.0）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM
+- **邮件切入句（英文）**：Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $121.0 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -247,10 +247,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-280DGGM | 深挖对位：分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM | $125.6 USD EXW（20% 档，SmartByte LT-IS6310G-2GX8GT 700 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
+| **P1** | STI-280DGGM | 深挖对位：分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$121.0）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM | $121.0 USD EXW（㉕ 封顶：20% 档 $125.6 高于 2026-06 Saga 列表价 $121.0，按列表价；SmartByte LT-IS6310G-2GX8GT 700 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -301,9 +301,9 @@ updated: 2026-10-25
 ```text
 Hi Jeremy,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $121.0 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit plus 2x 2.5G SFP - model STI-280DGGM - that fits the same slot as the Kyland class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $125.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit plus 2x 2.5G SFP - model STI-280DGGM - that fits the same slot as the Kyland class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $121.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

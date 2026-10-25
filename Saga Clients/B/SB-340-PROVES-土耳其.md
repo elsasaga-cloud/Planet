@@ -34,8 +34,8 @@ updated: 2026-10-25
 - **是谁**：伊兹密尔 Bayraklı 的 IT/安防系统集成商 Proves Bilgi Teknolojileri（2020-02 由 Serdar Karasu 创立；IT 安全、基础设施、网络安全、服务器/备份、系统集成；Hanwha Vision 案例：为代尼兹利 Pamukkale 市政部署 150 台 Q 系列摄像机 + 3 台 NVR）。ISAF 记录：Serdar Karasu（bilgi@proves.com.tr）——要工业级交换机报价单；无后续跟进。创始人直接要报价 → 发工业机价目。市政项目为公共部门 → 按个案守界（民用 CCTV 可做）。（调研 2026-10-21；表内兴趣：要工业级交换机报价单）
 - **为什么是 B 级**：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$137.5）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 137,5 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → bilgi@proves.com.tr（Serdar Karasu） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
 
@@ -45,11 +45,11 @@ updated: 2026-10-25
 
 - **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr」；Elsa 箱：`to:proves.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr」；研究档 risks：市政项目公共部门（按个案守界）；无后续跟进
 - **现状一句话**：伊兹密尔 Bayraklı 的 IT/安防系统集成商 Proves Bilgi Teknolojileri（2020-02 由 Serdar Karasu 创立；IT 安全、基础设施、网络安全、服务器/备份、系统集成；Hanwha Vision 案例：为代尼兹利 Pamukkale 市政部署 150 台 Q 系列摄像机 + 3 台 NVR）。ISAF 记录：Serdar Karasu（bilgi@proves.com.tr）——要工业级交换机报价单；无后续跟进。创始人直接要报价 → 发工业机价目。市政项目为公共部门 → 按个案守界（民用 CCTV 可做）。
-- **对方真实需求（有据）**：集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）
+- **对方真实需求（有据）**：集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$137.5）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：市政项目公共部门（按个案守界）；无后续跟进
-- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$137.5）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → bilgi@proves.com.tr（Serdar Karasu）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
-  - 第一问（只问一个）：Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?
+  - 第一问（只问一个）：Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 137,5 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@ updated: 2026-10-25
 - **近况信号**：
   - 创始人亲自要工业交换机报价单 → 直接给价目表；150 台摄像机级别项目说明有 24 口 PoE 与工业环网需求
 - **风险/边界**：市政项目公共部门（按个案守界）；无后续跟进
-- **Saga 对位结论**：P1 STI-288GP（25% 档）——集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）
+- **Saga 对位结论**：P1 STI-288GP（25% 档）——集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$137.5）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）
 - **邮件切入句（英文）**：Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -170,10 +170,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 深挖对位：集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1） | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| **P1** | STI-288GP | 深挖对位：集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$137.5）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1） | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -230,7 +230,7 @@ The industrial switch prices you asked for, all DIN-rail 8 x Gigabit PoE+ + 2 x 
 
 - Unmanaged, model STI-288GP - $59.8 USD EXW
 - L2 managed, model STI-288GPM - $82.2 USD EXW
-- L2+ managed with ring redundancy, model STI-288DGGPM - $145.7 USD EXW
+- L2+ managed with ring redundancy, model STI-288DGGPM - $137.5 USD EXW
 
 For the head end of a 150-camera deployment like Pamukkale, the 24 x PoE+ (280 W) + 4 x SFP L2+ rack unit STC-424DGGPM-280W is $140.1.
 

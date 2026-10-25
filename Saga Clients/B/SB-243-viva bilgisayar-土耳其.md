@@ -34,8 +34,8 @@ updated: 2026-10-25
 - **是谁**：土耳其哈塔伊（安塔基亚）的 IT/安防服务商 Viva Bilgisayar（2000/2002 年起；1–10 人（RocketReach 4 人）；Hikvision Hatay Silver Partner、项目集成商与经销商，兼 Dahua；业务：IP 摄像集成、网络基础设施、软件/网页设计、短信服务；业主 İsmet Yavuz；Sümerler Mah. 16. Sk. No:16/3 Defne/Hatay；+90 544 649 11 42；info@vivabilgisayar.net）。ISAF 记录：要工业级交换机；WhatsApp 已加；无后续跟进。（调研 2026-10-21；表内兴趣：要工业级交换机）
 - **为什么是 B 级**：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 145,7 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
@@ -45,11 +45,11 @@ updated: 2026-10-25
 
 - **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「要工业级交换机 / 90 54464 91142 已加」；S/A 邮箱 0 封；Elsa 箱：`to:hisvisionhatay.com OR to:vivabilgisayar.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「要工业级交换机 / 90 54464 91142 已加」；研究档 risks：微型团队、单量小；无后续跟进
 - **现状一句话**：土耳其哈塔伊（安塔基亚）的 IT/安防服务商 Viva Bilgisayar（2000/2002 年起；1–10 人（RocketReach 4 人）；Hikvision Hatay Silver Partner、项目集成商与经销商，兼 Dahua；业务：IP 摄像集成、网络基础设施、软件/网页设计、短信服务；业主 İsmet Yavuz；Sümerler Mah. 16. Sk. No:16/3 Defne/Hatay；+90 544 649 11 42；info@vivabilgisayar.net）。ISAF 记录：要工业级交换机；WhatsApp 已加；无后续跟进。
-- **对方真实需求（有据）**：集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）
+- **对方真实需求（有据）**：集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）
 - **断点 / 为什么停在这里**：微型团队、单量小；无后续跟进
-- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）
 - **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
-  - 第一问（只问一个）：İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 145,7 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
+  - 第一问（只问一个）：İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -106,8 +106,8 @@ updated: 2026-10-25
 - **近况信号**：
   - Hikvision 项目集成商明确要工业级交换机 → 户外/工地 CCTV 柜用 DIN 8 PoE；哈塔伊灾后重建期户外监控需求
 - **风险/边界**：微型团队、单量小；无后续跟进
-- **Saga 对位结论**：P1 STI-288GP（25% 档）——集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）
-- **邮件切入句（英文）**：İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 145,7 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
+- **Saga 对位结论**：P1 STI-288GP（25% 档）——集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）
+- **邮件切入句（英文）**：İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
 
@@ -169,10 +169,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 深挖对位：集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5） | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| **P1** | STI-288GP | 深挖对位：集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5） | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -222,7 +222,7 @@ updated: 2026-10-25
 **主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 145,7 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
+İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

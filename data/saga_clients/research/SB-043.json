@@ -86,9 +86,9 @@
  "saga_fit": {
   "p1": "STI-288DGGPM",
   "tier": 25,
-  "why": "集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）"
+  "why": "集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）"
  },
- "email_hook": "Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $145.7 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?",
+ "email_hook": "Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $137.5 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?",
  "mail_review": {
   "binding": {
    "level": "未发信（S/A 邮箱均无往来；来源：用户表「英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页 / 383 3873 2732 加不上 383 49」；Elsa 箱：`to:storm-ict.com OR to:ict.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
@@ -101,13 +101,13 @@
    "evidence": "gmail_digest：out 0；用户表：「英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页 / 383 3873 2732 加不上 383 49637000 加不上」；研究档 risks：科索沃物流/清关；WhatsApp 加不上（走邮件 info@ + CEO）；邮箱域名需核对"
   },
   "situation": "科索沃普里什蒂纳的 ICT 系统集成商 Storm ICT LLC（2013 年成立；克罗地亚 Storm Group 成员；科索沃 + 北马其顿办公室；11–50 人（RocketReach 6）；业务：有源/无源网络基础设施、信息通信方案、专业服务、行业与应用方案；CEO Alban S. Beqiri（20+ 年 IT/金融业经验）；CTO Vegim Zhitija；Rruga Tahir Zajmi (Kosovatex) pn, 10000 Prishtinë；+383 38 732 731/732；info@storm-ict.com）。ISAF 记录：英文很好，平时用工业级交换机、PoE 用得多、带管理，拿了彩页；WhatsApp 两个号都加不上；无后续跟进。用户表邮箱 alban.beqiri@storm.ict.com 域名疑有误（公司域为 storm-ict.com）",
-  "need": "集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）",
+  "need": "集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）",
   "breakpoint": "科索沃物流/清关；WhatsApp 加不上（走邮件 info@ + CEO）；邮箱域名需核对",
   "saga_now": {
    "p1": "STI-288DGGPM",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）",
+   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）",
    "repeat": [],
    "gaps": []
   },
@@ -115,7 +115,7 @@
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → alban.beqiri@storm.ict.com（Alban S. Beqiri）",
    "action": "首封：按 email_hook 一问",
-   "one_question": "Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $145.7 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?"
+   "one_question": "Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $137.5 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?"
   },
   "facts": [
    {

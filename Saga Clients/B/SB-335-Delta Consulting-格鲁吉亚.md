@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。（调研 2026-10-22；表内兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，可能会需要1光8管理 另外说了24V PoE,不是很确定是不要是要非标PoE）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 1 次；WhatsApp 已加；推送 14 次（2024-03-01 → 2025-05-29）；最近一次客户回复：2024-11-19：small 8 port high poe
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC 汇聚（10G/25G） — J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常；按 CENTEC ≥35% 底线；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-15 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC 汇聚（10G/25G） — J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常；按 CENTEC ≥35% 底线；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-15 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 A 邮箱 → george@dc.ge 一封只讲 CENTEC 汇聚替代 Cisco 的信
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：2023-07 买了 4 台百兆 PoE 样机（$100），之后没有下文——它的 PoE 来源是新桥，价格一半。公司本身是 Cisco/Juniper/F5 级别的集成商，PoE 低价赛道不是 Saga 能赢的；CENTEC 汇聚/核心才对得上它的客户（企业 + 政府）。
 - **对方真实需求（有据）**：2023：百兆 PoE 样机；潜在：企业/政府项目汇聚核心。
 - **断点 / 为什么停在这里**：价格（新桥）。
-- **Saga 现在该推什么**：P1 **STH 系列 CENTEC 汇聚（10G/25G）**（25% 档，按 CENTEC ≥35% 底线；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-15 $280（10G Enterprise SFP Switch））——J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常
+- **Saga 现在该推什么**：P1 **STH 系列 CENTEC 汇聚（10G/25G）**（25% 档，按 CENTEC ≥35% 底线；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-15 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常
   - 复购/在买项：2023-07-24 唯一一单：STC-028GFP + STC-128GFP $100（Simon 利润 RMB 177；PI 复盘 #1，Simon 标 gg）
 - **下一步（具体）**：2027-Q1　A 邮箱 → george@dc.ge　一封只讲 CENTEC 汇聚替代 Cisco 的信
   - 第一问（只问一个）：George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?
@@ -140,7 +140,7 @@ updated: 2026-10-25
   - 2025-11 新需求：小型 8 口大功率 PoE
   - CEO 直接对接
 - **风险/边界**：比价严苛（新桥 CI 价约为 Saga 一半）→ 需用 Marvell 芯片 / 保修 / 现货差异化，不打价格战；政府项目按单核用途（守界）；表内「外壳质量不满意」实为保护膜未撕 → 样品需附说明
-- **Saga 对位结论**：P1 STI-288DGGPM-2BT（25% 档）——其最新需求「small 8 port high PoE」→ Saga 工业 8 PoE（含 2×BT 90W）+ 2 SFP 管理 STI-288DGGPM-2BT（$157.8/164.4/171.0）；低价备选 STI-288GP；1 光 4 / 2 光 4 小壳 = STI-144GP / STI-244GP。
+- **Saga 对位结论**：P1 STI-288DGGPM-2BT（25% 档）——其最新需求「small 8 port high PoE」→ Saga 工业 8 PoE（含 2×BT 90W）+ 2 SFP 管理 STI-288DGGPM-2BT（$154.0（列表价封顶））；低价备选 STI-288GP；1 光 4 / 2 光 4 小壳 = STI-144GP / STI-244GP。
 - **邮件切入句（英文）**：George, you asked for a small 8-port high-power PoE unit — ours gives 2×90 W (802.3bt) + 6×30 W on a DIN-rail body with 2 SFP uplinks; shall I send the sheet with a 1-pc sample price so you can benchmark it against your current supplier?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -251,10 +251,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM-2BT | 深挖对位：其最新需求「small 8 port high PoE」→ Saga 工业 8 PoE（含 2×BT 90W）+ 2 SFP 管理 STI-288DGGPM-2BT（$157.8/164.4/171.0）；低价备选 STI-288GP；1 光 4 / 2 光 4 小壳 = STI-144GP / STI-244GP。 | $164.4 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM-2BT | 深挖对位：其最新需求「small 8 port high PoE」→ Saga 工业 8 PoE（含 2×BT 90W）+ 2 SFP 管理 STI-288DGGPM-2BT（$154.0（列表价封顶））；低价备选 STI-288GP；1 光 4 / 2 光 4 小壳 = STI-144GP / STI-244GP。 | $154.0 USD EXW（㉕ 封顶：25% 档 $164.4 高于 2026-06 Saga 列表价 $154.0，按列表价；SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -307,7 +307,7 @@ Hi George,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. You asked for a small 8-port high-power PoE unit — ours gives 2×90 W (802.3bt) + 6×30 W on a DIN-rail body with 2 SFP uplinks; shall I send the sheet with a 1-pc sample price so you can benchmark it against your current supplier?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ (2x 90 W bt) plus 2x 2.5G SFP - model STI-288DGGPM-2BT - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $164.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ (2x 90 W bt) plus 2x 2.5G SFP - model STI-288DGGPM-2BT - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $154.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

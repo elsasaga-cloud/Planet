@@ -35,8 +35,8 @@ updated: 2026-10-25
 - **是谁**：美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。（调研 2026-10-21；表内兴趣：贸易公司/Cisco工业交换机 2020年使用国际站）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM — 分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）、2024-08-14 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-17；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
-- **第一问（只问一个）**：For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM — 分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）、2024-08-14 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-17；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $137.5 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -46,11 +46,11 @@ updated: 2026-10-25
 
 - **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 info@infinityhardware.us, sales@infinityhardware.us；主题多为「48 port managed switch、2.5G Ethernet Switch」）；Elsa 群发 BCC 已触达 2026-08-17「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮） 批次 To eletrotecnicasoares@bol.com.br，0 回（第 74 批 Bcc 头核对 msg 1a01030ab6b2fbd1）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加」；研究档 risks：美国关税成本；小型转售商；无 UL；无后续跟进；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To eletrotecnicasoares@bol.com.br）本户见于 2026-08-17 名单；该批次最早 2025-02-26 起共 13 轮，更早轮次 Bcc 未读
 - **现状一句话**：美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。
-- **对方真实需求（有据）**：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明
+- **对方真实需求（有据）**：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明
 - **断点 / 为什么停在这里**：美国关税成本；小型转售商；无 UL；无后续跟进
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）、2024-08-14 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-17；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）、2024-08-14 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-17；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
+  - 第一问（只问一个）：For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $137.5 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -109,8 +109,8 @@ updated: 2026-10-25
 - **近况信号**：
   - 转售 Cisco 工业交换机 → 可用无品牌/中性包装 DIN 工业机作低价替代 SKU 上架；美国客户关注 FCC、关税（301 加征）与无 UL（Saga 仅 CE/FCC/RoHS）
 - **风险/边界**：美国关税成本；小型转售商；无 UL；无后续跟进
-- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明
-- **邮件切入句（英文）**：For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明
+- **邮件切入句（英文）**：For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $137.5 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -183,9 +183,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
+| **P1** | STI-288DGGPM | 深挖对位：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明 | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -236,9 +236,9 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 17 August 2026 - and there was no reason to answer a mass mail. This one is specific. For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 17 August 2026 - and there was no reason to answer a mass mail. This one is specific. For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $137.5 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Cisco class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Cisco class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

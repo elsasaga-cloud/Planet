@@ -36,8 +36,8 @@ updated: 2026-10-25
 - **是谁**：俄罗斯电信设备研发制造商 Zelax（1988 年创于泽列诺格勒；自有生产与研发中心；产品：光复用系统、路由器、交换机（含 ZES-22xx 工业交换机、ZES-20xx/30xx 接入交换机）、复用器、调制解调器、TDMoIP 网关、转换器、SFP 模块；51–200 人；客户为「俄罗斯经济战略性行业的大型企业与政府机构」）。用户表：买了迈威（Maiwe）交换机；17 次跟进 0 回复。制造商自有品牌 + 已从中国厂（Maiwe）采购交换机 → OEM 30% 入口（ZES 工业系列贴牌）；守界：其客户含政府/战略行业，按个案；俄罗斯结算另议。（调研 2026-10-21；表内兴趣：买了迈威的  Switch）
 - **为什么是 B 级**：**调研后定级 B**（在采同类国产工业交换机（迈威）→ 品类对位，但 17 次推送 0 回复，俄罗斯非主攻区 → 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 17 次（2024-05-13 → 2025-11-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2025-10-02 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2025-10-02 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 137,5 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -47,11 +47,11 @@ updated: 2026-10-25
 
 - **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 sales@zelax.ru；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」；Elsa 箱：`to:zelax.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(l)））** ｜ 类型：设备厂商/分销 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「买了迈威的 Switch / 富通天下」；研究档 risks：客户含政府/战略行业（守界按个案）；俄罗斯制裁与结算路径；17 次推送 0 回复；大厂采购流程
 - **现状一句话**：俄罗斯电信设备研发制造商 Zelax（1988 年创于泽列诺格勒；自有生产与研发中心；产品：光复用系统、路由器、交换机（含 ZES-22xx 工业交换机、ZES-20xx/30xx 接入交换机）、复用器、调制解调器、TDMoIP 网关、转换器、SFP 模块；51–200 人；客户为「俄罗斯经济战略性行业的大型企业与政府机构」）。用户表：买了迈威（Maiwe）交换机；17 次跟进 0 回复。制造商自有品牌 + 已从中国厂（Maiwe）采购交换机 → OEM 30% 入口（ZES 工业系列贴牌）；守界：其客户含政府/战略行业，按个案；俄罗斯结算另议。
-- **对方真实需求（有据）**：OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）
+- **对方真实需求（有据）**：OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）
 - **断点 / 为什么停在这里**：客户含政府/战略行业（守界按个案）；俄罗斯制裁与结算路径；17 次推送 0 回复；大厂采购流程
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2025-10-02 $280（10G Enterprise SFP Switch））——OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2025-10-02 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
+  - 第一问（只问一个）：Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 137,5 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@ updated: 2026-10-25
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
-| Zelax | ZES-2220S（ZES-22xx 系列） | 工业交换机（官网；疑外采贴牌） | STI-288GPM（$85.5@30）/ STI-288DGGPM（$151.6@30） | https://www.zelax.ru/products/routers-switches/industrial-switch-zes-22xx/（2026-10-21） |
+| Zelax | ZES-2220S（ZES-22xx 系列） | 工业交换机（官网；疑外采贴牌） | STI-288GPM（$85.5@30）/ STI-288DGGPM（$137.5@30） | https://www.zelax.ru/products/routers-switches/industrial-switch-zes-22xx/（2026-10-21） |
 | Zelax | ZES-20xx / ZES-32xx | 企业局域网接入交换机 | STC-424XGGM（$138.0@30） | https://model.rubytech.ru/vendors/ooo-npp-zelaks/（2026-10-21） |
 | Maiwe 迈威 | （型号未记录） | 用户记录：买了迈威的 Switch | — | （本地 Clients/ 表格，无公开 URL）（2026-10-21） |
 
@@ -124,8 +124,8 @@ updated: 2026-10-25
   - 自有品牌制造商、已外采 Maiwe 交换机 → ZES 系列贴牌第二来源（OEM 30%）
   - 官网售 SFP 模块 → 可配套
 - **风险/边界**：客户含政府/战略行业（守界按个案）；俄罗斯制裁与结算路径；17 次推送 0 回复；大厂采购流程
-- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）
-- **邮件切入句（英文）**：Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）
+- **邮件切入句（英文）**：Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 137,5 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -235,9 +235,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0） | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（设备厂商/分销） |
+| **P1** | STI-288DGGPM | 深挖对位：OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0） | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（设备厂商/分销） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -291,7 +291,7 @@ Hello,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Zelax ZES-20xx / ZES-32xx at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Zelax ZES-20xx / ZES-32xx at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
@@ -302,7 +302,7 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 https://sagatele.com/
 ```
 
-> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
+> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 137,5 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

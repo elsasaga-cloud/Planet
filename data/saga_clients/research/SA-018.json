@@ -55,9 +55,9 @@
  "saga_fit": {
   "p1": "STI-288GP",
   "tier": 20,
-  "why": "分销 20% 档（被动）：STI-288GP（DIN 8 GE PoE+ 2 SFP，$57.4）对应曾谈的工业 FS；管理型 STI-288DGGPM（$139.9）。乌克兰守界：仅在对方来询且用途为民用基础设施时报价"
+  "why": "分销 20% 档（被动）：STI-288GP（DIN 8 GE PoE+ 2 SFP，$57.4）对应曾谈的工业 FS；管理型 STI-288DGGPM（$137.5）。乌克兰守界：仅在对方来询且用途为民用基础设施时报价"
  },
- "email_hook": "（守界：不主动发送；若对方来询——Sergey, for the industrial fibre switch we discussed: DIN-rail 8× GbE PoE+ + 2× SFP at $57.4 EXW, managed L2+ at $139.9; please confirm the civil end-use and delivery route so I can quote shipping.）",
+ "email_hook": "（守界：不主动发送；若对方来询——Sergey, for the industrial fibre switch we discussed: DIN-rail 8× GbE PoE+ + 2× SFP at $57.4 EXW, managed L2+ at $137.5; please confirm the civil end-use and delivery route so I can quote shipping.）",
  "mail_review": {
   "binding": {
    "level": "未绑定（订单意向止于身份追问）——曾递交首张测试订单 BO（2024-11-20；Elsa 箱：`to:germany24.com.ua OR to:planet.kiev.ua` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 4）（第 74 批(k)））",
@@ -75,7 +75,7 @@
   "saga_now": {
    "p1": "BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线",
    "tier": 30,
-   "price": "他见过/自填的价：Simon 2024-05 STI-050FE $25 / 050FE-M $20 / 080FE $40；他 BO 自填 NSI-500F $19 / 800F $24 / 820GP $53 / NSIM-420G $60 / 820G $70 / 820GP $80（2024-11-20）；按 30% 自有标档",
+   "price": "他见过/自填的价：Simon 2024-05 STI-050FE $25 / 050FE-M $20 / 080FE $40；他 BO 自填 NSI-500F $19 / 800F $24 / 820GP $53 / NSIM-420G $60 / 820G $70 / 820GP $80（2024-11-20）；按 30% 自有标档（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
    "why": "J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": [

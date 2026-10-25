@@ -35,8 +35,8 @@ updated: 2026-10-25
 - **是谁**：米兰 San Donato 的工业 IoT/M2M 元器件**分销与技术代表**（个体企业，1 人，2019 年成立、自述 30 年经验；原 L2-Consulting di Luca Sivori 同址）：产品线含 Modbus 数据记录仪、I/O 模块、4G/5G 工业路由器（Wlink）、RFID（Inveo）、串口-以太网转换器、PDU、能量表、**工业以太网交换机**等，代理 egnite、DLM、Infinite 等品牌；「不是电商，是顾问与技术商务支持」。用户表：WhatsApp 已加，13 次跟进 0 回复。（调研 2026-10-21；表内兴趣：工业FS 和Scodeno有合作）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 13 次（2024-05-08 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-10-16 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $137.5 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -48,9 +48,9 @@ updated: 2026-10-25
 - **现状一句话**：米兰 San Donato 的工业 IoT/M2M 元器件**分销与技术代表**（个体企业，1 人，2019 年成立、自述 30 年经验；原 L2-Consulting di Luca Sivori 同址）：产品线含 Modbus 数据记录仪、I/O 模块、4G/5G 工业路由器（Wlink）、RFID（Inveo）、串口-以太网转换器、PDU、能量表、**工业以太网交换机**等，代理 egnite、DLM、Infinite 等品牌；「不是电商，是顾问与技术商务支持」。用户表：WhatsApp 已加，13 次跟进 0 回复。
 - **对方真实需求（有据）**：分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
 - **断点 / 为什么停在这里**：一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-10-16 $280（10G Enterprise SFP Switch））——分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
+  - 第一问（只问一个）：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $137.5 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@ updated: 2026-10-25
   - 目录已有「工业以太网交换机」类目 + 代理模式 → 可作 Saga STI 系列在意大利的技术代表/小分销；配合其 4G 路由器成套
 - **风险/边界**：一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
-- **邮件切入句（英文）**：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
+- **邮件切入句（英文）**：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $137.5 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -233,9 +233,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 深挖对位：分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -286,9 +286,9 @@ updated: 2026-10-25
 ```text
 Hi Luca,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $137.5 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

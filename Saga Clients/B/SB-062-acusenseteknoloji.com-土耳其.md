@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：伊斯坦布尔的 Hikvision 安防产品电商/项目供应商 Acusense Teknoloji（「Hikvision Kamera Sistemleri | Orijinal Ürün」网店；IP 摄像机、NVR、PTZ、高温摄像等项目产品；项目报价表单；+90 216 888 29 34 / +90 542 839 68 98；info@acusenseteknoloji.com）。ISAF 记录：Ümit Çelik——不会英文，找工业级 PoE 交换机，拿了彩页；无后续跟进。（调研 2026-10-21；表内兴趣：不会英文， 找工业级POE交换机 拿了彩页）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$137.5）；网店走量 STC-228GP（$30.8）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@acusenseteknoloji.com（Ümit Çelik） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会英文 → 土耳其语整段发；价与研究档一致，15 天有效）
@@ -45,9 +45,9 @@ updated: 2026-10-25
 
 - **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik」；Elsa 箱：`to:acusenseteknoloji.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik」；研究档 risks：电商比价；语言；无后续跟进
 - **现状一句话**：伊斯坦布尔的 Hikvision 安防产品电商/项目供应商 Acusense Teknoloji（「Hikvision Kamera Sistemleri | Orijinal Ürün」网店；IP 摄像机、NVR、PTZ、高温摄像等项目产品；项目报价表单；+90 216 888 29 34 / +90 542 839 68 98；info@acusenseteknoloji.com）。ISAF 记录：Ümit Çelik——不会英文，找工业级 PoE 交换机，拿了彩页；无后续跟进。
-- **对方真实需求（有据）**：项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）
+- **对方真实需求（有据）**：项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$137.5）；网店走量 STC-228GP（$30.8）
 - **断点 / 为什么停在这里**：电商比价；语言；无后续跟进
-- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$137.5）；网店走量 STC-228GP（$30.8）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@acusenseteknoloji.com（Ümit Çelik）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会英文 → 土耳其语整段发；价与研究档一致，15 天有效）
   - 第一问（只问一个）：Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?
 
@@ -99,7 +99,7 @@ updated: 2026-10-25
 - **近况信号**：
   - Hikvision 项目机型（高温/PTZ）多为工业现场 → 工业 PoE 交换机可作网店新增品类并随项目出货
 - **风险/边界**：电商比价；语言；无后续跟进
-- **Saga 对位结论**：P1 STI-288GP（25% 档）——项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）
+- **Saga 对位结论**：P1 STI-288GP（25% 档）——项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$137.5）；网店走量 STC-228GP（$30.8）
 - **邮件切入句（英文）**：Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -168,10 +168,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 深挖对位：项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8） | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| **P1** | STI-288GP | 深挖对位：项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$137.5）；网店走量 STC-228GP（$30.8） | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 

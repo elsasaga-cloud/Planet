@@ -100,9 +100,9 @@
   "saga_fit": {
     "p1": "STI-288DGGPM",
     "tier": 25,
-    "why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）"
+    "why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$137.5）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）"
   },
-  "email_hook": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?",
+  "email_hook": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $137.5 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?",
   "country_fix": "立陶宛",
   "mail_review": {
     "binding": {
@@ -116,13 +116,13 @@
       "evidence": "gmail_digest：out 0；用户表：「switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/」；研究档 risks：KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
     },
     "situation": "立陶宛最大的工程系统承包集团之一 Energus Group（电气、弱电、过程控制与自动化；150+ 专业人员；Energus Group UAB 2016 年注册（Energus 2010 起），2025 营收 1,295 万欧元、Sodra 员工 109；Savanorių pr. 176C Vilnius；+370 626 99994；uzklausos@energus.eu；零售中心/工业设施电气与自动化、能效）。用户表（PL 群发表）记录：Daniel Suskevic——展会「switch，拿了彩页」；无跟进。国家更正：实为立陶宛（LinkedIn：Daniel Šuškevič，Energus 项目经理（电气/火灾报警/安防报警等系统）；名录显示其现为新公司 Smartion UAB 董事 → 可能已离开 Energus）。立陶宛属不主动开发的小国，但已有接触 → 被动跟进 ",
-    "need": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）",
+    "need": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$137.5）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）",
     "breakpoint": "KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进",
     "saga_now": {
       "p1": "STI-288DGGPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+      "why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$137.5）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）",
       "repeat": [],
       "gaps": []
     },
@@ -130,7 +130,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → info@energus.eu（Daniel Šuškevič）",
       "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-      "one_question": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?"
+      "one_question": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $137.5 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?"
     },
     "facts": [
       {

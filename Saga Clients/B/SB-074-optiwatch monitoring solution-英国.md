@@ -35,8 +35,8 @@ updated: 2026-10-25
 - **是谁**：伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。（调研 2026-10-21；表内兴趣：need PoE switch，千兆，需要报价单 问了PoE距离，重交期，希望2周内基本都能交货）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-13 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W。已打开的主题（2/28 封有打开记录）：「Industrial poe switch」(2024-09-03)、「24 Port Fiber Switch」(2025-03-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-09 $220（48 port managed switch）、2024-11-11 $65（10G Media Converter）；**封顶**：STI-288DGGPM 25% 档 $145.7 高于 2026-06-22 自家列表价 $137.5，信稿按 $137.5 写（规则 ㉔：档位价不得高于自家公开列表价）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$137.5）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W。已打开的主题（2/28 封有打开记录）：「Industrial poe switch」(2024-09-03)、「24 Port Fiber Switch」(2025-03-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-09 $220（48 port managed switch）、2024-11-11 $65（10G Media Converter）；**封顶**：STI-288DGGPM 25% 档 $145.7 高于 2026-06-22 自家列表价 $137.5，信稿按 $137.5 写（规则 ㉔：档位价不得高于自家公开列表价）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $137.5; do your towers run 48 V or 24 V DC inside?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2026-11 A 邮箱 → muhassin@optiwatchgroup.com 短信一问（email_hook）
 
@@ -46,11 +46,11 @@ updated: 2026-10-25
 
 - **绑定等级：读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 muhassin@optiwatchgroup.com, shiffin@optiwatchgroup.com；被打开主题「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:optiwatchgroup.com OR to:optimumgroupcompanies.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(j)））** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：UK 主攻（四主） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：多采用整套移动监控塔（第三方整机）；17 次推送 0 回复
 - **现状一句话**：伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。
-- **对方真实需求（有据）**：终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W
+- **对方真实需求（有据）**：终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$137.5）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W
 - **断点 / 为什么停在这里**：多采用整套移动监控塔（第三方整机）；17 次推送 0 回复
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-09 $220（48 port managed switch）、2024-11-11 $65（10G Media Converter）；**封顶**：STI-288DGGPM 25% 档 $145.7 高于 2026-06-22 自家列表价 $137.5，信稿按 $137.5 写（规则 ㉔：档位价不得高于自家公开列表价）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch））——终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W。已打开的主题（2/28 封有打开记录）：「Industrial poe switch」(2024-09-03)、「24 Port Fiber Switch」(2025-03-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-09 $220（48 port managed switch）、2024-11-11 $65（10G Media Converter）；**封顶**：STI-288DGGPM 25% 档 $145.7 高于 2026-06-22 自家列表价 $137.5，信稿按 $137.5 写（规则 ㉔：档位价不得高于自家公开列表价）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$137.5）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W。已打开的主题（2/28 封有打开记录）：「Industrial poe switch」(2024-09-03)、「24 Port Fiber Switch」(2025-03-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → muhassin@optiwatchgroup.com　短信一问（email_hook）
-  - 第一问（只问一个）：For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?
+  - 第一问（只问一个）：For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $137.5; do your towers run 48 V or 24 V DC inside?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@ updated: 2026-10-25
 - **近况信号**：
   - 工地监控塔/柜户外部署、4G 回传 → 每套 1 台宽温 DIN PoE 交换机（4–8 口）；自营服务商，设备自购自用、重复采购
 - **风险/边界**：多采用整套移动监控塔（第三方整机）；17 次推送 0 回复
-- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$137.5）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W
 - **邮件切入句（英文）**：For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
@@ -224,9 +224,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
+| **P1** | STI-288DGGPM | 深挖对位：终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$137.5）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 

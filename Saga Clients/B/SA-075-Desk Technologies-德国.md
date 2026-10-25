@@ -36,8 +36,8 @@ updated: 2026-10-25
 - **是谁**：德国卡尔斯鲁厄的安保服务 + 安防技术公司 DESK Sicherheit GmbH（2017-02 以 UG 注册、2022-12 转 GmbH，注册资本 €25,000；HRB 717686；CEO Daniel Salim Rupp，前联邦国防军；业务：安保勤务、视频监控/AI 视频分析、安防技术、无人机巡检与反无人机、物理渗透测试；自称服务数据中心、银行与集团客户，网店 shop.desk-sicherheit.de）。展会（埃森 2024）记录：CEO 直接沟通，与当地警方有项目联系，关注 IP67 户外交换机（布线 60–80 m），曾被报 $80/台，问 OEM 与样品；7 次推送 0 回复。Saga 无 IP67 机型——仅在需求转为机柜/IP40 DIN 工业 PoE 时重启。（调研 2026-10-21；表内兴趣：和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67）
 - **为什么是 B 级**：**调研后定级 B**（核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。）；自动分级 A：+10 谈到样品/测样；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-04-14 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$137.5）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $137.5 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -47,11 +47,11 @@ updated: 2026-10-25
 
 - **绑定等级：未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 dr@desk-sicherheit.de；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 desk-sicherheit.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(f)））** ｜ 类型：安防集成/项目商 ｜ 筛子：1（只收到群发） ｜ 停点：15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 15；用户表：「和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67」；研究档 risks：Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复
 - **现状一句话**：德国卡尔斯鲁厄的安保服务 + 安防技术公司 DESK Sicherheit GmbH（2017-02 以 UG 注册、2022-12 转 GmbH，注册资本 €25,000；HRB 717686；CEO Daniel Salim Rupp，前联邦国防军；业务：安保勤务、视频监控/AI 视频分析、安防技术、无人机巡检与反无人机、物理渗透测试；自称服务数据中心、银行与集团客户，网店 shop.desk-sicherheit.de）。展会（埃森 2024）记录：CEO 直接沟通，与当地警方有项目联系，关注 IP67 户外交换机（布线 60–80 m），曾被报 $80/台，问 OEM 与样品；7 次推送 0 回复。Saga 无 IP67 机型——仅在需求转为机柜/IP40 DIN 工业 PoE 时重启。
-- **对方真实需求（有据）**：项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67
+- **对方真实需求（有据）**：项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$137.5）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67
 - **断点 / 为什么停在这里**：Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$137.5）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
+  - 第一问（只问一个）：Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $137.5 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -124,8 +124,8 @@ updated: 2026-10-25
   - 项目型采购（警方/数据中心周界）→ 户外柜 DIN 工业 PoE（IP40）+ 户外防水箱方案可替代 IP67 需求
   - 曾问 OEM 与样品 → 对贴牌开放
 - **风险/边界**：Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复
-- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67
-- **邮件切入句（英文）**：Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$137.5）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67
+- **邮件切入句（英文）**：Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $137.5 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -229,9 +229,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67 | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/项目商） |
+| **P1** | STI-288DGGPM | 深挖对位：项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$137.5）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67 | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/项目商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -282,9 +282,9 @@ updated: 2026-10-25
 ```text
 Hi Daniel,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $137.5 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

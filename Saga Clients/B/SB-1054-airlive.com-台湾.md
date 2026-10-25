@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：台湾鑫志科技 AirLive Technology（网络品牌：Wi-Fi 6 Mesh / 管理交换机 / 5G / XGPON；站内工业 PoE 型号 IGM-1484POE-2、IGM-1082BT-2、IGM-14104BT-2，PoE 词频 481、2.5G 171、10G 135；表内「工业 FS / MC / SFP，自己的牌子」；KP John Lai（john.lai@））；群发 19 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 自己的牌子）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-01-02 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（8/24 封有打开记录）：「Power Converter」(2024-11-26)、「16 Port Ethernet Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-02-21)、「Industrial PoE Switch」(2025-08-22) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $65（10G media converter）、2024-11-01 $300（48 Port PoE Managed Switch）、2025-01-10 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-23 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（8/24 封有打开记录）：「Power Converter」(2024-11-26)、「16 Port Ethernet Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-02-21)、「Industrial PoE Switch」(2025-08-22) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $65（10G media converter）、2024-11-01 $300（48 Port PoE Managed Switch）、2025-01-10 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-23 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM / STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $65（10G media converter）、2024-11-01 $300（48 Port PoE Managed Switch）、2025-01-10 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-23 $280（10G Enterprise SFP Switch））——已打开的主题（8/24 封有打开记录）：「Power Converter」(2024-11-26)、「16 Port Ethernet Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-02-21)、「Industrial PoE Switch」(2025-08-22) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $65（10G media converter）、2024-11-01 $300（48 Port PoE Managed Switch）、2025-01-10 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-23 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM / STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——已打开的主题（8/24 封有打开记录）：「Power Converter」(2024-11-26)、「16 Port Ethernet Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-02-21)、「Industrial PoE Switch」(2025-08-22) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -108,7 +108,7 @@ updated: 2026-10-25
   - 官网产品页 /en/product/sr/SMB/PoE-Switch、/Industrial-Switch、/10G-Switch(NON-POE)
   - 站内型号 IGM-1484POE-2、IGM-1082BT-2、IGM-14104BT-2
 - **风险/边界**：台湾品牌商：已有自有 ODM 体系，Saga 只能做二供/补缺型号；群发 19 次无回复；2.5G / 10G 多千兆线 Saga 无标准型
-- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——自有品牌工业 PoE（IGM-1082BT-2 = 8 PoE++ + 2 SFP）→ 工业 L2+ 8 PoE + 2×2.5G SFP STI-288DGGPM（$151.6 @30%）/ -2BT 版（$171.0）；多千兆位 Saga 无 2.5G 全端口标准型
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——自有品牌工业 PoE（IGM-1082BT-2 = 8 PoE++ + 2 SFP）→ 工业 L2+ 8 PoE + 2×2.5G SFP STI-288DGGPM（$137.5 @30%）/ -2BT 版（$154.0）；多千兆位 Saga 无 2.5G 全端口标准型
 - **邮件切入句（英文）**：John, for the IGM-series industrial PoE switches, we can supply Marvell-based DIN-rail L2+ 8-PoE++ + 2 SFP units (BT 90 W option, −40~75 °C) built to your spec from small lots — would a second-source quotation on the 8-port BT model be useful?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -223,9 +223,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：自有品牌工业 PoE（IGM-1082BT-2 = 8 PoE++ + 2 SFP）→ 工业 L2+ 8 PoE + 2×2.5G SFP STI-288DGGPM（$151.6 @30%）/ -2BT 版（$171.0）；多千兆位 Saga 无 2.5G 全端口标准型 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（台湾品牌商（按「台湾厂商口径」只谈 OEM/ODM）） |
+| **P1** | STI-288DGGPM | 深挖对位：自有品牌工业 PoE（IGM-1082BT-2 = 8 PoE++ + 2 SFP）→ 工业 L2+ 8 PoE + 2×2.5G SFP STI-288DGGPM（$137.5 @30%）/ -2BT 版（$154.0）；多千兆位 Saga 无 2.5G 全端口标准型 | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（台湾品牌商（按「台湾厂商口径」只谈 OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -278,7 +278,7 @@ Hi John,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the IGM-series industrial PoE switches, we can supply Marvell-based DIN-rail L2+ 8-PoE++ + 2 SFP units (BT 90 W option, −40~75 °C) built to your spec from small lots — would a second-source quotation on the 8-port BT model be useful?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

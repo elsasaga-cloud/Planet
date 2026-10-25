@@ -228,6 +228,20 @@ def hrui_price(model, tier):
     return v, f'洪瑞 2026-09-30 成本 + {tier}%（列表价 ${t.get("list")} 隐含加价低于底线，第 73 批口径）'
 
 
+def tier_price(r, tier):
+    """SmartByte 档位价 → (价, 是否封顶)。规则 ㉕：任何数不得高于 2026-06 Saga 列表价（2.5G-SFP 工业 DGG 家族等
+    档位价已高于列表价的型号按列表价封顶）。"""
+    col = {20: 'USD@+20%', 25: 'USD@+25%', 30: 'USD@+30%'}[tier]
+    v = float(r[col])
+    try:
+        lst = float(r.get('Saga列表价USD') or 0)
+    except ValueError:
+        lst = 0
+    if lst and v > lst:
+        return f'{lst:g}' if lst != int(lst) else f'{lst:.1f}', True
+    return r[col], False
+
+
 def price_line(model, tier):
     r = PRICES.get(model)
     if not r:
@@ -239,6 +253,13 @@ def price_line(model, tier):
             return f"${a[0]} USD EXW（Saga 对外列表价，{a[1]}，见 data/{a[2]}；非 SmartByte 加价公式，报价前核价）"
         return '价格待核（价格主表无此型号）'
     col = {20: 'USD@+20%', 25: 'USD@+25%', 30: 'USD@+30%'}[tier]
+    if model in ELSA_LIVE_NOW:
+        return (f"${ELSA_LIVE_NOW[model]} USD EXW（㉕ ② 群发现价（群发价台账），{tier}% 档公式为 ${r[col]}——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；"
+                f"汇率快照 {r['汇率日期']}，15 天有效，报价前核价）")
+    v, capped = tier_price(r, tier)
+    if capped:
+        return (f"${v} USD EXW（㉕ 封顶：{tier}% 档 ${r[col]} 高于 2026-06 Saga 列表价 ${v}，按列表价；"
+                f"SmartByte {r['SmartByte型号']} {r['CNY未税']} CNY，汇率快照 {r['汇率日期']}，15 天有效，报价前核价）")
     return (f"${r[col]} USD EXW（{tier}% 档，SmartByte {r['SmartByte型号']} {r['CNY未税']} CNY × {1 + tier / 100:.2f} ÷ {r['汇率']}，"
             f"汇率快照 {r['汇率日期']}，15 天有效，报价前核价）")
 
@@ -832,7 +853,8 @@ ELSA_SEEN = {  # 群发主题 → (型号, 稿内价)
     '10G Enterprise SFP Switch': ('STC-4168XGGCM', 280),
     '24 Port Fiber Switch': ('STC-4168XGGCM', 240),
 }
-ELSA_LIVE = {'STC-424XGGPM-280W': 180, 'STC-448XGGPM': 335, 'STC-4168XGGCM': 280}  # 群发价台账「现价」
+ELSA_LIVE = {'STC-424XGGPM-280W': 180, 'STC-448XGGPM': 335, 'STC-4168XGGCM': 300}  # 同款见过群发价的户：4168 群发 $280（2025-09→2026-05，≈进价）已停，按 FX 7.2→6.7 写 $300（SB-973 口径）
+ELSA_LIVE_NOW = {'STC-424XGGPM-280W': 180, 'STC-448XGGPM': 335}  # 仍在发 / 现行对外价：没见过群发的户也不高于它（㉕ ②）
 
 
 def elsa_touch(ent):
@@ -934,7 +956,8 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     r = PRICES.get(p1)
     col = {20: 'USD@+20%', 25: 'USD@+25%', 30: 'USD@+30%'}[tier]
     if r:
-        price = f"${r[col]} USD EXW (price snapshot {r['汇率日期']}, valid 15 days)"
+        _v, _capped = tier_price(r, tier)
+        price = f"${_v} USD EXW (price snapshot {r['汇率日期']}, valid 15 days)"
     elif hrui_price(p1, tier):
         price = f"${hrui_price(p1, tier)[0]} USD EXW (valid 15 days)"
     elif ALT_PRICES.get(p1):
@@ -976,10 +999,12 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
         seen_pr, seen_d = et[3][p1]
         live = ELSA_LIVE.get(p1)
         if live and live > seen_pr:
-            why_fx = ' - the difference is the CNY/USD move from 7.2 to 6.7' if p1 in ('STC-424XGGPM-280W', 'STC-448XGGPM') else ''
+            why_fx = ' - the difference is the CNY/USD move from 7.2 to 6.7' if p1 in ('STC-424XGGPM-280W', 'STC-448XGGPM', 'STC-4168XGGCM') else ''
             price = (f'${live} USD EXW (MOQ 1, 15-day validity; our {seen_d[:7]} mail showed ${seen_pr}{why_fx})')
         elif live:
             price = f'${live} USD EXW (same as the ${seen_pr} you saw in our {seen_d[:7]} mail; MOQ 1, 15-day validity)'
+    elif ELSA_LIVE_NOW.get(p1) and not (isinstance(_snp, str) and re.search(r'锚价[：:]?\s*' + re.escape(p1), _snp)):
+        price = f'${ELSA_LIVE_NOW[p1]} USD EXW (MOQ 1, 15-day validity)'   # ㉕ ②：该型号的群发现价高于一切档位公式
     rs = ent.get('research') or {}
     _en_brand = {'迈威': 'Maiwe', '海康': 'Hikvision', '大华': 'Dahua', '华为': 'Huawei'}
     _never_name = {'洪瑞', 'HRUI', 'SmartByte', 'Smartbyte', 'Hohunet', '中科德能', '宇航'}  # 自家供应商名不进对外文案

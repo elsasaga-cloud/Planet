@@ -34,8 +34,8 @@ updated: 2026-10-25
 - **是谁**：土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。（调研 2026-10-21；表内兴趣：拿了彩页，没做交谈(邮箱可和客户再确认一遍））
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 137,5 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：待 Simon 排期（首封） A 邮箱 → sclcule.o@camsanordu.com 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
 
@@ -45,11 +45,11 @@ updated: 2026-10-25
 
 - **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com」；Elsa 箱：`to:camsanordu.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com」；研究档 risks：终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈
 - **现状一句话**：土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。
-- **对方真实需求（有据）**：终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
+- **对方真实需求（有据）**：终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
 - **断点 / 为什么停在这里**：终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit））——终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → sclcule.o@camsanordu.com　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
-  - 第一问（只问一个）：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
+  - 第一问（只问一个）：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 137,5 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -106,8 +106,8 @@ updated: 2026-10-25
   - 大型木业工厂（粉尘/宽温/长距离光纤）= 工业 DIN 交换机与 MC 的典型自用场景；MDF3 新线 = 新建网络点位
   - 工厂采购走 IT/电气部门 → 需先确认联系人
 - **风险/边界**：终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈
-- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
-- **邮件切入句（英文）**：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
+- **邮件切入句（英文）**：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 137,5 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -173,9 +173,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 深挖对位：终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3） | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -229,7 +229,7 @@ Hello,
 
 We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.
 
-Following the brochure you picked up: for the production lines at the Ordu plant we supply a DIN-rail industrial switch, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, fanless (dusty environment), -40 to 75 C, model STI-288DGGPM - $145.7 USD EXW (MOQ 1, 15-day validity). CE/RoHS, 3-year warranty with our DIN power supply.
+Following the brochure you picked up: for the production lines at the Ordu plant we supply a DIN-rail industrial switch, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, fanless (dusty environment), -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). CE/RoHS, 3-year warranty with our DIN power supply.
 
 One question: who in the plant IT / electrical team should I send this to?
 
@@ -240,7 +240,7 @@ Saga Telecom - sagatele.com
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
-> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 137,5 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
 
 ## 新跟进记录（仓库外发出后补）
 

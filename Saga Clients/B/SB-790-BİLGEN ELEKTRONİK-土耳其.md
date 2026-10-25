@@ -34,8 +34,8 @@ updated: 2026-10-25
 - **是谁**：ISAF 记录：İbrahim（Bilgen Elektronik，无邮箱/域名）——Ady 加了 WhatsApp；问了 2 光 8 电带 bypass，问了 PoE 功率；无后续跟进。仅表内信息。需求映射：2 光 8 电 bypass 工业机 Saga 无（bypass 仅 4 SFP 版 SmartByte LT-IS6312GP-4GX8GT-FBP）→ 主推非 bypass STI-288DGGPM，bypass 以 SmartByte 型号注明。（调研 2026-10-21；表内兴趣：Ady加了WhatsApp  问了2光8带bypass, 问了POE功率）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；-8 无邮箱，仅电话/WhatsApp；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$145.7）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 145,7 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
+- **第一问（只问一个）**：İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
@@ -45,11 +45,11 @@ updated: 2026-10-25
 
 - **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；研究档 risks：无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进
 - **现状一句话**：ISAF 记录：İbrahim（Bilgen Elektronik，无邮箱/域名）——Ady 加了 WhatsApp；问了 2 光 8 电带 bypass，问了 PoE 功率；无后续跟进。仅表内信息。需求映射：2 光 8 电 bypass 工业机 Saga 无（bypass 仅 4 SFP 版 SmartByte LT-IS6312GP-4GX8GT-FBP）→ 主推非 bypass STI-288DGGPM，bypass 以 SmartByte 型号注明。
-- **对方真实需求（有据）**：工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$145.7）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）
+- **对方真实需求（有据）**：工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）
 - **断点 / 为什么停在这里**：无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit））——工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$145.7）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）
 - **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
-  - 第一问（只问一个）：İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 145,7 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?
+  - 第一问（只问一个）：İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -95,8 +95,8 @@ updated: 2026-10-25
 - **近况信号**：
   - 问 bypass + PoE 功率 → 有具体工程；WhatsApp 直达
 - **风险/边界**：无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进
-- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$145.7）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）
-- **邮件切入句（英文）**：İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 145,7 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）
+- **邮件切入句（英文）**：İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -133,9 +133,9 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$145.7）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 深挖对位：工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号） | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -185,7 +185,7 @@ updated: 2026-10-25
 **主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 145,7 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?
+İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

@@ -77,7 +77,7 @@
  "saga_fit": {
   "p1": "STC-424XGGPM-280W",
   "tier": 30,
-  "why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配"
+  "why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配"
  },
  "email_hook": "Todd, for the Mako-branded managed switch line, we can be a second ODM source on a Marvell L2+ platform (24-GE/PoE + 4×10G, 48-port) from small lots, with SNMP/CLI access for your CMS integration — would your team evaluate a sample unit?",
  "mail_review": {
@@ -92,13 +92,13 @@
    "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「管理FS(大口的) 他们自己的logo」；研究档 risks：云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+；Elsa 箱 to/bcc:makonetworks.com = 0（第 73 批(o) 连接器核对，含 spam/trash）→ 「群发里他已看到的价」只来自 S/A 箱"
   },
   "situation": "美国 Mako Networks（网络管理公司：PCI DSS 安全、SASE SD-WAN、云管理 CMS；自有 Mako 设备线含 CMS 管理型交换机（2020 发布）、安全网关、VPN 集中器；行业含工业制造；表内「管理 FS（大口的），他们自己的 logo」；KP Todd Vojta（toddv@））；群发 20 次无回复。",
-  "need": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配",
+  "need": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配",
   "breakpoint": "云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+",
   "saga_now": {
    "p1": "STC-424XGGPM-280W",
    "tier": 30,
-   "price": "换人再触锚价 STC-424XGGPM-280W $180 EXW（现价轮群发 $180（㉕②）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
-   "why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配。已打开的主题（1/23 封有打开记录）：「24 Port Fiber Switch」(2025-07-21) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+   "price": "换人再触锚价 STC-424XGGPM-280W $180 EXW（现价轮群发 $180（㉕②）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+   "why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配。已打开的主题（1/23 封有打开记录）：「24 Port Fiber Switch」(2025-07-21) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },

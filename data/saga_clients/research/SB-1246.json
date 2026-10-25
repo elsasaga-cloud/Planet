@@ -102,7 +102,7 @@
     {
       "brand": "PLANET",
       "model": "GS-4210-48T4S",
-      "spec": "48×GE + 4×SFP L2+ 管理（CAD$593.14 快照；商品页已 301 → GWN7806P）vs Saga $236.8 EXW",
+      "spec": "48×GE + 4×SFP L2+ 管理（CAD$593.14 快照；商品页已 301 → GWN7806P）vs Saga $220.0 EXW",
       "saga": "STC-448DGGM",
       "url": "https://solimedia.net",
       "date": "2026-10-19"
@@ -176,7 +176,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-10-05 $180（24 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-10-05 $180（24 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STC-448DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
       "why": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需。已打开的主题（1/3 封有打开记录）：「8 Port Industrial PoE Switch」(2025-01-20) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

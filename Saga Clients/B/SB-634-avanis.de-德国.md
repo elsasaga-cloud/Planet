@@ -211,10 +211,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448XGGPM | 深挖对位：在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线 | $349.4 USD EXW（25% 档，SmartByte LT-S8352XGP-4XS48GT 1870 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（网络/WLAN 系统集成商（德国，Edgecore 在用）） |
+| **P1** | STC-448XGGPM | 深挖对位：在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线 | $335 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $349.4——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（网络/WLAN 系统集成商（德国，Edgecore 在用）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -267,7 +267,7 @@ Hi Thomas,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to the Edgecore ECS4650-54P access switches in your projects, we supply Marvell-based 24/48-PoE + 4×10G L2+ switches with SNMP/CLI management from small lots, CE/RoHS, neutral packing — would a budget alternative be useful for your next hospital or campus rollout?
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (440 W) - model STC-448XGGPM - that fits the same slot as your Edgecore ECS4650-54P at a lower landed cost, and we can ship it with neutral packaging. Current price: $349.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (440 W) - model STC-448XGGPM - that fits the same slot as your Edgecore ECS4650-54P at a lower landed cost, and we can ship it with neutral packaging. Current price: $335 USD EXW (MOQ 1, 15-day validity).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

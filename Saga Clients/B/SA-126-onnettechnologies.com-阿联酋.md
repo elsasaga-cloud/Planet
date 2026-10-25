@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **是谁**：阿联酋阿治曼 **本土电信产品制造商**（2012 年，11–50 人，TDRA 认证）：运营商级长距无线、**大功率工业 PoE 交换机 / PoE 延长器**、室外 UPS、太阳能通信系统、CCTV 杆 / 智慧灯杆、「Magic Box」一体化 PoE 箱；负责人 Piyush Shah。表内 Saurabh「老说价格高、了解中国市场价、与中国供应商长期合作」，2025-04 问 Bypass 工业机「用常见的几个型号」= 自有品牌 OEM 采购方。（调研 2026-10-21；表内兴趣：老说价格高 比较了解中国市场价 和中国供应商长期合作）
 - **为什么是 B 级**：**调研后定级 B**（纯价格导向且已有中国直采渠道，Saga 贸易商加价结构无优势；中东非主攻区 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-04-25 → 2025-04-25）；最近一次客户回复：2025-04-25：用常见的几个型号
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给 — Simon 口径优先；证据只用于将来复议。已打开的主题（4/7 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-25)、「Re: Managed Optical Bypass Switch」(2025-04-25)、「Saga Q3 Product Links」(2026-07-15)、「24 Port PoE Managed Switch」(2026-08-10) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按 30% OEM 档；预期被砍价；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给 — Simon 口径优先；证据只用于将来复议。已打开的主题（4/7 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-25)、「Re: Managed Optical Bypass Switch」(2025-04-25)、「Saga Q3 Product Links」(2026-07-15)、「24 Port PoE Managed Switch」(2026-08-10) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按 30% OEM 档；预期被砍价；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Which of your six configurations is this year's volume SKU, so we quote that one first?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：按 Simon 口径不动 A 邮箱 → piyush@onnettechnologies.com（Piyush S. Shah） 若动：只答 08-10 六个配置中的 2–3 个有现货对位的
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **现状一句话**：Saurabh 是 A 邮箱里少见的「来信比去信实在」的客户：2025-04 列出在用 4 款（4G BT+2SFP 管理、8G AT+2SFP 管理、8G+4SFP 管理、4G+1GE+2SFP 非管理，带 PoE 自动重启、250 m），2026-07/08 又列 6 个配置要规格价。Saga 两次都没有对位答复。Simon 对其定性「老说价格高、了解中国市场价」，决定不投入——与证据一致的是他确实只买 OEM、比价成熟；不一致的是他要的恰好是 Saga 工业线的标准品。
 - **对方真实需求（有据）**：4/8/16 口工业 PoE（30W / BT），2×SFP 上联，管理 + 非管理，PoE watchdog + 250 m DIP，Booster（10–30V 入 PoE 出）。
 - **断点 / 为什么停在这里**：不是对方没需求，是 Saga 选择不投入（战略取舍）。记录在案，不改 Simon 口径。
-- **Saga 现在该推什么**：P1 **（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给**（30% 档，按 30% OEM 档；预期被砍价；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——Simon 口径优先；证据只用于将来复议。已打开的主题（4/7 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-25)、「Re: Managed Optical Bypass Switch」(2025-04-25)、「Saga Q3 Product Links」(2026-07-15)、「24 Port PoE Managed Switch」(2026-08-10) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给**（30% 档，按 30% OEM 档；预期被砍价；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——Simon 口径优先；证据只用于将来复议。已打开的主题（4/7 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-25)、「Re: Managed Optical Bypass Switch」(2025-04-25)、「Saga Q3 Product Links」(2026-07-15)、「24 Port PoE Managed Switch」(2026-08-10) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
   - 做不了 / 要先核的：Simon 是否维持「不投入」——不问，按现口径
 - **下一步（具体）**：按 Simon 口径不动　A 邮箱 → piyush@onnettechnologies.com（Piyush S. Shah）　若动：只答 08-10 六个配置中的 2–3 个有现货对位的
   - 第一问（只问一个）：Which of your six configurations is this year's volume SKU, so we quote that one first?
@@ -129,7 +129,7 @@ updated: 2026-10-25
   - 2025-04 主动问 bypass 工业机（Saga 有 SmartByte FBP 款）
   - TDRA 认证 + Hikvision 方案伙伴 → 项目量稳定
 - **风险/边界**：价格极敏感（熟悉中国出厂价）→ 以 Marvell 芯片 / bypass / BT 大功率差异化，不拼最低价；现有供应商关系稳固，切换成本
-- **Saga 对位结论**：P1 STI-288DGGPM-2BT（30% 档）——OTAI 自有品牌「大功率工业 PoE」→ Saga STI-288DGGPM-2BT（2×90W BT + 6×30W + 2 SFP 管理，$157.8/164.4/171.0）贴牌；bypass 需求对 SmartByte LT-IS6312GP-4GX8GT-FBP（$186.5/194.3/202.1，注明 SmartByte 型号）。
+- **Saga 对位结论**：P1 STI-288DGGPM-2BT（30% 档）——OTAI 自有品牌「大功率工业 PoE」→ Saga STI-288DGGPM-2BT（2×90W BT + 6×30W + 2 SFP 管理，$154.0（列表价封顶））贴牌；bypass 需求对 SmartByte LT-IS6312GP-4GX8GT-FBP（$186.5/194.3/202.1，注明 SmartByte 型号）。
 - **邮件切入句（英文）**：Saurabh, for the OTAI high-power industrial PoE line — our 8-port unit gives 2×90 W (bt) + 6×30 W with 2 SFP and an optional fibre-bypass variant, neutral or OTAI-branded from small lots; which exact spec is your current supplier shipping, so I quote like-for-like EXW?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
@@ -204,10 +204,10 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM-2BT | 深挖对位：OTAI 自有品牌「大功率工业 PoE」→ Saga STI-288DGGPM-2BT（2×90W BT + 6×30W + 2 SFP 管理，$157.8/164.4/171.0）贴牌；bypass 需求对 SmartByte LT-IS6312GP-4GX8GT-FBP（$186.5/194.3/202.1，注明 SmartByte 型号）。 | $171.0 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（IT 贸易商） |
+| **P1** | STI-288DGGPM-2BT | 深挖对位：OTAI 自有品牌「大功率工业 PoE」→ Saga STI-288DGGPM-2BT（2×90W BT + 6×30W + 2 SFP 管理，$154.0（列表价封顶））贴牌；bypass 需求对 SmartByte LT-IS6312GP-4GX8GT-FBP（$186.5/194.3/202.1，注明 SmartByte 型号）。 | $154.0 USD EXW（㉕ 封顶：30% 档 $171.0 高于 2026-06 Saga 列表价 $154.0，按列表价；SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（IT 贸易商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -261,7 +261,7 @@ Hi Saurabh,
 
 Picking up our earlier exchange about PoE / industrial switches. For the OTAI high-power industrial PoE line — our 8-port unit gives 2×90 W (bt) + 6×30 W with 2 SFP and an optional fibre-bypass variant, neutral or OTAI-branded from small lots; which exact spec is your current supplier shipping, so I quote like-for-like EXW?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ (2x 90 W bt) plus 2x 2.5G SFP - model STI-288DGGPM-2BT - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $171.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ (2x 90 W bt) plus 2x 2.5G SFP - model STI-288DGGPM-2BT - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $154.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

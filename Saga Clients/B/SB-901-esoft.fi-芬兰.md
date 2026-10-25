@@ -114,7 +114,7 @@ updated: 2026-10-25
   - 欧洲主攻区、无互动 → 首触点
 - **风险/边界**：HRUI 线同源无价差；要以 SmartByte（Marvell）工业管理线切入；网店对 MOQ 1 / 小批量友好，但价格透明
 - **Saga 对位结论**：P1 STI-288GP（20% 档）——其「Industrial PoE」品类 104 件 = 核心货架；Saga 工业 8 PoE + 2 SFP STI-288GP（$57.4/59.8/62.2）与管理版 STI-288GPM 可直接上架；L3 24+4×10G 对位 STC-424XGGM(L3)。
-- **邮件切入句（英文）**：Your Industrial PoE category already runs to 100+ SKUs — we build Marvell-based DIN-rail PoE switches (8 PoE + 2 SFP, managed or unmanaged) in neutral packing, 1-pc MOQ; which price point in that category is currently hardest for you to fill?
+- **邮件切入句（英文）**：Your Industrial PoE category already runs to 100+ SKUs — we build DIN-rail PoE switches (8 PoE + 2 SFP, managed on a Marvell platform or unmanaged) in neutral packing, 1-pc MOQ; which price point in that category is currently hardest for you to fill?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -181,8 +181,8 @@ updated: 2026-10-25
 |---|---|---|---|---|
 | **P1** | STI-288GP | 深挖对位：其「Industrial PoE」品类 104 件 = 核心货架；Saga 工业 8 PoE + 2 SFP STI-288GP（$57.4/59.8/62.2）与管理版 STI-288GPM 可直接上架；L3 24+4×10G 对位 STC-424XGGM(L3)。 | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -233,7 +233,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your Industrial PoE category already runs to 100+ SKUs — we build Marvell-based DIN-rail PoE switches (8 PoE + 2 SFP, managed or unmanaged) in neutral packing, 1-pc MOQ; which price point in that category is currently hardest for you to fill?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your Industrial PoE category already runs to 100+ SKUs — we build DIN-rail PoE switches (8 PoE + 2 SFP, managed on a Marvell platform or unmanaged) in neutral packing, 1-pc MOQ; which price point in that category is currently hardest for you to fill?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as your HRUI HR901-AF-821GNS at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
