@@ -19334,7 +19334,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → info@fcnet.pl",
-"action": "一句话问管理型 PoE 的来源",
+"action": "一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
 "one_question": "For managed PoE switches (not MC), who is your current source and what is the gap you would switch for? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -19364,7 +19364,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Not the media converter again - where do your managed PoE switches come from?",
+"body": "Hello FCNET team,\n\nIn April 2025 you told us a competitor had a much better price on the 10G media converter - fair, converters are the most price-driven item we carry, and we did not argue. The mails since were general product mails; no reason to answer those.\n\nWhere we are usually worth a look is the managed PoE switch against the TL-SG2428P / TL-SG2210MP price points on fcnet.pl, under your own label: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $134.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP - STC-28DGGPM - $80.7.\n\nOne question: where do your managed PoE switches come from today - a brand, or an own-label source?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -19901,7 +19904,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）",
-"action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；信里写「datasheet on request」而非 attached）",
 "one_question": "For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -19942,7 +19945,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 1 轮、0 回），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "The 1-fibre + 4-copper industrial PoE you were pricing - our number, with datasheet",
+"body": "Hi Paul,\n\nYou were pricing a 1-fibre + 4-copper industrial PoE switch and had two quotes already; here is ours to line up against them: DIN-rail 4 x Gigabit PoE+ + 1 x SFP, unmanaged, 44-57 V DC, -40 to 75 C, CE/RoHS - model STI-144GP - $34.1 USD EXW at distributor price (MOQ 1, 15-day validity). Datasheet goes with this mail on request - say the word and it follows in the same thread.\n\nOne question: for the mining and pumping sites you supply, is the 4-port unit going into existing cabinets with 48 V available, or do you need the version with a wide 12-58 V input?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -22230,7 +22236,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → master@gtwave.co.kr（Moonsoo Park）",
-"action": "一句话问 PoE 线外采情况",
+"action": "一句话问 PoE 线外采情况（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
 "one_question": "Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -22244,7 +22250,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "From Saga Telecom (we sent the catalogue in April 2025) - your iG8P-2SMB footprint",
+"body": "Dear Mr. Park,\n\nIn April 2025 you asked who we are and for a catalogue; Alan sent both the next day and we did not hear back - the mail probably arrived without a clear sender context, so once more: Saga Telecom, Shenzhen, switches on Marvell silicon for brand owners, small lots.\n\nYour iG8P-2SMB - 8 x Gigabit PoE + 2 x SFP, ring, dual DC - maps one-to-one onto our industrial unit: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, dual DC input, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW in GT-Wave packing (MOQ 1, 15-day validity); the commercial 8-port class next to your GT8P - STC-28DGGPM - $87.4. KC stays on your side.\n\nOne question: is the PoE switch line bought in today, and from a Hisilicon-based source as before?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -27077,7 +27086,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → zakaz@",
-"action": "问付款通道 + 首批 SKU",
+"action": "问付款通道 + 首批 SKU（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
 "one_question": "For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?"
 },
 "facts": [
@@ -27099,7 +27108,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "After the price list in January - the first SKU and the payment route",
+"body": "Hello SVN team,\n\nIn January you asked for our PoE switch and accessories price list and we sent it; the question we asked back (accessories = optics and power supplies?) stayed open, and so did everything else.\n\nYour SVN-POE812 and POE1612 are Fast Ethernet units. A gigabit top SKU for 4K cameras in SVN packing: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1 for a trial batch, 15-day validity). CE/RoHS files supplied; EAC stays on your side.\n\nOne question: for a first trial batch, which payment route works for you - and which SKU goes in it?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -27579,7 +27591,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）",
 "one_question": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line. Which of the two footprints would you second-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -27611,7 +27623,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Two AE Connect footprints where a second source drops in without datasheet changes",
+"body": "Hello AE Connect team,\n\nYou told us in 2025 that your PoE switches are RTL-based and mature, and that part of the range is now made in India - understood. The two footprints where a Marvell-based second source still drops into your range without datasheet changes, in AE Connect packing from small lots: AE-PS8082SFT-M class - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); AE-PS242SFT-M class - 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $145.7. Industrial 8 x PoE+ + 2 x SFP DIN unit as a third line. BIS stays on your side.\n\nOne question: which of the imported SKUs is staying imported after the Make-in-India move - that is the one worth a second source.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -28078,7 +28093,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → DNC 具名 KP 待找",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）",
 "one_question": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files. Which one first — the 4-PoE + SFP switch or the gigabit converter? Reference: STI-154GP at $40.8 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -28102,7 +28117,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "DNC packing - the 4-PoE + SFP switch and the gigabit converter",
+"body": "Hello DNC team,\n\nFor the DNC 4-PoE + 1-FX switch and the MC-10100G converter slots, two units in DNC packing from small lots, CE/RoHS: DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit RJ45 + 1 x SFP, unmanaged, -40 to 75 C - model STI-154GP - $40.8 USD EXW with your logo (MOQ 1, 15-day validity); industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km) - STI-110GE - $26.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which of the two do you ship more of today - the 4-PoE switch or the converter?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -28627,7 +28645,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → MT-Link 具名 KP 待找",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）",
 "one_question": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside. Would the 24-port be the first SKU to sample under an MT- part number? Reference: STC-424DGGPM-280W at $145.7 / STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -28651,7 +28669,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "A gigabit 24-PoE+ managed unit under an MT- part number",
+"body": "Hello MT-Link team,\n\nYour MT-SW1024PE is still a Fast Ethernet PoE unit. The gap we would fill first under an MT- part number: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $145.7 USD EXW with your logo (MOQ 1, 15-day validity); alongside it, 8 x Gigabit PoE+ + 2 x SFP - STC-28DGGPM - $87.4.\n\nOne question: which PoE size sells most through mtlinkpakistan.com - 8, 16 or 24 ports - so we start with that one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -31262,7 +31283,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → sales@fibermarkt.com（无具名 KP）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
 "one_question": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the managed versions on a Marvell platform as the differentiator against your current source. Which footprint moves more units for you, 4+2 or 8+2, so I quote that one first? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -31286,7 +31307,10 @@
 "proof_gaps": [
 "「2 次实质回复」无原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "LightOptics packing - the 4+2 and 8+2 industrial PoE footprints, managed on Marvell",
+"body": "Hello LightOptics team,\n\nYour LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build. In LightOptics packing from small lots, DIN-rail, -40 to 75 C, CE/RoHS: 4 x Gigabit PoE+ + 2 x SFP unmanaged - model STI-244GP - $35 USD EXW (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP unmanaged - STI-288GP - $62.2; and the differentiator against your current source, the 8 + 2 L2+ managed version with ring redundancy on a Marvell platform - STI-288DGGPM - $137.5. Optics and DAC stay with you.\n\nOne question: is the managed 8-port the SKU your ISP customers ask for, or do they stay unmanaged?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -39173,7 +39197,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "E 邮箱 → nealc@softnetworks.net",
-"action": "首封前知悉：Elsa 已 1:1 去信 8 轮（2025-05-12→2026-08-04，客户回过信（2025-04-30、2025-05-14）），此前还经锚 Bcc 触达（第 74 批(m)）；一句话问 5 月报价的反馈",
+"action": "首封前知悉：Elsa 已 1:1 去信 8 轮（2025-05-12→2026-08-04，客户回过信（2025-04-30、2025-05-14）），此前还经锚 Bcc 触达（第 74 批(m)）；一句话问 5 月报价的反馈（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；Elsa 箱原串、署名 Elsa）",
 "one_question": "Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since)."
 },
 "facts": [
@@ -39293,7 +39317,10 @@
 "proof_gaps": [
 "（已核 2026-10-24，第 73 批）Elsa 05-14 实报 STI-288DGGPM-2BT $140/pc + 规格书；04-30 已先给 STI-288DGGPM 规格书"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "The 90 W managed PoE unit from May 2025 - did the price land anywhere near your refurb points?",
+"body": "Hi Neal,\n\nIn May 2025 you asked the price of the 90 W managed PoE unit and I quoted $140; since then you had my monthly product mails and, reasonably, no reason to answer them. One real question instead.\n\nThe unit is still the same: DIN-rail 8 x Gigabit PoE++ (802.3bt, 90 W ports) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, FCC/CE/RoHS - model STI-288DGGPM-2BT - today $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 against the dollar since May 2025).\n\nOne question: did $140 land anywhere near the price points your refurb customers accept for a managed industrial PoE unit - and if not, what would?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }

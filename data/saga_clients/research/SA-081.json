@@ -142,7 +142,7 @@
     "next_move": {
       "when": "2027-Q1",
       "channel": "E 邮箱 → nealc@softnetworks.net",
-      "action": "首封前知悉：Elsa 已 1:1 去信 8 轮（2025-05-12→2026-08-04，客户回过信（2025-04-30、2025-05-14）），此前还经锚 Bcc 触达（第 74 批(m)）；一句话问 5 月报价的反馈",
+      "action": "首封前知悉：Elsa 已 1:1 去信 8 轮（2025-05-12→2026-08-04，客户回过信（2025-04-30、2025-05-14）），此前还经锚 Bcc 触达（第 74 批(m)）；一句话问 5 月报价的反馈（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；Elsa 箱原串、署名 Elsa）",
       "one_question": "Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since)."
     },
     "facts": [
@@ -262,7 +262,10 @@
     "proof_gaps": [
       "（已核 2026-10-24，第 73 批）Elsa 05-14 实报 STI-288DGGPM-2BT $140/pc + 规格书；04-30 已先给 STI-288DGGPM 规格书"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "The 90 W managed PoE unit from May 2025 - did the price land anywhere near your refurb points?",
+      "body": "Hi Neal,\n\nIn May 2025 you asked the price of the 90 W managed PoE unit and I quoted $140; since then you had my monthly product mails and, reasonably, no reason to answer them. One real question instead.\n\nThe unit is still the same: DIN-rail 8 x Gigabit PoE++ (802.3bt, 90 W ports) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, FCC/CE/RoHS - model STI-288DGGPM-2BT - today $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 against the dollar since May 2025).\n\nOne question: did $140 land anywhere near the price points your refurb customers accept for a managed industrial PoE unit - and if not, what would?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-25"
   }
 }

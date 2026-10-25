@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 贴牌（DNC）→ 千兆转换器 + 4 PoE + SFP 两款先问；锚价：STI-154GP $40.8（30% 档）/ STI-110GE $26.5（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（48 port managed switch）
 - **第一问（只问一个）**：For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files. Which one first — the 4-PoE + SFP switch or the gigabit converter? Reference: STI-154GP at $40.8 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → DNC 具名 KP 待找 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → DNC 具名 KP 待找 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：MC 贴牌。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，锚价：STI-154GP $40.8（30% 档）/ STI-110GE $26.5（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（48 port managed switch））——MC 贴牌（DNC）→ 千兆转换器 + 4 PoE + SFP 两款先问
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → DNC 具名 KP 待找　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → DNC 具名 KP 待找　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）
   - 第一问（只问一个）：For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files. Which one first — the 4-PoE + SFP switch or the gigabit converter? Reference: STI-154GP at $40.8 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -264,25 +264,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (neutral label)
+**主题**：DNC packing - the 4-PoE + SFP switch and the gigabit converter
 
 ```text
-Hello,
+Hello DNC team,
 
-Picking up our earlier exchange about PoE / industrial switches. For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files.
+For the DNC 4-PoE + 1-FX switch and the MC-10100G converter slots, two units in DNC packing from small lots, CE/RoHS: DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit RJ45 + 1 x SFP, unmanaged, -40 to 75 C - model STI-154GP - $40.8 USD EXW with your logo (MOQ 1, 15-day validity); industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km) - STI-110GE - $26.5. Logo on the unit is free; colour box from 200 sets.
 
-We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which of the two do you ship more of today - the 4-PoE switch or the converter?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

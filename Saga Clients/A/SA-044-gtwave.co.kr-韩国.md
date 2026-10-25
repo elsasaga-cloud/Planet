@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 保活。已打开的主题（3/28 封有打开记录）：「Marvell Software Function List」(2025-04-15)、「Re: Marvell Software Function List」(2025-04-16)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「价格/目录」；与 P1 同类，继续；换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-17 $65（10G media converter）、2024-07-17 $220（10G managed switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-24 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 A 邮箱 → master@gtwave.co.kr（Moonsoo Park） 一句话问 PoE 线外采情况
+- **下一步**：2027-Q1 A 邮箱 → master@gtwave.co.kr（Moonsoo Park） 一句话问 PoE 线外采情况（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有品牌 PoE 交换机。
 - **断点 / 为什么停在这里**：身份不清（群发署名只有 Alan/Saga Telecom/OEM Factory）→ 目录后无回。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-17 $65（10G media converter）、2024-07-17 $220（10G managed switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-24 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch））——保活。已打开的主题（3/28 封有打开记录）：「Marvell Software Function List」(2025-04-15)、「Re: Marvell Software Function List」(2025-04-16)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「价格/目录」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　A 邮箱 → master@gtwave.co.kr（Moonsoo Park）　一句话问 PoE 线外采情况
+- **下一步（具体）**：2027-Q1　A 邮箱 → master@gtwave.co.kr（Moonsoo Park）　一句话问 PoE 线外采情况（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
   - 第一问（只问一个）：Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -256,25 +256,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：From Saga Telecom (we sent the catalogue in April 2025) - your iG8P-2SMB footprint
 
 ```text
-Hi Moonsoo,
+Dear Mr. Park,
 
-Picking up our earlier exchange about PoE / industrial switches. Your iG8P-2SMB spec sheet, 8 gigabit PoE ports plus 2 SFP with ERPS ring and dual DC, maps one-to-one onto the Marvell-based industrial unit we build, so I am quoting it in neutral GT-Wave-ready packing with the 8-port commercial GT8P class model as a second line.
+In April 2025 you asked who we are and for a catalogue; Alan sent both the next day and we did not hear back - the mail probably arrived without a clear sender context, so once more: Saga Telecom, Shenzhen, switches on Marvell silicon for brand owners, small lots.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your GT-Wave iG8P-2SMB / iG8P-4SMB at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (valid 15 days).
+Your iG8P-2SMB - 8 x Gigabit PoE + 2 x SFP, ring, dual DC - maps one-to-one onto our industrial unit: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, dual DC input, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW in GT-Wave packing (MOQ 1, 15-day validity); the commercial 8-port class next to your GT8P - STC-28DGGPM - $87.4. KC stays on your side.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the PoE switch line bought in today, and from a Hisilicon-based source as before?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
