@@ -161,7 +161,7 @@
     "tier": 20,
     "why": "其在售 ISW-504PS（工业 4×FE PoE + 1×FE 非管理 DIN，178,50 € 净价）→ Saga STI-054FP 同口型，20% 档 $29.1 USD EXW，价差最直观；其库存款 ISW-501T 由 STI-050FE 第二封对位；B2B 分销商（走量、自定毛利）→ 20%（沿用 Planet 档案 PA-017）；需求："
   },
-  "email_hook": "Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a Marvell-based, neutral-packed STI line at EXW gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first?",
+  "email_hook": "Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a neutral-packed STI line at EXW (managed versions on a Marvell platform) gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first?",
   "mail_review": {
     "binding": {
       "level": "未绑定（A/S 邮箱 0 封）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）",
@@ -188,7 +188,7 @@
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → volker.pompetzki@ute.de",
       "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
-      "one_question": "Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a Marvell-based, neutral-packed STI line at EXW gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first? Reference: STI-054GP (4 × GE PoE + 1 × GE, DIN-rail) at $32.5 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a neutral-packed STI line at EXW (managed versions on a Marvell platform) gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first? Reference: STI-054GP (4 × GE PoE + 1 × GE, DIN-rail) at $32.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

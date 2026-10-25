@@ -125,7 +125,7 @@
   "tier": 20,
   "why": "LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档"
  },
- "email_hook": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the Marvell switch core as the differentiator against your current source.",
+ "email_hook": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the managed versions on a Marvell platform as the differentiator against your current source.",
  "mail_review": {
   "binding": {
    "level": "未绑定（邮件 23 封 0 回、Opened 0；用户表「2 次实质回复」无原文；Elsa 箱：`to:lightoptics.pl OR to:fibermarkt.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(g)））",
@@ -152,7 +152,7 @@
    "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
    "channel": "A 邮箱 → sales@fibermarkt.com（无具名 KP）",
    "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
-   "one_question": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the Marvell switch core as the differentiator against your current source. Which footprint moves more units for you, 4+2 or 8+2, so I quote that one first? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the managed versions on a Marvell platform as the differentiator against your current source. Which footprint moves more units for you, 4+2 or 8+2, so I quote that one first? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {

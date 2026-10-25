@@ -145,7 +145,7 @@
     "tier": 20,
     "why": "其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档"
   },
-  "email_hook": "Against your ONV-IPS33054PF and IPS33168PFM listings, the Marvell-based 4+1 and 8+2 industrial PoE units are the two I can quote at EXW today as an alternative line under your own label.",
+  "email_hook": "Against your ONV-IPS33054PF and IPS33168PFM listings, the 4+1 and 8+2 industrial PoE units (managed versions on a Marvell platform) are the two I can quote at EXW today as an alternative line under your own label.",
   "mail_review": {
     "binding": {
       "level": "未绑定（询问阶段，但 2026-07-15 有带型号的 CENTEC 询价：STH-8C24XF-HSI ×2 + 24×10G Base-T/2×100G ×2）；Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南（锚 vienthonghanoi VN） 批次 To inbox.vienthonghanoi@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）",

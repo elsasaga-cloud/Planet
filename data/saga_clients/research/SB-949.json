@@ -77,7 +77,7 @@
   "tier": 25,
   "why": "代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）"
  },
- "email_hook": "Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand Marvell-based industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP managed, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover?",
+ "email_hook": "Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP, managed versions on a Marvell platform, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover?",
  "mail_review": {
   "binding": {
    "level": "未触达（A/S 邮箱 23 封 2025→2026，无记录打开，0 回；收件 bill@osbornsalessolutions.com, derek@osbornsalessolutions.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:osbornsalessolutions.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(h)））",
@@ -104,7 +104,7 @@
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
    "action": "换收件人再发一封",
-   "one_question": "Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand Marvell-based industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP managed, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP, managed versions on a Marvell platform, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
