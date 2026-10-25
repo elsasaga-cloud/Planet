@@ -288,7 +288,7 @@ Hi Donna,
 
 Picking up our earlier exchange about PoE / industrial switches. For the non-TAA commercial side of the AFI line, a 24-port PoE+ switch with 4×10G SFP+ uplinks in AFI packing lands far below your current sourced cost; one question: is UL listing required on that SKU, or FCC alone?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as your American Fibertek AFI510 系列 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $196.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as your American Fibertek 24 Ethernet/4 SFP L2 Managed Switch at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $196.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

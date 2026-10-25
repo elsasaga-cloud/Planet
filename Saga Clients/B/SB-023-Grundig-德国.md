@@ -286,7 +286,7 @@ Hi Ludwig,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your GRUNDIG Security SMART PoE Switch 4/8/16 口（如 VGR-GU-HW-ACSW08D：9 口，8 PoE，250 m，NDAA） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

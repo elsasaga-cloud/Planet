@@ -263,7 +263,7 @@ Hi Sonam,
 
 Picking up our earlier exchange about PoE / industrial switches. For an ISP like NANO our 24-port + 4×10G SFP+ L2+ switch is the usual aggregation/enterprise-CPE piece — want the spec sheet, and do you prefer 10G uplinks as SFP+ or copper?
 
-We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as your Ubiquiti / Cisco / Zyxel / Cambium （官网文字提及） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $132.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $132.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

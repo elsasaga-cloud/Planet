@@ -286,7 +286,7 @@ Hi Mark,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the ME-series media converters under your label (including the PoE models), we can be a second ODM source for gigabit SFP and fixed-fiber converters from small lots, and quote a 14-slot rack on request — which ME model do you reorder most often?
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your Fibermailbox（自有标） ME-4040-SFP-POE at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
+We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

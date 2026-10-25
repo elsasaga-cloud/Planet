@@ -286,7 +286,7 @@ Hi Nuri,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your （展会兴趣） 4 光 8 电 10G；2.5G 1 光 8 电 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

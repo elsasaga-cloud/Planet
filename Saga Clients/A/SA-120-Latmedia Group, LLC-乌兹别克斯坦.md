@@ -278,7 +278,7 @@ Hi Vladimir,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?
 
-We supply a Marvell-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as your （询盘） L2+/L3 商业级交换机 at a lower landed cost, and we can ship it with neutral packaging. Current price: $485.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $485.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

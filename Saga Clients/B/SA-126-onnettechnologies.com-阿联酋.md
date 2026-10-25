@@ -261,7 +261,7 @@ Hi Saurabh,
 
 Picking up our earlier exchange about PoE / industrial switches. For the OTAI high-power industrial PoE line — our 8-port unit gives 2×90 W (bt) + 6×30 W with 2 SFP and an optional fibre-bypass variant, neutral or OTAI-branded from small lots; which exact spec is your current supplier shipping, so I quote like-for-like EXW?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ (2x 90 W bt) plus 2x 2.5G SFP - model STI-288DGGPM-2BT - that fits the same slot as your OTAI High Power Industrial PoE Switch / Magic Box at a lower landed cost, and we can ship it with neutral packaging. Current price: $171.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ (2x 90 W bt) plus 2x 2.5G SFP - model STI-288DGGPM-2BT - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $171.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

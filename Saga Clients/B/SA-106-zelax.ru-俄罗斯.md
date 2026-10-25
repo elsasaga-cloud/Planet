@@ -291,7 +291,7 @@ Hello,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Zelax ZES-2220S（ZES-22xx 系列） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Zelax ZES-20xx / ZES-32xx at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

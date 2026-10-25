@@ -253,7 +253,7 @@ Hello,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello Ayk team, next to the PLANET DIN-rail L2+ ring PoE switches you list: our same-port-type 2× SFP + 8× GbE PoE+ L2+ (ERPS, −40/+75 °C) is $139.9 EXW at distributor level, industrial gigabit media converter $22.4 — would a sample pair for your utility projects be useful?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your PLANET DIN-rail L2+ Ring Managed Gigabit PoE Switch（系列） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your PLANET EN50155 Ethernet Switches / Optical Fiber Bypass Switch at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

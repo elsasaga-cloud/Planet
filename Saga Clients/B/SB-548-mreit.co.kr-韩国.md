@@ -286,7 +286,7 @@ Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the MR-series PoE switches, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP, 2.5G PoE options) in your packaging from small lots alongside your current line, CE/RoHS; KC by your side — which configuration would you like a comparative quote for?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your MREIT（自有，HRUI 贴标） MR-0802P-S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the HRUI class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

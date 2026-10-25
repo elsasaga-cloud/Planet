@@ -291,7 +291,7 @@ Hi Callum,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, E-mark report available) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
 
-We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as your SURE MDVR4S（4G） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $18.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as your Timespace DVR-V400-16 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $18.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

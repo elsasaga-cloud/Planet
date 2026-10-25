@@ -295,7 +295,7 @@ Hi Krill,
 
 Picking up our earlier exchange about PoE / industrial switches. Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue.
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your Huatai（杭州华泰） 视频光端机目录 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

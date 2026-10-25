@@ -268,7 +268,7 @@ Hi Lachezar,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the 4- and 8-port PoE positions on your camera sites, the 8-port gigabit PoE+ managed unit and the 4+1 industrial DIN model are the two I am sending with a full price list and datasheets as you asked.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your （集成商自用） 4/8 口 PoE 交换机（用户记录） at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

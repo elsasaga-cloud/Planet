@@ -898,11 +898,21 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
         elif live:
             price = f'${live} USD EXW (same as the ${seen_pr} you saw in our {seen_d[:7]} mail; MOQ 1, 15-day validity)'
     rs = ent.get('research') or {}
-    sb = [b for b in brands if b in SWITCH_BRANDS]
+    _en_brand = {'洪瑞': 'HRUI', '迈威': 'Maiwe', '海康': 'Hikvision', '大华': 'Dahua', '华为': 'Huawei'}
+    sb = [_en_brand.get(b, b) for b in brands if b in SWITCH_BRANDS]
+    sb = [b for b in sb if not re.search(r'[\u4e00-\u9fff]', b)]
     slot = f'the {sb[0]} class you work with' if sb else 'the units you source today'
-    ps = [x for x in (rs.get('products_seen') or []) if x.get('model') and x.get('saga') == p1] or [x for x in (rs.get('products_seen') or []) if x.get('model')]
+    def _ok_product(x):  # 只用能写进英文正文的对位产品：无中文/全角注记，且是交换机/MC 一类（不是注入器/摄像机/电源/线缆）
+        t = f"{x.get('brand') or ''} {x.get('model') or ''}"
+        if re.search(r'[\u4e00-\u9fff（）；：]', t):
+            return False
+        if re.search(r'injector|camera|nvr|power|psu|cable|hdmi|transceiver|module|antenna|router', t, re.I):
+            return False
+        return bool(x.get('model'))
+    _all = [x for x in (rs.get('products_seen') or []) if isinstance(x, dict) and _ok_product(x)]
+    ps = [x for x in _all if x.get('saga') == p1] or _all
     if ps:
-        slot = f"your {ps[0].get('brand', '').strip()} {ps[0]['model']}".replace('  ', ' ')
+        slot = f"your {(ps[0].get('brand') or '').strip()} {ps[0]['model']}".replace('  ', ' ')
     hook_note = None
     hk = (rs.get('email_hook') or '').strip()
     if re.search(r'[\u4e00-\u9fff]', hk):

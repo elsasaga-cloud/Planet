@@ -310,7 +310,7 @@ Hi Ross,
 
 Picking up our earlier exchange about PoE / industrial switches. For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have.
 
-We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as your 中科德能 / Ewind（比价中） 1 光 4 电 PoE 工业交换机 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (valid 15 days).
+We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the Ewind class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

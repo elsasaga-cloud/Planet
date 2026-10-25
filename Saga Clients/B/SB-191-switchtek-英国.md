@@ -303,7 +303,7 @@ Hi Jeremy,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-04 - and there was no reason to answer a mass mail. This one is specific. Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit plus 2x 2.5G SFP - model STI-280DGGM - that fits the same slot as your Kyland Opal 系列（非管理） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $125.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit plus 2x 2.5G SFP - model STI-280DGGM - that fits the same slot as the Kyland class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $125.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

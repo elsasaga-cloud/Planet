@@ -276,7 +276,7 @@ Hi Janejira,
 
 Picking up our earlier exchange about PoE / industrial switches. Your ETN9075-4GX8PGT and the 1FX4TX mini sit exactly where our Marvell-based 8-port PoE+ 2-SFP managed DIN switch and the 4+1 compact unit do, so I am quoting both in ETN packing, EXW, as a second source.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your 中科德能（现来源，自有标） 工业 FS / MC / 机架 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

@@ -262,7 +262,7 @@ Hello,
 
 Picking up our earlier exchange about PoE / industrial switches. For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your （项目需求） 2 光 4 电 ERPS 环网工业交换机；5 电口带 PoE at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

@@ -283,7 +283,7 @@ Hello,
 
 Some time ago you had a product mail from us - "Industrial PoE Switch" on 2025-02-23 - and there was no reason to answer a mass mail. This one is specific. For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first?
 
-We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as your CommFront（自有） 工业以太网交换机（小壳） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $25 USD EXW (valid 15 days).
+We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $25 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

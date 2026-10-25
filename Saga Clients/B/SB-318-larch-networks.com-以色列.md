@@ -285,7 +285,7 @@ Hi Alexander,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the LN-1508GP-4XGF class industrial switches (8 PoE + 4×10G SFP+), we can be a second ODM source on a Marvell platform — your firmware/SONiC requirements discussed case by case — from small lots with CE/RoHS/FCC; which model in the LN range needs a second source first?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 4x10G SFP+ - model STI-488XGGPM - that fits the same slot as your Larch（自有） LN-1508GP-4XGF-I-M at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $178.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 4x10G SFP+ - model STI-488XGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $178.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

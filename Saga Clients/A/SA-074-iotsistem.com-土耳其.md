@@ -323,7 +323,7 @@ Hi Berk,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your MLB-E4202-10 and E4208-14 class DIN units map directly onto the 8-port gigabit PoE managed switch we build on a Marvell core, so I am quoting that first with the 5-port compact model as the entry SKU.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your MLB MLB E4202-10-F / E4202-10-GF；MLB-E4208-14-G-F at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your MLB MLB-E4204-28-G-F / MLB-E4204-28-F at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

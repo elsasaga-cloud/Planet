@@ -255,7 +255,7 @@ Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the MS-series PoE switches that pair with your Wi-Fi 7 APs (MS12P8 / MS28P24), we can be a second source on a Marvell L2+ platform from small lots in your housing — which model would you consider dual-sourcing first?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Prism（自有） MS12P8 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

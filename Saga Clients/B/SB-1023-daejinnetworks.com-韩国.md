@@ -237,7 +237,7 @@ Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most?
 
-We supply a CENTEC-based 24x10G SFP+ plus 2x100G QSFP28 data-centre switch - model STH-2C24XF-SFI - that fits the same slot as your Daejin（自有/代理） CTC8180 at a lower landed cost, and we can ship it with neutral packaging. Current price: $1500 USD EXW (valid 15 days).
+We supply a CENTEC-based 24x10G SFP+ plus 2x100G QSFP28 data-centre switch - model STH-2C24XF-SFI - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $1500 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

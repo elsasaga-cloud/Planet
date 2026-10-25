@@ -243,7 +243,7 @@ Hi Hemanth,
 
 Picking up our earlier exchange about PoE / industrial switches. For the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km?
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your Lantech 工业 PoE 4–16 口 / 管理 8–24 口 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
+We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

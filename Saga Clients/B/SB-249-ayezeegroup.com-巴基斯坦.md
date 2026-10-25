@@ -258,7 +258,7 @@ Hi Syed,
 
 Picking up our earlier exchange about PoE / industrial switches. Your product page lists managed/unmanaged switches and media converters for telecom and power projects — when a tender calls for DIN-rail PoE switches, our 8-port + 2 SFP industrial model is $57–62 EXW; shall I send the spec so it is on file?
 
-We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as your Cisco / Huawei / Juniper / Fortinet（官网列） （路由/防火墙） at a lower landed cost, and we can ship it with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

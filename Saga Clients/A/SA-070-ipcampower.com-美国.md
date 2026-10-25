@@ -265,7 +265,7 @@ Hi Sean,
 
 Picking up our earlier exchange about PoE / industrial switches. Next to the IPCP-8G4G-AT1, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP at EXW cost gives you a managed tier without UL or TAA claims, and the 24-port gigabit 4-uplink unit you currently list as sold out is the second one I am pricing.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your IPCamPower IPCP-8G4G-AT1 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

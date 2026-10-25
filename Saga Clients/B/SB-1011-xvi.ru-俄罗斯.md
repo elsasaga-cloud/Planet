@@ -238,7 +238,7 @@ Hello,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-26 - and there was no reason to answer a mass mail. This one is specific. For the SWP-series PoE switches under the XVI label (SWP1508 / SWP1016M / SWP1024), we can supply the same port layouts on a Marvell platform with a choice of housings from small lots — which SWP model do you reorder most often, so we quote its equivalent first?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your XVI（自有） SWP1508 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

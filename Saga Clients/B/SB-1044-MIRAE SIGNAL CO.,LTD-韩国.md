@@ -254,7 +254,7 @@ Hi Roy,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We understand your current switch and transceiver suppliers are stable — we would simply like to be on file as a backup for your MV-series PoE line: Marvell-based 8-PoE + 2 SFP L2+ and 2.5G/BT PoE options in your packaging from small lots, CE/RoHS. May we send a one-page comparative quote for the model you reorder most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Mirae Signal（自有） MV-IPG804MBT at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

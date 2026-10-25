@@ -229,7 +229,7 @@ Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches you sell under the Lorwen label next to your LW NVR range, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP) and budget 5/8-port plug-and-play PoE units from small lots in your packaging, CE/RoHS, EXW USD — which size ships most with your NVR kits?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Lorwen（自有） Switch PoE 5 porte 10/100/1000 plug n play at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

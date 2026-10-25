@@ -280,7 +280,7 @@ Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Innowatt-branded industrial PoE switches, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often?
 
-We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the 中科德能 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $60 USD EXW (valid 15 days).
+We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $60 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

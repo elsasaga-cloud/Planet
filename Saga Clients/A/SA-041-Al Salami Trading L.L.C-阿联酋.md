@@ -267,7 +267,7 @@ Hi Rashid,
 
 Picking up our earlier exchange about PoE / industrial switches. For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch is in stock for a 10–15 day dispatch, and I can ship the pair as samples by courier on PayPal terms.
 
-We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as your （项目询盘） 工业千兆 1 光 4 电 ×2 at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

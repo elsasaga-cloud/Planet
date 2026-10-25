@@ -261,7 +261,7 @@ Hi Mark,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello NKS team, for SCADA networks where IEC 61850-3 certification is not mandated (solar plants, remote RTUs): DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS at $71.0 EXW (PoE+ version $145.7), −40/+75 °C — which of your current projects use Maiwe-class switches so I can quote a like-for-like?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 迈威 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Maiwe class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

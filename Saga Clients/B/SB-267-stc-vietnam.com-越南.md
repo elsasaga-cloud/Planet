@@ -258,7 +258,7 @@ Hi Linh,
 
 Picking up our earlier exchange about PoE / industrial switches. Mr. Linh, as a Moxa house you'll know the EDS price points — for the 2-SFP + 4-port and 2-SFP + 16-port industrial sizes you priced with us, do you need managed (ring/VLAN) or will unmanaged do for the panel-level jobs?
 
-We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-244GP - that fits the same slot as your Moxa AWK-4131A 等 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $35.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-244GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $35.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

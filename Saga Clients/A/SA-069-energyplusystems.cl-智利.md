@@ -289,7 +289,7 @@ Hi Ling,
 
 Picking up our earlier exchange about PoE / industrial switches. Your 8-port PoE + 2 SFP managed industrial switch is listed at CLP 370,000; the equivalent I supply lands well under half of that EXW, with the 4+1 compact unit for your pump and well sites.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your 中科德能（现来源） 工业 FS at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

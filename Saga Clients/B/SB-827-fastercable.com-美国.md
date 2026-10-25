@@ -291,7 +291,7 @@ Hi Richard,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range?
 
-We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as your FasterCable（自有） EISW8-100T at a lower landed cost, and we can ship it with neutral packaging. Current price: $32.5 USD EXW (valid 15 days).
+We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $32.5 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

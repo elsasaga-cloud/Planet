@@ -249,7 +249,7 @@ Hi Mogeni,
 
 Picking up our earlier exchange about PoE / industrial switches. Back in March 2024 you said the 8-PoE + 2-SFP unit was useful and you'd check with the team about a sample — for fibre-uplinked camera sites, is a single sample unit (we ship from 1 pc) the easiest way to restart?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Hikvision IP 摄像机 / NVR at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

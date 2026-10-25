@@ -292,7 +292,7 @@ Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For your IPS-series industrial PoE switches (16/24-port), we build DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?
 
-We supply a 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (unmanaged) - model STI-21616GP - that fits the same slot as your Main Tech Connect（自有） IPS-16GM02-518W at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $185 USD EXW (valid 15 days).
+We supply a 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (unmanaged) - model STI-21616GP - that fits the same slot as your Intellinet — at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $185 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

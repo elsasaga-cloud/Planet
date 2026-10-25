@@ -299,7 +299,7 @@ Hi David,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first.
 
-We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as your Sewell Raven PoE Injector at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

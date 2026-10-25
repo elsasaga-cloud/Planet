@@ -264,7 +264,7 @@ Hi Kushagra,
 
 Picking up our earlier exchange about PoE / industrial switches. Next to the refurbished Catalyst access switches you stock, a new 24-port gigabit L2+ switch with 4×10G uplinks at $127.4 EXW can fill orders when refurbished units are out of stock; would a datasheet be useful?
 
-We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as your Cisco（翻新） N3K-C3232C / N5K-C5696Q / WS-C3750E-48PD-S / WS-C3850-48XS-E / PPS-SW-673 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $127.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $127.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

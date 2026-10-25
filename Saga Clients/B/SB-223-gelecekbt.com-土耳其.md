@@ -302,7 +302,7 @@ Hi Yusuf,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your CLR Networks industrial PoE range lists the CLR-IES-G824P as EoL; a Marvell-based 8-port Gigabit PoE managed DIN-rail unit can take that slot under the CLR label, EXW, with the same 2-SFP uplink layout. For the CLR-IES-G824P slot, is a replacement with 8 Gigabit PoE+ ports and 2 SFP uplinks (managed, DIN-rail) what you need, or do you want the 4-SFP layout kept?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your PLANET （其工业交换机主线） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your PLANET IGS-5227-4MP2MT at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

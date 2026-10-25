@@ -275,7 +275,7 @@ Hi Vidur,
 
 Over the past months you had a few product mails from us - most recently "Marvell Managed Commercial Switches" on 2026-04-01 - and there was no reason to answer a mass mail. This one is specific. For the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
 
-We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as your Quantum Networks（自有） QN-IS-225-8 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -267,7 +267,7 @@ Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?
 
-We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as the 迈威 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $17.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as the Maiwe class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $17.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

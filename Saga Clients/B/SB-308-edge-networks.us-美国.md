@@ -288,7 +288,7 @@ Hi Christopher,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the GEMS2 / GEUS switch and media-converter range, we can be a second ODM source (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most?
 
-We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as your Edge Networks（自有） GEMS2-8T at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

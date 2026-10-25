@@ -289,7 +289,7 @@ Hi Andy,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?
 
-We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 Gigabit uplink (unmanaged) - model STI-054GP - that fits the same slot as your Tycon（自有） TP-SW5G-D at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 Gigabit uplink (unmanaged) - model STI-054GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -287,7 +287,7 @@ Hi Marinos,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. For TVT and ZKTeco deployments the 24-port managed PoE unit is usually the slot that decides the cabinet BOM, so I am sending the two versions you asked about before (2-SFP and 4-SFP+ uplinks) with current EXW numbers.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your TVT IP CCTV 全线（官方分销） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

@@ -273,7 +273,7 @@ Hello,
 
 Picking up our earlier exchange about PoE / industrial switches. Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?
 
-We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as your ФТИ-Оптроник（自产） MCSFP2-10/100/1000 / MCSFP2-10/100/1000-IT at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $18.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $18.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
