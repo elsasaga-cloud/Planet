@@ -246,8 +246,6 @@ Hi Nadeem,
 
 Picking up our earlier exchange about PoE / industrial switches. Besides the 4-port ONU you asked about (not in our line), do your field projects use small fiber-to-copper media converters or 8-port PoE switches? Happy to send the two spec pages if so.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/

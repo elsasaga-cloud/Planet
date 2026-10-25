@@ -224,7 +224,7 @@ Hello,
 
 Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
 
-We supply an 8-port Gigabit PoE switch with 2 Gigabit uplinks (unmanaged, 120 W) - model STC-028GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.2 USD EXW (list price, valid 15 days).
+We supply an 8-port Gigabit PoE switch with 2 Gigabit uplinks (unmanaged, 120 W) - model STC-028GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.2 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

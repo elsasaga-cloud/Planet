@@ -255,7 +255,7 @@ Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?
 
-We supply an 8-port Gigabit desktop switch (unmanaged) - model STC-08GE - that fits the same slot as the Trendnet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $10.5 USD EXW (list price, valid 15 days).
+We supply an 8-port Gigabit desktop switch (unmanaged) - model STC-08GE - that fits the same slot as the Trendnet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $10.5 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -260,7 +260,7 @@ Hi Iva,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the copper Ethernet switches you supply with lighting-control and building projects, we offer neutral-brand 8-GE + 2 SFP managed and DIN-rail industrial 8-GE models from small lots, CE/RoHS, EXW USD — which port count do your project customers ask for most?
 
-We supply an 8-port Gigabit L2 managed switch with 2 SFP uplinks (commercial line) - model STC-28GM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $50.6 USD EXW (list price, valid 15 days).
+We supply an 8-port Gigabit L2 managed switch with 2 SFP uplinks (commercial line) - model STC-28GM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $50.6 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

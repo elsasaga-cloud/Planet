@@ -315,7 +315,7 @@ Hi Jacques,
 
 Picking up our earlier exchange about PoE / industrial switches. Following the 2+2+8 PoE quote — would a Securi-Prod-branded version (neutral carton, your label, same Marvell/Realtek platforms as the PLANET and Genata units you list) be worth a 50-pc trial price?
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as your PLANET GS-4210-8P2S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $30.8 USD EXW (list price, valid 15 days).
+We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as your PLANET GS-4210-8P2S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $30.8 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -129,7 +129,7 @@
       "when": "2026-11（拆档后）",
       "channel": "Elsa 邮箱回原线程",
       "action": "首封前知悉：Elsa 已 1:1 去信 16 轮（2025-03-03→2026-08-04，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；拆档 + 各一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-      "one_question": "Vadim — the two test units Elsa priced in March (STH-8C48DX-HSI USD 5,000; STH-2C24XF-HSI USD 1,350, MOQ 1, EXW) still stand subject to confirmation at order time; which capacity is the first project, and is the sample for a telecom or a data-centre site?"
+      "one_question": "Vadim — the two test units we priced in March (STH-8C48DX-HSI USD 5,000; STH-2C24XF-HSI USD 1,350, MOQ 1, EXW) still stand subject to confirmation at order time; which capacity is the first project, and is the sample for a telecom or a data-centre site?"
     },
     "facts": [
       {
@@ -354,8 +354,8 @@
       "（已核 2026-10-24，第 73 批）三家各一封 Elsa 回复已读：Vintron 02-12 链接 PDF；Quip Pro 03-13 实报 STH-8C48DX-HSI $5,000 / STH-2C24XF-HSI $1,350 并问项目/品牌；AirLink 04-29「价格在链接里」；三家之后均无回"
     ],
     "draft_en": {
-      "subject": "Your test-sample request — the two units Elsa priced",
-      "body": "Vadim,\n\nIn March Elsa suggested two test units for Quip Pro — STH-8C48DX-HSI (48× 25G + 8× 100G) at USD 5,000 and STH-2C24XF-HSI (24× 10G SFP+ + 2× 100G) at USD 1,350, MOQ 1, EXW — and asked whether your work is project-based or own-brand. We did not hear back. Both prices are confirmed at order time (memory and SSD costs have moved since March).\n\nWhich capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.\n\nAlan Yan\nSaga Telecom"
+      "subject": "Your test-sample request — the two units we priced",
+      "body": "Vadim,\n\nIn March we suggested two test units for Quip Pro — STH-8C48DX-HSI (48× 25G + 8× 100G) at USD 5,000 and STH-2C24XF-HSI (24× 10G SFP+ + 2× 100G) at USD 1,350, MOQ 1, EXW — and asked whether your work is project-based or own-brand. We did not hear back. Both prices are confirmed at order time (memory and SSD costs have moved since March).\n\nWhich capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.\n\nAlan Yan\nSaga Telecom"
     },
     "as_of": "2026-10-25"
   }

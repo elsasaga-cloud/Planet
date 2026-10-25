@@ -229,7 +229,7 @@ Hi Muhammad,
 
 Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
 
-We supply an 8-port Gigabit PoE+ L2 managed switch with 2 SFP uplinks (commercial line, 120 W) - model STC-28GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $62.2 USD EXW (list price, valid 15 days).
+We supply an 8-port Gigabit PoE+ L2 managed switch with 2 SFP uplinks (commercial line, 120 W) - model STC-28GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $62.2 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

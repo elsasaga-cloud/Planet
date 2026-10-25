@@ -91,7 +91,7 @@
     "tier": 20,
     "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。"
   },
-  "email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (Elsa's 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
+  "email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (our 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
   "mail_review": {
     "binding": {
       "level": "轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）；补核（第 73 批）：Elsa 10-31 只回下载链接 + STI-244GP 规格书，三问未答，之后无回；Elsa 群发 BCC 已触达 8 轮 2025-02-24→2025-10-28（锚 To info@golfautomation.co.in，本户在 Bcc）→ 10-28 那轮 A.Bayar 10-30 回信 → Elsa 10-31 Re:（已入库）→ 之后改为 1:1 直收 6 轮 2025-12-04→2026-08-04（To 仅 info@topica.mn；08-04 头 19fcb6dd212d4d23 无 Bcc，称呼「Hi,」，正文 Price: 170USD/PC = 24 口 PoE STC-424XGGPM-280W 的 8 月旧价）；10-30 之后再无来信",
@@ -118,7 +118,7 @@
       "when": "2026-11",
       "channel": "Elsa 或 A 邮箱 → info@topica.mn",
       "action": "首封前知悉：Elsa 已 Bcc 8 轮 + 1:1 直收 6 轮（2025-02-24→2026-08-04），对方只在 2025-10-30 回过一次、三问未得答——这封是补答，不是首封，且他 2026-08 看到过 24 口 PoE $170（现价轮 $180 要先说明）（第 74 批(o)）；补答 + 一问",
-      "one_question": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (Elsa's 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
+      "one_question": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (our 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
     },
     "facts": [
       {
@@ -278,7 +278,7 @@
     ],
     "draft_en": {
       "subject": "Price list, MOQ, warranty — Topica",
-      "body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025; Elsa sent the download links and a datasheet but not the three answers — here they are in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180 — Elsa's mail of 4 August quoted $170 for this one; the yuan has moved from 7.2 to 6.7 against the dollar since, hence $180 today. The full table follows once I know which brand you carry.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+      "body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025; I sent the download links and a datasheet but not the three answers — here they are in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180 — my mail of 4 August quoted $170 for this one; the yuan has moved from 7.2 to 6.7 against the dollar since, hence $180 today. The full table follows once I know which brand you carry.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

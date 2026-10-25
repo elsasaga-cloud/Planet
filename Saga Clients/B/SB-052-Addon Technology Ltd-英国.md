@@ -280,7 +280,7 @@ Hi Charles,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
 
-We supply an 8-port Gigabit PoE switch with 2 Gigabit uplinks (unmanaged, 120 W) - model STC-028GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.2 USD EXW (list price, valid 15 days).
+We supply an 8-port Gigabit PoE switch with 2 Gigabit uplinks (unmanaged, 120 W) - model STC-028GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.2 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

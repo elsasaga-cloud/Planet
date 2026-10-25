@@ -225,23 +225,19 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：LT-IS6312GP-4GX8GT-FBP - industrial L2+ managed fibre-bypass switch (neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Igor,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design?
-
-We supply an industrial L2+ managed fibre-bypass switch, 8x Gigabit PoE+ plus 4x 2.5G SFP (SmartByte model number kept) - model LT-IS6312GP-4GX8GT-FBP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $186.5 USD EXW (valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue. Following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> P1 = LT-IS6312GP-4GX8GT-FBP：型号不在样板描述表（render.py P1_EN）内，样板未带型号/价格——报价前按价格表核 LT-IS6312GP-4GX8GT-FBP。
 
 ## 新跟进记录（仓库外发出后补）
 

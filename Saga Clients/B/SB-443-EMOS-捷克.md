@@ -268,7 +268,7 @@ Hi Pavel,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?
 
-We supply a 4-port Gigabit PoE switch with 2 Gigabit uplinks (unmanaged) - model STC-024GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $18.7 USD EXW (list price, valid 15 days).
+We supply a 4-port Gigabit PoE switch with 2 Gigabit uplinks (unmanaged) - model STC-024GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $18.7 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

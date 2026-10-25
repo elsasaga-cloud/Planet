@@ -241,9 +241,7 @@ Hello,
 
 Picking up our earlier exchange about PoE / industrial switches. You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day.
 
-We supply a 16-port Gigabit PoE+ L2 managed switch with 2 SFP and 2 copper uplinks (commercial line) - model STC-2216GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (list price, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+We supply a 16-port Gigabit PoE+ L2 managed switch with 2 SFP and 2 copper uplinks (commercial line) - model STC-2216GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

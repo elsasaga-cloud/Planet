@@ -214,7 +214,7 @@ Hi Stephane,
 
 Picking up our earlier exchange about PoE / industrial switches. Vous cherchiez un switch 16 ports Gigabit PoE et une liste de prix revendeur — je peux envoyer la grille USD EXW (16 PoE + 2 SFP, et le modèle L3 24 ports + 4×10G). Quelle quantité par commande ?
 
-We supply a 16-port Gigabit PoE switch with 2 SFP uplinks (unmanaged, 300 W) - model STC-2016GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $88.0 USD EXW (list price, valid 15 days).
+We supply a 16-port Gigabit PoE switch with 2 SFP uplinks (unmanaged, 300 W) - model STC-2016GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $88.0 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

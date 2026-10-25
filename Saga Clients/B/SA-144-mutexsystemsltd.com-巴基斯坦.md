@@ -231,7 +231,7 @@ Hello,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello Mutex team, you previously bought unmanaged Fast Ethernet switches; the gigabit 8-port equivalent is now $10.5 EXW and the 8-port PoE version $24.2 — what quantity do your IT projects take per month?
 
-We supply an 8-port Gigabit desktop switch (unmanaged) - model STC-08GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $10.5 USD EXW (list price, valid 15 days).
+We supply an 8-port Gigabit desktop switch (unmanaged) - model STC-08GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $10.5 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

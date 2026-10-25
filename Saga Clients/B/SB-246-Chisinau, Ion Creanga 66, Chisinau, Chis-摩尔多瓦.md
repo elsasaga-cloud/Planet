@@ -235,7 +235,7 @@ Hi Gorgos,
 
 Picking up our earlier exchange about PoE / industrial switches. Cristian, you priced 100 pcs of a 4+2 PoE unit with us last year — if that site is still open, send the port mix (100M or gigabit downlinks) and I'll quote the 8-port and 4-port versions EXW in one line each.
 
-We supply an 8-port Fast Ethernet PoE switch with 2 Gigabit uplinks (unmanaged) - model STC-028GFP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $17.6 USD EXW (list price, valid 15 days).
+We supply an 8-port Fast Ethernet PoE switch with 2 Gigabit uplinks (unmanaged) - model STC-028GFP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $17.6 USD EXW (valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

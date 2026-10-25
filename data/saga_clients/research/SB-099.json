@@ -77,7 +77,7 @@
     "tier": 20,
     "why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。"
   },
-  "email_hook": "Vinod — you asked for prices last June (and left your WhatsApp number); Elsa sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?",
+  "email_hook": "Vinod — you asked for prices last June (and left your WhatsApp number); we sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?",
   "mail_review": {
     "binding": {
       "level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回；Elsa 1:1 去信 7 轮 2025-10-02→2026-08-04（To sales@agsplus.in（与锚地址 gunjan@xexagon.co.in 并列 To）；头 msg 19fcafff5f9156bc 核对无 Bcc，称呼「Hi, Vinod」= 个性化逐月 1:1 名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2025-06-06 Re:「Industrial PoE Switch」；与上面「To 直收」的锚轮是两条并行名单）（第 74 批(m)）；Elsa 群发 To 直收 7 轮 2025-04-10→2026-09-08（本户是「印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮）」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-08「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a08075d070c32df）",
@@ -104,7 +104,7 @@
       "when": "待 Simon 定 Q-33",
       "channel": "WhatsApp（Simon）",
       "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-02→2026-08-04，客户回过信（2025-06-06））（第 74 批(m)）；一句话",
-      "one_question": "Vinod — you asked for prices last June (and left your WhatsApp number); Elsa sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?"
+      "one_question": "Vinod — you asked for prices last June (and left your WhatsApp number); we sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?"
     },
     "facts": [
       {

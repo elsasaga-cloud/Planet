@@ -301,7 +301,7 @@ Hello,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?
 
-We supply a 16-port Gigabit PoE switch with 2 SFP uplinks (unmanaged, 300 W) - model STC-2016GP - that fits the same slot as your UNIPOE PM3018GSNL-330 V2 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $88.0 USD EXW (list price, valid 15 days).
+We supply a 16-port Gigabit PoE switch with 2 SFP uplinks (unmanaged, 300 W) - model STC-2016GP - that fits the same slot as your UNIPOE PM3018GSNL-330 V2 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $88.0 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -612,7 +612,7 @@ P1_EN = {
     'STI-288GP': ('industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged)', ''),
     'STI-488GP': ('industrial DIN-rail switch, 8x Gigabit PoE+ plus 4 SFP (unmanaged)', ''),
     'STI-21616GP': ('16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (unmanaged)', ''),
-    'LT-IS6312GP-4GX8GT-FBP': ('industrial L2+ managed fibre-bypass switch, 8x Gigabit PoE+ plus 4x 2.5G SFP (SmartByte model number kept)', ''),
+    # LT-IS6312GP-4GX8GT-FBP（光纤 Bypass）：Saga 无自有型号，不进样板（供应商型号不外露）→ 走「核型中」样板
     # 商用 Realtek 线（HRUI 对照表；Saga 对外列表价）
     'STC-08GE': ('8-port Gigabit desktop switch (unmanaged)', ''),
     'STC-024FP': ('4-port Fast Ethernet PoE switch with 2 uplinks (unmanaged)', ''),
@@ -842,7 +842,7 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
                        f'and there was no reason to answer a mass mail. This one is specific.')
             else:
                 op0 = 'We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue.'
-            q0 = '' if hook.rstrip('.').endswith('?') else 'One question: is the port mix fixed by the design, or can we propose an equivalent layout?\n\n'
+            q0 = '' if '?' in hook else 'One question: is the port mix fixed by the design, or can we propose an equivalent layout?\n\n'
             body = (f"{hi}\n\n{op0} {hook}\n\n{q0}"
                     "Best regards,\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/")
             note0 = ('> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。' if not p1
@@ -859,7 +859,7 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     if r:
         price = f"${r[col]} USD EXW (price snapshot {r['汇率日期']}, valid 15 days)"
     elif ALT_PRICES.get(p1):
-        price = f"${ALT_PRICES[p1][0]} USD EXW (list price, valid 15 days)"
+        price = f"${ALT_PRICES[p1][0]} USD EXW (valid 15 days)"
     else:
         price = 'price on request'
     # 规则 ㉕：档案 saga_now.price 里已定的锚价（own quote → 群发现价 → 最近实报 → 档位）优先于档位公式
@@ -921,7 +921,7 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     oem = ' under your own label with neutral packaging' if ('品牌' in typ or 'OEM' in typ or '分销' in typ or '经销' in typ) else ' with neutral packaging'
     short = re.split(r' \(|, ', desc)[0]
     subj = f'{p1} - {short} ({chip + ", " if chip else ""}neutral label)'
-    hook_q = bool(hk) and hk.rstrip('.').rstrip('）').endswith('?')
+    hook_q = bool(hk) and '?' in hk  # 钩子句已带问题 → 不再叠加通用问句（一次只问一个问题）
     body = '\n'.join([
         hi, '',
         opener, '',

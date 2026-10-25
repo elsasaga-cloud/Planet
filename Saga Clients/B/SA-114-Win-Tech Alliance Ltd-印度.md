@@ -239,7 +239,7 @@ Hi Harvinder,
 
 Picking up our earlier exchange about PoE / industrial switches. On the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?
 
-We supply a 4-port 2.5G PoE switch with 1x10G SFP+ and 1x 2.5G uplink (unmanaged) - model STC-114XGDGP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $44.0 USD EXW (list price, valid 15 days).
+We supply a 4-port 2.5G PoE switch with 1x10G SFP+ and 1x 2.5G uplink (unmanaged) - model STC-114XGDGP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $44.0 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
