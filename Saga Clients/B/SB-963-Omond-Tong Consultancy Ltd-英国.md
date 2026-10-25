@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110FE — 询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）。已打开的主题（1/27 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续；换人再触锚价 STI-110FE $20.6 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-30 $65（10G Media Converter）、2024-11-07 $300（48 Port PoE Managed Switch）、2025-02-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）、2026-06-12 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC? Reference: STI-110FE at $20.6 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；「欠答」开头（用户表询盘 2 台 24 V 百兆 MC）；FC 口型写 on request，发前核）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）
 - **断点 / 为什么停在这里**：小型咨询公司、询盘仅 2 台（低量）；FC 口型 Saga 列表无（注明）；18 次无回复、电话不通
 - **Saga 现在该推什么**：P1 **STI-110FE**（25% 档，换人再触锚价 STI-110FE $20.6 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-30 $65（10G Media Converter）、2024-11-07 $300（48 Port PoE Managed Switch）、2025-02-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）、2026-06-12 $16000（32 Port 400GB DC Switch））——询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）。已打开的主题（1/27 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；「欠答」开头（用户表询盘 2 台 24 V 百兆 MC）；FC 口型写 on request，发前核）
   - 第一问（只问一个）：Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC? Reference: STI-110FE at $20.6 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -274,23 +274,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110FE - industrial mini Fast Ethernet media converter (neutral label)
+**主题**：Your enquiry for two 24 V industrial Fast Ethernet media converters - the answer you did not get
 
 ```text
 Hi Martin,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC?
+You asked us for two 24 V industrial Fast Ethernet media converters with FC/SC fibre ports and did not get a proper answer from us - apologies, here it is (the product mails you had since were general ones).
 
-We supply an industrial mini Fast Ethernet media converter (1 fiber + 1 copper) - model STI-110FE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $20.6 USD EXW (valid 15 days).
+DIN-rail industrial Fast Ethernet media converter, 1 x 10/100 RJ45 + 1 x 100M fibre, 12-58 V DC (24 V is fine), -40 to 75 C, UKCA/CE/RoHS - model STI-110FE - $20.6 USD EXW each (MOQ 1, 15-day validity); SC connector as standard, FC on request; the Gigabit version - STI-110GE - $26.5. Two units ship as a parcel by courier.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is an SC-connector unit acceptable, or must it be FC - and single-mode or multimode?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
