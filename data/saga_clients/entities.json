@@ -1803,7 +1803,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WhatsApp 一句话",
+"action": "WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
 "one_question": "Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?"
 },
 "facts": [
@@ -1819,7 +1819,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hi, Simon from Saga Telecom. The two 24-port PoE configs you asked about, current numbers, EXW, MOQ 1, 15-day validity: 24 x PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the July mail said $170; the RMB moved from 7.2 to 6.7 since); 24 x PoE+ + 4 x SFP (1G/2.5G), L2+ managed - STC-424DGGPM-280W - $140.1; the industrial DIN 24 x PoE+ + 4 x 10G you asked about - STI-42424XGGPM - $411.1. Which config did the price land for, and is that project still live?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -5314,7 +5317,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；DAP 报价须 Simon 按百运网实算后再发）",
 "one_question": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW."
 },
 "facts": [
@@ -5346,7 +5349,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hi, Simon from Saga Telecom. For the camera closets in your VMS projects, the two units I would quote, EXW Shenzhen, MOQ 1, 15-day validity: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $84.1; outdoor cabinets, DIN-rail 4 x Gigabit PoE+ + 1 x SFP, -40 to 75 C - STI-144GP - $35.5. Freight was the problem last time - this time tell me the quantity and I quote DAP Pretoria next to EXW so you see the full number. Which of the two, and how many for the first site?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -22670,7 +22676,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA 一句话（付样 + 首批量）",
+"action": "WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
 "one_question": "If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?"
 },
 "facts": [
@@ -22695,7 +22701,10 @@
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文",
 "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Ady, Simon from Saga Telecom (ISAF). Your SN-GS2300-10FP slot: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, in Snexus packing - STC-28DGGPM - $87.4 EXW with your logo (MOQ 1, 15-day validity); the 26FP slot - STC-424DGGPM-280W - $145.7. Samples are paid, but the sample price is credited in full against a first batch of 20 pcs. On that basis, does the dual-sourcing of the SN-GS2300 line go ahead?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -37473,7 +37482,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
 "one_question": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files."
 },
 "facts": [
@@ -37513,7 +37522,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Rafi, Simon from Saga Telecom. We do not build HDMI converters, so no news there. For the camera and ELV closets in your projects, two units with CE files, EXW, MOQ 1, 15-day validity: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based - STC-424DGGPM-280W - $140.1; 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $84.1; industrial versions on request. Which project is next - Dubai or Abu Dhabi - and what cabinet count?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -37906,7 +37918,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；环网只写 ring redundancy）",
 "one_question": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory."
 },
 "facts": [
@@ -37930,7 +37942,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hi, Simon from Saga Telecom. For the 2-fibre + 4-copper ring requirement: our DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C - STI-288DGGPM - $137.5 EXW (MOQ 1, 15-day validity) carries the ring protection; the 2 + 4 unmanaged unit cannot do a ring. Is the ring requirement from the end client's spec, and how many nodes in the ring?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -39783,7 +39798,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA 一句话",
+"action": "WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
 "one_question": "Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?"
 },
 "facts": [
@@ -39800,7 +39815,10 @@
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文",
 "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Mr. Pekyurek, Simon from Saga Telecom - ISAF follow-up on the industrial line. Two NVC-branded SKUs, EXW, MOQ 1, 15-day validity, CE/FCC files: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - STI-288DGGPM - $137.5; compact 4 x Gigabit PoE+ + 1 x SFP, unmanaged - STI-144GP - $35.5. Which ONV / Xinqiao industrial PoE SKU is your volume item today, so I line ours up against that one?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -46977,7 +46995,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
 "one_question": "For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?"
 },
 "facts": [
@@ -47009,7 +47027,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hi, Simon from Saga Telecom. On the two 12-SFP + 12-RJ45 units: before I quote, is it for your own SOC rack or a client site, and do you need L3 (routing between VLANs) or is L2+ enough? With that I quote the right build rather than a generic one."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -51455,7 +51476,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
 "one_question": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?"
 },
 "facts": [
@@ -51511,7 +51532,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hi, Simon from Saga Telecom. On the 8-SFP + 8-RJ45 managed unit, non-PoE, L2 and L3 versions, SC and SFP optics: before I confirm the build, what is the end application and the ambient range (cabinet indoors, or -40 to 75 C)? That decides housing and firmware, and I quote both L2 and L3 in one line each. BIS stays on your side."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -58508,7 +58532,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
 "one_question": "For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input."
 },
 "facts": [
@@ -58564,7 +58588,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hi, Simon from Saga Telecom. For the DIN-rail PoE positions in your automation and CCTV panels, two units with dual DC input, -40 to 75 C, EXW, MOQ 1, 15-day validity: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - STI-288DGGPM - $137.5; compact 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged - STI-054GP - $32.5. Which project panel is next, and how many PoE ports per panel?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -62726,7 +62753,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
 "one_question": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue."
 },
 "facts": [
@@ -62774,7 +62801,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hi, Simon from Saga Telecom. Two EXW numbers for your catalogue next to the optical transmission lines, MOQ 1, 15-day validity: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5; DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STI-288DGGPM - $137.5. EAC stays on your side. Which of the two fits your catalogue first?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -64991,7 +65021,7 @@
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
 "draft_en": {
-"subject": "Per la linea Videostar - 8-port PoE+ managed, and your ONV code for the 12-fibre unit",
+"subject": "For the Videostar line - 8-port PoE+ managed, and your ONV code for the 12-fibre unit",
 "body": "Dear Sig. Timpanaro,\n\nAt IFSEC 2023 you told us you buy from ONV, are happy with the quality but find the price high at times, and asked about a 12-fibre + 12-copper unit and the chipset and power supply inside. The mails you had from us since were general ones; this is specific.\n\nFor the Videostar PoE line: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell switch core, industrial-grade power stage, CE/RoHS - model STC-28DGGPM - $87.4 USD EXW with the Videostar logo in the web UI (MOQ 1, 15-day validity; printed carton from 200 sets). For the 12-fibre + 12-copper position I quote against the exact ONV code rather than guess.\n\nOne question: which ONV code do you buy for the 12-fibre + 12-copper unit today?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
@@ -72385,14 +72415,17 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA 一句话（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "WA 一句话（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；「10–15 天」交期是对外承诺，发前确认）",
 "one_question": "For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed."
 },
 "facts": [],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hi, Simon from Saga Telecom - ISAF follow-up on the 2-fibre + 2-copper PoE requirement. Closest units, EXW, MOQ 1, 15-day validity, 10-15 days from order: DIN-rail 4 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C - STI-244GP - $35; 8 x PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - STI-288DGGPM - $137.5. Is the project still live, and how many units?"
+},
 "as_of": "2026-10-24"
 }
 }

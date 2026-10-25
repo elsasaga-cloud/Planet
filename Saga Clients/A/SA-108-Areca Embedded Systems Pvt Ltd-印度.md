@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM 类 — 8 光 8 电管理（L2/L3 分档）→ 先确认应用与温度范围再定机壳/固件档；—
 - **第一问（只问一个）**：Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
 - **最大未知**：年走量与现供应商
-- **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）
+- **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：8 光 8 电管理（L2/L3 分档）。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-448XGGPM 类**（25% 档，—）——8 光 8 电管理（L2/L3 分档）→ 先确认应用与温度范围再定机壳/固件档
-- **下一步（具体）**：按 WA 节奏　WhatsApp　WA（用 one_question 这句，WhatsApp 直接发，不附资料）
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））
   - 第一问（只问一个）：Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -245,19 +245,13 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hi Kishore,
-
-Picking up our earlier exchange about PoE / industrial switches. Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Hi, Simon from Saga Telecom. On the 8-SFP + 8-RJ45 managed unit, non-PoE, L2 and L3 versions, SC and SFP optics: before I confirm the build, what is the end application and the ambient range (cabinet indoors, or -40 to 75 C)? That decides housing and firmware, and I quote both L2 and L3 in one line each. BIS stays on your side.
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

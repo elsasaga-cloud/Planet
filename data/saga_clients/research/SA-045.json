@@ -175,7 +175,7 @@
     "next_move": {
       "when": "按 WA 节奏",
       "channel": "WhatsApp",
-      "action": "WA 一句话（付样 + 首批量）",
+      "action": "WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
       "one_question": "If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?"
     },
     "facts": [
@@ -200,7 +200,10 @@
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文",
       "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Ady, Simon from Saga Telecom (ISAF). Your SN-GS2300-10FP slot: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, in Snexus packing - STC-28DGGPM - $87.4 EXW with your logo (MOQ 1, 15-day validity); the 26FP slot - STC-424DGGPM-280W - $145.7. Samples are paid, but the sample price is credited in full against a first batch of 20 pcs. On that basis, does the dual-sourcing of the SN-GS2300 line go ahead?"
+    },
     "as_of": "2026-10-24"
   }
 }

@@ -277,7 +277,7 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Per la linea Videostar - 8-port PoE+ managed, and your ONV code for the 12-fibre unit
+**主题**：For the Videostar line - 8-port PoE+ managed, and your ONV code for the 12-fibre unit
 
 ```text
 Dear Sig. Timpanaro,

@@ -132,7 +132,7 @@
     "next_move": {
       "when": "按 WA 节奏",
       "channel": "WhatsApp",
-      "action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；DAP 报价须 Simon 按百运网实算后再发）",
       "one_question": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW."
     },
     "facts": [
@@ -164,7 +164,10 @@
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Hi, Simon from Saga Telecom. For the camera closets in your VMS projects, the two units I would quote, EXW Shenzhen, MOQ 1, 15-day validity: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $84.1; outdoor cabinets, DIN-rail 4 x Gigabit PoE+ + 1 x SFP, -40 to 75 C - STI-144GP - $35.5. Freight was the problem last time - this time tell me the quantity and I quote DAP Pretoria next to EXW so you see the full number. Which of the two, and how many for the first site?"
+    },
     "as_of": "2026-10-24"
   }
 }

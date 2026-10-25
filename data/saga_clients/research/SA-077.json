@@ -154,7 +154,7 @@
     "next_move": {
       "when": "按 WA 节奏",
       "channel": "WhatsApp",
-      "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
       "one_question": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files."
     },
     "facts": [
@@ -194,7 +194,10 @@
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Rafi, Simon from Saga Telecom. We do not build HDMI converters, so no news there. For the camera and ELV closets in your projects, two units with CE files, EXW, MOQ 1, 15-day validity: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based - STC-424DGGPM-280W - $140.1; 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $84.1; industrial versions on request. Which project is next - Dubai or Abu Dhabi - and what cabinet count?"
+    },
     "as_of": "2026-10-24"
   }
 }

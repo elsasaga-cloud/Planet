@@ -121,7 +121,7 @@
     "next_move": {
       "when": "按 WA 节奏",
       "channel": "WhatsApp",
-      "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
       "one_question": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?"
     },
     "facts": [
@@ -177,7 +177,10 @@
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Hi, Simon from Saga Telecom. On the 8-SFP + 8-RJ45 managed unit, non-PoE, L2 and L3 versions, SC and SFP optics: before I confirm the build, what is the end application and the ambient range (cabinet indoors, or -40 to 75 C)? That decides housing and firmware, and I quote both L2 and L3 in one line each. BIS stays on your side."
+    },
     "as_of": "2026-10-24"
   }
 }

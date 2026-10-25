@@ -137,7 +137,7 @@
     "next_move": {
       "when": "按 WA 节奏",
       "channel": "WhatsApp",
-      "action": "WhatsApp 一句话",
+      "action": "WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
       "one_question": "Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?"
     },
     "facts": [
@@ -153,7 +153,10 @@
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Hi, Simon from Saga Telecom. The two 24-port PoE configs you asked about, current numbers, EXW, MOQ 1, 15-day validity: 24 x PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the July mail said $170; the RMB moved from 7.2 to 6.7 since); 24 x PoE+ + 4 x SFP (1G/2.5G), L2+ managed - STC-424DGGPM-280W - $140.1; the industrial DIN 24 x PoE+ + 4 x 10G you asked about - STI-42424XGGPM - $411.1. Which config did the price land for, and is that project still live?"
+    },
     "as_of": "2026-10-24"
   }
 }

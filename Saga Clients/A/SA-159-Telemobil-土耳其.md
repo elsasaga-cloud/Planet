@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-222GP — ISAF 现场看的 2 光 2 电 PoE → STI-222GP 对位；10–15 天能发的替代是 4 PoE + 1 SFP DIN 与 8+2 管理款；—
 - **第一问（只问一个）**：For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：按 WA 节奏 WhatsApp WA 一句话（用 one_question 这句，WhatsApp 直接发，不附资料）
+- **下一步**：按 WA 节奏 WhatsApp WA 一句话（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；「10–15 天」交期是对外承诺，发前确认）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：2 光 2 电工业 PoE。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-222GP**（25% 档，—）——ISAF 现场看的 2 光 2 电 PoE → STI-222GP 对位；10–15 天能发的替代是 4 PoE + 1 SFP DIN 与 8+2 管理款
-- **下一步（具体）**：按 WA 节奏　WhatsApp　WA 一句话（用 one_question 这句，WhatsApp 直接发，不附资料）
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WA 一句话（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；「10–15 天」交期是对外承诺，发前确认）
   - 第一问（只问一个）：For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
@@ -228,25 +228,13 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (neutral label)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hi Kaan,
-
-We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth, with one concrete option. For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.
-
-We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Hi, Simon from Saga Telecom - ISAF follow-up on the 2-fibre + 2-copper PoE requirement. Closest units, EXW, MOQ 1, 15-day validity, 10-15 days from order: DIN-rail 4 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C - STI-244GP - $35; 8 x PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - STI-288DGGPM - $137.5. Is the project still live, and how many units?
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
