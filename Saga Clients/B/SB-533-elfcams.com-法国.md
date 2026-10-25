@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型；换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-16 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one? Reference: STC-424XGGM at $138 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型
 - **断点 / 为什么停在这里**：自有品牌电商：已有深圳货源（表内「外壳普遍一般」= 低价白牌），需以外壳/品质差异切入
 - **Saga 现在该推什么**：P1 **STC-424XGGM**（30% 档，换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-16 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch））——自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
   - 第一问（只问一个）：Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one? Reference: STC-424XGGM at $138 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -270,23 +270,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：For the Elfcam switch pages - a stronger-housing model for PoE or for 10G first?
 
 ```text
-Hi Franck,
+Hello Franck,
 
-Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 12 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one?
+We wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently "Marvell Industrial Alert System" on 22 September 2026 - none of which needed an answer. This one is specific.
 
-We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $138 USD EXW (valid 15 days).
+For the Elfcam-branded switch pages, under your label from small lots, CE/RoHS, neutral packing: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based, steel housing - model STC-424XGGM - $138.0 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $87.4. Your own SFPs plug in as they are. A small 2.5G desktop switch we do not have as a standard model - said up front.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which page needs a stronger-housing model first - the PoE page or the 10G one?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

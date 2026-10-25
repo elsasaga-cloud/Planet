@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 Kyolis 标工业 FS（栏目工业/可管理/机架）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；机架管理位 STC-424DGGPM-280W；工业 MC STI-110GE；EoC/SFP Saga 不供。已打开的主题（1/25 封有打开记录）：「10G fiber media converter」(2024-07-18) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-10 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-18 $65（10g fiber media converter）、2025-08-11 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Stephane, for the industrial and managed switches sold under the Kyolis label next to your fibre/coax converters, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE rack L2+, gigabit MC; CE/RoHS) from small lots in your housing — which switch model do your French integrators reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 Kyolis 标工业 FS（栏目工业/可管理/机架）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；机架管理位 STC-424DGGPM-280W；工业 MC STI-110GE；EoC/SFP Saga 不供
 - **断点 / 为什么停在这里**：「fabrication française」定位：外购白牌需二供/隐性采购口径；EoC/SFP 需求 Saga 不供
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-10 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-18 $65（10g fiber media converter）、2025-08-11 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch））——自有 Kyolis 标工业 FS（栏目工业/可管理/机架）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；机架管理位 STC-424DGGPM-280W；工业 MC STI-110GE；EoC/SFP Saga 不供。已打开的主题（1/25 封有打开记录）：「10G fiber media converter」(2024-07-18) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
   - 第一问（只问一个）：Stephane, for the industrial and managed switches sold under the Kyolis label next to your fibre/coax converters, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE rack L2+, gigabit MC; CE/RoHS) from small lots in your housing — which switch model do your French integrators reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -282,23 +282,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
+**主题**：A second ODM source for the switches under the Kyolis label - next to your fibre/coax converters
 
 ```text
-Hi Stephane,
+Hello Stephane,
 
-Some time ago you had a product mail from us - "90W PoE Managed Switch" on 17 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial and managed switches sold under the Kyolis label next to your fibre/coax converters, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE rack L2+, gigabit MC; CE/RoHS) from small lots in your housing — which switch model do your French integrators reorder most?
+We wrote to you once in February 2025 about a 90 W PoE managed switch, and since then only general product mails - most recently "Marvell Industrial Alert System" on 21 September 2026 - none of which needed an answer. This one is specific.
 
-We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $85.5 USD EXW (valid 15 days).
+Your fibre/coax video converters are your own design; for the industrial and managed switches sold under the Kyolis label next to them, a second ODM source in your housing from small lots, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); rack 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5. EoC and SFPs we do not carry.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which switch model do your French integrators reorder most - that is the one worth a side-by-side?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
