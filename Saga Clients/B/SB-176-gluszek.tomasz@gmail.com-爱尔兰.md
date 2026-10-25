@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）；首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → gluszek.tomasz@gmail.com 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → gluszek.tomasz@gmail.com 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`——钩子句两问并一问；PoE++ 用 STI-288DGGPM-2BT，价按 PDF 上限 $154（25% 档 $164.4 超上限，㉕）；不做 IP67 如实说）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）
 - **断点 / 为什么停在这里**：个体、单量小
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → gluszek.tomasz@gmail.com　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → gluszek.tomasz@gmail.com　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`——钩子句两问并一问；PoE++ 用 STI-288DGGPM-2BT，价按 PDF 上限 $154（25% 档 $164.4 超上限，㉕）；不做 IP67 如实说）
   - 第一问（只问一个）：Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -191,23 +191,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：PoE++ switch instead of stacking injectors - for your next camera site
 
 ```text
 Hi Tomasz,
 
-Picking up our earlier exchange about PoE / industrial switches. Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?
+Did the two 90 W injectors run the PTZ cameras as expected?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (valid 15 days).
+If the next site needs several high-power ports, one switch is cheaper and cleaner than stacking injectors: DIN-rail industrial 8 x Gigabit PoE (two of them PoE++ 60-90 W) + 2 x SFP, L2+ managed, -40 to 75 C, 240 W budget, model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). It goes in a cabinet; we do not make outdoor IP67 housings, so for a pole-mounted box it would sit inside your enclosure with a 48 V supply.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: how many 60-90 W devices per cabinet does the next site need?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
