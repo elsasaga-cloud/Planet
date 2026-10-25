@@ -102333,7 +102333,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "For the industrial switches and media converters sold under the digicomm label for OT networks, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, redundant power, CE/RoHS) from small lots in your housing — which model do your utility customers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -102355,7 +102355,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Industrial switches and converters under the digicomm label for OT networks - a second ODM source",
+"body": "Hello digicomm team,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 23 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches and media converters sold under the digicomm label for OT networks (ONV-built today), a second ODM source in your housing from small lots, -40 to 75 C, redundant DC input, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); L2+ with ring redundancy - STI-288DGGPM - $137.5; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5. SFPs stay with your current source.\n\nOne question: which model do your utility customers reorder most - that is the one worth a side-by-side with the ONV unit?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -221737,7 +221740,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；白色外壳 = 开模/起订量问题，信里不承诺）",
 "one_question": "Anke, for a MICROSENS-labelled industrial managed 8-PoE + 2-SFP (Marvell) and 10G media converters — white housing is possible above a minimum lot; what annual volume would the white-housing SKU run, so I check tooling with the factory? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -221759,7 +221762,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "A MICROSENS-labelled industrial 8-PoE + 2-SFP in white housing - the volume question",
+"body": "Hello Anke,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor a MICROSENS-labelled industrial managed switch in your white housing colour: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $85.5 USD EXW in standard housing (MOQ 1, 15-day validity); the 10G media converter, 1 x 10G SFP+ + 1 x 100M-10G RJ45 - $65. White housing is a tooling and minimum-lot question, not a yes/no.\n\nOne question: what annual volume would the white-housing SKU run at, so I check tooling and the minimum lot with the factory before we talk further?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -228021,7 +228027,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -228043,7 +228049,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "The industrial switches under the AIXONTEC label - a replacement source from small lots",
+"body": "Hi Ashkan,\n\nOver the past months you had a few product mails from us - most recently \"Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches you sell under the AIXONTEC label next to the cabling and RFID range (sourced in China today), the same class in your packaging from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); the same unmanaged - STI-288GP - $62.2. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which model do your industrial customers reorder most - managed or unmanaged?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -286344,7 +286353,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；变电站守界：信里明写「No substation claims」）",
 "one_question": "Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -286366,7 +286375,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Welotec-branded compact switches outside the IEC 61850-3 line - which housing size?",
+"body": "Hi Jos,\n\nOver the past months you had a few product mails from us - most recently \"10G Enterprise SFP Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nOutside the IEC 61850-3 line - for the compact Welotec-branded industrial switches used in ordinary cabinets - under your label from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); mini 5 x Gigabit unmanaged, 12-36 V DC - STI-050GE - $18.5; 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46. No substation claims - these are standard industrial units.\n\nOne question: which housing size do you want to standardise on for the compact range - the 5-port mini or the 8 + 2?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -286807,7 +286819,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "For the wienet industrial switch range, we can serve as a second ODM source (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a port count in the range you currently source from a single supplier? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -286829,7 +286841,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "The wienet industrial switch range - a second ODM source for the single-sourced port counts",
+"body": "Hello Wieland Electric team,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the wienet industrial switch range, a second ODM source in your housing from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5-port - STI-050GE - $18.5; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $85.5. SFPs and accessories stay with your current sources.\n\nOne question: is there a port count in the wienet range that you currently source from a single supplier - that is where a second source earns its place?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -427743,7 +427758,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "Sandra, to complement the BlueOptics transceiver range with an active line, we can supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches and gigabit MCs (−40~75 °C, CE/RoHS) under the BlueOptics label from small lots — is an industrial switch or MC SKU on your roadmap? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -427765,7 +427780,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "An active line next to BlueOptics transceivers - industrial switch or converter SKU on the roadmap?",
+"body": "Hi Sandra,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nTransceivers, DAC and AOC are BlueOptics and we do not carry them. To complement the range with an active line under the BlueOptics label from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit + 2 x SFP unmanaged - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $85.5; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5. Your optics plug in as they are.\n\nOne question: is an industrial switch or converter SKU on the BlueOptics roadmap for 2027, or does the shop stay passive-only?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -496405,7 +496423,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port PoE Managed Switch」给 joerg.ridder@netcatsystems.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封",
+"action": "首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port PoE Managed Switch」给 joerg.ridder@netcatsystems.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "Mr. Ridder, for the PoE switches you procure for customer projects next to Cisco and Netgear, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, CE/RoHS, EXW USD — is there a budget band your customers ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -496436,7 +496454,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "A budget band below Cisco and Netgear for your project procurement - two numbers",
+"body": "Dear Mr. Ridder,\n\nWe wrote to you once in February 2025 about a 16-port PoE managed switch, and since then only general product mails - most recently \"10G Enterprise SFP Switch\" on 23 September 2026 - none of which needed an answer. This one is specific.\n\nFor the PoE switches you procure for customer projects next to Cisco and Netgear, a neutral-brand budget band at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5. English web GUI; CE DoC and RoHS files go with the first order.\n\nOne question: is there a budget band your customers ask for below the branded lines - and is it the 8-port or the 24-port they ask about?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
