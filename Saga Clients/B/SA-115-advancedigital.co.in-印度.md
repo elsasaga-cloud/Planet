@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@advancedigital.co.in（Subodh） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@advancedigital.co.in（Subodh） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。
 - **断点 / 为什么停在这里**：网站占位 → 活跃度存疑；邮箱可能失效
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@advancedigital.co.in（Subodh）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@advancedigital.co.in（Subodh）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -229,23 +229,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
+**主题**：One model for a 10-pc trial - gigabit media converter
 
 ```text
 Hi Subodh,
 
-Picking up our earlier exchange about PoE / industrial switches. You've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?
+You have had our optical and media-converter prices since 2024 and there has been no project yet - fair enough. Rather than more price lists, one concrete offer: the industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (or fixed SC single-mode 20 km), DIN-rail, -40 to 75 C, CE/RoHS - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); a 10-pc trial ships in one carton.
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is there one model - this converter, or a 2-SFP + copper switch - where a 10-pc trial would actually move stock for you?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（Suraj Katte，2023-08 要过价格册；库内无邮箱——先在 S 邮箱 2023-08 往来里找） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（Suraj Katte，2023-08 要过价格册；库内无邮箱——先在 S 邮箱 2023-08 往来里找） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；无邮箱——WhatsApp 发）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）
 - **断点 / 为什么停在这里**：无邮箱，只能 WA
 - **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（Suraj Katte，2023-08 要过价格册；库内无邮箱——先在 S 邮箱 2023-08 往来里找）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（Suraj Katte，2023-08 要过价格册；库内无邮箱——先在 S 邮箱 2023-08 往来里找）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；无邮箱——WhatsApp 发）
   - 第一问（只问一个）：You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -206,23 +206,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
+**主题**：WhatsApp: the price pages you asked for after the single-fibre converter post
 
 ```text
-Hello,
+Hi Suraj,
 
-Picking up our earlier exchange about PoE / industrial switches. You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price?
+You asked for our price book after the single-fibre media converter post. The converter: industrial Gigabit, 1 x RJ45 + 1 x SFP slot, DIN-rail, -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); for single-fibre you fit a BiDi SFP, which you buy locally - we do not supply the optics. An 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch is $84.1.
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which quantity range should I price - 10, 50 or more?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

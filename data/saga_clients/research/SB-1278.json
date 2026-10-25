@@ -84,7 +84,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
       "one_question": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -117,7 +117,10 @@
       "无邮件往来",
       "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Certificates for the bypass industrial switch - and the ring question",
+      "body": "Hi Atul,\n\nIn 2023 you asked about certificates for the bypass industrial switch and said the product was useful for you. (Over the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 11 August 2026 - and there was no reason to answer a mass mail.)\n\nThe unit: DIN-rail L2+ managed, 8 x Gigabit PoE+ + 4 x SFP, hardware optical bypass on the fibre uplinks, -40 to 75 C - $194.3 USD EXW (MOQ 1, 15-day validity). CE / FCC / RoHS files are ready; there is no UL and no BIS. For panels without the bypass requirement, the regular DIN-rail 8 x PoE+ + 2 x SFP L2 managed unit, STI-288GPM, is $82.2.\n\nOne question: is the project a ring of panels on one fibre, and how many nodes?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-25"
   }
 }

@@ -102,7 +102,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → contact@technosys.co.in（无具名 KP；公用地址）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
       "one_question": "Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?"
     },
     "facts": [
@@ -126,7 +126,10 @@
     "proof_gaps": [
       "无邮件往来"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "An alternative to the EtherWAN / KONTEN industrial fibre switches you use",
+      "body": "Hello Technosys team,\n\nOver the past months you had a product mail from us - \"24 Port PoE Managed Switch\" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAs an alternative to the EtherWAN and KONTEN industrial fibre switches you use: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged, -40 to 75 C, CE/RoHS - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP version - STI-288GP - $59.8; industrial Gigabit media converter - STI-110GE - $26.5.\n\nOne question: do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-25"
   }
 }

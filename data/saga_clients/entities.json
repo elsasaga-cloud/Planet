@@ -54732,7 +54732,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → luthra@win-alliance.com（Harvinder Luthra）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?"
 },
 "facts": [
@@ -54765,7 +54765,10 @@
 "无邮件往来",
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "The 5/8-port 2.5G CKD idea - two numbers I need before pricing kits",
+"body": "Hi Harvinder,\n\nIn 2024 you raised the idea of 5/8-port 2.5G switches in CKD form for assembly in Mumbai, and said you would send the requirement by mail; it never came, so I am writing first.\n\nAs the reference point, the assembled unit on that footprint is a 6-port 2.5G PoE switch (4 x 2.5G PoE+ + 1 x 2.5G + 1 x 10G SFP+), unmanaged - model STC-114XGDGP - $44 USD EXW (MOQ 1, 15-day validity). A CKD kit (PCBA, housing, PSU separately) is possible in principle, but it is only worth pricing against a volume.\n\nOne question, in two parts: what monthly volume would the Mumbai line run, and do you need test-report support from our side for BIS, or do you handle BIS entirely locally?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -55145,7 +55148,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@advancedigital.co.in（Subodh）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -55170,7 +55173,10 @@
 "无邮件往来",
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "One model for a 10-pc trial - gigabit media converter",
+"body": "Hi Subodh,\n\nYou have had our optical and media-converter prices since 2024 and there has been no project yet - fair enough. Rather than more price lists, one concrete offer: the industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (or fixed SC single-mode 20 km), DIN-rail, -40 to 75 C, CE/RoHS - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); a 10-pc trial ships in one carton.\n\nOne question: is there one model - this converter, or a 2-SFP + copper switch - where a 10-pc trial would actually move stock for you?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -63731,7 +63737,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → chirag.s@a-ites.com（Chirag Shah）",
-"action": "首封前知悉：Elsa 群发 BCC 已触达 12 轮（2025-03-12→2026-08-14，锚 To virtual_eye@hotmail.com / panaji@gmail.com，0 回）（第 74 批(n)）；首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 群发 BCC 已触达 12 轮（2025-03-12→2026-08-14，锚 To virtual_eye@hotmail.com / panaji@gmail.com，0 回）（第 74 批(n)）；首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?"
 },
 "facts": [
@@ -63880,7 +63886,10 @@
 "无来信（Elsa 去信 12 轮见 facts；S/A 箱无往来）",
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "For your ATMS roadside cabinets - the 8-port managed PoE DIN unit, with specs",
+"body": "Hi Chirag,\n\nYou told us in 2024 that your roadside cabinets only need 4- and 8-port industrial switches with L2 / web management - nothing bigger. (You also had our general product mails since; no need to answer those.)\n\nThe 8-port unit for those cabinets: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (web GUI, VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $82.2 USD EXW (MOQ 1, 15-day validity); the 4-PoE + 1 RJ45 + 1 SFP unmanaged unit for small cabinets - STI-154GP - $39.2.\n\nOne question: shall I send the surge-protection and temperature specs in the format your ATMS tenders ask for - and is Chirag or Manan the right person for that file?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -65112,7 +65121,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@amitytechnologies.co.in（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Hello Amity team, for the industrial fibre switches you were looking at: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ version $59.8), −40/+75 °C — do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?"
 },
 "facts": [
@@ -65136,7 +65145,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Industrial fibre switches - DIN-rail 8 + 2 SFP, and the BIS question",
+"body": "Hello Amity team,\n\nOver the past months you had a product mail from us - \"24 Port PoE Managed Switch\" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial fibre switches you were looking at: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged, -40 to 75 C, CE/RoHS - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP version - STI-288GP - $59.8. SFP modules we do not supply.\n\nOne question: do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -68115,7 +68127,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → contact@technosys.co.in（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?"
 },
 "facts": [
@@ -68139,7 +68151,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "An alternative to the EtherWAN / KONTEN industrial fibre switches you use",
+"body": "Hello Technosys team,\n\nOver the past months you had a product mail from us - \"24 Port PoE Managed Switch\" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAs an alternative to the EtherWAN and KONTEN industrial fibre switches you use: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged, -40 to 75 C, CE/RoHS - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP version - STI-288GP - $59.8; industrial Gigabit media converter - STI-110GE - $26.5.\n\nOne question: do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -89453,7 +89468,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → hemanth@nivoxtech.com（Hemanth Kumar）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -89478,7 +89493,10 @@
 "无邮件往来",
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "A DIN-rail gigabit media converter under the IVEONET brand",
+"body": "Hi Hemanth,\n\nIn 2024 you asked us for industrial media-converter prices and certificates, and in 2025 about EN 50155 - straight answer on that one: we have no EN 50155 line, so nothing for the rail projects.\n\nFor the IVEONET line, the industrial Gigabit media converter can carry your brand from small lots: 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km), DIN-rail, -40 to 75 C, CE/FCC/RoHS - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the industrial 8 x PoE+ + 2 x SFP unmanaged switch - STI-288GP - $62.2.\n\nOne question: which fibre option do you move most - SFP slot, or fixed SC 20 km?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -121866,7 +121884,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发；CENTEC 按 2C24XF-HSI $1,500 报，SFI 单电源版 on request）",
 "one_question": "For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most? Reference: 24 × 10G SFP+ + 2 × 100G aggregation (STH-2C24XF-HSI, dual PSU) at $1,500 USD EXW; lead time confirmed per order."
 },
 "facts": [
@@ -121882,7 +121900,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "CENTEC-platform aggregation switches from small lots - next to your CTC8180",
+"body": "Hello Daejin Networks team,\n\nFor the CENTEC-based Ethernet switches in your portfolio: we supply CENTEC-platform aggregation switches from small lots, neutral or your label - 24 x 10G SFP+ + 2 x 100G QSFP28, L3 (BGP/OSPF), dual PSU - model STH-2C24XF-HSI - $1,500 USD EXW (MOQ 1, 15-day validity); 32 x 100G - STH-32C - $6,000; and Marvell-based access, 24 x Gigabit + 4 x 10G SFP+ L2+ - STC-424XGGM - $138.0. CE/RoHS files supplied; KC stays on your side.\n\nOne question: which port configuration do your projects need most - 10G aggregation, 100G spine, or gigabit access?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -147377,7 +147398,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → switch@netstar.in",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "For the NS- range — we can't do reverse-PoE, but the 8-PoE + 2-SFP managed (Marvell) and 16/24-PoE units can carry the Netstar label from small lots; which PoE size sells most to your WISP customers? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -147402,7 +147423,10 @@
 "无邮件往来",
 "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "For the NS- range - 8/16/24-PoE units under the Netstar label (no reverse PoE)",
+"body": "Hello Netstar team,\n\nFor the NS- range: reverse-PoE we cannot do. What we can build under the Netstar label from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed (web GUI), Marvell-based, CE/RoHS - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 16 x PoE+ + 2 x SFP L2 managed - STC-2216GPM - $153.5; 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $145.7. BIS stays on your side.\n\nOne question: which PoE size sells most to your WISP customers - 8, 16 or 24?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -204476,7 +204500,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@sabaindia.com（R. Sampath Kumar）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；2024 报 $75 → 今 $84.1 只说汇率 7.2→6.7；10 台试单可按 20% 档 $80.7）",
 "one_question": "Sampath, we quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?"
 },
 "facts": [
@@ -204493,7 +204517,10 @@
 "无邮件往来",
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "The 8-PoE + 2-SFP managed unit we quoted in April 2024 - is the project still open?",
+"body": "Hi Sampath,\n\nIn April 2024 we quoted you the L2 managed 8-PoE + 2-SFP switch at $75, and the camera project went quiet.\n\nThe same slot today: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); the CNY has moved from 7.2 to 6.7 against the dollar since 2024, which is the whole difference. For a 10-pc trial I can hold the distributor price of $80.7.\n\nOne question: is that camera project still open, or has a new one replaced it?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -207150,7 +207177,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -207183,7 +207210,10 @@
 "无邮件往来",
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Certificates for the bypass industrial switch - and the ring question",
+"body": "Hi Atul,\n\nIn 2023 you asked about certificates for the bypass industrial switch and said the product was useful for you. (Over the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 11 August 2026 - and there was no reason to answer a mass mail.)\n\nThe unit: DIN-rail L2+ managed, 8 x Gigabit PoE+ + 4 x SFP, hardware optical bypass on the fibre uplinks, -40 to 75 C - $194.3 USD EXW (MOQ 1, 15-day validity). CE / FCC / RoHS files are ready; there is no UL and no BIS. For panels without the bypass requirement, the regular DIN-rail 8 x PoE+ + 2 x SFP L2 managed unit, STI-288GPM, is $82.2.\n\nOne question: is the project a ring of panels on one fibre, and how many nodes?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -207595,7 +207625,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → 待找地址（Suraj Katte，2023-08 要过价格册；库内无邮箱——先在 S 邮箱 2023-08 往来里找）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；无邮箱——WhatsApp 发）",
 "one_question": "You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -207612,7 +207642,10 @@
 "无邮件往来",
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp: the price pages you asked for after the single-fibre converter post",
+"body": "Hi Suraj,\n\nYou asked for our price book after the single-fibre media converter post. The converter: industrial Gigabit, 1 x RJ45 + 1 x SFP slot, DIN-rail, -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); for single-fibre you fit a BiDi SFP, which you buy locally - we do not supply the optics. An 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch is $84.1.\n\nOne question: which quantity range should I price - 10, 50 or more?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -257960,7 +257993,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → digital_sys@hotmail.com（Jayesh Patel）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -257993,7 +258026,10 @@
 "无邮件往来",
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "From local-market converters to direct import - the first mixed carton",
+"body": "Hi Jayesh,\n\nYou mentioned moving from local-market media converters to importing directly. The gigabit converter for a first mixed carton: industrial Gigabit, 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km), DIN-rail, -40 to 75 C, CE/RoHS - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the 10G media converter we discussed is quoted separately once I know the quantity.\n\nOne question: for a first mixed carton of gigabit and 10G converters, what quantity per model would make the freight worthwhile for you?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -333174,7 +333210,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发）",
 "one_question": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -333190,7 +333226,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Second ODM source for the Hanyo-label media converters and industrial switches",
+"body": "Dear Mr. Nam,\n\nFor the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source from small lots, DIN-rail, -40 to 75 C, CE/RoHS: Gigabit PoE+ media converter (1 x RJ45 PoE + 1 x SFP) - model STI-111GP - $30.1 USD EXW with your logo (MOQ 1, 15-day validity); Gigabit media converter - STI-110GE - $26.5; 8 x Gigabit + 2 x SFP industrial switch - STI-280GE - $46. Passive products we do not make; KC stays on your side.\n\nOne question: which MC or switch SKU do you reorder most?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -401399,7 +401438,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → sucheytaa@grypen.in（Shubham Kumar）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Shubham, following your enquiry for commercial switches: we supply Marvell-based 8-PoE + 2 SFP, 24-PoE + 4 SFP and 24-GE + 4×10G L2+ models from single units, CE/RoHS, EXW USD; BIS by your side — which configuration and quantity does your current project need? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -401415,7 +401454,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Your Alibaba enquiry for commercial switches - the three configurations",
+"body": "Hi Shubham,\n\nYou asked on Alibaba for commercial switches and did not get a proper answer from us - apologies, here it is.\n\nThree L2+ managed configurations, Marvell-based, CE/RoHS, from single units: 8 x Gigabit PoE+ + 2 x SFP - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $140.1; 24 x Gigabit + 4 x 10G SFP+ non-PoE - STC-424XGGM - $132.7. BIS stays on your side.\n\nOne question: which configuration and quantity does your current project need?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -404466,7 +404508,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → sales@technoversebs.com（Suyash Mishra）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Suyash, next to the TP-Link / Netgear PoE lines you resell — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW (neutral box, 1-year warranty (commercial line)); worth a 5-pc trial for SMB CCTV jobs?"
 },
 "facts": [
@@ -404483,7 +404525,10 @@
 "无邮件往来",
 "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "A neutral-box 8-PoE L2+ next to the TP-Link and Netgear lines you resell",
+"body": "Hi Suyash,\n\nNext to the TP-Link and Netgear PoE lines you resell, a neutral-box unit for SMB CCTV jobs: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS, 1-year warranty - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity).\n\nOne question: worth a 5-pc trial for your SMB CCTV jobs, or is the brand name decisive for your customers?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }

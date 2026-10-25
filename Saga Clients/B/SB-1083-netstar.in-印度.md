@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 商用 PoE 补 SKU → STC-28DGGPM（$80.7 @20%，可贴 NS- 标则 30%）；反向 PoE 不供。；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the NS- range — we can't do reverse-PoE, but the 8-PoE + 2-SFP managed (Marvell) and 16/24-PoE units can carry the Netstar label from small lots; which PoE size sells most to your WISP customers? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → switch@netstar.in 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → switch@netstar.in 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：商用 PoE 补 SKU → STC-28DGGPM（$80.7 @20%，可贴 NS- 标则 30%）；反向 PoE 不供。
 - **断点 / 为什么停在这里**：反向 PoE 主品 Saga 无
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——商用 PoE 补 SKU → STC-28DGGPM（$80.7 @20%，可贴 NS- 标则 30%）；反向 PoE 不供。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → switch@netstar.in　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → switch@netstar.in　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：For the NS- range — we can't do reverse-PoE, but the 8-PoE + 2-SFP managed (Marvell) and 16/24-PoE units can carry the Netstar label from small lots; which PoE size sells most to your WISP customers? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -234,23 +234,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：For the NS- range - 8/16/24-PoE units under the Netstar label (no reverse PoE)
 
 ```text
-Hello,
+Hello Netstar team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the NS- range — we can't do reverse-PoE, but the 8-PoE + 2-SFP managed (Marvell) and 16/24-PoE units can carry the Netstar label from small lots; which PoE size sells most to your WISP customers?
+For the NS- range: reverse-PoE we cannot do. What we can build under the Netstar label from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed (web GUI), Marvell-based, CE/RoHS - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 16 x PoE+ + 2 x SFP L2 managed - STC-2216GPM - $153.5; 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $145.7. BIS stays on your side.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Netstar NS-8G-RP / NS-RP071P-OD at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which PoE size sells most to your WISP customers - 8, 16 or 24?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-114XGDGP — 5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 → luthra@win-alliance.com（Harvinder Luthra） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → luthra@win-alliance.com（Harvinder Luthra） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。
 - **断点 / 为什么停在这里**：CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高
 - **Saga 现在该推什么**：P1 **STC-114XGDGP**（30% 档，按主表（研究档 saga_fit））——5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → luthra@win-alliance.com（Harvinder Luthra）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → luthra@win-alliance.com（Harvinder Luthra）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -232,23 +232,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-114XGDGP - 4-port 2.5G PoE switch with 1x10G SFP+ and 1x 2.5G uplink (neutral label)
+**主题**：The 5/8-port 2.5G CKD idea - two numbers I need before pricing kits
 
 ```text
 Hi Harvinder,
 
-Picking up our earlier exchange about PoE / industrial switches. On the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?
+In 2024 you raised the idea of 5/8-port 2.5G switches in CKD form for assembly in Mumbai, and said you would send the requirement by mail; it never came, so I am writing first.
 
-We supply a 4-port 2.5G PoE switch with 1x10G SFP+ and 1x 2.5G uplink (unmanaged) - model STC-114XGDGP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $44.0 USD EXW (valid 15 days).
+As the reference point, the assembled unit on that footprint is a 6-port 2.5G PoE switch (4 x 2.5G PoE+ + 1 x 2.5G + 1 x 10G SFP+), unmanaged - model STC-114XGDGP - $44 USD EXW (MOQ 1, 15-day validity). A CKD kit (PCBA, housing, PSU separately) is possible in principle, but it is only worth pricing against a volume.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question, in two parts: what monthly volume would the Mumbai line run, and do you need test-report support from our side for BIS, or do you handle BIS entirely locally?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

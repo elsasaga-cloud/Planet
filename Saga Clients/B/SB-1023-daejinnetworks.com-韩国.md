@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C24XF-SFI — CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）；首触锚价 STH-2C24XF-SFI $1500 EXW（CENTEC 锚价 $1,500（2C24XF-HSI；SFI 单电源更低，按单核）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most? Reference: 24 × 10G SFP+ + 2 × 100G aggregation (STH-2C24XF-HSI, dual PSU) at $1,500 USD EXW; lead time confirmed per order.
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发；CENTEC 按 2C24XF-HSI $1,500 报，SFI 单电源版 on request）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）
 - **断点 / 为什么停在这里**：邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻
 - **Saga 现在该推什么**：P1 **STH-2C24XF-SFI**（30% 档，首触锚价 STH-2C24XF-SFI $1500 EXW（CENTEC 锚价 $1,500（2C24XF-HSI；SFI 单电源更低，按单核）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发；CENTEC 按 2C24XF-HSI $1,500 报，SFI 单电源版 on request）
   - 第一问（只问一个）：For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most? Reference: 24 × 10G SFP+ + 2 × 100G aggregation (STH-2C24XF-HSI, dual PSU) at $1,500 USD EXW; lead time confirmed per order.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -230,23 +230,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STH-2C24XF-SFI - 24x10G SFP+ plus 2x100G QSFP28 data-centre switch (CENTEC-based, neutral label)
+**主题**：CENTEC-platform aggregation switches from small lots - next to your CTC8180
 
 ```text
-Hello,
+Hello Daejin Networks team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most?
+For the CENTEC-based Ethernet switches in your portfolio: we supply CENTEC-platform aggregation switches from small lots, neutral or your label - 24 x 10G SFP+ + 2 x 100G QSFP28, L3 (BGP/OSPF), dual PSU - model STH-2C24XF-HSI - $1,500 USD EXW (MOQ 1, 15-day validity); 32 x 100G - STH-32C - $6,000; and Marvell-based access, 24 x Gigabit + 4 x 10G SFP+ L2+ - STC-424XGGM - $138.0. CE/RoHS files supplied; KC stays on your side.
 
-We supply a CENTEC-based 24x10G SFP+ plus 2x100G QSFP28 data-centre switch - model STH-2C24XF-SFI - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $1500 USD EXW (valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which port configuration do your projects need most - 10G aggregation, 100G spine, or gigabit access?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

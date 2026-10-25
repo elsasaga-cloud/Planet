@@ -103,7 +103,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发）",
    "one_question": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -119,7 +119,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Second ODM source for the Hanyo-label media converters and industrial switches",
+   "body": "Dear Mr. Nam,\n\nFor the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source from small lots, DIN-rail, -40 to 75 C, CE/RoHS: Gigabit PoE+ media converter (1 x RJ45 PoE + 1 x SFP) - model STI-111GP - $30.1 USD EXW with your logo (MOQ 1, 15-day validity); Gigabit media converter - STI-110GE - $26.5; 8 x Gigabit + 2 x SFP industrial switch - STI-280GE - $46. Passive products we do not make; KC stays on your side.\n\nOne question: which MC or switch SKU do you reorder most?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

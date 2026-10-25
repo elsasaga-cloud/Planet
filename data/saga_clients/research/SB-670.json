@@ -94,7 +94,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → sales@technoversebs.com（Suyash Mishra）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
    "one_question": "Suyash, next to the TP-Link / Netgear PoE lines you resell — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW (neutral box, 1-year warranty (commercial line)); worth a 5-pc trial for SMB CCTV jobs?"
   },
   "facts": [
@@ -111,7 +111,10 @@
    "无邮件往来",
    "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "A neutral-box 8-PoE L2+ next to the TP-Link and Netgear lines you resell",
+   "body": "Hi Suyash,\n\nNext to the TP-Link and Netgear PoE lines you resell, a neutral-box unit for SMB CCTV jobs: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS, 1-year warranty - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity).\n\nOne question: worth a 5-pc trial for your SMB CCTV jobs, or is the brand name decisive for your customers?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

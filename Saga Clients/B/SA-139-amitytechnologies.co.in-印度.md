@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — 默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Hello Amity team, for the industrial fibre switches you were looking at: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ version $59.8), −40/+75 °C — do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@amitytechnologies.co.in（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@amitytechnologies.co.in（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS
 - **断点 / 为什么停在这里**：南亚非主攻区；印度 BIS 认证要求（交换机需 BIS/CRS）；无互动
 - **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@amitytechnologies.co.in（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@amitytechnologies.co.in（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：Hello Amity team, for the industrial fibre switches you were looking at: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ version $59.8), −40/+75 °C — do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -223,23 +223,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GP - industrial DIN-rail switch (neutral label)
+**主题**：Industrial fibre switches - DIN-rail 8 + 2 SFP, and the BIS question
 
 ```text
-Hello,
+Hello Amity team,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello Amity team, for the industrial fibre switches you were looking at: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ version $59.8), −40/+75 °C — do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $59.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+For the industrial fibre switches you were looking at: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged, -40 to 75 C, CE/RoHS - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP version - STI-288GP - $59.8. SFP modules we do not supply.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

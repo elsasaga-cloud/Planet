@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-111GP — 自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供；首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供
 - **断点 / 为什么停在这里**：邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供
 - **Saga 现在该推什么**：P1 **STI-111GP**（30% 档，首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发）
   - 第一问（只问一个）：Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -222,23 +222,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-111GP - industrial mini Gigabit PoE media converter (neutral label)
+**主题**：Second ODM source for the Hanyo-label media converters and industrial switches
 
 ```text
-Hi Nam,
+Dear Mr. Nam,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most?
+For the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source from small lots, DIN-rail, -40 to 75 C, CE/RoHS: Gigabit PoE+ media converter (1 x RJ45 PoE + 1 x SFP) - model STI-111GP - $30.1 USD EXW with your logo (MOQ 1, 15-day validity); Gigabit media converter - STI-110GE - $26.5; 8 x Gigabit + 2 x SFP industrial switch - STI-280GE - $46. Passive products we do not make; KC stays on your side.
 
-We supply an industrial mini Gigabit PoE media converter (1 SFP + 1 PoE copper) - model STI-111GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $30.1 USD EXW (valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which MC or switch SKU do you reorder most?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

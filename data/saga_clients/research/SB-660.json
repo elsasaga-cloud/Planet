@@ -103,7 +103,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → sucheytaa@grypen.in（Shubham Kumar）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
    "one_question": "Shubham, following your enquiry for commercial switches: we supply Marvell-based 8-PoE + 2 SFP, 24-PoE + 4 SFP and 24-GE + 4×10G L2+ models from single units, CE/RoHS, EXW USD; BIS by your side — which configuration and quantity does your current project need? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -119,7 +119,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Your Alibaba enquiry for commercial switches - the three configurations",
+   "body": "Hi Shubham,\n\nYou asked on Alibaba for commercial switches and did not get a proper answer from us - apologies, here it is.\n\nThree L2+ managed configurations, Marvell-based, CE/RoHS, from single units: 8 x Gigabit PoE+ + 2 x SFP - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $140.1; 24 x Gigabit + 4 x 10G SFP+ non-PoE - STC-424XGGM - $132.7. BIS stays on your side.\n\nOne question: which configuration and quantity does your current project need?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }
