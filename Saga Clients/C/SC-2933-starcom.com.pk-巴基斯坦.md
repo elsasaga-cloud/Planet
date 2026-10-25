@@ -1,18 +1,20 @@
 # starcom.com.pk
+**官方名称（调研核实）**：Starcom Technologies（巴基斯坦；Asghar Ali）
 
 > **评级 C**　|　巴基斯坦　|　档案编号 `SC-2933`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：推送 1 次（2025-10-13 → 2025-10-13）　|　**所在清单**：E冷名单(巴基斯坦)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：巴基斯坦 IT 分销（推断）　|　**历史关系**：推送 1 次（2025-10-13 → 2025-10-13）　|　**所在清单**：E冷名单(巴基斯坦)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2933
 rating: C
 rating_auto: C
+name_official: "Starcom Technologies（巴基斯坦；Asghar Ali）"
 score: -72
 country: 巴基斯坦
 region: 南亚
 website: starcom.com.pk
-type: 系统集成/工程商
+type: 巴基斯坦 IT 分销
 tier_tags: ["E冷名单(巴基斯坦)", "用户判定不行"]
 deal: no
 replies: 0
@@ -20,22 +22,42 @@ followups: 1
 first_contact: 2025-10-13
 last_contact: 2025-10-13
 s_mail: 11 msgs (out 11 / in 0), 2024-07-03 -> 2026-10-20
-p1: STC-424DGGPM-280W
-price_tier: 25%
-research: pending
+p1: —
+price_tier: 20%
+research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：巴基斯坦的系统集成/工程商；兴趣/在卖：switch 安防 从raisecom买一些产品；OTN switch 方案解决商
+- **是谁**：Elsa 邮箱 1 线程：2026-02-26「Updated Ethernet Switches Links」→ 同日真人回「Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders.」——无回复。用户表「用户判定不行」。（调研 2026-10-25；表内兴趣：switch 安防 从raisecom买一些产品；OTN switch 方案解决商）
 - **为什么是 C 级**：-6 E 冷名单（按国家群发）；-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）；C 级细分：用户判定不行/不相关
 - **历史互动**：推送 1 次（2025-10-13 → 2025-10-13）
-- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
-- **下一步**：不跟进；仅归档防重复开发
+- **P1**：不推（C 级）；若对方主动来询，起手 —（深挖对位：先过域名邮箱这一关）
+- **最大未知**：年走量与现供应商
+- **下一步**：待 Simon 排期（需从 alan@sagatele.com 发；Simon 用户表判「不行」，可放弃） alan@sagatele.com → ali@starcom.net.pk（新信，主题沿用「Ethernet Switches - from our company domain」） 两行：按他要求改从域名邮箱来；一问他们代理哪些品牌/要哪类机（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-2933` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：Elsa 1:1 去信 1 轮 + 真人回 1 封（2026-02-26，要求域名邮箱）；未回；C 不改** ｜ 类型：巴基斯坦分销 ｜ 筛子：1 ｜ 停点：对方不收 Gmail；我们没有从域名邮箱再发 ｜ 复活：若 Simon 愿意：从 alan@sagatele.com 发两行；否则放弃 ｜ 通路：巴基斯坦（非主战场） ｜ 节奏：一次 ｜ 证据：`data/gmail_e/text/19c98c6db0a514dc.json`
+- **现状一句话**：对方只和域名邮箱做生意；Elsa 的 Gmail 被拒。sagatele.com 站上公开的是 alan@sagatele.com。
+- **对方真实需求（有据）**：不明（只到邮箱门槛）
+- **断点 / 为什么停在这里**：2026-02-26 起无域名邮箱去信
+- **Saga 现在该推什么**：P1 **—**（None% 档，不报价）——先过邮箱门槛
+  - 复购/在买项：无
+  - 做不了 / 要先核的：需；求；不；明
+- **下一步（具体）**：待 Simon 排期（需从 alan@sagatele.com 发；Simon 用户表判「不行」，可放弃）　alan@sagatele.com → ali@starcom.net.pk（新信，主题沿用「Ethernet Switches - from our company domain」）　两行：按他要求改从域名邮箱来；一问他们代理哪些品牌/要哪类机（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）
+  - 第一问（只问一个）：Which switch categories do you actually stock - industrial PoE, commercial managed, or 10G aggregation?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-02-26 | 来 | Asghar Ali（Starcom Technologies） | Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders. | 门槛式回复；三箱 Gmail 都过不了，只有 alan@sagatele.com 能发 | `gmail_e 19c98c6db0a514dc` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：需求不明
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -44,7 +66,7 @@ updated: 2026-10-24
 | 名称 | starcom.com.pk（取自域名，公司全名待核） | 推断 |
 | 国家 | 巴基斯坦 | 事实（用户表）|
 | 网站/域名 | starcom.com.pk / starcom.net.pk | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 巴基斯坦 IT 分销 | 推断（据兴趣/备注关键词） |
 | 联系人 | 发不过去 / Asghar  不和gmail做生意 | 事实（用户表） |
 | 来源（From） | 富通天下 / 外贸邦 | 事实（用户表） |
 | 兴趣（Interested in） | switch 安防<br>从raisecom买一些产品 / OTN switch 方案解决商 | 事实（用户表） |
@@ -54,7 +76,23 @@ updated: 2026-10-24
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-2933.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-25）**　网站状态：未查
+- **是谁**：Elsa 邮箱 1 线程：2026-02-26「Updated Ethernet Switches Links」→ 同日真人回「Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders.」——无回复。用户表「用户判定不行」。
+- **类型**：巴基斯坦 IT 分销
+- **KP**：Asghar Ali（）ali@starcom.net.pk / info@starcom.com.pk 〔Elsa 邮箱 2026-02-26〕
+- 备注：（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）
+
+### 加厚挖掘（2026-10-25 · 仅 Elsa 邮箱证据）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Starcom Technologies |
+| 总部/地址 | 巴基斯坦 |
+
+- **触达通道（公开）**：role: 巴基斯坦 IT 分销；region: 巴基斯坦
+- **风险/边界**：只接受域名邮箱来信——Gmail 三箱都发不了；要用 alan@sagatele.com（站上公开的域名邮箱）；Simon 用户表已判「不行」
+- **Saga 对位结论**：P1 —（None% 档）——先过域名邮箱这一关
+- **邮件切入句（英文）**：（见 mail_review.draft_en）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -83,6 +121,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Asghar Ali | — | ali@starcom.net.pk / info@starcom.com.pk | 调研核实（公开页） | Elsa 邮箱 2026-02-26 |
 | Asghar | — | info@starcom.com.pk / ali@starcom.net.pk / +923002021141 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删
@@ -122,12 +161,25 @@ updated: 2026-10-24
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> C 级不出邮件样板（不主动跟进）。
+**主题**：Ethernet Switches - from our company domain
+
+```text
+Hello Ali,
+
+You asked in February that we write from our company domain rather than Gmail - fair enough, this is it. Saga Telecom (sagatele.com) supplies Marvell-based managed switches, Realtek-based commercial units and CENTEC-based 10G/100G aggregation, all under our own or your label.
+
+One question: which switch categories do you actually stock - industrial PoE, commercial managed, or 10G aggregation? Then I send one page, not a catalogue.
+
+Thank you.
+Alan
+Saga Telecom - sagatele.com
+```
+
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -143,8 +195,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -72）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -72）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

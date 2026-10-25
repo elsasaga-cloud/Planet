@@ -39,9 +39,9 @@
       "source": "data/gmail_a/messages/<year>/<month>.jsonl"
     }
   ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。",
+  "grade_override": "B",
+  "override_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：英国品牌商 VP Product Management 两次具名提问（2025-04 定制/芯片；2026-01 2.5G/供电/REST/样机），Alan 2026-01-22 的答复含一个未兑现承诺（REST/JSON Q2）——欠一封收尾信；《背景信息》把 OEM 品牌商排第一。原 C 来自 INH 体量规则（-45 巨头/品牌厂商），Simon 备注「加不上 比较专业」。B = 慢慢跟进：仍只发 Q-55 规定的那一封收尾信，不进群发。",
+  "notes": "巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。｜第 77 批：C→B（见 override_reason）；收尾信不变，2026-11 发。",
   "deep": {
     "done_at": "2026-10-24",
     "level": "邮件证据 + 官网常识"
@@ -69,9 +69,9 @@
   },
   "email_hook": "（见 mail_review.draft_en）",
   "mail_review": {
-    "as_of": "2026-10-24",
+    "as_of": "2026-10-25",
     "binding": {
-      "level": "轻度触达（A 邮箱 22 去 2 来，两次都是 VP Mark Basham 具名、带 4~5 个具体技术问题；2026-01-22 Alan 答复含「REST/JSON API Q2 可用」承诺后无回；巨头规则 C）",
+      "level": "轻度触达（A 邮箱 22 去 2 来，两次都是 VP Mark Basham 具名、带 4~5 个具体技术问题；2026-01-22 Alan 答复含「REST/JSON API Q2 可用」承诺后无回；巨头规则 C → 第 77 批升 B，仅一封收尾信）",
       "type": "品牌商 VP 自问",
       "sieve": "3~4（具体问题层面，未到型号/数量）",
       "stop": "我们的答复一个「NO」（SFP+ 不跑 2.5G）+ 一个未兑现的承诺（REST Q2）——他没再回",
@@ -85,16 +85,16 @@
     "breakpoint": "2026-01-22 的答复：一个 NO + 一个未兑现的 Q2 承诺；之后 9 个月没人交代。",
     "saga_now": {
       "p1": "2.5G 问题的正确答案：Marvell AC5 线的 SFP+ 笼子本来就是 1G/2.5G/10G（STC-424XGGM、STI-480XGGM 等），DG 型号的 SFP 是 1G/2.5G——他问的「10G SFP+ 能否跑 2.5G」在 AC5 线上是 YES，Alan 的「NO」只对 CENTEC STH10G 成立；AC5 线无 2.5G 铜口；Realtek 商用线有（STC-18XGDGE/-PW、STC-624XGDGM 等，有价）；CENTEC VastLakes 表有 24/48 口 2.5G/5G/10G Multi-Gig 铜口（含 PoE++，无价）——收尾信第 2 点可带一句",
-      "tier": "OEM 30%（品牌商定制）",
+      "tier": 30,
       "price": "Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；STC-424XGGM $143 / STI-480XGGM $253 EXW（主表 @6.69）；2026-08-10 推过 24 口 PoE $170",
-      "why": "对外统一口径（#2/#15/#12）：2026-01-22 的「1, NO」只对 CENTEC STH10G 对；AC5 线 SFP+ = 1G/2.5G/10G（主表规格栏），这一点要补上。STOS V2.4 只有「RPC-API management」，无 REST/JSON——2026-01-22 的 Q2 承诺要主动收尾，写法「the programmable interface shipped as an RPC-based API, not REST/JSON; I will not dress it up」；巨头规则 C 不动（Q-55 默认），只发一封｜已发资料（勿重发）：Saga Software Function List-release 7.3.0(2025-03-24)、STI-488XGGPM.pdf(2025-04-23)、BigFlow V2.1 / STH10G Series / Function List V2.4(2026-01-22)",
+      "why": "OEM 30%（品牌商定制）｜对外统一口径（#2/#15/#12）：2026-01-22 的「1, NO」只对 CENTEC STH10G 对；AC5 线 SFP+ = 1G/2.5G/10G（主表规格栏），这一点要补上。STOS V2.4 只有「RPC-API management」，无 REST/JSON——2026-01-22 的 Q2 承诺要主动收尾，写法「the programmable interface shipped as an RPC-based API, not REST/JSON; I will not dress it up」；巨头规则 C 不动（Q-55 默认），只发一封｜已发资料（勿重发）：Saga Software Function List-release 7.3.0(2025-03-24)、STI-488XGGPM.pdf(2025-04-23)、BigFlow V2.1 / STH10G Series / Function List V2.4(2026-01-22)",
       "repeat": "品牌商若立项为定制，才有复购",
       "gaps": "他的具体应用（为什么要 SFP+ 跑 2.5G）；Technetix 供应商准入要求；REST 是否仍是硬条件；Simon《STH计划》：1G/2.5G/5G 铜口 CENTEC 机「暂不宣传、信息备好」→ 信稿只答「on request / not on published list」，不主推；估算带见 CENTEC 锚表 §5.3，对客户仍 price on request"
     },
     "next_move": {
       "when": "2026-11",
       "channel": "A 邮箱 → mark.basham@technetix.com（回 2026-01-22 原线程「OEM Core Switching Solution」）",
-      "action": "一封收尾信（巨头例外档，仅此一封）：①REST/JSON Q2 承诺——现状是 RPC-API，不是 REST，直说；②「SFP+ 跑 2.5G」在 CENTEC 线是 NO，在 Marvell AC5 线是 YES（1G/2.5G/10G SFP+），1 月答漏了；③只问一个问题：2.5G 那条需求背后是什么应用；不推 $170 的 24 口",
+      "action": "一封收尾信（巨头例外档，仅此一封）：①REST/JSON Q2 承诺——现状是 RPC-API，不是 REST，直说；②「SFP+ 跑 2.5G」在 CENTEC 线是 NO，在 Marvell AC5 线是 YES（1G/2.5G/10G SFP+），1 月答漏了；③只问一个问题：2.5G 那条需求背后是什么应用；不推 $170 的 24 口（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）：升 B 不改信稿；仍只此一封、不群发",
       "one_question": "Mark — closing two loops from January: (1) the programmable interface on the CENTEC line shipped as an RPC-based management API, not the REST/JSON interface I said would come in Q2 — please do not plan on REST; (2) my \"NO\" on 2.5G was only for the CENTEC STH10G — on our Marvell line the SFP+ cages are 1G/2.5G/10G. What is the application behind the 2.5G requirement?"
     },
     "facts": [
@@ -145,6 +145,14 @@
         "quote": "24 Port PoE af/at… 10G Fiber Uplinks… Price: 170USD/PC. Do you need some samples for testing?",
         "why": "与他的问题无关的推送；无回",
         "k": "push"
+      },
+      {
+        "date": "2026-10-25",
+        "dir": "研",
+        "who": "第 77 批复核",
+        "quote": "C→B：品牌商 VP 两次具名提问 + 我方未兑现承诺待交代",
+        "why": "T29-U56；仍按 Q-55 只发一封收尾信",
+        "k": "—"
       }
     ],
     "proof_gaps": [

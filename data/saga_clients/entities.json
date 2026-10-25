@@ -204224,10 +204224,10 @@
 "+8 区域 欧洲/德国",
 "+5 最近活动 2025"
 ],
-"c_sub": "调研后定级 C",
+"c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-126",
-"grade": "C",
+"grade": "B",
 "research": {
 "code": "SB-126",
 "name_official": "DEMA Vertriebs-GmbH（dema-vertrieb.com / dema-handel.net，Untermünkheim-Übrigshausen, DE）",
@@ -204270,9 +204270,9 @@
 }
 ],
 "kp": [],
-"grade_override": "C",
-"override_reason": "2026-10-21 核实：DEMA 为五金/园艺/农用品电商与进口集团（Stabilo 连锁，>1,200 人、>€300M），无网络设备品类 → C（子原因：行业外 + 规模大）",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"grade_override": "B",
+"override_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：2025-06-10 Markus Geck 真人回信问 8/24 口的起订量与价，Alan 发了整表但没答「数量」，之后只收群发——是我方欠跟，不是对方没兴趣；DEMA 是自有品牌（DEMA / Fix Aktiv）进口商 + 德国（四主之一），按《背景信息》顺序属「OEM 品牌商 / 有进口经验者」。原 C 理由保留备查：2026-10-21 核实：DEMA 为五金/园艺/农用品电商与进口集团（Stabilo 连锁，>1,200 人、>€300M），无网络设备品类 → C（子原因：行业外 + 规模大）",
+"notes": "（无首轮调研；由 deepen.py 建档）｜第 77 批：C→B（见 override_reason）；2026-11 回 2025-06-10 原线程补答「数量」+ 现价 + 自有品牌贴标一句。",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（公司档案核对）"
@@ -204305,31 +204305,31 @@
 "email_hook": "（不发送：行业外 + 大集团）",
 "mail_review": {
 "binding": {
-"level": "轻度触达（2025-06-10 Alan 出全铜口工业系列报价单：STI-050FE $22.5 / STI-054FP $30 / STI-050GE $25 / STI-054GP $32.5 / STI-080FE $25.5 / STI-088FP $36.5；用户表「有回复·跟进中」；C 级人工定级不改）",
+"level": "轻度触达（2025-06-10 Alan 出全铜口工业系列报价单：STI-050FE $22.5 / STI-054FP $30 / STI-050GE $25 / STI-054GP $32.5 / STI-080FE $25.5 / STI-088FP $36.5；用户表「有回复·跟进中」；第 77 批 C→B：我方欠跟（没答数量））",
 "type": "德国分销商 Dema Vertriebs GmbH（Markus Geck）",
 "sieve": "2（要报价、已收报价单）",
 "stop": "报价后无记录（S/A 邮箱）；C 级",
-"revive": "德国 = 四主之一；若 Simon 复核愿升 B，则按 2026-11 一句话回访",
+"revive": "2026-11 回原线程「Re: 16 Port Ethernet Switch」：补答数量（MOQ 1）+ 8 口 / 24 口现价 + 自有品牌贴标（logo 免费、彩盒 200 套起）+ 一问（自有品牌货架还是自用）",
 "lane": "DE 未通",
 "cadence": "最后 2025-06-10 报价单",
 "evidence": "A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
 },
 "situation": "Alan 2025-06-09 群发 16 口 DIN 千兆铜口机 → Markus 次日回「very interesting. What are the purchase quantities and what is the price for the 8 and 24 switches?」→ Alan 当天给整表 + 长 datasheet，但没正面答「数量」→ 无回；其后 6 封群发（1U PoE、MINI、10G SFP $280、Booster、Alert、…）全无回。",
 "need": "5/8 口百兆与千兆工业非管理（PoE/非 PoE）整系列价格",
-"breakpoint": "报价后无回；C 级未再跟",
+"breakpoint": "报价后无回——但 Markus 问的「purchase quantities」一直没人正面答；第 77 批补答",
 "saga_now": {
-"p1": "STI-054GP / STI-088GP 级（HRUI 对照表列表价）",
+"p1": "STI-080GE（8 口千兆 DIN 非管理）/ STI-0240GE（24 口千兆 DIN 非管理，按单生产）/ STI-088GP（8 口 PoE）",
 "tier": 20,
-"price": "他见过的实报（2025-06-10 整表）：STI-080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130（5 口 $22.5~32.5）；历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
-"why": "分销商 20% 档",
+"price": "锚价：STI-080GE $31.4（主表 20% 档；他 2025-06 见过 $32.5，现价更低）/ STI-0240GE $130（㉕ ① 自家 2025-06-10 报价单原价，主表无此型号）/ STI-088GP $42.2（20% 档；他见过 $43.5）；他见过的实报（2025-06-10 整表）：STI-080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130（5 口 $22.5~32.5）；历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
+"why": "进口商 / 电商 20% 档；自有品牌贴标不加价（logo 免费，彩盒 200 套起）",
 "repeat": [],
 "gaps": []
 },
 "next_move": {
-"when": "不动（C）；Simon 复核后再定",
-"channel": "A 邮箱",
-"action": "—",
-"one_question": "Markus — did the June-2025 copper industrial switch quotation go anywhere, or was it only for a price check?"
+"when": "2026-11",
+"channel": "A 邮箱 → m.geck@dema-vertrieb.com（回 2025-06-10 真实线程「Re: 16 Port Ethernet Switch」，非伪造 Re:）",
+"action": "补答 2025-06 没答的「数量」问题 + 8 口 / 24 口 / 8 口 PoE 三个现价 + 自有品牌贴标一句 + 一问（自有品牌货架 vs 自用）；不附新目录（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）",
+"one_question": "Markus - is the switch for your own-brand range in the Stabilo stores and web shops, or for an installation of your own?"
 },
 "facts": [
 {
@@ -204355,12 +204355,24 @@
 "quote": "全铜口工业非管理整表（Buyer: Dema Vertriebs GmbH）：STI-050FE $22.5 / 054FP $30 / 050GE $25 / 054GP $32.5 / 080FE $25.5 / 088FP $36.5 / **080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130**（Marvell Chip，-40~75℃，DIN）；Alan 补充「24-port PoE 不常订所以没列，要的话需批量」+「请花时间读 STI-0160GE 的长 datasheet」。",
 "why": "Markus 当天只问了两件事：**购买数量（MOQ）** 和 8 口/24 口的价——价给了，但「数量」这问题没有被正面回答（报价单备注里只有 validity/neutral/warranty）；他之后再没回，Alan 继续群发 6 封无回。德国户，重启时先把 MOQ 1 / 样品价说清",
 "k": "k=869ab8494c880aed（A 邮箱 2025-06-10 06:44Z）；附件 sha=9ffabb9a4b4a3787"
+},
+{
+"date": "2026-10-25",
+"dir": "研",
+"who": "第 77 批复核",
+"quote": "C→B：2025-06-10 真人询价 + 我方未答数量；DEMA = 自有品牌进口商（德国）",
+"why": "T29-U56 Simon「值得捞的处理一下」；原 C 理由（行业外 + 大集团）留 override_reason",
+"k": "—"
 }
 ],
 "proof_gaps": [
-"C 级定级与「有回复·跟进中」状态矛盾，待 Simon 复核"
+"（第 77 批已裁：C→B）"
 ],
-"as_of": "2026-10-24"
+"as_of": "2026-10-25",
+"draft_en": {
+"subject": "Re: 16 Port Ethernet Switch",
+"body": "Hello Markus,\n\nIn June 2025 you asked two things about the DIN-rail copper switches - the purchase quantities and the price for the 8-port and 24-port units. We sent you the full list but never answered the quantity question properly - apologies, here it is.\n\n- Quantities: MOQ is 1 unit. Samples and small lots are fine; larger lots get a quantity price on request.\n- 8 x Gigabit DIN-rail, 12-58 V DC, -40 to 75 C, unmanaged - model STI-080GE - $31.4 USD EXW (MOQ 1, 15-day validity); it was $32.5 on the June-2025 list.\n- 24 x Gigabit DIN-rail unmanaged - model STI-0240GE - $130 USD EXW (MOQ 1, 15-day validity), built to order, 4-7 working days.\n- 8 x Gigabit PoE+ DIN-rail unmanaged, in case PoE is the version you meant - model STI-088GP - $42.2 USD EXW (MOQ 1, 15-day validity).\n\nCE/RoHS, 3-year warranty. If these are for your own-brand range (DEMA / Fix Aktiv): the logo on the unit is free; a colour box is available from 200 sets.\n\nOne question: is the switch for your own-brand range in the Stabilo stores and web shops, or for an installation of your own? That decides whether I send the own-label sample or the plain one.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+}
 }
 }
 },
@@ -540847,7 +540859,94 @@
 "c_sub": "低价值区域冷线索",
 "status": "WhatsApp 已加·未回复",
 "code": "SC-1070",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-1070",
+"name_official": "Dhaka Network Ltd（孟加拉国达卡；dhakanetworkltd@gmail.com / dhakanetworksbd.com）",
+"researched_at": "2026-10-25",
+"website_status": "未查",
+"summary": "Elsa 邮箱 1 线程：2026-02-13「DWDM Core Switching Solution」（CENTEC 核心机）→ 02-14 真人回「Where your contact number?」——无 Elsa 回复 = 我方欠答。用户表「WhatsApp 已加·未回复」「DWDM 线索」。",
+"type": "孟加拉 ISP/网络集成（DWDM 线索）",
+"size": "",
+"brands_seen": [],
+"evidence": [],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
+"deep": {
+"done_at": "2026-10-25",
+"level": "仅 Elsa 邮箱证据"
+},
+"company_facts": {
+"legal_name": "Dhaka Network Ltd",
+"founded": "",
+"hq": "孟加拉国达卡",
+"size": "",
+"other": ""
+},
+"channels": {
+"role": "孟加拉 ISP/网络集成（DWDM 线索）",
+"region": "孟加拉国达卡"
+},
+"risks": [
+"只问电话——对外材料不写电话（Saga.md），只给 WhatsApp 跳转",
+"孟加拉非主战场；DWDM 光层 Saga 不供"
+],
+"saga_fit": {
+"p1": "CENTEC 核心/汇聚机（按项目）",
+"tier": null,
+"why": "先问清要哪一页；不报价"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-25",
+"binding": {
+"level": "Elsa 1:1 去信 1 轮 + 真人回 1 封（2026-02-14）；我方欠答 1 处；C 不改",
+"type": "孟加拉 ISP/集成（DWDM 线索）",
+"sieve": "1",
+"stop": "对方只要电话，我们没回",
+"revive": "两行：邮件 + WhatsApp（站上链接）+ 一问要哪一页",
+"lane": "孟加拉（非主战场）",
+"cadence": "仅此一封",
+"evidence": "`data/gmail_e/text/19c5be3fd4a6af14.json`；`index_replied.jsonl`"
+},
+"situation": "对 CENTEC「DWDM Core Switching」群发回了一句「Where your contact number?」，8 个月没人答。",
+"need": "核心/汇聚交换（具体不明；DWDM 光层不在 Saga 供货范围）",
+"breakpoint": "2026-02-14 起无人答",
+"saga_now": {
+"p1": "CENTEC 核心/汇聚机（按项目）",
+"tier": null,
+"price": "不报价（先问需求）",
+"why": "对外不写电话；WhatsApp 跳转在 sagatele.com",
+"repeat": "无",
+"gaps": "需求不明"
+},
+"next_move": {
+"when": "现在（仅此一封）",
+"channel": "Elsa 邮箱 → dhakanetworkltd@gmail.com（回 2026-02-14 真实线程「Re: DWDM Core Switching Solution」）",
+"action": "两行补答：邮件 + WhatsApp（站上链接，不写号码）+ 一问（100G 核心还是 10G 汇聚）（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）",
+"one_question": "Which part was relevant for you - the 100G core switches or the 10G aggregation units?"
+},
+"facts": [
+{
+"date": "2026-02-14",
+"dir": "来",
+"who": "Dhaka Network（dhakanetworkltd@gmail.com）",
+"quote": "Where your contact number?",
+"why": "对 2026-02-13 CENTEC 群发的真人回；线程无 Elsa 回复 → 我方欠答",
+"k": "gmail_e 19c5be3fd4a6af14"
+}
+],
+"proof_gaps": [
+"需求不明"
+],
+"draft_en": {
+"subject": "Re: DWDM Core Switching Solution",
+"body": "Hello,\n\nYou asked for our contact number in February and did not get an answer - apologies. We work by email and WhatsApp; the WhatsApp link is on sagatele.com.\n\nOne question: which part of that mail was relevant for you - the 100G core switches or the 10G aggregation units? Then I can send the exact page instead of the whole deck.\n\nThank you.\nElsa\nSaga Telecom - sagatele.com"
+}
+}
+}
 },
 {
 "name": "Elftech Co.,Ltd.",
@@ -654578,10 +654677,155 @@
 "+5 有可核实的公司网站/域名",
 "-6 区域 南亚/印度"
 ],
-"c_sub": "低价值区域冷线索",
+"c_sub": "",
 "status": "名单内·未触达",
 "code": "SC-1835",
-"grade": "C"
+"grade": "B",
+"research": {
+"code": "SC-1835",
+"name_official": "DevRay IT Solutions Pvt. Ltd. / MapleCloud Technologies（印度 Noida；Make-in-India OEM）",
+"researched_at": "2026-10-25",
+"website_status": "未查",
+"summary": "Elsa 邮箱 2025-12 → 2026-03 三个线程 12 封（来 5 去 7），全部是 Managing Director Yogendra Rajput 具名：2025-12-02 要完整资料 + 问公司在哪；2026-01-16/20 对 CENTEC「OEM Core Switching」追问「有无 8 GB RAM / 16 GB Flash 的 L3 机型？要 datasheet + 价格；能否从中国以外的产地提货？」——Elsa 只答了「We are based in China」+ 附件，RAM/Flash 与价格没答；2026-03-31「Are you ODM?」→ Elsa「OEM/ODM 都做」→「share data sheets along with the costing, we are interested in SKD」→ Elsa 只给链接 + 「SKD is fine with us」，costing 没给。两处欠答。",
+"type": "印度 Make-in-India OEM（自称 OEM for Switches / NGFW / SDWAN；ISO 27001 / CERT-In Empanelled）",
+"size": "",
+"brands_seen": [],
+"evidence": [],
+"kp": [
+{
+"name": "Yogendra Rajput",
+"title": "Managing Director（CISA & CISM）",
+"email": "yogendra.rajput@maplecloudtechnologies.com / yogendra.rajput@devray.in",
+"phone": "+91-9739995151（信尾；对外材料不写电话）",
+"source": "Elsa 邮箱 2026-01-16 签名"
+}
+],
+"grade_override": "B",
+"override_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：Managing Director 本人 4 轮具名提问，明确要 SKD（印度本地组装 = 绕产地限制的常见做法）+ 价格；两处是我方欠答而非对方冷。印度非主战场，B = 慢慢跟进；原 C 理由「低价值区域冷线索」留此备查。",
+"notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
+"deep": {
+"done_at": "2026-10-25",
+"level": "仅 Elsa 邮箱证据"
+},
+"company_facts": {
+"legal_name": "DevRay IT Solutions Pvt. Ltd. / MapleCloud Technologies",
+"founded": "",
+"hq": "印度 Noida",
+"size": "",
+"other": ""
+},
+"channels": {
+"role": "印度 Make-in-India OEM（自称 OEM for Switches / NGFW / SDWAN；ISO 27001 / CERT-In Empanelled）",
+"region": "印度 Noida"
+},
+"risks": [
+"要「非中国产地提货」——Saga 给不了，只能 SKD 在印度组装",
+"8 GB RAM / 16 GB Flash 像招标表抄 Cisco 9300 的硬指标，CENTEC 线 2 GB DRAM / 8 GB eMMC 对不上",
+"印度价格战；SKD 只能做量"
+],
+"saga_fit": {
+"p1": "STC-424XGGPM-280W / STC-28DGGPM（商用 Marvell L2+ 线报价）；L3 大内存需求无对位（CENTEC 2 GB DRAM / 8 GB eMMC；400G 平台 4 GB）",
+"tier": 30,
+"why": "OEM 品牌商 30% 档；SKD 另按量议"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-25",
+"binding": {
+"level": "Elsa 1:1 去信 3 轮 + 真人回 5 封（2025-12-02 → 2026-03-31，Managing Director 具名）；我方欠答 2 处（RAM/Flash + 价格；SKD costing）；第 77 批 C→B",
+"type": "印度 Make-in-India OEM（DevRay / MapleCloud）",
+"sieve": "3（要价格、要 SKD；未到数量）",
+"stop": "我们两次只给附件/链接，没给数字，也没正面答 RAM/Flash 与产地问题",
+"revive": "一封补答：三个问题直说（RAM/Flash 不符、价格两行、产地给不了但 SKD 可按量）+ 一问年量",
+"lane": "印度（非主战场；BIS 在客户侧）",
+"cadence": "补答一封后按对方节奏",
+"evidence": "`data/gmail_e/text/19adee352b609882.json` / `19bc7e48dfdcafea.json` / `19bdca627e3c5966.json` / `19d4289f62d8abda.json` / `19d443b73c1a908e.json` / `19d444848ab36c29.json`；`index_replied.jsonl` 三线程"
+},
+"situation": "印度 Noida 的 Make-in-India OEM，Managing Director Yogendra Rajput 四轮具名提问：资料/所在地 → L3 大内存机型 + 价格 + 非中国产地 → 是否 ODM → datasheet + costing + SKD。Elsa 每轮都回了，但两次关键问题（RAM/Flash 与价格；costing）只回附件/链接没回数字。",
+"need": "可在印度本地组装（SKD）的管理型交换机货源；L3 机型内存指标 8 GB RAM / 16 GB Flash（疑为招标表）；商用 Marvell 管理型 8/16/24/48 口价格",
+"breakpoint": "2026-01-20 的 RAM/Flash + 产地问题与 2026-03-31 的 costing 都没有数字答复；对方最后一句是「interested in SKD」，球在我们这边 7 个月",
+"saga_now": {
+"p1": "STC-424XGGPM-280W（24 PoE + 4×10G，L2+）/ STC-28DGGPM（8 PoE + 2×2.5G SFP，L2+）",
+"tier": 30,
+"price": "锚价：STC-424XGGPM-280W $180（群发现价，㉕ ②；Elsa Bcc 命中表无此户，未见 $170）/ STC-28DGGPM $87.4（30% 档）；CENTEC L3 不报价（内存指标不符，先说清）",
+"why": "OEM 30% 档；SKD 套件价按年量另议（CKD/SKD 只对量）",
+"repeat": "SKD 项目若成立 = 年度复购",
+"gaps": "年量；RAM/Flash 指标出处（招标？）；BIS 由对方办"
+},
+"next_move": {
+"when": "现在",
+"channel": "Elsa 邮箱 → yogendra.rajput@maplecloudtechnologies.com + sales@devray.in（回 2026-03-31 真实线程「Re: Marvell Managed Commercial Switches」）",
+"action": "补答三问：① 8 GB/16 GB L3 没有（CENTEC 2 GB DRAM / 8 GB eMMC，400G 4 GB），直说；② 两行价 + SKD 按年量；③ 非中国产地给不了，BIS 在对方侧；一问年量（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）",
+"one_question": "Yogendra - for an SKD programme, what yearly quantity per model would you commit to?"
+},
+"facts": [
+{
+"date": "2025-12-02",
+"dir": "来",
+"who": "Yogendra Rajput（DevRay / MapleCloud，Managing Director）",
+"quote": "Can you please share the complete product details also where are you based at?",
+"why": "对 Elsa 2025-12-02「Booster PoE Switch」1:1 去信的真人回；Elsa 12-03 已回",
+"k": "gmail_e 19adee352b609882"
+},
+{
+"date": "2026-01-16",
+"dir": "来",
+"who": "Yogendra Rajput",
+"quote": "Please share more details and where are you based at?",
+"why": "对 2026-01-07「OEM Core Switching Solution」（CENTEC 线）的回；Elsa 01-20 答「We are based in China」+ 附件",
+"k": "gmail_e 19bc7e48dfdcafea"
+},
+{
+"date": "2026-01-20",
+"dir": "来",
+"who": "Yogendra Rajput",
+"quote": "Could you please confirm whether you have an L3 Switch model with 8 GB RAM and 16 GB Flash available? If so, kindly share the detailed datasheet along with the pricing information. Additionally, please let us know if it is possible to source or pick up the material from a manufacturing or supply location other than China.",
+"why": "三个具体问题（内存指标 / 价格 / 非中国产地）——线程里无 Elsa 回复 = 我方欠答 ①",
+"k": "gmail_e 19bdca627e3c5966"
+},
+{
+"date": "2026-03-31",
+"dir": "来",
+"who": "DevRay Sales（sales@devray.in）",
+"quote": "Are you ODM ?",
+"why": "对「Marvell Managed Commercial Switches」的回；Elsa 同日答「We provide OEM/ODM services」",
+"k": "gmail_e 19d4289f62d8abda"
+},
+{
+"date": "2026-03-31",
+"dir": "来",
+"who": "Yogendra Rajput",
+"quote": "Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD.",
+"why": "要 costing + 明确 SKD 意向",
+"k": "gmail_e 19d443b73c1a908e"
+},
+{
+"date": "2026-03-31",
+"dir": "去",
+"who": "Elsa",
+"quote": "Please check attached links for more information, It includes almost everything. SKD is fine with us. Let's talk after your review.",
+"why": "只给链接，没给 costing = 我方欠答 ②；「SKD is fine」已出口，补答要接住",
+"k": "gmail_e 19d444848ab36c29"
+},
+{
+"date": "2026-10-25",
+"dir": "研",
+"who": "第 77 批复核",
+"quote": "C→B；CENTEC 内存规格核自 STH10G/2.5G 规格书「DRAM: 2GB on all models」、S5500/S4600 系列「Flash 8GB EMMC（OS）/ 4MB SPI（Boot）」、STH400G「DRAM: 4GB」",
+"why": "补答第 ① 点的依据（`data/extra_info_2026-10/text/Extra_Info__STH__*`）",
+"k": "—"
+}
+],
+"proof_gaps": [
+"年量未知",
+"RAM/Flash 指标出处未知"
+],
+"draft_en": {
+"subject": "Re: Marvell Managed Commercial Switches",
+"body": "Hello Yogendra,\n\nTwo of your questions never got a proper answer from us - apologies, here they are.\n\n1. L3 switch with 8 GB RAM and 16 GB flash (your 20 January question): no. Our L3 units are CENTEC-based with 2 GB DRAM and 8 GB eMMC flash (the 400G platform has 4 GB DRAM). If the 8 GB / 16 GB line comes from a tender sheet, it rules us out on paper, and I would rather say so now than send a datasheet that does not match.\n\n2. Costing for the Marvell managed commercial range (31 March) and SKD: 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed - model STC-424XGGPM-280W - $180 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x 2.5G SFP, L2+ managed - model STC-28DGGPM - $87.4 USD EXW (MOQ 1, 15-day validity). These are built-unit prices from Shenzhen. SKD kits for assembly in India are possible, but only as a volume programme with a yearly quantity behind them; the kit price depends on how much of the assembly you take on.\n\n3. Sourcing from outside China: we cannot offer that. Units and kits ship from Shenzhen, and BIS registration stays on your side either way.\n\nOne question: for an SKD programme, what yearly quantity per model would you commit to? That tells me whether it is worth preparing a kit BOM for you.\n\nThank you.\nElsa\nSaga Telecom - sagatele.com"
+}
+}
+}
 },
 {
 "name": "eltex-co.com",
@@ -723798,7 +724042,110 @@
 "c_sub": "用户判定不行/不相关",
 "status": "已推送 3 次·未回复",
 "code": "SC-2289",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-2289",
+"name_official": "Microtech Inc（巴基斯坦卡拉奇；Noman Asghar）",
+"researched_at": "2026-10-25",
+"website_status": "未查",
+"summary": "Elsa 邮箱两线程 5 封：2025-06-04 对「10G Media Converter」回「These Product Are Not Available」（把我们当买家）；2026-05-11 对「10G Enterprise SFP Switch」回「Please find the attachment」= 他们自己的报价单 S10616：MikroTik CRS326-24S-2Q+RM PKR 165,500（≈US$590，另 18% 税）——反向对标，线程里无 Elsa 回复 = 我方欠答。用户表「用户判定不行」。",
+"type": "巴基斯坦 IT 分销/集成（MikroTik 渠道）",
+"size": "",
+"brands_seen": [],
+"evidence": [],
+"kp": [
+{
+"name": "Noman Asghar",
+"title": "",
+"email": "info@microtech.net.pk / sales@microtech.net.pk",
+"phone": "",
+"source": "Elsa 邮箱"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
+"deep": {
+"done_at": "2026-10-25",
+"level": "仅 Elsa 邮箱证据"
+},
+"company_facts": {
+"legal_name": "Microtech Inc",
+"founded": "",
+"hq": "巴基斯坦卡拉奇",
+"size": "",
+"other": ""
+},
+"channels": {
+"role": "巴基斯坦 IT 分销/集成（MikroTik 渠道）",
+"region": "巴基斯坦卡拉奇"
+},
+"risks": [
+"MikroTik 价位（24×10G SFP+ ≈ $590）Saga 10G 机型追不上",
+"Simon 用户表已判「不行」"
+],
+"saga_fit": {
+"p1": "STH-2C24XF-HSI（24×10G SFP+ + 2×100G）",
+"tier": null,
+"why": "只为交代反向报价；按群发价 $1,500 说清不是同级"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-25",
+"binding": {
+"level": "Elsa 1:1 去信 2 轮 + 真人回 2 封（2025-06-04、2026-05-11）；我方欠答 1 处（2026-05-11 反向报价单）；C 不改（Simon 用户表「不行」）",
+"type": "巴基斯坦 MikroTik 渠道商",
+"sieve": "1（反向对标，未表达采购意向）",
+"stop": "他发来的是自己的 MikroTik 报价单——我们没回",
+"revive": "一封交代：不是同级机 + 我们 24×10G SFP+ 的价位 + 一问用途；之后不动",
+"lane": "巴基斯坦（非主战场）",
+"cadence": "仅此一封",
+"evidence": "`data/gmail_e/text/19e15908306082b4.json`；附件 `data/gmail_e/attachments/SC-2289_Quotation-S10616_2026-05-11.pdf`；`docs/gmail/Elsa邮箱_来询未回清单_2026-10.md` 第 2 条"
+},
+"situation": "卡拉奇 Microtech 对 Elsa 2026-05-11 的 24×1G SFP 机群发，回了一张他们自己卖 MikroTik CRS326-24S-2Q+RM 的报价单（PKR 165,500 + 18% 税），等于问「你们这台对得上这个价吗」；我们没答。",
+"need": "24×10G SFP+ 级别的汇聚/核心机价格参照（MikroTik 心理价 ≈ US$590）",
+"breakpoint": "反向报价单无人答（2026-05-11 起）",
+"saga_now": {
+"p1": "STH-2C24XF-HSI",
+"tier": null,
+"price": "锚价：STH-2C24XF-HSI $1,500（2026-07-20 群发价；SA-093 实报 $1,250 含 MA 不外推）；24×1G SFP 机（群发原机）$280 他已见",
+"why": "CENTEC 按项目锚价；此处只为说清不是同级，不求成交",
+"repeat": "无",
+"gaps": "用途（ISP 环 / 企业核心）"
+},
+"next_move": {
+"when": "现在（仅此一封；Simon 用户表判「不行」，发不发由 Simon）",
+"channel": "Elsa 邮箱 → info@microtech.net.pk（回 2026-05-11 真实线程「Re: 10G Enterprise SFP Switch」）",
+"action": "一封交代：CRS326-24S-2Q+RM（24×10G SFP+ + 2×40G）与我们 24×1G SFP + 8 combo + 4×10G 不是同级；同级机 STH-2C24XF-HSI $1,500；一问用途；之后不动（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）",
+"one_question": "Noman - was the CRS326 quoted for an ISP aggregation ring or an enterprise core?"
+},
+"facts": [
+{
+"date": "2025-06-04",
+"dir": "来",
+"who": "Noman Asghar（Microtech Inc）",
+"quote": "Dear Elsa, These Product Are Not Available.",
+"why": "把 Elsa 的 10G 媒体转换器推介当成了询价——说明对方是渠道商；Elsa 06-06 已回",
+"k": "gmail_e 1973b67afb1f650a"
+},
+{
+"date": "2026-05-11",
+"dir": "来",
+"who": "Noman Asghar（cc sales@microtech.net.pk）",
+"quote": "Please Find The Attachment.（附 Quotation - S10616.pdf：MikroTik CRS326-24S-2Q+RM，PKR 165,500 + 18% 税；另附我方 Dual AC.jpg）",
+"why": "反向报价 = 巴基斯坦渠道对 24×10G SFP+ 的心理价位 ≈ US$590；线程无 Elsa 回复 → 我方欠答",
+"k": "gmail_e 19e15908306082b4"
+}
+],
+"proof_gaps": [
+"用途未知"
+],
+"draft_en": {
+"subject": "Re: 10G Enterprise SFP Switch",
+"body": "Hello Noman,\n\nYour quotation S10616 from 11 May (MikroTik CRS326-24S-2Q+RM, PKR 165,500 plus tax) sat in my inbox without an answer - apologies.\n\nThe two units are not the same class. The CRS326-24S-2Q+RM is 24 x 10G SFP+ with 2 x 40G; the unit I showed you is 24 x 1G SFP + 8 combo + 4 x 10G SFP+, an access/aggregation box at a fraction of that price. Our like-for-like 24 x 10G SFP+ unit is CENTEC-based - model STH-2C24XF-HSI, 24 x 10G SFP+ + 2 x 100G QSFP28, full L3 - at $1,500 USD EXW (MOQ 1, 15-day validity). That is above MikroTik money, so it only makes sense where 100G uplinks and the L3 feature set matter.\n\nOne question: was the CRS326 quoted for an ISP aggregation ring or an enterprise core? That tells me whether to send the 24 x 1G SFP price instead.\n\nThank you.\nElsa\nSaga Telecom - sagatele.com"
+}
+}
+}
 },
 {
 "name": "fxc.jp",
@@ -815743,7 +816090,102 @@
 "c_sub": "用户判定不行/不相关",
 "status": "已推送 1 次·未回复",
 "code": "SC-2933",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-2933",
+"name_official": "Starcom Technologies（巴基斯坦；Asghar Ali）",
+"researched_at": "2026-10-25",
+"website_status": "未查",
+"summary": "Elsa 邮箱 1 线程：2026-02-26「Updated Ethernet Switches Links」→ 同日真人回「Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders.」——无回复。用户表「用户判定不行」。",
+"type": "巴基斯坦 IT 分销",
+"size": "",
+"brands_seen": [],
+"evidence": [],
+"kp": [
+{
+"name": "Asghar Ali",
+"title": "",
+"email": "ali@starcom.net.pk / info@starcom.com.pk",
+"phone": "",
+"source": "Elsa 邮箱 2026-02-26"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
+"deep": {
+"done_at": "2026-10-25",
+"level": "仅 Elsa 邮箱证据"
+},
+"company_facts": {
+"legal_name": "Starcom Technologies",
+"founded": "",
+"hq": "巴基斯坦",
+"size": "",
+"other": ""
+},
+"channels": {
+"role": "巴基斯坦 IT 分销",
+"region": "巴基斯坦"
+},
+"risks": [
+"只接受域名邮箱来信——Gmail 三箱都发不了；要用 alan@sagatele.com（站上公开的域名邮箱）",
+"Simon 用户表已判「不行」"
+],
+"saga_fit": {
+"p1": "—",
+"tier": null,
+"why": "先过域名邮箱这一关"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-25",
+"binding": {
+"level": "Elsa 1:1 去信 1 轮 + 真人回 1 封（2026-02-26，要求域名邮箱）；未回；C 不改",
+"type": "巴基斯坦分销",
+"sieve": "1",
+"stop": "对方不收 Gmail；我们没有从域名邮箱再发",
+"revive": "若 Simon 愿意：从 alan@sagatele.com 发两行；否则放弃",
+"lane": "巴基斯坦（非主战场）",
+"cadence": "一次",
+"evidence": "`data/gmail_e/text/19c98c6db0a514dc.json`"
+},
+"situation": "对方只和域名邮箱做生意；Elsa 的 Gmail 被拒。sagatele.com 站上公开的是 alan@sagatele.com。",
+"need": "不明（只到邮箱门槛）",
+"breakpoint": "2026-02-26 起无域名邮箱去信",
+"saga_now": {
+"p1": "—",
+"tier": null,
+"price": "不报价",
+"why": "先过邮箱门槛",
+"repeat": "无",
+"gaps": "需求不明"
+},
+"next_move": {
+"when": "待 Simon 排期（需从 alan@sagatele.com 发；Simon 用户表判「不行」，可放弃）",
+"channel": "alan@sagatele.com → ali@starcom.net.pk（新信，主题沿用「Ethernet Switches - from our company domain」）",
+"action": "两行：按他要求改从域名邮箱来；一问他们代理哪些品牌/要哪类机（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）",
+"one_question": "Which switch categories do you actually stock - industrial PoE, commercial managed, or 10G aggregation?"
+},
+"facts": [
+{
+"date": "2026-02-26",
+"dir": "来",
+"who": "Asghar Ali（Starcom Technologies）",
+"quote": "Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders.",
+"why": "门槛式回复；三箱 Gmail 都过不了，只有 alan@sagatele.com 能发",
+"k": "gmail_e 19c98c6db0a514dc"
+}
+],
+"proof_gaps": [
+"需求不明"
+],
+"draft_en": {
+"subject": "Ethernet Switches - from our company domain",
+"body": "Hello Ali,\n\nYou asked in February that we write from our company domain rather than Gmail - fair enough, this is it. Saga Telecom (sagatele.com) supplies Marvell-based managed switches, Realtek-based commercial units and CENTEC-based 10G/100G aggregation, all under our own or your label.\n\nOne question: which switch categories do you actually stock - industrial PoE, commercial managed, or 10G aggregation? Then I send one page, not a catalogue.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+}
+}
+}
 },
 {
 "name": "SAB",
@@ -855949,10 +856391,10 @@
 "+5 最近活动 2026",
 "-45 巨头/品牌厂商/运营商/军工（INH 规则：体量不匹配或非客户）"
 ],
-"c_sub": "体量过大/品牌厂商/运营商",
+"c_sub": "",
 "status": "有回复·跟进中",
 "code": "SC-396",
-"grade": "C",
+"grade": "B",
 "research": {
 "code": "SC-396",
 "name_official": "Technetix Ltd.（英国 West Sussex；宽带/光纤接入设备品牌商；KP Mark Basham, VP Product Management – Fiber Access）",
@@ -855994,9 +856436,9 @@
 "source": "data/gmail_a/messages/<year>/<month>.jsonl"
 }
 ],
-"grade_override": null,
-"override_reason": "",
-"notes": "巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。",
+"grade_override": "B",
+"override_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：英国品牌商 VP Product Management 两次具名提问（2025-04 定制/芯片；2026-01 2.5G/供电/REST/样机），Alan 2026-01-22 的答复含一个未兑现承诺（REST/JSON Q2）——欠一封收尾信；《背景信息》把 OEM 品牌商排第一。原 C 来自 INH 体量规则（-45 巨头/品牌厂商），Simon 备注「加不上 比较专业」。B = 慢慢跟进：仍只发 Q-55 规定的那一封收尾信，不进群发。",
+"notes": "巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。｜第 77 批：C→B（见 override_reason）；收尾信不变，2026-11 发。",
 "deep": {
 "done_at": "2026-10-24",
 "level": "邮件证据 + 官网常识"
@@ -856024,9 +856466,9 @@
 },
 "email_hook": "（见 mail_review.draft_en）",
 "mail_review": {
-"as_of": "2026-10-24",
+"as_of": "2026-10-25",
 "binding": {
-"level": "轻度触达（A 邮箱 22 去 2 来，两次都是 VP Mark Basham 具名、带 4~5 个具体技术问题；2026-01-22 Alan 答复含「REST/JSON API Q2 可用」承诺后无回；巨头规则 C）",
+"level": "轻度触达（A 邮箱 22 去 2 来，两次都是 VP Mark Basham 具名、带 4~5 个具体技术问题；2026-01-22 Alan 答复含「REST/JSON API Q2 可用」承诺后无回；巨头规则 C → 第 77 批升 B，仅一封收尾信）",
 "type": "品牌商 VP 自问",
 "sieve": "3~4（具体问题层面，未到型号/数量）",
 "stop": "我们的答复一个「NO」（SFP+ 不跑 2.5G）+ 一个未兑现的承诺（REST Q2）——他没再回",
@@ -856040,16 +856482,16 @@
 "breakpoint": "2026-01-22 的答复：一个 NO + 一个未兑现的 Q2 承诺；之后 9 个月没人交代。",
 "saga_now": {
 "p1": "2.5G 问题的正确答案：Marvell AC5 线的 SFP+ 笼子本来就是 1G/2.5G/10G（STC-424XGGM、STI-480XGGM 等），DG 型号的 SFP 是 1G/2.5G——他问的「10G SFP+ 能否跑 2.5G」在 AC5 线上是 YES，Alan 的「NO」只对 CENTEC STH10G 成立；AC5 线无 2.5G 铜口；Realtek 商用线有（STC-18XGDGE/-PW、STC-624XGDGM 等，有价）；CENTEC VastLakes 表有 24/48 口 2.5G/5G/10G Multi-Gig 铜口（含 PoE++，无价）——收尾信第 2 点可带一句",
-"tier": "OEM 30%（品牌商定制）",
+"tier": 30,
 "price": "Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；STC-424XGGM $143 / STI-480XGGM $253 EXW（主表 @6.69）；2026-08-10 推过 24 口 PoE $170",
-"why": "对外统一口径（#2/#15/#12）：2026-01-22 的「1, NO」只对 CENTEC STH10G 对；AC5 线 SFP+ = 1G/2.5G/10G（主表规格栏），这一点要补上。STOS V2.4 只有「RPC-API management」，无 REST/JSON——2026-01-22 的 Q2 承诺要主动收尾，写法「the programmable interface shipped as an RPC-based API, not REST/JSON; I will not dress it up」；巨头规则 C 不动（Q-55 默认），只发一封｜已发资料（勿重发）：Saga Software Function List-release 7.3.0(2025-03-24)、STI-488XGGPM.pdf(2025-04-23)、BigFlow V2.1 / STH10G Series / Function List V2.4(2026-01-22)",
+"why": "OEM 30%（品牌商定制）｜对外统一口径（#2/#15/#12）：2026-01-22 的「1, NO」只对 CENTEC STH10G 对；AC5 线 SFP+ = 1G/2.5G/10G（主表规格栏），这一点要补上。STOS V2.4 只有「RPC-API management」，无 REST/JSON——2026-01-22 的 Q2 承诺要主动收尾，写法「the programmable interface shipped as an RPC-based API, not REST/JSON; I will not dress it up」；巨头规则 C 不动（Q-55 默认），只发一封｜已发资料（勿重发）：Saga Software Function List-release 7.3.0(2025-03-24)、STI-488XGGPM.pdf(2025-04-23)、BigFlow V2.1 / STH10G Series / Function List V2.4(2026-01-22)",
 "repeat": "品牌商若立项为定制，才有复购",
 "gaps": "他的具体应用（为什么要 SFP+ 跑 2.5G）；Technetix 供应商准入要求；REST 是否仍是硬条件；Simon《STH计划》：1G/2.5G/5G 铜口 CENTEC 机「暂不宣传、信息备好」→ 信稿只答「on request / not on published list」，不主推；估算带见 CENTEC 锚表 §5.3，对客户仍 price on request"
 },
 "next_move": {
 "when": "2026-11",
 "channel": "A 邮箱 → mark.basham@technetix.com（回 2026-01-22 原线程「OEM Core Switching Solution」）",
-"action": "一封收尾信（巨头例外档，仅此一封）：①REST/JSON Q2 承诺——现状是 RPC-API，不是 REST，直说；②「SFP+ 跑 2.5G」在 CENTEC 线是 NO，在 Marvell AC5 线是 YES（1G/2.5G/10G SFP+），1 月答漏了；③只问一个问题：2.5G 那条需求背后是什么应用；不推 $170 的 24 口",
+"action": "一封收尾信（巨头例外档，仅此一封）：①REST/JSON Q2 承诺——现状是 RPC-API，不是 REST，直说；②「SFP+ 跑 2.5G」在 CENTEC 线是 NO，在 Marvell AC5 线是 YES（1G/2.5G/10G SFP+），1 月答漏了；③只问一个问题：2.5G 那条需求背后是什么应用；不推 $170 的 24 口（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）：升 B 不改信稿；仍只此一封、不群发",
 "one_question": "Mark — closing two loops from January: (1) the programmable interface on the CENTEC line shipped as an RPC-based management API, not the REST/JSON interface I said would come in Q2 — please do not plan on REST; (2) my \"NO\" on 2.5G was only for the CENTEC STH10G — on our Marvell line the SFP+ cages are 1G/2.5G/10G. What is the application behind the 2.5G requirement?"
 },
 "facts": [
@@ -856100,6 +856542,14 @@
 "quote": "24 Port PoE af/at… 10G Fiber Uplinks… Price: 170USD/PC. Do you need some samples for testing?",
 "why": "与他的问题无关的推送；无回",
 "k": "push"
+},
+{
+"date": "2026-10-25",
+"dir": "研",
+"who": "第 77 批复核",
+"quote": "C→B：品牌商 VP 两次具名提问 + 我方未兑现承诺待交代",
+"why": "T29-U56；仍按 Q-55 只发一封收尾信",
+"k": "—"
 }
 ],
 "proof_gaps": [

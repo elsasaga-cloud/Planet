@@ -1,14 +1,15 @@
 # technetix.com
 **官方名称（调研核实）**：Technetix Ltd.（英国 West Sussex；宽带/光纤接入设备品牌商；KP Mark Basham, VP Product Management – Fiber Access）
 
-> **评级 C**　|　英国　|　档案编号 `SC-396`　|　优先级 —　|　状态：有回复·跟进中
+> **评级 B**　|　英国　|　档案编号 `SC-396`　|　优先级 ★★　|　状态：有回复·跟进中
 >
 > **类型**：OEM 品牌商（光纤/宽带接入设备）（推断）　|　**历史关系**：实质回复 2 次；推送 2 次（2025-04-22 → 2026-01-21）　|　**所在清单**：DC线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-396
-rating: C
+rating: B
 rating_auto: C
+rating_research: B  # 2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：英国品牌商 VP Product Management 
 name_official: "Technetix Ltd.（英国 West Sussex；宽带/光纤接入设备品牌商；KP Mark Basham, VP Product Management – Fiber Access）"
 score: 18
 country: 英国
@@ -27,30 +28,31 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：A 邮箱群发 22 封中两次具名真回：2025-04-22 要规格书/Marvell 芯片型号/能否定制设计/公司介绍 PPT（答：STI-488XGGPM 规格书 + 98DX2515）；2026-01-21 对 CENTEC 群发追问 10G SFP+ 能否跑 2.5G、SFP+ 口最大供电、有无 REST/JSON 管理接口、样机多快（Alan 01-22 答：NO / 见 STH10G 第 6 页 / 「RESTful API with JSON… planned and available in Q2」/ 样机 3~5 工作日）→ 无回；2026-08-10 单发 24 口 PoE $170 → 无回。巨头规则（technetix.com 在 GIANT_DOMAINS）自动 C。（调研 2026-10-24；表内兴趣：基本不用PoE 要10G工业管理收发器 3层工业交换机。8/12/16个SFP+, 主做工业品，问了芯片）
-- **为什么是 C 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+0 数据中心交换机线索（Hohunet/CENTEC 线）；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026；-45 巨头/品牌厂商/运营商/军工（INH 规则：体量不匹配或非客户）；C 级细分：体量过大/品牌厂商/运营商
+- **为什么是 B 级**：**调研后定级 B**（2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：英国品牌商 VP Product Management 两次具名提问（2025-04 定制/芯片；2026-01 2.5G/供电/REST/样机），Alan 2026-01-22 的答复含一个未兑现承诺（REST/JSON Q2）——欠一封收尾信；《背景信息》把 OEM 品牌商排第一。原 C 来自 INH 体量规则（-45 巨头/品牌厂商），Simon 备注「加不上 比较专业」。B = 慢慢跟进：仍只发 Q-55 规定的那一封收尾信，不进群发。）；自动分级 C：+30 实质回复 2 次（问价/要资料/问型号等）；+0 数据中心交换机线索（Hohunet/CENTEC 线）；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026；-45 巨头/品牌厂商/运营商/军工（INH 规则：体量不匹配或非客户）
 - **历史互动**：实质回复 2 次；推送 2 次（2025-04-22 → 2026-01-21）；最近一次客户回复：2026-01-21：问了一些问题
-- **P1**：不推（C 级）；若对方主动来询，起手 无直接对位；2.5G 需求 → STI-288DGGPM / STC-28DGGPM（2.5G 铜口 + 10G SFP+，SFP+ 不跑 2.5G）；CENTEC STH10G 仅 1G/10G（深挖对位：品牌商/定制意向，但巨头体量；先把承诺交代清楚，再看他是否还有话）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：2.5G 问题的正确答案：Marvell AC5 线的 SFP+ 笼子本来就是 1G/2.5G/10G（STC-424XGGM、STI-480XGGM 等），DG 型号的 SFP 是 1G/2.5G——他问的「10G SFP+ 能否跑 2.5G」在 AC5 线上是 YES，Alan 的「NO」只对 CENTEC STH10G 成立；AC5 线无 2.5G 铜口；Realtek 商用线有（STC-18XGDGE/-PW、STC-624XGDGM 等，有价）；CENTEC VastLakes 表有 24/48 口 2.5G/5G/10G Multi-Gig 铜口（含 PoE++，无价）——收尾信第 2 点可带一句 — OEM 30%（品牌商定制）｜对外统一口径（#2/#15/#12）：2026-01-22 的「1, NO」只对 CENTEC STH10G 对；AC5 线 SFP+ = 1G/2.5G/10G（主表规格栏），这一点要补上。STOS V2.4 只有「RPC-API management」，无 REST/JSON——2026-01-22 的 Q2 承诺要主动收尾，写法「the programmable interface shipped as an RPC-based API, not REST/JSON; I will not dress it up」；巨头规则 C 不动（Q-55 默认），只发一封｜已发资料（勿重发）：Saga Software Function List-release 7.3.0(2025-03-24)、STI-488XGGPM.pdf(2025-04-23)、BigFlow V2.1 / STH10G Series / Function List V2.4(2026-01-22)；Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；STC-424XGGM $143 / STI-480XGGM $253 EXW（主表 @6.69）；2026-08-10 推过 24 口 PoE $170
+- **第一问（只问一个）**：Mark — closing two loops from January: (1) the programmable interface on the CENTEC line shipped as an RPC-based management API, not the REST/JSON interface I said would come in Q2 — please do not plan on REST; (2) my "NO" on 2.5G was only for the CENTEC STH10G — on our Marvell line the SFP+ cages are 1G/2.5G/10G. What is the application behind the 2.5G requirement?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → mark.basham@technetix.com（回 2026-01-22 原线程「OEM Core Switching Solution」） 一封收尾信（巨头例外档，仅此一封）：①REST/JSON Q2 承诺——现状是 RPC-API，不是 REST，直说；②「SFP+ 跑 2.5G」在 CENTEC 线是 NO，在 Marvell AC5 线是 YES（1G/2.5G/10G SFP+），1 月答漏了；③只问一个问题：2.5G 那条需求背后是什么应用；不推 $170 的 24 口
+- **下一步**：2026-11 A 邮箱 → mark.basham@technetix.com（回 2026-01-22 原线程「OEM Core Switching Solution」） 一封收尾信（巨头例外档，仅此一封）：①REST/JSON Q2 承诺——现状是 RPC-API，不是 REST，直说；②「SFP+ 跑 2.5G」在 CENTEC 线是 NO，在 Marvell AC5 线是 YES（1G/2.5G/10G SFP+），1 月答漏了；③只问一个问题：2.5G 那条需求背后是什么应用；不推 $170 的 24 口（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）：升 B 不改信稿；仍只此一封、不群发
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-396` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-396` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（A 邮箱 22 去 2 来，两次都是 VP Mark Basham 具名、带 4~5 个具体技术问题；2026-01-22 Alan 答复含「REST/JSON API Q2 可用」承诺后无回；巨头规则 C）** ｜ 类型：品牌商 VP 自问 ｜ 筛子：3~4（具体问题层面，未到型号/数量） ｜ 停点：我们的答复一个「NO」（SFP+ 不跑 2.5G）+ 一个未兑现的承诺（REST Q2）——他没再回 ｜ 复活：一封收尾信：交代 REST 承诺现状 + 2.5G 的正确对位机型；不带新品，不群发 ｜ 通路：英国（四大主攻之一）；巨头例外档 ｜ 节奏：一次收尾，之后半年 ｜ 证据：gmail_a 2025-03-24 → 2026-08-10（22 去 2 来）；digest in 2 / out 22；flags giant=1, wa_failed=1
+- **绑定等级：轻度触达（A 邮箱 22 去 2 来，两次都是 VP Mark Basham 具名、带 4~5 个具体技术问题；2026-01-22 Alan 答复含「REST/JSON API Q2 可用」承诺后无回；巨头规则 C → 第 77 批升 B，仅一封收尾信）** ｜ 类型：品牌商 VP 自问 ｜ 筛子：3~4（具体问题层面，未到型号/数量） ｜ 停点：我们的答复一个「NO」（SFP+ 不跑 2.5G）+ 一个未兑现的承诺（REST Q2）——他没再回 ｜ 复活：一封收尾信：交代 REST 承诺现状 + 2.5G 的正确对位机型；不带新品，不群发 ｜ 通路：英国（四大主攻之一）；巨头例外档 ｜ 节奏：一次收尾，之后半年 ｜ 证据：gmail_a 2025-03-24 → 2026-08-10（22 去 2 来）；digest in 2 / out 22；flags giant=1, wa_failed=1
 - **现状一句话**：英国宽带设备品牌商 Technetix 的产品 VP 两次具名提问（2025-04 定制设计/芯片；2026-01 CENTEC 线 2.5G/供电/REST/样机）。Alan 2026-01-22 答「REST/JSON API Q2 可用」，Q2 已过，STOS V2.4 功能表没有 REST——承诺悬着；此后只收到群发与一封 $170 推送。
 - **对方真实需求（有据）**：光纤接入侧的交换/汇聚：10G SFP+ 口能否 2.5G、SFP+ 供电、程序化管理接口（REST/JSON）、快速样机；更早的问题是「能否定制设计」。
 - **断点 / 为什么停在这里**：2026-01-22 的答复：一个 NO + 一个未兑现的 Q2 承诺；之后 9 个月没人交代。
-- **Saga 现在该推什么**：P1 **2.5G 问题的正确答案：Marvell AC5 线的 SFP+ 笼子本来就是 1G/2.5G/10G（STC-424XGGM、STI-480XGGM 等），DG 型号的 SFP 是 1G/2.5G——他问的「10G SFP+ 能否跑 2.5G」在 AC5 线上是 YES，Alan 的「NO」只对 CENTEC STH10G 成立；AC5 线无 2.5G 铜口；Realtek 商用线有（STC-18XGDGE/-PW、STC-624XGDGM 等，有价）；CENTEC VastLakes 表有 24/48 口 2.5G/5G/10G Multi-Gig 铜口（含 PoE++，无价）——收尾信第 2 点可带一句**（OEM 30%（品牌商定制）% 档，Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；STC-424XGGM $143 / STI-480XGGM $253 EXW（主表 @6.69）；2026-08-10 推过 24 口 PoE $170）——对外统一口径（#2/#15/#12）：2026-01-22 的「1, NO」只对 CENTEC STH10G 对；AC5 线 SFP+ = 1G/2.5G/10G（主表规格栏），这一点要补上。STOS V2.4 只有「RPC-API management」，无 REST/JSON——2026-01-22 的 Q2 承诺要主动收尾，写法「the programmable interface shipped as an RPC-based API, not REST/JSON; I will not dress it up」；巨头规则 C 不动（Q-55 默认），只发一封｜已发资料（勿重发）：Saga Software Function List-release 7.3.0(2025-03-24)、STI-488XGGPM.pdf(2025-04-23)、BigFlow V2.1 / STH10G Series / Function List V2.4(2026-01-22)
+- **Saga 现在该推什么**：P1 **2.5G 问题的正确答案：Marvell AC5 线的 SFP+ 笼子本来就是 1G/2.5G/10G（STC-424XGGM、STI-480XGGM 等），DG 型号的 SFP 是 1G/2.5G——他问的「10G SFP+ 能否跑 2.5G」在 AC5 线上是 YES，Alan 的「NO」只对 CENTEC STH10G 成立；AC5 线无 2.5G 铜口；Realtek 商用线有（STC-18XGDGE/-PW、STC-624XGDGM 等，有价）；CENTEC VastLakes 表有 24/48 口 2.5G/5G/10G Multi-Gig 铜口（含 PoE++，无价）——收尾信第 2 点可带一句**（30% 档，Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；STC-424XGGM $143 / STI-480XGGM $253 EXW（主表 @6.69）；2026-08-10 推过 24 口 PoE $170）——OEM 30%（品牌商定制）｜对外统一口径（#2/#15/#12）：2026-01-22 的「1, NO」只对 CENTEC STH10G 对；AC5 线 SFP+ = 1G/2.5G/10G（主表规格栏），这一点要补上。STOS V2.4 只有「RPC-API management」，无 REST/JSON——2026-01-22 的 Q2 承诺要主动收尾，写法「the programmable interface shipped as an RPC-based API, not REST/JSON; I will not dress it up」；巨头规则 C 不动（Q-55 默认），只发一封｜已发资料（勿重发）：Saga Software Function List-release 7.3.0(2025-03-24)、STI-488XGGPM.pdf(2025-04-23)、BigFlow V2.1 / STH10G Series / Function List V2.4(2026-01-22)
   - 复购/在买项：品；牌；商；若；立；项；为；定；制；，；才；有；复；购
   - 做不了 / 要先核的：他；的；具；体；应；用；（；为；什；么；要； ；S；F；P；+； ；跑； ；2；.；5；G；）；；；T；e；c；h；n；e；t；i；x； ；供；应；商；准；入；要；求；；；R；E；S；T； ；是；否；仍；是；硬；条；件；；；S；i；m；o；n；《；S；T；H；计；划；》；：；1；G；/；2；.；5；G；/；5；G； ；铜；口； ；C；E；N；T；E；C； ；机；「；暂；不；宣；传；、；信；息；备；好；」；→； ；信；稿；只；答；「；o；n； ；r；e；q；u；e；s；t； ；/； ；n；o；t； ；o；n； ；p；u；b；l；i；s；h；e；d； ；l；i；s；t；」；，；不；主；推；；；估；算；带；见； ；C；E；N；T；E；C； ；锚；表； ；§；5；.；3；，；对；客；户；仍； ；p；r；i；c；e； ；o；n； ；r；e；q；u；e；s；t
-- **下一步（具体）**：2026-11　A 邮箱 → mark.basham@technetix.com（回 2026-01-22 原线程「OEM Core Switching Solution」）　一封收尾信（巨头例外档，仅此一封）：①REST/JSON Q2 承诺——现状是 RPC-API，不是 REST，直说；②「SFP+ 跑 2.5G」在 CENTEC 线是 NO，在 Marvell AC5 线是 YES（1G/2.5G/10G SFP+），1 月答漏了；③只问一个问题：2.5G 那条需求背后是什么应用；不推 $170 的 24 口
+- **下一步（具体）**：2026-11　A 邮箱 → mark.basham@technetix.com（回 2026-01-22 原线程「OEM Core Switching Solution」）　一封收尾信（巨头例外档，仅此一封）：①REST/JSON Q2 承诺——现状是 RPC-API，不是 REST，直说；②「SFP+ 跑 2.5G」在 CENTEC 线是 NO，在 Marvell AC5 线是 YES（1G/2.5G/10G SFP+），1 月答漏了；③只问一个问题：2.5G 那条需求背后是什么应用；不推 $170 的 24 口（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）：升 B 不改信稿；仍只此一封、不群发
   - 第一问（只问一个）：Mark — closing two loops from January: (1) the programmable interface on the CENTEC line shipped as an RPC-based management API, not the REST/JSON interface I said would come in Q2 — please do not plan on REST; (2) my "NO" on 2.5G was only for the CENTEC STH10G — on our Marvell line the SFP+ cages are 1G/2.5G/10G. What is the application behind the 2.5G requirement?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -61,6 +63,7 @@ updated: 2026-10-24
 | 2026-01-22 | 去 | Alan | 1, NO 2, Please check the power consumption on page 6(STH10 Series) 3, A RESTful management API with JSON data format is planned and available in Q2. 4, Please see attached information. 5, For samples, 3~5 working days is good. We are still improving some features, this takes a while. | REST Q2 承诺——未兑现（STOS V2.4 无 REST） | `promise` |
 | 2026-01-22 | 内 | （仓内核对 2026-10-24） | 主表规格栏：STC-424XGGM「4*1G/2.5G/10G SFP+」、STI-480XGGM「4*1G/2.5G/10GBase-X SFP+」；STI-288DGGPM 规格书「DG: 2.5 Gigabit based for optical ports」 | Alan 的「1, NO」只对 CENTEC；AC5 线 SFP+ 可跑 2.5G——收尾信要补 | `check` |
 | 2026-08-10 | 去 | Alan | 24 Port PoE af/at… 10G Fiber Uplinks… Price: 170USD/PC. Do you need some samples for testing? | 与他的问题无关的推送；无回 | `push` |
+| 2026-10-25 | 研 | 第 77 批复核 | C→B：品牌商 VP 两次具名提问 + 我方未兑现承诺待交代 | T29-U56；仍按 Q-55 只发一封收尾信 | `—` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Technetix 当前产品线中哪一段需要 2.5G/SFP+ 供电（官网未爬）；REST 承诺的来源（Alan 当时依据什么说 Q2）；WhatsApp 加不上（flags.wa_failed）的时间与号码
 
@@ -95,7 +98,8 @@ updated: 2026-10-24
   > 1, NO 2, …page 6(STH10 Series) 3, A RESTful management API with JSON data format is planned and available in Q2. 4, … 5, For samples, 3~5 working days
   > 来源：data/gmail_a/messages/<year>/<month>.jsonl（抓取 2026-01-22）
 - **KP**：Mark Basham（）mark.basham@technetix.com +44 1444 251260 / m +44 7827 990840（信尾；对外材料不写电话）〔data/gmail_a/messages/<year>/<month>.jsonl〕
-- 备注：巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。
+- **调研后定级**：B（原自动 C）——2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：英国品牌商 VP Product Management 两次具名提问（2025-04 定制/芯片；2026-01 2.5G/供电/REST/样机），Alan 2026-01-22 的答复含一个未兑现承诺（REST/JSON Q2）——欠一封收尾信；《背景信息》把 OEM 品牌商排第一。原 C 来自 INH 体量规则（-45 巨头/品牌厂商），Simon 备注「加不上 比较专业」。B = 慢慢跟进：仍只发 Q-55 规定的那一封收尾信，不进群发。
+- 备注：巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。｜第 77 批：C→B（见 override_reason）；收尾信不变，2026-11 发。
 
 ### 加厚挖掘（2026-10-24 · 邮件证据 + 官网常识）
 
@@ -123,6 +127,29 @@ updated: 2026-10-24
 | 2025-04-22 | 2025.4.22 | bypass | 问了一些问题 | A |  | DC Switches 08.10.xlsx#23 |
 | 2026-01-21 | 2026.1.21 | CENTEC | 问了一些问题 | A |  | DC Switches 08.10.xlsx#23 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 22 / 来 2）　|　**期间**：2024-06-20 → 2026-08-10　|　**最后去信**：2026-08-10
+- **对方邮箱**：mark.basham@technetix.com
+- **最后一封来信**：2026-01-21 mark.basham@technetix.com「RE: OEM Core Switching Solution」：Hello Alan, Thanks for the info. Are the 10G SFP+ ports able to run at 2.5Gbps? What the max power that can be drawn by the SFP+ ports? Is there a management interface such as REST, or JSON. Can you send me a data sheet please. And finally how quickly can I ge
+- **邮件里报过的价**：2025-01-09 $300；2024-12-18 $240；2024-06-20 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-08-10 | 2026-08-10 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-21 | 2026-01-22 | 1 | 2 | 6 |
+| Marvell Industrial Alert System | 2025-12-22 | 2025-12-22 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-11-24 | 2025-11-24 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-05 | 2025-11-05 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-10 | 2025-10-10 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-09-17 | 2025-09-17 | 0 | 1 | 1 |
+| Marvell Networking Solutions | 2025-08-14 | 2025-08-14 | 0 | 1 | 1 |
+| L3 Managed Switch | 2025-07-04 | 2025-07-04 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-06 | 2025-06-06 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-04-22 | 2025-04-23 | 1 | 2 | 9 |
+| Marvell Software Function List | 2025-03-24 | 2025-03-24 | 0 | 1 | 2 |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`mark.basham@technetix.com`〔企业邮箱；来源：用户表原值〕
@@ -148,10 +175,33 @@ updated: 2026-10-24
 |---|---|---|---|---|---|---|---|---|---|
 | DC Switches 08.10.xlsx#总表:24 | 23 | https://emea.technetix.com/ | 英国 | Mark | IFSEC fair <br>2023 | 基本不用PoE<br>要10G工业管理收发器 3层工业交换机。8/12/16个SFP+, 主做工业品，问了芯片 | mark.basham@technetix.com | 44 7827 990840 <br>加不上  比较专业 | 2 条 |
 
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | 无直接对位；2.5G 需求 → STI-288DGGPM / STC-28DGGPM（2.5G 铜口 + 10G SFP+，SFP+ 不跑 2.5G）；CENTEC STH10G 仅 1G/10G | 深挖对位：品牌商/定制意向，但巨头体量；先把承诺交代清楚，再看他是否还有话 | 价格待核（价格主表无此型号） | 深挖对位；档位 30%（OEM 品牌商（光纤/宽带接入设备）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
 ## 跟进建议
 
-> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
-> 不跟进理由：体量过大/品牌厂商/运营商。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-396,B,理由` 后重跑即可。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（无直接对位；2.5G 需求 → STI-288DGGPM / STC-28DGGPM（2.5G 铜口 + 10G SFP+，SFP+ 不跑 2.5G）；CENTEC STH10G 仅 1G/10G），备选型不进首触。
+
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + 无直接对位；2.5G 需求 → STI-288DGGPM / STC-28DGGPM（2.5G 铜口 + 10G SFP+，SFP+ 不跑 2.5G）；CENTEC STH10G 仅 1G/10G 一条规格链接；只问一个问题。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## SWOT
+
+- **S**：有 2 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
+- **O**：P1 无直接对位；2.5G 需求 → STI-288DGGPM / STC-28DGGPM（2.5G 铜口 + 10G SFP+，SFP+ 不跑 2.5G）；CENTEC STH10G 仅 1G/10G 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：（集团数百人；未核）
+- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
 
@@ -170,7 +220,7 @@ updated: 2026-10-24
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -207,12 +257,12 @@ Alan
 
 ## 下次复核
 
-- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 18）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 18）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

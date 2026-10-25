@@ -1,0 +1,103 @@
+{
+  "code": "SC-2289",
+  "name_official": "Microtech Inc（巴基斯坦卡拉奇；Noman Asghar）",
+  "researched_at": "2026-10-25",
+  "website_status": "未查",
+  "summary": "Elsa 邮箱两线程 5 封：2025-06-04 对「10G Media Converter」回「These Product Are Not Available」（把我们当买家）；2026-05-11 对「10G Enterprise SFP Switch」回「Please find the attachment」= 他们自己的报价单 S10616：MikroTik CRS326-24S-2Q+RM PKR 165,500（≈US$590，另 18% 税）——反向对标，线程里无 Elsa 回复 = 我方欠答。用户表「用户判定不行」。",
+  "type": "巴基斯坦 IT 分销/集成（MikroTik 渠道）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [],
+  "kp": [
+    {
+      "name": "Noman Asghar",
+      "title": "",
+      "email": "info@microtech.net.pk / sales@microtech.net.pk",
+      "phone": "",
+      "source": "Elsa 邮箱"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
+  "deep": {
+    "done_at": "2026-10-25",
+    "level": "仅 Elsa 邮箱证据"
+  },
+  "company_facts": {
+    "legal_name": "Microtech Inc",
+    "founded": "",
+    "hq": "巴基斯坦卡拉奇",
+    "size": "",
+    "other": ""
+  },
+  "channels": {
+    "role": "巴基斯坦 IT 分销/集成（MikroTik 渠道）",
+    "region": "巴基斯坦卡拉奇"
+  },
+  "risks": [
+    "MikroTik 价位（24×10G SFP+ ≈ $590）Saga 10G 机型追不上",
+    "Simon 用户表已判「不行」"
+  ],
+  "saga_fit": {
+    "p1": "STH-2C24XF-HSI（24×10G SFP+ + 2×100G）",
+    "tier": null,
+    "why": "只为交代反向报价；按群发价 $1,500 说清不是同级"
+  },
+  "email_hook": "（见 mail_review.draft_en）",
+  "mail_review": {
+    "as_of": "2026-10-25",
+    "binding": {
+      "level": "Elsa 1:1 去信 2 轮 + 真人回 2 封（2025-06-04、2026-05-11）；我方欠答 1 处（2026-05-11 反向报价单）；C 不改（Simon 用户表「不行」）",
+      "type": "巴基斯坦 MikroTik 渠道商",
+      "sieve": "1（反向对标，未表达采购意向）",
+      "stop": "他发来的是自己的 MikroTik 报价单——我们没回",
+      "revive": "一封交代：不是同级机 + 我们 24×10G SFP+ 的价位 + 一问用途；之后不动",
+      "lane": "巴基斯坦（非主战场）",
+      "cadence": "仅此一封",
+      "evidence": "`data/gmail_e/text/19e15908306082b4.json`；附件 `data/gmail_e/attachments/SC-2289_Quotation-S10616_2026-05-11.pdf`；`docs/gmail/Elsa邮箱_来询未回清单_2026-10.md` 第 2 条"
+    },
+    "situation": "卡拉奇 Microtech 对 Elsa 2026-05-11 的 24×1G SFP 机群发，回了一张他们自己卖 MikroTik CRS326-24S-2Q+RM 的报价单（PKR 165,500 + 18% 税），等于问「你们这台对得上这个价吗」；我们没答。",
+    "need": "24×10G SFP+ 级别的汇聚/核心机价格参照（MikroTik 心理价 ≈ US$590）",
+    "breakpoint": "反向报价单无人答（2026-05-11 起）",
+    "saga_now": {
+      "p1": "STH-2C24XF-HSI",
+      "tier": null,
+      "price": "锚价：STH-2C24XF-HSI $1,500（2026-07-20 群发价；SA-093 实报 $1,250 含 MA 不外推）；24×1G SFP 机（群发原机）$280 他已见",
+      "why": "CENTEC 按项目锚价；此处只为说清不是同级，不求成交",
+      "repeat": "无",
+      "gaps": "用途（ISP 环 / 企业核心）"
+    },
+    "next_move": {
+      "when": "现在（仅此一封；Simon 用户表判「不行」，发不发由 Simon）",
+      "channel": "Elsa 邮箱 → info@microtech.net.pk（回 2026-05-11 真实线程「Re: 10G Enterprise SFP Switch」）",
+      "action": "一封交代：CRS326-24S-2Q+RM（24×10G SFP+ + 2×40G）与我们 24×1G SFP + 8 combo + 4×10G 不是同级；同级机 STH-2C24XF-HSI $1,500；一问用途；之后不动（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）",
+      "one_question": "Noman - was the CRS326 quoted for an ISP aggregation ring or an enterprise core?"
+    },
+    "facts": [
+      {
+        "date": "2025-06-04",
+        "dir": "来",
+        "who": "Noman Asghar（Microtech Inc）",
+        "quote": "Dear Elsa, These Product Are Not Available.",
+        "why": "把 Elsa 的 10G 媒体转换器推介当成了询价——说明对方是渠道商；Elsa 06-06 已回",
+        "k": "gmail_e 1973b67afb1f650a"
+      },
+      {
+        "date": "2026-05-11",
+        "dir": "来",
+        "who": "Noman Asghar（cc sales@microtech.net.pk）",
+        "quote": "Please Find The Attachment.（附 Quotation - S10616.pdf：MikroTik CRS326-24S-2Q+RM，PKR 165,500 + 18% 税；另附我方 Dual AC.jpg）",
+        "why": "反向报价 = 巴基斯坦渠道对 24×10G SFP+ 的心理价位 ≈ US$590；线程无 Elsa 回复 → 我方欠答",
+        "k": "gmail_e 19e15908306082b4"
+      }
+    ],
+    "proof_gaps": [
+      "用途未知"
+    ],
+    "draft_en": {
+      "subject": "Re: 10G Enterprise SFP Switch",
+      "body": "Hello Noman,\n\nYour quotation S10616 from 11 May (MikroTik CRS326-24S-2Q+RM, PKR 165,500 plus tax) sat in my inbox without an answer - apologies.\n\nThe two units are not the same class. The CRS326-24S-2Q+RM is 24 x 10G SFP+ with 2 x 40G; the unit I showed you is 24 x 1G SFP + 8 combo + 4 x 10G SFP+, an access/aggregation box at a fraction of that price. Our like-for-like 24 x 10G SFP+ unit is CENTEC-based - model STH-2C24XF-HSI, 24 x 10G SFP+ + 2 x 100G QSFP28, full L3 - at $1,500 USD EXW (MOQ 1, 15-day validity). That is above MikroTik money, so it only makes sense where 100G uplinks and the L3 feature set matter.\n\nOne question: was the CRS326 quoted for an ISP aggregation ring or an enterprise core? That tells me whether to send the 24 x 1G SFP price instead.\n\nThank you.\nElsa\nSaga Telecom - sagatele.com"
+    }
+  }
+}

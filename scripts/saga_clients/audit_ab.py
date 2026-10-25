@@ -46,7 +46,7 @@ REAL = {
     'STC-28GPM': [71.0, 74.0, 77.0], 'STC-128GFP': [25.0],
     'STH-2C24XF-HSI': [1500.0], 'STH-32C-HSI': [6000.0], 'STH-8C48DX-HSI': [4800.0], 'STH-2C6QX-HSI': [1200.0], 'STH-32QC-HSI': [16000.0],
     'STH-2C24XF-SFI': [], 'STI-21616XGGPM': [322.6, 297.8, 310.2], 'STI-488XGGPM': [165.0, 171.9, 178.8, 178.7], 'STI-448DGGGM': [205.5],
-    'STC-424XGGM': [127.4, 132.7, 138.0, 130.0], 'STI-488XGGBPM': [215.0], 'STI-21616GPM': [], 'STI-21616GPM-2BT': [], 'STC-110XGE': [65.0], 'STI-0160GE': [100.0, 105.0], 'STI-222GP': [33.0, 34.0], 'STC-424DGGPM-280W': [134.5, 140.1, 145.7, 150.0, 135.0], 'STC-28DGGPM': [80.7, 84.1, 87.4, 81.0],
+    'STC-424XGGM': [127.4, 132.7, 138.0, 130.0], 'STI-488XGGBPM': [215.0], 'STI-21616GPM': [], 'STI-21616GPM-2BT': [], 'STI-0240GE': [130.0], 'STC-110XGE': [65.0], 'STI-0160GE': [100.0, 105.0], 'STI-222GP': [33.0, 34.0], 'STC-424DGGPM-280W': [134.5, 140.1, 145.7, 150.0, 135.0], 'STC-28DGGPM': [80.7, 84.1, 87.4, 81.0],
 }
 BYPASS = {186.5, 194.3, 202.1}  # LT-IS6312GP-4GX8GT-FBP（无 Saga 型号）
 TOL = 0.11
@@ -57,6 +57,7 @@ FORBIDDEN = re.compile(r'\bERPS\b|\bCLI\b|watchdog|in stock|free sample|list pri
 ALLOW_FORBIDDEN = {
     'SB-093': {'watchdog'}, 'SA-013': set(), 'SB-473': {'CLI'}, 'SB-1336': {'CLI', 'SNMP v2', 'SNMP v3'}, 'SB-761': {'SNMP v3'}, 'SB-040': {'CLI'},
     'SA-091': {'CLI'}, 'SB-679': {'CLI'}, 'SB-1088': {'NDAA-compliant'}, 'SA-052': {'watchdog'},
+    'SC-396': {'SNMP v3', 'CLI'},  # CENTEC STOS：CLI 手册 + Function List V2.4 均有 SNMPv3（Extra_Info STH）
     'SA-024': {'SNMPv3'},            # 复述客户 2025-01-16 标书原话（LACP/IPv6/Voice VLAN/SNMPv3/SSHv2）
     'SB-093': {'watchdog', '250 m'},  # 复述我方 2026-05-05 对 17 问的答复 + 2026-09-14 Alan 原话「PoE watchdog and 250-meter PoE」
     'SC-2186': {'CLI', 'SNMP v3'},    # CENTEC 核心机（Hohunet）CLI/SNMPv3 属实，红线只针对 Marvell/非管理线

@@ -1,0 +1,87 @@
+{
+  "code": "SC-1070",
+  "name_official": "Dhaka Network Ltd（孟加拉国达卡；dhakanetworkltd@gmail.com / dhakanetworksbd.com）",
+  "researched_at": "2026-10-25",
+  "website_status": "未查",
+  "summary": "Elsa 邮箱 1 线程：2026-02-13「DWDM Core Switching Solution」（CENTEC 核心机）→ 02-14 真人回「Where your contact number?」——无 Elsa 回复 = 我方欠答。用户表「WhatsApp 已加·未回复」「DWDM 线索」。",
+  "type": "孟加拉 ISP/网络集成（DWDM 线索）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
+  "deep": {
+    "done_at": "2026-10-25",
+    "level": "仅 Elsa 邮箱证据"
+  },
+  "company_facts": {
+    "legal_name": "Dhaka Network Ltd",
+    "founded": "",
+    "hq": "孟加拉国达卡",
+    "size": "",
+    "other": ""
+  },
+  "channels": {
+    "role": "孟加拉 ISP/网络集成（DWDM 线索）",
+    "region": "孟加拉国达卡"
+  },
+  "risks": [
+    "只问电话——对外材料不写电话（Saga.md），只给 WhatsApp 跳转",
+    "孟加拉非主战场；DWDM 光层 Saga 不供"
+  ],
+  "saga_fit": {
+    "p1": "CENTEC 核心/汇聚机（按项目）",
+    "tier": null,
+    "why": "先问清要哪一页；不报价"
+  },
+  "email_hook": "（见 mail_review.draft_en）",
+  "mail_review": {
+    "as_of": "2026-10-25",
+    "binding": {
+      "level": "Elsa 1:1 去信 1 轮 + 真人回 1 封（2026-02-14）；我方欠答 1 处；C 不改",
+      "type": "孟加拉 ISP/集成（DWDM 线索）",
+      "sieve": "1",
+      "stop": "对方只要电话，我们没回",
+      "revive": "两行：邮件 + WhatsApp（站上链接）+ 一问要哪一页",
+      "lane": "孟加拉（非主战场）",
+      "cadence": "仅此一封",
+      "evidence": "`data/gmail_e/text/19c5be3fd4a6af14.json`；`index_replied.jsonl`"
+    },
+    "situation": "对 CENTEC「DWDM Core Switching」群发回了一句「Where your contact number?」，8 个月没人答。",
+    "need": "核心/汇聚交换（具体不明；DWDM 光层不在 Saga 供货范围）",
+    "breakpoint": "2026-02-14 起无人答",
+    "saga_now": {
+      "p1": "CENTEC 核心/汇聚机（按项目）",
+      "tier": null,
+      "price": "不报价（先问需求）",
+      "why": "对外不写电话；WhatsApp 跳转在 sagatele.com",
+      "repeat": "无",
+      "gaps": "需求不明"
+    },
+    "next_move": {
+      "when": "现在（仅此一封）",
+      "channel": "Elsa 邮箱 → dhakanetworkltd@gmail.com（回 2026-02-14 真实线程「Re: DWDM Core Switching Solution」）",
+      "action": "两行补答：邮件 + WhatsApp（站上链接，不写号码）+ 一问（100G 核心还是 10G 汇聚）（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）",
+      "one_question": "Which part was relevant for you - the 100G core switches or the 10G aggregation units?"
+    },
+    "facts": [
+      {
+        "date": "2026-02-14",
+        "dir": "来",
+        "who": "Dhaka Network（dhakanetworkltd@gmail.com）",
+        "quote": "Where your contact number?",
+        "why": "对 2026-02-13 CENTEC 群发的真人回；线程无 Elsa 回复 → 我方欠答",
+        "k": "gmail_e 19c5be3fd4a6af14"
+      }
+    ],
+    "proof_gaps": [
+      "需求不明"
+    ],
+    "draft_en": {
+      "subject": "Re: DWDM Core Switching Solution",
+      "body": "Hello,\n\nYou asked for our contact number in February and did not get an answer - apologies. We work by email and WhatsApp; the WhatsApp link is on sagatele.com.\n\nOne question: which part of that mail was relevant for you - the 100G core switches or the 10G aggregation units? Then I can send the exact page instead of the whole deck.\n\nThank you.\nElsa\nSaga Telecom - sagatele.com"
+    }
+  }
+}
