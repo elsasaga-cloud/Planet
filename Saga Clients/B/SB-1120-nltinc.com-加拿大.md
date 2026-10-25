@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1120` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 mnoveloso@nltinc.com, spanton@nltinc.com；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：矿用设备制造商（加拿大，井下网络副线，MC 重复采购） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：CA 主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「公司：涉及很多领域 看着比较杂 买的MC MC板子 次数比较多；Marlon Noveloso」；研究档 risks：MC 板子（PCBA）供货方式待核（Saga 列表为整机）；井下/防爆场景 Saga 无认证；8 次无回复 → 改向具名 KP 首触
+- **绑定等级：未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 mnoveloso@nltinc.com, spanton@nltinc.com；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:nltinc.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(h)））** ｜ 类型：矿用设备制造商（加拿大，井下网络副线，MC 重复采购） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：CA 主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「公司：涉及很多领域 看着比较杂 买的MC MC板子 次数比较多；Marlon Noveloso」；研究档 risks：MC 板子（PCBA）供货方式待核（Saga 列表为整机）；井下/防爆场景 Saga 无认证；8 次无回复 → 改向具名 KP 首触
 - **现状一句话**：加拿大 Northern Light Technologies（NLT：矿用帽灯（Polaris）、充电柜、照明、井下网络/摄像头、呼吸面罩；表内「涉及很多领域，买的 MC / MC 板子 次数比较多」「可以多跟进一下」；KP Spanton、Marlon Noveloso）；群发 8 次无回复。
 - **对方真实需求（有据）**：重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）
 - **断点 / 为什么停在这里**：MC 板子（PCBA）供货方式待核（Saga 列表为整机）；井下/防爆场景 Saga 无认证；8 次无回复 → 改向具名 KP 首触
@@ -284,12 +284,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

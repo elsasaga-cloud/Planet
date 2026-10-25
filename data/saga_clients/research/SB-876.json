@@ -1,140 +1,140 @@
 {
-  "code": "SB-876",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（weltronproducts.com，快照 2026-10-21）",
-  "summary": "美国 Weltron® / Winston Electronics（1968 年起网络基础设施制造商：线缆（词频 182）、光纤、MC、PoE 交换机、工业；表内「商业 PoE」；邮箱 robwinston@ / awinston@winstonele.com、info@weltron.us）；群发 19 次无回复。",
-  "type": "美国网络基础设施自有品牌商（OEM 采购）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Weltron® | Networking Infrastructure Manufacturer；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Weltron® Company was started in 1968 as an idea and concept ahead of the times. The space-age radio was designed and manufactured as the Model 2001. It was one of the original self-contained boom box stereo radios.",
-      "url": "https://weltronproducts.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业PoE；info@weltron.us",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Weltron 公司历史",
-      "quote": "Weltron® | Networking Infrastructure Manufacturer ; Weltron® Company was started in 1968 as an idea and concept ahead of the times.",
-      "url": "https://weltronproducts.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业 PoE",
-      "quote": "商业PoE；info@weltron.us",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Rob Winston",
-      "title": "（表内邮箱，职务待核）",
-      "email": "robwinston@winstonele.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-876",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（weltronproducts.com，快照 2026-10-21）",
+ "summary": "美国 Weltron® / Winston Electronics（1968 年起网络基础设施制造商：线缆（词频 182）、光纤、MC、PoE 交换机、工业；表内「商业 PoE」；邮箱 robwinston@ / awinston@winstonele.com、info@weltron.us）；群发 19 次无回复。",
+ "type": "美国网络基础设施自有品牌商（OEM 采购）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Weltron® | Networking Infrastructure Manufacturer；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Weltron® Company was started in 1968 as an idea and concept ahead of the times. The space-age radio was designed and manufactured as the Model 2001. It was one of the original self-contained boom box stereo radios.",
+   "url": "https://weltronproducts.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 weltronproducts.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业PoE；info@weltron.us",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络基础设施（线缆 / 光纤 / MC / PoE 交换机，自有品牌 Weltron）"
-  ],
-  "channels": {
-    "role": "美国网络基础设施自有品牌商（OEM 采购）",
-    "region": "美国",
-    "contact": "robwinston@winstonele.com、awinston@winstonele.com"
+  {
+   "kind": "官网快照",
+   "claim": "Weltron 公司历史",
+   "quote": "Weltron® | Networking Infrastructure Manufacturer ; Weltron® Company was started in 1968 as an idea and concept ahead of the times.",
+   "url": "https://weltronproducts.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Weltron® Company was started in 1968 … Networking Infrastructure Manufacturer；kw cable 182 / fiber 68 / switch 37 / poe 26 / media converter 8",
-    "表内：商业 PoE；info@weltron.us"
-  ],
-  "risks": [
-    "线缆为主业：交换机为副线；19 次无回复",
-    "邮箱为关联公司 Winston Electronics 个人邮箱（表内），称呼待核"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有 Weltron 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；24 口位 STC-424DGGPM-280W；MC 位 STI-110GE"
-  },
-  "email_hook": "For the Weltron-branded PoE switches and media converters in your catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your distributors reorder most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封自动回复）",
-      "type": "美国网络基础设施自有品牌商（Weltron）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动；备用具名邮箱：gelliott@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）；jkhicks@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）；sj@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）",
-      "lane": "US",
-      "cadence": "不动",
-      "evidence": "k=9270e602f2e97c34"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（10G managed switch）、2024-09-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（2/34 封有打开记录）：「industrial poe switch」(2024-06-26)、「24 Port Passive PoE Switch」(2024-10-30) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—；备用具名邮箱 → gelliott@winstonele.com, jkhicks@winstonele.com, sj@winstonele.com",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-07-19",
-        "dir": "来",
-        "who": "自动回复",
-        "quote": "自动回复里给出代理人/同事邮箱 gelliott@winstonele.com",
-        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-        "k": "9270e602f2e97c34"
-      },
-      {
-        "date": "2024-07-19",
-        "dir": "来",
-        "who": "自动回复",
-        "quote": "自动回复里给出代理人/同事邮箱 jkhicks@winstonele.com",
-        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-        "k": "9270e602f2e97c34"
-      },
-      {
-        "date": "2024-07-19",
-        "dir": "来",
-        "who": "自动回复",
-        "quote": "自动回复里给出代理人/同事邮箱 sj@winstonele.com",
-        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-        "k": "9270e602f2e97c34"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "商业PoE；info@weltron.us",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Rob Winston",
+   "title": "（表内邮箱，职务待核）",
+   "email": "robwinston@winstonele.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 weltronproducts.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络基础设施（线缆 / 光纤 / MC / PoE 交换机，自有品牌 Weltron）"
+ ],
+ "channels": {
+  "role": "美国网络基础设施自有品牌商（OEM 采购）",
+  "region": "美国",
+  "contact": "robwinston@winstonele.com、awinston@winstonele.com"
+ },
+ "signals": [
+  "官网：Weltron® Company was started in 1968 … Networking Infrastructure Manufacturer；kw cable 182 / fiber 68 / switch 37 / poe 26 / media converter 8",
+  "表内：商业 PoE；info@weltron.us"
+ ],
+ "risks": [
+  "线缆为主业：交换机为副线；19 次无回复",
+  "邮箱为关联公司 Winston Electronics 个人邮箱（表内），称呼待核"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 Weltron 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；24 口位 STC-424DGGPM-280W；MC 位 STI-110GE"
+ },
+ "email_hook": "For the Weltron-branded PoE switches and media converters in your catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your distributors reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复；Elsa 箱：`to:weltronproducts.com OR to:winstonele.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 34 / 来 1）（第 74 批(h)））",
+   "type": "美国网络基础设施自有品牌商（Weltron）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动；备用具名邮箱：gelliott@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）；jkhicks@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）；sj@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=9270e602f2e97c34"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（10G managed switch）、2024-09-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（2/34 封有打开记录）：「industrial poe switch」(2024-06-26)、「24 Port Passive PoE Switch」(2024-10-30) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—；备用具名邮箱 → gelliott@winstonele.com, jkhicks@winstonele.com, sj@winstonele.com",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-07-19",
+    "dir": "来",
+    "who": "自动回复",
+    "quote": "自动回复里给出代理人/同事邮箱 gelliott@winstonele.com",
+    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+    "k": "9270e602f2e97c34"
+   },
+   {
+    "date": "2024-07-19",
+    "dir": "来",
+    "who": "自动回复",
+    "quote": "自动回复里给出代理人/同事邮箱 jkhicks@winstonele.com",
+    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+    "k": "9270e602f2e97c34"
+   },
+   {
+    "date": "2024-07-19",
+    "dir": "来",
+    "who": "自动回复",
+    "quote": "自动回复里给出代理人/同事邮箱 sj@winstonele.com",
+    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+    "k": "9270e602f2e97c34"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

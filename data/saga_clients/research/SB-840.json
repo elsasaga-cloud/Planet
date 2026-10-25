@@ -1,143 +1,143 @@
 {
-  "code": "SB-840",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（invidtech.com，快照 2026-10-21）",
-  "summary": "加拿大 InVid Tech（Innovative Video Technologies；AI 安防摄像机、云存储、太阳能塔、储物柜方案品牌；表内「一部分商业 PoE、周边产品；Centro 的（深圳公司）」；KP Joe Troiano（President，joe.troiano@）、Matt Troiano（Director of Sales））；群发 16 次无回复。",
-  "type": "北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）",
-  "size": "",
-  "brands_seen": [
-    "Milesight",
-    "Centro"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：InVid Tech | AI-Driven Security Cameras, Surveillance Systems & Cloud — Invidtech；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-      "quote": "Explore InVid Tech’s AI-driven security cameras, cloud storage, solar towers, and lockers—built for real-world challenges across key industries.",
-      "url": "https://invidtech.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "InVid Tech 安防方案",
-      "quote": "Explore InVid Tech’s AI-driven security cameras, cloud storage, solar towers, and lockers—built for real-world challenges across key industries.",
-      "url": "https://invidtech.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "一部分商业 PoE 周边；Centro 的",
-      "quote": "一部分商业POE 周边产品；Centro的 深圳公司",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Joe Troiano",
-      "title": "President",
-      "email": "joe.troiano@invidtech.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Matt Troiano",
-      "title": "Director of Sales",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-840",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（invidtech.com，快照 2026-10-21）",
+ "summary": "加拿大 InVid Tech（Innovative Video Technologies；AI 安防摄像机、云存储、太阳能塔、储物柜方案品牌；表内「一部分商业 PoE、周边产品；Centro 的（深圳公司）」；KP Joe Troiano（President，joe.troiano@）、Matt Troiano（Director of Sales））；群发 16 次无回复。",
+ "type": "北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）",
+ "size": "",
+ "brands_seen": [
+  "Milesight",
+  "Centro"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：InVid Tech | AI-Driven Security Cameras, Surveillance Systems & Cloud — Invidtech；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Explore InVid Tech’s AI-driven security cameras, cloud storage, solar towers, and lockers—built for real-world challenges across key industries.",
+   "url": "https://invidtech.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "加拿大",
-    "other": "官网 invidtech.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "AI 安防摄像机 / NVR / 云存储（自有品牌）",
-    "配套 PoE 交换机（贴标）"
-  ],
-  "channels": {
-    "role": "北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）",
-    "region": "加拿大",
-    "contact": "sales@invidtech.com、joe.troiano@invidtech.com"
+  {
+   "kind": "官网快照",
+   "claim": "InVid Tech 安防方案",
+   "quote": "Explore InVid Tech’s AI-driven security cameras, cloud storage, solar towers, and lockers—built for real-world challenges across key industries.",
+   "url": "https://invidtech.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Explore InVid Tech’s AI-driven security cameras, cloud storage, solar towers, and lockers",
-    "表内：Centro 的 深圳公司；KP Joe Troiano / President；Matt Troiano / Director of Sales"
-  ],
-  "risks": [
-    "现代工 Centro（深圳）价格基准低",
-    "16 次无回复 → 改向 President 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有标商用 PoE（现 Centro）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 InVid 标；16/24 口位 STC-424DGGPM-280W"
-  },
-  "email_hook": "Joe, for the InVid-branded PoE switches that ship with your camera and NVR lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, FCC/CE/RoHS — which size would you dual-source first?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 joe.troiano@invidtech.com, matt.troiano@invidtech.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
-      "type": "北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）",
-      "sieve": "1（只收到群发）",
-      "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "CA 主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 26；用户表：「一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的」；研究档 risks：现代工 Centro（深圳）价格基准低"
-    },
-    "situation": "加拿大 InVid Tech（Innovative Video Technologies；AI 安防摄像机、云存储、太阳能塔、储物柜方案品牌；表内「一部分商业 PoE、周边产品；Centro 的（深圳公司）」；KP Joe Troiano（President，joe.troiano@）、Matt Troiano（Director of Sales））；群发 16 次无回复。",
-    "need": "自有标商用 PoE（现 Centro）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 InVid 标；16/24 口位 STC-424DGGPM-280W",
-    "breakpoint": "现代工 Centro（深圳）价格基准低",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
-      "why": "自有标商用 PoE（现 Centro）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 InVid 标；16/24 口位 STC-424DGGPM-280W",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Joe, for the InVid-branded PoE switches that ship with your camera and NVR lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, FCC/CE/RoHS — which size would you dual-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-21",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-        "why": "26 封 / 0 次打开 / 0 回｜首封 2024-07-02 → 末封 2026-09-21（26 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "一部分商业 PoE 周边；Centro 的",
+   "quote": "一部分商业POE 周边产品；Centro的 深圳公司",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Joe Troiano",
+   "title": "President",
+   "email": "joe.troiano@invidtech.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Matt Troiano",
+   "title": "Director of Sales",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 invidtech.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "AI 安防摄像机 / NVR / 云存储（自有品牌）",
+  "配套 PoE 交换机（贴标）"
+ ],
+ "channels": {
+  "role": "北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）",
+  "region": "加拿大",
+  "contact": "sales@invidtech.com、joe.troiano@invidtech.com"
+ },
+ "signals": [
+  "官网：Explore InVid Tech’s AI-driven security cameras, cloud storage, solar towers, and lockers",
+  "表内：Centro 的 深圳公司；KP Joe Troiano / President；Matt Troiano / Director of Sales"
+ ],
+ "risks": [
+  "现代工 Centro（深圳）价格基准低",
+  "16 次无回复 → 改向 President 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有标商用 PoE（现 Centro）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 InVid 标；16/24 口位 STC-424DGGPM-280W"
+ },
+ "email_hook": "Joe, for the InVid-branded PoE switches that ship with your camera and NVR lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, FCC/CE/RoHS — which size would you dual-source first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 joe.troiano@invidtech.com, matt.troiano@invidtech.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:invidtech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 0）（第 74 批(h)））",
+   "type": "北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "CA 主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 26；用户表：「一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的」；研究档 risks：现代工 Centro（深圳）价格基准低"
+  },
+  "situation": "加拿大 InVid Tech（Innovative Video Technologies；AI 安防摄像机、云存储、太阳能塔、储物柜方案品牌；表内「一部分商业 PoE、周边产品；Centro 的（深圳公司）」；KP Joe Troiano（President，joe.troiano@）、Matt Troiano（Director of Sales））；群发 16 次无回复。",
+  "need": "自有标商用 PoE（现 Centro）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 InVid 标；16/24 口位 STC-424DGGPM-280W",
+  "breakpoint": "现代工 Centro（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
+   "why": "自有标商用 PoE（现 Centro）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 InVid 标；16/24 口位 STC-424DGGPM-280W",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Joe, for the InVid-branded PoE switches that ship with your camera and NVR lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, FCC/CE/RoHS — which size would you dual-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-21",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "26 封 / 0 次打开 / 0 回｜首封 2024-07-02 → 末封 2026-09-21（26 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-040` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2 封实质来信：2024-06「Is this PoE?」→ $310；2025-04「Does it have VXLAN support or MPLS support? Any controller?」→ Alan「not supporting」+ GPT 附件；之后 24 封群发无回）** ｜ 类型：德州 WISP/网络运营商（WireStar Networks；Kyle = 创始人兼总裁）——运营商级需求：VXLAN/MPLS/控制器 ｜ 筛子：2（两次技术提问） ｜ 停点：AC5 线不支持 VXLAN/MPLS；Alan 用「not supporting + GPT 结论」关门——而 CENTEC 线（VXLAN/EVPN/MPLS）正是答案，却从未对他提起 ｜ 复活：一封只讲 CENTEC 的信：VXLAN/EVPN/MPLS 支持矩阵 + 一款 10G/25G 汇聚的价格区间 ｜ 通路：US 主攻 ｜ 节奏：一封；之后看回复 ｜ 证据：k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度触达（2 封实质来信：2024-06「Is this PoE?」→ $310；2025-04「Does it have VXLAN support or MPLS support? Any controller?」→ Alan「not supporting」+ GPT 附件；之后 24 封群发无回；Elsa 箱：`to:wirestar.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 3）（第 74 批(h)））** ｜ 类型：德州 WISP/网络运营商（WireStar Networks；Kyle = 创始人兼总裁）——运营商级需求：VXLAN/MPLS/控制器 ｜ 筛子：2（两次技术提问） ｜ 停点：AC5 线不支持 VXLAN/MPLS；Alan 用「not supporting + GPT 结论」关门——而 CENTEC 线（VXLAN/EVPN/MPLS）正是答案，却从未对他提起 ｜ 复活：一封只讲 CENTEC 的信：VXLAN/EVPN/MPLS 支持矩阵 + 一款 10G/25G 汇聚的价格区间 ｜ 通路：US 主攻 ｜ 节奏：一封；之后看回复 ｜ 证据：k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：创始人亲自回了两次，第二次问的是运营商级问题（VXLAN/MPLS/控制器），Alan 回「不支持」。仓库里 CENTEC 线正是 VXLAN/EVPN/MPLS，2026-01 对别的客户发过「OEM Core Switching Solution」，对 Kyle 没发。
 - **对方真实需求（有据）**：运营商汇聚：VXLAN/MPLS + 控制器。
 - **断点 / 为什么停在这里**：产品线错配（AC5 vs CENTEC）。
@@ -271,12 +271,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

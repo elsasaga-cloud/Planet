@@ -1,341 +1,341 @@
 {
-  "code": "SB-924",
-  "name_official": "Versitron, Inc.（美国特拉华）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（versitron.com，快照 2026-10-21）",
-  "summary": "美国铜转光连接方案设计制造商（数据 / 语音 / 视频；switch 646 / sfp 416 / poe 368 / media converter 197 / industrial 180），Greg Massott；表内「Stacking」（堆叠交换机需求，Saga 无堆叠）；无跟进。制造商 → OEM 30%（MC / 工业 PoE 贴牌）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Versitron（自有）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "铜转光连接方案设计与制造；关键词 switch 646 / media converter 197",
-      "quote": "Versiton specializes in designing and manufacturing copper-to-fiber connectivity solutions tailored for data, voice, and video applications across diverse industries",
-      "url": "https://versitron.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Stacking",
-      "quote": "兴趣：Stacking",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "S 邮箱原文",
-      "claim": "关系起点：2023-11-09 Simon 首信——Olycom 时期已与 Greg 谈过 HDMI 产品，自立门户后发 CCTV PoE 价表；Greg 祝贺并「keep on-hand」。此后 2023-11→2026-03 共 50 封、29 出 21 入，Greg 每信必回（典型 US 老派采购：礼貌、不下单、问价）",
-      "quote": "We discussed HDMI unit before(Olycom model), I set up my own office now.",
-      "url": "（S 邮箱 thr 1782055947356135738，2023-11-09）",
-      "date": "2026-10-22"
-    },
-    {
-      "kind": "S 邮箱原文",
-      "claim": "Saga 给 Versitron 的历史报价：2024-05 4×10G+16×1G SFP+8 Combo L3 商用 $375 / 工业 $550；2024-06 10G 光纤 MC $75；2025-08 24 口 L3 DIN PoE（af/at/bt 370W，DI/DO/RS485）$500「expensive because Marvell」；2025-10 24 口 SFP 汇聚双 AC $280",
-      "quote": "Commercial model, 375usd/pc Industrial model, 550usd/pc … It is 500usd/pc, it is expensive because we are doing Marvell chip. … price-competitive aggregation switch(280usd/pc)",
-      "url": "（S 邮箱 thr 1782055947356135738 / 1839339295413255932 / 1844786008444924799）",
-      "date": "2026-10-22"
-    },
-    {
-      "kind": "S 邮箱原文",
-      "claim": "Versitron 真正的需求 = **堆叠交换机（替代 Cisco Catalyst 9300）**：2025-06-11/18/23 三次催「stacking switches discussed below」（指 2024-11-19 48 口讨论），2025-10-15「Any news on this?」，2025-10-31「We are trying to offer stacking as an alternative to Cisco」；Simon 2025-10-31 称首版有严重问题、客户都买 H3C/华为/Cisco；**2026-03-11 Simon 宣布「stacking feature is available on all models」并给 CENTEC 资料 Drive 链接**（1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU）；Greg 自动回复后至今无回音",
-      "quote": "Finally, our \"stacking\" feature is available on all models. 1. We are trying to offer stacking as an alternative to Cisco. I guess you mean Cisco Catalyst 9300 Switches? This is fine.",
-      "url": "（S 邮箱 thr 1844786008444924799，2026-03-11T08:24Z；Versitron 最后一封 2025-10-31）",
-      "date": "2026-10-22"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Greg Massott",
-      "title": "（表内联系人）",
-      "email": "gmassott@versitron.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-924",
+ "name_official": "Versitron, Inc.（美国特拉华）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（versitron.com，快照 2026-10-21）",
+ "summary": "美国铜转光连接方案设计制造商（数据 / 语音 / 视频；switch 646 / sfp 416 / poe 368 / media converter 197 / industrial 180），Greg Massott；表内「Stacking」（堆叠交换机需求，Saga 无堆叠）；无跟进。制造商 → OEM 30%（MC / 工业 PoE 贴牌）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Versitron（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "铜转光连接方案设计与制造；关键词 switch 646 / media converter 197",
+   "quote": "Versiton specializes in designing and manufacturing copper-to-fiber connectivity solutions tailored for data, voice, and video applications across diverse industries",
+   "url": "https://versitron.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Versitron, Inc.",
-    "founded": "1958",
-    "hq": "Newark, DE, USA",
-    "size": "中型制造商（自有品牌，部分外购）",
-    "other": ""
+  {
+   "kind": "用户表",
+   "claim": "Stacking",
+   "quote": "兴趣：Stacking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "铜 / 光转换、MC、工业交换机（自有品牌）"
-  ],
-  "channels": {
-    "role": "美国制造商（OEM 采购）",
-    "region": "美国"
+  {
+   "kind": "S 邮箱原文",
+   "claim": "关系起点：2023-11-09 Simon 首信——Olycom 时期已与 Greg 谈过 HDMI 产品，自立门户后发 CCTV PoE 价表；Greg 祝贺并「keep on-hand」。此后 2023-11→2026-03 共 50 封、29 出 21 入，Greg 每信必回（典型 US 老派采购：礼貌、不下单、问价）",
+   "quote": "We discussed HDMI unit before(Olycom model), I set up my own office now.",
+   "url": "（S 邮箱 thr 1782055947356135738，2023-11-09）",
+   "date": "2026-10-22"
   },
-  "signals": [
-    "MC / 工业 PoE 为其核心品类 → 贴 Versitron 标"
-  ],
-  "risks": [
-    "堆叠交换机 Saga 无",
-    "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-    "【2026-10-22 复盘冲突，原样保留】本档 email_hook / saga_fit 写「不做堆叠」，但 S 邮箱 2026-03-11 Simon 已向 Greg 宣布 stacking 全系列可用（CENTEC/Hohunet 线）；两种口径并存——若 Simon 确认 CENTEC 堆叠可卖，Versitron 是美国最对口的堆叠买家（Cisco 替代），hook 应改为「堆叠已就绪 + 价格」；否则维持。"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 30,
-    "why": "MC 为其主线 → STI-110GE（$24.3 @30%）贴 Versitron 标；工业 PoE STI-288GPM；堆叠不供。"
+  {
+   "kind": "S 邮箱原文",
+   "claim": "Saga 给 Versitron 的历史报价：2024-05 4×10G+16×1G SFP+8 Combo L3 商用 $375 / 工业 $550；2024-06 10G 光纤 MC $75；2025-08 24 口 L3 DIN PoE（af/at/bt 370W，DI/DO/RS485）$500「expensive because Marvell」；2025-10 24 口 SFP 汇聚双 AC $280",
+   "quote": "Commercial model, 375usd/pc Industrial model, 550usd/pc … It is 500usd/pc, it is expensive because we are doing Marvell chip. … price-competitive aggregation switch(280usd/pc)",
+   "url": "（S 邮箱 thr 1782055947356135738 / 1839339295413255932 / 1844786008444924799）",
+   "date": "2026-10-22"
   },
-  "email_hook": "Greg, we don't do stacking — but for the Versitron media-converter and industrial PoE lines we build DIN gigabit MCs and 8-PoE + 2-SFP managed units under your label from small lots (FCC/CE); which SKU family is up for re-sourcing?",
-  "mail_review": {
-    "binding": {
-      "level": "较深的「关系绑定」但零成交（S 邮箱三年 21 来 29 去，全是 Greg Massott 本人；他在 2024-11 → 2025-10 之间 6 次主动追问堆叠；2026-03-11 Simon 宣布堆叠可用后只收到自动回复，至今 7 个月无回）",
-      "type": "美国老牌光传输/工业以太网品牌商（第一档 OEM 品牌商；Greg = 采购/产品经理级，Simon 前东家时代就认识，Olycom HDMI）",
-      "sieve": "3→4 之间：要过数据表、报价、芯片追问，但从未要样品；原因是它要的是「能和 Cisco 比的堆叠整线」，不是单品",
-      "stop": "两个断点：① 2024-11 Simon 承诺堆叠「2~3 个月」，拖到 2025-10-31 坦白「1st release 出了严重问题」，期间 Greg 追了 6 次——信用被消耗；② 2026-03-11 Simon 说「Finally, stacking available on all models」，Greg 只回了 OOO 自动回复——要么没看到，要么已另寻来源",
-      "revive": "不要再发群发。按 Greg 2025-01-31 写下的硬规格逐条对表回一封：10/100/1G/10G 铜 + SFP；专用高速堆叠口（40/80/100G）；多台识别为一台逻辑交换机的虚拟化管理——CENTEC 线（STH 系列 VXLAN/EVPN/Stacking）才对得上，Marvell AC5 的「stacking」对不上 Catalyst 9300；备用具名邮箱：rwtull@versitron.com（自动回复中出现的同司具名邮箱，2026-03-11，k=4ac602505b7d8db3；从未发过）",
-      "lane": "US 主攻；品牌商 OEM = 目标顺位第一",
-      "cadence": "一封「对表信」现在发；之后每季度只发与堆叠/核心相关的实质更新，不发 PoE 小品",
-      "evidence": "k=1025007cd6875d3e（2024-11-19 堆叠需求原话）；1c4ec9e7a2e3b881（Simon「2~3 months」）；f8ad0f8ce32688ea（2025-01-31 硬规格）；0a50926da6770aea / 517fb73517e3920c / e1fd8f4094de16bc / 08fe828b2a31d85b / e97d49af1e93423b（5 次追问）；973470596a08bd2e（2025-10-31「serious issues after 1st release」）；401b90aaadcce218（「alternative to Cisco」）；3cab7e50e48fea36（2026-03-11 宣布可用）；4ac602505b7d8db3（只收到 OOO）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
-    },
-    "situation": "这是 S 邮箱里最典型的「客户在追、供方在拖」的反例。Greg 在 2024-11-19 主动提出要开发一条带堆叠的交换机产品线「so that we can compete with Cisco in the USA market」，并问 Simon 公司能否做；Simon 答 2~3 个月会有。接下来一年 Greg 追了六次（2025-06-11/18/23、10-15、10-30），Simon 的回答从「ready, what spec?」到「serious issues after 1st release」再到「honestly we do not see a big demand」。2026-03-11 Simon 终于说所有型号都支持堆叠并附 Drive 链接，对方只有自动回复。Greg 给出的规格（10G 铜/光 + 40/80/100G 专用堆叠口 + 单逻辑交换机）实际上是 Catalyst 9300 级别，SmartByte Marvell AC5 线不具备，CENTEC 线才有可能。",
-    "need": "可堆叠的企业接入/汇聚整线（1G/10G 接入 + 40/80/100G 堆叠口 + 单逻辑管理），用 Versitron 品牌替代 Cisco。",
-    "breakpoint": "承诺与交付之间的 16 个月；2026-03-11 终于有了可堆叠线（STH1G），却只发了一句话 + pdf，Greg 没回——对表没做完。",
-    "saga_now": {
-      "p1": "CENTEC STH1G：STH-2QX4DX48GP-HSI（48×1G PoE++ 90W + 4×25G SFP28 + 2×40G QSFP+，堆叠 ≤8 台 / 360 Gbps，链或环，双热插拔 1200W PSU）= 他要的 Catalyst 9300 级可堆叠 48 口 PoE；-SFI 为 PoE+ 30W 单电源版。汇聚/核心再配 STH-8C48DX / 2C6QX",
-      "tier": 30,
-      "price": "他见过的实报：2023-11-09 首版整表（424XGGM $130 / 448XGGPM $394 / 28GPM $63…）；2024-08-14 STI-222GP $36 / 266FP $39 / 088GP $40；按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-10-30 $280（10G Enterprise SFP Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）",
-      "why": "美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#1，2026-10-24 第 48 批改正）：2026-03-11 Simon 的「stacking available on all models」指的是随信附的 STH1G Series.pdf（CENTEC 48×1G PoE 线，ST 堆叠许可，≤8 台），不是 AC5——AC5 规格书明写「Stacking… NOT going to develop it in 2 or 3 years」，7.5 功能表 Stacking Management ✖。对表信要把这两层说清：接入 AC5 不堆叠；可堆叠 48 口 PoE = STH1G。Greg 自 2026-03-11 起无回（只自动回复）——他可能根本没打开那份 pdf｜第 56 批：MACsec 有证（STOS V2.4「MacSec(802.1AE) ◯」，BigFlow 平台除外，STH1G 是 VastLakes 可用）；10G 铜口改为指同族 STH-2QX4DX8XP40DP-HSI（堆叠待证）",
-      "repeat": [],
-      "gaps": "STH1G 仓内无价（主表/CENTEC Q2 xls 都没有 STH-2QX4DX 行）——报价区间要 Simon 自己定；10G 铜口接入（他 2025-01-31 要 10/100/1G/10G copper）STH1G 没有，只有 1G 铜 + 25G/40G 光；Simon《STH计划》：1G/2.5G/5G 铜口 CENTEC 机「暂不宣传、信息备好」→ 信稿只答「on request / not on published list」，不主推；估算带见 CENTEC 锚表 §5.3，对客户仍 price on request"
-    },
-    "next_move": {
-      "when": "现在",
-      "channel": "S 邮箱 → gmassott@versitron.com（回 2026-03-11 那封「Re: 10G Enterprise SFP Switch」，他没回过）；备用具名邮箱 → rwtull@versitron.com",
-      "action": "一封对表信：承认 2025 年拖延 + 3 月那封写得太短（一句「available on all models」+ 一个 pdf）；按他 2025-01-31 的三条硬规格逐条写 STH-2QX4DX48GP-HSI 有/没有（1G 铜口 PoE++ 有、10G 铜口没有、40G 光口堆叠 ≤8 台有、单逻辑设备有）；价格写「按首批数量给 EXW」——Simon 先定 STH1G 区间（仓内无价）；只问一个问题：堆叠线还在不在 2027 计划里；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-      "one_question": "Greg — the stackable line exists now: STH-2QX4DX48GP-HSI, 48×1G PoE++ + 4×25G + 2×40G, stacks up to 8 units over the fiber ports (ring or chain, 360 Gbps), hot-swap PSUs, your label. Is the Cisco-alternative stackable line still on your 2027 plan, and for how many units per stack?"
-    },
-    "facts": [
-      {
-        "date": "2023-11-09",
-        "dir": "来",
-        "who": "gmassott@versitron.com",
-        "quote": "Hello Simon: I hope all is well, and congratulations & good luck! We'll keep this information on-hand for future reference. Thank you, Greg Massott |",
-        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "85123ce32bd28e55"
-      },
-      {
-        "date": "2023-11-09",
-        "dir": "去",
-        "who": "Simon → Greg Massott（`Price.pdf`，S 邮箱附件，47 款）",
-        "quote": "Saga **首版整表价格单**（2023-11，Realtek 时代命名）：商用非管理 STC-05GE $6.6 / 08GE $10.8 / 016GE $37 / 024GE $47~53 / 248GE $140；商用 PoE 非管理 STC-028GP $24.5 / 228GP $30.5 / 2224GP $100；管理型 STC-28GM $52 / 424GM $100 / **424XGGM $130** / 448XGGM $255 / 4248XGGCM $300 / 28GPM $63 / 424XGGPM $256 / 448XGGPM $394 / 120XGM $168；工业 STI-114GE $19 / 204GE $23.5 / 208GE $51 / 114GP $27.5 / 204GP $31 / 208GP $60。",
-        "why": "Greg 收到后回「congratulations & good luck… keep on-hand」——这是 Versitron 关系的起点；也是价格史上最早的一张整表：STC-424XGGM $130 与 2026 年 SA-002 的 $130 底价同量级，说明三年来 Simon 的量级没变（口径 ㉕ 的「老表量级」有据）",
-        "k": "S 邮箱附件 `Price.pdf` sha=82c72d3e1bd2f784（2023-11-09）"
-      },
-      {
-        "date": "2023-12-12",
-        "dir": "来",
-        "who": "gmassott@versitron.com",
-        "quote": "Hello Simon: Thank you for this information. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gmassott@versitro",
-        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "bf1123a71b98d0a9"
-      },
-      {
-        "date": "2023-12-12",
-        "dir": "去",
-        "who": "Saga（Simon）",
-        "quote": "Hi, Greg, Thanks for your kind words. There is also din power supply for your choice. You may also download the information from below Google Drive link. https://drive.google.com/drive/folders/1ZG50Ugnns3XQ2RuFzFx7CwNX6eZAbf4H?usp=drive_link…",
-        "why": "Saga 实质答复原文（主题「Re: POE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-        "k": "045cc03da988c60f"
-      },
-      {
-        "date": "2024-01-08",
-        "dir": "来",
-        "who": "gmassott@versitron.com",
-        "quote": "Hello Simon: Thank you, and Happy New Year to you as well! Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gma",
-        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "bdc33af7998da6ad"
-      },
-      {
-        "date": "2024-02-19",
-        "dir": "去",
-        "who": "Saga（Simon）",
-        "quote": "Hi, Greg, How are you? I am back to work and would like to recommend a 16 port PoE Industrial Switch. Please see attached product information. For this series, you could also get more information from below google drive link. https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?u…",
-        "why": "Saga 实质答复原文（主题「Re: POE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-        "k": "b88fdfbd72e71b7e"
-      },
-      {
-        "date": "2024-02-20",
-        "dir": "来",
-        "who": "gmassott@versitron.com",
-        "quote": "Hello Simon: I hope all is well, and thank you for this information. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<",
-        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "c043a5ceedc13b6e"
-      },
-      {
-        "date": "2024-05-16",
-        "dir": "来",
-        "who": "gmassott@versitron.com",
-        "quote": "Hello Simon: It's nice to hear from you, and I hope all is well. Can you send the datasheets for both the industrial and commercial versions along wit",
-        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "362966d662d4b69d"
-      },
-      {
-        "date": "2024-05-16",
-        "dir": "去",
-        "who": "Saga（Simon）",
-        "quote": "Hi, Greg, Please see attached datasheets, web manual and CLI manual. Commercial model, 375usd/pc Industrial model, 550usd/pc Both models share the same specification as below. 4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port, Stan",
-        "why": "历史报价点（主题「Re: POE switch」；第 20 批从 gmail_s 回补）：375usd / 550usd",
-        "k": "73339deec6e397bd"
-      },
-      {
-        "date": "2024-06-18",
-        "dir": "去",
-        "who": "Saga（Simon）",
-        "quote": "Hi, Greg, How are you? Last time we talked about 24 port managed switch, is there any plan for sample testing? And I would like to recommend a 10G fiber media converter. Good outlook and 14-slot rack mountable. Price: 75usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Eth",
-        "why": "历史报价点（主题「Re: POE switch」；第 20 批从 gmail_s 回补）：75usd",
-        "k": "533485b14a400b6f"
-      },
-      {
-        "date": "2024-07-17",
-        "dir": "来",
-        "who": "gmassott@versitron.com",
-        "quote": "Hello Simon: I am well, I hope the same for you. Thank you for this information, we will keep it on file for future reference. Greg Massott | P: 302.8",
-        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "5b36ad2e37bc3754"
-      },
-      {
-        "date": "2024-08-14",
-        "dir": "来",
-        "who": "gmassott@versitron.com",
-        "quote": "I was asking if there are managed versions of the same variants that you provided. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@",
-        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "8da54ed91f1c24e4"
-      },
-      {
-        "date": "2024-08-14",
-        "dir": "来",
-        "who": "gmassott@versitron.com",
-        "quote": "Hello Simon: Thank you for this information. Do you offer managed versions as well? If so, please provide the available models and prices. Greg Massot",
-        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "16e894d27961f348"
-      },
-      {
-        "date": "2024-08-14",
-        "dir": "去",
-        "who": "Simon → Greg（Quotation.pdf）",
-        "quote": "工业非管理三款：STI-222GP（2×SFP + 2×GE PoE 60W）$36；STI-266FP（2×100M SFP + 6×FE PoE 180W）$39；STI-088GP（8×GE PoE 240W）$40；validity 15 d，-40~75℃，DIP。→ Greg 当天回「Do you offer managed versions as well? If so, please provide the available models and prices」。",
-        "why": "Greg 要的一直是**管理型/可堆叠**（后来的堆叠长追由此而来）；非管理价他只是存档",
-        "k": "S 邮箱附件 `Quotation.pdf` sha=8b9b9eab6e8f69f3（2024-08-14）"
-      },
-      {
-        "date": "2024-11-19",
-        "dir": "来",
-        "who": "Greg Massott",
-        "quote": "We are interested in developing a switch product line that offers stacking technology, so that we can compete with Cisco in the USA market. Is this something that your company…",
-        "why": "需求起点",
-        "k": "1025007cd6875d3e"
-      },
-      {
-        "date": "2024-11-21",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "Yes, we received many stacking requirements, but sorry to tell you that it is not available now… expected to be ready in 2~3 months",
-        "why": "承诺",
-        "k": "1c4ec9e7a2e3b881"
-      },
-      {
-        "date": "2025-01-03",
-        "dir": "来",
-        "who": "Greg Massott",
-        "quote": "（Re: 24 Port Fiber Switch）We currently offer a similar product, but will keep this on file.（2025-08-27 Re: L3 Managed Switch）What is the price of this unit? → 08-28 Simon: 500usd/pc, it is expensive because we are doing Marvell chip",
-        "why": "Versitron 自有 24 口光纤交换机 → 单品推送无效；只有堆叠整线这个空白才是他要 Saga 的理由。L3 $500 他收下「thank you」即止——价格不是他的决定因素，产品线是",
-        "k": "gmail_s 2025-01-03 / 2025-08-27"
-      },
-      {
-        "date": "2025-01-31",
-        "dir": "来",
-        "who": "Greg",
-        "quote": "We do not have a chip preference… must support 10/100/1G/10G copper and SFP… dedicated high-speed stacking modules (40/80/100G)… all stacked switches must be recognized as one logical switch",
-        "why": "硬规格",
-        "k": "f8ad0f8ce32688ea"
-      },
-      {
-        "date": "2025-06-11",
-        "dir": "来",
-        "who": "Greg",
-        "quote": "I'm following up to see if you have been able to successfully design the stacking switches discussed below.",
-        "why": "追问 ×3（06-11/18/23）",
-        "k": "0a50926da6770aea"
-      },
-      {
-        "date": "2025-06-23",
-        "dir": "来",
-        "who": "Greg Massott",
-        "quote": "（06-11 / 06-18 / 06-23 三封同文）I'm following up to see if you have been able to successfully design the stacking switches discussed below. Please advise when you have a moment.（10-15）Any news on this?（10-30）What is the status of the stacking switches that we had been discussing?",
-        "why": "一个月内三封同文催问 + 10 月两封——Versitron 这边是认真排了产品线的；Saga 的回复节奏（06 无回、10-31 坦白出问题）是这条线断掉的直接原因。对表信要先认这件事",
-        "k": "gmail_s 2025-06-11/18/23, 10-15, 10-30"
-      },
-      {
-        "date": "2025-08-27",
-        "dir": "来",
-        "who": "Greg Massott（Versitron）",
-        "quote": "What is the price of this unit?（L3 管理 24 口 DIN PoE，370W）",
-        "why": "Simon 08-28 答 $500/pc「expensive because we are doing Marvell chip」→ 无下文",
-        "k": "gmail_s f6115f259e0a5e6b"
-      },
-      {
-        "date": "2025-08-28",
-        "dir": "去",
-        "who": "Saga（Simon）",
-        "quote": "Hi, Greg, Thanks for your email. It is 500usd/pc, it is expensive because we are doing Marvell chip. Please see attached datasheet. Thank you.",
-        "why": "历史报价点（主题「Re: L3 Managed Switch」；第 20 批从 gmail_s 回补）：500usd",
-        "k": "d9911e2b978f6965"
-      },
-      {
-        "date": "2025-10-31",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "stacking is still not available, we found some serious issues after 1st release… honestly we do not see a big demand",
-        "why": "坦白 + 质疑需求",
-        "k": "973470596a08bd2e"
-      },
-      {
-        "date": "2025-10-31",
-        "dir": "来",
-        "who": "Greg",
-        "quote": "We are trying to offer stacking as an alternative to Cisco.",
-        "why": "目标对手",
-        "k": "401b90aaadcce218"
-      },
-      {
-        "date": "2026-03-11",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "Finally, our \"stacking\" feature is available on all models… I guess you mean Cisco Catalyst 9300 Switches? This is fine.",
-        "why": "宣布可用；只收到 OOO",
-        "k": "3cab7e50e48fea36"
-      },
-      {
-        "date": "2026-03-11",
-        "dir": "来",
-        "who": "自动回复",
-        "quote": "自动回复（Greg Massott 2026-03-11 休假）里指定「contact R.W. Tull at rwtull@versitron.com」",
-        "why": "Versitron 内部第二个具名入口（R.W. Tull）；三年只跟 Greg 一人谈，这是绕开单点的现成地址",
-        "k": "4ac602505b7d8db3"
-      }
-    ],
-    "proof_gaps": [
-      "2026-03-11 之后 Greg 是否读信（只有自动回复 4ac602505b7d8db3）",
-      "（已核 2026-10-24，第 73 批）2026-03-11 S 邮箱去信附件 = 「STH1G Series.pdf」+「Dual AC.jpg」→ 发的是 CENTEC STH1G 系列资料（不是 AC5），正文却写「stacking available on all models」——信稿已据此纠正：只有 STH 堆叠，Marvell 不堆叠"
-    ],
-    "draft_en": {
-      "subject": "48 port stacking switches — the stackable line, properly this time",
-      "body": "Hi, Greg,\n\nIn March I sent you one line and a PDF and called it done — that was too short after you had asked about stacking since 2024. Here is the proper answer against your January-2025 list.\n\nThe stackable platform is our CENTEC-based STH1G series, not the Marvell access switches (those will not stack, and I will not claim otherwise). It is a build-to-order line that we do not list publicly — lead time is confirmed per order, not the 3-5 days of the Marvell units:\n- STH-2QX4DX48GP-HSI: 48 x 1G PoE++ (90 W/port, 1200 W dual hot-swap PSU) + 4 x 25G SFP28 + 2 x 40G QSFP+ (25G ports can run at 10G)\n- Stacking: up to 8 units as one logical switch, ring or chain over the fiber ports, 360 Gbps stack bandwidth (Catalyst 9300-class StackWise-320 is the comparison your market will make)\n- 10G copper access: the 48-port unit is 1G copper; the same family has a 40 x 2.5G + 8 x 10G multi-gig PoE++ model (STH-2QX4DX8XP40DP-HSI) with the same 4 x 25G + 2 x 40G uplinks — stacking on that model I will confirm before promising it\n- L3 with OSPF/BGP/PIM, VXLAN-EVPN, MPLS, MACsec; Versitron logo, model name and SNMP strings on the unit\n- Lighter version: STH-2QX4DX48GP-SFI (PoE+ 30 W, single PSU)\n\nPricing is by first-batch quantity, so I will not guess a number here.\n\nOne question: is the Cisco-alternative stackable line still on your 2027 plan, and if yes, how many units per stack and roughly how many stacks? With that I will send the EXW price the same day.\n\nThank you.\nSimon"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "S 邮箱原文",
+   "claim": "Versitron 真正的需求 = **堆叠交换机（替代 Cisco Catalyst 9300）**：2025-06-11/18/23 三次催「stacking switches discussed below」（指 2024-11-19 48 口讨论），2025-10-15「Any news on this?」，2025-10-31「We are trying to offer stacking as an alternative to Cisco」；Simon 2025-10-31 称首版有严重问题、客户都买 H3C/华为/Cisco；**2026-03-11 Simon 宣布「stacking feature is available on all models」并给 CENTEC 资料 Drive 链接**（1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU）；Greg 自动回复后至今无回音",
+   "quote": "Finally, our \"stacking\" feature is available on all models. 1. We are trying to offer stacking as an alternative to Cisco. I guess you mean Cisco Catalyst 9300 Switches? This is fine.",
+   "url": "（S 邮箱 thr 1844786008444924799，2026-03-11T08:24Z；Versitron 最后一封 2025-10-31）",
+   "date": "2026-10-22"
   }
+ ],
+ "kp": [
+  {
+   "name": "Greg Massott",
+   "title": "（表内联系人）",
+   "email": "gmassott@versitron.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Versitron, Inc.",
+  "founded": "1958",
+  "hq": "Newark, DE, USA",
+  "size": "中型制造商（自有品牌，部分外购）",
+  "other": ""
+ },
+ "business_lines": [
+  "铜 / 光转换、MC、工业交换机（自有品牌）"
+ ],
+ "channels": {
+  "role": "美国制造商（OEM 采购）",
+  "region": "美国"
+ },
+ "signals": [
+  "MC / 工业 PoE 为其核心品类 → 贴 Versitron 标"
+ ],
+ "risks": [
+  "堆叠交换机 Saga 无",
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "【2026-10-22 复盘冲突，原样保留】本档 email_hook / saga_fit 写「不做堆叠」，但 S 邮箱 2026-03-11 Simon 已向 Greg 宣布 stacking 全系列可用（CENTEC/Hohunet 线）；两种口径并存——若 Simon 确认 CENTEC 堆叠可卖，Versitron 是美国最对口的堆叠买家（Cisco 替代），hook 应改为「堆叠已就绪 + 价格」；否则维持。"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "MC 为其主线 → STI-110GE（$24.3 @30%）贴 Versitron 标；工业 PoE STI-288GPM；堆叠不供。"
+ },
+ "email_hook": "Greg, we don't do stacking — but for the Versitron media-converter and industrial PoE lines we build DIN gigabit MCs and 8-PoE + 2-SFP managed units under your label from small lots (FCC/CE); which SKU family is up for re-sourcing?",
+ "mail_review": {
+  "binding": {
+   "level": "较深的「关系绑定」但零成交（S 邮箱三年 21 来 29 去，全是 Greg Massott 本人；他在 2024-11 → 2025-10 之间 6 次主动追问堆叠；2026-03-11 Simon 宣布堆叠可用后只收到自动回复，至今 7 个月无回；Elsa 箱：`to:versitron.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 21）（第 74 批(h)））",
+   "type": "美国老牌光传输/工业以太网品牌商（第一档 OEM 品牌商；Greg = 采购/产品经理级，Simon 前东家时代就认识，Olycom HDMI）",
+   "sieve": "3→4 之间：要过数据表、报价、芯片追问，但从未要样品；原因是它要的是「能和 Cisco 比的堆叠整线」，不是单品",
+   "stop": "两个断点：① 2024-11 Simon 承诺堆叠「2~3 个月」，拖到 2025-10-31 坦白「1st release 出了严重问题」，期间 Greg 追了 6 次——信用被消耗；② 2026-03-11 Simon 说「Finally, stacking available on all models」，Greg 只回了 OOO 自动回复——要么没看到，要么已另寻来源",
+   "revive": "不要再发群发。按 Greg 2025-01-31 写下的硬规格逐条对表回一封：10/100/1G/10G 铜 + SFP；专用高速堆叠口（40/80/100G）；多台识别为一台逻辑交换机的虚拟化管理——CENTEC 线（STH 系列 VXLAN/EVPN/Stacking）才对得上，Marvell AC5 的「stacking」对不上 Catalyst 9300；备用具名邮箱：rwtull@versitron.com（自动回复中出现的同司具名邮箱，2026-03-11，k=4ac602505b7d8db3；从未发过）",
+   "lane": "US 主攻；品牌商 OEM = 目标顺位第一",
+   "cadence": "一封「对表信」现在发；之后每季度只发与堆叠/核心相关的实质更新，不发 PoE 小品",
+   "evidence": "k=1025007cd6875d3e（2024-11-19 堆叠需求原话）；1c4ec9e7a2e3b881（Simon「2~3 months」）；f8ad0f8ce32688ea（2025-01-31 硬规格）；0a50926da6770aea / 517fb73517e3920c / e1fd8f4094de16bc / 08fe828b2a31d85b / e97d49af1e93423b（5 次追问）；973470596a08bd2e（2025-10-31「serious issues after 1st release」）；401b90aaadcce218（「alternative to Cisco」）；3cab7e50e48fea36（2026-03-11 宣布可用）；4ac602505b7d8db3（只收到 OOO）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
+  },
+  "situation": "这是 S 邮箱里最典型的「客户在追、供方在拖」的反例。Greg 在 2024-11-19 主动提出要开发一条带堆叠的交换机产品线「so that we can compete with Cisco in the USA market」，并问 Simon 公司能否做；Simon 答 2~3 个月会有。接下来一年 Greg 追了六次（2025-06-11/18/23、10-15、10-30），Simon 的回答从「ready, what spec?」到「serious issues after 1st release」再到「honestly we do not see a big demand」。2026-03-11 Simon 终于说所有型号都支持堆叠并附 Drive 链接，对方只有自动回复。Greg 给出的规格（10G 铜/光 + 40/80/100G 专用堆叠口 + 单逻辑交换机）实际上是 Catalyst 9300 级别，SmartByte Marvell AC5 线不具备，CENTEC 线才有可能。",
+  "need": "可堆叠的企业接入/汇聚整线（1G/10G 接入 + 40/80/100G 堆叠口 + 单逻辑管理），用 Versitron 品牌替代 Cisco。",
+  "breakpoint": "承诺与交付之间的 16 个月；2026-03-11 终于有了可堆叠线（STH1G），却只发了一句话 + pdf，Greg 没回——对表没做完。",
+  "saga_now": {
+   "p1": "CENTEC STH1G：STH-2QX4DX48GP-HSI（48×1G PoE++ 90W + 4×25G SFP28 + 2×40G QSFP+，堆叠 ≤8 台 / 360 Gbps，链或环，双热插拔 1200W PSU）= 他要的 Catalyst 9300 级可堆叠 48 口 PoE；-SFI 为 PoE+ 30W 单电源版。汇聚/核心再配 STH-8C48DX / 2C6QX",
+   "tier": 30,
+   "price": "他见过的实报：2023-11-09 首版整表（424XGGM $130 / 448XGGPM $394 / 28GPM $63…）；2024-08-14 STI-222GP $36 / 266FP $39 / 088GP $40；按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-10-30 $280（10G Enterprise SFP Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）",
+   "why": "美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#1，2026-10-24 第 48 批改正）：2026-03-11 Simon 的「stacking available on all models」指的是随信附的 STH1G Series.pdf（CENTEC 48×1G PoE 线，ST 堆叠许可，≤8 台），不是 AC5——AC5 规格书明写「Stacking… NOT going to develop it in 2 or 3 years」，7.5 功能表 Stacking Management ✖。对表信要把这两层说清：接入 AC5 不堆叠；可堆叠 48 口 PoE = STH1G。Greg 自 2026-03-11 起无回（只自动回复）——他可能根本没打开那份 pdf｜第 56 批：MACsec 有证（STOS V2.4「MacSec(802.1AE) ◯」，BigFlow 平台除外，STH1G 是 VastLakes 可用）；10G 铜口改为指同族 STH-2QX4DX8XP40DP-HSI（堆叠待证）",
+   "repeat": [],
+   "gaps": "STH1G 仓内无价（主表/CENTEC Q2 xls 都没有 STH-2QX4DX 行）——报价区间要 Simon 自己定；10G 铜口接入（他 2025-01-31 要 10/100/1G/10G copper）STH1G 没有，只有 1G 铜 + 25G/40G 光；Simon《STH计划》：1G/2.5G/5G 铜口 CENTEC 机「暂不宣传、信息备好」→ 信稿只答「on request / not on published list」，不主推；估算带见 CENTEC 锚表 §5.3，对客户仍 price on request"
+  },
+  "next_move": {
+   "when": "现在",
+   "channel": "S 邮箱 → gmassott@versitron.com（回 2026-03-11 那封「Re: 10G Enterprise SFP Switch」，他没回过）；备用具名邮箱 → rwtull@versitron.com",
+   "action": "一封对表信：承认 2025 年拖延 + 3 月那封写得太短（一句「available on all models」+ 一个 pdf）；按他 2025-01-31 的三条硬规格逐条写 STH-2QX4DX48GP-HSI 有/没有（1G 铜口 PoE++ 有、10G 铜口没有、40G 光口堆叠 ≤8 台有、单逻辑设备有）；价格写「按首批数量给 EXW」——Simon 先定 STH1G 区间（仓内无价）；只问一个问题：堆叠线还在不在 2027 计划里；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+   "one_question": "Greg — the stackable line exists now: STH-2QX4DX48GP-HSI, 48×1G PoE++ + 4×25G + 2×40G, stacks up to 8 units over the fiber ports (ring or chain, 360 Gbps), hot-swap PSUs, your label. Is the Cisco-alternative stackable line still on your 2027 plan, and for how many units per stack?"
+  },
+  "facts": [
+   {
+    "date": "2023-11-09",
+    "dir": "来",
+    "who": "gmassott@versitron.com",
+    "quote": "Hello Simon: I hope all is well, and congratulations & good luck! We'll keep this information on-hand for future reference. Thank you, Greg Massott |",
+    "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "85123ce32bd28e55"
+   },
+   {
+    "date": "2023-11-09",
+    "dir": "去",
+    "who": "Simon → Greg Massott（`Price.pdf`，S 邮箱附件，47 款）",
+    "quote": "Saga **首版整表价格单**（2023-11，Realtek 时代命名）：商用非管理 STC-05GE $6.6 / 08GE $10.8 / 016GE $37 / 024GE $47~53 / 248GE $140；商用 PoE 非管理 STC-028GP $24.5 / 228GP $30.5 / 2224GP $100；管理型 STC-28GM $52 / 424GM $100 / **424XGGM $130** / 448XGGM $255 / 4248XGGCM $300 / 28GPM $63 / 424XGGPM $256 / 448XGGPM $394 / 120XGM $168；工业 STI-114GE $19 / 204GE $23.5 / 208GE $51 / 114GP $27.5 / 204GP $31 / 208GP $60。",
+    "why": "Greg 收到后回「congratulations & good luck… keep on-hand」——这是 Versitron 关系的起点；也是价格史上最早的一张整表：STC-424XGGM $130 与 2026 年 SA-002 的 $130 底价同量级，说明三年来 Simon 的量级没变（口径 ㉕ 的「老表量级」有据）",
+    "k": "S 邮箱附件 `Price.pdf` sha=82c72d3e1bd2f784（2023-11-09）"
+   },
+   {
+    "date": "2023-12-12",
+    "dir": "来",
+    "who": "gmassott@versitron.com",
+    "quote": "Hello Simon: Thank you for this information. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gmassott@versitro",
+    "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "bf1123a71b98d0a9"
+   },
+   {
+    "date": "2023-12-12",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Greg, Thanks for your kind words. There is also din power supply for your choice. You may also download the information from below Google Drive link. https://drive.google.com/drive/folders/1ZG50Ugnns3XQ2RuFzFx7CwNX6eZAbf4H?usp=drive_link…",
+    "why": "Saga 实质答复原文（主题「Re: POE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "045cc03da988c60f"
+   },
+   {
+    "date": "2024-01-08",
+    "dir": "来",
+    "who": "gmassott@versitron.com",
+    "quote": "Hello Simon: Thank you, and Happy New Year to you as well! Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gma",
+    "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "bdc33af7998da6ad"
+   },
+   {
+    "date": "2024-02-19",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Greg, How are you? I am back to work and would like to recommend a 16 port PoE Industrial Switch. Please see attached product information. For this series, you could also get more information from below google drive link. https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?u…",
+    "why": "Saga 实质答复原文（主题「Re: POE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "b88fdfbd72e71b7e"
+   },
+   {
+    "date": "2024-02-20",
+    "dir": "来",
+    "who": "gmassott@versitron.com",
+    "quote": "Hello Simon: I hope all is well, and thank you for this information. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<",
+    "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "c043a5ceedc13b6e"
+   },
+   {
+    "date": "2024-05-16",
+    "dir": "来",
+    "who": "gmassott@versitron.com",
+    "quote": "Hello Simon: It's nice to hear from you, and I hope all is well. Can you send the datasheets for both the industrial and commercial versions along wit",
+    "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "362966d662d4b69d"
+   },
+   {
+    "date": "2024-05-16",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Greg, Please see attached datasheets, web manual and CLI manual. Commercial model, 375usd/pc Industrial model, 550usd/pc Both models share the same specification as below. 4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port, Stan",
+    "why": "历史报价点（主题「Re: POE switch」；第 20 批从 gmail_s 回补）：375usd / 550usd",
+    "k": "73339deec6e397bd"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Greg, How are you? Last time we talked about 24 port managed switch, is there any plan for sample testing? And I would like to recommend a 10G fiber media converter. Good outlook and 14-slot rack mountable. Price: 75usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Eth",
+    "why": "历史报价点（主题「Re: POE switch」；第 20 批从 gmail_s 回补）：75usd",
+    "k": "533485b14a400b6f"
+   },
+   {
+    "date": "2024-07-17",
+    "dir": "来",
+    "who": "gmassott@versitron.com",
+    "quote": "Hello Simon: I am well, I hope the same for you. Thank you for this information, we will keep it on file for future reference. Greg Massott | P: 302.8",
+    "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "5b36ad2e37bc3754"
+   },
+   {
+    "date": "2024-08-14",
+    "dir": "来",
+    "who": "gmassott@versitron.com",
+    "quote": "I was asking if there are managed versions of the same variants that you provided. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@",
+    "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "8da54ed91f1c24e4"
+   },
+   {
+    "date": "2024-08-14",
+    "dir": "来",
+    "who": "gmassott@versitron.com",
+    "quote": "Hello Simon: Thank you for this information. Do you offer managed versions as well? If so, please provide the available models and prices. Greg Massot",
+    "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "16e894d27961f348"
+   },
+   {
+    "date": "2024-08-14",
+    "dir": "去",
+    "who": "Simon → Greg（Quotation.pdf）",
+    "quote": "工业非管理三款：STI-222GP（2×SFP + 2×GE PoE 60W）$36；STI-266FP（2×100M SFP + 6×FE PoE 180W）$39；STI-088GP（8×GE PoE 240W）$40；validity 15 d，-40~75℃，DIP。→ Greg 当天回「Do you offer managed versions as well? If so, please provide the available models and prices」。",
+    "why": "Greg 要的一直是**管理型/可堆叠**（后来的堆叠长追由此而来）；非管理价他只是存档",
+    "k": "S 邮箱附件 `Quotation.pdf` sha=8b9b9eab6e8f69f3（2024-08-14）"
+   },
+   {
+    "date": "2024-11-19",
+    "dir": "来",
+    "who": "Greg Massott",
+    "quote": "We are interested in developing a switch product line that offers stacking technology, so that we can compete with Cisco in the USA market. Is this something that your company…",
+    "why": "需求起点",
+    "k": "1025007cd6875d3e"
+   },
+   {
+    "date": "2024-11-21",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Yes, we received many stacking requirements, but sorry to tell you that it is not available now… expected to be ready in 2~3 months",
+    "why": "承诺",
+    "k": "1c4ec9e7a2e3b881"
+   },
+   {
+    "date": "2025-01-03",
+    "dir": "来",
+    "who": "Greg Massott",
+    "quote": "（Re: 24 Port Fiber Switch）We currently offer a similar product, but will keep this on file.（2025-08-27 Re: L3 Managed Switch）What is the price of this unit? → 08-28 Simon: 500usd/pc, it is expensive because we are doing Marvell chip",
+    "why": "Versitron 自有 24 口光纤交换机 → 单品推送无效；只有堆叠整线这个空白才是他要 Saga 的理由。L3 $500 他收下「thank you」即止——价格不是他的决定因素，产品线是",
+    "k": "gmail_s 2025-01-03 / 2025-08-27"
+   },
+   {
+    "date": "2025-01-31",
+    "dir": "来",
+    "who": "Greg",
+    "quote": "We do not have a chip preference… must support 10/100/1G/10G copper and SFP… dedicated high-speed stacking modules (40/80/100G)… all stacked switches must be recognized as one logical switch",
+    "why": "硬规格",
+    "k": "f8ad0f8ce32688ea"
+   },
+   {
+    "date": "2025-06-11",
+    "dir": "来",
+    "who": "Greg",
+    "quote": "I'm following up to see if you have been able to successfully design the stacking switches discussed below.",
+    "why": "追问 ×3（06-11/18/23）",
+    "k": "0a50926da6770aea"
+   },
+   {
+    "date": "2025-06-23",
+    "dir": "来",
+    "who": "Greg Massott",
+    "quote": "（06-11 / 06-18 / 06-23 三封同文）I'm following up to see if you have been able to successfully design the stacking switches discussed below. Please advise when you have a moment.（10-15）Any news on this?（10-30）What is the status of the stacking switches that we had been discussing?",
+    "why": "一个月内三封同文催问 + 10 月两封——Versitron 这边是认真排了产品线的；Saga 的回复节奏（06 无回、10-31 坦白出问题）是这条线断掉的直接原因。对表信要先认这件事",
+    "k": "gmail_s 2025-06-11/18/23, 10-15, 10-30"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "来",
+    "who": "Greg Massott（Versitron）",
+    "quote": "What is the price of this unit?（L3 管理 24 口 DIN PoE，370W）",
+    "why": "Simon 08-28 答 $500/pc「expensive because we are doing Marvell chip」→ 无下文",
+    "k": "gmail_s f6115f259e0a5e6b"
+   },
+   {
+    "date": "2025-08-28",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Greg, Thanks for your email. It is 500usd/pc, it is expensive because we are doing Marvell chip. Please see attached datasheet. Thank you.",
+    "why": "历史报价点（主题「Re: L3 Managed Switch」；第 20 批从 gmail_s 回补）：500usd",
+    "k": "d9911e2b978f6965"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "stacking is still not available, we found some serious issues after 1st release… honestly we do not see a big demand",
+    "why": "坦白 + 质疑需求",
+    "k": "973470596a08bd2e"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "来",
+    "who": "Greg",
+    "quote": "We are trying to offer stacking as an alternative to Cisco.",
+    "why": "目标对手",
+    "k": "401b90aaadcce218"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Finally, our \"stacking\" feature is available on all models… I guess you mean Cisco Catalyst 9300 Switches? This is fine.",
+    "why": "宣布可用；只收到 OOO",
+    "k": "3cab7e50e48fea36"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "来",
+    "who": "自动回复",
+    "quote": "自动回复（Greg Massott 2026-03-11 休假）里指定「contact R.W. Tull at rwtull@versitron.com」",
+    "why": "Versitron 内部第二个具名入口（R.W. Tull）；三年只跟 Greg 一人谈，这是绕开单点的现成地址",
+    "k": "4ac602505b7d8db3"
+   }
+  ],
+  "proof_gaps": [
+   "2026-03-11 之后 Greg 是否读信（只有自动回复 4ac602505b7d8db3）",
+   "（已核 2026-10-24，第 73 批）2026-03-11 S 邮箱去信附件 = 「STH1G Series.pdf」+「Dual AC.jpg」→ 发的是 CENTEC STH1G 系列资料（不是 AC5），正文却写「stacking available on all models」——信稿已据此纠正：只有 STH 堆叠，Marvell 不堆叠"
+  ],
+  "draft_en": {
+   "subject": "48 port stacking switches — the stackable line, properly this time",
+   "body": "Hi, Greg,\n\nIn March I sent you one line and a PDF and called it done — that was too short after you had asked about stacking since 2024. Here is the proper answer against your January-2025 list.\n\nThe stackable platform is our CENTEC-based STH1G series, not the Marvell access switches (those will not stack, and I will not claim otherwise). It is a build-to-order line that we do not list publicly — lead time is confirmed per order, not the 3-5 days of the Marvell units:\n- STH-2QX4DX48GP-HSI: 48 x 1G PoE++ (90 W/port, 1200 W dual hot-swap PSU) + 4 x 25G SFP28 + 2 x 40G QSFP+ (25G ports can run at 10G)\n- Stacking: up to 8 units as one logical switch, ring or chain over the fiber ports, 360 Gbps stack bandwidth (Catalyst 9300-class StackWise-320 is the comparison your market will make)\n- 10G copper access: the 48-port unit is 1G copper; the same family has a 40 x 2.5G + 8 x 10G multi-gig PoE++ model (STH-2QX4DX8XP40DP-HSI) with the same 4 x 25G + 2 x 40G uplinks — stacking on that model I will confirm before promising it\n- L3 with OSPF/BGP/PIM, VXLAN-EVPN, MPLS, MACsec; Versitron logo, model name and SNMP strings on the unit\n- Lighter version: STH-2QX4DX48GP-SFI (PoE+ 30 W, single PSU)\n\nPricing is by first-batch quantity, so I will not guess a number here.\n\nOne question: is the Cisco-alternative stackable line still on your 2027 plan, and if yes, how many units per stack and roughly how many stacks? With that I will send the EXW price the same day.\n\nThank you.\nSimon"
+  },
+  "as_of": "2026-10-24"
+ }
 }

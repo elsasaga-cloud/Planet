@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-551` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 sales@netsys-america.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：以太网延长设备品牌（美国销售公司，台系 NetSys 线） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21；用户表：「工业FS」；研究档 risks：主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报
+- **绑定等级：未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 sales@netsys-america.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:netsys-direct.com OR to:netsys-america.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(h)））** ｜ 类型：以太网延长设备品牌（美国销售公司，台系 NetSys 线） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21；用户表：「工业FS」；研究档 risks：主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报
 - **现状一句话**：美国 Netsys（netsys-direct.com / netsys-america.com；以太网延长方案：VDSL2 工业级网桥 NV-520G、G.hn 同轴 MDU、PoE 延长器，自有 NV 系列；表内「工业 FS」）；群发 9 次无回复。
 - **对方真实需求（有据）**：自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做
 - **断点 / 为什么停在这里**：主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报
@@ -290,12 +290,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

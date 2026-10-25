@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-1617` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2025-07-23 Grace「Please send me more info about your product line, pricing and your website」→ Alan 07-24 只回 Download Link_Alan.pdf → 无下文；之后 4 封群发到 foscoconnect.com 无回，2025-11-19 后未再发）** ｜ 类型：北美线上光通信配件零售/分销（Fosco Connect）——第三档分销 ｜ 筛子：2（要价） ｜ 停点：要「产品线 + 价格 + 网站」，得到的是一个 PDF 链接包；网站当时还没上（sagatele.com 2026 年才有） ｜ 复活：现在三样都有了：网站 sagatele.com、DIN 线价表、一段话介绍——补一封完整的回信 ｜ 通路：北美主攻 ｜ 节奏：一封针对性信 → 无回则季度群发 ｜ 证据：gmail_a cb73165c3eeea9fa（来）/ a03d325cd72aad7c（Alan 回链接）
+- **绑定等级：轻度触达（2025-07-23 Grace「Please send me more info about your product line, pricing and your website」→ Alan 07-24 只回 Download Link_Alan.pdf → 无下文；之后 4 封群发到 foscoconnect.com 无回，2025-11-19 后未再发；Elsa 箱：`to:fiberoptics4sale.com OR to:fo4sale.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 1）（第 74 批(h)））** ｜ 类型：北美线上光通信配件零售/分销（Fosco Connect）——第三档分销 ｜ 筛子：2（要价） ｜ 停点：要「产品线 + 价格 + 网站」，得到的是一个 PDF 链接包；网站当时还没上（sagatele.com 2026 年才有） ｜ 复活：现在三样都有了：网站 sagatele.com、DIN 线价表、一段话介绍——补一封完整的回信 ｜ 通路：北美主攻 ｜ 节奏：一封针对性信 → 无回则季度群发 ｜ 证据：gmail_a cb73165c3eeea9fa（来）/ a03d325cd72aad7c（Alan 回链接）
 - **现状一句话**：Alan 2025-07-23 的 16 口 DIN 千兆群发（「good and cheap replacement of Wago, Tripplite, Red Lion, Antaira」）当天就有人要产品线、价格和网站。那时 Saga 没有网站，Alan 给了 Drive 链接 PDF，之后把这户当群发对象。线上店要的是「能上架的型号 + 进价」，这个问题至今没答。
 - **对方真实需求（有据）**：（推断）可上架转售的工业 DIN 交换机（5/8/16 口千兆、PoE 版），要进价。
 - **断点 / 为什么停在这里**：要价没给价；要网站没网站（当时）。
@@ -265,12 +265,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 2）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 2）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

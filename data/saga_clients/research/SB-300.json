@@ -1,164 +1,164 @@
 {
-  "code": "SB-300",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（amer.com，快照 2026-10-21）",
-  "summary": "加拿大 Amer Networks（自有品牌网络产品：交换机 SS2GR4010P / SGRD16 / SS310、MC-GT/SFP 光电转换器、PoE 注入器 PIG30、AP WAP44IO；同时卖 Planet GS-4210-8P2T2S；表内「MC / SFP / PoE injector 自己 logo；switch 有自己的标也有 Planet 的」；KP Wai Lee（CEO）、Toron Lee（VP Product Management）、Yehuda Mor Yosef）；群发 17 次无回复。",
-  "type": "北美自有品牌网络产品商（兼销 Planet，OEM 采购）",
-  "size": "",
-  "brands_seen": [
-    "Cisco",
-    "Netgear",
-    "Juniper",
-    "Planet"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Amer Networks |；品类词 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "We build Network Solutions for all your needs....；Contact Us；WAP44IO；PIG30；MC-GT/SFP；SG4P1Te",
-      "url": "https://amer.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC SFP POE injector 自己logo switch 有自己的标 也有Planet的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Amer Networks 产品线",
-      "quote": "We build Network Solutions for all your needs.... ; WAP44IO ; PIG30 ; MC-GT/SFP ; SG4P1Te ; SS2GR4010P",
-      "url": "https://amer.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "自有 logo MC/SFP/注入器；switch 自有标 + Planet",
-      "quote": "MC SFP POE injector 自己logo；switch 有自己的标 也有Planet的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Toron Lee",
-      "title": "Product Management, VP",
-      "email": "sales@amer.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Wai Lee",
-      "title": "CEO",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-300",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（amer.com，快照 2026-10-21）",
+ "summary": "加拿大 Amer Networks（自有品牌网络产品：交换机 SS2GR4010P / SGRD16 / SS310、MC-GT/SFP 光电转换器、PoE 注入器 PIG30、AP WAP44IO；同时卖 Planet GS-4210-8P2T2S；表内「MC / SFP / PoE injector 自己 logo；switch 有自己的标也有 Planet 的」；KP Wai Lee（CEO）、Toron Lee（VP Product Management）、Yehuda Mor Yosef）；群发 17 次无回复。",
+ "type": "北美自有品牌网络产品商（兼销 Planet，OEM 采购）",
+ "size": "",
+ "brands_seen": [
+  "Cisco",
+  "Netgear",
+  "Juniper",
+  "Planet"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Amer Networks |；品类词 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "We build Network Solutions for all your needs....；Contact Us；WAP44IO；PIG30；MC-GT/SFP；SG4P1Te",
+   "url": "https://amer.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "加拿大",
-    "other": "官网 amer.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC SFP POE injector 自己logo switch 有自己的标 也有Planet的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "交换机 / MC / PoE 注入器 / AP（自有品牌 Amer）",
-    "Planet 经销"
-  ],
-  "channels": {
-    "role": "北美自有品牌网络产品商（兼销 Planet，OEM 采购）",
-    "region": "加拿大",
-    "contact": "sales@amer.com、info@amer.com"
+  {
+   "kind": "官网快照",
+   "claim": "Amer Networks 产品线",
+   "quote": "We build Network Solutions for all your needs.... ; WAP44IO ; PIG30 ; MC-GT/SFP ; SG4P1Te ; SS2GR4010P",
+   "url": "https://amer.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页型号：WAP44IO / PIG30 / MC-GT/SFP / SG4P1Te / SS2GR4010P；站内 GS-4210-8P2T2S（Planet）",
-    "表内：switch 有自己的标 也有 Planet 的；KP Wai Lee / CEO；Toron Lee / Product Management, VP"
-  ],
-  "risks": [
-    "现有 ODM + Planet 双源：切入需价差与交期",
-    "17 次无回复 → 改向 VP Product Management 具名首触",
-    "MC/SFP/注入器为主要兴趣：Saga 商用 MC 与配件无 SKU（Q-32）"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有标 8 PoE + 2 SFP 型号（与 Planet GS-4210-8P2T2S 同位）→ STC-28DGGPM（$87.4 @30%）贴 Amer 标；MC 位 STI-110GE；注入器/SFP Saga 价目无（Q-32）"
-  },
-  "email_hook": "Toron, for the Amer-branded 8-PoE + 2 SFP switches that sit next to the Planet GS-4210 in your line, we can be a second ODM source on a Marvell L2+ platform from small lots in your housing, with FCC/CE/RoHS reports — would a sample against your current unit be useful?",
-  "products_seen": [
-    {
-      "brand": "Amer（自有）",
-      "model": "SS2GR4010P",
-      "spec": "8 PoE + 2 SFP（推断）",
-      "saga": "STC-28DGGPM",
-      "url": "https://amer.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Planet",
-      "model": "GS-4210-8P2T2S",
-      "spec": "8 PoE + 2 TP + 2 SFP 管理",
-      "saga": "STC-28DGGPM（近似）",
-      "url": "https://amer.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 info@amer.com, sales@amer.com；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）",
-      "type": "北美自有品牌网络产品商（兼销 Planet，OEM 采购）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
-      "revive": "不动（Q-33）",
-      "lane": "CA 主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「MC SFP POE injector 自己logo switch 有自己的标 也有Planet的」；研究档 risks：现有 ODM + Planet 双源：切入需价差与交期"
-    },
-    "situation": "加拿大 Amer Networks（自有品牌网络产品：交换机 SS2GR4010P / SGRD16 / SS310、MC-GT/SFP 光电转换器、PoE 注入器 PIG30、AP WAP44IO；同时卖 Planet GS-4210-8P2T2S；表内「MC / SFP / PoE injector 自己 logo；switch 有自己的标也有 Planet 的」；KP Wai Lee（CEO）、Toron Lee（VP Product Management）、Yehuda Mor Yosef）；群发 17 次无回复。",
-    "need": "自有标 8 PoE + 2 SFP 型号（与 Planet GS-4210-8P2T2S 同位）→ STC-28DGGPM（$87.4 @30%）贴 Amer 标；MC 位 STI-110GE；注入器/SFP Saga 价目无（Q-32）",
-    "breakpoint": "现有 ODM + Planet 双源：切入需价差与交期",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
-      "why": "自有标 8 PoE + 2 SFP 型号（与 Planet GS-4210-8P2T2S 同位）→ STC-28DGGPM（$87.4 @30%）贴 Amer 标；MC 位 STI-110GE；注入器/SFP Saga 价目无（Q-32）。已打开的主题（2/28 封有打开记录）：「Industrial fiber switch」(2024-06-24)、「8 Port Industrial PoE Switch」(2025-01-10) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-09-09",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-        "why": "28 封 / 2 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-09（28 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "MC SFP POE injector 自己logo switch 有自己的标 也有Planet的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "自有 logo MC/SFP/注入器；switch 自有标 + Planet",
+   "quote": "MC SFP POE injector 自己logo；switch 有自己的标 也有Planet的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Toron Lee",
+   "title": "Product Management, VP",
+   "email": "sales@amer.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Wai Lee",
+   "title": "CEO",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 amer.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "交换机 / MC / PoE 注入器 / AP（自有品牌 Amer）",
+  "Planet 经销"
+ ],
+ "channels": {
+  "role": "北美自有品牌网络产品商（兼销 Planet，OEM 采购）",
+  "region": "加拿大",
+  "contact": "sales@amer.com、info@amer.com"
+ },
+ "signals": [
+  "首页型号：WAP44IO / PIG30 / MC-GT/SFP / SG4P1Te / SS2GR4010P；站内 GS-4210-8P2T2S（Planet）",
+  "表内：switch 有自己的标 也有 Planet 的；KP Wai Lee / CEO；Toron Lee / Product Management, VP"
+ ],
+ "risks": [
+  "现有 ODM + Planet 双源：切入需价差与交期",
+  "17 次无回复 → 改向 VP Product Management 具名首触",
+  "MC/SFP/注入器为主要兴趣：Saga 商用 MC 与配件无 SKU（Q-32）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有标 8 PoE + 2 SFP 型号（与 Planet GS-4210-8P2T2S 同位）→ STC-28DGGPM（$87.4 @30%）贴 Amer 标；MC 位 STI-110GE；注入器/SFP Saga 价目无（Q-32）"
+ },
+ "email_hook": "Toron, for the Amer-branded 8-PoE + 2 SFP switches that sit next to the Planet GS-4210 in your line, we can be a second ODM source on a Marvell L2+ platform from small lots in your housing, with FCC/CE/RoHS reports — would a sample against your current unit be useful?",
+ "products_seen": [
+  {
+   "brand": "Amer（自有）",
+   "model": "SS2GR4010P",
+   "spec": "8 PoE + 2 SFP（推断）",
+   "saga": "STC-28DGGPM",
+   "url": "https://amer.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Planet",
+   "model": "GS-4210-8P2T2S",
+   "spec": "8 PoE + 2 TP + 2 SFP 管理",
+   "saga": "STC-28DGGPM（近似）",
+   "url": "https://amer.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 info@amer.com, sales@amer.com；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:amer.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(h)））",
+   "type": "北美自有品牌网络产品商（兼销 Planet，OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "CA 主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「MC SFP POE injector 自己logo switch 有自己的标 也有Planet的」；研究档 risks：现有 ODM + Planet 双源：切入需价差与交期"
+  },
+  "situation": "加拿大 Amer Networks（自有品牌网络产品：交换机 SS2GR4010P / SGRD16 / SS310、MC-GT/SFP 光电转换器、PoE 注入器 PIG30、AP WAP44IO；同时卖 Planet GS-4210-8P2T2S；表内「MC / SFP / PoE injector 自己 logo；switch 有自己的标也有 Planet 的」；KP Wai Lee（CEO）、Toron Lee（VP Product Management）、Yehuda Mor Yosef）；群发 17 次无回复。",
+  "need": "自有标 8 PoE + 2 SFP 型号（与 Planet GS-4210-8P2T2S 同位）→ STC-28DGGPM（$87.4 @30%）贴 Amer 标；MC 位 STI-110GE；注入器/SFP Saga 价目无（Q-32）",
+  "breakpoint": "现有 ODM + Planet 双源：切入需价差与交期",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
+   "why": "自有标 8 PoE + 2 SFP 型号（与 Planet GS-4210-8P2T2S 同位）→ STC-28DGGPM（$87.4 @30%）贴 Amer 标；MC 位 STI-110GE；注入器/SFP Saga 价目无（Q-32）。已打开的主题（2/28 封有打开记录）：「Industrial fiber switch」(2024-06-24)、「8 Port Industrial PoE Switch」(2025-01-10) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-09-09",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "28 封 / 2 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-09（28 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC SFP POE injector 自己logo switch 有自己的标 也有Planet的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

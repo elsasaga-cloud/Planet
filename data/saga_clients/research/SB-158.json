@@ -1,144 +1,144 @@
 {
-  "code": "SB-158",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（2mtechnology.net，快照 2026-10-21）",
-  "summary": "美国 2M Technology（高风险环境安防：防爆摄像机、X 光机、集装箱安检通道、无人机探测拖车、UniFi 系统集成安装；表内「主要是 CCTV，商业 PoE」「可以尝试多跟进一下」；KP Mohamed Malek（General Manager，mohamed@）、Jarga Jallow（IT Manager））；群发 10 次无回复。",
-  "type": "高风险环境安防方案商/品牌（美国，UniFi 集成）",
-  "size": "",
-  "brands_seen": [
-    "Ubiquiti",
-    "Uniview",
-    "Axis"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Advanced Security for High-Risk Environments | 2M Technology；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Explosion-proof cameras, X-ray scanners, container turnstiles, mobile trailers, UniFi & access control for high-risk environments. 2M Technology.",
-      "url": "https://www.2mtechnology.net/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "主要是CCTV 商业PoE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "2M Technology 定位",
-      "quote": "Explosion-proof cameras, X-ray scanners, container turnstiles, mobile trailers, UniFi & access control for high-risk environments. 2M Technology.",
-      "url": "https://www.2mtechnology.net/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "主要 CCTV 商业 PoE",
-      "quote": "主要是CCTV 商业PoE；可以尝试多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Mohamed Malek",
-      "title": "General Manager",
-      "email": "mohamed@2mtechnology.net",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Jarga Jallow",
-      "title": "IT Manager",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-158",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（2mtechnology.net，快照 2026-10-21）",
+ "summary": "美国 2M Technology（高风险环境安防：防爆摄像机、X 光机、集装箱安检通道、无人机探测拖车、UniFi 系统集成安装；表内「主要是 CCTV，商业 PoE」「可以尝试多跟进一下」；KP Mohamed Malek（General Manager，mohamed@）、Jarga Jallow（IT Manager））；群发 10 次无回复。",
+ "type": "高风险环境安防方案商/品牌（美国，UniFi 集成）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Uniview",
+  "Axis"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Advanced Security for High-Risk Environments | 2M Technology；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Explosion-proof cameras, X-ray scanners, container turnstiles, mobile trailers, UniFi & access control for high-risk environments. 2M Technology.",
+   "url": "https://www.2mtechnology.net/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 2mtechnology.net，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "主要是CCTV 商业PoE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "高风险环境安防（防爆摄像机 / 安检 / 周界）",
-    "UniFi 系统集成安装"
-  ],
-  "channels": {
-    "role": "高风险环境安防方案商/品牌（美国，UniFi 集成）",
-    "region": "美国",
-    "contact": "sales@2mtechnology.net、mohamed@2mtechnology.net"
+  {
+   "kind": "官网快照",
+   "claim": "2M Technology 定位",
+   "quote": "Explosion-proof cameras, X-ray scanners, container turnstiles, mobile trailers, UniFi & access control for high-risk environments. 2M Technology.",
+   "url": "https://www.2mtechnology.net/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页：Engineered Security Systems for High-Risk & Critical Infrastructure ; Drone Detection Trailers ; Integrated Ubiquiti UniFi System Installations ; Custom Explosion-Proof Surveillance",
-    "页面 /unifi-poe-budget-planning-guide/、/industrial-perimeter-security-solutions/；kw camera 481 / access control 110 / industrial 41"
-  ],
-  "risks": [
-    "守界备注：关键基础设施/政府场景——只供通用交换机，不涉项目",
-    "UniFi 生态（Ubiquiti 自带交换机）；10 次无回复 → 改向 GM 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 25,
-    "why": "周界/工业场景 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；室内 CCTV 位 STC-28DGGPM（$84.1）"
-  },
-  "email_hook": "Mohamed, for the PoE switches behind your explosion-proof cameras and perimeter deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option) and commercial 8/24-PoE L2+ models from small lots, FCC/CE/RoHS — which do your industrial sites use more?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 jjallow@2mtechnology.net, mohamed@2mtechnology.net；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
-      "type": "高风险环境安防方案商/品牌（美国，UniFi 集成）",
-      "sieve": "1（只收到群发）",
-      "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "US 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 24；用户表：「主要是CCTV 商业PoE」；研究档 risks：守界备注：关键基础设施/政府场景——只供通用交换机，不涉项目"
-    },
-    "situation": "美国 2M Technology（高风险环境安防：防爆摄像机、X 光机、集装箱安检通道、无人机探测拖车、UniFi 系统集成安装；表内「主要是 CCTV，商业 PoE」「可以尝试多跟进一下」；KP Mohamed Malek（General Manager，mohamed@）、Jarga Jallow（IT Manager））；群发 10 次无回复。",
-    "need": "周界/工业场景 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；室内 CCTV 位 STC-28DGGPM（$84.1）",
-    "breakpoint": "守界备注：关键基础设施/政府场景——只供通用交换机，不涉项目",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 25,
-      "price": "换人再触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-27 $300（48 Port PoE Managed Switch）、2025-08-08 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-      "why": "周界/工业场景 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；室内 CCTV 位 STC-28DGGPM（$84.1）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Mohamed, for the PoE switches behind your explosion-proof cameras and perimeter deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option) and commercial 8/24-PoE L2+ models from small lots, FCC/CE/RoHS — which do your industrial sites use more? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-16",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
-        "why": "24 封 / 0 次打开 / 0 回｜首封 2024-12-27 → 末封 2026-09-16（24 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "主要是CCTV 商业PoE",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "主要 CCTV 商业 PoE",
+   "quote": "主要是CCTV 商业PoE；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mohamed Malek",
+   "title": "General Manager",
+   "email": "mohamed@2mtechnology.net",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Jarga Jallow",
+   "title": "IT Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 2mtechnology.net，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "高风险环境安防（防爆摄像机 / 安检 / 周界）",
+  "UniFi 系统集成安装"
+ ],
+ "channels": {
+  "role": "高风险环境安防方案商/品牌（美国，UniFi 集成）",
+  "region": "美国",
+  "contact": "sales@2mtechnology.net、mohamed@2mtechnology.net"
+ },
+ "signals": [
+  "首页：Engineered Security Systems for High-Risk & Critical Infrastructure ; Drone Detection Trailers ; Integrated Ubiquiti UniFi System Installations ; Custom Explosion-Proof Surveillance",
+  "页面 /unifi-poe-budget-planning-guide/、/industrial-perimeter-security-solutions/；kw camera 481 / access control 110 / industrial 41"
+ ],
+ "risks": [
+  "守界备注：关键基础设施/政府场景——只供通用交换机，不涉项目",
+  "UniFi 生态（Ubiquiti 自带交换机）；10 次无回复 → 改向 GM 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "周界/工业场景 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；室内 CCTV 位 STC-28DGGPM（$84.1）"
+ },
+ "email_hook": "Mohamed, for the PoE switches behind your explosion-proof cameras and perimeter deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option) and commercial 8/24-PoE L2+ models from small lots, FCC/CE/RoHS — which do your industrial sites use more?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 jjallow@2mtechnology.net, mohamed@2mtechnology.net；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:2mtechnology.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(h)））",
+   "type": "高风险环境安防方案商/品牌（美国，UniFi 集成）",
+   "sieve": "1（只收到群发）",
+   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24；用户表：「主要是CCTV 商业PoE」；研究档 risks：守界备注：关键基础设施/政府场景——只供通用交换机，不涉项目"
+  },
+  "situation": "美国 2M Technology（高风险环境安防：防爆摄像机、X 光机、集装箱安检通道、无人机探测拖车、UniFi 系统集成安装；表内「主要是 CCTV，商业 PoE」「可以尝试多跟进一下」；KP Mohamed Malek（General Manager，mohamed@）、Jarga Jallow（IT Manager））；群发 10 次无回复。",
+  "need": "周界/工业场景 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；室内 CCTV 位 STC-28DGGPM（$84.1）",
+  "breakpoint": "守界备注：关键基础设施/政府场景——只供通用交换机，不涉项目",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "换人再触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-27 $300（48 Port PoE Managed Switch）、2025-08-08 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
+   "why": "周界/工业场景 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；室内 CCTV 位 STC-28DGGPM（$84.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Mohamed, for the PoE switches behind your explosion-proof cameras and perimeter deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option) and commercial 8/24-PoE L2+ models from small lots, FCC/CE/RoHS — which do your industrial sites use more? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "24 封 / 0 次打开 / 0 回｜首封 2024-12-27 → 末封 2026-09-16（24 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要是CCTV 商业PoE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

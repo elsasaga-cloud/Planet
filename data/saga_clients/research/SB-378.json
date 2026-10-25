@@ -1,165 +1,165 @@
 {
-  "code": "SB-378",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（xlrsecurity.com，快照 2026-10-21）",
-  "summary": "加拿大多伦多 XLR Security（面向全加拿大安装商/经销商的安防设备供应商；Uniview 为主（词频 86）、Ruijie；自有云管理交换机品牌 Lysora（站内教程「Lysora Cloud」，型号 PN-D7012-8P-120 / PN-D7020-16P-250 / PN-D7028-24P-360）；表内「FS 主要是 CCTV，在用 Itoonertech 商业 PoE」；KP Jaeden Wiens（Founder，jaeden@）、June Wang（Project Coordinator））；群发 16 次无回复。",
-  "type": "安防分销 + 自有交换机品牌 Lysora（OEM 采购）",
-  "size": "",
-  "brands_seen": [
-    "Uniview",
-    "Ruijie",
-    "Lysora",
-    "Itoonertech"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：XLR Security | We sell security cameras & networking equipment.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "XLR Security is a security equipment supplier located in Toronto. We partner with installers and dealers across Canada and set them up for success.",
-      "url": "https://www.xlrsecurity.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "多伦多安防设备供应商，服务全加拿大安装商与经销商",
-      "quote": "XLR Security is a security equipment supplier located in Toronto. We partner with installers and dealers across Canada and set them up for success.",
-      "url": "https://www.xlrsecurity.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "CCTV 为主、在用 Itoonertech 商业 PoE",
-      "quote": "FS 主要是CCTV 在用Itoonertech商业POE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Jaeden Wiens",
-      "title": "Founder",
-      "email": "jaeden@xlrsecurity.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "June Wang",
-      "title": "Project Coordinator",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-378",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（xlrsecurity.com，快照 2026-10-21）",
+ "summary": "加拿大多伦多 XLR Security（面向全加拿大安装商/经销商的安防设备供应商；Uniview 为主（词频 86）、Ruijie；自有云管理交换机品牌 Lysora（站内教程「Lysora Cloud」，型号 PN-D7012-8P-120 / PN-D7020-16P-250 / PN-D7028-24P-360）；表内「FS 主要是 CCTV，在用 Itoonertech 商业 PoE」；KP Jaeden Wiens（Founder，jaeden@）、June Wang（Project Coordinator））；群发 16 次无回复。",
+ "type": "安防分销 + 自有交换机品牌 Lysora（OEM 采购）",
+ "size": "",
+ "brands_seen": [
+  "Uniview",
+  "Ruijie",
+  "Lysora",
+  "Itoonertech"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：XLR Security | We sell security cameras & networking equipment.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "XLR Security is a security equipment supplier located in Toronto. We partner with installers and dealers across Canada and set them up for success.",
+   "url": "https://www.xlrsecurity.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "加拿大",
-    "other": "官网 xlrsecurity.com，语言 en-CA，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "安防设备分销（视频监控 / 对讲 / 网络 / PoE 供电），面向安装商",
-    "自有品牌 Lysora 云管理交换机"
-  ],
-  "channels": {
-    "role": "安防分销 + 自有交换机品牌 Lysora（OEM 采购）",
-    "region": "加拿大",
-    "contact": "info@xlrsecurity.com、jaeden@xlrsecurity.com"
+  {
+   "kind": "官网快照",
+   "claim": "多伦多安防设备供应商，服务全加拿大安装商与经销商",
+   "quote": "XLR Security is a security equipment supplier located in Toronto. We partner with installers and dealers across Canada and set them up for success.",
+   "url": "https://www.xlrsecurity.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "站内教程 /tutorials/lysora/how-to-label-ports-on-a-lysora-switch-via-lysora-cloud/",
-    "站内型号 PN-D7012-8P-120 / PN-D7020-16P-250 / PN-D7028-24P-360",
-    "KP：Jaeden Wiens / Founder；June Wang / Project Coordinator（表内）"
-  ],
-  "risks": [
-    "Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU",
-    "现代工为 Itoonertech（深圳）：价格基准极低",
-    "群发 16 次无回复：改向 Founder 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 30,
-    "why": "自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版"
-  },
-  "email_hook": "Jaeden, for the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first?",
-  "products_seen": [
-    {
-      "brand": "Lysora（自有）",
-      "model": "PN-D7012-8P-120",
-      "spec": "8 口 PoE 120W 云管理",
-      "saga": "STC-28DGGPM（本地管理）",
-      "url": "https://www.xlrsecurity.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Lysora（自有）",
-      "model": "PN-D7028-24P-360",
-      "spec": "24 口 PoE 360W 云管理",
-      "saga": "STC-424DGGPM-280W（本地管理，280W）",
-      "url": "https://www.xlrsecurity.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 info@xlrsecurity.com, jaeden@xlrsecurity.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-      "type": "安防分销 + 自有交换机品牌 Lysora（OEM 采购）",
-      "sieve": "1（只收到群发）",
-      "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "CA 主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 26；用户表：「FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE」；研究档 risks：Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU"
-    },
-    "situation": "加拿大多伦多 XLR Security（面向全加拿大安装商/经销商的安防设备供应商；Uniview 为主（词频 86）、Ruijie；自有云管理交换机品牌 Lysora（站内教程「Lysora Cloud」，型号 PN-D7012-8P-120 / PN-D7020-16P-250 / PN-D7028-24P-360）；表内「FS 主要是 CCTV，在用 Itoonertech 商业 PoE」；KP Jaeden Wiens（Founder，jaeden@）、June Wang（Project Coordinator））；群发 16 次无回复。",
-    "need": "自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版",
-    "breakpoint": "Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 30,
-      "price": "换人再触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $220（48 port managed switch）、2025-01-21 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $65（10G Media Converter）、2025-09-24 $280（10G Enterprise SFP Switch）",
-      "why": "自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Jaeden, for the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-21",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "26 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-21（26 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "CCTV 为主、在用 Itoonertech 商业 PoE",
+   "quote": "FS 主要是CCTV 在用Itoonertech商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Jaeden Wiens",
+   "title": "Founder",
+   "email": "jaeden@xlrsecurity.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "June Wang",
+   "title": "Project Coordinator",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 xlrsecurity.com，语言 en-CA，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防设备分销（视频监控 / 对讲 / 网络 / PoE 供电），面向安装商",
+  "自有品牌 Lysora 云管理交换机"
+ ],
+ "channels": {
+  "role": "安防分销 + 自有交换机品牌 Lysora（OEM 采购）",
+  "region": "加拿大",
+  "contact": "info@xlrsecurity.com、jaeden@xlrsecurity.com"
+ },
+ "signals": [
+  "站内教程 /tutorials/lysora/how-to-label-ports-on-a-lysora-switch-via-lysora-cloud/",
+  "站内型号 PN-D7012-8P-120 / PN-D7020-16P-250 / PN-D7028-24P-360",
+  "KP：Jaeden Wiens / Founder；June Wang / Project Coordinator（表内）"
+ ],
+ "risks": [
+  "Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU",
+  "现代工为 Itoonertech（深圳）：价格基准极低",
+  "群发 16 次无回复：改向 Founder 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 30,
+  "why": "自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版"
+ },
+ "email_hook": "Jaeden, for the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first?",
+ "products_seen": [
+  {
+   "brand": "Lysora（自有）",
+   "model": "PN-D7012-8P-120",
+   "spec": "8 口 PoE 120W 云管理",
+   "saga": "STC-28DGGPM（本地管理）",
+   "url": "https://www.xlrsecurity.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Lysora（自有）",
+   "model": "PN-D7028-24P-360",
+   "spec": "24 口 PoE 360W 云管理",
+   "saga": "STC-424DGGPM-280W（本地管理，280W）",
+   "url": "https://www.xlrsecurity.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 info@xlrsecurity.com, jaeden@xlrsecurity.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:xlrsecurity.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 0）（第 74 批(h)））",
+   "type": "安防分销 + 自有交换机品牌 Lysora（OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "CA 主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 26；用户表：「FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE」；研究档 risks：Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU"
+  },
+  "situation": "加拿大多伦多 XLR Security（面向全加拿大安装商/经销商的安防设备供应商；Uniview 为主（词频 86）、Ruijie；自有云管理交换机品牌 Lysora（站内教程「Lysora Cloud」，型号 PN-D7012-8P-120 / PN-D7020-16P-250 / PN-D7028-24P-360）；表内「FS 主要是 CCTV，在用 Itoonertech 商业 PoE」；KP Jaeden Wiens（Founder，jaeden@）、June Wang（Project Coordinator））；群发 16 次无回复。",
+  "need": "自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版",
+  "breakpoint": "Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 30,
+   "price": "换人再触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $220（48 port managed switch）、2025-01-21 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $65（10G Media Converter）、2025-09-24 $280（10G Enterprise SFP Switch）",
+   "why": "自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Jaeden, for the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-21",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "26 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-21（26 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,125 +1,125 @@
 {
-  "code": "SB-551",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（netsys-direct.com，快照 2026-10-21）",
-  "summary": "美国 Netsys（netsys-direct.com / netsys-america.com；以太网延长方案：VDSL2 工业级网桥 NV-520G、G.hn 同轴 MDU、PoE 延长器，自有 NV 系列；表内「工业 FS」）；群发 9 次无回复。",
-  "type": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Networking Products - Network Extension Devices & Broadband Equipment – www.netsys-direct.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Netsys is your trusted source for quality network extension devices. Explore our collection of versatile networking and broadband products online. Order now.",
-      "url": "https://www.netsys-direct.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "网络延长设备与宽带产品",
-      "quote": "Netsys is your trusted source for quality network extension devices. Explore our collection of versatile networking and broadband products online.",
-      "url": "https://www.netsys-direct.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS",
-      "quote": "工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-551",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（netsys-direct.com，快照 2026-10-21）",
+ "summary": "美国 Netsys（netsys-direct.com / netsys-america.com；以太网延长方案：VDSL2 工业级网桥 NV-520G、G.hn 同轴 MDU、PoE 延长器，自有 NV 系列；表内「工业 FS」）；群发 9 次无回复。",
+ "type": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Networking Products - Network Extension Devices & Broadband Equipment – www.netsys-direct.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Netsys is your trusted source for quality network extension devices. Explore our collection of versatile networking and broadband products online. Order now.",
+   "url": "https://www.netsys-direct.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 netsys-direct.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "以太网延长（VDSL2 / G.hn / PoE 延长器）",
-    "工业交换机（补充线）"
-  ],
-  "channels": {
-    "role": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
-    "region": "美国",
-    "contact": "sales@netsys-america.com"
+  {
+   "kind": "官网快照",
+   "claim": "网络延长设备与宽带产品",
+   "quote": "Netsys is your trusted source for quality network extension devices. Explore our collection of versatile networking and broadband products online.",
+   "url": "https://www.netsys-direct.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：YOUR TRUSTED SOURCE FOR ETHERNET EXTENSION SOLUTIONS；GigaPort Industrial Grade VDSL2 Ethernet Bridge Modem (NV-520G)",
-    "博客 /blogs/ethernetextender/commercial-grade-vs-industrial-grade-networking-products"
-  ],
-  "risks": [
-    "主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报",
-    "台系品牌美国销售公司：自有 ODM 体系；9 次无回复，仅 sales@"
-  ],
-  "saga_fit": {
-    "p1": "STI-080GE",
-    "tier": 30,
-    "why": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做"
-  },
-  "email_hook": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 sales@netsys-america.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
-      "type": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "US 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 21；用户表：「工业FS」；研究档 risks：主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报"
-    },
-    "situation": "美国 Netsys（netsys-direct.com / netsys-america.com；以太网延长方案：VDSL2 工业级网桥 NV-520G、G.hn 同轴 MDU、PoE 延长器，自有 NV 系列；表内「工业 FS」）；群发 9 次无回复。",
-    "need": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做",
-    "breakpoint": "主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报",
-    "saga_now": {
-      "p1": "STI-080GE",
-      "tier": 30,
-      "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-22 $300（48 Port PoE Managed Switch）、2025-09-17 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
-      "why": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-        "why": "21 封 / 0 次打开 / 0 回｜首封 2025-03-12 → 末封 2026-09-08（21 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 netsys-direct.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "以太网延长（VDSL2 / G.hn / PoE 延长器）",
+  "工业交换机（补充线）"
+ ],
+ "channels": {
+  "role": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
+  "region": "美国",
+  "contact": "sales@netsys-america.com"
+ },
+ "signals": [
+  "官网：YOUR TRUSTED SOURCE FOR ETHERNET EXTENSION SOLUTIONS；GigaPort Industrial Grade VDSL2 Ethernet Bridge Modem (NV-520G)",
+  "博客 /blogs/ethernetextender/commercial-grade-vs-industrial-grade-networking-products"
+ ],
+ "risks": [
+  "主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报",
+  "台系品牌美国销售公司：自有 ODM 体系；9 次无回复，仅 sales@"
+ ],
+ "saga_fit": {
+  "p1": "STI-080GE",
+  "tier": 30,
+  "why": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做"
+ },
+ "email_hook": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 sales@netsys-america.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:netsys-direct.com OR to:netsys-america.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(h)））",
+   "type": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21；用户表：「工业FS」；研究档 risks：主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报"
+  },
+  "situation": "美国 Netsys（netsys-direct.com / netsys-america.com；以太网延长方案：VDSL2 工业级网桥 NV-520G、G.hn 同轴 MDU、PoE 延长器，自有 NV 系列；表内「工业 FS」）；群发 9 次无回复。",
+  "need": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做",
+  "breakpoint": "主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 30,
+   "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-22 $300（48 Port PoE Managed Switch）、2025-09-17 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
+   "why": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "21 封 / 0 次打开 / 0 回｜首封 2025-03-12 → 末封 2026-09-08（21 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,125 +1,125 @@
 {
-  "code": "SB-880",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（yachtgurus.us，快照 2026-10-21）",
-  "summary": "美国 Yacht Gurus, inc（船艇与游艇用品网店；站内少量交换机/无线产品；表内「工业 FS」「细分特种行业公司」）；群发 10 次无回复。",
-  "type": "船艇用品网店（美国，工业 FS 为边缘品类）",
-  "size": "",
-  "brands_seen": [
-    "Aruba"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Your local boat and yacht supplier. – Yacht Gurus, inc；品类词 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-      "quote": "Your one stop for all your boating and yachting supplies. If you don’t see it here, feel free to call or email your request.",
-      "url": "https://yachtgurus.us/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Yacht Gurus 定位",
-      "quote": "Your local boat and yacht supplier. – Yacht Gurus, inc ; Your one stop for all your boating and yachting supplies",
-      "url": "https://yachtgurus.us/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 细分特种行业",
-      "quote": "工业FS；细分特种行业公司",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-880",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（yachtgurus.us，快照 2026-10-21）",
+ "summary": "美国 Yacht Gurus, inc（船艇与游艇用品网店；站内少量交换机/无线产品；表内「工业 FS」「细分特种行业公司」）；群发 10 次无回复。",
+ "type": "船艇用品网店（美国，工业 FS 为边缘品类）",
+ "size": "",
+ "brands_seen": [
+  "Aruba"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Your local boat and yacht supplier. – Yacht Gurus, inc；品类词 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Your one stop for all your boating and yachting supplies. If you don’t see it here, feel free to call or email your request.",
+   "url": "https://yachtgurus.us/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 yachtgurus.us，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "船艇 / 游艇用品网店（美国）"
-  ],
-  "channels": {
-    "role": "船艇用品网店（美国，工业 FS 为边缘品类）",
-    "region": "美国",
-    "contact": "info@yachtgurus.us"
+  {
+   "kind": "官网快照",
+   "claim": "Yacht Gurus 定位",
+   "quote": "Your local boat and yacht supplier. – Yacht Gurus, inc ; Your one stop for all your boating and yachting supplies",
+   "url": "https://yachtgurus.us/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Your local boat and yacht supplier. – Yacht Gurus, inc ; Your one stop for all your boating and yachting supplies；kw wireless 13 / switch 1",
-    "表内：工业 FS；细分特种行业公司"
-  ],
-  "risks": [
-    "品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-080GE",
-    "tier": 20,
-    "why": "船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）"
-  },
-  "email_hook": "For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 15 封 2025→2026，无记录打开，0 回；收件 info@yachtgurus.us；主题多为「Managed Optical Bypass Switch、16 Port Ethernet Switch」）",
-      "type": "船艇用品网店（美国，工业 FS 为边缘品类）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "US 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 15；用户表：「工业FS」；研究档 risks：品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复"
-    },
-    "situation": "美国 Yacht Gurus, inc（船艇与游艇用品网店；站内少量交换机/无线产品；表内「工业 FS」「细分特种行业公司」）；群发 10 次无回复。",
-    "need": "船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）",
-    "breakpoint": "品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复",
-    "saga_now": {
-      "p1": "STI-080GE",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-05 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
-      "why": "船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?"
-    },
-    "facts": [
-      {
-        "date": "2026-02-11",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、16 Port Ethernet Switch",
-        "why": "15 封 / 0 次打开 / 0 回｜首封 2025-01-22 → 末封 2026-02-11（15 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 细分特种行业",
+   "quote": "工业FS；细分特种行业公司",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 yachtgurus.us，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "船艇 / 游艇用品网店（美国）"
+ ],
+ "channels": {
+  "role": "船艇用品网店（美国，工业 FS 为边缘品类）",
+  "region": "美国",
+  "contact": "info@yachtgurus.us"
+ },
+ "signals": [
+  "官网：Your local boat and yacht supplier. – Yacht Gurus, inc ; Your one stop for all your boating and yachting supplies；kw wireless 13 / switch 1",
+  "表内：工业 FS；细分特种行业公司"
+ ],
+ "risks": [
+  "品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-080GE",
+  "tier": 20,
+  "why": "船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）"
+ },
+ "email_hook": "For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 15 封 2025→2026，无记录打开，0 回；收件 info@yachtgurus.us；主题多为「Managed Optical Bypass Switch、16 Port Ethernet Switch」；Elsa 箱：`to:yachtgurus.us` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(h)））",
+   "type": "船艇用品网店（美国，工业 FS 为边缘品类）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「工业FS」；研究档 risks：品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复"
+  },
+  "situation": "美国 Yacht Gurus, inc（船艇与游艇用品网店；站内少量交换机/无线产品；表内「工业 FS」「细分特种行业公司」）；群发 10 次无回复。",
+  "need": "船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）",
+  "breakpoint": "品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-05 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
+   "why": "船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?"
+  },
+  "facts": [
+   {
+    "date": "2026-02-11",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、16 Port Ethernet Switch",
+    "why": "15 封 / 0 次打开 / 0 回｜首封 2025-01-22 → 末封 2026-02-11（15 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

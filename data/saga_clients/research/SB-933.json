@@ -1,221 +1,221 @@
 {
-  "code": "SB-933",
-  "name_official": "Actelis Networks, Inc.（NASDAQ: ASNS；actelis.com）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "美国上市公司（NASDAQ: ASNS，1998 年成立，Fremont/Sunnyvale CA，51–200 人）：**混合光纤-铜缆**以太网接入设备（MetaLIGHT ML600/ML620/ML640Ex/ML684D、GigaLine GL800/GL900）、硬化 L2 光纤交换机与汇聚设备、网管与「cyber-hardened」安全；目标市场为联邦/州/地方政府、ITS、**军方、公用事业、铁路**、电信与园区。制造商兼潜在竞争者，且政府/军方导向意味着原产地与 TAA 门槛。用户表：S 重点，1 次实质回复，15 次跟进。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Actelis（自产）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "产品定位与市场",
-      "quote": "Actelis Networks, Inc. (NASDAQ: ASNS) is a market leader in cyber-hardened, rapid-deployment networking solutions for wide-area IoT applications including federal, state and local government, ITS, military, utility, rail, telecom and campus applications. Actelis' unique portfolio of hybrid fiber-copper, environmentally hardened aggregation switches, high density Ethernet devices, advanced management software",
-      "url": "https://www.sec.gov/Archives/edgar/data/1141284/000121390023035156/ea177800ex99-1_actelis.htm",
-      "date": "2023-05-01"
-    },
-    {
-      "kind": "官网",
-      "claim": "光纤交换机产品线",
-      "quote": "Actelis' fiber portfolio includes our managed layer 2 fiber switches and aggregation devices designed to extend connectivity over fiber, as well as our hybrid fiber-copper ethernet access devices",
-      "url": "https://actelis.com/actelis-products/products-technology/fiber/",
-      "date": "2023-02-03"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "规模与成立年",
-      "quote": "Actelis Networks … Company size: 51-200 employees Headquarters: Sunnyvale, California Type: Public Company Founded: 1998",
-      "url": "https://www.linkedin.com/company/actelis-networks",
-      "date": "2026-01-28"
-    },
-    {
-      "kind": "用户表",
-      "claim": "S 重点；1 次实质回复；15 次跟进",
-      "quote": "（用户表字段）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Casey Hurley",
-      "role": "VP Sales - Strategic Accounts（邮件签名）",
-      "email": "pchurley@actelis.com",
-      "phone": "",
-      "source": "S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）"
-    },
-    {
-      "name": "Michal Winkler",
-      "role": "来信署名人（职务未在邮件署名里出现）",
-      "email": "michalw@actelis.com",
-      "phone": "",
-      "source": "S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 公告核对）"
+ "code": "SB-933",
+ "name_official": "Actelis Networks, Inc.（NASDAQ: ASNS；actelis.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "美国上市公司（NASDAQ: ASNS，1998 年成立，Fremont/Sunnyvale CA，51–200 人）：**混合光纤-铜缆**以太网接入设备（MetaLIGHT ML600/ML620/ML640Ex/ML684D、GigaLine GL800/GL900）、硬化 L2 光纤交换机与汇聚设备、网管与「cyber-hardened」安全；目标市场为联邦/州/地方政府、ITS、**军方、公用事业、铁路**、电信与园区。制造商兼潜在竞争者，且政府/军方导向意味着原产地与 TAA 门槛。用户表：S 重点，1 次实质回复，15 次跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Actelis（自产）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "产品定位与市场",
+   "quote": "Actelis Networks, Inc. (NASDAQ: ASNS) is a market leader in cyber-hardened, rapid-deployment networking solutions for wide-area IoT applications including federal, state and local government, ITS, military, utility, rail, telecom and campus applications. Actelis' unique portfolio of hybrid fiber-copper, environmentally hardened aggregation switches, high density Ethernet devices, advanced management software",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141284/000121390023035156/ea177800ex99-1_actelis.htm",
+   "date": "2023-05-01"
   },
-  "company_facts": {
-    "legal_name": "Actelis Networks, Inc.（NASDAQ: ASNS）",
-    "founded": "1998",
-    "hq": "Fremont / Sunnyvale, California, USA",
-    "size": "51–200（LinkedIn）",
-    "other": "产品：ML600 系列 EAD（铜缆绑定 Ethernet，1–16 对，最高 240 Mbps）、ML684D 8 口硬化 DIN 混合交换机（2 SFP + 6 FE，−40~+75 ℃，12–48 VDC）、ML630R L3、GL800/GL900 千兆混合方案（2023-05）；客户案例含印度 Beetel/大型运营商"
+  {
+   "kind": "官网",
+   "claim": "光纤交换机产品线",
+   "quote": "Actelis' fiber portfolio includes our managed layer 2 fiber switches and aggregation devices designed to extend connectivity over fiber, as well as our hybrid fiber-copper ethernet access devices",
+   "url": "https://actelis.com/actelis-products/products-technology/fiber/",
+   "date": "2023-02-03"
   },
-  "business_lines": [
-    "混合光纤-铜缆以太网接入设备（EAD）",
-    "硬化 L2 光纤交换机与汇聚",
-    "网管与网络安全加固"
-  ],
-  "products_seen": [
-    {
-      "brand": "Actelis",
-      "model": "ML684D",
-      "spec": "8 口硬化工业 DIN 混合光纤-铜缆管理交换机：2×100/1000 SFP + 6×10/100BT + 铜缆绑定，−40~+75 ℃，12–48 VDC 冗余",
-      "url": "https://actelis.com/portfolio/ml684d/",
-      "date": "2024-02-01",
-      "saga": "—（铜缆绑定技术，Saga 无；纯以太网侧可对位 STI-280DGGM）"
-    },
-    {
-      "brand": "Actelis",
-      "model": "ML640Ex 系列",
-      "spec": "6 口硬化管理混合交换机，2×100/1000F + 4×100/1000BT，MACsec 256-bit（EL 型）",
-      "url": "https://actelis.com/portfolio/ml640ex/",
-      "date": "2024-02-07",
-      "saga": "—"
-    }
-  ],
-  "channels": {
-    "网站": "https://actelis.com/",
-    "LinkedIn": "https://www.linkedin.com/company/actelis-networks"
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与成立年",
+   "quote": "Actelis Networks … Company size: 51-200 employees Headquarters: Sunnyvale, California Type: Public Company Founded: 1998",
+   "url": "https://www.linkedin.com/company/actelis-networks",
+   "date": "2026-01-28"
   },
-  "signals": [
-    "其「managed layer 2 fiber switches and aggregation devices」为标准以太网品类，理论上可外购 OEM；但政府/军方客户结构下中国产品难入"
-  ],
-  "risks": [
-    "守界：军方、铁路、联邦政府为其核心市场——Saga 不供；TAA/NDAA 原产地限制",
-    "上市制造商、潜在竞争者；S 重点但仅 1 次回复"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 30,
-    "why": "待核型：唯一路径是面向其非政府商业/海外（如印度运营商）项目的 OEM 标准 L2 光纤汇聚交换机（STI-480XGGM / STC-424XGGM 口型，OEM 30% 档）；在对方明确非 TAA 用途前不报价"
-  },
-  "email_hook": "For the non-federal and overseas carrier projects where TAA does not apply, we can supply standard L2+ fibre aggregation switches (8×GE + 4×10G SFP+, −40 to +75 °C) under the Actelis label; is there such a programme where a second source would help?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度绑定（7 封实质来信、两年：2024-09 Casey「Maybe…」→ 2025-01 Michal 要数据表 + Casey「Let us review」→ 2025-04「How much are they?」→ $500 → 2025-08「keep you in mind」→ 2025-10 要规格书与手册 → 2026-03「Thank you…」；无样品无单）",
-      "type": "美国上市宽带接入设备商（Actelis；Casey = VP Sales Strategic Accounts，Michal = 产品）——第一档品牌商，接入侧（铜/光宽带 + 工业以太网）",
-      "sieve": "3（数据表 + 价格 + 手册，三次）",
-      "stop": "每次对话都停在 Saga 发完资料之后：Casey 从不说「不」，只说「review / keep in mind」；Saga 从不问「评审结论是什么」——C10 一句话缺位",
-      "revive": "一句话问 2025-10 要走的 24 口 SFP 汇聚规格书/手册评审结果；并把 2026-09 新固件 7.5 的 L2+/IPv6 变化作为「有实质进展」的理由",
-      "lane": "US 主攻；品牌商",
-      "cadence": "季度一封只含实质进展的信；不发 PoE 小品",
-      "evidence": "k=421dd559ac7a7b63（Maybe）；b591a174013b884b（Michal 要 datasheet）；4b1f19886629af5d（Let us review）；5f74509fff9d6018（How much）；d6394cf0f807b767（$500 STI-42424XGGPM-4BT）；ad286e0945b31160（keep in mind）；2818350b0dbd1e1a（spec sheet + manual）；840ce51782b3829d（Thank you…）；第 19 批回补来信原文 4 条（gmail_s/gmail_a）"
-    },
-    "situation": "Casey 每隔几个月回一句，从「Maybe」到「How much」到「spec sheet and user manual」——七次回信没有一个「不」，但也没有一次 Saga 追问评审结果。Actelis 的产品是宽带接入（铜/光 + 工业），Saga 的 24 口 SFP 汇聚和工业 L3 PoE 对它是补线而非主线。",
-    "need": "补线：24 口 SFP 汇聚（10G 上联）、工业 L3 PoE。",
-    "breakpoint": "没有闭环问题。",
-    "saga_now": {
-      "p1": "STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书）",
-      "tier": 30,
-      "price": "再触价 STI-42424XGGPM-4BT(L3) $550（= L3 档 2026-06 PDF 上限，30% 档算出 $563.5 超上限取上限；2025-04 实报 $500 是老汇率 7.2 下的 25% 档，信里只用汇率解释涨幅，不提 6 月调价；第 73 批 2026-10-24 复核——L2+ 款上限 $456.5 不适用，他要的是 L3）；30% 档算出 $466 超上限故取上限；低于 2025-04 实报 $500 可直接写；第 73 批 2026-10-24 改掉信稿里编造的「$550 / PCB-RAM 涨价」）；$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档；历史报价（邮件原话，老汇率）：2025-04-29 STI-42424XGGPM-4BT 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-12 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）｜2025-04 报过 $500（STI-42424XGGPM-4BT L3）；2026-10 主表 $550 EXW——信里按主表更新并解释；群发里他已看到的价（续，第 66 批全量复核）：2025-01-03 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）",
-      "why": "上市品牌商 + VP 直联 + 七次回复｜已发资料（勿重发）：STC-4168XGGCM(2025-01-04)、Marvell Based CLI Manual(2025-01-04)、Marvell Based Web Manual(2025-01-04)、Saga Software Function List-release 7.(2025-03-28)、STI-42424XGGPM-4BT(2025-04-29)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": "UL/NEBS 仓库明确无 → 若对方要求则直接回「无」"
-    },
-    "next_move": {
-      "when": "现在",
-      "channel": "S 邮箱 → pchurley@actelis.com（回到 10G Enterprise SFP Switch 串）",
-      "action": "一句话问评审结论；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-      "one_question": "Casey — after your team reviewed the 24-port SFP aggregation spec and manual last October, was there a specific gap (features, certification, price) that kept it off the list?"
-    },
-    "facts": [
-      {
-        "date": "2024-09-26",
-        "dir": "来",
-        "who": "pchurley@actelis.com",
-        "quote": "Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2",
-        "why": "来信原文（主题「RE: [External]8 Port 2.5G Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "421dd559ac7a7b63"
-      },
-      {
-        "date": "2024-09-27",
-        "dir": "去",
-        "who": "Saga（Simon）",
-        "quote": "Hi, Casey, I noticed Residential Broadband and Business Ethernet Connectivity services on your website. So maybe... I have a client from Singapore who mainly does Internet Fibre Broadband Links. Please see attached information(this is what they purchased) and let me know if you need samples for test…",
-        "why": "Saga 实质答复原文（主题「Re: [External]8 Port 2.5G Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-        "k": "5cb1b1ebf2e01948"
-      },
-      {
-        "date": "2025-01-03",
-        "dir": "来",
-        "who": "Michal Winkler",
-        "quote": "Thank you for approaching us. Can you please share a data sheet of the switch ?",
-        "why": "产品侧介入",
-        "k": "b591a174013b884b"
-      },
-      {
-        "date": "2025-01-04",
-        "dir": "来",
-        "who": "pchurley@actelis.com",
-        "quote": "Simon, Thank you for the information. Let us review. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732",
-        "why": "来信原文（主题「RE: [External]24 Port Fiber Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "4b1f19886629af5d"
-      },
-      {
-        "date": "2025-04-28",
-        "dir": "来",
-        "who": "Casey Hurley",
-        "quote": "How much are they?",
-        "why": "问价",
-        "k": "5f74509fff9d6018"
-      },
-      {
-        "date": "2025-04-29",
-        "dir": "去",
-        "who": "Saga（Simon）",
-        "quote": "Hi, Casey, 500usd/pc, STI-42424XGGPM-4BT 4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE L3 Managed, 20*PoE af/at+4*PoE af/at/bt, 370W budget Marvell Chip, Active PoE, DC48V output DC36V~DC72V(Removable 2*2-PIN Industrial Terminal Block), -40°C to 75°C, Din mounted",
-        "why": "历史报价点（主题「Re: [External]L3 Managed Switch」；第 20 批从 gmail_s 回补）：STI-42424XGGPM-4BT 500usd",
-        "k": "d6394cf0f807b767"
-      },
-      {
-        "date": "2025-08-27",
-        "dir": "来",
-        "who": "pchurley@actelis.com",
-        "quote": "Simon, Thank you. We will keep you in mind for future projects. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7",
-        "why": "来信原文（主题「RE: [External]90W PoE Managed Switc」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "ad286e0945b31160"
-      },
-      {
-        "date": "2025-10-29",
-        "dir": "来",
-        "who": "Casey",
-        "quote": "Do you have a spec sheet on this unit and a user manual?",
-        "why": "三次索资料",
-        "k": "2818350b0dbd1e1a"
-      },
-      {
-        "date": "2026-03-02",
-        "dir": "来",
-        "who": "pchurley@actelis.com",
-        "quote": "Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-63",
-        "why": "来信原文（主题「RE: [External]Updated Ethernet Swit」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "840ce51782b3829d"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "24-port SFP aggregation switch — one question",
-      "body": "Hi, Casey,\n\nLast October your team asked for the spec sheet and user manual of our 24-port SFP aggregation switch (4x 10G uplinks) and we sent both. Since then no feedback — which usually means something did not fit.\n\nIf it is useful: the industrial L3 24-port PoE with 4x 10G SFP+ (STI-42424XGGPM-4BT) was $500 USD EXW in April 2025; today it is $550 USD EXW (the RMB/USD rate moved from 7.2 to 6.7 since then), MOQ 1, valid 15 days from this mail; the aggregation SFP box is priced on request for OEM quantities.\n\nOne question: was there a specific gap — a feature, a certification (UL/NEBS), or price — that kept the 24-SFP unit off your list? A one-line answer is enough; it tells us whether to keep investing in Actelis.\n\nThank you.\nSimon"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "S 重点；1 次实质回复；15 次跟进",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Casey Hurley",
+   "role": "VP Sales - Strategic Accounts（邮件签名）",
+   "email": "pchurley@actelis.com",
+   "phone": "",
+   "source": "S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）"
+  },
+  {
+   "name": "Michal Winkler",
+   "role": "来信署名人（职务未在邮件署名里出现）",
+   "email": "michalw@actelis.com",
+   "phone": "",
+   "source": "S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 公告核对）"
+ },
+ "company_facts": {
+  "legal_name": "Actelis Networks, Inc.（NASDAQ: ASNS）",
+  "founded": "1998",
+  "hq": "Fremont / Sunnyvale, California, USA",
+  "size": "51–200（LinkedIn）",
+  "other": "产品：ML600 系列 EAD（铜缆绑定 Ethernet，1–16 对，最高 240 Mbps）、ML684D 8 口硬化 DIN 混合交换机（2 SFP + 6 FE，−40~+75 ℃，12–48 VDC）、ML630R L3、GL800/GL900 千兆混合方案（2023-05）；客户案例含印度 Beetel/大型运营商"
+ },
+ "business_lines": [
+  "混合光纤-铜缆以太网接入设备（EAD）",
+  "硬化 L2 光纤交换机与汇聚",
+  "网管与网络安全加固"
+ ],
+ "products_seen": [
+  {
+   "brand": "Actelis",
+   "model": "ML684D",
+   "spec": "8 口硬化工业 DIN 混合光纤-铜缆管理交换机：2×100/1000 SFP + 6×10/100BT + 铜缆绑定，−40~+75 ℃，12–48 VDC 冗余",
+   "url": "https://actelis.com/portfolio/ml684d/",
+   "date": "2024-02-01",
+   "saga": "—（铜缆绑定技术，Saga 无；纯以太网侧可对位 STI-280DGGM）"
+  },
+  {
+   "brand": "Actelis",
+   "model": "ML640Ex 系列",
+   "spec": "6 口硬化管理混合交换机，2×100/1000F + 4×100/1000BT，MACsec 256-bit（EL 型）",
+   "url": "https://actelis.com/portfolio/ml640ex/",
+   "date": "2024-02-07",
+   "saga": "—"
+  }
+ ],
+ "channels": {
+  "网站": "https://actelis.com/",
+  "LinkedIn": "https://www.linkedin.com/company/actelis-networks"
+ },
+ "signals": [
+  "其「managed layer 2 fiber switches and aggregation devices」为标准以太网品类，理论上可外购 OEM；但政府/军方客户结构下中国产品难入"
+ ],
+ "risks": [
+  "守界：军方、铁路、联邦政府为其核心市场——Saga 不供；TAA/NDAA 原产地限制",
+  "上市制造商、潜在竞争者；S 重点但仅 1 次回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "待核型：唯一路径是面向其非政府商业/海外（如印度运营商）项目的 OEM 标准 L2 光纤汇聚交换机（STI-480XGGM / STC-424XGGM 口型，OEM 30% 档）；在对方明确非 TAA 用途前不报价"
+ },
+ "email_hook": "For the non-federal and overseas carrier projects where TAA does not apply, we can supply standard L2+ fibre aggregation switches (8×GE + 4×10G SFP+, −40 to +75 °C) under the Actelis label; is there such a programme where a second source would help?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（7 封实质来信、两年：2024-09 Casey「Maybe…」→ 2025-01 Michal 要数据表 + Casey「Let us review」→ 2025-04「How much are they?」→ $500 → 2025-08「keep you in mind」→ 2025-10 要规格书与手册 → 2026-03「Thank you…」；无样品无单；Elsa 箱：`to:actelis.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 7）（第 74 批(h)））",
+   "type": "美国上市宽带接入设备商（Actelis；Casey = VP Sales Strategic Accounts，Michal = 产品）——第一档品牌商，接入侧（铜/光宽带 + 工业以太网）",
+   "sieve": "3（数据表 + 价格 + 手册，三次）",
+   "stop": "每次对话都停在 Saga 发完资料之后：Casey 从不说「不」，只说「review / keep in mind」；Saga 从不问「评审结论是什么」——C10 一句话缺位",
+   "revive": "一句话问 2025-10 要走的 24 口 SFP 汇聚规格书/手册评审结果；并把 2026-09 新固件 7.5 的 L2+/IPv6 变化作为「有实质进展」的理由",
+   "lane": "US 主攻；品牌商",
+   "cadence": "季度一封只含实质进展的信；不发 PoE 小品",
+   "evidence": "k=421dd559ac7a7b63（Maybe）；b591a174013b884b（Michal 要 datasheet）；4b1f19886629af5d（Let us review）；5f74509fff9d6018（How much）；d6394cf0f807b767（$500 STI-42424XGGPM-4BT）；ad286e0945b31160（keep in mind）；2818350b0dbd1e1a（spec sheet + manual）；840ce51782b3829d（Thank you…）；第 19 批回补来信原文 4 条（gmail_s/gmail_a）"
+  },
+  "situation": "Casey 每隔几个月回一句，从「Maybe」到「How much」到「spec sheet and user manual」——七次回信没有一个「不」，但也没有一次 Saga 追问评审结果。Actelis 的产品是宽带接入（铜/光 + 工业），Saga 的 24 口 SFP 汇聚和工业 L3 PoE 对它是补线而非主线。",
+  "need": "补线：24 口 SFP 汇聚（10G 上联）、工业 L3 PoE。",
+  "breakpoint": "没有闭环问题。",
+  "saga_now": {
+   "p1": "STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书）",
+   "tier": 30,
+   "price": "再触价 STI-42424XGGPM-4BT(L3) $550（= L3 档 2026-06 PDF 上限，30% 档算出 $563.5 超上限取上限；2025-04 实报 $500 是老汇率 7.2 下的 25% 档，信里只用汇率解释涨幅，不提 6 月调价；第 73 批 2026-10-24 复核——L2+ 款上限 $456.5 不适用，他要的是 L3）；30% 档算出 $466 超上限故取上限；低于 2025-04 实报 $500 可直接写；第 73 批 2026-10-24 改掉信稿里编造的「$550 / PCB-RAM 涨价」）；$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档；历史报价（邮件原话，老汇率）：2025-04-29 STI-42424XGGPM-4BT 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-12 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）｜2025-04 报过 $500（STI-42424XGGPM-4BT L3）；2026-10 主表 $550 EXW——信里按主表更新并解释；群发里他已看到的价（续，第 66 批全量复核）：2025-01-03 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）",
+   "why": "上市品牌商 + VP 直联 + 七次回复｜已发资料（勿重发）：STC-4168XGGCM(2025-01-04)、Marvell Based CLI Manual(2025-01-04)、Marvell Based Web Manual(2025-01-04)、Saga Software Function List-release 7.(2025-03-28)、STI-42424XGGPM-4BT(2025-04-29)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": "UL/NEBS 仓库明确无 → 若对方要求则直接回「无」"
+  },
+  "next_move": {
+   "when": "现在",
+   "channel": "S 邮箱 → pchurley@actelis.com（回到 10G Enterprise SFP Switch 串）",
+   "action": "一句话问评审结论；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+   "one_question": "Casey — after your team reviewed the 24-port SFP aggregation spec and manual last October, was there a specific gap (features, certification, price) that kept it off the list?"
+  },
+  "facts": [
+   {
+    "date": "2024-09-26",
+    "dir": "来",
+    "who": "pchurley@actelis.com",
+    "quote": "Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2",
+    "why": "来信原文（主题「RE: [External]8 Port 2.5G Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "421dd559ac7a7b63"
+   },
+   {
+    "date": "2024-09-27",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Casey, I noticed Residential Broadband and Business Ethernet Connectivity services on your website. So maybe... I have a client from Singapore who mainly does Internet Fibre Broadband Links. Please see attached information(this is what they purchased) and let me know if you need samples for test…",
+    "why": "Saga 实质答复原文（主题「Re: [External]8 Port 2.5G Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "5cb1b1ebf2e01948"
+   },
+   {
+    "date": "2025-01-03",
+    "dir": "来",
+    "who": "Michal Winkler",
+    "quote": "Thank you for approaching us. Can you please share a data sheet of the switch ?",
+    "why": "产品侧介入",
+    "k": "b591a174013b884b"
+   },
+   {
+    "date": "2025-01-04",
+    "dir": "来",
+    "who": "pchurley@actelis.com",
+    "quote": "Simon, Thank you for the information. Let us review. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732",
+    "why": "来信原文（主题「RE: [External]24 Port Fiber Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "4b1f19886629af5d"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "来",
+    "who": "Casey Hurley",
+    "quote": "How much are they?",
+    "why": "问价",
+    "k": "5f74509fff9d6018"
+   },
+   {
+    "date": "2025-04-29",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Casey, 500usd/pc, STI-42424XGGPM-4BT 4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE L3 Managed, 20*PoE af/at+4*PoE af/at/bt, 370W budget Marvell Chip, Active PoE, DC48V output DC36V~DC72V(Removable 2*2-PIN Industrial Terminal Block), -40°C to 75°C, Din mounted",
+    "why": "历史报价点（主题「Re: [External]L3 Managed Switch」；第 20 批从 gmail_s 回补）：STI-42424XGGPM-4BT 500usd",
+    "k": "d6394cf0f807b767"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "来",
+    "who": "pchurley@actelis.com",
+    "quote": "Simon, Thank you. We will keep you in mind for future projects. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7",
+    "why": "来信原文（主题「RE: [External]90W PoE Managed Switc」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "ad286e0945b31160"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "来",
+    "who": "Casey",
+    "quote": "Do you have a spec sheet on this unit and a user manual?",
+    "why": "三次索资料",
+    "k": "2818350b0dbd1e1a"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "来",
+    "who": "pchurley@actelis.com",
+    "quote": "Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-63",
+    "why": "来信原文（主题「RE: [External]Updated Ethernet Swit」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "840ce51782b3829d"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "24-port SFP aggregation switch — one question",
+   "body": "Hi, Casey,\n\nLast October your team asked for the spec sheet and user manual of our 24-port SFP aggregation switch (4x 10G uplinks) and we sent both. Since then no feedback — which usually means something did not fit.\n\nIf it is useful: the industrial L3 24-port PoE with 4x 10G SFP+ (STI-42424XGGPM-4BT) was $500 USD EXW in April 2025; today it is $550 USD EXW (the RMB/USD rate moved from 7.2 to 6.7 since then), MOQ 1, valid 15 days from this mail; the aggregation SFP box is priced on request for OEM quantities.\n\nOne question: was there a specific gap — a feature, a certification (UL/NEBS), or price — that kept the 24-SFP unit off your list? A one-line answer is enough; it tells us whether to keep investing in Actelis.\n\nThank you.\nSimon"
+  },
+  "as_of": "2026-10-24"
+ }
 }

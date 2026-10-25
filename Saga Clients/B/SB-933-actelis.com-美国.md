@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-933` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（7 封实质来信、两年：2024-09 Casey「Maybe…」→ 2025-01 Michal 要数据表 + Casey「Let us review」→ 2025-04「How much are they?」→ $500 → 2025-08「keep you in mind」→ 2025-10 要规格书与手册 → 2026-03「Thank you…」；无样品无单）** ｜ 类型：美国上市宽带接入设备商（Actelis；Casey = VP Sales Strategic Accounts，Michal = 产品）——第一档品牌商，接入侧（铜/光宽带 + 工业以太网） ｜ 筛子：3（数据表 + 价格 + 手册，三次） ｜ 停点：每次对话都停在 Saga 发完资料之后：Casey 从不说「不」，只说「review / keep in mind」；Saga 从不问「评审结论是什么」——C10 一句话缺位 ｜ 复活：一句话问 2025-10 要走的 24 口 SFP 汇聚规格书/手册评审结果；并把 2026-09 新固件 7.5 的 L2+/IPv6 变化作为「有实质进展」的理由 ｜ 通路：US 主攻；品牌商 ｜ 节奏：季度一封只含实质进展的信；不发 PoE 小品 ｜ 证据：k=421dd559ac7a7b63（Maybe）；b591a174013b884b（Michal 要 datasheet）；4b1f19886629af5d（Let us review）；5f74509fff9d6018（How much）；d6394cf0f807b767（$500 STI-42424XGGPM-4BT）；ad286e0945b31160（keep in mind）；2818350b0dbd1e1a（spec sheet + manual）；840ce51782b3829d（Thank you…）；第 19 批回补来信原文 4 条（gmail_s/gmail_a）
+- **绑定等级：轻度绑定（7 封实质来信、两年：2024-09 Casey「Maybe…」→ 2025-01 Michal 要数据表 + Casey「Let us review」→ 2025-04「How much are they?」→ $500 → 2025-08「keep you in mind」→ 2025-10 要规格书与手册 → 2026-03「Thank you…」；无样品无单；Elsa 箱：`to:actelis.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 7）（第 74 批(h)））** ｜ 类型：美国上市宽带接入设备商（Actelis；Casey = VP Sales Strategic Accounts，Michal = 产品）——第一档品牌商，接入侧（铜/光宽带 + 工业以太网） ｜ 筛子：3（数据表 + 价格 + 手册，三次） ｜ 停点：每次对话都停在 Saga 发完资料之后：Casey 从不说「不」，只说「review / keep in mind」；Saga 从不问「评审结论是什么」——C10 一句话缺位 ｜ 复活：一句话问 2025-10 要走的 24 口 SFP 汇聚规格书/手册评审结果；并把 2026-09 新固件 7.5 的 L2+/IPv6 变化作为「有实质进展」的理由 ｜ 通路：US 主攻；品牌商 ｜ 节奏：季度一封只含实质进展的信；不发 PoE 小品 ｜ 证据：k=421dd559ac7a7b63（Maybe）；b591a174013b884b（Michal 要 datasheet）；4b1f19886629af5d（Let us review）；5f74509fff9d6018（How much）；d6394cf0f807b767（$500 STI-42424XGGPM-4BT）；ad286e0945b31160（keep in mind）；2818350b0dbd1e1a（spec sheet + manual）；840ce51782b3829d（Thank you…）；第 19 批回补来信原文 4 条（gmail_s/gmail_a）
 - **现状一句话**：Casey 每隔几个月回一句，从「Maybe」到「How much」到「spec sheet and user manual」——七次回信没有一个「不」，但也没有一次 Saga 追问评审结果。Actelis 的产品是宽带接入（铜/光 + 工业），Saga 的 24 口 SFP 汇聚和工业 L3 PoE 对它是补线而非主线。
 - **对方真实需求（有据）**：补线：24 口 SFP 汇聚（10G 上联）、工业 L3 PoE。
 - **断点 / 为什么停在这里**：没有闭环问题。
@@ -314,12 +314,12 @@ Simon
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

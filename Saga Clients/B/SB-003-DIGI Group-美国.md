@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-003` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（3 封实质来信：2025-06-26 明确「We might be interesting to OEM those switches and add them to our offer and catalog」→ IGMP 是硬要求 → 2025-11-28 问 Booster OEM 价 → Simon 2025-12-01 报 STI-488XGGBPM $215；2026-01 CENTEC 核心 OEM 信后无回）** ｜ 类型：美国视频/广播光传输品牌商（Thor Fiber / Thor Broadcast；Stan = 产品负责人）——第一档 OEM 品牌商，video over IP 必须 IGMP ｜ 筛子：3（两次问 OEM 价、一次技术门槛） ｜ 停点：两处：① 2025-06 Stan 要「best OEM prices for all those models」，Simon 答「OEM 价等样品测试后再谈，大概 10% 折扣」——把 OEM 报价推后了；② 2025-12-01 报了 $215 后无回，2026-01 的 CENTEC 信也无回 ｜ 复活：一张「OEM 价格表」直接给（管理型 + IGMP Snooping/Querier 标注），不要再等样品 ｜ 通路：US 主攻；品牌商 OEM = 目标顺位第一 ｜ 节奏：现在一封 OEM 价表；之后季度 ｜ 证据：k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度绑定（3 封实质来信：2025-06-26 明确「We might be interesting to OEM those switches and add them to our offer and catalog」→ IGMP 是硬要求 → 2025-11-28 问 Booster OEM 价 → Simon 2025-12-01 报 STI-488XGGBPM $215；2026-01 CENTEC 核心 OEM 信后无回；Elsa 箱：`to:thorfiber.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 3）（第 74 批(h)））** ｜ 类型：美国视频/广播光传输品牌商（Thor Fiber / Thor Broadcast；Stan = 产品负责人）——第一档 OEM 品牌商，video over IP 必须 IGMP ｜ 筛子：3（两次问 OEM 价、一次技术门槛） ｜ 停点：两处：① 2025-06 Stan 要「best OEM prices for all those models」，Simon 答「OEM 价等样品测试后再谈，大概 10% 折扣」——把 OEM 报价推后了；② 2025-12-01 报了 $215 后无回，2026-01 的 CENTEC 信也无回 ｜ 复活：一张「OEM 价格表」直接给（管理型 + IGMP Snooping/Querier 标注），不要再等样品 ｜ 通路：US 主攻；品牌商 OEM = 目标顺位第一 ｜ 节奏：现在一封 OEM 价表；之后季度 ｜ 证据：k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：Stan 两次开口都是「OEM 价格表」，Saga 两次都没有给整表：第一次推到样品后，第二次只报了一款。对一个做 video over IP 的品牌商，IGMP 是门槛而不是加分项，所以整表应只列管理型并标注 IGMP v2/v3 Snooping + Querier。
 - **对方真实需求（有据）**：OEM 品牌化的管理型工业 PoE（IGMP 必备）+ 光传输配套。
 - **断点 / 为什么停在这里**：OEM 价格表未给全。
@@ -315,12 +315,12 @@ Simon
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 83）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 83）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

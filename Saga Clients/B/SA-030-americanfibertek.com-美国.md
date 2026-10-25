@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-030` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（2024-11 问 PoE++ 版 + 两款价格 → 给资料 → 无；研究档：TAA/UL 冲突户）** ｜ 类型：美国品牌商（本土制造 + TAA 外采线）；Tim Orselli ｜ 筛子：2 ｜ 停点：TAA/UL 要求（INH 红线） ｜ 复活：不承诺 TAA/UL → 无复活路径 ｜ 通路：US ｜ 节奏：2024-06 → 2026-09 去信 25 封；最后来信 2024-11-22 ｜ 证据：k=1b4ccb2f0365c41d / 0bff4caab85195a3
+- **绑定等级：未绑定（2024-11 问 PoE++ 版 + 两款价格 → 给资料 → 无；研究档：TAA/UL 冲突户；Elsa 箱：`to:americanfibertek.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 1）（第 74 批(h)））** ｜ 类型：美国品牌商（本土制造 + TAA 外采线）；Tim Orselli ｜ 筛子：2 ｜ 停点：TAA/UL 要求（INH 红线） ｜ 复活：不承诺 TAA/UL → 无复活路径 ｜ 通路：US ｜ 节奏：2024-06 → 2026-09 去信 25 封；最后来信 2024-11-22 ｜ 证据：k=1b4ccb2f0365c41d / 0bff4caab85195a3
 - **现状一句话**：Tim 2024-11-22 问「Do you have it in PoE++ as well? Send pricing for both」，Simon 11-23 发了报价单（STI-288GP $60 / STI-288DGGPM-2BT $60）+ 两份 datasheet；之后无回。AFI 的外采线要 TAA/UL（INH 红线），所以没有复活路径。
 - **对方真实需求（有据）**：8 口工业 PoE/PoE++（TAA）。
 - **断点 / 为什么停在这里**：TAA 边界。
@@ -311,12 +311,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -1,125 +1,125 @@
 {
-  "code": "SB-324",
-  "name_official": "ROBOfiber, Inc.（美国）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（robofiber.com，快照 2026-10-21）",
-  "summary": "美国光模块制造商 / 品牌（400G–FE 全速率收发器、MC、交换机；sfp 511 / switch 268 / poe 156 / industrial 140），表内「MC SFP（主要）FS 自己的牌子，别人在卖他们的产品，优质公司」；群发 18 次无回复。自有品牌 → OEM 30%（MC / 工业 FS 贴牌）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "ROBOfiber（自有）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "光模块制造（400G/100G/40G/10G/GE/FE）、MC、交换机",
-      "quote": "ROBOfiber manufactures high quality fiber optic pluggable transceivers in a large variety of formats and speeds, including 400G, 100G, 40G, 10G, Gigabit, Fast Ethernet",
-      "url": "https://robofiber.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC SFP（主要）FS 自己的牌子；别人在卖他们的产品；优质公司",
-      "quote": "兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（销售）",
-      "title": "Sales",
-      "email": "sales@robofiber.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-324",
+ "name_official": "ROBOfiber, Inc.（美国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（robofiber.com，快照 2026-10-21）",
+ "summary": "美国光模块制造商 / 品牌（400G–FE 全速率收发器、MC、交换机；sfp 511 / switch 268 / poe 156 / industrial 140），表内「MC SFP（主要）FS 自己的牌子，别人在卖他们的产品，优质公司」；群发 18 次无回复。自有品牌 → OEM 30%（MC / 工业 FS 贴牌）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ROBOfiber（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "光模块制造（400G/100G/40G/10G/GE/FE）、MC、交换机",
+   "quote": "ROBOfiber manufactures high quality fiber optic pluggable transceivers in a large variety of formats and speeds, including 400G, 100G, 40G, 10G, Gigabit, Fast Ethernet",
+   "url": "https://robofiber.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ROBOfiber, Inc.",
-    "founded": "（待核）",
-    "hq": "USA",
-    "size": "中小型品牌商（光模块）",
-    "other": "MC / 交换机线外购贴牌可能"
-  },
-  "business_lines": [
-    "光模块（自产 / 自有品牌）",
-    "MC / 工业交换机（贴牌）"
-  ],
-  "channels": {
-    "role": "品牌商（OEM 采购）",
-    "region": "美国"
-  },
-  "signals": [
-    "自有品牌 MC / FS → 贴 ROBOfiber 标"
-  ],
-  "risks": [
-    "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-    "18 次群发无回复；无具名联系人"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 30,
-    "why": "ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。"
-  },
-  "email_hook": "For the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 4 封被打开，0 回；收件 sales@robofiber.com；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
-      "type": "—",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "US 主攻（四主）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 29，Opened 标签 4（Simon 群发追踪）；用户表：「兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品」；研究档 risks：美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
-    },
-    "situation": "美国光模块制造商 / 品牌（400G–FE 全速率收发器、MC、交换机；sfp 511 / switch 268 / poe 156 / industrial 140），表内「MC SFP（主要）FS 自己的牌子，别人在卖他们的产品，优质公司」；群发 18 次无回复。自有品牌 → OEM 30%（MC / 工业 FS 贴牌）。",
-    "need": "ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。",
-    "breakpoint": "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 30,
-      "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-29 $240（24 Port Fiber Switch）、2025-04-21 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
-      "why": "ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。已打开的主题（4/29 封有打开记录）：「24V poe switch」(2024-07-29)、「24 Port Fiber Switch」(2025-01-29)、「48 Port PoE Managed Switch」(2025-04-21)、「Optional Marvell Chipset Solutions」(2025-11-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → sales@robofiber.com",
-      "action": "短信一问（email_hook）",
-      "one_question": "For the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-18",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
-        "why": "29 封 / 4 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-18（29 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Industrial PoE Switch",
-      "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC SFP（主要）FS 自己的牌子；别人在卖他们的产品；优质公司",
+   "quote": "兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（销售）",
+   "title": "Sales",
+   "email": "sales@robofiber.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "ROBOfiber, Inc.",
+  "founded": "（待核）",
+  "hq": "USA",
+  "size": "中小型品牌商（光模块）",
+  "other": "MC / 交换机线外购贴牌可能"
+ },
+ "business_lines": [
+  "光模块（自产 / 自有品牌）",
+  "MC / 工业交换机（贴牌）"
+ ],
+ "channels": {
+  "role": "品牌商（OEM 采购）",
+  "region": "美国"
+ },
+ "signals": [
+  "自有品牌 MC / FS → 贴 ROBOfiber 标"
+ ],
+ "risks": [
+  "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "18 次群发无回复；无具名联系人"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。"
+ },
+ "email_hook": "For the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 4 封被打开，0 回；收件 sales@robofiber.com；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:robofiber.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 29，Opened 标签 4（Simon 群发追踪）；用户表：「兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品」；研究档 risks：美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+  },
+  "situation": "美国光模块制造商 / 品牌（400G–FE 全速率收发器、MC、交换机；sfp 511 / switch 268 / poe 156 / industrial 140），表内「MC SFP（主要）FS 自己的牌子，别人在卖他们的产品，优质公司」；群发 18 次无回复。自有品牌 → OEM 30%（MC / 工业 FS 贴牌）。",
+  "need": "ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。",
+  "breakpoint": "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 30,
+   "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-29 $240（24 Port Fiber Switch）、2025-04-21 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
+   "why": "ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。已打开的主题（4/29 封有打开记录）：「24V poe switch」(2024-07-29)、「24 Port Fiber Switch」(2025-01-29)、「48 Port PoE Managed Switch」(2025-04-21)、「Optional Marvell Chipset Solutions」(2025-11-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → sales@robofiber.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-18",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "29 封 / 4 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-18（29 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Industrial PoE Switch",
+   "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

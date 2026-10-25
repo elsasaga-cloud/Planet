@@ -1,140 +1,140 @@
 {
-  "code": "SB-168",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（avycon.com，快照 2026-10-21）",
-  "summary": "加拿大/美国 AVYCON（安防摄像机/录像机品牌，经销商活动（APD product show）；表内「商业 PoE 工业 FS 周边产品，有 ONV 的」「质量高」；KP John L（President）、Jorge D（Technical Support Team Manager））；群发 8 次无回复。",
-  "type": "安防品牌商（北美，PoE 现 ONV）",
-  "size": "",
-  "brands_seen": [
-    "ONV"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：AVYCON",
-      "quote": "",
-      "url": "https://www.avycon.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业POE 工业FS 周边产品 有ONV的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "AVYCON 站点",
-      "quote": "Home | AVYCON ; /event-details/apd-pig-roast-product-show",
-      "url": "https://www.avycon.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业 PoE 工业 FS 有 ONV",
-      "quote": "商业POE 工业FS 周边产品 有ONV的；质量高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "John L",
-      "title": "President",
-      "email": "john@avycon.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Jorge D",
-      "title": "Technical Support Team Manager",
-      "email": "info@avycon.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-168",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（avycon.com，快照 2026-10-21）",
+ "summary": "加拿大/美国 AVYCON（安防摄像机/录像机品牌，经销商活动（APD product show）；表内「商业 PoE 工业 FS 周边产品，有 ONV 的」「质量高」；KP John L（President）、Jorge D（Technical Support Team Manager））；群发 8 次无回复。",
+ "type": "安防品牌商（北美，PoE 现 ONV）",
+ "size": "",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：AVYCON",
+   "quote": "",
+   "url": "https://www.avycon.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "加拿大",
-    "other": "官网 avycon.com，语言 en，快照状态 ok；角色判定来源：待核"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业POE 工业FS 周边产品 有ONV的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "安防摄像机 / 录像机 / PoE（自有品牌 AVYCON）"
-  ],
-  "channels": {
-    "role": "安防品牌商（北美，PoE 现 ONV）",
-    "region": "加拿大",
-    "contact": "info@avycon.com、john@avycon.com"
+  {
+   "kind": "官网快照",
+   "claim": "AVYCON 站点",
+   "quote": "Home | AVYCON ; /event-details/apd-pig-roast-product-show",
+   "url": "https://www.avycon.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "页面 /event-details/apd-pig-roast-product-show、/event-details/apd-amarillo-tx-bbq-product-show（经销商活动）",
-    "表内：商业 PoE 工业 FS 周边产品 有 ONV 的；质量高；KP John L / President；Jorge D / Technical Support Team Manager"
-  ],
-  "risks": [
-    "现供 ONV（深圳）价格基准低；NDAA 场景（§889 适用范围待核）；8 次无回复 → 改向 President 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "AVYCON 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 AVYCON 标"
-  },
-  "email_hook": "John, for the AVYCON-branded PoE switches sold with your cameras and recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, industrial 8-PoE) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 29 封 2024→2026，无记录打开，0 回；收件 info@avycon.com, john@avycon.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-      "type": "安防品牌商（北美，PoE 现 ONV）",
-      "sieve": "1（只收到群发）",
-      "stop": "29 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "CA 主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 29；用户表：「商业POE 工业FS 周边产品 有ONV的」；研究档 risks：现供 ONV（深圳）价格基准低；NDAA 场景（§889 适用范围待核）；8 次无回复 → 改向 President 具名首触"
-    },
-    "situation": "加拿大/美国 AVYCON（安防摄像机/录像机品牌，经销商活动（APD product show）；表内「商业 PoE 工业 FS 周边产品，有 ONV 的」「质量高」；KP John L（President）、Jorge D（Technical Support Team Manager））；群发 8 次无回复。",
-    "need": "AVYCON 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 AVYCON 标",
-    "breakpoint": "现供 ONV（深圳）价格基准低；NDAA 场景（§889 适用范围待核）；8 次无回复 → 改向 President 具名首触",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-27 $65（10G media converter）、2024-10-28 $65（10G Media Converter）、2025-01-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $220（48 port managed switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
-      "why": "AVYCON 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 AVYCON 标",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "John, for the AVYCON-branded PoE switches sold with your cameras and recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, industrial 8-PoE) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-07",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "29 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-07（29 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "商业POE 工业FS 周边产品 有ONV的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 工业 FS 有 ONV",
+   "quote": "商业POE 工业FS 周边产品 有ONV的；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "John L",
+   "title": "President",
+   "email": "john@avycon.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Jorge D",
+   "title": "Technical Support Team Manager",
+   "email": "info@avycon.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 avycon.com，语言 en，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "安防摄像机 / 录像机 / PoE（自有品牌 AVYCON）"
+ ],
+ "channels": {
+  "role": "安防品牌商（北美，PoE 现 ONV）",
+  "region": "加拿大",
+  "contact": "info@avycon.com、john@avycon.com"
+ },
+ "signals": [
+  "页面 /event-details/apd-pig-roast-product-show、/event-details/apd-amarillo-tx-bbq-product-show（经销商活动）",
+  "表内：商业 PoE 工业 FS 周边产品 有 ONV 的；质量高；KP John L / President；Jorge D / Technical Support Team Manager"
+ ],
+ "risks": [
+  "现供 ONV（深圳）价格基准低；NDAA 场景（§889 适用范围待核）；8 次无回复 → 改向 President 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "AVYCON 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 AVYCON 标"
+ },
+ "email_hook": "John, for the AVYCON-branded PoE switches sold with your cameras and recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, industrial 8-PoE) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 29 封 2024→2026，无记录打开，0 回；收件 info@avycon.com, john@avycon.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:avycon.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
+   "type": "安防品牌商（北美，PoE 现 ONV）",
+   "sieve": "1（只收到群发）",
+   "stop": "29 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "CA 主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 29；用户表：「商业POE 工业FS 周边产品 有ONV的」；研究档 risks：现供 ONV（深圳）价格基准低；NDAA 场景（§889 适用范围待核）；8 次无回复 → 改向 President 具名首触"
+  },
+  "situation": "加拿大/美国 AVYCON（安防摄像机/录像机品牌，经销商活动（APD product show）；表内「商业 PoE 工业 FS 周边产品，有 ONV 的」「质量高」；KP John L（President）、Jorge D（Technical Support Team Manager））；群发 8 次无回复。",
+  "need": "AVYCON 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 AVYCON 标",
+  "breakpoint": "现供 ONV（深圳）价格基准低；NDAA 场景（§889 适用范围待核）；8 次无回复 → 改向 President 具名首触",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-27 $65（10G media converter）、2024-10-28 $65（10G Media Converter）、2025-01-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $220（48 port managed switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
+   "why": "AVYCON 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 AVYCON 标",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "John, for the AVYCON-branded PoE switches sold with your cameras and recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, industrial 8-PoE) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-07",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "29 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-07（29 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业POE 工业FS 周边产品 有ONV的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

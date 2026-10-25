@@ -1,131 +1,131 @@
 {
-  "code": "SB-517",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（kyber-e.com，快照 2026-10-21）",
-  "summary": "美国 Kyber Electronics（「Innovative engineering kits and tools」工程套件与工具；表内「5 电口」；KP Justin Hansen）；群发 8 次无回复。",
-  "type": "工程套件小厂（美国，5 口交换机配套）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Kyber；品类词 布线 / 线缆",
-      "quote": "Innovative engineering kits and tools",
-      "url": "https://www.kyber-e.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "5电口",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Kyber 定位",
-      "quote": "HOME | Kyber ; Innovative engineering kits and tools",
-      "url": "https://www.kyber-e.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "5 电口",
-      "quote": "5电口",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Justin Hansen",
-      "title": "（负责人）",
-      "email": "justin@kyber-e.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-517",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（kyber-e.com，快照 2026-10-21）",
+ "summary": "美国 Kyber Electronics（「Innovative engineering kits and tools」工程套件与工具；表内「5 电口」；KP Justin Hansen）；群发 8 次无回复。",
+ "type": "工程套件小厂（美国，5 口交换机配套）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Kyber；品类词 布线 / 线缆",
+   "quote": "Innovative engineering kits and tools",
+   "url": "https://www.kyber-e.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 kyber-e.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "5电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工程套件 / 工具（美国）"
-  ],
-  "channels": {
-    "role": "工程套件小厂（美国，5 口交换机配套）",
-    "region": "美国",
-    "contact": "justin@kyber-e.com"
+  {
+   "kind": "官网快照",
+   "claim": "Kyber 定位",
+   "quote": "HOME | Kyber ; Innovative engineering kits and tools",
+   "url": "https://www.kyber-e.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：HOME | Kyber ; Innovative engineering kits and tools；页面 /all-products",
-    "表内：5 电口；KP Justin Hansen"
-  ],
-  "risks": [
-    "小厂配套（量小）；8 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-050GE",
-    "tier": 25,
-    "why": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）"
-  },
-  "email_hook": "Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 justin@kyber-e.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
-      "type": "工程套件小厂（美国，5 口交换机配套）",
-      "sieve": "1（只收到群发）",
-      "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "US 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 21；用户表：「5电口」；研究档 risks：小厂配套（量小）；8 次无回复"
-    },
-    "situation": "美国 Kyber Electronics（「Innovative engineering kits and tools」工程套件与工具；表内「5 电口」；KP Justin Hansen）；群发 8 次无回复。",
-    "need": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）",
-    "breakpoint": "小厂配套（量小）；8 次无回复",
-    "saga_now": {
-      "p1": "STI-050GE",
-      "tier": 25,
-      "price": "换人再触锚价 STI-050GE $25 EXW（最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
-      "why": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-        "why": "21 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2026-09-08（21 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "5电口",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "5 电口",
+   "quote": "5电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Justin Hansen",
+   "title": "（负责人）",
+   "email": "justin@kyber-e.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 kyber-e.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工程套件 / 工具（美国）"
+ ],
+ "channels": {
+  "role": "工程套件小厂（美国，5 口交换机配套）",
+  "region": "美国",
+  "contact": "justin@kyber-e.com"
+ },
+ "signals": [
+  "官网：HOME | Kyber ; Innovative engineering kits and tools；页面 /all-products",
+  "表内：5 电口；KP Justin Hansen"
+ ],
+ "risks": [
+  "小厂配套（量小）；8 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 25,
+  "why": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）"
+ },
+ "email_hook": "Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 justin@kyber-e.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:kyber-e.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(h)））",
+   "type": "工程套件小厂（美国，5 口交换机配套）",
+   "sieve": "1（只收到群发）",
+   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21；用户表：「5电口」；研究档 risks：小厂配套（量小）；8 次无回复"
+  },
+  "situation": "美国 Kyber Electronics（「Innovative engineering kits and tools」工程套件与工具；表内「5 电口」；KP Justin Hansen）；群发 8 次无回复。",
+  "need": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）",
+  "breakpoint": "小厂配套（量小）；8 次无回复",
+  "saga_now": {
+   "p1": "STI-050GE",
+   "tier": 25,
+   "price": "换人再触锚价 STI-050GE $25 EXW（最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
+   "why": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+    "why": "21 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2026-09-08（21 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "5电口",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

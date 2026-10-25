@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1336` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2026-10-03 一封实质来信「This actually does have my interest. What levels of customization… api availability for controller integration」；Simon 10-04 长回 + 10-19 催样，均无回）** ｜ 类型：美国小型媒体/IT 集成商（Fikes Media；业主直营）——第四档，但问的是定制 + API ｜ 筛子：2 ｜ 停点：API/控制器集成：Saga 线只有 SNMP/CLI/Web，无 REST/云控——若不直说会吊着（研究档已记） ｜ 复活：直说 SNMP + CLI 自动化可做、REST/云控不做 ｜ 通路：US 主攻 ｜ 节奏：来 1（10-03）/ 去 3（10-03 群发、10-04 长回、10-19 催）；最后动作是 Saga ｜ 证据：k=af638fab0ab5ad29（interest + API）；3c37c75887d3f132（定制清单）
+- **绑定等级：轻度触达（2026-10-03 一封实质来信「This actually does have my interest. What levels of customization… api availability for controller integration」；Simon 10-04 长回 + 10-19 催样，均无回；Elsa 箱：`to:fikesmedia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 1）（第 74 批(h)））** ｜ 类型：美国小型媒体/IT 集成商（Fikes Media；业主直营）——第四档，但问的是定制 + API ｜ 筛子：2 ｜ 停点：API/控制器集成：Saga 线只有 SNMP/CLI/Web，无 REST/云控——若不直说会吊着（研究档已记） ｜ 复活：直说 SNMP + CLI 自动化可做、REST/云控不做 ｜ 通路：US 主攻 ｜ 节奏：来 1（10-03）/ 去 3（10-03 群发、10-04 长回、10-19 催）；最后动作是 Saga ｜ 证据：k=af638fab0ab5ad29（interest + API）；3c37c75887d3f132（定制清单）
 - **现状一句话**：新线索（3 周前），技术诉求明确。
 - **对方真实需求（有据）**：24 口 PoE + 10G 上联，可 API 集成。
 - **断点 / 为什么停在这里**：API 期望。
@@ -225,12 +225,12 @@ Simon
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

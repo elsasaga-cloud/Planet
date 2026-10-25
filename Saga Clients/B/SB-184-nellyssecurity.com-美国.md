@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-184` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（6 封来信 = Zendesk「Request received」+「rate the support」自动工单；无人工回复）** ｜ 类型：美国安防分销/电商（Nelly's Security）——只打过 customerservice@ ｜ 筛子：0 ｜ 停点：客服工单系统 ｜ 复活：找采购（purchasing/vendor）邮箱 ｜ 通路：US 主攻 ｜ 节奏：不动 ｜ 证据：k=a8425797c1332005 等
+- **绑定等级：未触达（6 封来信 = Zendesk「Request received」+「rate the support」自动工单；无人工回复；Elsa 箱：`to:nellyssecurity.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 6）（第 74 批(h)））** ｜ 类型：美国安防分销/电商（Nelly's Security）——只打过 customerservice@ ｜ 筛子：0 ｜ 停点：客服工单系统 ｜ 复活：找采购（purchasing/vendor）邮箱 ｜ 通路：US 主攻 ｜ 节奏：不动 ｜ 证据：k=a8425797c1332005 等
 - **现状一句话**：工单号 252114/253755/265626 都是机器。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -293,12 +293,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

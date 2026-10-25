@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-300` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 info@amer.com, sales@amer.com；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）** ｜ 类型：北美自有品牌网络产品商（兼销 Planet，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：CA 主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「MC SFP POE injector 自己logo switch 有自己的标 也有Planet的」；研究档 risks：现有 ODM + Planet 双源：切入需价差与交期
+- **绑定等级：读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 info@amer.com, sales@amer.com；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:amer.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(h)））** ｜ 类型：北美自有品牌网络产品商（兼销 Planet，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：CA 主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「MC SFP POE injector 自己logo switch 有自己的标 也有Planet的」；研究档 risks：现有 ODM + Planet 双源：切入需价差与交期
 - **现状一句话**：加拿大 Amer Networks（自有品牌网络产品：交换机 SS2GR4010P / SGRD16 / SS310、MC-GT/SFP 光电转换器、PoE 注入器 PIG30、AP WAP44IO；同时卖 Planet GS-4210-8P2T2S；表内「MC / SFP / PoE injector 自己 logo；switch 有自己的标也有 Planet 的」；KP Wai Lee（CEO）、Toron Lee（VP Product Management）、Yehuda Mor Yosef）；群发 17 次无回复。
 - **对方真实需求（有据）**：自有标 8 PoE + 2 SFP 型号（与 Planet GS-4210-8P2T2S 同位）→ STC-28DGGPM（$87.4 @30%）贴 Amer 标；MC 位 STI-110GE；注入器/SFP Saga 价目无（Q-32）
 - **断点 / 为什么停在这里**：现有 ODM + Planet 双源：切入需价差与交期
@@ -317,12 +317,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

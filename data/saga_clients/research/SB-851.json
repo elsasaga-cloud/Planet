@@ -1,117 +1,117 @@
 {
-  "code": "SB-851",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（http_error）",
-  "summary": "美国 Mencom Corporation（工业连接器/线缆组件制造商，兼售自有标工业交换机与 MC，「标价高」；KP John Heath（Engineering Manager）、Jason Moore（Industrial Technician）、John J. Bisson；官网 http_error）；群发 19 次无回复。",
-  "type": "工业连接器制造商（美国，自有标工业 FS/MC）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 工业MC 标价高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 工业 MC 标价高",
-      "quote": "工业FS 工业MC 标价高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "John Heath",
-      "title": "Engineering Manager",
-      "email": "john.heath@mencom.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "John J. Bisson",
-      "title": "（职务待核）",
-      "email": "john@mencom.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-851",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "美国 Mencom Corporation（工业连接器/线缆组件制造商，兼售自有标工业交换机与 MC，「标价高」；KP John Heath（Engineering Manager）、Jason Moore（Industrial Technician）、John J. Bisson；官网 http_error）；群发 19 次无回复。",
+ "type": "工业连接器制造商（美国，自有标工业 FS/MC）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 工业MC 标价高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 mencom.com，语言 ?，快照状态 http_error；角色判定来源：待核"
-  },
-  "business_lines": [
-    "工业连接器 / 线缆组件（自有品牌 Mencom）",
-    "工业交换机 / MC（贴牌线）"
-  ],
-  "channels": {
-    "role": "工业连接器制造商（美国，自有标工业 FS/MC）",
-    "region": "美国",
-    "contact": "john@mencom.com、john.heath@mencom.com"
-  },
-  "signals": [
-    "表内：工业 FS 工业 MC 标价高；KP John Heath / Engineering Manager；Jason Moore / Industrial Technician；John J. Bisson",
-    "快照：http_error"
-  ],
-  "risks": [
-    "既有 ODM 供应链（自有标、高定价策略）；官网 http_error；19 次无回复 → 改向 Engineering Manager 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 30,
-    "why": "Mencom 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、工业千兆 MC STI-110GE（$24.3）贴标作二供"
-  },
-  "email_hook": "John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（3 封来信全部自动回复）",
-      "type": "美国工业连接器制造商（Mencom）",
-      "sieve": "0",
-      "stop": "自动回复",
-      "revive": "不动；备用具名邮箱：mark.dixon@mencom.com（自动回复中出现的同司具名邮箱，2023-12-28，k=2281cb9524be76f4；从未发过）",
-      "lane": "US",
-      "cadence": "不动",
-      "evidence": "k=2281cb9524be76f4 等"
-    },
-    "situation": "—",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-23 $65（10G Media Converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-11 $240（24 Port Fiber Switch）、2025-10-03 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（1/30 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-17) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—；备用具名邮箱 → mark.dixon@mencom.com",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2023-12-28",
-        "dir": "来",
-        "who": "自动回复",
-        "quote": "自动回复里给出代理人/同事邮箱 mark.dixon@mencom.com",
-        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-        "k": "2281cb9524be76f4"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 工业 MC 标价高",
+   "quote": "工业FS 工业MC 标价高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "John Heath",
+   "title": "Engineering Manager",
+   "email": "john.heath@mencom.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "John J. Bisson",
+   "title": "（职务待核）",
+   "email": "john@mencom.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 mencom.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+ },
+ "business_lines": [
+  "工业连接器 / 线缆组件（自有品牌 Mencom）",
+  "工业交换机 / MC（贴牌线）"
+ ],
+ "channels": {
+  "role": "工业连接器制造商（美国，自有标工业 FS/MC）",
+  "region": "美国",
+  "contact": "john@mencom.com、john.heath@mencom.com"
+ },
+ "signals": [
+  "表内：工业 FS 工业 MC 标价高；KP John Heath / Engineering Manager；Jason Moore / Industrial Technician；John J. Bisson",
+  "快照：http_error"
+ ],
+ "risks": [
+  "既有 ODM 供应链（自有标、高定价策略）；官网 http_error；19 次无回复 → 改向 Engineering Manager 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 30,
+  "why": "Mencom 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、工业千兆 MC STI-110GE（$24.3）贴标作二供"
+ },
+ "email_hook": "John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（3 封来信全部自动回复；Elsa 箱：`to:mencom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 3）（第 74 批(h)））",
+   "type": "美国工业连接器制造商（Mencom）",
+   "sieve": "0",
+   "stop": "自动回复",
+   "revive": "不动；备用具名邮箱：mark.dixon@mencom.com（自动回复中出现的同司具名邮箱，2023-12-28，k=2281cb9524be76f4；从未发过）",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=2281cb9524be76f4 等"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-23 $65（10G Media Converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-11 $240（24 Port Fiber Switch）、2025-10-03 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（1/30 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-17) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—；备用具名邮箱 → mark.dixon@mencom.com",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2023-12-28",
+    "dir": "来",
+    "who": "自动回复",
+    "quote": "自动回复里给出代理人/同事邮箱 mark.dixon@mencom.com",
+    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+    "k": "2281cb9524be76f4"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

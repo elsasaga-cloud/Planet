@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1251` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 3 封 2026，无记录打开，0 回；收件 sales@systemfabricworks.com；主题多为「Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch」）** ｜ 类型：HPC 系统集成商（美国，品类边缘） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「Marvell方案」；研究档 risks：品类边缘：HPC 互连（InfiniBand/100G+）非 Saga 品类，仅管理网可对位，契合度低；仅 sales@，未跟进过
+- **绑定等级：未触达（A 邮箱 3 封 2026，无记录打开，0 回；收件 sales@systemfabricworks.com；主题多为「Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch」；Elsa 箱：`to:systemfabricworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 0）（第 74 批(h)））** ｜ 类型：HPC 系统集成商（美国，品类边缘） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「Marvell方案」；研究档 risks：品类边缘：HPC 互连（InfiniBand/100G+）非 Saga 品类，仅管理网可对位，契合度低；仅 sales@，未跟进过
 - **现状一句话**：美国 System Fabric Works（高性能分布式计算平台集成商：服务器、存储与网络方案；表内「Marvell 方案」）；表内未跟进。
 - **对方真实需求（有据）**：HPC 主网络（IB/100G）非 Saga 品类 → 管理网/带外网接入位 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）；CENTEC 聚合位 STH 系列（价格待核）
 - **断点 / 为什么停在这里**：品类边缘：HPC 互连（InfiniBand/100G+）非 Saga 品类，仅管理网可对位，契合度低；仅 sales@，未跟进过
@@ -257,12 +257,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

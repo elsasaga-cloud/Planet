@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-363` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 27 封 2024→2026，无记录打开，0 回；收件 connect@mercku.com, contact@mercku.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）** ｜ 类型：Wi-Fi 设备品牌商（加拿大，PoE 现 HRUI） ｜ 筛子：1（只收到群发） ｜ 停点：27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：CA 主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 27；用户表：「商业POE 用的洪瑞的」；研究档 risks：Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其现有位，仅推 SmartByte/Marvell 管理型线
+- **绑定等级：未触达（A/S 邮箱 27 封 2024→2026，无记录打开，0 回；收件 connect@mercku.com, contact@mercku.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:mercku.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(h)））** ｜ 类型：Wi-Fi 设备品牌商（加拿大，PoE 现 HRUI） ｜ 筛子：1（只收到群发） ｜ 停点：27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：CA 主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 27；用户表：「商业POE 用的洪瑞的」；研究档 risks：Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其现有位，仅推 SmartByte/Marvell 管理型线
 - **现状一句话**：加拿大 Mercku（滑铁卢 Mesh Wi-Fi 设备品牌；表内「商业 PoE 用的洪瑞（HRUI）的」；KP Ge Shi（Co-Founder））；群发 20 次无回复。
 - **对方真实需求（有据）**：现供 HRUI（Saga 在供厂商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mercku 标作管理型升级位；现有 HRUI 位不碰
 - **断点 / 为什么停在这里**：Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其现有位，仅推 SmartByte/Marvell 管理型线
@@ -292,12 +292,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

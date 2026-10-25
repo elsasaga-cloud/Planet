@@ -1,130 +1,130 @@
 {
-  "code": "SB-833",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（galaxysecurity.com，快照 2026-10-21）",
-  "summary": "美国 Galaxy Security（CCTV、IP 摄像机、对讲、门机、门禁等安防网店；表内「商业 PoE，店铺形式的，卖的有点杂」；KP Annie Chen（CEO）、Sven Liang（Branch Manager））；群发 19 次无回复。",
-  "type": "安防网店/分销（美国）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Galaxy Security",
-      "quote": "Galaxy Security | CCTV, IP Cameras, Video Surveillance Devices, Intercoms, Door Operators,Access Control & More",
-      "url": "https://www.galaxysecurity.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业PoE 店铺形式的 卖的有点杂",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Galaxy Security 定位",
-      "quote": "Galaxy Security | CCTV, IP Cameras, Video Surveillance Devices, Intercoms, Door Operators,Access Control & More",
-      "url": "https://www.galaxysecurity.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业 PoE 店铺形式",
-      "quote": "商业PoE 店铺形式的 卖的有点杂",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Annie Chen",
-      "title": "CEO",
-      "email": "annie@galaxysecurity.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Sven Liang",
-      "title": "Branch Manager",
-      "email": "info@galaxysecurity.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-833",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（galaxysecurity.com，快照 2026-10-21）",
+ "summary": "美国 Galaxy Security（CCTV、IP 摄像机、对讲、门机、门禁等安防网店；表内「商业 PoE，店铺形式的，卖的有点杂」；KP Annie Chen（CEO）、Sven Liang（Branch Manager））；群发 19 次无回复。",
+ "type": "安防网店/分销（美国）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Galaxy Security",
+   "quote": "Galaxy Security | CCTV, IP Cameras, Video Surveillance Devices, Intercoms, Door Operators,Access Control & More",
+   "url": "https://www.galaxysecurity.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 galaxysecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业PoE 店铺形式的 卖的有点杂",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "CCTV / 对讲 / 门禁安防网店（美国）"
-  ],
-  "channels": {
-    "role": "安防网店/分销（美国）",
-    "region": "美国",
-    "contact": "info@galaxysecurity.com、annie@galaxysecurity.com"
+  {
+   "kind": "官网快照",
+   "claim": "Galaxy Security 定位",
+   "quote": "Galaxy Security | CCTV, IP Cameras, Video Surveillance Devices, Intercoms, Door Operators,Access Control & More",
+   "url": "https://www.galaxysecurity.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Galaxy Security | CCTV, IP Cameras, Video Surveillance Devices, Intercoms, Door Operators, Access Control & More",
-    "表内：商业 PoE 店铺形式的 卖的有点杂；KP Annie Chen / CEO；Sven Liang / Branch Manager"
-  ],
-  "risks": [
-    "店铺式经营、品类杂（白牌契合度待核）；19 次无回复 → 改向 CEO 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
-  },
-  "email_hook": "Annie, for the PoE switches you sell with cameras and intercoms, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers order most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（2 封来信 = Annie 休假自动回复）",
-      "type": "美国/加拿大安防网店（Galaxy Security）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动；备用具名邮箱：andrew@galaxysecurity.com（自动回复指定代理人 Andrew，2024-08-15，k=a75806671f769c62；从未发过）",
-      "lane": "US",
-      "cadence": "不动",
-      "evidence": "k=a75806671f769c62 / e36165de77f85381"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-22 $65（10G Media Converter）、2025-10-09 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（1/30 封有打开记录）：「Marvell Industrial Alert System」(2025-07-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—；备用具名邮箱 → andrew@galaxysecurity.com",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-08-15",
-        "dir": "来",
-        "who": "自动回复",
-        "quote": "自动回复里给出代理人/同事邮箱 andrew@galaxysecurity.com（Andrew）",
-        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-        "k": "a75806671f769c62"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 店铺形式",
+   "quote": "商业PoE 店铺形式的 卖的有点杂",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Annie Chen",
+   "title": "CEO",
+   "email": "annie@galaxysecurity.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Sven Liang",
+   "title": "Branch Manager",
+   "email": "info@galaxysecurity.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 galaxysecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "CCTV / 对讲 / 门禁安防网店（美国）"
+ ],
+ "channels": {
+  "role": "安防网店/分销（美国）",
+  "region": "美国",
+  "contact": "info@galaxysecurity.com、annie@galaxysecurity.com"
+ },
+ "signals": [
+  "官网：Galaxy Security | CCTV, IP Cameras, Video Surveillance Devices, Intercoms, Door Operators, Access Control & More",
+  "表内：商业 PoE 店铺形式的 卖的有点杂；KP Annie Chen / CEO；Sven Liang / Branch Manager"
+ ],
+ "risks": [
+  "店铺式经营、品类杂（白牌契合度待核）；19 次无回复 → 改向 CEO 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
+ },
+ "email_hook": "Annie, for the PoE switches you sell with cameras and intercoms, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封来信 = Annie 休假自动回复；Elsa 箱：`to:galaxysecurity.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 2）（第 74 批(h)））",
+   "type": "美国/加拿大安防网店（Galaxy Security）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动；备用具名邮箱：andrew@galaxysecurity.com（自动回复指定代理人 Andrew，2024-08-15，k=a75806671f769c62；从未发过）",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=a75806671f769c62 / e36165de77f85381"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-22 $65（10G Media Converter）、2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（1/30 封有打开记录）：「Marvell Industrial Alert System」(2025-07-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—；备用具名邮箱 → andrew@galaxysecurity.com",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-08-15",
+    "dir": "来",
+    "who": "自动回复",
+    "quote": "自动回复里给出代理人/同事邮箱 andrew@galaxysecurity.com（Andrew）",
+    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+    "k": "a75806671f769c62"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,126 +1,126 @@
 {
-  "code": "SB-869",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（tccomm.com，快照 2026-10-21）",
-  "summary": "美国加州 TC Communications（光纤通信与工业以太网产品设计制造商：复用器、DIN 工业交换机、JumboSwitch；行业：公用事业 / 公共安全 / 政府 / 轨道 / 航空；表内「工业 FS / MC / 光猫，Switch 协议类产品」；KP Steve Cragg（stevec@）、Larry（novaca.com）、Fredrick Chow）；群发 19 次无回复。",
-  "type": "工业光通信制造商（自有品牌，入门工业交换机可 OEM）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：TC Communications - Fiber Optic Networks and Industrial Ethernet Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "TC Communications design and manufacture the most reliable and efficient fiber optic communications products for public safety, utilities, transportation, and other industrial networks",
-      "url": "https://tccomm.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS MC 光猫；Switch 协议类产品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "为公用事业、公共安全、交通等工业网络设计制造光纤通信产品",
-      "quote": "TC Communications design and manufacture the most reliable and efficient fiber optic communications products for public safety, utilities, transportation, and other industrial networks",
-      "url": "https://tccomm.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS / MC / 光猫 / 协议类",
-      "quote": "工业FS MC 光猫 / Switch 协议类产品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Steve Cragg",
-      "title": "（表内联系人）",
-      "email": "stevec@tccomm.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Fredrick Chow",
-      "title": "（表内联系人）",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-869",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tccomm.com，快照 2026-10-21）",
+ "summary": "美国加州 TC Communications（光纤通信与工业以太网产品设计制造商：复用器、DIN 工业交换机、JumboSwitch；行业：公用事业 / 公共安全 / 政府 / 轨道 / 航空；表内「工业 FS / MC / 光猫，Switch 协议类产品」；KP Steve Cragg（stevec@）、Larry（novaca.com）、Fredrick Chow）；群发 19 次无回复。",
+ "type": "工业光通信制造商（自有品牌，入门工业交换机可 OEM）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：TC Communications - Fiber Optic Networks and Industrial Ethernet Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "TC Communications design and manufacture the most reliable and efficient fiber optic communications products for public safety, utilities, transportation, and other industrial networks",
+   "url": "https://tccomm.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 tccomm.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS MC 光猫；Switch 协议类产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "光纤复用器 / 工业以太网（自研）",
-    "DIN 工业交换机",
-    "行业：公用事业 / 公共安全 / 轨道 / 航空"
-  ],
-  "channels": {
-    "role": "工业光通信制造商（自有品牌，入门工业交换机可 OEM）",
-    "region": "美国",
-    "contact": "larry@novaca.com、stevec@tccomm.com"
+  {
+   "kind": "官网快照",
+   "claim": "为公用事业、公共安全、交通等工业网络设计制造光纤通信产品",
+   "quote": "TC Communications design and manufacture the most reliable and efficient fiber optic communications products for public safety, utilities, transportation, and other industrial networks",
+   "url": "https://tccomm.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "产品页 /FiberOpticProducts/Products/Multiplexers/Ethernet/192/DIN-Rail-Industrial-Ethernet-Swit…、/JumboSwitch/Index/Industrial_Networking",
-    "站内型号 TC3846-6 / TC3848-1 / TC3240",
-    "KP：Steve Cragg、Fredrick Chow、Larry（表内）"
-  ],
-  "risks": [
-    "守界：公用事业 / 公共安全 / 政府 / 轨道 / 航空为关键基础设施，只供非关键节点、不进轨道车载",
-    "自研制造商：外采意愿未知，19 次无回复",
-    "表内 novaca.com 为另一域名（Larry）：身份需核"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "自研高端复用器为主，DIN 入门工业交换机可外采 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 TC 标；MC 位 STI-110GE；仅报非关键节点（公用事业/公共安全/轨道守界）"
-  },
-  "email_hook": "Steve, for the entry DIN-rail Ethernet switch positions below your JumboSwitch line, we build Marvell-based 8-port managed PoE and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — is there an entry model you would rather source than design?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（唯一来信为 Chavan（SB-761）抄送 NovaCA 的误归属）",
-      "type": "美国工业光通信制造商（TC Communications）",
-      "sieve": "0",
-      "stop": "误归属；本户零回复",
-      "revive": "不动",
-      "lane": "US",
-      "cadence": "不动",
-      "evidence": "k=5a42faf06fd8915e（属 SB-761）"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-19 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-26 $65（10G Media Converter）、2025-02-19 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS / MC / 光猫 / 协议类",
+   "quote": "工业FS MC 光猫 / Switch 协议类产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Steve Cragg",
+   "title": "（表内联系人）",
+   "email": "stevec@tccomm.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Fredrick Chow",
+   "title": "（表内联系人）",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 tccomm.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "光纤复用器 / 工业以太网（自研）",
+  "DIN 工业交换机",
+  "行业：公用事业 / 公共安全 / 轨道 / 航空"
+ ],
+ "channels": {
+  "role": "工业光通信制造商（自有品牌，入门工业交换机可 OEM）",
+  "region": "美国",
+  "contact": "larry@novaca.com、stevec@tccomm.com"
+ },
+ "signals": [
+  "产品页 /FiberOpticProducts/Products/Multiplexers/Ethernet/192/DIN-Rail-Industrial-Ethernet-Swit…、/JumboSwitch/Index/Industrial_Networking",
+  "站内型号 TC3846-6 / TC3848-1 / TC3240",
+  "KP：Steve Cragg、Fredrick Chow、Larry（表内）"
+ ],
+ "risks": [
+  "守界：公用事业 / 公共安全 / 政府 / 轨道 / 航空为关键基础设施，只供非关键节点、不进轨道车载",
+  "自研制造商：外采意愿未知，19 次无回复",
+  "表内 novaca.com 为另一域名（Larry）：身份需核"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自研高端复用器为主，DIN 入门工业交换机可外采 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 TC 标；MC 位 STI-110GE；仅报非关键节点（公用事业/公共安全/轨道守界）"
+ },
+ "email_hook": "Steve, for the entry DIN-rail Ethernet switch positions below your JumboSwitch line, we build Marvell-based 8-port managed PoE and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — is there an entry model you would rather source than design?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（唯一来信为 Chavan（SB-761）抄送 NovaCA 的误归属；Elsa 箱：`to:tccomm.com OR to:novaca.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 43 / 来 1）（第 74 批(h)））",
+   "type": "美国工业光通信制造商（TC Communications）",
+   "sieve": "0",
+   "stop": "误归属；本户零回复",
+   "revive": "不动",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=5a42faf06fd8915e（属 SB-761）"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-19 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-26 $65（10G Media Converter）、2025-02-19 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

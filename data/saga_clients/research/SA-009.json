@@ -52,7 +52,7 @@
  "email_hook": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 ggao@fhn-na.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+   "level": "未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 ggao@fhn-na.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:fhn-na.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 0）（第 74 批(h)））",
    "type": "中资大厂海外分公司（终端/项目采购）",
    "sieve": "1（只收到群发）",
    "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

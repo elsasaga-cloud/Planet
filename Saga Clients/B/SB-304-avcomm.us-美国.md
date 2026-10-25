@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-304` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 31 封 2024→2026，无记录打开，0 回；收件 info@avcomm.us, kang.yu@avcomm.us；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：工业网络品牌商（自有 AP 系列，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：31 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 31；用户表：「工业FS SFP 自己的logo」；研究档 risks：自有品牌已有代工来源：以 Marvell 平台 + 小批量切入
+- **绑定等级：未触达（A/S 邮箱 31 封 2024→2026，无记录打开，0 回；收件 info@avcomm.us, kang.yu@avcomm.us；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:avcomm.us` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 31 / 来 0）（第 74 批(h)））** ｜ 类型：工业网络品牌商（自有 AP 系列，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：31 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 31；用户表：「工业FS SFP 自己的logo」；研究档 risks：自有品牌已有代工来源：以 Marvell 平台 + 小批量切入
 - **现状一句话**：美国 AVCOMM Technologies（工业以太网交换机 / IIoT / 边缘计算，自有 AP200/AP300/AP400 PoE 系列与 4000/6000 PoE 系列商城分类；表内「工业 FS / SFP，自己的 logo」；KP Kang Yu（Chief Operating Officer，kang.yu@））；群发 20 次无回复。
 - **对方真实需求（有据）**：自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP
 - **断点 / 为什么停在这里**：自有品牌已有代工来源：以 Marvell 平台 + 小批量切入
@@ -306,12 +306,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

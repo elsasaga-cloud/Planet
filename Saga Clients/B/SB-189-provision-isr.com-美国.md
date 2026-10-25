@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-189` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 23 封 2025→2026，无记录打开，0 回；收件 sales@provisionisr.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）** ｜ 类型：CCTV 品牌商（PoE 配套，深圳有办事处） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23；用户表：「商业PoE CCTV 宝安有办公室」；研究档 risks：宝安有办公室（直接在深圳采购，价格比对激烈）；国别待核（表内美国，品牌总部以色列）；10 次无回复 → 改向 Technical & Presale Manag
+- **绑定等级：未触达（A/S 邮箱 23 封 2025→2026，无记录打开，0 回；收件 sales@provisionisr.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:provision-isr.com OR to:provisionisr.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(h)））** ｜ 类型：CCTV 品牌商（PoE 配套，深圳有办事处） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23；用户表：「商业PoE CCTV 宝安有办公室」；研究档 risks：宝安有办公室（直接在深圳采购，价格比对激烈）；国别待核（表内美国，品牌总部以色列）；10 次无回复 → 改向 Technical & Presale Manag
 - **现状一句话**：美国/以色列 Provision-ISR（CCTV 品牌（以色列总部，北美站 provisionisr.com）；表内「商业 PoE CCTV，宝安有办公室」「可以尝试多跟进一下」；KP Leonardo Severi（Technical & Presale Manager））；群发 10 次无回复。
 - **对方真实需求（有据）**：Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：宝安有办公室（直接在深圳采购，价格比对激烈）；国别待核（表内美国，品牌总部以色列）；10 次无回复 → 改向 Technical & Presale Manager 具名首触
@@ -280,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

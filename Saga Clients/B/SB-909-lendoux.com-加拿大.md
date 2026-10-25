@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-909` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 2 封 2026，无记录打开，0 回；收件 info@lendoux.com；主题多为「OEM Core Switching Solution、24 Port PoE Managed Switch」）** ｜ 类型：多品牌 IT/工业设备商店（加拿大，工业 FS 现光路） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：CA 主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2；用户表：「也有光路的工业FS」；研究档 risks：快照 parked_or_empty（经营状态待核）；CEO 邮箱未显示（仅 info@）；现供光路价格基准低
+- **绑定等级：未触达（A 邮箱 2 封 2026，无记录打开，0 回；收件 info@lendoux.com；主题多为「OEM Core Switching Solution、24 Port PoE Managed Switch」；Elsa 箱：`to:lendoux.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(h)））** ｜ 类型：多品牌 IT/工业设备商店（加拿大，工业 FS 现光路） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：CA 主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2；用户表：「也有光路的工业FS」；研究档 risks：快照 parked_or_empty（经营状态待核）；CEO 邮箱未显示（仅 info@）；现供光路价格基准低
 - **现状一句话**：加拿大 Lendoux Specialized Store（数据中心设备、电信网络、安防系统与工业仪表的多品牌专业商店；表内「也有光路的工业 FS」；KP Rasel Haddadi（CEO，未显示邮箱）；快照 parked_or_empty）；表内未跟进。
 - **对方真实需求（有据）**：工业 FS（现光路）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）；数据中心位 24 GE + 4×10G STC-424XGGM（$127.4）
 - **断点 / 为什么停在这里**：快照 parked_or_empty（经营状态待核）；CEO 邮箱未显示（仅 info@）；现供光路价格基准低
@@ -244,12 +244,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -2090,6 +2090,40 @@
     "chuyengiathuykhi@gmail.com",
     "hydraulics@vnn.vn"
    ]
+  },
+  {
+   "msg_id": "1a01030ab6b2fbd1",
+   "date": "2026-08-17",
+   "subject": "24 Port PoE Managed Switch",
+   "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+   "to": "eletrotecnicasoares@bol.com.br",
+   "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+   "bcc": [
+    "jramirez@broadcast-storagetv.com",
+    "broadcast-storage@outlook.com",
+    "edgarhcarrillor@gmail.com",
+    "compras@altala.net",
+    "eduardosti@gmail.com",
+    "emoreno@aitex.cl",
+    "augusto.jr12@hotmail.com",
+    "info@etistel.com",
+    "gavassoniinformatica@gmail.com",
+    "kakashy_85@hotmail.com",
+    "giftshops.mty@gmail.com",
+    "yalito@live.com",
+    "shamiljansen@hotmail.com",
+    "gary.perez@esinsa.com",
+    "mauricio.davila@esinsa.com",
+    "dllocllaipanaque@gmail.com",
+    "ingenieria@upkeepservices.com.co",
+    "passos.automaticos@gmail.com",
+    "aufimegs@uol.com.br",
+    "radu.matei@fo4all.com",
+    "camerasmesquita@hotmail.com",
+    "renato.tradardi@golddata.net",
+    "info@infinityhardware.us",
+    "sales@infinityhardware.us"
+   ]
   }
  ],
  "campaign_24poe_heads": {
@@ -4738,6 +4772,37 @@
     }
    ],
    "_src": "第 74 批(g)：to:truongsonsolutions.com 命中 1 条（complete）→ 读头 Bcc 12；越南批只此一轮"
+  },
+  "eletrotecnicasoares@bol.com.br": {
+   "batch": "拉美（锚 eletrotecnicasoares BR）",
+   "campaigns": [
+    {
+     "msg_id": "19a59a819ef40879",
+     "date": "2025-11-06",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19bc7051fe02a224",
+     "date": "2026-01-16",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19d77de22337cb6b",
+     "date": "2026-04-10",
+     "subject": "Marvell Managed Commercial Switches"
+    },
+    {
+     "msg_id": "19e2bed1b8d82f12",
+     "date": "2026-05-15",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "1a01030ab6b2fbd1",
+     "date": "2026-08-17",
+     "subject": "24 Port PoE Managed Switch"
+    }
+   ],
+   "_src": "第 74 批(h) 美加 B 逐户探测：to:infinityhardware.us 命中 201+ 全部 To eletrotecnicasoares@bol.com.br → 读头 Bcc 24（拉美名单里夹着美国 infinityhardware）"
   }
  },
  "_anchors_note": "anchors = 每个群发批次的 To 首收件人（Elsa 的名单顺序稳定，同一批次每轮都是同一个 To）；campaigns = 该批次收到的全部群发（`from:e.sagatelecom to:<anchor>` complete:true）。首尾两轮 Bcc 都读过的批次，名单稳定（UK 21→38、DE 42→40、PL 19→28、US-3 43→39、IT 31→25，少数地址中途剔除/加入）。 ｜ 2026-10-25 02:0x 追加 16 锚（共 21）：每锚 `from:e.sagatelecom to:<锚>` 一次拉全程（complete:true）；锚 To 即该批次每轮同一收件人，Bcc 名单 2025-02→2026-09 基本稳定；andasis 批次最后一轮 2026-05-12（8–9 月 24-PoE 轮未发该批）；avigilon/nssi 批次 2025-07/08 才建。"

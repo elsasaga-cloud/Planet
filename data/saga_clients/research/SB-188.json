@@ -1,109 +1,109 @@
 {
-  "code": "SB-188",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（http_error）",
-  "summary": "美国 Platinum CCTV（CCTV 网店/安装；表内「商业 PoE 较多外壳」「可以尝试多跟进一下」；KP Paul Cutrano（Director of Field Operations）；官网 http_error）；群发 10 次无回复。",
-  "type": "CCTV 网店/安装商（美国）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业PoE 较多外壳",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业 PoE 较多外壳",
-      "quote": "商业PoE 较多外壳；可以尝试多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Paul Cutrano",
-      "title": "Director of Field Operations",
-      "email": "paul@platinumcctv.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-188",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "美国 Platinum CCTV（CCTV 网店/安装；表内「商业 PoE 较多外壳」「可以尝试多跟进一下」；KP Paul Cutrano（Director of Field Operations）；官网 http_error）；群发 10 次无回复。",
+ "type": "CCTV 网店/安装商（美国）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业PoE 较多外壳",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 platinumcctv.com，语言 ?，快照状态 http_error；角色判定来源：待核"
-  },
-  "business_lines": [
-    "CCTV 网店 / 安装（美国）"
-  ],
-  "channels": {
-    "role": "CCTV 网店/安装商（美国）",
-    "region": "美国",
-    "contact": "sales@platinumcctv.com、paul@platinumcctv.com"
-  },
-  "signals": [
-    "表内：商业 PoE 较多外壳；KP Paul Cutrano / Director of Field Operations；可以尝试多跟进一下",
-    "快照：http_error"
-  ],
-  "risks": [
-    "官网 http_error；10 次无回复 → 改向 Director of Field Operations 具名首触；NDAA 场景（§889 适用范围待核）"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
-  },
-  "email_hook": "Paul, for the PoE switches you deploy and sell with camera systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your field crews install most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封自动回复）",
-      "type": "美国 CCTV 网店/安装商（Platinum CCTV）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动；备用具名邮箱：scott@platinumcctv.com（自动回复中出现的同司具名邮箱，2024-11-29，k=d15c53f56333d9f6；从未发过）",
-      "lane": "US",
-      "cadence": "不动",
-      "evidence": "k=d15c53f56333d9f6"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-08-07 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-      "why": "—",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—；备用具名邮箱 → scott@platinumcctv.com",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-11-29",
-        "dir": "来",
-        "who": "自动回复",
-        "quote": "自动回复里给出同事邮箱 scott@platinumcctv.com",
-        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-        "k": "d15c53f56333d9f6"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 较多外壳",
+   "quote": "商业PoE 较多外壳；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Paul Cutrano",
+   "title": "Director of Field Operations",
+   "email": "paul@platinumcctv.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 platinumcctv.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+ },
+ "business_lines": [
+  "CCTV 网店 / 安装（美国）"
+ ],
+ "channels": {
+  "role": "CCTV 网店/安装商（美国）",
+  "region": "美国",
+  "contact": "sales@platinumcctv.com、paul@platinumcctv.com"
+ },
+ "signals": [
+  "表内：商业 PoE 较多外壳；KP Paul Cutrano / Director of Field Operations；可以尝试多跟进一下",
+  "快照：http_error"
+ ],
+ "risks": [
+  "官网 http_error；10 次无回复 → 改向 Director of Field Operations 具名首触；NDAA 场景（§889 适用范围待核）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
+ },
+ "email_hook": "Paul, for the PoE switches you deploy and sell with camera systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your field crews install most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复；Elsa 箱：`to:platinumcctv.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 1）（第 74 批(h)））",
+   "type": "美国 CCTV 网店/安装商（Platinum CCTV）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动；备用具名邮箱：scott@platinumcctv.com（自动回复中出现的同司具名邮箱，2024-11-29，k=d15c53f56333d9f6；从未发过）",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=d15c53f56333d9f6"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-08-07 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—；备用具名邮箱 → scott@platinumcctv.com",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-11-29",
+    "dir": "来",
+    "who": "自动回复",
+    "quote": "自动回复里给出同事邮箱 scott@platinumcctv.com",
+    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+    "k": "d15c53f56333d9f6"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

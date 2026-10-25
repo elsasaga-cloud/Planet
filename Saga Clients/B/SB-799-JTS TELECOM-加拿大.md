@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-799` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-07-30「Yea I'm interested Could you send me a quote」→ 价表；2025-11-21「No, but thank you」）** ｜ 类型：加拿大小型电信承包（JTS；Hotmail） ｜ 筛子：2 ｜ 停点：2025-11 明确「No」 ｜ 复活：不动 ｜ 通路：CA ｜ 节奏：不动 ｜ 证据：k=a7eeebbc9d6743fe / 3b06b00f028239e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度触达（2024-07-30「Yea I'm interested Could you send me a quote」→ 价表；2025-11-21「No, but thank you」；Elsa 箱：`to:joejts@hotmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 2）（第 74 批(h)））** ｜ 类型：加拿大小型电信承包（JTS；Hotmail） ｜ 筛子：2 ｜ 停点：2025-11 明确「No」 ｜ 复活：不动 ｜ 通路：CA ｜ 节奏：不动 ｜ 证据：k=a7eeebbc9d6743fe / 3b06b00f028239e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：被动 PoE 24 口。
 - **断点 / 为什么停在这里**：明确拒绝。
@@ -263,12 +263,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

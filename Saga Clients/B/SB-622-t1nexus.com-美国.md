@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-622` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 8 封 2024→2026，无记录打开，0 回；收件 info@t1nexus.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：兼容光模块/线缆品牌商（美国，MC/交换机副线） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8；用户表：「MC 光路的」；研究档 risks：主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@
+- **绑定等级：未触达（A/S 邮箱 8 封 2024→2026，无记录打开，0 回；收件 info@t1nexus.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:t1nexus.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 8 / 来 0）（第 74 批(h)））** ｜ 类型：兼容光模块/线缆品牌商（美国，MC/交换机副线） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8；用户表：「MC 光路的」；研究档 risks：主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@
 - **现状一句话**：美国 T1 Nexus（OEM 兼容光模块与线缆品牌（ISO/TL9000，终身保修），兼售 MC（18 处）与交换机（T1-DS2024G）；表内「MC 光路的」）；表内 3 次跟进无回复。
 - **对方真实需求（有据）**：T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供
 - **断点 / 为什么停在这里**：主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@
@@ -274,12 +274,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

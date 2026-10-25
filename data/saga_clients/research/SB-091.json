@@ -1,123 +1,123 @@
 {
-  "code": "SB-091",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（optigo.net，快照 2026-10-21）",
-  "summary": "加拿大 Optigo Networks（智能楼宇 OT 网络监控与管理软件 Optigo Visual Networks；早期自有 OT 网络硬件；表内「工业 FS 自己的品牌」「质量高」）；表内 3 次跟进无回复。",
-  "type": "楼宇 OT 网络软件商（加拿大，硬件线存疑）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Healthy OT Networks for Smart Buildings | Optigo Networks；品类词 工业自动化 / OT 网络",
-      "quote": "Optigo's OT monitoring software keeps smart building networks running at their best - saving time, money, and energy.",
-      "url": "https://www.optigo.net/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 自己的品牌",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Optigo 定位",
-      "quote": "Healthy OT Networks for Smart Buildings | Optigo Networks ; Optigo’s OT monitoring software keeps smart building networks running at their best - saving time, money, and energy",
-      "url": "https://www.optigo.net/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 自己的品牌",
-      "quote": "工业FS 自己的品牌；质量高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-091",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（optigo.net，快照 2026-10-21）",
+ "summary": "加拿大 Optigo Networks（智能楼宇 OT 网络监控与管理软件 Optigo Visual Networks；早期自有 OT 网络硬件；表内「工业 FS 自己的品牌」「质量高」）；表内 3 次跟进无回复。",
+ "type": "楼宇 OT 网络软件商（加拿大，硬件线存疑）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Healthy OT Networks for Smart Buildings | Optigo Networks；品类词 工业自动化 / OT 网络",
+   "quote": "Optigo's OT monitoring software keeps smart building networks running at their best - saving time, money, and energy.",
+   "url": "https://www.optigo.net/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "加拿大",
-    "other": "官网 optigo.net，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 自己的品牌",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "智能楼宇 OT 网络监控软件"
-  ],
-  "channels": {
-    "role": "楼宇 OT 网络软件商（加拿大，硬件线存疑）",
-    "region": "加拿大",
-    "contact": "info@optigo.net"
+  {
+   "kind": "官网快照",
+   "claim": "Optigo 定位",
+   "quote": "Healthy OT Networks for Smart Buildings | Optigo Networks ; Optigo’s OT monitoring software keeps smart building networks running at their best - saving time, money, and energy",
+   "url": "https://www.optigo.net/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Optigo’s OT monitoring software keeps smart building networks running at their best；首页 Healthy OT Networks for Smart Buildings ; Next-Generation OT Network Monitoring and Management；kw integrator 10",
-    "表内：工业 FS 自己的品牌；质量高"
-  ],
-  "risks": [
-    "官网现以 OT 监控软件为主（硬件线存疑，需求待核）；3 次无回复，仅 info@"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核"
-  },
-  "email_hook": "For any Optigo-branded switches you still bundle with Visual Networks deployments in smart buildings, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (SNMP/LLDP, −40~75 °C, FCC/CE/RoHS) under your label from small lots — do your integrator partners still ask you for hardware alongside the software?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 info@optigo.net；主题多为「Mini Industrial PoE Switch、24 Port Fiber Switch」）",
-      "type": "楼宇 OT 网络软件商（加拿大，硬件线存疑）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "CA 主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 7；用户表：「工业FS 自己的品牌」；研究档 risks：官网现以 OT 监控软件为主（硬件线存疑，需求待核）；3 次无回复，仅 info@"
-    },
-    "situation": "加拿大 Optigo Networks（智能楼宇 OT 网络监控与管理软件 Optigo Visual Networks；早期自有 OT 网络硬件；表内「工业 FS 自己的品牌」「质量高」）；表内 3 次跟进无回复。",
-    "need": "若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核",
-    "breakpoint": "官网现以 OT 监控软件为主（硬件线存疑，需求待核）；3 次无回复，仅 info@",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $240（24 Port Fiber Switch）",
-      "why": "若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For any Optigo-branded switches you still bundle with Visual Networks deployments in smart buildings, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (SNMP/LLDP, −40~75 °C, FCC/CE/RoHS) under your label from small lots — do your integrator partners still ask you for hardware alongside the software?"
-    },
-    "facts": [
-      {
-        "date": "2026-03-06",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Mini Industrial PoE Switch、24 Port Fiber Switch",
-        "why": "7 封 / 0 次打开 / 0 回｜首封 2025-08-26 → 末封 2026-03-06（7 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS 自己的品牌",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 自己的品牌",
+   "quote": "工业FS 自己的品牌；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 optigo.net，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "智能楼宇 OT 网络监控软件"
+ ],
+ "channels": {
+  "role": "楼宇 OT 网络软件商（加拿大，硬件线存疑）",
+  "region": "加拿大",
+  "contact": "info@optigo.net"
+ },
+ "signals": [
+  "官网：Optigo’s OT monitoring software keeps smart building networks running at their best；首页 Healthy OT Networks for Smart Buildings ; Next-Generation OT Network Monitoring and Management；kw integrator 10",
+  "表内：工业 FS 自己的品牌；质量高"
+ ],
+ "risks": [
+  "官网现以 OT 监控软件为主（硬件线存疑，需求待核）；3 次无回复，仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核"
+ },
+ "email_hook": "For any Optigo-branded switches you still bundle with Visual Networks deployments in smart buildings, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (SNMP/LLDP, −40~75 °C, FCC/CE/RoHS) under your label from small lots — do your integrator partners still ask you for hardware alongside the software?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 info@optigo.net；主题多为「Mini Industrial PoE Switch、24 Port Fiber Switch」；Elsa 箱：`to:optigo.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 7 / 来 0）（第 74 批(h)））",
+   "type": "楼宇 OT 网络软件商（加拿大，硬件线存疑）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "CA 主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 7；用户表：「工业FS 自己的品牌」；研究档 risks：官网现以 OT 监控软件为主（硬件线存疑，需求待核）；3 次无回复，仅 info@"
+  },
+  "situation": "加拿大 Optigo Networks（智能楼宇 OT 网络监控与管理软件 Optigo Visual Networks；早期自有 OT 网络硬件；表内「工业 FS 自己的品牌」「质量高」）；表内 3 次跟进无回复。",
+  "need": "若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核",
+  "breakpoint": "官网现以 OT 监控软件为主（硬件线存疑，需求待核）；3 次无回复，仅 info@",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $240（24 Port Fiber Switch）",
+   "why": "若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For any Optigo-branded switches you still bundle with Visual Networks deployments in smart buildings, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (SNMP/LLDP, −40~75 °C, FCC/CE/RoHS) under your label from small lots — do your integrator partners still ask you for hardware alongside the software?"
+  },
+  "facts": [
+   {
+    "date": "2026-03-06",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Mini Industrial PoE Switch、24 Port Fiber Switch",
+    "why": "7 封 / 0 次打开 / 0 回｜首封 2025-08-26 → 末封 2026-03-06（7 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 自己的品牌",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

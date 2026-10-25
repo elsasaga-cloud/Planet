@@ -1,143 +1,143 @@
 {
-  "code": "SB-538",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（infinitecables.com，快照 2026-10-21）",
-  "summary": "Infinite Cables（北美连接产品网店：AV/网络/光纤线缆、UPS 电池、安防摄像机；服务分销商/经销商/安装商与政府/学校采购单，大批量折扣、Custom Orders and OEM；表内「MC / DVI / FS / PoE / SFP / 串口，销售平台」；KP Augustin Liu（Supervisor）、Richard Bonsol（Sales））；群发 10 次无回复。",
-  "type": "北美连接产品网店（含 OEM 定制）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Infinite Cables | Your Online Source for Connectivity Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "North American supplier of Audio/Video Cables, Networking Cables, Fiber Cables, UPS Batteries, Security Cameras and more. Servicing the needs of IT products and the average home user for over a decade.",
-      "url": "https://www.infinitecables.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC DVI FS PoE SFP 串口 销售平台",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "北美线缆与连接产品供应商",
-      "quote": "North American supplier of Audio/Video Cables, Networking Cables, Fiber Cables, UPS Batteries, Security Cameras and more.",
-      "url": "https://www.infinitecables.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC DVI FS PoE SFP 串口，销售平台",
-      "quote": "MC DVI FS PoE SFP 串口 销售平台",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Augustin Liu",
-      "title": "Supervisor",
-      "email": "sales@infinitecables.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Richard Bonsol",
-      "title": "Sales",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-538",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（infinitecables.com，快照 2026-10-21）",
+ "summary": "Infinite Cables（北美连接产品网店：AV/网络/光纤线缆、UPS 电池、安防摄像机；服务分销商/经销商/安装商与政府/学校采购单，大批量折扣、Custom Orders and OEM；表内「MC / DVI / FS / PoE / SFP / 串口，销售平台」；KP Augustin Liu（Supervisor）、Richard Bonsol（Sales））；群发 10 次无回复。",
+ "type": "北美连接产品网店（含 OEM 定制）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Infinite Cables | Your Online Source for Connectivity Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "North American supplier of Audio/Video Cables, Networking Cables, Fiber Cables, UPS Batteries, Security Cameras and more. Servicing the needs of IT products and the average home user for over a decade.",
+   "url": "https://www.infinitecables.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 infinitecables.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC DVI FS PoE SFP 串口 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "线缆 / 光纤 / UPS 电池 / 安防摄像机网店"
-  ],
-  "channels": {
-    "role": "北美连接产品网店（含 OEM 定制）",
-    "region": "美国",
-    "contact": "info@infinitecables.com、sales@infinitecables.com"
+  {
+   "kind": "官网快照",
+   "claim": "北美线缆与连接产品供应商",
+   "quote": "North American supplier of Audio/Video Cables, Networking Cables, Fiber Cables, UPS Batteries, Security Cameras and more.",
+   "url": "https://www.infinitecables.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：North American supplier of Audio/Video Cables, Networking Cables, Fiber Cables, UPS Batteries, Security Cameras",
-    "栏目：Distributors Resellers Installers；Government School Board Corporate PO’s；Custom Orders and OEM",
-    "KP：Augustin Liu / Supervisor；Richard Bonsol / Sales（表内）"
-  ],
-  "risks": [
-    "网店多品类：交换机为配套；MC/SFP/串口无 Saga SKU（Q-32）",
-    "10 次无回复 → 改向 Supervisor 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "网店 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC/SFP/串口 Saga 价目无（Q-32）"
-  },
-  "email_hook": "Augustin, for the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 32 封 2025→2026，其中 3 封被打开，0 回；收件 augustin@infinitecables.com, info@infinitecables.com；被打开主题「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
-      "type": "北美连接产品网店（含 OEM 定制）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "US 主攻（四主）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 32，Opened 标签 3（Simon 群发追踪）；用户表：「MC DVI FS PoE SFP 串口 销售平台」；研究档 risks：网店多品类：交换机为配套；MC/SFP/串口无 Saga SKU（Q-32）"
-    },
-    "situation": "Infinite Cables（北美连接产品网店：AV/网络/光纤线缆、UPS 电池、安防摄像机；服务分销商/经销商/安装商与政府/学校采购单，大批量折扣、Custom Orders and OEM；表内「MC / DVI / FS / PoE / SFP / 串口，销售平台」；KP Augustin Liu（Supervisor）、Richard Bonsol（Sales））；群发 10 次无回复。",
-    "need": "网店 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC/SFP/串口 Saga 价目无（Q-32）",
-    "breakpoint": "网店多品类：交换机为配套；MC/SFP/串口无 Saga SKU（Q-32）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-14 $300（48 Port PoE Managed Switch）、2025-05-05 $65（10G Media Converter）、2025-06-23 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
-      "why": "网店 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC/SFP/串口 Saga 价目无（Q-32）。已打开的主题（3/32 封有打开记录）：「8 Port Industrial PoE Switch」(2025-01-09)、「Optional Marvell Chipset Solutions」(2025-12-05)、「OEM Core Switching Solution」(2026-01-14) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Saga Feature List_7.5.x_L2+(2026-06-23)、Product Link_2026Q3(2026-07-16)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → augustin@infinitecables.com",
-      "action": "短信一问（email_hook）",
-      "one_question": "Augustin, for the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-10",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-        "why": "32 封 / 3 次打开 / 0 回｜首封 2025-01-09 → 末封 2026-09-10（32 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "MC DVI FS PoE SFP 串口 销售平台",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Managed Optical Bypass Switch",
-      "body": "Hi Augustin,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $80.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC DVI FS PoE SFP 串口，销售平台",
+   "quote": "MC DVI FS PoE SFP 串口 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Augustin Liu",
+   "title": "Supervisor",
+   "email": "sales@infinitecables.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Richard Bonsol",
+   "title": "Sales",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 infinitecables.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "线缆 / 光纤 / UPS 电池 / 安防摄像机网店"
+ ],
+ "channels": {
+  "role": "北美连接产品网店（含 OEM 定制）",
+  "region": "美国",
+  "contact": "info@infinitecables.com、sales@infinitecables.com"
+ },
+ "signals": [
+  "官网：North American supplier of Audio/Video Cables, Networking Cables, Fiber Cables, UPS Batteries, Security Cameras",
+  "栏目：Distributors Resellers Installers；Government School Board Corporate PO’s；Custom Orders and OEM",
+  "KP：Augustin Liu / Supervisor；Richard Bonsol / Sales（表内）"
+ ],
+ "risks": [
+  "网店多品类：交换机为配套；MC/SFP/串口无 Saga SKU（Q-32）",
+  "10 次无回复 → 改向 Supervisor 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "网店 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC/SFP/串口 Saga 价目无（Q-32）"
+ },
+ "email_hook": "Augustin, for the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 32 封 2025→2026，其中 3 封被打开，0 回；收件 augustin@infinitecables.com, info@infinitecables.com；被打开主题「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:infinitecables.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 0）（第 74 批(h)））",
+   "type": "北美连接产品网店（含 OEM 定制）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 32，Opened 标签 3（Simon 群发追踪）；用户表：「MC DVI FS PoE SFP 串口 销售平台」；研究档 risks：网店多品类：交换机为配套；MC/SFP/串口无 Saga SKU（Q-32）"
+  },
+  "situation": "Infinite Cables（北美连接产品网店：AV/网络/光纤线缆、UPS 电池、安防摄像机；服务分销商/经销商/安装商与政府/学校采购单，大批量折扣、Custom Orders and OEM；表内「MC / DVI / FS / PoE / SFP / 串口，销售平台」；KP Augustin Liu（Supervisor）、Richard Bonsol（Sales））；群发 10 次无回复。",
+  "need": "网店 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC/SFP/串口 Saga 价目无（Q-32）",
+  "breakpoint": "网店多品类：交换机为配套；MC/SFP/串口无 Saga SKU（Q-32）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-14 $300（48 Port PoE Managed Switch）、2025-05-05 $65（10G Media Converter）、2025-06-23 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "网店 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC/SFP/串口 Saga 价目无（Q-32）。已打开的主题（3/32 封有打开记录）：「8 Port Industrial PoE Switch」(2025-01-09)、「Optional Marvell Chipset Solutions」(2025-12-05)、「OEM Core Switching Solution」(2026-01-14) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Saga Feature List_7.5.x_L2+(2026-06-23)、Product Link_2026Q3(2026-07-16)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → augustin@infinitecables.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "Augustin, for the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+    "why": "32 封 / 3 次打开 / 0 回｜首封 2025-01-09 → 末封 2026-09-10（32 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC DVI FS PoE SFP 串口 销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Managed Optical Bypass Switch",
+   "body": "Hi Augustin,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $80.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

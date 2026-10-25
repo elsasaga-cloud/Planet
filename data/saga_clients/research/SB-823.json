@@ -1,126 +1,126 @@
 {
-  "code": "SB-823",
-  "name_official": "Enable-IT, Inc.（美国）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（enableit.com，快照 2026-10-21）",
-  "summary": "美国以太网 / PoE 延长器专业制造商（Made in USA，AS9100D，定制 OEM；poe 358 / switch 68 / oem 33），Director David Conners；表内「专门做 PoE 和 Ethernet extender；ONV 的商用 PoE」；群发 17 次无回复。延长器 Saga 无（Q-32）；其配套商用 PoE 交换机（ONV）可替换。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "ONV",
-    "Enable-IT（自有）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "以太网 / PoE 延长器，美国制造，AS9100D，定制 OEM",
-      "quote": "Enable-IT Ethernet Extender and PoE Extender Solutions Made In The USA, Superior Performance, Custom OEM Design Solutions Globally AS9100D certified",
-      "url": "https://enableit.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "专门做 PoE 和 Ethernet extender；ONV 的商业 PoE",
-      "quote": "兴趣：专门做 PoE和Ethernet extender ONV的商业PoE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "David Conners",
-      "title": "Director",
-      "email": "dconners@enableit.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-823",
+ "name_official": "Enable-IT, Inc.（美国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（enableit.com，快照 2026-10-21）",
+ "summary": "美国以太网 / PoE 延长器专业制造商（Made in USA，AS9100D，定制 OEM；poe 358 / switch 68 / oem 33），Director David Conners；表内「专门做 PoE 和 Ethernet extender；ONV 的商用 PoE」；群发 17 次无回复。延长器 Saga 无（Q-32）；其配套商用 PoE 交换机（ONV）可替换。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ONV",
+  "Enable-IT（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "以太网 / PoE 延长器，美国制造，AS9100D，定制 OEM",
+   "quote": "Enable-IT Ethernet Extender and PoE Extender Solutions Made In The USA, Superior Performance, Custom OEM Design Solutions Globally AS9100D certified",
+   "url": "https://enableit.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Enable-IT, Inc.",
-    "founded": "（待核）",
-    "hq": "USA",
-    "size": "中小型制造商",
-    "other": "AS9100D（航空级质量体系）"
-  },
-  "business_lines": [
-    "以太网 / PoE 延长器（自产）",
-    "配套 PoE 交换机（ONV 外购）"
-  ],
-  "channels": {
-    "role": "制造商（配套 OEM 采购）",
-    "region": "美国"
-  },
-  "signals": [
-    "配套商用 PoE 用 ONV → 同规格替换（Marvell 管理型差异）"
-  ],
-  "risks": [
-    "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-    "延长器主业 Saga 无；17 次群发无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。"
-  },
-  "email_hook": "David, for the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like.",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 2 封被打开，0 回；收件 dconners@enableit.com, support@enableit.com；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）",
-      "type": "—",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "US 主攻（四主）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 29，Opened 标签 2（Simon 群发追踪）；用户表：「兴趣：专门做 PoE和Ethernet extender ONV的商业PoE」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
-    },
-    "situation": "美国以太网 / PoE 延长器专业制造商（Made in USA，AS9100D，定制 OEM；poe 358 / switch 68 / oem 33），Director David Conners；表内「专门做 PoE 和 Ethernet extender；ONV 的商用 PoE」；群发 17 次无回复。延长器 Saga 无（Q-32）；其配套商用 PoE 交换机（ONV）可替换。",
-    "need": "替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。",
-    "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-25 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-05 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
-      "why": "替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。已打开的主题（2/29 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-05)、「Industrial PoE Switch」(2025-08-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-26)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → dconners@enableit.com",
-      "action": "短信一问（email_hook）",
-      "one_question": "David, for the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like. Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-18",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-        "why": "29 封 / 2 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-18（29 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：专门做 PoE和Ethernet extender ONV的商业PoE",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Marvell Industrial Alert System",
-      "body": "Hi David,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like.\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "专门做 PoE 和 Ethernet extender；ONV 的商业 PoE",
+   "quote": "兴趣：专门做 PoE和Ethernet extender ONV的商业PoE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "David Conners",
+   "title": "Director",
+   "email": "dconners@enableit.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Enable-IT, Inc.",
+  "founded": "（待核）",
+  "hq": "USA",
+  "size": "中小型制造商",
+  "other": "AS9100D（航空级质量体系）"
+ },
+ "business_lines": [
+  "以太网 / PoE 延长器（自产）",
+  "配套 PoE 交换机（ONV 外购）"
+ ],
+ "channels": {
+  "role": "制造商（配套 OEM 采购）",
+  "region": "美国"
+ },
+ "signals": [
+  "配套商用 PoE 用 ONV → 同规格替换（Marvell 管理型差异）"
+ ],
+ "risks": [
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "延长器主业 Saga 无；17 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。"
+ },
+ "email_hook": "David, for the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like.",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 2 封被打开，0 回；收件 dconners@enableit.com, support@enableit.com；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:enableit.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 29，Opened 标签 2（Simon 群发追踪）；用户表：「兴趣：专门做 PoE和Ethernet extender ONV的商业PoE」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+  },
+  "situation": "美国以太网 / PoE 延长器专业制造商（Made in USA，AS9100D，定制 OEM；poe 358 / switch 68 / oem 33），Director David Conners；表内「专门做 PoE 和 Ethernet extender；ONV 的商用 PoE」；群发 17 次无回复。延长器 Saga 无（Q-32）；其配套商用 PoE 交换机（ONV）可替换。",
+  "need": "替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。",
+  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-25 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-05 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
+   "why": "替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。已打开的主题（2/29 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-05)、「Industrial PoE Switch」(2025-08-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-26)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → dconners@enableit.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "David, for the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like. Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-18",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "29 封 / 2 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-18（29 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：专门做 PoE和Ethernet extender ONV的商业PoE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Marvell Industrial Alert System",
+   "body": "Hi David,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like.\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

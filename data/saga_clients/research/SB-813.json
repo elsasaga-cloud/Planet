@@ -1,125 +1,125 @@
 {
-  "code": "SB-813",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（cctvroom.com，快照 2026-10-21）",
-  "summary": "美国 CCTVRoom / VIZMA Technology LLC（住宅/商业/工业视频安防方案与 DIY；表内「MC SFP 工业 FS 都有但产品不多；优普托（Utepo）的工业 FS」）；群发 18 次无回复。",
-  "type": "安防集成/网店（美国，Utepo 工业 FS 在售）",
-  "size": "",
-  "brands_seen": [
-    "Utepo"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：CCTVRoom | Secure Your Future；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络",
-      "quote": "Discover premium video security solutions for homes, businesses, and industrial needs. Expert guidance and peace of mind with CCTVRoom's advanced surveillance systems.",
-      "url": "https://www.cctvroom.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC SFP 工业FS 都有 但是产品不多；VIZMA Technology LLC",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "CCTVRoom 定位",
-      "quote": "CCTVRoom | Secure Your Future ; premium video security solutions for homes, businesses, and industrial needs ; /industrial",
-      "url": "https://www.cctvroom.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Utepo 工业 FS；产品不多",
-      "quote": "MC SFP 工业FS 都有 但是产品不多；优普托的工业FS；VIZMA Technology LLC",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-813",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（cctvroom.com，快照 2026-10-21）",
+ "summary": "美国 CCTVRoom / VIZMA Technology LLC（住宅/商业/工业视频安防方案与 DIY；表内「MC SFP 工业 FS 都有但产品不多；优普托（Utepo）的工业 FS」）；群发 18 次无回复。",
+ "type": "安防集成/网店（美国，Utepo 工业 FS 在售）",
+ "size": "",
+ "brands_seen": [
+  "Utepo"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：CCTVRoom | Secure Your Future；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络",
+   "quote": "Discover premium video security solutions for homes, businesses, and industrial needs. Expert guidance and peace of mind with CCTVRoom's advanced surveillance systems.",
+   "url": "https://www.cctvroom.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 cctvroom.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC SFP 工业FS 都有 但是产品不多；VIZMA Technology LLC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "视频安防方案（住宅 / 商业 / 工业）"
-  ],
-  "channels": {
-    "role": "安防集成/网店（美国，Utepo 工业 FS 在售）",
-    "region": "美国",
-    "contact": "info@cctvroom.com"
+  {
+   "kind": "官网快照",
+   "claim": "CCTVRoom 定位",
+   "quote": "CCTVRoom | Secure Your Future ; premium video security solutions for homes, businesses, and industrial needs ; /industrial",
+   "url": "https://www.cctvroom.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Discover premium video security solutions for homes, businesses, and industrial needs；页面 /industrial；kw cctv 29 / surveillance 23 / industrial 14",
-    "表内：MC SFP 工业 FS 都有 但是产品不多；优普托的工业 FS；VIZMA Technology LLC"
-  ],
-  "risks": [
-    "现供 Utepo（深圳）价格基准低；产品不多（量小）；18 次无回复，仅 info@"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 25,
-    "why": "现售 Utepo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代；商用 STC-28DGGPM（$84.1）；MC STI-110GE（$23.4）"
-  },
-  "email_hook": "Alongside the Utepo industrial switches in your industrial security packages, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, 8-PoE + 2 SFP L2+ commercial switches and gigabit MCs from single units, FCC/CE/RoHS, EXW USD — which configuration do your industrial installs use most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 29 封 2024→2026，无记录打开，0 回；收件 info@cctvroom.com；主题多为「8 Port Industrial PoE Switch、Marvell Industrial Alert System」）",
-      "type": "安防集成/网店（美国，Utepo 工业 FS 在售）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "US 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 29；用户表：「MC SFP 工业FS 都有 但是产品不多；VIZMA Technology LLC」；研究档 risks：现供 Utepo（深圳）价格基准低；产品不多（量小）；18 次无回复，仅 info@"
-    },
-    "situation": "美国 CCTVRoom / VIZMA Technology LLC（住宅/商业/工业视频安防方案与 DIY；表内「MC SFP 工业 FS 都有但产品不多；优普托（Utepo）的工业 FS」）；群发 18 次无回复。",
-    "need": "现售 Utepo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代；商用 STC-28DGGPM（$84.1）；MC STI-110GE（$23.4）",
-    "breakpoint": "现供 Utepo（深圳）价格基准低；产品不多（量小）；18 次无回复，仅 info@",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 25,
-      "price": "换人再触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-16 $65（10G Media Converter）、2024-11-14 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）",
-      "why": "现售 Utepo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代；商用 STC-28DGGPM（$84.1）；MC STI-110GE（$23.4）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Alongside the Utepo industrial switches in your industrial security packages, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, 8-PoE + 2 SFP L2+ commercial switches and gigabit MCs from single units, FCC/CE/RoHS, EXW USD — which configuration do your industrial installs use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-25",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "8 Port Industrial PoE Switch、Marvell Industrial Alert System",
-        "why": "29 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-25（29 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "MC SFP 工业FS 都有 但是产品不多；VIZMA Technology LLC",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Utepo 工业 FS；产品不多",
+   "quote": "MC SFP 工业FS 都有 但是产品不多；优普托的工业FS；VIZMA Technology LLC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 cctvroom.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "视频安防方案（住宅 / 商业 / 工业）"
+ ],
+ "channels": {
+  "role": "安防集成/网店（美国，Utepo 工业 FS 在售）",
+  "region": "美国",
+  "contact": "info@cctvroom.com"
+ },
+ "signals": [
+  "官网：Discover premium video security solutions for homes, businesses, and industrial needs；页面 /industrial；kw cctv 29 / surveillance 23 / industrial 14",
+  "表内：MC SFP 工业 FS 都有 但是产品不多；优普托的工业 FS；VIZMA Technology LLC"
+ ],
+ "risks": [
+  "现供 Utepo（深圳）价格基准低；产品不多（量小）；18 次无回复，仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "现售 Utepo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代；商用 STC-28DGGPM（$84.1）；MC STI-110GE（$23.4）"
+ },
+ "email_hook": "Alongside the Utepo industrial switches in your industrial security packages, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, 8-PoE + 2 SFP L2+ commercial switches and gigabit MCs from single units, FCC/CE/RoHS, EXW USD — which configuration do your industrial installs use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 29 封 2024→2026，无记录打开，0 回；收件 info@cctvroom.com；主题多为「8 Port Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:cctvroom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
+   "type": "安防集成/网店（美国，Utepo 工业 FS 在售）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 29；用户表：「MC SFP 工业FS 都有 但是产品不多；VIZMA Technology LLC」；研究档 risks：现供 Utepo（深圳）价格基准低；产品不多（量小）；18 次无回复，仅 info@"
+  },
+  "situation": "美国 CCTVRoom / VIZMA Technology LLC（住宅/商业/工业视频安防方案与 DIY；表内「MC SFP 工业 FS 都有但产品不多；优普托（Utepo）的工业 FS」）；群发 18 次无回复。",
+  "need": "现售 Utepo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代；商用 STC-28DGGPM（$84.1）；MC STI-110GE（$23.4）",
+  "breakpoint": "现供 Utepo（深圳）价格基准低；产品不多（量小）；18 次无回复，仅 info@",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "换人再触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-16 $65（10G Media Converter）、2024-11-14 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）",
+   "why": "现售 Utepo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代；商用 STC-28DGGPM（$84.1）；MC STI-110GE（$23.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Alongside the Utepo industrial switches in your industrial security packages, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, 8-PoE + 2 SFP L2+ commercial switches and gigabit MCs from single units, FCC/CE/RoHS, EXW USD — which configuration do your industrial installs use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-25",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "8 Port Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "29 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-25（29 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC SFP 工业FS 都有 但是产品不多；VIZMA Technology LLC",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,158 +1,158 @@
 {
-  "code": "SB-827",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（fastercable.com，快照 2026-10-21）",
-  "summary": "美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。",
-  "type": "线缆供应商（美国，自有标工业电口 FS）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：FasterCable；品类词 布线 / 线缆 / 网络交换 / PoE",
-      "quote": "Featured Products；New Products",
-      "url": "https://fastercable.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "5/8/16电口工业FS 周边产品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "FasterCable 站点型号",
-      "quote": "FasterCable ; Featured Products ; EISW16-100T ; EISW8-100T",
-      "url": "https://fastercable.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "5/8/16 电口工业 FS",
-      "quote": "5/8/16电口工业FS 周边产品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Richard Ozols",
-      "title": "Sales Manager",
-      "email": "richard@fastercable.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Juliette O",
-      "title": "V. President",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-827",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（fastercable.com，快照 2026-10-21）",
+ "summary": "美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。",
+ "type": "线缆供应商（美国，自有标工业电口 FS）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：FasterCable；品类词 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Featured Products；New Products",
+   "url": "https://fastercable.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "5/8/16电口工业FS 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "线缆 / 网络配件",
-    "工业以太网交换机（自有 EISW 系列）"
-  ],
-  "channels": {
-    "role": "线缆供应商（美国，自有标工业电口 FS）",
-    "region": "美国",
-    "contact": "richard@fastercable.com、sales@fastercable.com"
+  {
+   "kind": "官网快照",
+   "claim": "FasterCable 站点型号",
+   "quote": "FasterCable ; Featured Products ; EISW16-100T ; EISW8-100T",
+   "url": "https://fastercable.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "站内 EISW16-100T / EISW8-100T；kw cable 191 / switch 21 / ethernet 14",
-    "表内：5/8/16 电口工业 FS 周边产品；KP Richard Ozols / Sales Manager；Juliette O / V. President"
-  ],
-  "risks": [
-    "主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）",
-    "20 次无回复 → 改向 Sales Manager 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-080GE",
-    "tier": 30,
-    "why": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）"
-  },
-  "email_hook": "Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range?",
-  "products_seen": [
-    {
-      "brand": "FasterCable（自有）",
-      "model": "EISW8-100T",
-      "spec": "8 口百兆工业交换机",
-      "saga": "STI-080GE（千兆升级）",
-      "url": "https://fastercable.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "FasterCable（自有）",
-      "model": "EISW16-100T",
-      "spec": "16 口百兆工业交换机",
-      "saga": "SmartByte 16 电口工业型号（注明）",
-      "url": "https://fastercable.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 30 封 2024→2026，无记录打开，0 回；收件 juliette@fastercable.com, richard@fastercable.com；主题多为「90W PoE Managed Switch、Managed Optical Bypass Switch」）",
-      "type": "线缆供应商（美国，自有标工业电口 FS）",
-      "sieve": "1（只收到群发）",
-      "stop": "30 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "US 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 30；用户表：「5/8/16电口工业FS 周边产品」；研究档 risks：主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）"
-    },
-    "situation": "美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。",
-    "need": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）",
-    "breakpoint": "主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）",
-    "saga_now": {
-      "p1": "STI-080GE",
-      "tier": 30,
-      "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $65（10G Media Converter）、2025-10-09 $280（10G Enterprise SFP Switch）",
-      "why": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-01",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "90W PoE Managed Switch、Managed Optical Bypass Switch",
-        "why": "30 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-10-01（30 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "5/8/16电口工业FS 周边产品",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "5/8/16 电口工业 FS",
+   "quote": "5/8/16电口工业FS 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Richard Ozols",
+   "title": "Sales Manager",
+   "email": "richard@fastercable.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Juliette O",
+   "title": "V. President",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "线缆 / 网络配件",
+  "工业以太网交换机（自有 EISW 系列）"
+ ],
+ "channels": {
+  "role": "线缆供应商（美国，自有标工业电口 FS）",
+  "region": "美国",
+  "contact": "richard@fastercable.com、sales@fastercable.com"
+ },
+ "signals": [
+  "站内 EISW16-100T / EISW8-100T；kw cable 191 / switch 21 / ethernet 14",
+  "表内：5/8/16 电口工业 FS 周边产品；KP Richard Ozols / Sales Manager；Juliette O / V. President"
+ ],
+ "risks": [
+  "主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）",
+  "20 次无回复 → 改向 Sales Manager 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-080GE",
+  "tier": 30,
+  "why": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）"
+ },
+ "email_hook": "Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range?",
+ "products_seen": [
+  {
+   "brand": "FasterCable（自有）",
+   "model": "EISW8-100T",
+   "spec": "8 口百兆工业交换机",
+   "saga": "STI-080GE（千兆升级）",
+   "url": "https://fastercable.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "FasterCable（自有）",
+   "model": "EISW16-100T",
+   "spec": "16 口百兆工业交换机",
+   "saga": "SmartByte 16 电口工业型号（注明）",
+   "url": "https://fastercable.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 30 封 2024→2026，无记录打开，0 回；收件 juliette@fastercable.com, richard@fastercable.com；主题多为「90W PoE Managed Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:fastercable.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 0）（第 74 批(h)））",
+   "type": "线缆供应商（美国，自有标工业电口 FS）",
+   "sieve": "1（只收到群发）",
+   "stop": "30 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 30；用户表：「5/8/16电口工业FS 周边产品」；研究档 risks：主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）"
+  },
+  "situation": "美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。",
+  "need": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）",
+  "breakpoint": "主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 30,
+   "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $65（10G Media Converter）、2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "90W PoE Managed Switch、Managed Optical Bypass Switch",
+    "why": "30 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-10-01（30 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "5/8/16电口工业FS 周边产品",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }
