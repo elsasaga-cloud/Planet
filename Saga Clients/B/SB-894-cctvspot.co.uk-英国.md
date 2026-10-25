@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。；首触锚价 STC-28DGGPM $80.7 EXW（主表 20% 档；第 72 批）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS/UKCA — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） 网站表单（cctvspot.co.uk，无邮箱） 表单一问（短）
+- **下一步**：待 Simon 排期（首封） 网站表单（cctvspot.co.uk，无邮箱） 表单一问（短）（第 75 批(f) 2026-10-25：英文信稿已写 `draft_en`；网站表单用，短版）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。
 - **断点 / 为什么停在这里**：无邮箱（需网站表单）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表 20% 档；第 72 批）；按主表（研究档 saga_fit））——对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。
-- **下一步（具体）**：待 Simon 排期（首封）　网站表单（cctvspot.co.uk，无邮箱）　表单一问（短）
+- **下一步（具体）**：待 Simon 排期（首封）　网站表单（cctvspot.co.uk，无邮箱）　表单一问（短）（第 75 批(f) 2026-10-25：英文信稿已写 `draft_en`；网站表单用，短版）
   - 第一问（只问一个）：Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS/UKCA — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -215,27 +215,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Web form: neutral-brand 8-PoE L2+ switch next to UTEPO
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We supply neutral-brand PoE switches to CCTV e-shops. Next to the UTEPO commercial PoE units you list: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, UKCA/CE/RoHS - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity).
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which PoE port count do your installer customers buy most - 4, 8 or 16? If useful, I will send the datasheet to the address you prefer.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 研究档备注（未并入正文）：（无邮箱；网站表单联系）
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
