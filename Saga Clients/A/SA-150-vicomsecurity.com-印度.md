@@ -58,7 +58,7 @@ updated: 2026-10-25
 | 2024-05-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个mini工业交换机」→ 对方「在和他们合作/https://www.benchu-group.net/」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.62 2024.5.19` |
 | 2026-08-17 | 去 | Elsa 群发（BCC；To mintusony@gmail.com，印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@vicomsecurity.com, vicomsecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 群发 Bcc 已触达（锚月轮 12 轮，最近 2026-08-17）、0 回），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

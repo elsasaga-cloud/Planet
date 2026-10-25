@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-614` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@kmsoltec.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（价格未读），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）** ｜ 类型：工业 PC 制造/分销（意大利，Delock 配件） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「卖德国Delock公司的；switch」；研究档 risks：交换机为配套品类（Delock 配件级），量小；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
+- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@kmsoltec.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）** ｜ 类型：工业 PC 制造/分销（意大利，Delock 配件） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「卖德国Delock公司的；switch」；研究档 risks：交换机为配套品类（Delock 配件级），量小；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：意大利 KM Soltec Srl（定制工业 PC「Made in Italy」、工业触控设备、Asus 迷你 PC 认证经销；表内「卖德国 Delock 公司的；switch」「质量一般」）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）
 - **断点 / 为什么停在这里**：交换机为配套品类（Delock 配件级），量小

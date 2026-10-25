@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1117` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（6 封来信全部是 noreply@l-com.com 自动回复）；Elsa 群发 BCC 已触达 2025-02-28「16 Port Ethernet Switch」（价格未读），CH/US/misc 批次 To office@lightwin.ch，0 回（第 74 批 Bcc 头核对 msg 1954d2dc46891435）** ｜ 类型：美国连接器/网络配件大分销（L-com / Infinite Electronics）——sales@ 是客服入口 ｜ 筛子：0 ｜ 停点：大公司 sales@ 入口 ｜ 复活：需要供应商入驻渠道（vendor onboarding），不是邮件 ｜ 通路：US 主攻 ｜ 节奏：不动 ｜ 证据：k=82bce901657f3d30 等；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@lightwin.ch）本户见于 2025-02-28 名单；2026-08-11 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
+- **绑定等级：未触达（6 封来信全部是 noreply@l-com.com 自动回复）；Elsa 群发 BCC 已触达 2025-02-28「16 Port Ethernet Switch」（稿内无价，第 74 批(p) 已读稿），CH/US/misc 批次 To office@lightwin.ch，0 回（第 74 批 Bcc 头核对 msg 1954d2dc46891435）** ｜ 类型：美国连接器/网络配件大分销（L-com / Infinite Electronics）——sales@ 是客服入口 ｜ 筛子：0 ｜ 停点：大公司 sales@ 入口 ｜ 复活：需要供应商入驻渠道（vendor onboarding），不是邮件 ｜ 通路：US 主攻 ｜ 节奏：不动 ｜ 证据：k=82bce901657f3d30 等；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@lightwin.ch）本户见于 2025-02-28 名单；2026-08-11 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—

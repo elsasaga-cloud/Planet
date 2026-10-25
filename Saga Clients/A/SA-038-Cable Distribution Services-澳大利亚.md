@@ -59,7 +59,7 @@ updated: 2026-10-25
 | 2025-02-25 | out | Elsa → paul@cabledistribution.com.au | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2025-11-19 | 去 | Saga（群发） | 「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `be9998111900ae04` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 1 轮、0 回），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

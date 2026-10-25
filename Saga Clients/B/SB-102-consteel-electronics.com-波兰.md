@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-102` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（13 封「来信」= 1 封休假自动回复 + 12 封 Consteel 自家新闻信（它把 s./a. 邮箱加进了邮件列表）；无人工回复）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（价格未读），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）** ｜ 类型：波兰工业自动化分销（Consteel Electronics，3onedata 工业线代理）——竞品代理 ｜ 筛子：0 ｜ 停点：新闻信不是回复；3onedata 代理无动机换线 ｜ 复活：不动 ｜ 通路：PL 次级 ｜ 节奏：不动 ｜ 证据：k=e2b261c39ea8864e（OOO）；e9e2609a807e5171 等（newsletter）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
+- **绑定等级：未触达（13 封「来信」= 1 封休假自动回复 + 12 封 Consteel 自家新闻信（它把 s./a. 邮箱加进了邮件列表）；无人工回复）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）** ｜ 类型：波兰工业自动化分销（Consteel Electronics，3onedata 工业线代理）——竞品代理 ｜ 筛子：0 ｜ 停点：新闻信不是回复；3onedata 代理无动机换线 ｜ 复活：不动 ｜ 通路：PL 次级 ｜ 节奏：不动 ｜ 证据：k=e2b261c39ea8864e（OOO）；e9e2609a807e5171 等（newsletter）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：群发命中的是他们的营销列表。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—

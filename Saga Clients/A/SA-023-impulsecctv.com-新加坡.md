@@ -63,7 +63,7 @@ updated: 2026-10-25
 | 2026-05-11 | out | Elsa → ak@impulsecctv.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-08-04 | out | Elsa → ak@impulsecctv.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 4/4 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 4 轮、0 回），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

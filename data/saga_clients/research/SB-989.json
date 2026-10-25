@@ -106,7 +106,7 @@
   ],
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 13 封 2025→2026，1 次记录打开，0 回；收件 saleem.a@magnusgulf.com, sales@magnusgulf.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2025-10-03「10G Enterprise SFP Switch」（价格未读），AU/AE+CA/UK/HR（avigilon 批次前身） 批次 To admin@ionsecurity.com.au，0 回（第 74 批 Bcc 头核对 msg 199a8c61c9839390）",
+      "level": "未触达（A 邮箱 13 封 2025→2026，1 次记录打开，0 回；收件 saleem.a@magnusgulf.com, sales@magnusgulf.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2025-10-03「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），AU/AE+CA/UK/HR（avigilon 批次前身） 批次 To admin@ionsecurity.com.au，0 回（第 74 批 Bcc 头核对 msg 199a8c61c9839390）",
       "type": "IT 分销商（阿联酋，Vivotek 工业 PoE 在售）",
       "sieve": "1~2（1 次打开）",
       "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

@@ -1,160 +1,160 @@
 {
- "code": "SA-149",
- "name_official": "Trans Audio Video S.r.l.（TAV Group，Caserta + Cologno Monzese, IT；transaudiovideo.com）",
- "website_status": "在线",
- "summary": "意大利卡塞塔的专业影像/广播/安防分销集团 Trans Audio Video S.r.l.（1987 年由 Salvatore Brighel 创立；P.IVA 01675270613；30 名专业人员；三大事业部 Media / Academy / Security；2024 年营收 €18.0M、净利 €33.8k；办公室 Caserta Viale Melvin Jones 12 与 Cologno Monzese Corso Roma 186；参展 SICUREZZA 2025 米兰）。展会（IFSEC UK 2023）记录：GM Francesco Brighel——采购过多次交换机（主要商业级、少量工业级），希望合作，问工业电源，要详细报价单；之后 14 次推送 0 回复。",
- "type": "AV/安防集成商",
- "size": "待补证",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "采购过多次交换机、希望合作、要详细报价单；0 回复 / 14 次",
-   "quote": "采购过多次交换机（少量工业级，主要是商业级）希望与我们合作 问了工业电源（朱姐说可以替他们采购） 要详细报价单（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "公司定位与联系方式",
-   "quote": "Dal 1987 operiamo nel settore della distribuzione, offrendo prodotti e soluzioni dedicati ai professionisti del cinema, del broadcast, della fotografia, del video professionale e della security. TAV è organizzata in tre divisioni — Media, Academy e Security … P.IVA 01675270613 … Caserta Viale Melvin Jones, 12 Tel: +39 0823 329970 … Cologno M.se Corso Roma, 186 Tel: +39 039 791339",
-   "url": "https://transaudiovideo.com/",
-   "date": "2026-09-28"
-  },
-  {
-   "kind": "官网",
-   "claim": "规模与家族治理",
-   "quote": "TAV è una realtà strutturata e altamente specializzata, organizzata in tre divisioni principali e composta da un team di 30 professionisti. La guida familiare è uno dei suoi punti di forza … TAV nasce nel 1987 da un'idea di Salvatore Brighel",
-   "url": "https://test.transaudiovideo.com/group/",
-   "date": "2026-03-25"
-  },
-  {
-   "kind": "财报名录",
-   "claim": "2024 年营收",
-   "quote": "TRANS AUDIO VIDEO S.R.L. (P.IVA 01675270613) … Nel 2024, ha gestito un fatturato di €18,0 milioni generando un utile netto di €33,8 mila",
-   "url": "https://www.reportaziende.it/trans_audio_video_srl_ce_01675270613",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "参展 SICUREZZA 2025",
-   "quote": "Anche nel 2025 Trans Audio Video conferma la sua presenza a SICUREZZA … Dal 19 al 21 novembre 2025, ci troverai a Fiera Milano (Rho), presso il PAD 5 – H13 K12",
-   "url": "https://security.transaudiovideo.com/old/",
-   "date": "2025-12-01"
-  },
-  {
-   "kind": "用户表",
-   "claim": "采购历史与需求；14 次推送 0 回复",
-   "quote": "采购过多次交换机（少量工业级，主要是商业级）希望与我们合作 问了工业电源（朱姐说可以替他们采购） 要详细报价单",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Francesco Brighel",
-   "role": "General Manager（用户表；家族企业第二代）",
-   "email": "f.brighel@transaudiovideo.com（用户表）",
-   "phone": "+39 335 7374068（用户表）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Salvatore Brighel",
-   "role": "创始人（官网公开）",
-   "email": "—",
-   "phone": "—",
-   "source": "https://test.transaudiovideo.com/group/"
-  }
- ],
- "grade_override": "A",
- "override_reason": "A 三条件：① 可追溯需求——「采购过多次交换机（主要商业级、少量工业级）、希望合作、要详细报价单」；② 直接具名联系人——GM Francesco Brighel（f.brighel@，手机在册，家族企业第二代）；③ 可赢规模——30 人家族分销商、2024 年营收 €18.0M，Security 事业部分销 CCTV，非巨头。",
- "notes": "重启用手机/WhatsApp（有号码），一页式报价（STC-28DGGPM、STC-424DGGPM-280W、STI-288DGGPM，项目 25%）。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B→A 加厚 v1（官网 + 财报核对）"
- },
- "company_facts": {
-  "legal_name": "Trans Audio Video S.r.l.（P.IVA 01675270613）",
-  "founded": "1987",
-  "hq": "Viale Melvin Jones 12, 81100 Caserta, Italy（+39 0823 329970；info@ / security@transaudiovideo.com）；分部 Corso Roma 186, Cologno Monzese (MI)（+39 039 791339）",
-  "size": "30 人（官网）；2024 年营收 €18.0M（reportaziende）",
-  "other": "家族企业（Brighel）；事业部 Media / Academy / Security；SICUREZZA 2025 参展（Pad 5 H13 K12）"
- },
- "business_lines": [
-  "广播/电影/专业影像设备分销（Sony/Panasonic 渊源）",
-  "Security 事业部：视频监控与 ICT 方案分销 + 设计/培训/售后",
-  "Academy：培训"
- ],
- "channels": {
-  "网站": "https://transaudiovideo.com/ · https://security.transaudiovideo.com/",
-  "电话": "+39 0823 329970（公开）",
-  "邮箱（公开）": "security@transaudiovideo.com",
-  "LinkedIn": "https://www.linkedin.com/company/trans-audio-video-s.r.l."
- },
- "signals": [
-  "Security 事业部分销 CCTV 并做方案设计 → 商业 PoE 接入（8/24 口）+ 少量工业 PoE 是其明确采购品类",
-  "要「详细报价单」= 直接给完整价格册（商业 + 工业）而非单品"
- ],
- "risks": [
-  "14 次推送 0 回复；米兰 SICUREZZA 2025 后可能已另选供应商"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "分销 20% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$134.5）+ STC-28DGGPM（$80.7）作商业 PoE 主力；少量工业 STI-288DGGPM（$139.9）；随附完整价格册（其明确索要）"
- },
- "email_hook": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 23 封 0 回，Opened 2 次（2024-11-12）；Elsa 箱：`to:transaudiovideo.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(g)））",
-   "type": "卡塞塔 AV/安防集成（TAV Group）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "WhatsApp（研究档有手机）",
-   "lane": "IT/EU",
-   "cadence": "一次",
-   "evidence": "邮件：去信 23 封（2024-07-09 → 2026-09-16），来信 0；Opened 标签 2 次（2024-08-07、2024-11-12）；收件人 f.brighel@transaudiovideo.com"
-  },
-  "situation": "23 封被打开 2 次（同日）。",
-  "need": "8/24 口 PoE 项目价。",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "STC-28DGGPM / STC-424DGGPM-280W",
-   "tier": 25,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1",
-   "channel": "WhatsApp",
-   "action": "一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）",
-   "one_question": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?"
-  },
-  "facts": [
-   {
-    "date": "2024-08-07",
-    "dir": "去",
-    "who": "Saga（群发）",
-    "quote": "「24 port passive poe switch」被打开（Mailtrack Opened 标签）",
-    "why": "唯一的互动痕迹",
-    "k": "535fa639b6b07db7"
-   },
-   {
-    "date": "2024-11-12",
-    "dir": "去",
-    "who": "Saga（群发）",
-    "quote": "「8 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
-    "why": "唯一的互动痕迹",
-    "k": "8fcd8b6dea1d95ec"
-   }
+  "code": "SA-149",
+  "name_official": "Trans Audio Video S.r.l.（TAV Group，Caserta + Cologno Monzese, IT；transaudiovideo.com）",
+  "website_status": "在线",
+  "summary": "意大利卡塞塔的专业影像/广播/安防分销集团 Trans Audio Video S.r.l.（1987 年由 Salvatore Brighel 创立；P.IVA 01675270613；30 名专业人员；三大事业部 Media / Academy / Security；2024 年营收 €18.0M、净利 €33.8k；办公室 Caserta Viale Melvin Jones 12 与 Cologno Monzese Corso Roma 186；参展 SICUREZZA 2025 米兰）。展会（IFSEC UK 2023）记录：GM Francesco Brighel——采购过多次交换机（主要商业级、少量工业级），希望合作，问工业电源，要详细报价单；之后 14 次推送 0 回复。",
+  "type": "AV/安防集成商",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "采购过多次交换机、希望合作、要详细报价单；0 回复 / 14 次",
+      "quote": "采购过多次交换机（少量工业级，主要是商业级）希望与我们合作 问了工业电源（朱姐说可以替他们采购） 要详细报价单（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "公司定位与联系方式",
+      "quote": "Dal 1987 operiamo nel settore della distribuzione, offrendo prodotti e soluzioni dedicati ai professionisti del cinema, del broadcast, della fotografia, del video professionale e della security. TAV è organizzata in tre divisioni — Media, Academy e Security … P.IVA 01675270613 … Caserta Viale Melvin Jones, 12 Tel: +39 0823 329970 … Cologno M.se Corso Roma, 186 Tel: +39 039 791339",
+      "url": "https://transaudiovideo.com/",
+      "date": "2026-09-28"
+    },
+    {
+      "kind": "官网",
+      "claim": "规模与家族治理",
+      "quote": "TAV è una realtà strutturata e altamente specializzata, organizzata in tre divisioni principali e composta da un team di 30 professionisti. La guida familiare è uno dei suoi punti di forza … TAV nasce nel 1987 da un'idea di Salvatore Brighel",
+      "url": "https://test.transaudiovideo.com/group/",
+      "date": "2026-03-25"
+    },
+    {
+      "kind": "财报名录",
+      "claim": "2024 年营收",
+      "quote": "TRANS AUDIO VIDEO S.R.L. (P.IVA 01675270613) … Nel 2024, ha gestito un fatturato di €18,0 milioni generando un utile netto di €33,8 mila",
+      "url": "https://www.reportaziende.it/trans_audio_video_srl_ce_01675270613",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "参展 SICUREZZA 2025",
+      "quote": "Anche nel 2025 Trans Audio Video conferma la sua presenza a SICUREZZA … Dal 19 al 21 novembre 2025, ci troverai a Fiera Milano (Rho), presso il PAD 5 – H13 K12",
+      "url": "https://security.transaudiovideo.com/old/",
+      "date": "2025-12-01"
+    },
+    {
+      "kind": "用户表",
+      "claim": "采购历史与需求；14 次推送 0 回复",
+      "quote": "采购过多次交换机（少量工业级，主要是商业级）希望与我们合作 问了工业电源（朱姐说可以替他们采购） 要详细报价单",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  "kp": [
+    {
+      "name": "Francesco Brighel",
+      "role": "General Manager（用户表；家族企业第二代）",
+      "email": "f.brighel@transaudiovideo.com（用户表）",
+      "phone": "+39 335 7374068（用户表）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Salvatore Brighel",
+      "role": "创始人（官网公开）",
+      "email": "—",
+      "phone": "—",
+      "source": "https://test.transaudiovideo.com/group/"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": "A",
+  "override_reason": "A 三条件：① 可追溯需求——「采购过多次交换机（主要商业级、少量工业级）、希望合作、要详细报价单」；② 直接具名联系人——GM Francesco Brighel（f.brighel@，手机在册，家族企业第二代）；③ 可赢规模——30 人家族分销商、2024 年营收 €18.0M，Security 事业部分销 CCTV，非巨头。",
+  "notes": "重启用手机/WhatsApp（有号码），一页式报价（STC-28DGGPM、STC-424DGGPM-280W、STI-288DGGPM，项目 25%）。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B→A 加厚 v1（官网 + 财报核对）"
+  },
+  "company_facts": {
+    "legal_name": "Trans Audio Video S.r.l.（P.IVA 01675270613）",
+    "founded": "1987",
+    "hq": "Viale Melvin Jones 12, 81100 Caserta, Italy（+39 0823 329970；info@ / security@transaudiovideo.com）；分部 Corso Roma 186, Cologno Monzese (MI)（+39 039 791339）",
+    "size": "30 人（官网）；2024 年营收 €18.0M（reportaziende）",
+    "other": "家族企业（Brighel）；事业部 Media / Academy / Security；SICUREZZA 2025 参展（Pad 5 H13 K12）"
+  },
+  "business_lines": [
+    "广播/电影/专业影像设备分销（Sony/Panasonic 渊源）",
+    "Security 事业部：视频监控与 ICT 方案分销 + 设计/培训/售后",
+    "Academy：培训"
+  ],
+  "channels": {
+    "网站": "https://transaudiovideo.com/ · https://security.transaudiovideo.com/",
+    "电话": "+39 0823 329970（公开）",
+    "邮箱（公开）": "security@transaudiovideo.com",
+    "LinkedIn": "https://www.linkedin.com/company/trans-audio-video-s.r.l."
+  },
+  "signals": [
+    "Security 事业部分销 CCTV 并做方案设计 → 商业 PoE 接入（8/24 口）+ 少量工业 PoE 是其明确采购品类",
+    "要「详细报价单」= 直接给完整价格册（商业 + 工业）而非单品"
+  ],
+  "risks": [
+    "14 次推送 0 回复；米兰 SICUREZZA 2025 后可能已另选供应商"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 20,
+    "why": "分销 20% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$134.5）+ STC-28DGGPM（$80.7）作商业 PoE 主力；少量工业 STI-288DGGPM（$139.9）；随附完整价格册（其明确索要）"
+  },
+  "email_hook": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 23 封 0 回，Opened 2 次（2024-11-12）；Elsa 箱：`to:transaudiovideo.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(g)））",
+      "type": "卡塞塔 AV/安防集成（TAV Group）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "WhatsApp（研究档有手机）",
+      "lane": "IT/EU",
+      "cadence": "一次",
+      "evidence": "邮件：去信 23 封（2024-07-09 → 2026-09-16），来信 0；Opened 标签 2 次（2024-08-07、2024-11-12）；收件人 f.brighel@transaudiovideo.com"
+    },
+    "situation": "23 封被打开 2 次（同日）。",
+    "need": "8/24 口 PoE 项目价。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STC-28DGGPM / STC-424DGGPM-280W",
+      "tier": 25,
+      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
+      "why": "已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1",
+      "channel": "WhatsApp",
+      "action": "一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "one_question": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?"
+    },
+    "facts": [
+      {
+        "date": "2024-08-07",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「24 port passive poe switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "535fa639b6b07db7"
+      },
+      {
+        "date": "2024-11-12",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「8 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "8fcd8b6dea1d95ec"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

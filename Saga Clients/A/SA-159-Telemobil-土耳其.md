@@ -51,7 +51,7 @@ updated: 2026-10-25
 - **下一步（具体）**：按 WA 节奏　WhatsApp　WA 一句话（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -79,7 +79,7 @@
   "email_hook": "Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 cyberteam@cyberteam.pl, m.patron@cyberteam.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（价格未读），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
+      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 cyberteam@cyberteam.pl, m.patron@cyberteam.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
       "type": "—",
       "sieve": "1（只收到群发）",
       "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

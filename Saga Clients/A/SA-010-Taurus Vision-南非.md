@@ -58,7 +58,7 @@ updated: 2026-10-25
 | 2023-12-09 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了导轨电源信息」→ 对方「后续运费报的太高未成单」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/South Africa 2.5.xlsx no.37 2023.12.9` |
 | 2024-08-13 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「4 8口工业FS」→ 对方「price list」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/South Africa 2.5.xlsx no.37 2024.8.13` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

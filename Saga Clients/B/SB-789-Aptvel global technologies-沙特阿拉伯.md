@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-789` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（1 封自动回复）；退信：arunima@klasseducation.com 2024-06-21；Elsa 群发 BCC 已触达 2025-10-03「10G Enterprise SFP Switch」（价格未读），AU/AE+CA/UK/HR（avigilon 批次前身） 批次 To admin@ionsecurity.com.au，0 回（第 74 批 Bcc 头核对 msg 199a8c61c9839390）** ｜ 类型：沙特/阿联酋 IT（Aptvel） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：SA ｜ 节奏：不动 ｜ 证据：k=474ffd9ec30588c9；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To admin@ionsecurity.com.au）本户见于 2025-10-03 名单；该批次最早 2025-08-22 起共 2 轮，更早轮次 Bcc 未读
+- **绑定等级：未触达（1 封自动回复）；退信：arunima@klasseducation.com 2024-06-21；Elsa 群发 BCC 已触达 2025-10-03「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），AU/AE+CA/UK/HR（avigilon 批次前身） 批次 To admin@ionsecurity.com.au，0 回（第 74 批 Bcc 头核对 msg 199a8c61c9839390）** ｜ 类型：沙特/阿联酋 IT（Aptvel） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：SA ｜ 节奏：不动 ｜ 证据：k=474ffd9ec30588c9；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To admin@ionsecurity.com.au）本户见于 2025-10-03 名单；该批次最早 2025-08-22 起共 2 轮，更早轮次 Bcc 未读
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—

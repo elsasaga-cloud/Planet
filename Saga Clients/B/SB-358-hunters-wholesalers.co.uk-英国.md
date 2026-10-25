@@ -51,7 +51,7 @@ updated: 2026-10-25
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-02-24 | 去 | Elsa 1:1 去信（To sales@hunters-wholesalers.co.uk） | 90W PoE Managed Switch — Marvell L2 managed PoE, programmable GUI, 2×PoE af/at/bt + 6×PoE af/at, 240W, PoE management（摘要无价） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
+| 2025-02-24 | 去 | Elsa 1:1 去信（To sales@hunters-wholesalers.co.uk） | 90W PoE Managed Switch — Marvell L2 managed PoE, programmable GUI, 2×PoE af/at/bt + 6×PoE af/at, 240W, PoE management（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-18 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Marvell Alleycat5 Solution | 23 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-09-18（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 分销商 商业PoE 有润丰达的 | 表内备注 | `用户表` |
 

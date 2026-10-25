@@ -1,206 +1,206 @@
 {
- "code": "SA-045",
- "name_official": "Snexus Networks（İstanbul, Türkiye；另设新加坡 Sim Lim 联络点）",
- "website_status": "在线",
- "summary": "伊斯坦布尔的自有品牌交换机商：SN-ES1300（百兆 PoE）、SN-GS1300/2300（千兆 24+4SFP 网管）、SN-XGS5300（10G 系列）、光纤骨干 SFP 交换机、PoE 电源，官网直接挂美元价（如 SN-ES1300-10P $115、SN-XGS5300-28F $1,130），承诺 2 年换新保修。用户表：ISAF2025 展会客户（Ady 加了 WhatsApp），要 8 光 8 电商业级，报过 $115 的工业款，想要免费样品当礼物，之后 0 回复。",
- "type": "品牌商/经销（自有品牌白牌采购）",
- "size": "未见人数（小型）",
- "brands_seen": [
-  "Snexus"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "自有品牌并公开 USD 零售价",
-   "quote": "SN-ES1300-6P Price US$35.00 … SN-ES1300-10P Price US$115.00 … SN-ES1300-26FP Price US$320.00 … SN-GS1300-6FP Price US$110.00",
-   "url": "https://www.snexus.com.tr/en/shop",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "2 年换新保修（我方报价需对齐）",
-   "quote": "Snexus markalı ürünler … Ürünlerimiz 2 yıl birebir değişim garantisi sunar. 1. The warranty period is 2 years.",
-   "url": "https://www.snexus.com.tr/en/garanti",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "联系方式与地址",
-   "quote": "info@snexus.com.tr · ISTANBUL Sultançiftliği District Cyprus Street Neveser Site C4/1 Çekmeköy / Istanbul · SINGAPORE Rochor Canal Road 02-67 Sim Lim Square",
-   "url": "https://www.snexus.com.tr/en/iletisim",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "SN-GS2300 管理系列官网 USD 价",
-   "quote": "SN-GS2300-10F Price US$320.00 … SN-GS2300-10FP Price US$400.00 … SN-GS2300-28F Price US$660.00 … SN-GS2300-28FP Price US$900.00",
-   "url": "https://www.snexus.com.tr/en/managedgigabitpoe",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "SN-GS1300-26FP 24 口 PoE 400W US$600",
-   "quote": "SN-GS1300-26FP US$600.00 … 24 x 10/100/1000 POE Ports 2 x SFP Fiber Port 400 Watt PoE Budget Plug & Play",
-   "url": "https://www.snexus.com.tr/en/product-page/sn-gs1300-26fp",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "工业系列 ISN-GS 价格",
-   "quote": "ISN-GS1300-6FP Price$300.00 … ISN-GS1300-10FP Price$550.00 … ISN-GS2300-6FP Price$530.00 … ISN-GS2300-10FP Price$700.00",
-   "url": "https://www.snexus.com.tr/en/endustriyel-switchler",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "总机",
-   "email": "info@snexus.com.tr",
-   "phone": "+90 216 606 4445（webrate 登记）",
-   "source": "https://www.snexus.com.tr/en/iletisim"
-  }
- ],
- "notes": "A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "Snexus Networks（snexus.com.tr）",
-  "hq": "İstanbul, Türkiye（另设新加坡 Sim Lim 联络点）",
-  "other": "自有品牌白牌交换机全线，官网 USD 标价（Wix 网店），Hepsiburada 零售在售；2 年换新保修；2026-04/06 仍在发博客推 SN-GS2300-28F"
- },
- "business_lines": [
-  "商用 PoE 交换机 SN-ES1300（百兆）/ SN-GS1300（千兆非管理）/ SN-GS2300（L2/L2+ 管理）",
-  "10G 系列 SN-XGS5300",
-  "光纤骨干 SFP 交换机",
-  "工业交换机 ISN-GS1300 / ISN-GS2300",
-  "PoE 电源"
- ],
- "products_seen": [
-  {
-   "brand": "Snexus",
-   "model": "SN-GS1300-26FP",
-   "spec": "24×GE PoE + 2 SFP，400W，即插即用，US$600",
-   "url": "https://www.snexus.com.tr/en/product-page/sn-gs1300-26fp",
-   "date": "2026-10-21",
-   "saga": "STC-424DGGPM-280W"
-  },
-  {
-   "brand": "Snexus",
-   "model": "SN-GS2300-10FP",
-   "spec": "8×GE PoE + 2 SFP + console，150W，L2/L2+ 管理，US$400",
-   "url": "https://en.snexus.com.tr/product-page/sn-gs1300-24f",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM"
-  },
-  {
-   "brand": "Snexus",
-   "model": "SN-GS2300-28F / 28FP",
-   "spec": "24×GE + 4 SFP（+）管理，US$660 / PoE 版 US$900；Hepsiburada 12,500 TL",
-   "url": "https://www.snexus.com.tr/en/managedgigabitpoe",
-   "date": "2026-10-21",
-   "saga": "STC-424XGGPM-280W（28FP）/ STC-448XGGM(L3) 备选"
-  },
-  {
-   "brand": "Snexus",
-   "model": "SN-GS1300-12FP",
-   "spec": "8×GE PoE + 2 GE + 2 SFP，120W；Hepsiburada 3,250 TL",
-   "url": "https://www.hepsiburada.com/snexus-networks-sn-gs1300-12fp-12-port-gigabit-poe-switch-8-x-10-100-1000m-poe-2-x-10-100-1000m-rj45-uplink-2-x-sfp-fiber-120-watt-poe-switch-pm-HBC00006OPDZ1",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM"
-  },
-  {
-   "brand": "Snexus",
-   "model": "ISN-GS1300-6FP / 10FP；ISN-GS2300-6FP / 10FP",
-   "spec": "工业 4+2 / 8+2 PoE（非管理 $300/$550；管理 $530/$700）",
-   "url": "https://www.snexus.com.tr/en/endustriyel-switchler",
-   "date": "2026-10-21",
-   "saga": "STI-144GP / STI-288DGGPM"
-  },
-  {
-   "brand": "Snexus",
-   "model": "SN-GS1300-8SFP / SN-GS2300-24SFP / SN-XGS5300-28SFP",
-   "spec": "全光骨干 $400 / $1,450 / $1,650",
-   "url": "https://www.snexus.com.tr/en/fiber-omurga-switchler",
-   "date": "2026-10-21",
-   "saga": "—（全 SFP 机型不在 Saga 型谱）"
-  }
- ],
- "channels": {
-  "网站/网店": "https://www.snexus.com.tr/en/shop（USD 标价）",
-  "零售": "Hepsiburada 店铺",
-  "直邮": "info@snexus.com.tr（用户表）",
-  "WhatsApp": "Ady 已加（用户表，ISAF2025）"
- },
- "signals": [
-  "官网 2026-04-15 与 2026-06-22 博客推 SN-GS2300-28F——持续营销自有品牌（2026-10-21）",
-  "工业线 ISN-GS 售价 $300–700，而其向 Saga 要「商业级 8 光 8 电」且嫌 $115 工业款贵——定位价格敏感的白牌采购",
-  "用户表：ISAF2025 现场客户，想要样品当礼物"
- ],
- "risks": [
-  "价格极敏感、要免费样品；自有白牌来源多（华南公版）→ 以 Marvell 平台稳定性 + 2 年保修配套切入，不卷底价",
-  "土耳其进口税；USD 结算 OK（官网本身 USD 标价）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "其 SN-GS2300-10FP（8 PoE + 2 SFP 管理，$400 零售）对位 STC-28DGGPM（EXW $87 @30%）；24 口 SN-GS1300-26FP 对位 STC-424DGGPM-280W；工业 ISN-GS 对位 STI-144GP/288DGGPM；贴 Snexus 标 30% 档"
- },
- "email_hook": "Your SN-GS2300-10FP retails at 400 dollars, and the Marvell-based 8-port PoE+ managed unit with 2 SFP that fits that slot lands well under a quarter of that at EXW in Snexus packing, so I am quoting it together with the 24-port 26FP equivalent.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-11-26；用户表：展会面谈 + WhatsApp + 索要免费样品；Elsa 箱：`to:snexus.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(g)））",
-   "type": "伊斯坦布尔自有品牌白牌采购（Snexus，SN-GS2300-28F）——主攻区",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "免费样品诉求 vs 付样规则",
-   "revive": "WhatsApp（用户表）；对位 SN-GS2300-28F 一次",
-   "lane": "TR",
-   "cadence": "WA 季度",
-   "evidence": "邮件：去信 17 封（2024-06-24 → 2026-09-17），来信 0；Opened 标签 1 次（2025-11-26）；收件人 info@snexus.com.tr"
-  },
-  "situation": "展会见过、WA 在手、要免费样——典型 C6 付样筛子案例；邮件只被打开 1 次。",
-  "need": "24+4 SFP 管理型贴牌。",
-  "breakpoint": "免费样。",
-  "saga_now": {
-   "p1": "STC-424DGGM 类 24+4（对位 SN-GS2300-28F）",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-16 $65（10G Media Converter）、2024-10-28 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（1/17 封有打开记录）：「Booster PoE Switch」(2025-11-26) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "按 WA 节奏",
-   "channel": "WhatsApp",
-   "action": "WA 一句话（付样 + 首批量）",
-   "one_question": "If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?"
-  },
-  "facts": [
-   {
-    "date": "2024-11-05",
-    "dir": "去",
-    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-    "quote": "名单行：「industrial network info@snexus.com.tr 90 53340 48364 https://www.snexus.com.tr/」",
-    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-   },
-   {
-    "date": "2025-11-26",
-    "dir": "去",
-    "who": "Saga（群发）",
-    "quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
-    "why": "唯一的互动痕迹",
-    "k": "7386567b0f7ec1c7"
-   }
+  "code": "SA-045",
+  "name_official": "Snexus Networks（İstanbul, Türkiye；另设新加坡 Sim Lim 联络点）",
+  "website_status": "在线",
+  "summary": "伊斯坦布尔的自有品牌交换机商：SN-ES1300（百兆 PoE）、SN-GS1300/2300（千兆 24+4SFP 网管）、SN-XGS5300（10G 系列）、光纤骨干 SFP 交换机、PoE 电源，官网直接挂美元价（如 SN-ES1300-10P $115、SN-XGS5300-28F $1,130），承诺 2 年换新保修。用户表：ISAF2025 展会客户（Ady 加了 WhatsApp），要 8 光 8 电商业级，报过 $115 的工业款，想要免费样品当礼物，之后 0 回复。",
+  "type": "品牌商/经销（自有品牌白牌采购）",
+  "size": "未见人数（小型）",
+  "brands_seen": [
+    "Snexus"
   ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文",
-   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "自有品牌并公开 USD 零售价",
+      "quote": "SN-ES1300-6P Price US$35.00 … SN-ES1300-10P Price US$115.00 … SN-ES1300-26FP Price US$320.00 … SN-GS1300-6FP Price US$110.00",
+      "url": "https://www.snexus.com.tr/en/shop",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "2 年换新保修（我方报价需对齐）",
+      "quote": "Snexus markalı ürünler … Ürünlerimiz 2 yıl birebir değişim garantisi sunar. 1. The warranty period is 2 years.",
+      "url": "https://www.snexus.com.tr/en/garanti",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系方式与地址",
+      "quote": "info@snexus.com.tr · ISTANBUL Sultançiftliği District Cyprus Street Neveser Site C4/1 Çekmeköy / Istanbul · SINGAPORE Rochor Canal Road 02-67 Sim Lim Square",
+      "url": "https://www.snexus.com.tr/en/iletisim",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "SN-GS2300 管理系列官网 USD 价",
+      "quote": "SN-GS2300-10F Price US$320.00 … SN-GS2300-10FP Price US$400.00 … SN-GS2300-28F Price US$660.00 … SN-GS2300-28FP Price US$900.00",
+      "url": "https://www.snexus.com.tr/en/managedgigabitpoe",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "SN-GS1300-26FP 24 口 PoE 400W US$600",
+      "quote": "SN-GS1300-26FP US$600.00 … 24 x 10/100/1000 POE Ports 2 x SFP Fiber Port 400 Watt PoE Budget Plug & Play",
+      "url": "https://www.snexus.com.tr/en/product-page/sn-gs1300-26fp",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "工业系列 ISN-GS 价格",
+      "quote": "ISN-GS1300-6FP Price$300.00 … ISN-GS1300-10FP Price$550.00 … ISN-GS2300-6FP Price$530.00 … ISN-GS2300-10FP Price$700.00",
+      "url": "https://www.snexus.com.tr/en/endustriyel-switchler",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "—",
+      "role": "总机",
+      "email": "info@snexus.com.tr",
+      "phone": "+90 216 606 4445（webrate 登记）",
+      "source": "https://www.snexus.com.tr/en/iletisim"
+    }
+  ],
+  "notes": "A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "Snexus Networks（snexus.com.tr）",
+    "hq": "İstanbul, Türkiye（另设新加坡 Sim Lim 联络点）",
+    "other": "自有品牌白牌交换机全线，官网 USD 标价（Wix 网店），Hepsiburada 零售在售；2 年换新保修；2026-04/06 仍在发博客推 SN-GS2300-28F"
+  },
+  "business_lines": [
+    "商用 PoE 交换机 SN-ES1300（百兆）/ SN-GS1300（千兆非管理）/ SN-GS2300（L2/L2+ 管理）",
+    "10G 系列 SN-XGS5300",
+    "光纤骨干 SFP 交换机",
+    "工业交换机 ISN-GS1300 / ISN-GS2300",
+    "PoE 电源"
+  ],
+  "products_seen": [
+    {
+      "brand": "Snexus",
+      "model": "SN-GS1300-26FP",
+      "spec": "24×GE PoE + 2 SFP，400W，即插即用，US$600",
+      "url": "https://www.snexus.com.tr/en/product-page/sn-gs1300-26fp",
+      "date": "2026-10-21",
+      "saga": "STC-424DGGPM-280W"
+    },
+    {
+      "brand": "Snexus",
+      "model": "SN-GS2300-10FP",
+      "spec": "8×GE PoE + 2 SFP + console，150W，L2/L2+ 管理，US$400",
+      "url": "https://en.snexus.com.tr/product-page/sn-gs1300-24f",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM"
+    },
+    {
+      "brand": "Snexus",
+      "model": "SN-GS2300-28F / 28FP",
+      "spec": "24×GE + 4 SFP（+）管理，US$660 / PoE 版 US$900；Hepsiburada 12,500 TL",
+      "url": "https://www.snexus.com.tr/en/managedgigabitpoe",
+      "date": "2026-10-21",
+      "saga": "STC-424XGGPM-280W（28FP）/ STC-448XGGM(L3) 备选"
+    },
+    {
+      "brand": "Snexus",
+      "model": "SN-GS1300-12FP",
+      "spec": "8×GE PoE + 2 GE + 2 SFP，120W；Hepsiburada 3,250 TL",
+      "url": "https://www.hepsiburada.com/snexus-networks-sn-gs1300-12fp-12-port-gigabit-poe-switch-8-x-10-100-1000m-poe-2-x-10-100-1000m-rj45-uplink-2-x-sfp-fiber-120-watt-poe-switch-pm-HBC00006OPDZ1",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM"
+    },
+    {
+      "brand": "Snexus",
+      "model": "ISN-GS1300-6FP / 10FP；ISN-GS2300-6FP / 10FP",
+      "spec": "工业 4+2 / 8+2 PoE（非管理 $300/$550；管理 $530/$700）",
+      "url": "https://www.snexus.com.tr/en/endustriyel-switchler",
+      "date": "2026-10-21",
+      "saga": "STI-144GP / STI-288DGGPM"
+    },
+    {
+      "brand": "Snexus",
+      "model": "SN-GS1300-8SFP / SN-GS2300-24SFP / SN-XGS5300-28SFP",
+      "spec": "全光骨干 $400 / $1,450 / $1,650",
+      "url": "https://www.snexus.com.tr/en/fiber-omurga-switchler",
+      "date": "2026-10-21",
+      "saga": "—（全 SFP 机型不在 Saga 型谱）"
+    }
+  ],
+  "channels": {
+    "网站/网店": "https://www.snexus.com.tr/en/shop（USD 标价）",
+    "零售": "Hepsiburada 店铺",
+    "直邮": "info@snexus.com.tr（用户表）",
+    "WhatsApp": "Ady 已加（用户表，ISAF2025）"
+  },
+  "signals": [
+    "官网 2026-04-15 与 2026-06-22 博客推 SN-GS2300-28F——持续营销自有品牌（2026-10-21）",
+    "工业线 ISN-GS 售价 $300–700，而其向 Saga 要「商业级 8 光 8 电」且嫌 $115 工业款贵——定位价格敏感的白牌采购",
+    "用户表：ISAF2025 现场客户，想要样品当礼物"
+  ],
+  "risks": [
+    "价格极敏感、要免费样品；自有白牌来源多（华南公版）→ 以 Marvell 平台稳定性 + 2 年保修配套切入，不卷底价",
+    "土耳其进口税；USD 结算 OK（官网本身 USD 标价）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "其 SN-GS2300-10FP（8 PoE + 2 SFP 管理，$400 零售）对位 STC-28DGGPM（EXW $87 @30%）；24 口 SN-GS1300-26FP 对位 STC-424DGGPM-280W；工业 ISN-GS 对位 STI-144GP/288DGGPM；贴 Snexus 标 30% 档"
+  },
+  "email_hook": "Your SN-GS2300-10FP retails at 400 dollars, and the Marvell-based 8-port PoE+ managed unit with 2 SFP that fits that slot lands well under a quarter of that at EXW in Snexus packing, so I am quoting it together with the 24-port 26FP equivalent.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-11-26；用户表：展会面谈 + WhatsApp + 索要免费样品；Elsa 箱：`to:snexus.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(g)））",
+      "type": "伊斯坦布尔自有品牌白牌采购（Snexus，SN-GS2300-28F）——主攻区",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "免费样品诉求 vs 付样规则",
+      "revive": "WhatsApp（用户表）；对位 SN-GS2300-28F 一次",
+      "lane": "TR",
+      "cadence": "WA 季度",
+      "evidence": "邮件：去信 17 封（2024-06-24 → 2026-09-17），来信 0；Opened 标签 1 次（2025-11-26）；收件人 info@snexus.com.tr"
+    },
+    "situation": "展会见过、WA 在手、要免费样——典型 C6 付样筛子案例；邮件只被打开 1 次。",
+    "need": "24+4 SFP 管理型贴牌。",
+    "breakpoint": "免费样。",
+    "saga_now": {
+      "p1": "STC-424DGGM 类 24+4（对位 SN-GS2300-28F）",
+      "tier": 30,
+      "price": "—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-16 $65（10G Media Converter）、2024-10-28 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+      "why": "已打开的主题（1/17 封有打开记录）：「Booster PoE Switch」(2025-11-26) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "按 WA 节奏",
+      "channel": "WhatsApp",
+      "action": "WA 一句话（付样 + 首批量）",
+      "one_question": "If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?"
+    },
+    "facts": [
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「industrial network info@snexus.com.tr 90 53340 48364 https://www.snexus.com.tr/」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      },
+      {
+        "date": "2025-11-26",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "7386567b0f7ec1c7"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文",
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

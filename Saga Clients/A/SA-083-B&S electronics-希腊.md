@@ -57,7 +57,7 @@ updated: 2026-10-25
 | 2025-03-19 | 去 | Saga（Alan） | 「8 Port Industrial PoE Switch」——对 imports@bselectronics.gr 的第 1 封 | 16 封 2025-03→2026-09 全发 imports@，0 回、0 打开记录 | `98f7e4e8b4b4c419` |
 | 2026-09-14 | 去 | Saga（Alan） | 「16 Port Industrial PoE Switch」——最后一封 | 进口部公用箱；具名 Vasilis Stavridis 在 kp 里但没单独发过 | `ef2f8188a0b4f8e7` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：TLD 穷举未见 Elsa 去信、Replied 索引亦无此户），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

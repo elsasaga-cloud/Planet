@@ -57,7 +57,7 @@ updated: 2026-10-25
 | 2024-06-24 | 去 | Saga（Simon） | 「5 port industrial switch」——S 邮箱对 thawat@widen.co.th + info@widen.co.th 的第 1 封 | 两个地址并发 27 封（2024-06→2026-09），0 回、0 打开记录 | `b43d00bf4155c428` |
 | 2026-09-28 | 去 | Saga（Alan） | 「Managed PoE Switches」——最后一封群发 | thawat@ 是具名地址但两年不回 → 要么地址死了要么人不对；先核再换人 | `f68e0de76ea765a6` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -1,204 +1,204 @@
 {
- "code": "SA-082",
- "name_official": "Nova Grup Mühendislik（Novacom Technology，安卡拉/伊斯坦布尔，2002 年）",
- "website_status": "在线（novacom.com.tr / nova-grup.com）",
- "summary": "土耳其弱电/安防进口批发商（CCTV、卫星、报警、数据/光纤、消防、对讲），2002 年创立，安卡拉总部 + 伊斯坦布尔办公室，约 27–35 人，营收估 780 万–1,690 万美元；ISAF 2025 参展商，CEO Ali Pekyürek + 项目经理当面交流，已有商用交换机供应商（新桥/ONV），欲扩展工业线并询 OEM。",
- "type": "进口批发商/分销商（弱电安防）",
- "size": "中小型（27 人/2023 EMIS；35 人/RocketReach）",
- "brands_seen": [
-  "新桥（用户记录）",
-  "ONV（用户记录）",
-  "Novacom NVC（自有）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "2002 年创立，弱电行业，以卫星与 CCTV 产品为主",
-   "quote": "Nova Grup Mühendislik, 2002 yılında… özellikle \"Zayıf Akım\" sektöründe, öncelikle \"Uydu ve CCTV\" ürünleri olmak üzere geniş bir ürün yelpazesiyle faaliyet göstermektedir",
-   "url": "https://www.novacom.com.tr/hakkimizda",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "安卡拉与伊斯坦布尔两地办公室",
-   "quote": "Ankara Aşağı Öveçler Mah.1332 Cad. No:8/1-3-5-7 Çankaya… İstanbul… Esenyurt… info@nova-grup.com",
-   "url": "https://nova-grup.com/iletisim",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "EMIS",
-   "claim": "2009 年注册，27 名员工（2023），电气设备批发",
-   "quote": "incorporated on January 30, 2009. It currently has a total number of 27 (2023) employees",
-   "url": "https://www.emis.com/php/company-profile/TR/Nova_Grup_Muh_Proje_Elekt_Elektr_Ilet_Sist_Ins_Ve_Tekssan_Tic_Ltd_Sti_en_9450576.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "Facebook",
-   "claim": "弱电材料与安防系统进口公司，批发摄像机/报警/数据/光纤/卫星/消防/对讲",
-   "quote": "Zayıf akım malzemeleri ve tüm güvenlik sistemleri üzerine ithalat firması. Kamera,Alarm,Data,Fiber,Uydu,Yangın,İnterkom, Sistemleri üzerine toptan satış",
-   "url": "https://www.facebook.com/esmakdd/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "NVC 管理型系列 8–52 口 L2+/L3",
-   "quote": "Novacom Yönetilen PoE Switch, 8 ila 52 port arasında tam bir Layer 2+ ve Layer 3 ürün serisidir … CLI, web ve ağ yönetim yazılımını destekler … QOS, STP/RSTP, IGMP, DHCP, SNMP, WEB, VLAN, ER PS",
-   "url": "https://www.novacom.com.tr/urun/nvc-s5848gm-ap",
-   "date": "2024-06-13"
-  },
-  {
-   "kind": "官网",
-   "claim": "NVC-HIF2422GBL-C 规格",
-   "quote": "24 PoE destekli Fast Ethernet portu, 2 Gigabit uplink portu ve 2 SFP combo portu … Toplam PoE güç kapasitesi: 400W … AI Watchdog",
-   "url": "https://www.novacom.com.tr/urun/nvc-hif2422gbl-c-poe-switch",
-   "date": "2025-06-20"
-  }
- ],
- "kp": [
-  {
-   "name": "Ali Pekyürek",
-   "role": "CEO（用户记录）",
-   "email": "ali@nova-grup.com",
-   "phone": "+90 533 715 9226（用户记录）",
-   "source": "用户 Clients 表（ISAF 2025 现场）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 NVC 自有品牌目录核对）"
- },
- "company_facts": {
-  "legal_name": "Nova Grup Mühendislik（Novacom Technology）",
-  "founded": "2002",
-  "hq": "Ankara（总部）+ İstanbul",
-  "staff": "27–35",
-  "revenue": "估 $7.8–16.9M",
-  "other": "novacom.com.tr 已有自有品牌 NVC- 交换机全线：非管理 AI PoE（NVC-PSE0820G 8 FE PoE+2 GE 120W、NVC-PSE1621G 16 FE PoE+2 GE+1 SFP 300W、NVC-HIF0821GBL/0820GBL-C、HIF1621GBL-C 250W、HIF2422GBL-C 24 FE PoE 400W）、对讲 24V PoE、管理型 NVC-S5848GM-AP（L2+/L3 系列 8–52 口，ERPS/SNMP）；Hepsiburada 在售 ND1P802LF"
- },
- "business_lines": [
-  "CCTV / 报警 / 对讲 / 消防 / 卫星 / 数据光纤 进口批发",
-  "商用交换机（现供应商：新桥、ONV）",
-  "拟扩展工业级交换机（问能否 OEM）",
-  "自有品牌 NVC- 商用 PoE 交换机（非管理 AI PoE + L2+/L3 管理，来源新桥/ONV）",
-  "（拟扩展）工业级 PoE OEM"
- ],
- "products_seen": [
-  {
-   "brand": "新桥 / ONV（现供应商）",
-   "model": "商用 PoE 交换机（用户记录）",
-   "spec": "已有合作供应商",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "ISAF 2025",
-   "saga": "STC-424DGGPM-280W（商用位，不主推）"
-  },
-  {
-   "brand": "（拟扩展）",
-   "model": "工业级 PoE 交换机 OEM",
-   "spec": "明确问 OEM",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "ISAF 2025",
-   "saga": "STI-288DGGPM / STI-144GP"
-  },
-  {
-   "brand": "Novacom（NVC）",
-   "model": "NVC-PSE0820G",
-   "spec": "8×FE PoE + 2 GE，120W，af/at",
-   "url": "https://www.novacom.com.tr/urun/nvc-pse0820g-poe-switch",
-   "date": "2024-10-14",
-   "saga": "STC-28DGGPM（千兆管理升级，不主推）"
-  },
-  {
-   "brand": "Novacom（NVC）",
-   "model": "NVC-HIF2422GBL-C",
-   "spec": "24×FE PoE + 2 GE + 2 SFP combo，400W，AI Watchdog",
-   "url": "https://www.novacom.com.tr/urun/nvc-hif2422gbl-c-poe-switch",
-   "date": "2025-06-20",
-   "saga": "STC-424DGGPM-280W（不主推）"
-  },
-  {
-   "brand": "Novacom（NVC）",
-   "model": "NVC-S5848GM-AP",
-   "spec": "管理型 L2+/L3 系列 8–52 口，CLI/Web/SNMP，ERPS",
-   "url": "https://www.novacom.com.tr/urun/nvc-s5848gm-ap",
-   "date": "2024-06-13",
-   "saga": "STC-448XGGM(L3)（不主推）"
-  },
-  {
-   "brand": "Novacom（NVC）",
-   "model": "NVC-INTSF0820FB2L",
-   "spec": "24V 对讲 PoE 8 口 120W",
-   "url": "https://www.novacom.com.tr/urun/nvc-intsf0820fb2l-24v-intercom-poe-switch",
-   "date": "2025-10-08",
-   "saga": "—"
-  }
- ],
- "channels": {
-  "网站": "https://www.novacom.com.tr/（NVC 目录）",
-  "直邮": "ali@nova-grup.com（CEO Ali Pekyürek）/ info@nova-grup.com（用户表）",
-  "微信": "Evelyn 已加 Ali（用户表）",
-  "电商": "Hepsiburada（ND1P802LF）"
- },
- "signals": [
-  "ISAF 2025：CEO 亲到展位、明确要扩工业级 + OEM——决策人直接可达",
-  "2025-10 仍在上新 NVC 商用 PoE——自有品牌运营成熟；工业线为空白，正是 ISAF 上提的 OEM 需求（2026-10-21）"
- ],
- "risks": [
-  "商用线已有新桥/ONV，不要正面抢；只做工业级 OEM",
-  "土耳其进口税/汇率"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "NVC 商用线已满（新桥/ONV），只做工业 OEM：STI-288DGGPM（8 GE PoE + 2 SFP DIN 管理）+ STI-144GP（4+1）作 NVC 工业入门双 SKU，按 NVC- 命名；OEM 30% 档"
- },
- "email_hook": "Your NVC range covers the commercial PoE side well, so for the industrial line we discussed at ISAF I am quoting the 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact unit as NVC-branded SKUs, EXW with CE/FCC files.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 24 封 0 回、Opened 0；用户表：展会面对面 + CEO + OEM/工业线意向；Elsa 箱：`to:novacom.com.tr OR to:nova-grup.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(g)））",
-   "type": "土耳其弱电安防进口批发（Nova Grup / Novacom，4 个收件人）——主攻区",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "企业邮箱 0 打开",
-   "revive": "WA/电话（展会名片）",
-   "lane": "TR",
-   "cadence": "一次 + 季度",
-   "evidence": "邮件：去信 24 封（2024-06-14 → 2026-10-06），来信 0；Opened 标签 0 次；收件人 ali@nova-grup.com, cem@novacom.com.tr, info@nova-grup.com, satis@novacom.com.tr"
-  },
-  "situation": "4 个地址、24 封、0 打开——邮件通道基本无效；展会关系在 Simon 手上。",
-  "need": "工业 PoE 贴牌（在用新桥/ONV）。",
-  "breakpoint": "渠道。",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 25,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）",
-   "why": "NVC 商用 PoE 已有（新桥/ONV）→ ISAF 谈的工业线：8 PoE + 2 SFP 管理 DIN + 4+1 紧凑款贴 NVC 标",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "按 WA 节奏",
-   "channel": "WhatsApp",
-   "action": "WA 一句话",
-   "one_question": "Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?"
-  },
-  "facts": [
-   {
-    "date": "2024-11-05",
-    "dir": "去",
-    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-    "quote": "名单行：「switch info@nova-grup.com https://www.novacom.com.tr/urun-kategori/poe-switch/」",
-    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-   }
+  "code": "SA-082",
+  "name_official": "Nova Grup Mühendislik（Novacom Technology，安卡拉/伊斯坦布尔，2002 年）",
+  "website_status": "在线（novacom.com.tr / nova-grup.com）",
+  "summary": "土耳其弱电/安防进口批发商（CCTV、卫星、报警、数据/光纤、消防、对讲），2002 年创立，安卡拉总部 + 伊斯坦布尔办公室，约 27–35 人，营收估 780 万–1,690 万美元；ISAF 2025 参展商，CEO Ali Pekyürek + 项目经理当面交流，已有商用交换机供应商（新桥/ONV），欲扩展工业线并询 OEM。",
+  "type": "进口批发商/分销商（弱电安防）",
+  "size": "中小型（27 人/2023 EMIS；35 人/RocketReach）",
+  "brands_seen": [
+    "新桥（用户记录）",
+    "ONV（用户记录）",
+    "Novacom NVC（自有）"
   ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文",
-   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "2002 年创立，弱电行业，以卫星与 CCTV 产品为主",
+      "quote": "Nova Grup Mühendislik, 2002 yılında… özellikle \"Zayıf Akım\" sektöründe, öncelikle \"Uydu ve CCTV\" ürünleri olmak üzere geniş bir ürün yelpazesiyle faaliyet göstermektedir",
+      "url": "https://www.novacom.com.tr/hakkimizda",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "安卡拉与伊斯坦布尔两地办公室",
+      "quote": "Ankara Aşağı Öveçler Mah.1332 Cad. No:8/1-3-5-7 Çankaya… İstanbul… Esenyurt… info@nova-grup.com",
+      "url": "https://nova-grup.com/iletisim",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "EMIS",
+      "claim": "2009 年注册，27 名员工（2023），电气设备批发",
+      "quote": "incorporated on January 30, 2009. It currently has a total number of 27 (2023) employees",
+      "url": "https://www.emis.com/php/company-profile/TR/Nova_Grup_Muh_Proje_Elekt_Elektr_Ilet_Sist_Ins_Ve_Tekssan_Tic_Ltd_Sti_en_9450576.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "Facebook",
+      "claim": "弱电材料与安防系统进口公司，批发摄像机/报警/数据/光纤/卫星/消防/对讲",
+      "quote": "Zayıf akım malzemeleri ve tüm güvenlik sistemleri üzerine ithalat firması. Kamera,Alarm,Data,Fiber,Uydu,Yangın,İnterkom, Sistemleri üzerine toptan satış",
+      "url": "https://www.facebook.com/esmakdd/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "NVC 管理型系列 8–52 口 L2+/L3",
+      "quote": "Novacom Yönetilen PoE Switch, 8 ila 52 port arasında tam bir Layer 2+ ve Layer 3 ürün serisidir … CLI, web ve ağ yönetim yazılımını destekler … QOS, STP/RSTP, IGMP, DHCP, SNMP, WEB, VLAN, ER PS",
+      "url": "https://www.novacom.com.tr/urun/nvc-s5848gm-ap",
+      "date": "2024-06-13"
+    },
+    {
+      "kind": "官网",
+      "claim": "NVC-HIF2422GBL-C 规格",
+      "quote": "24 PoE destekli Fast Ethernet portu, 2 Gigabit uplink portu ve 2 SFP combo portu … Toplam PoE güç kapasitesi: 400W … AI Watchdog",
+      "url": "https://www.novacom.com.tr/urun/nvc-hif2422gbl-c-poe-switch",
+      "date": "2025-06-20"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Ali Pekyürek",
+      "role": "CEO（用户记录）",
+      "email": "ali@nova-grup.com",
+      "phone": "+90 533 715 9226（用户记录）",
+      "source": "用户 Clients 表（ISAF 2025 现场）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 NVC 自有品牌目录核对）"
+  },
+  "company_facts": {
+    "legal_name": "Nova Grup Mühendislik（Novacom Technology）",
+    "founded": "2002",
+    "hq": "Ankara（总部）+ İstanbul",
+    "staff": "27–35",
+    "revenue": "估 $7.8–16.9M",
+    "other": "novacom.com.tr 已有自有品牌 NVC- 交换机全线：非管理 AI PoE（NVC-PSE0820G 8 FE PoE+2 GE 120W、NVC-PSE1621G 16 FE PoE+2 GE+1 SFP 300W、NVC-HIF0821GBL/0820GBL-C、HIF1621GBL-C 250W、HIF2422GBL-C 24 FE PoE 400W）、对讲 24V PoE、管理型 NVC-S5848GM-AP（L2+/L3 系列 8–52 口，ERPS/SNMP）；Hepsiburada 在售 ND1P802LF"
+  },
+  "business_lines": [
+    "CCTV / 报警 / 对讲 / 消防 / 卫星 / 数据光纤 进口批发",
+    "商用交换机（现供应商：新桥、ONV）",
+    "拟扩展工业级交换机（问能否 OEM）",
+    "自有品牌 NVC- 商用 PoE 交换机（非管理 AI PoE + L2+/L3 管理，来源新桥/ONV）",
+    "（拟扩展）工业级 PoE OEM"
+  ],
+  "products_seen": [
+    {
+      "brand": "新桥 / ONV（现供应商）",
+      "model": "商用 PoE 交换机（用户记录）",
+      "spec": "已有合作供应商",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "ISAF 2025",
+      "saga": "STC-424DGGPM-280W（商用位，不主推）"
+    },
+    {
+      "brand": "（拟扩展）",
+      "model": "工业级 PoE 交换机 OEM",
+      "spec": "明确问 OEM",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "ISAF 2025",
+      "saga": "STI-288DGGPM / STI-144GP"
+    },
+    {
+      "brand": "Novacom（NVC）",
+      "model": "NVC-PSE0820G",
+      "spec": "8×FE PoE + 2 GE，120W，af/at",
+      "url": "https://www.novacom.com.tr/urun/nvc-pse0820g-poe-switch",
+      "date": "2024-10-14",
+      "saga": "STC-28DGGPM（千兆管理升级，不主推）"
+    },
+    {
+      "brand": "Novacom（NVC）",
+      "model": "NVC-HIF2422GBL-C",
+      "spec": "24×FE PoE + 2 GE + 2 SFP combo，400W，AI Watchdog",
+      "url": "https://www.novacom.com.tr/urun/nvc-hif2422gbl-c-poe-switch",
+      "date": "2025-06-20",
+      "saga": "STC-424DGGPM-280W（不主推）"
+    },
+    {
+      "brand": "Novacom（NVC）",
+      "model": "NVC-S5848GM-AP",
+      "spec": "管理型 L2+/L3 系列 8–52 口，CLI/Web/SNMP，ERPS",
+      "url": "https://www.novacom.com.tr/urun/nvc-s5848gm-ap",
+      "date": "2024-06-13",
+      "saga": "STC-448XGGM(L3)（不主推）"
+    },
+    {
+      "brand": "Novacom（NVC）",
+      "model": "NVC-INTSF0820FB2L",
+      "spec": "24V 对讲 PoE 8 口 120W",
+      "url": "https://www.novacom.com.tr/urun/nvc-intsf0820fb2l-24v-intercom-poe-switch",
+      "date": "2025-10-08",
+      "saga": "—"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.novacom.com.tr/（NVC 目录）",
+    "直邮": "ali@nova-grup.com（CEO Ali Pekyürek）/ info@nova-grup.com（用户表）",
+    "微信": "Evelyn 已加 Ali（用户表）",
+    "电商": "Hepsiburada（ND1P802LF）"
+  },
+  "signals": [
+    "ISAF 2025：CEO 亲到展位、明确要扩工业级 + OEM——决策人直接可达",
+    "2025-10 仍在上新 NVC 商用 PoE——自有品牌运营成熟；工业线为空白，正是 ISAF 上提的 OEM 需求（2026-10-21）"
+  ],
+  "risks": [
+    "商用线已有新桥/ONV，不要正面抢；只做工业级 OEM",
+    "土耳其进口税/汇率"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 30,
+    "why": "NVC 商用线已满（新桥/ONV），只做工业 OEM：STI-288DGGPM（8 GE PoE + 2 SFP DIN 管理）+ STI-144GP（4+1）作 NVC 工业入门双 SKU，按 NVC- 命名；OEM 30% 档"
+  },
+  "email_hook": "Your NVC range covers the commercial PoE side well, so for the industrial line we discussed at ISAF I am quoting the 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact unit as NVC-branded SKUs, EXW with CE/FCC files.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 24 封 0 回、Opened 0；用户表：展会面对面 + CEO + OEM/工业线意向；Elsa 箱：`to:novacom.com.tr OR to:nova-grup.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(g)））",
+      "type": "土耳其弱电安防进口批发（Nova Grup / Novacom，4 个收件人）——主攻区",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "企业邮箱 0 打开",
+      "revive": "WA/电话（展会名片）",
+      "lane": "TR",
+      "cadence": "一次 + 季度",
+      "evidence": "邮件：去信 24 封（2024-06-14 → 2026-10-06），来信 0；Opened 标签 0 次；收件人 ali@nova-grup.com, cem@novacom.com.tr, info@nova-grup.com, satis@novacom.com.tr"
+    },
+    "situation": "4 个地址、24 封、0 打开——邮件通道基本无效；展会关系在 Simon 手上。",
+    "need": "工业 PoE 贴牌（在用新桥/ONV）。",
+    "breakpoint": "渠道。",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 25,
+      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）",
+      "why": "NVC 商用 PoE 已有（新桥/ONV）→ ISAF 谈的工业线：8 PoE + 2 SFP 管理 DIN + 4+1 紧凑款贴 NVC 标",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "按 WA 节奏",
+      "channel": "WhatsApp",
+      "action": "WA 一句话",
+      "one_question": "Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?"
+    },
+    "facts": [
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「switch info@nova-grup.com https://www.novacom.com.tr/urun-kategori/poe-switch/」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文",
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

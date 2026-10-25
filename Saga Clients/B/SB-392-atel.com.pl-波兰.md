@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-392` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 cust@atel.com.pl, praca@atel.com.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（价格未读），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link」；研究档 risks：仅 cust@；比价；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读
+- **绑定等级：未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 cust@atel.com.pl, praca@atel.com.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link」；研究档 risks：仅 cust@；比价；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读
 - **现状一句话**：波兰网络无源 / 有源元件、测量仪器、安装工具、AV 配件进口分销商（TP-Link、ORing；switch 713 / sfp 518 / poe 462），仅 cust@；表内「MC / Switch 等，价格比较高；MC 工业 FS SFP；ORing 的，商业 FS TP-Link」；群发 1 次。
 - **对方真实需求（有据）**：ORing 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。
 - **断点 / 为什么停在这里**：仅 cust@；比价

@@ -71,7 +71,7 @@
   "email_hook": "For the industrial range beside ORing — DIN 2-SFP + 8-PoE at $57 EXW (managed Marvell $79) and gigabit MC at $22; who is the buyer for active network products at Atel, so I send the sheet directly?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 cust@atel.com.pl, praca@atel.com.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（价格未读），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
+      "level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 cust@atel.com.pl, praca@atel.com.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
       "type": "—",
       "sieve": "1（只收到群发）",
       "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

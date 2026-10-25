@@ -54,7 +54,7 @@ updated: 2026-10-25
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-02-10 | 去 | Elsa 1:1 去信（To vladimir.novak@elkov.cz, nabidky.brno@elkov.cz） | 16 Port Ethernet Switch — 16-port DIN Gigabit Ethernet switch for vehicle network / industrial automation; model choice 5/8 port, 10/100M, PoE version（摘要无价） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Vladimir」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
+| 2025-02-10 | 去 | Elsa 1:1 去信（To vladimir.novak@elkov.cz, nabidky.brno@elkov.cz） | 16 Port Ethernet Switch — 16-port DIN Gigabit Ethernet switch for vehicle network / industrial automation; model choice 5/8 port, 10/100M, PoE version（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Vladimir」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-02-10 | 去 | A/S 群发 | Managed Optical Bypass Switch、48 Port PoE Managed Switch | 17 封 / 2 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-02-10（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog | 表内备注 | `用户表` |
 

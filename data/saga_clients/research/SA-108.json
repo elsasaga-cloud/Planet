@@ -1,183 +1,183 @@
 {
- "code": "SA-108",
- "name_official": "Areca Embedded Systems Private Limited（Hyderabad, India；前身 Aster Electrosoft Pvt. Ltd.）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "印度嵌入式/网络系统公司，WA 在线，4 次回复、13 次跟进，规格明确：8 光 8 电管理型、非 PoE、L2 与 L3 都要、SC 与 SFP 光口都要。",
- "type": "系统集成/设备商",
- "size": "待补证",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "8 光 8 电带管理、不要 PoE、L2/L3、SC 和 SFP；WA 已加；4 次回复",
-   "quote": "8光8电带管理 不要POE L2 L3 SC和SFP光都要；9190000 50555 已加（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "ISO 9001:2015，主业铁路/国防/电信/电力，产品清单",
-   "quote": "It is an ISO 9001:2015 certified company, engaged in the field of Telecommunication, Railways, Defence, Transportation and Power Sectors … Smart Coach ( PICCU ) … Signaling Relays Q series (BRS930-931) … PIS For EMUs / MEMUs … LTE for Railways (LTE-R)",
-   "url": "https://www.areca.in/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "注册",
-   "claim": "注册信息与地址",
-   "quote": "Areca Embedded Systems Private Limited is a Private Limited Company and was incorporated on Mar 29, 2007 … registered address is Plot No 5B, Survey No 184 & 185, Phase -V, IDA, Village Cherlapally Mandal, Hyderabad … CIN U72200TG2007PTC053397",
-   "url": "https://tracxn.com/d/legal-entities/india/areca-embedded-systems-private-limited/__aefKStFLnkBUMSws6Ku9xezsYKyfdvnWJnz6USqe5Uo",
-   "date": "2025-07-30"
-  },
-  {
-   "kind": "注册",
-   "claim": "前身 Aster Electrosoft",
-   "quote": "The Corporate was formerly known as Aster Electrosoft Private Limited. The Company is engaged in the field of telecommunication, transportation and power sectors providing new product development, railways, product re-engineering and product support services in hardware, defense, software",
-   "url": "https://www.thecompanycheck.com/company/areca-embedded-systems-private-limited/U72200TG2007PTC053397",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "+91 90000 50555（WA）",
-   "source": "用户 Clients 表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 areca.in + 公司注册核对）"
- },
- "company_facts": {
-  "legal_name": "Areca Embedded Systems Private Limited（CIN U72200TG2007PTC053397）",
-  "hq": "Plot No 5B, Survey No 184 & 185, Phase-V, IDA Cherlapally, Hyderabad, Telangana 500051（另：54/S Anupuram, ECIL, Hyderabad 500062）",
-  "other": "ISO 9001:2015；主业 **铁路 / 国防 / 电信 / 电力** 嵌入式产品开发：列车 PIS、Smart Coach PICCU、信号继电器 Q 系列、LTE-R、站台 GPS 时钟、卫星时间同步、接地漏电检测、国防光纤话音/数据遥测链路（IndiaMART）",
-  "founded": "2007-03-29（RoC Hyderabad）",
-  "size": "实缴资本 ₹4.65 crore；董事 Gutta Venkata Kumari、Rashmi Jain"
- },
- "business_lines": [
-  "嵌入式/网络系统集成",
-  "铁路车载/站台电子（PIS、PICCU、信号继电器、LTE-R）",
-  "国防电子（光纤遥测链路、测试 JIG）",
-  "电信/电力嵌入式产品与再工程"
- ],
- "products_seen": [
-  {
-   "brand": "（项目需求）",
-   "model": "8 光 8 电管理（L2/L3，非 PoE，SC/SFP）",
-   "spec": "4 次回复",
-   "url": "（本地 Clients/ Clients 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "—（8 SFP + 8 RJ45 非 PoE 需 SmartByte 核型）"
-  }
- ],
- "channels": {
-  "网站": "https://www.areca.in/",
-  "直邮": "kb@areca.in（用户表）",
-  "WhatsApp": "在线（用户表）",
-  "IndiaMART": "https://www.indiamart.com/areca-embedded-systemshyderabad/"
- },
- "signals": [
-  "需求规格完整（L2/L3、SC/SFP 都要）——可成交型客户",
-  "8 光 8 电 L2/L3 非 PoE 的需求极可能来自铁路站场/国防项目（公司主业）——报价前必须确认最终用途（2026-10-21）"
- ],
- "risks": [
-  "8 光 8 电非 Saga 标准型谱；印度 BIS",
-  "**守界风险**：主业铁路 + 国防（INH 规则：rail/military 不供）；Saga 无 EN50155/军规资质。保留 A 仅因互动强、需求明确；下一封邮件先问用途，若为铁路信号/军用则转 B 并停止报价（见 Q-30）"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "8 SFP + 8 RJ45 管理型非 PoE：标准型谱无对应，需向 SmartByte 核 8 光 8 电 L2/L3 工业机；集成商 25% 档"
- },
- "email_hook": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（A/S 邮箱 0 封；用户表「4 次回复 + WA」；Elsa 箱：`to:areca.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
-   "type": "海得拉巴嵌入式/系统集成（Areca）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "WA",
-   "lane": "IN",
-   "cadence": "WA",
-   "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
-  },
-  "situation": "仓库无邮件。",
-  "need": "8 光 8 电管理（L2/L3 分档）。",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "STC-448XGGPM 类",
-   "tier": 25,
-   "price": "—",
-   "why": "8 光 8 电管理（L2/L3 分档）→ 先确认应用与温度范围再定机壳/固件档",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "按 WA 节奏",
-   "channel": "WhatsApp",
-   "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
-   "one_question": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?"
-  },
-  "facts": [
-   {
-    "date": "2024-01-17",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了2光4相关信息」→ 对方「问了8光8 L3管理」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.17"
-   },
-   {
-    "date": "2024-01-20",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了规格书和管理手册」→ 对方「will check」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.20"
-   },
-   {
-    "date": "2024-02-27",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了2光16电信息」→ 对方「用不到」",
-    "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.2.27"
-   },
-   {
-    "date": "2024-06-17",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了48口引流信息」→ 对方「问了MPLS」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.6.17"
-   },
-   {
-    "date": "2024-07-15",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「3个2光8PoE」→ 对方「will check」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.7.15"
-   },
-   {
-    "date": "2024-11-18",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「引流机型」→ 对方「BIS」",
-    "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 1118"
-   }
+  "code": "SA-108",
+  "name_official": "Areca Embedded Systems Private Limited（Hyderabad, India；前身 Aster Electrosoft Pvt. Ltd.）",
+  "website_status": "未单独检索（仅用户记录）",
+  "summary": "印度嵌入式/网络系统公司，WA 在线，4 次回复、13 次跟进，规格明确：8 光 8 电管理型、非 PoE、L2 与 L3 都要、SC 与 SFP 光口都要。",
+  "type": "系统集成/设备商",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "8 光 8 电带管理、不要 PoE、L2/L3、SC 和 SFP；WA 已加；4 次回复",
+      "quote": "8光8电带管理 不要POE L2 L3 SC和SFP光都要；9190000 50555 已加（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "ISO 9001:2015，主业铁路/国防/电信/电力，产品清单",
+      "quote": "It is an ISO 9001:2015 certified company, engaged in the field of Telecommunication, Railways, Defence, Transportation and Power Sectors … Smart Coach ( PICCU ) … Signaling Relays Q series (BRS930-931) … PIS For EMUs / MEMUs … LTE for Railways (LTE-R)",
+      "url": "https://www.areca.in/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "注册",
+      "claim": "注册信息与地址",
+      "quote": "Areca Embedded Systems Private Limited is a Private Limited Company and was incorporated on Mar 29, 2007 … registered address is Plot No 5B, Survey No 184 & 185, Phase -V, IDA, Village Cherlapally Mandal, Hyderabad … CIN U72200TG2007PTC053397",
+      "url": "https://tracxn.com/d/legal-entities/india/areca-embedded-systems-private-limited/__aefKStFLnkBUMSws6Ku9xezsYKyfdvnWJnz6USqe5Uo",
+      "date": "2025-07-30"
+    },
+    {
+      "kind": "注册",
+      "claim": "前身 Aster Electrosoft",
+      "quote": "The Corporate was formerly known as Aster Electrosoft Private Limited. The Company is engaged in the field of telecommunication, transportation and power sectors providing new product development, railways, product re-engineering and product support services in hardware, defense, software",
+      "url": "https://www.thecompanycheck.com/company/areca-embedded-systems-private-limited/U72200TG2007PTC053397",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "+91 90000 50555（WA）",
+      "source": "用户 Clients 表"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 areca.in + 公司注册核对）"
+  },
+  "company_facts": {
+    "legal_name": "Areca Embedded Systems Private Limited（CIN U72200TG2007PTC053397）",
+    "hq": "Plot No 5B, Survey No 184 & 185, Phase-V, IDA Cherlapally, Hyderabad, Telangana 500051（另：54/S Anupuram, ECIL, Hyderabad 500062）",
+    "other": "ISO 9001:2015；主业 **铁路 / 国防 / 电信 / 电力** 嵌入式产品开发：列车 PIS、Smart Coach PICCU、信号继电器 Q 系列、LTE-R、站台 GPS 时钟、卫星时间同步、接地漏电检测、国防光纤话音/数据遥测链路（IndiaMART）",
+    "founded": "2007-03-29（RoC Hyderabad）",
+    "size": "实缴资本 ₹4.65 crore；董事 Gutta Venkata Kumari、Rashmi Jain"
+  },
+  "business_lines": [
+    "嵌入式/网络系统集成",
+    "铁路车载/站台电子（PIS、PICCU、信号继电器、LTE-R）",
+    "国防电子（光纤遥测链路、测试 JIG）",
+    "电信/电力嵌入式产品与再工程"
+  ],
+  "products_seen": [
+    {
+      "brand": "（项目需求）",
+      "model": "8 光 8 电管理（L2/L3，非 PoE，SC/SFP）",
+      "spec": "4 次回复",
+      "url": "（本地 Clients/ Clients 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "—（8 SFP + 8 RJ45 非 PoE 需 SmartByte 核型）"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.areca.in/",
+    "直邮": "kb@areca.in（用户表）",
+    "WhatsApp": "在线（用户表）",
+    "IndiaMART": "https://www.indiamart.com/areca-embedded-systemshyderabad/"
+  },
+  "signals": [
+    "需求规格完整（L2/L3、SC/SFP 都要）——可成交型客户",
+    "8 光 8 电 L2/L3 非 PoE 的需求极可能来自铁路站场/国防项目（公司主业）——报价前必须确认最终用途（2026-10-21）"
+  ],
+  "risks": [
+    "8 光 8 电非 Saga 标准型谱；印度 BIS",
+    "**守界风险**：主业铁路 + 国防（INH 规则：rail/military 不供）；Saga 无 EN50155/军规资质。保留 A 仅因互动强、需求明确；下一封邮件先问用途，若为铁路信号/军用则转 B 并停止报价（见 Q-30）"
+  ],
+  "saga_fit": {
+    "p1": null,
+    "tier": 25,
+    "why": "8 SFP + 8 RJ45 管理型非 PoE：标准型谱无对应，需向 SmartByte 核 8 光 8 电 L2/L3 工业机；集成商 25% 档"
+  },
+  "email_hook": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（A/S 邮箱 0 封；用户表「4 次回复 + WA」；Elsa 箱：`to:areca.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+      "type": "海得拉巴嵌入式/系统集成（Areca）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "WA",
+      "lane": "IN",
+      "cadence": "WA",
+      "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+    },
+    "situation": "仓库无邮件。",
+    "need": "8 光 8 电管理（L2/L3 分档）。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STC-448XGGPM 类",
+      "tier": 25,
+      "price": "—",
+      "why": "8 光 8 电管理（L2/L3 分档）→ 先确认应用与温度范围再定机壳/固件档",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "按 WA 节奏",
+      "channel": "WhatsApp",
+      "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "one_question": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?"
+    },
+    "facts": [
+      {
+        "date": "2024-01-17",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了2光4相关信息」→ 对方「问了8光8 L3管理」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.17"
+      },
+      {
+        "date": "2024-01-20",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了规格书和管理手册」→ 对方「will check」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.20"
+      },
+      {
+        "date": "2024-02-27",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了2光16电信息」→ 对方「用不到」",
+        "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.2.27"
+      },
+      {
+        "date": "2024-06-17",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了48口引流信息」→ 对方「问了MPLS」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.6.17"
+      },
+      {
+        "date": "2024-07-15",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「3个2光8PoE」→ 对方「will check」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.7.15"
+      },
+      {
+        "date": "2024-11-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「引流机型」→ 对方「BIS」",
+        "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 1118"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

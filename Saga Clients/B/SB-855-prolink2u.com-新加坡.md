@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-855` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（2 封休假自动回复）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（价格未读），新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次 To apr.securitysystems@bosch.com，0 回（第 74 批 Bcc 头核对 msg 199c6c679ed7a131）** ｜ 类型：新加坡 SMB 电子品牌（Prolink） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：SG ｜ 节奏：不动 ｜ 证据：k=351900683615a3d6 / 05e17c6906b051b1；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To apr.securitysystems@bosch.com）本户见于 2025-10-09 名单；该批次最早 2025-04-04 起共 7 轮，更早轮次 Bcc 未读
+- **绑定等级：未触达（2 封休假自动回复）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次 To apr.securitysystems@bosch.com，0 回（第 74 批 Bcc 头核对 msg 199c6c679ed7a131）** ｜ 类型：新加坡 SMB 电子品牌（Prolink） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：SG ｜ 节奏：不动 ｜ 证据：k=351900683615a3d6 / 05e17c6906b051b1；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To apr.securitysystems@bosch.com）本户见于 2025-10-09 名单；该批次最早 2025-04-04 起共 7 轮，更早轮次 Bcc 未读
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—

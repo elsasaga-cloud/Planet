@@ -52,7 +52,7 @@ updated: 2026-10-25
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-02-24 | 去 | Elsa 1:1 去信（To info@delock.de） | Mini Industrial PoE Switch — MINI DIN unmanaged, 100/1000M auto-adaptive SFP, DIP, PoE optional, support OEM（摘要无价） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
+| 2025-02-24 | 去 | Elsa 1:1 去信（To info@delock.de） | Mini Industrial PoE Switch — MINI DIN unmanaged, 100/1000M auto-adaptive SFP, DIP, PoE optional, support OEM（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-23 | 去 | A 群发 | 10G Enterprise SFP Switch、Marvell Alleycat5 Solution | 16 封 / 1 次打开 / 0 回｜首封 2025-04-11 → 末封 2026-09-23（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 自己的logo MC FS SFP 工业品少 很多是周边产品；https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html | 表内备注 | `用户表` |
 

@@ -143,7 +143,7 @@
   "email_hook": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending.",
   "mail_review": {
     "binding": {
-      "level": "未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）；补核（第 73 批）：Elsa 01-30 答可代找二手 Brocade 并反问型号/速率/新旧，之后无回；Elsa 1:1 去信 3 轮 2026-04-03→2026-08-04（To 仅本户 pkarpov@ccs-msk.ru；头 msg 19e16ce005f0bc62 核对无 Bcc，称呼「(earlier)」= 个性化逐月 1:1 名单；主题 Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-30 Re:「OEM Core Switching Solution」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 4 条）；Elsa 群发 BCC 已触达 2025-07-14「16 Port Ethernet Switch」（价格未读），俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止） 批次 To zakupki@dozor23.ru，0 回（第 74 批 Bcc 头核对 msg 198092904a7b6f12）",
+      "level": "未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）；补核（第 73 批）：Elsa 01-30 答可代找二手 Brocade 并反问型号/速率/新旧，之后无回；Elsa 1:1 去信 3 轮 2026-04-03→2026-08-04（To 仅本户 pkarpov@ccs-msk.ru；头 msg 19e16ce005f0bc62 核对无 Bcc，称呼「(earlier)」= 个性化逐月 1:1 名单；主题 Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-30 Re:「OEM Core Switching Solution」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 4 条）；Elsa 群发 BCC 已触达 2025-07-14「16 Port Ethernet Switch」（稿内无价，第 74 批(p) 已读稿），俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止） 批次 To zakupki@dozor23.ru，0 回（第 74 批 Bcc 头核对 msg 198092904a7b6f12）",
       "type": "莫斯科企业网/工业以太网分销（Microsens/Lenovo 合作）",
       "sieve": "0（邮件层无人工回复）",
       "stop": "需求是 Brocade（品牌货源），不是 OEM",
@@ -223,7 +223,7 @@
       }
     ],
     "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 3 轮、0 回），仓库未见原文"
     ],
     "draft_en": null,
     "as_of": "2026-10-25"

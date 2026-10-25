@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-724` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 kontakt@noxel.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「L3 Managed Switch」（价格未读），PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 74 批 Bcc 头核对 msg 195fba131b824d36）** ｜ 类型：安防网店（波兰，Dahua 为主） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 10；用户表：「Cudy的；销售平台」；研究档 risks：Dahua 为主的网店：PoE 多随 Dahua 套装走；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
+- **绑定等级：未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 kontakt@noxel.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「L3 Managed Switch」（稿内无价，第 74 批(p) 已读稿），PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 74 批 Bcc 头核对 msg 195fba131b824d36）** ｜ 类型：安防网店（波兰，Dahua 为主） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 10；用户表：「Cudy的；销售平台」；研究档 risks：Dahua 为主的网店：PoE 多随 Dahua 套装走；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：波兰 Noxel.pl（IP 监控网店：IP 摄像机 / 录像机 / 机柜 / UPS / 热成像 / 可视对讲；Dahua 词频 356（Dahua 为主）；表内「Cudy 的，销售平台，质量一般」）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：Dahua 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：Dahua 为主的网店：PoE 多随 Dahua 套装走

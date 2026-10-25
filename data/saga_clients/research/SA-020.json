@@ -1,168 +1,168 @@
 {
- "code": "SA-020",
- "name_official": "WIDEN Co., Ltd.（Nonthaburi, Thailand）",
- "website_status": "在线",
- "summary": "泰国暖武里的光纤产品进口分销商（Fiber Optic 全线：跳线、适配器、接头盒、MC、视频光端机、光纤交换机、FTTx、CATV），官网公开 info@/thawat@ 邮箱与 LINE。用户表：FS/MC/VC 都用自己的标（自有 logo），CommunicAsia 展会上问了交换机/HDMI 光端机，联系人 Thawat，早期 AI 评 50% A。",
- "type": "分销商/品牌商（光纤产品自有 logo，OEM 采购）",
- "size": "未见人数（中小分销商）",
- "brands_seen": [
-  "WIDEN"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "定位：光纤设备进口分销；类目含 Fiber Optic Switch / Media Converter",
-   "quote": "บริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร … Fiber Optic Media Converter · Fiber Optic Switch · Fiber Optic Video Converter … Email : info@widen.co.th, thawat@widen.co.th LINE ID :@widencompany",
-   "url": "http://www.widen.co.th/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "网店自述：光纤与配套设备进口分销商，ISO 9001:2015，2026-10-07 更新；电话/LINE/Messenger 公开",
-   "quote": "WIDEN NETWORK SOLUTIONS เราเป็นบริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร ได้การรับรองมาตรฐานการบริหารองค์กร ISO 9001 ปี 2015 Last update 07/10/2026 … 088-9498799 … @widencompany",
-   "url": "https://www.shop-widen.com/en",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "经销商",
-   "claim": "WIDEN 品牌产品线：SFP MC、PoE MC、机架机箱、工业 WDM MC（10/100 与千兆，1/2/4/8 口 PoE）、PoE 延长器",
-   "quote": "WIDEN SFP Gigabit Ethernet Media Converter · WIDEN Optic Media Converter with POE · WIDEN Rack mountable Chassis … WIDEN Fiber Optic Industrial WDM Media Converter 10/100 8 Port RJ45 PoE · … 10/100/1000 2 Port RJ45 PoE · WIDEN Fiber Optic PoE Extender W-PoEEx 1,950.00 บาท",
-   "url": "https://www.telepart.net/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Thawat",
-   "role": "负责人（官网公开直邮）",
-   "email": "thawat@widen.co.th",
-   "phone": "+66 81-285-4599 / 02-149-3922",
-   "source": "http://www.widen.co.th/"
-  }
- ],
- "notes": "A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "WIDEN Co., Ltd.（Widen Trading / WIDEN NETWORK SOLUTIONS）",
-  "hq": "Nonthaburi, Thailand",
-  "other": "自称光纤与配套设备进口分销商，ISO 9001:2015；网店 shop-widen.com 2026-10-07 更新；电话 088-9498799，LINE @widencompany，Messenger Widentradingcompany"
- },
- "business_lines": [
-  "光纤全线（跳线、适配器、接头盒、FTTx 皮线光缆、CATV）",
-  "WIDEN 品牌 MC：SFP 千兆 MC、PoE MC、机架式 MC 机箱、工业 WDM MC（10/100 与千兆，1/2/4/8 口 PoE）",
-  "WIDEN PoE 光纤延长器（W-PoEEx）",
-  "交换机/HDMI 光端机（展会上询问）"
- ],
- "products_seen": [
-  {
-   "brand": "WIDEN",
-   "model": "Fiber Optic Industrial WDM Media Converter 10/100/1000 1 Port / 2 Port RJ45 PoE",
-   "spec": "工业 WDM 千兆 1/2 口 PoE MC（经销商 telepart.net 列表）",
-   "url": "https://www.telepart.net/",
-   "date": "2026-10-21",
-   "saga": "STI-110GE（PoE 版待核）"
-  },
-  {
-   "brand": "WIDEN",
-   "model": "Industrial WDM Media Converter 10/100 4 Port / 8 Port RJ45 PoE",
-   "spec": "工业 4/8 口 PoE 小交换机（百兆）",
-   "url": "https://www.telepart.net/",
-   "date": "2026-10-21",
-   "saga": "STI-144GP / STI-288DGGPM（千兆升级位）"
-  },
-  {
-   "brand": "WIDEN",
-   "model": "W-PoEEx PoE Extender",
-   "spec": "PoE 延长 80–100 m，售价 1,950 THB",
-   "url": "https://www.telepart.net/",
-   "date": "2026-10-21",
-   "saga": "—"
-  },
-  {
-   "brand": "WIDEN",
-   "model": "SFP Gigabit Ethernet Media Converter / Rack mountable Chassis",
-   "spec": "千兆 SFP MC 与机架机箱",
-   "url": "https://www.telepart.net/",
-   "date": "2026-10-21",
-   "saga": "STI-110GE"
-  }
- ],
- "channels": {
-  "网站/网店": "http://www.widen.co.th/ · https://www.shop-widen.com/en",
-  "直邮": "thawat@widen.co.th（Thawat）/ info@widen.co.th",
-  "电话": "088-9498799",
-  "LINE": "@widencompany",
-  "Messenger": "Widentradingcompany"
- },
- "signals": [
-  "网店 2026-10-07 更新——活跃（https://www.shop-widen.com/en 2026-10-21）",
-  "泰国经销商 telepart.net 在售 WIDEN 全系 MC/PoE 产品——WIDEN 有二级渠道，自有 logo 量稳定",
-  "用户表：FS/MC/VC 都贴自有标；CommunicAsia 问过交换机/HDMI 光端机"
- ],
- "risks": [
-  "泰国本地价格极低（8+2 工业 PoE 零售 2,350 THB ≈ $65），对 Marvell 平台溢价接受度有限",
-  "自有 logo = 30% 档，但分销体量可按 25% 谈"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "WIDEN 已卖 4/8 口百兆工业 PoE MC/交换机 → 千兆升级位 STI-288DGGPM（8+2 SFP 管理）与 STI-144GP；千兆 MC 对位 STI-110GE；贴 WIDEN logo"
- },
- "email_hook": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 27 封 0 回、Opened 0；Elsa 箱：`to:widen.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(g)））",
-   "type": "泰国光纤分销（自有 logo，WIDEN）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "27 封从未打开",
-   "revive": "—",
-   "lane": "TH",
-   "cadence": "不主动",
-   "evidence": "邮件：去信 27 封（2024-06-24 → 2026-09-28），来信 0；Opened 标签 0 次；收件人 info@widen.co.th, thawat@widen.co.th"
-  },
-  "situation": "两年 27 封邮件 0 打开：地址 info@/thawat@ 很可能不看外部邮件。",
-  "need": "MC/光口交换机贴牌（用户表）。",
-  "breakpoint": "触达无效。",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "锚价：STI-288GP $60 / STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
-   "why": "MC / 光口交换机贴牌（WIDEN）→ 千兆 SFP 转换器 + 8 PoE DIN 两款 WIDEN 包装",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-   "channel": "A 邮箱 → thawat@widen.co.th（具名但 27 封 0 回、0 打开——先核地址是否还活；不活就在 widen.co.th 找第二个人）",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
-   "one_question": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2024-06-24",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "「5 port industrial switch」——S 邮箱对 thawat@widen.co.th + info@widen.co.th 的第 1 封",
-    "why": "两个地址并发 27 封（2024-06→2026-09），0 回、0 打开记录",
-    "k": "b43d00bf4155c428"
-   },
-   {
-    "date": "2026-09-28",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "「Managed PoE Switches」——最后一封群发",
-    "why": "thawat@ 是具名地址但两年不回 → 要么地址死了要么人不对；先核再换人",
-    "k": "f68e0de76ea765a6"
-   }
+  "code": "SA-020",
+  "name_official": "WIDEN Co., Ltd.（Nonthaburi, Thailand）",
+  "website_status": "在线",
+  "summary": "泰国暖武里的光纤产品进口分销商（Fiber Optic 全线：跳线、适配器、接头盒、MC、视频光端机、光纤交换机、FTTx、CATV），官网公开 info@/thawat@ 邮箱与 LINE。用户表：FS/MC/VC 都用自己的标（自有 logo），CommunicAsia 展会上问了交换机/HDMI 光端机，联系人 Thawat，早期 AI 评 50% A。",
+  "type": "分销商/品牌商（光纤产品自有 logo，OEM 采购）",
+  "size": "未见人数（中小分销商）",
+  "brands_seen": [
+    "WIDEN"
   ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "定位：光纤设备进口分销；类目含 Fiber Optic Switch / Media Converter",
+      "quote": "บริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร … Fiber Optic Media Converter · Fiber Optic Switch · Fiber Optic Video Converter … Email : info@widen.co.th, thawat@widen.co.th LINE ID :@widencompany",
+      "url": "http://www.widen.co.th/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "网店自述：光纤与配套设备进口分销商，ISO 9001:2015，2026-10-07 更新；电话/LINE/Messenger 公开",
+      "quote": "WIDEN NETWORK SOLUTIONS เราเป็นบริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร ได้การรับรองมาตรฐานการบริหารองค์กร ISO 9001 ปี 2015 Last update 07/10/2026 … 088-9498799 … @widencompany",
+      "url": "https://www.shop-widen.com/en",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "经销商",
+      "claim": "WIDEN 品牌产品线：SFP MC、PoE MC、机架机箱、工业 WDM MC（10/100 与千兆，1/2/4/8 口 PoE）、PoE 延长器",
+      "quote": "WIDEN SFP Gigabit Ethernet Media Converter · WIDEN Optic Media Converter with POE · WIDEN Rack mountable Chassis … WIDEN Fiber Optic Industrial WDM Media Converter 10/100 8 Port RJ45 PoE · … 10/100/1000 2 Port RJ45 PoE · WIDEN Fiber Optic PoE Extender W-PoEEx 1,950.00 บาท",
+      "url": "https://www.telepart.net/",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Thawat",
+      "role": "负责人（官网公开直邮）",
+      "email": "thawat@widen.co.th",
+      "phone": "+66 81-285-4599 / 02-149-3922",
+      "source": "http://www.widen.co.th/"
+    }
+  ],
+  "notes": "A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "WIDEN Co., Ltd.（Widen Trading / WIDEN NETWORK SOLUTIONS）",
+    "hq": "Nonthaburi, Thailand",
+    "other": "自称光纤与配套设备进口分销商，ISO 9001:2015；网店 shop-widen.com 2026-10-07 更新；电话 088-9498799，LINE @widencompany，Messenger Widentradingcompany"
+  },
+  "business_lines": [
+    "光纤全线（跳线、适配器、接头盒、FTTx 皮线光缆、CATV）",
+    "WIDEN 品牌 MC：SFP 千兆 MC、PoE MC、机架式 MC 机箱、工业 WDM MC（10/100 与千兆，1/2/4/8 口 PoE）",
+    "WIDEN PoE 光纤延长器（W-PoEEx）",
+    "交换机/HDMI 光端机（展会上询问）"
+  ],
+  "products_seen": [
+    {
+      "brand": "WIDEN",
+      "model": "Fiber Optic Industrial WDM Media Converter 10/100/1000 1 Port / 2 Port RJ45 PoE",
+      "spec": "工业 WDM 千兆 1/2 口 PoE MC（经销商 telepart.net 列表）",
+      "url": "https://www.telepart.net/",
+      "date": "2026-10-21",
+      "saga": "STI-110GE（PoE 版待核）"
+    },
+    {
+      "brand": "WIDEN",
+      "model": "Industrial WDM Media Converter 10/100 4 Port / 8 Port RJ45 PoE",
+      "spec": "工业 4/8 口 PoE 小交换机（百兆）",
+      "url": "https://www.telepart.net/",
+      "date": "2026-10-21",
+      "saga": "STI-144GP / STI-288DGGPM（千兆升级位）"
+    },
+    {
+      "brand": "WIDEN",
+      "model": "W-PoEEx PoE Extender",
+      "spec": "PoE 延长 80–100 m，售价 1,950 THB",
+      "url": "https://www.telepart.net/",
+      "date": "2026-10-21",
+      "saga": "—"
+    },
+    {
+      "brand": "WIDEN",
+      "model": "SFP Gigabit Ethernet Media Converter / Rack mountable Chassis",
+      "spec": "千兆 SFP MC 与机架机箱",
+      "url": "https://www.telepart.net/",
+      "date": "2026-10-21",
+      "saga": "STI-110GE"
+    }
+  ],
+  "channels": {
+    "网站/网店": "http://www.widen.co.th/ · https://www.shop-widen.com/en",
+    "直邮": "thawat@widen.co.th（Thawat）/ info@widen.co.th",
+    "电话": "088-9498799",
+    "LINE": "@widencompany",
+    "Messenger": "Widentradingcompany"
+  },
+  "signals": [
+    "网店 2026-10-07 更新——活跃（https://www.shop-widen.com/en 2026-10-21）",
+    "泰国经销商 telepart.net 在售 WIDEN 全系 MC/PoE 产品——WIDEN 有二级渠道，自有 logo 量稳定",
+    "用户表：FS/MC/VC 都贴自有标；CommunicAsia 问过交换机/HDMI 光端机"
+  ],
+  "risks": [
+    "泰国本地价格极低（8+2 工业 PoE 零售 2,350 THB ≈ $65），对 Marvell 平台溢价接受度有限",
+    "自有 logo = 30% 档，但分销体量可按 25% 谈"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 30,
+    "why": "WIDEN 已卖 4/8 口百兆工业 PoE MC/交换机 → 千兆升级位 STI-288DGGPM（8+2 SFP 管理）与 STI-144GP；千兆 MC 对位 STI-110GE；贴 WIDEN logo"
+  },
+  "email_hook": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 27 封 0 回、Opened 0；Elsa 箱：`to:widen.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(g)））",
+      "type": "泰国光纤分销（自有 logo，WIDEN）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "27 封从未打开",
+      "revive": "—",
+      "lane": "TH",
+      "cadence": "不主动",
+      "evidence": "邮件：去信 27 封（2024-06-24 → 2026-09-28），来信 0；Opened 标签 0 次；收件人 info@widen.co.th, thawat@widen.co.th"
+    },
+    "situation": "两年 27 封邮件 0 打开：地址 info@/thawat@ 很可能不看外部邮件。",
+    "need": "MC/光口交换机贴牌（用户表）。",
+    "breakpoint": "触达无效。",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "锚价：STI-288GP $60 / STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
+      "why": "MC / 光口交换机贴牌（WIDEN）→ 千兆 SFP 转换器 + 8 PoE DIN 两款 WIDEN 包装",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → thawat@widen.co.th（具名但 27 封 0 回、0 打开——先核地址是否还活；不活就在 widen.co.th 找第二个人）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2024-06-24",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "「5 port industrial switch」——S 邮箱对 thawat@widen.co.th + info@widen.co.th 的第 1 封",
+        "why": "两个地址并发 27 封（2024-06→2026-09），0 回、0 打开记录",
+        "k": "b43d00bf4155c428"
+      },
+      {
+        "date": "2026-09-28",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "「Managed PoE Switches」——最后一封群发",
+        "why": "thawat@ 是具名地址但两年不回 → 要么地址死了要么人不对；先核再换人",
+        "k": "f68e0de76ea765a6"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

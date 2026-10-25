@@ -1,148 +1,148 @@
 {
- "code": "SB-403",
- "name_official": "INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl)",
- "researched_at": "2026-10-21",
- "website_status": "在线（media-konwertery.pl；并档 Planet 渠道档案 PB-017）",
- "summary": "波兰北部小镇的专业网络电商群，业主一人决策，专卖转换器与工业交换机。类型：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）。信号：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）。Planet 渠道档案 PB-017 评级 B（需求：PLANET 工业在售；触达 info@ 通用，业主具名无直邮；体量小 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-403，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET"
- ],
- "evidence": [
-  {
-   "kind": "卖方目录",
-   "claim": "PLANET 工业交换机在售",
-   "quote": "IGS-4215-4P4T … IGS-6325 … FGSD-1022VHP（商品页，检索摘要）",
-   "url": "https://www.media-konwertery.pl/",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "公司自述",
-   "claim": "法人与地址",
-   "quote": "INTER-COMP.PL KOWALSKI sp. z o.o., ul. Pogodna 13, 86-010 Koronowo（页脚/联系页，检索摘要）",
-   "url": "https://www.media-konwertery.pl/",
-   "date": "2026-10-19"
-  }
- ],
- "kp": [
-  {
-   "name": "Marek Kowalski",
-   "title": "Właściciel（业主）；具名无公开直邮（不猜）",
-   "email": "",
-   "phone": "+48 52 511-88-33",
-   "source": "https://www.media-konwertery.pl/"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-017，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl)",
-  "founded": "",
-  "hq": "Koronowo, 波兰",
+  "code": "SB-403",
+  "name_official": "INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl)",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（media-konwertery.pl；并档 Planet 渠道档案 PB-017）",
+  "summary": "波兰北部小镇的专业网络电商群，业主一人决策，专卖转换器与工业交换机。类型：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）。信号：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）。Planet 渠道档案 PB-017 评级 B（需求：PLANET 工业在售；触达 info@ 通用，业主具名无直邮；体量小 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-403，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PB-017（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；是否经 FEN/ACTION 进货"
- },
- "business_lines": [
-  "分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "IGS-4215-4P4T",
-   "spec": "工业 4 PoE + 4 铜",
-   "saga": "STI-088GP（近似）",
-   "url": "https://media-konwertery.pl",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "IGS-6325",
-   "spec": "PLANET 为 L3 工业；Saga 工业 L2+",
-   "saga": "STI-488DGGPM（近似，L3 系列）",
-   "url": "https://media-konwertery.pl",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "FGSD-1022VHP",
-   "spec": "FE PoE：Saga 暂无对应（无 FE PoE 线）",
-   "saga": "—",
-   "url": "https://media-konwertery.pl",
-   "date": "2026-10-19"
-  }
- ],
- "channels": {
-  "role": "分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）",
-  "region": "波兰"
- },
- "signals": [
-  "小型专业电商，品类正是转换器/工业交换机；业主 Marek Kowalski 具名（无直邮）"
- ],
- "risks": [
-  "年台数；是否经 FEN/ACTION 进货",
-  "Planet 首触邮件未发送（Elsa 账号待定）",
-  "Saga 群发已推送 1 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求："
- },
- "email_hook": "media-konwertery.pl is built around converters and industrial switches, so a Marvell-based DIN PoE switch with ERPS fits your catalogue logic exactly. Which industrial PoE size sells most on your sites: 4-port, 8-port, or 16-port?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 info@media-konwertery.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（价格未读），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "PL 次级重点",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 17；研究档 risks：年台数；是否经 FEN/ACTION 进货；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-  },
-  "situation": "波兰北部小镇的专业网络电商群，业主一人决策，专卖转换器与工业交换机。类型：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）。信号：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）。Planet 渠道档案 PB-017 评级 B（需求：PLANET 工业在售；触达 info@ 通用，业主具名无直邮；体量小 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-403，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
-  "need": "其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：",
-  "breakpoint": "年台数；是否经 FEN/ACTION 进货",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-05 $65（10G media converter）、2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）",
-   "why": "其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-04-03",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
-    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@media-konwertery.pl, media-konwertery.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-09-25（17 去 / 0 来）",
-    "k": "gmail_digest"
-   }
+  "brands_seen": [
+    "PLANET"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "evidence": [
+    {
+      "kind": "卖方目录",
+      "claim": "PLANET 工业交换机在售",
+      "quote": "IGS-4215-4P4T … IGS-6325 … FGSD-1022VHP（商品页，检索摘要）",
+      "url": "https://www.media-konwertery.pl/",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "公司自述",
+      "claim": "法人与地址",
+      "quote": "INTER-COMP.PL KOWALSKI sp. z o.o., ul. Pogodna 13, 86-010 Koronowo（页脚/联系页，检索摘要）",
+      "url": "https://www.media-konwertery.pl/",
+      "date": "2026-10-19"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Marek Kowalski",
+      "title": "Właściciel（业主）；具名无公开直邮（不猜）",
+      "email": "",
+      "phone": "+48 52 511-88-33",
+      "source": "https://www.media-konwertery.pl/"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-017，W 批次调研 2026-10-19/20）"
+  },
+  "company_facts": {
+    "legal_name": "INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl)",
+    "founded": "",
+    "hq": "Koronowo, 波兰",
+    "size": "",
+    "other": "Planet 渠道档案 PB-017（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；是否经 FEN/ACTION 进货"
+  },
+  "business_lines": [
+    "分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "IGS-4215-4P4T",
+      "spec": "工业 4 PoE + 4 铜",
+      "saga": "STI-088GP（近似）",
+      "url": "https://media-konwertery.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGS-6325",
+      "spec": "PLANET 为 L3 工业；Saga 工业 L2+",
+      "saga": "STI-488DGGPM（近似，L3 系列）",
+      "url": "https://media-konwertery.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "FGSD-1022VHP",
+      "spec": "FE PoE：Saga 暂无对应（无 FE PoE 线）",
+      "saga": "—",
+      "url": "https://media-konwertery.pl",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）",
+    "region": "波兰"
+  },
+  "signals": [
+    "小型专业电商，品类正是转换器/工业交换机；业主 Marek Kowalski 具名（无直邮）"
+  ],
+  "risks": [
+    "年台数；是否经 FEN/ACTION 进货",
+    "Planet 首触邮件未发送（Elsa 账号待定）",
+    "Saga 群发已推送 1 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求："
+  },
+  "email_hook": "media-konwertery.pl is built around converters and industrial switches, so a Marvell-based DIN PoE switch with ERPS fits your catalogue logic exactly. Which industrial PoE size sells most on your sites: 4-port, 8-port, or 16-port?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 info@media-konwertery.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "PL 次级重点",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 17；研究档 risks：年台数；是否经 FEN/ACTION 进货；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+    },
+    "situation": "波兰北部小镇的专业网络电商群，业主一人决策，专卖转换器与工业交换机。类型：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）。信号：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）。Planet 渠道档案 PB-017 评级 B（需求：PLANET 工业在售；触达 info@ 通用，业主具名无直邮；体量小 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-403，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+    "need": "其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：",
+    "breakpoint": "年台数；是否经 FEN/ACTION 进货",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-05 $65（10G media converter）、2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）",
+      "why": "其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-04-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@media-konwertery.pl, media-konwertery.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-25",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-09-25（17 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

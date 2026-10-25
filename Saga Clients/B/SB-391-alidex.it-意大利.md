@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-391` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@alidex.it；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（价格未读），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「兴趣：几个台湾牌子;MC SFP 光猫 工业FS 啥都卖」；研究档 risks：仅 info@；台系品牌忠诚；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
+- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@alidex.it；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「兴趣：几个台湾牌子;MC SFP 光猫 工业FS 啥都卖」；研究档 risks：仅 info@；台系品牌忠诚；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：意大利工业网络 / IoT / OT 安全分销商（工业交换机与路由、光纤转换器、串口、Network TAP；ORing；industrial 84 / switch 112 / sfp 43），仅 info@；表内「几个台湾牌子，MC SFP 光猫 工业 FS 啥都卖」；西班牙站 alidex.es（SB-934）为同一公司；群发 1 次。
 - **对方真实需求（有据）**：台系工业管理 PoE 之下 → STI-288GPM（$78.9 @20%）。
 - **断点 / 为什么停在这里**：仅 info@；台系品牌忠诚

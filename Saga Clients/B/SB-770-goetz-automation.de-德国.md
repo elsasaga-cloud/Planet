@@ -52,7 +52,7 @@ updated: 2026-10-25
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-02-12 | 去 | Elsa 1:1 去信（To peter@goetz-automation.de） | Industrial PoE Switch — Marvell based industrial PoE, 2×GE SFP + 4×GE PoE, 120W, watchdog, 250 m, DIP（摘要无价） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Peter」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
+| 2025-02-12 | 去 | Elsa 1:1 去信（To peter@goetz-automation.de） | Industrial PoE Switch — Marvell based industrial PoE, 2×GE SFP + 4×GE PoE, 120W, watchdog, 250 m, DIP（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Peter」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-03-09 | 去 | A 群发 | 16 Port Ethernet Switch、Mini Industrial PoE Switch | 12 封 / 0 次打开 / 0 回｜首封 2025-03-25 → 末封 2026-03-09（12 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
 

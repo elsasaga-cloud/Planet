@@ -43,7 +43,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-445` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；S/A 邮箱 0 封；Elsa 群发 BCC 已触达 2025-02-18「Mini Industrial PoE Switch」（价格未读），PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合 批次 To dipol@skuatechnology.com，0 回（第 74 批 Bcc 头核对 msg 19518800c3f89634）** ｜ 类型：— ｜ 筛子：5（表内成单/样品单） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：Simon WhatsApp 一句话（问复购/样品结论） ｜ 通路：塞内加尔 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；研究档 risks：SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To dipol@skuatechnology.com）本户见于 2025-02-18 名单
+- **绑定等级：轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；S/A 邮箱 0 封；Elsa 群发 BCC 已触达 2025-02-18「Mini Industrial PoE Switch」（稿内无价，第 74 批(p) 已读稿），PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合 批次 To dipol@skuatechnology.com，0 回（第 74 批 Bcc 头核对 msg 19518800c3f89634）** ｜ 类型：— ｜ 筛子：5（表内成单/样品单） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：Simon WhatsApp 一句话（问复购/样品结论） ｜ 通路：塞内加尔 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；研究档 risks：SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To dipol@skuatechnology.com）本户见于 2025-02-18 名单
 - **现状一句话**：用户表：Groupe Penda Telecoms（塞内加尔；Seydou Jah；bigbocar@hotmail.com）——2019-03 询盘，千兆 SFP 收发器成样品单，有自己的货代；无后续跟进。无公开资料 → 仅表内信息；SFP 模块不在价格表（Q-32）→ 待核型；可搭 MC/2 光口交换机。
 - **对方真实需求（有据）**：待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）
 - **断点 / 为什么停在这里**：SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动

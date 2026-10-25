@@ -58,7 +58,7 @@
   "email_hook": "For the PoE and unmanaged switches in the Lanberg range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP) plus budget 5/8/16-port units in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your distribution?",
   "mail_review": {
     "binding": {
-      "level": "同一集团见 SA-076（Lanberg = Impakt S.A. 旗下品牌）：A 邮箱 19 封群发 0 回，但 E 邮箱 2025-08-25 收到 support@lanberg.pl 对「90W PoE Managed Switch」的回复并转给 lukasz.gasiewicz@impakt.com.pl——Lanberg 的采购在 Impakt；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（价格未读），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
+      "level": "同一集团见 SA-076（Lanberg = Impakt S.A. 旗下品牌）：A 邮箱 19 封群发 0 回，但 E 邮箱 2025-08-25 收到 support@lanberg.pl 对「90W PoE Managed Switch」的回复并转给 lukasz.gasiewicz@impakt.com.pl——Lanberg 的采购在 Impakt；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
       "type": "波兰 IT 配件品牌（Lanberg；Impakt S.A. 旗下，OEM 采购，体量大）",
       "sieve": "2（support@ 读信并内部转交）",
       "stop": "support@ 不是采购；真正的对口在 Impakt（SA-076 已有绑定线）",

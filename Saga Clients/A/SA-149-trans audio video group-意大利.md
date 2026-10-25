@@ -58,7 +58,7 @@ updated: 2026-10-25
 | 2024-08-07 | 去 | Saga（群发） | 「24 port passive poe switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `535fa639b6b07db7` |
 | 2024-11-12 | 去 | Saga（群发） | 「8 Port Ethernet Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `8fcd8b6dea1d95ec` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

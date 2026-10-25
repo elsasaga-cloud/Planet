@@ -41,7 +41,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1143` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2025-02-16「Industrial PoE Switch」（价格未读），北欧/中东欧 批次 To info@alphatelecom.cc，0 回（第 74 批 Bcc 头核对 msg 1950e8126b659a15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 工业MC 很多牌子的」** ｜ 类型：MC 多品牌经销商（荷兰） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：荷兰（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC 工业MC 很多牌子的」；研究档 risks：官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）本户见于 2025-02-16 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
+- **绑定等级：Elsa 群发 BCC 已触达 2025-02-16「Industrial PoE Switch」（稿内无价，第 74 批(p) 已读稿），北欧/中东欧 批次 To info@alphatelecom.cc，0 回（第 74 批 Bcc 头核对 msg 1950e8126b659a15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 工业MC 很多牌子的」** ｜ 类型：MC 多品牌经销商（荷兰） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：荷兰（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC 工业MC 很多牌子的」；研究档 risks：官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）本户见于 2025-02-16 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：荷兰 Abigo4u（abigo4u.com：MC 与工业 MC，「很多牌子的」多品牌经销；官网 http_error）；表内未跟进。
 - **对方真实需求（有据）**：MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位
 - **断点 / 为什么停在这里**：官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过

@@ -1,179 +1,179 @@
 {
- "code": "SA-057",
- "name_official": "MT-Link Technologies Co.（Karachi, Pakistan）",
- "website_status": "在线",
- "summary": "卡拉奇的自有品牌网络设备商（自称巴基斯坦首家本土网络品牌）：WiFi 路由、XPON ONU、OLT、8/16/24 口千兆与 PoE 交换机、10G/25G/100G L3 交换机（产品页明示源自上海博达 BDCOM）；有零售电商 mtlinkpakistan.com。用户表：WhatsApp 跟进 + DC 线索，2 次实质回复，20 次跟进；兴趣 MC / FS / 无线 AP，用自己的 logo，备注「应该是 BDCOM 的，质量看着一般」。",
- "type": "品牌商（中国白牌贴牌，ODM 买家）",
- "size": "未见人数（中小）",
- "brands_seen": [
-  "MT-Link",
-  "BDCOM"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "自有品牌定位",
-   "quote": "As Pakistan’s first leading networking solutions provider, we take immense pride in designing products specifically tailored to meet the unique requirements of Pakistan’s IT Industry … info@mt-link.com",
-   "url": "https://mt-link.com/about-us/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "交换机源自 BDCOM（证明其采购中国白牌）",
-   "quote": "MT-LINK MT-SG5612 is a new generation of aggregation 10GE switch introduced by Shanghai Baud Data Communication Co., LTD.",
-   "url": "https://mt-link.com/product/mt-sg5612/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（Facebook）",
-   "claim": "总部与电话（与用户表 WhatsApp 号一致）",
-   "quote": "MT Link Technologies co. (HEAD OFFICE) 109,111&113 Elahi Centre Preedy Street, Saddar, Karachi, Pakistan +92 317 9995719",
-   "url": "https://www.facebook.com/mtlinkpakistan/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网零售",
-   "claim": "MT-SW1024PE 规格",
-   "quote": "MT-SW1024PE - 24FE POE+ 2GE + 1G SFP Uplink POE Switch - 24 ports 10/100Mbps POE Ports - 2 Gigabit Uplink ports - 1 Gigabit SFP Uplink ports - 250W Total POE budget",
-   "url": "https://mtlinkpakistan.com/products/mt-sw1024pe",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网零售",
-   "claim": "L3-Lite 机型基于 BDCOM BDROS 平台与价格",
-   "quote": "MT-SG2912 10G L3-Lite Stackable Switch … Based on the new high-performance hardware and the BDROS platform … price 88000.00 PKR",
-   "url": "https://mtlinkpakistan.com/products/mt-sg2912f",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "总机（WhatsApp 已加）",
-   "email": "info@mt-link.com",
-   "phone": "+92 317 9995719",
-   "source": "https://www.facebook.com/mtlinkpakistan/"
-  }
- ],
- "notes": "A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "MT-Link Technologies Co.",
-  "hq": "109–113 Elahi Centre, Preedy Street, Saddar, Karachi, Pakistan（+92 317 9995719）",
-  "other": "自称巴基斯坦首家本土网络品牌；零售电商 mtlinkpakistan.com（PKR 标价）；L3 机型基于 BDCOM（BDROS 平台）；1 年官方保修"
- },
- "business_lines": [
-  "WiFi 路由 / XPON ONU / OLT",
-  "PoE 交换机（MT-SW1024PE 24 FE PoE+ 2 GE + 1 SFP 250W 等）",
-  "L3-Lite/L3 核心（MT-SG2912/2928/5828，BDCOM 来源）"
- ],
- "products_seen": [
-  {
-   "brand": "MT-Link",
-   "model": "MT-SW1024PE",
-   "spec": "24×FE PoE+ + 2 GE + 1 SFP，250W",
-   "url": "https://mtlinkpakistan.com/products/mt-sw1024pe",
-   "date": "2026-10-21",
-   "saga": "STC-424DGGPM-280W（千兆升级）"
-  },
-  {
-   "brand": "MT-Link（BDCOM）",
-   "model": "MT-SG2928-2AC",
-   "spec": "24 GE + 4×10G L3-Lite 可堆叠，Rs.65,500–66,000（原 80,950）",
-   "url": "https://mtlinkpakistan.com/collections/manageable-switches",
-   "date": "2026-10-21",
-   "saga": "STC-448XGGM(L3)（48 口位）/ STC-424XGGPM-280W（PoE 位）"
-  },
-  {
-   "brand": "MT-Link（BDCOM）",
-   "model": "MT-SG2912 / MT-SG2912F",
-   "spec": "10G L3-Lite，Rs.36,000 / Rs.88,000",
-   "url": "https://mtlinkpakistan.com/products/mt-sg2912f",
-   "date": "2026-10-21",
-   "saga": "—"
-  },
-  {
-   "brand": "MT-Link（BDCOM）",
-   "model": "MT-SG5828",
-   "spec": "24×10G + 4×100G 核心",
-   "url": "https://mt-link.com/product/mt-sg5828/",
-   "date": "2026-10-21",
-   "saga": "—"
-  }
- ],
- "channels": {
-  "网站": "https://mt-link.com/ · https://mtlinkpakistan.com/（零售）",
-  "直邮": "info@mt-link.com（用户表）；mtlink.pakistan@gmail.com（Facebook 公开）",
-  "社媒": "Facebook mtlinkpakistan"
- },
- "signals": [
-  "PoE 线仍为百兆 24 口（MT-SW1024PE）——千兆 PoE 管理型是空位（2026-10-21）",
-  "用户表：MC/FS/无线 AP，自己的 logo"
- ],
- "risks": [
-  "巴基斯坦外汇/LC 付款与进口限制；价格极敏感（24 FE PoE 零售极低）",
-  "BDCOM 为 L3 来源，Saga 只切接入层"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 30,
-  "why": "MT-SW1024PE 的千兆管理升级位 = STC-424DGGPM-280W；8 口位 STC-28DGGPM；贴 MT- 型号 30% 档"
- },
- "email_hook": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 2 封 0 回；Elsa 箱：`to:mt-link.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(g)））",
-   "type": "卡拉奇白牌品牌商（MT-Link）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "—",
-   "lane": "PK",
-   "cadence": "不主动",
-   "evidence": "邮件：去信 2 封（2026-03-12 → 2026-08-10），来信 0；Opened 标签 0 次；收件人 info@mt-link.com"
-  },
-  "situation": "2 封无互动；南亚价格极敏感。",
-  "need": "千兆 24 口 PoE+ 管理 + 8 口 PoE+ 2 SFP 贴 MT- 型号",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W（MT- 贴牌）+ STC-28DGGPM",
-   "tier": 30,
-   "price": "锚价：STC-424DGGPM-280W $145.7 / STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-   "why": "其 PoE 线仍是百兆 24 口 MT-SW1024PE → 千兆 PoE 管理型是空位；自己 logo",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-   "channel": "A 邮箱 → MT-Link 具名 KP 待找",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
-   "one_question": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside. Would the 24-port be the first SKU to sample under an MT- part number? Reference: STC-424DGGPM-280W at $145.7 / STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2024-01-18",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了2光4相关信息」→ 对方「16口POE 后续问了很多信息」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.1.18"
-   },
-   {
-    "date": "2024-02-27",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
-    "quote": "用户表跟进：推「发了24光combo型号」→ 对方「price」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.2.27"
-   }
+  "code": "SA-057",
+  "name_official": "MT-Link Technologies Co.（Karachi, Pakistan）",
+  "website_status": "在线",
+  "summary": "卡拉奇的自有品牌网络设备商（自称巴基斯坦首家本土网络品牌）：WiFi 路由、XPON ONU、OLT、8/16/24 口千兆与 PoE 交换机、10G/25G/100G L3 交换机（产品页明示源自上海博达 BDCOM）；有零售电商 mtlinkpakistan.com。用户表：WhatsApp 跟进 + DC 线索，2 次实质回复，20 次跟进；兴趣 MC / FS / 无线 AP，用自己的 logo，备注「应该是 BDCOM 的，质量看着一般」。",
+  "type": "品牌商（中国白牌贴牌，ODM 买家）",
+  "size": "未见人数（中小）",
+  "brands_seen": [
+    "MT-Link",
+    "BDCOM"
   ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "自有品牌定位",
+      "quote": "As Pakistan’s first leading networking solutions provider, we take immense pride in designing products specifically tailored to meet the unique requirements of Pakistan’s IT Industry … info@mt-link.com",
+      "url": "https://mt-link.com/about-us/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "交换机源自 BDCOM（证明其采购中国白牌）",
+      "quote": "MT-LINK MT-SG5612 is a new generation of aggregation 10GE switch introduced by Shanghai Baud Data Communication Co., LTD.",
+      "url": "https://mt-link.com/product/mt-sg5612/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（Facebook）",
+      "claim": "总部与电话（与用户表 WhatsApp 号一致）",
+      "quote": "MT Link Technologies co. (HEAD OFFICE) 109,111&113 Elahi Centre Preedy Street, Saddar, Karachi, Pakistan +92 317 9995719",
+      "url": "https://www.facebook.com/mtlinkpakistan/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网零售",
+      "claim": "MT-SW1024PE 规格",
+      "quote": "MT-SW1024PE - 24FE POE+ 2GE + 1G SFP Uplink POE Switch - 24 ports 10/100Mbps POE Ports - 2 Gigabit Uplink ports - 1 Gigabit SFP Uplink ports - 250W Total POE budget",
+      "url": "https://mtlinkpakistan.com/products/mt-sw1024pe",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网零售",
+      "claim": "L3-Lite 机型基于 BDCOM BDROS 平台与价格",
+      "quote": "MT-SG2912 10G L3-Lite Stackable Switch … Based on the new high-performance hardware and the BDROS platform … price 88000.00 PKR",
+      "url": "https://mtlinkpakistan.com/products/mt-sg2912f",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "—",
+      "role": "总机（WhatsApp 已加）",
+      "email": "info@mt-link.com",
+      "phone": "+92 317 9995719",
+      "source": "https://www.facebook.com/mtlinkpakistan/"
+    }
+  ],
+  "notes": "A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "MT-Link Technologies Co.",
+    "hq": "109–113 Elahi Centre, Preedy Street, Saddar, Karachi, Pakistan（+92 317 9995719）",
+    "other": "自称巴基斯坦首家本土网络品牌；零售电商 mtlinkpakistan.com（PKR 标价）；L3 机型基于 BDCOM（BDROS 平台）；1 年官方保修"
+  },
+  "business_lines": [
+    "WiFi 路由 / XPON ONU / OLT",
+    "PoE 交换机（MT-SW1024PE 24 FE PoE+ 2 GE + 1 SFP 250W 等）",
+    "L3-Lite/L3 核心（MT-SG2912/2928/5828，BDCOM 来源）"
+  ],
+  "products_seen": [
+    {
+      "brand": "MT-Link",
+      "model": "MT-SW1024PE",
+      "spec": "24×FE PoE+ + 2 GE + 1 SFP，250W",
+      "url": "https://mtlinkpakistan.com/products/mt-sw1024pe",
+      "date": "2026-10-21",
+      "saga": "STC-424DGGPM-280W（千兆升级）"
+    },
+    {
+      "brand": "MT-Link（BDCOM）",
+      "model": "MT-SG2928-2AC",
+      "spec": "24 GE + 4×10G L3-Lite 可堆叠，Rs.65,500–66,000（原 80,950）",
+      "url": "https://mtlinkpakistan.com/collections/manageable-switches",
+      "date": "2026-10-21",
+      "saga": "STC-448XGGM(L3)（48 口位）/ STC-424XGGPM-280W（PoE 位）"
+    },
+    {
+      "brand": "MT-Link（BDCOM）",
+      "model": "MT-SG2912 / MT-SG2912F",
+      "spec": "10G L3-Lite，Rs.36,000 / Rs.88,000",
+      "url": "https://mtlinkpakistan.com/products/mt-sg2912f",
+      "date": "2026-10-21",
+      "saga": "—"
+    },
+    {
+      "brand": "MT-Link（BDCOM）",
+      "model": "MT-SG5828",
+      "spec": "24×10G + 4×100G 核心",
+      "url": "https://mt-link.com/product/mt-sg5828/",
+      "date": "2026-10-21",
+      "saga": "—"
+    }
+  ],
+  "channels": {
+    "网站": "https://mt-link.com/ · https://mtlinkpakistan.com/（零售）",
+    "直邮": "info@mt-link.com（用户表）；mtlink.pakistan@gmail.com（Facebook 公开）",
+    "社媒": "Facebook mtlinkpakistan"
+  },
+  "signals": [
+    "PoE 线仍为百兆 24 口（MT-SW1024PE）——千兆 PoE 管理型是空位（2026-10-21）",
+    "用户表：MC/FS/无线 AP，自己的 logo"
+  ],
+  "risks": [
+    "巴基斯坦外汇/LC 付款与进口限制；价格极敏感（24 FE PoE 零售极低）",
+    "BDCOM 为 L3 来源，Saga 只切接入层"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 30,
+    "why": "MT-SW1024PE 的千兆管理升级位 = STC-424DGGPM-280W；8 口位 STC-28DGGPM；贴 MT- 型号 30% 档"
+  },
+  "email_hook": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 2 封 0 回；Elsa 箱：`to:mt-link.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(g)））",
+      "type": "卡拉奇白牌品牌商（MT-Link）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "—",
+      "lane": "PK",
+      "cadence": "不主动",
+      "evidence": "邮件：去信 2 封（2026-03-12 → 2026-08-10），来信 0；Opened 标签 0 次；收件人 info@mt-link.com"
+    },
+    "situation": "2 封无互动；南亚价格极敏感。",
+    "need": "千兆 24 口 PoE+ 管理 + 8 口 PoE+ 2 SFP 贴 MT- 型号",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W（MT- 贴牌）+ STC-28DGGPM",
+      "tier": 30,
+      "price": "锚价：STC-424DGGPM-280W $145.7 / STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "why": "其 PoE 线仍是百兆 24 口 MT-SW1024PE → 千兆 PoE 管理型是空位；自己 logo",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → MT-Link 具名 KP 待找",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside. Would the 24-port be the first SKU to sample under an MT- part number? Reference: STC-424DGGPM-280W at $145.7 / STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2024-01-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了2光4相关信息」→ 对方「16口POE 后续问了很多信息」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.1.18"
+      },
+      {
+        "date": "2024-02-27",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+        "quote": "用户表跟进：推「发了24光combo型号」→ 对方「price」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.2.27"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

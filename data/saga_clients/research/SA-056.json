@@ -1,175 +1,175 @@
 {
- "code": "SA-056",
- "name_official": "DNC Technosolutions Pvt. Ltd.（Ernakulam, Kerala, India）",
- "website_status": "在线",
- "summary": "喀拉拉邦的光纤产品制造/方案商（2011 年），自有 DNC 品牌：跳线/尾纤/连接器/分路器、数据 MC（MC-10100G 等）、视频/电话光端机、SFP、MPO。用户表：WhatsApp 跟进，2 次实质回复，18 次跟进；兴趣 MC / FS / HDMI / SFP / VC，要求质量较高，用自己的 logo。",
- "type": "品牌商（光纤配套，MC 贴牌）",
- "size": "未见人数（小型）",
- "brands_seen": [
-  "DNC"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "定位与产品线",
-   "quote": "Established in the year 2011, DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products … Data to Fiber converters, Video to Fiber Converter, Telephone to Fiber Converters, SFP Modules, MPO Systems",
-   "url": "https://www.dncsolutions.co.in/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "自有品牌 MC 零售价与电话（与用户表一致）",
-   "quote": "10/100/1000 Mbps Duplex Data Media Converter … Part Number MC-10100G … +91-9656123414 Binanipuram … Brand DNC",
-   "url": "https://www.dncsolutions.co.in/101001000mbpsduplexdatamediaconverter/pid-2010203631",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "IndiaMART",
-   "claim": "DNC 自有标 4-PoE + 1-FX 交换机",
-   "quote": "DNC 4-PoE With 1-Fixed FX Switch - Number of Ports · 4PoE+ 1FX … Power Consumption (watt) · 15.5W / 25.5W … Brand · DNC · Availability · In Stock",
-   "url": "https://www.indiamart.com/proddetail/4-poe-with-1-fixed-fx-switch-18538470891.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "MC-10100G 规格与价格、电话、地址",
-   "quote": "10/100/1000 Mbps Duplex Data Media Converter … +91-9656123414 Binanipuram … 3,379 … Part Number MC-10100G Temperature 0 to 50",
-   "url": "https://www.dncsolutions.co.in/101001000-mbps-duplex-data-media-converter/pid-2010203631",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "2011 年成立与产品范围",
-   "quote": "Established in the year 2011, DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products and Technology … Data to Fiber converters, Video to Fiber Converter , Telephone to Fiber Converters , SFP Modules , MPO Systems",
-   "url": "https://www.dncsolutions.co.in/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "官网公开电话（WhatsApp 已加）",
-   "email": "",
-   "phone": "+91 96561 23414",
-   "source": "https://www.dncsolutions.co.in/"
-  }
- ],
- "notes": "A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对）"
- },
- "company_facts": {
-  "legal_name": "DNC Technosolutions Pvt. Ltd.",
-  "founded": "2011（IndiaMART 另见 2013）",
-  "hq": "Binanipuram P.O., Edayar, Ernakulam, Kerala（+91 96561 23414）；另见 48/425-P, Raghavan Pillai Road, Edappally, Ernakulam 682026",
-  "other": "自有品牌 DNC 光纤产品制造商：跳线/尾纤/适配器/分路器/配线架/MPO 系统、数据 MC（MC-10100G 千兆双纤 ₹3,379）、视频光端机（4ch TVI/CVI/AHD）、电话光端机、HDMI+USB KVM 光端机（DNC-KVM-HV，FCC/CE）、SFP、**DNC 4-PoE + 1-FX 交换机（IndiaMART 在售）**"
- },
- "business_lines": [
-  "光纤无源（跳线、分路器、MPO）",
-  "DNC 品牌 MC / 光端机 / SFP",
-  "（兴趣）FS、HDMI、VC",
-  "光纤无源（跳线/尾纤/MPO/配线架/分路器）制造",
-  "DNC 品牌光端机 / MC / SFP",
-  "DNC 品牌小口数 PoE 光纤交换机"
- ],
- "products_seen": [
-  {
-   "brand": "DNC",
-   "model": "MC-10100G 等 MC",
-   "spec": "自有 logo，「质量较高」要求",
-   "url": "https://dncsolutions.co.in/",
-   "date": "2026-10（首轮调研）",
-   "saga": "STI-110GE"
-  },
-  {
-   "brand": "DNC（自有标）",
-   "model": "4-PoE With 1-Fixed FX Switch",
-   "spec": "4 PoE+ + 1 FX 固定光口，15.5/25.5W，DC 适配器",
-   "url": "https://www.indiamart.com/proddetail/4-poe-with-1-fixed-fx-switch-18538470891.html",
-   "date": "2026-10-21",
-   "saga": "STI-144GP（4 GE PoE + 1 SFP，直接对位）"
-  },
-  {
-   "brand": "DNC（自有标）",
-   "model": "MC-10100G",
-   "spec": "10/100/1000 双纤 MC，150×100×30 mm，5W，0–50℃，₹3,379",
-   "url": "https://www.dncsolutions.co.in/101001000-mbps-duplex-data-media-converter/pid-2010203631",
-   "date": "2026-10-21",
-   "saga": "STI-110GE"
-  }
- ],
- "channels": {
-  "网站": "https://www.dncsolutions.co.in/",
-  "直邮": "coo@dncsolutions.co.in（COO，用户表）",
-  "WhatsApp": "跟进中（用户表）",
-  "电话/WA": "+91 96561 23414（官网公开）",
-  "IndiaMART": "https://www.indiamart.com/dncsolutions/"
- },
- "signals": [
-  "用户表：2 次实质回复，18 次跟进；兴趣 MC/FS/HDMI/SFP/VC，强调质量",
-  "DNC 自有标已有 4 PoE + 1 FX 机——STI-144GP 为同口型 Marvell 替代，可按 DNC 命名贴牌；MC 位 STI-110GE（2026-10-21）"
- ],
- "risks": [
-  "MC 单价低、印度价格敏感；VC/HDMI 不在 Saga 型谱"
- ],
- "saga_fit": {
-  "p1": "STI-144GP",
-  "tier": 30,
-  "why": "自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档"
- },
- "email_hook": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 3 封 0 回、Opened 0；Elsa 箱：`to:dncsolutions.co.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 0）（第 74 批(g)））",
-   "type": "印度光纤配套品牌（DNC，MC 贴牌）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "—",
-   "lane": "IN",
-   "cadence": "不主动",
-   "evidence": "邮件：去信 3 封（2024-06-19 → 2024-12-11），来信 0；Opened 标签 0 次；收件人 coo@dncsolutions.co.in"
-  },
-  "situation": "3 封无互动。",
-  "need": "MC 贴牌。",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "锚价：STI-154GP $40.8（30% 档）/ STI-110GE $26.5（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（48 port managed switch）",
-   "why": "MC 贴牌（DNC）→ 千兆转换器 + 4 PoE + SFP 两款先问",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-   "channel": "A 邮箱 → DNC 具名 KP 待找",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
-   "one_question": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files. Which one first — the 4-PoE + SFP switch or the gigabit converter? Reference: STI-154GP at $40.8 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2024-06-18",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
-    "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了48口引流信息」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 2024.6.18"
-   },
-   {
-    "date": "2024-12-09",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「引流」→ 对方「1211: 22迷你」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 1209"
-   }
+  "code": "SA-056",
+  "name_official": "DNC Technosolutions Pvt. Ltd.（Ernakulam, Kerala, India）",
+  "website_status": "在线",
+  "summary": "喀拉拉邦的光纤产品制造/方案商（2011 年），自有 DNC 品牌：跳线/尾纤/连接器/分路器、数据 MC（MC-10100G 等）、视频/电话光端机、SFP、MPO。用户表：WhatsApp 跟进，2 次实质回复，18 次跟进；兴趣 MC / FS / HDMI / SFP / VC，要求质量较高，用自己的 logo。",
+  "type": "品牌商（光纤配套，MC 贴牌）",
+  "size": "未见人数（小型）",
+  "brands_seen": [
+    "DNC"
   ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "定位与产品线",
+      "quote": "Established in the year 2011, DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products … Data to Fiber converters, Video to Fiber Converter, Telephone to Fiber Converters, SFP Modules, MPO Systems",
+      "url": "https://www.dncsolutions.co.in/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "自有品牌 MC 零售价与电话（与用户表一致）",
+      "quote": "10/100/1000 Mbps Duplex Data Media Converter … Part Number MC-10100G … +91-9656123414 Binanipuram … Brand DNC",
+      "url": "https://www.dncsolutions.co.in/101001000mbpsduplexdatamediaconverter/pid-2010203631",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "IndiaMART",
+      "claim": "DNC 自有标 4-PoE + 1-FX 交换机",
+      "quote": "DNC 4-PoE With 1-Fixed FX Switch - Number of Ports · 4PoE+ 1FX … Power Consumption (watt) · 15.5W / 25.5W … Brand · DNC · Availability · In Stock",
+      "url": "https://www.indiamart.com/proddetail/4-poe-with-1-fixed-fx-switch-18538470891.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "MC-10100G 规格与价格、电话、地址",
+      "quote": "10/100/1000 Mbps Duplex Data Media Converter … +91-9656123414 Binanipuram … 3,379 … Part Number MC-10100G Temperature 0 to 50",
+      "url": "https://www.dncsolutions.co.in/101001000-mbps-duplex-data-media-converter/pid-2010203631",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "2011 年成立与产品范围",
+      "quote": "Established in the year 2011, DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products and Technology … Data to Fiber converters, Video to Fiber Converter , Telephone to Fiber Converters , SFP Modules , MPO Systems",
+      "url": "https://www.dncsolutions.co.in/",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "—",
+      "role": "官网公开电话（WhatsApp 已加）",
+      "email": "",
+      "phone": "+91 96561 23414",
+      "source": "https://www.dncsolutions.co.in/"
+    }
+  ],
+  "notes": "A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对）"
+  },
+  "company_facts": {
+    "legal_name": "DNC Technosolutions Pvt. Ltd.",
+    "founded": "2011（IndiaMART 另见 2013）",
+    "hq": "Binanipuram P.O., Edayar, Ernakulam, Kerala（+91 96561 23414）；另见 48/425-P, Raghavan Pillai Road, Edappally, Ernakulam 682026",
+    "other": "自有品牌 DNC 光纤产品制造商：跳线/尾纤/适配器/分路器/配线架/MPO 系统、数据 MC（MC-10100G 千兆双纤 ₹3,379）、视频光端机（4ch TVI/CVI/AHD）、电话光端机、HDMI+USB KVM 光端机（DNC-KVM-HV，FCC/CE）、SFP、**DNC 4-PoE + 1-FX 交换机（IndiaMART 在售）**"
+  },
+  "business_lines": [
+    "光纤无源（跳线、分路器、MPO）",
+    "DNC 品牌 MC / 光端机 / SFP",
+    "（兴趣）FS、HDMI、VC",
+    "光纤无源（跳线/尾纤/MPO/配线架/分路器）制造",
+    "DNC 品牌光端机 / MC / SFP",
+    "DNC 品牌小口数 PoE 光纤交换机"
+  ],
+  "products_seen": [
+    {
+      "brand": "DNC",
+      "model": "MC-10100G 等 MC",
+      "spec": "自有 logo，「质量较高」要求",
+      "url": "https://dncsolutions.co.in/",
+      "date": "2026-10（首轮调研）",
+      "saga": "STI-110GE"
+    },
+    {
+      "brand": "DNC（自有标）",
+      "model": "4-PoE With 1-Fixed FX Switch",
+      "spec": "4 PoE+ + 1 FX 固定光口，15.5/25.5W，DC 适配器",
+      "url": "https://www.indiamart.com/proddetail/4-poe-with-1-fixed-fx-switch-18538470891.html",
+      "date": "2026-10-21",
+      "saga": "STI-144GP（4 GE PoE + 1 SFP，直接对位）"
+    },
+    {
+      "brand": "DNC（自有标）",
+      "model": "MC-10100G",
+      "spec": "10/100/1000 双纤 MC，150×100×30 mm，5W，0–50℃，₹3,379",
+      "url": "https://www.dncsolutions.co.in/101001000-mbps-duplex-data-media-converter/pid-2010203631",
+      "date": "2026-10-21",
+      "saga": "STI-110GE"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.dncsolutions.co.in/",
+    "直邮": "coo@dncsolutions.co.in（COO，用户表）",
+    "WhatsApp": "跟进中（用户表）",
+    "电话/WA": "+91 96561 23414（官网公开）",
+    "IndiaMART": "https://www.indiamart.com/dncsolutions/"
+  },
+  "signals": [
+    "用户表：2 次实质回复，18 次跟进；兴趣 MC/FS/HDMI/SFP/VC，强调质量",
+    "DNC 自有标已有 4 PoE + 1 FX 机——STI-144GP 为同口型 Marvell 替代，可按 DNC 命名贴牌；MC 位 STI-110GE（2026-10-21）"
+  ],
+  "risks": [
+    "MC 单价低、印度价格敏感；VC/HDMI 不在 Saga 型谱"
+  ],
+  "saga_fit": {
+    "p1": "STI-144GP",
+    "tier": 30,
+    "why": "自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档"
+  },
+  "email_hook": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 3 封 0 回、Opened 0；Elsa 箱：`to:dncsolutions.co.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 0）（第 74 批(g)））",
+      "type": "印度光纤配套品牌（DNC，MC 贴牌）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "—",
+      "lane": "IN",
+      "cadence": "不主动",
+      "evidence": "邮件：去信 3 封（2024-06-19 → 2024-12-11），来信 0；Opened 标签 0 次；收件人 coo@dncsolutions.co.in"
+    },
+    "situation": "3 封无互动。",
+    "need": "MC 贴牌。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "锚价：STI-154GP $40.8（30% 档）/ STI-110GE $26.5（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（48 port managed switch）",
+      "why": "MC 贴牌（DNC）→ 千兆转换器 + 4 PoE + SFP 两款先问",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → DNC 具名 KP 待找",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files. Which one first — the 4-PoE + SFP switch or the gigabit converter? Reference: STI-154GP at $40.8 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2024-06-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
+        "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了48口引流信息」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 2024.6.18"
+      },
+      {
+        "date": "2024-12-09",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「引流」→ 对方「1211: 22迷你」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 1209"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

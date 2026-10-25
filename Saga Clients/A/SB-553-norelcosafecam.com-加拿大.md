@@ -59,7 +59,7 @@ updated: 2026-10-25
 | 2025-11-21 | 去 | Saga（群发） | 「Booster PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `0a8d96748590fd99` |
 | 2026-06-12 | 去 | Saga（群发） | 「10G L3 Managed Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `0e8efb29e3a824ef` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

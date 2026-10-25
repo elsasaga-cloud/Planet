@@ -1,146 +1,146 @@
 {
- "code": "SB-400",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（gsginternational.com，快照 2026-10-21）",
- "summary": "意大利 GSG International（安防技术分销：视频监控、门禁、入侵、人脸识别与视频分析；品牌 barox / ComNet / Lantech（2018 目录）、自有 Euklis NVR（KLIS 32 路 16 PoE）、Nettosecurity 奥特莱斯；表内「几个知名牌子的工业 FS / VC 很多牌子；经销商 KBC、barox 等」「质量一般」；KP Ludovico Fontana（CEO，ludovico.paveri@））；表内 1 次跟进无回复。",
- "type": "安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Euklis）",
- "size": "",
- "brands_seen": [
-  "barox",
-  "ComNet",
-  "Lantech",
-  "KBC"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Distributore di Tecnologie per la Sicurezza - Controllo Accessi；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Ingegneria, prodotti e servizi per la sicurezza delle persone e delle infrastrutture critiche. Videosorveglianza, controllo accessi, antintrusione, riconoscimento facciale e analisi video.",
-   "url": "https://www.gsginternational.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "几个知名牌子的工业FS；工业FS VC 很多牌子 经销商 KBC Barox等",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "GSG International 定位",
-   "quote": "Distributore di Tecnologie per la Sicurezza - Controllo Accessi ; Ingegneria, prodotti e servizi per la sicurezza delle persone e delle infrastrutture critiche",
-   "url": "https://www.gsginternational.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 很多牌子；KBC barox 经销",
-   "quote": "几个知名牌子的工业FS / 工业FS　VC   很多牌子 经销商 KBC Barox等；质量一般",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ludovico Fontana",
-   "title": "Chief Executive Officer",
-   "email": "ludovico.paveri@gsginternational.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 gsginternational.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "安防技术分销（CCTV / 门禁 / 入侵 / 分析）",
-  "自有品牌 Euklis NVR"
- ],
- "channels": {
-  "role": "安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Euklis）",
-  "region": "意大利",
-  "contact": "info@gsginternational.com、ludovico.paveri@gsginternational.com"
- },
- "signals": [
-  "页面 /it/euklis-klis-nvr-32-16poe-n-168.html、/it/lantech-2018-catalogo-n-169.html；站内品牌 barox / ComNet；kw integrator 10",
-  "官网：Distributore di tecnologie per la sicurezza ; Videosorveglianza, controllo accessi, antintrusione, riconoscimento facciale"
- ],
- "risks": [
-  "barox/ComNet/Lantech 既定品牌线：白牌为预算补充；表内「质量一般」",
-  "1 次跟进无回复 → 改向 CEO 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM"
- },
- "email_hook": "Ludovico, alongside the barox, ComNet and Lantech industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models (also under your Euklis label) from small lots, CE/RoHS, EXW USD — which port count do your integrators order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@gsginternational.com, ludovico.paveri@gsginternational.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（价格未读），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）",
-   "type": "安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Euklis）",
-   "sieve": "1（只收到群发）",
-   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 11；用户表：「几个知名牌子的工业FS；工业FS VC 很多牌子 经销商 KBC Barox等」；研究档 risks：barox/ComNet/Lantech 既定品牌线：白牌为预算补充；表内「质量一般」；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-  },
-  "situation": "意大利 GSG International（安防技术分销：视频监控、门禁、入侵、人脸识别与视频分析；品牌 barox / ComNet / Lantech（2018 目录）、自有 Euklis NVR（KLIS 32 路 16 PoE）、Nettosecurity 奥特莱斯；表内「几个知名牌子的工业 FS / VC 很多牌子；经销商 KBC、barox 等」「质量一般」；KP Ludovico Fontana（CEO，ludovico.paveri@））；表内 1 次跟进无回复。",
-  "need": "在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM",
-  "breakpoint": "barox/ComNet/Lantech 既定品牌线：白牌为预算补充；表内「质量一般」",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
-   "why": "在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Ludovico, alongside the barox, ComNet and Lantech industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models (also under your Euklis label) from small lots, CE/RoHS, EXW USD — which port count do your integrators order most?"
-  },
-  "facts": [
-   {
-    "date": "2025-04-01",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 gsginternational.com, info@gsginternational.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-07",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "11 封 / 0 次打开 / 0 回｜首封 2025-10-16 → 末封 2026-10-07（11 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "几个知名牌子的工业FS；工业FS VC 很多牌子 经销商 KBC Barox等",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-400",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（gsginternational.com，快照 2026-10-21）",
+  "summary": "意大利 GSG International（安防技术分销：视频监控、门禁、入侵、人脸识别与视频分析；品牌 barox / ComNet / Lantech（2018 目录）、自有 Euklis NVR（KLIS 32 路 16 PoE）、Nettosecurity 奥特莱斯；表内「几个知名牌子的工业 FS / VC 很多牌子；经销商 KBC、barox 等」「质量一般」；KP Ludovico Fontana（CEO，ludovico.paveri@））；表内 1 次跟进无回复。",
+  "type": "安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Euklis）",
+  "size": "",
+  "brands_seen": [
+    "barox",
+    "ComNet",
+    "Lantech",
+    "KBC"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Distributore di Tecnologie per la Sicurezza - Controllo Accessi；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Ingegneria, prodotti e servizi per la sicurezza delle persone e delle infrastrutture critiche. Videosorveglianza, controllo accessi, antintrusione, riconoscimento facciale e analisi video.",
+      "url": "https://www.gsginternational.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "几个知名牌子的工业FS；工业FS VC 很多牌子 经销商 KBC Barox等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "GSG International 定位",
+      "quote": "Distributore di Tecnologie per la Sicurezza - Controllo Accessi ; Ingegneria, prodotti e servizi per la sicurezza delle persone e delle infrastrutture critiche",
+      "url": "https://www.gsginternational.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 很多牌子；KBC barox 经销",
+      "quote": "几个知名牌子的工业FS / 工业FS　VC   很多牌子 经销商 KBC Barox等；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Ludovico Fontana",
+      "title": "Chief Executive Officer",
+      "email": "ludovico.paveri@gsginternational.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 gsginternational.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "安防技术分销（CCTV / 门禁 / 入侵 / 分析）",
+    "自有品牌 Euklis NVR"
+  ],
+  "channels": {
+    "role": "安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Euklis）",
+    "region": "意大利",
+    "contact": "info@gsginternational.com、ludovico.paveri@gsginternational.com"
+  },
+  "signals": [
+    "页面 /it/euklis-klis-nvr-32-16poe-n-168.html、/it/lantech-2018-catalogo-n-169.html；站内品牌 barox / ComNet；kw integrator 10",
+    "官网：Distributore di tecnologie per la sicurezza ; Videosorveglianza, controllo accessi, antintrusione, riconoscimento facciale"
+  ],
+  "risks": [
+    "barox/ComNet/Lantech 既定品牌线：白牌为预算补充；表内「质量一般」",
+    "1 次跟进无回复 → 改向 CEO 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM"
+  },
+  "email_hook": "Ludovico, alongside the barox, ComNet and Lantech industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models (also under your Euklis label) from small lots, CE/RoHS, EXW USD — which port count do your integrators order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@gsginternational.com, ludovico.paveri@gsginternational.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）",
+      "type": "安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Euklis）",
+      "sieve": "1（只收到群发）",
+      "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 11；用户表：「几个知名牌子的工业FS；工业FS VC 很多牌子 经销商 KBC Barox等」；研究档 risks：barox/ComNet/Lantech 既定品牌线：白牌为预算补充；表内「质量一般」；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+    },
+    "situation": "意大利 GSG International（安防技术分销：视频监控、门禁、入侵、人脸识别与视频分析；品牌 barox / ComNet / Lantech（2018 目录）、自有 Euklis NVR（KLIS 32 路 16 PoE）、Nettosecurity 奥特莱斯；表内「几个知名牌子的工业 FS / VC 很多牌子；经销商 KBC、barox 等」「质量一般」；KP Ludovico Fontana（CEO，ludovico.paveri@））；表内 1 次跟进无回复。",
+    "need": "在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM",
+    "breakpoint": "barox/ComNet/Lantech 既定品牌线：白牌为预算补充；表内「质量一般」",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
+      "why": "在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Ludovico, alongside the barox, ComNet and Lantech industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models (also under your Euklis label) from small lots, CE/RoHS, EXW USD — which port count do your integrators order most?"
+    },
+    "facts": [
+      {
+        "date": "2025-04-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 gsginternational.com, info@gsginternational.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-07",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "11 封 / 0 次打开 / 0 回｜首封 2025-10-16 → 末封 2026-10-07（11 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "几个知名牌子的工业FS；工业FS VC 很多牌子 经销商 KBC Barox等",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

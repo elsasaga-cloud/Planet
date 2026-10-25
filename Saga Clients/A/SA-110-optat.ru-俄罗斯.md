@@ -59,7 +59,7 @@ updated: 2026-10-25
 | 2024-06-18 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个商业交换机图」→ 对方「2024.7.15：问了一批提供不了的东西」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2024.6.18` |
 | 2026-08-26 | 去 | Elsa 群发（BCC；To sales@bas-ip.com，俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@optat.ru, optat.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 群发 Bcc 已触达（锚月轮 11 轮，最近 2026-08-26）、0 回），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

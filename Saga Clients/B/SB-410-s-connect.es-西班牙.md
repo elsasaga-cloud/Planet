@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-410` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 comercial@s-connect.es, nicolas@s-connect.es；主题多为「Booster PoE Switch、Optional Marvell Chipset Solutions」）；Elsa 群发 BCC 已触达 2025-03-29「Marvell Alleycat5 Solution」（价格未读），ES 批次 To info@garmasl.com，0 回（第 74 批 Bcc 头核对 msg 195e12122be75883）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「兴趣：很多台湾品牌的;很多牌子的」；研究档 risks：台系 / Moxa 品牌忠诚；群发无回复；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）本户见于 2025-03-29 名单；2026-09-02 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
+- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 comercial@s-connect.es, nicolas@s-connect.es；主题多为「Booster PoE Switch、Optional Marvell Chipset Solutions」）；Elsa 群发 BCC 已触达 2025-03-29「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），ES 批次 To info@garmasl.com，0 回（第 74 批 Bcc 头核对 msg 195e12122be75883）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「兴趣：很多台湾品牌的;很多牌子的」；研究档 risks：台系 / Moxa 品牌忠诚；群发无回复；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）本户见于 2025-03-29 名单；2026-09-02 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：西班牙工业 IoT 分销商（「Su socio para el IoT」；Moxa、Advantech、Milesight；switch 1232 / industrial 1160 / poe 588 / sfp 277 —— 工业网络目录极深；+34 910 421 886），工业 IoT 方案专家 Nicolas Calvez；表内「很多台湾品牌的」；群发 1 次。
 - **对方真实需求（有据）**：Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。
 - **断点 / 为什么停在这里**：台系 / Moxa 品牌忠诚；群发无回复

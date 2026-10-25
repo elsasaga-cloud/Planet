@@ -43,7 +43,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-116` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）；补核（第 73 批）：Elsa 01-30 答可代找二手 Brocade 并反问型号/速率/新旧，之后无回；Elsa 1:1 去信 3 轮 2026-04-03→2026-08-04（To 仅本户 pkarpov@ccs-msk.ru；头 msg 19e16ce005f0bc62 核对无 Bcc，称呼「(earlier)」= 个性化逐月 1:1 名单；主题 Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-30 Re:「OEM Core Switching Solution」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 4 条）；Elsa 群发 BCC 已触达 2025-07-14「16 Port Ethernet Switch」（价格未读），俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止） 批次 To zakupki@dozor23.ru，0 回（第 74 批 Bcc 头核对 msg 198092904a7b6f12）** ｜ 类型：莫斯科企业网/工业以太网分销（Microsens/Lenovo 合作） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：需求是 Brocade（品牌货源），不是 OEM ｜ 复活：其 Microsens 工业线的性价比替代（研究档） ｜ 通路：RU ｜ 节奏：不主动 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To zakupki@dozor23.ru）本户见于 2025-07-14 名单；该批次最早 2025-02-22 起共 6 轮，更早轮次 Bcc 未读
+- **绑定等级：未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）；补核（第 73 批）：Elsa 01-30 答可代找二手 Brocade 并反问型号/速率/新旧，之后无回；Elsa 1:1 去信 3 轮 2026-04-03→2026-08-04（To 仅本户 pkarpov@ccs-msk.ru；头 msg 19e16ce005f0bc62 核对无 Bcc，称呼「(earlier)」= 个性化逐月 1:1 名单；主题 Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-30 Re:「OEM Core Switching Solution」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 4 条）；Elsa 群发 BCC 已触达 2025-07-14「16 Port Ethernet Switch」（稿内无价，第 74 批(p) 已读稿），俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止） 批次 To zakupki@dozor23.ru，0 回（第 74 批 Bcc 头核对 msg 198092904a7b6f12）** ｜ 类型：莫斯科企业网/工业以太网分销（Microsens/Lenovo 合作） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：需求是 Brocade（品牌货源），不是 OEM ｜ 复活：其 Microsens 工业线的性价比替代（研究档） ｜ 通路：RU ｜ 节奏：不主动 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To zakupki@dozor23.ru）本户见于 2025-07-14 名单；该批次最早 2025-02-22 起共 6 轮，更早轮次 Bcc 未读
 - **现状一句话**：对 CENTEC 核心交换机群发的回应是问能否供 Brocade——把 Saga 当成了渠道货源。
 - **对方真实需求（有据）**：Brocade 原厂货（Saga 不做）。
 - **断点 / 为什么停在这里**：需求错位。
@@ -60,7 +60,7 @@ updated: 2026-10-25
 | 2026-05-11 | out | Elsa → pkarpov@ccs-msk.ru | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-08-04 | out | Elsa → pkarpov@ccs-msk.ru | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:pkarpov@ccs-msk.ru` 全程 complete：3 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 3 轮、0 回），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

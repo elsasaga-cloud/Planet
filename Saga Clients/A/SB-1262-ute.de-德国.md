@@ -57,7 +57,7 @@ updated: 2026-10-25
 | 2025-03-28 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por | Elsa 箱群发 BCC 触达证据（命中地址 info@ute.de, nils.linnemann@ute.de, ute.de, volker.pompetzki@ute.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-31 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@ute.de, nils.linnemann@ute.de, ute.de, volker.pompetzki@ute.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 群发 Bcc 已触达（最近 2026-08-31）、0 回），仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

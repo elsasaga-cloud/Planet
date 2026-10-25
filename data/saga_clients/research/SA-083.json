@@ -1,220 +1,220 @@
 {
- "code": "SA-083",
- "name_official": "B&S Electronics（Βασίλειος Σταυρίδης，塞萨洛尼基 Kalamaria，希腊）",
- "website_status": "在线",
- "summary": "希腊塞萨洛尼基安防批发/零售商（2004 年起；CCTV、报警、专业音频、自动化、电话交换机），进口+设计+销售，20–49 人、营收 <500 万美元；ISAF 2025 参展，CEO/创始人 Vasilis Stavridis 到访，现工业交换机供应商 EWIND 合作 5 年，对 2.5G 与升压 5 口机型有兴趣，要 8 口报价，已加 WA。",
- "type": "安防批发商/进口商",
- "size": "小型（20–49 人，营收 <$5M）",
- "brands_seen": [
-  "EWIND（用户记录：现供应商 5 年）",
-  "TARGET / BS-SWP（自有标）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "进口+设计+销售高科技产品，专注安防/CCTV/专业音频/自动化/电话交换机；批发与超批发",
-   "quote": "με βασικό αντικείμενο τον σχεδιασμό , την εισαγωγή και εμπορία προϊόντων υψηλής τεχνολογίας… κλειστών κυκλωμάτων τηλεόρασης (CCTV)… καλύπτει τις χονδρικές και υπερχονδρικές παραγγελίες σας",
-   "url": "https://bselectronics.gr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "Facebook",
-   "claim": "2004 年成立，塞萨洛尼基",
-   "quote": "Η B&S electronics ιδρύθηκε το 2004… Παπανδρέου Ανδρέα 56, Thessaloníki… +30 231 086 0272",
-   "url": "https://www.facebook.com/bselectronics.gr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "ZoomInfo",
-   "claim": "20–49 人，营收 100–500 万美元",
-   "quote": "It employs 20to49 people and has 1Mto5M of revenue",
-   "url": "https://www.zoominfo.com/c/bs-electronics/510338778",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "黄页",
-   "claim": "法人为 Βασίλειος Σταυρίδης（Vassilios Stavridis）",
-   "quote": "BS ELECTRONICS (Stavridis Vassilios K.) Papandreou Andrea 54-56, Kalamaria",
-   "url": "https://www.vrisko.gr/en/details/52d_d4ajaf4f2i6i043h2c20c60d3i17",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "BS-SWP / TP/SWP / BS-HPSWP 系列型号列表与地址",
-   "quote": "BS-SWP4/2 POE Switch 6άρι, 48V με ενσωματωμένο τροφοδοτικό … BS-SWP8/2 … BS-SWP16/2Q … BS-SWP24/2Q … TP/SWP4/2 … BS-HPSWP4/2 High Power POE Switch … Ανδρέα Παπανδρέου 54-56 Τ.Κ. 55132 Καλαμαριά, Θεσσαλονίκη",
-   "url": "https://bselectronics.gr/index.php?route=product/category&path=820",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "TPSPOE48050/8CH 套件 €140（TARGET 品牌）",
-   "quote": "Κατασκευαστής: TARGET … Τροφοδοτικό POE-UPS 48V-5A, 8CH … Περιλαμβάνει το ψηφιακό POE SWITCH της ίδιας εταιρίας, 8 θυρών (ισχύς ανά θύρα 30W) 10/100 και 2 θυρών UPLINK 100/1000 … AI WATCHDOG … price 140.00",
-   "url": "https://bselectronics.gr/tpspoe48050_8",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "经销商",
-   "claim": "BS-SWP4/2 经销价",
-   "quote": "BS-SWP4/2 €66.96 Τιμή χωρίς Φ.Π.Α €54.00 … TP/SWP4/2 €71.92 Τιμή χωρίς Φ.Π.Α €58.00",
-   "url": "https://www.elektronikos.gr/product-category/modules-trofodotika-metallika-kytia/ethernet-poe-switches/poe-switches/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Vasilis Stavridis",
-   "role": "CEO / Founder",
-   "email": "imports@bselectronics.gr",
-   "phone": "+30 697 224 0011（用户记录 WA）",
-   "source": "用户 Clients 表（ISAF 2025）+ 黄页法人信息"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "欧洲主攻区、CEO 直接、已有同类供应商（EWIND）= 真实在采、可替换；兴趣点 2.5G + 升压 PoE 小口数机型。P1：STC-28DGGPM（8 口 PoE 商用）作为其要的 8 口报价，并附 2.5G 机型（STC-424XGGPM-280W 或 SmartByte 2.5G 8 口款，报价前核价）；分销价阶 20%。邮件 0 回复 → WA 跟。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网网店 + 自有 BS-SWP 系列核对）"
- },
- "company_facts": {
-  "legal_name": "B&S Electronics（Βασίλειος Σταυρίδης）",
-  "founded": "2004",
-  "hq": "Ανδρέα Παπανδρέου 54-56, 55132 Καλαμαριά, Θεσσαλονίκη（tel 2310 860 272 / 2310 455 005）",
-  "staff": "20–49",
-  "revenue": "<$5M",
-  "other": "B2B 网店 bselectronics.gr：自有/联营品牌 TARGET「BS-SWP」PoE 交换机系列（BS-SWP4/2、8/2、16/2Q、24/2Q；TP/SWP 无电源版；BS-HPSWP 高功率 4/8/16），PoE-UPS 电源 TPSPOE48050/8CH €140（含 8 口 AI PoE 交换机）；2025-07 行业媒体 securityreport.gr 专文推 Target BS-SWP 系列（B&S + PGM 联合）；新品：防水千兆 PoE extender、TD-3008H1-8P NVR"
- },
- "business_lines": [
-  "CCTV / 报警 / 专业音频 / 自动化 批发零售",
-  "工业交换机（EWIND）用于安防项目",
-  "对 2.5G 交换机有兴趣；看了防水交换机",
-  "TARGET / BS-SWP 自有标 PoE 交换机（百兆为主，内置电源）",
-  "PoE-UPS 48V 电源 + 交换机套件",
-  "CCTV/报警/对讲/机柜 批发"
- ],
- "products_seen": [
-  {
-   "brand": "EWIND（现供应商 5 年）",
-   "model": "工业 PoE 交换机（IP camera 项目）",
-   "spec": "—",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "ISAF 2025",
-   "saga": "STI-288DGGPM（二供位）"
-  },
-  {
-   "brand": "（兴趣）",
-   "model": "2.5G PoE 交换机",
-   "spec": "现场表达兴趣",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "ISAF 2025",
-   "saga": "STC-424XGGPM-280W（2.5G 下行待核）"
-  },
-  {
-   "brand": "TARGET（BS 自有标）",
-   "model": "BS-SWP4/2 / TP/SWP4/2",
-   "spec": "4 PoE + 2 上联 48V 内置电源；经销价 €54 / €58 ex-VAT（elektronikos.gr）",
-   "url": "https://www.elektronikos.gr/product-category/modules-trofodotika-metallika-kytia/ethernet-poe-switches/poe-switches/",
-   "date": "2026-10-21",
-   "saga": "STI-144GP / STC-28DGGPM"
-  },
-  {
-   "brand": "TARGET（BS 自有标）",
-   "model": "BS-SWP8/2 / BS-SWP16/2Q / BS-SWP24/2Q",
-   "spec": "8/16/24 PoE 48V 内置电源",
-   "url": "https://bselectronics.gr/index.php?route=product/category&path=820",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM / STI-21616GP / STC-424DGGPM-280W"
-  },
-  {
-   "brand": "TARGET（BS 自有标）",
-   "model": "BS-HPSWP4/2 / 8/2 / 16/2/1",
-   "spec": "High Power PoE 4/8/16",
-   "url": "https://bselectronics.gr/index.php?route=product/category&path=820",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM（bt 需核）"
-  },
-  {
-   "brand": "TARGET",
-   "model": "TPSPOE48050 / 8CH",
-   "spec": "PoE-UPS 48V 5A + 8 口 AI PoE 交换机（30W/口，2 GE 上联，VLAN/Watchdog）€140",
-   "url": "https://bselectronics.gr/tpspoe48050_8",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM（交换机部分）"
-  }
- ],
- "channels": {
-  "网站": "https://bselectronics.gr/",
-  "直邮": "imports@bselectronics.gr（用户表）",
-  "联系人": "Vasilis Stavridis（CEO/创始人）",
-  "网站/网店": "https://bselectronics.gr/",
-  "电话": "+30 2310 860 272（官网公开）",
-  "媒体": "securityreport.gr 2025-07 专文"
- },
- "signals": [
-  "ISAF 2025：CEO 亲访；对 2.5G 感兴趣——2.5G 是切入差异点",
-  "自有标 BS-SWP 系列 2025-07 仍在媒体推广——贴牌采购活跃；全系百兆 → 千兆/2.5G 管理型是升级空位（2026-10-21）"
- ],
- "risks": [
-  "EWIND 关系牢固（5 年、熟悉）→ 不做替换，只做 2.5G/新品类二供",
-  "防水（IP67）交换机 Saga 不做"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "BS-SWP8/2（8 PoE 百兆）千兆管理升级 = STC-28DGGPM；BS-SWP24/2Q = STC-424DGGPM-280W；2.5G 兴趣 = STC-424XGGPM-280W；工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档"
- },
- "email_hook": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 16 封 0 回、Opened 0；用户表：CEO 直接，已有 EWIND 供应商；Elsa 箱：`to:.gr` 穷举 15 条（2026-10-25，锚批 Bcc 头已读）未见 bselectronics.gr → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））",
-   "type": "塞萨洛尼基安防批发（B&S Electronics，imports@）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "imports@ 0 打开",
-   "revive": "换联系人",
-   "lane": "GR/EU",
-   "cadence": "一次",
-   "evidence": "邮件：去信 16 封（2025-03-19 → 2026-09-14），来信 0；Opened 标签 0 次；收件人 imports@bselectronics.gr"
-  },
-  "situation": "imports@ 通用箱两年 0 打开。",
-  "need": "8 口 PoE / 2.5G / 升压 PoE。",
-  "breakpoint": "触达层。",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "锚价：STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-29 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
-   "why": "需求 8 口 PoE / 2.5G / 升压 PoE → 8 口 2.5G 光上联 L2+ 一款先问，BS 包装",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-   "channel": "A 邮箱 → imports@bselectronics.gr（Vasilis Stavridis）",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
-   "one_question": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF. Shall I quote the 8-port in BS packing first? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-03-19",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "「8 Port Industrial PoE Switch」——对 imports@bselectronics.gr 的第 1 封",
-    "why": "16 封 2025-03→2026-09 全发 imports@，0 回、0 打开记录",
-    "k": "98f7e4e8b4b4c419"
-   },
-   {
-    "date": "2026-09-14",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "「16 Port Industrial PoE Switch」——最后一封",
-    "why": "进口部公用箱；具名 Vasilis Stavridis 在 kp 里但没单独发过",
-    "k": "ef2f8188a0b4f8e7"
-   }
+  "code": "SA-083",
+  "name_official": "B&S Electronics（Βασίλειος Σταυρίδης，塞萨洛尼基 Kalamaria，希腊）",
+  "website_status": "在线",
+  "summary": "希腊塞萨洛尼基安防批发/零售商（2004 年起；CCTV、报警、专业音频、自动化、电话交换机），进口+设计+销售，20–49 人、营收 <500 万美元；ISAF 2025 参展，CEO/创始人 Vasilis Stavridis 到访，现工业交换机供应商 EWIND 合作 5 年，对 2.5G 与升压 5 口机型有兴趣，要 8 口报价，已加 WA。",
+  "type": "安防批发商/进口商",
+  "size": "小型（20–49 人，营收 <$5M）",
+  "brands_seen": [
+    "EWIND（用户记录：现供应商 5 年）",
+    "TARGET / BS-SWP（自有标）"
   ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "进口+设计+销售高科技产品，专注安防/CCTV/专业音频/自动化/电话交换机；批发与超批发",
+      "quote": "με βασικό αντικείμενο τον σχεδιασμό , την εισαγωγή και εμπορία προϊόντων υψηλής τεχνολογίας… κλειστών κυκλωμάτων τηλεόρασης (CCTV)… καλύπτει τις χονδρικές και υπερχονδρικές παραγγελίες σας",
+      "url": "https://bselectronics.gr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "Facebook",
+      "claim": "2004 年成立，塞萨洛尼基",
+      "quote": "Η B&S electronics ιδρύθηκε το 2004… Παπανδρέου Ανδρέα 56, Thessaloníki… +30 231 086 0272",
+      "url": "https://www.facebook.com/bselectronics.gr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "ZoomInfo",
+      "claim": "20–49 人，营收 100–500 万美元",
+      "quote": "It employs 20to49 people and has 1Mto5M of revenue",
+      "url": "https://www.zoominfo.com/c/bs-electronics/510338778",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "黄页",
+      "claim": "法人为 Βασίλειος Σταυρίδης（Vassilios Stavridis）",
+      "quote": "BS ELECTRONICS (Stavridis Vassilios K.) Papandreou Andrea 54-56, Kalamaria",
+      "url": "https://www.vrisko.gr/en/details/52d_d4ajaf4f2i6i043h2c20c60d3i17",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网网店",
+      "claim": "BS-SWP / TP/SWP / BS-HPSWP 系列型号列表与地址",
+      "quote": "BS-SWP4/2 POE Switch 6άρι, 48V με ενσωματωμένο τροφοδοτικό … BS-SWP8/2 … BS-SWP16/2Q … BS-SWP24/2Q … TP/SWP4/2 … BS-HPSWP4/2 High Power POE Switch … Ανδρέα Παπανδρέου 54-56 Τ.Κ. 55132 Καλαμαριά, Θεσσαλονίκη",
+      "url": "https://bselectronics.gr/index.php?route=product/category&path=820",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网网店",
+      "claim": "TPSPOE48050/8CH 套件 €140（TARGET 品牌）",
+      "quote": "Κατασκευαστής: TARGET … Τροφοδοτικό POE-UPS 48V-5A, 8CH … Περιλαμβάνει το ψηφιακό POE SWITCH της ίδιας εταιρίας, 8 θυρών (ισχύς ανά θύρα 30W) 10/100 και 2 θυρών UPLINK 100/1000 … AI WATCHDOG … price 140.00",
+      "url": "https://bselectronics.gr/tpspoe48050_8",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "经销商",
+      "claim": "BS-SWP4/2 经销价",
+      "quote": "BS-SWP4/2 €66.96 Τιμή χωρίς Φ.Π.Α €54.00 … TP/SWP4/2 €71.92 Τιμή χωρίς Φ.Π.Α €58.00",
+      "url": "https://www.elektronikos.gr/product-category/modules-trofodotika-metallika-kytia/ethernet-poe-switches/poe-switches/",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Vasilis Stavridis",
+      "role": "CEO / Founder",
+      "email": "imports@bselectronics.gr",
+      "phone": "+30 697 224 0011（用户记录 WA）",
+      "source": "用户 Clients 表（ISAF 2025）+ 黄页法人信息"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "欧洲主攻区、CEO 直接、已有同类供应商（EWIND）= 真实在采、可替换；兴趣点 2.5G + 升压 PoE 小口数机型。P1：STC-28DGGPM（8 口 PoE 商用）作为其要的 8 口报价，并附 2.5G 机型（STC-424XGGPM-280W 或 SmartByte 2.5G 8 口款，报价前核价）；分销价阶 20%。邮件 0 回复 → WA 跟。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网网店 + 自有 BS-SWP 系列核对）"
+  },
+  "company_facts": {
+    "legal_name": "B&S Electronics（Βασίλειος Σταυρίδης）",
+    "founded": "2004",
+    "hq": "Ανδρέα Παπανδρέου 54-56, 55132 Καλαμαριά, Θεσσαλονίκη（tel 2310 860 272 / 2310 455 005）",
+    "staff": "20–49",
+    "revenue": "<$5M",
+    "other": "B2B 网店 bselectronics.gr：自有/联营品牌 TARGET「BS-SWP」PoE 交换机系列（BS-SWP4/2、8/2、16/2Q、24/2Q；TP/SWP 无电源版；BS-HPSWP 高功率 4/8/16），PoE-UPS 电源 TPSPOE48050/8CH €140（含 8 口 AI PoE 交换机）；2025-07 行业媒体 securityreport.gr 专文推 Target BS-SWP 系列（B&S + PGM 联合）；新品：防水千兆 PoE extender、TD-3008H1-8P NVR"
+  },
+  "business_lines": [
+    "CCTV / 报警 / 专业音频 / 自动化 批发零售",
+    "工业交换机（EWIND）用于安防项目",
+    "对 2.5G 交换机有兴趣；看了防水交换机",
+    "TARGET / BS-SWP 自有标 PoE 交换机（百兆为主，内置电源）",
+    "PoE-UPS 48V 电源 + 交换机套件",
+    "CCTV/报警/对讲/机柜 批发"
+  ],
+  "products_seen": [
+    {
+      "brand": "EWIND（现供应商 5 年）",
+      "model": "工业 PoE 交换机（IP camera 项目）",
+      "spec": "—",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "ISAF 2025",
+      "saga": "STI-288DGGPM（二供位）"
+    },
+    {
+      "brand": "（兴趣）",
+      "model": "2.5G PoE 交换机",
+      "spec": "现场表达兴趣",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "ISAF 2025",
+      "saga": "STC-424XGGPM-280W（2.5G 下行待核）"
+    },
+    {
+      "brand": "TARGET（BS 自有标）",
+      "model": "BS-SWP4/2 / TP/SWP4/2",
+      "spec": "4 PoE + 2 上联 48V 内置电源；经销价 €54 / €58 ex-VAT（elektronikos.gr）",
+      "url": "https://www.elektronikos.gr/product-category/modules-trofodotika-metallika-kytia/ethernet-poe-switches/poe-switches/",
+      "date": "2026-10-21",
+      "saga": "STI-144GP / STC-28DGGPM"
+    },
+    {
+      "brand": "TARGET（BS 自有标）",
+      "model": "BS-SWP8/2 / BS-SWP16/2Q / BS-SWP24/2Q",
+      "spec": "8/16/24 PoE 48V 内置电源",
+      "url": "https://bselectronics.gr/index.php?route=product/category&path=820",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM / STI-21616GP / STC-424DGGPM-280W"
+    },
+    {
+      "brand": "TARGET（BS 自有标）",
+      "model": "BS-HPSWP4/2 / 8/2 / 16/2/1",
+      "spec": "High Power PoE 4/8/16",
+      "url": "https://bselectronics.gr/index.php?route=product/category&path=820",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM（bt 需核）"
+    },
+    {
+      "brand": "TARGET",
+      "model": "TPSPOE48050 / 8CH",
+      "spec": "PoE-UPS 48V 5A + 8 口 AI PoE 交换机（30W/口，2 GE 上联，VLAN/Watchdog）€140",
+      "url": "https://bselectronics.gr/tpspoe48050_8",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM（交换机部分）"
+    }
+  ],
+  "channels": {
+    "网站": "https://bselectronics.gr/",
+    "直邮": "imports@bselectronics.gr（用户表）",
+    "联系人": "Vasilis Stavridis（CEO/创始人）",
+    "网站/网店": "https://bselectronics.gr/",
+    "电话": "+30 2310 860 272（官网公开）",
+    "媒体": "securityreport.gr 2025-07 专文"
+  },
+  "signals": [
+    "ISAF 2025：CEO 亲访；对 2.5G 感兴趣——2.5G 是切入差异点",
+    "自有标 BS-SWP 系列 2025-07 仍在媒体推广——贴牌采购活跃；全系百兆 → 千兆/2.5G 管理型是升级空位（2026-10-21）"
+  ],
+  "risks": [
+    "EWIND 关系牢固（5 年、熟悉）→ 不做替换，只做 2.5G/新品类二供",
+    "防水（IP67）交换机 Saga 不做"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "BS-SWP8/2（8 PoE 百兆）千兆管理升级 = STC-28DGGPM；BS-SWP24/2Q = STC-424DGGPM-280W；2.5G 兴趣 = STC-424XGGPM-280W；工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档"
+  },
+  "email_hook": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 16 封 0 回、Opened 0；用户表：CEO 直接，已有 EWIND 供应商；Elsa 箱：`to:.gr` 穷举 15 条（2026-10-25，锚批 Bcc 头已读）未见 bselectronics.gr → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））",
+      "type": "塞萨洛尼基安防批发（B&S Electronics，imports@）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "imports@ 0 打开",
+      "revive": "换联系人",
+      "lane": "GR/EU",
+      "cadence": "一次",
+      "evidence": "邮件：去信 16 封（2025-03-19 → 2026-09-14），来信 0；Opened 标签 0 次；收件人 imports@bselectronics.gr"
+    },
+    "situation": "imports@ 通用箱两年 0 打开。",
+    "need": "8 口 PoE / 2.5G / 升压 PoE。",
+    "breakpoint": "触达层。",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "锚价：STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-29 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
+      "why": "需求 8 口 PoE / 2.5G / 升压 PoE → 8 口 2.5G 光上联 L2+ 一款先问，BS 包装",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → imports@bselectronics.gr（Vasilis Stavridis）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF. Shall I quote the 8-port in BS packing first? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-03-19",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "「8 Port Industrial PoE Switch」——对 imports@bselectronics.gr 的第 1 封",
+        "why": "16 封 2025-03→2026-09 全发 imports@，0 回、0 打开记录",
+        "k": "98f7e4e8b4b4c419"
+      },
+      {
+        "date": "2026-09-14",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "「16 Port Industrial PoE Switch」——最后一封",
+        "why": "进口部公用箱；具名 Vasilis Stavridis 在 kp 里但没单独发过",
+        "k": "ef2f8188a0b4f8e7"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：TLD 穷举未见 Elsa 去信、Replied 索引亦无此户），仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

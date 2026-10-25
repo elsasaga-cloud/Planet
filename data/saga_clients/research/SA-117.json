@@ -1,173 +1,173 @@
 {
- "code": "SA-117",
- "name_official": "Domoticalia（domoticalia.es，西班牙）",
- "website_status": "未单独检索（仅用户记录 + 用户 AI 评估）",
- "summary": "西班牙智能家居与网络设备电商（多品牌，含 Witek 工业 FS），8 次跟进 0 回复；用户 AI 评估：早期 40% B，后期 8% C（重心为家居自动化零售）。",
- "type": "电商零售（智能家居为主）",
- "size": "微型/小型（待补证）",
- "brands_seen": [
-  "Witek（用户记录）",
-  "Stonet",
-  "EnGenius",
-  "Wi-Tek",
-  "BYDom",
-  "smlight"
- ],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "多品牌电商，工业 FS 为 Witek；0 回复 / 8 次；AI 评估 40%B / 8%C",
-   "quote": "很多牌子的 / 工业FS Witek的；早期ai: 40% B 西班牙智能家居和网络设备电商平台… max: 8% C 站点重心偏智能家居（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "网店",
-   "claim": "工业交换机类目在售型号与价格",
-   "quote": "Industrial Switches There are 6 products. STONET NIS3005 PRO … 71,78 € … Stonet NIS3010GP-WMC - 8-Port Managed Gigabit PoE Industrial Switch + Dual SFP 188,76 € … Stonet NIS3006GP-WMC … 158,27 € … Stonet NIS3008 PRO … 63,89 €",
-   "url": "https://www.domoticalia.es/en/170-industrial-switches",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "网店",
-   "claim": "PoE 交换机品牌构成",
-   "quote": "Manufacturer - BYDom (1) - EnGenius (11) - smlight (1) - Stonet (6) - Wi-Tek (4)",
-   "url": "https://www.domoticalia.es/en/75-poe-switches",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "法人、地址、联系方式",
-   "quote": "Domoticalia is a brand of the company Inteliware, S.L. … domoticalia, c/ Juan Genoves, 43 28850 Madrid España Call us now: (+34) 91 005 26 51 Email: atencioncliente@domoticalia.es Member of Z-Wave Alliance",
-   "url": "https://www.domoticalia.es/en/content/4-about-us",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "CIF 与经理",
-   "quote": "La empresa Domoticalia con CIF B86690344 Está ubicada en 28850 Torrejon de Ardoz (Madrid) … Gerente: Rafael Torrico",
-   "url": "https://www.anuarioguia.com/empresa/domoticalia",
-   "date": "2023-10-25"
-  }
- ],
- "kp": [
-  {
-   "name": "Rafael Torrico",
-   "role": "Gerente（公开企业名录）",
-   "email": "info@domoticalia.es（公司公开）",
-   "phone": "+34 91 005 26 51",
-   "source": "https://www.anuarioguia.com/empresa/domoticalia"
-  }
- ],
- "grade_override": "B",
- "override_reason": "0 回复 / 8 次推送，重心为消费级智能家居零售（Saga 不做消费），交换机仅附带 → 慢跟；西班牙在欧洲区故不降 C。",
- "notes": "一次性邮件：Witek 工业 FS 对位 STI-288GP/STI-288DGGPM 价格（电商 20%）。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（网店类目核对）"
- },
- "company_facts": {
-  "legal_name": "Inteliware, S.L.（品牌 Domoticalia；CIF B86690344）",
-  "hq": "C/ Juan Genovés 43, 28850 Torrejón de Ardoz (Madrid), España（+34 91 005 26 51；atencioncliente@domoticalia.es）",
-  "other": "智能家居/楼宇自动化网店与集成（Z-Wave Alliance 成员，eKomi/Confianza Online 认证）；网络类目在售品牌：EnGenius（11 款 PoE 机，含云管理 ECS1528P €—/ECS1552FP €1,231.18）、Stonet（6 款工业 DIN 机：NIS3010GP-WMC 8 PoE 管理 + 2 SFP €188.76；NIS3006GP-WMC 4 PoE + 2 SFP €158.27；NIS3005 PRO €71.78；NIS3008 PRO €63.89）、Wi-Tek（4）、BYDom（1）、smlight（1）；经理 Rafael Torrico（公开名录）"
- },
- "business_lines": [
-  "智能家居/楼宇自动化网店（Z-Wave 等）",
-  "网络设备零售（PoE 交换机、工业 DIN 交换机）",
-  "安防与监控"
- ],
- "products_seen": [
-  {
-   "brand": "Stonet",
-   "model": "NIS3010GP-WMC",
-   "spec": "8×GE PoE af/at 管理 + 2 SFP，DIN，宽温，IP40/EMC4，€188.76",
-   "url": "https://www.domoticalia.es/en/170-industrial-switches",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM（$139.9 @20% ≈ €—，直接替代）"
-  },
-  {
-   "brand": "Stonet",
-   "model": "NIS3006GP-WMC",
-   "spec": "4 PoE + 2 SFP L2 管理工业 DIN，€158.27",
-   "url": "https://www.domoticalia.es/en/170-industrial-switches",
-   "date": "2026-10-21",
-   "saga": "STI-144GP（非管理，价位远低）"
-  },
-  {
-   "brand": "EnGenius",
-   "model": "ECS1528P / ECS1528FP / ECS1552FP",
-   "spec": "24 PoE+ 240W / 410W + 4×10G SFP+；48 口 740W €1,231.18；云管理",
-   "url": "https://www.domoticalia.es/en/poe-switches/1385-engenius-ecs1552fp-switch-poe-48-ports-and-740-w-with-cloud-management-4713361935008.html",
-   "date": "2026-10-21",
-   "saga": "STC-424XGGPM-280W（本地管理，无云）"
-  }
- ],
- "channels": {
-  "网店": "https://www.domoticalia.es/",
-  "电话": "+34 91 005 26 51（官网公开）",
-  "邮箱（公开）": "atencioncliente@domoticalia.es / info@domoticalia.es"
- },
- "signals": [
-  "已成交（用户表）；工业 DIN 类目目前由 Stonet 独占 6 款 → Saga STI-288DGGPM 可作同类目第二品牌，零售价有 €40–50 空间"
- ],
- "risks": [
-  "网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W"
- },
- "email_hook": "Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 atencioncliente@domoticalia.es；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）；Elsa 群发 BCC 已触达 2025-03-29「Marvell Alleycat5 Solution」（价格未读），ES 批次 To info@garmasl.com，0 回（第 74 批 Bcc 头核对 msg 195e12122be75883）",
-   "type": "电商零售（智能家居为主）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "西班牙（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；研究档 risks：网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）本户见于 2025-03-29 名单；2026-09-02 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-  },
-  "situation": "西班牙智能家居与网络设备电商（多品牌，含 Witek 工业 FS），8 次跟进 0 回复；用户 AI 评估：早期 40% B，后期 8% C（重心为家居自动化零售）。",
-  "need": "电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W",
-  "breakpoint": "网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W。已打开的主题（1/18 封有打开记录）：「Managed PoE Switches」(2026-09-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?"
-  },
-  "facts": [
-   {
-    "date": "2025-03-29",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@garmasl.com，ES 批次）",
-    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 atencioncliente@domoticalia.es, domoticalia.es）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-09-30",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-    "why": "18 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-30（18 去 / 0 来）",
-    "k": "gmail_digest"
-   }
+  "code": "SA-117",
+  "name_official": "Domoticalia（domoticalia.es，西班牙）",
+  "website_status": "未单独检索（仅用户记录 + 用户 AI 评估）",
+  "summary": "西班牙智能家居与网络设备电商（多品牌，含 Witek 工业 FS），8 次跟进 0 回复；用户 AI 评估：早期 40% B，后期 8% C（重心为家居自动化零售）。",
+  "type": "电商零售（智能家居为主）",
+  "size": "微型/小型（待补证）",
+  "brands_seen": [
+    "Witek（用户记录）",
+    "Stonet",
+    "EnGenius",
+    "Wi-Tek",
+    "BYDom",
+    "smlight"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "多品牌电商，工业 FS 为 Witek；0 回复 / 8 次；AI 评估 40%B / 8%C",
+      "quote": "很多牌子的 / 工业FS Witek的；早期ai: 40% B 西班牙智能家居和网络设备电商平台… max: 8% C 站点重心偏智能家居（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "网店",
+      "claim": "工业交换机类目在售型号与价格",
+      "quote": "Industrial Switches There are 6 products. STONET NIS3005 PRO … 71,78 € … Stonet NIS3010GP-WMC - 8-Port Managed Gigabit PoE Industrial Switch + Dual SFP 188,76 € … Stonet NIS3006GP-WMC … 158,27 € … Stonet NIS3008 PRO … 63,89 €",
+      "url": "https://www.domoticalia.es/en/170-industrial-switches",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "网店",
+      "claim": "PoE 交换机品牌构成",
+      "quote": "Manufacturer - BYDom (1) - EnGenius (11) - smlight (1) - Stonet (6) - Wi-Tek (4)",
+      "url": "https://www.domoticalia.es/en/75-poe-switches",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "法人、地址、联系方式",
+      "quote": "Domoticalia is a brand of the company Inteliware, S.L. … domoticalia, c/ Juan Genoves, 43 28850 Madrid España Call us now: (+34) 91 005 26 51 Email: atencioncliente@domoticalia.es Member of Z-Wave Alliance",
+      "url": "https://www.domoticalia.es/en/content/4-about-us",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "CIF 与经理",
+      "quote": "La empresa Domoticalia con CIF B86690344 Está ubicada en 28850 Torrejon de Ardoz (Madrid) … Gerente: Rafael Torrico",
+      "url": "https://www.anuarioguia.com/empresa/domoticalia",
+      "date": "2023-10-25"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Rafael Torrico",
+      "role": "Gerente（公开企业名录）",
+      "email": "info@domoticalia.es（公司公开）",
+      "phone": "+34 91 005 26 51",
+      "source": "https://www.anuarioguia.com/empresa/domoticalia"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "0 回复 / 8 次推送，重心为消费级智能家居零售（Saga 不做消费），交换机仅附带 → 慢跟；西班牙在欧洲区故不降 C。",
+  "notes": "一次性邮件：Witek 工业 FS 对位 STI-288GP/STI-288DGGPM 价格（电商 20%）。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（网店类目核对）"
+  },
+  "company_facts": {
+    "legal_name": "Inteliware, S.L.（品牌 Domoticalia；CIF B86690344）",
+    "hq": "C/ Juan Genovés 43, 28850 Torrejón de Ardoz (Madrid), España（+34 91 005 26 51；atencioncliente@domoticalia.es）",
+    "other": "智能家居/楼宇自动化网店与集成（Z-Wave Alliance 成员，eKomi/Confianza Online 认证）；网络类目在售品牌：EnGenius（11 款 PoE 机，含云管理 ECS1528P €—/ECS1552FP €1,231.18）、Stonet（6 款工业 DIN 机：NIS3010GP-WMC 8 PoE 管理 + 2 SFP €188.76；NIS3006GP-WMC 4 PoE + 2 SFP €158.27；NIS3005 PRO €71.78；NIS3008 PRO €63.89）、Wi-Tek（4）、BYDom（1）、smlight（1）；经理 Rafael Torrico（公开名录）"
+  },
+  "business_lines": [
+    "智能家居/楼宇自动化网店（Z-Wave 等）",
+    "网络设备零售（PoE 交换机、工业 DIN 交换机）",
+    "安防与监控"
+  ],
+  "products_seen": [
+    {
+      "brand": "Stonet",
+      "model": "NIS3010GP-WMC",
+      "spec": "8×GE PoE af/at 管理 + 2 SFP，DIN，宽温，IP40/EMC4，€188.76",
+      "url": "https://www.domoticalia.es/en/170-industrial-switches",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM（$139.9 @20% ≈ €—，直接替代）"
+    },
+    {
+      "brand": "Stonet",
+      "model": "NIS3006GP-WMC",
+      "spec": "4 PoE + 2 SFP L2 管理工业 DIN，€158.27",
+      "url": "https://www.domoticalia.es/en/170-industrial-switches",
+      "date": "2026-10-21",
+      "saga": "STI-144GP（非管理，价位远低）"
+    },
+    {
+      "brand": "EnGenius",
+      "model": "ECS1528P / ECS1528FP / ECS1552FP",
+      "spec": "24 PoE+ 240W / 410W + 4×10G SFP+；48 口 740W €1,231.18；云管理",
+      "url": "https://www.domoticalia.es/en/poe-switches/1385-engenius-ecs1552fp-switch-poe-48-ports-and-740-w-with-cloud-management-4713361935008.html",
+      "date": "2026-10-21",
+      "saga": "STC-424XGGPM-280W（本地管理，无云）"
+    }
+  ],
+  "channels": {
+    "网店": "https://www.domoticalia.es/",
+    "电话": "+34 91 005 26 51（官网公开）",
+    "邮箱（公开）": "atencioncliente@domoticalia.es / info@domoticalia.es"
+  },
+  "signals": [
+    "已成交（用户表）；工业 DIN 类目目前由 Stonet 独占 6 款 → Saga STI-288DGGPM 可作同类目第二品牌，零售价有 €40–50 空间"
+  ],
+  "risks": [
+    "网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W"
+  },
+  "email_hook": "Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 atencioncliente@domoticalia.es；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）；Elsa 群发 BCC 已触达 2025-03-29「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），ES 批次 To info@garmasl.com，0 回（第 74 批 Bcc 头核对 msg 195e12122be75883）",
+      "type": "电商零售（智能家居为主）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "西班牙（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；研究档 risks：网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）本户见于 2025-03-29 名单；2026-09-02 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+    },
+    "situation": "西班牙智能家居与网络设备电商（多品牌，含 Witek 工业 FS），8 次跟进 0 回复；用户 AI 评估：早期 40% B，后期 8% C（重心为家居自动化零售）。",
+    "need": "电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W",
+    "breakpoint": "网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）",
+      "why": "电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W。已打开的主题（1/18 封有打开记录）：「Managed PoE Switches」(2026-09-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?"
+    },
+    "facts": [
+      {
+        "date": "2025-03-29",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@garmasl.com，ES 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 atencioncliente@domoticalia.es, domoticalia.es）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-30",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+        "why": "18 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-30（18 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

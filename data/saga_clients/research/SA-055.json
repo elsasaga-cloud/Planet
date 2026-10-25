@@ -1,197 +1,197 @@
 {
- "code": "SA-055",
- "name_official": "AE Connect India Pvt. Ltd.（Ahmedabad, Gujarat, India）",
- "website_status": "在线",
- "summary": "印度艾哈迈达巴德的网络产品品牌商（2005 年起，公司 2022 注册 CIN U31200GJ2022PTC132573，11–50 人，营收约 $8.1M），自有品牌 PoE 注入器/交换机、光纤产品、Cat6/6A 布线、机柜、工具，200+ 经销商；自述过去 5 年进口部分产品，现开始在印度自产 PoE 交换机（Make in India）。用户表：WhatsApp 跟进，3 次实质回复，18 次跟进；兴趣 PoE FS / MC / SFP，用自己的 logo。",
- "type": "品牌商（部分进口贴牌 + 本地组装）",
- "size": "11–50 人（LinkedIn）；$8.1M（ZoomInfo）",
- "brands_seen": [
-  "AE Connect"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "自有品牌 + 200+ 经销商 + 过去进口、现本地自产 PoE 交换机",
-   "quote": "The products have successively entered India and overseas with a wide network of 200+ dealers and distributors … For the last 5 years, we used to import some products from other countries. But now we are proud to announce that we are manufacturing PoE Switches in India.",
-   "url": "https://aeconnect.co.in/about-us/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "联系方式",
-   "quote": "+91 95379 10555 · info@aeconnect.co.in · F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad - 380 052",
-   "url": "https://aeconnect.co.in/shop/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "AE-PS8082SFT-M 规格",
-   "quote": "8 Port Managed PoE Switch offers 8 Gigabit PoE+ ports, 2 SFP slots, 150 W power, advanced L2 control (IP-MAC-Port binding, ACL), QoS & VLAN … Backplane Bandwidth · 20Gbps … MAC address · 8k",
-   "url": "https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/",
-   "date": "2026-05-29"
-  },
-  {
-   "kind": "官网",
-   "claim": "管理型 PoE 产品线（含 2.5G bt L3、24 口 L3）",
-   "quote": "AE-PS8082SFT-M 8 Port Gigabit L2 Managed PoE+ Switch … AE250-PS1084SFTM-L3 8 Port 2.5G L3 Managed BT PoE Switch … AE-PS242SFT-M 24 Port Gigabit L2 Managed PoE+ Switch … AE600-24GP4TF-L3 24 Port Gigabit L3 Managed PoE+ Switch",
-   "url": "https://aeconnect.co.in/poe-solutions/managed-poe-switches/",
-   "date": "2026-06-09"
-  },
-  {
-   "kind": "官网",
-   "claim": "工业 AE700-IPS8GE4GF-M 规格",
-   "quote": "AE700-IPS8GE4GF-M is a 12-port Industrial Gigabit Managed Layer 2 PoE+ Switch, featuring 8×10/100/1000Mbps PoE+ ports and 4x1000Mbps SFP slots … Input voltage (DC): 48-56V - Working temperature: -40°C ~ +75°C - Shell: IP40",
-   "url": "https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/",
-   "date": "2025-09-01"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "总机/用户表 WhatsApp",
-   "email": "info@aeconnect.co.in",
-   "phone": "+91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）",
-   "source": "https://aeconnect.co.in/shop/"
-  }
- ],
- "notes": "A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "AE Connect India Pvt. Ltd.（CIN U31200GJ2022PTC132573）",
-  "founded": "2005 起（公司 2022 注册）",
-  "hq": "Ahmedabad, Gujarat, India",
-  "staff": "11–50",
-  "revenue": "约 $8.1M",
-  "other": "自有品牌 PoE 全线（非管理/管理/工业/2.5G bt L3）、光纤、Cat6/6A 布线、机柜、工具；「Engineered in India」；2025–2026 产品页持续更新"
- },
- "business_lines": [
-  "非管理 PoE（AE-PS8082GU 8 GE PoE+2 GE 120W、AE-PSE8002GU、AEIN-PS24FE2GC 24 FE 250W、AE16PSN2GC）",
-  "管理 PoE（AE-PS8082SFT-M 8 GE PoE+2 SFP 150W L2、AE-PS242SFT-M 24 PoE+4 combo、AE600-24GP4TF-L3、AE250-PS1084SFTM-L3 8×2.5G bt L3）",
-  "工业 PoE（AE700-IPS8GE4GF-M 8 GE PoE + 4 SFP，-40~75℃）"
- ],
- "products_seen": [
-  {
-   "brand": "AE Connect",
-   "model": "AE-PS8082SFT-M",
-   "spec": "8×GE PoE+ + 2 SFP，150W，L2（ACL/IP-MAC 绑定/QoS/VLAN），20Gbps",
-   "url": "https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/",
-   "date": "2026-05-29",
-   "saga": "STC-28DGGPM"
-  },
-  {
-   "brand": "AE Connect",
-   "model": "AE-PS242SFT-M",
-   "spec": "24×GE PoE+ + 4 combo，56Gbps，L2 管理",
-   "url": "https://aeconnect.co.in/datasheet/PoE-Solution/Managed-PoE-Switches/AE-PS242SFT-M.pdf",
-   "date": "2026-10-21",
-   "saga": "STC-424DGGPM-280W"
-  },
-  {
-   "brand": "AE Connect",
-   "model": "AE600-24GP4TF-L3 / AE250-PS1084SFTM-L3",
-   "spec": "24 PoE L3 / 8×2.5G bt L3",
-   "url": "https://aeconnect.co.in/poe-solutions/managed-poe-switches/",
-   "date": "2026-06-09",
-   "saga": "STC-424XGGPM-280W（2.5G/10G 需核）"
-  },
-  {
-   "brand": "AE Connect",
-   "model": "AE700-IPS8GE4GF-M",
-   "spec": "工业 8 GE PoE+ + 4 SFP L2，48–56VDC，-40~75℃，IP40",
-   "url": "https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/",
-   "date": "2025-09-01",
-   "saga": "STI-288DGGPM（2 SFP 版）"
-  },
-  {
-   "brand": "AE Connect",
-   "model": "AE-PS8082GU / AE-PSE8002GU / AEIN-PS24FE2GC",
-   "spec": "非管理 8 GE PoE+2 GE 120W / 8 FE PoE+2 GE 120W / 24 FE PoE+2 GE/SFP 250W，6kV 防雷",
-   "url": "https://aeconnect.co.in/24-port-fast-ethernet-unmanaged-poe-switch-aein-ps24fe2gc/",
-   "date": "2025-09-06",
-   "saga": "STC-28DGGPM / STC-424DGGPM-280W（千兆升级）"
-  }
- ],
- "channels": {
-  "网站": "https://aeconnect.co.in/（含 datasheet PDF 库）",
-  "直邮": "info@aeconnect.co.in（用户表）",
-  "B2B": "IndiaMART（imimg 目录）"
- },
- "signals": [
-  "2025-09～2026-06 连续上新管理型/工业/2.5G bt L3 机型——产品线快速扩张，进口贴牌 + 本地组装（2026-10-21）",
-  "用户表：PoE/FS/MC/SFP，自己的 logo"
- ],
- "risks": [
-  "印度 BIS（CRS）认证——交换机类是否强制需客户确认；本地组装趋势（SKD）",
-  "价格极敏感"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档"
- },
- "email_hook": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（A/S 邮箱 0 封——用户表「3 次实质回复」渠道不明；Elsa 箱：`to:aeconnect.co.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
-   "type": "印度自有品牌（AE Connect，200+ 经销商）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "—",
-   "lane": "IN 非主攻",
-   "cadence": "不主动",
-   "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
-  },
-  "situation": "仓库无任何邮件。",
-  "need": "贴牌 8/24 口 PoE。",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—",
-   "why": "贴牌 8/24 口 PoE → 8 口 L2+ 先做第二货源",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-   "channel": "A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明）",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
-   "one_question": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line. Which of the two footprints would you second-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2024-02-08",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了工业MC系列相关信息」→ 对方「PoE Injector工业级90W」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.2.8"
-   },
-   {
-    "date": "2024-04-17",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了10G MC信息」→ 对方「price」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.4.17"
-   },
-   {
-    "date": "2025-02-26",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「工业16 24口出货图」→ 对方「主要用RTL 有较为成熟的产品了 国内的」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2025.2.26"
-   }
+  "code": "SA-055",
+  "name_official": "AE Connect India Pvt. Ltd.（Ahmedabad, Gujarat, India）",
+  "website_status": "在线",
+  "summary": "印度艾哈迈达巴德的网络产品品牌商（2005 年起，公司 2022 注册 CIN U31200GJ2022PTC132573，11–50 人，营收约 $8.1M），自有品牌 PoE 注入器/交换机、光纤产品、Cat6/6A 布线、机柜、工具，200+ 经销商；自述过去 5 年进口部分产品，现开始在印度自产 PoE 交换机（Make in India）。用户表：WhatsApp 跟进，3 次实质回复，18 次跟进；兴趣 PoE FS / MC / SFP，用自己的 logo。",
+  "type": "品牌商（部分进口贴牌 + 本地组装）",
+  "size": "11–50 人（LinkedIn）；$8.1M（ZoomInfo）",
+  "brands_seen": [
+    "AE Connect"
   ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "自有品牌 + 200+ 经销商 + 过去进口、现本地自产 PoE 交换机",
+      "quote": "The products have successively entered India and overseas with a wide network of 200+ dealers and distributors … For the last 5 years, we used to import some products from other countries. But now we are proud to announce that we are manufacturing PoE Switches in India.",
+      "url": "https://aeconnect.co.in/about-us/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系方式",
+      "quote": "+91 95379 10555 · info@aeconnect.co.in · F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad - 380 052",
+      "url": "https://aeconnect.co.in/shop/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "AE-PS8082SFT-M 规格",
+      "quote": "8 Port Managed PoE Switch offers 8 Gigabit PoE+ ports, 2 SFP slots, 150 W power, advanced L2 control (IP-MAC-Port binding, ACL), QoS & VLAN … Backplane Bandwidth · 20Gbps … MAC address · 8k",
+      "url": "https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/",
+      "date": "2026-05-29"
+    },
+    {
+      "kind": "官网",
+      "claim": "管理型 PoE 产品线（含 2.5G bt L3、24 口 L3）",
+      "quote": "AE-PS8082SFT-M 8 Port Gigabit L2 Managed PoE+ Switch … AE250-PS1084SFTM-L3 8 Port 2.5G L3 Managed BT PoE Switch … AE-PS242SFT-M 24 Port Gigabit L2 Managed PoE+ Switch … AE600-24GP4TF-L3 24 Port Gigabit L3 Managed PoE+ Switch",
+      "url": "https://aeconnect.co.in/poe-solutions/managed-poe-switches/",
+      "date": "2026-06-09"
+    },
+    {
+      "kind": "官网",
+      "claim": "工业 AE700-IPS8GE4GF-M 规格",
+      "quote": "AE700-IPS8GE4GF-M is a 12-port Industrial Gigabit Managed Layer 2 PoE+ Switch, featuring 8×10/100/1000Mbps PoE+ ports and 4x1000Mbps SFP slots … Input voltage (DC): 48-56V - Working temperature: -40°C ~ +75°C - Shell: IP40",
+      "url": "https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/",
+      "date": "2025-09-01"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "—",
+      "role": "总机/用户表 WhatsApp",
+      "email": "info@aeconnect.co.in",
+      "phone": "+91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）",
+      "source": "https://aeconnect.co.in/shop/"
+    }
+  ],
+  "notes": "A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "AE Connect India Pvt. Ltd.（CIN U31200GJ2022PTC132573）",
+    "founded": "2005 起（公司 2022 注册）",
+    "hq": "Ahmedabad, Gujarat, India",
+    "staff": "11–50",
+    "revenue": "约 $8.1M",
+    "other": "自有品牌 PoE 全线（非管理/管理/工业/2.5G bt L3）、光纤、Cat6/6A 布线、机柜、工具；「Engineered in India」；2025–2026 产品页持续更新"
+  },
+  "business_lines": [
+    "非管理 PoE（AE-PS8082GU 8 GE PoE+2 GE 120W、AE-PSE8002GU、AEIN-PS24FE2GC 24 FE 250W、AE16PSN2GC）",
+    "管理 PoE（AE-PS8082SFT-M 8 GE PoE+2 SFP 150W L2、AE-PS242SFT-M 24 PoE+4 combo、AE600-24GP4TF-L3、AE250-PS1084SFTM-L3 8×2.5G bt L3）",
+    "工业 PoE（AE700-IPS8GE4GF-M 8 GE PoE + 4 SFP，-40~75℃）"
+  ],
+  "products_seen": [
+    {
+      "brand": "AE Connect",
+      "model": "AE-PS8082SFT-M",
+      "spec": "8×GE PoE+ + 2 SFP，150W，L2（ACL/IP-MAC 绑定/QoS/VLAN），20Gbps",
+      "url": "https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/",
+      "date": "2026-05-29",
+      "saga": "STC-28DGGPM"
+    },
+    {
+      "brand": "AE Connect",
+      "model": "AE-PS242SFT-M",
+      "spec": "24×GE PoE+ + 4 combo，56Gbps，L2 管理",
+      "url": "https://aeconnect.co.in/datasheet/PoE-Solution/Managed-PoE-Switches/AE-PS242SFT-M.pdf",
+      "date": "2026-10-21",
+      "saga": "STC-424DGGPM-280W"
+    },
+    {
+      "brand": "AE Connect",
+      "model": "AE600-24GP4TF-L3 / AE250-PS1084SFTM-L3",
+      "spec": "24 PoE L3 / 8×2.5G bt L3",
+      "url": "https://aeconnect.co.in/poe-solutions/managed-poe-switches/",
+      "date": "2026-06-09",
+      "saga": "STC-424XGGPM-280W（2.5G/10G 需核）"
+    },
+    {
+      "brand": "AE Connect",
+      "model": "AE700-IPS8GE4GF-M",
+      "spec": "工业 8 GE PoE+ + 4 SFP L2，48–56VDC，-40~75℃，IP40",
+      "url": "https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/",
+      "date": "2025-09-01",
+      "saga": "STI-288DGGPM（2 SFP 版）"
+    },
+    {
+      "brand": "AE Connect",
+      "model": "AE-PS8082GU / AE-PSE8002GU / AEIN-PS24FE2GC",
+      "spec": "非管理 8 GE PoE+2 GE 120W / 8 FE PoE+2 GE 120W / 24 FE PoE+2 GE/SFP 250W，6kV 防雷",
+      "url": "https://aeconnect.co.in/24-port-fast-ethernet-unmanaged-poe-switch-aein-ps24fe2gc/",
+      "date": "2025-09-06",
+      "saga": "STC-28DGGPM / STC-424DGGPM-280W（千兆升级）"
+    }
+  ],
+  "channels": {
+    "网站": "https://aeconnect.co.in/（含 datasheet PDF 库）",
+    "直邮": "info@aeconnect.co.in（用户表）",
+    "B2B": "IndiaMART（imimg 目录）"
+  },
+  "signals": [
+    "2025-09～2026-06 连续上新管理型/工业/2.5G bt L3 机型——产品线快速扩张，进口贴牌 + 本地组装（2026-10-21）",
+    "用户表：PoE/FS/MC/SFP，自己的 logo"
+  ],
+  "risks": [
+    "印度 BIS（CRS）认证——交换机类是否强制需客户确认；本地组装趋势（SKD）",
+    "价格极敏感"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档"
+  },
+  "email_hook": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（A/S 邮箱 0 封——用户表「3 次实质回复」渠道不明；Elsa 箱：`to:aeconnect.co.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+      "type": "印度自有品牌（AE Connect，200+ 经销商）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "—",
+      "lane": "IN 非主攻",
+      "cadence": "不主动",
+      "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+    },
+    "situation": "仓库无任何邮件。",
+    "need": "贴牌 8/24 口 PoE。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—",
+      "why": "贴牌 8/24 口 PoE → 8 口 L2+ 先做第二货源",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line. Which of the two footprints would you second-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2024-02-08",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了工业MC系列相关信息」→ 对方「PoE Injector工业级90W」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.2.8"
+      },
+      {
+        "date": "2024-04-17",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了10G MC信息」→ 对方「price」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.4.17"
+      },
+      {
+        "date": "2025-02-26",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「工业16 24口出货图」→ 对方「主要用RTL 有较为成熟的产品了 国内的」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2025.2.26"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }
