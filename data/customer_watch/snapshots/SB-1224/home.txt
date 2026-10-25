@@ -1,4 +1,4 @@
-# SB-1224 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-1224 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Systemy zabezpieczeń i monitoringu CCTV - Sklep internetowy obserwuj.pl
 obserwujpl
 Zapraszamy na nasz kanał
@@ -25,7 +25,7 @@ Rejestratory
 Kamery
 0
 Kamera tuba 6M DAHUA IPC-HFW1639TC-A-IL-0280B-S6
-Cena: 434.93 zł
+Cena: 295.20 zł
 Akcesoria CCTV
 UPS-y
 Dyski twarde
@@ -177,7 +177,7 @@ Cena: 539.00 zł
 Najniższa cena z 30 dni przed obniżką: 329.00 zł
 Do koszyka
 0
--60%
+-73%
 Dahua
 Kamera kopułka 6M DAHUA IPC-HDW1639T-A-IL-0280B-S6
 DH-1914
@@ -187,11 +187,11 @@ Obiektyw 2.8mm
 SMD(Detekcja człowieka)
 Wbudowany mikrofon
 Cena: 1087.32 zł
-434.93 zł
-Najniższa cena z 30 dni przed obniżką: 395.08 zł
+295.20 zł
+Najniższa cena z 30 dni przed obniżką: 434.93 zł
 Do koszyka
 0
--60%
+-73%
 Dahua
 Kamera tuba 6M DAHUA IPC-HFW1639TC-A-IL-0280B-S6
 DH-1967
@@ -201,8 +201,8 @@ Obiektyw 2.8mm
 SMD(Detekcja człowieka)
 Wbudowany mikrofon
 Cena: 1087.32 zł
-434.93 zł
-Najniższa cena z 30 dni przed obniżką: 395.08 zł
+295.20 zł
+Najniższa cena z 30 dni przed obniżką: 434.93 zł
 Do koszyka
 0
 -45%
@@ -217,7 +217,7 @@ Wbudowane funkcja aktywnego odstraszania
 Cena: 539.00 zł
 299.00 zł
 Najniższa cena z 30 dni przed obniżką: 299.00 zł
-Zapytaj o produkt
+Do koszyka
 Nowości
 Wszystkie nowości
 0
@@ -319,7 +319,7 @@ Zapytaj o produkt
 Najciekawsze oferty w kategoriach
 Monitoring CCTV
 0
--60%
+-73%
 Kamera tuba 6M DAHUA IPC-HFW1639TC-A-IL-0280B-S6
 DH-1967
 1/2.7" 6Mpx PS CMOS
@@ -328,8 +328,8 @@ Obiektyw 2.8mm
 SMD(Detekcja człowieka)
 Wbudowany mikrofon
 Cena: 1087.32 zł
-434.93 zł
-Najniższa cena z 30 dni przed obniżką: 395.08 zł
+295.20 zł
+Najniższa cena z 30 dni przed obniżką: 434.93 zł
 Do koszyka
 skonfiguruj
 indywidualne systemy monitoringu i alarmowe

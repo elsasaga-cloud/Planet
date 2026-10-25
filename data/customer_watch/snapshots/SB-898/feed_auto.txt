@@ -1,4 +1,4 @@
-# SB-898 deponet.com.tr · feed_auto · https://deponet.com.tr/feed/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-898 deponet.com.tr · feed_auto · https://deponet.com.tr/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Tue, 26 Mar 2024 19:47:51 +0000	ISIZWE Projesi Güney Afrika için Ücretsiz Wi-Fi	https://deponet.com.tr/isizwe-projesi-guney-afrika-icin-ucretsiz-wi-fi/
 Tue, 26 Mar 2024 19:47:01 +0000	Gelişmiş Şehirler için Wi-Fi ve Atıklar Ayrılmaz Bir Bütündür	https://deponet.com.tr/gelismis-sehirler-icin-wi-fi-ve-atiklar-ayrilmaz-bir-butundur/
 Tue, 26 Mar 2024 19:46:09 +0000	Mükemmel Hızlı Wi-Fi Sistemiyle San Jose’yi Akıllı Bir Şehire Dönüştürmek	https://deponet.com.tr/mukemmel-hizli-wi-fi-sistemiyle-san-joseyi-akilli-bir-sehire-donusturmek/

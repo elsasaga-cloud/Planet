@@ -1,4 +1,4 @@
-# SB-1241 setik.biz · sitemap · https://www.setik.biz/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-1241 setik.biz · sitemap · https://www.setik.biz/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 2025-03-31	https://www.setik.biz/en/407-video-surveillance
 2025-03-31	https://www.setik.biz/fr/407-videosurveillance
 2025-03-31	https://www.setik.biz/it/407-videosorveglianza

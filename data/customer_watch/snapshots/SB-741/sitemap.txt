@@ -1,4 +1,4 @@
-# SB-741 telkotim.com · sitemap · https://www.telkotim.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-741 telkotim.com · sitemap · https://www.telkotim.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 2021-11-11T18:43:29+00:00	https://www.telkotim.com/
 2021-11-11T18:43:29+00:00	https://www.telkotim.com/hakkimizda
 2021-11-11T18:43:29+00:00	https://www.telkotim.com/hcs

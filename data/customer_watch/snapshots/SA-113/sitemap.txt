@@ -1,4 +1,4 @@
-# SA-113 Euro Technology · sitemap · https://www.netontechnologies.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SA-113 Euro Technology · sitemap · https://www.netontechnologies.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 2025-05-01	https://www.netontechnologies.com/
 2025-05-01	https://www.netontechnologies.com/contact-us
 2025-05-01	https://www.netontechnologies.com/about-us
@@ -49,3 +49,5 @@
 2026-09-21	https://www.netontechnologies.com/what-is-ucaas-uae
 2026-09-29	https://www.netontechnologies.com/teams-phone-vs-direct-routing-uae
 2026-10-04	https://www.netontechnologies.com/nas-backup-data-loss-uae
+2026-10-24	https://www.netontechnologies.com/what-is-sip-trunk-uae
+2026-10-24	https://www.netontechnologies.com/what-is-sbc-uae

@@ -1,4 +1,4 @@
-# SA-054 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SA-054 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-10-25T07:41:18Z · HTTP 200
 	https://svn-video.ru/wi-fi-oborudovanie/kabel-utp-4pr-24awg-cat5e-305m
 	https://svn-video.ru/konnektery-razemy/soedinitel-rca-papa--rca-papa-
 	https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612
@@ -138,7 +138,6 @@
 	https://svn-video.ru/zhestkie-diski-dlya-videonabludeniya/hdd-2tb
 	https://svn-video.ru/zhestkie-diski-dlya-videonabludeniya/hdd-4tb
 	https://svn-video.ru/zhestkie-diski-dlya-videonabludeniya/hdd-6tb
-	https://svn-video.ru/index.php?route=product/product&product_id=631
 	https://svn-video.ru/bloki-pitaniya-dlya-videonabludeniya/ivep-1220g
 	https://svn-video.ru/bloki-pitaniya-dlya-videonabludeniya/ivepr-1280am-17
 	https://svn-video.ru/konnektery-razemy/kabel-hdmi-1-5m-1-4v
@@ -230,4 +229,5 @@
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-500bqaf3
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-500sbc3
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-800mbaf3
-	https://svn-video.ru/gotovye-komplekty-vi
+	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-200sba3
+	https://svn-video.ru/gotovye-komplekt

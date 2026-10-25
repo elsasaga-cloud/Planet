@@ -1,4 +1,4 @@
-# SB-210 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-210 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,41 +41,43 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Hikvision AX PRO Bezdrátová dálkově ovládané vysokonapěťové relé
-Ubiquiti UTR-LR, UniFi Travel Router Long Range
-2 178 Kč bez DPH
-2 635 Kč s DPH
-Samsung T7 Micro SDXC 128GB
-825 Kč bez DPH
-999 Kč s DPH
-MEAN WELL XDR-240E-12 Průmyslový zdroj na DIN lištu, 240W, 12V
-1 135 Kč bez DPH
-1 373 Kč s DPH
-Triton optická vana pro 8x ST konektor RAC-FO-X01-C1, 1U, 10", šedá
-195 Kč bez DPH
-236 Kč s DPH
-Hikvision IP dome hybrid kamera DS-2CD2143G2-LIS2U(2.8mm), 4Mpx, 2.8mm, AcuSense
-Ubiquiti UniFi patch kabel, 0,2m, Cat5e, bílý, 50 pack
-2 149 Kč bez DPH
-2 600 Kč s DPH
-Ubiquiti Venkovní singlemode simplex optický patch cord SC APC/SC APC, 5m
-280 Kč bez DPH
-339 Kč s DPH
-MERCUSYS MD210 Video zvonek
-1 324 Kč bez DPH
-1 602 Kč s DPH
-Hikvision AX PRO Vnitřní univerzální držák
-Hikvision IP dome kamera DS-2CD1123G2-LIU(4mm), 2Mpx, 4mm, ColorVu
-MikroTik 1.25/2.5G SFP optický modul HS-55DLC80D, SM, 80km, 1550nm
-605 Kč bez DPH
-732 Kč s DPH
-Teltonika Telematics ATC700, miniaturní tracker s 4G LTE Cat 1
-1 845 Kč bez DPH
-2 232 Kč s DPH
-Hikvision IP dome kamera DS-2CD1127G3-LIU(4mm), 2Mpx, 4mm, ColorVu 3.0
-Ubiquiti UniFi UPS 2U Baterie, 9 Ah
-2 179 Kč bez DPH
-2 636 Kč s DPH
+Triton plně výsuvná police 1U/650mm, 19", nosnost 45kg, šedá
+1 898 Kč bez DPH
+2 297 Kč s DPH
+Triton 19" stojanový rack 18U/800x800 prosklené dveře, šedý
+9 545 Kč bez DPH
+11 549 Kč s DPH
+Hikvision AX PRO Bezdrátový detektor rozbití skla
+Hikvision IP bullet kamera DS-2CD1027G3-LIU(2.8mm), 2Mpx, 2.8mm, ColorVu 3.0
+Hikvision IP turret kamera DS-2CD1323G2-LIU(4mm), 2Mpx, 4mm, ColorVu
+MEAN WELL XDR-150E-12 Průmyslový zdroj na DIN lištu, 132W, 12V
+610 Kč bez DPH
+738 Kč s DPH
+Triton speciální vyvazovací panel pro zavěšení, černý
+120 Kč bez DPH
+145 Kč s DPH
+MikroTik TG-LR92, LoRa senzor teploty, vlkosti a pohybu
+485 Kč bez DPH
+587 Kč s DPH
+Triton 19" stojanový rack 15U/600x900 prosklené dveře, šedý
+8 858 Kč bez DPH
+10 718 Kč s DPH
+Hikvision DS-1253ZJ-L Ochraný kryt pro Dome kamery
+Triton rozvodný panel RAB-PD-X04-A1, 19", 8x 230V (typ F), vypínač, 2m kabel
+815 Kč bez DPH
+987 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,4m, Cat5e, černý, 24 pack
+1 209 Kč bez DPH
+1 463 Kč s DPH
+TP-Link Tapo C250 Domácí bezpečnostní Wi-Fi kamera s naklápěním, 8Mpx
+1 344 Kč bez DPH
+1 626 Kč s DPH
+Triton ochranná kovová mřížka 120x120mm
+41 Kč bez DPH
+49 Kč s DPH
+Teltonika Telematics FMC927, Automobilový GPS tracker s Bluetooth a 4G LTE Cat 1
+1 476 Kč bez DPH
+1 786 Kč s DPH
 Aktuality
 MikroTik Queue Tree: když Simple QoS nestačí
 22.10.2026

@@ -1,4 +1,9 @@
-# SB-497 eso.co.th · youtube · https://www.youtube.com/@ESOTECHOFFICIAL · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-497 eso.co.th · youtube · https://www.youtube.com/@ESOTECHOFFICIAL · fetched 2026-10-25T07:41:18Z · HTTP 200
+2026-10-25T07:43:29+00:00	HMI WECON Tutorial EP19 | Slider Switch เลื่อนปรับค่าความเร็วมอเตอร์และ Setpoint ใน PI Studio	https://www.youtube.com/watch?v=9LKZmNNbp0E
+2026-10-25T06:46:01+00:00	HMI WECON Tutorial EP18 | Numeric Input/Display แสดงค่าจาก PLC และป้อน Setpoint ใน PI Studio	https://www.youtube.com/watch?v=R5lN8aLmasQ
+2026-10-25T06:20:34+00:00	HMI WECON Tutorial EP17 | Combination Switch กดปุ่มเดียว สั่งงานหลาย Action ใน PI Studio	https://www.youtube.com/watch?v=5ZMT-q1TVAM
+2026-10-25T06:07:34+00:00	HMI WECON Tutorial EP16 | เพิ่มหน้า Screen, Copy Screen และรู้จัก System Screen ใน PI Studio	https://www.youtube.com/watch?v=IMR_2V84U6o
+2026-10-25T05:31:02+00:00	PLC WECON Tutorial EP02 | สอน Download, Upload และ Online Monitoring ด้วย PLCEditor	https://www.youtube.com/watch?v=qmcySJmEpio
 2026-10-24T04:58:48+00:00	HMI WECON Tutorial EP15 | สร้าง Animation ใบพัดหมุนด้วย Word Lamp ใน PI Studio	https://www.youtube.com/watch?v=dWkoXU-HhqM
 2026-10-24T04:38:18+00:00	HMI WECON Tutorial EP14 | ใช้ Function Switch เปลี่ยนหน้า และบันทึกข้อมูลลง USB	https://www.youtube.com/watch?v=_zpbTPsUSq0
 2026-10-24T04:14:50+00:00	HMI WECON Tutorial EP13 | สร้าง Word Lamp แสดงสถานะอุปกรณ์หลาย State ใน PI Studio	https://www.youtube.com/watch?v=fQfIVN6KqzE
@@ -9,8 +14,3 @@
 2026-10-21T14:19:57+00:00	🔴 LIVE EP06: V-NET 3.0 EXPLAINED | New Generation V-NET IoT Platform	https://www.youtube.com/watch?v=xdPLNyGkZgs
 2026-10-19T13:22:17+00:00	เปิดตู้ Remote I/O EtherCAT WECON LX6V-EMB-ECAT | Analog Input และ EtherCAT Switch	https://www.youtube.com/watch?v=o5wVAfqMpAU
 2026-10-14T15:18:32+00:00	HMI WECON Tutorial EP09 | วิธี Upload โปรแกรมจากจอ HMI มายัง PC ด้วย PI Studio	https://www.youtube.com/watch?v=dbuLJZxzLVY
-2026-10-09T02:39:36+00:00	🔴 LIVE EP.05 | 6 Protocols Special บน WECON HMI | OPC UA, BACnet/IP, IEC 61850, IEC 104, CODESYS	https://www.youtube.com/watch?v=7LYWVnMVEos
-2026-10-08T18:10:48+00:00	HMI WECON Tutorial EP08 | รู้จัก Internal Address และการประยุกต์ใช้งานใน PI Studio	https://www.youtube.com/watch?v=VacI4trNkG8
-2026-10-05T17:08:17+00:00	HMI WECON Tutorial EP07 | สร้าง Tag List ด้วย Address Library ใน PI Studio ออกแบบ HMI ได้เร็วขึ้น	https://www.youtube.com/watch?v=_jJFAt8sg-4
-2026-09-30T17:28:24+00:00	HMI WECON Tutorial EP06 | PLC Pass-Through รีโมท PLC ผ่าน Serial RS422/485/232 ด้วย V-NET	https://www.youtube.com/watch?v=2dqvu7lQLp8
-2026-09-29T18:10:51+00:00	V-BOX WECON Tutorial EP05 | เพิ่ม Realtime Tags เพื่อมอนิเตอร์ข้อมูล PLC แบบเรียลไทม์	https://www.youtube.com/watch?v=JOZXuLZCJAc

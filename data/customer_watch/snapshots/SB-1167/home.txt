@@ -1,4 +1,4 @@
-# SB-1167 br-network-shop.de · home · https://www.br-network-shop.de/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-1167 br-network-shop.de · home · https://www.br-network-shop.de/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 BR Network Solutions GmbH
 Enable Dark Mode
 Disable Dark Mode
@@ -274,47 +274,11 @@ Kurzübersicht
 Auf Lager
 Neue Produkte
 -0,00 €
-Fujikura® One-Click Cleaner Mini für 2,5mm Ferrulen ST, SC, FC, E2000
-54,90 €
+FIMP-XL-E Gehäuse spleißfertig konfektioniert mit 24 x LC-APC Duplex OS2
+451,73 €
 zzgl. MwSt.
 zzgl. Versand
-Artikel-Nr.: 16-04-0357
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-Jonard MS-6 Bündelader-Anschneidewerkzeug 1.2 -3.3mm
-81,00 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 16-133-0327.2
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-NV-600A VDSL2 Konverter
-203,39 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 77-28-4487
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-SignalTEK QT Pro 10G – mit Gratis-Prämie (Hersteller-Aktion)
-3.279,01 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 58-119-0202-EA26
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-RJ45 Keystone Kupfermodul Cat.6A, mit Staubschutz, kurze Bauform
-3,30 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 24-77-0282.1
+Artikel-Nr.: 18-105-6032
 + zum Warenkorb hinzufügen
 Kurzübersicht
 Auf Lager
@@ -328,12 +292,83 @@ Artikel-Nr.: 58-119-0199-EA26
 Kurzübersicht
 Auf Lager
 -0,00 €
-Indoor Discreet Kabellösung
-Ab
-64,29 €
+AFL FOCIS Flex3 LWL-Mikroskop mit LC UPC Prüfspitzen
+2.528,09 €
 zzgl. MwSt.
 zzgl. Versand
-Artikel-Nr.: 13-35-0569-x
+Artikel-Nr.: 18-129-0144
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Bereits nachbestellt
+-0,00 €
+NV-600A VDSL2 Konverter
+203,39 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 77-28-4487
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+GF-AP BRIO-S-W-ANT spleißfertig mit 4x LC APC DX Kupplung
+37,14 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 35-35-0711-S4
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+RJ45 Keystone Kupfermodul Cat.6A, mit Staubschutz
+2,75 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 24-77-0276.1
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+Loopback Kabel LC APC OS2
+8,03 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 16-09-0156.2
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+iLIA-V2-1U PLC-32 19" Patchpanel ausziehbar mit 1x32 Splitter
+201,43 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 13-35-6010
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+PTO T0 Unterputzdose spleißfertig mit 2x LC APC DX
+24,97 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 13-35-0570.4
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+FiberMASTER S60 – mit Gratis-Prämie (Hersteller-Aktion)
+4.103,70 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 58-119-0207-EA26
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+LanTEK IV-S 3000 MHz – mit Gratis-Prämie (Hersteller-Aktion)
+13.159,09 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 58-119-0201-EA26
 + zum Warenkorb hinzufügen
 Kurzübersicht
 Auf Lager
@@ -348,29 +383,11 @@ Artikel-Nr.: 12-32-0568-x
 Kurzübersicht
 Auf Lager
 -0,00 €
-ECO Patchpanel ausziehbar, 1 HE, 24 LC Quad Kupplungen, 96 Pigtails OS2
-261,37 €
+Jonard MS-6 Bündelader-Anschneidewerkzeug 1.2 -3.3mm
+81,00 €
 zzgl. MwSt.
 zzgl. Versand
-Artikel-Nr.: 13-32-5235-52
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-LWL Universalkabel U-DQ(ZN)BH 12G 50/125 OM4
-2,54 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 12-10-31210
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-Patchpanel 19 Zoll 1HE für 24 Keystone Anschlussmodule
-15,00 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 24-77-0243
+Artikel-Nr.: 16-133-0327.2
 + zum Warenkorb hinzufügen
 Kurzübersicht
 Auf Lager
@@ -384,47 +401,30 @@ Artikel-Nr.: 13-35-6012
 Kurzübersicht
 Auf Lager
 -0,00 €
-AFL FOCIS Flex3 LWL-Mikroskop mit LC UPC Prüfspitzen
-2.528,09 €
+Indoor Discreet Kabellösung
+Ab
+64,29 €
 zzgl. MwSt.
 zzgl. Versand
-Artikel-Nr.: 18-129-0144
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Bereits nachbestellt
--0,00 €
-Loopback Kabel LC APC OS2
-8,03 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 16-09-0156.2
+Artikel-Nr.: 13-35-0569-x
 + zum Warenkorb hinzufügen
 Kurzübersicht
 Auf Lager
 -0,00 €
-Fujikura® One-Click Cleaner PRO für 2.5mm Ferrulen ST, SC, FC, E2000
-41,19 €
+FIMP-M-EX Gehäuse spleißfertig konfektioniert mit 6 x SC-Duplex OS2
+573,72 €
 zzgl. MwSt.
 zzgl. Versand
-Artikel-Nr.: 16-04-0375
+Artikel-Nr.: 18-105-5041-EX
 + zum Warenkorb hinzufügen
 Kurzübersicht
 Auf Lager
 -0,00 €
-LanTEK IV-S 3000 MHz – mit Gratis-Prämie (Hersteller-Aktion)
-13.159,09 €
+Patchpanel 19 Zoll 1HE für 24 Keystone Anschlussmodule
+15,00 €
 zzgl. MwSt.
 zzgl. Versand
-Artikel-Nr.: 58-119-0201-EA26
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-Anschlussdose für 2x Keystone, RAL9010, Schrägauslass
-2,23 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 24-77-0216-2
+Artikel-Nr.: 24-77-0243
 + zum Warenkorb hinzufügen
 Kurzübersicht
 Auf Lager
@@ -438,24 +438,6 @@ Artikel-Nr.: 18-129-0116
 Kurzübersicht
 Auf Lager
 -0,00 €
-LWL Universalkabel U-DQ(ZN)BH 4G 50/125 OM4
-1,26 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 12-10-30410
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-PTO T0 Unterputzdose spleißfertig mit 2x LC APC DX
-24,97 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 13-35-0570.4
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
 Kabeladerprüfgerät KAPG 200
 1.190,00 €
 zzgl. MwSt.
@@ -465,20 +447,56 @@ Artikel-Nr.: 58-09-0082.1
 Kurzübersicht
 Auf Lager
 -0,00 €
-iLIA-V2-1U PLC-32 19" Patchpanel ausziehbar mit 1x32 Splitter
-201,43 €
+Fujikura® One-Click Cleaner Mini für 2,5mm Ferrulen ST, SC, FC, E2000
+54,90 €
 zzgl. MwSt.
 zzgl. Versand
-Artikel-Nr.: 13-35-6010
+Artikel-Nr.: 16-04-0357
 + zum Warenkorb hinzufügen
 Kurzübersicht
 Auf Lager
 -0,00 €
-FIMP-XL-E Gehäuse spleißfertig konfektioniert mit 24 x LC-APC Duplex OS2
-451,73 €
+LWL Universalkabel U-DQ(ZN)BH 12G 50/125 OM4
+2,54 €
 zzgl. MwSt.
 zzgl. Versand
-Artikel-Nr.: 18-105-6032
+Artikel-Nr.: 12-10-31210
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+ECO Patchpanel ausziehbar, 1 HE, 24 LC Quad Kupplungen, 96 Pigtails OS2
+261,37 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 13-32-5235-52
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+Fujikura® One-Click Cleaner PRO für 2.5mm Ferrulen ST, SC, FC, E2000
+41,19 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 16-04-0375
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+RJ45 Keystone Kupfermodul Cat.6A, mit Staubschutz, kurze Bauform
+3,30 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 24-77-0282.1
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+LWL Universalkabel U-DQ(ZN)BH 4G 50/125 OM4
+1,26 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 12-10-30410
 + zum Warenkorb hinzufügen
 Kurzübersicht
 Auf Lager
@@ -493,20 +511,11 @@ Artikel-Nr.: 12-09-30401-5-x
 Kurzübersicht
 Bereits nachbestellt
 -0,00 €
-FiberMASTER S60 – mit Gratis-Prämie (Hersteller-Aktion)
-4.103,70 €
+LWL Universalkabel U-DQ(ZN)BH 12G E9/125 OS2
+1,33 €
 zzgl. MwSt.
 zzgl. Versand
-Artikel-Nr.: 58-119-0207-EA26
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-RJ45 Keystone Kupfermodul Cat.6A, mit Staubschutz
-2,75 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 24-77-0276.1
+Artikel-Nr.: 12-10-51210
 + zum Warenkorb hinzufügen
 Kurzübersicht
 Auf Lager
@@ -520,11 +529,20 @@ Artikel-Nr.: 13-35-0568.4
 Kurzübersicht
 Auf Lager
 -0,00 €
-GF-AP BRIO-S-W-ANT spleißfertig mit 4x LC APC DX Kupplung
-37,14 €
+Anschlussdose für 2x Keystone, RAL9010, Schrägauslass
+2,23 €
 zzgl. MwSt.
 zzgl. Versand
-Artikel-Nr.: 35-35-0711-S4
+Artikel-Nr.: 24-77-0216-2
++ zum Warenkorb hinzufügen
+Kurzübersicht
+Auf Lager
+-0,00 €
+SignalTEK QT Pro 10G – mit Gratis-Prämie (Hersteller-Aktion)
+3.279,01 €
+zzgl. MwSt.
+zzgl. Versand
+Artikel-Nr.: 58-119-0202-EA26
 + zum Warenkorb hinzufügen
 Kurzübersicht
 Auf Lager
@@ -532,22 +550,4 @@ Auf Lager
 NV-600L VDSL2 Konverter
 203,39 €
 zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 77-28-2420
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-FIMP-M-EX Gehäuse spleißfertig konfektioniert mit 6 x SC-Duplex OS2
-573,72 €
-zzgl. MwSt.
-zzgl. Versand
-Artikel-Nr.: 18-105-5041-EX
-+ zum Warenkorb hinzufügen
-Kurzübersicht
-Auf Lager
--0,00 €
-LWL Universalkabel U-DQ(ZN)BH 12G E9/125 OS2
-1,33 €
-zzgl. MwSt.
-zzgl.
+zzgl

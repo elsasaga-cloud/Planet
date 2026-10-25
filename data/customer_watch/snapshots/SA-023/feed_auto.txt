@@ -1,4 +1,4 @@
-# SA-023 impulsecctv.com · feed_auto · https://impulsecctv.com/feed/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SA-023 impulsecctv.com · feed_auto · https://impulsecctv.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Thu, 02 Jul 2026 12:18:30 +0000	The Future is Wireless: How Wi-Fi 7’s Low Latency Benefits Real-Time Surveillance	https://impulsecctv.com/blog/wifi-7-low-latency-real-time-surveillance/
 Tue, 16 Jun 2026 07:18:53 +0000	Common NVR Configuration Mistakes and How to Avoid Them	https://impulsecctv.com/blog/common-nvr-configuration-mistakes-and-how-to-avoid-them/
 Fri, 12 Jun 2026 06:06:43 +0000	Advancing Hospital-Grade Surveillance Infrastructure at GMCH Mahasamund with Intelligent IP Video Solutions by Impulse	https://impulsecctv.com/case-study/gmch-mahasamund-hospital-surveillance-upgrade/

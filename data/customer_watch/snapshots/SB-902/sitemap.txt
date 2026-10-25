@@ -1,4 +1,4 @@
-# SB-902 ethernetdirect-jp.com · sitemap · https://ethernetdirect-jp.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-902 ethernetdirect-jp.com · sitemap · https://ethernetdirect-jp.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 2017-09-04T02:24:42+00:00	http://www.ethernetdirect-tw.com/
 2017-09-04T02:24:42+00:00	http://www.ethernetdirect-tw.com/index.html
 2017-09-04T11:38:20+00:00	http://www.ethernetdirect-tw.com/aboutus.html

@@ -1,4 +1,4 @@
-# SB-832 futurereadysolutions.com · news_1 · https://futurereadysolutions.com/blog · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-832 futurereadysolutions.com · news_1 · https://futurereadysolutions.com/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
 Latest News & Insights - Future Ready Solutions
 SHOP
 New Products
@@ -119,7 +119,7 @@ Aug 27, 2026
 Future Ready Solutions, the industry leader in future-forward connectivity solutions, has formed a strategic partnership with Lowell Manufacturing to serve the custom installation market across the United States. Effective immediately, Future Ready Solutions has been appointed master distributor of Lowell AV racks, cable management, connectivity, power and audio reinforcement products for audiovisual resellers, strategic buying […]
 Read More
 Shielded vs. Unshielded Ethernet Cable: When Does It Matter?
-Category: Networking , Cable , Latest News & Insights
+Category: Latest News & Insights , Cable , Networking
 Aug 07, 2026
 This original Future Ready Solutions article was informed in part by the Kordz technical resource, “Shielded vs Unshielded Network Cable: What Should You Specify and When?”, published June 17, 2026. View the original article in its entirety here. > For many integrators, selecting Ethernet cable starts with a familiar question: Cat6 or Cat6A? Cable grade […]
 Read More

@@ -1,4 +1,4 @@
-# SB-139 barox.de · home · https://www.barox.ch/en-us/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-139 barox.de · home · https://www.barox.ch/en-us/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Switches for Video | barox.ch
 Support
 Contact
@@ -68,15 +68,15 @@ With personal advice and practical training, you can make optimal use of barox s
 NEWS
 Always Well Informed
 Welcome to our news section! Here you will find current news from our industry, news from our range of services and interesting news about our company. This way you are always well informed.
-Products | 21.10.2026
+Products | 22.10.2026
 Greater control and higher system availability thanks to the Geutebrück SNMP Switch Plugin for barox switches
 Geutebrück’s barox SNMP switch integration combines video management and network infrastructure into a coordinated workflow.
 LEARN MORE
-Products | 08.10.2026
+Products | 09.10.2026
 barox and Digital Watchdog Launch New Plugin Integration, bringing Network Intelligence to DW Spectrum
 barox and Digital Watchdog (DW) have announced the launch and availability of a new technology integration connecting DW Spectrum IPVMS with barox video network infrastructure.
 LEARN MORE
-Products | 27.07.2026
+Products | 28.07.2026
 barox PoE switches certified for use with Raytec LED illuminators
 barox has partnered with Raytec to confirm compatibility of its range of PoE Ethernet switch and media converter products to power Raytec’s VARIO2 IPPoE LED illuminator products.
 LEARN MORE

@@ -1,4 +1,4 @@
-# SB-263 dipolnet.cz · sitemap · https://www.dipolnet.cz/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-263 dipolnet.cz · sitemap · https://www.dipolnet.cz/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 2024-03-25T13:57:01Z	https://www.dipolnet.cz/antena_asp-8w_lux_dvb-t-t2_se_zesilovacem_lna-177_a_filtrem_5g_lte_A0024.htm
 2024-03-25T13:57:01Z	https://www.dipolnet.cz/sirokopasmova_tv_antena_asp-8_se_symetrizacnim_clenem_A0028.htm
 2024-03-25T13:57:01Z	https://www.dipolnet.cz/sirokopasmova_tv_antena_asp-8w_se_zesilovacem_lna-169_s_filtrem_lte_5g_A0029.htm

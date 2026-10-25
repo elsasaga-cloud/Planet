@@ -1,4 +1,4 @@
-# SB-392 atel.com.pl · sitemap · https://www.atel.com.pl/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-392 atel.com.pl · sitemap · https://www.atel.com.pl/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 	https://www.atel.com.pl/
 	https://www.atel.com.pl/ofirmie.php
 	https://www.atel.com.pl/partnerzy_handlowi.php
@@ -144,7 +144,7 @@
 2024-12-04	https://www.atel.com.pl/produkt.php?hash=07291
 2024-07-24	https://www.atel.com.pl/produkt.php?hash=08002
 2024-07-24	https://www.atel.com.pl/produkt.php?hash=08000
-2026-01-09	https://www.atel.com.pl/produkt.php?hash=07133
+2026-10-24	https://www.atel.com.pl/produkt.php?hash=07133
 2026-08-01	https://www.atel.com.pl/produkt.php?hash=03581
 2026-08-01	https://www.atel.com.pl/produkt.php?hash=03582
 2026-08-01	https://www.atel.com.pl/produkt.php?hash=03583

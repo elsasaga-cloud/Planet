@@ -1,7 +1,7 @@
-# SB-1179 dowtechnologies.com · sitemap · https://www.dowtechnologies.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
-2026-10-22	https://www.dowtechnologies.com/
-2026-10-22	https://www.dowtechnologies.com/search
-2026-10-22	https://www.dowtechnologies.com/contactus
+# SB-1179 dowtechnologies.com · sitemap · https://www.dowtechnologies.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
+2026-10-24	https://www.dowtechnologies.com/
+2026-10-24	https://www.dowtechnologies.com/search
+2026-10-24	https://www.dowtechnologies.com/contactus
 2026-05-21	https://www.dowtechnologies.com/12volt-closeouts
 2026-08-31	https://www.dowtechnologies.com/12volt
 2026-08-31	https://www.dowtechnologies.com/custom-integration
@@ -44,7 +44,7 @@
 2026-08-03	https://www.dowtechnologies.com/home-theater-systems
 2026-08-17	https://www.dowtechnologies.com/cd-players-turntables
 2026-09-02	https://www.dowtechnologies.com/headphones
-2026-09-25	https://www.dowtechnologies.com/televisions
+2026-10-23	https://www.dowtechnologies.com/televisions
 2026-08-03	https://www.dowtechnologies.com/projectors
 2026-10-05	https://www.dowtechnologies.com/screens
 2026-08-03	https://www.dowtechnologies.com/video-sources

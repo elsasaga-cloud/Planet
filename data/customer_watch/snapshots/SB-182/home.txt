@@ -1,4 +1,4 @@
-# SB-182 jpg.lt · home · https://jpg.lt/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-182 jpg.lt · home · https://jpg.lt/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt
 Vaizdo stebėjimas
 Vaizdo stebėjimo sistemos
@@ -56,7 +56,7 @@ LAN tinklo praplėtėjas 100 Mbps, iki 300/500 m, DC 5-12V
 Skirtas Ethernet tinklo signalui perduoti iki 500m, naudojant CAT5/CAT5e UTP vytos poros kabelį arba iki 300 m naudojant dviejų gyslų (Ph
 Į krepšelį
 Turime sandėlyje
-GPS seklys diMag UNI70-4G
+GPS seklys UNI70-4G
 € 59.29 € 70.18
 IP klasė: IP68
 Išmatavimai: 62 x 54 x 20 mm
@@ -66,7 +66,7 @@ Tinklas: 4G
 Tipas: Profesionalus
 Į krepšelį
 Turime sandėlyje
-GPS seklys diMag DM13-4G
+GPS seklys DM13-4G
 € 59.77 € 63.40
 GNSS juosta: L1
 IP klasė: IP41
@@ -78,13 +78,13 @@ Tipas: Profesionalus
 Į krepšelį
 Turime sandėlyje
 Populiarios prekės
-GPS seklys diMag DM92-4G (vidinė baterija)
-€ 131.89
+GPS seklys DM92-4G (vidinė baterija)
+€ 83.49 € 107.69
 GNSS juosta: L1
 IP klasė: IP54
 Išmatavimai: 79 x 43 x 12 mm
 Maitinimas: Vidinis 170 mAh Back-up , Išorinis 10-30 VDC
-Paskirtis: Motociklams , Automobiliams
+Paskirtis: Automobiliams , Motociklams
 Tinklas: 4G
 Tipas: Profesionalus
 Į krepšelį
@@ -99,7 +99,7 @@ Tinklas: 4G
 Tipas: Profesionalus
 Į krepšelį
 Turime sandėlyje
-GPS seklys diMag DM15-4G su CAN
+GPS seklys DM15-4G su CAN
 € 119.79
 GNSS juosta: L1
 IP klasė: IP41

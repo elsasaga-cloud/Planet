@@ -1,4 +1,4 @@
-# SA-148 technosys.co.in · feed_auto · https://technosys.co.in/feed/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SA-148 technosys.co.in · feed_auto · https://technosys.co.in/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Thu, 19 Jul 2018 19:48:19 +0000	Hello world!	https://technosys.co.in/2018/07/19/hello-world/
 Mon, 07 May 2018 00:16:57 +0000	Strategic and commercial approach with issues	https://technosys.co.in/2018/05/07/strategic-and-commercial-approach-with-issues/
 Mon, 07 May 2018 00:16:15 +0000	Common mistakes when managing finances	https://technosys.co.in/2018/05/07/common-mistakes-when-managing-finances/

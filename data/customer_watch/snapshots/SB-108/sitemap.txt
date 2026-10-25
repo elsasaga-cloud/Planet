@@ -1,4 +1,4 @@
-# SB-108 wisp.pl · sitemap · https://www.wisp.pl/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-108 wisp.pl · sitemap · https://www.wisp.pl/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 	https://www.wisp.pl/i4,dojazd.html
 	https://www.wisp.pl/i14,epidemia.html
 	https://www.wisp.pl/i12,konkurs-mundialowy.html

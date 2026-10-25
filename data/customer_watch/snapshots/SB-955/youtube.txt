@@ -1,4 +1,4 @@
-# SB-955 ssd.ru · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC5mTdDW5pkq3QgBiewbZ9QA · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-955 ssd.ru · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC5mTdDW5pkq3QgBiewbZ9QA · fetched 2026-10-25T07:41:18Z · HTTP 200
 2026-09-09T13:05:15+00:00	Линейка байонетных оптических муфт ССД (МТОК-Н8, МТОК-ЛА9, МТОК-ЛБ11)	https://www.youtube.com/watch?v=db7LQYLiUP0
 2026-03-23T06:37:58+00:00	Новая оптическая муфта МТОК-ЛБ11	https://www.youtube.com/watch?v=M1xjzqTYv4Y
 2025-11-14T08:41:49+00:00	Новая оптическая муфта-кросс МКО-Ц8	https://www.youtube.com/watch?v=rfK1-ETxYqw

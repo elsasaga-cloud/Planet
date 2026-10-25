@@ -1,4 +1,4 @@
-# SA-006 Resonant Networks Pte Ltd（新加坡 Ubi + 马来西亚 Cyberjaya，数据中心/光网络工程） · feed_auto · https://resonantnetworks.com/feed/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SA-006 Resonant Networks Pte Ltd（新加坡 Ubi + 马来西亚 Cyberjaya，数据中心/光网络工程） · feed_auto · https://resonantnetworks.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Fri, 28 Mar 2025 08:41:21 +0000	Homepage Banner Slide 4	https://resonantnetworks.com/homepage-banner-slide-4/
 Fri, 28 Mar 2025 03:38:11 +0000	AAE-1 Subsea Cable system	https://resonantnetworks.com/aae-1-subsea-cable-system/
 Fri, 28 Mar 2025 03:35:00 +0000	ADC Subsea Cable System	https://resonantnetworks.com/adc-subsea-cable-system/

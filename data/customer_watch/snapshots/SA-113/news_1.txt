@@ -1,4 +1,4 @@
-# SA-113 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SA-113 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-10-25T07:41:18Z · HTTP 200
 IT & Telecom Blog Dubai UAE | NetOn Technologies – Insights & Guides
 Home
 About Us
@@ -21,6 +21,14 @@ Testimonials
 Contact
 IT & Telecom Insights for UAE Businesses
 Expert articles on AI telephony, Wildix, Sangoma, WhatsApp integration, cybersecurity and cloud infrastructure — written by the NetOn Technologies team in Dubai.
+Session Border Controller · SIP · UAE
+What a Session Border Controller Does, in Plain Terms
+You have been told you need an SBC, usually by someone selling Teams calling or a SIP trunk. What the device actually does, why a normal firewall cannot do the same job, and when you can do without one.
+Read Article →
+SIP Trunking · Carriers · UAE
+What a SIP Trunk Is, and How You Buy One in the UAE
+Global explainers assume you can sign up for a SIP trunk with a credit card. In the UAE it comes from e& or du, under a licence, against your trade licence. What a trunk is, what it replaces, and the procurement path that actually applies here.
+Read Article →
 Backup · Data Protection · UAE SMB
 Why UAE Small Businesses Lose Data on Old NAS Drives
 A NAS in the office cupboard feels like a backup until the day a drive fails, a volume corrupts or ransomware encrypts it with everything else. The four ways SMBs lose data, what UAE law expects, and the layered strategy that prevents it.

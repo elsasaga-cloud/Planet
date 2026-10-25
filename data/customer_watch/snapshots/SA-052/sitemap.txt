@@ -1,4 +1,4 @@
-# SA-052 td-fe.com · sitemap · https://td-fe.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SA-052 td-fe.com · sitemap · https://td-fe.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 2022-09-04T06:00:01+03:00	https://td-fe.com/
 2022-09-04T06:00:01+03:00	https://td-fe.com/catalog/enclosed/
 2022-09-04T06:00:02+03:00	https://td-fe.com/certificates/

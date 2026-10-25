@@ -1,4 +1,4 @@
-# SB-543 kbcnetworks.com · news_2 · https://kbcnetworks.com/news-events/events · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-543 kbcnetworks.com · news_2 · https://kbcnetworks.com/news-events/events · fetched 2026-10-25T07:41:18Z · HTTP 200
 KBC Networks - EVENTS
 PRODUCTS
 NETWORK SWITCHES
@@ -132,7 +132,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Message
+Website
 ×
 KBC Employee Registration
 Employee Portal Registration
@@ -393,7 +393,7 @@ Yemen
 Zambia
 Zimbabwe
 Submit
-Phone
+Last Name
 ×
 Select Country
 Afghanistan
@@ -645,7 +645,7 @@ Zimbabwe
 Subscribe
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Name
+Email
 ×
 Please complete the information below and someone from the KBC Nexus Team will get in touch with you
 Full Name *
@@ -663,4 +663,4 @@ Plant / Operations Management
 Procurement / Vendor Evaluation
 Other
 Submit
-First Name
+Message

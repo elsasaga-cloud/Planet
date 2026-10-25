@@ -1,4 +1,4 @@
-# SB-541 ipcomm.de · sitemap · https://www.ipcomm.de/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-541 ipcomm.de · sitemap · https://www.ipcomm.de/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 	https://www.ipcomm.de/
 	https://www.ipcomm.de/iso9001_ipcomm2020_de.pdf
 	https://www.ipcomm.de/products_de.html

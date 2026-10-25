@@ -1,4 +1,4 @@
-# SA-060 Securitytec · sitemap · https://www.securitytec.co.uk/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SA-060 Securitytec · sitemap · https://www.securitytec.co.uk/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 	https://www.securitytec.co.uk/
 2022-05-13T21:00:54+00:00	https://www.securitytec.co.uk/our-products.html
 2022-05-01T16:45:39+00:00	https://www.securitytec.co.uk/featured-products.html

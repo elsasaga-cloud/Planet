@@ -1,4 +1,4 @@
-# SB-826 eu.com · sitemap · https://eu.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-826 eu.com · sitemap · https://eu.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 	https://eu.com/
 	https://eu.com/whois
 	https://eu.com/privacy-policy

@@ -1,4 +1,4 @@
-# SB-1220 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-1220 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Mondo Plast - Cabluri si echipamente pentru telecomunicatii
 Cariere
 Produse
@@ -44,54 +44,13 @@ Producatori
 Galerie foto
 Diplome si premii
 Curs valutar
-24-Oct-2026
+25-Oct-2026
 1 EURO = 5.3495 RON
 1 USD = 4.7770 RON
 Mondo Plast
 fibra optica switch router poe gigabit router wireless switch gigabit sfp ap stabilizator de tensiune ceiling tavan cablu utp z-wave switch cu management industrial cabinet 19" 10g statie radio cb
 ANPC
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-HUB USB 3.0, carcasa Aluminiu, 4 porturi Type A fem ( 1 x USB 3.0 5Gbsp, 3 x USB 2.0), blister, USB4AHUB
-na - USB4A HUB A-809
-18.72 LEI
-pret fara TVA
-cuTVA: 22.66 LEI
-Type C to USB2.0 -cablu calitate, USB 3.1 high speed 10GBps certified, 5A fast charge, material DPE 10X stronger, 1.2m
-Stonet - C3-TypeC SuperSpeed+
-26.79 LEI
-fara TVA
-18.72 LEI
-pret fara TVA
-cuTVA: 22.66 LEI
-Cablu 3RCA (tata) la 3 RCA (tata) audio/video, 1.8m
-Braun Group - E04363
-4.96 LEI
-fara TVA
-2.17 LEI
-pret fara TVA
-cuTVA: 2.63 LEI
-Mini PC Optiplex 3050 MICRO, Intel Core i5-7500T, 16GB RAM, 256GB SSD
-Dell - Optiplex 3050 I5-7500T
-1,176.89 LEI
-pret fara TVA
-cuTVA: 1,424.04 LEI
-Cable USB 3.0 type c male to USB C,0.5m
-Braun Group - USB3-1A-05M
-0.80 LEI
-pret fara TVA
-cuTVA: 0.97 LEI
-Jack Power USB cable,type A male to standard Jack 5.5/2.5 mm,1A,1m
-Braun Group - POWER-TA-1A 1m
-2.19 LEI
-pret fara TVA
-cuTVA: 2.65 LEI
-Cablu USB - Micro USB v.2.0, 2m
-Braun Group - E04349
-5.90 LEI
-fara TVA
-2.48 LEI
-pret fara TVA
-cuTVA: 3.00 LEI
 LED Flood Light
 Braun Group - GT-LED-FL-003-50W-WW
 144.00 LEI
@@ -195,8 +154,47 @@ Braun Group - HS-PONPM
 433.31 LEI
 pret fara TVA
 cuTVA: 524.30 LEI
+Optical Multimeter 2 in 1 Noyafa NF909, 850, 1300, 1310, 1490, 1550, 1625nm
+Braun Group - NF-909
+583.38 LEI
+fara TVA
+446.47 LEI
+pret fara TVA
+cuTVA: 540.23 LEI
+Media Convertor Gigabit, 10/100/1000 Mbps SFP to RJ45
+Cudy - MC220
+69.54 LEI
+pret fara TVA
+cuTVA: 84.15 LEI
+Set Media Convertor Stonet, 1-port 10/100 Mbps RJ45,20 KM, 1000 Mbps Single-mode
+Stonet - NFC-20A/NFC-20B
+123.84 LEI
+pret fara TVA
+cuTVA: 149.85 LEI
+Set Media Convertor Stonet, 1-port 10/100/1000 Mbps RJ45,Gigabit,3 KM, 1000 Mbps Single-mode
+Stonet - NFG-03A/NFG-03B
+140.21 LEI
+pret fara TVA
+cuTVA: 169.65 LEI
+Media Convertor Gigabit WDM, 1-port 10/100/1000M + 1-port 1000FX (Tx1310nm),10km
+Braun Group - GTR10WA
+69.54 LEI
+pret fara TVA
+cuTVA: 84.15 LEI
+10GSFP Media Convertor 10G slot SFP; port RJ45 10G/5G/2.5G, 12Volt sursa
+Braun Group - 10GTR-SFP+
+187.23 LEI
+fara TVA
+149.79 LEI
+pret fara TVA
+cuTVA: 181.24 LEI
+MGTRA-20km WDM, Minicase Gigabit Media Convertor 20km SC, Tx1310nm/Rx1550nm, 12V... 5V,
+Braun Group - MGTR-20A
+64.19 LEI
+pret fara TVA
+cuTVA: 77.67 LEI
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-Pagina generata in : 0.127 s
+Pagina generata in : 0.118 s
 ©2004 - 2026 mondo plast srl (cod fiscal RO-12755240 / Reg. Com. J 11/53/2000) . Toate drepturile rezervate. Termeni si conditii .
 Pentru orice problema referitoare la acest site contactati webmaster
 Utilizăm cookie-uri pentru a îmbunătăți experiența site-ului și pentru a analiza traficul și publicul pe site. Continuând să navigați pe site-ul nostru, sunteți de acord cu acceptarea utilizării cookie-urilor în conformitate cu Politica de utilizare a cookie-urilor, de acord cu Politica de prelucrare a datelor personale și ați notat Notă de procesare a informațiilor personale. Accept

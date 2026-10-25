@@ -1,4 +1,4 @@
-# SB-627 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-627 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Vzhledem k plánované inventuře, budou objednávky vytvořené během pátku 23.10. a víkendu zpracovány až v pondělí 26.10.2026
@@ -28,73 +28,73 @@ Kontakty
 Přihlásit se
 Vyberte si pobočku
 Brno - Kšírova (centrála)
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 23.10. od 11 hod. ZAVŘENO
 Brno - Řečkovice
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Blansko
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Bystřice nad Pernštejnem
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Čáslav
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Česká Třebová
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Hradec Králové
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Hustopeče
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Chotěboř
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Jevíčko
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Kladno
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Kroměříž
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 23.10. od 11 hod. ZAVŘENO
 Liberec
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Pardubice
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Praha 13 - Stodůlky
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Praha 4 - Spořilov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Praha 9 - Horní Počernice
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Prostějov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Rychnov nad Kněžnou
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Sokolov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Svitavy
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Šenov u Nového Jičína
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Tišnov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Trutnov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Třebíč
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Uherské Hradiště
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Uherské Hradiště - Jaktáře
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Velké Meziříčí
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Vysoké Mýto
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Zábřeh
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Zastávka u Brna
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Zlín
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Žďár nad Sázavou
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Mapa poboček
 Hledat
 Zapnout/vypnout vyhledávací panel
@@ -561,4 +561,10 @@ Kabelová oka
 Kabelové spojky
 Izolační pásky
 Další kategorie
-Kabelové vidlic
+Kabelové vidlice
+Ochranné oplety
+Sady koncovek a konektorů
+Cupalové podložky a plechy
+Teplem smrštitelné trubice
+Izolační trubičky
+Kabelové dutinky

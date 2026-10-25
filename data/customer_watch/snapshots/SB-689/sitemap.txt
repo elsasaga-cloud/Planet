@@ -1,4 +1,4 @@
-# SB-689 biges.com · sitemap · https://biges.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-689 biges.com · sitemap · https://biges.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 	https://biges.com/urunler/VG-5032SW-PTZ
 	https://biges.com/urunler/IPC3634SE-ADF28K-WL-I0
 	https://biges.com/urunler/INT-TCP-IP-V2

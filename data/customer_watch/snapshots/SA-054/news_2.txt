@@ -1,4 +1,4 @@
-# SA-054 svn-video.ru · news_2 · https://svn-video.ru/shopblog/news · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SA-054 svn-video.ru · news_2 · https://svn-video.ru/shopblog/news · fetched 2026-10-25T07:41:18Z · HTTP 200
 Новости
 Меню
 0 ₽
@@ -142,7 +142,7 @@ RJ-45
 Инструкции 7
 Новости 8
 Статьи 93
-510
+512
 0
 1 Сентября, 2019
 Наш YOUTUBE канал
@@ -166,7 +166,7 @@ FreeIP Pro
 0
 Регистраторы на 32 AHD и 64 IP камеры
 17 Марта, 2017
-362
+363
 0
 Бесплатная доставка в 2017 году
 9 Января, 2017

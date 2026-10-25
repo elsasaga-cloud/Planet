@@ -1,4 +1,4 @@
-# SB-204 TECside BV · sitemap · https://tecside.be/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-204 TECside BV · sitemap · https://tecside.be/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 2026-08-25T12:22:29.594Z	https://tecside.be/fr-be
 2026-08-25T12:22:29.594Z	https://tecside.be
 2026-02-09T13:19:00.852Z	https://tecside.be/fr-be/over-ons

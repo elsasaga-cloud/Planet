@@ -1,116 +1,51 @@
-# SB-430 comtech.net.pk · news_1 · https://comtech.net.pk/events/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-430 comtech.net.pk · news_1 · https://comtech.net.pk/events/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Events - COMTECH ASSOCIATES
-About Event
-Why Comtech
-Find Us
-Leadership
-Solutions
-Awards
-About Event
-Why Comtech
-Find Us
-Leadership
-Solutions
-Awards
-Visitor Registration
-Meet Comtech Associates x Cisco
-at ITCN Asia 2026
-See Comtech’s networking, cybersecurity, data center, and IT infrastructure solutions live
-at the 28th ITCN Asia, September 22–24, at Expo Centre Karachi.
-Visitor Registration
-Why comtech
-Why Visit Comtech
-at ITCN Asia
-Comtech Associates is Pakistan’s Enterprise Networking, Cybersecurity & IT Infrastructure Partner, 10+ years in operation, 250+ projects delivered, and offices in Karachi, Islamabad, Lahore, and Quetta.
-At ITCN Asia 2026, we’re bringing that track record to the show floor: live demos of the networking, cybersecurity, and data center solutions we build for banks, telecoms, hospitals, and government bodies across Pakistan. Stop by Booths D-119 to D124 and D133 to 138 to see it firsthand and talk to our engineers directly.
-Find us
-Where to Find Us at the Event
-leadership
-Meet the Comtech Team
-Muhammad Farooq Zaheer
-CEO
-Abdul Rehman Zaheer
-Director
-Rehan Shaikh
-Director Sales
-Muhammad Irfan Ghauri
-Head of Solutions at
-Comtech Associate
-Jibran Rufi
-CIO/Head of IT
-leadership
-Meet the Cisco Team
-Kashif Ul Haque
-Country General Manager at Cisco Systems
-Arsalan Zahid
-Systems Architect at Cisco Systems
-Ahsan Akhtar Khan
-Partner Account Manager at Cisco Systems
-Osama Zakaria Elshantaf
-Director & General Managerat Cisco Systems
-Abdul Rafay Essani
-Account Manager at Cisco Systems
-our solutions
-Solutions Built for Enterprise
-From networking to custom software, here’s what Comtech builds, secures, and manages for businesses across Pakistan.
-View all solutions
-Cybersecurity
-Round-the-clock managed security and a 24/7 SOC, built to stop threats before they become headlines.
-view more
-Networking & IT Infrastructure
-Enterprise-grade network infrastructure and vendor-backed deployments that scale with your business.
-view more
+Cisco Partner Summit 2026 | Vancouver, Canada
+The CEO of Comtech Associates is Heading to Vancouver
+Farooq Zaheer joins Cisco’s global partner community from 26 to 28 October.
+Let’s talk networking, security, and what comes next.
+26 to 28 October 2026 Vancouver Convention Centre
+Learn
+More
+Services
+CyberSecurity
+Networking
 Data Center
-Data center design, migration, and hybrid cloud connectivity, built around uptime.
-view more
-IT Services & Managed IT
-Custom software development and IT staff augmentation — so your team never runs short.
-view more
-What We’re Showcasing at ITCN Asia 2026
-Live demos of the Cisco-powered networking, security, and collaboration technology Comtech deploys for enterprises across Pakistan, stop by our booths to see it in action.
-View all solutions
-Switch
-Cisco Catalyst 1200/1300 and 1300X series managed switches for SMB and branch deployments, alongside Catalyst 9200L and 9300 series switches, Cisco’s enterprise-class stackable access-layer platform used for campus and data center networking.
-Firewall
-Cisco Firepower 1010 Next-Generation Firewall (FPR1010-NGFW-K9), a compact, fanless NGFW built for small offices and branch locations, delivering malware protection, intrusion prevention, and daily threat updates from Cisco Talos.
-Network Router
-Cisco Catalyst 8300 and 8200L series Edge Platforms, purpose-built for SD-WAN, security, and multicloud connectivity at the branch, the same routing platform behind Comtech’s SD-WAN deployments.
-Cisco Wireless (Access Points)
-The latest Cisco Wireless 9172I, 9176I, and 9178I Wi-Fi 7 access points, alongside the Catalyst 9130AX Wi-Fi 6 AP, built for the coverage, density, and low latency modern campuses and hospitals need.
-Cisco DESK
-Webex Desk Mini, Desk Pro, and Board Pro devices, Cisco’s all-in-one collaboration hardware for hybrid meetings, whiteboarding, and huddle spaces, run on Cisco’s RoomOS platform.
-Server
-Cisco UCS C220 M7 rack server, a 1RU, 2-socket general-purpose server built on 5th Gen Intel Xeon processors, supporting virtualization, AI/ML, and data-intensive workloads.
-IP Phones
-Cisco IP Phone 8941, 8865, and 7841, enterprise VoIP endpoints ranging from HD video-capable executive phones to cost-effective desk phones for general staff.
-Meraki
-Meraki MX68 and MX95 cloud-managed SD-WAN security appliances, alongside the MS130 cloud-managed switch, Cisco’s fully cloud-native networking and security platform, deployable and monitored remotely with zero on-site configuration.
-awards
-Why Choose Comtech
-Years in Operation
-0
-+
-Projects Delivered
-0
-+
-Cities Nationwide
-0
-+
-Technology Partners
-0
-+
-2024
-Cisco Partner Award
-2025
-Cisco Individual Excellence Award
-2025
-Cisco Partner Award
-30+
-Vendor Awards Total
+IT & Managed Services
+Custom Software Development
+Partners
+Cisco
+Huawei
+Ubiquiti
+DLink
+TP-Link
+H3C
+Fortinet
+Kaspersky
+Sangfor
+HPE
+Broadcom
+Dell
+Avaya
+Polycom
+Grandstream
+About Us
+Contact Us
+Resources
+Leadership
+Events
+Blogs
+Events
+Cisco Partner Summit 2026
+From Pakistan to Vancouver: Comtech’s CEO joins Cisco’s global partner community to talk…
+Explore More
+ITCN Asia 2026
+See Comtech’s networking, cybersecurity, data center, and IT infrastructure solutions live at the 28th ITCN Asia
+Explore More
+Ready to Solve Your IT Challenge?
+Whether it’s one service or all four, a conversation with Comtech’s team is the place to start. Tell us what you’re dealing with, a security gap, an unreliable network, a data center migration, or a staffing shortfall, and we’ll walk you through how Comtech would approach it, with no obligation to move forward. Most conversations start with a short assessment of your current environment before anything gets proposed.
+Request an IT Assessment
 Comtech Associates is a certified Cisco partner providing networking, cybersecurity, data center, and managed IT solutions across Pakistan.
-Facebook-f
-Instagram
-Linkedin
 Services
 CyberSecurity
 Networking & IT infrastructure
@@ -126,13 +61,6 @@ Contact
 info@comtech.com
 +92 213 4404440
 The Hive 3rd Floor, NASTP Faisal Cantonment Main shahrah e faisal, Karachi.
-© 2026 Comtech AI. All rights reserved
+© 2026 COMTECH ASSOCIATES. All rights reserved
 Privacy Preference Center
 Privacy Preferences
-Register as a Visitor
-Join Comtech Associates and Cisco at ITCN Asia 2026 and explore enterprise networking, cybersecurity, data center, and IT infrastructure solutions through live demonstrations.
-First Name
-Last Name
-Company Email
-Phone Number
-Submit

@@ -1,4 +1,4 @@
-# SB-010 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-010 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Spacetronik.pl - Official Brand Store | Electronics & Technology.
 Ergoline Smartline
 Log in
@@ -43,7 +43,7 @@ Sweden
 Węgry
 Ergoline Smartline
 Apply changes
-Zaraz będzie ciemno
+It Will Be Dark Soon
 Audio and Video Satellite TV Terrestrial antennas
 Coaxial Cables
 Connectors and Adapters
@@ -85,7 +85,7 @@ HDMI Grabbers
 Audio Extractors
 Audio Signal Converters
 Multimedia and Peripherals Monitors
-Monitory przenośne
+Portable Monitors
 Projection screens
 Magnetic Boards
 Projection Sets

@@ -1,4 +1,4 @@
-# SB-692 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-692 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-10-25T07:41:18Z · HTTP 200
 Fri, 23 Oct 2026 08:00:00 +0000	TachoSync: la nueva solución de Teltonika para la gestión remota de datos del tacógrafo	https://www.davantel.com/tachosync-la-nueva-solucion-de-teltonika-para-la-gestion-remota-de-datos-del-tacografo
 Wed, 21 Oct 2026 08:00:00 +0000	Data to sender status y más actualizaciones de firmware en RutOS 7.25	https://www.davantel.com/data-to-sender-status-y-mas-actualizaciones-de-firmware-en-rutos-7-25
 Mon, 19 Oct 2026 08:00:00 +0000	Guía para la puesta en marcha de localizadores Teltonika	https://www.davantel.com/guia-para-la-puesta-en-marcha-de-localizadores-teltonika

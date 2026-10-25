@@ -1,4 +1,4 @@
-# SB-499 fibreoptic.com.au · sitemap · https://www.fibreoptic.com.au/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-499 fibreoptic.com.au · sitemap · https://www.fibreoptic.com.au/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 2026-08-25	https://www.fibreoptic.com.au/fos-insights/fibre-optics-the-essential-backbone-of-australias-smart-cities
 2026-05-21	https://www.fibreoptic.com.au/products
 2026-09-30	https://www.fibreoptic.com.au/fos-insights

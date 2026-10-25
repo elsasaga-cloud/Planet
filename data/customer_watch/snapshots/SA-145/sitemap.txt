@@ -1,4 +1,4 @@
-# SA-145 neowine · sitemap · https://neowine.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SA-145 neowine · sitemap · https://neowine.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
 2026-09-18	https://neowine.com/
 2026-09-18	https://neowine.com/en/
 2025-05-23	https://neowine.com/theme/a03/ko/AI.php

@@ -1,4 +1,4 @@
-# SB-684 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-684 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş · TR EN
@@ -60,9 +60,9 @@ Stokta
 Yeni Geldi Pny Pny Spark Dgxspark-Founedit-EU GB10 Blackwell GPU 128GB DDR5 NVIDIA Dgx OS Yapay Zeka Bilgisayar
 Stokta · Yeni eklendi
 Ürünü İncele
-Öne Çıkan Marka Intel
-559 ürün
-Intel Ürünleri
+Öne Çıkan Marka AMD
+379 ürün
+AMD Ürünleri
 Son Haber Dell Pro Precision 9 T2: Xeon 6 ve DDR5-6400 testte
 23 Ekim 2026
 Haberi Oku
@@ -81,7 +81,7 @@ Tüm Kategoriler
 Bilgisayar Parçaları
 893 ürün
 Güvenlik Ürünleri
-903 ürün
+889 ürün
 Ağ Ürünleri
 746 ürün
 Baskı Çözümleri
@@ -107,8 +107,8 @@ Hikvision
 Hikvision DS-2XS2T41G1-ID/4G/C05S07 4MP 4MM Lens 30 Metre IR Çift Yönlü Konuşma IP67 4G Solar Kamera
 Xprinter
 Xprinter XP-470B 203DPI Direkt Termal USB Barkod Yazıcı (Ribonsuz Kullanim)
-Seagate
-1 TB Seagate 3.5 SkyHawk SATA 5400RPM 256MB 7/24 Guvenlik ST1000VX013 (3 Yıl Resmi Dist Garantili)
+Msi
+MSI Pro H610M-E DDR4 3200MHZ 1XVGA 1XHDMI 1XM.2 USB 3.2 Matx 1700P (12. / 13. ve 14. Nesil İşlemci Uyumlu)
 2021 – 2026 Ödülleri
 Markalar Büyümeyi Ödüllendiriyor
 2021 'den bu yana 12 markadan 28 ödül. Tedarik gücümüzün üçüncü taraf onayı.

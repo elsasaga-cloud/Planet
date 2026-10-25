@@ -1,4 +1,4 @@
-# SB-089 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-089 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -179,7 +179,7 @@ We all know the rise in copper prices has made it difficult for SME to compete w
 Read More
 TIGHT-BUFFERED CABLE VS LOOSE TUBE GEL FILLED
 / October 4, 2021
-Views: 3,235
+Views: 3,236
 Tight-buffered cable was considered best for indoor applications whilst loose-tube cable was best for outdoor applications. Many places avoiding using them as alternatives due to their material features. Despite this,
 Read More
 AWG CONVERSION GUIDE
@@ -214,7 +214,7 @@ When attenuation is used by networking professionals it refers to loss of signal
 Read More
 WI-FI VS ETHERNET – WHICH IS FASTER?
 / August 9, 2021
-Views: 375
+Views: 376
 As technology develops we are seeing a rise in wireless connectivity. Most cities are now adapting free Wi-Fi hotspots helping both local as well as international visitors stay connected. Our
 Read More
 RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?

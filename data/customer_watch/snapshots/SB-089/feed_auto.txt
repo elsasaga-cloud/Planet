@@ -1,4 +1,4 @@
-# SB-089 linx-com.com · feed_auto · https://www.linx-com.com/feed/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-089 linx-com.com · feed_auto · https://www.linx-com.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Sun, 03 Oct 2021 23:00:11 +0000	TIGHT-BUFFERED CABLE VS LOOSE TUBE GEL FILLED	https://www.linx-com.com/tight-buffered-cable-vs-loose-tube-gel-filled/
 Sun, 19 Sep 2021 23:00:49 +0000	AWG CONVERSION GUIDE	https://www.linx-com.com/awg-conversion-guide/
 Sun, 12 Sep 2021 23:00:41 +0000	HOW ARE TWISTED PAIR CABLES TERMINATED?	https://www.linx-com.com/how-are-twisted-pair-cables-terminated/

@@ -1,4 +1,4 @@
-# SB-820 dnaelektro.cz · home · https://www.dnaelektro.cz/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-820 dnaelektro.cz · home · https://www.dnaelektro.cz/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 Úvodní stránka | DNA Elektro
 Dostupnost zboží
 Doprava
@@ -119,5 +119,67 @@ www.escape4x4.de
 www.escape4x4.at
 www.escape4x4.eu
 ebay
-© 2015 - 2026, DNA Elektro
+© 2015 - 2026, DNA Elektro Nastavení cookies
 Vyrobilo
+× Tyto webové stránky používají soubory cookie.
+Používáme je pro správné fungování webu, k měření návštěvnosti a k marketingu. Můžete přijmout vše, odmítnout volitelné, nebo si vybrat jednotlivé kategorie. Více informací
+Nezbytně nutné Analytické Marketingové
+Odmítnout vše Přijmout vše
+Nastavení cookies
+× Tyto webové stránky používají soubory cookie.
+Používáme je pro správné fungování webu, k měření návštěvnosti a k marketingu. Můžete přijmout vše, odmítnout volitelné, nebo si vybrat jednotlivé kategorie. Více informací
+Nezbytně nutné Umožňují základní funkce webu, jako je košík, přihlášení a zabezpečení. Bez nich web nemůže správně fungovat.
+Zobrazit soubory cookie
+Název
+Poskytovatel
+Platnost
+Popis
+www.dnaelektro.cz
+Do zavření prohlížeče
+Identifikátor relace. Během procházení webu udržuje přihlášení a nastavení (jazyk, země, měna). Uchovává také údaje rozepsané v objednávce.
+uid
+www.dnaelektro.cz
+1 rok
+Identifikátor návštěvníka. Ukládá váš souhlas s cookies a uchovává vaše volby a stav mezi návštěvami. Uchovává také košík nepřihlášeného zákazníka mezi návštěvami.
+ticket
+www.dnaelektro.cz
+14 dní
+Udržuje přihlášení na zapamatovaném zařízení (volba „zapamatovat si mě“) po dobu 14 dní. Maže se při odhlášení.
+Analytické Pomáhají nám pochopit, jak návštěvníci web používají (návštěvy, stránky, zdroje). Data jsou souhrnná a neidentifikují konkrétního návštěvníka.
+Zobrazit soubory cookie
+Název
+Poskytovatel
+Platnost
+Popis
+_ga
+Google LLC
+.dnaelektro.cz
+1 rok 1 měsíc
+Google Analytics: rozlišuje návštěvníky pro statistiky návštěvnosti.
+_ga_8KP1N7K0WT
+Google LLC
+.dnaelektro.cz
+1 rok 1 měsíc
+Google Analytics: uchovává stav aktuální relace.
+Marketingové Používají je reklamní platformy k měření účinnosti reklamy a k zobrazování relevantních reklam na jiných webech.
+Zobrazit soubory cookie
+Název
+Poskytovatel
+Platnost
+Popis
+_gcl_au
+Google LLC
+.dnaelektro.cz
+3 měsíce
+Google Ads: měří konverze z prokliků reklamy.
+_gcl_ls
+Google LLC
+www.dnaelektro.cz
+3 měsíce
+Google Ads: uchovává informaci o reklamním prokliku, ze kterého jste na web přišli (úložiště prohlížeče).
+IDE
+Google LLC
+.doubleclick.net
+1 rok
+Google Ads (DoubleClick): měří účinnost reklamy a omezuje opakované zobrazení stejné reklamy.
+Odmítnout vše Přijmout vše

@@ -1,4 +1,4 @@
-# SB-751 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-751 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,6 +429,30 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
+LRI-CON-7562 Módulo Conversor Isolado USB para RS-232/RS-422/RS-485/TTL
+R$ 499,00
+R$
+484 , 03
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Switch Ethernet Industrial Gerenciável 16 Portas Gigabit Rj45 + 4 Portas SFP - LRI-SW-16G4S1C
+R$ 3.168,00
+R$
+3.072 , 96
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Switch Ethernet Industrial Gerenciável 8 Portas Gigabit Rj45 + 2 Portas SFP - LRI-SWI-8G2S1C
+R$ 1.458,00
+R$
+1.414 , 26
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 Switch Ethernet não Gerenciável 5 Portas Gigabit com PoE, Trilho DIN LRI-SW-5P
 R$ 549,00
 R$
@@ -437,37 +461,7 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-LRI-SW-8G2SWM - Switch Ethernet Industrial Web Gerenciável 8 Portas Gigabit + 2 Portas SFP
-R$ 958,20
-R$
-929 , 45
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
--50%
-Fonte de Alimentação Chaveada Industrial para Trilho DIN 24W, 12V - LRI-PS2412
-R$ 165,00
-R$ 82,50
-R$
-80 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Switch Ethernet Industrial Gerenciável 16 Portas Gigabit Rj45 + 8 Portas SFP - LRI-SW-16G8S1C
-R$ 3.540,00
-R$
-3.433 , 80
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
 Lançamentos
-1-Wire Sensor de Temperatura e Umidade TSM400-1-TH
-Sob consulta
-Saiba mais
-Pedir cotação
 LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
 R$ 499,00
 R$
@@ -476,11 +470,19 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Sensor Digital de Temperatura TST103
+Ethernet Módulo IO Digital TCW181B-CM
+R$ 1.543,64
+R$
+1.497 , 33
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+1-Wire Sensor de Corrente Isolado TSC201
 Sob consulta
 Saiba mais
 Pedir cotação
-Módulo IO Universal 4G LTE TCG140-4
+1-Wire Sensor de Temperatura e Umidade TSM400-1-TH
 Sob consulta
 Saiba mais
 Pedir cotação
@@ -546,5 +548,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 1.361 secs - 24-10-2026  - node: commerce-web1-bot-lw - store
+Load time: 1.422 secs - 25-10-2026  - node: commerce-web2-bot-lw - store
 ×
