@@ -103,7 +103,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → dponjavic@gmail.com（Dušan Ponjavić）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`；整机 bypass 为 SmartByte LT-IS6312GP-4GX8GT-FBP（无 Saga 型号，信稿只描述不写型号））",
    "one_question": "Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -119,7 +119,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "After the bypass module - switches for the fibre and security networks you build",
+   "body": "Hi Dušan,\n\nThank you for the bypass-module order through Alibaba. For the fibre and security networks you build, the switches on the same line, DIN-rail, -40 to 75 C, CE/RoHS, from single units: 8 x Gigabit + 2 x SFP unmanaged - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP L2 managed, Marvell-based - STI-288GPM - $82.2; and an industrial 8 x Gigabit PoE+ + 4 x SFP L2+ switch with built-in optical bypass for ring links - $194.3.\n\nOne question: which configuration does your next project need - and is the bypass needed on the switch itself, or as a separate module as before?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

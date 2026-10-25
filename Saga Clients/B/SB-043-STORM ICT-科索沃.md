@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $137.5 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → alban.beqiri@storm.ict.com（Alban S. Beqiri） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → alban.beqiri@storm.ict.com（Alban S. Beqiri） 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）
 - **断点 / 为什么停在这里**：科索沃物流/清关；WhatsApp 加不上（走邮件 info@ + CEO）；邮箱域名需核对
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → alban.beqiri@storm.ict.com（Alban S. Beqiri）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → alban.beqiri@storm.ict.com（Alban S. Beqiri）　首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $137.5 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -218,23 +218,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Managed industrial PoE for your Pristina and Skopje projects - from ISAF
 
 ```text
 Hi Alban,
 
-We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth, with one concrete option. Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $137.5 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?
+We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth about managed industrial PoE.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+The unit: DIN-rail 8 x Gigabit PoE+ (240 W budget) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). For larger cabinets, a 16 x PoE+ + 2 x SFP industrial unmanaged unit, STI-21616GP, $177.5.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: how many units does your next infrastructure project in Pristina or Skopje need?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

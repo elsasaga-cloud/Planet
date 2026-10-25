@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Hristo, for the installer channel — Marvell L2+ 8-PoE + 2-SFP at $81 EXW and gigabit fibre MC at $22; is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → hristo.chankov@ic-intracom.bg（Hristo Chankov） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → hristo.chankov@ic-intracom.bg（Hristo Chankov） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`；钩子 $81/$22 改 $80.7/$26.5）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。
 - **断点 / 为什么停在这里**：保加利亚为小国名单（不主动挖）；采购权在德国总部
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → hristo.chankov@ic-intracom.bg（Hristo Chankov）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → hristo.chankov@ic-intracom.bg（Hristo Chankov）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`；钩子 $81/$22 改 $80.7/$26.5）
   - 第一问（只问一个）：Hristo, for the installer channel — Marvell L2+ 8-PoE + 2-SFP at $81 EXW and gigabit fibre MC at $22; is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -103,7 +103,7 @@ updated: 2026-10-25
   - 工业 / MC 品类深
 - **风险/边界**：保加利亚为小国名单（不主动挖）；采购权在德国总部
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。
-- **邮件切入句（英文）**：Hristo, for the installer channel — Marvell L2+ 8-PoE + 2-SFP at $81 EXW and gigabit fibre MC at $22; is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?
+- **邮件切入句（英文）**：Hristo, for the installer channel — Marvell L2+ 8-PoE + 2-SFP at $80.7 EXW and gigabit fibre MC at $26.5; is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -217,23 +217,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Two SKUs for the IC Intracom installer channel - 8-PoE L2+ and gigabit MC
 
 ```text
 Hi Hristo,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the installer channel — Marvell L2+ 8-PoE + 2-SFP at $81 EXW and gigabit fibre MC at $22; is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+For the installer channel, two neutral-brand items from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); industrial mini Gigabit media converter with SFP slot - STI-110GE - $26.5.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

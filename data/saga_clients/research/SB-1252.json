@@ -81,7 +81,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → villa@frekvent.com",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）",
       "one_question": "For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -113,7 +113,10 @@
     "proof_gaps": [
       "无邮件往来"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "DIN-rail industrial switches - 5-port and 8+2 SFP",
+      "body": "Hello,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches you supply, neutral-brand DIN-rail units, -40 to 75 C, CE/RoHS, from single units: 8 x Gigabit + 2 x SFP unmanaged, 12-58 V DC - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit - STI-050GE - $17.0; the 8 + 2 SFP L2 managed version, Marvell-based - STI-280GM - $68.2.\n\nOne question: which configuration do your customers order most - plain 5-port, 8 + 2 SFP, or managed?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-25"
   }
 }

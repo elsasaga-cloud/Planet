@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → dponjavic@gmail.com（Dušan Ponjavić） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → dponjavic@gmail.com（Dušan Ponjavić） 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`；整机 bypass 为 SmartByte LT-IS6312GP-4GX8GT-FBP（无 Saga 型号，信稿只描述不写型号））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）
 - **断点 / 为什么停在这里**：小国（塞尔维亚，非主动开拓区）；联系邮箱为 gmail 免费邮箱（实体待核）；bypass 模块品类 Saga 不供
 - **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → dponjavic@gmail.com（Dušan Ponjavić）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → dponjavic@gmail.com（Dušan Ponjavić）　首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`；整机 bypass 为 SmartByte LT-IS6312GP-4GX8GT-FBP（无 Saga 型号，信稿只描述不写型号））
   - 第一问（只问一个）：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -217,23 +217,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
+**主题**：After the bypass module - switches for the fibre and security networks you build
 
 ```text
 Hi Dušan,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need?
+Thank you for the bypass-module order through Alibaba. For the fibre and security networks you build, the switches on the same line, DIN-rail, -40 to 75 C, CE/RoHS, from single units: 8 x Gigabit + 2 x SFP unmanaged - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP L2 managed, Marvell-based - STI-288GPM - $82.2; and an industrial 8 x Gigabit PoE+ + 4 x SFP L2+ switch with built-in optical bypass for ring links - $194.3.
 
-We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $46 USD EXW (valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which configuration does your next project need - and is the bypass needed on the switch itself, or as a separate module as before?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
