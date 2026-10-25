@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 ENET 标；桌面 MC 用 HRUI（列表价，注明）；光模块/DAC Saga 不供（Q-32）；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-22 $240（24 Port Fiber Switch）、2025-06-10 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Gordon, for the media converters carried under the ENET label alongside your transceivers and cable assemblies, we can supply industrial gigabit and PoE MCs (and 8-GE + 2 SFP switches) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most with fibre links? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 ENET 标；桌面 MC 用 HRUI（列表价，注明）；光模块/DAC Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：主业光模块/线缆（Saga 不供）：MC 为副线，契合度低
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-22 $240（24 Port Fiber Switch）、2025-06-10 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch））——自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 ENET 标；桌面 MC 用 HRUI（列表价，注明）；光模块/DAC Saga 不供（Q-32）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））
   - 第一问（只问一个）：Gordon, for the media converters carried under the ENET label alongside your transceivers and cable assemblies, we can supply industrial gigabit and PoE MCs (and 8-GE + 2 SFP switches) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most with fibre links? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -271,23 +271,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
+**主题**：Media converters under the ENET label - next to the transceivers and cable assemblies
 
 ```text
 Hi Gordon,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the media converters carried under the ENET label alongside your transceivers and cable assemblies, we can supply industrial gigabit and PoE MCs (and 8-GE + 2 SFP switches) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most with fibre links?
+Over the past months you had a few product mails from us - most recently "Managed Optical Bypass Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
+Transceivers, DAC and AOC are yours and we do not touch them. For the media converters carried under the ENET label alongside them, in your packaging from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; and an 8 x Gigabit + 2 x SFP unmanaged DIN switch - STI-280GE - $46.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which converter configuration do your customers order most with a fibre link - SFP-slot or fixed-fibre?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
