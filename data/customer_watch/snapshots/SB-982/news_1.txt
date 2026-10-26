@@ -1,4 +1,4 @@
-# SB-982 mcss.co.kr · news_1 · https://www.mcss.co.kr/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-982 mcss.co.kr · news_1 · https://www.mcss.co.kr/blog · fetched 2026-10-26T07:56:19Z · HTTP 200
 엠씨에스솔루션 | 네트워크 솔루션·ICT·IoT 전문기업
 네이버
 블로그
@@ -366,8 +366,8 @@ site search
 Blog
 프로모션
 MCS솔루션 공식 Blog
-AI가 스팸 게시물·댓글을 등록 전에 걸러 드려요
-· 게시판 AI 스팸가드 알아보기 ›
+새 스팸은 막고, 이미 쌓인 스팸은 한 번에 정리해 드려요
+· 게시판 AI 스팸케어 알아보기 ›
 관리자님께만 보이는 안내
 공지
 네트워크 관리 솔루션, PLANET NMS | CloudNMS vs On-Premises 사용가이드

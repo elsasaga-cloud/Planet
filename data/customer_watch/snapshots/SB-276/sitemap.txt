@@ -1,5 +1,5 @@
-# SB-276 hanelektronik.com · sitemap · https://hanelektronik.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
-2026-10-25T02:00:14+03:00	https://www.hanelektronik.com/
+# SB-276 hanelektronik.com · sitemap · https://hanelektronik.com/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
+2026-10-26T02:00:14+03:00	https://www.hanelektronik.com/
 2023-01-03T15:45:46+03:00	https://www.hanelektronik.com/banka-bilgileri
 	https://www.hanelektronik.com/iletisim
 2023-07-07T17:36:58+03:00	https://www.hanelektronik.com/magazalar

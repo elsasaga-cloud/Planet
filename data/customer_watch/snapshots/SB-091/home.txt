@@ -1,2 +1,150 @@
-# SB-091 fingerprint-access-control.com · home · https://fingerprint-access-control.com/ · fetched 2026-10-25T07:41:18Z · HTTP 202
-
+# SB-091 fingerprint-access-control.com · home · https://fingerprint-access-control.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+Fingerprint Access Control Systems - Security Systems by Borer Data Systems Ltd
+GET IN TOUCH |
+TEL: +44 (0)118 979 1137 |
+EMAIL: info@borer.co.uk
+Fingerprint Access Control
+Navigation
+Technology
+Biometrics
+Power over Ethernet
+Server Room Security
+Turnstiles and Barriers
+Locker Lock Systems
+Airlocks / Interlocks / Mantraps
+Applications
+Ports / Harbours
+Gyms / Health Clubs / Leisure Centres
+Educational Institutions
+Office Buildings
+Data Centres / Server Rooms
+Residential Complexes
+Fusion
+Products
+Readers
+Cards
+Controllers
+PoE Switches
+Power Injectors
+Electric Locks
+Exit Releases
+Turnstiles
+Contact
+Technology
+Biometrics
+Power over Ethernet
+Server Room Security
+Turnstiles and Barriers
+Locker Lock Systems
+Airlocks / Interlocks / Mantraps
+Applications
+Ports / Harbours
+Gyms / Health Clubs / Leisure Centres
+Educational Institutions
+Office Buildings
+Data Centres / Server Rooms
+Residential Complexes
+Fusion
+Products
+Readers
+Cards
+Controllers
+PoE Switches
+Power Injectors
+Electric Locks
+Exit Releases
+Turnstiles
+Contact
+Fingerprint Access Control Security Solutions
+Identity Authentication | Biometrics | Smart Cards
+Fingerprint Access Control
+Secure 4 Factor Identity Authentication
+PoE Power over Ethernet
+Cost Saving Energy Efficient Access Control
+Server Rack Security
+IT Server Rack Access Control
+Interlock & Mantrap
+Secure Biometric Access Control
+PoE Biometric Turnstiles
+Combining Fingerprint, Card and/or PIN Code for Secure Access
+Fingerprint Access Control Security Solutions
+Identity Authentication | Biometrics | Smart Cards
+Borer Data Systems Ltd is a UK developer and manufacturer, and global supplier of Integrated Biometric Fingerprint Access Control Security Systems. Borer's award-winning success and experience spans over 40 years in the Access Control industry.
+Integrating Biometric Fingerprint Access Control Technology with Smart Card Access Control
+Borer provides complete network-based (IP) Biometric Fingerprint Access Control Systems utilising Power over Ethernet (PoE) technology (up to a distance of 300m), which are fully scalable for both small to medium sized businesses right up to large multi-site corporate and government organisations.
+The Fingerprint Recognition Access Control system uses biometric technology and 4 factor identity authentication to confirm a person’s identity before granting access. Our system integrates FUSION software and proprietary, aesthetically pleasing access control hardware configured to your specific situation. Whether you need fingerprint biometric security only, or a combination of fingerprint and smart card verification, we will create a solution to suit your individual requirements.
+Across individual sites with fewer than 5000 people on each site, biometric fingerprints alone can be used by comparing the finger presented against a library of templates stored in the fingerprint reader. Users with more demanding security requirements can apply multiple checks including fingerprint plus smart card and/or PIN for proof of identity across multiple sites.
+Borer's Integrated Security Solution
+Benefits of an Integrated Security Solution
+Integrated Solution
+Borer's Access Control system integrates Building and Site Access Control, Time and Attendance Management, Locker Management, Visitor Management, ID Cards, Roll Call and Muster Reporting with CCTV.
+Scalable
+Suitable for all project sizes, from 1-2 doors to multi-site network with unlimited doors. Can be configured to run on a single workstation or on a server for an enterprise-wide application.
+Configurable
+Support for dual servers with alternative path network routing in case of a network default. Access decisions are made by the intelligent reader heads in the event of a central system or network failure. Multi-lingual and world time zone support.
+Energy Saving
+Energy efficiency and reduced power consumption through PoE (Power over Ethernet) technology requiring less infrastructure, equipment, technical personnel and time required for installation.
+Cost of Ownership
+Three year manufacturer's warranty on all parts and equipment. Reduced maintenance costs through remote monitoring. Simple and straightforward software licensing.
+Functionality
+Supports mobile phone applications with WiFi and mobile data connectivity to control doors, cabinets, airlocks, mantraps, turnstiles, elevators.
+Identity Authentication
+Secure multi-factor identification supports (1) fingerprint only, (2) smart card only (3) fingerprint and card (4) fingerprint template on card with PIN code. Automatically synchronises the personnel database with new starters, leavers, and all changes to personnel records.
+Less Infrastructure
+Aesthetically pleasing hardware with up to 80% less equipment to install and maintain, resulting in a neat, simple access control system. No need to install a power mains spur at every door, with considerable cost savings.
+Reduced Equipment
+Faster and easier installation and maintenance due to less equipment required at the door - equipment installed at door handle height resulting in easier compliance with health and safety restrictions associated with engineers working at height.
+Low Maintenance
+Online monitoring of almost every aspect of installations, including sensors, energy consumption, condition of data links and operating temperature. Sophisticated power status reporting assists in remote diagnosis and swift rectification of equipment faults.
+Remote Monitoring
+Site based equipment can be remotely programmed and re-programmed, configured and power reset, saving on system downtime with a reduction in maintenance visits together with associated travel costs.
+Access Control Applications
+Multi-Site Applications
+Control access to a few doors at one location or scale up to control access to thousands of doors, turnstiles and barriers at many sites.
+Student Attendance
+Recording and reporting student attendance at classes and lectures in colleges and universities.
+Time and Attendance Management
+Recording and management of flexible working hours, fixed hours, shift work and job sharing, records and reports on normal and tardy attendance, overtime, holidays and absences.
+Office Building Reception
+Register visitors at a manned reception desk or self-service touch screen terminal, print visitor badges and set visitor access rules - duration, escort, clearance levels.
+ID Card Design and Printing
+A user's photo and fingerprint can be captured and ID cards printed and encoded.
+Roll Call and Muster Station
+Muster point readers are fitted at assembly points and a report is generated of people on and off site at the muster point in event of evacuation or fire alarm.
+Building Alarm Monitoring
+Monitoring and reporting on the status and activity of all building and fire alarms.
+Guard Tour
+Monitor and force route of security personnel on guard our, tracked in real time using mobile smart phones and location based beacon transmitters.
+Mobile Attendance Registration
+Mobile smart phone attendance registration records user's Card ID serial number, transmit time, date and location in real time using mobile data or WiFi.
+Lone Worker Monitoring
+Monitoring of personnel doing maintenance visits to remote sites and outstations, access to control rooms and equipment cabinets, captured in real time, recorded and reported.
+Technology Partners
+Save
+Accreditations
+Talk to us today to discuss your Access Control requirements.
+Follow Us
+Borer Data Systems Ltd
+4 Winnersh Fields, Gazelle Close
+Winnersh, Berkshire
+RG41 5QS
+United Kingdom
++44 (0)118 979 1137
+info@borer.co.uk
+Monday to Friday:  -
+Access Control Products
+Readers (7)
+Cards (1)
+Controllers (8)
+PoE Switches (5)
+Power Injectors (2)
+Electric Locks (5)
+Exit Releases (5)
+Turnstiles (4)
+Assign a Menu
+© 2020 Borer Data Systems Limited. All rights reserved. | Privacy Policy
+✖
+Close the Content Dock
+Do not show again
+Loading Comments...
+You must be logged in to post a comment.

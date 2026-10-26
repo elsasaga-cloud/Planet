@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Vzhledem k plánované inventuře, budou objednávky vytvořené během pátku 23.10. a víkendu zpracovány až v pondělí 26.10.2026
@@ -28,73 +28,73 @@ Kontakty
 Přihlásit se
 Vyberte si pobočku
 Brno - Kšírova (centrála)
-Zavřeno · otevíráme zítra od
-23.10. od 11 hod. ZAVŘENO
+Otevřeno do
+28.10. ZAVŘENO
 Brno - Řečkovice
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Blansko
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Bystřice nad Pernštejnem
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Čáslav
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Česká Třebová
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Hradec Králové
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Hustopeče
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Chotěboř
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Jevíčko
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Kladno
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Kroměříž
-Zavřeno · otevíráme zítra od
+Otevřeno do
 23.10. od 11 hod. ZAVŘENO
 Liberec
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Pardubice
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Praha 13 - Stodůlky
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Praha 4 - Spořilov
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Praha 9 - Horní Počernice
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Prostějov
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Rychnov nad Kněžnou
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Sokolov
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Svitavy
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Šenov u Nového Jičína
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Tišnov
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Trutnov
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Třebíč
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Uherské Hradiště
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Uherské Hradiště - Jaktáře
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Velké Meziříčí
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Vysoké Mýto
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Zábřeh
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Zastávka u Brna
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Zlín
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Žďár nad Sázavou
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Mapa poboček
 Hledat
 Zapnout/vypnout vyhledávací panel
@@ -122,11 +122,11 @@ Spínací a jistící přístroje
 Svítidla
 Exteriérová svítidla
 LED svítidla
+Pochozí a nájezdová svítidla
+Orientační svítidla exteriérová
 Závěsná svítidla exteriérová svítidla
 Přízemní a ponorná svítidla
 Vestavná exteriérová svítidla
-Pochozí a nájezdová svítidla
-Orientační svítidla exteriérová
 Další kategorie
 Nástěnná a stropní svítidla
 Sloupková svítidla
@@ -148,8 +148,8 @@ Stropní interiérová svítidla
 Užitková svítidla interiérová
 Zápustná, vestavná interiérová svítidla
 Závěsná interiérová svítidla
-Náhradní díly ke svítidlům
 Ostatní interiérová svítidla
+Náhradní díly ke svítidlům
 Kancelářská svítidla
 Downlight svítidla
 Přisazená/závěsná svítidla
@@ -233,8 +233,8 @@ Vánoční a dekorativní osvětlení
 Další kategorie
 LED pásky a příslušenství výprodej
 Lištový systém
-Kancelářská svítidla výprodej
 Reflektorová svítidla
+Kancelářská svítidla výprodej
 Průmyslová svítidla
 Nouzová svítidla
 Příslušenství a komponenty svítidel
@@ -556,15 +556,43 @@ Propojovací vodiče
 Kabelové příslušenství
 Značení vodičů kabelové příslušenství
 Ostatní kabelové příslušenství
-Svazkovací spirály
-Kabelová oka
-Kabelové spojky
-Izolační pásky
-Další kategorie
 Kabelové vidlice
 Ochranné oplety
 Sady koncovek a konektorů
 Cupalové podložky a plechy
+Další kategorie
+Izolační pásky
 Teplem smrštitelné trubice
 Izolační trubičky
 Kabelové dutinky
+Kabelové kolíky
+Kabelové konektory a fastony
+Svazkovací spirály
+Kabelová oka
+Kabelové spojky
+Přípojnicové systémy
+Kabely USB, audio a video
+Kabely CINCH
+Kabely JACK
+Kabely SCART
+Kabely USB
+Kabely a redukce HDMI
+Vybraní výrobci
+Pečlivě vybíráme výrobce, kteří splňují naše nároky na kvalitu, spolehlivost a inovace.
+O partnerství
+Měření a regulace
+Regulace
+Řídící systémy MaR
+Ekvitermní regulace
+Regulace tlaku - manostaty
+Regulace teploty - termostaty
+Regulace vlhkosti
+Čidla tlaku
+Další kategorie
+Čidla teploty
+Čidla vlhkosti
+Čidla kvality vzduchu
+Průtok a hladina
+Ostatní regulace a snímače
+Servopohony MaR
+Pro směšov

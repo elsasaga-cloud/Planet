@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,10 +429,10 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-LRI-CON-7562 Módulo Conversor Isolado USB para RS-232/RS-422/RS-485/TTL
-R$ 499,00
+Inversor Industrial CC/CA 600W 48Vcc Saída 127 Vca LRI48-600-127T2-V3
+R$ 990,00
 R$
-484 , 03
+960 , 30
 à vista
 com desconto Pix - Vindi
 Comprar
@@ -445,10 +445,10 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Switch Ethernet Industrial Gerenciável 8 Portas Gigabit Rj45 + 2 Portas SFP - LRI-SWI-8G2S1C
-R$ 1.458,00
+I-7520 - Conversor Bi-direcional RS-232 para RS-485 com Isolação 3000Vcc ICP DAS
+R$ 720,00
 R$
-1.414 , 26
+698 , 40
 à vista
 com desconto Pix - Vindi
 Comprar
@@ -462,41 +462,23 @@ com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
 Lançamentos
-LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
-R$ 499,00
-R$
-484 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Ethernet Módulo IO Digital TCW181B-CM
-R$ 1.543,64
-R$
-1.497 , 33
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-1-Wire Sensor de Corrente Isolado TSC201
+Detector de Vazamento de Água com Saída Digital TSF400-0
 Sob consulta
 Saiba mais
 Pedir cotação
-1-Wire Sensor de Temperatura e Umidade TSM400-1-TH
+1-Wire Transmissor de Loop de Corrente TSA200
+Sob consulta
+Saiba mais
+Pedir cotação
+Detector de Tensão CA TSV101
+Sob consulta
+Saiba mais
+Pedir cotação
+Módulo de Entrada 60V TSA202-60
 Sob consulta
 Saiba mais
 Pedir cotação
 Depoimentos
-Nome: Manoel
-Avaliação: Positivo
-Depoimento: Atendimento/entrega rápida e eficiente
-Comentado em: 31/01/2024
-LRI Automação Industrial
-Atendimento/entrega rápida e eficiente
-Written by: Manoel
-LRI Automação Industrial
-1 / 1 stars
-1200
 Nome: Djalma Filho
 Avaliação: Positivo
 Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
@@ -507,6 +489,16 @@ Written by: Djalma Filho
 LRI Automação Industrial
 1 / 1 stars
 1255
+Nome: Manoel
+Avaliação: Positivo
+Depoimento: Atendimento/entrega rápida e eficiente
+Comentado em: 31/01/2024
+LRI Automação Industrial
+Atendimento/entrega rápida e eficiente
+Written by: Manoel
+LRI Automação Industrial
+1 / 1 stars
+1200
 [ Ver todos ]
 Cadastre-se em nossa newsletter
 e receba novidades via E-mail ou Telegram
@@ -548,5 +540,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 1.422 secs - 25-10-2026  - node: commerce-web2-bot-lw - store
+Load time: 1.405 secs - 26-10-2026  - node: commerce-web3-bot-lw - store
 ×

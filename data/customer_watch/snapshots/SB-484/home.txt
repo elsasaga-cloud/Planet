@@ -1,2 +1,453 @@
-# SB-484 mosonetworks.com · home · https://mosonetworks.com/ · fetched 2026-10-25T07:41:18Z · HTTP 202
-
+# SB-484 mosonetworks.com · home · https://mosonetworks.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+Home - Moso Networks
+Skip to content
+Linkedin
+Instagram
+X-twitter
+Youtube
+Solutions
+5G
+Moso IMP Platform
+Concord
+4G
+Ready-to-Deploy Solutions
+Moso and Ataya
+Moso and Druid (Khasm KEEN)
+Moso and Pente
+Partners
+Channel Partners
+Technology Ecosystem
+Industries
+Broadcast
+Campus Connectivity
+Logistics
+Ports & Airports
+Public Safety
+Utilities
+Resources
+Trust Compliance
+TAA Compliance
+Certifications
+License Agreement
+Verified Devices
+Approved Antennas
+Videos & Webinars
+Case Studies
+Company
+About Us
+News
+Blog
+Case Studies
+Events
+Solutions
+5G
+Moso IMP Platform
+Concord
+4G
+Ready-to-Deploy Solutions
+Moso and Ataya
+Moso and Druid (Khasm KEEN)
+Moso and Pente
+Partners
+Channel Partners
+Technology Ecosystem
+Industries
+Broadcast
+Campus Connectivity
+Logistics
+Ports & Airports
+Public Safety
+Utilities
+Resources
+Trust Compliance
+TAA Compliance
+Certifications
+License Agreement
+Verified Devices
+Approved Antennas
+Videos & Webinars
+Case Studies
+Company
+About Us
+News
+Blog
+Case Studies
+Events
+Customer Portal
+Contact Us
+Linkedin-in
+Instagram
+X-twitter
+Generic selectors
+Exact matches only
+Search in title
+Search in content
+Post Type Selectors
+Customer Portal
+News Release
+Blog
+Events
+Customer Portal
+News Release
+Blog
+Events
+Solutions
+5G
+Moso IMP Platform
+Concord
+4G
+Ready-to-Deploy Solutions
+Moso and Ataya
+Moso and Druid (Khasm KEEN)
+Moso and Pente
+Partners
+Channel Partners
+Technology Ecosystem
+Industries
+Broadcast
+Campus Connectivity
+Logistics
+Ports & Airports
+Public Safety
+Utilities
+Resources
+Trust Compliance
+TAA Compliance
+Certifications
+License Agreement
+Verified Devices
+Approved Antennas
+Videos & Webinars
+Case Studies
+Company
+About Us
+News
+Blog
+Case Studies
+Events
+Solutions
+5G
+Moso IMP Platform
+Concord
+4G
+Ready-to-Deploy Solutions
+Moso and Ataya
+Moso and Druid (Khasm KEEN)
+Moso and Pente
+Partners
+Channel Partners
+Technology Ecosystem
+Industries
+Broadcast
+Campus Connectivity
+Logistics
+Ports & Airports
+Public Safety
+Utilities
+Resources
+Trust Compliance
+TAA Compliance
+Certifications
+License Agreement
+Verified Devices
+Approved Antennas
+Videos & Webinars
+Case Studies
+Company
+About Us
+News
+Blog
+Case Studies
+Events
+Generic selectors
+Exact matches only
+Search in title
+Search in content
+Post Type Selectors
+Solutions
+5G
+Moso IMP Platform
+Concord
+4G
+Ready-to-Deploy Solutions
+Moso and Ataya
+Moso and Druid (Khasm KEEN)
+Moso and Pente
+Partners
+Channel Partners
+Technology Ecosystem
+Industries
+Broadcast
+Campus Connectivity
+Logistics
+Ports & Airports
+Public Safety
+Utilities
+Resources
+Trust Compliance
+TAA Compliance
+Certifications
+License Agreement
+Verified Devices
+Approved Antennas
+Videos & Webinars
+Case Studies
+Company
+About Us
+News
+Blog
+Case Studies
+Events
+Solutions
+5G
+Moso IMP Platform
+Concord
+4G
+Ready-to-Deploy Solutions
+Moso and Ataya
+Moso and Druid (Khasm KEEN)
+Moso and Pente
+Partners
+Channel Partners
+Technology Ecosystem
+Industries
+Broadcast
+Campus Connectivity
+Logistics
+Ports & Airports
+Public Safety
+Utilities
+Resources
+Trust Compliance
+TAA Compliance
+Certifications
+License Agreement
+Verified Devices
+Approved Antennas
+Videos & Webinars
+Case Studies
+Company
+About Us
+News
+Blog
+Case Studies
+Events
+Solutions Products 📡 5G 🖥️ IMP 🔌 Concord Switch 📶 4G / LTE
+📦 Ready-to-Deploy Solutions ✅ Certified Devices / Antennas
+Partners 📢 Channel Partners 🔗 Technology Ecosystem
+Industries 📺 Broadcast 🏫 Campus Connectivity 🚚 Logistics 🚢 Ports & Airports 🚨 Public Safety ⚡ Utilities
+Resources 🔒 Trust & Compliance Hub
+🇺🇸 TAA Compliance 📜 Certifications 📄 License Agreement ✅ Verified Devices 📡 Approved Antennas
+🎥 Videos & Webinars 📋 Case Studies ✍️ Blog
+Company 🏢 About Us 📰 News Releases ✍️ Blog 🎪 Events
+Customer Portal Contact Us
+PRIVATE 5G ENGINEERED FOR ENTERPRISE
+Private 5G That Deploys in Days — Not Months.
+Plug-and-play private 5G networks built for enterprise. No cellular expertise required. Operational in hours.
+Request a Demo
+See How It Works
+Request a Demo See How It Works
+⚡ Average deployment time
+< 1 Day
+Average deployment time
+3–10×
+Cost savings vs. traditional
+💰 3–10×
+Cost savings vs. traditional
+15+
+Years carrier-grade RAN expertise
+📡 15+
+Years carrier-grade RAN expertise
+SIMPLE BY DESIGN
+Private 5G in Four Steps
+From planning to a live network — no integration sprints, no cellular specialists, no months of waiting.
+Step 1
+Plan
+Upload your site map, identify what you need to connect, and generate a propagation model to determine radio placement — all in the Moso IMP platform.
+Step 2
+Install
+Mount the radio at your planned location then connect to power and your network. Moso radios work with standard infrastructure — no specialist labor, no local servers required.
+Step 3
+Activate
+Activate the network on prem or in the cloud platform. The radio connects automatically and devices join via SIM or eSIM in minutes.
+Step 4
+Manage
+Monitor 574+ KPIs, automate provisioning, and get instant visibility into every radio and device — from one cloud dashboard, across any number of sites.
+HOW IT ALL FITS TOGETHER
+A Complete Private 5G Architecture
+Every layer — from device to cloud — purpose-built and pre-integrated so your network deploys in hours, not months.
+Moso Product
+Partner / Ecosystem
+Cloud
+Management
+Moso
+Moso IMP
+Monitoring · Analytics · Provisioning
+Single-pane
+management
+Management Plane
+5G Core
+Network
+Ataya
+5G Core
+Druid
+5G Core
+Pente
+5G Core
+Cisco
+5G Core
++ more
+Partners
+On-prem or
+cloud-hosted
+Backhaul Interface
+LAN /
+Transport
+Moso
+Concord Switch
+PoE++ · PTP · GPS
+Router / Firewall
+Existing network gear
+Enterprise LAN
+Existing infrastructure
+Works with
+your existing LAN
+Ethernet / FIBER
+Radio Access
+Network
+Moso
+Canopy Indoor
+5GID1 · 5GID2
+Moso
+Canopy Outdoor
+5GOD1 · 5GOD2 · 5GOD1-E
+CBRS n48
+n77 · n78
+Air Interface · 5G NR
+Connected
+Devices
+Smartphones
+IoT / OT
+IP Cameras
+Mobile Assets
+Laptops / CPE
+SIM · eSIM
+CBRS certified
+Explore Ready-to-Deploy Solutions
+View 5G Radios
+SYSTEM ARCHITECTURE
+The Moso Platform in One View
+From SAS spectrum access and partner integrations, through IMP management, down to Canopy radios and Concord switches on-site — every layer purpose-built and pre-integrated.
+Learn About IMP
+THE MOSO ADVANTAGE
+Built Different. Deployed Faster.
+Carrier-grade performance — redesigned from the ground up for enterprise simplicity, open standards, and real-world economics.
+⚡
+Deploy in Hours, Not Months
+Our plug-and-play architecture eliminates complex integration. Any IT generalist can install a Canopy radio in under an hour — no cellular expertise required.
+🔓
+Zero Carrier Lock-In
+Own your spectrum with CBRS. No monthly carrier fees, no shared bandwidth, no coverage dependency. Your data stays on your network.
+💰
+3–10× Cost Reduction
+Purpose-built hardware and cloud management eliminates expensive on-premises infrastructure. Get carrier-grade performance at a fraction of the cost.
+📡
+Carrier-Grade Performance
+15+ years of RAN expertise built into every product. The same reliability standards used in public networks, deployed for your private use.
+🏗️
+Open Ecosystem
+Works with your existing IT infrastructure, switches, and core network vendors. No proprietary lock-in at any layer of the stack.
+🛡️
+Enterprise Security
+End-to-end encryption, SIM-based authentication, and full data sovereignty. Your traffic never touches a public carrier network.
+Purpose-Built Hardware
+Radios purpose-built for enterprise — indoor, outdoor, compact — all powered by Qualcomm and designed for the specific demands of private wireless. Not repurposed carrier gear.
+No Vendor Lock-In
+Open ecosystem — choose your 5G core partner, your integrator, and your devices. Moso never forces you into a proprietary stack. You own your network and your data, always.
+Simplified Deployment
+From planning through go-live in hours, not months. Moso IMP automates provisioning, eliminates configuration complexity, and makes day-2 operations as simple as managing Wi-Fi.
+Unmatched Visibility
+574+ KPIs monitored per site. Real-time radio health, device analytics, spectrum performance, and AI-powered alerts — all from a single cloud dashboard across any number of sites.
+TAA-Compliant & US-Based
+TAA-compliant hardware for government and regulated industries. US-based engineering team, domestic inventory, and a supply chain built for auditability and continuity.
+Partner-Ready Ecosystem
+Pre-validated integrations with the best 5G core providers, SI partners, and device vendors. Everything is tested and certified before it reaches your site.
+Explore Partner Ecosystem →
+TRUSTED BY LEADING ORGANIZATIONS
+Trusted by leading organizations
+PGA TOUR
+BAPTIST HEALTH
+UNIV. OF VIRGINIA
+NATIONAL GROCERY CHAIN
+THACHER SCHOOL
+QUALCOMM
+MxD
+MAJOR U.S. UTILITY
+PRINCETON
+WHY MOSO NETWORKS
+Enterprise-Grade 5G Without the Enterprise Complexity
+Moso strips out the traditional barriers to private 5G — specialized staff, months-long deployments, and prohibitive costs — delivering a network your team can run from day one.
+Standards-based hardware built for enterprise reliability
+Affordable radios purpose-built for enterprise budgets
+Plug-and-play setup via cloud dashboard
+Scales easily from 1 site to 100+
+Explore The Chorus Solution
+15+
+YEARS PRIVATE NETWORK EXPERTISE
+💰 3–10×
+Cost savings vs. traditional
+574+
+NETWORK KPIS MONITORED
+💰 3–10×
+Cost savings vs. traditional
+<1 Day
+AVERAGE TIME TO GO LIVE
+💰 3–10×
+Cost savings vs. traditional
+HOW IT WORKS
+Three Reasons Organizations Choose Moso
+⚡
+Deploy in Hours, Not Months
+Our plug-and-play architecture eliminates complex integration. Any IT generalist can install a Canopy radio in under an hour — no cellular expertise required.
+🔓
+Zero Carrier Lock-In
+Own your spectrum with CBRS. No monthly carrier fees, no shared bandwidth, no coverage dependency. Your data stays on your network.
+💰
+3–10× Cost Reduction
+Purpose-built hardware and cloud management eliminates expensive on-premises infrastructure. Get carrier-grade performance at a fraction of the cost.
+📡
+Carrier-Grade Performance
+15+ years of RAN expertise built into every product. The same reliability standards used in public networks, deployed for your private use.
+🏗️
+Open Ecosystem
+Works with your existing IT infrastructure, switches, and core network vendors. No proprietary lock-in at any layer of the stack.
+🛡️
+Enterprise Security
+End-to-end encryption, SIM-based authentication, and full data sovereignty. Your traffic never touches a public carrier network.
+⚡
+Deploys in Days, Not Months
+Plug an Ethernet cable into any Moso Canopy radio — it auto-provisions via Moso IMP the moment it powers up. Your team needs zero cellular expertise. Go from order to live network in less than a day.
+💰
+3–10× Lower Cost
+Moso's vertically integrated ODM/OEM model delivers carrier-grade private 5G at a fraction of traditional approaches. Real deployments show 3–10× cost savings vs. conventional private cellular infrastructure.
+📈
+Scales From One Site to Global
+Start with a single radio and add capacity as you grow — no forklift upgrades required. Moso IMP manages every site worldwide from one dashboard, with AI-powered Moso IQ keeping networks optimized 24/7.
+BUILT FOR YOUR INDUSTRY
+Private 5G for Industries That Can't Afford Downtime
+Purpose-built solutions for the connectivity demands of demanding operational environments.
+⚡
+Deploy in Hours, Not Months
+Our plug-and-play architecture eliminates complex integration. Any IT generalist can install a Canopy radio in under an hour — no cellular expertise required.
+🔓
+Zero Carrier Lock-In
+Own your spectrum with CBRS. No monthly carrier fees, no shared bandwidth, no coverage dependency. Your data stays on your network.
+💰
+3–10× Cost Reduction
+Purpose-built hardware and cloud management eliminates expensive on-premises infrastructure. Get carrier-grade performance at a fraction of the cost.
+📡
+Carrier-Grade Performance
+15+ years of RAN expertise built into every product. The same reliability standards used in public networks, deployed for your private use.
+🏗️
+Open Ecosystem
+Works with your existing IT infrastructure, switches, and core network vendors. No proprietary 

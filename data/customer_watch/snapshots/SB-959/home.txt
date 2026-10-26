@@ -1,4 +1,4 @@
-# SB-959 silarius.com · home · https://silarius.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-959 silarius.com · home · https://silarius.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Security Cameras, Surveillance, IT and Access Control Superstore – Silarius
 Skip to content
 Plan my system Free
@@ -163,8 +163,8 @@ Low-Voltage & Security Wire
 Pedestals & Reader Posts
 Nurse Call Systems
 Shop all Access Control
-Smart Home
-View all Smart Home
+Smart Building
+View all Smart Building
 Silarius Home Edition
 Lighting Controls & Dimmers
 Smart Plugs, Relays & Bulbs
@@ -175,8 +175,9 @@ Smart Thermostats
 Alarm Systems & Sensors
 Smart Speakers & Streaming Audio
 Wi-Fi & Mesh Systems
+Lighting
 Remotes, Hubs & Control
-Shop all Smart Home
+Shop all Smart Building
 Fire & Life Safety
 View all Fire & Life Safety
 Fire Alarm Panels & Power
@@ -448,20 +449,21 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
-Smart Home Smart Home
+Smart Building Smart Building
+Lighting
 Silarius Home Edition
 Lighting Controls & Dimmers
 Smart Locks & Garage
 Video Doorbells & Smart Cameras
 Smart Thermostats
-Smart Speakers & Streaming Audio
-Also in Smart Home
+Also in Smart Building
 Smart Plugs, Relays & Bulbs
 Smart Shades & Blinds
 Alarm Systems & Sensors
+Smart Speakers & Streaming Audio
 Wi-Fi & Mesh Systems
 Remotes, Hubs & Control
-Shop all Smart Home
+Shop all Smart Building
 Talk to a specialist
 Spec a system with someone who knows the catalogue.
 Chat with us
@@ -525,5 +527,4 @@ Send us a message
 Chat Chat with a specialist
 Email info@silarius.com
 Hours Mon–Fri, 8am–4pm
-Quotes Volume and multi-site pricing on request
-Surveillance, IT, 
+Quotes Volume and mu

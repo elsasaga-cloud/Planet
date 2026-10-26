@@ -1,4 +1,4 @@
-# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
 2026-01-22	https://www.radwin.com/about
 2026-01-22	https://www.radwin.com/become-a-partner
 2026-01-22	https://www.radwin.com/board-of-directors
@@ -12,10 +12,10 @@
 2026-03-12	https://www.radwin.com/contact-radwin-certification
 2026-03-12	https://www.radwin.com/contact-request-a-quote
 2026-04-13	https://www.radwin.com/contact-support-request
-2026-10-21	https://www.radwin.com/contactus
+2026-10-25	https://www.radwin.com/contactus
 2026-08-16	https://www.radwin.com/cookie-policy
 2026-10-21	https://www.radwin.com/descubre-qora
-2026-08-20	https://www.radwin.com/employee/form
+2026-10-25	https://www.radwin.com/employee/form
 2025-11-04	https://www.radwin.com/forestry
 2025-11-02	https://www.radwin.com/forestry-first-responders
 2025-11-02	https://www.radwin.com/forestry-forest-preservation

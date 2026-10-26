@@ -1,4 +1,4 @@
-# SB-993 abigo4u.com · home · https://abigo4u.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-993 abigo4u.com · home · https://abigo4u.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Arcobel - Home
 The store will not work correctly when cookies are disabled.
 ✔
@@ -121,11 +121,11 @@ Discover for yourself
 See our products →
 Arcobel, your partner for Embedded Solutions
 Arcobel - Home
-News
-Bekijk
 Software
 Bekijk
-Hardware
+Technic
+Bekijk
+News, Blogs & Events
 Bekijk
 View all blogs →
 Contact Us
@@ -166,19 +166,19 @@ Read more
 Onze producten
 ‹
 ›
-Rackmount Servers →
 Panel PC →
-Fanless Computers →
-Chassis Technology →
+Rackmount Servers →
 Internet of Things (IoT) →
-Industrial CPU boards →
-GPU & AI Systems →
-Rugged Systems →
-Power supplies →
-Industrial Displays →
 Industrial Switches →
-Modular Systems →
+Rugged Systems →
+Chassis Technology →
+Power supplies →
+Fanless Computers →
 Industrial I/O →
+GPU & AI Systems →
+Industrial Displays →
+Modular Systems →
+Industrial CPU boards →
 Customer Service
 Logistics
 Product Lifetime Management

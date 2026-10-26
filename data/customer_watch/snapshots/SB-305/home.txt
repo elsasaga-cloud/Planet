@@ -1,4 +1,4 @@
-# SB-305 Bits&Byte CONSULTING PVT LTD · home · https://www.bitsandbyte.net/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-305 Bits&Byte CONSULTING PVT LTD · home · https://www.bitsandbyte.net/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 bits&BYTE | Infrastructure for what’s next
 Call 1800 569 0101 Email [email protected] WhatsApp (opens in a new tab) Book a meeting Book (opens the booking calendar in a new tab)
 Free Check your website, email and DNS security in one click, at no cost. Free security checks Try the tools →
@@ -162,6 +162,15 @@ Learn
 Perspectives for a more resilient tomorrow.
 Our latest thinking on cloud, security, networking and the technologies shaping enterprise IT.
 Visit Learn
+Black October 0 1 Your website PHP2Shell Running Exploited Patch now
+0 2 Your HTTPS padlock eMudhra CA Running Keys weak Replace
+0 3 Your code server GitLab Running Exposed Patch now
+0 4 Your AI tools LiteLLM Running Malware Rebuild
+17 Oct · PHP2Shell exploited before its fix 17 Oct · eMudhra CA keys found guessable 21 Oct · GitLab flaw rated 10.0 CVSS 21 Oct · Malware ships in LiteLLM 1.107.0 Fixes are out · now patch yours
+Cybersecurity
+Black October: what PHP2Shell, eMudhra and LiteLLM mean for Indian enterprises
+In one week, PHP’s core was exploited before its fix, an Indian certificate authority’s signing keys turned out to be guessable, and a popular AI tool shipped malware. Here is what happened, who is exposed and what to do this week.
+Read article 25 Oct 2026
 Log stream Firewall
 Router
 Server + ±0 ms
@@ -169,7 +178,6 @@ Cloud
 1 clock drifting · timeline out of order 4 / 4 clocks in sync · timeline in order
 Cybersecurity
 CERT-In’s 180-day logs and clock sync: what your network has to do
-CERT-In’s 2022 Directions ask for synced clocks, six-hour incident reports and 180 days of logs kept in India. The rules are short. Building the infrastructure behind them is where the work is.
 Read article 18 Oct 2026
 Cybersecurity
 Ransomware recovery starts long before the attack
@@ -177,9 +185,6 @@ Read article 28 Sept 2026
 Cloud & Infrastructure
 Your cloud bill is an architecture problem
 Read article 24 Sept 2026
-Networking & Connectivity
-Why your SaaS feels slow at the branch office
-Read article 21 Sept 2026
 Featured white paper
 Building a cyber-resilient organization.
 Cyber threats are no longer isolated IT issues. They are business risks that can disrupt operations, affect revenue and damage customer trust. This guide sets out how to anticipate, withstand and recover from them, across five pillars: visibility, protection, detection, response and recovery.

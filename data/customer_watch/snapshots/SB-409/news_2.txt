@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 How Far Can a PTZ Camera See? | XLR Security
 Skip to main content
 Skip to footer
@@ -18,9 +18,9 @@ Power & PoE
 Petenet PoE Switches 12V Power Supplies PoE Extenders PoE Splitters Injectors
 New arrivals
 Shop All
-Toshiba HDD-TOS-S3008TB – 8TB S300 Pro Surveillance HDD
+Akuvox AK-X912K Premium Intercom w/Keypad
 Login for Pricing
-Uniview NVR504-32E-IM – 32ch AI NVR, 4-Bay
+Akuvox AK-X915S Premium Video Intercom (8″ touchscreen)
 Login for Pricing
 New Arrivals Clearance
 Become a Dealer
@@ -61,7 +61,7 @@ Watch all
 Who is Lysora Technology and What Products Do They Offer?
 How to find the latest firmware for Uniview NVR and Cameras?
 Should you use a 2.8mm or 4mm lens for CCTV? (multiple scenarios tested)
-YouTube Channel Find an installer
+YouTube Channel Find an installer Lens Preview
 Contact us for technical support
 About
 Contact
@@ -111,17 +111,17 @@ Be sure to contact us if you have any questions regarding Uniview, especially if
 Jaeden Wiens
 Jaeden has been working in the CCTV industry since 2018. He started with technical support, then quickly moved into sales and marketing. When he’s not writing articles or optimizing the performance of his website, you can find him listening to music or practicing piano at home. You can follow him here on LinkedIn .
 You Might Also Like
-The Ultimate Guide to Uniview Security Cameras
-Welcome to the most comprehensive guide to Uniview on the internet! You'll find information on Uniview's company, security products, naming…
-September 27, 2022
-How to Capture License Plates with Uniview’s 8MP OwlView Plus
-Uniview's latest camera is their 8MP OwlView Plus. It performs well at night, but is it able to capture license…
-August 8, 2025
-Uniview’s Wise-ISP camera has the best low-light performance we’ve seen
-These new cameras produce an incredible image thanks to a new deep-learning video algorithm created by Uniview. This technology, known…
-July 15, 2024
+Uniview Tri-Guard vs Tri-Guard 2.0 – What’s the Difference?
+Released in 2021, the Uniview Tri-Guard series was a welcome addition to the security camera market. It offered many functions –…
+May 8, 2024
+Case Study: Uniview protects Electronics Recycling Depot
+Canada's largest e-waste recycling is using Uniview cameras in their facility. We made sure their needs were met, and the…
+January 22, 2024
+Introducing Lysora – Powerful & Cost-effective Networking Equipment
+We're excited to partner with and distribute products from Lysora Technology. Their powerful networking equipment allows you to upsell to…
+May 4, 2026
 Our Company
-About Us Contact Us Our Partners Warranty & Returns Information
+About Us Contact Us Our Partners Warranty & Returns Uniview Distributor Information
 Blog Gallery FAQ Security Camera Installers My Account
 Sign In My Cart Support
 Tools and Software Uniview Tutorials UNV Accessories Guide

@@ -1,4 +1,4 @@
-# SB-762 groundcontrol.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCRQpZYI4SY4x9768uaPmrPQ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-762 groundcontrol.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCRQpZYI4SY4x9768uaPmrPQ · fetched 2026-10-26T07:56:19Z · HTTP 200
 2026-10-15T13:58:20+00:00	RockFLEET Assured & RockBLOCK APNT Tested at Jammertest 2026 | Ground Control	https://www.youtube.com/watch?v=h42EOjj_Ru4
 2026-10-14T14:21:23+00:00	GNSS Under Attack: What the Data Actually Shows, and What to Do About It | Ground Control Webinar	https://www.youtube.com/watch?v=QMUSi3Z41KE
 2026-10-08T14:39:21+00:00	RockBLOCK APNT: Independent Position and Timing for UAVs, USVs and Autonomous Systems	https://www.youtube.com/watch?v=cIbyxSfxqAU

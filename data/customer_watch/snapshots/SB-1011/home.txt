@@ -1,4 +1,4 @@
-# SB-1011 binarteknik.se · home · https://binarteknik.se/sv/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-1011 binarteknik.se · home · https://binarteknik.se/sv/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Industrielektronik och automation för proffs
 Välkommen till Binär Teknik
 B2B. Vi säljer endast till företag
@@ -43,35 +43,30 @@ Vi erbjuder specialiserad teknisk expertis
 Tillfällig teknisk assistans för företag
 Professionellt stöd genom hela projektet
 Kontakta Oss
+27" pekskärm med hög ljusstyrka, 1000 nits, IP65, HDMI/VGA/USB-C
+27-tums industriell Full HD-pekskärm med 1000 nits ljusstyrka, IP65-frontskydd, 10-punkts kapacitiv pekfunktion och robust metallhölje. Idealisk för utomhuskiosker, marin, tillverknings- och kontrollrumsapplikationer…
+11 592,00 SEK
 NVIDIA® Jetson AGX Orin™ AI inbyggd dator, 2x isolerad CAN-buss, NVIDIA Ampere™-arkitektur GPU med 56 tensorkärnor
 Stöder NVIDIA® Jetson AGX Orin™1792-kärnig NVIDIA Ampere™-arkitekturgrafik med 56 Tensor-kärnorStöder 2 x GbEStöder 8 GMSL-kameror (Kan specialbeställas med 4x PoE istället)2 x RS-232/422/4855 x USB16…
 0,00 SEK
 32" IP66 TFT-skärm 6 sidor IP66-tät, optiskt bunden, 1500 nits i rostfritt stål
 32" TFT-skärm1920x1080@60Hz FULL HD16:91500 nitarPCAP Touch som tillvalOptiskt bunden - mycket viktig egenskapIngen kondens bakom frontglasetFörbättrad tillförlitlighet och prestanda6-sidig, helt IP66-tätadVGA…
 43 586,00 SEK
-Wi-Fi 7 5100MBPS Dual Band Access Point, utomhus, externa antenner, PoE
-Utomhusåtkomstpunkt med dubbla band, gateway, repeater, WISP1 × 100/1000/2500BASE-T PoE+ WAN-port (802.3at PoE+ PD)1 × 10/100/1000BASE-T LAN-port2 x 2,4 GHz N-hona antennkontakter3 x 5 GHz honkontakter…
-3 680,00 SEK
-2 x 1-vägs digital I/O över single-mode eller multi-mode fiberkabel (simplex - 1 fiber) (torr kontakt)
-2 kanaler 1-vägs över fiberkabelLevereras som ett set500 meter vid MM100 km vid SMIngång: Normalt öppenUtgång: Relä - normalt öppetReläbrytare: 5VDC/5A, 30VDC/1A, 240VAC/0,25AStatus-LEDFiberkontakt: STI/O-anslutningar:…
-3 584,00 SEK
-IP68 antibakteriellt silikontangentbord med Track Point - USB - LED-bakgrundsbelysning, nordisk teckenuppsättning
-Medico tangentbord med Trackpoint
-Nordisk layout
-Tangenter med mjuk beröring
-USB
-LED-bakgrundsbelysning för användning i mörker
-IP68, kan motstå rengöring med 80% alkohol, antibakteriell till 11 x 286…
-1 338,00 SEK
 8-portars Managed Switch RJ45, PoE++ 2-portars 100/1000Mbit och 2-portars 10Gbit SFP-kortplats, DIN, 48–56VDC
 Managed PoE-switch med 8 RJ45- och 4 SFP-platser 8 x 10/100 / 1000Mbit med PoE++ (95 Watt) PoE-strömförbrukningen är 360 watt (45 watt per port) PoE utvidga-läge - max. 160 - 200 meter 2 x 100/1000Mbit…
 10 443,00 SEK
-15,6" bärbar dator, 12:e gen., Intel® Alder Lake-processor i5, TPM 2.0, RS232, 2xRJ45, 3xUSB 3.0, IP65 800 nit
-15,6” FHD-skärmupplösning med PCAP-pekskärm, 1920x1080800 nits, optisk bindning för tydlig läsbarhet i solljus12:e generationens Intel®-processorfamilj – Alder Lake-processor i5 (på begäran i7, i9)Processor:…
-0,00 SEK
 32" IP66 TFT-skärm 6 sidor IP66-tät, optiskt bondad, PCAP-pekskärm, 1000 nits i rostfritt stål
 32" TFT 1920x1080@60Hz FULL HDPCAP-pekskärm16:91000 nitarOptiskt bunden - mycket viktig egenskapIngen kondens bakom frontglasetFörbättrad tillförlitlighet och prestanda6-sidig, helt IP66-tätadVGA- och…
 48 925,00 SEK
+15,6" bärbar dator, 12:e gen., Intel® Alder Lake-processor i5, TPM 2.0, RS232, 2xRJ45, 3xUSB 3.0, IP65 800 nit
+15,6” FHD-skärmupplösning med PCAP-pekskärm, 1920x1080800 nits, optisk bindning för tydlig läsbarhet i solljus12:e generationens Intel®-processorfamilj – Alder Lake-processor i5 (på begäran i7, i9)Processor:…
+0,00 SEK
+15U Tyst 19" rackskåp, 650 x 650 mm yttermått, tyst fläkt + digital temperaturkontroll, svart
+Ljudisolerat 19-tums rackskåp15UYttermått: 650 x 650 mmFriståendeMed hjul - låsMetallsvartFå priser på andra varianter:Yttermått: fråga säljavdelningenRACKSKÅP FRAKTAS MED FRAKTFARTYG!
+23 878,00 SEK
+21,5" CPU I5, PCAP Panel PC FULL IP69K, SUS316/ASIS316 Rostfritt stål 250Nits eller 1500 nits version
+21,5" TFT 1920x1080 standard 250 nits (på särskild begäran 100 eller 1500 nits) PCAB Multi Touch Screen, Stöd touch med handske/ Regnläge Intel Core i5-1135G7 2,4 GHz (upp till 4,2 GHz) Gen 11. 1 x SO-DIMM…
+0,00 SEK
 Erfarenhet och expertis
 50+ års erfarenhet av tekniska lösningar och rådgivning.
 Kvalitetsprodukter

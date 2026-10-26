@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -121,12 +121,12 @@ System 45x45 39
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2238)
-Wszystkie 2238
+Zasilanie (2240)
+Wszystkie 2240
 Zasilacze UPS 371
 Zasilacze PoE 89
 Zasilacze buforowe 226
-Zasilacze impulsowe 507
+Zasilacze impulsowe 509
 Adaptery POE 52
 Akumulatory 106
 Przetwornice napięcia 158

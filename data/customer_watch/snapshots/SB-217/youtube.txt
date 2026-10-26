@@ -1,4 +1,4 @@
-# SB-217 microsens.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxubH--ge55dyVnsAxFFXLA · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-217 microsens.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxubH--ge55dyVnsAxFFXLA · fetched 2026-10-26T07:56:19Z · HTTP 200
 2024-11-19T12:39:44+00:00	MICROSENS Production	https://www.youtube.com/watch?v=6TkoDhnxsPk
 2024-09-24T14:30:34+00:00	MICROSENS Profi Line X - 10G Industrial Ethernet Switch	https://www.youtube.com/watch?v=LDea_dyM-Q4
 2024-05-27T06:24:12+00:00	MICROSENS Tutorial MQTT Broker Auf G6 Switches	https://www.youtube.com/watch?v=yjz0WyCzP-M

@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,11 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Webinar práctico: Control de accesos y videoporteros IP con Grandstream | 6 de noviembre
+26 de octubre de 2026
+Webinar
+Aprende a desplegar una solución profesional de videoportero IP y control de accesos con Grandstream GDS3720, UCM y GDMS. Inscríbete al webinar del 6 de noviembre a las h.
+Read More
 Yealink MP66W Teams: comunicación móvil y resistente para equipos de primera línea
 22 de octubre de 2026
 Conoce
@@ -67,11 +72,6 @@ Certificación oficial Grandstream GCPNS en Madrid: 25, 26 y 27 de noviembre
 13 de octubre de 2026
 Formación
 Cuatro certificaciones oficiales Grandstream en un único curso presencial en Leganés (Madrid): GCPS, Routing & Switching, Wireless y Security.
-Read More
-MikroTik KNOT Gateway: pasarela IoT IP66 con BLE 5.1 y LoRa o Wi‑Fi HaLow
-13 de octubre de 2026
-Conoce
-KNOT Gateway, la nueva pasarela IoT robusta de MikroTik: IP66, BLE 5.1, LoRa 868 MHz (LR8) o Wi‑Fi HaLow 915 MHz (HL9), Ethernet con PoE, Wi‑Fi, LTE Cat 1 bis, GNSS y RouterOS v7.
 Read More
 Paginación de entradas
 1
@@ -629,4 +629,4 @@ comunicación
 comunicacion bidireccional
 comunicación empresas
 comunicacion unificada
-comunicacion unificad
+comunicacion 

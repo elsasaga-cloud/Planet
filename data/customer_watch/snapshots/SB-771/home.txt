@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -52,10 +52,10 @@ SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-Cable de alarma 22/2 Trenzado 7 CM CL2 500FT Blanco UL, VERTICAL 210-222ST/5WH
-$ 54 + IVA
-Sensor de movimiento inal?mbrico para interiores de techo, HIKVISION DS-PDCL12-EG2-WB
-$ 26 + IVA
+Camara PIR para interiores, 85.9°,12m, imagen a color 24/7 (GIF) AX PRO, HIKVISION DS-PDPC12PF-EG2-WB(O-STD)
+$ 83 + IVA
+Bot?n de panico inalambrico, HIKVISION DS-PD1-EB-WR
+$ 15 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,23 +202,16 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-ESTRUCTURADO , FIBRA OPTICA
-Adaptador FO monomodo/multimodo LC dúplex Unión ...
-$ 16 + IVA
+CCTV , ACCESORIOS CCTV
+Cable HDMI 4K Ultra HD 5 mts cobre macho a macho, ...
+$ 11 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-SEGURIDAD , CONTROL DE ACCESO
-Control de acceso y asistencia SaaS WiFi, Facial h...
-$ 102 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-SEGURIDAD , ALARMAS
-Expansor de señal inalámbrico AX PRO, HIKVISION ...
-$ 76 + IVA
+ESTRUCTURADO , GABINETES Y RACKS
+Soportes de montaje para Poste Gab.9U Exteriores K...
+$ 35 + IVA
 Añadir al carrito
 Compare
 Quick view
@@ -233,6 +226,13 @@ Add to wishlist
 SEGURIDAD , CONTROL DE ACCESO
 Kit Videoportero Analógico Pantalla LCD Color 7 I...
 $ 104 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CONTROL DE ACCESO
+Soporte en L para chapas magn?ticas con zumbador N...
+$ 7 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -266,36 +266,36 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Fuente Poder 370w RG-S2910C-24GT2XS-HP-E and RG-S2...
-$ 302 + IVA
+Switch Acceso L2 / 48 GE / 4 x SFP+ / PoE 370w, RE...
+$ 806 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch L3 NeverDie / 48 GE / 4 x SFP+ VSU RIP, OSP...
-$ 1,392 + IVA
+Switch 8 GE Administrable / Vlan, Loop prevention,...
+$ 36 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch 24 GE / Vlan, Loop prevention, Remote Boot,...
-$ 150 + IVA
+Switch PoE 8FE + 2GE, 1 y 2 60W, 3-8 30W(802.3at) ...
+$ 49 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch PoE 16 Puertos 10/100Mbps, 2 uplink RJ45 Gi...
-$ 99 + IVA
+Switch PoE+ 8 GE(2.5GB) 1 uplink SFP+ 10GE, Max 13...
+$ 152 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-SWITCHES
-Switch L3 NeverDie / 24 GE PoE / 4 x SFP+ / NO inc...
-$ 1,270 + IVA
+REDES , SWITCHES
+Switch 48 GE L2+ / 4 SFP+ uplink, Cloud, REYEE RG-...
+$ 599 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

@@ -1,4 +1,4 @@
-# SB-070 neowine · news_1 · https://neowine.com/bbs/board.php?bo_table=notice · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-070 neowine · news_1 · https://neowine.com/bbs/board.php?bo_table=notice · fetched 2026-10-26T07:56:19Z · HTTP 200
 NOTICE 1 페이지 | neowine
 Company Logo
 cha
@@ -53,37 +53,37 @@ NOTICE 목록
 24
 [전시참가결과] 스마트라이프위크 2026 (10/6~10/8, Coex, B홀 G30)
 neowine
-66
+71
 10-16
 23
 [논문게재] 디지털콘텐츠학회논문지 제27권 제9호
 neowine
-71
+74
 10-16
 22
 특허 및 논문 페이지 신설
 neowine
-207
+212
 09-17
 21
 국방벤처 협약기업 선정 및 확인 안내
 neowine
-247
+253
 09-10
 20
 《반도체 강국의 역설》출간 및 안내
 neowine
-998
+1002
 05-22
 19
 성남시장 표창 수상
 neowine
-1543
+1545
 12-02
 18
 [전시참가결과] AIoT Korea 2025 (11/26~28, Coex, A129)
 neowine
-1591
+1592
 12-02
 17
 육군 군사과학기술연구대 감사장 수여
@@ -118,7 +118,7 @@ neowine
 11
 [전시참가결과] 2024 AIoT 국제전시회 (10/30~11/1)
 neowine
-2222
+2223
 11-05
 10
 [전시참가안내] 2024 AIoT 국제전시회 (10/30~11/1)

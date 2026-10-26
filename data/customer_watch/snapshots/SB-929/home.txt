@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -103,6 +103,13 @@ TV/모니터
 남은시간
 LIKE IT ! 0
 Sold Out
+S110-24T2SR 비관리형 24포트 스위치
+상품요약정보 : 24 x GE 포트, 2 x SFP 포트 | 패킷 포워딩 속도: 38.69 Mpps | 스위칭 용량: 52 Gbit/s
+소비자가 : 267,000원
+판매가 : 119,000원
+남은시간
+LIKE IT ! 0
+Sold Out
 AR180 PLUS 기업용 Wi-Fi 7 VPN 유무선 공유기 2.5G 무선AP
 소비자가 : 357,000원
 판매가 : 99,000원
@@ -161,19 +168,14 @@ Sold Out
 판매가 : 56,000원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC2000-SFP 멀티/싱글모드 1Gbps 광컨버터
-상품요약정보 : SFP 슬롯형, 멀티모드(850nm, 220m), 싱글모드(1310nm, 10km) / 71(W) x 94(D) x 26(H)mm
-판매가 : 71,500원
-LIKE IT ! 0
-Sold Out
 SFC300-SCM2 산업용 멀티모드 광 2포트 TP 4포트 스위칭허브
 상품요약정보 : 광 2포트(멀티모드, 2km) + TP 4포트(10/100Mbps, 100m)
 판매가 : 222,200원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC505GHP V2 스위치 (1Gbps TP 5포트(PoE 4포트))
-상품요약정보 : PoE 60W/ 185.5(W) x 123(D) x 44(H)mm
-판매가 : 101,200원
+솔텍 SFP-LXH 산업용 광모듈
+상품요약정보 : 산업용 1.25Gbps 싱글모드 SFP 광모듈 전송거리 20km, 1310nm, LC커넥터
+판매가 : 29,000원
 LIKE IT ! 0
 Sold Out
 솔텍 SFC200-SCM 멀티모드 100Mbps 광컨버터
@@ -181,14 +183,19 @@ Sold Out
 판매가 : 53,900원
 LIKE IT ! 0
 Sold Out
+솔텍 SFC2000-SFP 멀티/싱글모드 1Gbps 광컨버터
+상품요약정보 : SFP 슬롯형, 멀티모드(850nm, 220m), 싱글모드(1310nm, 10km) / 71(W) x 94(D) x 26(H)mm
+판매가 : 71,500원
+LIKE IT ! 0
+Sold Out
 ipTIME AX2004T 유무선 공유기 (Wi-Fi 6)
 상품요약정보 : Wi-Fi 6 지원 최저가 가성비 공유기
 판매가 : 45,600원
 LIKE IT ! 0
 Sold Out
-솔텍 SFP-LXH 산업용 광모듈
-상품요약정보 : 산업용 1.25Gbps 싱글모드 SFP 광모듈 전송거리 20km, 1310nm, LC커넥터
-판매가 : 29,000원
+SPARROW 광점퍼코드 LC-SC 2C 싱글모드 OS2 광패치코드 LSZH Duplex 2Core 3M
+상품요약정보 : SPARROW 광점퍼코드 LC-SC SM-DX OS2 싱글모드 광패치코드 LSZH Duplex 2Core
+판매가 : 8,000원
 SOLTECH 브랜드관
 더보기
 {#imgTag_1}
@@ -264,12 +271,12 @@ Sold Out
 판매가 : 49,000원
 LIKE IT ! 0
 Sold Out
-마이크로틱 MikroTik GPEN11 Power Injector PoE인젝터 / Repeater 리피터
-판매가 : 30,000원
+마이크로틱 MikroTik hEX S(E60iUGS) VPN 라우터 / 산업용/ 방화벽 Router
+판매가 : 165,000원
 LIKE IT ! 0
 Sold Out
-마이크로틱 MikroTik GPEN21 Smart Power Injector PoE인젝터 / PoE광컨버터 / Repeater 리피터/ VLAN지원
-판매가 : 50,000원
+마이크로틱 MikroTik GPEN11 Power Injector PoE인젝터 / Repeater 리피터
+판매가 : 30,000원
 {#imgTag_1}
 {#imgTag_2}
 {#text_1}

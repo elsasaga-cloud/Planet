@@ -1,2 +1,5 @@
-# SB-066 comtec.com.vn · feed_auto · https://comtec.com.vn/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Wed, 01 Oct 2025 06:58:26 +0000	Chào tất cả mọi người!	https://comtec.com.vn/2025/10/01/chao-moi-nguoi/
+# SB-066 comtec.com.vn · feed_auto · https://comtec.com.vn/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 508
+508 Resource Limit Is Reached
+Resource Limit Is Reached
+The website is temporarily unable to service your request as it exceeded resource limit.
+Please try again later.

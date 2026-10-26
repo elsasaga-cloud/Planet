@@ -1,4 +1,4 @@
-# SB-305 Bits&Byte CONSULTING PVT LTD · sitemap · https://www.bitsandbyte.net/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-305 Bits&Byte CONSULTING PVT LTD · sitemap · https://www.bitsandbyte.net/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
 	https://www.bitsandbyte.net
 	https://www.bitsandbyte.net/solutions
 	https://www.bitsandbyte.net/solutions/cloud-infrastructure
@@ -28,7 +28,8 @@
 	https://www.bitsandbyte.net/industries/retail
 	https://www.bitsandbyte.net/industries/technology
 	https://www.bitsandbyte.net/industries/government
-2026-10-18	https://www.bitsandbyte.net/learn
+2026-10-25	https://www.bitsandbyte.net/learn
+2026-10-25	https://www.bitsandbyte.net/learn/black-october-php2shell-emudhra-litellm
 2026-10-18	https://www.bitsandbyte.net/learn/cert-in-log-retention-and-time-sync
 2026-09-28	https://www.bitsandbyte.net/learn/ransomware-recovery-starts-before-the-attack
 2026-09-24	https://www.bitsandbyte.net/learn/your-cloud-bill-is-an-architecture-problem

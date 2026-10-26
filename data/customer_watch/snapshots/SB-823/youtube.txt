@@ -1,4 +1,4 @@
-# SB-823 synchronet.net · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCYMxRcrN8_sGHcyuuAUbNyQ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-823 synchronet.net · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCYMxRcrN8_sGHcyuuAUbNyQ · fetched 2026-10-26T07:56:19Z · HTTP 200
 2026-09-22T11:55:01+00:00	Claude for Small Business: What It Does, How to Use It & What to Know | AI, Applied	https://www.youtube.com/watch?v=QCFXvsWZWPY
 2026-02-20T00:00:30+00:00	How SMBs are Using Microsoft Copilot to Work Smarter | A Microsoft Copilot Guide for Small Business	https://www.youtube.com/watch?v=InlqeKFDPgs
 2025-09-03T13:07:47+00:00	Importance of AI Framework for your Business	https://www.youtube.com/shorts/iylPN7inEl0

@@ -1,4 +1,4 @@
-# SB-271 dodicelettronica.it · feed_auto · https://www.dodicgroup.it/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-271 dodicelettronica.it · feed_auto · https://www.dodicgroup.it/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Thu, 22 Oct 2026 08:55:54 +0000	Risco – Promo Sensori Radio	https://www.dodicgroup.it/risco-promo-sensori-radio-2026/
 Tue, 13 Oct 2026 13:34:19 +0000	Percorso formativo – CNA Roma	https://www.dodicgroup.it/percorso-formativo-cna-roma/
 Fri, 09 Oct 2026 07:32:16 +0000	Corso Hikvision – Latina	https://www.dodicgroup.it/corso-hikvision-latina-23-10-2026/

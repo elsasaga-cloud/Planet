@@ -1,4 +1,5 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-10-26T07:56:19Z · HTTP 200
+26.10.2026 08.54.23	Modul SM 1xMPO/APC12(m)-12SC/UPC Pol. U1	https://www.fiberworks.no/fiberworks-as/mpb4-kea1-1m1mf12su/modul-sm-1xmpo-apc12m-12sc-upc-pol-dot--u1-9-os2-mpb4-modul-1x-base-12-elite
 23.10.2026 14.49.04	Trunk SM 2xMPO12/APC(f)/(f) Pol B 35 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fbm1f-35/trunk-sm-2xmpo12-apcf-f-pol-b-35-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
 23.10.2026 14.49.04	Trunk SM 2xMPO12/APC(f)/(f) Pol B 25 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fbm1f-25/trunk-sm-2xmpo12-apcf-f-pol-b-25-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
 23.10.2026 12.18.03	DIN boks MAXI MPO/APC-12xSC/UPC Pol. U1	https://www.fiberworks.no/fiberworks-as/pd1-kea2-1m1mf12su/din-boks-maxi-mpo-apc-12xsc-upc-pol-dot--u1-g-dot-657-dot-a2-mpo-apc12-hann-base-12-elite
@@ -63,6 +64,4 @@
 06.10.2026 13.40.51	Vesala NanoSonde VMS3-33 2,8 mm 33 kHz	https://www.fiberworks.no/vesala-oy/ves-vms3-33/vesala-nanosonde-vms3-33-2-8-mm-33-khz-for-r%c3%b8r-inntil-8mm
 06.10.2026 13.10.59	QFCI MM 62,5/125 OM1	https://www.fiberworks.no/funksjonssikker/k-qfci-s-om1-gxx/qfci-mm-62-5-125-om1-funksjonssikker-kabel
 06.10.2026 13.03.37	G24 QFCI MM 62,5/125 OM1	https://www.fiberworks.no/funksjonssikker/k-qfci-s-om1-g24/g24-qfci-mm-62-5-125-om1-funksjonssikker-kabel
-06.10.2026 10.14.47	SFP, Multirate 100M-2.7G, DDM, 80km	https://www.fiberworks.no/fiberworks-as/sfp-mr80d-c61-ci/sfp-multirate-100m-2-dot-7g-ddm-80km-cwdm-1611-nm-28db-sm-ciena
-06.10.2026 10.14.47	SFP, Multirate 100M-2.7G, DDM, 80km	https://www.fiberworks.no/fiberworks-as/sfp-mr80d-c59-ci/sfp-multirate-100m-2-dot-7g-ddm-80km-cwdm-1591-nm-28db-sm-ciena
-06.10.2026 10.14.
+06.10.2026 10.14.47	SFP, Multirate 100M-2.7G, DDM, 80km	https://www.fiberworks.no/fiberworks-as/sfp-mr80d-c61-ci/sfp-multirate-100m-2-dot-7g-ddm-80km-cwdm-1611-nm-28db-sm-ci

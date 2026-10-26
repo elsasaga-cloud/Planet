@@ -1,4 +1,4 @@
-# SB-357 infonet-tech.com · news_1 · https://infonet-tech.com/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-357 infonet-tech.com · news_1 · https://infonet-tech.com/blog · fetched 2026-10-26T07:56:19Z · HTTP 200
 Infonet Blog | Fuel Retail & Gas Station Industry News
 Home
 Industries Retail Gas Stations Convenience Stores Unattended Fuel Sites Fleet Fueling First Nations Retail
@@ -41,9 +41,9 @@ Every POS vendor pitch these days leads with the same word. Cloud. Cloud dashboa
 read more about Cloud-Based POS System vs Hybrid POS System for Fuel Retailers
 Resources
 Oct 15, 2026
-The Real Cost of Running an Outdated Gas Station POS System
+The Disadvantages of Running an Outdated Gas Station POS System
 Your gas station POS system rings every sale, so it is easy to assume it is doing its job. But a system can keep working and still cost you real money every single month. The obvious costs show up on invoices. The bigger ones hide in outage hours, slow training, daily workarounds, and features you […]
-read more about The Real Cost of Running an Outdated Gas Station POS System
+read more about The Disadvantages of Running an Outdated Gas Station POS System
 Resources
 Oct 19, 2026
 Integrated POS and Payment Processing: Where Most Setups Quietly Fail
@@ -87,8 +87,8 @@ Cloud-Based POS System vs Hybrid POS System for Fuel Retailers
 read more about Cloud-Based POS System vs Hybrid POS System for Fuel Retailers
 Resources
 OCT 15, 2026
-The Real Cost of Running an Outdated Gas Station POS System
-read more about The Real Cost of Running an Outdated Gas Station POS System
+The Disadvantages of Running an Outdated Gas Station POS System
+read more about The Disadvantages of Running an Outdated Gas Station POS System
 1 2
 Ready to Transform Your Business?
 Whether you’re managing fuel stations, convenience stores, card locks, unattended fuel sites, fleet operations, Infonet can provide technology solutions that simplify operations

@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -291,44 +291,43 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-ExtraLink 8F Cable (FRP indoor/ outdoor)
-0,98 zł z VAT
-1,29 zł
-0,80 zł netto
+Wisnetworks WIS-L5825D Hi-Power Outdoor Wireless Backhaul
+479,70 zł z VAT
+690,77 zł
+390,00 zł netto
 szt
-Najniższa cena z 30 dni: 1,29 zł
-Wisnetworks WIS-L5800N Hi-Power Base Station
-356,70 zł z VAT
-431,73 zł
-290,00 zł netto
+Najniższa cena z 30 dni: 690,77 zł
+ExtraLink 12F Cable (FRP indoor/ outdoor)
+1,17 zł z VAT
+1,49 zł
+0,95 zł netto
 szt
-Najniższa cena z 30 dni: 431,73 zł
+Najniższa cena z 30 dni: 1,49 zł
+MikroTik wAP LR2 kit (RBwAPR-2nD&R11e-LR2)
+479,70 zł z VAT
+540,18 zł
+390,00 zł netto
+szt
+Najniższa cena z 30 dni: 540,18 zł
+Pigtail U.FL - N/m (20 cm)
+8,49 zł z VAT
+18,91 zł
+6,90 zł netto
+szt
+Najniższa cena z 30 dni: 18,91 zł
+PowerWalker VI 1000 ERT HID, LCD Rack 19" (powystawowy)
+1 094,70 zł z VAT
+1 094,70 zł
+890,00 zł netto
+szt
+Najniższa cena z 30 dni: 1 094,70 zł
 WYPRZEDAŻ
-MikroTik CRS125-24G-1S-2HnD-IN - obudowa RACK 19"
-72,57 zł z VAT
-196,80 zł
-59,00 zł netto
+Szafa wisząca Professional 19" 4U, 450mm, drzwi szklane, czarna
+344,40 zł z VAT
+399,75 zł
+280,00 zł netto
 szt
-Najniższa cena z 30 dni: 196,80 zł
-WYPRZEDAŻ
-Grandstream HT814 v2 bramka VoIP
-319,80 zł z VAT
-406,69 zł
-260,00 zł netto
-szt
-Najniższa cena z 30 dni: 406,69 zł
-Ambit Atheros 5213A, 802.11 a/b/g
-12,30 zł z VAT
-39,36 zł
-10,00 zł netto
-szt
-Najniższa cena z 30 dni: 39,36 zł
-Tenda AC8 (po zwrocie)
-74,50 zł z VAT
-96,99 zł
-60,57 zł netto
-szt
-Najniższa cena z 30 dni: 96,99 zł
+Najniższa cena z 30 dni: 399,75 zł
 Najnowsze propozycje
 NOWOŚĆ
 D-Link C36/ISP/E
@@ -361,14 +360,14 @@ Teltonika Remote Management System (RMS), subskrypcja - 5 lat
 398,09 zł netto
 szt
 NOWOŚĆ
-TP-Link Fusion 2.5G
-1 069,85 zł z VAT
-869,80 zł netto
+TP-Link Fusion 2.5G PoE
+1 668,25 zł z VAT
+1 356,30 zł netto
 szt
 NOWOŚĆ
 Ubiquiti Access G3 Gate Starter Kit (UA-G3-SK-Gate)
-4 162,16 zł z VAT
-3 383,87 zł netto
+4 162,97 zł z VAT
+3 384,53 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Cloud Gateway Industrial (UCG-Industrial)
@@ -383,7 +382,4 @@ Cudy BU530
 16,87 zł netto
 more
 WYSYŁKA
-Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
-Koszty przesyłki:
-DHL: od 13 PLN (netto)
-FedEx: od 14.90 
+Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym 

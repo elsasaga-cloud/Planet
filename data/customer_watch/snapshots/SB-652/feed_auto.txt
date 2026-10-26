@@ -1,4 +1,4 @@
-# SB-652 comxus.com · feed_auto · https://comxus.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-652 comxus.com · feed_auto · https://comxus.com/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Fri, 23 Oct 2026 10:34:30 +0000	Data Centre Network Infrastructure Costs: What Affects the Budget?	https://comxus.com/data-centre-network-infrastructure-costs-what-affects-the-budget/
 Thu, 22 Oct 2026 10:30:00 +0000	Ethernet vs InfiniBand for AI Data Centres	https://comxus.com/ethernet-vs-infiniband-for-ai-data-centres/
 Sat, 17 Oct 2026 10:36:42 +0000	Colocation vs Enterprise Data Centres: Networking Differences	https://comxus.com/colocation-vs-enterprise-data-centres-networking-differences/

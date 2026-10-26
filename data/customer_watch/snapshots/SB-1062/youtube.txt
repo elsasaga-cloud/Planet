@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-10-26T07:56:19Z · HTTP 200
 2026-10-23T23:00:06+00:00	Built to Grow: How Top Seedz Centralized Food Manufacturing and Operations with Odoo	https://www.youtube.com/watch?v=eo2TNenNtYU
 2026-10-23T22:27:35+00:00	Odoo Market Anaylsis for the West Coast	https://www.youtube.com/watch?v=K-YaUKQgNKQ
 2026-10-23T22:26:19+00:00	Odoo Market Analysis for the Midwest	https://www.youtube.com/watch?v=fZAzfcqTevU

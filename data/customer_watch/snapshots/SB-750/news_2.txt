@@ -1,4 +1,4 @@
-# SB-750 enableit.com · news_2 · https://enableit.com/news-blog/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-750 enableit.com · news_2 · https://enableit.com/news-blog/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Enable-IT News | Ethernet Extender | PoE Extender Uses
 Skip to content
 (888) 309-0910 Mon - Fri: 5AM - 4PM PST
@@ -46,7 +46,6 @@ Enable-IT We Are # 1
 About Enable-IT
 CUSTOMER USES
 Enable-IT Technology In Action
-Awesome Solution Stories
 Ethernet Technology
 PoE Technology
 Customer Case Studies
@@ -58,10 +57,11 @@ Products search
 Search
 0
 Enable-IT News and Blog
-Ethernet Extender & PoE Extender
+Ethernet Extender & PoE Extender Solution Stories
 Why Risk Your Business On Anything Else? We Use Trusted Secure Encryption Built-In
 Your Network Data Deserves Better! – Secure IT, Enable-IT
 Get a Custom Design Consultation
+Latest Solution News
 Passive PoE Equipment: Turning Off Per-Port PoE Can Spell Disaster
 September 25, 2026
 Read More »
@@ -93,320 +93,47 @@ Read More »
 Emergency Food Disaster Relief – Enable-IT Solutions
 March 18, 2026
 Read More »
-Energy Production During A Disaster – Awesome Solutions
-January 28, 2026
-Read More »
-860 GAC – Gigabit Ethernet Over AC Powerline: Unlocking Network Connectivity Through Your Electrical Outlets
-January 21, 2026
-Read More »
-Taiwan Conflict: 7 Hidden Risks to Global Infrastructure
-January 16, 2026
-Read More »
-AI-Powered Surveillance: 7 Powerful Benefits for Smarter Security
-December 20, 2025
-Read More »
-Smart Farming: EnableIT 8805M Powers Spray Camera Systems
-September 17, 2025
-Read More »
-Campus Security: 7 Game-Changing Trends That Make AI Surveillance Smarter, Safer & More Effective for Every Campus
-September 11, 2025
-Read More »
-Category 5 Cable Speed: 10 Powerful Facts About Cat5 & 5e Ethernet Performance
-August 26, 2025
-Read More »
-Thermal Control Solutions in Global Disaster Situations
-August 11, 2025
-Read More »
-Gigabit Ethernet Over DC Voltage Tether: A Game-Changer for Modern Communications
-July 17, 2025
-Read More »
-Pipe Crawler Technology: 7 Powerful Ways PoE & Ethernet Extenders Boost Performance & Reliability
-June 13, 2025
-Read More »
-10 Game-Changing Reasons Temperature Scan Kiosks Are Revolutionizing Public Safety
-May 28, 2025
-Read More »
-Disaster Communication Solutions with PoE Extenders
-May 21, 2025
-Read More »
-Enable-IT 395 Gigabit PoE++ Injector: 12 Powerful Features That Make It a Must-Have
-May 8, 2025
-Read More »
-Seismic Activity Prediction & Disaster Recovery – Ethernet and PoE Extender Technology Uses
-May 3, 2025
-Read More »
-Improving Shelter for Disaster Recovery Operations – Global Disaster Solutions
-April 15, 2025
-Read More »
-Enable-IT Energizes the Elevator Industry with Rath (Avire)
-April 3, 2025
-Read More »
-Clean Water Disaster Relief Infrastructure for Crisis and Sustainability
-March 28, 2025
-Read More »
-Emergency Medical Disaster Relief aided by Enable-IT PoE
-March 7, 2025
-Read More »
-Global Disaster Solutions powered by Enable-IT
-March 1, 2025
-Read More »
-821QW+ 150W Ultra PoE Extenders Revolutionizing Long-Distance PoE
-February 26, 2025
-Read More »
-Powerline Ethernet Extenders High Voltage Data
-February 20, 2025
-Read More »
-Communications Over Existing High-Powered Tethers: Undersea and Aerial Applications
-February 6, 2025
-Read More »
-821Q 120W PoE Extender Unlock Long Distance IP Camera Installs
-January 27, 2025
-Read More »
-Unlocking Connectivity Potential: Daisy Chain Ethernet Extenders
-January 12, 2025
-Read More »
-Canada Turns to USA-Made Secure Networking Equipment Amid Concerns Over Chinese and Indian Spyware Influence
-January 4, 2025
-Read More »
-Spectacular Oil Exploration Ethernet Tethered ROV Uses
-December 13, 2024
-Read More »
-Congestion Pricing: Revolutionizing Traffic Management in New York City
-December 6, 2024
-Read More »
-Vorp Energy: Powering the Future Off-Grid Solutions 2025
-November 14, 2024
-Read More »
-Coax Powerline Gigabit Ethernet Over High Voltage DC Power at Distance
-November 7, 2024
-Read More »
-PoE Testers (Power over Ethernet tester) Active vs Passive and Wattage Measurement.
-November 1, 2024
-Read More »
-Active PoE – Passive PoE – Key Insights for Maximizing Your Network Efficiency
-October 30, 2024
-Read More »
-The Role of Tethered ROVs in Geology Search and Oil Exploration
-October 20, 2024
-Read More »
-Consultation Prior to Purchasing/ Ensuring You Get the Right Product
-October 11, 2024
-Read More »
-PoE Wattage Draw Accurately Optimize Network Power Efficiency
-October 3, 2024
-Read More »
-Off-Grid Perimeter Security/Empowering Surveillance with Advanced Technology
-October 1, 2024
-Read More »
-Recrimping RJ-45 Heads Despite Fluke Meter Testing
-September 23, 2024
-Read More »
-Social Credit is Communism’s AI Turning You Into Hostages
-September 16, 2024
-Read More »
-RJ11 Vs RJ12 Modular Plug – Understanding the Difference
-September 9, 2024
-Read More »
-Maximize PoE Distance Effortlessly with EnableIT PoE Injectors in 2024
-August 5, 2024
-Read More »
-Deceptive Environmental Marketing – The Truth Behind Chinese Marketing
-July 24, 2024
-Read More »
-Powerful Connectivity Solutions for Outbuilding Reach
-July 18, 2024
-Read More »
-Greenhouse Automation Incredible Sustainability Agriculture 2024
-July 9, 2024
-Read More »
-Enhancing Security and Profitability in Automotive Repair Shop Operations
-June 10, 2024
-Read More »
-Tethered Surveillance Robots for Police Hostage & Building Clearing
-May 27, 2024
-Read More »
-Colossal Wind Farm Energy Generation Leveraging Data Extenders in 2024
-May 6, 2024
-Read More »
-Captivating Archeological Exploration – TIGHAR Amelia Earhart
-May 2, 2024
-Read More »
-Breakthrough PoE In Medical Devices By EnableIT 2024
-May 1, 2024
-Read More »
-Innovative Firetruck Security Surveillance with Mobile PoE 8805M
-April 30, 2024
-Read More »
-Smash Ethernet over Coax Performance Coax to Ethernet Adapters
-April 29, 2024
-Read More »
-Exciting Lunar Moon Base Connectivity for 2024 and Beyond
-April 25, 2024
-Read More »
-Remote Gate Access Control & Camera Power over Long Distances
-April 22, 2024
-Read More »
-Incredible Tethered Aerial Drones For Surveillance in 2024
-April 15, 2024
-Read More »
-Powerful UDT Tethered ROV Saves Lives – Rely on EnableIT 2024
-April 9, 2024
-Read More »
-Awesome WiFi Extender – 821WP PoE Extender
-March 5, 2024
-Read More »
-Smart Parking Systems – Supercharge Efficiency & Coverage in 2024
-March 1, 2024
-Read More »
-Informative SFP Multimode Fiber Type Guide 2024
-February 27, 2024
-Read More »
-Buyer Beware of Made in China WiFi Extenders or LAN Extenders
-February 24, 2024
-Read More »
-Badass Power over Ethernet Enables Digital Signage
-February 23, 2024
-Read More »
-Beware! – 2024 Cyber Threats and how they can affect your Organization
-February 22, 2024
-Read More »
-Empowered Healthcare in 2024 Leverages Power Over Ethernet
-February 8, 2024
-Read More »
-Improved 1 Volcano Monitoring and Volcano Prediction by EnableIT
-January 17, 2024
-Read More »
-Powerful Solutions Industrial Automation 2024
-November 10, 2023
-Read More »
-Elevator Communications – Exceeding Global Safety Standards 2023
-March 21, 2023
-Read More »
-Serious Gamers Switch to Ethernet – 4 points to Understand
-March 14, 2023
-Read More »
-RV Parks 2024 – Wi-Fi Booster or Awesome Ethernet Extenders?
-October 10, 2022
-Read More »
-Ethernet Extenders for Train Communications
-July 20, 2022
-Read More »
-Who invented Ethernet – Robert Metcalfe – When Was Ethernet Invented?
-May 30, 2022
-Read More »
-Ethernet Cable Types | Ethernet Cable Categories Explained – How to Choose the Right Proven Type
-April 29, 2022
-Read More »
-Mini ROV Tech Overview for Offshore Magazine
-February 14, 2022
-Read More »
-Powerful PoE Extender Distance For Your Surveillance Cameras
-February 11, 2022
-Read More »
-Long Ethernet Cable?
-What is the Longest Ethernet Cable Run?
-How Long can an Ethernet cable be?
-January 19, 2022
-Read More »
-How to Extend Your Ethernet Cable:
-5 Proven Methods That Actually Work
-January 17, 2022
-Read More »
-What Is Ethernet? Explained In Simple Terms Enable-IT Expert
-December 10, 2021
-Read More »
-The Top Benefits of using Video Surveillance in the Dairy Industry
-October 5, 2021
-Read More »
-Top 5 Methods for Managing Video Surveillance
-October 2, 2021
-Read More »
-Camera Surveillance 7 Incredible Advantages of using Wired Vs Wireless
-September 29, 2021
-Read More »
-Top 5 Things to Know When Extending Your Ethernet Connections
-September 15, 2021
-Read More »
-Top 7 Tips for Choosing Your Ethernet Hardware
-September 9, 2021
-Read More »
-7 Tips for Setting Up Your Ethernet Infrastructure
-September 3, 2021
-Read More »
-How to Get the Best Throughput from Your Ethernet Extender Solutions
-August 27, 2021
-Read More »
-The Advantages of Power over Ethernet
-August 18, 2021
-Read More »
-PoE Injector vs PoE Splitter
-A Comprehensive Guide for PoE
-August 13, 2021
-Read More »
-How to Extend Ethernet Cable Beyond 100 Meters
-July 14, 2021
-Read More »
-The Future of Remote Working
-July 7, 2021
-Read More »
-Video Security Surveillance Trends Leveraging PoE Extenders
-July 2, 2021
-Read More »
-Enhance Security with PoE Extensions for Surveillance Cameras
-June 28, 2021
-Read More »
-Ethernet Red Flags: How to Stay Protected Against Substandard Equipment
-June 16, 2021
-Read More »
-Your Ethernet Solution is best with Human Technical Support
-June 9, 2021
-Read More »
-Understanding the US Government’s Security Regulations in 2024
-June 1, 2021
-Read More »
-Why You Need an Ethernet Solution that is Ready for Deployment
-May 19, 2021
-Read More »
-821 Mission Critical Ethernet LAN Extender
-June 1, 2016
-Read More »
-How Do Ethernet Extenders Work and Do You Really Need Them?
-October 5, 2015
-Read More »
-Controlling Traffic Flow With Badass 828WP PoEA Extender
-August 30, 2015
-Read More »
-Always Honest And Free Expert Consultations
-July 2, 2015
-Read More »
-Industrial PoE Extender Rackmount DSLAM To 4,000FT
-February 9, 2015
-Read More »
-Waterproof IP68 Rated Ethernet & PoE Extenders
-February 8, 2015
-Read More »
-Secure Encryption by EnableIT – Ethernet Extender With Extended Encryption
-December 20, 2014
-Read More »
-Awesome 2x Mobile Optimized EnableIT Ethernet Extender Content
-December 1, 2014
-Read More »
-Solar Energy Industry Gets Serious About Security
-November 5, 2014
-Read More »
-Hacking WiFi Technology Attempts Increase And How To Stop
-October 10, 2014
-Read More »
-An In-Depth Look At Power Over Ethernet (PoE)
-September 8, 2014
-Read More »
-EnableIT 265LP Protects Your Ethernet Extender From Power Surge And Spikes
-September 8, 2014
-Read More »
-Beware Chinese Cyber Attacks Think Your Network Is Secure?
-August 16, 2014
-Read More »
-What’s in Your Network?
-July 30, 2014
-Read More »
-Expert Technical Support – Missing the 1 Essential Human Connec
+Enable-It Technology in Action, On and Off Planet
+Discover Amazing Enable-IT Technology Uses - Real Solutions. Visit this link above
+“Enable-IT has consistently delivered the highest security solutions for our demanding customers. Unable to use banned Chinese products in your network? Enable-IT made in the USA solutions are Secure and Encrypted for our peace of mind DoD customers."
+R Stone General Dynamics IT Division
+"Unparalleled design and integration support throughout our entire process and ongoing product development for new solutions.”
+S Rubin Teledyne Seabotix
+"Being the former President of an IT Consultant Company called SwiftecIT, my company’s clients constantly faced the issue of Ethernet’s distance barrier. Having read through numerous IT Industry discussion forums found through Google searches, I discovered Enable-IT and their Gigabit Ethernet extenders. Utilizing their products, our customers were able to send Gigabit data to their office computers while simultaneously powering on IP security cameras. Will definitely be using Enable-IT products in the near future!"
+A WInter SwiftecIT, Inc.
+"As a former senior IBM VP, CEO of Perot Systems, CyberSafe and Direct Insite, I know a GREAT product when running it through its paces. Enable-IT products and support have provided exceptional performance in our networks that are some of the largest, most complex financial environments in the world."
+J Cannavino IBM & Direct Insite
+"As the President and CEO of Advanced Concepts, Inc., I swear by the Enable-IT Brand. Enable-IT is our sole source for Ethernet extender products when our customers require them. Being a reseller of certain IT products, you’re always looking for the latest and greatest, that’s what Enable-IT brings to the table. Products are priced exceptionally well (underpriced even in my opinion!), contain all the features my customers need and are the most reliable, quality extenders I’ve come across."
+J Wohlfahrt Advanced Concepts, Inc.
+"Hi there! I just stopped in to give my 2 cents, literally its all I have, to tell y’all about the enabler that I used from the gents that create these fine, dandy products over at Enable-IT. I spoke to a fine, young lass who guided me through your website there to acquire the 860 PRO Ethernet extender product. She was very helpful and spoke ever so softly and slowly so that I may understand (getting a little hard of hearing these days). After making my purchase and receiving the gear delivered right to my farm, I called back and they were kind enough to walk me through, step-by-step, to hook up my enablers to my security camera over in the barn. Yeehaw! Just like that I was able to keep an eye on sweet ole Betsy and all my other critters all cooped up in the barn."
+P-Lucci Three Cedars Farm
+"Providing successful programs to at-risk youth and families requires constant attention and research for innovative techniques and evidence-based methodologies. With the friendly help of the Enable-IT Staff, we were able to get the right product for our office needs. We had no idea such an easy-to-use product was available at such a low cost. It was exactly what we needed."
+C-Danbach VisionQuest
+"We are the world’s largest producer of wood fence boards and situated in remote areas of the upper Northwest forests. As a result, having a high-speed internet connection can be quite the dilemma. The Enable-IT 860 PRO product allows us to produce the smallest form of lumber directly from the log. Without the long outreach and extreme throughput of their products, we would not be able to conduct our business and run our machines as fluidly and precisely as we do now. Not to mention the Advanced Replacement Program we purchased which allows us the peace of mind to have an instant solution if any issues were to arise."
+J Ramsey Alta Forest Products Inc.
+"Having worked in the casino security industry for over 20 years, I know how important it is to have the CCTV systems operational 24/7. With the excellent assistance by the Enable-IT Sales Team and professional quality products they manufacture, I was able to procure, install and maintain our security cameras flawlessly. Even after purchasing the 860 LRE over 4 years ago, I have had no issues or network down time which is an invaluable asset. Thrilled with the performance and overall experience with the guys over at Enable-IT, thank you!"
+M Collier Gold Strike Casino Resort
+"Pape Group exceeds it’s customers service and equipment expectations from its Western US facilities. Enable-IT Ethernet Extenders and PoE extenders have consistently helped us in delivering these expectations more efficiently than our competitors. Our facilities are able to put our LAN’s where we need them, often in harsh environments. Enable-IT is professional made gear just the way we like."
+R Benson Pape Group
+"Our process control systems require mission critical responsiveness that we were unable to get out of any other vendor, except for the experts at Enable-IT and their new 821 LAN extender product. Truly exceptional instant on performance and reliability means we now have the ability to trust and have confidence in solid uninterrupted control of critical systems."
+K Webb Tesco Controls
+"We have been designing, installing, configuring and supporting Local Area Networks (LAN), for 19 years and partnered with Enable-IT in 2008. Enable-IT products have been rock solid reliable in all our installs since day 1. We love gear that is this solid and the Enable-IT brand delivers!"
+M Ruehle TES Technology
+"Being in a remote area of the Canadian Rockies, we rely on products that can tolerate the weather and perform without fuss. Adding in the effects of frequent lightning, our networks need protection with continuous operation. Enable-IT products have consistently delivered this peace of mind for us for over 5 years now. Very pleased with this US made gear."
+K Spongberg Spongberg Enterprises
+"With over 8 years designing a sales engineer in Home AV systems networking, I can be a real pain in the ass prick to people I work with and vendors alike. Nonetheless I have been consistently impressed and rely on the solid quality, performance and ease of use Enable-IT’s Ethernet and PoE extenders provide. I highly recommend Made in the USA equipment and for my choice in network extenders – the 821 Ethernet LAN Extender solution."
+J Stange Pro Home Systems
+"The Travel Trails Center is at the heart of 3 MidWest States: Minnesota, Wisconsin and Iowa. That being said, thousands of motorists and truckers rely on my station to fuel up, sit down and eat, shower, rest, or grab a quick drink. Having various different restaurants, gas pumps, parking lots, showers, etc. I needed a way of operating all the point of sale systems found all over our plaza. My tech guy discovered the Enable-IT 860 Pro through an online search and ended up using this product to leverage our existing telephone wiring. This was HUGE for us because our only other alternative was going fiber and that would have been extremely expensive. Big warm thanks to the team over there for solving our networking needs!"
+D-Trail Travel Trails Center
+"Leveraging technology like this LAN extender behind the scenes helps us immensely in support of our mission in providing life-changing retreats.
+Security is paramount for us as we create environments where leaders can share honestly in a context of privacy and confidentiality in their communications over our networks. Enable-IT is a solid partner to rely on for technology and support."
+P Meyer SonScape Retreats
+"Providing innovative and cost effective technology solutions that exceed our customers satisfaction expectations requires us to carefully choose reliable and secure equipment. We have been pleased with Enable-IT as a responsible and helpful company in providing us with products like the 821 Ethernet LAN Extender."
+S Holtman Xobee Networks
+"I purchased the 820 Ethernet extender after being assisted over the phone by a gentleman from Enable-IT. He walked me through my network topography step-by-step and was able to explain to me very clearly, in English, how the product works and would be a perfect solution for my application. When I received the product, the installation was extremely easy; I just plugged in the power and connected the cabling between my devices and I was up and running. Talk about plug-and-play! After that experience, I will definitely keep them in my back pocket for any future projects."
+W-Pitura Talon Projects, Inc.
+"North Dakota winters can be pretty harsh and we needed solid reliable network extensions that don’t require a person to go out in the elements to troubleshoot. We have been very impressed and happy with the plug and go simplicity and the solid performance with these units and use them in many many locations of our campus."
+J Berg Killdeer Elementary
+"As a global leader in security solutions, we select the best possible equipment exceeding our customers demands. Enable-IT has provided us with incredible products and solutions for over 10 years and the 821 Ethernet LAN Extender has to be the fastest and simplest up and running on the Planet. We rely on professional grade performance, security and mission critical reliability to match our brand. Enable-It delivers!"
+M Bovey Securitas (Diebold)
+"We relentlessly focus on the customer experience—delivering what the customer wants, when they want it. We are proud to be supported by Enable-IT products in our networks and our customers as they deliver excepti

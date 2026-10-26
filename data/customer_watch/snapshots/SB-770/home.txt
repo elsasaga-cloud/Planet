@@ -1,4 +1,4 @@
-# SB-770 lanode.com · home · https://lanode.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-770 lanode.com · home · https://lanode.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Home | don4L's hobbies
 Skip to main content
 don4L's hobbies
@@ -113,10 +113,10 @@ NGC1893 - Tadpoles and Flaming Star
 NGC1907 - Auriga Mosaic
 NGC1931 - Auriga Mosaic
 NGC2236 - Cone and Rosette
-NGC2238 - The Rosette Nebula
 NGC2238 - Cone and Rosette
-NGC2239 - Cone and Rosette
+NGC2238 - The Rosette Nebula
 NGC2239 - The Rosette Nebula
+NGC2239 - Cone and Rosette
 NGC2248 - Cone and Rosette
 NGC2251 - Cone and Rosette
 NGC2252 - Cone and Rosette
@@ -134,8 +134,8 @@ SH2-104 - The Crescent (widefield)
 SH2-105 - Sadr, Crescent and Tulip
 SH2-105 - The Crescent (widefield)
 SH2-106 - The Crescent (widefield)
-SH2-108 - Sadr, Crescent and Tulip
 SH2-108 - The Crescent (widefield)
+SH2-108 - Sadr, Crescent and Tulip
 SH2-112 - The Crescent (widefield)
 Pagination
 Page 1

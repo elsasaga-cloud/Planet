@@ -1,4 +1,4 @@
-# SB-930 Socra Spa. · news_1 · https://socraonline.com/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-930 Socra Spa. · news_1 · https://socraonline.com/blog/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Blog - Socra
 +56 979720669
 ventasweb@socraonline.com
@@ -32,7 +32,7 @@ Read Mas
 El spoofing de correo electrónico casi se duplicó entre abril y mayo
 1 de julio de 2021
 /
-1764
+1765
 Falsificar correos electrónicos es una técnica muy común de los cibercriminales para engañar a las personas que no pueden detectar que son engañados a través de remitentes legítimos. Quizás unos de los delitos más despiadados en relación a...
 Read Mas
 Mas de dos millones de contagios por coronavirus en el Mundo

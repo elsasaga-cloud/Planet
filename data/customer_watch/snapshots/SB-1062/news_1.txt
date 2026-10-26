@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-26T07:56:19Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,10 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1767 result(s)
+1768 result(s)
+Monterrubio Villegas & Odoo: from Manual Processes to an Integrated ERP
+Oct 26, 2026
+Customer Reviews
 STASTO Automation KG: From rigid SAP framework to scalable Odoo solution
 Oct 23, 2026
 Success Stories
@@ -218,9 +221,6 @@ Oct 20, 2026
 Odoo News
 3 Key Lessons for Future HR Leaders: Highlights from our HKBU Workshop
 Oct 20, 2026
-Odoo News
-What is Odoo Education Program? A Unique Business Learning Experience in APAC
-Oct 19, 2026
 Odoo News
 1
 2

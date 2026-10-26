@@ -1,4 +1,4 @@
-# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 YLI Control Acces
 HOME
 PRODUSE
@@ -150,21 +150,21 @@ suport
 Customer Service
 Formular Retur/Service
 contact
-BSW-52 - Controler de acces cu buton iesire, pentru selectarea modului de functionare a amortizoarelor electrice seria SDO
-FLM16-FJ-4-E-RDGN - Buton de iesire, contact NO-COM, LED rosu/verde, montaj Ø16 mm, actionare prin apasare, IP67
-INBIO-4-2PRO-PLUS - Centrala biometrica de control acces IP pentru 4 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
-INBIO-2-2PRO-PLUS - Centrala biometrica de control acces IP pentru 2 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
-QK-M1000BKIT(V2)+ - Kit automatizare porti culisante, controler digital QK-CE24AQ, max. 1000kg, 24Vcc
-S535(BRAK.F) - Suport montare incastrata pentru videointerfoanele IP Akuvox S535
-TA-S922ZMM-O1-W - Terminal de pontaj, portabil, cu comunicatie Wi-Fi, senzor de amprente, cititor de carduri si tastatura
-YK-BAR-TC(V3) - Telecomanda radio cu cod saritor pentru bariere
+GL-KZQ-01 - Cabinet complet echipat pentru controlul a maxim 8 bolarzi hidraulici
+BSW-90 - Controler de acces pentru selectarea modului de functionare a amortizoarelor electrice seria SDO
 FLM19-CASE - Carcasa din plastic, montaj aparent, pentru butoane cu diametru filet M19
-YMP-300 - Electromagnet aplicat de 300 kgf, IP68, rezistent la medii saline
-FL1M-08FW-3-GN - Indicator LED verde, 12–24 Vcc, filet M8, IP65
-MBK-380MC - Suport pentru montarea aparenta a contraplacii electromagnetilor YMP-380M
-S532(BRAK.F) - Suport montare incastrata pentru videointerfoanele S532(IP)
+BXB-S45CB01VF-H-wh-L - Corp bariera cu servomotor 24V, ciclu de utilizare industrial intensiv 100%, brat maxim 4.5m, 1-4 SECUNDE, MTBF 6 milioane
 FLM16-CASE - Carcasa din plastic, montaj aparent, pentru butoane cu diametru filet M16
+PB-16-NO(LED)-bl - Buton de iesire, contact NO, Led semnalizare, filet M16, actionare prin apasare
+GL-QM6-219 - Bolard auto hidraulic din Inox cu diametru de 219mm si inaltime utila de 600mm cu iluminare LED, IP68
+T-LR(V3) - Cititor carduri Mifare 13.56MHz, ecran LCD 3.4” inch pentru citirea cardurilor incuietorilor adresabile T-0880
+INBIO-1-2PRO-PLUS - Centrala biometrica de control acces IP pentru 1 usa, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
 YMP-180-S - Electromagnet aplicat de 180 kgf, IP68, monitorizare NO-COM, rezistent la medii saline
+FL1M-08FW-3-RD - Indicator LED rosu, 12–24 Vcc, filet M8, IP65
+S532(BRAK.F) - Suport montare incastrata pentru videointerfoanele S532(IP)
+FL1M-08FW-3-GN - Indicator LED verde, 12–24 Vcc, filet M8, IP65
+QK-M1000BKIT(V2)+ - Kit automatizare porti culisante, controler digital QK-CE24AQ, max. 1000kg, 24Vcc
+S535 - Video interfon IP SIP, post de apel cu ecran touchscreen de 5”, Linux, BLE 5.0, recunoaștere facială, NFC, cod QR
 Noutati
 Supraveghere video Dahua
 YLI CONTROL ACCES anunță cu plăcere parteneriatul de distribuție cu Zhejiang Dahua Technology Co., Ltd. (Dahua Technology), unul din liderii mondiali furnizor de serv....

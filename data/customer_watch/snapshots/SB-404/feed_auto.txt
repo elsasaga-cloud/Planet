@@ -1,4 +1,4 @@
-# SB-404 teamac-arabia.com · feed_auto · https://www.teamac-arabia.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-404 teamac-arabia.com · feed_auto · https://www.teamac-arabia.com/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Thu, 23 Apr 2015 08:41:07 +0000	Building Management	https://www.teamac-arabia.com/building-management/
 Thu, 23 Apr 2015 08:40:40 +0000	Low Current Systems	https://www.teamac-arabia.com/low-current-systems/
 Thu, 23 Apr 2015 08:40:15 +0000	Variable Speed Drives	https://www.teamac-arabia.com/variable-speed-drives/

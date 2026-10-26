@@ -1,4 +1,4 @@
-# SB-940 cominet.co.kr · news_1 · http://cominet.co.kr/bbs/board.php?bo_table=notice · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-940 cominet.co.kr · news_1 · http://cominet.co.kr/bbs/board.php?bo_table=notice · fetched 2026-10-26T07:56:19Z · HTTP 200
 News & Informations 1 페이지 | Cominet
 주메뉴
 Company
@@ -46,22 +46,22 @@ Cominet
 31
 MDDS, MADS 상표출원
 Cominet
-175
+176
 07-10
 30
 New "MDDS & 이동형 AI 드론기지 방공시스템" / New AI Drone Base Air Defen…
 Cominet
-177
+178
 07-10
 29
 Up-dated “P.Q & Company Introduction”
 Cominet
-934
+936
 01-23
 28
 (Norma - Cominet - Mets)_ Distributorship Certificate
 Cominet
-1033
+1034
 01-19
 27
 보안뉴스(20241111일자) 보도 기사 / 컴이넷, 사우디아라비아에 양자 CCTV 시스템 본격 진출
@@ -71,7 +71,7 @@ Cominet
 26
 보안뉴스(20241010일자) 보도 기사 / 컴이넷, 전기차 화재감시용 열적외선 카메라 출시
 Cominet
-1324
+1325
 10-11
 25
 보안뉴스(20240923일자) 보도 기사 / 컴이넷, 양자암호 CCTV 보안시스템 출시
@@ -81,17 +81,17 @@ Cominet
 24
 R&D Membership Certificate of ‘Quantum Security R&D Center”
 Cominet
-1309
+1310
 08-02
 23
 Invitation to “LEAP 2024 K.S.A"
 Cominet
-1676
+1678
 02-22
 22
 METS, Authorized Distributor in Saudi Arabia (K.S.A)
 Cominet
-2091
+2092
 01-22
 21
 Membership Certificate of KOITA (Quantum Security R&D Center…

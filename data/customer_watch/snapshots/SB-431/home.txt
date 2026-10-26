@@ -1,4 +1,4 @@
-# SB-431 protekna.com · home · https://www.protekna.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-431 protekna.com · home · https://www.protekna.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Protekna - Prodotti e tecnologie per l'automazione
 ita
 eng
@@ -320,6 +320,26 @@ BATTERIE
 CONNETTORI CABLATI
 Prodotti in offerta
 Offerta
+VFD037EL43A
+DELTA ELECTRONICS
+Inverter trifase 3x400Vac serie VFD-EL (0-599Hz), IP20 da 3,7Kw H.D. con filtro EMC - completo di tastiera ...
+Prezzo
+€ 312,20
+€ 190,00
+Oltre 5 pezzi:
+€ 301,20
+€ 175,00
+Offerta
+NPort W2150A-EU
+dism
+1-port wireless device server, 3-in-1, 802.11a/b/g/n WLAN EU band, 12 to 48 VDC, 0 to 55°C operating temper...
+Prezzo
+€ 367,70
+€ 280,00
+Oltre 5 pezzi:
+€ 354,10
+€ 280,00
+Offerta
 DRF-24V960W3GBA
 DELTA ELECTRONICS
 Power supply FORCE GT Series 24Vcc 40 Amp 3 x 320-575Vac (3-Phase) or 2 x 340-575Vac (2-Phase) Temperature...
@@ -349,16 +369,6 @@ Prezzo
 Oltre 5 pezzi:
 € 162,20
 Offerta
-VFD037EL43A
-DELTA ELECTRONICS
-Inverter trifase 3x400Vac serie VFD-EL (0-599Hz), IP20 da 3,7Kw H.D. con filtro EMC - completo di tastiera ...
-Prezzo
-€ 312,20
-€ 190,00
-Oltre 5 pezzi:
-€ 301,20
-€ 175,00
-Offerta
 81.000.6180.0
 WIELAND
 P3 24-20 A ALIMENTATORE TRIFASE 340/575 VAC 20A TEMP. DI LAVORO DA -30°C a+71°C CON DER. A 60°C
@@ -368,16 +378,6 @@ Prezzo
 Oltre 5 pezzi:
 € 592,20
 € 80,00
-Offerta
-NPort W2150A-EU
-dism
-1-port wireless device server, 3-in-1, 802.11a/b/g/n WLAN EU band, 12 to 48 VDC, 0 to 55°C operating temper...
-Prezzo
-€ 367,70
-€ 280,00
-Oltre 5 pezzi:
-€ 354,10
-€ 280,00
 I nostri marchi
 Hai bisogno di aiuto?
 +39 045 860 0998

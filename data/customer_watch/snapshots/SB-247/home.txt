@@ -1,4 +1,4 @@
-# SB-247 jpg.lt · home · https://jpg.lt/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-247 jpg.lt · home · https://jpg.lt/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt
 Vaizdo stebėjimas
 Vaizdo stebėjimo sistemos
@@ -20,6 +20,9 @@ AJAX signalizacija
 GPS sekliai, priedai
 GPS sekliai
 Priedai
+Šviesi
+Tamsi
+Kaip sistemoje
 svečias
 Prisijungti
 Užsiregistruoti

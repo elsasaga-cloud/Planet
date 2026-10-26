@@ -1,4 +1,4 @@
-# SA-056 B&S electronics · sitemap · https://bselectronics.gr/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SA-056 B&S electronics · sitemap · https://bselectronics.gr/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
 2020-03-07T09:04:12+02:00	https://bselectronics.gr/tcctv-1205-4c
 2020-03-13T09:18:59+02:00	https://bselectronics.gr/tcctv-1210-9c
 2020-03-13T09:19:23+02:00	https://bselectronics.gr/tcctv-1216-16c

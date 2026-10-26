@@ -1,4 +1,4 @@
-# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,50 +75,34 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
-DC pojistka Carspa 1000V 10A, 10x38mm
-Válcová DC pojistka 10 A / 1000 V kategorie gPV pro jištění fotovoltaických stringů. Rozměr 10 × 38 mm pro odpovídající pojistkovou základnu nebo držák MC4, zpožděná charakteristika a provoz -40 až +90 °C.
-40 Kč bez DPH
-48 Kč s DPH
+SOLARFAM AST-H6 Sodium-Ion autobaterie 12V 45Ah Start-Stop
+Sodíko-iontová startovací autobaterie 12 V / 45 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 850 A, rozměry 278 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
+3 900 Kč bez DPH
+4 719 Kč s DPH
 Novinka
 Porovnat
-skladem
+Není skladem
 Přidat do košíku
-Jistič DC 10A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
-Dvoupólový DC jistič 10 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
-209 Kč bez DPH
-253 Kč s DPH
+MikroTik L14G-2ax-BT5-HL9&EG800Q, KNOT Gateway HL9
+Venkovní IoT gateway s Wi-Fi HaLow 915 MHz, Bluetooth 5.1, Wi-Fi 2,4 GHz až 287 Mb/s, Ethernetem a GNSS. LTE Cat1 až 10/5 Mb/s, nanoSIM i eSIM. Krytí IP66, napájení přes PoE nebo DC svorkovnici; montáž na stožár či stěnu.
+2 625 Kč bez DPH
+3 176 Kč s DPH
 Novinka
 Porovnat
-skladem
+Není skladem
 Přidat do košíku
-Bateriový nabíjecí, propojovací kabel 2 m, 4 mm2, M8 – dutinka, pár (RVV4-M8-2)
-Pár bateriových kabelů délky 2 m s průřezem 4 mm2, zakončených očkem M8 a dutinkou. Měděné jádro s PVC izolací, proudová zatížitelnost 30 A a vnější průměr 5 mm. Červený a černý kabel pro baterie, nabíječky a měniče.
-273 Kč bez DPH
-330 Kč s DPH
+SOLARFAM AST-H8 Sodium-Ion autobaterie 12V 75Ah Start-Stop
+Sodíko-iontová startovací autobaterie 12 V / 75 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 1200 A, rozměry 354 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
+5 625 Kč bez DPH
+6 806 Kč s DPH
 Novinka
 Porovnat
-skladem
+Není skladem
 Přidat do košíku
 Teltonika PR328EUB Pasivní Gigabitový PoE injektor, 24V, 30W
 Gigabitový pasivní PoE injektor s výstupem 24 V / 1,25 A, maximálně 30 W. Přenos 10/100/1000 Mb/s a napájení na pinech 4,5 (+) a 7,8 (-). Stínění a LED indikace usnadňují napájení kompatibilních síťových prvků.
 374 Kč bez DPH
 453 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Cudy M1300S Wi-Fi Mesh System, AC1200, 3 pack
-Dvoupásmový mesh systém Wi-Fi 5 AC1200 se třemi jednotkami, rychlostmi 300 + 866 Mb/s a roamingem. Každá jednotka má gigabitový LAN a LAN/WAN port. Režimy router/AP/klient a VPN včetně OpenVPN a WireGuard; vzdálená správa TR069.
-1 870 Kč bez DPH
-2 263 Kč s DPH
-Novinka
-Porovnat
-Není skladem
-Přidat do košíku
-EcoFlow Alternátorový nabíječ 600 W, 1ECOALTCHARG600-EU
-Alternátorový nabíječ pro 12/24V vozidla dobíjí přenosnou bateriovou stanici za jízdy výkonem až 600 W. Wi-Fi a Bluetooth doplňuje údržba autobaterie do 100 W a zpětné nabíjení, oba režimy s kabelem XT150 pořizovaným samostatně.
-5 179 Kč bez DPH
-6 267 Kč s DPH
 Novinka
 Porovnat
 skladem
@@ -131,29 +115,45 @@ Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Bateriový nabíjecí, propojovací kabel 2 m, 4 mm2, Svorka - Dutinka, pár (RVV4-CLIP-2)
-Pár bateriových kabelů délky 2 m s průřezem 4 mm2, zakončených svorkou a dutinkou. Měděné jádro s PVC izolací, proudová zatížitelnost 30 A a vnější průměr 5 mm. Červený a černý kabel pro baterie, nabíječky a měniče.
-297 Kč bez DPH
-359 Kč s DPH
+Solární panel SOLARFAM 180W mono, 1230x705x30mm, OBOUSTRANNÝ, černý rám
+Oboustranný monokrystalický solární panel 180 W s články Shingle, účinností až 22 % a černým rámem. Rozměry 1230 × 705 × 30 mm, konektory MC4 a bypass diody. Při osvětlení zadní strany může zvýšit výrobu energie až o 15 %.
+1 579 Kč bez DPH
+1 911 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Solární panel SOLARFAM 150W, 1294x610x2mm, montážní oka, CPC, flexibilní, Černý
-Černý flexibilní monokrystalický solární panel 150 W pro karavany, jachty a čluny. Rozměry 1294 × 610 × 2 mm, ohyb až 20° a montážní oka po obvodu. Povrch CPC odolává povětrnostním vlivům; vodotěsné provedení.
-1 893 Kč bez DPH
-2 291 Kč s DPH
+SOLARFAM AST-H7 Sodium-Ion autobaterie 12V 60Ah Start-Stop
+Sodíko-iontová startovací autobaterie 12 V / 60 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 1050 A, rozměry 315 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
+4 688 Kč bez DPH
+5 672 Kč s DPH
+Novinka
+Porovnat
+Není skladem
+Přidat do košíku
+Jistič DC 16A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
+Dvoupólový DC jistič 16 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
+230 Kč bez DPH
+278 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Jistič DC 50A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
-Dvoupólový DC jistič 50 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
-245 Kč bez DPH
-296 Kč s DPH
+Jistič DC 32A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
+Dvoupólový DC jistič 32 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
+230 Kč bez DPH
+278 Kč s DPH
 Novinka
 Porovnat
 skladem
+Přidat do košíku
+MikroTik IAQM-THC2PV-W, CLAIRÉ monitor kvality vzduchu, bílý
+Bílý monitor kvality vnitřního vzduchu s měřením CO2, PM2,5, PM10, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
+1 750 Kč bez DPH
+2 118 Kč s DPH
+Novinka
+Porovnat
+Není skladem
 Přidat do košíku
 Přejít do poradny
 Aktuality

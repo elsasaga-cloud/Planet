@@ -1,4 +1,4 @@
-# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Ajax Multi-transmitter
 Trade Register
 Products
@@ -104,6 +104,7 @@ Support
 Webinars
 Alarms & Home Automation
 Ajax Wireless
+Indoor Sensors
 Accessories
 Air Quality Sensors
 Automation
@@ -113,7 +114,6 @@ Controls & Panic Buttons
 Doorbells
 Fire Detection
 Flood Prevention
-Indoor Sensors
 Keypads
 Outdoor Sensors
 Range Extenders

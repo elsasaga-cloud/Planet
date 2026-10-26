@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCpr_pD42oLhqArvw8e6EwdQ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-420 cdr.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCpr_pD42oLhqArvw8e6EwdQ · fetched 2026-10-26T07:56:19Z · HTTP 200
 2023-07-26T07:57:08+00:00	MikroTik 5009UPr+S+OUT unboxing	https://www.youtube.com/watch?v=NUy4qpksPt0
 2023-06-15T13:12:27+00:00	MikroTik C53UiG+5HPaxD2HPaxD hAP ax³ unboxing + Ethernet speed test	https://www.youtube.com/watch?v=uDG3IS0HOM8
 2023-04-05T08:13:12+00:00	💡 Poradnik ISP | # 07 | Dodawanie terminala ONT do OLTa	https://www.youtube.com/watch?v=JnDQoNywpp0

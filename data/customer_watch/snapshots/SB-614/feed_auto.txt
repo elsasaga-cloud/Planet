@@ -1,3 +1,2 @@
-# SB-614 focomm-cabling.com · feed_auto · https://www.focomm-cabling.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 403
-403 Forbidden
-nginx
+# SB-614 focomm-cabling.com · feed_auto · https://www.focomm-cabling.com/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+Tue, 23 Sep 2025 03:18:53 +0000	โฟคอมม์ ลงนาม MOU กับมหาวิทยาลัยกาฬสินธุ์ เสริมศักยภาพนักศึกษา	https://www.focomm-cabling.com/focomm-thailand-mou-kalasin-university/

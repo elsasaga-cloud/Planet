@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -465,13 +465,13 @@ Kurzy
 Přihlaste se
 Zaregistrujte se
 Pomoc
-Signal Pro
-Multiswitche Signal Pro
-nová řada multiswitchů
-Dozvědět se více
 Signal Fire Welding Machines
 Signal Fire Welding Machines – which model is right for you?
 Which model is right for you?
+Dozvědět se více
+Signal Pro
+Multiswitche Signal Pro
+nová řada multiswitchů
 Dozvědět se více
 Doporučené produkty
 Nové produkty Novinky
@@ -612,8 +612,8 @@ Předchozí nejnižší cena: 965,82 Kč
 774,25 Kč bez DPH
 Zobrazit všechny
 V posledním zpravodaji
-Kamera, která „vidí“ skrz mlhu.
-Vědci z Brownovy univerzity vyvinuli zobrazovací systém inspirovaný fungováním lidského zraku, který umožňuje detekovat a sledovat pohybující se objekty skryté v mlze nebo kalné vodě. Řešení kombinuje událostní kameru (event camera) s impulzní neuronovou sítí (SNN – Spiking Neural Network ). Na rozdíl od tradiční kamery, která zaznamenává jednotlivé celé snímky, reaguje událostní kamera na změny jasu v jednotlivých pixelech. Jakmile změna překročí stanove...
+Terénní testy technologie 6G. Komunikace v pásmu 7 GHz ověřena mimo laboratoř.
+Společnosti Ericsson a Verizon oznámily provedení jednoho z prvních terénních testů komunikace využívající technologii 6G v pásmu 7 GHz na světě. Testování proběhlo v kalifornském Concordě, v areálu fungující základnové stanice amerického operátora. V rámci tohoto projektu se poprvé podařilo navázat spojení s využitím předstandardizovaného systému 6G v reálném venkovním prostředí, což představuje významný krok směrem k vývoji budoucích mobilních sítí....
 Pokračovat ve čtení
-Výsledky 25. ročníku fotografické soutěže DIPOLa „Zajímavosti o anténách“.
-Vážení, již po pětadvacáté máme tu čest předat ceny vítězům a oceněným v naší soutěži. Již čtvrt století společně budujeme galerii úžasných fotografií s anténami. Níže najdete fotografie, které podle poroty patřily letos k těm nejlepším. Ještě jednou děkujeme za účast a těšíme se na vás v příš
+Kaskádové zapojení modulátorů DVB-T Signal.
+Modulátory Signal-420 R86700 umožňují distribuci digitálního signálu HD v koaxiálním kabelu, jehož zdrojem mohou být mimo jiné zařízení jako: multimediální přehrávače, DVR rekordéry, Blu-ray přehrávače, stolní počítače, notebooky nebo set-top boxy (STB). V případě, že mají být v in

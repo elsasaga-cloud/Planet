@@ -1,4 +1,4 @@
-# SB-050 PT. ANUGERAH · home · https://pt-aag.co.id/ · fetched 2026-10-25T07:41:18Z · HTTP 500
+# SB-050 PT. ANUGERAH · home · https://pt-aag.co.id/ · fetched 2026-10-26T07:56:19Z · HTTP 500
 Requirements Not Met
 Your PHP installation appears to be missing the MySQL extension which is required by WordPress.
 Please check that the mysqli PHP extension is installed and enabled.

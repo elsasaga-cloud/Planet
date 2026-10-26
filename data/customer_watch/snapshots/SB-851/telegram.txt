@@ -1,4 +1,4 @@
-# SB-851 tayle.ru · telegram · https://t.me/s/taylenews · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-851 tayle.ru · telegram · https://t.me/s/taylenews · fetched 2026-10-26T07:56:19Z · HTTP 200
 ТАЙЛЕ – Telegram
 ТАЙЛЕ
 @taylenews
@@ -57,7 +57,7 @@ AEM представила FiBLU - решение для сертификаци�
 Please open Telegram to view this post
 VIEW IN TELEGRAM
 👍 2
-211 views
+213 views
 ТАЙЛЕ
 🔎 А чем мы тестируем?
 Продолжаем рассказывать о сервисе тестирования. Сегодня заглянем немного «за кулисы» и познакомимся с оборудованием, с которым работают наши специалисты.
@@ -81,7 +81,7 @@ TestPRO CV100
 Please open Telegram to view this post
 VIEW IN TELEGRAM
 👍 6
-237 views
+238 views
 ТАЙЛЕ
 Please open Telegram to view this post
 VIEW IN TELEGRAM
@@ -134,7 +134,7 @@ VIEW IN TELEGRAM
 Please open Telegram to view this post
 VIEW IN TELEGRAM
 👍 3
-217 views
+219 views
 ТАЙЛЕ
 Когда одному ядру становится тесно!
 Представьте: количество оптических каналов растёт, а прокладывать дополнительные кабели не нужно. Звучит заманчиво, особенно для современных ЦОД, где каждый сантиметр пространства на счету.
@@ -148,7 +148,7 @@ VIEW IN TELEGRAM
 Please open Telegram to view this post
 VIEW IN TELEGRAM
 👍 4
-233 views
+235 views
 ТАЙЛЕ
 А вы задумывались, кто придумал изоляцию для кабелей?
 Сегодня сложно представить кабель без защитной оболочки. А ведь когда-то провода обматывали обычным шёлком и хлопком! И это было только начало.
@@ -161,7 +161,7 @@ VIEW IN TELEGRAM
 Please open Telegram to view this post
 VIEW IN TELEGRAM
 🔥 6
-267 views
+270 views
 ТАЙЛЕ
 👀 Есть кое-что новое!
 Давно не заглядывали на страницу курсов СКС NIKOMAX? Тогда у нас есть повод вас туда пригласить!
@@ -174,7 +174,7 @@ VIEW IN TELEGRAM
 Please open Telegram to view this post
 VIEW IN TELEGRAM
 🔥 5 ❤ 2
-276 views
+278 views
 ТАЙЛЕ
 Media is too big
 VIEW IN TELEGRAM
@@ -189,7 +189,7 @@ VIEW IN TELEGRAM
 Please open Telegram to view this post
 VIEW IN TELEGRAM
 🔥 4
-213 views
+217 views
 ТАЙЛЕ
 Новое решение для ЦОД!
 Искусственный интеллект набирает обороты, а вместе с ним растут требования к инфраструктуре центров обработки данных. Вычислительные мощности увеличиваются, оптических соединений становится всё больше, а свободного места в серверных стойках - нет.

@@ -1,4 +1,4 @@
-# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-10-26T07:56:19Z · HTTP 200
 Nauji produktai - Katalita.lt
 0
 Turite klausimų? Tel: +370 603 03213 ,
@@ -347,6 +347,12 @@ TELTONIKA ENERGY, UAB
 TELTONIKA TELEMATICS, UAB
 Your browser does not support the video tag.
 Nauji produktai
+2026-10-23
+MIKROTIK Air Quality Monitor CLAIRÉ, White (IAQM-THC2PV-W)
+Wireless Protocols: Matter over Thread, Bluetooth (device setup only) | Monitors temperature, humidity, carbon dioxide (CO₂) and VOC concentration in real time | Particulate matter sensors (PM2.5 and PM10) | Temperature Range: 0° – +50°C | Humidity Range and Precision: 0 – 100% RH | VOC Detection Range : 1~500 index points | Full-color 2" display | Powering: USB Type-C socket or 5VDC terminal connector for LPS adapter
+2026-10-23
+MIKROTIK Air Quality Monitor CLAIRÉ, Gray (IAQM-THC2PV-G)
+Wireless Protocols: Matter over Thread, Bluetooth (device setup only) | Monitors temperature, humidity, carbon dioxide (CO₂) and VOC concentration in real time | Particulate matter sensors (PM2.5 and PM10) | Temperature Range: 0° – +50°C | Humidity Range and Precision: 0 – 100% RH | VOC Detection Range : 1~500 index points | Full-color 2" display | Powering: USB Type-C socket or 5VDC terminal connector for LPS adapter
 2026-10-19
 MIKROTIK IoT Gateway KNOT LR8 (L14G-2ax-BT5-LR8&EG800K)
 LoRa® 868MHz | CAT1 bis LTE modem | nanoSIM/eSIM | Wi-Fi 6 2.4 GHz wireless (802.11b/g/n/ax) | Bluetooth (V5.1) | Gigabit Ethernet | PoE-In (af/at) & surge protection | Multi- GNSS GPS | IP66 | Router OS (Licence level 4)
@@ -357,17 +363,17 @@ Wireless Protocols: Zigbee 3.0, Bluetooth | Wi-Fi IEEE 802.11 a/b/g/n/ac 2.4/5 G
 UBIQUITI Indoor/outdoor, 2x2 MU-MIMO, 2.4/5 GHz, WiFi 7 Access Point WiFi 7 Mesh (U7-Mesh)
 Aggregated wireless data transfer speed up to 5 Gbps | 2.4/5 GHz | Standards 802.11a/b/g/n/ac/ax/be is supported | MU-MIMO 2×2 | PoE 802.3af supported | IPX6-rated | WiFi 7
 2026-09-25
-UBIQUITI UniFi Protect G6 Mini Dome Camera, Black (UVC-G6-Mini-Dome-B)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | H.264 | Up to 20 m (65 ft) IR night vision | AI event detections (Multi-TOPS AI Engine) | Two-way audio | IK08 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
-2026-09-25
-UBIQUITI UniFi Protect G6 Mini Dome Camera, White (UVC-G6-Mini-Dome-W)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | H.264 | Up to 20 m (65 ft) IR night vision | AI event detections (Multi-TOPS AI Engine) | Two-way audio | IK08 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
+UBIQUITI UniFi Protect G6 Pro Dome Camera, White (UVC-G6-Pro-Dome-W)
+4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | 2.36x Optical Zoom (F 5.9-13.8 mm, ƒ/1.5 to ƒ/2.9) | H.264 | Up to 40 m (131 ft) IR night vision | AI event detections | Microphone | IP66/IK10 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
 2026-09-25
 UBIQUITI UniFi Protect G6 Pro Dome Camera, Black (UVC-G6-Pro-Dome-B)
 4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | 2.36x Optical Zoom (F 5.9-13.8 mm, ƒ/1.5 to ƒ/2.9) | H.264 | Up to 40 m (131 ft) IR night vision | AI event detections | Microphone | IP66/IK10 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
 2026-09-25
-UBIQUITI UniFi Protect G6 Pro Dome Camera, White (UVC-G6-Pro-Dome-W)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | 2.36x Optical Zoom (F 5.9-13.8 mm, ƒ/1.5 to ƒ/2.9) | H.264 | Up to 40 m (131 ft) IR night vision | AI event detections | Microphone | IP66/IK10 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
+UBIQUITI UniFi Protect G6 Mini Dome Camera, White (UVC-G6-Mini-Dome-W)
+4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | H.264 | Up to 20 m (65 ft) IR night vision | AI event detections (Multi-TOPS AI Engine) | Two-way audio | IK08 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
+2026-09-25
+UBIQUITI UniFi Protect G6 Mini Dome Camera, Black (UVC-G6-Mini-Dome-B)
+4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | H.264 | Up to 20 m (65 ft) IR night vision | AI event detections (Multi-TOPS AI Engine) | Two-way audio | IK08 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
 2026-09-22
 TP-LINK Omada 4G+ Cat6 AX3000 Wi-Fi 6 Vidau/Lauko Sąlygų Šliuzas (ER703WP-4G-Outdoor)
 4G+ Cat6 iki 300 Mbps | 1x nano SIM kortelės lizdas | 3x gigabitinės RJ45 LAN/WAN jungtys (2 × PoE Out, 1 × PoE In) | AX3000 Wi-Fi 6 su 2402 Mbps per 5 GHz ir 574 Mbps per 2.4 GHz | 802.3at/bt PoE arba 12V/2A DC maitinimas | WPA3 | IP55 pritaikytas lauko sąlygom
@@ -376,13 +382,4 @@ UBIQUITI Dream Router 5G Max (UDR-5G-Max)
 Default WAN ports: 1x 10G SFP+ port, 1x 2.5 Gigabits RJ45 port | LAN ports: 1x 10G SFP+ port, 4x 2.5 Gigabits RJ45 ports (1x PoE out) | 1x MicroSD Card | Dual SIM/eSIM | High-performance 5G (3.4 Gbps) Modem | 802.11a/b/g/n/ac/ax/be (WiFi 6/6E, WiFi 7) | WPA3 | 4.7" touchscreen
 2026-09-17
 TP-LINK Omada Dual-Band Directional/Omnidirectional BE5000 4-Stream Outdoor Wi-Fi 7 Access Point (EAP725-OUTDOOR)
-1x 2.5 Gigabits LAN port (supports IEEE802.3at) | Omnidirectional Antennas: 2.4 GHz: 2× 4.5 dBi, 5 GHz: 2× 5.3 dBi, Directional Antennas: 2.4 GHz: 2× 8.3 dBi, 5 GHz: 2× 13.2 dBi | Wireless Standards: IEEE 802.11be/ax/ac/n/g/b/a (Wi-Fi 7) | Simultaneous 688 Mbps on 2.4GHz, 4324 Mbps on 5GHz Speeds | Recommended True Dual-Band Omnidirectional Coverage: 300m2 (3,200ft2), Directional Coverage: 510m2 (5,500ft2) | Free Omada App, Centralized Management, Cloud Access
-2026-09-09
-MIKROTIK 802.3af/at PoE to 24V Passive PoE Converter (GPOE-CON-mini)
-2x 2.5 Gigabits RJ45 ports | Max total output: 0.635A | Fits inside the GPeR-IP67-Case
-2026-09-02
-UBIQUITI UniFi Vape Detection & Air Quality Sensor (UP-AirQuality)
-PoE-powered sensor delivering real-time vape detection, air quality monitoring, and instant alerts for schools, workplaces, hospitality, and commercial environments
-2026-08-28
-AQARA Camera Hub G350 (CH-C14D)
-4K (3840x2160) Ultra HD Dual-Lens | 9X Hybrid Zoom | 133° Wide-angle lens (diagonal) | Wi-Fi IEEE 802.11b/g/n/a/ac/ax 2.4/
+1x 2.5 Gigabits LAN port (supports IEEE802.3at) | Omnidir

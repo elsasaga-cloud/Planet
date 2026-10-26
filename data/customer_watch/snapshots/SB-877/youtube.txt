@@ -1,4 +1,5 @@
-# SB-877 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-10-25T07:41:18Z · HTTP 200
+# SB-877 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-10-26T07:56:19Z · HTTP 200
+2026-10-26T06:00:31+00:00	ИИ в видеонаблюдении: что реально работает, а что остаётся красивым демо	https://www.youtube.com/watch?v=srpRnpC5TSQ
 2026-09-14T15:00:16+00:00	3 типа коммутаторов: неуправляемый, Smart, управляемый shorts	https://www.youtube.com/shorts/Gbns63hOzDY
 2026-09-13T16:00:09+00:00	Три вопроса при выборе коммутатора shorts	https://www.youtube.com/shorts/sL7CCsjYkug
 2026-09-12T09:00:16+00:00	Управляемый и неуправляемый коммутатор. В чём разница? shorts	https://www.youtube.com/shorts/ORL4_aiWIFE
@@ -13,4 +14,3 @@
 2026-08-11T05:00:26+00:00	КАК ВЫБРАТЬ СЕТЕВОЕ ОБОРУДОВАНИЕ? Для видеонаблюдения	https://www.youtube.com/watch?v=zXy1_eO1zwk
 2026-06-28T06:00:09+00:00	Охранная система TRASSIR СКУД	https://www.youtube.com/shorts/dlIpJKPqH-I
 2026-06-27T06:00:23+00:00	Контроль СКУД РС ЕБС	https://www.youtube.com/shorts/CDtGsPnYdKQ
-2026-06-08T14:46:25+00:00	Цифровая основа сети	https://www.youtube.com/shorts/9j46-1EtQSg
