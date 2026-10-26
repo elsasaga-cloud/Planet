@@ -43,7 +43,7 @@ def main(args):
 def show(code):
     if code.startswith('旧'):
         return
-    for p in glob.glob(os.path.join(ROOT, 'Saga Clients', '*', code + '-*.md')):
+    for p in glob.glob(os.path.join(ROOT, 'Saga Clients', '*', '**', code + '-*.md'), recursive=True):
         print('   档案：' + os.path.relpath(p, ROOT))
 
 

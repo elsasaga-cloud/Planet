@@ -147,9 +147,27 @@ def blanket_files():
     return out
 
 
+def snapshot_md(mapping=None, dead_map=None):
+    """把当前全部客户 MD 按编号存快照（/tmp），供 render 后 --restore-dates 比对；不带映射时 = 原编号。"""
+    old_md = {}
+    for g in 'ABC':
+        for dp, _dns, fns in os.walk(f'Saga Clients/{g}'):
+            for fn in fns:
+                m = re.match(r'(S[ABC]-\d+)-', fn)
+                if m and fn.endswith('.md'):
+                    old_md[m.group(1)] = open(os.path.join(dp, fn), encoding='utf-8').read()
+    mapping = mapping or {c: c for c in old_md}
+    json.dump({'mapping': mapping, 'dead': dead_map or {}, 'old_md': old_md}, open(SNAP_OLD_MD, 'w', encoding='utf-8'), ensure_ascii=False)
+    return old_md
+
+
 def main():
     if '--restore-dates' in sys.argv:
         return restore_dates()
+    if '--snapshot-md' in sys.argv:
+        # 目录结构调整 / 纯重渲染前用：python3 renumber.py --snapshot-md → render.py → renumber.py --restore-dates
+        print(f'MD 快照 {len(snapshot_md())} 份 → {SNAP_OLD_MD}')
+        return
     ents, mapping, dead_map = build_mapping()
     mapper = make_mapper(mapping, dead_map)
     print(f'实体 {len(ents)}；映射 {len(mapping)}；死号 {len(dead_map)}')
@@ -162,13 +180,7 @@ def main():
         for c, n in sorted(dead_map.items()):
             w.writerow([c, n, '—', '（死号：已归并/失效，仅改写以免与新号混淆）', ''])
     # 1. 旧 MD 快照（保留 updated 日期用）：按旧编号 → 内容
-    old_md = {}
-    for g in 'ABC':
-        for fn in os.listdir(f'Saga Clients/{g}'):
-            m = re.match(r'(S[ABC]-\d+)-', fn)
-            if m and fn.endswith('.md'):
-                old_md[m.group(1)] = open(f'Saga Clients/{g}/{fn}', encoding='utf-8').read()
-    json.dump({'mapping': mapping, 'dead': dead_map, 'old_md': old_md}, open(SNAP_OLD_MD, 'w', encoding='utf-8'), ensure_ascii=False)
+    snapshot_md(mapping, dead_map)
     # 2. 登记簿：值映射、死键删除、next 重置
     reg = json.load(open(f'{DATA}/编号登记.json', encoding='utf-8'))
     keys = {}
@@ -249,10 +261,11 @@ def restore_dates():
     mapper = make_mapper(mapping, dead_map)
     new_path = {}
     for g in 'ABC':
-        for fn in os.listdir(f'Saga Clients/{g}'):
-            m = re.match(r'(S[ABC]-\d+)-', fn)
-            if m and fn.endswith('.md'):
-                new_path[m.group(1)] = f'Saga Clients/{g}/{fn}'
+        for dp, _dns, fns in os.walk(f'Saga Clients/{g}'):
+            for fn in fns:
+                m = re.match(r'(S[ABC]-\d+)-', fn)
+                if m and fn.endswith('.md'):
+                    new_path[m.group(1)] = os.path.join(dp, fn)
     kept = restored = differ = 0
     for old, content in old_md.items():
         new = mapping.get(old)

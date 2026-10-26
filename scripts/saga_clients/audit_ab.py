@@ -253,7 +253,7 @@ def pairs_in(text):
 
 
 def md_path(code, grade):
-    g = glob.glob(os.path.join(OUT_DIR, grade, f'{code}-*.md'))
+    g = glob.glob(os.path.join(OUT_DIR, grade, '**', f'{code}-*.md'), recursive=True)
     return g[0] if g else None
 
 

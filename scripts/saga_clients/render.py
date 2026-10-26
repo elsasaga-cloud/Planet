@@ -13,7 +13,7 @@ import re
 import shutil
 from collections import Counter, defaultdict
 
-from common import DATA, OUT_DIR, ROOT, slug
+from common import DATA, OUT_DIR, ROOT, slug, sub_dir, BUCKET, BUCKETED
 
 TODAY = dt.date.today().isoformat()
 PRICE_CSV = os.path.join(ROOT, 'data', '价格主表.csv')
@@ -1438,7 +1438,9 @@ def main():
     index = defaultdict(list)
     for e in ents:
         fn = f"{e['code']}-{slug(e['name'])}-{slug(e['country'], 12)}.md"
-        path = os.path.join(OUT_DIR, e['grade'], fn)
+        sub = sub_dir(e['code'], e['grade'])
+        os.makedirs(os.path.join(OUT_DIR, e['grade'], sub), exist_ok=True)
+        path = os.path.join(OUT_DIR, e['grade'], sub, fn)
         with open(path, 'w', encoding='utf-8') as f:
             f.write(render_one(e))
         index[e['grade']].append((e, fn))
@@ -1537,8 +1539,12 @@ def write_readme(ents, index):
     L.append('')
     L.append('## 索引')
     L.append('')
+    L.append(f'目录结构：A 平铺；B / C 每 {BUCKET} 户一个子目录（`B/SB-0001-0500/`、`B/SB-0501-1000/`、`B/SB-1001-1500/` …，GitHub 网页一个目录只显示前 1,000 个文件），'
+             '编号连号，看编号就知道在哪个子目录；各级 `_索引.md` 的链接直达文件。')
+    L.append('')
     for g in 'ABC':
-        L.append(f'### {g} 级（{len(index[g])}）— `Saga Clients/{g}/`')
+        subs = sorted({sub_dir(e['code'], g) for e, _ in index[g]} - {''}, key=lambda s: int(s.split('-')[1]))
+        L.append(f'### {g} 级（{len(index[g])}）— `Saga Clients/{g}/`' + (f'（子目录 {" / ".join(f"`{s}/`" for s in subs)}）' if subs else ''))
         L.append('')
         if g == 'A':
             L.append('| 编号 | 公司 | 国家 | 类型 | 状态 | 分数 | 调研 | 档案 |')
@@ -1550,7 +1556,8 @@ def write_readme(ents, index):
             with open(os.path.join(OUT_DIR, g, '_索引.md'), 'w', encoding='utf-8') as f:
                 f.write(f'# {g} 级索引（{len(index[g])}）\n\n| 编号 | 公司 | 国家 | 状态 | 分数 | C级细分 | 档案 |\n|---|---|---|---|---|---|---|\n')
                 for e, fn in sorted(index[g], key=lambda x: x[0]['code']):
-                    f.write(f"| {e['code']} | {md_escape(e['name'])} | {e['country']} | {e['status']} | {e['score']} | {e['c_sub']} | [{fn}]({fn.replace(' ', '%20')}) |\n")
+                    rel = (sub_dir(e['code'], g) + '/' + fn) if sub_dir(e['code'], g) else fn
+                    f.write(f"| {e['code']} | {md_escape(e['name'])} | {e['country']} | {e['status']} | {e['score']} | {e['c_sub']} | [{fn}]({rel.replace(' ', '%20')}) |\n")
         L.append('')
     with open(os.path.join(OUT_DIR, 'README.md'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(L) + '\n')

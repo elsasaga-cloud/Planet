@@ -15,7 +15,7 @@ import sys
 from collections import Counter, defaultdict
 from difflib import SequenceMatcher
 
-from common import DATA, OUT_DIR, ROOT
+from common import DATA, OUT_DIR, ROOT, md_files
 
 GENERIC_LOCAL = {'info', 'sales', 'admin', 'contact', 'office', 'support', 'hello', 'mail', 'export', 'import', 'purchase', 'purchasing',
                  'marketing', 'enquiry', 'enquiries', 'inquiry', 'service', 'hi', 'team', 'order', 'orders', 'ventas', 'vendas', 'kontakt',
@@ -90,10 +90,9 @@ def main():
     dupcodes = [c for c, n in codes.items() if n > 1]
     md = defaultdict(dict)
     for g in 'ABC':
-        d = os.path.join(OUT_DIR, g)
-        for fn in os.listdir(d):
+        for fn, _p in md_files(g):
             m = re.match(r"(S[ABC]-\d+)-", fn)
-            if m and fn.endswith('.md'):
+            if m:
                 md[m.group(1)][g] = fn
     ent_by = {e['code']: e for e in ents}
     no_md = [c for c in ent_by if c not in md]

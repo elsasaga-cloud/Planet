@@ -8,6 +8,34 @@ DATA = os.path.join(ROOT, 'data', 'saga_clients')
 OUT_DIR = os.path.join(ROOT, 'Saga Clients')
 RESEARCH_DIR = os.path.join(DATA, 'research')
 
+# 目录分桶（T29-U60，2026-10-26）：GitHub 网页一个目录只显示前 1,000 个文件，B/C 超过 → 每 500 户一个子目录
+# `Saga Clients/B/SB-0001-0500/`、`SB-0501-1000/`、`SB-1001-1500/` …（四位补零让目录按数字排序）；A 只有几十户，平铺。
+BUCKET = 500
+BUCKETED = ('B', 'C')
+
+
+def sub_dir(code, grade):
+    """某客户 MD 所在的子目录名（'' = 直接在等级目录下）。"""
+    if grade not in BUCKETED:
+        return ''
+    n = int(code.split('-')[1])
+    lo = (n - 1) // BUCKET * BUCKET + 1
+    return f'S{grade}-{lo:04d}-{lo + BUCKET - 1:04d}'
+
+
+def md_files(grade):
+    """遍历等级目录（含子目录）下的全部客户 MD → [(文件名, 完整路径)]，不含 `_` 开头的索引/总览。"""
+    out = []
+    base = os.path.join(OUT_DIR, grade)
+    if not os.path.isdir(base):
+        return out
+    for dp, dns, fns in os.walk(base):
+        dns.sort()
+        for fn in sorted(fns):
+            if fn.endswith('.md') and not fn.startswith('_'):
+                out.append((fn, os.path.join(dp, fn)))
+    return out
+
 FREEMAIL = {
     'poczta.fm', 'poczta.onet.pl', 'op.pl', 'vp.pl', 'tlen.pl', 'spoko.pl', 'autograf.pl', 'go2.pl', 'buziaczek.pl', 'neostrada.pl', 'gazeta.pl', 'interia.eu', 'onet.eu',
     'gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'live.com', 'icloud.com', 'aol.com', 'msn.com', 'yandex.ru',

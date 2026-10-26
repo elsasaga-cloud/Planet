@@ -64,11 +64,27 @@ if missing_reg:
     S('编号', '实体编号不在登记表（可能是拆分/新号）', missing_reg[:10])
 folder = Counter()
 md_codes = {}
+MD_PATH = {}
 for g in 'ABC':
-    for fn in os.listdir(os.path.join(ROOT, 'Saga Clients', g)):
-        if fn.endswith('.md') and not fn.startswith('_'):
-            folder[g] += 1
-            md_codes[fn.split('-')[0] + '-' + fn.split('-')[1]] = g
+    for dp, dns, fns in os.walk(os.path.join(ROOT, 'Saga Clients', g)):
+        for fn in fns:
+            if fn.endswith('.md') and not fn.startswith('_'):
+                folder[g] += 1
+                md_codes[fn.split('-')[0] + '-' + fn.split('-')[1]] = g
+                MD_PATH[fn.split('-')[0] + '-' + fn.split('-')[1]] = os.path.join(dp, fn)
+# 子目录分桶（B/C 每 500 户一桶）：文件必须落在编号对应的桶里
+for c, p in MD_PATH.items():
+    g = md_codes[c]
+    sub = os.path.relpath(os.path.dirname(p), os.path.join(ROOT, 'Saga Clients', g))
+    n = int(c.split('-')[1])
+    want = '.' if g == 'A' else f'S{g}-{(n - 1) // 500 * 500 + 1:04d}-{(n - 1) // 500 * 500 + 500:04d}'
+    if sub != want:
+        H('目录', 'MD 不在编号对应的子目录', f'{c} 在 {sub}，应为 {want}')
+for g in 'ABC':
+    base = os.path.join(ROOT, 'Saga Clients', g)
+    for dp, dns, fns in os.walk(base):
+        if len(fns) + len(dns) > 1000:
+            H('目录', '单目录超过 1,000 项（GitHub 网页会截断）', f'{os.path.relpath(dp, ROOT)} {len(fns) + len(dns)}')
 for g in 'ABC':
     if folder[g] != grades[g]:
         H('目录', f'{g} 目录 MD 数 ≠ 等级数', f'{folder[g]} vs {grades[g]}')
@@ -247,11 +263,10 @@ for addr, r in excl.items():
 # ---------- 5. MD ↔ JSON（主题在 MD 内） ----------
 for c, de in drafts.items():
     g = E[c]['grade']
-    fns = [f for f in os.listdir(os.path.join(ROOT, 'Saga Clients', g)) if f.startswith(c + '-')]
-    if not fns:
+    if c not in MD_PATH:
         H('渲染', 'MD 缺失', c)
         continue
-    md = open(os.path.join(ROOT, 'Saga Clients', g, fns[0]), encoding='utf-8').read()
+    md = open(MD_PATH[c], encoding='utf-8').read()
     if de['subject'] not in md:
         H('渲染', 'MD 未含信稿主题（需重渲染）', c)
 
