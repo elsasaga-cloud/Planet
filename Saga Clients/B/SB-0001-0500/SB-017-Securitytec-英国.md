@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -58,6 +58,25 @@ updated: 2026-10-25
 | 2025-02-24 | 去 | Elsa 1:1 去信（To graham@securitytec.co.uk） | Industrial PoE Switch — Marvell based industrial PoE, 2×GE SFP + 4×GE PoE, 120W, watchdog, 250 m, DIP（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Graham」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-18 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Marvell Alleycat5 Solution | 26 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-18（26 去 / 0 来） | `gmail_digest` |
 | 2026-09-18 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 a0f873641860f24e；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封） | `a0f873641860f24e` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（GB 全库 1094 封群发的打开标签，对方本地时间；均值 5.0%）**：周四 12–14 点 11.9%（42 封）、周二 14–16 点 7.8%（103 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（GB 全库 27 个「户·月」真人来信，样本小）**：1 月 14.8% / 5 月 11.1% / 6 月 11.1%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 26 封（2024-07-05 → 2026-09-18），打开标签 1 次（近 12 个月 0，最后 2024-11-12）；打开过：「10G Media Converter」×1（2024-11-12）；从未打开：「10G Enterprise SFP Switch」、「24 port poe switch」、「Industrial fiber switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 2 条，2024-11-12 → 2024-12-05；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-12-05 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `ca17861f405c8d48` |
+  | 2024-11-12 | 「*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `372aae1c985bf9bb` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 32 / camera 139 / poe 67）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：10G 汇聚；**还没碰过的一类：安防 PoE** → 下封信可加一句 STC-424XGGPM-280W（24 口千兆 PoE + 4 × 10G SFP+ L2+ 管理 280W，$181.2 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 558 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 2 个（Hikvision、Ruijie）；社媒：https://twitter.com/securitytecltd、https://www.facebook.com/Securitytec-Ltd-250292835408292/。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04；Boxing Day 12-28 补休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -201,14 +220,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 478 条： www.securitytec.co.uk；2022-05-13T21:00:54 our-products.html；2022-05-01T16:45:39 
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 478 条： www.securitytec.co.uk；2022-05-13T21:00:54 our-products.html；2022-05-01T16:45:39 
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-017/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.securitytec.co.uk/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4625 字符；首行：Professional Security Products \| Security Tec Ltd |
-| [sitemap](https://www.securitytec.co.uk/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 558 个 URL；最新 lastmod 2022-05-17T10:43:19 |
+| [sitemap](https://www.securitytec.co.uk/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 558 个 URL；最新 lastmod 2022-05-17T10:43:19 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/Securitytec-Ltd-250292835408292/；X/Twitter: https://twitter.com/securitytecltd
 
@@ -320,12 +339,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 78）；人工/调研定级 → B
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 78）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

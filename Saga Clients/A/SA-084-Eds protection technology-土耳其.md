@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -63,6 +63,24 @@ updated: 2026-10-25
 | 2026-03-05 | 去 | A 箱（Alan） | Updated Ethernet Switches Links | 最近一封去信（邮箱索引；去信共 12 封） | `6e89b919a842eec0` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（TR 全库 901 封群发的打开标签，对方本地时间；均值 4.0%）**：周四 10–12 点 5.9%（51 封）、周一 10–12 点 5.2%（58 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（TR 全库 17 个「户·月」真人来信，样本小）**：5 月 17.6% / 1 月 11.8% / 2 月 11.8%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 12 封（2024-07-05 → 2026-03-05），打开标签 0 次。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 2 条，2024-08-08 → 2024-11-13；「今天」= 价格主表 2026-10-17 汇率、25% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-13 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `57581384353465d0` |
+  | 2024-08-08 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `e1f47565ed2822b1` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 628 条 URL（≥500 = 大目录 / 网店体量）；官网语言 tr（信照样英文，首句可用对方语言问候）；社媒：https://instagram.com/Eds.elektronik/、https://twitter.com/edselektronik/、https://www.facebook.com/eds.elektronik/。
+- **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -178,14 +196,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 486 条：2021-03-16 eds-elektronik-31-yasinda；2021-08-09 en54-sertifikalı-eds-konvansiyone
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 486 条：2021-03-16 eds-elektronik-31-yasinda；2021-08-09 en54-sertifikalı-eds-konvansiyone
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-084/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.eds.com.tr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6750 字符；首行：Güvenlik Elektronik Sistemleri Üreticisi Teknik Destek |
-| [sitemap](https://www.eds.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 628 个 URL；最新 lastmod 2026-10-25 |
+| [sitemap](https://www.eds.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 628 个 URL；最新 lastmod 2026-10-26 |
 | [news_1](https://www.eds.com.tr/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8560 字符；首行：Blog Teknik Destek |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCBowWYlKE4AzVUyRjRvbUag) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2023-01-18T08:49:46+00:00 EDS Hanwha Techwin Ürün Tanıtım Günleri 2023 |
 
@@ -303,12 +321,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

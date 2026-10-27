@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -56,6 +56,22 @@ updated: 2026-10-25
 | 2025-03-28 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por | Elsa 箱群发 BCC 触达证据（命中地址 office@triotronik.com, triotronik.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-31 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 office@triotronik.com, triotronik.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-06 | 去 | S 群发 | 24 Port PoE Managed Switch | 2 封 / 0 次打开 / 0 回｜首封 2026-10-01 → 末封 2026-10-06（2 去 / 0 来） | `gmail_digest` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（DE 全库 922 封群发的打开标签，对方本地时间；均值 4.4%）**：周四 12–14 点 7.3%（41 封）、周二 08–10 点 6.7%（45 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（DE 全库 15 个「户·月」真人来信，样本小）**：11 月 13.3% / 12 月 13.3% / 9 月 13.3%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 2 封（2026-10-01 → 2026-10-06），打开标签 0 次。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 2 条，2026-10-01 → 2026-10-06；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2026-10-06 | 「*Price: 180USD/PC*」 | $180 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `012d4aaf82e7d6ac` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-06，德国多数工厂整周停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -135,7 +151,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1091/`；本节随档案重渲染刷新，实时看日志。
 
@@ -247,12 +263,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

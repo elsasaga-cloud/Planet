@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -61,6 +61,15 @@ updated: 2026-10-25
 | 2026-04-01 | out | Elsa → sales@alconlink.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回 | `elsa_1to1` |
 | 2026-09-02 | 去 | A 群发 | Industrial PoE Switch、10G L3 Managed Switch | 4 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-02（4 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE CCTV产品 自己的logo；91-97788 02333 | 表内备注 | `用户表` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 4 封（2025-04-09 → 2026-09-02），打开标签 0 次。
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 32 / automation 0） / 安防 PoE（cctv 1 / camera 82 / poe 38）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$62.2 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 290 条 URL；社媒：https://twitter.com/alconlink、https://www.facebook.com/alconlink.ipsurveillance、https://www.instagram.com/alconlink.ipsurvellance/?hl=en。
+- **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -164,14 +173,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 210 条：2026-07-04T06:31:52 253；2026-07-04T06:31:52 219；2026-07-04T06:31:52 95；2026-07-04
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 210 条：2026-07-04T06:31:52 253；2026-07-04T06:31:52 219；2026-07-04T06:31:52 95；2026-07-04
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-308/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.alconlink.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4700 字符；首行：AlconLink Network Camera and NVR for Security Surveillance System |
-| [sitemap](https://www.alconlink.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 290 个 URL；最新 lastmod 2026-07-04T06:31:52 |
+| [sitemap](https://www.alconlink.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 290 个 URL；最新 lastmod 2026-07-04T06:31:52 |
 | [news_1](https://www.alconlink.com/page/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1014 字符；首行：Video Surveillance Services for News \| Alcon India |
 | [news_2](https://www.alconlink.com/project-registration.php) | html | HTTP 404 | 2026-10-23T04:20:51Z | 导航「Project Registration」 |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCiY2Cne9NDjOhemZGZYTDEQ) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2025-03-03T06:31:26+00:00 Alcon 5MP Starlight Outdoor Bullet Camera Low light perf |
@@ -282,12 +291,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

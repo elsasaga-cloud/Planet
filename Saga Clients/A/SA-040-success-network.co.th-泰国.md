@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -63,6 +63,26 @@ updated: 2026-10-25
 | 2026-10-20 | 内 | Gmail 退信（S 邮箱） | sawithree@success-network.co.th 永久退信：550 No such recipient here | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 098f53c592a27464` |
 | 2026-10-20 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 21 封） | `b7d2811f984127c8` |
 | 2026-10-20 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `b7d2811f984127c8` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2025-09-12 → 2025-09-12）；**他们回信中位 4.1 小时**（1 次，100% 在 24 小时内）；**我方未回 1 封**。
+- **发信窗口（TH 全库 447 封群发的打开标签，对方本地时间；均值 4.5%）**：周二 10–12 点 6.1%（49 封）、周一 10–12 点 3.4%（59 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 21 封（2024-07-09 → 2026-10-20），打开标签 3 次（近 12 个月 1，最后 2026-10-20）；打开过：「Industrial PoE Switch」×1（2025-08-12）、「Mini Industrial PoE Switch」×1（2025-09-12）、「24 Port PoE Managed Switch」×1（2026-10-20）；从未打开：「Industrial poe switch」、「Mini industrial switch」、「Passive poe switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 3 条，2024-11-12 → 2026-10-20；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2026-10-20 | 「*Price: 180USD/PC*」 | $180 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `b7d2811f984127c8` |
+  | 2025-01-31 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `e3816a77ff1eed4f` |
+  | 2024-11-12 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `9bab146adffc4030` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1406 条 URL（≥500 = 大目录 / 网店体量）；官网语言 th（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/SuccessNetworkD、https://www.youtube.com/@success_network。
+- **写信的人（来信签名机械抽取）**：info（info@success-network.co.th，1 封，2025-09-12 → 2025-09-12）。
+- **日历窗口**：对方：2026-12-05 国王诞辰；2026-12-31 新年（12-31 → 01-02） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -198,16 +218,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 feed_auto：恢复可达（上轮 HTTP 403）
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-040/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.success-network.co.th/) | html | HTTP 403 | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.success-network.co.th/sitemap_index.xml) | sitemap | HTTP 403 | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 1406 条） |
-| [news_1](https://www.success-network.co.th/news-blogs/) | html | HTTP 403 | 2026-10-23T04:20:51Z | 导航「ข่าวสารและบทความ」 |
-| [feed_auto](https://www.success-network.co.th/feed/) | rss | HTTP 403 | 2026-10-24T04:35:40Z | 首页自动发现的 feed |
+| [home](https://www.success-network.co.th/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5950 字符；首行：Success Network and Communication ศูนย์อุปกรณ์เน็ตเวิร์คระบบไอที |
+| [sitemap](https://www.success-network.co.th/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://www.success-network.co.th/news-blogs/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4190 字符；首行：ข่าวสารและบทความ (News & Blogs) \| Success Network |
+| [feed_auto](https://www.success-network.co.th/feed/) | rss | HTTP 200 | 2026-10-26T07:56:19Z | 10 条；最新：Mon, 25 Aug 2025 09:31:10 Smart Security Software by AI |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/SuccessNetworkD
 
@@ -318,12 +338,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 79）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 79）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

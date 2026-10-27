@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -58,6 +58,17 @@ updated: 2026-10-25
 | 2026-09-08 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 21 封 / 1 次打开 / 0 回｜首封 2025-01-24 → 末封 2026-09-08（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：商业PoE 也有tplink的 | 表内备注 | `用户表` |
 | 2026-09-08 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 b52f7000bb23c28f；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `b52f7000bb23c28f` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（GB 全库 1094 封群发的打开标签，对方本地时间；均值 5.0%）**：周四 12–14 点 11.9%（42 封）、周二 14–16 点 7.8%（103 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（GB 全库 27 个「户·月」真人来信，样本小）**：1 月 14.8% / 5 月 11.1% / 6 月 11.1%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 21 封（2025-01-24 → 2026-09-08），打开标签 1 次（近 12 个月 0，最后 2025-08-13）；打开过：「Industrial PoE Switch」×1（2025-08-13）；从未打开：「10G Enterprise SFP Switch」、「8 Port Industrial PoE Switch」、「16 Port Ethernet Switch」。
+- **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 28 / camera 7 / poe 49）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；兴趣品类都已碰过——缺口不在品类，在上面的断点。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1972 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 5 个（Dahua、Ajax、TP-Link、Ubiquiti、Ruijie）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；官网语言 en-GB（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/aerialsandcableequipment/、https://www.instagram.com/aerials_and_cable_equipment、https://www.linkedin.com/company/aerials-&-cable-equipment-ltd。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04；Boxing Day 12-28 补休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -177,14 +188,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 820 条：2024-04-17 ace-44cm-zone-1-elliptical-dish-17-p.asp；2026-05-13 blake-adaptor-brac
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 820 条：2024-04-17 ace-44cm-zone-1-elliptical-dish-17-p.asp；2026-05-13 blake-adaptor-brac
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-521/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://aceonline.co.uk/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4510 字符；首行：ACE Distributors |
-| [sitemap](https://aceonline.co.uk/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod 2026-10-25 |
+| [sitemap](https://aceonline.co.uk/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 900 个 URL；最新 lastmod 2026-10-26 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/aerialsandcableequipment/；X/Twitter: https://www.twitter.com/@ACELtd1；LinkedIn: https://www.linkedin.com/company/aerials-&-cable-equipment-ltd；Instagram: https://www.instagram.com/aerials_and_cable_equipment
 
@@ -295,12 +306,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

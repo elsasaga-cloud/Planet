@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -53,6 +53,16 @@ updated: 2026-10-25
 |---|---|---|---|---|---|
 | 2026-01-13 | 来 | micro-chang@ctcu.com.tw | Eddy FYI *From:* sales2@ctcu.com.tw <sales2@ctcu.com.tw> *On Behalf Of *Alan from Saga Telecom *Sent:* Tuesday, January 13, 2026 12:40 PM *To:* market | 来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `622d9c1213433077` |
 | 2026-07-20 | 去 | Saga（Alan） | Hi, Mirco, How are you? *We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform, with a round of L2+ enhancements *focused on 1. IPv6 readiness (DHCPv6 server/relay/snooping, MLD snooping) 2. Expanded multicast support (IGMP v1/v2/v3, PIM-SM) *Please see attached full feature l… | Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `2c088651a92dded8` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2025-10-23 → 2026-01-13）；对方本地时间中位 15:06；**他们回信中位 1.6 小时**（2 次，100% 在 24 小时内）；我方回信中位 4506.8 小时（1 次，>72 小时 1 次）；**我方未回 1 封**。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 11 封（2025-03-27 → 2026-08-11），打开标签 3 次（近 12 个月 1，最后 2026-01-13）；打开过：「Marvell Software Function List」×1（2025-03-27）、「10G Enterprise SFP Switch」×1（2025-10-23）、「OEM Core Switching Solution」×1（2026-01-13）；从未打开：「48 Port PoE Managed Switch」、「Managed Optical Bypass Switch」、「Marvell Industrial Alert System」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 71 条 URL；官网语言 zh-TW（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FIGS-402CS-4PH24.html、https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FIXR-G24044X-24PH.html、https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FQSW-4624CM.html。
+- **写信的人（来信签名机械抽取）**：CTC GM/Micro-Chang（micro-chang@ctcu.com.tw，2 封，2025-10-23 → 2026-01-13）。
+- **日历窗口**：对方：2027-02-05 农历新年（02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -165,15 +175,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 news_1：内容变化：+32 −15 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 news_1：内容变化：+15 −32 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-438/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.ctcu.com/zh-TW/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2069 字符；首行：主向位科技股份有限公司 \| 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。 |
 | [sitemap](https://www.ctcu.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.ctcu.com/zh-TW/news/index.html) | html | HTTP 200 | 2026-10-25T07:41:18Z | 3878 字符；首行：主向位新聞與活動 \| 主向位科技股份有限公司 |
+| [news_1](https://www.ctcu.com/zh-TW/news/index.html) | html | HTTP 200 | 2026-10-26T07:56:19Z | 3876 字符；首行：主向位新聞與活動 \| 主向位科技股份有限公司 |
 | [news_2](https://www.ctcu.com/zh-TW/news/news-036.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2954 字符；首行：主向位科技完備歐盟網路韌性法案(CRA)漏洞通報與資安事件應變機制 \| 主向位新聞與活動 \| 主向位科技股份有限公司 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2F；X/Twitter: https://twitter.com/intent/tweet?text=%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8+%7C+%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E6%98%AF%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E9%80%9A%E8%A8%8A%E7%94%A2%E5%93%81%E8%A3%BD%E9%80%A0%E5%95%86+%28%E5%8C%85%E5%90%AB%E7%AC%AC2%E5%B1%A4%E6%8F%9B%E6%A9%9F%2C+TDM%2C+%E8%BD%89%E7%99%BC%E5%99%A8%E3%80%81%E5%B7%A5%E6%A5%AD%E7%B4%9A%E4%B9%99%E5%A4%AA%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8%E3%80%81%E8%BD%89%E6%8F%9B%E5%99%A8%E3%80%81%E4%BE%9B%E9%9B%BB%E5%99%A8%E7%AD%89%29%E3%80%82&url=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2F；LinkedIn: https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2F&title=%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8+%7C+%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E6%98%AF%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E9%80%9A%E8%A8%8A%E7%94%A2%E5%93%81%E8%A3%BD%E9%80%A0%E5%95%86+%28%E5%8C%85%E5%90%AB%E7%AC%AC2%E5%B1%A4%E6%8F%9B%E6%A9%9F%2C+TDM%2C+%E8%BD%89%E7%99%BC%E5%99%A8%E3%80%81%E5%B7%A5%E6%A5%AD%E7%B4%9A%E4%B9%99%E5%A4%AA%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8%E3%80%81%E8%BD%89%E6%8F%9B%E5%99%A8%E3%80%81%E4%BE%9B%E9%9B%BB%E5%99%A8%E7%AD%89%29%E3%80%82
@@ -288,12 +298,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

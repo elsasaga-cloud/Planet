@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -63,6 +63,14 @@ updated: 2026-10-25
 | 2024-08-13 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「问需求」→ 对方「基本只需要电口 不要光」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.73 2024.8.13` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库；A/S 邮箱 0 封
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 48 / automation 32）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$57.4 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 783 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 3 个（Phoenix Contact、Schneider、Teltonika）；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/unitedcontrolengg、https://www.instagram.com/unitedcontrolengg/、https://www.linkedin.com/company/u-c-e-i-p-l。
+- **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -191,7 +199,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 auto_youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-006/`；本节随档案重渲染刷新，实时看日志。
 
@@ -304,12 +312,12 @@ Rajesh, Simon from Saga Telecom (the STI-050FE / STI-080FE samples, April 2024).
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 107）；人工/调研定级 → B
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 107）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

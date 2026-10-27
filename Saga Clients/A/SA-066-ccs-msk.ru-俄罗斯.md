@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -61,6 +61,15 @@ updated: 2026-10-25
 | 2026-08-04 | out | Elsa → pkarpov@ccs-msk.ru | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:pkarpov@ccs-msk.ru` 全程 complete：3 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 3 轮、0 回），仓库未见原文
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **本国来询季节（RU 全库 17 个「户·月」真人来信，样本小）**：12 月 23.5% / 5 月 23.5% / 1 月 11.8%——本户来信太少，按本国节奏排下一步。
+- **品类覆盖与缺口**：官网兴趣：10G 汇聚（10g 13 / sfp 47）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：10G 汇聚** → 下封信可加一句 STC-448XGGPM（48 口千兆 PoE + 4 × 10G SFP+ L2+ 管理，$335.4 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 253 条 URL；站内可见品牌 1 个（Cisco）。
+- **日历窗口**：对方：2026-11-04 民族统一日；2027-01-01 新年长假（01-01 → 01-10 整体停摆） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -160,15 +169,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 news_1：内容变化：+3 −3 行
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 news_1：内容变化：+3 −3 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-066/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.ccs-msk.ru/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 2384 字符；首行：CCS - Lenovo, Microsens, Sumitomo, Tyco, Emcore, OCulink, FDR, CXP, HD mSAS, SF |
-| [sitemap](https://www.ccs-msk.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 253 个 URL；最新 lastmod 2026-01-11 |
-| [news_1](https://www.ccs-msk.ru/news) | html | HTTP 200 | 2026-10-25T07:41:18Z | 1921 字符；首行：CCS - Новости |
+| [home](https://www.ccs-msk.ru/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 2388 字符；首行：CCS - Lenovo, Microsens, Sumitomo, Tyco, Emcore, OCulink, FDR, CXP, HD mSAS, SF |
+| [sitemap](https://www.ccs-msk.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 253 个 URL；最新 lastmod 2026-01-11 |
+| [news_1](https://www.ccs-msk.ru/news) | html | HTTP 200 | 2026-10-26T07:56:19Z | 1954 字符；首行：CCS - Новости |
 | [news_2](https://www.ccs-msk.ru/news/new_rack_10Gswitch) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2537 字符；首行：CCS - Новый стоечный 10G промышленный коммутатор MICROSENS |
 
 ## 联系方式（已有 · 原值照录）
@@ -275,12 +284,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 65）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 65）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

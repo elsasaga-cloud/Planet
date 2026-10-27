@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -60,6 +60,16 @@ updated: 2026-10-25
 | 2026-09-23 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 15 封） | `e9d6cad1b5da85cc` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（DE 全库 922 封群发的打开标签，对方本地时间；均值 4.4%）**：周四 12–14 点 7.3%（41 封）、周二 08–10 点 6.7%（45 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（DE 全库 15 个「户·月」真人来信，样本小）**：11 月 13.3% / 12 月 13.3% / 9 月 13.3%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 15 封（2025-04-11 → 2026-09-23），打开标签 1 次（近 12 个月 0，最后 2025-07-14）；打开过：「16 Port Ethernet Switch」×1（2025-07-14）；从未打开：「10G Enterprise SFP Switch」、「8 Port Industrial PoE Switch」、「Managed Optical Bypass Switch」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 228 条 URL；官网语言 de-DE（信照样英文，首句可用对方语言问候）；社媒：https://de.linkedin.com/company/liveye-gmbh、https://www.facebook.com/LivEyeGmbH、https://www.instagram.com/liveye_mobilevideosicherheit/。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-06，德国多数工厂整周停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -197,16 +207,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 news_2：内容变化：+2 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-077/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.liveye.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 30019 字符；首行：Mobile Videoüberwachung \| 24/7 Leitstelle \| LivEye Schutz |
+| [home](https://www.liveye.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 30030 字符；首行：Mobile Videoüberwachung \| 24/7 Leitstelle \| LivEye Schutz |
 | [sitemap](https://www.liveye.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.liveye.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8143 字符；首行：LivEye Blog: Sicherheitsexperten teilen ihr Wissen |
-| [news_2](https://www.liveye.com/blog/tag/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8078 字符；首行：LivEye Blog: Sicherheitsexperten teilen ihr Wissen |
+| [news_1](https://www.liveye.com/blog/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 8154 字符；首行：LivEye Blog: Sicherheitsexperten teilen ihr Wissen |
+| [news_2](https://www.liveye.com/blog/tag/news/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 8089 字符；首行：LivEye Blog: Sicherheitsexperten teilen ihr Wissen |
 | [youtube](https://www.youtube.com/@LivEye-mobileVideosicherheit) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-01-28T11:00:12+00:00 JAHRESAUFTAKT LivEye 2026 |
 | [feed_auto](https://www.liveye.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Tue, 23 Jun 2026 06:37:09 Gemeinsam für eine sichere Energiewende: LivEye wird Mit |
 
@@ -321,12 +331,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

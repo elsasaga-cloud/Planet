@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -55,6 +55,25 @@ updated: 2026-10-25
 | 2026-09-21 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 26 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-21（26 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE | 表内备注 | `用户表` |
 | 2026-09-21 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 ee7fef9a0cc861ea；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `ee7fef9a0cc861ea` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（CA 全库 681 封群发的打开标签，对方本地时间；均值 5.7%）**：周五 12–14 点 7.8%（51 封）、周二 12–14 点 7.8%（51 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 26 封（2024-06-24 → 2026-09-21），打开标签 0 次。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 3 条，2024-06-24 → 2025-01-21；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2025-01-21 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `0ee1dcbf55d66151` |
+  | 2024-08-13 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `d2fcdd773456a42e` |
+  | 2024-06-24 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `d623e7b9d368f411` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 15 / camera 52 / poe 204） / 10G 汇聚（10g 11 / sfp 45）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：安防 PoE** → 下封信可加一句 STC-424XGGPM-280W（24 口千兆 PoE + 4 × 10G SFP+ L2+ 管理 280W，$196.3 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 554 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 2 个（Uniview、Ruijie）；官网语言 en-CA（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/people/XLR-Security/100088179391776/、https://www.instagram.com/xlr_security/、https://www.linkedin.com/company/xlr-security-inc/。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -198,16 +217,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 news_2：内容变化：+9 −9 行
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 news_2：内容变化：+13 −13 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-409/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.xlrsecurity.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6032 字符；首行：XLR Security \| We sell security cameras & networking equipment. |
-| [sitemap](https://www.xlrsecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 554 个 URL；最新 lastmod 2026-10-24T02:33:24 |
-| [news_1](https://www.xlrsecurity.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5007 字符；首行：Blog \| XLR Security |
-| [news_2](https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 7534 字符；首行：How Far Can a PTZ Camera See? \| XLR Security |
+| [home](https://www.xlrsecurity.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 6064 字符；首行：XLR Security \| We sell security cameras & networking equipment. |
+| [sitemap](https://www.xlrsecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 555 个 URL；最新 lastmod 2026-10-25T22:57:30 |
+| [news_1](https://www.xlrsecurity.com/blog/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 5039 字符；首行：Blog \| XLR Security |
+| [news_2](https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 7565 字符；首行：How Far Can a PTZ Camera See? \| XLR Security |
 | [youtube](https://www.youtube.com/@xlrsecurity) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-06-03T17:08:47+00:00 Who is Lysora Technology and What Products Do They Offer |
 | [feed_auto](https://www.xlrsecurity.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Mon, 04 May 2026 17:49:36 Introducing Lysora – Powerful & Cost-effective Networkin |
 
@@ -322,12 +341,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

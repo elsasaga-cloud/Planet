@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -55,6 +55,24 @@ updated: 2026-10-25
 | 2026-08-14 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 25 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-08-14（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | SFP DAC 很多无源产品 光路的10G MC | 表内备注 | `用户表` |
 | 2026-08-14 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 1d438740681541c1；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `1d438740681541c1` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（GB 全库 1094 封群发的打开标签，对方本地时间；均值 5.0%）**：周四 12–14 点 11.9%（42 封）、周二 14–16 点 7.8%（103 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（GB 全库 27 个「户·月」真人来信，样本小）**：1 月 14.8% / 5 月 11.1% / 6 月 11.1%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 24 封（2024-08-02 → 2026-08-14），打开标签 0 次。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-11-13 → 2024-11-13；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-13 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `ec56c6285ef71aa5` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：10G 汇聚（10g 5 / sfp 104） / 光纤接入 / 媒体转换（media converter 15 / fiber 44）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：10G 汇聚** → 下封信可加一句 STC-448XGGPM（48 口千兆 PoE + 4 × 10G SFP+ L2+ 管理，$363.4 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1948 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 10 个（Cisco、Extreme、Moxa、Netgear、D-Link、Zyxel）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；社媒：https://twitter.com/SimpleTechUK、https://www.facebook.com/simple.technology.uk。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04；Boxing Day 12-28 补休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -194,14 +212,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 820 条：2020-09-16 cfp-100g；2019-11-12 cisco-memory；2019-12-20 compact-flash；2019-11-12 d
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 820 条：2020-09-16 cfp-100g；2019-11-12 cisco-memory；2019-12-20 compact-flash；2019-11-12 d
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-782/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.simpleuk.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3923 字符；首行：Simple Technology. Simple Technology |
-| [sitemap](https://www.simpleuk.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod 2026-10-24 |
+| [sitemap](https://www.simpleuk.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 900 个 URL；最新 lastmod 2026-10-26 |
 | [news_1](https://www.simpleuk.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5875 字符；首行：Blog. Simple Technology |
 | [news_2](https://www.simpleuk.com/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2576 字符；首行：News Archive. Simple Technology |
 | [feed_auto](https://www.simpleuk.com/news/rss/2) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 2 条；最新： Our Commitment to Quality |
@@ -314,12 +332,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

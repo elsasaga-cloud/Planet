@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -56,6 +56,16 @@ updated: 2026-10-25
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Alleycat5 Solution | 21 封 / 1 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-09-16（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE ONV的 | 表内备注 | `用户表` |
 | 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 dc64aecabef85dcf；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `dc64aecabef85dcf` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（IT 全库 864 封群发的打开标签，对方本地时间；均值 2.8%）**：周一 12–14 点 3.8%（53 封）、周一 10–12 点 2.3%（44 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 21 封（2024-06-15 → 2026-09-16），打开标签 1 次（近 12 个月 1，最后 2026-01-28）；打开过：「OEM Core Switching Solution」×1（2026-01-28）；从未打开：「Industrial PoE Switch」、「Commercial PoE Switch」、「Industrial poe switch」。
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 18 / automation 0）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$57.4 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 411 条 URL；官网语言 it-IT（信照样英文，首句可用对方语言问候）；社媒：https://wa.me/393407562053。
+- **日历窗口**：对方：2026-12-08 圣母无染原罪瞻礼（长周末）；2026-12-24 圣诞–主显节（到 01-06） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -185,13 +195,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 home：内容变化：+62 −62 行
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 home：内容变化：+56 −56 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-908/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.techlu.it/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 7399 字符；首行：Techlu di Ct Service di Cerino Gianluca |
+| [home](https://www.techlu.it/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 7250 字符；首行：Techlu di Ct Service di Cerino Gianluca |
 | [sitemap](https://www.techlu.it/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 
 - **人工定期看（登录墙，不自动抓）**：WhatsApp: https://wa.me/393407562053
@@ -300,12 +310,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

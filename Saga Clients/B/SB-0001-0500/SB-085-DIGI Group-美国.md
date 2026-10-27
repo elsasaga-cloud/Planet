@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -62,6 +62,31 @@ updated: 2026-10-25
 | 2025-06-28 | 去 | Saga（Simon） | Hi, Stan, Thanks for your info. 1, IGMP protocol is a management feature, it is not available on unmanaged switches. 2, We have managed switches. You can see this in the downlink link file I shared with you. *Marvell Based Industrial Managed Switch* In the datasheet, there is IGMP info.… | Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `2603220c608ffb88` |
 | 2025-11-28 | 来 | stan@thorfiber.com | Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sagatelecom@g | 来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `92ccd99bae9b2cff` |
 | 2025-12-01 | 去 | Simon | STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE… With internal power booster | 单款报价 | `822038afc07c951e` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 3 封（2025-06-26 → 2025-11-28）；多在 6 月（2）；对方本地时间中位 14:42；周三最多（1）、周末 33%；**他们回信中位 29.1 小时**（3 次，33% 在 24 小时内）；我方回信中位 0.7 小时（3 次）。
+- **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 19 封（2024-06-18 → 2026-09-08），打开标签 2 次（近 12 个月 1，最后 2025-11-27）；打开过：「Industrial PoE Switch」×1（2025-06-25）、「Booster PoE Switch」×1（2025-11-27）；从未打开：「10G fiber media converter」、「24 port poe switch」、「Mini industrial poe switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 1 条 + 个性化群发价 6 条，2024-06-18 → 2026-09-08；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2026-09-08 | 「*Price: 170USD/PC*」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `49b4d22f43e3b71d` |
+  | 2026-07-20 | 「*Price: 1500USD/PC*」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `483df5d1b7e6434e` |
+  | 2025-12-01 | 「215usd/pc」 | $215 | —（原句无型号） | — | 1:1 | Booster PoE Switch | `822038afc07c951e` |
+  | 2025-10-29 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `317f38ebf153a17f` |
+  | 2025-01-06 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `09b7abfcdedfe229` |
+  | 2024-12-11 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `25fe573d94e4e411` |
+  | 2024-06-18 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G fiber media converter | `ded4159c17e34ac8` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：10G 汇聚（10g 15 / sfp 21） / 光纤接入 / 媒体转换（media converter 12 / fiber 281）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；**还没碰过的一类：10G 汇聚** → 下封信可加一句 STC-448XGGPM（48 口千兆 PoE + 4 × 10G SFP+ L2+ 管理，$363.4 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 462 条 URL。
+- **写信的人（来信签名机械抽取）**：Stan Sochur（stan@thorfiber.com，3 封，2025-06-26 → 2025-11-28）。
+- **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -196,14 +221,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 382 条： ip-over-2-wire-copper-extender-with-poe.html； 5v-dc-2a-power-supply-adapter-with
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 382 条： ip-over-2-wire-copper-extender-with-poe.html； 5v-dc-2a-power-supply-adapter-with
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-085/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://thorbroadcast.com) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8479 字符；首行：CATV and Fiber Transport Equipment - Thor Broadcast |
-| [sitemap](https://thorbroadcast.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 462 个 URL；最新 lastmod - |
+| [sitemap](https://thorbroadcast.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 462 个 URL；最新 lastmod - |
 | [news_1](https://thorbroadcast.com/client-portfolio) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3540 字符；首行：Client Portfolio - Thor Broadcast |
 | [news_2](https://thorbroadcast.com/articles) | html | HTTP 200 | 2026-10-24T04:35:40Z | 7474 字符；首行：Broadcast Engineering Guides & Articles - Thor Broadcast |
 
@@ -316,12 +341,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 83）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 83）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

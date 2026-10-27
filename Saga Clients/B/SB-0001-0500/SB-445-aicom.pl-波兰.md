@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -54,6 +54,16 @@ updated: 2026-10-25
 |---|---|---|---|---|---|
 | 2026-09-28 | 去 | A 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 17 封 / 0 次打开 / 0 回｜首封 2025-02-06 → 末封 2026-09-28（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 在用国内的 | 表内备注 | `用户表` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（PL 全库 585 封群发的打开标签，对方本地时间；均值 5.5%）**：周四 12–14 点 4.8%（42 封）、周五 10–12 点 2.4%（41 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 17 封（2025-02-06 → 2026-09-28），打开标签 0 次。
+- **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 27 / camera 0 / poe 23） / 10G 汇聚（10g 7 / sfp 1）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：安防 PoE** → 下封信可加一句 STC-424XGGPM-280W（24 口千兆 PoE + 4 × 10G SFP+ L2+ 管理 280W，$196.3 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 2786 条 URL（≥500 = 大目录 / 网店体量）；**自有型号串 4 个**（AP-SNMP-02、AP-PX1KR-02、AP-PX2KR-02）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）；官网语言 pl（信照样英文，首句可用对方语言问候）。
+- **日历窗口**：对方：2026-11-11 独立日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -175,14 +185,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 820 条：2026-10-25 kable-i-przewody-kable-swiatlowodowe-polaczeniowe-patch-cordy-jednomod
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 820 条：2026-10-26 kable-i-przewody-kable-swiatlowodowe-polaczeniowe-patch-cordy-jednomod
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-445/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://aicom.pl/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8695 字符；首行：Hurtownia online producenta systemów CCTV IP i okablowania LAN AICOM |
-| [sitemap](https://aicom.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod 2026-10-25 |
+| [sitemap](https://aicom.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 900 个 URL；最新 lastmod 2026-10-26 |
 | [news_1](https://aicom.pl/informacje,article-list) | html | HTTP 200 | 2026-10-23T04:20:51Z | 15030 字符；首行：AICOM |
 
 ## 联系方式（已有 · 原值照录）
@@ -291,12 +301,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

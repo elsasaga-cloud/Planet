@@ -20,6 +20,152 @@ PRICE_CSV = os.path.join(ROOT, 'data', '价格主表.csv')
 DIGEST_JSON = os.path.join(DATA, 'site_digest.json')   # snapshot_digest.py 产物（官网快照摘要），缺失则跳过
 GMAIL_DIGEST = os.path.join(DATA, 'gmail_digest.json')  # gmail_digest.py 产物（S 邮箱按客户汇总），缺失则跳过
 GMAIL = json.load(open(GMAIL_DIGEST, encoding='utf-8')) if os.path.exists(GMAIL_DIGEST) else {}
+DIMS_JSON = os.path.join(DATA, 'dims.json')             # dims.py 产物（第 79 批多维画像），缺失则跳过
+DIMS = json.load(open(DIMS_JSON, encoding='utf-8')) if os.path.exists(DIMS_JSON) else {}
+WEEKDAY_CN = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
+MONTH_CN = {1: '1 月', 2: '2 月', 3: '3 月', 4: '4 月', 5: '5 月', 6: '6 月', 7: '7 月', 8: '8 月', 9: '9 月', 10: '10 月', 11: '11 月', 12: '12 月'}
+
+
+def _hm(h):
+    return f'{int(h):02d}:{int(round((h - int(h)) * 60)):02d}'
+
+
+def fmt_dims(ent):
+    """多维画像（第 79 批 · T29-U61）：dims.py 的机械推导，按维度一行；没有信号的维度不写。"""
+    d = DIMS.get(ent['code'])
+    if not d:
+        return ''
+    L = []
+    t = d.get('timing')
+    if t and t.get('n'):
+        seg = [f"真人来信 {t['n']} 封（{t['first']} → {t['last']}）"]
+        if t.get('months_top'):
+            seg.append('多在 ' + ' / '.join(f'{MONTH_CN[m]}（{n}）' for m, n in t['months_top']))
+        if t.get('local_hour_median') is not None and t['n'] >= 2:
+            iq = f"，四分位 {_hm(t['local_hour_iqr'][0])}–{_hm(t['local_hour_iqr'][1])}" if t.get('local_hour_iqr') else ''
+            seg.append(f"对方本地时间中位 {_hm(t['local_hour_median'])}{iq}")
+        if t.get('weekdays') and t['n'] >= 3:
+            seg.append(f"{t['weekdays'][0][0]}最多（{t['weekdays'][0][1]}）" + (f"、周末 {t['weekend_share']}%" if t.get('weekend_share') else ''))
+        if t.get('their_reply_n'):
+            seg.append(f"**他们回信中位 {t['their_reply_h_median']} 小时**（{t['their_reply_n']} 次，{t['their_reply_fast_share']}% 在 24 小时内）")
+        if t.get('our_reply_n'):
+            slow = f"，>72 小时 {t['our_reply_slow']} 次" if t.get('our_reply_slow') else ''
+            seg.append(f"我方回信中位 {t['our_reply_h_median']} 小时（{t['our_reply_n']} 次{slow}）")
+        if t.get('unanswered_in'):
+            seg.append(f"**我方未回 {t['unanswered_in']} 封**")
+        L.append('- **时机与节律**：' + '；'.join(seg) + '。')
+    cw = d.get('country_window')
+    if cw and cw.get('best'):
+        best = '、'.join(f"{WEEKDAY_CN[b['wd']]} {b['h']:02d}–{b['h'] + 2:02d} 点 {b['rate']}%（{b['n']} 封）" for b in cw['best'])
+        L.append(f"- **发信窗口（{cw['iso']} 全库 {cw['sent']} 封群发的打开标签，对方本地时间；均值 {cw['avg']}%）**：{best}。像素统计，只看相对高低；排发信日时落在这两个时段。")
+    cs = d.get('country_season')
+    if cs:
+        L.append(f"- **本国来询季节（{cs['iso']} 全库 {cs['n']} 个「户·月」真人来信{'，样本小' if cs['n'] < 30 else ''}）**：" + ' / '.join(f"{MONTH_CN[x['m']]} {x['pct']}%" for x in cs['top']) + '——本户来信太少，按本国节奏排下一步。')
+    o = d.get('opens')
+    if o and o.get('sent'):
+        seg = [f"群发 {o['sent']} 封（{o['first_sent']} → {o['last_sent']}），打开标签 {o['opened']} 次" + (f"（近 12 个月 {o['opened_12m']}，最后 {o['last_opened']}）" if o['opened'] else '')]
+        if o.get('bounce_days'):
+            seg.append(f"退信日 {o['bounce_days']} 个（前后一天的打开已剔除）")
+        if o.get('opened_subjects'):
+            seg.append('打开过：' + '、'.join(f'「{s}」×{n}（{dt}）' for s, n, dt in o['opened_subjects']))
+        if o.get('never_opened') and o['opened']:
+            seg.append('从未打开：' + '、'.join(f'「{s}」' for s in o['never_opened'][:3]))
+        L.append('- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：' + '；'.join(seg) + '。')
+    q = d.get('quotes')
+    if q and q.get('rows'):
+        tier_note = f"{q['rows'][0]['tier_used']}% 档" + ('' if q.get('tier_known') else '（未定档，暂按 25%）')
+        mix = f"1:1 {q.get('n_1to1', q['n'])} 条" + (f" + 个性化群发价 {q['n_mass']} 条" if q.get('n_mass') else '')
+        L.append(f"- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：{mix}，{q['first']} → {q['last']}；「今天」= 价格主表 2026-10-17 汇率、{tier_note}、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：")
+        L.append('')
+        L.append('  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |')
+        L.append('  |---|---|---|---|---|---|---|---|')
+        for r in q['rows']:
+            what = r['model'] or ('「' + (r.get('desc') or '').replace('|', '/') + '」')
+            if r['model']:
+                today = f"${r['today']}" if r.get('today') else '主表无此型号'
+            else:
+                today = '—（原句无型号）'
+            delta = (f"{'+' if r['delta_pct'] > 0 else ''}{r['delta_pct']}%" if r.get('delta_pct') is not None else '—')
+            L.append(f"  | {r['date']} | {what} | ${r['price']:g} | {today} | {delta} | {r.get('kind', '1:1')} | {r['subj'].replace('|', '/')} | `{r['k']}` |")
+        L.append('')
+        ups = [r for r in q['rows'] if (r.get('delta_pct') or 0) >= 5]
+        downs = [r for r in q['rows'] if (r.get('delta_pct') or 0) <= -5]
+        note = []
+        if ups:
+            note.append('涨的部分只有一个口径：汇率 7.2 → 6.7（成本按人民币不变）；对方若拿旧价压，先认旧价有效期已过，再谈量')
+        if downs:
+            note.append('今天比当时低：直接报今天的价，顺手说一句「比上次低」是现成的开场')
+        if q.get('n_mass'):
+            note.append('「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」')
+        if note:
+            L.append('  ' + '；'.join(note) + '。')
+    cv = d.get('coverage')
+    if cv:
+        seg = ['官网兴趣：' + ' / '.join(f'{c}（{ev}）' for c, ev in cv['interest'])]
+        shown = cv.get('shown') or {}
+        if shown or cv.get('bought'):
+            parts = [f'{k} ×{v}' for k, v in shown.items()]
+            seg.append('我们报过 / 卖过：' + '、'.join(parts) + (f"（买过 {'、'.join(cv['bought'])}）" if cv.get('bought') else ''))
+        else:
+            seg.append('我们 1:1 从未报过价、也没成交')
+        if cv.get('opened_cats'):
+            seg.append('打开过的群发主题落在：' + ' / '.join(cv['opened_cats']))
+        if cv.get('gaps'):
+            g = cv['gaps'][0]
+            price = f"${g['price']}" if g.get('price') else '价见主表'
+            seg.append(f"**还没碰过的一类：{g['cat']}** → 下封信可加一句 {g['model']}（{g['desc']}，{price} EXW）")
+        else:
+            seg.append('兴趣品类都已碰过——缺口不在品类，在上面的断点')
+        L.append('- **品类覆盖与缺口**：' + '；'.join(seg) + '。')
+    sc = d.get('scale')
+    if sc:
+        seg = []
+        if sc.get('sitemap'):
+            seg.append(f"站点地图 {sc['sitemap']} 条 URL" + ('（≥500 = 大目录 / 网店体量）' if sc['sitemap'] >= 500 else ''))
+        if sc.get('brands_n'):
+            seg.append(f"站内可见品牌 {sc['brands_n']} 个（{'、'.join(sc['brands'])}）" + ('——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源' if sc['brands_n'] >= 4 else ''))
+        if sc.get('own_label'):
+            seg.append(f"**自有型号串 {len(sc['own_label'])} 个**（{'、'.join(sc['own_label'][:3])}）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）")
+        if sc.get('lang') and sc['lang'] not in ('en', None):
+            seg.append(f"官网语言 {sc['lang']}（信照样英文，首句可用对方语言问候）")
+        if sc.get('social'):
+            seg.append('社媒：' + '、'.join(sc['social'][:3]))
+        if seg:
+            L.append(f"- **规模与贴牌线索（官网快照 {sc.get('fetched', '')}）**：" + '；'.join(seg) + '。')
+    rel = d.get('related')
+    if rel:
+        L.append('- **关联户**：' + '；'.join(f"{r['code']} {r['name'][:30]}（{r['grade']}；{'、'.join(r['why'])}）" for r in rel) + '——写信前看一眼对方档案，别两边说两套价。')
+    pp = d.get('people')
+    if pp:
+        seg = []
+        for p in pp:
+            nm = p.get('name') or p['email'].split('@')[0]
+            tt = f" — {p['title']}" if p.get('title') else ''
+            seg.append(f"{nm}{tt}（{p['email']}，{p['n']} 封，{p['first']} → {p['last']}）")
+        L.append('- **写信的人（来信签名机械抽取）**：' + '；'.join(seg) + '。')
+    gh = d.get('github')
+    if gh:
+        seg = []
+        for a in gh.get('accounts') or []:
+            how = {'strong': '官网/邮箱域名一致', 'name': '仅名称一致，未核实是否同一家', 'company': 'company 字段一致'}.get(a.get('match'), '')
+            repos = [r['name'] for r in (a.get('repos') or []) if not r.get('fork')][:3]
+            last = max((r.get('pushed_at') or '' for r in (a.get('repos') or [])), default='')[:10]
+            seg.append(f"{'组织' if a.get('type') == 'Organization' else '用户'} [{a['login']}]({a['url']})（{how}；公开仓库 {a.get('public_repos')}" + (f"，最近 push {last}：{'、'.join(repos)}" if repos else '') + '）')
+        if seg:
+            L.append(f"- **GitHub 足迹（公开资料，{(gh.get('checked_at') or '')[:10]} 查）**：" + '；'.join(seg) + '——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。')
+    cal = d.get('calendar')
+    if cal:
+        seg = []
+        if cal.get('holidays'):
+            seg.append('对方：' + '；'.join(f'{dd} {nm}' for dd, nm in cal['holidays']))
+        seg.append(cal['cny'])
+        L.append('- **日历窗口**：' + ' ｜ '.join(seg))
+    if not L:
+        return ''
+    head = [f"## 多维画像（数据推导 · 第 79 批 · {d.get('generated_at', TODAY)}）", '',
+            '> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。'
+            '**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。', '']
+    return '\n'.join(head + L) + '\n'
 PI_DIR = os.path.join(ROOT, 'data', 'pi_orders')  # parse_pi.py 产物（PI 包成交记录），缺失则跳过
 
 
@@ -1244,6 +1390,10 @@ def render_one(ent):
         lines.append('')
         lines.append(fmt_mail_review(ent))
         lines.append('')
+    if g in ('A', 'B'):
+        dm = fmt_dims(ent)
+        if dm:
+            lines.append(dm)
     lines.append('## 基本事实（事实/推断/假设分层）')
     lines.append('')
     lines.append('| 项 | 内容 | 层级 |')

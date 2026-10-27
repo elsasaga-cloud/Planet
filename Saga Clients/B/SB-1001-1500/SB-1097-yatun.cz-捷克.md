@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -53,6 +53,21 @@ updated: 2026-10-25
 |---|---|---|---|---|---|
 | 2025-04-12 | 去 | Elsa 群发（BCC；To office@ergate.cz，CZ 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 info@yatun.cz, yatun.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-28 | 去 | Elsa 群发（BCC；To office@ergate.cz，CZ 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@yatun.cz, yatun.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 2 封（2024-11-02 → 2024-11-29），打开标签 2 次（近 12 个月 0，最后 2024-11-29）；打开过：「8 Port Ethernet Switch」×1（2024-11-02）、「48 Port PoE Managed Switch」×1（2024-11-29）。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-11-29 → 2024-11-29；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-29 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `096d1850f905f26c` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 1 个（Pulsar）；官网语言 cs（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/yatuncz/、https://www.instagram.com/yatun_cz/、https://www.linkedin.com/company/220514。
+- **日历窗口**：对方：2026-11-17 自由民主日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -145,14 +160,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1097/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.yatun.cz/) | html | HTTP 403 | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
-| [news_1](https://www.yatun.cz/blog-novinky) | html | HTTP 403 | 2026-10-23T04:20:51Z | 导航「Všechny články」 |
+| [home](https://www.yatun.cz/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11341 字符；首行：Domů \| Yatun.cz |
+| [news_1](https://www.yatun.cz/blog-novinky) | html | HTTP 200 | 2026-10-23T04:20:51Z | 15988 字符；首行：Novinky \| Yatun.cz |
 | [youtube](https://www.youtube.com/@yatun-cz) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-06-05T07:32:40+00:00 Webinář novinky v ETS |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/220514；Instagram: https://www.instagram.com/yatun_cz/；Facebook: https://www.facebook.com/yatuncz/
@@ -260,12 +275,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

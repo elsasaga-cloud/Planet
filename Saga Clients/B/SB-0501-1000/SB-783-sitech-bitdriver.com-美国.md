@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -56,6 +56,17 @@ updated: 2026-10-25
 | 2026-09-10 | 去 | A/S 群发 | Managed Optical Bypass Switch、90W PoE Managed Switch | 35 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-10（35 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | VC多功能 光猫 机架 工业FS；Switch MC 串口为主 | 表内备注 | `用户表` |
 | 2026-09-10 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 76093d3904dc57e4；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `76093d3904dc57e4` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（US 全库 53 个「户·月」真人来信）**：8 月 17.0% / 11 月 11.3% / 1 月 11.3%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 35 封（2025-01-20 → 2026-09-10），打开标签 0 次。
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 9 / automation 2） / 光纤接入 / 媒体转换（media converter 15 / fiber 148）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$62.2 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 292 条 URL；社媒：http://www.facebook.com/pages/SI-Tech-Inc/167910479939061、http://www.linkedin.com/company/1804072。
+- **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -190,14 +201,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 212 条： t43.htm； t44.htm； t45.htm； t46.htm； t47.htm； t48.htm； t49.htm； t50.htm…
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 212 条： t43.htm； t44.htm； t45.htm； t46.htm； t47.htm； t48.htm； t49.htm； t50.htm…
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-783/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://sitech-bitdriver.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3509 字符；首行：A World of Fiber Optic Solutions by S.I. Tech, Inc. |
-| [sitemap](https://sitech-bitdriver.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 292 个 URL；最新 lastmod - |
+| [sitemap](https://sitech-bitdriver.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 292 个 URL；最新 lastmod - |
 | [news_1](https://sitech-bitdriver.com/news/news.htm) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2417 字符；首行：S.I. Tech Latest News and Featured Products |
 
 ## 联系方式（已有 · 原值照录）
@@ -310,12 +321,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

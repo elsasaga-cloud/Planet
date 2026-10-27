@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,17 @@ updated: 2026-10-25
 | 2026-07-10 | 去 | Alan | We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform… IPv6 readiness… Expanded multicast support (IGMP v1/v2/v3, PIM-SM) | 7.5 = PIM-SM 可用的书面证据（对 Netaş 有用） | `74f5b9590b098b4c` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：2025-06-11 去信承诺 16 口 STI-41616XGGPM-4BT 的 DI/DO/RS485「expected to be ready on August」→ 2025-08-22 去信仍「not available on this model yet（8 口有）」→ 此后无交代；仓内无 16 口 DI/DO 上线证据——下一封顺带一句有/无
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 17 封（2025-06-10 → 2026-04-27）；多在 8 月（6） / 6 月（3） / 9 月（2）；对方本地时间中位 16:06，四分位 12:36–18:24；周一最多（4）、周末 29%；**他们回信中位 32.0 小时**（17 次，47% 在 24 小时内）；我方回信中位 6.8 小时（17 次，>72 小时 5 次）。
+- **发信窗口（GB 全库 1094 封群发的打开标签，对方本地时间；均值 5.0%）**：周四 12–14 点 11.9%（42 封）、周二 14–16 点 7.8%（103 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 3 封（2025-06-10 → 2026-07-10），打开标签 2 次（近 12 个月 1，最后 2026-07-10）；打开过：「90W PoE Managed Switch」×1（2025-06-10）、「Firmware 7.5 L2+ Feature Update」×1（2026-07-10）；从未打开：「Managed Optical Bypass Switch」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 1 个（Saga（！））。
+- **写信的人（来信签名机械抽取）**：Info（info@gogreenit.net，17 封，2025-06-10 → 2026-04-27）。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04；Boxing Day 12-28 补休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -220,13 +231,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 chewie_rss：新增 1 条：Sat, 24 Oct 2026 23 
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 mastodon_instance：内容变化：+4 −4 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-007/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [mastodon_instance](https://mammut.gogreenit.net/api/v1/instance) | json | HTTP 200 | 2026-10-25T07:41:18Z | version="4.7.3"; stats={"user_count": 9, "status_count": 16427, "domain_count": 285; conta |
+| [mastodon_instance](https://mammut.gogreenit.net/api/v1/instance) | json | HTTP 200 | 2026-10-26T07:56:19Z | version="4.7.3"; stats={"user_count": 9, "status_count": 16458, "domain_count": 285; conta |
 | [chewie_rss](https://mammut.gogreenit.net/@chewie.rss) | rss | HTTP 200 | 2026-10-25T07:41:18Z | 20 条；最新：Sat, 24 Oct 2026 23:31:35  |
 | [home](http://gogreenit.net/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 2569 字符；首行：Go Green IT - Home |
 | [auto_home](https://gogreenit.net/) | html | HTTP 200 | 2026-10-23T04:57:18Z | 2569 字符；首行：Go Green IT - Home |
@@ -341,12 +352,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 116）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 116）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

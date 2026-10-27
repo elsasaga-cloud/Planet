@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -58,6 +58,17 @@ updated: 2026-10-25
 | 2025-05-29 | 来 | a.giacobazzi@eter.it | Re: Managed Optical Bypass Switch｜Sarò fuori sede fino al 29/05/2025 compreso, con accesso limitato all’email. Per urgenze tecniche scrivere a ufficiotecn | 自动回复/退信（机器，不算人工回复） | `8575db49dcf3f1a4` |
 | 2025-07-08 | 来 | info@eter.it | Re: 48 Port PoE Managed Switch｜Grazie per averci contattato!  Vi preghiamo di inoltrare la vostra richiesta all'ufficio competente: Per preventivi: com | 自动回复/退信（机器，不算人工回复） | `53d5e6cb48a878b5` |
 | 2026-08-05 | 来 | a.giacobazzi@eter.it | Re: WiFi 7 Ready Access Switch｜Sarò fuori sede fino al 3/7/2026 compreso, con accesso limitato all’email. Per urgenze tecniche scrivere a ufficiotecnic | 自动回复/退信（机器，不算人工回复） | `434dcaf226e2aa4b` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 5 封（2025-05-29 → 2026-08-05）；多在 5 月（2） / 8 月（2）；对方本地时间中位 14:18，四分位 10:00–14:42；周四最多（2）；**他们回信中位 0.0 小时**（5 次，100% 在 24 小时内）；**我方未回 5 封**。
+- **发信窗口（IT 全库 864 封群发的打开标签，对方本地时间；均值 2.8%）**：周一 12–14 点 3.8%（53 封）、周一 10–12 点 2.3%（44 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 12 封（2025-05-29 → 2026-09-17），打开标签 3 次（近 12 个月 1，最后 2026-08-05）；打开过：「Managed Optical Bypass Switch」×1（2025-05-29）、「48 Port PoE Managed Switch」×1（2025-07-08）、「WiFi 7 Ready Access Switch」×1（2026-08-05）；从未打开：「10G Enterprise SFP Switch」、「Marvell Industrial Alert System」、「OEM Core Switching Solution」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 59 条 URL；官网语言 it-IT（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/eterbiometric、https://www.instagram.com/eterbiometric/、https://www.linkedin.com/company/eter-biometric/。
+- **写信的人（来信签名机械抽取）**：info（info@eter.it，3 封，2025-05-29 → 2026-08-05）；a.giacobazzi（a.giacobazzi@eter.it，2 封，2025-05-29 → 2026-08-05）。
+- **日历窗口**：对方：2026-12-08 圣母无染原罪瞻礼（长周末）；2026-12-24 圣诞–主显节（到 01-06） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -175,8 +186,8 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 youtube：新增 1 条：2026-10-26T06:29:19 Official Theme Song of HikTech Star Tour 2026
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-462/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -184,7 +195,7 @@ updated: 2026-10-25
 | [home](https://www.eter.it/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5654 字符；首行：Home - Eter Biometrics |
 | [sitemap](https://www.eter.it/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.eter.it/news/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3460 字符；首行：News - Eter Biometrics |
-| [youtube](https://www.youtube.com/@eterbiometric2178) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-23T09:38:47+00:00 Hikvision Smart Banking Solution |
+| [youtube](https://www.youtube.com/@eterbiometric2178) | youtube_handle | HTTP 200 | 2026-10-26T07:56:19Z | 15 条；最新：2026-10-26T06:29:19+00:00 Official Theme Song of HikTech Star Tour 2026 |
 | [feed_auto](https://www.eter.it/feed/) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 10 条；最新：Fri, 23 Oct 2026 06:52:27 Eter Biometric Technologies al Secsolutionforum 2026: in |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/eterbiometric；Instagram: https://www.instagram.com/eterbiometric/；LinkedIn: https://www.linkedin.com/company/eter-biometric/
@@ -298,12 +309,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

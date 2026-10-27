@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -53,6 +53,13 @@ updated: 2026-10-25
 | 2026-10-21 | 用户表 | Simon | 百兆收发器 / from: 阿里巴巴询盘 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 32 条 URL；站内可见品牌 2 个（Siemens、Schneider）；官网语言 es（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/share?url=https://socraonline.com/producto/contactor-de-potencia-3rt10353ap00-siemens/&text=Contactor%20De%20Potencia%203RT10353AP00%20SIEMENS、https://twitter.com/share?url=https://socraonline.com/producto/minicontactor-auxiliar-mcra040at3-general-electric/&text=Minicontactor%20Auxiliar%20MCRA040AT3%20GENERAL%20ELECTRIC、https://twitter.com/share?url=https://socraonline.com/producto/tapa-3-modulos-503-3-bticino/&text=Tapa%203%20Modulos%20503%203%20BTICINO。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦 + 暑假 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -134,15 +141,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 news_1：内容变化：+3 −3 行
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 news_1：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-930/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://socraonline.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4271 字符；首行：Socra - Tu aliado en suministros de mineria |
 | [sitemap](https://socraonline.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://socraonline.com/blog/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 2070 字符；首行：Blog - Socra |
+| [news_1](https://socraonline.com/blog/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 2070 字符；首行：Blog - Socra |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCH5UUa3JadVQhKzBlJcIh9g) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 0 条 |
 | [feed_auto](https://socraonline.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 3 条；最新：Thu, 01 Jul 2021 19:57:09 “La Gran Renuncia”: por qué los trabajadores en Estados U |
 
@@ -254,12 +261,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

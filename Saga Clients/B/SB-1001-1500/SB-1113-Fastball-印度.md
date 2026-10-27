@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -63,6 +63,12 @@ updated: 2026-10-25
 | 2023-12-13 | 去 | Saga 内部（List_2023.12.13.xlsx / New_List.xlsx / Bypass_client_list.xlsx，存于 Rishi 文件夹） | 印度名单：secureye「很多找到的邮箱都试了 fail」、kabirinfotech「买来刷logo」、mahalasaent「requested samples before, but now company distributor Surabhi Info is on it. SILENT follow-up」、sundartechno Manoj Kumar… | Saga 自己做的印度 MC/旁路/工业交换机线索表放在 Fastball 文件夹里 = 当时设想 Fastball 当印度分销去跟这些线索（与给 Angora 土耳其名单同一套路）。Fastball 没成为分销商，名单也没交出去；这些印度户多数已在客户库 C/B | `Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi` |
 | 2024-01-15 | 去 | Saga 代采记录《Information.docx》《Customs_Information.docx》（Rishi 配件） | Supplier Lenon（宁波）… Cleaner Pen, HS 8517799000… 40 pc 1.25mm (LC) + 40 pc 2.5mm (SC)… Cost 2.7×80 + 46 ship = 262 USD；采购成本 2.7×80 + 2.5 = 218.5 USD | Saga 为 Rishi 代采过 80 支光纤清洁笔（毛利约 $43）——Fastball 的 FTTH 配件清单（跳线/尾纤/分光器/LIU/VFL/光功率计/PoE 延长器…）Saga 都能代采，但利润薄，只作为交换机单的搭售 | `pi_doc` |
 | 2024-01-15 | 去 | Saga→Rishi《Model_List.docx》《Title_Reference.docx》 | Commercial Rack: STC-4168XGGCM / STC-4816XGCGM / STC-4816XGCGPM / STC-424XGGM / STC-424XGGPM / STC-448XGGM / STC-448XGGPM / STC-448XGGM-AF… Industrial Rack: STI-448XGGM / STI-4168XGGCM…；Title_Reference：「5 port unmanaged Ethernet switch / 8 port 10/100M lan switch / … / 27 port hybrid rate poe switch…」共 30+ 条电商式标题 | Saga 给 Rishi 的是「机架型号清单 + 电商标题参考」——Fastball 在印度做线上/分销铺货，要的是可直接上架的标题与型号树；这份清单也是 Saga 现成的 IndiaMART/Amazon 文案底稿 | `pi_doc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -139,14 +145,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T06:51:07Z
+- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T06:51:07Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1113/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://fastball.in/) | html | HTTP 200 | 2026-10-23T06:51:07Z | 9609 字符；首行：Fastball |
-| [indiamart](https://www.indiamart.com/fastball/) | html | HTTP 429 | 2026-10-23T03:05:43Z | IndiaMART 店铺（有 FBC-204GP 4 口工业交换机 = 贴我方 STC-204GP 同款命名；20 口千兆光纤交换机） |
+| [indiamart](https://www.indiamart.com/fastball/) | html | HTTP 200 | 2026-10-23T03:05:43Z | 3790 字符；首行：Exporter & Trader - Retailer of Fiber Optic Splicing Machines Suppliers by Fast |
 
 - **人工定期看（登录墙，不自动抓）**：TradeIndia 店铺；GST 07AJJPR5445G1ZX，个体 proprietorship 2021；站点无 RSS（/feed/ 404、?feed=rss2 返回 HTML）: https://fastball.in/
 
@@ -253,12 +259,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -69,6 +69,18 @@ updated: 2026-10-25
 | 2025-05-15 | 去 | Saga（Alan） | Hi, Hussain, Any update about this project? Btw There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. *Model choice* 1. 5 Port/8 Port/24 Port 2. 10/100M 3. PoE version *It is a good and cheap replacement of Wago, Tripplite, Red Lion, Antair… | Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `46f7e87117f44fe3` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：报价单价（quotation PDF 未在附件索引中提取）；MOH-TA 是哪国卫生部项目——仅由编号推断
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 5 封（2025-03-18 → 2025-05-15）；多在 3 月（2） / 4 月（2）；对方本地时间中位 13:30，四分位 10:36–15:06；周二最多（3）；**他们回信中位 18.4 小时**（5 次，60% 在 24 小时内）；我方回信中位 10.0 小时（4 次）；**我方未回 1 封**。
+- **发信窗口（GB 全库 1094 封群发的打开标签，对方本地时间；均值 5.0%）**：周四 12–14 点 11.9%（42 封）、周二 14–16 点 7.8%（103 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 13 封（2025-03-19 → 2026-09-07），打开标签 1 次（近 12 个月 0，最后 2025-03-19）；打开过：「Industrial PoE Switch」×1（2025-03-19）；从未打开：「48 Port PoE Managed Switch」、「Managed Optical Bypass Switch」、「Mini Industrial PoE Switch」。
+- **品类覆盖与缺口**：官网兴趣：光纤接入 / 媒体转换（media converter 16 / fiber 99）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；**还没碰过的一类：光纤接入 / 媒体转换** → 下封信可加一句 STI-140GE（1 光 4 电工业非管理，$26.9 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 556 条 URL（≥500 = 大目录 / 网店体量）；官网语言 en-GB（信照样英文，首句可用对方语言问候）；社媒：https://facebook.com/linxcomuk/、https://twitter.com/linxcomuk、https://www.linkedin.com/company/linxcom-uk。
+- **写信的人（来信签名机械抽取）**：Hussain Alqahtani — Purchasing and Product Development Manager（hussain.alqahtani@linx-com.com，5 封，2025-03-18 → 2025-05-15）。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04；Boxing Day 12-28 补休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -179,15 +191,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 news_1：内容变化：+2 −2 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 news_1：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-160/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.linx-com.com/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 7518 字符；首行：Linxcom UK |
+| [home](https://www.linx-com.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 7518 字符；首行：Linxcom UK |
 | [sitemap](https://www.linx-com.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.linx-com.com/blog/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 7204 字符；首行：Blog - Linxcom UK |
+| [news_1](https://www.linx-com.com/blog/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 7204 字符；首行：Blog - Linxcom UK |
 | [feed_auto](https://www.linx-com.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Sun, 03 Oct 2021 23:00:11 TIGHT-BUFFERED CABLE VS LOOSE TUBE GEL FILLED |
 
 - **人工定期看（登录墙，不自动抓）**：X/Twitter: https://twitter.com/linxcomuk；Facebook: https://facebook.com/linxcomuk/；LinkedIn: https://www.linkedin.com/company/linxcom-uk
@@ -299,12 +311,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 54）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 54）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

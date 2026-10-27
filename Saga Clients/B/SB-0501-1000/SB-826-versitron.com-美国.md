@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,6 +83,31 @@ updated: 2026-10-25
 | 2026-03-11 | 来 | 自动回复 | 自动回复（Greg Massott 2026-03-11 休假）里指定「contact R.W. Tull at rwtull@versitron.com」 | Versitron 内部第二个具名入口（R.W. Tull）；三年只跟 Greg 一人谈，这是绕开单点的现成地址 | `4ac602505b7d8db3` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：2026-03-11 之后 Greg 是否读信（只有自动回复 4ac602505b7d8db3）；（已核 2026-10-24，第 73 批）2026-03-11 S 邮箱去信附件 = 「STH1G Series.pdf」+「Dual AC.jpg」→ 发的是 CENTEC STH1G 系列资料（不是 AC5），正文却写「stacking available on all models」——信稿已据此纠正：只有 STH 堆叠，Marvell 不堆叠
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 20 封（2023-11-09 → 2025-10-31）；多在 8 月（5） / 1 月（3） / 6 月（3）；对方本地时间中位 10:30，四分位 09:06–11:42；周三最多（8）；**他们回信中位 5.9 小时**（20 次，70% 在 24 小时内）；我方回信中位 30.9 小时（16 次，>72 小时 7 次）；**我方未回 4 封**。
+- **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 11 封（2023-11-09 → 2025-11-28），打开标签 5 次（近 12 个月 1，最后 2025-10-30）；打开过：「POE switch」×1（2023-11-09）、「48 Port PoE Managed Switch」×1（2024-11-19）、「24 Port Fiber Switch」×1（2025-01-03）、「L3 Managed Switch」×1（2025-08-27）；从未打开：「Power Converter」、「10G Ethernet Web Managed Switch」、「16 Port Ethernet Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 4 条 + 个性化群发价 3 条，2024-05-16 → 2025-10-30；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2025-10-30 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `c63ae0d8d2f14dae` |
+  | 2025-08-28 | 「It is 500usd/pc, it is expensive because we are doing Marvell chip.」 | $500 | —（原句无型号） | — | 1:1 | L3 Managed Switch | `d9911e2b978f6965` |
+  | 2025-01-03 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `13601a02ac7fdef0` |
+  | 2024-11-19 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `c9f08eec36ddb223` |
+  | 2024-06-18 | 「Price: 75usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $75 | —（原句无型号） | — | 1:1 | POE switch | `533485b14a400b6f` |
+  | 2024-05-16 | 「Commercial model, 375usd/pc」 | $375 | —（原句无型号） | — | 1:1 | POE switch | `73339deec6e397bd` |
+  | 2024-05-16 | 「Industrial model, 550usd/pc」 | $550 | —（原句无型号） | — | 1:1 | POE switch | `73339deec6e397bd` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 180 / automation 26） / 安防 PoE（cctv 14 / camera 68 / poe 368） / 10G 汇聚（10g 216 / sfp 416） / 光纤接入 / 媒体转换（media converter 197 / fiber 889）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：10G 汇聚 / L3 / PoE；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$62.2 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 219 条 URL；社媒：https://twitter.com/versitron、https://www.facebook.com/versitroninc、https://www.linkedin.com/company/versitron-inc-/。
+- **写信的人（来信签名机械抽取）**：Greg Massott（gmassott@versitron.com，20 封，2023-11-09 → 2025-10-31）。
+- **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -187,7 +212,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-826/`；本节随档案重渲染刷新，实时看日志。
 
@@ -312,12 +337,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

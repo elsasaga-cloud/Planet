@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -59,6 +59,26 @@ updated: 2026-10-25
 | 2024-07-07 | 来 | Chandra（NetOn） | Yes, interested | 10G MC | `98852d1abcd4b4a6` |
 | 2024-08-14 | 来 | Chandra | hi Whats the pricing. | 询价 | `68986281c27a13e8` |
 | 2024-08-14 | 去 | Simon | 38usd/pc STI-154GP… -40℃ to 75℃, Din mounted, Without SFP Transceiver, Without Power Supply | 报价后停 | `71f84f290da90e77` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2024-07-07 → 2024-08-14）；对方本地时间中位 12:18；**他们回信中位 1.1 小时**（2 次，100% 在 24 小时内）；我方回信中位 12.4 小时（2 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 32 封（2024-06-16 → 2026-09-25），打开标签 2 次（近 12 个月 1，最后 2025-11-17）；打开过：「10G fiber media converter」×1（2024-07-07）、「Optional Marvell Chipset Solutions」×1（2025-11-17）；从未打开：「Industrial PoE Switch」、「10G Enterprise SFP Switch」、「10G L3 Managed Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 1 条 + 个性化群发价 2 条，2024-07-07 → 2024-11-20；「今天」= 价格主表 2026-10-17 汇率、25% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-20 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `49a94193b7498739` |
+  | 2024-08-14 | STI-154GP | $38 | $39.2 | +3% | 1:1 | 10G fiber media converter | `71f84f290da90e77` |
+  | 2024-07-07 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G fiber media converter | `1b2ed2a08076f189` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 0 / automation 18）；我们报过 / 卖过：工业 PoE 非管理 ×1；打开过的群发主题落在：10G 汇聚；兴趣品类都已碰过——缺口不在品类，在上面的断点。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 50 条 URL；站内可见品牌 2 个（Cisco、Hikvision）；社媒：https://wa.me/97145423229、https://www.facebook.com/netonuae/、https://www.instagram.com/neton_technologies。
+- **写信的人（来信签名机械抽取）**：NetOn Technologies LLC（info@netontechnologies.com，2 封，2024-07-07 → 2024-08-14）。
+- **日历窗口**：对方：2026-12-02 国庆日（12-02/03）；2027-02-08 斋月（约 02-08 → 03-09） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -223,7 +243,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-25T07:41:18Z
 - **最近变化摘要**：2026-10-25 news_1：内容变化：+8 −0 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-043/`；本节随档案重渲染刷新，实时看日志。
 
@@ -337,12 +357,12 @@ Chandra, Simon from Saga Telecom. You asked the price of the 4-port DIN PoE in 2
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 65）；人工/调研定级 → B
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 65）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

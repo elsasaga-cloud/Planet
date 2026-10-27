@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -56,6 +56,16 @@ updated: 2026-10-25
 | 2024-11-03 | 来 | vienthonggiatotvn@gmail.com | What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết: | 来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `cd4b791c86455683` |
 | 2024-11-03 | 去 | Simon（Quotation.pdf） | 「What is the price?」的回复 = 报价单：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理）$60，validity 15 d，4~7 wd，warranty 3 years。 | 同一天同一款 $60 也报给了 SB-010（美国）——STI-288GP $60 是 2024-11 的统一实报价 | `S 邮箱附件 `Quotation.pdf` sha=b6e6158b418183d8（2024-11-03）` |
 | 2026-09-10 | 去 | Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 vienthonggiatotvn@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2024-11-03 → 2024-11-03）；**他们回信中位 4.3 小时**（1 次，100% 在 24 小时内）；我方回信中位 1.2 小时（1 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 3 封（2024-11-03 → 2025-01-06），打开标签 1 次（近 12 个月 0，最后 2024-11-03）；打开过：「8 Port Industrial PoE Switch」×1（2024-11-03）；从未打开：「Mini Industrial PoE Switch」、「16 Port Ethernet Switch」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 449 条 URL；站内可见品牌 8 个（TP-Link、Cisco、PLANET、HRUI（！）、Ubiquiti、MikroTik）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；社媒：https://www.facebook.com/VI%E1%BB%84N-TH%C3%94NG-GI%C3%81-T%E1%BB%90T-112789490186637/?modal=admin_todo_tour、https://www.facebook.com/facebook。
+- **写信的人（来信签名机械抽取）**：Viễn Thông Giá Tốt（vienthonggiatotvn@gmail.com，1 封，2024-11-03 → 2024-11-03）。
+- **日历窗口**：对方：2027-02-06 春节 Tết（约 02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -162,14 +172,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 369 条：2020-08-10T09:07:16 siemens-cable.html；2020-08-10T09:07:16 cap-ket-noi-hmi.html；2
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 369 条：2020-08-10T09:07:16 siemens-cable.html；2020-08-10T09:07:16 cap-ket-noi-hmi.html；2
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1102/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://vienthonggiatot.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 20829 字符；首行：VIỄN THÔNG GIÁ TỐT |
-| [sitemap](https://vienthonggiatot.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 449 个 URL；最新 lastmod 2020-08-10T09:07:16 |
+| [sitemap](https://vienthonggiatot.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 449 个 URL；最新 lastmod 2020-08-10T09:07:16 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -274,12 +284,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 21）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 21）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

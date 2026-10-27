@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -56,6 +56,16 @@ updated: 2026-10-25
 | 2024-07-30 | 来 | joejts@hotmail.com | Hi Yea I’m interested Could you send me a quote ________________________________ | 来信原文（主题「Re: Passive poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `a7eeebbc9d6743fe` |
 | 2024-07-31 | 去 | Simon → Joy Tann（Re: Passive poe switch；附 Passive PoE.pdf） | 「Please see attached file with more similar models and prices」——被动 PoE 手册《Passive PoE.pdf》（2024 版）内含价表：STC-024FP-24V $14 / 014GP-24V $20 / 028FP-24V $20 / 028GP-24V $31 / 1116CGFP-24V $51 / 2216GP-24V $84 / 2224GP-24V $92 / 0224GFP-24V $84 / 2024GP-24V $90（24V 被动 PoE，AC 输入，1U）；条款：批量 50/50，T/T 每笔 $25，PayPal 5%。08-01 追问「Any interested model in the brochure? samples?」→ 无回。 | Joy 07-30 说「Yea I'm interested, could you send me a quote」，得到的是整本手册而不是一行报价——加拿大小集成商要的是单价 + 运费，这一步丢了；2025-11-21 Booster 群发他回「No, but thank you」= 明确不要 | `k=6f17b39724999299 / 3e9a5984fdd973a9；附件 sha=022bf78f9c734904` |
 | 2025-11-21 | 来 | Joe | No, but thank you. | 拒绝 | `3b06b00f028239e2` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2024-07-30 → 2025-11-21）；对方本地时间中位 14:24；**他们回信中位 2.1 小时**（2 次，100% 在 24 小时内）；我方回信中位 4.7 小时（1 次）；**我方未回 1 封**。
+- **发信窗口（CA 全库 681 封群发的打开标签，对方本地时间；均值 5.7%）**：周五 12–14 点 7.8%（51 封）、周二 12–14 点 7.8%（51 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 25 封（2024-06-28 → 2026-09-28），打开标签 2 次（近 12 个月 1，最后 2025-11-21）；打开过：「Passive poe switch」×1（2024-07-30）、「Booster PoE Switch」×1（2025-11-21）；从未打开：「Marvell Alleycat5 Solution」、「Industrial PoE Switch」、「10G Enterprise SFP Switch」。
+- **写信的人（来信签名机械抽取）**：joy tann（joejts@hotmail.com，2 封，2024-07-30 → 2025-11-21）。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -261,12 +271,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -56,6 +56,23 @@ updated: 2026-10-25
 | 2025-02-12 | out | Elsa → jskim@solway.co.kr | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-02-06 | 来 | Kim | Could you please provide me with your best pricing for both Optic and Copper Bypass switches? | 要价 | `60de5a43f2413966` |
 | 2026-02-06 | 去 | Saga（Alan） | Hi, Lee, Thanks for your reply. 1, Sorry, we do not have copper bypass, just fiber bypass. I believe you know the differences and applications very well. 2, for now, we only have optical bypass managed switch. That is an optical component fixed inside the swit | 历史报价点（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）： | `ad3c414a423e33cb` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2026-02-06 → 2026-02-06）；我方回信中位 2.3 小时（1 次）。
+- **发信窗口（KR 全库 1206 封群发的打开标签，对方本地时间；均值 5.1%）**：周一 10–12 点 7.4%（188 封）、周二 10–12 点 6.7%（194 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 28 封（2024-06-26 → 2026-09-07），打开标签 2 次（近 12 个月 0，最后 2025-09-01）；打开过：「24 Port Fiber Switch」×1（2025-08-05）、「10G Media Converter」×1（2025-09-01）；从未打开：「Managed Optical Bypass Switch」、「Marvell Industrial Alert System」、「10G Enterprise SFP Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-11-28 → 2024-11-28；「今天」= 价格主表 2026-10-17 汇率、25% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-28 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `f81f3b26e6aad98f` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **写信的人（来信签名机械抽取）**：Jinsoo Kim（jinsookim2982@gmail.com，1 封，2026-02-06 → 2026-02-06）。
+- **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 설날（02-06 → 02-08） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -145,7 +162,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-598/`；本节随档案重渲染刷新，实时看日志。
 
@@ -256,12 +273,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

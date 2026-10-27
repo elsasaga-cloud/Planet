@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -65,6 +65,15 @@ updated: 2026-10-25
 | 2026-02-12 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20241108014：成本 512 / 收款 665 / 利润 153（23.0%） · STSC20250107014：成本 2,560 / 收款 3,208 / 利润 648（20.2%） · STSC20251009014：成本 1,024 / 收款 1,225 / 利润 201（16.4%） · STSC20260212014：成本 1,536 / 收款 1,760 / 利润 224（12.7%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 1 封（2024-06-27 → 2024-06-27），打开标签 0 次。
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 15 / automation 8）；我们报过 / 卖过：工业 非PoE 非管理 ×1（买过 STI-0160GE）；兴趣品类都已碰过——缺口不在品类，在上面的断点。
+- **规模与贴牌线索（官网快照 2026-10-21）**：官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://in.linkedin.com/company/sundar-techno-solutions?trk=public_profile_topcard_current_company、https://twitter.com/SundarTechno、https://www.facebook.com/Sundar-Techno-Solutions-468605697037043/?hc_ref=ARQWa9QTtpSDn7Aiqyq1K1KisWMBo4KzBLfNV-NTawinOR8DQ7QAlIEWW1xUdoB-K54&fref=nf&__xts__%5B0%5D=68.ARAMIapyIXee6K2z_lsIzY0SrKcg8PRMriQ4E9Zbk_Qxn8vv61NTShHn5iakc0XMo_l2V_w-rzS0gU31uFtM54tLKzZtt0flOpI54LcUnV5GqgE5piJuC9cOskZ2OoQqDobcaZo12ShM0GbT47L8hkgtFgIT9gGwU5iOLw3f5rlKoJo8Ya4C_r8wcGsT-exhfgEd9OaiwhWMkhm0ijpzp4vCctGOhO7EaqOO2fjNq4OOZGXY1Yu7LA6tyOpm3tE7OnIiv94Q4xA4ElLUvu4HbmVpt-p3grXTaBgIOi_MjsWGWiMzHzabKPStNcoW8oKKNhK8Kfkc0IxSzMshgxPxIJk&__tn__=kC-R。
+- **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -206,16 +215,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 auto_youtube：新增 3 条：2026-10-24T13:12:55 **Industrial Protocol Converters for Factory and Process Automa
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 auto_youtube：新增 3 条：2026-10-25T14:22:17 USB-C to SFP Fiber Network Adapter \| 1 Gbps Ethernet up to 10 k
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-032/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [site_feed](https://sundartechno.com/feed/) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD |
 | [home](https://sundartechno.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 3744 字符；首行：Sundar Techno Solutions - Sundar Techno Solutions |
-| [indiamart_minisite](https://www.sundartechno.in/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 4892 字符；首行：Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengalu |
-| [auto_youtube](https://www.youtube.com/@SUNDARTECHNOSOLUTIONS) | youtube_handle | HTTP 200 | 2026-10-25T07:41:18Z | 15 条；最新：2026-10-24T13:12:55+00:00 **Industrial Protocol Converters for Factory and Process |
+| [indiamart_minisite](https://www.sundartechno.in/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 4934 字符；首行：Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengalu |
+| [auto_youtube](https://www.youtube.com/@SUNDARTECHNOSOLUTIONS) | youtube_handle | HTTP 200 | 2026-10-26T07:56:19Z | 15 条；最新：2026-10-25T14:22:17+00:00 USB-C to SFP Fiber Network Adapter \| 1 Gbps Ethernet up |
 | [feed_auto](https://sundartechno.com/feed/) | rss | HTTP 200 | 2026-10-23T04:57:18Z | 10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD |
 
 - **人工定期看（登录墙，不自动抓）**：https://in.linkedin.com/company/sundar-techno-solutions（39 followers；2 周前发 4U 工业机箱 Make in India）；https://www.linkedin.com/in/manoj-kumar-n-b4ba7a32/（CEO，5K followers，常发边缘 AI/工业 PC）；https://x.com/SundarTechno；https://www.instagram.com/sundar_techno_solutions/；https://www.facebook.com/profile.php?id=100063936730171；YouTube（句柄待核：首轮 404）: https://www.youtube.com/results?search_query=Sundar+Techno+Solutions；Facebook: https://www.facebook.com/Sundar-Techno-Solutions-468605697037043/?hc_ref=ARQWa9QTtpSDn7Aiqyq1K1KisWMBo4KzBLfNV-NTawinOR8DQ7QAlIEWW1xUdoB-K54&fref=nf&__xts__%5B0%5D=68.ARAMIapyIXee6K2z_lsIzY0SrKcg8PRMriQ4E9Zbk_Qxn8vv61NTShHn5iakc0XMo_l2V_w-rzS0gU31uFtM54tLKzZtt0flOpI54LcUnV5GqgE5piJuC9cOskZ2OoQqDobcaZo12ShM0GbT47L8hkgtFgIT9gGwU5iOLw3f5rlKoJo8Ya4C_r8wcGsT-exhfgEd9OaiwhWMkhm0ijpzp4vCctGOhO7EaqOO2fjNq4OOZGXY1Yu7LA6tyOpm3tE7OnIiv94Q4xA4ElLUvu4HbmVpt-p3grXTaBgIOi_MjsWGWiMzHzabKPStNcoW8oKKNhK8Kfkc0IxSzMshgxPxIJk&__tn__=kC-R；X/Twitter: https://twitter.com/SundarTechno
@@ -321,12 +330,12 @@ Next batch of STI-0160GE — same 2–5 pcs, or is any site asking for a managed
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 82）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 82）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

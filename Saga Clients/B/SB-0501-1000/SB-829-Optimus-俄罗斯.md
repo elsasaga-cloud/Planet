@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 5
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -54,6 +54,22 @@ updated: 2026-10-25
 | 2025-12-15 | 去 | Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次） | Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3,  | Elsa 箱群发 BCC 触达证据（命中地址 optimus-cctv.ru, sales@optimus-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-01-22 | 去 | Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次） | OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G | Elsa 箱群发 BCC 触达证据（命中地址 optimus-cctv.ru, sales@optimus-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-26 | 去 | Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 optimus-cctv.ru, sales@optimus-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **本国来询季节（RU 全库 17 个「户·月」真人来信，样本小）**：12 月 23.5% / 5 月 23.5% / 1 月 11.8%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 22 封（2024-08-07 → 2026-08-24），打开标签 3 次（近 12 个月 0，最后 2025-08-27）；打开过：「10G Media Converter」×1（2025-01-13）、「Marvell Alleycat5 Solution」×1（2025-03-11）、「24 Port Fiber Switch」×1（2025-08-27）；从未打开：「Industrial PoE Switch」、「10G Enterprise SFP Switch」、「Industrial fiber switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 2 条，2024-11-08 → 2025-01-13；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2025-01-13 | 「*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `1ff0e29602e5e2ce` |
+  | 2024-11-08 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `b40a0acedfdbfd62` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **日历窗口**：对方：2026-11-04 民族统一日；2027-01-01 新年长假（01-01 → 01-10 整体停摆） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -174,7 +190,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-829/`；本节随档案重渲染刷新，实时看日志。
 
@@ -296,12 +312,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -56,6 +56,16 @@ updated: 2026-10-25
 | 2026-10-21 | 用户表 | Simon | POE switch 自己的logo 就这一款工业级的 摄像头，安防 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（US 全库 53 个「户·月」真人来信）**：8 月 17.0% / 11 月 11.3% / 1 月 11.3%——本户来信太少，按本国节奏排下一步。
+- **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 13 / camera 343 / poe 101）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：安防 PoE** → 下封信可加一句 STC-424XGGPM-280W（24 口千兆 PoE + 4 × 10G SFP+ L2+ 管理 280W，$196.3 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 230 条 URL；社媒：https://twitter.com/intent/tweet?text=Montavue%20Nexus%2012MP%204K%20RGB%20Turret%20PoE%20Security%20Camera%20System%20with%2016-Channel%20Pro%20NVR%20%26%204TB%20HDD&url=https://montavue.com/products/12mp-4k-home-rgb-turret-ip-security-camera-system-with-pro-16-channel-poe-nvr-4tb-hdd、https://twitter.com/intent/tweet?text=Montavue%20Nexus%2012MP%204K%20RGB%20Turret%20PoE%20Security%20Camera%20System%20with%208-Channel%20Pro%20NVR%20%26%201TB%20HDD&url=https://montavue.com/products/12mp-4k-home-rgb-turret-ip-security-camera-system-with-pro-8-channel-poe-nvr-1tb-hdd、https://twitter.com/intent/tweet?text=Montavue%20Nexus%208MP%204K%20Smart%20Light%20Turret%20PoE%20Security%20Camera%20System%20with%208-Channel%20Pro%20NVR%20%26%201TB%20HDD&url=https://montavue.com/products/8mp-4k-home-smart-light-turret-ip-security-camera-system-with-pro-8-channel-poe-nvr-1tb-hdd。
+- **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -150,13 +160,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 home：内容变化：+354 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-951/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://montavue.com/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 23130 字符；首行：Montavue - 4K & 2K Security Systems for Home and Business - No Fees |
+| [home](https://montavue.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 23130 字符；首行：Montavue - 4K & 2K Security Systems for Home and Business - No Fees |
 | [sitemap](https://montavue.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://montavue.com/blogs/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 10855 字符；首行：News |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCEEaBLfel_Jb-ZYU71IDTiA) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-16T17:12:44+00:00 Montavue Wholesale 2026 |
@@ -271,12 +281,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

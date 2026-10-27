@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -55,6 +55,16 @@ updated: 2026-10-25
 | 2025-03-30 | 去 | Elsa 群发（To 直收：本户是「UK-安防分销（一轮）」批次的锚，其余客户在 Bcc） | 8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an | Elsa 箱群发直达证据（To sales@luxritesecurity.com）；该批次 1 轮 2025-03-30 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信 | `elsa_bcc` |
 | 2026-09-04 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 luxritesecurity.com, sales@luxritesecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-07 | 去 | Saga（Simon，群发） | 24 Port PoE Managed Switch… Price: 180USD/PC（发 info@4gon.co.uk = SC-659） | 同一集团 21 个月后再被群发一次；他们已明确说过不需要——4Gon/Luxrite 应从群发名单剔除 | `gmail_s（thr 1878262953979638412）` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（GB 全库 1094 封群发的打开标签，对方本地时间；均值 5.0%）**：周四 12–14 点 11.9%（42 封）、周二 14–16 点 7.8%（103 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（GB 全库 27 个「户·月」真人来信，样本小）**：1 月 14.8% / 5 月 11.1% / 6 月 11.1%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 1 封（2025-01-26 → 2025-01-26），打开标签 1 次（近 12 个月 0，最后 2025-01-26）；打开过：「16 Port PoE Managed Switch」×1（2025-01-26）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1225 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 3 个（Ruijie、Dahua、Ajax）；社媒：https://www.facebook.com/LuxriteLtd/、https://www.instagram.com/luxriteltd、https://www.linkedin.com/company/luxrite。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04；Boxing Day 12-28 补休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -152,14 +162,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 820 条：2026-10-12T14:01:00 contact；2024-01-16T16:21:00 careers；2026-05-06T15:16:00 about
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 820 条：2026-10-12T14:01:00 contact；2024-01-16T16:21:00 careers；2026-05-06T15:16:00 about
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1054/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.luxritesecurity.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7673 字符；首行：Luxrite Ltd - Trade CCTV Distributor |
-| [sitemap](https://www.luxritesecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod 2026-10-23T15:37:00 |
+| [sitemap](https://www.luxritesecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 900 个 URL；最新 lastmod 2026-10-23T15:37:00 |
 | [news_1](https://www.luxritesecurity.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9590 字符；首行：News |
 | [youtube](https://www.youtube.com/@luxrite1) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-07-29T15:46:02+00:00 📲 How to Add a CCTV Recorder to DMSS App (Quick & Easy)  |
 
@@ -268,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

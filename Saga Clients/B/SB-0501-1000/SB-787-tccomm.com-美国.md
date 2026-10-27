@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -54,6 +54,27 @@ updated: 2026-10-25
 | 2024-06-19 | 去 | S 箱（Simon） | 48 port managed switch | 首封去信（邮箱索引；去信共 43 封） | `59eac8f4234fa84e` |
 | 2026-09-09 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 43 封） | `81ea8a5561a68212` |
 | 2024-10-30 | 来 | chk999@outlook.com | Re: 10G Ethernet Web Managed Switch｜Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party htt | 误归属：Chavan Koya = SB-701（NovaCA），回信抄送 larry@novaca.com 落到本户标签；Simon 2024-10-31 已答「HTTPS 不在功能表」。本户（tccomm.com）无人工回复 | `5a42faf06fd8915e` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2024-10-30 → 2024-10-30）；**他们回信中位 0.7 小时**（1 次，100% 在 24 小时内）；**我方未回 1 封**。
+- **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（US 全库 53 个「户·月」真人来信）**：8 月 17.0% / 11 月 11.3% / 1 月 11.3%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 43 封（2024-06-19 → 2026-09-09），打开标签 5 次（近 12 个月 0，最后 2025-08-05）；打开过：「24 port poe switch」×1（2024-07-21）、「10G Ethernet Web Managed Switch」×1（2024-10-30）、「10G Media Converter」×1（2024-11-26）、「Managed Optical Bypass Switch」×1（2025-07-08）；从未打开：「16 Port Ethernet Switch」、「Marvell Industrial Alert System」、「10G Enterprise SFP Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 2 条，2024-06-19 → 2024-11-26；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-26 | 「*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `aef1a3fd056c209b` |
+  | 2024-06-19 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `59eac8f4234fa84e` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 402 条 URL；**自有型号串 5 个**（TC3846-6、TC3848-1、TC3240）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）；社媒：http://www.linkedin.com/company/tc-communications_2、http://www.youtube.com/user/TCCommInc、https://www.youtube.com/@TCCommInc。
+- **关联户**：SB-701 chk999@outlook.com（B；同一封邮件）——写信前看一眼对方档案，别两边说两套价。
+- **写信的人（来信签名机械抽取）**：Chavan Koya（chk999@outlook.com，1 封，2024-10-30 → 2024-10-30）。
+- **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -192,14 +213,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 400 条： BECOL； Serial-Over-T1-E1-Multiplexer； TDM-over-IP-Jumboswitch； Fiber； Network-Co
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 400 条： BECOL； Serial-Over-T1-E1-Multiplexer； TDM-over-IP-Jumboswitch； Fiber； Network-Co
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-787/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://tccomm.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9456 字符；首行：TC Communications - Fiber Optic Networks and Industrial Ethernet Solutions |
-| [sitemap](https://tccomm.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 481 个 URL；最新 lastmod - |
+| [sitemap](https://tccomm.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 481 个 URL；最新 lastmod - |
 | [news_1](https://tccomm.com/NewsEvents) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6586 字符；首行：Product Updates on How TC Integrates Ethernet, TDM & Voice on One Rugged GigE P |
 | [news_2](https://tccomm.com/NewsandUpdates) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8930 字符；首行：Product Updates on How TC Integrates Ethernet, TDM & Voice on One Rugged GigE P |
 | [youtube](https://www.youtube.com/@TCCommInc) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-21T15:47:13+00:00 RS-366 Dial-Up Fiber Optic Modem \| TC1230 |
@@ -319,12 +340,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

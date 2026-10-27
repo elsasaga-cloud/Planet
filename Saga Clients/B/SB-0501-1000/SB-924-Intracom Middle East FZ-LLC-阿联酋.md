@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -66,6 +66,26 @@ updated: 2026-10-25
 | 2026-02-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-04-29 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2024-08-07 → 2024-10-09）；对方本地时间中位 10:54；**他们回信中位 0.5 小时**（2 次，100% 在 24 小时内）；我方回信中位 0.6 小时（1 次）；**我方未回 1 封**。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 11 封（2024-07-10 → 2026-09-15），打开标签 3 次（近 12 个月 0，最后 2024-10-09）；打开过：「Passive PoE Switch」×1（2024-07-10）、「Industrial poe switch」×1（2024-08-07）、「Mini Industrial PoE Switch」×1（2024-10-09）；从未打开：「10G media converter」、「48 Port PoE Managed Switch」、「8 Port Industrial PoE Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 1 条 + 个性化群发价 2 条，2024-09-03 → 2024-11-15；「今天」= 价格主表 2026-10-17 汇率、25% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-15 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `764c4a033b6f4315` |
+  | 2024-10-09 | STI-222GP | $34 | $34.6 | +2% | 1:1 | Re: Mini Industrial PoE Switch | `815888411fd50a1b` |
+  | 2024-09-03 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `fc524009e37f20fa` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 36 / automation 55）；我们报过 / 卖过：工业 PoE 非管理 ×1；打开过的群发主题落在：PoE / 工业；兴趣品类都已碰过——缺口不在品类，在上面的断点。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1220 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 1 个（Ubiquiti）；社媒：https://twitter.com/IntracomTelecom、https://www.facebook.com/intracomtelecom、https://www.linkedin.com/company/intracom-telecom。
+- **写信的人（来信签名机械抽取）**：Mohammad Yaacoub（myaacoub@intracom-telecom.com，1 封，2024-08-07 → 2024-08-07）；Mohammad Yaacoub（mohammad.yaacoub@intracom-telecom.com，1 封，2024-10-09 → 2024-10-09）。
+- **日历窗口**：对方：2026-12-02 国庆日（12-02/03）；2027-02-08 斋月（约 02-08 → 03-09） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -175,14 +195,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 820 条：2026-05-12T11:56:03 professional-services；2026-05-12T11:56:03 radio-planning；2026
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 820 条：2026-05-12T11:56:03 professional-services；2026-05-12T11:56:03 radio-planning；2026
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-924/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://intracom-telecom.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 24117 字符；首行：Intracom Telecom - Intracom Telecom |
-| [sitemap](https://intracom-telecom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod 2026-10-12T09:24:59 |
+| [sitemap](https://intracom-telecom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 900 个 URL；最新 lastmod 2026-10-12T09:24:59 |
 | [news_1](https://intracom-telecom.com/corporate/newsroom/press/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 22661 字符；首行：Intracom Telecom - Press Releases |
 | [news_2](https://intracom-telecom.com/corporate/newsroom/events/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 23452 字符；首行：Intracom Telecom - Events |
 | [youtube](https://www.youtube.com/user/IntracomTelecom) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-13T10:59:19+00:00 Unlocking Gigabit Connectivity in Every Building |
@@ -302,12 +322,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

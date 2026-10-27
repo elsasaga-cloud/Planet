@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -57,6 +57,16 @@ updated: 2026-10-25
 | 2024-06-22 | 去 | Simon → Ly Thanh Ha（Quotation.pdf） | 10 台询价的正式报价：STI-260FE（6×FE + 2×100M 光，非 PoE，非管理，DIP）$35 ×10 = $350；STI-266FP（6×FE PoE 180W + 2×100M 光）$40 ×10 = $400；合计 $750；validity 15 d；leadtime 4~7 wd；warranty 3 years；1×9 固定光口可选。 | 对方「Please quote me 10pcs」是明确的小批量意向，报价后无回——VN 线不动，但价是实报，留作百兆工业机锚 | `S 邮箱附件 `Quotation.pdf` sha=191732ce6b45da58（2024-06-22）` |
 | 2026-09-10 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ thuyluc1973@gmail.com（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-09-10 | out | Elsa → thuyluc1973@gmail.com | 24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正） | `elsa_bcc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2024-06-21 → 2024-06-21）；**他们回信中位 20.6 小时**（1 次，100% 在 24 小时内）；我方回信中位 8.0 小时（1 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 8 封（2024-06-21 → 2026-10-20），打开标签 2 次（近 12 个月 0，最后 2024-12-19）；打开过：「8 port fiber switch」×1（2024-06-21）、「48 Port PoE Managed Switch」×1（2024-12-19）；从未打开：「8 port poe switch」、「8 Port Ethernet Switch」、「10G Media Converter」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 275 条 URL；官网语言 vi（信照样英文，首句可用对方语言问候）。
+- **写信的人（来信签名机械抽取）**：- Lý Thanh Hà - MTS Hydraulics & Automat（chuyengiathuykhi@gmail.com，1 封，2024-06-21 → 2024-06-21）。
+- **日历窗口**：对方：2027-02-06 春节 Tết（约 02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -155,7 +165,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-367/`；本节随档案重渲染刷新，实时看日志。
 
@@ -277,12 +287,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -68,6 +68,25 @@ updated: 2026-10-25
 | 2025-04-28 | 来 | Mark | Do you have broadcom based solution? | 第三次 | `898769c94b9fc197` |
 | 2025-04-28 | 去 | Alan | Sorry to tell you that we focus on Marvell… Broadcom is for high-end market only, the market is small... | 口径收回 | `e8d9d485eebf828f` |
 | 2026-01-16 | 去 | Saga（Alan） | Hi, Mark, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation… | Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `231c410bdb6b62d3` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 6 封（2024-05-09 → 2025-02-05）；多在 1 月（3） / 2 月（2）；对方本地时间中位 16:12，四分位 07:30–21:06；周三最多（2）、周末 17%；**他们回信中位 23.3 小时**（6 次，50% 在 24 小时内）；我方回信中位 8.4 小时（6 次，>72 小时 1 次）。
+- **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 7 封（2024-05-07 → 2026-02-12），打开标签 5 次（近 12 个月 1，最后 2025-12-29）；打开过：「L3 managed switch」×1（2024-05-07）、「48 Port 10G Core Switch」×1（2024-12-17）、「48 Port SFP Switch」×1（2025-01-23）、「Marvell Alleycat5 Solution」×1（2025-03-03）；从未打开：「Industrial PoE Switch」、「Updated Ethernet Switches Links」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 2 条，2025-02-10 → 2025-02-10；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2025-02-10 | 「1, 1000usd/pc, 2*40G+24*10G, all fiber」 | $1000 | —（原句无型号） | — | 1:1 | 48 Port SFP Switch | `eb80eea25e1a3bb5` |
+  | 2025-02-10 | 「2, 4000usd/pc, 6*40G+48*10G, all fiber」 | $4000 | —（原句无型号） | — | 1:1 | 48 Port SFP Switch | `eb80eea25e1a3bb5` |
+
+- **品类覆盖与缺口**：官网兴趣：10G 汇聚（10g 7 / sfp 23）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：10G 汇聚 / L3；兴趣品类都已碰过——缺口不在品类，在上面的断点。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 10 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）。
+- **写信的人（来信签名机械抽取）**：Mark Schulting（mark@expresssupply.net，5 封，2024-05-09 → 2025-02-05）；Mark Schulting（mschulting@expresssupply.net，1 封，2025-02-05 → 2025-02-05）。
+- **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -187,7 +206,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-026/`；本节随档案重渲染刷新，实时看日志。
 
@@ -302,12 +321,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

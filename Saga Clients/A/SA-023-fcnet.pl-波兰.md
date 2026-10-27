@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -63,6 +63,16 @@ updated: 2026-10-25
 | 2025-04-22 | 来 | FCNET | We have much better price for this product from different supplier. | 价格流停点 | `34b75cab2668542d` |
 | 2025-04-22 | 来 | info@fcnet.pl | Re: 10G Media Converter｜We have much better price for this product from different supplier.    Pozdrawiam / Best regards  FCNET sp. z o.o. \| ul. Św. Jacka 2 45-073 Opole t: + | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `34b75cab2668542d` |
 | 2026-09-28 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 24 封） | `03690d2c8c5731ec` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2025-04-18 → 2025-04-22）；多在 4 月（2）；对方本地时间中位 11:00；**他们回信中位 0.1 小时**（2 次，100% 在 24 小时内）；我方回信中位 0.7 小时（1 次）；**我方未回 1 封**。
+- **发信窗口（PL 全库 585 封群发的打开标签，对方本地时间；均值 5.5%）**：周四 12–14 点 4.8%（42 封）、周五 10–12 点 2.4%（41 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 22 封（2025-02-04 → 2026-09-28），打开标签 3 次（近 12 个月 1，最后 2025-12-31）；打开过：「10G Media Converter」×1（2025-04-18）、「10G Enterprise SFP Switch」×1（2025-10-10）、「Marvell Industrial Alert System」×1（2025-12-31）；从未打开：「16 Port Ethernet Switch」、「Managed Optical Bypass Switch」、「Mini Industrial PoE Switch」。
+- **写信的人（来信签名机械抽取）**：FCNET sp. z o.o.（info@fcnet.pl，2 封，2025-04-18 → 2025-04-22）。
+- **日历窗口**：对方：2026-11-11 独立日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -191,7 +201,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-023/`；本节随档案重渲染刷新，实时看日志。
 
@@ -310,12 +320,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 85）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 85）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

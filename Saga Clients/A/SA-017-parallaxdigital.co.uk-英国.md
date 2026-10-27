@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -58,6 +58,28 @@ updated: 2026-10-25
 | 2024-10-24 | 来 | Jeff | Customers usually want one or the other and not a combo We sell desktop and rack for both | 24V/48V 组合款被否 | `c935ae4f928d5620` |
 | 2024-10-30 | 去 | Simon | Its actually a selling point(auto voltage output) | Saga 坚持 | `d86526863f22737d` |
 | 2024-12-28 | 来 | 用户表（Simon 跟进记录；渠道 Email） | 用户表跟进：推「发了工业电源价格册」→ 对方「will check 问了网站 后续发了2光4小壳」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/UK.xlsx no.56 2024.12.28` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2024-06-03 → 2024-10-24）；对方本地时间中位 12:00；**他们回信中位 0.7 小时**（2 次，100% 在 24 小时内）；我方回信中位 431.3 小时（2 次，>72 小时 2 次）。
+- **发信窗口（GB 全库 1094 封群发的打开标签，对方本地时间；均值 5.0%）**：周四 12–14 点 11.9%（42 封）、周二 14–16 点 7.8%（103 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（GB 全库 27 个「户·月」真人来信，样本小）**：1 月 14.8% / 5 月 11.1% / 6 月 11.1%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 23 封（2024-06-03 → 2026-09-28），打开标签 2 次（近 12 个月 0，最后 2024-10-24）；打开过：「48 port managed switch」×1（2024-06-03）、「24V/48V PoE Switch」×1（2024-10-24）；从未打开：「Industrial PoE Switch」、「10G Enterprise SFP Switch」、「8 Port Industrial PoE Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 2 条，2024-06-03 → 2024-07-03；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-07-03 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 48 port managed switch | `e056f44936325edc` |
+  | 2024-06-03 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `8fee83f8e52f41b0` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 203 / automation 0） / 10G 汇聚（10g 8 / sfp 56）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$62.2 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 415 条 URL；站内可见品牌 1 个（Cisco）；官网语言 en-GB（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/ParallaxDigTech、https://www.facebook.com/ParallaxDigTech、https://www.instagram.com/parallaxdigtech/。
+- **写信的人（来信签名机械抽取）**：Jeff Ferrier（jeff.ferrier@parallaxdigital.co.uk，2 封，2024-06-03 → 2024-10-24）。
+- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [pxdio](https://github.com/pxdio)（仅名称一致，未核实是否同一家；公开仓库 5，最近 push 2026-10-26：workflows、kubernetes-deploy-action、linkerd）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04；Boxing Day 12-28 补休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -211,13 +233,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 home：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-017/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://parallaxdigital.co.uk/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7736 字符；首行：Parallax Digital – Digital products and services |
+| [home](https://parallaxdigital.co.uk/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 7736 字符；首行：Parallax Digital – Digital products and services |
 | [sitemap](https://parallaxdigital.co.uk/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://parallaxdigital.co.uk/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6671 字符；首行：News – Parallax Digital |
 | [news_2](https://parallaxdigital.co.uk/projects/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4517 字符；首行：Projects – Parallax Digital |
@@ -334,12 +356,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 89）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 89）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,6 +77,30 @@ updated: 2026-10-25
 | 2025-01-03 | 来 | Alexander | Thank you, but your prices are too high. | 最后一封来信 | `7cb3dfcf81666a75` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「已卖 ONV 工业 FS」在 S/A 邮箱无成交痕迹；Simon 2024-04-19 对其称「My factory is in Huiyang district, Huizhou」——与现口径（Engineering & Supply-Chain-First）不同，后续再联系时注意口径一致
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 16 封（2023-12-15 → 2025-01-03）；多在 5 月（7） / 4 月（3） / 12 月（2）；对方本地时间中位 15:06，四分位 12:24–17:18；周二最多（8）、周末 12%；**他们回信中位 4.1 小时**（15 次，73% 在 24 小时内）；我方回信中位 0.7 小时（16 次，>72 小时 1 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 3 封（2026-02-03 → 2026-07-02），打开标签 1 次（近 12 个月 1，最后 2026-02-03）；打开过：「Updated Ethernet Switches Links」×1（2026-02-03）；从未打开：「10G Enterprise SFP Switch」、「Firmware 7.5 L2+ Feature Update」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 8 条，2024-02-27 → 2024-05-21；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-05-21 | 「Yes, its 350usd/pc.」 | $350 | —（原句无型号） | — | 1:1 | Din power supply | `152a98c3eeefd6a2` |
+  | 2024-05-21 | 「23usd/pc」 | $23 | —（原句无型号） | — | 1:1 | Din power supply | `152a98c3eeefd6a2` |
+  | 2024-05-21 | 「350usd/pc」 | $350 | —（原句无型号） | — | 1:1 | Din power supply | `80bdb8e0e1b5a1a5` |
+  | 2024-05-20 | 「For the 10G L3 model, it is 360usd/pc.」 | $360 | —（原句无型号） | — | 1:1 | Din power supply | `7e7f4ea846102c34` |
+  | 2024-05-20 | 「Price is 130usd/pc.」 | $130 | —（原句无型号） | — | 1:1 | Din power supply | `7e7f4ea846102c34` |
+  | 2024-04-18 | 「Price: 135usd/pc」 | $135 | —（原句无型号） | — | 1:1 | Din power supply | `3b218a526f756a50` |
+  | 2024-02-27 | STI-244GP | $40 | $35.2 | -12% | 1:1 | Din power supply | `9e70b92b05e06744` |
+  | 2024-02-27 | 「310usd/pc」 | $310 | —（原句无型号） | — | 1:1 | Din power supply | `9e70b92b05e06744` |
+
+  今天比当时低：直接报今天的价，顺手说一句「比上次低」是现成的开场。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 82 条 URL。
+- **写信的人（来信签名机械抽取）**：Александр Руднев（air@td-fe.ru，16 封，2023-12-15 → 2025-01-03）。
+- **日历窗口**：对方：2026-11-04 民族统一日；2027-01-01 新年长假（01-01 → 01-10 整体停摆） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -208,14 +232,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 2 条：2022-09-04T06:00:01 td-fe.com；2022-09-04T06:00:01 enclosed
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 2 条：2022-09-04T06:00:01 td-fe.com；2022-09-04T06:00:01 enclosed
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-035/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://td-fe.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3342 字符；首行：TH Faraday Electronics Ltd. is a professional developer and manufacturer of pow |
-| [sitemap](https://td-fe.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 82 个 URL；最新 lastmod 2022-09-04T06:00:18 |
+| [sitemap](https://td-fe.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 82 个 URL；最新 lastmod 2022-09-04T06:00:18 |
 | [news_1](https://td-fe.com/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2048 字符；首行：News of TH Faraday Electronics Ltd. |
 
 ## 联系方式（已有 · 原值照录）
@@ -313,12 +337,12 @@ Alexander, Simon here. No new catalogue - one question only. Is the 8-port L2-ma
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

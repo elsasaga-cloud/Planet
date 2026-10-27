@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -56,6 +56,15 @@ updated: 2026-10-25
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（TR 全库 901 封群发的打开标签，对方本地时间；均值 4.0%）**：周四 10–12 点 5.9%（51 封）、周一 10–12 点 5.2%（58 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（TR 全库 17 个「户·月」真人来信，样本小）**：5 月 17.6% / 1 月 11.8% / 2 月 11.8%——本户来信太少，按本国节奏排下一步。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 2158 条 URL（≥500 = 大目录 / 网店体量）；官网语言 tr（信照样英文，首句可用对方语言问候）；社媒：http://www.instagram.com、http://www.twitter.com、https://www.facebook.com/www.oncuelektronik.net/。
+- **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -133,15 +142,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 feed_auto：新增 2 条：Sun, 25 Oct 2026 02 Confession 2026 BDRip 4KUHD x264 Yify Torr𝐞nt；Sat, 24 Oct 2026 
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 feed_auto：新增 2 条：Mon, 26 Oct 2026 03 EIVA NaviSuite Portable AI Bypass Full Unlocked Genuine；Sun, 25
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-167/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://onsis.com.tr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1266 字符；首行：Onsis Elektrik Elektronik Güvenlik Sistemleri – Kalite ve Üstün Hizmetle Teknol |
 | [sitemap](https://onsis.com.tr/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [feed_auto](https://onsis.com.tr/feed) | rss | HTTP 200 | 2026-10-25T07:41:18Z | 10 条；最新：Sun, 25 Oct 2026 02:35:28 Confession 2026 BDRip 4KUHD x264 Yify Torr𝐞nt |
+| [feed_auto](https://onsis.com.tr/feed) | rss | HTTP 200 | 2026-10-26T07:56:19Z | 10 条；最新：Mon, 26 Oct 2026 03:21:47 EIVA NaviSuite Portable AI Bypass Full Unlocked Genuine |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/www.oncuelektronik.net/；X/Twitter: http://www.twitter.com；LinkedIn: https://www.linkedin.com/company/onsis；Instagram: http://www.instagram.com
 
@@ -239,12 +248,12 @@ Esef Bey, ISAF'ta istediğiniz numune: 2 SFP + 8 port PoE L2 yönetilebilir end�
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

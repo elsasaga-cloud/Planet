@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -58,6 +58,16 @@ updated: 2026-10-25
 | 2024-06-18 | 去 | Saga（Simon） | Hi, Francois, Thanks for your reply. We got 2 commercial models. 1, Realtek chip, 12 port SFP+, L2 managed 2, Marvell chip, 4 port SFP+ and 48 port SFP, L3 managed There is a Marvell based industrial model FYI. Its 4 port SFP+ and 16 port SFP+8*1G SFP/RJ45, L3 managed Please see attached datasheets… | Saga 实质答复原文（主题「Re: 48 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `9c34ff9a98f0c773` |
 | 2024-06-24 | 来 | François Burton | Not really, looking for SFP+ ports with ventilation front to back. | 规格 | `75e864d4417eab48` |
 | 2024-09-09 | 去 | Saga（Simon） | Hi, Francois, How are you? We are now introducing a new series, high-speed switches. Previously you said you need a switch that just has fiber ports. Please check this one. 32*100G We have many other specifications. Please let me know if this is useful to you.… | Saga 实质答复原文（主题「Re: 24 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `5b93217dc580dc09` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2024-06-17 → 2024-06-24）；多在 6 月（2）；对方本地时间中位 11:24；**他们回信中位 0.0 小时**（1 次，100% 在 24 小时内）；我方回信中位 268.4 小时（2 次，>72 小时 1 次）。
+- **发信窗口（CA 全库 681 封群发的打开标签，对方本地时间；均值 5.7%）**：周五 12–14 点 7.8%（51 封）、周二 12–14 点 7.8%（51 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 16 封（2024-08-14 → 2026-03-05），打开标签 2 次（近 12 个月 0，最后 2024-11-14）；打开过：「24 port managed switch」×1（2024-08-14）、「90W PoE Managed Switch」×1（2024-11-14）；从未打开：「Marvell Industrial Alert System」、「Power Converter」、「10G Media Converter」。
+- **写信的人（来信签名机械抽取）**：Francois Burton（francois.burton0@gmail.com，2 封，2024-06-17 → 2024-06-24）。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -250,12 +260,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

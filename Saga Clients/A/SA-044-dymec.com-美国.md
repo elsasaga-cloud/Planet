@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -66,6 +66,27 @@ updated: 2026-10-25
 | 2026-06-03 | 去 | Saga（Alan） | Hi, Thomas, 1. What is your expected range? 2. 0ºC to 40ºC is a popular range, widely applied by various brands like Juniper, see attached photo. Such switches are installed in data center stations with a fixed temp range from 22ºC to 28ºC, and there are good cooling conditions and designs. It shoul… | Saga 实质答复原文（主题「Re: 10G L3 Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `6b53faaab0eef35f` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：BlueWarrior 与 DYMEC 的股权/品牌关系仅凭自动回复推断（Tom West 同时出现在两边）——官网未交叉印证
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 3 封（2024-07-30 → 2025-09-22）；对方本地时间中位 11:00；周二最多（1）；**他们回信中位 0.1 小时**（3 次，100% 在 24 小时内）；我方回信中位 8.8 小时（2 次）；**我方未回 1 封**。
+- **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 23 封（2024-07-01 → 2026-09-07），打开标签 6 次（近 12 个月 0，最后 2025-09-22）；打开过：「2.5G unmanaged switch」×1（2024-07-01）、「24 port poe switch」×1（2024-07-30）、「Mini Industrial PoE Switch」×1（2024-12-11）、「Marvell Industrial Alert System」×1（2025-05-28）；从未打开：「Managed Optical Bypass Switch」、「10G Media Converter」、「90W PoE Managed Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 3 条，2024-09-30 → 2025-01-06；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2025-01-06 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `897626c786ef6e49` |
+  | 2024-11-19 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `d26439227af2bdf3` |
+  | 2024-09-30 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `7d38a7e2bc862f4b` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 128 / automation 22） / 10G 汇聚（10g 58 / sfp 157） / 光纤接入 / 媒体转换（media converter 20 / fiber 83）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：2.5G / PoE / 工业；**还没碰过的一类：10G 汇聚** → 下封信可加一句 STC-448XGGPM（48 口千兆 PoE + 4 × 10G SFP+ L2+ 管理，$363.4 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 60 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/Dymec-388955778165019/、https://www.linkedin.com/company-beta/22297655/。
+- **写信的人（来信签名机械抽取）**：Thomas West（sales@dymec.com，2 封，2024-07-30 → 2024-08-23）；Thom Sherer（thom.sherer@dymec.com，1 封，2025-09-22 → 2025-09-22）。
+- **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -189,7 +210,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-044/`；本节随档案重渲染刷新，实时看日志。
 
@@ -313,12 +334,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

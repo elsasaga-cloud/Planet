@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -145,6 +145,29 @@ updated: 2026-10-25
 | 2026-10-03 | 来 | Levent（微信，10-02 19:56）→ Simon（10-03 00:19） | Levent: We expect an order for 88 pieces of L2+ industrial 8-port together with 48V power supply. Can you please share a pricing for this in the same box → Simon: STI-288DGGPM 875RMB/PC; Power supply 240W Meanwell original brand 250RMB/PC; for the switch itself we keep the price low, basically the same as last order; we will handle the material costs here; will use same packing box → Levent: Thanks Simon. Great. | 最新一单正在路上：88 台 STI-288DGGPM + 240W 明纬电源，人民币计价（875+250），同包装；10-03 至今无 PI 文件夹 → 现在要做的是催 PO/预付款，而不是谈 CENTEC | `wechat_ocr` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：微信侧 2026-09-23 的 25 张聊天截图（Drive→PI 包）缩略图仅 58×360 px、OCR 为空——内容不可读；只有 2026-10-06 那张（10-02/03 的 88 台报价）可读。2026-10-21 截图同样不可读 → 88 台单的 PO 是否已到，仓内无证；Turk Telekom 项目的现状（2025-09 之后邮件无更新）；2026-07-31 报告与 2026-08-17 回复都只在 Drive（PI 文件夹），邮箱无原件 → 传递渠道（微信/会议）待 Simon 确认；Turkey Client List（2024-11-05）给出后 Angora 是否实际跟进过名单中的公司——无任何记录；Q-51 定直发/让渡规则；TRONX BILISIM（tronx.com.tr, Mustafa Calik）未单独建档：Saga 客户库无 TronX 实体，建议作为 SA-077 子实体而非新建 B 户；Türk Telekom 2,000–3,000 台 RFP（2024-12）最终有没有发标/谁中标：S 邮箱 2025-02-11 后无下文（只在 2025-06-26「1,000 to 2,000 units」与 2026-03 警察局项目里再现大数）——下次微信问 Levent 一句「TT 那个标后来怎样」；Connexite（connexite.co.uk，2025-07-23 草案）后来有没有上线——网站/亚马逊未爬；若 Simon 想做英国零售，这是现成的问法
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（TR 全库 901 封群发的打开标签，对方本地时间；均值 4.0%）**：周四 10–12 点 5.9%（51 封）、周一 10–12 点 5.2%（58 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（TR 全库 17 个「户·月」真人来信，样本小）**：5 月 17.6% / 1 月 11.8% / 2 月 11.8%——本户来信太少，按本国节奏排下一步。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 31 条 + 个性化群发价 1 条，2024-06-14 → 2025-05-08；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2025-05-08 | 「2, the payment difference will be 255USD, lets add it in next order an」 | $255 | —（原句无型号） | — | 1:1 | Confirmation about Unshipped Materials | `bc5ffbb6d2fd04e9` |
+  | 2025-03-19 | 「The best we can do is 4600USD/pc for now.」 | $4600 | —（原句无型号） | — | 1:1 | Data Center switches | `4f38791bbfde04fc` |
+  | 2025-03-18 | 「4800USD/pc」 | $4800 | —（原句无型号） | — | 1:1 | Data Center switches | `208b7dcb8e3c1f8a` |
+  | 2025-03-12 | 「Price for 2*1G/2.5G: 100usd/pc(DC type, 90usd/pc)」 | $90 | —（原句无型号） | — | 1:1 | PI for New Order: 7 Units of Commercial L2+ Switch | `dc47c9508a0f57ba` |
+  | 2025-03-12 | 「Price for 4*1G/2.5G: 105usd/pc(DC type, 93usd/pc)」 | $93 | —（原句无型号） | — | 1:1 | PI for New Order: 7 Units of Commercial L2+ Switch | `dc47c9508a0f57ba` |
+  | 2025-01-16 | 「1, We got your initial payment 10,000Usd.」 | $10000 | —（原句无型号） | — | 1:1 | Angora Networks - New order 2116-PG | `caf84e7ec6848602` |
+  | 2024-11-28 | 「1. Unit price: 150usd(device)+1usd(console cable)=151usd/pc」 | $151 | —（原句无型号） | — | 1:1 | Angora Networks - New order 2116-PG | `00f9593232d28840` |
+  | 2024-11-28 | 「That is, 151*0.95=143.45usd/pc as final unit price」 | $143.45 | —（原句无型号） | — | 1:1 | Angora Networks - New order 2116-PG | `00f9593232d28840` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [anwHub](https://github.com/anwHub)（官网/邮箱域名一致；公开仓库 1，最近 push 2020-01-16：3rdPartyConfigs）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
+- **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -363,7 +386,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-077/`；本节随档案重渲染刷新，实时看日志。
 
@@ -487,12 +510,12 @@ Simon
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 108）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 108）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

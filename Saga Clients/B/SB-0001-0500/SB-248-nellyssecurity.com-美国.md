@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -60,6 +60,23 @@ updated: 2026-10-25
 | 2024-06-04 | 来 | customerservice@nellyssecurity.com | How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup | 自动工单回执 / 满意度调查（机器，不算人工回复） | `9ac616b1e77c6c7c` |
 | 2024-07-04 | 来 | customerservice@nellyssecurity.com | [Request received] 24 port poe switch｜##- Please type your reply above this line -##  Your request (252114) has been received and is being reviewed by our sup | 自动工单回执 / 满意度调查（机器，不算人工回复） | `a8425797c1332005` |
 | 2024-07-08 | 来 | customerservice@nellyssecurity.com | How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup | 自动工单回执 / 满意度调查（机器，不算人工回复） | `3b93d5d7d4f8b5f8` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（US 全库 53 个「户·月」真人来信）**：8 月 17.0% / 11 月 11.3% / 1 月 11.3%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 27 封（2024-07-04 → 2026-08-31），打开标签 3 次（近 12 个月 0，最后 2025-04-01）；打开过：「24 port poe switch」×1（2024-07-04）、「PoE switch」×1（2024-08-06）、「8 Port Industrial PoE Switch」×1（2025-04-01）；从未打开：「48 Port PoE Managed Switch」、「Mini Industrial PoE Switch」、「Industrial PoE Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-11-06 → 2024-11-06；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-06 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `da79ad9769e43861` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 125 条 URL；站内可见品牌 5 个（Uniview、Hanwha、ZKTeco、TP-Link、Ubiquiti）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；社媒：https://twitter.com/rackmounts、https://www.dropbox.com/scl/fi/0fhawrqt9en9xwefdacyp/EZStation_B1130.3.17.1-IN.zip?rlkey=ofsogq1pnur3oaeok1633w2bz&st=6r3wi6lc&dl=0、https://www.dropbox.com/scl/fi/mwewzou1j15izjlwbudd6/GuardStation_B1130.3.15.5-IN.zip?rlkey=2kbzs82j8u7ucsjxdiqdnn6jl&st=50t9s2fs&dl=1。
+- **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -180,13 +197,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 home：内容变化：+1301 −29 行
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 home：内容变化：+1273 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-248/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://nellyssecurity.com/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 60000 字符；首行：Nelly's Security \| CCTV, Access Control, and Intrusion Alarms |
+| [home](https://nellyssecurity.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 60000 字符；首行：Nelly's Security \| CCTV, Access Control, and Intrusion Alarms |
 | [sitemap](https://nellyssecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://nellyssecurity.com/blogs/articles) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5686 字符；首行：Articles |
 
@@ -302,12 +319,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

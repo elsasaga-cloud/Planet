@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -63,6 +63,23 @@ updated: 2026-10-25
 | 2026-02-03 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-04-27 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-09-07 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2024-10-25 → 2024-10-25）；我方回信中位 7.5 小时（1 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 2 封（2024-12-12 → 2025-01-06），打开标签 0 次。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-11-15 → 2024-11-15；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-15 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 2.5G Web Managed Switch | `524a938f61c8fb53` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 249 条 URL；站内可见品牌 1 个（LevelOne）。
+- **写信的人（来信签名机械抽取）**：Styven Tseng（styven@ilucoltd.com，1 封，2024-10-25 → 2024-10-25）。
+- **日历窗口**：对方：2027-02-05 农历新年（02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -160,14 +177,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 169 条： %e9%82%84%e5%9b%9e%e6%b2%bb%e5%85%b7； %e8%b3%87%e8%a8%8a%e8%a8%ad%e5%82%99-it-eq
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 169 条： %e9%82%84%e5%9b%9e%e6%b2%bb%e5%85%b7； %e8%b3%87%e8%a8%8a%e8%a8%ad%e5%82%99-it-eq
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-839/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.ilucoltd.com/en/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5208 字符；首行：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transform |
-| [sitemap](https://www.ilucoltd.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 249 个 URL；最新 lastmod - |
+| [sitemap](https://www.ilucoltd.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 249 个 URL；最新 lastmod - |
 | [feed_auto](https://ilucoltd.com/rss/all.xml) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 7 条；最新：Sat, 07 Nov 2015 22:43:00 baidu_verify_3TK7gpTcU6 |
 
 ## 联系方式（已有 · 原值照录）
@@ -279,12 +296,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

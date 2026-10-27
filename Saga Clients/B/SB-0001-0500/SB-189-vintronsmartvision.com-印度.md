@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -78,6 +78,24 @@ updated: 2026-10-25
 | 2026-10-21 | 用户表 | Simon | PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）；（已核 2026-10-24，第 73 批）三家各一封 Elsa 回复已读：Vintron 02-12 链接 PDF；Quip Pro 03-13 实报 STH-8C48DX-HSI $5,000 / STH-2C24XF-HSI $1,350 并问项目/品牌；AirLink 04-29「价格在链接里」；三家之后均无回
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 24 封（2024-07-03 → 2026-09-24），打开标签 4 次（近 12 个月 1，最后 2026-05-14）；打开过：「48 Port PoE Managed Switch」×1（2024-12-01）、「2.5G Web Managed Switch」×1（2024-12-19）、「8 Port Industrial PoE Switch」×1（2025-02-07）、「10G Enterprise SFP Switch」×1（2026-05-14）；从未打开：「Passive poe switch」、「Industrial poe switch」、「Mini Industrial PoE Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 7 条，2024-08-07 → 2024-12-31；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-12-31 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `2cc405c27d3679a2` |
+  | 2024-09-26 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `3f614545f03ac304` |
+  | 2024-08-26 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 port poe managed switch | `e5a85304f58a3e41` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 15 / automation 0） / 安防 PoE（cctv 58 / camera 530 / poe 210） / 光纤接入 / 媒体转换（media converter 46 / fiber 0）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：10G 汇聚 / 2.5G / PoE / 工业；**还没碰过的一类：光纤接入 / 媒体转换** → 下封信可加一句 STI-140GE（1 光 4 电工业非管理，$29.1 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 127 条 URL；社媒：https://www.facebook.com/Vintronsmartvision、https://www.instagram.com/vintronsmartvision?igsi=MXc4M3o1dnNkNjR4eA==、https://www.linkedin.com/company/vintron-smartvision/。
+- **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -199,15 +217,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 47 条： 3-0mp-ip-h-265-new-indoor-camera； 3-0mp-ip-h-265-new-outdoor-camera-4-ir-array-le
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 news_1：内容变化：+15 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-189/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://vintronsmartvision.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 8897 字符；首行：CCTV Manufacturer India \| Vintron Smartvision |
-| [sitemap](https://vintronsmartvision.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 127 个 URL；最新 lastmod - |
-| [news_1](https://www.vintronsmartvision.com/blog.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 12432 字符；首行：Vintron CCTV Blog \| Industry Insights for Dealers & Integrators Vintron CCTV  |
+| [sitemap](https://vintronsmartvision.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 127 个 URL；最新 lastmod - |
+| [news_1](https://www.vintronsmartvision.com/blog.html) | html | HTTP 200 | 2026-10-26T07:56:19Z | 12342 字符；首行：Vintron CCTV Blog \| Industry Insights |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/Vintronsmartvision；LinkedIn: https://www.linkedin.com/company/vintron-smartvision/；Instagram: https://www.instagram.com/vintronsmartvision?igsi=MXc4M3o1dnNkNjR4eA==
 
@@ -324,12 +342,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 52）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 52）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

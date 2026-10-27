@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -55,6 +55,16 @@ updated: 2026-10-25
 | 2025-05-20 | 来 | au@netbergtw.com | And you are limited to Marvell. You definitely should explore Broadcom-based switches. Broadcom has a way better SW support. | 来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `b2fdeceac0796384` |
 | 2025-05-20 | 去 | Saga（Alan） | Hi, Alex, Thanks for your information. I noticed that you are using marvell and BDM chips for your tor/dc switches. We now focus on marvell based edge/access switches, mostly 1G/2.5G/10G switches. Just wondering if you would possibly use such switches(not your focus, but sometimes come in need) in y… | Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `23b50febd1c4cfa9` |
 | 2025-05-20 | 去 | Saga（Alan） | Hi, Alex, Our client base is about SMBs and industrial networking. So we basically use marvell AC3 and AC5 chips, this is a very cost-effective choice. In our daily work, we received some queries for stackable/data center switches, or simply just need broadcom-based models. Well, not much we can do.… | Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `0759f588345bd385` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2025-05-20 → 2025-05-20）；多在 5 月（2）；对方本地时间中位 11:54；**他们回信中位 0.4 小时**（2 次，100% 在 24 小时内）；我方回信中位 1.0 小时（2 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 1 封（2025-05-20 → 2025-05-20），打开标签 1 次（近 12 个月 0，最后 2025-05-20）；打开过：「Marvell Alleycat5 Solution」×1（2025-05-20）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 6 条 URL。
+- **写信的人（来信签名机械抽取）**：Alexander Ustyuzhanin — Director, Netberg Ltd（au@netbergtw.com，2 封，2025-05-20 → 2025-05-20）。
+- **日历窗口**：对方：2027-02-05 农历新年（02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -148,7 +158,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-249/`；本节随档案重渲染刷新，实时看日志。
 
@@ -265,12 +275,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

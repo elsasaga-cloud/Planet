@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -54,6 +54,23 @@ updated: 2026-10-25
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-02-20 | 来 | ginahsu@meritlilin.com.tw | Hi, May I ask which country you are from? I will forward this to the responsible sales representative. Alan from Saga Telecom 於 2025.02.20 14:30 寫到： | 来信原文（主题「Re: 24 Port Fiber Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `ed575542f470023e` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2025-02-20 → 2025-02-20）；**他们回信中位 0.1 小时**（1 次，100% 在 24 小时内）；我方回信中位 0.7 小时（1 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 23 封（2024-06-24 → 2026-09-10），打开标签 3 次（近 12 个月 2，最后 2026-03-11）；打开过：「24 Port Fiber Switch」×1（2025-02-20）、「Booster PoE Switch」×1（2025-11-28）、「Updated Ethernet Switches Links」×1（2026-03-11）；从未打开：「24V poe switch」、「Industrial PoE Switch」、「16 Port Industrial PoE Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-12-16 → 2024-12-16；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-12-16 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `4c0cc8be5a71b873` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1994 条 URL（≥500 = 大目录 / 网店体量）；社媒：https://www.linkedin.com/company/lilin-taiwan/、https://www.youtube.com/user/Meritlilin。
+- **写信的人（来信签名机械抽取）**：Gina Hsu（ginahsu@meritlilin.com.tw，1 封，2025-02-20 → 2025-02-20）。
+- **日历窗口**：对方：2027-02-05 农历新年（02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -174,14 +191,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 820 条： tw； support； worldwide； solution； case-studies； blog； ndaa； where-to-buy-europe…
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 820 条： tw； support； worldwide； solution； case-studies； blog； ndaa； where-to-buy-europe…
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-083/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://meritlilin.com/en) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6127 字符；首行：LILIN - IP Cameras, NVRs and Edge AI Video Analytics |
-| [sitemap](https://meritlilin.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod 2026-10-04 |
+| [sitemap](https://meritlilin.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 900 个 URL；最新 lastmod 2026-10-04 |
 | [news_1](https://meritlilin.com/en/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5326 字符；首行：LILIN - Blog |
 | [news_2](https://meritlilin.com/en/case-studies) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5312 字符；首行：LILIN - Case Studies |
 | [youtube](https://www.youtube.com/user/Meritlilin) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-05-26T00:56:03+00:00 應用案例 - 淡水輕軌 |
@@ -296,12 +313,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 91）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 91）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

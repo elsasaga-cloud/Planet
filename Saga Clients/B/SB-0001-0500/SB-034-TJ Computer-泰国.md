@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -58,6 +58,16 @@ updated: 2026-10-25
 | 2025-03-18 | 来 | พงษ์อนันต์（泰国） | interested（回 Alan 2025-03-18「8 Port Industrial PoE Switch」） | 一词回复「interested」——泰国小集成商的典型反应；A 邮箱之后有无跟进见 digest；可作 WhatsApp 线索 | `gmail_a 2025-03-18 Re: 8 Port Industrial PoE Switch` |
 | 2025-05-14 | 来 | Peter（TJ Computer） | ราคาเท่าไหร่?（多少钱？） | bypass 询价 | `02da3feea2aac332` |
 | 2025-05-15 | 去 | Alan | 300usd/pc STI-488XGGPM2B-2BT… 2 channels single fiber Bypass ports… L2+ managed, Marvell chip | 报价后停 | `60215e5a3bb8a816` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2025-03-18 → 2025-03-18）；**他们回信中位 5.2 小时**（1 次，100% 在 24 小时内）；我方回信中位 4.6 小时（1 次）。
+- **发信窗口（TH 全库 447 封群发的打开标签，对方本地时间；均值 4.5%）**：周二 10–12 点 6.1%（49 封）、周一 10–12 点 3.4%（59 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 15 封（2025-02-12 → 2026-09-07），打开标签 4 次（近 12 个月 0，最后 2025-07-14）；打开过：「8 Port Industrial PoE Switch」×1（2025-03-18）、「Managed Optical Bypass Switch」×1（2025-05-14）、「Commercial PoE Switch」×1（2025-06-20）、「16 Port Ethernet Switch」×1（2025-07-14）；从未打开：「Industrial PoE Switch」、「48 Port PoE Managed Switch」、「24 Port Fiber Switch」。
+- **写信的人（来信签名机械抽取）**：พงษ์อนันต์ รื่นบุญ（tjcomputercctv@tj2003.net，1 封，2025-03-18 → 2025-03-18）。
+- **日历窗口**：对方：2026-12-05 国王诞辰；2026-12-31 新年（12-31 → 01-02） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -155,7 +165,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-034/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -268,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 68）；人工/调研定级 → B
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 68）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

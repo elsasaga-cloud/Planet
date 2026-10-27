@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -58,6 +58,15 @@ updated: 2026-10-25
 | 2026-08-15 | 去 | Alan | I checked with ChatGPT… "Technically suitable replacement candidate"… About the price, it is 60USD/PC, EXW term. | 价差 2.5 倍，未闭环 | `44e2d2b34a060ccb` |
 | 2026-08-15 | 去 | Alan | Yes, please see attached datasheet, it is similar.（附件 STC-024GE-D.docx） | 对位型号为 STC-024GE-D 桌面型；AT-GS910/24 是机架型 → 应发 STC-024GE-U | `8cd7e98463599356` |
 | 2026-08-13 | 来 | Yair（附件） | AT-GS910-24@ALLIED TEL.pdf（Allied Telesis 规格书，5,658 字已抽取） | 对表依据在仓库 data/gmail_a/attachments | `e38d26c7ab40da80` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2026-08-13 → 2026-08-15）；多在 8 月（2）；对方本地时间中位 14:12；**他们回信中位 1.8 小时**（2 次，100% 在 24 小时内）；我方回信中位 20.9 小时（2 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 19 封（2025-01-09 → 2026-10-07），打开标签 1 次（近 12 个月 1，最后 2026-08-13）；打开过：「24 Port PoE Managed Switch」×1（2026-08-13）；从未打开：「Marvell Industrial Alert System」、「10G Enterprise SFP Switch」、「Mini Industrial PoE Switch」。
+- **写信的人（来信签名机械抽取）**：Yair Turjeman（yair@aironix.co.il，2 封，2026-08-13 → 2026-08-15）。
+- **日历窗口**：对方：2026-12-04 光明节（12-04 → 12-12，非全休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -168,14 +177,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 home：内容变化：+1 −158 行
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 home：内容变化：+158 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-696/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://aironix.co.il/) | html | HTTP 202 | 2026-10-25T07:41:18Z | 0 字符；首行： |
-| [feed_auto](https://aironix.co.il/feed/) | rss | ParseError: not well-formed (invalid token): line 1, column  | 2026-10-23T04:20:51Z | 首页自动发现的 feed |
+| [home](https://aironix.co.il/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 4460 字符；首行：Home - Aironix Systems |
+| [feed_auto](https://aironix.co.il/feed/) | rss | HTTP 200 | 2026-10-26T07:56:19Z | 10 条；最新：Wed, 10 Sep 2025 05:13:09 פרסום במגזין NEW-TECH |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -288,12 +297,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

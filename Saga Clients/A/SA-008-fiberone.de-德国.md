@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -115,6 +115,30 @@ updated: 2026-10-25
 | 2026-10-15 | 来 | Frederik Kriewitz | payment has been made… We would prefer to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used | 较深绑定的最新证据 | `60ac95de9259a792` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱无 NYNEX 往来（已核）；Peter 侧技术邮件在 S 邮箱抄送中，微信部分见 OCR 重建
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 44 封（2024-11-15 → 2026-10-15）；多在 11 月（12） / 3 月（10） / 9 月（8）；对方本地时间中位 12:42，四分位 10:00–14:42；周二最多（17）、周末 2%；**他们回信中位 7.9 小时**（43 次，56% 在 24 小时内）；我方回信中位 3.5 小时（44 次，>72 小时 8 次）。
+- **发信窗口（DE 全库 922 封群发的打开标签，对方本地时间；均值 4.4%）**：周四 12–14 点 7.3%（41 封）、周二 08–10 点 6.7%（45 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 2 封（2025-05-29 → 2025-06-23），打开标签 2 次（近 12 个月 0，最后 2025-06-23）；打开过：「Marvell Industrial Alert System」×1（2025-05-29）、「Marvell Alleycat5 Solution」×1（2025-06-23）。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 14 条，2024-11-19 → 2026-09-30；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2026-09-30 | 「USD offer: 300USD/PC, this is from the exchange rate: 1:6.71」 | $300 | —（原句无型号） | — | 1:1 | Saga Marvell AC5 Series Fully Ready | `074a700ad4b10bf7` |
+  | 2025-11-15 | 「Our price is 265usd, BDCOM price seems to be a little over 300usd.」 | $300 | —（原句无型号） | — | 1:1 | Marvell Alleycat5 Solution | `eb14772778a52488` |
+  | 2025-10-22 | 「By our knowledge, Realtek lite managed model is about 25usd to 35usd.」 | $35 | —（原句无型号） | — | 1:1 | Marvell Alleycat5 Solution | `e59436a1a5d05de6` |
+  | 2025-10-22 | 「Let's consider it 30usd/pc, price is not high.」 | $30 | —（原句无型号） | — | 1:1 | Marvell Alleycat5 Solution | `e59436a1a5d05de6` |
+  | 2025-09-15 | 「1, it is the same price as before, 265usd/pc.」 | $265 | —（原句无型号） | — | 1:1 | Marvell Alleycat5 Solution | `6683b4837e2e4d62` |
+  | 2024-11-21 | 「Lets do 265usd/pc for dual AC input(an extra 35usd).」 | $35 | —（原句无型号） | — | 1:1 | 48 Port PoE Managed Switch | `f2e1b29e2a1ebeae` |
+  | 2024-11-20 | 「Yes, 230usd/pc, single AC input.」 | $230 | —（原句无型号） | — | 1:1 | 48 Port PoE Managed Switch | `9a7e87c0eef923b1` |
+  | 2024-11-20 | 「120usd/pc for non-PoE model」 | $120 | —（原句无型号） | — | 1:1 | 48 Port PoE Managed Switch | `beaada444505c007` |
+
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 49 条 URL；站内可见品牌 1 个（Bosch）；官网语言 de（信照样英文，首句可用对方语言问候）。
+- **写信的人（来信签名机械抽取）**：Frederik Kriewitz（f.kriewitz@nynex.de，42 封，2024-11-15 → 2026-10-15）。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-06，德国多数工厂整周停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -314,7 +338,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 auto_news_2：内容变化：+2 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-008/`；本节随档案重渲染刷新，实时看日志。
 
@@ -438,12 +462,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 112）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 112）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

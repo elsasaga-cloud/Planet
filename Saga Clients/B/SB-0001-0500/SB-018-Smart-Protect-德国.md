@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -59,6 +59,18 @@ updated: 2026-10-25
 | 2025-06-10 | 来 | Andrew | Are the switches manageable ? | 最后一问 | `f66547fc66c47b76` |
 | 2025-06-10 | 去 | Alan → Andrew Walker（Re: Industrial PoE Switch；附 DIN Managed.jpg） | 「They are unmanaged ones. We also have managed series, see attached photo」——只给了一张图，没给型号/价/datasheet。 | Andrew 两次都在问「可管理吗 / 能不能测」：05-13 要免费样机被拒（「We do not do FREE samples」），06-10 问可管理 → 一张图。德国安防集成商「need to replace a lot of switches」的需求没有被接住——下一步给 STI-288DGGPM / STI-244GPM 的 datasheet + 付费样机价 + 退款条款 | `k=5ed6cfdaf428d52c（A 邮箱 2025-06-10 08:32Z）` |
 | 2026-08-11 | 内 | Gmail 退信（A 邮箱） | info@smart-protect.nrw 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to info@smart-protect.nrw because the doma | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 21cca18c5a54024d` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2025-06-10 → 2025-06-10）；**他们回信中位 0.1 小时**（1 次，100% 在 24 小时内）；我方回信中位 0.5 小时（1 次）。
+- **发信窗口（DE 全库 922 封群发的打开标签，对方本地时间；均值 4.4%）**：周四 12–14 点 7.3%（41 封）、周二 08–10 点 6.7%（45 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（DE 全库 15 个「户·月」真人来信，样本小）**：11 月 13.3% / 12 月 13.3% / 9 月 13.3%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 11 封（2025-04-15 → 2026-09-07），打开标签 3 次（近 12 个月 1，最后 2026-08-11）；打开过：「48 Port PoE Managed Switch」×1（2025-05-13）、「Industrial PoE Switch」×1（2025-06-10）、「24 Port PoE Managed Switch」×1（2026-08-11）；从未打开：「8 Port Industrial PoE Switch」、「16 Port Ethernet Switch」、「10G Enterprise SFP Switch」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 8 条 URL；站内可见品牌 2 个（Ajax、Dahua）；官网语言 de（信照样英文，首句可用对方语言问候）。
+- **写信的人（来信签名机械抽取）**：Walker Security Systems（info@walker-security.systems，1 封，2025-06-10 → 2025-06-10）。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-06，德国多数工厂整周停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -156,7 +168,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-018/`；本节随档案重渲染刷新，实时看日志。
 
@@ -271,12 +283,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 78）；人工/调研定级 → B
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 78）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -66,6 +66,31 @@ updated: 2026-10-25
 | 2026-07-21 | 去 | Simon | We have this model… similar to Mikrotik model. Both are Marvell based… Price is 130USD/PC for single AC input.  [附件：STC-424XGGM.docx、Saga Feature List_7.5.x_L2+.xlsx、Dual AC.jpg → 报的是 STC-424XGGM 单 AC $130；双 AC 版可做] | Saga 对位；型号 = STC-424XGGM（2026-10-24 从附件名核实） | `06610cfbde4173c3` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：成单仅见用户表，PI 包无 Simrex；SmartByte 规划 2027 出 EN50155 系列（其轨道应用）——但轨交 PASS 口径不变
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 5 封（2024-12-04 → 2026-07-20）；多在 12 月（4）；对方本地时间中位 14:36，四分位 12:18–16:18；周四最多（2）；**他们回信中位 4.8 小时**（4 次，100% 在 24 小时内）；我方回信中位 6.9 小时（5 次）。
+- **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 16 封（2025-01-03 → 2026-09-08），打开标签 5 次（近 12 个月 1，最后 2026-07-20）；打开过：「Industrial PoE Switch」×1（2025-01-03）、「Marvell Alleycat5 Solution」×1（2025-03-28）、「48 Port PoE Managed Switch」×1（2025-04-28）、「24 Port Fiber Switch」×1（2025-08-27）；从未打开：「Marvell Industrial Alert System」、「16 Port Ethernet Switch」、「Managed Optical Bypass Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 2 条 + 个性化群发价 5 条，2024-12-05 → 2026-09-08；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2026-09-08 | 「*Price: 170USD/PC*」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `935007727c3ea96f` |
+  | 2026-07-21 | 「Price is 130USD/PC for single AC input.」 | $130 | —（原句无型号） | — | 1:1 | 24 Port 10G SFP+ Switch | `06610cfbde4173c3` |
+  | 2026-07-20 | 「*Price: 1500USD/PC*」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `e44ed147f5c2bbb7` |
+  | 2025-10-30 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `959981a7454f2b8d` |
+  | 2025-08-27 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `64ef9b106ddf943c` |
+  | 2025-04-28 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `95cec6bd97cfe34e` |
+  | 2024-12-05 | STI-154GP | $38 | $40.8 | +7% | 1:1 | Industrial PoE Switch | `b5564e71079c9744` |
+
+  涨的部分只有一个口径：汇率 7.2 → 6.7（成本按人民币不变）；对方若拿旧价压，先认旧价有效期已过，再谈量；「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：社媒：http://www.simrex.com/site/apps/traffic.htm、http://www.simrex.com/site/compinfo/contact.htm、http://www.simrex.com/site/index.htm。
+- **关联户**：SB-1026 epygi.com（B；同一封邮件）——写信前看一眼对方档案，别两边说两套价。
+- **写信的人（来信签名机械抽取）**：Frank Neuperger（frank@simrex.com，5 封，2024-12-04 → 2026-07-20）。
+- **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -190,7 +215,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-002/`；本节随档案重渲染刷新，实时看日志。
 
@@ -292,12 +317,12 @@ Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discove
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

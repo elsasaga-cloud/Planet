@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -59,6 +59,28 @@ updated: 2026-10-25
 | 2024-06-19 | 去 | Saga（Simon） | Hi, Kyle, We got PoE model, please see attached datasheet. Price is 310usd/pc. Thank you. | 历史报价点（主题「Re: 48 port managed switch」；第 20 批从 gmail_s 回补）：310usd | `deda136173372ce7` |
 | 2025-04-01 | 来 | Kyle Leissner | This is interesting. Does it have VXLAN support or MPLS support? Any controller? | 运营商级需求 | `3217cb91c0855a86` |
 | 2025-04-02 | 去 | Alan | Sorry, it is not supporting XVLAN or MPLS… I feed this question to GPT and conclusion is as attached. | 关门（未提 CENTEC） | `a444eeb97758ba35` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2024-06-18 → 2024-06-18）；**他们回信中位 0.5 小时**（1 次，100% 在 24 小时内）；我方回信中位 9.5 小时（1 次）。
+- **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（US 全库 53 个「户·月」真人来信）**：8 月 17.0% / 11 月 11.3% / 1 月 11.3%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 21 封（2024-06-18 → 2026-08-10），打开标签 3 次（近 12 个月 0，最后 2025-04-01）；打开过：「48 port managed switch」×1（2024-06-18）、「2.5G Web Managed Switch」×1（2024-09-27）、「Marvell Alleycat5 Solution」×1（2025-04-01）；从未打开：「Managed Optical Bypass Switch」、「PoE Managed Switch」、「Industrial PoE Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 1 条 + 个性化群发价 4 条，2024-06-18 → 2025-01-06；「今天」= 价格主表 2026-10-17 汇率、25% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2025-01-06 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `afb97b9de3e5db66` |
+  | 2024-12-11 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `8192d45be63bafb5` |
+  | 2024-07-16 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 48 port managed switch | `dfa2c386fe4b6efa` |
+  | 2024-06-19 | 「Price is 310usd/pc.」 | $310 | —（原句无型号） | — | 1:1 | 48 port managed switch | `deda136173372ce7` |
+  | 2024-06-18 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `ed2834ea791b39b5` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **写信的人（来信签名机械抽取）**：Kyle Leissner — President & Founder（kyle@wirestar.net，1 封，2024-06-18 → 2024-06-18）。
+- **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -156,13 +178,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 home：内容变化：+1 −130 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 home：内容变化：+130 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-119/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://wirestar.net/) | html | HTTP 202 | 2026-10-25T07:41:18Z | 0 字符；首行： |
+| [home](https://wirestar.net/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 8816 字符；首行：Multifamily Internet Provider & HOA WiFi \| WireStar Get Connected |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -271,12 +293,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

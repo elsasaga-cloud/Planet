@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -60,6 +60,14 @@ updated: 2026-10-25
 | 2026-10-21 | 用户表 | Simon | 闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **品类覆盖与缺口**：官网兴趣：工业（industrial 10 / automation 2）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$59.8 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 101 条 URL；站内可见品牌 8 个（Cisco、D-Link、Ubiquiti、Huawei、TP-Link、H3C）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/Comtech.Associates、https://www.instagram.com/comtech_associate/、https://www.linkedin.com/company/comtechassociates/。
+- **日历窗口**：对方：2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -189,16 +197,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 news_1：内容变化：+45 −117 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 news_1：内容变化：+2 −65 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-450/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://comtech.net.pk/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 9887 字符；首行：Home - COMTECH ASSOCIATES |
-| [sitemap](https://comtech.net.pk/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://comtech.net.pk/events/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 1887 字符；首行：Events - COMTECH ASSOCIATES |
-| [feed_auto](https://comtech.net.pk/feed/) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 10 条；最新：Fri, 16 Oct 2026 20:55:18 testing |
+| [home](https://comtech.net.pk/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 73 字符；首行：One moment, please... |
+| [sitemap](https://comtech.net.pk/sitemap.xml) | sitemap | HTTP 403 | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 101 条） |
+| [news_1](https://comtech.net.pk/events/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 73 字符；首行：One moment, please... |
+| [feed_auto](https://comtech.net.pk/feed/) | rss | HTTP 403 | 2026-10-24T07:26:33Z | 首页自动发现的 feed |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/Comtech.Associates；Instagram: https://www.instagram.com/comtech_associate/；LinkedIn: https://www.linkedin.com/company/comtechassociates/
 
@@ -296,12 +304,12 @@ Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate pr
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -55,6 +55,13 @@ updated: 2026-10-25
 |---|---|---|---|---|---|
 | 2025-02-18 | 去 | Elsa 群发（BCC；To dipol@skuatechnology.com，PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合 批次） | Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional, | Elsa 箱群发 BCC 触达证据（命中地址 jhegedus@lan.hu, lan.hu, wbea@lan.hu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 jhegedus@lan.hu, lan.hu, wbea@lan.hu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1635 条 URL（≥500 = 大目录 / 网店体量）；官网语言 hu（信照样英文，首句可用对方语言问候）；社媒：https://hu.linkedin.com/company/lanszamitastechnika、https://www.facebook.com/lanszamitastechnika、https://www.instagram.com/lanszamitastechnika/。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -158,14 +165,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 820 条： lan.hu；2022-11-08T13:45:02 termekek-177；2026-10-25T08:40:49 kabelcsupaszito-fogo
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 820 条： lan.hu；2022-11-08T13:45:02 termekek-177；2026-10-26T08:55:26 kabelcsupaszito-fogo
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1052/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://lan.hu/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 15550 字符；首行：LAN Számítástecnikai Szolgáltató Kft. |
-| [sitemap](https://lan.hu/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod 2026-10-25T08:42:10 |
+| [home](https://lan.hu/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 15550 字符；首行：LAN Számítástecnikai Szolgáltató Kft. |
+| [sitemap](https://lan.hu/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 900 个 URL；最新 lastmod 2026-10-26T08:57:10 |
 | [news_1](https://lan.hu/hirek_1/digitus-cat8-halozati-megoldasok-blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8945 字符；首行：DIGITUS CAT8 Kábelek és Keystone Modulok \| CAT8.1, CAT8.2 \| LAN.hu |
 | [news_2](https://lan.hu/hirek_1/viharok-es-aramszunetek-ups-blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8436 字符；首行：UPS áramszünet ellen – Védd eszközeidet a viharok idején |
 | [youtube](https://www.youtube.com/@lanszamitastechnikaikft.2722) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 4 条；最新：2025-10-22T08:35:01+00:00 Slider WireXpert MP EN |
@@ -277,12 +284,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

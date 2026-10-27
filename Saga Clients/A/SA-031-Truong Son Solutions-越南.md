@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 6
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -59,6 +59,24 @@ updated: 2026-10-25
 | 2026-07-15 | 来 | Truong Son | Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28 | RFQ | `43477f95c8d2e436` |
 | 2026-07-15 | 去 | Alan | STH-8C24XF-HSI (2pcs) No stock We recommend STH-8C24DX-HSI (ready in stock)… Price: 2200USD/PC 2. STH-2C24XE-HSI (2pcs) Ready in stock Price: 1700USD/PC | 报价 | `8ef6fe719128cb52` |
 | 2026-09-10 | 去 | Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@truongsonsolutions.com, truongsonsolutions.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2025-12-19 → 2026-07-15）；对方本地时间中位 13:12；**他们回信中位 1.7 小时**（2 次，100% 在 24 小时内）；我方回信中位 0.9 小时（2 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 27 封（2024-07-08 → 2026-09-24），打开标签 3 次（近 12 个月 3，最后 2026-07-15）；打开过：「Marvell Industrial Alert System」×1（2025-12-19）、「Updated Ethernet Switches Links」×1（2026-02-16）、「Saga Q3 Product Links」×1（2026-07-15）；从未打开：「8 Port Industrial PoE Switch」、「48 Port PoE Managed Switch」、「Industrial PoE Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-11-13 → 2024-11-13；「今天」= 价格主表 2026-10-17 汇率、25% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-13 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `6c2cf871e9c96ebf` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 0 / camera 89 / poe 87）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：工业；**还没碰过的一类：安防 PoE** → 下封信可加一句 STC-424XGGPM-280W（24 口千兆 PoE + 4 × 10G SFP+ L2+ 管理 280W，$188.7 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 266 条 URL；官网语言 vi（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-cong-nghiep-din-rail%2F、https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-cong-nghiep-managed%2F、https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-cong-nghiep-ngoai-troi-chiu-nhiet%2F。
+- **写信的人（来信签名机械抽取）**：Công ty TNHH Giải pháp & Xây lắp Trường （info@truongsonsolutions.com，2 封，2025-12-19 → 2026-07-15）。
+- **日历窗口**：对方：2027-02-06 春节 Tết（约 02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -202,7 +220,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-031/`；本节随档案重渲染刷新，实时看日志。
 
@@ -330,12 +348,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 6 行原始记录归并；自动评级 A，分数 67）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 6 行原始记录归并；自动评级 A，分数 67）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -57,6 +57,17 @@ updated: 2026-10-25
 | 2026-10-21 | 用户表 | Simon | 商业POE 看着有hisource的 MC 工业FS VC 无源产品；商业POE 看着有hisource的 MC 工业FS VC 无源产品 很多种外壳 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **发信窗口（TR 全库 901 封群发的打开标签，对方本地时间；均值 4.0%）**：周四 10–12 点 5.9%（51 封）、周一 10–12 点 5.2%（58 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
+- **本国来询季节（TR 全库 17 个「户·月」真人来信，样本小）**：5 月 17.6% / 1 月 11.8% / 2 月 11.8%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 16 封（2024-07-12 → 2026-10-06），打开标签 0 次。
+- **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 35 / camera 0 / poe 199）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：安防 PoE** → 下封信可加一句 STC-424XGGPM-280W（24 口千兆 PoE + 4 × 10G SFP+ L2+ 管理 280W，$196.3 EXW）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 578 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 1 个（Milesight）；官网语言 tr（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/hanelektronik、https://www.facebook.com/hanelektronik、https://www.instagram.com/han_elektronik/。
+- **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -189,16 +200,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 news_2：内容变化：+31 −31 行
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 news_2：内容变化：+41 −41 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-276/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://hanelektronik.com/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 12815 字符；首行：Han Elektronik - Türkiye'nin Güvenlik Çözümü |
-| [sitemap](https://hanelektronik.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 577 个 URL；最新 lastmod 2026-10-25T02:00:14 |
-| [news_1](https://hanelektronik.com/blog) | html | HTTP 200 | 2026-10-25T07:41:18Z | 9926 字符；首行：ANA SAYFA |
-| [news_2](https://hanelektronik.com/blog/duyurular) | html | HTTP 200 | 2026-10-25T07:41:18Z | 9995 字符；首行：DUYURULAR |
+| [home](https://hanelektronik.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 12709 字符；首行：Han Elektronik - Türkiye'nin Güvenlik Çözümü |
+| [sitemap](https://hanelektronik.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 577 个 URL；最新 lastmod 2026-10-26T02:00:14 |
+| [news_1](https://hanelektronik.com/blog) | html | HTTP 200 | 2026-10-26T07:56:19Z | 9863 字符；首行：ANA SAYFA |
+| [news_2](https://hanelektronik.com/blog/duyurular) | html | HTTP 200 | 2026-10-26T07:56:19Z | 9886 字符；首行：DUYURULAR |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCCp-lDqiHakEPjXUHc5Rapg) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-07-23T14:47:18+00:00 GRUNDIG GU-CI-AC4614T - 4MP AI H.265 Bullet Network Kame |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/hanelektronik；Instagram: https://www.instagram.com/han_elektronik/；X/Twitter: https://twitter.com/hanelektronik
@@ -307,12 +318,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

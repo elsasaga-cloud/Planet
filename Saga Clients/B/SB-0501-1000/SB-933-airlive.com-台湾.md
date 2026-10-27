@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -53,6 +53,25 @@ updated: 2026-10-25
 |---|---|---|---|---|---|
 | 2024-01-02 | 来 | john.lai@airlive.com | Whats you company url Is those ce certificate? J | 来信原文（主题「RE: Industrial power adapter」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `455bebcee9e0b0b7` |
 | 2024-01-02 | 去 | Simon | It is a new trading company. 1, Company website is under construction and expected to be available within a month. 2, It is CE/UL compliant. Please see attached a new hot-selling model.（答 AirLive John Lai「Whats you company url / Is those ce certificate?」） | 2024 年初的两处旧口径：自称 trading company、说 UL compliant——现行口径都不再用（不称贸易商；认证只有 CE/FCC/RoHS/REACH/UKCA，无 UL）。AirLive 是品牌商，此后无回 | `gmail_s 4df1977995e4e90b` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2024-01-02 → 2024-01-02）；**他们回信中位 0.5 小时**（1 次，100% 在 24 小时内）；我方回信中位 5.7 小时（1 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 21 封（2024-01-02 → 2026-09-10），打开标签 5 次（近 12 个月 0，最后 2025-08-22）；打开过：「Industrial power adapter」×1（2024-01-02）、「Power Converter」×1（2024-11-26）、「16 Port Ethernet Switch」×1（2024-12-19）、「8 Port Industrial PoE Switch」×1（2025-02-21）；从未打开：「Managed Optical Bypass Switch」、「Industrial fiber switch」、「10G media converter」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 3 条，2024-08-26 → 2025-01-10；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2025-01-10 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `652a8d1ceae65f0d` |
+  | 2024-11-01 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `1695f569aed10e80` |
+  | 2024-08-26 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `bd5c91566e5e4618` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 532 条 URL（≥500 = 大目录 / 网店体量）；**自有型号串 1 个**（AC1200）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）；社媒：https://www.facebook.com/airlive、https://www.instagram.com/airlivetechnology、https://www.youtube.com/user/AirLiveMedia。
+- **写信的人（来信签名机械抽取）**：john.lai（john.lai@airlive.com，1 封，2024-01-02 → 2024-01-02）。
+- **日历窗口**：对方：2027-02-05 农历新年（02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -184,14 +203,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 sitemap：新增 453 条：2024-12-18 SMB；2021-02-24 Others---topology-top-introduce；2023-05-11 AirCloud-and
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 sitemap：新增 453 条：2024-12-18 SMB；2021-02-24 Others---topology-top-introduce；2023-05-11 AirCloud-and
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-933/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.airlive.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 20144 字符；首行：wifi6 MESH Router\|AirLive\|Managed Switch\|5G\|Your best choice of Smart Netw |
-| [sitemap](https://www.airlive.com/en/auto_sitemap.php) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 533 个 URL；最新 lastmod 2026-10-25 |
+| [sitemap](https://www.airlive.com/en/auto_sitemap.php) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 533 个 URL；最新 lastmod 2026-10-26 |
 | [news_1](https://www.airlive.com/news.php) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1515 字符；首行：wifi6 MESH Router\|AirLive\|Managed Switch\|5G\|Your best choice of Smart Netwo |
 | [news_2](https://www.airlive.com/news.php?cid=2) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2874 字符；首行：wifi6 MESH Router\|AirLive\|Managed Switch\|5G\|Your best choice of Smart Netwo |
 
@@ -299,12 +318,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

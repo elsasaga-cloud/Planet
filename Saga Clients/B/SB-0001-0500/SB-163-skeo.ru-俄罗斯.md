@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -57,6 +57,25 @@ updated: 2026-10-25
 | 2024-09-06 | 来 | Nikolay | What is the price for them? And how do you want to send them to us? | 要样问价 | `01bcd6732964d044` |
 | 2024-09-06 | 去 | Saga（Simon） | Hi, Nikolay, 33usd/pc STI-080GE 8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged, Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, with mounting hanger, without power supply About the shipme | 历史报价点（主题「Re: 8 port unmanaged switch」；第 20 批从 gmail_s 回补）：STI-080GE 33usd | `8884a81a60ecbdb4` |
 | 2024-11-19 | 来 | 用户表（Simon 跟进记录；渠道 微信） | 用户表跟进：推「引流机型」→ 对方「有需求会说的」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.13 1119` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2024-09-06 → 2024-09-06）；多在 9 月（2）；对方本地时间中位 10:12；**他们回信中位 0.1 小时**（1 次，100% 在 24 小时内）；我方回信中位 0.8 小时（2 次）。
+- **本国来询季节（RU 全库 17 个「户·月」真人来信，样本小）**：12 月 23.5% / 5 月 23.5% / 1 月 11.8%——本户来信太少，按本国节奏排下一步。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 5 封（2024-07-11 → 2026-07-02），打开标签 0 次。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 1 条 + 个性化群发价 1 条，2024-07-11 → 2024-09-06；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-09-06 | STI-080GE | $33 | $31.4 | -5% | 1:1 | 8 port unmanaged switch | `8884a81a60ecbdb4` |
+  | 2024-07-11 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `51bcfc210f80fb4f` |
+
+  今天比当时低：直接报今天的价，顺手说一句「比上次低」是现成的开场；「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 738 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 1 个（Huawei）；官网语言 ru（信照样英文，首句可用对方语言问候）；社媒：http://vk.com/nposkeo、http://www.youtube.com/channel/UCU8lAUnPr5cC0O3yjcB1rWg、https://twitter.com/NPOSkeo。
+- **写信的人（来信签名机械抽取）**：Николай Подорога（npa@skeo.ru，2 封，2024-09-06 → 2024-09-06）。
+- **日历窗口**：对方：2026-11-04 民族统一日；2027-01-01 新年长假（01-01 → 01-10 整体停摆） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -187,16 +206,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 news_2：内容变化：+1 −1 行
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-163/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://skeo.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5447 字符；首行：СКЕО - оборудование связи. |
-| [sitemap](https://skeo.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 738 个 URL；最新 lastmod 2023-05-26T13:09:20 |
-| [news_1](https://skeo.ru/news) | html | HTTP 200 | 2026-10-25T07:41:18Z | 4940 字符；首行：Новости |
-| [news_2](https://skeo.ru/articles) | html | HTTP 200 | 2026-10-25T07:41:18Z | 4691 字符；首行：Технические материалы |
+| [sitemap](https://skeo.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 738 个 URL；最新 lastmod 2023-05-26T13:09:20 |
+| [news_1](https://skeo.ru/news) | html | HTTP 200 | 2026-10-26T07:56:19Z | 4913 字符；首行：Новости |
+| [news_2](https://skeo.ru/articles) | html | HTTP 200 | 2026-10-26T07:56:19Z | 4653 字符；首行：Технические материалы |
 | [vk](https://vk.com/nposkeo) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCU8lAUnPr5cC0O3yjcB1rWg) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 4 条；最新：2017-08-24T14:51:35+00:00 Юстировочный механизм Fiberfox Mini 4S |
 
@@ -313,12 +332,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 54）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 54）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

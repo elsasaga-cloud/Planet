@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -65,6 +65,21 @@ updated: 2026-10-25
 | 2026-02-02 | 去 | Elsa 群发（BCC；To stephengala@yahoo.com） | OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com） | 第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-04-24 | 去 | Elsa 群发（BCC；To stephengala@yahoo.com） | Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com） | 第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-09-04 | 去 | Elsa 群发（BCC；To stephengala@yahoo.com） | 24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 1 封（2025-01-15 → 2025-01-15）；我方回信中位 1.6 小时（1 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 10 封（2025-02-26 → 2026-02-13），打开标签 0 次。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 1 条，2025-01-16 → 2025-01-16；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2025-01-16 | STI-222GP | $33 | $33.2 | +1% | 1:1 | Re: Mini Industrial PoE Switch | `05b51bd103cc66ea` |
+
+- **写信的人（来信签名机械抽取）**：joemar baquiran（joemar.baquiran@gmail.com，1 封，2025-01-15 → 2025-01-15）。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-02） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -252,12 +267,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

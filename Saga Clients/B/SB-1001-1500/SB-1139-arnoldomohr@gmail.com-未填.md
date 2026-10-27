@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -68,6 +68,21 @@ updated: 2026-10-25
 | 2026-03-12 | 去 | Alan | Yes, let's do CENTEC solution… we will focus on STH-2QX4DX48GP-HSI. About stacking: 1. max 8 units; 2. bandwidth max 360Gbps, uplinks 2*40G and 4*25G; 3. fiber uplinks for stacking; 4. both chain and ring… what is the quantity you need? | 对表完成但没给价——断点 | `offer` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：国别/公司（gmail，信中只说 our market）；03-12 之后是否有 WhatsApp/会议等线外接触——仓内无；STH1G EXW 价（主表无）
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 5 封（2024-11-23 → 2026-03-11）；多在 1 月（2） / 3 月（2）；对方本地时间中位 11:48，四分位 11:24–12:30；周六最多（1）、周末 20%；**他们回信中位 80.2 小时**（5 次，40% 在 24 小时内）；我方回信中位 8.6 小时（5 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 15 封（2024-06-16 → 2026-01-15），打开标签 2 次（近 12 个月 1，最后 2026-01-15）；打开过：「24 Port Passive PoE Switch」×1（2024-11-15）、「OEM Core Switching Solution」×1（2026-01-15）；从未打开：「Industrial fiber switch」、「Industrial poe switch」、「24V/48V PoE Switch」。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 1 条，2024-11-24 → 2024-11-24；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-11-24 | STC-2224GFP-24V | $90 | 主表无此型号 | — | 1:1 | Re: 24 Port Passive PoE Switch | `c9057ef48518bc9c` |
+
+- **写信的人（来信签名机械抽取）**：Arnoldo Belteton Mohr — Solution Architect（arnoldomohr@gmail.com，5 封，2024-11-23 → 2026-03-11）。
+- **日历窗口**：我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -263,12 +278,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -18）；人工/调研定级 → B
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -18）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

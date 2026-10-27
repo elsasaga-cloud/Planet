@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -61,6 +61,16 @@ updated: 2026-10-25
 | 2025-12-17 | 来 | Lachezar | there are quite a few useful and interesting points that we could apply, but overall, the prices are rather high. | 价格停点 | `4c204b4351556387` |
 | 2025-12-17 | 来 | ets@elitteamsecurity.com | Re: Optional Marvell Chipset Solutions｜*Hi,*  Yes, I reviewed the information — there are quite a few useful and interesting points that we could apply, but overall, the prices are rather h | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `4c204b4351556387` |
 | 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 14 封） | `5468323c3bbb5692` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2025-12-04 → 2025-12-17）；多在 12 月（2）；对方本地时间中位 13:00；**他们回信中位 22.7 小时**（2 次，50% 在 24 小时内）；我方回信中位 8.3 小时（2 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 11 封（2025-02-26 → 2026-09-07），打开标签 1 次（近 12 个月 1，最后 2025-12-04）；打开过：「Optional Marvell Chipset Solutions」×1（2025-12-04）；从未打开：「Industrial PoE Switch」、「48 Port PoE Managed Switch」、「8 Port Industrial PoE Switch」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 183 条 URL；站内可见品牌 1 个（Hanwha）；官网语言 bg-BG（信照样英文，首句可用对方语言问候）。
+- **写信的人（来信签名机械抽取）**：ELIT-TEAM-SECURITY LTD（ets@elitteamsecurity.com，2 封，2025-12-04 → 2025-12-17）。
+- **日历窗口**：对方：2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -178,7 +188,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-074/`；本节随档案重渲染刷新，实时看日志。
 
@@ -293,12 +303,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 60）
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 60）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

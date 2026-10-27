@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-27
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -68,6 +68,22 @@ updated: 2026-10-25
 | 2024-07-11 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20240618009：成本 734 / 收款 944 / 利润 210（22.2%） · STSC20240711009：成本 6,852 / 收款 9,822 / 利润 2,970（30.2%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
 | 2024-07-17 | 内 | Saga 出口报关资料（PI 包「买单报关资料.xls」） | 商业交换机 STC-2224GFP-24V × 12 pcs，440×290×45 mm，净重 2.9 / 毛重 3.6 kg 每台，单价 88 USD，总价 1,056 USD，目的国马来西亚，品牌 Saga Telecom，HS 8517622990，总毛重 44 KG | 第二单的报关口径：型号名是 Hasivo 被动 PoE 机的 Saga 编号 STC-2224GFP-24V（24V 被动 PoE 24 FE + 2 SFP + 2 GE），申报品牌写 Saga Telecom；走 Saga 自己的深圳「买单报关」线 | `data/pi_2026-10/text/…9_马来西亚_Sugito…买单报关资料.xls (f3398f1a)` |
 | 2024-11-18 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「passive poe only」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.122 1118` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 4 封（2024-06-14 → 2024-06-18）；多在 6 月（4）；对方本地时间中位 16:24，四分位 15:48–18:24；周五最多（2）；**他们回信中位 0.6 小时**（4 次，100% 在 24 小时内）；我方回信中位 1.9 小时（4 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 1 封（2024-06-14 → 2024-06-14），打开标签 1 次（近 12 个月 0，最后 2024-06-14）；打开过：「PoE Switch」×1（2024-06-14）。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 1 条，2024-06-17 → 2024-06-17；「今天」= 价格主表 2026-10-17 汇率、25% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2024-06-17 | 「Price: 90usd/pc」 | $90 | —（原句无型号） | — | 1:1 | PoE Switch | `eb6c2057389fafbf` |
+
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 70 条 URL；社媒：https://www.linkedin.com/company/xspec-technology/。
+- **写信的人（来信签名机械抽取）**：Sugito Wibawa（sugito@xspec.com.my，4 封，2024-06-14 → 2024-06-18）。
+- **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 农历新年（02-06/07）；2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -191,15 +207,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 auto_sitemap：更新 5 条：xspectechnology.com（2026-10-24 → 2026-10-25）；training（2026-10-24 → 2026-10-25）；news
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **最近变化摘要**：2026-10-26 auto_sitemap：更新 5 条：xspectechnology.com（2026-10-25 → 2026-10-26）；training（2026-10-25 → 2026-10-26）；news
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-002/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://xspectechnology.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 3772 字符；首行：XSPec Malaysia - Industrial Technology Catalog |
 | [security_cat](https://xspectechnology.com/category/military-defence-security) | html | HTTP 200 | 2026-10-23T02:54:23Z | 4198 字符；首行：Military, Defence & Security Brands - XSPec Malaysia |
-| [auto_sitemap](https://xspectechnology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 70 个 URL；最新 lastmod 2026-10-25 |
+| [auto_sitemap](https://xspectechnology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 70 个 URL；最新 lastmod 2026-10-26 |
 | [auto_news_1](https://xspectechnology.com/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3753 字符；首行：News & Insights - XSPec Malaysia |
 
 - **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/in/sugitowibawa/（CEO，1K followers，2026-05 仍活跃）；MINDTCE 2026-11-17/18 参展商页 mindtce.com.my/companyprofile/B2611000001；LinkedIn: https://www.linkedin.com/company/xspec-technology/
@@ -309,12 +325,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 123）；人工/调研定级 → B
+- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 123）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
