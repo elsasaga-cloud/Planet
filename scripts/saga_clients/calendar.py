@@ -22,6 +22,27 @@ REGION_MAP = {'US': '北美', 'CA': '北美', 'TR': '土耳其'}
 EU = set('AT BE BG HR CY CZ DK EE FI FR DE GR HU IE IT LV LT LU MT NL PL PT RO SK SI ES SE GB CH NO IS UA RS BA ME MK AL MD BY GE AM AZ'.split())
 
 BIND_RANK = ['深', '较深', '中度', '轻度绑定', '轻度', '读而不回', '轻度触达', '未绑定', '未发信', '未触达']
+WD = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
+_DC = os.path.join(DATA, 'dims_country.json')
+DIMS_COUNTRY = json.load(open(_DC, encoding='utf-8')) if os.path.exists(_DC) else {}
+
+
+def send_hint(iso):
+    """该国群发打开率最高的时段（dims.py 统计），换算成北京时间给 Simon 排发信；没有统计的国家返回空。"""
+    cw = (DIMS_COUNTRY.get('send_window') or {}).get((iso or '').upper())
+    tz = (DIMS_COUNTRY.get('tz') or {}).get((iso or '').upper())
+    if not cw or not cw.get('best') or tz is None:
+        return ''
+    b = cw['best'][0]
+    h_bj = b['h'] - tz + 8
+    wd = b['wd']
+    if h_bj >= 24:
+        h_bj -= 24
+        wd = (wd + 1) % 7
+    elif h_bj < 0:
+        h_bj += 24
+        wd = (wd - 1) % 7
+    return f"{WD[wd]} 北京 {h_bj:02d}–{(h_bj + 2) % 24:02d}（对方 {WD[b['wd']]} {b['h']:02d}–{b['h'] + 2:02d}，{b['rate']}%）"
 
 
 def region(e):
@@ -72,6 +93,7 @@ def main():
             'when': when, 'channel': str(nm.get('channel', ''))[:26], 'action': str(nm.get('action', '')),
             'q': str(nm.get('one_question', '')), 'subj': str((mr.get('draft_en') or {}).get('subject', ''))[:60],
             'facts': len(mr.get('facts') or []),
+            'hint': send_hint(e.get('iso')),
         }
         if '现在' in when or '本周' in when:
             now.append(row)
@@ -102,11 +124,11 @@ def main():
             if not rs:
                 continue
             L.append(f'### {k}（{len(rs)}）'); L.append('')
-            L.append('| 户 | 公司 | 国家 | 级 | 绑定 | 时点 | 渠道 | 一句话 |'); L.append('|---|---|---|---|---|---|---|---|')
+            L.append('| 户 | 公司 | 国家 | 级 | 绑定 | 时点 | 渠道 | 发信时段（该国打开率最高格） | 一句话 |'); L.append('|---|---|---|---|---|---|---|---|---|')
             rs.sort(key=lambda r: (REGION_ORDER.index(r['region']), r['rank'], -r['facts']))
             for r in rs:
                 q = (r['q'] or r['action']).replace('|', '／').replace('\n', ' ')
-                L.append(f"| {r['code']} | {r['name']} | {r['country']} | {r['grade']} | {r['level']} | {r['when'][:16]} | {r['channel']} | {q[:160]} |")
+                L.append(f"| {r['code']} | {r['name']} | {r['country']} | {r['grade']} | {r['level']} | {r['when'][:16]} | {r['channel']} | {r['hint'] or '—'} | {q[:160]} |")
             L.append('')
 
     table(now, '现在')
@@ -114,6 +136,7 @@ def main():
     L.append('## 用法'); L.append('')
     L.append('- 「个别跟进」每户打开档案看 `facts` 最后三条再发；「首触一句话」可以同一天用 A 邮箱批量发（每封只改公司名/型号）；「补答」回原线程，不开新线程。')
     L.append('- 发完把结果写回档案（`next_move.when` 改成下一时点），重跑 `calendar.py` 即可刷新本页。')
+    L.append('- 「发信时段」= 该国全库群发按对方本地时间统计的打开率最高的 2 小时格（`dims.py` → `dims_country.json`，像素口径、只看相对高低），已换算成北京时间；WhatsApp / 微信不受此限。')
     out = os.path.join(ROOT, 'docs', f'跟进日历_{month}.md')
     open(out, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
     print(out, len(now), len(mon))
