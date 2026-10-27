@@ -21,15 +21,15 @@
     "NACE 46.500 ICT 设备批发：「光纤网络产品销售及相关业务」（章程目的）—— 光模块 / 光纤 / 交换机分销商（fiberworks.no）"
    ],
    "address": "Eikenga 11, 0579 Oslo",
-   "accounts": "年报已交至 2025（brreg 不含数字；proff.no 可查营收 —— 下一轮 1 次搜索）",
+   "accounts": "**2025 年报（proff / 1881，2026-06 公布）：营收 NOK 138.4 M（≈ €11.7 M）、EBIT 36.9 M（利润率 27%）、税前 37.8 M、净利 29.4 M；总资产 64.8 M、权益 8.5 M、负债 56.4 M；2024：营收 136.2 M、税前 31.8 M、分红 24.7 M**（NOK 千）",
    "accounts_due": "挪威年报 7-31 前",
-   "size_band": "**22 名员工**（NAV Aa-registeret 2026-10-10）",
+   "size_band": "小型（员工 23–24 Aa 登记 / 19 全职（Åpenhetsloven 2026 声明）/ 18 年报；年营收 ≈ €12 M，高利润）",
    "officers": [
     "Roger Allan WAHLGREN — Daglig leder（CEO，2019-01 起）+ Styremedlem（A 股股东代表）= 老板 / 拍板人",
     "Martin Roland LINDER — Styrets leder（董事长，A 股股东代表，2025-02 更新）= 共同所有人",
     "审计 Cedra Norge AS；会计 Amesto Accounthouse AS；研究档 KP 无具名（邮件 salg@ / office）"
    ],
-   "psc": "A 股股东 Wahlgren + Linder（推定；挪威股东名册需 aksjonærregisteret）",
+   "psc": "Sorb Industri AB（瑞典）100%（1881 / proff 股东）；董事长 Martin Roland Linder（= Sorb 方）；DAGL Roger Allan Wahlgren 兼董事",
    "charges": "",
    "prev_names": [
     "INS COMMUNICATIONS AS（2007–2013）",
@@ -42,7 +42,10 @@
    "lines": [
     "**22 人的奥斯陆光纤 / 网络分销商（1990 起，6 次更名，2013 起叫 Fiberworks），CEO Wahlgren + 董事长 Linder 两人持 A 股** → 研究档没有具名 KP：下一封直接写给 Roger Wahlgren（Daglig leder）；分销 20% 档，卖点光口 / 10G 上行交换机配他们的光模块线（STI-480XGGM、STC-448XGGPM、2.5G 光口 DG 款）",
     "挪威非欧盟但 EEA：CE / RoHS 即可，进口 VAT 由他们办；DAP 奥斯陆走 Saga 百运网线；T/T 30/70（22 人老公司，信用可）",
-    "下一轮：proff.no 看 2024 / 2025 营收与利润（1 次搜索）"
+    "下一轮：proff.no 看 2024 / 2025 营收与利润（1 次搜索）",
+    "**财务补核（2026-10-27）：Fiberworks 年营收 ≈ €12 M、EBIT 27%、年年分红 —— 是现金充裕的瑞典 Sorb Industri 全资子公司，不是 22 人小铺；CEO Wahlgren 管经营，重大采购可能要过瑞典董事长 Linder** → 对表信仍写 Wahlgren（DAGL），分销 20%，但别用「便宜」做卖点 —— 他们利润率高、看重交期与品质：讲 Marvell 芯片 + 3 年保 + 连续供货",
+    "他们 2026 发布了 Åpenhetsloven（挪威透明法）供应链尽调声明 → 迟早要我们填供应商问卷（工厂地址、劳工、环保）：提前备一页「SmartByte 工厂 + Saga」供应链说明",
+    "年报每年 6 月底 proff 更新 → 复查 2027-07"
    ],
    "notes": "",
    "fetched": "2026-10-27",

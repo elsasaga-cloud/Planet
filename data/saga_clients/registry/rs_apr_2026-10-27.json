@@ -1,0 +1,43 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Srbija · APR（companywall / cubepartner / bisnode 镜像）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SB-887": {
+   "batch": 88,
+   "name": "STASANET doo BEOGRAD-VRAČAR",
+   "iso": "RS",
+   "source": "Srbija · APR 镜像（companywall：成立、董事、股东比例、规模；cubepartner：营收 / 利润 / 人数区间；bisnode：开户行）+ 公司自填识别资料 PDF（stasanet.rs）+ 官网 O nama + dahua.rs 联系页",
+   "url": "https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0",
+   "number": "MB 20967374 · PIB 108279647 · PDV 纳税人 · 开户 Unicredit Bank Srbija 170-0030018979000-21",
+   "status": "Aktivan",
+   "incorporated": "2013-10-29（官网自述 2014 开业）",
+   "company_type": "d.o.o. · 股东 MVA GROUP s.r.o.（捷克）85% + Predrag Čegar 15%；= 布拉格 Stasanet s.r.o. 安防分销集团（创始人 Jakubík）第 8 家 / 最小分部",
+   "sic": [
+    "4643 家用电器批发（实际：安防技术分销 —— **dahua.rs 即 Stasanet = Dahua 塞尔维亚分销**；贝尔格莱德 + 诺维萨德两处；年合作约 200 家塞尔维亚及波黑 / 黑山 / 北马其顿安装商）"
+   ],
+   "address": "Kneza Stracimira 28, 11050 Beograd (Vračar)（通讯 / 旧址 Vojvode Hrvoja 28）",
+   "accounts": "微型企业：营收 50–100 M RSD（≈ €0.43–0.85 M）、利润 0.1–0.5 M RSD、员工 <5（cubepartner 区间，年份未标）",
+   "accounts_due": "RS APR 年报 6-30",
+   "size_band": "微型（<5 人；营收 <€1 M；背靠捷克集团）",
+   "officers": [
+    "Predrag ČEGAR — Direktor + 法定代表 + 15% 股东 = 研究档 KP（cegar@stasanet.rs；展会 WhatsApp 已加）→ **老板（小股东 + 经营者）= 联系人**；大股东 MVA GROUP s.r.o. 在布拉格拍板"
+   ],
+   "psc": "MVA GROUP s.r.o.（CZ）85% / Predrag Čegar 15%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**联系人 Predrag Čegar = 董事 + 15% 股东，但 85% 在布拉格的捷克母公司（Stasanet / MVA Group）；塞尔维亚公司是 Dahua 分销 + <5 人微型** → 对表信给他「Dahua 摄像机配套 PoE 交换机」的分销 20% 价（STC-028GP / STC-228GP / STC-2024GP + bt 高功率款），同时问一句「布拉格总部是否统一采购」—— 若是，把线并到 CZ 母公司；塞尔维亚非欧盟：CE / RoHS + 塞尔维亚 KS 标志由进口商办",
+    "付款 100% 预付或 50/50（微型 + 非欧盟）；DAP 贝尔格莱德走 Saga 百运网线（经匈牙利 / 希腊陆运）；首触走 WhatsApp（Ady 已加）；RS 周四 10–12 与 TR 同窗",
+    "复查：APR 年报 6-30 后看营收区间是否上移；不提 Dahua（他们是分销，别让对方觉得我们在撬 Dahua 的货）"
+   ],
+   "notes": "研究档 facts 已有法定名 / 成立 / 地址 / 规模（第 79 批前已核）；本轮补股权结构 + 财务区间 + Dahua 分销身份。",
+   "fetched": "2026-10-27",
+   "code": "SB-887"
+  }
+ }
+}

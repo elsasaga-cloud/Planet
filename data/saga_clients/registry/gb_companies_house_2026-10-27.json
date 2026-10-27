@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 14
+  "count": 15
  },
  "rows": {
   "SA-015": {
@@ -493,7 +493,7 @@
     "BALLARD, Mandy — Secretary（2005-03-09 起，同址）= 配偶 / 共同所有人",
     "研究档 KP C. DiPrima / K. Newton = 雇员（销售 / 采购），**非老板** → 25 封信 0 回，下一封改写给 Chris Ballard"
    ],
-   "psc": "待取（/persons-with-significant-control）；推定 Christopher Ballard",
+   "psc": "Christopher Roland BALLARD >50%–<75%（2016-04-06 起，ID 已核）+ Mandy Joyce BALLARD >25%–≤50%（2016-04-06 起，1970-08 生，ID 已核）—— 夫妻 100% 持股，无其他 PSC / 声明",
    "charges": "有（charges 页存在；细节未取）",
    "prev_names": [
     "COMPLETE SECURITY SOLUTIONS LIMITED（2005-03 → 2005-05）"
@@ -501,11 +501,46 @@
    "lines": [
     "**SilverNet 是米尔顿凯恩斯的英国自有品牌厂（无线网桥 + 自牌 PoE 交换机），老板 = 创始董事 Chris Ballard（妻子任秘书），我们 3 年 25 封信全发给了两名雇员** → 典型 OEM 30% 目标：他们的 PoE 交换机本来就是外采贴牌 → 对表信写给 Chris Ballard：「SilverNet-branded managed PoE switch, UKCA + CE, Marvell L2+, 3-year warranty, MOQ 1 carton」，附 STC-228GP / STC-2024GP / STI 工业款规格",
     "英国安防渠道要 UKCA + CE / RoHS + UK WEEE（由他们作为进口商持有）；付款首单 T/T 50/50，复购 30/70；DAP 米尔顿凯恩斯走 Saga 百运网线；GB 周四 12–14 发信",
-    "复查 2027-08（2026 账目）；PSC / charges 下一轮 2 次 fetch"
+    "PSC 页（2026-10-27 取）：夫妻二人合计 100%，Chris >50% 拍板、Mandy 25–50% —— 典型家族制造小厂；写信只写 Chris，抄 Mandy 无益"
    ],
    "notes": "研究档 legal_name 空 → 回填 SILVERNET LIMITED；add_kp Christopher Ballard。",
    "fetched": "2026-10-27",
-   "code": "SB-781"
+   "code": "SB-781",
+   "_src": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）"
+  },
+  "SB-745": {
+   "batch": 88,
+   "name": "COMTROL UK LIMITED",
+   "iso": "GB",
+   "source": "GB · Companies House 官方（search + /officers 页，2026-10-27 取；overview / PSC / accounts 未取 —— 额度用尽，下轮补）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09041682/officers",
+   "number": "09041682",
+   "status": "Active（同名 COMTROL GMBH 英国分支 BR008786 Bicester 与 FC026768 Zug 均已 Closed —— 老 Comtrol 瑞士 / 德国体系退出，现公司 2014 新设）",
+   "incorporated": "2014-05-15",
+   "company_type": "Private limited company · 登记地址 168 Church Road, Hove BN3 2DL = 会计师 / 代理地址（9 名董事全用同一通讯地址 → 经营地另在）",
+   "sic": [
+    "（SIC 未取）官网：专业通信设备增值分销 30+ 年 —— 以太网交换机 / 媒体转换器 / 串口 / 光纤 / SFP / 定制设计；Omnitron 分销"
+   ],
+   "address": "168 Church Road, Hove, East Sussex BN3 2DL（代理地址）；「30+ 年」历史承自 Bicester 时代的 Comtrol 英国分支",
+   "accounts": "未取（下轮 overview 页看 accounts_due / 规模）",
+   "accounts_due": "待取",
+   "size_band": "小型（分销 + 定制设计；人数未取）",
+   "officers": [
+    "JONES, Timothy（1973-07 生）— Director：2014-05-15 创始董事 → 2020-02-03 辞任 → **2023-01-18 回任至今**；ID 核验到期 2026-11-03 = 研究档 KP Tim Jones（tim.jones@）→ **董事 / 共同创办人 = 联系人**",
+    "WESLEY, Nigel Robert（1957-04 生）— Director（2020-02→2022-07；2025-01-13 回任至今）",
+    "已辞：ELVIDGE Anthony（创始 2014→2020-02）、LAW Josephine（创始 2014→2020-02）、WAWRZESTA Louis（2020-02→2025-01）、FITZWILLIAMS Antoni（2021-04→2025-01）、RIISE Harald（挪威籍，2021-10→**2025-10-21**）"
+   ],
+   "psc": "未取（下轮）；董事更替轨迹：2020-02 三创始人同日退 + 新班子进（= 股权变动 / MBO），2021 挪威籍董事进（= 北欧投资方），2023 Jones 回任，2025-01 班子再换、2025-10 挪威董事退 —— **2025 年又换了一次手 / 投资方退出**",
+   "charges": "未取",
+   "prev_names": [],
+   "lines": [
+    "**联系人 Tim Jones = 创始董事，2020 退出、2023 回任，2025 公司再次换班（挪威投资方 2025-10 退出）—— 现在 Jones + Wesley 两人当家，正是「重新选供应商」的窗口** → 27 封群发只打开 2 封，但 2025-02 Elsa 的「16 口 DIN 工业交换机」信是他们栏目正中的题：下一封按 ㉝ 带那封主题，只写 Tim（董事），内容 = 工业 DIN PoE（STI 系列 3 年保）+ 媒体转换器 Saga 不供但交换机侧可整柜配 Omnitron 之外的第二货源；分销 20%",
+    "登记地址是代理地址 → 实际仓 / 办公另在；首单 T/T 50/50，UKCA + CE；DAP 英国走 Saga 百运网线；GB 周四 12–14",
+    "下轮补：overview（SIC / accounts_due / 规模）+ PSC（看 2025 新股东是谁）+ charges；复查 2027-01"
+   ],
+   "notes": "研究档 legal_name 空 → 回填 COMTROL UK LIMITED；KP Tim Jones 职务回填 Director（2014 创始；2023 回任）。",
+   "fetched": "2026-10-27",
+   "code": "SB-745"
   }
  }
 }
