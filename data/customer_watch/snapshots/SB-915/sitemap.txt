@@ -1,4 +1,4 @@
-# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
 2026-01-22	https://www.radwin.com/about
 2026-01-22	https://www.radwin.com/become-a-partner
 2026-01-22	https://www.radwin.com/board-of-directors
@@ -12,7 +12,7 @@
 2026-03-12	https://www.radwin.com/contact-radwin-certification
 2026-03-12	https://www.radwin.com/contact-request-a-quote
 2026-04-13	https://www.radwin.com/contact-support-request
-2026-10-25	https://www.radwin.com/contactus
+2026-10-26	https://www.radwin.com/contactus
 2026-08-16	https://www.radwin.com/cookie-policy
 2026-10-21	https://www.radwin.com/descubre-qora
 2026-10-25	https://www.radwin.com/employee/form
@@ -72,7 +72,7 @@
 2026-01-22	https://www.radwin.com/wincare-managed-services
 2026-01-22	https://www.radwin.com/wincare-professional-services
 2026-09-27	https://www.radwin.com/wireless-migration
-2026-09-24	https://www.radwin.com/wireless-migration-assessment-form
+2026-10-26	https://www.radwin.com/wireless-migration-assessment-form
 2026-01-28	https://www.radwin.com/wisps
 2026-01-28	https://www.radwin.com/wisps-business-connectivity
 2025-11-02	https://www.radwin.com/wisps-network-backhaul

@@ -1,5 +1,5 @@
-# SB-283 oncuguvenlik.com.tr · sitemap · https://www.oncuguvenlik.com.tr/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
-2026-09-17	https://www.oncuguvenlik.com.tr/
+# SB-283 oncuguvenlik.com.tr · sitemap · https://www.oncuguvenlik.com.tr/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
+2026-10-27	https://www.oncuguvenlik.com.tr/
 2026-03-31	https://www.oncuguvenlik.com.tr/tr/kategori/yeni-urunler
 2026-04-06	https://www.oncuguvenlik.com.tr/tr/kategori/urunlerimiz
 2026-04-01	https://www.oncuguvenlik.com.tr/tr/kategori/ip-kameralar
@@ -91,10 +91,11 @@
 2026-04-06	https://www.oncuguvenlik.com.tr/tr/kategori/ses-%C3%BCr%C3%BCnleri
 2026-04-30	https://www.oncuguvenlik.com.tr/tr/kategori/proje-aksesuar
 2026-08-14	https://www.oncuguvenlik.com.tr/tr/kategori/vms-sunucu-i%C5%9F-istasyonu
+2026-09-29	https://www.oncuguvenlik.com.tr/tr/kategori/goruntulu-alarm-dogrulama
 2026-04-01	https://www.oncuguvenlik.com.tr/tr/urun/ses-karti-12v
 2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/5-amper-12v-smps-adaptor-fis-tipli
 2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/85-amper-12v-smps-adaptor-fis-tipli
-2026-09-17	https://www.oncuguvenlik.com.tr/tr/urun/3-amper-12v-smps-adaptor-fis-tipli
+2026-10-25	https://www.oncuguvenlik.com.tr/tr/urun/3-amper-12v-smps-adaptor-fis-tipli
 2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/konvansiyonel-roleli-isi-detektoru-ve-tabani
 2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/kablolu-manyetik-kontak
 2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/metal-manyetik-kontak
@@ -105,10 +106,10 @@
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/konvansiyonel-isi-detektoru-ve-tabani
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/konvansiyonel-optik-duman-detektoru
 2026-08-14	https://www.oncuguvenlik.com.tr/tr/urun/1-loop-lyon-adreslenebilir-yangin-alarm-paneli
-2026-09-15	https://www.oncuguvenlik.com.tr/tr/urun/adreslenebilir-teknik-sinyal-modulu-giris
+2026-10-14	https://www.oncuguvenlik.com.tr/tr/urun/adreslenebilir-teknik-sinyal-modulu-giris
 2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/sifreli-kontrol-unitesi
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/konvansiyonel-yangin-ihbar-butonu-resetlenebilir
-2026-09-03	https://www.oncuguvenlik.com.tr/tr/urun/konvansiyonel-elektronik-siren-amp-flasor
+2026-09-25	https://www.oncuguvenlik.com.tr/tr/urun/konvansiyonel-elektronik-siren-amp-flasor
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/konvansiyonel-elektronik-dahili-siren
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/konvansiyonel-elektronik-siren-amp-flasor-2
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/clvr-serisi-2-zonlu-konvansiyonel-yangin-alarm-paneli
@@ -128,8 +129,8 @@
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/8-loop-lyon-adreslenebilir-yangin-alarm-paneli
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/kombine-optik-duman-ve-isi-detektroru
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/adreslenebilir-isi-detektoru
-2026-09-16	https://www.oncuguvenlik.com.tr/tr/urun/akillinbspadreslenebilir-optik-duman-ve-isi-detektoru
-2026-09-15	https://www.oncuguvenlik.com.tr/tr/urun/resetlenebilir-yangin-ihbar-butonu
+2026-09-25	https://www.oncuguvenlik.com.tr/tr/urun/akillinbspadreslenebilir-optik-duman-ve-isi-detektoru
+2026-10-23	https://www.oncuguvenlik.com.tr/tr/urun/resetlenebilir-yangin-ihbar-butonu
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/adreslenebilir-siren
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/adreslenebilir-master-konvansiyonel-zone-modul
 2026-09-16	https://www.oncuguvenlik.com.tr/tr/urun/adreslenebilir-role-cikis-modulu
@@ -142,7 +143,7 @@
 2026-05-07	https://www.oncuguvenlik.com.tr/tr/urun/7-lcd-dokunmatik-monitor
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/konvansiyonel-elektronik-siren
 2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/roleli-optik-duman-detektoru-ve-tabani
-2026-09-15	https://www.oncuguvenlik.com.tr/tr/urun/adreslenebilir-siren-amp-flasor
+2026-10-07	https://www.oncuguvenlik.com.tr/tr/urun/adreslenebilir-siren-amp-flasor
 2026-04-17	https://www.oncuguvenlik.com.tr/tr/urun/roleli-detektor-tabani-12v-4-kablolu
 2026-05-07	https://www.oncuguvenlik.com.tr/tr/urun/16mp-panovu-360-panoramic-ip-kamera
 2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/20mp-anti-korozyon-network-ptz-kamera
@@ -151,5 +152,4 @@
 2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/60w-high-poe-enjektor
 2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/30w-poe-enjektor-2
 2026-05-07	https://www.oncuguvenlik.com.tr/tr/urun/seagate-10tb-disk
-2026-04-15	https://www.oncuguvenlik.com.tr/tr/urun/2mp-mini-ir-bullet-ip-kamera-30-metre-ir-h265
-2026-04-15	https://w
+2026-04-15	https://www.oncuguvenlik.

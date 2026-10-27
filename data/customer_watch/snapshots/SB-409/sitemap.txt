@@ -1,7 +1,7 @@
-# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
 2026-10-05T00:13:47+00:00	https://www.xlrsecurity.com/
 2026-08-16T20:13:21+00:00	https://www.xlrsecurity.com/blog/
-2026-10-25T22:57:30+00:00	https://www.xlrsecurity.com/lens-preview/
+2026-10-26T19:32:48+00:00	https://www.xlrsecurity.com/lens-preview/
 2026-08-17T17:53:39+00:00	https://www.xlrsecurity.com/tutorials/
 2026-08-13T13:36:22+00:00	https://www.xlrsecurity.com/brands/lysora-technology/
 2026-08-13T13:35:16+00:00	https://www.xlrsecurity.com/brands/akuvox-video-intercoms/
@@ -19,7 +19,6 @@
 2026-06-09T12:55:25+00:00	https://www.xlrsecurity.com/security-distributor-in-toronto/
 2025-05-16T18:01:13+00:00	https://www.xlrsecurity.com/customer-focused-security-distributor/
 2026-06-09T12:55:04+00:00	https://www.xlrsecurity.com/thx-form-submission/
-2026-06-09T12:55:18+00:00	https://www.xlrsecurity.com/uniview-professional-security-cameras/
 2026-06-26T12:18:59+00:00	https://www.xlrsecurity.com/uniview-tutorials/
 2023-03-17T18:33:16+00:00	https://www.xlrsecurity.com/alarm-intrusion/
 2026-10-12T05:19:50+00:00	https://www.xlrsecurity.com/uniview-distributor/
@@ -147,8 +146,9 @@
 2026-10-05T16:20:00+00:00	https://www.xlrsecurity.com/product/pwr-dc12-350a-in/
 2026-10-16T15:20:51+00:00	https://www.xlrsecurity.com/product/nvr516-128e-r/
 2026-09-21T20:09:24+00:00	https://www.xlrsecurity.com/product/tr-jb07-d-in-bk/
-2026-06-29T12:23:46+00:00	https://www.xlrsecurity.com/product/ipc3618sr-adf40km-h/
+2026-10-26T19:36:04+00:00	https://www.xlrsecurity.com/product/ipc3618sr-adf40km-h/
 2025-05-07T19:47:30+00:00	https://www.xlrsecurity.com/product/xlr-acc-hdmi-extender-60m/
 2026-07-23T12:21:26+00:00	https://www.xlrsecurity.com/blog/univiews-owlview-plus-delivers-incredible-image-quality-with-image-comparisons/
 2025-04-28T14:22:00+00:00	https://www.xlrsecurity.com/product/xlr-acc-mifare-card/
-2026-10-07T13:53:23+00:00	https://www.xlrsecurity.com/product/unv-kit-
+2026-10-07T13:53:23+00:00	https://www.xlrsecurity.com/product/unv-kit-201s-372s-nsw2020/
+2026-10-07T14:25:55+00:00	https://www.xlrsecurity.com/product/pn-s7010f-8p

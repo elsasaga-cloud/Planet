@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,16 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Grandstream GWN7672WM: Wi-Fi 7 tribanda de pared con uplink de 5 GbE
+27 de octubre de 2026
+Conoce
+El GWN7672WM reúne Wi-Fi 7 BE11000 en 2,4, 5 y 6 GHz, montaje en pared y conectividad Ethernet de 5 GbE para instalaciones profesionales.
+Read More
+Videoporteros IP Grandstream: control de accesos, comunicación y gestión en una sola solución
+26 de octubre de 2026
+Conoce
+Videoportero, control de accesos y videovigilancia en un solo equipo. Repasamos la serie Grandstream GDS3720, su integración con UCM y su gestión con GDS Manager 2 y GDMS.
+Read More
 Webinar práctico: Control de accesos y videoporteros IP con Grandstream | 6 de noviembre
 26 de octubre de 2026
 Webinar
@@ -62,16 +72,6 @@ UniFi Network 11: más visibilidad, SD-WAN y dispositivos Matter en una sola red
 14 de octubre de 2026
 Conoce
 Ubiquiti renueva la telemetría de UniFi Network 11 con más de un 30 % de mejora en escalabilidad, tráfico en tiempo real, WiFi WAN en modelos compatibles, nuevas políticas SD-WAN y visibilidad de dispositivos Matter.
-Read More
-Grandstream GWN7072: router Wi-Fi 7 tribanda con WAN de 10 GbE y mesh de hasta 16 nodos
-13 de octubre de 2026
-Conoce
-Grandstream estrena su primer router Wi-Fi 7: el GWN7072, tribanda (2,4, 5 y 6 GHz) con hasta 11 Gbps de velocidad Wi-Fi agregada, puerto WAN combo de 10 GbE, mesh de hasta 16 nodos, VPN y firewall.
-Read More
-Certificación oficial Grandstream GCPNS en Madrid: 25, 26 y 27 de noviembre
-13 de octubre de 2026
-Formación
-Cuatro certificaciones oficiales Grandstream en un único curso presencial en Leganés (Madrid): GCPS, Routing & Switching, Wireless y Security.
 Read More
 Paginación de entradas
 1
@@ -629,4 +629,5 @@ comunicación
 comunicacion bidireccional
 comunicación empresas
 comunicacion unificada
-comunicacion 
+comunicacion unificada grandstream
+comunicaciones

@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,50 +41,48 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Ubiquiti Singlemode simplex optický patch cord SC UPC/SC UPC, 1m, 50 pack
-2 605 Kč bez DPH
-3 152 Kč s DPH
-Triton 19" stojanový rack 27U/600x600 prosklené dveře, šedý
-9 171 Kč bez DPH
-11 097 Kč s DPH
-Triton 19" stojanový rack 37U/800x900 prosklené dveře, šedý
-15 270 Kč bez DPH
-18 477 Kč s DPH
+Triton 19" stojanový rack 27U/800x800 prosklené dveře, šedý
+11 110 Kč bez DPH
+13 443 Kč s DPH
 Triton 19" stojanový rack 45U/800x800 prosklené dveře, šedý
 15 180 Kč bez DPH
 18 368 Kč s DPH
-MikroTik 1/10/25G SFP/SFP+/SFP28 optický modul XS+31LC10D, SM, 20km, 1310nm
-2 417 Kč bez DPH
-2 924 Kč s DPH
-Hikvision IP mini dome hybrid kamera DS-2CD2543G2-LIS2U(2.8mm), 4Mpx, 2.8mm, AcuSense
-Ubiquiti UniFi patch kabel, 5m, Cat5e, modrý
-167 Kč bez DPH
-202 Kč s DPH
-Samsung 9100 PRO NVMe SSD, M.2, 8TB
-46 611 Kč bez DPH
-56 399 Kč s DPH
-Triton zámek pro nástěnné rozvaděče
-190 Kč bez DPH
-230 Kč s DPH
-Teltonika Telematics FTC887, Automobilový GPS tracker s Bluetooth a 4G LTE Cat 1
-1 919 Kč bez DPH
-2 322 Kč s DPH
-Teltonika TeltoCharge Držák kabelu na zeď pro elektronabíječku EVC2
-564 Kč bez DPH
-682 Kč s DPH
-Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 5m
-89 Kč bez DPH
-108 Kč s DPH
-Triton průchozí panel s kartáčem, 1U, 19", šedý
-220 Kč bez DPH
-266 Kč s DPH
-MEAN WELL XDR-75E-24 Průmyslový zdroj na DIN lištu, 76W, 24V
-466 Kč bez DPH
-564 Kč s DPH
-Triton rozvodný panel RAB-PD-X10-A1, 19", 14x IEC320, IEC C14 vstup
-961 Kč bez DPH
-1 163 Kč s DPH
+Hikvision IP bullet kamera DS-2CD2T43G2-4LI(4mm), 4Mpx, 4mm, 80m LED/IR, AcuSense
+Teltonika Security S32GM, Hybridní zabezpečovací ústředna s 2G/LTE Cat 1, 32 zón
+2 547 Kč bez DPH
+3 082 Kč s DPH
+Lexar Micro SDXC 256GB BLUE PLUS
+1 508 Kč bez DPH
+1 825 Kč s DPH
+Triton 19" dvojdílný rack 6U/295mm prosklené dveře, černý
+3 260 Kč bez DPH
+3 945 Kč s DPH
+Hikvision IP dome hybrid kamera DS-2CD2183G2-LIS2U(2.8mm), 8Mpx, 2.8mm, AcuSense
+SanDisk Extreme PRO Micro SDXC 64GB + SD adaptér
+836 Kč bez DPH
+1 012 Kč s DPH
+Triton optická vana pro 8x ST konektor RAC-FO-X01-C1, 1U, 10", šedá
+195 Kč bez DPH
+236 Kč s DPH
+Ubiquiti UniFi patch kabel, 1m, Cat5e, černý, 24 pack
+1 910 Kč bez DPH
+2 311 Kč s DPH
+Samsung 990 NVMe SSD, M.2, 2TB
+9 107 Kč bez DPH
+11 019 Kč s DPH
+Triton 19" stojanový rack 27U/600x1000 prosklené dveře, šedý
+11 350 Kč bez DPH
+13 734 Kč s DPH
+Kingston Micro SDXC Canvas Select Plus Gen3 128B + SD adaptér
+645 Kč bez DPH
+781 Kč s DPH
+Ubiquiti UACC-Adapter-PoE-24-12W, Gigabitový PoE Injektor, 24V/0.5A (12W), 5 pack
+839 Kč bez DPH
+1 015 Kč s DPH
 Aktuality
+Představujeme Teltonika Security
+26.10.2026
+Teltonika přináší novou divizi zaměřenou na zabezpečení objektů. Její portfolio zahrnuje zabezpečovací ústředny, detektory pohybu, otevření dveří či zaplavení, klávesnice a komunikační moduly. Nabízí širokou škálu komponentů pro tvorbu zabezpečovacích systémů podle potřeb konkrétní instalace. Objevte Teltonika Security v našem e-shopu a seznamte se s novými možnostmi v oblasti zabezpečení.
 MikroTik Queue Tree: když Simple QoS nestačí
 22.10.2026
 QoS v RouterOS není novinka. Queue Tree dává správcům sítí výrazně větší kontrolu než jednoduché Simple QoS. Hodí se pro přesnější prioritizaci provozu, lepší řízení šířky pásma a pokročilejší práci s jednotlivými směry trafficu. Ve videu MikroTik jednoduchou formou ukazuje, proč je tahle metoda užitečná hlavně v náročnějších sítích.
@@ -109,9 +107,6 @@ Od města až po otevřené moře. Do nabídky jsme zařadili MikroTik LAMP 5G R
 Dejte technice druhou šanci
 20.07.2026
 Proč platit plnou cenu, když můžete ušetřit? V naší nabídce najdete kromě nového zboží, také i sekci rozbalené i použité, které jsme pečlivě zkontrolovali a připravili k dalšímu používání. Stejná kvalita, výrazně nižší cena a navíc udržitelnější volba. Mrkněte, jaké kousky právě čekají skladem.
-Nový Wi-Fi 7 Access Point Alta Labs AP7
-01.07.2026
-Do nabídky jsme nově zařadili Wi-Fi 7 Access Point Alta Labs AP7-Pro. Novinka přináší Tri-Band Wi-Fi 7, 10GbE port, 4×4 MIMO, podporu Mesh i pokročilou cloudovou správu. První kusy očekáváme skladem během následujících 3 týdnů. Sledujte nás a buďte mezi prvními, kdo využije extrémní výkon nové generace Wi-Fi 7.
 Další aktuality
 Zastoupené značky
 Represented brands

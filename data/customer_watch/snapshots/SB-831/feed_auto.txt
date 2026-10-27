@@ -1,4 +1,4 @@
-# SB-831 actelis.com · feed_auto · https://actelis.com/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-831 actelis.com · feed_auto · https://actelis.com/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Wed, 19 Aug 2026 12:27:55 +0000	Actelis Networks Powers Broadband to Remote Alaska Schools and Healthcare Facilities Through Regional Carrier Orders	https://actelis.com/actelis-networks-powers-broadband-to-remote-alaska-schools-and-healthcare-facilities-through-regional-carrier-orders/
 Wed, 08 Jul 2026 21:57:59 +0000	Actelis Networks Secures $0.85 Million Software and Services Renewal from Leading North American Carrier	https://actelis.com/actelis-networks-secures-software-and-services-renewal/
 Thu, 25 Jun 2026 21:38:57 +0000	Actelis Networks Receives Approximately $200,000 Order from a Central European Carrier for GL800 Multi-Gigabit Connectivity Serving SOHO Customers	https://actelis.com/actelis-networks-receives-order-for-gl800-multi-gigabit-connectivity-serving-soho-customers/

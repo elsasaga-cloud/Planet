@@ -1,5 +1,72 @@
-# SB-066 comtec.com.vn · home · https://comtec.com.vn/ · fetched 2026-10-26T07:56:19Z · HTTP 508
-508 Resource Limit Is Reached
-Resource Limit Is Reached
-The website is temporarily unable to service your request as it exceeded resource limit.
-Please try again later.
+# SB-066 comtec.com.vn · home · https://comtec.com.vn/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+COMTEC
+Nhảy tới nội dung
+VỀ CHÚNG TÔI
+SẢN PHẨM
+Thiết bị hàn quang và đo quang
+Thiết bị đo
+Công cụ, dụng cụ
+Thiết bị khác
+LIÊN HỆ
+VỀ CHÚNG TÔI
+SẢN PHẨM
+Thiết bị hàn quang và đo quang
+Thiết bị đo
+Công cụ, dụng cụ
+Thiết bị khác
+LIÊN HỆ
+Liên hệ: 0989 339 983
+Search
+Optical fiber measuring instrument
+Nowadays,the fiber optic cables are being used widely from long to short distance, even from room to room, equipment to equipment. The demand for optical tester with high-accuracy, high-performance is needed.
+Optimus device provides to technicians and network managers the optical fiber testers to ensure the performance of their fiber networks.
+NEW!
+FTTH Handheld OTDR
+OTM1100F Handheld OTDR is the latest smart OTDR of Optimus device company. It has features that can satisfy the high requirement from engineer from UK and European countries.
+– Event type: Connector, splice loss, bending, splitter loss
+– Wavelength: 1310/1550nm
+– Dynamic range: 22/20dB
+– Distance setting: 500m-120km
+– Pulse width setting range: 3ns-20µs
+– Event deadzone: 1m
+– Attenuation deadzone: 6m
+– Built-in VLS function, OPM function, SLS function, RJ45 test
+NEW!
+OTM4000 OTDR Series
+OTM4000 Optical Time Domain Refl ectometer (OTDR) is an intelligent meter of a new generation for the detection of fi ber communications systems. With the popularization of optical network construction in cities and country sides, the measurement of optical network becomes short and disperse; OTM4000 is specially designed for that kind of application. It’s economic, having outstanding performance
+– Integrated design, smart and rugged
+– IP65 protection level, outdoor enhanced
+– 7-inch anti-refl ection LCD screen
+– PON online test module (1625nm) is optional
+– MMF test module (850/1300nm) is optional
+– Support multi-language display and input
+– Generate PDF report
+– Bi-direction trace analysis
+– Diff erential trace analysis
+NEW!
+OTDR MULTI TESTER
+All Functions in 1 Device, Pocket-sized, Easy-to-use, and Affordable for Technicians at any Level
+The device is with 3.5 inch Capacitive LCD screen, supporting both touch and physical buttons operation. It can be charged by Type-C
+USB. Wireless charging is optional.
+With new automatic laser detection technology, optical modules can be protected to be damaged when light (up to -2dBm) is running on
+the testing fiber.
+The OTM1000 integrates with 9 functions for almost all situations in fiber network installation or maintenance.
+Features
+– Single, dual wavelength light-weight OTDR
+– Combines all essential fiber tests in one handheld with OTDR, OPM, OLS, VFL, etc
+– Easy to understand OTDR analysis with event map result view and pass/fail indications
+– Access network or point-to-point network verification or troubleshooting
+– Upgrades easily in the field
+– All-day battery life
+Download: OTM1000.pdf
+NEW!
+OPS2 Series Optical Multimeter
+Description:
+Optimus provides high precision optical multimeter. OPS2 Series Optical Multimeter integrates a stable optical laser source and a precise optical power meter.
+The optical laser source unit launches the laser whose wavelengths are at 1310/1490/1550nm or 1310/1550nm (according to the model). The optical power meter unit can recognize the wavelength automatically. OPS2 Series Optical Multimeter offers a large storage capacity; With the assorted software, user can generate a report or manage the test report easily.
+Features:
+Auto wavelength recognition
+Has wide range of OPM with power range from -70dBm to +26dBm for DWDM and -70dBm to +10dBm for FBB
+Function: power meter, light source, auto loss test
+USB interface and PC associated software available
+Copyright COMTEC COMPANY.

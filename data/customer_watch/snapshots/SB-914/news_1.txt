@@ -1,4 +1,4 @@
-# SB-914 mro-tek.com · news_1 · https://www.mro-tek.com/about/media · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-914 mro-tek.com · news_1 · https://www.mro-tek.com/about/media · fetched 2026-10-27T08:02:45Z · HTTP 200
 News & Press — MRO‑TEK
 Skip to main content
 +91 9821558696
@@ -369,7 +369,7 @@ A look at how security frameworks are being built directly into network infrastr
 Read Article >
 BSE/NSE Listed · CIN: L28112KA1984PLC005873
 Sy No: 140/17/338
-Umiya Velociti, 12th Floor, Bellary Road, Hebbal, Bangalore – 560 024
+Umiya Vellociti, 12th Floor, Bellary Road, Hebbal, Bangalore – 560 024
 Products
 Routers
 Switches

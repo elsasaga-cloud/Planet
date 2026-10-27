@@ -1,4 +1,4 @@
-# SB-711 madalix.co.il · news_1 · https://www.madalix.co.il/blog · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-711 madalix.co.il · news_1 · https://www.madalix.co.il/blog · fetched 2026-10-27T08:02:45Z · HTTP 200
 Blog | MADALIX
 top of page
 Email us: info@madalix.co.il
@@ -18,7 +18,7 @@ What is Optical Bonding? In display technologies, optical bonding stands out as 
 Daniel Zaichik Jul 30, 2023 5 min read
 mSATA, mPCIe, M.2 Expansion Slot Fully Explained
 mSATA, mPCIe, M.2 Expansion Slot Fully Explained. The transition from mSATA, mPCIe to M.2
-Daniel Zaichik Jun 1, 2022 10 min read
+Daniel Zaichik May 31, 2022 10 min read
 The Differences Between Industrial PCs and PLCs
 Daniel Zaichik Mar 10, 2022 6 min read
 5G Module is Already Here! Ultra-fast Connectivity at The Rugged Edge
@@ -29,6 +29,6 @@ Vehicle Fanless Computers
 Daniel Zaichik Nov 1, 2021 5 min read
 Industrial PC With NVIDIA GPU
 NVIDIA has long dominated the GPU market with leading innovations and continuously pushing the GPU technology development forward....
-Daniel Zaichik Oct 7, 2021 4 min read
+Daniel Zaichik Oct 6, 2021 4 min read
 Copyright Madalix Ltd. 2026 © All rights reserved.
 bottom of page

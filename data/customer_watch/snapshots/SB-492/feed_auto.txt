@@ -1,4 +1,4 @@
-# SB-492 sistel-networking.it · feed_auto · https://www.sistel-networking.it/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-492 sistel-networking.it · feed_auto · https://www.sistel-networking.it/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Tue, 17 Feb 2026 09:06:43 +0000	Guida completa alla giunzione della fibra ottica: tecniche, strumenti e best practice	https://www.sistel-networking.it/guida-giunzione-fibra-ottica-tecniche-strumenti/
 Tue, 24 Mar 2026 16:14:01 +0000	Kit Giunzione Fibra Ottica: L’attrezzatura necessaria per un lavoro professionale	https://www.sistel-networking.it/attrezzatura-professionale-giunzione-fibra-ottica-kit/
 Tue, 10 Mar 2026 10:30:08 +0000	Errori Comuni nella Giunzione Fibra: Come evitare i “Downtime Killer”	https://www.sistel-networking.it/errori-comuni-giunzione-fibra-ottica-soluzioni/

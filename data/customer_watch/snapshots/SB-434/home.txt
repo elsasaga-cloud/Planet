@@ -1,4 +1,4 @@
-# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 S-Connect - Su socio para el IoT
 Iniciar sesión
 o
@@ -278,16 +278,18 @@ Sintrones SBOX-2320 - Box PC fanless
 Lanner LEC-2580 - PC industrial embebido
 10,00 €*
 Descubrir
+Niseva XE33-1C-LoRa - Gateway LoRa
 Gateway LoRaWAN industrial serie WISE-6610 de Advantech
-Milesight UG56 - LoRaWAN Gateway industrial
+Gateway de red privada Advantech WISE-3610 Wireless IoT LoRa
+Milesight UG65-L04EU-868M-EA - LoRaWAN Gateway semi-industrial
+0,00 €*
 Milesight UG63 - Mini LoRaWAN Gateway
-Kerlink Wirnet iStation M2 - LoRaWAN Gateway
-Kerlink Wirnet iZeptoCell Ethernet - LoRaWAN Gateway indoor Ethernet
-Kerlink Wirnet iFemtoCell-evolution - LoRaWAN Gateway indoor
-Kerlink Wirnet iZeptoCell Cellular - LoRaWAN Gateway indoor celular
-Kerlink Wirnet iEdge - LoRaWAN Gateway para Smart Building
 Milesight SG50 - LoRaWAN Gateway solar
+Milesight UG56 - LoRaWAN Gateway industrial
 Milesight UG67 - LoRaWAN Gateway Outdoor
+LoRaWAN gateway outdoor MultiTech Conduit IP67
+193,00 €*
+Kerlink Wirnet iBTS - Gateway LoRaWAN Outdoor
 Moxa MPC-3070W - Panel PC fanless de 7"
 Moxa MPC-3100 - Panel PC fanless de 10.4"
 Moxa MPC-3120 - Panel PC fanless de 12.1"

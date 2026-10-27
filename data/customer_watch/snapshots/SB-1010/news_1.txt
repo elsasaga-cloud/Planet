@@ -1,4 +1,4 @@
-# SB-1010 bayiden.com.tr · news_1 · https://www.bayiden.com.tr/blog/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-1010 bayiden.com.tr · news_1 · https://www.bayiden.com.tr/blog/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 - Bayiden - Teknolojinin Bayisi
 Yapay Zeka ile Ara
 Sohbet ederek hızlı ve kolay ürün ara
@@ -45,6 +45,7 @@ Taşınabilir Bilgisayarlar All In One Bilgisayar
 Çevirivi & Dağıtıcı & Dönüştürücü Hdmi Dağıtıcı Çevirici Dağıtıcı Vga Dağıtıcı Çevirici ve Dönüştürücü
 Projeksiyon Projeksiyon Askı Aparatları Projeksiyon Aksesuarları Projeksiyon Cihazı
 Ses & Görüntü Sistemleri
+Hazır Ses Sistemleri
 Seslendirme Ekipmanları Seslendirme Ekipman Çeşitleri
 Hazır Ses Sistemleri
 Kulaklıklar
@@ -208,5 +209,4 @@ Bloglar
 Bayiden.com.tr Blog
 20.07.2026 · 6 dk okuma Güvenlik Sistemleri
 Güvenlik Kamerası Sistemleri Rehberi: AHD, IP, Analog Karşılaştırması (2026)
-Güvenlik Kamerası Sistemleri Rehberi: Evinize ve İş Yerinize Doğru Sistemi Nasıl Seçersiniz? Güvenlik kamerası sistemi kurmak artık lüks değil…
-Devamını O
+Güvenlik Kamerası Sistemleri Rehberi: Evinize ve İş Yerinize Doğru Sistemi Nasıl Seçersiniz? Güvenlik kamerası sistemi kurmak artık l

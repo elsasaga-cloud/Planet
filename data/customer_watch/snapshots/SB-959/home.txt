@@ -1,4 +1,4 @@
-# SB-959 silarius.com · home · https://silarius.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-959 silarius.com · home · https://silarius.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Security Cameras, Surveillance, IT and Access Control Superstore – Silarius
 Skip to content
 Plan my system Free
@@ -163,8 +163,8 @@ Low-Voltage & Security Wire
 Pedestals & Reader Posts
 Nurse Call Systems
 Shop all Access Control
-Smart Building
-View all Smart Building
+Automation
+View all Automation
 Silarius Home Edition
 Lighting Controls & Dimmers
 Smart Plugs, Relays & Bulbs
@@ -177,7 +177,7 @@ Smart Speakers & Streaming Audio
 Wi-Fi & Mesh Systems
 Lighting
 Remotes, Hubs & Control
-Shop all Smart Building
+Shop all Automation
 Fire & Life Safety
 View all Fire & Life Safety
 Fire Alarm Panels & Power
@@ -202,7 +202,7 @@ Axis
 HID
 APC
 Middle Atlantic
-All 500+ brands →
+All 730+ brands →
 Services
 View all Services
 Silarius Mobility Solutions
@@ -226,7 +226,7 @@ Shop faster, track orders, get help
 Free on the App Store
 Get
 Silarius Security Cameras · Cloud · Monitoring
-Silarius Store 150,000+ products · You are here
+Silarius Store 230,000+ products · You are here
 New here? Meet Silarius Security. Our own brand site: Silarius cameras, cloud recording for any camera and live video monitoring.
 Take a look →
 Got it
@@ -449,21 +449,21 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
-Smart Building Smart Building
+Automation Automation
 Lighting
 Silarius Home Edition
 Lighting Controls & Dimmers
 Smart Locks & Garage
 Video Doorbells & Smart Cameras
 Smart Thermostats
-Also in Smart Building
+Also in Automation
 Smart Plugs, Relays & Bulbs
 Smart Shades & Blinds
 Alarm Systems & Sensors
 Smart Speakers & Streaming Audio
 Wi-Fi & Mesh Systems
 Remotes, Hubs & Control
-Shop all Smart Building
+Shop all Automation
 Talk to a specialist
 Spec a system with someone who knows the catalogue.
 Chat with us
@@ -500,7 +500,7 @@ Axis
 HID
 APC
 Middle Atlantic
-All 500+ brands →
+All 730+ brands →
 Services Services
 Services & Installations
 Built by our own trained installers
@@ -527,4 +527,5 @@ Send us a message
 Chat Chat with a specialist
 Email info@silarius.com
 Hours Mon–Fri, 8am–4pm
-Quotes Volume and mu
+Quotes Volume and multi-site pricing on request
+

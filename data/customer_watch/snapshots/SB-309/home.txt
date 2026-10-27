@@ -1,4 +1,4 @@
-# SB-309 alternetivo.cz · home · https://www.alternetivo.cz/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-309 alternetivo.cz · home · https://www.alternetivo.cz/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Alternetivo | IT distributor | Switching/routing, monitoring, síťová bezpečnost, kabeláže, bezdrátové a optické sítě
 Jazyk / Language EN
 SK
@@ -209,14 +209,14 @@ Trvale jsme pro vás snížili ceny originálních konektorů Reichle & de Massa
 Celý text
 Všechny nabídky
 Naše řešení v praxi
-Modernizace Wi-Fi sítě na internátu: Ruckus jako efektivní řešení pro kvalitní pokrytí
-Pro zákazníka bylo potřeba modernizovat Wi-Fi infrastrukturu v rámci celého internátu. Stávající síť byla historicky postavena na řešení Ruckus se ZoneDirector 3025. Cílem projektu bylo nejen modernizovat stávající infrastrukturu, ale také ověřit a doplnit Wi-Fi pokrytí v prostorách, kde bylo potřeba navrhnout nové access pointy.
+IP Polná – přechod z Cambium Networks na Ruckus
+Zákazník IP Polná původně pro vybavení nové pobočky preferoval řešení Cambium Networks nebo CISCO, se kterým již měl zkušenost. Ve spolupráci s partnerem INTEVIA TECHNOLOGIES jsme proto navrhli obchodní a technické porovnání třech technologií – CISCO vs. Cambium Networks vs. Ruckus Networks.
 Privátní 5G: Revoluce v živém sportovním vysílání
 Privátní 5G jako primární konektivita při sportovních přenosech: CloudRAN.AI na Světových univerzitních hrách FISU v Německu
 Hotel Fairmont Golden Prague: Technologie budoucnosti v srdci luxusu
 Fairmont Golden Prague není jen hotel. Je to synonymum pro absolutní špičku v ubytovacím a konferenčním sektoru.V rámci rozsáhlé rekonstrukce, která přetvořila budovu do podoby světové sedmihvězdičkové úrovně, padlo rozhodnutí: síťová infrastruktura musí odpovídat stejně vysokým standardům jako celý hotel. A proto volba padla na RUCKUS Networks.
-Modernizace síťové infrastruktury ve škole ZŠ Jandusů pomocí TP-Link Omada
-Základní škola ZŠ Jandusů se rozhodla modernizovat svou síťovou infrastrukturu, která již neodpovídala současným nárokům na výkon, bezpečnost a správu.
+Modernizace Wi-Fi sítě na internátu: Ruckus jako efektivní řešení pro kvalitní pokrytí
+Pro zákazníka bylo potřeba modernizovat Wi-Fi infrastrukturu v rámci celého internátu. Stávající síť byla historicky postavena na řešení Ruckus se ZoneDirector 3025. Cílem projektu bylo nejen modernizovat stávající infrastrukturu, ale také ověřit a doplnit Wi-Fi pokrytí v prostorách, kde bylo potřeba navrhnout nové access pointy.
 Moderní datová infrastruktura pro pavilon J Masarykovy nemocnice v Ústí nad Labem
 Krajská zdravotní, a.s., největší poskytovatel lůžkové zdravotní péče v Ústeckém kraji a jeden z největších zdravotnických subjektů v ČR, dlouhodobě investuje do modernizace nemocniční infrastruktury a potřeboval navrhnout datovou infrastrukturu zbrusu nového pavilonu
 Špičkové Wi-Fi připojení na Mistrovství Evropy 2025 v zápase díky zápůjčce naší perfektní technologie
@@ -240,4 +240,4 @@ V čisté síťařině nenechává Zyxel nic náhodě a plně pokrývá potřeby
 SPE, neboli Single Pair Ethernet
 SPE, neboli Single Pair Ethernet, je nová technologie Ethernetu, která umožňuje přenos dat a případně napájení přes jediný pár kroucených vodičů na velkou vzdálenost. Jedná se o efektivní a nákladově úsporné řešení pro průmyslové aplikace, automatizaci budov a automobilový průmysl.
 Nové typy transceiverů pro 400Gb/s a vyšší rychlosti: kam se posouvá optika pro datacentra a DCI
-Růst provozu v datacentrech, cloudových službách a hlavně AI/HPC clusterech v posledních letech výrazně zrychlil přechod od 100G/200G linek k 400G a dál k 800G. Nejde přitom jen o „dvojnásobnou rychlost", ale o kombina
+Růst provozu v datacentrech, cloudových službách a hlavně AI/HPC clusterech v posledních letech výrazně 

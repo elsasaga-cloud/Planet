@@ -1,4 +1,4 @@
-# SB-789 visarcctv.com · home · https://www.visarcctv.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-789 visarcctv.com · home · https://www.visarcctv.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Prekes viSar
 .content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" onfocus="$(this).parent().find('.select>.content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" maxlength=100 />
 Show all results
@@ -19,7 +19,7 @@ IP Vaizdo Stebėjimo Sistemos IP Kameros Tinkliniai Įrašymo Įrenginiai (NVR) 
 HD Vaizdo Stebėjimo Sistemos HD Kameros HD Vaizdo Įrašymo Įrenginiai (AHD)
 Tinklo Komutatoriai Komutatoriai POE Tinklo Komutatoriai Pramoniniai POE Tinklo Komutatoriai Priedai
 Priedai Kietieji Diskai Laikikliai, Komutacinės Dėžutės Kabeliai Klaviatūros, Valdymo Svirtys Monitoriai
-Pagalba Parsisiųsti Atitikties deklaracija
+Pagalba Parsisiųsti NDAA Atitikties deklaracija
 Specialūs pasiūlymai
 VSC IPT8PNDe3b-ALD - IP vaizdo kamera 8MP, Panoraminė, Dual light iki 30m, Obj. klas. funkcija, Garso ir šviesos perspėjimas, P2P, Juoda
 VSC-IPT8PNDE3B-ALD 326 .70 € /vnt.
@@ -197,6 +197,14 @@ pridėti į pasirinktus
 Pridėti į krepšelį
 Populiarūs produktai
 Rodyti viska
+VSC IPT8BLDLnF28 IP vaizdo kamera 8MP, 2.8mm, Dual light 30m
+VSC-IPT8BLDLnF28 171 .82 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8VDDLnF28D IP vaizdo kamera 8MP, 2.8mm, Dual light 30m
+VSC-IPT8VDDLnF28D 171 .82 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
 VSC-IPT4VD-BSF28 IP vaizdo kamera 4MP, 2.8mm, Dual Light iki 50m, LIght explorer
 VSC-IPT4VD-BSF28 181 .50 € /vnt.
 pridėti į pasirinktus
@@ -281,12 +289,4 @@ VSC IPT4VDs4cF28 IP vaizdo kamera 4MP, 2.8mm, Dual light iki 30m, Objektų klasi
 VSC-IPT4VDs4cF28 130 .68 € /vnt.
 pridėti į pasirinktus
 Pridėti į krepšelį
-VSC IPT6BLs4cMZ IP vaizdo kamera 6MP, 2.8-12mm, Dual light iki 50m, Objektų klasifikavimo funkc. P2P
-VSC-IPT6BLs4cMZ 220 .22 € /vnt.
-pridėti į pasirinktus
-Pridėti į krepšelį
-VSC IPT4BLDLF28D IP vaizdo kamera 4MP, 2.8mm, Dual Light 30m, Black
-VSC-IPT4BLDLF28D 94 .38 € /vnt.
-pridėti į pasirinktus
-Pridėti į krepšelį
-VSC
+VSC IPT6BLs4cMZ IP vaizdo kamera 6MP, 2.8

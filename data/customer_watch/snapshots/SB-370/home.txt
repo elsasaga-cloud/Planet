@@ -1,6 +1,6 @@
-# SB-370 wildix.com · home · https://www.wildix.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-370 wildix.com · home · https://www.wildix.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 AI-Powered VoIP, UCaaS & Business Phone System | Wildix
-About Us
+About Us About Us About Us
 Wildix: an AWS partner
 What is Wildix
 Wildix News
@@ -12,46 +12,35 @@ Book a Demo
 Careers
 Plans & Pricing
 Awards
-Products
-x-bees
-The AI-native platform – calls, contact centre and meetings in one
-Primary product
-AI Unified Communications
-AI Unified Communications Platform
+Products x-bees The AI-native platform – calls, contact centre and meetings in one
+Primary product AI Unified Communications AI Unified Communications Platform
 Business Communications: Collaboration 7
 Mobile Apps for iOS and Android
 Video Meetings & Webinars (Wizyconf)
-AI Contact Center
-x-bees: Customer Communication Platform
+AI Contact Center x-bees: Customer Communication Platform
 Kite: Omnichannel Customer Messaging
 Call Analytics Software (Cloud Analytics)
 x-caracal: Contact Center Analytics
-AI Solutions & Agentic AI
-Wilma AI: Agentic AI Assistant
+AI Solutions & Agentic AI Wilma AI: Agentic AI Assistant
 AI-Powered Business Communications
 Revenue Intelligence Software
-Cloud PBX & Calling Services
-VoIP Cloud Phone System
+Cloud PBX & Calling Services VoIP Cloud Phone System
 CLASSOUND: SIP Trunking Solutions
 eSIM: Mobile Business Phone System
 Branded Calling and Messaging
 Plans & Pricing
-Business Phones & Hardware
-VoIP Desk Phones & Headsets
+Business Phones & Hardware VoIP Desk Phones & Headsets
 LED Headsets
 W-AIR: Cordless DECT System
 Wi-One: Portable Wi‑Fi Phone
 Media Gateways & Network Solutions
-Solutions
-By need
-Business Mobility
+Solutions Solutions By need Business Mobility
 Cloud Migration
 Remote & Hybrid Work Solutions
 Virtual Classroom
 Nurse call system
 Lone worker safety
-Industries
-Retail
+Industries Industries Retail
 Manufacturing
 Legal
 Education
@@ -59,24 +48,19 @@ Automotive
 Hospitality
 Real Estate
 Integrations
-Partner
-Partner Program & Onboarding
-Become a Wildix Partner
+Partner Partner Partner Program & Onboarding Become a Wildix Partner
 Find a Wildix Partner
 Partner Benefits & Incentives
 Salesforce Partner Community (SFPC)
-Partner Resources & Training
-Wildix Training
+Partner Resources & Training Wildix Training
 Technical Documentation
 Wildix Tech Wizards
 Wildix Webinars
-Marketing & Business Growth
-Marketing Kit
+Marketing & Business Growth Marketing Kit
 Hardware as a Service
 Partner Success Stories
 Contacts
-Support
-New releases and Updates
+Support Support New releases and Updates
 Supported SIP Trunks
 WMS – API interface
 PBX Service Availability
@@ -85,12 +69,11 @@ Developer Area & Integrations
 Wildix System Status Page
 Data Security & Privacy
 Our Blog
-e-Learning
-e-Learning Platform
+e-Learning e-Learning e-Learning Platform
 Wildix Podcasts
 EN
 Book a demo
-About Us
+About Us About Us
 Wildix: an AWS partner
 What is Wildix
 Wildix News
@@ -102,46 +85,36 @@ Book a Demo
 Careers
 Plans & Pricing
 Awards
-Products
-x-bees
-The AI-native platform – calls, contact centre and meetings in one
+Products x-bees The AI-native platform – calls, contact centre and meetings in one
 Primary product
-AI Unified Communications
-AI Unified Communications Platform
+AI Unified Communications AI Unified Communications Platform
 Business Communications: Collaboration 7
 Mobile Apps for iOS and Android
 Video Meetings & Webinars (Wizyconf)
-AI Contact Center
-x-bees: Customer Communication Platform
+AI Contact Center x-bees: Customer Communication Platform
 Kite: Omnichannel Customer Messaging
 Call Analytics Software (Cloud Analytics)
 x-caracal: Contact Center Analytics
-AI Solutions & Agentic AI
-Wilma AI: Agentic AI Assistant
+AI Solutions & Agentic AI Wilma AI: Agentic AI Assistant
 AI-Powered Business Communications
 Revenue Intelligence Software
-Cloud PBX & Calling Services
-VoIP Cloud Phone System
+Cloud PBX & Calling Services VoIP Cloud Phone System
 CLASSOUND: SIP Trunking Solutions
 eSIM: Mobile Business Phone System
 Branded Calling and Messaging
 Plans & Pricing
-Business Phones & Hardware
-VoIP Desk Phones & Headsets
+Business Phones & Hardware VoIP Desk Phones & Headsets
 LED Headsets
 W-AIR: Cordless DECT System
 Wi-One: Portable Wi‑Fi Phone
 Media Gateways & Network Solutions
-Solutions
-By need
-Business Mobility
+Solutions By need Business Mobility
 Cloud Migration
 Remote & Hybrid Work Solutions
 Virtual Classroom
 Nurse call system
 Lone worker safety
-Industries
-Retail
+Industries Retail
 Manufacturing
 Legal
 Education
@@ -149,24 +122,19 @@ Automotive
 Hospitality
 Real Estate
 Integrations
-Partner
-Partner Program & Onboarding
-Become a Wildix Partner
+Partner Partner Program & Onboarding Become a Wildix Partner
 Find a Wildix Partner
 Partner Benefits & Incentives
 Salesforce Partner Community (SFPC)
-Partner Resources & Training
-Wildix Training
+Partner Resources & Training Wildix Training
 Technical Documentation
 Wildix Tech Wizards
 Wildix Webinars
-Marketing & Business Growth
-Marketing Kit
+Marketing & Business Growth Marketing Kit
 Hardware as a Service
 Partner Success Stories
 Contacts
-Support
-New releases and Updates
+Support New releases and Updates
 Supported SIP Trunks
 WMS – API interface
 PBX Service Availability
@@ -175,57 +143,47 @@ Developer Area & Integrations
 Wildix System Status Page
 Data Security & Privacy
 Our Blog
-e-Learning
-e-Learning Platform
+e-Learning e-Learning Platform
 Wildix Podcasts
-Search for:
-Search
+Search for: Search
 Select Your Language
 English
 French
 German
 Italian
 Spanish
-Search for:
-Search
+Search for: Search
 Stop Losing Revenue to Poor Communication!
 Close More Deals with AI‑Enhanced UC
 Join 45,000+ businesses using the first sales-oriented unified communications solution – now powered by AI – designed to increase revenue, not just handle calls.
 Find Your Local Expert
 See How It Works
-0
-%
+0 %
 more
 web sales
-0
-%
+0 %
 more
 efficiency
-+
-0
-%
++ 0 %
 security
 Awarded and recognized by the industry
 AI-Powered VoIP & Unified Communications Platform
 Trusted by 1.2M+ users
-What does
-“sales‑oriented” really mean?
+What does “sales‑oriented” really mean?
 Communication isn’t infrastructure. It’s strategy. While others treat UC as IT plumbing, we treat it as your most powerful business asset. Every conversation, every connection, every collaboration is built to make you money and drive measurable revenue growth.
 The Hidden Revenue Leak in Your Communication System
 Every day, your business loses potential deals because:
 Missed calls go to voicemail
 Prospects call competitors
 Website visitors can’t reach you instantly
-0
-%
+0 %
 leave without converting
 Teams waste time switching between tools
 Opportunities slip through the cracks
 Poor call quality damages relationships
 Clients lose confidence
 The cost?
--
-0
+- 0
 in lost revenue per year for
 the average business
 Discover how to stop this
@@ -233,25 +191,21 @@ Discover how to stop this
 M+
 active users
 How Wildix Transforms Communication Into Revenue
-0
-%
+0 %
 more
 web sales
 Turn Your Website Into a Lead Generation Machine
 WebRTC technology lets website visitors call you instantly with one click. No downloads, no phone numbers to dial, no friction. Your prospects connect in 3 seconds instead of giving up.
 Learn more
 →
-0
-%
+0 %
 more
 efficiency
 Stop Communication Chaos
 One platform handles calls, chat, video, and collaboration. Your team saves 2+ hours daily by eliminating app-switching and finding the right information instantly.
 Get information
 →
-+
-0
-%
++ 0 %
 security
 100% secure by design
 Built-in security means no VPNs, no external hardware, no security gaps. Your communications are protected from day one, automatically
@@ -297,12 +251,10 @@ Fabio Christen,
 IT Manager of Swissconnect
 “We have evaluated other solutions, but in the end, the presentation of Wildix convinced us. We soon realized that it was the perfect solution for our needs. We are very pleased with the choice.”
 Rubén Martí,
-Head of Marketing, IT
-and Telecommunications at Autosolar
+Head of Marketing, IT and Telecommunications at Autosolar
 “When we changed our communications system, the improvement was noticeable in every aspect of our business. I would recommend this platform to any business that offers technical support, a contact center and even internal and external communications.”
 Tim Hofbauer,
-Director of Platte County
-Emergency Management
+Director of Platte County Emergency Management
 “We had long-term plans to look at work from home for certain situations, but then when the Corona virus hit, we ended up having to immaediately implement that with a number of offices here in the courthouse. If we didn’t have the [Wildix] phone system, that probably wouldn’t have been able to happen.”
 Read Their Stories
 Five years in the Gartner® Magic Quadrant™ for UCaaS, Worldwide
@@ -314,8 +266,7 @@ Great communication infrastructure. Super-Easy but also Super-Customizable
 Infrastructure and Operations in the Manufacturing Industry
 The Wildix partner, whom we contacted, showed and described the whole communication infrastructure before installing it in our small company. After the initial setup, they followed us for additional customization and optimization. The main advantages are the mobile app, the easy integration with other communication product (doorbell, sIP speaker, etc.) and the quality of sounds.
 May 20, 2021
-Why Businesses Choose Wildix
-Over Traditional UC
+Why Businesses Choose Wildix Over Traditional UC
 Other vendors focus only on features. We focus on what actually moves the business: more sales, faster responses, measurable ROI.
 Wildix:
 Single platform, one expert
@@ -329,8 +280,7 @@ Communication focus
 Multiple vendor support
 Common Questions,
 Clear Answers
-You’ve got questions? We’ve got
-straight, no-fluff answers.
+You’ve got questions? We’ve got straight, no-fluff answers.
 Still Wondering? Start Here!
 Will this disrupt our current operations?
 Zero downtime migration. Your team starts using Wildix alongside current systems.
@@ -365,6 +315,4 @@ VAT ID: EE 101984698
 Phone: +372 (61) 89586
 Products
 AI Unified Communications
-AI Unified Communications Platform
-Business Communications: Collaboration 7
-Mobil
+AI Uni

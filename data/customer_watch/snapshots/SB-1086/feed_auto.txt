@@ -1,4 +1,4 @@
-# SB-1086 teamtelecom.ro · feed_auto · https://teamtelecom.ro/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-1086 teamtelecom.ro · feed_auto · https://teamtelecom.ro/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Wed, 07 Oct 2026 06:13:18 +0000	TEAM TELECOM la Bulgarian Security Summit 2026	https://teamtelecom.ro/team-telecom-la-bulgarian-security-summit-2026/
 Mon, 03 Nov 2025 11:09:20 +0000	Workshop In-Building Networks Solutions, Bucuresti 2025	https://teamtelecom.ro/hello-world/
 Thu, 09 Oct 2025 09:01:05 +0000	TEAM TELECOM la Romanian Security Summit 2025	https://teamtelecom.ro/team-telecom-la-romanian-security-summit-2025/

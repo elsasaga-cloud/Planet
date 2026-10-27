@@ -1,4 +1,4 @@
-# SB-244 innowatt.it · home · https://www.innowatt.it/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-244 innowatt.it · home · https://www.innowatt.it/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Innowatt - Tecnologia innovativa al tuo servizio
 Vai direttamente ai contenuti
 Il tuo carrello è vuoto
@@ -73,11 +73,6 @@ Controllo accessi con telecamera PoE IP65 IK09 - Scheda...
 €272,08
 Consegna in 48 ore
 Aggiungi al carrello
-ANKER
-Anker - Caricabatterie USB - Potenza 30W - Ricarica vel...
-€18,71 Disponibile
-Consegna in 48 ore
-Aggiungi al carrello
 HIKVISION
 Controllo accessi con telecamera PoE IP65 IK09 - Scheda...
 €249,05
@@ -111,6 +106,11 @@ Aggiungi al carrello
 SAFIRE
 Cavo patch F/UTP - Ethernet - Connettori RJ45 - Categor...
 €3,27 Disponibile
+Consegna in 48 ore
+Aggiungi al carrello
+SAFIRE
+Cavo patch F/UTP - Ethernet - Connettori RJ45 - Categor...
+€1,19 Disponibile
 Consegna in 48 ore
 Aggiungi al carrello
 MARCA BLANCA
@@ -123,11 +123,6 @@ Controllo accessi con telecamera PoE IP65 IK09 - Scheda...
 €272,08
 Consegna in 48 ore
 Aggiungi al carrello
-ANKER
-Anker - Caricabatterie USB - Potenza 30W - Ricarica vel...
-€18,71 Disponibile
-Consegna in 48 ore
-Aggiungi al carrello
 HIKVISION
 Controllo accessi con telecamera PoE IP65 IK09 - Scheda...
 €249,05
@@ -163,25 +158,30 @@ Cavo patch F/UTP - Ethernet - Connettori RJ45 - Categor...
 €3,27 Disponibile
 Consegna in 48 ore
 Aggiungi al carrello
+SAFIRE
+Cavo patch F/UTP - Ethernet - Connettori RJ45 - Categor...
+€1,19 Disponibile
+Consegna in 48 ore
+Aggiungi al carrello
 Le nostre aree
 Da dove vuoi partire?
 Tutto il catalogo →
 Telecamere
 e video
 Telecamere IP e WiFi, videoregistratori, monitor
-902 articoli
+900 articoli
 Sicurezza
 e allarmi
 Antifurto Ajax, controllo accessi, videocitofoni
-717 articoli
+716 articoli
 Reti
 e smart home
 Switch PoE, WiFi, Shelly, Aqara, domotica
-386 articoli
+385 articoli
 Energia
 e accessori
 Fotovoltaico, alimentazione, materiale elettrico
-1462 articoli
+1451 articoli
 Kit già configurati
 Tutto in una scatola sola
 Tutti i kit →

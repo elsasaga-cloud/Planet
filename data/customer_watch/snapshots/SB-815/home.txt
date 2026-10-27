@@ -1,13 +1,11 @@
-# SB-815 lendoux.com · home · https://lendoux.com/en/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-815 lendoux.com · home · https://lendoux.com/en/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Lendoux Specialized Store
  New
 
-Review (0)
 Dell Unity XT 480
 $0.00
  New
 
-Review (0)
 Dell PowerStore 1200
 $0.00
  The World of High-Tech at Your Fingertips: Fast, Easy, and Smart
@@ -55,21 +53,20 @@ More Category Less Category More Category Less Category
 Popular Products
 
 
-16-Port 40Gb Line Card for FS Data Center Switch NC8200-4TD
-Switch and router store
-$2,627.90 Price
-
-ColdLogik CL80 30kw data center InRow Coolers
+NVIDIA MCX4121A-ACAT-4 Lx dual port 25GbE server network card
 Data center store
-$14,318.00 Price
+$297.00 Price
 
-Edgecore Datacenter switch DCS560-AS9817-64O-AS9817-64D-with 64*QSFP-DD800/OSFP800
+16*100Gb & 4*400Gb Line Card for FS Data Center Switch NC8400-4TD
 Switch and router store
-$1.00 Price
+$3,958.90 Price
 
-24*25Gb & 2*100Gb Line Card for FS Data Center Switch NC8200-4TD
-Switch and router store
-$1,670.90 Price
+Microand smart Data Center package EDGE-8 with usystem ventilation
+Data center store
+
+HOP5863-24X2C- 24 port 10 G Access and 2x100 G Uplink Switch
+Telecom and Network
+$3,800.00 Price
 All Featured Products 
 Latest Requests
 
@@ -130,26 +127,27 @@ Most Viewed
  
 
 
-QSK60 Cummins Diesel Generator
+125KVA CUMMINS DIESEL GENERATOR ,C125D5P
 
  
  
 
 
-QSK23 Cummins Diesel Generator
+2000KVA CUMMINS DIESEL GENERATOR ,C2000D5
+$239,000.00
 
  
  
 
 
-2000KVA CUMMINS DIESEL GENERATOR ,C2000D5P
-$257,500.00
+1500KVA CUMMINS DIESEL GENERATOR ,C1500D5P
+$144,500.00
 
  
  
 
 
-100KVA CUMMINS DIESEL GENERATOR ,C100D5P
+625KVA CUMMINS DIESEL GENERATOR ,C625D5P
 New products
 New
 
@@ -215,7 +213,7 @@ What is Milestone Video Surveillance Software and How Does It Work?
 Posted in:
 Products
 07/09/2025
-6648
+6653
 views
 Milestone Software | Optimal Choice for video Management Software
 Milestone's XProtect VMS products are designed as...
@@ -224,7 +222,7 @@ Getting to Know IPTV
 Posted in:
 Products
 06/12/2025
-4361
+4368
 views
 IPTV (Internet Protocol Television) is an innovative solution for the transmission of video, audio, image, and text...
 Read more
@@ -232,7 +230,7 @@ Industrial Dual PON ONU HOU14865
 Posted in:
 Products
 08/24/2023
-4640
+4641
 views
 HOU14865 is an industrial grade dual PON port ONU. Industrial-grade ONU equipment for natural heat dissipation of...
 Read more
@@ -240,7 +238,7 @@ Comparison of Microchip SyncServer S650 VS HOPF 8100
 Posted in:
 Products
 10/26/2024
-5311
+5317
 views
 Microchip, Hopf, Meinberg, WorldTime, and Saplink are among the best time server brands in the world from Germany,...
 Read more

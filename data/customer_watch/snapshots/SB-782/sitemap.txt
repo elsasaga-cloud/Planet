@@ -1,4 +1,4 @@
-# SB-782 simpleuk.com · sitemap · https://www.simpleuk.com/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-782 simpleuk.com · sitemap · https://www.simpleuk.com/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
 2026-10-26	https://www.simpleuk.com/
 2026-10-26	https://www.simpleuk.com/search
 2026-10-26	https://www.simpleuk.com/contactus

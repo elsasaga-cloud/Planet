@@ -1,4 +1,4 @@
-# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
 	https://www.kassabasystems.com/ir-kamera-5mpx-cs-25fc5m
 	https://www.kassabasystems.com/vanshna-wifi-camera-trx-robot30-4mpx
 	https://www.kassabasystems.com/2fc-5mp-5mpx-ultra-hd-komplekt-za-videonablyudenie-na-doma-s-2-broya-5mpx-bulet-kameri-i-1-broi-ultra-hd-dvr
@@ -63,6 +63,7 @@
 	https://www.kassabasystems.com/4K-8MPX-vanshna-AI-WiFi-kamera-TRX-80WiFi-DA
 	https://www.kassabasystems.com/4robot30-4mp-komplekt-za-videonablyudenie-s-4br-wifi-kameri-4mpx-za-vanshen-montazh-s-mikrofon-i-10-kanalen-4k-nvr
 	https://www.kassabasystems.com/6ahd5rv-komplekt-ot-6-broya-5mpx-ir-bulet-kameri-za-vanshen-montazh-s-noshtno-vizhdane-do-30-metra-i-8mpx-hibriden-dvr-1257450107
+	https://www.kassabasystems.com/vanshna-bulet-dvubandova-wifi-kamera-tuya-s-mikrofon-TS-60WiFi-RX
 	https://www.kassabasystems.com/hik4ira-5mpx-ultrahd-4-kanalen-komplekt-s-4-broya-kupolni-kameri-s-vgradeno-audio-i-hibriden-videorekorder-hikvision-2ip
 	https://www.kassabasystems.com/hik8ira-5mpx-ultrahd-8-kanalen-komplekt-s-ir-bulet-30m-kameri-s-vgradeno-audio-i-hibriden-videorekorder-hikvision-4ip
 	https://www.kassabasystems.com/ub-4g-pt-upravlyaema-4g-solarna-ip-kamera-1080p-sas-slot-za-sim-i-karta-pamet-do-64gb
@@ -101,7 +102,6 @@
 	https://www.kassabasystems.com/4dir4k-8mpx-komplekt-za-videonablyudenie-s-4-br-4k-ultra-hd-kameri-i-xibriden-xvr
 	https://www.kassabasystems.com/6ip4m-poe-tsifrov-ip-komplekt-s-6br-poe-kameri-4mpx-dual-light-s-mikrofoni-i-tsvetno-noshtno-vizhdane-4k-10-kanalen-nvr-i-poe-suich
 	https://www.kassabasystems.com/trx-robot-dc-3mpx-dvoina-vanshna-wifi-kamera-s-mikrofon
-	https://www.kassabasystems.com/vanshna-bulet-dvubandova-wifi-kamera-tuya-s-mikrofon-TS-60WiFi-RX
 	https://www.kassabasystems.com/6ahd5rv-komplekt-ot-6-broya-5mpx-ir-bulet-kameri-za-vanshen-montazh-s-noshtno-vizhdane-do-30-metra-i-8mpx-hibriden-dvr
 	https://www.kassabasystems.com/8robot27-4mp-8br-upravlyaema-ptz-wifi-kamera-4mpx-s-tsvetno-noshtno-vizhdane-do-30m-10-kanalen-nvr-8mpx-4k
 	https://www.kassabasystems.com/ip-tsifrov-komplekt-s-6br-5mpx-poe-kameri-s-mikrofon-dual-light-i-tsvetno-noshtno-vizhdane-10-kanalen-4k-nvr-i-poe-suich-6b3750-poe

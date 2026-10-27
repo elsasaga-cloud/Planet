@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -87,9 +87,9 @@ GPON/GEPON 173
 CWDM Mux/Demux 9
 Szybkozłączki, spawy mechaniczne, złącza światłowodowe 62
 Stojaki kablowe 16
-Monitoring (2599)
-Wszystkie 2599
-Systemy IP 998
+Monitoring (2600)
+Wszystkie 2600
+Systemy IP 999
 Systemy HD-TVI 115
 Systemy hybrydowe 242
 Zestawy do monitoringu 11
@@ -106,12 +106,12 @@ Kable i wtyki CCTV 32
 Akcesoria instalacyjne CCTV 51
 Testery wideo z monitorem LCD 1
 Inne akcesoria CCTV 111
-LAN (4933)
-Wszystkie 4933
+LAN (4934)
+Wszystkie 4934
 Kable LAN 403
 Patchcordy RJ45 1868
 Szafy RACK 880
-Akcesoria do szaf RACK 884
+Akcesoria do szaf RACK 885
 Moduły keystone 232
 Gniazda i wtyki 293
 Organizacja kabli 95
@@ -278,11 +278,20 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
+Hikvision DS-2CD2T46G2H-IS2U/SL 2.8mm EF PL kamera IP bullet 4 MP AcuSense
+861.77 zł netto
+Do koszyka
+Hikvision DS-2CD2T46G2H-4I 2.8 mm kamera IP 4 MP IR 80 m
+837.31 zł netto
+Do koszyka
+Hikvision DS-2CD2T166G3-IS2UY/SL(2.8)eFO-STDBLACK – kamera IP bullet 16 MP z aktywnym odstraszaniem
+1454.58 zł netto
+Do koszyka
 MEAN WELL HLG-150H-12A zasilacz LED 12 V 150 W
 208.03 zł netto
 Do koszyka
 Mean Well HLG-120H-24A zasilacz LED 24 V 120 W 5 A
-206.04 zł netto
+190.5 zł netto
 Do koszyka
 Mean Well HLG-120H-12B zasilacz LED 12 V 120 W z ściemnianiem
 211 zł netto
@@ -290,17 +299,8 @@ Do koszyka
 Mean Well HLG-120H-12A zasilacz LED 12 V 120 W 10 A
 206.04 zł netto
 Do koszyka
-Polywater QuicKleen 60 ml spray – środek do czyszczenia włókien światłowodowych
-152.1 zł netto
-Do koszyka
-Mean Well HLG-100H-24B zasilacz LED 24 V 96 W 4 A IP67
-204.06 zł netto
-Do koszyka
-Mean Well HLG-100H-24A zasilacz LED 24 V 100 W 4 A IP65
-186.35 zł netto
-Do koszyka
-Hikvision DS-2CD2T166G3-IS2UY/SL(2.8mm)(eF) – kamera IP bullet 16 MP z aktywnym odstraszaniem
-1385.56 zł netto
+Western Digital WD Red Pro WD202KFGX 20 TB SATA 3,5 cala NAS
+5082.49 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

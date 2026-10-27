@@ -1,4 +1,4 @@
-# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-10-27T08:02:45Z · HTTP 200
 News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
 Skip to main content
 To top
@@ -142,6 +142,9 @@ Read more
 OCC – tactical fiber optic cable for harsh environments
 Optical Cable Corporation (OCC) is a US manufacturer of fiber optic cable and connectivity solutions, with particular expertise in rugged tactical cables for military, industrial and other harsh-environment applications.
 Read more
+Cleaning Fiber Optic Connectors
+A contaminated connector is a common cause of high insertion loss, reflections and, consequently, unstable connections. A significant proportion of problems in fiber optic installations are caused by contaminated connectors. Even a very small amount of contamination can potentially affect the transmission of light.
+Read more
 TE Connectivity – rugged fiber, copper and hybrid connectivity
 TE Connectivity is a global manufacturer of connectivity and sensor solutions for industries including industrial, transportation, energy, data centers, aerospace and defense.
 Read more
@@ -214,10 +217,4 @@ Robust fiber optics solutions for industrial use
 Industrial environments place great demands on equipment. Both mechanical stress and large temperature variations can make standard materials unsuitable.
 Read more
 Rugged fiber optic solutions for defense and harsh environments
-Reliable communication is critical in defense, offshore, industrial and field applications. In these environments, fiber optic systems must withstand repeated handling, moisture, dust, temperature variations and mechanical stress.
-Read more
-Indoor pre-assembled cables LC uniboot to LC uniboot
-Our company Foss Fibre Optics s.r.o. has successfully implemented a system based on pre-terminated cables with LC uniboot connectors for local data centers.
-Read more
-Visit and Training at TE Connectivity
-On October 15th, a group from our production team in Norway had the unique opportunity to
+Reliable communication is critical in defense, offshore, industrial and field applications. In these environments, fiber optic systems must withstand repeated handling, moisture, dust, temperature variations and mechanical stress

@@ -1,4 +1,4 @@
-# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Danbit - Leverandør af IT-produkter til professionelle
 Velkommen til DANBIT - Dansk Binær Teknik A/S
 B2B – Kun handel med virksomheder
@@ -42,9 +42,24 @@ Vi tilbyder specialiseret teknisk ekspertise
 Midlertidig teknisk assistance til virksomheder
 Faglig support gennem hele projektforløbet
 Kontakt Os
-21,5" CPU I5, PCAP Panel PC FULD IP69K, SUS316/ASIS316 rustfrit stål 250 nits eller 1500 nits version
-21,5" TFT 1920x1080 standard 250 nits (på særlig anmodning 100 eller 1500 nits) PCAB Multi Touch Screen, understøtter berøring med handske/regntilstand Intel Core i5-1135G7 2.4GHz (op til 4.2GHz) Gen 11…
+NVIDIA® Jetson AGX Orin™ AI Embedded Computer, 2x Isolated CAN Bus, NVIDIA Ampere™ arkitektur GPU med 56 Tensor Cores
+Understøtter NVIDIA® Jetson AGX Orin™1792-kernet NVIDIA Ampere™-arkitektur GPU med 56 Tensor-kernerUnderstøtter 2 x GbEUnderstøtter 8 GMSL-kameraer (Kan specialbestilles med 4x PoE i stedet)2 x RS-232/422/4855…
 0,00 kr
+27" touchskærm med høj lysstyrke, 1000 nits, IP65, HDMI/VGA/USB-C
+27" industriel Full HD-berøringsskærm med 1000 nits lysstyrke, IP65-frontbeskyttelse, 10-punkts kapacitiv berøring og robust metalkabinet. Ideel til udendørs kiosker, marine, produktion og kontrolrumsapplikationer…
+7.245,00 kr
+32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, PCAP touch, 1000 nits i rustfrit stål
+32" TFT 1920x1080@60Hz FULL HDPCAP Touch16:91000 NitsOptical Bonded - meget vigtig featureIngen kondens-dug bag frontglasForbedret pålidelighed og ydeevne6-sidet fuldt IP66 forsegletVGA og HDMI indgangeUV-beskyttelseRustfriVESA…
+30.578,00 kr
+2 x 1-Way Digital I/O over Single Mode eller Multi Mode Fiberkabel (simplex - 1 fiber) (Dry contact)
+2 kanaler 1-way over fiberkabelLeveres som sæt500 meter@MM100 km@SMIndgang: Normalt åbenUdgang: Relæ - normalt åbenRelækontakt: 5VDC/5A, 30VDC/1A, 240VAC/0,25AStatus LEDFiberkontakt: STI/O tilslutninger:…
+2.240,00 kr
+Wi-Fi 7 5100MBPS Dual Band Access Point, udendørs, Eksterne antenner, PoE
+Udendørs Dual Band Access Point, Gateway, Repeater, WISP1 × 100/1000/2500BASE-T PoE+ WAN-port (802.3at PoE+ PD)1 × 10/100/1000BASE-T LAN-port2 x 2,4GHz N-hun antennestik3 x 5GHz Hun antennestik IP67 klassificeretVejrbestandigt…
+2.300,00 kr
+8-ports Managed Switch RJ45, PoE++ 2-ports 100 / 1000Mbit og 2-ports 10Gbit SFP-slot, DIN, 48 - 56VDC
+Administreret PoE-switch med 8 RJ45- og 4 SFP-slots 8 x 10/100 / 1000Mbit med PoE++ (95 Watt) PoE-strømforbruget er 360 watt (45 watt pr. port) PoE udvidga-tilstand - max. 160-200 meter 2 x 100 / 1000Mbit…
+6.527,00 kr
 Armeret fiberkabel, Multi mode, SC-SC, 50m, 50/125my, OM3, Aquafarvet, LSZH
 Stålarmeret fiber patchkabel
 Multi mode
@@ -56,30 +71,9 @@ Kabeltykkelse: 3mm
 50m
 Rabat gives ved køb af større mængder
 1.457,00 kr
-15U Støjsvag 19" rackskab, 650 x 650 mm udv. mål, lydsvag Fan + Digital temp. regulering, sort
-Lydisoleret 19” rackskab15UUdvendig mål: 650 x 650 mmFritståendeMed hjul - låsMetal sortFå pris på andre varianter:Udvendig mål: spørg salgsafdelingenRACKSKABE SENDES MED FRAGTMAND!
-14.924,00 kr
-Wi-Fi 7 5100MBPS Dual Band Access Point, udendørs, Eksterne antenner, PoE
-Udendørs Dual Band Access Point, Gateway, Repeater, WISP1 × 100/1000/2500BASE-T PoE+ WAN-port (802.3at PoE+ PD)1 × 10/100/1000BASE-T LAN-port2 x 2,4GHz N-hun antennestik3 x 5GHz Hun antennestik IP67 klassificeretVejrbestandigt…
-2.300,00 kr
-32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, PCAP touch, 1000 nits i rustfrit stål
-32" TFT 1920x1080@60Hz FULL HDPCAP Touch16:91000 NitsOptical Bonded - meget vigtig featureIngen kondens-dug bag frontglasForbedret pålidelighed og ydeevne6-sidet fuldt IP66 forsegletVGA og HDMI indgangeUV-beskyttelseRustfriVESA…
-30.578,00 kr
-NVIDIA® Jetson AGX Orin™ AI Embedded Computer, 2x Isolated CAN Bus, NVIDIA Ampere™ arkitektur GPU med 56 Tensor Cores
-Understøtter NVIDIA® Jetson AGX Orin™1792-kernet NVIDIA Ampere™-arkitektur GPU med 56 Tensor-kernerUnderstøtter 2 x GbEUnderstøtter 8 GMSL-kameraer (Kan specialbestilles med 4x PoE i stedet)2 x RS-232/422/4855…
-0,00 kr
-IP68 anti-bakteriel silikonetastatur med Track Point - USB - LED baggrundslys, Nordisk tegnsæt
-Medico keyboard med trackpoint
-Nordisk layout
-Taster med soft touch
-USB
-LED baggrundsbelysning til brug i mørke
-IP68, tåler rengøring med 80% alkohol, Antibakteriel
-11 x 286 x 148 mm (H X B X D)
-836,00 kr
-2 x 1-Way Digital I/O over Single Mode eller Multi Mode Fiberkabel (simplex - 1 fiber) (Dry contact)
-2 kanaler 1-way over fiberkabelLeveres som sæt500 meter@MM100 km@SMIndgang: Normalt åbenUdgang: Relæ - normalt åbenRelækontakt: 5VDC/5A, 30VDC/1A, 240VAC/0,25AStatus LEDFiberkontakt: STI/O tilslutninger:…
-2.240,00 kr
+32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, 1500 nits i rustfrit stål
+32" TFT 1920x1080@60Hz FULL HD16:91500 NitsTilkøb PCAP TouchOptical Bonded - meget vigtig featureIngen kondens-dug bag frontglasForbedret pålidelighed og ydeevne6-sidet fuldt IP66 forsegletVGA og HDMI…
+27.241,00 kr
 Erfaring & ekspertise
 50+ års erfaring med tekniske løsninger og rådgivning.
 Kvalitetsprodukter

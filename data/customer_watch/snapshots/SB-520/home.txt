@@ -1,4 +1,4 @@
-# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,30 +75,6 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
-SOLARFAM AST-H6 Sodium-Ion autobaterie 12V 45Ah Start-Stop
-Sodíko-iontová startovací autobaterie 12 V / 45 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 850 A, rozměry 278 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
-3 900 Kč bez DPH
-4 719 Kč s DPH
-Novinka
-Porovnat
-Není skladem
-Přidat do košíku
-MikroTik L14G-2ax-BT5-HL9&EG800Q, KNOT Gateway HL9
-Venkovní IoT gateway s Wi-Fi HaLow 915 MHz, Bluetooth 5.1, Wi-Fi 2,4 GHz až 287 Mb/s, Ethernetem a GNSS. LTE Cat1 až 10/5 Mb/s, nanoSIM i eSIM. Krytí IP66, napájení přes PoE nebo DC svorkovnici; montáž na stožár či stěnu.
-2 625 Kč bez DPH
-3 176 Kč s DPH
-Novinka
-Porovnat
-Není skladem
-Přidat do košíku
-SOLARFAM AST-H8 Sodium-Ion autobaterie 12V 75Ah Start-Stop
-Sodíko-iontová startovací autobaterie 12 V / 75 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 1200 A, rozměry 354 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
-5 625 Kč bez DPH
-6 806 Kč s DPH
-Novinka
-Porovnat
-Není skladem
-Přidat do košíku
 Teltonika PR328EUB Pasivní Gigabitový PoE injektor, 24V, 30W
 Gigabitový pasivní PoE injektor s výstupem 24 V / 1,25 A, maximálně 30 W. Přenos 10/100/1000 Mb/s a napájení na pinech 4,5 (+) a 7,8 (-). Stínění a LED indikace usnadňují napájení kompatibilních síťových prvků.
 374 Kč bez DPH
@@ -107,26 +83,26 @@ Novinka
 Porovnat
 skladem
 Přidat do košíku
-MikroTik IAQM-THC2V-W, CLAIRÉ Lite monitor kvality vzduchu, bílý
-Bílý monitor kvality vnitřního vzduchu s měřením CO2, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
-1 501 Kč bez DPH
-1 816 Kč s DPH
+MikroTik IAQM-THC2V-G, CLAIRÉ Lite monitor kvality vzduchu, šedý
+Šedý monitor kvality vnitřního vzduchu s měřením CO2, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
+1 503 Kč bez DPH
+1 819 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Solární panel SOLARFAM 180W mono, 1230x705x30mm, OBOUSTRANNÝ, černý rám
-Oboustranný monokrystalický solární panel 180 W s články Shingle, účinností až 22 % a černým rámem. Rozměry 1230 × 705 × 30 mm, konektory MC4 a bypass diody. Při osvětlení zadní strany může zvýšit výrobu energie až o 15 %.
-1 579 Kč bez DPH
-1 911 Kč s DPH
+Jistič DC 20A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
+Dvoupólový DC jistič 20 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
+230 Kč bez DPH
+278 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-SOLARFAM AST-H7 Sodium-Ion autobaterie 12V 60Ah Start-Stop
-Sodíko-iontová startovací autobaterie 12 V / 60 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 1050 A, rozměry 315 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
-4 688 Kč bez DPH
-5 672 Kč s DPH
+Energy Meter VM-3P5A Victron Energy
+Třífázový elektroměr Victron Energy VM-3P5A pro měření výkonu a energie s rychlou komunikací přes VE.Can a Ethernet a podporou Modbus UDP.
+3 038 Kč bez DPH
+3 676 Kč s DPH
 Novinka
 Porovnat
 Není skladem
@@ -139,21 +115,45 @@ Novinka
 Porovnat
 skladem
 Přidat do košíku
-Jistič DC 32A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
-Dvoupólový DC jistič 32 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
-230 Kč bez DPH
-278 Kč s DPH
+SOLARFAM AST-H5 Sodium-Ion autobaterie 12V 45Ah Start-Stop
+Sodíko-iontová startovací autobaterie 12 V / 45 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 850 A, rozměry 242 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
+3 750 Kč bez DPH
+4 538 Kč s DPH
+Novinka
+Porovnat
+Není skladem
+Přidat do košíku
+Solární panel SOLARFAM 180W mono, 1230x705x30mm, OBOUSTRANNÝ, černý rám
+Oboustranný monokrystalický solární panel 180 W s články Shingle, účinností až 22 % a černým rámem. Rozměry 1230 × 705 × 30 mm, konektory MC4 a bypass diody. Při osvětlení zadní strany může zvýšit výrobu energie až o 15 %.
+1 579 Kč bez DPH
+1 911 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-MikroTik IAQM-THC2PV-W, CLAIRÉ monitor kvality vzduchu, bílý
-Bílý monitor kvality vnitřního vzduchu s měřením CO2, PM2,5, PM10, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
-1 750 Kč bez DPH
-2 118 Kč s DPH
+Ubiquiti USL-Motion-3, UniFi Protect senzor pohybu, 3-pac
+Sada tří bateriových PIR senzorů pohybu pro vnitřní prostory s komunikací SuperLink 865,1–869,5 MHz a dosahem až 2 km. Horizontální i vertikální PIR detekce, správa přes UniFi Protect a montáž lepením nebo šrouby.
+2 646 Kč bez DPH
+3 202 Kč s DPH
 Novinka
 Porovnat
-Není skladem
+skladem
+Přidat do košíku
+MikroTik L14G-2ax-BT5-LR8&EG800K, KNOT Gateway LR8
+Venkovní IoT gateway s LoRa 868 MHz, Bluetooth 5.1, Wi-Fi 2,4 GHz až 287 Mb/s, Ethernetem a GNSS. LTE Cat1 až 10/5 Mb/s, nanoSIM i eSIM. Krytí IP66, napájení přes PoE nebo DC svorkovnici a montáž na stožár či stěnu.
+2 630 Kč bez DPH
+3 182 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Jistič DC 10A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
+Dvoupólový DC jistič 10 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
+209 Kč bez DPH
+253 Kč s DPH
+Novinka
+Porovnat
+skladem
 Přidat do košíku
 Přejít do poradny
 Aktuality

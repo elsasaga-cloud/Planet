@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -103,16 +103,10 @@ TV/모니터
 남은시간
 LIKE IT ! 0
 Sold Out
-S110-24T2SR 비관리형 24포트 스위치
-상품요약정보 : 24 x GE 포트, 2 x SFP 포트 | 패킷 포워딩 속도: 38.69 Mpps | 스위칭 용량: 52 Gbit/s
-소비자가 : 267,000원
-판매가 : 119,000원
-남은시간
-LIKE IT ! 0
-Sold Out
-AR180 PLUS 기업용 Wi-Fi 7 VPN 유무선 공유기 2.5G 무선AP
-소비자가 : 357,000원
-판매가 : 99,000원
+HUAWEI eKit 화웨이이킷 S110-5T 5포트 기가비트 비관리형 스위칭허브 데스크탑 스위치
+상품요약정보 : 5포트 / 비관리형 / 플러그 앤 플레이 / 1000Mbps(기가비트)
+소비자가 : 50,000원
+판매가 : 11,900원
 남은시간
 LIKE IT ! 0
 Sold Out
@@ -147,19 +141,14 @@ FM2600 L2 비관리형 스위치 (1GBps TP 24포트/ 1G SFP 2슬롯)
 더보기
 LIKE IT ! 0
 Sold Out
-솔텍 SFC4100T 관리형 L2 스위치 (1Gbps TP 24포트/10G SFP 4슬롯)
-상품요약정보 : 웹 관리, 콘솔, Telnet, S-Ring(절체, 복구 30ms), Dual-Ring / 440(W) x 330(D) x 44(H)mm
-판매가 : 735,500원
+솔텍 SFC300-POE (Power over Ethernet) 스위칭허브 V2
+상품요약정보 : SFP 2슬롯(100Mbps) + TP 4포트(10/100Mbps), Power over Ethernet(IEEE802.3af), -40~80℃,
+판매가 : 249,700원
 LIKE IT ! 0
 Sold Out
 솔텍 SFC8000S 산업용 관리형 L2 스위치 (1Gbps TP 4포트 + 2.5G SFP 2슬롯) (전원공급장치 포함)
 상품요약정보 : 웹기반 매니지먼트/ 동작온도: -40°C ~ 80°C / S-Ring(복구타임
 판매가 : 553,300원
-LIKE IT ! 0
-Sold Out
-입고예정 솔텍 SFC4000C 10G 관리형 L2 스위치 (1Gbps TP 8포트/1G SFP 24슬롯/10G SFP 4슬롯)
-상품요약정보 : 1Gbps TP 8포트(콤보 1~8) / 4k VLAN entries / 440(W) x 280(D) x 44(H)mm
-판매가 : 801,900원
 LIKE IT ! 0
 Sold Out
 자동복구형 누전차단기 2.5kA 20A / 2.5kA 30A / 5kA 20A / 5kA 30A / 5kA 50A
@@ -173,9 +162,20 @@ SFC300-SCM2 산업용 멀티모드 광 2포트 TP 4포트 스위칭허브
 판매가 : 222,200원
 LIKE IT ! 0
 Sold Out
+광케이블 SM-1C[FTTH · G657 · B3]
+상품요약정보 : 다량의 정보를 신속히 보내기 위하여 광섬유로 만든 케이블, 미터당 단가
+소비자가 : 300,000원
+판매가 : 300,000원
+LIKE IT ! 0
+Sold Out
 솔텍 SFP-LXH 산업용 광모듈
 상품요약정보 : 산업용 1.25Gbps 싱글모드 SFP 광모듈 전송거리 20km, 1310nm, LC커넥터
 판매가 : 29,000원
+LIKE IT ! 0
+Sold Out
+에시르 SG-IB601D DB-600D 가변 60-120CM 천정형 알루미늄 브라켓
+상품요약정보 : 알루미늄 천정 가변 60-120CM
+판매가 : 16,000원
 LIKE IT ! 0
 Sold Out
 솔텍 SFC200-SCM 멀티모드 100Mbps 광컨버터
@@ -183,19 +183,15 @@ Sold Out
 판매가 : 53,900원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC2000-SFP 멀티/싱글모드 1Gbps 광컨버터
-상품요약정보 : SFP 슬롯형, 멀티모드(850nm, 220m), 싱글모드(1310nm, 10km) / 71(W) x 94(D) x 26(H)mm
-판매가 : 71,500원
+가온전선 광케이블 SM-8C 커팅 옥외용
+상품요약정보 : 가온전선에서 다량의 정보를 신속히 보내기 위하여 광섬유로 만든 케이블, 미터당 단가
+소비자가 : 900원
+판매가 : 900원
 LIKE IT ! 0
 Sold Out
-ipTIME AX2004T 유무선 공유기 (Wi-Fi 6)
-상품요약정보 : Wi-Fi 6 지원 최저가 가성비 공유기
-판매가 : 45,600원
-LIKE IT ! 0
-Sold Out
-SPARROW 광점퍼코드 LC-SC 2C 싱글모드 OS2 광패치코드 LSZH Duplex 2Core 3M
-상품요약정보 : SPARROW 광점퍼코드 LC-SC SM-DX OS2 싱글모드 광패치코드 LSZH Duplex 2Core
-판매가 : 8,000원
+(단독특가) 솔텍 SFC501BT90 PoE 인젝터 (1Gbps TP 2포트)
+상품요약정보 : PoE bt 등급을 지원/ 최대 90Watt(bt) 공급 / -40 ~ 65℃ / 92.4(W) x 170(D) x 44(H)mm
+판매가 : 84,000원
 SOLTECH 브랜드관
 더보기
 {#imgTag_1}

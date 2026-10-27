@@ -1,4 +1,4 @@
-# SB-657 egesanteknoloji.com.tr · home · https://www.egesanteknoloji.com.tr/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-657 egesanteknoloji.com.tr · home · https://www.egesanteknoloji.com.tr/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Egesan Teknoloji, Güvenlik Sistemleri, Yangın Algılama, Alarm, Kamera Toptancısı
 0 (252) 382 32 36
 0 542 182 32 36
@@ -145,6 +145,8 @@ ENERGİZER
 ENERGİZER-MAX ALK. AA CHP 4*24 (7638900437645)
 Coremax
 Coremax 50500 500m 2+1 0.50mm Cctv Kablosu
+Hikvision
+Hikvision DS-KH6320-WTE1 IP İnterkom İç Ünitesi
 Hikvision
 Hikvision DS-7108NI-Q1 8 Kanal NVR Kayıt Cihazı
 Coremax

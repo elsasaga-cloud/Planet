@@ -1,4 +1,4 @@
-# SB-426 helmholz.de · home · https://www.helmholz.de/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-426 helmholz.de · home · https://www.helmholz.de/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Home
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -135,6 +135,10 @@ Datenschutz
 Versand und Zahlung
 AGB
 AEB
+Produktneuheit
+FLEXtra SLIM PROFINET-Switch, FO
+Mehr Konnektivität. Gleiche kompakte Bauform.
+Zum Produkt
 Messe
 24. – 26. November 2026
 Besuchen Sie uns auf der SPS Nürnberg an Stand 7-115.
@@ -146,10 +150,6 @@ WALL IE entdecken
 Produktneuheit
 Schützt das Herz Ihrer Anlage.
 CABINET GUARD: Echtzeit-Zustandsüberwachung direkt im Schaltschrank.
-Zum Produkt
-Produktneuheit
-FLEXtra SLIM PROFINET-Switch, FO
-Mehr Konnektivität. Gleiche kompakte Bauform.
 Zum Produkt
 Best Practice
 OT Security nach IEC 62443

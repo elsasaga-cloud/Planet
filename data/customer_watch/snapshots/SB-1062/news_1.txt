@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-27T08:02:45Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,19 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1768 result(s)
+1772 result(s)
+Real-time data, native integration, and smart reporting to elevate modern retail businesses
+Oct 27, 2026
+Business Hacks
+What Is the Best HR Software for My Business?
+Oct 26, 2026
+Business Hacks
+Meet Odoo and Brainvire at SEMA 2026
+Oct 26, 2026
+Odoo News
+Termotec Integrates Its Operations with Odoo to Support Business Growth
+Oct 26, 2026
+Customer Reviews
 Monterrubio Villegas & Odoo: from Manual Processes to an Integrated ERP
 Oct 26, 2026
 Customer Reviews
@@ -210,18 +222,6 @@ Customer Reviews
 How Harvey Cheese Built a Future-Ready Business
 Oct 21, 2026
 Success Stories
-Which ERP should you choose: Odoo or SAP?
-Oct 20, 2026
-Business Hacks
-Which is the best accounting software for my company?
-Oct 20, 2026
-Business Hacks
-Odoo Education Empowers Educators and Students Across Visayas and Mindanao with Hands-On Workshops
-Oct 20, 2026
-Odoo News
-3 Key Lessons for Future HR Leaders: Highlights from our HKBU Workshop
-Oct 20, 2026
-Odoo News
 1
 2
 3

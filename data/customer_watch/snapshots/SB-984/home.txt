@@ -1,4 +1,4 @@
-# SB-984 olsontech.com · home · https://olsontech.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-984 olsontech.com · home · https://olsontech.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 What we do
 Skip to Content
 Home
@@ -41,10 +41,12 @@ Where to Buy
 +1 209-586-1022
 Sign in
 Contact Us
-Fiber Optic Equipment
-Engineering and Manufacturing of Broadband and Satellite Equipment in the USA for over 40 years
+Engineering and Manufacturing of Optical Networking Equipment for Broadband and Satellite Providers
 Old Website
 ​
+EdgePON
+Mini, Outdoor Remote OLT
+Start your journey
 EDFA
 Converged RF Overlay and PON Networks
 Contact us
@@ -52,11 +54,10 @@ PON
 Passive Optical Network SFP OLT
 The network in your hand.
 Contact us
-EdgePON
-Mini, Outdoor Remote OLT
-Start your journey
-EDFA
-Converged RF Overlay and PON Networks
+Optical Transmitters
+1.2 GHz Broadband Transmitters
+1550 or 1310 nm
+3 ~ 15 dbm Optical Power
 Contact us
 Optical Transmitters
 1550 or 1310 nm

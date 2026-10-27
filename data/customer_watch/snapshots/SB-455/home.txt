@@ -1,4 +1,4 @@
-# SB-455 maxlink.cz · home · https://www.maxlink.cz/cs/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-455 maxlink.cz · home · https://www.maxlink.cz/cs/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 MaxLink - výrobce síťových prvků a příslušenství
 EN
 CZ
@@ -29,18 +29,18 @@ RF spojky
 RF konektory
 Montážní Krabice
 Nové produkty
-ML-S5531-20-HPE MaxLink 1.25G SFP optický HP modul, WDM(BiDi), SM, Tx 1550/Rx1310nm, 20km, 1x LC konektor, DDM, HPE kompatibilní
-Maxlink ML-S5531-20-HPE je 1.25G SFP WDM modul s vlnovou délkou Tx 1550 / Rx 1310, jedním LC konektorem a maximální vzdáleností 20km po singlemode optickém vlákně. SFP modul podporuje monitoring (DDM).LC konektor v SFP modulu má broušení t ... VÍCE INFORMACÍ
-ML-S+2733-10-H3C MaxLink 10G SFP+ optický HP modul, WDM(BiDi), SM, Tx 1270/Rx1330nm, 10km, 1x LC konektor, DDM, H3C kompatibilní
-Maxlink ML-S+2733-10-H3C je 10G SFP+ WDM modul s vlnovou délkou Tx 1270 / Rx 1330, jedním LC konektorem a maximální vzdáleností 20km po singlemode optickém vlákně. SFP+ modul podporuje monitoring (DDM).LC konektor v SFP+ modulu má broušení ... VÍCE INFORMACÍ
-10GBT-1-WM MaxLink aktivní PoE injektor 10G
-Maxlink 10GBT-1-WM je jednoduchý aktivní PoE injektor s podporou standardů 802.3af/at/bt a také 10G ethernetu (10/100M/1/2.5/10G). Je vybaven dvojicí stíněných ethernetových konektorů (1x vstup, 1x výstup) a napájení probíhá po 4 párech (n ... VÍCE INFORMACÍ
+ML-S31D-20-HPE MaxLink 1.25G SFP optický HP modul, SM, 1310nm, 20km, 2x LC konektor, DDM, HPE kompatibilní
+Maxlink ML-S31D-20-HPE je 1.25G SFP modul s 1310nm vlnovou délkou, dvěmi LC konektory a maximální vzdáleností 20km po singlemode optickém vlákně. SFP modul podporuje monitoring (DDM).LC konektory v SFP modulu mají broušení typu UPC.HPE kom ... VÍCE INFORMACÍ
+ML-S+2733-10-HPE MaxLink 10G SFP+ optický HP modul, WDM(BiDi), SM, Tx 1270/Rx1330nm, 10km, 1x LC konektor, DDM, HPE kompatibilní
+Maxlink ML-S+2733-10-HPE je 10G SFP+ WDM modul s vlnovou délkou Tx 1270 / Rx 1330, jedním LC konektorem a maximální vzdáleností 10km po singlemode optickém vlákně. SFP+ modul podporuje monitoring (DDM).LC konektor v SFP+ modulu má broušení ... VÍCE INFORMACÍ
+ML-SFP-RJ45-10G-H3C MaxLink SFP+ 1/2.5/5/10G metalický modul, RJ-45, 30m, 10Gbps, H3C
+ML-SFP-RJ45-10G-H3C je 10 Gbps SFP+ metalický modul s konektorem RJ45 pro metalický kabel. Jedná se o cisco kompatiblní modul. Dosah modulu pro 10G přenos je 30m.H3C kompatibilitaModuly jsou kompatibilní se switchi 3Com/HP/H3C A-series (A5 ... VÍCE INFORMACÍ
 ML-S+3327-10-HPE MaxLink 10G SFP+ optický HP modul, WDM(BiDi), SM, Tx 1330/Rx1270nm, 10km, 1x LC konektor, DDM, HPE kompatibilní
 Maxlink ML-S+3327-10-HPE je 10G SFP+ WDM modul s vlnovou délkou Tx 1330 / Rx 1270, jedním LC konektorem a maximální vzdáleností 10km po singlemode optickém vlákně. SFP+ modul podporuje monitoring (DDM).LC konektor v SFP+ modulu má broušení ... VÍCE INFORMACÍ
-ML-S+31D-40 MaxLink 10G SFP+ optický modul, SM, 1310nm, 40km, 2x LC konektor, DDM
-ML-S+31D-40 je singlemode 10G SFP+ modul s vlnovou délkou 1310nm a dvěma LC konektory pro spojení až na vzdálenost 40km. Modul je "cisco compatibile" a je kompatibilní téměř se všemi aktivními prvky.LC konektory v SFP modulu mají broušení ... VÍCE INFORMACÍ
 ML-SFP-RJ45-10G-HPE MaxLink SFP+ 1/2.5/5/10G metalický modul, RJ-45, 30m, 10Gbps, HPE
 ML-SFP-RJ45-10G-HPE je 10 Gbps SFP+ metalický modul s konektorem RJ45 pro metalický kabel. Jedná se o cisco kompatiblní modul. Dosah modulu pro 10G přenos je 30m.HPE kompatibilitaModuly jsou kompatibilní se switchi HPE Aruba Networking Pro ... VÍCE INFORMACÍ
+ML-S5531-20-HPE MaxLink 1.25G SFP optický HP modul, WDM(BiDi), SM, Tx 1550/Rx1310nm, 20km, 1x LC konektor, DDM, HPE kompatibilní
+Maxlink ML-S5531-20-HPE je 1.25G SFP WDM modul s vlnovou délkou Tx 1550 / Rx 1310, jedním LC konektorem a maximální vzdáleností 20km po singlemode optickém vlákně. SFP modul podporuje monitoring (DDM).LC konektor v SFP modulu má broušení t ... VÍCE INFORMACÍ
 Proč MaxLink
 Široký sortiment a vysoká kvalita produktů
 Sortiment našich produktů je ucelený a neustále se rozšiřuje. Výhodou je i testování našich produktů před uvedením na trh, čímž dokážeme produkt vyladit do nejmenších detailů. Nízká cena
@@ -66,4 +66,4 @@ Czech republic
 Show website in english
 Tento web používá k poskytování služeb, personalizaci reklam a analýze návštěvnosti soubory cookie. Používáním tohoto webu s tím souhlasíte. Další informace (EN) .
 Všechna práva vyhrazena © 2026 - Discomp s.r.o.
-server: IIS01, userIP: 52.159.227.192, 104.22.21.6
+server: IIS01, userIP: 20.84.157.240, 104.23.201.38

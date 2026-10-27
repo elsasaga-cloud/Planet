@@ -1,4 +1,7 @@
-# SB-257 voxplus.it · feed_auto · https://www.voxplus.it/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-257 voxplus.it · feed_auto · https://www.voxplus.it/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+Fri, 23 Oct 2026 09:43:27 +0000	Server seriali industriali Maisvch: soluzioni da 1 a 32 porte	https://www.voxplus.it/server-seriali-industriali-maisvch-soluzioni-da-1-a-32-porte/
+Thu, 15 Oct 2026 09:19:22 +0000	Da RS232/RS485 a Ethernet: come scegliere la soluzione per collegare i dispositivi seriali	https://www.voxplus.it/server-seriale-ethernet-guida/
+Thu, 01 Oct 2026 08:47:26 +0000	RS485 ed Ethernet: come scegliere la soluzione giusta per la comunicazione industriale	https://www.voxplus.it/convertitore-rs485-ethernet-scelta/
 Mon, 14 Sep 2026 14:56:10 +0000	Ridondanza Industrial Ethernet in Thailandia: come scegliere tra RSTP, MRP ed ERPS	https://www.voxplus.it/ridondanza-industrial-ethernet-thailandia-rstp-mrp-erps/
 Wed, 02 Sep 2026 15:30:00 +0000	Voucher Cloud & Cybersecurity: la sicurezza digitale diventa un’opportunità per le aziende	https://www.voxplus.it/voucher-cloud-cybersecurity-aziende/
 Thu, 27 Aug 2026 10:19:21 +0000	PoE ad alta potenza: lo switch industriale Maisvch MISCOM8212GP-4XGF-8GTPoE90	https://www.voxplus.it/poe-ad-alta-potenza-lo-switch-industriale-maisvch-miscom8212gp-4xgf-8gtpoe90/
@@ -6,6 +9,3 @@ Wed, 26 Aug 2026 09:52:11 +0000	BESS da 100 MW/400 MWh: resilienza e reti indust
 Tue, 25 Aug 2026 15:02:10 +0000	Un nuovo riconoscimento per VOXplus: certificazione MIMIT Cloud & Cybersecurity	https://www.voxplus.it/un-nuovo-riconoscimento-per-voxplus-certificazione-cloud-cybersecurity/
 Tue, 25 Aug 2026 09:22:27 +0000	Gateway IoT industriale Maisvch MaxGate620/620 Plus: raccolta e conversione dei dati industriali	https://www.voxplus.it/gateway-iot-industriale-maisvch-maxgate620-620-plus-raccolta-e-conversione-dei-dati-industriali/
 Tue, 25 Aug 2026 08:52:42 +0000	Layer 2 e Layer 3 nelle reti industriali, differenze e applicazioni	https://www.voxplus.it/layer-2-e-layer-3-nelle-reti-industriali-differenze-e-applicazioni/
-Mon, 27 Jul 2026 15:33:14 +0000	Server seriale Wi-Fi industriale: collega dispositivi RS232/RS485 alla rete di fabbrica senza nuovi cablaggi	https://www.voxplus.it/server-seriale-wifi-industriale-rs232-rs485-iiot/
-Sat, 25 Jul 2026 15:10:21 +0000	Server seriale MQTT RS232 RS485: integra i dispositivi industriali con il cloud	https://www.voxplus.it/server-seriale-mqtt-rs232-rs485-integra-i-dispositivi-industriali-con-il-cloud/
-Sat, 25 Jul 2026 05:38:37 +0000	Rete industriale per parchi eolici remoti: il caso Maisvch nel deserto del Medio Oriente	https://www.voxplus.it/rete-industriale-parchi-eolici-remoti-maisvch/

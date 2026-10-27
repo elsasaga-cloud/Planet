@@ -1,4 +1,4 @@
-# SB-269 contradata.it · home · https://contradata.it/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-269 contradata.it · home · https://contradata.it/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Contradata Milano S.r.l. - PC industriali, Panel PC, PC embedded e reti industriali
 Vai al contenuto
 IT
@@ -83,6 +83,10 @@ VISUALIZZA TUTTO
 News & eventi
 Scopri le ultime novità e gli eventi di Contradata: innovazioni, soluzioni e appuntamenti imperdibili per il mondo dell’industria tecnologica.
 VISUALIZZA TUTTO
+26 Ottobre, 2026 // News
+DPC-1210 Darveen: IA sempre più efficiente
+Realizzato per ambienti industriali complessi.
+Scopri di più
 16 Ottobre, 2026 // News
 Stabilità ed efficienza produttiva: la nuova soluzione EMC esterna di Cincoze
 Power Protection Module (PPM)
@@ -110,10 +114,6 @@ Scopri di più
 4 Giugno, 2026 // Blog
 Panel PC in acciaio INOX Darveen per impianti di trasformazione alimentare
 Le principali sfide negli stabilimenti di trasformazione alimentare e bevande.
-Scopri di più
-22 Aprile, 2026 // Blog
-Guida completa sulle certificazioni per i computer industriali
-Quale è il primo fattore da considerare per scegliere un computer industriale?
 Scopri di più
 Contattaci
 Hai domande, richieste di informazioni o bisogno di supporto? Compila il form e il nostro team ti risponderà al più presto.
@@ -158,6 +158,8 @@ Contatti
 INFORMATIVA SULLA PRIVACY
 CONTATTI
 Prodotti popolari
+DPC-1210
+Leggi tutto
 PPM-I360
 Leggi tutto
 PPM-I180
@@ -179,6 +181,4 @@ Leggi tutto
 AURA-W133-MTL
 Leggi tutto
 AURA-W121-MTL
-Leggi tutto
-AURA-170-MTL
 Leggi tutto

@@ -1,4 +1,4 @@
-# SB-1094 videobits.co.uk · feed_auto · https://www.l2tek.co.uk/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-1094 videobits.co.uk · feed_auto · https://www.l2tek.co.uk/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Wed, 30 Sep 2026 12:31:33 +0000	Building a Four-Channel SMPTE ST 2110-20 Test Generator with the DekTec DTA-2110	https://www.l2tek.co.uk/building-a-four-channel-smpte-st-2110-20-test-generator-with-the-dektec-dta-2110/?utm_source=rss&utm_medium=rss&utm_campaign=building-a-four-channel-smpte-st-2110-20-test-generator-with-the-dektec-dta-2110
 Mon, 07 Sep 2026 08:51:06 +0000	L2tek at IBC 2026 Amsterdam Rai Hall 10 B10	https://www.l2tek.co.uk/l2tek-at-ibc-2026-amsterdam-rai-hall-10-b10/?utm_source=rss&utm_medium=rss&utm_campaign=l2tek-at-ibc-2026-amsterdam-rai-hall-10-b10
 Wed, 18 Feb 2026 12:14:00 +0000	Simple SDI to ST2110 Converter Using Dektec DTA-2110 and DTA-2178 PCie add-in Cards	https://www.l2tek.co.uk/simple-sdi-to-st2110-converter-using-dektec-dta-2110-and-dta-2178-pcie-add-in-cards/?utm_source=rss&utm_medium=rss&utm_campaign=simple-sdi-to-st2110-converter-using-dektec-dta-2110-and-dta-2178-pcie-add-in-cards

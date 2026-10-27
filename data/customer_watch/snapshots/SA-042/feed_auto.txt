@@ -1,4 +1,4 @@
-# SA-042 antronix.com · feed_auto · https://antronix.com/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SA-042 antronix.com · feed_auto · https://antronix.com/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Fri, 13 Sep 2024 22:04:00 +0000	Innovative Network Design: Meeting the Challenges of Deploying 1.8–3.0 GHz Networks	https://antronix.com/innovative-network-design-meeting-the-challenges-of-deploying-1-8-3-0-ghz-networks/
 Fri, 26 Mar 2021 22:16:00 +0000	Antronix’s Latest Network Expansion Solution Comes to Market	https://antronix.com/antronixs-latest-network-expansion-solution-comes-to-market/
 Thu, 12 Sep 2019 22:33:00 +0000	Antronix’s Latest Wi-Fi Powering Device to Be on Show at Cable-Tec	https://antronix.com/antronixs-latest-wi-fi-powering-device-to-be-on-show-at-cable-tec/

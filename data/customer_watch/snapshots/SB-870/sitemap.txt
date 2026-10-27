@@ -1,4 +1,4 @@
-# SB-870 hunter-cctv.ru · sitemap · https://hunter-cctv.ru/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-870 hunter-cctv.ru · sitemap · https://hunter-cctv.ru/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
 2026-10-24	https://hunter-cctv.ru
 2026-10-24	https://hunter-cctv.ru/kamery-videonablyudeniya/
 2026-10-24	https://hunter-cctv.ru/ip-kamery/

@@ -1,4 +1,4 @@
-# SB-1054 luxritesecurity.com · home · https://www.luxritesecurity.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-1054 luxritesecurity.com · home · https://www.luxritesecurity.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Luxrite Ltd - Trade CCTV Distributor
 Contact Us
 +44 1438 909168
@@ -24,6 +24,11 @@ Mounts & Brackets
 Expansion Modules
 Doorbells & Chimes Doorbells
 Chimes
+Door Locks & Accessories Access Cards / Fobs
+Locks
+Lock Brackets
+Press To Exit Buttons
+Emergency Door Releases
 Cables CAT5e
 CAT6
 Patch Leads
@@ -34,8 +39,8 @@ Dahua
 Texecom
 CQR
 Klaxon
-Kits
 RD Tower
+Kits
 Fire EN54
 Residential
 Smoke Detectors

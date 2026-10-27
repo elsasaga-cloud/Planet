@@ -1,4 +1,4 @@
-# SB-243 hfcl.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-243 hfcl.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA · fetched 2026-10-27T08:02:45Z · HTTP 200
 2026-10-16T09:29:00+00:00	How Fire Safety is Reshaping Fiber Design	https://www.youtube.com/watch?v=PrrbU_yo58Q
 2026-09-25T08:31:29+00:00	How AI Is Changing the Way Enterprises Manage Their Networks	https://www.youtube.com/watch?v=ujMEyMP3Hp4
 2026-09-18T07:58:29+00:00	The IBR Cable Advantage in Hyperscale Networks	https://www.youtube.com/watch?v=O7fUL5gOCGY

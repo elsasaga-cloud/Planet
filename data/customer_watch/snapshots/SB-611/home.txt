@@ -1,4 +1,4 @@
-# SB-611 avanis.de · home · https://avanis.de/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-611 avanis.de · home · https://avanis.de/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Avanis GmbH - Ihr zuverlässiger Partner für Netzwerktechnik
 document.getElementById(forward)?.focus());
 return;
@@ -163,10 +163,6 @@ Seit
 begleiten wir von unserem Standort im ostwestfälischen Bielefeld regionale, nationale und internationale Kundenprojekte.
 Vor Ort und aus der Ferne.
 Partner
-×
-Ekahau Wi-Fi Day
-Erleben Sie die neuesten Trends in der WLAN-Planung und -Analyse. Melden Sie sich jetzt für unseren kostenlosen Ekahau Wi-Fi Day an!
-Alle Informationen
 Kontakt
 Mo - Fr  - Uhr
 0521 26012 0

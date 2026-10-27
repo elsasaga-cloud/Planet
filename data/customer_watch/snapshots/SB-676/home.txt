@@ -1,7 +1,7 @@
-# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar
-$: 49,73 TL
-€: 55,68 TL
+$: 49,84 TL
+€: 55,84 TL
 Bayi Giriş
 Bayimiz Olun
 İletişim
@@ -148,12 +148,12 @@ Bayi Girişi
 Bayimiz Olun
 Hakkımızda
 Bize Ulaşın
-1133,81 TL
+1136,29 TL
 1
 Hdmi Video Capture Type-C + Usb3.0 4K 30Hz Gri
 1 Adet x 22,80 $
 Toplam:
-1133,81 TL
+1136,29 TL
 SEPETİME GİT
 ALIŞVERİŞE BAŞLA
 TÜM ÜRÜNLER
@@ -430,21 +430,21 @@ Fırsat Ürünleri
 250.00 ₺
 250,0000
 %50
-AKUSTİK TELEFON TUTACAGI GRAMOFON
-60.00 ₺
-60,0000
-%50
 DVR BOX KİLİTLİ PLASTİK KASA KOMPAKT TASARIM PANO
 20.00 $
 20,0000
 %50
-MONİTÖR LCD ASKI APARATI 22'' 55cm Hareketli Tek Kol UFIX-22KH
-10.00 $
-10,0000
+AKUSTİK TELEFON TUTACAGI GRAMOFON
+60.00 ₺
+60,0000
 %50
 T10 ULTRURA AKILLI SAAT
 15.00 $
 15,0000
+%50
+MONİTÖR LCD ASKI APARATI 22'' 55cm Hareketli Tek Kol UFIX-22KH
+10.00 $
+10,0000
 İndirimli Ürünler
 Tümünü İncele
 %0
@@ -541,12 +541,12 @@ PC HD 10TB SEAGATE ST10000VE001 SATA3 3.5" 7200RPM 256MB 7/24 GÜVENLİK HARD D�
 PC HD 12TB Seagate ST12000NM0127 Sata HARDDİSK
 4TB WD 3.5 PURPLE SATA3 5400RPM 128MB 7/24 GUVENLIK WD44PURZ (3 YIL RESMI DIST GARANTILI)
 Son Gezilen Ürünler
-ELİTE Uzaktan Kumandalı 3 Tane Portatif Lamba Ampu ( K-80 )
-Çift Taraflı Elbise Giysi Kazak Tüy Kıl Yün Toz Giderici Fırça - Elibise Fırçası MR-006
-Interlogix Advisor Advanced Keypad ATS1135
-Hometech Alfa 7LM 4 Çekirdek 7 inç IPS Ekran Bluetooth WiFi Webcam Safir Mavi Android Tablet
-Hytech HY-HDC23 2.5" USB 3.0 SATA Harddisk Kutusu Siyah
-USB HD 1TB SEAGATE EXPANSION 2.5'' USB 3.0 (STKM1000400) + RESCUE
+Wastespresso CUPCYCLE 355 ML YEŞİL KAPAKLI
+SENSEI SP-HD SPLITTER/1-2 1 GİRİŞ 2 ÇIKIŞ 1080P V1.4 HDMI SPLITTER
+O-KAM 3037 6MP WIFI PTZ KAMERA
+ADP12V 5A PLASTİK ADAPTÖR 12500
+HILOOK IPC-T240HA-LUFC 4MP 2.8MM COLORVU 30M DUALLIGHT POE SESLİ IP DOME KAMERA
+Philips G314 Işıklı Kablolu Oyuncu Mouse
 Yeni Gelen Ürünler
 DAHUA LED POSTER İÇ ORTAM 96x192 cm P2.5 GOB TEKERLEKLİ
 DAHUA LED POSTER İÇ ORTAM 96x192 cm P1.86 GOB TEKERLEKLİ
@@ -627,4 +627,4 @@ PC TEDARİK İTHALAT İHRACAT YAZILIM TİCARET LTD.ŞTİ.
 7/24: 0850 840 48 52
 Çınardere Mh. Ankara Cd. NO:43A 34892 Pendik-İstanbul
 info@pctedarik.com
-Copyright © 2026 Digistore All Rights Res
+Copyright © 2026 Digistore All Rights Reserved.

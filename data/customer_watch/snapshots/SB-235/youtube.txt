@@ -1,4 +1,4 @@
-# SB-235 bositaly.it · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCDuq-1vdWtBPKosxuzLiW6g · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-235 bositaly.it · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCDuq-1vdWtBPKosxuzLiW6g · fetched 2026-10-27T08:02:45Z · HTTP 200
 2025-09-29T15:04:10+00:00	Live Streaming - BOS Italy	https://www.youtube.com/watch?v=zCtKvunsEsE
 2025-09-10T05:00:24+00:00	Live Streaming - BOS Italy	https://www.youtube.com/watch?v=RBUK_r1QlTY
 2025-01-20T13:15:33+00:00	Cos’è una Stazione di Alimentazione indipendente per Videosorveglianza (BS-BALS08PL2M5D2)	https://www.youtube.com/watch?v=ik0FHXWs3gw

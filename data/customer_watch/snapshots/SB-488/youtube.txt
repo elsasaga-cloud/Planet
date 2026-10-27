@@ -1,4 +1,4 @@
-# SB-488 octogate.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxJqegYxobUfM0FG_nPBFLg · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-488 octogate.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxJqegYxobUfM0FG_nPBFLg · fetched 2026-10-27T08:02:45Z · HTTP 200
 2024-06-12T11:59:31+00:00	OctoGate in der Praxis | Kapitel 10 – Switches und Remote Access Points	https://www.youtube.com/watch?v=d8PD4lVtgZ0
 2024-06-10T06:59:08+00:00	OctoGate in der Praxis | Kapitel 9 – OctoGate APP	https://www.youtube.com/watch?v=c8dNeOn8WlY
 2024-06-10T06:56:33+00:00	OctoGate in der Praxis | Kapitel 8 – Access Points und Contentfilter	https://www.youtube.com/watch?v=ZC3z8UopFNo

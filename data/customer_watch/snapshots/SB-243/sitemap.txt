@@ -1,7 +1,7 @@
-# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
-2026-10-16T11:50:24.081Z	https://www.hfcl.com
+# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
+2026-10-23T09:12:01.892Z	https://www.hfcl.com
 2026-08-21T18:47:11.298Z	https://www.hfcl.com/products/defence-solutions
-2026-08-26T10:59:22.785Z	https://www.hfcl.com/insights
+2026-10-23T05:18:26.786Z	https://www.hfcl.com/insights
 2026-08-21T18:47:11.331Z	https://www.hfcl.com/insights/blogs
 2026-08-21T18:47:11.344Z	https://www.hfcl.com/insights/news
 2026-08-21T18:47:11.359Z	https://www.hfcl.com/insights/case-studies
@@ -22,7 +22,7 @@
 2026-08-21T18:47:12.038Z	https://www.hfcl.com/products/interconnect-solutions
 2026-08-21T18:47:12.046Z	https://www.hfcl.com/products/access-solutions
 2026-09-28T10:26:27.644Z	https://www.hfcl.com/products/optical-fiber-cables
-2026-09-18T07:08:41.857Z	https://www.hfcl.com/products
+2026-10-23T05:10:04.218Z	https://www.hfcl.com/products
 2026-08-21T18:47:12.535Z	https://www.hfcl.com/company/partners
 2026-08-21T18:47:12.541Z	https://www.hfcl.com/investors/announcements
 2026-08-21T18:47:12.780Z	https://www.hfcl.com/investors/board-of-directors
@@ -59,7 +59,7 @@
 2026-08-21T18:47:14.327Z	https://www.hfcl.com/social-responsibility/our-covid-19-response
 2026-08-21T18:47:14.350Z	https://www.hfcl.com/investors/qip-2025
 2026-08-21T18:47:14.396Z	https://www.hfcl.com/hfcl-datacenter-knowledge-base
-2026-10-01T05:12:21.507Z	https://www.hfcl.com/optiq-ai
+2026-10-22T17:43:11.786Z	https://www.hfcl.com/optiq-ai
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/5g-catalyzing-extended-realities
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/5g-for-enterprise-unleashing-the-potential-of-high-speed-5g-for-enterprises
 2026-05-04T16:23:45.158Z	https://www.hfcl.com/insights/blogs/5g-for-healthcare-the-future-of-hospital-technology
@@ -116,7 +116,7 @@
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/heres-why-a-growing-number-of-network-operators-are-relying-on-micro-module-cables
 2026-08-27T12:24:10.074Z	https://www.hfcl.com/insights/blogs/hfcl-recognized-by-ise-for-advancing-high-density-fiber-infrastructure-innovation
 2026-07-02T04:58:49.222Z	https://www.hfcl.com/insights/blogs/high-density-data-center-interconnect-solutions-for-100g-to-800g-networks
-2026-05-21T19:50:12.721Z	https://www.hfcl.com/insights/blogs/high-density-fiber-cabling-in-data-centers-benefits-and-best-practices
+2026-10-23T09:51:27.567Z	https://www.hfcl.com/insights/blogs/high-density-fiber-cabling-in-data-centers-benefits-and-best-practices
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/high-quality-digital-network-solutions
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/hollow-core-fiber
 2026-05-21T19:50:12.721Z	https://www.hfcl.com/insights/blogs/how-ai-and-cloud-infrastructure-are-transforming-data-center-network-infrastructure

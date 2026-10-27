@@ -1,4 +1,4 @@
-# SB-1031 findcontrols.com · news_1 · https://ralakde.com/blogs/news · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-1031 findcontrols.com · news_1 · https://ralakde.com/blogs/news · fetched 2026-10-27T08:02:45Z · HTTP 200
 News
 – Ralakde Automation
 Home
@@ -479,7 +479,7 @@ Weekly
 Fresh Content
 Categories
 All
-159
+161
 5G connectivity
 0
 ABB
@@ -527,7 +527,7 @@ HMI repair
 human centric automation
 0
 industrial automation
-8
+6
 industrial controllers
 0
 industrial displays
@@ -547,7 +547,7 @@ industry 5.0
 internet of things
 0
 interoperability standard
-1
+0
 IoT
 0
 level sensors
@@ -608,6 +608,16 @@ Quick Links
 About Ralakde Contact Us Product Catalog
 Our Partners
 Featured Articles
+Featured Article
+2 min
+Údržba skladové automatizace: příprava na hlavní sezónu
+26/10/2026
+Read More
+Featured Article
+2 min
+Keeping Warehouse Automation Running During Peak Season
+26/10/2026
+Read More
 Featured Article
 2 min
 Proč nejlepší týmy údržby sledují spolehlivost, nejen opravy
@@ -858,19 +868,23 @@ Industrial Electronics
 The Hidden Cost of Heat in Industrial Electronics
 20/8/2025
 Read More
-Featured Article
-industrial automation
-2 min
-Micro-Factories and Decentralized Production
-4/8/2025
-Read More
-Featured Article
-industrial automation
-2 min
-Interoperability Standards in Industrial Automation
-24/7/2025
-Read More
 Latest Articles
+Company News
+2 min
+Údržba skladové automatizace: příprava na hlavní sezónu
+26/10/2026
+Expansion
+Europe
+Operations
+Read More
+Company News
+2 min
+Keeping Warehouse Automation Running During Peak Season
+26/10/2026
+Expansion
+Europe
+Operations
+Read More
 Company News
 2 min
 Proč nejlepší týmy údržby sledují spolehlivost, nejen opravy
@@ -1039,15 +1053,4 @@ Turning Idle Stock Into Operational & Financial Control
 Expansion
 Europe
 Operations
-Read More
-Company News
-2 min
-Ralakde Secures Critical Parts Supply Amid Middle East Disruptions
-19/3/2026
-Expansion
-Europe
-Operations
-Read More
-Company News
-2 min
-Easter Shutdown Planning: How to Avoid Overrunning the Restart Wi
+Read M

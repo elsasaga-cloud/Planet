@@ -1,4 +1,4 @@
-# SB-569 cablematic.com · home · https://cablematic.com/en/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-569 cablematic.com · home · https://cablematic.com/en/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Cablematic
 +34 934987121
 Register
@@ -26,7 +26,6 @@ Hospitality Special
 Hospitality supplies
 Semana del Rack
 Black Friday
-Bollards and posts
 🛠️ Rack Configurator
 Oferta Cat.5e
 0
@@ -60,7 +59,6 @@ Hospitality Special
 Hospitality supplies
 Semana del Rack
 Black Friday
-Bollards and posts
 🛠️ Rack Configurator
 Oferta Cat.5e
 Cables and networks
@@ -643,4 +641,7 @@ Simplex 9/125 SC/APC to SC/APC Cable
 Simplex 9/125 SC/PC to SC/APC Cable
 Simplex 9/125 ST/APC to ST/APC Cable
 Simplex 9/125 ST/PC to ST/APC Cable
-Sim
+Simplex MM 50/125 PC Cable
++
+-
+Simplex OM

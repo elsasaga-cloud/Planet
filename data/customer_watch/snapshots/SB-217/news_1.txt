@@ -1,4 +1,4 @@
-# SB-217 microsens.com · news_1 · https://www.microsens.com/company/press-events · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-217 microsens.com · news_1 · https://www.microsens.com/company/press-events · fetched 2026-10-27T08:02:45Z · HTTP 200
 MICROSENS - Press/Events
 X
 Customer Satisfaction
@@ -129,6 +129,9 @@ Choose a Category
 Press Releases
 Events
 Press Releases
+Security Notice: PHP Vulnerabilities CVE-2026-109618 and CVE-2026-109619 – MICROSENS Products Not Affected
+The German Federal Office for Information Security (BSI) has issued a warning about two critical vulnerabilities in PHP (CVE-2026-109618 and…
+October 26, 2026
 No More Lip Service: Digital Sovereignty Begins with European-Made IT Technology
 Hamm, 20 May 2026 – Against the backdrop of the current geopolitical situation, the debate surrounding Europe’s digital sovereignty is in full swing.…
 May 20, 2026
@@ -160,10 +163,6 @@ Press
 NOUS PARLONS EGALEMENT FRANCAIS! – MICROSENS LAUNCHES FRENCH VERSION OF ITS WEBSITE
 Hamm, 08.06.2021 – SHORT NOTICE – MICROSENS’ official website is now available in French.
 June 08, 2021
-Press
-Frank Konrad new managing director at MICROSENS
-Hamm, 12.05.2021 - Frank Konrad is appointed as the new managing director of MICROSENS GmbH & Co. KG in Hamm. With more than 25 years of experience in…
-May 12, 2021
 All press releases
 Events
 SPIN Extra 2026

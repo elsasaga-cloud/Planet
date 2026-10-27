@@ -1,4 +1,4 @@
-# SB-257 voxplus.it · news_1 · https://www.voxplus.it/news/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-257 voxplus.it · news_1 · https://www.voxplus.it/news/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 News - VOXplus - Innovazione Integrazione Connessione
 Salta al contenuto
 News voxp.login 2026-03-26T12:+
@@ -6,6 +6,12 @@ News & Articoli
 Home » News
 Approfondimenti, novità e aggiornamenti dal mondo ICT
 Resta aggiornato
+Server seriali industriali Maisvch: soluzioni da 1 a 32 porte
+|
+Da RS232/RS485 a Ethernet: come scegliere la soluzione per collegare i dispositivi seriali
+|
+RS485 ed Ethernet: come scegliere la soluzione giusta per la comunicazione industriale
+|
 Ridondanza Industrial Ethernet in Thailandia: come scegliere tra RSTP, MRP ed ERPS
 |
 Voucher Cloud & Cybersecurity: la sicurezza digitale diventa un’opportunità per le aziende
@@ -19,14 +25,14 @@ Un nuovo riconoscimento per VOXplus: certificazione MIMIT Cloud & Cybersecurity
 Gateway IoT industriale Maisvch MaxGate620/620 Plus: raccolta e conversione dei dati industriali
 |
 Layer 2 e Layer 3 nelle reti industriali, differenze e applicazioni
-|
-Server seriale Wi-Fi industriale: collega dispositivi RS232/RS485 alla rete di fabbrica senza nuovi cablaggi
-|
-Server seriale MQTT RS232 RS485: integra i dispositivi industriali con il cloud
-|
-Rete industriale per parchi eolici remoti: il caso Maisvch nel deserto del Medio Oriente
 Cerca per:
 News & Articoli
+23 Ottobre 2026 | News |
+Server seriali industriali Maisvch: soluzioni da 1 a 32 porte
+15 Ottobre 2026 | News |
+Da RS232/RS485 a Ethernet: come scegliere la soluzione per collegare i dispositivi seriali
+1 Ottobre 2026 | News |
+RS485 ed Ethernet: come scegliere la soluzione giusta per la comunicazione industriale
 14 Settembre 2026 | News |
 Ridondanza Industrial Ethernet in Thailandia: come scegliere tra RSTP, MRP ed ERPS
 2 Settembre 2026 | News |

@@ -1,4 +1,4 @@
-# SB-924 Intracom Middle East FZ-LLC · news_2 · https://intracom-telecom.com/corporate/newsroom/events/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-924 Intracom Middle East FZ-LLC · news_2 · https://intracom-telecom.com/corporate/newsroom/events/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Intracom Telecom - Events
 Main navigation
 Home
@@ -152,7 +152,6 @@ Data Operations
 Products
 BigStreamer™
 Cognitiva™
-NFV-RI™
 Unlock the Power of AI & Data
 Transform your data into a powerful competitive edge with intelligent, AI-powered solutions that spark innovation and drive growth. From effortless data management to real-time business insights and agentic orchestration, we empower you to achieve optimized efficiencies and create impactful experiences. Anticipate trends, enhance customer interactions, and automate decision-making, all while simplifying workflows and harnessing smart data management. Effortlessly handle large datasets, cut operational costs, and boost productivity.
 Read More
@@ -262,7 +261,6 @@ Data Operations
 Products
 BigStreamer™
 Cognitiva™
-NFV-RI™
 Unlock the Power of AI & Data
 Transform your data into a powerful competitive edge with intelligent, AI-powered solutions that spark innovation and drive growth. From effortless data management to real-time business insights and agentic orchestration, we empower you to achieve optimized efficiencies and create impactful experiences. Anticipate trends, enhance customer interactions, and automate decision-making, all while simplifying workflows and harnessing smart data management. Effortlessly handle large datasets, cut operational costs, and boost productivity.
 Read More
@@ -273,4 +271,4 @@ Water Monitoring
 Environmental Monitoring
 Lighting Management
 Smart Parking
-Buil
+Buildings Resource M

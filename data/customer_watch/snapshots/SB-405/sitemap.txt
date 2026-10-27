@@ -1,4 +1,4 @@
-# SB-405 tinycontrol.pl · sitemap · https://tinycontrol.pl/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-405 tinycontrol.pl · sitemap · https://tinycontrol.pl/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
 	https://tinycontrol.pl/en/tiny-smart-relay/
 	https://tinycontrol.pl/en/tiny-smart-relay/tech-specifications/
 	https://tinycontrol.pl/en/lk4/

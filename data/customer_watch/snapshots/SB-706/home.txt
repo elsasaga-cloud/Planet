@@ -1,4 +1,4 @@
-# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Industrial Automation & Data Communication Distributor | eWorld
 Easy World Automation L.L.C
 Partners 0
@@ -111,14 +111,7 @@ Ethernet Embedded Modules 8
 Two-wire Ethernet Switches (SPE/APL) 0
 TWS-3010-APL Series 1
 TWS-3010-SPE Series 1
-DIN-Rail Ethernet Switches 253
-EDS-4008 Series 24
-EDS-4009 Series 12
-EDS-4012 Series 12
-EDS-4014 Series 4
-EDS-510E Series 2
-EDS-518E Series 8
-EDS-528E Series 4
+DIN-Rail Ethernet Switches 169
 EDS-608 Series 2
 EDS-611 Series 2
 EDS-616 Series 2
@@ -126,17 +119,11 @@ EDS-619 Series 2
 EDS-728 Series 1
 EDS-828 Series 3
 EDS-G308 Series 4
-EDS-G4008 Series 4
 EDS-G4012 Series 8
 EDS-G4014 Series 4
-EDS-G508E Series 2
-EDS-G509 Series 2
-EDS-G516E Series 2
 EDS-P308 Series 10
 EDS-P506A-4PoE Series 8
-EDS-P506E Series 2
 EDS-P510 Series 2
-EDS-P510A Series 2
 MDS-G4012 Series 2
 MDS-G4012-4XGS Series 1
 MDS-G4012-L3 Series 2
@@ -170,14 +157,22 @@ PT-G7509 Series 1
 PT-G7728 Series 1
 PT-G7828 Series 1
 Ethernet Extenders 3
-Network Security Appliance 40
-Secure Remote Access 11
-Moxa Remote Connect Suite 38
 Industrial Secure Routers 50
 Wireless AP/Bridge/Client 88
-Rail Wireless Access Controller 4
-Rail Wireless LAN 37
 WLAN AP/Bridge/Client 48
+AWK-1130 Series 12
+AWK-1151C Series 4
+AWK-1160 Series 16
+AWK-3000A Series 10
+AWK-4000A Series 5
+Rail Wireless LAN 37
+AWK-3131A-RCC/RTG Series 24
+AWK-3251A-RCC Series 6
+TAP Train-to-Ground Series 6
+Rail Wireless Access Controller 4
+WAC-1001 Series 2
+WAC-2004A Series 1
+WAC-M300 Series 0
 Industrial Cellular 47
 Cellular Compact Gateways and Modems 9
 Cellular Gateways 6
@@ -186,6 +181,9 @@ Industrial Cellular Routers and Gateways 34
 Industrial Cellular Gateways 22
 Industrial Cellular Routers 12
 Zigbee Converters 4
+Secure Remote Access 11
+Moxa Remote Connect Suite 38
+Network Security Appliance 40
 Industrial Gateways 68
 Industrial Ethernet Gateways 78
 Industrial EtherNet/IP Gateways 21
@@ -561,4 +559,4 @@ Vehicle Telematics Computer 2
 Core™ Power Efficient 3
 First Response Vehicle 11
 Fleet Management 3
-Public Transit / Pu
+Public Transit / Public Works 

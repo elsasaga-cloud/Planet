@@ -1,4 +1,4 @@
-# SB-751 engeniustech.com · news_2 · https://www.engeniustech.com/in-the-news.html · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-751 engeniustech.com · news_2 · https://www.engeniustech.com/in-the-news.html · fetched 2026-10-27T08:02:45Z · HTTP 200
 EnGenius News | EnGenius
 Products
 VPN Routers
@@ -186,15 +186,15 @@ Partners
 Partner Program
 Training
 EnGenius News
-Product Categories
+Product Category All
 AI Surveillance
-Indoor Wireless
-Outdoor Wireless
-Phone Systems
 Software
 Switches
 VPN Routers
-Product Families
+Indoor Wireless
+Outdoor Wireless
+Phone Systems
+Solution Category All
 Broadband Outdoor
 Cloud
 On-Premises

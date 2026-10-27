@@ -1,7 +1,6 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
-Vzhledem k plánované inventuře, budou objednávky vytvořené během pátku 23.10. a víkendu zpracovány až v pondělí 26.10.2026
 Přihlášení
 Vítejte v ELKOV
 Přihlašovací e-mail
@@ -595,4 +594,9 @@ Další kategorie
 Průtok a hladina
 Ostatní regulace a snímače
 Servopohony MaR
-Pro směšov
+Pro směšovací ventily
+Pro kulové kohouty
+Pro mezipřírubové klapky
+Pro zdvihové ventily
+Termické a termostatické pohony
+Ostatní servop

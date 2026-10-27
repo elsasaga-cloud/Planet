@@ -1,2 +1,272 @@
-# SB-452 espuk.com · home · https://espuk.com/ · fetched 2026-10-26T07:56:19Z · HTTP 403
-Just a moment...
+# SB-452 espuk.com · home · https://espuk.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+ESP | Trusted Fire & Security Products
+Scolmore Group Sites
+Click
+Ovia UK
+Unicrimp
+Click Smart +
+Scolmore OEM
+Scolmore Middle East
+Sangamo
+IEC Lock
+Click Litehouse
+Espire
+Ovia Ireland
+ESP Ireland
+Elucian
+Orbik
+Product
+Search
+Marketing
+Hub
+Scolmore
+Sites
+Search
+View All Products
+What's New...
+Part of the Scolmore Group
+Contact Us
+Product Finder Basket
+0" class="h-full animate-pulse font-bold" x-text="basketCount" x-cloak>
+(
+0
+)
+Product Finder
+Open main menu
+Search
+View All Products
+Product Finder
+Marketing Hub
+Scolmore Sites
+2026
+|
+ESP (Elite Security Products) Ltd.
+Part of the
+Scolmore Group.
+All rights reserved.
+playPause(value))">
+Safety first,
+Security always.
+ESP is a trusted provider of domestic detection, fire protection, security, and smart technology solutions for homes and businesses. We offer innovative, compliant, and high-quality products, including CCTV, access control, fire alarms, and emergency lighting, ensuring reliable protection and expert support.
+Our Products
+Watch Now
+Latest News
+Domestic Safety Alarms
+Explore our outstanding range of safety alarms. Our alarms are packed with features for all of your needs.
+Clear Vision, Clear Protection
+Explore our CCTV range for high-quality surveillance, HD recording, and reliable security, day and night.
+Close video
+Your trusted partner for
+innovative and advanced
+fire & security solutions.
+Our Products
+Watch Now
+About Us
+Highest Quality Products
+We are committed to delivering the highest quality products. Our focus on reliability and safety ensures that our circuit protection solutions meet rigorous standards, providing peace of mind for every.
+EcoVadis Gold
+Scolmore® Group was proud to receive the Gold Sustainability Medal from EcoVadis, recognising its strong commitment to sustainability and environmental responsibility.
+Find out More
+Part of the Scolmore Group
+Part of the esteemed Scolmore Group, a renowned leader in electrical and lighting solutions, Elite Security Products combines innovation, reliability, and the backing of a trusted industry partner.
+video.pause());
+},
+}">
+01
+Highest Quality Products
+We are committed to delivering the highest quality products. Our focus on reliability and safety ensures that our circuit protection solutions meet rigorous standards, providing peace of mind for every.
+video.pause());
+},
+}">
+02
+EcoVadis Gold
+Scolmore® Group was proud to receive the Gold Sustainability Medal from EcoVadis, recognising its strong commitment to sustainability and environmental responsibility.
+video.pause());
+},
+}">
+03
+Part of the Scolmore Group
+Part of the esteemed Scolmore Group, a renowned leader in electrical and lighting solutions, Elite Security Products combines innovation, reliability, and the backing of a trusted industry partner.
+Home Safety Fire & CO alarms
+Explore Espire
+Watch Now
+Explore the Range
+{
+const pagination = this.$refs.splide.querySelector('.splide__pagination');
+if (pagination) {
+pagination.style.display = 'flex';
+}
+})
+.mount()
+.on('move', (newIndex) => {
+this.changeType(newIndex);
+});
+},
+changeType(newIndex){
+this.$nextTick(() => {
+if(typeof this.typeOpen !== 'undefined' && this.allowChangeType){
+let active = document.getElementsByClassName('splide__list')[0]
+.children[newIndex]
+.children[0].src;
+if(typeof active === 'undefined'){
+this.typeOpen = 'video';
+} else {
+this.typeOpen = 'image';
+this.src = active;
+}
+});
+}
+}"
+x-intersect.once="initSplide()"
+>
+Discover our latest product releases for cutting-edge fire and security solutions.
+New Products
+Watch Now
+Product Finder
+Espire
+RF Emergency Call Point
+Compatible With Espire RF-Link Devices
+Fort
+Smart Security at your doorstep
+Rekor HD
+24/7 Colour CCTV
+Clear Strobe
+Enhanced Protection
+Domestic Safety Alarms
+Explore Espires range of high quality, reliable safety alarms.
+Single Way Door Entry
+Explore our Aperta IP Door Entry range.
+24/7 Colour CCTV
+See even more with 24/7 colour CCTV.
+Fire Protection
+Explore our Fire Protection range.
+Smart Security Products
+Simple to install & easy to use. Explore Fort.
+Emergency Lighting
+Comply with the latest industry standards.
+Explore our premium product
+ranges and leading services for
+complete fire & security solutions.
+Our Products
+Watch Now
+Training Days
+video.pause());
+},
+}">
+01
+Domestic Safety Alarms
+video.pause());
+},
+}">
+02
+CCTV Systems
+video.pause());
+},
+}">
+03
+Fire Protection Systems
+video.pause());
+},
+}">
+04
+Smart Security Solutions
+video.pause());
+},
+}">
+05
+Access Control Systems
+video.pause());
+},
+}">
+06
+Emergency Lighting
+video.pause());
+},
+}">
+07
+Heating Controls
+video.pause());
+},
+}">
+08
+Time Switches
+Product Finder
+Use our Product Finder to build a CSV/PDF product order. Download all your specific Tech Specs from your basket. Use our filters to discover any product, then simply click to find out more information and download related items.
+Product Finder
+Free System Design Service
+ESP’s expert design engineers, skilled in key British Standards, provide tailored solutions through site visits and in-house CAD. See our case studies for examples of our most recent work.
+Design Service
+Fire System Commissioning
+ESP offers a professional commissioning service to ensure systems meet BS5839-1 standards, with an engineer confirming compliance and issuing a certificate before handover.
+Fire System Commissioning
+Stay informed with all things
+ESP, from new products to the
+latest company updates.
+Latest News
+Watch Now
+Events
+ESP Launches New Espire Emergency Call Point with 10-year Lithium Battery
+Latest News
+Scolmore Group Delivers Electrical Excellence at Community Centre Refurbishment in Staffordshire
+Case Studies
+60 Second Favourites: Upgrade your Fort (Smart Security) 🛡️
+Our Videos
+Your trusted partner for innovative and advanced fire &
+security solutions, ensuring protection, peace of mind,
+and unmatched reliability for your home and business.
+Get in Touch
+facebook-f
+x-twitter
+linkedin-in
+youtube
+spotify
+Proudly
+developed by
+Find Us
+ESP - Elite Security Products Ltd, Unit 7 Target Park, Shawbank Road, Lakeside, Redditch, Worcestershire B98 8YN
+Contact Us
+t: +44 (0) 1527 515 150
+e:
+[email protected]
+Links
+Terms & Conditions
+Modern Slavery
+Privacy Policy
+Careers
+Scolmore CSR
+ISO 9001
+ISO 14001
+App Privacy Policy
+2026
+|
+ESP (Elite Security Products) Ltd. Part of the
+Scolmore Group. All rights reserved.
+Contact Us
+facebook-f
+x-twitter
+linkedin-in
+youtube
+spotify
+Links
+Terms & Conditions
+Modern Slavery
+Privacy Policy
+Careers
+Scolmore CSR
+ISO 9001
+ISO 14001
+App Privacy Policy
+Proudly
+developed by
+2026 ESP (Elite Security Products) Ltd.
+Part of the
+Scolmore Group.
+{ remove(message) }, 2500)"
+@basket.window="type = 'basket'; title = 'Success!'; let message = $event.detail.message; basketLink = $event.detail.basketLink; messages.push(message); setTimeout(() => { remove(message) }, 3000)"
+@fail.window="type = 'fail'; title = 'Error!'; let message = $event.detail; messages.push(message); setTimeout(() => { remove(message) }, 2500)"
+@warning.window="type = 'warning'; title = 'Warning!'; let message = $event.detail; messages.push(message); setTimeout(() => { remove(message) }, 2500)"
+class="z-40 fixed sm:top-8 lg:top-7 xl:top-8 2xl:top-6 inset-0 flex flex-col items-center sm:items-end
+justify-center sm:justify-start px-4 py-6 pointer-events-none sm:p-6 space-y-4"
+>
+200; active = false"
+class="hidden 2.5xl:block group">

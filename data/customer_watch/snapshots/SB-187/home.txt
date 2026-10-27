@@ -1,4 +1,4 @@
-# SB-187 pelikanbilgisayar.com · home · https://pelikanbilgisayar.com/ · fetched 2026-10-26T07:56:19Z · HTTP 403
+# SB-187 pelikanbilgisayar.com · home · https://pelikanbilgisayar.com/ · fetched 2026-10-27T08:02:45Z · HTTP 403
 Attention Required! | Cloudflare
 Please enable cookies.
 Sorry, you have been blocked
@@ -10,6 +10,6 @@ You can email the site owner to let them know you were blocked. Please include w
 Cloudflare
 •
 Click to reveal
-52.159.227.192
+20.84.157.240
 •
 Performance & security by Cloudflare

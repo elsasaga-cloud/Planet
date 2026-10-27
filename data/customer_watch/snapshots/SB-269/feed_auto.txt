@@ -1,4 +1,5 @@
-# SB-269 contradata.it · feed_auto · https://www.contradata.it/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-269 contradata.it · feed_auto · https://www.contradata.it/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+Mon, 26 Oct 2026 11:47:06 +0000	DPC-1210 Darveen: IA sempre più efficiente	https://www.contradata.it/dpc-1210-darveen-ia-sempre-piu-efficiente/
 Fri, 16 Oct 2026 10:34:20 +0000	Stabilità ed efficienza produttiva: la nuova soluzione EMC esterna di Cincoze	https://www.contradata.it/stabilita-ed-efficienza-produttiva-la-nuova-soluzione-emc-esterna-di-cincoze/
 Tue, 22 Sep 2026 08:52:32 +0000	Architettura di sistema scalabile per le applicazioni di domani	https://www.contradata.it/architettura-di-sistema-scalabile-per-le-applicazioni-di-domani/
 Wed, 16 Sep 2026 09:45:34 +0000	MIC-9000: computer industriali per l’automazione e l’edge AI computing	https://www.contradata.it/mic-9000-computer-industriali-per-lautomazione-e-ledge-ai-computing/
@@ -8,4 +9,3 @@ Mon, 07 Sep 2026 10:37:33 +0000	A&T – AUTOMATION & TESTING: punto di incontro 
 Thu, 04 Jun 2026 12:17:25 +0000	Panel PC in acciaio INOX Darveen per impianti di trasformazione alimentare	https://www.contradata.it/le-principali-sfide-negli-stabilimenti-di-trasformazione-alimentare-e-bevande/
 Wed, 22 Apr 2026 09:36:39 +0000	Guida completa sulle certificazioni per i computer industriali	https://www.contradata.it/guida-completa-sulle-certificazioni-per-i-computer-industriali/
 Mon, 30 Mar 2026 08:59:34 +0000	SPS Italia – Smart Production Solutions	https://www.contradata.it/sps-italia-smart-production-solutions/
-Wed, 18 Mar 2026 11:28:24 +0000	Serie DX-1300: per l’edge computing ad alte prestazioni	https://www.contradata.it/https-www-contradata-it-serie-dx-1300-per-ledge-computing-ad-alte-prestazioni/

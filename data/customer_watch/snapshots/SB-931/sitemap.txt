@@ -1,4 +1,2 @@
-# SB-931 Wave1 Pty Ltd · sitemap · https://wave1.com.au/sitemap_index.xml · fetched 2026-10-26T07:56:19Z · HTTP 403
-{
-"message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
-}
+# SB-931 Wave1 Pty Ltd · sitemap · https://wave1.com.au/sitemap_index.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
+

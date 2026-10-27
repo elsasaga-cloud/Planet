@@ -1,9 +1,16 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-10-27T08:02:45Z · HTTP 200
+27.10.2026 08.59.52	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28a-10m-j/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g-10-meter-juniper
+27.10.2026 08.58.46	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28a-10m-sp/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g-10-meter-spesial
+27.10.2026 08.54.38	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28a-10m-u/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g-10-meter-fiberworks
+27.10.2026 08.54.36	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28-aoc/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g
+26.10.2026 13.19.32	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-1m-j/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-1m-juniper
+26.10.2026 13.12.37	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-2-dot-5m-j/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-2-dot-5m-juniper
+26.10.2026 10.02.09	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-2m-j/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-2m-juniper
 26.10.2026 08.54.23	Modul SM 1xMPO/APC12(m)-12SC/UPC Pol. U1	https://www.fiberworks.no/fiberworks-as/mpb4-kea1-1m1mf12su/modul-sm-1xmpo-apc12m-12sc-upc-pol-dot--u1-9-os2-mpb4-modul-1x-base-12-elite
 23.10.2026 14.49.04	Trunk SM 2xMPO12/APC(f)/(f) Pol B 35 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fbm1f-35/trunk-sm-2xmpo12-apcf-f-pol-b-35-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
 23.10.2026 14.49.04	Trunk SM 2xMPO12/APC(f)/(f) Pol B 25 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fbm1f-25/trunk-sm-2xmpo12-apcf-f-pol-b-25-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
 23.10.2026 12.18.03	DIN boks MAXI MPO/APC-12xSC/UPC Pol. U1	https://www.fiberworks.no/fiberworks-as/pd1-kea2-1m1mf12su/din-boks-maxi-mpo-apc-12xsc-upc-pol-dot--u1-g-dot-657-dot-a2-mpo-apc12-hann-base-12-elite
-23.10.2026 11.20.53	Fout SM MPO/APC12(f)-12xSC/UPC 0,3 m	https://www.fiberworks.no/fiberworks-as/p-7a2-m1y-mmx12su0-dot-3/fout-sm-mpo-apc12f-12xsc-upc-0-3-m-g-dot-657-dot-a2-yellow-0-9mm-fan-out-0-3-m-sll
+23.10.2026 11.20.53	Fout SM MPO/APC12(m)-12xSC/UPC 0,3 m	https://www.fiberworks.no/fiberworks-as/p-7a2-m1y-mmx12su0-dot-3/fout-sm-mpo-apc12m-12xsc-upc-0-3-m-g-dot-657-dot-a2-yellow-0-9mm-fan-out-0-3-m
 23.10.2026 10.07.39	Snor SM DPX Armert LC/UPC-LC/UPC 20 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-20/snor-sm-dpx-armert-lc-upc-lc-upc-20-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
 23.10.2026 10.07.38	Snor SM DPX Armert LC/UPC-LC/UPC 15 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-15/snor-sm-dpx-armert-lc-upc-lc-upc-15-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
 23.10.2026 10.07.38	Snor SM DPX Armert LC/UPC-LC/UPC 12 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-12/snor-sm-dpx-armert-lc-upc-lc-upc-12-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
@@ -56,12 +63,4 @@
 08.10.2026 11.31.34	NEOCLEAN-E1 Fiberoptisk Kontaktrens LC	https://www.fiberworks.no/ntt-at/r-neoclean-e1/neoclean-e1-fiberoptisk-kontaktrens-lc-mer-enn-750-rens
 07.10.2026 12.06.22	Fobex Jr. EB SM 8ch BHD-8xLC/UPC 20 m	https://www.fiberworks.no/fostec/fx-ja9m-0802-4b0-020/fobex-jr-dot--eb-sm-8ch-bhd-8xlc-upc-20-m-g-dot-657-dot-a2-dot--bhdbulkhead-d-hole
 06.10.2026 18.25.11	Grunnkurs fiberoptikk for montører, 2 dg	https://www.fiberworks.no/fiberworks-as/tek-montkurs-nov26/grunnkurs-fiberoptikk-for-mont%c3%b8rer-2-dg-3-dot--4-dot--november-2026-i-oslo
-06.10.2026 18.15.23	Introduksjon til WDM - 2 dagers kurs	https://www.fiberworks.no/fiberworks-as/tek-wdm-kurs-nov26/introduksjon-til-wdm-2-dagers-kurs-17-dot--18-dot--november-2026-i-oslo
-06.10.2026 15.02.24	QFCI SM 9/125 OS2 G.657.A1	https://www.fiberworks.no/funksjonssikker/k-qfci-s-7a1-gxx/qfci-sm-9-125-os2-g-dot-657-dot-a1-funksjonssikker-kabel
-06.10.2026 14.49.57	G24 QFCI SM 9/125 OS2 G.657.A1	https://www.fiberworks.no/funksjonssikker/k-qfci-s-7a1-g24/g24-qfci-sm-9-125-os2-g-dot-657-dot-a1-funksjonsikker-kabel
-06.10.2026 13.57.59	Sondefanger SC42	https://www.fiberworks.no/vesala-oy/ves-v18020/sondefanger-sc42
-06.10.2026 13.54.11	Batteri for VMS3	https://www.fiberworks.no/vesala-oy/ves-br211-kit10/batteri-for-vms3-leveres-som-ti-pakning-br211
-06.10.2026 13.40.51	Vesala NanoSonde VMS3-33 2,8 mm 33 kHz	https://www.fiberworks.no/vesala-oy/ves-vms3-33/vesala-nanosonde-vms3-33-2-8-mm-33-khz-for-r%c3%b8r-inntil-8mm
-06.10.2026 13.10.59	QFCI MM 62,5/125 OM1	https://www.fiberworks.no/funksjonssikker/k-qfci-s-om1-gxx/qfci-mm-62-5-125-om1-funksjonssikker-kabel
-06.10.2026 13.03.37	G24 QFCI MM 62,5/125 OM1	https://www.fiberworks.no/funksjonssikker/k-qfci-s-om1-g24/g24-qfci-mm-62-5-125-om1-funksjonssikker-kabel
-06.10.2026 10.14.47	SFP, Multirate 100M-2.7G, DDM, 80km	https://www.fiberworks.no/fiberworks-as/sfp-mr80d-c61-ci/sfp-multirate-100m-2-dot-7g-ddm-80km-cwdm-1611-nm-28db-sm-ci
+06.10.2026 18.15.23	Introduksjon til WDM - 2 dagers kurs	https://www.fiberworks.no/fiberworks-a

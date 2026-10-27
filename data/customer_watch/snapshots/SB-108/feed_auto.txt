@@ -1,4 +1,4 @@
-# SB-108 gwsecurityusa.com · feed_auto · https://gwsecurityusa.com/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-108 gwsecurityusa.com · feed_auto · https://gwsecurityusa.com/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Mon, 12 Oct 2026 22:50:06 +0000	Stop Scrubbing Timelines: The New GW42-4208P-3 Searches Your Footage Like You Search the Web	https://gwsecurityusa.com/2026/10/12/stop-scrubbing-gw42-4208p-3-ai-search-nvr/
 Fri, 02 Oct 2026 21:58:31 +0000	It’s Dark at Dinnertime Again: The 30-Minute Night Audit Your Cameras Need Before the Clocks Change	https://gwsecurityusa.com/2026/10/02/fall-night-audit-security-cameras-before-clocks-change/
 Mon, 21 Sep 2026 17:32:58 +0000	Why Your Footage Turns Blocky the Moment Someone Runs: Bitrate, H.265, and Compression Explained	https://gwsecurityusa.com/2026/09/21/blocky-footage-bitrate-h265-compression-explained/

@@ -1,4 +1,4 @@
-# SB-1047 kamsys.pl · home · https://www.kamsys.pl/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-1047 kamsys.pl · home · https://www.kamsys.pl/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys
 Dostawa
 Status zamówienia
@@ -17,6 +17,7 @@ Instalacje
 Referencje
 Wsparcie
 O firmie
+Praca
 E-SKLEP
 Inteligentne Kamery
 BCS
@@ -130,6 +131,7 @@ Informacje
 O firmie
 Regulamin sklepu
 Dostawa
+Praca
 Sklep online
 Logowanie
 Promocje
@@ -173,6 +175,7 @@ Instalacje
 Referencje
 Wsparcie
 O firmie
+Praca
 Schowek
 Brak produktów
 Zobacz schowki

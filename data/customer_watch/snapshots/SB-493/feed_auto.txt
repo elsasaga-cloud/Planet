@@ -1,4 +1,4 @@
-# SB-493 syserso.com · feed_auto · https://www.syserso.com/feed/ · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-493 syserso.com · feed_auto · https://www.syserso.com/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
 Tue, 26 May 2026 07:09:40 +0000	ANGA COM 2026	https://www.syserso.com/anga-com-2026/
 Wed, 14 Jan 2026 15:41:45 +0000	fiberdays 2026	https://www.syserso.com/fiberdays-2026/
 Wed, 14 Jan 2026 15:14:14 +0000	secIT by Heise	https://www.syserso.com/secit-2026/
