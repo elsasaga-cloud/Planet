@@ -4,7 +4,7 @@
   "source": "Canada · Corporations Canada / Ontario 登记（OpenCorporates 摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 3
+  "count": 9
  },
  "rows": {
   "SA-087": {
@@ -112,6 +112,201 @@
    "notes": "研究档 legal_name 已有 EION Inc. → 补编号 / BN；KP 加 Saf Assadi（CTO）与 Manny Mistry（VP Sales）。",
    "fetched": "2026-10-27",
    "code": "SB-970"
+  },
+  "SB-344": {
+   "batch": 90,
+   "name": "Amer Networks（Amer.com；Mississauga ON + Clearwater FL）",
+   "iso": "CA",
+   "source": "CA · 1 次检索：官网 contact / about（双地址）+ LinkedIn 公司页（1997、11–50 人、总部字段 Clearwater FL）+ Toron Lee LinkedIn（Mississauga；ex D-Link Canada）+ Crunchbase（CEO Wai Lee，Waterloo 计算机工程）+ ZoomInfo（营收估 $6.5M，Mississauga 总部）+ Newegg / Barcodes Inc 品牌店（自有品牌交换机在售）+ PRNewswire 2013/2018（教育市场云管 Wi-Fi）",
+   "url": "https://amer.com/about-us/",
+   "number": "未取（Ontario 登记 JS-only；美国实体 FL Sunbiz ✗）",
+   "status": "Active（官网 + Newegg 品牌店在售）",
+   "incorporated": "1997（LinkedIn / 新闻稿）",
+   "company_type": "Private；加拿大 + 美国双实体（Ontario 公司 + Florida 公司，编号未取）",
+   "sic": [
+    "**自有品牌网络设备商（OEM 品牌商）**：交换机（PoE / 管理型）、防火墙（Clavister 贴牌）、兼容光模块、线缆 / 配线；起家教育市场（K-12 网络），经 Newegg / Barcodes Inc / 分销渠道卖"
+   ],
+   "address": "3620B Laird Road Unit 4, Mississauga, ON L5L 6A9（加）/ 4600 140th Ave N Unit 180, Clearwater, FL 33762（美）",
+   "accounts": "ZoomInfo / RocketReach 估 $6.5M（第三方估值，只当量级：数百万美元）",
+   "accounts_due": "—",
+   "size_band": "11–50 人（LinkedIn）",
+   "officers": [
+    "Wai LEE — CEO / 创始人（Crunchbase；研究档 KP）",
+    "Toron LEE — VP Product Management（RocketReach；ex D-Link Canada；研究档 KP）",
+    "Andrew Crowe — 技术支持 / 产品管理 / 收发货（LinkedIn）"
+   ],
+   "psc": "Lee 家族（Wai + Toron 同姓，推定家族企业）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**硬发现：Amer 不是分销商，是加拿大的自有品牌交换机 OEM 品牌商（Newegg 上在卖 Amer 牌 PoE 交换机），且两位 KP Wai Lee（CEO）/ Toron Lee（VP 产品）就是老板家族 —— 这是 B 档里最像「OEM 品牌商（目标顺序第 1）」的户** → 写 Toron（产品线负责人）cc Wai：OEM 30%，以 Amer 现有型号表（Newegg 页可见 SKU）逐一对位 STC / STI 替代 + 新品 2.5G / 10G PoE++，强调「长期供货 + 固件 / 丝印 / 彩盒」；FCC + CE，ISED 由他们现有流程；先寄 2 台付费样机；CA 周三 08–10（北京 21–23）",
+    "不说：不提 D-Link 经历、不提其营收估值；美国仓在佛州 → 报 DAP 多伦多或 FOB 深圳由他们自己拼柜",
+    "复查：Newegg 品牌店 SKU 半年看一次（新 SKU 出现 = 正在找新代工）"
+   ],
+   "notes": "研究档 company_facts 待补 legal / founded / staff / hq；KP 职务按上表。",
+   "fetched": "2026-10-27",
+   "code": "SB-344"
+  },
+  "SB-384": {
+   "batch": 90,
+   "name": "Canacctv（网店；Langley / Surrey, BC；法人名未取）",
+   "iso": "CA",
+   "source": "CA · 1 次检索：官网 contact（Unit B135-6286 203 St, Langley BC）+ about（Surrey BC 运营、北美客户、西岸到东岸免运）",
+   "url": "https://canacctv.com/about-us/",
+   "number": "未取（BC Registry 需付费 / JS）",
+   "status": "Active（官网在线）",
+   "incorporated": "未取",
+   "company_type": "未知（推定 BC 小公司或个体）",
+   "sic": [
+    "CCTV 监控网店（住宅 / 商用）+ 远程技术支持；自述团队有视频 / 网络传输 / 布线经验"
+   ],
+   "address": "Unit B135-6286 203 Street, Langley, BC V2Y 3S1（运营 Surrey BC）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（估 1–5 人）",
+   "officers": [
+    "研究档无 KP（admin@canacctv.com）；法人未公开"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**BC 省华人区（Surrey / Langley）CCTV 网店，PoE 交换机是其配件位** → 分销 20%：4/8/16 口非管理 PoE（STI-054GP / STC-028GP / STC-228GP）挂网店，MOQ 1 箱、预付；FCC + ISED 双标；写 admin@ 问老板；CA 周三 08–10（北京 21–23）；一封无回即停",
+    "不再检索"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-384"
+  },
+  "SB-841": {
+   "batch": 90,
+   "name": "Ko-Hen Electronics Supply Ltd.（Red Deer, Alberta）",
+   "iso": "CA",
+   "source": "CA · 1 次检索：官网 about（1977 成立、家族史、TURCK / WAGO / IDEC 授权分销、Koziol 家族接班）+ 分类页（Network Switches & Routers / PoE & WiFi 品类）+ asalco / cossd 名录（6022 67A St, 403-346-3733）",
+   "url": "https://kohen.ca/page/about-us",
+   "number": "未取（Alberta 公司登记需付费）",
+   "status": "Active（官网 2026）",
+   "incorporated": "1977（官网）",
+   "company_type": "Ltd.（Alberta 私营家族公司）",
+   "sic": [
+    "工业电子 / 自动化元件分销（TURCK、WAGO、IDEC 授权）+ 油气行业 + **计算机 / 网络基础设施品类**（网线、配线架、**交换机 / 路由 / PoE / WiFi**、机柜）；阿尔伯塔中部为主"
+   ],
+   "address": "6022 67A Street, Red Deer, AB T4P 3E8",
+   "accounts": "—（私营不公示）",
+   "accounts_due": "—",
+   "size_band": "小型（估 10–20 人；3,840 sq ft 店面 + 库房）",
+   "officers": [
+    "Brent KOZIOL — 业主 / 经营者（1998 加入，父 Joe 退休后接班；与妻 Nonette 共同持有）= 老板 = 联系人（sales@kohen.ca 转）",
+    "Joe Koziol — 创始合伙人（已退休）；Morley（1995 退出）"
+   ],
+   "psc": "Brent + Nonette Koziol",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Red Deer 的工业电子分销（TURCK / WAGO / IDEC 授权），网络品类里有「交换机 / PoE」专栏 = 正好是 STI 工业 DIN PoE 的货架位（油气井场、控制柜）** → 写 Brent：分销 20%，STI-054GP / STI-154GP / STI-288DGGPM-2BT + 宽压 STI-050GE，-40~75℃、FCC + ISED、3 年保；MOQ 1 箱、首单 50/50；CA 周三 08–10（北京 21–23）",
+    "不说：不碰其 TURCK / WAGO 工业以太网线（他们有授权），只做「无品牌工业 PoE 档位」"
+   ],
+   "notes": "研究档 KP 空 → 新增 Brent Koziol。",
+   "fetched": "2026-10-27",
+   "code": "SB-841"
+  },
+  "SB-847": {
+   "batch": 90,
+   "name": "Rollan Tech Inc.（RollanTech Corporation；Montreal QC）",
+   "iso": "CA",
+   "source": "CA · 1 次检索：官网首页 / about / contact（两处蒙特利尔写字楼地址；IT 电信 / 实验室设备 / 绿色能源 / 油气「全品类供应 + 集成」）+ profilecanada（~1 名员工）+ mufc 名录",
+   "url": "http://rollan.ca/",
+   "number": "未取（Québec REQ 可查，未查）",
+   "status": "Active（官网在线）",
+   "incorporated": "未取",
+   "company_type": "Inc.（Québec）",
+   "sic": [
+    "「全品类」供应 / 集成（IT 电信、天线 / 波导、VoIP、服务器、实验室设备、空气 / 水质监测、油气）—— 典型小型外贸 / 项目采购中间商画像"
+   ],
+   "address": "1288 Rue Saint-Antoine O #1502, Montréal, QC H3C 0X6（官网另写 1500 Boul. René-Lévesque O, H3G 0H6）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（名录 ~1 人）",
+   "officers": [
+    "研究档无 KP；法人未公开"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一人「什么都供」的项目采购中间商（住宅写字楼地址，1 人）—— 多半是替第三国项目找货** → 留档不追；若来询，只报 FOB 深圳 + 100% 预付，不报 DAP，不给账期；不做最终用户不明的出口（合规）"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-847"
+  },
+  "SB-538": {
+   "batch": 90,
+   "name": "Infinite Cables Inc.（DBA Phantom Cables；Markham, Ontario）",
+   "iso": "CA",
+   "source": "CA · 1 次检索：官网 about（2003 起、62,000 sq ft）+ opengovca / canadacompanyregistry（联邦公司 6482929，2006-01-01，董事 George Arvanitopoulos + Chris Michael Frangos，BN 813852142RC0001）+ D&B（DBA Phantom Cables，主要负责人 Arvanitopoulos）+ LEI 89450071WCT7PKO1GZ42 + CIPO 商标 1729763（2016-05-31）+ Yelp（2004 起自有品牌 Phantom Cables）+ LinkedIn（11–50）",
+   "url": "https://opengovca.com/corporation/6482929",
+   "number": "Corporations Canada 6482929 · BN 813852142RC0001 · LEI 89450071WCT7PKO1GZ42 · 商标 TMA 1729763",
+   "status": "Active",
+   "incorporated": "2006-01-01（联邦；业务始于 2003）",
+   "company_type": "联邦 business corporation（非分销型，≤50 股东）",
+   "sic": [
+    "线缆 / 配件制造 + 分销 + 批发（网络、安防、AV、电源线、USB、UPS 电池）；**自有品牌 Phantom Cables（2004 起）**；服务加 / 美两国"
+   ],
+   "address": "3993 14th Avenue, Markham, ON L3R 4Z6（62,000 sq ft 办公 + 仓）",
+   "accounts": "—（私营）；第三方估 $2M–$50M 区间不可用，按 62,000 sq ft 仓 + 11–50 人 = 千万加元级",
+   "accounts_due": "—",
+   "size_band": "11–50 人（LinkedIn；RocketReach 32）",
+   "officers": [
+    "George ARVANITOPOULOS — 董事 / 主要负责人（联邦登记 + D&B）",
+    "Chris Michael FRANGOS — 董事（联邦登记）",
+    "Augustin LIU / Richard BONSOL — 研究档 KP（采购 / 销售口；职务待核）"
+   ],
+   "psc": "Arvanitopoulos + Frangos（2 名董事；推定股东）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**硬发现：用户表把 Infinite Cables 记成美国，其实是多伦多 Markham 的加拿大联邦公司（6482929），且有自有品牌 Phantom Cables（2004 起）、62,000 sq ft 仓 —— 自有品牌 + 网络 / 安防渠道 = OEM 品牌商画像** → 写 Augustin Liu cc 董事 George Arvanitopoulos：OEM 30%「Phantom」PoE 交换机（STC-028GP / STC-228GP / STC-2024GP）配其网线 / 配线架套餐，或分销 20%；FCC + ISED（IC）双标 + 英法双语标签；DAP 多伦多走百运网；CA 周三 08–10（北京 21–23）",
+    "国别已更正（country_fix → 加拿大，Q-65）；认证话术按加拿大写",
+    "复查：CIPO 商标库看 Phantom 是否新增交换机类（第 9 类）= 自有品牌扩品信号"
+   ],
+   "notes": "country_fix 加拿大；研究档 facts 补 legal / founded / staff / hq。",
+   "fetched": "2026-10-27",
+   "code": "SB-538"
+  },
+  "SB-399": {
+   "batch": 90,
+   "name": "Petawise Inc.（Petawise Technologies；Toronto / Etobicoke, ON；Uniview 加拿大独家）",
+   "iso": "CA",
+   "source": "CA · 1 次检索：官网 our-company（「Uniview 加拿大分支 / Wanglu 独家分销」）+ Uniview 官网北美伙伴页（Petawise Inc.，进口 + 主分销）+ LinkedIn（2015、11–50、Etobicoke）+ ZoomInfo（2014；VP Product & Engineering Stephane Lavigueur 2022–；工程经理 Simon Jiang；营收估 $5.3M）+ RocketReach（Lavigueur 履历 Convergint / GardaWorld / ADT；现 LinkedIn 显示 Genetec）+ Facebook（1040 Martin Grove Rd #9）",
+   "url": "https://www.uniview.com/Partner/Find_our_partners/Partners/North_America/",
+   "number": "未取（Ontario 登记 JS-only）",
+   "status": "Active",
+   "incorporated": "2014/2015",
+   "company_type": "Inc.（Ontario 私营；Uniview 加拿大独家进口 + 主分销）",
+   "sic": [
+    "安防批发：Uniview（UNV）IP 摄像机 / NVR / PoE 交换机 / 门禁 独家进口 + 全国分销（经集成商 / 区域分销）；自称 NDAA 合规线"
+   ],
+   "address": "1040 Martin Grove Rd Unit 9, Toronto (Etobicoke), ON M9W 4W4（另见 190 Millway Ave, Concord ON）",
+   "accounts": "ZoomInfo 估 $5.3M（量级）",
+   "accounts_due": "—",
+   "size_band": "11–50 人（LinkedIn）/ 8（RocketReach）",
+   "officers": [
+    "Stephane LAVIGUEUR — VP Product & Engineering（2022–；研究档 KP；LinkedIn 现挂 Genetec → 可能已离职，待核）",
+    "Dexter LIU — VP Operation（LinkedIn）",
+    "Simon JIANG — Manager, Engineering",
+    "John K — 研究档 KP"
+   ],
+   "psc": "未取（Uniview 关联：官网自称「Canadian Arm of Uniview」，股权关系未证实）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Petawise = Uniview 在加拿大的独家进口分销（PoE 交换机已由 Uniview 自供）；产品 VP Lavigueur 的 LinkedIn 现挂 Genetec，很可能已离职** → 先核人：写 sales@ 问现任产品负责人（或 Dexter Liu 运营 VP），分销 20%：Uniview 没有的档位（工业 DIN PoE STI、2.5G / 10G PoE++ 上联），FCC + ISED；一封无回即停；CA 周三 08–10（北京 21–23）",
+    "不说：不提 Uniview / NDAA；不提 Lavigueur 去向"
+   ],
+   "notes": "KP Lavigueur 现职存疑（LinkedIn Genetec）。",
+   "fetched": "2026-10-27",
+   "code": "SB-399"
   }
  }
 }

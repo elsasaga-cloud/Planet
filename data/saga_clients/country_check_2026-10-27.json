@@ -1,0 +1,2437 @@
+[
+ {
+  "code": "SB-040",
+  "grade": "B",
+  "name": "4Demand Co",
+  "iso": "AE",
+  "country": "阿联酋",
+  "phone_votes": {
+   "AE": 1
+  },
+  "tld_votes": {
+   "GB": 1
+  },
+  "suggest": "GB",
+  "confidence": "低",
+  "phones": [
+   "971559645463"
+  ],
+  "domains": [
+   "4demand.co.uk"
+  ]
+ },
+ {
+  "code": "SB-094",
+  "grade": "B",
+  "name": "maxcomcorp.com",
+  "iso": "CA",
+  "country": "加拿大",
+  "phone_votes": {
+   "US": 1
+  },
+  "tld_votes": {},
+  "suggest": "US",
+  "confidence": "中",
+  "phones": [
+   "9167054441"
+  ],
+  "domains": [
+   "maxcomcorp.com"
+  ]
+ },
+ {
+  "code": "SB-1020",
+  "grade": "B",
+  "name": "cratsol.ae",
+  "iso": "GB",
+  "country": "英国",
+  "phone_votes": {},
+  "tld_votes": {
+   "AE": 1,
+   "GB": 1
+  },
+  "suggest": "AE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "cratsol.ae",
+   "cratsol.co.uk"
+  ]
+ },
+ {
+  "code": "SB-112",
+  "grade": "B",
+  "name": "opax.com",
+  "iso": "TR",
+  "country": "土耳其",
+  "phone_votes": {},
+  "tld_votes": {
+   "PL": 1
+  },
+  "suggest": "PL",
+  "confidence": "低",
+  "phones": [
+   "904449890"
+  ],
+  "domains": [
+   "opax.com",
+   "opax.pl"
+  ]
+ },
+ {
+  "code": "SB-1133",
+  "grade": "B",
+  "name": "netram.de",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 1
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "netram.de"
+  ]
+ },
+ {
+  "code": "SB-189",
+  "grade": "B",
+  "name": "vintronsmartvision.com",
+  "iso": "IN",
+  "country": "印度",
+  "phone_votes": {
+   "IN": 1
+  },
+  "tld_votes": {
+   "KZ": 1
+  },
+  "suggest": "KZ",
+  "confidence": "低",
+  "phones": [
+   "919818122003"
+  ],
+  "domains": [
+   "vintronsmartvision.com",
+   "quippro.kz",
+   "airlinkwifi.net"
+  ]
+ },
+ {
+  "code": "SB-208",
+  "grade": "B",
+  "name": "delock.com",
+  "iso": "DE",
+  "country": "德国",
+  "phone_votes": {},
+  "tld_votes": {
+   "FI": 1,
+   "DE": 1
+  },
+  "suggest": "FI",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "delock.com",
+   "triosoft.fi",
+   "delock.de"
+  ]
+ },
+ {
+  "code": "SB-330",
+  "grade": "B",
+  "name": "omninet.com.vn",
+  "iso": "SG",
+  "country": "新加坡",
+  "phone_votes": {},
+  "tld_votes": {
+   "VN": 1,
+   "SG": 1
+  },
+  "suggest": "VN",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "omninet.com.vn",
+   "omnicomm.com.sg"
+  ]
+ },
+ {
+  "code": "SB-404",
+  "grade": "B",
+  "name": "teamac-arabia.com",
+  "iso": "AE",
+  "country": "阿联酋",
+  "phone_votes": {
+   "SA": 1
+  },
+  "tld_votes": {},
+  "suggest": "SA",
+  "confidence": "中",
+  "phones": [
+   "966530708118"
+  ],
+  "domains": [
+   "teamac-arabia.com"
+  ]
+ },
+ {
+  "code": "SB-499",
+  "grade": "B",
+  "name": "b.medvedev11@mail.ru",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {
+   "KG": 1
+  },
+  "tld_votes": {},
+  "suggest": "KG",
+  "confidence": "中",
+  "phones": [
+   "996555772975"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SB-514",
+  "grade": "B",
+  "name": "257.cz",
+  "iso": "RS",
+  "country": "塞尔维亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "CZ": 1,
+   "RS": 1
+  },
+  "suggest": "CZ",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "257.cz",
+   "ep-solutions.rs"
+  ]
+ },
+ {
+  "code": "SB-517",
+  "grade": "B",
+  "name": "Ernesto Guevara",
+  "iso": "EC",
+  "country": "厄瓜多尔",
+  "phone_votes": {
+   "NI": 1
+  },
+  "tld_votes": {},
+  "suggest": "NI",
+  "confidence": "中",
+  "phones": [
+   "50577789314"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SB-695",
+  "grade": "B",
+  "name": "Leandro Roisenberg FI",
+  "iso": "BR",
+  "country": "巴西",
+  "phone_votes": {
+   "IL": 1
+  },
+  "tld_votes": {
+   "BR": 1
+  },
+  "suggest": "IL",
+  "confidence": "低（域名支持原国别，电话可能是海外联系人）",
+  "phones": [
+   "972506650861"
+  ],
+  "domains": [
+   "lri.com.br"
+  ]
+ },
+ {
+  "code": "SB-722",
+  "grade": "B",
+  "name": "Aptvel global technologies",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {
+   "AE": 1
+  },
+  "tld_votes": {},
+  "suggest": "AE",
+  "confidence": "中",
+  "phones": [
+   "971508394997"
+  ],
+  "domains": [
+   "aptvelglobal.com",
+   "klasseducation.com"
+  ]
+ },
+ {
+  "code": "SB-725",
+  "grade": "B",
+  "name": "Elektronik LTD",
+  "iso": "TR",
+  "country": "土耳其",
+  "phone_votes": {
+   "BG": 1
+  },
+  "tld_votes": {},
+  "suggest": "BG",
+  "confidence": "中",
+  "phones": [
+   "359878684007"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SB-735",
+  "grade": "B",
+  "name": "Steve",
+  "iso": "ID",
+  "country": "印度尼西亚",
+  "phone_votes": {
+   "PH": 1
+  },
+  "tld_votes": {},
+  "suggest": "PH",
+  "confidence": "中",
+  "phones": [
+   "639178552172"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-002",
+  "grade": "C",
+  "name": "Intelligent",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {
+   "CN": 1
+  },
+  "tld_votes": {
+   "HK": 1
+  },
+  "suggest": "CN",
+  "confidence": "中",
+  "phones": [
+   "8618688946995"
+  ],
+  "domains": [
+   "intelligent.hk"
+  ]
+ },
+ {
+  "code": "SC-038",
+  "grade": "C",
+  "name": "ansecnetwork.com",
+  "iso": "HK",
+  "country": "香港",
+  "phone_votes": {
+   "CN": 1
+  },
+  "tld_votes": {},
+  "suggest": "CN",
+  "confidence": "中",
+  "phones": [
+   "8613138672473"
+  ],
+  "domains": [
+   "ansecnetwork.com"
+  ]
+ },
+ {
+  "code": "SC-074",
+  "grade": "C",
+  "name": "pultar.org",
+  "iso": "FR",
+  "country": "法国",
+  "phone_votes": {
+   "TR": 1
+  },
+  "tld_votes": {},
+  "suggest": "TR",
+  "confidence": "中",
+  "phones": [
+   "3375553953210",
+   "905333589532"
+  ],
+  "domains": [
+   "pultar.org"
+  ]
+ },
+ {
+  "code": "SC-1037",
+  "grade": "C",
+  "name": "TELSERDOM SRL",
+  "iso": "EC",
+  "country": "厄瓜多尔",
+  "phone_votes": {
+   "DO": 1
+  },
+  "tld_votes": {},
+  "suggest": "DO",
+  "confidence": "中",
+  "phones": [
+   "18293508311"
+  ],
+  "domains": [
+   "telserdom.com"
+  ]
+ },
+ {
+  "code": "SC-107",
+  "grade": "C",
+  "name": "aecl.com",
+  "iso": "CA",
+  "country": "加拿大",
+  "phone_votes": {
+   "SA": 1
+  },
+  "tld_votes": {},
+  "suggest": "SA",
+  "confidence": "中",
+  "phones": [
+   "966540364518"
+  ],
+  "domains": [
+   "aecl.com"
+  ]
+ },
+ {
+  "code": "SC-1071",
+  "grade": "C",
+  "name": "flexdsl.ch",
+  "iso": "CL",
+  "country": "智利",
+  "phone_votes": {},
+  "tld_votes": {
+   "CH": 1
+  },
+  "suggest": "CH",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "flexdsl.ch"
+  ]
+ },
+ {
+  "code": "SC-1084",
+  "grade": "C",
+  "name": "inroi.ch",
+  "iso": "CL",
+  "country": "智利",
+  "phone_votes": {},
+  "tld_votes": {
+   "CH": 1
+  },
+  "suggest": "CH",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "inroi.ch"
+  ]
+ },
+ {
+  "code": "SC-1128",
+  "grade": "C",
+  "name": "visuals.ch",
+  "iso": "SE",
+  "country": "瑞典",
+  "phone_votes": {},
+  "tld_votes": {
+   "CH": 1
+  },
+  "suggest": "CH",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "visuals.ch"
+  ]
+ },
+ {
+  "code": "SC-1148",
+  "grade": "C",
+  "name": "canalonce.com.uy",
+  "iso": "PY",
+  "country": "巴拉圭",
+  "phone_votes": {
+   "UY": 1
+  },
+  "tld_votes": {
+   "UY": 1
+  },
+  "suggest": "UY",
+  "confidence": "高",
+  "phones": [
+   "59891230011"
+  ],
+  "domains": [
+   "canalonce.com.uy"
+  ]
+ },
+ {
+  "code": "SC-1161",
+  "grade": "C",
+  "name": "oreind.is",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "IS": 1
+  },
+  "suggest": "IS",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "oreind.is"
+  ]
+ },
+ {
+  "code": "SC-1184",
+  "grade": "C",
+  "name": "alcom.be",
+  "iso": "BG",
+  "country": "保加利亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "BE": 1
+  },
+  "suggest": "BE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "alcom.be"
+  ]
+ },
+ {
+  "code": "SC-1189",
+  "grade": "C",
+  "name": "bicar.by",
+  "iso": "EE",
+  "country": "爱沙尼亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "BY": 2
+  },
+  "suggest": "BY",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "bicar.by",
+   "bicar-it.by"
+  ]
+ },
+ {
+  "code": "SC-1207",
+  "grade": "C",
+  "name": "mpi.ch",
+  "iso": "CL",
+  "country": "智利",
+  "phone_votes": {},
+  "tld_votes": {
+   "CH": 1
+  },
+  "suggest": "CH",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "mpi.ch"
+  ]
+ },
+ {
+  "code": "SC-1208",
+  "grade": "C",
+  "name": "muhammad.sameer.wk@gmail.com",
+  "iso": "AE",
+  "country": "阿联酋",
+  "phone_votes": {
+   "SA": 1
+  },
+  "tld_votes": {},
+  "suggest": "SA",
+  "confidence": "中",
+  "phones": [
+   "966538850369"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-134",
+  "grade": "C",
+  "name": "nomios.de",
+  "iso": "NL",
+  "country": "荷兰",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 1
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "nomios.de",
+   "nomios.com"
+  ]
+ },
+ {
+  "code": "SC-1374",
+  "grade": "C",
+  "name": "onlinecamerashop.nl",
+  "iso": "NP",
+  "country": "尼泊尔",
+  "phone_votes": {},
+  "tld_votes": {
+   "NL": 1
+  },
+  "suggest": "NL",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "onlinecamerashop.nl"
+  ]
+ },
+ {
+  "code": "SC-1430",
+  "grade": "C",
+  "name": "comworth.com.sg",
+  "iso": "JP",
+  "country": "日本",
+  "phone_votes": {},
+  "tld_votes": {
+   "SG": 1,
+   "JP": 1
+  },
+  "suggest": "SG",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "comworth.com.sg",
+   "comworth.co.jp"
+  ]
+ },
+ {
+  "code": "SC-1439",
+  "grade": "C",
+  "name": "fyber.co.in",
+  "iso": "AE",
+  "country": "阿联酋",
+  "phone_votes": {},
+  "tld_votes": {
+   "IN": 1
+  },
+  "suggest": "IN",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "fyber.co.in"
+  ]
+ },
+ {
+  "code": "SC-1453",
+  "grade": "C",
+  "name": "somvangoa.com",
+  "iso": "TH",
+  "country": "泰国",
+  "phone_votes": {
+   "LA": 1
+  },
+  "tld_votes": {},
+  "suggest": "LA",
+  "confidence": "中",
+  "phones": [
+   "856209997966"
+  ],
+  "domains": [
+   "somvangoa.com"
+  ]
+ },
+ {
+  "code": "SC-1464",
+  "grade": "C",
+  "name": "youtu.be",
+  "iso": "AE",
+  "country": "阿联酋",
+  "phone_votes": {
+   "AE": 1
+  },
+  "tld_votes": {
+   "BE": 1
+  },
+  "suggest": "BE",
+  "confidence": "低",
+  "phones": [
+   "971556628750"
+  ],
+  "domains": [
+   "youtu.be"
+  ]
+ },
+ {
+  "code": "SC-1489",
+  "grade": "C",
+  "name": "digicom.com.bd",
+  "iso": "ID",
+  "country": "印度尼西亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "BD": 1
+  },
+  "suggest": "BD",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "digicom.com.bd"
+  ]
+ },
+ {
+  "code": "SC-1513",
+  "grade": "C",
+  "name": "manggis.kz",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "KZ": 1
+  },
+  "suggest": "KZ",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "manggis.kz"
+  ]
+ },
+ {
+  "code": "SC-1541",
+  "grade": "C",
+  "name": "softcomtrade.kz",
+  "iso": "UZ",
+  "country": "乌兹别克斯坦",
+  "phone_votes": {},
+  "tld_votes": {
+   "KZ": 1
+  },
+  "suggest": "KZ",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "softcomtrade.kz"
+  ]
+ },
+ {
+  "code": "SC-1575",
+  "grade": "C",
+  "name": "Maipu 迈普",
+  "iso": "CN",
+  "country": "中国大陆",
+  "phone_votes": {
+   "US": 1
+  },
+  "tld_votes": {},
+  "suggest": "US",
+  "confidence": "中",
+  "phones": [
+   "15756499855"
+  ],
+  "domains": [
+   "maipu.com"
+  ]
+ },
+ {
+  "code": "SC-1602",
+  "grade": "C",
+  "name": "lsservice.kz",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "KZ": 1
+  },
+  "suggest": "KZ",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "lsservice.kz"
+  ]
+ },
+ {
+  "code": "SC-1628",
+  "grade": "C",
+  "name": "smr-egs.by",
+  "iso": "EE",
+  "country": "爱沙尼亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "BY": 1
+  },
+  "suggest": "BY",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "smr-egs.by"
+  ]
+ },
+ {
+  "code": "SC-1660",
+  "grade": "C",
+  "name": "all4fiber.de",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 1
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "all4fiber.de",
+   "all4fiber.com"
+  ]
+ },
+ {
+  "code": "SC-1662",
+  "grade": "C",
+  "name": "bhembebusa@gmail.com",
+  "iso": "SZ",
+  "country": "斯威士兰",
+  "phone_votes": {
+   "KW": 1
+  },
+  "tld_votes": {},
+  "suggest": "KW",
+  "confidence": "中",
+  "phones": [
+   "26876622555",
+   "96566851443"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-1663",
+  "grade": "C",
+  "name": "bressner.de",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 1
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "bressner.de"
+  ]
+ },
+ {
+  "code": "SC-1666",
+  "grade": "C",
+  "name": "gt-netstore.de",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 1
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "gt-netstore.de"
+  ]
+ },
+ {
+  "code": "SC-167",
+  "grade": "C",
+  "name": "westermo.at",
+  "iso": "DE",
+  "country": "德国",
+  "phone_votes": {},
+  "tld_votes": {
+   "AT": 1
+  },
+  "suggest": "AT",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "westermo.at",
+   "westermo.com"
+  ]
+ },
+ {
+  "code": "SC-1672",
+  "grade": "C",
+  "name": "piospartslap.de",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 1
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "piospartslap.de"
+  ]
+ },
+ {
+  "code": "SC-1675",
+  "grade": "C",
+  "name": "tekmodul.de",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 1
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "tekmodul.de"
+  ]
+ },
+ {
+  "code": "SC-1676",
+  "grade": "C",
+  "name": "trius-audio.de",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 2
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "trius-audio.de",
+   "trius-vertrieb.de"
+  ]
+ },
+ {
+  "code": "SC-1677",
+  "grade": "C",
+  "name": "vtis.de",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 1
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "vtis.de"
+  ]
+ },
+ {
+  "code": "SC-1685",
+  "grade": "C",
+  "name": "PKE Electronics AG",
+  "iso": "HU",
+  "country": "匈牙利",
+  "phone_votes": {},
+  "tld_votes": {
+   "AT": 1
+  },
+  "suggest": "AT",
+  "confidence": "低",
+  "phones": [
+   "43501501091"
+  ],
+  "domains": [
+   "pke.at"
+  ]
+ },
+ {
+  "code": "SC-1709",
+  "grade": "C",
+  "name": "mpl.ch",
+  "iso": "CL",
+  "country": "智利",
+  "phone_votes": {},
+  "tld_votes": {
+   "CH": 1
+  },
+  "suggest": "CH",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "mpl.ch"
+  ]
+ },
+ {
+  "code": "SC-1713",
+  "grade": "C",
+  "name": "oak-integrator.lv",
+  "iso": "BO",
+  "country": "玻利维亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "LV": 1
+  },
+  "suggest": "LV",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "oak-integrator.lv"
+  ]
+ },
+ {
+  "code": "SC-1714",
+  "grade": "C",
+  "name": "omniray.ch",
+  "iso": "CL",
+  "country": "智利",
+  "phone_votes": {},
+  "tld_votes": {
+   "CH": 1
+  },
+  "suggest": "CH",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "omniray.ch"
+  ]
+ },
+ {
+  "code": "SC-1716",
+  "grade": "C",
+  "name": "pedro.visualeffects@gmail.com",
+  "iso": "AU",
+  "country": "澳大利亚",
+  "phone_votes": {
+   "MX": 1
+  },
+  "tld_votes": {},
+  "suggest": "MX",
+  "confidence": "中",
+  "phones": [
+   "523342853692"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-1773",
+  "grade": "C",
+  "name": "vnsec.us",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {
+   "AE": 1
+  },
+  "tld_votes": {},
+  "suggest": "AE",
+  "confidence": "中",
+  "phones": [
+   "971504151668"
+  ],
+  "domains": [
+   "vnsec.us"
+  ]
+ },
+ {
+  "code": "SC-1787",
+  "grade": "C",
+  "name": "Ubiquiti (Latvia) SIA",
+  "iso": "LV",
+  "country": "拉脱维亚",
+  "phone_votes": {
+   "RO": 1
+  },
+  "tld_votes": {},
+  "suggest": "RO",
+  "confidence": "中",
+  "phones": [
+   "40103796251"
+  ],
+  "domains": [
+   "ui.com"
+  ]
+ },
+ {
+  "code": "SC-1813",
+  "grade": "C",
+  "name": "opensky.com.uy",
+  "iso": "UG",
+  "country": "乌干达",
+  "phone_votes": {},
+  "tld_votes": {
+   "UY": 1
+  },
+  "suggest": "UY",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "opensky.com.uy"
+  ]
+ },
+ {
+  "code": "SC-1853",
+  "grade": "C",
+  "name": "itezan 公司名 没查到东西",
+  "iso": "US",
+  "country": "美国",
+  "phone_votes": {
+   "JO": 1
+  },
+  "tld_votes": {},
+  "suggest": "JO",
+  "confidence": "中",
+  "phones": [
+   "962795550047"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-1863",
+  "grade": "C",
+  "name": "saleh90214@gmail.com",
+  "iso": "MY",
+  "country": "马来西亚",
+  "phone_votes": {
+   "OM": 1
+  },
+  "tld_votes": {},
+  "suggest": "OM",
+  "confidence": "中",
+  "phones": [
+   "96899355714"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-1897",
+  "grade": "C",
+  "name": "inteltec.com.lb",
+  "iso": "LY",
+  "country": "利比亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "LB": 1
+  },
+  "suggest": "LB",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "inteltec.com.lb"
+  ]
+ },
+ {
+  "code": "SC-1924",
+  "grade": "C",
+  "name": "adsensekorea.com",
+  "iso": "DE",
+  "country": "德国",
+  "phone_votes": {
+   "PK": 1
+  },
+  "tld_votes": {},
+  "suggest": "PK",
+  "confidence": "中",
+  "phones": [
+   "923320646202"
+  ],
+  "domains": [
+   "adsensekorea.com"
+  ]
+ },
+ {
+  "code": "SC-2090",
+  "grade": "C",
+  "name": "cern.ch",
+  "iso": "CL",
+  "country": "智利",
+  "phone_votes": {},
+  "tld_votes": {
+   "CH": 1
+  },
+  "suggest": "CH",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "cern.ch"
+  ]
+ },
+ {
+  "code": "SC-2100",
+  "grade": "C",
+  "name": "technoma.com.py",
+  "iso": "AR",
+  "country": "阿根廷",
+  "phone_votes": {},
+  "tld_votes": {
+   "PY": 1
+  },
+  "suggest": "PY",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "technoma.com.py"
+  ]
+ },
+ {
+  "code": "SC-2107",
+  "grade": "C",
+  "name": "QT System Solutions Sdn BHd",
+  "iso": "VN",
+  "country": "越南",
+  "phone_votes": {
+   "MY": 1
+  },
+  "tld_votes": {},
+  "suggest": "MY",
+  "confidence": "中",
+  "phones": [
+   "60193120422"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-2116",
+  "grade": "C",
+  "name": "cozorthuckles@hotmail.com",
+  "iso": "US",
+  "country": "美国",
+  "phone_votes": {
+   "CA": 1
+  },
+  "tld_votes": {},
+  "suggest": "CA",
+  "confidence": "中",
+  "phones": [
+   "16048409112"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-2132",
+  "grade": "C",
+  "name": "Evergreen solution",
+  "iso": "IN",
+  "country": "印度",
+  "phone_votes": {
+   "QA": 2
+  },
+  "tld_votes": {},
+  "suggest": "QA",
+  "confidence": "中",
+  "phones": [
+   "97444567468",
+   "97455432078"
+  ],
+  "domains": [
+   "evergreentechsolution.com"
+  ]
+ },
+ {
+  "code": "SC-2167",
+  "grade": "C",
+  "name": "MODERN INTERTRANS LOGISTICS PE",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {
+   "UZ": 1
+  },
+  "tld_votes": {},
+  "suggest": "UZ",
+  "confidence": "中",
+  "phones": [
+   "998998191925"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-2170",
+  "grade": "C",
+  "name": "Seven bridges security systems",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {
+   "AE": 1
+  },
+  "tld_votes": {},
+  "suggest": "AE",
+  "confidence": "中",
+  "phones": [
+   "971508858198"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-2175",
+  "grade": "C",
+  "name": "asterisk.kz",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "KZ": 1
+  },
+  "suggest": "KZ",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "asterisk.kz"
+  ]
+ },
+ {
+  "code": "SC-224",
+  "grade": "C",
+  "name": "AHF",
+  "iso": "IQ",
+  "country": "伊拉克",
+  "phone_votes": {
+   "SY": 1
+  },
+  "tld_votes": {},
+  "suggest": "SY",
+  "confidence": "中",
+  "phones": [
+   "963994425540"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-2255",
+  "grade": "C",
+  "name": "poetexas.com",
+  "iso": "US",
+  "country": "美国",
+  "phone_votes": {
+   "US": 1
+  },
+  "tld_votes": {
+   "MX": 1
+  },
+  "suggest": "MX",
+  "confidence": "低",
+  "phones": [
+   "15124790317"
+  ],
+  "domains": [
+   "poetexas.com",
+   "amazon.com.mx"
+  ]
+ },
+ {
+  "code": "SC-2303",
+  "grade": "C",
+  "name": "G-TECH LIMITED",
+  "iso": "MU",
+  "country": "毛里求斯",
+  "phone_votes": {
+   "UG": 1
+  },
+  "tld_votes": {},
+  "suggest": "UG",
+  "confidence": "中",
+  "phones": [
+   "256701420629"
+  ],
+  "domains": [
+   "gtechlimited.com"
+  ]
+ },
+ {
+  "code": "SC-2349",
+  "grade": "C",
+  "name": "Washington Zeddy",
+  "iso": "ZM",
+  "country": "赞比亚",
+  "phone_votes": {
+   "KE": 1
+  },
+  "tld_votes": {},
+  "suggest": "KE",
+  "confidence": "中",
+  "phones": [
+   "254727361568"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-2393",
+  "grade": "C",
+  "name": "adtran.com",
+  "iso": "US",
+  "country": "美国",
+  "phone_votes": {},
+  "tld_votes": {
+   "HR": 1
+  },
+  "suggest": "HR",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "adtran.com",
+   "adva.com",
+   "iteratio.hr"
+  ]
+ },
+ {
+  "code": "SC-2426",
+  "grade": "C",
+  "name": "az.anvar@mail.ru",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {
+   "TM": 1
+  },
+  "tld_votes": {},
+  "suggest": "TM",
+  "confidence": "中",
+  "phones": [
+   "99312222313"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-2480",
+  "grade": "C",
+  "name": "Ip-security",
+  "iso": "BD",
+  "country": "孟加拉国",
+  "phone_votes": {
+   "MD": 2
+  },
+  "tld_votes": {
+   "MD": 1
+  },
+  "suggest": "MD",
+  "confidence": "高",
+  "phones": [
+   "37369404045",
+   "37322322225"
+  ],
+  "domains": [
+   "ip-security.md"
+  ]
+ },
+ {
+  "code": "SC-2503",
+  "grade": "C",
+  "name": "Shenzhen Huatenmax Technology Co., Ltd.",
+  "iso": "CN",
+  "country": "中国大陆",
+  "phone_votes": {
+   "US": 1
+  },
+  "tld_votes": {},
+  "suggest": "US",
+  "confidence": "中",
+  "phones": [
+   "13277830946"
+  ],
+  "domains": [
+   "huatenmax.com"
+  ]
+ },
+ {
+  "code": "SC-2533",
+  "grade": "C",
+  "name": "Polinnov",
+  "iso": "MA",
+  "country": "摩洛哥",
+  "phone_votes": {
+   "MA": 1
+  },
+  "tld_votes": {
+   "CH": 1
+  },
+  "suggest": "CH",
+  "confidence": "低",
+  "phones": [
+   "212665240136"
+  ],
+  "domains": [
+   "polinnov.ch"
+  ]
+ },
+ {
+  "code": "SC-2555",
+  "grade": "C",
+  "name": "vps.vps1991@gmail.com",
+  "iso": "IR",
+  "country": "伊朗",
+  "phone_votes": {
+   "IQ": 1
+  },
+  "tld_votes": {},
+  "suggest": "IQ",
+  "confidence": "中",
+  "phones": [
+   "9647714247191"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-2569",
+  "grade": "C",
+  "name": "fabrimex-systems.ch",
+  "iso": "CL",
+  "country": "智利",
+  "phone_votes": {},
+  "tld_votes": {
+   "CH": 1
+  },
+  "suggest": "CH",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "fabrimex-systems.ch"
+  ]
+ },
+ {
+  "code": "SC-2592",
+  "grade": "C",
+  "name": "Belden BroadBrand Solutions",
+  "iso": "US",
+  "country": "美国",
+  "phone_votes": {
+   "IN": 1
+  },
+  "tld_votes": {},
+  "suggest": "IN",
+  "confidence": "中",
+  "phones": [
+   "919778410574"
+  ],
+  "domains": [
+   "opterna.com",
+   "belden.com"
+  ]
+ },
+ {
+  "code": "SC-2660",
+  "grade": "C",
+  "name": "rlnatmmm@bk.ru",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {
+   "UZ": 1
+  },
+  "tld_votes": {},
+  "suggest": "UZ",
+  "confidence": "中",
+  "phones": [
+   "998901853676"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-2663",
+  "grade": "C",
+  "name": "turck.us",
+  "iso": "US",
+  "country": "美国",
+  "phone_votes": {},
+  "tld_votes": {
+   "RU": 1
+  },
+  "suggest": "RU",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "turck.us",
+   "turck.com",
+   "turck.ru"
+  ]
+ },
+ {
+  "code": "SC-2672",
+  "grade": "C",
+  "name": "alltron.ch",
+  "iso": "CL",
+  "country": "智利",
+  "phone_votes": {},
+  "tld_votes": {
+   "CH": 1
+  },
+  "suggest": "CH",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "alltron.ch"
+  ]
+ },
+ {
+  "code": "SC-2749",
+  "grade": "C",
+  "name": "dtcgroup.com.ua",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "UA": 1
+  },
+  "suggest": "UA",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "dtcgroup.com.ua"
+  ]
+ },
+ {
+  "code": "SC-286",
+  "grade": "C",
+  "name": "electroon.com",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {
+   "IN": 1,
+   "AE": 1
+  },
+  "tld_votes": {},
+  "suggest": "IN",
+  "confidence": "低",
+  "phones": [
+   "919090060680",
+   "971585785985"
+  ],
+  "domains": [
+   "electroon.com",
+   "alphabridge.tech"
+  ]
+ },
+ {
+  "code": "SC-2866",
+  "grade": "C",
+  "name": "kabel.sk",
+  "iso": "LK",
+  "country": "斯里兰卡",
+  "phone_votes": {},
+  "tld_votes": {
+   "SK": 1
+  },
+  "suggest": "SK",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "kabel.sk"
+  ]
+ },
+ {
+  "code": "SC-2867",
+  "grade": "C",
+  "name": "netconnexllc.com",
+  "iso": "US",
+  "country": "美国",
+  "phone_votes": {},
+  "tld_votes": {
+   "SG": 1
+  },
+  "suggest": "SG",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "netconnexllc.com",
+   "networxproducts.com",
+   "computercablestore.com"
+  ]
+ },
+ {
+  "code": "SC-2911",
+  "grade": "C",
+  "name": "Bright Solutions",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {},
+  "tld_votes": {
+   "AE": 1
+  },
+  "suggest": "AE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "brightsolutions.ae"
+  ]
+ },
+ {
+  "code": "SC-2912",
+  "grade": "C",
+  "name": "MAP, Al Mazroui&Patners LLC",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {
+   "AE": 1
+  },
+  "tld_votes": {},
+  "suggest": "AE",
+  "confidence": "中",
+  "phones": [
+   "97126745151",
+   "971502200827"
+  ],
+  "domains": [
+   "mazroui.com"
+  ]
+ },
+ {
+  "code": "SC-2927",
+  "grade": "C",
+  "name": "evasion.com.tn",
+  "iso": "TZ",
+  "country": "坦桑尼亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "TN": 1
+  },
+  "suggest": "TN",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "evasion.com.tn"
+  ]
+ },
+ {
+  "code": "SC-2975",
+  "grade": "C",
+  "name": "antena.md",
+  "iso": "BD",
+  "country": "孟加拉国",
+  "phone_votes": {},
+  "tld_votes": {
+   "MD": 1
+  },
+  "suggest": "MD",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "antena.md"
+  ]
+ },
+ {
+  "code": "SC-3020",
+  "grade": "C",
+  "name": "Comnet Europe",
+  "iso": "GB",
+  "country": "英国",
+  "phone_votes": {
+   "US": 1
+  },
+  "tld_votes": {},
+  "suggest": "US",
+  "confidence": "中",
+  "phones": [
+   "12037918747"
+  ],
+  "domains": [
+   "acre-int.com",
+   "comnet.net",
+   "acre-co.com"
+  ]
+ },
+ {
+  "code": "SC-3053",
+  "grade": "C",
+  "name": "alles.dp.ua",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "UA": 1
+  },
+  "suggest": "UA",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "alles.dp.ua"
+  ]
+ },
+ {
+  "code": "SC-3057",
+  "grade": "C",
+  "name": "kamery-hikvision.sk",
+  "iso": "SI",
+  "country": "斯洛文尼亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "SK": 1
+  },
+  "suggest": "SK",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "kamery-hikvision.sk"
+  ]
+ },
+ {
+  "code": "SC-3088",
+  "grade": "C",
+  "name": "FG SPECTRAL TEKNOLOJİ A.Ş",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {
+   "TR": 1
+  },
+  "tld_votes": {
+   "TR": 1
+  },
+  "suggest": "TR",
+  "confidence": "高",
+  "phones": [
+   "905369669277"
+  ],
+  "domains": [
+   "fgmarket.com.tr"
+  ]
+ },
+ {
+  "code": "SC-3153",
+  "grade": "C",
+  "name": "misgroup.co.za",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "ZA": 1
+  },
+  "suggest": "ZA",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "misgroup.co.za"
+  ]
+ },
+ {
+  "code": "SC-3155",
+  "grade": "C",
+  "name": "ue-it.de",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 1
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "ue-it.de"
+  ]
+ },
+ {
+  "code": "SC-3161",
+  "grade": "C",
+  "name": "cubetelecom.com",
+  "iso": "IN",
+  "country": "印度",
+  "phone_votes": {},
+  "tld_votes": {
+   "HK": 1
+  },
+  "suggest": "HK",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "cubetelecom.com",
+   "cubetelecom.net",
+   "google.com.hk"
+  ]
+ },
+ {
+  "code": "SC-3168",
+  "grade": "C",
+  "name": "Amateraso Trading LLC",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {
+   "AE": 1
+  },
+  "tld_votes": {},
+  "suggest": "AE",
+  "confidence": "中",
+  "phones": [
+   "97142839553",
+   "971555669676"
+  ],
+  "domains": [
+   "amateraso.com"
+  ]
+ },
+ {
+  "code": "SC-3189",
+  "grade": "C",
+  "name": "ae-.com",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {},
+  "tld_votes": {
+   "AE": 1
+  },
+  "suggest": "AE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "ae-.com",
+   "scientechic.ae"
+  ]
+ },
+ {
+  "code": "SC-3204",
+  "grade": "C",
+  "name": "koc.com.cn",
+  "iso": "ES",
+  "country": "西班牙",
+  "phone_votes": {
+   "ES": 1
+  },
+  "tld_votes": {
+   "CN": 1
+  },
+  "suggest": "CN",
+  "confidence": "低",
+  "phones": [
+   "34647055045"
+  ],
+  "domains": [
+   "koc.com.cn",
+   "kamaxeurope.com"
+  ]
+ },
+ {
+  "code": "SC-3206",
+  "grade": "C",
+  "name": "AXIS Communications AB (Worldwide Net Limited)",
+  "iso": "NG",
+  "country": "尼日利亚",
+  "phone_votes": {
+   "GB": 1
+  },
+  "tld_votes": {},
+  "suggest": "GB",
+  "confidence": "中",
+  "phones": [
+   "447405180593"
+  ],
+  "domains": [
+   "worldwidenetltd.com"
+  ]
+ },
+ {
+  "code": "SC-3242",
+  "grade": "C",
+  "name": "zulusites.eu",
+  "iso": "GB",
+  "country": "英国",
+  "phone_votes": {
+   "GR": 1
+  },
+  "tld_votes": {},
+  "suggest": "GR",
+  "confidence": "中",
+  "phones": [
+   "306976263116"
+  ],
+  "domains": [
+   "zulusites.eu"
+  ]
+ },
+ {
+  "code": "SC-3263",
+  "grade": "C",
+  "name": "ahmed.parvez79@gmail.com",
+  "iso": "CA",
+  "country": "加拿大",
+  "phone_votes": {
+   "US": 1
+  },
+  "tld_votes": {},
+  "suggest": "US",
+  "confidence": "中",
+  "phones": [
+   "9084757911"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-3300",
+  "grade": "C",
+  "name": "Nancy Khoury  拉黑了",
+  "iso": "??",
+  "country": "未填",
+  "phone_votes": {
+   "LB": 1
+  },
+  "tld_votes": {},
+  "suggest": "LB",
+  "confidence": "中",
+  "phones": [
+   "96170163869"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-3303",
+  "grade": "C",
+  "name": "KPK",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {
+   "VN": 1
+  },
+  "tld_votes": {
+   "RU": 1
+  },
+  "suggest": "VN",
+  "confidence": "低（域名支持原国别，电话可能是海外联系人）",
+  "phones": [
+   "89150193729",
+   "84966230093"
+  ],
+  "domains": [
+   "krk-grup.ru"
+  ]
+ },
+ {
+  "code": "SC-3316",
+  "grade": "C",
+  "name": "（未具名）",
+  "iso": "TR",
+  "country": "土耳其",
+  "phone_votes": {
+   "RS": 1
+  },
+  "tld_votes": {},
+  "suggest": "RS",
+  "confidence": "中",
+  "phones": [
+   "38163224651"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-3321",
+  "grade": "C",
+  "name": "STC",
+  "iso": "UA",
+  "country": "乌克兰",
+  "phone_votes": {
+   "IT": 1
+  },
+  "tld_votes": {
+   "UA": 1
+  },
+  "suggest": "IT",
+  "confidence": "低（域名支持原国别，电话可能是海外联系人）",
+  "phones": [
+   "39063820501"
+  ],
+  "domains": [
+   "stc.kiev.ua"
+  ]
+ },
+ {
+  "code": "SC-383",
+  "grade": "C",
+  "name": "ysesq.com",
+  "iso": "CA",
+  "country": "加拿大",
+  "phone_votes": {
+   "US": 1
+  },
+  "tld_votes": {},
+  "suggest": "US",
+  "confidence": "中",
+  "phones": [
+   "12139851947"
+  ],
+  "domains": [
+   "ysesq.com"
+  ]
+ },
+ {
+  "code": "SC-490",
+  "grade": "C",
+  "name": "hattelandtechnology.com",
+  "iso": "NO",
+  "country": "挪威",
+  "phone_votes": {},
+  "tld_votes": {
+   "SE": 1
+  },
+  "suggest": "SE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "hattelandtechnology.com",
+   "hattelandtechnology.se"
+  ]
+ },
+ {
+  "code": "SC-523",
+  "grade": "C",
+  "name": "securitysupplies.ae",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {},
+  "tld_votes": {
+   "AE": 1
+  },
+  "suggest": "AE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "securitysupplies.ae"
+  ]
+ },
+ {
+  "code": "SC-541",
+  "grade": "C",
+  "name": "willdoo.it",
+  "iso": "AU",
+  "country": "澳大利亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "IT": 1,
+   "AU": 1
+  },
+  "suggest": "IT",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "willdoo.it",
+   "streakwave.com.au"
+  ]
+ },
+ {
+  "code": "SC-542",
+  "grade": "C",
+  "name": "xonelec.kr",
+  "iso": "AU",
+  "country": "澳大利亚",
+  "phone_votes": {},
+  "tld_votes": {
+   "KR": 1,
+   "AU": 1
+  },
+  "suggest": "KR",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "xonelec.kr",
+   "x-on.com.au"
+  ]
+ },
+ {
+  "code": "SC-546",
+  "grade": "C",
+  "name": "AMZ Solutions",
+  "iso": "AF",
+  "country": "阿富汗（Ariana）",
+  "phone_votes": {
+   "TN": 1
+  },
+  "tld_votes": {},
+  "suggest": "TN",
+  "confidence": "中",
+  "phones": [
+   "21629419000",
+   "50419643"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-547",
+  "grade": "C",
+  "name": "Airnav",
+  "iso": "ID",
+  "country": "印度尼西亚",
+  "phone_votes": {
+   "HK": 1
+  },
+  "tld_votes": {},
+  "suggest": "HK",
+  "confidence": "中",
+  "phones": [
+   "85223097553"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-577",
+  "grade": "C",
+  "name": "leap-networks.ae",
+  "iso": "SA",
+  "country": "沙特阿拉伯",
+  "phone_votes": {
+   "AE": 1
+  },
+  "tld_votes": {
+   "AE": 1
+  },
+  "suggest": "AE",
+  "confidence": "高",
+  "phones": [
+   "971509677259"
+  ],
+  "domains": [
+   "leap-networks.ae"
+  ]
+ },
+ {
+  "code": "SC-620",
+  "grade": "C",
+  "name": "husamalfahed@gmail.com",
+  "iso": "LV",
+  "country": "拉脱维亚",
+  "phone_votes": {
+   "YE": 1
+  },
+  "tld_votes": {},
+  "suggest": "YE",
+  "confidence": "中",
+  "phones": [
+   "967774563938"
+  ],
+  "domains": []
+ },
+ {
+  "code": "SC-668",
+  "grade": "C",
+  "name": "Isyana Delta Anugrah",
+  "iso": "ID",
+  "country": "印度尼西亚",
+  "phone_votes": {
+   "HK": 1
+  },
+  "tld_votes": {},
+  "suggest": "HK",
+  "confidence": "中",
+  "phones": [
+   "85216089949"
+  ],
+  "domains": [
+   "isyanadeltaanugrah.com"
+  ]
+ },
+ {
+  "code": "SC-714",
+  "grade": "C",
+  "name": "avant.by",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "BY": 1
+  },
+  "suggest": "BY",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "avant.by"
+  ]
+ },
+ {
+  "code": "SC-765",
+  "grade": "C",
+  "name": "e-server.com.ua",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "UA": 1
+  },
+  "suggest": "UA",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "e-server.com.ua"
+  ]
+ },
+ {
+  "code": "SC-782",
+  "grade": "C",
+  "name": "exara.ru",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {
+   "CN": 1
+  },
+  "tld_votes": {
+   "RU": 1
+  },
+  "suggest": "CN",
+  "confidence": "低（域名支持原国别，电话可能是海外联系人）",
+  "phones": [
+   "8617357159044"
+  ],
+  "domains": [
+   "exara.ru"
+  ]
+ },
+ {
+  "code": "SC-828",
+  "grade": "C",
+  "name": "itnext.by",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "BY": 1
+  },
+  "suggest": "BY",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "itnext.by"
+  ]
+ },
+ {
+  "code": "SC-829",
+  "grade": "C",
+  "name": "itrade.uz",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "UZ": 1
+  },
+  "suggest": "UZ",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "itrade.uz"
+  ]
+ },
+ {
+  "code": "SC-838",
+  "grade": "C",
+  "name": "koscomcable.com",
+  "iso": "US",
+  "country": "美国",
+  "phone_votes": {
+   "US": 1
+  },
+  "tld_votes": {
+   "UA": 1
+  },
+  "suggest": "UA",
+  "confidence": "低",
+  "phones": [
+   "5623350439"
+  ],
+  "domains": [
+   "koscomcable.com",
+   "cdc.ua"
+  ]
+ },
+ {
+  "code": "SC-840",
+  "grade": "C",
+  "name": "kvintek.com.ua",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {
+   "RU/KZ": 1
+  },
+  "tld_votes": {
+   "UA": 1
+  },
+  "suggest": "UA",
+  "confidence": "低",
+  "phones": [
+   "79787358288"
+  ],
+  "domains": [
+   "kvintek.com.ua",
+   "kvintek.com"
+  ]
+ },
+ {
+  "code": "SC-883",
+  "grade": "C",
+  "name": "nout.kz",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "KZ": 1
+  },
+  "suggest": "KZ",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "nout.kz"
+  ]
+ },
+ {
+  "code": "SC-895",
+  "grade": "C",
+  "name": "piezosystem.com",
+  "iso": "US",
+  "country": "美国",
+  "phone_votes": {},
+  "tld_votes": {
+   "DE": 1
+  },
+  "suggest": "DE",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "piezosystem.com",
+   "piezojena.com",
+   "piezosystem.de"
+  ]
+ },
+ {
+  "code": "SC-932",
+  "grade": "C",
+  "name": "securit.by",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "BY": 1
+  },
+  "suggest": "BY",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "securit.by"
+  ]
+ },
+ {
+  "code": "SC-950",
+  "grade": "C",
+  "name": "stalviscom.by",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "BY": 1
+  },
+  "suggest": "BY",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "stalviscom.by"
+  ]
+ },
+ {
+  "code": "SC-977",
+  "grade": "C",
+  "name": "utepo.by",
+  "iso": "RU",
+  "country": "俄罗斯",
+  "phone_votes": {},
+  "tld_votes": {
+   "BY": 1
+  },
+  "suggest": "BY",
+  "confidence": "低",
+  "phones": [],
+  "domains": [
+   "utepo.by"
+  ]
+ }
+]

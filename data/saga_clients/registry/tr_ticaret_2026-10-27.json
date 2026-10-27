@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 21
+  "count": 25
  },
  "rows": {
   "SA-086": {
@@ -703,6 +703,131 @@
    "notes": "研究档 legal_name 已有 A.Ş.；补成立 / 人数 / 品牌线；KP 无。",
    "fetched": "2026-10-27",
    "code": "SB-861"
+  },
+  "SB-294": {
+   "batch": 90,
+   "name": "Viva Bilgisayar Bilgisayar & Güvenlik Sistemleri（Defne / Hatay；推定 şahıs）",
+   "iso": "TR",
+   "source": "TR · 1 次检索：官网 iletişim / kurumsal（地址 / 电话与用户表一致）+ LinkedIn İsmet Yavuz（Hikvision Hatay Silver Partner 帖）+ worldorgs 名录（Antakya 旧址 + haikonhatay.com）；注意 ≠ 伊斯坦布尔 Şişli 同名电脑批发商",
+   "url": "https://vivabilgisayar.net/kurumsal/",
+   "number": "未取（Ticaret Sicil 未命中；推定个体）",
+   "status": "Aktif（官网 2026-07 更新）",
+   "incorporated": "未取（LinkedIn 2016 起有活动）",
+   "company_type": "推定 şahıs işletmesi",
+   "sic": [
+    "软件 / 网页 + 电脑硬件 + **安防系统**（Hikvision Hatay Silver Partner / 项目集成 / 经销）+ 网络布线；哈塔伊省（2023 地震重建区）"
+   ],
+   "address": "Sümerler Mah. 16. Sk. No:16/3, Defne / Hatay（旧址 Odabaşı Mah. Atatürk Blv. 127/1, Antakya）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（业主 + 数人）",
+   "officers": [
+    "İsmet YAVUZ — 业主（LinkedIn「Viva Bilgisayar」；Selçuk Üniversitesi）= 研究档 KP，老板 = 联系人（is_ya@hotmail.com）"
+   ],
+   "psc": "İsmet Yavuz",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：İsmet Yavuz 是哈塔伊（安塔基亚）的 Hikvision 银牌经销 + 集成小店，2023 地震后重建区需求 = 住宅 / 商铺摄像机配 4/8 口 PoE** → WhatsApp 土耳其语一页：STI-054GP / STC-028GP + 16 口（STC-228GP），分销 20%，100% 预付；更划算的是接到我们 TR 分销户（伊斯坦布尔）拿货",
+    "不再检索"
+   ],
+   "notes": "研究档 hq 回填 Defne / Hatay；KP 角色已有「Boss / 业主」。",
+   "fetched": "2026-10-27",
+   "code": "SB-294"
+  },
+  "SB-389": {
+   "batch": 90,
+   "name": "HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ（İzmir 总部；Eskişehir 为分部）",
+   "iso": "TR",
+   "source": "TR · 1 次检索：官网 iletişim（商号 / 税号 3330751186 Gaziemir）+ belgelerimiz（2014 成立、BTK ISP + 基础设施运营牌照、İzmir 总部）+ bgp.he.net / ipinfo（AS216192，2023-10 分配，1,536 IPv4，自有 /24 ×6）",
+   "url": "https://hiperonline.com.tr/belgelerimiz",
+   "number": "Vergi No 3330751186（Gaziemir Vergi Dairesi，İzmir）· AS216192（RIPE，2023-10-10）",
+   "status": "Aktif（官网 .com.tr 在线；**.com 域已死 → 研究档地址 eskisehir@hiperonline.com 退信，改用 @hiperonline.com.tr**）",
+   "incorporated": "2014（官网）",
+   "company_type": "Limited Şirket（股东未取）",
+   "sic": [
+    "**ISP + 基础设施运营商**（BTK 双牌照）：İzmir 等地自建光纤 + AirFiber 无线接入，其余 81 省走批发线路；企业 Metro Ethernet；AS216192 对等 HizliNet / Güneydoğu Telekom"
+   ],
+   "address": "İzmir（Gaziemir 税务局辖区）；分部 Eskişehir（0850 840 98 83）",
+   "accounts": "—（TR 不公示）；自有 IP 1,536 个 = 小型 ISP（数千用户级）",
+   "accounts_due": "—",
+   "size_band": "小型 ISP（估 10–30 人）",
+   "officers": [
+    "研究档 KP 仅「Eskişehir 办公室」；管理层未公开 → 写 info@ / teknik@ @hiperonline.com.tr 问 Teknik Müdür"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**硬发现：Hiperonline 不是埃斯基谢希尔小店，是伊兹密尔的持牌 ISP（自有光纤 + 无线，AS216192），而我们手里的 .com 域已死 → 第 82 批把它列进「域死 10 户」是误伤，公司活得好好的，只是换了 .com.tr** → 按 ISP 线写：接入层 24 口管理型 + 10G 上联（STC-424XGGPM / STI-0240GE）、无线基站点 DIN 工业 PoE（STI 系列）、分销 20%；Q-64 名单把 SB-389 移出（改地址不剔除）",
+    "付款：ISP 对设备商习惯 30 天 —— 首单 50/50，三单后再谈；DAP 伊兹密尔走 Saga 百运网线；TR 周四 10–12",
+    "复查：ipinfo AS216192 的 IP 数量年看一次（增长 = 扩网 = 采购）"
+   ],
+   "notes": "研究档 legal_name 已有；hq 纠正 İzmir；Q-64 死域名单修正。",
+   "fetched": "2026-10-27",
+   "code": "SB-389"
+  },
+  "SB-467": {
+   "batch": 90,
+   "name": "Nortel İletişim（Antalya；法定类型未取）",
+   "iso": "TR",
+   "source": "TR · 1 次检索：官网首页 + HizmetDetay（两处地址、业务线：Avaya IP 交换机 / 数据布线 / CCTV / 光纤 / 消防 / 紧急广播）",
+   "url": "http://norteliletisim.com/",
+   "number": "未取",
+   "status": "Aktif（官网在线）",
+   "incorporated": "未取（自述「uzun yıllar」）",
+   "company_type": "未知（Ltd. Şti. 或 şahıs）",
+   "sic": [
+    "电信 / 数据网络 / IP 安防 / 光纤骨干 集成（Avaya IP 交换机经销、结构化布线、机房、CCTV、火警、紧急广播）"
+   ],
+   "address": "Varlık Mah. Piri Reis Cad. No:19/B, Muratpaşa / Antalya（+ Yükseliş Mah. 2116 Sk. 26/A, Kepez / Antalya）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（估 5–15 人）",
+   "officers": [
+    "Bayram TATLI — 研究档 KP（bayram@norteliletisim.com；职务未核；推定业主 / 经理）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安塔利亚的电信 + 布线 + CCTV 集成商（Avaya 经销），酒店 / 旅游业项目多** → 集成 25%：酒店楼层 24 口 PoE 管理型（STC-424XGGPM）+ 光纤上联，配 Avaya IP 话机的 PoE 预算（802.3af 全口）是卖点；写 Bayram 本人；首单 50/50；旺季前 2–4 月是酒店改造窗口；TR 周四 10–12",
+    "不再检索"
+   ],
+   "notes": "研究档 hq 回填 Antalya。",
+   "fetched": "2026-10-27",
+   "code": "SB-467"
+  },
+  "SB-686": {
+   "batch": 90,
+   "name": "Tek Nokta Destek Güvenlik Sistemleri（İnegöl / Bursa；推定 şahıs）",
+   "iso": "TR",
+   "source": "TR · 1 次检索：官网首页 / iletişim（地址、分店电话、sameAs → x.com/RifatYILDI…）+ 产品页（Zyxel 交换机 / AP、Dahua DSS、Tiandy / Hikvision、Paradox / Ajax）+ Facebook（Kemalpaşa Mh. 旧址、招聘安装工）",
+   "url": "https://teknoktadestek.com/index.php?route=information%2Fcontact",
+   "number": "未取",
+   "status": "Aktif（官网 2026 在线，有分店）",
+   "incorporated": "未取",
+   "company_type": "推定 şahıs（店名 + 业主社媒）",
+   "sic": [
+    "安防（摄像机 / 报警 / 智能家居 / 考勤门禁）+ **网络系统**（Zyxel 交换机 / AP / 5G 路由在售）集成 + 小分销（「11 个全球品牌，全国供货」）；İnegöl 总店 + 分店"
+   ],
+   "address": "Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（旧址 Kemalpaşa Mh. Özsaraç Sk. 29/B）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（两店 + 安装队；估 5–10 人）",
+   "officers": [
+    "Rıfat YILDIZ — 业主（官网 sameAs 指向其个人 X 账号；研究档记「Rıfat Bende」为误读）= 老板 = 联系人（0532 315 7258 / info@）"
+   ],
+   "psc": "Rıfat Yıldız",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Rıfat Yıldız 的 İnegöl 两店安防 + 网络小分销（在卖 Zyxel 交换机 / AP，有网店标价习惯「WhatsApp 问价」）** → 分销 20%：Zyxel 价位之下的 PoE 8/16/24 口 + 管理型，网店可挂我们型号；MOQ 1 箱、100% 预付；布尔萨家具业工厂（İnegöl 是家具之都）= 工业 PoE（STI）场景；TR 周四 10–12",
+    "不再检索"
+   ],
+   "notes": "研究档 KP 名字纠正 Rıfat Yıldız；hq 回填。",
+   "fetched": "2026-10-27",
+   "code": "SB-686"
   }
  }
 }

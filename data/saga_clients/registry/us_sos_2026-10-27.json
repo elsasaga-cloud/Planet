@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 29
+  "count": 34
  },
  "rows": {
   "SA-002": {
@@ -998,6 +998,165 @@
    "notes": "研究档 legal_name 回填；KP Bodley = Founder & President；hq 改 Bonita Springs FL。",
    "fetched": "2026-10-27",
    "code": "SB-759"
+  },
+  "SB-363": {
+   "batch": 90,
+   "name": "Meridian Technologies, Inc.（Elmont, NY；光纤传输设备制造商）",
+   "iso": "US",
+   "source": "US · 1 次检索：官网首页（「我们制造视频 / 音频 / 数据光纤传输系统」）+ LinkedIn 公司页（1990 成立、纽约州注册、Elmont NY、11–50 人、制造业）；**同名陷阱**：Jacksonville FL 的 Meridian Technologies（IT 人力外包，1998，CSI 收购）与本户无关，Sunbiz / SAM 结果全部属于那家",
+   "url": "https://www.meridian-tech.com/",
+   "number": "未取（NY DOS 检索 JS-only）",
+   "status": "Active（官网 + LinkedIn 在线）",
+   "incorporated": "1990（LinkedIn）",
+   "company_type": "Inc.（纽约州）",
+   "sic": [
+    "光纤传输系统制造（视频 / 音频 / 数据 / 接触闭合 光端机，安防 / 交通 / 广电）—— 与 Saga 光纤交换机 + SFP 场景相邻"
+   ],
+   "address": "Elmont, NY 11003（长岛，距纽约市 20 英里）",
+   "accounts": "—（私营）",
+   "accounts_due": "—",
+   "size_band": "11–50 人（LinkedIn）",
+   "officers": [
+    "Denise SHAY — 研究档 KP（sales@；职务待核）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**纽约长岛的光端机制造商（1990），客户是安防 / 交通集成商 —— 他们卖光端机，我们卖带 SFP 的 PoE 交换机，是同一张 BOM 上的相邻两行** → 写 Denise：OEM 30%「Meridian 牌」工业 PoE 交换机（STI-154GP / STI-288DGGPM）补其产品线，或分销 20%；FCC + CE，no UL（如实）；US 周三 08–10 EST（北京 21–23）",
+    "不说：不提 Jacksonville 同名公司；不提 UL / NDAA",
+    "复查：不再检索"
+   ],
+   "notes": "研究档 hq 回填 Elmont NY；同名公司警示。",
+   "fetched": "2026-10-27",
+   "code": "SB-363"
+  },
+  "SB-773": {
+   "batch": 90,
+   "name": "Microseven Systems, LLC（Walnut, CA；IP 摄像机 + 流媒体）",
+   "iso": "US",
+   "source": "US · 1 次检索：官网 about-history（2001 成立、2009 注册商标 Microseven®）+ LinkedIn（2003、Walnut CA、自称 51–200）+ Thomasnet（1–9 人、<$1M）+ LeadIQ（≈2 人、404 S Lemon Ave Ste 9）+ ZoomInfo（创始人 James Cao）+ Yelp（电话 909-348-5577）；注意 microseven.org「Michigan 边缘 AI」页面（2025）是否同主体未核",
+   "url": "https://www.microseven.com/corporate/about-history.html",
+   "number": "未取（CA SoS 需名称检索；未查）",
+   "status": "Active（网店在售，有 Clearance 页）",
+   "incorporated": "2001（官网）/ 2003（LinkedIn）",
+   "company_type": "LLC（加州）",
+   "sic": [
+    "IP 摄像机（PoE / Wi-Fi / 4K / PTZ）+ 自建流媒体平台 + 定制软件；网店直销 + Amazon"
+   ],
+   "address": "404 S Lemon Ave Ste 9, Walnut, CA 91789（洛杉矶东）",
+   "accounts": "Thomasnet 估 <$1M（量级）",
+   "accounts_due": "—",
+   "size_band": "微型（1–9 人；LinkedIn 数字虚高）",
+   "officers": [
+    "James CAO — 创始人（ZoomInfo）；研究档无 KP（techsupport@ 地址）"
+   ],
+   "psc": "James Cao",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**华人创业的小 IP 摄像机品牌（Walnut CA，实际数人），自己就从国内拿货 —— 交换机对他只是配件位，且 techsupport@ 不是采购口** → 留档不追；如来询报 STI-054GP / STC-028GP 分销 20%、100% 预付、FOB 深圳（他们自己有拼柜）"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-773"
+  },
+  "SB-913": {
+   "batch": 90,
+   "name": "LanPro Networks Inc.（原 LanPro of Miami, Inc.；Doral, FL）",
+   "iso": "US",
+   "source": "US · 1 次检索：Sunbiz 详情（P03000135286，2003-11-19，FEI 20-3029519，2016-02-16 改名，1880 NW 93 Ave Doral）+ bizprofile / bisprofiles 镜像 + 官网（LanPro® 品牌、One Stop Source、「factory representative, export worldwide」、为 Claro® 定制光纤配线架）+ LinkedIn（品牌 1997 起、11–50）+ Cortera（销售额 $5–10M、5–10 人）+ metoree（产品含 IEEE PoE 交换机）",
+   "url": "https://www.lanpro.com/",
+   "number": "FL Document P03000135286 · FEI/EIN 20-3029519",
+   "status": "Active（Sunbiz）",
+   "incorporated": "2003-11-19（FL；品牌 LanPro® 自 1997）",
+   "company_type": "Florida Profit Corporation",
+   "sic": [
+    "**自有品牌 LanPro® 网络 / 电信基础设施产品（铜缆 / 光纤 / 机柜 / 无线 / 有源 PoE 交换机）**，面向拉美系统集成商 + 分销网；不做集成安装；「工厂代表」= 自己找代工出口全球；客户案例 Claro（美洲移动）"
+   ],
+   "address": "1880 NW 93rd Ave, Doral, FL 33172（迈阿密机场工业区）",
+   "accounts": "Cortera 估销售 $5–10M（区间量级）",
+   "accounts_due": "—（FL 年报每年 5-01 前）",
+   "size_band": "5–10 人（Cortera）/ 11–50（LinkedIn）",
+   "officers": [
+    "Trinidad LEDEZMA — 研究档 KP（asktolanpro@gmail.com = 官网公开 DM 地址，非私人邮箱）",
+    "法定高管未取（Sunbiz 详情页高管段未抓到）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "LANPRO OF MIAMI, INC.（→ 2016-02-16 改名 LanPro Networks Inc.）"
+   ],
+   "lines": [
+    "**硬发现：LanPro 是迈阿密的自有品牌「拉美一站式网络配件」OEM 品牌商（有源产品含 PoE 交换机，自称「工厂代表」= 找中国代工），客户是拉美集成商 / Claro 级运营商 —— 目标顺序第 1 类 OEM 品牌商** → 写 Trinidad：OEM 30%「LanPro 牌」PoE 交换机 8/16/24 口 + 工业 DIN（拉美户外机柜），FCC + CE，110–240V；拉美走迈阿密中转 = 报 DAP 迈阿密或 FOB 深圳；US 周三 08–10 EST（北京 21–23）",
+    "SB-771 lanprosa.com（Samanta Navarro）疑为同一品牌的拉美公司（LanPro S.A.），见该行；若同集团 → 并一线",
+    "复查：Sunbiz 年报（5 月）看高管变更"
+   ],
+   "notes": "研究档 facts 补 legal / founded / hq。",
+   "fetched": "2026-10-27",
+   "code": "SB-913"
+  },
+  "SB-994": {
+   "batch": 90,
+   "name": "Accurate Technologies Inc.（ATI；Novi, Michigan）",
+   "iso": "US",
+   "source": "US · 1 次检索：官网 AboutATI / Locations（1992、Novi 120,000 sq ft 研发制造基地、子公司 CN/FR/DE/IN/JP/SE/UK）+ Bloomberg（成立 1992-02-04）+ LinkedIn（51–200）+ Kvaser / ASAM 会员页 + largestcompanies（瑞典子公司 Accurate Technologies AB，2003）",
+   "url": "https://www.accuratetechnologies.com/AboutATI",
+   "number": "未取（MI LARA 可查，未查）",
+   "status": "Active",
+   "incorporated": "1992-02-04（Bloomberg）",
+   "company_type": "Inc.（密歇根州私营）",
+   "sic": [
+    "汽车 ECU 测量 / 标定 / 诊断（MCD）软硬件制造：数据采集、网络分析（CAN/以太网）、快速原型；客户 OEM / Tier 1 + 国防 / 船舶 / 航空"
+   ],
+   "address": "26999 Meadowbrook Rd, Novi, MI 48377",
+   "accounts": "—（私营）",
+   "accounts_due": "—",
+   "size_band": "51–200 人（LinkedIn）；7 国子公司",
+   "officers": [
+    "研究档无 KP（sales@）；管理层未取"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**汽车测试仪器厂商，不是渠道，也不是我们守界内的客户（国防 / 航空客户群）；交换机对他们只是实验室耗材** → 不追（留档）；若来询只报标准型号 + 100% 预付"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-994"
+  },
+  "SB-1136": {
+   "batch": 90,
+   "name": "Fiber Optics For Sale Co.（FOSCO Connect；Pleasanton / Livermore, CA）",
+   "iso": "US",
+   "source": "US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavis Dr Pleasanton；仓库 61 Rickenbacker Cir Ste C Livermore）+ BBB（2003-08-04 注册公司，12 人，Colin Yao）+ LinkedIn（11–50，Fremont 旧址）+ eBay 店 + Bloomberg（电子件批发）",
+   "url": "https://www.fiberoptics4sale.com/pages/about-us",
+   "number": "未取（CA SoS 需名称检索）",
+   "status": "Active（网店 + eBay 在售）",
+   "incorporated": "2003-08-04（BBB；业务始于 2001）",
+   "company_type": "Corporation（加州）",
+   "sic": [
+    "光纤 datacom / telecom 产品备货分销（跳线 / 连接器 / 光模块 / 媒体转换器 / 工具 / 测试仪 / OSP 接头盒），网店 + eBay；硅谷东湾"
+   ],
+   "address": "269 Mavis Drive, Pleasanton, CA 94566（仓 Livermore；旧址 Fremont 42660 Christy St / Milpitas）",
+   "accounts": "自述「multi-million dollar annual sales」；RocketReach 估 $5.8M（量级）",
+   "accounts_due": "—",
+   "size_band": "11–50 人（LinkedIn）/ 12（BBB）",
+   "officers": [
+    "Colin YAO — 创始人 / 业主（官网 + BBB「Sales Manager」= 老板亲自管销售）= 老板 = 联系人",
+    "Grace — 研究档 KP（Fosco Sales）"
+   ],
+   "psc": "Colin Yao",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**硬发现：用户表「CA」是加州不是加拿大（第 3 个此类误判：Maxcom / Infinite Cables / FOSCO）—— country_fix → 美国** → 老板 = 联系人：写 Colin Yao（cc Grace）：分销 20%，光口交换机补其光纤货架（STI-154GP 4 PoE+1 SFP、STC-110XGE 10G、STI-288DGGPM 2.5G 光），FCC + CE；他们自己有拼柜 → FOB 深圳；US 周三 08–10 PST（北京 23–01）",
+    "不说：Saga 不供媒体转换器 / 光模块（他们主业），只做交换机档位"
+   ],
+   "notes": "country_fix 美国。",
+   "fetched": "2026-10-27",
+   "code": "SB-1136"
   }
  }
 }

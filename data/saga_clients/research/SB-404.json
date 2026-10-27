@@ -50,7 +50,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5） ｜ 国别更正为「沙特阿拉伯」（country_fix）：域名 teamac-arabia.com + 电话 +966 530708118（沙特国家码）；表内阿联酋（Q-65 国别机检 2026-10-27）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -123,5 +123,6 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "沙特阿拉伯"
 }

@@ -70,7 +70,7 @@
  ],
  "grade_override": "B",
  "override_reason": "需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。",
- "notes": "WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。",
+ "notes": "WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。 ｜ 国别更正为「英国」（country_fix）：研究档已核 4DEMAND LTD（Companies House 14564199，伦敦地址）；表内「阿联酋」来自 +971 联系人手机（Q-65 国别机检 2026-10-27）",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -177,5 +177,6 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "英国"
 }

@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 27
+  "count": 28
  },
  "rows": {
   "SA-061": {
@@ -834,6 +834,37 @@
    "notes": "无免费登记源；下一轮若找到镜像再补。",
    "fetched": "2026-10-27",
    "code": "SA-032"
+  },
+  "SB-771": {
+   "batch": 90,
+   "name": "Lanprosa S.A.（San José, Costa Rica）",
+   "iso": "CR",
+   "source": "CR · 1 次检索：官网首页 / sobre-nosotros / contactanos（Calle Blancos, San Francisco de Goicoechea；+506 2221-8800；Ruijie / Reyee / Lantek / Hikvision 代理）+ LinkedIn（100% 哥斯达黎加公司，11–50 人，Goicoechea）+ contactout（2003 成立）+ RocketReach（22 人）+ CPIC（「依哥斯达黎加法律设立，16 年以上」）",
+   "url": "https://lanprosa.com/sobre-nosotros/",
+   "number": "未取（Registro Nacional 需付费）",
+   "status": "Active（官网 2026-10 更新）",
+   "incorporated": "2003（contactout；自述 20 年经验）",
+   "company_type": "S.A.（哥斯达黎加股份公司）",
+   "sic": [
+    "网络 / 电信 / CCTV 分销 + 项目：Ruijie / Reyee（主推）、Lantek、Hikvision、Ubiquiti、MikroTik、Grandstream、Epcom、Utepo、EZVIZ；WiFi 6/7 AP、L2/L3 管理型交换机、结构化布线、光纤"
+   ],
+   "address": "Calle Blancos, San Francisco de Goicoechea, San José 11502, Costa Rica",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "11–50 人（LinkedIn；RocketReach 22）",
+   "officers": [
+    "Samanta NAVARRO — 研究档 KP（web@；职务待核）；管理层未公开"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**硬发现：用户表记美国，其实是哥斯达黎加圣何塞的网络 / CCTV 分销商（Ruijie / Reyee 主代理，20 年），与迈阿密 LanPro（SB-913）仅名字相似，无从证实同集团 —— 不并线** → 拉美非主攻区：留档，只在有 Reyee 价位之下的 PoE 新品时写一封（分销 20%，FOB 深圳或 DAP 迈阿密转运，100% 预付，CE/FCC）；国别已更正（country_fix → 哥斯达黎加）",
+    "不说：不提 Ruijie；不提 LanPro Miami"
+   ],
+   "notes": "country_fix 哥斯达黎加；research hq 回填。",
+   "fetched": "2026-10-27",
+   "code": "SB-771"
   }
  }
 }

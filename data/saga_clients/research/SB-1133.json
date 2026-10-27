@@ -1,209 +1,210 @@
 {
-  "code": "SB-1133",
-  "name_official": "Netram Memory GmbH",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（netram.de；并档 Planet 渠道档案 PB-095）",
-  "summary": "Wuppertal 的光模块 / 光纤 / 内存分销商，有源组件子类目列 PLANET 商用与工业交换机（无价无库存）。类型：IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）。信号：netram.de 商品页：SGSW-24040P4 / SGSW-24040HP（24×GE PoE + 4 SFP）、GS-4210-24P2S、IGS-20160HPT（SKU NRM10918）、GS-2240-48T4X（NRM10831）、页内关联 IGS-6330-24T4S / WGSW-28040；价格页面未显示（登录 / 询价口径），库存未知。Planet 渠道档案 PB-095 评级 B（需求：6 款 PLANET 交换机商品页 + 自编货号（NRM10918 / NRM10831）→ 在售但无价无库存、交换机为主业之外的补充线；触达：info@netram.de + 0202 / 75805-0 公开（Impressum），总经理 Jürgen Hübner 具名但无公开邮箱；体量：Wuppertal 业主经营分销（1997 年起）→ 可赢；Gmail：Elsa 账号 2025-03-28 → 2026-08-31 以 BCC 群发 9 封至 info@netram.de，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★（无价无库存 + 非主业 + 疲劳））。并档说明：Saga 表内本条 SB-1133（未填）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "PLANET"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "法律实体 / 地址 / 总经理 / 公开邮箱",
-      "quote": "Netram Memory GmbH Dohlenweg 6 42115 Wuppertal Deutschland Telefon: 0202758050 E-Mail: info@netram.de Geschäftsführer: Jürgen Hübner Handelsregister: Wuppertal, HRB 19078",
-      "url": "https://www.netram.de/Impressum",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网",
-      "claim": "主营类目结构（光纤 / 光模块主业，有源组件为子类目）",
-      "quote": "Alle Kategorien … Glasfaserprodukte … Transceiver … DAC & AOC Kabel … LWL Patchkabel … CWDM Multiplexer … APL FTTH Boxen … Aktive Komponenten … Speicherlösungen … Bitte wenden Sie sich an unser Vertriebsteam … Die Rufnummer lautet Tel.: 0202/75805-0",
-      "url": "https://www.netram.de/404",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "PLANET SGSW-24040P4 / SGSW-24040HP 商品页",
-      "quote": "SGSW-24040P4 … NETRAM ｜ SGSW-24040HP … NETRAM（PLANET 24-Port PoE 管理型；页面未显示价格 → 价格 / 库存待补证）",
-      "url": "https://www.netram.de/sgsw-24040p4-EN",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "PLANET IGS-20160HPT / GS-2240-48T4X 商品页（自编货号）",
-      "quote": "IGS-20160HPT … SKU NRM10918 ｜ GS-2240-48T4X … NRM10831",
-      "url": "https://www.netram.de/igs-20160hpt-EN",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "关联 PLANET 型号",
-      "quote": "gs724t-400eus … 关联列出 IGS-6330-24T4S、WGSW-28040、GS-4210-24P2S（PLANET）",
-      "url": "https://www.netram.de/gs724t-400eus-EN",
-      "date": "2026-10-20"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Jürgen Hübner",
-      "title": "Geschäftsführer；Impressum 具名；无公开个人邮箱 → 不写",
-      "email": "",
-      "phone": "+49 202 75805-0",
-      "source": "https://www.netram.de/Impressum"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "Planet 渠道档案 PB-095 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-095，W 批次调研 2026-10-19/20）"
+ "code": "SB-1133",
+ "name_official": "Netram Memory GmbH",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（netram.de；并档 Planet 渠道档案 PB-095）",
+ "summary": "Wuppertal 的光模块 / 光纤 / 内存分销商，有源组件子类目列 PLANET 商用与工业交换机（无价无库存）。类型：IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）。信号：netram.de 商品页：SGSW-24040P4 / SGSW-24040HP（24×GE PoE + 4 SFP）、GS-4210-24P2S、IGS-20160HPT（SKU NRM10918）、GS-2240-48T4X（NRM10831）、页内关联 IGS-6330-24T4S / WGSW-28040；价格页面未显示（登录 / 询价口径），库存未知。Planet 渠道档案 PB-095 评级 B（需求：6 款 PLANET 交换机商品页 + 自编货号（NRM10918 / NRM10831）→ 在售但无价无库存、交换机为主业之外的补充线；触达：info@netram.de + 0202 / 75805-0 公开（Impressum），总经理 Jürgen Hübner 具名但无公开邮箱；体量：Wuppertal 业主经营分销（1997 年起）→ 可赢；Gmail：Elsa 账号 2025-03-28 → 2026-08-31 以 BCC 群发 9 封至 info@netram.de，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★（无价无库存 + 非主业 + 疲劳））。并档说明：Saga 表内本条 SB-1133（未填）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "法律实体 / 地址 / 总经理 / 公开邮箱",
+   "quote": "Netram Memory GmbH Dohlenweg 6 42115 Wuppertal Deutschland Telefon: 0202758050 E-Mail: info@netram.de Geschäftsführer: Jürgen Hübner Handelsregister: Wuppertal, HRB 19078",
+   "url": "https://www.netram.de/Impressum",
+   "date": "2026-10-20"
   },
-  "company_facts": {
-    "legal_name": "Netram Memory GmbH",
-    "founded": "",
-    "hq": "Wuppertal（Dohlenweg 6, 42115 Wuppertal, NRW）, 德国",
-    "size": "",
-    "other": "Planet 渠道档案 PB-095（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（NETRAM 为自编货号 / 兼容光模块品牌）；最大未知：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存"
+  {
+   "kind": "官网",
+   "claim": "主营类目结构（光纤 / 光模块主业，有源组件为子类目）",
+   "quote": "Alle Kategorien … Glasfaserprodukte … Transceiver … DAC & AOC Kabel … LWL Patchkabel … CWDM Multiplexer … APL FTTH Boxen … Aktive Komponenten … Speicherlösungen … Bitte wenden Sie sich an unser Vertriebsteam … Die Rufnummer lautet Tel.: 0202/75805-0",
+   "url": "https://www.netram.de/404",
+   "date": "2026-10-20"
   },
-  "business_lines": [
-    "IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）"
-  ],
-  "products_seen": [
-    {
-      "brand": "PLANET",
-      "model": "SGSW-24040P4",
-      "spec": "24×GE PoE+ + 4×SFP 管理 → Saga 同口型 $134.5 USD EXW",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://netram.de",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "SGSW-24040HP",
-      "spec": "24×GE PoE+ + 4 Combo 管理 → 同上",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://netram.de",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GS-4210-24P2S",
-      "spec": "24×GE PoE+ + 2×SFP L2+ → 同上",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://netram.de",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-20160HPT",
-      "spec": "工业 16×GE PoE+ + 2×GE + 2×SFP 管理 → Saga 16×GE + 2×10G SFP+ L2+ $269.1 USD EXW（非 PoE，PoE 款另报）",
-      "saga": "STI-2160XGGM",
-      "url": "https://netram.de",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GS-2240-48T4X",
-      "spec": "48×GE + 4×10G SFP+ 管理 → Saga 48×GE + 4×SFP 管理 $236.8 USD EXW（上行 1G vs 10G，需说明）",
-      "saga": "STC-448DGGM",
-      "url": "https://netram.de",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-6330-24T4S",
-      "spec": "工业 L3 24×GE + 4×SFP：Saga 工业线无 L3 28 口款",
-      "saga": "—",
-      "url": "https://netram.de",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "WGSW-28040",
-      "spec": "24×GE + 4×SFP L2+ 管理 → Saga 同口型 $82.5 USD EXW",
-      "saga": "STC-424DGGM",
-      "url": "https://netram.de",
-      "date": "2026-10-19"
-    }
-  ],
-  "channels": {
-    "role": "IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）",
-    "region": "德国"
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "PLANET SGSW-24040P4 / SGSW-24040HP 商品页",
+   "quote": "SGSW-24040P4 … NETRAM ｜ SGSW-24040HP … NETRAM（PLANET 24-Port PoE 管理型；页面未显示价格 → 价格 / 库存待补证）",
+   "url": "https://www.netram.de/sgsw-24040p4-EN",
+   "date": "2026-10-20"
   },
-  "signals": [
-    "光模块分销商的有源类目把 PLANET 作为交换机补充线（24 口 PoE / 48 口 10G 上行 / 工业 16 口 PoE）→ Saga STC / STI 同口型、Marvell 方案、中性包装 EXW，可与其兼容光模块捆绑成「交换机 + 光模块」套包；B ★ 因无价无库存、交换机非主业"
-  ],
-  "risks": [
-    "PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 20,
-    "why": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求："
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "PLANET IGS-20160HPT / GS-2240-48T4X 商品页（自编货号）",
+   "quote": "IGS-20160HPT … SKU NRM10918 ｜ GS-2240-48T4X … NRM10831",
+   "url": "https://www.netram.de/igs-20160hpt-EN",
+   "date": "2026-10-20"
   },
-  "email_hook": "Next to your transceivers you list PLANET 24-port PoE and industrial units (SGSW-24040P4, IGS-20160HPT) — a Marvell-based, neutral-packed switch line at EXW pairs naturally with your optics as a switch-plus-SFP bundle. When customers take a 24-port PoE switch with your SFPs, is the SGSW-24040P4 / GS-4210-24P2S class what they ask for, or do they go straight to 10G-uplink units — so I send the right sample first?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
-      "revive": "不动（Q-33 供应商渠道客户）",
-      "lane": "未填 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；研究档 risks：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "Wuppertal 的光模块 / 光纤 / 内存分销商，有源组件子类目列 PLANET 商用与工业交换机（无价无库存）。类型：IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）。信号：netram.de 商品页：SGSW-24040P4 / SGSW-24040HP（24×GE PoE + 4 SFP）、GS-4210-24P2S、IGS-20160HPT（SKU NRM10918）、GS-2240-48T4X（NRM10831）、页内关联 IGS-6330-24T4S / WGSW-28040；价格页面未显示（登录 / 询价口径），库存未知。Planet 渠道档案 PB-095 评级 B（需求",
-    "need": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：",
-    "breakpoint": "PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-01-19",
-        "dir": "内",
-        "who": "Gmail 退信（S 邮箱）",
-        "quote": "sales@netram.de 永久退信：554 Sorry, no mailbox here by that name.",
-        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-        "k": "gmail_s 0aada7d991e478c2"
-      },
-      {
-        "date": "2025-03-28",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
-        "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@netram.de, netram.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-31",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@netram.de, netram.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "关联 PLANET 型号",
+   "quote": "gs724t-400eus … 关联列出 IGS-6330-24T4S、WGSW-28040、GS-4210-24P2S（PLANET）",
+   "url": "https://www.netram.de/gs724t-400eus-EN",
+   "date": "2026-10-20"
   }
+ ],
+ "kp": [
+  {
+   "name": "Jürgen Hübner",
+   "title": "Geschäftsführer；Impressum 具名；无公开个人邮箱 → 不写",
+   "email": "",
+   "phone": "+49 202 75805-0",
+   "source": "https://www.netram.de/Impressum"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "Planet 渠道档案 PB-095 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「德国」（country_fix）：域名 netram.de + 研究档 hq Wuppertal + 法定名 Netram Memory GmbH；表内国别空（Q-65 国别机检 2026-10-27）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-095，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "Netram Memory GmbH",
+  "founded": "",
+  "hq": "Wuppertal（Dohlenweg 6, 42115 Wuppertal, NRW）, 德国",
+  "size": "",
+  "other": "Planet 渠道档案 PB-095（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（NETRAM 为自编货号 / 兼容光模块品牌）；最大未知：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存"
+ },
+ "business_lines": [
+  "IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "SGSW-24040P4",
+   "spec": "24×GE PoE+ + 4×SFP 管理 → Saga 同口型 $134.5 USD EXW",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://netram.de",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "SGSW-24040HP",
+   "spec": "24×GE PoE+ + 4 Combo 管理 → 同上",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://netram.de",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GS-4210-24P2S",
+   "spec": "24×GE PoE+ + 2×SFP L2+ → 同上",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://netram.de",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-20160HPT",
+   "spec": "工业 16×GE PoE+ + 2×GE + 2×SFP 管理 → Saga 16×GE + 2×10G SFP+ L2+ $269.1 USD EXW（非 PoE，PoE 款另报）",
+   "saga": "STI-2160XGGM",
+   "url": "https://netram.de",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GS-2240-48T4X",
+   "spec": "48×GE + 4×10G SFP+ 管理 → Saga 48×GE + 4×SFP 管理 $236.8 USD EXW（上行 1G vs 10G，需说明）",
+   "saga": "STC-448DGGM",
+   "url": "https://netram.de",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-6330-24T4S",
+   "spec": "工业 L3 24×GE + 4×SFP：Saga 工业线无 L3 28 口款",
+   "saga": "—",
+   "url": "https://netram.de",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "WGSW-28040",
+   "spec": "24×GE + 4×SFP L2+ 管理 → Saga 同口型 $82.5 USD EXW",
+   "saga": "STC-424DGGM",
+   "url": "https://netram.de",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）",
+  "region": "德国"
+ },
+ "signals": [
+  "光模块分销商的有源类目把 PLANET 作为交换机补充线（24 口 PoE / 48 口 10G 上行 / 工业 16 口 PoE）→ Saga STC / STI 同口型、Marvell 方案、中性包装 EXW，可与其兼容光模块捆绑成「交换机 + 光模块」套包；B ★ 因无价无库存、交换机非主业"
+ ],
+ "risks": [
+  "PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求："
+ },
+ "email_hook": "Next to your transceivers you list PLANET 24-port PoE and industrial units (SGSW-24040P4, IGS-20160HPT) — a Marvell-based, neutral-packed switch line at EXW pairs naturally with your optics as a switch-plus-SFP bundle. When customers take a 24-port PoE switch with your SFPs, is the SGSW-24040P4 / GS-4210-24P2S class what they ask for, or do they go straight to 10G-uplink units — so I send the right sample first?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "未填 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；研究档 risks：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+  },
+  "situation": "Wuppertal 的光模块 / 光纤 / 内存分销商，有源组件子类目列 PLANET 商用与工业交换机（无价无库存）。类型：IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）。信号：netram.de 商品页：SGSW-24040P4 / SGSW-24040HP（24×GE PoE + 4 SFP）、GS-4210-24P2S、IGS-20160HPT（SKU NRM10918）、GS-2240-48T4X（NRM10831）、页内关联 IGS-6330-24T4S / WGSW-28040；价格页面未显示（登录 / 询价口径），库存未知。Planet 渠道档案 PB-095 评级 B（需求",
+  "need": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：",
+  "breakpoint": "PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-01-19",
+    "dir": "内",
+    "who": "Gmail 退信（S 邮箱）",
+    "quote": "sales@netram.de 永久退信：554 Sorry, no mailbox here by that name.",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_s 0aada7d991e478c2"
+   },
+   {
+    "date": "2025-03-28",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+    "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@netram.de, netram.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@netram.de, netram.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ },
+ "country_fix": "德国"
 }
