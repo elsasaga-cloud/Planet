@@ -21,4 +21,4 @@
 | `CCTV-PoE/` | `Agent搜索客户方法论.docx` 原件；`原文/` = 19 个（03 清单 1.2 MB、01/02/04、smartbyte 01–04、exhibition 6、README/SESSION-SUMMARY/AGENT-*） |
 
 搬到仓库根目录的新二进制件（Planet 此前没有）：`Marvell Based CLI Manual.docx`、`Marvell Based Web Manual.docx`、`Saga Feature List_7.5.x_L2+.xlsx`、`Saga Feature List_7.5.x_L3.xlsx`、`Price List_Marvell Based Industrial Unmanaged Switch.xls`、`SmartByte Managed Industrial Ethernet switch  pricelist on CNY for Simon-20240227.xlsx`、`SmartByte managed Ethernet switch pricelist for Simon-20240516 更新.xlsx`。
-三仓全部文本的压缩包：`data/external_repos/archive/`。原文夹里的价格 / 型号说法仍以 `data/价格主表.csv` 与 ㉕ 规则为准。
+三仓全部文本的压缩包：`data/external_repos/archive/`。仓库地址：Edgecore = `elsasaga-cloud/Edgecore`；mikrotik-info / CCTV-PoE = **`SimonSaga-202306/…`**（别按 elsasaga-cloud 去找）。mik `main` 分支独有的 5 个上传件在 `mikrotik-info/main分支上传/`。原文夹里的价格 / 型号说法仍以 `data/价格主表.csv` 与 ㉕ 规则为准。

@@ -1,0 +1,80 @@
+Simon <s.sagatelecom@gmail.com>
+24 Port PoE Managed Switch
+3 messages
+Simon from Saga Telecom <s.sagatelecom@gmail.com> Sun, Oct 4, 2026 at 1:40 AM
+To: sales@fikesmedia.com
+Hi,
+This is our Marvell AC5 based L2+ switch featuring
+1. 24 Port PoE af/at for multiple PDs
+2. 10G Fiber Uplinks help smooth traffic transport
+3. Support OEM and customizable Web GUI
+Price: 180USD/PC
+Do you need some samples for testing?
+Thank you.
+-
+Simon
+https://sagatele.com/
+An Engineering & Supply-Chain-First Telecom Partner
+Built to Last, Continuous Supply, Evolving Together
+Christopher Fikes <cfikes@fikesmedia.com> Sun, Oct 4, 2026 at 1:52 AM
+To: Simon from Saga Telecom <s.sagatelecom@gmail.com>
+Cc: sales@fikesmedia.com
+This actually does have my interest.
+What levels of customization are offered? I would be interested if there was api availability for controller integration.
+If you have some specification sheets and models available I would love to see them. 
+Thank you
+Christopher Fikes | Owner
+O: 409.877.4220
+cfikes@fikesmedia.com
+https://www.FikesMedia.com
+[Quoted text hidden]
+Simon from Saga Telecom <s.sagatelecom@gmail.com> Sun, Oct 4, 2026 at 9:44 PM
+To: Christopher Fikes <cfikes@fikesmedia.com>
+Cc: sales@fikesmedia.com
+Hi Christopher,
+Thank you for your reply.
+1. Customization
+We support a wide range of OEM/ODM customization options, including:
+Company logo / Packaging / Front panel (PVC mask) / Product label / Model name / Serial number 
+
+/ User manual / Default login IP / SNMP OID customization / Web GUI language
+These are all mature customization options that we already support.
+We can also discuss firmware customization for specific project requirements, subject to technical evaluation.
+2. Controller Integration / API
+To better understand your requirements, could you share a little more about your controller architecture?
+For example, are you referring to:
+. REST API
+. SNMP-based management
+. SSH/CLI automation
+. NETCONF
+. Another controller platform or integration method
+The more we understand your intended use case, the better we can evaluate the most suitable solution with our engineering team.
+3. Technical Documents
+For now, I'd like to share our product information for your initial review, including:
+. Datasheet
+. Web Management Manual
+. Feature List
+. MIB Manual
+Once you've had a chance to review them, we can discuss the controller integration requirements in more detail.
+4. Your Approach
+I noticed the phrase "It's about function, not vendors" on your website.
+That philosophy is actually very close to how we approach our products.
+We focus on engineering, long-term supply, and practical deployment rather than marketing-driven specifications.
+And are you mainly evaluating switches for:
+. Your consulting lab
+. Customer deployments
+. Or private-label (OEM) opportunities?
+Looking forward to your thoughts.
+Thank you.
+[Quoted text hidden]
+5 attachments
+SWITCH-MIBS-release.docx
+122K
+Saga Feature List_7.5.x_L2+.xlsx
+99K
+STC-424XGGPM-280W.docx
+1304K
+Marvell Based CLI Manual.docx
+2415K
+Marvell Based Web Manual.docx
+4547K

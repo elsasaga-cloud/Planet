@@ -9,3 +9,5 @@ Simon 关仓（转 private）前的最后快照。每个 `.tar.xz` = 该仓库�
 | `CCTV-PoE_9be1416_文本全仓.tar.xz` | elsasaga-cloud/CCTV-PoE 分支 arena/01a0c908-cctv-poe @ 9be1416 | 142 文件：01–04、03 清单 2.7 万行、profile/ 106、smartbyte/、exhibition/ |
 
 解包：`tar -xJf <包> -C <目录>`。沙盒里要查某户原文时从这里解，不再依赖 GitHub（mikrotik-info / CCTV-PoE 在 2026-10-27 12:17Z 已 404）。
+
+2026-10-27 12:44Z 校验：三包解包后与克隆逐文件 cmp，Edgecore 289 / mikrotik-info 1,462 / CCTV-PoE 135 个文本文件 0 缺失 0 差异。仓库地址：Edgecore = `elsasaga-cloud/Edgecore`，mikrotik-info / CCTV-PoE = `SimonSaga-202306/<repo>`（arena 分支；`main` 分支只有上传件，见 `docs/external_repos/关仓前清点_2026-10-27.md` §1.4–1.5）。

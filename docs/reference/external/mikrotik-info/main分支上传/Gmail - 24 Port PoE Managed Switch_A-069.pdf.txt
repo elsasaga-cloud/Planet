@@ -1,0 +1,101 @@
+Simon <s.sagatelecom@gmail.com>
+24 Port PoE Managed Switch
+5 messages
+Simon from Saga Telecom <s.sagatelecom@gmail.com> Mon, Sep 28, 2026 at 4:20 PM
+To: ifolayan@millievolution.com
+Hi, Iyiola,
+This is our Marvell AC5 based L2+ switch featuring
+1. 24 Port PoE af/at for multiple PDs
+2. 10G Fiber Uplinks help smooth traffic transport
+3. Support OEM and customizable Web GUI
+Price: 180USD/PC
+Do you need some samples for testing?
+Thank you.
+-
+Simon
+https://sagatele.com/
+An Engineering & Supply-Chain-First Telecom Partner
+Built to Last, Continuous Supply, Evolving Together
+Iyiola Folayan <ifolayan@millievolution.com> Wed, Sep 30, 2026 at 4:28 AM
+To: Simon from Saga Telecom <s.sagatelecom@gmail.com>
+Hi Simon,
+Thanks for the mail. 
+Are you able to share your product catalog with me?
+Do you have distributors in the UK?
+Can we work as your distributor in the UK?
+Regards
+Iyiola
+Sent from Outlook for Android
+From: Simon from Saga Telecom <s.sagatelecom@gmail.com>
+Sent: Monday, September 28, 2026 9:29:18 am
+To: ifolayan@millievolution.com <ifolayan@millievolution.com>
+Subject: 24 Port PoE Managed Switch
+[Quoted text hidden]
+Simon from Saga Telecom <s.sagatelecom@gmail.com> Wed, Sep 30, 2026 at 2:13 PM
+To: Iyiola Folayan <ifolayan@millievolution.com>
+Hi, Iyiola,
+Thanks for your reply.
+1. Please see attached download links to know more information.
+And we will update it for Q4 soon.
+2. For now, we do not have a distributor in the UK.
+We are certainly open to discussing a distributorship after we get to know each other and see good cooperation.
+
+3. I see from the MikroTik consultant list that you are a certified consultant.
+This is great, MikroTik adopts Marvell Prestera series for L2 / L3 switches.
+We are also focusing on Marvell AC5 solutions which can be a competitive alternative in some projects.
+Of course there will be some feature differences.
+As an engineer, maybe you can get some samples to test and compare?
+With a better understanding of our product features, this helps a lot in future discussion like branding or project discussion or even
+stocking.
+4. One question for now: do you keep stock for reselling in the UK, or do you mainly work project by project?
+Thank you.
+[Quoted text hidden]
+2 attachments
+Saga Feature List_7.5.x_L2+.xlsx
+99K
+Product Link_2026Q3.pdf
+208K
+Iyiola Folayan <ifolayan@millievolution.com> Thu, Oct 1, 2026 at 3:22 AM
+To: Simon from Saga Telecom <s.sagatelecom@gmail.com>
+Hello Simon,
+Thanks for your response. 
+For now, I just work project by project.
+My plan is to start a reseller partner agreement. My company is new here and I am happy to help you
+establish your brand here.
+I have been working with mikrotik for over 20 years and I know a lot about networking and project delivery.
+I will be opened to ordering some samples.
+Will the samples be at a cost to me or are you happy to shop to me so I can run my tests and we start
+discussing from here.
+Regards
+Iyiola
+Sent from Outlook for Android
+From: Simon from Saga Telecom <s.sagatelecom@gmail.com>
+Sent: Wednesday, September 30, 2026 7:14:26 am
+To: Iyiola Folayan <ifolayan@millievolution.com>
+Subject: Re: 24 Port PoE Managed Switch
+[Quoted text hidden]
+Simon from Saga Telecom <s.sagatelecom@gmail.com> Sat, Oct 3, 2026 at 4:04 PM
+To: Iyiola Folayan <ifolayan@millievolution.com>
+Hi, Iyiola,
+Thank you for sharing more about your business.
+It's great to learn more about your background and your plans for the UK market.
+1 Regarding evaluation samples, we're happy to support your testing.
+Normally evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order.
+For long-term partners we can discuss additional support based on the project and cooperation plan.
+2 Considering your background and the projects you worked on, I believe the STC-424XGGPM-280W(180USD/PC) would be a
+good starting point.
+In last email, I shared our L2+ feature list which is our focus now.
+2.1 you can fully understand the features, UI and OS.
+2.2 in recent days, PCB and material costs are rising.
+This is one of the very competitive models.
+2.3 this model supports 10G fiber uplinks and 24 Port PoE, it is ideal in many projects(enterprise, ISP, hospitality, CCTV)
+So for testing, for promotion or for even internal use etc., this model is a good choice.
+3 I'd really appreciate your technical feedback after testing.
+As someone with extensive MikroTik experience, your suggestions would be valuable for our future product development as well.
+About your reply: to help you establish your brand here.
+That's exactly our long-term goal. We're not simply looking for sales.
+We hope to build a trusted local presence together with experienced partners.
+Let's take this step by step and explore how we can grow together!
+Please let me know your delivery address, and I'll prepare the evaluation quotation accordingly.
+Thank you.
+[Quoted text hidden]
