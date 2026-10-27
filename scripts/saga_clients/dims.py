@@ -450,7 +450,15 @@ def main():
                  'opened_subjects': [(s, n, max(m['dt'] for m in opened if m['subj'] == s).date().isoformat()) for s, n in op_subj.most_common(4)],
                  'never_opened': never, 'last_opened': max((m['dt'] for m in opened), default=None),
                  'first_sent': valid[0]['dt'].date().isoformat() if valid else None, 'last_sent': valid[-1]['dt'].date().isoformat() if valid else None,
-                 'bounce_days': len(bd)}
+                 'bounce_days': len(bd),
+                 'sent_180d': sum(1 for m in valid if (datetime.now(timezone.utc) - m['dt']).days <= 180),
+                 'opened_180d': sum(1 for m in opened if (datetime.now(timezone.utc) - m['dt']).days <= 180),
+                 'streak_unopened': 0}
+            # 连续几封没打开（从最近往回数）
+            for m in reversed(valid):
+                if 'Opened' in m['labels']:
+                    break
+                o['streak_unopened'] += 1
             if o['last_opened']:
                 o['last_opened'] = o['last_opened'].date().isoformat()
             d['opens'] = o
@@ -752,6 +760,9 @@ def main():
             heat += 10
             why_heat.append(f"1:1 报过价 {d['quotes']['n_1to1']} 次（最近 {d['quotes']['last_1to1']}）")
         d['heat'] = {'score': round(heat), 'why': why_heat, 'excluded': c in excl, 'hold': (mr.get('next_move') or {}).get('when') in ('不动', '仅被动', '被动')}
+        d['_tier'] = tier
+        d['_p1'] = (mr.get('saga_now') or {}).get('p1') or (rs.get('saga_fit') or {}).get('p1') or ''
+        d['_bought'] = bought
         dims[c] = d
     if only and os.path.exists(OUT):
         old = json.load(open(OUT, encoding='utf-8'))
@@ -759,6 +770,41 @@ def main():
         dims_all = old
     else:
         dims_all = dims
+    # ---------- 第二遍：同国同档参照（像他的人谁有回音 / 谁成交了） ----------
+    by_iso = defaultdict(list)
+    for c2, d2 in dims_all.items():
+        by_iso[AB[c2].get('iso') or '??'].append(d2)
+    for c2, d2 in dims_all.items():
+        iso2 = AB[c2].get('iso') or '??'
+        if iso2 == '??':
+            continue
+        my_cat = model_cat(d2.get('_p1')) if d2.get('_p1') else None
+        refs = []
+        for o in by_iso[iso2]:
+            if o['code'] == c2:
+                continue
+            same_tier = d2.get('_tier') and o.get('_tier') == d2.get('_tier')
+            same_cat = my_cat and o.get('_p1') and model_cat(o['_p1']) == my_cat
+            if not (same_tier or same_cat):
+                continue
+            t2 = o.get('timing') or {}
+            did = []
+            if o.get('_bought'):
+                did.append('成交 ' + '、'.join(o['_bought'][:3]))
+            if t2.get('their_reply_n', 0) >= 2:
+                did.append(f"回过 {t2['their_reply_n']} 次（最近 {t2['last']}）")
+            if (o.get('quotes') or {}).get('n_1to1'):
+                did.append(f"1:1 报过 {o['quotes']['n_1to1']} 次")
+            if not did:
+                continue
+            refs.append({'code': o['code'], 'name': AB[o['code']]['name'][:30], 'grade': AB[o['code']]['grade'], 'did': did,
+                         'why': ('同档' if same_tier else '') + ('同线' if same_cat else ''), 'score': o['heat']['score'] + (20 if o.get('_bought') else 0)})
+        refs.sort(key=lambda x: -x['score'])
+        if refs:
+            d2['lookalike'] = {'iso': iso2, 'tier': d2.get('_tier'), 'line': my_cat, 'n': len(refs), 'refs': refs[:3]}
+    for d2 in dims_all.values():
+        for k in ('_tier', '_p1', '_bought'):
+            d2.pop(k, None)
     json.dump(dims_all, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print(f'dims: {len(dims)} 户（文件共 {len(dims_all)}）→ {OUT}')
     if '--no-docs' not in args:
@@ -788,6 +834,19 @@ def write_docs(dims, AB, country, seasons):
         if n >= 120:
             break
     L += ['', f'共 {sum(1 for d in rows if d["heat"]["score"] > 0)} 户有行为分；0 分（从未有真人来信、未打开、未成交、未 1:1 报价）{sum(1 for d in rows if d["heat"]["score"] <= 0)} 户。']
+    # 群发疲劳 vs 仍在读
+    fat = [d for d in dims.values() if (d.get('opens') or {}).get('streak_unopened', 0) >= 6 and not (d.get('opens') or {}).get('opened_180d')]
+    reading = sorted((d for d in dims.values() if (d.get('opens') or {}).get('opened_180d')), key=lambda d: (-d['opens']['opened_180d'], d['code']))
+    L += ['', '## 群发：谁还在读、谁已经不读了', '',
+          f'- **已不读**：{len(fat)} 户最近连续 ≥6 封群发没打开、近 180 天 0 打开（像素口径）。对这些户再群发只是在消耗域名信誉；各户档案「打开偏好」里已标「停两个月，改一句 1:1 或换收件人」。',
+          f'- **仍在读**：{len(reading)} 户近 180 天有打开。这份名单就是下次群发的收件人底稿（剔除名单内的仍不发）：', '',
+          '| 编号 | 客户 | 国家 | 级 | 近 180 天 发/开 | 最近打开 | 打开过的主题 | 状态 |', '|---|---|---|---|---|---|---|---|']
+    for d in reading:
+        e = AB[d['code']]
+        o = d['opens']
+        st = '剔除名单' if d['heat']['excluded'] else ('绑定行：不动/被动' if d['heat']['hold'] else '')
+        subs = '、'.join(f'「{x[0]}」' for x in o['opened_subjects'][:2])
+        L.append(f"| {d['code']} | {e['name'][:36]} | {e['country']} | {e['grade']} | {o['sent_180d']} / {o['opened_180d']} | {o['last_opened']} | {subs} | {st} |")
     open(os.path.join(ROOT, 'docs', f'AB_热度榜_{TODAY_S}.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
     # 各国窗口与季节
     cn = {}

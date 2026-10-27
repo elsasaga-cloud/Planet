@@ -59,9 +59,10 @@ updated: 2026-10-27
 
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 15 封（2025-02-18 → 2026-08-12），打开标签 2 次（近 12 个月 0，最后 2025-10-16）；打开过：「Mini Industrial PoE Switch」×1（2025-05-15）、「10G Enterprise SFP Switch」×1（2025-10-16）；从未打开：「8 Port Industrial PoE Switch」、「16 Port Ethernet Switch」、「Marvell Alleycat5 Solution」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 15 封（2025-02-18 → 2026-08-12），打开标签 2 次（近 12 个月 0，最后 2025-10-16）；打开过：「Mini Industrial PoE Switch」×1（2025-05-15）、「10G Enterprise SFP Switch」×1（2025-10-16）；从未打开：「8 Port Industrial PoE Switch」、「16 Port Ethernet Switch」、「Marvell Alleycat5 Solution」；**最近连续 6 封没打开**（近 180 天发 1 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 52 / automation 0） / 10G 汇聚（10g 70 / sfp 51） / 光纤接入 / 媒体转换（media converter 23 / fiber 10）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：10G 汇聚 / PoE / 工业；**还没碰过的一类：光纤接入 / 媒体转换** → 下封信可加一句 STI-140GE（1 光 4 电工业非管理，$29.1 EXW）。
 - **规模与贴牌线索（官网快照 2026-10-21）**：社媒：http://www.linkedin.com/company/3039451/admin/、https://www.facebook.com/netsys.com.tw。
+- **同国同档参照（TW，30% 档、主推线「工业 PoE 管理型」，共 5 户有动静，列前 3）**：SB-089 Winsonic Electronics Co., Ltd.（B，同档：回过 2 次（最近 2025-11-24））；SB-438 CTCU（B，同档：回过 2 次（最近 2026-01-13））；SB-086 TAILYN（B，同档：回过 2 次（最近 2025-07-10））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2027-02-05 农历新年（02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

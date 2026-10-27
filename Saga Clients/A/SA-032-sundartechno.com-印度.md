@@ -73,6 +73,7 @@ updated: 2026-10-27
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 1 封（2024-06-27 → 2024-06-27），打开标签 0 次。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 15 / automation 8）；我们报过 / 卖过：工业 非PoE 非管理 ×1（买过 STI-0160GE）；兴趣品类都已碰过——缺口不在品类，在上面的断点。
 - **规模与贴牌线索（官网快照 2026-10-21）**：官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://in.linkedin.com/company/sundar-techno-solutions?trk=public_profile_topcard_current_company、https://twitter.com/SundarTechno、https://www.facebook.com/Sundar-Techno-Solutions-468605697037043/?hc_ref=ARQWa9QTtpSDn7Aiqyq1K1KisWMBo4KzBLfNV-NTawinOR8DQ7QAlIEWW1xUdoB-K54&fref=nf&__xts__%5B0%5D=68.ARAMIapyIXee6K2z_lsIzY0SrKcg8PRMriQ4E9Zbk_Qxn8vv61NTShHn5iakc0XMo_l2V_w-rzS0gU31uFtM54tLKzZtt0flOpI54LcUnV5GqgE5piJuC9cOskZ2OoQqDobcaZo12ShM0GbT47L8hkgtFgIT9gGwU5iOLw3f5rlKoJo8Ya4C_r8wcGsT-exhfgEd9OaiwhWMkhm0ijpzp4vCctGOhO7EaqOO2fjNq4OOZGXY1Yu7LA6tyOpm3tE7OnIiv94Q4xA4ElLUvu4HbmVpt-p3grXTaBgIOi_MjsWGWiMzHzabKPStNcoW8oKKNhK8Kfkc0IxSzMshgxPxIJk&__tn__=kC-R。
+- **同国同档参照（IN，30% 档、主推线「工业 2.5G PoE 管理型」，共 1 户有动静，列前 3）**：SB-641 apolloinfoways.in（B，同档：回过 3 次（最近 2025-01-06），1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

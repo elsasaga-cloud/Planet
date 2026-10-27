@@ -68,6 +68,7 @@ updated: 2026-10-27
 - **本国来询季节（TR 全库 17 个「户·月」真人来信，样本小）**：5 月 17.6% / 1 月 11.8% / 2 月 11.8%——本户来信太少，按本国节奏排下一步。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 8 封（2025-09-30 → 2026-09-07），打开标签 1 次（近 12 个月 1，最后 2025-12-01）；打开过：「Booster PoE Switch」×1（2025-12-01）；从未打开：「10G Enterprise SFP Switch」、「Industrial PoE Switch」、「Marvell Industrial Alert System」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 2 个（Moxa、Maiwe）；社媒：http://www.linkedin.com/shareArticle?mini=true&ro=true&trk=JuizSocialPostSharer&title=CA8345 ClassA Portatif Enerji Kalite Analizörü&url=http://www.sge.com.tr/urundetay-ca8345-classa-portatif-enerji-kalite-analizoru-30-1784.html、http://www.linkedin.com/shareArticle?mini=true&ro=true&trk=JuizSocialPostSharer&title=MX407, 1000 Vdc Ýzolasyon Direnci Test Cihazý&url=http://www.sge.com.tr/urundetay-mx407-1000-vdc-izolasyon-direnci-test-cihazi-257-100.html、https://twitter.com/SGE_Muh。
+- **同国同档参照（TR，25% 档、主推线「工业 2.5G PoE 管理型」，共 1 户有动静，列前 3）**：SA-086 netas.com.tr（A，同档同线：成交 STI-488DGGPM-2BT，回过 24 次（最近 2026-08-12））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

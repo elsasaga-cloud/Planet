@@ -72,6 +72,10 @@ def fmt_dims(ent):
             seg.append('打开过：' + '、'.join(f'「{s}」×{n}（{dt}）' for s, n, dt in o['opened_subjects']))
         if o.get('never_opened') and o['opened']:
             seg.append('从未打开：' + '、'.join(f'「{s}」' for s in o['never_opened'][:3]))
+        if o.get('streak_unopened', 0) >= 6 and not o.get('opened_180d'):
+            seg.append(f"**最近连续 {o['streak_unopened']} 封没打开**（近 180 天发 {o['sent_180d']} 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人")
+        elif o.get('opened_180d'):
+            seg.append(f"近 180 天发 {o['sent_180d']} 封、打开 {o['opened_180d']} 次 → 还在读，主题沿着打开过的那类走")
         L.append('- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：' + '；'.join(seg) + '。')
     q = d.get('quotes')
     if q and q.get('rows'):
@@ -180,7 +184,21 @@ def fmt_dims(ent):
                 seg.append('**他们没得到答复的问题**：' + ' / '.join(f'「{q}」' for q in b['last_questions']))
         else:
             seg.append(f"最后一句是我们说的（{b['last_date']}，{b['days_since']} 天前，「{b['last_subj']}」，`{b['last_k']}`）→ 球在对方手里")
+            med = (d.get('timing') or {}).get('their_reply_h_median')
+            n_rep = (d.get('timing') or {}).get('their_reply_n') or 0
+            if med and n_rep >= 3:
+                ratio = b['days_since'] * 24 / med
+                if ratio >= 10 and b['days_since'] <= 120:
+                    seg.append(f"按他们过去中位 {med} 小时回信（{n_rep} 次），这次 {b['days_since']} 天没回 ≈ 常态的 {ratio:.0f} 倍 → **值得追一句**（不是催，是换个问法）")
+                elif ratio < 3:
+                    seg.append(f"他们过去中位 {med} 小时回信，这次才 {b['days_since']} 天 → 还在常态内，别催")
         L.append('- **最后一球**：' + '；'.join(seg) + '。')
+    lk = d.get('lookalike')
+    if lk:
+        tier_s = f"{lk['tier']}% 档" if lk.get('tier') else '同线'
+        line_s = f"、主推线「{lk['line']}」" if lk.get('line') else ''
+        seg = '；'.join(f"{r['code']} {r['name']}（{r['grade']}，{r['why']}：{'，'.join(r['did'])}）" for r in lk['refs'])
+        L.append(f"- **同国同档参照（{lk['iso']}，{tier_s}{line_s}，共 {lk['n']} 户有动静，列前 3）**：{seg}。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。")
     gh = d.get('github')
     if gh:
         seg = []

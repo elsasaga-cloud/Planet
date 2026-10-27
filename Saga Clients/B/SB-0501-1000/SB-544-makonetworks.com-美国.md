@@ -62,7 +62,7 @@ updated: 2026-10-27
 
 - **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **本国来询季节（US 全库 53 个「户·月」真人来信）**：8 月 17.0% / 11 月 11.3% / 1 月 11.3%——本户来信太少，按本国节奏排下一步。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 23 封（2024-06-26 → 2026-02-27），打开标签 1 次（近 12 个月 0，最后 2025-07-21）；打开过：「24 Port Fiber Switch」×1（2025-07-21）；从未打开：「Managed Optical Bypass Switch」、「Marvell Industrial Alert System」、「24 port managed switch」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 23 封（2024-06-26 → 2026-02-27），打开标签 1 次（近 12 个月 0，最后 2025-07-21）；打开过：「24 Port Fiber Switch」×1（2025-07-21）；从未打开：「Managed Optical Bypass Switch」、「Marvell Industrial Alert System」、「24 port managed switch」；**最近连续 9 封没打开**（近 180 天发 0 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 2 条，2024-07-22 → 2024-12-17；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
@@ -72,6 +72,7 @@ updated: 2026-10-27
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 339 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/MakoNetworks?s=20、https://twitter.com/intent/tweet?text=CrossAmerica+Partners+Goes+%E2%80%9CAll-In%E2%80%9D+With+Mako+Networks%2C+the+Industry%E2%80%99s+Fastest+Growing+Platform+for+Secure%2C+Cloud-Managed+Retail+Connectivity&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2026%2F04%2Fcrossamerica-partners-goes-all-in-with-mako-networks-the-industrys-fastest-growing-platform-for-secure-cloud-managed-retail-connectivity%2F、https://twitter.com/intent/tweet?text=Mako+Networks%E2%80%99+Periscope+Named+Two-time+++Award-winning+New+Product+in+2025&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2025%2F11%2Fmako-networks-periscope-named-two-time-award-winning-new-product-in-2025%2F。
+- **同国同档参照（US，30% 档、主推线「商用 10G PoE 管理型」，共 10 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同线：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SB-831 actelis.com（B，同档同线：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

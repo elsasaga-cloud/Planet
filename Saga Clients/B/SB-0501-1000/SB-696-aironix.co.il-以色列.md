@@ -64,7 +64,7 @@ updated: 2026-10-27
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
 - **时机与节律**：真人来信 2 封（2026-08-13 → 2026-08-15）；多在 8 月（2）；对方本地时间中位 14:12（= 北京时间 20:12）；**他们回信中位 1.8 小时**（2 次，100% 在 24 小时内）；我方回信中位 20.9 小时（2 次）。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 19 封（2025-01-09 → 2026-10-07），打开标签 1 次（近 12 个月 1，最后 2026-08-13）；打开过：「24 Port PoE Managed Switch」×1（2026-08-13）；从未打开：「Marvell Industrial Alert System」、「10G Enterprise SFP Switch」、「Mini Industrial PoE Switch」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 19 封（2025-01-09 → 2026-10-07），打开标签 1 次（近 12 个月 1，最后 2026-08-13）；打开过：「24 Port PoE Managed Switch」×1（2026-08-13）；从未打开：「Marvell Industrial Alert System」、「10G Enterprise SFP Switch」、「Mini Industrial PoE Switch」；近 180 天发 6 封、打开 1 次 → 还在读，主题沿着打开过的那类走。
 - **写信的人（来信签名机械抽取）**：Yair Turjeman（yair@aironix.co.il，2 封，2026-08-13 → 2026-08-15）。
 - **他们嘴里的词（2 封来信、去引用后 223 字符的词频）**：话题（次数，最近一次）：价格 / 折扣 ×1（2026-08-15）；**提过的数量**：300（2026-08-13，「…product to Allied AT-GS910-24, 47 pcs, 300 pcs a year.…」，`e38d26c7ab40da80`）；47（2026-08-13，「…uivalent product to Allied AT-GS910-24, 47 pcs, 300 pcs a year.…」，`e38d26c7ab40da80`）。
 - **渠道反应**：S 箱（Simon） 去 1（1:1 0 / 群发 1）回 0，从未回；A 箱（Alan） 去 20（1:1 2 / 群发 18）回 2，最近回 2026-08-15 → 只对 A 箱 Alan 有反应，下一封别换箱。

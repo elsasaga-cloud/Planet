@@ -67,7 +67,7 @@ updated: 2026-10-27
 
 - **发信窗口（AU 全库 745 封群发的打开标签，对方本地时间；均值 6.7%）**：周三 10–12 点 10.0%（140 封）、周二 10–12 点 8.3%（156 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **本国来询季节（AU 全库 15 个「户·月」真人来信，样本小）**：4 月 20.0% / 6 月 20.0% / 5 月 13.3%——本户来信太少，按本国节奏排下一步。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 28 封（2024-06-21 → 2026-09-30），打开标签 2 次（近 12 个月 1，最后 2025-11-19）；打开过：「CCTV poe switch」×1（2024-06-21）、「Optional Marvell Chipset Solutions」×1（2025-11-19）；从未打开：「10G Enterprise SFP Switch」、「8 Port Industrial PoE Switch」、「Marvell Industrial Alert System」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 28 封（2024-06-21 → 2026-09-30），打开标签 2 次（近 12 个月 1，最后 2025-11-19）；打开过：「CCTV poe switch」×1（2024-06-21）、「Optional Marvell Chipset Solutions」×1（2025-11-19）；从未打开：「10G Enterprise SFP Switch」、「8 Port Industrial PoE Switch」、「Marvell Industrial Alert System」；**最近连续 11 封没打开**（近 180 天发 5 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 287 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：http://linkedin.com/company/cable-distribution-services/、https://www.facebook.com/people/Cable-Distribution-Services/100067404909773/。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 + 南半球暑假（多到 1 月中） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

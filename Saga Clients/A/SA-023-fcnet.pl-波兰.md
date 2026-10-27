@@ -70,7 +70,7 @@ updated: 2026-10-27
 
 - **时机与节律**：真人来信 2 封（2025-04-18 → 2025-04-22）；多在 4 月（2）；对方本地时间中位 11:00（= 北京时间 18:00）；**他们回信中位 0.1 小时**（2 次，100% 在 24 小时内）；我方回信中位 0.7 小时（1 次）；**我方未回 1 封**。
 - **发信窗口（PL 全库 585 封群发的打开标签，对方本地时间；均值 5.5%）**：周四 12–14 点 4.8%（42 封）、周五 10–12 点 2.4%（41 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 22 封（2025-02-04 → 2026-09-28），打开标签 3 次（近 12 个月 1，最后 2025-12-31）；打开过：「10G Media Converter」×1（2025-04-18）、「10G Enterprise SFP Switch」×1（2025-10-10）、「Marvell Industrial Alert System」×1（2025-12-31）；从未打开：「16 Port Ethernet Switch」、「Managed Optical Bypass Switch」、「Mini Industrial PoE Switch」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 22 封（2025-02-04 → 2026-09-28），打开标签 3 次（近 12 个月 1，最后 2025-12-31）；打开过：「10G Media Converter」×1（2025-04-18）、「10G Enterprise SFP Switch」×1（2025-10-10）、「Marvell Industrial Alert System」×1（2025-12-31）；从未打开：「16 Port Ethernet Switch」、「Managed Optical Bypass Switch」、「Mini Industrial PoE Switch」；**最近连续 7 封没打开**（近 180 天发 5 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **写信的人（来信签名机械抽取）**：FCNET sp. z o.o.（info@fcnet.pl，2 封，2025-04-18 → 2025-04-22）。
 - **他们嘴里的词（2 封来信、去引用后 1,653 字符的词频）**：话题（次数，最近一次）：价格 / 折扣 ×2（2025-04-22）、认证 ×2（2025-04-22）。
 - **最后一球**：1:1 对话 1 段，最长一段 4 封 / 跨 4 天（2025-04-18 → 2025-04-22，「Re: 10G Media Converter」）；**最后一句是他们说的**（2025-04-22，552 天前，「Re: 10G Media Converter」，`34b75cab2668542d`）：「We have much better price for this product from different supplier. Pozdrawiam / Best regards FCNET sp. z o.o.…」。

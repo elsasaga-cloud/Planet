@@ -68,7 +68,7 @@ updated: 2026-10-27
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
 - **本国来询季节（SA 全库 17 个「户·月」真人来信，样本小）**：6 月 17.6% / 2 月 11.8% / 5 月 11.8%——本户来信太少，按本国节奏排下一步。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 30 封（2024-07-04 → 2026-09-22），打开标签 1 次（近 12 个月 0，最后 2025-04-04）；打开过：「8 Port Industrial PoE Switch」×1（2025-04-04）；从未打开：「48 Port PoE Managed Switch」、「Industrial PoE Switch」、「10G Enterprise SFP Switch」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 30 封（2024-07-04 → 2026-09-22），打开标签 1 次（近 12 个月 0，最后 2025-04-04）；打开过：「8 Port Industrial PoE Switch」×1（2025-04-04）；从未打开：「48 Port PoE Managed Switch」、「Industrial PoE Switch」、「10G Enterprise SFP Switch」；**最近连续 22 封没打开**（近 180 天发 5 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-12-31 → 2024-12-31；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
@@ -78,6 +78,7 @@ updated: 2026-10-27
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 95 / automation 2） / 光纤接入 / 媒体转换（media converter 67 / fiber 335）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；**还没碰过的一类：光纤接入 / 媒体转换** → 下封信可加一句 STI-140GE（1 光 4 电工业非管理，$26.9 EXW）。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 476 条 URL；站内可见品牌 8 个（TP-Link、Ubiquiti、MikroTik、Cisco、D-Link、Aruba）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/zoomlinenetwork、https://www.facebook.com/zoomlinenetwork/?ref=aymt_homepage_panel&eid=ARCIoz4eOFYSbAdDOc1Vurt8nXVxYuiyEM8u3maiCsqT2VDbw-XfzsSNEDtmsrpr_jH-kdmdom09CaFZ、https://www.instagram.com/zoomlinenetworkstechnology/。
+- **同国同档参照（SA，20% 档、主推线「工业 PoE 非管理」，共 2 户有动静，列前 3）**：SB-451 e-saudi.net（B，同档：回过 10 次（最近 2025-04-28），1:1 报过 1 次）；SB-685 techsouq.com（B，同档：1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2027-02-08 斋月（约 02-08 → 03-09）：工时缩短；开斋节约 03-10 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

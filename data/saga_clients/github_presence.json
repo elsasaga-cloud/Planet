@@ -1947,5 +1947,286 @@
   ],
   "repos_mentioning": [],
   "checked_at": "2026-10-27T04:08:23Z"
+ },
+ "SB-037": {
+  "domain": "pulsar.kz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:08:34Z"
+ },
+ "SB-038": {
+  "domain": "tricomp.com.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:08:46Z"
+ },
+ "SB-039": {
+  "domain": "zelax.ru",
+  "accounts": [
+   {
+    "login": "Zelax",
+    "type": "Organization",
+    "url": "https://github.com/Zelax",
+    "name": "Zelax",
+    "blog": "http://zelax.ru",
+    "email": null,
+    "company": null,
+    "public_repos": 2,
+    "created_at": "2020-04-02T14:50:30Z",
+    "updated_at": "2021-02-17T10:41:08Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "edu",
+      "pushed_at": "2021-09-08T09:39:01Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "TCPCheckSum",
+      "pushed_at": "2021-04-07T15:29:42Z",
+      "lang": "C",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "farit235",
+    "type": "User",
+    "url": "https://github.com/farit235",
+    "name": "Farit",
+    "blog": "",
+    "email": null,
+    "company": "Zelax",
+    "public_repos": 35,
+    "created_at": "2021-02-11T06:11:11Z",
+    "updated_at": "2026-07-16T17:47:14Z",
+    "bio": "Middle DevOps Engineer at Zelax. ",
+    "match": "company",
+    "repos": [
+     {
+      "name": "ChatGPT",
+      "pushed_at": "2024-12-07T09:00:22Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "ai-noter",
+      "pushed_at": "2024-11-16T19:11:50Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "farit235",
+      "pushed_at": "2024-08-26T08:11:51Z",
+      "lang": null,
+      "desc": "Config files for my GitHub profile.",
+      "fork": false
+     },
+     {
+      "name": "test",
+      "pushed_at": "2024-07-18T11:23:03Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "ML_Labs",
+      "pushed_at": "2024-06-01T21:21:06Z",
+      "lang": "Jupyter Notebook",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "AutomationTests",
+      "pushed_at": "2024-05-02T14:50:11Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:08:58Z"
+ },
+ "SB-040": {
+  "domain": "4demand.co.uk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:09:11Z"
+ },
+ "SB-041": {
+  "domain": "telcam.co.uk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:09:19Z"
+ },
+ "SB-042": {
+  "domain": "regalsecurity.co.za",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "GSSolutions-CPT/price-list-rag-assistant",
+    "url": "https://github.com/GSSolutions-CPT/price-list-rag-assistant",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-06-11T18:11:57Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:09:33Z"
+ },
+ "SB-043": {
+  "domain": "eurotechnology.ae",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:09:44Z"
+ },
+ "SB-044": {
+  "domain": "win-alliance.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:09:58Z"
+ },
+ "SB-045": {
+  "domain": "advancedigital.co.in",
+  "accounts": [
+   {
+    "login": "advancedigital",
+    "type": "Organization",
+    "url": "https://github.com/advancedigital",
+    "name": "Advance Digital",
+    "blog": "http://www.advancedigital.com/",
+    "email": null,
+    "company": null,
+    "public_repos": 1,
+    "created_at": "2015-12-16T19:47:40Z",
+    "updated_at": "2015-12-16T21:53:26Z",
+    "bio": "Advance Digital - Open Source",
+    "match": "name",
+    "repos": [
+     {
+      "name": "adi.keymaker",
+      "pushed_at": "2015-12-17T21:31:44Z",
+      "lang": "Python",
+      "desc": "Use keymaker to automatically assume an AWS Role",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:10:09Z"
+ },
+ "SB-046": {
+  "domain": "domoticalia.es",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:10:23Z"
+ },
+ "SB-047": {
+  "domain": "topica.mn",
+  "accounts": [
+   {
+    "login": "topica-mn",
+    "type": "Organization",
+    "url": "https://github.com/topica-mn",
+    "name": "topica.mn",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2026-01-06T06:18:49Z",
+    "updated_at": "2026-01-06T06:18:49Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:10:33Z"
+ },
+ "SB-048": {
+  "domain": "almaks.rs",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:10:45Z"
+ },
+ "SB-049": {
+  "domain": "securico.co.zw",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:10:57Z"
+ },
+ "SB-050": {
+  "domain": "pt-aag.co.id",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:11:10Z"
+ },
+ "SB-051": {
+  "domain": "prestigevsat.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:11:21Z"
+ },
+ "SB-053": {
+  "domain": "onnettechnologies.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:11:35Z"
+ },
+ "SB-054": {
+  "domain": "testronix.ph",
+  "accounts": [
+   {
+    "login": "testronix-project",
+    "type": "Organization",
+    "url": "https://github.com/testronix-project",
+    "name": "Testronix",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2025-06-30T12:21:05Z",
+    "updated_at": "2025-07-20T22:28:27Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:11:45Z"
+ },
+ "SB-055": {
+  "domain": "dios-industries.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:12:00Z"
+ },
+ "SB-056": {
+  "domain": "nbs.ee",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "nBlocksStudioNodes/nbslocks_eeprom",
+    "url": "https://github.com/nBlocksStudioNodes/nbslocks_eeprom",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2020-08-20T15:26:00Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T04:12:11Z"
+ },
+ "SB-057": {
+  "domain": "rfcom.gr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:12:22Z"
  }
 }

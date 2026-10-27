@@ -61,7 +61,7 @@ updated: 2026-10-27
 
 - **发信窗口（AU 全库 745 封群发的打开标签，对方本地时间；均值 6.7%）**：周三 10–12 点 10.0%（140 封）、周二 10–12 点 8.3%（156 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **本国来询季节（AU 全库 15 个「户·月」真人来信，样本小）**：4 月 20.0% / 6 月 20.0% / 5 月 13.3%——本户来信太少，按本国节奏排下一步。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 61 封（2024-06-19 → 2026-09-15），打开标签 5 次（近 12 个月 3，最后 2026-09-15）；打开过：「48 Port PoE Managed Switch」×1（2024-11-05）、「90W PoE Managed Switch」×1（2025-08-17）、「Optional Marvell Chipset Solutions」×1（2025-12-04）、「OEM Core Switching Solution」×1（2026-01-13）；从未打开：「Industrial PoE Switch」、「Managed Optical Bypass Switch」、「Marvell Industrial Alert System」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 61 封（2024-06-19 → 2026-09-15），打开标签 5 次（近 12 个月 3，最后 2026-09-15）；打开过：「48 Port PoE Managed Switch」×1（2024-11-05）、「90W PoE Managed Switch」×1（2025-08-17）、「Optional Marvell Chipset Solutions」×1（2025-12-04）、「OEM Core Switching Solution」×1（2026-01-13）；从未打开：「Industrial PoE Switch」、「Managed Optical Bypass Switch」、「Marvell Industrial Alert System」；近 180 天发 9 封、打开 1 次 → 还在读，主题沿着打开过的那类走。
 - **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 3 条，2024-08-30 → 2024-11-05；「今天」= 价格主表 2026-10-17 汇率、30% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |

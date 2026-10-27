@@ -60,7 +60,7 @@ updated: 2026-10-27
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
 - **发信窗口（CA 全库 681 封群发的打开标签，对方本地时间；均值 5.7%）**：周五 12–14 点 7.8%（51 封）、周二 12–14 点 7.8%（51 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 13 封（2025-10-20 → 2026-09-24），打开标签 0 次。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 13 封（2025-10-20 → 2026-09-24），打开标签 0 次；**最近连续 13 封没打开**（近 180 天发 6 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 0 / camera 57 / poe 13） / 光纤接入 / 媒体转换（media converter 14 / fiber 30）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：安防 PoE** → 下封信可加一句 STC-424XGGPM-280W（24 口千兆 PoE + 4 × 10G SFP+ L2+ 管理 280W，$181.2 EXW）。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 21 条 URL；站内可见品牌 3 个（Cisco、Cambium、Grandstream）；社媒：https://twitter.com/share?text=Yealink YEA-AP08 1303097 Dante Digital Signal Processor&url=https://citicalls.com/products/yealink-yea-ap08-1303097-dante-digital-signal-processor、https://twitter.com/share?text=Yealink YEA-UVC8X-MOUNT-KITS 330100059001 UVC8X Mount Kit&url=https://citicalls.com/products/yealink-yea-uvc8x-mount-kits-330100059001-uvc8x-mount-kit、https://twitter.com/share?text=Yealink YEA-VCR11 1303081 Remote For MB A10/A20/A30/A40&url=https://citicalls.com/products/yealink-yea-vcr11-1303081-remote-for-mb-a10-a20-a30-a40。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。

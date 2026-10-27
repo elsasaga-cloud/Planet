@@ -61,7 +61,7 @@ updated: 2026-10-27
 
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 16 封（2025-03-20 → 2026-09-14），打开标签 0 次。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 16 封（2025-03-20 → 2026-09-14），打开标签 0 次；**最近连续 16 封没打开**（近 180 天发 4 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 3 个（Dahua、Hikvision、Uniview）；官网语言 fr-FR（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/intent/tweet?text=Dahua+2MP+%E2%80%93+Cam%C3%A9ra+IP+tube+Smart+Dual+Light+avec+micro%2C+PoE+%28IPC-B1E29-A-IL%29 https%3A%2F%2Fmax-protect.com%2F434-dahua-2mp-camera-ip-tube-smart-dual-light-avec-micro-poe-ipc-b1e29-a-il.html、https://twitter.com/intent/tweet?text=Dahua+2MP+%E2%80%93+Cam%C3%A9ra+IP+tube+Smart+Dual+Light+avec+micro%2C+PoE+%28IPC-HFW1239S1-A-IL%29 https%3A%2F%2Fmax-protect.com%2F517-dahua-2mp-camera-ip-tube-smart-dual-light-avec-micro-poe-ipc-hfw1239s1-a-il.html、https://twitter.com/intent/tweet?text=Dahua+4MP+%E2%80%93+Cam%C3%A9ra+IP+d%C3%B4me+Smart+Dual+Light+avec+micro%2C+PoE+%28IPC-HDW1439T1-A-IL%29 https%3A%2F%2Fmax-protect.com%2F515-dahua-4mp-camera-ip-dome-smart-dual-light-avec-micro-poe-ipc-hdw1439t1-a-il.html。
 - **日历窗口**：对方：2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

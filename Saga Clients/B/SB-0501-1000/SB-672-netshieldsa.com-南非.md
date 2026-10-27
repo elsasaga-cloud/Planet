@@ -62,7 +62,7 @@ updated: 2026-10-27
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
 - **时机与节律**：真人来信 1 封（2026-03-23 → 2026-03-23）；**他们回信中位 1.6 小时**（1 次，100% 在 24 小时内）；我方回信中位 0.0 小时（1 次）。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 17 封（2025-03-26 → 2026-10-06），打开标签 2 次（近 12 个月 1，最后 2026-03-23）；打开过：「90W PoE Managed Switch」×1（2025-03-26）、「Marvell Managed Commercial Switches」×1（2026-03-23）；从未打开：「Industrial PoE Switch」、「Mini Industrial PoE Switch」、「16 Port Ethernet Switch」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 17 封（2025-03-26 → 2026-10-06），打开标签 2 次（近 12 个月 1，最后 2026-03-23）；打开过：「90W PoE Managed Switch」×1（2025-03-26）、「Marvell Managed Commercial Switches」×1（2026-03-23）；从未打开：「Industrial PoE Switch」、「Mini Industrial PoE Switch」、「16 Port Ethernet Switch」；**最近连续 6 封没打开**（近 180 天发 5 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **写信的人（来信签名机械抽取）**：Inus Dreckmeyr（inus@netshieldsa.com，1 封，2026-03-23 → 2026-03-23）。
 - **他们嘴里的词（1 封来信、去引用后 77 字符的词频）**：话题（次数，最近一次）：价格 / 折扣 ×1（2026-03-23）。
 - **最后一球**：1:1 对话 1 段，最长一段 2 封 / 跨 0 天（2026-03-23 → 2026-03-23，「RE: Marvell Managed Commercial Switches」）；最后一句是我们说的（2026-03-23，217 天前，「Re: Marvell Managed Commercial Switches」，`670306b3514c9c1c`）→ 球在对方手里。

@@ -89,7 +89,7 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 79 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/larch.networks/、https://www.linkedin.com/company/larch-networks。
 - **写信的人（来信签名机械抽取）**：Alexander Cheskis — CEO, Larch Networks（alexander@larch-networks.com，6 封，2025-11-28 → 2026-05-26）；Oksana Loy（oksana@larch-networks.com，3 封，2026-06-02 → 2026-07-02）；Andrey Zarudniy（azarudniy@larch-networks.com，2 封，2026-03-31 → 2026-03-31）。
 - **他们嘴里的词（11 封来信、去引用后 5,288 字符的词频）**：话题（次数，最近一次）：管理型 / L2+ / L3 ×5（2026-05-26）、价格 / 折扣 ×5（2026-05-26）、固件 / 软件 ×5（2026-06-03）、PoE ×4（2026-05-26）、10G ×4（2026-05-26）、质保 / 售后 ×4（2026-07-02）；芯片 / 供应商词：Marvell ×5、CENTEC ×1；**提过的数量**：8,000（2026-03-30，「…cific request: a customer of ours needs 8,000 units of a Campus L2 swit…」，`c3ec0dc5b8622bbb`）；10（2026-07-02，「…ciate your assistance. We urgently need 10 pieces of DX1518/DX1548 ch…」，`f77f97cdc39f10a5`）。
-- **最后一球**：1:1 对话 4 段，最长一段 10 封 / 跨 13 天（2026-05-22 → 2026-06-05，「Supported SONiC for Saga Ethernet Switches | COMPU」）；最后一句是我们说的（2026-07-02，116 天前，「Re: Request for DX1518/DX1548 Chips」，`9386d851165248d5`）→ 球在对方手里。
+- **最后一球**：1:1 对话 4 段，最长一段 10 封 / 跨 13 天（2026-05-22 → 2026-06-05，「Supported SONiC for Saga Ethernet Switches | COMPU」）；最后一句是我们说的（2026-07-02，116 天前，「Re: Request for DX1518/DX1548 Chips」，`9386d851165248d5`）→ 球在对方手里；按他们过去中位 11.1 小时回信（9 次），这次 116 天没回 ≈ 常态的 251 倍 → **值得追一句**（不是催，是换个问法）。
 - **日历窗口**：对方：2026-12-04 光明节（12-04 → 12-12，非全休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

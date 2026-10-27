@@ -65,7 +65,7 @@ updated: 2026-10-27
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
 - **时机与节律**：真人来信 2 封（2025-12-19 → 2026-07-15）；对方本地时间中位 13:12（= 北京时间 14:12）；**他们回信中位 1.7 小时**（2 次，100% 在 24 小时内）；我方回信中位 0.9 小时（2 次）。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 27 封（2024-07-08 → 2026-09-24），打开标签 3 次（近 12 个月 3，最后 2026-07-15）；打开过：「Marvell Industrial Alert System」×1（2025-12-19）、「Updated Ethernet Switches Links」×1（2026-02-16）、「Saga Q3 Product Links」×1（2026-07-15）；从未打开：「8 Port Industrial PoE Switch」、「48 Port PoE Managed Switch」、「Industrial PoE Switch」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 27 封（2024-07-08 → 2026-09-24），打开标签 3 次（近 12 个月 3，最后 2026-07-15）；打开过：「Marvell Industrial Alert System」×1（2025-12-19）、「Updated Ethernet Switches Links」×1（2026-02-16）、「Saga Q3 Product Links」×1（2026-07-15）；从未打开：「8 Port Industrial PoE Switch」、「48 Port PoE Managed Switch」、「Industrial PoE Switch」；近 180 天发 7 封、打开 1 次 → 还在读，主题沿着打开过的那类走。
 - **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-11-13 → 2024-11-13；「今天」= 价格主表 2026-10-17 汇率、25% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |

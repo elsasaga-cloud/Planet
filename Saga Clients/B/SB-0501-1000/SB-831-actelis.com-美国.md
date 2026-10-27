@@ -90,6 +90,7 @@ updated: 2026-10-27
 - **写信的人（来信签名机械抽取）**：P. Casey Hurley — VP Sales - Strategic Accounts（pchurley@actelis.com，6 封，2024-09-26 → 2026-03-02）；Michal Winkler（michalw@actelis.com，1 封，2025-01-03 → 2025-01-03）。
 - **他们嘴里的词（7 封来信、去引用后 1,326 字符的词频）**：话题（次数，最近一次）：质保 / 售后 ×6（2026-03-02）。
 - **最后一球**：1:1 对话 4 段，最长一段 3 封 / 跨 0 天（2025-01-03 → 2025-01-04，「Re: [External]24 Port Fiber Switch」）；**最后一句是他们说的**（2026-03-02，238 天前，「RE: [External]Updated Ethernet Switches Links」，`840ce51782b3829d`）：「Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-4…」。
+- **同国同档参照（US，30% 档、主推线「商用 10G PoE 管理型」，共 9 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同线：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

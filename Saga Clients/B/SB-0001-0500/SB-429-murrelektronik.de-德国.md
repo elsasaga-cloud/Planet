@@ -64,6 +64,7 @@ updated: 2026-10-27
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 10 封（2025-02-25 → 2026-01-23），打开标签 2 次（近 12 个月 0，最后 2025-07-14）；打开过：「48 Port PoE Managed Switch」×1（2025-06-06）、「8 Port Industrial PoE Switch」×1（2025-07-14）；从未打开：「16 Port Ethernet Switch」、「Managed Optical Bypass Switch」、「Mini Industrial PoE Switch」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 9 / automation 1）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；兴趣品类都已碰过——缺口不在品类，在上面的断点。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 204 条 URL；官网语言 de（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/profile.php?id=61571715302268、https://www.instagram.com/murrelektronik/、https://www.linkedin.com/company/murrelektronik/。
+- **同国同档参照（DE，30% 档、主推线「工业 非PoE 非管理」，共 2 户有动静，列前 3）**：SA-008 fiberone.de（A，同档：成交 STC-4168XGGCM、STC-424XGGM，回过 43 次（最近 2026-10-15），1:1 报过 14 次）；SB-205 barox.de（B，同档：回过 3 次（最近 2024-05-03），1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-06，德国多数工厂整周停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

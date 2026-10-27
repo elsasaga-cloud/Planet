@@ -61,9 +61,10 @@ updated: 2026-10-27
 
 - **发信窗口（US 全库 2491 封群发的打开标签，对方本地时间；均值 5.4%）**：周三 08–10 点 13.6%（44 封）、周二 08–10 点 11.1%（63 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **本国来询季节（US 全库 53 个「户·月」真人来信）**：8 月 17.0% / 11 月 11.3% / 1 月 11.3%——本户来信太少，按本国节奏排下一步。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 32 封（2025-01-09 → 2026-09-10），打开标签 3 次（近 12 个月 2，最后 2026-01-14）；打开过：「8 Port Industrial PoE Switch」×1（2025-01-09）、「Optional Marvell Chipset Solutions」×1（2025-12-05）、「OEM Core Switching Solution」×1（2026-01-14）；从未打开：「Managed Optical Bypass Switch」、「10G Enterprise SFP Switch」、「48 Port PoE Managed Switch」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 32 封（2025-01-09 → 2026-09-10），打开标签 3 次（近 12 个月 2，最后 2026-01-14）；打开过：「8 Port Industrial PoE Switch」×1（2025-01-09）、「Optional Marvell Chipset Solutions」×1（2025-12-05）、「OEM Core Switching Solution」×1（2026-01-14）；从未打开：「Managed Optical Bypass Switch」、「10G Enterprise SFP Switch」、「48 Port PoE Managed Switch」；**最近连续 9 封没打开**（近 180 天发 5 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 14 / automation 0） / 安防 PoE（cctv 4 / camera 18 / poe 92）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；兴趣品类都已碰过——缺口不在品类，在上面的断点。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 9 条 URL；社媒：https://www.facebook.com/Infinite.cables.inc、https://www.instagram.com/infinite.cables.inc、https://www.youtube.com/InfiniteCablesOnline。
+- **同国同档参照（US，20% 档、主推线「商用 2.5G PoE 管理型」，共 2 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同档：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SB-020 52networks.com（B，同档：成交 STI-288GP，回过 14 次（最近 2025-07-24））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

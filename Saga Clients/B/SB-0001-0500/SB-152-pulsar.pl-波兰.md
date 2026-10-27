@@ -60,7 +60,7 @@ updated: 2026-10-27
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
 - **发信窗口（PL 全库 585 封群发的打开标签，对方本地时间；均值 5.5%）**：周四 12–14 点 4.8%（42 封）、周五 10–12 点 2.4%（41 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 18 封（2024-07-04 → 2026-09-25），打开标签 7 次（近 12 个月 0，最后 2025-08-05）；打开过：「Industrial poe managed switch」×1（2024-08-05）、「8 port ethernet switch」×1（2024-08-26）、「Mini Industrial PoE Switch」×1（2024-09-25）、「8 Port Industrial PoE Switch」×1（2024-11-25）；从未打开：「10G media converter」、「Industrial PoE Switch」、「Marvell Software Function List」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 18 封（2024-07-04 → 2026-09-25），打开标签 7 次（近 12 个月 0，最后 2025-08-05）；打开过：「Industrial poe managed switch」×1（2024-08-05）、「8 port ethernet switch」×1（2024-08-26）、「Mini Industrial PoE Switch」×1（2024-09-25）、「8 Port Industrial PoE Switch」×1（2024-11-25）；从未打开：「10G media converter」、「Industrial PoE Switch」、「Marvell Software Function List」；**最近连续 6 封没打开**（近 180 天发 3 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-07-04 → 2024-07-04；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
@@ -69,6 +69,7 @@ updated: 2026-10-27
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 2 个（Pulsar、Bosch）；官网语言 pl-PL（信照样英文，首句可用对方语言问候）；社媒：https://wa.me/?text=https://www.pulsar.pl/PL_7000_produkty-pulsar-promocje_aktualnosci、https://www.facebook.com/PULSARzasilacze、https://www.facebook.com/PULSARzasilacze?ref=embed_page。
+- **同国同档参照（PL，20% 档，共 1 户有动静，列前 3）**：SA-023 fcnet.pl（A，同档：回过 2 次（最近 2025-04-22））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-11 独立日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

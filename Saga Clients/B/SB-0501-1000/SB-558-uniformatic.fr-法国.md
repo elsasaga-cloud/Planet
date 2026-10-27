@@ -57,7 +57,7 @@ updated: 2026-10-27
 
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 18 封（2025-02-14 → 2026-09-22），打开标签 1 次（近 12 个月 1，最后 2026-07-13）；打开过：「Firmware 7.5 L2+ Feature Update」×1（2026-07-13）；从未打开：「10G Enterprise SFP Switch」、「8 Port Industrial PoE Switch」、「Marvell Alleycat5 Solution」。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 18 封（2025-02-14 → 2026-09-22），打开标签 1 次（近 12 个月 1，最后 2026-07-13）；打开过：「Firmware 7.5 L2+ Feature Update」×1（2026-07-13）；从未打开：「10G Enterprise SFP Switch」、「8 Port Industrial PoE Switch」、「Marvell Alleycat5 Solution」；近 180 天发 4 封、打开 1 次 → 还在读，主题沿着打开过的那类走。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
