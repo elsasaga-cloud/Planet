@@ -1,0 +1,76 @@
+# XC-C0590 · Realtek RTL83xx系列 (台湾) · 中国台湾
+
+> **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-56.md`:23 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+
+## 1. 初判与理由
+- 初判：**XC** — 品牌原厂 / 芯片商 / VMS 厂商 / 同行，不是买家
+- 标记：profile批次文件、原厂或同行、多处出现×2
+- 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
+- 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
+
+## 2. 基本事实（来源库口径，未经本库复核）
+| 项 | 内容 |
+|---|---|
+| 公司 | Realtek RTL83xx系列 (台湾) |
+| 国家 / 城市 | 中国台湾 |
+| ISO | TW |
+| 网站 | — |
+| 类型 / 角色 | 芯片平台 - PoE交换控制器 |
+| 他们首推（仅参考，不照搬） | — |
+| 来源章节 | Batch 56 — 芯片平台+GitHub开源+欧洲专业客户 (Marvell/Realtek/Broadcom芯片+开源项目+LinkedIn欧洲) > 🔧 一、芯片平台 (Marvell/Realtek/Broadcom/Microchip) |
+| 来源库字段·类型 | 芯片平台 - PoE交换控制器 |
+| 来源库字段·RTL8305系列 | RTL8305NB-CG (单芯片5口10/100M交换控制器QFN-48), RTL8305SC-LF (5口10/100M双MII PQFP-128), RTL8305SB (5口10/100M双MII), RTL8304MB-CG (4口10/100M) |
+| 来源库字段·RTL8306系列 | RTL8306M-CG (单芯片6口10/100M MII/RMII), RTL8306SD |
+| 来源库字段·RTL8309系列 | RTL8309SB-LF (9口) |
+| 来源库字段·RTL8367系列 | RTL8367SCI-CG |
+| 来源库字段·RTL8310系列 | RTL8310H(I) (8口SPE PHY+2口千兆上行2.5GB+RTL8221B HSGMII) |
+| 来源库字段·RTL8370/8372/8382 | PoE交换控制器, RTL8380/RTL8390平台 |
+| 来源库字段·RTL8238/RTL8239 | PoE PSE芯片, 配合管理MCU, GS1900-24EP使用 |
+| 来源库字段·RTL9303 | 10G PoE交换芯片, MokerLink POE-10G07110GSM使用 |
+| 来源库字段·特点 | 以太网交换控制器市场领导者, 3/5/8/16/24口快速以太网, 独立+嵌入式交换, 集成PHY单芯片方案, 工业级版本, 管理+非管理交换 |
+| 来源库字段·PoE管理 | RTL8380/RTL8390平台PoE通常不直接SoC管理, 中间MCU与PoE PSE控制器芯片通信, 支持Broadcom+Microsemi两种实现, OS守护进程轮询控制器管理PoE端口+状态 |
+| 来源库字段·开发策略 | 台湾PoE交换控制器芯片 (RTL83xx全系列+RTL9303 10G) ★★★★★ |
+| 来源文件 | `profile/new-customers-batch-56.md` 第 23 行 @ elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe) |
+| 同一家在来源库其他位置 | `03-海外客户开发清单.md`:3065（91. Batch 56 — 芯片平台+GitHub开源+欧洲专业客户 (Mar） |
+
+## 3. 联系方式
+- 邮箱：无（表单或待挖）
+
+## 4. 关键人（KP）
+- 无（待挖）
+
+## 5. 证据与来源 URL（来源库）
+- 无
+
+## 6. 已知触达
+- Saga S 箱 2026-09/10 群发名单：未匹配到本户邮箱
+
+## 6b. 来源库原文块（原样，含其产品主张——不采信型号与价格）
+
+> 2. Realtek RTL83xx系列 (台湾)
+> - **类型**: 芯片平台 - PoE交换控制器
+> - **产品系列**:
+>   - **RTL8305系列**: RTL8305NB-CG (单芯片5口10/100M交换控制器QFN-48), RTL8305SC-LF (5口10/100M双MII PQFP-128), RTL8305SB (5口10/100M双MII), RTL8304MB-CG (4口10/100M)
+>   - **RTL8306系列**: RTL8306M-CG (单芯片6口10/100M MII/RMII), RTL8306SD
+>   - **RTL8309系列**: RTL8309SB-LF (9口)
+>   - **RTL8367系列**: RTL8367SCI-CG
+>   - **RTL8310系列**: RTL8310H(I) (8口SPE PHY+2口千兆上行2.5GB+RTL8221B HSGMII)
+>   - **RTL8370/8372/8382**: PoE交换控制器, RTL8380/RTL8390平台
+>   - **RTL8238/RTL8239**: PoE PSE芯片, 配合管理MCU, GS1900-24EP使用
+>   - **RTL9303**: 10G PoE交换芯片, MokerLink POE-10G07110GSM使用
+> - **特点**: 以太网交换控制器市场领导者, 3/5/8/16/24口快速以太网, 独立+嵌入式交换, 集成PHY单芯片方案, 工业级版本, 管理+非管理交换
+> - **PoE管理**: RTL8380/RTL8390平台PoE通常不直接SoC管理, 中间MCU与PoE PSE控制器芯片通信, 支持Broadcom+Microsemi两种实现, OS守护进程轮询控制器管理PoE端口+状态
+> - **开发策略**: 台湾PoE交换控制器芯片 (RTL83xx全系列+RTL9303 10G) ★★★★★
+>
+> ——另见 `03-海外客户开发清单.md`:3065：
+> 2. **Realtek RTL83xx系列 (台湾)** - PoE交换控制器 | RTL8305系列 (NB-CG QFN-48/SC-LF PQFP-128/SB双MII/4MB-CG 4口) | RTL8306系列 (M-CG 6口MII/RMII/SD) | RTL8309系列 (SB-LF 9口) | RTL8367系列 (SCI-CG) | RTL8310系列 (H(I) 8口SPE PHY+2口千兆2.5GB+RTL8221B HSGMII) | RTL8370/8372/8382 PoE交换控制器 RTL8380/RTL8390平台 | RTL8238/RTL8239 PoE PSE芯片配合管理MCU GS1900-24EP使用 | RTL9303 10G PoE交换芯片MokerLink POE-10G07110GSM使用 | 以太网交换控制器市场领导者 | 3/5/8/16/24口快速以太网 | 独立+嵌入式 | 集成PHY单芯片 | 工业级 | 管理+非管理 | PoE管理RTL8380/RTL8390通常不直接SoC中间MCU与PoE PSE控制器通信支持Broadcom+Microsemi两种实现OS守护进程轮询 ★★★★★
+
+## 7. 我方产品线提示
+- HRUI PoE 非管理型为主 + SmartByte PoE 管理型（安防/CCTV 渠道：价格 + 交期 + 长距 PoE）
+- 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
+- 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
+
+## 8. 研究与跟进（第 2 步起填）
+- 研究状态：未研究
+- 研究结论 / 升降建议：—
+- 下一步：—

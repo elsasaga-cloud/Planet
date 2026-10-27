@@ -148,6 +148,9 @@ ENDUSER2 = re.compile(r'(NHS|\bTrust\b|Universit|Politecnico|Ospedale|Hôpital|K
                       r'Halkbank|VakıfBank|QNB|Denizbank|TEB\b|ING\b|HSBC|Santander|BBVA|CaixaBank|Sabadell|Bankia|Unicredit|Intesa|BNP|Société Générale|'
                       r'Crédit Agricole|Commerzbank|Deutsche Bank|Barclays|Lloyds|NatWest|RBS\b|Nationwide|PKO|Pekao|mBank|Santander Bank|Alior|Millennium|'
                       r'Al Rajhi|SNB\b|Riyad Bank|SAB\b|Alinma|Emirates NBD|FAB\b|ADCB|Mashreq|DIB\b|RAKBANK)', re.I)
+INDUSTRY_CTX = re.compile(r'(制造|工业|食品|制药|化工|能源|汽车|物流|农业|奢侈|纺织|家具|陶瓷|眼镜|葡萄酒|咖啡|香水|钢铁|矿业|石油|航空|港口|交通|医疗|教育|政府|'
+                          r'银行|金融|零售连锁|酒店|体育|旅游|房地产|建筑|基础设施|公用事业|电信运营|军事|国防|海事|铁路|数据中心|大学|医院|机场|超市|监狱|'
+                          r'市政|智慧城市|垂直|终端|Vertical|End[- ]?user)', re.I)
 BUYER = re.compile(r'(分销|批发|经销|代理|集成|安装|工程|弱电|零售|电商|网店|进口|贸易|供应|方案商|服务商|系统商|安防公司|品牌商|自有品牌|OEM|ODM|'
                    r'VAR|\bSI\b|授权|经销|Authori[sz]ed|Dealer|Partner|Distribut|Wholesal|Install|Integrat|Reseller|Retail|Import|Trading|Supply|Supplier|Solutions?|Systems?|'
                    r'Technolog|Network|Telecom|Electronic|Security|Securit|Elektronik|Sistem|Güvenlik|Seguridad|Sécurité|Sicherheit|Sicurezza|'
@@ -527,8 +530,9 @@ def classify(rec):
     if VENDOR.search(name) or re.search(r'芯片|Chip|Semiconductor|VMS 厂商|VMS厂商|原厂', typ):
         return 'C', '品牌原厂 / 芯片商 / VMS 厂商 / 同行，不是买家', flags + ['原厂或同行']
     buyer_sig = bool(BUYER.search(name + ' ' + typ)) or rec.get('their_class') in ('A', 'B', 'C', 'D') or bool(DOMAIN_NAME.match(name.strip()))
+    hp = ' '.join(rec.get('heading_path') or [])
     is_enduser = bool(ENDUSER.search(name)) or bool(ENDUSER2.search(name)) or (bool(ENDUSER.search(typ)) and not BUYER.search(typ)) or \
-        (not buyer_sig and bool(ENDUSER.search(' '.join(rec.get('heading_path') or []))))
+        (not buyer_sig and (bool(ENDUSER.search(hp)) or bool(INDUSTRY_CTX.search(hp))))
     if is_enduser:
         return 'C', '终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）', flags + ['终端触点']
     if '聚合条目' in flags:
