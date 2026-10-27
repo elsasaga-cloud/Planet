@@ -40,7 +40,7 @@
  "kp": [
   {
    "name": "Esef Taşkıran",
-   "role": "Genel Müdür（名录公开）",
+   "role": "Genel Müdür / Key Principal（D&B）= **老板 = 联系人**（Ltd. Şti. 股东名单付费未取）；1992 创业、2015-03-03 改组 Ltd.、1–24 人；展会 + WhatsApp 户（问 2 光 8 电 PoE 网管 bypass → $105 → 要 L2 + 样品）（第 87 批 官方登记核实 2026-10-27）",
    "email": "esef@onsis.com.tr（用户表）",
    "phone": "+90 312 435 67 53",
    "source": "https://rocketreach.co/onsis-elektrik-elektronik-guvenlik-sitemleri-management_b73b6c95c7ea033f"
@@ -54,11 +54,12 @@
   "level": "B 级加厚 v1（登记核对）"
  },
  "company_facts": {
-  "legal_name": "Onsis Elektrik Elektronik Güvenlik Sistemleri İnşaat Sanayi ve Ticaret Ltd. Şti.",
+  "legal_name": "ONSİS ELEKTRİK ELEKTRONİK GÜVENLİK SİSTEMLERİ İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ（Limited Şirket；2015-03-03；Emek Mah. Kırım Cad. Saruhan Apt. No:78 B/28, 06490 Çankaya / Ankara）",
   "founded": "1992（业务）/ 2015-03-03（法人）",
   "hq": "Emek Mah. Kırım Cad. Saruhan Apt. No:78 B/28, 06490 Çankaya / Ankara（+90 312 435 67 53）",
   "size": "1–24（D&B）；RocketReach 6 人",
-  "other": "政府招标 + 私人住宅项目（守界：公共招标项目按个案）；总经理 Esef Taşkıran"
+  "other": "政府招标 + 私人住宅项目（守界：公共招标项目按个案）；总经理 Esef Taşkıran",
+  "staff": "1–24（D&B）；Datanyze「359 人 / $28.2M」为错配不采信（第 87 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "CCTV / 火灾探测 / 防盗报警 / 考勤系统承包",

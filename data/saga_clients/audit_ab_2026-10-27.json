@@ -7764,7 +7764,7 @@
    "p1": "STH 系列 CENTEC（VXLAN/EVPN/MPLS）",
    "tier": 25,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-120": {
@@ -13066,7 +13066,7 @@
    "p1": "STC-28DGGPM",
    "tier": 25,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-361": {
@@ -15860,7 +15860,7 @@
    "p1": "STH 系列",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-488": {
@@ -22306,7 +22306,7 @@
    "p1": "STI-280GE",
    "tier": 30,
    "signals": 2,
-   "kp": 3,
+   "kp": 4,
    "summary": true
   },
   "SB-781": {
@@ -23538,7 +23538,7 @@
    "p1": "STI-288GPM",
    "tier": 20,
    "signals": 3,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-837": {
@@ -25650,7 +25650,7 @@
    "p1": "STI-288GPM",
    "tier": 20,
    "signals": 3,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-933": {

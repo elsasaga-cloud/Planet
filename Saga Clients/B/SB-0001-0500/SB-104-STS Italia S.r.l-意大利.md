@@ -82,6 +82,25 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 87 批（Italia · Registro Imprese 镜像（ufficiocamerale / companyreports / reportaziende / atoka：P.IVA、REA、ATECO、2022–2024 fatturato、utile、人数）+ 官网 contattaci（REA 1490600），2026-10-27 查；https://www.ufficiocamerale.it/4755/sts-italia-srl）：**
+
+- 法定名 / 登记号：STS ITALIA S.R.L.（Arcore MB；原 Vicenza） · P.IVA / C.F. 00865310247 · REA MB 1490600（原 VI 175684）· SDI MJ1OYNU · PEC stsitaliasrl@pec.telemar.it · 状态 **Attiva（2024 年报已交；无 protesti）** · 成立 1984-03-16 成立（登记 1984-05-11；原籍维琴察 Via dell’Edilizia 110，后迁 Arcore） · S.r.l. · 股本 €110,000 全缴 · 欧盟标准「media impresa」（50–249 人）· 私有
+- 行业码 / 经营范围：ATECO 43.21.02 电信 / 网络布线安装（系统集成商：安防 / 电信 / 网络工程，LinkedIn「Sicurezza e investigazioni」；办事处 Milano 等）
+- 注册地址：Via Altiero Spinelli 134, 20862 Arcore (MB)
+- 规模档：**中型：73 人（2026 登记）/ 82（atoka）/ 50–99 档**
+- 账目：**Fatturato €7,973,181（2024）/ €8.0M（2023）/ €7.0M（2022）；utile €438,664（2024，-5.2%）；人工成本 €3,227,856（2024）**；营收稳定；意大利年报 7–8 月（2025 账 2026-07 已到期 → 复查 2027-07 看 2025）
+- 高管：Silvio Stefani（atoka 成员列表首位）— 推定 amministratore / 创始家族（研究档 KP Eros Stefani 同姓 → 家族第二代）
+- 高管：Mariano CHEMELLO、Fabio CHEMELLO — 成员（合伙家族 / 股东）；Giovanni LA CROCE — 成员
+- 高管：研究档 KP Eros Stefani + Andrea Rongoni 不在登记成员表 → Rongoni = 采购 / 技术经办
+- 控制人 / 股东：Stefani + Chemello 两家族（atoka 成员表，股权比例付费）
+- 抵押 / 诉讼 / 担保：无 protesti
+- **这意味着什么：**
+  - **比研究档预想大得多：STS Italia 是 1984 年起、73–82 人、年营收 €8.0M、盈利 €44 万的伦巴第系统集成商（布线 / 安防 / 网络），而不是小安防店；KP Eros Stefani 姓氏 = 创始家族 Stefani** → 集成 25% 档但按「项目批量」谈：24/48 口 PoE 管理型 + 10G 上行（STC-424XGGPM-280W $180 / STC-448XGGPM $335 / STI-480XGGM）配他们的布线项目；信写给 Eros Stefani（家族）而非 Rongoni
+  - 意大利付款习惯 30/60 天 → 首单 T/T 30/70，复购可谈 30 天（€8M 稳定盈利、无 protesti，信用可）；CE / RoHS + 意大利语数据表加分；DAP 米兰走 Saga 百运网线
+  - 注意同名：米兰 Opera 另有一家 STS Italia S.r.l.（P.IVA 10621530152，5–9 人，仪器批发）—— **本户是 Arcore 00865310247**，别搞混
+  - 复查 2027-07（2025 年报）
+- 备注：研究档 size「小型」应上调为中型 73–82 人 / €8M。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,17 +145,18 @@ updated: 2026-10-27
 - **【用户表】A 优质名单（Italy）；1 次实质回复；8 次跟进；联系人 Eros Stefani / Andrea Rongoni**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Eros Stefani（联系人（用户表））eros.stefani@stsitalia.com —〔用户表〕
-- **KP**：Andrea Rongoni（联系人（用户表））andrea.rongoni@stsitalia.com —〔用户表〕
+- **KP**：Eros Stefani（联系人 · 姓氏 = 创始家族 Stefani（atoka 成员表首位 Silvio Stefani）→ 推定家族第二代 / 管理层；公司 73–82 人、2024 营收 €7,973,181、净利 €438,664 —— 比研究档「小安防店」大得多（第 87 批 官方登记核实 2026-10-27））eros.stefani@stsitalia.com —〔用户表〕
+- **KP**：Andrea Rongoni（采购 / 技术经办（不在登记成员表）（第 87 批 官方登记核实 2026-10-27））andrea.rongoni@stsitalia.com —〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 + 同名消歧））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | STS Italia S.r.l. |
+| 法定名称 | STS ITALIA S.R.L.（P.IVA / C.F. 00865310247；REA MB 1490600，原 VI 175684；1984-03-16 成立；Via Altiero Spinelli 134, 20862 Arcore (MB)；ATECO 43.21.02；股本 €110,000；PEC stsitaliasrl@pec.telemar.it；SDI MJ1OYNU） |
 | 成立 | 1984 |
 | 总部/地址 | Via Altiero Spinelli 134, 20862 Arcore (MB), Italia |
+| 人数 | 73 人（2026 登记）/ 82（atoka）；2024 fatturato €7,973,181、utile €438,664、人工成本 €3,227,856；2023 €8.0M / 2022 €7.0M（第 87 批 官方登记核实 2026-10-27） |
 | 注册/税号 | C.F./P.I. 00865310247 · REA 1490600（Milano Monza Brianza Lodi） |
 | 其他 | 四位现任股东中两位为创始人；服务链 咨询→设计→安装→维护→抢修；控制室/集中监控能力（「Centralizzazione Impianti Attivi」）；**同名消歧：sts-italia.it = STS Italia S.r.l.（Opera MI，瑞士 STS 压力传感器代理，P.IVA 10621530152）与本客户无关** |
 
@@ -219,8 +239,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Eros Stefani | 联系人（用户表） | eros.stefani@stsitalia.com / — | 调研核实（公开页） | 用户表 |
-| Andrea Rongoni | 联系人（用户表） | andrea.rongoni@stsitalia.com / — | 调研核实（公开页） | 用户表 |
+| Eros Stefani | 联系人 · 姓氏 = 创始家族 Stefani（atoka 成员表首位 Silvio Stefani）→ 推定家族第二代 / 管理层；公司 73–82 人、2024 营收 €7,973,181、净利 €438,664 —— 比研究档「小安防店」大得多（第 87 批 官方登记核实 2026-10-27） | eros.stefani@stsitalia.com / — | 调研核实（公开页） | 用户表 |
+| Andrea Rongoni | 采购 / 技术经办（不在登记成员表）（第 87 批 官方登记核实 2026-10-27） | andrea.rongoni@stsitalia.com / — | 调研核实（公开页） | 用户表 |
 | Eros stefani  sales manager | — | eros.stefani@stsitalia.com / andrea.rongoni@stsitalia.com / +393489019911 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

@@ -47,14 +47,14 @@
  "kp": [
   {
    "name": "Eros Stefani",
-   "role": "联系人（用户表）",
+   "role": "联系人 · 姓氏 = 创始家族 Stefani（atoka 成员表首位 Silvio Stefani）→ 推定家族第二代 / 管理层；公司 73–82 人、2024 营收 €7,973,181、净利 €438,664 —— 比研究档「小安防店」大得多（第 87 批 官方登记核实 2026-10-27）",
    "email": "eros.stefani@stsitalia.com",
    "phone": "—",
    "source": "用户表"
   },
   {
    "name": "Andrea Rongoni",
-   "role": "联系人（用户表）",
+   "role": "采购 / 技术经办（不在登记成员表）（第 87 批 官方登记核实 2026-10-27）",
    "email": "andrea.rongoni@stsitalia.com",
    "phone": "—",
    "source": "用户表"
@@ -68,12 +68,13 @@
   "level": "B 级加厚 v1（官网核对 + 同名消歧）"
  },
  "company_facts": {
-  "legal_name": "STS Italia S.r.l.",
+  "legal_name": "STS ITALIA S.R.L.（P.IVA / C.F. 00865310247；REA MB 1490600，原 VI 175684；1984-03-16 成立；Via Altiero Spinelli 134, 20862 Arcore (MB)；ATECO 43.21.02；股本 €110,000；PEC stsitaliasrl@pec.telemar.it；SDI MJ1OYNU）",
   "registry": "C.F./P.I. 00865310247 · REA 1490600（Milano Monza Brianza Lodi）",
   "founded": "1984",
   "hq": "Via Altiero Spinelli 134, 20862 Arcore (MB), Italia",
-  "size": "51–200（LinkedIn 自报）",
-  "other": "四位现任股东中两位为创始人；服务链 咨询→设计→安装→维护→抢修；控制室/集中监控能力（「Centralizzazione Impianti Attivi」）；**同名消歧：sts-italia.it = STS Italia S.r.l.（Opera MI，瑞士 STS 压力传感器代理，P.IVA 10621530152）与本客户无关**"
+  "size": "中型（50–99 人档；欧盟「media impresa」）（第 87 批 官方登记核实 2026-10-27）",
+  "other": "四位现任股东中两位为创始人；服务链 咨询→设计→安装→维护→抢修；控制室/集中监控能力（「Centralizzazione Impianti Attivi」）；**同名消歧：sts-italia.it = STS Italia S.r.l.（Opera MI，瑞士 STS 压力传感器代理，P.IVA 10621530152）与本客户无关**",
+  "staff": "73 人（2026 登记）/ 82（atoka）；2024 fatturato €7,973,181、utile €438,664、人工成本 €3,227,856；2023 €8.0M / 2022 €7.0M（第 87 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "火灾探测 IRAI / 排烟 EFC（守界：消防主系统不供货，仅通用网络）",

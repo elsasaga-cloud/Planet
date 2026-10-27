@@ -33,7 +33,7 @@
  "kp": [
   {
    "name": "Yaroslav",
-   "title": "（未署职务）",
+   "title": "（未署职务）—— 本轮 1 次 ЕГРЮЛ 镜像检索未能定位 comtinu.ru 的法人 → 不再检索；下次回信时请其提供 реквизиты（ИНН）用于形式发票（第 87 批 官方登记核实 2026-10-27）",
    "email": "yb@comtinu.ru",
    "phone": "",
    "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
@@ -47,7 +47,7 @@
   "level": "邮件证据"
  },
  "company_facts": {
-  "legal_name": "Comtinu（待核）",
+  "legal_name": "Comtinu（comtinu.ru；法人名未定位 —— ЕГРЮЛ 镜像无关联，官网快照 timeout）（第 87 批 官方登记核实 2026-10-27）",
   "founded": "",
   "hq": "俄罗斯",
   "size": "",

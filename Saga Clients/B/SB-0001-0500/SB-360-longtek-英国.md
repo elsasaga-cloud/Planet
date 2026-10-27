@@ -88,6 +88,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 87 批（UK · Companies House（官方）公司页 + officers 页，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/05227994）：**
+
+- 法定名 / 登记号：LONGTEK ELECTRONICS EUROPE LTD · 05227994 · 状态 **Active（账目至 2025-03-31 已报；确认声明 2026-04-12 已交）** · 成立 2004-09-10（Form 10 代办壳起步，4 天后换为夫妇本人） · Private limited company
+- 行业码 / 经营范围：80200 安防系统服务（CCTV / 门禁 —— Longtek 以 CCTV 配件 + 网络产品为主，研究档）
+- 注册地址：12 Bishops Close, Enfield EN1 3QJ（**住宅地址 = 家庭公司**）
+- 规模档：微型（夫妻店：1 董事 + 1 秘书，21 年无其他任命）
+- 账目：小微账目（下期至 2026-03-31，2026-12-31 到期）；数字需 iXBRL（不取）；2026-12-31（账目）/ 2027-04-26（确认声明）
+- 高管：THEVALOJAN, Thevarajah — Director（2004-09-10 起，1975-05 生，英籍，身份已核）= 研究档 KP → **老板 = 联系人**
+- 高管：THEVALOJAN, Tharshini — Secretary（2004-09-10 起；同址，配偶）
+- 控制人 / 股东：待取；推定 Thevalojan 夫妇
+- 抵押 / 诉讼 / 担保：未取
+- **这意味着什么：**
+  - **老板 = 联系人（Thevarajah Thevalojan，21 年夫妻店，注册在 Enfield 住宅）** → 小额现金单客户：4–8 口 PoE 非管理 + STC-028GP 零售档，UKCA + CE，MOQ 1 箱、100% 预付，DAP 伦敦走 Saga 百运网线；别投入定制 / 账期
+  - 与 SB-151 Optiwatch 同在 Enfield（EN1）且同 SIC 80200 → 两户可共用同一批 DAP 伦敦运费与同一「London security installers」话术；不要在信里互相提及
+  - 复查：2026-12-31 账目到期
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,15 +145,17 @@ updated: 2026-10-27
 - **【用户表】17 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Thevarajah Thevalojan（Founder / Director（Companies House 公开））admin@longtek.co.uk（公司公开） +44 20 8805 0002〔https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd〕
+- **KP**：Thevarajah Thevalojan（Director（Companies House 05227994，2004-09-10 起；1975-05 生，英籍，身份已核）= **老板 = 联系人**；配偶 Tharshini Thevalojan 任 Secretary；注册地为 Enfield 住宅 = 21 年夫妻店（第 87 批 官方登记核实 2026-10-27））admin@longtek.co.uk（公司公开） +44 20 8805 0002〔https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd〕
+- **KP**：Tharshini Thevalojan（Secretary（2004-09-10 起；同址 = 配偶）（第 87 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/05227994/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Longtek Electronics Europe Ltd（Companies House 05227994，2004-09-10；SIC 80200） |
+| 法定名称 | LONGTEK ELECTRONICS EUROPE LTD（Companies House 05227994；2004-09-10；12 Bishops Close, Enfield EN1 3QJ（住宅）；SIC 80200；账目至 2025-03-31 已报，下期 2026-12-31 到期） |
 | 总部/地址 | 12 Bishops Close, Enfield EN1 3QJ, UK（+44 20 8805 0002；admin@longtek.co.uk / info@longtek.co.uk；0800 511 8611） |
+| 人数 | 微型（夫妻 2 人：1 董事 + 1 秘书）（第 87 批 官方登记核实 2026-10-27） |
 | 其他 | SSAIB 认证安装商；关联公司 Longtek Commercial Ltd（14264827，2022） |
 
 - **业务线**：CCTV / 入侵报警 / 门禁安装与维护；火灾报警安装（守界：火灾主系统不供）
@@ -240,7 +258,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Thevarajah Thevalojan | Founder / Director（Companies House 公开） | admin@longtek.co.uk（公司公开） / +44 20 8805 0002 | 调研核实（公开页） | https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd |
+| Thevarajah Thevalojan | Director（Companies House 05227994，2004-09-10 起；1975-05 生，英籍，身份已核）= **老板 = 联系人**；配偶 Tharshini Thevalojan 任 Secretary；注册地为 Enfield 住宅 = 21 年夫妻店（第 87 批 官方登记核实 2026-10-27） | admin@longtek.co.uk（公司公开） / +44 20 8805 0002 | 调研核实（公开页） | https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd |
+| Tharshini Thevalojan | Secretary（2004-09-10 起；同址 = 配偶）（第 87 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/05227994/officers |
 | Logan Raj | — | logan@longtek.co.uk / +02088050002 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

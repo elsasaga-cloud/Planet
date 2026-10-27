@@ -40,7 +40,15 @@
    "date": "2026-10-20"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Roger Allan Wahlgren",
+   "role": "Daglig leder（CEO，2019-01 起）+ Styremedlem（A 股股东代表）= 老板 / 拍板人；研究档原无具名 KP → 下一封写给他（第 87 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://data.brreg.no/enhetsregisteret/api/enheter/959977046/roller"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -49,11 +57,12 @@
   "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-073，W 批次调研 2026-10-19/20）"
  },
  "company_facts": {
-  "legal_name": "Fiberworks AS（fiberworks.no）",
-  "founded": "",
+  "legal_name": "FIBERWORKS AS（Org.nr 959977046；AS；1990-12-27 成立；Eikenga 11, 0579 Oslo；NACE 46.500；股本 NOK 500,000；前名 INS Communications AS 等 6 个；2025 年报已交）",
+  "founded": "1990-12-27（Brønnøysund 官方 API）（第 87 批 官方登记核实 2026-10-27）",
   "hq": "Oslo（Eikenga 11, 0579 Oslo）, 挪威",
-  "size": "",
-  "other": "Planet 渠道档案 PB-073（2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json）；自有品牌：否；最大未知：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发）"
+  "size": "22 人（官方登记 2026-10）（第 87 批 官方登记核实 2026-10-27）",
+  "other": "Planet 渠道档案 PB-073（2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json）；自有品牌：否；最大未知：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发）",
+  "staff": "22 名员工（NAV Aa-registeret 2026-10-10）（第 87 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）"

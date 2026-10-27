@@ -33,7 +33,7 @@
  "kp": [
   {
    "name": "Lynn McCullough",
-   "title": "Vice President of Sales",
+   "title": "Vice President of Sales（研究档）= 非老板；拍板人 = Key Principal Vyacheslav (Slav) Stein（D&B；SEC 10-K 2004「两名主要股东兼高管」之一）→ 对表信 cc / 改写给 Stein（第 87 批 官方登记核实 2026-10-27）",
    "email": "lmccullough@signamax.com",
    "phone": "",
    "source": "用户表"
@@ -51,6 +51,13 @@
    "email": "",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "Vyacheslav (Slav) Stein",
+   "role": "Key Principal（D&B）= 创始股东 / 拍板人（AESP 1983 年成立；曾 Nasdaq 上市后私有化）（第 87 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.dnb.com/business-directory/company-profiles.aesp_inc.c51369a341bc16874f588edaeaa2d197.html"
   }
  ],
  "grade_override": null,
@@ -62,7 +69,11 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 signamax.com，语言 en，快照状态 ok；角色判定来源：待核"
+  "other": "官网 signamax.com，语言 en，快照状态 ok；角色判定来源：待核；2005–2014 与捷克 Apron（Signamax LLC / signamax.cz）打了 9 年 SIGNAMAX 商标官司（E.D. Va. 2014）→ 欧洲 Signamax ≠ 美国 AESP，别混为一户；2004 年 34% 销售走俄乌独家分销（第 87 批 官方登记核实 2026-10-27）",
+  "legal_name": "AESP, Inc.（d/b/a Advanced Electronic Support Products；Florida corporation 1983；品牌 Signamax，子公司 Signamax, Inc.；SEC CIK 1026744 已退市；999 NW 159th Dr, Miami FL 33169）",
+  "founded": "1983（佛罗里达；SEC 10-K）（第 87 批 官方登记核实 2026-10-27）",
+  "staff": "历史 72 人 / 净销售 $15.8M（2004，SEC）；现规模不明（估明显缩小）（第 87 批 官方登记核实 2026-10-27）",
+  "size": "小型（历史 72 人 2004）（第 87 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "SFP / MC / 交换机 / 工业 FS（自有品牌 Signamax）"

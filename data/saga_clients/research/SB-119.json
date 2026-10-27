@@ -47,10 +47,17 @@
  "kp": [
   {
    "name": "Kyle Leissner",
-   "role": "Founder（官网 Our Story）",
+   "role": "Founder / Owner / President & CEO（SAM.gov 登记官员 PRESIDENT，UEI PU66QHF8L5F6；Aggie 100 「Founder, Owner, President」；Texas A&M BBA + MS MIS）= **老板 = 联系人**；公司 = 德州学生公寓 MDU 批量 Wi-Fi ISP + 布线商，20–50 人、$5M 级（第 87 批 官方登记核实 2026-10-27）",
    "email": "kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100）",
    "phone": "979-721-9000（公司）",
    "source": "https://wirestar.net/about/；S 邮箱来信表头"
+  },
+  {
+   "name": "Logan Roy",
+   "role": "Director of Business Development（官网 leadership；BBB 管理层）（第 87 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://wirestar.net/our-story/"
   }
  ],
  "grade_override": null,
@@ -61,11 +68,12 @@
   "level": "B 级加厚 v1（官网 + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "WireStar, Inc.（d/b/a WireStar Networks）",
+  "legal_name": "WireStar, Inc.（d/b/a WireStar Networks；Texas S-Corp；2007-12-06 注册 / 业务 2005-02-01；SAM UEI PU66QHF8L5F6 有效至 2026-12-02；4156 State Highway 6 S, College Station TX 77845；前身 DIALUP.CC）",
   "founded": "2005（注册 2007-12-06）",
   "hq": "4156 State Highway 6 S, College Station, TX 77845, USA（979-721-9000；免费 888-999-1525）",
   "size": "11–50（LinkedIn）/ 42 人、$5.1M（RocketReach）",
-  "other": "创始人 Kyle Leissner；MDU/HOA/COA 托管 WiFi 为主业；BridgeWave 10 Gbps 毫米波回传案例（2018）"
+  "other": "创始人 Kyle Leissner；MDU/HOA/COA 托管 WiFi 为主业；BridgeWave 10 Gbps 毫米波回传案例（2018）",
+  "staff": "20–50（Datanyze 18 / RocketReach 42 / LeadIQ 48）；营收 $5.1M（第三方同源估）（第 87 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "MDU / HOA 托管 WiFi 与楼宇网络",

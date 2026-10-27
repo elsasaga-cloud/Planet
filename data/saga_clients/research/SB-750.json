@@ -29,7 +29,7 @@
  "kp": [
   {
    "name": "David Conners",
-   "title": "Director",
+   "title": "Director（研究档；官网无团队页，职务待核）；**公司定位 = 100% 美国制造 + TAA/NDAA/GSA + AS9100D 的延长器 OEM（产品本身属守界禁区）→ 不追**（第 87 批 官方登记核实 2026-10-27）",
    "email": "dconners@enableit.com",
    "phone": "",
    "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -43,11 +43,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Enable-IT, Inc.",
-  "founded": "（待核）",
+  "legal_name": "Enable-IT, Inc.（Inc.；4616 W Sahara Ave, Las Vegas NV 89102；官网 legalName；Nevada SoS 编号未取）",
+  "founded": "1997/2000 起（官网：Ethernet Extender 1999、PoE Extender 2005）（第 87 批 官方登记核实 2026-10-27）",
   "hq": "USA",
   "size": "中小型制造商",
-  "other": "AS9100D（航空级质量体系）"
+  "other": "AS9100D（航空级质量体系）",
+  "staff": "小型制造商（无可证人数）（第 87 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "以太网 / PoE 延长器（自产）",

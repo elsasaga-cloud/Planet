@@ -93,14 +93,15 @@ updated: 2026-10-27
 - 高管：FOLAYAN, Iyiola — Director（2025-10-24 起；1977-03 生；尼日利亚籍，居英；通信地址即注册代理地址）= 研究档 KP「负责人 / MikroTik 认证顾问」→ **老板之一 = 联系人**
 - 高管：FOLAYAN, Aderonke — Director（1978-02 生；尼日利亚籍；Wakefield 住址）—— 同姓，家属
 - 高管：OLADIPO, Andrew — Director（1978-06 生；英籍；Buckingham 住址）
-- 高管：PSC 页未取（下一轮 1 次 fetch）
-- 控制人 / 股东：待取（/persons-with-significant-control）
+- 高管：PSC 已取（第 87 批）：Iyiola Folayan 持股 50–75%
+- 控制人 / 股东：Iyiola FOLAYAN — 唯一 PSC（2025-10-24 通知）：持股 50–75% + 表决权 50–75% + 任免董事权（第 87 批补取）→ **联系人 = 控股股东**；其余 25–50% 在 Aderonke Folayan / Andrew Oladipo（未达 PSC 门槛）；身份核验到期 2026-11-06
 - 抵押 / 诉讼 / 担保：无（新公司）
 - **这意味着什么：**
   - **样品 PI 未付的真相：对方是 2025-10 刚注册、虚拟地址、IT 咨询 SIC 的三人初创（Folayan 夫妇 + Oladipo），零财务记录**——不是「不想买」，是「还没钱 / 还没客户」：按新公司规则 100% 预付、样品按付费样机（规则）、不给账期、不做定制；回信语气友好但不追，列入 2027-Q1 群发节奏
   - **Iyiola Folayan 本人就是董事 = 老板**，所以 2026-09-29 起 4 封实质来信（要目录、问价）是老板自己在做采购 —— 谈判直接谈，不必找「决策人」
   - 首份账目 2027-07-24 前申报 → 2027-08 复查是否有营收 / 是否仍 Active（一年期新公司约 1/3 会注销）
   - 通信地址 128 City Road = 常见注册代理地址，发货地址要另问（Wakefield 或 Buckingham）
+  - 第 87 批补核：PSC = Iyiola Folayan（>50%）→ 他既是来信人也是控股人，决策链 = 一个人；但公司仍是 2025-10 新壳（虚拟办公地址）→ 付费样品 + 100% 预付的规则不变
 - 备注：PSC 待取。
 
 ## 基本事实（事实/推断/假设分层）
@@ -144,7 +145,7 @@ updated: 2026-10-27
 - **【email】收货地址（公司注册地）**
   > Milliseconds Evolution Limited. 128 City Road, London, United Kingdom, EC1V 2NX
   > 来源：data/gmail_s/messages/2026/2026-10.jsonl（抓取 2026-10-17）
-- **KP**：Iyiola Folayan（Director（Companies House 16807798，2025-10-24 起；尼日利亚籍居英）= 老板之一 = 联系人；公司 **2025-10 刚注册**、虚拟地址 128 City Road、IT 咨询 SIC、零财务记录；另两位董事 Aderonke Folayan（家属）+ Andrew Oladipo（第 86 批 官方登记核实 2026-10-27））ifolayan@millievolution.com 〔S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list〕
+- **KP**：Iyiola Folayan（Director + **唯一 PSC（持股 50–75% + 任免董事权，2025-10-24 通知）** = 控股人 = 联系人；公司仍是 2025-10 新壳（虚拟地址）→ 付费样品 + 100% 预付不变（第 87 批 官方登记核实 2026-10-27））ifolayan@millievolution.com 〔S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list〕
 - **KP**：Aderonke Folayan（Director（2025-10-24 起；Wakefield）= 家属 / 共同股东（第 86 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/16807798/officers〕
 - **调研后定级**：B（原自动 B）——有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）
 - 备注：128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。
@@ -191,7 +192,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Iyiola Folayan | Director（Companies House 16807798，2025-10-24 起；尼日利亚籍居英）= 老板之一 = 联系人；公司 **2025-10 刚注册**、虚拟地址 128 City Road、IT 咨询 SIC、零财务记录；另两位董事 Aderonke Folayan（家属）+ Andrew Oladipo（第 86 批 官方登记核实 2026-10-27） | ifolayan@millievolution.com | 调研核实（公开页） | S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list |
+| Iyiola Folayan | Director + **唯一 PSC（持股 50–75% + 任免董事权，2025-10-24 通知）** = 控股人 = 联系人；公司仍是 2025-10 新壳（虚拟地址）→ 付费样品 + 100% 预付不变（第 87 批 官方登记核实 2026-10-27） | ifolayan@millievolution.com | 调研核实（公开页） | S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list |
 | Aderonke Folayan | Director（2025-10-24 起；Wakefield）= 家属 / 共同股东（第 86 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/16807798/officers |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

@@ -79,6 +79,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 87 批（Türkiye · Ticaret Sicili 镜像（find.com.tr：法定全称 / 类型 / 成立日 / 活动代码）+ D&B（Key Principal、1–24 人）+ kariyer.net 招聘 2023-07（1992 创业、业务范围），2026-10-27 查；https://www.find.com.tr/Company/onsiselektrikelektronikguvenliksistemleriinsaatsanayiveticaretlimitedsirketi）：**
+
+- 法定名 / 登记号：ONSİS ELEKTRİK ELEKTRONİK GÜVENLİK SİSTEMLERİ İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ · Ltd. Şti.（Ankara Ticaret Sicili；MERSİS / 税号镜像页为占位，未取） · 状态 **Aktif（2023-07 仍在招聘技术员；D&B 在档）** · 成立 1992 创业（自述）；现法人 Ltd. Şti. 登记 2015-03-03 · Limited Şirket · 私人独立企业（D&B「Independent」）
+- 行业码 / 经营范围：安防系统服务（NACE：防盗 / 火警 / 门禁安装维护）+ 弱电总包：公共机构 + 住宅小区的摄像机、PDKS 考勤、数据 / 光纤 / 网络基础设施、卫星、火警、刷卡门禁（招聘广告 2023）
+- 注册地址：Emek Mah. Kırım Cad. Saruhan Apt. No:78 B/28, 06490 Çankaya / Ankara
+- 规模档：小型（D&B 1–24 人；总经理 + 项目工程师 + 技术员团队）
+- 账目：Ltd. Şti. 无公开财报；Datanyze「$28.2M / 359 人」为明显错配（D&B 1–24 人）→ 不采信；TR 公司税申报 4 月；无公开年报
+- 高管：Esef TAŞKIRAN — Genel Müdür / Key Principal（D&B）= 研究档 KP → **老板 = 联系人**（Ltd. Şti. 股东名单付费未取，Key Principal 即实际控制人）
+- 高管：Hatice BOLAT — Proje Mühendisi（Datanyze）
+- 控制人 / 股东：Esef Taşkıran（推定）
+- **这意味着什么：**
+  - **老板 = 联系人：Esef Taşkıran 是安卡拉弱电总包商 Onsis 的总经理 / 实际控制人；公司 1992 创业、2015 改组 Ltd.、1–24 人，主做公共机构 + 住宅小区的摄像机 / 门禁 / 网络基础设施** → 本户是展会 + WhatsApp 户（问过 2 光 8 电 PoE 网管 bypass，报 $105 → 要 L2，最后一天要样品）：跟进走 WhatsApp 而非邮件；bypass 无 Saga 型号 → 用 8 PoE + 2 SFP 管理型（STC-228GP）按集成 25% 档报，并补「付费样品抵货款」；项目套包再加 STC-2024GP + 10G 上行；CE / RoHS；安卡拉 DAP 走 Saga 百运网线
+  - 公共招标部分守界按个案（Q 规则）；土耳其付款 = 100% 预付或 50/50，不做账期；TR 周四 10–12 发信
+  - 复查：无年报可查；每年看 kariyer.net 是否仍招聘（= 仍在接项目）
+- 备注：Ltd. Şti. 股东 / 资本需付费 MERSİS；不再检索。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,16 +126,17 @@ updated: 2026-10-27
 - **【用户表】ISAF 互动：2 光 8 PoE 管理 bypass 报 $105；要 L2；要样品**
   > Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Esef Taşkıran（Genel Müdür（名录公开））esef@onsis.com.tr（用户表） +90 312 435 67 53〔https://rocketreach.co/onsis-elektrik-elektronik-guvenlik-sitemleri-management_b73b6c95c7ea033f〕
+- **KP**：Esef Taşkıran（Genel Müdür / Key Principal（D&B）= **老板 = 联系人**（Ltd. Şti. 股东名单付费未取）；1992 创业、2015-03-03 改组 Ltd.、1–24 人；展会 + WhatsApp 户（问 2 光 8 电 PoE 网管 bypass → $105 → 要 L2 + 样品）（第 87 批 官方登记核实 2026-10-27））esef@onsis.com.tr（用户表） +90 312 435 67 53〔https://rocketreach.co/onsis-elektrik-elektronik-guvenlik-sitemleri-management_b73b6c95c7ea033f〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Onsis Elektrik Elektronik Güvenlik Sistemleri İnşaat Sanayi ve Ticaret Ltd. Şti. |
+| 法定名称 | ONSİS ELEKTRİK ELEKTRONİK GÜVENLİK SİSTEMLERİ İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ（Limited Şirket；2015-03-03；Emek Mah. Kırım Cad. Saruhan Apt. No:78 B/28, 06490 Çankaya / Ankara） |
 | 成立 | 1992（业务）/ 2015-03-03（法人） |
 | 总部/地址 | Emek Mah. Kırım Cad. Saruhan Apt. No:78 B/28, 06490 Çankaya / Ankara（+90 312 435 67 53） |
+| 人数 | 1–24（D&B）；Datanyze「359 人 / $28.2M」为错配不采信（第 87 批 官方登记核实 2026-10-27） |
 | 其他 | 政府招标 + 私人住宅项目（守界：公共招标项目按个案）；总经理 Esef Taşkıran |
 
 - **业务线**：CCTV / 火灾探测 / 防盗报警 / 考勤系统承包；卫星天线与对讲系统
@@ -177,7 +194,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Esef Taşkıran | Genel Müdür（名录公开） | esef@onsis.com.tr（用户表） / +90 312 435 67 53 | 调研核实（公开页） | https://rocketreach.co/onsis-elektrik-elektronik-guvenlik-sitemleri-management_b73b6c95c7ea033f |
+| Esef Taşkıran | Genel Müdür / Key Principal（D&B）= **老板 = 联系人**（Ltd. Şti. 股东名单付费未取）；1992 创业、2015-03-03 改组 Ltd.、1–24 人；展会 + WhatsApp 户（问 2 光 8 电 PoE 网管 bypass → $105 → 要 L2 + 样品）（第 87 批 官方登记核实 2026-10-27） | esef@onsis.com.tr（用户表） / +90 312 435 67 53 | 调研核实（公开页） | https://rocketreach.co/onsis-elektrik-elektronik-guvenlik-sitemleri-management_b73b6c95c7ea033f |
 
 - **通道建议**：企业邮箱可直发
 

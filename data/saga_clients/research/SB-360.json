@@ -40,10 +40,17 @@
  "kp": [
   {
    "name": "Thevarajah Thevalojan",
-   "role": "Founder / Director（Companies House 公开）",
+   "role": "Director（Companies House 05227994，2004-09-10 起；1975-05 生，英籍，身份已核）= **老板 = 联系人**；配偶 Tharshini Thevalojan 任 Secretary；注册地为 Enfield 住宅 = 21 年夫妻店（第 87 批 官方登记核实 2026-10-27）",
    "email": "admin@longtek.co.uk（公司公开）",
    "phone": "+44 20 8805 0002",
    "source": "https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd"
+  },
+  {
+   "name": "Tharshini Thevalojan",
+   "role": "Secretary（2004-09-10 起；同址 = 配偶）（第 87 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/05227994/officers"
   }
  ],
  "grade_override": null,
@@ -54,10 +61,11 @@
   "level": "B 级加厚 v1（官网 + Companies House 核对）"
  },
  "company_facts": {
-  "legal_name": "Longtek Electronics Europe Ltd（Companies House 05227994，2004-09-10；SIC 80200）",
+  "legal_name": "LONGTEK ELECTRONICS EUROPE LTD（Companies House 05227994；2004-09-10；12 Bishops Close, Enfield EN1 3QJ（住宅）；SIC 80200；账目至 2025-03-31 已报，下期 2026-12-31 到期）",
   "hq": "12 Bishops Close, Enfield EN1 3QJ, UK（+44 20 8805 0002；admin@longtek.co.uk / info@longtek.co.uk；0800 511 8611）",
   "size": "<10 人；营业额 <£1M（Endole）；3 人（GlobalDatabase）",
-  "other": "SSAIB 认证安装商；关联公司 Longtek Commercial Ltd（14264827，2022）"
+  "other": "SSAIB 认证安装商；关联公司 Longtek Commercial Ltd（14264827，2022）",
+  "staff": "微型（夫妻 2 人：1 董事 + 1 秘书）（第 87 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "CCTV / 入侵报警 / 门禁安装与维护",

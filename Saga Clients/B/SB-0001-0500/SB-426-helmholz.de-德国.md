@@ -87,6 +87,23 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 87 批（Deutschland · Handelsregister（Northdata 免费页：HRA / 结构 / 商标专利 / 年报公示 / 参股），2026-10-27 查；https://www.northdata.de/Helmholz%20GmbH%20%26%20Co.%20KG,%20Gro%C3%9Fenseebach）：**
+
+- 法定名 / 登记号：Helmholz GmbH & Co. KG（Großenseebach；集团 Helmholz Holding GmbH） · Amtsgericht Fürth HRA 10671 · EUID DED3304V.HRA10671；无限责任股东 Helmholz Verwaltungs GmbH（HRB 15642）；母公司 Helmholz Holding GmbH（HRB 4573） · 状态 **Aktiv（2024 年报 2026-02-12 公示）** · 成立 2016-06-06（KG 登记；2016-09-29 由 Helmholz Holding GmbH 分立而来；品牌 Helmholz 1980 年代起） · GmbH & Co. KG · 家族集团（Manfred Helmholz）· 参股 Helmholz Benelux B.V. + Systeme Helmholz Kroatien d.o.o.（西班牙 SL 已注销）；关联 Helmholz Immobilien GmbH & Co. KG
+- 行业码 / 经营范围：工业电子元件 + 软件的开发与销售：PROFIBUS / PROFINET 网关、工业交换机（FLEXtra 商标 2009）、NETLink、EasyConnect、Optopus；22 项外观设计（2022）、总线插头专利（2009）
+- 注册地址：Hannberger Weg 2, D-91091 Großenseebach（纽伦堡 / 埃尔朗根）
+- 规模档：中型（研究档：工业自动化品牌商，估 100–200 人；Northdata 付费）
+- 账目：年报公示至 2024-12-31（Northdata 付费）；公示资产总额 €533,144（2024-12-31，疑为简化披露，不代表经营规模）；年报次年 12 月前（2025 账约 2027-02 公示）
+- 高管：Carsten BOKHOLT — Geschäftsführer（登记网络 GF 标记；Großenseebach）= 研究档 KP → **联系人 = 总经理 / 拍板人**
+- 高管：Karsten EICHMÜLLER — Geschäftsführer（Auerbach；另任西班牙 SL 前董事）
+- 高管：Manfred HELMHOLZ — 创始人 / 集团所有人（Weisendorf；Holding 100%）
+- 高管：Andrea FISCHER — Prokura
+- 控制人 / 股东：Helmholz 家族（Manfred Helmholz via Helmholz Holding GmbH 100%）
+- **这意味着什么：**
+  - **联系人 Carsten Bokholt 就是 Geschäftsführer（总经理），集团为 Helmholz 家族所有、有商标 / 专利 / 22 项外观设计的正牌工业自动化品牌商** → 他们的 FLEXtra 工业交换机线是外采 ODM：标准 OEM 30% 线，但进入门槛是「工业品质 + 长期供货 + 文档」：先给 STI 系列规格书、EMC 报告、MTBF、固件定制能力；别用群发口吻
+  - 德国家族中型企业付款规矩：首单 T/T 预付 30% + 发货前 70%，复购可谈 30 天；DAP Großenseebach 走 Saga 百运网线
+  - 有荷兰 / 克罗地亚子公司 → 报价覆盖欧洲多仓交付；年报 2027-02 复查
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,7 +153,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Helmholz GmbH & Co. KG（Amtsgericht Fürth HRA 10671；2016-06-06 由 Helmholz Holding GmbH 分立；无限责任股东 Helmholz Verwaltungs GmbH HRB 15642；Hannberger Weg 2, 91091 Großenseebach；商标 FLEXTRA / NETLink / EasyConnect / Optopus，22 项外观设计；参股 Helmholz Benelux B.V. + Systeme Helmholz Kroatien d.o.o.） |
 | 总部/地址 | 德国 |
+| 人数 | 中型家族集团（估 100–200；年报公示至 2024）（第 87 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 helmholz.de，语言 de-DE，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：PROFINET 交换机 / 网关 / 远程维护（自有品牌）

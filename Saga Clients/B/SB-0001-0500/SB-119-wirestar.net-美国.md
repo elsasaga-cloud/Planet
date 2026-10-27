@@ -106,6 +106,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 87 批（US · SAM.gov 实体登记（opengovus 镜像 UEI PU66QHF8L5F6）+ BBB 档案 + 公司官网 our-story + Aggie 100（Texas A&M），2026-10-27 查；https://opengovus.com/sam-entity/PU66QHF8L5F6）：**
+
+- 法定名 / 登记号：WireStar, Inc.（d/b/a WireStar Networks） · SAM UEI PU66QHF8L5F6（2021-03-29 登记，2025-12-03 激活，2026-12-02 到期）；TX Corporation（S-Corp）；BBB 档案 2007-11-20；NENA CLEC ID WRR（已注销） · 状态 **Active（SAM 有效至 2026-12-02；BBB 实体「Corporation」）** · 成立 2007-12-06 注册（业务 2005-02-01 起，前身 DIALUP.CC 拨号 ISP） · Texas corporation · S-Corp · 私人持有 · 老板 Kyle W. Leissner（Founder / Owner / President & CEO）
+- 行业码 / 经营范围：CLEC / 学生公寓（MDU）批量 Wi-Fi + 光纤 ISP + 结构化布线 + 安防报警 / 门禁 + 托管 IT（Ruckus MDU 案例 2025）；SIC 7371（第三方标）
+- 注册地址：4156 State Highway 6 S, College Station, TX 77845-8964（另 1902 Pinon Dr Ste E；邮箱 PO Box 10966）
+- 规模档：小型（20–50 人，$5M 级 ISP / MDU 集成商；Aggie 100 2020 第 63 名 = 增长期）
+- 账目：私企无公开财报；第三方估：营收 $5.1M（RocketReach / Datanyze，同源）；员工 18 / 32–42 / 48（Datanyze / RocketReach / LeadIQ 2026-07）→ 记区间 20–50 人；SAM 年审 2026-12-02；TX 特许税报告 5-15
+- 高管：Kyle W. LEISSNER — Founder / Owner / President & CEO（SAM 登记官员 PRESIDENT；Texas A&M BBA 2009 + MS MIS 2011；2024-06-18 亲自来信）= 研究档 KP → **老板 = 联系人**
+- 高管：Logan ROY — Director of Business Development；Jason GORMAN — Director Operations（BBB 客户联系人）；Dennis GILMORE — Customer Support Manager；Daniel WADE — Warehouse Manager
+- 控制人 / 股东：Kyle W. Leissner（Owner，Aggie 100 「Founder, Owner, President」）
+- 曾用名：DIALUP.CC（拨号 ISP 前身）
+- **这意味着什么：**
+  - **老板 = 联系人：Kyle Leissner 既是创始人 / 所有人 / President 又是 2024-06-18 来信人；公司 = 德州学生公寓（MDU）批量 Wi-Fi ISP + 布线商，20–50 人、$5M 级、SAM 已登记（可接政府 / 高校单）** → 他们每栋学生公寓楼都要接入层 PoE 交换机喂 Ruckus AP：对表信直接谈 24/48 口 PoE 管理型（STC-424XGGPM-280W $180、STC-448XGGPM $335）+ 10G 上行聚合，按「每栋楼 N 台」报阶梯价；集成 25% 档
+  - SAM 登记 → 若走高校 / 政府项目要 TAA → 中国产不合规；只做他们的商业 MDU 项目线；FCC + CE / RoHS；DAP 德州走 Saga 百运网线，T/T 30/70
+  - 复查：SAM 到期 2026-12-02（续登 = 仍在接政府单）；官网 our-story 2026-07 更新
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -140,16 +156,18 @@ updated: 2026-10-27
 - **【用户表】1 次实质回复；1 次跟进**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Kyle Leissner（Founder（官网 Our Story））kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100） 979-721-9000（公司）〔https://wirestar.net/about/；S 邮箱来信表头〕
+- **KP**：Kyle Leissner（Founder / Owner / President & CEO（SAM.gov 登记官员 PRESIDENT，UEI PU66QHF8L5F6；Aggie 100 「Founder, Owner, President」；Texas A&M BBA + MS MIS）= **老板 = 联系人**；公司 = 德州学生公寓 MDU 批量 Wi-Fi ISP + 布线商，20–50 人、$5M 级（第 87 批 官方登记核实 2026-10-27））kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100） 979-721-9000（公司）〔https://wirestar.net/about/；S 邮箱来信表头〕
+- **KP**：Logan Roy（Director of Business Development（官网 leadership；BBB 管理层）（第 87 批 官方登记核实 2026-10-27）） 〔https://wirestar.net/our-story/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | WireStar, Inc.（d/b/a WireStar Networks） |
+| 法定名称 | WireStar, Inc.（d/b/a WireStar Networks；Texas S-Corp；2007-12-06 注册 / 业务 2005-02-01；SAM UEI PU66QHF8L5F6 有效至 2026-12-02；4156 State Highway 6 S, College Station TX 77845；前身 DIALUP.CC） |
 | 成立 | 2005（注册 2007-12-06） |
 | 总部/地址 | 4156 State Highway 6 S, College Station, TX 77845, USA（979-721-9000；免费 888-999-1525） |
+| 人数 | 20–50（Datanyze 18 / RocketReach 42 / LeadIQ 48）；营收 $5.1M（第三方同源估）（第 87 批 官方登记核实 2026-10-27） |
 | 其他 | 创始人 Kyle Leissner；MDU/HOA/COA 托管 WiFi 为主业；BridgeWave 10 Gbps 毫米波回传案例（2018） |
 
 - **业务线**：MDU / HOA 托管 WiFi 与楼宇网络；区域 ISP / CLEC（光纤、固定无线、EoC）；商业 IT、语音、安防门禁、布线
@@ -221,7 +239,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kyle Leissner | Founder（官网 Our Story） | kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100） / 979-721-9000（公司） | 调研核实（公开页） | https://wirestar.net/about/；S 邮箱来信表头 |
+| Kyle Leissner | Founder / Owner / President & CEO（SAM.gov 登记官员 PRESIDENT，UEI PU66QHF8L5F6；Aggie 100 「Founder, Owner, President」；Texas A&M BBA + MS MIS）= **老板 = 联系人**；公司 = 德州学生公寓 MDU 批量 Wi-Fi ISP + 布线商，20–50 人、$5M 级（第 87 批 官方登记核实 2026-10-27） | kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100） / 979-721-9000（公司） | 调研核实（公开页） | https://wirestar.net/about/；S 邮箱来信表头 |
+| Logan Roy | Director of Business Development（官网 leadership；BBB 管理层）（第 87 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://wirestar.net/our-story/ |
 
 - **通道建议**：企业邮箱可直发
 

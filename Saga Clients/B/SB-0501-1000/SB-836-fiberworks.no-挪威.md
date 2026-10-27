@@ -84,6 +84,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 87 批（Norge · Brønnøysundregistrene Enhetsregisteret 官方 API（enheter + roller，2026-10-13 员工数更新），2026-10-27 查；https://data.brreg.no/enhetsregisteret/api/enheter/959977046）：**
+
+- 法定名 / 登记号：FIBERWORKS AS · Org.nr 959977046 · MVA 登记 1991-03-01 · 状态 **Aktiv（非破产 / 非清算；2025 年报已交）** · 成立 1990-12-27 成立（Foretaksregisteret 1991-02-27） · Aksjeselskap（AS）· 股本 NOK 500,000（1,000 股，2008-04-23）· 非集团 · A 股股东代表选董事（= 有 A/B 股结构，创始人持 A 股）
+- 行业码 / 经营范围：NACE 46.500 ICT 设备批发：「光纤网络产品销售及相关业务」（章程目的）—— 光模块 / 光纤 / 交换机分销商（fiberworks.no）
+- 注册地址：Eikenga 11, 0579 Oslo
+- 规模档：**22 名员工**（NAV Aa-registeret 2026-10-10）
+- 账目：年报已交至 2025（brreg 不含数字；proff.no 可查营收 —— 下一轮 1 次搜索）；挪威年报 7-31 前
+- 高管：Roger Allan WAHLGREN — Daglig leder（CEO，2019-01 起）+ Styremedlem（A 股股东代表）= 老板 / 拍板人
+- 高管：Martin Roland LINDER — Styrets leder（董事长，A 股股东代表，2025-02 更新）= 共同所有人
+- 高管：审计 Cedra Norge AS；会计 Amesto Accounthouse AS；研究档 KP 无具名（邮件 salg@ / office）
+- 控制人 / 股东：A 股股东 Wahlgren + Linder（推定；挪威股东名册需 aksjonærregisteret）
+- 曾用名：INS COMMUNICATIONS AS（2007–2013）；INS BROKER AS（2004–2007）；SIP COMMUNICATIONS AS（2003–2004）；DELTA ONE AS（2002–2003）；INS SUPPORT AS（1998–2002）；RE-LAB AS（1995–1998）
+- **这意味着什么：**
+  - **22 人的奥斯陆光纤 / 网络分销商（1990 起，6 次更名，2013 起叫 Fiberworks），CEO Wahlgren + 董事长 Linder 两人持 A 股** → 研究档没有具名 KP：下一封直接写给 Roger Wahlgren（Daglig leder）；分销 20% 档，卖点光口 / 10G 上行交换机配他们的光模块线（STI-480XGGM、STC-448XGGPM、2.5G 光口 DG 款）
+  - 挪威非欧盟但 EEA：CE / RoHS 即可，进口 VAT 由他们办；DAP 奥斯陆走 Saga 百运网线；T/T 30/70（22 人老公司，信用可）
+  - 下一轮：proff.no 看 2024 / 2025 营收与利润（1 次搜索）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,14 +143,17 @@ updated: 2026-10-27
 - **【官网】公司法务信息、联系方式、ISO 认证（页脚）**
   > +47 23 03 53 30 · salg@fiberworks.no · Eikenga 11 0579 Oslo · Fiberworks AS Org. nr. 959 977 046 · ISO 9001:2015 … ISO 14001:2015
   > 来源：https://www.fiberworks.no/（抓取 2026-10-20）
+- **KP**：Roger Allan Wahlgren（Daglig leder（CEO，2019-01 起）+ Styremedlem（A 股股东代表）= 老板 / 拍板人；研究档原无具名 KP → 下一封写给他（第 87 批 官方登记核实 2026-10-27）） 〔https://data.brreg.no/enhetsregisteret/api/enheter/959977046/roller〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-073，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Fiberworks AS（fiberworks.no） |
+| 法定名称 | FIBERWORKS AS（Org.nr 959977046；AS；1990-12-27 成立；Eikenga 11, 0579 Oslo；NACE 46.500；股本 NOK 500,000；前名 INS Communications AS 等 6 个；2025 年报已交） |
+| 成立 | 1990-12-27（Brønnøysund 官方 API）（第 87 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Oslo（Eikenga 11, 0579 Oslo）, 挪威 |
+| 人数 | 22 名员工（NAV Aa-registeret 2026-10-10）（第 87 批 官方登记核实 2026-10-27） |
 | 其他 | Planet 渠道档案 PB-073（2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json）；自有品牌：否；最大未知：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发） |
 
 - **业务线**：分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）
@@ -254,6 +274,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Roger Allan Wahlgren | Daglig leder（CEO，2019-01 起）+ Styremedlem（A 股股东代表）= 老板 / 拍板人；研究档原无具名 KP → 下一封写给他（第 87 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://data.brreg.no/enhetsregisteret/api/enheter/959977046/roller |
 | https | — | salg@fiberworks.no / jonkjetilgrimsrud@gmail.com | 用户表原值 | Clients/ 表 |
 | Trond Lieng | — | salg@fiberworks.no / jonkjetilgrimsrud@gmail.com | 用户表原值 | Clients/ 表 |
 
@@ -326,7 +347,7 @@ updated: 2026-10-27
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hi Trond,
+Hi Roger,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your active-equipment shelf already carries both PLANET industrial/PoE units and ORing; a Marvell-based industrial PoE line with SFP uplinks at EXW gives you a third price point in the same DIN-rail slot, and it pairs with your transceiver business. For the industrial PoE DIN-rail units you list under PLANET and ORing, is the demand mostly 8-port Gigabit PoE+ with two SFP uplinks, or are customers asking for 10G SFP+ uplinks now?
 

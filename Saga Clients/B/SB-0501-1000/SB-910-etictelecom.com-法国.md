@@ -103,15 +103,16 @@ updated: 2026-10-27
 - 注册地址：405 Rue Lavoisier, 38330 Montbonnot-Saint-Martin（2022-10 起）；旧址 ZIRST 13 Chemin du Vieux Chêne, 38240 Meylan（已关）
 - 规模档：员工档 12 = 20–49 人（2024）
 - 账目：2024 营收 €3,930,958 · 净利 €321,866（利润率 8.2%）；法国年报 9–10 月公示（2025 账目约 2026-10 可见 → 下一轮复查）
-- 高管：CHAUSSONNIER, Charles — Directeur Général（1966-09 生）= 研究档 KP → **联系人本人就是总经理（联合拍板人）**
+- 高管：CHAUSSONNIER, Charles — Directeur Général（1966-09 生）+ **控股公司 ETIC FINANCES 的 Président**（第 87 批补核）= 研究档 KP → **联系人本人就是所有人 / 第一拍板人**
 - 高管：DUCHESNE, Philippe Michel — Directeur Général（1961-07 生）
 - 高管：ETIC FINANCES（SIREN 810380733）— Président de SAS（控股公司 = 实际所有人载体）
-- 控制人 / 股东：ETIC FINANCES（控股 SAS；自然人股东待查 810380733）
+- 控制人 / 股东：ETIC FINANCES（SAS 控股，SIREN 810380733，2015-03-12 成立，Montbonnot-Saint-Martin；NAF 64.20Z 控股；2024 净利 €303,342 = 分红收入）—— **其 Président de SAS = Charles CHAUSSONNIER，DG = Philippe DUCHESNE**（FR API 2026-10-26 更新）→ 控股公司由同两人掌控 = 两人即最终所有人；Chaussonnier 为控股主席 = 第一拍板人
 - **这意味着什么：**
   - **Charles Chaussonnier 就是 Directeur Général（两位 DG 之一），2024-05 唯一一封来信「What is the price…」是总经理亲自问价** → 未闭环是我们这边没把价给到位：下一封直接给具体型号 EXW 价（规则格式）+ 工业 DIN 导轨款（STI 系列）对标他们 XSLAN 外围需求
   - 自研自产的 PME（20–49 人，€3.9M，利润率 8%，控股公司 ETIC FINANCES）→ 他们买交换机是补产品线（RAS / 路由器配套的工业 PoE 交换机），要 CE / RoHS / REACH + 长供货承诺；OEM 30% 或集成 25%
   - 法国 8 月停摆、年报 10 月；窗口 2026-11 / 2027-01；T/T 30/70 可接受（PME 有现金）
   - 下一轮：ETIC FINANCES 810380733 一次 fetch 看自然人股东（是否 Chaussonnier / Duchesne 持股）
+  - 第 87 批补核：控股 ETIC FINANCES 的主席就是 Chaussonnier（DG Duchesne 为二股东）→ 「老板 = 联系人」升级确认；控股 2024 分红 €30 万 = 公司现金健康，付款可谈 30/70
 
 ## 基本事实（事实/推断/假设分层）
 

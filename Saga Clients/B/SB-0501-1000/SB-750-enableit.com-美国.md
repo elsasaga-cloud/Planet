@@ -90,6 +90,21 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 87 批（US · 公司官网 government / transportation 页（schema.org legalName + 地址；2026-06-08 更新）—— 州登记（Nevada SoS）未取，2026-10-27 查；https://enableit.com/government/）：**
+
+- 法定名 / 登记号：Enable-IT, Inc. · Nevada SoS 编号未取；GSA Schedule 合同号「来电索取」（官网）；SAM/CAGE 未取 · 状态 **在营（官网 2026-06 更新）** · 成立 业务 1997/2000 起（官网：「Ethernet Extender 1999 发明，PoE Extender 2005」；对美政府供货 since 1997） · Inc.（私人持有）· 自称「USA Original Equipment Manufacturer」· 100% 美国制造 · AS9100D
+- 行业码 / 经营范围：以太网 / PoE 延长器 OEM（产品线 Saga 不供：延长器属守界禁区）；客户 DoD / NASA / 70+ 政府机构；TAA + NDAA §889 合规 + GSA Schedule
+- 注册地址：4616 W Sahara Ave, Las Vegas, NV 89102-3627（研究档 hq「USA」→ 已定位拉斯维加斯）
+- 规模档：小型制造商（研究档「中小型」；无可证人数）
+- 账目：私企无公开财报；NV 年度名单 / 营业执照 按成立月；SAM 年审
+- 高管：David CONNERS — Director（研究档 KP，dconners@；职务来源待核：官网无团队页）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **定位结论：Enable-IT 是「100% USA manufacturing + TAA/NDAA/GSA + AS9100D」的美国本土延长器 OEM，主卖点就是「非中国制造」，而且产品（延长器）本身是 Saga 守界禁区** → 与第 86 批 American Fibertek 同类：**不追**；29 封群发 0 回 = 合理结果
+  - 唯一可能的缝：他们给集成商配套的 PoE 交换机（若有外采）—— 但一旦贴「TAA」就排除中国产；留 B 不动，年度看一次官网是否新增外采交换机线
+  - 话术禁区：别提 NDAA / TAA / 「American made」比较
+- 备注：Nevada SoS 未取（优先级低）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,9 +148,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Enable-IT, Inc. |
-| 成立 | （待核） |
+| 法定名称 | Enable-IT, Inc.（Inc.；4616 W Sahara Ave, Las Vegas NV 89102；官网 legalName；Nevada SoS 编号未取） |
+| 成立 | 1997/2000 起（官网：Ethernet Extender 1999、PoE Extender 2005）（第 87 批 官方登记核实 2026-10-27） |
 | 总部/地址 | USA |
+| 人数 | 小型制造商（无可证人数）（第 87 批 官方登记核实 2026-10-27） |
 | 其他 | AS9100D（航空级质量体系） |
 
 - **业务线**：以太网 / PoE 延长器（自产）；配套 PoE 交换机（ONV 外购）

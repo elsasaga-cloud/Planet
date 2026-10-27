@@ -79,6 +79,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 87 批（Deutschland · Handelsregister（Northdata 免费页：登记 / GF / 资本 / 年报公示 2006–2024 / 资产总额），2026-10-27 查；https://www.northdata.de/Acceed%20GmbH,%20D%C3%BCsseldorf）：**
+
+- 法定名 / 登记号：Acceed GmbH · Amtsgericht Düsseldorf HRB 40029 · EUID DER1101.HRB40029 · 状态 **Aktiv（2024 年报 2026-06 公示；股东名单 2026-06-10 更新）** · 成立 2000-12-29（登记 2001-07-16） · GmbH · Stammkapital €25,000 · 1 名股东（2026-06 名单）
+- 行业码 / 经营范围：电子设备制造与销售 + 各类商品贸易：工业通信 / 串口 / 以太网 / 媒体转换器 / 工业交换机分销（Acceed = 德国工业连接产品进口商，研究档）
+- 注册地址：Arnoldstr. 19, D-40479 Düsseldorf
+- 规模档：微型（估 3–8 人；一人 GF，25 年同一人）
+- 账目：资产总额 €718,124（2024-12-31）；年报连续公示 2006–2024（小型 GmbH 无损益明细）；年报次年 6–12 月
+- 高管：Werner KUNZE — Geschäftsführer（2001-07-16 起，25 年）+ 推定唯一股东 = 老板；研究档收件已含 werner.kunze@acceed.com（A 箱 2026 年 5 封，0 真实打开，2026-08-18 / 09-24 有退信）→ 先核是哪个地址退信
+- 高管：Jürgen SILBER — ehem. GF（已离任，Haan）；关联 MeyeControl GmbH（同址 / 同 GF，Düsseldorf HRB 48350）
+- 控制人 / 股东：Werner Kunze（1 名股东，推定 100%）
+- **这意味着什么：**
+  - **一人 GmbH（GF Werner Kunze 25 年未变、资产 €72 万、同址另有 MeyeControl GmbH）= 典型德国工业产品进口小商** → 他们本身就在卖进口工业交换机 / 转换器：分销 20% 档，强调 Marvell 管理型 + 3 年保 + 小批量；信抬头 z. Hd. Herrn Kunze；若 werner.kunze@ 即退信地址（规则：失效地址不再发），只发 info@
+  - 付款 T/T 预付 / 50-50；DAP 杜塞尔多夫走 Saga 百运网线；年报 2026-06 已出 → 2027-06 复查
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,14 +142,17 @@ updated: 2026-10-27
 - **【官网新闻列表（fetch_page 2026-10-20）】近 12 个月新闻全为 Neousys / ADLINK 工业计算（PLANET 为补充线）**
   > GT-92: Lüfterloses KI-Rack-System für den Dauerbetrieb … 19.10.2026 … NRU-161V-AWP … 16.09.2026 … SEMIL-2200 … 21.08.2026 … Nuvo-11531 … 28.07.2026
   > 来源：https://acceed.com/de/news/（抓取 2026-10-20）
+- **KP**：Werner Kunze（Geschäftsführer（2001-07-16 起 25 年）+ 推定唯一股东 = 老板；收件已含 werner.kunze@acceed.com（0 真实打开、2026-08/09 有退信 → 先核退信地址，失效则只发 info@ 抬头 z. Hd. Herrn Kunze）（第 87 批 官方登记核实 2026-10-27））werner.kunze@acceed.com 〔https://www.northdata.de/Acceed%20GmbH,%20D%C3%BCsseldorf〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-098，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Acceed GmbH |
+| 法定名称 | Acceed GmbH（Amtsgericht Düsseldorf HRB 40029；2000-12-29；Arnoldstr. 19, 40479 Düsseldorf；Stammkapital €25,000；1 名股东；同址关联 MeyeControl GmbH HRB 48350） |
+| 成立 | 2000-12-29（Handelsregister）（第 87 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Düsseldorf（Arnoldstr. 19, 40479 Düsseldorf, NRW）, 德国 |
+| 人数 | 微型（一人 GF 25 年；资产总额 €718,124 2024-12-31）（第 87 批 官方登记核实 2026-10-27） |
 | 其他 | Planet 渠道档案 PB-098（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否（分销 + 项目定制，无自有交换机品牌）；最大未知：PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁路 EN50155（ORing 线暗示部分项目要 → 守界） |
 
 - **业务线**：工业计算 / 工业通信 / 自动化 / 测量技术分销 + 技术咨询（2000 年起；ISO 9001:2015；自称「The German distributor Acceed」；品牌 Neousys / ADLINK / ORing / Artila / NHR / Quancom / Rayon / TOPSCCC-ExpertDAQ + PLANET）；PLANET 为其工业网络类目的在售品牌（新闻稿公告 PLANET 工业 AP / TSN 交换机 / 户外 AP，站内托管 PLANET IMG-120T 手册）
@@ -226,7 +243,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Werner Kunze | — | werner.kunze@acceed.com / info@acceed.com | 用户表原值 | Clients/ 表 |
+| Werner Kunze | Geschäftsführer（2001-07-16 起 25 年）+ 推定唯一股东 = 老板；收件已含 werner.kunze@acceed.com（0 真实打开、2026-08/09 有退信 → 先核退信地址，失效则只发 info@ 抬头 z. Hd. Herrn Kunze）（第 87 批 官方登记核实 2026-10-27） | werner.kunze@acceed.com | 调研核实（公开页） | https://www.northdata.de/Acceed%20GmbH,%20D%C3%BCsseldorf |
 
 - **通道建议**：企业邮箱可直发
 

@@ -17632,5 +17632,514 @@
   "accounts": [],
   "repos_mentioning": [],
   "checked_at": "2026-10-27T08:28:15Z"
+ },
+ "SB-880": {
+  "domain": "netsolutionstore.com.au",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:28:26Z"
+ },
+ "SB-881": {
+  "domain": "nexlar.com",
+  "accounts": [
+   {
+    "login": "nexlarsecurity-hub",
+    "type": "User",
+    "url": "https://github.com/nexlarsecurity-hub",
+    "name": "Nexlar",
+    "blog": "https://www.nexlar.com/",
+    "email": null,
+    "company": "Nexlar",
+    "public_repos": 0,
+    "created_at": "2025-09-26T10:56:01Z",
+    "updated_at": "2025-09-26T11:02:33Z",
+    "bio": "Nexlar Security, founded in 2007 in Houston, provides integrated commercial security and access control solutions with a trusted reputation.",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:28:40Z"
+ },
+ "SB-882": {
+  "domain": "pctelecom.co.th",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:28:56Z"
+ },
+ "SB-883": {
+  "domain": "phuongdung.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:29:12Z"
+ },
+ "SB-884": {
+  "domain": "polyvision.ru",
+  "accounts": [
+   {
+    "login": "polyvision",
+    "type": "User",
+    "url": "https://github.com/polyvision",
+    "name": "Alexander Bierbrauer",
+    "blog": "http://www.polyvision.org",
+    "email": null,
+    "company": "polyvision UG(haftungsbeschränkt)",
+    "public_repos": 17,
+    "created_at": "2011-05-09T09:22:39Z",
+    "updated_at": "2026-10-22T12:02:13Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "oracle-enhanced",
+      "pushed_at": "2025-03-13T13:04:34Z",
+      "lang": null,
+      "desc": "Oracle enhaced adapter for ActiveRecord",
+      "fork": true
+     },
+     {
+      "name": "wod5e",
+      "pushed_at": "2024-07-12T04:40:17Z",
+      "lang": "JavaScript",
+      "desc": "The World of Darkness 5e system for FoundryVTT.",
+      "fork": true
+     },
+     {
+      "name": "EasyRaceLapTimer",
+      "pushed_at": "2023-01-23T17:57:53Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "fvtt-token-info-icons",
+      "pushed_at": "2022-03-16T10:01:24Z",
+      "lang": "JavaScript",
+      "desc": " FVTT - Token Info Icons",
+      "fork": true
+     },
+     {
+      "name": "tiny_load_balancer_orchestra",
+      "pushed_at": "2021-06-29T06:49:44Z",
+      "lang": "Ruby",
+      "desc": "small Ruby on Rails app for managing app server instances belonging to a load balancer.",
+      "fork": false
+     },
+     {
+      "name": "rails_admin",
+      "pushed_at": "2020-04-06T07:39:37Z",
+      "lang": null,
+      "desc": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "tothi/pwn-hisilicon-dvr",
+    "url": "https://github.com/tothi/pwn-hisilicon-dvr",
+    "desc": "",
+    "stars": 383,
+    "pushed_at": "2023-01-01T12:03:03Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:29:25Z"
+ },
+ "SB-885": {
+  "domain": "riverplus.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:29:39Z"
+ },
+ "SB-886": {
+  "domain": "sarmatt.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:29:55Z"
+ },
+ "SB-887": {
+  "domain": "stasanet.rs",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:30:08Z"
+ },
+ "SB-888": {
+  "domain": "stordis.com",
+  "accounts": [
+   {
+    "login": "STORDIS",
+    "type": "Organization",
+    "url": "https://github.com/STORDIS",
+    "name": "STORDIS",
+    "blog": "https://stordis.com/",
+    "email": null,
+    "company": null,
+    "public_repos": 2,
+    "created_at": "2022-07-01T09:17:42Z",
+    "updated_at": "2026-09-07T07:04:04Z",
+    "bio": "Network People Open by Design",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "monsoon",
+      "pushed_at": "2026-01-14T10:51:49Z",
+      "lang": "Python",
+      "desc": "SONiC monitoring system supplies SONiC telemetry data.",
+      "fork": false
+     },
+     {
+      "name": "BGP_Monsoon_Demo",
+      "pushed_at": "2022-10-19T12:59:56Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "kamalkrbh",
+    "type": "User",
+    "url": "https://github.com/kamalkrbh",
+    "name": "Kamal Krishna Bhatt",
+    "blog": "",
+    "email": null,
+    "company": "STORDIS",
+    "public_repos": 20,
+    "created_at": "2016-10-27T14:56:17Z",
+    "updated_at": "2026-09-08T21:20:42Z",
+    "bio": "Software Product Manager at STORDIS",
+    "match": "company",
+    "repos": [
+     {
+      "name": "bhatt-engineering",
+      "pushed_at": "2026-10-11T10:59:01Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "llm_quantization",
+      "pushed_at": "2026-07-25T15:18:20Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "asyncio_anomaly_processor",
+      "pushed_at": "2026-06-06T22:41:26Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "n8n_anamoly_detection",
+      "pushed_at": "2026-05-09T14:51:33Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "AI-Integrator",
+      "pushed_at": "2026-05-09T06:33:12Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "litellm-setup",
+      "pushed_at": "2026-04-18T20:46:43Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "metal-stack/sonic-build",
+    "url": "https://github.com/metal-stack/sonic-build",
+    "desc": "",
+    "stars": 1,
+    "pushed_at": "2025-04-22T07:38:21Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T08:30:22Z"
+ },
+ "SB-889": {
+  "domain": "teamon.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:30:36Z"
+ },
+ "SB-890": {
+  "domain": "technopc.com.tr",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "TechnopcTechnology/website",
+    "url": "https://github.com/TechnopcTechnology/website",
+    "desc": "Technopc Website CMS",
+    "stars": 0,
+    "pushed_at": "2022-11-11T14:09:39Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T08:30:52Z"
+ },
+ "SB-891": {
+  "domain": "techpoint-gmbh.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:31:05Z"
+ },
+ "SB-892": {
+  "domain": "telcofusion.com.mx",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:31:15Z"
+ },
+ "SB-893": {
+  "domain": "trassir.ru",
+  "accounts": [
+   {
+    "login": "trassir-ci-bot",
+    "type": "User",
+    "url": "https://github.com/trassir-ci-bot",
+    "name": "Trassir Jenkins CI",
+    "blog": "",
+    "email": null,
+    "company": "@trassir",
+    "public_repos": 0,
+    "created_at": "2021-02-20T14:39:33Z",
+    "updated_at": "2021-11-19T10:06:31Z",
+    "bio": "Logo is modified artwork by Charles Lowell for jenkins.io licensed under CC BY-SA 3.0",
+    "match": "company"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "tailgrabik/trassir_exporter",
+    "url": "https://github.com/tailgrabik/trassir_exporter",
+    "desc": "DSSL Trassir prometheus exporter metric",
+    "stars": 0,
+    "pushed_at": "2023-10-05T20:29:09Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "leon-onee/trassir-ru",
+    "url": "https://github.com/leon-onee/trassir-ru",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2022-12-29T13:02:09Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:31:26Z"
+ },
+ "SB-894": {
+  "domain": "video-svp.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:31:38Z"
+ },
+ "SB-895": {
+  "domain": "vilcom.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:31:49Z"
+ },
+ "SB-898": {
+  "domain": "xvi.ru",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "DiegoSubires/MasterXVIII-rural-rentals-nextjs",
+    "url": "https://github.com/DiegoSubires/MasterXVIII-rural-rentals-nextjs",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-08-11T10:11:57Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "DiegoSubires/MasterXVIII-rural-rentals-nuxt",
+    "url": "https://github.com/DiegoSubires/MasterXVIII-rural-rentals-nuxt",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-08-11T10:31:19Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "DiegoSubires/MasterXVIII-rural-rentals-tanStack",
+    "url": "https://github.com/DiegoSubires/MasterXVIII-rural-rentals-tanStack",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-07-29T11:33:08Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "DiegoSubires/MasterXVIII-rural-rentals-tanStack-Start",
+    "url": "https://github.com/DiegoSubires/MasterXVIII-rural-rentals-tanStack-Start",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-08-12T10:58:16Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:32:01Z"
+ },
+ "SB-899": {
+  "domain": "dozor23.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:32:09Z"
+ },
+ "SB-904": {
+  "domain": "nuthill.co.za",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:32:17Z"
+ },
+ "SB-905": {
+  "domain": "briticom.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:32:25Z"
+ },
+ "SB-906": {
+  "domain": "avizio.pl",
+  "accounts": [
+   {
+    "login": "avizio",
+    "type": "Organization",
+    "url": "https://github.com/avizio",
+    "name": "Avizio",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2020-12-31T09:09:43Z",
+    "updated_at": "2025-03-10T17:41:17Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:32:36Z"
+ },
+ "SB-907": {
+  "domain": "besd.nl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:32:48Z"
+ },
+ "SB-908": {
+  "domain": "ctservicestore.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:32:57Z"
+ },
+ "SB-909": {
+  "domain": "daejinnetworks.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:33:11Z"
+ },
+ "SB-910": {
+  "domain": "etictelecom.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:33:25Z"
+ },
+ "SB-911": {
+  "domain": "itmarket.co.il",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:33:36Z"
+ },
+ "SB-913": {
+  "domain": "lanpro.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:33:48Z"
+ },
+ "SB-914": {
+  "domain": "mro-tek.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:34:00Z"
+ },
+ "SB-915": {
+  "domain": "radwin.com",
+  "accounts": [
+   {
+    "login": "radwinskis",
+    "type": "User",
+    "url": "https://github.com/radwinskis",
+    "name": "Mark Radwin",
+    "blog": "markradwin.com",
+    "email": null,
+    "company": "Utah Geological Survey",
+    "public_repos": 18,
+    "created_at": "2021-02-07T23:49:02Z",
+    "updated_at": "2026-09-05T03:22:20Z",
+    "bio": "Geology PhD - Geospatial Scientist",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "GEE_UBM",
+      "pushed_at": "2026-10-19T17:28:00Z",
+      "lang": "Jupyter Notebook",
+      "desc": "Package for performing spatially distributed Soil Water Balance Utah Basin Model (UBM) calculations entirely within Goog",
+      "fork": false
+     },
+     {
+      "name": "RustGIS",
+      "pushed_at": "2026-10-16T14:51:52Z",
+      "lang": null,
+      "desc": "A fast, free and open-source GIS in pure Rust.",
+      "fork": true
+     },
+     {
+      "name": "PhotosMapApp",
+      "pushed_at": "2026-08-19T16:15:31Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "radgeetoolbox-feedstock",
+      "pushed_at": "2026-07-31T14:03:03Z",
+      "lang": null,
+      "desc": "A conda-smithy repository for radgeetoolbox.",
+      "fork": true
+     },
+     {
+      "name": "RadGEEToolbox",
+      "pushed_at": "2026-07-31T13:59:47Z",
+      "lang": "Python",
+      "desc": "Python package simplifying large-scale operations using Google Earth Engine (GEE) for users who utilize Landsat and Sent",
+      "fork": false
+     },
+     {
+      "name": "Beaver_DF_Streamlit_App",
+      "pushed_at": "2026-07-28T21:11:07Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:34:13Z"
+ },
+ "SB-916": {
+  "domain": "skipod.lk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:34:26Z"
  }
 }

@@ -111,6 +111,25 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 87 批（US · SEC EDGAR 10-K FY2004（AESP 曾为纳斯达克上市，CIK 1026744）+ E.D. Va. 判决 2014（商标权属）+ USPTO 商标档 + D&B 档案，2026-10-27 查；https://www.sec.gov/Archives/edgar/data/1026744/000095014405005291/g94284e10vk.htm）：**
+
+- 法定名 / 登记号：AESP, Inc.（d/b/a Advanced Electronic Support Products；品牌 Signamax；子公司 Signamax, Inc.） · Florida corporation（1983 年注册；Sunbiz 不可抓）；SEC CIK 1026744（已退市） · 状态 **在营（D&B 列 Key Principal Vyacheslav Stein；signamax.com 在线）** · 成立 1983（佛罗里达） · Florida corporation · 私有化前为 Nasdaq 小盘股（2004 年净销售 $15.8M、72 人：北迈阿密 29 + 宾州 3 + 捷克 40；连续经营亏损 2002–2004）· 两名主要股东为高管
+- 行业码 / 经营范围：网络连接产品：线缆 / 适配器 / 交换机 / 收发器（Signamax 品牌）+ AEM 代工线（为零售商 / PC 厂贴牌）；市场北美 / 拉美 / 欧洲 / 中东；2004 年 34% 销售给俄乌独家分销商
+- 注册地址：999 NW 159th Dr, Miami, FL 33169-5803
+- 规模档：小型（历史 72 人 2004；现规模不明，估明显缩小）
+- 账目：仅历史：2004 净销售 $15.8M、经营亏损 $(811)k、毛利 28.9%（SEC）；退市后无公开数；FL 年报 5-01
+- 高管：Vyacheslav (Slav) STEIN — Key Principal（D&B）= 共同创始人 / 主要股东（SEC 10-K「two principal shareholders, as employees」）
+- 高管：Lynn McCULLOUGH — Vice President of Sales（研究档 KP）；Indika KULATUNGA — Vice President（研究档）；均非登记主股东
+- 高管：历史董事（2004）：William B. Coldrick、Leonard Sokolow、Steve Daily、John Wilkens
+- 控制人 / 股东：两名创始股东兼高管（SEC 10-K 2004 「two principal shareholders, as employees」；D&B 现 Key Principal = Vyacheslav Stein；另一人姓名待核）
+- 曾用名：Advanced Electronic Support Products, Inc.
+- **这意味着什么：**
+  - **AESP = 1983 年起的迈阿密网络配件老牌 OEM / 分销商，曾上市（2004 $15.8M、72 人、连年亏损后私有化），Signamax 品牌交换机本就是外采贴牌** → 这是标准「有自有品牌的进口贴牌商」= OEM 30% 线首选类型；KP Lynn McCullough 不是老板，拍板人是 Slav Stein（Key Principal）→ 对表信 cc 或改写给 Stein
+  - 2005–2014 与捷克 Apron（Signamax LLC / signamax.cz）打了 9 年「SIGNAMAX」商标官司（E.D. Va. 2014）→ 欧洲 Signamax ≠ 美国 AESP，**别把两家混为一户，更别在信里提捷克 Signamax**；USPTO 2014 两件 SIGNAMAX 申请均 abandoned（商标权在美弱）
+  - 历史上 34% 销售走俄乌分销 → 他们有对俄渠道经验；现状不明，不主动提俄
+  - 付款 T/T 30/70，首单 100% 预付（历史亏损记录）；FCC + CE / RoHS；DAP 迈阿密走 Saga 百运网线
+- 备注：研究档 founded / 规模字段可据此回填：1983、历史 72 人。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -152,14 +171,18 @@ updated: 2026-10-27
 - **KP**：Lynn McCullough（）lmccullough@signamax.com 〔用户表〕
 - **KP**：Thomas Murphy（）tmurphy@signamax.com 〔用户表〕
 - **KP**：Indika Kulatunga（） 〔用户表〕
+- **KP**：Vyacheslav (Slav) Stein（Key Principal（D&B）= 创始股东 / 拍板人（AESP 1983 年成立；曾 Nasdaq 上市后私有化）（第 87 批 官方登记核实 2026-10-27）） 〔https://www.dnb.com/business-directory/company-profiles.aesp_inc.c51369a341bc16874f588edaeaa2d197.html〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | AESP, Inc.（d/b/a Advanced Electronic Support Products；Florida corporation 1983；品牌 Signamax，子公司 Signamax, Inc.；SEC CIK 1026744 已退市；999 NW 159th Dr, Miami FL 33169） |
+| 成立 | 1983（佛罗里达；SEC 10-K）（第 87 批 官方登记核实 2026-10-27） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 signamax.com，语言 en，快照状态 ok；角色判定来源：待核 |
+| 人数 | 历史 72 人 / 净销售 $15.8M（2004，SEC）；现规模不明（估明显缩小）（第 87 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 signamax.com，语言 en，快照状态 ok；角色判定来源：待核；2005–2014 与捷克 Apron（Signamax LLC / signamax.cz）打了 9 年 SIGNAMAX 商标官司（E.D. Va. 2014）→ 欧洲 Signamax ≠ 美国 AESP，别混为一户；2004 年 34% 销售走俄乌独家分销（第 87 批 官方登记核实 2026-10-27） |
 
 - **业务线**：SFP / MC / 交换机 / 工业 FS（自有品牌 Signamax）
 - **触达通道（公开）**：role: 网络连接产品品牌商（美国，量大）；region: 美国；contact: tmurphy@signamax.com、lmccullough@signamax.com
@@ -256,6 +279,7 @@ updated: 2026-10-27
 | Lynn McCullough | — | lmccullough@signamax.com | 调研核实（公开页） | 用户表 |
 | Thomas Murphy | — | tmurphy@signamax.com | 调研核实（公开页） | 用户表 |
 | Indika Kulatunga | — | — | 调研核实（公开页） | 用户表 |
+| Vyacheslav (Slav) Stein | Key Principal（D&B）= 创始股东 / 拍板人（AESP 1983 年成立；曾 Nasdaq 上市后私有化）（第 87 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.dnb.com/business-directory/company-profiles.aesp_inc.c51369a341bc16874f588edaeaa2d197.html |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

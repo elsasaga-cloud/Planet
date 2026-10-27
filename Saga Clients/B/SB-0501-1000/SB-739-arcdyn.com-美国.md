@@ -97,6 +97,22 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 87 批（US · 公司官网 + LinkedIn 公司页（2016 成立 / 2–10 人）+ ZoomInfo（President Justin Bowman）+ Alignable；NC SoS 登记未取，2026-10-27 查；https://arcdyn.com/about-us）：**
+
+- 法定名 / 登记号：Arcdyn, Inc. · NC SoS 编号未取（Inc.，Asheville） · 状态 **在营（官网在线；2024-09 飓风 Helene 曾断电断网公告）** · 成立 2016 · Inc. · 私人持有 · 「founded by techs, not marketers」
+- 行业码 / 经营范围：安防批发商 / 电商：自有品牌 ArcCore IP 摄像机 + NVR（贴牌，3 年保）、Uniview 代理、门禁、Platinum Tools；经销商计划（dealer program，免运费）；页面有「NDAA Compliant」类目
+- 注册地址：43 Mildred Ave, Asheville, NC 28806（原 1370 Tunnel Rd, 28805）
+- 规模档：微型（2–10 人：President + 销售 2 + 仓库 2）
+- 账目：私企无公开财报；ZoomInfo <$5M；RocketReach $24M 不可信（同页「4 人」）→ 记 <$5M；NC 年报 4-15
+- 高管：Justin BOWMAN — President（ZoomInfo C-level；Alignable 团队首位）= 研究档 KP（jbowman@，已收 21 封 3 开 0 回）→ **老板 = 联系人**
+- 高管：Ben DOFFLEMYER — Head of Sales & Surveillance Analyst / Account Manager；Quinn POWERS — Sales；Joseph DAWES / Joseph RICKER — Warehouse
+- 控制人 / 股东：Justin Bowman（推定）
+- **这意味着什么：**
+  - **Arcdyn = 阿什维尔 2–10 人的安防电商 / 批发商，自有贴牌线 ArcCore（摄像机 + NVR 都是贴牌），President Justin Bowman 既是拍板人也是我们一直写信的人（3 次打开 0 回）** → 他们卖给安装商的套包天然缺「ArcCore 牌 PoE 交换机」：OEM 30% 线，8/16 口 PoE 非管理（STC-028GP / STC-228GP）+ 彩盒 $2.5/套起 200 套；下一封主题直接写「ArcCore-branded PoE switch to pair with your NVR kits」而不是泛群发
+  - 页面有 NDAA 类目 → 摄像机走 NDAA 是他们对政府 / 大麻农场客户的卖点；**交换机别提 NDAA**（规则），只谈 FCC + 3 年保与其摄像机同保
+  - 2024-09 飓风 Helene 重创阿什维尔 → 2025 年起才恢复；小商现金流紧：首单 100% 预付、MOQ 1 箱、DAP 北卡走 Saga 百运网线
+- 备注：研究档 legal_name 「Arcdyn LLC（待核）」应改为 Arcdyn, Inc.（LinkedIn / 官网 / 判例均 Inc.）；founded 2016。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -140,8 +156,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Arcdyn LLC（待核） |
+| 法定名称 | Arcdyn, Inc.（非 LLC；2016；43 Mildred Ave, Asheville NC 28806（原 1370 Tunnel Rd）；NC SoS 编号未取） |
+| 成立 | 2016（LinkedIn / ZoomInfo）（第 87 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Asheville, NC, USA |
+| 人数 | 2–10 人（President + 销售 2 + 仓库 2）；营收 <$5M（ZoomInfo；RocketReach $24M 不可信）（第 87 批 官方登记核实 2026-10-27） |
 | 其他 | NDAA 合规选项 |
 
 - **业务线**：安防摄像机 / NVR 分销
