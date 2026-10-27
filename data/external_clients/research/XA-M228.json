@@ -1,0 +1,47 @@
+{
+ "code": "XA-M228",
+ "name": "NACE Inc（North American Cable）",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "宽带/线缆设备分销（PA，自述 MikroTik Master Distributor）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
+ "type_final": "宽带/线缆设备分销（PA，自述 MikroTik Master Distributor）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Master）"
+ ],
+ "saga_line": "SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位",
+ "fit": "Master Distributor、未触达",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "USWest Chester 【2026-09-28 R53 B段复筛达标升级】官网核对：NACE = North American Cable Equipment（美国 PA，宽带/线缆设备专业分销），自述 «Your Trusted MikroTik Master Distributor»（北美 MikroTik 总代），MikroTik 专页产品类目含 Switches（/mikrotik-product/switches/，CR",
+   "quote": "",
+   "url": "https://products.nace.tv/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "sales@northamericancable.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "US 主攻区 Master Distributor、未触达 → A 首触（优先）",
+ "next_move": {
+  "action": "首触",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "US 周三 08–10 当地",
+  "when": "2026-11-04"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "L2+ PoE and industrial switches for your reseller channel",
+  "body": "Hi,\n\nSaga Telecom supplies network distributors with Marvell-based L2+ PoE switches and Centec-based L3 10G/25G/100G switches, under our label or the distributor's own, FCC/CE. Two lines that usually interest MikroTik and WISP channels:\n\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).\n- STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWhat is the usual route for a new switch brand to get onto your line card - a sample for your lab, or a pricing sheet for your product team first?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

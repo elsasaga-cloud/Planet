@@ -1,0 +1,44 @@
+{
+ "code": "XA-M249",
+ "name": "Ron Touw / MikroTik Training UK",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-10-06 核对在线；本轮未复查",
+ "summary": "MikroTik 培训讲师（无直达邮箱）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "MikroTik 培训讲师（无直达邮箱）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 10 证全拿"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★ 10 证全拿 + 英国培训讲师；无线勘测与设计、固定网络基础设施设计、BGP/MPLS/VPLS/OSPF、流量管理 【2026-10-06 R63 B升A】B-422→A-584：经 web_search 核实(官方名录/官网在售/创始人背景)达 R50 复筛达标口径,升 A 并改号;原 B 编号 B-422 释放回池",
+   "quote": "",
+   "url": "https://mikrotiktraining.co.uk/",
+   "date": "2026-10-06"
+  }
+ ],
+ "contacts": {
+  "email": "",
+  "email_status": "缺",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "讲师、无邮箱 → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

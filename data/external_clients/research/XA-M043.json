@@ -1,0 +1,57 @@
+{
+ "code": "XA-M043",
+ "name": "J A Shomer Company",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-22 核对在线；本轮未复查",
+ "summary": "工业分销（N-Tron/Red Lion/HMS 渠道；克利夫兰 1–10 人、60 年）；卖 N-Tron/Red Lion 工业交换机（8口约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商，价差 5 倍",
+ "type_final": "工业分销（N-Tron/Red Lion/HMS 渠道；克利夫兰 1–10 人、60 年）",
+ "size": "工业分销（N-Tron/Red Lion/HMS 渠道；克利夫兰 1–10 人、60 年）",
+ "brands_seen": [
+  "N-Tron",
+  "Red Lion",
+  "Anybus",
+  "Ewon"
+ ],
+ "saga_line": "SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位",
+ "fit": "工业交换机品类现成，STI 做第二供应商",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "俄亥俄工业分销；⚠️ 中国产地不能做 TAA/NDAA 政府/电力项目，只谈商业渠道；【2026-09-22 补】1703 Brookpark Rd / 1951 W 112th St, Cleveland OH 44109；1–10 人小公司，60 年历史，做传感器、变频驱动、电机、传动与面板仪表。",
+   "quote": "",
+   "url": "https://jashomer.com/",
+   "date": "2026-09-22"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-28 发 sales@jashomer.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "sales@jashomer.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-28 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "US 主攻区工业分销、品类完全对口 → 维持 A",
+ "next_move": {
+  "action": "第二封",
+  "angle": "STI 工业 L2+ PoE（MikroTik 无此品类）",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "US 周三 08–10 当地",
+  "when": "2026-11-04"
+ },
+ "notes": "口径：中国产地不谈政府/电力项目，只谈商业渠道。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "A second-source DIN-rail PoE switch for your industrial customers",
+  "body": "Hi,\n\nI wrote on 28 September about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nFor your commercial panel-builder and plant customers, would a DIN-rail PoE switch at this price point be worth a sample unit?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

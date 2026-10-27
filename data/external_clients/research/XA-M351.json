@@ -1,0 +1,51 @@
+{
+ "code": "XA-M351",
+ "name": "ATEC Security Ltd",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "安防系统集成商（KP Michelle Hollinshead, Sales & Marketing）；Marvell Prestera 接入层切入",
+ "type_final": "安防系统集成商（KP Michelle Hollinshead, Sales & Marketing）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "安防系统集成商 —— IP 视频监控依赖接入层 PoE。 【2026-09-27 挖邮箱】备用 compliance@atec-security.co.uk；具名联系人 Michelle Hollinshead（Sales & Marketing Executive）",
+   "quote": "",
+   "url": "https://atec-security.co.uk/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-28 发 info@atec-security.co.uk「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "info@atec-security.co.uk",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-28 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商/服务商，非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

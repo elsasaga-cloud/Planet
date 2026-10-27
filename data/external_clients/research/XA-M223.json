@@ -1,0 +1,56 @@
+{
+ "code": "XA-M223",
+ "name": "Joshua Moore / Archous Networks",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "MikroTik 自动化集成商/MSP；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "MikroTik 自动化集成商/MSP",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCTCE",
+  "MTCUME",
+  "MTCINE",
+  "MTCIPv6E",
+  "MTCSE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "多厂商网络与系统集成商，专做 MikroTik 及他牌的自动化网络方案（端到端开通自动化：用户开通/停用/限速）；OSPF/BGP/MPLS 规模部署、WireGuard/IPIP/GRE/L2TP/PPP 隧道；为企业与 ISP 定制监控与报表 【2026-09-28 R49 复筛补录】来源等级：official-company。官网在线；ISP/数据中心网络设计（含开放网络厂商）：archous.tech 首页：1-866-535-",
+   "quote": "",
+   "url": "https://archous.tech/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-05 发 mikrotik@archous.tech「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-05"
+  }
+ ],
+ "contacts": {
+  "email": "mikrotik@archous.tech",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-05 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "集成商非渠道 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

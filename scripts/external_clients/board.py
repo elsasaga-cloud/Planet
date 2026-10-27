@@ -114,39 +114,13 @@ def saga_now_rows():
     return rows, head
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument('--date', default=dt.date.today().isoformat())
-    a = ap.parse_args()
-    today = dt.date.fromisoformat(a.date)
-    mon, sun = week_range(today)
-    wk = iso_week(today)
-    recs = load_records()
-    cards = all_cards()
-    now = dt.datetime.utcnow().strftime('%Y-%m-%d %H:%MZ')
 
-    items = []
-    for code, c in cards.items():
-        repo, r = recs.get(code, ('?', {}))
-        nm = c.get('next_move') or {}
-        d = parse_when(nm.get('when'))
-        items.append(dict(code=code, repo=repo, name=c['name'], iso=r.get('iso') or '', grade=c['grade_final'], action=nm.get('action'),
-                          angle=nm.get('angle', ''), model=nm.get('model', ''), price=nm.get('price', ''), window=nm.get('window', ''),
-                          when=nm.get('when', ''), date=d, email=(c.get('contacts') or {}).get('email', ''), draft=c.get('draft_en'),
-                          md=md_path(repo, code, c['grade_final']), reason=c.get('grade_reason_final', ''), notes=c.get('notes', '')))
-    send = [i for i in items if i['action'] in ('第二封', '首触') and i['draft']]
-    this_week = sorted([i for i in send if i['date'] and mon <= i['date'] <= sun], key=lambda x: (x['date'], x['iso'], x['code']))
-    later = sorted([i for i in send if not (i['date'] and mon <= i['date'] <= sun)], key=lambda x: (x['date'] or dt.date(2099, 1, 1), x['code']))
-    waiting = [i for i in items if i['action'] == '等回']
-    idle = [i for i in items if i['action'] in ('不动', '并线')]
-
-    # ---------- 发送包 ----------
-    os.makedirs(os.path.join(ROOT, 'docs', '发送包'), exist_ok=True)
+def write_package(wk, mon, sun, items_wk, rest, now):
     pk = [f'# 发送包 {wk}（{mon}～{sun}）', '',
           f'生成：{now}（自动，勿手改；源 = `data/external_clients/research/*.json`）。**Simon 复制发送；Agent 不发信。** 每封一问；发前把称呼里的人名核一眼；价格快照 2026-10-27、15 天有效，过期先问我更新。',
-          '', f'共 **{len(this_week)}** 封：' + '；'.join(f'{d} {weekday_zh(d)} {n} 封' for d, n in sorted({i["date"]: 0 for i in this_week}.items()) for n in [sum(1 for x in this_week if x["date"] == d)]), '']
+          '', f'共 **{len(items_wk)}** 封：' + '；'.join(f'{d} {weekday_zh(d)} {n} 封' for d, n in sorted({i["date"]: 0 for i in items_wk}.items()) for n in [sum(1 for x in items_wk if x["date"] == d)]), '']
     by_day = {}
-    for i in this_week:
+    for i in items_wk:
         by_day.setdefault((i['date'], i['window']), []).append(i)
     for (d, w), lst in sorted(by_day.items()):
         pk.append(f'## {d} {weekday_zh(d)} · {w} · {len(lst)} 封')
@@ -170,16 +144,55 @@ def main():
             pk.append(i['draft']['body'])
             pk.append('```')
             pk.append('')
-    if later:
+    if rest:
         pk.append('## 不在本周窗口（已有稿，到期进下一个发送包）')
         pk.append('')
         pk.append('| 户 | 公司 | 国 | 动作 | 时点 | 窗口 |')
         pk.append('|---|---|---|---|---|---|')
-        for i in later:
+        for i in rest:
             pk.append(f"| {i['code']} | {i['name']} | {i['iso']} | {i['action']} | {i['when']} | {i['window']} |")
         pk.append('')
     open(os.path.join(ROOT, 'docs', '发送包', f'{wk}.md'), 'w', encoding='utf-8').write('\n'.join(pk))
 
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--date', default=dt.date.today().isoformat())
+    ap.add_argument('--also-weeks', type=int, default=2, help='额外预生成后续几周的发送包')
+    a = ap.parse_args()
+    today = dt.date.fromisoformat(a.date)
+    mon, sun = week_range(today)
+    wk = iso_week(today)
+    recs = load_records()
+    cards = all_cards()
+    now = dt.datetime.utcnow().strftime('%Y-%m-%d %H:%MZ')
+
+    items = []
+    for code, c in cards.items():
+        repo, r = recs.get(code, ('?', {}))
+        nm = c.get('next_move') or {}
+        d = parse_when(nm.get('when'))
+        items.append(dict(code=code, repo=repo, name=c['name'], iso=r.get('iso') or '', grade=c['grade_final'], action=nm.get('action'),
+                          angle=nm.get('angle', ''), model=nm.get('model', ''), price=nm.get('price', ''), window=nm.get('window', ''),
+                          when=nm.get('when', ''), date=d, email=(c.get('contacts') or {}).get('email', ''), draft=c.get('draft_en'),
+                          md=md_path(repo, code, c['grade_final']), reason=c.get('grade_reason_final', ''), notes=c.get('notes', '')))
+    send = [i for i in items if i['action'] in ('第二封', '首触') and i['draft']]
+    this_week = sorted([i for i in send if i['date'] and mon <= i['date'] <= sun], key=lambda x: (x['date'], x['iso'], x['code']))
+    later = sorted([i for i in send if not (i['date'] and mon <= i['date'] <= sun)], key=lambda x: (x['date'] or dt.date(2099, 1, 1), x['code']))
+    waiting = [i for i in items if i['action'] == '等回']
+    idle = [i for i in items if i['action'] in ('不动', '并线')]
+
+    # ---------- 发送包（本周 + 后续 N 周各一份） ----------
+    os.makedirs(os.path.join(ROOT, 'docs', '发送包'), exist_ok=True)
+    future = {}
+    for k in range(0, a.also_weeks + 1):
+        m0 = mon + dt.timedelta(days=7 * k)
+        s0 = m0 + dt.timedelta(days=6)
+        w0 = iso_week(m0)
+        lst0 = sorted([i for i in send if i['date'] and m0 <= i['date'] <= s0], key=lambda x: (x['date'], x['iso'], x['code']))
+        write_package(w0, m0, s0, lst0, [i for i in send if not (i['date'] and m0 <= i['date'] <= s0)], now)
+        future[w0] = len(lst0)
     # ---------- 跟进总台 ----------
     sb = s_box_replies()
     saga_rows, saga_head = saga_now_rows()
@@ -192,6 +205,8 @@ def main():
     bd.append(f"- Saga 老客户：`docs/跟进日历_2026-11.md` 「{saga_head or '现在'}」{len(saga_rows)} 户（下表 §3 摘前列）。")
     bd.append('')
     bd.append(f'## 1. 本周要发（{wk}，{len(this_week)} 封）— 稿全文在 `docs/发送包/{wk}.md`')
+    bd.append('')
+    bd.append('后续周（稿已备好，到周再发）：' + '；'.join(f'`docs/发送包/{w}.md` {n} 封' for w, n in future.items() if w != wk))
     bd.append('')
     bd.append('| 日期 | 窗口 | 户 | 公司 | 国 | 动作 | 型号 / 价 | 收件 |')
     bd.append('|---|---|---|---|---|---|---|---|')

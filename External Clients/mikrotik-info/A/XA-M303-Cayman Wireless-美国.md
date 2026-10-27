@@ -1,6 +1,6 @@
 # XA-M303 · Cayman Wireless · 美国
 
-> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-278`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 mikrotik-info `A-278`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R02 2026-10-27）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -76,7 +76,40 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R02，2026-10-27）
+
+- **结论：XA** — US 主攻区 WISP 渠道 → 维持 A
+- 活着吗：来源库 2026-09-23 核对在线；本轮未复查
+- 一句话：WISP 分销/集成（Netonix 代理）；WISP 接入层替换
+- 是什么人：WISP 分销/集成（Netonix 代理）；规模：未量化
+- 在卖/在用：Netonix 授权渠道（WISP 接入层交换机）
+- 对口哪条线：SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位 — WISP 渠道，已卖户外交换机
+- 找得到人吗：sales@caymanwireless.com（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 2026-10-03 群发「24 Port PoE Managed Switch」→ 已发未回
+- 与 Saga Clients：无
+- **下一动作：第二封** — STI 工业 L2+ PoE（MikroTik 无此品类）；型号 STI-288DGGPM；价 USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 US 周三 08–10 当地；建议 2026-11-04
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 Vitesse 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其不能使用「同芯片」话术（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商。 【2026-09-27 A260–A279联络 |  | https://caymanwireless.com/ | 2026-09-23 |
+| S 箱群发记录 | S 箱 2026-10-03 发 sales@caymanwireless.com「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-03 |
+
+草稿（英文，第二封；Simon 发，Agent 不发）：
+
+```text
+Subject: Industrial DIN-rail PoE switches - the category MikroTik does not cover
+
+Hi,
+
+I wrote on 3 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different product line, so a fresh note rather than a reply.
+
+STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.
+
+Would a DIN-rail PoE switch be a useful second option for your tower-site builds, or is your current line fully covering that?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：Netonix 用 Vitesse 芯片，对其不讲 Marvell 话术。 轻卡：本轮未外查，沿用来源库官网/名录核对。

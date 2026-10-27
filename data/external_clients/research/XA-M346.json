@@ -1,0 +1,51 @@
+{
+ "code": "XA-M346",
+ "name": "Networkology Ltd",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "集成商（Platinum Partner）；Marvell Prestera 接入层切入",
+ "type_final": "集成商（Platinum Partner）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【待人工补信息】本条为集成商/顾问型，属 A 级主产地，但当前抓不到邮箱（群发触达不到），故由人工定级提为 A。需要人工处理：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 Platinum Partner。 【2026-09-27 挖邮箱·真邮箱】官网 contact 页；另有 tenders@networkology.com，具名 David Owen。客户为国防/政府/公共部门（高合规环境），Alli",
+   "quote": "",
+   "url": "https://networkology.com/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-28 发 contact@networkology.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "contact@networkology.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-28 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商/服务商，非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

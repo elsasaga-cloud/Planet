@@ -1,0 +1,55 @@
+{
+ "code": "XA-M224",
+ "name": "Kyle Heppler / The ISP Academy",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "ISP 培训机构（The ISP Academy）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "ISP 培训机构（The ISP Academy）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCRE",
+  "MTCINE",
+  "MTCSE",
+  "MTCEWE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★ 经营 The ISP Academy（ISP 学院，培训机构）；专攻各规模 ISP，尤其 WISP；兼做网络监控、数据库、网络自动化与编程、无线工程、团队培训 → 他教出来的 WISP 就是他的渠道 【2026-09-28 R50 A级提炼】来源等级：official-directory（沿用既有轮次官方名录记录）。持 MTCEWE、MTCINE、MTCNA、MTCRE、MTCSE；★ 经营 The ISP Academy（ISP ",
+   "quote": "",
+   "url": "https://theispacademy.com/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-05 发 hello@theispacademy.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-05"
+  }
+ ],
+ "contacts": {
+  "email": "hello@theispacademy.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-05 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "培训机构非采购方 → B（关系线，不进发送包）",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

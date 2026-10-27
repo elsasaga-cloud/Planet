@@ -1,0 +1,61 @@
+{
+ "code": "XA-M507",
+ "name": "Network Devices Inc.",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-29 核对在线；本轮未复查",
+ "summary": "网络硬件分销/转售（TX，10,000+ 客户 50+ 国，在售 MikroTik CRS518）；MikroTik CRS 谱（Marvell）在售 + Cisco 二手谱散杂；24口 PoE+4×10G 全新价位带对位二手思科档位",
+ "type_final": "网络硬件分销/转售（TX，10,000+ 客户 50+ 国，在售 MikroTik CRS518）",
+ "size": "未量化",
+ "brands_seen": [
+  "Cisco（新",
+  "旧",
+  "翻新）",
+  "MikroTik（RouterBOARD",
+  "CloudRouter",
+  "CRS1xx",
+  "CRS3xx",
+  "CRS518）"
+ ],
+ "saga_line": "SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位",
+ "fit": "规模与品类对口",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【2026-09-29 R58】2014 起，Trustpilot 4.7（44 评）自述 leading Texas-based reseller of network hardware with a global reach、10,000+ 客户 50+ 国；MikroTik CRS518-16XS-2XQ/CRS3xx 在售（Marvell Prestera 锚）；独立分销非官方 MikroTik 渠道【2026-09-29 R5",
+   "quote": "",
+   "url": "https://networkdevicesinc.com/",
+   "date": "2026-09-29"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-04 发 sales@networkdevicesinc.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-04"
+  }
+ ],
+ "contacts": {
+  "email": "sales@networkdevicesinc.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "US 主攻区、规模与品类对口 → 维持 A（优先）",
+ "next_move": {
+  "action": "第二封",
+  "angle": "STI 工业 L2+ PoE（MikroTik 无此品类）",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "US 周三 08–10 当地",
+  "when": "2026-11-04"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "A second-source DIN-rail PoE switch for your industrial customers",
+  "body": "Hi,\n\nI wrote on 4 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould an industrial PoE line be worth adding for your 50-country customer base, or is your demand mostly data-centre and office?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

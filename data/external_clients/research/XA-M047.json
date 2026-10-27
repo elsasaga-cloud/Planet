@@ -1,0 +1,51 @@
+{
+ "code": "XA-M047",
+ "name": "Mohammad Tayyebi / Tayyebi.net",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "个人顾问/讲师（gmail）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "个人顾问/讲师（gmail）",
+ "size": "个人顾问/讲师（gmail）",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCRE",
+  "MTCWE",
+  "MTCTCE",
+  "MTCUME",
+  "MTCINE",
+  "MTCIPv6E",
+  "MTCSWE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★★ 8 证含 MTCSWE；20+ 年 ISP/WISP 与数据中心；MikroTik 认证讲师 + 学术讲师（Academy Trainer）；做托管网络服务（设计/实施/迁移/监控/加固/安全，24/7）；专长含 交换（MAC-based VLAN、QinQ）、高可用 VRRP/LACP/绑定、DDoS 防护、组播、MPLS/VPLS/VRF；还能把 MikroTik 与别的品牌集成并做双向迁移 → 最懂多厂商替代的人",
+   "quote": "",
+   "url": "https://tayyebi.net/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "MohammadTayyebi@Gmail.Com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "个人讲师非采购方 → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

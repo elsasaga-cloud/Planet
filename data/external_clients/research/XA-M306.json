@@ -1,0 +1,47 @@
+{
+ "code": "XA-M306",
+ "name": "NTS Direct",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "Teltonika 北美战略分销（备货/预配置/培训）；Marvell 接入层生态切入",
+ "type_final": "Teltonika 北美战略分销（备货/预配置/培训）",
+ "size": "未量化",
+ "brands_seen": [
+  "Teltonika Networks（含 TSW 系列交换机）"
+ ],
+ "saga_line": "SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位",
+ "fit": "工业路由分销，工业 PoE 配套",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "2025 年与 Teltonika 达成北美战略分销合作，备货并提供预配置、技术培训、集成支持。 【2026-09-27 A340–A359联络核验】来源等级：official-company。官网Contact Us与公司About Us PDF给Sales@NTSDirect.com、877.483.5393、41 Main Street, Bolton, MA 01740；自述增值分销（VoIP/UC、网络、视频会议、安防），30",
+   "quote": "",
+   "url": "https://shop.ntsdirect.com/",
+   "date": "2026-09-27"
+  }
+ ],
+ "contacts": {
+  "email": "sales@ntsdirect.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "US 主攻区工业路由分销、未触达 → A 首触",
+ "next_move": {
+  "action": "首触",
+  "angle": "工业 DIN 轨 PoE 首触",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "US 周三 08–10 当地",
+  "when": "2026-11-04"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "DIN-rail industrial PoE switches - second source for your line card",
+  "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point, FCC/CE.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE switch next to your industrial-router range be worth a sample, or would you rather see the full industrial price list first?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

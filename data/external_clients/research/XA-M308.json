@@ -1,0 +1,44 @@
+{
+ "code": "XA-M308",
+ "name": "A3 Communications",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "安防集成商（Cook & Boardman 事业部）；Marvell 接入层生态切入",
+ "type_final": "安防集成商（Cook & Boardman 事业部）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": " 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。集团官网明确列出 Cumberland ME 办事处及销售邮箱；不要混用同名公关公司的域名。 来源：[3](https://www.cookandboardman.com/division/a3-communications)",
+   "quote": "",
+   "url": "https://cookandboardman.com/",
+   "date": "2026-09-27"
+  }
+ ],
+ "contacts": {
+  "email": "salesteam@a3communications.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商/服务商，非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

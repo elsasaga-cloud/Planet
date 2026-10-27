@@ -1,0 +1,52 @@
+{
+ "code": "XA-M341",
+ "name": "Micro Technology Consultants",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "K12/中小企业 IT 服务（GA）；Marvell Prestera 接入层切入",
+ "type_final": "K12/中小企业 IT 服务（GA）",
+ "size": "未量化",
+ "brands_seen": [
+  "Ruckus（无线与交换）",
+  "Avigilon"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "佐治亚州 K12 与中小企业 IT 服务商，业务含网络、服务器、安防系统、网络交换、铜缆与光缆布线。用 Ruckus 交换与无线 —— 属可替换的接入层现有供应商。 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页正文给info@与sales@microtechnology.net及电话478-953-1921、Warner Robins地址。Facebook页显示具名Kyle.",
+   "quote": "",
+   "url": "https://microtechnology.net/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-02 发 info@microtechnology.net「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-02"
+  }
+ ],
+ "contacts": {
+  "email": "info@microtechnology.net",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-02 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商/服务商，非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

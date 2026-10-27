@@ -1,0 +1,51 @@
+{
+ "code": "XA-M319",
+ "name": "Security 101 - Rochester NY",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "= XA-M318 Security 101（同品牌 Rochester 分部）；Marvell 接入层生态切入",
+ "type_final": "= XA-M318 Security 101（同品牌 Rochester 分部）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "与 Security 101 - CT 同品牌不同实体，注意别重复触达。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。官网 2023 年 PGA 项目新闻公开 Owner/CEO Victor Wainwright 邮箱；另有当前地方服务邮箱 rochester-service@security101.com。具名职位属历史披露，未验证任职延续。 来源：[3](https://www.security101.com/",
+   "quote": "",
+   "url": "https://security101.com/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-29 发 connecticut-service@security101.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-29"
+  }
+ ],
+ "contacts": {
+  "email": "victor.wainwright@security101.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-29 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "同品牌连锁，并入 XA-M318 → C",
+ "next_move": {
+  "action": "并线",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

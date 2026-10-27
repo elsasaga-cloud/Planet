@@ -1,0 +1,50 @@
+{
+ "code": "XA-M243",
+ "name": "MAC Solutions UK Ltd",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "本轮 web_search 复核在线（2026-10-27）",
+ "summary": "工业 IT/OT 技术分销（Redditch，45 人，Kepware/Ewon/OPC；交通/监控/基础设施/自动化）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍",
+ "type_final": "工业 IT/OT 技术分销（Redditch，45 人，Kepware/Ewon/OPC；交通/监控/基础设施/自动化）",
+ "size": "工业 IT/OT 技术分销（Redditch，45 人，Kepware/Ewon/OPC；交通/监控/基础设施/自动化）",
+ "brands_seen": [
+  "N-Tron",
+  "Red Lion",
+  "Anybus",
+  "Ewon"
+ ],
+ "saga_line": "SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位",
+ "fit": "工业通信分销，硬件线可加交换机",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion + Anybus + Ewon」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact-us/ 正文可见（官网 .net 域列 .co.uk 邮箱）：sale",
+   "quote": "",
+   "url": "https://mac-solutions.net/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "sales@mac-solutions.co.uk",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "GB 主攻区工业技术分销、未触达 → A 首触",
+ "next_move": {
+  "action": "首触",
+  "angle": "工业 DIN 轨 PoE 首触",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "GB 周四 12–14 当地",
+  "when": "2026-11-12"
+ },
+ "notes": "本轮 web_search 复核：mac-solutions.net「Technical Distributor for hardware and software products… transportation, surveillance, infrastructure and automation」；Companies House 03762835，45 人（2025）。 ",
+ "draft_en": {
+  "subject": "DIN-rail industrial PoE switches - second source for your line card",
+  "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point, UKCA/CE.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), UKCA/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE switch line sit alongside your machine-communications hardware, or is switching outside your scope?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

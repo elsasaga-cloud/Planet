@@ -1,0 +1,54 @@
+{
+ "code": "XA-M244",
+ "name": "MS Dist.",
+ "round": "W1-R02",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-22 核对在线；本轮未复查",
+ "summary": "网络分销（Oxfordshire；Netonix WISP 交换机代理）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
+ "type_final": "网络分销（Oxfordshire；Netonix WISP 交换机代理）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Reseller）"
+ ],
+ "saga_line": "SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位",
+ "fit": "已卖 WISP 工业交换机",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Oxfordshire；【2026-09-22 补】官网列 Netonix WISP 交换机（PoE、宽温、DC 输入）为代理品牌。；【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-416。核验要点：站点为英国网络分销（MikroTik / Ubiquiti UniFi / Teltonika；trade account 体系；固定无线、企业WiFi、路由网关、摄像安保分栏），并沿",
+   "quote": "",
+   "url": "https://msdist.co.uk/",
+   "date": "2026-09-22"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-04 发 hello@msdist.co.uk「MSD-13577 24 Port PoE Managed Switch」，去 1 来 1",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-04"
+  }
+ ],
+ "contacts": {
+  "email": "hello@msdist.co.uk",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 机器回执（MSD-13577 24 Port PoE Managed Switch），无真人回复",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "GB 主攻区分销、已卖 WISP 工业交换机 → 维持 A",
+ "next_move": {
+  "action": "第二封",
+  "angle": "STI 工业 L2+ PoE（MikroTik 无此品类）",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "GB 周四 12–14 当地",
+  "when": "2026-11-12"
+ },
+ "notes": "10-04 来信为工单自动回执 MSD-13577，非真人回复。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
+  "body": "Hi,\n\nMy note on 4 October about our 24-port PoE L2+ switch landed in your ticket system (MSD-13577), so I am sending this once more to the sales side; it is a different product line anyway.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), UKCA/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE switch be a useful second option next to your WISP switch range?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}
