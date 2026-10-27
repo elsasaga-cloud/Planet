@@ -1,6 +1,6 @@
 # XA-M123 · ATEG Automation GmbH · 德国
 
-> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-478`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 mikrotik-info `A-478`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R03 2026-10-27）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -77,7 +77,40 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R03，2026-10-27）
+
+- **结论：XA** — DE 主攻区工业自动化分销、HMS 战略伙伴 → 维持 A
+- 活着吗：本轮 web_search 复核在线（2026-10-27）
+- 一句话：工业自动化组件分销（Remscheid，1995 起，>1000 客户；HMS Networks Strategic Partner 2026-03；2–10 人）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍
+- 是什么人：工业自动化组件分销（Remscheid，1995 起，>1000 客户；HMS Networks Strategic Partner 2026-03；2–10 人）；规模：工业自动化组件分销（Remscheid，1995 起，>1000 客户；HMS Networks Strategic Partner 2026-03；2–10 人）
+- 在卖/在用：N-Tron、Red Lion、Anybus、Ewon
+- 对口哪条线：SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位 — 工业网络技术在其产品线内，STI 做第二供应商
+- 找得到人吗：info@ateg.de（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 2026-10-06 群发「24 Port PoE Managed Switch」→ 已发未回
+- 与 Saga Clients：无
+- **下一动作：第二封** — STI 工业 L2+ PoE（MikroTik 无此品类）；型号 STI-288DGGPM；价 USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 DE 周四 12–14；建议 2026-11-12
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion + Anybus + Ewon」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：info@ateg.de；同页另有 vertrieb@at |  | https://ateg.de/ | 2026-09-28 |
+| S 箱群发记录 | S 箱 2026-10-06 发 info@ateg.de「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-06 |
+
+草稿（英文，第二封；Simon 发，Agent 不发）：
+
+```text
+Subject: A second-source DIN-rail PoE switch for your industrial customers
+
+Hi,
+
+I wrote on 6 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different product line, so a fresh note rather than a reply.
+
+STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.
+
+Would a DIN-rail PoE switch at this price be worth a test unit for your panel-builder and machine-builder customers?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：本轮 web_search 复核：ateg.de/ueber-uns「1995 als Vertriebsgesellschaft für Komponenten der Automatisierungstechnik… über 1000 Kunden」；ateg.de/news 2026-03-04 HMS Networks Strategic Partner；implisense：industrielle Netzwerktechnik 在产品线内。 

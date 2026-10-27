@@ -1,0 +1,51 @@
+{
+ "code": "XA-M363",
+ "name": "Acteos GmbH & Co. KG",
+ "round": "W1-R03",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "物流软件商（Acteos 德国子公司）；Marvell Prestera 接入层切入",
+ "type_final": "物流软件商（Acteos 德国子公司）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "伙伴等级：Resell。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。德国 Gilching 官网联系页公开，非法国总部邮箱；物流软件及硬件方案，接入交换实际采购仍需确认。 来源：[2](https://www.acteos.de/kontakt) [1](https://ixtenso.com/anbieter/2757-acteos-gmbh-co-kg.html)",
+   "quote": "",
+   "url": "https://acteos.de/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-29 发 info@acteos.de「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@acteos.de",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-29 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "不对口 → C",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

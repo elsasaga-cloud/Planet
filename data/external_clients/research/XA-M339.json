@@ -1,0 +1,51 @@
+{
+ "code": "XA-M339",
+ "name": "EDV-Partner",
+ "round": "W1-R03",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "MSP（Allied Telesis 伙伴）；Marvell Prestera 接入层切入",
+ "type_final": "MSP（Allied Telesis 伙伴）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "德国 MSP，Allied Telesis 伙伴。 【2026-09-27 A320–A339联络核验】来源等级：official-company。Allied Telesis伙伴页（EDV-Partner Ingenieurgesellschaft für Informationstechnologie mbH）给Große Bahnstraße 33, Hamburg与+49 40 2714470；官网edvpartner.de的厂",
+   "quote": "",
+   "url": "https://edvpartner.de/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-03 发 vertrieb@edvpartner.de「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-03"
+  }
+ ],
+ "contacts": {
+  "email": "vertrieb@edvpartner.de",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-03 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商/系统之家（Allied Telesis 伙伴名录批量导入），非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

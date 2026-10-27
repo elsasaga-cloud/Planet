@@ -1,0 +1,53 @@
+{
+ "code": "XA-M297",
+ "name": "Janzen Group",
+ "round": "W1-R03",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-23 核对在线；本轮未复查",
+ "summary": "MikroTik 支持/咨询/实施（Hamburg）；MikroTik 生态切入",
+ "type_final": "MikroTik 支持/咨询/实施（Hamburg）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 培训伙伴",
+  "开课",
+  "持证 MikroTik 认证顾问与讲师（具体科目未列）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【2026-09-23】MikroTik 官方培训伙伴/顾问名录收录。汉堡本地 MikroTik 支持/咨询/实施商，全德远程+汉堡现场。自述团队为「认证培训师与顾问」，面向企业网络与 IT 基础设施。 【2026-09-28 R49 复筛补录】来源等级：official-company。官网在线；服务商口径，未见交换机产品线证据：janzen-group.com：服务面 Sicherheitstechnik / Medientechn",
+   "quote": "",
+   "url": "https://janzen-group.com/",
+   "date": "2026-09-23"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-10 发 info@janzen-group.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-10"
+  }
+ ],
+ "contacts": {
+  "email": "info@janzen-group.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-10 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "咨询实施商 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

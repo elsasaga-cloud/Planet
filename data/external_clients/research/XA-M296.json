@@ -1,0 +1,53 @@
+{
+ "code": "XA-M296",
+ "name": "FMS Internetservice GmbH",
+ "round": "W1-R03",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-23 核对在线；本轮未复查",
+ "summary": "= XA-M124 FMS Internetservice GmbH（已研究、10-29 第二封）；MikroTik 生态切入",
+ "type_final": "= XA-M124 FMS Internetservice GmbH（已研究、10-29 第二封）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 培训伙伴",
+  "开课",
+  "持证 MTCRE MTCSWE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【2026-09-23】MikroTik 官方培训伙伴/顾问名录收录。在 Umkirch 开 MTCRE 与 MTCSWE，德语授课。ISP/网络服务商背景。 【2026-09-27 挖邮箱】Impressum 页；总经理 Patrick Schaub。⚠️同时运营 mikrotik-shop.de（MikroTik 网店）→ 直接竞品替代位",
+   "quote": "",
+   "url": "https://fmsweb.de/",
+   "date": "2026-09-23"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-28 发 info@fmsweb.de「24 Port PoE Managed Switch」，去 2 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-01"
+  }
+ ],
+ "contacts": {
+  "email": "info@fmsweb.de",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-28 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "同公司重复 → C 并线",
+ "next_move": {
+  "action": "并线",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

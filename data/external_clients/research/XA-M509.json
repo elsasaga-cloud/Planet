@@ -1,0 +1,42 @@
+{
+ "code": "XA-M509",
+ "name": "Wentronic GmbH",
+ "round": "W1-R03",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "自有品牌配件商（goobay，Braunschweig；来源库未建档、无邮箱）；从 PoE 交换机/注入器补线",
+ "type_final": "自有品牌配件商（goobay，Braunschweig；来源库未建档、无邮箱）",
+ "size": "未量化",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "仅见于根目录策略文档，来源库从未写进 CSV / 建档",
+   "quote": "",
+   "url": "https://wentronic.com/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "",
+  "email_status": "缺",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "OEM 潜在但无邮箱、未核 → B 待补",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "若做 OEM 线，先补 Einkauf 邮箱再首触。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,53 @@
+{
+ "code": "XA-M329",
+ "name": "Atlantik Elektronik",
+ "round": "W1-R03",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "元器件/嵌入式分销（Lantronix 授权，design-in；atestore.de）；Marvell 接入层生态切入",
+ "type_final": "元器件/嵌入式分销（Lantronix 授权，design-in；atestore.de）",
+ "size": "未量化",
+ "brands_seen": [
+  "Lantronix（Marvell 生态",
+  "工业 IoT",
+  "边缘）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Lantronix 授权分销，官网自述提供全线产品 + design-in 支持，可协助把嵌入式模块与网络产品整合进标准或定制项目。亦经营 atestore.de 电商。 【2026-09-27 A300–A319联络核验】来源等级：official-company。自营电商atestore的Lantronix专页与获奖新闻给info@atlantikelektronik.com、+49 89 89 505 0；Lantronix多年获",
+   "quote": "",
+   "url": "https://atlantikelektronik.com/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-03 发 info@atlantikelektronik.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-03"
+  }
+ ],
+ "contacts": {
+  "email": "info@atlantikelektronik.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-03 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "元器件 design-in 分销，非交换机渠道 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,51 @@
+{
+ "code": "XA-M299",
+ "name": "meconet",
+ "round": "W1-R03",
+ "researched_at": "2026-10-27",
+ "alive": "本轮 web_search 复核在线（2026-10-27）",
+ "summary": "原 WISP 器材分销（meconet e.K.）— 官网公告退出电子市场，只清库存、专做天线/射频配件/电源；WISP 接入层替换",
+ "type_final": "原 WISP 器材分销（meconet e.K.）— 官网公告退出电子市场，只清库存、专做天线/射频配件/电源",
+ "size": "未量化",
+ "brands_seen": [
+  "Netonix 授权渠道（WISP 接入层交换机）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【2026-09-23 用户裁决·保留】Netonix 交换机采用 Vitesse 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其不能使用「同芯片」话术（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 德国分销。 【2026-09-27 A340–A359联",
+   "quote": "",
+   "url": "https://meconet.de/",
+   "date": "2026-09-23"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-04 发 info@meconet.de「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-04"
+  }
+ ],
+ "contacts": {
+  "email": "info@meconet.de",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "已退出交换机业务 → C",
+ "next_move": {
+  "action": "不动",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "本轮 web_search 复核：meconet.de/mikrotik.html「meconet e.K. is withdrawing from the electronics market! Currently, we are only selling our inventory」。 ",
+ "deep": false,
+ "draft_en": null
+}
