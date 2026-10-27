@@ -79,4 +79,6 @@ Simon 对 §5 十问的答复见 `docs/requirements/待统一处理问题清单.
 - 大陆公司**不进库**（草案 §2 的「进库打标记 → XC」作废），抽取时标 DELETE 留痕于 JSON。
 - 已发轮次对账不作为第 1/2 步任务，只把 S 箱群发对账结果写进每户「已知触达」。
 
-第 1 步结果：Edgecore 157 = XA 27 / XB 92 / XC 38；mikrotik-info 747 = XA 508 / XB 174 / XC 65；CCTV-PoE（T29-U78）5,247 次出现 → 3,322 户，大陆 250 剔除 → XA 30 / XB 1,371 / XC 1,671。三库合计 3,976 户。CCTV 特殊处理：四种格式混解析、按域名/规范名合并、国别加权投票；不像公司的 2,041 条进 `cctv_未导入条目.csv`；终端触点一律 XC。索引 `External Clients/00-总索引.md`；脚本 `scripts/external_clients/`；数据 `data/external_clients/`。
+第 1 步结果：Edgecore 157 = XA 27 / XB 92 / XC 38；mikrotik-info 747 = XA 508 / XB 174 / XC 65；CCTV-PoE（T29-U78）5,247 次出现 → 3,322 户，大陆 250 剔除 → XA 30 / XB 1,371 / XC 1,671。三库合计 3,976 户。
+
+**2026-10-27 T29-U79 关仓前清点补入**（详见 `关仓前清点_2026-10-27.md`）：Edgecore 补 83 家（`Edgecore客户数据库.xlsx` 独有：50 家来源库已删 → XC 存档不复活、大 VAR / 终端用户 → XC、9 家 → XB）→ 240 = XA 27 / XB 101 / XC 109；mikrotik-info 补 C 级 285（全 XC，Simon「不碰」口径不变）+ 策略文档点名的自有品牌 OEM 目标 10 家（DOC-01..10）→ 1,042 = XA 509 / XB 180 / XC 353。三库合计 **4,351 户**（XA 566 / XB 1,652 / XC 2,133）。原编号经断言未变。CCTV 特殊处理：四种格式混解析、按域名/规范名合并、国别加权投票；不像公司的 2,041 条进 `cctv_未导入条目.csv`；终端触点一律 XC。索引 `External Clients/00-总索引.md`；脚本 `scripts/external_clients/`；数据 `data/external_clients/`。
