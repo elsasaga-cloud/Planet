@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 6
+  "count": 10
  },
  "rows": {
   "SA-086": {
@@ -213,6 +213,143 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SA-047"
+  },
+  "SA-009": {
+   "batch": 85,
+   "name": "KOPTEK BİLGİSAYAR VE İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "iso": "TR",
+   "source": "Türkiye · find.com.tr（登记摘要 + 经营范围 2007-11-09 修订）+ EMIS（成立日，2026-03 更新）+ firmarehberi（İTO 会员）+ 官网 Hakkımızda / İletişim + Trademo（3 票进口记录）",
+   "url": "https://www.find.com.tr/Company/koptekbilgisayarveiletisimsistemlerisanayiveticaretlimitedsirketi",
+   "number": "İstanbul Ticaret Odası 会员（Ticaret Sicil 号待补）",
+   "status": "经营中（EMIS 2026-03 更新；官网在线）",
+   "incorporated": "2006-02-07",
+   "company_type": "Limited Şirketi（Ltd. Şti.）· 私人持有；2007-11-09 修订章程（经营范围加进出口）",
+   "sic": [
+    "计算机与通信系统及备件买卖 / 生产 / 进出口；官网产品线 = 核心（Omurga）交换机、数据中心交换机、PoE 交换机、L2/L3 —— 自称 2020 年在土耳其在用设备 10,000+ 台；SIC 5734"
+   ],
+   "address": "Gayrettepe Mah. Fuat Sarp Sok. No:5/1, Balmumcu, Beşiktaş / İstanbul（官网 İletişim 页另列 Pazar Sk. No:16/A）",
+   "accounts": "非上市不公开；salespider 估 $410k（不可信）",
+   "accounts_due": "",
+   "size_band": "微型（名录口径小；Trademo 仅 3 票进口记录）",
+   "officers": [
+    "研究档 KP 「—」：登记高管 / 股东免费层不可得（Ltd. Şti. 需 Ticaret Sicil Gazetesi）"
+   ],
+   "psc": "待补",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌交换机卖家（Omurga / DC / PoE / L2-L3 全线），2020 年号称装机 10,000+ 台，但自己只有 3 票进口记录** → 货大概率经国内代理或第三方清关进来；他们是「贴牌卖整线」的 OEM 品牌商 = 目标顺位第 1 → OEM 30% 线，提案覆盖 L2 PoE 到 Marvell L3 / CENTEC DC 整条线",
+    "微型公司撑一条产品线 = 老板本人决策（姓名待补）：信抬头用 Genel Müdür，内容给「Koptek-branded line（neutral packaging + 固件 logo）」+ 样机测试方案",
+    "2007 年修订章程加进出口 → 有进口资质；付款 T/T 30/70 起，MOQ 按型号 5–10 台",
+    "土耳其同业已挖 HCS / EDS / SGE / TBI：Koptek 是唯一「纯交换机品牌」户，优先级在 TR 里最高；下一轮用 Ticaret Sicil Gazetesi 检索补股东姓名"
+   ],
+   "notes": "高管 / 股东待补。",
+   "fetched": "2026-10-27",
+   "code": "SA-009"
+  },
+  "SA-055": {
+   "batch": 85,
+   "name": "NOVA GRUP MÜHENDİSLİK PROJE ELEKTRİK ELEKTRONİK İLETİŞİM SİSTEMLERİ İNŞAAT VE TEKSTİL SANAYİ TİCARET LİMİTED ŞİRKETİ（Novacom Technology）",
+   "iso": "TR",
+   "source": "Türkiye · 官网 TSE 服务站清单 PDF（2024-08，含登记全称 + 进口商身份）+ ZoomInfo / RocketReach 人员 + Facebook 公司页 + 官网 İletişim（2025-12）",
+   "url": "https://www.novacom.com.tr/wp-content/uploads/2024/08/NOVA-TS-10956-SERVIS-LISTESI.pdf",
+   "number": "Ankara Ticaret Sicil（号待补）· TSE 服务站清单（TS 10956）在册进口商",
+   "status": "经营中（官网 2025-12；ZoomInfo 2023–2025 入职记录）",
+   "incorporated": "2002（官网自述）",
+   "company_type": "Limited Şirketi（Ltd. Şti.）· 私人持有 · 登记名含「建筑 + 纺织」（多元章程）",
+   "sic": [
+    "弱电 / 安防系统进口批发：摄像机、报警、数据网络、光纤、卫星、消防、对讲 —— Facebook 自述「ithalat firması」（进口商）；Novacom 为自有品牌；门店 / 据点 Ankara 总部 + İstanbul + İzmir + Şanlıurfa（+ 伦敦联络）"
+   ],
+   "address": "Aşağı Öveçler Mah. 1332 Cad. No:8/1-3-5-7, Çankaya / Ankara",
+   "accounts": "非上市不公开；RocketReach 估 $16.9M（仅供参考）",
+   "accounts_due": "",
+   "size_band": "35–36 人（RocketReach）；ZoomInfo 11–50",
+   "officers": [
+    "Cem AYTAÇ — Genel Müdür（总经理，RocketReach）→ 拍板人",
+    "Ali PEKYÜREK — 研究档 KP（职务未在名录出现；疑采购 / 产品经办）",
+    "Erdal ÖZCAN — Satış Müdürü（2023 起）；Ali TAŞKIN — Proje ve Satış Müdürü；Erdal TÜRKOĞLU — Teknik Sorumlu；Esra GÜNEŞ — 销售（2022 起）"
+   ],
+   "psc": "待补（Ltd. Şti. 股东需 Ticaret Sicil Gazetesi）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自认「进口商」+ 自有品牌 Novacom + 4 城门店 + TSE 售后服务站备案**：这是土耳其安防渠道里「有进口经验的品牌分销商」= 目标顺位第 2 → OEM 30% 线（Novacom 标 PoE 交换机配其摄像机 / NVR），或分销 20% 档走 Saga 标",
+    "联系人 Ali Pekyürek 不是总经理（Cem Aytaç）：信给 Pekyürek、抄 info@；内容是「Novacom-branded PoE switch line」一页纸，让他能转给 Genel Müdür",
+    "TSE 服务站备案意味着他们对进口产品做本地售后承诺 → 看重 3 年质保 + 备件 / 返修政策：报价里写清 DOA 换新 + 备件比例",
+    "安防批发商付款习惯 vadeli；我们坚持 T/T 30/70；Ramazan（2027-02/03）前后两周避开"
+   ],
+   "notes": "高管 / 股东待补。",
+   "fetched": "2026-10-27",
+   "code": "SA-055"
+  },
+  "SA-049": {
+   "batch": 85,
+   "name": "Bosgem Otomasyon（商号 IoT Sistem / iotsistem.com；法定全称待补）",
+   "iso": "TR",
+   "source": "Türkiye · 官网 Hakkımızda（iotsistem.com / bosgem.com / bosgem.com.tr，2026-03 更新）+ kodyaz 案例页（2018）",
+   "url": "https://www.bosgem.com.tr/urunler/markalar/bosgem/uzak-io-sistemleri-bsg-rtio-ai/",
+   "number": "İstanbul Ticaret Sicil（号待补；法定名含 Bosgem Otomasyon）",
+   "status": "经营中（bosgem.com.tr 2026-03 / 2026-07 更新；iotsistem.com 2020 后少更新）",
+   "incorporated": "2010 年末（官网自述）",
+   "company_type": "私人公司（Ltd. Şti. 推定）· 自有品牌 BOSGEM（远程 IO 等）+ USR IoT 土耳其官方分销 / 代理",
+   "sic": [
+    "工业自动化 / 工业通信产品分销（USR IoT 串口服务器、GSM 模块、远程 IO）+ 自有品牌 BOSGEM 远程 IO；电商 iotsistem.com；参展 2019 Tüyap"
+   ],
+   "address": "Cevizli Mah. Bağdat Cad. Coşkunlar Sok. Dragos Center No:16-18/11, Maltepe / İstanbul",
+   "accounts": "非上市不公开",
+   "accounts_due": "",
+   "size_band": "微型 / 小型（「uzman ekip」，无人数口径）",
+   "officers": [
+    "研究档 KP 「Berk」（名）：登记高管待补；微型公司 → 大概率老板 / 合伙人本人"
+   ],
+   "psc": "待补",
+   "charges": "",
+   "prev_names": [
+    "IoT Sistem（电商商号）"
+   ],
+   "lines": [
+    "**USR IoT（济南有人）土耳其官方分销 + 自有品牌 BOSGEM**：他们已经在从中国直接进口并贴自己的标 —— 对 Saga 的需求是「工业以太网交换机补全 USR 串口服务器 / 远程 IO 的组网」→ 工业 STI 系列（DIN 导轨、温宽）OEM 30% 或分销 20%",
+    "客户画像 = 工厂自动化 / OSB / 能源（守界允许，不碰轨交）；主推 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 等小端口工业款，强调 PoE 给 IP 摄像头 + 无风扇",
+    "微型公司、Berk 大概率是老板：报价直接给到底价档（分销 20%），MOQ 5 台 / 型号，T/T 100% 预付；iotsistem.com 自 2020 更新少 → 主力站是 bosgem.com.tr，信里按 Bosgem 称呼",
+    "法定名 / 高管下一轮用 Ticaret Sicil Gazetesi 补（Maltepe / İstanbul）"
+   ],
+   "notes": "法定名 / 高管待补。",
+   "fetched": "2026-10-27",
+   "code": "SA-049"
+  },
+  "SA-030": {
+   "batch": 85,
+   "name": "HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（品牌 Snexus Networks）",
+   "iso": "TR",
+   "source": "Türkiye · 官网销售合同页（卖方法定名 + 地址）+ 域名 WHOIS（注册人 = Hemmah Group）+ Dağıtıcılar 页 + LinkedIn（Erdem Timur Koca）+ Facebook",
+   "url": "https://www.snexus.com.tr/en/s%C3%B6zle%C5%9Fme",
+   "number": "İstanbul Ticaret Sicil（号待补）",
+   "status": "经营中（官网博客 2026-04 / 2026-06 更新）",
+   "incorporated": "待补（LinkedIn 帖 2022–2025 活跃；品牌约 2021 前后）",
+   "company_type": "Limited Şirketi · 私人持有；品牌 Snexus Networks 的法人 / 域名持有人 = Hemmah Group（兼「建筑设计」业务）",
+   "sic": [
+    "自有品牌网络设备（Snexus：即插即用 / 管理型 / 10G / 光纤核心 SN-XGS5300 / 工业 ISN-GS2300-10FP、ISN-ES1300-10FP）电商 + 渠道分销；自称「全球渠道 / 集成商」，新加坡 Sim Lim Square 联络点；质保 2 年"
+   ],
+   "address": "Turgut Özal Bulvarı No:2 A6 No:145, Çekmeköy / İstanbul（合同页）；Sultançiftliği Mah. Kıbrıs Cad. Neveser Sitesi C4/1, Çekmeköy（联系页）",
+   "accounts": "非上市不公开",
+   "accounts_due": "",
+   "size_band": "微型（Wix 建站、一个独家分销商 = 自己的 Hemmah Group）",
+   "officers": [
+    "Erdem Timur KOCA — SNEXUS NETWORKS 负责人（LinkedIn：15 年 IT 销售 / BD；ZyXEL / EnGenius 认证）→ 大概率老板 / 合伙人（登记待核）",
+    "研究档 KP 「—」"
+   ],
+   "psc": "待补",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**纯贴牌品牌（Snexus）+ 法人是一家「IT + 建筑」小公司 + 新加坡 Sim Lim 联络点**：典型的中国货源贴牌商 —— 型号命名（SN-XGS5300、ISN-GS2300-10FP）像深圳公模；他们换货源只看价格与 OEM 配合度 → OEM 30% 线，但预期单量小、比价狠；MOQ 按型号 5–10 台、T/T 100% 预付",
+    "他们对外承诺 2 年质保 / 10 个工作日修复：我们 STC 1 年 / STI 3 年 —— 报价里写清 DOA 换新 + 备件比例，别承诺 2 年整机（除非 Simon 定）",
+    "联系人未具名：LinkedIn 的 Erdem Timur Koca 是品牌面孔，信抬头用他；邮件 info@snexus.com.tr",
+    "守界提醒：他们宣传「transportation systems」客户 —— 我们只报工业 / 工厂款，不做轨交规格（EN 50155）"
+   ],
+   "notes": "成立日 / 高管待补。",
+   "fetched": "2026-10-27",
+   "code": "SA-030"
   }
  }
 }

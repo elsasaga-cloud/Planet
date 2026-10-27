@@ -14242,5 +14242,356 @@
   "accounts": [],
   "repos_mentioning": [],
   "checked_at": "2026-10-27T06:48:50Z"
+ },
+ "SB-673": {
+  "domain": "nodactechnology.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:49:01Z"
+ },
+ "SB-674": {
+  "domain": "noxel.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:49:14Z"
+ },
+ "SB-675": {
+  "domain": "pandacomdirekt.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:49:26Z"
+ },
+ "SB-676": {
+  "domain": "pctedarik.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:49:37Z"
+ },
+ "SB-677": {
+  "domain": "perkotek.com",
+  "accounts": [
+   {
+    "login": "perkotekt-del",
+    "type": "User",
+    "url": "https://github.com/perkotekt-del",
+    "name": "PERKOTEK",
+    "blog": "www.perkotek.com",
+    "email": "perkotekt@gmail.com",
+    "company": "Perkotek",
+    "public_repos": 0,
+    "created_at": "2026-05-06T06:04:29Z",
+    "updated_at": "2026-06-09T13:16:48Z",
+    "bio": "Teknology",
+    "match": "strong"
+   },
+   {
+    "login": "perkotek2323",
+    "type": "User",
+    "url": "https://github.com/perkotek2323",
+    "name": "rsonmez",
+    "blog": "https://www.perkotek.com",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2023-09-11T13:39:01Z",
+    "updated_at": "2023-09-11T13:40:01Z",
+    "bio": "\r\nPERKOTEK; Parmak izi okuyucular, yüz tanıma sistemleri, kartlı geçiş sistemleri, turnikeler ve diğer biyometrik tanıma sistemleri gibi bir dizi ürün ve çözüm ",
+    "match": "strong"
+   },
+   {
+    "login": "perkotekteknoloji",
+    "type": "User",
+    "url": "https://github.com/perkotekteknoloji",
+    "name": "PERKOTEK A.S",
+    "blog": "www.perkotek.com",
+    "email": null,
+    "company": "PERKOTEK A.S",
+    "public_repos": 0,
+    "created_at": "2021-05-28T15:50:35Z",
+    "updated_at": "2021-07-09T14:40:44Z",
+    "bio": "",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:49:50Z"
+ },
+ "SB-678": {
+  "domain": "qntmnet.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:50:04Z"
+ },
+ "SB-679": {
+  "domain": "saratota.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:50:15Z"
+ },
+ "SB-680": {
+  "domain": "schrack.cz",
+  "accounts": [
+   {
+    "login": "Schrack-Technik",
+    "type": "Organization",
+    "url": "https://github.com/Schrack-Technik",
+    "name": "Schrack Technik GmbH",
+    "blog": "",
+    "email": "edv-organisation@schrack.com",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2023-09-28T07:51:22Z",
+    "updated_at": "2026-04-27T07:54:11Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "Tomas-Kotrc/Instalace-johana",
+    "url": "https://github.com/Tomas-Kotrc/Instalace-johana",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-07-08T23:16:08Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:50:27Z"
+ },
+ "SB-681": {
+  "domain": "serrackkabin.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:50:42Z"
+ },
+ "SB-682": {
+  "domain": "serverblink.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:50:55Z"
+ },
+ "SB-683": {
+  "domain": "spectra.de",
+  "accounts": [
+   {
+    "login": "Ulydev",
+    "type": "User",
+    "url": "https://github.com/Ulydev",
+    "name": "Ulysse Ramage",
+    "blog": "uly.dev",
+    "email": null,
+    "company": "Spectra",
+    "public_repos": 60,
+    "created_at": "2014-11-18T17:38:05Z",
+    "updated_at": "2026-09-17T06:41:32Z",
+    "bio": "Co-founder at Spectra Finance, prev. Amazon / Parallel",
+    "match": "company",
+    "repos": [
+     {
+      "name": "DefiLlama-Adapters",
+      "pushed_at": "2026-10-12T11:29:14Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": true
+     },
+     {
+      "name": "yield-server",
+      "pushed_at": "2026-03-13T18:07:55Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": true
+     },
+     {
+      "name": "eth-phishing-detect",
+      "pushed_at": "2026-03-07T07:57:49Z",
+      "lang": null,
+      "desc": "Utility for detecting phishing domains targeting Web3 users",
+      "fork": true
+     },
+     {
+      "name": "defillama-server",
+      "pushed_at": "2026-01-14T15:36:04Z",
+      "lang": "TypeScript",
+      "desc": "Server for defillama",
+      "fork": true
+     },
+     {
+      "name": "dimension-adapters",
+      "pushed_at": "2026-01-13T09:56:59Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": true
+     },
+     {
+      "name": "tokenAssets",
+      "pushed_at": "2025-01-04T18:40:36Z",
+      "lang": "Go",
+      "desc": "A community-led initiative to improve access to ERC20 token icons in a manner that is inclusive, transparent, and decent",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "google/spectral-density",
+    "url": "https://github.com/google/spectral-density",
+    "desc": "Hessian spectral density estimation in TF and Jax",
+    "stars": 125,
+    "pushed_at": "2020-09-06T19:41:04Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "ChunyuanLI/spectral_descriptors",
+    "url": "https://github.com/ChunyuanLI/spectral_descriptors",
+    "desc": "A collection of spectral descriptors for 3D meshed surfaces",
+    "stars": 63,
+    "pushed_at": "2017-11-29T05:53:43Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "zshicode/Raman-Spectra-Deep-Learning",
+    "url": "https://github.com/zshicode/Raman-Spectra-Deep-Learning",
+    "desc": "PyTorch implementation of deep learning for Raman spectrum recognition: CNN, LSTM, Transformer, GNN and contrastive lear",
+    "stars": 69,
+    "pushed_at": "2025-02-13T09:18:43Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "raman-noodles/raman-spectra-decomp-analysis",
+    "url": "https://github.com/raman-noodles/raman-spectra-decomp-analysis",
+    "desc": "Python code to identify and calculate decomposition of materials using Raman spectroscopy",
+    "stars": 29,
+    "pushed_at": "2020-12-31T02:16:33Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "NatLabRockies/In-Situ-FTIR-SpectralDeconvolution",
+    "url": "https://github.com/NatLabRockies/In-Situ-FTIR-SpectralDeconvolution",
+    "desc": "Multi-peak fitting of time-series in situ ATR-FTIR spectra",
+    "stars": 9,
+    "pushed_at": "2024-09-11T21:10:30Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T06:51:09Z"
+ },
+ "SB-684": {
+  "domain": "technics-india.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:51:23Z"
+ },
+ "SB-685": {
+  "domain": "techsouq.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Hosny-Ayman/TechSouq-Admin-Dashboard",
+    "url": "https://github.com/Hosny-Ayman/TechSouq-Admin-Dashboard",
+    "desc": "TechSouq e-commerce admin dashboard built with Angular 21, PrimeNG, Tailwind CSS, and SignalR.",
+    "stars": 0,
+    "pushed_at": "2026-09-17T12:37:36Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Hosny-Ayman/TechSouq-Frontend",
+    "url": "https://github.com/Hosny-Ayman/TechSouq-Frontend",
+    "desc": "E-commerce storefront built with Angular 17, PrimeNG, Tailwind CSS, RxJS, SSR, Stripe, and Google OAuth.",
+    "stars": 0,
+    "pushed_at": "2026-09-17T17:17:29Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:51:36Z"
+ },
+ "SB-686": {
+  "domain": "teknoktadestek.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:51:48Z"
+ },
+ "SB-687": {
+  "domain": "telkotim.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T07:19:27Z"
+ },
+ "SB-688": {
+  "domain": "teslakom.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T07:19:41Z"
+ },
+ "SB-689": {
+  "domain": "tiscontrol.com",
+  "accounts": [
+   {
+    "login": "TISControlHass",
+    "type": "Organization",
+    "url": "https://github.com/TISControlHass",
+    "name": "TIS Control",
+    "blog": "https://www.tiscontrol.com/",
+    "email": null,
+    "company": null,
+    "public_repos": 3,
+    "created_at": "2024-06-04T10:34:25Z",
+    "updated_at": "2024-06-04T10:43:20Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "TISControlProtocol",
+      "pushed_at": "2026-08-17T12:14:34Z",
+      "lang": "Python",
+      "desc": "a repo for TIS control's communication protocol python package",
+      "fork": false
+     },
+     {
+      "name": "TISDeviceManager",
+      "pushed_at": "2024-10-30T17:46:19Z",
+      "lang": "PHP",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": ".github",
+      "pushed_at": "2024-09-06T19:10:18Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T07:19:54Z"
+ },
+ "SB-690": {
+  "domain": "troyykontrol.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T07:20:11Z"
+ },
+ "SB-691": {
+  "domain": "vitel.com.tr",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "CedricTC/Job-Navigator",
+    "url": "https://github.com/CedricTC/Job-Navigator",
+    "desc": "Yazılım sektöründe iş arama sürecini kolaylaştırmak amacıyla geliştirdiğim bir program. Tek tıkla yüzlerce şirkete profe",
+    "stars": 2,
+    "pushed_at": "2024-12-23T00:50:27Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T07:20:24Z"
+ },
+ "SB-692": {
+  "domain": "andatelecom.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T07:20:36Z"
  }
 }

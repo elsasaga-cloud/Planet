@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 11
+  "count": 15
  },
  "rows": {
   "SA-002": {
@@ -389,6 +389,145 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SA-058"
+  },
+  "SA-054": {
+   "batch": 85,
+   "name": "SOFTNETWORKS LLC（softnetworks.net）",
+   "iso": "US",
+   "source": "USA · NJ 学区供应商报告（Red Bank BOE OPRA PDF，含税号）+ NJASA 会员名录（2017–2019）+ LinkedIn / Yelp / Datanyze / SignalHire / D&B 摘要 + 官网（2025-12）",
+   "url": "https://opramachine.com/request/39368/response/70687/attach/4/01%2026%2023%20Redacted%20report.PDF.pdf",
+   "number": "New Jersey LLC（NJ 实体号待补）· 联邦税号 46-1347043（学区供应商报告）",
+   "status": "经营中（官网 2025-12、Yelp 2026-05 更新）",
+   "incorporated": "2011（LinkedIn / Yelp「Established in 2011」；Datanyze 1998 口径为前身 / 域名）",
+   "company_type": "LLC · 私人持有（所有人未公开；Neal Cennamo 为 VP）",
+   "sic": [
+    "新 / 翻新网络硬件转售（Cisco / Juniper / Brocade / Dell / HP）+ 回收过剩设备 + Chromebook / Apple 维修；主要客户 NJ K-12 学区（NJASA 联盟会员，学区供应商）；SIC 5099 / NAICS 54"
+   ],
+   "address": "20 Troy Rd, Ste 4, Whippany, NJ 07981",
+   "accounts": "私人公司不公开；Datanyze 估 $4.5M / SignalHire $10–50M（不可信区间）",
+   "accounts_due": "NJ 年报每年成立月",
+   "size_band": "18 人（Datanyze / ZoomInfo）；11–50",
+   "officers": [
+    "Neal CENNAMO — Vice President（2014 起；学区名录 / NJASA 唯一联系人 nealc@）= 研究档 KP → 对外总负责，**所有人身份待核**（NJ 不公开 LLC 成员）",
+    "其余公开人员均为维修技师"
+   ],
+   "psc": "未公开（NJ LLC 成员不公示）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**学区（K-12）供应商 + 翻新 Cisco 转售商**：买新交换机是为了给学区项目配「预算内的新设备」——我们的切入点是替代翻新 Cisco 的「全新 + 3 年质保 + 管理型」（STI-480XGGM / STC-448XGGPM / STC-2024GP 给 AP 与 IP 话机供电）→ 分销 20% 档",
+    "学区采购走采购单（PO）且按学年预算（7 月起新预算、春季报价）：2027 年 3–5 月报价窗口；首单仍 T/T 预付（他们对供应商付款是 Net 30，但我们是境外）",
+    "Neal Cennamo 是对外唯一面孔但职务 VP：信里直接问「who signs off on new-equipment vendors」不合适 —— 用「for your school-network projects」口吻给他一份可内部转发的一页纸",
+    "对翻新市场出身的买家，强调 FCC / CE / RoHS、MAC 表 / VLAN / IGMP 等管理功能对标 Cisco SG 系列；不提 UL、不提 NDAA"
+   ],
+   "notes": "NJ 实体号 / 成员需 NJ Business Records 付费，未做。",
+   "fetched": "2026-10-27",
+   "code": "SA-054"
+  },
+  "SA-026": {
+   "batch": 85,
+   "name": "EXPRESS SUPPLY, INC.（品牌 Hardened Networks = ITS Express；关联 ITS Express Inc.）",
+   "iso": "US",
+   "source": "USA · Florida 公司（corporationwiki 摘要）+ FDOT 州采购合同 PDF（DOT-ITB-20-9034 / DOT-ITB-23-9037，APL 价目）+ 官网 FAQ / 产品页（2026-07）",
+   "url": "https://www.corporationwiki.com/Florida/Orlando/mark-v-schulting-P1253020.aspx",
+   "number": "Florida corporation（Express Supply, Inc. 2006 成立；ITS Express Inc. 2008 成立；Sunbiz 文号待补）",
+   "status": "两家公司均 Active（corporationwiki）；FDOT 合同供应商在册",
+   "incorporated": "Express Supply, Inc. 2006；ITS Express Inc. 2008-04",
+   "company_type": "Florida S/C-Corp · 夫妻公司（Mark V. Schulting President / Treasurer；Carmen I. Schulting Secretary）",
+   "sic": [
+    "ITS（智能交通）温宽工业以太网交换机 / 媒体转换器 / VDSL 延长器 / 摄像机的自有品牌商（Hardened Networks = ITS Express，「同一家公司」）；全部产品列入 Florida APL（州批准产品清单）；FDOT 州合同价：8020 $899.99、8012-24 V3 $1,499.99、8012-24+ V3 $1,899.99、8042 $1,399.99、8042+ $1,599.99（2021）"
+   ],
+   "address": "632 Gatlin Ave, Orlando, FL 32806",
+   "accounts": "私人公司不公开",
+   "accounts_due": "Florida 年报每年 5-01 前",
+   "size_band": "微型（登记人员 2–3 人；夫妻 + 工程外包）",
+   "officers": [
+    "Mark V. SCHULTING — President（Express Supply, Inc.）/ Treasurer（ITS Express Inc.）；FDOT 合同唯一联系人 = 研究档 KP → **老板 = 联系人**",
+    "Carmen I. SCHULTING — Secretary（两家公司）→ 配偶"
+   ],
+   "psc": "Schulting 夫妇",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（夫妻公司）、产品全在 Florida APL 上、FDOT 州合同价 $900–1,900/台**：他们卖的就是贴 Hardened Networks 标的工业交换机，毛利极厚 → 这是最标准的 OEM 30% 线目标：STI 系列（温宽、环网 <10 ms、L3 OSPF）贴他们的标；**但 APL 产品换硬件要重新送审**，所以提案先从「新型号 / 补充型号」切入，不是替换现有 APL 型号",
+    "规则边界：ITS 交通信号 ≠ 轨交（守界允许），但 APL / 州合同可能问原产地（Buy America 在州项目里时有时无）：我们如实 Made in China，不提 NDAA / TAA / UL",
+    "他们的功能表里有「Moxa / Hirschmann / Cisco 环网兼容」「光功率监测」「8K 多播视频」：Saga 工业 STI 需要给出 ERPS / RSTP 收敛时间与 IGMP 规格实测，否则过不了工程师这一关 —— 先寄样测试（付费样品）再谈量",
+    "微型公司、州合同回款按州财政：T/T 50/50；Florida 年报 5 月、州合同年度续签 7 月（财年）—— 2027-Q1 送样最合拍"
+   ],
+   "notes": "Sunbiz 文号抓取失败（fetch ✗），仅 corporationwiki 口径。",
+   "fetched": "2026-10-27",
+   "code": "SA-026"
+  },
+  "SA-060": {
+   "batch": 85,
+   "name": "FIBERX LLC（gofiberx.com / fiberx.net；关联 OSNet Wireless）",
+   "iso": "US",
+   "source": "USA (Puerto Rico) · 官网 About / 联系 / 名片页（2025）+ LinkedIn + PeeringDB（数据中心）+ El Nuevo Día（2025-09 FiberX Expo）+ RocketReach / ContactOut 履历",
+   "url": "https://gofiberx.com/about-us/",
+   "number": "Puerto Rico LLC（波多黎各国务院登记号待补）",
+   "status": "经营中（2025-09 自办 FiberX Expo；2025 招聘 HR；PeeringDB 2025-12）",
+   "incorporated": "2016（LinkedIn）/ 2017-07 CEO 任职起（履历）",
+   "company_type": "LLC · 私人持有；与 OSNet Wireless（2008 起，同一 CEO）为姊妹公司",
+   "sic": [
+    "本地光纤 / 无线运营商（ISP）：企业专线、暗光纤、Wi-Fi、话音；自有数据中心 FXDC-MOP6（Guaynabo，PeeringDB）；网络连通波多黎各 — 哥伦比亚 — 美国本土；总部 Guaynabo + Caguas"
+   ],
+   "address": "Metro Office Park Street #1 Lot 6, Suite 104（办公）/ B01（数据中心）, Guaynabo, PR 00968",
+   "accounts": "私人公司不公开；RocketReach 估 $5.6M（2026）",
+   "accounts_due": "PR 年报每年 4-15",
+   "size_band": "33–34 人（RocketReach）；LinkedIn 11–50",
+   "officers": [
+    "Iván RIVERA — Presidente y CEO（2017 起；兼 OSNet Wireless CEO 2008 起；此前 ITTEK Corp CEO 2004–2008）= 研究档 KP → **老板 = 联系人**（官网名片页给手机 / WhatsApp）",
+    "Edwuar MORILLO — 研究档 KP（职务待核；疑网络 / 采购）",
+    "Yeraldine ACEVEDO — Operations Manager；Héctor BOSCHETTI-SILVA — Senior Sales Engineer"
+   ],
+   "psc": "Iván Rivera（创始人 / CEO；股权未公开）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人，且是运营商（ISP）而非转售商**：采购是给自己网络用 —— 接入 / 汇聚交换机、机房 DC 交换机（CENTEC STH-2C24XF-HSI / 32C 作为敲门砖，Marvell L3 STI-480XGGM 做汇聚）、PoE 给 Wi-Fi / ONU 机柜 → 集成 25% 档；CENTEC ≥35% 底线",
+    "两家姊妹公司（FiberX + OSNet Wireless）共用 CEO：报价一次、两家可下单；PI 抬头以他们指定的 LLC 为准",
+    "波多黎各 = 美国关税区：走美国本土同样的 FCC / CE / RoHS，进口按美国报关；物流用百运网 DAP 到 PR 要单独询价（非本土 48 州）",
+    "2025-09 自己办行业展（FiberX Expo）、在招 HR → 扩张期；2026-Q4 / 2027-Q1 给 DC 交换机方案最合拍；运营商付款 Net 30 是习惯，首单 T/T 预付"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-060"
+  },
+  "SA-025": {
+   "batch": 85,
+   "name": "AVENGER SECURITY SERVICES, INC.（别名 Central Security / GetSecurityAlarm.com / DCS Systems, Inc.）",
+   "iso": "US",
+   "source": "USA · BBB 登记（成立 / 注册 / 别名 / 管理层）+ Texas 执照（官网公示 B12519 / B03064001 / ACR-2370373）+ allbiz（TX 备案号 0800828533）+ LinkedIn / RocketReach / Yelp",
+   "url": "https://www.bbb.org/us/tx/hutto/profile/security-system-monitors/avenger-security-services-inc-0825-90033586",
+   "number": "Texas Filing No. 0800828533 · Texas Private Security License B12519 / B03064001 · Texas Fire Alarm License ACR-2370373",
+   "status": "经营中（Yelp 2026-09、LinkedIn 2026-04 活跃）",
+   "incorporated": "业务始于 2005-05-27（BBB；LinkedIn 2004 / Yelp 2001 口径）；Business Incorporated 2007-06-12",
+   "company_type": "Corporation（Texas）· 独资（Owner Brandon W. Adams）",
+   "sic": [
+    "德州持牌报警 / 消防报警 / 门禁 / 视频监控安装与监控服务商（RMR 月费模式）；兼「批发其他机械设备」登记；门店 Hutto（总部）、Round Rock、College Station、San Antonio（安装合伙人 Jay Phipps）"
+   ],
+   "address": "501 West Creekbend Cove, Hutto, TX 78634",
+   "accounts": "私人公司不公开；allbiz 估 $500k",
+   "accounts_due": "Texas 特许税申报 5-15",
+   "size_band": "微型（LinkedIn 11–50 为渠道口径；实际老板 + 安装技师）",
+   "officers": [
+    "Brandon Walter ADAMS — Founding Owner / Principal（UT Austin 土木工程；德州私人保安 + 消防报警双执照持有人）= 研究档 KP → **老板 = 联系人**",
+    "Jay PHIPPS — Owner and Installer（San Antonio，合伙 / 加盟安装商）"
+   ],
+   "psc": "Brandon W. Adams",
+   "charges": "",
+   "prev_names": [
+    "DCS Systems, Inc.（BBB 别名）"
+   ],
+   "lines": [
+    "**老板 = 联系人，微型报警安装商（RMR 月费模式）**：买交换机是给自己安装的监控 / 门禁项目配套，每单 1–5 台 → 集成 25% 档但量极小；推即插即用 PoE（STC-028GP / STC-228GP），不推管理型",
+    "德州持牌报警公司对「UL Listed 监控中心」很在意（Yelp 自述），但那是监控中心资质不是交换机；我们不提 UL，只给 FCC / CE / RoHS",
+    "报价零售化：按 1 台 / 5 台 / 10 台三档 + 百运网 DAP 小包裹含运费价，T/T 100% 预付或 PayPal（由 Simon 定）；老板本人回信快、决策快",
+    "老板 2000 年起另有「Corporate America RMR 营销」业务（LinkedIn 自述花 $10M 做直邮），不是设备买家主业 → 长期价值低，群发节奏即可"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-025"
   }
  }
 }
