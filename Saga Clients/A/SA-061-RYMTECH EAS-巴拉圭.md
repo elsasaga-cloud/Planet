@@ -82,6 +82,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 85 批（Paraguay · 政府采购平台 DNCP 供应商登记 + SET（RUC）+ CAGE 名录 + ConnectAmericas（第 79 批研究档已采；RUC 查询 ruc.com.py 需交互，本轮未新搜），2026-10-27 查；https://www.rym-tech.net/）：**
+
+- 法定名 / 登记号：RYMTECH E.A.S. · RUC 80125463-9 · 美国 CAGE 代码持有（名录） · 状态 **Activo（政府采购登记在册）** · 成立 2015（ConnectAmericas）；E.A.S.（简易股份公司）登记 2022-06 · E.A.S.（Empresa por Acciones Simplificadas）· 股东 Nancy Carolina Elizalde de Osorio + Ruslan Osorio Guerra（夫妻）
+- 行业码 / 经营范围：网络安全（SOC / CSIRT / DFIR / 渗透 / SOCaaS）+ 设备租赁；政府与军方客户
+- 注册地址：WTC Torre 3 Piso 14, Av. Aviadores del Chaco 2050, Asunción；Hernandarias（Alto Paraná）
+- 规模档：Micro（DNCP 登记）/ 50（自报）
+- 账目：不公开（Micro 登记）
+- 高管：Ruslan OSORIO GUERRA — 股东 / 负责人 = 研究档 KP → **老板 = 联系人**
+- 高管：Nancy Carolina ELIZALDE DE OSORIO — 股东
+- 控制人 / 股东：Osorio 夫妇 100%
+- **这意味着什么：**
+  - **老板 = 联系人、夫妻 E.A.S. 网络安全公司、政府供应商 + 美国 CAGE**：买交换机是给 SOC / 政府项目配套 → 集成 25%，管理型 L2/L3（SNMP / ACL / 802.1X 卖点）；巴拉圭无自由贸易协定、运费高 → FOB 深圳 + 他们的货代
+  - 100% 预付；南美非主战场 → 群发节奏，不单独投入
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,7 +140,7 @@ updated: 2026-10-27
 | 成立 | 2015（ConnectAmericas）；EAS 登记 2022-06 |
 | 总部/地址 | Av. Aviadores del Chaco 2050, World Trade Center Torre 3 Piso 14, Asunción 1890（CAGE 名录）；另：Av. César Gianotti, Hernandarias, Alto Paraná（政府采购登记） |
 | 人数 | Micro（政府采购登记）/ 50（ConnectAmericas 自报） |
-| 其他 | **网络安全公司**：SOC 架构、CSIRT、威胁情报、DFIR、渗透测试、SOCaaS、设备租赁；LinkedIn 自述「为军事网络司令部与情报机构开发网络进攻能力」；持美国 CAGE 代码；巴拉圭政府采购平台注册供应商（licitaciones@rym-tech.net）；2024-10 FIRST 拉美峰会演讲（Operación Mozi 发现，与 CERT-PY 合作）；官网 rym-tech.net |
+| 其他 | **网络安全公司**：SOC 架构、CSIRT、威胁情报、DFIR、渗透测试、SOCaaS、设备租赁；LinkedIn 自述「为军事网络司令部与情报机构开发网络进攻能力」；持美国 CAGE 代码；巴拉圭政府采购平台注册供应商（licitaciones@rym-tech.net）；2024-10 FIRST 拉美峰会演讲（Operación Mozi 发现，与 CERT-PY 合作）；官网 rym-tech.net；RYMTECH E.A.S.（RUC 80125463-9；股东 Osorio 夫妇；DNCP 政府供应商 Micro 档）—— 巴拉圭登记据研究档入库（第 85 批 官方登记核实 2026-10-27） |
 
 - **业务线**：系统集成/工程；网络安全服务（SOC/SOCaaS、DFIR、渗透测试、威胁情报）；工控/关键基础设施网络安全；政府招标供货（设备租赁/采购）
 

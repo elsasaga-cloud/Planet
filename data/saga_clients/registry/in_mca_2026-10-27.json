@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 3
+  "count": 4
  },
  "rows": {
   "SA-073": {
@@ -115,6 +115,42 @@
    "fetched": "2026-10-27",
    "code": "SA-063",
    "batch": 83
+  },
+  "SA-038": {
+   "batch": 85,
+   "name": "DNC TECHNOSOLUTIONS PRIVATE LIMITED",
+   "iso": "IN",
+   "source": "India · MCA 登记（Zauba Corp 镜像）",
+   "url": "https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130",
+   "number": "CIN U33125KL2013PTC034130 · RoC Ernakulam · 注册号 34130",
+   "status": "Active（最近 AGM 2023-12-30；资产负债表最后申报至 2023-03-31 → 2024 / 2025 年报疑未按时申报）",
+   "incorporated": "2013-05-20（MCA）",
+   "company_type": "Private company limited by shares · 非政府 · 法定 / 实缴资本各 ₹100,000（最低额）",
+   "sic": [
+    "NIC 3312（测量 / 检测仪器制造）—— 实际为自有品牌 DNC 光纤无源 + 光端机 / 媒体转换器 / KVM / 4-PoE+1-FX 交换机制造商（研究档）"
+   ],
+   "address": "XVIII/127K, L&M Pallimattom Towers, Binanipuram P.O., Edayar, Ernakulam, Kerala 683502",
+   "accounts": "MCA 年报最后申报 FY2022-23；数字需付费",
+   "accounts_due": "印度 AGM 9-30 / 年报 10–11 月",
+   "size_band": "小型（实缴 ₹1 lakh；7 名历任 KMP）",
+   "officers": [
+    "LAKSHMAN Lakshmannivas DEEPAK — Director（DIN 06562153，2013-05-20 创立至今）= 唯一在任创始董事 → 实控人",
+    "NOMITHA Soundrarajan — Whole-time Director（DIN 10206594，2023-07-13 起；2023-09 由 Additional 转正）",
+    "已离任：Akshith Thomas Joseph（MD，2017-09 离）、Noushad K. Najumudheen（2016-02 离）、C. S. Krishnankutty（2020-04 离）、Prasad Thekkamcheril（WTD，2023-06 离）→ 创始团队 5 人只剩 Deepak",
+    "研究档 KP 「—」"
+   ],
+   "psc": "Lakshman Deepak（推定；股东名单需 MCA 付费）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**实控人 = 创始董事 Lakshman Deepak（合伙人陆续退出，2023 新任全职董事 Nomitha）**：收件人写 Deepak（Director）；2023 年管理层重组后可能在找新供应商 → 窗口",
+    "**MCA 年报停在 FY2022-23、实缴资本最低档 ₹1 lakh**：合规拖欠 + 资本薄 → 只做 100% 预付 T/T；别投入定制模具",
+    "自有品牌 DNC 光纤 / 光端机制造商，已有 4-PoE+1-FX 交换机 → 需要的是补全 8/16/24 口 PoE + 光口管理型（STC-228GP / STC-2024GP / STI 工业款）贴 DNC 标 → OEM 30% 但量小按分销价起谈",
+    "印度进口需 BIS（证书规则）—— 由他们以进口商身份办；Diwali（2026-11-08 前后）/ 财年 3 月底避开"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-038"
   }
  }
 }

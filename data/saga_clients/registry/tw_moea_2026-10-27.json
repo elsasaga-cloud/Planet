@@ -1,0 +1,46 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "台灣 · 經濟部商工登記 / 名錄摘要",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SA-013": {
+   "batch": 85,
+   "name": "ALFA NETWORK INC.（艾法；法定中文名 / 統一編號待補）",
+   "iso": "TW",
+   "source": "台灣 · D&B 檔（負責人）+ LinkedIn / Kompass / SignalHire / ContactOut + 法國 SIRENE（境外公司遠距銷售登記 SIREN 901445445）+ 官網",
+   "url": "https://www.dnb.com/business-directory/company-profiles.alfa_network_inc.92c8275df8b0f94300f98ff30d74ce55.html",
+   "number": "統一編號待補（經濟部商工登記需中文名）· 法國 SIREN 901445445 / SIRET 90144544500017（2021-05-01 登記為「未入 RCS 之外國公司」，NAF 4791B 遠距專門銷售 = 歐洲電商 VAT 登記）",
+   "status": "經營中（官網 / LinkedIn 活躍；ContactOut 2026-09 更新）",
+   "incorporated": "2002（LinkedIn / SignalHire）",
+   "company_type": "股份有限公司（Inc.）· 私人持有",
+   "sic": [
+    "無線網路設備設計製造（USB 無線網卡、AP / 戶外 CPE、天線、OpenWrt 路由）+ 外採 PoE 交換機線（APS08G / APS1602E / APS104G-EX）+ IP 攝影機；歐洲二級渠道 Alfa Distribution / EVX；Amazon 歐洲站自營（法國 VAT 登記）"
+   ],
+   "address": "4F.-1, No.106, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwan",
+   "accounts": "非上市不公開；估 $6.9M（SignalHire）/ $10–50M（ContactOut）",
+   "accounts_due": "",
+   "size_band": "11–50 人（LinkedIn / ZoomInfo）；ContactOut 1–10",
+   "officers": [
+    "HUANG Lili（Bai Lian）— President（D&B Key Principal）→ 老闆 / 負責人",
+    "Jeremy WU — Director, Hardware Engineering（硬體總監；PoE 交換機外採的技術決策人）",
+    "Johnson WANG — 研究檔 KP（職務待核；疑採購 / 業務）；Amy LIN / Sheryl SHEU — Account Manager"
+   ],
+   "psc": "Huang Lili（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**台灣無線品牌、PoE 交換機整線外採、已在歐洲自營電商（法國 VAT 登記）**：他們就是我們最對口的 OEM 品牌商 —— APS08G / APS1602E 規格對應 STC-028GP / STC-2024GP 類；提案「ALFA-branded PoE switch line（neutral packaging + Web UI logo）」→ OEM 30% 線",
+    "聯絡人 Johnson Wang 非負責人：決策鏈 = President Huang Lili + 硬體總監 Jeremy Wu（規格把關）→ 信抄技術總監，附規格書 + 樣機測試方案",
+    "台灣買家熟中國供應鏈、會多家比價：報價直接給 OEM 檔最優 + 階梯；付款 T/T 30/70；出貨可深圳 FOB 走他們的貨代",
+    "統一編號 / 資本額下一輪用中文名（待從官網 / 發票抬頭取得）查經濟部商工登記"
+   ],
+   "notes": "統一編號待補。",
+   "fetched": "2026-10-27",
+   "code": "SA-013"
+  }
+ }
+}

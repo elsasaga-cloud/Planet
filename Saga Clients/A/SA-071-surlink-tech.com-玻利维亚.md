@@ -92,6 +92,21 @@ updated: 2026-10-27
 
 - 法定假日：11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 85 批（玻利维亚 · SEPREC（原 Fundempresa）需付费证书；本行为「无登记源」记录（据第 79 批研究档），2026-10-27 查；）：**
+
+- 法定名 / 登记号：Sur-Link Technology Bolivia · — · 状态 **（登记状态不可免费核）** · 成立 — · —
+- 行业码 / 经营范围：技术产品批发分销商：Cat5e/6/6A（Corning、Nexans、3M）、光纤 SM/MM、ADSS 五金、最后一公里、BASOR 桥架、Toten 机柜、线槽；**Corning 官方玻利维亚分销商（Carrier and Enterprise）**；官网按产品线列出销售团队（公开）
+- 注册地址：Av. Guapay Nro. 2675 esq. Calle 10（Canal Cotoca, entre 2do y 3er anillo）, Santa Cruz de la Sierra（+591 3 312 3371 / 314 5932 / 3 347 7677；手机 77008888）
+- 规模档：—
+- 账目：—
+- 高管：Eduardo Miranda — （官网列为主要联系人；Corning 分销联系人）（研究档）
+- 高管：Ivan Ortega — Ventas（销售）（研究档）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **本轮无免费官方登记源**（玻利维亚 · SEPREC（原 Fundempresa）需付费证书）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」
+  - 无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判
+- 备注：无免费登记源；下一轮若找到镜像再补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -123,6 +123,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不主动；他下次来信时一次性答复」，不排发信，略。
 
+**公司底数 · 第 85 批（Türkiye · 官网 Hakkımızda（iotsistem.com / bosgem.com / bosgem.com.tr，2026-03 更新）+ kodyaz 案例页（2018），2026-10-27 查；https://www.bosgem.com.tr/urunler/markalar/bosgem/uzak-io-sistemleri-bsg-rtio-ai/）：**
+
+- 法定名 / 登记号：Bosgem Otomasyon（商号 IoT Sistem / iotsistem.com；法定全称待补） · İstanbul Ticaret Sicil（号待补；法定名含 Bosgem Otomasyon） · 状态 **经营中（bosgem.com.tr 2026-03 / 2026-07 更新；iotsistem.com 2020 后少更新）** · 成立 2010 年末（官网自述） · 私人公司（Ltd. Şti. 推定）· 自有品牌 BOSGEM（远程 IO 等）+ USR IoT 土耳其官方分销 / 代理
+- 行业码 / 经营范围：工业自动化 / 工业通信产品分销（USR IoT 串口服务器、GSM 模块、远程 IO）+ 自有品牌 BOSGEM 远程 IO；电商 iotsistem.com；参展 2019 Tüyap
+- 注册地址：Cevizli Mah. Bağdat Cad. Coşkunlar Sok. Dragos Center No:16-18/11, Maltepe / İstanbul
+- 规模档：微型 / 小型（「uzman ekip」，无人数口径）
+- 账目：非上市不公开
+- 高管：研究档 KP 「Berk」（名）：登记高管待补；微型公司 → 大概率老板 / 合伙人本人
+- 控制人 / 股东：待补
+- 曾用名：IoT Sistem（电商商号）
+- **这意味着什么：**
+  - **USR IoT（济南有人）土耳其官方分销 + 自有品牌 BOSGEM**：他们已经在从中国直接进口并贴自己的标 —— 对 Saga 的需求是「工业以太网交换机补全 USR 串口服务器 / 远程 IO 的组网」→ 工业 STI 系列（DIN 导轨、温宽）OEM 30% 或分销 20%
+  - 客户画像 = 工厂自动化 / OSB / 能源（守界允许，不碰轨交）；主推 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 等小端口工业款，强调 PoE 给 IP 摄像头 + 无风扇
+  - 微型公司、Berk 大概率是老板：报价直接给到底价档（分销 20%），MOQ 5 台 / 型号，T/T 100% 预付；iotsistem.com 自 2020 更新少 → 主力站是 bosgem.com.tr，信里按 Bosgem 称呼
+  - 法定名 / 高管下一轮用 Ticaret Sicil Gazetesi 补（Maltepe / İstanbul）
+- 备注：法定名 / 高管待补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -177,15 +194,16 @@ updated: 2026-10-27
 - **【官网】管理型类目型号列表**
   > MLB-E4204-28-F · MLB-E4204-28-G-F · MLB E4202-10-F · MLB E4202-10-GF
   > 来源：https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/（抓取 2026-10-21）
-- **KP**：Berk（（用户记录：已有回复））info@iotsistem.com 〔用户 Clients 表〕
+- **KP**：Berk（已回复联系人 = 大概率老板（微型公司，Bosgem Otomasyon / IoT Sistem，İstanbul Maltepe 2010；USR IoT 土耳其分销 + 自有 BOSGEM 品牌；法定全称待补）（第 85 批 官方登记核实 2026-10-27））info@iotsistem.com 〔用户 Clients 表〕
 - 备注：土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | IoT Sistem（Bosgem；USR IoT 土耳其官方分销） |
+| 法定名称 | BOSGEM OTOMASYON …（İstanbul Maltepe，2010；品牌 IoT Sistem / BOSGEM；法定全称待补） |
 | 总部/地址 | Türkiye |
+| 人数 | 微型（1–5）（第 85 批 官方登记核实 2026-10-27） |
 | 其他 | IoT/工业通讯网店；MLB-E 系列工业交换机页面日期 2018–2020（陈旧），28 口机架管理型、14 口、5 口非管理；类目含工业 MC、管理/非管理 PoE |
 
 - **业务线**：USR IoT 串口服务器/网关分销；MLB-E 系列工业以太网交换机（机架 28 口管理、14 口、5/8 口非管理 DIN）；自动化与军工项目（守界：军工不供）
@@ -286,7 +304,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Berk | （用户记录：已有回复） | info@iotsistem.com | 调研核实（公开页） | 用户 Clients 表 |
+| Berk | 已回复联系人 = 大概率老板（微型公司，Bosgem Otomasyon / IoT Sistem，İstanbul Maltepe 2010；USR IoT 土耳其分销 + 自有 BOSGEM 品牌；法定全称待补）（第 85 批 官方登记核实 2026-10-27） | info@iotsistem.com | 调研核实（公开页） | 用户 Clients 表 |
 | Bosgem | — | info@iotsistem.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

@@ -85,6 +85,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 85 批（Deutschland · Creditreform 企业名录（个体经营无 Handelsregister 条目）+ 官网联系页（第 79 批研究档已采，本轮据档入库，未新搜），2026-10-27 查；https://www.falke-security.de/）：**
+
+- 法定名 / 登记号：Nuri Sahin Sicherheitsdienste „Falke Security“（个体经营） · 无 HRB（Einzelunternehmen 不入商业登记）；USt-IdNr. 待补（Impressum） · 状态 **经营中（官网在线，Mo–Sa 09–18）** · 成立 待补（Impressum / Gewerbeanmeldung 不公开） · Einzelunternehmen（个体经营，业主 Nuri Sahin）
+- 行业码 / 经营范围：安防系统集成（HDCVI / IP 摄像，在售 Dahua；报警；Smarthome）+ 网络搭建，1–256 路项目
+- 注册地址：Krefelder Str. 282, 47229 Duisburg（Creditreform）；门店 Friedrich-Alfred-Straße 98, 47226 Duisburg（官网）
+- 规模档：微型（业主 + 数人）
+- 账目：个体经营不公开
+- 高管：Nuri SAHIN — Inhaber（业主）= 研究档 KP → **老板 = 联系人**
+- 控制人 / 股东：Nuri Sahin 100%
+- **这意味着什么：**
+  - **老板 = 联系人、杜伊斯堡个体安防装机商（Dahua 线）**：需求是摄像项目配套 PoE 交换机 → 零售档 / 集成 25%：STC-028GP / STC-2024GP、4–8 口非管理 PoE；MOQ 1 箱、100% 预付；德国 Impressum 法定披露可补 USt-IdNr.
+  - 个体经营无信用公开 → 不做账期；DAP 德国小件走 Saga 百运网线
+- 备注：据第 79 批研究档入库；无新检索。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,7 +146,7 @@ updated: 2026-10-27
 - **【官网网店】在售 Dahua 摄像机（PoE+）**
   > DAHUA SD29204T-GN-W €339.78 … Netzteil · AC 24 V, PoE+ (802.3at)
   > 来源：https://falke-security.de/produkt/dahua-sd29204t-gn-w/（抓取 2026-10-21）
-- **KP**：Nuri Sahin（Inhaber（业主，Creditreform 登记名））info@falke-security.de（公开） +49 172 90 54 200（官网）〔https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY〕
+- **KP**：Nuri Sahin（Inhaber（业主，Creditreform 登记名 Nuri Sahin Sicherheitsdienste „Falke Security“；Einzelunternehmen 无 HRB）= 老板 = 联系人（第 85 批 官方登记核实 2026-10-27））info@falke-security.de（公开） +49 172 90 54 200（官网）〔https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY〕
 - 备注：德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 注册信息核对））
@@ -240,7 +254,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nuri Sahin | Inhaber（业主，Creditreform 登记名） | info@falke-security.de（公开） / +49 172 90 54 200（官网） | 调研核实（公开页） | https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY |
+| Nuri Sahin | Inhaber（业主，Creditreform 登记名 Nuri Sahin Sicherheitsdienste „Falke Security“；Einzelunternehmen 无 HRB）= 老板 = 联系人（第 85 批 官方登记核实 2026-10-27） | info@falke-security.de（公开） / +49 172 90 54 200（官网） | 调研核实（公开页） | https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

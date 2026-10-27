@@ -5642,7 +5642,7 @@
 "kp": [
 {
 "name": "—",
-"role": "总机",
+"role": "总机（Koptek Ltd. Şti. İstanbul 2006-02-07 成立；自有品牌交换机；Ltd. Şti. 高管不免费公开 → 下一轮 Ticaret Sicil Gazetesi）（第 85 批 官方登记核实 2026-10-27）",
 "email": "info@coptek.com.tr",
 "phone": "+90 212 275 79 53",
 "source": "https://www.coptek.com.tr/CS6570.html"
@@ -5655,7 +5655,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.",
+"legal_name": "KOPTEK … LTD. ŞTİ.（İstanbul，2006-02-07；find.com.tr / EMIS 3700640）（第 85 批 官方登记核实 2026-10-27）",
 "founded": "2006（注册）；2010 年起 DCN 土耳其分销",
 "hq": "İstanbul, Türkiye",
 "other": "官网自述 2020 年起在土运行 DCN 设备 10,000+ 台；DCN 全线：核心/数据中心/L2/L3/PoE/工业导轨"
@@ -6385,7 +6385,7 @@
 },
 {
 "name": "김우경（Kim Woo-kyung）",
-"role": "代表（법인 대표）",
+"role": "대표이사（CEO / 创始人）= 老板 = 联系人；(주)이지넷유비쿼터스 2006-04-04 法人登记（2004 开业），사업자 106-86-42660，44 人，2024 营收 251.6 억원（≈ $18M）、品牌 NEXT 约 1,000 SKU（第 85 批 官方登记核实 2026-10-27）",
 "email": "marketing@ez-net.co.kr",
 "phone": "+82 2-715-0372",
 "source": "https://nextu.kr/article/q-a/6/12691"
@@ -6398,10 +6398,11 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXTU / NEXTLINK）",
+"legal_name": "(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（사업자등록번호 106-86-42660；2006-04-04；서울 용산구；资本金 5,000 만원）",
 "founded": "2004",
 "hq": "Seoul, Korea",
-"other": "自有品牌约 1,000 SKU；官网目录含「산업용 PoE 스위치허브」L2/L3/보안/BT/비관리 五类；自营商城 nextu.kr 明码标价"
+"other": "自有品牌约 1,000 SKU；官网目录含「산업용 PoE 스위치허브」L2/L3/보안/BT/비관리 五类；自营商城 nextu.kr 明码标价",
+"staff": "43–44（국민연금 2026）；2024 营收 251.6 억원（第 85 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业以太网/PoE 交换机（L2/L3/安全功能/bt 高功率/非管理）",
@@ -8230,10 +8231,10 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "ALFA Network Inc.",
+"legal_name": "ALFA NETWORK INC.（Taipei Neihu；2002；法国 SIREN 901445445 = 欧洲远距销售 VAT 登记 2021-05）",
 "founded": "2002",
 "hq": "Taipei, Taiwan",
-"staff": "11–50",
+"staff": "11–50（第 85 批 官方登记核实 2026-10-27）",
 "other": "无线网络品牌，PoE 交换机线为外采：APS08G（8 GE PoE 150W）、APS1602E（16 FE PoE + 2 GE 250W，VLAN/CCTV 250 m）、APS104G-EX（bt 入 4 口 PoE 延长）、APOE08G 注入器；欧洲二级渠道（Alfa Distribution、EVX、wifi-highpower.it）"
 },
 "business_lines": [
@@ -8477,10 +8478,17 @@
 "kp": [
 {
 "name": "Johnson Wang",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"role": "来信署名人（职务待核，非负责人）；负责人 President Huang Lili（D&B）、硬件总监 Jeremy Wu；ALFA Network 2002 成立、11–50 人、欧洲电商自营（法国 SIREN 901445445）（第 85 批 官方登记核实 2026-10-27）",
 "email": "johnson@alfa.com.tw",
 "phone": "",
 "source": "S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补）"
+},
+{
+"name": "Huang Lili（Bai Lian）",
+"role": "President（D&B Key Principal）= 负责人 / 老板（第 85 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.dnb.com/business-directory/company-profiles.alfa_network_inc.92c8275df8b0f94300f98ff30d74ce55.html"
 }
 ]
 }
@@ -14147,7 +14155,7 @@
 "kp": [
 {
 "name": "—",
-"role": "总机",
+"role": "总机 → 实际收件人 = Owner Brandon Walter Adams（TX 登记 0800828533，2007-05；微型报警装机商）（第 85 批 官方登记核实 2026-10-27）",
 "email": "info@getsecurityalarm.com",
 "phone": "+1 512-563-5361",
 "source": "https://securitytekton.com/pages/about-us"
@@ -14167,12 +14175,12 @@
 "level": "深挖 v2（官网 securitytekton.com + 目录核对）"
 },
 "company_facts": {
-"legal_name": "Avenger Security Services（Central Security 同族）",
+"legal_name": "AVENGER SECURITY SERVICES INC（Texas 0800828533；Hutto TX；Owner Brandon Walter Adams）",
 "hq": "501 West Creekbend Cove, Hutto, TX 78634（+1 512-610-2698）；休斯敦分部 11200 Broadway St Ste 2743, Pearland TX 77584（+1 281-954-3400）",
 "revenue": "<$5M（ZoomInfo）",
 "other": "员工持股；德州双证（私人安防 B12519 & B03064001；消防报警 ACR 2370373）；云视频 = Eagle Eye Networks（PoE IP 摄像机 + 旧模拟桥接），门禁 = Brivo OnAir，报警 Alula/Honeywell Vista；「无长期合同、无信用审查」；官网 securitytekton.com（2025-10 仍更新）与 getsecurityalarm.com / avengersecurityhouston.com 并行",
 "founded": "2004（创始人 Brandon Walter Adams；LinkedIn/Yelp 口径 2010）",
-"staff": "11–50"
+"staff": "1–5（第 85 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "商业/住宅入侵报警与 UL 中心站监控",
@@ -14590,7 +14598,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Hardened Networks / ITS Express（expresssupply.us）",
+"legal_name": "EXPRESS SUPPLY INC（Florida，2006；dba Hardened Networks / ITS Express 2008）（第 85 批 官方登记核实 2026-10-27）",
 "hq": "USA（ITS 交通领域）",
 "other": "自有品牌 HN 加固交换机（V3：Hardened Base L3、4×USFP+ 10G、4×ESFP 2.5G、16×GE、176G 背板、SHA-256/AES-256、ITS-Ring、Moxa/Hirschmann/Cisco 环兼容）+ AIS-8300 4K 交通摄像机（NEMA TS2、FL APL 682-002-025、UL）"
 },
@@ -14789,11 +14797,18 @@
 },
 "kp": [
 {
-"name": "Mark Schulting",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"name": "Mark V. Schulting",
+"role": "President（Florida 登记管理层）= 老板 = 联系人；Secretary Carmen Schulting（家族）；法人 Express Supply Inc（FL 2006），品牌 Hardened Networks = ITS Express（2008）；Florida DOT APL 在册供应商（第 85 批 官方登记核实 2026-10-27）",
 "email": "mark@expresssupply.net；mschulting@expresssupply.net（2025-02-05 来信用此地址）",
 "phone": "",
 "source": "S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）；A 邮箱 2025-02 来信表头"
+},
+{
+"name": "Carmen Schulting",
+"role": "Secretary（Florida 登记；家族）（第 85 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.corporationwiki.com/Florida/Tampa/mark-v-schulting/"
 }
 ]
 }
@@ -15694,7 +15709,7 @@
 "kp": [
 {
 "name": "Moonsoo Park",
-"role": "对外联系人（EC21 供应商页）",
+"role": "대표이사 박문수（bizno 名录代表 + 研究档联系人同名）= 老板 = 联系人；(주)지티웨이브 有线通信设备制造业，판교；2026-03 入选富川产业振兴院 창업도약패키지（第 85 批 官方登记核实 2026-10-27）",
 "email": "master@gtwave.co.kr",
 "phone": "+82 31 707 4670",
 "source": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html"
@@ -15707,7 +15722,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "GTWAVE Co., Ltd.（(주)지티웨이브）",
+"legal_name": "(주)지티웨이브 GTWAVE Co., Ltd.（성남 분당구 판교로 723；사업자번호待补）（第 85 批 官方登记核实 2026-10-27）",
 "founded": "2001",
 "hq": "Seongnam (Pangyo), Korea",
 "staff": "11–50",
@@ -16176,10 +16191,17 @@
 "kp": [
 {
 "name": "—",
-"role": "总机",
+"role": "总机 → 法人为 HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（Çekmeköy），品牌 Snexus Networks；品牌负责人 Erdem Timur Koca（第 85 批 官方登记核实 2026-10-27）",
 "email": "info@snexus.com.tr",
 "phone": "+90 216 606 4445（webrate 登记）",
 "source": "https://www.snexus.com.tr/en/iletisim"
+},
+{
+"name": "Erdem Timur Koca",
+"role": "Snexus 品牌负责人（LinkedIn；官网销售合同卖方 = Hemmah Group）= 拍板人（第 85 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.snexus.com.tr/en/sözleşme"
 }
 ],
 "notes": "A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。",
@@ -16189,7 +16211,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Snexus Networks（snexus.com.tr）",
+"legal_name": "HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（Çekmeköy İstanbul；品牌 Snexus Networks）（第 85 批 官方登记核实 2026-10-27）",
 "hq": "İstanbul, Türkiye（另设新加坡 Sim Lim 联络点）",
 "other": "自有品牌白牌交换机全线，官网 USD 标价（Wix 网店），Hepsiburada 零售在售；2 年换新保修；2026-04/06 仍在发博客推 SN-GS2300-28F"
 },
@@ -18528,7 +18550,7 @@
 "kp": [
 {
 "name": "Tomasz Paszkowski",
-"role": "联系人（用户表邮箱）",
+"role": "业主（CEIDG 个体经营 RFOG POLAND TOMASZ PASZKOWSKI，2011-02-22；NIP 8571157213 · REGON 811833063）= 老板 = 联系人；兼 ARiMR 动物标识政府供应商（第 85 批 官方登记核实 2026-10-27）",
 "email": "tomasz.paszkowski@rfog.pl",
 "phone": "+48 602 794 466（官网）",
 "source": "Clients/A/DONE/PL.xlsx"
@@ -18541,7 +18563,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "RFoG（rfog.pl）",
+"legal_name": "RFOG POLAND TOMASZ PASZKOWSKI（CEIDG 个体经营；NIP 8571157213 · REGON 811833063 · VAT UE PL8571157213；Gryfice；2011-02-22）（第 85 批 官方登记核实 2026-10-27）",
 "hq": "Poland",
 "other": "光通信分销商，自有 RF- 型号前缀贴牌（-NNT = N-Net 来源），同时卖 PLANET、MOXA；网店产品 ID 3000+"
 },
@@ -19476,8 +19498,8 @@
 ],
 "kp": [
 {
-"name": "—",
-"role": "订单邮箱",
+"name": "ИП Криволуцкая Юлия Викторовна",
+"role": "订单邮箱 → 法律主体为 ИП（个体企业家）Криволуцкая Юлия Викторовна = 老板本人；ОГРНИП 318402700048713 · ИНН 402910363642，2018-08-02 登记，ОКВЭД 46.43（第 85 批 官方登记核实 2026-10-27）",
 "email": "zakaz@svn-video.ru",
 "phone": "+7 903 810 33 33",
 "source": "https://svn-video.ru/contact-us"
@@ -19490,9 +19512,10 @@
 "level": "深挖 v2（官网网店自有标 SVN 目录核对）"
 },
 "company_facts": {
-"legal_name": "SVN（svn-video.ru，ИП Криволуцкая Ю.В.）",
+"legal_name": "ИП Криволуцкая Юлия Викторовна（ОГРНИП 318402700048713 · ИНН 402910363642；Калуга；2018-08-02；品牌 SVN svn-video.ru）",
 "hq": "248000, г. Калуга, ул. Марата, д. 5（+7 903 810-33-33 / +7 903 636-46-70 / 8-800-600-72-59；zakaz@svn-video.ru、svnshop@yandex.ru）",
-"other": "自有标 SVN 全线：IP 摄像机（SVN-200SL20HF 2MP 5,800 ₽、SVN-800SBA20MPOE 8MP 11,350 ₽）、套装（SVN-Дача-4 27,000 ₽）、NVR（SVN-NVRC830POE 9ch/8 PoE）、**PoE 交换机 SVN-POE412（4 FE PoE+2 上联，3,150 ₽）/ SVN-POE812（8 FE PoE+2 上联，4,120 ₽）/ SVN-POE1612（16 FE PoE+2 GE+1 SFP）/ SVN-POE48V1A（1,080 ₽）**、PoE 分离器/注入器；设「Оптовикам」批发栏目；卡卢加本地安装"
+"other": "自有标 SVN 全线：IP 摄像机（SVN-200SL20HF 2MP 5,800 ₽、SVN-800SBA20MPOE 8MP 11,350 ₽）、套装（SVN-Дача-4 27,000 ₽）、NVR（SVN-NVRC830POE 9ch/8 PoE）、**PoE 交换机 SVN-POE412（4 FE PoE+2 上联，3,150 ₽）/ SVN-POE812（8 FE PoE+2 上联，4,120 ₽）/ SVN-POE1612（16 FE PoE+2 GE+1 SFP）/ SVN-POE48V1A（1,080 ₽）**、PoE 分离器/注入器；设「Оптовикам」批发栏目；卡卢加本地安装",
+"staff": "1–5（第 85 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "SVN 品牌摄像机/套装",
@@ -20559,6 +20582,13 @@
 "email": "",
 "phone": "+91 96561 23414",
 "source": "https://www.dncsolutions.co.in/"
+},
+{
+"name": "Lakshman Lakshmannivas Deepak",
+"role": "Director（DIN 06562153，2013-05-20 创立至今，唯一在任创始董事）= 实控人；Whole-time Director Nomitha Soundrarajan（2023-07）；MCA 年报停在 FY2022-23（第 85 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130"
 }
 ],
 "notes": "A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
@@ -20568,7 +20598,7 @@
 "level": "深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对）"
 },
 "company_facts": {
-"legal_name": "DNC Technosolutions Pvt. Ltd.",
+"legal_name": "DNC TECHNOSOLUTIONS PRIVATE LIMITED（CIN U33125KL2013PTC034130；2013-05-20；Ernakulam Kerala；实缴 ₹1 lakh）（第 85 批 官方登记核实 2026-10-27）",
 "founded": "2011（IndiaMART 另见 2013）",
 "hq": "Binanipuram P.O., Edayar, Ernakulam, Kerala（+91 96561 23414）；另见 48/425-P, Raghavan Pillai Road, Edappally, Ernakulam 682026",
 "other": "自有品牌 DNC 光纤产品制造商：跳线/尾纤/适配器/分路器/配线架/MPO 系统、数据 MC（MC-10100G 千兆双纤 ₹3,379）、视频光端机（4ch TVI/CVI/AHD）、电话光端机、HDMI+USB KVM 光端机（DNC-KVM-HV，FCC/CE）、SFP、**DNC 4-PoE + 1-FX 交换机（IndiaMART 在售）**"
@@ -25718,7 +25748,7 @@
 "kp": [
 {
 "name": "Berk",
-"role": "（用户记录：已有回复）",
+"role": "已回复联系人 = 大概率老板（微型公司，Bosgem Otomasyon / IoT Sistem，İstanbul Maltepe 2010；USR IoT 土耳其分销 + 自有 BOSGEM 品牌；法定全称待补）（第 85 批 官方登记核实 2026-10-27）",
 "email": "info@iotsistem.com",
 "phone": "",
 "source": "用户 Clients 表"
@@ -25733,9 +25763,10 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "IoT Sistem（Bosgem；USR IoT 土耳其官方分销）",
+"legal_name": "BOSGEM OTOMASYON …（İstanbul Maltepe，2010；品牌 IoT Sistem / BOSGEM；法定全称待补）",
 "hq": "Türkiye",
-"other": "IoT/工业通讯网店；MLB-E 系列工业交换机页面日期 2018–2020（陈旧），28 口机架管理型、14 口、5 口非管理；类目含工业 MC、管理/非管理 PoE"
+"other": "IoT/工业通讯网店；MLB-E 系列工业交换机页面日期 2018–2020（陈旧），28 口机架管理型、14 口、5 口非管理；类目含工业 MC、管理/非管理 PoE",
+"staff": "微型（1–5）（第 85 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "USR IoT 串口服务器/网关分销",
@@ -28423,14 +28454,14 @@
 "kp": [
 {
 "name": "Neal Cennamo",
-"role": "Vice President",
+"role": "Vice President（2014 至今）= 采购拍板人；老板 / 成员待核（NJ LLC 不公开成员）；Softnetworks LLC 2011 年 NJ 注册，EIN 46-1347043，18 人，K-12 学区投标常客（Red Bank BOE 等）（第 85 批 官方登记核实 2026-10-27）",
 "email": "nealc@softnetworks.net",
 "phone": "+1 201-636-7188（官网）",
 "source": "用户 Clients 表 + Datanyze/官网"
 },
 {
 "name": "Neal Cennamo",
-"role": "VP（用户表）；ZoomInfo：Softnetworks 2014 至今",
+"role": "Vice President（2014 至今）= 采购拍板人；老板 / 成员待核（NJ LLC 不公开成员）；Softnetworks LLC 2011 年 NJ 注册，EIN 46-1347043，18 人，K-12 学区投标常客（Red Bank BOE 等）（第 85 批 官方登记核实 2026-10-27）",
 "email": "nealc@softnetworks.net（用户表原值）",
 "phone": "+1 201-636-7188（公司总机）",
 "source": "https://www.zoominfo.com/p/Neal-Cennamo/81956627"
@@ -28445,10 +28476,10 @@
 "level": "深挖 v2（官网 + 目录核对）"
 },
 "company_facts": {
-"legal_name": "Softnetworks Inc.（Softnetworks, LLC）",
+"legal_name": "SOFTNETWORKS LLC（New Jersey，2011；Whippany NJ；EIN 46-1347043）",
 "founded": "2012 注册（NJ）；LinkedIn 2011；IndustryNet 口径 1998",
 "hq": "20 Troy Rd, STE 4, Whippany, NJ 07981（+1 201-636-7188，info@softnetworks.net）",
-"staff": "11–50",
+"staff": "18（第 85 批 官方登记核实 2026-10-27）",
 "other": "网站 2025-10～2026-01 更新；交换机目录按 Cisco 2900/3500/3650/3700/3800/9200-9300/SG/INDUSTRIAL SWITCHES/N5K-N9K 分类（即 Cisco IE 系列翻新）；另有资产处置、租赁、Chromebook/Apple 维修"
 },
 "business_lines": [
@@ -28973,10 +29004,17 @@
 "kp": [
 {
 "name": "Ali Pekyürek",
-"role": "CEO（用户记录）",
+"role": "**非 Genel Müdür**（用户记录「CEO」待修正）：Genel Müdür 为 Cem Aytaç；Ali Pekyürek 为管理层 / 股东待核；Nova Grup Mühendislik（Ankara 2002）= 进口商 + 自有品牌 Novacom + 4 城门店 + TSE 服务站，35–36 人（第 85 批 官方登记核实 2026-10-27）",
 "email": "ali@nova-grup.com",
 "phone": "+90 533 715 9226（用户记录）",
 "source": "用户 Clients 表（ISAF 2025 现场）"
+},
+{
+"name": "Cem Aytaç",
+"role": "Genel Müdür（总经理；官网 TSE 服务站清单 / ZoomInfo）= 拍板人（第 85 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.zoominfo.com/c/nova-grup/1319836017"
 }
 ],
 "grade_override": null,
@@ -28988,10 +29026,10 @@
 "level": "深挖 v2（官网 NVC 自有品牌目录核对）"
 },
 "company_facts": {
-"legal_name": "Nova Grup Mühendislik（Novacom Technology）",
+"legal_name": "NOVA GRUP MÜHENDİSLİK … LTD. ŞTİ.（Ankara，2002；品牌 Novacom）",
 "founded": "2002",
 "hq": "Ankara（总部）+ İstanbul",
-"staff": "27–35",
+"staff": "35–36（第 85 批 官方登记核实 2026-10-27）",
 "revenue": "估 $7.8–16.9M",
 "other": "novacom.com.tr 已有自有品牌 NVC- 交换机全线：非管理 AI PoE（NVC-PSE0820G 8 FE PoE+2 GE 120W、NVC-PSE1621G 16 FE PoE+2 GE+1 SFP 300W、NVC-HIF0821GBL/0820GBL-C、HIF1621GBL-C 250W、HIF2422GBL-C 24 FE PoE 400W）、对讲 24V PoE、管理型 NVC-S5848GM-AP（L2+/L3 系列 8–52 口，ERPS/SNMP）；Hepsiburada 在售 ND1P802LF"
 },
@@ -29445,7 +29483,7 @@
 "kp": [
 {
 "name": "Vasilis Stavridis",
-"role": "CEO / Founder",
+"role": "CEO / Founder = 个人企业业主（Ατομική επιχείρηση Βασίλειος Σταυρίδης）= 老板 = 联系人；ΓΕΜΗ 号待补（JS 查询不可达）（第 85 批 官方登记核实 2026-10-27）",
 "email": "imports@bselectronics.gr",
 "phone": "+30 697 224 0011（用户记录 WA）",
 "source": "用户 Clients 表（ISAF 2025）+ 黄页法人信息"
@@ -31850,8 +31888,8 @@
 ],
 "kp": [
 {
-"name": "Ivan Rivera",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"name": "Iván Rivera",
+"role": "Presidente y CEO（创始人）= 老板 = 联系人；FiberX LLC（Puerto Rico 2016/17，ISP + 数据中心，PeeringDB fac 14857，~34 人）（第 85 批 官方登记核实 2026-10-27）",
 "email": "irivera@fiberx.net",
 "phone": "",
 "source": "S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）"
@@ -31873,10 +31911,10 @@
 "level": "深挖 v2（官网 + PeeringDB 核对）"
 },
 "company_facts": {
-"legal_name": "FiberX（gofiberx.com）",
+"legal_name": "FIBERX LLC（Puerto Rico，2016/17；Guaynabo PR；ISP + DC）",
 "founded": "2016",
 "hq": "Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968；Warehouse Plaza Rio Cañas Carr. #1 Km 27.8, Caguas PR 00725；Data Center B01（FXDC-MOP6，PeeringDB）",
-"staff": "11–50",
+"staff": "~34（第 85 批 官方登记核实 2026-10-27）",
 "revenue": "约 $5.6M",
 "registry": "AS6208",
 "other": "本地光纤运营商：Internet、Metro Ethernet（MPLS/VPLS）、云连接、机房托管、FTTH/FTTB、VoIP、Dark fiber；覆盖 21 城（San Juan 79.75%，Guaynabo 74.9%），1 Gbps 对称；自有数据中心（PeeringDB 设施）"
@@ -32377,7 +32415,7 @@
 "company_facts": {
 "legal_name": "RYMTECH E.A.S.（RUC 80125463-9；股东 Nancy Carolina Elizalde de Osorio、Ruslan Osorio Guerra）",
 "hq": "Av. Aviadores del Chaco 2050, World Trade Center Torre 3 Piso 14, Asunción 1890（CAGE 名录）；另：Av. César Gianotti, Hernandarias, Alto Paraná（政府采购登记）",
-"other": "**网络安全公司**：SOC 架构、CSIRT、威胁情报、DFIR、渗透测试、SOCaaS、设备租赁；LinkedIn 自述「为军事网络司令部与情报机构开发网络进攻能力」；持美国 CAGE 代码；巴拉圭政府采购平台注册供应商（licitaciones@rym-tech.net）；2024-10 FIRST 拉美峰会演讲（Operación Mozi 发现，与 CERT-PY 合作）；官网 rym-tech.net",
+"other": "**网络安全公司**：SOC 架构、CSIRT、威胁情报、DFIR、渗透测试、SOCaaS、设备租赁；LinkedIn 自述「为军事网络司令部与情报机构开发网络进攻能力」；持美国 CAGE 代码；巴拉圭政府采购平台注册供应商（licitaciones@rym-tech.net）；2024-10 FIRST 拉美峰会演讲（Operación Mozi 发现，与 CERT-PY 合作）；官网 rym-tech.net；RYMTECH E.A.S.（RUC 80125463-9；股东 Osorio 夫妇；DNCP 政府供应商 Micro 档）—— 巴拉圭登记据研究档入库（第 85 批 官方登记核实 2026-10-27）",
 "founded": "2015（ConnectAmericas）；EAS 登记 2022-06",
 "staff": "Micro（政府采购登记）/ 50（ConnectAmericas 自报）"
 },
@@ -38979,7 +39017,7 @@
 "kp": [
 {
 "name": "Nuri Sahin",
-"role": "Inhaber（业主，Creditreform 登记名）",
+"role": "Inhaber（业主，Creditreform 登记名 Nuri Sahin Sicherheitsdienste „Falke Security“；Einzelunternehmen 无 HRB）= 老板 = 联系人（第 85 批 官方登记核实 2026-10-27）",
 "email": "info@falke-security.de（公开）",
 "phone": "+49 172 90 54 200（官网）",
 "source": "https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY"
@@ -42343,7 +42381,15 @@
 "title": "Management（第三方名录 cylex 口径，待官网/工商核实）；第三方名录级·待核",
 "email": "",
 "phone": "+39 081 8193441",
-"source": "https://www.cylex-italia.it/casandrino/4power-srl-10110617.html"
+"source": "https://www.cylex-italia.it/casandrino/4power-srl-10110617.html",
+"role": "Direzione Generale（总经理，LinkedIn；大概率创始合伙人 / 老板）= 拍板人（但 17 封 0 开）（第 85 批 官方登记核实 2026-10-27）"
+},
+{
+"name": "Gaetano Chiaese",
+"role": "Technical Networking Manager（4Net 有源产品技术负责人；研究档收件人 g.chiaese@）（第 85 批 官方登记核实 2026-10-27）",
+"email": "g.chiaese@4power.it",
+"phone": "",
+"source": "https://it.linkedin.com/company/4power-srl"
 }
 ],
 "grade_override": "A",
@@ -42354,11 +42400,12 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-001，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "4Power S.r.l.",
+"legal_name": "4POWER S.R.L.（C.F./P.IVA 04527921219；Casandrino NA；2003；ISO 9001/14001/45001；自有品牌 4Net + Planet 意大利官方分销）",
 "founded": "",
 "hq": "Casandrino (NA), 意大利",
 "size": "",
-"other": "Planet 渠道档案 PA-001（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：是（4Net 网络产品、Eurogroup UPS、4Net Cabling）；最大未知：4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核）"
+"other": "Planet 渠道档案 PA-001（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：是（4Net 网络产品、Eurogroup UPS、4Net Cabling）；最大未知：4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核）",
+"staff": "10–19（Kompass）（第 85 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销"
@@ -43171,7 +43218,7 @@
 "kp": [
 {
 "name": "Davide Zisios",
-"title": "Titolare（业主，家族企业）；具名（官网/工商摘要）；邮箱为公司通用 info@（3 人公司）",
+"title": "兄妹家族经营者（la Repubblica 2023：guidata dai fratelli Davide e Mara Zisios）= 老板 = 联系人；Kyma S.r.l. 1995 成立，3–5 人，2024 营收 €3.52M / 净利 €216k；Planet + 3onedata 意大利分销（第 85 批 官方登记核实 2026-10-27）",
 "email": "info@kyma.it",
 "phone": "+39 0522 232208",
 "source": "https://www.kyma.it/contatti-2/"
@@ -43185,11 +43232,12 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-006，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "Kyma Srl",
+"legal_name": "KYMA S.R.L.（P.IVA 01612520351 · REA RE-199577；1995-03-20；Reggio Emilia；PEC kymasrl@legalmail.it）",
 "founded": "",
 "hq": "Reggio Emilia, 意大利",
 "size": "",
-"other": "Planet 渠道档案 PA-006（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：3onedata 是否独家/排他；年进口台数"
+"other": "Planet 渠道档案 PA-006（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：3onedata 是否独家/排他；年进口台数",
+"staff": "3–5；2024 营收 €3,519,588 / 净利 €215,669（第 85 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）"

@@ -94,6 +94,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 85 批（Türkiye · find.com.tr（登记摘要 + 经营范围 2007-11-09 修订）+ EMIS（成立日，2026-03 更新）+ firmarehberi（İTO 会员）+ 官网 Hakkımızda / İletişim + Trademo（3 票进口记录），2026-10-27 查；https://www.find.com.tr/Company/koptekbilgisayarveiletisimsistemlerisanayiveticaretlimitedsirketi）：**
+
+- 法定名 / 登记号：KOPTEK BİLGİSAYAR VE İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ · İstanbul Ticaret Odası 会员（Ticaret Sicil 号待补） · 状态 **经营中（EMIS 2026-03 更新；官网在线）** · 成立 2006-02-07 · Limited Şirketi（Ltd. Şti.）· 私人持有；2007-11-09 修订章程（经营范围加进出口）
+- 行业码 / 经营范围：计算机与通信系统及备件买卖 / 生产 / 进出口；官网产品线 = 核心（Omurga）交换机、数据中心交换机、PoE 交换机、L2/L3 —— 自称 2020 年在土耳其在用设备 10,000+ 台；SIC 5734
+- 注册地址：Gayrettepe Mah. Fuat Sarp Sok. No:5/1, Balmumcu, Beşiktaş / İstanbul（官网 İletişim 页另列 Pazar Sk. No:16/A）
+- 规模档：微型（名录口径小；Trademo 仅 3 票进口记录）
+- 账目：非上市不公开；salespider 估 $410k（不可信）
+- 高管：研究档 KP 「—」：登记高管 / 股东免费层不可得（Ltd. Şti. 需 Ticaret Sicil Gazetesi）
+- 控制人 / 股东：待补
+- **这意味着什么：**
+  - **自有品牌交换机卖家（Omurga / DC / PoE / L2-L3 全线），2020 年号称装机 10,000+ 台，但自己只有 3 票进口记录** → 货大概率经国内代理或第三方清关进来；他们是「贴牌卖整线」的 OEM 品牌商 = 目标顺位第 1 → OEM 30% 线，提案覆盖 L2 PoE 到 Marvell L3 / CENTEC DC 整条线
+  - 微型公司撑一条产品线 = 老板本人决策（姓名待补）：信抬头用 Genel Müdür，内容给「Koptek-branded line（neutral packaging + 固件 logo）」+ 样机测试方案
+  - 2007 年修订章程加进出口 → 有进口资质；付款 T/T 30/70 起，MOQ 按型号 5–10 台
+  - 土耳其同业已挖 HCS / EDS / SGE / TBI：Koptek 是唯一「纯交换机品牌」户，优先级在 TR 里最高；下一轮用 Ticaret Sicil Gazetesi 检索补股东姓名
+- 备注：高管 / 股东待补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -148,14 +164,14 @@ updated: 2026-10-27
 - **【官网】S4600-10P-P-SI：8 口 PoE + 2 SFP，G.8032 环网**
   > S4600-10P-P-SI Bakır Portlar · 10 adet 10/100/1000Base-T POE/POE+ … SFP/Mini GBIC Yuva · 2*SFP … ITU G.8032 Ring özelliği 50ms altında hat koruması
   > 来源：http://www.coptek.com.tr/S4600-10P-P-SI.html（抓取 2026-10-21）
-- **KP**：—（总机）info@coptek.com.tr +90 212 275 79 53〔https://www.coptek.com.tr/CS6570.html〕
+- **KP**：—（总机（Koptek Ltd. Şti. İstanbul 2006-02-07 成立；自有品牌交换机；Ltd. Şti. 高管不免费公开 → 下一轮 Ticaret Sicil Gazetesi）（第 85 批 官方登记核实 2026-10-27））info@coptek.com.tr +90 212 275 79 53〔https://www.coptek.com.tr/CS6570.html〕
 - 备注：A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询盘）：P1 = STI 工业光纤交换机（按其 IM-FS280GW 规格对位 2 光 8 电），报 25% 档并给阶梯价。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti. |
+| 法定名称 | KOPTEK … LTD. ŞTİ.（İstanbul，2006-02-07；find.com.tr / EMIS 3700640）（第 85 批 官方登记核实 2026-10-27） |
 | 成立 | 2006（注册）；2010 年起 DCN 土耳其分销 |
 | 总部/地址 | İstanbul, Türkiye |
 | 其他 | 官网自述 2020 年起在土运行 DCN 设备 10,000+ 台；DCN 全线：核心/数据中心/L2/L3/PoE/工业导轨 |
@@ -250,7 +266,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| — | 总机 | info@coptek.com.tr / +90 212 275 79 53 | 调研核实（公开页） | https://www.coptek.com.tr/CS6570.html |
+| — | 总机（Koptek Ltd. Şti. İstanbul 2006-02-07 成立；自有品牌交换机；Ltd. Şti. 高管不免费公开 → 下一轮 Ticaret Sicil Gazetesi）（第 85 批 官方登记核实 2026-10-27） | info@coptek.com.tr / +90 212 275 79 53 | 调研核实（公开页） | https://www.coptek.com.tr/CS6570.html |
 | DCN | — | info@coptek.com.tr / +905425431139 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 | Akgin Inceoglu | — | info@coptek.com.tr / +905425431139 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 

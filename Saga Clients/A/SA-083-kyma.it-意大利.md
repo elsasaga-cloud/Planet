@@ -94,6 +94,22 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 85 批（Italia · Registro Imprese 镜像（ufficiocamerale / fatturatoitalia / registroaziende / atoka / topaziende 6 年营收）+ 官网（2026-01）+ la Repubblica 专题（2023-06，家族经营）+ LinkedIn，2026-10-27 查；https://www.ufficiocamerale.it/5650/kyma-srl）：**
+
+- 法定名 / 登记号：KYMA S.R.L.（Planet & 3onedata 意大利分销商） · P.IVA / C.F. 01612520351 · REA RE-199577 · PEC kymasrl@legalmail.it · SDI KRRH6B9 · 状态 **Attiva（经营中）** · 成立 1995-03-20（登记；atoka 31 年） · S.r.l. · 股本 €10,329.13（老里拉资本折算）· 家族经营（Zisios 兄妹）
+- 行业码 / 经营范围：ATECO 46.52.09 / 46.50.20 通信设备批发：直接进口 + 全国分销网络产品（Planet、3onedata 工业以太网）给分销商与系统集成商，民用 + 工业
+- 注册地址：Via Bernardino Zacchetti 31, 42124 Reggio Emilia（注册）；Via Masaccio 6, 42124 Reggio Emilia（运营）
+- 规模档：3–5 人（2026：3）；人均营收 >€1M
+- 账目：营收 2019 €1.78M → 2020 €2.04M → 2021 €2.21M → 2022 €2.96M → 2023 €3.63M → 2024 €3.52M（−2%）；净利 2022 €118k / 2023 €192k / 2024 €216k（利润率 6.1%）；意大利年报 7–8 月公示
+- 高管：Davide ZISIOS — 兄妹共同经营（la Repubblica：「guidata dai fratelli Davide e Mara Zisios」）= 研究档 KP → **老板 = 联系人**
+- 高管：Mara ZISIOS — 兄妹共同经营（LinkedIn：进口 / 分销）
+- 控制人 / 股东：Zisios 家族（visura 待补）
+- **这意味着什么：**
+  - **老板 = 联系人（Davide Zisios，兄妹家族公司），3 人做 €3.5M、利润率 6%、五年翻倍**：这是意大利最健康的小进口商 —— 直接进口、现金好、决策一人；他们已是 3onedata（三旺）工业以太网的意大利分销 → 我们工业 STI 系列直接对标三旺价位（分销 20% 档），卖点 Marvell 芯片 + 3 年质保 + 小单灵活
+  - 同时是 Planet 分销：商用 L2/L3 他们有 Planet，别硬推；切入点是「工业 PoE / 2.5G / 10G 光口」里 Planet 价高的型号（STI-480XGGM、STI-288DGGPM-2BT、2.5G HRUI STC-114XGDGP）
+  - 付款：首单 T/T 预付，复购 30/70；意大利 8 月全停、年报 7 月 —— 2026-11 / 2027-01 为窗口
+  - 股东 / 法定代表需 visura（€6.80）：下一轮不花钱，维持「兄妹经营」口径
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -141,8 +157,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Kyma Srl |
+| 法定名称 | KYMA S.R.L.（P.IVA 01612520351 · REA RE-199577；1995-03-20；Reggio Emilia；PEC kymasrl@legalmail.it） |
 | 总部/地址 | Reggio Emilia, 意大利 |
+| 人数 | 3–5；2024 营收 €3,519,588 / 净利 €215,669（第 85 批 官方登记核实 2026-10-27） |
 | 其他 | Planet 渠道档案 PA-006（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：3onedata 是否独家/排他；年进口台数 |
 
 - **业务线**：分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）

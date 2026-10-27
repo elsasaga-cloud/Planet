@@ -1,0 +1,839 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "其他国家官方 / 准官方登记",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 27
+ },
+ "rows": {
+  "SA-061": {
+   "batch": 85,
+   "name": "RYMTECH E.A.S.",
+   "iso": "PY",
+   "source": "Paraguay · 政府采购平台 DNCP 供应商登记 + SET（RUC）+ CAGE 名录 + ConnectAmericas（第 79 批研究档已采；RUC 查询 ruc.com.py 需交互，本轮未新搜）",
+   "url": "https://www.rym-tech.net/",
+   "number": "RUC 80125463-9 · 美国 CAGE 代码持有（名录）",
+   "status": "Activo（政府采购登记在册）",
+   "incorporated": "2015（ConnectAmericas）；E.A.S.（简易股份公司）登记 2022-06",
+   "company_type": "E.A.S.（Empresa por Acciones Simplificadas）· 股东 Nancy Carolina Elizalde de Osorio + Ruslan Osorio Guerra（夫妻）",
+   "sic": [
+    "网络安全（SOC / CSIRT / DFIR / 渗透 / SOCaaS）+ 设备租赁；政府与军方客户"
+   ],
+   "address": "WTC Torre 3 Piso 14, Av. Aviadores del Chaco 2050, Asunción；Hernandarias（Alto Paraná）",
+   "accounts": "不公开（Micro 登记）",
+   "accounts_due": "",
+   "size_band": "Micro（DNCP 登记）/ 50（自报）",
+   "officers": [
+    "Ruslan OSORIO GUERRA — 股东 / 负责人 = 研究档 KP → **老板 = 联系人**",
+    "Nancy Carolina ELIZALDE DE OSORIO — 股东"
+   ],
+   "psc": "Osorio 夫妇 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人、夫妻 E.A.S. 网络安全公司、政府供应商 + 美国 CAGE**：买交换机是给 SOC / 政府项目配套 → 集成 25%，管理型 L2/L3（SNMP / ACL / 802.1X 卖点）；巴拉圭无自由贸易协定、运费高 → FOB 深圳 + 他们的货代",
+    "100% 预付；南美非主战场 → 群发节奏，不单独投入"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-061"
+  },
+  "SA-056": {
+   "batch": 85,
+   "name": "B&S Electronics — Βασίλειος Σταυρίδης（个人企业）",
+   "iso": "GR",
+   "source": "Ελλάδα · ΓΕΜΗ 公开查询需 JS 交互（本轮不可达）；据第 79 批研究档（官网 / securityreport.gr 2025-07）入库",
+   "url": "https://www.bselectronics.gr/",
+   "number": "ΑΦΜ / ΓΕΜΗ 待补（官网页脚 / 发票）",
+   "status": "经营中（2025-07 媒体专文；网店在线）",
+   "incorporated": "2004",
+   "company_type": "Ατομική επιχείρηση（个人企业，Βασίλειος Σταυρίδης）",
+   "sic": [
+    "安防 B2B 网店 + 自有 / 联营品牌 TARGET「BS-SWP」PoE 交换机（4/8/16/24 口 + 高功率 BS-HPSWP）、PoE-UPS、NVR；与 PGM 联合推品牌"
+   ],
+   "address": "Ανδρέα Παπανδρέου 54-56, 55132 Καλαμαριά, Θεσσαλονίκη",
+   "accounts": "个人企业不公开",
+   "accounts_due": "",
+   "size_band": "20–49（名录口径）",
+   "officers": [
+    "Βασίλειος ΣΤΑΥΡΙΔΗΣ（Vasilis Stavridis）— 业主 / CEO = 研究档 KP → **老板 = 联系人**"
+   ],
+   "psc": "Stavridis 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人，自有品牌 BS-SWP PoE 交换机全线（4–24 口 + 高功率）已在卖**：标准 OEM 30% 线 —— 对标其现有型号报 STC-028GP / STC-228GP / STC-2024GP + 高功率 bt 款，强调 Marvell 管理型升级与 3 年保；希腊 8 月停摆、东正教复活节 2027-05-02 避开",
+    "个人企业 → 100% 预付或 50/50；ΓΕΜΗ 号下一轮从官网页脚补"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-056"
+  },
+  "SA-001": {
+   "batch": 85,
+   "name": "Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae）",
+   "iso": "AE",
+   "source": "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "自有品牌 ASTEL/AST- 前缀工业 MC/交换机（产品页自称「independently developed by ASTEL」= 贴牌），网店标价 AED；GM Sanjay Singla 已成单"
+   ],
+   "address": "UAE（Dubai，网店 + 门店）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [
+    "Sanjay Singla — General Manager（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验））：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-001"
+  },
+  "SA-027": {
+   "batch": 85,
+   "name": "Al Salami Trading L.L.C.（AST；原 Al Salami Trading Establishment, ASTE）",
+   "iso": "AE",
+   "source": "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "1989（创始人/董事长 Rashid Al Salami）",
+   "company_type": "—",
+   "sic": [
+    "Al Salami 集团成员，原址沙迦；业务：CCTV、门禁、道闸/大门、有线/无线报警 的设计/集成/安装/维护；官网主打「Dubai trusted CCTV company 报价」"
+   ],
+   "address": "Shop 8, Bin Soqat (Bin Sougat) Building, Al Twar Road, opp. Airport Terminal 2, Dubai；P.O. Box 27640（+971 4 265 0333 / 265 0303）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "10–19（Kompass）/ 11–50（LinkedIn，2,183 followers）",
+   "officers": [
+    "Rashid Al Salami — Chairman / Founder（官网 About）（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验））：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-027"
+  },
+  "SA-051": {
+   "batch": 85,
+   "name": "Tecpro Solutions Co. L.L.C.（TPS）",
+   "iso": "AE",
+   "source": "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2003 Al Ain 起家 / 2004 UAE 注册",
+   "company_type": "—",
+   "sic": [
+    "四大业务：IT 基础设施与应用（服务器/存储/网络/虚拟化/DC/云/网安）、智能楼宇（ELV/BMS）、创新与数字化、教育装备；分销部门 TECPRO-Distributions；**2026-02-13 发布新企业形象 + 阿布扎比新办公室**（扩张信号）"
+   ],
+   "address": "Dubai（Saheel Tower；+971 4 326 6881 / +971 52 925 0501；dxb@tecprosolutions.com）；Abu Dhabi: Building No.7, 4th Fl, Office 403, Muroor St（+971 2 676 7373；auh@tecprosolutions.com）；Al Ain: Building No.30, Al Jusour St；Kochi（印度）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "51–100（Prospeo；LinkedIn 11–50；Crunchbase 101–250）",
+   "officers": [
+    "Mohammed Rafi — Executive Director（研究档）",
+    "MD Shereef — （用户记录）（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验））：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-051"
+  },
+  "SA-062": {
+   "batch": 85,
+   "name": "Intelligent Professional Network Solutions LLC（IPNS / i-PNS）",
+   "iso": "AE",
+   "source": "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2010",
+   "company_type": "—",
+   "sic": [
+    "ISO 9001:2015；ADMCC 认证 CCTV 集成商（阿布扎比强制：≥30 天录像、2MP、20fps）；业务：CCTV 安装与 AMC（七个酋长国）、自称 CCTV 分销（全 UAE 备货仓）、Avaya PBX 供应、ZKTeco 门禁、道闸停车、光纤/Cat6 布线、网络交换方案、智能家居分销；官网 2025-01 更新"
+   ],
+   "address": "P.O. Box 126814, M8, Al Haram & Al Masy Building, near HSBC Bank, Airport Road, Abu Dhabi（+971 2 491 0731 / +971 55 983 5897；info@ipns-uae.com）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "11–50",
+   "officers": [
+    "（ISAF 2025 现场联系人，见 Clients 表） — —（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验））：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-062"
+  },
+  "SA-012": {
+   "batch": 85,
+   "name": "WIDEN Co., Ltd.（Widen Trading / WIDEN NETWORK SOLUTIONS）",
+   "iso": "TH",
+   "source": "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "自称光纤与配套设备进口分销商，ISO 9001:2015；网店 shop-widen.com 2026-10-07 更新；电话 088-9498799，LINE @widencompany，Messenger Widentradingcompany"
+   ],
+   "address": "Nonthaburi, Thailand",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [
+    "Thawat — 负责人（官网公开直邮）（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-012"
+  },
+  "SA-028": {
+   "batch": 85,
+   "name": "ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส）",
+   "iso": "TH",
+   "source": "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "官网 entasource.co.th（另有 entasource.com 旧站）：自有标 **ETN90xx** 工业交换机全系（ETN9065 非管理 / ETN9075 管理 推断）：4GX8GT、4GX8PGT（PoE）、2GX16GT/PGT、2XG16GT/PGT（10G 上联）、4XG16GT/PGT、8GX16GT/PGT、8GX8GT/PGT、4GX24GT/PGT、8GT/8PGT/16GT/16PGT、mini 1FX1TX/1FX2TX/1FX4TX/5TX、2GX2GT、1GX4GT；ETS-ESI1008 / ESI1022（16×FE + 2×FX SC + 4×"
+   ],
+   "address": "Bangkok, Thailand",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-028"
+  },
+  "SA-040": {
+   "batch": 85,
+   "name": "Success Network and Communication Co., Ltd.（บริษัท ซัคเซส เน็ตเวิร์ค แอนด์ คอมมิวนิเคชั่น จำกัด，注册号 0105554082806）",
+   "iso": "TH",
+   "source": "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2011-06-24，注册资本 1,000 万泰铢",
+   "company_type": "—",
+   "sic": [
+    "官网 2025-11 更新（改版完成）：品牌 TVT、Scene/IR、Uni-Ubi、ICT、Vissonic、ITC、**Planet（L3 / L2 / Industrial Switch 三类目）**、ORing、Trendnet、Wi-Tek、W-LINK、C-DATA、Asustor、Shuttle、RFID、MW、WINEXT；ORing APAC 官方经销名录与 Edgecore 亚太 reseller 名录均列出；Line @success_network"
+   ],
+   "address": "12 Soi Sukhaphiban 5 Soi 5 Yaek 3, Tha Raeng, Bang Khen, Bangkok 10220（Tel 02-973-1966 / 081-659-4477；info@success-network.co.th）；注册地 81/19 Nawamin Rd, Khlong Kum, Bueng Kum, Bangkok 10240",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [
+    "（Sawithree，姓氏未公开） — ORing 经销名录联系人（销售窗口）；地址 2026-10-20 永久退信（550 No such recipient）→ 失效（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-040"
+  },
+  "SA-080": {
+   "batch": 85,
+   "name": "PBA Forever Technology Co., Ltd.",
+   "iso": "TH",
+   "source": "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [],
+   "address": "—",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [
+    "Peeranun Ratannabuajan — CEO（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-080"
+  },
+  "SA-052": {
+   "batch": 85,
+   "name": "BSN System / Berkah Saudara Network（bsn-system.com）",
+   "iso": "ID",
+   "source": "印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2014（官网「Sejak tahun 2014」；首页另称 8 年经验）",
+   "company_type": "—",
+   "sic": [
+    "独立安防顾问/集成商：OSE（组织/结构/电子）安防措施全套实施 + 外包运维 + 代管人防与控制室；官网 WordPress，2025-04 更新"
+   ],
+   "address": "Jalan Jembatan Besi No 23 A Grogol, Kel. Angke, Kec. Tambora, Jakarta Barat 11320",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [
+    "（用户记录联系人，Gmail 个人邮箱） — —（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（印尼 · AHU 登记需付费，OSS/NIB 不公开）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-052"
+  },
+  "SA-053": {
+   "batch": 85,
+   "name": "PT. Divatel Pratama",
+   "iso": "ID",
+   "source": "印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2001",
+   "company_type": "—",
+   "sic": [
+    "三站并行：infrateq.com（电商：IP PBX / IP 话机 / VoIP 网关 / 会议 / **Industrial PoE Switch 类目**，自有标 InfrateQ 型号如 HR600-AFG-822S——疑为 HRUI 贴牌）、divatel.id（IP PBX/联络中心，KOMINFO 持牌，印尼/马/新）、pa-system.infrateq.com；CEO Ismed Sitepu（LinkedIn 列业务含「Solar Panel Switch / Hub」「Offgrid CCTV」）；销售 WA 0851-7306-0800 / 0852-8940-458"
+   ],
+   "address": "Menara Kuningan 6th Floor, Jl. H.R. Rasuna Said Blok X-7 Kav.5, Jakarta Selatan 12940（+62 21 30022777 / 30022778 hunting；sales@divatel.id / info@divatel.co.id）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "2–10（LinkedIn）",
+   "officers": [
+    "Ismed Sitepu — CEO & Founder（研究档）",
+    "Ismed Sitepu — Founder & CEO（2001 至今）；地址 2026-10-21 退信（554 5.7.1 Message not delivered）→ 先找替代地址（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（印尼 · AHU 登记需付费，OSS/NIB 不公开）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-053"
+  },
+  "SA-068": {
+   "batch": 85,
+   "name": "PT. RAS Otomasi Indonesia",
+   "iso": "ID",
+   "source": "印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "5 年+ 经验的自动化「aplikator」：PLC/HMI/SCADA（Rievtech micro/4G/Ethernet PLC、Rapid SCADA）、MEP、安防、水处理、IT/电信基础设施；方案含港口靠泊辅助 DAS、环境监测、自动气象站、燃油管理、智慧停车/智慧城市；Trimaxindo 本地伙伴名录列联系人 sudarso@ras-otomasi.id（2025-11）"
+   ],
+   "address": "Office: Menara 165 4th Fl, Jl. TB Simatupang Kav.1, Cilandak, Jakarta Selatan 12560（+62 21 5081-2002）；Workshop: Ruko Villa Pamulang Blok CH8 No.11, Pamulang, Tangerang Selatan 15416（+62 21 2784-6419）；info@ras-otomasi.id",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "11–50（ZoomInfo）",
+   "officers": [
+    "Sudarso（姓氏/职务未公开） — Trimaxindo 本地伙伴名录联系人（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（印尼 · AHU 登记需付费，OSS/NIB 不公开）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-068"
+  },
+  "SA-039": {
+   "batch": 85,
+   "name": "MT-Link Technologies Co.",
+   "iso": "PK",
+   "source": "巴基斯坦 · SECP 公司查询需交互验证码；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "自称巴基斯坦首家本土网络品牌；零售电商 mtlinkpakistan.com（PKR 标价）；L3 机型基于 BDCOM（BDROS 平台）；1 年官方保修"
+   ],
+   "address": "109–113 Elahi Centre, Preedy Street, Saddar, Karachi, Pakistan（+92 317 9995719）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（巴基斯坦 · SECP 公司查询需交互验证码）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-039"
+  },
+  "SA-048": {
+   "batch": 85,
+   "name": "Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Business Solutions Company（2005 电信承包商，ekhalas.com 运营方）",
+   "iso": "SA",
+   "source": "沙特 · 商业登记（CR）仅 Wathq 付费 API；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2014（官网时间线；LinkedIn 2013）",
+   "company_type": "—",
+   "sic": [
+    "业务：ICT 基础设施、MEP、ELV（CCTV/门禁/PA/IPTV/消防/主时钟）、软件、网络安全、电信 OSP/ISP、数据中心与电源；Cisco Premium Partner；展厅 Riyadh / Al Khobar / Jeddah / Jubail（2024 第三家）；**2024 成立 Al Rajhi Distribution 进入分销**；电商 ekhalas.com；2024-07 与 Mobi Egypt 成立数据中心合资；Silkroad 自述「3,000+ 客户」并「向零售市场推出自有品牌」；高管：CEO Mohammed Abdul Majid、Director"
+   ],
+   "address": "7687 King Fahad Branch Road, Al Murabba Dist., Unit 147, Riyadh 12612",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "501–1,000（LinkedIn，3,078 followers）",
+   "officers": [
+    "Inam — （用户记录联系人）（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（沙特 · 商业登记（CR）仅 Wathq 付费 API）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-048"
+  },
+  "SA-014": {
+   "batch": 85,
+   "name": "Impulse Networks / Impulse CCTV",
+   "iso": "SG",
+   "source": "新加坡 · ACRA BizFile 基本档 $5.50 付费；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "自有品牌 IMP- 系列：IGS 工业 PoE（IMP-IGS-1G06CG/CP、1G10CG/CP、1G12CG）、EGS 企业 PoE（1G08P02F、1G24P02F/04X、1G48P04X）、XGS 10G 核心（2404XCP、480204XCP）、SWT-0049 系列 24/48×10G + 40/100G；ONV 来源（用户表）"
+   ],
+   "address": "Singapore（81 Ubi Ave 4）；北美 Vancouver；印度生产（BIS）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "51–200",
+   "officers": [],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（新加坡 · ACRA BizFile 基本档 $5.50 付费）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-014"
+  },
+  "SA-031": {
+   "batch": 85,
+   "name": "Công ty TNHH Giải pháp và Xây lắp Trường Sơn（Truong Son Solutions Co., Ltd.）",
+   "iso": "VN",
+   "source": "越南 · 国家企业登记门户需越文名交互查询，无镜像；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2019 注册",
+   "company_type": "—",
+   "sic": [
+    "工业交换机垂直分销：ONV 工业 PoE 全线、PLANET（IGUP-1205AT）、3Onedata（IES5028G）、Advantech EKI、GTWave（Non-China/NDAA 卖点）、Sambo/HUNT 摄像机；站点 truongsonsolutions.vn + switchcongnghiep.com + wordpress；热线 0916.799.345"
+   ],
+   "address": "Ho Chi Minh City（另河内办公室）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "5（登记）",
+   "officers": [],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（越南 · 国家企业登记门户需越文名交互查询，无镜像）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-031"
+  },
+  "SA-005": {
+   "batch": 85,
+   "name": "Taurus Vision（taurusvision.com）",
+   "iso": "ZA",
+   "source": "南非 · CIPC 需登录付费；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "CCTV 视频监控管理方案商，强调「带 POS 集成的监控平台」按场景定制（零售），全国服务；营业 Mo–Sa 9–18"
+   ],
+   "address": "8 Malan Street, Riviera, Pretoria 0084, Gauteng, South Africa",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "1–10（ZoomInfo）",
+   "officers": [
+    "Lynette Bowman — CCTV（ZoomInfo 口径）（研究档）",
+    "Lynette Bowman — CCTV（ZoomInfo 职务标注；邮箱未公开，域 @taurusvision.com）（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（南非 · CIPC 需登录付费）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-005"
+  },
+  "SA-079": {
+   "batch": 85,
+   "name": "Biz-Ethics Ltd.（BEL Networks）",
+   "iso": "NG",
+   "source": "尼日利亚 · CAC 公开查询仅返回名称 / RC 号，需登录；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [],
+   "address": "—",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [
+    "Valentine Mbata — 单据联系人（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（尼日利亚 · CAC 公开查询仅返回名称 / RC 号，需登录）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-079"
+  },
+  "SA-090": {
+   "batch": 85,
+   "name": "WizardsInc Sdn Bhd",
+   "iso": "MY",
+   "source": "马来西亚 · SSM e-Info 付费；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [],
+   "address": "—",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [
+    "Raja King — 单据联系人（研究档）",
+    "Raja Kumaran — 单据联系人（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（马来西亚 · SSM e-Info 付费）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-090"
+  },
+  "SA-071": {
+   "batch": 85,
+   "name": "Sur-Link Technology Bolivia",
+   "iso": "BO",
+   "source": "玻利维亚 · SEPREC（原 Fundempresa）需付费证书；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "技术产品批发分销商：Cat5e/6/6A（Corning、Nexans、3M）、光纤 SM/MM、ADSS 五金、最后一公里、BASOR 桥架、Toten 机柜、线槽；**Corning 官方玻利维亚分销商（Carrier and Enterprise）**；官网按产品线列出销售团队（公开）"
+   ],
+   "address": "Av. Guapay Nro. 2675 esq. Calle 10（Canal Cotoca, entre 2do y 3er anillo）, Santa Cruz de la Sierra（+591 3 312 3371 / 314 5932 / 3 347 7677；手机 77008888）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [
+    "Eduardo Miranda — （官网列为主要联系人；Corning 分销联系人）（研究档）",
+    "Ivan Ortega — Ventas（销售）（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（玻利维亚 · SEPREC（原 Fundempresa）需付费证书）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-071"
+  },
+  "SA-003": {
+   "batch": 85,
+   "name": "Eyescan Private Security Services Ltd",
+   "iso": "CY",
+   "source": "塞浦路斯 · 公司注册处查询为 JS 交互，无镜像；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2001（官网「Since 2001」）",
+   "company_type": "—",
+   "sic": [
+    "塞浦路斯当局注册的持牌安防公司；团队含 Cisco CCNA；TVT 与 ZKTeco 的官方分销商（官网「Official Distributors of」）"
+   ],
+   "address": "Limassol, Cyprus",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "11–50（LinkedIn）",
+   "officers": [],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（塞浦路斯 · 公司注册处查询为 JS 交互，无镜像）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-003"
+  },
+  "SA-067": {
+   "batch": 85,
+   "name": "LATMEDIA GROUP ООО",
+   "iso": "UZ",
+   "source": "乌兹别克 · orginfo.uz 本轮未测试（下一轮）；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2012",
+   "company_type": "—",
+   "sic": [
+    "**数字营销/广告代理公司**（SMM、SEO、投放、网站开发），非网络设备商；CEO Пак Максим（Maksim Pak），创始人 Jahongir Latipov（Webster Univ. 介绍）；网站 2025-09 更新为「LATMEDIA Community」"
+   ],
+   "address": "Ташкент, Яшнабадский район, массив Риёзи 28/2（黄页另列 ул. Сайрам 25, 100170）；info@latmedia.uz / web@latmedia.uz；Telegram +998 90 115 51 00",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "≈19（ZoomInfo 口径，待核）",
+   "officers": [
+    "Пак Максим（Maksim Pak） — CEO LATMEDIA（官网 About）（研究档）",
+    "Vladimir Xe — Co-founder, Latmedia（邮件签名）（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（乌兹别克 · orginfo.uz 本轮未测试（下一轮））：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-067"
+  },
+  "SA-065": {
+   "batch": 85,
+   "name": "SMBIT Ltd（SMBIT.LTD）",
+   "iso": "IL",
+   "source": "以色列 · 公司注册处（רשם החברות）查询需交互；checkid.co.il 未测试；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2012",
+   "company_type": "—",
+   "sic": [
+    "ICT 集成商：路由交换、企业 Wi-Fi（**Ubiquiti 官方授权经销，列于 ui.com 以色列经销名录**；Ubiquiti 以色列总代为 Lan-Tech）、毫米波无线链路、LoRaWAN IoT、GPON 光纤、安防摄像机、PBX；自有智慧城市平台 EKRON（ekron.city，带网管/网安）；客户：企业、地方政府、教育系统"
+   ],
+   "address": "13 Haim Meler St / PO Box 1399, Mazkeret Batya 7680400, Israel（+972 77 600 1070；info@smbit.co.il）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "14–16",
+   "officers": [
+    "（自建站询盘联系人，见 Clients 表） — —（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（以色列 · 公司注册处（רשם החברות）查询需交互；checkid.co.il 未测试）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-065"
+  },
+  "SA-045": {
+   "batch": 85,
+   "name": "Energyplus Systems（energyplusystems.cl）",
+   "iso": "CL",
+   "source": "智利 · 无统一公开登记（SII 仅 RUT 校验），mercantil.com 未测试；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "矿业/工业技术供应商网店（WooCommerce，CLP 含税标价）：变频器、软启动、矿用插头/电缆、PLC、传感器、4G 工业路由、Modbus-Profinet 网关、**工业交换机全系在售**；销售联系人 Ling Fuentes（官网公开）"
+   ],
+   "address": "6 ½ Oriente #270, Viña del Mar, Chile（+56 9 9218 8218；ventas@energyplusystems.cl）",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [
+    "Ling（用户表） — 联系人（研究档）",
+    "Ling Fuentes — Ventas（销售，官网公开）（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（智利 · 无统一公开登记（SII 仅 RUT 校验），mercantil.com 未测试）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-045"
+  },
+  "SA-078": {
+   "batch": 85,
+   "name": "James Clendenan Systems Ltd.",
+   "iso": "CA",
+   "source": "加拿大 · 联邦 / 省登记可查但研究档无法定名与省份线索；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [],
+   "address": "—",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "—",
+   "officers": [
+    "James Clendenan — 单据联系人（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（加拿大 · 联邦 / 省登记可查但研究档无法定名与省份线索）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-078"
+  },
+  "SA-032": {
+   "batch": 85,
+   "name": "Sundar Techno Solutions（STS）",
+   "iso": "IN",
+   "source": "印度 · 个体 / 合伙企业不入 MCA；GST 查询需完整 GSTIN；本行为「无登记源」记录（据第 79 批研究档）",
+   "url": "",
+   "number": "—",
+   "status": "（登记状态不可免费核）",
+   "incorporated": "2019（GST 注册）",
+   "company_type": "—",
+   "sic": [
+    "IndiaMART 店铺 sundartechno.in 以「Manufacturer / Made in India」名义销售 STS 品牌工业交换机全线；另有 industrialcomputers.in 站点卖工控机"
+   ],
+   "address": "Bengaluru, Karnataka, India",
+   "accounts": "—",
+   "accounts_due": "",
+   "size_band": "2–10 / 11–25（口径不一）",
+   "officers": [
+    "Manoj Kumar N — Founder & CEO（成单联系人）（研究档）",
+    "Manoj Kumar — CEO（研究档）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮无免费官方登记源**（印度 · 个体 / 合伙企业不入 MCA；GST 查询需完整 GSTIN）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」",
+    "无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判"
+   ],
+   "notes": "无免费登记源；下一轮若找到镜像再补。",
+   "fetched": "2026-10-27",
+   "code": "SA-032"
+  }
+ }
+}

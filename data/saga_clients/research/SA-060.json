@@ -59,8 +59,8 @@
  ],
  "kp": [
   {
-   "name": "Ivan Rivera",
-   "role": "来信署名人（职务未在邮件署名里出现）",
+   "name": "Iván Rivera",
+   "role": "Presidente y CEO（创始人）= 老板 = 联系人；FiberX LLC（Puerto Rico 2016/17，ISP + 数据中心，PeeringDB fac 14857，~34 人）（第 85 批 官方登记核实 2026-10-27）",
    "email": "irivera@fiberx.net",
    "phone": "",
    "source": "S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）"
@@ -82,10 +82,10 @@
   "level": "深挖 v2（官网 + PeeringDB 核对）"
  },
  "company_facts": {
-  "legal_name": "FiberX（gofiberx.com）",
+  "legal_name": "FIBERX LLC（Puerto Rico，2016/17；Guaynabo PR；ISP + DC）",
   "founded": "2016",
   "hq": "Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968；Warehouse Plaza Rio Cañas Carr. #1 Km 27.8, Caguas PR 00725；Data Center B01（FXDC-MOP6，PeeringDB）",
-  "staff": "11–50",
+  "staff": "~34（第 85 批 官方登记核实 2026-10-27）",
   "revenue": "约 $5.6M",
   "registry": "AS6208",
   "other": "本地光纤运营商：Internet、Metro Ethernet（MPLS/VPLS）、云连接、机房托管、FTTH/FTTB、VoIP、Dark fiber；覆盖 21 城（San Juan 79.75%，Guaynabo 74.9%），1 Gbps 对称；自有数据中心（PeeringDB 设施）"

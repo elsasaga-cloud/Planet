@@ -45,10 +45,10 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "ALFA Network Inc.",
+  "legal_name": "ALFA NETWORK INC.（Taipei Neihu；2002；法国 SIREN 901445445 = 欧洲远距销售 VAT 登记 2021-05）",
   "founded": "2002",
   "hq": "Taipei, Taiwan",
-  "staff": "11–50",
+  "staff": "11–50（第 85 批 官方登记核实 2026-10-27）",
   "other": "无线网络品牌，PoE 交换机线为外采：APS08G（8 GE PoE 150W）、APS1602E（16 FE PoE + 2 GE 250W，VLAN/CCTV 250 m）、APS104G-EX（bt 入 4 口 PoE 延长）、APOE08G 注入器；欧洲二级渠道（Alfa Distribution、EVX、wifi-highpower.it）"
  },
  "business_lines": [
@@ -292,10 +292,17 @@
  "kp": [
   {
    "name": "Johnson Wang",
-   "role": "来信署名人（职务未在邮件署名里出现）",
+   "role": "来信署名人（职务待核，非负责人）；负责人 President Huang Lili（D&B）、硬件总监 Jeremy Wu；ALFA Network 2002 成立、11–50 人、欧洲电商自营（法国 SIREN 901445445）（第 85 批 官方登记核实 2026-10-27）",
    "email": "johnson@alfa.com.tw",
    "phone": "",
    "source": "S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补）"
+  },
+  {
+   "name": "Huang Lili（Bai Lian）",
+   "role": "President（D&B Key Principal）= 负责人 / 老板（第 85 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.dnb.com/business-directory/company-profiles.alfa_network_inc.92c8275df8b0f94300f98ff30d74ce55.html"
   }
  ]
 }

@@ -107,6 +107,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 85 批（沙特 · 商业登记（CR）仅 Wathq 付费 API；本行为「无登记源」记录（据第 79 批研究档），2026-10-27 查；）：**
+
+- 法定名 / 登记号：Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Business Solutions Company（2005 电信承包商，ekhalas.com 运营方） · — · 状态 **（登记状态不可免费核）** · 成立 2014（官网时间线；LinkedIn 2013） · —
+- 行业码 / 经营范围：业务：ICT 基础设施、MEP、ELV（CCTV/门禁/PA/IPTV/消防/主时钟）、软件、网络安全、电信 OSP/ISP、数据中心与电源；Cisco Premium Partner；展厅 Riyadh / Al Khobar / Jeddah / Jubail（2024 第三家）；**2024 成立 Al Rajhi Distribution 进入分销**；电商 ekhalas.com；2024-07 与 Mobi Egypt 成立数据中心合资；Silkroad 自述「3,000+ 客户」并「向零售市场推出自有品牌」；高管：CEO Mohammed Abdul Majid、Director
+- 注册地址：7687 King Fahad Branch Road, Al Murabba Dist., Unit 147, Riyadh 12612
+- 规模档：501–1,000（LinkedIn，3,078 followers）
+- 账目：—
+- 高管：Inam — （用户记录联系人）（研究档）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **本轮无免费官方登记源**（沙特 · 商业登记（CR）仅 Wathq 付费 API）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」
+  - 无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判
+- 备注：无免费登记源；下一轮若找到镜像再补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

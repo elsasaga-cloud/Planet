@@ -99,6 +99,22 @@ updated: 2026-10-27
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 85 批（대한민국 · bizno 사업자 名錄（業種 / 代表姓）+ 官網（地址 / 認證 / 2 年保固）+ 매거진한경（2026-03，富川產業振興院「創業躍升套餐」入選企業專訪）+ 研究檔，2026-10-27 查；https://www.gtwave.co.kr/）：**
+
+- 法定名 / 登记号：(주)지티웨이브 GTWAVE Co., Ltd. · 사업자등록번호 待補（bizno 條目存在，號碼未顯示） · 状态 **경영중（官網在線；2026-03 入選富川產業振興院 창업도약패키지）** · 成立 2001（研究檔 / 官網口徑；法人登記日待補） · 주식회사 · 중소기업 · 유선 통신장비 제조업（有線通訊設備製造）
+- 行业码 / 经营范围：自有品牌 GT-Wave：智能自復原（통신장애 자동복구）PoE 交換機、HiPoE 95W 注入器、PoE 延長器、Bypass 交換機、浪湧保護、工業 / 戶外 AP（KCMVP 加密模組 + CC 認證 VPN 聯動，可軍用）、無線橋接、無人機圖傳；認證：보안인증 / KC 電氣安全 / CE / ISO；2 年無償保固
+- 注册地址：경기 성남시 분당구 판교로 723, 701-1 / #804-2（판교 테크노밸리）13511；另與 gotinc.co.kr（GOT Inc.）共用 sales@ 郵箱
+- 规模档：11–50（LinkedIn）；2026 仍屬「創業躍升」階段企業（富川產業振興院計畫對象）
+- 账目：未公開（名錄無매출）；韓國 12 月決算
+- 高管：박문수 PARK Moon-soo — 대표이사（bizno 代表「박문*」+ 研究檔 KP Moonsoo Park）= **老闆 = 聯絡人**
+- 控制人 / 股东：박문수（推定）
+- **这意味着什么：**
+  - **老闆 = 聯絡人（대표 박문수），自有品牌「自復原 PoE」+ 軍規無線 AP 的小型製造商**：他們的 PoE 交換機核心賣點是韌體功能（通訊故障自動斷電重啟），硬體是外採 → 我們要賣的是「可按其韌體需求定製的 PoE 板 / 整機」（PoE 看門狗 / 自動重啟功能是 SmartByte 管理型能做的）→ OEM 30% 線，提案附 PoE watchdog 功能說明
+  - 2026-03 入選政府創業扶持計畫 + 2 年保固承諾 → 現金緊、但有政府訂單通路（公共 WiFi / 無線 CCTV）；付款 T/T 預付、MOQ 小；KC 由他們以自有品牌申請
+  - 研究檔「海思的」= 他們現有貨源為海思方案；我們 Marvell / Realtek 線要對標價格 + 強調 3 年保固
+  - 사업자등록번호 / 設立日下一輪用 saramin / jobkorea 補
+- 备注：登記號待補。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,14 +146,14 @@ updated: 2026-10-27
 - **【展会目录】GTWave 工业 PoE 型号表（iG8P-2SMB/2SB/4SMB/8GE/8FE、DNS8-2SM、iG4P-2SMB）**
   > iG8P-2SMB | Web관리, 8PoE Gbps, 2SFP, 지능형 PoE, consol 1, Ring 구성(ERPS, EAPS) | iG8P-2SB | non managed, 8PoE Gbps, 2 SFP … iG8P-4SMB | Web관리, 8PoE Gbps, 4SFP … DNS8-2SM | Web관리, Ring 구성(ERPS, EAPS), 8GE + 2SFP
   > 来源：https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf（抓取 2025-01-16）
-- **KP**：Moonsoo Park（对外联系人（EC21 供应商页））master@gtwave.co.kr +82 31 707 4670〔https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html〕
+- **KP**：Moonsoo Park（대표이사 박문수（bizno 名录代表 + 研究档联系人同名）= 老板 = 联系人；(주)지티웨이브 有线通信设备制造业，판교；2026-03 入选富川产业振兴院 창업도약패키지（第 85 批 官方登记核实 2026-10-27））master@gtwave.co.kr +82 31 707 4670〔https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html〕
 - 备注：A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | GTWAVE Co., Ltd.（(주)지티웨이브） |
+| 法定名称 | (주)지티웨이브 GTWAVE Co., Ltd.（성남 분당구 판교로 723；사업자번호待补）（第 85 批 官方登记核实 2026-10-27） |
 | 成立 | 2001 |
 | 总部/地址 | Seongnam (Pangyo), Korea |
 | 人数 | 11–50 |
@@ -234,7 +250,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Moonsoo Park | 对外联系人（EC21 供应商页） | master@gtwave.co.kr / +82 31 707 4670 | 调研核实（公开页） | https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html |
+| Moonsoo Park | 대표이사 박문수（bizno 名录代表 + 研究档联系人同名）= 老板 = 联系人；(주)지티웨이브 有线通信设备制造业，판교；2026-03 入选富川产业振兴院 창업도약패키지（第 85 批 官方登记核实 2026-10-27） | master@gtwave.co.kr / +82 31 707 4670 | 调研核实（公开页） | https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html |
 | Park | — | master@gtwave.co.kr | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

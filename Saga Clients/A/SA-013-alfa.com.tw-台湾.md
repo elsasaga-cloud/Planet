@@ -114,6 +114,24 @@ updated: 2026-10-27
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 85 批（台灣 · D&B 檔（負責人）+ LinkedIn / Kompass / SignalHire / ContactOut + 法國 SIRENE（境外公司遠距銷售登記 SIREN 901445445）+ 官網，2026-10-27 查；https://www.dnb.com/business-directory/company-profiles.alfa_network_inc.92c8275df8b0f94300f98ff30d74ce55.html）：**
+
+- 法定名 / 登记号：ALFA NETWORK INC.（艾法；法定中文名 / 統一編號待補） · 統一編號待補（經濟部商工登記需中文名）· 法國 SIREN 901445445 / SIRET 90144544500017（2021-05-01 登記為「未入 RCS 之外國公司」，NAF 4791B 遠距專門銷售 = 歐洲電商 VAT 登記） · 状态 **經營中（官網 / LinkedIn 活躍；ContactOut 2026-09 更新）** · 成立 2002（LinkedIn / SignalHire） · 股份有限公司（Inc.）· 私人持有
+- 行业码 / 经营范围：無線網路設備設計製造（USB 無線網卡、AP / 戶外 CPE、天線、OpenWrt 路由）+ 外採 PoE 交換機線（APS08G / APS1602E / APS104G-EX）+ IP 攝影機；歐洲二級渠道 Alfa Distribution / EVX；Amazon 歐洲站自營（法國 VAT 登記）
+- 注册地址：4F.-1, No.106, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwan
+- 规模档：11–50 人（LinkedIn / ZoomInfo）；ContactOut 1–10
+- 账目：非上市不公開；估 $6.9M（SignalHire）/ $10–50M（ContactOut）
+- 高管：HUANG Lili（Bai Lian）— President（D&B Key Principal）→ 老闆 / 負責人
+- 高管：Jeremy WU — Director, Hardware Engineering（硬體總監；PoE 交換機外採的技術決策人）
+- 高管：Johnson WANG — 研究檔 KP（職務待核；疑採購 / 業務）；Amy LIN / Sheryl SHEU — Account Manager
+- 控制人 / 股东：Huang Lili（推定）
+- **这意味着什么：**
+  - **台灣無線品牌、PoE 交換機整線外採、已在歐洲自營電商（法國 VAT 登記）**：他們就是我們最對口的 OEM 品牌商 —— APS08G / APS1602E 規格對應 STC-028GP / STC-2024GP 類；提案「ALFA-branded PoE switch line（neutral packaging + Web UI logo）」→ OEM 30% 線
+  - 聯絡人 Johnson Wang 非負責人：決策鏈 = President Huang Lili + 硬體總監 Jeremy Wu（規格把關）→ 信抄技術總監，附規格書 + 樣機測試方案
+  - 台灣買家熟中國供應鏈、會多家比價：報價直接給 OEM 檔最優 + 階梯；付款 T/T 30/70；出貨可深圳 FOB 走他們的貨代
+  - 統一編號 / 資本額下一輪用中文名（待從官網 / 發票抬頭取得）查經濟部商工登記
+- 备注：統一編號待補。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -148,17 +166,18 @@ updated: 2026-10-27
 - **【官网】APS08G 规格**
   > APS08G … 802.3af/at Power over Ethernet compliant, Max. 30W per port … Fanless … Fit on Desktop or Bring It to Rackmount
   > 来源：https://www.alfa.com.tw/products/aps08g（抓取 2026-10-21）
-- **KP**：Johnson Wang（来信署名人（职务未在邮件署名里出现））johnson@alfa.com.tw 〔S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补）〕
+- **KP**：Johnson Wang（来信署名人（职务待核，非负责人）；负责人 President Huang Lili（D&B）、硬件总监 Jeremy Wu；ALFA Network 2002 成立、11–50 人、欧洲电商自营（法国 SIREN 901445445）（第 85 批 官方登记核实 2026-10-27））johnson@alfa.com.tw 〔S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补）〕
+- **KP**：Huang Lili（Bai Lian）（President（D&B Key Principal）= 负责人 / 老板（第 85 批 官方登记核实 2026-10-27）） 〔https://www.dnb.com/business-directory/company-profiles.alfa_network_inc.92c8275df8b0f94300f98ff30d74ce55.html〕
 - 备注：A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ALFA Network Inc. |
+| 法定名称 | ALFA NETWORK INC.（Taipei Neihu；2002；法国 SIREN 901445445 = 欧洲远距销售 VAT 登记 2021-05） |
 | 成立 | 2002 |
 | 总部/地址 | Taipei, Taiwan |
-| 人数 | 11–50 |
+| 人数 | 11–50（第 85 批 官方登记核实 2026-10-27） |
 | 其他 | 无线网络品牌，PoE 交换机线为外采：APS08G（8 GE PoE 150W）、APS1602E（16 FE PoE + 2 GE 250W，VLAN/CCTV 250 m）、APS104G-EX（bt 入 4 口 PoE 延长）、APOE08G 注入器；欧洲二级渠道（Alfa Distribution、EVX、wifi-highpower.it） |
 
 - **业务线**：无线路由/AP/USB 网卡/天线；PoE 交换机 APS 系列与 PoE 注入/延长器（外采贴牌）
@@ -274,7 +293,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Johnson Wang | 来信署名人（职务未在邮件署名里出现） | johnson@alfa.com.tw | 调研核实（公开页） | S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补） |
+| Johnson Wang | 来信署名人（职务待核，非负责人）；负责人 President Huang Lili（D&B）、硬件总监 Jeremy Wu；ALFA Network 2002 成立、11–50 人、欧洲电商自营（法国 SIREN 901445445）（第 85 批 官方登记核实 2026-10-27） | johnson@alfa.com.tw | 调研核实（公开页） | S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补） |
+| Huang Lili（Bai Lian） | President（D&B Key Principal）= 负责人 / 老板（第 85 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.dnb.com/business-directory/company-profiles.alfa_network_inc.92c8275df8b0f94300f98ff30d74ce55.html |
 | Johnson | — | johnson@alfa.com.tw / phoebe@alfa.com.tw | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

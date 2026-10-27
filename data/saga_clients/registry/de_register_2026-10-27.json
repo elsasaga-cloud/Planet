@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 4
+  "count": 5
  },
  "rows": {
   "SA-008": {
@@ -151,6 +151,37 @@
    "fetched": "2026-10-27",
    "code": "SA-088",
    "batch": 83
+  },
+  "SA-075": {
+   "batch": 85,
+   "name": "Nuri Sahin Sicherheitsdienste „Falke Security“（个体经营）",
+   "iso": "DE",
+   "source": "Deutschland · Creditreform 企业名录（个体经营无 Handelsregister 条目）+ 官网联系页（第 79 批研究档已采，本轮据档入库，未新搜）",
+   "url": "https://www.falke-security.de/",
+   "number": "无 HRB（Einzelunternehmen 不入商业登记）；USt-IdNr. 待补（Impressum）",
+   "status": "经营中（官网在线，Mo–Sa 09–18）",
+   "incorporated": "待补（Impressum / Gewerbeanmeldung 不公开）",
+   "company_type": "Einzelunternehmen（个体经营，业主 Nuri Sahin）",
+   "sic": [
+    "安防系统集成（HDCVI / IP 摄像，在售 Dahua；报警；Smarthome）+ 网络搭建，1–256 路项目"
+   ],
+   "address": "Krefelder Str. 282, 47229 Duisburg（Creditreform）；门店 Friedrich-Alfred-Straße 98, 47226 Duisburg（官网）",
+   "accounts": "个体经营不公开",
+   "accounts_due": "",
+   "size_band": "微型（业主 + 数人）",
+   "officers": [
+    "Nuri SAHIN — Inhaber（业主）= 研究档 KP → **老板 = 联系人**"
+   ],
+   "psc": "Nuri Sahin 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人、杜伊斯堡个体安防装机商（Dahua 线）**：需求是摄像项目配套 PoE 交换机 → 零售档 / 集成 25%：STC-028GP / STC-2024GP、4–8 口非管理 PoE；MOQ 1 箱、100% 预付；德国 Impressum 法定披露可补 USt-IdNr.",
+    "个体经营无信用公开 → 不做账期；DAP 德国小件走 Saga 百运网线"
+   ],
+   "notes": "据第 79 批研究档入库；无新检索。",
+   "fetched": "2026-10-27",
+   "code": "SA-075"
   }
  }
 }

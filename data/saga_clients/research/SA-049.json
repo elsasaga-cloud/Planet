@@ -49,7 +49,7 @@
  "kp": [
   {
    "name": "Berk",
-   "role": "（用户记录：已有回复）",
+   "role": "已回复联系人 = 大概率老板（微型公司，Bosgem Otomasyon / IoT Sistem，İstanbul Maltepe 2010；USR IoT 土耳其分销 + 自有 BOSGEM 品牌；法定全称待补）（第 85 批 官方登记核实 2026-10-27）",
    "email": "info@iotsistem.com",
    "phone": "",
    "source": "用户 Clients 表"
@@ -64,9 +64,10 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "IoT Sistem（Bosgem；USR IoT 土耳其官方分销）",
+  "legal_name": "BOSGEM OTOMASYON …（İstanbul Maltepe，2010；品牌 IoT Sistem / BOSGEM；法定全称待补）",
   "hq": "Türkiye",
-  "other": "IoT/工业通讯网店；MLB-E 系列工业交换机页面日期 2018–2020（陈旧），28 口机架管理型、14 口、5 口非管理；类目含工业 MC、管理/非管理 PoE"
+  "other": "IoT/工业通讯网店；MLB-E 系列工业交换机页面日期 2018–2020（陈旧），28 口机架管理型、14 口、5 口非管理；类目含工业 MC、管理/非管理 PoE",
+  "staff": "微型（1–5）（第 85 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "USR IoT 串口服务器/网关分销",

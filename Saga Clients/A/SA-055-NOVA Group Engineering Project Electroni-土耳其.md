@@ -94,6 +94,24 @@ updated: 2026-10-27
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 85 批（Türkiye · 官网 TSE 服务站清单 PDF（2024-08，含登记全称 + 进口商身份）+ ZoomInfo / RocketReach 人员 + Facebook 公司页 + 官网 İletişim（2025-12），2026-10-27 查；https://www.novacom.com.tr/wp-content/uploads/2024/08/NOVA-TS-10956-SERVIS-LISTESI.pdf）：**
+
+- 法定名 / 登记号：NOVA GRUP MÜHENDİSLİK PROJE ELEKTRİK ELEKTRONİK İLETİŞİM SİSTEMLERİ İNŞAAT VE TEKSTİL SANAYİ TİCARET LİMİTED ŞİRKETİ（Novacom Technology） · Ankara Ticaret Sicil（号待补）· TSE 服务站清单（TS 10956）在册进口商 · 状态 **经营中（官网 2025-12；ZoomInfo 2023–2025 入职记录）** · 成立 2002（官网自述） · Limited Şirketi（Ltd. Şti.）· 私人持有 · 登记名含「建筑 + 纺织」（多元章程）
+- 行业码 / 经营范围：弱电 / 安防系统进口批发：摄像机、报警、数据网络、光纤、卫星、消防、对讲 —— Facebook 自述「ithalat firması」（进口商）；Novacom 为自有品牌；门店 / 据点 Ankara 总部 + İstanbul + İzmir + Şanlıurfa（+ 伦敦联络）
+- 注册地址：Aşağı Öveçler Mah. 1332 Cad. No:8/1-3-5-7, Çankaya / Ankara
+- 规模档：35–36 人（RocketReach）；ZoomInfo 11–50
+- 账目：非上市不公开；RocketReach 估 $16.9M（仅供参考）
+- 高管：Cem AYTAÇ — Genel Müdür（总经理，RocketReach）→ 拍板人
+- 高管：Ali PEKYÜREK — 研究档 KP（职务未在名录出现；疑采购 / 产品经办）
+- 高管：Erdal ÖZCAN — Satış Müdürü（2023 起）；Ali TAŞKIN — Proje ve Satış Müdürü；Erdal TÜRKOĞLU — Teknik Sorumlu；Esra GÜNEŞ — 销售（2022 起）
+- 控制人 / 股东：待补（Ltd. Şti. 股东需 Ticaret Sicil Gazetesi）
+- **这意味着什么：**
+  - **自认「进口商」+ 自有品牌 Novacom + 4 城门店 + TSE 售后服务站备案**：这是土耳其安防渠道里「有进口经验的品牌分销商」= 目标顺位第 2 → OEM 30% 线（Novacom 标 PoE 交换机配其摄像机 / NVR），或分销 20% 档走 Saga 标
+  - 联系人 Ali Pekyürek 不是总经理（Cem Aytaç）：信给 Pekyürek、抄 info@；内容是「Novacom-branded PoE switch line」一页纸，让他能转给 Genel Müdür
+  - TSE 服务站备案意味着他们对进口产品做本地售后承诺 → 看重 3 年质保 + 备件 / 返修政策：报价里写清 DOA 换新 + 备件比例
+  - 安防批发商付款习惯 vadeli；我们坚持 T/T 30/70；Ramazan（2027-02/03）前后两周避开
+- 备注：高管 / 股东待补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -151,17 +169,18 @@ updated: 2026-10-27
 - **【官网】NVC-HIF2422GBL-C 规格**
   > 24 PoE destekli Fast Ethernet portu, 2 Gigabit uplink portu ve 2 SFP combo portu … Toplam PoE güç kapasitesi: 400W … AI Watchdog
   > 来源：https://www.novacom.com.tr/urun/nvc-hif2422gbl-c-poe-switch（抓取 2025-06-20）
-- **KP**：Ali Pekyürek（CEO（用户记录））ali@nova-grup.com +90 533 715 9226（用户记录）〔用户 Clients 表（ISAF 2025 现场）〕
+- **KP**：Ali Pekyürek（**非 Genel Müdür**（用户记录「CEO」待修正）：Genel Müdür 为 Cem Aytaç；Ali Pekyürek 为管理层 / 股东待核；Nova Grup Mühendislik（Ankara 2002）= 进口商 + 自有品牌 Novacom + 4 城门店 + TSE 服务站，35–36 人（第 85 批 官方登记核实 2026-10-27））ali@nova-grup.com +90 533 715 9226（用户记录）〔用户 Clients 表（ISAF 2025 现场）〕
+- **KP**：Cem Aytaç（Genel Müdür（总经理；官网 TSE 服务站清单 / ZoomInfo）= 拍板人（第 85 批 官方登记核实 2026-10-27）） 〔https://www.zoominfo.com/c/nova-grup/1319836017〕
 - 备注：土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 NVC 自有品牌目录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Nova Grup Mühendislik（Novacom Technology） |
+| 法定名称 | NOVA GRUP MÜHENDİSLİK … LTD. ŞTİ.（Ankara，2002；品牌 Novacom） |
 | 成立 | 2002 |
 | 总部/地址 | Ankara（总部）+ İstanbul |
-| 人数 | 27–35 |
+| 人数 | 35–36（第 85 批 官方登记核实 2026-10-27） |
 | 营收 | 估 $7.8–16.9M |
 | 其他 | novacom.com.tr 已有自有品牌 NVC- 交换机全线：非管理 AI PoE（NVC-PSE0820G 8 FE PoE+2 GE 120W、NVC-PSE1621G 16 FE PoE+2 GE+1 SFP 300W、NVC-HIF0821GBL/0820GBL-C、HIF1621GBL-C 250W、HIF2422GBL-C 24 FE PoE 400W）、对讲 24V PoE、管理型 NVC-S5848GM-AP（L2+/L3 系列 8–52 口，ERPS/SNMP）；Hepsiburada 在售 ND1P802LF |
 
@@ -267,7 +286,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ali Pekyürek | CEO（用户记录） | ali@nova-grup.com / +90 533 715 9226（用户记录） | 调研核实（公开页） | 用户 Clients 表（ISAF 2025 现场） |
+| Ali Pekyürek | **非 Genel Müdür**（用户记录「CEO」待修正）：Genel Müdür 为 Cem Aytaç；Ali Pekyürek 为管理层 / 股东待核；Nova Grup Mühendislik（Ankara 2002）= 进口商 + 自有品牌 Novacom + 4 城门店 + TSE 服务站，35–36 人（第 85 批 官方登记核实 2026-10-27） | ali@nova-grup.com / +90 533 715 9226（用户记录） | 调研核实（公开页） | 用户 Clients 表（ISAF 2025 现场） |
+| Cem Aytaç | Genel Müdür（总经理；官网 TSE 服务站清单 / ZoomInfo）= 拍板人（第 85 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.zoominfo.com/c/nova-grup/1319836017 |
 | Ali Pekyurek | Product Manager | ali@nova-grup.com / info@nova-grup.com / +905337159226 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

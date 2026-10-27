@@ -85,6 +85,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 85 批（阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究档），2026-10-27 查；）：**
+
+- 法定名 / 登记号：Al Salami Trading L.L.C.（AST；原 Al Salami Trading Establishment, ASTE） · — · 状态 **（登记状态不可免费核）** · 成立 1989（创始人/董事长 Rashid Al Salami） · —
+- 行业码 / 经营范围：Al Salami 集团成员，原址沙迦；业务：CCTV、门禁、道闸/大门、有线/无线报警 的设计/集成/安装/维护；官网主打「Dubai trusted CCTV company 报价」
+- 注册地址：Shop 8, Bin Soqat (Bin Sougat) Building, Al Twar Road, opp. Airport Terminal 2, Dubai；P.O. Box 27640（+971 4 265 0333 / 265 0303）
+- 规模档：10–19（Kompass）/ 11–50（LinkedIn，2,183 followers）
+- 账目：—
+- 高管：Rashid Al Salami — Chairman / Founder（官网 About）（研究档）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **本轮无免费官方登记源**（阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验））：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」
+  - 无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判
+- 备注：无免费登记源；下一轮若找到镜像再补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

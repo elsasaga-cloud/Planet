@@ -105,6 +105,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 85 批（智利 · 无统一公开登记（SII 仅 RUT 校验），mercantil.com 未测试；本行为「无登记源」记录（据第 79 批研究档），2026-10-27 查；）：**
+
+- 法定名 / 登记号：Energyplus Systems（energyplusystems.cl） · — · 状态 **（登记状态不可免费核）** · 成立 — · —
+- 行业码 / 经营范围：矿业/工业技术供应商网店（WooCommerce，CLP 含税标价）：变频器、软启动、矿用插头/电缆、PLC、传感器、4G 工业路由、Modbus-Profinet 网关、**工业交换机全系在售**；销售联系人 Ling Fuentes（官网公开）
+- 注册地址：6 ½ Oriente #270, Viña del Mar, Chile（+56 9 9218 8218；ventas@energyplusystems.cl）
+- 规模档：—
+- 账目：—
+- 高管：Ling（用户表） — 联系人（研究档）
+- 高管：Ling Fuentes — Ventas（销售，官网公开）（研究档）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **本轮无免费官方登记源**（智利 · 无统一公开登记（SII 仅 RUT 校验），mercantil.com 未测试）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」
+  - 无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判
+- 备注：无免费登记源；下一轮若找到镜像再补。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $ 130 ← 「000 Switch Ethernet Industrial No Administrable 5 puertos PoE 10/100/1000 Mbps Base-T IP40 a Riel DIN $ 130」（https://energyplusystems.cl/catalogo/iot-control-y-automatizacion/switch-ethernet/）

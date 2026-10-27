@@ -84,6 +84,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 85 批（Italia · 官网页脚（C.F./P.IVA 04527921219，2026）+ Kompass（成立 / 员工档 / 法律形式）+ LinkedIn + snewsonline 公司档 + 官网 Home（ISO 9001/14001/45001），2026-10-27 查；https://www.4power.it/content/8-richiesta-registrazione）：**
+
+- 法定名 / 登记号：4POWER S.R.L.（自有品牌 4Net；Planet 意大利官方分销） · C.F. / P.IVA 04527921219（REA NA 号待补） · 状态 **Attiva（官网 2026 更新）** · 成立 2003（Kompass 登记年 / LinkedIn） · S.r.l. · 私人持有；自述以「Holding + 事业部」运作（4Net 有源 / 4Net 机柜与无源 / Planet 分销 / Acome 电缆 / UPS）；ISO 9001 / 14001 / 45001
+- 行业码 / 经营范围：B2B 专业分销 + 自有品牌制造商（结构化布线、网络、视频监控、UPS）：4Net 有源网络设备「di nostra produzione」（即 ODM 贴牌：工业 Gigabit PoE 光纤交换机、工业媒体转换器、Ultra PoE 分离器）；Planet Technology 意大利官方分销商；面向电气材料分销、VAR、系统集成商
+- 注册地址：Via Paolo Borsellino 123, 80025 Casandrino (NA)
+- 规模档：10–19 人（Kompass）；LinkedIn 11–50
+- 账目：财务数字需 Registro Imprese 镜像按 P.IVA 查（本轮两次搜索仅得 P.IVA，下一轮用 ufficiocamerale 直搜 04527921219）；意大利年报 7–8 月公示
+- 高管：Pasquale PIROZZI — Direzione Generale（总经理 / 大概率创始合伙人）= 研究档 KP → 拍板人直接在线（但 17 封 0 开）
+- 高管：Gaetano CHIAESE — Technical Networking Manager（4Net 产品技术负责人，研究档收件人 g.chiaese@）
+- 控制人 / 股东：待补（visura）
+- **这意味着什么：**
+  - **自有品牌 4Net 的有源线就是 ODM 贴牌 + 同时是 Planet 意大利官方分销**：他们需要的是「4Net 工业 PoE / 光纤交换机的第二货源」（研究档已判）→ OEM 30% 线；但邮件 17 封 0 打开（cadence 不主动）—— 登记信息只用来把下一次触达写准：收件人改成 Gaetano Chiaese（技术选型人）而不是 direzione@
+  - ISO 9001/14001/45001 三体系 → 供应商审核正规：先给工厂资料 + CE / RoHS / REACH + 样机测试报告，再谈价；Planet 分销身份意味着他们知道 Planet 价位 → 我们工业款（STI 系列）报价要在 Planet 同规格 −25% 以上才有吸引力
+  - 10–19 人的「Holding」= 老板 Pirozzi 说了算；付款首单 T/T 预付、复购 30/70
+  - 下一轮：ufficiocamerale 按 P.IVA 04527921219 补营收 / 净利 / 股东
+- 备注：财务待补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,7 +143,8 @@ updated: 2026-10-27
 - **【行业媒体】定位「专业分销商而非多品牌分销」，B2B 间接渠道**
   > 4Power nasce nel 2003 fondata da un gruppo di tecnici, progettisti e commerciali … puntando sul ruolo di distributore specialista e non distributore multimarca. L'offerta 4Power è centrata sul "business to business"
   > 来源：https://www.snewsonline.com/aziende/4power/（抓取 2026-10-19）
-- **KP**：Pasquale Pirozzi（） +39 081 8193441〔https://www.cylex-italia.it/casandrino/4power-srl-10110617.html〕
+- **KP**：Pasquale Pirozzi（Direzione Generale（总经理，LinkedIn；大概率创始合伙人 / 老板）= 拍板人（但 17 封 0 开）（第 85 批 官方登记核实 2026-10-27）） +39 081 8193441〔https://www.cylex-italia.it/casandrino/4power-srl-10110617.html〕
+- **KP**：Gaetano Chiaese（Technical Networking Manager（4Net 有源产品技术负责人；研究档收件人 g.chiaese@）（第 85 批 官方登记核实 2026-10-27））g.chiaese@4power.it 〔https://it.linkedin.com/company/4power-srl〕
 - **调研后定级**：A（原自动 B）——Planet 渠道档案 PA-001 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -134,8 +152,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | 4Power S.r.l. |
+| 法定名称 | 4POWER S.R.L.（C.F./P.IVA 04527921219；Casandrino NA；2003；ISO 9001/14001/45001；自有品牌 4Net + Planet 意大利官方分销） |
 | 总部/地址 | Casandrino (NA), 意大利 |
+| 人数 | 10–19（Kompass）（第 85 批 官方登记核实 2026-10-27） |
 | 其他 | Planet 渠道档案 PA-001（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：是（4Net 网络产品、Eurogroup UPS、4Net Cabling）；最大未知：4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核） |
 
 - **业务线**：方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销
@@ -244,7 +263,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pasquale Pirozzi | — | +39 081 8193441 | 调研核实（公开页） | https://www.cylex-italia.it/casandrino/4power-srl-10110617.html |
+| Pasquale Pirozzi | Direzione Generale（总经理，LinkedIn；大概率创始合伙人 / 老板）= 拍板人（但 17 封 0 开）（第 85 批 官方登记核实 2026-10-27） | +39 081 8193441 | 调研核实（公开页） | https://www.cylex-italia.it/casandrino/4power-srl-10110617.html |
+| Gaetano Chiaese | Technical Networking Manager（4Net 有源产品技术负责人；研究档收件人 g.chiaese@）（第 85 批 官方登记核实 2026-10-27） | g.chiaese@4power.it | 调研核实（公开页） | https://it.linkedin.com/company/4power-srl |
 
 - **通道建议**：企业邮箱可直发
 

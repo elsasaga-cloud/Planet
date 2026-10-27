@@ -95,6 +95,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 85 批（泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档），2026-10-27 查；）：**
+
+- 法定名 / 登记号：Success Network and Communication Co., Ltd.（บริษัท ซัคเซส เน็ตเวิร์ค แอนด์ คอมมิวนิเคชั่น จำกัด，注册号 0105554082806） · — · 状态 **（登记状态不可免费核）** · 成立 2011-06-24，注册资本 1,000 万泰铢 · —
+- 行业码 / 经营范围：官网 2025-11 更新（改版完成）：品牌 TVT、Scene/IR、Uni-Ubi、ICT、Vissonic、ITC、**Planet（L3 / L2 / Industrial Switch 三类目）**、ORing、Trendnet、Wi-Tek、W-LINK、C-DATA、Asustor、Shuttle、RFID、MW、WINEXT；ORing APAC 官方经销名录与 Edgecore 亚太 reseller 名录均列出；Line @success_network
+- 注册地址：12 Soi Sukhaphiban 5 Soi 5 Yaek 3, Tha Raeng, Bang Khen, Bangkok 10220（Tel 02-973-1966 / 081-659-4477；info@success-network.co.th）；注册地 81/19 Nawamin Rd, Khlong Kum, Bueng Kum, Bangkok 10240
+- 规模档：—
+- 账目：—
+- 高管：（Sawithree，姓氏未公开） — ORing 经销名录联系人（销售窗口）；地址 2026-10-20 永久退信（550 No such recipient）→ 失效（研究档）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **本轮无免费官方登记源**（泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」
+  - 无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判
+- 备注：无免费登记源；下一轮若找到镜像再补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

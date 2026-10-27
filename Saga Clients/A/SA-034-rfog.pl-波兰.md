@@ -84,6 +84,22 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 85 批（Polska · CEIDG 公开条目（aplikacja.ceidg.gov.pl）+ monitorfirm / GoWork / Targeo 镜像 + 官网 Kontakt（NIP / REGON / VAT UE 自报）+ gov.pl ARiMR 供应商名单，2026-10-27 查；https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/searchdetails.aspx?id=cc8bc4bd-72d9-4047-a1df-f1ba8be824b9）：**
+
+- 法定名 / 登记号：RFOG POLAND TOMASZ PASZKOWSKI（个体经营；商号 RFoG / P.H.U. RFoG） · NIP 8571157213 · REGON 811833063 · VAT UE PL8571157213 · 状态 **Aktywna（CEIDG；官网在线）** · 成立 2011-02-22（CEIDG 开业日） · Jednoosobowa działalność gospodarcza（个体经营，自然人 Tomasz Paszkowski）
+- 行业码 / 经营范围：PKD 46.52 电子 / 通信设备批发：光纤无源 + 有源（媒体转换器、SFP、交换机；自有 RF- 前缀贴牌，同时卖 PLANET / MOXA）；网店 3,000+ SKU；**另一条业务：动物标识（znakowanie zwierząt）—— 列入农业重组现代化局（ARiMR）官方供应商名单第 5 位**
+- 注册地址：ul. Starogrodzka 1/2（名录另见 12）, 72-300 Gryfice, zachodniopomorskie
+- 规模档：个体经营（老板 + 数人）；15 年经营
+- 账目：个体经营不公开财报
+- 高管：Tomasz PASZKOWSKI — 业主（CEIDG 登记自然人）= 研究档 KP → **老板 = 联系人**（tomasz.paszkowski@rfog.pl）
+- 控制人 / 股东：Tomasz Paszkowski 100%（个体）
+- 曾用名：Przedsiębiorstwo Handlowo-Usługowe RFoG Tomasz Paszkowski（名录旧称）
+- **这意味着什么：**
+  - **老板 = 联系人、个体经营 15 年、网店 3,000+ SKU、自有 RF- 贴牌 + 卖 PLANET / MOXA**：典型「一人光通信批发商」—— 他要的是 RF- 标的媒体转换器 / 小交换机货源（研究档判 N-Net 来源）→ 我们只能供交换机（不供媒体转换器 / SFP）：报 RF- 贴标的 PoE / 工业小端口款（STC-028GP / STI-054GP / STI-154GP）OEM 30% 但按分销量起
+  - 个体经营 → 无公司信用：100% 预付 T/T，MOQ 1 箱；VAT UE 有效，可自行清关（波兰 / 欧盟）
+  - 副业「动物标识耳标」是 ARiMR 政府供应商 —— 说明有政府投标 / 发票合规经验，付款守信但对价格极敏感
+  - 波兰 7 月 / 圣诞前两周避开；群发节奏即可
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,14 +144,14 @@ updated: 2026-10-27
 - **【官网】RF-GP2408PGM 4 口工业管理 PoE**
   > RF-GP2408PGM-INDU-POE-NNT to 6-portowy przełącznik przemysłowy PoE, który obsługuje do 4 * 10/100/1000M portów PoE, 1 * 10/100/1000M port uplink i 2 * 1000M SFP
   > 来源：https://www.rfog.pl/produkt,3330,przemyslowy-zarzadzalny-przelacznik-switch-gigabit-2xsfp-1000m-4xeth-10-100-1000m-30w-poe-rf-gp2408pgm-indu-poe-nnt（抓取 2026-10-21）
-- **KP**：Tomasz Paszkowski（联系人（用户表邮箱））tomasz.paszkowski@rfog.pl +48 602 794 466（官网）〔Clients/A/DONE/PL.xlsx〕
+- **KP**：Tomasz Paszkowski（业主（CEIDG 个体经营 RFOG POLAND TOMASZ PASZKOWSKI，2011-02-22；NIP 8571157213 · REGON 811833063）= 老板 = 联系人；兼 ARiMR 动物标识政府供应商（第 85 批 官方登记核实 2026-10-27））tomasz.paszkowski@rfog.pl +48 602 794 466（官网）〔Clients/A/DONE/PL.xlsx〕
 - 备注：A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-GP2803PGM ≈ STI-288DGGPM（8GE PoE + 2SFP 工业网管），20% 分销 / 贴牌 30%；MC 对位 STI-110GE。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | RFoG（rfog.pl） |
+| 法定名称 | RFOG POLAND TOMASZ PASZKOWSKI（CEIDG 个体经营；NIP 8571157213 · REGON 811833063 · VAT UE PL8571157213；Gryfice；2011-02-22）（第 85 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Poland |
 | 其他 | 光通信分销商，自有 RF- 型号前缀贴牌（-NNT = N-Net 来源），同时卖 PLANET、MOXA；网店产品 ID 3000+ |
 
@@ -257,7 +273,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tomasz Paszkowski | 联系人（用户表邮箱） | tomasz.paszkowski@rfog.pl / +48 602 794 466（官网） | 调研核实（公开页） | Clients/A/DONE/PL.xlsx |
+| Tomasz Paszkowski | 业主（CEIDG 个体经营 RFOG POLAND TOMASZ PASZKOWSKI，2011-02-22；NIP 8571157213 · REGON 811833063）= 老板 = 联系人；兼 ARiMR 动物标识政府供应商（第 85 批 官方登记核实 2026-10-27） | tomasz.paszkowski@rfog.pl / +48 602 794 466（官网） | 调研核实（公开页） | Clients/A/DONE/PL.xlsx |
 | Tomasz | — | bok@rfog.pl / tomasz.paszkowski@rfog.pl / +48602794466 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

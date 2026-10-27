@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 2
+  "count": 4
  },
  "rows": {
   "SA-070": {
@@ -75,6 +75,74 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SA-072"
+  },
+  "SA-081": {
+   "batch": 85,
+   "name": "4POWER S.R.L.（自有品牌 4Net；Planet 意大利官方分销）",
+   "iso": "IT",
+   "source": "Italia · 官网页脚（C.F./P.IVA 04527921219，2026）+ Kompass（成立 / 员工档 / 法律形式）+ LinkedIn + snewsonline 公司档 + 官网 Home（ISO 9001/14001/45001）",
+   "url": "https://www.4power.it/content/8-richiesta-registrazione",
+   "number": "C.F. / P.IVA 04527921219（REA NA 号待补）",
+   "status": "Attiva（官网 2026 更新）",
+   "incorporated": "2003（Kompass 登记年 / LinkedIn）",
+   "company_type": "S.r.l. · 私人持有；自述以「Holding + 事业部」运作（4Net 有源 / 4Net 机柜与无源 / Planet 分销 / Acome 电缆 / UPS）；ISO 9001 / 14001 / 45001",
+   "sic": [
+    "B2B 专业分销 + 自有品牌制造商（结构化布线、网络、视频监控、UPS）：4Net 有源网络设备「di nostra produzione」（即 ODM 贴牌：工业 Gigabit PoE 光纤交换机、工业媒体转换器、Ultra PoE 分离器）；Planet Technology 意大利官方分销商；面向电气材料分销、VAR、系统集成商"
+   ],
+   "address": "Via Paolo Borsellino 123, 80025 Casandrino (NA)",
+   "accounts": "财务数字需 Registro Imprese 镜像按 P.IVA 查（本轮两次搜索仅得 P.IVA，下一轮用 ufficiocamerale 直搜 04527921219）",
+   "accounts_due": "意大利年报 7–8 月公示",
+   "size_band": "10–19 人（Kompass）；LinkedIn 11–50",
+   "officers": [
+    "Pasquale PIROZZI — Direzione Generale（总经理 / 大概率创始合伙人）= 研究档 KP → 拍板人直接在线（但 17 封 0 开）",
+    "Gaetano CHIAESE — Technical Networking Manager（4Net 产品技术负责人，研究档收件人 g.chiaese@）"
+   ],
+   "psc": "待补（visura）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 4Net 的有源线就是 ODM 贴牌 + 同时是 Planet 意大利官方分销**：他们需要的是「4Net 工业 PoE / 光纤交换机的第二货源」（研究档已判）→ OEM 30% 线；但邮件 17 封 0 打开（cadence 不主动）—— 登记信息只用来把下一次触达写准：收件人改成 Gaetano Chiaese（技术选型人）而不是 direzione@",
+    "ISO 9001/14001/45001 三体系 → 供应商审核正规：先给工厂资料 + CE / RoHS / REACH + 样机测试报告，再谈价；Planet 分销身份意味着他们知道 Planet 价位 → 我们工业款（STI 系列）报价要在 Planet 同规格 −25% 以上才有吸引力",
+    "10–19 人的「Holding」= 老板 Pirozzi 说了算；付款首单 T/T 预付、复购 30/70",
+    "下一轮：ufficiocamerale 按 P.IVA 04527921219 补营收 / 净利 / 股东"
+   ],
+   "notes": "财务待补。",
+   "fetched": "2026-10-27",
+   "code": "SA-081"
+  },
+  "SA-083": {
+   "batch": 85,
+   "name": "KYMA S.R.L.（Planet & 3onedata 意大利分销商）",
+   "iso": "IT",
+   "source": "Italia · Registro Imprese 镜像（ufficiocamerale / fatturatoitalia / registroaziende / atoka / topaziende 6 年营收）+ 官网（2026-01）+ la Repubblica 专题（2023-06，家族经营）+ LinkedIn",
+   "url": "https://www.ufficiocamerale.it/5650/kyma-srl",
+   "number": "P.IVA / C.F. 01612520351 · REA RE-199577 · PEC kymasrl@legalmail.it · SDI KRRH6B9",
+   "status": "Attiva（经营中）",
+   "incorporated": "1995-03-20（登记；atoka 31 年）",
+   "company_type": "S.r.l. · 股本 €10,329.13（老里拉资本折算）· 家族经营（Zisios 兄妹）",
+   "sic": [
+    "ATECO 46.52.09 / 46.50.20 通信设备批发：直接进口 + 全国分销网络产品（Planet、3onedata 工业以太网）给分销商与系统集成商，民用 + 工业"
+   ],
+   "address": "Via Bernardino Zacchetti 31, 42124 Reggio Emilia（注册）；Via Masaccio 6, 42124 Reggio Emilia（运营）",
+   "accounts": "营收 2019 €1.78M → 2020 €2.04M → 2021 €2.21M → 2022 €2.96M → 2023 €3.63M → 2024 €3.52M（−2%）；净利 2022 €118k / 2023 €192k / 2024 €216k（利润率 6.1%）",
+   "accounts_due": "意大利年报 7–8 月公示",
+   "size_band": "3–5 人（2026：3）；人均营收 >€1M",
+   "officers": [
+    "Davide ZISIOS — 兄妹共同经营（la Repubblica：「guidata dai fratelli Davide e Mara Zisios」）= 研究档 KP → **老板 = 联系人**",
+    "Mara ZISIOS — 兄妹共同经营（LinkedIn：进口 / 分销）"
+   ],
+   "psc": "Zisios 家族（visura 待补）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（Davide Zisios，兄妹家族公司），3 人做 €3.5M、利润率 6%、五年翻倍**：这是意大利最健康的小进口商 —— 直接进口、现金好、决策一人；他们已是 3onedata（三旺）工业以太网的意大利分销 → 我们工业 STI 系列直接对标三旺价位（分销 20% 档），卖点 Marvell 芯片 + 3 年质保 + 小单灵活",
+    "同时是 Planet 分销：商用 L2/L3 他们有 Planet，别硬推；切入点是「工业 PoE / 2.5G / 10G 光口」里 Planet 价高的型号（STI-480XGGM、STI-288DGGPM-2BT、2.5G HRUI STC-114XGDGP）",
+    "付款：首单 T/T 预付，复购 30/70；意大利 8 月全停、年报 7 月 —— 2026-11 / 2027-01 为窗口",
+    "股东 / 法定代表需 visura（€6.80）：下一轮不花钱，维持「兄妹经营」口径"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-083"
   }
  }
 }

@@ -64,7 +64,7 @@
   },
   {
    "name": "김우경（Kim Woo-kyung）",
-   "role": "代表（법인 대표）",
+   "role": "대표이사（CEO / 创始人）= 老板 = 联系人；(주)이지넷유비쿼터스 2006-04-04 法人登记（2004 开业），사업자 106-86-42660，44 人，2024 营收 251.6 억원（≈ $18M）、品牌 NEXT 约 1,000 SKU（第 85 批 官方登记核实 2026-10-27）",
    "email": "marketing@ez-net.co.kr",
    "phone": "+82 2-715-0372",
    "source": "https://nextu.kr/article/q-a/6/12691"
@@ -77,10 +77,11 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXTU / NEXTLINK）",
+  "legal_name": "(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（사업자등록번호 106-86-42660；2006-04-04；서울 용산구；资本金 5,000 만원）",
   "founded": "2004",
   "hq": "Seoul, Korea",
-  "other": "自有品牌约 1,000 SKU；官网目录含「산업용 PoE 스위치허브」L2/L3/보안/BT/비관리 五类；自营商城 nextu.kr 明码标价"
+  "other": "自有品牌约 1,000 SKU；官网目录含「산업용 PoE 스위치허브」L2/L3/보안/BT/비관리 五类；自营商城 nextu.kr 明码标价",
+  "staff": "43–44（국민연금 2026）；2024 营收 251.6 억원（第 85 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "工业以太网/PoE 交换机（L2/L3/安全功能/bt 高功率/非管理）",

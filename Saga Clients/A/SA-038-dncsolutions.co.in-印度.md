@@ -99,6 +99,24 @@ updated: 2026-10-27
 - 法定假日：01-26 Republic Day；03-06 Maha Shivaratri；03-10 Eid al-Fitr (estimated)；03-22 Holi；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 85 批（India · MCA 登记（Zauba Corp 镜像），2026-10-27 查；https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130）：**
+
+- 法定名 / 登记号：DNC TECHNOSOLUTIONS PRIVATE LIMITED · CIN U33125KL2013PTC034130 · RoC Ernakulam · 注册号 34130 · 状态 **Active（最近 AGM 2023-12-30；资产负债表最后申报至 2023-03-31 → 2024 / 2025 年报疑未按时申报）** · 成立 2013-05-20（MCA） · Private company limited by shares · 非政府 · 法定 / 实缴资本各 ₹100,000（最低额）
+- 行业码 / 经营范围：NIC 3312（测量 / 检测仪器制造）—— 实际为自有品牌 DNC 光纤无源 + 光端机 / 媒体转换器 / KVM / 4-PoE+1-FX 交换机制造商（研究档）
+- 注册地址：XVIII/127K, L&M Pallimattom Towers, Binanipuram P.O., Edayar, Ernakulam, Kerala 683502
+- 规模档：小型（实缴 ₹1 lakh；7 名历任 KMP）
+- 账目：MCA 年报最后申报 FY2022-23；数字需付费；印度 AGM 9-30 / 年报 10–11 月
+- 高管：LAKSHMAN Lakshmannivas DEEPAK — Director（DIN 06562153，2013-05-20 创立至今）= 唯一在任创始董事 → 实控人
+- 高管：NOMITHA Soundrarajan — Whole-time Director（DIN 10206594，2023-07-13 起；2023-09 由 Additional 转正）
+- 高管：已离任：Akshith Thomas Joseph（MD，2017-09 离）、Noushad K. Najumudheen（2016-02 离）、C. S. Krishnankutty（2020-04 离）、Prasad Thekkamcheril（WTD，2023-06 离）→ 创始团队 5 人只剩 Deepak
+- 高管：研究档 KP 「—」
+- 控制人 / 股东：Lakshman Deepak（推定；股东名单需 MCA 付费）
+- **这意味着什么：**
+  - **实控人 = 创始董事 Lakshman Deepak（合伙人陆续退出，2023 新任全职董事 Nomitha）**：收件人写 Deepak（Director）；2023 年管理层重组后可能在找新供应商 → 窗口
+  - **MCA 年报停在 FY2022-23、实缴资本最低档 ₹1 lakh**：合规拖欠 + 资本薄 → 只做 100% 预付 T/T；别投入定制模具
+  - 自有品牌 DNC 光纤 / 光端机制造商，已有 4-PoE+1-FX 交换机 → 需要的是补全 8/16/24 口 PoE + 光口管理型（STC-228GP / STC-2024GP / STI 工业款）贴 DNC 标 → OEM 30% 但量小按分销价起谈
+  - 印度进口需 BIS（证书规则）—— 由他们以进口商身份办；Diwali（2026-11-08 前后）/ 财年 3 月底避开
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -137,13 +155,14 @@ updated: 2026-10-27
   > Established in the year 2011, DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products and Technology … Data to Fiber converters, Video to Fiber Converter , Telephone to Fiber Converters , SFP Modules , MPO Systems
   > 来源：https://www.dncsolutions.co.in/（抓取 2026-10-21）
 - **KP**：—（官网公开电话（WhatsApp 已加）） +91 96561 23414〔https://www.dncsolutions.co.in/〕
+- **KP**：Lakshman Lakshmannivas Deepak（Director（DIN 06562153，2013-05-20 创立至今，唯一在任创始董事）= 实控人；Whole-time Director Nomitha Soundrarajan（2023-07）；MCA 年报停在 FY2022-23（第 85 批 官方登记核实 2026-10-27）） 〔https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130〕
 - 备注：A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | DNC Technosolutions Pvt. Ltd. |
+| 法定名称 | DNC TECHNOSOLUTIONS PRIVATE LIMITED（CIN U33125KL2013PTC034130；2013-05-20；Ernakulam Kerala；实缴 ₹1 lakh）（第 85 批 官方登记核实 2026-10-27） |
 | 成立 | 2011（IndiaMART 另见 2013） |
 | 总部/地址 | Binanipuram P.O., Edayar, Ernakulam, Kerala（+91 96561 23414）；另见 48/425-P, Raghavan Pillai Road, Edappally, Ernakulam 682026 |
 | 其他 | 自有品牌 DNC 光纤产品制造商：跳线/尾纤/适配器/分路器/配线架/MPO 系统、数据 MC（MC-10100G 千兆双纤 ₹3,379）、视频光端机（4ch TVI/CVI/AHD）、电话光端机、HDMI+USB KVM 光端机（DNC-KVM-HV，FCC/CE）、SFP、**DNC 4-PoE + 1-FX 交换机（IndiaMART 在售）** |
@@ -238,6 +257,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 官网公开电话（WhatsApp 已加） | +91 96561 23414 | 调研核实（公开页） | https://www.dncsolutions.co.in/ |
+| Lakshman Lakshmannivas Deepak | Director（DIN 06562153，2013-05-20 创立至今，唯一在任创始董事）= 实控人；Whole-time Director Nomitha Soundrarajan（2023-07）；MCA 年报停在 FY2022-23（第 85 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

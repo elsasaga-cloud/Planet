@@ -372,7 +372,7 @@
    "p1": "STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-014": {
@@ -658,7 +658,7 @@
    "p1": "CENTEC 全 L3：他 2024-05-09 要的「1U full L3，24 铜 + 8 光 + QSFP+ 上联」= STH-2QX4DX24GE-HSI（24×1G + 4×25G SFP28 + 2×40G QSFP+，OSPF/BGP/MPLS/VXLAN，双热插拔 PSU；仓内无价 Q-54）；10G 汇聚另有 STH-2C24XF-HSI（2026-06 对 FiberX 报 $1,250 含 MA 许可；群发 $1,500）——仅当 Mark 对 Broadcom 松口",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-027": {
@@ -746,7 +746,7 @@
    "p1": "STC-424DGGM 类 24+4（对位 SN-GS2300-28F）",
    "tier": 30,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-031": {
@@ -922,7 +922,7 @@
    "p1": "STI-110GE",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-039": {
@@ -1296,7 +1296,7 @@
    "p1": "STI-288DGGPM",
    "tier": 25,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-056": {
@@ -1868,7 +1868,7 @@
    "p1": "STC-28DGGPM（4Net 贴牌）",
    "tier": 20,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-082": {

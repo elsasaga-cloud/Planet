@@ -102,6 +102,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 85 批（USA · NJ 学区供应商报告（Red Bank BOE OPRA PDF，含税号）+ NJASA 会员名录（2017–2019）+ LinkedIn / Yelp / Datanyze / SignalHire / D&B 摘要 + 官网（2025-12），2026-10-27 查；https://opramachine.com/request/39368/response/70687/attach/4/01%2026%2023%20Redacted%20report.PDF.pdf）：**
+
+- 法定名 / 登记号：SOFTNETWORKS LLC（softnetworks.net） · New Jersey LLC（NJ 实体号待补）· 联邦税号 46-1347043（学区供应商报告） · 状态 **经营中（官网 2025-12、Yelp 2026-05 更新）** · 成立 2011（LinkedIn / Yelp「Established in 2011」；Datanyze 1998 口径为前身 / 域名） · LLC · 私人持有（所有人未公开；Neal Cennamo 为 VP）
+- 行业码 / 经营范围：新 / 翻新网络硬件转售（Cisco / Juniper / Brocade / Dell / HP）+ 回收过剩设备 + Chromebook / Apple 维修；主要客户 NJ K-12 学区（NJASA 联盟会员，学区供应商）；SIC 5099 / NAICS 54
+- 注册地址：20 Troy Rd, Ste 4, Whippany, NJ 07981
+- 规模档：18 人（Datanyze / ZoomInfo）；11–50
+- 账目：私人公司不公开；Datanyze 估 $4.5M / SignalHire $10–50M（不可信区间）；NJ 年报每年成立月
+- 高管：Neal CENNAMO — Vice President（2014 起；学区名录 / NJASA 唯一联系人 nealc@）= 研究档 KP → 对外总负责，**所有人身份待核**（NJ 不公开 LLC 成员）
+- 高管：其余公开人员均为维修技师
+- 控制人 / 股东：未公开（NJ LLC 成员不公示）
+- **这意味着什么：**
+  - **学区（K-12）供应商 + 翻新 Cisco 转售商**：买新交换机是为了给学区项目配「预算内的新设备」——我们的切入点是替代翻新 Cisco 的「全新 + 3 年质保 + 管理型」（STI-480XGGM / STC-448XGGPM / STC-2024GP 给 AP 与 IP 话机供电）→ 分销 20% 档
+  - 学区采购走采购单（PO）且按学年预算（7 月起新预算、春季报价）：2027 年 3–5 月报价窗口；首单仍 T/T 预付（他们对供应商付款是 Net 30，但我们是境外）
+  - Neal Cennamo 是对外唯一面孔但职务 VP：信里直接问「who signs off on new-equipment vendors」不合适 —— 用「for your school-network projects」口吻给他一份可内部转发的一页纸
+  - 对翻新市场出身的买家，强调 FCC / CE / RoHS、MAC 表 / VLAN / IGMP 等管理功能对标 Cisco SG 系列；不提 UL、不提 NDAA
+- 备注：NJ 实体号 / 成员需 NJ Business Records 付费，未做。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -139,18 +156,18 @@ updated: 2026-10-27
 - **【官网】2012 年 NJ 注册，初期专注 Cisco/Juniper/Aruba 网络硬件**
   > Softnetworks.net was incorporated in the State of NJ in 2012. Our initial primary focus was only on Networking Hardware solutions using hardware products from companies like Cisco, Juniper, Aruba and others.
   > 来源：https://softnetworks.net/about-us/（抓取 2025-10-12）
-- **KP**：Neal Cennamo（Vice President）nealc@softnetworks.net +1 201-636-7188（官网）〔用户 Clients 表 + Datanyze/官网〕
-- **KP**：Neal Cennamo（VP（用户表）；ZoomInfo：Softnetworks 2014 至今）nealc@softnetworks.net（用户表原值） +1 201-636-7188（公司总机）〔https://www.zoominfo.com/p/Neal-Cennamo/81956627〕
+- **KP**：Neal Cennamo（Vice President（2014 至今）= 采购拍板人；老板 / 成员待核（NJ LLC 不公开成员）；Softnetworks LLC 2011 年 NJ 注册，EIN 46-1347043，18 人，K-12 学区投标常客（Red Bank BOE 等）（第 85 批 官方登记核实 2026-10-27））nealc@softnetworks.net +1 201-636-7188（官网）〔用户 Clients 表 + Datanyze/官网〕
+- **KP**：Neal Cennamo（Vice President（2014 至今）= 采购拍板人；老板 / 成员待核（NJ LLC 不公开成员）；Softnetworks LLC 2011 年 NJ 注册，EIN 46-1347043，18 人，K-12 学区投标常客（Red Bank BOE 等）（第 85 批 官方登记核实 2026-10-27））nealc@softnetworks.net（用户表原值） +1 201-636-7188（公司总机）〔https://www.zoominfo.com/p/Neal-Cennamo/81956627〕
 - 备注：美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 目录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Softnetworks Inc.（Softnetworks, LLC） |
+| 法定名称 | SOFTNETWORKS LLC（New Jersey，2011；Whippany NJ；EIN 46-1347043） |
 | 成立 | 2012 注册（NJ）；LinkedIn 2011；IndustryNet 口径 1998 |
 | 总部/地址 | 20 Troy Rd, STE 4, Whippany, NJ 07981（+1 201-636-7188，info@softnetworks.net） |
-| 人数 | 11–50 |
+| 人数 | 18（第 85 批 官方登记核实 2026-10-27） |
 | 其他 | 网站 2025-10～2026-01 更新；交换机目录按 Cisco 2900/3500/3650/3700/3800/9200-9300/SG/INDUSTRIAL SWITCHES/N5K-N9K 分类（即 Cisco IE 系列翻新）；另有资产处置、租赁、Chromebook/Apple 维修 |
 
 - **业务线**：Cisco/Juniper/Aruba/Meraki/Brocade/Dell/HP 翻新件；工业交换机类目；Chromebook/Apple 维修
@@ -225,8 +242,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Neal Cennamo | Vice President | nealc@softnetworks.net / +1 201-636-7188（官网） | 调研核实（公开页） | 用户 Clients 表 + Datanyze/官网 |
-| Neal Cennamo | VP（用户表）；ZoomInfo：Softnetworks 2014 至今 | nealc@softnetworks.net（用户表原值） / +1 201-636-7188（公司总机） | 调研核实（公开页） | https://www.zoominfo.com/p/Neal-Cennamo/81956627 |
+| Neal Cennamo | Vice President（2014 至今）= 采购拍板人；老板 / 成员待核（NJ LLC 不公开成员）；Softnetworks LLC 2011 年 NJ 注册，EIN 46-1347043，18 人，K-12 学区投标常客（Red Bank BOE 等）（第 85 批 官方登记核实 2026-10-27） | nealc@softnetworks.net / +1 201-636-7188（官网） | 调研核实（公开页） | 用户 Clients 表 + Datanyze/官网 |
+| Neal Cennamo | Vice President（2014 至今）= 采购拍板人；老板 / 成员待核（NJ LLC 不公开成员）；Softnetworks LLC 2011 年 NJ 注册，EIN 46-1347043，18 人，K-12 学区投标常客（Red Bank BOE 等）（第 85 批 官方登记核实 2026-10-27） | nealc@softnetworks.net（用户表原值） / +1 201-636-7188（公司总机） | 调研核实（公开页） | https://www.zoominfo.com/p/Neal-Cennamo/81956627 |
 | Neal | — | nealc@softnetworks.net | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

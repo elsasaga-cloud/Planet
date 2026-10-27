@@ -81,6 +81,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 85 批（阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究档），2026-10-27 查；）：**
+
+- 法定名 / 登记号：Tecpro Solutions Co. L.L.C.（TPS） · — · 状态 **（登记状态不可免费核）** · 成立 2003 Al Ain 起家 / 2004 UAE 注册 · —
+- 行业码 / 经营范围：四大业务：IT 基础设施与应用（服务器/存储/网络/虚拟化/DC/云/网安）、智能楼宇（ELV/BMS）、创新与数字化、教育装备；分销部门 TECPRO-Distributions；**2026-02-13 发布新企业形象 + 阿布扎比新办公室**（扩张信号）
+- 注册地址：Dubai（Saheel Tower；+971 4 326 6881 / +971 52 925 0501；dxb@tecprosolutions.com）；Abu Dhabi: Building No.7, 4th Fl, Office 403, Muroor St（+971 2 676 7373；auh@tecprosolutions.com）；Al Ain: Building No.30, Al Jusour St；Kochi（印度）
+- 规模档：51–100（Prospeo；LinkedIn 11–50；Crunchbase 101–250）
+- 账目：—
+- 高管：Mohammed Rafi — Executive Director（研究档）
+- 高管：MD Shereef — （用户记录）（研究档）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **本轮无免费官方登记源**（阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验））：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」
+  - 无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判
+- 备注：无免费登记源；下一轮若找到镜像再补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

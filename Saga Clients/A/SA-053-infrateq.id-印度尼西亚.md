@@ -95,6 +95,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 85 批（印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档），2026-10-27 查；）：**
+
+- 法定名 / 登记号：PT. Divatel Pratama · — · 状态 **（登记状态不可免费核）** · 成立 2001 · —
+- 行业码 / 经营范围：三站并行：infrateq.com（电商：IP PBX / IP 话机 / VoIP 网关 / 会议 / **Industrial PoE Switch 类目**，自有标 InfrateQ 型号如 HR600-AFG-822S——疑为 HRUI 贴牌）、divatel.id（IP PBX/联络中心，KOMINFO 持牌，印尼/马/新）、pa-system.infrateq.com；CEO Ismed Sitepu（LinkedIn 列业务含「Solar Panel Switch / Hub」「Offgrid CCTV」）；销售 WA 0851-7306-0800 / 0852-8940-458
+- 注册地址：Menara Kuningan 6th Floor, Jl. H.R. Rasuna Said Blok X-7 Kav.5, Jakarta Selatan 12940（+62 21 30022777 / 30022778 hunting；sales@divatel.id / info@divatel.co.id）
+- 规模档：2–10（LinkedIn）
+- 账目：—
+- 高管：Ismed Sitepu — CEO & Founder（研究档）
+- 高管：Ismed Sitepu — Founder & CEO（2001 至今）；地址 2026-10-21 退信（554 5.7.1 Message not delivered）→ 先找替代地址（研究档）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **本轮无免费官方登记源**（印尼 · AHU 登记需付费，OSS/NIB 不公开）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」
+  - 无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判
+- 备注：无免费登记源；下一轮若找到镜像再补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

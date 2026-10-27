@@ -97,6 +97,23 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 85 批（USA · BBB 登记（成立 / 注册 / 别名 / 管理层）+ Texas 执照（官网公示 B12519 / B03064001 / ACR-2370373）+ allbiz（TX 备案号 0800828533）+ LinkedIn / RocketReach / Yelp，2026-10-27 查；https://www.bbb.org/us/tx/hutto/profile/security-system-monitors/avenger-security-services-inc-0825-90033586）：**
+
+- 法定名 / 登记号：AVENGER SECURITY SERVICES, INC.（别名 Central Security / GetSecurityAlarm.com / DCS Systems, Inc.） · Texas Filing No. 0800828533 · Texas Private Security License B12519 / B03064001 · Texas Fire Alarm License ACR-2370373 · 状态 **经营中（Yelp 2026-09、LinkedIn 2026-04 活跃）** · 成立 业务始于 2005-05-27（BBB；LinkedIn 2004 / Yelp 2001 口径）；Business Incorporated 2007-06-12 · Corporation（Texas）· 独资（Owner Brandon W. Adams）
+- 行业码 / 经营范围：德州持牌报警 / 消防报警 / 门禁 / 视频监控安装与监控服务商（RMR 月费模式）；兼「批发其他机械设备」登记；门店 Hutto（总部）、Round Rock、College Station、San Antonio（安装合伙人 Jay Phipps）
+- 注册地址：501 West Creekbend Cove, Hutto, TX 78634
+- 规模档：微型（LinkedIn 11–50 为渠道口径；实际老板 + 安装技师）
+- 账目：私人公司不公开；allbiz 估 $500k；Texas 特许税申报 5-15
+- 高管：Brandon Walter ADAMS — Founding Owner / Principal（UT Austin 土木工程；德州私人保安 + 消防报警双执照持有人）= 研究档 KP → **老板 = 联系人**
+- 高管：Jay PHIPPS — Owner and Installer（San Antonio，合伙 / 加盟安装商）
+- 控制人 / 股东：Brandon W. Adams
+- 曾用名：DCS Systems, Inc.（BBB 别名）
+- **这意味着什么：**
+  - **老板 = 联系人，微型报警安装商（RMR 月费模式）**：买交换机是给自己安装的监控 / 门禁项目配套，每单 1–5 台 → 集成 25% 档但量极小；推即插即用 PoE（STC-028GP / STC-228GP），不推管理型
+  - 德州持牌报警公司对「UL Listed 监控中心」很在意（Yelp 自述），但那是监控中心资质不是交换机；我们不提 UL，只给 FCC / CE / RoHS
+  - 报价零售化：按 1 台 / 5 台 / 10 台三档 + 百运网 DAP 小包裹含运费价，T/T 100% 预付或 PayPal（由 Simon 定）；老板本人回信快、决策快
+  - 老板 2000 年起另有「Corporate America RMR 营销」业务（LinkedIn 自述花 $10M 做直邮），不是设备买家主业 → 长期价值低，群发节奏即可
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -135,7 +152,7 @@ updated: 2026-10-27
 - **【官网】门禁 = Brivo OnAir 与 Eagle Eye 联动**
   > Avenger Security integrates Brivo OnAir with Eagle Eye Networks cloud video surveillance to attach door video clips to activity logs
   > 来源：https://securitytekton.com/pages/access-control-service（抓取 2026-10-21）
-- **KP**：—（总机）info@getsecurityalarm.com +1 512-563-5361〔https://securitytekton.com/pages/about-us〕
+- **KP**：—（总机 → 实际收件人 = Owner Brandon Walter Adams（TX 登记 0800828533，2007-05；微型报警装机商）（第 85 批 官方登记核实 2026-10-27））info@getsecurityalarm.com +1 512-563-5361〔https://securitytekton.com/pages/about-us〕
 - **KP**：Brandon Walter Adams（Founder / Owner（2004 创立，官网 About））—（未公开） +1 512-610-2698（公司）〔https://securitytekton.com/pages/about-us〕
 - 备注：A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。
 
@@ -143,10 +160,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Avenger Security Services（Central Security 同族） |
+| 法定名称 | AVENGER SECURITY SERVICES INC（Texas 0800828533；Hutto TX；Owner Brandon Walter Adams） |
 | 成立 | 2004（创始人 Brandon Walter Adams；LinkedIn/Yelp 口径 2010） |
 | 总部/地址 | 501 West Creekbend Cove, Hutto, TX 78634（+1 512-610-2698）；休斯敦分部 11200 Broadway St Ste 2743, Pearland TX 77584（+1 281-954-3400） |
-| 人数 | 11–50 |
+| 人数 | 1–5（第 85 批 官方登记核实 2026-10-27） |
 | 营收 | <$5M（ZoomInfo） |
 | 其他 | 员工持股；德州双证（私人安防 B12519 & B03064001；消防报警 ACR 2370373）；云视频 = Eagle Eye Networks（PoE IP 摄像机 + 旧模拟桥接），门禁 = Brivo OnAir，报警 Alula/Honeywell Vista；「无长期合同、无信用审查」；官网 securitytekton.com（2025-10 仍更新）与 getsecurityalarm.com / avengersecurityhouston.com 并行 |
 
@@ -244,7 +261,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| — | 总机 | info@getsecurityalarm.com / +1 512-563-5361 | 调研核实（公开页） | https://securitytekton.com/pages/about-us |
+| — | 总机 → 实际收件人 = Owner Brandon Walter Adams（TX 登记 0800828533，2007-05；微型报警装机商）（第 85 批 官方登记核实 2026-10-27） | info@getsecurityalarm.com / +1 512-563-5361 | 调研核实（公开页） | https://securitytekton.com/pages/about-us |
 | Brandon Walter Adams | Founder / Owner（2004 创立，官网 About） | —（未公开） / +1 512-610-2698（公司） | 调研核实（公开页） | https://securitytekton.com/pages/about-us |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

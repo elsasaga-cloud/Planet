@@ -49,8 +49,8 @@
  ],
  "kp": [
   {
-   "name": "—",
-   "role": "订单邮箱",
+   "name": "ИП Криволуцкая Юлия Викторовна",
+   "role": "订单邮箱 → 法律主体为 ИП（个体企业家）Криволуцкая Юлия Викторовна = 老板本人；ОГРНИП 318402700048713 · ИНН 402910363642，2018-08-02 登记，ОКВЭД 46.43（第 85 批 官方登记核实 2026-10-27）",
    "email": "zakaz@svn-video.ru",
    "phone": "+7 903 810 33 33",
    "source": "https://svn-video.ru/contact-us"
@@ -63,9 +63,10 @@
   "level": "深挖 v2（官网网店自有标 SVN 目录核对）"
  },
  "company_facts": {
-  "legal_name": "SVN（svn-video.ru，ИП Криволуцкая Ю.В.）",
+  "legal_name": "ИП Криволуцкая Юлия Викторовна（ОГРНИП 318402700048713 · ИНН 402910363642；Калуга；2018-08-02；品牌 SVN svn-video.ru）",
   "hq": "248000, г. Калуга, ул. Марата, д. 5（+7 903 810-33-33 / +7 903 636-46-70 / 8-800-600-72-59；zakaz@svn-video.ru、svnshop@yandex.ru）",
-  "other": "自有标 SVN 全线：IP 摄像机（SVN-200SL20HF 2MP 5,800 ₽、SVN-800SBA20MPOE 8MP 11,350 ₽）、套装（SVN-Дача-4 27,000 ₽）、NVR（SVN-NVRC830POE 9ch/8 PoE）、**PoE 交换机 SVN-POE412（4 FE PoE+2 上联，3,150 ₽）/ SVN-POE812（8 FE PoE+2 上联，4,120 ₽）/ SVN-POE1612（16 FE PoE+2 GE+1 SFP）/ SVN-POE48V1A（1,080 ₽）**、PoE 分离器/注入器；设「Оптовикам」批发栏目；卡卢加本地安装"
+  "other": "自有标 SVN 全线：IP 摄像机（SVN-200SL20HF 2MP 5,800 ₽、SVN-800SBA20MPOE 8MP 11,350 ₽）、套装（SVN-Дача-4 27,000 ₽）、NVR（SVN-NVRC830POE 9ch/8 PoE）、**PoE 交换机 SVN-POE412（4 FE PoE+2 上联，3,150 ₽）/ SVN-POE812（8 FE PoE+2 上联，4,120 ₽）/ SVN-POE1612（16 FE PoE+2 GE+1 SFP）/ SVN-POE48V1A（1,080 ₽）**、PoE 分离器/注入器；设「Оптовикам」批发栏目；卡卢加本地安装",
+  "staff": "1–5（第 85 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "SVN 品牌摄像机/套装",

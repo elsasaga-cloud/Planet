@@ -97,6 +97,23 @@ updated: 2026-10-27
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 85 批（Türkiye · 官网销售合同页（卖方法定名 + 地址）+ 域名 WHOIS（注册人 = Hemmah Group）+ Dağıtıcılar 页 + LinkedIn（Erdem Timur Koca）+ Facebook，2026-10-27 查；https://www.snexus.com.tr/en/s%C3%B6zle%C5%9Fme）：**
+
+- 法定名 / 登记号：HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（品牌 Snexus Networks） · İstanbul Ticaret Sicil（号待补） · 状态 **经营中（官网博客 2026-04 / 2026-06 更新）** · 成立 待补（LinkedIn 帖 2022–2025 活跃；品牌约 2021 前后） · Limited Şirketi · 私人持有；品牌 Snexus Networks 的法人 / 域名持有人 = Hemmah Group（兼「建筑设计」业务）
+- 行业码 / 经营范围：自有品牌网络设备（Snexus：即插即用 / 管理型 / 10G / 光纤核心 SN-XGS5300 / 工业 ISN-GS2300-10FP、ISN-ES1300-10FP）电商 + 渠道分销；自称「全球渠道 / 集成商」，新加坡 Sim Lim Square 联络点；质保 2 年
+- 注册地址：Turgut Özal Bulvarı No:2 A6 No:145, Çekmeköy / İstanbul（合同页）；Sultançiftliği Mah. Kıbrıs Cad. Neveser Sitesi C4/1, Çekmeköy（联系页）
+- 规模档：微型（Wix 建站、一个独家分销商 = 自己的 Hemmah Group）
+- 账目：非上市不公开
+- 高管：Erdem Timur KOCA — SNEXUS NETWORKS 负责人（LinkedIn：15 年 IT 销售 / BD；ZyXEL / EnGenius 认证）→ 大概率老板 / 合伙人（登记待核）
+- 高管：研究档 KP 「—」
+- 控制人 / 股东：待补
+- **这意味着什么：**
+  - **纯贴牌品牌（Snexus）+ 法人是一家「IT + 建筑」小公司 + 新加坡 Sim Lim 联络点**：典型的中国货源贴牌商 —— 型号命名（SN-XGS5300、ISN-GS2300-10FP）像深圳公模；他们换货源只看价格与 OEM 配合度 → OEM 30% 线，但预期单量小、比价狠；MOQ 按型号 5–10 台、T/T 100% 预付
+  - 他们对外承诺 2 年质保 / 10 个工作日修复：我们 STC 1 年 / STI 3 年 —— 报价里写清 DOA 换新 + 备件比例，别承诺 2 年整机（除非 Simon 定）
+  - 联系人未具名：LinkedIn 的 Erdem Timur Koca 是品牌面孔，信抬头用他；邮件 info@snexus.com.tr
+  - 守界提醒：他们宣传「transportation systems」客户 —— 我们只报工业 / 工厂款，不做轨交规格（EN 50155）
+- 备注：成立日 / 高管待补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -154,14 +171,15 @@ updated: 2026-10-27
 - **【官网】工业系列 ISN-GS 价格**
   > ISN-GS1300-6FP Price$300.00 … ISN-GS1300-10FP Price$550.00 … ISN-GS2300-6FP Price$530.00 … ISN-GS2300-10FP Price$700.00
   > 来源：https://www.snexus.com.tr/en/endustriyel-switchler（抓取 2026-10-21）
-- **KP**：—（总机）info@snexus.com.tr +90 216 606 4445（webrate 登记）〔https://www.snexus.com.tr/en/iletisim〕
+- **KP**：—（总机 → 法人为 HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（Çekmeköy），品牌 Snexus Networks；品牌负责人 Erdem Timur Koca（第 85 批 官方登记核实 2026-10-27））info@snexus.com.tr +90 216 606 4445（webrate 登记）〔https://www.snexus.com.tr/en/iletisim〕
+- **KP**：Erdem Timur Koca（Snexus 品牌负责人（LinkedIn；官网销售合同卖方 = Hemmah Group）= 拍板人（第 85 批 官方登记核实 2026-10-27）） 〔https://www.snexus.com.tr/en/sözleşme〕
 - 备注：A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Snexus Networks（snexus.com.tr） |
+| 法定名称 | HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（Çekmeköy İstanbul；品牌 Snexus Networks）（第 85 批 官方登记核实 2026-10-27） |
 | 总部/地址 | İstanbul, Türkiye（另设新加坡 Sim Lim 联络点） |
 | 其他 | 自有品牌白牌交换机全线，官网 USD 标价（Wix 网店），Hepsiburada 零售在售；2 年换新保修；2026-04/06 仍在发博客推 SN-GS2300-28F |
 
@@ -267,8 +285,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| — | 总机 | info@snexus.com.tr / +90 216 606 4445（webrate 登记） | 调研核实（公开页） | https://www.snexus.com.tr/en/iletisim |
-| Erdem Timur  Koca | — | info@snexus.com.tr / +905425521779 | 用户表原值 | Clients/ 表 |
+| — | 总机 → 法人为 HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（Çekmeköy），品牌 Snexus Networks；品牌负责人 Erdem Timur Koca（第 85 批 官方登记核实 2026-10-27） | info@snexus.com.tr / +90 216 606 4445（webrate 登记） | 调研核实（公开页） | https://www.snexus.com.tr/en/iletisim |
+| Erdem Timur Koca | Snexus 品牌负责人（LinkedIn；官网销售合同卖方 = Hemmah Group）= 拍板人（第 85 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.snexus.com.tr/en/sözleşme |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

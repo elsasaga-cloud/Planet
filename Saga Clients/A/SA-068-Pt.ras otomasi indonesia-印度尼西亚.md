@@ -82,6 +82,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 85 批（印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档），2026-10-27 查；）：**
+
+- 法定名 / 登记号：PT. RAS Otomasi Indonesia · — · 状态 **（登记状态不可免费核）** · 成立 — · —
+- 行业码 / 经营范围：5 年+ 经验的自动化「aplikator」：PLC/HMI/SCADA（Rievtech micro/4G/Ethernet PLC、Rapid SCADA）、MEP、安防、水处理、IT/电信基础设施；方案含港口靠泊辅助 DAS、环境监测、自动气象站、燃油管理、智慧停车/智慧城市；Trimaxindo 本地伙伴名录列联系人 sudarso@ras-otomasi.id（2025-11）
+- 注册地址：Office: Menara 165 4th Fl, Jl. TB Simatupang Kav.1, Cilandak, Jakarta Selatan 12560（+62 21 5081-2002）；Workshop: Ruko Villa Pamulang Blok CH8 No.11, Pamulang, Tangerang Selatan 15416（+62 21 2784-6419）；info@ras-otomasi.id
+- 规模档：11–50（ZoomInfo）
+- 账目：—
+- 高管：Sudarso（姓氏/职务未公开） — Trimaxindo 本地伙伴名录联系人（研究档）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **本轮无免费官方登记源**（印尼 · AHU 登记需付费，OSS/NIB 不公开）：以研究档事实为准，不臆断股东 / 财务；对外口径照常，不提「核查」
+  - 无登记 = 无信用公开 → 付款默认 100% 预付 T/T（成单客户除外）；量级按研究档 staff / 网店体量判
+- 备注：无免费登记源；下一轮若找到镜像再补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

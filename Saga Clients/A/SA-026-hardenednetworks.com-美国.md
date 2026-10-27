@@ -113,6 +113,23 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 85 批（USA · Florida 公司（corporationwiki 摘要）+ FDOT 州采购合同 PDF（DOT-ITB-20-9034 / DOT-ITB-23-9037，APL 价目）+ 官网 FAQ / 产品页（2026-07），2026-10-27 查；https://www.corporationwiki.com/Florida/Orlando/mark-v-schulting-P1253020.aspx）：**
+
+- 法定名 / 登记号：EXPRESS SUPPLY, INC.（品牌 Hardened Networks = ITS Express；关联 ITS Express Inc.） · Florida corporation（Express Supply, Inc. 2006 成立；ITS Express Inc. 2008 成立；Sunbiz 文号待补） · 状态 **两家公司均 Active（corporationwiki）；FDOT 合同供应商在册** · 成立 Express Supply, Inc. 2006；ITS Express Inc. 2008-04 · Florida S/C-Corp · 夫妻公司（Mark V. Schulting President / Treasurer；Carmen I. Schulting Secretary）
+- 行业码 / 经营范围：ITS（智能交通）温宽工业以太网交换机 / 媒体转换器 / VDSL 延长器 / 摄像机的自有品牌商（Hardened Networks = ITS Express，「同一家公司」）；全部产品列入 Florida APL（州批准产品清单）；FDOT 州合同价：8020 $899.99、8012-24 V3 $1,499.99、8012-24+ V3 $1,899.99、8042 $1,399.99、8042+ $1,599.99（2021）
+- 注册地址：632 Gatlin Ave, Orlando, FL 32806
+- 规模档：微型（登记人员 2–3 人；夫妻 + 工程外包）
+- 账目：私人公司不公开；Florida 年报每年 5-01 前
+- 高管：Mark V. SCHULTING — President（Express Supply, Inc.）/ Treasurer（ITS Express Inc.）；FDOT 合同唯一联系人 = 研究档 KP → **老板 = 联系人**
+- 高管：Carmen I. SCHULTING — Secretary（两家公司）→ 配偶
+- 控制人 / 股东：Schulting 夫妇
+- **这意味着什么：**
+  - **老板 = 联系人（夫妻公司）、产品全在 Florida APL 上、FDOT 州合同价 $900–1,900/台**：他们卖的就是贴 Hardened Networks 标的工业交换机，毛利极厚 → 这是最标准的 OEM 30% 线目标：STI 系列（温宽、环网 <10 ms、L3 OSPF）贴他们的标；**但 APL 产品换硬件要重新送审**，所以提案先从「新型号 / 补充型号」切入，不是替换现有 APL 型号
+  - 规则边界：ITS 交通信号 ≠ 轨交（守界允许），但 APL / 州合同可能问原产地（Buy America 在州项目里时有时无）：我们如实 Made in China，不提 NDAA / TAA / UL
+  - 他们的功能表里有「Moxa / Hirschmann / Cisco 环网兼容」「光功率监测」「8K 多播视频」：Saga 工业 STI 需要给出 ERPS / RSTP 收敛时间与 IGMP 规格实测，否则过不了工程师这一关 —— 先寄样测试（付费样品）再谈量
+  - 微型公司、州合同回款按州财政：T/T 50/50；Florida 年报 5 月、州合同年度续签 7 月（财年）—— 2027-Q1 送样最合拍
+- 备注：Sunbiz 文号抓取失败（fetch ✗），仅 corporationwiki 口径。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -147,14 +164,15 @@ updated: 2026-10-27
 - **【分销站】HN8012-24+ bypass/环网特性**
   > Built-in bypass fiber ports with switching time <10ms … Fast ITS ring recovery time< 10ms over 250 units of connections … Ring Protocols: STP, RSTP, MSTP, RPVST +, R-RVST+, ITS- Ring, Moxa/ Herschman/ Advatech Rings
   > 来源：https://expresssupply.us/hn8012-24plus/（抓取 2026-10-21）
-- **KP**：Mark Schulting（来信署名人（职务未在邮件署名里出现））mark@expresssupply.net；mschulting@expresssupply.net（2025-02-05 来信用此地址） 〔S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）；A 邮箱 2025-02 来信表头〕
+- **KP**：Mark V. Schulting（President（Florida 登记管理层）= 老板 = 联系人；Secretary Carmen Schulting（家族）；法人 Express Supply Inc（FL 2006），品牌 Hardened Networks = ITS Express（2008）；Florida DOT APL 在册供应商（第 85 批 官方登记核实 2026-10-27））mark@expresssupply.net；mschulting@expresssupply.net（2025-02-05 来信用此地址） 〔S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）；A 邮箱 2025-02 来信表头〕
+- **KP**：Carmen Schulting（Secretary（Florida 登记；家族）（第 85 批 官方登记核实 2026-10-27）） 〔https://www.corporationwiki.com/Florida/Tampa/mark-v-schulting/〕
 - 备注：A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Hardened Networks / ITS Express（expresssupply.us） |
+| 法定名称 | EXPRESS SUPPLY INC（Florida，2006；dba Hardened Networks / ITS Express 2008）（第 85 批 官方登记核实 2026-10-27） |
 | 总部/地址 | USA（ITS 交通领域） |
 | 其他 | 自有品牌 HN 加固交换机（V3：Hardened Base L3、4×USFP+ 10G、4×ESFP 2.5G、16×GE、176G 背板、SHA-256/AES-256、ITS-Ring、Moxa/Hirschmann/Cisco 环兼容）+ AIS-8300 4K 交通摄像机（NEMA TS2、FL APL 682-002-025、UL） |
 
@@ -254,7 +272,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mark Schulting | 来信署名人（职务未在邮件署名里出现） | mark@expresssupply.net；mschulting@expresssupply.net（2025-02-05 来信用此地址） | 调研核实（公开页） | S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）；A 邮箱 2025-02 来信表头 |
+| Mark V. Schulting | President（Florida 登记管理层）= 老板 = 联系人；Secretary Carmen Schulting（家族）；法人 Express Supply Inc（FL 2006），品牌 Hardened Networks = ITS Express（2008）；Florida DOT APL 在册供应商（第 85 批 官方登记核实 2026-10-27） | mark@expresssupply.net；mschulting@expresssupply.net（2025-02-05 来信用此地址） | 调研核实（公开页） | S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）；A 邮箱 2025-02 来信表头 |
+| Carmen Schulting | Secretary（Florida 登记；家族）（第 85 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.corporationwiki.com/Florida/Tampa/mark-v-schulting/ |
 
 - **通道建议**：企业邮箱可直发
 

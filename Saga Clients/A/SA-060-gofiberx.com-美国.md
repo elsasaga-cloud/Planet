@@ -125,6 +125,23 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 85 批（USA (Puerto Rico) · 官网 About / 联系 / 名片页（2025）+ LinkedIn + PeeringDB（数据中心）+ El Nuevo Día（2025-09 FiberX Expo）+ RocketReach / ContactOut 履历，2026-10-27 查；https://gofiberx.com/about-us/）：**
+
+- 法定名 / 登记号：FIBERX LLC（gofiberx.com / fiberx.net；关联 OSNet Wireless） · Puerto Rico LLC（波多黎各国务院登记号待补） · 状态 **经营中（2025-09 自办 FiberX Expo；2025 招聘 HR；PeeringDB 2025-12）** · 成立 2016（LinkedIn）/ 2017-07 CEO 任职起（履历） · LLC · 私人持有；与 OSNet Wireless（2008 起，同一 CEO）为姊妹公司
+- 行业码 / 经营范围：本地光纤 / 无线运营商（ISP）：企业专线、暗光纤、Wi-Fi、话音；自有数据中心 FXDC-MOP6（Guaynabo，PeeringDB）；网络连通波多黎各 — 哥伦比亚 — 美国本土；总部 Guaynabo + Caguas
+- 注册地址：Metro Office Park Street #1 Lot 6, Suite 104（办公）/ B01（数据中心）, Guaynabo, PR 00968
+- 规模档：33–34 人（RocketReach）；LinkedIn 11–50
+- 账目：私人公司不公开；RocketReach 估 $5.6M（2026）；PR 年报每年 4-15
+- 高管：Iván RIVERA — Presidente y CEO（2017 起；兼 OSNet Wireless CEO 2008 起；此前 ITTEK Corp CEO 2004–2008）= 研究档 KP → **老板 = 联系人**（官网名片页给手机 / WhatsApp）
+- 高管：Edwuar MORILLO — 研究档 KP（职务待核；疑网络 / 采购）
+- 高管：Yeraldine ACEVEDO — Operations Manager；Héctor BOSCHETTI-SILVA — Senior Sales Engineer
+- 控制人 / 股东：Iván Rivera（创始人 / CEO；股权未公开）
+- **这意味着什么：**
+  - **老板 = 联系人，且是运营商（ISP）而非转售商**：采购是给自己网络用 —— 接入 / 汇聚交换机、机房 DC 交换机（CENTEC STH-2C24XF-HSI / 32C 作为敲门砖，Marvell L3 STI-480XGGM 做汇聚）、PoE 给 Wi-Fi / ONU 机柜 → 集成 25% 档；CENTEC ≥35% 底线
+  - 两家姊妹公司（FiberX + OSNet Wireless）共用 CEO：报价一次、两家可下单；PI 抬头以他们指定的 LLC 为准
+  - 波多黎各 = 美国关税区：走美国本土同样的 FCC / CE / RoHS，进口按美国报关；物流用百运网 DAP 到 PR 要单独询价（非本土 48 州）
+  - 2025-09 自己办行业展（FiberX Expo）、在招 HR → 扩张期；2026-Q4 / 2027-Q1 给 DC 交换机方案最合拍；运营商付款 Net 30 是习惯，首单 T/T 预付
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -177,7 +194,7 @@ updated: 2026-10-27
 - **【目录】覆盖与速率**
   > Fiber X is available in 21 cities … San Juan, PR - Availability: 79.75% - Avg. Download Speed: 1,000 Mbps … 100.00% of Fiber X customers can subscribe to fiber internet
   > 来源：https://ispreports.org/internet-service-providers/fiber-x-availability/（抓取 2026-09-03）
-- **KP**：Ivan Rivera（来信署名人（职务未在邮件署名里出现））irivera@fiberx.net 〔S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）〕
+- **KP**：Iván Rivera（Presidente y CEO（创始人）= 老板 = 联系人；FiberX LLC（Puerto Rico 2016/17，ISP + 数据中心，PeeringDB fac 14857，~34 人）（第 85 批 官方登记核实 2026-10-27））irivera@fiberx.net 〔S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）〕
 - **KP**：Edwuar Morillo（同串收件人 / 发信人（A 邮箱表头 8 封署名 Edwuar Morillo；职务未核））emorillo@fiberx.net 〔A 邮箱邮件表头（10 封）〕
 - 备注：运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。
 
@@ -185,10 +202,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | FiberX（gofiberx.com） |
+| 法定名称 | FIBERX LLC（Puerto Rico，2016/17；Guaynabo PR；ISP + DC） |
 | 成立 | 2016 |
 | 总部/地址 | Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968；Warehouse Plaza Rio Cañas Carr. #1 Km 27.8, Caguas PR 00725；Data Center B01（FXDC-MOP6，PeeringDB） |
-| 人数 | 11–50 |
+| 人数 | ~34（第 85 批 官方登记核实 2026-10-27） |
 | 营收 | 约 $5.6M |
 | 注册/税号 | AS6208 |
 | 其他 | 本地光纤运营商：Internet、Metro Ethernet（MPLS/VPLS）、云连接、机房托管、FTTH/FTTB、VoIP、Dark fiber；覆盖 21 城（San Juan 79.75%，Guaynabo 74.9%），1 Gbps 对称；自有数据中心（PeeringDB 设施） |
@@ -299,8 +316,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ivan Rivera | 来信署名人（职务未在邮件署名里出现） | irivera@fiberx.net | 调研核实（公开页） | S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补） |
+| Iván Rivera | Presidente y CEO（创始人）= 老板 = 联系人；FiberX LLC（Puerto Rico 2016/17，ISP + 数据中心，PeeringDB fac 14857，~34 人）（第 85 批 官方登记核实 2026-10-27） | irivera@fiberx.net | 调研核实（公开页） | S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补） |
 | Edwuar Morillo | 同串收件人 / 发信人（A 邮箱表头 8 封署名 Edwuar Morillo；职务未核） | emorillo@fiberx.net | 调研核实（公开页） | A 邮箱邮件表头（10 封） |
+| Ivan Rivera | — | info@fiberx.net / irivera@fiberx.net | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 

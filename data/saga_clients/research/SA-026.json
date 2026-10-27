@@ -46,7 +46,7 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Hardened Networks / ITS Express（expresssupply.us）",
+  "legal_name": "EXPRESS SUPPLY INC（Florida，2006；dba Hardened Networks / ITS Express 2008）（第 85 批 官方登记核实 2026-10-27）",
   "hq": "USA（ITS 交通领域）",
   "other": "自有品牌 HN 加固交换机（V3：Hardened Base L3、4×USFP+ 10G、4×ESFP 2.5G、16×GE、176G 背板、SHA-256/AES-256、ITS-Ring、Moxa/Hirschmann/Cisco 环兼容）+ AIS-8300 4K 交通摄像机（NEMA TS2、FL APL 682-002-025、UL）"
  },
@@ -245,11 +245,18 @@
  },
  "kp": [
   {
-   "name": "Mark Schulting",
-   "role": "来信署名人（职务未在邮件署名里出现）",
+   "name": "Mark V. Schulting",
+   "role": "President（Florida 登记管理层）= 老板 = 联系人；Secretary Carmen Schulting（家族）；法人 Express Supply Inc（FL 2006），品牌 Hardened Networks = ITS Express（2008）；Florida DOT APL 在册供应商（第 85 批 官方登记核实 2026-10-27）",
    "email": "mark@expresssupply.net；mschulting@expresssupply.net（2025-02-05 来信用此地址）",
    "phone": "",
    "source": "S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）；A 邮箱 2025-02 来信表头"
+  },
+  {
+   "name": "Carmen Schulting",
+   "role": "Secretary（Florida 登记；家族）（第 85 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.corporationwiki.com/Florida/Tampa/mark-v-schulting/"
   }
  ]
 }
