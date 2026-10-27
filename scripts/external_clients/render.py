@@ -54,8 +54,11 @@ def render_record(r, repo, product_line, src_desc, ov):
     lines = []
     lines.append(f"# {code} · {r['name']} · {r['country_zh']}")
     lines.append('')
-    head = [f"**初判 {GRADE_TXT[grade_now]}**", f"来源 {repo} `{r['src_code']}`（原评级 {r['src_grade']}" +
-            (f"，阶段 {r['stage']}" if r.get('stage') else '') + '）', f"导入 2026-10-27", '研究状态：未研究（第 2 步待做）']
+    if r.get('src_code'):
+        src_txt = f"来源 {repo} `{r['src_code']}`（原评级 {r.get('src_grade', '')}" + (f"，阶段 {r['stage']}" if r.get('stage') else '') + '）'
+    else:
+        src_txt = f"来源 {repo} `{r['src_path']}`:{r.get('src_line', '')}" + (f"（其分级 {r['their_class']}类）" if r.get('their_class') else '')
+    head = [f"**初判 {GRADE_TXT[grade_now]}**", src_txt, f"导入 2026-10-27", '研究状态：未研究（第 2 步待做）']
     if o:
         head.insert(1, f"人工改级 {o['date']}：{o['grade']}（{o['reason']}）")
     lines.append('> ' + ' ｜ '.join(head))
@@ -104,7 +107,17 @@ def render_record(r, repo, product_line, src_desc, ov):
         rows.append(('来源库评级依据', r['src_rating_basis']))
     if r.get('src_manual'):
         rows.append(('来源库人工定级', r['src_manual']))
-    rows.append(('来源文件', f"`{r['src_path']}` @ {r.get('src_repo_ref', '')}" + (f"（更新 {r['src_updated']}）" if r.get('src_updated') else '')))
+    if r.get('their_class') or r.get('stars'):
+        rows.append(('来源库分级 / 星级（仅参考）', ' / '.join(x for x in [(r.get('their_class') + '类') if r.get('their_class') else '', ('★' * r['stars']) if r.get('stars') else ''] if x)))
+    if r.get('heading_path'):
+        rows.append(('来源章节', ' > '.join(r['heading_path'][-3:])))
+    if r.get('kv'):
+        for k, v in list(r['kv'].items())[:40]:
+            if k and v and k not in ('公司全称', '公司名', '国家'):
+                rows.append((f'来源库字段·{k}', v))
+    rows.append(('来源文件', f"`{r['src_path']}`" + (f" 第 {r['src_line']} 行" if r.get('src_line') else '') + f" @ {r.get('src_repo_ref', '')}" + (f"（更新 {r['src_updated']}）" if r.get('src_updated') else '')))
+    if r.get('also'):
+        rows.append(('同一家在来源库其他位置', '；'.join(f"`{a['src_path']}`:{a['src_line']}（{a.get('heading', '')[:40]}）" for a in r['also'][:12])))
     lines.append(md_table(['项', '内容'], rows))
     facts = [x for x in (r.get('facts') or []) if x and x[0] not in ('项', '内容')]
     if facts:
@@ -173,6 +186,16 @@ def render_record(r, repo, product_line, src_desc, ov):
             lines.append(f"  - {n['title']}")
             lines.extend(f'    - {esc(l)[:300]}' for l in n['lines'][:8])
     lines.append('')
+    if r.get('raw'):
+        lines.append('## 6b. 来源库原文块（原样，含其产品主张——不采信型号与价格）')
+        lines.append('')
+        lines.extend('> ' + l for l in r['raw'].split('\n')[:60])
+        for a in (r.get('also') or [])[:5]:
+            if a.get('raw'):
+                lines.append('>')
+                lines.append(f"> ——另见 `{a['src_path']}`:{a['src_line']}：")
+                lines.extend('> ' + l for l in a['raw'].split('\n')[:15])
+        lines.append('')
     lines.append('## 7. 我方产品线提示')
     lines.append(f'- {product_line}')
     lines.append('- 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`')
@@ -213,7 +236,7 @@ def main():
             with open(os.path.join(base, rel), 'w', encoding='utf-8') as f:
                 f.write(render_record(r, repo, product_line, src_desc, ov))
             live = [e['addr'] for e in r['emails'] if e['status'] != '停用']
-            idx_rows.append((f"[{r['code']}]({rel.replace(' ', '%20')})", r['src_code'], r['name'], r['country_zh'], (r.get('type') or '')[:28],
+            idx_rows.append((f"[{r['code']}]({rel.replace(' ', '%20')})", r.get('src_code') or f"{r['src_path'].split('/')[-1][:18]}:{r.get('src_line', '')}", r['name'], r['country_zh'], (r.get('type') or '')[:28],
                              f"X{g}", r['grade_reason'][:40], live[0] if live else ('（停用）' + r['emails'][0]['addr'] if r['emails'] else '—'),
                              '是' if r.get('kp_named') else '—', r['saga_dup']['code'] if r.get('saga_dup') else '—',
                              (r['touch']['最后'] + ' 去' + r['touch']['去信'] + '/来' + r['touch']['来信']) if r.get('touch') else '—'))
@@ -226,6 +249,15 @@ def main():
                '- 初判 = 机械规则（方案草案 §3）：主攻区（美加/欧/土）+ 渠道型买家 + 可用邮箱 → XA；对口但非主攻区 / 个人顾问 / 缺邮箱 / 风险国 → XB；与 Saga 重叠 / 原厂同行 / 超大集团 / 来源库 C → XC。第 2 步逐户研究后再定。',
                '- 已知触达 = S 箱 2026-09/10「24 Port PoE Managed Switch」群发名单对账（`data/gmail_s/2026-09_10群发名单_未入库.csv`）', '',
                md_table(['编号', '原编号', '公司', '国家', '类型', '初判', '理由（节选）', '首选邮箱', '实名KP', 'Saga重叠', 'S箱触达(最后/去/来)'], idx_rows), '']
+        if len(idx_rows) > 800:
+            hdr_lines = idx[:-2]
+            links = []
+            for g in 'ABC':
+                sub = [row for row in idx_rows if row[5] == f'X{g}']
+                fn_g = f'00-索引-X{g}.md'
+                open(os.path.join(base, fn_g), 'w', encoding='utf-8').write('\n'.join(hdr_lines + [f'（本页只列 X{g}，{len(sub)} 户）', '', md_table(['编号', '原编号', '公司', '国家', '类型', '初判', '理由（节选）', '首选邮箱', '实名KP', 'Saga重叠', 'S箱触达(最后/去/来)'], sub), '']))
+                links.append(f'- [{fn_g}]({fn_g})：X{g} {len(sub)} 户')
+            idx = hdr_lines + ['', '索引按等级分页：'] + links + ['', '侧表：`data/external_clients/cctv_未导入条目.csv`（粗体/表格里不像公司的条目与理由）、`cctv_非客户段落.csv`、`cctv_剔除大陆.csv`', '']
         open(os.path.join(base, '00-索引.md'), 'w', encoding='utf-8').write('\n'.join(idx))
         summary.append((repo, cnt, src_desc, product_line, len(recs), len(deleted), d['src']))
         print(repo, dict(cnt), 'deleted', len(deleted))
