@@ -68,7 +68,6 @@ updated: 2026-10-27
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 17 封（2025-01-29 → 2026-10-08），打开标签 0 次；**最近连续 17 封没打开**（近 180 天发 5 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 78 / automation 15） / 10G 汇聚（10g 7 / sfp 18） / 光纤接入 / 媒体转换（media converter 15 / fiber 4）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$57.4 EXW）。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 161 条 URL；站内可见品牌 1 个（PLANET）；官网语言 it-IT（信照样英文，首句可用对方语言问候）；社媒：https://it.linkedin.com/company/4power-srl、https://twitter.com/share?url=https://www.4power.it/4n-wsg24p2f-switch-web-smart-24p1000-poe-8023at-300w-2p1000-sfp/、https://twitter.com/share?url=https://www.4power.it/planet-igs-514pt-switch-poe-industriale-compatto-distribuito-da-4power/。
-- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [4power-dk](https://github.com/4power-dk)（仅名称一致，未核实是否同一家；公开仓库 2，最近 push 2026-09-12：homeassistant-4power、captive-portal-wifi-web）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-12-08 圣母无染原罪瞻礼（长周末）；2026-12-24 圣诞–主显节（到 01-06） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

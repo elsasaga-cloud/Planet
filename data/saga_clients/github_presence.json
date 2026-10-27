@@ -2228,5 +2228,663 @@
   "accounts": [],
   "repos_mentioning": [],
   "checked_at": "2026-10-27T04:12:22Z"
+ },
+ "SB-059": {
+  "domain": "avanca.com.sg",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:12:33Z"
+ },
+ "SB-060": {
+  "domain": "bargas.ru",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "projeto-de-algoritmos/Grafos1_AndreBargas_RuanMoura",
+    "url": "https://github.com/projeto-de-algoritmos/Grafos1_AndreBargas_RuanMoura",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2021-02-23T00:46:34Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T04:12:48Z"
+ },
+ "SB-061": {
+  "domain": "megatelindustries.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:13:02Z"
+ },
+ "SB-062": {
+  "domain": "a-ites.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:13:13Z"
+ },
+ "SB-063": {
+  "domain": "avestatek.co.uk",
+  "accounts": [
+   {
+    "login": "Avesta-Company",
+    "type": "Organization",
+    "url": "https://github.com/Avesta-Company",
+    "name": "Avesta Company",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2026-07-20T11:24:27Z",
+    "updated_at": "2026-09-01T09:20:55Z",
+    "bio": "",
+    "match": "name"
+   },
+   {
+    "login": "AvestaLang",
+    "type": "Organization",
+    "url": "https://github.com/AvestaLang",
+    "name": "Avesta",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 2,
+    "created_at": "2025-04-01T12:53:35Z",
+    "updated_at": "2025-04-01T14:50:01Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "core",
+      "pushed_at": "2026-10-03T22:30:54Z",
+      "lang": "C#",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "playground",
+      "pushed_at": "2026-02-09T20:08:56Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:13:23Z"
+ },
+ "SB-064": {
+  "domain": "amitytechnologies.co.in",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:13:36Z"
+ },
+ "SB-065": {
+  "domain": "ayk.com.pk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:13:48Z"
+ },
+ "SB-066": {
+  "domain": "comtec.com.vn",
+  "accounts": [
+   {
+    "login": "ComtechServices",
+    "type": "User",
+    "url": "https://github.com/ComtechServices",
+    "name": "Comtech Services, Inc.",
+    "blog": "https://comtechservices.com",
+    "email": null,
+    "company": "Comtech Services, Inc.",
+    "public_repos": 2,
+    "created_at": "2013-01-07T17:21:22Z",
+    "updated_at": "2026-10-23T18:21:52Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "dita-techcomm",
+      "pushed_at": "2024-05-07T14:15:20Z",
+      "lang": "Shell",
+      "desc": "OASIS DITA TC: Official TC repository for source files developed and maintained in specializations edited by the DITA Te",
+      "fork": true
+     },
+     {
+      "name": "wysiwygDITA",
+      "pushed_at": "2015-07-21T18:36:17Z",
+      "lang": "CSS",
+      "desc": "Client-side rendering of DITA in the browser",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:13:56Z"
+ },
+ "SB-067": {
+  "domain": "crec.com.ph",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:14:09Z"
+ },
+ "SB-068": {
+  "domain": "ict-integrators.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:14:17Z"
+ },
+ "SB-069": {
+  "domain": "mutexsystemsltd.com",
+  "accounts": [
+   {
+    "login": "samihyder",
+    "type": "User",
+    "url": "https://github.com/samihyder",
+    "name": "@mutexsystemsltd",
+    "blog": "www.mutexsystemsltd.com",
+    "email": null,
+    "company": "Mutex Systems Ltd.",
+    "public_repos": 6,
+    "created_at": "2020-04-03T18:27:59Z",
+    "updated_at": "2026-09-30T06:52:57Z",
+    "bio": "Technology, Security, A.I, Software, DevOps, Cloud Services",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "tiledger-attendance",
+      "pushed_at": "2026-10-14T17:45:48Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "flowchat",
+      "pushed_at": "2026-08-24T01:44:49Z",
+      "lang": "TypeScript",
+      "desc": "Every conversation in flow. — Omnichannel customer communication platform.",
+      "fork": false
+     },
+     {
+      "name": "samihyder.github.io",
+      "pushed_at": "2026-07-29T01:51:28Z",
+      "lang": "HTML",
+      "desc": "Sami Haider — portfolio site (built output only)",
+      "fork": false
+     },
+     {
+      "name": "wa-automation",
+      "pushed_at": "2026-07-16T23:19:27Z",
+      "lang": "TypeScript",
+      "desc": "Whatsapp Automation",
+      "fork": true
+     },
+     {
+      "name": "SOCVault-Blueprint",
+      "pushed_at": "2026-07-03T14:41:09Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "das",
+      "pushed_at": "2026-05-26T16:56:10Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:14:30Z"
+ },
+ "SB-070": {
+  "domain": "neowine.com",
+  "accounts": [
+   {
+    "login": "neowine",
+    "type": "User",
+    "url": "https://github.com/neowine",
+    "name": "neowine",
+    "blog": "http://www.neowine.com",
+    "email": null,
+    "company": "NEOWINE",
+    "public_repos": 9,
+    "created_at": "2018-02-26T02:21:26Z",
+    "updated_at": "2022-10-14T17:03:13Z",
+    "bio": "FOR THE MORE SECURE WORLD. NEOWINE Co., Ltd is developed a DORCA-3 which is used for IoT. Since 2002 the NEOWINE developed a ASIC for security. ",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "Vitis-AI",
+      "pushed_at": "2021-06-01T06:34:09Z",
+      "lang": "C++",
+      "desc": "Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Al",
+      "fork": true
+     },
+     {
+      "name": "Xilinx-Guide",
+      "pushed_at": "2021-05-25T00:22:28Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "onnxruntime",
+      "pushed_at": "2021-05-13T05:07:25Z",
+      "lang": null,
+      "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "fork": true
+     },
+     {
+      "name": "iot_dev_project",
+      "pushed_at": "2019-03-11T03:19:28Z",
+      "lang": "C++",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "asdfasdfasdf",
+      "pushed_at": "2018-12-10T02:24:15Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "DORCA3_API-2",
+      "pushed_at": "2018-10-30T02:29:05Z",
+      "lang": "C",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "godinus123",
+    "type": "User",
+    "url": "https://github.com/godinus123",
+    "name": "Hyo Seung Lee",
+    "blog": "www.neownie.com",
+    "email": null,
+    "company": "NEOWINE",
+    "public_repos": 24,
+    "created_at": "2018-12-06T00:19:36Z",
+    "updated_at": "2026-03-31T02:06:41Z",
+    "bio": "neowine CEO",
+    "match": "company",
+    "repos": [
+     {
+      "name": "Noah",
+      "pushed_at": "2026-04-13T11:46:52Z",
+      "lang": "C#",
+      "desc": "messenger for AI",
+      "fork": false
+     },
+     {
+      "name": "VSC",
+      "pushed_at": "2026-04-10T13:08:46Z",
+      "lang": null,
+      "desc": "Mobile vsc",
+      "fork": false
+     },
+     {
+      "name": "ClaudeMultiElectron",
+      "pushed_at": "2026-03-31T09:13:37Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "MachineLearningWithPython",
+      "pushed_at": "2021-11-26T17:03:03Z",
+      "lang": null,
+      "desc": "Get started with Machine Learning with Python - An introduction with Python programming examples",
+      "fork": true
+     },
+     {
+      "name": "godinus123",
+      "pushed_at": "2021-11-10T06:44:21Z",
+      "lang": null,
+      "desc": "Config files for my GitHub profile.",
+      "fork": false
+     },
+     {
+      "name": "Project",
+      "pushed_at": "2021-11-09T00:27:55Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "neowine/DORCA3_API-2",
+    "url": "https://github.com/neowine/DORCA3_API-2",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2018-10-30T02:29:05Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "neowine/DORCA3_API-1",
+    "url": "https://github.com/neowine/DORCA3_API-1",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2018-10-15T01:36:35Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:14:45Z"
+ },
+ "SB-071": {
+  "domain": "nkstech.net",
+  "accounts": [
+   {
+    "login": "nkstech",
+    "type": "Organization",
+    "url": "https://github.com/nkstech",
+    "name": "NKSTech",
+    "blog": "https://nkstech.in",
+    "email": "contact@nkstech.in",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2024-03-16T08:27:16Z",
+    "updated_at": "2025-07-09T15:16:07Z",
+    "bio": "NKSTech Software Solutions",
+    "match": "name"
+   },
+   {
+    "login": "nkstechss",
+    "type": "User",
+    "url": "https://github.com/nkstechss",
+    "name": "NKSTech",
+    "blog": "https://nkstech.in",
+    "email": "nkstechss@gmail.com",
+    "company": "NKSTech Software Solutions Pvt Ltd",
+    "public_repos": 0,
+    "created_at": "2026-02-06T18:46:52Z",
+    "updated_at": "2026-02-06T18:48:48Z",
+    "bio": "",
+    "match": "company"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:14:55Z"
+ },
+ "SB-072": {
+  "domain": "technosys.co.in",
+  "accounts": [
+   {
+    "login": "mchusantecnosys",
+    "type": "User",
+    "url": "https://github.com/mchusantecnosys",
+    "name": "technosys",
+    "blog": "",
+    "email": "mchusan.tecnosys@gmail.com",
+    "company": "@Technosys",
+    "public_repos": 10,
+    "created_at": "2024-11-20T22:40:42Z",
+    "updated_at": "2026-10-11T13:50:47Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "portfolio",
+      "pushed_at": "2026-10-26T13:45:55Z",
+      "lang": "SCSS",
+      "desc": "Third iteration of personal portfolio website built with modern Jekyll 4, Gulp 5, and Node.js.",
+      "fork": false
+     },
+     {
+      "name": "nestcast-hub",
+      "pushed_at": "2026-10-23T20:08:01Z",
+      "lang": "TypeScript",
+      "desc": "Centro de control local, emparejamiento Wi-Fi y automatización para altavoces Google Home y Nest Mini sin depender de la",
+      "fork": false
+     },
+     {
+      "name": "wwtbam-game",
+      "pushed_at": "2026-10-23T13:49:19Z",
+      "lang": "TypeScript",
+      "desc": "Aplicación web interactiva y gamificada inspirada en el formato televisivo «¿Quién Quiere Ser Millonario?», diseñada par",
+      "fork": false
+     },
+     {
+      "name": "Open-Replica",
+      "pushed_at": "2026-10-22T13:07:57Z",
+      "lang": "TypeScript",
+      "desc": "Reverse-engineer any application → Rebuild it clean-room → Test E2E → Fix what users hate → Ship clean.",
+      "fork": false
+     },
+     {
+      "name": "study-planner",
+      "pushed_at": "2026-10-12T17:21:09Z",
+      "lang": "TypeScript",
+      "desc": "A serene warm paper-and-ink workspace to organize your academic exams and assignments, built with a Local-First architec",
+      "fork": false
+     },
+     {
+      "name": "Soluciones-Simples-Cotizador",
+      "pushed_at": "2026-09-09T13:46:24Z",
+      "lang": "TypeScript",
+      "desc": "Cotizador de Muebles - Soluciones Simples Enterprise",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "IamShahabAlam",
+    "type": "User",
+    "url": "https://github.com/IamShahabAlam",
+    "name": "Shahab Alam",
+    "blog": "https://shahab-alam.web.app",
+    "email": "IamshahabAlam@gmail.com",
+    "company": "TechnoSys",
+    "public_repos": 45,
+    "created_at": "2021-04-11T16:38:20Z",
+    "updated_at": "2026-10-03T11:01:58Z",
+    "bio": "Sr. Software Engineer @TechnoSys · Flutter | ASP.NET Core | SQL Server · BS Computer Science",
+    "match": "company",
+    "repos": [
+     {
+      "name": "ArenaBook",
+      "pushed_at": "2026-10-26T17:47:16Z",
+      "lang": "Dart",
+      "desc": "Sports Arena Booking App",
+      "fork": false
+     },
+     {
+      "name": "IamShahabAlam",
+      "pushed_at": "2026-09-26T16:51:43Z",
+      "lang": null,
+      "desc": "My Profile Repository",
+      "fork": false
+     },
+     {
+      "name": "Getting-GetX",
+      "pushed_at": "2024-09-02T18:01:41Z",
+      "lang": "Dart",
+      "desc": "Learning GetX State Management ",
+      "fork": false
+     },
+     {
+      "name": "The-Fire",
+      "pushed_at": "2024-05-20T16:18:17Z",
+      "lang": "Dart",
+      "desc": "Flutter Firebase integration with almost all the features.",
+      "fork": false
+     },
+     {
+      "name": "BLoCking_BLoC",
+      "pushed_at": "2024-04-15T19:40:53Z",
+      "lang": "Dart",
+      "desc": "Learning the art of S.M with BLoC.",
+      "fork": false
+     },
+     {
+      "name": "Hello-API",
+      "pushed_at": "2024-04-13T18:21:35Z",
+      "lang": "Dart",
+      "desc": "Rest APIs with Null Safety , Get , Post HTTP methods",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:15:10Z"
+ },
+ "SB-073": {
+  "domain": "anb-rimex.be",
+  "accounts": [
+   {
+    "login": "anb-rimex",
+    "type": "Organization",
+    "url": "https://github.com/anb-rimex",
+    "name": "AnB Rimex SA",
+    "blog": "http://www.anb-rimex.be",
+    "email": "developer@anb-rimex.be",
+    "company": null,
+    "public_repos": 6,
+    "created_at": "2013-11-29T15:55:27Z",
+    "updated_at": "2026-10-24T13:46:40Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "TricomPlugIn",
+      "pushed_at": "2021-05-15T22:55:44Z",
+      "lang": "PHP",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "openremote",
+      "pushed_at": "2018-12-24T09:52:44Z",
+      "lang": "Java",
+      "desc": "OpenRemote v3",
+      "fork": true
+     },
+     {
+      "name": "debian-var",
+      "pushed_at": "2018-11-29T01:34:37Z",
+      "lang": "Shell",
+      "desc": "",
+      "fork": true
+     },
+     {
+      "name": "linux-imx",
+      "pushed_at": "2018-07-25T09:29:52Z",
+      "lang": "C",
+      "desc": "i.MX Linux Kernel",
+      "fork": true
+     },
+     {
+      "name": "uboot-imx",
+      "pushed_at": "2018-04-17T13:51:52Z",
+      "lang": "C",
+      "desc": "Variscite public boot-imx.git.",
+      "fork": true
+     },
+     {
+      "name": "bcm_4343w_fw",
+      "pushed_at": "2017-10-10T10:44:38Z",
+      "lang": null,
+      "desc": "BCM4343 firmware",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:15:23Z"
+ },
+ "SB-074": {
+  "domain": "bilgeguvenlik.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:15:34Z"
+ },
+ "SB-075": {
+  "domain": "gmka.gr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:15:48Z"
+ },
+ "SB-076": {
+  "domain": "istsurveillance.co.uk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:15:53Z"
+ },
+ "SB-077": {
+  "domain": "liveye.com",
+  "accounts": [
+   {
+    "login": "LivEye-GmbH",
+    "type": "Organization",
+    "url": "https://github.com/LivEye-GmbH",
+    "name": "LivEye GmbH",
+    "blog": "https://www.liveye.com",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2025-05-08T10:33:18Z",
+    "updated_at": "2026-10-22T18:48:29Z",
+    "bio": "",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:16:03Z"
+ },
+ "SB-078": {
+  "domain": "sitis.ch",
+  "accounts": [
+   {
+    "login": "SITIS",
+    "type": "User",
+    "url": "https://github.com/SITIS",
+    "name": "SITIS",
+    "blog": "sitis-mobile.com",
+    "email": "info@sitis-mobile.com",
+    "company": "SITIS",
+    "public_repos": 2,
+    "created_at": "2011-05-26T08:05:12Z",
+    "updated_at": "2016-02-27T00:18:06Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "coin",
+      "pushed_at": "2013-04-19T04:56:21Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "libsgeo",
+      "pushed_at": "2012-08-08T08:01:40Z",
+      "lang": "C",
+      "desc": "libexif + sgeo",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "danielhigh71-glitch/SitisChristi",
+    "url": "https://github.com/danielhigh71-glitch/SitisChristi",
+    "desc": "Sitis Christi Website",
+    "stars": 0,
+    "pushed_at": "2026-09-13T02:54:45Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:16:16Z"
  }
 }

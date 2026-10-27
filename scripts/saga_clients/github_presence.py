@@ -87,6 +87,30 @@ def norm(s):
     return ' '.join(w for w in s.split() if w not in stop)
 
 
+def reg_domain(host):
+    host = (host or '').lower().strip()
+    host = re.sub(r'^https?://', '', host).split('/')[0].split('@')[-1]
+    if host.startswith('www.'):
+        host = host[4:]
+    return host
+
+
+def conflicting(u, ent, domain):
+    """非强匹配时：账号公开的 blog / email 若落在客户域名之外的域（含同名不同后缀），判为别家。"""
+    mine = {reg_domain(x) for x in (ent.get('domains') or [])} | {domain}
+    for field in ('blog', 'email'):
+        v = u.get(field) or ''
+        if not v:
+            continue
+        host = reg_domain(v)
+        if not host:
+            continue
+        if any(host == m or host.endswith('.' + m) for m in mine):
+            continue
+        return True
+    return False
+
+
 def verify(login, ent, domain):
     """取账号详情，判断是否属于该客户：strong = blog/email 含域名；name = 组织名与公司名一致；company = 用户 company 字段含公司名/域名。"""
     st, u = api(f'users/{login}')
@@ -110,6 +134,8 @@ def verify(login, ent, domain):
         how = 'company'
     if not how:
         return None
+    if how != 'strong' and conflicting(u, ent, domain):
+        return None                                   # 名称像但 blog / email 指向别的域名（snexus.com vs snexus.com.tr 之类）→ 不是同一家
     return {'login': u['login'], 'type': u.get('type'), 'url': u['html_url'], 'name': u.get('name'), 'blog': u.get('blog'), 'email': u.get('email'),
             'company': u.get('company'), 'public_repos': u.get('public_repos'), 'created_at': u.get('created_at'), 'updated_at': u.get('updated_at'),
             'bio': (u.get('bio') or u.get('description') or '')[:160], 'match': how}

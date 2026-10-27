@@ -75,6 +75,7 @@ updated: 2026-10-27
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 1 封（2025-03-18 → 2025-03-18），打开标签 0 次。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 0 / automation 22）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$59.8 EXW）。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 70 条 URL；站内可见品牌 3 个（Cisco、Ruijie、Juniper）；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：http://sales@testronix.com.ph、https://ph.linkedin.com/company/testronix-inc、https://www.facebook.com/testronix.inc。
+- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [testronix-project](https://github.com/testronix-project)（仅名称一致，未核实是否同一家；公开仓库 0）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-02） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

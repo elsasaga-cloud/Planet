@@ -116,7 +116,6 @@ updated: 2026-10-27
 - **写信的人（来信签名机械抽取）**：Ender BULUT（ebulut@netas.com.tr，15 封，2025-10-17 → 2026-03-02）；Burak OZDEMIR — Purchasing Expert（buozdemir@netas.com.tr，8 封，2025-12-02 → 2026-01-29）；Netas Compliance（compliance@netas.com.tr，6 封，2026-02-09 → 2026-08-12）；Özlem ŞAHİN（ozlem.ucak@netas.com.tr，2 封，2026-01-23 → 2026-01-27）。
 - **他们嘴里的词（31 封来信、去引用后 37,298 字符的词频）**：话题（次数，最近一次）：质保 / 售后 ×17（2026-08-12）、管理型 / L2+ / L3 ×15（2026-02-27）、付款 / 物流 ×7（2026-01-23）、MOQ / 交期 ×7（2026-02-27）、样品 ×4（2026-03-02）、工业 ×4（2026-01-27）；芯片 / 供应商词：CENTEC ×3、Realtek ×2、Marvell ×1；**提过的数量**：500（2025-10-17，「…0 units: * 101–250 units: * 251–500 units: Best regards. Ende…」，`37d0a18adaf6e108`）；250（2025-10-17，「…50 units: * 51–100 units: * 101–250 units: * 251–500 unit…」，`37d0a18adaf6e108`）；100（2025-10-17，「…1–25 units: * 26–50 units: * 51–100 units: * 101–250 unit…」，`37d0a18adaf6e108`）。
 - **最后一球**：1:1 对话 3 段，最长一段 48 封 / 跨 277 天（2025-10-13 → 2026-07-17，「Industrial L2/L3 Managed Switches」）；**最后一句是他们说的**（2026-08-12，75 天前，「Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Or」，`2a47ba3b4819e20e`）：「 Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten v…」。
-- **GitHub 足迹（公开资料，2026-10-27 查）**：用户 [Netas](https://github.com/Netas)（company 字段一致；公开仓库 0）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

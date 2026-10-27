@@ -78,7 +78,6 @@ updated: 2026-10-27
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：官网语言 tr（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/sharer/sharer.php?u=https://www.novacom.com.tr/urun/nc-10-10-my920-multiswitch-yukseltici、https://www.facebook.com/sharer/sharer.php?u=https://www.novacom.com.tr/urun/nms-10-48p-sonlu-kaskat-multiswitch、https://www.facebook.com/sharer/sharer.php?u=https://www.novacom.com.tr/urun/nms-10-64s-sonlu-multiswitch。
 - **同国同档参照（TR，25% 档、主推线「工业 2.5G PoE 管理型」，共 1 户有动静，列前 3）**：SA-086 netas.com.tr（A，同档同线：成交 STI-488DGGPM-2BT，回过 24 次（最近 2026-08-12））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
-- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [NOVACOM](https://github.com/NOVACOM)（仅名称一致，未核实是否同一家；公开仓库 0）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

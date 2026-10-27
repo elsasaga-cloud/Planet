@@ -80,6 +80,23 @@ OOO_RE = re.compile(r'out of (?:the )?office|fuori sede|abwesen|absence|on vacat
                     r'|grazie per averci contattato|thank you for contacting|thanks for contacting|we have received your (?:e-?mail|message|request|inquiry)|this is an automated|do not reply to this|your (?:request|ticket|message) has been received|ticket (?:number|id|#)|wir haben ihre (?:e-?mail|nachricht|anfrage) erhalten|merci de nous avoir contact|hemos recibido su', re.I)
 
 
+def _reg_domain(host):
+    host = (host or '').lower().strip()
+    host = re.sub(r'^https?://', '', host).split('/')[0].split('@')[-1]
+    return host[4:] if host.startswith('www.') else host
+
+
+def gh_conflicting(acc, ent, domain):
+    """GitHub 非强匹配：blog / email 落在客户域名之外（含同名不同后缀 snexus.com vs snexus.com.tr）→ 别家，剔除。"""
+    mine = {_reg_domain(x) for x in (ent.get('domains') or [])} | ({domain} if domain else set())
+    for field in ('blog', 'email'):
+        v = acc.get(field) or ''
+        host = _reg_domain(v) if v else ''
+        if host and not any(host == m or host.endswith('.' + m) for m in mine):
+            return True
+    return False
+
+
 def unquoted(text):
     """去掉引用的历史邮件（> 开头、On … wrote:、From: 之后），只留对方自己写的那段。"""
     m = QUOTE_CUT.search(text or '')
@@ -732,7 +749,9 @@ def main():
         # 8. GitHub
         g = ghp.get(c)
         if g and g.get('accounts'):                             # 只用账号命中；repos_mentioning 多为同名词噪音，留在 github_presence.json 里不上 MD
-            d['github'] = {'accounts': g.get('accounts') or [], 'repos_mentioning_n': len(g.get('repos_mentioning') or []), 'checked_at': g.get('checked_at')}
+            accs = [a for a in g['accounts'] if a.get('match') == 'strong' or not gh_conflicting(a, e, g.get('domain') or '')]
+            if accs:
+                d['github'] = {'accounts': accs, 'repos_mentioning_n': len(g.get('repos_mentioning') or []), 'checked_at': g.get('checked_at')}
         # 9. 日历窗口
         hol = [(dd, nm) for dd, nm in HOLIDAYS.get(iso, []) if 0 <= (date.fromisoformat(dd) - TODAY).days <= 120]
         d['calendar'] = {'holidays': hol, 'cny': CNY_NOTE, 'tz': TZ.get(iso)}
@@ -848,6 +867,66 @@ def write_docs(dims, AB, country, seasons):
         subs = '、'.join(f'「{x[0]}」' for x in o['opened_subjects'][:2])
         L.append(f"| {d['code']} | {e['name'][:36]} | {e['country']} | {e['grade']} | {o['sent_180d']} / {o['opened_180d']} | {o['last_opened']} | {subs} | {st} |")
     open(os.path.join(ROOT, 'docs', f'AB_热度榜_{TODAY_S}.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
+    # 速读：跨户的可动作清单
+    Q = [f'# 多维画像 · 速读（跨户动作清单 · {TODAY_S}）', '',
+         '> 从 `dims.json` 里把「现在就能动手」的几类挑出来；每行带编号 / 日期 / 消息 key，细节看各户档案「多维画像」一节。只是清单，不改绑定行。', '']
+    def nm(c):
+        return f"{c} {AB[c]['name'][:28]}（{AB[c]['country']}，{AB[c]['grade']}）"
+    rows = [(d, d['ball']) for d in dims.values() if (d.get('ball') or {}).get('last_dir') == 'in']
+    rows.sort(key=lambda x: x[1]['last_date'], reverse=True)
+    Q += [f'## 1. 最后一句是他们说的（{len(rows)} 户）——先看这里', '']
+    for d, b in rows:
+        qs = ' / '.join(f'「{q}」' for q in b.get('last_questions') or [])
+        Q.append(f"- {nm(d['code'])}：{b['last_date']}（{b['days_since']} 天前）「{b['last_subj']}」 `{b['last_k']}`" + (f"：{qs}" if qs else (f"：「{b['last_snippet'][:80]}…」" if b.get('last_snippet') else '')))
+    rows = []
+    for d in dims.values():
+        b = d.get('ball') or {}
+        t = d.get('timing') or {}
+        if b.get('last_dir') == 'out' and t.get('their_reply_h_median') and (t.get('their_reply_n') or 0) >= 3 and b['days_since'] <= 120:
+            ratio = b['days_since'] * 24 / t['their_reply_h_median']
+            if ratio >= 10:
+                rows.append((ratio, d, b, t))
+    rows.sort(key=lambda x: -x[0])
+    Q += ['', f'## 2. 球在对方手里、已超出他们平时回信节奏 ≥10 倍（{len(rows)} 户）——值得追一句', '']
+    for ratio, d, b, t in rows:
+        Q.append(f"- {nm(d['code'])}：我方 {b['last_date']} 发「{b['last_subj']}」，{b['days_since']} 天没回；他们过去中位 {t['their_reply_h_median']} 小时回（{t['their_reply_n']} 次）→ {ratio:.0f} 倍 `{b['last_k']}`")
+    rows = [(d, d['channels']) for d in dims.values() if d.get('channels')]
+    one = []
+    for d, ch in rows:
+        ins = {mb: v['in'] for mb, v in ch.items()}
+        if sum(1 for v in ins.values() if v) == 1:
+            only = [mb for mb, v in ins.items() if v][0]
+            other = [mb for mb in ch if mb != only][0]
+            one.append((d, only, ch[only], other, ch[other]))
+    Q += ['', f'## 3. 只对一个邮箱有反应（{len(one)} 户）——下一封别换箱', '']
+    for d, only, v, other, vo in sorted(one, key=lambda x: -x[2]['in']):
+        Q.append(f"- {nm(d['code'])}：只回 {'S 箱 Simon' if only == 'S' else 'A 箱 Alan'}（去 {v['out']} 回 {v['in']}，最近 {v['last_in']}）；{'S' if other == 'S' else 'A'} 箱去 {vo['out']} 回 0")
+    rows = []
+    for d in dims.values():
+        for q in (d.get('words') or {}).get('qty') or []:
+            if q['q'] >= 50:
+                rows.append((q['q'], d, q))
+    rows.sort(key=lambda x: (-x[0], x[2]['date']))
+    Q += ['', f'## 4. 来信里提过 ≥50 台的数量（{len(rows)} 条）——体量线索，原句自己判断是需求还是客套', '']
+    for qn, d, q in rows:
+        Q.append(f"- {nm(d['code'])}：**{qn:,}**（{q['date']}）「…{q['ctx']}…」 `{q['k']}`")
+    rows = [(d, (d.get('words') or {}).get('competitors')) for d in dims.values() if (d.get('words') or {}).get('competitors')]
+    Q += ['', f'## 5. 来信里点过名的同行品牌（{len(rows)} 户）——对位时直接拿来比', '']
+    for d, comps in sorted(rows, key=lambda x: -sum(n for _, n, _ in x[1])):
+        Q.append(f"- {nm(d['code'])}：" + '、'.join(f'{k} ×{n}（{dt}）' for k, n, dt in comps))
+    rows = [(d, d['timing']['unanswered_in']) for d in dims.values() if (d.get('timing') or {}).get('unanswered_in')]
+    Q += ['', f'## 6. 我方欠答（{len(rows)} 户，按欠答封数）——与各户绑定行「我方欠答」对照，先验', '']
+    for d, n in sorted(rows, key=lambda x: -x[1]):
+        Q.append(f"- {nm(d['code'])}：{n} 封来信后 72 小时内无我方回复（最近来信 {d['timing']['last']}）")
+    rows = [(d, d['scale']['own_label']) for d in dims.values() if (d.get('scale') or {}).get('own_label')]
+    Q += ['', f'## 7. 官网已有自有型号串（{len(rows)} 户）——按 OEM 30% 档说话', '']
+    for d, own in sorted(rows, key=lambda x: x[0]['code']):
+        Q.append(f"- {nm(d['code'])}：{'、'.join(own[:4])}")
+    rows = [d for d in dims.values() if d.get('github')]
+    Q += ['', f'## 8. GitHub 上找得到的（{len(rows)} 户，扫描进行中）', '']
+    for d in rows:
+        Q.append(f"- {nm(d['code'])}：" + '、'.join(f"[{a['login']}]({a['url']})（{ {'strong': '域名一致', 'name': '仅名称一致', 'company': 'company 字段'}.get(a['match'], '') }，仓库 {a.get('public_repos')}）" for a in d['github']['accounts']))
+    open(os.path.join(ROOT, 'docs', f'多维画像_速读_{TODAY_S}.md'), 'w', encoding='utf-8').write('\n'.join(Q) + '\n')
     # 各国窗口与季节
     cn = {}
     for e in AB.values():
