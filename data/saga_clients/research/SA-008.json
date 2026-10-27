@@ -189,7 +189,8 @@
   "staff": "11–50（LinkedIn）",
   "registry": "RIPE：AS62023（NYNEX），IP 段 NYNEX-fiberONE；联系人句柄 NX123 = Frederik Kriewitz",
   "ownership": "自有网络运营商 + 系统集成商（VSAT、光纤、IP 中转）；2026 年新增 nynex.ai 自建 AI 基础设施",
-  "other": "2025-08-31 以 NYNEX/fiberONE 名义向德国联邦数字部提交 TKG 修法意见书（Kriewitz/Frank 署名）"
+  "other": "2025-08-31 以 NYNEX/fiberONE 名义向德国联邦数字部提交 TKG 修法意见书（Kriewitz/Frank 署名）",
+  "registry_de": "Amtsgericht Darmstadt HRA 84829（OHG，2012-11-27 登记）；商标 GigManiac / HOME SPEED HOME / skyZIP / GigCity；关联 NYNEX space GmbH（第 83 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "VSAT 卫星网络（Ku/Ka）",
@@ -238,7 +239,7 @@
  "kp": [
   {
    "name": "Frederik Kriewitz",
-   "role": "Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人）",
+   "role": "Systems Engineer / 网络负责人（成单联系人）；**非合伙人**——NYNEX satellite OHG（Amtsgericht Darmstadt HRA 84829）两名无限责任合伙人为创始人 Gunter Frank / Andreas Buxbaum（第 83 批 官方登记核实 2026-10-27）",
    "email": "f.kriewitz@nynex.de",
    "phone": "+49 6151 50074-009",
    "source": "https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表"

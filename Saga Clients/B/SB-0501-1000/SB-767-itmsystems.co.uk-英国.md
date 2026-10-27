@@ -134,17 +134,18 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
-**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/07747218）：**
+**公司底数 · 第 82 批（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/07747218）：**
 
 - 法定名 / 登记号：ITM SYSTEMS LIMITED · 07747218 · 状态 **Active** · 成立 2011-08-22 · Private limited company
-- 行业码（SIC）：26110 Manufacture of electronic components；62020 IT consultancy；63110 Data processing / hosting；80200 Security systems service activities
+- 行业码 / 经营范围：26110 Manufacture of electronic components；62020 IT consultancy；63110 Data processing / hosting；80200 Security systems service activities
 - 注册地址：North Wing, Broadway Court, Peterborough PE1 1RP（与官网一致）
 - 规模档：小型 · 两名在任董事
 - 账目：截至 2025-11-30 的账目已交（下期 2026-11-30，2027-08-31 前交）；确认声明 2026-02-04 已交，下期 2027-02-04
 - 高管：Inneh Emmanuel AIG-IMORU — 董事，1974-01 生，英国籍，2012-08-28 上任（在任 14 年，最稳定的一位）
 - 高管：Dr Stanislas Bael NYOKAS-MOUNTSAMBOTE — 创始董事 2011-08-22→2018-03-21 辞任，2024-11-28 重新上任（同日 Marie-Rose Nyokas 辞任）
 - 高管：Marie-Rose NYOKAS — 2015→2016、2015-08→2024-11 两段董事，已辞任
-- 抵押 / 担保：页面有 Charges 标签 → 存在抵押登记（明细未抓）
+- 控制人 / 股东：见 PSC 页（未抓）
+- 抵押 / 诉讼 / 担保：页面有 Charges 标签 → 存在抵押登记（明细未抓）
 - 曾用名：ITOTALMARKETING LIMITED（2011-08-22→2012-08-29）
 - **这意味着什么：**
   - 我们表里的 KP 只有一个名字「Steve」（info@itmsystems.net）：Companies House 在任董事里没有 Steve，最接近的是创始人 Dr Stanislas（Stan）Nyokas-Mountsambote，2024-11 刚回任董事 → 「Steve」大概率是 Stan 的英语化称呼，待核；另一位董事 Emmanuel Aig-Imoru 在任 14 年

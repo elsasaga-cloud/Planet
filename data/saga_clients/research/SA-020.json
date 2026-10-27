@@ -60,6 +60,13 @@
    "email": "ksurowiec@bitstream.pl",
    "phone": "",
    "source": "S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补）"
+  },
+  {
+   "name": "Dariusz Pietrzyk",
+   "role": "Prezes Zarządu（从 Sp. z o.o. 时代起的当家人）（第 83 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://rejestr.io/krs/1010572/bitstream"
   }
  ],
  "notes": "A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。",
@@ -69,11 +76,11 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "BitStream S.A.",
+  "legal_name": "BITSTREAM S.A.（KRS 0001010572，2023-01-02 由 Sp. z o.o. KRS 0000266288 转制；NIP 9462508588；资本 200,000 PLN；PKD 26.30.Z 通信设备制造）",
   "founded": "15+ 年（2023 改制股份公司）",
   "hq": "Lublin, Poland",
   "staff": "小型（trade.gov.pl）",
-  "other": "自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19\" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌"
+  "other": "自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19\" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌；最近年报营业收入 18.24M PLN、总成本 14.29M PLN；2026-08-18 监事会变更（第 83 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "Hyperion 工业交换机（105/200/300/402：4–32 口，PoE/bt 90W，2.5G/10G SFP+）",

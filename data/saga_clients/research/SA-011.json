@@ -66,6 +66,13 @@
    "email": "marco.divalerio@cxr.fr",
    "phone": "",
    "source": "S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补）"
+  },
+  {
+   "name": "Carmine Oliva",
+   "role": "Président de SAS（法定代表，1942 年生）—— 法国实体 CXR Anderson Jacobson 唯一登记高管（第 83 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://annuaire-entreprises.data.gouv.fr/entreprise/785754706"
   }
  ],
  "notes": "A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。",
@@ -75,10 +82,11 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "CXR Networks（CXR Anderson Jacobson）",
+  "legal_name": "CXR ANDERSON JACOBSON SAS（SIREN 785754706，1983-04-10 成立，Active；NAF 26.30Z 通信设备制造；员工档 20–49）",
   "founded": "1974",
   "hq": "Abondant, France",
-  "other": "自有 BDROS 平台的工业交换机品牌（SWMD-H 系列为典型华南 ODM 公版贴牌：IP40、6KV 防雷、DIN、-40~75/85℃）"
+  "other": "自有 BDROS 平台的工业交换机品牌（SWMD-H 系列为典型华南 ODM 公版贴牌：IP40、6KV 防雷、DIN、-40~75/85℃）；2025 年报净利 −57,478 €；历史 5 个机构仅剩 Abondant 总部（第 83 批 官方登记核实 2026-10-27）",
+  "staff": "20–49（INSEE 2024 员工档 12）（第 83 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "工业加固交换机 SWMD-H（DIN，4/8/10 口千兆 ±PoE，2 SFP；L3-lite 版）",

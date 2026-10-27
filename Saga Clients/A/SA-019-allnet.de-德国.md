@@ -101,6 +101,24 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 83 批（Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费页），2026-10-27 查；https://www.northdata.de/ALLNET%20GmbH%20Computersysteme,%20Germering/Amtsgericht%20M%C3%BCnchen%20HRB%2095992）：**
+
+- 法定名 / 登记号：ALLNET GmbH Computersysteme · Amtsgericht München HRB 95992 · LEI 5299008GWAOUQEZ8HJ12 · EUID DED2601V.HRB95992 · 状态 **在册，年报按期公告（2024 年报 2026-03-23 公布）** · 成立 1991-08-14 · GmbH · 股东 = Alldis Computersystem GmbH、Allnet Schweiz AG、SAS Allnet France（2024 年报股东名单）→ 家族控股集团
+- 行业码 / 经营范围：登记经营范围：计算机 / 网络硬件与软件的制造、销售与培训（另含废弃物收集运输）
+- 注册地址：Maistr. 2, D-82110 Germering（慕尼黑西郊）
+- 规模档：大型分销 + 自有品牌集团（€243M 营收）；1 名总经理
+- 账目：**2024 年营业收入 €243.2M · 资产总额 €117.6M**（Bundesanzeiger，2005–2024 年报连续可查）；德国 GmbH 年报于次年 12-31 前公告；2025 年报预计 2026-12 → 2027-03 出现
+- 高管：Wolfgang Marcus BAUER — 唯一 Geschäftsführer（2025-04-30 最新登记；创始人家族，同时任 ALLDIS GmbH / ALLBILL GmbH / INNET Industrieelektronik Vertriebs GmbH / Allknow GmbH 的 GF 或股东）
+- 高管：关联公司：ALLDIS GmbH（HRB 110302）、ALLBILL GmbH（HRB 173037）、INNET Industrieelektronik Vertriebs GmbH（HRB 115617）、Allknow GmbH（HRB 298881）、PortaMare GmbH、Allnet Schweiz AG、SAS Allnet France；NCP EDV Handelsgesellschaft mbH 已注销
+- 控制人 / 股东：Bauer 家族通过 Alldis Computersystem GmbH 等控股
+- **这意味着什么：**
+  - **€243M 营收的德国网络产品分销 + 自有品牌商（ALLNET 品牌交换机 / PoE / 工业以太网）**：这是 A 档里体量最大的德国户之一，目标不是「卖几箱」而是进入 ALLNET 自有品牌的 ODM 供应池 → 走 OEM 30% 线，样机 + 完整测试报告 + 固件定制能力一起递
+  - 唯一 GF Wolfgang Bauer 同时管 5 家关联公司：采购决策在产品经理 / Einkauf 层面，Bauer 只签框架——邮件找 Produktmanagement Netzwerk，不要直接打扰 GF
+  - 商标 Allnet / Synergy21 / plusonic / ALLDAQ + 多项专利（远程监控装置、LED 模块、2025 网络线磁性安全耦合器）：公司有工程能力，会要求完整技术文档（EMC / RoHS / REACH / 固件变更记录）；准备好 CENTEC 和 Marvell 两套资料
+  - 股东含 Allnet Schweiz AG 与 SAS Allnet France：一旦进入供应池，瑞士 / 法国分公司同步覆盖 → 长期复利最高的德国户
+  - 2024 年报已出（2026-03），下次 2027-03 看 2025 营收走势
+- 备注：Northdata 免费层给出营收 / 资产总额 / 股东 / 关联公司；明细需付费。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -149,11 +167,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ALLNET GmbH Computersysteme |
+| 法定名称 | ALLNET GmbH Computersysteme（Amtsgericht München HRB 95992，1991-08-14；LEI 5299008GWAOUQEZ8HJ12） |
 | 成立 | 1991（Wolfgang Marcus Bauer） |
 | 总部/地址 | Germering bei München, Germany |
 | 营收 | €58M（2013 口径，待更新） |
-| 其他 | 自有品牌 ALLNET 工业交换机全线（ALL-SGI 系列：Entry Line 非管理 / smart managed / full managed L2+，含 bt 90W、JSON API），2025-05 仍在发新品；也供应 Reichelt、Galaxus 等零售渠道 |
+| 其他 | 自有品牌 ALLNET 工业交换机全线（ALL-SGI 系列：Entry Line 非管理 / smart managed / full managed L2+，含 bt 90W、JSON API），2025-05 仍在发新品；也供应 Reichelt、Galaxus 等零售渠道；2024 营收 €243.2M、资产 €117.6M（Bundesanzeiger）；股东 Alldis Computersystem GmbH / Allnet Schweiz AG / SAS Allnet France；唯一 GF Wolfgang Marcus Bauer（第 83 批 官方登记核实 2026-10-27） |
 
 - **业务线**：增值分销（网络/无线/UCC/视频监控/安全/测量）；ALLNET 品牌：工业 DIN 交换机 ALL-SGI 系列、商用交换机、WLAN、监控、电信；欧洲渠道（ALLNET Italia 等子公司）
 

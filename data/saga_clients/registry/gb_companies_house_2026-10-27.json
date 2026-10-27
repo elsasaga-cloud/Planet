@@ -1,7 +1,7 @@
 {
  "_meta": {
   "kind": "registry",
-  "source": "UK Companies House（find-and-update.company-information.service.gov.uk，免费官方登记）",
+  "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
   "count": 9
@@ -39,7 +39,8 @@
    ],
    "notes": "董事 = 实际拍板人：Omar Miqdadi。给 Megnet 的信抬头应对他本人而不是 info@。",
    "fetched": "2026-10-27",
-   "code": "SA-015"
+   "code": "SA-015",
+   "batch": 82
   },
   "SA-007": {
    "name": "GO GREEN IT LTD",
@@ -71,7 +72,8 @@
    ],
    "notes": "信抬头写 Chris（董事），不要只发 info@。",
    "fetched": "2026-10-27",
-   "code": "SA-007"
+   "code": "SA-007",
+   "batch": 82
   },
   "SA-017": {
    "name": "PARALLAX DIGITAL TECHNOLOGIES LIMITED",
@@ -109,7 +111,8 @@
    ],
    "notes": "无抵押、单董事、工业园自有单元 → 小而稳。",
    "fetched": "2026-10-27",
-   "code": "SA-017"
+   "code": "SA-017",
+   "batch": 82
   },
   "SB-160": {
    "name": "LINXCOM LIMITED",
@@ -145,7 +148,8 @@
    ],
    "notes": "注册地变更为 50 Woodgate → 更新 hq。",
    "fetched": "2026-10-27",
-   "code": "SB-160"
+   "code": "SB-160",
+   "batch": 82
   },
   "SB-905": {
    "name": "TELTRONIX HOLDINGS LTD（品牌 Briticom™）",
@@ -178,7 +182,8 @@
    ],
    "psc": "见 PSC 页（未抓）",
    "charges": "页面有 Charges 标签 → 存在抵押登记（明细未抓）",
-   "prev_names": []
+   "prev_names": [],
+   "batch": 82
   },
   "SB-767": {
    "name": "ITM SYSTEMS LIMITED",
@@ -217,7 +222,8 @@
    ],
    "notes": "Steve ≈ Stanislas 待核；有抵押登记。",
    "fetched": "2026-10-27",
-   "code": "SB-767"
+   "code": "SB-767",
+   "batch": 82
   },
   "SB-474": {
    "name": "CASE COMMUNICATIONS LIMITED",
@@ -254,7 +260,8 @@
    ],
    "notes": "Andy = Andrew Saoulis（董事 / 老板）。更新 KP 角色。",
    "fetched": "2026-10-27",
-   "code": "SB-474"
+   "code": "SB-474",
+   "batch": 82
   },
   "SB-118": {
    "name": "GENROV LTD",
@@ -284,7 +291,8 @@
    ],
    "notes": "低优先级 B；工商口径确认存活。",
    "fetched": "2026-10-27",
-   "code": "SB-118"
+   "code": "SB-118",
+   "batch": 82
   },
   "SB-176": {
    "name": "OKSA AUTOMATION LIMITED",
@@ -314,7 +322,8 @@
    ],
    "notes": "低优先级 B，只核了存续与成立时间。",
    "fetched": "2026-10-27",
-   "code": "SB-176"
+   "code": "SB-176",
+   "batch": 82
   }
  }
 }

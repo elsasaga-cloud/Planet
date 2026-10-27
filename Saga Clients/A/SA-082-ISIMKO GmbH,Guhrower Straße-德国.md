@@ -92,6 +92,27 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 83 批（Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费页），2026-10-27 查；https://www.northdata.de/ISIMKO%20GmbH,%20Cottbus/HRB%20472）：**
+
+- 法定名 / 登记号：ISIMKO GmbH（原 G. Fleischhauer Ingenieur-Büro Cottbus GmbH → Fleischhauer Cottbus GmbH） · Amtsgericht Cottbus HRB 472 · EUID DEG1103.HRB472CB · USt-ID DE138775376（研究档） · 状态 **在册，年报按期公告（2024 年报 2026-01-19 公布）** · 成立 1990-09-28（两德统一前夜在科特布斯登记，HRB 472 极早号段） · GmbH · 注册资本 €200,000（研究档）· 4 名已知股东（含 Hannemann & Noack GmbH & Co. KG / Verwaltungs GmbH 持股架构）
+- 行业码 / 经营范围：登记经营范围：数据 / 电气 / 通信 / 网络 / 安防 / 媒体技术设备的制造、供应与安装；复杂系统方案的规划与实施；电子与 IT 设备贸易、维护；移动 / 固话合约与车联网销售
+- 注册地址：Guhrower Str. 5, D-03044 Cottbus（勃兰登堡）
+- 规模档：中型系统集成商（毛利 €8M → 约 60–100 人规模）
+- 账目：2024：资产总额 €5,757,227 · 毛利（Rohergebnis）€8,000,778（Bundesanzeiger；营收需付费，按毛利推测 €15–25M 量级）· 2006–2024 年报连续；次年 12-31 前公告
+- 高管：Ralph-Peter HANNEMANN — Geschäftsführer（2005-08-03 起）；家族控股方之一
+- 高管：Diego NOACK — Geschäftsführer（2014-01-10 起）；Noack 家族第二代（父 Wolfgang Noack 2005–2018 任 GF）
+- 高管：Falk NOACK — Prokurist（2018-01-16 起）
+- 高管：控股：Hannemann & Noack GmbH & Co. KG（HRA 1966）/ Hannemann & Noack Verwaltungs GmbH（HRB 8211）
+- 控制人 / 股东：Hannemann 与 Noack 两家族
+- 曾用名：G. Fleischhauer Ingenieur-Büro Cottbus GmbH（1990）；Fleischhauer Cottbus GmbH（2016-06-27）；ISIMKO GmbH（2017-01-02 起；商标 ISIMKO 2017-07 注册，2026-06 续展）
+- **这意味着什么：**
+  - **登记证实：Saga 自建站询盘人 Ralph Hannemann 就是 GF 兼控股家族之一（2005 年起任 Geschäftsführer）**——老板亲自询盘，回复直接给方案 + 价格，不需要再找「决策人」；第二代 Diego Noack 是另一位 GF，大单抄送即可
+  - 登记范围是「制造 + 安装 + 系统方案」而非分销：买交换机是进项目（楼宇 / 安防 / 媒体技术）→ 集成 25% 档；项目型采购节奏不规律，靠「有货 + 4–7 天交期」而不是靠低价
+  - 毛利 €8M、资产 €5.8M：付款能力好，可以接受 T/T 50/50；首单后可谈 30/70
+  - 2017 年才从 Fleischhauer 改名 ISIMKO 并注册商标：品牌在重建期，愿意为「自有标识」的产品买单 → 顺手提 logo 免费丝印
+  - 2024 年报已出，2027-01 看 2025 数
+- 备注：营收明细付费；Northdata 免费层给毛利 / 资产 / 董事 / 股东结构。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -139,7 +160,7 @@ updated: 2026-10-27
 | 成立 | 1990-09-28（2017 更名 ISIMKO） |
 | 总部/地址 | Guhrower Straße 5, 03044 Cottbus, Germany（+49 355 78015-0；info@isimko.de）；技术办公室 Berlin Georgenstraße 35；Dresden；Schwarze Pumpe |
 | 注册/税号 | HRB 472 Amtsgericht Cottbus · USt-ID DE 138 775 376 · 注册资本 €200,000 |
-| 其他 | 家族企业；电工与信息技术手工业资质；客户：工业、中型企业、公共部门 |
+| 其他 | 家族企业；电工与信息技术手工业资质；客户：工业、中型企业、公共部门；Northdata：HRB 472 Cottbus 1990-09-28 登记；GF Ralph-Peter Hannemann（2005 起，= 自建站询盘人）+ Diego Noack（2014 起）；Prokura Falk Noack；Hannemann & Noack 两家族控股；2024 资产 €5.76M、毛利 €8.0M；曾用名 Fleischhauer Cottbus GmbH（第 83 批 官方登记核实 2026-10-27） |
 
 - **业务线**：工业铜缆/光纤网络规划与施工（专长）；信息技术与 IT 安全技术项目；安防技术、媒体技术、通信技术（电话、楼宇集成）
 - **触达通道（公开）**：网站: https://www.isimko.de/；电话: +49 355 78015-0（Impressum 公开）；邮箱（公开）: info@isimko.de；LinkedIn: https://de.linkedin.com/company/isimko

@@ -52,6 +52,13 @@
    "email": "info@fcnet.pl",
    "phone": "+48 77 541 84 75",
    "source": "https://www.fcnet.pl/o-firmie"
+  },
+  {
+   "name": "Piotr Frydel / Jarosław Cisowski / Krzysztof Smugowski / A. J. Frydel",
+   "role": "管理委员会 4 名成员 = 4 名各 25% 股东（KRS 0001095976）；任一人可单独签 ≤100,000 PLN，超过需两人联签（第 83 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json"
   }
  ],
  "notes": "A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。",
@@ -61,7 +68,7 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "FCNET Sp. z o.o.（原 FCNet Future Communication Networks s.c.；NIP 7542916466，REGON 160150149）",
+  "legal_name": "FCNET SP. Z O.O.（KRS 0001095976 · NIP 7542916466 · REGON 160150149；2007 起民事合伙，2023-12 转有限公司，2024-03 入 KRS；PKD 46.52.Z 批发；资本 100,000 PLN）",
   "hq": "ul. Św. Jacka 2, 45-073 Opole, Poland",
   "revenue": "约 10.2M PLN",
   "other": "Fluke Networks 波兰分销商；网店卖 TP-Link/Netgear/Cisco/HPE/Ubiquiti/MikroTik 交换机，含 PoE 电源配件；automatyka.pl 类目含工业交换机/工业路由器/MC"

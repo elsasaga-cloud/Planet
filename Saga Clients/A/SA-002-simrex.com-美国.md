@@ -115,6 +115,22 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 83 批（USA · SAM.gov 联邦供应商登记（CAGE / DUNS，经 cage.report 镜像，记录更新 2026-05-06）+ 官网 / Bloomberg，2026-10-27 查；https://cage.report/DUNS/087787573）：**
+
+- 法定名 / 登记号：SIMREX CORPORATION · CAGE 1WEC8 · DUNS 087787573 · 注册地 Delaware（在 NY 经营） · 状态 **SAM 登记 Active（2026-05-06 续期，到期 2027-05-04）** · 成立 业务始于 1996-01-18（SAM「Business started」；Bloomberg 口径 1991-11-13）；SAM 首次登记 2001-12-04 · Corporation（Delaware）· S-Corp（Subchapter S，2018 档案）· 实体结构码 2L · **Woman Owned Business**（govcb）· SAM 分类「U.S. or Canadian manufacturer」
+- 行业码 / 经营范围：联邦供应商分类：制造商（Entity type A）；无线通信 / 射频数据设备（官网）
+- 注册地址：1223 William St, Buffalo, NY 14206（制造与服务设施）
+- 规模档：5–6 人的小型射频 / 无线设备制造商；女性所有企业
+- 账目：私人公司不公开；第三方估计营收 $3–5.9M、员工 5–6 人（RocketReach / AlphaBusinessTrends，仅参考）
+- 高管：SAM 登记联系人邮箱 frank@simrex.com（研究档 KP 对照）；州务卿（NY DOS）官员名单需在线检索，未取
+- 控制人 / 股东：女性所有（WOSB 口径）
+- **这意味着什么：**
+  - **SAM.gov 在册 25 年、2026-05 刚续期的联邦供应商 + 女性所有企业**：Simrex 做政府 / 公用事业 / 交通无线数据项目，交换机是配套件；美国政府项目里「Woman Owned」是加分项，他们会珍惜资格——配套件只要 FCC/CE/RoHS 齐全、原产地申报清楚即可（不要碰 NDAA 表述，按话术禁区）
+  - Delaware 注册 + 纽约经营 + S-Corp：典型小型家族制造商，老板直接拍板；frank@ 很可能就是所有者 / 负责人
+  - 5–6 人、制造商：采购频率低但稳定（项目制），走集成 25% 档，突出工业级温宽 / 3 年质保 / 现货
+  - SAM 登记每年续期（5 月），续期 = 仍在接政府项目，顺手查一次即可
+- 备注：美国：州务卿无统一免费 API；SAM/CAGE 镜像（cage.report）对接政府项目的公司最有用；其他公司用 web_search 看 bizapedia / 州登记快照。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -149,14 +165,14 @@ updated: 2026-10-27
 - **【官网】DataMover 交换机型号与规格（MS-5、MS-5GS、MSG-8E4S）**
   > DATAMOVER MS-5GS - Hardened Gigabit Managed Switch Supported by SIMREX CRMS NMS … Five 10/100/1000 Mbit/s … DATAMOVER MSG-8E4S - Hardened Gigabit Managed Switch … Eight 10/100/1000 Mbit/s … Supports 802.3af/at devices if the 48-57VDC input is used. Max current 450mA per port
   > 来源：https://www.simrex.com/site/apps/traffic.htm（抓取 2026-10-21）
-- **KP**：Frank Neuperger（General Manager（RocketReach 口径））frank@simrex.com +1 716-206-0174（总机）〔https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封〕
+- **KP**：Frank Neuperger（General Manager；SAM.gov 登记联系人（CAGE 1WEC8 / DUNS 087787573，Delaware 公司，S-Corp，Woman Owned Business，业务始于 1996-01-18，SAM 续期至 2027-05-04）（第 83 批 官方登记核实 2026-10-27））frank@simrex.com +1 716-206-0174（总机）〔https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封〕
 - 备注：A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SIMREX Corporation |
+| 法定名称 | SIMREX CORPORATION（Delaware 注册，纽约 Buffalo 经营；CAGE 1WEC8；SAM 分类 U.S. manufacturer；Woman Owned）（第 83 批 官方登记核实 2026-10-27） |
 | 成立 | 1996 |
 | 总部/地址 | Buffalo, New York, USA |
 | 人数 | 11–50 |
@@ -258,7 +274,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Frank Neuperger | General Manager（RocketReach 口径） | frank@simrex.com / +1 716-206-0174（总机） | 调研核实（公开页） | https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封 |
+| Frank Neuperger | General Manager；SAM.gov 登记联系人（CAGE 1WEC8 / DUNS 087787573，Delaware 公司，S-Corp，Woman Owned Business，业务始于 1996-01-18，SAM 续期至 2027-05-04）（第 83 批 官方登记核实 2026-10-27） | frank@simrex.com / +1 716-206-0174（总机） | 调研核实（公开页） | https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封 |
 
 - **通道建议**：企业邮箱可直发
 

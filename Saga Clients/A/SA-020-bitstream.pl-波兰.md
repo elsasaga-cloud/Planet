@@ -102,6 +102,22 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 83 批（Poland · KRS（rejestr.io / imsig.pl / krs-pobierz.pl 镜像），2026-10-27 查；https://rejestr.io/krs/1010572/bitstream）：**
+
+- 法定名 / 登记号：BITSTREAM SPÓŁKA AKCYJNA（原 Bitstream Sp. z o.o.，KRS 0000266288） · KRS 0001010572（S.A.，2023-01-02）· 旧 KRS 0000266288（Sp. z o.o.）· NIP 9462508588 · REGON 060184269 · BDO 000015549 · 状态 **Aktywna · 最近登记第 21 号 2026-08-18（修改监事会 Organ nadzoru）；第 20 号 2026-07-02（年报 + 2026-06-30 公证书）** · 成立 Sp. z o.o. 约 2006（REGON 06 开头 = 卢布林省，KRS 266288 ≈ 2006 年）；2023-01-02 转为股份公司 · Spółka akcyjna · 注册资本 200,000 PLN
+- 行业码 / 经营范围：PKD 26.30.Z — 通信设备制造（主营）→ 登记就是「制造商」
+- 注册地址：ul. Mełgiewska 7/9, 20-209 Lublin
+- 规模档：中小型制造商（营收 ≈ $4.6M，营业利润率 ≈ 21%）
+- 账目：S.A. 最近年报：营业收入 18.24M PLN（≈ $4.6M）、总成本 14.29M → 营业利润约 3.9M PLN（bizraport）；前身 Sp. z o.o. 年份营收 10.1M、资产 9.8M；KRS 年报 6–7 月备案（2026-07-02 已备）
+- 高管：Dariusz PIETRZYK — Prezes Zarządu（Sp. z o.o. 时代起即决策人）
+- 高管：2026-08-18 监事会变更（S.A. 设监事会 → 有外部股东 / 治理升级迹象）
+- 曾用名：BITSTREAM SP. Z O.O.（KRS 0000266288，→ 2023-01 转制）
+- **这意味着什么：**
+  - **PKD 26.30.Z 制造商 + 2023 年改制股份公司 + 2026 年监事会变动**：BitStream 自己做光传输 / 网络硬件（有研发），采购 Saga 交换机是做 OEM 配套或补齐产品线 → OEM 30% 线，别按分销报
+  - Prezes Dariusz Pietrzyk 从 Sp. z o.o. 时代一路当家 → 他就是老板；营业利润率 21% 说明有技术溢价，谈的时候强调 Marvell / CENTEC 芯片与固件可定制，不要先谈最低价
+  - 改股份公司 + 监事会 = 可能在准备融资 / 新股东进入：合作要写成正式供货协议（含质保 3 年、固件更新承诺），利于他们对股东交代
+  - 2027-07 看 2026 年报（营收是否继续两位数增长）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -141,17 +157,18 @@ updated: 2026-10-27
   > 来源：https://bitstream.pl/en/products/hyperion-200/（抓取 2026-10-21）
 - **KP**：M. Beczek（mbeczek@）（出口/商务联系人（官方名录公开））mbeczek@bitstream.pl +48 691 161 866〔https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna〕
 - **KP**：Katarzyna Surowiec（来信署名人（职务未在邮件署名里出现））ksurowiec@bitstream.pl 〔S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补）〕
+- **KP**：Dariusz Pietrzyk（Prezes Zarządu（从 Sp. z o.o. 时代起的当家人）（第 83 批 官方登记核实 2026-10-27）） 〔https://rejestr.io/krs/1010572/bitstream〕
 - 备注：A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | BitStream S.A. |
+| 法定名称 | BITSTREAM S.A.（KRS 0001010572，2023-01-02 由 Sp. z o.o. KRS 0000266288 转制；NIP 9462508588；资本 200,000 PLN；PKD 26.30.Z 通信设备制造） |
 | 成立 | 15+ 年（2023 改制股份公司） |
 | 总部/地址 | Lublin, Poland |
 | 人数 | 小型（trade.gov.pl） |
-| 其他 | 自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌 |
+| 其他 | 自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌；最近年报营业收入 18.24M PLN、总成本 14.29M PLN；2026-08-18 监事会变更（第 83 批 官方登记核实 2026-10-27） |
 
 - **业务线**：Hyperion 工业交换机（105/200/300/402：4–32 口，PoE/bt 90W，2.5G/10G SFP+）；MC、接口转换器；PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲
 
@@ -253,6 +270,7 @@ updated: 2026-10-27
 |---|---|---|---|---|
 | M. Beczek（mbeczek@） | 出口/商务联系人（官方名录公开） | mbeczek@bitstream.pl / +48 691 161 866 | 调研核实（公开页） | https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna |
 | Katarzyna Surowiec | 来信署名人（职务未在邮件署名里出现） | ksurowiec@bitstream.pl | 调研核实（公开页） | S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补） |
+| Dariusz Pietrzyk | Prezes Zarządu（从 Sp. z o.o. 时代起的当家人）（第 83 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://rejestr.io/krs/1010572/bitstream |
 | Aleksander Hyz | — | ahyz@bitstream.pl / dpietrzyk@bitstream.pl | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

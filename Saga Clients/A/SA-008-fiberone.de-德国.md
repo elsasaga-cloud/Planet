@@ -156,6 +156,24 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 83 批（Germany · Handelsregister 摘要（Northdata 免费页，Amtsgericht Darmstadt），2026-10-27 查；https://www.northdata.de/NYNEX%20satellite%20OHG,%20Darmstadt/HRA%2084829）：**
+
+- 法定名 / 登记号：NYNEX satellite OHG（品牌 fiberONE） · Amtsgericht Darmstadt HRA 84829 · EUID DEM1103.HRA84829 · 状态 **在册（Northdata 无注销 / 破产事件；最近事件 2017 商标）** · 成立 2012-11-27 登记（2012-11-29 / 12-04 公告），2013-07 地址变更 · OHG（无限责任合伙 / 普通合伙）· 两名人身无限责任合伙人（Pers.haft.Gesellschafter 2 Personen）
+- 行业码 / 经营范围：登记经营范围：卫星广域网的咨询、销售与运营（Die Beratung, der Vertrieb und Betrieb von satellitengestützten Weitverkehrsnetzen）
+- 注册地址：Darmstadt（研究档：Robert-Bosch-Str. 20, 64293 Darmstadt）
+- 规模档：合伙企业，两名合伙人对债务负无限连带责任 → 实质是两位老板的公司
+- 账目：OHG 不公开年报（无 Bundesanzeiger 义务，Northdata 无 Kennzahlen）
+- 高管：两名无限责任合伙人（Handelsregister 2012-11 登记；Northdata 免费层不显示姓名）——按本档研究 = 创始人 Gunter Frank 与 Andreas Buxbaum（2000 年创立 NYNEX）；成单联系人 Frederik Kriewitz 是系统工程师，不是合伙人
+- 高管：关联：NYNEX space GmbH（2012-12 / 2013-01 股东名单提及）= 同一老板的另一家公司
+- 控制人 / 股东：两名合伙人
+- **这意味着什么：**
+  - **OHG = 合伙人对公司债务负无限个人责任**：Gunter Frank 拍板的事就是他个人担保的事，付款风险在德国客户里属最低一档；反过来他们也会算得很细——报价别留水分
+  - 对接人 Frederik Kriewitz 只是工程师：技术选型他说了算，但金额稍大的采购要过合伙人 Frank / Buxbaum——PI 和年度框架类的邮件抄 Frank 一份
+  - 商标 GigManiac（2015）、HOME SPEED HOME（2016）、skyZIP（2017）、GigCity：2015–2017 在德国专利商标局密集注册零售宽带品牌 → fiberONE 是自有品牌运营商 → 贴牌（OEM 30%）和整机（集成 25%）两条线都成立
+  - 登记主业是卫星 WAN 咨询 / 运营：买交换机是配自己的网络项目（持续、按项目节奏），不是倒手分销 → 不该出现在「分销 20%」价
+  - 同老板另有 NYNEX space GmbH：PI 抬头、收货人可能在两家之间切换，开 PI 前问清用哪个法人；合伙人姓名全文可在 handelsregister.de 免费查，下轮补
+- 备注：Northdata 免费层：登记号 / 经营范围 / 事件时间线 / 商标；合伙人姓名与年报需 handelsregister.de 或付费。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -256,7 +274,7 @@ updated: 2026-10-27
 - **【Simon 文档】绑定等级（文档当时）：轻度绑定——「SmartByte 也背书了」；2026-10-23 Simon 口述升为较深（GitHub 提交 LibreNMS/Oxidized 支持）**
   > 德国 Frederik　轻度绑定 = Smartbyte也背书了
   > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
-- **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
+- **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（成单联系人）；**非合伙人**——NYNEX satellite OHG（Amtsgericht Darmstadt HRA 84829）两名无限责任合伙人为创始人 Gunter Frank / Andreas Buxbaum（第 83 批 官方登记核实 2026-10-27））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
 - **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃 → A
 - 备注：A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。
@@ -384,7 +402,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Frederik Kriewitz | Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人） | f.kriewitz@nynex.de / +49 6151 50074-009 | 调研核实（公开页） | https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表 |
+| Frederik Kriewitz | Systems Engineer / 网络负责人（成单联系人）；**非合伙人**——NYNEX satellite OHG（Amtsgericht Darmstadt HRA 84829）两名无限责任合伙人为创始人 Gunter Frank / Andreas Buxbaum（第 83 批 官方登记核实 2026-10-27） | f.kriewitz@nynex.de / +49 6151 50074-009 | 调研核实（公开页） | https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表 |
 | Gunter Frank | 创始人/合伙人（1999/2000 创立） | — | 调研核实（公开页） | https://nynex.de/company/ |
 
 - **通道建议**：企业邮箱可直发

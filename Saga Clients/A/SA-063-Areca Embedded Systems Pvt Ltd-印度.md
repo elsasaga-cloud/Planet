@@ -94,6 +94,24 @@ updated: 2026-10-27
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 83 批（India · MCA 公司登记（Zauba / Tofler / FalconEbiz / IndiaFilings 摘要，最新快照 2026-09-04），2026-10-27 查；https://www.falconebiz.com/company/ARECA-EMBEDDED-SYSTEMS-PRIVATE-LIMITED-U72200TG2007PTC053397）：**
+
+- 法定名 / 登记号：ARECA EMBEDDED SYSTEMS PRIVATE LIMITED · CIN U72200TG2007PTC053397 · RoC Hyderabad 注册号 53397 · 状态 **Active · 最近 AGM 2024-09-30（Tofler / Tracxn）；2026-04-24 新董事加入** · 成立 2007-03-29 · Private Limited · 法定资本 ₹46,600,000 · **实缴 ₹46,522,500（≈ $55 万）** → 在 A 档印度户里资本最厚
+- 行业码 / 经营范围：NIC 722（软件 / 嵌入式系统）；实际 = 嵌入式 / 网络硬件设计公司（海得拉巴）
+- 注册地址：Hyderabad, Telangana（研究档）
+- 规模档：实缴 ₹4.65 crore 的中型技术公司；董事会 2 人
+- 账目：未公开（付费）；年报正常；AGM 9-30
+- 高管：Rashmi JAIN — Director 兼股东（DIN 01336337，2018-03-20 起）= 现任实控人（Jain 家族）
+- 高管：Nilesh Bastimal JAIN — Director（DIN 09076522，**2026-04-24 新任**）= Jain 家族成员接入董事会
+- 高管：Gutta Venkata KUMARI — Director（DIN 07114694，2015-03-06 起；2026 FalconEbiz 名单已不含她 → 可能 2026 年卸任，待下次 MCA 快照核）
+- 高管：历任：创始人 Kantharao / Rajani UPPALA（2007–2009）→ Babji Gadde（2011）→ Somasekhar R. Koditipalli（2012–2018）→ 2018 年 Jain 家族接手
+- 控制人 / 股东：Jain 家族（Rashmi Jain 为登记股东）
+- **这意味着什么：**
+  - **公司 2018 年换手给 Jain 家族，2026-04 又新增董事 Nilesh Jain**：董事会正在换人 → 现在是重新建立联系人的窗口；研究档 KP 若是 2018 年前的人，先验证还在不在
+  - 实缴资本 ₹4.65 crore（≈ $55 万）是印度 A 档里最厚的：有能力做 OEM / ODM 项目（嵌入式背景），可推 CENTEC 白盒 + Marvell 管理型做他们方案的底座 → OEM 30% 线
+  - NIC 722 软件 / 嵌入式：他们买交换机是配自己的系统（不是分销）→ 按集成 25% 报，强调 SDK / CLI 文档和 3 年质保
+  - 印度 BIS：Areca 自己是品牌 / 系统商，BIS 由他们申请；MCA 快照每年 10–11 月更新，2027-01 复查董事名单（确认 Kumari 是否卸任）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,13 +146,14 @@ updated: 2026-10-27
   > The Corporate was formerly known as Aster Electrosoft Private Limited. The Company is engaged in the field of telecommunication, transportation and power sectors providing new product development, railways, product re-engineering and product support services in hardware, defense, software
   > 来源：https://www.thecompanycheck.com/company/areca-embedded-systems-private-limited/U72200TG2007PTC053397（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +91 90000 50555（WA）〔用户 Clients 表〕
+- **KP**：Rashmi Jain（Director 兼股东（DIN 01336337，2018-03-20 起）= 现任实控人；2026-04-24 新增董事 Nilesh Bastimal Jain；Gutta Venkata Kumari（2015 起）2026 名单疑已卸任（第 83 批 官方登记核实 2026-10-27）） 〔https://www.falconebiz.com/company/ARECA-EMBEDDED-SYSTEMS-PRIVATE-LIMITED-U72200TG2007PTC053397〕
 - 备注：规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 areca.in + 公司注册核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Areca Embedded Systems Private Limited（CIN U72200TG2007PTC053397） |
+| 法定名称 | ARECA EMBEDDED SYSTEMS PRIVATE LIMITED（CIN U72200TG2007PTC053397，2007-03-29，Active；实缴 ₹46,522,500；RoC Hyderabad；2018 年易主 Jain 家族） |
 | 成立 | 2007-03-29（RoC Hyderabad） |
 | 总部/地址 | Plot No 5B, Survey No 184 & 185, Phase-V, IDA Cherlapally, Hyderabad, Telangana 500051（另：54/S Anupuram, ECIL, Hyderabad 500062） |
 | 其他 | ISO 9001:2015；主业 **铁路 / 国防 / 电信 / 电力** 嵌入式产品开发：列车 PIS、Smart Coach PICCU、信号继电器 Q 系列、LTE-R、站台 GPS 时钟、卫星时间同步、接地漏电检测、国防光纤话音/数据遥测链路（IndiaMART） |
@@ -212,6 +231,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Rashmi Jain | Director 兼股东（DIN 01336337，2018-03-20 起）= 现任实控人；2026-04-24 新增董事 Nilesh Bastimal Jain；Gutta Venkata Kumari（2015 起）2026 名单疑已卸任（第 83 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.falconebiz.com/company/ARECA-EMBEDDED-SYSTEMS-PRIVATE-LIMITED-U72200TG2007PTC053397 |
 | Kishore Guturi | — | kb@areca.in / +919000050555 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

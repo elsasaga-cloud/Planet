@@ -106,6 +106,22 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 83 批（Poland · KRS（rejestr.io / bizraport.pl / okredo 镜像，财报来自 KRS 年报），2026-10-27 查；https://rejestr.io/krs/585900/impakt）：**
+
+- 法定名 / 登记号：IMPAKT SPÓŁKA AKCYJNA · KRS 0000585900 · NIP 7831720485 · REGON 360441981 · 状态 **Czynny（活跃）· 最近登记第 43 号 2025-07-01** · 成立 2015-11-13 入 KRS（股份公司形式；品牌 Genesis / Lanberg / Natec 更早） · Spółka akcyjna（股份公司，未上市）· 注册资本 60,761,002 PLN（≈ $15M）全部实缴
+- 行业码 / 经营范围：（PKD 未在摘要中；实际 = 自有品牌 IT 配件 / 网络 / 游戏外设分销商：Genesis、Lanberg、Natec）
+- 注册地址：ul. Stanisława Lema 16, 62-050 Mosina（波兹南南郊）
+- 规模档：大型自有品牌商 / 分销商（营收 ≈ $38M，资本 6,000 万 PLN）
+- 账目：2025 营收 152.2M PLN（≈ $38M；2024：149.2M；okredo 口径 2024 148.1M）· 2025 税前利润 10.8M、净利 8.6M PLN · 资产 87.2M PLN；KRS 年报 6–7 月备案
+- 高管：Marcin CHOJNACKI — Prezes Zarządu（董事长 / CEO）
+- 控制人 / 股东：（股东结构未在免费摘要；S.A. 股东不公开于 KRS）
+- **这意味着什么：**
+  - **营收 1.5 亿 PLN、三大自有品牌（Genesis / Lanberg / Natec）的波兰品牌商**：Lanberg 本身就卖网络交换机 → 这是标准的 OEM 30% 目标，卖点是「替 Lanberg 补一条 Marvell 管理型 / PoE 产品线」而不是卖 Saga 牌子
+  - 注册资本 6,076 万 PLN 全部实缴、净利率 5.7%：财务健康，付款不是问题；但品牌商采购走正式 vendor onboarding（样机测试 → 认证 → 价格表 → 年度量）——准备 CE/RoHS/REACH 全套 + 固件定制说明
+  - Prezes Marcin Chojnacki 只拍框架；日常对接是 product@impakt.com.pl 的产品经理（研究档）——邮件主题直接写「ODM proposal for Lanberg managed PoE switches」
+  - 波兰 KRS 年报每年 7 月更新，2027-07 看 2026 营收
+- 备注：rejestr.io 免费层含董事会成员与年报数字；无需调用 KRS API。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -158,17 +174,18 @@ updated: 2026-10-27
   > 来源：https://www.komputronik.pl/product/825019/lanberg-rsge-24p-2ge-2s-250.html（抓取 2026-10-21）
 - **KP**：Łukasz Gąsiewicz（Product Dev Manager）lukasz.gasiewicz@impakt.com.pl 〔用户 Clients 表（已回复）〕
 - **KP**：Bartosz Krawczyk（（用户记录））bartosz.krawczyk@impakt.com.pl 〔用户 Clients 表〕
+- **KP**：Marcin Chojnacki（Prezes Zarządu（董事长 / CEO）—— 只签框架；日常对接 product@ 的产品经理（第 83 批 官方登记核实 2026-10-27）） 〔https://rejestr.io/krs/585900/impakt〕
 - 备注：体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Impakt S.A. |
+| 法定名称 | IMPAKT S.A.（KRS 0000585900 · NIP 7831720485 · REGON 360441981；2015-11-13；资本 60,761,002 PLN 实缴） |
 | 总部/地址 | ul. Stanisława Lema 16, 62-050 Mosina, Poland（product@impakt.com.pl） |
 | 人数 | >150 |
 | 营收 | 1.52 亿 PLN（2025） |
-| 其他 | 自有品牌 Lanberg（网络）、Genesis、Natec、Fury、Armac、Audictus；3,500+ SKU，40+ 国；Lanberg 交换机 24 个月保修，通过 Komputronik/iVolta 等零售 |
+| 其他 | 自有品牌 Lanberg（网络）、Genesis、Natec、Fury、Armac、Audictus；3,500+ SKU，40+ 国；Lanberg 交换机 24 个月保修，通过 Komputronik/iVolta 等零售；2025 营收 152.2M PLN、净利 8.6M PLN、资产 87.2M PLN；品牌 Genesis / Lanberg / Natec（第 83 批 官方登记核实 2026-10-27） |
 
 - **业务线**：Lanberg 网络产品：机架 PoE 交换机 RSGE 系列（24 口 250/360W）、桌面交换机、布线/机柜；其他自有品牌消费 IT
 
@@ -272,6 +289,7 @@ updated: 2026-10-27
 |---|---|---|---|---|
 | Łukasz Gąsiewicz | Product Dev Manager | lukasz.gasiewicz@impakt.com.pl | 调研核实（公开页） | 用户 Clients 表（已回复） |
 | Bartosz Krawczyk | （用户记录） | bartosz.krawczyk@impakt.com.pl | 调研核实（公开页） | 用户 Clients 表 |
+| Marcin Chojnacki | Prezes Zarządu（董事长 / CEO）—— 只签框架；日常对接 product@ 的产品经理（第 83 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://rejestr.io/krs/585900/impakt |
 
 - **通道建议**：企业邮箱可直发
 

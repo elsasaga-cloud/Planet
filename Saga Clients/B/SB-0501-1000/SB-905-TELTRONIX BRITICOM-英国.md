@@ -112,16 +112,17 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
-**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/12455268）：**
+**公司底数 · 第 82 批（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/12455268）：**
 
 - 法定名 / 登记号：TELTRONIX HOLDINGS LTD（品牌 Briticom™） · 12455268 · 状态 **Active（officers 页在列，无解散标记）** · 成立 2020-02-11 · Private limited company
-- 行业码（SIC）：（overview 未抓）
+- 行业码 / 经营范围：（overview 未抓）
 - 注册地址：7 Premier Court, Boarden Close, Moulton Park Industrial Estate, Northampton NN3 6LF（工业园单元）
 - 规模档：微型 / 小型 · 夫妻两董事
 - 账目：（overview 未抓）；两名董事的 Companies House 身份核验均到期于 2026-11-18（新规，逾期会影响公司申报）
 - 高管：Wadii KHERFANI — 董事，1978-04 生，英国籍，2020-02-11 成立即上任；= 来信人 wadii@teltronix.net；2011-07→2018-03 曾任 Linxcom Ltd（SB-160）董事
 - 高管：Anna KHERFANI — 董事，1985-03 生，英国籍，2020-02-11 上任（同姓 → 家族 / 夫妻公司）
-- 抵押 / 担保：页面有 Charges 标签 → 存在抵押登记（明细未抓）
+- 控制人 / 股东：见 PSC 页（未抓）
+- 抵押 / 诉讼 / 担保：页面有 Charges 标签 → 存在抵押登记（明细未抓）
 - **这意味着什么：**
   - 来信人 Wadii Kherfani 就是老板本人（两名董事之一，另一位同姓）：2020 年才成立的 5 年新公司，但他本人在 Linxcom 做了 7 年董事 → 懂行、有供应链、会比价
   - 与 SB-160 Linxcom 同源（Wadii 2018 年从 Linxcom 退出、2020 年开 Teltronix），两户的报价和交期口径必须一致

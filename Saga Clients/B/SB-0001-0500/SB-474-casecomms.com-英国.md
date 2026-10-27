@@ -107,17 +107,18 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
-**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/03913540）：**
+**公司底数 · 第 82 批（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/03913540）：**
 
 - 法定名 / 登记号：CASE COMMUNICATIONS LIMITED · 03913540 · 状态 **Active** · 成立 2000-01-26 · Private limited company
-- 行业码（SIC）：26200 Manufacture of computers and peripheral equipment；62090 Other IT service activities
+- 行业码 / 经营范围：26200 Manufacture of computers and peripheral equipment；62090 Other IT service activities
 - 注册地址：North's Estate, Old Oxford Road, Piddington, High Wycombe HP14 3BE（与官网一致）
 - 规模档：小型 · 单董事在任（历史上 10 名高管 / 9 人已辞）
 - 账目：最近账目截至 2025-03-31（已交）；下期截至 2026-03-31，**2026-12-31 前交**；确认声明 2026-05-28 已交，下期 2027-05-28
 - 高管：Andrew Thomas SAOULIS — 唯一在任董事，**1950-10 生（76 岁）**，英国籍，2000-01-26 成立即上任 = 给我们来信的 andys@case.uk.com「Andy」
 - 高管：2014-07→2015-01 两名董事（O'Daly 加拿大籍、Orren）、2015-01→2020-02 两名董事（Gennadii Armashula 乌克兰籍居乌克兰、D. R. L. Jones）均已辞任；2020-02 起又回到 Andy 一人
 - 高管：公司秘书三任（Scott / Kathleen Saoulis（同姓，家属）/ Corlett）2000→2014，之后无秘书
-- 抵押 / 担保：页面有 Charges 标签 → 存在抵押登记（明细未抓）
+- 控制人 / 股东：见 PSC 页（未抓）
+- 抵押 / 诉讼 / 担保：页面有 Charges 标签 → 存在抵押登记（明细未抓）
 - 曾用名：CASE TECHNOLOGY CENTRAL EUROPE LIMITED（2000-01-26→2003-02-07）
 - **这意味着什么：**
   - **来信人 Andy 就是老板**：Andrew Saoulis，唯一董事、2000 年创办，76 岁——他回信 = 公司决定，不用找「采购经理」；但也意味着接班 / 退出风险：长期绑定要同时认识他下面做技术 / 采购的第二人

@@ -74,6 +74,24 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 83 批（Czechia · ARES 官方 API（基本 + 公共登记 VR 摘录），2026-10-27 查；https://ares.gov.cz/ekonomicke-subjekty/27929795）：**
+
+- 法定名 / 登记号：LANCOMAT s.r.o. · IČO 27929795 · DIČ CZ27929795 · 商事法院卷宗 C 127222/MSPH（布拉格市法院） · 状态 **AKTIVNI（ROS / VR / RES / RŽP / DPH 五个登记源全部在册；VAT 在册）· 数据更新 2026-10-08** · 成立 2007-07-16 · s.r.o.（有限责任公司，法律形式 112）· 注册资本 200,000 CZK（已缴 100%）
+- 行业码 / 经营范围：CZ-NACE 46 批发、47 零售、47.99 非店铺零售（= 电商）；营业执照项目 2011 起为通用「生产、贸易与服务」
+- 注册地址：Poděbradská 520/24, Vysočany, 190 00 Praha 9（2026-07-23 重新登记同一地址）
+- 规模档：两名执行董事（jednatel）自 2007 年起未变 → 创始人自营的小型批发 / 电商公司
+- 账目：ARES 不给财务数字；年报在 or.justice.cz 文件集（Sbírka listin）可查，未读
+- 高管：Zdeněk ZÍTA — jednatel（执行董事），1963-02 生，2007-07-16 起（2026-07-23 重新登记）
+- 高管：Tomáš JAHODA — jednatel，1976-02 生，2007-07-16 起（2026-07-23 重新登记）
+- 高管：2014-09 登记「法定机关成员 2 人」；2024-11 起管理方式 INDIVIDUALNI_SRO（各自单独代表）
+- 控制人 / 股东：（股东段在 VR 摘录第 2 分块，未读；大概率即两位董事）
+- **这意味着什么：**
+  - 两位创始董事 19 年没变、各自可单独签字 → 任何一位回信都算数；现有 KP 若不是 Zíta / Jahoda 之一，就把其中一位加进抄送
+  - NACE 47.99 非店铺零售 + 46 批发：是做电商（lancomat.cz 网店）的布拉格分销商 → 分销 20% 档，强调小起订量和现货周转
+  - 注册资本 20 万 CZK（≈ $8.5k）的小公司：首单 T/T 100% 预付合理，不给账期
+  - 2026-07-23 刚做过登记更新（地址 / 董事重新登记）→ 公司在正常维护，不是僵尸户
+- 备注：捷克其余 21 户用 ARES 基本接口（短 JSON）即可：成立日 / NACE / VAT 状态。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,6 +135,7 @@ updated: 2026-10-27
   > 来源：https://www.lancomat.cz/（抓取 2026-10-20）
 - **KP**：Tomáš Jahoda（）tjahoda@lancomat.cz +420 724 825 435〔https://www.lancomat.cz/podrobne-kontakty/〕
 - **KP**：Jan Raboch（）jraboch@lancomat.cz +420 774 411 618〔https://www.lancomat.cz/podrobne-kontakty/〕
+- **KP**：Zdeněk Zíta / Tomáš Jahoda（两名执行董事（jednatel），2007-07-16 起未变，各自可单独代表公司（第 83 批 官方登记核实 2026-10-27）） 〔https://ares.gov.cz/ekonomicke-subjekty/27929795〕
 - **调研后定级**：A（原自动 C）——Planet 渠道档案 PA-018 评 A（PLANET 主力经销 + 具名联系人 + 可赢体量）；Saga 表内仅因群发冷名单无回应自动评 C，按调研提升
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -124,7 +143,7 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | LANCOMAT s.r.o. |
+| 法定名称 | LANCOMAT s.r.o.（IČO 27929795 · DIČ CZ27929795 · 卷宗 C 127222/MSPH；2007-07-16 成立；资本 200,000 CZK；NACE 46 / 47 / 47.99） |
 | 总部/地址 | Praha 9 – Vysočany（Poděbradská 520/24, 190 00）, 捷克 |
 | 其他 | Planet 渠道档案 PA-018（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（布线件用 Solarix / 自编码，交换机无自有品牌）；最大未知：PLANET 有源类目年量与库存深度（IGS-1820TF 缺货暗示小批量进货）；是否要求捷克语文档；总经理 vs 销售专员谁决定新供应商 |
 
@@ -180,6 +199,7 @@ updated: 2026-10-27
 |---|---|---|---|---|
 | Tomáš Jahoda | — | tjahoda@lancomat.cz / +420 724 825 435 | 调研核实（公开页） | https://www.lancomat.cz/podrobne-kontakty/ |
 | Jan Raboch | — | jraboch@lancomat.cz / +420 774 411 618 | 调研核实（公开页） | https://www.lancomat.cz/podrobne-kontakty/ |
+| Zdeněk Zíta / Tomáš Jahoda | 两名执行董事（jednatel），2007-07-16 起未变，各自可单独代表公司（第 83 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://ares.gov.cz/ekonomicke-subjekty/27929795 |
 
 - **通道建议**：企业邮箱可直发
 

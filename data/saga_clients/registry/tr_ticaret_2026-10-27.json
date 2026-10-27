@@ -1,0 +1,77 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 2
+ },
+ "rows": {
+  "SA-086": {
+   "name": "Netaş Telekomünikasyon A.Ş.（BIST: NETAS）",
+   "iso": "TR",
+   "source": "Turkey · KAP 公众披露平台（kap.org.tr）+ Netaş 2025 年报 / 2025-09 季报（netas.com.tr 官方 PDF）",
+   "url": "https://kap.org.tr/tr/sirket-finansal-bilgileri/1041-netas-telekomunikasyon-a-s",
+   "number": "KAP 公司 ID 1041 · BIST 代码 NETAS · 实缴资本 64,864,800 TL",
+   "status": "上市公司，正常披露；2024 与 2025 两年无利润分配（2025-05-28 / 2026 股东会）",
+   "incorporated": "1967（北电 Nortel 合资起家；2017-01 ZTE 入主）",
+   "company_type": "Anonim Şirket（上市股份公司）· 股东：ZTE Cooperatief U.A. 48.05%（A 组 36.00% + B 组 12.05%）、土耳其武装部队强化基金会 TSKGV 15.00%（A 组）、公众流通 36.95%",
+   "sic": [
+    "系统集成 / 电信软硬件 / 国防通信（TSKGV 持股 = 军工关联）"
+   ],
+   "address": "İstanbul（Pendik 园区）",
+   "accounts": "合并营收（TL）：2022 40.1 亿 → 2023 69.6 亿 → 2024 91.8 亿 → 2025 前三季 83.6 亿；净利：2022 −2,480 万 · 2023 +1.00 亿 · 2024 −2.72 亿 · 2025 前三季 −2.54 亿；**2025 全年净亏 3.41 亿 TL，累计可分配亏损 11.97 亿 TL**",
+   "accounts_due": "KAP 季报：Q1 5 月初、半年报 8 月、Q3 11 月初、年报次年 3 月",
+   "size_band": "大型上市集成商（营收 ≈ $2.5–3 亿）",
+   "officers": [
+    "控股方 ZTE（48.05%）决定供应链；TSKGV 15% 对国防项目有话语权；总经理 / 董事名单见 KAP（未抓取）"
+   ],
+   "psc": "ZTE Cooperatief U.A. 48.05%（实际控制人 = 中兴通讯）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**ZTE 控股 48%：Netaş 的网络设备首选自然是 ZTE 自家产品**——Saga 进得去的只有 ZTE 不覆盖 / 不划算的小众 SKU（PoE 接入、工业 / 小型管理型交换机、CENTEC 白盒），话术上绝不要把自己摆成 ZTE 的替代",
+    "连续亏损（2024 −2.7 亿、2025 −3.4 亿 TL）+ 累计亏损 12 亿 TL：采购部在被压成本 → 「同规格更低 BOM」有机会，但付款条款会被拉长（上市公司 60–90 天账期是常态）——坚持 T/T 50/50 或信用证，别做开放账期",
+    "TSKGV（军工基金会）持股 15%：Netaş 大量项目是国防 / 公共部门——按守界规则，Saga 只供商用网络设备，不进军品清单；邮件里不提 defense",
+    "对接已是 A 档绑定户（研究档 KP）：关系维护比开发重要；每季 KAP 财报出来后顺手问一句「下季度项目需求」即可"
+   ],
+   "notes": "KAP 页面可直接给营收 / 净利 / 股东结构；董事名单在 KAP「Genel Bilgiler」页，未抓。",
+   "fetched": "2026-10-27",
+   "code": "SA-086",
+   "batch": 83
+  },
+  "SA-077": {
+   "name": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ",
+   "iso": "TR",
+   "source": "Turkey · 商会 / Ticaret Sicil 公开摘要（find.com.tr 镜像）+ 官网 / LinkedIn 自述；MERSIS 全文需 e-Devlet 登录（不可得）",
+   "url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi",
+   "number": "Ticaret sicil 号与税号在镜像站仅会员可见（未取）；NACE 620902",
+   "status": "在册（官网 / LinkedIn 2026 活跃）",
+   "incorporated": "2016-11-28（Anonim Şirket 设立日）",
+   "company_type": "Anonim Şirket（股份公司）· 资本与董事会名单不公开于免费源",
+   "sic": [
+    "NACE 62.09.02 — 其他 IT 与计算机服务（登记）；实际 = 自称「土耳其网络设备制造商」（交换机 / SFP / 瘦客户机 / 数据二极管 / NAC）"
+   ],
+   "address": "登记地 Alacaatlı Mah. Park Cad. 47/31 Yenimahalle, Ankara；办公 Nergiz Sok. No:7 Via Flat Plaza Cubes, Söğütözü；生产 Çamlıca Mah. Anadolu Blv. Timko Sk. Z Blok No:20/1 Yenimahalle",
+   "accounts": "土耳其非上市公司财报不公开",
+   "accounts_due": "",
+   "size_band": "LinkedIn 11–50 人，「团队合计 75 年经验」；成立 2016",
+   "officers": [
+    "董事会 / 签字人：免费源不可得（Ticaret Sicil Gazetesi 需登录检索）；研究档 KP 为准"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**A.Ş. 股份公司 + 自称本土制造商 + 2023 年推数据二极管 / NAC 等安全产品**：Angora 是「贴牌 + 自研软件」路线的土耳其品牌商，正是 OEM 30% 目标；Saga 做「Angora 品牌」的硬件底座（Marvell L2+/L3 + CENTEC），他们做软件 / 本地化",
+    "NACE 登记为 IT 服务而非制造：说明硬件主要外购 → 对「可定制固件 + 丝印 logo + 彩盒」的需求是刚需，报价时把 OEM 服务项列全",
+    "安卡拉 + 国防 / 公共部门生态（数据二极管 = 典型政府客户产品）：守界原则——只供商用设备，不参与军品 / 加密出口敏感项目",
+    "土耳其公司底数免费层只有成立日 / 法律形式 / NACE / 地址；董事与资本以后只能从来往邮件 / 签字人补"
+   ],
+   "notes": "TR 免费源上限：成立日 / 法律形式 / NACE / 地址。",
+   "fetched": "2026-10-27",
+   "code": "SA-077",
+   "batch": 83
+  }
+ }
+}

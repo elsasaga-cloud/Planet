@@ -170,10 +170,10 @@ def fmt_registry(ent):
     r = REG.get(ent['code'])
     if not r:
         return []
-    L = [f'**公司底数（{r.get("source", "官方登记")}，{r.get("fetched", BATCH_DATE)} 查；{r.get("url", "")}）：**', '']
+    L = [f'**公司底数 · 第 {r.get("batch", 82)} 批（{r.get("source", "官方登记")}，{r.get("fetched", BATCH_DATE)} 查；{r.get("url", "")}）：**', '']
     L.append(f'- 法定名 / 登记号：{r.get("name", "")} · {r.get("number", "")} · 状态 **{r.get("status", "")}** · 成立 {r.get("incorporated", "")} · {r.get("company_type", "")}')
     if r.get('sic'):
-        L.append('- 行业码（SIC）：' + '；'.join(r['sic']))
+        L.append('- 行业码 / 经营范围：' + '；'.join(r['sic']))
     if r.get('address'):
         L.append(f'- 注册地址：{r["address"]}')
     if r.get('size_band'):
@@ -182,8 +182,10 @@ def fmt_registry(ent):
         L.append(f'- 账目：{r["accounts"]}' + (f'；{r["accounts_due"]}' if r.get('accounts_due') else ''))
     for o in r.get('officers') or []:
         L.append(f'- 高管：{o}')
+    if r.get('psc'):
+        L.append(f'- 控制人 / 股东：{r["psc"]}')
     if r.get('charges'):
-        L.append(f'- 抵押 / 担保：{r["charges"]}')
+        L.append(f'- 抵押 / 诉讼 / 担保：{r["charges"]}')
     if r.get('prev_names'):
         L.append('- 曾用名：' + '；'.join(r['prev_names']))
     if r.get('lines'):

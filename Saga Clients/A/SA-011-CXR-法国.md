@@ -107,6 +107,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 83 批（France · API Recherche d'entreprises（INSEE SIRENE + RNE，官方），2026-10-27 查；https://annuaire-entreprises.data.gouv.fr/entreprise/785754706）：**
+
+- 法定名 / 登记号：CXR ANDERSON JACOBSON（SAS） · SIREN 785754706（总部 SIRET 78575470600139） · 状态 **Active（etat_administratif A；INSEE 更新 2025-12、RNE 更新 2026-09）** · 成立 1983-04-10（公司）；现总部 Abondant 1990-08-01 开设 · SAS（nature juridique 5710）· 企业类别 PME
+- 行业码 / 经营范围：NAF 26.30Z — 通信设备制造（Fabrication d'équipements de communication）
+- 注册地址：28 rue de l'Ornette, 28410 Abondant（Eure-et-Loir，巴黎西 80 km）；历史上 5 个机构，仅总部仍开（Gentilly 1992 / Toulouse 1994 / Châtillon 2007 / Antony 2010 先后关闭）
+- 规模档：员工档 12 = 20–49 人（2024 年 INSEE 口径）· 雇主单位 · 集体协议 IDCC 3248（冶金业）
+- 账目：2025 年报（RNE）：营业额字段 0、净利 −57,478 €（营业额 0 多半是未填报 / 保密申报，不是真没收入）
+- 高管：Carmine OLIVA — Président de SAS，1942-09 生（84 岁）；= CXR 集团（美国 CXR Larus / 原 MicroTel）创始人兼长期 CEO
+- **这意味着什么：**
+  - 法国实体是 1983 年的老牌调制解调器 / 传输设备制造商（Anderson Jacobson 血统），NAF 26.30Z 制造 + 20–49 人 → 典型「有自己产品线的 OEM 品牌商」，报 OEM 30% 而不是分销价
+  - 总裁 Carmine Oliva 84 岁仍在册：决策高度集中在一位老人手里，合作要争取他下面的产品经理 / 采购做日常对接，长期绑定要看接班
+  - 2025 年净亏 5.7 万欧、机构从 5 个收缩到 1 个：规模在收，适合「小批量 + 替换老型号」的切入，不要押大单
+  - 法国官方 API 还能给年度财报（CA、résultat），每年 9–10 月年报更新后复查一次即可
+- 备注：员工档 12 = 20–49 人；SAS 总裁即法定代表。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -150,16 +165,18 @@ updated: 2026-10-27
   > 来源：https://www.cxr.com/documents/brochures/swmdh_3016_uk.pdf（抓取 2026-10-21）
 - **KP**：—（总机）contact@cxr.com +33 2 37 62 88 00〔https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation〕
 - **KP**：Marco Di Valerio（来信署名人（职务未在邮件署名里出现））marco.divalerio@cxr.fr 〔S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补）〕
+- **KP**：Carmine Oliva（Président de SAS（法定代表，1942 年生）—— 法国实体 CXR Anderson Jacobson 唯一登记高管（第 83 批 官方登记核实 2026-10-27）） 〔https://annuaire-entreprises.data.gouv.fr/entreprise/785754706〕
 - 备注：A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | CXR Networks（CXR Anderson Jacobson） |
+| 法定名称 | CXR ANDERSON JACOBSON SAS（SIREN 785754706，1983-04-10 成立，Active；NAF 26.30Z 通信设备制造；员工档 20–49） |
 | 成立 | 1974 |
 | 总部/地址 | Abondant, France |
-| 其他 | 自有 BDROS 平台的工业交换机品牌（SWMD-H 系列为典型华南 ODM 公版贴牌：IP40、6KV 防雷、DIN、-40~75/85℃） |
+| 人数 | 20–49（INSEE 2024 员工档 12）（第 83 批 官方登记核实 2026-10-27） |
+| 其他 | 自有 BDROS 平台的工业交换机品牌（SWMD-H 系列为典型华南 ODM 公版贴牌：IP40、6KV 防雷、DIN、-40~75/85℃）；2025 年报净利 −57,478 €；历史 5 个机构仅剩 Abondant 总部（第 83 批 官方登记核实 2026-10-27） |
 
 - **业务线**：工业加固交换机 SWMD-H（DIN，4/8/10 口千兆 ±PoE，2 SFP；L3-lite 版）；SWMDH-3016 16 口 DIN PoE 管理型；SWMD-H-8TPS-2GX 百兆 PoE DIN；加密路由/传输/MC（地方政府、国防、能源、运营商、交通）
 
@@ -286,6 +303,7 @@ updated: 2026-10-27
 |---|---|---|---|---|
 | — | 总机 | contact@cxr.com / +33 2 37 62 88 00 | 调研核实（公开页） | https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation |
 | Marco Di Valerio | 来信署名人（职务未在邮件署名里出现） | marco.divalerio@cxr.fr | 调研核实（公开页） | S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补） |
+| Carmine Oliva | Président de SAS（法定代表，1942 年生）—— 法国实体 CXR Anderson Jacobson 唯一登记高管（第 83 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://annuaire-entreprises.data.gouv.fr/entreprise/785754706 |
 | Marco | COO | contact@cxr.com / marco.divalerio@cxr.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

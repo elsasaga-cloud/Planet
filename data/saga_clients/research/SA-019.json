@@ -76,11 +76,11 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "ALLNET GmbH Computersysteme",
+  "legal_name": "ALLNET GmbH Computersysteme（Amtsgericht München HRB 95992，1991-08-14；LEI 5299008GWAOUQEZ8HJ12）",
   "founded": "1991（Wolfgang Marcus Bauer）",
   "hq": "Germering bei München, Germany",
   "revenue": "€58M（2013 口径，待更新）",
-  "other": "自有品牌 ALLNET 工业交换机全线（ALL-SGI 系列：Entry Line 非管理 / smart managed / full managed L2+，含 bt 90W、JSON API），2025-05 仍在发新品；也供应 Reichelt、Galaxus 等零售渠道"
+  "other": "自有品牌 ALLNET 工业交换机全线（ALL-SGI 系列：Entry Line 非管理 / smart managed / full managed L2+，含 bt 90W、JSON API），2025-05 仍在发新品；也供应 Reichelt、Galaxus 等零售渠道；2024 营收 €243.2M、资产 €117.6M（Bundesanzeiger）；股东 Alldis Computersystem GmbH / Allnet Schweiz AG / SAS Allnet France；唯一 GF Wolfgang Marcus Bauer（第 83 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "增值分销（网络/无线/UCC/视频监控/安全/测量）",

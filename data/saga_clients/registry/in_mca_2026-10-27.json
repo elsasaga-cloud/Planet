@@ -1,0 +1,120 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 3
+ },
+ "rows": {
+  "SA-073": {
+   "name": "VICOM SECURITY PRIVATE LIMITED",
+   "iso": "IN",
+   "source": "India · MCA 公司登记（Zauba Corp 页 + Tofler / IndiaFilings / FalconEbiz 摘要，搜索快照 2026-06 / 2025-08）",
+   "url": "https://www.zaubacorp.com/VICOM-SECURITY-PRIVATE-LIMITED-U51109WB1995PTC070096",
+   "number": "CIN U51109WB1995PTC070096 · ROC Kolkata 注册号 70096",
+   "status": "Active · 最近 AGM 2025-09-29（Tofler）；Zauba 页仍停在 2022 年报（镜像滞后，不是欠报）",
+   "incorporated": "1995-03-28",
+   "company_type": "Private Limited（股份有限私人公司）· 法定资本 ₹3,000,000 · 实缴 ₹2,000,000（≈ $24k）",
+   "sic": [
+    "NIC 5110 — 代理 / 佣金制批发（CIN 内嵌行业码；实际经营 CCTV / DVR / NVR / 对讲 / 可视门铃分销，IndiaMART 自述 manufacturer + wholesaler + distributor）"
+   ],
+   "address": "8, Justice K.M. Yusuf Sarani, 2nd Floor, Beck Bagan Row, Kolkata 700017, West Bengal · MCA 登记邮箱 accounts@vicomsecurity.com",
+   "accounts": "财务数字在付费报告内；MCA 年报按时提交（2025-09 AGM）",
+   "accounts_due": "印度私人公司 AGM 截止每年 9-30，年报 10–11 月提交",
+   "size_band": "实缴 ₹20 lakh 的家族企业，两名董事兼股东",
+   "officers": [
+    "Rajesh Kumar BHUTORIA — Director 兼股东（DIN 00516745），1995-03-28 创立至今 32 年 = 老板本人（IndiaMART 亦署名「Rajesh Bhutoria (Director)」）",
+    "Praloy Shankar CHOWDHURY — Director 兼股东（DIN 06800958），2013-12-31 加入（2017-07-10 由 Additional Director 转正）",
+    "已卸任（2013-12-31 同日退出）：Dinesh Kumar Bhutoria、Rai Chand Bhutoria、Babita Bhutoria —— 2013 年家族其他成员集体退出，Rajesh 独撑 + 引入 Chowdhury"
+   ],
+   "psc": "两名董事即股东（Tofler 标注 Shareholder）",
+   "charges": "（Charges 栏在 Zauba 页后段，未读）",
+   "prev_names": [
+    "DINESH ENTERPRISES PVT. LTD.（原名；按卸任董事 Dinesh Kumar Bhutoria 命名 → 家族生意易手给 Rajesh 后改名）"
+   ],
+   "lines": [
+    "老板 = Rajesh Bhutoria，32 年一直是董事兼股东：加尔各答安防分销的典型「老板一人拍板」，邮件直接写给他；Chowdhury 是 2013 年后进来的二把手（技术 / 运营），抄送即可",
+    "主业是 CCTV / NVR / 对讲分销（不是 IT 网络）：切入点只有 PoE 交换机配 IP 摄像头——主推 STC-028GP / STC-228GP / STC-2024GP 这类 PoE 系列，别推 L3 / 10G",
+    "实缴资本 ₹20 lakh ≈ $24k、2013 年家族分家：体量小、现金谨慎 → 首单 MOQ 1–2 箱，T/T 100% 预付；印度 BIS 认证由进口商承担，先问他们有没有现成 BIS 清关路径",
+    "MCA 年报每年 10–11 月公开，可在 2027-01 复查是否仍 Active / 董事有无变动"
+   ],
+   "notes": "印度：web_search depth 1 by CIN 即可得董事 / AGM / 资本；Zauba 整页 38 块不要翻。",
+   "fetched": "2026-10-27",
+   "code": "SA-073",
+   "batch": 83
+  },
+  "SA-037": {
+   "name": "AECONNECT INDIA PRIVATE LIMITED（AE Connect）",
+   "iso": "IN",
+   "source": "India · MCA 公司登记（FalconEbiz / Tofler / InstaFinancials / Filesure 摘要，快照 2025-07 / 2026）",
+   "url": "https://www.falconebiz.com/company/AECONNECT-INDIA-PRIVATE-LIMITED-U31200GJ2022PTC132573",
+   "number": "CIN U31200GJ2022PTC132573 · RoC Ahmedabad 注册号 132573",
+   "status": "Active；全部董事 DIR-3 KYC 已按时提交，无被取消资格董事",
+   "incorporated": "2022-06-01（私人公司；品牌 AE Connect 自 2005 年个体经营起家，LinkedIn 口径 2014）",
+   "company_type": "Private Limited · 法定资本 = 实缴 ₹100,000（≈ $1.2k，法定最低档）",
+   "sic": [
+    "CIN 行业码 31200（电气设备 / 配电与控制装置制造）；官网自称「Indian manufacturer of networking and connectivity products」，口号 Think PoE Think AECONNECT"
+   ],
+   "address": "F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad 380052, Gujarat · MCA 邮箱 ashu.ent@gmail.com（= 子 Ashutosh 的个人邮箱）",
+   "accounts": "未公开（付费）；成立仅 3 年，年报 1–2 份",
+   "accounts_due": "AGM 9-30，年报 10–11 月",
+   "size_band": "家族公司（父、母、子 3 名创始董事 + 1 名外部董事）；LinkedIn 11–50 人；平均董事年龄 43.7",
+   "officers": [
+    "Devendra Jagdishprasad SHARMA — Director（DIN 09626912，2022-06-01 起）= 创始人 / CEO / Owner（官网 Founder's Message、LinkedIn「Owner」）",
+    "Ritu Devendra SHARMA — Director（DIN 09626933，2022-06-01）= 配偶",
+    "Ashutosh Devendra SHARMA — Director（DIN 09626934，2022-06-01）= 儿子（MCA 登记邮箱 ashu.ent@gmail.com 即他）",
+    "Mandar Nandkumar JOSHI — Additional Director（DIN 07070356，2023-08-22 加入；另有其他任职 → 外部 / 职业经理）"
+   ],
+   "psc": "Sharma 一家三口",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**「Indian manufacturer」实为 2022 年才注册、实缴 1 lakh 的家族贴牌商**：AE Connect 的 PoE 交换机 / 光纤产品是外购贴牌 → 这是 OEM 30% 线的正牌目标（Make-in-India 口径下他们需要进口整机 / SKD 再贴 AE Connect 标）",
+    "决策 = 父亲 Devendra（CEO）+ 儿子 Ashutosh（MCA 邮箱、日常运营）；母亲 Ritu 挂名；2023 年加入的 Mandar Joshi 可能是销售 / 财务负责人——邮件给 Devendra，抄 Ashutosh",
+    "实缴资本极低 + 成立 3 年：信用只能按现金户处理，T/T 100% 预付 / 发货前付清；印度 BIS（CRS）由他们以品牌商身份申请，Saga 提供工厂资料配合即可——这是绑定抓手（BIS 证书绑定工厂）",
+    "LinkedIn 自述 2005 年起步、11–50 人、专注 CCTV / Wi-Fi / VoIP / 智能楼宇的 PoE：主推 STC-028GP / STC-228GP / STC-2024GP + STI-288DGGPM 系列，附 2.5G PoE 让他们在印度市场有差异化"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-037",
+   "batch": 83
+  },
+  "SA-063": {
+   "name": "ARECA EMBEDDED SYSTEMS PRIVATE LIMITED",
+   "iso": "IN",
+   "source": "India · MCA 公司登记（Zauba / Tofler / FalconEbiz / IndiaFilings 摘要，最新快照 2026-09-04）",
+   "url": "https://www.falconebiz.com/company/ARECA-EMBEDDED-SYSTEMS-PRIVATE-LIMITED-U72200TG2007PTC053397",
+   "number": "CIN U72200TG2007PTC053397 · RoC Hyderabad 注册号 53397",
+   "status": "Active · 最近 AGM 2024-09-30（Tofler / Tracxn）；2026-04-24 新董事加入",
+   "incorporated": "2007-03-29",
+   "company_type": "Private Limited · 法定资本 ₹46,600,000 · **实缴 ₹46,522,500（≈ $55 万）** → 在 A 档印度户里资本最厚",
+   "sic": [
+    "NIC 722（软件 / 嵌入式系统）；实际 = 嵌入式 / 网络硬件设计公司（海得拉巴）"
+   ],
+   "address": "Hyderabad, Telangana（研究档）",
+   "accounts": "未公开（付费）；年报正常",
+   "accounts_due": "AGM 9-30",
+   "size_band": "实缴 ₹4.65 crore 的中型技术公司；董事会 2 人",
+   "officers": [
+    "Rashmi JAIN — Director 兼股东（DIN 01336337，2018-03-20 起）= 现任实控人（Jain 家族）",
+    "Nilesh Bastimal JAIN — Director（DIN 09076522，**2026-04-24 新任**）= Jain 家族成员接入董事会",
+    "Gutta Venkata KUMARI — Director（DIN 07114694，2015-03-06 起；2026 FalconEbiz 名单已不含她 → 可能 2026 年卸任，待下次 MCA 快照核）",
+    "历任：创始人 Kantharao / Rajani UPPALA（2007–2009）→ Babji Gadde（2011）→ Somasekhar R. Koditipalli（2012–2018）→ 2018 年 Jain 家族接手"
+   ],
+   "psc": "Jain 家族（Rashmi Jain 为登记股东）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**公司 2018 年换手给 Jain 家族，2026-04 又新增董事 Nilesh Jain**：董事会正在换人 → 现在是重新建立联系人的窗口；研究档 KP 若是 2018 年前的人，先验证还在不在",
+    "实缴资本 ₹4.65 crore（≈ $55 万）是印度 A 档里最厚的：有能力做 OEM / ODM 项目（嵌入式背景），可推 CENTEC 白盒 + Marvell 管理型做他们方案的底座 → OEM 30% 线",
+    "NIC 722 软件 / 嵌入式：他们买交换机是配自己的系统（不是分销）→ 按集成 25% 报，强调 SDK / CLI 文档和 3 年质保",
+    "印度 BIS：Areca 自己是品牌 / 系统商，BIS 由他们申请；MCA 快照每年 10–11 月更新，2027-01 复查董事名单（确认 Kumari 是否卸任）"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-063",
+   "batch": 83
+  }
+ }
+}

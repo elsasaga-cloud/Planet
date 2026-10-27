@@ -90,6 +90,25 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 83 批（Poland · KRS 官方 API（api-krs.ms.gov.pl，现行摘录 2026-06-11 状态）+ 财政部 VAT 白名单 API，2026-10-27 查；https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json）：**
+
+- 法定名 / 登记号：FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0001095976 · NIP 7542916466 · REGON 160150149 · 状态 **Active · VAT 状态 Czynny（增值税在册）· 最近登记第 10 号 2026-06-11（年报备案）** · 成立 2007-10-01 税务登记（原民事合伙 FCNet Future Communication Networks s.c.）；2023-12-12 公证转制为有限公司，2024-03-21 入 KRS · Sp. z o.o.（有限责任公司）· 注册资本 100,000 PLN
+- 行业码 / 经营范围：PKD 46.52.Z — 电子与电信设备及零件批发（主营）
+- 注册地址：ul. Św. Jacka 2, 45-073 Opole（与研究档一致）；已登记电子送达地址
+- 规模档：四位自然人股东各 250 股 / 25,000 PLN（各 25%），四人同时都是管理委员会成员 → 合伙人制小公司
+- 账目：年报按时在 KRS 备案（2026-06-11 最近一次 RDF 系统登记）；KRS 公开 API 不给财务数字
+- 高管：管理委员会（Zarząd）4 人：Piotr FRYDEL、Jarosław K. CISOWSKI、Krzysztof M. SMUGOWSKI、A. J. FRYDEL（API 对姓名打码，前三位全名来自转制决议原文；第四位与 Piotr 同姓 → 家族成员）
+- 高管：代表权：任何一名成员可单独签署 ≤100,000 PLN 的义务；超过 10 万 PLN 需两名成员或一名成员 + 代理人（prokurent）联签
+- 控制人 / 股东：4 名股东各 25%，无单一控制人
+- 抵押 / 诉讼 / 担保：（KRS 摘录第 4 节未读）
+- 曾用名：FCNET FUTURE COMMUNICATION NETWORKS SPÓŁKA CYWILNA（2007→2023）
+- **这意味着什么：**
+  - **报价 / PI 金额门槛：≤100,000 PLN（≈ $25k）一个人就能拍板，超过要两人联签**——首单控制在这条线以下（例如 100–150 台 24 口 PoE），省掉他们内部走联签
+  - 四个平分股权的合伙人都在管理层：没有「老板一人说了算」，邮件抄送要覆盖至少两位（现有 KP 之外再找一位 Frydel / Cisowski / Smugowski）
+  - 2023 年底刚从民事合伙转成有限公司、注册资本 10 万 PLN：财务上才开始规范化，T/T 50/50 合理；别给账期
+  - 主营 PKD 46.52.Z 批发：登记口径就是分销商 → 分销 20% 档；波兰 KRS 年报 6 月备案，每年 7 月可复查
+- 备注：KRS API 第二分块（其余 PKD / 年报清单）未读。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,13 +157,14 @@ updated: 2026-10-27
   > Adres: Św. Jacka 2; 45-073 Opole, Polska Tel: (+48) 775-418-475 Email: info@fcnet.pl
   > 来源：https://www.fcnet.pl/o-firmie（抓取 2026-10-21）
 - **KP**：—（总机）info@fcnet.pl +48 77 541 84 75〔https://www.fcnet.pl/o-firmie〕
+- **KP**：Piotr Frydel / Jarosław Cisowski / Krzysztof Smugowski / A. J. Frydel（管理委员会 4 名成员 = 4 名各 25% 股东（KRS 0001095976）；任一人可单独签 ≤100,000 PLN，超过需两人联签（第 83 批 官方登记核实 2026-10-27）） 〔https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json〕
 - 备注：A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | FCNET Sp. z o.o.（原 FCNet Future Communication Networks s.c.；NIP 7542916466，REGON 160150149） |
+| 法定名称 | FCNET SP. Z O.O.（KRS 0001095976 · NIP 7542916466 · REGON 160150149；2007 起民事合伙，2023-12 转有限公司，2024-03 入 KRS；PKD 46.52.Z 批发；资本 100,000 PLN） |
 | 总部/地址 | ul. Św. Jacka 2, 45-073 Opole, Poland |
 | 营收 | 约 10.2M PLN |
 | 其他 | Fluke Networks 波兰分销商；网店卖 TP-Link/Netgear/Cisco/HPE/Ubiquiti/MikroTik 交换机，含 PoE 电源配件；automatyka.pl 类目含工业交换机/工业路由器/MC |
@@ -241,6 +261,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 总机 | info@fcnet.pl / +48 77 541 84 75 | 调研核实（公开页） | https://www.fcnet.pl/o-firmie |
+| Piotr Frydel / Jarosław Cisowski / Krzysztof Smugowski / A. J. Frydel | 管理委员会 4 名成员 = 4 名各 25% 股东（KRS 0001095976）；任一人可单独签 ≤100,000 PLN，超过需两人联签（第 83 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json |
 | Jaroslaw Cisowski | — | biuro@fcnet.pl / info@fcnet.pl | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

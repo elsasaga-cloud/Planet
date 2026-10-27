@@ -85,6 +85,24 @@ updated: 2026-10-27
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 - 【惯例】12-18→01-25：澳新夏休：12-18 起到 1 月下旬，很多公司直接关到澳大利亚日（1-26）后
 
+**公司底数 · 第 83 批（Australia · ABN Lookup（abr.business.gov.au，澳大利亚税务局官方，记录提取 2026-10-27），2026-10-27 查；https://abr.business.gov.au/ABN/View?abn=99125638548）：**
+
+- 法定名 / 登记号：Cable Distribution Services（CDS）— 商号；法人 = Damita Investments Pty Ltd（2025-08 起）/ 原 The Trustee for The Wasserman Family Trust · ABN 99 125 638 548（Damita Investments Pty Ltd，ACN 125 638 548）· 旧主体 ABN 20 634 509 214（Wasserman Family Trust） · 状态 **两个 ABN 均 Active；Damita Investments ABN 自 2007-06-01、GST 自 2019-07-01；商号「Cable Distribution Services」2025-08-06 起登记在 Damita 名下（ABN 更新 2025-08-13）** · 成立 生意自 2000-05-31（Wasserman 家族信托以 CABLE DISTRIBUTION SERVICES 为商号、GST 2000-07-01 起）；Damita Investments Pty Ltd 2007 年成立 · Australian Private Company（Pty Ltd）；此前为 Discretionary Trading Trust（家族信托经营）
+- 行业码 / 经营范围：ABR 不登记行业码；同一信托名下另有商号 DATAFLO（2020-07）与 COMMUNICATION & DATA SOLUTIONS（2019-03）
+- 注册地址：主营业地 WA 6105（Welshpool / Kewdale，珀斯）；研究档官网地址 51 Boulder Rd, Malaga WA 6090 → 近期可能搬迁或两址并用，开 PI 前核对
+- 规模档：家族信托起家的布线 / 数据线材分销商，25 年老店
+- 账目：澳大利亚私人公司不公开财报
+- 高管：实控 = Wasserman 家族（The Wasserman Family Trust 2000 年起经营）；官网 About 的创始人「Ross W.」= Ross Wasserman（研究档 KP）
+- 高管：Damita Investments Pty Ltd 董事名单需 ASIC 付费摘录（未取）
+- 控制人 / 股东：Wasserman 家族（信托）
+- 曾用名：商号沿革：CABLE DISTRIBUTION SERVICES（2000 信托商号）→ 2025-08 转登记到 Damita Investments Pty Ltd
+- **这意味着什么：**
+  - **2025-08 商号从家族信托转到 Damita Investments Pty Ltd**：要么是家族内部重组（信托→公司），要么是生意易手——下次通信顺手确认 PI 抬头 / ABN 用哪个，发票抬头错了澳洲 GST 抵扣会出问题
+  - 同一老板还挂着 DATAFLO 和 COMMUNICATION & DATA SOLUTIONS 两个商号：CDS 是「线缆 + 数据 + 通信方案」三块牌子一套人马，PoE 交换机正好配他们的布线项目 → 以 STC-228GP / STC-2024GP 配套报价
+  - 澳洲认证 RCM：由进口商 / 供应商自我声明，Saga 提供 CE/RoHS + EMC 测试报告即可，不必提 UL
+  - ABR 记录随时可查（免费、无需登录）；商号归属再变动说明生意再转手，每半年看一眼
+- 备注：ASIC 公司摘录（董事）付费 ~A$20；暂不取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,14 +150,14 @@ updated: 2026-10-27
 - **【目录】规模口径**
   > 51 Boulder Rd, Malaga, Western Australia, 6090 … Revenue $4.7 M … Employees 24 … Founded 1999
   > 来源：https://www.datanyze.com/companies/cable-distribution-services/398327759（抓取 2026-10-21）
-- **KP**：Ross W.（创始人（官网「About」））sales@cabledistribution.com.au +61 8 9375 6522〔https://cabledistribution.com.au/about/〕
+- **KP**：Ross Wasserman（官网「Ross W.」）（创始人 Ross Wasserman（The Wasserman Family Trust 2000 年起经营商号 CDS）；2025-08 起商号登记在 Damita Investments Pty Ltd（ABN 99 125 638 548）名下（第 83 批 官方登记核实 2026-10-27））sales@cabledistribution.com.au +61 8 9375 6522〔https://cabledistribution.com.au/about/〕
 - 备注：A 确认（2 次实质回复 + 问价 + 工业分销渠道）；澳洲不在重点区但互动真实；P1 = STI-144GP（1 光 4 电工业 PoE，若价格表无则标 SmartByte 型号），20% 分销档，强调矿业宽温。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Cable Distribution Services（CDS） |
+| 法定名称 | Cable Distribution Services = 商号；法人 Damita Investments Pty Ltd（ABN 99 125 638 548，2025-08-06 起）/ 原 The Trustee for The Wasserman Family Trust（ABN 20 634 509 214，2000-05-31 起）（第 83 批 官方登记核实 2026-10-27） |
 | 成立 | 1999 |
 | 总部/地址 | 51 Boulder Rd, Malaga, WA 6090（+61 8 9375 6522；1800 438 222；sales@cabledistribution.com.au）；另 Kewdale/Maylands 3 Reggio Rd、Morley 办公 |
 | 人数 | 24（Datanyze）/ 11–50 |
@@ -260,7 +278,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ross W. | 创始人（官网「About」） | sales@cabledistribution.com.au / +61 8 9375 6522 | 调研核实（公开页） | https://cabledistribution.com.au/about/ |
+| Ross Wasserman（官网「Ross W.」） | 创始人 Ross Wasserman（The Wasserman Family Trust 2000 年起经营商号 CDS）；2025-08 起商号登记在 Damita Investments Pty Ltd（ABN 99 125 638 548）名下（第 83 批 官方登记核实 2026-10-27） | sales@cabledistribution.com.au / +61 8 9375 6522 | 调研核实（公开页） | https://cabledistribution.com.au/about/ |
 | Paul Orso BD | — | paul@cabledistribution.com.au / ross.wasserman@cabledistribution.com.au / +610405554670 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

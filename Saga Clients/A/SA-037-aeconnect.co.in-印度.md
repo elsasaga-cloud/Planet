@@ -90,6 +90,24 @@ updated: 2026-10-27
 - 法定假日：01-26 Republic Day；03-06 Maha Shivaratri；03-10 Eid al-Fitr (estimated)；03-22 Holi；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 83 批（India · MCA 公司登记（FalconEbiz / Tofler / InstaFinancials / Filesure 摘要，快照 2025-07 / 2026），2026-10-27 查；https://www.falconebiz.com/company/AECONNECT-INDIA-PRIVATE-LIMITED-U31200GJ2022PTC132573）：**
+
+- 法定名 / 登记号：AECONNECT INDIA PRIVATE LIMITED（AE Connect） · CIN U31200GJ2022PTC132573 · RoC Ahmedabad 注册号 132573 · 状态 **Active；全部董事 DIR-3 KYC 已按时提交，无被取消资格董事** · 成立 2022-06-01（私人公司；品牌 AE Connect 自 2005 年个体经营起家，LinkedIn 口径 2014） · Private Limited · 法定资本 = 实缴 ₹100,000（≈ $1.2k，法定最低档）
+- 行业码 / 经营范围：CIN 行业码 31200（电气设备 / 配电与控制装置制造）；官网自称「Indian manufacturer of networking and connectivity products」，口号 Think PoE Think AECONNECT
+- 注册地址：F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad 380052, Gujarat · MCA 邮箱 ashu.ent@gmail.com（= 子 Ashutosh 的个人邮箱）
+- 规模档：家族公司（父、母、子 3 名创始董事 + 1 名外部董事）；LinkedIn 11–50 人；平均董事年龄 43.7
+- 账目：未公开（付费）；成立仅 3 年，年报 1–2 份；AGM 9-30，年报 10–11 月
+- 高管：Devendra Jagdishprasad SHARMA — Director（DIN 09626912，2022-06-01 起）= 创始人 / CEO / Owner（官网 Founder's Message、LinkedIn「Owner」）
+- 高管：Ritu Devendra SHARMA — Director（DIN 09626933，2022-06-01）= 配偶
+- 高管：Ashutosh Devendra SHARMA — Director（DIN 09626934，2022-06-01）= 儿子（MCA 登记邮箱 ashu.ent@gmail.com 即他）
+- 高管：Mandar Nandkumar JOSHI — Additional Director（DIN 07070356，2023-08-22 加入；另有其他任职 → 外部 / 职业经理）
+- 控制人 / 股东：Sharma 一家三口
+- **这意味着什么：**
+  - **「Indian manufacturer」实为 2022 年才注册、实缴 1 lakh 的家族贴牌商**：AE Connect 的 PoE 交换机 / 光纤产品是外购贴牌 → 这是 OEM 30% 线的正牌目标（Make-in-India 口径下他们需要进口整机 / SKD 再贴 AE Connect 标）
+  - 决策 = 父亲 Devendra（CEO）+ 儿子 Ashutosh（MCA 邮箱、日常运营）；母亲 Ritu 挂名；2023 年加入的 Mandar Joshi 可能是销售 / 财务负责人——邮件给 Devendra，抄 Ashutosh
+  - 实缴资本极低 + 成立 3 年：信用只能按现金户处理，T/T 100% 预付 / 发货前付清；印度 BIS（CRS）由他们以品牌商身份申请，Saga 提供工厂资料配合即可——这是绑定抓手（BIS 证书绑定工厂）
+  - LinkedIn 自述 2005 年起步、11–50 人、专注 CCTV / Wi-Fi / VoIP / 智能楼宇的 PoE：主推 STC-028GP / STC-228GP / STC-2024GP + STI-288DGGPM 系列，附 2.5G PoE 让他们在印度市场有差异化
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,13 +146,14 @@ updated: 2026-10-27
   > AE700-IPS8GE4GF-M is a 12-port Industrial Gigabit Managed Layer 2 PoE+ Switch, featuring 8×10/100/1000Mbps PoE+ ports and 4x1000Mbps SFP slots … Input voltage (DC): 48-56V - Working temperature: -40°C ~ +75°C - Shell: IP40
   > 来源：https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/（抓取 2025-09-01）
 - **KP**：—（总机/用户表 WhatsApp）info@aeconnect.co.in +91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）〔https://aeconnect.co.in/shop/〕
+- **KP**：Devendra Jagdishprasad Sharma（Founder / CEO / Director（DIN 09626912）= 老板；儿子 Ashutosh Sharma（Director，MCA 登记邮箱 ashu.ent@gmail.com）管日常；配偶 Ritu Sharma 挂名董事；Mandar Joshi 2023 加入（第 83 批 官方登记核实 2026-10-27）） 〔https://www.falconebiz.com/company/AECONNECT-INDIA-PRIVATE-LIMITED-U31200GJ2022PTC132573〕
 - 备注：A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | AE Connect India Pvt. Ltd.（CIN U31200GJ2022PTC132573） |
+| 法定名称 | AECONNECT INDIA PRIVATE LIMITED（CIN U31200GJ2022PTC132573，2022-06-01，Active；实缴 ₹100,000；RoC Ahmedabad） |
 | 成立 | 2005 起（公司 2022 注册） |
 | 总部/地址 | Ahmedabad, Gujarat, India |
 | 人数 | 11–50 |
@@ -234,6 +253,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 总机/用户表 WhatsApp | info@aeconnect.co.in / +91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网） | 调研核实（公开页） | https://aeconnect.co.in/shop/ |
+| Devendra Jagdishprasad Sharma | Founder / CEO / Director（DIN 09626912）= 老板；儿子 Ashutosh Sharma（Director，MCA 登记邮箱 ashu.ent@gmail.com）管日常；配偶 Ritu Sharma 挂名董事；Mandar Joshi 2023 加入（第 83 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.falconebiz.com/company/AECONNECT-INDIA-PRIVATE-LIMITED-U31200GJ2022PTC132573 |
 | Devendra | — | info@aeconnect.co.in / +919825015200 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

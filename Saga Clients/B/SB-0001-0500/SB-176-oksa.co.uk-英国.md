@@ -77,15 +77,16 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
-**公司底数（UK Companies House（搜索页），2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/13062295）：**
+**公司底数 · 第 82 批（UK Companies House（搜索页），2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/13062295）：**
 
 - 法定名 / 登记号：OKSA AUTOMATION LIMITED · 13062295 · 状态 **Active（搜索页无 Dissolved 标记）** · 成立 2020-12-04 · Private limited company
-- 行业码（SIC）：（overview 未抓）
+- 行业码 / 经营范围：（overview 未抓）
 - 注册地址：Office 202, 11 Courtenay Road, East Lane Business Park, Wembley HA9 7ND（与官网一致）
 - 规模档：新公司（2020-12 成立，不到 6 年）· 商务园区单间办公室
 - 账目：（未抓）；（未抓）
 - 高管：（未抓）
-- 抵押 / 担保：（未抓）
+- 控制人 / 股东：（未抓）
+- 抵押 / 诉讼 / 担保：（未抓）
 - **这意味着什么：**
   - 2020-12 才注册的 5 年新公司，办公地址是 Wembley 商务园区的一间 Office 202 → 小型自动化集成 / 配件商，官网评价里的 James 很可能就是老板之一（姓氏仍待核）
   - Planet 渠道档案 PB-081 里的英国经销商，公司实体很小 → 按集成商 25%，别按分销 20% 报

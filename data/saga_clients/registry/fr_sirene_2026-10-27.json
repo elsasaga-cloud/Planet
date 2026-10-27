@@ -1,0 +1,44 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SA-011": {
+   "name": "CXR ANDERSON JACOBSON（SAS）",
+   "iso": "FR",
+   "source": "France · API Recherche d'entreprises（INSEE SIRENE + RNE，官方）",
+   "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/785754706",
+   "number": "SIREN 785754706（总部 SIRET 78575470600139）",
+   "status": "Active（etat_administratif A；INSEE 更新 2025-12、RNE 更新 2026-09）",
+   "incorporated": "1983-04-10（公司）；现总部 Abondant 1990-08-01 开设",
+   "company_type": "SAS（nature juridique 5710）· 企业类别 PME",
+   "sic": [
+    "NAF 26.30Z — 通信设备制造（Fabrication d'équipements de communication）"
+   ],
+   "address": "28 rue de l'Ornette, 28410 Abondant（Eure-et-Loir，巴黎西 80 km）；历史上 5 个机构，仅总部仍开（Gentilly 1992 / Toulouse 1994 / Châtillon 2007 / Antony 2010 先后关闭）",
+   "accounts": "2025 年报（RNE）：营业额字段 0、净利 −57,478 €（营业额 0 多半是未填报 / 保密申报，不是真没收入）",
+   "accounts_due": "",
+   "size_band": "员工档 12 = 20–49 人（2024 年 INSEE 口径）· 雇主单位 · 集体协议 IDCC 3248（冶金业）",
+   "officers": [
+    "Carmine OLIVA — Président de SAS，1942-09 生（84 岁）；= CXR 集团（美国 CXR Larus / 原 MicroTel）创始人兼长期 CEO"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "法国实体是 1983 年的老牌调制解调器 / 传输设备制造商（Anderson Jacobson 血统），NAF 26.30Z 制造 + 20–49 人 → 典型「有自己产品线的 OEM 品牌商」，报 OEM 30% 而不是分销价",
+    "总裁 Carmine Oliva 84 岁仍在册：决策高度集中在一位老人手里，合作要争取他下面的产品经理 / 采购做日常对接，长期绑定要看接班",
+    "2025 年净亏 5.7 万欧、机构从 5 个收缩到 1 个：规模在收，适合「小批量 + 替换老型号」的切入，不要押大单",
+    "法国官方 API 还能给年度财报（CA、résultat），每年 9–10 月年报更新后复查一次即可"
+   ],
+   "notes": "员工档 12 = 20–49 人；SAS 总裁即法定代表。",
+   "fetched": "2026-10-27",
+   "code": "SA-011",
+   "batch": 83
+  }
+ }
+}

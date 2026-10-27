@@ -86,6 +86,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 83 批（Germany · Handelsregister + Bundesanzeiger（Northdata 免费页），2026-10-27 查；https://www.northdata.de/U.T.E.%20Electronic%20GmbH%20&%20Co.%20KG,%20Witten/Amtsgericht%20Bochum%20HRA%204773）：**
+
+- 法定名 / 登记号：U.T.E. Electronic GmbH & Co. KG · Amtsgericht Bochum HRA 4773 · EUID DER2201.HRA4773 · 状态 **在册，年报（仅资产负债表）按期公告，2024 年报 2026-01-07 公布** · 成立 1997-04-11 登记；2004-07-23 改组为 GmbH & Co. KG · GmbH & Co. KG · 无限责任股东 = U.T.E. Electronic Verwaltungs-GmbH · 有限合伙人（Kommanditist）= 269 M Ltd.（一家英国 Ltd）
+- 行业码 / 经营范围：（Northdata 未列经营范围；官网 ute.de = 工业 / 嵌入式电子与网络产品分销）
+- 注册地址：Friedrich-Ebert-Str. 86, D-58454 Witten（鲁尔区，2018-11 迁入）
+- 规模档：小型（Kleinstkapitalgesellschaft 口径：资产 €1.3M → 营收大致 €2–6M、10 人以内）
+- 账目：2024 资产总额 €1,277,411（小型企业只公告资产负债表，无营收 / 利润）；2005–2024 连续；次年 12-31 前
+- 高管：经营者 = U.T.E. Electronic Verwaltungs-GmbH 的 Geschäftsführer（姓名在免费层未显示，待 handelsregister.de 补）
+- 高管：有限合伙人 269 M Ltd.（英国公司）= 实际出资人 → 所有者可能在英国或通过英国壳持有
+- 控制人 / 股东：269 M Ltd.（UK）为有限合伙人
+- **这意味着什么：**
+  - 资产 €1.3M 的小分销商，但 1997 年至今年年按时公告、地址稳定：是「小而老」的可靠户 → 分销 20% 档，MOQ 1 箱，T/T 50/50
+  - 出资人是一家英国 Ltd（269 M Ltd.）：老板可能常驻英国或用英国架构持股 → 英文沟通无障碍；PI 抬头仍用德国 KG，VAT DE 号
+  - 商标「6swaps」（2007）：曾有自有产品线 / 服务品牌，问一句是否仍有贴牌需求（OEM 30% 线备用）
+  - 年报只有资产负债表，看不出营收——用他们网店的 SKU 深度与询盘频率判断体量即可，不必再查
+- 备注：Verwaltungs-GmbH 的 GF 姓名需 handelsregister.de（免费）补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,9 +153,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | U.T.E. Electronic GmbH & Co. KG |
+| 法定名称 | U.T.E. Electronic GmbH & Co. KG（Amtsgericht Bochum HRA 4773，1997-04-11；PhG U.T.E. Electronic Verwaltungs-GmbH；有限合伙人 269 M Ltd.（UK）） |
 | 总部/地址 | Witten（Friedrich-Ebert-Str. 86, 58454 Witten, NRW）, 德国 |
-| 其他 | Planet 渠道档案 PA-017（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（有自有 U.T.E. ATS 系列转换开关，交换机无自有品牌）；最大未知：PLANET 线年量与库存深度；是否要求德文文档 / 德国仓交付；8 人团队中谁负责工业以太网采购（总经理 vs 销售负责人） |
+| 其他 | Planet 渠道档案 PA-017（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（有自有 U.T.E. ATS 系列转换开关，交换机无自有品牌）；最大未知：PLANET 线年量与库存深度；是否要求德文文档 / 德国仓交付；8 人团队中谁负责工业以太网采购（总经理 vs 销售负责人）；2024 资产总额 €1.28M（仅公告资产负债表）；商标 6swaps（2007）（第 83 批 官方登记核实 2026-10-27） |
 
 - **业务线**：Pro-AV / IT / USV B2B 分销商（1989 年起；「Pro AV & IT-Großhandel mit großem Lager」；只售经销商 / 系统集成商 / 机构，不售终端）；PLANET 为其「Automatisierung / Schaltschrankbau › Industrial Ethernet」类目主力品牌，独立品牌页 PLANET 两页约 48 款
 

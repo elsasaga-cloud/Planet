@@ -1,0 +1,44 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "USA · 州务卿登记 / OpenCorporates",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SA-002": {
+   "name": "SIMREX CORPORATION",
+   "iso": "US",
+   "source": "USA · SAM.gov 联邦供应商登记（CAGE / DUNS，经 cage.report 镜像，记录更新 2026-05-06）+ 官网 / Bloomberg",
+   "url": "https://cage.report/DUNS/087787573",
+   "number": "CAGE 1WEC8 · DUNS 087787573 · 注册地 Delaware（在 NY 经营）",
+   "status": "SAM 登记 Active（2026-05-06 续期，到期 2027-05-04）",
+   "incorporated": "业务始于 1996-01-18（SAM「Business started」；Bloomberg 口径 1991-11-13）；SAM 首次登记 2001-12-04",
+   "company_type": "Corporation（Delaware）· S-Corp（Subchapter S，2018 档案）· 实体结构码 2L · **Woman Owned Business**（govcb）· SAM 分类「U.S. or Canadian manufacturer」",
+   "sic": [
+    "联邦供应商分类：制造商（Entity type A）；无线通信 / 射频数据设备（官网）"
+   ],
+   "address": "1223 William St, Buffalo, NY 14206（制造与服务设施）",
+   "accounts": "私人公司不公开；第三方估计营收 $3–5.9M、员工 5–6 人（RocketReach / AlphaBusinessTrends，仅参考）",
+   "accounts_due": "",
+   "size_band": "5–6 人的小型射频 / 无线设备制造商；女性所有企业",
+   "officers": [
+    "SAM 登记联系人邮箱 frank@simrex.com（研究档 KP 对照）；州务卿（NY DOS）官员名单需在线检索，未取"
+   ],
+   "psc": "女性所有（WOSB 口径）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**SAM.gov 在册 25 年、2026-05 刚续期的联邦供应商 + 女性所有企业**：Simrex 做政府 / 公用事业 / 交通无线数据项目，交换机是配套件；美国政府项目里「Woman Owned」是加分项，他们会珍惜资格——配套件只要 FCC/CE/RoHS 齐全、原产地申报清楚即可（不要碰 NDAA 表述，按话术禁区）",
+    "Delaware 注册 + 纽约经营 + S-Corp：典型小型家族制造商，老板直接拍板；frank@ 很可能就是所有者 / 负责人",
+    "5–6 人、制造商：采购频率低但稳定（项目制），走集成 25% 档，突出工业级温宽 / 3 年质保 / 现货",
+    "SAM 登记每年续期（5 月），续期 = 仍在接政府项目，顺手查一次即可"
+   ],
+   "notes": "美国：州务卿无统一免费 API；SAM/CAGE 镜像（cage.report）对接政府项目的公司最有用；其他公司用 web_search 看 bizapedia / 州登记快照。",
+   "fetched": "2026-10-27",
+   "code": "SA-002",
+   "batch": 83
+  }
+ }
+}

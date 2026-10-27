@@ -88,15 +88,16 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
-**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/06899120）：**
+**公司底数 · 第 82 批（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/06899120）：**
 
 - 法定名 / 登记号：GENROV LTD · 06899120 · 状态 **Active** · 成立 2009-05-07 · Private limited company
-- 行业码（SIC）：74909 Other professional, scientific and technical activities n.e.c.
+- 行业码 / 经营范围：74909 Other professional, scientific and technical activities n.e.c.
 - 注册地址：Office 2 Kepier Hall, Church Street, Houghton-le-Spring DH4 4DN（与研究档一致）
 - 规模档：微型 · 单董事 / 唯一股东（研究档：Michael Dickinson）
 - 账目：最近账目截至 2025-05-31（已交）；下期截至 2026-05-31，2027-02-28 前交；确认声明 2026-05-07 已交，下期 2027-05-07
 - 高管：（officers 页未抓；研究档已记 Michael Dickinson = Director / 唯一股东，mike@genrov.com 本人来信 2024-06-16）
-- 抵押 / 担保：无抵押登记（页面无 Charges 标签）
+- 控制人 / 股东：（未抓）
+- 抵押 / 诉讼 / 担保：无抵押登记（页面无 Charges 标签）
 - **这意味着什么：**
   - 17 年老公司、无抵押、账目按期交，SIC 74909「其他专业技术活动」= 工程咨询型一人公司（ROV / 水下机器人方向），不是经销商 → 买交换机是配自己的项目，量小但重复，按集成商 25% 报、不要群发
   - 注册地址 = 研究档地址，公司状态 Active → 2024-06 本人来信的 mike@ 仍是正确入口

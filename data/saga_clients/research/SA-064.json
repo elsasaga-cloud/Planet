@@ -1,184 +1,184 @@
 {
-  "code": "SA-064",
-  "name_official": "ООО «ОПТА»（optat.ru，莫斯科；招投标集中供货公司）",
-  "website_status": "在线",
-  "summary": "莫斯科的电子招投标供货公司（通过电子交易平台参与投标，向俄企业集中供应非食品类商品，ОКВЭД 51.53 批发），执行总裁为用户标注'比较重要'的 KP；长期互动极强：20 次跟进中 18 次回复。",
-  "type": "招投标供货商/贸易商",
-  "size": "小型（待补证）",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "公司使命：通过电子交易平台向俄罗斯企业集中供货；靠参与电子招标获得供货权",
-      "quote": "Миссия компании: Организация и проведение качественных централизованных поставок непродовольственных групп товаров на предприятия и компании Российской Федерации, через электронные торговые площадки… Задачей компании является получение права на поставку через участие в электронных торгах",
-      "url": "https://www.optat.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "地址/电话/Skype 与用户记录一致（skype optainfo）",
-      "quote": "г.Москва, 1-й Красносельский, д.3… Телефон: (495) 744-37-78… Email: info@optat.ru… Skype: optainfo… ИНН 7708768402",
-      "url": "https://www.optat.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "公司使命与地址电话",
-      "quote": "Миссия компании: Организация и проведение качественных централизованных поставок непродовольственных групп товаров на предприятия и компании Российской Федерации, через электронные торговые площадки … г.Москва, 1-й Красносельский, д.3 пом.1, комн.79 - Телефон: (495) 744-37-78 - Email: info@optat.ru … ИНН 7708768402",
-      "url": "https://www.optat.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "对供应商的条件（最低价、预付/账期）",
-      "quote": "Наша компания занимается комплектацией государственных корпораций. Является аккредитованным поставщиком … От вас ожидаем получить минимальные цены, варианты по работе с предоплатой, с частичной предоплатой (остальное по факту отгрузки Заказчику), отсрочку платежа.",
-      "url": "http://www.optat.ru/?page=distributor",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "注册/司法",
-      "claim": "1 人公司、执行程序与政采记录",
-      "quote": "Численность сотрудников стабильна на уровне одного человека на протяжении последних семи лет … Исполнительные производства … Производств 16 … На сумму 23 млн руб. Остаток задолженности 9,8 млн руб. … Госзакупки В роли: Поставщика 50 закупок на сумму 27 млн руб. 34 контракта заключено на сумму 14 млн руб.",
-      "url": "https://www.rusprofile.ru/id/5955596",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（执行总裁，见 Clients 表）",
-      "role": "招投标公司执行总裁（用户记录）",
-      "email": "info@optat.ru",
-      "phone": "+7 925 744 3778 / Skype optainfo",
-      "source": "用户 Clients 表 + 官网"
-    },
-    {
-      "name": "Елизаров Николай Николаевич（Nikolay N. Elizarov）",
-      "role": "Генеральный директор / 唯一股东（注册信息；用户表「执行总裁」即此人）",
-      "email": "info@optat.ru（公司公开）",
-      "phone": "+7 495 744-37-78",
-      "source": "https://www.rusprofile.ru/id/5955596"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "18 次回复 = 全库最活跃联系人之一，但业务模式是按标书逐单采购（品类随标书变化，非持续同品类）。价值在于'每次标书涉及交换机时第一时间报价'。俄罗斯收款路径需核。P1 随标书；默认 STC-424DGGPM-280W，分销/投标价阶 20%。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v2（官网 + 注册/司法信息核对）"
+ "code": "SA-064",
+ "name_official": "ООО «ОПТА»（optat.ru，莫斯科；招投标集中供货公司）",
+ "website_status": "在线",
+ "summary": "莫斯科的电子招投标供货公司（通过电子交易平台参与投标，向俄企业集中供应非食品类商品，ОКВЭД 51.53 批发），执行总裁为用户标注'比较重要'的 KP；长期互动极强：20 次跟进中 18 次回复。",
+ "type": "招投标供货商/贸易商",
+ "size": "小型（待补证）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司使命：通过电子交易平台向俄罗斯企业集中供货；靠参与电子招标获得供货权",
+   "quote": "Миссия компании: Организация и проведение качественных централизованных поставок непродовольственных групп товаров на предприятия и компании Российской Федерации, через электронные торговые площадки… Задачей компании является получение права на поставку через участие в электронных торгах",
+   "url": "https://www.optat.ru/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ООО «Опта»（ИНН 7708768402，ОГРН 1127746631814）",
-    "hq": "107140, Москва, 1-й Красносельский пер., д.3, пом.I, ком.79（(495) 744-37-78；info@optat.ru）",
-    "other": "电子招投标集中供货公司：「为国有公司配套、经认证供应商」，向生产商/大贸易商征集最低价 + 预付/部分预付/账期；政采记录：作为供应商参与 50 次采购（2,700 万 ₽）、签 34 份合同（1,400 万 ₽），投标 294 次 / 2.05 亿 ₽；**执行程序 16 项、累计 2,300 万 ₽，未清偿 980 万 ₽（rusprofile）**",
-    "founded": "2012-08-15",
-    "staff": "1（连续 7 年）；总经理兼唯一股东 Елизаров Николай Николаевич"
+  {
+   "kind": "官网",
+   "claim": "地址/电话/Skype 与用户记录一致（skype optainfo）",
+   "quote": "г.Москва, 1-й Красносельский, д.3… Телефон: (495) 744-37-78… Email: info@optat.ru… Skype: optainfo… ИНН 7708768402",
+   "url": "https://www.optat.ru/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "电子平台招投标供货（非食品类集中采购）",
-    "电子招投标集中供货（非食品类，国有企业/公司）",
-    "向供应商反向询价（要求最低价与账期）"
-  ],
-  "products_seen": [
-    {
-      "brand": "（招标项目）",
-      "model": "按标书品类（交换机/MC 等）",
-      "spec": "按单询价",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "按标书对位"
-    }
-  ],
-  "channels": {
-    "网站": "https://www.optat.ru/",
-    "直邮": "info@optat.ru（用户表）",
-    "电话": "+7 495 744-37-78（官网公开）",
-    "邮箱（公开）": "info@optat.ru"
+  {
+   "kind": "官网",
+   "claim": "公司使命与地址电话",
+   "quote": "Миссия компании: Организация и проведение качественных централизованных поставок непродовольственных групп товаров на предприятия и компании Российской Федерации, через электронные торговые площадки … г.Москва, 1-й Красносельский, д.3 пом.1, комн.79 - Телефон: (495) 744-37-78 - Email: info@optat.ru … ИНН 7708768402",
+   "url": "https://www.optat.ru/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "18/20 回复率——极高互动；执行总裁直接对接",
-    "需求随招标而来、非经销复购；询价时会要求最低价与账期——只按 EXW 现价、100% 预付报"
-  ],
-  "risks": [
-    "招投标供货多为公共采购——守界：不介入俄罗斯公共/军方标；只供商业标",
-    "俄罗斯结算",
-    "**付款风险**：1 人公司、16 项执行程序、未清偿 980 万 ₽（2026-10-21 rusprofile）→ 只接受 100% 预付，不给账期；**公共部门守界**：客户为国有公司配套，若标的为政府/国企项目按 INH 公共部门规则只供通用商用型号、不做定制"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 20,
-    "why": "招标供货商按标书口型临时询价：主力 STC-424DGGPM-280W / STC-28DGGPM 商用管理型；分销 20% 档但 100% 预付、不议账期"
+  {
+   "kind": "官网",
+   "claim": "对供应商的条件（最低价、预付/账期）",
+   "quote": "Наша компания занимается комплектацией государственных корпораций. Является аккредитованным поставщиком … От вас ожидаем получить минимальные цены, варианты по работе с предоплатой, с частичной предоплатой (остальное по факту отгрузки Заказчику), отсрочку платежа.",
+   "url": "http://www.optat.ru/?page=distributor",
+   "date": "2026-10-21"
   },
-  "email_hook": "For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 3 封 0 回；用户表「18 次回复」= 全库最活跃联系人之一，渠道在 WA）；Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮） 批次 To sales@bas-ip.com，0 回（第 74 批 Bcc 头核对 msg 1a03df102140ed72）",
-      "type": "莫斯科招投标供货商（ОПТА）——按标书逐单采购",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "标书出现交换机时 24h 内报价（用户表）",
-      "lane": "RU",
-      "cadence": "按标书",
-      "evidence": "邮件：去信 3 封（2026-05-12 → 2026-08-24），来信 0；Opened 标签 0 次；收件人 info@optat.ru；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@bas-ip.com）本户见于 2026-08-26 名单；该批次最早 2025-02-22 起共 11 轮，更早轮次 Bcc 未读"
-    },
-    "situation": "邮件层只有 3 封 2026 群发；18 次回复全在邮件之外。",
-    "need": "随标书变化。",
-    "breakpoint": "收款路径（RU）。",
-    "saga_now": {
-      "p1": "按标书",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-12 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "标书驱动、RU 收款路径 → 只在标书触发时按标书报 EXW 15 天有效、100% 预付",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "标书触发",
-      "channel": "WhatsApp",
-      "action": "标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：标书触发版已写 `draft_en`（Elsa 8 月群发他见过 $170，已点明 FX））",
-      "one_question": "For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number."
-    },
-    "facts": [
-      {
-        "date": "2023-12-09",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了30的商业POE价格册」→ 对方「Hi」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2023.12.9"
-      },
-      {
-        "date": "2024-05-15",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了几个工业mini图」→ 对方「发了个表情」",
-        "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2024.5.15"
-      },
-      {
-        "date": "2024-06-18",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「2024.7.15：问了一批提供不了的东西」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2024.6.18"
-      },
-      {
-        "date": "2026-08-26",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@bas-ip.com，俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮） 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@optat.ru, optat.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 群发 Bcc 已触达（锚月轮 11 轮，最近 2026-08-26）、0 回），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件；标书来时用）",
-      "body": "Hi, Simon from Saga Telecom. For the tender lot: I hold these EXW numbers for 15 days with full CE/RoHS files, 100 % prepayment, so your bid sheet has a firm figure - 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the August mail said $170; the RMB moved from 7.2 to 6.7); 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $80.7. EAC stays on your side. Send me the lot's spec lines and quantities and you have the sheet back the same day."
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "注册/司法",
+   "claim": "1 人公司、执行程序与政采记录",
+   "quote": "Численность сотрудников стабильна на уровне одного человека на протяжении последних семи лет … Исполнительные производства … Производств 16 … На сумму 23 млн руб. Остаток задолженности 9,8 млн руб. … Госзакупки В роли: Поставщика 50 закупок на сумму 27 млн руб. 34 контракта заключено на сумму 14 млн руб.",
+   "url": "https://www.rusprofile.ru/id/5955596",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（执行总裁，见 Clients 表）",
+   "role": "招投标公司执行总裁（用户记录）",
+   "email": "info@optat.ru",
+   "phone": "+7 925 744 3778 / Skype optainfo",
+   "source": "用户 Clients 表 + 官网"
+  },
+  {
+   "name": "Елизаров Николай Николаевич（Nikolay N. Elizarov）",
+   "role": "Генеральный директор / 唯一股东（注册信息；用户表「执行总裁」即此人）",
+   "email": "info@optat.ru（公司公开）",
+   "phone": "+7 495 744-37-78",
+   "source": "https://www.rusprofile.ru/id/5955596"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "18 次回复 = 全库最活跃联系人之一，但业务模式是按标书逐单采购（品类随标书变化，非持续同品类）。价值在于'每次标书涉及交换机时第一时间报价'。俄罗斯收款路径需核。P1 随标书；默认 STC-424DGGPM-280W，分销/投标价阶 20%。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（官网 + 注册/司法信息核对）"
+ },
+ "company_facts": {
+  "legal_name": "ООО «Опта»（ИНН 7708768402，ОГРН 1127746631814）",
+  "hq": "107140, Москва, 1-й Красносельский пер., д.3, пом.I, ком.79（(495) 744-37-78；info@optat.ru）",
+  "other": "电子招投标集中供货公司：「为国有公司配套、经认证供应商」，向生产商/大贸易商征集最低价 + 预付/部分预付/账期；政采记录：作为供应商参与 50 次采购（2,700 万 ₽）、签 34 份合同（1,400 万 ₽），投标 294 次 / 2.05 亿 ₽；**执行程序 16 项、累计 2,300 万 ₽，未清偿 980 万 ₽（rusprofile）**；ЕГРЮЛ：Елизаров Н.Н. 100% 股东兼总经理（2012-08-15 起）；2025 营收 21.8M ₽、净利 1.2M ₽；25 次投标；仲裁 9 件、执行程序 3–15 件（第 83 批 官方登记核实 2026-10-27）",
+  "founded": "2012-08-15",
+  "staff": "1（ФНС 平均人数）（第 83 批 官方登记核实 2026-10-27）"
+ },
+ "business_lines": [
+  "电子平台招投标供货（非食品类集中采购）",
+  "电子招投标集中供货（非食品类，国有企业/公司）",
+  "向供应商反向询价（要求最低价与账期）"
+ ],
+ "products_seen": [
+  {
+   "brand": "（招标项目）",
+   "model": "按标书品类（交换机/MC 等）",
+   "spec": "按单询价",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "按标书对位"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.optat.ru/",
+  "直邮": "info@optat.ru（用户表）",
+  "电话": "+7 495 744-37-78（官网公开）",
+  "邮箱（公开）": "info@optat.ru"
+ },
+ "signals": [
+  "18/20 回复率——极高互动；执行总裁直接对接",
+  "需求随招标而来、非经销复购；询价时会要求最低价与账期——只按 EXW 现价、100% 预付报"
+ ],
+ "risks": [
+  "招投标供货多为公共采购——守界：不介入俄罗斯公共/军方标；只供商业标",
+  "俄罗斯结算",
+  "**付款风险**：1 人公司、16 项执行程序、未清偿 980 万 ₽（2026-10-21 rusprofile）→ 只接受 100% 预付，不给账期；**公共部门守界**：客户为国有公司配套，若标的为政府/国企项目按 INH 公共部门规则只供通用商用型号、不做定制"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "招标供货商按标书口型临时询价：主力 STC-424DGGPM-280W / STC-28DGGPM 商用管理型；分销 20% 档但 100% 预付、不议账期"
+ },
+ "email_hook": "For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 3 封 0 回；用户表「18 次回复」= 全库最活跃联系人之一，渠道在 WA）；Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮） 批次 To sales@bas-ip.com，0 回（第 74 批 Bcc 头核对 msg 1a03df102140ed72）",
+   "type": "莫斯科招投标供货商（ОПТА）——按标书逐单采购",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "标书出现交换机时 24h 内报价（用户表）",
+   "lane": "RU",
+   "cadence": "按标书",
+   "evidence": "邮件：去信 3 封（2026-05-12 → 2026-08-24），来信 0；Opened 标签 0 次；收件人 info@optat.ru；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@bas-ip.com）本户见于 2026-08-26 名单；该批次最早 2025-02-22 起共 11 轮，更早轮次 Bcc 未读"
+  },
+  "situation": "邮件层只有 3 封 2026 群发；18 次回复全在邮件之外。",
+  "need": "随标书变化。",
+  "breakpoint": "收款路径（RU）。",
+  "saga_now": {
+   "p1": "按标书",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-12 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "标书驱动、RU 收款路径 → 只在标书触发时按标书报 EXW 15 天有效、100% 预付",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "标书触发",
+   "channel": "WhatsApp",
+   "action": "标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：标书触发版已写 `draft_en`（Elsa 8 月群发他见过 $170，已点明 FX））",
+   "one_question": "For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number."
+  },
+  "facts": [
+   {
+    "date": "2023-12-09",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了30的商业POE价格册」→ 对方「Hi」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2023.12.9"
+   },
+   {
+    "date": "2024-05-15",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了几个工业mini图」→ 对方「发了个表情」",
+    "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2024.5.15"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「2024.7.15：问了一批提供不了的东西」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2024.6.18"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@bas-ip.com，俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮） 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@optat.ru, optat.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 群发 Bcc 已触达（锚月轮 11 轮，最近 2026-08-26）、0 回），仓库未见原文"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件；标书来时用）",
+   "body": "Hi, Simon from Saga Telecom. For the tender lot: I hold these EXW numbers for 15 days with full CE/RoHS files, 100 % prepayment, so your bid sheet has a firm figure - 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the August mail said $170; the RMB moved from 7.2 to 6.7); 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $80.7. EAC stays on your side. Send me the lot's spec lines and quantities and you have the sheet back the same day."
+  },
+  "as_of": "2026-10-25"
+ }
 }

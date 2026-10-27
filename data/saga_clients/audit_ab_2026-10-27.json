@@ -328,7 +328,7 @@
    "p1": "STI-288DGGPM / STI-488XGGPM（工业 L2+）",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SA-012": {
@@ -526,7 +526,7 @@
    "p1": "STI-244GP / STI-110GE（非管理工业 / MC）",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SA-021": {
@@ -592,7 +592,7 @@
    "p1": "STC-424DGGPM-280W（管理型 PoE，差异品）",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-024": {
@@ -900,7 +900,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-038": {
@@ -1186,7 +1186,7 @@
    "p1": "STI-110GE 类 1G SFP MC（CE 电源版）+ STC-28DGGPM 8 口 PoE 对位表",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SA-051": {
@@ -1472,7 +1472,7 @@
    "p1": "STC-448XGGPM 类",
    "tier": 25,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-064": {
@@ -1692,7 +1692,7 @@
    "p1": "STC-424DGGPM-280W",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-074": {
@@ -2044,7 +2044,7 @@
    "p1": "STI-288DGGPM 对位 PLANET IGS 系列（备用）",
    "tier": 20,
    "signals": 1,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SA-090": {

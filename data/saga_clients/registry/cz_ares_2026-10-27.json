@@ -1,0 +1,46 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SA-089": {
+   "name": "LANCOMAT s.r.o.",
+   "iso": "CZ",
+   "source": "Czechia · ARES 官方 API（基本 + 公共登记 VR 摘录）",
+   "url": "https://ares.gov.cz/ekonomicke-subjekty/27929795",
+   "number": "IČO 27929795 · DIČ CZ27929795 · 商事法院卷宗 C 127222/MSPH（布拉格市法院）",
+   "status": "AKTIVNI（ROS / VR / RES / RŽP / DPH 五个登记源全部在册；VAT 在册）· 数据更新 2026-10-08",
+   "incorporated": "2007-07-16",
+   "company_type": "s.r.o.（有限责任公司，法律形式 112）· 注册资本 200,000 CZK（已缴 100%）",
+   "sic": [
+    "CZ-NACE 46 批发、47 零售、47.99 非店铺零售（= 电商）；营业执照项目 2011 起为通用「生产、贸易与服务」"
+   ],
+   "address": "Poděbradská 520/24, Vysočany, 190 00 Praha 9（2026-07-23 重新登记同一地址）",
+   "accounts": "ARES 不给财务数字；年报在 or.justice.cz 文件集（Sbírka listin）可查，未读",
+   "accounts_due": "",
+   "size_band": "两名执行董事（jednatel）自 2007 年起未变 → 创始人自营的小型批发 / 电商公司",
+   "officers": [
+    "Zdeněk ZÍTA — jednatel（执行董事），1963-02 生，2007-07-16 起（2026-07-23 重新登记）",
+    "Tomáš JAHODA — jednatel，1976-02 生，2007-07-16 起（2026-07-23 重新登记）",
+    "2014-09 登记「法定机关成员 2 人」；2024-11 起管理方式 INDIVIDUALNI_SRO（各自单独代表）"
+   ],
+   "psc": "（股东段在 VR 摘录第 2 分块，未读；大概率即两位董事）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "两位创始董事 19 年没变、各自可单独签字 → 任何一位回信都算数；现有 KP 若不是 Zíta / Jahoda 之一，就把其中一位加进抄送",
+    "NACE 47.99 非店铺零售 + 46 批发：是做电商（lancomat.cz 网店）的布拉格分销商 → 分销 20% 档，强调小起订量和现货周转",
+    "注册资本 20 万 CZK（≈ $8.5k）的小公司：首单 T/T 100% 预付合理，不给账期",
+    "2026-07-23 刚做过登记更新（地址 / 董事重新登记）→ 公司在正常维护，不是僵尸户"
+   ],
+   "notes": "捷克其余 21 户用 ARES 基本接口（短 JSON）即可：成立日 / NACE / VAT 状态。",
+   "fetched": "2026-10-27",
+   "code": "SA-089",
+   "batch": 83
+  }
+ }
+}

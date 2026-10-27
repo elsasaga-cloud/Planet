@@ -1,0 +1,116 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 3
+ },
+ "rows": {
+  "SA-023": {
+   "name": "FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+   "iso": "PL",
+   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl，现行摘录 2026-06-11 状态）+ 财政部 VAT 白名单 API",
+   "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json",
+   "number": "KRS 0001095976 · NIP 7542916466 · REGON 160150149",
+   "status": "Active · VAT 状态 Czynny（增值税在册）· 最近登记第 10 号 2026-06-11（年报备案）",
+   "incorporated": "2007-10-01 税务登记（原民事合伙 FCNet Future Communication Networks s.c.）；2023-12-12 公证转制为有限公司，2024-03-21 入 KRS",
+   "company_type": "Sp. z o.o.（有限责任公司）· 注册资本 100,000 PLN",
+   "sic": [
+    "PKD 46.52.Z — 电子与电信设备及零件批发（主营）"
+   ],
+   "address": "ul. Św. Jacka 2, 45-073 Opole（与研究档一致）；已登记电子送达地址",
+   "accounts": "年报按时在 KRS 备案（2026-06-11 最近一次 RDF 系统登记）；KRS 公开 API 不给财务数字",
+   "accounts_due": "",
+   "size_band": "四位自然人股东各 250 股 / 25,000 PLN（各 25%），四人同时都是管理委员会成员 → 合伙人制小公司",
+   "officers": [
+    "管理委员会（Zarząd）4 人：Piotr FRYDEL、Jarosław K. CISOWSKI、Krzysztof M. SMUGOWSKI、A. J. FRYDEL（API 对姓名打码，前三位全名来自转制决议原文；第四位与 Piotr 同姓 → 家族成员）",
+    "代表权：任何一名成员可单独签署 ≤100,000 PLN 的义务；超过 10 万 PLN 需两名成员或一名成员 + 代理人（prokurent）联签"
+   ],
+   "psc": "4 名股东各 25%，无单一控制人",
+   "charges": "（KRS 摘录第 4 节未读）",
+   "prev_names": [
+    "FCNET FUTURE COMMUNICATION NETWORKS SPÓŁKA CYWILNA（2007→2023）"
+   ],
+   "lines": [
+    "**报价 / PI 金额门槛：≤100,000 PLN（≈ $25k）一个人就能拍板，超过要两人联签**——首单控制在这条线以下（例如 100–150 台 24 口 PoE），省掉他们内部走联签",
+    "四个平分股权的合伙人都在管理层：没有「老板一人说了算」，邮件抄送要覆盖至少两位（现有 KP 之外再找一位 Frydel / Cisowski / Smugowski）",
+    "2023 年底刚从民事合伙转成有限公司、注册资本 10 万 PLN：财务上才开始规范化，T/T 50/50 合理；别给账期",
+    "主营 PKD 46.52.Z 批发：登记口径就是分销商 → 分销 20% 档；波兰 KRS 年报 6 月备案，每年 7 月可复查"
+   ],
+   "notes": "KRS API 第二分块（其余 PKD / 年报清单）未读。",
+   "fetched": "2026-10-27",
+   "code": "SA-023",
+   "batch": 83
+  },
+  "SA-050": {
+   "name": "IMPAKT SPÓŁKA AKCYJNA",
+   "iso": "PL",
+   "source": "Poland · KRS（rejestr.io / bizraport.pl / okredo 镜像，财报来自 KRS 年报）",
+   "url": "https://rejestr.io/krs/585900/impakt",
+   "number": "KRS 0000585900 · NIP 7831720485 · REGON 360441981",
+   "status": "Czynny（活跃）· 最近登记第 43 号 2025-07-01",
+   "incorporated": "2015-11-13 入 KRS（股份公司形式；品牌 Genesis / Lanberg / Natec 更早）",
+   "company_type": "Spółka akcyjna（股份公司，未上市）· 注册资本 60,761,002 PLN（≈ $15M）全部实缴",
+   "sic": [
+    "（PKD 未在摘要中；实际 = 自有品牌 IT 配件 / 网络 / 游戏外设分销商：Genesis、Lanberg、Natec）"
+   ],
+   "address": "ul. Stanisława Lema 16, 62-050 Mosina（波兹南南郊）",
+   "accounts": "2025 营收 152.2M PLN（≈ $38M；2024：149.2M；okredo 口径 2024 148.1M）· 2025 税前利润 10.8M、净利 8.6M PLN · 资产 87.2M PLN",
+   "accounts_due": "KRS 年报 6–7 月备案",
+   "size_band": "大型自有品牌商 / 分销商（营收 ≈ $38M，资本 6,000 万 PLN）",
+   "officers": [
+    "Marcin CHOJNACKI — Prezes Zarządu（董事长 / CEO）"
+   ],
+   "psc": "（股东结构未在免费摘要；S.A. 股东不公开于 KRS）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**营收 1.5 亿 PLN、三大自有品牌（Genesis / Lanberg / Natec）的波兰品牌商**：Lanberg 本身就卖网络交换机 → 这是标准的 OEM 30% 目标，卖点是「替 Lanberg 补一条 Marvell 管理型 / PoE 产品线」而不是卖 Saga 牌子",
+    "注册资本 6,076 万 PLN 全部实缴、净利率 5.7%：财务健康，付款不是问题；但品牌商采购走正式 vendor onboarding（样机测试 → 认证 → 价格表 → 年度量）——准备 CE/RoHS/REACH 全套 + 固件定制说明",
+    "Prezes Marcin Chojnacki 只拍框架；日常对接是 product@impakt.com.pl 的产品经理（研究档）——邮件主题直接写「ODM proposal for Lanberg managed PoE switches」",
+    "波兰 KRS 年报每年 7 月更新，2027-07 看 2026 营收"
+   ],
+   "notes": "rejestr.io 免费层含董事会成员与年报数字；无需调用 KRS API。",
+   "fetched": "2026-10-27",
+   "code": "SA-050",
+   "batch": 83
+  },
+  "SA-020": {
+   "name": "BITSTREAM SPÓŁKA AKCYJNA（原 Bitstream Sp. z o.o.，KRS 0000266288）",
+   "iso": "PL",
+   "source": "Poland · KRS（rejestr.io / imsig.pl / krs-pobierz.pl 镜像）",
+   "url": "https://rejestr.io/krs/1010572/bitstream",
+   "number": "KRS 0001010572（S.A.，2023-01-02）· 旧 KRS 0000266288（Sp. z o.o.）· NIP 9462508588 · REGON 060184269 · BDO 000015549",
+   "status": "Aktywna · 最近登记第 21 号 2026-08-18（修改监事会 Organ nadzoru）；第 20 号 2026-07-02（年报 + 2026-06-30 公证书）",
+   "incorporated": "Sp. z o.o. 约 2006（REGON 06 开头 = 卢布林省，KRS 266288 ≈ 2006 年）；2023-01-02 转为股份公司",
+   "company_type": "Spółka akcyjna · 注册资本 200,000 PLN",
+   "sic": [
+    "PKD 26.30.Z — 通信设备制造（主营）→ 登记就是「制造商」"
+   ],
+   "address": "ul. Mełgiewska 7/9, 20-209 Lublin",
+   "accounts": "S.A. 最近年报：营业收入 18.24M PLN（≈ $4.6M）、总成本 14.29M → 营业利润约 3.9M PLN（bizraport）；前身 Sp. z o.o. 年份营收 10.1M、资产 9.8M",
+   "accounts_due": "KRS 年报 6–7 月备案（2026-07-02 已备）",
+   "size_band": "中小型制造商（营收 ≈ $4.6M，营业利润率 ≈ 21%）",
+   "officers": [
+    "Dariusz PIETRZYK — Prezes Zarządu（Sp. z o.o. 时代起即决策人）",
+    "2026-08-18 监事会变更（S.A. 设监事会 → 有外部股东 / 治理升级迹象）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [
+    "BITSTREAM SP. Z O.O.（KRS 0000266288，→ 2023-01 转制）"
+   ],
+   "lines": [
+    "**PKD 26.30.Z 制造商 + 2023 年改制股份公司 + 2026 年监事会变动**：BitStream 自己做光传输 / 网络硬件（有研发），采购 Saga 交换机是做 OEM 配套或补齐产品线 → OEM 30% 线，别按分销报",
+    "Prezes Dariusz Pietrzyk 从 Sp. z o.o. 时代一路当家 → 他就是老板；营业利润率 21% 说明有技术溢价，谈的时候强调 Marvell / CENTEC 芯片与固件可定制，不要先谈最低价",
+    "改股份公司 + 监事会 = 可能在准备融资 / 新股东进入：合作要写成正式供货协议（含质保 3 年、固件更新承诺），利于他们对股东交代",
+    "2027-07 看 2026 年报（营收是否继续两位数增长）"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-020",
+   "batch": 83
+  }
+ }
+}

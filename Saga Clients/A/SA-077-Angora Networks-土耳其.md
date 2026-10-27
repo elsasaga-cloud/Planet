@@ -195,6 +195,21 @@ updated: 2026-10-27
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 83 批（Turkey · 商会 / Ticaret Sicil 公开摘要（find.com.tr 镜像）+ 官网 / LinkedIn 自述；MERSIS 全文需 e-Devlet 登录（不可得），2026-10-27 查；https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi）：**
+
+- 法定名 / 登记号：ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ · Ticaret sicil 号与税号在镜像站仅会员可见（未取）；NACE 620902 · 状态 **在册（官网 / LinkedIn 2026 活跃）** · 成立 2016-11-28（Anonim Şirket 设立日） · Anonim Şirket（股份公司）· 资本与董事会名单不公开于免费源
+- 行业码 / 经营范围：NACE 62.09.02 — 其他 IT 与计算机服务（登记）；实际 = 自称「土耳其网络设备制造商」（交换机 / SFP / 瘦客户机 / 数据二极管 / NAC）
+- 注册地址：登记地 Alacaatlı Mah. Park Cad. 47/31 Yenimahalle, Ankara；办公 Nergiz Sok. No:7 Via Flat Plaza Cubes, Söğütözü；生产 Çamlıca Mah. Anadolu Blv. Timko Sk. Z Blok No:20/1 Yenimahalle
+- 规模档：LinkedIn 11–50 人，「团队合计 75 年经验」；成立 2016
+- 账目：土耳其非上市公司财报不公开
+- 高管：董事会 / 签字人：免费源不可得（Ticaret Sicil Gazetesi 需登录检索）；研究档 KP 为准
+- **这意味着什么：**
+  - **A.Ş. 股份公司 + 自称本土制造商 + 2023 年推数据二极管 / NAC 等安全产品**：Angora 是「贴牌 + 自研软件」路线的土耳其品牌商，正是 OEM 30% 目标；Saga 做「Angora 品牌」的硬件底座（Marvell L2+/L3 + CENTEC），他们做软件 / 本地化
+  - NACE 登记为 IT 服务而非制造：说明硬件主要外购 → 对「可定制固件 + 丝印 logo + 彩盒」的需求是刚需，报价时把 OEM 服务项列全
+  - 安卡拉 + 国防 / 公共部门生态（数据二极管 = 典型政府客户产品）：守界原则——只供商用设备，不参与军品 / 加密出口敏感项目
+  - 土耳其公司底数免费层只有成立日 / 法律形式 / NACE / 地址；董事与资本以后只能从来往邮件 / 签字人补
+- 备注：TR 免费源上限：成立日 / 法律形式 / NACE / 地址。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -335,7 +350,7 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Angora Networks Bilişim Teknoloji Tic. San. A.Ş. |
+| 法定名称 | ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ A.Ş.（2016-11-28 设立；NACE 62.09.02；登记地 Alacaatlı Mah. Park Cad. 47/31 Yenimahalle, Ankara）（第 83 批 官方登记核实 2026-10-27） |
 | 总部/地址 | 安卡拉（Yenimahalle 税务所），土耳其 |
 | 其他 | 自有品牌 ANW-（Angora）与 TronX（2025-04 框架协议）；通过合作方向 Turk Telekom 供货；常年参与土耳其警察 RfP |
 

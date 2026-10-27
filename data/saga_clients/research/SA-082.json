@@ -1,165 +1,165 @@
 {
-  "code": "SA-082",
-  "name_official": "ISIMKO GmbH（Cottbus, DE；isimko.de；HRB 472 Cottbus）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "德国 Cottbus 的家族制中型系统集成商 ISIMKO GmbH（Informations-, Sicherheits-, Medien- und Kommunikationstechnik；1990 年成立，前身 G. Fleischhauer Ingenieurbüro Cottbus，2017 年更名；HRB 472；注册资本 €200,000；120+ 名员工含 16 名学徒；Cottbus / Berlin / Dresden / Schwarze Pumpe 四地；总经理 Ralph Hannemann、Diego Noack，股东含 Wolfgang/Falk Noack）：信息技术、安防技术、媒体技术、通信技术项目规划与实施，专长工业高品质铜缆与光纤网络，客户为工业、中型企业与公共部门（Lausitz 能源/工业区，LAUBAG 渊源）。Saga 自建站询盘：1 台 12 光 12 电（询盘人 r.hannemann = 总经理）；WhatsApp 已加；6 次跟进 0 回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "公司定位与规模",
-      "quote": "Wir planen und realisieren Projekte in der Informationstechnik, Sicherheitstechnik, Medientechnik sowie Kommunikations- und Sicherheitstechnik … Wir sind spezialisiert für hochwertige Kupfer- und Glasfasernetze in der Industrie. Wir sind ein familiengeführtes, mittelständisches Unternehmen mit mehr als 120 Beschäftigten an den Standorten Cottbus, Berlin, Dresden und Schwarze Pumpe. … Guhrower Straße 5 03044 Cottbus 03 55 / 7 80 15-0 info@isimko.de",
-      "url": "https://www.isimko.de/",
-      "date": "2025-09-08"
-    },
-    {
-      "kind": "官网 Impressum",
-      "claim": "登记与总经理",
-      "quote": "ISIMKO GmbH Guhrower Straße 5 03044 Cottbus … Registergericht: Amtsgericht Cottbus Registernummer: HRB 472 Vertreten durch: Ralph Hannemann (Geschäftsführer) Diego Noack (Geschäftsführer) Umsatzsteuer-ID … DE 138 77 5376",
-      "url": "https://www.isimko.de/impressum/",
-      "date": "2024-10-08"
-    },
-    {
-      "kind": "官网",
-      "claim": "历史与员工",
-      "quote": "Seit der Gründung unseres Unternehmens 1990 … Einst mit 7 Mitarbeitern gestartet, haben wir uns zu einem modernen mittelständischen Unternehmen mit 120 Mitarbeiterinnen und Mitarbeitern inklusive 16 Azubis entwickelt. 28. September 1990 Firmengründung - Umfirmierung in ISIMKO GmbH",
-      "url": "https://www.isimko.de/uber-uns/",
-      "date": "2026-09-07"
-    },
-    {
-      "kind": "名录",
-      "claim": "注册资本",
-      "quote": "Register entry: HRB 472 (Cottbus) Legal form: GmbH … Founded: 27 Sept 1990 Share capital: €200,000 VAT ID: DE138775376",
-      "url": "https://app.implisense.com/en/companies/isimko-gmbh-cottbus--DEFGCK8KPA48",
-      "date": "2025-08-18"
-    },
-    {
-      "kind": "用户表",
-      "claim": "自建站询盘 1 台 12 光 12 电；询盘人 r.hannemann；WhatsApp 已加；6 次跟进 0 回复",
-      "quote": "1台12光12电 / from: 自建站 … 49 163 96 77284 已加",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ralph Hannemann",
-      "role": "Geschäftsführer（Impressum 公开；Saga 自建站询盘人）",
-      "email": "r.hannemann@isimko.de（用户表）",
-      "phone": "+49 355 78015-0 / +49 163 96 77284（用户表，WhatsApp 已加）",
-      "source": "https://www.isimko.de/impressum/"
-    },
-    {
-      "name": "Diego Noack",
-      "role": "Geschäftsführer（Impressum 公开）",
-      "email": "—（未公开）",
-      "phone": "+49 355 78015-0",
-      "source": "https://www.isimko.de/impressum/"
-    }
-  ],
-  "grade_override": "A",
-  "override_reason": "A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（GF，r.hannemann@isimko.de）；③ 可赢规模——120 人家族企业、专精工业铜缆/光纤网络的系统集成商（非巨头）。WhatsApp 已加。",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B→A 加厚 v1（官网 + 登记核对）"
+ "code": "SA-082",
+ "name_official": "ISIMKO GmbH（Cottbus, DE；isimko.de；HRB 472 Cottbus）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "德国 Cottbus 的家族制中型系统集成商 ISIMKO GmbH（Informations-, Sicherheits-, Medien- und Kommunikationstechnik；1990 年成立，前身 G. Fleischhauer Ingenieurbüro Cottbus，2017 年更名；HRB 472；注册资本 €200,000；120+ 名员工含 16 名学徒；Cottbus / Berlin / Dresden / Schwarze Pumpe 四地；总经理 Ralph Hannemann、Diego Noack，股东含 Wolfgang/Falk Noack）：信息技术、安防技术、媒体技术、通信技术项目规划与实施，专长工业高品质铜缆与光纤网络，客户为工业、中型企业与公共部门（Lausitz 能源/工业区，LAUBAG 渊源）。Saga 自建站询盘：1 台 12 光 12 电（询盘人 r.hannemann = 总经理）；WhatsApp 已加；6 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司定位与规模",
+   "quote": "Wir planen und realisieren Projekte in der Informationstechnik, Sicherheitstechnik, Medientechnik sowie Kommunikations- und Sicherheitstechnik … Wir sind spezialisiert für hochwertige Kupfer- und Glasfasernetze in der Industrie. Wir sind ein familiengeführtes, mittelständisches Unternehmen mit mehr als 120 Beschäftigten an den Standorten Cottbus, Berlin, Dresden und Schwarze Pumpe. … Guhrower Straße 5 03044 Cottbus 03 55 / 7 80 15-0 info@isimko.de",
+   "url": "https://www.isimko.de/",
+   "date": "2025-09-08"
   },
-  "company_facts": {
-    "legal_name": "ISIMKO GmbH",
-    "registry": "HRB 472 Amtsgericht Cottbus · USt-ID DE 138 775 376 · 注册资本 €200,000",
-    "founded": "1990-09-28（2017 更名 ISIMKO）",
-    "hq": "Guhrower Straße 5, 03044 Cottbus, Germany（+49 355 78015-0；info@isimko.de）；技术办公室 Berlin Georgenstraße 35；Dresden；Schwarze Pumpe",
-    "size": "120+ 员工（含 16 学徒）；LinkedIn 51–200",
-    "other": "家族企业；电工与信息技术手工业资质；客户：工业、中型企业、公共部门"
+  {
+   "kind": "官网 Impressum",
+   "claim": "登记与总经理",
+   "quote": "ISIMKO GmbH Guhrower Straße 5 03044 Cottbus … Registergericht: Amtsgericht Cottbus Registernummer: HRB 472 Vertreten durch: Ralph Hannemann (Geschäftsführer) Diego Noack (Geschäftsführer) Umsatzsteuer-ID … DE 138 77 5376",
+   "url": "https://www.isimko.de/impressum/",
+   "date": "2024-10-08"
   },
-  "business_lines": [
-    "工业铜缆/光纤网络规划与施工（专长）",
-    "信息技术与 IT 安全技术项目",
-    "安防技术、媒体技术、通信技术（电话、楼宇集成）"
-  ],
-  "channels": {
-    "网站": "https://www.isimko.de/",
-    "电话": "+49 355 78015-0（Impressum 公开）",
-    "邮箱（公开）": "info@isimko.de",
-    "LinkedIn": "https://de.linkedin.com/company/isimko"
+  {
+   "kind": "官网",
+   "claim": "历史与员工",
+   "quote": "Seit der Gründung unseres Unternehmens 1990 … Einst mit 7 Mitarbeitern gestartet, haben wir uns zu einem modernen mittelständischen Unternehmen mit 120 Mitarbeiterinnen und Mitarbeitern inklusive 16 Azubis entwickelt. 28. September 1990 Firmengründung - Umfirmierung in ISIMKO GmbH",
+   "url": "https://www.isimko.de/uber-uns/",
+   "date": "2026-09-07"
   },
-  "signals": [
-    "总经理亲自询价 12 光 12 电 → 工业光纤汇聚场景（变电/工业园区）；120 人集成商年度项目多，可成常备供应商",
-    "专长工业光纤网络 → STI 多 SFP 口机型（STI-448DGGGM：8 GE + 4 SFP + 4×2.5G SFP；STI-488DGGGM：8 GE + 8 SFP + 4×10G SFP+）正对"
-  ],
-  "risks": [
-    "德国公共部门项目有合规要求（守界：公共/能源关键设施项目按个案）；6 次跟进 0 回复——需以其询盘原题直接回应"
-  ],
-  "saga_fit": {
-    "p1": "STI-488DGGGM",
-    "tier": 25,
-    "why": "集成商 25% 档：STI-488DGGGM（DIN 8 GE + 8×1G SFP + 4×10G SFP+，管理，−40~+75 ℃，$332.6）最接近「12 光 12 电」——12 光（8 SFP + 4 SFP+）/ 8 电，另加 STI-240DGGM 补电口；机架式 12 光 12 电可核 SmartByte 商用 STC-4168XGGCM（16 SFP + 8 Combo，$392.4）"
+  {
+   "kind": "名录",
+   "claim": "注册资本",
+   "quote": "Register entry: HRB 472 (Cottbus) Legal form: GmbH … Founded: 27 Sept 1990 Share capital: €200,000 VAT ID: DE138775376",
+   "url": "https://app.implisense.com/en/companies/isimko-gmbh-cottbus--DEFGCK8KPA48",
+   "date": "2025-08-18"
   },
-  "email_hook": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 11 封 0 回、Opened 0；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 isimko.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(f)））",
-      "type": "德国 ISIMKO GmbH（Cottbus）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "—",
-      "lane": "DE",
-      "cadence": "不主动",
-      "evidence": "邮件：去信 11 封（2025-03-25 → 2026-09-30），来信 0；Opened 标签 0 次；收件人 info@isimko.de, r.hannemann@isimko.de"
-    },
-    "situation": "11 封 0 打开。",
-    "need": "12 × 光 + 12 × 电 工业汇聚（研究档询价）",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "STI-488DGGGM（8 GE + 8 SFP + 4×10G）/ STC-4168XGGCM（16 SFP + 8 Combo）",
-      "tier": 25,
-      "price": "锚价：STI-488DGGGM $332.6 / STC-4168XGGCM $392.4（25% 档，hook 已含）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-09-30 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180",
-      "why": "总经理亲自问 12 光 12 电 → 工业光纤汇聚；两款就近对位，hook 已带 25% 档价",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "A 邮箱 → r.hannemann@isimko.de（德语）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?"
-    },
-    "facts": [
-      {
-        "date": "2025-03-25",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "L3 Managed Switch",
-        "why": "首封去信（邮箱索引；去信共 11 封）",
-        "k": "6f9bc4626c7cfdef"
-      },
-      {
-        "date": "2026-09-30",
-        "dir": "去",
-        "who": "S 箱（Simon）",
-        "quote": "24 Port PoE Managed Switch",
-        "why": "最近一封去信（邮箱索引；去信共 11 封）",
-        "k": "6d2437354be82f93"
-      },
-      {
-        "date": "2026-09-30",
-        "dir": "去",
-        "who": "S 箱（Simon）报价",
-        "quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
-        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-        "k": "6d2437354be82f93"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：TLD 穷举未见 Elsa 去信、Replied 索引亦无此户），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "Your 12 x fibre / 12 x copper request - the two closest units",
-      "body": "Hi Mr Hannemann,\n\nYou asked us for one unit with 12 x fibre + 12 x copper ports. We do not build that exact layout; the two closest are:\n\n- Industrial, DIN-rail, -40 to 75 C: 8 x SFP + 4 x 10G SFP+ and 8 x Gigabit RJ45, L2+ managed, model STI-488DGGGM - $332.6 USD EXW (MOQ 1, 15-day validity)\n- 19-inch rack: 16 x SFP + 8 x combo (SFP / RJ45) + 4 x 10G SFP+, L3, model STC-4168XGGCM - $392.4 USD EXW\n\nBoth Marvell-based, CE/RoHS, neutral housing; industrial unit with 3-year warranty together with our DIN power supply.\n\nOne question: which of the two fits the control cabinet in your project - the DIN-rail unit or the 19-inch one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "自建站询盘 1 台 12 光 12 电；询盘人 r.hannemann；WhatsApp 已加；6 次跟进 0 回复",
+   "quote": "1台12光12电 / from: 自建站 … 49 163 96 77284 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ralph Hannemann",
+   "role": "Geschäftsführer（Impressum 公开；Saga 自建站询盘人）",
+   "email": "r.hannemann@isimko.de（用户表）",
+   "phone": "+49 355 78015-0 / +49 163 96 77284（用户表，WhatsApp 已加）",
+   "source": "https://www.isimko.de/impressum/"
+  },
+  {
+   "name": "Diego Noack",
+   "role": "Geschäftsführer（Impressum 公开）",
+   "email": "—（未公开）",
+   "phone": "+49 355 78015-0",
+   "source": "https://www.isimko.de/impressum/"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（GF，r.hannemann@isimko.de）；③ 可赢规模——120 人家族企业、专精工业铜缆/光纤网络的系统集成商（非巨头）。WhatsApp 已加。",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B→A 加厚 v1（官网 + 登记核对）"
+ },
+ "company_facts": {
+  "legal_name": "ISIMKO GmbH",
+  "registry": "HRB 472 Amtsgericht Cottbus · USt-ID DE 138 775 376 · 注册资本 €200,000",
+  "founded": "1990-09-28（2017 更名 ISIMKO）",
+  "hq": "Guhrower Straße 5, 03044 Cottbus, Germany（+49 355 78015-0；info@isimko.de）；技术办公室 Berlin Georgenstraße 35；Dresden；Schwarze Pumpe",
+  "size": "120+ 员工（含 16 学徒）；LinkedIn 51–200",
+  "other": "家族企业；电工与信息技术手工业资质；客户：工业、中型企业、公共部门；Northdata：HRB 472 Cottbus 1990-09-28 登记；GF Ralph-Peter Hannemann（2005 起，= 自建站询盘人）+ Diego Noack（2014 起）；Prokura Falk Noack；Hannemann & Noack 两家族控股；2024 资产 €5.76M、毛利 €8.0M；曾用名 Fleischhauer Cottbus GmbH（第 83 批 官方登记核实 2026-10-27）"
+ },
+ "business_lines": [
+  "工业铜缆/光纤网络规划与施工（专长）",
+  "信息技术与 IT 安全技术项目",
+  "安防技术、媒体技术、通信技术（电话、楼宇集成）"
+ ],
+ "channels": {
+  "网站": "https://www.isimko.de/",
+  "电话": "+49 355 78015-0（Impressum 公开）",
+  "邮箱（公开）": "info@isimko.de",
+  "LinkedIn": "https://de.linkedin.com/company/isimko"
+ },
+ "signals": [
+  "总经理亲自询价 12 光 12 电 → 工业光纤汇聚场景（变电/工业园区）；120 人集成商年度项目多，可成常备供应商",
+  "专长工业光纤网络 → STI 多 SFP 口机型（STI-448DGGGM：8 GE + 4 SFP + 4×2.5G SFP；STI-488DGGGM：8 GE + 8 SFP + 4×10G SFP+）正对"
+ ],
+ "risks": [
+  "德国公共部门项目有合规要求（守界：公共/能源关键设施项目按个案）；6 次跟进 0 回复——需以其询盘原题直接回应"
+ ],
+ "saga_fit": {
+  "p1": "STI-488DGGGM",
+  "tier": 25,
+  "why": "集成商 25% 档：STI-488DGGGM（DIN 8 GE + 8×1G SFP + 4×10G SFP+，管理，−40~+75 ℃，$332.6）最接近「12 光 12 电」——12 光（8 SFP + 4 SFP+）/ 8 电，另加 STI-240DGGM 补电口；机架式 12 光 12 电可核 SmartByte 商用 STC-4168XGGCM（16 SFP + 8 Combo，$392.4）"
+ },
+ "email_hook": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 11 封 0 回、Opened 0；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 isimko.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(f)））",
+   "type": "德国 ISIMKO GmbH（Cottbus）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "—",
+   "lane": "DE",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 11 封（2025-03-25 → 2026-09-30），来信 0；Opened 标签 0 次；收件人 info@isimko.de, r.hannemann@isimko.de"
+  },
+  "situation": "11 封 0 打开。",
+  "need": "12 × 光 + 12 × 电 工业汇聚（研究档询价）",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STI-488DGGGM（8 GE + 8 SFP + 4×10G）/ STC-4168XGGCM（16 SFP + 8 Combo）",
+   "tier": 25,
+   "price": "锚价：STI-488DGGGM $332.6 / STC-4168XGGCM $392.4（25% 档，hook 已含）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-09-30 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180",
+   "why": "总经理亲自问 12 光 12 电 → 工业光纤汇聚；两款就近对位，hook 已带 25% 档价",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+   "channel": "A 邮箱 → r.hannemann@isimko.de（德语）",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?"
+  },
+  "facts": [
+   {
+    "date": "2025-03-25",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "L3 Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 11 封）",
+    "k": "6f9bc4626c7cfdef"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 11 封）",
+    "k": "6d2437354be82f93"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "6d2437354be82f93"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：TLD 穷举未见 Elsa 去信、Replied 索引亦无此户），仓库未见原文"
+  ],
+  "draft_en": {
+   "subject": "Your 12 x fibre / 12 x copper request - the two closest units",
+   "body": "Hi Mr Hannemann,\n\nYou asked us for one unit with 12 x fibre + 12 x copper ports. We do not build that exact layout; the two closest are:\n\n- Industrial, DIN-rail, -40 to 75 C: 8 x SFP + 4 x 10G SFP+ and 8 x Gigabit RJ45, L2+ managed, model STI-488DGGGM - $332.6 USD EXW (MOQ 1, 15-day validity)\n- 19-inch rack: 16 x SFP + 8 x combo (SFP / RJ45) + 4 x 10G SFP+, L3, model STC-4168XGGCM - $392.4 USD EXW\n\nBoth Marvell-based, CE/RoHS, neutral housing; industrial unit with 3-year warranty together with our DIN power supply.\n\nOne question: which of the two fits the control cabinet in your project - the DIN-rail unit or the 19-inch one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

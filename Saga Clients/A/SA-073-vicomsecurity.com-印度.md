@@ -108,6 +108,26 @@ updated: 2026-10-27
 - 法定假日：01-26 Republic Day；03-06 Maha Shivaratri；03-10 Eid al-Fitr (estimated)；03-22 Holi；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 83 批（India · MCA 公司登记（Zauba Corp 页 + Tofler / IndiaFilings / FalconEbiz 摘要，搜索快照 2026-06 / 2025-08），2026-10-27 查；https://www.zaubacorp.com/VICOM-SECURITY-PRIVATE-LIMITED-U51109WB1995PTC070096）：**
+
+- 法定名 / 登记号：VICOM SECURITY PRIVATE LIMITED · CIN U51109WB1995PTC070096 · ROC Kolkata 注册号 70096 · 状态 **Active · 最近 AGM 2025-09-29（Tofler）；Zauba 页仍停在 2022 年报（镜像滞后，不是欠报）** · 成立 1995-03-28 · Private Limited（股份有限私人公司）· 法定资本 ₹3,000,000 · 实缴 ₹2,000,000（≈ $24k）
+- 行业码 / 经营范围：NIC 5110 — 代理 / 佣金制批发（CIN 内嵌行业码；实际经营 CCTV / DVR / NVR / 对讲 / 可视门铃分销，IndiaMART 自述 manufacturer + wholesaler + distributor）
+- 注册地址：8, Justice K.M. Yusuf Sarani, 2nd Floor, Beck Bagan Row, Kolkata 700017, West Bengal · MCA 登记邮箱 accounts@vicomsecurity.com
+- 规模档：实缴 ₹20 lakh 的家族企业，两名董事兼股东
+- 账目：财务数字在付费报告内；MCA 年报按时提交（2025-09 AGM）；印度私人公司 AGM 截止每年 9-30，年报 10–11 月提交
+- 高管：Rajesh Kumar BHUTORIA — Director 兼股东（DIN 00516745），1995-03-28 创立至今 32 年 = 老板本人（IndiaMART 亦署名「Rajesh Bhutoria (Director)」）
+- 高管：Praloy Shankar CHOWDHURY — Director 兼股东（DIN 06800958），2013-12-31 加入（2017-07-10 由 Additional Director 转正）
+- 高管：已卸任（2013-12-31 同日退出）：Dinesh Kumar Bhutoria、Rai Chand Bhutoria、Babita Bhutoria —— 2013 年家族其他成员集体退出，Rajesh 独撑 + 引入 Chowdhury
+- 控制人 / 股东：两名董事即股东（Tofler 标注 Shareholder）
+- 抵押 / 诉讼 / 担保：（Charges 栏在 Zauba 页后段，未读）
+- 曾用名：DINESH ENTERPRISES PVT. LTD.（原名；按卸任董事 Dinesh Kumar Bhutoria 命名 → 家族生意易手给 Rajesh 后改名）
+- **这意味着什么：**
+  - 老板 = Rajesh Bhutoria，32 年一直是董事兼股东：加尔各答安防分销的典型「老板一人拍板」，邮件直接写给他；Chowdhury 是 2013 年后进来的二把手（技术 / 运营），抄送即可
+  - 主业是 CCTV / NVR / 对讲分销（不是 IT 网络）：切入点只有 PoE 交换机配 IP 摄像头——主推 STC-028GP / STC-228GP / STC-2024GP 这类 PoE 系列，别推 L3 / 10G
+  - 实缴资本 ₹20 lakh ≈ $24k、2013 年家族分家：体量小、现金谨慎 → 首单 MOQ 1–2 箱，T/T 100% 预付；印度 BIS 认证由进口商承担，先问他们有没有现成 BIS 清关路径
+  - MCA 年报每年 10–11 月公开，可在 2027-01 复查是否仍 Active / 董事有无变动
+- 备注：印度：web_search depth 1 by CIN 即可得董事 / AGM / 资本；Zauba 整页 38 块不要翻。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -146,13 +166,14 @@ updated: 2026-10-27
   > VICOM SECURITY PRIVATE LIMITED (CIN: U51109WB1995PTC070096) is a Private company incorporated on 28 Mar 1995 … Registered address … 8, JUSTICE K.M. YUSUF SARANI 2ND FLOOR, BECK BAGAN ROW, KOLKATA … 700017
   > 来源：https://www.zaubacorp.com/VICOM-SECURITY-PRIVATE-LIMITED-U51109WB1995PTC070096（抓取 2024-05-18）
 - **KP**：（见 Clients 表联系人）（） +91 98300 30444（WA）/ +91 33 2287 2290〔用户 Clients 表 + RocketReach〕
+- **KP**：Rajesh Kumar Bhutoria（Director 兼股东（DIN 00516745，1995 创立至今）= 老板；另一董事 Praloy Shankar Chowdhury（2013 起）（第 83 批 官方登记核实 2026-10-27）） 〔https://www.tofler.in/vicom-security-private-limited/company/U51109WB1995PTC070096〕
 - 备注：已开视频会 + 自有品牌 + 明确机型需求 = 可做 OEM（VICOM 贴牌）。印度非主攻区但项目体量可观。P1：4 光 24 电管理 PoE → STC-424DGGPM-280W（4 SFP 版本核对）；4 光 4 PoE 管理 → STI 工业 4 电 4 光机型（核价）；OEM 价阶 30%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Vicom Security Private Limited（CIN U51109WB1995PTC070096） |
+| 法定名称 | VICOM SECURITY PRIVATE LIMITED（CIN U51109WB1995PTC070096，1995-03-28，Active；实缴 ₹20 lakh；前名 Dinesh Enterprises Pvt. Ltd.；最近 AGM 2025-09-29） |
 | 成立 | 1995-03-28 |
 | 总部/地址 | 8 Justice K.M. Yusuf Sarani (Beck Bagan Row), 2nd Floor, Kolkata 700017, India（+91 9830078655 / +91 33 2287 2290） |
 | 人数 | 约 47–120（RocketReach 47；LinkedIn 51–200） |
@@ -262,6 +283,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Rajesh Kumar Bhutoria | Director 兼股东（DIN 00516745，1995 创立至今）= 老板；另一董事 Praloy Shankar Chowdhury（2013 起）（第 83 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.tofler.in/vicom-security-private-limited/company/U51109WB1995PTC070096 |
 | Rajesh | — | info@vicomsecurity.com / rajesh@vicomsecurity.com / +919830030444 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

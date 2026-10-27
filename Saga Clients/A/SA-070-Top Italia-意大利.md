@@ -93,6 +93,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 83 批（Italy · Registro Imprese 公开摘要（ufficiocamerale.it / fatturatoitalia.it / reportaziende.it，数据源 InfoCamere 年报），2026-10-27 查；https://www.ufficiocamerale.it/4950/top-italia-srl）：**
+
+- 法定名 / 登记号：TOP ITALIA S.R.L. · P.IVA / C.F. 04592850871 · REA CT-306496 · PEC topit@pec.top-srl.com · SDI 代码 T04ZHR3 · 状态 **Attiva** · 成立 2008-05-08 成立，2008-09-22 登记（卡塔尼亚商会） · S.r.l.（有限责任公司）· 注册资本 €110,000（2026）
+- 行业码 / 经营范围：ATECO 46.47.3 — 家用 / 办公 / 商店照明用品批发（登记码；实际经营安防 CCTV，品牌 topsicurezza）
+- 注册地址：Via Comunità Economica Europea 41, 95045 Misterbianco (CT)，西西里卡塔尼亚
+- 规模档：员工 5–6 人（2026）· 年营收 ≈ $1.9M
+- 账目：营业额 2023 €2.7M → 2024 €2,169,359 → 2025 €1,715,686（两年 −36%）· 净利 2023 €9.7k / 2024 €6,096 / 2025 €11,477（净利率 0.3–0.7%）· 2024 人工成本 €230,785；意大利 S.r.l. 年报每年 6–7 月批准、随后 30 天内存档，次年 8 月各镜像站更新
+- 高管：管理人姓名在免费层不公开（InfoCamere「Elenco Esponenti」€6.80 可取；暂不买）
+- **这意味着什么：**
+  - **营收两年掉三分之一、净利率不到 1%**：西西里安防分销商正在收缩，采购会极度看价、看小起订量——报 STC-028GP / STC-228GP 这类 PoE 安防配套，MOQ 1 箱起，不押整柜
+  - 意大利 S.r.l. 强制电子发票（SDI 代码 T04ZHR3）+ PEC：PI / 形式发票一律发到 PEC 或抄 PEC，意方会计才认
+  - 登记行业码是照明批发（46.47.3）而官网做 CCTV：说明公司是「电工 / 照明批发转安防」路数——客户是电工承包商，产品要简单（非管理型 PoE 为主，STI-244GP / STC 系列）
+  - 年报每年 8 月更新一次镜像，2027-08 复查营收是否止跌
+- 备注：意大利：web_search depth 1 by P.IVA 即可拿到营收 / 利润 / 员工 / 资本 / ATECO；管理人需付费。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -147,10 +162,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Top Italia S.r.l.（P.IVA 04592850871） |
+| 法定名称 | TOP ITALIA S.R.L.（P.IVA 04592850871 · REA CT-306496；2008-05-08 成立；资本 €110,000；ATECO 46.47.3；PEC topit@pec.top-srl.com；SDI T04ZHR3） |
 | 成立 | 2004-06 |
 | 总部/地址 | Via Comunità Economica Europea 41, 95045 Misterbianco (CT), Italy（+39 095 471 449；info@topsicurezza.com） |
-| 其他 | 自有品牌 Videostar；Secolink 独家；技术支持热线 039 5787 178（Cologno/Milano 侧） |
+| 人数 | 5–6（2026）（第 83 批 官方登记核实 2026-10-27） |
+| 其他 | 自有品牌 Videostar；Secolink 独家；技术支持热线 039 5787 178（Cologno/Milano 侧）；营收 2023 €2.7M → 2024 €2.17M → 2025 €1.72M；净利 2025 €11,477（第 83 批 官方登记核实 2026-10-27） |
 
 - **业务线**：视频监控进口分销（Videostar 自有品牌）；防盗（Secolink 独家代理、Texecom、Teletek）；消防（Teletek、Kentec、Apollo、Argus；守界：主系统不供）
 - **触达通道（公开）**：网站: https://www.topsicurezza.com/ · https://www.videostar.it/；电话: +39 095 471 449（公开）；邮箱（公开）: info@topsicurezza.com / import@topsicurezza.com

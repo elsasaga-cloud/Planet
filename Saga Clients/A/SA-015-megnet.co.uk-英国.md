@@ -116,15 +116,16 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
-**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/04748999）：**
+**公司底数 · 第 82 批（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/04748999）：**
 
 - 法定名 / 登记号：MEGNET LTD. · 04748999 · 状态 **Active** · 成立 2003-04-30 · Private limited company
-- 行业码（SIC）：82990 Other business support service activities n.e.c.
+- 行业码 / 经营范围：82990 Other business support service activities n.e.c.
 - 注册地址：Mortlake Business Centre, 20 Mortlake High Street, London SW14 8JN（商务中心地址，非自有办公室）
 - 规模档：小型（small entities regime）· 单董事
 - 账目：最近账目截至 2025-04-30（2025-06-10 提交）；类型 Total exemption full accounts，FRS 102 1A 小型公司制度（营业额 < £10.2m，免审计）；有形固定资产 £7,403（2024：£9,870）；下期账目截至 2026-04-30，2027-01-31 前交；确认声明 2026-04-30 已交（2026-05-01，「with updates」）
 - 高管：Omar Ismat MIQDADI — 唯一在任董事，1973-04 生，英国籍，2003-11-17 上任（公司成立半年后从 Megdadi 家族接手）；其余 3 人均已辞任（2003/2009）
-- 抵押 / 担保：2021-06-07 登记 1 项抵押（charge 047489990001，MR01 2021-06-11）——通常是银行贷款 / 融资额度
+- 控制人 / 股东：见 PSC 页（未抓）
+- 抵押 / 诉讼 / 担保：2021-06-07 登记 1 项抵押（charge 047489990001，MR01 2021-06-11）——通常是银行贷款 / 融资额度
 - 曾用名：RELATIVE NETWORK TECHNOLOGY LTD（2003-04-30→05-15）
 - **这意味着什么：**
   - 22 年老公司、一人董事、账目走小型公司免审计口径，年报按时交（2024 账目 2025-01-09 交、2025 账目提前到 6 月交）

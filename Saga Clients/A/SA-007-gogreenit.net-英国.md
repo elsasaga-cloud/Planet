@@ -125,16 +125,17 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
-**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/07614771）：**
+**公司底数 · 第 82 批（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/07614771）：**
 
 - 法定名 / 登记号：GO GREEN IT LTD · 07614771 · 状态 **Active** · 成立 2011-04-26 · Private limited company
-- 行业码（SIC）：62020 Information technology consultancy activities
+- 行业码 / 经营范围：62020 Information technology consultancy activities
 - 注册地址：222 Warwick Avenue, Derby DE23 6HP（住宅街道地址 = 家庭办公，不是仓库 / 写字楼）
 - 规模档：微型 / 小型（住宅注册地 + 2 名董事，无其他高管）
 - 账目：最近账目截至 2025-04-30（已交）；下期截至 2026-04-30，2027-01-31 前交；确认声明 2026-04-26 已交，下期 2027-04-26
 - 高管：Kathryn Hwa Yong STERLING — 董事，1974-09 生，韩国籍、居英，2011-04-26 公司成立当天上任（创始人）
 - 高管：Christopher Bruce Athelstan CLEMSON — 董事，1975-05 生，英国籍，2021-06-04 上任；= 我们 PI 单据上的联系人 Chris Clemson
-- 抵押 / 担保：无抵押登记（页面无 Charges 标签）
+- 控制人 / 股东：见 PSC 页（未抓）
+- 抵押 / 诉讼 / 担保：无抵押登记（页面无 Charges 标签）
 - **这意味着什么：**
   - 给我们下单、写 Green Reviews 评测的 Chris Clemson 不是采购员，是 2021 年起的在册董事（两名董事之一）——他说的话就是公司决定，不存在「还要请示老板」
   - 另一名董事 Kathryn Sterling 为创始人、韩国籍：公司是夫妻 / 合伙小店，SIC 62020 IT 咨询；注册地是德比的住宅地址 → 没有仓库，走小批量、DAP 到门最合适（与第 81 批 HMRC 查无进口记录一致：他们的进口量没到海关名录门槛）

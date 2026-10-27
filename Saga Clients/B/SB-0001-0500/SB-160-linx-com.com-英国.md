@@ -108,17 +108,18 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
-**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/07157746）：**
+**公司底数 · 第 82 批（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/07157746）：**
 
 - 法定名 / 登记号：LINXCOM LIMITED · 07157746 · 状态 **Active** · 成立 2010-02-15 · Private limited company
-- 行业码（SIC）：26309 Manufacture of communication equipment (other than telegraph/telephone)；27310 Manufacture of fibre optic cables；27320 Manufacture of other electronic/electric wires and cables
+- 行业码 / 经营范围：26309 Manufacture of communication equipment (other than telegraph/telephone)；27310 Manufacture of fibre optic cables；27320 Manufacture of other electronic/electric wires and cables
 - 注册地址：50 Woodgate, Leicester LE3 5GF（注册地；研究档里的 3 Oakland Road 是旧址 / 经营地，以此为准更新）
 - 规模档：小型 · 单董事在任
 - 账目：截至 2025-12-31 的账目已交（提前；下期 2026-12-31，2027-09-30 前交）；确认声明 2026-02-21 已交，下期 2027-02-21
 - 高管：Mohamed Abdelhamid OKBA — 唯一在任董事，1977-02 生，法国籍、居英，2011-07-01 上任（接替创始董事 Ashraf Bana）
 - 高管：Wadii KHERFANI — 前董事 2011-07-01→2018-03-29（1978-04 生，英国籍）= 现在 Teltronix Holdings / Briticom（SB-905）给我们来信的 wadii@teltronix.net
 - 高管：Ashraf BANA — 创始董事 2010-02-15→2011-07-01（居南非）
-- 抵押 / 担保：无抵押登记（页面无 Charges 标签）
+- 控制人 / 股东：见 PSC 页（未抓）
+- 抵押 / 诉讼 / 担保：无抵押登记（页面无 Charges 标签）
 - **这意味着什么：**
   - SIC 三项全是「制造」（通信设备 / 光缆 / 电线电缆）：Linxcom 在工商口径上是自有品牌制造商，不是经销商——HMRC 第 81 批的非欧盟 8517 62 00 进口就是贴自己牌的货 → 按 OEM 30% 报，走贴牌线
   - 来信的 Hussain Alqahtani（Purchasing & Product Development Manager）不是董事；拍板人是唯一董事 Mohamed Okba（法国籍）——报价信抄送 / 提到 Okba 比只对 Hussain 更快

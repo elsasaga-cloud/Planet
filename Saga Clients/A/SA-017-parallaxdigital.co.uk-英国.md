@@ -110,15 +110,16 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
-**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/10314407）：**
+**公司底数 · 第 82 批（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/10314407）：**
 
 - 法定名 / 登记号：PARALLAX DIGITAL TECHNOLOGIES LIMITED · 10314407 · 状态 **Active** · 成立 2016-08-05 · Private limited company
-- 行业码（SIC）：26200 Manufacture of computers and peripheral equipment；62020 IT consultancy；62030 Computer facilities management；62090 Other IT service activities
+- 行业码 / 经营范围：26200 Manufacture of computers and peripheral equipment；62020 IT consultancy；62030 Computer facilities management；62090 Other IT service activities
 - 注册地址：19 Endeavour Park, Baker Road, Nelson Park West, Cramlington, Northumberland NE23 1XA（工业园单元，与官网一致）
 - 规模档：小型 · 单董事（1 officer / 0 resignations）
 - 账目：最近账目截至 2025-04-05（已交）；下期截至 2026-04-05，2027-01-05 前交；确认声明 2026-08-04 已交，下期 2027-08-04
 - 高管：Jeffrey Allan FERRIER — 唯一董事，1965-09 生，英国籍，2016-08-05 成立即上任；身份核验由会计师事务所 G W Thompson & Co（ACSP）于 2025-12-18 完成
-- 抵押 / 担保：无抵押登记（页面无 Charges 标签）
+- 控制人 / 股东：见 PSC 页（未抓）
+- 抵押 / 诉讼 / 担保：无抵押登记（页面无 Charges 标签）
 - 曾用名：DIGITAL SYSTEMS DESIGN LIMITED（2016-08-05→2017-04-24）；PARALLAX DIGITAL LIMITED（2017-04-24→2019-06-07）
 - **这意味着什么：**
   - 单董事公司：给我们来信的 jeff.ferrier@ 就是唯一董事 Jeff Ferrier（1965 年生，60 岁）——没有采购部，所有决定他一个人定，回信慢是因为人忙不是流程

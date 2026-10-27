@@ -1251,7 +1251,7 @@
 "kp": [
 {
 "name": "Frank Neuperger",
-"role": "General Manager（RocketReach 口径）",
+"role": "General Manager；SAM.gov 登记联系人（CAGE 1WEC8 / DUNS 087787573，Delaware 公司，S-Corp，Woman Owned Business，业务始于 1996-01-18，SAM 续期至 2027-05-04）（第 83 批 官方登记核实 2026-10-27）",
 "email": "frank@simrex.com",
 "phone": "+1 716-206-0174（总机）",
 "source": "https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封"
@@ -1264,7 +1264,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "SIMREX Corporation",
+"legal_name": "SIMREX CORPORATION（Delaware 注册，纽约 Buffalo 经营；CAGE 1WEC8；SAM 分类 U.S. manufacturer；Woman Owned）（第 83 批 官方登记核实 2026-10-27）",
 "founded": "1996",
 "hq": "Buffalo, New York, USA",
 "staff": "11–50",
@@ -4791,7 +4791,8 @@
 "staff": "11–50（LinkedIn）",
 "registry": "RIPE：AS62023（NYNEX），IP 段 NYNEX-fiberONE；联系人句柄 NX123 = Frederik Kriewitz",
 "ownership": "自有网络运营商 + 系统集成商（VSAT、光纤、IP 中转）；2026 年新增 nynex.ai 自建 AI 基础设施",
-"other": "2025-08-31 以 NYNEX/fiberONE 名义向德国联邦数字部提交 TKG 修法意见书（Kriewitz/Frank 署名）"
+"other": "2025-08-31 以 NYNEX/fiberONE 名义向德国联邦数字部提交 TKG 修法意见书（Kriewitz/Frank 署名）",
+"registry_de": "Amtsgericht Darmstadt HRA 84829（OHG，2012-11-27 登记）；商标 GigManiac / HOME SPEED HOME / skyZIP / GigCity；关联 NYNEX space GmbH（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "VSAT 卫星网络（Ku/Ka）",
@@ -4840,7 +4841,7 @@
 "kp": [
 {
 "name": "Frederik Kriewitz",
-"role": "Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人）",
+"role": "Systems Engineer / 网络负责人（成单联系人）；**非合伙人**——NYNEX satellite OHG（Amtsgericht Darmstadt HRA 84829）两名无限责任合伙人为创始人 Gunter Frank / Andreas Buxbaum（第 83 批 官方登记核实 2026-10-27）",
 "email": "f.kriewitz@nynex.de",
 "phone": "+49 6151 50074-009",
 "source": "https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表"
@@ -7043,6 +7044,13 @@
 "email": "marco.divalerio@cxr.fr",
 "phone": "",
 "source": "S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补）"
+},
+{
+"name": "Carmine Oliva",
+"role": "Président de SAS（法定代表，1942 年生）—— 法国实体 CXR Anderson Jacobson 唯一登记高管（第 83 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://annuaire-entreprises.data.gouv.fr/entreprise/785754706"
 }
 ],
 "notes": "A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。",
@@ -7052,10 +7060,11 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "CXR Networks（CXR Anderson Jacobson）",
+"legal_name": "CXR ANDERSON JACOBSON SAS（SIREN 785754706，1983-04-10 成立，Active；NAF 26.30Z 通信设备制造；员工档 20–49）",
 "founded": "1974",
 "hq": "Abondant, France",
-"other": "自有 BDROS 平台的工业交换机品牌（SWMD-H 系列为典型华南 ODM 公版贴牌：IP40、6KV 防雷、DIN、-40~75/85℃）"
+"other": "自有 BDROS 平台的工业交换机品牌（SWMD-H 系列为典型华南 ODM 公版贴牌：IP40、6KV 防雷、DIN、-40~75/85℃）；2025 年报净利 −57,478 €；历史 5 个机构仅剩 Abondant 总部（第 83 批 官方登记核实 2026-10-27）",
+"staff": "20–49（INSEE 2024 员工档 12）（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业加固交换机 SWMD-H（DIN，4/8/10 口千兆 ±PoE，2 SFP；L3-lite 版）",
@@ -11087,11 +11096,11 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "ALLNET GmbH Computersysteme",
+"legal_name": "ALLNET GmbH Computersysteme（Amtsgericht München HRB 95992，1991-08-14；LEI 5299008GWAOUQEZ8HJ12）",
 "founded": "1991（Wolfgang Marcus Bauer）",
 "hq": "Germering bei München, Germany",
 "revenue": "€58M（2013 口径，待更新）",
-"other": "自有品牌 ALLNET 工业交换机全线（ALL-SGI 系列：Entry Line 非管理 / smart managed / full managed L2+，含 bt 90W、JSON API），2025-05 仍在发新品；也供应 Reichelt、Galaxus 等零售渠道"
+"other": "自有品牌 ALLNET 工业交换机全线（ALL-SGI 系列：Entry Line 非管理 / smart managed / full managed L2+，含 bt 90W、JSON API），2025-05 仍在发新品；也供应 Reichelt、Galaxus 等零售渠道；2024 营收 €243.2M、资产 €117.6M（Bundesanzeiger）；股东 Alldis Computersystem GmbH / Allnet Schweiz AG / SAS Allnet France；唯一 GF Wolfgang Marcus Bauer（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "增值分销（网络/无线/UCC/视频监控/安全/测量）",
@@ -11464,6 +11473,13 @@
 "email": "ksurowiec@bitstream.pl",
 "phone": "",
 "source": "S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补）"
+},
+{
+"name": "Dariusz Pietrzyk",
+"role": "Prezes Zarządu（从 Sp. z o.o. 时代起的当家人）（第 83 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://rejestr.io/krs/1010572/bitstream"
 }
 ],
 "notes": "A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。",
@@ -11473,11 +11489,11 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "BitStream S.A.",
+"legal_name": "BITSTREAM S.A.（KRS 0001010572，2023-01-02 由 Sp. z o.o. KRS 0000266288 转制；NIP 9462508588；资本 200,000 PLN；PKD 26.30.Z 通信设备制造）",
 "founded": "15+ 年（2023 改制股份公司）",
 "hq": "Lublin, Poland",
 "staff": "小型（trade.gov.pl）",
-"other": "自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19\" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌"
+"other": "自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19\" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌；最近年报营业收入 18.24M PLN、总成本 14.29M PLN；2026-08-18 监事会变更（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "Hyperion 工业交换机（105/200/300/402：4–32 口，PoE/bt 90W，2.5G/10G SFP+）",
@@ -13128,6 +13144,13 @@
 "email": "info@fcnet.pl",
 "phone": "+48 77 541 84 75",
 "source": "https://www.fcnet.pl/o-firmie"
+},
+{
+"name": "Piotr Frydel / Jarosław Cisowski / Krzysztof Smugowski / A. J. Frydel",
+"role": "管理委员会 4 名成员 = 4 名各 25% 股东（KRS 0001095976）；任一人可单独签 ≤100,000 PLN，超过需两人联签（第 83 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json"
 }
 ],
 "notes": "A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。",
@@ -13137,7 +13160,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "FCNET Sp. z o.o.（原 FCNet Future Communication Networks s.c.；NIP 7542916466，REGON 160150149）",
+"legal_name": "FCNET SP. Z O.O.（KRS 0001095976 · NIP 7542916466 · REGON 160150149；2007 起民事合伙，2023-12 转有限公司，2024-03 入 KRS；PKD 46.52.Z 批发；资本 100,000 PLN）",
 "hq": "ul. Św. Jacka 2, 45-073 Opole, Poland",
 "revenue": "约 10.2M PLN",
 "other": "Fluke Networks 波兰分销商；网店卖 TP-Link/Netgear/Cisco/HPE/Ubiquiti/MikroTik 交换机，含 PoE 电源配件；automatyka.pl 类目含工业交换机/工业路由器/MC"
@@ -13757,8 +13780,8 @@
 ],
 "kp": [
 {
-"name": "Ross W.",
-"role": "创始人（官网「About」）",
+"name": "Ross Wasserman（官网「Ross W.」）",
+"role": "创始人 Ross Wasserman（The Wasserman Family Trust 2000 年起经营商号 CDS）；2025-08 起商号登记在 Damita Investments Pty Ltd（ABN 99 125 638 548）名下（第 83 批 官方登记核实 2026-10-27）",
 "email": "sales@cabledistribution.com.au",
 "phone": "+61 8 9375 6522",
 "source": "https://cabledistribution.com.au/about/"
@@ -13771,7 +13794,7 @@
 "level": "深挖 v2（官网核对）"
 },
 "company_facts": {
-"legal_name": "Cable Distribution Services（CDS）",
+"legal_name": "Cable Distribution Services = 商号；法人 Damita Investments Pty Ltd（ABN 99 125 638 548，2025-08-06 起）/ 原 The Trustee for The Wasserman Family Trust（ABN 20 634 509 214，2000-05-31 起）（第 83 批 官方登记核实 2026-10-27）",
 "founded": "1999",
 "hq": "51 Boulder Rd, Malaga, WA 6090（+61 8 9375 6522；1800 438 222；sales@cabledistribution.com.au）；另 Kewdale/Maylands 3 Reggio Rd、Morley 办公",
 "staff": "24（Datanyze）/ 11–50",
@@ -20011,6 +20034,13 @@
 "email": "info@aeconnect.co.in",
 "phone": "+91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）",
 "source": "https://aeconnect.co.in/shop/"
+},
+{
+"name": "Devendra Jagdishprasad Sharma",
+"role": "Founder / CEO / Director（DIN 09626912）= 老板；儿子 Ashutosh Sharma（Director，MCA 登记邮箱 ashu.ent@gmail.com）管日常；配偶 Ritu Sharma 挂名董事；Mandar Joshi 2023 加入（第 83 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.falconebiz.com/company/AECONNECT-INDIA-PRIVATE-LIMITED-U31200GJ2022PTC132573"
 }
 ],
 "notes": "A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。",
@@ -20020,7 +20050,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "AE Connect India Pvt. Ltd.（CIN U31200GJ2022PTC132573）",
+"legal_name": "AECONNECT INDIA PRIVATE LIMITED（CIN U31200GJ2022PTC132573，2022-06-01，Active；实缴 ₹100,000；RoC Ahmedabad）",
 "founded": "2005 起（公司 2022 注册）",
 "hq": "Ahmedabad, Gujarat, India",
 "staff": "11–50",
@@ -26396,6 +26426,13 @@
 "email": "bartosz.krawczyk@impakt.com.pl",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Marcin Chojnacki",
+"role": "Prezes Zarządu（董事长 / CEO）—— 只签框架；日常对接 product@ 的产品经理（第 83 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://rejestr.io/krs/585900/impakt"
 }
 ],
 "grade_override": null,
@@ -26407,11 +26444,11 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Impakt S.A.",
+"legal_name": "IMPAKT S.A.（KRS 0000585900 · NIP 7831720485 · REGON 360441981；2015-11-13；资本 60,761,002 PLN 实缴）",
 "hq": "ul. Stanisława Lema 16, 62-050 Mosina, Poland（product@impakt.com.pl）",
 "staff": ">150",
 "revenue": "1.52 亿 PLN（2025）",
-"other": "自有品牌 Lanberg（网络）、Genesis、Natec、Fury、Armac、Audictus；3,500+ SKU，40+ 国；Lanberg 交换机 24 个月保修，通过 Komputronik/iVolta 等零售"
+"other": "自有品牌 Lanberg（网络）、Genesis、Natec、Fury、Armac、Audictus；3,500+ SKU，40+ 国；Lanberg 交换机 24 个月保修，通过 Komputronik/iVolta 等零售；2025 营收 152.2M PLN、净利 8.6M PLN、资产 87.2M PLN；品牌 Genesis / Lanberg / Natec（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "Lanberg 网络产品：机架 PoE 交换机 RSGE 系列（24 口 250/360W）、桌面交换机、布线/机柜",
@@ -30250,7 +30287,7 @@
 "kp": [
 {
 "name": "Федотов Сергей Иванович（Sergey I. Fedotov）",
-"role": "Генеральный директор / 唯一股东（注册信息）",
+"role": "Генеральный директор / 唯一创始人（ЕГРЮЛ）；公司 9 人、2025 营收 2.94 亿 ₽、毛利率 0.6%、2026 年两起供货仲裁被告、56 份有效 EAC 声明、2026-04 注册商标 VIGILIX（第 83 批 官方登记核实 2026-10-27）",
 "email": "sales@born-spb.ru（公司公开）",
 "phone": "+7 812 458-85-86",
 "source": "https://www.rusprofile.ru/id/2395878"
@@ -30267,9 +30304,9 @@
 "company_facts": {
 "legal_name": "ООО «Борн СПб»（ИНН 7841406851，ОГРН 1097847113814）",
 "hq": "192236, Санкт-Петербург, ул. Софийская, д. 8, корп. 1（+7 812 458-85-86；8 800 302-15-41；sales@born-spb.ru）；另列 Москва / Екатеринбург / Пермь",
-"other": "电子与电信设备批发（ОКВЭД 46.5x）；网店 born-shop.ru / born-spb.ru：交换机、路由器、MC、SFP/SFP+/QSFP、PoE 注入器、AP、机柜/热柜、KVM、防火墙、光缆；SNR.SYSTEMS 官方合作伙伴（SNR = 俄罗斯 NAG 自有标）；在售 NSGate NFG-SFP MC 2,200 ₽",
+"other": "电子与电信设备批发（ОКВЭД 46.5x）；网店 born-shop.ru / born-spb.ru：交换机、路由器、MC、SFP/SFP+/QSFP、PoE 注入器、AP、机柜/热柜、KVM、防火墙、光缆；SNR.SYSTEMS 官方合作伙伴（SNR = 俄罗斯 NAG 自有标）；在售 NSGate NFG-SFP MC 2,200 ₽；ФНС 2025：营收 294.0M ₽ / 净利 1.47M ₽；223-ФЗ 政府采购 7 单（核安保 / 核物理研究所客户）（第 83 批 官方登记核实 2026-10-27）",
 "founded": "2009-04-17",
-"staff": "9（list-org）；2025 年利润 147.4 万 ₽；注册资本 10 万 ₽；总经理兼唯一股东 Федотов Сергей Иванович"
+"staff": "9（ФНС 平均人数）（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "MC / SFP / VC / FS 多品牌贸易",
@@ -33257,6 +33294,13 @@
 "email": "",
 "phone": "+91 90000 50555（WA）",
 "source": "用户 Clients 表"
+},
+{
+"name": "Rashmi Jain",
+"role": "Director 兼股东（DIN 01336337，2018-03-20 起）= 现任实控人；2026-04-24 新增董事 Nilesh Bastimal Jain；Gutta Venkata Kumari（2015 起）2026 名单疑已卸任（第 83 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.falconebiz.com/company/ARECA-EMBEDDED-SYSTEMS-PRIVATE-LIMITED-U72200TG2007PTC053397"
 }
 ],
 "grade_override": null,
@@ -33268,7 +33312,7 @@
 "level": "深挖 v2（官网 areca.in + 公司注册核对）"
 },
 "company_facts": {
-"legal_name": "Areca Embedded Systems Private Limited（CIN U72200TG2007PTC053397）",
+"legal_name": "ARECA EMBEDDED SYSTEMS PRIVATE LIMITED（CIN U72200TG2007PTC053397，2007-03-29，Active；实缴 ₹46,522,500；RoC Hyderabad；2018 年易主 Jain 家族）",
 "hq": "Plot No 5B, Survey No 184 & 185, Phase-V, IDA Cherlapally, Hyderabad, Telangana 500051（另：54/S Anupuram, ECIL, Hyderabad 500062）",
 "other": "ISO 9001:2015；主业 **铁路 / 国防 / 电信 / 电力** 嵌入式产品开发：列车 PIS、Smart Coach PICCU、信号继电器 Q 系列、LTE-R、站台 GPS 时钟、卫星时间同步、接地漏电检测、国防光纤话音/数据遥测链路（IndiaMART）",
 "founded": "2007-03-29（RoC Hyderabad）",
@@ -33869,9 +33913,9 @@
 "company_facts": {
 "legal_name": "ООО «Опта»（ИНН 7708768402，ОГРН 1127746631814）",
 "hq": "107140, Москва, 1-й Красносельский пер., д.3, пом.I, ком.79（(495) 744-37-78；info@optat.ru）",
-"other": "电子招投标集中供货公司：「为国有公司配套、经认证供应商」，向生产商/大贸易商征集最低价 + 预付/部分预付/账期；政采记录：作为供应商参与 50 次采购（2,700 万 ₽）、签 34 份合同（1,400 万 ₽），投标 294 次 / 2.05 亿 ₽；**执行程序 16 项、累计 2,300 万 ₽，未清偿 980 万 ₽（rusprofile）**",
+"other": "电子招投标集中供货公司：「为国有公司配套、经认证供应商」，向生产商/大贸易商征集最低价 + 预付/部分预付/账期；政采记录：作为供应商参与 50 次采购（2,700 万 ₽）、签 34 份合同（1,400 万 ₽），投标 294 次 / 2.05 亿 ₽；**执行程序 16 项、累计 2,300 万 ₽，未清偿 980 万 ₽（rusprofile）**；ЕГРЮЛ：Елизаров Н.Н. 100% 股东兼总经理（2012-08-15 起）；2025 营收 21.8M ₽、净利 1.2M ₽；25 次投标；仲裁 9 件、执行程序 3–15 件（第 83 批 官方登记核实 2026-10-27）",
 "founded": "2012-08-15",
-"staff": "1（连续 7 年）；总经理兼唯一股东 Елизаров Николай Николаевич"
+"staff": "1（ФНС 平均人数）（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电子平台招投标供货（非食品类集中采购）",
@@ -36720,11 +36764,12 @@
 "level": "B→A 加厚 v1（官网核对 + 具名 KP）"
 },
 "company_facts": {
-"legal_name": "Top Italia S.r.l.（P.IVA 04592850871）",
+"legal_name": "TOP ITALIA S.R.L.（P.IVA 04592850871 · REA CT-306496；2008-05-08 成立；资本 €110,000；ATECO 46.47.3；PEC topit@pec.top-srl.com；SDI T04ZHR3）",
 "founded": "2004-06",
 "hq": "Via Comunità Economica Europea 41, 95045 Misterbianco (CT), Italy（+39 095 471 449；info@topsicurezza.com）",
 "size": "中小型进口商（人数待核）",
-"other": "自有品牌 Videostar；Secolink 独家；技术支持热线 039 5787 178（Cologno/Milano 侧）"
+"other": "自有品牌 Videostar；Secolink 独家；技术支持热线 039 5787 178（Cologno/Milano 侧）；营收 2023 €2.7M → 2024 €2.17M → 2025 €1.72M；净利 2025 €11,477（第 83 批 官方登记核实 2026-10-27）",
+"staff": "5–6（2026）（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "视频监控进口分销（Videostar 自有品牌）",
@@ -38089,6 +38134,13 @@
 "email": "",
 "phone": "+91 98300 30444（WA）/ +91 33 2287 2290",
 "source": "用户 Clients 表 + RocketReach"
+},
+{
+"name": "Rajesh Kumar Bhutoria",
+"role": "Director 兼股东（DIN 00516745，1995 创立至今）= 老板；另一董事 Praloy Shankar Chowdhury（2013 起）（第 83 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.tofler.in/vicom-security-private-limited/company/U51109WB1995PTC070096"
 }
 ],
 "grade_override": null,
@@ -38100,7 +38152,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Vicom Security Private Limited（CIN U51109WB1995PTC070096）",
+"legal_name": "VICOM SECURITY PRIVATE LIMITED（CIN U51109WB1995PTC070096，1995-03-28，Active；实缴 ₹20 lakh；前名 Dinesh Enterprises Pvt. Ltd.；最近 AGM 2025-09-29）",
 "founded": "1995-03-28",
 "hq": "8 Justice K.M. Yusuf Sarani (Beck Bagan Row), 2nd Floor, Kolkata 700017, India（+91 9830078655 / +91 33 2287 2290）",
 "staff": "约 47–120（RocketReach 47；LinkedIn 51–200）",
@@ -39821,7 +39873,7 @@
 "level": "S 邮箱一手往来 v1（PI 明细待补）"
 },
 "company_facts": {
-"legal_name": "Angora Networks Bilişim Teknoloji Tic. San. A.Ş.",
+"legal_name": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ A.Ş.（2016-11-28 设立；NACE 62.09.02；登记地 Alacaatlı Mah. Park Cad. 47/31 Yenimahalle, Ankara）（第 83 批 官方登记核实 2026-10-27）",
 "founded": "",
 "hq": "安卡拉（Yenimahalle 税务所），土耳其",
 "staff": "",
@@ -42681,7 +42733,7 @@
 "founded": "1990-09-28（2017 更名 ISIMKO）",
 "hq": "Guhrower Straße 5, 03044 Cottbus, Germany（+49 355 78015-0；info@isimko.de）；技术办公室 Berlin Georgenstraße 35；Dresden；Schwarze Pumpe",
 "size": "120+ 员工（含 16 学徒）；LinkedIn 51–200",
-"other": "家族企业；电工与信息技术手工业资质；客户：工业、中型企业、公共部门"
+"other": "家族企业；电工与信息技术手工业资质；客户：工业、中型企业、公共部门；Northdata：HRB 472 Cottbus 1990-09-28 登记；GF Ralph-Peter Hannemann（2005 起，= 自建站询盘人）+ Diego Noack（2014 起）；Prokura Falk Noack；Hannemann & Noack 两家族控股；2024 资产 €5.76M、毛利 €8.0M；曾用名 Fleischhauer Cottbus GmbH（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业铜缆/光纤网络规划与施工（专长）",
@@ -44097,7 +44149,8 @@
 "founded": "1967-03-31",
 "hq": "İstanbul, Türkiye",
 "size": "1,264 人（2025 年末）；BIST 上市",
-"other": "ZTE 48.05%、TSKGV 15%；总经理 Sinan Dumlu"
+"other": "ZTE 48.05%、TSKGV 15%；总经理 Sinan Dumlu；KAP：营收 2024 91.8 亿 TL / 2025 前三季 83.6 亿 TL；净亏 2024 −2.72 亿、2025 全年 −3.41 亿 TL；两年未分红（第 83 批 官方登记核实 2026-10-27）",
+"ownership": "ZTE Cooperatief U.A. 48.05% + TSKGV（土耳其武装部队强化基金会）15.00% + 公众 36.95%（2025-09 季报）（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电信运营商网络产品与本土基站",
@@ -45282,11 +45335,11 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-017，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "U.T.E. Electronic GmbH & Co. KG",
+"legal_name": "U.T.E. Electronic GmbH & Co. KG（Amtsgericht Bochum HRA 4773，1997-04-11；PhG U.T.E. Electronic Verwaltungs-GmbH；有限合伙人 269 M Ltd.（UK））",
 "founded": "",
 "hq": "Witten（Friedrich-Ebert-Str. 86, 58454 Witten, NRW）, 德国",
 "size": "",
-"other": "Planet 渠道档案 PA-017（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（有自有 U.T.E. ATS 系列转换开关，交换机无自有品牌）；最大未知：PLANET 线年量与库存深度；是否要求德文文档 / 德国仓交付；8 人团队中谁负责工业以太网采购（总经理 vs 销售负责人）"
+"other": "Planet 渠道档案 PA-017（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（有自有 U.T.E. ATS 系列转换开关，交换机无自有品牌）；最大未知：PLANET 线年量与库存深度；是否要求德文文档 / 德国仓交付；8 人团队中谁负责工业以太网采购（总经理 vs 销售负责人）；2024 资产总额 €1.28M（仅公告资产负债表）；商标 6swaps（2007）（第 83 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "Pro-AV / IT / USV B2B 分销商（1989 年起；「Pro AV & IT-Großhandel mit großem Lager」；只售经销商 / 系统集成商 / 机构，不售终端）；PLANET 为其「Automatisierung / Schaltschrankbau › Industrial Ethernet」类目主力品牌，独立品牌页 PLANET 两页约 48 款"
@@ -45604,6 +45657,13 @@
 "email": "jraboch@lancomat.cz",
 "phone": "+420 774 411 618",
 "source": "https://www.lancomat.cz/podrobne-kontakty/"
+},
+{
+"name": "Zdeněk Zíta / Tomáš Jahoda",
+"role": "两名执行董事（jednatel），2007-07-16 起未变，各自可单独代表公司（第 83 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://ares.gov.cz/ekonomicke-subjekty/27929795"
 }
 ],
 "grade_override": "A",
@@ -45614,7 +45674,7 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-018，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "LANCOMAT s.r.o.",
+"legal_name": "LANCOMAT s.r.o.（IČO 27929795 · DIČ CZ27929795 · 卷宗 C 127222/MSPH；2007-07-16 成立；资本 200,000 CZK；NACE 46 / 47 / 47.99）",
 "founded": "",
 "hq": "Praha 9 – Vysočany（Poděbradská 520/24, 190 00）, 捷克",
 "size": "",

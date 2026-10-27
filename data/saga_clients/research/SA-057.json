@@ -1,207 +1,207 @@
 {
-  "code": "SA-057",
-  "name_official": "Born SPb LLC（ООО «Борн СПб»，圣彼得堡）",
-  "website_status": "未单独检索（仅用户记录）",
-  "summary": "俄罗斯圣彼得堡网络产品贸易商（用户记录：销售多品牌 MC/SFP/VC/FS，含多家国内品牌），长期互动：39 次跟进中 5 次实质回复，最近 2025 年。",
-  "type": "多品牌贸易商/分销",
-  "size": "待补证",
-  "brands_seen": [
-    "多家国内品牌（用户记录）",
-    "SNR",
-    "NSGate"
-  ],
-  "evidence": [
-    {
-      "kind": "用户记录",
-      "claim": "卖多品牌 MC/SFP/VC/FS；5 次回复 / 39 次跟进；地址圣彼得堡 Mebelnaya 12",
-      "quote": "有很多牌子的产品 卖别人的MC SFP VC FS / 国内好几个牌子的；Address: 197374, St. Petersburg, Mebelnaya str., 12（用户 Clients 表摘录）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "注册",
-      "claim": "法人、注册日、负责人、规模",
-      "quote": "ООО «Борн СПБ» зарегистрировано 17 апреля 2009 года в Санкт-Петербурге … оптовой торговли электронным и телекоммуникационным оборудованием … генеральным директором с момента основания является Сергей Иванович Федотов, он же выступает единственным учредителем … ИНН/КПП: 7841406851",
-      "url": "https://www.rusprofile.ru/id/2395878",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "注册",
-      "claim": "员工数与 2025 利润",
-      "quote": "Численность персонала: · 9 … За 2025 год прибыль компании составила 1474 тыс.",
-      "url": "https://www.list-org.com/company/5674467",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "网店",
-      "claim": "品类与联系方式",
-      "quote": "Сетевое оборудование Коммутаторы Маршрутизаторы Медиаконвертеры SFP модули SFP-трансиверы PoE-инжекторы Точки доступа Телекоммуникационные шкафы … Телефон: · 8 (800) 302-15-41 Электронная почта: · sales@born-spb.ru Санкт-Петербург Москва Екатеринбург Пермь",
-      "url": "https://born-shop.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "伙伴名录",
-      "claim": "SNR 官方合作伙伴与地址",
-      "quote": "ООО «Борн СПб» Адрес: 192236, г. Санкт-Петербург, ул. Софийская, дом 8, кор. 1",
-      "url": "https://snr.systems/ru/partners/ooo-born-spb",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Федотов Сергей Иванович（Sergey I. Fedotov）",
-      "role": "Генеральный директор / 唯一股东（注册信息）",
-      "email": "sales@born-spb.ru（公司公开）",
-      "phone": "+7 812 458-85-86",
-      "source": "https://www.rusprofile.ru/id/2395878"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "5 次实质回复 = 真实互动，品类（MC/FS）对位 STI-110GE / 工业 FS。俄罗斯非主攻区且收款路径需核（T/T 受限时走第三方/人民币结算，报价前确认）。P1：STI-110GE 介质转换器 + STI-288GP 非管理工业 PoE，分销价阶 20%。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v2（注册信息 + 网店 + 伙伴名录核对）"
+ "code": "SA-057",
+ "name_official": "Born SPb LLC（ООО «Борн СПб»，圣彼得堡）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "俄罗斯圣彼得堡网络产品贸易商（用户记录：销售多品牌 MC/SFP/VC/FS，含多家国内品牌），长期互动：39 次跟进中 5 次实质回复，最近 2025 年。",
+ "type": "多品牌贸易商/分销",
+ "size": "待补证",
+ "brands_seen": [
+  "多家国内品牌（用户记录）",
+  "SNR",
+  "NSGate"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "卖多品牌 MC/SFP/VC/FS；5 次回复 / 39 次跟进；地址圣彼得堡 Mebelnaya 12",
+   "quote": "有很多牌子的产品 卖别人的MC SFP VC FS / 国内好几个牌子的；Address: 197374, St. Petersburg, Mebelnaya str., 12（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ООО «Борн СПб»（ИНН 7841406851，ОГРН 1097847113814）",
-    "hq": "192236, Санкт-Петербург, ул. Софийская, д. 8, корп. 1（+7 812 458-85-86；8 800 302-15-41；sales@born-spb.ru）；另列 Москва / Екатеринбург / Пермь",
-    "other": "电子与电信设备批发（ОКВЭД 46.5x）；网店 born-shop.ru / born-spb.ru：交换机、路由器、MC、SFP/SFP+/QSFP、PoE 注入器、AP、机柜/热柜、KVM、防火墙、光缆；SNR.SYSTEMS 官方合作伙伴（SNR = 俄罗斯 NAG 自有标）；在售 NSGate NFG-SFP MC 2,200 ₽",
-    "founded": "2009-04-17",
-    "staff": "9（list-org）；2025 年利润 147.4 万 ₽；注册资本 10 万 ₽；总经理兼唯一股东 Федотов Сергей Иванович"
+  {
+   "kind": "注册",
+   "claim": "法人、注册日、负责人、规模",
+   "quote": "ООО «Борн СПБ» зарегистрировано 17 апреля 2009 года в Санкт-Петербурге … оптовой торговли электронным и телекоммуникационным оборудованием … генеральным директором с момента основания является Сергей Иванович Федотов, он же выступает единственным учредителем … ИНН/КПП: 7841406851",
+   "url": "https://www.rusprofile.ru/id/2395878",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "MC / SFP / VC / FS 多品牌贸易",
-    "网络设备/光模块/MC 批发与网店（SNR、NSGate 等多品牌）",
-    "机柜/热柜/KVM/光缆",
-    "B2B 对公结算（безналичная оплата）"
-  ],
-  "products_seen": [
-    {
-      "brand": "多家国内品牌",
-      "model": "MC / SFP / VC / FS",
-      "spec": "卖别人的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STI-110GE / STC-28DGGPM"
-    },
-    {
-      "brand": "NSGate",
-      "model": "NFG-SFP",
-      "spec": "千兆 SFP 媒体转换器，2,200 ₽，12 个月保",
-      "url": "https://born-shop.ru/catalog/136567.html",
-      "date": "2026-10-21",
-      "saga": "STI-110GE（SFP 版需核）"
-    }
-  ],
-  "channels": {
-    "网站": "https://born-spb.ru/",
-    "直邮": "sales@born-spb.ru（用户表）",
-    "网站/网店": "https://born-shop.ru/ / https://www.born-spb.ru/",
-    "电话": "+7 812 458-85-86 / 8 800 302-15-41（官网公开）",
-    "邮箱（公开）": "sales@born-spb.ru",
-    "伙伴名录": "https://snr.systems/ru/partners/ooo-born-spb"
+  {
+   "kind": "注册",
+   "claim": "员工数与 2025 利润",
+   "quote": "Численность персонала: · 9 … За 2025 год прибыль компании составила 1474 тыс.",
+   "url": "https://www.list-org.com/company/5674467",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "39 次跟进 5 次实质回复（最近 2025）——长期活跃",
-    "多品牌小型批发商（9 人）、SNR 伙伴——MC/SFP 为走量品类；Saga MC（STI-110GE）与 SFP/工业机可作白牌补充（2026-10-21）"
-  ],
-  "risks": [
-    "俄罗斯结算；多品牌比价",
-    "规模小（9 人、年利 ≈1.5M ₽）——单笔金额有限；39 次跟进 5 次实质回复，保持低频"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 20,
-    "why": "贸易商走量品：STI-110GE（MC）+ STC-28DGGPM；分销 20% 档"
+  {
+   "kind": "网店",
+   "claim": "品类与联系方式",
+   "quote": "Сетевое оборудование Коммутаторы Маршрутизаторы Медиаконвертеры SFP модули SFP-трансиверы PoE-инжекторы Точки доступа Телекоммуникационные шкафы … Телефон: · 8 (800) 302-15-41 Электронная почта: · sales@born-spb.ru Санкт-Петербург Москва Екатеринбург Пермь",
+   "url": "https://born-shop.ru/",
+   "date": "2026-10-21"
   },
-  "email_hook": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 18 封 0 回，Opened 1 次 2024-12-18；用户表「5 次实质回复」渠道不明；Elsa 箱：`to:born-shop.ru OR to:born-spb.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(g)））",
-      "type": "圣彼得堡多品牌贸易（Born SPb）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "2026-01 后未再发",
-      "revive": "—",
-      "lane": "RU",
-      "cadence": "不主动",
-      "evidence": "邮件：去信 18 封（2024-07-01 → 2026-01-13），来信 0；Opened 标签 1 次（2024-12-18）；收件人 sales@born-spb.ru"
-    },
-    "situation": "18 封被打开 1 次。",
-    "need": "MC / 工业 FS。",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 20,
-      "price": "锚价：STI-110GE $26.5 / STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port poe managed switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-10 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "S 邮箱 → sales@born-spb.ru（Федотов Сергей Иванович（Sergey I. Fedotov））（Born SPb；用户表 5 次回复渠道不明）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
-      "one_question": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison. Shall I send both for your next comparison? Reference: STI-110GE at $26.5 / STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2023-12-09",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了30的商业POE价格册」→ 对方「thanks」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2023.12.9"
-      },
-      {
-        "date": "2024-01-08",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了最新的工业电源价格册」→ 对方「thanks」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.1.8"
-      },
-      {
-        "date": "2024-04-16",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了商业PoE 128信息」→ 对方「hi」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.4.16"
-      },
-      {
-        "date": "2024-11-11",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「电口」→ 对方「问了一个不太相关的」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 1111"
-      },
-      {
-        "date": "2024-12-18",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "3af24011688d7cd2"
-      },
-      {
-        "date": "2025-06-21",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「工业非管理组合图」→ 对方「用switches」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 621"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "Two EXW numbers for your next comparison - converter and 8-port PoE",
-      "body": "Hello Sergey,\n\nOver the years we exchanged a few short messages and you had our product mails; nothing in them needed an answer. For the media-converter and 8-port PoE lines you trade, the two numbers for your next comparison: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. CE/RoHS files supplied; EAC stays on your side.\n\nOne question: which of the two moves more volume in your shop today, so I keep the comparison to that one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "伙伴名录",
+   "claim": "SNR 官方合作伙伴与地址",
+   "quote": "ООО «Борн СПб» Адрес: 192236, г. Санкт-Петербург, ул. Софийская, дом 8, кор. 1",
+   "url": "https://snr.systems/ru/partners/ooo-born-spb",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Федотов Сергей Иванович（Sergey I. Fedotov）",
+   "role": "Генеральный директор / 唯一创始人（ЕГРЮЛ）；公司 9 人、2025 营收 2.94 亿 ₽、毛利率 0.6%、2026 年两起供货仲裁被告、56 份有效 EAC 声明、2026-04 注册商标 VIGILIX（第 83 批 官方登记核实 2026-10-27）",
+   "email": "sales@born-spb.ru（公司公开）",
+   "phone": "+7 812 458-85-86",
+   "source": "https://www.rusprofile.ru/id/2395878"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "5 次实质回复 = 真实互动，品类（MC/FS）对位 STI-110GE / 工业 FS。俄罗斯非主攻区且收款路径需核（T/T 受限时走第三方/人民币结算，报价前确认）。P1：STI-110GE 介质转换器 + STI-288GP 非管理工业 PoE，分销价阶 20%。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（注册信息 + 网店 + 伙伴名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "ООО «Борн СПб»（ИНН 7841406851，ОГРН 1097847113814）",
+  "hq": "192236, Санкт-Петербург, ул. Софийская, д. 8, корп. 1（+7 812 458-85-86；8 800 302-15-41；sales@born-spb.ru）；另列 Москва / Екатеринбург / Пермь",
+  "other": "电子与电信设备批发（ОКВЭД 46.5x）；网店 born-shop.ru / born-spb.ru：交换机、路由器、MC、SFP/SFP+/QSFP、PoE 注入器、AP、机柜/热柜、KVM、防火墙、光缆；SNR.SYSTEMS 官方合作伙伴（SNR = 俄罗斯 NAG 自有标）；在售 NSGate NFG-SFP MC 2,200 ₽；ФНС 2025：营收 294.0M ₽ / 净利 1.47M ₽；223-ФЗ 政府采购 7 单（核安保 / 核物理研究所客户）（第 83 批 官方登记核实 2026-10-27）",
+  "founded": "2009-04-17",
+  "staff": "9（ФНС 平均人数）（第 83 批 官方登记核实 2026-10-27）"
+ },
+ "business_lines": [
+  "MC / SFP / VC / FS 多品牌贸易",
+  "网络设备/光模块/MC 批发与网店（SNR、NSGate 等多品牌）",
+  "机柜/热柜/KVM/光缆",
+  "B2B 对公结算（безналичная оплата）"
+ ],
+ "products_seen": [
+  {
+   "brand": "多家国内品牌",
+   "model": "MC / SFP / VC / FS",
+   "spec": "卖别人的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-110GE / STC-28DGGPM"
+  },
+  {
+   "brand": "NSGate",
+   "model": "NFG-SFP",
+   "spec": "千兆 SFP 媒体转换器，2,200 ₽，12 个月保",
+   "url": "https://born-shop.ru/catalog/136567.html",
+   "date": "2026-10-21",
+   "saga": "STI-110GE（SFP 版需核）"
+  }
+ ],
+ "channels": {
+  "网站": "https://born-spb.ru/",
+  "直邮": "sales@born-spb.ru（用户表）",
+  "网站/网店": "https://born-shop.ru/ / https://www.born-spb.ru/",
+  "电话": "+7 812 458-85-86 / 8 800 302-15-41（官网公开）",
+  "邮箱（公开）": "sales@born-spb.ru",
+  "伙伴名录": "https://snr.systems/ru/partners/ooo-born-spb"
+ },
+ "signals": [
+  "39 次跟进 5 次实质回复（最近 2025）——长期活跃",
+  "多品牌小型批发商（9 人）、SNR 伙伴——MC/SFP 为走量品类；Saga MC（STI-110GE）与 SFP/工业机可作白牌补充（2026-10-21）"
+ ],
+ "risks": [
+  "俄罗斯结算；多品牌比价",
+  "规模小（9 人、年利 ≈1.5M ₽）——单笔金额有限；39 次跟进 5 次实质回复，保持低频"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "贸易商走量品：STI-110GE（MC）+ STC-28DGGPM；分销 20% 档"
+ },
+ "email_hook": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 18 封 0 回，Opened 1 次 2024-12-18；用户表「5 次实质回复」渠道不明；Elsa 箱：`to:born-shop.ru OR to:born-spb.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(g)））",
+   "type": "圣彼得堡多品牌贸易（Born SPb）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "2026-01 后未再发",
+   "revive": "—",
+   "lane": "RU",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 18 封（2024-07-01 → 2026-01-13），来信 0；Opened 标签 1 次（2024-12-18）；收件人 sales@born-spb.ru"
+  },
+  "situation": "18 封被打开 1 次。",
+  "need": "MC / 工业 FS。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "锚价：STI-110GE $26.5 / STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port poe managed switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-10 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+   "channel": "S 邮箱 → sales@born-spb.ru（Федотов Сергей Иванович（Sergey I. Fedotov））（Born SPb；用户表 5 次回复渠道不明）",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+   "one_question": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison. Shall I send both for your next comparison? Reference: STI-110GE at $26.5 / STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2023-12-09",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了30的商业POE价格册」→ 对方「thanks」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2023.12.9"
+   },
+   {
+    "date": "2024-01-08",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了最新的工业电源价格册」→ 对方「thanks」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.1.8"
+   },
+   {
+    "date": "2024-04-16",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了商业PoE 128信息」→ 对方「hi」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.4.16"
+   },
+   {
+    "date": "2024-11-11",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「电口」→ 对方「问了一个不太相关的」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 1111"
+   },
+   {
+    "date": "2024-12-18",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "3af24011688d7cd2"
+   },
+   {
+    "date": "2025-06-21",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「工业非管理组合图」→ 对方「用switches」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 621"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+  ],
+  "draft_en": {
+   "subject": "Two EXW numbers for your next comparison - converter and 8-port PoE",
+   "body": "Hello Sergey,\n\nOver the years we exchanged a few short messages and you had our product mails; nothing in them needed an answer. For the media-converter and 8-port PoE lines you trade, the two numbers for your next comparison: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. CE/RoHS files supplied; EAC stays on your side.\n\nOne question: which of the two moves more volume in your shop today, so I keep the comparison to that one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

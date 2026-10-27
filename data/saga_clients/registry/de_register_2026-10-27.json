@@ -1,0 +1,156 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Germany · Handelsregister / Northdata（登记摘要）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 4
+ },
+ "rows": {
+  "SA-008": {
+   "name": "NYNEX satellite OHG（品牌 fiberONE）",
+   "iso": "DE",
+   "source": "Germany · Handelsregister 摘要（Northdata 免费页，Amtsgericht Darmstadt）",
+   "url": "https://www.northdata.de/NYNEX%20satellite%20OHG,%20Darmstadt/HRA%2084829",
+   "number": "Amtsgericht Darmstadt HRA 84829 · EUID DEM1103.HRA84829",
+   "status": "在册（Northdata 无注销 / 破产事件；最近事件 2017 商标）",
+   "incorporated": "2012-11-27 登记（2012-11-29 / 12-04 公告），2013-07 地址变更",
+   "company_type": "OHG（无限责任合伙 / 普通合伙）· 两名人身无限责任合伙人（Pers.haft.Gesellschafter 2 Personen）",
+   "sic": [
+    "登记经营范围：卫星广域网的咨询、销售与运营（Die Beratung, der Vertrieb und Betrieb von satellitengestützten Weitverkehrsnetzen）"
+   ],
+   "address": "Darmstadt（研究档：Robert-Bosch-Str. 20, 64293 Darmstadt）",
+   "accounts": "OHG 不公开年报（无 Bundesanzeiger 义务，Northdata 无 Kennzahlen）",
+   "accounts_due": "",
+   "size_band": "合伙企业，两名合伙人对债务负无限连带责任 → 实质是两位老板的公司",
+   "officers": [
+    "两名无限责任合伙人（Handelsregister 2012-11 登记；Northdata 免费层不显示姓名）——按本档研究 = 创始人 Gunter Frank 与 Andreas Buxbaum（2000 年创立 NYNEX）；成单联系人 Frederik Kriewitz 是系统工程师，不是合伙人",
+    "关联：NYNEX space GmbH（2012-12 / 2013-01 股东名单提及）= 同一老板的另一家公司"
+   ],
+   "psc": "两名合伙人",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**OHG = 合伙人对公司债务负无限个人责任**：Gunter Frank 拍板的事就是他个人担保的事，付款风险在德国客户里属最低一档；反过来他们也会算得很细——报价别留水分",
+    "对接人 Frederik Kriewitz 只是工程师：技术选型他说了算，但金额稍大的采购要过合伙人 Frank / Buxbaum——PI 和年度框架类的邮件抄 Frank 一份",
+    "商标 GigManiac（2015）、HOME SPEED HOME（2016）、skyZIP（2017）、GigCity：2015–2017 在德国专利商标局密集注册零售宽带品牌 → fiberONE 是自有品牌运营商 → 贴牌（OEM 30%）和整机（集成 25%）两条线都成立",
+    "登记主业是卫星 WAN 咨询 / 运营：买交换机是配自己的网络项目（持续、按项目节奏），不是倒手分销 → 不该出现在「分销 20%」价",
+    "同老板另有 NYNEX space GmbH：PI 抬头、收货人可能在两家之间切换，开 PI 前问清用哪个法人；合伙人姓名全文可在 handelsregister.de 免费查，下轮补"
+   ],
+   "notes": "Northdata 免费层：登记号 / 经营范围 / 事件时间线 / 商标；合伙人姓名与年报需 handelsregister.de 或付费。",
+   "fetched": "2026-10-27",
+   "code": "SA-008",
+   "batch": 83
+  },
+  "SA-019": {
+   "name": "ALLNET GmbH Computersysteme",
+   "iso": "DE",
+   "source": "Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费页）",
+   "url": "https://www.northdata.de/ALLNET%20GmbH%20Computersysteme,%20Germering/Amtsgericht%20M%C3%BCnchen%20HRB%2095992",
+   "number": "Amtsgericht München HRB 95992 · LEI 5299008GWAOUQEZ8HJ12 · EUID DED2601V.HRB95992",
+   "status": "在册，年报按期公告（2024 年报 2026-03-23 公布）",
+   "incorporated": "1991-08-14",
+   "company_type": "GmbH · 股东 = Alldis Computersystem GmbH、Allnet Schweiz AG、SAS Allnet France（2024 年报股东名单）→ 家族控股集团",
+   "sic": [
+    "登记经营范围：计算机 / 网络硬件与软件的制造、销售与培训（另含废弃物收集运输）"
+   ],
+   "address": "Maistr. 2, D-82110 Germering（慕尼黑西郊）",
+   "accounts": "**2024 年营业收入 €243.2M · 资产总额 €117.6M**（Bundesanzeiger，2005–2024 年报连续可查）",
+   "accounts_due": "德国 GmbH 年报于次年 12-31 前公告；2025 年报预计 2026-12 → 2027-03 出现",
+   "size_band": "大型分销 + 自有品牌集团（€243M 营收）；1 名总经理",
+   "officers": [
+    "Wolfgang Marcus BAUER — 唯一 Geschäftsführer（2025-04-30 最新登记；创始人家族，同时任 ALLDIS GmbH / ALLBILL GmbH / INNET Industrieelektronik Vertriebs GmbH / Allknow GmbH 的 GF 或股东）",
+    "关联公司：ALLDIS GmbH（HRB 110302）、ALLBILL GmbH（HRB 173037）、INNET Industrieelektronik Vertriebs GmbH（HRB 115617）、Allknow GmbH（HRB 298881）、PortaMare GmbH、Allnet Schweiz AG、SAS Allnet France；NCP EDV Handelsgesellschaft mbH 已注销"
+   ],
+   "psc": "Bauer 家族通过 Alldis Computersystem GmbH 等控股",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€243M 营收的德国网络产品分销 + 自有品牌商（ALLNET 品牌交换机 / PoE / 工业以太网）**：这是 A 档里体量最大的德国户之一，目标不是「卖几箱」而是进入 ALLNET 自有品牌的 ODM 供应池 → 走 OEM 30% 线，样机 + 完整测试报告 + 固件定制能力一起递",
+    "唯一 GF Wolfgang Bauer 同时管 5 家关联公司：采购决策在产品经理 / Einkauf 层面，Bauer 只签框架——邮件找 Produktmanagement Netzwerk，不要直接打扰 GF",
+    "商标 Allnet / Synergy21 / plusonic / ALLDAQ + 多项专利（远程监控装置、LED 模块、2025 网络线磁性安全耦合器）：公司有工程能力，会要求完整技术文档（EMC / RoHS / REACH / 固件变更记录）；准备好 CENTEC 和 Marvell 两套资料",
+    "股东含 Allnet Schweiz AG 与 SAS Allnet France：一旦进入供应池，瑞士 / 法国分公司同步覆盖 → 长期复利最高的德国户",
+    "2024 年报已出（2026-03），下次 2027-03 看 2025 营收走势"
+   ],
+   "notes": "Northdata 免费层给出营收 / 资产总额 / 股东 / 关联公司；明细需付费。",
+   "fetched": "2026-10-27",
+   "code": "SA-019",
+   "batch": 83
+  },
+  "SA-082": {
+   "name": "ISIMKO GmbH（原 G. Fleischhauer Ingenieur-Büro Cottbus GmbH → Fleischhauer Cottbus GmbH）",
+   "iso": "DE",
+   "source": "Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费页）",
+   "url": "https://www.northdata.de/ISIMKO%20GmbH,%20Cottbus/HRB%20472",
+   "number": "Amtsgericht Cottbus HRB 472 · EUID DEG1103.HRB472CB · USt-ID DE138775376（研究档）",
+   "status": "在册，年报按期公告（2024 年报 2026-01-19 公布）",
+   "incorporated": "1990-09-28（两德统一前夜在科特布斯登记，HRB 472 极早号段）",
+   "company_type": "GmbH · 注册资本 €200,000（研究档）· 4 名已知股东（含 Hannemann & Noack GmbH & Co. KG / Verwaltungs GmbH 持股架构）",
+   "sic": [
+    "登记经营范围：数据 / 电气 / 通信 / 网络 / 安防 / 媒体技术设备的制造、供应与安装；复杂系统方案的规划与实施；电子与 IT 设备贸易、维护；移动 / 固话合约与车联网销售"
+   ],
+   "address": "Guhrower Str. 5, D-03044 Cottbus（勃兰登堡）",
+   "accounts": "2024：资产总额 €5,757,227 · 毛利（Rohergebnis）€8,000,778（Bundesanzeiger；营收需付费，按毛利推测 €15–25M 量级）· 2006–2024 年报连续",
+   "accounts_due": "次年 12-31 前公告",
+   "size_band": "中型系统集成商（毛利 €8M → 约 60–100 人规模）",
+   "officers": [
+    "Ralph-Peter HANNEMANN — Geschäftsführer（2005-08-03 起）；家族控股方之一",
+    "Diego NOACK — Geschäftsführer（2014-01-10 起）；Noack 家族第二代（父 Wolfgang Noack 2005–2018 任 GF）",
+    "Falk NOACK — Prokurist（2018-01-16 起）",
+    "控股：Hannemann & Noack GmbH & Co. KG（HRA 1966）/ Hannemann & Noack Verwaltungs GmbH（HRB 8211）"
+   ],
+   "psc": "Hannemann 与 Noack 两家族",
+   "charges": "",
+   "prev_names": [
+    "G. Fleischhauer Ingenieur-Büro Cottbus GmbH（1990）",
+    "Fleischhauer Cottbus GmbH（2016-06-27）",
+    "ISIMKO GmbH（2017-01-02 起；商标 ISIMKO 2017-07 注册，2026-06 续展）"
+   ],
+   "lines": [
+    "**登记证实：Saga 自建站询盘人 Ralph Hannemann 就是 GF 兼控股家族之一（2005 年起任 Geschäftsführer）**——老板亲自询盘，回复直接给方案 + 价格，不需要再找「决策人」；第二代 Diego Noack 是另一位 GF，大单抄送即可",
+    "登记范围是「制造 + 安装 + 系统方案」而非分销：买交换机是进项目（楼宇 / 安防 / 媒体技术）→ 集成 25% 档；项目型采购节奏不规律，靠「有货 + 4–7 天交期」而不是靠低价",
+    "毛利 €8M、资产 €5.8M：付款能力好，可以接受 T/T 50/50；首单后可谈 30/70",
+    "2017 年才从 Fleischhauer 改名 ISIMKO 并注册商标：品牌在重建期，愿意为「自有标识」的产品买单 → 顺手提 logo 免费丝印",
+    "2024 年报已出，2027-01 看 2025 数"
+   ],
+   "notes": "营收明细付费；Northdata 免费层给毛利 / 资产 / 董事 / 股东结构。",
+   "fetched": "2026-10-27",
+   "code": "SA-082",
+   "batch": 83
+  },
+  "SA-088": {
+   "name": "U.T.E. Electronic GmbH & Co. KG",
+   "iso": "DE",
+   "source": "Germany · Handelsregister + Bundesanzeiger（Northdata 免费页）",
+   "url": "https://www.northdata.de/U.T.E.%20Electronic%20GmbH%20&%20Co.%20KG,%20Witten/Amtsgericht%20Bochum%20HRA%204773",
+   "number": "Amtsgericht Bochum HRA 4773 · EUID DER2201.HRA4773",
+   "status": "在册，年报（仅资产负债表）按期公告，2024 年报 2026-01-07 公布",
+   "incorporated": "1997-04-11 登记；2004-07-23 改组为 GmbH & Co. KG",
+   "company_type": "GmbH & Co. KG · 无限责任股东 = U.T.E. Electronic Verwaltungs-GmbH · 有限合伙人（Kommanditist）= 269 M Ltd.（一家英国 Ltd）",
+   "sic": [
+    "（Northdata 未列经营范围；官网 ute.de = 工业 / 嵌入式电子与网络产品分销）"
+   ],
+   "address": "Friedrich-Ebert-Str. 86, D-58454 Witten（鲁尔区，2018-11 迁入）",
+   "accounts": "2024 资产总额 €1,277,411（小型企业只公告资产负债表，无营收 / 利润）；2005–2024 连续",
+   "accounts_due": "次年 12-31 前",
+   "size_band": "小型（Kleinstkapitalgesellschaft 口径：资产 €1.3M → 营收大致 €2–6M、10 人以内）",
+   "officers": [
+    "经营者 = U.T.E. Electronic Verwaltungs-GmbH 的 Geschäftsführer（姓名在免费层未显示，待 handelsregister.de 补）",
+    "有限合伙人 269 M Ltd.（英国公司）= 实际出资人 → 所有者可能在英国或通过英国壳持有"
+   ],
+   "psc": "269 M Ltd.（UK）为有限合伙人",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "资产 €1.3M 的小分销商，但 1997 年至今年年按时公告、地址稳定：是「小而老」的可靠户 → 分销 20% 档，MOQ 1 箱，T/T 50/50",
+    "出资人是一家英国 Ltd（269 M Ltd.）：老板可能常驻英国或用英国架构持股 → 英文沟通无障碍；PI 抬头仍用德国 KG，VAT DE 号",
+    "商标「6swaps」（2007）：曾有自有产品线 / 服务品牌，问一句是否仍有贴牌需求（OEM 30% 线备用）",
+    "年报只有资产负债表，看不出营收——用他们网店的 SKU 深度与询盘频率判断体量即可，不必再查"
+   ],
+   "notes": "Verwaltungs-GmbH 的 GF 姓名需 handelsregister.de（免费）补。",
+   "fetched": "2026-10-27",
+   "code": "SA-088",
+   "batch": 83
+  }
+ }
+}
