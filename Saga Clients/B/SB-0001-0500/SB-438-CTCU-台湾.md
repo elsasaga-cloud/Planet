@@ -58,10 +58,12 @@ updated: 2026-10-27
 
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
-- **时机与节律**：真人来信 2 封（2025-10-23 → 2026-01-13）；对方本地时间中位 15:06；**他们回信中位 1.6 小时**（2 次，100% 在 24 小时内）；我方回信中位 4506.8 小时（1 次，>72 小时 1 次）；**我方未回 1 封**。
+- **时机与节律**：真人来信 2 封（2025-10-23 → 2026-01-13）；对方本地时间中位 15:06（= 北京时间 15:06）；**他们回信中位 1.6 小时**（2 次，100% 在 24 小时内）；我方回信中位 4506.8 小时（1 次，>72 小时 1 次）；**我方未回 1 封**。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 11 封（2025-03-27 → 2026-08-11），打开标签 3 次（近 12 个月 1，最后 2026-01-13）；打开过：「Marvell Software Function List」×1（2025-03-27）、「10G Enterprise SFP Switch」×1（2025-10-23）、「OEM Core Switching Solution」×1（2026-01-13）；从未打开：「48 Port PoE Managed Switch」、「Managed Optical Bypass Switch」、「Marvell Industrial Alert System」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 71 条 URL；官网语言 zh-TW（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FIGS-402CS-4PH24.html、https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FIXR-G24044X-24PH.html、https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FQSW-4624CM.html。
 - **写信的人（来信签名机械抽取）**：CTC GM/Micro-Chang（micro-chang@ctcu.com.tw，2 封，2025-10-23 → 2026-01-13）。
+- **他们嘴里的词（2 封来信、去引用后 1,596 字符的词频）**：话题（次数，最近一次）：10G ×5（2026-01-13）、管理型 / L2+ / L3 ×5（2026-01-13）、贴牌 / OEM ×5（2026-01-13）、光纤 / 媒体转换 ×3（2025-10-23）、价格 / 折扣 ×2（2026-01-13）、质保 / 售后 ×2（2026-01-13）；**提到的同行品牌**：Cisco ×2（2026-01-13）、Huawei ×2（2026-01-13）；芯片 / 供应商词：Marvell ×2、CENTEC ×1。
+- **最后一球**：1:1 对话 1 段，最长一段 2 封 / 跨 187 天（2026-01-13 → 2026-07-20，「RE: OEM Core Switching Solution」）；最后一句是我们说的（2026-07-20，99 天前，「Re: OEM Core Switching Solution」，`2c088651a92dded8`）→ 球在对方手里。
 - **日历窗口**：对方：2027-02-05 农历新年（02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

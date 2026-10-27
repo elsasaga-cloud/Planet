@@ -65,6 +65,8 @@ updated: 2026-10-27
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 3 封（2024-11-03 → 2025-01-06），打开标签 1 次（近 12 个月 0，最后 2024-11-03）；打开过：「8 Port Industrial PoE Switch」×1（2024-11-03）；从未打开：「Mini Industrial PoE Switch」、「16 Port Ethernet Switch」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 449 条 URL；站内可见品牌 8 个（TP-Link、Cisco、PLANET、HRUI（！）、Ubiquiti、MikroTik）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；社媒：https://www.facebook.com/VI%E1%BB%84N-TH%C3%94NG-GI%C3%81-T%E1%BB%90T-112789490186637/?modal=admin_todo_tour、https://www.facebook.com/facebook。
 - **写信的人（来信签名机械抽取）**：Viễn Thông Giá Tốt（vienthonggiatotvn@gmail.com，1 封，2024-11-03 → 2024-11-03）。
+- **他们嘴里的词（1 封来信、去引用后 89 字符的词频）**：话题（次数，最近一次）：价格 / 折扣 ×1（2024-11-03）。
+- **最后一球**：1:1 对话 1 段，最长一段 3 封 / 跨 11 天（2024-11-03 → 2024-11-15，「Re: 8 Port Industrial PoE Switch」）；最后一句是我们说的（2024-11-15，711 天前，「Re: 8 Port Industrial PoE Switch」，`ffae7c0ecce7bd70`）→ 球在对方手里。
 - **日历窗口**：对方：2027-02-06 春节 Tết（约 02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

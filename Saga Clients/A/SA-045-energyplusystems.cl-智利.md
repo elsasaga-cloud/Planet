@@ -90,6 +90,9 @@ updated: 2026-10-27
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 13 条 URL；官网语言 es-CL（信照样英文，首句可用对方语言问候）；社媒：http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Alzador%20Hidr%C3%A1ulico%20Power-Works、http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Enchufe%20Minero%20Embutido%20Clase%2025KV%20Victor、http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Enchufe%20Minero%20Volante%20Clase%2025KV%20Victor。
 - **写信的人（来信签名机械抽取）**：Ling Fuentes F. — Ingeniero de Ventas（ventas@energyplusystems.cl，1 封，2024-09-27 → 2024-09-27）。
+- **他们嘴里的词（1 封来信、去引用后 235 字符的词频）**：话题（次数，最近一次）：价格 / 折扣 ×1（2024-09-27）。
+- **渠道反应**：S 箱（Simon） 去 24（1:1 3 / 群发 21）回 1，最近回 2024-09-27；A 箱（Alan） 去 1（1:1 0 / 群发 1）回 0，从未回 → 只对 S 箱 Simon 有反应，下一封别换箱。
+- **最后一球**：1:1 对话 1 段，最长一段 4 封 / 跨 25 天（2024-09-27 → 2024-10-23，「Re: Industrial PoE Switch」）；最后一句是我们说的（2024-10-23，733 天前，「Re: Industrial PoE Switch」，`571279a4f81adf50`）→ 球在对方手里。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 + 暑假 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

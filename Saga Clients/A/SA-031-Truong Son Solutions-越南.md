@@ -64,7 +64,7 @@ updated: 2026-10-27
 
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
-- **时机与节律**：真人来信 2 封（2025-12-19 → 2026-07-15）；对方本地时间中位 13:12；**他们回信中位 1.7 小时**（2 次，100% 在 24 小时内）；我方回信中位 0.9 小时（2 次）。
+- **时机与节律**：真人来信 2 封（2025-12-19 → 2026-07-15）；对方本地时间中位 13:12（= 北京时间 14:12）；**他们回信中位 1.7 小时**（2 次，100% 在 24 小时内）；我方回信中位 0.9 小时（2 次）。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 27 封（2024-07-08 → 2026-09-24），打开标签 3 次（近 12 个月 3，最后 2026-07-15）；打开过：「Marvell Industrial Alert System」×1（2025-12-19）、「Updated Ethernet Switches Links」×1（2026-02-16）、「Saga Q3 Product Links」×1（2026-07-15）；从未打开：「8 Port Industrial PoE Switch」、「48 Port PoE Managed Switch」、「Industrial PoE Switch」。
 - **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-11-13 → 2024-11-13；「今天」= 价格主表 2026-10-17 汇率、25% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
 
@@ -76,6 +76,9 @@ updated: 2026-10-27
 - **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 0 / camera 89 / poe 87）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：工业；**还没碰过的一类：安防 PoE** → 下封信可加一句 STC-424XGGPM-280W（24 口千兆 PoE + 4 × 10G SFP+ L2+ 管理 280W，$188.7 EXW）。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 266 条 URL；官网语言 vi（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-cong-nghiep-din-rail%2F、https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-cong-nghiep-managed%2F、https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-cong-nghiep-ngoai-troi-chiu-nhiet%2F。
 - **写信的人（来信签名机械抽取）**：Công ty TNHH Giải pháp & Xây lắp Trường （info@truongsonsolutions.com，2 封，2025-12-19 → 2026-07-15）。
+- **他们嘴里的词（2 封来信、去引用后 804 字符的词频）**：话题（次数，最近一次）：贴牌 / OEM ×2（2025-12-19）、价格 / 折扣 ×1（2025-12-19）、10G ×1（2026-07-15）、25G/40G/100G+ ×1（2026-07-15）；**提过的数量**：2（2026-07-15，「…Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G…」，`43477f95c8d2e436`）。
+- **渠道反应**：S 箱（Simon） 去 5（1:1 0 / 群发 5）回 0，从未回；A 箱（Alan） 去 24（1:1 2 / 群发 22）回 2，最近回 2026-07-15 → 只对 A 箱 Alan 有反应，下一封别换箱。
+- **最后一球**：1:1 对话 2 段，最长一段 2 封 / 跨 0 天（2026-07-15 → 2026-07-15，「Re: Saga Q3 Product Links」）；最后一句是我们说的（2026-07-15，103 天前，「Re: Saga Q3 Product Links」，`8ef6fe719128cb52`）→ 球在对方手里。
 - **日历窗口**：对方：2027-02-06 春节 Tết（约 02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

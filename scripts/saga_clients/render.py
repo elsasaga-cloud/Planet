@@ -43,7 +43,9 @@ def fmt_dims(ent):
             seg.append('多在 ' + ' / '.join(f'{MONTH_CN[m]}（{n}）' for m, n in t['months_top']))
         if t.get('local_hour_median') is not None and t['n'] >= 2:
             iq = f"，四分位 {_hm(t['local_hour_iqr'][0])}–{_hm(t['local_hour_iqr'][1])}" if t.get('local_hour_iqr') else ''
-            seg.append(f"对方本地时间中位 {_hm(t['local_hour_median'])}{iq}")
+            tz = (d.get('calendar') or {}).get('tz')
+            bj = f"（= 北京时间 {_hm((t['local_hour_median'] - tz + 8) % 24)}）" if isinstance(tz, (int, float)) else ''
+            seg.append(f"对方本地时间中位 {_hm(t['local_hour_median'])}{iq}{bj}")
         if t.get('weekdays') and t['n'] >= 3:
             seg.append(f"{t['weekdays'][0][0]}最多（{t['weekdays'][0][1]}）" + (f"、周末 {t['weekend_share']}%" if t.get('weekend_share') else ''))
         if t.get('their_reply_n'):
@@ -143,6 +145,42 @@ def fmt_dims(ent):
             tt = f" — {p['title']}" if p.get('title') else ''
             seg.append(f"{nm}{tt}（{p['email']}，{p['n']} 封，{p['first']} → {p['last']}）")
         L.append('- **写信的人（来信签名机械抽取）**：' + '；'.join(seg) + '。')
+    w = d.get('words')
+    if w:
+        seg = []
+        if w.get('topics'):
+            seg.append('话题（次数，最近一次）：' + '、'.join(f'{k} ×{n}（{dt}）' for k, n, dt in w['topics']))
+        if w.get('competitors'):
+            seg.append('**提到的同行品牌**：' + '、'.join(f'{k} ×{n}（{dt}）' for k, n, dt in w['competitors']))
+        if w.get('chips'):
+            seg.append('芯片 / 供应商词：' + '、'.join(f'{k} ×{n}' for k, n, _ in w['chips']))
+        if w.get('qty'):
+            seg.append('**提过的数量**：' + '；'.join(f"{q['q']:,}（{q['date']}，「…{q['ctx']}…」，`{q['k']}`）" for q in w['qty']))
+        L.append(f"- **他们嘴里的词（{w['n_mails']} 封来信、去引用后 {w['chars']:,} 字符的词频）**：" + '；'.join(seg) + '。')
+    ch = d.get('channels')
+    if ch:
+        seg = []
+        for mb, v in ch.items():
+            who = {'S': 'S 箱（Simon）', 'A': 'A 箱（Alan）'}[mb]
+            seg.append(f"{who} 去 {v['out']}（1:1 {v['one']} / 群发 {v['mass']}）回 {v['in']}" + (f"，最近回 {v['last_in']}" if v['last_in'] else '，从未回'))
+        ins = {mb: v['in'] for mb, v in ch.items()}
+        verdict = ''
+        if sum(1 for v in ins.values() if v) == 1:
+            only = [mb for mb, v in ins.items() if v][0]
+            verdict = f" → 只对 {'S 箱 Simon' if only == 'S' else 'A 箱 Alan'} 有反应，下一封别换箱"
+        elif all(ins.values()):
+            verdict = ' → 两箱都回过，按绑定行的渠道走即可'
+        L.append('- **渠道反应**：' + '；'.join(seg) + verdict + '。')
+    b = d.get('ball')
+    if b:
+        seg = [f"1:1 对话 {b['threads']} 段，最长一段 {b['longest_n']} 封 / 跨 {b['longest_days']} 天（{b['longest_first']} → {b['longest_last']}，「{b['longest_subj']}」）"]
+        if b['last_dir'] == 'in':
+            seg.append(f"**最后一句是他们说的**（{b['last_date']}，{b['days_since']} 天前，「{b['last_subj']}」，`{b['last_k']}`）" + (f"：「{b['last_snippet']}…」" if b.get('last_snippet') else ''))
+            if b.get('last_questions'):
+                seg.append('**他们没得到答复的问题**：' + ' / '.join(f'「{q}」' for q in b['last_questions']))
+        else:
+            seg.append(f"最后一句是我们说的（{b['last_date']}，{b['days_since']} 天前，「{b['last_subj']}」，`{b['last_k']}`）→ 球在对方手里")
+        L.append('- **最后一球**：' + '；'.join(seg) + '。')
     gh = d.get('github')
     if gh:
         seg = []

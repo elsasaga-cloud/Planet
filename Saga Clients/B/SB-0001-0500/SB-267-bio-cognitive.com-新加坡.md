@@ -61,12 +61,15 @@ updated: 2026-10-27
 
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
-- **时机与节律**：真人来信 2 封（2025-07-07 → 2025-07-07）；多在 7 月（2）；对方本地时间中位 18:48；**他们回信中位 4.8 小时**（2 次，100% 在 24 小时内）；我方回信中位 0.6 小时（2 次）。
+- **时机与节律**：真人来信 2 封（2025-07-07 → 2025-07-07）；多在 7 月（2）；对方本地时间中位 18:48（= 北京时间 18:48）；**他们回信中位 4.8 小时**（2 次，100% 在 24 小时内）；我方回信中位 0.6 小时（2 次）。
 - **发信窗口（SG 全库 415 封群发的打开标签，对方本地时间；均值 5.5%）**：周一 10–12 点 6.8%（59 封）、周五 10–12 点 2.1%（47 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 17 封（2024-07-17 → 2026-09-04），打开标签 3 次（近 12 个月 0，最后 2025-10-10）；打开过：「Commercial PoE Switch」×1（2025-07-07）、「24 Port Fiber Switch」×1（2025-09-09）、「10G Enterprise SFP Switch」×1（2025-10-10）；从未打开：「Mini Industrial PoE Switch」、「Marvell Industrial Alert System」、「Passive poe switch」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 121 / automation 6）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：10G 汇聚 / PoE；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$59.8 EXW）。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 17 条 URL；站内可见品牌 1 个（Ubiquiti）；社媒：https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fot-security-for-industrial-resilience&text=Operational+Technology+Security+Services%3A+A+Strategic+Framework+for+Industrial+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fot-security-for-industrial-resilience、https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fphysical-security-controls-for-industrial-facilities-a-strategic-guide-to-operational-resilience&text=Physical+Security+Controls+for+Industrial+Facilities%3A+A+Strategic+Guide+to+Operational+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fphysical-security-controls-for-industrial-facilities-a-strategic-guide-to-operational-resilience、https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fscada-network-security-assessment-a-strategic-reference-for-industrial-resilience&text=SCADA+Network+Security+Assessment%3A+A+Strategic+Reference+for+Industrial+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fscada-network-security-assessment-a-strategic-reference-for-industrial-resilience。
 - **写信的人（来信签名机械抽取）**：Amy Hoi (Ms)（amyhoi@bio-cognitive.com，2 封，2025-07-07 → 2025-07-07）。
+- **他们嘴里的词（2 封来信、去引用后 1,646 字符的词频）**：话题（次数，最近一次）：PoE ×2（2025-07-07）、CCTV / 安防 ×1（2025-07-07）、价格 / 折扣 ×1（2025-07-07）。
+- **渠道反应**：S 箱（Simon） 去 5（1:1 1 / 群发 4）回 0，从未回；A 箱（Alan） 去 16（1:1 3 / 群发 13）回 2，最近回 2025-07-07 → 只对 A 箱 Alan 有反应，下一封别换箱。
+- **最后一球**：1:1 对话 1 段，最长一段 5 封 / 跨 29 天（2025-07-07 → 2025-08-06，「RE: Commercial PoE Switch」）；最后一句是我们说的（2025-08-06，447 天前，「Re: Commercial PoE Switch」，`f66064b1b1e4e590`）→ 球在对方手里。
 - **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 农历新年（02-06/07） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

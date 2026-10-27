@@ -80,6 +80,9 @@ updated: 2026-10-27
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **写信的人（来信签名机械抽取）**：Antonio Alberto Guadron — Gerente General（gerencia@conexionderedes.com，2 封，2026-01-19 → 2026-01-20）。
+- **他们嘴里的词（2 封来信、去引用后 697 字符的词频）**：话题（次数，最近一次）：质保 / 售后 ×1（2026-01-20）。
+- **渠道反应**：S 箱（Simon） 去 6（1:1 0 / 群发 6）回 0，从未回；A 箱（Alan） 去 18（1:1 2 / 群发 16）回 2，最近回 2026-01-20 → 只对 A 箱 Alan 有反应，下一封别换箱。
+- **最后一球**：1:1 对话 1 段，最长一段 3 封 / 跨 1 天（2026-01-19 → 2026-01-20，「Re: OEM Core Switching Solution」）；**最后一句是他们说的**（2026-01-20，279 天前，「Re: OEM Core Switching Solution」，`d7fe7ed18432cbb9`）：「Dear Alan: Good day, Thank you for your support and for processing the information with the Data Center client…」。
 - **日历窗口**：我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

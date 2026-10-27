@@ -52,6 +52,40 @@ SUPPLIER_DOM = ('smartbyte', 'hrui', 'hohunet', 'sagatele', 'sagatelecom')
 OUR_DOMAINS = ('sagatelecom', 'sagatele.com')
 WEEKDAY_CN = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
 
+# ---- 「他们嘴里的词」词表（只数客户来信里未引用的正文） ----
+COMPETITORS = ['Planet', 'MikroTik', 'Ubiquiti', 'UniFi', 'TP-Link', 'Cisco', 'Moxa', 'Hikvision', 'Dahua', 'Zyxel', 'Netgear', 'D-Link', 'Huawei', 'H3C',
+               'Edgecore', 'Edge-core', 'FS.com', 'Aruba', 'Juniper', 'Ruijie', 'Tenda', 'Allied Telesis', 'Westermo', 'Hirschmann', 'Phoenix Contact',
+               'Antaira', 'Korenix', 'ORing', 'Teltonika', 'Mellanox', 'Arista', 'Fortinet', 'Grandstream', 'Lantech', 'Advantech', 'Siemens', 'Scalance',
+               'Extreme', 'ComNet', 'Barox', 'EtherWAN', 'Netonix', 'Ubiquity', 'Uniview', 'Axis', 'Milesight', 'Reyee', 'Omada', 'Meraki', 'Dell', 'HPE',
+               'SmartByte', 'HRUI', 'Centec', 'CENTEC', 'Marvell', 'Realtek', 'Broadcom']
+TOPIC_WORDS = {'PoE': r'\bpoe\b|\bpoe\+\+?|\b802\.3(?:af|at|bt)\b', '10G': r'\b10\s?g(?:b|be|bps|bit)?\b|sfp\+', '2.5G': r'\b2\.5\s?g(?:b|be|bps)?\b|multi-?gig',
+               '25G/40G/100G+': r'\b(?:25|40|100|400)\s?g(?:b|be|bps|e)?\b|qsfp', '工业': r'\bindustrial\b|din[- ]rail|\b-40\b|ip40|ip30|hardened',
+               '管理型 / L2+ / L3': r'\bmanaged\b|\bl2\+?\b|\bl3\b|layer ?[23]|\bvlan\b|\bsnmp\b|\bcli\b|\bospf\b|\bbgp\b|\bstack(?:ing|able)?\b',
+               '光纤 / 媒体转换': r'\bfib(?:er|re)\b|media converter|\bsfp\b(?!\+)|\bftth\b|\bgpon\b|\bepon\b', 'CCTV / 安防': r'\bcctv\b|\bcameras?\b|\bnvr\b|\bsurveillance\b',
+               '固件 / 软件': r'\bfirmware\b|\bweb ?ui\b|\bopenwrt\b|\bsonic\b|\bonie\b|\bapi\b|\bscript', '贴牌 / OEM': r'\boem\b|\bodm\b|private label|own brand|\blogo\b|white ?label|custom(?:ised|ized)',
+               '样品': r'\bsamples?\b|\bevaluation\b|\btrial\b|\bdemo\b', '价格 / 折扣': r'\bprices?\b|\bpricing\b|\bcheaper\b|\bdiscount\b|\bexpensive\b|\bbudget\b|\bcost\b',
+               'MOQ / 交期': r'\bmoq\b|lead ?time|\bdelivery\b|\bstock\b|\bin stock\b|\bavailability\b', '认证': r'\bul\b|\bndaa\b|\btaa\b|\bfcc\b|\bce\b|\brohs\b|\beac\b|\bukca\b|\bbis\b|\bpse\b|\brcm\b|\bkc\b|\biec ?6\d{4}\b|en ?50155',
+               '项目 / 招标': r'\bproject\b|\btender\b|\brfq\b|\brfp\b|\bbid\b|\bdeadline\b|\burgent\b|\basap\b', '质保 / 售后': r'\bwarranty\b|\brma\b|\bdefect|\bfail(?:ed|ure)?\b|\bsupport\b',
+               '付款 / 物流': r'\bpayment\b|\bt/t\b|\bpaypal\b|\bl/c\b|\bdap\b|\bddp\b|\bfob\b|\bexw\b|\bdhl\b|\bfedex\b|\bups\b|\bforwarder\b|\bshipping\b|\bfreight\b'}
+TOPIC_RE = {k: re.compile(v, re.I) for k, v in TOPIC_WORDS.items()}
+COMP_CANON = {x.lower(): x for x in COMPETITORS}
+COMP_CANON.update({'centec': 'CENTEC', 'edge-core': 'Edgecore', 'ubiquity': 'Ubiquiti'})
+CHIP_SUPPLIER = {'SmartByte', 'HRUI', 'CENTEC', 'Marvell', 'Realtek', 'Broadcom'}
+COMP_RE = re.compile(r'(?<![A-Za-z])(' + '|'.join(re.escape(x) for x in sorted(COMPETITORS, key=len, reverse=True)) + r')(?![A-Za-z])', re.I)
+QTY_RE = re.compile(r'(?<![\w.])(\d{1,3}(?:,\d{3})+|\d{1,5})\s*(?:pcs|pieces|pc|units?|sets|switches|nos\.?|k ?pcs)\b', re.I)
+QUOTE_CUT = re.compile(r'(?m)^(?:>|On .{5,120} wrote:|From: |Von: |De: |-----Original Message-----|-{3,} ?Forwarded|Sent from my|Am .{5,80} schrieb|Le .{5,80} a écrit|El .{5,80} escribió|\d{4}-\d{2}-\d{2} \d{2}:\d{2}).*$')
+
+
+OOO_RE = re.compile(r'out of (?:the )?office|fuori sede|abwesen|absence|on vacation|annual leave|on leave|ofis dışında|не в офисе|в отпуске|auto-?reply|automatic reply|automatische antwort|réponse automatique|respuesta automática'
+                    r'|grazie per averci contattato|thank you for contacting|thanks for contacting|we have received your (?:e-?mail|message|request|inquiry)|this is an automated|do not reply to this|your (?:request|ticket|message) has been received|ticket (?:number|id|#)|wir haben ihre (?:e-?mail|nachricht|anfrage) erhalten|merci de nous avoir contact|hemos recibido su', re.I)
+
+
+def unquoted(text):
+    """去掉引用的历史邮件（> 开头、On … wrote:、From: 之后），只留对方自己写的那段。"""
+    m = QUOTE_CUT.search(text or '')
+    t = text[:m.start()] if m else (text or '')
+    return t.strip()
+
 # 国家 → 标准时区偏移（小时，不算夏令时；美国/加拿大按东部，俄罗斯按莫斯科，澳大利亚按悉尼）
 TZ = {'US': -5, 'CA': -5, 'MX': -6, 'BR': -3, 'AR': -3, 'CL': -4, 'CO': -5, 'PE': -5, 'EC': -5, 'UY': -3, 'PA': -5, 'CR': -6, 'GT': -6, 'DO': -4, 'PR': -4,
       'GB': 0, 'IE': 0, 'PT': 0, 'IS': 0, 'ES': 1, 'FR': 1, 'DE': 1, 'NL': 1, 'BE': 1, 'LU': 1, 'IT': 1, 'CH': 1, 'AT': 1, 'PL': 1, 'CZ': 1, 'SK': 1,
@@ -606,6 +640,87 @@ def main():
             d['people'] = [{'email': p['email'], 'name': (p['names'].most_common(1) or [('', 0)])[0][0], 'title': re.sub(r'[*|\xa0]+', ' ', (p['titles'].most_common(1) or [('', 0)])[0][0]).strip(' .'),
                             'n': p['n'], 'first': p['first'], 'last': p['last'], 'mb': ''.join(sorted(p['mb']))}
                            for p in sorted(people.values(), key=lambda x: (-x['n'], x['last']))[:5]]
+        # 7b. 他们嘴里的词（来信未引用正文词频 / 同行品牌 / 数量 / 认证）
+        own_texts = [(m, unquoted(m['text'])) for m in hin if m['text']]
+        if own_texts:
+            topics = Counter()
+            topic_last = {}
+            comps = Counter()
+            comp_last = {}
+            qtys = []
+            for m, t in own_texts:
+                low = t
+                for k, rx in TOPIC_RE.items():
+                    n = len(rx.findall(low))
+                    if n:
+                        topics[k] += n
+                        topic_last[k] = m['dt'].date().isoformat()
+                for cm in COMP_RE.findall(low):
+                    key = COMP_CANON.get(cm.lower(), cm)
+                    comps[key] += 1
+                    comp_last[key] = m['dt'].date().isoformat()
+                for qm in QTY_RE.finditer(low):
+                    try:
+                        q = int(qm.group(1).replace(',', ''))
+                    except ValueError:
+                        continue
+                    if 2 <= q <= 100000:
+                        ctx = re.sub(r'\s+', ' ', low[max(0, qm.start() - 40):qm.end() + 20]).strip()
+                        qtys.append({'q': q, 'date': m['dt'].date().isoformat(), 'ctx': ctx[:80], 'k': m['k']})
+            qtys = sorted(qtys, key=lambda x: (-x['q'], x['date']))
+            seen_q = set()
+            q_top = []
+            for q in qtys:
+                if q['q'] in seen_q:
+                    continue
+                seen_q.add(q['q'])
+                q_top.append(q)
+                if len(q_top) >= 3:
+                    break
+            words = {'n_mails': len(own_texts), 'chars': sum(len(t) for _, t in own_texts),
+                     'topics': [(k, n, topic_last[k]) for k, n in topics.most_common(6)],
+                     'competitors': [(k, n, comp_last[k]) for k, n in comps.most_common() if k not in CHIP_SUPPLIER][:5],
+                     'chips': [(k, n, comp_last[k]) for k, n in comps.most_common() if k in CHIP_SUPPLIER][:4],
+                     'qty': q_top}
+            if words['topics'] or words['competitors'] or words['qty']:
+                d['words'] = words
+        # 7c. 渠道反应（S / A 箱各自去几封、回几封）
+        ch = {}
+        for mb in ('S', 'A'):
+            out_all = [m for m in ms if m['mb'] == mb and m['dir'] == 'out']
+            if not out_all and not [m for m in hin if m['mb'] == mb]:
+                continue
+            ch[mb] = {'out': len(out_all), 'mass': sum(1 for m in out_all if m['mass']), 'one': sum(1 for m in out_all if not m['mass']),
+                      'in': sum(1 for m in hin if m['mb'] == mb), 'last_out': max((m['dt'].date().isoformat() for m in out_all), default=None),
+                      'last_in': max((m['dt'].date().isoformat() for m in hin if m['mb'] == mb), default=None)}
+        if len(ch) >= 2 and any(v['in'] for v in ch.values()):
+            d['channels'] = ch
+        # 7d. 最后一球（线程级：最长一段对话、最后一句是谁说的）
+        thr_map = defaultdict(list)
+        real_in = {m['k'] for m in hin if not OOO_RE.search(unquoted(m['text'])[:400])}   # 去掉正文是自动回复 / 休假的
+        for m in ms:
+            if m['thr'] and (m['k'] in real_in or (m['dir'] == 'out' and not m['mass'])):
+                thr_map[m['thr']].append(m)
+        convs = [v for v in thr_map.values() if len(v) >= 2 and any(x['k'] in real_in for x in v)]
+        if convs:
+            longest = max(convs, key=lambda v: (len(v), v[-1]['dt']))
+            cands = [m for m in ms if m['k'] in real_in or (m['dir'] == 'out' and not m['mass'])]
+            lastm = max(cands, key=lambda m: m['dt'])
+            snippet = ''
+            questions = []
+            if lastm['k'] in real_in:
+                body = re.sub(r'\s+', ' ', re.sub(r'\[cid:[^\]]*\]', '', unquoted(lastm['text'])))
+                snippet = body[:110]
+                for sent in re.split(r'(?<=[.?!])\s+', body):
+                    sent = sent.strip()
+                    if sent.endswith('?') and 12 <= len(sent) <= 160:
+                        questions.append(sent)
+                    if len(questions) >= 2:
+                        break
+            d['ball'] = {'threads': len(convs), 'longest_n': len(longest), 'longest_days': (longest[-1]['dt'] - longest[0]['dt']).days,
+                         'longest_first': longest[0]['dt'].date().isoformat(), 'longest_last': longest[-1]['dt'].date().isoformat(), 'longest_subj': (longest[0]['subj'] or '')[:50],
+                         'last_dir': 'in' if lastm['k'] in real_in else 'out', 'last_date': lastm['dt'].date().isoformat(), 'last_subj': (lastm['subj'] or '')[:50], 'last_k': lastm['k'],
+                         'last_snippet': snippet, 'last_questions': questions, 'days_since': (datetime.now(timezone.utc) - lastm['dt']).days}
         # 8. GitHub
         g = ghp.get(c)
         if g and g.get('accounts'):                             # 只用账号命中；repos_mentioning 多为同名词噪音，留在 github_presence.json 里不上 MD

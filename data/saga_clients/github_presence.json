@@ -1266,5 +1266,686 @@
    }
   ],
   "checked_at": "2026-10-27T04:00:48Z"
+ },
+ "SA-084": {
+  "domain": "eds.com.tr",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "nitinupreti/eds-commerce-training",
+    "url": "https://github.com/nitinupreti/eds-commerce-training",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-11-20T15:49:30Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "mannukadobe/eds-commerce-training",
+    "url": "https://github.com/mannukadobe/eds-commerce-training",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-09-09T09:15:25Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:00:57Z"
+ },
+ "SA-085": {
+  "domain": "hescs.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:01:08Z"
+ },
+ "SA-086": {
+  "domain": "netas.com.tr",
+  "accounts": [
+   {
+    "login": "Netas",
+    "type": "User",
+    "url": "https://github.com/Netas",
+    "name": null,
+    "blog": "",
+    "email": "linas@netas.eu",
+    "company": "Netas.eu",
+    "public_repos": 0,
+    "created_at": "2013-07-16T17:14:09Z",
+    "updated_at": "2016-02-27T10:07:19Z",
+    "bio": "",
+    "match": "company"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "sercan5534/GioDH",
+    "url": "https://github.com/sercan5534/GioDH",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2016-09-01T07:57:43Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "rasimavci/sdk-test",
+    "url": "https://github.com/rasimavci/sdk-test",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2020-06-08T11:06:04Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:01:20Z"
+ },
+ "SA-087": {
+  "domain": "norelcosafecam.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:01:34Z"
+ },
+ "SA-088": {
+  "domain": "ute.de",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Group5-ute-dev-connect/ute-dev-connect",
+    "url": "https://github.com/Group5-ute-dev-connect/ute-dev-connect",
+    "desc": "Đề tài: Xây dựng mạng xã hội dành cho sinh viên HCMUTE đam mê lập trình sử dụng NodeJS, ExpressJS, ReactJS, MongoDB/Mong",
+    "stars": 1,
+    "pushed_at": "2026-07-01T17:09:57Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "Group5-ute-dev-connect/ute-dev-connect-client",
+    "url": "https://github.com/Group5-ute-dev-connect/ute-dev-connect-client",
+    "desc": "Đề tài: Xây dựng mạng xã hội dành cho sinh viên HCMUTE đam mê lập trình sử dụng NodeJS, ExpressJS, ReactJS, MongoDB/Mong",
+    "stars": 0,
+    "pushed_at": "2026-07-01T17:10:14Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "GabrielPereiraUy/UTEC-DevOpsMar2022",
+    "url": "https://github.com/GabrielPereiraUy/UTEC-DevOpsMar2022",
+    "desc": "Repositorio para el curso DevOps Marzo 2022 FB",
+    "stars": 0,
+    "pushed_at": "2022-03-19T16:16:30Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "REDxEYE/UTextureDecoder",
+    "url": "https://github.com/REDxEYE/UTextureDecoder",
+    "desc": "UE4 Texture2D decoder that can unpack virual textures",
+    "stars": 3,
+    "pushed_at": "2023-02-28T10:20:39Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "zx490336534/UTest_device_manage",
+    "url": "https://github.com/zx490336534/UTest_device_manage",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2022-12-08T06:59:45Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:01:44Z"
+ },
+ "SA-089": {
+  "domain": "lancomat.cz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:01:57Z"
+ },
+ "SA-090": {
+  "domain": "live.com.my",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "KYKong1997/MovieRecommender",
+    "url": "https://github.com/KYKong1997/MovieRecommender",
+    "desc": "",
+    "stars": 2,
+    "pushed_at": "2023-01-05T19:38:23Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Marcus1113/Marcus1113",
+    "url": "https://github.com/Marcus1113/Marcus1113",
+    "desc": "Config files for my GitHub profile.",
+    "stars": 0,
+    "pushed_at": "2022-01-24T14:46:46Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "A-Liew/A-Liew",
+    "url": "https://github.com/A-Liew/A-Liew",
+    "desc": "Config files for my GitHub profile.",
+    "stars": 0,
+    "pushed_at": "2022-03-11T15:00:51Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "eric1111208/Project-history",
+    "url": "https://github.com/eric1111208/Project-history",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-08-03T11:29:54Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "syafiqhadzir/anki-ctfl-v4.0",
+    "url": "https://github.com/syafiqhadzir/anki-ctfl-v4.0",
+    "desc": "The ISTQB® Certified Tester Foundation Level 4.0 (CTFL 4.0) aims to empower testers to become key players in agile trans",
+    "stars": 0,
+    "pushed_at": "2024-11-25T05:23:44Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:02:09Z"
+ },
+ "SB-002": {
+  "domain": "xspectechnology.com",
+  "accounts": [
+   {
+    "login": "xspec",
+    "type": "Organization",
+    "url": "https://github.com/xspec",
+    "name": "XSpec",
+    "blog": "https://github.com/xspec/xspec",
+    "email": null,
+    "company": null,
+    "public_repos": 7,
+    "created_at": "2015-06-08T15:43:55Z",
+    "updated_at": "2026-10-07T13:48:23Z",
+    "bio": "Unit Test and Behaviour Driven Development (BDD) Framework for XSLT, XQuery, and Schematron",
+    "match": "name",
+    "repos": [
+     {
+      "name": "xspec",
+      "pushed_at": "2026-10-26T11:42:04Z",
+      "lang": "HTML",
+      "desc": "XSpec is a unit test and behaviour-driven development (BDD) framework for XSLT, XQuery, Schematron, and XProc.",
+      "fork": true
+     },
+     {
+      "name": "oXygen-XML-editor-xspec-support",
+      "pushed_at": "2026-10-20T10:11:10Z",
+      "lang": "HTML",
+      "desc": "An oxygen XML Editor plugin intended to help those that create XSpec scenarios.",
+      "fork": false
+     },
+     {
+      "name": "xspec.github.io",
+      "pushed_at": "2026-09-22T11:41:22Z",
+      "lang": "HTML",
+      "desc": "XSpec Website",
+      "fork": false
+     },
+     {
+      "name": "xspec-gradle-template",
+      "pushed_at": "2026-08-17T19:21:57Z",
+      "lang": "Batchfile",
+      "desc": "Template for running XSpec tests with Gradle",
+      "fork": false
+     },
+     {
+      "name": "xspec-maven-plugin-1",
+      "pushed_at": "2026-03-27T22:26:00Z",
+      "lang": "Java",
+      "desc": "XSpec Maven Plugin",
+      "fork": false
+     },
+     {
+      "name": "docker",
+      "pushed_at": "2022-04-07T12:34:17Z",
+      "lang": null,
+      "desc": "Docker image of XSpec",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:02:18Z"
+ },
+ "SB-003": {
+  "domain": "rio-krsk.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:02:33Z"
+ },
+ "SB-004": {
+  "domain": "fhn-na.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:02:45Z"
+ },
+ "SB-005": {
+  "domain": "rovez.sk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:02:56Z"
+ },
+ "SB-006": {
+  "domain": "unitedcontrolengg.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:03:10Z"
+ },
+ "SB-007": {
+  "domain": "germany24.com.ua",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:03:24Z"
+ },
+ "SB-009": {
+  "domain": "sicurmax.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:03:35Z"
+ },
+ "SB-010": {
+  "domain": "americanfibertek.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:03:48Z"
+ },
+ "SB-011": {
+  "domain": "greentechme.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:04:01Z"
+ },
+ "SB-012": {
+  "domain": "xcam.cz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:04:12Z"
+ },
+ "SB-013": {
+  "domain": "synchcom.com.pk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:04:20Z"
+ },
+ "SB-014": {
+  "domain": "intecseg.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:04:31Z"
+ },
+ "SB-015": {
+  "domain": "suministros-industriales.es",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:04:41Z"
+ },
+ "SB-017": {
+  "domain": "securitytec.co.uk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:04:52Z"
+ },
+ "SB-018": {
+  "domain": "smart-protect.nrw",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:05:03Z"
+ },
+ "SB-019": {
+  "domain": "aetektec.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:05:19Z"
+ },
+ "SB-020": {
+  "domain": "52networks.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:05:30Z"
+ },
+ "SB-021": {
+  "domain": "looptelecom.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:05:40Z"
+ },
+ "SB-022": {
+  "domain": "desk-sicherheit.de",
+  "accounts": [
+   {
+    "login": "Desk-Technologies",
+    "type": "Organization",
+    "url": "https://github.com/Desk-Technologies",
+    "name": "Desk Technologies",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2024-10-03T17:39:16Z",
+    "updated_at": "2024-11-12T22:13:26Z",
+    "bio": "",
+    "match": "name"
+   },
+   {
+    "login": "DESK-SICHERHEIT-GmbH",
+    "type": "Organization",
+    "url": "https://github.com/DESK-SICHERHEIT-GmbH",
+    "name": "DESK SICHERHEIT GMBH",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2024-01-04T16:07:59Z",
+    "updated_at": "2026-03-02T10:39:13Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:05:51Z"
+ },
+ "SB-023": {
+  "domain": "itk.co.th",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:06:06Z"
+ },
+ "SB-024": {
+  "domain": "erstech.hu",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:06:14Z"
+ },
+ "SB-025": {
+  "domain": "sipe-corse.fr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:06:23Z"
+ },
+ "SB-026": {
+  "domain": "safe-tech.se",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:06:34Z"
+ },
+ "SB-027": {
+  "domain": "voipdistri.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:06:46Z"
+ },
+ "SB-028": {
+  "domain": "fibotelecom.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:06:54Z"
+ },
+ "SB-029": {
+  "domain": "etradingkorea.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:07:05Z"
+ },
+ "SB-030": {
+  "domain": "medias-coms.ch",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:07:13Z"
+ },
+ "SB-031": {
+  "domain": "om-telecom.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:07:24Z"
+ },
+ "SB-032": {
+  "domain": "piolink.com",
+  "accounts": [
+   {
+    "login": "piolink",
+    "type": "Organization",
+    "url": "https://github.com/piolink",
+    "name": "PIOLINK",
+    "blog": "http://www.piolink.com",
+    "email": null,
+    "company": null,
+    "public_repos": 6,
+    "created_at": "2015-04-13T10:19:42Z",
+    "updated_at": "2020-01-26T22:19:42Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "docusaurus-plugin-papersaurus",
+      "pushed_at": "2025-12-24T10:13:03Z",
+      "lang": "JavaScript",
+      "desc": "fork of docusaurus plugin papersaurus to generate pdf files",
+      "fork": true
+     },
+     {
+      "name": "ansible_collection_pask",
+      "pushed_at": "2025-02-20T09:27:36Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "nhn_ids_mirror",
+      "pushed_at": "2022-11-04T05:44:44Z",
+      "lang": "HCL",
+      "desc": "NHN클라우드에서 VPC내부 IDS 미러링 구성 테라폼 자동화",
+      "fork": false
+     },
+     {
+      "name": "alb_active_standby",
+      "pushed_at": "2021-05-24T06:09:00Z",
+      "lang": "Python",
+      "desc": "AWS Serverlesss Implementation for supporting of AWS ALB Active Standby ",
+      "fork": false
+     },
+     {
+      "name": "ansible_collection_webfrontk",
+      "pushed_at": "2019-12-06T04:24:41Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "piolink-ansible",
+      "pushed_at": "2018-12-13T02:28:17Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "hs-choi0426/max31760-linux-v3.18-backport",
+    "url": "https://github.com/hs-choi0426/max31760-linux-v3.18-backport",
+    "desc": "Port of the MAX31760 HWMON driver from a modern Linux kernel (v6.x) to the legacy v3.18.24 kernel.",
+    "stars": 0,
+    "pushed_at": "2025-07-19T10:29:54Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "hwan1193/corp-security-toolkit",
+    "url": "https://github.com/hwan1193/corp-security-toolkit",
+    "desc": "윈도우 기반 보안 점검/사고 대응 + 웹(RSC) 취약점 패치 검증까지 정리한 실무용 플레이북",
+    "stars": 0,
+    "pushed_at": "2026-01-08T05:31:55Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:07:37Z"
+ },
+ "SB-033": {
+  "domain": "marvelitcs.com",
+  "accounts": [
+   {
+    "login": "Marvels-IT-Solutions",
+    "type": "Organization",
+    "url": "https://github.com/Marvels-IT-Solutions",
+    "name": "Marvel IT Solutions",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2021-05-08T11:29:58Z",
+    "updated_at": "2021-07-28T04:06:22Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:07:46Z"
+ },
+ "SB-034": {
+  "domain": "tj2003.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:08:00Z"
+ },
+ "SB-035": {
+  "domain": "nano.bt",
+  "accounts": [
+   {
+    "login": "thimphutpl",
+    "type": "Organization",
+    "url": "https://github.com/thimphutpl",
+    "name": "Thimphu TechPark Limited",
+    "blog": "https://www.thimphutechpark.bt",
+    "email": null,
+    "company": null,
+    "public_repos": 38,
+    "created_at": "2019-12-13T11:07:24Z",
+    "updated_at": "2020-05-11T17:45:39Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "hrms-v16",
+      "pushed_at": "2026-10-26T13:44:46Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "rub-erpnext",
+      "pushed_at": "2026-10-26T09:09:54Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "erpnext-V15",
+      "pushed_at": "2026-10-26T07:48:12Z",
+      "lang": null,
+      "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "fork": true
+     },
+     {
+      "name": "hrms-V15",
+      "pushed_at": "2026-10-26T06:31:00Z",
+      "lang": null,
+      "desc": "Open Source HR and Payroll Software",
+      "fork": true
+     },
+     {
+      "name": "rub-education",
+      "pushed_at": "2026-10-26T06:02:11Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "rub-hrms",
+      "pushed_at": "2026-10-26T04:57:18Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "Merquice/NanoBtFix",
+    "url": "https://github.com/Merquice/NanoBtFix",
+    "desc": "NanoBtFix provides a resolution for connection, but lack of sound on the iPod Nano 7th Generation with Airpod Pro 2's, A",
+    "stars": 9,
+    "pushed_at": "2026-09-24T03:20:40Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "sirjeannot/GamecubeBT",
+    "url": "https://github.com/sirjeannot/GamecubeBT",
+    "desc": "Dongle to connect a bluetooth PS3 controller to the Gamecube 🎮",
+    "stars": 31,
+    "pushed_at": "2023-03-14T13:00:17Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "fduai4s/NanoBTE-status",
+    "url": "https://github.com/fduai4s/NanoBTE-status",
+    "desc": "NanoBTE-status",
+    "stars": 0,
+    "pushed_at": "2026-07-27T10:01:26Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "botir2/Bluetooth-Practice-Python",
+    "url": "https://github.com/botir2/Bluetooth-Practice-Python",
+    "desc": "arduino nano Bt HC -06 and raspberry pi",
+    "stars": 1,
+    "pushed_at": "2019-07-08T14:49:59Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "roboticarg/futbolRobot",
+    "url": "https://github.com/roboticarg/futbolRobot",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2021-12-17T18:21:34Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:08:13Z"
+ },
+ "SB-036": {
+  "domain": "inthouse.eu",
+  "accounts": [
+   {
+    "login": "inthouse",
+    "type": "Organization",
+    "url": "https://github.com/inthouse",
+    "name": "Inthouse",
+    "blog": "",
+    "email": "info@inthouse.co",
+    "company": null,
+    "public_repos": 2,
+    "created_at": "2022-09-23T14:46:26Z",
+    "updated_at": "2026-01-02T14:36:11Z",
+    "bio": "where ideas came true",
+    "match": "name",
+    "repos": [
+     {
+      "name": "Office-Add-in-samples",
+      "pushed_at": "2024-10-25T05:59:36Z",
+      "lang": null,
+      "desc": "Code samples for Office Add-in development on the Microsoft 365 platform.",
+      "fork": true
+     },
+     {
+      "name": "InthouseCRM-CreateEntity",
+      "pushed_at": "2022-10-15T00:34:55Z",
+      "lang": null,
+      "desc": "Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:08:23Z"
  }
 }

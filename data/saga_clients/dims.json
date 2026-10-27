@@ -206,6 +206,103 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 11,
+   "chars": 12893,
+   "topics": [
+    [
+     "光纤 / 媒体转换",
+     37,
+     "2025-11-27"
+    ],
+    [
+     "10G",
+     20,
+     "2025-11-27"
+    ],
+    [
+     "价格 / 折扣",
+     15,
+     "2025-11-27"
+    ],
+    [
+     "付款 / 物流",
+     15,
+     "2025-12-01"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     14,
+     "2025-11-27"
+    ],
+    [
+     "工业",
+     13,
+     "2025-11-27"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     13,
+     "2025-11-27"
+    ]
+   ],
+   "qty": [
+    {
+     "q": 1000,
+     "date": "2025-11-24",
+     "ctx": "to quote. IF accepted- they may take 1000 pcs. Steps: 1. Specs",
+     "k": "4aabcfb3fec906ec"
+    },
+    {
+     "q": 4,
+     "date": "2025-11-27",
+     "ctx": "this model including Meanwell PSU.Total 4 pcs of MC and 4 PSU.Pls",
+     "k": "7e2d1f9604767feb"
+    },
+    {
+     "q": 2,
+     "date": "2025-11-27",
+     "ctx": "Yes this is the right model.Pls include 2 pcs of this model inclu",
+     "k": "7e2d1f9604767feb"
+    }
+   ]
+  },
+  "channels": {
+   "S": {
+    "out": 22,
+    "mass": 14,
+    "one": 8,
+    "in": 5,
+    "last_out": "2025-11-27",
+    "last_in": "2025-12-01"
+   },
+   "A": {
+    "out": 16,
+    "mass": 9,
+    "one": 7,
+    "in": 6,
+    "last_out": "2025-12-01",
+    "last_in": "2025-12-01"
+   }
+  },
+  "ball": {
+   "threads": 4,
+   "longest_n": 13,
+   "longest_days": 39,
+   "longest_first": "2025-10-22",
+   "longest_last": "2025-12-01",
+   "longest_subj": "RE: 10G Enterprise SFP Switch",
+   "last_dir": "out",
+   "last_date": "2025-12-01",
+   "last_subj": "Re: FW: 10G Enterprise SFP Switch",
+   "last_k": "65729c2384f57e35",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 329
+  },
   "calendar": {
    "holidays": [
     [
@@ -466,6 +563,66 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 5,
+   "chars": 2866,
+   "topics": [
+    [
+     "价格 / 折扣",
+     5,
+     "2026-07-20"
+    ],
+    [
+     "PoE",
+     4,
+     "2026-07-20"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     3,
+     "2024-12-12"
+    ],
+    [
+     "固件 / 软件",
+     3,
+     "2026-07-20"
+    ],
+    [
+     "贴牌 / OEM",
+     2,
+     "2026-07-20"
+    ],
+    [
+     "工业",
+     1,
+     "2026-07-20"
+    ]
+   ],
+   "competitors": [
+    [
+     "MikroTik",
+     2,
+     "2026-07-20"
+    ]
+   ],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 12,
+   "longest_days": 65,
+   "longest_first": "2024-12-04",
+   "longest_last": "2025-02-07",
+   "longest_subj": "RE: Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2026-07-21",
+   "last_subj": "Re: 24 Port 10G SFP+ Switch",
+   "last_k": "06610cfbde4173c3",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 97
+  },
   "calendar": {
    "holidays": [
     [
@@ -885,6 +1042,21 @@
     "mb": "S"
    }
   ],
+  "ball": {
+   "threads": 2,
+   "longest_n": 19,
+   "longest_days": 20,
+   "longest_first": "2024-11-13",
+   "longest_last": "2024-12-03",
+   "longest_subj": "Re: 10G Media Converter",
+   "last_dir": "out",
+   "last_date": "2026-02-03",
+   "last_subj": "24 Port Ethernet Switch",
+   "last_k": "b1d980459779e683",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 265
+  },
   "calendar": {
    "holidays": [
     [
@@ -1031,6 +1203,60 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 17,
+   "chars": 4930,
+   "topics": [
+    [
+     "PoE",
+     8,
+     "2026-03-19"
+    ],
+    [
+     "CCTV / 安防",
+     4,
+     "2026-03-19"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     3,
+     "2025-11-23"
+    ],
+    [
+     "付款 / 物流",
+     3,
+     "2025-08-22"
+    ],
+    [
+     "价格 / 折扣",
+     2,
+     "2025-08-22"
+    ],
+    [
+     "质保 / 售后",
+     2,
+     "2025-06-11"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 39,
+   "longest_days": 343,
+   "longest_first": "2025-06-10",
+   "longest_last": "2026-05-20",
+   "longest_subj": "Re: 90W PoE Managed Switch",
+   "last_dir": "out",
+   "last_date": "2026-08-26",
+   "last_subj": "Saga Marvell AC5 Series",
+   "last_k": "ca0722a4a04a665b",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 61
+  },
   "calendar": {
    "holidays": [
     [
@@ -1279,6 +1505,111 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 44,
+   "chars": 45303,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     44,
+     "2026-10-15"
+    ],
+    [
+     "10G",
+     37,
+     "2025-10-23"
+    ],
+    [
+     "光纤 / 媒体转换",
+     21,
+     "2025-10-23"
+    ],
+    [
+     "价格 / 折扣",
+     17,
+     "2026-09-29"
+    ],
+    [
+     "质保 / 售后",
+     17,
+     "2025-12-10"
+    ],
+    [
+     "贴牌 / OEM",
+     14,
+     "2025-12-10"
+    ]
+   ],
+   "competitors": [
+    [
+     "D-Link",
+     2,
+     "2025-03-26"
+    ],
+    [
+     "Juniper",
+     2,
+     "2025-03-25"
+    ]
+   ],
+   "chips": [
+    [
+     "SmartByte",
+     21,
+     "2026-10-15"
+    ],
+    [
+     "Marvell",
+     6,
+     "2025-10-23"
+    ],
+    [
+     "CENTEC",
+     3,
+     "2026-01-20"
+    ],
+    [
+     "Broadcom",
+     2,
+     "2025-10-23"
+    ]
+   ],
+   "qty": [
+    {
+     "q": 2000,
+     "date": "2025-10-21",
+     "ctx": "d: initial order 1000 units, after that 2000 units per year. It needs",
+     "k": "61065505a331e5fd"
+    },
+    {
+     "q": 1000,
+     "date": "2025-10-21",
+     "ctx": "ontinuous demand. Demand: initial order 1000 units, after that 2000 un",
+     "k": "61065505a331e5fd"
+    },
+    {
+     "q": 500,
+     "date": "2024-12-12",
+     "ctx": "at about the pricing (assuming a 100 to 500 units order)? Is the fixe",
+     "k": "8955dbc10895a87f"
+    }
+   ]
+  },
+  "ball": {
+   "threads": 4,
+   "longest_n": 40,
+   "longest_days": 284,
+   "longest_first": "2025-09-10",
+   "longest_last": "2026-06-22",
+   "longest_subj": "RE: Marvell Alleycat5 Solution",
+   "last_dir": "out",
+   "last_date": "2026-10-17",
+   "last_subj": "Re: Saga Marvell AC5 Series Fully Ready",
+   "last_k": "95b7153bc20857f6",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 9
+  },
   "calendar": {
    "holidays": [
     [
@@ -1530,6 +1861,90 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 3,
+   "chars": 1722,
+   "topics": [
+    [
+     "PoE",
+     3,
+     "2025-05-26"
+    ],
+    [
+     "光纤 / 媒体转换",
+     3,
+     "2025-05-26"
+    ],
+    [
+     "价格 / 折扣",
+     3,
+     "2025-03-04"
+    ],
+    [
+     "工业",
+     2,
+     "2025-03-04"
+    ],
+    [
+     "贴牌 / OEM",
+     2,
+     "2025-05-26"
+    ],
+    [
+     "质保 / 售后",
+     2,
+     "2025-05-26"
+    ]
+   ],
+   "competitors": [
+    [
+     "Antaira",
+     1,
+     "2025-02-21"
+    ]
+   ],
+   "chips": [
+    [
+     "Marvell",
+     3,
+     "2025-05-26"
+    ]
+   ],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 7,
+    "mass": 7,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-06",
+    "last_in": null
+   },
+   "A": {
+    "out": 28,
+    "mass": 24,
+    "one": 4,
+    "in": 3,
+    "last_out": "2026-09-23",
+    "last_in": "2025-05-26"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 5,
+   "longest_days": 45,
+   "longest_first": "2025-02-21",
+   "longest_last": "2025-04-07",
+   "longest_subj": "RE: 16 Port Ethernet Switch",
+   "last_dir": "out",
+   "last_date": "2025-05-26",
+   "last_subj": "Re: Managed Optical Bypass Switch",
+   "last_k": "6b7ea5b03a91b1ef",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 518
+  },
   "calendar": {
    "holidays": [
     [
@@ -1745,6 +2160,21 @@
     "mb": "S"
    }
   ],
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 79,
+   "longest_first": "2024-05-30",
+   "longest_last": "2024-08-18",
+   "longest_subj": "Re: 10g media converter",
+   "last_dir": "out",
+   "last_date": "2024-08-18",
+   "last_subj": "Re: 10g media converter",
+   "last_k": "7d86d6aa1f2f7b98",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 799
+  },
   "calendar": {
    "holidays": [
     [
@@ -2053,6 +2483,40 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 498,
+   "topics": [
+    [
+     "PoE",
+     2,
+     "2024-08-15"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2024-08-15"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 4,
+   "longest_first": "2024-08-15",
+   "longest_last": "2024-08-20",
+   "longest_subj": "RE: 2.5G network switch",
+   "last_dir": "out",
+   "last_date": "2025-12-29",
+   "last_subj": "24 Port Ethernet Switch",
+   "last_k": "3d954560642f8fa0",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 302
+  },
   "calendar": {
    "holidays": [
     [
@@ -2422,6 +2886,78 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 3,
+   "chars": 13376,
+   "topics": [
+    [
+     "PoE",
+     16,
+     "2025-12-01"
+    ],
+    [
+     "10G",
+     10,
+     "2025-01-16"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     5,
+     "2025-01-16"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2025-12-01"
+    ],
+    [
+     "MOQ / 交期",
+     1,
+     "2025-12-01"
+    ],
+    [
+     "认证",
+     1,
+     "2025-12-01"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 21,
+    "mass": 17,
+    "one": 4,
+    "in": 3,
+    "last_out": "2026-09-08",
+    "last_in": "2025-12-01"
+   },
+   "A": {
+    "out": 1,
+    "mass": 1,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-03-19",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 4,
+   "longest_days": 0,
+   "longest_first": "2025-12-01",
+   "longest_last": "2025-12-02",
+   "longest_subj": "Price and lead time",
+   "last_dir": "out",
+   "last_date": "2025-12-02",
+   "last_subj": "Re: Price and lead time",
+   "last_k": "c006113d9ba7a08c",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 328
+  },
   "calendar": {
    "holidays": [
     [
@@ -2706,6 +3242,71 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 2084,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2024-06-03"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2024-06-03"
+    ]
+   ],
+   "competitors": [
+    [
+     "Cisco",
+     1,
+     "2024-06-03"
+    ]
+   ],
+   "chips": [],
+   "qty": [
+    {
+     "q": 3,
+     "date": "2024-06-03",
+     "ctx": "e number of cisco 52 port gigabit layer 3 switches that cost me $124 e",
+     "k": "f38bda5c25315e89"
+    }
+   ]
+  },
+  "channels": {
+   "S": {
+    "out": 6,
+    "mass": 3,
+    "one": 3,
+    "in": 2,
+    "last_out": "2024-12-25",
+    "last_in": "2024-10-24"
+   },
+   "A": {
+    "out": 20,
+    "mass": 20,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-28",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 3,
+   "longest_days": 33,
+   "longest_first": "2024-10-24",
+   "longest_last": "2024-11-27",
+   "longest_subj": "Re: 24V/48V PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-11-27",
+   "last_subj": "Re: 24V/48V PoE Switch",
+   "last_k": "ee9a11502486a3a9",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 698
+  },
   "github": {
    "accounts": [
     {
@@ -3070,6 +3671,58 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 92,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2025-07-10"
+    ],
+    [
+     "光纤 / 媒体转换",
+     1,
+     "2025-07-10"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 6,
+    "mass": 6,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-10-08",
+    "last_in": null
+   },
+   "A": {
+    "out": 15,
+    "mass": 14,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-07-10"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2025-07-10",
+   "longest_last": "2025-07-11",
+   "longest_subj": "AW: 16 Port Ethernet Switch",
+   "last_dir": "out",
+   "last_date": "2025-07-11",
+   "last_subj": "Re: 16 Port Ethernet Switch",
+   "last_k": "c330cf97fe35378f",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 472
+  },
   "calendar": {
    "holidays": [
     [
@@ -3221,6 +3874,53 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 400,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2025-01-30"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 6,
+    "mass": 5,
+    "one": 1,
+    "in": 0,
+    "last_out": "2024-11-22",
+    "last_in": null
+   },
+   "A": {
+    "out": 14,
+    "mass": 11,
+    "one": 3,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-01-30"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 81,
+   "longest_first": "2025-01-30",
+   "longest_last": "2025-04-21",
+   "longest_subj": "Re: 90W PoE Managed Switch",
+   "last_dir": "out",
+   "last_date": "2025-04-21",
+   "last_subj": "Re: 90W PoE Managed Switch",
+   "last_k": "485321eaadeeef3d",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 553
+  },
   "calendar": {
    "holidays": [
     [
@@ -3432,6 +4132,50 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1071,
+   "topics": [
+    [
+     "质保 / 售后",
+     2,
+     "2024-10-29"
+    ],
+    [
+     "PoE",
+     1,
+     "2024-10-29"
+    ],
+    [
+     "工业",
+     1,
+     "2024-10-29"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2024-10-29"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 16,
+   "longest_first": "2024-10-29",
+   "longest_last": "2024-11-15",
+   "longest_subj": "Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-11-15",
+   "last_subj": "Re: Industrial PoE Switch",
+   "last_k": "82ec8ef142cfcb49",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 710
+  },
   "calendar": {
    "holidays": [
     [
@@ -3674,6 +4418,40 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1653,
+   "topics": [
+    [
+     "价格 / 折扣",
+     2,
+     "2025-04-22"
+    ],
+    [
+     "认证",
+     2,
+     "2025-04-22"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 4,
+   "longest_first": "2025-04-18",
+   "longest_last": "2025-04-22",
+   "longest_subj": "Re: 10G Media Converter",
+   "last_dir": "in",
+   "last_date": "2025-04-22",
+   "last_subj": "Re: 10G Media Converter",
+   "last_k": "34b75cab2668542d",
+   "last_snippet": "We have much better price for this product from different supplier. Pozdrawiam / Best regards FCNET sp. z o.o.",
+   "last_questions": [],
+   "days_since": 552
+  },
   "calendar": {
    "holidays": [
     [
@@ -4095,6 +4873,97 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 6,
+   "chars": 781,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     3,
+     "2025-02-05"
+    ],
+    [
+     "光纤 / 媒体转换",
+     3,
+     "2025-01-28"
+    ],
+    [
+     "10G",
+     2,
+     "2025-01-28"
+    ],
+    [
+     "工业",
+     2,
+     "2025-01-28"
+    ],
+    [
+     "25G/40G/100G+",
+     1,
+     "2024-05-09"
+    ],
+    [
+     "2.5G",
+     1,
+     "2025-01-28"
+    ]
+   ],
+   "competitors": [
+    [
+     "Juniper",
+     2,
+     "2025-01-28"
+    ]
+   ],
+   "chips": [
+    [
+     "Broadcom",
+     2,
+     "2025-02-05"
+    ]
+   ],
+   "qty": [
+    {
+     "q": 3,
+     "date": "2025-01-26",
+     "ctx": "her vendor to supply us some full layer 3 switches",
+     "k": "e17a1b0f28d7f22f"
+    }
+   ]
+  },
+  "channels": {
+   "S": {
+    "out": 16,
+    "mass": 4,
+    "one": 12,
+    "in": 6,
+    "last_out": "2025-02-10",
+    "last_in": "2025-02-05"
+   },
+   "A": {
+    "out": 5,
+    "mass": 3,
+    "one": 2,
+    "in": 0,
+    "last_out": "2026-02-12",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 10,
+   "longest_days": 14,
+   "longest_first": "2025-01-26",
+   "longest_last": "2025-02-10",
+   "longest_subj": "Re: 48 Port SFP Switch",
+   "last_dir": "out",
+   "last_date": "2026-01-16",
+   "last_subj": "Re: Marvell Alleycat5 Solution",
+   "last_k": "231c410bdb6b62d3",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 283
+  },
   "calendar": {
    "holidays": [
     [
@@ -4183,6 +5052,35 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 579,
+   "topics": [
+    [
+     "工业",
+     1,
+     "2025-06-16"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 16,
+   "longest_first": "2025-06-16",
+   "longest_last": "2025-07-03",
+   "longest_subj": "RE: Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2025-07-03",
+   "last_subj": "Re: Industrial PoE Switch",
+   "last_k": "fc1996c5626c5c37",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 480
+  },
   "calendar": {
    "holidays": [
     [
@@ -4464,6 +5362,39 @@
     "mb": "A"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 7,
+    "mass": 7,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-23",
+    "last_in": null
+   },
+   "A": {
+    "out": 21,
+    "mass": 20,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-04-15"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2025-04-15",
+   "longest_last": "2025-04-16",
+   "longest_subj": "RE: Marvell Software Function List",
+   "last_dir": "out",
+   "last_date": "2025-04-16",
+   "last_subj": "Re: Marvell Software Function List",
+   "last_k": "e7ae897881e06df3",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 559
+  },
   "calendar": {
    "holidays": [
     [
@@ -4829,6 +5760,75 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 804,
+   "topics": [
+    [
+     "贴牌 / OEM",
+     2,
+     "2025-12-19"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2025-12-19"
+    ],
+    [
+     "10G",
+     1,
+     "2026-07-15"
+    ],
+    [
+     "25G/40G/100G+",
+     1,
+     "2026-07-15"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": [
+    {
+     "q": 2,
+     "date": "2026-07-15",
+     "ctx": "Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G",
+     "k": "43477f95c8d2e436"
+    }
+   ]
+  },
+  "channels": {
+   "S": {
+    "out": 5,
+    "mass": 5,
+    "one": 0,
+    "in": 0,
+    "last_out": "2024-11-13",
+    "last_in": null
+   },
+   "A": {
+    "out": 24,
+    "mass": 22,
+    "one": 2,
+    "in": 2,
+    "last_out": "2026-09-24",
+    "last_in": "2026-07-15"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2026-07-15",
+   "longest_last": "2026-07-15",
+   "longest_subj": "Re: Saga Q3 Product Links",
+   "last_dir": "out",
+   "last_date": "2026-07-15",
+   "last_subj": "Re: Saga Q3 Product Links",
+   "last_k": "8ef6fe719128cb52",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 103
+  },
   "calendar": {
    "holidays": [
     [
@@ -5110,6 +6110,53 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 54,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2024-05-28"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 7,
+    "mass": 3,
+    "one": 4,
+    "in": 2,
+    "last_out": "2024-11-14",
+    "last_in": "2024-05-28"
+   },
+   "A": {
+    "out": 22,
+    "mass": 22,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-17",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 6,
+   "longest_days": 62,
+   "longest_first": "2024-05-28",
+   "longest_last": "2024-07-29",
+   "longest_subj": "Re: Industrial poe managed switch",
+   "last_dir": "out",
+   "last_date": "2024-07-29",
+   "last_subj": "Re: Industrial poe managed switch",
+   "last_k": "b9664b6dff6b3126",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 819
+  },
   "calendar": {
    "holidays": [
     [
@@ -5451,6 +6498,89 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 16,
+   "chars": 7115,
+   "topics": [
+    [
+     "贴牌 / OEM",
+     15,
+     "2025-01-03"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     9,
+     "2024-05-21"
+    ],
+    [
+     "价格 / 折扣",
+     9,
+     "2025-01-03"
+    ],
+    [
+     "工业",
+     5,
+     "2024-05-21"
+    ],
+    [
+     "PoE",
+     4,
+     "2024-05-21"
+    ],
+    [
+     "10G",
+     3,
+     "2024-05-21"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2024-05-20"
+    ],
+    [
+     "Realtek",
+     1,
+     "2024-05-21"
+    ]
+   ],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 27,
+    "mass": 1,
+    "one": 26,
+    "in": 16,
+    "last_out": "2026-02-03",
+    "last_in": "2025-01-03"
+   },
+   "A": {
+    "out": 2,
+    "mass": 2,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-07-02",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 42,
+   "longest_days": 722,
+   "longest_first": "2023-12-15",
+   "longest_last": "2025-12-07",
+   "longest_subj": "RE: Din power supply",
+   "last_dir": "out",
+   "last_date": "2025-12-07",
+   "last_subj": "Re: Din power supply",
+   "last_k": "e46d34979ec9dbbf",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 323
+  },
   "calendar": {
    "holidays": [
     [
@@ -5639,6 +6769,84 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 1460,
+   "topics": [
+    [
+     "PoE",
+     6,
+     "2026-01-04"
+    ],
+    [
+     "工业",
+     3,
+     "2026-01-04"
+    ],
+    [
+     "质保 / 售后",
+     2,
+     "2026-01-04"
+    ],
+    [
+     "10G",
+     1,
+     "2026-01-04"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2026-01-04"
+    ],
+    [
+     "CCTV / 安防",
+     1,
+     "2026-01-04"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     2,
+     "2026-01-04"
+    ]
+   ],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-22",
+    "last_in": null
+   },
+   "A": {
+    "out": 14,
+    "mass": 13,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2026-01-04"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2026-01-04",
+   "longest_last": "2026-01-05",
+   "longest_subj": "Re: Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2026-01-05",
+   "last_subj": "Re: Industrial PoE Switch",
+   "last_k": "e972f525788b212d",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 294
+  },
   "calendar": {
    "holidays": [
     [
@@ -6025,6 +7233,24 @@
     "mb": "A"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 7,
+    "mass": 7,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-10-20",
+    "last_in": null
+   },
+   "A": {
+    "out": 14,
+    "mass": 14,
+    "one": 0,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-09-12"
+   }
+  },
   "calendar": {
    "holidays": [
     [
@@ -6297,6 +7523,68 @@
     "mb": "AS"
    }
   ],
+  "words": {
+   "n_mails": 4,
+   "chars": 412,
+   "topics": [
+    [
+     "10G",
+     4,
+     "2024-01-20"
+    ],
+    [
+     "光纤 / 媒体转换",
+     2,
+     "2024-01-20"
+    ],
+    [
+     "样品",
+     1,
+     "2024-04-19"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2025-08-08"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 23,
+    "mass": 12,
+    "one": 11,
+    "in": 3,
+    "last_out": "2025-08-27",
+    "last_in": "2024-04-24"
+   },
+   "A": {
+    "out": 7,
+    "mass": 4,
+    "one": 3,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-08-08"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 14,
+   "longest_days": 178,
+   "longest_first": "2024-01-20",
+   "longest_last": "2024-07-16",
+   "longest_subj": "2.5G PoE switch",
+   "last_dir": "out",
+   "last_date": "2025-08-21",
+   "last_subj": "Re: 24 Port Fiber Switch",
+   "last_k": "f304f8fc45be4ede",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 432
+  },
   "calendar": {
    "holidays": [
     [
@@ -6449,6 +7737,63 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 2956,
+   "topics": [
+    [
+     "认证",
+     3,
+     "2025-11-11"
+    ],
+    [
+     "PoE",
+     1,
+     "2025-11-11"
+    ],
+    [
+     "质保 / 售后",
+     1,
+     "2025-11-11"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-28",
+    "last_in": null
+   },
+   "A": {
+    "out": 13,
+    "mass": 11,
+    "one": 2,
+    "in": 2,
+    "last_out": "2026-09-07",
+    "last_in": "2025-11-11"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 26,
+   "longest_first": "2025-11-11",
+   "longest_last": "2025-12-08",
+   "longest_subj": "RE: Booster PoE Switch",
+   "last_dir": "out",
+   "last_date": "2025-12-08",
+   "last_subj": "Re: Booster PoE Switch",
+   "last_k": "d69d71aab444aaa5",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 322
+  },
   "github": {
    "accounts": [
     {
@@ -6702,6 +8047,58 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 3,
+   "chars": 184,
+   "topics": [
+    [
+     "PoE",
+     1,
+     "2024-07-30"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2024-07-30"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 10,
+    "mass": 8,
+    "one": 2,
+    "in": 2,
+    "last_out": "2025-02-06",
+    "last_in": "2024-08-23"
+   },
+   "A": {
+    "out": 19,
+    "mass": 15,
+    "one": 4,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-09-22"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 4,
+   "longest_days": 23,
+   "longest_first": "2024-07-30",
+   "longest_last": "2024-08-23",
+   "longest_subj": "Re: 24 port poe switch",
+   "last_dir": "out",
+   "last_date": "2026-06-03",
+   "last_subj": "Re: 10G L3 Managed Switch",
+   "last_k": "6b53faaab0eef35f",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 146
+  },
   "calendar": {
    "holidays": [
     [
@@ -6909,6 +8306,53 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 235,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2024-09-27"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 24,
+    "mass": 21,
+    "one": 3,
+    "in": 1,
+    "last_out": "2026-09-08",
+    "last_in": "2024-09-27"
+   },
+   "A": {
+    "out": 1,
+    "mass": 1,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-03-14",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 25,
+   "longest_first": "2024-09-27",
+   "longest_last": "2024-10-23",
+   "longest_subj": "Re: Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-10-23",
+   "last_subj": "Re: Industrial PoE Switch",
+   "last_k": "571279a4f81adf50",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 733
+  },
   "calendar": {
    "holidays": [
     [
@@ -7094,6 +8538,43 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 524,
+   "topics": [
+    [
+     "PoE",
+     6,
+     "2025-08-21"
+    ],
+    [
+     "认证",
+     2,
+     "2025-08-21"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 6,
+    "mass": 6,
+    "one": 0,
+    "in": 0,
+    "last_out": "2024-12-26",
+    "last_in": null
+   },
+   "A": {
+    "out": 11,
+    "mass": 11,
+    "one": 0,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-08-21"
+   }
+  },
   "calendar": {
    "holidays": [
     [
@@ -7387,6 +8868,24 @@
     "mb": "AS"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 6,
+    "mass": 5,
+    "one": 1,
+    "in": 5,
+    "last_out": "2025-01-03",
+    "last_in": "2024-10-22"
+   },
+   "A": {
+    "out": 20,
+    "mass": 20,
+    "one": 0,
+    "in": 5,
+    "last_out": "2026-09-22",
+    "last_in": "2026-09-22"
+   }
+  },
   "calendar": {
    "holidays": [
     [
@@ -7612,6 +9111,84 @@
     "mb": "AS"
    }
   ],
+  "words": {
+   "n_mails": 21,
+   "chars": 5096,
+   "topics": [
+    [
+     "价格 / 折扣",
+     21,
+     "2026-09-17"
+    ],
+    [
+     "工业",
+     8,
+     "2026-08-17"
+    ],
+    [
+     "光纤 / 媒体转换",
+     7,
+     "2026-06-09"
+    ],
+    [
+     "样品",
+     2,
+     "2026-05-28"
+    ],
+    [
+     "项目 / 招标",
+     1,
+     "2026-06-04"
+    ],
+    [
+     "质保 / 售后",
+     1,
+     "2026-06-08"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2026-05-28"
+    ]
+   ],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 11,
+    "mass": 5,
+    "one": 6,
+    "in": 2,
+    "last_out": "2024-12-11",
+    "last_in": "2024-05-29"
+   },
+   "A": {
+    "out": 29,
+    "mass": 10,
+    "one": 19,
+    "in": 19,
+    "last_out": "2026-09-18",
+    "last_in": "2026-09-17"
+   }
+  },
+  "ball": {
+   "threads": 6,
+   "longest_n": 21,
+   "longest_days": 32,
+   "longest_first": "2026-05-08",
+   "longest_last": "2026-06-09",
+   "longest_subj": "RE: 10G Enterprise SFP Switch",
+   "last_dir": "out",
+   "last_date": "2026-09-18",
+   "last_subj": "Re: 16 Port Industrial PoE Switch",
+   "last_k": "48f91a073d0f4e97",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 38
+  },
   "calendar": {
    "holidays": [
     [
@@ -7776,6 +9353,84 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1618,
+   "topics": [
+    [
+     "PoE",
+     4,
+     "2025-09-29"
+    ],
+    [
+     "价格 / 折扣",
+     2,
+     "2025-10-03"
+    ],
+    [
+     "10G",
+     1,
+     "2025-09-29"
+    ],
+    [
+     "工业",
+     1,
+     "2025-09-29"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2025-09-29"
+    ],
+    [
+     "CCTV / 安防",
+     1,
+     "2025-09-29"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     2,
+     "2025-09-29"
+    ]
+   ],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 7,
+    "mass": 7,
+    "one": 0,
+    "in": 0,
+    "last_out": "2024-11-25",
+    "last_in": null
+   },
+   "A": {
+    "out": 23,
+    "mass": 20,
+    "one": 3,
+    "in": 2,
+    "last_out": "2026-09-28",
+    "last_in": "2025-10-03"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 15,
+   "longest_first": "2025-09-29",
+   "longest_last": "2025-10-15",
+   "longest_subj": "FW: [EXTERNAL] Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2025-10-15",
+   "last_subj": "Re: FW: [EXTERNAL] Industrial PoE Switch",
+   "last_k": "43168b7db932dd31",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 376
+  },
   "github": {
    "accounts": [
     {
@@ -8016,6 +9671,35 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 333,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2024-07-04"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 0,
+   "longest_first": "2024-07-04",
+   "longest_last": "2024-07-04",
+   "longest_subj": "Re: industrial poe switch",
+   "last_dir": "in",
+   "last_date": "2024-07-04",
+   "last_subj": "Re: industrial poe switch",
+   "last_k": "7648ab2452628580",
+   "last_snippet": "Hello Simon, You can send the email with cc to info@divatel.co.id and ismedst@gmail.com in case you are facing",
+   "last_questions": [],
+   "days_since": 845
+  },
   "calendar": {
    "holidays": [
     [
@@ -8654,6 +10338,63 @@
     "mb": "AS"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 287,
+   "topics": [
+    [
+     "价格 / 折扣",
+     3,
+     "2025-09-26"
+    ],
+    [
+     "10G",
+     1,
+     "2024-08-24"
+    ],
+    [
+     "光纤 / 媒体转换",
+     1,
+     "2024-08-24"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 3,
+    "mass": 0,
+    "one": 3,
+    "in": 1,
+    "last_out": "2024-09-30",
+    "last_in": "2024-08-24"
+   },
+   "A": {
+    "out": 18,
+    "mass": 15,
+    "one": 3,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-09-26"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 4,
+   "longest_days": 36,
+   "longest_first": "2024-08-24",
+   "longest_last": "2024-09-30",
+   "longest_subj": "RE: 10G media converter",
+   "last_dir": "out",
+   "last_date": "2025-09-27",
+   "last_subj": "Re: 10G Enterprise SFP Switch",
+   "last_k": "75205f906d867c11",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 394
+  },
   "github": {
    "accounts": [
     {
@@ -8896,6 +10637,48 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 239,
+   "topics": [
+    [
+     "价格 / 折扣",
+     2,
+     "2024-08-24"
+    ],
+    [
+     "10G",
+     1,
+     "2024-08-24"
+    ],
+    [
+     "光纤 / 媒体转换",
+     1,
+     "2024-08-24"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 7,
+    "mass": 7,
+    "one": 0,
+    "in": 1,
+    "last_out": "2026-10-02",
+    "last_in": "2024-08-24"
+   },
+   "A": {
+    "out": 20,
+    "mass": 20,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-08-28",
+    "last_in": null
+   }
+  },
   "github": {
    "accounts": [
     {
@@ -9144,6 +10927,69 @@
     "mb": "AS"
    }
   ],
+  "words": {
+   "n_mails": 4,
+   "chars": 434,
+   "topics": [
+    [
+     "10G",
+     1,
+     "2025-01-03"
+    ],
+    [
+     "工业",
+     1,
+     "2025-01-03"
+    ],
+    [
+     "质保 / 售后",
+     1,
+     "2026-06-05"
+    ]
+   ],
+   "competitors": [
+    [
+     "H3C",
+     1,
+     "2026-06-05"
+    ]
+   ],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 12,
+    "mass": 7,
+    "one": 5,
+    "in": 3,
+    "last_out": "2025-01-03",
+    "last_in": "2025-01-03"
+   },
+   "A": {
+    "out": 24,
+    "mass": 22,
+    "one": 2,
+    "in": 1,
+    "last_out": "2026-09-25",
+    "last_in": "2026-06-05"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 7,
+   "longest_days": 0,
+   "longest_first": "2025-01-03",
+   "longest_last": "2025-01-03",
+   "longest_subj": "RE: 24 Port Fiber Switch",
+   "last_dir": "out",
+   "last_date": "2026-06-08",
+   "last_subj": "Re: 10G L3 Managed Switch",
+   "last_k": "5d26574728e757e2",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 140
+  },
   "calendar": {
    "holidays": [
     [
@@ -9262,6 +11108,61 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 935,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2026-08-12"
+    ]
+   ],
+   "competitors": [
+    [
+     "Fortinet",
+     2,
+     "2026-08-12"
+    ],
+    [
+     "Hikvision",
+     1,
+     "2026-08-12"
+    ],
+    [
+     "D-Link",
+     1,
+     "2026-08-12"
+    ],
+    [
+     "Dell",
+     1,
+     "2026-08-12"
+    ],
+    [
+     "Netgear",
+     1,
+     "2026-08-12"
+    ]
+   ],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 2,
+   "longest_first": "2026-08-12",
+   "longest_last": "2026-08-15",
+   "longest_subj": "Confirmation: BORN 24-Port Managed Switch Requirem",
+   "last_dir": "out",
+   "last_date": "2026-08-15",
+   "last_subj": "Re: Confirmation: BORN 24-Port Managed Switch Requ",
+   "last_k": "5eacc9efe7146ba8",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 72
+  },
   "calendar": {
    "holidays": [
     [
@@ -9678,6 +11579,68 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 7,
+   "chars": 3704,
+   "topics": [
+    [
+     "项目 / 招标",
+     3,
+     "2025-09-14"
+    ],
+    [
+     "贴牌 / OEM",
+     2,
+     "2025-07-21"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2025-07-21"
+    ],
+    [
+     "样品",
+     1,
+     "2025-07-21"
+    ],
+    [
+     "固件 / 软件",
+     1,
+     "2025-07-24"
+    ],
+    [
+     "质保 / 售后",
+     1,
+     "2025-07-24"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "CENTEC",
+     2,
+     "2025-09-14"
+    ]
+   ],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 12,
+   "longest_days": 81,
+   "longest_first": "2025-07-21",
+   "longest_last": "2025-10-11",
+   "longest_subj": "OEM and SDK for National product",
+   "last_dir": "in",
+   "last_date": "2025-11-24",
+   "last_subj": "Re: Booster PoE Switch",
+   "last_k": "67798dac43496efa",
+   "last_snippet": "Hello, All is good, thanks. How are you? No, this is not interesting for us. Thank you for interest) ---------",
+   "last_questions": [
+    "How are you?"
+   ],
+   "days_since": 336
+  },
   "github": {
    "accounts": [
     {
@@ -10305,6 +12268,51 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 965,
+   "topics": [
+    [
+     "价格 / 折扣",
+     4,
+     "2025-12-17"
+    ],
+    [
+     "贴牌 / OEM",
+     1,
+     "2025-12-04"
+    ],
+    [
+     "样品",
+     1,
+     "2025-12-04"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2025-12-04"
+    ]
+   ],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 13,
+   "longest_first": "2025-12-04",
+   "longest_last": "2025-12-18",
+   "longest_subj": "Re: Optional Marvell Chipset Solutions",
+   "last_dir": "out",
+   "last_date": "2025-12-18",
+   "last_subj": "Re: Optional Marvell Chipset Solutions",
+   "last_k": "20adc365c4c829ca",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 313
+  },
   "calendar": {
    "holidays": [
     [
@@ -10886,6 +12894,42 @@
    ],
    "fetched": "2026-10-21"
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "4power-dk",
+     "type": "Organization",
+     "url": "https://github.com/4power-dk",
+     "name": "4Power",
+     "blog": "4power.com",
+     "email": null,
+     "company": null,
+     "public_repos": 2,
+     "created_at": "2022-09-09T20:28:37Z",
+     "updated_at": "2026-02-09T13:04:24Z",
+     "bio": "",
+     "match": "name",
+     "repos": [
+      {
+       "name": "homeassistant-4power",
+       "pushed_at": "2026-09-12T21:38:13Z",
+       "lang": "Python",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "captive-portal-wifi-web",
+       "pushed_at": "2022-09-14T20:57:15Z",
+       "lang": "JavaScript",
+       "desc": "https://github.com/tripflex/captive-portal-wifi-web CSS changes",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:00:23Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -11449,6 +13493,115 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 31,
+   "chars": 37298,
+   "topics": [
+    [
+     "质保 / 售后",
+     17,
+     "2026-08-12"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     15,
+     "2026-02-27"
+    ],
+    [
+     "付款 / 物流",
+     7,
+     "2026-01-23"
+    ],
+    [
+     "MOQ / 交期",
+     7,
+     "2026-02-27"
+    ],
+    [
+     "样品",
+     4,
+     "2026-03-02"
+    ],
+    [
+     "工业",
+     4,
+     "2026-01-27"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "CENTEC",
+     3,
+     "2026-02-27"
+    ],
+    [
+     "Realtek",
+     2,
+     "2026-02-27"
+    ],
+    [
+     "Marvell",
+     1,
+     "2025-10-17"
+    ]
+   ],
+   "qty": [
+    {
+     "q": 500,
+     "date": "2025-10-17",
+     "ctx": "0 units: * 101–250 units: * 251–500 units: Best regards. Ende",
+     "k": "37d0a18adaf6e108"
+    },
+    {
+     "q": 250,
+     "date": "2025-10-17",
+     "ctx": "50 units: * 51–100 units: * 101–250 units: * 251–500 unit",
+     "k": "37d0a18adaf6e108"
+    },
+    {
+     "q": 100,
+     "date": "2025-10-17",
+     "ctx": "1–25 units: * 26–50 units: * 51–100 units: * 101–250 unit",
+     "k": "37d0a18adaf6e108"
+    }
+   ]
+  },
+  "ball": {
+   "threads": 3,
+   "longest_n": 48,
+   "longest_days": 277,
+   "longest_first": "2025-10-13",
+   "longest_last": "2026-07-17",
+   "longest_subj": "Industrial L2/L3 Managed Switches",
+   "last_dir": "in",
+   "last_date": "2026-08-12",
+   "last_subj": "Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Or",
+   "last_k": "2a47ba3b4819e20e",
+   "last_snippet": " Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten v",
+   "last_questions": [],
+   "days_since": 75
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "Netas",
+     "type": "User",
+     "url": "https://github.com/Netas",
+     "name": null,
+     "blog": "",
+     "email": "linas@netas.eu",
+     "company": "Netas.eu",
+     "public_repos": 0,
+     "created_at": "2013-07-16T17:14:09Z",
+     "updated_at": "2016-02-27T10:07:19Z",
+     "bio": "",
+     "match": "company"
+    }
+   ],
+   "repos_mentioning_n": 2,
+   "checked_at": "2026-10-27T04:01:20Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -11981,6 +14134,90 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 36,
+   "chars": 12448,
+   "topics": [
+    [
+     "价格 / 折扣",
+     17,
+     "2025-11-11"
+    ],
+    [
+     "10G",
+     15,
+     "2025-07-28"
+    ],
+    [
+     "2.5G",
+     12,
+     "2025-07-28"
+    ],
+    [
+     "样品",
+     8,
+     "2025-07-08"
+    ],
+    [
+     "CCTV / 安防",
+     8,
+     "2025-04-08"
+    ],
+    [
+     "质保 / 售后",
+     6,
+     "2024-09-11"
+    ]
+   ],
+   "competitors": [
+    [
+     "TP-Link",
+     4,
+     "2025-11-11"
+    ],
+    [
+     "Cisco",
+     1,
+     "2024-07-22"
+    ]
+   ],
+   "chips": [],
+   "qty": [
+    {
+     "q": 1000,
+     "date": "2024-07-04",
+     "ctx": "1. 10 units? 2. 100 units? 3. 1000 units? Best regards, Wai",
+     "k": "ae618b2e793c520d"
+    },
+    {
+     "q": 100,
+     "date": "2024-07-04",
+     "ctx": "owing quantity: 1. 10 units? 2. 100 units? 3. 1000 units?",
+     "k": "ae618b2e793c520d"
+    },
+    {
+     "q": 10,
+     "date": "2024-07-04",
+     "ctx": "ime for the following quantity: 1. 10 units? 2. 100 units?",
+     "k": "ae618b2e793c520d"
+    }
+   ]
+  },
+  "ball": {
+   "threads": 7,
+   "longest_n": 25,
+   "longest_days": 19,
+   "longest_first": "2024-08-21",
+   "longest_last": "2024-09-10",
+   "longest_subj": "PO | SGP250051 10G MultiGig switch",
+   "last_dir": "out",
+   "last_date": "2026-09-21",
+   "last_subj": "Re: Optional Marvell Chipset Solutions",
+   "last_k": "059803e2ac308b24",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 35
+  },
   "github": {
    "accounts": [
     {
@@ -12175,6 +14412,114 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 4,
+   "chars": 2135,
+   "topics": [
+    [
+     "PoE",
+     9,
+     "2024-06-14"
+    ],
+    [
+     "付款 / 物流",
+     2,
+     "2024-06-18"
+    ],
+    [
+     "光纤 / 媒体转换",
+     1,
+     "2024-06-14"
+    ],
+    [
+     "MOQ / 交期",
+     1,
+     "2024-06-18"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 9,
+   "longest_days": 6,
+   "longest_first": "2024-06-14",
+   "longest_last": "2024-06-21",
+   "longest_subj": "Re: PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-06-21",
+   "last_subj": "Re: Re: PoE Switch",
+   "last_k": "c242e05df6431bc0",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 858
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "xspec",
+     "type": "Organization",
+     "url": "https://github.com/xspec",
+     "name": "XSpec",
+     "blog": "https://github.com/xspec/xspec",
+     "email": null,
+     "company": null,
+     "public_repos": 7,
+     "created_at": "2015-06-08T15:43:55Z",
+     "updated_at": "2026-10-07T13:48:23Z",
+     "bio": "Unit Test and Behaviour Driven Development (BDD) Framework for XSLT, XQuery, and Schematron",
+     "match": "name",
+     "repos": [
+      {
+       "name": "xspec",
+       "pushed_at": "2026-10-26T11:42:04Z",
+       "lang": "HTML",
+       "desc": "XSpec is a unit test and behaviour-driven development (BDD) framework for XSLT, XQuery, Schematron, and XProc.",
+       "fork": true
+      },
+      {
+       "name": "oXygen-XML-editor-xspec-support",
+       "pushed_at": "2026-10-20T10:11:10Z",
+       "lang": "HTML",
+       "desc": "An oxygen XML Editor plugin intended to help those that create XSpec scenarios.",
+       "fork": false
+      },
+      {
+       "name": "xspec.github.io",
+       "pushed_at": "2026-09-22T11:41:22Z",
+       "lang": "HTML",
+       "desc": "XSpec Website",
+       "fork": false
+      },
+      {
+       "name": "xspec-gradle-template",
+       "pushed_at": "2026-08-17T19:21:57Z",
+       "lang": "Batchfile",
+       "desc": "Template for running XSpec tests with Gradle",
+       "fork": false
+      },
+      {
+       "name": "xspec-maven-plugin-1",
+       "pushed_at": "2026-03-27T22:26:00Z",
+       "lang": "Java",
+       "desc": "XSpec Maven Plugin",
+       "fork": false
+      },
+      {
+       "name": "docker",
+       "pushed_at": "2022-04-07T12:34:17Z",
+       "lang": null,
+       "desc": "Docker image of XSpec",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:02:18Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -12954,6 +15299,40 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 59,
+   "topics": [
+    [
+     "PoE",
+     1,
+     "2024-11-22"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2024-11-22"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2024-11-22",
+   "longest_last": "2024-11-23",
+   "longest_subj": "RE: 8 Port Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-11-23",
+   "last_subj": "Re: 8 Port Industrial PoE Switch",
+   "last_k": "0bff4caab85195a3",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 703
+  },
   "calendar": {
    "holidays": [
     [
@@ -13614,6 +15993,21 @@
     "mb": "A"
    }
   ],
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 91,
+   "longest_first": "2025-06-10",
+   "longest_last": "2025-09-09",
+   "longest_subj": "Re: Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2025-09-09",
+   "last_subj": "Re: Industrial PoE Switch",
+   "last_k": "c45049dd165f075b",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 412
+  },
   "calendar": {
    "holidays": [
     [
@@ -13876,6 +16270,63 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 14,
+   "chars": 2690,
+   "topics": [
+    [
+     "付款 / 物流",
+     4,
+     "2025-07-18"
+    ],
+    [
+     "价格 / 折扣",
+     2,
+     "2025-07-12"
+    ],
+    [
+     "样品",
+     1,
+     "2025-07-17"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 1,
+    "mass": 1,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-17",
+    "last_in": null
+   },
+   "A": {
+    "out": 23,
+    "mass": 9,
+    "one": 14,
+    "in": 14,
+    "last_out": "2026-08-14",
+    "last_in": "2025-07-24"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 27,
+   "longest_days": 67,
+   "longest_first": "2025-07-11",
+   "longest_last": "2025-09-17",
+   "longest_subj": "Re: 8 Port Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2026-02-04",
+   "last_subj": "New Product Links",
+   "last_k": "83e294d20ad5fdbf",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 264
+  },
   "calendar": {
    "holidays": [
     [
@@ -14731,6 +17182,21 @@
     "mb": "A"
    }
   ],
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2025-06-30",
+   "longest_last": "2025-06-30",
+   "longest_subj": "RE: Marvell Industrial Alert System",
+   "last_dir": "out",
+   "last_date": "2025-06-30",
+   "last_subj": "Re: Marvell Industrial Alert System",
+   "last_k": "f7147947b4499bda",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 483
+  },
   "calendar": {
    "holidays": [
     [
@@ -14951,6 +17417,39 @@
     "mb": "A"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 5,
+    "mass": 4,
+    "one": 1,
+    "in": 0,
+    "last_out": "2024-11-08",
+    "last_in": null
+   },
+   "A": {
+    "out": 19,
+    "mass": 16,
+    "one": 3,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-02-18"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 69,
+   "longest_first": "2025-02-18",
+   "longest_last": "2025-04-28",
+   "longest_subj": "Re: 24 Port Fiber Switch",
+   "last_dir": "out",
+   "last_date": "2025-04-28",
+   "last_subj": "Re: 24 Port Fiber Switch",
+   "last_k": "db4b14d8e15b8ad5",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 547
+  },
   "calendar": {
    "holidays": [
     [
@@ -15110,6 +17609,39 @@
     "mb": "A"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 1,
+    "mass": 1,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-02-12",
+    "last_in": null
+   },
+   "A": {
+    "out": 17,
+    "mass": 14,
+    "one": 3,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-03-18"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 5,
+   "longest_first": "2025-03-18",
+   "longest_last": "2025-03-24",
+   "longest_subj": "Re: 8 Port Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2025-05-15",
+   "last_subj": "Re: Managed Optical Bypass Switch",
+   "last_k": "60215e5a3bb8a816",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 530
+  },
   "calendar": {
    "holidays": [
     [
@@ -15759,6 +18291,53 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 255,
+   "topics": [
+    [
+     "质保 / 售后",
+     2,
+     "2024-10-17"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 7,
+    "mass": 5,
+    "one": 2,
+    "in": 1,
+    "last_out": "2024-12-11",
+    "last_in": "2024-10-17"
+   },
+   "A": {
+    "out": 16,
+    "mass": 16,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-10-06",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 29,
+   "longest_first": "2024-10-17",
+   "longest_last": "2024-11-15",
+   "longest_subj": "RE: 8 Port Industrial PoE Switch [#RS95768]",
+   "last_dir": "out",
+   "last_date": "2024-11-15",
+   "last_subj": "Re: 8 Port Industrial PoE Switch [#RS95768]",
+   "last_k": "5865d8505029d84e",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 710
+  },
   "calendar": {
    "holidays": [
     [
@@ -15931,6 +18510,53 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 507,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2024-08-14"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 11,
+    "mass": 7,
+    "one": 4,
+    "in": 2,
+    "last_out": "2025-01-06",
+    "last_in": "2024-08-14"
+   },
+   "A": {
+    "out": 25,
+    "mass": 25,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-25",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 6,
+   "longest_days": 46,
+   "longest_first": "2024-07-07",
+   "longest_last": "2024-08-22",
+   "longest_subj": "Re: 10G fiber media converter",
+   "last_dir": "out",
+   "last_date": "2024-08-22",
+   "last_subj": "Re: 10G fiber media converter",
+   "last_k": "211daca3f06c79fd",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 795
+  },
   "calendar": {
    "holidays": [
     [
@@ -16457,6 +19083,40 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 839,
+   "topics": [
+    [
+     "PoE",
+     12,
+     "2026-08-10"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     5,
+     "2026-08-10"
+    ],
+    [
+     "光纤 / 媒体转换",
+     5,
+     "2026-08-10"
+    ],
+    [
+     "工业",
+     2,
+     "2026-08-10"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2026-07-15"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
   "calendar": {
    "holidays": [
     [
@@ -16645,6 +19305,69 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1039,
+   "topics": [
+    [
+     "工业",
+     2,
+     "2025-03-05"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2025-03-05"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2025-03-05"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2025-03-05"
+    ]
+   ],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-13",
+    "last_in": null
+   },
+   "A": {
+    "out": 18,
+    "mass": 16,
+    "one": 2,
+    "in": 2,
+    "last_out": "2026-09-02",
+    "last_in": "2025-03-05"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 0,
+   "longest_first": "2025-03-05",
+   "longest_last": "2025-03-05",
+   "longest_subj": "Re: 8 Port Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2025-03-05",
+   "last_subj": "Re: 8 Port Industrial PoE Switch",
+   "last_k": "955016f874e9ee64",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 600
+  },
   "calendar": {
    "holidays": [
     [
@@ -16898,6 +19621,53 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 519,
+   "topics": [
+    [
+     "工业",
+     2,
+     "2024-11-06"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 4,
+    "mass": 1,
+    "one": 3,
+    "in": 2,
+    "last_out": "2024-12-12",
+    "last_in": "2024-11-06"
+   },
+   "A": {
+    "out": 19,
+    "mass": 19,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-21",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 8,
+   "longest_first": "2024-11-06",
+   "longest_last": "2024-11-15",
+   "longest_subj": "Re: 10G Media Converter",
+   "last_dir": "out",
+   "last_date": "2024-11-15",
+   "last_subj": "Re: 10G Media Converter",
+   "last_k": "f1d354f266c05cc2",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 711
+  },
   "calendar": {
    "holidays": [
     [
@@ -17026,6 +19796,78 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 490,
+   "topics": [
+    [
+     "PoE",
+     2,
+     "2024-12-18"
+    ],
+    [
+     "光纤 / 媒体转换",
+     2,
+     "2024-12-18"
+    ],
+    [
+     "贴牌 / OEM",
+     2,
+     "2024-12-18"
+    ],
+    [
+     "质保 / 售后",
+     2,
+     "2024-12-18"
+    ],
+    [
+     "工业",
+     1,
+     "2024-12-18"
+    ],
+    [
+     "样品",
+     1,
+     "2024-12-18"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 2,
+    "mass": 0,
+    "one": 2,
+    "in": 1,
+    "last_out": "2024-12-31",
+    "last_in": "2024-12-18"
+   },
+   "A": {
+    "out": 14,
+    "mass": 14,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-08-17",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 12,
+   "longest_first": "2024-12-18",
+   "longest_last": "2024-12-31",
+   "longest_subj": "Re: Mini Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-12-31",
+   "last_subj": "Re: Mini Industrial PoE Switch",
+   "last_k": "8e16cc483ab7f30f",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 664
+  },
   "calendar": {
    "holidays": [
     [
@@ -17273,6 +20115,21 @@
     "mb": "S"
    }
   ],
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2024-11-26",
+   "longest_last": "2024-11-26",
+   "longest_subj": "RE: 10G Media Converter",
+   "last_dir": "out",
+   "last_date": "2024-11-26",
+   "last_subj": "Re: 10G Media Converter",
+   "last_k": "23ff8e2e29b53c84",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 699
+  },
   "calendar": {
    "holidays": [
     [
@@ -17927,6 +20784,53 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 97,
+   "topics": [
+    [
+     "样品",
+     1,
+     "2025-01-31"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 5,
+    "mass": 2,
+    "one": 3,
+    "in": 1,
+    "last_out": "2025-02-20",
+    "last_in": "2025-01-31"
+   },
+   "A": {
+    "out": 16,
+    "mass": 16,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-03-09",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 19,
+   "longest_first": "2025-01-31",
+   "longest_last": "2025-02-20",
+   "longest_subj": "Re: 48 Port PoE Managed Switch",
+   "last_dir": "out",
+   "last_date": "2025-02-20",
+   "last_subj": "Re: 48 Port PoE Managed Switch",
+   "last_k": "c6a18d0c35d7a7c9",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 614
+  },
   "calendar": {
    "holidays": [
     [
@@ -18069,6 +20973,38 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 407,
+   "topics": [
+    [
+     "工业",
+     1,
+     "2024-11-06"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 3,
+    "mass": 3,
+    "one": 0,
+    "in": 1,
+    "last_out": "2025-01-10",
+    "last_in": "2024-11-06"
+   },
+   "A": {
+    "out": 1,
+    "mass": 1,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-03-19",
+    "last_in": null
+   }
+  },
   "calendar": {
    "holidays": [
     [
@@ -18926,6 +21862,39 @@
     "mb": "A"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-03",
+    "last_in": null
+   },
+   "A": {
+    "out": 18,
+    "mass": 15,
+    "one": 3,
+    "in": 1,
+    "last_out": "2026-09-10",
+    "last_in": "2025-02-20"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 63,
+   "longest_first": "2025-02-20",
+   "longest_last": "2025-04-25",
+   "longest_subj": "Re: 24 Port Fiber Switch",
+   "last_dir": "out",
+   "last_date": "2025-04-25",
+   "last_subj": "Re: 24 Port Fiber Switch",
+   "last_k": "5aec0209df31bf80",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 549
+  },
   "calendar": {
    "holidays": [
     [
@@ -19065,6 +22034,63 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 498,
+   "topics": [
+    [
+     "工业",
+     1,
+     "2025-09-17"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2025-09-17"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2025-09-17"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-09",
+    "last_in": null
+   },
+   "A": {
+    "out": 19,
+    "mass": 18,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-09",
+    "last_in": "2025-09-17"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2025-09-17",
+   "longest_last": "2025-09-17",
+   "longest_subj": "RE: 16 Port PoE Managed Switch",
+   "last_dir": "out",
+   "last_date": "2025-09-17",
+   "last_subj": "Re: 16 Port PoE Managed Switch",
+   "last_k": "09e9eda0a8877d0b",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 405
+  },
   "calendar": {
    "holidays": [
     [
@@ -19324,6 +22350,45 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 3,
+   "chars": 681,
+   "topics": [
+    [
+     "贴牌 / OEM",
+     3,
+     "2025-11-28"
+    ],
+    [
+     "价格 / 折扣",
+     2,
+     "2025-11-28"
+    ],
+    [
+     "质保 / 售后",
+     1,
+     "2025-06-26"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 5,
+   "longest_days": 40,
+   "longest_first": "2025-06-26",
+   "longest_last": "2025-08-05",
+   "longest_subj": "Re: Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2025-12-01",
+   "last_subj": "Re: Booster PoE Switch",
+   "last_k": "822038afc07c951e",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 329
+  },
   "calendar": {
    "holidays": [
     [
@@ -19482,6 +22547,59 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 517,
+   "topics": [
+    [
+     "工业",
+     1,
+     "2025-07-10"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2025-07-10"
+    ]
+   ],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-16",
+    "last_in": null
+   },
+   "A": {
+    "out": 17,
+    "mass": 15,
+    "one": 2,
+    "in": 2,
+    "last_out": "2026-08-11",
+    "last_in": "2025-07-10"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 262,
+   "longest_first": "2025-07-10",
+   "longest_last": "2026-03-30",
+   "longest_subj": "RE: [External]Marvell Industrial Alert System",
+   "last_dir": "out",
+   "last_date": "2026-03-30",
+   "last_subj": "Re: FW: [External]Marvell Industrial Alert System",
+   "last_k": "778b6acbd8047782",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 211
+  },
   "calendar": {
    "holidays": [
     [
@@ -19586,6 +22704,53 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 596,
+   "topics": [
+    [
+     "工业",
+     1,
+     "2025-12-15"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 2,
+    "mass": 2,
+    "one": 0,
+    "in": 0,
+    "last_out": "2024-12-06",
+    "last_in": null
+   },
+   "A": {
+    "out": 19,
+    "mass": 18,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-12-15"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2025-12-15",
+   "longest_last": "2025-12-15",
+   "longest_subj": "RE: Marvell Industrial Alert System",
+   "last_dir": "out",
+   "last_date": "2025-12-15",
+   "last_subj": "Re: Marvell Industrial Alert System",
+   "last_k": "52269215276dd05a",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 315
+  },
   "calendar": {
    "holidays": [
     [
@@ -19674,6 +22839,35 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 219,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2025-07-09"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 103,
+   "longest_first": "2025-07-09",
+   "longest_last": "2025-10-20",
+   "longest_subj": "RE: 16 Port Ethernet Switch",
+   "last_dir": "out",
+   "last_date": "2025-10-20",
+   "last_subj": "Re: 16 Port Ethernet Switch",
+   "last_k": "98f870e641fc26ff",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 371
+  },
   "calendar": {
    "holidays": [
     [
@@ -19814,6 +23008,61 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1489,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     3,
+     "2025-03-19"
+    ],
+    [
+     "贴牌 / OEM",
+     2,
+     "2025-03-19"
+    ],
+    [
+     "质保 / 售后",
+     1,
+     "2025-03-19"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2025-11-24"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     7,
+     "2025-03-19"
+    ],
+    [
+     "Realtek",
+     1,
+     "2025-03-19"
+    ]
+   ],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 65,
+   "longest_first": "2025-11-24",
+   "longest_last": "2026-01-29",
+   "longest_subj": "轉寄: Booster PoE Switch",
+   "last_dir": "out",
+   "last_date": "2026-01-29",
+   "last_subj": "Re: Booster PoE Switch",
+   "last_k": "83397972ba8367d6",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 271
+  },
   "calendar": {
    "holidays": [
     [
@@ -20261,6 +23510,84 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 698,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     3,
+     "2024-06-26"
+    ],
+    [
+     "10G",
+     2,
+     "2024-06-26"
+    ],
+    [
+     "PoE",
+     1,
+     "2024-06-26"
+    ],
+    [
+     "2.5G",
+     1,
+     "2024-06-26"
+    ],
+    [
+     "工业",
+     1,
+     "2024-06-26"
+    ],
+    [
+     "样品",
+     1,
+     "2024-06-26"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2024-06-26"
+    ]
+   ],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 9,
+    "mass": 5,
+    "one": 4,
+    "in": 1,
+    "last_out": "2024-11-20",
+    "last_in": "2024-06-26"
+   },
+   "A": {
+    "out": 12,
+    "mass": 12,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-10-06",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 57,
+   "longest_first": "2024-06-14",
+   "longest_last": "2024-08-10",
+   "longest_subj": "L2 managed switch",
+   "last_dir": "out",
+   "last_date": "2024-08-10",
+   "last_subj": "Re: L2 managed switch",
+   "last_k": "82e3821f090f4550",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 807
+  },
   "calendar": {
    "holidays": [
     [
@@ -23407,6 +26734,48 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1018,
+   "topics": [
+    [
+     "价格 / 折扣",
+     2,
+     "2024-12-05"
+    ],
+    [
+     "PoE",
+     1,
+     "2024-12-04"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2024-12-04"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 1,
+   "longest_first": "2024-12-04",
+   "longest_last": "2024-12-05",
+   "longest_subj": "RE: Industrial PoE Switch",
+   "last_dir": "in",
+   "last_date": "2024-12-05",
+   "last_subj": "RE: Industrial PoE Switch",
+   "last_k": "beb1989d2b8314a0",
+   "last_snippet": "Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your we",
+   "last_questions": [
+    "Can you answer the questions in my email below?",
+    "Link to your web page?"
+   ],
+   "days_since": 690
+  },
   "calendar": {
    "holidays": [
     [
@@ -24635,6 +28004,90 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 1536,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     4,
+     "2024-11-20"
+    ],
+    [
+     "PoE",
+     2,
+     "2024-11-20"
+    ],
+    [
+     "10G",
+     2,
+     "2024-11-20"
+    ],
+    [
+     "价格 / 折扣",
+     2,
+     "2024-11-20"
+    ],
+    [
+     "2.5G",
+     1,
+     "2024-11-20"
+    ],
+    [
+     "样品",
+     1,
+     "2024-11-20"
+    ]
+   ],
+   "competitors": [
+    [
+     "Dell",
+     1,
+     "2024-11-20"
+    ]
+   ],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2024-11-20"
+    ]
+   ],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 2,
+    "mass": 1,
+    "one": 1,
+    "in": 1,
+    "last_out": "2024-12-12",
+    "last_in": "2024-11-20"
+   },
+   "A": {
+    "out": 16,
+    "mass": 16,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-10-08",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2024-11-20",
+   "longest_last": "2024-11-20",
+   "longest_subj": "R: 48 Port PoE Managed Switch",
+   "last_dir": "out",
+   "last_date": "2024-11-20",
+   "last_subj": "Re: 48 Port PoE Managed Switch",
+   "last_k": "b552ce1372ae1296",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 705
+  },
   "calendar": {
    "holidays": [
     [
@@ -25167,6 +28620,20 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 602,
+   "topics": [
+    [
+     "认证",
+     1,
+     "2025-10-05"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
   "calendar": {
    "holidays": [
     [
@@ -29571,6 +33038,21 @@
     "mb": "S"
    }
   ],
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 67,
+   "longest_first": "2024-05-24",
+   "longest_last": "2024-07-31",
+   "longest_subj": "Re: Industrial Ethernet Switch",
+   "last_dir": "out",
+   "last_date": "2024-07-31",
+   "last_subj": "Re: Industrial Ethernet Switch",
+   "last_k": "7b842cf888116782",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 817
+  },
   "calendar": {
    "holidays": [
     [
@@ -29671,6 +33153,35 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 89,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2024-11-03"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 11,
+   "longest_first": "2024-11-03",
+   "longest_last": "2024-11-15",
+   "longest_subj": "Re: 8 Port Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-11-15",
+   "last_subj": "Re: 8 Port Industrial PoE Switch",
+   "last_k": "ffae7c0ecce7bd70",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 711
+  },
   "calendar": {
    "holidays": [
     [
@@ -30628,6 +34139,68 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 568,
+   "topics": [
+    [
+     "10G",
+     3,
+     "2026-01-21"
+    ],
+    [
+     "2.5G",
+     1,
+     "2026-01-21"
+    ],
+    [
+     "光纤 / 媒体转换",
+     1,
+     "2026-01-21"
+    ],
+    [
+     "样品",
+     1,
+     "2026-01-21"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-09",
+    "last_in": null
+   },
+   "A": {
+    "out": 14,
+    "mass": 12,
+    "one": 2,
+    "in": 1,
+    "last_out": "2026-08-10",
+    "last_in": "2026-01-21"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2026-01-21",
+   "longest_last": "2026-01-22",
+   "longest_subj": "RE: OEM Core Switching Solution",
+   "last_dir": "out",
+   "last_date": "2026-01-22",
+   "last_subj": "Re: OEM Core Switching Solution",
+   "last_k": "98ca2068f3737796",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 277
+  },
   "calendar": {
    "holidays": [
     [
@@ -30792,6 +34365,53 @@
     "mb": "AS"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 142,
+   "topics": [
+    [
+     "25G/40G/100G+",
+     2,
+     "2025-12-03"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 11,
+    "mass": 7,
+    "one": 4,
+    "in": 1,
+    "last_out": "2025-02-28",
+    "last_in": "2024-05-17"
+   },
+   "A": {
+    "out": 9,
+    "mass": 6,
+    "one": 3,
+    "in": 1,
+    "last_out": "2026-08-10",
+    "last_in": "2025-12-03"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 5,
+   "longest_days": 88,
+   "longest_first": "2024-05-17",
+   "longest_last": "2024-08-13",
+   "longest_subj": "RE: L3 managed switch",
+   "last_dir": "out",
+   "last_date": "2026-03-12",
+   "last_subj": "Re: Booster PoE Switch",
+   "last_k": "0e53cf03ef1552e8",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 229
+  },
   "calendar": {
    "holidays": [
     [
@@ -31270,6 +34890,39 @@
     "mb": "A"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-22",
+    "last_in": null
+   },
+   "A": {
+    "out": 17,
+    "mass": 14,
+    "one": 3,
+    "in": 1,
+    "last_out": "2026-09-09",
+    "last_in": "2026-05-20"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 26,
+   "longest_first": "2026-05-20",
+   "longest_last": "2026-06-16",
+   "longest_subj": "Re: 10G L3 Managed Switch",
+   "last_dir": "out",
+   "last_date": "2026-06-16",
+   "last_subj": "Re: 10G L3 Managed Switch",
+   "last_k": "d526efc0de228beb",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 132
+  },
   "calendar": {
    "holidays": [
     [
@@ -31428,6 +35081,58 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 294,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2024-05-16"
+    ],
+    [
+     "MOQ / 交期",
+     1,
+     "2024-05-16"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 11,
+    "mass": 6,
+    "one": 5,
+    "in": 2,
+    "last_out": "2025-01-01",
+    "last_in": "2024-05-16"
+   },
+   "A": {
+    "out": 16,
+    "mass": 16,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-15",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 7,
+   "longest_days": 88,
+   "longest_first": "2024-05-16",
+   "longest_last": "2024-08-13",
+   "longest_subj": "Re: Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-08-13",
+   "last_subj": "Re: Industrial PoE Switch",
+   "last_k": "9527e14e8e5d4caf",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 804
+  },
   "calendar": {
    "holidays": [
     [
@@ -31579,6 +35284,53 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 697,
+   "topics": [
+    [
+     "质保 / 售后",
+     1,
+     "2026-01-20"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 6,
+    "mass": 6,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-21",
+    "last_in": null
+   },
+   "A": {
+    "out": 18,
+    "mass": 16,
+    "one": 2,
+    "in": 2,
+    "last_out": "2026-09-09",
+    "last_in": "2026-01-20"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 1,
+   "longest_first": "2026-01-19",
+   "longest_last": "2026-01-20",
+   "longest_subj": "Re: OEM Core Switching Solution",
+   "last_dir": "in",
+   "last_date": "2026-01-20",
+   "last_subj": "Re: OEM Core Switching Solution",
+   "last_k": "d7fe7ed18432cbb9",
+   "last_snippet": "Dear Alan: Good day, Thank you for your support and for processing the information with the Data Center client",
+   "last_questions": [],
+   "days_since": 279
+  },
   "calendar": {
    "holidays": [],
    "cny": "我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。",
@@ -31714,6 +35466,67 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 5,
+   "chars": 1382,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     4,
+     "2024-06-20"
+    ],
+    [
+     "10G",
+     3,
+     "2024-06-20"
+    ],
+    [
+     "工业",
+     2,
+     "2024-06-20"
+    ],
+    [
+     "项目 / 招标",
+     2,
+     "2024-06-20"
+    ],
+    [
+     "PoE",
+     1,
+     "2024-06-20"
+    ],
+    [
+     "光纤 / 媒体转换",
+     1,
+     "2024-06-20"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": [
+    {
+     "q": 14,
+     "date": "2024-06-20",
+     "ctx": "at, 240W, Din mounting Dual DC48V~DC55V 14units Pls send price an",
+     "k": "018449b22dc51791"
+    }
+   ]
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 12,
+   "longest_days": 44,
+   "longest_first": "2024-05-07",
+   "longest_last": "2024-06-20",
+   "longest_subj": "L2 managed switch",
+   "last_dir": "out",
+   "last_date": "2024-06-20",
+   "last_subj": "Re: L2 managed switch",
+   "last_k": "4dc8c3b789722006",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 858
+  },
   "calendar": {
    "holidays": [
     [
@@ -31871,6 +35684,63 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 4,
+   "chars": 938,
+   "topics": [
+    [
+     "PoE",
+     3,
+     "2024-06-25"
+    ],
+    [
+     "光纤 / 媒体转换",
+     1,
+     "2024-06-25"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2024-11-19"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 11,
+    "mass": 5,
+    "one": 6,
+    "in": 4,
+    "last_out": "2025-01-06",
+    "last_in": "2024-11-19"
+   },
+   "A": {
+    "out": 5,
+    "mass": 5,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-09-18",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 8,
+   "longest_days": 55,
+   "longest_first": "2024-06-19",
+   "longest_last": "2024-08-14",
+   "longest_subj": "10G switch",
+   "last_dir": "out",
+   "last_date": "2024-11-20",
+   "last_subj": "Re: Mini Industrial PoE Switch",
+   "last_k": "f02f65b1e31a43e0",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 706
+  },
   "calendar": {
    "holidays": [
     [
@@ -32087,6 +35957,102 @@
     "mb": "AS"
    }
   ],
+  "words": {
+   "n_mails": 5,
+   "chars": 2275,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     4,
+     "2026-03-11"
+    ],
+    [
+     "样品",
+     1,
+     "2024-11-23"
+    ],
+    [
+     "贴牌 / OEM",
+     1,
+     "2026-01-15"
+    ],
+    [
+     "项目 / 招标",
+     1,
+     "2026-01-19"
+    ],
+    [
+     "PoE",
+     1,
+     "2026-03-10"
+    ],
+    [
+     "10G",
+     1,
+     "2026-03-10"
+    ]
+   ],
+   "competitors": [
+    [
+     "Cisco",
+     3,
+     "2026-03-10"
+    ],
+    [
+     "Huawei",
+     1,
+     "2026-01-15"
+    ]
+   ],
+   "chips": [
+    [
+     "CENTEC",
+     4,
+     "2026-03-10"
+    ]
+   ],
+   "qty": [
+    {
+     "q": 8,
+     "date": "2026-03-11",
+     "ctx": "ink switch that supports stacking up to 8 units using StackWise-320",
+     "k": "82dece0babf0d83f"
+    }
+   ]
+  },
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 7,
+    "one": 1,
+    "in": 1,
+    "last_out": "2025-01-06",
+    "last_in": "2024-11-23"
+   },
+   "A": {
+    "out": 13,
+    "mass": 8,
+    "one": 5,
+    "in": 4,
+    "last_out": "2026-03-12",
+    "last_in": "2026-03-11"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 9,
+   "longest_days": 55,
+   "longest_first": "2026-01-15",
+   "longest_last": "2026-03-12",
+   "longest_subj": "Re: OEM Core Switching Solution",
+   "last_dir": "out",
+   "last_date": "2026-03-12",
+   "last_subj": "Re: OEM Core Switching Solution",
+   "last_k": "c532353d6d1be39d",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 229
+  },
   "calendar": {
    "holidays": [],
    "cny": "我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。",
@@ -32363,6 +36329,39 @@
     "mb": "S"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 10,
+    "mass": 7,
+    "one": 3,
+    "in": 1,
+    "last_out": "2025-02-07",
+    "last_in": "2024-06-16"
+   },
+   "A": {
+    "out": 13,
+    "mass": 13,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-03-11",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 30,
+   "longest_first": "2024-06-16",
+   "longest_last": "2024-07-17",
+   "longest_subj": "Re: Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-07-17",
+   "last_subj": "Re: Industrial PoE Switch",
+   "last_k": "d706c2809bb79f07",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 831
+  },
   "calendar": {
    "holidays": [
     [
@@ -32566,6 +36565,53 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 211,
+   "topics": [
+    [
+     "PoE",
+     1,
+     "2024-06-18"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 9,
+    "mass": 7,
+    "one": 2,
+    "in": 1,
+    "last_out": "2025-01-06",
+    "last_in": "2024-06-18"
+   },
+   "A": {
+    "out": 15,
+    "mass": 14,
+    "one": 1,
+    "in": 0,
+    "last_out": "2026-08-10",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 27,
+   "longest_first": "2024-06-18",
+   "longest_last": "2024-07-16",
+   "longest_subj": "Re: 48 port managed switch",
+   "last_dir": "out",
+   "last_date": "2025-04-02",
+   "last_subj": "Re: Marvell Alleycat5 Solution",
+   "last_k": "a444eeb97758ba35",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 573
+  },
   "calendar": {
    "holidays": [
     [
@@ -34335,6 +38381,63 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1499,
+   "topics": [
+    [
+     "项目 / 招标",
+     3,
+     "2026-05-26"
+    ],
+    [
+     "贴牌 / OEM",
+     1,
+     "2026-03-30"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2026-05-26"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 7,
+    "mass": 7,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-27",
+    "last_in": null
+   },
+   "A": {
+    "out": 19,
+    "mass": 17,
+    "one": 2,
+    "in": 2,
+    "last_out": "2026-09-09",
+    "last_in": "2026-05-26"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 42,
+   "longest_first": "2026-03-30",
+   "longest_last": "2026-05-12",
+   "longest_subj": "Re: Marvell Managed Commercial Switches",
+   "last_dir": "in",
+   "last_date": "2026-05-26",
+   "last_subj": "You have a Bid Invitation from BSD Networks",
+   "last_k": "96db4511c0c030f3",
+   "last_snippet": "Hello, BSD Networks is pleased to extend a formal Invitation to Bid for the construction of a new twelve-store",
+   "last_questions": [],
+   "days_since": 153
+  },
   "calendar": {
    "holidays": [
     [
@@ -36035,6 +40138,40 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 5,
+   "chars": 6522,
+   "topics": [
+    [
+     "价格 / 折扣",
+     2,
+     "2025-03-18"
+    ],
+    [
+     "工业",
+     1,
+     "2025-03-18"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 11,
+   "longest_days": 58,
+   "longest_first": "2025-03-17",
+   "longest_last": "2025-05-15",
+   "longest_subj": "MOH-TA-170325 Offer",
+   "last_dir": "in",
+   "last_date": "2025-05-15",
+   "last_subj": "RE: [EXTERNAL] MOH-TA-170325 Offer",
+   "last_k": "d385ca588de7d060",
+   "last_snippet": "Hello Alan, Unfortunately there is no news yest, but once we have news regarding your offer we will be in touc",
+   "last_questions": [],
+   "days_since": 529
+  },
   "calendar": {
    "holidays": [
     [
@@ -36312,6 +40449,74 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1242,
+   "topics": [
+    [
+     "工业",
+     2,
+     "2024-09-06"
+    ],
+    [
+     "样品",
+     2,
+     "2024-09-06"
+    ],
+    [
+     "PoE",
+     1,
+     "2024-09-06"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2024-09-06"
+    ]
+   ],
+   "competitors": [
+    [
+     "Antaira",
+     1,
+     "2024-09-06"
+    ]
+   ],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 5,
+    "mass": 2,
+    "one": 3,
+    "in": 2,
+    "last_out": "2024-09-06",
+    "last_in": "2024-09-06"
+   },
+   "A": {
+    "out": 3,
+    "mass": 3,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-07-02",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 0,
+   "longest_first": "2024-09-06",
+   "longest_last": "2024-09-06",
+   "longest_subj": "Fwd: 8 port unmanaged switch",
+   "last_dir": "out",
+   "last_date": "2024-09-06",
+   "last_subj": "Re: 8 port unmanaged switch",
+   "last_k": "8884a81a60ecbdb4",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 780
+  },
   "calendar": {
    "holidays": [
     [
@@ -36464,6 +40669,35 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 269,
+   "topics": [
+    [
+     "认证",
+     1,
+     "2026-05-08"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 11,
+   "longest_days": 144,
+   "longest_first": "2026-04-23",
+   "longest_last": "2026-09-14",
+   "longest_subj": "Re: Marvell Managed Commercial Switches",
+   "last_dir": "out",
+   "last_date": "2026-09-14",
+   "last_subj": "Re: Marvell Managed Commercial Switches",
+   "last_k": "18fcdc87f4ccf5a9",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 43
+  },
   "calendar": {
    "holidays": [
     [
@@ -37280,6 +41514,58 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 3,
+   "chars": 952,
+   "topics": [
+    [
+     "工业",
+     3,
+     "2023-06-19"
+    ],
+    [
+     "项目 / 招标",
+     3,
+     "2023-06-19"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 0,
+    "mass": 0,
+    "one": 0,
+    "in": 3,
+    "last_out": null,
+    "last_in": "2023-06-19"
+   },
+   "A": {
+    "out": 5,
+    "mass": 5,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-22",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2023-06-19",
+   "longest_last": "2023-06-19",
+   "longest_subj": "RFQ for telecom items",
+   "last_dir": "in",
+   "last_date": "2023-06-19",
+   "last_subj": "RFQ for telecom items",
+   "last_k": "0c993be0c8b28c1b",
+   "last_snippet": "Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the at",
+   "last_questions": [],
+   "days_since": 1225
+  },
   "calendar": {
    "holidays": [
     [
@@ -38657,6 +42943,42 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 208,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2025-06-10"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": [
+    {
+     "q": 24,
+     "date": "2025-06-10",
+     "ctx": "ies and what is the price for the 8 and 24 switches? I wish you a good",
+     "k": "29941328229f4d08"
+    }
+   ]
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2025-06-10",
+   "longest_last": "2025-06-10",
+   "longest_subj": "AW: 16 Port Ethernet Switch",
+   "last_dir": "out",
+   "last_date": "2025-06-10",
+   "last_subj": "Re: 16 Port Ethernet Switch",
+   "last_k": "869ab8494c880aed",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 503
+  },
   "calendar": {
    "holidays": [
     [
@@ -38840,6 +43162,58 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 3,
+   "chars": 1054,
+   "topics": [],
+   "competitors": [
+    [
+     "Dahua",
+     1,
+     "2024-08-13"
+    ],
+    [
+     "Hikvision",
+     1,
+     "2024-08-13"
+    ]
+   ],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 9,
+    "mass": 6,
+    "one": 3,
+    "in": 3,
+    "last_out": "2024-12-12",
+    "last_in": "2024-08-13"
+   },
+   "A": {
+    "out": 15,
+    "mass": 15,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-01",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 6,
+   "longest_days": 120,
+   "longest_first": "2024-08-13",
+   "longest_last": "2024-12-12",
+   "longest_subj": "RE: Passive PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-12-12",
+   "last_subj": "Re: Passive PoE Switch",
+   "last_k": "ed973dfae5902353",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 683
+  },
   "calendar": {
    "holidays": [],
    "cny": "我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。",
@@ -39591,6 +43965,53 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 3,
+   "chars": 254,
+   "topics": [],
+   "competitors": [
+    [
+     "Barox",
+     3,
+     "2024-05-03"
+    ]
+   ],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 6,
+    "mass": 2,
+    "one": 4,
+    "in": 3,
+    "last_out": "2024-07-19",
+    "last_in": "2024-05-03"
+   },
+   "A": {
+    "out": 20,
+    "mass": 20,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-22",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 7,
+   "longest_days": 55,
+   "longest_first": "2024-05-02",
+   "longest_last": "2024-06-26",
+   "longest_subj": "Re: Industrial Ethernet Switch",
+   "last_dir": "out",
+   "last_date": "2024-06-26",
+   "last_subj": "Re: Industrial Ethernet Switch",
+   "last_k": "9087effa8f6271a6",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 852
+  },
   "calendar": {
    "holidays": [
     [
@@ -40032,6 +44453,24 @@
     "mb": "S"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 1,
+    "mass": 1,
+    "one": 0,
+    "in": 1,
+    "last_out": "2025-01-15",
+    "last_in": "2024-12-12"
+   },
+   "A": {
+    "out": 20,
+    "mass": 20,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-08",
+    "last_in": null
+   }
+  },
   "calendar": {
    "holidays": [
     [
@@ -41198,6 +45637,39 @@
     "mb": "A"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 4,
+    "mass": 4,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-08",
+    "last_in": null
+   },
+   "A": {
+    "out": 13,
+    "mass": 12,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-10-01"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2025-10-01",
+   "longest_last": "2025-10-01",
+   "longest_subj": "Re: 10G Enterprise SFP Switch",
+   "last_dir": "out",
+   "last_date": "2025-10-01",
+   "last_subj": "Re: 10G Enterprise SFP Switch",
+   "last_k": "7a73abfaa5304c0e",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 390
+  },
   "calendar": {
    "holidays": [
     [
@@ -41964,6 +46436,53 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 228,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2026-01-16"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 0,
+    "last_out": "2024-12-24",
+    "last_in": null
+   },
+   "A": {
+    "out": 34,
+    "mass": 32,
+    "one": 2,
+    "in": 2,
+    "last_out": "2026-09-10",
+    "last_in": "2026-01-16"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 54,
+   "longest_first": "2026-01-16",
+   "longest_last": "2026-03-12",
+   "longest_subj": "RE: OEM Core Switching Solution",
+   "last_dir": "out",
+   "last_date": "2026-03-12",
+   "last_subj": "Re: OEM Core Switching Solution",
+   "last_k": "5a31864c874d4d61",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 229
+  },
   "calendar": {
    "holidays": [
     [
@@ -42066,6 +46585,39 @@
     "mb": "S"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 1,
+    "mass": 0,
+    "one": 1,
+    "in": 1,
+    "last_out": "2025-01-16",
+    "last_in": "2025-01-15"
+   },
+   "A": {
+    "out": 10,
+    "mass": 10,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-02-13",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2025-01-15",
+   "longest_last": "2025-01-16",
+   "longest_subj": "Re: Mini Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2025-01-16",
+   "last_subj": "Re: Mini Industrial PoE Switch",
+   "last_k": "05b51bd103cc66ea",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 649
+  },
   "calendar": {
    "holidays": [
     [
@@ -43850,6 +48402,53 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 180,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2026-02-09"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 5,
+    "mass": 5,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-31",
+    "last_in": null
+   },
+   "A": {
+    "out": 17,
+    "mass": 16,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-28",
+    "last_in": "2026-02-09"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2026-02-09",
+   "longest_last": "2026-02-09",
+   "longest_subj": "RE: OEM Core Switching Solution",
+   "last_dir": "out",
+   "last_date": "2026-02-09",
+   "last_subj": "Re: OEM Core Switching Solution",
+   "last_k": "3a9da0e0aa327b04",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 259
+  },
   "calendar": {
    "holidays": [
     [
@@ -44169,6 +48768,51 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 309,
+   "topics": [
+    [
+     "质保 / 售后",
+     2,
+     "2025-05-20"
+    ],
+    [
+     "固件 / 软件",
+     1,
+     "2025-05-20"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Broadcom",
+     3,
+     "2025-05-20"
+    ],
+    [
+     "Marvell",
+     1,
+     "2025-05-20"
+    ]
+   ],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 0,
+   "longest_first": "2025-05-20",
+   "longest_last": "2025-05-20",
+   "longest_subj": "Re: Marvell Alleycat5 Solution",
+   "last_dir": "out",
+   "last_date": "2025-05-20",
+   "last_subj": "Re: Marvell Alleycat5 Solution",
+   "last_k": "0759f588345bd385",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 524
+  },
   "calendar": {
    "holidays": [
     [
@@ -45685,6 +50329,63 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1646,
+   "topics": [
+    [
+     "PoE",
+     2,
+     "2025-07-07"
+    ],
+    [
+     "CCTV / 安防",
+     1,
+     "2025-07-07"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2025-07-07"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 5,
+    "mass": 4,
+    "one": 1,
+    "in": 0,
+    "last_out": "2024-10-23",
+    "last_in": null
+   },
+   "A": {
+    "out": 16,
+    "mass": 13,
+    "one": 3,
+    "in": 2,
+    "last_out": "2026-09-04",
+    "last_in": "2025-07-07"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 29,
+   "longest_first": "2025-07-07",
+   "longest_last": "2025-08-06",
+   "longest_subj": "RE: Commercial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2025-08-06",
+   "last_subj": "Re: Commercial PoE Switch",
+   "last_k": "f66064b1b1e4e590",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 447
+  },
   "calendar": {
    "holidays": [
     [
@@ -49724,6 +54425,39 @@
     "mb": "A"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 9,
+    "mass": 9,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-10-09",
+    "last_in": null
+   },
+   "A": {
+    "out": 13,
+    "mass": 12,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2025-06-12"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2025-06-12",
+   "longest_last": "2025-06-12",
+   "longest_subj": "Re: Managed Optical Bypass Switch [#298633]",
+   "last_dir": "out",
+   "last_date": "2025-06-12",
+   "last_subj": "Re: Managed Optical Bypass Switch [#298633]",
+   "last_k": "b5529dff7bb2a8e7",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 501
+  },
   "calendar": {
    "holidays": [
     [
@@ -53501,6 +58235,84 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 11,
+   "chars": 5288,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     5,
+     "2026-05-26"
+    ],
+    [
+     "价格 / 折扣",
+     5,
+     "2026-05-26"
+    ],
+    [
+     "固件 / 软件",
+     5,
+     "2026-06-03"
+    ],
+    [
+     "PoE",
+     4,
+     "2026-05-26"
+    ],
+    [
+     "10G",
+     4,
+     "2026-05-26"
+    ],
+    [
+     "质保 / 售后",
+     4,
+     "2026-07-02"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     5,
+     "2026-05-25"
+    ],
+    [
+     "CENTEC",
+     1,
+     "2026-05-25"
+    ]
+   ],
+   "qty": [
+    {
+     "q": 8000,
+     "date": "2026-03-30",
+     "ctx": "cific request: a customer of ours needs 8,000 units of a Campus L2 swit",
+     "k": "c3ec0dc5b8622bbb"
+    },
+    {
+     "q": 10,
+     "date": "2026-07-02",
+     "ctx": "ciate your assistance. We urgently need 10 pieces of DX1518/DX1548 ch",
+     "k": "f77f97cdc39f10a5"
+    }
+   ]
+  },
+  "ball": {
+   "threads": 4,
+   "longest_n": 10,
+   "longest_days": 13,
+   "longest_first": "2026-05-22",
+   "longest_last": "2026-06-05",
+   "longest_subj": "Supported SONiC for Saga Ethernet Switches | COMPU",
+   "last_dir": "out",
+   "last_date": "2026-07-02",
+   "last_subj": "Re: Request for DX1518/DX1548 Chips",
+   "last_k": "9386d851165248d5",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 116
+  },
   "calendar": {
    "holidays": [
     [
@@ -54430,6 +59242,66 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1567,
+   "topics": [
+    [
+     "PoE",
+     7,
+     "2024-09-09"
+    ],
+    [
+     "光纤 / 媒体转换",
+     1,
+     "2024-07-29"
+    ],
+    [
+     "10G",
+     1,
+     "2024-09-09"
+    ],
+    [
+     "工业",
+     1,
+     "2024-09-09"
+    ],
+    [
+     "CCTV / 安防",
+     1,
+     "2024-09-09"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2024-09-09"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2024-09-09"
+    ]
+   ],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 77,
+   "longest_first": "2024-07-29",
+   "longest_last": "2024-10-15",
+   "longest_subj": "Re: 24V poe switch",
+   "last_dir": "out",
+   "last_date": "2024-10-15",
+   "last_subj": "Re: 24V poe switch",
+   "last_k": "f593f54d20a0fc7c",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 742
+  },
   "calendar": {
    "holidays": [
     [
@@ -54535,6 +59407,42 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 412,
+   "topics": [
+    [
+     "项目 / 招标",
+     1,
+     "2024-06-21"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": [
+    {
+     "q": 10,
+     "date": "2024-06-21",
+     "ctx": "Please quote me 10pcs. *Mr. Ly Thanh H",
+     "k": "6940cc80c3d991e2"
+    }
+   ]
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 26,
+   "longest_first": "2024-06-21",
+   "longest_last": "2024-07-18",
+   "longest_subj": "Re: 8 port fiber switch",
+   "last_dir": "out",
+   "last_date": "2024-07-18",
+   "last_subj": "Re: 8 port fiber switch",
+   "last_k": "66569016d00dac89",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 830
+  },
   "calendar": {
    "holidays": [
     [
@@ -60639,6 +65547,24 @@
     "mb": "S"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 0,
+    "mass": 0,
+    "one": 0,
+    "in": 1,
+    "last_out": null,
+    "last_in": "2024-08-15"
+   },
+   "A": {
+    "out": 12,
+    "mass": 12,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-10-07",
+    "last_in": null
+   }
+  },
   "calendar": {
    "holidays": [
     [
@@ -61189,6 +66115,82 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1596,
+   "topics": [
+    [
+     "10G",
+     5,
+     "2026-01-13"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     5,
+     "2026-01-13"
+    ],
+    [
+     "贴牌 / OEM",
+     5,
+     "2026-01-13"
+    ],
+    [
+     "光纤 / 媒体转换",
+     3,
+     "2025-10-23"
+    ],
+    [
+     "价格 / 折扣",
+     2,
+     "2026-01-13"
+    ],
+    [
+     "质保 / 售后",
+     2,
+     "2026-01-13"
+    ]
+   ],
+   "competitors": [
+    [
+     "Cisco",
+     2,
+     "2026-01-13"
+    ],
+    [
+     "Huawei",
+     2,
+     "2026-01-13"
+    ]
+   ],
+   "chips": [
+    [
+     "Marvell",
+     2,
+     "2025-10-23"
+    ],
+    [
+     "CENTEC",
+     1,
+     "2026-01-13"
+    ]
+   ],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 187,
+   "longest_first": "2026-01-13",
+   "longest_last": "2026-07-20",
+   "longest_subj": "RE: OEM Core Switching Solution",
+   "last_dir": "out",
+   "last_date": "2026-07-20",
+   "last_subj": "Re: OEM Core Switching Solution",
+   "last_k": "2c088651a92dded8",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 99
+  },
   "calendar": {
    "holidays": [
     [
@@ -62416,6 +67418,68 @@
     "mb": "AS"
    }
   ],
+  "words": {
+   "n_mails": 10,
+   "chars": 5298,
+   "topics": [
+    [
+     "工业",
+     1,
+     "2024-07-23"
+    ],
+    [
+     "质保 / 售后",
+     1,
+     "2024-07-23"
+    ],
+    [
+     "样品",
+     1,
+     "2024-10-15"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2025-04-28"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 18,
+    "mass": 3,
+    "one": 15,
+    "in": 9,
+    "last_out": "2025-01-03",
+    "last_in": "2024-10-15"
+   },
+   "A": {
+    "out": 16,
+    "mass": 15,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-08",
+    "last_in": "2025-04-28"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 24,
+   "longest_days": 263,
+   "longest_first": "2024-02-25",
+   "longest_last": "2024-11-15",
+   "longest_subj": "RE: Industrial poe switch",
+   "last_dir": "out",
+   "last_date": "2025-04-28",
+   "last_subj": "Re: Commercial PoE Switch",
+   "last_k": "e46305c9a960c1f2",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 546
+  },
   "calendar": {
    "holidays": [
     [
@@ -63535,6 +68599,25 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 5,
+   "chars": 3586,
+   "topics": [
+    [
+     "MOQ / 交期",
+     2,
+     "2026-08-05"
+    ],
+    [
+     "项目 / 招标",
+     2,
+     "2026-08-05"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
   "calendar": {
    "holidays": [
     [
@@ -64553,6 +69636,81 @@
     "mb": "AS"
    }
   ],
+  "words": {
+   "n_mails": 5,
+   "chars": 443,
+   "topics": [
+    [
+     "价格 / 折扣",
+     2,
+     "2025-02-08"
+    ],
+    [
+     "贴牌 / OEM",
+     1,
+     "2025-02-07"
+    ],
+    [
+     "MOQ / 交期",
+     1,
+     "2025-02-07"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2025-02-08"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2025-02-08"
+    ]
+   ],
+   "qty": [
+    {
+     "q": 3,
+     "date": "2025-02-08",
+     "ctx": "does seem quite expensive we have layer 3 switches for a lot less.",
+     "k": "83a6a36c850cb83b"
+    }
+   ]
+  },
+  "channels": {
+   "S": {
+    "out": 16,
+    "mass": 12,
+    "one": 4,
+    "in": 2,
+    "last_out": "2025-02-06",
+    "last_in": "2024-05-09"
+   },
+   "A": {
+    "out": 36,
+    "mass": 33,
+    "one": 3,
+    "in": 3,
+    "last_out": "2026-09-07",
+    "last_in": "2025-02-08"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 6,
+   "longest_days": 23,
+   "longest_first": "2025-02-07",
+   "longest_last": "2025-03-03",
+   "longest_subj": "RE: L3 Managed Switch",
+   "last_dir": "out",
+   "last_date": "2025-03-03",
+   "last_subj": "Re: L3 Managed Switch",
+   "last_k": "71f5f62ff6785f81",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 602
+  },
   "calendar": {
    "holidays": [
     [
@@ -65637,6 +70795,39 @@
     "mb": "AS"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 10,
+    "mass": 6,
+    "one": 4,
+    "in": 1,
+    "last_out": "2025-01-03",
+    "last_in": "2024-06-05"
+   },
+   "A": {
+    "out": 16,
+    "mass": 14,
+    "one": 2,
+    "in": 1,
+    "last_out": "2026-08-17",
+    "last_in": "2026-05-12"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 5,
+   "longest_days": 76,
+   "longest_first": "2024-06-05",
+   "longest_last": "2024-08-21",
+   "longest_subj": "RE: Industrial fiber switch",
+   "last_dir": "out",
+   "last_date": "2026-05-15",
+   "last_subj": "Re: 10G Enterprise SFP Switch",
+   "last_k": "ee1e42d8ec6ffca5",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 165
+  },
   "calendar": {
    "holidays": [
     [
@@ -67914,6 +73105,60 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 199,
+   "topics": [
+    [
+     "项目 / 招标",
+     1,
+     "2024-07-04"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": [
+    {
+     "q": 16,
+     "date": "2024-07-04",
+     "ctx": "as diagram attached ? I am looking for 16 sets for Tunnel project",
+     "k": "4dbd322d94d94597"
+    }
+   ]
+  },
+  "channels": {
+   "S": {
+    "out": 9,
+    "mass": 6,
+    "one": 3,
+    "in": 1,
+    "last_out": "2025-01-30",
+    "last_in": "2024-07-04"
+   },
+   "A": {
+    "out": 19,
+    "mass": 19,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-28",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 46,
+   "longest_first": "2024-07-04",
+   "longest_last": "2024-08-19",
+   "longest_subj": "Re: 8 Port Network Switch",
+   "last_dir": "out",
+   "last_date": "2024-08-19",
+   "last_subj": "Re: 8 Port Network Switch",
+   "last_k": "4aeedc7aaf4476e6",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 798
+  },
   "calendar": {
    "holidays": [
     [
@@ -75256,6 +80501,53 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 627,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2026-02-06"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-24",
+    "last_in": null
+   },
+   "A": {
+    "out": 21,
+    "mass": 20,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-07",
+    "last_in": "2026-02-06"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2026-02-06",
+   "longest_last": "2026-02-06",
+   "longest_subj": "OEM Core Switching Solution",
+   "last_dir": "out",
+   "last_date": "2026-02-06",
+   "last_subj": "Re: OEM Core Switching Solution",
+   "last_k": "ad3c414a423e33cb",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 262
+  },
   "calendar": {
    "holidays": [
     [
@@ -78695,6 +83987,63 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 5,
+   "chars": 389,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     2,
+     "2024-11-03"
+    ],
+    [
+     "PoE",
+     1,
+     "2024-09-18"
+    ],
+    [
+     "质保 / 售后",
+     1,
+     "2024-09-19"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 12,
+    "mass": 6,
+    "one": 6,
+    "in": 5,
+    "last_out": "2025-01-06",
+    "last_in": "2025-01-06"
+   },
+   "A": {
+    "out": 6,
+    "mass": 6,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-18",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 3,
+   "longest_n": 6,
+   "longest_days": 3,
+   "longest_first": "2024-09-16",
+   "longest_last": "2024-09-19",
+   "longest_subj": "Re: 24V/48V PoE Switch",
+   "last_dir": "out",
+   "last_date": "2025-01-06",
+   "last_subj": "Re: 24 Port Fiber Switch",
+   "last_k": "1852c439d25a7120",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 658
+  },
   "calendar": {
    "holidays": [
     [
@@ -81578,6 +86927,35 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 77,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2026-03-23"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2026-03-23",
+   "longest_last": "2026-03-23",
+   "longest_subj": "RE: Marvell Managed Commercial Switches",
+   "last_dir": "out",
+   "last_date": "2026-03-23",
+   "last_subj": "Re: Marvell Managed Commercial Switches",
+   "last_k": "670306b3514c9c1c",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 217
+  },
   "calendar": {
    "holidays": [
     [
@@ -82885,6 +88263,39 @@
     "mb": "S"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 6,
+    "mass": 3,
+    "one": 3,
+    "in": 1,
+    "last_out": "2025-01-03",
+    "last_in": "2024-09-08"
+   },
+   "A": {
+    "out": 14,
+    "mass": 14,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-04-08",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 45,
+   "longest_first": "2024-09-08",
+   "longest_last": "2024-10-24",
+   "longest_subj": "Re: Power Converter",
+   "last_dir": "out",
+   "last_date": "2024-10-24",
+   "last_subj": "Re: Power Converter",
+   "last_k": "dfee51348aa39ecb",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 732
+  },
   "calendar": {
    "holidays": [
     [
@@ -83741,6 +89152,58 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 128,
+   "topics": [
+    [
+     "10G",
+     2,
+     "2024-06-24"
+    ],
+    [
+     "光纤 / 媒体转换",
+     1,
+     "2024-06-17"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 9,
+    "mass": 5,
+    "one": 4,
+    "in": 2,
+    "last_out": "2025-01-03",
+    "last_in": "2024-06-24"
+   },
+   "A": {
+    "out": 11,
+    "mass": 11,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-03-05",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 28,
+   "longest_first": "2024-06-17",
+   "longest_last": "2024-07-16",
+   "longest_subj": "Re: 48 port managed switch",
+   "last_dir": "out",
+   "last_date": "2024-09-09",
+   "last_subj": "Re: 24 port managed switch",
+   "last_k": "5b93217dc580dc09",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 777
+  },
   "calendar": {
    "holidays": [
     [
@@ -83868,6 +89331,66 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 223,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2026-08-15"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": [
+    {
+     "q": 300,
+     "date": "2026-08-13",
+     "ctx": "product to Allied AT-GS910-24, 47 pcs, 300 pcs a year.",
+     "k": "e38d26c7ab40da80"
+    },
+    {
+     "q": 47,
+     "date": "2026-08-13",
+     "ctx": "uivalent product to Allied AT-GS910-24, 47 pcs, 300 pcs a year.",
+     "k": "e38d26c7ab40da80"
+    }
+   ]
+  },
+  "channels": {
+   "S": {
+    "out": 1,
+    "mass": 1,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-09",
+    "last_in": null
+   },
+   "A": {
+    "out": 20,
+    "mass": 18,
+    "one": 2,
+    "in": 2,
+    "last_out": "2026-10-07",
+    "last_in": "2026-08-15"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 1,
+   "longest_first": "2026-08-13",
+   "longest_last": "2026-08-15",
+   "longest_subj": "RE: 24 Port PoE Managed Switch",
+   "last_dir": "out",
+   "last_date": "2026-08-15",
+   "last_subj": "Re: 24 Port PoE Managed Switch",
+   "last_k": "44e2d2b34a060ccb",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 72
+  },
   "calendar": {
    "holidays": [
     [
@@ -84467,6 +89990,39 @@
     "mb": "S"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 5,
+    "mass": 3,
+    "one": 2,
+    "in": 1,
+    "last_out": "2025-02-07",
+    "last_in": "2024-10-30"
+   },
+   "A": {
+    "out": 20,
+    "mass": 20,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-08-31",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 15,
+   "longest_first": "2024-10-30",
+   "longest_last": "2024-11-15",
+   "longest_subj": "Re: 10G Ethernet Web Managed Switch",
+   "last_dir": "out",
+   "last_date": "2024-11-15",
+   "last_subj": "Re: 10G Ethernet Web Managed Switch",
+   "last_k": "fba891bb8a6c8b31",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 710
+  },
   "calendar": {
    "holidays": [
     [
@@ -87145,6 +92701,39 @@
     "mb": "AS"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 9,
+    "mass": 6,
+    "one": 3,
+    "in": 1,
+    "last_out": "2025-01-03",
+    "last_in": "2024-07-30"
+   },
+   "A": {
+    "out": 19,
+    "mass": 19,
+    "one": 0,
+    "in": 1,
+    "last_out": "2026-09-28",
+    "last_in": "2025-11-21"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 58,
+   "longest_first": "2024-07-30",
+   "longest_last": "2024-09-27",
+   "longest_subj": "Re: Passive poe switch",
+   "last_dir": "in",
+   "last_date": "2025-11-21",
+   "last_subj": "Re: Booster PoE Switch",
+   "last_k": "3b06b00f028239e2",
+   "last_snippet": "No, but thank you. ________________________________",
+   "last_questions": [],
+   "days_since": 339
+  },
   "calendar": {
    "holidays": [
     [
@@ -91087,6 +96676,97 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 18,
+   "chars": 3256,
+   "topics": [
+    [
+     "25G/40G/100G+",
+     6,
+     "2026-03-23"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     4,
+     "2026-03-20"
+    ],
+    [
+     "价格 / 折扣",
+     3,
+     "2026-02-27"
+    ],
+    [
+     "MOQ / 交期",
+     3,
+     "2026-08-15"
+    ],
+    [
+     "质保 / 售后",
+     1,
+     "2026-02-05"
+    ],
+    [
+     "贴牌 / OEM",
+     1,
+     "2026-03-20"
+    ]
+   ],
+   "competitors": [
+    [
+     "Juniper",
+     1,
+     "2026-02-27"
+    ]
+   ],
+   "chips": [],
+   "qty": [
+    {
+     "q": 50,
+     "date": "2026-05-19",
+     "ctx": "Hi Alan, I hope you are well. In the 50 switches is there a plan for",
+     "k": "77fc79297576e203"
+    },
+    {
+     "q": 6,
+     "date": "2026-03-23",
+     "ctx": "n Do you mean QSFP112 400Gb module and 6 pieces in EACH unit(total",
+     "k": "f05ed71fa67e24bc"
+    }
+   ]
+  },
+  "channels": {
+   "S": {
+    "out": 9,
+    "mass": 8,
+    "one": 1,
+    "in": 0,
+    "last_out": "2024-11-14",
+    "last_in": null
+   },
+   "A": {
+    "out": 33,
+    "mass": 10,
+    "one": 23,
+    "in": 18,
+    "last_out": "2026-09-07",
+    "last_in": "2026-08-15"
+   }
+  },
+  "ball": {
+   "threads": 2,
+   "longest_n": 27,
+   "longest_days": 170,
+   "longest_first": "2026-03-20",
+   "longest_last": "2026-09-07",
+   "longest_subj": "400GB Switches",
+   "last_dir": "out",
+   "last_date": "2026-09-07",
+   "last_subj": "Re: 400GB Switches",
+   "last_k": "4f96f1b391f5822c",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 49
+  },
   "calendar": {
    "holidays": [
     [
@@ -92020,6 +97700,64 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 1944,
+   "topics": [
+    [
+     "质保 / 售后",
+     4,
+     "2025-02-03"
+    ],
+    [
+     "PoE",
+     2,
+     "2025-02-03"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     2,
+     "2025-02-03"
+    ],
+    [
+     "贴牌 / OEM",
+     1,
+     "2025-02-03"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2025-02-03"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2025-02-03"
+    ]
+   ],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 7,
+    "mass": 7,
+    "one": 0,
+    "in": 0,
+    "last_out": "2024-12-17",
+    "last_in": null
+   },
+   "A": {
+    "out": 22,
+    "mass": 22,
+    "one": 0,
+    "in": 2,
+    "last_out": "2026-10-01",
+    "last_in": "2025-02-03"
+   }
+  },
   "calendar": {
    "holidays": [
     [
@@ -92113,6 +97851,20 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 260,
+   "topics": [
+    [
+     "项目 / 招标",
+     1,
+     "2024-11-02"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
   "calendar": {
    "holidays": [
     [
@@ -93313,6 +99065,24 @@
     "mb": "S"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 8,
+    "one": 0,
+    "in": 1,
+    "last_out": "2025-01-16",
+    "last_in": "2024-10-30"
+   },
+   "A": {
+    "out": 35,
+    "mass": 35,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-09",
+    "last_in": null
+   }
+  },
   "calendar": {
    "holidays": [
     [
@@ -96557,6 +102327,66 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 20,
+   "chars": 25270,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     10,
+     "2025-10-31"
+    ],
+    [
+     "价格 / 折扣",
+     4,
+     "2025-08-27"
+    ],
+    [
+     "贴牌 / OEM",
+     2,
+     "2024-11-19"
+    ],
+    [
+     "质保 / 售后",
+     2,
+     "2025-01-31"
+    ],
+    [
+     "工业",
+     1,
+     "2024-05-16"
+    ],
+    [
+     "10G",
+     1,
+     "2025-01-31"
+    ]
+   ],
+   "competitors": [
+    [
+     "Cisco",
+     2,
+     "2025-10-31"
+    ]
+   ],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 4,
+   "longest_n": 20,
+   "longest_days": 279,
+   "longest_first": "2023-11-09",
+   "longest_last": "2024-08-14",
+   "longest_subj": "Re: POE switch",
+   "last_dir": "out",
+   "last_date": "2026-03-11",
+   "last_subj": "Re: 10G Enterprise SFP Switch",
+   "last_k": "3cab7e50e48fea36",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 229
+  },
   "calendar": {
    "holidays": [
     [
@@ -96717,6 +102547,63 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 7,
+   "chars": 1930,
+   "topics": [
+    [
+     "质保 / 售后",
+     6,
+     "2024-10-22"
+    ],
+    [
+     "光纤 / 媒体转换",
+     3,
+     "2024-06-20"
+    ],
+    [
+     "10G",
+     2,
+     "2024-08-13"
+    ],
+    [
+     "工业",
+     1,
+     "2024-05-20"
+    ],
+    [
+     "PoE",
+     1,
+     "2024-07-16"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2024-08-13"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 13,
+    "mass": 13,
+    "one": 0,
+    "in": 7,
+    "last_out": "2024-11-25",
+    "last_in": "2024-10-24"
+   },
+   "A": {
+    "out": 10,
+    "mass": 10,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-21",
+    "last_in": null
+   }
+  },
   "calendar": {
    "holidays": [
     [
@@ -97213,6 +103100,35 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 7,
+   "chars": 1326,
+   "topics": [
+    [
+     "质保 / 售后",
+     6,
+     "2026-03-02"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 4,
+   "longest_n": 3,
+   "longest_days": 0,
+   "longest_first": "2025-01-03",
+   "longest_last": "2025-01-04",
+   "longest_subj": "Re: [External]24 Port Fiber Switch",
+   "last_dir": "in",
+   "last_date": "2026-03-02",
+   "last_subj": "RE: [External]Updated Ethernet Switches Links",
+   "last_k": "840ce51782b3829d",
+   "last_snippet": "Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-4",
+   "last_questions": [],
+   "days_since": 238
+  },
   "calendar": {
    "holidays": [
     [
@@ -97901,6 +103817,40 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 364,
+   "topics": [
+    [
+     "PoE",
+     1,
+     "2024-10-25"
+    ],
+    [
+     "管理型 / L2+ / L3",
+     1,
+     "2024-10-25"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 21,
+   "longest_first": "2024-10-25",
+   "longest_last": "2024-11-15",
+   "longest_subj": "Re: 2.5G Web Managed Switch",
+   "last_dir": "out",
+   "last_date": "2024-11-15",
+   "last_subj": "Re: 2.5G Web Managed Switch",
+   "last_k": "524a938f61c8fb53",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 710
+  },
   "calendar": {
    "holidays": [
     [
@@ -103969,6 +109919,63 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 772,
+   "topics": [
+    [
+     "价格 / 折扣",
+     3,
+     "2025-07-07"
+    ],
+    [
+     "PoE",
+     1,
+     "2025-07-06"
+    ],
+    [
+     "工业",
+     1,
+     "2025-07-06"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 4,
+    "mass": 3,
+    "one": 1,
+    "in": 0,
+    "last_out": "2024-10-02",
+    "last_in": null
+   },
+   "A": {
+    "out": 17,
+    "mass": 15,
+    "one": 2,
+    "in": 2,
+    "last_out": "2026-09-07",
+    "last_in": "2025-07-07"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 1,
+   "longest_first": "2025-07-06",
+   "longest_last": "2025-07-08",
+   "longest_subj": "RE: 16 Port Ethernet Switch",
+   "last_dir": "out",
+   "last_date": "2025-07-08",
+   "last_subj": "Re: 16 Port Ethernet Switch",
+   "last_k": "79fecf111ba8f0f3",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 476
+  },
   "calendar": {
    "holidays": [
     [
@@ -104438,6 +110445,73 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 575,
+   "topics": [
+    [
+     "管理型 / L2+ / L3",
+     3,
+     "2024-05-22"
+    ],
+    [
+     "10G",
+     2,
+     "2024-05-22"
+    ],
+    [
+     "工业",
+     2,
+     "2024-05-22"
+    ],
+    [
+     "样品",
+     1,
+     "2024-05-22"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2024-05-22"
+    ],
+    [
+     "付款 / 物流",
+     1,
+     "2024-05-22"
+    ]
+   ],
+   "competitors": [],
+   "chips": [
+    [
+     "Marvell",
+     1,
+     "2024-05-22"
+    ]
+   ],
+   "qty": [
+    {
+     "q": 100,
+     "date": "2024-05-22",
+     "ctx": "ello, What is the price DDP for 10, 50, 100 units? Best Regards. Char",
+     "k": "1e2c24b00883813d"
+    }
+   ]
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 5,
+   "longest_days": 99,
+   "longest_first": "2024-05-22",
+   "longest_last": "2024-08-30",
+   "longest_subj": "RE: 24 port managed switch",
+   "last_dir": "out",
+   "last_date": "2024-08-30",
+   "last_subj": "Re: 24 port managed switch",
+   "last_k": "cf00648ad164d915",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 787
+  },
   "calendar": {
    "holidays": [
     [
@@ -105527,6 +111601,63 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 2,
+   "chars": 893,
+   "topics": [
+    [
+     "项目 / 招标",
+     1,
+     "2024-08-07"
+    ],
+    [
+     "样品",
+     1,
+     "2024-10-09"
+    ],
+    [
+     "价格 / 折扣",
+     1,
+     "2024-10-09"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 9,
+    "mass": 7,
+    "one": 2,
+    "in": 2,
+    "last_out": "2025-01-06",
+    "last_in": "2024-10-09"
+   },
+   "A": {
+    "out": 4,
+    "mass": 4,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-15",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 3,
+   "longest_days": 5,
+   "longest_first": "2024-10-09",
+   "longest_last": "2024-10-15",
+   "longest_subj": "RE: Mini Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2024-10-15",
+   "last_subj": "Re: Mini Industrial PoE Switch",
+   "last_k": "1959d267e00d0824",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 741
+  },
   "calendar": {
    "holidays": [
     [
@@ -106401,6 +112532,53 @@
     "mb": "S"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 53,
+   "topics": [
+    [
+     "认证",
+     1,
+     "2024-01-02"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 11,
+    "mass": 8,
+    "one": 3,
+    "in": 1,
+    "last_out": "2025-01-10",
+    "last_in": "2024-01-02"
+   },
+   "A": {
+    "out": 13,
+    "mass": 13,
+    "one": 0,
+    "in": 0,
+    "last_out": "2026-09-10",
+    "last_in": null
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 4,
+   "longest_days": 182,
+   "longest_first": "2024-01-02",
+   "longest_last": "2024-07-02",
+   "longest_subj": "RE: Industrial power adapter",
+   "last_dir": "out",
+   "last_date": "2024-07-02",
+   "last_subj": "Re: Industrial power adapter",
+   "last_k": "e28c3906f7365e04",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 847
+  },
   "calendar": {
    "holidays": [
     [
@@ -106716,6 +112894,39 @@
     "mb": "A"
    }
   ],
+  "channels": {
+   "S": {
+    "out": 7,
+    "mass": 7,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-17",
+    "last_in": null
+   },
+   "A": {
+    "out": 23,
+    "mass": 22,
+    "one": 1,
+    "in": 1,
+    "last_out": "2026-09-21",
+    "last_in": "2026-04-20"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 45,
+   "longest_first": "2026-04-20",
+   "longest_last": "2026-06-05",
+   "longest_subj": "RE: Industrial PoE Switch",
+   "last_dir": "out",
+   "last_date": "2026-06-05",
+   "last_subj": "Re: Industrial PoE Switch",
+   "last_k": "c943d0ffd571332d",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 144
+  },
   "calendar": {
    "holidays": [
     [
@@ -108169,6 +114380,48 @@
     "mb": "AS"
    }
   ],
+  "words": {
+   "n_mails": 15,
+   "chars": 12345,
+   "topics": [
+    [
+     "MOQ / 交期",
+     30,
+     "2025-06-10"
+    ],
+    [
+     "贴牌 / OEM",
+     15,
+     "2025-06-10"
+    ],
+    [
+     "价格 / 折扣",
+     15,
+     "2025-06-10"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 8,
+    "mass": 7,
+    "one": 1,
+    "in": 10,
+    "last_out": "2025-01-09",
+    "last_in": "2025-01-09"
+   },
+   "A": {
+    "out": 24,
+    "mass": 24,
+    "one": 0,
+    "in": 5,
+    "last_out": "2026-09-04",
+    "last_in": "2025-06-10"
+   }
+  },
   "calendar": {
    "holidays": [
     [
@@ -111140,6 +117393,53 @@
     "mb": "A"
    }
   ],
+  "words": {
+   "n_mails": 1,
+   "chars": 57,
+   "topics": [
+    [
+     "价格 / 折扣",
+     1,
+     "2025-08-08"
+    ]
+   ],
+   "competitors": [],
+   "chips": [],
+   "qty": []
+  },
+  "channels": {
+   "S": {
+    "out": 1,
+    "mass": 1,
+    "one": 0,
+    "in": 0,
+    "last_out": "2025-01-23",
+    "last_in": null
+   },
+   "A": {
+    "out": 14,
+    "mass": 12,
+    "one": 2,
+    "in": 1,
+    "last_out": "2026-02-12",
+    "last_in": "2025-08-08"
+   }
+  },
+  "ball": {
+   "threads": 1,
+   "longest_n": 2,
+   "longest_days": 0,
+   "longest_first": "2025-08-08",
+   "longest_last": "2025-08-09",
+   "longest_subj": "RE: 24 Port Fiber Switch",
+   "last_dir": "out",
+   "last_date": "2025-08-09",
+   "last_subj": "Re: 24 Port Fiber Switch",
+   "last_k": "7533abba594ebc6d",
+   "last_snippet": "",
+   "last_questions": [],
+   "days_since": 444
+  },
   "calendar": {
    "holidays": [
     [

@@ -89,6 +89,7 @@ updated: 2026-10-27
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 87 / automation 0） / 光纤接入 / 媒体转换（media converter 14 / fiber 22）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：10G 汇聚 / PoE / 工业；**还没碰过的一类：光纤接入 / 媒体转换** → 下封信可加一句 STI-140GE（1 光 4 电工业非管理，$29.1 EXW）。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 821 条 URL（≥500 = 大目录 / 网店体量）；社媒：http://www.facebook.com/CXRNetworks/、http://www.linkedin.com/company/cxr-anderson-jacobson、https://twitter.com/CxrNetworks。
 - **写信的人（来信签名机械抽取）**：Marco Di Valerio（marco.divalerio@cxr.fr，1 封，2024-05-30 → 2024-05-30）。
+- **最后一球**：1:1 对话 1 段，最长一段 5 封 / 跨 79 天（2024-05-30 → 2024-08-18，「Re: 10g media converter」）；最后一句是我们说的（2024-08-18，799 天前，「Re: 10g media converter」，`7d86d6aa1f2f7b98`）→ 球在对方手里。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

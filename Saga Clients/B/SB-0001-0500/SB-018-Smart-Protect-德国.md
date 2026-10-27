@@ -70,6 +70,7 @@ updated: 2026-10-27
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 11 封（2025-04-15 → 2026-09-07），打开标签 3 次（近 12 个月 1，最后 2026-08-11）；打开过：「48 Port PoE Managed Switch」×1（2025-05-13）、「Industrial PoE Switch」×1（2025-06-10）、「24 Port PoE Managed Switch」×1（2026-08-11）；从未打开：「8 Port Industrial PoE Switch」、「16 Port Ethernet Switch」、「10G Enterprise SFP Switch」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 8 条 URL；站内可见品牌 2 个（Ajax、Dahua）；官网语言 de（信照样英文，首句可用对方语言问候）。
 - **写信的人（来信签名机械抽取）**：Walker Security Systems（info@walker-security.systems，1 封，2025-06-10 → 2025-06-10）。
+- **最后一球**：1:1 对话 1 段，最长一段 3 封 / 跨 91 天（2025-06-10 → 2025-09-09，「Re: Industrial PoE Switch」）；最后一句是我们说的（2025-09-09，412 天前，「Re: Industrial PoE Switch」，`c45049dd165f075b`）→ 球在对方手里。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-06，德国多数工厂整周停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）
