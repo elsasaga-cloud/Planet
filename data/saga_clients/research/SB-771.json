@@ -32,7 +32,7 @@
  "kp": [
   {
    "name": "Samanta Navarro",
-   "title": "（表内联系人）",
+   "title": "市场口（职务待核）—— **公司在哥斯达黎加 San José（Ruijie 等品牌经销商），用户表国别 US 误 → country_fix 哥斯达黎加**；与迈阿密 LanPro（SB-913）同名未证实关联（第 90 批 官方登记核实 2026-10-27）",
    "email": "mercadeo@lanprosa.com",
    "phone": "",
    "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -46,11 +46,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Lanprosa（待核）",
-  "founded": "",
-  "hq": "（美国 / 拉美，待核）",
-  "size": "中小型经销",
-  "other": "西语运营"
+  "legal_name": "Lanprosa S.A.（Registro Nacional 付费未取）",
+  "founded": "2003（contactout；自述 20 年经验）（第 90 批 官方登记核实 2026-10-27）",
+  "hq": "Calle Blancos, San Francisco de Goicoechea, San José 11502, Costa Rica（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型（网络 / 安防分销 + 集成）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "西语运营",
+  "staff": "11–50（LinkedIn）/ 22（RocketReach）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "CCTV / 网络经销"

@@ -40,7 +40,7 @@
  "kp": [
   {
    "name": "Augustin Liu",
-   "title": "Supervisor",
+   "title": "采购 / 销售口（职务待核）—— **公司在安省 Markham（加拿大），用户表国别 US 误 → country_fix 加拿大；DBA Phantom Cables = 自有品牌 → OEM 30%「Phantom」PoE，FCC + ISED**（第 90 批 官方登记核实 2026-10-27）",
    "email": "sales@infinitecables.com",
    "phone": "",
    "source": "用户表"
@@ -51,6 +51,13 @@
    "email": "",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "George Arvanitopoulos",
+   "role": "董事 / 主要负责人（Corporations Canada 6482929 + D&B）= 老板；联名董事 Chris Michael Frangos —— 抄送（第 90 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://opengovca.com/corporation/6482929"
   }
  ],
  "grade_override": null,
@@ -61,8 +68,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 infinitecables.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "3993 14th Avenue, Markham, ON L3R 4Z6（多伦多东北）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 infinitecables.com，语言 en，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Infinite Cables Inc.（Corporations Canada 6482929；BN 813852142RC0001；DBA Phantom Cables）",
+  "founded": "2006-01-01（联邦；业务始于 2003）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "11–50（LinkedIn；RocketReach 32）；62,000 sq ft 办公 + 仓 = 千万加元级（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型 / 中型（线缆 + 网络配件自有品牌分销）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "线缆 / 光纤 / UPS 电池 / 安防摄像机网店"

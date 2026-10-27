@@ -47,14 +47,16 @@
    "title": "General Manager e A.D.",
    "email": "info@dodicelettronica.it",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Direttore Generale / Key Principal（ufficiocamerale）= **决策人 = 联系人** → PoE 4/8/16/24 分销 20%；营收 €4.16M 但利润 €31.8k = 薄利 → 不做第二次让价（第 90 批 官方登记核实 2026-10-27）"
   },
   {
    "name": "Ivan Stazio",
    "title": "CFO",
    "email": "marketing@dodic.it",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "市场口（marketing@dodic.it；职务待核）—— 抄送（第 90 批 官方登记核实 2026-10-27）"
   }
  ],
  "grade_override": null,
@@ -65,8 +67,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "意大利",
-  "other": "官网 dodicelettronica.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Via del Casale 13, 03100 Frosinone（总部 + 中央仓 1,500 m²）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 dodicelettronica.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "DODIC ELETTRONICA S.R.L.（Dodic Group；P.IVA / C.F. 01809930603 · REA FR-102942）",
+  "founded": "1992-04-09（S.r.l.；业务自 1975）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "7–8 人正式员工 + 6 网点；营收 €4.16M（2025）· 利润 €31.8k（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型分销（中意安防 / 电子 6 分店）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "安防 / 防盗 / 视频监控 / 家居自动化分销（意大利）"

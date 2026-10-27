@@ -39,7 +39,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Murat Köksal",
+   "role": "Network and Security Solutions Director（Ankara；LinkedIn）= 技术决策人 → 写他：数据中心 10G/25G/100G（STH CENTEC）配其 Packet Broker / TAP 卖，分销 20% / OEM 30%；**守界：不做 bypass 交换机**（第 90 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.teslakom.com/kurumsal"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -48,8 +56,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 teslakom.com，语言 tr-TR，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Koçman Cd. 54 Demirkol Plaza C Blok Kat:2, Bağcılar / İstanbul（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 teslakom.com，语言 tr-TR，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "TESLAKOM BİLİŞİM VE TELEKOMÜNİKASYON A.Ş.（İstanbul Bağcılar Demirkol Plaza + Ankara Bilkent Cyberpark）",
+  "founded": "2013（官网）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "12 人（contactout）/ 11–50；Niagara Networks（Packet Broker / Bypass / TAP）+ Celerway SD-WAN + Viprinet 土耳其分销 + 托管服务（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型增值分销商（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "网络 / 工业网络 / 网络安全方案与咨询"

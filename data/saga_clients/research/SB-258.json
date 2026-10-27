@@ -42,7 +42,7 @@
  "kp": [
   {
    "name": "Fatjon Luniku",
-   "title": "administrator",
+   "title": "Administrator & 股东（2013–；另 Lex Travel、ARFA shpk 2005–2020）—— **合规标注（内部）：2024-01 因 IPTV 盗版 + 逃税案被捕，2025-12 报道已获释** → 留档不主动追；来询则 100% 预付、FOB 深圳；信里绝不提案件（第 90 批 官方登记核实 2026-10-27）",
    "email": "f.luniku@arfanet.al",
    "phone": "",
    "source": "用户表"
@@ -56,8 +56,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "阿尔巴尼亚",
-  "other": "官网 arfanet.al，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Rruga Muhedin Llagani, Ndërtesa 2, Nr.6, Tiranë（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 arfanet.al，语言 en，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "ARFANET SH.P.K.（NIPT L31626002T；股东 Artan Sota / Fatjon Luniku / Eduard Koka / Lorenc Sota）",
+  "founded": "2013-04-23（companywall.al）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "估 5–10 人；收入 73.5M ALL（≈ €0.73M）· 净利 0.58M ALL（第 90 批 官方登记核实 2026-10-27）",
+  "size": "微型 / 小型（酒店 SMATV / IPTV + 安防批发安装）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "安防 / 酒店 / 电视信号 / 视频监控方案与分销"

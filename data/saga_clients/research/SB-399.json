@@ -47,7 +47,8 @@
    "title": "Vice President of Product and Engineering",
    "email": "sales@petawise.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "VP Product & Engineering（2022–）—— **LinkedIn 现挂 Genetec → 可能已离职**；下一封写 sales@ 问「current product lead」，不再指名（第 90 批 官方登记核实 2026-10-27）"
   },
   {
    "name": "John K",
@@ -62,6 +63,13 @@
    "email": "",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "Dexter Liu",
+   "role": "VP Operation（LinkedIn）—— Petawise = **Uniview 加拿大独家**（整线成品）→ 只打其空档：工业 DIN / 2.5G–10G PoE++，分销 20%（第 90 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.petawise.com/"
   }
  ],
  "grade_override": null,
@@ -72,8 +80,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 petawise.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "1040 Martin Grove Rd Unit 9, Toronto (Etobicoke), ON M9W 4W4（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 petawise.com，语言 en-US，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Petawise Inc.（Petawise Technologies；安省登记 JS-only）",
+  "founded": "2014/2015（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "11–50（LinkedIn）/ 8（RocketReach）；ZoomInfo 估 $5.3M（量级）（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型（Uniview 加拿大独家分销）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "IP 视频监控分销（Uniview 加拿大）",

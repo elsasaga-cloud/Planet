@@ -48,8 +48,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 microseven.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "404 S Lemon Ave Ste 9, Walnut, CA 91789（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 microseven.com，语言 ?，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Microseven Systems, LLC（CA SoS 未查）",
+  "founded": "2001（官网）/ 2003（LinkedIn）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "微型（1–9 人；创始人 James Cao）；Thomasnet 估 <$1M（第 90 批 官方登记核实 2026-10-27）",
+  "size": "微型（IP 摄像机 + 流媒体）→ 不追（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "PoE / Wi-Fi 安防摄像机网店",

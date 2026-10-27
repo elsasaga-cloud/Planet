@@ -43,7 +43,7 @@
  "kp": [
   {
    "name": "Abiel Abuy",
-   "title": "Procurement & Logistics",
+   "title": "研究档收件人（波兰分部 / 采购口；职务待核）—— 公司 = **OPTOKON a.s. 捷克 Jihlava 光纤制造商（Štefl 家族；军用线 = PASS），optokon.pl = 波兰分部** → 商用 / 工业 OEM 30%，**明说不做 MIL-STD**，抄 George Štefl（第 90 批 官方登记核实 2026-10-27）",
    "email": "pytlak@optokon.com",
    "phone": "",
    "source": "用户表"
@@ -54,6 +54,13 @@
    "email": "",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "George Štefl",
+   "role": "Group Manager & Head of Marketing（二代；兼 OptoNet Communication jednatel）；实控人 = 父 Ing. Jiří Štefl（1993 起 jednatel，2021 správní rada）（第 90 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://or.justice.cz/ias/ui/rejstrik-$firma?ico=13692283"
   }
  ],
  "grade_override": null,
@@ -64,8 +71,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "波兰",
-  "other": "官网 optokon.pl，语言 pl，快照状态 ok；角色判定来源：用户表"
+  "hq": "Jihlava, Czech Republic（波兰：Świebodzice 一带分部）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 optokon.pl，语言 pl，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "OPTOKON, a.s.（IČO 13692283；DIČ CZ13692283；Červený Kříž 250, 586 01 Jihlava；波兰分部 OPTOKON Zakład Światłowodowy —— 用户表国别 PL 保留 = 收件人所在分部）",
+  "founded": "1991-01-16（s.r.o.；2014-08-30 起 a.s.）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "估 100–250 人；多国子公司 + 13 个在招岗位（第 90 批 官方登记核实 2026-10-27）",
+  "size": "中型制造商（光纤连接 / 军用加固）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "光缆 / 光纤配件 / 测试仪制造",

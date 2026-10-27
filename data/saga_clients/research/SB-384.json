@@ -48,8 +48,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 canacctv.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "Unit B135-6286 203 Street, Langley, BC V2Y 3S1（运营 Surrey）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 canacctv.com，语言 en-US，快照状态 ok；角色判定来源：用户表；微型 CCTV 网店 → 分销 20% 一封 admin@，无回即停（第 90 批 官方登记核实 2026-10-27）",
+  "legal_name": "Canacctv（网店；法人名未取 —— BC Registry 付费 / JS）",
+  "size": "微型（估 1–5 人）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "视频监控设备网店（加拿大）"

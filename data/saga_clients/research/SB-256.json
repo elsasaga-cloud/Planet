@@ -43,7 +43,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Karol Nowak",
+   "role": "Prezes zarządu（UNIFORCE sp. z o.o. = 普通合伙人）/ 创始人（2007-09-24 个体起）= **老板 = 联系人**；prokurent Jerzy Zdzisław Nowak（家族）→ 分销 20% + 自有标签 OEM 30% 可选（第 90 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://rejestr.io/krs/817374"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -52,9 +60,12 @@
   "level": "B 级加厚 v1（网店目录核对）"
  },
  "company_facts": {
-  "legal_name": "TVprzemyslowa sp. z o.o. sp. k.（品牌 Uniforce TVprzemyslowa）",
-  "hq": "ul. Kórnicka 30, 61-141 Poznań（另见 Bodawska 11, 61-309 Poznań）, Polska（+48 61 875 04 76；kontakt@tvprzemyslowa.pl）",
-  "other": "网店类目：监控（Hikvision/Dahua/IDIS/Eneo/ATTE 等），含专门的「Switche POE Dahua」类目"
+  "legal_name": "UNIFORCE TVPRZEMYSLOWA NOWAK SP.K.（原 TVprzemyslowa sp. z o.o. sp.k.；KRS 0000817374 · NIP 7822874326 · REGON 385013197）",
+  "hq": "ul. Kórnicka 30, 61-141 Poznań（第 90 批 官方登记核实 2026-10-27）",
+  "other": "网店类目：监控（Hikvision/Dahua/IDIS/Eneo/ATTE 等），含专门的「Switche POE Dahua」类目",
+  "founded": "2019-12-05（KRS；业务自 2007-09-24）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "估 5–15 人（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型（CCTV 批发 / 网店 Poznań）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "CCTV/IP 监控设备网店与分销",

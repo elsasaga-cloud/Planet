@@ -39,7 +39,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Tobias Hübner",
+   "role": "Geschäftsführer（2022-10 起；ex ESRA GmbH Prokurist；3 名股东之一 = 推定）= **老板 = 联系人** → **经营范围白纸黑字「摄像机 / NVR / UI 白标」= 在建自有安防品牌 → OEM 30%「frogfish」PoE 4/8/16/24 配 NVR**（第 90 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.northdata.de/frogfish%20surveillance%20GmbH,%20Reichenbach"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -48,8 +56,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 frogfish.de，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "Reichenbach im Vogtland, Sachsen（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 frogfish.de，语言 en，快照状态 ok；角色判定来源：用户表；**同名陷阱：Kleinmachnow 的 Frogfish&41 GmbH（HRB 34275 Potsdam）无关**（第 90 批 官方登记核实 2026-10-27）",
+  "legal_name": "frogfish surveillance GmbH（Amtsgericht Chemnitz HRB 35309；EUID DEU1206.HRB35309；Friedensstraße 62, 08468 Reichenbach im Vogtland；登记笔误初名「froqfish」2022-10-25 更正）",
+  "founded": "2022-10-14（Handelsregister）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "微型（估 3–10 人）；Stammkapital €25,000；3 股东（Northdata 网络：ESRA GmbH Reichenbach / Friedrich Strobel / Simon Strobel）（第 90 批 官方登记核实 2026-10-27）",
+  "size": "微型（安防白标进口商）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "CCTV 摄像机 / 安防机器人（自有品牌 frogfish）",

@@ -26,10 +26,17 @@
  "kp": [
   {
    "name": "Grace（Fosco Sales）",
-   "title": "Sales",
+   "title": "Fosco Sales 接待（Grace）—— **公司在加州 Pleasanton，用户表「CA」= California 非加拿大 → country_fix 美国（FCC，无 ISED）**（第 90 批 官方登记核实 2026-10-27）",
    "email": "sales@fo4sale.com",
    "phone": "",
    "source": "gmail_a cb73165c3eeea9fa"
+  },
+  {
+   "name": "Colin Yao",
+   "role": "创始人 / 业主（官网 + BBB「Sales Manager」= 老板亲自管销售）= **老板 = 联系人** → 光口交换机分销 20%（STI-154GP / STC-110XGE / STI-288DGGPM），FOB 深圳（第 90 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.fiberoptics4sale.com/"
   }
  ],
  "grade_override": "B",
@@ -40,11 +47,12 @@
   "level": "邮件复核 · 未爬官网"
  },
  "company_facts": {
-  "legal_name": "Fiber Optics For Sale Co.（待核）",
-  "founded": "",
-  "hq": "北美（表内 CA）",
-  "size": "",
-  "other": "fo4sale.com / foscoconnect.com 两域"
+  "legal_name": "Fiber Optics For Sale Co.（FOSCO Connect；CA SoS 未查）",
+  "founded": "2003-08-04（BBB；业务始于 2001）（第 90 批 官方登记核实 2026-10-27）",
+  "hq": "269 Mavis Drive, Pleasanton, CA 94566（仓 Livermore）（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型（光纤产品网售 + 分销）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "fo4sale.com / foscoconnect.com 两域",
+  "staff": "11–50（LinkedIn）/ 12（BBB）；自述「multi-million dollar annual sales」（第 90 批 官方登记核实 2026-10-27）"
  },
  "channels": {
   "role": "线上零售 / 分销",

@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 5
+  "count": 6
  },
  "rows": {
   "SA-070": {
@@ -178,6 +178,39 @@
    "notes": "研究档 size「小型」应上调为中型 73–82 人 / €8M。",
    "fetched": "2026-10-27",
    "code": "SB-104"
+  },
+  "SB-271": {
+   "batch": 90,
+   "name": "DODIC ELETTRONICA S.R.L.（Dodic Group；Frosinone）",
+   "iso": "IT",
+   "source": "IT · 1 次检索：ufficiocamerale（P.IVA 01809930603，REA FR-102942，1992-04-09 登记，营收 €4,163,559（2025），利润 €31,758，7 人，ATECO 47.52.1）+ dodicgroup.it（1975 Isola Liri 创立，1985 迁 Frosinone，2001 现址 1,500 m²）+ impresaitalia（6 个网点：Frosinone / Roma Nord / Roma Sud / Fiumicino / Latina / Napoli）+ S News 2020-06（Napoli 分部开业，DG Simone D'Andrea「中意大利分销领先」）+ D&B（Key Principal Simone D'Andrea）+ money.it（股本 €10,200，均 8 人）",
+   "url": "https://www.ufficiocamerale.it/3600/dodic-elettronica-srl",
+   "number": "P.IVA / C.F. 01809930603 · REA FR-102942",
+   "status": "Attiva",
+   "incorporated": "1992-04-09（S.r.l.；业务自 1975）",
+   "company_type": "S.r.l.（股本 €10,200；家族 / 私人）",
+   "sic": [
+    "安防 + 电气材料分销（ATECO 47.52.1 / 43.21.01）：CCTV / 报警 / 门禁 / 电气，中意大利 6 网点，面向安装商"
+   ],
+   "address": "Via del Casale 13, 03100 Frosinone (FR)（总部 + 中央仓 1,500 m²）",
+   "accounts": "营收 €4.16M（2025）· 利润 €31.8k · 7–8 人",
+   "accounts_due": "IT 年报 7–8 月",
+   "size_band": "小型（7–8 人正式员工 + 6 网点；营收 €4M）",
+   "officers": [
+    "Simone D'ANDREA — Direttore Generale / Key Principal（研究档 KP）= 决策人",
+    "Ivan STAZIO — 研究档 KP（职务待核）"
+   ],
+   "psc": "未取（家族企业推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Dodic = 中意大利 6 网点的安防 / 电气分销（€4.16M，1975），总经理 Simone D'Andrea 就在我们 KP 表里 = 决策人直达** → 写 Simone cc Ivan：分销 20%，安装商走量机型 PoE 4/8/16 口（STI-054GP / STC-028GP / STC-228GP）+ 24 口 300 W（STC-2024GP），CE/RoHS，MOQ 1 箱，首单 50/50、三单后 30/70；IT 周四 12–14；避开 8 月 + 12-20–01-06",
+    "利润薄（€31.8k / €4.16M = 0.8%）→ 价格敏感，开价直接给分销 20% 档，不留二次让价空间",
+    "复查：ufficiocamerale 次年 8 月看 2026 营收"
+   ],
+   "notes": "研究档 facts 回填 legal / founded / staff / hq。",
+   "fetched": "2026-10-27",
+   "code": "SB-271"
   }
  }
 }

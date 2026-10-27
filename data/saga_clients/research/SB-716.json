@@ -43,7 +43,7 @@
  "kp": [
   {
    "name": "Daniel H",
-   "title": "Purchasing",
+   "title": "总信箱接待（Daniel H；职务待核）—— 公司 = 墨尔本 1936 年老牌电子分销（两实体同址 = 家族集团）→ 请转 networking category buyer，分销 20%（第 90 批 官方登记核实 2026-10-27）",
    "email": "info@radioparts.com.au",
    "phone": "",
    "source": "用户表"
@@ -57,8 +57,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 radioparts.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "West Melbourne, VIC 3003（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 radioparts.com.au，语言 en，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "RADIO PARTS PTY. LTD.（ABN 95 006 098 719；Trading Name RADIO PARTS GROUP；关联 RADIO PARTS SALES (AUST) PTY LTD ABN 55 004 623 401 同址）",
+  "founded": "≈1982–83（ACN 006 098 719 段）；集团自述 1936（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "估 50–100 人（第 90 批 官方登记核实 2026-10-27）",
+  "size": "中型（电子 / 安防 / 网络分销，门店 + 网店）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "电子产品综合分销（AV / 音响 / 天线 / 电台 / CCTV / 家电）"

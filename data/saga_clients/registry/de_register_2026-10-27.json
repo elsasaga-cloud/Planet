@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 13
+  "count": 14
  },
  "rows": {
   "SA-008": {
@@ -461,6 +461,41 @@
    "notes": "研究档 KP 无 → 加 Koutrouvis（GF）；legal_name 回填。",
    "fetched": "2026-10-27",
    "code": "SB-543"
+  },
+  "SB-240": {
+   "batch": 90,
+   "name": "frogfish surveillance GmbH（Reichenbach im Vogtland, Sachsen）",
+   "iso": "DE",
+   "source": "DE · 1 次检索 + Northdata 1 页：官网 Impressum（HRB 35309 Amtsgericht Chemnitz，GF Tobias Hübner，Friedensstraße 62）+ Northdata（2022-10-14 登记，初名「froqfish」2022-10-25 更正；资本 €25,000；3 名在册股东；网络：ESRA GmbH Reichenbach HRB 1910 / Friedrich Strobel / Simon Strobel；Hübner 曾为 ESRA GmbH 经理 ppa；经营范围：电子安防 / 视频监控 / 技术部件进出口贸易，**摄像机 / NVR / UI 白标（Whitelabeling）**，iOS / Android / Windows 定制 App）；**同名陷阱**：Kleinmachnow 的 Frogfish&41 GmbH（HRB 34275 Potsdam，Julian Jeczawitz，互联网业务）无关",
+   "url": "https://www.northdata.de/frogfish%20surveillance%20GmbH,%20Reichenbach",
+   "number": "HRB 35309（Amtsgericht Chemnitz）· EUID DEU1206.HRB35309",
+   "status": "Aktiv",
+   "incorporated": "2022-10-14",
+   "company_type": "GmbH（资本 €25,000；3 股东 —— 推定 Hübner + Strobel 家族 / ESRA GmbH）",
+   "sic": [
+    "安防 / 视频监控进出口贸易 + **白标摄像机 / NVR / 用户界面** + 定制 App 开发；萨克森福格特兰"
+   ],
+   "address": "Friedensstraße 62, 08468 Reichenbach im Vogtland",
+   "accounts": "—（新公司；Bundesanzeiger 首份年报 2023 微型）",
+   "accounts_due": "DE 次年 12-31 前公示",
+   "size_band": "微型（估 3–10 人）",
+   "officers": [
+    "Tobias HÜBNER — Geschäftsführer（2022-10 起；ex ESRA GmbH Prokurist）= 老板 = 联系人",
+    "Friedrich / Simon STROBEL — 关联股东（ESRA GmbH 圈）"
+   ],
+   "psc": "3 股东（姓名需 Liste der Gesellschafter 原件，Northdata 付费）",
+   "charges": "",
+   "prev_names": [
+    "froqfish surveillance GmbH（登记笔误，2022-10-25 更正）"
+   ],
+   "lines": [
+    "**硬发现：frogfish 的经营范围白纸黑字写着「摄像机 / NVR 白标」—— 这是在建自有安防品牌的进口商，PoE 交换机是其白标套装里缺的一件** → 写 Tobias Hübner（GF = 老板）：OEM 30%「frogfish 牌」PoE 4/8/16/24 口 + NVR 配套（STC-028GP / STC-228GP / STC-2024GP），彩盒 $2.5/套从 200 起，CE/RoHS + WEEE 由他们注册，先付费样机 2 台；DE 周四 12–14；避开 12-24–01-06",
+    "不说：不提 ESRA / Strobel；不说「我们查过 Handelsregister」",
+    "复查：Northdata 看是否出现 Bundesanzeiger 年报 + 新 GF"
+   ],
+   "notes": "研究档 KP 空 → 新增 Tobias Hübner。",
+   "fetched": "2026-10-27",
+   "code": "SB-240"
   }
  }
 }

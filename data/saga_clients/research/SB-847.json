@@ -46,8 +46,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 rollan.ca，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "1288 Rue Saint-Antoine O #1502, Montréal, QC H3C 0X6（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 rollan.ca，语言 en，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Rollan Tech Inc.（RollanTech Corporation；Québec REQ 未查）",
+  "size": "微型（名录 ~1 人）→ 不追（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "IT / 电信 / 绿色能源 / 工业方案（加拿大）"

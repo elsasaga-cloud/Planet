@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 7
+  "count": 9
  },
  "rows": {
   "SA-023": {
@@ -246,6 +246,71 @@
    "notes": "研究档 legal_name 空 → 回填；KP Marek 补姓 Kubas。",
    "fetched": "2026-10-27",
    "code": "SB-246"
+  },
+  "SB-256": {
+   "batch": 90,
+   "name": "UNIFORCE TVPRZEMYSLOWA NOWAK SP.K.（原 TVprzemyslowa sp. z o.o. sp.k.；品牌 Uniforce；Poznań）",
+   "iso": "PL",
+   "source": "PL · 1 次检索：imsig.pl（KRS 0000817374，REGON 385013197，NIP 7822874326，2019-12-05 登记，PKD 46.52.Z）+ 官网 / uniforce.pl 2020-01 公告（由 Karol Nowak 个体 → sp. z o.o. sp.k.，Prezes Karol Nowak）+ rejestr.io / aleo / gowork（普通合伙人 UNIFORCE sp. z o.o. KRS 0000812555，NIP 7822872965，REGON 384822457，prokurent Jerzy Zdzisław Nowak 2020-08-18 起）+ gowork（前身个体 Tvprzemyslowa.pl Karol Nowak，NIP 7822376077，2007-09-24 起）+ aplikuj（现名 UNIFORCE TVPRZEMYSLOWA NOWAK SP.K.）",
+   "url": "https://www.imsig.pl/krs/0000817374",
+   "number": "KRS 0000817374 · NIP 7822874326 · REGON 385013197（有限合伙）；普通合伙人 UNIFORCE sp. z o.o. KRS 0000812555 · NIP 7822872965",
+   "status": "Aktywna",
+   "incorporated": "2019-12-05（KRS；业务自 2007-09-24 个体起）",
+   "company_type": "Spółka komandytowa（普通合伙人 = UNIFORCE sp. z o.o.；Nowak 家族）",
+   "sic": [
+    "PKD 46.52.Z 电子 / 电信设备批发：电子安防系统（CCTV / 报警 / 门禁）+ 无人机；品牌 Uniforce；网店 tvprzemyslowa.pl"
+   ],
+   "address": "ul. Kórnicka 30, 61-141 Poznań",
+   "accounts": "—（sp.k. 年报 KRS 可查，未取）",
+   "accounts_due": "PL 年报 7 月",
+   "size_band": "小型（估 5–15 人）",
+   "officers": [
+    "Karol NOWAK — Prezes zarządu（UNIFORCE sp. z o.o.）/ 创始人（2007 个体起）= 老板 = 联系人",
+    "Jerzy Zdzisław NOWAK — prokurent samoistny（2020-08-18 起；家族）"
+   ],
+   "psc": "Nowak 家族（Karol + Jerzy）",
+   "charges": "",
+   "prev_names": [
+    "TVprzemyslowa sp. z o.o. sp.k.（2019–）",
+    "Tvprzemyslowa.pl Karol Nowak（个体，2007–2020）"
+   ],
+   "lines": [
+    "**老板 = 联系人：Karol Nowak 的波兹南安防批发 + 网店（2007 起，2020 改公司制，自有品牌 Uniforce，兼无人机）** → 写 Karol：分销 20%，CCTV 配套 PoE 4/8/16/24 口（STI-054GP / STC-028GP / STC-228GP / STC-2024GP）挂网店 + 「Uniforce」贴牌 OEM 30% 可选；CE/RoHS，MOQ 1 箱，首单 50/50；PL 周四 12–14；避开 12-24–01-06",
+    "复查：KRS 年报 7 月看营收档"
+   ],
+   "notes": "研究档 KP 空 → 新增 Karol Nowak。",
+   "fetched": "2026-10-27",
+   "code": "SB-256"
+  },
+  "SB-1041": {
+   "batch": 90,
+   "name": "INTALL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ（品牌 noning / 网店 intshop.pl；Gliwice）",
+   "iso": "PL",
+   "source": "PL · 1 次检索：intshop.pl 联系页（法定名 INTALL sp. z o.o.，NIP 6312679269，REGON 380028515，Bojkowska 22, 44-100 Gliwice；「noning 2019 年在 Gliwice 成立，欧洲 IT 方案集成商，对接欧洲仓即时供货」；IdoSell 网店系统）",
+   "url": "https://intshop.pl/contact-eng.html",
+   "number": "NIP 6312679269 · REGON 380028515（KRS 号未取）",
+   "status": "Aktywna（网店在线）",
+   "incorporated": "2019（自述；REGON 38… ≈ 2018）",
+   "company_type": "sp. z o.o.",
+   "sic": [
+    "IT 设备网店 + 项目集成（网络 / 服务器 / 配件，欧洲分销仓转卖）"
+   ],
+   "address": "ul. Bojkowska 22, 44-100 Gliwice（Śląsk）",
+   "accounts": "—（KRS 年报可取，未取）",
+   "accounts_due": "PL 年报 7 月",
+   "size_band": "微型（估 2–5 人）",
+   "officers": [
+    "研究档无 KP（info@noning.pl）；zarząd 未取"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**格利维采的小型 IT 网店 / 转卖商（2019），靠欧洲分销仓发货，没有自己的货** → 低优先：分销 20%、MOQ 1 箱 + 100% 预付的一页报价挂网店即可；写 info@；一封无回即停；PL 周四 12–14"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-1041"
   }
  }
 }

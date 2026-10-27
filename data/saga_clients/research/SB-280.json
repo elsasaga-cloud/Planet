@@ -49,8 +49,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 metcom.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：用户表"
+  "hq": "Şişli / İstanbul（Perpa）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 metcom.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：用户表；每个停车出入口 = 摄像机 + 道闸 + 户外机柜工业 PoE → 集成 25%，STI-054GP / STI-154GP（第 90 批 官方登记核实 2026-10-27）",
+  "legal_name": "METCOM GÜVENLİK TEKNOLOJİLERİ A.Ş.（VKN 6190579359，Şişli；Perpa Ticaret Merkezi A Blok Kat:7-8 No:703-707）",
+  "founded": "2017-01-04（vknsorgula；品牌可能更早）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "车牌识别 / 停车场系统集成 + 自有软件；İstanbul 总部 + Ankara / İzmir 网点（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型（估 10–30 人）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "车牌识别 / 停车场系统 / 视频分析 / 摄像机配件"

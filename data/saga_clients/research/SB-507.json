@@ -40,10 +40,17 @@
  "kp": [
   {
    "name": "Pav Arneja",
-   "title": "General Manager",
+   "title": "General Manager（2013–；管销售与运营；CEO = 父 A.P. Singh Arneja）= **本地决策人 = 联系人**；**公司 2021 起属瑞典 Hexatronic Group，但仍由 Arneja 父子经营 → 采购权在墨尔本**；信里不提并购（第 90 批 官方登记核实 2026-10-27）",
    "email": "sales@fibreoptic.com.au",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "A.P. Singh Arneja",
+   "role": "CEO / 创始人（2000）—— 抄送（第 90 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.fibreoptic.com.au/career"
   }
  ],
  "grade_override": null,
@@ -54,8 +61,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 fibreoptic.com.au，语言 en-au，快照状态 ok；角色判定来源：用户表"
+  "hq": "25 Gilbert Park Drive, Knoxfield, VIC 3180（墨尔本东南）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 fibreoptic.com.au，语言 en-au，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Fibre Optic Systems Pty Ltd（FOS；ABN 未取；2021 起 Hexatronic Group AB 子公司）",
+  "founded": "2000（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "11–50（23）；第三方估 $24M（量级）；内销经理 Jaideep Singh（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型 / 中型（光纤 / 铜缆产品制造 + 分销）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "光纤 / 铜缆方案制造（自有品牌 FOS）"

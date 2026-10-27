@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 28
+  "count": 32
  },
  "rows": {
   "SA-061": {
@@ -865,6 +865,133 @@
    "notes": "country_fix 哥斯达黎加；research hq 回填。",
    "fetched": "2026-10-27",
    "code": "SB-771"
+  },
+  "SB-406": {
+   "batch": 90,
+   "name": "ТОО «Альянс»（Торгово-производственная компания «АЛЬЯНС»；volokno.kz；Алматы）",
+   "iso": "KZ",
+   "source": "KZ · 1 次检索：官网 company 页（ТОО «Альянс»，1999-03-10 阿拉木图司法局登记；光缆 / 电缆 / 电信设备 + 框架帐篷供应）+ netkom.kz 联系页（Наурызбайский район, мкр Калкаман-2, ул. Мусабаева 9/1；manager8@volokno.kz；+7 727 265-53-74）；**同名陷阱**：ТОО «Volokno KZ»（БИН 230240037181，2023 成立，5 人布线商）与本户无关",
+   "url": "https://www.volokno.kz/company/",
+   "number": "БИН 未取（statsnet / ba.prg.kz 命中的是另一家「Волокно КЗ」）",
+   "status": "Active（官网 + 名录在线）",
+   "incorporated": "1999-03-10（官网）",
+   "company_type": "ТОО（私营）",
+   "sic": [
+    "光缆 / 电缆电线 / 电信设备 贸易 + 生产；兼供应框架模块帐篷（民防 / 军队临时安置 —— 守界：军用帐篷非我方品类，不涉）"
+   ],
+   "address": "050027, г. Алматы, Наурызбайский район, мкр. Калкаман-2, ул. Мусабаева 9/1",
+   "accounts": "—",
+   "accounts_due": "KZ 无公开年报",
+   "size_band": "小型（估 10–30 人）",
+   "officers": [
+    "研究档无 KP（manager@ / manager8@）；负责人未取（需 БИН）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**阿拉木图 27 年的光缆 / 电缆贸易商（1999），客户是运营商 / 布线承包商 —— 光口交换机是其货架的自然延伸** → 俄语信写 manager@：分销 20%，光纤场景机型（STI-154GP 4 PoE+1 SFP、STI-288DGGPM 2.5G 光、STC-110XGE 10G），EAC 由他们现有流程，人民币 / 美元 100% 预付，FOB 深圳（哈国货代走霍尔果斯）；阿拉木图周四 北京 13–15",
+    "不说：不提帐篷 / 军队；不提同名公司"
+   ],
+   "notes": "研究档 hq / legal 回填。",
+   "fetched": "2026-10-27",
+   "code": "SB-406"
+  },
+  "SB-616": {
+   "batch": 90,
+   "name": "ТОО «Торговый Дом INTANT»（INTANT；Алматы，6 城分部）",
+   "iso": "KZ",
+   "source": "KZ · 1 次检索：官网首页 / catalog / news（2005 成立；ул. Байзакова 60；2026-07 Hikvision 授予 HiLook 哈萨克斯坦国家分销商证书；Tenda / IP-COM 官方分销；ITC 广播；分部 Алматы / Астана / Шымкент / Атырау / Актобе / Усть-Каменогорск）+ profit.kz / business.gov.kz（旧址 Муратбаева 61；三条线：安防 / 自动化 / 电气）+ Яндекс 132 条评价（安装商折扣、培训）",
+   "url": "https://intant.kz/news/75938/",
+   "number": "БИН 未取（名录未给）",
+   "status": "Active（2026-07 新闻）",
+   "incorporated": "2005（官网）",
+   "company_type": "ТОО（贸易公司；另有 intant.ru 俄罗斯关联站）",
+   "sic": [
+    "**哈萨克斯坦最大的专业安防设备分销之一**：HiLook 国家分销、Hikvision Non-CCTV、Tenda / IP-COM 网络、ITC 广播、周界 / 消防 / 门禁 / 线缆；对安装商折扣 + 培训体系；6 城分部"
+   ],
+   "address": "г. Алматы, ул. Байзакова, 60（旧址 ул. Муратбаева 61）",
+   "accounts": "—",
+   "accounts_due": "KZ 无公开年报",
+   "size_band": "中型（6 城分部；估 50–150 人）",
+   "officers": [
+    "研究档无 KP（intant@intant.net）；管理层未取"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**硬发现：INTANT 是哈萨克斯坦 6 城的安防总分销（HiLook 国家分销 + Tenda 网络线），体量比我们任何 KZ 户都大** → 俄语信写 intant@ 请转网络产品经理：分销 20%，只打 Tenda 覆盖不到的档位 —— Marvell 管理型 L2+（STC-424XGGPM / STI-480XGGM）、工业 DIN PoE（STI，-40℃ 草原 / 油田）、2.5G / 10G 上联；MOQ 1 箱起，首单 100% 预付、三单后 30/70；EAC 他们自有；阿拉木图周四 北京 13–15",
+    "不说：不提 HiLook / Hikvision / Tenda；不提其规模",
+    "复查：官网 news 季看一次（新品牌签约 = 还在找线）"
+   ],
+   "notes": "研究档 KP 待补。",
+   "fetched": "2026-10-27",
+   "code": "SB-616"
+  },
+  "SB-1038": {
+   "batch": 90,
+   "name": "IceCom ehf.（Garðabær, Iceland）",
+   "iso": "IS",
+   "source": "IS · 1 次检索：官网 / english 页（1997 由 David Askelsson + Johann Sigurthorsson 创立；微波 / 网络 / 电视 / 摄像机 / 楼宇自控 / 安防 / 消防 系统安装运维）+ keldan / 1819 / leit.is（kennitala 540102-2440，Lyngási 10, 210 Garðabæ，ÍSAT 43 专业建筑施工，最新年报 2020）+ finna.is（旧 kt 570197-2239 = 1997 原主体）+ OpenCorporates（ehf，2002-01-14）",
+   "url": "https://keldan.is/Fyrirtaeki/Yfirlit/5401022440",
+   "number": "kennitala 540102-2440（现 ehf，2002-01-14）；旧 kt 570197-2239（1997）",
+   "status": "Active（Facebook / 官网在线；keldan 最新年报 2020 —— 之后年报未见，待核）",
+   "incorporated": "1997（原主体）/ 2002-01-14（ehf）",
+   "company_type": "Einkahlutafélag（ehf.；两创始人持有）",
+   "sic": [
+    "ÍSAT 43：电信 / 网络 / 微波链路 / 电视 / CCTV / 楼宇自控 / 安防 / 消防 系统安装 + 运维（集成商）；雷克雅未克都会区"
+   ],
+   "address": "Lyngás 10, 210 Garðabær, Iceland",
+   "accounts": "keldan 有年报摘要（付费；2020 为最新）",
+   "accounts_due": "IS 年报 08-31",
+   "size_band": "微型 / 小型（估 5–15 人）",
+   "officers": [
+    "David ASKELSSON — 联合创始人 / 业主",
+    "Johann SIGURTHORSSON — 联合创始人 / 业主（= 老板 = 联系人，icecom@）"
+   ],
+   "psc": "Askelsson + Sigurthorsson",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：两位创始人经营 28 年的冰岛小集成商（微波 + 网络 + CCTV + 楼宇），冰岛 = EEA（CE 即可）、极寒 + 地热厂房 = 工业 PoE 场景** → 写 icecom@（致 David / Johann）：集成 25%，STI 工业 DIN PoE（-40℃）+ 室外光口上联、微波基站点的 PoE++ 供电（STI-288DGGPM-2BT 60/90 W）；DAP 雷克雅未克走海运拼箱（Saga 百运网）；冰岛 UTC，周四 10–12 = 北京 18–20",
+    "注意：keldan 年报止于 2020 → 发信前看官网 / Facebook 是否仍活跃（研究档 0 次跟进）"
+   ],
+   "notes": "研究档 KP 空 → 新增两位创始人。",
+   "fetched": "2026-10-27",
+   "code": "SB-1038"
+  },
+  "SB-258": {
+   "batch": 90,
+   "name": "ARFANET SH.P.K.（ArfaNet-Systems；Tiranë, Albania）",
+   "iso": "AL",
+   "source": "AL · 1 次检索：companywall.al（NIPT L31626002T，2013-04-23 成立，Aktiv，股东 Artan Sota / Fatjon Luniku / Eduard Koka / Lorenc Sota；收入 73,543,847 ALL，支出 72,177,916，净利 576,306 ALL；f.luniku@arfanet.al）+ D&B（Key Principal Fatjon Luniku）+ 官网 / atp.al（酒店 / 住宅集中电视 SMATV 系统领先，2004 起，阿尔巴尼亚 + 科索沃；门锁 / 门禁 / 门铃 / 火警 / 报警）+ LinkedIn Luniku（Administrator & Shareholder 2013–；另有 Lex Travel、ARFA shpk 2005–2020）+ **pamfleti.net 2024-01-13 / prapaskena.com 2025-12-19：Luniku 因 IPTV 盗版（Tibo）+ 逃税案被捕，后获释**",
+   "url": "https://www.companywall.al/kompania/arfanet/MMGS0RnC",
+   "number": "NIPT L31626002T",
+   "status": "Aktiv（companywall）",
+   "incorporated": "2013-04-23",
+   "company_type": "Sh.p.k.（4 名合伙人）",
+   "sic": [
+    "酒店 / 住宅 电视信号（地面 + 卫星 SMATV / IPTV）系统批发 + 零售 + 安装维护；门锁 / 门禁 / 门铃 / 火警 / 报警；阿尔巴尼亚 + 科索沃"
+   ],
+   "address": "Njësia Bashkiake nr.7, Rruga Muhedin Llagani, Ndërtesa 2, Nr.6, Tiranë",
+   "accounts": "收入 73.5M ALL（≈ €0.73M）· 净利 0.58M ALL（companywall，年度未标）",
+   "accounts_due": "AL 年报 07-31",
+   "size_band": "微型 / 小型（估 5–10 人）",
+   "officers": [
+    "Fatjon LUNIKU — Administrator & 股东（研究档 KP）",
+    "Artan SOTA / Lorenc SOTA / Eduard KOKA — 股东"
+   ],
+   "psc": "4 合伙人",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**合规硬发现：管理人 Luniku 2024-01 因 IPTV 盗版 + 逃税案被捕（2025-12 报道已获释）—— 公司活着、营收 €0.7M 级，但这是「只做 100% 预付、不赊一分钱」的户** → 留档不主动追；来询则酒店 IPTV 配套 PoE（STC-228GP / STC-2024GP）分销 20%，100% 预付、FOB 深圳；信里绝不提案件",
+    "不说：案件 / 法律 / 税务 一字不提（话术禁区）"
+   ],
+   "notes": "合规标注（内部）。",
+   "fetched": "2026-10-27",
+   "code": "SB-258"
   }
  }
 }

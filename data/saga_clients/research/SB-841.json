@@ -39,7 +39,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Brent Koziol",
+   "role": "业主 / 经营者（1998 加入，父 Joe 退休后接班；与妻 Nonette 共同持有；Red Deer 1977 老店）= **老板 = 联系人**（sales@kohen.ca 转）→ STI 工业 DIN PoE 分销 20%（第 90 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.kohen.ca/"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -48,8 +56,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 kohen.ca，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "6022 67A Street, Red Deer, AB T4P 3E8（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 kohen.ca，语言 en，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "Ko-Hen Electronics Supply Ltd.（Alberta 公司登记付费未取）",
+  "founded": "1977（官网）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "估 10–20 人；3,840 sq ft 店面 + 库房（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型（电子元件 / 工业物料零售批发）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "电子元件分销（油气 / 自动化 / 网络）"

@@ -43,14 +43,14 @@
  "kp": [
   {
    "name": "Alexander Cheskis",
-   "title": "（表内联系人）",
+   "title": "联合创始人 / CEO（市场 + 销售；前身 Niram Systems 2008/09）= **老板 = 联系人**；公司 = **Marvell ROS / SONiC 交换机 NOS 软件商** → 卖 Marvell L2+/L3 + CENTEC 做硬件平台，OEM 30% / CENTEC ≥35%，商用 / DC / 工业 only（第 90 批 官方登记核实 2026-10-27）",
    "email": "alexander@larch-networks.com",
    "phone": "",
    "source": "用户表"
   },
   {
    "name": "Andrey Zarudniy",
-   "title": "（表内联系人）",
+   "title": "研究档 KP（职务待核；工程口）（第 90 批 官方登记核实 2026-10-27）",
    "email": "azarudniy@larch-networks.com",
    "phone": "",
    "source": "用户表"
@@ -61,6 +61,13 @@
    "email": "oksana@larch-networks.com",
    "phone": "",
    "source": "S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补）"
+  },
+  {
+   "name": "Eddie Preskovsky",
+   "role": "联合创始人（Tracxn 记为 co-CEO）—— 抄送（第 90 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.larch-networks.com/"
   }
  ],
  "grade_override": null,
@@ -71,8 +78,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "以色列",
-  "other": "官网 larch-networks.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Rosh HaAyin, Central District, Israel（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 larch-networks.com，语言 en-US，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "Larch Networks Ltd.（原 Niram Systems；ח.פ. 未取 —— 下轮 israeli-companies 按名查）",
+  "founded": "2008/2009（前身 Niram Systems）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "11–50（LinkedIn）；开发办公室 Kyiv（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型（交换机 NOS / 嵌入式网络软件）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "定制网络软件 / 硬件开发（SONiC）",

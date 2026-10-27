@@ -48,14 +48,16 @@
    "title": "Product Management, VP",
    "email": "sales@amer.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "VP Product Management（ex D-Link Canada；RocketReach）= 产品选型人 = **写他**（Lee 家族二代）（第 90 批 官方登记核实 2026-10-27）"
   },
   {
    "name": "Wai Lee",
    "title": "CEO",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO / 创始人（1997；Crunchbase）—— **自有品牌 Amer Networks（交换机 / PoE / 光模块）= OEM 品牌商 = 首选目标 → OEM 30% Amer 标**（第 90 批 官方登记核实 2026-10-27）"
   }
  ],
  "grade_override": null,
@@ -66,8 +68,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 amer.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "3620B Laird Road Unit 4, Mississauga, ON L5L 6A9（+ Clearwater FL 美国仓）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 amer.com，语言 en-US，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Amer Networks（Amer.com；Mississauga ON + Clearwater FL；安省登记 JS-only、FL Sunbiz 未命中）",
+  "founded": "1997（LinkedIn / 新闻稿）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "11–50（LinkedIn）；第三方估数百万美元（量级）（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型（自有品牌网络设备商）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "交换机 / MC / PoE 注入器 / AP（自有品牌 Amer）",

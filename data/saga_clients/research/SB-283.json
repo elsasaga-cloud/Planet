@@ -46,7 +46,7 @@
  "kp": [
   {
    "name": "Ibrahim",
-   "title": "（表内联系人）",
+   "title": "姓氏 / 职务待核 —— 公司 = **伊斯坦布尔 1,500+ 经销商的安防总批发（100–200 人，$10–50M 级，与 Bimel 同量级）** → 请他转 ağ ürünleri ürün müdürü；分销 20% + 自有标签 OEM 30% 可选（第 90 批 官方登记核实 2026-10-27）",
    "email": "ibrahim@oncuguvenlik.com.tr",
    "phone": "",
    "source": "用户表"
@@ -60,8 +60,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 oncuguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Kavacık Mah. FSM Cad. Yayabeyi Sk. No:8, 34810 Beykoz / İstanbul（整栋）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 oncuguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "ÖNCÜ GÜVENLİK SİSTEMLERİ A.Ş.（VKN 6560323830，Beykoz；现 A.Ş. 主体 2014-12-04）",
+  "founded": "2002（业务）/ 2014-12-04（现 A.Ş.）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "51–200（LinkedIn）/ 100–200（signalhire）；1,500+ bayi；营收估 $10–50M（量级）（第 90 批 官方登记核实 2026-10-27）",
+  "size": "中型（全国安防批发）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "安防/网络多品牌分销",

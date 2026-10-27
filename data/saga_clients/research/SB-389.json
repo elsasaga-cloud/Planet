@@ -40,7 +40,7 @@
  "kp": [
   {
    "name": "（姓名未记录；Eskişehir 办公室）",
-   "role": "ISP 技术/采购（待核）",
+   "role": "Eskişehir 分部信箱（.com 已死 → **公司活着，官网 / 邮箱在 hiperonline.com.tr**；Q-64 死域名单移出）—— 下一封写 info@ / teknik@ @hiperonline.com.tr 问 Teknik Müdür（第 90 批 官方登记核实 2026-10-27）",
    "email": "eskisehir@hiperonline.com（用户表）",
    "phone": "0850 840 98 83（公司）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -54,10 +54,12 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Hiperonline İletişim Hizmetleri Sanayi Ticaret Limited Şirketi",
-  "hq": "Eskişehir（0850 840 98 83）",
-  "size": "区域 ISP（规模待核）",
-  "other": "自建光纤 + airfiber 无线；Metro Ethernet 10 Gbps；全国 81 省转售"
+  "legal_name": "HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ（Vergi No 3330751186，Gaziemir / İzmir；AS216192，自有 IP 1,536 个）",
+  "hq": "İzmir（总部）+ Eskişehir 分部（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型 ISP（第 90 批 官方登记核实 2026-10-27）",
+  "other": "自建光纤 + airfiber 无线；Metro Ethernet 10 Gbps；全国 81 省转售",
+  "founded": "2014（官网）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "小型 ISP（估 10–30 人；数千用户级）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "住宅/企业宽带（光纤、VDSL、无线）",

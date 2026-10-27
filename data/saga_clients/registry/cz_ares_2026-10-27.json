@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 3
+  "count": 5
  },
  "rows": {
   "SA-089": {
@@ -113,6 +113,75 @@
    "notes": "研究档 legal_name 空 → 回填；KP 加 Zacios（jednatel / 集团股东）。",
    "fetched": "2026-10-27",
    "code": "SB-680"
+  },
+  "SB-596": {
+   "batch": 90,
+   "name": "OPTOKON, a.s.（Jihlava, CZ；optokon.pl = 波兰分部 OPTOKON Zakład Światłowodowy, Warszawa）",
+   "iso": "PL",
+   "source": "CZ · 1 次检索：官网 contact（IČO 13692283，DIČ CZ13692283，datová schránka s7grkte）+ podnikatel.cz / penize.cz / kurzy.cz 商业登记镜像（1991-01-16 成立，创始股东 Ing. Jiří Vítek + Ing. Jiří Štefl，2014 改 a.s.，2021 správní rada Jiří Štefl）+ CzechTrade 出口商名录（Jiří Štefl 公司总监；George Štefl 集团经理 / 市场总监）+ finmag（关联 OPTOKON Kable Co., Ltd. s.r.o. IČO 03946487，jednatel Eva Šteflová）+ optokon.pl 分销页（华沙 Świeradowska 47）+ kurzy（2026-03 在招 13 个岗位）",
+   "url": "https://www.podnikatel.cz/rejstrik/optokon-a-s-13692283/",
+   "number": "IČO 13692283 · DIČ CZ13692283（捷克母公司）；波兰分部编号未取",
+   "status": "Aktivní（2026-03 仍大量招聘）",
+   "incorporated": "1991-01-16（s.r.o.；2014-08-30 起 a.s.）",
+   "company_type": "Akciová společnost（Štefl 家族控股；集团含 OPTOKON Elektronik / Middle East / Pacific / OptoNet Communication / OPTOKON Kable）",
+   "sic": [
+    "**光纤连接技术制造商**（军规 / 加固光纤连接器、野战光缆、加固交换机 / 终端、校准实验室、电信工程）+ 工业 / 商用光纤布线产品；客户含 NATO / 军方（守界：军品 PASS）"
+   ],
+   "address": "Červený Kříž 250, 586 01 Jihlava, Czech Republic（波兰：ul. Świeradowska 47, 02-662 Warszawa）",
+   "accounts": "—（a.s. 年报在 justice.cz Sbírka listin，未取）",
+   "accounts_due": "CZ 年报 12-31 后 12 个月内",
+   "size_band": "中型（估 100–250 人；多国子公司 + 13 个在招岗位）",
+   "officers": [
+    "Ing. Jiří ŠTEFL — 创始人 / 公司总监 / 管理委员会（1993 起 jednatel，2021 správní rada）= 实控人",
+    "George ŠTEFL — Group Manager & Head of Marketing（二代；兼 OptoNet Communication jednatel）",
+    "Eva ŠTEFLOVÁ — OPTOKON Kable jednatel（家族）",
+    "Pytlak（pytlak@optokon.com）/ Abiel Abuy / Erik Mikus — 研究档 KP（波兰 / 采购口；职务待核）"
+   ],
+   "psc": "Štefl 家族（Jiří → George）",
+   "charges": "",
+   "prev_names": [
+    "OPTOKON Co., Ltd., spol. s r.o.（1991–2014）"
+   ],
+   "lines": [
+    "**硬发现：optokon.pl 不是波兰分销商，是捷克 Jihlava 光纤连接制造商 OPTOKON a.s.（Štefl 家族，1991，多国子公司）的华沙分部；主业含军规加固产品（守界 PASS），但同时有工业 / 商用光纤布线线和自有加固交换机** → 只走商用 / 工业线：写 Pytlak（波兰）cc George Štefl：OEM 30%「OPTOKON 牌」工业 DIN 光口 PoE（STI-154GP / STI-288DGGPM / STI-480XGGM Marvell L3），-40~75℃、CE/RoHS，**明确不做军规 / MIL-STD 测试**；或 25% 集成价供其电信工程项目；CZ/PL 周四 12–14",
+    "不说：不提 NATO / 军品；不提其加固交换机 = 竞品",
+    "复查：justice.cz Sbírka listin 年报（次年 12 月前）看营收"
+   ],
+   "notes": "研究档 legal / hq 回填；KP 名字 Pytlak 待补全名。",
+   "fetched": "2026-10-27",
+   "code": "SB-596"
+  },
+  "SB-317": {
+   "batch": 90,
+   "name": "Techfors CZ s.r.o.（Praha 4 – Krč）",
+   "iso": "CZ",
+   "source": "CZ · 1 次检索：官网 o-nas / kontakt / dodací podmínky（2012-01-02 成立，承接 UTC Fire & Security 捷克办公室关闭后的业务；Aritech / Interlogix / GE Security 血统；Městský soud v Praze C 188256）+ podnikatel / kurzy / penize / finmag / mesec 商业登记镜像（IČO 24202908，jednatel Ing. Tomáš Pavlíček，Černošice，2012-01-02 起，独立代表）+ firmy.cz（UTC F&S 捷克斯洛伐克独家分销 + TIANDY 摄像机捷克斯洛伐克独家分销）+ zivefirmy（电子安防批发 + 网店）",
+   "url": "https://www.podnikatel.cz/rejstrik/techfors-cz-s-r-o-24202908/",
+   "number": "IČO 24202908 · DIČ CZ24202908 · OR Praha C 188256",
+   "status": "Aktivní",
+   "incorporated": "2012-01-02",
+   "company_type": "s.r.o.（股东未取；jednatel 单人 → 推定业主）",
+   "sic": [
+    "安防技术批发（EZS 报警 / EPS 火警 / CCTV / 门禁 / 疏散广播）：UTC Fire & Security（现 Carrier / Aritech）捷克斯洛伐克独家 + TIANDY 摄像机 CZ/SK 独家；网店"
+   ],
+   "address": "Na staré vinici 395/7, Krč, 140 00 Praha 4",
+   "accounts": "—（justice.cz Sbírka listin 可取，未取）",
+   "accounts_due": "CZ 年报 12-31 后 12 个月",
+   "size_band": "小型（估 5–15 人）",
+   "officers": [
+    "Ing. Tomáš PAVLÍČEK — jednatel（2012-01-02 起，独立代表；ex UTC Fire & Security 捷克）= 推定业主 = 联系人"
+   ],
+   "psc": "推定 Tomáš Pavlíček",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Pavlíček 的布拉格安防批发（UTC/Aritech 血统 + 一家中国摄像机品牌的 CZ/SK 独家），卖摄像机就要配 PoE** → 写 Tomáš：分销 20%，CCTV 配套 PoE 4/8/16/24（STI-054GP / STC-028GP / STC-228GP / STC-2024GP），CE/RoHS，MOQ 1 箱，首单 50/50；CZ 周四 12–14；避开 12-24–01-06",
+    "不说：不提 Tiandy / UTC；不说「我们查过登记」",
+    "复查：justice.cz 年报次年看营收档"
+   ],
+   "notes": "研究档 KP 空 → 新增 Tomáš Pavlíček。",
+   "fetched": "2026-10-27",
+   "code": "SB-317"
   }
  }
 }

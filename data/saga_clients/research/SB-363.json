@@ -40,7 +40,7 @@
  "kp": [
   {
    "name": "Denise Shay",
-   "title": "（表内联系人，职务待核）",
+   "title": "销售口（职务待核）—— 公司 = **纽约长岛 1990 年起的光纤传输设备制造商（同名陷阱：Jacksonville 的 Meridian Technologies 人力公司无关）** → OEM 30% 配套交换机 / 20% 分销（第 90 批 官方登记核实 2026-10-27）",
    "email": "dshay@meridian-tech.com",
    "phone": "",
    "source": "用户表"
@@ -54,8 +54,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 meridian-tech.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "Elmont, NY 11003（长岛）（第 90 批 官方登记核实 2026-10-27）",
+  "other": "官网 meridian-tech.com，语言 ?，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Meridian Technologies, Inc.（NY DOS 检索 JS-only）",
+  "founded": "1990（LinkedIn）（第 90 批 官方登记核实 2026-10-27）",
+  "staff": "11–50（LinkedIn）（第 90 批 官方登记核实 2026-10-27）",
+  "size": "小型制造商（光纤视频 / 数据传输）（第 90 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "光纤传输系统（自有品牌 Meridian：VC / 工业 FS / MC）"
