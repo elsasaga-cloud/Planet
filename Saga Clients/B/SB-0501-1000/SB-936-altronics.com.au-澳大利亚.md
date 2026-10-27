@@ -89,6 +89,23 @@ updated: 2026-10-27
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 - 【惯例】12-18→01-25：澳新夏休：12-18 起到 1 月下旬，很多公司直接关到澳大利亚日（1-26）后
 
+**公司底数 · 第 86 批（Australia · ABN Lookup（官方，2026-10-27 抽取）两条记录，2026-10-27 查；https://abr.business.gov.au/ABN/View?abn=84177396871）：**
+
+- 法定名 / 登记号：Altronics（The Trustee for ALTRONICS UNIT TRUST，商号 Altronic Distributors；公司 ALTRONIC DISTRIBUTORS PTY LTD ACN 008 801 161） · 交易主体 ABN 84 177 396 871（Fixed Unit Trust，GST 2000-07-01 起）· 受托人 / 公司 ALTRONIC DISTRIBUTORS PTY LTD ABN 89 008 801 161 / ACN 008 801 161（ABN 2018-05-28 起，**未登记 GST** = 纯受托人壳）· 商号 Altronic Distributors（2018-07-13 登记） · 状态 **Active（两条 ABN 均有效）** · 成立 信托 ABN 2000-03-31（业务 1976 起，珀斯）；ACN 008 801 161 为老号段（1980 年代公司） · 单位信托 + Pty Ltd 受托人结构（典型澳洲家族企业）
+- 行业码 / 经营范围：电子元器件 / 工具 / 安防 / 网络产品的批发 + 零售（珀斯总部 + 东部门店 + 网店）；自有品牌 Altronics / Redback / Powerhouse 等（研究档 待核）
+- 注册地址：Perth WA 6003（174 Roe St, Northbridge）
+- 规模档：中型（估 100–200 人，多州门店）
+- 账目：私人信托不公开；需 ASIC（付费）；澳洲财年 6-30；ASIC 年审
+- 高管：Brian SORENSEN — 研究档 KP（info@；职务待核：Altronics 创始家族 / 高管）
+- 高管：Dean STEPHENS — 研究档 KP（dean.stephens@；采购 / 产品经理概率高）
+- 高管：ASIC 董事名单需付费（$9 current extract）
+- 控制人 / 股东：Altronics Unit Trust 单位持有人（家族，不公开）
+- **这意味着什么：**
+  - **交易主体是单位信托（The Trustee for ALTRONICS UNIT TRUST），公司 Pty Ltd 只是受托人且无 GST** → 发票 / PI 抬头要写信托名 + 受托人，ABN 用 84 177 396 871；否则对方财务会退单
+  - 珀斯老牌电子零售批发商（1976），自有品牌多 → OEM 30% 线：PoE 交换机 / 工业交换机贴 Altronics 标（RCM 由他们以品牌方办，我们给 CE / RoHS 报告）；量大但选品流程长（采购经理 → 产品委员会）：先付费样机 + 零售包装样
+  - Dean Stephens 2025 已婉拒「not at this time」→ 已入剔除名单，**不主动发**，2027 再看；若回头：Dean 是选品人、Brian Sorensen 若为创始家族即拍板人；T/T 30/70，FOB 深圳他们的海运（Fremantle 直航）
+  - 下一轮：Brian Sorensen 身份 1 次搜索
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,6 +153,7 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | The Trustee for ALTRONICS UNIT TRUST（ABN 84 177 396 871）/ ALTRONIC DISTRIBUTORS PTY LTD（ACN 008 801 161；ABN 89 008 801 161）；商号 Altronic Distributors；Perth WA 6003（第 86 批 官方登记核实 2026-10-27） |
 | 总部/地址 | 澳大利亚 |
 | 其他 | 官网 altronics.com.au，语言 ?，快照状态 ok；角色判定来源：待核 |
 

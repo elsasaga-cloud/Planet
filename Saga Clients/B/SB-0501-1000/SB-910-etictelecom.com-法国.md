@@ -96,6 +96,23 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 86 批（France · API Recherche d'entreprises（官方 SIRENE / RNE JSON，2026-10-26 更新），2026-10-27 查；https://recherche-entreprises.api.gouv.fr/search?q=ETIC%20TELECOM&per_page=1）：**
+
+- 法定名 / 登记号：ETIC TELECOM · SIREN 380927475 · SIRET 38092747500026（总部）· NAF 26.30Z 通信设备制造 · IDCC 3248（冶金业集体协议） · 状态 **Active（A）** · 成立 1991-01-01（SIRENE；品牌 1985 起） · SAS（nature juridique 5710）· 类别 PME（2024）· 总裁为法人 ETIC FINANCES（SIREN 810380733，家族 / 管理层控股公司）
+- 行业码 / 经营范围：NAF 26.30Z 通信设备制造：自研自产工业路由 / 远程访问 RAS、IPL、SHDSL 交换机 XSLAN、军规 XSMIL；总部 2022-10 由 Meylan ZIRST 迁至 Montbonnot-Saint-Martin（格勒诺布尔科技园）
+- 注册地址：405 Rue Lavoisier, 38330 Montbonnot-Saint-Martin（2022-10 起）；旧址 ZIRST 13 Chemin du Vieux Chêne, 38240 Meylan（已关）
+- 规模档：员工档 12 = 20–49 人（2024）
+- 账目：2024 营收 €3,930,958 · 净利 €321,866（利润率 8.2%）；法国年报 9–10 月公示（2025 账目约 2026-10 可见 → 下一轮复查）
+- 高管：CHAUSSONNIER, Charles — Directeur Général（1966-09 生）= 研究档 KP → **联系人本人就是总经理（联合拍板人）**
+- 高管：DUCHESNE, Philippe Michel — Directeur Général（1961-07 生）
+- 高管：ETIC FINANCES（SIREN 810380733）— Président de SAS（控股公司 = 实际所有人载体）
+- 控制人 / 股东：ETIC FINANCES（控股 SAS；自然人股东待查 810380733）
+- **这意味着什么：**
+  - **Charles Chaussonnier 就是 Directeur Général（两位 DG 之一），2024-05 唯一一封来信「What is the price…」是总经理亲自问价** → 未闭环是我们这边没把价给到位：下一封直接给具体型号 EXW 价（规则格式）+ 工业 DIN 导轨款（STI 系列）对标他们 XSLAN 外围需求
+  - 自研自产的 PME（20–49 人，€3.9M，利润率 8%，控股公司 ETIC FINANCES）→ 他们买交换机是补产品线（RAS / 路由器配套的工业 PoE 交换机），要 CE / RoHS / REACH + 长供货承诺；OEM 30% 或集成 25%
+  - 法国 8 月停摆、年报 10 月；窗口 2026-11 / 2027-01；T/T 30/70 可接受（PME 有现金）
+  - 下一轮：ETIC FINANCES 810380733 一次 fetch 看自然人股东（是否 Chaussonnier / Duchesne 持股）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,16 +145,17 @@ updated: 2026-10-27
 - **【用户表】S 重点；1 次实质回复；22 次跟进；用户判定不行；联系人 Charles Chaussonnier**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Charles Chaussonnier（联系人（用户表））charles.chaussonnier@etictelecom.com —〔用户表〕
+- **KP**：Charles Chaussonnier（Directeur Général（SIRENE / RNE；1966-09 生）= 联合拍板人（另一 DG Philippe Duchesne；总裁为控股公司 ETIC FINANCES 810380733）= 联系人本人就是总经理（第 86 批 官方登记核实 2026-10-27））charles.chaussonnier@etictelecom.com —〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网产品线核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Etic Telecom |
+| 法定名称 | ETIC TELECOM SAS（SIREN 380927475 · SIRET 38092747500026；NAF 26.30Z；1991；Montbonnot-Saint-Martin 38330；PME） |
 | 成立 | 1985 |
 | 总部/地址 | France（官网未列详细地址于摘要） |
+| 人数 | 20–49（员工档 12，2024）；2024 营收 €3,930,958 / 净利 €321,866（第 86 批 官方登记核实 2026-10-27） |
 | 其他 | 自研自产，欧洲玩家；产品线 RAS / IPL / XSLAN-XELAN / SIG / XSMIL；配置手册公开（SHDSL 交换机 XSLAN+1xxx/2xxx/4xxx，XSMIL-4200 军规 4 口） |
 
 - **业务线**：工业 VPN 路由器与远程维护（IPL / RAS / SIG）；SHDSL / SPE 以太网延长器（XSLAN / XELAN）；军规战术通信（XSMIL；守界：不参与）
@@ -252,7 +270,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Charles Chaussonnier | 联系人（用户表） | charles.chaussonnier@etictelecom.com / — | 调研核实（公开页） | 用户表 |
+| Charles Chaussonnier | Directeur Général（SIRENE / RNE；1966-09 生）= 联合拍板人（另一 DG Philippe Duchesne；总裁为控股公司 ETIC FINANCES 810380733）= 联系人本人就是总经理（第 86 批 官方登记核实 2026-10-27） | charles.chaussonnier@etictelecom.com / — | 调研核实（公开页） | 用户表 |
 | Charles | — | contact@etictelecom.com / charles.chaussonnier@etictelecom.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

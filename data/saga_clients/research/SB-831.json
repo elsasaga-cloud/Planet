@@ -42,7 +42,7 @@
  "kp": [
   {
    "name": "Casey Hurley",
-   "role": "VP Sales - Strategic Accounts（邮件签名）",
+   "role": "VP Sales – Strategic Accounts（卖方高管，非采购）；Actelis FY2025 营收 $3.7M（−53%）净亏 $8.3M、累计亏损 $56.2M（2026-06）、**持续经营存疑 + Nasdaq 退市通知**；采购 / 运营在以色列（34 人）（第 86 批 官方登记核实 2026-10-27）",
    "email": "pchurley@actelis.com",
    "phone": "",
    "source": "S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）"
@@ -53,6 +53,13 @@
    "email": "michalw@actelis.com",
    "phone": "",
    "source": "S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补）"
+  },
+  {
+   "name": "Tuvia Barlev",
+   "role": "Chairman & CEO（创始人；SEC 10-K）（第 86 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.sec.gov/Archives/edgar/data/1141284/000121390026030946/ea028228701ex99-1.htm"
   }
  ],
  "grade_override": null,
@@ -63,11 +70,12 @@
   "level": "B 级加厚 v1（官网 + 公告核对）"
  },
  "company_facts": {
-  "legal_name": "Actelis Networks, Inc.（NASDAQ: ASNS）",
+  "legal_name": "ACTELIS NETWORKS, INC.（SEC CIK 1141284；ASNS；Delaware；Fremont / Sunnyvale CA + 以色列）",
   "founded": "1998",
   "hq": "Fremont / Sunnyvale, California, USA",
   "size": "51–200（LinkedIn）",
-  "other": "产品：ML600 系列 EAD（铜缆绑定 Ethernet，1–16 对，最高 240 Mbps）、ML684D 8 口硬化 DIN 混合交换机（2 SFP + 6 FE，−40~+75 ℃，12–48 VDC）、ML630R L3、GL800/GL900 千兆混合方案（2023-05）；客户案例含印度 Beetel/大型运营商"
+  "other": "产品：ML600 系列 EAD（铜缆绑定 Ethernet，1–16 对，最高 240 Mbps）、ML684D 8 口硬化 DIN 混合交换机（2 SFP + 6 FE，−40~+75 ℃，12–48 VDC）、ML630R L3、GL800/GL900 千兆混合方案（2023-05）；客户案例含印度 Beetel/大型运营商",
+  "staff": "51 含承包商（39 全职；以色列 34 / 美国 15）；FY2025 营收 $3.7M、净亏 $8.3M；2026-H1 营收 $2.1M（+26%）（第 86 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "混合光纤-铜缆以太网接入设备（EAD）",

@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 19
+  "count": 20
  },
  "rows": {
   "SA-002": {
@@ -613,20 +613,21 @@
    "accounts_due": "DE 年度 franchise tax 3-01",
    "size_band": "2–10 人实际（RocketReach 2 / LeadIQ 2–10）；自报 11–50 / 51–100 / Bloomberg 75 不可信",
    "officers": [
-    "Richard W. (Rich) TULL — President（cage.report 现任负责人；2024–2025 新闻稿署名 R. W. Tull）= 老板 / 拍板人",
+    "Richard W. (Rich) TULL — President（cage.report 现任负责人；2024–2025 新闻稿署名 R. W. Tull；rwtull@versitron.com 见 OOO 自动回复）= 老板 / 拍板人",
     "Greg MASSOTT — Technical Sales Product Specialist（2008 起即此职；NAVAIR 名录联系人）= 研究档 KP → **联系人不是老板，是 17 年老产品专员 / 采购接口**"
    ],
    "psc": "Richard W. Tull（推定）",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**三年 21 来 29 去全是 Greg，但 Greg 只是产品专员，拍板人是总裁 Rich Tull**：零成交的原因大概率就在这 —— Greg 收资料做比价，不下单；下一封抄 / 直发 President R. W. Tull，用「Versitron 2024-08 发布的 10G SFP 管理型系列 / 2025-07 PoE 管理型系列 的第二货源 + 成本」切入（新闻稿公开，不涉及他们的内部）",
+    "**三年 21 来 29 去全是 Greg，但 Greg 只是产品专员，拍板人是总裁 Rich Tull（rwtull@versitron.com，2026-03-11 OOO 自动回复里出现过、从未发过）**：零成交的原因之一就在这 —— Greg 收资料做比价，不下单；下一封 = 绑定里已定的「对表信」（按 Greg 2025-01-31 硬规格逐条回：CENTEC STH 堆叠线，不是 PoE 小品），直发 Greg + 抄 R. W. Tull；可引用他们 2024-08 / 2025-07 公开新闻稿里的 10G SFP / PoE 管理型系列作切入（公开信息，不涉内部）",
     "整本目录是贴牌（PoE 管理型、工业、SFP）→ OEM 30% 线；但要配美式包装 + 他们的 UL 诉求做不了 → 只报 FCC / CE 常规款",
     "实际 2–10 人、营收 $2–5M、NAVAIR 军方小企业供应商 → 政府单需 TAA（中国产不合规）—— 商业渠道货可做；付款 T/T 30/70，DAP 特拉华走 Saga 百运网线"
    ],
    "notes": "",
    "fetched": "2026-10-27",
-   "code": "SB-826"
+   "code": "SB-826",
+   "_src": "USA · 州务卿登记 / OpenCorporates"
   },
   "SB-831": {
    "batch": 86,
@@ -662,6 +663,38 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SB-831"
+  },
+  "SB-010": {
+   "batch": 86,
+   "name": "AMERICAN FIBERTEK, INC.（AFI；母公司 Sunny-Z Inc.，St. Petersburg FL）",
+   "iso": "US",
+   "source": "USA · PRNewswire 收购公告（2020-03-18）+ St Pete Catalyst（2020-05 迁址 / 母公司 Sunny-Z Inc.）+ 第三方规模估计 + LinkedIn",
+   "url": "https://www.prnewswire.com/news-releases/american-fibertek-proudly-continues-35-year-history-of-manufacturing-american-products-and-mitigating-risks-of-foreign-elements-301025706.html",
+   "number": "法人登记号待补（原 New Jersey 公司；2020 迁 Florida —— Sunbiz 不可抓取）",
+   "status": "Active（2026-05 名录更新）",
+   "incorporated": "1984（Somerset NJ）；2020-03 被 Donna Poulos / Sunny-Z Inc. 整体收购并迁至 St. Petersburg FL",
+   "company_type": "Corporation · 私人持有 · **女性所有（Woman-Owned）**，母公司 Sunny-Z Inc.",
+   "sic": [
+    "安防光纤传输 / 网络设备「美国制造」：光端机、交换机、电源、转换器；2020 收购后公开定位 = 「American made, domestically controlled」、强调规避「foreign elements」"
+   ],
+   "address": "745 43rd St S, St. Petersburg, FL 33711（2020 起）；原 Somerset, NJ 08873",
+   "accounts": "第三方分歧：$8.4M（ZoomInfo / Datanyze）/ $11M（LeadIQ 2024-12）/ $70M（RocketReach，不可信）→ 记 $8–11M",
+   "accounts_due": "FL 年报 5-01",
+   "size_band": "11–50（LinkedIn）；实际 7–28",
+   "officers": [
+    "Donna POULOS — President & Owner（2020-03 起 100% 收购；亦为母公司 Sunny-Z Inc. 总裁 / 所有人）= 研究档 KP（sales@）→ 老板",
+    "Tim ORSELLI — 来信署名人（2024-11 问 PoE++ 版 + 两款价格；职务待核：销售 / 产品）"
+   ],
+   "psc": "Donna Poulos 100%（via Sunny-Z Inc.）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 Donna Poulos 2020 年收购后的公开路线是「美国制造、规避外国元素」—— 这与从中国进口交换机正面冲突** → 2024-11 Tim 问 PoE++ 和价格后无下文，很可能是老板路线否决，不是价格问题；不再追（群发节奏），若回头只谈「非品牌、非美国制造标签」的配件级采购，100% 预付",
+    "法人号 / 州登记待补（Sunbiz 不可抓）；下一轮不花预算"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-010"
   }
  }
 }

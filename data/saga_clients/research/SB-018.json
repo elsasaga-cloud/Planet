@@ -29,7 +29,7 @@
  "kp": [
   {
    "name": "Andrew Walker",
-   "role": "Geschäftsführer/CEO",
+   "role": "Geschäftsführer（2020-02-17 起，接替创始人 Oktay Zuki）= 老板 = 联系人；UG €6,000、7 年 5 次迁址、2025-03 更名 Walker Security Systems UG；Prokuristin Nina Jasmin Walker（配偶）（第 86 批 官方登记核实 2026-10-27）",
    "email": "info@walker-security.systems",
    "phone": "+49 177 322 4215",
    "source": "https://walker-security.systems/impressum"
@@ -44,10 +44,11 @@
   "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
  },
  "company_facts": {
-  "legal_name": "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw）",
+  "legal_name": "Walker Security Systems UG (haftungsbeschränkt)（Amtsgericht Krefeld HRB 20953；原 SMART+ Communications UG，Köln HRB 95644，2018-09-13；Nettetal）",
   "hq": "Nettetal / Mönchengladbach, Germany",
   "size": "微型 UG（注册资本 €6,000；2 名管理人员）",
-  "other": "CEO Andrew Walker；Dahua / Jablotron / Ajax 认证安装商；业务：报警、视频监控、门禁、Smart Security、电话系统"
+  "other": "CEO Andrew Walker；Dahua / Jablotron / Ajax 认证安装商；业务：报警、视频监控、门禁、Smart Security、电话系统",
+  "staff": "微型（夫妻 2 人管理）（第 86 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "视频监控 / 入侵报警 / 门禁安装（Dahua、Jablotron、Ajax）",

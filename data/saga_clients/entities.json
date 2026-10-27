@@ -47904,10 +47904,17 @@
 "kp": [
 {
 "name": "—",
-"role": "中央办公室",
+"role": "订单邮箱 → 法人 ООО «РИО-ИМПОРТ»（ОГРН 1092468006047 · ИНН 2460214069，Красноярск 2009-02-19，资本 10,000 ₽）；现任总经理 Сергеева Н. М.，创始人 / 2012 年 100% 股东 Попов И. Ю.；营收 38 млн ₽（第 86 批 官方登记核实 2026-10-27）",
 "email": "rio-import2003@mail.ru",
 "phone": "+7 (391) 291-14-24",
 "source": "http://www.rio-krsk.ru/contacts/"
+},
+{
+"name": "Сергеева Надежда Михайловна",
+"role": "Генеральный директор（现任；companies.rbc）= 签字人（第 86 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.rio-krsk.ru/company/requisites/"
 }
 ],
 "notes": "A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列（俄语区付款/物流由用户侧按现有通道）。",
@@ -47917,10 +47924,11 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "ООО «РИО-ИМПОРТ»（RIO Group）",
+"legal_name": "ООО «РИО-ИМПОРТ»（ОГРН 1092468006047 · ИНН 2460214069 · КПП 246001001；Красноярск；2009-02-19；资本 10,000 ₽；创始人 Попов Игорь Юрьевич）",
 "founded": "2009（ОГРН 1092468006047）",
 "hq": "Krasnoyarsk, Russia",
-"other": "自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN"
+"other": "自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN",
+"staff": "小型；营收 38.13 млн ₽（最近一期）（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业自动化元件分销（PLC、HMI、变频器、软启、伺服、温控、电源）",
@@ -48860,7 +48868,7 @@
 "kp": [
 {
 "name": "Marián Ondrejíček",
-"role": "Key Principal（D&B 口径）",
+"role": "联系人（konateľ / 股东身份待 FinStat 登记页确认）；ROVEZ, s.r.o. 1997-12-22、3–4 人、2025 营收 €646,579（+28%）净利 €192,182（30%）、负债率 7%（第 86 批 官方登记核实 2026-10-27）",
 "email": "rovez@rovez.sk",
 "phone": "+421 905 617 471",
 "source": "https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/"
@@ -48875,9 +48883,10 @@
 "level": "B 级加厚 v1（官网 + 注册核对）"
 },
 "company_facts": {
-"legal_name": "ROVEZ, s.r.o.（IČO 36225801；IČ DPH SK2020163277）",
+"legal_name": "ROVEZ, s.r.o.（IČO 36225801 · IČ DPH SK2020163277；ORSR Trnava Sro 10793/T；1997-12-22；základné imanie €6,639）",
 "hq": "Ul. 9. mája 49, 917 01 Trnava, Slovensko（+421 33 5516 655；+421 905 617 471 / 905 441 595；rovez@rovez.sk）",
-"other": "Trnava 的 **Avigilon** 摄像系统供应商（30 年经验）：摄像/录像/门禁/EZS 报警 销售、安装、维护；第二站 kamerovesystemy.com"
+"other": "Trnava 的 **Avigilon** 摄像系统供应商（30 年经验）：摄像/录像/门禁/EZS 报警 销售、安装、维护；第二站 kamerovesystemy.com",
+"staff": "3–4（2026）；2025 营收 €646,579 / 净利 €192,182 / 权益 €586,271（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "Avigilon 视频监控系统（销售+安装+服务）",
@@ -51407,7 +51416,7 @@
 "kp": [
 {
 "name": "Donna Poulos",
-"role": "President/Owner",
+"role": "President & Owner（2020-03 via Sunny-Z Inc. 整体收购，女性所有；公开路线「American made / 规避 foreign elements」→ 与进口中国交换机冲突）（第 86 批 官方登记核实 2026-10-27）",
 "email": "sales@americanfibertek.com（官网公开）",
 "phone": "+1 800-323-0660",
 "source": "https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750"
@@ -51521,6 +51530,10 @@
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
+},
+"company_facts": {
+"legal_name": "AMERICAN FIBERTEK, INC.（1984 Somerset NJ；2020 迁 St. Petersburg FL；母公司 Sunny-Z Inc.）",
+"staff": "7–28；营收估 $8–11M（第 86 批 官方登记核实 2026-10-27）"
 }
 }
 },
@@ -54608,7 +54621,7 @@
 "kp": [
 {
 "name": "Andrew Walker",
-"role": "Geschäftsführer/CEO",
+"role": "Geschäftsführer（2020-02-17 起，接替创始人 Oktay Zuki）= 老板 = 联系人；UG €6,000、7 年 5 次迁址、2025-03 更名 Walker Security Systems UG；Prokuristin Nina Jasmin Walker（配偶）（第 86 批 官方登记核实 2026-10-27）",
 "email": "info@walker-security.systems",
 "phone": "+49 177 322 4215",
 "source": "https://walker-security.systems/impressum"
@@ -54623,10 +54636,11 @@
 "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
 },
 "company_facts": {
-"legal_name": "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw）",
+"legal_name": "Walker Security Systems UG (haftungsbeschränkt)（Amtsgericht Krefeld HRB 20953；原 SMART+ Communications UG，Köln HRB 95644，2018-09-13；Nettetal）",
 "hq": "Nettetal / Mönchengladbach, Germany",
 "size": "微型 UG（注册资本 €6,000；2 名管理人员）",
-"other": "CEO Andrew Walker；Dahua / Jablotron / Ajax 认证安装商；业务：报警、视频监控、门禁、Smart Security、电话系统"
+"other": "CEO Andrew Walker；Dahua / Jablotron / Ajax 认证安装商；业务：报警、视频监控、门禁、Smart Security、电话系统",
+"staff": "微型（夫妻 2 人管理）（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "视频监控 / 入侵报警 / 门禁安装（Dahua、Jablotron、Ajax）",
@@ -55346,7 +55360,7 @@
 "kp": [
 {
 "name": "Uzair（GSA 登记联系人）",
-"role": "负责人",
+"role": "GSA 登记联系人 = 业主（SAM.gov 自证少数族裔 / 印度裔所有，1–10 人，营收 <$1M）= 老板 = 联系人；52 Networks, Inc.（VA 2018-03-12；UEI FV4KBSNE5S75 · CAGE 907X4；GSA MAS 47QTCA22D00B3 至 2027-07）（第 86 批 官方登记核实 2026-10-27）",
 "email": "uzair@52networks.com",
 "phone": "+1 571-402-8369",
 "source": "https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES"
@@ -55373,10 +55387,10 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "52 Networks, Inc.",
+"legal_name": "52 NETWORKS, INC.（Virginia，2018-03-12；UEI FV4KBSNE5S75 · CAGE 907X4；SAM 有效至 2027-06-15）",
 "founded": "2018",
 "hq": "Woodbridge, Virginia, USA",
-"staff": "1–10",
+"staff": "1–10；SAM 自报营收 $0–1M（第 86 批 官方登记核实 2026-10-27）",
 "revenue": "<$1M（govtribe）",
 "registry": "GSA 合同 47QTCA22D00B3；SBA 小型弱势企业",
 "other": "网店 52networks.com：主营批量网线（Cat6/6A Plenum 1,000 ft 箱装 $199.99/$289.99），类目含 MC 27 款、网络硬件 20 款、光纤跳线 35 款"
@@ -62985,7 +62999,7 @@
 "kp": [
 {
 "name": "James Francis Ofwona",
-"role": "Prezes Zarządu（总裁）",
+"role": "Prezes Zarządu（59 岁）+ **98 / 100 股** = 老板 = 联系人；代表方式 = 董事 + Prokurent（Grażyna Piekus）联签（第 86 批 官方登记核实 2026-10-27）",
 "email": "contact@tricomp.com.pl（公开总机邮箱）",
 "phone": "+48 607 498 206",
 "source": "D&B / gowork / Crunchbase"
@@ -63000,7 +63014,7 @@
 "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
 },
 "company_facts": {
-"legal_name": "Tricomp Sp. z o.o.（华沙；2002-07-04 注册，注册资本 5 万 PLN）",
+"legal_name": "„TRICOMP” SP. Z O.O.（KRS 0000121281 · NIP 5222477449 · REGON 016022377；2002-07-04；Warszawa Al. Prymasa Tysiąclecia 78A；资本 50,000 PLN）（第 86 批 官方登记核实 2026-10-27）",
 "hq": "Warszawa, Polska",
 "size": "1–24 人（D&B）/ 51–200（LinkedIn 自报，口径不一）",
 "other": "总裁 James Francis Ofwona；业务：IT/电信咨询、设计、监理、布线与电信方案实施、项目管理"
@@ -73422,14 +73436,14 @@
 "kp": [
 {
 "name": "Manan Bhavsar",
-"role": "CEO",
+"role": "Director（DIN 02469366，2008-12-31 创立至今）= 老板 = 联系人；夫妻公司（Ketana Manan Bhavsar 亦为董事）；创始合伙人 2009–2016 全部退出；实缴 ₹24.64 lakh；MCA 年报镜像停在 FY23（第 86 批 官方登记核实 2026-10-27）",
 "email": "manan@a-ites.com",
 "phone": "+91 98250 95206（WA 已加）",
 "source": "用户 Clients 表"
 },
 {
 "name": "Chirag Shah",
-"role": "Manager",
+"role": "非董事（注意：历任董事 Chirag Pandit Satishkumar 2009–2013 为另一人）（第 86 批 官方登记核实 2026-10-27）",
 "email": "chirag.s@a-ites.com",
 "phone": "",
 "source": "用户 Clients 表"
@@ -73451,7 +73465,7 @@
 "level": "B 级加厚 v1（官网快照 + LinkedIn/登记核对）"
 },
 "company_facts": {
-"legal_name": "AARYA ITES PRIVATE LIMITED（CIN U72900GJ2008PTC055798）",
+"legal_name": "AARYA ITES PRIVATE LIMITED（CIN U72900GJ2008PTC055798；2008-12-31；Ahmedabad；实缴 ₹24.64 lakh；董事 Manan + Ketana Bhavsar）（第 86 批 官方登记核实 2026-10-27）",
 "founded": "2008-12-31",
 "hq": "#209, Akshar Stadia, Opp. Symphony Ltd, Bodakdev, Ahmedabad-380054, Gujarat；+91 79 4899 5206 / +91 98250 95206；info@a-ites.com",
 "size": "LinkedIn 11–50；RocketReach 39 人 / 营收 $5.1M；实缴资本 ₹24.6 lakh",
@@ -82025,8 +82039,8 @@
 ],
 "kp": [
 {
-"name": "Stan Sochur",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"name": "Stan (Slawomir) Sochur",
+"role": "CEO / CFO / Secretary / Director（California SOS 四职一人 = Slawomir Sochur）= 老板 = 联系人；Thor Fiber, Inc. CA 4095985（2017-12-26；业务 2011 / 2007 起）（第 86 批 官方登记核实 2026-10-27）",
 "email": "stan@thorfiber.com",
 "phone": "",
 "source": "S/A 邮箱来信 2025-06-26 → 11-28 来信 3 封（显示名 Thor Fiber）（第 72 批从邮件表头补）"
@@ -82040,11 +82054,12 @@
 "level": "B 级加厚 v1（官网目录核对）"
 },
 "company_facts": {
-"legal_name": "Thor Fiber（Thor Broadcast）",
+"legal_name": "THOR FIBER, INC.（California SOS 4095985，2017-12-26，Good Standing；dba Thor Broadcast；Torrance CA）",
 "hq": "2421 W 205th St, Torrance, CA 90501, USA",
 "founded": "2006（LinkedIn 记 2009）",
 "size": "51–200（LinkedIn 自报）",
-"other": "由广播工程师创立，主打光纤传输（L-band、头端、卫星电视）与以太网延长；产品页风格为贴牌目录（型号前缀 F-/H-），Markertek 等分销有售"
+"other": "由广播工程师创立，主打光纤传输（L-band、头端、卫星电视）与以太网延长；产品页风格为贴牌目录（型号前缀 F-/H-），Markertek 等分销有售",
+"staff": "1–10 实际（LinkedIn 51–200 不可信）；营收估 $0.4–4M 区间（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "广播/头端光纤传输设备",
@@ -96835,17 +96850,24 @@
 "kp": [
 {
 "name": "Ludwig Bergschneider",
-"role": "Managing Director（Imprint 公开）",
+"role": "Geschäftsführer 2017-12-15 → **2026-09-14 卸任**（Handelsregister；2024-06 起登记名 Hans Ludwig Bergschneider）= 已非拍板人；现任 GF Kagan Kandemir（2026-09-14 起）、Prokurist Janek Brock（第 86 批 官方登记核实 2026-10-27）",
 "email": "—（未公开）",
 "phone": "+49 211 5380 680",
 "source": "https://grundig-security.com/contacts/imprint/"
 },
 {
 "name": "Yalcin Demirak",
-"role": "Geschäftsführer（登记名录公开）",
+"role": "登记网络中出现（Eschweiler；股东 / 前任职务待核）（第 86 批 官方登记核实 2026-10-27）",
 "email": "—（未公开）",
 "phone": "+49 211 5380 680",
 "source": "https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html"
+},
+{
+"name": "Kagan Kandemir",
+"role": "Geschäftsführer（2026-09-14 起，Düsseldorf）= 现任唯一 GF / 拍板人（第 86 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.northdata.de/Abetechs%20GmbH,%20Erkrath"
 }
 ],
 "grade_override": null,
@@ -96856,11 +96878,12 @@
 "level": "B 级加厚 v1（官网 + 登记核对）"
 },
 "company_facts": {
-"legal_name": "Abetechs GmbH（GRUNDIG Security）",
+"legal_name": "Abetechs GmbH（Amtsgericht Wuppertal HRB 35197，前 Düsseldorf HRB 82264；2017-12-15；Stammkapital €800,000；3 名股东；商标 C WERK；关联 i-Alarmsysteme GmbH 奥地利）",
 "registry": "HRB 82264 Amtsgericht Düsseldorf（名录）/ HRB 35197 Wuppertal（官网 Imprint）· USt-ID DE 315 133 441 · 注册资本 €800,000",
 "hq": "Steinhof 39, 40699 Erkrath, Germany（+49 211 5380 680）",
 "size": "11–50（LinkedIn）",
-"other": "GRUNDIG Security 独家许可；SMART 线 NDAA 合规；VMS C-WERK；全球分销"
+"other": "GRUNDIG Security 独家许可；SMART 线 NDAA 合规；VMS C-WERK；全球分销",
+"staff": "11–50；资产负债表总额 €1,061,495（2025-12-31）（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "GRUNDIG 品牌 IP 视频安防（摄像机、热成像、NVR、监视器）全球分销",
@@ -123314,10 +123337,17 @@
 "kp": [
 {
 "name": "Iyiola Folayan",
-"role": "负责人 / MikroTik 认证顾问",
+"role": "Director（Companies House 16807798，2025-10-24 起；尼日利亚籍居英）= 老板之一 = 联系人；公司 **2025-10 刚注册**、虚拟地址 128 City Road、IT 咨询 SIC、零财务记录；另两位董事 Aderonke Folayan（家属）+ Andrew Oladipo（第 86 批 官方登记核实 2026-10-27）",
 "email": "ifolayan@millievolution.com",
 "phone": "",
 "source": "S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list"
+},
+{
+"name": "Aderonke Folayan",
+"role": "Director（2025-10-24 起；Wakefield）= 家属 / 共同股东（第 86 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://find-and-update.company-information.service.gov.uk/company/16807798/officers"
 }
 ],
 "notes": "128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。",
@@ -123407,6 +123437,10 @@
 "body": "Hi Iyiola,\n\nJust checking in as promised — did a project come through on your side? The 2-pc evaluation PI still stands and is credited against your first commercial order whenever you are ready.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
+},
+"company_facts": {
+"legal_name": "MILLISECONDS EVOLUTION LIMITED（Companies House 16807798；2025-10-24；128 City Road London EC1V 2NX（注册代理地址）；SIC 62020 / 62030 / 70229 / 85590；首份账目 2027-07-24 到期）",
+"staff": "初创微型（3 董事）（第 86 批 官方登记核实 2026-10-27）"
 }
 }
 },
@@ -127892,7 +127926,7 @@
 "kp": [
 {
 "name": "Коровина Марина Григорьевна",
-"role": "Генеральный директор（登记公开）",
+"role": "Генеральный директор（2020-07-10 起）= 受雇总经理 / 签字人，非所有者；所有者 ООО «Прософт» 100%；84 人；2024 营收 1.73 млрд ₽ 净亏 −247.5 млн → 2025 营收 1.34 млрд ₽（−22%）净利 +118 млн（第 86 批 官方登记核实 2026-10-27）",
 "email": "info@regionprof.ru（公司）",
 "phone": "+7 495 232-29-55（公司）",
 "source": "https://www.rusprofile.ru/id/4358680"
@@ -127906,11 +127940,12 @@
 "level": "B 级加厚 v1（官网 + 登记核对；「成交」为富通天下外贸数据）"
 },
 "company_facts": {
-"legal_name": "ООО «РЕГИОН-ПРОФ»（ИНН 7728599583；ОГРН 1067759114675）",
+"legal_name": "ООО «РЕГИОН-ПРОФ»（ОГРН 1067759114675 · ИНН 7728599583；СПб；2006-11-02；资本 30,000 ₽；唯一股东 ООО «Прософт»）",
 "founded": "2006-11-02",
 "hq": "198095, Санкт-Петербург, ул. Ивана Черных, д. 29, лит. А（+7 495 232-29-55；info@regionprof.ru）",
 "size": "84 人；2025 营收 1.6 亿 ₽ 级（16 亿 ₽）",
-"other": "股东 ООО «Прософт» 100%；批发计算机/外设/音视频设备"
+"other": "股东 ООО «Прософт» 100%；批发计算机/外设/音视频设备",
+"staff": "84（ФНС 2023）；92（2018）→ 80（2025）（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业/IT 设备批发（ProSoft 集团渠道）",
@@ -149502,10 +149537,17 @@
 "kp": [
 {
 "name": "Nikolay Podoroga",
-"title": "Account Manager",
+"title": "采购 / 产品经办（非登记人员）；拍板人 = 总经理 Деркач А. А.（10% 股东，2021-11 起），实控人 = 80% 股东 Афакова Э. К.；ООО «СКЕО» 3 人、2025 营收 100.7 млн ₽（+34%）（第 86 批 官方登记核实 2026-10-27）",
 "email": "npa@skeo.ru",
 "phone": "+7 903 486 5077",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Деркач Алексей Александрович",
+"role": "Генеральный директор（2021-11-19 起）+ 10% 股东 = 拍板人（第 86 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.companium.ru/id/1147847171185-skeo"
 }
 ],
 "grade_override": null,
@@ -149516,11 +149558,12 @@
 "level": "B 级加厚 v1（官网快照 + 官网核对）"
 },
 "company_facts": {
-"legal_name": "ООО «СКЕО»",
+"legal_name": "ООО «СКЕО»（ОГРН 1147847171185 · ИНН 7810990736；СПб；2014-05-14；资本 10,000 ₽；股东 Афакова 80% / Деркач 10% / Гатина 10%）",
 "founded": "（待核；物流团队「15 年以上」）",
 "hq": "Санкт-Петербург（+ 莫斯科、罗斯托夫办事处）",
 "size": "中小型制造 + 分销",
-"other": "自有品牌 SKEO 光模块 / MC；OEM 词频 7"
+"other": "自有品牌 SKEO 光模块 / MC；OEM 词频 7",
+"staff": "3（ССЧ）；营收 2023 102.5 → 2024 75.6 → 2025 100.7 млн ₽（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "CWDM / DWDM 波分复用（自产）",
@@ -156146,7 +156189,7 @@
 "kp": [
 {
 "name": "Mahmut Cesur",
-"role": "Genel Müdür（用户表名片）",
+"role": "Genel Müdür（名片）= 总经理 = 联系人（大概率老板；Ltd. Şti. 登记不免费）；数据中心 / 集装箱数据中心工程商 → CENTEC 敲门砖对口（第 86 批 官方登记核实 2026-10-27）",
 "email": "mahmut.cesur@foline.com.tr（用户表）",
 "phone": "+90 507 225 27 28（用户表，WhatsApp 已加）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -156160,7 +156203,7 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti.",
+"legal_name": "FOLİNE BİLİŞİM TEKNOLOJİLERİ SAN. VE TİC. LTD. ŞTİ.（Kağıthane İstanbul；官网法定全称）（第 86 批 官方登记核实 2026-10-27）",
 "hq": "Premier Kampüs, Kağıthane Gürsel, İmrahor Cd. No:29 B Blok Kat 3/302, 34400 Kağıthane / İstanbul（+90 212 535 00 33；info@foline.com.tr）",
 "size": "待核（中小型工程商）",
 "other": "数据中心 + 集装箱数据中心 + 弱电 + 结构化布线；守界：火灾探测主系统不供"
@@ -156422,7 +156465,7 @@
 "kp": [
 {
 "name": "Hulusi Kültür",
-"role": "Yönetim Kurulu Başkanı / President（LinkedIn 公开）",
+"role": "Yönetim Kurulu Başkanı / President（1995 创立至今 30 年）= 老板 = 联系人；A.Ş. 10–19 人、$1–5M（ZoomInfo）（第 86 批 官方登记核实 2026-10-27）",
 "email": "hkultur@inter-pos.com（LinkedIn 公开 + 用户表）",
 "phone": "+90 532 264 89 90（用户表，WhatsApp 已加）",
 "source": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-"
@@ -156436,11 +156479,12 @@
 "level": "B 级加厚 v1（名录核对）"
 },
 "company_facts": {
-"legal_name": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş.",
+"legal_name": "İNTERPOS BİLGİ TEKNOLOJİLERİ ELEKTRONİK SAN. VE TİC. A.Ş.（1995-04-10；Ataşehir İstanbul）",
 "founded": "1995-04-10",
 "hq": "İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91, 34752 Ataşehir / İstanbul（+90 216 469 64 00；info@inter-pos.com）",
 "size": "11–50（LinkedIn）/ 10–19（ZoomInfo）；营收 $1–10M",
-"other": "POS/收银机/EFT-POS/电子秤/条码；Tadiran 电池代理；有香港关联公司 Inter (Hongkong) Ltd."
+"other": "POS/收银机/EFT-POS/电子秤/条码；Tadiran 电池代理；有香港关联公司 Inter (Hongkong) Ltd.",
+"staff": "10–19（ZoomInfo）（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "零售自动化设备（POS、收银机、EFT-POS、秤、打印机、条码）",
@@ -165501,14 +165545,14 @@
 "kp": [
 {
 "name": "Jeneeben Jesujeevagan",
-"title": "Head of Engineering",
+"title": "Leiter Technik（2024-10 任命）= 技术选型人（第 86 批 官方登记核实 2026-10-27）",
 "email": "mail@barox.de",
 "phone": "",
 "source": "用户表"
 },
 {
 "name": "Rudolf Rohr",
-"title": "CEO",
+"title": "Mitgründer / Geschäftsführer（AG CEO 2005 起；GmbH 共同 GF）/ geschäftsführender Gesellschafter = 老板 = 联系人；barox Kommunikation AG 1998-09-01 Baden（CH），GmbH 2003 Lörrach（HRB 413457 Freiburg，€25,000）（第 86 批 官方登记核实 2026-10-27）",
 "email": "rohr.rudolf@barox.ch",
 "phone": "",
 "source": "用户表"
@@ -165530,7 +165574,9 @@
 },
 "company_facts": {
 "hq": "德国",
-"other": "官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表"
+"other": "官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Barox Kommunikation GmbH（Lörrach；HRB 413457 Freiburg / Impressum HRB 3457 Lörrach；USt-ID DE228975346；100% 子公司 of barox Kommunikation AG，CH-400.3.019.774-7，Baden-Dättwil）",
+"staff": "估 20–50（两国三址）（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "视频/安防网络交换机（自有品牌）",
@@ -394242,10 +394288,17 @@
 "kp": [
 {
 "name": "Greg Massott",
-"title": "（表内联系人）",
+"title": "Technical Sales Product Specialist（2008 起即此职；NAVAIR 名录联系人）= **非老板、非拍板人**；拍板人 = President Richard W. (Rich) Tull（cage.report / 2024–2025 新闻稿署名）（第 86 批 官方登记核实 2026-10-27）",
 "email": "gmassott@versitron.com",
 "phone": "",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Richard W. Tull",
+"role": "President（cage.report 现任负责人；新闻稿署名 R. W. Tull）= 老板 / 拍板人；邮箱来自 2026-03-11 OOO 自动回复（k=4ac602505b7d8db3），从未发过（第 86 批 官方登记核实 2026-10-27）",
+"email": "rwtull@versitron.com",
+"phone": "",
+"source": "https://cage.report/DUNS/837605443"
 }
 ],
 "grade_override": null,
@@ -394256,11 +394309,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Versitron, Inc.",
+"legal_name": "VERSITRON, INC.（Delaware；品牌 1958、现法人 1995-10-18；DUNS 837605443；NAVAIR OSBP 小企业供应商）",
 "founded": "1958",
 "hq": "Newark, DE, USA",
 "size": "中型制造商（自有品牌，部分外购）",
-"other": ""
+"other": "",
+"staff": "2–10 实际；营收 $2–5M（自报 EC21；第三方 $21–30M 不可信）（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "铜 / 光转换、MC、工业交换机（自有品牌）"
@@ -396755,7 +396809,7 @@
 "kp": [
 {
 "name": "Casey Hurley",
-"role": "VP Sales - Strategic Accounts（邮件签名）",
+"role": "VP Sales – Strategic Accounts（卖方高管，非采购）；Actelis FY2025 营收 $3.7M（−53%）净亏 $8.3M、累计亏损 $56.2M（2026-06）、**持续经营存疑 + Nasdaq 退市通知**；采购 / 运营在以色列（34 人）（第 86 批 官方登记核实 2026-10-27）",
 "email": "pchurley@actelis.com",
 "phone": "",
 "source": "S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）"
@@ -396766,6 +396820,13 @@
 "email": "michalw@actelis.com",
 "phone": "",
 "source": "S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补）"
+},
+{
+"name": "Tuvia Barlev",
+"role": "Chairman & CEO（创始人；SEC 10-K）（第 86 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.sec.gov/Archives/edgar/data/1141284/000121390026030946/ea028228701ex99-1.htm"
 }
 ],
 "grade_override": null,
@@ -396776,11 +396837,12 @@
 "level": "B 级加厚 v1（官网 + 公告核对）"
 },
 "company_facts": {
-"legal_name": "Actelis Networks, Inc.（NASDAQ: ASNS）",
+"legal_name": "ACTELIS NETWORKS, INC.（SEC CIK 1141284；ASNS；Delaware；Fremont / Sunnyvale CA + 以色列）",
 "founded": "1998",
 "hq": "Fremont / Sunnyvale, California, USA",
 "size": "51–200（LinkedIn）",
-"other": "产品：ML600 系列 EAD（铜缆绑定 Ethernet，1–16 对，最高 240 Mbps）、ML684D 8 口硬化 DIN 混合交换机（2 SFP + 6 FE，−40~+75 ℃，12–48 VDC）、ML630R L3、GL800/GL900 千兆混合方案（2023-05）；客户案例含印度 Beetel/大型运营商"
+"other": "产品：ML600 系列 EAD（铜缆绑定 Ethernet，1–16 对，最高 240 Mbps）、ML684D 8 口硬化 DIN 混合交换机（2 SFP + 6 FE，−40~+75 ℃，12–48 VDC）、ML630R L3、GL800/GL900 千兆混合方案（2023-05）；客户案例含印度 Beetel/大型运营商",
+"staff": "51 含承包商（39 全职；以色列 34 / 美国 15）；FY2025 营收 $3.7M、净亏 $8.3M；2026-H1 营收 $2.1M（+26%）（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "混合光纤-铜缆以太网接入设备（EAD）",
@@ -424361,7 +424423,7 @@
 "kp": [
 {
 "name": "Charles Chaussonnier",
-"role": "联系人（用户表）",
+"role": "Directeur Général（SIRENE / RNE；1966-09 生）= 联合拍板人（另一 DG Philippe Duchesne；总裁为控股公司 ETIC FINANCES 810380733）= 联系人本人就是总经理（第 86 批 官方登记核实 2026-10-27）",
 "email": "charles.chaussonnier@etictelecom.com",
 "phone": "—",
 "source": "用户表"
@@ -424375,10 +424437,11 @@
 "level": "B 级加厚 v1（官网产品线核对）"
 },
 "company_facts": {
-"legal_name": "Etic Telecom",
+"legal_name": "ETIC TELECOM SAS（SIREN 380927475 · SIRET 38092747500026；NAF 26.30Z；1991；Montbonnot-Saint-Martin 38330；PME）",
 "founded": "1985",
 "hq": "France（官网未列详细地址于摘要）",
-"other": "自研自产，欧洲玩家；产品线 RAS / IPL / XSLAN-XELAN / SIG / XSMIL；配置手册公开（SHDSL 交换机 XSLAN+1xxx/2xxx/4xxx，XSMIL-4200 军规 4 口）"
+"other": "自研自产，欧洲玩家；产品线 RAS / IPL / XSLAN-XELAN / SIG / XSMIL；配置手册公开（SHDSL 交换机 XSLAN+1xxx/2xxx/4xxx，XSMIL-4200 军规 4 口）",
+"staff": "20–49（员工档 12，2024）；2024 营收 €3,930,958 / 净利 €321,866（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业 VPN 路由器与远程维护（IPL / RAS / SIG）",
@@ -435169,7 +435232,7 @@
 "kp": [
 {
 "name": "Brian Sorensen",
-"title": "GM Product Development",
+"title": "研究档联系人（职务待核：创始家族 / 高管）；交易主体 = The Trustee for ALTRONICS UNIT TRUST（ABN 84 177 396 871，GST 2000 起），受托人 ALTRONIC DISTRIBUTORS PTY LTD（ACN 008 801 161，无 GST）（第 86 批 官方登记核实 2026-10-27）",
 "email": "info@altronics.com.au",
 "phone": "",
 "source": "用户表"
@@ -435192,7 +435255,8 @@
 },
 "company_facts": {
 "hq": "澳大利亚",
-"other": "官网 altronics.com.au，语言 ?，快照状态 ok；角色判定来源：待核"
+"other": "官网 altronics.com.au，语言 ?，快照状态 ok；角色判定来源：待核",
+"legal_name": "The Trustee for ALTRONICS UNIT TRUST（ABN 84 177 396 871）/ ALTRONIC DISTRIBUTORS PTY LTD（ACN 008 801 161；ABN 89 008 801 161）；商号 Altronic Distributors；Perth WA 6003（第 86 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电子元件 / 设备分销与零售（澳大利亚）"

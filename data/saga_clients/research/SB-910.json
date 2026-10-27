@@ -42,7 +42,7 @@
  "kp": [
   {
    "name": "Charles Chaussonnier",
-   "role": "联系人（用户表）",
+   "role": "Directeur Général（SIRENE / RNE；1966-09 生）= 联合拍板人（另一 DG Philippe Duchesne；总裁为控股公司 ETIC FINANCES 810380733）= 联系人本人就是总经理（第 86 批 官方登记核实 2026-10-27）",
    "email": "charles.chaussonnier@etictelecom.com",
    "phone": "—",
    "source": "用户表"
@@ -56,10 +56,11 @@
   "level": "B 级加厚 v1（官网产品线核对）"
  },
  "company_facts": {
-  "legal_name": "Etic Telecom",
+  "legal_name": "ETIC TELECOM SAS（SIREN 380927475 · SIRET 38092747500026；NAF 26.30Z；1991；Montbonnot-Saint-Martin 38330；PME）",
   "founded": "1985",
   "hq": "France（官网未列详细地址于摘要）",
-  "other": "自研自产，欧洲玩家；产品线 RAS / IPL / XSLAN-XELAN / SIG / XSMIL；配置手册公开（SHDSL 交换机 XSLAN+1xxx/2xxx/4xxx，XSMIL-4200 军规 4 口）"
+  "other": "自研自产，欧洲玩家；产品线 RAS / IPL / XSLAN-XELAN / SIG / XSMIL；配置手册公开（SHDSL 交换机 XSLAN+1xxx/2xxx/4xxx，XSMIL-4200 军规 4 口）",
+  "staff": "20–49（员工档 12，2024）；2024 营收 €3,930,958 / 净利 €321,866（第 86 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "工业 VPN 路由器与远程维护（IPL / RAS / SIG）",

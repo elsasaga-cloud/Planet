@@ -85,6 +85,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不主动」，不排发信，略。
 
+**公司底数 · 第 86 批（Deutschland · Handelsregister（Northdata 免费页：登记时间线 / 更名 / 迁址 / GF / Prokura），2026-10-27 查；https://www.northdata.de/Walker%20Security%20Systems%20UG%20(haftungsbeschr%C3%A4nkt),%20Nettetal）：**
+
+- 法定名 / 登记号：Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw） · Amtsgericht Krefeld HRB 20953（2025-03-27 起）· 此前 Mönchengladbach HRB 19435（2020-05）· 原始 Köln HRB 95644（2018-09）· EUID DER1402.HRB20953 · 状态 **Aktiv（2025-04-02 最新迁址登记）** · 成立 2018-09-13（Köln，原名 SMART+ Communications UG，创始 GF Oktay Zuki） · UG (haftungsbeschränkt) · Stammkapital €6,000 · 1 名在册股东（股东名单 2025-01-27 三次提交 → 2025 年初股权整体变动 = Walker 接盘）
+- 行业码 / 经营范围：电话系统（传统 + 云电话）销售安装维护；Smart Home、IP 摄像监控、组网（登记经营范围）；Dahua / Jablotron / Ajax 认证安装商（研究档）
+- 注册地址：Ritzbruch 22, D-41334 Nettetal（2025-03 起）；历史：Köln → Bergheim → Mönchengladbach → Bergheim → Nettetal（7 年 5 次迁址）
+- 规模档：微型（GF + Prokuristin 夫妻；2 名管理人员）
+- 账目：UG 微型，不披露营收；年报次年 12 月前
+- 高管：Andrew WALKER — Geschäftsführer（2020-02-17 起；接替创始人 Oktay Zuki）= 研究档 KP → **老板 = 联系人**
+- 高管：Nina Jasmin WALKER — Prokura（2025-03 起，Nettetal）= 配偶
+- 高管：Oktay ZUKI — 创始 GF（2018-09 → 2020-02），其 Zuki GmbH / Euler & Zuki 系在 Bergheim（已退出）
+- 控制人 / 股东：Andrew Walker（1 名股东，2025-01 名单；推定 100%）
+- 曾用名：SMART+ Communications UG (haftungsbeschränkt)（2018-09 → 2025-03）
+- **这意味着什么：**
+  - **€6,000 资本的夫妻 UG、7 年 5 次迁址 3 次换法院、2025 年初刚更名接盘** → 曾要免费样机被规则筛掉是对的：付费样机 + 100% 预付 + MOQ 1 箱，不做定制；Dahua / Ajax 装机配套只需 4–8 口 PoE 非管理 / 轻管理（STC-028GP、STI-054GP）
+  - 老板 = 联系人 Andrew Walker；信里用「installer pack」口吻（小批量、德国 DAP 走 Saga 百运网线）；不投入跟进，群发节奏即可
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,15 +129,16 @@ updated: 2026-10-27
 - **【第三方（openregister）】规模**
   > Gründungsdatum 13.09.2018 · Aktiv · Register Amtsgericht Krefeld HRB 20953 … Kapital 6.000,00 €
   > 来源：https://openregister.de/company/DE-HRB-R3306-95644（抓取 2026-10-21）
-- **KP**：Andrew Walker（Geschäftsführer/CEO）info@walker-security.systems +49 177 322 4215〔https://walker-security.systems/impressum〕
+- **KP**：Andrew Walker（Geschäftsführer（2020-02-17 起，接替创始人 Oktay Zuki）= 老板 = 联系人；UG €6,000、7 年 5 次迁址、2025-03 更名 Walker Security Systems UG；Prokuristin Nina Jasmin Walker（配偶）（第 86 批 官方登记核实 2026-10-27））info@walker-security.systems +49 177 322 4215〔https://walker-security.systems/impressum〕
 - **调研后定级**：B（原自动 A）——微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw） |
+| 法定名称 | Walker Security Systems UG (haftungsbeschränkt)（Amtsgericht Krefeld HRB 20953；原 SMART+ Communications UG，Köln HRB 95644，2018-09-13；Nettetal） |
 | 总部/地址 | Nettetal / Mönchengladbach, Germany |
+| 人数 | 微型（夫妻 2 人管理）（第 86 批 官方登记核实 2026-10-27） |
 | 其他 | CEO Andrew Walker；Dahua / Jablotron / Ajax 认证安装商；业务：报警、视频监控、门禁、Smart Security、电话系统 |
 
 - **业务线**：视频监控 / 入侵报警 / 门禁安装（Dahua、Jablotron、Ajax）；电话系统与智能安防
@@ -204,7 +221,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Andrew Walker | Geschäftsführer/CEO | info@walker-security.systems / +49 177 322 4215 | 调研核实（公开页） | https://walker-security.systems/impressum |
+| Andrew Walker | Geschäftsführer（2020-02-17 起，接替创始人 Oktay Zuki）= 老板 = 联系人；UG €6,000、7 年 5 次迁址、2025-03 更名 Walker Security Systems UG；Prokuristin Nina Jasmin Walker（配偶）（第 86 批 官方登记核实 2026-10-27） | info@walker-security.systems / +49 177 322 4215 | 调研核实（公开页） | https://walker-security.systems/impressum |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

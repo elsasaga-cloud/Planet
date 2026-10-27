@@ -41,7 +41,7 @@
  "kp": [
   {
    "name": "Marián Ondrejíček",
-   "role": "Key Principal（D&B 口径）",
+   "role": "联系人（konateľ / 股东身份待 FinStat 登记页确认）；ROVEZ, s.r.o. 1997-12-22、3–4 人、2025 营收 €646,579（+28%）净利 €192,182（30%）、负债率 7%（第 86 批 官方登记核实 2026-10-27）",
    "email": "rovez@rovez.sk",
    "phone": "+421 905 617 471",
    "source": "https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/"
@@ -56,9 +56,10 @@
   "level": "B 级加厚 v1（官网 + 注册核对）"
  },
  "company_facts": {
-  "legal_name": "ROVEZ, s.r.o.（IČO 36225801；IČ DPH SK2020163277）",
+  "legal_name": "ROVEZ, s.r.o.（IČO 36225801 · IČ DPH SK2020163277；ORSR Trnava Sro 10793/T；1997-12-22；základné imanie €6,639）",
   "hq": "Ul. 9. mája 49, 917 01 Trnava, Slovensko（+421 33 5516 655；+421 905 617 471 / 905 441 595；rovez@rovez.sk）",
-  "other": "Trnava 的 **Avigilon** 摄像系统供应商（30 年经验）：摄像/录像/门禁/EZS 报警 销售、安装、维护；第二站 kamerovesystemy.com"
+  "other": "Trnava 的 **Avigilon** 摄像系统供应商（30 年经验）：摄像/录像/门禁/EZS 报警 销售、安装、维护；第二站 kamerovesystemy.com",
+  "staff": "3–4（2026）；2025 营收 €646,579 / 净利 €192,182 / 权益 €586,271（第 86 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "Avigilon 视频监控系统（销售+安装+服务）",

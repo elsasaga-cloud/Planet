@@ -16158,5 +16158,1073 @@
   "accounts": [],
   "repos_mentioning": [],
   "checked_at": "2026-10-27T08:01:11Z"
+ },
+ "SB-794": {
+  "domain": "wut.de",
+  "accounts": [
+   {
+    "login": "wiesemann-theis",
+    "type": "Organization",
+    "url": "https://github.com/wiesemann-theis",
+    "name": "Wiesemann & Theis GmbH",
+    "blog": "https://www.wut.de",
+    "email": "info@wut.de",
+    "company": null,
+    "public_repos": 1,
+    "created_at": "2019-07-12T09:56:55Z",
+    "updated_at": "2019-07-15T11:43:52Z",
+    "bio": "W&T connects serial, Ethernet, USB, PCI and IO.",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "node-red-contrib-wut",
+      "pushed_at": "2026-07-06T15:26:24Z",
+      "lang": "JavaScript",
+      "desc": "Integrate Wiesemann & Theis products - like Com-Servers, Web-IOs or Web-Thermometers - into Node-RED.",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "bobrogers/wutalent-devhub",
+    "url": "https://github.com/bobrogers/wutalent-devhub",
+    "desc": "For the wu:talent developer community to code and share together",
+    "stars": 0,
+    "pushed_at": "2013-07-07T04:05:05Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Ausbildungsleiter/Ausbildungsleiter",
+    "url": "https://github.com/Ausbildungsleiter/Ausbildungsleiter",
+    "desc": "Config files for my GitHub profile.",
+    "stars": 0,
+    "pushed_at": "2021-12-14T08:25:11Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Jaxmetalmax/mosquitto-examples",
+    "url": "https://github.com/Jaxmetalmax/mosquitto-examples",
+    "desc": "Mosquitto eclipse examples, using python, mqtt cli client, and websockets",
+    "stars": 1,
+    "pushed_at": "2021-03-19T18:10:41Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Wutang-Dev/wutang-dev-helpdesk",
+    "url": "https://github.com/Wutang-Dev/wutang-dev-helpdesk",
+    "desc": "Hands-on 1st Line IT Support lab documenting real-world helpdesk scenarios (AD, domain joins, GPO, shared drives, M365) ",
+    "stars": 0,
+    "pushed_at": "2026-03-07T10:57:43Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Song-xuan-xuan/wut-deepseek2api",
+    "url": "https://github.com/Song-xuan-xuan/wut-deepseek2api",
+    "desc": "将武汉理工大学deepseek 网页端变成兼容 openai 格式的 api 格式，接入各种 agent 中调用。",
+    "stars": 4,
+    "pushed_at": "2026-10-26T14:36:13Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:01:22Z"
+ },
+ "SB-795": {
+  "domain": "yachtgurus.us",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:01:33Z"
+ },
+ "SB-796": {
+  "domain": "destekelektronik.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:01:47Z"
+ },
+ "SB-797": {
+  "domain": "excelengineeringsg.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:02:01Z"
+ },
+ "SB-798": {
+  "domain": "getecseg.com.br",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:02:13Z"
+ },
+ "SB-800": {
+  "domain": "acelink.com.tw",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:02:21Z"
+ },
+ "SB-801": {
+  "domain": "aurcore.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:02:36Z"
+ },
+ "SB-802": {
+  "domain": "baldota.co.in",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:02:49Z"
+ },
+ "SB-803": {
+  "domain": "bestpc.bg",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:03:04Z"
+ },
+ "SB-804": {
+  "domain": "bm-switch.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:03:16Z"
+ },
+ "SB-805": {
+  "domain": "cctvspot.co.uk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:03:29Z"
+ },
+ "SB-806": {
+  "domain": "datageneral.co",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:03:43Z"
+ },
+ "SB-807": {
+  "domain": "datastream.by",
+  "accounts": [
+   {
+    "login": "datastreamapp",
+    "type": "Organization",
+    "url": "https://github.com/datastreamapp",
+    "name": "DataStream",
+    "blog": "https://datastream.org",
+    "email": "team@datastream.org",
+    "company": null,
+    "public_repos": 21,
+    "created_at": "2021-08-28T15:24:58Z",
+    "updated_at": "2026-10-06T07:58:19Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "wqx",
+      "pushed_at": "2026-10-24T00:40:55Z",
+      "lang": "JavaScript",
+      "desc": "Water Quality Exchange (WQX) JSON Schema",
+      "fork": false
+     },
+     {
+      "name": "terraform-waf-module",
+      "pushed_at": "2026-10-07T16:08:07Z",
+      "lang": "HCL",
+      "desc": "OWASP WAF",
+      "fork": true
+     },
+     {
+      "name": "api-docs",
+      "pushed_at": "2026-09-28T18:54:05Z",
+      "lang": null,
+      "desc": "DataStream Public API Documentation",
+      "fork": false
+     },
+     {
+      "name": "schema",
+      "pushed_at": "2026-09-02T20:16:23Z",
+      "lang": "JavaScript",
+      "desc": "DataStream Schema",
+      "fork": false
+     },
+     {
+      "name": "datastreamr",
+      "pushed_at": "2026-08-13T18:02:03Z",
+      "lang": "R",
+      "desc": "DataSteam API helper in R",
+      "fork": false
+     },
+     {
+      "name": "python-fastjsonschema",
+      "pushed_at": "2026-08-13T15:10:10Z",
+      "lang": "Python",
+      "desc": "Fast JSON schema validator for Python.",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "Kjuly/pngcrush",
+    "url": "https://github.com/Kjuly/pngcrush",
+    "desc": "It is a free, open source command-line utility for optimizing PNG image files (batch script included).",
+    "stars": 228,
+    "pushed_at": "2017-03-29T10:57:45Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "imagemin/pngcrush-bin",
+    "url": "https://github.com/imagemin/pngcrush-bin",
+    "desc": "pngcrush bin-wrapper that makes it seamlessly available as a local dependency",
+    "stars": 39,
+    "pushed_at": "2023-12-15T18:49:07Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "Islandora/islandora_xacml_editor",
+    "url": "https://github.com/Islandora/islandora_xacml_editor",
+    "desc": "Provides a graphical user interface to edit XACML policies for objects in a repository or collection. ",
+    "stars": 6,
+    "pushed_at": "2025-07-28T21:45:59Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "vanthome/winston-elasticsearch",
+    "url": "https://github.com/vanthome/winston-elasticsearch",
+    "desc": "An elasticsearch transport for winston",
+    "stars": 270,
+    "pushed_at": "2024-05-11T16:43:34Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "KAIST-ITC/beamforming",
+    "url": "https://github.com/KAIST-ITC/beamforming",
+    "desc": "",
+    "stars": 5,
+    "pushed_at": "2020-06-15T06:09:02Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T08:03:52Z"
+ },
+ "SB-808": {
+  "domain": "deponet.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:04:05Z"
+ },
+ "SB-809": {
+  "domain": "econnet.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:04:20Z"
+ },
+ "SB-810": {
+  "domain": "enssecurity.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:04:35Z"
+ },
+ "SB-811": {
+  "domain": "esoft.fi",
+  "accounts": [
+   {
+    "login": "esoft",
+    "type": "User",
+    "url": "https://github.com/esoft",
+    "name": "esoft",
+    "blog": "www.esoft-gmbh.com",
+    "email": "sys.admin@esoft-gmbh.com",
+    "company": "eSoft GmbH",
+    "public_repos": 0,
+    "created_at": "2010-12-27T10:09:52Z",
+    "updated_at": "2020-09-29T16:45:09Z",
+    "bio": "",
+    "match": "company"
+   },
+   {
+    "login": "SimonLarsen",
+    "type": "User",
+    "url": "https://github.com/SimonLarsen",
+    "name": "Simon Larsen",
+    "blog": "",
+    "email": "simonhffh@gmail.com",
+    "company": "Esoft",
+    "public_repos": 104,
+    "created_at": "2010-06-03T09:20:31Z",
+    "updated_at": "2026-10-13T09:26:33Z",
+    "bio": "Independent game developer at Tangram Games.\r\nML researcher at Esoft.",
+    "match": "company",
+    "repos": [
+     {
+      "name": "frogbox",
+      "pushed_at": "2026-10-23T07:52:33Z",
+      "lang": "Python",
+      "desc": "An opinionated machine learning framework.",
+      "fork": false
+     },
+     {
+      "name": "SimonLarsen",
+      "pushed_at": "2026-10-13T09:33:48Z",
+      "lang": null,
+      "desc": "Github Profile README",
+      "fork": false
+     },
+     {
+      "name": "yaunet",
+      "pushed_at": "2026-10-13T09:15:39Z",
+      "lang": "Python",
+      "desc": "A simple, modular U-Net implementation in PyTorch.",
+      "fork": false
+     },
+     {
+      "name": "nvim-config",
+      "pushed_at": "2026-10-12T13:09:02Z",
+      "lang": "Lua",
+      "desc": "Neovim configuration",
+      "fork": false
+     },
+     {
+      "name": "bctui",
+      "pushed_at": "2026-09-30T18:52:50Z",
+      "lang": "Python",
+      "desc": "bctui is a simple text-based Bandcamp music player",
+      "fork": false
+     },
+     {
+      "name": "fliser",
+      "pushed_at": "2026-09-24T13:18:17Z",
+      "lang": "Python",
+      "desc": "Helper library for doing tiled inference with PyTorch.",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "esoftplay",
+    "type": "User",
+    "url": "https://github.com/esoftplay",
+    "name": "Danang Widiantoro",
+    "blog": "esoftplay.com",
+    "email": null,
+    "company": "Esoftplay Inc.",
+    "public_repos": 22,
+    "created_at": "2011-02-11T10:03:48Z",
+    "updated_at": "2026-10-23T03:12:19Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "master",
+      "pushed_at": "2026-10-23T09:47:06Z",
+      "lang": "PHP",
+      "desc": "master framework to start building any project",
+      "fork": false
+     },
+     {
+      "name": "nginx-php",
+      "pushed_at": "2024-08-02T02:59:30Z",
+      "lang": "Dockerfile",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Dash-User-Contributions",
+      "pushed_at": "2024-06-06T06:46:11Z",
+      "lang": "Python",
+      "desc": "Dash repo of user contributed docsets",
+      "fork": true
+     },
+     {
+      "name": "async",
+      "pushed_at": "2022-09-15T09:46:46Z",
+      "lang": "PHP",
+      "desc": "background process from esoftplay framework",
+      "fork": false
+     },
+     {
+      "name": "binary",
+      "pushed_at": "2022-06-20T00:31:41Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "setup-gcloud",
+      "pushed_at": "2022-05-27T16:16:07Z",
+      "lang": null,
+      "desc": "A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.",
+      "fork": true
+     }
+    ]
+   },
+   {
+    "login": "JMSPunsara",
+    "type": "User",
+    "url": "https://github.com/JMSPunsara",
+    "name": "JMS Punsara ",
+    "blog": "https://punsarajms.vercel.app",
+    "email": null,
+    "company": "Esoft Metro Campus",
+    "public_repos": 17,
+    "created_at": "2023-12-26T07:29:33Z",
+    "updated_at": "2026-10-04T07:22:34Z",
+    "bio": "Studying at Esoft Metro Campus.",
+    "match": "company",
+    "repos": [
+     {
+      "name": "9drive",
+      "pushed_at": "2026-09-26T03:09:00Z",
+      "lang": "TypeScript",
+      "desc": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Us",
+      "fork": true
+     },
+     {
+      "name": "Seneha-Home-Nursing-Care",
+      "pushed_at": "2026-05-10T07:36:12Z",
+      "lang": "PHP",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Media-Crack-Zone-Complete-Music-Website-with-Admin-Dashboard",
+      "pushed_at": "2025-08-12T17:34:31Z",
+      "lang": "PHP",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "JMSPunsara",
+      "pushed_at": "2025-08-11T19:08:13Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "greenlife_wellness_center",
+      "pushed_at": "2025-06-20T16:19:53Z",
+      "lang": "PHP",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "My-Portfolio-Website-New-Look",
+      "pushed_at": "2025-05-10T08:06:25Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "diogobrito001/EsoftFicha4",
+    "url": "https://github.com/diogobrito001/EsoftFicha4",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2022-05-04T09:48:17Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Batya03rus/EsoftFinalyVers",
+    "url": "https://github.com/Batya03rus/EsoftFinalyVers",
+    "desc": "SdelalVse",
+    "stars": 0,
+    "pushed_at": "2022-11-15T14:57:48Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Morozko122/ESOFT-FINAL",
+    "url": "https://github.com/Morozko122/ESOFT-FINAL",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-07-20T08:12:09Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "F0len/esoft_final",
+    "url": "https://github.com/F0len/esoft_final",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-07-20T05:39:56Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "mhmd-aashik/esoft-final",
+    "url": "https://github.com/mhmd-aashik/esoft-final",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-11-28T07:48:46Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:04:47Z"
+ },
+ "SB-812": {
+  "domain": "ethernetdirect-jp.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:05:02Z"
+ },
+ "SB-813": {
+  "domain": "ifocusshop.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:05:15Z"
+ },
+ "SB-814": {
+  "domain": "istream.by",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "adishavit/argh",
+    "url": "https://github.com/adishavit/argh",
+    "desc": "Argh! A minimalist argument handler.",
+    "stars": 1444,
+    "pushed_at": "2025-01-21T09:38:36Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "stdlib-js/streams-node-from-circular-array",
+    "url": "https://github.com/stdlib-js/streams-node-from-circular-array",
+    "desc": "Create a readable stream from a circular array-like object.",
+    "stars": 2,
+    "pushed_at": "2026-09-10T02:57:12Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "Manopipoca111005/istreambyweb-api",
+    "url": "https://github.com/Manopipoca111005/istreambyweb-api",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-12-29T12:12:22Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "eva4152/Filter-CSV-by-age",
+    "url": "https://github.com/eva4152/Filter-CSV-by-age",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-11-18T16:12:27Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "stdlib-js/streams-node-from-array",
+    "url": "https://github.com/stdlib-js/streams-node-from-array",
+    "desc": "Create a readable stream from an array-like object.",
+    "stars": 3,
+    "pushed_at": "2026-09-10T02:49:12Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T08:05:26Z"
+ },
+ "SB-815": {
+  "domain": "lendoux.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:05:38Z"
+ },
+ "SB-816": {
+  "domain": "lorwen.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:05:51Z"
+ },
+ "SB-817": {
+  "domain": "masstracktech.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:06:03Z"
+ },
+ "SB-819": {
+  "domain": "nabludenie.by",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Domovikx/angular-nabludenie-by",
+    "url": "https://github.com/Domovikx/angular-nabludenie-by",
+    "desc": "Курсовой проект на ангулар 8. верстка, роутинг. https://domovikx.github.io/angular-nabludenie-by/dist/angular-nabludenie",
+    "stars": 0,
+    "pushed_at": "2023-01-07T12:35:57Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:06:16Z"
+ },
+ "SB-820": {
+  "domain": "prismwifi.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:06:27Z"
+ },
+ "SB-821": {
+  "domain": "server-x.by",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "sink-archive/discord-command-palette",
+    "url": "https://github.com/sink-archive/discord-command-palette",
+    "desc": "Power up your Discord with vscode's wonderful command palette for your client",
+    "stars": 6,
+    "pushed_at": "2022-02-16T16:44:06Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "mafiyakhan786/2-page-server-x-by-",
+    "url": "https://github.com/mafiyakhan786/2-page-server-x-by-",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-09-18T17:53:52Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Viaruss/TicToeToe",
+    "url": "https://github.com/Viaruss/TicToeToe",
+    "desc": "A multiplayer web-based TicTacToe game ",
+    "stars": 1,
+    "pushed_at": "2024-03-03T14:23:51Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Htomsik/LiteCall",
+    "url": "https://github.com/Htomsik/LiteCall",
+    "desc": "VOIP",
+    "stars": 0,
+    "pushed_at": "2026-03-22T23:57:45Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Security-Specialty-SCS-C02-Practice-Tests-Exams-Question",
+    "url": "https://github.com/Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Security-Specialty-SCS-C02-Practice-Tests-Exams-Question",
+    "desc": "⛳️ PASS: Amazon Web Services Certified (AWS Certified) Security Specialty (SCS-C02) by learning based on our Questions &",
+    "stars": 27,
+    "pushed_at": "2025-01-08T13:09:10Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T08:06:40Z"
+ },
+ "SB-822": {
+  "domain": "solidcable.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:06:53Z"
+ },
+ "SB-823": {
+  "domain": "synchronet.net",
+  "accounts": [
+   {
+    "login": "synchronet-llc",
+    "type": "Organization",
+    "url": "https://github.com/synchronet-llc",
+    "name": "SynchroNet",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2019-02-26T20:10:00Z",
+    "updated_at": "2019-02-26T20:15:17Z",
+    "bio": "",
+    "match": "name"
+   },
+   {
+    "login": "synchronetmsp",
+    "type": "Organization",
+    "url": "https://github.com/synchronetmsp",
+    "name": "Synchronet",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2023-06-30T18:49:22Z",
+    "updated_at": "2026-10-06T19:02:20Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "hkhuang07/webserver-attack-techniques",
+    "url": "https://github.com/hkhuang07/webserver-attack-techniques",
+    "desc": " This project analyzes web server attack techniques and cybersecurity measures. It introduces core concepts, hacker clas",
+    "stars": 2,
+    "pushed_at": "2025-10-24T13:38:30Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "nirav07dholiya/SynchroNet",
+    "url": "https://github.com/nirav07dholiya/SynchroNet",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-07-21T12:42:08Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "kundanavadlamudi/SynchroNet",
+    "url": "https://github.com/kundanavadlamudi/SynchroNet",
+    "desc": "NexTrace: Social Media Coordinated Disinformation Detection System",
+    "stars": 0,
+    "pushed_at": "2026-10-25T05:00:21Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:07:03Z"
+ },
+ "SB-824": {
+  "domain": "synchsoft.com.pk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:07:20Z"
+ },
+ "SB-825": {
+  "domain": "t-automation.by",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Solodis/TestAutomationByWD",
+    "url": "https://github.com/Solodis/TestAutomationByWD",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2018-04-25T19:12:29Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "khicchi/TodosAutomationByKicchi",
+    "url": "https://github.com/khicchi/TodosAutomationByKicchi",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2022-01-18T17:53:55Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Ashok16it/TestAutomationByAK",
+    "url": "https://github.com/Ashok16it/TestAutomationByAK",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-09-12T11:21:45Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "OMKAR40111/Testing_Automation_Bynry",
+    "url": "https://github.com/OMKAR40111/Testing_Automation_Bynry",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-07-14T14:25:29Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Teluser/Test-Automation-by-Postman",
+    "url": "https://github.com/Teluser/Test-Automation-by-Postman",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2023-11-23T05:59:33Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:07:32Z"
+ },
+ "SB-826": {
+  "domain": "versitron.com",
+  "accounts": [
+   {
+    "login": "Versitron",
+    "type": "User",
+    "url": "https://github.com/Versitron",
+    "name": "Versitron Inc.",
+    "blog": "https://www.versitron.com/",
+    "email": null,
+    "company": "Versitron Inc.",
+    "public_repos": 2894,
+    "created_at": "2020-10-22T10:10:17Z",
+    "updated_at": "2026-09-15T07:13:09Z",
+    "bio": "Trusted Fiber Optic Solutions Since 1958 | Powering AI & GenAI Infra | Secure, Rugged, High-Speed Connectivity | #VERSITRON",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "Industrial-24-Port-Managed-PoE-Switch-with-4-SFP-for-Surveillance-Networks",
+      "pushed_at": "2026-09-15T07:44:35Z",
+      "lang": null,
+      "desc": "Explore a 24 port managed PoE+ switch with 4 SFP for industrial, surveillance, security, and fiber uplink networks requi",
+      "fork": false
+     },
+     {
+      "name": "High-Density-16-Port-Managed-PoE-Switch-with-4-SFP-for-Industrial-Networks",
+      "pushed_at": "2026-09-15T07:30:46Z",
+      "lang": null,
+      "desc": "High-density 16 port managed PoE+ switch with 4 SFP for industrial networks, surveillance, security, and reliable fiber ",
+      "fork": false
+     },
+     {
+      "name": "High-Performance-10-Gig-SFP-Switch-for-Enterprise-Data-Center-Networks",
+      "pushed_at": "2026-08-31T11:56:46Z",
+      "lang": null,
+      "desc": "Explore high-performance 10 gig SFP switches for enterprise data centers, surveillance networks, industrial infrastructu",
+      "fork": false
+     },
+     {
+      "name": "Professional-Broadcast-Video-Amplifier-for-Surveillance-and-Broadcast-Networks",
+      "pushed_at": "2026-08-19T13:03:01Z",
+      "lang": null,
+      "desc": "Explore professional broadcast video amplifiers for surveillance, broadcast, transportation, and security networks with ",
+      "fork": false
+     },
+     {
+      "name": "Industrial-Grade-Power-over-Ethernet-Fiber-Bridge-for-Surveillance-Networks",
+      "pushed_at": "2026-08-19T12:55:33Z",
+      "lang": null,
+      "desc": "Explore industrial-grade power over Ethernet fiber bridge solutions for surveillance networks, remote cameras, PoE exten",
+      "fork": false
+     },
+     {
+      "name": "Industrial-Grade-Single-Mode-to-Multimode-Fiber-Converter-for-Industrial-Automation-Networks",
+      "pushed_at": "2026-08-14T05:50:43Z",
+      "lang": null,
+      "desc": "Explore industrial-grade single mode to multimode fiber converters for mixed fiber networks, industrial backbones, utili",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "Versitron/Versitron-SF70460M-Managed-Industrial-Switch",
+    "url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch",
+    "desc": "Buy Versitron SF70460M Managed Industrial Switch",
+    "stars": 0,
+    "pushed_at": "2025-07-28T09:33:05Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Versitron/Versitron-SF70460M-Managed-Industrial-Switch-USA-",
+    "url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch-USA-",
+    "desc": "Buy Versitron SF70460M Managed Industrial Switch USA ",
+    "stars": 0,
+    "pushed_at": "2025-07-28T09:39:11Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Versitron/Versitron-SF70460M-Managed-Industrial-Switch-",
+    "url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch-",
+    "desc": "Buy Versitron SF70460M Managed Industrial Switch ",
+    "stars": 0,
+    "pushed_at": "2025-07-28T08:24:48Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Versitron/Versitron-Single-Fiber-Media-Converter-for-Flexible-Fiber-Networking",
+    "url": "https://github.com/Versitron/Versitron-Single-Fiber-Media-Converter-for-Flexible-Fiber-Networking",
+    "desc": "Buy single fiber media converters for single-mode and multimode fiber networks. Solutions with SC, ST, and LC connectors",
+    "stars": 0,
+    "pushed_at": "2026-01-30T07:04:35Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Versitron/Versitron-4-Port-Managed-Industrial-Ethernet-Switch-with-SFP-",
+    "url": "https://github.com/Versitron/Versitron-4-Port-Managed-Industrial-Ethernet-Switch-with-SFP-",
+    "desc": "Buy Versitron 4-Port Managed Industrial Ethernet Switch with SFP ",
+    "stars": 0,
+    "pushed_at": "2025-07-28T08:28:17Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:07:43Z"
+ },
+ "SB-827": {
+  "domain": "goip.in",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "toxi22/goip_install",
+    "url": "https://github.com/toxi22/goip_install",
+    "desc": "SMS Server GoIP",
+    "stars": 1,
+    "pushed_at": "2019-04-15T22:14:51Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "ehrenmann1977/Goip_Voip_SMS_Gateway",
+    "url": "https://github.com/ehrenmann1977/Goip_Voip_SMS_Gateway",
+    "desc": "A gateway to convert received SMS UDP DATA into SIP Message Data ",
+    "stars": 1,
+    "pushed_at": "2023-07-18T01:00:36Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "kuroiookami77/goiptelegrambot",
+    "url": "https://github.com/kuroiookami77/goiptelegrambot",
+    "desc": "Telegram Bot with auth by whitelist (sqlite3) was used to send sms of a certain type (goip simbase api) and generate csv",
+    "stars": 1,
+    "pushed_at": "2022-06-22T00:59:04Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:07:57Z"
+ },
+ "SB-828": {
+  "domain": "luxmediaplan.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:08:09Z"
+ },
+ "SB-829": {
+  "domain": "optimus-cctv.ru",
+  "accounts": [
+   {
+    "login": "Oden-CCGO",
+    "type": "Organization",
+    "url": "https://github.com/Oden-CCGO",
+    "name": "OPTIMUS",
+    "blog": "https://www.oden.utexas.edu/research/centers-and-groups/optimus/",
+    "email": null,
+    "company": null,
+    "public_repos": 2,
+    "created_at": "2021-09-18T17:35:13Z",
+    "updated_at": "2026-10-02T11:26:36Z",
+    "bio": "Oden Institute Center for Optimization, Inversion, Machine Learning, and Uncertainty for Complex Systems",
+    "match": "name",
+    "repos": [
+     {
+      "name": "mfem",
+      "pushed_at": "2023-10-05T17:07:30Z",
+      "lang": null,
+      "desc": "Lightweight, general, scalable C++ library for finite element methods",
+      "fork": true
+     },
+     {
+      "name": "snippets",
+      "pushed_at": "2023-04-19T18:32:04Z",
+      "lang": null,
+      "desc": "Wiki repo for sharing useful code snippets & lessons learned for commonly used libraries within OPTIMUS @ The Oden Insti",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "grupo-optimus",
+    "type": "Organization",
+    "url": "https://github.com/grupo-optimus",
+    "name": "Optimus",
+    "blog": "",
+    "email": "grupo.optimus.uniamerica@gmail.com",
+    "company": null,
+    "public_repos": 11,
+    "created_at": "2026-08-05T14:38:23Z",
+    "updated_at": "2026-08-05T14:46:52Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "pi_radio_independencia",
+      "pushed_at": "2026-09-29T06:44:18Z",
+      "lang": "CSS",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "JSON-local---OptimusDex",
+      "pushed_at": "2026-09-21T00:59:30Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Pokedex_Web_Pokemon_Browsing",
+      "pushed_at": "2026-09-18T00:50:47Z",
+      "lang": "JavaScript",
+      "desc": "A front-end, external API fed simple website for a College project about SCRUM metodology and teamwork.",
+      "fork": false
+     },
+     {
+      "name": "FlexBox",
+      "pushed_at": "2026-09-16T23:49:55Z",
+      "lang": "CSS",
+      "desc": "Desenvolvimento de uma atividade acadêmica.",
+      "fork": false
+     },
+     {
+      "name": "grupo-optimus.github.io",
+      "pushed_at": "2026-09-16T00:58:28Z",
+      "lang": "HTML",
+      "desc": "projetos grupo optimus - uniamerica",
+      "fork": false
+     },
+     {
+      "name": "Sistema-de-Controle-de-Estudos",
+      "pushed_at": "2026-09-07T03:03:47Z",
+      "lang": "CSS",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "tothi/pwn-hisilicon-dvr",
+    "url": "https://github.com/tothi/pwn-hisilicon-dvr",
+    "desc": "",
+    "stars": 383,
+    "pushed_at": "2023-01-01T12:03:03Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:08:22Z"
+ },
+ "SB-831": {
+  "domain": "actelis.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "actelis/actelis-accessory-selector",
+    "url": "https://github.com/actelis/actelis-accessory-selector",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-08T19:46:57Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:08:35Z"
+ },
+ "SB-832": {
+  "domain": "alidex.es",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:08:46Z"
+ },
+ "SB-833": {
+  "domain": "comtime-com.de",
+  "accounts": [
+   {
+    "login": "comtime-com",
+    "type": "Organization",
+    "url": "https://github.com/comtime-com",
+    "name": "comtime GmbH",
+    "blog": "https://comtime-com.de",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2024-11-06T16:20:49Z",
+    "updated_at": "2024-11-06T16:24:13Z",
+    "bio": "",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:08:58Z"
+ },
+ "SB-834": {
+  "domain": "eneo-security.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:09:09Z"
+ },
+ "SB-835": {
+  "domain": "fiberopticsupply.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:09:20Z"
+ },
+ "SB-836": {
+  "domain": "fiberworks.no",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:09:33Z"
  }
 }

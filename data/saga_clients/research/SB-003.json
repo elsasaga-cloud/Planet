@@ -49,10 +49,17 @@
  "kp": [
   {
    "name": "—",
-   "role": "中央办公室",
+   "role": "订单邮箱 → 法人 ООО «РИО-ИМПОРТ»（ОГРН 1092468006047 · ИНН 2460214069，Красноярск 2009-02-19，资本 10,000 ₽）；现任总经理 Сергеева Н. М.，创始人 / 2012 年 100% 股东 Попов И. Ю.；营收 38 млн ₽（第 86 批 官方登记核实 2026-10-27）",
    "email": "rio-import2003@mail.ru",
    "phone": "+7 (391) 291-14-24",
    "source": "http://www.rio-krsk.ru/contacts/"
+  },
+  {
+   "name": "Сергеева Надежда Михайловна",
+   "role": "Генеральный директор（现任；companies.rbc）= 签字人（第 86 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.rio-krsk.ru/company/requisites/"
   }
  ],
  "notes": "A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列（俄语区付款/物流由用户侧按现有通道）。",
@@ -62,10 +69,11 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "ООО «РИО-ИМПОРТ»（RIO Group）",
+  "legal_name": "ООО «РИО-ИМПОРТ»（ОГРН 1092468006047 · ИНН 2460214069 · КПП 246001001；Красноярск；2009-02-19；资本 10,000 ₽；创始人 Попов Игорь Юрьевич）",
   "founded": "2009（ОГРН 1092468006047）",
   "hq": "Krasnoyarsk, Russia",
-  "other": "自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN"
+  "other": "自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN",
+  "staff": "小型；营收 38.13 млн ₽（最近一期）（第 86 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "工业自动化元件分销（PLC、HMI、变频器、软启、伺服、温控、电源）",

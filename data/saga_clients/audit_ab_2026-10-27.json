@@ -2132,7 +2132,7 @@
    "p1": "STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-004": {
@@ -4992,7 +4992,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-1030": {
@@ -7060,7 +7060,7 @@
    "p1": "STC-424XGGPM-280W $180",
    "tier": 25,
    "signals": 0,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-1116": {
@@ -8732,7 +8732,7 @@
    "p1": "STI-080GE",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-164": {
@@ -23318,7 +23318,7 @@
    "p1": "CENTEC STH1G：STH-2QX4DX48GP-HSI（48×1G PoE++ 90W + 4×25G SFP28 + 2×40G QSFP+，堆叠 ≤8 台 / 360 Gbps，链或环，双热插拔 1200W PSU）= 他要的 Catalyst 9300 级可堆叠 48 口 PoE；-SFI 为 PoE+ 30W 单电源版。汇聚/核心再配 STH-8C48DX / 2C6QX",
    "tier": 30,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-827": {
@@ -23428,7 +23428,7 @@
    "p1": "STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书）",
    "tier": 30,
    "signals": 1,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-832": {

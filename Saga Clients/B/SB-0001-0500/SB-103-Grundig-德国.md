@@ -81,6 +81,25 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 86 批（Deutschland · Handelsregister（Northdata 免费页：登记时间线 / GF 变更 / 资本 / 商标 / 资产负债表总额），2026-10-27 查；https://www.northdata.de/Abetechs%20GmbH,%20Erkrath）：**
+
+- 法定名 / 登记号：Abetechs GmbH（GRUNDIG Security 独家许可方） · Amtsgericht Wuppertal HRB 35197（2024-11-22 起；此前 Amtsgericht Düsseldorf HRB 82264）· EUID DER1608.HRB35197 · USt-ID DE 315 133 441（官网） · 状态 **Aktiv（2026-09-14 最新登记变更）** · 成立 2017-12-15（Gesellschaftsvertrag 2017-09-18） · GmbH · Stammkapital €800,000（2017 €300k → 2018-05 €500k → 2020-12 €800k）· 3 名在册股东（名单 2024-10-28 / 2026-01-02 两次更新 → 股权近期变动）
+- 行业码 / 经营范围：Herstellung und Vertrieb von Produkten der Sicherheitstechnik, Hardware und Software：GRUNDIG Security 品牌许可（摄像 / NVR / SMART 线 NDAA 合规）+ VMS 商标 »C WERK«（2018-06 注册）；关联公司 i-Alarmsysteme GmbH（奥地利 Weikersdorf）及其德国分支（Erkrath HRB 31766）
+- 注册地址：Steinhof 39, D-40699 Erkrath
+- 规模档：11–50（LinkedIn）；按资产总额 €1.06M 判 10 人上下
+- 账目：资产负债表总额 €1,061,495（2025-12-31；2026-06-16 公示）—— 对 €800k 注册资本而言体量很小；营收不公开（小型 GmbH 免披露）；年报次年 6 月前（2025 账已出）
+- 高管：Kagan KANDEMIR — Geschäftsführer（**2026-09-14 起**，Düsseldorf）= 现任唯一 GF
+- 高管：Hans Ludwig BERGSCHNEIDER（= 研究档 KP Ludwig Bergschneider，Remscheid）— Geschäftsführer 2017-12-15 → **2026-09-14 卸任**（2024-06 重新登记为 Hans Ludwig）
+- 高管：Kevin Etienne KRÜCK — GF 两段（2023-09→2024-03；2024-08→2024-11）
+- 高管：Janek BROCK — Prokura（2024-06-12 起）
+- 高管：Yalcin DEMIRAK（研究档 KP）— 登记网络中出现（身份：股东 / 前任 GF 待核，Eschweiler）；Martin Embacher / Peter Zehetner — i-Alarmsysteme 系（奥地利）
+- 控制人 / 股东：3 名股东（Northdata 付费；股东名单 2026-01-02 更新）
+- **这意味着什么：**
+  - **研究档两位 KP 都过时了：Ludwig Bergschneider 2026-09-14 已不再是 GF，新 GF 是 Kagan Kandemir；Yalcin Demirak 身份待核** → 下次触达收件人必须换成 Kandemir（GF）或 Prokurist Janek Brock；GRUNDIG Security 授权 + NDAA 合规 SMART 线说明他们在做美国 / 政府合规市场 —— 交换机配套要 NDAA（非海康 / 大华芯片链）口径：Marvell 方案可讲，但不写「NDAA-compliant」承诺（规则）
+  - 2 年内 GF 换 4 次、股东名单两次更新、资产总额只有 €1.06M → 经营不稳：100% 预付或 50/50，不做账期、不备库存给他们
+  - 与奥地利 i-Alarmsysteme GmbH 同网络（Embacher / Zehetner）→ 报价时可问是否覆盖奥地利分销
+  - 下一轮：Northdata 第 2 页看 Yalcin Demirak 与 i-Alarmsysteme 的关联类型
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,16 +148,18 @@ updated: 2026-10-27
 - **【用户表】WhatsApp 已加；7 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ludwig Bergschneider（Managing Director（Imprint 公开））—（未公开） +49 211 5380 680〔https://grundig-security.com/contacts/imprint/〕
-- **KP**：Yalcin Demirak（Geschäftsführer（登记名录公开））—（未公开） +49 211 5380 680〔https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html〕
+- **KP**：Ludwig Bergschneider（Geschäftsführer 2017-12-15 → **2026-09-14 卸任**（Handelsregister；2024-06 起登记名 Hans Ludwig Bergschneider）= 已非拍板人；现任 GF Kagan Kandemir（2026-09-14 起）、Prokurist Janek Brock（第 86 批 官方登记核实 2026-10-27））—（未公开） +49 211 5380 680〔https://grundig-security.com/contacts/imprint/〕
+- **KP**：Yalcin Demirak（登记网络中出现（Eschweiler；股东 / 前任职务待核）（第 86 批 官方登记核实 2026-10-27））—（未公开） +49 211 5380 680〔https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html〕
+- **KP**：Kagan Kandemir（Geschäftsführer（2026-09-14 起，Düsseldorf）= 现任唯一 GF / 拍板人（第 86 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/Abetechs%20GmbH,%20Erkrath〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Abetechs GmbH（GRUNDIG Security） |
+| 法定名称 | Abetechs GmbH（Amtsgericht Wuppertal HRB 35197，前 Düsseldorf HRB 82264；2017-12-15；Stammkapital €800,000；3 名股东；商标 C WERK；关联 i-Alarmsysteme GmbH 奥地利） |
 | 总部/地址 | Steinhof 39, 40699 Erkrath, Germany（+49 211 5380 680） |
+| 人数 | 11–50；资产负债表总额 €1,061,495（2025-12-31）（第 86 批 官方登记核实 2026-10-27） |
 | 注册/税号 | HRB 82264 Amtsgericht Düsseldorf（名录）/ HRB 35197 Wuppertal（官网 Imprint）· USt-ID DE 315 133 441 · 注册资本 €800,000 |
 | 其他 | GRUNDIG Security 独家许可；SMART 线 NDAA 合规；VMS C-WERK；全球分销 |
 
@@ -240,8 +261,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ludwig Bergschneider | Managing Director（Imprint 公开） | —（未公开） / +49 211 5380 680 | 调研核实（公开页） | https://grundig-security.com/contacts/imprint/ |
-| Yalcin Demirak | Geschäftsführer（登记名录公开） | —（未公开） / +49 211 5380 680 | 调研核实（公开页） | https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html |
+| Ludwig Bergschneider | Geschäftsführer 2017-12-15 → **2026-09-14 卸任**（Handelsregister；2024-06 起登记名 Hans Ludwig Bergschneider）= 已非拍板人；现任 GF Kagan Kandemir（2026-09-14 起）、Prokurist Janek Brock（第 86 批 官方登记核实 2026-10-27） | —（未公开） / +49 211 5380 680 | 调研核实（公开页） | https://grundig-security.com/contacts/imprint/ |
+| Yalcin Demirak | 登记网络中出现（Eschweiler；股东 / 前任职务待核）（第 86 批 官方登记核实 2026-10-27） | —（未公开） / +49 211 5380 680 | 调研核实（公开页） | https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html |
+| Kagan Kandemir | Geschäftsführer（2026-09-14 起，Düsseldorf）= 现任唯一 GF / 拍板人（第 86 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.northdata.de/Abetechs%20GmbH,%20Erkrath |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

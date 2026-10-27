@@ -55,10 +55,17 @@
  "kp": [
   {
    "name": "Iyiola Folayan",
-   "role": "负责人 / MikroTik 认证顾问",
+   "role": "Director（Companies House 16807798，2025-10-24 起；尼日利亚籍居英）= 老板之一 = 联系人；公司 **2025-10 刚注册**、虚拟地址 128 City Road、IT 咨询 SIC、零财务记录；另两位董事 Aderonke Folayan（家属）+ Andrew Oladipo（第 86 批 官方登记核实 2026-10-27）",
    "email": "ifolayan@millievolution.com",
    "phone": "",
    "source": "S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list"
+  },
+  {
+   "name": "Aderonke Folayan",
+   "role": "Director（2025-10-24 起；Wakefield）= 家属 / 共同股东（第 86 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/16807798/officers"
   }
  ],
  "notes": "128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。",
@@ -148,5 +155,9 @@
    "body": "Hi Iyiola,\n\nJust checking in as promised — did a project come through on your side? The 2-pc evaluation PI still stands and is credited against your first commercial order whenever you are ready.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "company_facts": {
+  "legal_name": "MILLISECONDS EVOLUTION LIMITED（Companies House 16807798；2025-10-24；128 City Road London EC1V 2NX（注册代理地址）；SIC 62020 / 62030 / 70229 / 85590；首份账目 2027-07-24 到期）",
+  "staff": "初创微型（3 董事）（第 86 批 官方登记核实 2026-10-27）"
  }
 }

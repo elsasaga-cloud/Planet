@@ -56,17 +56,24 @@
  "kp": [
   {
    "name": "Ludwig Bergschneider",
-   "role": "Managing Director（Imprint 公开）",
+   "role": "Geschäftsführer 2017-12-15 → **2026-09-14 卸任**（Handelsregister；2024-06 起登记名 Hans Ludwig Bergschneider）= 已非拍板人；现任 GF Kagan Kandemir（2026-09-14 起）、Prokurist Janek Brock（第 86 批 官方登记核实 2026-10-27）",
    "email": "—（未公开）",
    "phone": "+49 211 5380 680",
    "source": "https://grundig-security.com/contacts/imprint/"
   },
   {
    "name": "Yalcin Demirak",
-   "role": "Geschäftsführer（登记名录公开）",
+   "role": "登记网络中出现（Eschweiler；股东 / 前任职务待核）（第 86 批 官方登记核实 2026-10-27）",
    "email": "—（未公开）",
    "phone": "+49 211 5380 680",
    "source": "https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html"
+  },
+  {
+   "name": "Kagan Kandemir",
+   "role": "Geschäftsführer（2026-09-14 起，Düsseldorf）= 现任唯一 GF / 拍板人（第 86 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.northdata.de/Abetechs%20GmbH,%20Erkrath"
   }
  ],
  "grade_override": null,
@@ -77,11 +84,12 @@
   "level": "B 级加厚 v1（官网 + 登记核对）"
  },
  "company_facts": {
-  "legal_name": "Abetechs GmbH（GRUNDIG Security）",
+  "legal_name": "Abetechs GmbH（Amtsgericht Wuppertal HRB 35197，前 Düsseldorf HRB 82264；2017-12-15；Stammkapital €800,000；3 名股东；商标 C WERK；关联 i-Alarmsysteme GmbH 奥地利）",
   "registry": "HRB 82264 Amtsgericht Düsseldorf（名录）/ HRB 35197 Wuppertal（官网 Imprint）· USt-ID DE 315 133 441 · 注册资本 €800,000",
   "hq": "Steinhof 39, 40699 Erkrath, Germany（+49 211 5380 680）",
   "size": "11–50（LinkedIn）",
-  "other": "GRUNDIG Security 独家许可；SMART 线 NDAA 合规；VMS C-WERK；全球分销"
+  "other": "GRUNDIG Security 独家许可；SMART 线 NDAA 合规；VMS C-WERK；全球分销",
+  "staff": "11–50；资产负债表总额 €1,061,495（2025-12-31）（第 86 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "GRUNDIG 品牌 IP 视频安防（摄像机、热成像、NVR、监视器）全球分销",

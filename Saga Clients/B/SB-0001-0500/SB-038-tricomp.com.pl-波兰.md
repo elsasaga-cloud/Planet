@@ -89,6 +89,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 86 批（Polska · KRS（krs-pobierz / aleo 镜像），2026-10-27 查；https://aleo.com/int/company/tricomp-spolka-z-ograniczona-odpowiedzialnoscia）：**
+
+- 法定名 / 登记号：„TRICOMP” SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0000121281 · NIP 5222477449 · REGON 016022377 · 状态 **Aktywna（KRS 最近变更 2025-04-14）** · 成立 2002-07-04（KRS 登记 = 开业） · Sp. z o.o. · kapitał zakładowy 50,000 PLN（100 股）· 代表方式：一名董事会成员 + 代理人联合签署
+- 行业码 / 经营范围：IT / 电信咨询、设计、监理、布线与电信方案实施、项目管理（研究档）
+- 注册地址：Al. Prymasa Tysiąclecia 78A, 01-424 Warszawa
+- 规模档：1–24 人（D&B）；LinkedIn 自报 51–200 不可信
+- 账目：镜像未显示财务（需 rejestr.io 付费 / KRS 文件）；D&B 1–24 人；波兰年报 7 月（KRS 文件库）
+- 高管：James Francis OFWONA — Prezes Zarządu（59 岁）+ **98 / 100 股（49,000 PLN）** = 研究档 KP → **老板 = 联系人**
+- 高管：Grażyna PIEKUS — Prokurent（prokura samoistna，66 岁）= 联签人
+- 控制人 / 股东：James Francis Ofwona 98%（余 2 股待核）
+- **这意味着什么：**
+  - **老板 = 联系人（Ofwona 持股 98%，23 年老公司，5 万 PLN 资本）**，WhatsApp 活着但「明确无需求」（2023-12 → 2025-02）→ 不推销；只在 2027-Q1 群发节奏里带一句「有项目再找我们」；若来项目：集成 25%、T/T 50/50
+  - 代表方式要求董事 + 代理人联签 → 合同 / PI 签署要两人（Ofwona + Piekus），别催单签
+  - 下一轮不花预算；需要时 rejestr.io/krs/121281 看 2024 营收
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,7 +144,7 @@ updated: 2026-10-27
 - **【企业登记】2002-07-04 注册，注册资本 5 万 PLN，总裁 James Francis Ofwona**
   > Data rejestracji: 04.07.2002… Kapitał zakładowy: 50 000 zł… James Francis Ofwona Prezes Zarządu
   > 来源：https://www.gowork.pl/tricomp-sp.-z-o.o.,29703/dane-kontaktowe-firmy（抓取 2026-10-21）
-- **KP**：James Francis Ofwona（Prezes Zarządu（总裁））contact@tricomp.com.pl（公开总机邮箱） +48 607 498 206〔D&B / gowork / Crunchbase〕
+- **KP**：James Francis Ofwona（Prezes Zarządu（59 岁）+ **98 / 100 股** = 老板 = 联系人；代表方式 = 董事 + Prokurent（Grażyna Piekus）联签（第 86 批 官方登记核实 2026-10-27））contact@tricomp.com.pl（公开总机邮箱） +48 607 498 206〔D&B / gowork / Crunchbase〕
 - **调研后定级**：B（原自动 A）——小型工程咨询公司，交换机只是项目配套；1 次回复后 14 次推送无回复 → 慢跟（波兰在主攻区，故不降 C）。
 - 备注：重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。
 
@@ -137,7 +152,7 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Tricomp Sp. z o.o.（华沙；2002-07-04 注册，注册资本 5 万 PLN） |
+| 法定名称 | „TRICOMP” SP. Z O.O.（KRS 0000121281 · NIP 5222477449 · REGON 016022377；2002-07-04；Warszawa Al. Prymasa Tysiąclecia 78A；资本 50,000 PLN）（第 86 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Warszawa, Polska |
 | 其他 | 总裁 James Francis Ofwona；业务：IT/电信咨询、设计、监理、布线与电信方案实施、项目管理 |
 
@@ -219,7 +234,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| James Francis Ofwona | Prezes Zarządu（总裁） | contact@tricomp.com.pl（公开总机邮箱） / +48 607 498 206 | 调研核实（公开页） | D&B / gowork / Crunchbase |
+| James Francis Ofwona | Prezes Zarządu（59 岁）+ **98 / 100 股** = 老板 = 联系人；代表方式 = 董事 + Prokurent（Grażyna Piekus）联签（第 86 批 官方登记核实 2026-10-27） | contact@tricomp.com.pl（公开总机邮箱） / +48 607 498 206 | 调研核实（公开页） | D&B / gowork / Crunchbase |
 | Bartosz Lozinski | — | blozinski@tricomp.com.pl / +48607498249 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

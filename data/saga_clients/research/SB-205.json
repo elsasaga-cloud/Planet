@@ -42,14 +42,14 @@
  "kp": [
   {
    "name": "Jeneeben Jesujeevagan",
-   "title": "Head of Engineering",
+   "title": "Leiter Technik（2024-10 任命）= 技术选型人（第 86 批 官方登记核实 2026-10-27）",
    "email": "mail@barox.de",
    "phone": "",
    "source": "用户表"
   },
   {
    "name": "Rudolf Rohr",
-   "title": "CEO",
+   "title": "Mitgründer / Geschäftsführer（AG CEO 2005 起；GmbH 共同 GF）/ geschäftsführender Gesellschafter = 老板 = 联系人；barox Kommunikation AG 1998-09-01 Baden（CH），GmbH 2003 Lörrach（HRB 413457 Freiburg，€25,000）（第 86 批 官方登记核实 2026-10-27）",
    "email": "rohr.rudolf@barox.ch",
    "phone": "",
    "source": "用户表"
@@ -71,7 +71,9 @@
  },
  "company_facts": {
   "hq": "德国",
-  "other": "官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Barox Kommunikation GmbH（Lörrach；HRB 413457 Freiburg / Impressum HRB 3457 Lörrach；USt-ID DE228975346；100% 子公司 of barox Kommunikation AG，CH-400.3.019.774-7，Baden-Dättwil）",
+  "staff": "估 20–50（两国三址）（第 86 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "视频/安防网络交换机（自有品牌）",

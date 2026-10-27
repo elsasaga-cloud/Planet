@@ -103,6 +103,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动；建议移出群发」，不排发信，略。
 
+**公司底数 · 第 86 批（USA · PRNewswire 收购公告（2020-03-18）+ St Pete Catalyst（2020-05 迁址 / 母公司 Sunny-Z Inc.）+ 第三方规模估计 + LinkedIn，2026-10-27 查；https://www.prnewswire.com/news-releases/american-fibertek-proudly-continues-35-year-history-of-manufacturing-american-products-and-mitigating-risks-of-foreign-elements-301025706.html）：**
+
+- 法定名 / 登记号：AMERICAN FIBERTEK, INC.（AFI；母公司 Sunny-Z Inc.，St. Petersburg FL） · 法人登记号待补（原 New Jersey 公司；2020 迁 Florida —— Sunbiz 不可抓取） · 状态 **Active（2026-05 名录更新）** · 成立 1984（Somerset NJ）；2020-03 被 Donna Poulos / Sunny-Z Inc. 整体收购并迁至 St. Petersburg FL · Corporation · 私人持有 · **女性所有（Woman-Owned）**，母公司 Sunny-Z Inc.
+- 行业码 / 经营范围：安防光纤传输 / 网络设备「美国制造」：光端机、交换机、电源、转换器；2020 收购后公开定位 = 「American made, domestically controlled」、强调规避「foreign elements」
+- 注册地址：745 43rd St S, St. Petersburg, FL 33711（2020 起）；原 Somerset, NJ 08873
+- 规模档：11–50（LinkedIn）；实际 7–28
+- 账目：第三方分歧：$8.4M（ZoomInfo / Datanyze）/ $11M（LeadIQ 2024-12）/ $70M（RocketReach，不可信）→ 记 $8–11M；FL 年报 5-01
+- 高管：Donna POULOS — President & Owner（2020-03 起 100% 收购；亦为母公司 Sunny-Z Inc. 总裁 / 所有人）= 研究档 KP（sales@）→ 老板
+- 高管：Tim ORSELLI — 来信署名人（2024-11 问 PoE++ 版 + 两款价格；职务待核：销售 / 产品）
+- 控制人 / 股东：Donna Poulos 100%（via Sunny-Z Inc.）
+- **这意味着什么：**
+  - **老板 Donna Poulos 2020 年收购后的公开路线是「美国制造、规避外国元素」—— 这与从中国进口交换机正面冲突** → 2024-11 Tim 问 PoE++ 和价格后无下文，很可能是老板路线否决，不是价格问题；不再追（群发节奏），若回头只谈「非品牌、非美国制造标签」的配件级采购，100% 预付
+  - 法人号 / 州登记待补（Sunbiz 不可抓）；下一轮不花预算
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -143,12 +157,17 @@ updated: 2026-10-27
 - **【经销商网店】MX-6p 街价**
   > MX-6p-PoE-2HP was $975.33 Special Price $753.00 … American Fibertek MX-6p-PoE-2HP Unmanaged 6-Port Ethernet Switch, (4) 10/100 PoE af & (2) SFP 1000 Ports
   > 来源：https://www.surveillance-video.com/network-mx-6p-poe-2hp.html（抓取 2026-10-21）
-- **KP**：Donna Poulos（President/Owner）sales@americanfibertek.com（官网公开） +1 800-323-0660〔https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750〕
+- **KP**：Donna Poulos（President & Owner（2020-03 via Sunny-Z Inc. 整体收购，女性所有；公开路线「American made / 规避 foreign elements」→ 与进口中国交换机冲突）（第 86 批 官方登记核实 2026-10-27））sales@americanfibertek.com（官网公开） +1 800-323-0660〔https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750〕
 - **KP**：Tim Orselli（来信署名人（职务未在邮件署名里出现））tim.orselli@americanfibertek.com 〔S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补）〕
 - **调研后定级**：B（原自动 A）——品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。
 - 备注：INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网交换机目录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | AMERICAN FIBERTEK, INC.（1984 Somerset NJ；2020 迁 St. Petersburg FL；母公司 Sunny-Z Inc.） |
+| 人数 | 7–28；营收估 $8–11M（第 86 批 官方登记核实 2026-10-27） |
 
 - **业务线**：安防光传输（视频/数据/音频光端机）；以太网交换机（AFI510 系列 8/16/22/24/48 口，PoE+）与 L2 管理机；媒体转换器（MX-6p 系列 4 FE PoE + 2 SFP）
 
@@ -262,7 +281,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Donna Poulos | President/Owner | sales@americanfibertek.com（官网公开） / +1 800-323-0660 | 调研核实（公开页） | https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750 |
+| Donna Poulos | President & Owner（2020-03 via Sunny-Z Inc. 整体收购，女性所有；公开路线「American made / 规避 foreign elements」→ 与进口中国交换机冲突）（第 86 批 官方登记核实 2026-10-27） | sales@americanfibertek.com（官网公开） / +1 800-323-0660 | 调研核实（公开页） | https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750 |
 | Tim Orselli | 来信署名人（职务未在邮件署名里出现） | tim.orselli@americanfibertek.com | 调研核实（公开页） | S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补） |
 
 - **通道建议**：企业邮箱可直发

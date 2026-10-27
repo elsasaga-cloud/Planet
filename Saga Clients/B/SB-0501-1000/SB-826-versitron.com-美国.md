@@ -131,6 +131,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 86 批（USA · NAVAIR OSBP 供应商页（官方）+ cage.report（DUNS 837605443 现任负责人）+ Bloomberg（法人成立日）+ EIN Presswire 2024–2025 新闻稿（总裁署名）+ 第三方规模估计，2026-10-27 查；https://cage.report/DUNS/837605443）：**
+
+- 法定名 / 登记号：VERSITRON, INC. · DUNS 837605443（CAGE 在册）；Delaware 公司（Bloomberg 法人成立 1995-10-18；品牌 1958 起） · 状态 **Active（2025-07 仍发新闻稿；NAVAIR 小企业供应商名录在册）** · 成立 1958 创立（品牌）；现法人 1995-10-18（Bloomberg） · Corporation（DE）· 私人持有
+- 行业码 / 经营范围：SIC 3663 / NAICS 334 铜-光纤连接产品「设计制造」（实为贴牌：PoE 管理型 / 非管理 / 工业交换机、SFP、媒体转换器、光纤视频）；政府 / 军方（NAVAIR OSBP）/ 安防渠道；EC21 上自列「51–100 人、营收 $2–5M」
+- 注册地址：83 Albe Drive Suite C, Newark, DE 19702
+- 规模档：2–10 人实际（RocketReach 2 / LeadIQ 2–10）；自报 11–50 / 51–100 / Bloomberg 75 不可信
+- 账目：第三方分歧极大：<$1M（LeadIQ）/ <$5M（ZoomInfo）/ $2–5M（自报 EC21）/ $21–30M（RocketReach / Apollo，不可信）→ 记 $2–5M；DE 年度 franchise tax 3-01
+- 高管：Richard W. (Rich) TULL — President（cage.report 现任负责人；2024–2025 新闻稿署名 R. W. Tull；rwtull@versitron.com 见 OOO 自动回复）= 老板 / 拍板人
+- 高管：Greg MASSOTT — Technical Sales Product Specialist（2008 起即此职；NAVAIR 名录联系人）= 研究档 KP → **联系人不是老板，是 17 年老产品专员 / 采购接口**
+- 控制人 / 股东：Richard W. Tull（推定）
+- **这意味着什么：**
+  - **三年 21 来 29 去全是 Greg，但 Greg 只是产品专员，拍板人是总裁 Rich Tull（rwtull@versitron.com，2026-03-11 OOO 自动回复里出现过、从未发过）**：零成交的原因之一就在这 —— Greg 收资料做比价，不下单；下一封 = 绑定里已定的「对表信」（按 Greg 2025-01-31 硬规格逐条回：CENTEC STH 堆叠线，不是 PoE 小品），直发 Greg + 抄 R. W. Tull；可引用他们 2024-08 / 2025-07 公开新闻稿里的 10G SFP / PoE 管理型系列作切入（公开信息，不涉内部）
+  - 整本目录是贴牌（PoE 管理型、工业、SFP）→ OEM 30% 线；但要配美式包装 + 他们的 UL 诉求做不了 → 只报 FCC / CE 常规款
+  - 实际 2–10 人、营收 $2–5M、NAVAIR 军方小企业供应商 → 政府单需 TAA（中国产不合规）—— 商业渠道货可做；付款 T/T 30/70，DAP 特拉华走 Saga 百运网线
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -167,15 +182,17 @@ updated: 2026-10-27
   > Finally, our "stacking" feature is available on all models. 1. We are trying to offer stacking as an alternative to Cisco. I guess you mean Cisco Catalyst 9300 Switches? This is fine.
   > 来源：（S 邮箱 thr 1844786008444924799，2026-03-11T08:24Z；Versitron 最后一封 2025-10-31）（抓取 2026-10-22）
 - **KP**：Greg Massott（）gmassott@versitron.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Richard W. Tull（President（cage.report 现任负责人；新闻稿署名 R. W. Tull）= 老板 / 拍板人；邮箱来自 2026-03-11 OOO 自动回复（k=4ac602505b7d8db3），从未发过（第 86 批 官方登记核实 2026-10-27））rwtull@versitron.com 〔https://cage.report/DUNS/837605443〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Versitron, Inc. |
+| 法定名称 | VERSITRON, INC.（Delaware；品牌 1958、现法人 1995-10-18；DUNS 837605443；NAVAIR OSBP 小企业供应商） |
 | 成立 | 1958 |
 | 总部/地址 | Newark, DE, USA |
+| 人数 | 2–10 实际；营收 $2–5M（自报 EC21；第三方 $21–30M 不可信）（第 86 批 官方登记核实 2026-10-27） |
 
 - **业务线**：铜 / 光转换、MC、工业交换机（自有品牌）
 - **触达通道（公开）**：role: 美国制造商（OEM 采购）；region: 美国
@@ -260,6 +277,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Greg Massott | — | gmassott@versitron.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Richard W. Tull | President（cage.report 现任负责人；新闻稿署名 R. W. Tull）= 老板 / 拍板人；邮箱来自 2026-03-11 OOO 自动回复（k=4ac602505b7d8db3），从未发过（第 86 批 官方登记核实 2026-10-27） | rwtull@versitron.com | 调研核实（公开页） | https://cage.report/DUNS/837605443 |
 
 - **通道建议**：企业邮箱可直发
 

@@ -79,6 +79,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 86 批（Türkiye · 官网（法定全称 / 销售办公室地址 / 业务）+ 研究档名片；Ltd. Şti. 登记细节不免费，2026-10-27 查；https://foline.com.tr/）：**
+
+- 法定名 / 登记号：FOLİNE BİLİŞİM TEKNOLOJİLERİ SAN. VE TİC. LTD. ŞTİ. · Ticaret Sicil / Vergi No 待补 · 状态 **Faal（官网在线）** · 成立 待补 · Ltd. Şti.
+- 行业码 / 经营范围：数据中心 + 集装箱数据中心、弱电系统、结构化布线的工程 / 咨询 / 实施
+- 注册地址：Premier Kampüs, Kağıthane Gürsel, İmrahor Cd. No:29 B Blok Kat 3/302, 34400 Kağıthane / İstanbul（销售办公室）
+- 规模档：中小型工程商（待核）
+- 账目：不公开
+- 高管：Mahmut CESUR — Genel Müdür（名片）= 研究档 KP → **总经理 = 联系人（大概率老板）**
+- 控制人 / 股东：待核
+- **这意味着什么：**
+  - **数据中心 / 集装箱数据中心工程商，GM 本人在 WhatsApp 上** → 这是 CENTEC 敲门砖的土耳其对口户（机房 10G/25G/100G 交换机 + PoE 弱电配套）：集成 25%，先给 STH-2C24XF-HSI / 32C-HSI 规格对标；WhatsApp 线 Simon 直接跟
+  - 登记细节不免费（Ltd. Şti.）→ 不再花预算；付款 T/T 50/50 起
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,14 +120,14 @@ updated: 2026-10-27
 - **【用户表】ISAF：拿名片未交谈；WhatsApp 已加**
   > 没做交谈， 拿了名片 / 90 50722 52728 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mahmut Cesur（Genel Müdür（用户表名片））mahmut.cesur@foline.com.tr（用户表） +90 507 225 27 28（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Mahmut Cesur（Genel Müdür（名片）= 总经理 = 联系人（大概率老板；Ltd. Şti. 登记不免费）；数据中心 / 集装箱数据中心工程商 → CENTEC 敲门砖对口（第 86 批 官方登记核实 2026-10-27））mahmut.cesur@foline.com.tr（用户表） +90 507 225 27 28（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti. |
+| 法定名称 | FOLİNE BİLİŞİM TEKNOLOJİLERİ SAN. VE TİC. LTD. ŞTİ.（Kağıthane İstanbul；官网法定全称）（第 86 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Premier Kampüs, Kağıthane Gürsel, İmrahor Cd. No:29 B Blok Kat 3/302, 34400 Kağıthane / İstanbul（+90 212 535 00 33；info@foline.com.tr） |
 | 其他 | 数据中心 + 集装箱数据中心 + 弱电 + 结构化布线；守界：火灾探测主系统不供 |
 
@@ -176,7 +189,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mahmut Cesur | Genel Müdür（用户表名片） | mahmut.cesur@foline.com.tr（用户表） / +90 507 225 27 28（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mahmut Cesur | Genel Müdür（名片）= 总经理 = 联系人（大概率老板；Ltd. Şti. 登记不免费）；数据中心 / 集装箱数据中心工程商 → CENTEC 敲门砖对口（第 86 批 官方登记核实 2026-10-27） | mahmut.cesur@foline.com.tr（用户表） / +90 507 225 27 28（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

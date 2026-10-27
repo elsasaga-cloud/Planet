@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 10
+  "count": 12
  },
  "rows": {
   "SA-086": {
@@ -350,6 +350,69 @@
    "notes": "成立日 / 高管待补。",
    "fetched": "2026-10-27",
    "code": "SA-030"
+  },
+  "SB-181": {
+   "batch": 86,
+   "name": "İNTERPOS BİLGİ TEKNOLOJİLERİ ELEKTRONİK SAN. VE TİC. A.Ş.",
+   "iso": "TR",
+   "source": "Türkiye · ZoomInfo 公司档（员工 / 营收档 / President 1995 至今）+ 研究档（成立日 1995-04-10；LinkedIn）",
+   "url": "https://www.zoominfo.com/p/Hulusi-Ku%CC%88ltu%CC%88r/1540298018",
+   "number": "Ticaret Sicil / Vergi No 待补（A.Ş. 高管仅 Ticaret Sicil Gazetesi）",
+   "status": "Faal（展会名片 + 官网）",
+   "incorporated": "1995-04-10",
+   "company_type": "A.Ş.（股份公司）· 私人持有",
+   "sic": [
+    "POS / 电子设备制造 + IT 技术（Manufacturing 分类）；Ataşehir İstanbul"
+   ],
+   "address": "İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91, 34752 Ataşehir / İstanbul",
+   "accounts": "ZoomInfo 档 $1–5M",
+   "accounts_due": "TR 年报 4 月（A.Ş. 大会）",
+   "size_band": "10–19 人（ZoomInfo）",
+   "officers": [
+    "Hulusi KÜLTÜR — Yönetim Kurulu Başkanı / President（1995 创立至今，30 年）= 研究档 KP → **老板 = 联系人**（展会名片）",
+    "Levent Gülerman / Özgür Kavrak — 同事（ZoomInfo）"
+   ],
+   "psc": "Hulusi Kültür（创始人；比例待核）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（董事长 Hulusi Kültür，30 年 A.Ş.，10–19 人，$1–5M）**，展会名片 + WhatsApp 已加、邮件 0 封：POS 设备制造商买交换机是配自家 POS / 零售网络方案 → OEM 30%（İnterpos 标）或集成 25%；WhatsApp 线由 Simon 直接跟（规则：WhatsApp 客户不走邮件编码）",
+    "A.Ş. 高管公开需 Ticaret Sicil Gazetesi（付费）→ 不补；土耳其 CE + TSE 由进口方办"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-181"
+  },
+  "SB-180": {
+   "batch": 86,
+   "name": "FOLİNE BİLİŞİM TEKNOLOJİLERİ SAN. VE TİC. LTD. ŞTİ.",
+   "iso": "TR",
+   "source": "Türkiye · 官网（法定全称 / 销售办公室地址 / 业务）+ 研究档名片；Ltd. Şti. 登记细节不免费",
+   "url": "https://foline.com.tr/",
+   "number": "Ticaret Sicil / Vergi No 待补",
+   "status": "Faal（官网在线）",
+   "incorporated": "待补",
+   "company_type": "Ltd. Şti.",
+   "sic": [
+    "数据中心 + 集装箱数据中心、弱电系统、结构化布线的工程 / 咨询 / 实施"
+   ],
+   "address": "Premier Kampüs, Kağıthane Gürsel, İmrahor Cd. No:29 B Blok Kat 3/302, 34400 Kağıthane / İstanbul（销售办公室）",
+   "accounts": "不公开",
+   "accounts_due": "",
+   "size_band": "中小型工程商（待核）",
+   "officers": [
+    "Mahmut CESUR — Genel Müdür（名片）= 研究档 KP → **总经理 = 联系人（大概率老板）**"
+   ],
+   "psc": "待核",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**数据中心 / 集装箱数据中心工程商，GM 本人在 WhatsApp 上** → 这是 CENTEC 敲门砖的土耳其对口户（机房 10G/25G/100G 交换机 + PoE 弱电配套）：集成 25%，先给 STH-2C24XF-HSI / 32C-HSI 规格对标；WhatsApp 线 Simon 直接跟",
+    "登记细节不免费（Ltd. Şti.）→ 不再花预算；付款 T/T 50/50 起"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-180"
   }
  }
 }

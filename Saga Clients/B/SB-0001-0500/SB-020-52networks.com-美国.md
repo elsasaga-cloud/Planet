@@ -130,6 +130,22 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 86 批（USA · SAM.gov 登记（govtribe / g2xchange / sweetspot 镜像）+ GSA eLibrary 合同页 + D&B，2026-10-27 查；https://govtribe.com/vendors/52-networks-inc-dot-907x4）：**
+
+- 法定名 / 登记号：52 NETWORKS, INC. · UEI FV4KBSNE5S75 · CAGE 907X4 · Virginia 公司（2018-03-12 成立）· GSA MAS 合同 47QTCA22D00B3（选项期至 2027-07-25） · 状态 **Active（SAM.gov 注册有效至 2027-06-15）** · 成立 2018-03-12（SAM 法定成立日 2018-01-01 / 2018-03-12） · Corporation（VA）· 少数族裔（印度裔）所有 · SBA 自证小型弱势企业
+- 行业码 / 经营范围：NAICS 334111（主）/ 423430 计算机外设批发 / 541519；**只做联邦政府采购的 GSA 主承包商**：IT 硬件、网络设备、办公家具（网店 52networks.com：批量网线、媒体转换器、光纤跳线；授权转售 C2G / Tripp Lite / Transition / StarTech / Perle）
+- 注册地址：5142 Meeting Pl, Woodbridge, VA 22193（SAM）；历史地址 4380 Whitmer Dr #14 / 957 Highams Ct（住宅）
+- 规模档：1–10 人（家庭式政府转售商）
+- 账目：SAM 自报营收 $0–1M；GSA 合同选项期 2027-07；SAM 年审 6 月
+- 高管：Uzair（GSA 登记联系人 uzair@52networks.com）= 研究档 KP → **老板 = 联系人**（印度裔业主；全名待核）
+- 高管：James Anderson — D&B Key Principal（疑登记代理 / 旧档）
+- 高管：John Davis — 单据联系人（研究档）
+- 控制人 / 股东：Uzair（SAM 自证少数族裔所有）
+- **这意味着什么：**
+  - **已付样机 2 台 STI-288GP（2025-07）的联邦 GSA 转售商，老板 = 联系人 Uzair**：他买样机是为了上 GSA 目录投标 → 15 个月没动静大概率是「TAA 合规」卡住（GSA MAS 要求 TAA 原产地，中国产不合规）→ 信里别提 TAA，只问样机测试结果 + 给「非 GSA 商业渠道」的整箱价；复购要靠他的商业客户
+  - 微型（1–10 人，营收 <$1M，住宅地址起家）→ 100% 预付，MOQ 1 箱，DAP 弗吉尼亚走 Saga 百运网线
+  - SAM 年审 6 月 / GSA 选项期 2027-07 → 2027-05 前后他会整理目录，是第二窗口
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -178,7 +194,7 @@ updated: 2026-10-27
 - **【公开平台核查（T29-U18）】sweetspot：68 项联邦合同累计 $1,430,138，DoD 为主**
   > 52 NETWORKS, INC. … has received $1,430,138 across 68 federal awards, with top agencies including Department of Defense and General Services Administration
   > 来源：https://www.sweetspot.so/markets/federal/contractors/52-networks-inc-fv4kbsne5s75/（抓取 2026-06-16）
-- **KP**：Uzair（GSA 登记联系人）（负责人）uzair@52networks.com +1 571-402-8369〔https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES〕
+- **KP**：Uzair（GSA 登记联系人）（GSA 登记联系人 = 业主（SAM.gov 自证少数族裔 / 印度裔所有，1–10 人，营收 <$1M）= 老板 = 联系人；52 Networks, Inc.（VA 2018-03-12；UEI FV4KBSNE5S75 · CAGE 907X4；GSA MAS 47QTCA22D00B3 至 2027-07）（第 86 批 官方登记核实 2026-10-27））uzair@52networks.com +1 571-402-8369〔https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES〕
 - **KP**：—（销售邮箱（用户表））sales@52networks.com +1 757-799-1359〔https://52networks.com/contact-us/〕
 - **KP**：John Davis（单据联系人）sales@52networks.com 〔PI.zip 单据〕
 - 备注：A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。
@@ -187,10 +203,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | 52 Networks, Inc. |
+| 法定名称 | 52 NETWORKS, INC.（Virginia，2018-03-12；UEI FV4KBSNE5S75 · CAGE 907X4；SAM 有效至 2027-06-15） |
 | 成立 | 2018 |
 | 总部/地址 | Woodbridge, Virginia, USA |
-| 人数 | 1–10 |
+| 人数 | 1–10；SAM 自报营收 $0–1M（第 86 批 官方登记核实 2026-10-27） |
 | 营收 | <$1M（govtribe） |
 | 注册/税号 | GSA 合同 47QTCA22D00B3；SBA 小型弱势企业 |
 | 其他 | 网店 52networks.com：主营批量网线（Cat6/6A Plenum 1,000 ft 箱装 $199.99/$289.99），类目含 MC 27 款、网络硬件 20 款、光纤跳线 35 款 |
@@ -300,7 +316,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Uzair（GSA 登记联系人） | 负责人 | uzair@52networks.com / +1 571-402-8369 | 调研核实（公开页） | https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES |
+| Uzair（GSA 登记联系人） | GSA 登记联系人 = 业主（SAM.gov 自证少数族裔 / 印度裔所有，1–10 人，营收 <$1M）= 老板 = 联系人；52 Networks, Inc.（VA 2018-03-12；UEI FV4KBSNE5S75 · CAGE 907X4；GSA MAS 47QTCA22D00B3 至 2027-07）（第 86 批 官方登记核实 2026-10-27） | uzair@52networks.com / +1 571-402-8369 | 调研核实（公开页） | https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES |
 | — | 销售邮箱（用户表） | sales@52networks.com / +1 757-799-1359 | 调研核实（公开页） | https://52networks.com/contact-us/ |
 | John Davis | 单据联系人 | sales@52networks.com | 调研核实（公开页） | PI.zip 单据 |
 

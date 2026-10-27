@@ -49,10 +49,17 @@
  "kp": [
   {
    "name": "Greg Massott",
-   "title": "（表内联系人）",
+   "title": "Technical Sales Product Specialist（2008 起即此职；NAVAIR 名录联系人）= **非老板、非拍板人**；拍板人 = President Richard W. (Rich) Tull（cage.report / 2024–2025 新闻稿署名）（第 86 批 官方登记核实 2026-10-27）",
    "email": "gmassott@versitron.com",
    "phone": "",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Richard W. Tull",
+   "role": "President（cage.report 现任负责人；新闻稿署名 R. W. Tull）= 老板 / 拍板人；邮箱来自 2026-03-11 OOO 自动回复（k=4ac602505b7d8db3），从未发过（第 86 批 官方登记核实 2026-10-27）",
+   "email": "rwtull@versitron.com",
+   "phone": "",
+   "source": "https://cage.report/DUNS/837605443"
   }
  ],
  "grade_override": null,
@@ -63,11 +70,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Versitron, Inc.",
+  "legal_name": "VERSITRON, INC.（Delaware；品牌 1958、现法人 1995-10-18；DUNS 837605443；NAVAIR OSBP 小企业供应商）",
   "founded": "1958",
   "hq": "Newark, DE, USA",
   "size": "中型制造商（自有品牌，部分外购）",
-  "other": ""
+  "other": "",
+  "staff": "2–10 实际；营收 $2–5M（自报 EC21；第三方 $21–30M 不可信）（第 86 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "铜 / 光转换、MC、工业交换机（自有品牌）"

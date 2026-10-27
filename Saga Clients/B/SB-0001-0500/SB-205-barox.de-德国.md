@@ -94,6 +94,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 86 批（Deutschland / Schweiz · Handelsregister（Northdata 登记摘要 HRB 413457 Freiburg）+ 官网 Impressum / AGB（HRB 3457 AG Lörrach、CH-400.3.019.774-7、USt-ID）+ 官网 Geschichte + 2024-10 任命新闻稿 + theorg，2026-10-27 查；https://www.northdata.com/Barox%20Kommunikation%20GmbH,%20L%C3%B6rrach/Amtsgericht%20Freiburg%20HRB%20413457）：**
+
+- 法定名 / 登记号：Barox Kommunikation GmbH（Lörrach；母公司 barox Kommunikation AG，瑞士 Baden） · DE：Amtsgericht Freiburg HRB 413457（Impressum 旧号 HRB 3457 AG Lörrach）· USt-ID DE228975346 · 德国税号 1108809963；CH 母公司：Handelsregister CH-400.3.019.774-7 · MWST CHE-104.727.047 · 状态 **Aktiv（2025-10 25 周年新闻；2026-02 官网更新）** · 成立 GmbH 2003（Lörrach 子公司）；AG 1998-09-01（Baden，ABB 园区） · GmbH · Stammkapital €25,000 · 100% 子公司 of barox Kommunikation AG（瑞士）· 创始人 Banfi + Rohr 持股（geschäftsführender Gesellschafter）
+- 行业码 / 经营范围：视频 / 安防网络专用交换机、媒体转换器、IP 延长器的设计 + 销售（瑞士品牌，产品自研外包生产）；覆盖德语区；2014 增设 Stade-Hamburg 办事处
+- 注册地址：Weiler Strasse 7, D-79540 Lörrach；母公司 Im Grund 15, CH-5405 Baden-Dättwil
+- 规模档：中小（估 20–50 人，两国三址）
+- 账目：小型 GmbH 不披露营收；AG 瑞士不公开；德国年报次年 12 月前
+- 高管：Rudolf ROHR — Mitgründer / Geschäftsführer（AG CEO 2005 起；GmbH 共同 GF）/ geschäftsführender Gesellschafter = 老板 = 研究档 KP rohr.rudolf@barox.ch → **老板 = 联系人**
+- 高管：Angelo BANFI — Mitgründer / Geschäftsführer（AG + GmbH）
+- 高管：Jeneeben JESUJEEVAGAN — Leiter Technik（技术负责人，2024-10 任命）= 研究档 KP mail@barox.de → 技术选型人
+- 控制人 / 股东：Banfi + Rohr（创始合伙人，比例未公开）
+- **这意味着什么：**
+  - **老板 Rudolf Rohr 本人 + 技术负责人 Jeneeben 都在研究档 KP 里**：barox 是「自有品牌视频交换机」的瑞士品牌商（自研、外包生产）—— 正是 OEM 30% 线的教科书客户；Rohr 2009 年上过上海交大 EMBE，懂中国供应链、会直接比价 → 报价一步到位 + 阶梯；切入点：他们目录里的 PoE++ / 工业导轨 / 2.5G 上行款的第二货源（STI-288DGGPM-2BT、STI-480XGGM）
+  - 技术门槛：视频网络专用（组播 / IGMP / 环网 / 动态路由）→ 必须给 Marvell 管理型 + 固件可定制说明，先样机（付费）后谈量；CE / RoHS / REACH 文件齐
+  - 瑞士母公司结算：T/T 30/70，欧元或瑞郎；DAP Lörrach 走 Saga 百运网线（德国境内）
+  - 收件人：技术 Jeneeben 做评估、Rohr 拍板 → 一信两收
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -146,7 +163,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Barox Kommunikation GmbH（Lörrach；HRB 413457 Freiburg / Impressum HRB 3457 Lörrach；USt-ID DE228975346；100% 子公司 of barox Kommunikation AG，CH-400.3.019.774-7，Baden-Dättwil） |
 | 总部/地址 | 德国 |
+| 人数 | 估 20–50（两国三址）（第 86 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：视频/安防网络交换机（自有品牌）；MC / IP 延长器

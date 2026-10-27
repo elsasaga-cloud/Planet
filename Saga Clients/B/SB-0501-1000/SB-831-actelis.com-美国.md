@@ -112,6 +112,23 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 86 批（USA · SEC EDGAR（CIK 1141284：10-K FY2025 2026-03-18、8-K 业绩稿、10-Q 2026-Q2 2026-08-13）+ 2026-10-15 ThinkEquity 会议纪要，2026-10-27 查；https://www.sec.gov/Archives/edgar/data/1141284/000121390026030946/ea028228701ex99-1.htm）：**
+
+- 法定名 / 登记号：ACTELIS NETWORKS, INC.（NASDAQ / OTC: ASNS） · SEC CIK 1141284 · 上市代码 ASNS（2026 年收到 Nasdaq 退市通知；7 月报道已标 OTC:ASNS） · 状态 **Active · **持续经营存疑（going concern）**：管理层在 2026-Q1 / Q2 10-Q 中声明「substantial doubt」** · 成立 1998（Delaware 公司；总部 Fremont / Sunnyvale CA，研发在以色列） · 上市公众公司（Delaware）· 股权高度稀释：2026 年 ATM 增发 ~1,840 万股筹 $6.9M 净额 + $1.0M 回购
+- 行业码 / 经营范围：铜缆绑定 Ethernet（ML600 EAD）、加固混合交换机（ML684D 8 口 DIN）、GL800/GL900 千兆、MetaShield AI SaaS；客户：美国联邦 / 交通（FAA 现代化、BEAD）、军方（DoD APL + JITC 认证）
+- 注册地址：Fremont / Sunnyvale, California（美国）；34 名员工在以色列
+- 规模档：51 名员工 + 承包商（39 全职：销售 13 / 研发运营 20 / 行政 6；以色列 34、美国 15）
+- 账目：FY2025 营收 **$3.7M（2024 $7.8M，−53%）**、净亏 $8.3M（2024 −$4.4M）、经营亏损 $7.2M；累计亏损 $52M（2025-12-31）→ $56.2M（2026-06-30）；现金 $4.6M（2025 末）→ $5.7M（2026-06）；2026-H1 营收 $2.1M（+26%）、订单 +80%、毛利率 51%；10-K 每年 3 月中；10-Q 5 / 8 / 11 月
+- 高管：Tuvia BARLEV — Chairman & CEO（创始人之一）
+- 高管：Casey (P. C.) HURLEY — VP Sales – Strategic Accounts = 研究档 KP（2024-09「Maybe…」）→ 销售高管，非采购
+- 高管：Michal WINKLER — 研究档 KP 来信署名人（职务待核；以色列侧运营 / 采购概率高）
+- 控制人 / 股东：公众持股；机构 + 创始团队（10-K 第 12 项；无控股股东）
+- **这意味着什么：**
+  - **上市但「持续经营存疑」：营收腰斩到 $3.7M、年亏 $8.3M、靠 ATM 增发续命、Nasdaq 退市通知** → 对我们的意义：①付款只能 100% 预付（任何账期都不行）；②他们的 ML684D 等加固交换机是外采 ODM → 我们工业 STI 系列是「降本第二货源」正中其 2026 「控费 + 毛利率回到 51%」目标；③订单会很碎（$5–20k），MOQ 别卡
+  - 联系人 Casey Hurley 是卖货的 VP，不是买货的 —— 以色列侧（34 人在以色列，研发 / 运营 / 采购）才是选型地：下一封找 Michal Winkler 这条线，用「cost-down alternative for hardened DIN switch line, FCC/CE, 100% T/T」切入；他们的 DoD APL / JITC 卖点我们不碰也不承诺
+  - 复查：10-Q 2026-11 中旬看 Q3 现金；若 2027 一季度仍 going concern，不投入样机
+  - 公开信息来源全部是 SEC 文件 —— 信里绝不提「我们看了你们的财报 / 退市」
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -144,17 +161,19 @@ updated: 2026-10-27
 - **【用户表】S 重点；1 次实质回复；15 次跟进**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Casey Hurley（VP Sales - Strategic Accounts（邮件签名））pchurley@actelis.com 〔S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）〕
+- **KP**：Casey Hurley（VP Sales – Strategic Accounts（卖方高管，非采购）；Actelis FY2025 营收 $3.7M（−53%）净亏 $8.3M、累计亏损 $56.2M（2026-06）、**持续经营存疑 + Nasdaq 退市通知**；采购 / 运营在以色列（34 人）（第 86 批 官方登记核实 2026-10-27））pchurley@actelis.com 〔S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）〕
 - **KP**：Michal Winkler（来信署名人（职务未在邮件署名里出现））michalw@actelis.com 〔S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补）〕
+- **KP**：Tuvia Barlev（Chairman & CEO（创始人；SEC 10-K）（第 86 批 官方登记核实 2026-10-27）） 〔https://www.sec.gov/Archives/edgar/data/1141284/000121390026030946/ea028228701ex99-1.htm〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 公告核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Actelis Networks, Inc.（NASDAQ: ASNS） |
+| 法定名称 | ACTELIS NETWORKS, INC.（SEC CIK 1141284；ASNS；Delaware；Fremont / Sunnyvale CA + 以色列） |
 | 成立 | 1998 |
 | 总部/地址 | Fremont / Sunnyvale, California, USA |
+| 人数 | 51 含承包商（39 全职；以色列 34 / 美国 15）；FY2025 营收 $3.7M、净亏 $8.3M；2026-H1 营收 $2.1M（+26%）（第 86 批 官方登记核实 2026-10-27） |
 | 其他 | 产品：ML600 系列 EAD（铜缆绑定 Ethernet，1–16 对，最高 240 Mbps）、ML684D 8 口硬化 DIN 混合交换机（2 SFP + 6 FE，−40~+75 ℃，12–48 VDC）、ML630R L3、GL800/GL900 千兆混合方案（2023-05）；客户案例含印度 Beetel/大型运营商 |
 
 - **业务线**：混合光纤-铜缆以太网接入设备（EAD）；硬化 L2 光纤交换机与汇聚；网管与网络安全加固
@@ -267,8 +286,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Casey Hurley | VP Sales - Strategic Accounts（邮件签名） | pchurley@actelis.com | 调研核实（公开页） | S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补） |
+| Casey Hurley | VP Sales – Strategic Accounts（卖方高管，非采购）；Actelis FY2025 营收 $3.7M（−53%）净亏 $8.3M、累计亏损 $56.2M（2026-06）、**持续经营存疑 + Nasdaq 退市通知**；采购 / 运营在以色列（34 人）（第 86 批 官方登记核实 2026-10-27） | pchurley@actelis.com | 调研核实（公开页） | S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补） |
 | Michal Winkler | 来信署名人（职务未在邮件署名里出现） | michalw@actelis.com | 调研核实（公开页） | S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补） |
+| Tuvia Barlev | Chairman & CEO（创始人；SEC 10-K）（第 86 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.sec.gov/Archives/edgar/data/1141284/000121390026030946/ea028228701ex99-1.htm |
 
 - **通道建议**：企业邮箱可直发
 

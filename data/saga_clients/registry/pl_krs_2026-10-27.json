@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 5
+  "count": 6
  },
  "rows": {
   "SA-023": {
@@ -181,6 +181,39 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SA-034"
+  },
+  "SB-038": {
+   "batch": 86,
+   "name": "„TRICOMP” SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+   "iso": "PL",
+   "source": "Polska · KRS（krs-pobierz / aleo 镜像）",
+   "url": "https://aleo.com/int/company/tricomp-spolka-z-ograniczona-odpowiedzialnoscia",
+   "number": "KRS 0000121281 · NIP 5222477449 · REGON 016022377",
+   "status": "Aktywna（KRS 最近变更 2025-04-14）",
+   "incorporated": "2002-07-04（KRS 登记 = 开业）",
+   "company_type": "Sp. z o.o. · kapitał zakładowy 50,000 PLN（100 股）· 代表方式：一名董事会成员 + 代理人联合签署",
+   "sic": [
+    "IT / 电信咨询、设计、监理、布线与电信方案实施、项目管理（研究档）"
+   ],
+   "address": "Al. Prymasa Tysiąclecia 78A, 01-424 Warszawa",
+   "accounts": "镜像未显示财务（需 rejestr.io 付费 / KRS 文件）；D&B 1–24 人",
+   "accounts_due": "波兰年报 7 月（KRS 文件库）",
+   "size_band": "1–24 人（D&B）；LinkedIn 自报 51–200 不可信",
+   "officers": [
+    "James Francis OFWONA — Prezes Zarządu（59 岁）+ **98 / 100 股（49,000 PLN）** = 研究档 KP → **老板 = 联系人**",
+    "Grażyna PIEKUS — Prokurent（prokura samoistna，66 岁）= 联签人"
+   ],
+   "psc": "James Francis Ofwona 98%（余 2 股待核）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（Ofwona 持股 98%，23 年老公司，5 万 PLN 资本）**，WhatsApp 活着但「明确无需求」（2023-12 → 2025-02）→ 不推销；只在 2027-Q1 群发节奏里带一句「有项目再找我们」；若来项目：集成 25%、T/T 50/50",
+    "代表方式要求董事 + 代理人联签 → 合同 / PI 签署要两人（Ofwona + Piekus），别催单签",
+    "下一轮不花预算；需要时 rejestr.io/krs/121281 看 2024 营收"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-038"
   }
  }
 }

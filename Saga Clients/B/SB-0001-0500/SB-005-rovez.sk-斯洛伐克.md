@@ -88,6 +88,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 86 批（Slovensko · FinStat（ORSR 登记 + 公开财报 2025；konateľ 页未取），2026-10-27 查；https://finstat.sk/36225801）：**
+
+- 法定名 / 登记号：ROVEZ, s.r.o. · IČO 36225801 · DIČ 2020163277 · IČ DPH SK2020163277（1998-02-01 起增值税纳税人）· ORSR Okresný súd Trnava, oddiel Sro, vložka 10793/T · 状态 **Aktívna（2026 员工类别已更新）** · 成立 1997-12-22 · s.r.o. · základné imanie €6,639（旧 200,000 SKK 最低资本）· 私人本国所有
+- 行业码 / 经营范围：SK NACE 8009 安保服务 / 4650 ICT 设备批发：Avigilon 摄像系统（30 年）销售 + 安装 + 维护、门禁、EZS 报警、电气安装 ≤1000 V、测控技术、电信设备安装（2002 起营业范围）
+- 注册地址：Ul. 9. mája 49, 917 00 Trnava（2007 起）
+- 规模档：3–4 名员工（2026）
+- 账目：2025 营收 €646,579（+28%）/ 总收入 €804,775 / 净利 €192,182（+69%）/ 资产 €632,851 / 权益 €586,271 / 负债率 7.36% / 毛利率 53.35%；斯洛伐克财报次年 3–6 月公示于 RÚZ
+- 高管：Marián ONDREJÍČEK — 研究档 KP rovez@rovez.sk（konateľ / 股东身份大概率，FinStat konateľ 页下一轮 1 次 fetch 确认）
+- 控制人 / 股东：待取（ORSR spoločníci）
+- **这意味着什么：**
+  - **3–4 人、年营收 €65 万、净利率 30%、负债率 7%、毛利 53% 的「金牌小集成商」**（Avigilon 高端摄像项目）：现金极好、决策一人 → 工业 / 商用 PoE 交换机配 Avigilon 项目（集成 25%），卖点 Marvell 管理型 + 3 年保 + 小批量；T/T 30/70 甚至可信用证不必 —— 按 50/50
+  - 斯洛伐克在欧元区、CE / RoHS 即可；DAP Trnava 走 Saga 百运网线（捷克 / 奥地利枢纽）
+  - 2025 营收 +28% → 项目在增长；窗口 2026-11 / 2027-02（避开 12-24–01-06）
+  - 下一轮：finstat.sk/36225801/obchodny_register 看 konateľ + spoločníci，确认 Ondrejíček = 老板
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -135,15 +150,16 @@ updated: 2026-10-27
 - **【注册名录】法人、地址、IČO**
   > ROVEZ, s.r.o. - Predaj, montáž a servis a kamerovej techniky a bezpečnostných systémov … Sídlo: Ul. 9. mája 49, 917 00 Trnava IČO: 36225801 … IČ DPH: SK2020163277
   > 来源：https://www.azet.sk/firma/32427/rovez-s-r-o/（抓取 2026-10-21）
-- **KP**：Marián Ondrejíček（Key Principal（D&B 口径））rovez@rovez.sk +421 905 617 471〔https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/〕
+- **KP**：Marián Ondrejíček（联系人（konateľ / 股东身份待 FinStat 登记页确认）；ROVEZ, s.r.o. 1997-12-22、3–4 人、2025 营收 €646,579（+28%）净利 €192,182（30%）、负债率 7%（第 86 批 官方登记核实 2026-10-27））rovez@rovez.sk +421 905 617 471〔https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/〕
 - **调研后定级**：B（原自动 A）——有样品单但 3–4 人微型集成商、样品后 13 次推送无回应，体量不支持长期投入；B 慢跟（半年一次回访即可）。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 注册核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ROVEZ, s.r.o.（IČO 36225801；IČ DPH SK2020163277） |
+| 法定名称 | ROVEZ, s.r.o.（IČO 36225801 · IČ DPH SK2020163277；ORSR Trnava Sro 10793/T；1997-12-22；základné imanie €6,639） |
 | 总部/地址 | Ul. 9. mája 49, 917 01 Trnava, Slovensko（+421 33 5516 655；+421 905 617 471 / 905 441 595；rovez@rovez.sk） |
+| 人数 | 3–4（2026）；2025 营收 €646,579 / 净利 €192,182 / 权益 €586,271（第 86 批 官方登记核实 2026-10-27） |
 | 其他 | Trnava 的 **Avigilon** 摄像系统供应商（30 年经验）：摄像/录像/门禁/EZS 报警 销售、安装、维护；第二站 kamerovesystemy.com |
 
 - **业务线**：Avigilon 视频监控系统（销售+安装+服务）；报警 EZS、视频对讲
@@ -239,7 +255,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marián Ondrejíček | Key Principal（D&B 口径） | rovez@rovez.sk / +421 905 617 471 | 调研核实（公开页） | https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/ |
+| Marián Ondrejíček | 联系人（konateľ / 股东身份待 FinStat 登记页确认）；ROVEZ, s.r.o. 1997-12-22、3–4 人、2025 营收 €646,579（+28%）净利 €192,182（30%）、负债率 7%（第 86 批 官方登记核实 2026-10-27） | rovez@rovez.sk / +421 905 617 471 | 调研核实（公开页） | https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/ |
 | Mr.Marian  A | — | rovez@rovez.sk | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

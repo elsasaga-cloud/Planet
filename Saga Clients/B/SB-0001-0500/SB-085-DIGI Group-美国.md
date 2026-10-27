@@ -129,6 +129,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 86 批（USA · California Secretary of State 登记（bizprofile 镜像，2025-07 抽取）+ D&B + BBB + 官网 About + 第三方规模估计，2026-10-27 查；https://www.bizprofile.net/ca/torrance/thor-fiber-inc）：**
+
+- 法定名 / 登记号：THOR FIBER, INC.（dba Thor Broadcast） · California SOS 文件号 4095985（General Corporation，2017-12-26 登记；SOS / FTB / 代理人 均 Good Standing） · 状态 **Active（2025-07）** · 成立 2017-12-26 当前法人；业务起始 2011-09-14（BBB）/ 2007–2009（第三方） · General Corporation（CA）· 一人公司：Slawomir Sochur 同时任 CEO / CFO / Secretary / Director
+- 行业码 / 经营范围：SIC 3663 / NAICS 334 广播与通信设备「工程 + 制造」：CATV 射频调制、IPTV 编码、光纤传输（L-band、头端、卫星电视）、以太网延长；型号前缀 F-/H- 的贴牌目录；Markertek 等分销有售
+- 注册地址：2421 W 205th St Ste D204, Torrance, CA 90501（运营）；1810 W 236th St, Torrance（登记 / 住宅）
+- 规模档：1–10 人（实际）；LinkedIn 自报 51–200 不可信
+- 账目：第三方估值分歧大：$411k（RocketReach）/ $1.0M（Buzzfile）/ $3.5–4M（Prospeo / Datanyze）—— 只记区间；CA 公司 Statement of Information 每年；FTB 3-15
+- 高管：Slawomir (Stan) SOCHUR — CEO / CFO / Secretary / Director（SOS 登记四职一人）= 研究档 KP Stan Sochur → **老板 = 联系人**
+- 控制人 / 股东：Slawomir Sochur 100%（一人公司）
+- **这意味着什么：**
+  - **老板 = 联系人（Stan = Slawomir Sochur，SOS 四职一人），2025-06「We might be interested」来自老板本人**：Thor 的整本目录都是贴牌（F-/H- 前缀）→ 典型 OEM 品牌商，标 OEM 30%；他要的是「Thor 标 + 美式包装」的 PoE / 光口交换机配他的光纤头端 → 报 STC-228GP / STI 工业款 + 1 箱起贴标
+  - 一人公司、第三方营收 $0.4–4M 分歧 → 按小户：T/T 预付；FOB 深圳他们走海运拼箱（Torrance 就在长滩港边）
+  - 2017-12 新注册法人（旧实体可能已注销）→ 信用历史短，付款不做账期；FCC Part 15 由他们以品牌方申报，我们给测试报告
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -161,16 +175,17 @@ updated: 2026-10-27
 - **【用户表】S 重点；2 次实质回复、WhatsApp、样品记录；联系人 Stan（stan@thorfiber.com）**
   > （用户表字段：实质回复 2 / WA / 样品 / 跟进 22）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Stan Sochur（来信署名人（职务未在邮件署名里出现））stan@thorfiber.com 〔S/A 邮箱来信 2025-06-26 → 11-28 来信 3 封（显示名 Thor Fiber）（第 72 批从邮件表头补）〕
+- **KP**：Stan (Slawomir) Sochur（CEO / CFO / Secretary / Director（California SOS 四职一人 = Slawomir Sochur）= 老板 = 联系人；Thor Fiber, Inc. CA 4095985（2017-12-26；业务 2011 / 2007 起）（第 86 批 官方登记核实 2026-10-27））stan@thorfiber.com 〔S/A 邮箱来信 2025-06-26 → 11-28 来信 3 封（显示名 Thor Fiber）（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网目录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Thor Fiber（Thor Broadcast） |
+| 法定名称 | THOR FIBER, INC.（California SOS 4095985，2017-12-26，Good Standing；dba Thor Broadcast；Torrance CA） |
 | 成立 | 2006（LinkedIn 记 2009） |
 | 总部/地址 | 2421 W 205th St, Torrance, CA 90501, USA |
+| 人数 | 1–10 实际（LinkedIn 51–200 不可信）；营收估 $0.4–4M 区间（第 86 批 官方登记核实 2026-10-27） |
 | 其他 | 由广播工程师创立，主打光纤传输（L-band、头端、卫星电视）与以太网延长；产品页风格为贴牌目录（型号前缀 F-/H-），Markertek 等分销有售 |
 
 - **业务线**：广播/头端光纤传输设备；以太网光纤 / 二线 延长器（含 PoE/PoE+）；光纤机箱与配件（14 槽机箱）
@@ -286,7 +301,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Stan Sochur | 来信署名人（职务未在邮件署名里出现） | stan@thorfiber.com | 调研核实（公开页） | S/A 邮箱来信 2025-06-26 → 11-28 来信 3 封（显示名 Thor Fiber）（第 72 批从邮件表头补） |
+| Stan (Slawomir) Sochur | CEO / CFO / Secretary / Director（California SOS 四职一人 = Slawomir Sochur）= 老板 = 联系人；Thor Fiber, Inc. CA 4095985（2017-12-26；业务 2011 / 2007 起）（第 86 批 官方登记核实 2026-10-27） | stan@thorfiber.com | 调研核实（公开页） | S/A 邮箱来信 2025-06-26 → 11-28 来信 3 封（显示名 Thor Fiber）（第 72 批从邮件表头补） |
+| Stan Sochur | — | stan@thorfiber.com / digicorp1@gmail.com / +3109273041 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

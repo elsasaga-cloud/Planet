@@ -93,6 +93,23 @@ updated: 2026-10-27
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 86 批（India · MCA 登记（Zauba Corp 镜像，2024-07），2026-10-27 查；https://www.zaubacorp.com/AARYA-ITES-PRIVATE-LIMITED-U72900GJ2008PTC055798）：**
+
+- 法定名 / 登记号：AARYA ITES PRIVATE LIMITED · CIN U72900GJ2008PTC055798 · RoC Ahmedabad · 注册号 55798 · 状态 **Active（最近 AGM 2023-12-30；资产负债表最后申报至 2023-03-31 → FY24 / FY25 年报在 2024-07 镜像时未见）** · 成立 2008-12-31 · Private company limited by shares · 非政府 · 法定资本 ₹25 lakh / 实缴 ₹24.64 lakh（≈ $29k）
+- 行业码 / 经营范围：NIC 7290 其他计算机相关活动：ISO 9001 / 20000-1 / 27001 的 IT 基础设施 + 网络集成商（研究档）；Ahmedabad
+- 注册地址：209, Akshar Stadia, B/H Patel Avenue, Bodakdev, Ahmedabad 380054, Gujarat
+- 规模档：11–50（LinkedIn）
+- 账目：MCA 财务需付费；第三方估营收 $5.1M / 39 人（RocketReach，口径偏高）；印度 AGM 9-30 / 年报 10–11 月
+- 高管：MANAN Nakulbhai BHAVSAR — Director（DIN 02469366，2008-12-31 创立至今）= 研究档 KP manan@a-ites.com → **老板 = 联系人**
+- 高管：KETANA Manan BHAVSAR — Director（DIN 02384974，2008-12-31 至今）= 配偶（夫妻公司）
+- 高管：研究档 KP Chirag Shah（chirag.s@）— 非董事（注意：曾任董事 Chirag Pandit Satishkumar 2009–2013 是另一人）
+- 高管：历任（2009–2016 陆续退出）：Hirenkumar Pandya、Bhavesh Pandya、Chirag Pandit、Chinmay Agrawal → 创始合伙人全部退出，只剩 Bhavsar 夫妇
+- 控制人 / 股东：Bhavsar 夫妇（推定 100%）
+- **这意味着什么：**
+  - **老板 = 联系人（Manan Bhavsar，夫妻公司，17 年）**：印度集成商买交换机是跟项目走 → 集成 25%；他们有 ISO 27001 → 偏好管理型 + SNMP / 802.1X（Marvell 线）；切入点 CENTEC / 10G 上行做机房项目的替代方案
+  - MCA 年报在镜像里停在 FY23（可能已补报，但不确定）+ 实缴 ₹24.6 lakh → 100% 预付；BIS 由他们以进口商办；Diwali（2026-11-08 前后）后再发
+  - 所有合伙人都退出 = Manan 一人说了算，谈判直接
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,8 +149,8 @@ updated: 2026-10-27
 - **【用户表】需求与回复**
   > Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Manan Bhavsar（CEO）manan@a-ites.com +91 98250 95206（WA 已加）〔用户 Clients 表〕
-- **KP**：Chirag Shah（Manager）chirag.s@a-ites.com 〔用户 Clients 表〕
+- **KP**：Manan Bhavsar（Director（DIN 02469366，2008-12-31 创立至今）= 老板 = 联系人；夫妻公司（Ketana Manan Bhavsar 亦为董事）；创始合伙人 2009–2016 全部退出；实缴 ₹24.64 lakh；MCA 年报镜像停在 FY23（第 86 批 官方登记核实 2026-10-27））manan@a-ites.com +91 98250 95206（WA 已加）〔用户 Clients 表〕
+- **KP**：Chirag Shah（非董事（注意：历任董事 Chirag Pandit Satishkumar 2009–2013 为另一人）（第 86 批 官方登记核实 2026-10-27））chirag.s@a-ites.com 〔用户 Clients 表〕
 - **KP**：Manish Meghwal（Manager）manish.m@a-ites.com 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。
 - 备注：WA 一次性报 STI-110GE 类 MC；有 PoE 项目再跟。
@@ -142,7 +159,7 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | AARYA ITES PRIVATE LIMITED（CIN U72900GJ2008PTC055798） |
+| 法定名称 | AARYA ITES PRIVATE LIMITED（CIN U72900GJ2008PTC055798；2008-12-31；Ahmedabad；实缴 ₹24.64 lakh；董事 Manan + Ketana Bhavsar）（第 86 批 官方登记核实 2026-10-27） |
 | 成立 | 2008-12-31 |
 | 总部/地址 | #209, Akshar Stadia, Opp. Symphony Ltd, Bodakdev, Ahmedabad-380054, Gujarat；+91 79 4899 5206 / +91 98250 95206；info@a-ites.com |
 | 其他 | ISO 9001:2015 / 20000-1:2018 / 27001:2022；IndiaMART 列为高速公路交通管理系统与 ECB 制造商；官网文字出现 PLANET、Axis、Ubiquiti |
@@ -235,8 +252,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Manan Bhavsar | CEO | manan@a-ites.com / +91 98250 95206（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
-| Chirag Shah | Manager | chirag.s@a-ites.com | 调研核实（公开页） | 用户 Clients 表 |
+| Manan Bhavsar | Director（DIN 02469366，2008-12-31 创立至今）= 老板 = 联系人；夫妻公司（Ketana Manan Bhavsar 亦为董事）；创始合伙人 2009–2016 全部退出；实缴 ₹24.64 lakh；MCA 年报镜像停在 FY23（第 86 批 官方登记核实 2026-10-27） | manan@a-ites.com / +91 98250 95206（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Chirag Shah | 非董事（注意：历任董事 Chirag Pandit Satishkumar 2009–2013 为另一人）（第 86 批 官方登记核实 2026-10-27） | chirag.s@a-ites.com | 调研核实（公开页） | 用户 Clients 表 |
 | Manish Meghwal | Manager | manish.m@a-ites.com | 调研核实（公开页） | 用户 Clients 表 |
 | Chirag Shah   Manager | — | chirag.s@a-ites.com / manish.m@a-ites.com / +919825095206 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 | Manan | — | chirag.s@a-ites.com / manish.m@a-ites.com / +919825095206 | 用户表原值·WhatsApp 已加 | Clients/ 表 |

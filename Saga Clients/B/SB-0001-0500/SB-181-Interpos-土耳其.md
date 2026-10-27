@@ -78,6 +78,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 86 批（Türkiye · ZoomInfo 公司档（员工 / 营收档 / President 1995 至今）+ 研究档（成立日 1995-04-10；LinkedIn），2026-10-27 查；https://www.zoominfo.com/p/Hulusi-Ku%CC%88ltu%CC%88r/1540298018）：**
+
+- 法定名 / 登记号：İNTERPOS BİLGİ TEKNOLOJİLERİ ELEKTRONİK SAN. VE TİC. A.Ş. · Ticaret Sicil / Vergi No 待补（A.Ş. 高管仅 Ticaret Sicil Gazetesi） · 状态 **Faal（展会名片 + 官网）** · 成立 1995-04-10 · A.Ş.（股份公司）· 私人持有
+- 行业码 / 经营范围：POS / 电子设备制造 + IT 技术（Manufacturing 分类）；Ataşehir İstanbul
+- 注册地址：İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91, 34752 Ataşehir / İstanbul
+- 规模档：10–19 人（ZoomInfo）
+- 账目：ZoomInfo 档 $1–5M；TR 年报 4 月（A.Ş. 大会）
+- 高管：Hulusi KÜLTÜR — Yönetim Kurulu Başkanı / President（1995 创立至今，30 年）= 研究档 KP → **老板 = 联系人**（展会名片）
+- 高管：Levent Gülerman / Özgür Kavrak — 同事（ZoomInfo）
+- 控制人 / 股东：Hulusi Kültür（创始人；比例待核）
+- **这意味着什么：**
+  - **老板 = 联系人（董事长 Hulusi Kültür，30 年 A.Ş.，10–19 人，$1–5M）**，展会名片 + WhatsApp 已加、邮件 0 封：POS 设备制造商买交换机是配自家 POS / 零售网络方案 → OEM 30%（İnterpos 标）或集成 25%；WhatsApp 线由 Simon 直接跟（规则：WhatsApp 客户不走邮件编码）
+  - A.Ş. 高管公开需 Ticaret Sicil Gazetesi（付费）→ 不补；土耳其 CE + TSE 由进口方办
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,16 +124,17 @@ updated: 2026-10-27
 - **【用户表】ISAF：给名片未交谈；WhatsApp 已加**
   > 没做交谈，给了名片 / 90 53226 48990 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hulusi Kültür（Yönetim Kurulu Başkanı / President（LinkedIn 公开））hkultur@inter-pos.com（LinkedIn 公开 + 用户表） +90 532 264 89 90（用户表，WhatsApp 已加）〔https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-〕
+- **KP**：Hulusi Kültür（Yönetim Kurulu Başkanı / President（1995 创立至今 30 年）= 老板 = 联系人；A.Ş. 10–19 人、$1–5M（ZoomInfo）（第 86 批 官方登记核实 2026-10-27））hkultur@inter-pos.com（LinkedIn 公开 + 用户表） +90 532 264 89 90（用户表，WhatsApp 已加）〔https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş. |
+| 法定名称 | İNTERPOS BİLGİ TEKNOLOJİLERİ ELEKTRONİK SAN. VE TİC. A.Ş.（1995-04-10；Ataşehir İstanbul） |
 | 成立 | 1995-04-10 |
 | 总部/地址 | İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91, 34752 Ataşehir / İstanbul（+90 216 469 64 00；info@inter-pos.com） |
+| 人数 | 10–19（ZoomInfo）（第 86 批 官方登记核实 2026-10-27） |
 | 其他 | POS/收银机/EFT-POS/电子秤/条码；Tadiran 电池代理；有香港关联公司 Inter (Hongkong) Ltd. |
 
 - **业务线**：零售自动化设备（POS、收银机、EFT-POS、秤、打印机、条码）；Tadiran 锂电池分销
@@ -171,7 +186,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hulusi Kültür | Yönetim Kurulu Başkanı / President（LinkedIn 公开） | hkultur@inter-pos.com（LinkedIn 公开 + 用户表） / +90 532 264 89 90（用户表，WhatsApp 已加） | 调研核实（公开页） | https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F- |
+| Hulusi Kültür | Yönetim Kurulu Başkanı / President（1995 创立至今 30 年）= 老板 = 联系人；A.Ş. 10–19 人、$1–5M（ZoomInfo）（第 86 批 官方登记核实 2026-10-27） | hkultur@inter-pos.com（LinkedIn 公开 + 用户表） / +90 532 264 89 90（用户表，WhatsApp 已加） | 调研核实（公开页） | https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F- |
 | Hulusi Kultur | CEO | hkultur@inter-pos.com / +902164696400114 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
