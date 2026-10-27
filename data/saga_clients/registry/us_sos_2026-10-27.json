@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 15
+  "count": 19
  },
  "rows": {
   "SA-002": {
@@ -528,6 +528,140 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SA-025"
+  },
+  "SB-020": {
+   "batch": 86,
+   "name": "52 NETWORKS, INC.",
+   "iso": "US",
+   "source": "USA · SAM.gov 登记（govtribe / g2xchange / sweetspot 镜像）+ GSA eLibrary 合同页 + D&B",
+   "url": "https://govtribe.com/vendors/52-networks-inc-dot-907x4",
+   "number": "UEI FV4KBSNE5S75 · CAGE 907X4 · Virginia 公司（2018-03-12 成立）· GSA MAS 合同 47QTCA22D00B3（选项期至 2027-07-25）",
+   "status": "Active（SAM.gov 注册有效至 2027-06-15）",
+   "incorporated": "2018-03-12（SAM 法定成立日 2018-01-01 / 2018-03-12）",
+   "company_type": "Corporation（VA）· 少数族裔（印度裔）所有 · SBA 自证小型弱势企业",
+   "sic": [
+    "NAICS 334111（主）/ 423430 计算机外设批发 / 541519；**只做联邦政府采购的 GSA 主承包商**：IT 硬件、网络设备、办公家具（网店 52networks.com：批量网线、媒体转换器、光纤跳线；授权转售 C2G / Tripp Lite / Transition / StarTech / Perle）"
+   ],
+   "address": "5142 Meeting Pl, Woodbridge, VA 22193（SAM）；历史地址 4380 Whitmer Dr #14 / 957 Highams Ct（住宅）",
+   "accounts": "SAM 自报营收 $0–1M",
+   "accounts_due": "GSA 合同选项期 2027-07；SAM 年审 6 月",
+   "size_band": "1–10 人（家庭式政府转售商）",
+   "officers": [
+    "Uzair（GSA 登记联系人 uzair@52networks.com）= 研究档 KP → **老板 = 联系人**（印度裔业主；全名待核）",
+    "James Anderson — D&B Key Principal（疑登记代理 / 旧档）",
+    "John Davis — 单据联系人（研究档）"
+   ],
+   "psc": "Uzair（SAM 自证少数族裔所有）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已付样机 2 台 STI-288GP（2025-07）的联邦 GSA 转售商，老板 = 联系人 Uzair**：他买样机是为了上 GSA 目录投标 → 15 个月没动静大概率是「TAA 合规」卡住（GSA MAS 要求 TAA 原产地，中国产不合规）→ 信里别提 TAA，只问样机测试结果 + 给「非 GSA 商业渠道」的整箱价；复购要靠他的商业客户",
+    "微型（1–10 人，营收 <$1M，住宅地址起家）→ 100% 预付，MOQ 1 箱，DAP 弗吉尼亚走 Saga 百运网线",
+    "SAM 年审 6 月 / GSA 选项期 2027-07 → 2027-05 前后他会整理目录，是第二窗口"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-020"
+  },
+  "SB-085": {
+   "batch": 86,
+   "name": "THOR FIBER, INC.（dba Thor Broadcast）",
+   "iso": "US",
+   "source": "USA · California Secretary of State 登记（bizprofile 镜像，2025-07 抽取）+ D&B + BBB + 官网 About + 第三方规模估计",
+   "url": "https://www.bizprofile.net/ca/torrance/thor-fiber-inc",
+   "number": "California SOS 文件号 4095985（General Corporation，2017-12-26 登记；SOS / FTB / 代理人 均 Good Standing）",
+   "status": "Active（2025-07）",
+   "incorporated": "2017-12-26 当前法人；业务起始 2011-09-14（BBB）/ 2007–2009（第三方）",
+   "company_type": "General Corporation（CA）· 一人公司：Slawomir Sochur 同时任 CEO / CFO / Secretary / Director",
+   "sic": [
+    "SIC 3663 / NAICS 334 广播与通信设备「工程 + 制造」：CATV 射频调制、IPTV 编码、光纤传输（L-band、头端、卫星电视）、以太网延长；型号前缀 F-/H- 的贴牌目录；Markertek 等分销有售"
+   ],
+   "address": "2421 W 205th St Ste D204, Torrance, CA 90501（运营）；1810 W 236th St, Torrance（登记 / 住宅）",
+   "accounts": "第三方估值分歧大：$411k（RocketReach）/ $1.0M（Buzzfile）/ $3.5–4M（Prospeo / Datanyze）—— 只记区间",
+   "accounts_due": "CA 公司 Statement of Information 每年；FTB 3-15",
+   "size_band": "1–10 人（实际）；LinkedIn 自报 51–200 不可信",
+   "officers": [
+    "Slawomir (Stan) SOCHUR — CEO / CFO / Secretary / Director（SOS 登记四职一人）= 研究档 KP Stan Sochur → **老板 = 联系人**"
+   ],
+   "psc": "Slawomir Sochur 100%（一人公司）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（Stan = Slawomir Sochur，SOS 四职一人），2025-06「We might be interested」来自老板本人**：Thor 的整本目录都是贴牌（F-/H- 前缀）→ 典型 OEM 品牌商，标 OEM 30%；他要的是「Thor 标 + 美式包装」的 PoE / 光口交换机配他的光纤头端 → 报 STC-228GP / STI 工业款 + 1 箱起贴标",
+    "一人公司、第三方营收 $0.4–4M 分歧 → 按小户：T/T 预付；FOB 深圳他们走海运拼箱（Torrance 就在长滩港边）",
+    "2017-12 新注册法人（旧实体可能已注销）→ 信用历史短，付款不做账期；FCC Part 15 由他们以品牌方申报，我们给测试报告"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-085"
+  },
+  "SB-826": {
+   "batch": 86,
+   "name": "VERSITRON, INC.",
+   "iso": "US",
+   "source": "USA · NAVAIR OSBP 供应商页（官方）+ cage.report（DUNS 837605443 现任负责人）+ Bloomberg（法人成立日）+ EIN Presswire 2024–2025 新闻稿（总裁署名）+ 第三方规模估计",
+   "url": "https://cage.report/DUNS/837605443",
+   "number": "DUNS 837605443（CAGE 在册）；Delaware 公司（Bloomberg 法人成立 1995-10-18；品牌 1958 起）",
+   "status": "Active（2025-07 仍发新闻稿；NAVAIR 小企业供应商名录在册）",
+   "incorporated": "1958 创立（品牌）；现法人 1995-10-18（Bloomberg）",
+   "company_type": "Corporation（DE）· 私人持有",
+   "sic": [
+    "SIC 3663 / NAICS 334 铜-光纤连接产品「设计制造」（实为贴牌：PoE 管理型 / 非管理 / 工业交换机、SFP、媒体转换器、光纤视频）；政府 / 军方（NAVAIR OSBP）/ 安防渠道；EC21 上自列「51–100 人、营收 $2–5M」"
+   ],
+   "address": "83 Albe Drive Suite C, Newark, DE 19702",
+   "accounts": "第三方分歧极大：<$1M（LeadIQ）/ <$5M（ZoomInfo）/ $2–5M（自报 EC21）/ $21–30M（RocketReach / Apollo，不可信）→ 记 $2–5M",
+   "accounts_due": "DE 年度 franchise tax 3-01",
+   "size_band": "2–10 人实际（RocketReach 2 / LeadIQ 2–10）；自报 11–50 / 51–100 / Bloomberg 75 不可信",
+   "officers": [
+    "Richard W. (Rich) TULL — President（cage.report 现任负责人；2024–2025 新闻稿署名 R. W. Tull）= 老板 / 拍板人",
+    "Greg MASSOTT — Technical Sales Product Specialist（2008 起即此职；NAVAIR 名录联系人）= 研究档 KP → **联系人不是老板，是 17 年老产品专员 / 采购接口**"
+   ],
+   "psc": "Richard W. Tull（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**三年 21 来 29 去全是 Greg，但 Greg 只是产品专员，拍板人是总裁 Rich Tull**：零成交的原因大概率就在这 —— Greg 收资料做比价，不下单；下一封抄 / 直发 President R. W. Tull，用「Versitron 2024-08 发布的 10G SFP 管理型系列 / 2025-07 PoE 管理型系列 的第二货源 + 成本」切入（新闻稿公开，不涉及他们的内部）",
+    "整本目录是贴牌（PoE 管理型、工业、SFP）→ OEM 30% 线；但要配美式包装 + 他们的 UL 诉求做不了 → 只报 FCC / CE 常规款",
+    "实际 2–10 人、营收 $2–5M、NAVAIR 军方小企业供应商 → 政府单需 TAA（中国产不合规）—— 商业渠道货可做；付款 T/T 30/70，DAP 特拉华走 Saga 百运网线"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-826"
+  },
+  "SB-831": {
+   "batch": 86,
+   "name": "ACTELIS NETWORKS, INC.（NASDAQ / OTC: ASNS）",
+   "iso": "US",
+   "source": "USA · SEC EDGAR（CIK 1141284：10-K FY2025 2026-03-18、8-K 业绩稿、10-Q 2026-Q2 2026-08-13）+ 2026-10-15 ThinkEquity 会议纪要",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141284/000121390026030946/ea028228701ex99-1.htm",
+   "number": "SEC CIK 1141284 · 上市代码 ASNS（2026 年收到 Nasdaq 退市通知；7 月报道已标 OTC:ASNS）",
+   "status": "Active · **持续经营存疑（going concern）**：管理层在 2026-Q1 / Q2 10-Q 中声明「substantial doubt」",
+   "incorporated": "1998（Delaware 公司；总部 Fremont / Sunnyvale CA，研发在以色列）",
+   "company_type": "上市公众公司（Delaware）· 股权高度稀释：2026 年 ATM 增发 ~1,840 万股筹 $6.9M 净额 + $1.0M 回购",
+   "sic": [
+    "铜缆绑定 Ethernet（ML600 EAD）、加固混合交换机（ML684D 8 口 DIN）、GL800/GL900 千兆、MetaShield AI SaaS；客户：美国联邦 / 交通（FAA 现代化、BEAD）、军方（DoD APL + JITC 认证）"
+   ],
+   "address": "Fremont / Sunnyvale, California（美国）；34 名员工在以色列",
+   "accounts": "FY2025 营收 **$3.7M（2024 $7.8M，−53%）**、净亏 $8.3M（2024 −$4.4M）、经营亏损 $7.2M；累计亏损 $52M（2025-12-31）→ $56.2M（2026-06-30）；现金 $4.6M（2025 末）→ $5.7M（2026-06）；2026-H1 营收 $2.1M（+26%）、订单 +80%、毛利率 51%",
+   "accounts_due": "10-K 每年 3 月中；10-Q 5 / 8 / 11 月",
+   "size_band": "51 名员工 + 承包商（39 全职：销售 13 / 研发运营 20 / 行政 6；以色列 34、美国 15）",
+   "officers": [
+    "Tuvia BARLEV — Chairman & CEO（创始人之一）",
+    "Casey (P. C.) HURLEY — VP Sales – Strategic Accounts = 研究档 KP（2024-09「Maybe…」）→ 销售高管，非采购",
+    "Michal WINKLER — 研究档 KP 来信署名人（职务待核；以色列侧运营 / 采购概率高）"
+   ],
+   "psc": "公众持股；机构 + 创始团队（10-K 第 12 项；无控股股东）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上市但「持续经营存疑」：营收腰斩到 $3.7M、年亏 $8.3M、靠 ATM 增发续命、Nasdaq 退市通知** → 对我们的意义：①付款只能 100% 预付（任何账期都不行）；②他们的 ML684D 等加固交换机是外采 ODM → 我们工业 STI 系列是「降本第二货源」正中其 2026 「控费 + 毛利率回到 51%」目标；③订单会很碎（$5–20k），MOQ 别卡",
+    "联系人 Casey Hurley 是卖货的 VP，不是买货的 —— 以色列侧（34 人在以色列，研发 / 运营 / 采购）才是选型地：下一封找 Michal Winkler 这条线，用「cost-down alternative for hardened DIN switch line, FCC/CE, 100% T/T」切入；他们的 DoD APL / JITC 卖点我们不碰也不承诺",
+    "复查：10-Q 2026-11 中旬看 Q3 现金；若 2027 一季度仍 going concern，不投入样机",
+    "公开信息来源全部是 SEC 文件 —— 信里绝不提「我们看了你们的财报 / 退市」"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-831"
   }
  }
 }

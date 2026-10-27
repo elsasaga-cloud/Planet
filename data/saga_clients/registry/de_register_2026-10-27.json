@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 5
+  "count": 7
  },
  "rows": {
   "SA-008": {
@@ -182,6 +182,78 @@
    "notes": "据第 79 批研究档入库；无新检索。",
    "fetched": "2026-10-27",
    "code": "SA-075"
+  },
+  "SB-103": {
+   "batch": 86,
+   "name": "Abetechs GmbH（GRUNDIG Security 独家许可方）",
+   "iso": "DE",
+   "source": "Deutschland · Handelsregister（Northdata 免费页：登记时间线 / GF 变更 / 资本 / 商标 / 资产负债表总额）",
+   "url": "https://www.northdata.de/Abetechs%20GmbH,%20Erkrath",
+   "number": "Amtsgericht Wuppertal HRB 35197（2024-11-22 起；此前 Amtsgericht Düsseldorf HRB 82264）· EUID DER1608.HRB35197 · USt-ID DE 315 133 441（官网）",
+   "status": "Aktiv（2026-09-14 最新登记变更）",
+   "incorporated": "2017-12-15（Gesellschaftsvertrag 2017-09-18）",
+   "company_type": "GmbH · Stammkapital €800,000（2017 €300k → 2018-05 €500k → 2020-12 €800k）· 3 名在册股东（名单 2024-10-28 / 2026-01-02 两次更新 → 股权近期变动）",
+   "sic": [
+    "Herstellung und Vertrieb von Produkten der Sicherheitstechnik, Hardware und Software：GRUNDIG Security 品牌许可（摄像 / NVR / SMART 线 NDAA 合规）+ VMS 商标 »C WERK«（2018-06 注册）；关联公司 i-Alarmsysteme GmbH（奥地利 Weikersdorf）及其德国分支（Erkrath HRB 31766）"
+   ],
+   "address": "Steinhof 39, D-40699 Erkrath",
+   "accounts": "资产负债表总额 €1,061,495（2025-12-31；2026-06-16 公示）—— 对 €800k 注册资本而言体量很小；营收不公开（小型 GmbH 免披露）",
+   "accounts_due": "年报次年 6 月前（2025 账已出）",
+   "size_band": "11–50（LinkedIn）；按资产总额 €1.06M 判 10 人上下",
+   "officers": [
+    "Kagan KANDEMIR — Geschäftsführer（**2026-09-14 起**，Düsseldorf）= 现任唯一 GF",
+    "Hans Ludwig BERGSCHNEIDER（= 研究档 KP Ludwig Bergschneider，Remscheid）— Geschäftsführer 2017-12-15 → **2026-09-14 卸任**（2024-06 重新登记为 Hans Ludwig）",
+    "Kevin Etienne KRÜCK — GF 两段（2023-09→2024-03；2024-08→2024-11）",
+    "Janek BROCK — Prokura（2024-06-12 起）",
+    "Yalcin DEMIRAK（研究档 KP）— 登记网络中出现（身份：股东 / 前任 GF 待核，Eschweiler）；Martin Embacher / Peter Zehetner — i-Alarmsysteme 系（奥地利）"
+   ],
+   "psc": "3 名股东（Northdata 付费；股东名单 2026-01-02 更新）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档两位 KP 都过时了：Ludwig Bergschneider 2026-09-14 已不再是 GF，新 GF 是 Kagan Kandemir；Yalcin Demirak 身份待核** → 下次触达收件人必须换成 Kandemir（GF）或 Prokurist Janek Brock；GRUNDIG Security 授权 + NDAA 合规 SMART 线说明他们在做美国 / 政府合规市场 —— 交换机配套要 NDAA（非海康 / 大华芯片链）口径：Marvell 方案可讲，但不写「NDAA-compliant」承诺（规则）",
+    "2 年内 GF 换 4 次、股东名单两次更新、资产总额只有 €1.06M → 经营不稳：100% 预付或 50/50，不做账期、不备库存给他们",
+    "与奥地利 i-Alarmsysteme GmbH 同网络（Embacher / Zehetner）→ 报价时可问是否覆盖奥地利分销",
+    "下一轮：Northdata 第 2 页看 Yalcin Demirak 与 i-Alarmsysteme 的关联类型"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-103"
+  },
+  "SB-205": {
+   "batch": 86,
+   "name": "Barox Kommunikation GmbH（Lörrach；母公司 barox Kommunikation AG，瑞士 Baden）",
+   "iso": "DE",
+   "source": "Deutschland / Schweiz · Handelsregister（Northdata 登记摘要 HRB 413457 Freiburg）+ 官网 Impressum / AGB（HRB 3457 AG Lörrach、CH-400.3.019.774-7、USt-ID）+ 官网 Geschichte + 2024-10 任命新闻稿 + theorg",
+   "url": "https://www.northdata.com/Barox%20Kommunikation%20GmbH,%20L%C3%B6rrach/Amtsgericht%20Freiburg%20HRB%20413457",
+   "number": "DE：Amtsgericht Freiburg HRB 413457（Impressum 旧号 HRB 3457 AG Lörrach）· USt-ID DE228975346 · 德国税号 1108809963；CH 母公司：Handelsregister CH-400.3.019.774-7 · MWST CHE-104.727.047",
+   "status": "Aktiv（2025-10 25 周年新闻；2026-02 官网更新）",
+   "incorporated": "GmbH 2003（Lörrach 子公司）；AG 1998-09-01（Baden，ABB 园区）",
+   "company_type": "GmbH · Stammkapital €25,000 · 100% 子公司 of barox Kommunikation AG（瑞士）· 创始人 Banfi + Rohr 持股（geschäftsführender Gesellschafter）",
+   "sic": [
+    "视频 / 安防网络专用交换机、媒体转换器、IP 延长器的设计 + 销售（瑞士品牌，产品自研外包生产）；覆盖德语区；2014 增设 Stade-Hamburg 办事处"
+   ],
+   "address": "Weiler Strasse 7, D-79540 Lörrach；母公司 Im Grund 15, CH-5405 Baden-Dättwil",
+   "accounts": "小型 GmbH 不披露营收；AG 瑞士不公开",
+   "accounts_due": "德国年报次年 12 月前",
+   "size_band": "中小（估 20–50 人，两国三址）",
+   "officers": [
+    "Rudolf ROHR — Mitgründer / Geschäftsführer（AG CEO 2005 起；GmbH 共同 GF）/ geschäftsführender Gesellschafter = 老板 = 研究档 KP rohr.rudolf@barox.ch → **老板 = 联系人**",
+    "Angelo BANFI — Mitgründer / Geschäftsführer（AG + GmbH）",
+    "Jeneeben JESUJEEVAGAN — Leiter Technik（技术负责人，2024-10 任命）= 研究档 KP mail@barox.de → 技术选型人"
+   ],
+   "psc": "Banfi + Rohr（创始合伙人，比例未公开）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 Rudolf Rohr 本人 + 技术负责人 Jeneeben 都在研究档 KP 里**：barox 是「自有品牌视频交换机」的瑞士品牌商（自研、外包生产）—— 正是 OEM 30% 线的教科书客户；Rohr 2009 年上过上海交大 EMBE，懂中国供应链、会直接比价 → 报价一步到位 + 阶梯；切入点：他们目录里的 PoE++ / 工业导轨 / 2.5G 上行款的第二货源（STI-288DGGPM-2BT、STI-480XGGM）",
+    "技术门槛：视频网络专用（组播 / IGMP / 环网 / 动态路由）→ 必须给 Marvell 管理型 + 固件可定制说明，先样机（付费）后谈量；CE / RoHS / REACH 文件齐",
+    "瑞士母公司结算：T/T 30/70，欧元或瑞郎；DAP Lörrach 走 Saga 百运网线（德国境内）",
+    "收件人：技术 Jeneeben 做评估、Rohr 拍板 → 一信两收"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-205"
   }
  }
 }

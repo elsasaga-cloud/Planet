@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 4
+  "count": 5
  },
  "rows": {
   "SA-073": {
@@ -151,6 +151,41 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SA-038"
+  },
+  "SB-062": {
+   "batch": 86,
+   "name": "AARYA ITES PRIVATE LIMITED",
+   "iso": "IN",
+   "source": "India · MCA 登记（Zauba Corp 镜像，2024-07）",
+   "url": "https://www.zaubacorp.com/AARYA-ITES-PRIVATE-LIMITED-U72900GJ2008PTC055798",
+   "number": "CIN U72900GJ2008PTC055798 · RoC Ahmedabad · 注册号 55798",
+   "status": "Active（最近 AGM 2023-12-30；资产负债表最后申报至 2023-03-31 → FY24 / FY25 年报在 2024-07 镜像时未见）",
+   "incorporated": "2008-12-31",
+   "company_type": "Private company limited by shares · 非政府 · 法定资本 ₹25 lakh / 实缴 ₹24.64 lakh（≈ $29k）",
+   "sic": [
+    "NIC 7290 其他计算机相关活动：ISO 9001 / 20000-1 / 27001 的 IT 基础设施 + 网络集成商（研究档）；Ahmedabad"
+   ],
+   "address": "209, Akshar Stadia, B/H Patel Avenue, Bodakdev, Ahmedabad 380054, Gujarat",
+   "accounts": "MCA 财务需付费；第三方估营收 $5.1M / 39 人（RocketReach，口径偏高）",
+   "accounts_due": "印度 AGM 9-30 / 年报 10–11 月",
+   "size_band": "11–50（LinkedIn）",
+   "officers": [
+    "MANAN Nakulbhai BHAVSAR — Director（DIN 02469366，2008-12-31 创立至今）= 研究档 KP manan@a-ites.com → **老板 = 联系人**",
+    "KETANA Manan BHAVSAR — Director（DIN 02384974，2008-12-31 至今）= 配偶（夫妻公司）",
+    "研究档 KP Chirag Shah（chirag.s@）— 非董事（注意：曾任董事 Chirag Pandit Satishkumar 2009–2013 是另一人）",
+    "历任（2009–2016 陆续退出）：Hirenkumar Pandya、Bhavesh Pandya、Chirag Pandit、Chinmay Agrawal → 创始合伙人全部退出，只剩 Bhavsar 夫妇"
+   ],
+   "psc": "Bhavsar 夫妇（推定 100%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（Manan Bhavsar，夫妻公司，17 年）**：印度集成商买交换机是跟项目走 → 集成 25%；他们有 ISO 27001 → 偏好管理型 + SNMP / 802.1X（Marvell 线）；切入点 CENTEC / 10G 上行做机房项目的替代方案",
+    "MCA 年报在镜像里停在 FY23（可能已补报，但不确定）+ 实缴 ₹24.6 lakh → 100% 预付；BIS 由他们以进口商办；Diwali（2026-11-08 前后）后再发",
+    "所有合伙人都退出 = Manan 一人说了算，谈判直接"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-062"
   }
  }
 }

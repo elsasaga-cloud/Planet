@@ -1,0 +1,44 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Slovensko · ORSR / FinStat（官方登记 + 公开财报）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SB-005": {
+   "batch": 86,
+   "name": "ROVEZ, s.r.o.",
+   "iso": "SK",
+   "source": "Slovensko · FinStat（ORSR 登记 + 公开财报 2025；konateľ 页未取）",
+   "url": "https://finstat.sk/36225801",
+   "number": "IČO 36225801 · DIČ 2020163277 · IČ DPH SK2020163277（1998-02-01 起增值税纳税人）· ORSR Okresný súd Trnava, oddiel Sro, vložka 10793/T",
+   "status": "Aktívna（2026 员工类别已更新）",
+   "incorporated": "1997-12-22",
+   "company_type": "s.r.o. · základné imanie €6,639（旧 200,000 SKK 最低资本）· 私人本国所有",
+   "sic": [
+    "SK NACE 8009 安保服务 / 4650 ICT 设备批发：Avigilon 摄像系统（30 年）销售 + 安装 + 维护、门禁、EZS 报警、电气安装 ≤1000 V、测控技术、电信设备安装（2002 起营业范围）"
+   ],
+   "address": "Ul. 9. mája 49, 917 00 Trnava（2007 起）",
+   "accounts": "2025 营收 €646,579（+28%）/ 总收入 €804,775 / 净利 €192,182（+69%）/ 资产 €632,851 / 权益 €586,271 / 负债率 7.36% / 毛利率 53.35%",
+   "accounts_due": "斯洛伐克财报次年 3–6 月公示于 RÚZ",
+   "size_band": "3–4 名员工（2026）",
+   "officers": [
+    "Marián ONDREJÍČEK — 研究档 KP rovez@rovez.sk（konateľ / 股东身份大概率，FinStat konateľ 页下一轮 1 次 fetch 确认）"
+   ],
+   "psc": "待取（ORSR spoločníci）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**3–4 人、年营收 €65 万、净利率 30%、负债率 7%、毛利 53% 的「金牌小集成商」**（Avigilon 高端摄像项目）：现金极好、决策一人 → 工业 / 商用 PoE 交换机配 Avigilon 项目（集成 25%），卖点 Marvell 管理型 + 3 年保 + 小批量；T/T 30/70 甚至可信用证不必 —— 按 50/50",
+    "斯洛伐克在欧元区、CE / RoHS 即可；DAP Trnava 走 Saga 百运网线（捷克 / 奥地利枢纽）",
+    "2025 营收 +28% → 项目在增长；窗口 2026-11 / 2027-02（避开 12-24–01-06）",
+    "下一轮：finstat.sk/36225801/obchodny_register 看 konateľ + spoločníci，确认 Ondrejíček = 老板"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-005"
+  }
+ }
+}

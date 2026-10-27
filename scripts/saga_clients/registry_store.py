@@ -39,6 +39,7 @@ SOURCES = {
     'ca': ('ca_corporations', 'Canada · Corporations Canada / Ontario 登记（OpenCorporates 摘要）'),
     'cy': ('cy_registrar', 'Κύπρος · Registrar of Companies（OpenCorporates 摘要）'),
     'tw': ('tw_moea', '台灣 · 經濟部商工登記 / 名錄摘要'),
+    'sk': ('sk_orsr', 'Slovensko · ORSR / FinStat（官方登记 + 公开财报）'),
     'kr': ('kr_registry', '대한민국 · 사업자등록 / 名錄摘要（DART 僅上市）'),
     'il': ('il_registrar', 'ישראל · רשם החברות（名錄摘要）'),
     'other': ('other_registry', '其他国家官方 / 准官方登记'),
