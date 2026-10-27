@@ -89,17 +89,20 @@ updated: 2026-10-27
 - 法定名 / 登记号：FIBERWORKS AS · Org.nr 959977046 · MVA 登记 1991-03-01 · 状态 **Aktiv（非破产 / 非清算；2025 年报已交）** · 成立 1990-12-27 成立（Foretaksregisteret 1991-02-27） · Aksjeselskap（AS）· 股本 NOK 500,000（1,000 股，2008-04-23）· 非集团 · A 股股东代表选董事（= 有 A/B 股结构，创始人持 A 股）
 - 行业码 / 经营范围：NACE 46.500 ICT 设备批发：「光纤网络产品销售及相关业务」（章程目的）—— 光模块 / 光纤 / 交换机分销商（fiberworks.no）
 - 注册地址：Eikenga 11, 0579 Oslo
-- 规模档：**22 名员工**（NAV Aa-registeret 2026-10-10）
-- 账目：年报已交至 2025（brreg 不含数字；proff.no 可查营收 —— 下一轮 1 次搜索）；挪威年报 7-31 前
+- 规模档：小型（员工 23–24 Aa 登记 / 19 全职（Åpenhetsloven 2026 声明）/ 18 年报；年营收 ≈ €12 M，高利润）
+- 账目：**2025 年报（proff / 1881，2026-06 公布）：营收 NOK 138.4 M（≈ €11.7 M）、EBIT 36.9 M（利润率 27%）、税前 37.8 M、净利 29.4 M；总资产 64.8 M、权益 8.5 M、负债 56.4 M；2024：营收 136.2 M、税前 31.8 M、分红 24.7 M**（NOK 千）；挪威年报 7-31 前
 - 高管：Roger Allan WAHLGREN — Daglig leder（CEO，2019-01 起）+ Styremedlem（A 股股东代表）= 老板 / 拍板人
 - 高管：Martin Roland LINDER — Styrets leder（董事长，A 股股东代表，2025-02 更新）= 共同所有人
 - 高管：审计 Cedra Norge AS；会计 Amesto Accounthouse AS；研究档 KP 无具名（邮件 salg@ / office）
-- 控制人 / 股东：A 股股东 Wahlgren + Linder（推定；挪威股东名册需 aksjonærregisteret）
+- 控制人 / 股东：Sorb Industri AB（瑞典）100%（1881 / proff 股东）；董事长 Martin Roland Linder（= Sorb 方）；DAGL Roger Allan Wahlgren 兼董事
 - 曾用名：INS COMMUNICATIONS AS（2007–2013）；INS BROKER AS（2004–2007）；SIP COMMUNICATIONS AS（2003–2004）；DELTA ONE AS（2002–2003）；INS SUPPORT AS（1998–2002）；RE-LAB AS（1995–1998）
 - **这意味着什么：**
   - **22 人的奥斯陆光纤 / 网络分销商（1990 起，6 次更名，2013 起叫 Fiberworks），CEO Wahlgren + 董事长 Linder 两人持 A 股** → 研究档没有具名 KP：下一封直接写给 Roger Wahlgren（Daglig leder）；分销 20% 档，卖点光口 / 10G 上行交换机配他们的光模块线（STI-480XGGM、STC-448XGGPM、2.5G 光口 DG 款）
   - 挪威非欧盟但 EEA：CE / RoHS 即可，进口 VAT 由他们办；DAP 奥斯陆走 Saga 百运网线；T/T 30/70（22 人老公司，信用可）
   - 下一轮：proff.no 看 2024 / 2025 营收与利润（1 次搜索）
+  - **财务补核（2026-10-27）：Fiberworks 年营收 ≈ €12 M、EBIT 27%、年年分红 —— 是现金充裕的瑞典 Sorb Industri 全资子公司，不是 22 人小铺；CEO Wahlgren 管经营，重大采购可能要过瑞典董事长 Linder** → 对表信仍写 Wahlgren（DAGL），分销 20%，但别用「便宜」做卖点 —— 他们利润率高、看重交期与品质：讲 Marvell 芯片 + 3 年保 + 连续供货
+  - 他们 2026 发布了 Åpenhetsloven（挪威透明法）供应链尽调声明 → 迟早要我们填供应商问卷（工厂地址、劳工、环保）：提前备一页「SmartByte 工厂 + Saga」供应链说明
+  - 年报每年 6 月底 proff 更新 → 复查 2027-07
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -153,8 +156,8 @@ updated: 2026-10-27
 | 法定名称 | FIBERWORKS AS（Org.nr 959977046；AS；1990-12-27 成立；Eikenga 11, 0579 Oslo；NACE 46.500；股本 NOK 500,000；前名 INS Communications AS 等 6 个；2025 年报已交） |
 | 成立 | 1990-12-27（Brønnøysund 官方 API）（第 87 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Oslo（Eikenga 11, 0579 Oslo）, 挪威 |
-| 人数 | 22 名员工（NAV Aa-registeret 2026-10-10）（第 87 批 官方登记核实 2026-10-27） |
-| 其他 | Planet 渠道档案 PB-073（2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json）；自有品牌：否；最大未知：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发） |
+| 人数 | 23–24 人（Aa 登记）/ 19 全职（Åpenhetsloven 2026 声明）；**2025 营收 NOK 138.4 M（≈ €11.7 M）、EBIT 36.9 M（27%）、净利 29.4 M；2024 营收 136.2 M、分红 24.7 M**（proff / 1881，2026-06）（第 88 批 官方登记核实 2026-10-27） |
+| 其他 | Planet 渠道档案 PB-073（2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json）；自有品牌：否；最大未知：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发）；股东：Sorb Industri AB（瑞典）100%；董事长 Martin Roland Linder；DAGL Roger Allan Wahlgren；2026 发布挪威透明法供应链声明 → 预备供应商问卷（第 88 批 官方登记核实 2026-10-27） |
 
 - **业务线**：分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）
 
@@ -246,15 +249,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 feed_auto：新增 20 条：26.10.2026 08.54.23 Modul SM 1xMPO/APC12(m)-12SC/UPC Pol. U1；06.10.2026 10.14.41 S
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 feed_auto：新增 21 条：27.10.2026 08.59.52 QSFP-DD to 4QSFP28 Active Optical Cable；27.10.2026 08.58.46 QS
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-836/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.fiberworks.no/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3117 字符；首行：Hjem - Fiberworks |
 | [sitemap](https://www.fiberworks.no/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [feed_auto](https://www.fiberworks.no/WebPages/produkt/rss.aspx) | rss | HTTP 200 | 2026-10-26T07:56:19Z | 100 条；最新：26.10.2026 08.54.23 Modul SM 1xMPO/APC12(m)-12SC/UPC Pol. U1 |
+| [feed_auto](https://www.fiberworks.no/WebPages/produkt/rss.aspx) | rss | HTTP 200 | 2026-10-27T08:02:45Z | 100 条；最新：27.10.2026 08.59.52 QSFP-DD to 4QSFP28 Active Optical Cable |
 
 ## 联系方式（已有 · 原值照录）
 

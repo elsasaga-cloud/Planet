@@ -173,16 +173,16 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 news_1：内容变化：+4 −4 行
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-646/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.artsistem.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 6367 字符；首行：Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı |
-| [sitemap](https://www.artsistem.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 900 个 URL；最新 lastmod 2026-10-26T08:02:27 |
-| [news_1](https://www.artsistem.com/haberler) | html | HTTP 200 | 2026-10-26T07:56:19Z | 8453 字符；首行：Haberler · Art Sistem |
-| [news_2](https://www.artsistem.com/duyurular) | html | HTTP 200 | 2026-10-24T04:35:40Z | 2015 字符；首行：Duyurular · Art Sistem |
+| [home](https://www.artsistem.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 6406 字符；首行：Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı |
+| [sitemap](https://www.artsistem.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 900 个 URL；最新 lastmod 2026-10-27T07:46:46 |
+| [news_1](https://www.artsistem.com/haberler) | html | HTTP 200 | 2026-10-27T08:02:45Z | 8277 字符；首行：Haberler · Art Sistem |
+| [news_2](https://www.artsistem.com/duyurular) | html | HTTP 200 | 2026-10-27T08:02:45Z | 2033 字符；首行：Duyurular · Art Sistem |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC5V1MNZYedlHLnzpPdHlWsw) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-06-11T07:18:35+00:00 RUIJIE FIREWALL KURULUM VE İÇERİK 09.06.2026 WEBİNAR |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://tr-tr.facebook.com/ArtSistem；Instagram: https://www.instagram.com/artsistem/；LinkedIn: https://tr.linkedin.com/company/artsistem；WhatsApp: https://wa.me/902125525242

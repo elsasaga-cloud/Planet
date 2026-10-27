@@ -90,6 +90,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 88 批（Nederland · KvK Handelsregister 镜像（drimble / transfirm / bedrijvenregister / de10beste：KvK 号、成立、董事、SBI、商号、年报存档、人数）+ stagemarkt 认证企业页，2026-10-27 查；https://transfirm.nl/nl/organisatie/591113800000-epic-europe-b.v.）：**
+
+- 法定名 / 登记号：Epic Europe B.V.（商号 DIOS / DIOS Industries / DIOS Ultra HD Security Systems） · KvK 59111380 · vestigingsnr 000028430891 · 法定住所 gemeente Etten-Leur · 经营地 Roosendaal · 状态 **Actief（年报存档记录至 2021 账年，2022 年 7 月；之后镜像未列 → 下次核是否逾期）** · 成立 2013-10-29 · Besloten Vennootschap（B.V.）· 董事 / 100% 母公司 Kiyi Holding B.V.（KvK 59106808，同日成立）= Jacco Slob 的个人控股
+- 行业码 / 经营范围：SBI 80.20 安防系统服务 + 电气安装：监控 / 安防产品的贸易、进出口、咨询、设计、安装、维护（章程）；4–30 MP 超高清摄像机 + Xeon 录像服务器 + 千兆 PoE 交换机（brinqs 简介）
+- 注册地址：De Meeten 82, 4706 NH Roosendaal（Majoppeveld-Zuid 工业区；旧址 Bredaseweg 185 Etten-Leur）
+- 规模档：微型（5–9 人；2024-02 起为 SBB 认可实习企业）
+- 账目：小微 B.V. 年报（仅资产负债表）；人数 5–9（de10beste）；营收未公开；NL 年报存档：账年结束后 12 个月内（通常次年 7–12 月）
+- 高管：Jacco (Jacob) SLOB — 经 Kiyi Holding B.V. 任 bestuurder（2013-10-29 起）= 所有人 / CEO = 研究档 KP（2025-03 亲自要价表）→ **老板 = 联系人**
+- 高管：关联：Dios Industries V.O.F.（KvK 76083926，2019-10-11，Sint Willebrord，合伙人 Jacob Slob，2 人）—— 已注销（opgeheven）；drimble 另列 2026-01-23 新登记 KvK 99697149（名称待核，可能是新 Dios 实体）
+- 控制人 / 股东：Jacco Slob via Kiyi Holding B.V.（100%，推定）
+- **这意味着什么：**
+  - **老板 = 联系人：Jacco Slob 通过个人控股 Kiyi Holding 持有 Epic Europe B.V.（Dios 品牌），5–9 人的荷兰超高清监控「进口 + 分销 + 安装」商，2025-03-05 他本人两封信要价表、我们当天给了两份、之后无下文** → 不是没兴趣，是价表没对上他的需求：Dios 自己卖「千兆 PoE 交换机」配摄像机 → 对表信直接给 8/16/24 口 PoE（STC-028GP / STC-228GP / STC-2024GP）+ 高功率 bt 款（4–30 MP 摄像机 + PTZ 需 60–90 W），按「Dios 贴牌 + 彩盒」OEM 30% 或分销 20% 两档并列，由他选
+  - 荷兰付款习惯 30 天，但微型 B.V. 首单 T/T 50/50；CE / RoHS + NL WEEE（Stichting OPEN）由他作进口商持有；DAP Roosendaal 走 Saga 百运网线；比荷卢 + 德国是他的市场 → 德语说明书加分
+  - 2019 年另设的 V.O.F. 已注销、2026-01 又有新登记 → 公司结构在动；复查 2027-01 看新实体名称与年报是否补交
+- 备注：研究档 legal_name 已有（含 V.O.F.）；founded / size 可回填 2013-10-29 / 5–9 人。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -139,7 +155,7 @@ updated: 2026-10-27
 - **【注册名录】V.O.F. 注册与规模**
   > De vennootschap onder firma Dios Industries is gevestigd op Rugstraat 64 te ST. WILLEBRORD … kvk nummer 76083926 … Bij Dios Industries zijn tussen de 2 en 5 personen werkzaam.
   > 来源：https://www.oozo.nl/bedrijven/rucphen/sint-willebrord/sint-willebrord/1825632/dios-industries（抓取 2026-10-21）
-- **KP**：Jacco Slob（CEO（2025-03 邮件签名））j.slob@dios-industries.com +31 6 4685 3228（2025-03-05 签名 m 06-46853228）〔S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）〕
+- **KP**：Jacco (Jacob) Slob（CEO + 经个人控股 Kiyi Holding B.V.（KvK 59106808）任 Epic Europe B.V. 唯一 bestuurder（2013-10-29 起）= **老板 = 联系人**；2025-03 本人两封要价表，我们给了两份后无下文 = 价表没对上需求（他卖监控配套 PoE）（第 88 批 官方登记核实 2026-10-27））j.slob@dios-industries.com +31 6 4685 3228（2025-03-05 签名 m 06-46853228）〔S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）〕
 - **调研后定级**：B（原自动 A）——欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。
 - 备注：WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
 
@@ -147,8 +163,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Dios Ultra HD Video Security Systems — Epic Europe B.V. 旗下；另有 Dios Industries V.O.F.（KvK 76083926，Rugstraat 64, St. Willebrord，2–5 人） |
+| 法定名称 | Epic Europe B.V.（KvK 59111380 · vestiging 000028430891；2013-10-29；法定住所 Etten-Leur、经营地 De Meeten 82, 4706 NH Roosendaal；SBI 80.20；商号 DIOS / DIOS Industries / DIOS Ultra HD Security Systems；母公司 Kiyi Holding B.V.；旧 Dios Industries V.O.F. KvK 76083926（2019）已注销；2026-01-23 另有新登记 KvK 99697149 待核） |
+| 成立 | 2013-10-29（KvK）（第 88 批 官方登记核实 2026-10-27） |
 | 总部/地址 | De Meeten 82, 4706 NH Roosendaal, Nederland（+31 85 401 8169；info@dios-industries.com） |
+| 人数 | 5–9 人（de10beste / KvK 人数档）；年报存档记录至 2021 账年（第 88 批 官方登记核实 2026-10-27） |
 | 其他 | 4K/超高清（4–30 MP）视频监控专营：**自行进口 + 分销 + 安装一体**，目标市场 Benelux + 德国；提供任何品牌系统的接管维护、IP over coax 200 m 改造 |
 
 - **业务线**：超高清 IP 视频监控（进口 + 分销 + 安装）；维护服务（Benelux/德国）
@@ -220,13 +238,13 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-055/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://dios-industries.com/) | html | ConnectionError: HTTPSConnectionPool(host='dios-industries.c | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 unreachable） |
+| [home](https://dios-industries.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 2322 字符；首行：Dios Ultra HD Video Security Systems gespecialiseerd in Ultra HD en/of 4k |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -240,7 +258,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jacco Slob | CEO（2025-03 邮件签名） | j.slob@dios-industries.com / +31 6 4685 3228（2025-03-05 签名 m 06-46853228） | 调研核实（公开页） | S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补） |
+| Jacco (Jacob) Slob | CEO + 经个人控股 Kiyi Holding B.V.（KvK 59106808）任 Epic Europe B.V. 唯一 bestuurder（2013-10-29 起）= **老板 = 联系人**；2025-03 本人两封要价表，我们给了两份后无下文 = 价表没对上需求（他卖监控配套 PoE）（第 88 批 官方登记核实 2026-10-27） | j.slob@dios-industries.com / +31 6 4685 3228（2025-03-05 签名 m 06-46853228） | 调研核实（公开页） | S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补） |
 | ing. Jacco Slob | — | j.slob@dios-industries.com / +310646853228 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

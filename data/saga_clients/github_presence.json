@@ -18141,5 +18141,1348 @@
   "accounts": [],
   "repos_mentioning": [],
   "checked_at": "2026-10-27T08:34:26Z"
+ },
+ "SB-917": {
+  "domain": "torqsys.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "gabrieltorquat0/torqsystem-comanda",
+    "url": "https://github.com/gabrieltorquat0/torqsystem-comanda",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-05-07T03:00:28Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:34:41Z"
+ },
+ "SB-918": {
+  "domain": "alston-systems.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:34:55Z"
+ },
+ "SB-919": {
+  "domain": "bismon.com",
+  "accounts": [
+   {
+    "login": "Bismonagency",
+    "type": "User",
+    "url": "https://github.com/Bismonagency",
+    "name": "Ismaila B. Ganiyu",
+    "blog": "https://bismonagency.com/",
+    "email": null,
+    "company": "Bismonworld Creative Agency",
+    "public_repos": 5,
+    "created_at": "2022-04-20T12:53:27Z",
+    "updated_at": "2026-10-16T16:23:32Z",
+    "bio": "Experienced freelance web developer with a strong background in Python, HTML/CSS, and JavaScript. Proficient in React, Tailwind CSS, Supabase, and MongoDB. ",
+    "match": "company",
+    "repos": [
+     {
+      "name": "client-list-cards",
+      "pushed_at": "2025-09-30T18:06:40Z",
+      "lang": "JavaScript",
+      "desc": "A repo containing list of my Clients with links to their project",
+      "fork": false
+     },
+     {
+      "name": "react-starter",
+      "pushed_at": "2025-09-21T17:52:04Z",
+      "lang": "JavaScript",
+      "desc": "A Repo template or boilerplate to jump start react app push to GitHub ",
+      "fork": false
+     },
+     {
+      "name": "bismon-aquapure-solutions-repo",
+      "pushed_at": "2025-09-20T06:53:18Z",
+      "lang": "HTML",
+      "desc": "My Portfolio ",
+      "fork": false
+     },
+     {
+      "name": "ismaila-portfolio",
+      "pushed_at": "2025-09-18T14:04:52Z",
+      "lang": null,
+      "desc": "A repo for my dev portfolio",
+      "fork": false
+     },
+     {
+      "name": "index-portfolio",
+      "pushed_at": "2024-02-24T19:04:50Z",
+      "lang": null,
+      "desc": "Welcome to my world, Journey of a thousand miles Start with a step. Let's get started ",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:35:06Z"
+ },
+ "SB-920": {
+  "domain": "blueskill.co",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:35:16Z"
+ },
+ "SB-922": {
+  "domain": "fiberbase.co.kr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:35:28Z"
+ },
+ "SB-923": {
+  "domain": "hyesungtechwin.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:35:36Z"
+ },
+ "SB-924": {
+  "domain": "intracom-telecom.com",
+  "accounts": [
+   {
+    "login": "intracom-telecom-sdn",
+    "type": "Organization",
+    "url": "https://github.com/intracom-telecom-sdn",
+    "name": "Intracom Telecom",
+    "blog": "http://www.intracom-telecom.com/",
+    "email": "SDN-NFV@intracom-telecom.com",
+    "company": null,
+    "public_repos": 16,
+    "created_at": "2015-04-28T10:54:34Z",
+    "updated_at": "2026-10-16T13:43:24Z",
+    "bio": "Intracom Telecom open source projects related to SDN/NFV",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "keycloak-client",
+      "pushed_at": "2021-09-07T18:07:34Z",
+      "lang": "Python",
+      "desc": "Python client for Keycloak",
+      "fork": true
+     },
+     {
+      "name": "nstat",
+      "pushed_at": "2017-10-28T15:42:50Z",
+      "lang": "Python",
+      "desc": "Network Stress-Test Automation Toolkit",
+      "fork": false
+     },
+     {
+      "name": "nstat-sdn-controllers",
+      "pushed_at": "2017-03-23T10:45:50Z",
+      "lang": "Shell",
+      "desc": "Software Defined Network Controllers",
+      "fork": false
+     },
+     {
+      "name": "cna-code",
+      "pushed_at": "2017-03-13T07:11:16Z",
+      "lang": "Python",
+      "desc": "Source code for CNA workshop",
+      "fork": false
+     },
+     {
+      "name": "cna-hands",
+      "pushed_at": "2017-03-10T09:26:03Z",
+      "lang": null,
+      "desc": "CNA workshop hands-on exercises",
+      "fork": false
+     },
+     {
+      "name": "sdn-hands",
+      "pushed_at": "2017-03-09T15:25:37Z",
+      "lang": "Python",
+      "desc": "SDN workshop - Material for hands on part",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "intracom-telecom-sdn/nstat",
+    "url": "https://github.com/intracom-telecom-sdn/nstat",
+    "desc": "Network Stress-Test Automation Toolkit",
+    "stars": 13,
+    "pushed_at": "2017-10-28T15:42:50Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "dangtrinhnt/DynamicSFCDemo",
+    "url": "https://github.com/dangtrinhnt/DynamicSFCDemo",
+    "desc": "Dynamic SFC Demo at OpenStack Summit 2018 Vancouver",
+    "stars": 5,
+    "pushed_at": "2018-06-04T07:32:53Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "epu-ntua/sphinx-risk-assesment",
+    "url": "https://github.com/epu-ntua/sphinx-risk-assesment",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2023-09-27T11:22:11Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "extremexp-HORIZON/vis-api",
+    "url": "https://github.com/extremexp-HORIZON/vis-api",
+    "desc": "",
+    "stars": 3,
+    "pushed_at": "2026-06-04T07:30:15Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "5GZORRO/Smart-Resource-and-Service-Discovery-application",
+    "url": "https://github.com/5GZORRO/Smart-Resource-and-Service-Discovery-application",
+    "desc": "API for Smart Resource and Service Discovery application",
+    "stars": 0,
+    "pushed_at": "2022-12-01T11:38:47Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T08:35:47Z"
+ },
+ "SB-925": {
+  "domain": "miraesignal.com",
+  "accounts": [
+   {
+    "login": "MIRAESIGNAL",
+    "type": "User",
+    "url": "https://github.com/MIRAESIGNAL",
+    "name": "Mirae Signal",
+    "blog": "http://www.miraesignal.com",
+    "email": "sjyeo@miraesignal.com",
+    "company": "Mirae Signal Co., Ltd",
+    "public_repos": 2,
+    "created_at": "2015-03-23T23:57:26Z",
+    "updated_at": "2025-08-27T09:40:22Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "Git-test",
+      "pushed_at": "2021-07-21T06:27:14Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "MS5500M",
+      "pushed_at": "2015-03-24T04:26:01Z",
+      "lang": null,
+      "desc": "Outdoor Wireless P2P Bridge",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:36:03Z"
+ },
+ "SB-926": {
+  "domain": "osoolcts.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:36:15Z"
+ },
+ "SB-927": {
+  "domain": "rarmx.com.mx",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:36:26Z"
+ },
+ "SB-928": {
+  "domain": "sevenstarsuae.com",
+  "accounts": [
+   {
+    "login": "seven-stars-incorporation",
+    "type": "Organization",
+    "url": "https://github.com/seven-stars-incorporation",
+    "name": "Seven Stars",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 7,
+    "created_at": "2022-08-29T10:36:30Z",
+    "updated_at": "2022-11-06T04:26:17Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "web-page",
+      "pushed_at": "2022-12-01T13:57:11Z",
+      "lang": "CSS",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Admin-web-vovo",
+      "pushed_at": "2022-12-01T00:30:01Z",
+      "lang": "PHP",
+      "desc": "Admin area of web dicas da vovo",
+      "fork": false
+     },
+     {
+      "name": "web-vovo",
+      "pushed_at": "2022-12-01T00:17:02Z",
+      "lang": "PHP",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "scripts-auxiliares",
+      "pushed_at": "2022-11-30T23:51:19Z",
+      "lang": "Python",
+      "desc": "Conjunto de scripts auxiliares para o TCC.",
+      "fork": false
+     },
+     {
+      "name": "dicas-da-vovo",
+      "pushed_at": "2022-10-31T11:05:01Z",
+      "lang": "PHP",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "maracatu-atomico",
+      "pushed_at": "2022-10-03T15:16:04Z",
+      "lang": "Python",
+      "desc": "Projeto para web scraping (Coleta/Raspagem de dados web ). Parte dos códigos auxiliares para o TCC",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:36:42Z"
+ },
+ "SB-929": {
+  "domain": "fibermart.co.kr",
+  "accounts": [
+   {
+    "login": "soltechinc",
+    "type": "Organization",
+    "url": "https://github.com/soltechinc",
+    "name": "SOLTECH, Inc.",
+    "blog": "www.soltech.net",
+    "email": "info@soltech.net",
+    "company": null,
+    "public_repos": 7,
+    "created_at": "2014-06-18T21:30:33Z",
+    "updated_at": "2024-11-01T07:15:00Z",
+    "bio": "We make custom software",
+    "match": "name",
+    "repos": [
+     {
+      "name": "pdftron-react-native",
+      "pushed_at": "2022-07-28T19:27:45Z",
+      "lang": null,
+      "desc": "A convenience wrapper for building react native apps with PDFTron mobile SDK.",
+      "fork": true
+     },
+     {
+      "name": "ecs-demo-php-simple-app",
+      "pushed_at": "2020-10-02T06:43:00Z",
+      "lang": null,
+      "desc": "A simple PHP sample application  http://aws.amazon.com/ecs",
+      "fork": true
+     },
+     {
+      "name": "soltechxf",
+      "pushed_at": "2018-05-20T15:36:40Z",
+      "lang": "C#",
+      "desc": "The SolTech Xamarin Forms Toolkit is a set of helpful extensions to the Xamarin Forms framework.",
+      "fork": false
+     },
+     {
+      "name": "graphql-dotnet",
+      "pushed_at": "2018-01-03T04:38:20Z",
+      "lang": "C#",
+      "desc": "GraphQL for .NET",
+      "fork": true
+     },
+     {
+      "name": "EffectiveUnitTesting",
+      "pushed_at": "2016-06-23T13:14:06Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "AmazonCodeDeploy",
+      "pushed_at": "2015-11-10T13:04:55Z",
+      "lang": null,
+      "desc": "Lunch and Learn - Zero Downtime Automated Deployments with Amazon Code Deploy and Jenkins",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "soltech-sw",
+    "type": "Organization",
+    "url": "https://github.com/soltech-sw",
+    "name": "Soltech",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 1,
+    "created_at": "2023-07-31T06:51:09Z",
+    "updated_at": "2024-09-27T01:55:08Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "release",
+      "pushed_at": "2026-10-08T07:19:37Z",
+      "lang": null,
+      "desc": "soltech software RELEASE",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "SoltechGroup",
+    "type": "Organization",
+    "url": "https://github.com/SoltechGroup",
+    "name": "Soltech",
+    "blog": "www.soltechgroup.net",
+    "email": "cto@soltechgroup.net",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2021-07-05T20:46:10Z",
+    "updated_at": "2022-02-10T19:39:39Z",
+    "bio": "Developers",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:36:58Z"
+ },
+ "SB-930": {
+  "domain": "socraonline.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:37:13Z"
+ },
+ "SB-931": {
+  "domain": "wave1.com.au",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:37:25Z"
+ },
+ "SB-932": {
+  "domain": "acceed.com",
+  "accounts": [
+   {
+    "login": "Fangliding",
+    "type": "User",
+    "url": "https://github.com/Fangliding",
+    "name": "风扇滑翔翼",
+    "blog": "",
+    "email": "Fangliding.fshxy@outlook.com",
+    "company": "ACCEED Catering Group",
+    "public_repos": 82,
+    "created_at": "2018-12-02T13:11:40Z",
+    "updated_at": "2026-06-12T15:58:10Z",
+    "bio": "𝓕𝓐𝓝𝓖𝓛𝓘𝓓𝓘𝓝𝓖||24岁，是学生||ACCEED集团食品安全总监||PGP key:c71fb17fb95c109c",
+    "match": "company",
+    "repos": [
+     {
+      "name": "Xray",
+      "pushed_at": "2026-10-18T02:58:22Z",
+      "lang": "Go",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "v2rayNG",
+      "pushed_at": "2026-09-29T07:53:30Z",
+      "lang": "Kotlin",
+      "desc": "A V2Ray client for Android, support Xray core and v2fly core",
+      "fork": true
+     },
+     {
+      "name": "Xray-core",
+      "pushed_at": "2026-08-28T16:51:35Z",
+      "lang": "Go",
+      "desc": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+      "fork": true
+     },
+     {
+      "name": "REALITY",
+      "pushed_at": "2026-08-27T18:31:53Z",
+      "lang": "Go",
+      "desc": "THE NEXT FUTURE",
+      "fork": true
+     },
+     {
+      "name": "go",
+      "pushed_at": "2026-04-17T23:03:15Z",
+      "lang": null,
+      "desc": "The Go programming language",
+      "fork": true
+     },
+     {
+      "name": "reliable-stream",
+      "pushed_at": "2026-04-13T23:04:04Z",
+      "lang": "Go",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "Acceedo1234",
+    "type": "User",
+    "url": "https://github.com/Acceedo1234",
+    "name": "Acceedo",
+    "blog": "http://att-isc2.acceedo.in/website/index.html",
+    "email": "s.naveen7888@gmail.com",
+    "company": "Acceedo",
+    "public_repos": 8,
+    "created_at": "2017-01-07T13:55:14Z",
+    "updated_at": "2024-07-27T05:11:40Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "rtosImpl",
+      "pushed_at": "2024-05-18T04:42:50Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "JanaticsIOT",
+      "pushed_at": "2024-02-19T16:47:36Z",
+      "lang": "C",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Heattreatment__db",
+      "pushed_at": "2024-02-01T00:40:07Z",
+      "lang": "C",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Melting_Loadmeasure",
+      "pushed_at": "2024-01-20T03:55:20Z",
+      "lang": "C",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Melting_Spectrum",
+      "pushed_at": "2024-01-19T13:20:36Z",
+      "lang": "C",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "onlinepowermeter_dev",
+      "pushed_at": "2024-01-04T13:59:19Z",
+      "lang": "C",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:37:38Z"
+ },
+ "SB-933": {
+  "domain": "airlive.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:37:52Z"
+ },
+ "SB-934": {
+  "domain": "alibisecurity.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:48:06Z"
+ },
+ "SB-935": {
+  "domain": "alshuaibelectronics.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:48:20Z"
+ },
+ "SB-936": {
+  "domain": "altronics.com.au",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "dchad/OBD-Monitor",
+    "url": "https://github.com/dchad/OBD-Monitor",
+    "desc": "Tools for interfacing with vehicle engine control units using the OBD-II protocol.",
+    "stars": 77,
+    "pushed_at": "2021-04-14T06:48:39Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "venno-sudo/Lowenstein-SleepHQ-Integration",
+    "url": "https://github.com/venno-sudo/Lowenstein-SleepHQ-Integration",
+    "desc": "A project to upload the data from a Lowenstein medical device SD card to Sleep HQ web site",
+    "stars": 2,
+    "pushed_at": "2025-06-25T16:35:13Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "SkullKill/ACYONP-PCB",
+    "url": "https://github.com/SkullKill/ACYONP-PCB",
+    "desc": "PCB for Access Control Yubikey OTP NFC Pi (ACYONP). For Raspberry Pi. This is a Door Access Control using Electronic Doo",
+    "stars": 1,
+    "pushed_at": "2019-07-27T12:08:14Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "sccashma/macro-pad",
+    "url": "https://github.com/sccashma/macro-pad",
+    "desc": "",
+    "stars": 2,
+    "pushed_at": "2025-04-10T08:01:29Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "WaveLeKick/altronics-product-url-parser-spider",
+    "url": "https://github.com/WaveLeKick/altronics-product-url-parser-spider",
+    "desc": "Apify actor: altronics-product-url-parser-spider",
+    "stars": 0,
+    "pushed_at": "2026-07-05T09:49:00Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:48:33Z"
+ },
+ "SB-937": {
+  "domain": "anewtech.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:48:46Z"
+ },
+ "SB-938": {
+  "domain": "c4line.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:49:02Z"
+ },
+ "SB-939": {
+  "domain": "cleverkey.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:49:13Z"
+ },
+ "SB-940": {
+  "domain": "cominet.co.kr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:49:26Z"
+ },
+ "SB-941": {
+  "domain": "comptek.kz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:49:38Z"
+ },
+ "SB-942": {
+  "domain": "dmtrade.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:49:53Z"
+ },
+ "SB-943": {
+  "domain": "dorani.com.au",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:50:06Z"
+ },
+ "SB-944": {
+  "domain": "fybera.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:50:18Z"
+ },
+ "SB-945": {
+  "domain": "grep.sg",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "ast-grep/ast-grep",
+    "url": "https://github.com/ast-grep/ast-grep",
+    "desc": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+    "stars": 16368,
+    "pushed_at": "2026-10-26T17:13:34Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "ast-grep/ast-grep.github.io",
+    "url": "https://github.com/ast-grep/ast-grep.github.io",
+    "desc": "Website for ast-grep!",
+    "stars": 66,
+    "pushed_at": "2026-10-26T21:55:52Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "GaijinEntertainment/daScript",
+    "url": "https://github.com/GaijinEntertainment/daScript",
+    "desc": "daslang - high-performance statically strong typed scripting language",
+    "stars": 1196,
+    "pushed_at": "2026-10-27T08:21:20Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "KenMacD/wdpassport-utils",
+    "url": "https://github.com/KenMacD/wdpassport-utils",
+    "desc": "Code and information on how to unlock a WD My Passport drive in Linux.",
+    "stars": 135,
+    "pushed_at": "2026-04-04T13:50:19Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "reviewdog/action-ast-grep",
+    "url": "https://github.com/reviewdog/action-ast-grep",
+    "desc": "🐶 Run ast-grep(sg) with reviewdog",
+    "stars": 12,
+    "pushed_at": "2026-10-27T07:13:15Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T08:50:29Z"
+ },
+ "SB-946": {
+  "domain": "intrising.com.tw",
+  "accounts": [
+   {
+    "login": "Intrising",
+    "type": "Organization",
+    "url": "https://github.com/Intrising",
+    "name": "intrising",
+    "blog": "http://www.intrising.com.tw/",
+    "email": "kenlee@intrising.com.tw",
+    "company": null,
+    "public_repos": 74,
+    "created_at": "2012-03-23T06:53:27Z",
+    "updated_at": "2026-07-01T01:49:18Z",
+    "bio": "Scalable Industrial Switch Solution Provider",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "zeroconf",
+      "pushed_at": "2026-10-23T01:58:08Z",
+      "lang": "Go",
+      "desc": "mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)",
+      "fork": true
+     },
+     {
+      "name": "yaml-json",
+      "pushed_at": "2026-07-20T08:31:21Z",
+      "lang": "Go",
+      "desc": "A better way to marshal and unmarshal YAML in Golang",
+      "fork": true
+     },
+     {
+      "name": "snmpgo",
+      "pushed_at": "2026-07-20T08:31:19Z",
+      "lang": "Go",
+      "desc": "snmpgo is a golang implementation for SNMP",
+      "fork": true
+     },
+     {
+      "name": "gopacket",
+      "pushed_at": "2026-07-20T08:31:09Z",
+      "lang": "Go",
+      "desc": "Provides packet processing capabilities for Go",
+      "fork": true
+     },
+     {
+      "name": "fsnotify",
+      "pushed_at": "2026-07-20T08:31:06Z",
+      "lang": "Go",
+      "desc": "File system notification for Go",
+      "fork": true
+     },
+     {
+      "name": "go-gpsd",
+      "pushed_at": "2026-01-30T06:42:21Z",
+      "lang": "Go",
+      "desc": "GPSD client for Go.",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "IS-Brian-Li/github-training",
+    "url": "https://github.com/IS-Brian-Li/github-training",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-06-29T08:19:15Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "IS-Jacky/Jacky-intrising",
+    "url": "https://github.com/IS-Jacky/Jacky-intrising",
+    "desc": "Config files for my GitHub profile.",
+    "stars": 0,
+    "pushed_at": "2022-09-07T09:21:04Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:50:37Z"
+ },
+ "SB-947": {
+  "domain": "ison-tech.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:50:49Z"
+ },
+ "SB-948": {
+  "domain": "krysma.com.au",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:50:59Z"
+ },
+ "SB-949": {
+  "domain": "ksm.com.au",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:51:12Z"
+ },
+ "SB-950": {
+  "domain": "line-net.ge",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Webinfinity11/Line-Net-CRM",
+    "url": "https://github.com/Webinfinity11/Line-Net-CRM",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-08T13:42:27Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Jthora/leyLineNetworkGenerator",
+    "url": "https://github.com/Jthora/leyLineNetworkGenerator",
+    "desc": "A Batch Generator for creating JSON data about Ley Line Nodes",
+    "stars": 0,
+    "pushed_at": "2024-12-06T09:36:22Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "WeihaoLuo/MetroLineNetGenerator2",
+    "url": "https://github.com/WeihaoLuo/MetroLineNetGenerator2",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2018-12-06T06:58:19Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:51:20Z"
+ },
+ "SB-951": {
+  "domain": "montavue.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:51:33Z"
+ },
+ "SB-952": {
+  "domain": "mse.com.tw",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:51:44Z"
+ },
+ "SB-953": {
+  "domain": "nemon.co.kr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:51:54Z"
+ },
+ "SB-954": {
+  "domain": "netstar.in",
+  "accounts": [
+   {
+    "login": "netstar-inc",
+    "type": "Organization",
+    "url": "https://github.com/netstar-inc",
+    "name": "NetSTAR Inc.",
+    "blog": "https://www.netstar-inc.com",
+    "email": "intradmin@netstar-inc.com",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2019-03-18T07:32:28Z",
+    "updated_at": "2026-02-27T04:08:33Z",
+    "bio": "",
+    "match": "name"
+   },
+   {
+    "login": "NetstarRND",
+    "type": "Organization",
+    "url": "https://github.com/NetstarRND",
+    "name": "Netstar",
+    "blog": "",
+    "email": "danielj@netstar.co.za",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2023-08-30T11:42:21Z",
+    "updated_at": "2024-09-05T08:00:48Z",
+    "bio": "Netstar",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "Sand33pshah/Netstart-India",
+    "url": "https://github.com/Sand33pshah/Netstart-India",
+    "desc": "This is my own company portfolio website.",
+    "stars": 0,
+    "pushed_at": "2025-12-02T06:54:54Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Gharaibeh/acs-covid19",
+    "url": "https://github.com/Gharaibeh/acs-covid19",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2020-04-15T00:12:44Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "mbm-pmg/oem-incentives-reference",
+    "url": "https://github.com/mbm-pmg/oem-incentives-reference",
+    "desc": "Reference docs for MB program adds.",
+    "stars": 0,
+    "pushed_at": "2019-02-25T23:58:55Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:52:07Z"
+ },
+ "SB-955": {
+  "domain": "omctech.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:52:20Z"
+ },
+ "SB-956": {
+  "domain": "psaproducts.com.au",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:52:32Z"
+ },
+ "SB-957": {
+  "domain": "servo-tech.co.kr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:52:46Z"
+ },
+ "SB-958": {
+  "domain": "sieuthivienthong.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:52:57Z"
+ },
+ "SB-959": {
+  "domain": "silarius.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:53:11Z"
+ },
+ "SB-960": {
+  "domain": "steren.com.mx",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "FernandoHazel/Grupo12",
+    "url": "https://github.com/FernandoHazel/Grupo12",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2021-10-27T23:37:09Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "BRSADT/SterenArmRobot",
+    "url": "https://github.com/BRSADT/SterenArmRobot",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2020-09-02T18:03:46Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "gregorioromero5257/timeworks",
+    "url": "https://github.com/gregorioromero5257/timeworks",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2022-06-05T17:41:45Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "luismartincs/carduino",
+    "url": "https://github.com/luismartincs/carduino",
+    "desc": "Programas de arduino para el carro robot",
+    "stars": 0,
+    "pushed_at": "2015-10-15T04:36:15Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "borbolla5/smartcar",
+    "url": "https://github.com/borbolla5/smartcar",
+    "desc": "Codigo de control , PWM , Interrupciones  ,PID , Lectura y escritura de datos para un raspberry pi ",
+    "stars": 0,
+    "pushed_at": "2015-10-16T23:22:57Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:53:25Z"
+ },
+ "SB-961": {
+  "domain": "top-fa.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:53:41Z"
+ },
+ "SB-962": {
+  "domain": "triplenet.co.kr",
+  "accounts": [
+   {
+    "login": "triplenet",
+    "type": "User",
+    "url": "https://github.com/triplenet",
+    "name": "ivan",
+    "blog": "www.triplenet-energy.com",
+    "email": "ivan.lopresti@gmail.com",
+    "company": "TripleNet Energy",
+    "public_repos": 1,
+    "created_at": "2013-10-29T04:51:21Z",
+    "updated_at": "2020-11-06T05:08:33Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "RoR",
+      "pushed_at": "2016-02-02T10:46:02Z",
+      "lang": "Ruby",
+      "desc": "Ruby on Rails application",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:53:54Z"
+ },
+ "SB-963": {
+  "domain": "unitelco.co.kr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:54:07Z"
+ },
+ "SB-964": {
+  "domain": "uplinker.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:54:17Z"
+ },
+ "SB-965": {
+  "domain": "vidcom.uz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:54:29Z"
+ },
+ "SB-966": {
+  "domain": "view-tel.co.kr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:54:41Z"
+ },
+ "SB-967": {
+  "domain": "ynminc.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:54:51Z"
+ },
+ "SB-968": {
+  "domain": "zenithtek.co.kr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:55:04Z"
+ },
+ "SB-969": {
+  "domain": "3sti-technologies.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:55:16Z"
+ },
+ "SB-970": {
+  "domain": "eion.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Churng/MarTech_Resume",
+    "url": "https://github.com/Churng/MarTech_Resume",
+    "desc": "MarTech Resume",
+    "stars": 0,
+    "pushed_at": "2022-11-14T14:34:50Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "kencc/hexbmi",
+    "url": "https://github.com/kencc/hexbmi",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2023-01-07T13:47:23Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:55:30Z"
+ },
+ "SB-971": {
+  "domain": "integrated-ps.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:55:35Z"
+ },
+ "SB-972": {
+  "domain": "electrologicservices.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:55:43Z"
+ },
+ "SB-973": {
+  "domain": "multi-technology.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "jrpark16/multi-technology-combinations",
+    "url": "https://github.com/jrpark16/multi-technology-combinations",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-09-03T09:50:56Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:55:54Z"
+ },
+ "SB-974": {
+  "domain": "b-plus.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "bplus-group/b-plus-MDILink-Wireshark-Dissector",
+    "url": "https://github.com/bplus-group/b-plus-MDILink-Wireshark-Dissector",
+    "desc": "",
+    "stars": 1,
+    "pushed_at": "2025-11-10T13:52:16Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "xiangxiangxiong9/ScriptBlockPlus-Command-spawner",
+    "url": "https://github.com/xiangxiangxiong9/ScriptBlockPlus-Command-spawner",
+    "desc": "A Command Spawner for Minecraft Plugins: ScriptBlockPlus",
+    "stars": 2,
+    "pushed_at": "2022-06-22T04:08:44Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "imbisibol/BiyahePlus_Commuter",
+    "url": "https://github.com/imbisibol/BiyahePlus_Commuter",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2016-02-23T03:35:32Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "boosterid/BettaPlusCOM",
+    "url": "https://github.com/boosterid/BettaPlusCOM",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-03-08T02:04:17Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "codedemonbr/BasePlusCommissionEmployee",
+    "url": "https://github.com/codedemonbr/BasePlusCommissionEmployee",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2018-08-17T17:06:18Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:56:07Z"
+ },
+ "SB-975": {
+  "domain": "cctv-global.co.uk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:56:24Z"
+ },
+ "SB-977": {
+  "domain": "eltrox.cz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:56:37Z"
+ },
+ "SB-978": {
+  "domain": "eurobyte.co.za",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:56:50Z"
+ },
+ "SB-979": {
+  "domain": "ioneresources.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:57:02Z"
+ },
+ "SB-980": {
+  "domain": "ipvoiceshop.nl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:57:13Z"
+ },
+ "SB-981": {
+  "domain": "l-com.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "gniuk/linux-compile-commands",
+    "url": "https://github.com/gniuk/linux-compile-commands",
+    "desc": "generate compile_commands.json for old linux kernel source",
+    "stars": 34,
+    "pushed_at": "2021-10-08T07:31:01Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "spatie/laravel-comments.com",
+    "url": "https://github.com/spatie/laravel-comments.com",
+    "desc": "The marketing site for laravel-comments.com",
+    "stars": 10,
+    "pushed_at": "2026-10-20T12:11:39Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "pkozuchowski/LightningComponentsCompletions",
+    "url": "https://github.com/pkozuchowski/LightningComponentsCompletions",
+    "desc": "",
+    "stars": 2,
+    "pushed_at": "2018-05-02T18:42:42Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Alba0404/gpib-kicad-library",
+    "url": "https://github.com/Alba0404/gpib-kicad-library",
+    "desc": "Add GPIB components and connectors to KiCad.",
+    "stars": 4,
+    "pushed_at": "2025-10-08T13:28:55Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "eta-systems/Labor-GPIB",
+    "url": "https://github.com/eta-systems/Labor-GPIB",
+    "desc": "Wrapper for GPIB devices in python",
+    "stars": 2,
+    "pushed_at": "2020-03-24T08:29:53Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T08:57:27Z"
+ },
+ "SB-982": {
+  "domain": "mcss.co.kr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:57:42Z"
+ },
+ "SB-983": {
+  "domain": "nltinc.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:57:50Z"
+ },
+ "SB-984": {
+  "domain": "olsontech.com",
+  "accounts": [
+   {
+    "login": "olsontechllc",
+    "type": "Organization",
+    "url": "https://github.com/olsontechllc",
+    "name": "Olson Tech, LLC",
+    "blog": "https://www.olson-network.com",
+    "email": null,
+    "company": null,
+    "public_repos": 1,
+    "created_at": "2025-04-11T01:13:17Z",
+    "updated_at": "2025-04-11T01:16:11Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "stalwart-chart",
+      "pushed_at": "2025-11-10T09:24:03Z",
+      "lang": "Smarty",
+      "desc": "A Helm chart for deploying the Stalwart mail and collaboration server in Kubernetes with FoundationDB.",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:58:04Z"
+ },
+ "SB-985": {
+  "domain": "qnv.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:58:16Z"
+ },
+ "SB-986": {
+  "domain": "testsol.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:58:26Z"
+ },
+ "SB-987": {
+  "domain": "throughput.co.za",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "LiuYuancheng/PLC_and_RTU_Simulator",
+    "url": "https://github.com/LiuYuancheng/PLC_and_RTU_Simulator",
+    "desc": "The primary objective of this project is to develop a cross-platform Python library capable of simulating the core funda",
+    "stars": 71,
+    "pushed_at": "2026-08-16T12:04:25Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Krishsharmacse/PLC_RTCsimulator",
+    "url": "https://github.com/Krishsharmacse/PLC_RTCsimulator",
+    "desc": "",
+    "stars": 1,
+    "pushed_at": "2026-04-03T19:33:38Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Yashodeep00/smart-factory-plc-simulator",
+    "url": "https://github.com/Yashodeep00/smart-factory-plc-simulator",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-07-16T13:10:44Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:58:38Z"
+ },
+ "SB-988": {
+  "domain": "infinityhardware.us",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:58:53Z"
  }
 }

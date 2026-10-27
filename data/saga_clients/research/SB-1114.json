@@ -32,7 +32,7 @@
  "kp": [
   {
    "name": "Christopher Fikes",
-   "role": "Owner",
+   "role": "Owner / Founder（2007-01 起；Crunchbase / Tracxn）= **老板 = 联系人**；本职 Evadale ISD（德州学区）Director of IT（2018-08 起）—— FikesMedia 是他的一人 MikroTik 咨询 / 集成公司，客户 = 学区 + 市政；GitHub 开源作者 → 技术人，别催样，给 API / SNMP / CLI 文档（第 88 批 官方登记核实 2026-10-27）",
    "email": "cfikes@fikesmedia.com",
    "phone": "409.877.4220",
    "source": "S 邮箱签名"
@@ -109,5 +109,12 @@
    "body": "Hi Christopher,\n\nOne straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB), scriptable SSH/CLI, and MQTT publish of port/PoE status from firmware 7.5 — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.\n\nWhich controller or NMS would you pair it with? With that I can confirm exactly what it can poll and set, and we can ship the 2 evaluation units ($180 USD EXW each, credited against a first order).\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "company_facts": {
+  "legal_name": "FikesMedia（FikesMedia LLC，ZoomInfo；TX SoS 编号未取；105 George St, Silsbee TX 77656；另 109 Pinecrest Dr）",
+  "founded": "2007（官网 about / Tracxn）（第 88 批 官方登记核实 2026-10-27）",
+  "staff": "1–10 人（Tracxn 2024-07）；未融资；业主兼职（第 88 批 官方登记核实 2026-10-27）",
+  "size": "微型（一人公司）（第 88 批 官方登记核实 2026-10-27）",
+  "hq": "Silsbee, Texas（休斯敦东北 Hardin 县）（第 88 批 官方登记核实 2026-10-27）"
  }
 }

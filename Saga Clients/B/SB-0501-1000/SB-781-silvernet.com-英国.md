@@ -85,6 +85,25 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 88 批（UK · Companies House（官方）搜索 → 公司页 + officers 页，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/05386276）：**
+
+- 法定名 / 登记号：SILVERNET LIMITED · 05386276 · 状态 **Active（账目至 2025-11-30 已报；确认声明 2026-03-09 已交；有 charges 页 = 曾设银行抵押）** · 成立 2005-03-09（前 2 个月名 COMPLETE SECURITY SOLUTIONS LIMITED，2005-05-11 更名） · Private limited company
+- 行业码 / 经营范围：26309 通信设备制造（SilverNet 品牌：无线网桥 / 点对点微波 + **自有品牌 PoE 交换机** + 户外 CCTV 传输 —— 英国安防 / 市政 CCTV 渠道）
+- 注册地址：19 Presley Way, Crownhill, Milton Keynes MK8 0ES（自有办公 / 仓库，非虚拟地址）
+- 规模档：小型（研究档估 10–30 人；夫妻持有）
+- 账目：账目至 2025-11-30 已报（iXBRL 不取）；下期 2026-11-30，2027-08-31 到期；2027-08-31（账目）/ 2027-03-23（确认声明）
+- 高管：BALLARD, Christopher Roland — Director（2005-03-09 起，1973-10 生，英籍，身份已核）= 创始人 / 老板（PSC 待取，推定 ≥75%）
+- 高管：BALLARD, Mandy — Secretary（2005-03-09 起，同址）= 配偶 / 共同所有人
+- 高管：研究档 KP C. DiPrima / K. Newton = 雇员（销售 / 采购），**非老板** → 25 封信 0 回，下一封改写给 Chris Ballard
+- 控制人 / 股东：Christopher Roland BALLARD >50%–<75%（2016-04-06 起，ID 已核）+ Mandy Joyce BALLARD >25%–≤50%（2016-04-06 起，1970-08 生，ID 已核）—— 夫妻 100% 持股，无其他 PSC / 声明
+- 抵押 / 诉讼 / 担保：有（charges 页存在；细节未取）
+- 曾用名：COMPLETE SECURITY SOLUTIONS LIMITED（2005-03 → 2005-05）
+- **这意味着什么：**
+  - **SilverNet 是米尔顿凯恩斯的英国自有品牌厂（无线网桥 + 自牌 PoE 交换机），老板 = 创始董事 Chris Ballard（妻子任秘书），我们 3 年 25 封信全发给了两名雇员** → 典型 OEM 30% 目标：他们的 PoE 交换机本来就是外采贴牌 → 对表信写给 Chris Ballard：「SilverNet-branded managed PoE switch, UKCA + CE, Marvell L2+, 3-year warranty, MOQ 1 carton」，附 STC-228GP / STC-2024GP / STI 工业款规格
+  - 英国安防渠道要 UKCA + CE / RoHS + UK WEEE（由他们作为进口商持有）；付款首单 T/T 50/50，复购 30/70；DAP 米尔顿凯恩斯走 Saga 百运网线；GB 周四 12–14 发信
+  - PSC 页（2026-10-27 取）：夫妻二人合计 100%，Chris >50% 拍板、Mandy 25–50% —— 典型家族制造小厂；写信只写 Chris，抄 Mandy 无益
+- 备注：研究档 legal_name 空 → 回填 SILVERNET LIMITED；add_kp Christopher Ballard。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,13 +146,18 @@ updated: 2026-10-27
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：C. DiPrima（）cdiprima@silvernet.com 〔用户表〕
 - **KP**：K. Newton（）knewton@silvernet.com 〔用户表〕
+- **KP**：Christopher Roland Ballard（Director（2005-03-09 创立至今，1973-10 生，身份已核）+ PSC 持股 50–75% = **老板 = 该写的人**（我们 25 封都寄给了员工）（第 88 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/05386276/persons-with-significant-control〕
+- **KP**：Mandy Joyce Ballard（Secretary + PSC 持股 25–50%（1970-08 生；配偶）—— 不必抄送（第 88 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/05386276/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SILVERNET LIMITED（Companies House 05386276；2005-03-09 成立，原名 COMPLETE SECURITY SOLUTIONS LIMITED 至 2005-05-11；19 Presley Way, Crownhill, Milton Keynes MK8 0ES；SIC 26309 通信设备制造；账目至 2025-11-30 已报，下期 2027-08-31；有 charges 记录） |
+| 成立 | 2005-03-09（Companies House）（第 88 批 官方登记核实 2026-10-27） |
 | 总部/地址 | 英国 |
+| 人数 | 家族制造小厂（夫妻 100% 持股：Chris >50% + Mandy 25–50%）；自有品牌无线 + PoE 交换机（第 88 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 silvernet.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
 
 - **业务线**：无线 / 工业网络产品（自有品牌 Silvernet）
@@ -208,7 +232,7 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-781/`；本节随档案重渲染刷新，实时看日志。
 
@@ -231,6 +255,8 @@ updated: 2026-10-27
 |---|---|---|---|---|
 | C. DiPrima | — | cdiprima@silvernet.com | 调研核实（公开页） | 用户表 |
 | K. Newton | — | knewton@silvernet.com | 调研核实（公开页） | 用户表 |
+| Christopher Roland Ballard | Director（2005-03-09 创立至今，1973-10 生，身份已核）+ PSC 持股 50–75% = **老板 = 该写的人**（我们 25 封都寄给了员工）（第 88 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/05386276/persons-with-significant-control |
+| Mandy Joyce Ballard | Secretary + PSC 持股 25–50%（1970-08 生；配偶）—— 不必抄送（第 88 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/05386276/officers |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

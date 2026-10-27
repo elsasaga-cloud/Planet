@@ -178,13 +178,13 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 home：内容变化：+151 −151 行
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 home：内容变化：+143 −143 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-089/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://lancomat.cz/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 9349 字符；首行：Lancomat.cz - vše pro strukturované kabeláže, optické sítě a rozvaděče |
+| [home](https://lancomat.cz/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 9281 字符；首行：Lancomat.cz - vše pro strukturované kabeláže, optické sítě a rozvaděče |
 
 ## 联系方式（已有 · 原值照录）
 

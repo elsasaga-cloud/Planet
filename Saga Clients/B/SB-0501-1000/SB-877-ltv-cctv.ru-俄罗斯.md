@@ -157,8 +157,8 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 telegram：内容变化：+58 −15 行
+- **监控层**：B 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 telegram：内容变化：+87 −39 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-877/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -168,8 +168,8 @@ updated: 2026-10-27
 | [news_1](https://ltv-cctv.ru/press/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5656 字符；首行：Пресса |
 | [news_2](https://ltv-cctv.ru/press/11/15067/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4260 字符；首行：LTV 3-series: Моторизованные камеры 8Мп |
 | [vk](https://vk.com/Luis.Russia) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
-| [youtube](https://www.youtube.com/user/TheLuisplus) | youtube_handle | HTTP 200 | 2026-10-26T07:56:19Z | 15 条；最新：2026-10-26T06:00:31+00:00 ИИ в видеонаблюдении: что реально работает, а что остаёт |
-| [telegram](https://t.me/s/Luis_Plus) | html | HTTP 200 | 2026-10-26T07:56:19Z | 14774 字符；首行：LUIS+ – Telegram |
+| [youtube](https://www.youtube.com/user/TheLuisplus) | youtube_handle | HTTP 200 | 2026-10-27T08:02:45Z | 15 条；最新：2026-10-27T06:00:38+00:00 Видеоаналитика ТЕОРИЯ VS ПРАКТИКА |
+| [telegram](https://t.me/s/Luis_Plus) | html | HTTP 200 | 2026-10-27T08:02:45Z | 15943 字符；首行：LUIS+ – Telegram |
 
 ## 联系方式（已有 · 原值照录）
 

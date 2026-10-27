@@ -79,6 +79,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 88 批（Türkiye · 官网 Hakkımızda + LinkedIn 公司页（2019 成立）+ ZoomInfo / RocketReach（团队 / 人数）；Ticaret Sicili 付费未取，2026-10-27 查；http://zeytek.com.tr/Hakkimizda）：**
+
+- 法定名 / 登记号：ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ SAN. TİC. LTD. ŞTİ. · Ltd. Şti.（İstanbul Ticaret Sicili；MERSİS 未取） · 状态 **Aktif（官网 + LinkedIn 2026 更新）** · 成立 2019（创始人自述 15 年行业经验） · Limited Şirket · 私人
+- 行业码 / 经营范围：弱电结构化布线 + 机房 / 基础设施材料供应（工业设施、政府大楼、医院、银行、连锁店、高层）—— 材料供应商 / 小分销
+- 注册地址：Çatalmeşe Mah. Saray Cad. No:261/A, Çekmeköy / İstanbul（ZoomInfo 另列 Mevlana Mh. Kanun Sk. 34791）
+- 规模档：微型（RocketReach 5 人：总协调 + 销售助理 + 记账；ZoomInfo 11–50 偏高）
+- 账目：Ltd. Şti. 无公开财报；—
+- 高管：Mehmet ZEYTİNLİ — Genel Koordinatör（2019 起；公司名 Zeytek = Zeytinli + Teknoloji）= 研究档 KP → **老板 = 联系人**（Ltd. Şti. 股东付费未取，姓名即公司名）
+- 高管：Kamuran İPEK — Sales Assistant（2020 起）；Sinem DOĞAN — Bookkeeping
+- 控制人 / 股东：Mehmet Zeytinli（推定，姓名即商号）
+- **这意味着什么：**
+  - **老板 = 联系人：Zeytek 是 Mehmet Zeytinli 2019 年用自己姓氏起的 5 人布线材料供应商（伊斯坦布尔亚洲侧）；展会上只交换了名片 + WhatsApp，没谈** → 他们卖布线材料给弱电承包商，交换机是顺手配套：分销 20% 档，8/16/24 口 PoE 非管理 + 机柜款（STC-028GP / STC-2024GP）；首触走 WhatsApp（已加）发一页 PDF 而非邮件群发
+  - 政府大楼 / 医院 / 银行项目按个案守界；土耳其 100% 预付或 50/50；CE / RoHS；DAP 伊斯坦布尔走 Saga 百运网线；TR 周四 10–12
+  - 无年报可查；LinkedIn 619 粉、持续更新 = 在营
+- 备注：研究档 legal_name / hq 已有；founded 回填 2019；size 5 人。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,7 +126,7 @@ updated: 2026-10-27
 - **【用户表】ISAF：要名片和彩页；WhatsApp 已加**
   > 没做过多交谈，要了名片和彩页 / 9053566 23548 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mehmet Zeytinli（Genel Koordinatör / Director（名录公开））mehmet@zeytek.com.tr（用户表） +90 535 662 35 48（用户表，WhatsApp 已加）〔https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670〕
+- **KP**：Mehmet Zeytinli（Genel Koordinatör（2019 创立起；公司名 Zeytek = Zeytinli + Teknoloji）= **老板 = 联系人**（Ltd. Şti. 股东付费未取）；5 人布线材料供应商（总协调 + 销售助理 Kamuran İpek + 记账 Sinem Doğan）（第 88 批 官方登记核实 2026-10-27））mehmet@zeytek.com.tr（用户表） +90 535 662 35 48（用户表，WhatsApp 已加）〔https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
@@ -118,8 +134,9 @@ updated: 2026-10-27
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti. |
-| 成立 | 2019 |
+| 成立 | 2019（官网 Hakkımızda / LinkedIn）（第 88 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Çatalmeşe Mah. Saray Cad. No:261/A, Çekmeköy / İstanbul（+90 216 755 72 33） |
+| 人数 | 5 人（RocketReach；ZoomInfo 11–50 偏高）（第 88 批 官方登记核实 2026-10-27） |
 | 其他 | 布线/机房材料供应；客户含政府建筑/医院/银行（守界：政府项目按个案） |
 
 - **业务线**：结构化布线与机房基础设施材料供应；弱电项目材料配套
@@ -154,14 +171,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 sitemap：新增 19 条：2021-04-01T20:17:50 Zeytek_Katalog.pdf；2021-03-21T13:59:57 Zeytek_Premium.pdf；2021
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 sitemap：新增 19 条：2021-04-01T20:17:50 Zeytek_Katalog.pdf；2021-03-21T13:59:57 Zeytek_Premium.pdf；2021
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-185/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://zeytek.com.tr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2352 字符；首行：ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ |
-| [sitemap](https://zeytek.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 99 个 URL；最新 lastmod 2021-04-05T16:38:37 |
+| [sitemap](https://zeytek.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 99 个 URL；最新 lastmod 2021-04-05T16:38:37 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -178,7 +195,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mehmet Zeytinli | Genel Koordinatör / Director（名录公开） | mehmet@zeytek.com.tr（用户表） / +90 535 662 35 48（用户表，WhatsApp 已加） | 调研核实（公开页） | https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670 |
+| Mehmet Zeytinli | Genel Koordinatör（2019 创立起；公司名 Zeytek = Zeytinli + Teknoloji）= **老板 = 联系人**（Ltd. Şti. 股东付费未取）；5 人布线材料供应商（总协调 + 销售助理 Kamuran İpek + 记账 Sinem Doğan）（第 88 批 官方登记核实 2026-10-27） | mehmet@zeytek.com.tr（用户表） / +90 535 662 35 48（用户表，WhatsApp 已加） | 调研核实（公开页） | https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

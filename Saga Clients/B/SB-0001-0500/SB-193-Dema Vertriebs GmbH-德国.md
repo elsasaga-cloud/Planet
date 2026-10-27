@@ -88,6 +88,23 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 88 批（Deutschland · Handelsregister（Northdata 免费页：HRB / LEI / GF / Prokura / 资本 / 商标 / 国家补助 / 年报公示 / 资产总额 / 关联网络），2026-10-27 查；https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim）：**
+
+- 法定名 / 登记号：DEMA Vertriebs-GmbH（Untermünkheim；STABILO 建材连锁同系） · Amtsgericht Stuttgart HRB 571318 · EUID DEB8534.HRB571318 · LEI 529900NC79L6B29H5354 · 状态 **Aktiv（2024 年报 2026-02-10 公示；2026-10-25 新注册 DEMA 图文商标 ×2）** · 成立 1963-01-17（登记；章程 2009-10-07 重订） · GmbH · Stammkapital €800,000（2009-12-29 起；原 50,000 DEM）· 2 名活跃股东（Northdata 付费）· 关联网络：STABILO Werkzeug Fachmarkt（Empfingen / Aglasterhausen / Herrenberg / Mengen / Steinheim 多家）、Hohenloher Elektrogroßhandel GmbH（同址 Untermünkheim）、Hans Mösle moderner Baubedarf GmbH、Just in Time Heimwerker-Maschinen-Vertriebsgesellschaft mbH、LVH Immobilien GmbH
+- 行业码 / 经营范围：机械 + 电器及各类商品的销售与中介（章程）：自有品牌 DEMA（文字商标 2021、图文商标 2026）/ Fix Aktiv / Denner Edition，供 STABILO 建材 / 农资连锁 + 多家网店（电商 10+ 年，研究档）
+- 注册地址：Im Tobel 4, D-74547 Untermünkheim（Schwäbisch Hall 郡，巴符州）
+- 规模档：中型（资产 €29.8M、资本 €80 万、LEI 持有人 → 年营收估数千万欧元级）
+- 账目：**资产总额 €29.8M（2024-12-31）**；年报公示 2006–2024（损益明细付费）；2021-07 获国家补助 €742,684（COVID 过渡援助框架）；年报次年 12 月前
+- 高管：Ulrich ABENDSCHEIN — Geschäftsführer（2006-10-27 起；Satteldorf；同时任 STABILO 多家连锁 GF）= 拍板人（集团经理人）
+- 高管：Günther DENNER — Prokura（2006-10-27 起；Kupferzell）= 创始家族（品牌 Denner Edition 即其姓）；2023-12 另一 Prokura 退出
+- 高管：研究档无具名 KP（2025-06 报价往来对 info@）
+- 控制人 / 股东：2 名活跃股东（Northdata 付费未取）；推定 Denner 家族 + STABILO 系
+- **这意味着什么：**
+  - **比研究档大一个量级：DEMA 不是「小网店」，是 1963 年起、资本 €80 万、资产 €2,980 万、给 STABILO 建材 / 农资连锁（巴符州十几家门店）供自有品牌电器 / 机械的集团采购公司；GF Abendschein 同时管着 STABILO 多家门店** → 2025-06-10 Alan 报过全铜口工业系列（STI-050FE $22.5 … STI-088FP $36.5）对方没答数量 = 我方欠跟：对表信写给 Herr Abendschein（GF）或 Herr Denner（Prokura），按「DEMA 品牌贴牌 + 彩盒 + 门店零售包装」谈 OEM 30% 线，起订按门店数（≥200 套彩盒 $2.5/套）
+  - 连锁零售渠道要的是：CE / RoHS + 德语说明书 + EAN 条码 + 彩盒 + WEEE 注册（德国 ElektroG：进口商需 WEEE-Reg.-Nr.，由 DEMA 作为进口商持有）→ 信里主动提「可按贵司 WEEE 号 + EAN 印刷」
+  - 付款：德国中型集团首单 30/70，复购 30 天可谈；DAP Untermünkheim 走 Saga 百运网线；年报 2027-02 复查
+- 备注：研究档 legal_name 已有；KP 空 → batch88_kp add_kp Abendschein + Denner。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,6 +138,8 @@ updated: 2026-10-27
 - **【用户表】1 次实质回复；1 次跟进**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ulrich Abendschein（Geschäftsführer（2006 起；同时任 STABILO Fachmarkt 连锁多家公司 GF）= 拍板人；研究档原无具名 KP → 对表信抬头 z. Hd. Herrn Abendschein（第 88 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim〕
+- **KP**：Günther Denner（Prokurist（Kupferzell；自有品牌「Denner Edition」）= 采购 / 经营层第二签字人（第 88 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim〕
 - **调研后定级**：B（原自动 B）——2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：2025-06-10 Markus Geck 真人回信问 8/24 口的起订量与价，Alan 发了整表但没答「数量」，之后只收群发——是我方欠跟，不是对方没兴趣；DEMA 是自有品牌（DEMA / Fix Aktiv）进口商 + 德国（四主之一），按《背景信息》顺序属「OEM 品牌商 / 有进口经验者」。原 C 理由保留备查：2026-10-21 核实：DEMA 为五金/园艺/农用品电商与进口集团（Stabilo 连锁，>1,200 人、>€300M），无网络设备品类 → C（子原因：行业外 + 规模大）
 - 备注：（无首轮调研；由 deepen.py 建档）｜第 77 批：C→B（见 override_reason）；2026-11 回 2025-06-10 原线程补答「数量」+ 现价 + 自有品牌贴标一句。
 
@@ -128,8 +147,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | DEMA Vertriebs-GmbH |
+| 法定名称 | DEMA Vertriebs-GmbH（Amtsgericht Stuttgart HRB 571318；LEI 529900NC79L6B29H5354；1963-01-17 登记；Im Tal 1, 74547 Untermünkheim；Stammkapital €800,000（2009）；2 名股东（付费未取）；商标 DEMA 文字 2021 + 图形 2026-10） |
+| 成立 | 1963-01-17（Handelsregister）（第 88 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Im Tobel 4, 74547 Untermünkheim (Übrigshausen), Deutschland（+49 7944 98101-0；info@fixversand.de） |
+| 人数 | Bilanzsumme €29.8M（2024-12-31）；2021-07 州补贴 €742,684；= STABILO 五金建材连锁集团的采购 / 批发公司（同址 Hohenloher Elektrogroßhandel GmbH）（第 88 批 官方登记核实 2026-10-27） |
 | 注册/税号 | HRB 571318（Amtsgericht Stuttgart）· USt-ID DE146279485 · LEI 529900NC79L6B29H5354 |
 | 其他 | 电商 10+ 年；自有品牌 DEMA、Fix Aktiv、Denner Edition；产品进 Stabilo 建材市场与多家网店 |
 
@@ -183,6 +204,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Ulrich Abendschein | Geschäftsführer（2006 起；同时任 STABILO Fachmarkt 连锁多家公司 GF）= 拍板人；研究档原无具名 KP → 对表信抬头 z. Hd. Herrn Abendschein（第 88 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim |
+| Günther Denner | Prokurist（Kupferzell；自有品牌「Denner Edition」）= 采购 / 经营层第二签字人（第 88 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim |
 | Markus Geck | — | m.geck@dema-vertrieb.com / +4915110820367 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删

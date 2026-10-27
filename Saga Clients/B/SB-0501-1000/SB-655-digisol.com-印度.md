@@ -210,18 +210,18 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 feed_auto：新增 1 条：Sun, 25 Oct 2026 10 Coronavirus disease 2019
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 feed_auto：新增 5 条：Mon, 26 Oct 2026 19 LolaJack Casino FR – bonus, promotions et programme VIP；Mon, 26
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-655/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.digisol.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 60000 字符；首行：Digisol – Leading Networking & IT Solutions in India |
 | [sitemap](https://www.digisol.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.digisol.com/category/digisol-blogs/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 2758 字符；首行：Digisol Blogs - Digisol |
+| [news_1](https://www.digisol.com/category/digisol-blogs/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 2759 字符；首行：Digisol Blogs - Digisol |
 | [news_2](https://www.digisol.com/resources/case-study/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2866 字符；首行：Case Study - Digisol |
-| [youtube](https://www.youtube.com/c/DIGISOL) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-06T05:03:42+00:00 Meet the DIGISOL DG-WM600-X1 IS |
-| [feed_auto](https://www.digisol.com/feed/) | rss | HTTP 200 | 2026-10-26T07:56:19Z | 10 条；最新：Sun, 25 Oct 2026 10:46:26 Coronavirus disease 2019 |
+| [youtube](https://www.youtube.com/c/DIGISOL) | youtube_handle | HTTP 200 | 2026-10-27T08:02:45Z | 15 条；最新：2026-10-27T05:25:15+00:00 Digisol hosted “SI’s for India“ in Chennai |
+| [feed_auto](https://www.digisol.com/feed/) | rss | HTTP 200 | 2026-10-27T08:02:45Z | 10 条；最新：Mon, 26 Oct 2026 19:44:46 LolaJack Casino FR – bonus, promotions et programme VIP |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/digisol-systems-ltd；Facebook: https://www.facebook.com/DIGISOLINDIA/；Instagram: https://www.instagram.com/digisol_solutions/；X/Twitter: https://twitter.com/DIGISOL_SNSL；WhatsApp: https://wa.me/919607893444
 

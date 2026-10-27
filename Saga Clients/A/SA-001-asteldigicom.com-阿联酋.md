@@ -317,15 +317,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 auto_sitemap：新增 420 条： asteldigicom.com；2025-12-27T23:47:40 cable-tv.html；2025-12-27T23:33:33 cables.ht
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 auto_sitemap：新增 420 条： asteldigicom.com；2025-12-27T23:47:40 cable-tv.html；2025-12-27T23:33:33 cables.ht
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-001/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://asteldigicom.com/) | html | HTTP 200 | 2026-10-23T03:05:43Z | 3630 字符；首行：Astel Digicom I House of all kinds of cables and connectors |
 | [contact](https://asteldigicom.com/contactu.html) | html | HTTP 200 | 2026-10-23T02:54:23Z | 6213 字符；首行：JOIN OUR NETWORK OF SUBSCRIBERS |
-| [auto_sitemap](https://asteldigicom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 500 个 URL；最新 lastmod 2026-04-05T13:31:11 |
+| [auto_sitemap](https://asteldigicom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 500 个 URL；最新 lastmod 2026-04-05T13:31:11 |
 | [auto_news_1](https://asteldigicom.com/blog) | html | HTTP 404 | 2026-10-23T04:20:51Z | 导航「Blog」 |
 
 - **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/company/astel-digicom-electronics-llc（112 followers；Sanjay Singla GM 332 followers；Yash Shahani / Rehman Rahim 销售）

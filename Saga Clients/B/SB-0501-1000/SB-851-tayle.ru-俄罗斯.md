@@ -186,17 +186,17 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 telegram：内容变化：+75 −8 行
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 telegram：内容变化：+106 −26 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-851/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.tayle.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1494 字符；首行：Тайле |
-| [sitemap](https://www.tayle.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 900 个 URL；最新 lastmod 2026-10-20 |
+| [home](https://www.tayle.ru/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 1502 字符；首行：Тайле |
+| [sitemap](https://www.tayle.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 900 个 URL；最新 lastmod 2026-10-27 |
 | [news_1](https://www.tayle.ru/pubs/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1097 字符；首行：All publications |
 | [vk](https://vk.com/taylenews) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
-| [telegram](https://t.me/s/taylenews) | html | HTTP 200 | 2026-10-26T07:56:19Z | 19038 字符；首行：ТАЙЛЕ – Telegram |
+| [telegram](https://t.me/s/taylenews) | html | HTTP 200 | 2026-10-27T08:02:45Z | 20449 字符；首行：ТАЙЛЕ – Telegram |
 
 ## 联系方式（已有 · 原值照录）
 

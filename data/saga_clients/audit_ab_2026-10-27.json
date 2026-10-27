@@ -9392,7 +9392,7 @@
    "p1": "STI-080GE（8 口千兆 DIN 非管理）/ STI-0240GE（24 口千兆 DIN 非管理，按单生产）/ STI-088GP（8 口 PoE）",
    "tier": 20,
    "signals": 1,
-   "kp": 0,
+   "kp": 2,
    "summary": true
   },
   "SB-194": {
@@ -21536,7 +21536,7 @@
    "p1": "STI-110GE",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-746": {
@@ -22328,7 +22328,7 @@
    "p1": "STI-288DGGPM-2BT",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 4,
    "summary": true
   },
   "SB-782": {

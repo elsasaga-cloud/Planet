@@ -39,8 +39,8 @@
  ],
  "kp": [
   {
-   "name": "Marek",
-   "title": "（表内联系人）",
+   "name": "Marek Kubas",
+   "title": "业主（个体工商户 IS NETWORKS Marek Kubas；CEIDG 决策人；1996 年起）= **老板 = 联系人**；2026-02 他要 CENTEC 参数 + 价格，我们欠一张价表（第 88 批 官方登记核实 2026-10-27）",
    "email": "marek@is-net.pl",
    "phone": "",
    "source": "用户表"
@@ -55,7 +55,11 @@
  },
  "company_facts": {
   "hq": "波兰",
-  "other": "官网 isnetworks.pl，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 isnetworks.pl，语言 en-GB，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "IS NETWORKS Marek Kubas（jednoosobowa działalność gospodarcza；NIP 8130069738 · REGON 690005253；1996；ul. Warszawska 24, 35-205 Rzeszów；PKD 43.21.Z；网店 isnetworks.pasaz24.pl）",
+  "founded": "1996（CEIDG 镜像）（第 88 批 官方登记核实 2026-10-27）",
+  "staff": "微型（个体户 + 少量雇员）（第 88 批 官方登记核实 2026-10-27）",
+  "size": "微型（个体户）（第 88 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "计算机网络设计与组装服务",

@@ -189,13 +189,13 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 home：内容变化：+31 −31 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 home：内容变化：+12 −12 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-589/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://bydemes.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 4231 字符；首行：The leading distributor in security technologies \| By Demes Group |
+| [home](https://bydemes.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 4218 字符；首行：The leading distributor in security technologies \| By Demes Group |
 | [sitemap](https://bydemes.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://bydemes.com/es/news/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3179 字符；首行：El distribuidor líder en tecnologías de seguridad \| By Demes Group |
 | [news_2](https://bydemes.com/es/news/newsletters) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3179 字符；首行：El distribuidor líder en tecnologías de seguridad \| By Demes Group |

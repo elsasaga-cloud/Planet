@@ -172,15 +172,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 youtube：新增 3 条：2026-10-26T07:49:37 8TB SEAGATE BARRACUDA HARDDİSK – 20.000₺ KDV DAHİL；2026-10-25T2
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 youtube：新增 2 条：2026-10-26T21:35:28 İSRAF - Bir Lokma Yemek, Bir Çocuğa Umut；2026-10-26T10:18:20 DE
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-676/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://pctedarik.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 12006 字符；首行：Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar |
+| [home](https://pctedarik.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 11894 字符；首行：Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar |
 | [sitemap](https://pctedarik.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [youtube](https://www.youtube.com/@pctedarik) | youtube_handle | HTTP 200 | 2026-10-26T07:56:19Z | 15 条；最新：2026-10-26T07:49:37+00:00 8TB SEAGATE BARRACUDA HARDDİSK – 20.000₺ KDV DAHİL |
+| [youtube](https://www.youtube.com/@pctedarik) | youtube_handle | HTTP 200 | 2026-10-27T08:02:45Z | 15 条；最新：2026-10-26T21:35:28+00:00 İSRAF - Bir Lokma Yemek, Bir Çocuğa Umut |
 
 ## 联系方式（已有 · 原值照录）
 

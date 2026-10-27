@@ -77,6 +77,21 @@ updated: 2026-10-27
 
 - 法定假日：11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 88 批（Srbija · APR 镜像（companywall：成立、董事、股东比例、规模；cubepartner：营收 / 利润 / 人数区间；bisnode：开户行）+ 公司自填识别资料 PDF（stasanet.rs）+ 官网 O nama + dahua.rs 联系页，2026-10-27 查；https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0）：**
+
+- 法定名 / 登记号：STASANET doo BEOGRAD-VRAČAR · MB 20967374 · PIB 108279647 · PDV 纳税人 · 开户 Unicredit Bank Srbija 170-0030018979000-21 · 状态 **Aktivan** · 成立 2013-10-29（官网自述 2014 开业） · d.o.o. · 股东 MVA GROUP s.r.o.（捷克）85% + Predrag Čegar 15%；= 布拉格 Stasanet s.r.o. 安防分销集团（创始人 Jakubík）第 8 家 / 最小分部
+- 行业码 / 经营范围：4643 家用电器批发（实际：安防技术分销 —— **dahua.rs 即 Stasanet = Dahua 塞尔维亚分销**；贝尔格莱德 + 诺维萨德两处；年合作约 200 家塞尔维亚及波黑 / 黑山 / 北马其顿安装商）
+- 注册地址：Kneza Stracimira 28, 11050 Beograd (Vračar)（通讯 / 旧址 Vojvode Hrvoja 28）
+- 规模档：微型（<5 人；营收 <€1 M；背靠捷克集团）
+- 账目：微型企业：营收 50–100 M RSD（≈ €0.43–0.85 M）、利润 0.1–0.5 M RSD、员工 <5（cubepartner 区间，年份未标）；RS APR 年报 6-30
+- 高管：Predrag ČEGAR — Direktor + 法定代表 + 15% 股东 = 研究档 KP（cegar@stasanet.rs；展会 WhatsApp 已加）→ **老板（小股东 + 经营者）= 联系人**；大股东 MVA GROUP s.r.o. 在布拉格拍板
+- 控制人 / 股东：MVA GROUP s.r.o.（CZ）85% / Predrag Čegar 15%
+- **这意味着什么：**
+  - **联系人 Predrag Čegar = 董事 + 15% 股东，但 85% 在布拉格的捷克母公司（Stasanet / MVA Group）；塞尔维亚公司是 Dahua 分销 + <5 人微型** → 对表信给他「Dahua 摄像机配套 PoE 交换机」的分销 20% 价（STC-028GP / STC-228GP / STC-2024GP + bt 高功率款），同时问一句「布拉格总部是否统一采购」—— 若是，把线并到 CZ 母公司；塞尔维亚非欧盟：CE / RoHS + 塞尔维亚 KS 标志由进口商办
+  - 付款 100% 预付或 50/50（微型 + 非欧盟）；DAP 贝尔格莱德走 Saga 百运网线（经匈牙利 / 希腊陆运）；首触走 WhatsApp（Ady 已加）；RS 周四 10–12 与 TR 同窗
+  - 复查：APR 年报 6-30 后看营收区间是否上移；不提 Dahua（他们是分销，别让对方觉得我们在撬 Dahua 的货）
+- 备注：研究档 facts 已有法定名 / 成立 / 地址 / 规模（第 79 批前已核）；本轮补股权结构 + 财务区间 + Dahua 分销身份。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,7 +124,7 @@ updated: 2026-10-27
 - **【用户表】ISAF：Ady 加 WhatsApp，拿彩页**
   > Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Predrag Čegar（Direktor（登记公开））cegar@stasanet.rs（登记公开） +381 65 247 0170（公开；用户表 WhatsApp 已加）〔https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0〕
+- **KP**：Predrag Čegar（Direktor + 法定代表 + **15% 股东**（85% = 捷克 MVA GROUP s.r.o. / 布拉格 Stasanet 集团）= 经营者 = 联系人，大额采购布拉格拍板；公司 = Dahua 塞尔维亚分销（dahua.rs）、<5 人、营收 50–100 M RSD（≈ €0.4–0.85 M）（第 88 批 官方登记核实 2026-10-27））cegar@stasanet.rs（登记公开） +381 65 247 0170（公开；用户表 WhatsApp 已加）〔https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「塞尔维亚」（country_fix，依据见加厚块）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记 + 官网核对；国家更正 RS））
@@ -119,7 +134,8 @@ updated: 2026-10-27
 | 法定名称 | STASANET doo BEOGRAD-VRAČAR（MB 20967374，PIB 108279647） |
 | 成立 | 2013-10-29 |
 | 总部/地址 | Kneza Stracimira 28, 11050 Beograd (Vračar)；通讯 Vojvode Hrvoja 28（+381 65 247 0170；sales@stasanet.rs） |
-| 其他 | 布拉格 Stasanet s.r.o. 分支（MVA Group 85%）；安防技术分销 + 设计咨询；Jablotron 合作伙伴 |
+| 人数 | <5 人；营收 50–100 M RSD、利润 0.1–0.5 M RSD（cubepartner 区间）；贝尔格莱德 + 诺维萨德两处；年合作约 200 家安装商（RS + BiH / ME / MK）（第 88 批 官方登记核实 2026-10-27） |
+| 其他 | 布拉格 Stasanet s.r.o. 分支（MVA Group 85%）；安防技术分销 + 设计咨询；Jablotron 合作伙伴；股权：MVA GROUP s.r.o.（CZ）85% + Predrag Čegar 15%；开户 Unicredit Bank Srbija；PDV 纳税人；= 布拉格 Stasanet s.r.o.（创始人 Jakubík）第 8 家 / 最小分部；dahua.rs 即本公司（第 88 批 官方登记核实 2026-10-27） |
 
 - **业务线**：安防技术分销（报警、CCTV、门禁）；技术保护系统设计与咨询
 - **触达通道（公开）**：网站: https://www.stasanet.rs/；电话: +381 65 247 0170 / +381 11 4065 158（公开）；邮箱（公开）: sales@stasanet.rs；cegar@stasanet.rs（登记公开）
@@ -157,14 +173,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 sitemap：新增 819 条： ja-110z-b-modul-za-spajanje-petlje； ja-110z-c-modul-za-spajanje-petlje； pt-tape0
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 sitemap：新增 819 条： ja-110z-b-modul-za-spajanje-petlje； ja-110z-c-modul-za-spajanje-petlje； pt-tape0
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-887/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.stasanet.rs/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3642 字符；首行：Alarmi i alarmni sistemi Video nadzor Interfoni STASANET |
-| [sitemap](https://www.stasanet.rs/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 900 个 URL；最新 lastmod - |
+| [home](https://www.stasanet.rs/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 3145 字符；首行：Alarmi i alarmni sistemi Video nadzor Interfoni STASANET |
+| [sitemap](https://www.stasanet.rs/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 900 个 URL；最新 lastmod - |
 | [news_1](https://www.stasanet.rs/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7826 字符；首行：Blog o alarmnim sistemima STASANET |
 | [youtube](https://www.youtube.com/@stasanetdoo) | youtube_handle | RuntimeError: channelId not found (HTTP 404)；YouTube 对运行器 IP | - | YouTube（运行器解析 channelId 后转 RSS） |
 
@@ -181,7 +197,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Predrag Čegar | Direktor（登记公开） | cegar@stasanet.rs（登记公开） / +381 65 247 0170（公开；用户表 WhatsApp 已加） | 调研核实（公开页） | https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0 |
+| Predrag Čegar | Direktor + 法定代表 + **15% 股东**（85% = 捷克 MVA GROUP s.r.o. / 布拉格 Stasanet 集团）= 经营者 = 联系人，大额采购布拉格拍板；公司 = Dahua 塞尔维亚分销（dahua.rs）、<5 人、营收 50–100 M RSD（≈ €0.4–0.85 M）（第 88 批 官方登记核实 2026-10-27） | cegar@stasanet.rs（登记公开） / +381 65 247 0170（公开；用户表 WhatsApp 已加） | 调研核实（公开页） | https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0 |
 | Predrag | — | +381652470170 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；无邮箱：只能电话 / WhatsApp / 官网表单

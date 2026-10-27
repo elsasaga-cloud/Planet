@@ -170,15 +170,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-802/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://baldota.co.in/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5806 字符；首行：The Baldota Group |
-| [news_1](https://baldota.co.in/news-and-events) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3959 字符；首行：News and Events - Baldota |
-| [news_2](https://baldota.co.in/news-details/25) | html | HTTP 500 | 2026-10-23T04:20:51Z | 导航「𝐂𝐨𝐨𝐤𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 𝐚𝐭...」 |
+| [home](https://baldota.co.in/) | html | ConnectTimeout: HTTPSConnectionPool(host='baldota.co.in', po | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
+| [news_1](https://baldota.co.in/news-and-events) | html | ConnectTimeout: HTTPSConnectionPool(host='baldota.co.in', po | 2026-10-23T04:20:51Z | 导航「News & Events」 |
+| [news_2](https://baldota.co.in/news-details/25) | html | ConnectTimeout: HTTPSConnectionPool(host='baldota.co.in', po | 2026-10-23T04:20:51Z | 导航「𝐂𝐨𝐨𝐤𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 𝐚𝐭...」 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/MSPL-Limited-100143955278466；Instagram: https://www.instagram.com/baldotagroup/；LinkedIn: https://www.linkedin.com/company/baldota-group/；X/Twitter: https://twitter.com/mspl_baldota
 

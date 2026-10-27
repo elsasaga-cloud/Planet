@@ -213,8 +213,8 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 auto_youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 auto_youtube：新增 1 条：2026-10-27T06:02:12 IP Rating Explained \| IP65 vs IP67, Dust & Water Protection #sh
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-006/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -224,7 +224,7 @@ updated: 2026-10-27
 | [auto_sitemap](https://unitedcontrolengg.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [auto_news_1](https://unitedcontrolengg.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7517 字符；首行：Industrial Automation Blog \| United Control Engineers |
 | [auto_news_2](https://unitedcontrolengg.com/project/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1665 字符；首行：Project - United Control Engineers India Pvt. Ltd. |
-| [auto_youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCn-YzhIGfuNFKbOqk-45gaA) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-23T07:26:48+00:00 3 things to check before buying a VFD #vfd #acdrive |
+| [auto_youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCn-YzhIGfuNFKbOqk-45gaA) | rss | HTTP 200 | 2026-10-27T08:02:45Z | 15 条；最新：2026-10-27T06:02:12+00:00 IP Rating Explained \| IP65 vs IP67, Dust & Water Protec |
 | [feed_auto](https://unitedcontrolengg.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 21 Oct 2026 06:50:05 IP, NEMA, CE, UL Ratings Explained |
 
 - **人工定期看（登录墙，不自动抓）**：https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd（989 followers）；https://www.facebook.com/unitedcontrolengg/；Pramendra Chaudhary（Director，IndiaMART）；Facebook: https://www.facebook.com/unitedcontrolengg；LinkedIn: https://www.linkedin.com/company/u-c-e-i-p-l；Instagram: https://www.instagram.com/unitedcontrolengg/；LinkedIn: https://www.linkedin.com/company/u-c-e-i-p-l/；LinkedIn: https://www.linkedin.com/company/united-control-engineers-india-pvt-ltd/

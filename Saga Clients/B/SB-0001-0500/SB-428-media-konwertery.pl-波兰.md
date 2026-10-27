@@ -204,13 +204,13 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 home：内容变化：+92 −91 行
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 home：内容变化：+106 −105 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-428/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.media-konwertery.pl/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 4238 字符；首行：Mediakonwertery, konwertery światłowodowe, konwerter, mediakonwerter • www.medi |
+| [home](https://www.media-konwertery.pl/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 4481 字符；首行：Mediakonwertery, konwertery światłowodowe, konwerter, mediakonwerter • www.medi |
 | [youtube](https://www.youtube.com/user/intercomppl) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-09-24T11:25:05+00:00 Hikvision DS-KV6124-WBE1 - stacja bramowa Hikvision Talk |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/InterCompPl；X/Twitter: https://twitter.com/InterCompPl

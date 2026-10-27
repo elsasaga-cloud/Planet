@@ -44,7 +44,7 @@
  "kp": [
   {
    "name": "Erkut Sevin",
-   "title": "（职务待核）",
+   "title": "销售邮箱联系人；个人推特 2018 起转发公司账号 → 疑为业主 / 核心人员（未证实）；本轮 1 次检索未能定位法人（「Konak」= 伊兹密尔区名，噪音大）→ 不再检索；Q-33 口径留档（第 88 批 官方登记核实 2026-10-27）",
    "email": "satis@konakguvenlik.com.tr",
    "phone": "",
    "source": "用户表"
@@ -59,7 +59,8 @@
  },
  "company_facts": {
   "hq": "土耳其",
-  "other": "官网 konakguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 konakguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "Konak Güvenlik（konakguvenlik.com.tr；法定全称 / Ticaret Sicil 未定位）（第 88 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "安防电商（报警 / 摄像机 / PoE）"

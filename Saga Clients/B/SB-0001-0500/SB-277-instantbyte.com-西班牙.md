@@ -190,14 +190,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 news_1：内容变化：+2044 −6 行
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 news_1：内容变化：+2049 −11 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-277/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.instantbyte.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 18072 字符；首行：Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax,  |
-| [news_1](https://www.instantbyte.com/blog/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 40726 字符；首行：Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, |
+| [home](https://www.instantbyte.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 18181 字符；首行：Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax,  |
+| [news_1](https://www.instantbyte.com/blog/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 40708 字符；首行：Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-22T16:00:40+00:00 Webinar Grandstream: videoporteros IP y control de acces |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/instantbyte；X/Twitter: https://twitter.com/InstantByte；LinkedIn: https://www.linkedin.com/company/10945975；Instagram: https://www.instagram.com/instantbyte_esp/

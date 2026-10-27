@@ -78,6 +78,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 88 批（Türkiye · LinkedIn 人物页（Ahmet Karcı：kurucu ortak / Firma Sahibi 2003-07 起）+ turkishyello / perpa.com.tr 名录 + 官网，2026-10-27 查；https://www.linkedin.com/in/ahmet-karci-09743337/）：**
+
+- 法定名 / 登记号：PELİKAN BİLGİSAYAR HİZMETLERİ İTHALAT İHRACAT（Pelikan Bilişim；Perpa） · Ticaret Sicili 未取（名录称 Şti.；法定全称 PELİKAN BİLGİSAYAR HİZMETLERİ İTHALAT İHRACAT …） · 状态 **Aktif（官网网店在线；Perpa 商城 A 座 4 层 271 号 + Şişli 仓库）** · 成立 2003-07 · Ltd. Şti.（推定）· 合伙创立（kurucu ortak）
+- 行业码 / 经营范围：IT / 电脑配件批发零售：DIGITUS 产品线为主（USB 串口 / HDMI / 网络配件），笔记本、耗材、OEM 配件，企业解决方案（防火墙 / 服务器 / 存储）；站内已有管理型 L2 PoE 交换机品类（研究档）
+- 注册地址：Perpa Ticaret Merkezi A Blok Sarı Avlu K:4 No:271, Okmeydanı-Şişli / İstanbul（旧址 Dereboyu Cad. No:60 Mecidiyeköy）
+- 规模档：微型（Perpa 电子商城档口 + 仓库；估 3–10 人）
+- 账目：无公开财报；—
+- 高管：Ahmet KARCI — Kurucu ortak / Firma Sahibi（2003-07 起，「tüm operasyonlar」）= 研究档 KP（ISAF 名片）→ **老板 = 联系人**
+- 控制人 / 股东：Ahmet Karcı（联合创始人 / 业主）
+- **这意味着什么：**
+  - **老板 = 联系人：Ahmet Karcı 是 Pelikan 的联合创始人兼业主（2003 起 22 年），Perpa 电子商城的 DIGITUS 配件经销档口，站内已有 L2 PoE 交换机类目** → 典型「配件批发商补交换机线」：分销 20% 档，主推 5/8 口桌面 PoE（STI-054GP / STC-028GP）+ 16/24 口机柜款，走 Perpa 档口批零；首触 WhatsApp（已加）发价格一页纸
+  - Perpa 商户价格敏感、现金流小：MOQ 1 箱、100% 预付、DAP 伊斯坦布尔走 Saga 百运网线；CE / RoHS
+  - 无年报；每年看网店类目是否仍列交换机
+- 备注：研究档 legal_name 可回填全称；founded 2003-07。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,15 +122,17 @@ updated: 2026-10-27
 - **【用户表】ISAF：给名片未交谈；WhatsApp 已加**
   > 没做交谈，给了名片 / 054176 47863 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ahmet Karcı（（ISAF 名片；职务待核））bilgi@pelikanbilgisayar.com（用户表） +90 541 764 78 63（公开，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ahmet Karcı（Kurucu ortak / Firma Sahibi（2003-07 起，「tüm operasyonlar」；LinkedIn）= **老板 = 联系人**；Perpa 电子商城 DIGITUS 配件经销档口 + Şişli 仓库（第 88 批 官方登记核实 2026-10-27））bilgi@pelikanbilgisayar.com（用户表） +90 541 764 78 63（公开，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（电商站核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Pelikan Bilgisayar İth. İhr. |
+| 法定名称 | PELİKAN BİLGİSAYAR HİZMETLERİ İTHALAT İHRACAT（Pelikan Bilişim；Perpa Ticaret Merkezi A Blok Sarı Avlu K:4 No:271, Şişli / İstanbul；旧址 Dereboyu Cad. No:60 Mecidiyeköy；Ticaret Sicil No 未取） |
+| 成立 | 2003-07（LinkedIn 创始人履历）（第 88 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Perpa Ticaret Merkezi A Blok Sarı Avlu K:4 No:271, Okmeydanı-Şişli / İstanbul（+90 541 764 78 63） |
+| 人数 | 微型（档口 + 仓库，估 3–10 人）（第 88 批 官方登记核实 2026-10-27） |
 | 其他 | Digitus 产品线为主；站内已有管理型 L2 PoE 交换机品类 |
 
 - **业务线**：IT 硬件/布线配件电商与批发（Digitus 等）；网络设备（PoE 交换机、KVM、延长器）
@@ -145,7 +162,7 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-187/`；本节随档案重渲染刷新，实时看日志。
 
@@ -165,7 +182,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ahmet Karcı | （ISAF 名片；职务待核） | bilgi@pelikanbilgisayar.com（用户表） / +90 541 764 78 63（公开，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ahmet Karcı | Kurucu ortak / Firma Sahibi（2003-07 起，「tüm operasyonlar」；LinkedIn）= **老板 = 联系人**；Perpa 电子商城 DIGITUS 配件经销档口 + Şişli 仓库（第 88 批 官方登记核实 2026-10-27） | bilgi@pelikanbilgisayar.com（用户表） / +90 541 764 78 63（公开，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Ahmet Karci | — | bilgi@pelikanbilgisayar.com / +05417647863 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

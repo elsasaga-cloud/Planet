@@ -259,15 +259,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 auto_youtube：新增 3 条：2026-10-25T14:22:17 USB-C to SFP Fiber Network Adapter \| 1 Gbps Ethernet up to 10 k
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 indiamart_minisite：内容变化：+7 −6 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-032/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [site_feed](https://sundartechno.com/feed/) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD |
 | [home](https://sundartechno.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 3744 字符；首行：Sundar Techno Solutions - Sundar Techno Solutions |
-| [indiamart_minisite](https://www.sundartechno.in/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 4934 字符；首行：Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengalu |
+| [indiamart_minisite](https://www.sundartechno.in/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 5052 字符；首行：Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengalu |
 | [auto_youtube](https://www.youtube.com/@SUNDARTECHNOSOLUTIONS) | youtube_handle | HTTP 200 | 2026-10-26T07:56:19Z | 15 条；最新：2026-10-25T14:22:17+00:00 USB-C to SFP Fiber Network Adapter \| 1 Gbps Ethernet up |
 | [feed_auto](https://sundartechno.com/feed/) | rss | HTTP 200 | 2026-10-23T04:57:18Z | 10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD |
 

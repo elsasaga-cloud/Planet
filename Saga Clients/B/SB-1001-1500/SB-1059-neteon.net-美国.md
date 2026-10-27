@@ -162,14 +162,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 sitemap：新增 97 条：2026-06-12T15:59:40 search；2026-06-12T15:59:40 moxa；2026-06-12T15:59:41 contact；20
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 sitemap：新增 97 条：2026-06-12T15:59:40 search；2026-06-12T15:59:40 moxa；2026-06-12T15:59:41 contact；20
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1059/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.neteon.net/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 10383 字符；首行：Your Partner for Industrial Digital Transformation \| Neteon |
-| [sitemap](https://www.neteon.net/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 177 个 URL；最新 lastmod 2026-10-20T04:36:15 |
+| [sitemap](https://www.neteon.net/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 177 个 URL；最新 lastmod 2026-10-20T04:36:15 |
 | [news_1](https://www.neteon.net/knowledge-base) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4745 字符；首行：Expert Insights, Case Studies and Resources \| Knowledge Hub \| Neteon |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/neteon/

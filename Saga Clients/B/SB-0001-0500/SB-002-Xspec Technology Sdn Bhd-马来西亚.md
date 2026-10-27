@@ -221,15 +221,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 auto_sitemap：更新 5 条：xspectechnology.com（2026-10-25 → 2026-10-26）；training（2026-10-25 → 2026-10-26）；news
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 auto_sitemap：更新 5 条：xspectechnology.com（2026-10-26 → 2026-10-27）；training（2026-10-26 → 2026-10-27）；news
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-002/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://xspectechnology.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 3772 字符；首行：XSPec Malaysia - Industrial Technology Catalog |
 | [security_cat](https://xspectechnology.com/category/military-defence-security) | html | HTTP 200 | 2026-10-23T02:54:23Z | 4198 字符；首行：Military, Defence & Security Brands - XSPec Malaysia |
-| [auto_sitemap](https://xspectechnology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 70 个 URL；最新 lastmod 2026-10-26 |
+| [auto_sitemap](https://xspectechnology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 70 个 URL；最新 lastmod 2026-10-27 |
 | [auto_news_1](https://xspectechnology.com/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3753 字符；首行：News & Insights - XSPec Malaysia |
 
 - **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/in/sugitowibawa/（CEO，1K followers，2026-05 仍活跃）；MINDTCE 2026-11-17/18 参展商页 mindtce.com.my/companyprofile/B2611000001；LinkedIn: https://www.linkedin.com/company/xspec-technology/

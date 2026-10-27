@@ -198,13 +198,13 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 home：内容变化：+60 −5 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-309/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.alternetivo.cz/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 13811 字符；首行：Alternetivo \| IT distributor \| Switching/routing, monitoring, síťová bezpečn |
+| [home](https://www.alternetivo.cz/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 13925 字符；首行：Alternetivo \| IT distributor \| Switching/routing, monitoring, síťová bezpečn |
 | [news_1](https://www.alternetivo.cz/default.asp?inc=inc/menu/b2btechn_info.htm) | html | HTTP 200 | 2026-10-23T04:20:51Z | 56913 字符；首行：Jazyk / Language EN |
 | [youtube](https://www.youtube.com/user/alternetivo1) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 2 条；最新：2011-01-04T09:12:15+00:00 Câble trop long? La solution Deskpatch... |
 

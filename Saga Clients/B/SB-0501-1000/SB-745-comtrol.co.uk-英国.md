@@ -86,6 +86,24 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 88 批（GB · Companies House 官方（search + /officers 页，2026-10-27 取；overview / PSC / accounts 未取 —— 额度用尽，下轮补），2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/09041682/officers）：**
+
+- 法定名 / 登记号：COMTROL UK LIMITED · 09041682 · 状态 **Active（同名 COMTROL GMBH 英国分支 BR008786 Bicester 与 FC026768 Zug 均已 Closed —— 老 Comtrol 瑞士 / 德国体系退出，现公司 2014 新设）** · 成立 2014-05-15 · Private limited company · 登记地址 168 Church Road, Hove BN3 2DL = 会计师 / 代理地址（9 名董事全用同一通讯地址 → 经营地另在）
+- 行业码 / 经营范围：（SIC 未取）官网：专业通信设备增值分销 30+ 年 —— 以太网交换机 / 媒体转换器 / 串口 / 光纤 / SFP / 定制设计；Omnitron 分销
+- 注册地址：168 Church Road, Hove, East Sussex BN3 2DL（代理地址）；「30+ 年」历史承自 Bicester 时代的 Comtrol 英国分支
+- 规模档：小型（分销 + 定制设计；人数未取）
+- 账目：未取（下轮 overview 页看 accounts_due / 规模）；待取
+- 高管：JONES, Timothy（1973-07 生）— Director：2014-05-15 创始董事 → 2020-02-03 辞任 → **2023-01-18 回任至今**；ID 核验到期 2026-11-03 = 研究档 KP Tim Jones（tim.jones@）→ **董事 / 共同创办人 = 联系人**
+- 高管：WESLEY, Nigel Robert（1957-04 生）— Director（2020-02→2022-07；2025-01-13 回任至今）
+- 高管：已辞：ELVIDGE Anthony（创始 2014→2020-02）、LAW Josephine（创始 2014→2020-02）、WAWRZESTA Louis（2020-02→2025-01）、FITZWILLIAMS Antoni（2021-04→2025-01）、RIISE Harald（挪威籍，2021-10→**2025-10-21**）
+- 控制人 / 股东：未取（下轮）；董事更替轨迹：2020-02 三创始人同日退 + 新班子进（= 股权变动 / MBO），2021 挪威籍董事进（= 北欧投资方），2023 Jones 回任，2025-01 班子再换、2025-10 挪威董事退 —— **2025 年又换了一次手 / 投资方退出**
+- 抵押 / 诉讼 / 担保：未取
+- **这意味着什么：**
+  - **联系人 Tim Jones = 创始董事，2020 退出、2023 回任，2025 公司再次换班（挪威投资方 2025-10 退出）—— 现在 Jones + Wesley 两人当家，正是「重新选供应商」的窗口** → 27 封群发只打开 2 封，但 2025-02 Elsa 的「16 口 DIN 工业交换机」信是他们栏目正中的题：下一封按 ㉝ 带那封主题，只写 Tim（董事），内容 = 工业 DIN PoE（STI 系列 3 年保）+ 媒体转换器 Saga 不供但交换机侧可整柜配 Omnitron 之外的第二货源；分销 20%
+  - 登记地址是代理地址 → 实际仓 / 办公另在；首单 T/T 50/50，UKCA + CE；DAP 英国走 Saga 百运网线；GB 周四 12–14
+  - 下轮补：overview（SIC / accounts_due / 规模）+ PSC（看 2025 新股东是谁）+ charges；复查 2027-01
+- 备注：研究档 legal_name 空 → 回填 COMTROL UK LIMITED；KP Tim Jones 职务回填 Director（2014 创始；2023 回任）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,14 +147,18 @@ updated: 2026-10-27
 - **【用户表】MC 光猫 工业 FS；多为 Omnitron**
   > MC 光猫 工业FS 很多是omnitron的产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Tim Jones（）tim.jones@comtrol.co.uk 〔用户表〕
+- **KP**：Timothy (Tim) Jones（）tim.jones@comtrol.co.uk 〔用户表〕
+- **KP**：Nigel Robert Wesley（Director（2020-02→2022-07；2025-01-13 回任至今；1957-04 生）= 与 Jones 共同当家（第 88 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/09041682/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | COMTROL UK LIMITED（Companies House 09041682；2014-05-15；登记地址 168 Church Road, Hove BN3 2DL = 代理地址；同名旧体系 COMTROL GMBH 英国分支 BR008786 Bicester / FC026768 Zug 均已 Closed；SIC / 账目 / PSC 下轮补） |
+| 成立 | 2014-05-15（现法人；「30+ 年」承自旧 Comtrol 英国分支）（第 88 批 官方登记核实 2026-10-27） |
 | 总部/地址 | 英国 |
+| 人数 | 小型（9 名董事进出，现 2 名在任；人数 / 账目未取）（第 88 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 comtrol.co.uk，语言 en-GB，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：专业通信设备增值分销（Omnitron 等）；定制设计 / 楼宇监测
@@ -222,7 +244,7 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-745/`；本节随档案重渲染刷新，实时看日志。
 
@@ -244,7 +266,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tim Jones | — | tim.jones@comtrol.co.uk | 调研核实（公开页） | 用户表 |
+| Timothy (Tim) Jones | — | tim.jones@comtrol.co.uk | 调研核实（公开页） | 用户表 |
+| Nigel Robert Wesley | Director（2020-02→2022-07；2025-01-13 回任至今；1957-04 生）= 与 Jones 共同当家（第 88 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/09041682/officers |
 | Tim | — | sales@comtrol.co.uk / tim.jones@comtrol.co.uk | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

@@ -91,6 +91,21 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 88 批（Polska · CEIDG 镜像（krs-online：NIP / REGON / PKD / 成立年 / 决策人）+ 官网 contact + pasaz24 店铺页（法定名），2026-10-27 查；https://www.krs-online.com.pl/firma/1534070-is-networks）：**
+
+- 法定名 / 登记号：IS NETWORKS Marek Kubas（个体工商户 / jednoosobowa działalność） · NIP 8130069738 · REGON 690005253（CEIDG 个体，无 KRS） · 状态 **Aktywna（官网 + 网店在线）** · 成立 1996 · 个体工商户（IS NETWORKS Marek Kubas）· 老板一人承担无限责任
+- 行业码 / 经营范围：PKD 43.21.Z 电气安装（实际：IT / 电信基础设施 + 网络设备 —— 布线、网络工程 + 网店 sklep@isnetworks.pl）
+- 注册地址：ul. Warszawska 24, 35-205 Rzeszów（喀尔巴阡山省）
+- 规模档：微型（个体户 + 少量雇员，Rzeszów）
+- 账目：个体户无公开财报（CEIDG 不公示营收）；PL 个体 PIT 年报 4-30
+- 高管：Marek KUBAS — 业主（CEIDG 决策人；官网 / 网店法定名 IS NETWORKS Marek Kubas）= 研究档 KP Marek（marek@is-net.pl）→ **老板 = 联系人**
+- 控制人 / 股东：Marek Kubas 100%（个体）
+- **这意味着什么：**
+  - **老板 = 联系人：Marek = Marek Kubas，1996 年起在热舒夫做网络工程 + 网店的个体户；2026-02-09 他对 CENTEC 核心信回「Interesting item… technical par. & prices」，Alan 答「2026 价格还在定」之后我们再没给价 = 我方欠一张价表** → 对表信由 Alan 按欠答开场直接补 CENTEC 价（STH-2C24XF-HSI $1,500 / 2C6QX $1,200 起，附参数表），再带一句 Marvell 10G 款；个体户 = 项目型小量，CENTEC 一台也卖
+  - 波兰个体户付款：100% 预付或 50/50，不给账期；CE / RoHS；DAP Rzeszów 走 Saga 百运网线；PL 周四 12–14 发信
+  - 无年报可复查；每年看网店是否在线
+- 备注：研究档 legal_name 空 → 回填；KP Marek 补姓 Kubas。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,14 +148,17 @@ updated: 2026-10-27
 - **【用户表】工业 FS MC SFP，用了 nnet 的**
   > 工业FS MC SFP；用了nnet的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marek（）marek@is-net.pl 〔用户表〕
+- **KP**：Marek Kubas（）marek@is-net.pl 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | IS NETWORKS Marek Kubas（jednoosobowa działalność gospodarcza；NIP 8130069738 · REGON 690005253；1996；ul. Warszawska 24, 35-205 Rzeszów；PKD 43.21.Z；网店 isnetworks.pasaz24.pl） |
+| 成立 | 1996（CEIDG 镜像）（第 88 批 官方登记核实 2026-10-27） |
 | 总部/地址 | 波兰 |
+| 人数 | 微型（个体户 + 少量雇员）（第 88 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 isnetworks.pl，语言 en-GB，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：计算机网络设计与组装服务；工业交换机 / 转换器 / 光纤产品销售
@@ -214,7 +232,7 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-246/`；本节随档案重渲染刷新，实时看日志。
 
@@ -239,7 +257,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marek | — | marek@is-net.pl | 调研核实（公开页） | 用户表 |
+| Marek Kubas | — | marek@is-net.pl | 调研核实（公开页） | 用户表 |
+| Marek | — | marek@is-net.pl / biuro@is-net.pl | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

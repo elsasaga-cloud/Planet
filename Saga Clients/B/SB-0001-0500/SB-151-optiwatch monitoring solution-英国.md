@@ -97,12 +97,13 @@ updated: 2026-10-27
 - 账目：小微账目（下期至 2026-05-31，2027-02-28 到期）；数字需 filing-history iXBRL（不取）；2027-02-28（账目）/ 2027-01-20（确认声明）
 - 高管：CHEGE, Timothy Mathangani — Director（2015-05-18 创立；2020-06 → 2022-10 短暂退出后 2022-10-01 复任；1975-06 生；肯尼亚籍居英；2026-01 身份已核）= 研究档 KP Tim Chege → **老板 = 联系人**
 - 高管：已离任：Faith Mathangani（Secretary 2016–2020 → Director 2020-06 → 2023-07；家属）、Francis Mwangi Wairegi（Director 2017-12 → 2020-02）、Nelson Kaamuli（Director 2024-10-31 → 2024-12-13，仅 6 周）
-- 控制人 / 股东：待取（/persons-with-significant-control）；推定 Chege
+- 控制人 / 股东：Timothy Mathangani CHEGE — 唯一 PSC，持股 + 表决权 ≥75%（2022-10-01 通知；2016-04 → 2021-06 亦为 PSC，中间 2021-06 → 2022-11 由 Faith Mathangani 持 ≥75%）→ 老板 = 联系人 确认（第 88 批补取）
 - 抵押 / 诉讼 / 担保：未取
 - **这意味着什么：**
   - **老板 = 联系人（Tim Chege，一人董事；董事名单 6 进 6 出，2024 年底还有一位只待了 6 周）** → 典型「一人安防服务商」：需求是项目配套 PoE（4–16 口非管理 / 轻管理），集成 25% 但量小 → 零售档起；UKCA + CE，DAP 伦敦走 Saga 百运网线，100% 预付 MOQ 1 箱
   - 2020-06 → 2022-10 创始人曾退出董事会（家属顶上）再回来 → 公司经历过停摆 / 重组；只做小额现金单
   - 复查：2027-02-28 账目到期后看是否仍 Active
+  - 第 88 批补核：PSC ≥75% = Chege 本人（2021–2022 曾把股权转给家属又转回）→ 一人公司无疑，决策链 = Tim Chege 一个人
 - 备注：PSC 未取。
 
 ## 基本事实（事实/推断/假设分层）
@@ -159,7 +160,7 @@ updated: 2026-10-27
 | 法定名称 | OPTIWATCH LTD（Companies House 09595034；2015-05-18；Unit 5 Martinbridge Trading Estate, Lincoln Road, Enfield EN1 1SP（真实工业园地址）；SIC 80200；账目至 2025-05-31 已报，下期 2027-02-28 到期） |
 | 总部/地址 | Unit 5, Martinbridge Trading Estate, 240-242 Lincoln Road, Enfield EN1 1SP, UK（+44 20 8443 0077；marketing@optiwatchgroup.com） |
 | 人数 | 微型（1 名董事；小微账目）（第 87 批 官方登记核实 2026-10-27） |
-| 其他 | 创办人 Tim Chege；Optimum Group 成员；24/7 自营监控中心；主攻建筑工地 |
+| 其他 | 创办人 Tim Chege；Optimum Group 成员；24/7 自营监控中心；主攻建筑工地；PSC 页（2026-10-27）：Timothy Mathangani Chege ≥75% 股权 + 表决权（2022-10-01 起；2016-04→2021-06 曾持 ≥75%，2021-06→2022-11 由 Faith Mathangani 持 ≥75%）→ 一人公司坐实（第 88 批 官方登记核实 2026-10-27） |
 
 - **业务线**：建筑工地远程视频监控（AI 检测 + 喊话 + 虚拟巡更）；远程门禁 / 入侵检测 / 火灾预防监控（守界：火灾主系统不供）；钥匙托管、报警响应、巡逻与驻守
 - **触达通道（公开）**：网站: https://optiwatchgroup.com/；电话: +44 20 8443 0077（官网公开）；邮箱（公开）: marketing@optiwatchgroup.com；LinkedIn: https://www.linkedin.com/company/optiwatchlimited
@@ -231,13 +232,13 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-151/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://optiwatchgroup.com/) | html | ConnectionError: HTTPSConnectionPool(host='optiwatchgroup.co | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 http_error） |
+| [home](https://optiwatchgroup.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 11519 字符；首行：Remote Monitoring Solutions \| Construction Site Security \| Optiwatch Limited |
 
 ## 联系方式（已有 · 原值照录）
 

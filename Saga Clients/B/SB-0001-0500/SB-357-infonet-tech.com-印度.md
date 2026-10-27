@@ -179,15 +179,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 news_1：内容变化：+4 −4 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 news_1：内容变化：+17 −17 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-357/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://infonet-tech.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 9260 字符；首行：Infonet Technology \| Gas Station & C-Store POS System |
+| [home](https://infonet-tech.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 7844 字符；首行：Infonet Technology \| Gas Station & C-Store POS System |
 | [sitemap](https://infonet-tech.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://infonet-tech.com/blog) | html | HTTP 200 | 2026-10-26T07:56:19Z | 7684 字符；首行：Infonet Blog \| Fuel Retail & Gas Station Industry News |
+| [news_1](https://infonet-tech.com/blog) | html | HTTP 200 | 2026-10-27T08:02:45Z | 7650 字符；首行：Infonet Blog \| Fuel Retail & Gas Station Industry News |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCVo77B0JUT5m9kEUMSo7jJQ) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 6 条；最新：2021-09-13T19:57:11+00:00 Carwacs Show |
 
 - **人工定期看（登录墙，不自动抓）**：X/Twitter: https://twitter.com/InfonetTech1；LinkedIn: http://www.linkedin.com/company/infonet-technology-corporation；Facebook: https://www.facebook.com/infonettechcorp/

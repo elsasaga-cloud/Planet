@@ -36,7 +36,7 @@
  "kp": [
   {
    "name": "Ahmet Karcı",
-   "role": "（ISAF 名片；职务待核）",
+   "role": "Kurucu ortak / Firma Sahibi（2003-07 起，「tüm operasyonlar」；LinkedIn）= **老板 = 联系人**；Perpa 电子商城 DIGITUS 配件经销档口 + Şişli 仓库（第 88 批 官方登记核实 2026-10-27）",
    "email": "bilgi@pelikanbilgisayar.com（用户表）",
    "phone": "+90 541 764 78 63（公开，WhatsApp 已加）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -50,10 +50,12 @@
   "level": "B 级加厚 v1（电商站核对）"
  },
  "company_facts": {
-  "legal_name": "Pelikan Bilgisayar İth. İhr.",
+  "legal_name": "PELİKAN BİLGİSAYAR HİZMETLERİ İTHALAT İHRACAT（Pelikan Bilişim；Perpa Ticaret Merkezi A Blok Sarı Avlu K:4 No:271, Şişli / İstanbul；旧址 Dereboyu Cad. No:60 Mecidiyeköy；Ticaret Sicil No 未取）",
   "hq": "Perpa Ticaret Merkezi A Blok Sarı Avlu K:4 No:271, Okmeydanı-Şişli / İstanbul（+90 541 764 78 63）",
   "size": "小型（Perpa 档口 + 仓库）",
-  "other": "Digitus 产品线为主；站内已有管理型 L2 PoE 交换机品类"
+  "other": "Digitus 产品线为主；站内已有管理型 L2 PoE 交换机品类",
+  "founded": "2003-07（LinkedIn 创始人履历）（第 88 批 官方登记核实 2026-10-27）",
+  "staff": "微型（档口 + 仓库，估 3–10 人）（第 88 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "IT 硬件/布线配件电商与批发（Digitus 等）",

@@ -197,16 +197,16 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 news_1：内容变化：+452 −279 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 feed_auto：新增 1 条：Mon, 26 Oct 2026 10 What Is Fibre Polarity and Why Does It Matter?
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-652/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://comxus.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 20758 字符；首行：Comxus \| Complete Networking Solutions For Harsh Environment |
+| [home](https://comxus.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 20760 字符；首行：Comxus \| Complete Networking Solutions For Harsh Environment |
 | [sitemap](https://comxus.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://comxus.com/knowledge-hub/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 16754 字符；首行：Knowledge Hub - COMXUS |
-| [feed_auto](https://comxus.com/feed/) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 10 条；最新：Fri, 23 Oct 2026 10:34:30 Data Centre Network Infrastructure Costs: What Affects t |
+| [news_1](https://comxus.com/knowledge-hub/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 16754 字符；首行：Knowledge Hub - COMXUS |
+| [feed_auto](https://comxus.com/feed/) | rss | HTTP 200 | 2026-10-27T08:02:45Z | 10 条；最新：Mon, 26 Oct 2026 10:30:00 What Is Fibre Polarity and Why Does It Matter? |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/comxusofficial/；Instagram: https://www.instagram.com/comxusofficial/；LinkedIn: https://www.linkedin.com/company/comxus
 

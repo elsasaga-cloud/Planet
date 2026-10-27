@@ -205,16 +205,16 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 news_2：内容变化：+2 −153 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 news_2：内容变化：+153 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-618/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://jeatech.com.au/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 73 字符；首行：One moment, please... |
-| [sitemap](https://jeatech.com.au/sitemap_index.xml) | sitemap | HTTP 403 | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 306 条） |
-| [news_1](https://jeatech.com.au/news/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 73 字符；首行：One moment, please... |
-| [news_2](https://jeatech.com.au/case-studies/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 73 字符；首行：One moment, please... |
+| [home](https://jeatech.com.au/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 6970 字符；首行：Home - JEA Technologies |
+| [sitemap](https://jeatech.com.au/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://jeatech.com.au/news/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 3686 字符；首行：News - JEA Technologies |
+| [news_2](https://jeatech.com.au/case-studies/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 3506 字符；首行：Case Studies - JEA Technologies |
 
 ## 联系方式（已有 · 原值照录）
 

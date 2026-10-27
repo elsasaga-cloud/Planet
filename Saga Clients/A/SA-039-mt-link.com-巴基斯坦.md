@@ -235,14 +235,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 HTTP 500）
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-039/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://mt-link.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7333 字符；首行：MT-Link – Products manufacturer of wireless networking products, Switches, 3G R |
-| [sitemap](https://mt-link.com/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [home](https://mt-link.com/) | html | ConnectTimeout: HTTPSConnectionPool(host='mt-link.com', port | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://mt-link.com/wp-sitemap.xml) | sitemap | ConnectTimeout: HTTPSConnectionPool(host='mt-link.com', port | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 216 条） |
 | [youtube](https://www.youtube.com/@mtlinkpakistan) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-16T06:00:32+00:00 Boost home office speed to 1200Mbps with the versatile,  |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/mtlinkpakistan/；Instagram: https://www.instagram.com/mtlink_pakistan；X/Twitter: https://x.com/mtlinkpakistan；WhatsApp: https://wa.me/+923179995719

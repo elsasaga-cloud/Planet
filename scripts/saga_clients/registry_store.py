@@ -42,6 +42,7 @@ SOURCES = {
     'sk': ('sk_orsr', 'Slovensko · ORSR / FinStat（官方登记 + 公开财报）'),
     'no': ('no_brreg', 'Norge · Brønnøysundregistrene（官方 API）'),
     'nl': ('nl_kvk', 'Nederland · KvK Handelsregister（镜像 drimble / transfirm）'),
+    'rs': ('rs_apr', 'Srbija · APR（companywall / cubepartner / bisnode 镜像）'),
     'ua': ('ua_edr', 'Україна · ЄДР（youcontrol 镜像）'),
     'kr': ('kr_registry', '대한민국 · 사업자등록 / 名錄摘要（DART 僅上市）'),
     'il': ('il_registrar', 'ישראל · רשם החברות（名錄摘要）'),

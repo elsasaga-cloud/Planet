@@ -194,14 +194,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 sitemap：新增 108 条： 2070lx-controller； xn-its-controller； xn-1-controller； xn-2-controller； 2070-1c-
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 sitemap：新增 108 条： 2070lx-controller； xn-its-controller； xn-1-controller； xn-2-controller； 2070-1c-
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-555/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.tacel.ca/en) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6745 字符；首行：Tacel - Traffic Management & Road Safety Solutions |
-| [sitemap](https://www.tacel.ca/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 188 个 URL；最新 lastmod 2026-10-15T00:00:00 |
+| [sitemap](https://www.tacel.ca/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 188 个 URL；最新 lastmod 2026-10-15T00:00:00 |
 | [news_1](https://www.tacel.ca/en/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3485 字符；首行：Tacel News |
 | [news_2](https://www.tacel.ca/en/events) | html | HTTP 200 | 2026-10-23T04:20:51Z | 13598 字符；首行：Events & Installations \| Tacel |
 | [youtube](https://www.youtube.com/@tacelltd) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 6 条；最新：2026-07-29T15:50:50+00:00 Polara iDS & iNS APS \| Touchless Wave-to-Cross Pedestria |

@@ -199,14 +199,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 home：内容变化：+497 −1 行
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 feed_auto：新增 1 条：Tue, 27 Oct 2026 04 Firewall for Security Camera Network Setup
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-793/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://worldstarsecuritycameras.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 50895 字符；首行：Wholesale Security Cameras & Installation \| Worldstar |
-| [feed_auto](https://worldstarsecuritycameras.com/feed/) | rss | HTTP 200 | 2026-10-26T07:56:19Z | 10 条；最新：Fri, 23 Oct 2026 04:04:35 How to Troubleshoot PoE Switch Failures Fast |
+| [home](https://worldstarsecuritycameras.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 50886 字符；首行：Wholesale Security Cameras & Installation \| Worldstar |
+| [feed_auto](https://worldstarsecuritycameras.com/feed/) | rss | HTTP 200 | 2026-10-27T08:02:45Z | 10 条；最新：Tue, 27 Oct 2026 04:01:43 Firewall for Security Camera Network Setup |
 
 ## 联系方式（已有 · 原值照录）
 

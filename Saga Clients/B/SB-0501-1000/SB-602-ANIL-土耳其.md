@@ -161,15 +161,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 news_2：内容变化：+103 −1 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 news_2：内容变化：+103 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-602/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://aniltelekom.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 7895 字符；首行：Anıl Telekom |
-| [news_1](https://aniltelekom.com/tr/haberler) | html | HTTP 200 | 2026-10-26T07:56:19Z | 4221 字符；首行：Anıl Telekom Haberler - Anıl Telekom |
-| [news_2](https://aniltelekom.com/tr/blog/genel) | html | HTTP 200 | 2026-10-26T07:56:19Z | 18735 字符；首行：Genel - Blog - Anıl Telekom |
+| [news_1](https://aniltelekom.com/tr/haberler) | html | HTTP 200 | 2026-10-27T08:02:45Z | 4219 字符；首行：Anıl Telekom Haberler - Anıl Telekom |
+| [news_2](https://aniltelekom.com/tr/blog/genel) | html | HTTP 200 | 2026-10-27T08:02:45Z | 18733 字符；首行：Genel - Blog - Anıl Telekom |
 | [youtube](https://www.youtube.com/@aniltelekom) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2025-04-12T10:10:37+00:00 2025 Ruijie & Reyee Global İş Ortakları Zirvesi |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/aniltelekomunikasyon/；LinkedIn: https://www.linkedin.com/company/an%C4%B1l-telekom；LinkedIn: https://www.linkedin.com/company/an%C4%B1l-telekom/

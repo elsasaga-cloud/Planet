@@ -239,16 +239,16 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-26T07:56:19Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 news_2：内容变化：+1 −1 行
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-163/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://skeo.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5447 字符；首行：СКЕО - оборудование связи. |
-| [sitemap](https://skeo.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-26T07:56:19Z | 738 个 URL；最新 lastmod 2023-05-26T13:09:20 |
+| [sitemap](https://skeo.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 738 个 URL；最新 lastmod 2023-05-26T13:09:20 |
 | [news_1](https://skeo.ru/news) | html | HTTP 200 | 2026-10-26T07:56:19Z | 4913 字符；首行：Новости |
-| [news_2](https://skeo.ru/articles) | html | HTTP 200 | 2026-10-26T07:56:19Z | 4653 字符；首行：Технические материалы |
+| [news_2](https://skeo.ru/articles) | html | HTTP 200 | 2026-10-27T08:02:45Z | 4623 字符；首行：Технические материалы |
 | [vk](https://vk.com/nposkeo) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCU8lAUnPr5cC0O3yjcB1rWg) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 4 条；最新：2017-08-24T14:51:35+00:00 Юстировочный механизм Fiberfox Mini 4S |
 

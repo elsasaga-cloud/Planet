@@ -35,17 +35,31 @@
  "kp": [
   {
    "name": "C. DiPrima",
-   "title": "（职务待核）",
+   "title": "员工（非董事 / 非 PSC；Companies House 05386276 董事仅 Ballard 夫妇）—— 25 封群发收件人之一，0 回（第 88 批 官方登记核实 2026-10-27）",
    "email": "cdiprima@silvernet.com",
    "phone": "",
    "source": "用户表"
   },
   {
    "name": "K. Newton",
-   "title": "（职务待核）",
+   "title": "员工（非董事 / 非 PSC）—— 25 封群发收件人之一，0 回（第 88 批 官方登记核实 2026-10-27）",
    "email": "knewton@silvernet.com",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "Christopher Roland Ballard",
+   "role": "Director（2005-03-09 创立至今，1973-10 生，身份已核）+ PSC 持股 50–75% = **老板 = 该写的人**（我们 25 封都寄给了员工）（第 88 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/05386276/persons-with-significant-control"
+  },
+  {
+   "name": "Mandy Joyce Ballard",
+   "role": "Secretary + PSC 持股 25–50%（1970-08 生；配偶）—— 不必抄送（第 88 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/05386276/officers"
   }
  ],
  "grade_override": null,
@@ -57,7 +71,11 @@
  },
  "company_facts": {
   "hq": "英国",
-  "other": "官网 silvernet.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "other": "官网 silvernet.com，语言 ?，快照状态 http_error；角色判定来源：待核",
+  "legal_name": "SILVERNET LIMITED（Companies House 05386276；2005-03-09 成立，原名 COMPLETE SECURITY SOLUTIONS LIMITED 至 2005-05-11；19 Presley Way, Crownhill, Milton Keynes MK8 0ES；SIC 26309 通信设备制造；账目至 2025-11-30 已报，下期 2027-08-31；有 charges 记录）",
+  "founded": "2005-03-09（Companies House）（第 88 批 官方登记核实 2026-10-27）",
+  "staff": "家族制造小厂（夫妻 100% 持股：Chris >50% + Mandy 25–50%）；自有品牌无线 + PoE 交换机（第 88 批 官方登记核实 2026-10-27）",
+  "size": "小型（家族企业；人数未公示）（第 88 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "无线 / 工业网络产品（自有品牌 Silvernet）"

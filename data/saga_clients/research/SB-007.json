@@ -18,8 +18,8 @@
  ],
  "kp": [
   {
-   "name": "Sergiy Khodun",
-   "role": "Deutsche Import 负责人 / 唯一来信人（2024-11 发 DI order #1 样品单，NSI- 贴牌型号表）",
+   "name": "Sergiy Khodun（Ходун Сергій Олександрович）",
+   "role": "Керівник + 唯一 засновник（ЄДРПОУ 40277067，2016-02-15 起）= **老板 = 联系人**；但公司身份 = PLANET 乌克兰官方进口商且对外卖点「台湾产、非中国大陆」→ 与我们天然冲突，留档不追（第 88 批 官方登记核实 2026-10-27）",
    "email": "sergiy.khodun@gmail.com",
    "phone": "",
    "source": "S 邮箱 2024 来信表头 + 附件 DI order #1.xls"
@@ -33,10 +33,12 @@
   "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；乌克兰守界）"
  },
  "company_facts": {
-  "legal_name": "Germany24 / planet.kiev.ua 运营主体（待核）",
+  "legal_name": "ТОВ «ДОЙЧ ІМПОРТ»（LLC \"DEUTSCHE IMPORT\"；ЄДРПОУ 40277067；2016-02-15；Київ, вул. Анни Ахматової；статутний капітал 1,000 UAH；КВЕД 46.90；品牌 Germany24 / planet.kiev.ua）",
   "hq": "Kyiv, Ukraine（+380 44 593 7976，WA 加不上）",
-  "size": "待核",
-  "other": "域名 planet.kiev.ua 表明其为 PLANET 品牌在乌克兰的经销/推广站；S 重点名单；22 次跟进、1 次实质回复"
+  "size": "微型（第 88 批 官方登记核实 2026-10-27）",
+  "other": "域名 planet.kiev.ua 表明其为 PLANET 品牌在乌克兰的经销/推广站；S 重点名单；22 次跟进、1 次实质回复",
+  "founded": "2016-02-15（ЄДР）（第 88 批 官方登记核实 2026-10-27）",
+  "staff": "微型（一人 ТОВ；资本 1,000 UAH）（第 88 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "网络设备经销（PLANET 线）",
