@@ -71,3 +71,12 @@
 ## 6. 开爬后的第一个回合会做什么（供你有数）
 
 Edgecore 157 + mik 747 一次抽完（结构化，快），同步建 `data/external_clients/`、总索引、与 Saga Clients 的重叠标记；CCTV 第二回合起。步骤 2 定级在三库都进库后一次做。公司底数第 92 批和针对性加厚在这期间继续停。
+
+## 7. 执行记录（第 1 步，2026-10-27 T29-U77 起）
+
+Simon 对 §5 十问的答复见 `docs/requirements/待统一处理问题清单.md` Q-68 与 `对话全记录.md` T29-U77。与草案不同之处（以 Simon 为准）：
+- 目录**按库分开，每库各自 A/B/C**（草案 §4 的「全局一套号」作废）；编号改为 `X<等级>-<库字母><序号>`：`XA-E001`（Edgecore）/ `XA-M001`（mikrotik-info）/ `XA-C001`（CCTV-PoE），每库独立起号，一次分配永不重排。
+- 大陆公司**不进库**（草案 §2 的「进库打标记 → XC」作废），抽取时标 DELETE 留痕于 JSON。
+- 已发轮次对账不作为第 1/2 步任务，只把 S 箱群发对账结果写进每户「已知触达」。
+
+第 1 步结果：Edgecore 157 = XA 27 / XB 92 / XC 38；mikrotik-info 747 = XA 508 / XB 174 / XC 65；CCTV 待导入。索引 `External Clients/00-总索引.md`；脚本 `scripts/external_clients/`；数据 `data/external_clients/`。
