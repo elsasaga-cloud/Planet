@@ -98,6 +98,25 @@ updated: 2026-10-27
 - **同国同档参照（US，20% 档、主推线「工业 2.5G PoE 管理型」，共 1 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同档：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **21 票**（07/2018-10/2025）；最近一票 **10/13/2025**。[公司页](https://www.importyeti.com/company/52-networks)（synced 10/21/2026）
+- **中国占比**：100%（21/21 中国，全部整柜）
+- **主要发货人**（票数 · 品名）：
+  - RTT Link Technology（China (Guangzhou Baiyun)）· 9 票 · network cable (HS 8544.49)
+  - Integrity Cable / Integrity Cableco（China (Shenzhen Guangming)）· 9 票 · network cable
+  - Suining Bright Trade（China）· 2 票 · poly mailers, packaging
+  - SZ Xushun Sheng Technology（China (Shenzhen Guangming)）· 1 票 · network cable
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2025-10-13 · SZ Xushun Sheng · 18,066 kg 1,172 ctn (1 FCL) · network cable
+  - 2025-03-11 · Integrity Cableco · 18,748 kg 1,242 ctn · network cable
+  - 2024-10-24 · Integrity Cable · 21,382 kg 1,392 ctn · network cable
+  - 2024-06-12 · Integrity Cable · 18,880 kg 1,252 ctn · network cable
+  - 2024-03-27 · (CMA CGM) · FCL · network cable
+- **对 Saga 的含义**：每年 2～3 个整柜（约 18～21 吨/柜）的网线，从深圳光明/广州白云直发；是『已经有自己整柜渠道的进口商』——加几箱交换机进整柜的边际运费≈0，这是最硬的切入理由；最近一柜 2025-10-13
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

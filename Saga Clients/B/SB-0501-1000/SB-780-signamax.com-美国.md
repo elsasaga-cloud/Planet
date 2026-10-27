@@ -75,6 +75,29 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「工业 非PoE 非管理」，共 9 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **621 票**（01/2015-10/2026）；最近一票 **10/07/2026**；月均 3.35 TEU；LCL 596 / FCL 25；到港 Miami 80% / Savannah 14%。[公司页](https://www.importyeti.com/company/signamax)（synced 10/21/2026）
+- **中国占比**：中国 ≈48/621（ONV 35 + Foconec 13）；主体台湾
+- **主要发货人**（票数 · 品名）：
+  - Jye Juann Technology（Taiwan）· 237 票 · modular accessories, networking, STC(?) modular
+  - Surtec Industries（Taiwan）· 170 票 · keystone jacks, patch panels, plugs
+  - YFC Boneagle Electric（Taiwan）· 79 票 · LAN cable connectors
+  - Optical Network Video Technologies（ONV 光网视）（China (Dongguan Dalang / Xinghe)）· 35 票 · ETHERNET SWITCH / PoE SWITCH (HS 8517.62 / 8536.50)
+  - Etherwan Systems（Taiwan）· 32 票 · industrial networking, media converter chassis
+  - Qingdao Foconec Technologies（China）· 13 票 · rack-mount fiber enclosures
+  - Orel Corp（Sri Lanka）· 12 票 · Signamax metal enclosures
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2026-10-07 · Surtec (TW) · 2,207 kg 232 ctn · modular accessories
+  - 2026-09-25 / 09-09 / 09-04 · Surtec · 1,002 / 737 / 742 kg · modular accessories
+  - 2026-09-05 · Orel (LK) · 1,978 kg 34 ctn · metal enclosures
+  - 2026-08-25 / 08-10 / 07-28 / 07-08 / 06-12 · Jye Juann (TW) · 1,361 / 2,518 / 2,299 / 3,767 / 2,147 kg · networking modular accessories
+  - 2026-07-12 · ONV (CN) · 1,032 kg 58 ctn · Ethernet switch
+- **ONV 票数**：[['2026-07-12', '1,032 kg 58 ctn', 'Ethernet switch (ONV, Xinghe)']]
+- **对 Saga 的含义**：Signamax 的以太网/PoE 交换机 OEM 来自 ONV（光网视）——35 票、最近一票 2026-07-12；工业交换机走 Etherwan（台湾）；他们月均 3.35 TEU、几乎全 LCL 到迈阿密 → 已习惯中国拼箱；切入点 = ONV 没有的 Marvell 管理型/L3 与 2.5G
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

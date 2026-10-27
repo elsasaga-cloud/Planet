@@ -75,6 +75,28 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「商用 10G PoE 管理型」，共 10 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同线：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SB-831 actelis.com（B，同档同线：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **17 票**（03/2015-08/2026）；最近一票 **08/14/2026**；月均 0.53 TEU；ImportYeti 估算海运费累计 $27,122 (94%)（不是货值）。[公司页](https://www.importyeti.com/company/mako-networks-sales-marketing)（synced 10/21/2026）
+- **中国占比**：交换机 15/16 台湾 Emplus，中国 ONV 仅 1 票试单（2020-04）
+- **主要发货人**（票数 · 品名）：
+  - Emplus Technologies（台湾 ODM，Senao/EnGenius 系）（Taiwan）· 15 票 · Mako 贴牌 PoE 管理交换机 + AP：'24-Port Gigabit PoE Managed Switch with 4 SFP slots' 720 ctn 10,250 kg（2025-08-07）；'48-Port Gigabit PoE Managed Switch' 500 ctn 6,330 kg（2025-08-19）；2025-04 三票 884+620+360 ctn；2026-03-09 167 ctn；2026-06-18 540 ctn 7,763 kg；2026-08-14 AP 200 ctn
+  - Optical Network Video Technologies（ONV 光网视）（China）· 1 票 · PoE Switch 375 kg 18 ctn（2020-04-10，一次性试单）
+  - GPC Electronics Asia（China (Xiamen)）· 1 票 · WiFi router 2015-03
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2026-08-14 · Emplus TW · 2,410 kg 200 ctn · access points
+  - 2026-06-18 · Emplus TW · 7,763 kg 540 ctn · 24-port PoE managed switch w/ SFP
+  - 2026-03-09 · Emplus TW · 2,655 kg 167 ctn · switch
+  - 2025-09-19 · Emplus TW · 2,414 kg 201 ctn · switch + AP
+  - 2025-08-19 · Emplus TW · 6,330 kg 500 ctn · 48-port PoE managed switch
+  - 2025-08-07 · Emplus TW · 10,250 kg 720 ctn · 24-port PoE managed switch 4 SFP
+  - 2025-04-12/14/21 · Emplus TW · 8,042+12,009+5,196 kg · switches + AP（三票 1,864 ctn）
+  - 2020-04-10 · ONV 光网视 · 375 kg 18 ctn · PoE switch（唯一中国交换机试单）
+- **ONV 票数**：1
+- **对 Saga 的含义**：Mako（新西兰 SD-WAN 厂商）的 PoE 管理交换机 2020 年起由台湾 Emplus 贴牌，2025-04 以来放量（2025 年 ≥ 3,200 ctn，2026 已 3 票 ~900 ctn）；2020-04 曾试过 ONV 一票 18 箱后没再续 → 他们『试过中国 PoE 交换机、最后选台湾 ODM』：Saga 的切入只能是价格差 + Marvell 管理型替代 Emplus 24/48 口 PoE 款（STI-42424XGGPM / STC-448XGGPM 对位），且要过 Mako 云管理固件适配这一关
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

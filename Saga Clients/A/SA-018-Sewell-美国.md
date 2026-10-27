@@ -73,6 +73,31 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档，共 9 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **185 票**（01/2015-10/2026）；最近一票 **10/14/2026**；月均 2.78 TEU；ImportYeti 估算海运费累计 $302,233 (46% coverage)（不是货值）。[公司页](https://www.importyeti.com/company/sewell-development)（synced 10/21/2026）
+- **中国占比**：≈96% 中国（185 票里仅 Ten Tronics 台湾 8 票）
+- **主要发货人**（票数 · 品名）：
+  - Ningbo Fenghua Yuelin Shuguang（China）· 38 票 · audio plugs, speaker connectors, flat speaker cable
+  - Dongguan Weisheng Shoes Factory (拼箱代理)（China）· 15 票 · speaker cable, HDMI AOC, USB-serial, power cords — mixed consol
+  - Ningbo ETDZ Holdings（China）· 11 票 · communication cable, speakers
+  - Hangzhou Huier Cable（China）· 10 票 · communication cable
+  - Ten Tronics（Taiwan）· 8 票 · repeater kits, receivers
+  - Ningbo Haishu Huada Sound Equipment（China）· 7 票 · speaker terminals
+  - Hejia Industrial Hong Kong（China (Zhongshan)）· 7 票 · banana plugs, HDMI/USB extenders
+  - Shenzhen Kuncan Electronics（China）· ≥1 票 · banana plugs 2024-02-28
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2025-01-18 · Ningbo Haishu Huada · 519 kg 49 ctn · speaker terminal cups; est. freight $46
+  - 2025-01-03 · Ningbo Fenghua Yuelin Shuguang · 3,894 kg 238 ctn · audio plug; $4,326
+  - 2024-11-11 · Ningbo Haishu Huada · 704 kg 58 ctn · flat speaker cable connector; $5,845
+  - 2024-11-04 · Dongguan Weisheng · 3,460 kg 298 ctn · 'electronic'; $445
+  - 2024-10-07 · Ningbo Fenghua Yuelin Shuguang · 1,320 kg 76 ctn · audio plug; $6,734
+  - 2024-09-05 · Dongguan Weisheng · 7,908 kg 1,051 ctn · power cord, flex pin, banana plug; $6,945
+  - 2024-08-20 · Ningbo Fenghua Yuelin Shuguang · 3,399 kg 221 ctn · audio plugs, flat speaker cable; $8,060
+- **对 Saga 的含义**：月月有 LCL，全是 AV 线材/端子/HDMI 延长器（自有品牌 Sewell Direct 的 Amazon 货）；清单里没有任何交换机或 HS 8517.62 网络设备 → 他们的网络产品线（如果有）不是海运来的；可当『你们已经有成熟的中国拼箱渠道，加一两箱交换机的边际物流成本≈0』的话术
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

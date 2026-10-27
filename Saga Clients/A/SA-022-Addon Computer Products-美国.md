@@ -74,6 +74,25 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「工业 10G 非PoE 非管理」，共 9 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **48 票**（02/2015-02/2024）；最近一票 **02/09/2024**；ImportYeti 估算海运费累计 $77,485 (66% coverage)（不是货值）。[公司页](https://www.importyeti.com/company/addon-computer-peripherals)（synced 10/21/2026）
+- **中国占比**：47/48 中国
+- **主要发货人**（票数 · 品名）：
+  - Bona Sources Industrial（China）· 27 票 · DisplayPort/HDMI/DVI adapter cables
+  - Shenzhen Adtek Technology（China (Xili)）· 16 票 · copper patch cables (HS 8544.42)
+  - Shenzhenshi Pusinuo Keji（China）· 3 票 · replacement laptop adapters
+  - Action Star Enterprise（Taiwan）· 1 票 · USB-C docking stations
+  - Dongguan Boshuo Electronics（China）· 1 票 · DisplayPort adapter cable
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2024-02-09 · Shenzhen Adtek · 205 kg 14 ctn · copper patch cable; $2,585
+  - 2024-01-04 · Shenzhen Adtek · 1,063 kg 71 ctn · copper patch cable; $1,751
+  - 2023-12-24 · Shenzhen Adtek · 198 kg 13 ctn · copper patch cable; $1,831
+  - 2023-10-17 · Shenzhen Adtek · 120 kg · copper patch cable
+- **对 Saga 的含义**：海运只见线缆/转接头（2015～2024-02），光模块/交换机类从未走海运（高值小件走空运正常）；2024-02 后海运断档；要点：AddOn 的核心品类光模块与我们不重叠，交换机是他们没有的品类
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

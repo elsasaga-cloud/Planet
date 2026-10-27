@@ -71,6 +71,7 @@ updated: 2026-10-27
   | 2026-10-06 | 「Price: 180USD/PC」 | $180 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `012d4aaf82e7d6ac` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [TRIOTRONIK](https://github.com/TRIOTRONIK)（官网/邮箱域名一致；公开仓库 2，最近 push 2025-11-12：infra-docs-public、.github）；用户 [triotronik-dev](https://github.com/triotronik-dev)（官网/邮箱域名一致；公开仓库 0）；用户 [MM-TRIOTRONIK](https://github.com/MM-TRIOTRONIK)（官网/邮箱域名一致；公开仓库 0）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-06，德国多数工厂整周停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

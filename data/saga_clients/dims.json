@@ -11610,7 +11610,7 @@
    "last_k": "75205f906d867c11",
    "last_snippet": "",
    "last_questions": [],
-   "days_since": 394
+   "days_since": 395
   },
   "github": {
    "accounts": [
@@ -33782,6 +33782,35 @@
     }
    ]
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "Klemsan",
+     "type": "Organization",
+     "url": "https://github.com/Klemsan",
+     "name": "Klemsan",
+     "blog": "",
+     "email": null,
+     "company": null,
+     "public_repos": 1,
+     "created_at": "2026-06-23T09:08:48Z",
+     "updated_at": "2026-06-23T09:12:12Z",
+     "bio": "",
+     "match": "name",
+     "repos": [
+      {
+       "name": "klemsan-CICD-sandbox",
+       "pushed_at": "2026-06-24T09:09:17Z",
+       "lang": "C",
+       "desc": "",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:33:05Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -34197,6 +34226,49 @@
    ],
    "fetched": "2026-10-21"
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "mikrodev",
+     "type": "User",
+     "url": "https://github.com/mikrodev",
+     "name": "Mikrodev Limited",
+     "blog": "www.mikrodev.com",
+     "email": null,
+     "company": "Mikrodev",
+     "public_repos": 1,
+     "created_at": "2020-01-22T10:02:57Z",
+     "updated_at": "2026-06-25T13:33:36Z",
+     "bio": "",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "Documentation",
+       "pushed_at": "2026-04-07T12:51:39Z",
+       "lang": "JavaScript",
+       "desc": "",
+       "fork": false
+      }
+     ]
+    },
+    {
+     "login": "Mikrodev-HalilSafakSimsek",
+     "type": "User",
+     "url": "https://github.com/Mikrodev-HalilSafakSimsek",
+     "name": "Mikrodev - Halil Şafak Şimşek",
+     "blog": "www.mikrodev.com",
+     "email": null,
+     "company": "MikroDev",
+     "public_repos": 0,
+     "created_at": "2026-06-26T06:55:16Z",
+     "updated_at": "2026-09-03T11:58:34Z",
+     "bio": "",
+     "match": "strong"
+    }
+   ],
+   "repos_mentioning_n": 1,
+   "checked_at": "2026-10-27T04:34:03Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -34329,6 +34401,42 @@
    ],
    "fetched": "2026-10-21"
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "MultiProject23",
+     "type": "Organization",
+     "url": "https://github.com/MultiProject23",
+     "name": "MultiProject",
+     "blog": "",
+     "email": null,
+     "company": null,
+     "public_repos": 2,
+     "created_at": "2023-02-28T06:28:18Z",
+     "updated_at": "2023-03-06T04:07:41Z",
+     "bio": "",
+     "match": "name",
+     "repos": [
+      {
+       "name": "SEMO",
+       "pushed_at": "2023-04-16T15:13:29Z",
+       "lang": "JavaScript",
+       "desc": "세상의 모든 옷 프로젝트 SEMO 입니다!",
+       "fork": false
+      },
+      {
+       "name": "React-Project",
+       "pushed_at": "2023-03-29T14:05:08Z",
+       "lang": "JavaScript",
+       "desc": "React로 구현하는 토이 프로젝트",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:34:29Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -34444,6 +34552,70 @@
     "https://www.linkedin.com/company/neteon/"
    ],
    "fetched": "2026-10-21"
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "Neteon-net",
+     "type": "Organization",
+     "url": "https://github.com/Neteon-net",
+     "name": "Neteon",
+     "blog": "https://www.neteon.net/",
+     "email": null,
+     "company": null,
+     "public_repos": 4,
+     "created_at": "2026-10-16T01:34:51Z",
+     "updated_at": "2026-10-16T16:29:20Z",
+     "bio": "An American industrial distributor and solution provider specializing in Industrial Internet of Things (IIoT), industrial digital transformation, and network in",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "nexvdo-samples",
+       "pushed_at": "2026-07-16T16:55:52Z",
+       "lang": "C++",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "nexvdo-docs",
+       "pushed_at": "2026-07-16T16:55:44Z",
+       "lang": null,
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": ".github",
+       "pushed_at": "2026-07-16T16:55:40Z",
+       "lang": null,
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "YUAN",
+       "pushed_at": "2026-07-16T16:55:34Z",
+       "lang": null,
+       "desc": "",
+       "fork": false
+      }
+     ]
+    },
+    {
+     "login": "neteon-technologies",
+     "type": "Organization",
+     "url": "https://github.com/neteon-technologies",
+     "name": "Neteon Technologies",
+     "blog": "https://neteon.net",
+     "email": null,
+     "company": null,
+     "public_repos": 0,
+     "created_at": "2023-04-25T03:49:35Z",
+     "updated_at": "2023-04-25T03:51:53Z",
+     "bio": "",
+     "match": "strong"
+    }
+   ],
+   "repos_mentioning_n": 4,
+   "checked_at": "2026-10-27T04:34:45Z"
   },
   "calendar": {
    "holidays": [
@@ -34766,6 +34938,70 @@
    ],
    "fetched": "2026-10-21"
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "odoo",
+     "type": "Organization",
+     "url": "https://github.com/odoo",
+     "name": "Odoo",
+     "blog": "https://www.odoo.com",
+     "email": null,
+     "company": null,
+     "public_repos": 46,
+     "created_at": "2014-01-10T11:48:12Z",
+     "updated_at": "2024-01-26T10:48:39Z",
+     "bio": "Open Source Business Apps",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "industry",
+       "pushed_at": "2026-10-27T04:28:33Z",
+       "lang": "HTML",
+       "desc": "Odoo Industry Apps",
+       "fork": false
+      },
+      {
+       "name": "documentation",
+       "pushed_at": "2026-10-27T03:56:33Z",
+       "lang": "reStructuredText",
+       "desc": "Odoo documentation sources",
+       "fork": false
+      },
+      {
+       "name": "design-themes",
+       "pushed_at": "2026-10-27T03:56:31Z",
+       "lang": "HTML",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "odoo",
+       "pushed_at": "2026-10-27T03:56:28Z",
+       "lang": "Python",
+       "desc": "Odoo. Open Source Apps To Grow Your Business.",
+       "fork": false
+      },
+      {
+       "name": "upgrade-util",
+       "pushed_at": "2026-10-27T03:54:57Z",
+       "lang": "Python",
+       "desc": "Utility helpers to write better upgrade scripts.",
+       "fork": false
+      },
+      {
+       "name": "o-spreadsheet",
+       "pushed_at": "2026-10-26T17:53:55Z",
+       "lang": "TypeScript",
+       "desc": "",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 5,
+   "checked_at": "2026-10-27T04:35:38Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -35035,6 +35271,70 @@
     "https://www.facebook.com/oficjalnyportalMiastaPoznania/"
    ],
    "fetched": "2026-10-21"
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "zsk-poznan",
+     "type": "Organization",
+     "url": "https://github.com/zsk-poznan",
+     "name": "ZSK Poznań",
+     "blog": "https://www.zsk.poznan.pl",
+     "email": "adrian.lewek@uczen.zsk.poznan.pl",
+     "company": null,
+     "public_repos": 14,
+     "created_at": "2019-12-06T20:54:04Z",
+     "updated_at": "2026-10-25T19:08:32Z",
+     "bio": "",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "ZSK_plan_scrapper",
+       "pushed_at": "2026-10-25T21:31:47Z",
+       "lang": "JavaScript",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "README",
+       "pushed_at": "2026-10-25T18:55:19Z",
+       "lang": null,
+       "desc": "Information about our organization",
+       "fork": false
+      },
+      {
+       "name": "zastepstwa",
+       "pushed_at": "2023-09-14T16:32:02Z",
+       "lang": "JavaScript",
+       "desc": "Web app for displaying substitute teachers",
+       "fork": false
+      },
+      {
+       "name": "ui",
+       "pushed_at": "2023-05-23T15:54:06Z",
+       "lang": "TypeScript",
+       "desc": "🚧WORK IN PROGRESS🚧 React component library for building school-related projects",
+       "fork": false
+      },
+      {
+       "name": "get-lucky",
+       "pushed_at": "2023-01-04T23:58:08Z",
+       "lang": "Python",
+       "desc": "[DEPRECATED] Get lucky number for ZSK",
+       "fork": false
+      },
+      {
+       "name": "amnesty",
+       "pushed_at": "2022-12-11T20:01:27Z",
+       "lang": "JavaScript",
+       "desc": "",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 5,
+   "checked_at": "2026-10-27T04:36:16Z"
   },
   "calendar": {
    "holidays": [
@@ -37085,6 +37385,70 @@
    ],
    "fetched": "2026-10-21"
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "SystemFabricWorks",
+     "type": "Organization",
+     "url": "https://github.com/SystemFabricWorks",
+     "name": "System Fabric Works",
+     "blog": "http://systemfabricworks.com",
+     "email": "info@systemfabricworks.com",
+     "company": null,
+     "public_repos": 25,
+     "created_at": "2014-05-24T18:07:59Z",
+     "updated_at": "2024-10-09T07:21:42Z",
+     "bio": "",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "cstuff",
+       "pushed_at": "2024-06-25T20:03:57Z",
+       "lang": null,
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "docker-sriov-plugin",
+       "pushed_at": "2024-04-23T00:36:07Z",
+       "lang": "Go",
+       "desc": "Docker networking plugin for SRIOV and passthrough interfaces",
+       "fork": true
+      },
+      {
+       "name": "container_tools",
+       "pushed_at": "2024-04-22T23:01:03Z",
+       "lang": "Go",
+       "desc": "Few useful container orchestration, deployment tools when using RDMA",
+       "fork": true
+      },
+      {
+       "name": "stutools",
+       "pushed_at": "2023-05-21T20:43:36Z",
+       "lang": "C",
+       "desc": "Advanced block device testing/file system testing, targetting SNIA compatible reporting",
+       "fork": true
+      },
+      {
+       "name": "portals4",
+       "pushed_at": "2022-10-21T15:56:21Z",
+       "lang": null,
+       "desc": "Portals is a low-level network API for high-performance networking on high-performance computing systems.",
+       "fork": true
+      },
+      {
+       "name": "fio",
+       "pushed_at": "2022-10-18T18:16:59Z",
+       "lang": "C",
+       "desc": "Flexible I/O Tester",
+       "fork": true
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 5,
+   "checked_at": "2026-10-27T04:42:37Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -37590,6 +37954,70 @@
     }
    ],
    "tier_known": true
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "TRIOTRONIK",
+     "type": "Organization",
+     "url": "https://github.com/TRIOTRONIK",
+     "name": "TRIOTRONIK",
+     "blog": "https://triotronik.com",
+     "email": "dev@triotronik.com",
+     "company": null,
+     "public_repos": 2,
+     "created_at": "2025-10-02T14:59:02Z",
+     "updated_at": "2025-10-03T08:30:45Z",
+     "bio": "Das Netzwerktechnik-Kompetenzzentrum",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "infra-docs-public",
+       "pushed_at": "2025-11-12T13:31:20Z",
+       "lang": null,
+       "desc": "Public mirror of TRIOTRONIK infrastructure and deployment documentation",
+       "fork": false
+      },
+      {
+       "name": ".github",
+       "pushed_at": "2025-10-22T11:02:59Z",
+       "lang": null,
+       "desc": "Organization-wide GitHub templates for PRs, Issues, and Contributing guidelines",
+       "fork": false
+      }
+     ]
+    },
+    {
+     "login": "triotronik-dev",
+     "type": "User",
+     "url": "https://github.com/triotronik-dev",
+     "name": "TRIOTRONIK Development",
+     "blog": " https://www.triotronik.com",
+     "email": "dev@triotronik.com",
+     "company": "TRIOTRONIK GmbH",
+     "public_repos": 0,
+     "created_at": "2025-09-25T13:27:58Z",
+     "updated_at": "2025-11-11T15:44:55Z",
+     "bio": "TRIOTRONIK - Das Netzwerktechnik Kompetenz Zentrum (Austria)\r\n\r\nThree Divisions: ACADEMY (Training) | DISTRIBUTION (Sales & Service) | TECHNOLOGIES (R&D)",
+     "match": "strong"
+    },
+    {
+     "login": "MM-TRIOTRONIK",
+     "type": "User",
+     "url": "https://github.com/MM-TRIOTRONIK",
+     "name": "triodev",
+     "blog": "https://www.triotronik.com",
+     "email": null,
+     "company": "TRIOTRONIK GmbH",
+     "public_repos": 0,
+     "created_at": "2024-08-28T11:51:23Z",
+     "updated_at": "2025-09-24T13:41:34Z",
+     "bio": "Developer-Organisation der TRIOTRONIK  GmbH | Glasfaser-, Netzwerk- & IT-Infrastruktur-Lösungen\r\n",
+     "match": "strong"
+    }
+   ],
+   "repos_mentioning_n": 1,
+   "checked_at": "2026-10-27T04:44:30Z"
   },
   "calendar": {
    "holidays": [
@@ -38202,6 +38630,26 @@
     }
    ],
    "tier_known": true
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "zintronic",
+     "type": "User",
+     "url": "https://github.com/zintronic",
+     "name": null,
+     "blog": "",
+     "email": null,
+     "company": "zintronic",
+     "public_repos": 0,
+     "created_at": "2021-04-12T18:31:53Z",
+     "updated_at": "2026-10-16T10:39:23Z",
+     "bio": "",
+     "match": "company"
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:45:58Z"
   },
   "calendar": {
    "holidays": [
@@ -40197,6 +40645,26 @@
     }
    ]
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "ConnectecUK",
+     "type": "Organization",
+     "url": "https://github.com/ConnectecUK",
+     "name": "Connectec UK",
+     "blog": "",
+     "email": null,
+     "company": null,
+     "public_repos": 0,
+     "created_at": "2025-11-18T09:29:12Z",
+     "updated_at": "2025-12-31T15:03:07Z",
+     "bio": "",
+     "match": "name"
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:49:11Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -40533,6 +41001,49 @@
  "SB-1129": {
   "code": "SB-1129",
   "generated_at": "2026-10-27",
+  "github": {
+   "accounts": [
+    {
+     "login": "redcorp-2023-1",
+     "type": "Organization",
+     "url": "https://github.com/redcorp-2023-1",
+     "name": "Redcorp",
+     "blog": "",
+     "email": null,
+     "company": null,
+     "public_repos": 3,
+     "created_at": "2023-04-07T16:19:56Z",
+     "updated_at": "2024-03-27T02:28:05Z",
+     "bio": "",
+     "match": "name",
+     "repos": [
+      {
+       "name": "redcorp-backend-",
+       "pushed_at": "2024-06-27T02:03:33Z",
+       "lang": "C#",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "redcord-web-app",
+       "pushed_at": "2024-06-19T03:47:24Z",
+       "lang": "Vue",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "landing-page-redcorp",
+       "pushed_at": "2023-04-09T17:51:37Z",
+       "lang": "CSS",
+       "desc": "",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:50:25Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -42627,6 +43138,35 @@
    "last_snippet": "",
    "last_questions": [],
    "days_since": 573
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "WireStar-Networks",
+     "type": "Organization",
+     "url": "https://github.com/WireStar-Networks",
+     "name": "WireStar Networks",
+     "blog": "https://wirestar.net",
+     "email": "info@wirestar.net",
+     "company": null,
+     "public_repos": 1,
+     "created_at": "2021-04-06T15:39:48Z",
+     "updated_at": "2026-07-02T19:40:08Z",
+     "bio": "",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "geofeed",
+       "pushed_at": "2026-08-14T01:00:27Z",
+       "lang": null,
+       "desc": "Home for WireStar's RFC 8805 geofeed. ",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 1,
+   "checked_at": "2026-10-27T04:52:36Z"
   },
   "calendar": {
    "holidays": [

@@ -64,6 +64,7 @@ updated: 2026-10-27
 - **发信窗口（PL 全库 585 封群发的打开标签，对方本地时间；均值 5.5%）**：周四 12–14 点 4.8%（42 封）、周五 10–12 点 2.4%（41 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 6390 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 4 个（Ubiquiti、Dahua、Hikvision、Uniview）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；官网语言 pl（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/share?url=https%3A%2F%2Fwww.multiproject.com.pl%2Fprzewod-rg-592x1-00-zelowany-pro-cctv-300m-p-2303.html&text=Przew%C3%B3d+RG-59%2B2x1%2C00+%C5%BCelowany+Pro+CCTV+300m、https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.multiproject.com.pl%2Fprzewod-rg-592x1-00-zelowany-pro-cctv-300m-p-2303.html、https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.multiproject.com.pl%2Fprzewod-rg-592x1-00-zelowany-pro-cctv-300m-p-2303.html&title=Przew%C3%B3d+RG-59%2B2x1%2C00+%C5%BCelowany+Pro+CCTV+300m。
 - **同国同档参照（PL，20% 档、主推线「工业 PoE 非管理」，共 1 户有动静，列前 3）**：SA-023 fcnet.pl（A，同档：回过 2 次（最近 2025-04-22））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
+- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [MultiProject23](https://github.com/MultiProject23)（仅名称一致，未核实是否同一家；公开仓库 2，最近 push 2023-04-16：SEMO、React-Project）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-11-11 独立日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

@@ -79,6 +79,30 @@ updated: 2026-10-27
 - **同国同档参照（US，20% 档，共 2 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同档：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SB-020 52networks.com（B，同档：成交 STI-288GP，回过 14 次（最近 2025-07-24））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **58 票**（10/2015-10/2024）；最近一票 **10/17/2024**；ImportYeti 估算海运费累计 $181,342 (89% coverage)（不是货值）。[公司页](https://www.importyeti.com/company/nelly-s-security)（synced 10/21/2026）
+- **中国占比**：100%（58/58）
+- **主要发货人**（票数 · 品名）：
+  - Zhuhai Raysharp Technology（珠海睿芯）（China）· 27 票 · NVR, cameras, brackets; 2023-06-23 一票含 PoE switch (HS 8517.62.32)
+  - Optical Network Video Technologies（ONV 光网视，东莞大朗）（China）· 15 票 · PoE SWITCH / PoE extender (HS 8517.62 / 8536.50)
+  - Shenzhen Brother Young Development（China）· 5 票 · LAN cable
+  - Ningbo Lucktech Electronics（China）· 3 票 · telecom accessories / cabinets
+  - Hangzhou Aite Cable（China）· 2 票 · coaxial cable
+  - Shenzhen Anrecson Electronics（China）· 1 票 · monitor
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2024-10-17 · Raysharp · 1,345 kg 123 ctn · camera junction / NVR
+  - 2024-06-03 · Raysharp · 1,396 kg 117 ctn · cameras
+  - 2024-04-02 · Raysharp · 517 kg 61 ctn · DVR camera
+  - 2024-02-14 · Brother Young · 1,689 kg 125 ctn · LAN cable
+  - 2024-01-05 · Raysharp · 2,614 kg 208 ctn · NVR camera
+  - 2023-11-30 / 10-06 / 08-28 / 07-20 · Raysharp · 1,309 / 2,693 / 1,727 / 1,312 kg · DVR/NVR/cameras
+  - 2023-06-23 · Raysharp · 947 kg 104 ctn · cameras + NVR + PoE switch
+- **ONV 票数**：[['2022-12-22', '2,834 kg 144 ctn', 'PoE switch ONV; $1,777'], ['2022-08-13', '3,598 kg 207 ctn', 'PoE switch ONV; $7,614'], ['2022-05-01', '1,965 kg 80 ctn', 'PoE switch ONV; $9,377'], ['2016-02', '—', 'PoE extender + PoE switch (HTS 8517.62.39, BOL HNLTSZG1602132AC)']]
+- **对 Saga 的含义**：Nelly's 的 PoE 交换机海运供应商是 ONV（光网视），2016～2022-12 共 15 票；2023 起 PoE 交换机改由 Raysharp 随摄像头拼柜带入；2024-10-17 后整个海运断档（同步到 2026-10-21）。研究档已记：创始人 Sean Nelson 2023 年把 Nelly's 卖掉、专做 IPCamPower（SA-046，同在 Broken Arrow OK）——ONV 票止于 2022-12 与出售时间吻合 → IPCamPower 早年的 PoE 交换机货源大概率就是 ONV 这条线；IPCamPower 自己名下海运库查无（可能走空运或以其他主体报关）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -1,0 +1,2460 @@
+{
+ "_meta": {
+  "source": "ImportYeti (US CBP sea bills of lading, Jan-2015→; air/courier/land NOT covered; no goods value in US BOL data)",
+  "fetched": "2026-10-27",
+  "note": "每户一条：found=false 表示 company 页 404 且/或 search 页提示 couldn't find；金额列仅为 ImportYeti 估算海运费，不是货值"
+ },
+ "rows": {
+  "SB-221": {
+   "name": "Tycon Systems (Bluffdale, UT)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/tycon-systems",
+   "synced": "10/21/2026",
+   "last_shipment": "10/14/2026",
+   "total_shipments": 1039,
+   "avg_teu": 1.96,
+   "est_freight": "$2.2M (85% coverage)",
+   "range": "01/2015-10/2026",
+   "last_month": "2 shipments (-58.62% 1Y)",
+   "suppliers": [
+    {
+     "n": "Mstronic",
+     "c": "Taiwan (New Taipei)",
+     "s": 385,
+     "p": "Power over Ethernet devices; HS 8544.42/8504.40/8517.62"
+    },
+    {
+     "n": "Radiation Technology",
+     "c": "China (Binjiang)",
+     "s": 132,
+     "p": "control plates, cable assy, PoE inj cable"
+    },
+    {
+     "n": "Xiamen Hopergy Photovoltaic",
+     "c": "China",
+     "s": 82,
+     "p": "solar ground mount / brackets"
+    },
+    {
+     "n": "Huzhou Daixi Zhenhua Technology",
+     "c": "China",
+     "s": 40,
+     "p": "battery mount plates, outdoor weatherproof switch enclosure"
+    },
+    {
+     "n": "Foshan Winchain Import & Export",
+     "c": "China",
+     "s": 36,
+     "p": "steel/aluminium enclosures"
+    },
+    {
+     "n": "HK Vistek Technology",
+     "c": "China (HK)",
+     "s": 28,
+     "p": "power supplies, PoE injector/splitter"
+    },
+    {
+     "n": "Huaian Nengren",
+     "c": "China",
+     "s": 24,
+     "p": "telescopic masts"
+    },
+    {
+     "n": "Shenzhen Hongrui Optical Technology (HRUI)",
+     "c": "China",
+     "s": 4,
+     "p": "PoE switches (per HRUI supplier page 2026-10-22: 2022-08…2024-01)"
+    }
+   ],
+   "china_share": "≥6 of top-8 suppliers are China/HK (PoE accessories/enclosures); switches themselves mostly Taiwan Mstronic 385",
+   "notes": "美国 A/B 里唯一的『海运大户』：1,039 票、月均 9.46 TEU；交换机主供 Mstronic（台湾）；HRUI 仅 4 票 2022-08~2024-01",
+   "chunks_read": [
+    0
+   ]
+  },
+  "SA-060": {
+   "name": "FiberX (Guaynabo, PR)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/fiberx",
+   "synced": "10/21/2026",
+   "last_shipment": "08/21/2026",
+   "total_shipments": 31,
+   "avg_teu": 0.48,
+   "est_freight": "$305 (3% coverage)",
+   "range": "02/2020-08/2026",
+   "suppliers": [
+    {
+     "n": "Birla Cable",
+     "c": "India (Rewa)",
+     "s": 5,
+     "p": "optical fibre cable"
+    },
+    {
+     "n": "4Net Networking Corp",
+     "c": "Panama (one BOL from China 2024-08-26, 9,688 kg 821 pcs, desc redacted)",
+     "s": 4,
+     "p": "telecom network accessories, fibre cable"
+    },
+    {
+     "n": "Fyco Telecomunicaciones",
+     "c": "Dominican Republic",
+     "s": 8,
+     "p": "messenger cable EHS"
+    },
+    {
+     "n": "Qingdao Powtech Electronics",
+     "c": "China (ships via Panama/Colombia)",
+     "s": 3,
+     "p": "ADSS accessories, bolts, suspension clamps (2023-12-01 24,686 kg; 2024-08-23 28,500 kg 1,334 ctn)"
+    },
+    {
+     "n": "Hefei Lasun Communication",
+     "c": "China (via Panama)",
+     "s": 2,
+     "p": "optical fiber cables"
+    },
+    {
+     "n": "Aimit Communication Shenzhen",
+     "c": "China (via Colombia)",
+     "s": 1,
+     "p": "outdoor flat cable, optic patch panel, junction (2023-11-27 8,170 kg)"
+    },
+    {
+     "n": "Shanghai Wanbao Optical",
+     "c": "China",
+     "s": 1,
+     "p": "FO standoff bracket, washers, strandvise, lashing wire (11,292 kg 523 pkg)"
+    },
+    {
+     "n": "Universal Cables",
+     "c": "India (Goa)",
+     "s": 1,
+     "p": "optical fibre cable 2022-06-16"
+    }
+   ],
+   "recent": [
+    [
+     "2024-09-12",
+     "4Net Networking (Panama)",
+     "3,141 kg 23 pkg",
+     "tumbler/straw (non-telecom)"
+    ],
+    [
+     "2024-08-26",
+     "4Net Networking (China)",
+     "9,688 kg 821 pcs",
+     "[redacted]"
+    ],
+    [
+     "2024-08-23",
+     "Qingdao Powtech (Panama)",
+     "28,500 kg 1,334 ctn",
+     "bolts, cable suspension clamp, thimbleye"
+    ],
+    [
+     "2024-04-07",
+     "Fyco (DR)",
+     "25,636 kg 90 pkg",
+     "messenger cable"
+    ],
+    [
+     "2024-01-13",
+     "Birla Cable",
+     "22,334 kg 53 drums",
+     "optical fibre cable"
+    ],
+    [
+     "2023-12-01",
+     "Qingdao Powtech",
+     "24,686 kg 28 pkg",
+     "ADSS accessories"
+    ],
+    [
+     "2023-11-27",
+     "Aimit Communication Shenzhen",
+     "8,170 kg 191 pkg",
+     "outdoor flat cable, patch panel"
+    ]
+   ],
+   "china_share": "中国供应商 4 家（Qingdao Powtech / Hefei Lasun / Aimit Shenzhen / Shanghai Wanbao），全是光缆与 FTTH 线路五金，没有交换机",
+   "notes": "31 票全是 FTTH 外线材料（光缆、吊线、金具）；交换机类（HS 8517.62）一票也没有 → 他们的交换机走空运/快递或美国本土分销；海运记录显示 2026-08-21 仍在进口",
+   "chunks_read": [
+    0,
+    2
+   ]
+  },
+  "SA-006": {
+   "name": "Vilink Communications (Vi-Link, CA)",
+   "found": false,
+   "tried": [
+    "company/vilink-communications 404",
+    "search?q=vilink → couldn't find"
+   ],
+   "notes": "美国海运提单库查不到 → 要么走空运/快递（小批量交换机常态），要么以其他法人名报关"
+  },
+  "SA-002": {
+   "name": "SIMREX Corporation (Buffalo, NY)",
+   "found": false,
+   "tried": [
+    "company/simrex 404",
+    "web_search no indexed page"
+   ],
+   "notes": "美国海运提单库查不到 → 要么走空运/快递（小批量交换机常态），要么以其他法人名报关"
+  },
+  "SB-826": {
+   "name": "Versitron (Newark, DE)",
+   "found": false,
+   "tried": [
+    "company/versitron 404",
+    "company/versitron-inc 404"
+   ],
+   "notes": "美国海运提单库查不到 → 要么走空运/快递（小批量交换机常态），要么以其他法人名报关"
+  },
+  "SA-042": {
+   "name": "Antronix (Cranbury, NJ)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/antronix",
+   "synced": "10/21/2026",
+   "last_shipment": "10/16/2026",
+   "total_shipments": 1450,
+   "avg_teu": 1.49,
+   "avg_teu_month": 10.52,
+   "range": "01/2015-10/2026",
+   "last_month": "+815.66% vs 1Y ago",
+   "suppliers": [
+    {
+     "n": "World Alliance Hi Tech",
+     "c": "China",
+     "s": 527,
+     "p": "CATV splitters/attenuators/taps, HS 8517.62"
+    },
+    {
+     "n": "Roosevelt",
+     "c": "China",
+     "s": 276,
+     "p": "connectors, broadband communications products"
+    },
+    {
+     "n": "Tianjin Antron Electronics (own factory)",
+     "c": "China (Tianjin)",
+     "s": 224,
+     "p": "broadband communication; returned/repaired goods"
+    },
+    {
+     "n": "Albury Trade",
+     "c": "China",
+     "s": 122,
+     "p": "CATV apparatus"
+    },
+    {
+     "n": "Etech Industries Ningbo",
+     "c": "China",
+     "s": 97,
+     "p": "residential amplifier, fiber node"
+    },
+    {
+     "n": "Quanda Technology",
+     "c": "Taiwan",
+     "s": 60,
+     "p": "amplifier, CATV/MoCA filters"
+    },
+    {
+     "n": "Ningbo Linkshine Electronic",
+     "c": "China",
+     "s": 31,
+     "p": "splitters"
+    },
+    {
+     "n": "Ningbo Startek International",
+     "c": "China",
+     "s": "recent",
+     "p": "broadband communications (2026-06-06 14,144 kg 702 ctn)"
+    },
+    {
+     "n": "Main Brightness",
+     "c": "China (Ningbo)",
+     "s": "recent",
+     "p": "connectors"
+    }
+   ],
+   "recent": [
+    [
+     "2026-07-05",
+     "Tianjin Antron",
+     "11,015 kg 701 ctn",
+     "broadband communication"
+    ],
+    [
+     "2026-07-05",
+     "Tianjin Antron",
+     "5,147 kg 304 ctn",
+     ""
+    ],
+    [
+     "2026-06-21",
+     "Tianjin Antron",
+     "14,855 kg 960 ctn + 13,919 kg 877 ctn",
+     ""
+    ],
+    [
+     "2026-06-19",
+     "Tianjin Antron",
+     "14,449 kg 1,011 ctn",
+     ""
+    ],
+    [
+     "2026-06-06",
+     "Etech Ningbo ×3 / Ningbo Startek ×2 / Main Brightness",
+     "5,019 / 5,883 / 2,403 / 5,175 / 14,144 / 361 kg",
+     "broadband communications, connectors"
+    ],
+    [
+     "2026-05-14",
+     "Etech Ningbo ×2 / Main Brightness",
+     "5,335 / 7,173 / 1,617 kg",
+     ""
+    ]
+   ],
+   "china_share": "几乎 100% 中国（天津自有厂 + 宁波代工），每月整柜级（10.5 TEU/月）",
+   "notes": "同轴 CATV 器件大户，HS 8517.62 走的是分配器/放大器不是交换机；以太网交换机不在其海运清单里 → 如果 Antronix 要做 PoE/以太网线，必是新品类，可拿『你们天津厂不做以太网交换机，我们做』切入",
+   "chunks_read": [
+    0,
+    3
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SA-021": {
+   "name": "Optiview (Jacksonville, FL)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/optiview",
+   "synced": "10/21/2026",
+   "last_shipment": "09/28/2024",
+   "total_shipments": 54,
+   "range": "01/2015-09/2024",
+   "est_freight": "$25,450 (27% coverage)",
+   "suppliers": [
+    {
+     "n": "Shenzhen Centro Technology (+ 'Centro Technology Ltd' / 'Centro Techology' aliases)",
+     "c": "China (Shenzhen Tong'an / Huafeng)",
+     "s": 22,
+     "p": "PoE SWITCHES, PoE injectors, power supplies, video baluns; HS 8504.40 / 8517.62 / 8536.50"
+    },
+    {
+     "n": "Hangzhou Linan Chuangxin Cable",
+     "c": "China",
+     "s": 9,
+     "p": "coaxial cable"
+    },
+    {
+     "n": "Deqing Lizheng Metal Works",
+     "c": "China",
+     "s": 8,
+     "p": "aluminium enclosures"
+    },
+    {
+     "n": "Zhejiang Dahua Vision Technology / Dahua Technology HK",
+     "c": "China",
+     "s": 5,
+     "p": "DVR, network camera, speed dome, access controller"
+    },
+    {
+     "n": "C&T Litech",
+     "c": "China",
+     "s": 2,
+     "p": "access control, electric lock bracket"
+    }
+   ],
+   "recent": [
+    [
+     "2024-09-28",
+     "Shenzhen Centro Technology",
+     "270 kg 20 ctn",
+     "PoE switches, power supply, video balun"
+    ],
+    [
+     "2024-07-17",
+     "Shenzhen Centro Technology",
+     "124 kg 7 ctn",
+     "PoE switches"
+    ],
+    [
+     "2024-05-31",
+     "Shenzhen Centro Technology",
+     "140 kg 9 ctn",
+     "PoE switches, PSU, transformer"
+    ],
+    [
+     "2023-12-27",
+     "Shenzhen Centro Technology",
+     "187 kg 19 ctn",
+     "PoE switches, PSU, balun"
+    ],
+    [
+     "2023-08-05",
+     "Shenzhen Centro Technology",
+     "347 kg 30 ctn",
+     "PoE switches, PSU"
+    ],
+    [
+     "2022-11-02",
+     "Shenzhen Centro Technology",
+     "248 kg 19 ctn",
+     "PoE switches, injector, PSU"
+    ],
+    [
+     "2022-07-20",
+     "Shenzhen Centro Technology",
+     "130 kg 7 ctn",
+     "PoE switches"
+    ],
+    [
+     "2022-02-09",
+     "Shenzhen Centro Technology",
+     "580 kg 49 ctn",
+     "power adapter, PSU, balun"
+    ],
+    [
+     "2021-10-20",
+     "Deqing Lizheng / Dahua HK / Centro",
+     "2,893 / 94 / 380 kg",
+     "enclosures / camera card / PSU"
+    ],
+    [
+     "2021-01-02",
+     "Centro + C&T Litech",
+     "381 + 110 kg",
+     "PoE switch/injector/PSU + lock bracket; est. freight $4,157"
+    ],
+    [
+     "2020-10-16",
+     "Centro Technology Ltd",
+     "340 kg 30 ctn",
+     "PSU, PoE injector, converter; est. freight $4,083"
+    ]
+   ],
+   "china_share": "100%（54/54 票全部中国）",
+   "notes": "唯一一户在海运提单里明写 'Poe Switches' 的 A 类：供应商深圳 Centro Technology，2020-10～2024-09 共 ≥11 票、每 2～6 个月一票、每票 7～49 箱（124～580 kg）= 小批量 LCL；2024-09-28 之后再无海运记录（同步至 2026-10-21）→ 要么换成空运/快递，要么停购 → 这正是问『你们 PoE 交换机现在哪来』的时机",
+   "chunks_read": [
+    0,
+    1
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SA-059": {
+   "name": "Data Connect Enterprise (Olney, MD)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/data-connect-enterprise",
+   "synced": "10/21/2026",
+   "last_shipment": "08/28/2019",
+   "total_shipments": 1,
+   "suppliers": [
+    {
+     "n": "Guangzhou Jinjiang Intelligent",
+     "c": "China",
+     "s": 1,
+     "p": "massage bed (HS 9019.10) — 私人物品"
+    }
+   ],
+   "notes": "仅 1 票（2019 按摩床，住宅地址）→ 公司业务进口全走空运/快递，海运库等于空白",
+   "fetched": "2026-10-27"
+  },
+  "SA-018": {
+   "name": "Sewell Development / Sewell Direct (Orem, UT)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/sewell-development",
+   "synced": "10/21/2026",
+   "last_shipment": "10/14/2026",
+   "total_shipments": 185,
+   "avg_teu": 1.75,
+   "avg_teu_month": 2.78,
+   "est_freight": "$302,233 (46% coverage)",
+   "range": "01/2015-10/2026",
+   "last_month": "+3125% vs 1Y ago",
+   "suppliers": [
+    {
+     "n": "Ningbo Fenghua Yuelin Shuguang",
+     "c": "China",
+     "s": 38,
+     "p": "audio plugs, speaker connectors, flat speaker cable"
+    },
+    {
+     "n": "Dongguan Weisheng Shoes Factory (拼箱代理)",
+     "c": "China",
+     "s": 15,
+     "p": "speaker cable, HDMI AOC, USB-serial, power cords — mixed consol"
+    },
+    {
+     "n": "Ningbo ETDZ Holdings",
+     "c": "China",
+     "s": 11,
+     "p": "communication cable, speakers"
+    },
+    {
+     "n": "Hangzhou Huier Cable",
+     "c": "China",
+     "s": 10,
+     "p": "communication cable"
+    },
+    {
+     "n": "Ten Tronics",
+     "c": "Taiwan",
+     "s": 8,
+     "p": "repeater kits, receivers"
+    },
+    {
+     "n": "Ningbo Haishu Huada Sound Equipment",
+     "c": "China",
+     "s": 7,
+     "p": "speaker terminals"
+    },
+    {
+     "n": "Hejia Industrial Hong Kong",
+     "c": "China (Zhongshan)",
+     "s": 7,
+     "p": "banana plugs, HDMI/USB extenders"
+    },
+    {
+     "n": "Shenzhen Kuncan Electronics",
+     "c": "China",
+     "s": "≥1",
+     "p": "banana plugs 2024-02-28"
+    }
+   ],
+   "recent": [
+    [
+     "2025-01-18",
+     "Ningbo Haishu Huada",
+     "519 kg 49 ctn",
+     "speaker terminal cups; est. freight $46"
+    ],
+    [
+     "2025-01-03",
+     "Ningbo Fenghua Yuelin Shuguang",
+     "3,894 kg 238 ctn",
+     "audio plug; $4,326"
+    ],
+    [
+     "2024-11-11",
+     "Ningbo Haishu Huada",
+     "704 kg 58 ctn",
+     "flat speaker cable connector; $5,845"
+    ],
+    [
+     "2024-11-04",
+     "Dongguan Weisheng",
+     "3,460 kg 298 ctn",
+     "'electronic'; $445"
+    ],
+    [
+     "2024-10-07",
+     "Ningbo Fenghua Yuelin Shuguang",
+     "1,320 kg 76 ctn",
+     "audio plug; $6,734"
+    ],
+    [
+     "2024-09-05",
+     "Dongguan Weisheng",
+     "7,908 kg 1,051 ctn",
+     "power cord, flex pin, banana plug; $6,945"
+    ],
+    [
+     "2024-08-20",
+     "Ningbo Fenghua Yuelin Shuguang",
+     "3,399 kg 221 ctn",
+     "audio plugs, flat speaker cable; $8,060"
+    ]
+   ],
+   "china_share": "≈96% 中国（185 票里仅 Ten Tronics 台湾 8 票）",
+   "notes": "月月有 LCL，全是 AV 线材/端子/HDMI 延长器（自有品牌 Sewell Direct 的 Amazon 货）；清单里没有任何交换机或 HS 8517.62 网络设备 → 他们的网络产品线（如果有）不是海运来的；可当『你们已经有成熟的中国拼箱渠道，加一两箱交换机的边际物流成本≈0』的话术",
+   "chunks_read": [
+    0,
+    3
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SA-022": {
+   "name": "AddOn Computer Peripherals / AddOn Networks (Rancho Santa Margarita, CA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/addon-computer-peripherals",
+   "synced": "10/21/2026",
+   "last_shipment": "02/09/2024",
+   "total_shipments": 48,
+   "est_freight": "$77,485 (66% coverage)",
+   "range": "02/2015-02/2024",
+   "suppliers": [
+    {
+     "n": "Bona Sources Industrial",
+     "c": "China",
+     "s": 27,
+     "p": "DisplayPort/HDMI/DVI adapter cables"
+    },
+    {
+     "n": "Shenzhen Adtek Technology",
+     "c": "China (Xili)",
+     "s": 16,
+     "p": "copper patch cables (HS 8544.42)"
+    },
+    {
+     "n": "Shenzhenshi Pusinuo Keji",
+     "c": "China",
+     "s": 3,
+     "p": "replacement laptop adapters"
+    },
+    {
+     "n": "Action Star Enterprise",
+     "c": "Taiwan",
+     "s": 1,
+     "p": "USB-C docking stations"
+    },
+    {
+     "n": "Dongguan Boshuo Electronics",
+     "c": "China",
+     "s": 1,
+     "p": "DisplayPort adapter cable"
+    }
+   ],
+   "recent": [
+    [
+     "2024-02-09",
+     "Shenzhen Adtek",
+     "205 kg 14 ctn",
+     "copper patch cable; $2,585"
+    ],
+    [
+     "2024-01-04",
+     "Shenzhen Adtek",
+     "1,063 kg 71 ctn",
+     "copper patch cable; $1,751"
+    ],
+    [
+     "2023-12-24",
+     "Shenzhen Adtek",
+     "198 kg 13 ctn",
+     "copper patch cable; $1,831"
+    ],
+    [
+     "2023-10-17",
+     "Shenzhen Adtek",
+     "120 kg",
+     "copper patch cable"
+    ]
+   ],
+   "china_share": "47/48 中国",
+   "tried": [
+    "company/addon-networks 404"
+   ],
+   "notes": "海运只见线缆/转接头（2015～2024-02），光模块/交换机类从未走海运（高值小件走空运正常）；2024-02 后海运断档；要点：AddOn 的核心品类光模块与我们不重叠，交换机是他们没有的品类",
+   "fetched": "2026-10-27"
+  },
+  "SA-054": {
+   "name": "Softnetworks (Whippany, NJ)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/softnetworks",
+   "synced": "10/21/2026",
+   "last_shipment": "12/15/2015",
+   "total_shipments": 1,
+   "suppliers": [
+    {
+     "n": "Wuyi Hetai Industrial & Trading",
+     "c": "China",
+     "s": 1,
+     "p": "foot scooter (2015-12-15, 5,800 kg 403 ctn)"
+    }
+   ],
+   "notes": "仅 2015 年一票滑板车 → 与网络业务无关；网络设备进口不走海运",
+   "fetched": "2026-10-27"
+  },
+  "SA-026": {
+   "name": "Hardened Networks / ITS Express",
+   "found": false,
+   "tried": [
+    "company/hardened-networks 404",
+    "company/its-express 404"
+   ],
+   "notes": "美国海运提单库查无（company 页 404）→ 小批量交换机走空运/快递属常态，海运库看不见",
+   "fetched": "2026-10-27"
+  },
+  "SA-058": {
+   "name": "Alpha Net Communications (San Antonio, TX)",
+   "found": false,
+   "tried": [
+    "company/alpha-net-communications 404"
+   ],
+   "notes": "美国海运提单库查无（company 页 404）→ 小批量交换机走空运/快递属常态，海运库看不见",
+   "fetched": "2026-10-27"
+  },
+  "SA-044": {
+   "name": "DYMEC (Katy, TX)",
+   "found": false,
+   "tried": [
+    "company/dymec 404"
+   ],
+   "notes": "美国海运提单库查无（company 页 404）→ 小批量交换机走空运/快递属常态，海运库看不见",
+   "fetched": "2026-10-27"
+  },
+  "SA-046": {
+   "name": "IPCamPower (Broken Arrow, OK)",
+   "found": false,
+   "tried": [
+    "company/ipcampower 404"
+   ],
+   "notes": "美国海运提单库查无（company/ipcampower 404）。关联线索：创始人 Sean Nelson 的前公司 Nelly's Security（SB-248）2016～2022-12 从 ONV（光网视）海运 PoE 交换机 15 票（最后三票 2022-05-01 80 ctn / 08-13 207 ctn / 12-22 144 ctn），2023 年公司出售后该线中断 → IPCamPower 的 PoE 交换机货源应是 ONV 系或改走空运；见 SB-248 记录",
+   "fetched": "2026-10-27",
+   "related": "SB-248 Nelly's Security（同创始人，ONV PoE 交换机海运线 2016-2022）"
+  },
+  "SA-025": {
+   "name": "Avenger Security (Austin, TX)",
+   "found": false,
+   "tried": [
+    "company/avenger-security 404"
+   ],
+   "notes": "美国海运提单库查无（company 页 404）→ 小批量交换机走空运/快递属常态，海运库看不见",
+   "fetched": "2026-10-27"
+  },
+  "SA-033": {
+   "name": "BlueWARRIOR",
+   "found": false,
+   "tried": [
+    "company/bluewarrior 404"
+   ],
+   "notes": "美国海运提单库查无（company 页 404）→ 小批量交换机走空运/快递属常态，海运库看不见",
+   "fetched": "2026-10-27"
+  },
+  "SB-085": {
+   "name": "Thor Fiber / Thor Broadcast (Torrance, CA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/thor-fiber",
+   "synced": "10/21/2026",
+   "last_shipment": "02/22/2025",
+   "total_shipments": 17,
+   "est_freight": "$36,453 (100% coverage)",
+   "range": "05/2020-02/2025",
+   "suppliers": [
+    {
+     "n": "Dexin Digital Technology（成都德芯）",
+     "c": "China",
+     "s": 5,
+     "p": "QAM modulators, HDMI/SDI encoders, tuner gateways (Thor-branded)"
+    },
+    {
+     "n": "Hangzhou Prevail Communication",
+     "c": "China",
+     "s": 4,
+     "p": "optical (HS 9001.10)"
+    },
+    {
+     "n": "Dingshengwei Electronics（深圳鼎盛威）",
+     "c": "China (Nanshan)",
+     "s": 4,
+     "p": "modulators / reception machines"
+    },
+    {
+     "n": "Suntechtv",
+     "c": "Taiwan",
+     "s": 3,
+     "p": "set-top box, power supply"
+    },
+    {
+     "n": "Zhuhai Gecen Electronic",
+     "c": "China",
+     "s": 1,
+     "p": "amplifier"
+    }
+   ],
+   "recent": [
+    [
+     "2025-02-22",
+     "Suntechtv (TW)",
+     "291 kg 16 ctn",
+     "power supply"
+    ],
+    [
+     "2025-01-27",
+     "Dexin Digital",
+     "991 kg 46 ctn",
+     "modulator"
+    ],
+    [
+     "2024-02-20",
+     "Hangzhou Prevail",
+     "352 kg 19 ctn",
+     "optical; $3,805"
+    ],
+    [
+     "2024-01-23",
+     "Dexin Digital",
+     "610 kg 32 ctn",
+     "modulator"
+    ],
+    [
+     "2023-09-12",
+     "Dingshengwei",
+     "469 kg 28 ctn",
+     "reception machines"
+    ],
+    [
+     "2023-08-30",
+     "Dexin Digital",
+     "949 kg 40 ctn",
+     "modulator; $2,086"
+    ],
+    [
+     "2023-08-29",
+     "Hangzhou Prevail",
+     "238 kg 13 ctn",
+     "optical; $1,940"
+    ],
+    [
+     "2023-04-21",
+     "Hangzhou Prevail",
+     "528 kg 27 ctn",
+     "optical"
+    ],
+    [
+     "2023-03-04",
+     "Dexin Digital",
+     "1,266 kg 54 ctn",
+     "modulator"
+    ],
+    [
+     "2022-08-15",
+     "Dingshengwei",
+     "1,682 kg 93 ctn",
+     "reception machines; $7,357"
+    ],
+    [
+     "2020-12-09",
+     "Dexin Digital",
+     "614 kg 24 ctn",
+     "Thor QAM tuner gateway / HDMI encoder / HEVC streamer (贴 Thor 牌)"
+    ]
+   ],
+   "china_share": "14/17 中国 + 3 台湾",
+   "notes": "Thor 的『自有品牌』广播设备其实是成都德芯/深圳鼎盛威的 OEM（提单上直接写 'Thor Qam Tuner Gateway'）——他们是熟练的中国 OEM 买家；清单里没有交换机 → 他们的光纤交换机品类不是海运来的；2025-02 后海运断档",
+   "chunks_read": [
+    0,
+    1
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-020": {
+   "name": "52 Networks (Woodbridge, VA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/52-networks",
+   "synced": "10/21/2026",
+   "last_shipment": "10/13/2025",
+   "total_shipments": 21,
+   "avg_teu": 2.28,
+   "range": "07/2018-10/2025",
+   "suppliers": [
+    {
+     "n": "RTT Link Technology",
+     "c": "China (Guangzhou Baiyun)",
+     "s": 9,
+     "p": "network cable (HS 8544.49)"
+    },
+    {
+     "n": "Integrity Cable / Integrity Cableco",
+     "c": "China (Shenzhen Guangming)",
+     "s": 9,
+     "p": "network cable"
+    },
+    {
+     "n": "Suining Bright Trade",
+     "c": "China",
+     "s": 2,
+     "p": "poly mailers, packaging"
+    },
+    {
+     "n": "SZ Xushun Sheng Technology",
+     "c": "China (Shenzhen Guangming)",
+     "s": 1,
+     "p": "network cable"
+    }
+   ],
+   "recent": [
+    [
+     "2025-10-13",
+     "SZ Xushun Sheng",
+     "18,066 kg 1,172 ctn (1 FCL)",
+     "network cable"
+    ],
+    [
+     "2025-03-11",
+     "Integrity Cableco",
+     "18,748 kg 1,242 ctn",
+     "network cable"
+    ],
+    [
+     "2024-10-24",
+     "Integrity Cable",
+     "21,382 kg 1,392 ctn",
+     "network cable"
+    ],
+    [
+     "2024-06-12",
+     "Integrity Cable",
+     "18,880 kg 1,252 ctn",
+     "network cable"
+    ],
+    [
+     "2024-03-27",
+     "(CMA CGM)",
+     "FCL",
+     "network cable"
+    ]
+   ],
+   "china_share": "100%（21/21 中国，全部整柜）",
+   "notes": "每年 2～3 个整柜（约 18～21 吨/柜）的网线，从深圳光明/广州白云直发；是『已经有自己整柜渠道的进口商』——加几箱交换机进整柜的边际运费≈0，这是最硬的切入理由；最近一柜 2025-10-13",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-1026": {
+   "name": "Epygi Technologies (Winter Park, FL)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/epygi-technologies",
+   "synced": "10/21/2026",
+   "last_shipment": "05/07/2020",
+   "total_shipments": 2,
+   "suppliers": [
+    {
+     "n": "Shenzhen Zone KX Technology",
+     "c": "China",
+     "s": 2,
+     "p": "rackmount metal housings / sheet-metal enclosures (2018-01-29 340 kg 50 ctn; 2020-05-07 448 kg 2 pkg)"
+    }
+   ],
+   "notes": "只有 2 票深圳钣金机箱（IP-PBX 外壳），电子件走空运；2020 后无海运",
+   "fetched": "2026-10-27"
+  },
+  "SB-010": {
+   "name": "American Fibertek (Fords, NJ)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/american-fibertek",
+   "synced": "10/21/2026",
+   "last_shipment": "01/16/2018",
+   "total_shipments": 3,
+   "suppliers": [
+    {
+     "n": "Hungson Enterprise",
+     "c": "Hong Kong",
+     "s": 3,
+     "p": "aluminium (housings) 2015-09 / 2016-06 / 2018-01"
+    }
+   ],
+   "notes": "仅 3 票香港铝件（外壳），2018 起无海运；电子件空运",
+   "fetched": "2026-10-27"
+  },
+  "SB-775": {
+   "name": "Patton Electronics (Gaithersburg, MD)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/patton-electronics",
+   "synced": "10/21/2026",
+   "last_shipment": "09/19/2017",
+   "total_shipments": 10,
+   "range": "02/2015-09/2017",
+   "suppliers": [
+    {
+     "n": "Shee Line",
+     "c": "Taiwan",
+     "s": 7,
+     "p": "cord pins"
+    },
+    {
+     "n": "Eltek Technologies",
+     "c": "Taiwan",
+     "s": 1,
+     "p": "Patton daughter boards 2017-09-19"
+    },
+    {
+     "n": "Baudtec",
+     "c": "Taiwan",
+     "s": 1,
+     "p": "VDSL/ADSL routers 2017-07-24 (520 kg 50 ctn)"
+    },
+    {
+     "n": "Soundwin Network",
+     "c": "Taiwan",
+     "s": 1,
+     "p": "network gateways 2017-07-17 (425 kg 30 ctn)"
+    }
+   ],
+   "china_share": "0 中国大陆，10/10 台湾",
+   "notes": "Patton 海运只从台湾买（Baudtec 路由器、Soundwin 网关 = 台湾 ODM），2017-09 后无海运；大陆供应商为零 → 对『中国货』的态度可能保守，说辞里先讲 Marvell 芯片与 3 年保",
+   "fetched": "2026-10-27"
+  },
+  "SB-984": {
+   "name": "Olson Technology (Oakdale, CA)",
+   "found": false,
+   "tried": [
+    "company/olson-technology → 重定向到 Olson Technologies（宾州阀门进口商，无关）"
+   ],
+   "notes": "同名干扰；真正的 Olson Technology 无海运记录",
+   "fetched": "2026-10-27"
+  },
+  "SB-831": {
+   "name": "Actelis Networks (Fremont, CA)",
+   "found": false,
+   "tried": [
+    "company/actelis-networks 404"
+   ],
+   "notes": "美国海运提单库查无",
+   "fetched": "2026-10-27"
+  },
+  "SB-119": {
+   "name": "WireStar Networks (College Station, TX)",
+   "found": false,
+   "tried": [
+    "company/wirestar 404"
+   ],
+   "notes": "美国海运提单库查无",
+   "fetched": "2026-10-27"
+  },
+  "SB-787": {
+   "name": "TC Communications (Irvine, CA)",
+   "found": false,
+   "tried": [
+    "company/tc-communications 404"
+   ],
+   "notes": "美国海运提单库查无",
+   "fetched": "2026-10-27"
+  },
+  "SB-061": {
+   "name": "Megatel Industries",
+   "found": false,
+   "tried": [
+    "company/megatel-industries 404"
+   ],
+   "notes": "美国海运提单库查无",
+   "fetched": "2026-10-27"
+  },
+  "SB-108": {
+   "name": "GW Security (South El Monte, CA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/gw-security",
+   "synced": "10/21/2026",
+   "last_shipment": "10/14/2026",
+   "total_shipments": 130,
+   "avg_teu": 1.98,
+   "avg_teu_month": 3.3,
+   "est_freight": "$361,898 (100% coverage)",
+   "range": "02/2017-10/2026",
+   "last_month": "+233% vs 1Y ago",
+   "suppliers": [
+    {
+     "n": "YCX Electronics HK / Shenzhen YCX Electronics",
+     "c": "China",
+     "s": 47,
+     "p": "CCTV cameras, NVRs, junction boxes, brackets"
+    },
+    {
+     "n": "Zhuhai Raysharp Technology",
+     "c": "China",
+     "s": 23,
+     "p": "camera/NVR, solar panel kits"
+    },
+    {
+     "n": "Shenzhen Hongrui Optical Technology (HRUI = Saga 的供应商)",
+     "c": "China (Bao'an/Shajing)",
+     "s": 14,
+     "p": "PoE SWITCH (HS 8517.62.32); 2023-03 一票 185 ctn/7 plts"
+    },
+    {
+     "n": "Hefei Zhongke Zhixun Technology",
+     "c": "China",
+     "s": 9,
+     "p": "Cat cable (整柜 17 t/697 ctn)"
+    },
+    {
+     "n": "Qualvision Technology",
+     "c": "China",
+     "s": 7,
+     "p": "CCTV camera/NVR"
+    },
+    {
+     "n": "Shenzhen Sunell Technology",
+     "c": "China",
+     "s": 4,
+     "p": "NVR, cameras"
+    },
+    {
+     "n": "Argus Image",
+     "c": "Taiwan",
+     "s": "≥4",
+     "p": "cameras 2025"
+    },
+    {
+     "n": "Zhuhai Glory Technology",
+     "c": "China",
+     "s": "≥2",
+     "p": "camera junction / NVR"
+    },
+    {
+     "n": "KC Technology",
+     "c": "Taiwan",
+     "s": "≥1",
+     "p": "camera/NVR 2026-05-26"
+    },
+    {
+     "n": "Zhejiang Lingzhu Technology",
+     "c": "China",
+     "s": "≥1",
+     "p": "smart camera 2026-07-07"
+    }
+   ],
+   "hrui_shipments": [
+    [
+     "2026-10-14",
+     "2,240 kg 170 ctn",
+     "PoE switch plts; est. freight $8,232"
+    ],
+    [
+     "2026-04-08",
+     "2,200 kg 170 ctn",
+     "PoE switch plts; $2,186"
+    ],
+    [
+     "2026-02-13",
+     "1,300 kg 100 ctn",
+     "PoE switch; $2,702"
+    ],
+    [
+     "2025-06-20",
+     "2,920 kg 225 ctn",
+     "PoE switch plts; $3,048"
+    ],
+    [
+     "2023-03",
+     "185 ctn 7 plts",
+     "PoE switch (HTS 8517.62.32 BOL OSTIMASZ23030010)"
+    ]
+   ],
+   "recent": [
+    [
+     "2026-10-14",
+     "HRUI",
+     "2,240 kg 170 ctn",
+     "PoE switch"
+    ],
+    [
+     "2026-10-05",
+     "YCX Electronics HK",
+     "8,301 kg 557 ctn",
+     "CCTV camera/NVR"
+    ],
+    [
+     "2026-08-09",
+     "Zhuhai Glory",
+     "5,300 kg 399 ctn",
+     "camera junction NVR"
+    ],
+    [
+     "2026-07-31",
+     "YCX",
+     "8,190 kg 470 ctn",
+     "CCTV"
+    ],
+    [
+     "2026-07-07",
+     "Zhejiang Lingzhu",
+     "420 kg 50 ctn",
+     "smart camera"
+    ],
+    [
+     "2026-06-24 / 06-19",
+     "YCX",
+     "9,404 / 8,440 kg",
+     "CCTV"
+    ],
+    [
+     "2026-06-02",
+     "Hefei Zhongke Zhixun",
+     "17,004 kg 697 ctn",
+     "Cat cable FCL"
+    ],
+    [
+     "2026-05-26",
+     "KC Technology (TW)",
+     "4,836 kg 302 ctn",
+     "camera/NVR"
+    ],
+    [
+     "2026-04-08",
+     "HRUI",
+     "2,200 kg 170 ctn",
+     "PoE switch"
+    ],
+    [
+     "2026-02-13",
+     "HRUI",
+     "1,300 kg 100 ctn",
+     "PoE switch"
+    ]
+   ],
+   "china_share": "116/130 中国 + 6 台湾（95.4% 亚洲）",
+   "notes": "最重要的发现之一：GW Security 直接从 HRUI（洪瑞 = 我们自己的供应商）海运 PoE 交换机，2023-03 起 14 票，2026 年已 3 票（02/04/10 月，各 100～170 箱）→ 他们在 HRUI 货上永远比我们便宜，不要拿 HRUI 同款去碰；只能拿 SmartByte Marvell 管理型（HRUI 没有的 L2+/L3）或 CENTEC 差异化；他们的采购节奏≈每 2～6 个月一票，月均 3.3 TEU",
+   "chunks_read": [
+    0,
+    1,
+    2
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-248": {
+   "name": "Nelly's Security (Broken Arrow, OK)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/nelly-s-security",
+   "synced": "10/21/2026",
+   "last_shipment": "10/17/2024",
+   "total_shipments": 58,
+   "est_freight": "$181,342 (89% coverage)",
+   "range": "10/2015-10/2024",
+   "suppliers": [
+    {
+     "n": "Zhuhai Raysharp Technology（珠海睿芯）",
+     "c": "China",
+     "s": 27,
+     "p": "NVR, cameras, brackets; 2023-06-23 一票含 PoE switch (HS 8517.62.32)"
+    },
+    {
+     "n": "Optical Network Video Technologies（ONV 光网视，东莞大朗）",
+     "c": "China",
+     "s": 15,
+     "p": "PoE SWITCH / PoE extender (HS 8517.62 / 8536.50)"
+    },
+    {
+     "n": "Shenzhen Brother Young Development",
+     "c": "China",
+     "s": 5,
+     "p": "LAN cable"
+    },
+    {
+     "n": "Ningbo Lucktech Electronics",
+     "c": "China",
+     "s": 3,
+     "p": "telecom accessories / cabinets"
+    },
+    {
+     "n": "Hangzhou Aite Cable",
+     "c": "China",
+     "s": 2,
+     "p": "coaxial cable"
+    },
+    {
+     "n": "Shenzhen Anrecson Electronics",
+     "c": "China",
+     "s": 1,
+     "p": "monitor"
+    }
+   ],
+   "onv_shipments": [
+    [
+     "2022-12-22",
+     "2,834 kg 144 ctn",
+     "PoE switch ONV; $1,777"
+    ],
+    [
+     "2022-08-13",
+     "3,598 kg 207 ctn",
+     "PoE switch ONV; $7,614"
+    ],
+    [
+     "2022-05-01",
+     "1,965 kg 80 ctn",
+     "PoE switch ONV; $9,377"
+    ],
+    [
+     "2016-02",
+     "—",
+     "PoE extender + PoE switch (HTS 8517.62.39, BOL HNLTSZG1602132AC)"
+    ]
+   ],
+   "recent": [
+    [
+     "2024-10-17",
+     "Raysharp",
+     "1,345 kg 123 ctn",
+     "camera junction / NVR"
+    ],
+    [
+     "2024-06-03",
+     "Raysharp",
+     "1,396 kg 117 ctn",
+     "cameras"
+    ],
+    [
+     "2024-04-02",
+     "Raysharp",
+     "517 kg 61 ctn",
+     "DVR camera"
+    ],
+    [
+     "2024-02-14",
+     "Brother Young",
+     "1,689 kg 125 ctn",
+     "LAN cable"
+    ],
+    [
+     "2024-01-05",
+     "Raysharp",
+     "2,614 kg 208 ctn",
+     "NVR camera"
+    ],
+    [
+     "2023-11-30 / 10-06 / 08-28 / 07-20",
+     "Raysharp",
+     "1,309 / 2,693 / 1,727 / 1,312 kg",
+     "DVR/NVR/cameras"
+    ],
+    [
+     "2023-06-23",
+     "Raysharp",
+     "947 kg 104 ctn",
+     "cameras + NVR + PoE switch"
+    ]
+   ],
+   "china_share": "100%（58/58）",
+   "notes": "Nelly's 的 PoE 交换机海运供应商是 ONV（光网视），2016～2022-12 共 15 票；2023 起 PoE 交换机改由 Raysharp 随摄像头拼柜带入；2024-10-17 后整个海运断档（同步到 2026-10-21）。研究档已记：创始人 Sean Nelson 2023 年把 Nelly's 卖掉、专做 IPCamPower（SA-046，同在 Broken Arrow OK）——ONV 票止于 2022-12 与出售时间吻合 → IPCamPower 早年的 PoE 交换机货源大概率就是 ONV 这条线；IPCamPower 自己名下海运库查无（可能走空运或以其他主体报关）",
+   "chunks_read": [
+    0,
+    1,
+    2
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-951": {
+   "name": "Montavue (Missoula, MT)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/montavue",
+   "synced": "10/21/2026",
+   "last_shipment": "04/16/2024",
+   "total_shipments": 26,
+   "est_freight": "$47,984 (100%)",
+   "range": "04/2017-04/2024",
+   "suppliers": [
+    {
+     "n": "Dahua Technology HK / Dahua Technology International / Zhejiang Dahua Vision",
+     "c": "China",
+     "s": 25,
+     "p": "NVR, cameras, speed domes, 'Switch', cables, brackets (Dahua 整套 OEM)"
+    },
+    {
+     "n": "Hangzhou Huacheng Network Technology",
+     "c": "China",
+     "s": 1,
+     "p": "doorbell 2023-11-10"
+    }
+   ],
+   "recent": [
+    [
+     "2024-04-16",
+     "Dahua Intl",
+     "2,740 kg 236 ctn",
+     "junction, network cabinet, speed dome, cameras"
+    ],
+    [
+     "2024-03-12",
+     "Zhejiang Dahua Vision",
+     "4,610 kg 413 ctn",
+     "switch, cameras, speed dome"
+    ],
+    [
+     "2024-01-22",
+     "Dahua Intl",
+     "4,383 kg 396 ctn",
+     "wireless device, NVR, cameras"
+    ],
+    [
+     "2023-12-30",
+     "Dahua Intl",
+     "4,457 kg 352 ctn",
+     "brackets, cables, whiteboard bracket"
+    ]
+   ],
+   "china_share": "25/26 中国（全部大华系）",
+   "notes": "Montavue = 大华 OEM 品牌（交换机也随大华整柜来，提单直接写 'Switch'）；2024-04-16 后海运断档（同步至 2026-10-21）——与大华在美受限时间线吻合；如果他们要找非大华的交换机来源，正是空窗期",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-981": {
+   "name": "L-com / Infinite Electronics (North Andover, MA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/l-com",
+   "synced": "10/21/2026",
+   "last_shipment": "12/07/2024",
+   "total_shipments": 1634,
+   "est_freight": "$483,482 (44%)",
+   "range": "01/2015-12/2024",
+   "suppliers": [
+    {
+     "n": "L-com Suzhou Mfg（自有苏州厂）",
+     "c": "China",
+     "s": 464,
+     "p": "data/USB/coax cables, connectors"
+    },
+    {
+     "n": "(redacted) China",
+     "c": "China",
+     "s": 224,
+     "p": "antennas, cooling fans, power cords, HS 8517.62"
+    },
+    {
+     "n": "(redacted) Taiwan",
+     "c": "Taiwan",
+     "s": 191,
+     "p": "aluminium enclosures, NEMA plates, HS 8517.62"
+    },
+    {
+     "n": "Infinite Electronics SZ",
+     "c": "China (Suzhou)",
+     "s": 129,
+     "p": "cables/connectors"
+    },
+    {
+     "n": "Beijing Oriens Technology",
+     "c": "China",
+     "s": 46,
+     "p": "stampings"
+    },
+    {
+     "n": "Kunshan Amphenol Zhengri",
+     "c": "China",
+     "s": 45,
+     "p": "connectors, waterproof caps"
+    },
+    {
+     "n": "Comm (TW)",
+     "c": "Taiwan",
+     "s": 44,
+     "p": "USB cables, modular accessories"
+    }
+   ],
+   "china_share": "大头中国（含自有苏州厂）+ 台湾",
+   "notes": "自有苏州工厂 + 台湾 ODM 的大厂（Infinite Electronics 集团，28 个报关名）；2024-12 后在 'L Com' 名下断档——大概率改以集团其它名义报关；对我们：他们的工业交换机来自台湾/自有体系，Saga 只是千百个供应商候选之一（B 档保持）",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-751": {
+   "name": "EnGenius Technologies (Costa Mesa, CA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/engenius-technologies",
+   "synced": "10/21/2026",
+   "last_shipment": "09/25/2026",
+   "total_shipments": 351,
+   "avg_teu": 1.22,
+   "avg_teu_month": 1.42,
+   "est_freight": "$263,138 (73%)",
+   "range": "01/2015-09/2026",
+   "suppliers": [
+    {
+     "n": "Senao Networks（母公司神腦）",
+     "c": "Taiwan (Taoyuan)",
+     "s": 347,
+     "p": "wireless LAN products, switches (HS 8517.62/8517.69)"
+    },
+    {
+     "n": "EnGenius Networks",
+     "c": "Taiwan",
+     "s": 4,
+     "p": "wireless LAN product"
+    }
+   ],
+   "china_share": "0 中国 / 351 台湾（一票 2023-12 自越南胡志明：wireless router / network device / switch 158 ctn 6 plts）",
+   "notes": "EnGenius 的交换机 100% 来自母公司 Senao（台湾/越南），每月 ~2.4 票稳定；不会从中国外采整机 → 对 Saga 只有『缺口型号』机会，B 档不升",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-780": {
+   "name": "Signamax (Miami, FL)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/signamax",
+   "synced": "10/21/2026",
+   "last_shipment": "10/07/2026",
+   "total_shipments": 621,
+   "avg_teu": 1.12,
+   "avg_teu_month": 3.35,
+   "range": "01/2015-10/2026",
+   "lcl_fcl": "LCL 596 / FCL 25",
+   "ports": "Miami 80% / Savannah 14%",
+   "suppliers": [
+    {
+     "n": "Jye Juann Technology",
+     "c": "Taiwan",
+     "s": 237,
+     "p": "modular accessories, networking, STC(?) modular"
+    },
+    {
+     "n": "Surtec Industries",
+     "c": "Taiwan",
+     "s": 170,
+     "p": "keystone jacks, patch panels, plugs"
+    },
+    {
+     "n": "YFC Boneagle Electric",
+     "c": "Taiwan",
+     "s": 79,
+     "p": "LAN cable connectors"
+    },
+    {
+     "n": "Optical Network Video Technologies（ONV 光网视）",
+     "c": "China (Dongguan Dalang / Xinghe)",
+     "s": 35,
+     "p": "ETHERNET SWITCH / PoE SWITCH (HS 8517.62 / 8536.50)"
+    },
+    {
+     "n": "Etherwan Systems",
+     "c": "Taiwan",
+     "s": 32,
+     "p": "industrial networking, media converter chassis"
+    },
+    {
+     "n": "Qingdao Foconec Technologies",
+     "c": "China",
+     "s": 13,
+     "p": "rack-mount fiber enclosures"
+    },
+    {
+     "n": "Orel Corp",
+     "c": "Sri Lanka",
+     "s": 12,
+     "p": "Signamax metal enclosures"
+    }
+   ],
+   "onv_shipments": [
+    [
+     "2026-07-12",
+     "1,032 kg 58 ctn",
+     "Ethernet switch (ONV, Xinghe)"
+    ]
+   ],
+   "recent": [
+    [
+     "2026-10-07",
+     "Surtec (TW)",
+     "2,207 kg 232 ctn",
+     "modular accessories"
+    ],
+    [
+     "2026-09-25 / 09-09 / 09-04",
+     "Surtec",
+     "1,002 / 737 / 742 kg",
+     "modular accessories"
+    ],
+    [
+     "2026-09-05",
+     "Orel (LK)",
+     "1,978 kg 34 ctn",
+     "metal enclosures"
+    ],
+    [
+     "2026-08-25 / 08-10 / 07-28 / 07-08 / 06-12",
+     "Jye Juann (TW)",
+     "1,361 / 2,518 / 2,299 / 3,767 / 2,147 kg",
+     "networking modular accessories"
+    ],
+    [
+     "2026-07-12",
+     "ONV (CN)",
+     "1,032 kg 58 ctn",
+     "Ethernet switch"
+    ]
+   ],
+   "china_share": "中国 ≈48/621（ONV 35 + Foconec 13）；主体台湾",
+   "notes": "Signamax 的以太网/PoE 交换机 OEM 来自 ONV（光网视）——35 票、最近一票 2026-07-12；工业交换机走 Etherwan（台湾）；他们月均 3.35 TEU、几乎全 LCL 到迈阿密 → 已习惯中国拼箱；切入点 = ONV 没有的 Marvell 管理型/L3 与 2.5G",
+   "chunks_read": [
+    0,
+    2
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-1127": {
+   "name": "Lin Haw International (Burnaby BC; US imports)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/lin-haw-international",
+   "synced": "10/21/2026",
+   "last_shipment": "10/05/2026",
+   "total_shipments": 196,
+   "avg_teu": 1.0,
+   "avg_teu_month": 1.99,
+   "est_freight": "$314,748 (68%)",
+   "range": "01/2015-10/2026",
+   "suppliers": [
+    {
+     "n": "Safewell Group Holdings",
+     "c": "China (HK)",
+     "s": 51,
+     "p": "server racks — 2024-07 起几乎月月一票（3.2～9.2 t）"
+    },
+    {
+     "n": "Epnew Electronics",
+     "c": "Taiwan",
+     "s": 34,
+     "p": "LAN connectors"
+    },
+    {
+     "n": "Planet Technology（普莱德）",
+     "c": "Taiwan (New Taipei)",
+     "s": 24,
+     "p": "Gigabit / Fast Ethernet switches (HS 8517.62 / 8517.18)"
+    },
+    {
+     "n": "Modernsolid Industrial",
+     "c": "Taiwan",
+     "s": 23,
+     "p": "monitor arms"
+    },
+    {
+     "n": "Toten HK",
+     "c": "China",
+     "s": 15,
+     "p": "network server enclosures"
+    },
+    {
+     "n": "Sunf Pu Electric Wire & Cable / Sunf Pu Technology Dongguan",
+     "c": "China",
+     "s": 27,
+     "p": "LAN cable (2025-02-24 6,626 kg 483 ctn; 2024-06-23 6,545 kg 525 ctn)"
+    },
+    {
+     "n": "Lumi Legend",
+     "c": "China (Ningbo)",
+     "s": "≥1",
+     "p": "brackets 2025-09-18"
+    }
+   ],
+   "recent": [
+    [
+     "2026-04-17 … 2025-10-22",
+     "Safewell",
+     "3.2～4.8 t/票",
+     "server rack（月度）"
+    ],
+    [
+     "2025-09-18",
+     "Lumi Legend",
+     "1,172 kg 71 ctn",
+     "brackets"
+    ],
+    [
+     "2025-02-24",
+     "Sunf Pu Dongguan",
+     "6,626 kg 483 ctn",
+     "network cable"
+    ],
+    [
+     "2025-01-17",
+     "Safewell",
+     "8,741 kg 302 pkg",
+     "server rack"
+    ]
+   ],
+   "china_share": "机柜/网线中国，交换机台湾 Planet",
+   "notes": "Lin Haw 是 Planet（普莱德）加拿大经销，24 票交换机全来自台湾 Planet；2024-06 以后的近期提单里看不到 Planet 或任何中国交换机 → 交换机要么空运、要么量小；他们月月从中国海运机柜，有现成拼箱通道（这正是 W 期 Planet 渠道名单里的户，已归 B）",
+   "chunks_read": [
+    0,
+    2
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-1096": {
+   "name": "West Penn Wire (Washington, PA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/west-penn-wire",
+   "synced": "10/21/2026",
+   "last_shipment": "06/29/2019",
+   "total_shipments": 14,
+   "range": "04/2015-06/2019",
+   "suppliers": [
+    {
+     "n": "Zhejiang Shengyang Science & Technology",
+     "c": "China",
+     "s": 7,
+     "p": "coaxial cable（整柜 13 t）"
+    },
+    {
+     "n": "Wonderful Hi Tech",
+     "c": "Taiwan",
+     "s": 3,
+     "p": "communication cable reels"
+    },
+    {
+     "n": "Jinn Feng Electronic Tech",
+     "c": "China (Dongguan)",
+     "s": 2,
+     "p": "cable assemblies 2018-08 / 2019-06"
+    }
+   ],
+   "notes": "本土线缆厂，海运仅 2015～2019 的同轴线与线束，2019 后无；交换机类从未海运 → 他们的『West Penn』网络硬件（如果外采）走空运或美国本土代理",
+   "fetched": "2026-10-27"
+  },
+  "SB-252": {
+   "name": "Platinum CCTV",
+   "found": false,
+   "tried": [
+    "company/platinum-cctv 404"
+   ],
+   "notes": "美国海运提单库查无",
+   "fetched": "2026-10-27"
+  },
+  "SB-143": {
+   "name": "BroadStar (West Palm Beach, FL)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/broadstar",
+   "synced": "10/21/2026",
+   "last_shipment": "07/29/2024",
+   "total_shipments": 13,
+   "range": "11/2020-07/2024",
+   "suppliers": [
+    {
+     "n": "Shenzhen Unitekfiber Solution",
+     "c": "China (Longhua)",
+     "s": 7,
+     "p": "FTTH drop cable, patch cords, pigtails, closures, dome enclosures"
+    },
+    {
+     "n": "Shenzhen Foclink Communication",
+     "c": "China",
+     "s": 1,
+     "p": "fiber patch panel"
+    },
+    {
+     "n": "Zhangjiagang Channel / Foshan Joinus",
+     "c": "China",
+     "s": 2,
+     "p": "cable trunking"
+    },
+    {
+     "n": "Yueqing Hongji / Jiaxing Yuchao",
+     "c": "China",
+     "s": 2,
+     "p": "brackets / screws"
+    }
+   ],
+   "china_share": "13/13 中国",
+   "notes": "FTTH 光纤耗材为主（深圳 Unitekfiber），2020-11～2022-10 活跃，2024-07 一票螺丝后无；交换机从未海运",
+   "fetched": "2026-10-27"
+  },
+  "SB-223": {
+   "name": "2M Technology (Irving, TX)",
+   "found": false,
+   "tried": [
+    "company/2m-technology → 重定向到 2M Distributors（纽约玩具进口商，无关）"
+   ],
+   "notes": "同名干扰；真正的 2M Technology 无海运记录",
+   "fetched": "2026-10-27"
+  },
+  "SB-253": {
+   "name": "Provision-ISR (HK 母公司 + San Antonio TX 分销)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/provision-isr",
+   "synced": "10/21/2026",
+   "last_shipment": "01/06/2023",
+   "total_shipments": 7,
+   "range": "04/2017-01/2023",
+   "suppliers": [
+    {
+     "n": "Provision ISR Limited（自己的香港/深圳主体）",
+     "c": "China",
+     "s": 7,
+     "p": "CCTV equipment (2017-04 6,116 kg 532 ctn; 2021-08 9,473 kg 914 ctn + 6,355 kg 625 ctn; 2022-11 2,263 kg 213 ctn; 2023-01 2,050 kg 164 ctn)"
+    }
+   ],
+   "china_share": "7/7 中国（自供）",
+   "notes": "以色列品牌、自己从中国发货到美国 San Antonio 分销点；2023-01 后无海运；他们是品牌商自带供应链，交换机若有也在自家体系 → B 保持",
+   "fetched": "2026-10-27"
+  },
+  "SB-761": {
+   "name": "SCW / Security Camera Warehouse (Asheville, NC)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/security-camera-warehouse",
+   "synced": "10/21/2026",
+   "last_shipment": "09/02/2026",
+   "total_shipments": 90,
+   "avg_teu": 1.45,
+   "avg_teu_month": 1.21,
+   "range": "12/2017-09/2026",
+   "suppliers": [
+    {
+     "n": "UNV Digital Technologies（宇视）",
+     "c": "China",
+     "s": 77,
+     "p": "cameras, NVR, decoders, brackets, ETHERNET SWITCH（随宇视整单）"
+    },
+    {
+     "n": "Zhejiang Uniview Technologies",
+     "c": "China",
+     "s": 11,
+     "p": "cameras / NVR"
+    },
+    {
+     "n": "Hongkong Raton International",
+     "c": "HK",
+     "s": 2,
+     "p": "cameras / NVR"
+    }
+   ],
+   "recent": [
+    [
+     "2026-09-02",
+     "UNV",
+     "2,349 kg 143 ctn",
+     "video decoder, junction, ETHERNET SWITCH, camera"
+    ],
+    [
+     "2026-08-26",
+     "UNV",
+     "3,626 kg 252 ctn",
+     "brackets, dome adapter, ETHERNET SWITCH, NVR, cameras"
+    ],
+    [
+     "2026-07-14",
+     "UNV",
+     "3,244 kg 350 ctn",
+     "cameras/NVR/mounts"
+    ],
+    [
+     "2026-06-30",
+     "UNV",
+     "2,937 kg 190 ctn",
+     "network storage cabinet, PSU, NVR, cameras"
+    ],
+    [
+     "2026-04-30",
+     "UNV",
+     "1,168 kg 74 ctn",
+     "PSU, cables, cameras"
+    ]
+   ],
+   "china_share": "100%（宇视独家）",
+   "notes": "SCW 是宇视（Uniview）美国 OEM 品牌，交换机也由宇视随摄像头整单带入（2026-08/09 两票提单明写 'Ethernet Switch'），月均 ~1 票 → 他们没有独立的交换机采购线，除非宇视缺某型号；B 保持",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-739": {
+   "name": "Arcdyn (Asheville, NC)",
+   "found": false,
+   "tried": [
+    "company/arcdyn 404"
+   ],
+   "notes": "美国海运提单库查无（与 SCW 同城，可能同一体系走 SCW 名义）",
+   "fetched": "2026-10-27"
+  },
+  "SB-099": {
+   "name": "Rocstor (Rouses Point, NY / Simi Valley, CA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/rocstor",
+   "synced": "10/21/2026",
+   "last_shipment": "10/18/2026",
+   "total_shipments": 190,
+   "avg_teu": 1.62,
+   "avg_teu_month": 2.84,
+   "est_freight": "$485,076 (94%)",
+   "range": "01/2015-10/2026",
+   "suppliers": [
+    {
+     "n": "CE Link Viet Nam",
+     "c": "Vietnam",
+     "s": 25,
+     "p": "cables, chargers, adapters (HS 8544.42/8504.40/8517.62)"
+    },
+    {
+     "n": "Ingamar",
+     "c": "Taiwan",
+     "s": 19,
+     "p": "laptop locks"
+    },
+    {
+     "n": "Chen Source",
+     "c": "Taiwan",
+     "s": 19,
+     "p": "charging carts / wall mounts"
+    },
+    {
+     "n": "Zhongshan Sinseader Electronic",
+     "c": "China",
+     "s": 16,
+     "p": "AV cables/adapters"
+    },
+    {
+     "n": "JCom Info Telecom",
+     "c": "Korea",
+     "s": 15,
+     "p": "privacy filters"
+    },
+    {
+     "n": "Vicround",
+     "c": "Taiwan",
+     "s": 15,
+     "p": "privacy filters, screen protectors"
+    },
+    {
+     "n": "Raid On Technology",
+     "c": "Taiwan",
+     "s": 7,
+     "p": "Rocpro external storage"
+    }
+   ],
+   "china_share": "混合：越南/台湾/韩国为主，中国约 1/4",
+   "notes": "IT 配件品牌（线材、充电车、隐私膜、外置存储），月均 ~1.4 票；清单里没有以太网交换机 → 对 Saga 是品类外的户，B 保持（他们问过的大概率是配件）",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-1001": {
+   "name": "Altelix (Boca Raton, FL)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/altelix",
+   "synced": "10/21/2026",
+   "last_shipment": "10/18/2026",
+   "total_shipments": 142,
+   "avg_teu": 4.19,
+   "avg_teu_month": 8.38,
+   "range": "02/2017-10/2026",
+   "suppliers": [
+    {
+     "n": "Ningbo Yingshi FRP",
+     "c": "China",
+     "s": 26,
+     "p": "FRP enclosures (NEMA)"
+    },
+    {
+     "n": "Sanny Telecom Equipment",
+     "c": "China (Donghai / Shi'an)",
+     "s": 31,
+     "p": "antennas, mounting brackets, heaters"
+    },
+    {
+     "n": "Yueqing Yisen Electronic / Zhejiang Tianqi Electric",
+     "c": "China",
+     "s": 28,
+     "p": "polyester / metal enclosures, locks"
+    },
+    {
+     "n": "Ningbo CNA-L Trans / Zhejiang CAL",
+     "c": "China",
+     "s": 17,
+     "p": "fiber terminal boxes, pole mount kits, cable glands"
+    }
+   ],
+   "china_share": "130/142 中国",
+   "notes": "Altelix = 户外 NEMA 机箱 + 天线 + 光纤终端盒的自有品牌，整柜级（8.4 TEU/月）从宁波/温州直发；提单上从未出现交换机——他们的『户外 PoE 机箱』正需要配工业 PoE 交换机 → 这是『给机箱配一台 DIN 导轨 PoE 交换机』的捆绑切入点（STI-154GP/STI-244GP 类）",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-098": {
+   "name": "Nexxt Solutions (Miami, FL)",
+   "found": false,
+   "tried": [
+    "company/nexxt-solutions 404"
+   ],
+   "notes": "美国海运提单库查无（Nexxt 为 Accvent 集团品牌，可能以 Accvent/其他主体报关，或直发拉美不经美国）",
+   "fetched": "2026-10-27"
+  },
+  "SB-1024": {
+   "name": "DOW Technologies (Duluth, GA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/dow-technologies",
+   "synced": "10/21/2026",
+   "last_shipment": "03/19/2026",
+   "total_shipments": 16,
+   "avg_teu": 1.56,
+   "avg_teu_month": 0.26,
+   "range": "06/2021-03/2026",
+   "suppliers": [
+    {
+     "n": "Astrosound Audio",
+     "c": "China (Jiaxing)",
+     "s": 9,
+     "p": "speakers / subwoofers（自有品牌 Redic）"
+    },
+    {
+     "n": "Jiaxing Jinlida Electron",
+     "c": "China",
+     "s": 4,
+     "p": "loudspeakers"
+    },
+    {
+     "n": "Ningbo Yago / Shimaotong / Yihoo",
+     "c": "China",
+     "s": 3,
+     "p": "amplifiers, speakers"
+    }
+   ],
+   "china_share": "16/16 中国",
+   "notes": "DOW 是美国东南部 AV/安防分销，自有音箱品牌从嘉兴/宁波海运（季度级，Savannah 港）；交换机从未自行进口 → 他们的网络产品走美国代理，Saga 要进只能做他们自有品牌的『配套 PoE 交换机』（OEM 30%）",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-1030": {
+   "name": "Fibertronics (Melbourne, FL)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/fibertronics",
+   "synced": "10/21/2026",
+   "last_shipment": "10/19/2026",
+   "total_shipments": 191,
+   "avg_teu": 1.9,
+   "avg_teu_month": 2.85,
+   "est_freight": "$366,712 (63%)",
+   "range": "01/2015-10/2026",
+   "suppliers": [
+    {
+     "n": "Ningbo Lisi Import & Export / Ningbo Lishi Commodity",
+     "c": "China",
+     "s": 46,
+     "p": "fiber enclosures, splice trays, closures"
+    },
+    {
+     "n": "KN Communication",
+     "c": "China (Conghua)",
+     "s": 23,
+     "p": "fiber patch panels"
+    },
+    {
+     "n": "Sunraycom Optical / Shenzhen Spring Optical",
+     "c": "China (Shenzhen)",
+     "s": 31,
+     "p": "fiber panels, pigtails, patch cords, wall mounts"
+    },
+    {
+     "n": "Hefei Lasun Communication",
+     "c": "China",
+     "s": 16,
+     "p": "copper patch cords"
+    },
+    {
+     "n": "(2026-05) fiber laying / gluing / panel cutter machines",
+     "c": "China",
+     "s": 1,
+     "p": "自建光纤面板产线设备"
+    }
+   ],
+   "china_share": "~100% 中国",
+   "notes": "Fibertronics = 光纤配线/机柜耗材进口商+组装厂（月均 1.4 票，2026-05 还进了整套光纤面板生产设备 → 在美国本土组装）；提单从未出现交换机；他们卖的是布线侧，交换机只是配套 → 可做『光纤配线 + 光口交换机』配套（STI-280DGGM / 光口机型）",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-541": {
+   "name": "KBC Networks USA (Bensenville, IL；英国 KBC 的美国公司)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/kbc-networks-usa",
+   "synced": "10/21/2026",
+   "last_shipment": "04/20/2021",
+   "total_shipments": 37,
+   "range": "02/2015-04/2021",
+   "suppliers": [
+    {
+     "n": "Shenzhen Topband（拓邦）",
+     "c": "China",
+     "s": 23,
+     "p": "LED tubes / drivers（2016 年整柜，与网络业务无关的照明线）"
+    },
+    {
+     "n": "Shanghai Shen Hang Import & Export",
+     "c": "China (Shanghai)",
+     "s": 7,
+     "p": "ETHERNET SWITCH, enclosures, fiber optic transceivers（2016-01-13 1,120 kg 5 pkg 'Ethernet Switch Enclosure Water Proof Enclosure Connector'；2016-11 / 2017-08 / 2018-11 再 3 票）"
+    },
+    {
+     "n": "Taizhou Jiaoguang / Shenzhen Bonld",
+     "c": "China",
+     "s": 6,
+     "p": "LED lights"
+    },
+    {
+     "n": "Qingdao Richmat",
+     "c": "China",
+     "s": 1,
+     "p": "motor drive 2021-04（最后一票）"
+    }
+   ],
+   "china_share": "37/37 中国",
+   "notes": "KBC 的工业以太网交换机/光端机曾经由上海申航进出口代理从中国海运到美国（2016-01 → 2018-11，共 7 票，件数很小 3～33 pkg），2021-04 后美国主体无任何海运 → 现在要么英国总部统一进、要么空运；对 Saga：KBC 是有自家工业交换机产品线的品牌，只能做代工补充（他们曾经从中国贴牌是事实）",
+   "chunks_read": [
+    0,
+    1
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-501": {
+   "name": "DITEK (Largo, FL)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/ditek",
+   "synced": "10/21/2026",
+   "last_shipment": "08/14/2026",
+   "total_shipments": 101,
+   "avg_teu": 1.37,
+   "avg_teu_month": 1.14,
+   "range": "01/2015-08/2026",
+   "suppliers": [
+    {
+     "n": "Prosurge Electronics",
+     "c": "China (Foshan Nanhai)",
+     "s": 42,
+     "p": "surge protective devices, MOV varistors"
+    },
+    {
+     "n": "Powertech Industrial / Sheng Shing Viet Nam",
+     "c": "Vietnam",
+     "s": 45,
+     "p": "surge suppressors（越南代工，2 家）"
+    },
+    {
+     "n": "Seho Systems / BTU / Flason",
+     "c": "DE / CN / HK",
+     "s": 5,
+     "p": "波峰焊 / 回流焊产线设备（本土组装）"
+    }
+   ],
+   "china_share": "约 50% 中国（佛山 Prosurge）+ 越南 45%",
+   "notes": "DITEK = 浪涌保护器品牌，元件与成品从佛山/越南海运（月均 ~1 票，2026-08 仍活跃）；交换机从未进口 → 他们是『PoE 浪涌保护』配套品牌，能买的只会是『带浪涌保护的 PoE 交换机』概念，B 保持",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-544": {
+   "name": "Mako Networks Sales & Marketing (Elgin, IL；新西兰 Mako 的美国公司)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/mako-networks-sales-marketing",
+   "synced": "10/21/2026",
+   "last_shipment": "08/14/2026",
+   "total_shipments": 17,
+   "avg_teu": 2.12,
+   "avg_teu_month": 0.53,
+   "est_freight": "$27,122 (94%)",
+   "range": "03/2015-08/2026",
+   "suppliers": [
+    {
+     "n": "Emplus Technologies（台湾 ODM，Senao/EnGenius 系）",
+     "c": "Taiwan",
+     "s": 15,
+     "p": "Mako 贴牌 PoE 管理交换机 + AP：'24-Port Gigabit PoE Managed Switch with 4 SFP slots' 720 ctn 10,250 kg（2025-08-07）；'48-Port Gigabit PoE Managed Switch' 500 ctn 6,330 kg（2025-08-19）；2025-04 三票 884+620+360 ctn；2026-03-09 167 ctn；2026-06-18 540 ctn 7,763 kg；2026-08-14 AP 200 ctn"
+    },
+    {
+     "n": "Optical Network Video Technologies（ONV 光网视）",
+     "c": "China",
+     "s": 1,
+     "p": "PoE Switch 375 kg 18 ctn（2020-04-10，一次性试单）"
+    },
+    {
+     "n": "GPC Electronics Asia",
+     "c": "China (Xiamen)",
+     "s": 1,
+     "p": "WiFi router 2015-03"
+    }
+   ],
+   "recent": [
+    [
+     "2026-08-14",
+     "Emplus TW",
+     "2,410 kg 200 ctn",
+     "access points"
+    ],
+    [
+     "2026-06-18",
+     "Emplus TW",
+     "7,763 kg 540 ctn",
+     "24-port PoE managed switch w/ SFP"
+    ],
+    [
+     "2026-03-09",
+     "Emplus TW",
+     "2,655 kg 167 ctn",
+     "switch"
+    ],
+    [
+     "2025-09-19",
+     "Emplus TW",
+     "2,414 kg 201 ctn",
+     "switch + AP"
+    ],
+    [
+     "2025-08-19",
+     "Emplus TW",
+     "6,330 kg 500 ctn",
+     "48-port PoE managed switch"
+    ],
+    [
+     "2025-08-07",
+     "Emplus TW",
+     "10,250 kg 720 ctn",
+     "24-port PoE managed switch 4 SFP"
+    ],
+    [
+     "2025-04-12/14/21",
+     "Emplus TW",
+     "8,042+12,009+5,196 kg",
+     "switches + AP（三票 1,864 ctn）"
+    ],
+    [
+     "2020-04-10",
+     "ONV 光网视",
+     "375 kg 18 ctn",
+     "PoE switch（唯一中国交换机试单）"
+    ]
+   ],
+   "china_share": "交换机 15/16 台湾 Emplus，中国 ONV 仅 1 票试单（2020-04）",
+   "onv_shipments": 1,
+   "notes": "Mako（新西兰 SD-WAN 厂商）的 PoE 管理交换机 2020 年起由台湾 Emplus 贴牌，2025-04 以来放量（2025 年 ≥ 3,200 ctn，2026 已 3 票 ~900 ctn）；2020-04 曾试过 ONV 一票 18 箱后没再续 → 他们『试过中国 PoE 交换机、最后选台湾 ODM』：Saga 的切入只能是价格差 + Marvell 管理型替代 Emplus 24/48 口 PoE 款（STI-42424XGGPM / STC-448XGGPM 对位），且要过 Mako 云管理固件适配这一关",
+   "chunks_read": [
+    0,
+    1
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-712": {
+   "name": "Maple Systems (Everett, WA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/maple-systems",
+   "synced": "10/21/2026",
+   "last_shipment": "04/17/2020",
+   "total_shipments": 9,
+   "range": "01/2019-04/2020",
+   "suppliers": [
+    {
+     "n": "Aplex Technology",
+     "c": "Taiwan",
+     "s": 9,
+     "p": "HMI / industrial computers（每票固定 54 ctn ~202 kg，2019-01～2020-04 双月一票）"
+    }
+   ],
+   "china_share": "0%（全台湾）",
+   "notes": "HMI/工业 PC 品牌，海运只有 2019–2020 的台湾 Aplex 贴牌 HMI，之后全无（改空运或台湾直发客户）；交换机从未海运；他们网站卖的工业交换机是配套品 → 对 Saga 是『给 HMI 配 DIN 导轨交换机』的 OEM 思路，B 保持",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-772": {
+   "name": "Mencom (Oakwood, GA)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/mencom",
+   "synced": "10/21/2026",
+   "last_shipment": "10/14/2026",
+   "total_shipments": 609,
+   "avg_teu": 1.99,
+   "avg_teu_month": 9.13,
+   "est_freight": "$1.2M (69%)",
+   "range": "03/2015-10/2026",
+   "suppliers": [
+    {
+     "n": "ILME / Omal / Tecnikabel",
+     "c": "Italy",
+     "s": 295,
+     "p": "industrial connectors, plugs/sockets, cables"
+    },
+    {
+     "n": "Jacob / Jacob Elektronische Fabrik",
+     "c": "Germany",
+     "s": 140,
+     "p": "cable glands"
+    },
+    {
+     "n": "Shanghai Sanjin Import & Export / Shanghai Haicheng Economic & Trade",
+     "c": "China (Shanghai)",
+     "s": 77,
+     "p": "Mencom 品牌 M12/工业连接器、插头、耦合器（中国代工）"
+    }
+   ],
+   "china_share": "约 13% 中国（上海两家外贸公司），主体是意大利/德国",
+   "notes": "Mencom = 工业连接器分销/品牌（每月 ~4 票、年 ~110 TEU），中国部分是上海代工的 Mencom 牌 M12 连接器；提单上没有以太网交换机 → 他们卖工业以太网线缆/连接器，交换机只是目录配套，Saga 能做的是 DIN 导轨 M12/工业交换机配套（守界：不碰 IP67）",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-810": {
+   "name": "ENS Security (Plainview, NY)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/ens-security",
+   "synced": "10/21/2026",
+   "last_shipment": "01/30/2022",
+   "total_shipments": 3,
+   "range": "07/2019-01/2022",
+   "suppliers": [
+    {
+     "n": "Shun Fat Electric / Shun Fat Innovations",
+     "c": "China (HK)",
+     "s": 2,
+     "p": "telecom cable 2019-07（整柜 40ft）"
+    },
+    {
+     "n": "Shenzhen Mengzhituo Keji",
+     "c": "China",
+     "s": 1,
+     "p": "speaker LED light strip 2022-01"
+    }
+   ],
+   "china_share": "3/3 中国",
+   "notes": "ENS = 大华（Dahua）美国 OEM 品牌之一，自己名下只有 3 票线缆/灯带，主货（摄像头/NVR/交换机）显然由大华美国或其他主体报关 → 交换机采购权不在 ENS 手里，B 保持",
+   "fetched": "2026-10-27"
+  },
+  "SB-756": {
+   "name": "FluxLight (Dallas, TX)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/fluxlight",
+   "synced": "10/21/2026",
+   "last_shipment": "08/02/2021",
+   "total_shipments": 2,
+   "range": "09/2020-08/2021",
+   "suppliers": [
+    {
+     "n": "TTI Fiber Communication Tech",
+     "c": "China (Shenzhen Bao'an)",
+     "s": 1,
+     "p": "fiber patch cords 943 kg 49 ctn（2021-08-02）"
+    },
+    {
+     "n": "Shenzhen TRT Fiber Tech",
+     "c": "China",
+     "s": 1,
+     "p": "fiber patch cords 529 kg 30 ctn（2020-09-10）"
+    }
+   ],
+   "china_share": "2/2 中国",
+   "notes": "光模块/跳线电商，海运只有两票深圳跳线（2020–2021），光模块本身走空运/快递看不见；交换机从未海运 → 他们是『光模块配交换机』的交叉销售对象，量小，B 保持",
+   "fetched": "2026-10-27"
+  },
+  "SB-621": {
+   "name": "LANshack (Flemington, NJ)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/lanshack",
+   "synced": "10/21/2026",
+   "last_shipment": "06/01/2023",
+   "total_shipments": 1,
+   "range": "06/2023",
+   "suppliers": [
+    {
+     "n": "Ningbo Lucktech Electronics",
+     "c": "China (Ningbo)",
+     "s": 1,
+     "p": "cabinets + accessories 2,059 kg 132 pkg（2023-06-01）"
+    }
+   ],
+   "china_share": "1/1 中国",
+   "notes": "布线电商，唯一一票是 2023-06 的宁波机柜整单；其余货（线缆、交换机）走美国分销或空运 → 小户，B 保持",
+   "fetched": "2026-10-27"
+  },
+  "SB-538": {
+   "name": "Infinite Cables (Markham, ON；经美国港口进口)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/infinite-cables",
+   "synced": "10/21/2026",
+   "last_shipment": "08/12/2024",
+   "total_shipments": 182,
+   "est_freight": "$716,174 (89%)",
+   "range": "02/2015-08/2024",
+   "suppliers": [
+    {
+     "n": "Lumi Legend",
+     "c": "China (Ningbo)",
+     "s": 33,
+     "p": "cable management, network cabinets"
+    },
+    {
+     "n": "CE Link",
+     "c": "China (Dongguan)",
+     "s": 22,
+     "p": "cables, extenders, hubs, chargers"
+    },
+    {
+     "n": "Hangzhou Florian / Nantong Xushi / On Fame",
+     "c": "China",
+     "s": 32,
+     "p": "LAN / coax / communication cable"
+    },
+    {
+     "n": "MSL Vietnam",
+     "c": "Vietnam",
+     "s": 13,
+     "p": "datacom cable, power cords"
+    },
+    {
+     "n": "Behpex Cable",
+     "c": "China",
+     "s": 10,
+     "p": "patch cables"
+    },
+    {
+     "n": "Shenzhen Centro Technology（= Optiview 的 PoE 交换机供应商）",
+     "c": "China (Shenzhen Xixiang)",
+     "s": 2,
+     "p": "PoE injectors, power adapters, PoE extender（非交换机）"
+    }
+   ],
+   "china_share": "~90% 中国",
+   "notes": "加拿大 Markham 布线电商，2015–2024 经美国港口海运 182 票（线缆/机柜/配件），2024-08 后在美国海关记录里消失（可能改走温哥华/多伦多直进，加拿大数据不公开）；曾从 Shenzhen Centro 买 PoE 供电器/延长器 2 票 → 已经跟深圳 PoE 厂打过交道、只差交换机本身；对 Saga：STI-154GP / STC-028GP 这类小 PoE 可当『线缆电商配套』推",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-913": {
+   "name": "LanPro (Doral, FL)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/lanpro",
+   "synced": "10/21/2026",
+   "last_shipment": "10/06/2024",
+   "total_shipments": 24,
+   "range": "04/2015-10/2024",
+   "suppliers": [
+    {
+     "n": "Chily Precision Industrial",
+     "c": "Taiwan",
+     "s": 4,
+     "p": "sockets"
+    },
+    {
+     "n": "Hunan GL Technology",
+     "c": "China",
+     "s": 2,
+     "p": "fiber optic cable"
+    },
+    {
+     "n": "Ningbo Safewell",
+     "c": "China",
+     "s": 1,
+     "p": "server rack"
+    },
+    {
+     "n": "杂项（阳江刀具、宁波减压球、越南帽子、厦门印刷品）",
+     "c": "CN/VN",
+     "s": 10,
+     "p": "促销品 / 杂货"
+    }
+   ],
+   "china_share": "~70% 中国",
+   "notes": "迈阿密转口拉美的网络品牌（LanPro），美国海关可见的 24 票多为促销品和少量线缆/机柜，交换机没有走美国港口 → 主货直发拉美（哥伦比亚/委内瑞拉）不经美国，美国数据看不到；B 保持",
+   "chunks_read": [
+    0
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-209": {
+   "name": "Denwa (Miami, FL)",
+   "found": false,
+   "tried": [
+    "company/denwa 404"
+   ],
+   "notes": "美国海运提单库查无（拉美 IP 话机品牌，货大概率直发拉美）",
+   "fetched": "2026-10-27"
+  }
+ }
+}

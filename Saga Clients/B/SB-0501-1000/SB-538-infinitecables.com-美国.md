@@ -67,6 +67,21 @@ updated: 2026-10-27
 - **同国同档参照（US，20% 档、主推线「商用 2.5G PoE 管理型」，共 2 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同档：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SB-020 52networks.com（B，同档：成交 STI-288GP，回过 14 次（最近 2025-07-24））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **182 票**（02/2015-08/2024）；最近一票 **08/12/2024**；ImportYeti 估算海运费累计 $716,174 (89%)（不是货值）。[公司页](https://www.importyeti.com/company/infinite-cables)（synced 10/21/2026）
+- **中国占比**：~90% 中国
+- **主要发货人**（票数 · 品名）：
+  - Lumi Legend（China (Ningbo)）· 33 票 · cable management, network cabinets
+  - CE Link（China (Dongguan)）· 22 票 · cables, extenders, hubs, chargers
+  - Hangzhou Florian / Nantong Xushi / On Fame（China）· 32 票 · LAN / coax / communication cable
+  - MSL Vietnam（Vietnam）· 13 票 · datacom cable, power cords
+  - Behpex Cable（China）· 10 票 · patch cables
+  - Shenzhen Centro Technology（= Optiview 的 PoE 交换机供应商）（China (Shenzhen Xixiang)）· 2 票 · PoE injectors, power adapters, PoE extender（非交换机）
+- **对 Saga 的含义**：加拿大 Markham 布线电商，2015–2024 经美国港口海运 182 票（线缆/机柜/配件），2024-08 后在美国海关记录里消失（可能改走温哥华/多伦多直进，加拿大数据不公开）；曾从 Shenzhen Centro 买 PoE 供电器/延长器 2 票 → 已经跟深圳 PoE 厂打过交道、只差交换机本身；对 Saga：STI-154GP / STC-028GP 这类小 PoE 可当『线缆电商配套』推
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

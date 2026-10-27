@@ -65,6 +65,7 @@ updated: 2026-10-27
 - **发信窗口（PL 全库 585 封群发的打开标签，对方本地时间；均值 5.5%）**：周四 12–14 点 4.8%（42 封）、周五 10–12 点 2.4%（41 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 546 条 URL（≥500 = 大目录 / 网店体量）；官网语言 pl（信照样英文，首句可用对方语言问候）；社媒：http://www.facebook.com/share.php?u=https://www.poznan.pl/mim/public/main/pages.html?co=list&id=19&instance=1017&lang=&ch=20&p=&lhs=publications&、http://www.youtube.com/poznan、https://twitter.com/intent/tweet?url=https://www.poznan.pl/mim/public/main/pages.html?co=list&id=19&instance=1017&lang=&ch=20&p=&lhs=publications&。
 - **同国同档参照（PL，20% 档、主推线「商用 2.5G PoE 管理型」，共 1 户有动静，列前 3）**：SA-023 fcnet.pl（A，同档同线：回过 2 次（最近 2025-04-22））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
+- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [zsk-poznan](https://github.com/zsk-poznan)（官网/邮箱域名一致；公开仓库 14，最近 push 2026-10-25：ZSK_plan_scrapper、README、zastepstwa）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-11-11 独立日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

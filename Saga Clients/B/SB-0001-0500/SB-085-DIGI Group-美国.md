@@ -91,6 +91,31 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「工业 10G PoE 管理型」，共 8 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **17 票**（05/2020-02/2025）；最近一票 **02/22/2025**；ImportYeti 估算海运费累计 $36,453 (100% coverage)（不是货值）。[公司页](https://www.importyeti.com/company/thor-fiber)（synced 10/21/2026）
+- **中国占比**：14/17 中国 + 3 台湾
+- **主要发货人**（票数 · 品名）：
+  - Dexin Digital Technology（成都德芯）（China）· 5 票 · QAM modulators, HDMI/SDI encoders, tuner gateways (Thor-branded)
+  - Hangzhou Prevail Communication（China）· 4 票 · optical (HS 9001.10)
+  - Dingshengwei Electronics（深圳鼎盛威）（China (Nanshan)）· 4 票 · modulators / reception machines
+  - Suntechtv（Taiwan）· 3 票 · set-top box, power supply
+  - Zhuhai Gecen Electronic（China）· 1 票 · amplifier
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2025-02-22 · Suntechtv (TW) · 291 kg 16 ctn · power supply
+  - 2025-01-27 · Dexin Digital · 991 kg 46 ctn · modulator
+  - 2024-02-20 · Hangzhou Prevail · 352 kg 19 ctn · optical; $3,805
+  - 2024-01-23 · Dexin Digital · 610 kg 32 ctn · modulator
+  - 2023-09-12 · Dingshengwei · 469 kg 28 ctn · reception machines
+  - 2023-08-30 · Dexin Digital · 949 kg 40 ctn · modulator; $2,086
+  - 2023-08-29 · Hangzhou Prevail · 238 kg 13 ctn · optical; $1,940
+  - 2023-04-21 · Hangzhou Prevail · 528 kg 27 ctn · optical
+  - 2023-03-04 · Dexin Digital · 1,266 kg 54 ctn · modulator
+  - 2022-08-15 · Dingshengwei · 1,682 kg 93 ctn · reception machines; $7,357
+- **对 Saga 的含义**：Thor 的『自有品牌』广播设备其实是成都德芯/深圳鼎盛威的 OEM（提单上直接写 'Thor Qam Tuner Gateway'）——他们是熟练的中国 OEM 买家；清单里没有交换机 → 他们的光纤交换机品类不是海运来的；2025-02 后海运断档
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

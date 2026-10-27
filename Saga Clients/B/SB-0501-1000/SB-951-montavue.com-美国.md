@@ -68,6 +68,22 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「商用 2.5G PoE 管理型」，共 9 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **26 票**（04/2017-04/2024）；最近一票 **04/16/2024**；ImportYeti 估算海运费累计 $47,984 (100%)（不是货值）。[公司页](https://www.importyeti.com/company/montavue)（synced 10/21/2026）
+- **中国占比**：25/26 中国（全部大华系）
+- **主要发货人**（票数 · 品名）：
+  - Dahua Technology HK / Dahua Technology International / Zhejiang Dahua Vision（China）· 25 票 · NVR, cameras, speed domes, 'Switch', cables, brackets (Dahua 整套 OEM)
+  - Hangzhou Huacheng Network Technology（China）· 1 票 · doorbell 2023-11-10
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2024-04-16 · Dahua Intl · 2,740 kg 236 ctn · junction, network cabinet, speed dome, cameras
+  - 2024-03-12 · Zhejiang Dahua Vision · 4,610 kg 413 ctn · switch, cameras, speed dome
+  - 2024-01-22 · Dahua Intl · 4,383 kg 396 ctn · wireless device, NVR, cameras
+  - 2023-12-30 · Dahua Intl · 4,457 kg 352 ctn · brackets, cables, whiteboard bracket
+- **对 Saga 的含义**：Montavue = 大华 OEM 品牌（交换机也随大华整柜来，提单直接写 'Switch'）；2024-04-16 后海运断档（同步至 2026-10-21）——与大华在美受限时间线吻合；如果他们要找非大华的交换机来源，正是空窗期
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

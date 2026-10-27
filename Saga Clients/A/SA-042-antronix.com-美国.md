@@ -88,6 +88,31 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「商用 10G PoE 管理型」，共 9 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同线：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SB-831 actelis.com（B，同档同线：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **1450 票**（01/2015-10/2026）；最近一票 **10/16/2026**；月均 10.52 TEU。[公司页](https://www.importyeti.com/company/antronix)（synced 10/21/2026）
+- **中国占比**：几乎 100% 中国（天津自有厂 + 宁波代工），每月整柜级（10.5 TEU/月）
+- **主要发货人**（票数 · 品名）：
+  - World Alliance Hi Tech（China）· 527 票 · CATV splitters/attenuators/taps, HS 8517.62
+  - Roosevelt（China）· 276 票 · connectors, broadband communications products
+  - Tianjin Antron Electronics (own factory)（China (Tianjin)）· 224 票 · broadband communication; returned/repaired goods
+  - Albury Trade（China）· 122 票 · CATV apparatus
+  - Etech Industries Ningbo（China）· 97 票 · residential amplifier, fiber node
+  - Quanda Technology（Taiwan）· 60 票 · amplifier, CATV/MoCA filters
+  - Ningbo Linkshine Electronic（China）· 31 票 · splitters
+  - Ningbo Startek International（China）· recent 票 · broadband communications (2026-06-06 14,144 kg 702 ctn)
+  - Main Brightness（China (Ningbo)）· recent 票 · connectors
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2026-07-05 · Tianjin Antron · 11,015 kg 701 ctn · broadband communication
+  - 2026-07-05 · Tianjin Antron · 5,147 kg 304 ctn · 
+  - 2026-06-21 · Tianjin Antron · 14,855 kg 960 ctn + 13,919 kg 877 ctn · 
+  - 2026-06-19 · Tianjin Antron · 14,449 kg 1,011 ctn · 
+  - 2026-06-06 · Etech Ningbo ×3 / Ningbo Startek ×2 / Main Brightness · 5,019 / 5,883 / 2,403 / 5,175 / 14,144 / 361 kg · broadband communications, connectors
+  - 2026-05-14 · Etech Ningbo ×2 / Main Brightness · 5,335 / 7,173 / 1,617 kg · 
+- **对 Saga 的含义**：同轴 CATV 器件大户，HS 8517.62 走的是分配器/放大器不是交换机；以太网交换机不在其海运清单里 → 如果 Antronix 要做 PoE/以太网线，必是新品类，可拿『你们天津厂不做以太网交换机，我们做』切入
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

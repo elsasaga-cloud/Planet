@@ -67,6 +67,7 @@ updated: 2026-10-27
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 188 / automation 20）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$57.4 EXW）。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 177 条 URL；站内可见品牌 1 个（Moxa）；社媒：https://www.linkedin.com/company/neteon/。
 - **同国同档参照（US，20% 档、主推线「工业 PoE 管理型」，共 2 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同档：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SB-020 52networks.com（B，同档：成交 STI-288GP，回过 14 次（最近 2025-07-24））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
+- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [Neteon-net](https://github.com/Neteon-net)（官网/邮箱域名一致；公开仓库 4，最近 push 2026-07-16：nexvdo-samples、nexvdo-docs、.github）；组织 [neteon-technologies](https://github.com/neteon-technologies)（官网/邮箱域名一致；公开仓库 0）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

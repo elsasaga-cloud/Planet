@@ -68,6 +68,27 @@ updated: 2026-10-27
 - **同国同档参照（US，20% 档、主推线「商用 2.5G PoE 管理型」，共 2 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同档：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SB-020 52networks.com（B，同档：成交 STI-288GP，回过 14 次（最近 2025-07-24））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **196 票**（01/2015-10/2026）；最近一票 **10/05/2026**；月均 1.99 TEU；ImportYeti 估算海运费累计 $314,748 (68%)（不是货值）。[公司页](https://www.importyeti.com/company/lin-haw-international)（synced 10/21/2026）
+- **中国占比**：机柜/网线中国，交换机台湾 Planet
+- **主要发货人**（票数 · 品名）：
+  - Safewell Group Holdings（China (HK)）· 51 票 · server racks — 2024-07 起几乎月月一票（3.2～9.2 t）
+  - Epnew Electronics（Taiwan）· 34 票 · LAN connectors
+  - Planet Technology（普莱德）（Taiwan (New Taipei)）· 24 票 · Gigabit / Fast Ethernet switches (HS 8517.62 / 8517.18)
+  - Modernsolid Industrial（Taiwan）· 23 票 · monitor arms
+  - Toten HK（China）· 15 票 · network server enclosures
+  - Sunf Pu Electric Wire & Cable / Sunf Pu Technology Dongguan（China）· 27 票 · LAN cable (2025-02-24 6,626 kg 483 ctn; 2024-06-23 6,545 kg 525 ctn)
+  - Lumi Legend（China (Ningbo)）· ≥1 票 · brackets 2025-09-18
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2026-04-17 … 2025-10-22 · Safewell · 3.2～4.8 t/票 · server rack（月度）
+  - 2025-09-18 · Lumi Legend · 1,172 kg 71 ctn · brackets
+  - 2025-02-24 · Sunf Pu Dongguan · 6,626 kg 483 ctn · network cable
+  - 2025-01-17 · Safewell · 8,741 kg 302 pkg · server rack
+- **对 Saga 的含义**：Lin Haw 是 Planet（普莱德）加拿大经销，24 票交换机全来自台湾 Planet；2024-06 以后的近期提单里看不到 Planet 或任何中国交换机 → 交换机要么空运、要么量小；他们月月从中国海运机柜，有现成拼箱通道（这正是 W 期 Planet 渠道名单里的户，已归 B）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

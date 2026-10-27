@@ -86,6 +86,31 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「工业 2.5G PoE 管理型」，共 10 户有动静，列前 3）**：SB-020 52networks.com（B，同线：成交 STI-288GP，回过 14 次（最近 2025-07-24））；SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **54 票**（01/2015-09/2024）；最近一票 **09/28/2024**；ImportYeti 估算海运费累计 $25,450 (27% coverage)（不是货值）。[公司页](https://www.importyeti.com/company/optiview)（synced 10/21/2026）
+- **中国占比**：100%（54/54 票全部中国）
+- **主要发货人**（票数 · 品名）：
+  - Shenzhen Centro Technology (+ 'Centro Technology Ltd' / 'Centro Techology' aliases)（China (Shenzhen Tong'an / Huafeng)）· 22 票 · PoE SWITCHES, PoE injectors, power supplies, video baluns; HS 8504.40 / 8517.62 / 8536.50
+  - Hangzhou Linan Chuangxin Cable（China）· 9 票 · coaxial cable
+  - Deqing Lizheng Metal Works（China）· 8 票 · aluminium enclosures
+  - Zhejiang Dahua Vision Technology / Dahua Technology HK（China）· 5 票 · DVR, network camera, speed dome, access controller
+  - C&T Litech（China）· 2 票 · access control, electric lock bracket
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2024-09-28 · Shenzhen Centro Technology · 270 kg 20 ctn · PoE switches, power supply, video balun
+  - 2024-07-17 · Shenzhen Centro Technology · 124 kg 7 ctn · PoE switches
+  - 2024-05-31 · Shenzhen Centro Technology · 140 kg 9 ctn · PoE switches, PSU, transformer
+  - 2023-12-27 · Shenzhen Centro Technology · 187 kg 19 ctn · PoE switches, PSU, balun
+  - 2023-08-05 · Shenzhen Centro Technology · 347 kg 30 ctn · PoE switches, PSU
+  - 2022-11-02 · Shenzhen Centro Technology · 248 kg 19 ctn · PoE switches, injector, PSU
+  - 2022-07-20 · Shenzhen Centro Technology · 130 kg 7 ctn · PoE switches
+  - 2022-02-09 · Shenzhen Centro Technology · 580 kg 49 ctn · power adapter, PSU, balun
+  - 2021-10-20 · Deqing Lizheng / Dahua HK / Centro · 2,893 / 94 / 380 kg · enclosures / camera card / PSU
+  - 2021-01-02 · Centro + C&T Litech · 381 + 110 kg · PoE switch/injector/PSU + lock bracket; est. freight $4,157
+- **对 Saga 的含义**：唯一一户在海运提单里明写 'Poe Switches' 的 A 类：供应商深圳 Centro Technology，2020-10～2024-09 共 ≥11 票、每 2～6 个月一票、每票 7～49 箱（124～580 kg）= 小批量 LCL；2024-09-28 之后再无海运记录（同步至 2026-10-21）→ 要么换成空运/快递，要么停购 → 这正是问『你们 PoE 交换机现在哪来』的时机
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

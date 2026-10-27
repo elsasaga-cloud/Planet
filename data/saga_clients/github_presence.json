@@ -4167,5 +4167,2178 @@
   "accounts": [],
   "repos_mentioning": [],
   "checked_at": "2026-10-27T04:35:26Z"
+ },
+ "SB-1062": {
+  "domain": "odoo.com",
+  "accounts": [
+   {
+    "login": "odoo",
+    "type": "Organization",
+    "url": "https://github.com/odoo",
+    "name": "Odoo",
+    "blog": "https://www.odoo.com",
+    "email": null,
+    "company": null,
+    "public_repos": 46,
+    "created_at": "2014-01-10T11:48:12Z",
+    "updated_at": "2024-01-26T10:48:39Z",
+    "bio": "Open Source Business Apps",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "industry",
+      "pushed_at": "2026-10-27T04:28:33Z",
+      "lang": "HTML",
+      "desc": "Odoo Industry Apps",
+      "fork": false
+     },
+     {
+      "name": "documentation",
+      "pushed_at": "2026-10-27T03:56:33Z",
+      "lang": "reStructuredText",
+      "desc": "Odoo documentation sources",
+      "fork": false
+     },
+     {
+      "name": "design-themes",
+      "pushed_at": "2026-10-27T03:56:31Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "odoo",
+      "pushed_at": "2026-10-27T03:56:28Z",
+      "lang": "Python",
+      "desc": "Odoo. Open Source Apps To Grow Your Business.",
+      "fork": false
+     },
+     {
+      "name": "upgrade-util",
+      "pushed_at": "2026-10-27T03:54:57Z",
+      "lang": "Python",
+      "desc": "Utility helpers to write better upgrade scripts.",
+      "fork": false
+     },
+     {
+      "name": "o-spreadsheet",
+      "pushed_at": "2026-10-26T17:53:55Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "OCA/server-brand",
+    "url": "https://github.com/OCA/server-brand",
+    "desc": "",
+    "stars": 96,
+    "pushed_at": "2026-10-21T06:35:32Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "odoo/odoo-extra",
+    "url": "https://github.com/odoo/odoo-extra",
+    "desc": "unsupported addons (runbot, document_fs)",
+    "stars": 120,
+    "pushed_at": "2018-10-24T15:09:54Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "guohuadeng/app-odoo",
+    "url": "https://github.com/guohuadeng/app-odoo",
+    "desc": "Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH。Odoo的社区版、企业版、.sh版等全版本开源免费增强模块应用集合。",
+    "stars": 459,
+    "pushed_at": "2026-10-27T02:20:51Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "itpp-labs/odoo-telegram",
+    "url": "https://github.com/itpp-labs/odoo-telegram",
+    "desc": "Telegram.org and Odoo.com integration. WARNING: this project is abandoned in favor of new Integration project:",
+    "stars": 40,
+    "pushed_at": "2021-03-21T11:59:58Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "luc-demeyer/noviat-apps",
+    "url": "https://github.com/luc-demeyer/noviat-apps",
+    "desc": "Noviat apps.odoo.com repository",
+    "stars": 20,
+    "pushed_at": "2021-03-05T09:29:47Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:35:38Z"
+ },
+ "SB-1063": {
+  "domain": "pc-industriali.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:35:52Z"
+ },
+ "SB-1064": {
+  "domain": "portdepo.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:36:05Z"
+ },
+ "SB-1065": {
+  "domain": "poznan.pl",
+  "accounts": [
+   {
+    "login": "zsk-poznan",
+    "type": "Organization",
+    "url": "https://github.com/zsk-poznan",
+    "name": "ZSK Poznań",
+    "blog": "https://www.zsk.poznan.pl",
+    "email": "adrian.lewek@uczen.zsk.poznan.pl",
+    "company": null,
+    "public_repos": 14,
+    "created_at": "2019-12-06T20:54:04Z",
+    "updated_at": "2026-10-25T19:08:32Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "ZSK_plan_scrapper",
+      "pushed_at": "2026-10-25T21:31:47Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "README",
+      "pushed_at": "2026-10-25T18:55:19Z",
+      "lang": null,
+      "desc": "Information about our organization",
+      "fork": false
+     },
+     {
+      "name": "zastepstwa",
+      "pushed_at": "2023-09-14T16:32:02Z",
+      "lang": "JavaScript",
+      "desc": "Web app for displaying substitute teachers",
+      "fork": false
+     },
+     {
+      "name": "ui",
+      "pushed_at": "2023-05-23T15:54:06Z",
+      "lang": "TypeScript",
+      "desc": "🚧WORK IN PROGRESS🚧 React component library for building school-related projects",
+      "fork": false
+     },
+     {
+      "name": "get-lucky",
+      "pushed_at": "2023-01-04T23:58:08Z",
+      "lang": "Python",
+      "desc": "[DEPRECATED] Get lucky number for ZSK",
+      "fork": false
+     },
+     {
+      "name": "amnesty",
+      "pushed_at": "2022-12-11T20:01:27Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "Glorf/recipenlg",
+    "url": "https://github.com/Glorf/recipenlg",
+    "desc": "Set of scripts and notebooks used to produce results visible in RecipeNLG paper",
+    "stars": 630,
+    "pushed_at": "2022-03-07T17:46:22Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "PUTvision/UAVVaste",
+    "url": "https://github.com/PUTvision/UAVVaste",
+    "desc": "UAVVaste: COCO-like dataset and effective waste detection in aerial images",
+    "stars": 104,
+    "pushed_at": "2023-10-31T09:00:03Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "yuezunli/CVPRW2019_Face_Artifacts",
+    "url": "https://github.com/yuezunli/CVPRW2019_Face_Artifacts",
+    "desc": "Exposing DeepFake Videos By Detecting Face Warping Artifacts",
+    "stars": 133,
+    "pushed_at": "2021-10-19T07:52:18Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "zahid58/Inverse-Kinematics-6-DOF-Python-With-Visualizer",
+    "url": "https://github.com/zahid58/Inverse-Kinematics-6-DOF-Python-With-Visualizer",
+    "desc": "Inverse Kinematics for 6 degree of freedom robotic hand using python ",
+    "stars": 59,
+    "pushed_at": "2023-01-19T17:35:18Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "sargon/trayer-srg",
+    "url": "https://github.com/sargon/trayer-srg",
+    "desc": "trayer fork with multi monitor support, cleaned up codebase and other fancy stuff",
+    "stars": 237,
+    "pushed_at": "2023-06-18T21:03:47Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:36:16Z"
+ },
+ "SB-1066": {
+  "domain": "pramoninisrysys.lt",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:36:32Z"
+ },
+ "SB-1067": {
+  "domain": "raytelsecurity.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:36:46Z"
+ },
+ "SB-1068": {
+  "domain": "rbline.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:37:01Z"
+ },
+ "SB-1069": {
+  "domain": "reweb.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:37:15Z"
+ },
+ "SB-107": {
+  "domain": "glm.ge",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Barbacamanitu/GLMapGen",
+    "url": "https://github.com/Barbacamanitu/GLMapGen",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2017-06-07T19:22:25Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "BrystofKlazek/GLM_germination",
+    "url": "https://github.com/BrystofKlazek/GLM_germination",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-03-24T20:21:02Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Arek-KesizAbnousi/GLMM--GEE",
+    "url": "https://github.com/Arek-KesizAbnousi/GLMM--GEE",
+    "desc": "Generalized linear mixed model (GLMM) and Generalized estimating equation (GEE)",
+    "stars": 1,
+    "pushed_at": "2022-02-10T18:32:36Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Dulain23/DentalGLM_Gemini",
+    "url": "https://github.com/Dulain23/DentalGLM_Gemini",
+    "desc": "DentalGLM is a training tool designed to develop essential clinical skills for undergraduate oral healthcare students. I",
+    "stars": 1,
+    "pushed_at": "2024-08-11T02:41:09Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:37:28Z"
+ },
+ "SB-1070": {
+  "domain": "safeguard.se",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "OneIdentity/safeguard-sessions-plugin-duo-mfa",
+    "url": "https://github.com/OneIdentity/safeguard-sessions-plugin-duo-mfa",
+    "desc": "Duo Multi-Factor Authentication plugin for Safeguard for Privileged Sessions",
+    "stars": 3,
+    "pushed_at": "2026-01-27T09:28:46Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "OneIdentity/safeguard-sessions-plugin-sdk",
+    "url": "https://github.com/OneIdentity/safeguard-sessions-plugin-sdk",
+    "desc": "Plugin SDK for Safeguard for Privileged Sessions (SPS)",
+    "stars": 4,
+    "pushed_at": "2025-11-10T15:29:05Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "OneIdentity/safeguard-sessions-plugin-safeguard",
+    "url": "https://github.com/OneIdentity/safeguard-sessions-plugin-safeguard",
+    "desc": "OneIdentity Safeguard credential store plugin for Safeguard for Privileged Sessions",
+    "stars": 3,
+    "pushed_at": "2022-04-12T05:29:29Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "OneIdentity/safeguard-sessions-plugin-onelogin",
+    "url": "https://github.com/OneIdentity/safeguard-sessions-plugin-onelogin",
+    "desc": "",
+    "stars": 2,
+    "pushed_at": "2022-03-09T18:53:52Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "OneIdentity/safeguard-sessions-plugin-inwebo-mfa",
+    "url": "https://github.com/OneIdentity/safeguard-sessions-plugin-inwebo-mfa",
+    "desc": "InWebo Multi-Factor Authentication plugin for Safeguard for Privileged Sessions",
+    "stars": 2,
+    "pushed_at": "2021-08-03T13:25:51Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T04:37:36Z"
+ },
+ "SB-1071": {
+  "domain": "scada-hmi.it",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "vytronics/vytronics.hmi",
+    "url": "https://github.com/vytronics/vytronics.hmi",
+    "desc": "Vytronics HMI - The 100% Free, Open-Source, javascript SCADA/HMI node module for nodejs",
+    "stars": 75,
+    "pushed_at": "2014-11-04T23:54:47Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "vytronics/vytronics.project",
+    "url": "https://github.com/vytronics/vytronics.project",
+    "desc": "Sample vytronics HMI SCADA project",
+    "stars": 5,
+    "pushed_at": "2014-11-03T04:29:15Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "jack-kenney/mqtt-kitchen-scale",
+    "url": "https://github.com/jack-kenney/mqtt-kitchen-scale",
+    "desc": "An MQTT-enabled kitchen scale running on an ESP32, with an HX711 ADC to interface with the load cell. Data and commands ",
+    "stars": 0,
+    "pushed_at": "2026-05-17T12:58:06Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "SA-Code-Byte/https-github.com-vytronics-vytronics.project",
+    "url": "https://github.com/SA-Code-Byte/https-github.com-vytronics-vytronics.project",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2023-08-26T17:44:55Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "nextsmsversion/vytronics",
+    "url": "https://github.com/nextsmsversion/vytronics",
+    "desc": "open source scada",
+    "stars": 0,
+    "pushed_at": "2016-12-14T08:50:56Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:39:50Z"
+ },
+ "SB-1072": {
+  "domain": "securame.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:40:04Z"
+ },
+ "SB-1073": {
+  "domain": "sensoguard.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:40:16Z"
+ },
+ "SB-1074": {
+  "domain": "setik.biz",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "DeathCamel58/amcrest-compatible-finder",
+    "url": "https://github.com/DeathCamel58/amcrest-compatible-finder",
+    "desc": "",
+    "stars": 4,
+    "pushed_at": "2026-10-14T15:58:54Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:40:29Z"
+ },
+ "SB-1075": {
+  "domain": "silmarelectronics.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Muhammad-bilal333/resume",
+    "url": "https://github.com/Muhammad-bilal333/resume",
+    "desc": "Professional resume of Muhammad Bilal - Full Stack PHP Laravel Developer",
+    "stars": 1,
+    "pushed_at": "2026-09-14T18:46:19Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:40:44Z"
+ },
+ "SB-1076": {
+  "domain": "simplifinetworks.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:40:55Z"
+ },
+ "SB-1077": {
+  "domain": "soft-tronik.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:41:08Z"
+ },
+ "SB-1078": {
+  "domain": "solimedia.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:41:19Z"
+ },
+ "SB-1079": {
+  "domain": "spesaelettrica.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:41:29Z"
+ },
+ "SB-108": {
+  "domain": "gwsecurityusa.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "GW-Security/gw-security-reddit-tool",
+    "url": "https://github.com/GW-Security/gw-security-reddit-tool",
+    "desc": "The application is a human-in-the-loop response tool",
+    "stars": 0,
+    "pushed_at": "2026-05-01T18:47:18Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T04:41:42Z"
+ },
+ "SB-1080": {
+  "domain": "sphinxcomputer.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:41:58Z"
+ },
+ "SB-1081": {
+  "domain": "sswmcctvshop.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:42:12Z"
+ },
+ "SB-1082": {
+  "domain": "standardaudio.se",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:42:23Z"
+ },
+ "SB-1083": {
+  "domain": "systemfabricworks.com",
+  "accounts": [
+   {
+    "login": "SystemFabricWorks",
+    "type": "Organization",
+    "url": "https://github.com/SystemFabricWorks",
+    "name": "System Fabric Works",
+    "blog": "http://systemfabricworks.com",
+    "email": "info@systemfabricworks.com",
+    "company": null,
+    "public_repos": 25,
+    "created_at": "2014-05-24T18:07:59Z",
+    "updated_at": "2024-10-09T07:21:42Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "cstuff",
+      "pushed_at": "2024-06-25T20:03:57Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "docker-sriov-plugin",
+      "pushed_at": "2024-04-23T00:36:07Z",
+      "lang": "Go",
+      "desc": "Docker networking plugin for SRIOV and passthrough interfaces",
+      "fork": true
+     },
+     {
+      "name": "container_tools",
+      "pushed_at": "2024-04-22T23:01:03Z",
+      "lang": "Go",
+      "desc": "Few useful container orchestration, deployment tools when using RDMA",
+      "fork": true
+     },
+     {
+      "name": "stutools",
+      "pushed_at": "2023-05-21T20:43:36Z",
+      "lang": "C",
+      "desc": "Advanced block device testing/file system testing, targetting SNIA compatible reporting",
+      "fork": true
+     },
+     {
+      "name": "portals4",
+      "pushed_at": "2022-10-21T15:56:21Z",
+      "lang": null,
+      "desc": "Portals is a low-level network API for high-performance networking on high-performance computing systems.",
+      "fork": true
+     },
+     {
+      "name": "fio",
+      "pushed_at": "2022-10-18T18:16:59Z",
+      "lang": "C",
+      "desc": "Flexible I/O Tester",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "ppanchap13/portals4",
+    "url": "https://github.com/ppanchap13/portals4",
+    "desc": "Automatically exported from code.google.com/p/portals4",
+    "stars": 0,
+    "pushed_at": "2015-12-08T15:57:54Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "foool/portals4",
+    "url": "https://github.com/foool/portals4",
+    "desc": "Automatically exported from code.google.com/p/portals4",
+    "stars": 0,
+    "pushed_at": "2015-04-28T03:14:09Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "mschoenw/portals4",
+    "url": "https://github.com/mschoenw/portals4",
+    "desc": "Automatically exported from code.google.com/p/portals4",
+    "stars": 0,
+    "pushed_at": "2015-04-03T13:04:11Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "vivier/portals4",
+    "url": "https://github.com/vivier/portals4",
+    "desc": "Automatically exported from code.google.com/p/portals4",
+    "stars": 0,
+    "pushed_at": "2015-10-31T16:51:29Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "musleh123/portals4",
+    "url": "https://github.com/musleh123/portals4",
+    "desc": "Automatically exported from code.google.com/p/portals4",
+    "stars": 0,
+    "pushed_at": "2015-07-01T19:01:46Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:42:37Z"
+ },
+ "SB-1084": {
+  "domain": "targoncavilla.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:42:51Z"
+ },
+ "SB-1085": {
+  "domain": "tayama.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:43:02Z"
+ },
+ "SB-1086": {
+  "domain": "teamtelecom.ro",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:43:17Z"
+ },
+ "SB-1087": {
+  "domain": "tehnoelectric.ro",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "AndreiAP65/Smart-Parking-System",
+    "url": "https://github.com/AndreiAP65/Smart-Parking-System",
+    "desc": "This research project aims to investigate the potential of utilizing advanced technologies, specifically the ESP32 modul",
+    "stars": 1,
+    "pushed_at": "2023-02-14T13:23:22Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:43:28Z"
+ },
+ "SB-1088": {
+  "domain": "tipteh.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:43:38Z"
+ },
+ "SB-1089": {
+  "domain": "tpnet.com.br",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:43:50Z"
+ },
+ "SB-109": {
+  "domain": "ite.net.pk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:44:06Z"
+ },
+ "SB-1090": {
+  "domain": "tramaweb.com.br",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:44:17Z"
+ },
+ "SB-1091": {
+  "domain": "triotronik.com",
+  "accounts": [
+   {
+    "login": "TRIOTRONIK",
+    "type": "Organization",
+    "url": "https://github.com/TRIOTRONIK",
+    "name": "TRIOTRONIK",
+    "blog": "https://triotronik.com",
+    "email": "dev@triotronik.com",
+    "company": null,
+    "public_repos": 2,
+    "created_at": "2025-10-02T14:59:02Z",
+    "updated_at": "2025-10-03T08:30:45Z",
+    "bio": "Das Netzwerktechnik-Kompetenzzentrum",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "infra-docs-public",
+      "pushed_at": "2025-11-12T13:31:20Z",
+      "lang": null,
+      "desc": "Public mirror of TRIOTRONIK infrastructure and deployment documentation",
+      "fork": false
+     },
+     {
+      "name": ".github",
+      "pushed_at": "2025-10-22T11:02:59Z",
+      "lang": null,
+      "desc": "Organization-wide GitHub templates for PRs, Issues, and Contributing guidelines",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "triotronik-dev",
+    "type": "User",
+    "url": "https://github.com/triotronik-dev",
+    "name": "TRIOTRONIK Development",
+    "blog": " https://www.triotronik.com",
+    "email": "dev@triotronik.com",
+    "company": "TRIOTRONIK GmbH",
+    "public_repos": 0,
+    "created_at": "2025-09-25T13:27:58Z",
+    "updated_at": "2025-11-11T15:44:55Z",
+    "bio": "TRIOTRONIK - Das Netzwerktechnik Kompetenz Zentrum (Austria)\r\n\r\nThree Divisions: ACADEMY (Training) | DISTRIBUTION (Sales & Service) | TECHNOLOGIES (R&D)",
+    "match": "strong"
+   },
+   {
+    "login": "MM-TRIOTRONIK",
+    "type": "User",
+    "url": "https://github.com/MM-TRIOTRONIK",
+    "name": "triodev",
+    "blog": "https://www.triotronik.com",
+    "email": null,
+    "company": "TRIOTRONIK GmbH",
+    "public_repos": 0,
+    "created_at": "2024-08-28T11:51:23Z",
+    "updated_at": "2025-09-24T13:41:34Z",
+    "bio": "Developer-Organisation der TRIOTRONIK  GmbH | Glasfaser-, Netzwerk- & IT-Infrastruktur-Lösungen\r\n",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "TRIOTRONIK/infra-docs-public",
+    "url": "https://github.com/TRIOTRONIK/infra-docs-public",
+    "desc": "Public mirror of TRIOTRONIK infrastructure and deployment documentation",
+    "stars": 0,
+    "pushed_at": "2025-11-12T13:31:20Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T04:44:30Z"
+ },
+ "SB-1092": {
+  "domain": "unifibre.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:44:43Z"
+ },
+ "SB-1093": {
+  "domain": "vercoma.nl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:44:57Z"
+ },
+ "SB-1094": {
+  "domain": "videobits.co.uk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:45:08Z"
+ },
+ "SB-1095": {
+  "domain": "vidom.pl",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "persidskiy/vidom-playground",
+    "url": "https://github.com/persidskiy/vidom-playground",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2015-11-03T22:02:46Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:45:20Z"
+ },
+ "SB-1096": {
+  "domain": "westpennwire.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:45:35Z"
+ },
+ "SB-1097": {
+  "domain": "yatun.cz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:45:46Z"
+ },
+ "SB-1098": {
+  "domain": "zintronic.pl",
+  "accounts": [
+   {
+    "login": "zintronic",
+    "type": "User",
+    "url": "https://github.com/zintronic",
+    "name": null,
+    "blog": "",
+    "email": null,
+    "company": "zintronic",
+    "public_repos": 0,
+    "created_at": "2021-04-12T18:31:53Z",
+    "updated_at": "2026-10-16T10:39:23Z",
+    "bio": "",
+    "match": "company"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:45:58Z"
+ },
+ "SB-1099": {
+  "domain": "zxtech.co",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:46:09Z"
+ },
+ "SB-110": {
+  "domain": "itkati.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:46:20Z"
+ },
+ "SB-1102": {
+  "domain": "vienthonggiatot.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:46:31Z"
+ },
+ "SB-1103": {
+  "domain": "ara.com.bd",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:46:44Z"
+ },
+ "SB-1108": {
+  "domain": "sunmarsent.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:46:52Z"
+ },
+ "SB-111": {
+  "domain": "nivoxtech.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:47:03Z"
+ },
+ "SB-1113": {
+  "domain": "fastball.in",
+  "accounts": [
+   {
+    "login": "fastball-projects",
+    "type": "Organization",
+    "url": "https://github.com/fastball-projects",
+    "name": "Fastball",
+    "blog": "fastball.dev",
+    "email": "gr@fastball.dev",
+    "company": null,
+    "public_repos": 9,
+    "created_at": "2022-12-08T15:33:19Z",
+    "updated_at": "2023-03-24T05:58:19Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "fastball-components",
+      "pushed_at": "2025-10-29T01:52:09Z",
+      "lang": "TypeScript",
+      "desc": "Fastball UI components.",
+      "fork": false
+     },
+     {
+      "name": "fastball",
+      "pushed_at": "2025-10-29T01:39:29Z",
+      "lang": "Java",
+      "desc": "An extension-oriented Wysiwyg UI framework for Java backends. Save your development time, try Fastball!",
+      "fork": false
+     },
+     {
+      "name": "fastball-platform-web",
+      "pushed_at": "2025-05-19T01:47:51Z",
+      "lang": "Java",
+      "desc": "fastball platform web implementation",
+      "fork": false
+     },
+     {
+      "name": "fastball-platform-web-frontend",
+      "pushed_at": "2025-04-25T01:27:08Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "auto-value",
+      "pushed_at": "2025-03-20T00:03:56Z",
+      "lang": "Java",
+      "desc": "Annotation processor to create interface-based composable objects.",
+      "fork": false
+     },
+     {
+      "name": "fastball-examples",
+      "pushed_at": "2025-01-06T05:50:20Z",
+      "lang": "Java",
+      "desc": "Fastball examples",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "jbgo/fastball",
+    "url": "https://github.com/jbgo/fastball",
+    "desc": "The safest, fastest way to build and deploy dynamic applications.",
+    "stars": 4,
+    "pushed_at": "2015-10-12T21:26:11Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "fastball-projects/fastball-IntelliJ-plugin",
+    "url": "https://github.com/fastball-projects/fastball-IntelliJ-plugin",
+    "desc": "The IntelliJ plugin for Fastball. ",
+    "stars": 3,
+    "pushed_at": "2024-09-23T03:53:34Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "byeongjokim/Automatic-Baseball-Commentary-Generation-Using-DeepLearning",
+    "url": "https://github.com/byeongjokim/Automatic-Baseball-Commentary-Generation-Using-DeepLearning",
+    "desc": "Automatic Baseball Commentary Generation Using Deep Learning (SAC 2020)",
+    "stars": 21,
+    "pushed_at": "2019-12-06T05:37:54Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "ASillyNeko/BT",
+    "url": "https://github.com/ASillyNeko/BT",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-08-01T15:39:37Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "sumner2799/baseball-puzzles",
+    "url": "https://github.com/sumner2799/baseball-puzzles",
+    "desc": "Data-driven research in response to questions I have about the game of baseball",
+    "stars": 0,
+    "pushed_at": "2025-06-07T21:47:07Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:47:17Z"
+ },
+ "SB-1114": {
+  "domain": "fikesmedia.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "cfikes/TexasFreedomRadio-WebApp",
+    "url": "https://github.com/cfikes/TexasFreedomRadio-WebApp",
+    "desc": "HTML5 Mobile Application",
+    "stars": 1,
+    "pushed_at": "2014-05-27T15:20:17Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "cfikes/TexasFreedomRadio",
+    "url": "https://github.com/cfikes/TexasFreedomRadio",
+    "desc": "Texas Freedom Radio",
+    "stars": 0,
+    "pushed_at": "2015-07-01T16:55:18Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "FikesMedia/Open-Roster-SFTP-AD-Sync-Tool",
+    "url": "https://github.com/FikesMedia/Open-Roster-SFTP-AD-Sync-Tool",
+    "desc": "Sync from OpenRoster students.csv export located on SFTP to AD",
+    "stars": 0,
+    "pushed_at": "2022-08-24T18:03:04Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T04:47:27Z"
+ },
+ "SB-1115": {
+  "domain": "millievolution.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:47:39Z"
+ },
+ "SB-1116": {
+  "domain": "litech.com.pk",
+  "accounts": [
+   {
+    "login": "LiTechO",
+    "type": "Organization",
+    "url": "https://github.com/LiTechO",
+    "name": "LiTech",
+    "blog": "",
+    "email": "dev.elenakrittik@gmail.com",
+    "company": null,
+    "public_repos": 3,
+    "created_at": "2022-04-13T12:41:17Z",
+    "updated_at": "2023-09-04T19:05:47Z",
+    "bio": "LimeTeam Technologies",
+    "match": "name",
+    "repos": [
+     {
+      "name": "disnake3-baked",
+      "pushed_at": "2024-01-21T09:46:07Z",
+      "lang": "Python",
+      "desc": "An API wrapper for Discord written in Python.",
+      "fork": true
+     },
+     {
+      "name": ".github",
+      "pushed_at": "2023-09-04T18:55:02Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "cb-i18n",
+      "pushed_at": "2023-06-14T14:12:19Z",
+      "lang": "Python",
+      "desc": "Advanced support for internationalisation (i18n)",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:47:50Z"
+ },
+ "SB-1117": {
+  "domain": "switchcom.co.za",
+  "accounts": [
+   {
+    "login": "switchcomperu",
+    "type": "User",
+    "url": "https://github.com/switchcomperu",
+    "name": "switchcom",
+    "blog": "https://switchcomperu.com",
+    "email": null,
+    "company": "switchcom peru",
+    "public_repos": 5,
+    "created_at": "2019-11-29T19:07:34Z",
+    "updated_at": "2026-07-15T03:15:47Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "ERP-gestion-AGYJ",
+      "pushed_at": "2024-10-31T23:06:36Z",
+      "lang": "CSS",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "ANYERP",
+      "pushed_at": "2024-09-30T14:46:18Z",
+      "lang": null,
+      "desc": "Elaboración de un sistema CRM y ERP para el mejor control de la empresa ",
+      "fork": false
+     },
+     {
+      "name": "adminlte-laravel",
+      "pushed_at": "2022-05-28T21:58:47Z",
+      "lang": "PHP",
+      "desc": "prueba",
+      "fork": false
+     },
+     {
+      "name": "subirarchivosphpsinnlogin",
+      "pushed_at": "2020-12-05T14:44:31Z",
+      "lang": "PHP",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "subirarchivosphpconlogin",
+      "pushed_at": "2020-12-05T14:43:25Z",
+      "lang": "PHP",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:48:00Z"
+ },
+ "SB-1118": {
+  "domain": "educationhmo.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:48:13Z"
+ },
+ "SB-1119": {
+  "domain": "noktaelektronik.net",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "berkayoztunc/helium-links",
+    "url": "https://github.com/berkayoztunc/helium-links",
+    "desc": "Paylaşılan doğrulanmış ve denenmiş linkler",
+    "stars": 0,
+    "pushed_at": "2021-11-08T12:58:05Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:48:24Z"
+ },
+ "SB-112": {
+  "domain": "opax.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "jaketracey/opax",
+    "url": "https://github.com/jaketracey/opax",
+    "desc": "Open Parliamentary Accountability eXchange — Exposing governance blind spots in Australian democracy",
+    "stars": 10,
+    "pushed_at": "2026-10-26T18:41:07Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:48:36Z"
+ },
+ "SB-1121": {
+  "domain": "technetix.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:48:47Z"
+ },
+ "SB-1122": {
+  "domain": "comtinu.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:49:00Z"
+ },
+ "SB-1123": {
+  "domain": "connectec.uk",
+  "accounts": [
+   {
+    "login": "ConnectecUK",
+    "type": "Organization",
+    "url": "https://github.com/ConnectecUK",
+    "name": "Connectec UK",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2025-11-18T09:29:12Z",
+    "updated_at": "2025-12-31T15:03:07Z",
+    "bio": "",
+    "match": "name"
+   },
+   {
+    "login": "Retro788",
+    "type": "User",
+    "url": "https://github.com/Retro788",
+    "name": "El Retro",
+    "blog": "https://retrodev.me",
+    "email": null,
+    "company": "Connectec",
+    "public_repos": 42,
+    "created_at": "2023-03-30T10:01:29Z",
+    "updated_at": "2026-10-03T14:14:00Z",
+    "bio": "Lead and Founder at @connectec-dev  IBM Ambassador\r\nData and mechatronics engineer, neural network dev, Quantum Computing, full-stack web reverse engineer, MIT",
+    "match": "company",
+    "repos": [
+     {
+      "name": "mvia",
+      "pushed_at": "2026-10-26T05:32:43Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "skills-getting-started-with-github-copilot",
+      "pushed_at": "2025-10-16T00:13:49Z",
+      "lang": "Python",
+      "desc": "Exercise: Get started using GitHub Copilot",
+      "fork": false
+     },
+     {
+      "name": "skills-introduction-to-github",
+      "pushed_at": "2025-10-15T23:11:41Z",
+      "lang": null,
+      "desc": "Exercise: Introduction to GitHub",
+      "fork": false
+     },
+     {
+      "name": "skills-communicate-using-markdown",
+      "pushed_at": "2025-10-15T22:43:22Z",
+      "lang": null,
+      "desc": "Exercise: Communicate using Markdown",
+      "fork": false
+     },
+     {
+      "name": "Euclidian-VisionModel",
+      "pushed_at": "2025-10-01T18:28:33Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Euclidian-LLM-Lenguaje",
+      "pushed_at": "2025-10-01T17:03:38Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:49:11Z"
+ },
+ "SB-1124": {
+  "domain": "fonex.pl",
+  "accounts": [
+   {
+    "login": "fonex",
+    "type": "User",
+    "url": "https://github.com/fonex",
+    "name": "Fonex Laharnar",
+    "blog": "http://www.fonex.si/ogrevalna-toplotna-crpalka/toplotne-crpalke",
+    "email": null,
+    "company": "Fonex d.o.o.",
+    "public_repos": 2,
+    "created_at": "2016-10-15T12:19:05Z",
+    "updated_at": "2016-10-15T12:22:06Z",
+    "bio": "Toplotne črpalke",
+    "match": "company",
+    "repos": [
+     {
+      "name": "fonexwebpage",
+      "pushed_at": "2016-10-15T12:34:18Z",
+      "lang": "HTML",
+      "desc": "toplotne crpalke",
+      "fork": false
+     },
+     {
+      "name": "index",
+      "pushed_at": "2016-10-15T12:20:51Z",
+      "lang": null,
+      "desc": "index of webpage",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "fonex6/fonex_platform_IPT",
+    "url": "https://github.com/fonex6/fonex_platform_IPT",
+    "desc": "Fonex is a modern digital platform designed to simplify communication, enhance productivity, and provide reliable, smart",
+    "stars": 1,
+    "pushed_at": "2025-08-25T09:52:10Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:49:25Z"
+ },
+ "SB-1125": {
+  "domain": "globall.ca",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "tanishktiwari/globallogic_card",
+    "url": "https://github.com/tanishktiwari/globallogic_card",
+    "desc": "id_card_deskAssure_globallogic",
+    "stars": 0,
+    "pushed_at": "2025-01-27T09:02:51Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:49:38Z"
+ },
+ "SB-1126": {
+  "domain": "klinger.fi",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:49:50Z"
+ },
+ "SB-1127": {
+  "domain": "linhawstore.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:50:03Z"
+ },
+ "SB-1128": {
+  "domain": "losan.cz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:50:13Z"
+ },
+ "SB-1129": {
+  "domain": "redcorp.com",
+  "accounts": [
+   {
+    "login": "redcorp-2023-1",
+    "type": "Organization",
+    "url": "https://github.com/redcorp-2023-1",
+    "name": "Redcorp",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 3,
+    "created_at": "2023-04-07T16:19:56Z",
+    "updated_at": "2024-03-27T02:28:05Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "redcorp-backend-",
+      "pushed_at": "2024-06-27T02:03:33Z",
+      "lang": "C#",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "redcord-web-app",
+      "pushed_at": "2024-06-19T03:47:24Z",
+      "lang": "Vue",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "landing-page-redcorp",
+      "pushed_at": "2023-04-09T17:51:37Z",
+      "lang": "CSS",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:50:25Z"
+ },
+ "SB-113": {
+  "domain": "regionprof.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:50:38Z"
+ },
+ "SB-1130": {
+  "domain": "cnstech.gr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:50:48Z"
+ },
+ "SB-1131": {
+  "domain": "marugged.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:51:00Z"
+ },
+ "SB-1133": {
+  "domain": "netram.de",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "ronakjangid/netram-demo",
+    "url": "https://github.com/ronakjangid/netram-demo",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-08-06T07:33:13Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "rashiyaom2/Netram-Deepfake-Detection-",
+    "url": "https://github.com/rashiyaom2/Netram-Deepfake-Detection-",
+    "desc": "# Netram AI Deepfake Shield — Enterprise Video & Audio Call Defense  A production-grade, multi-modal **Chrome Extension*",
+    "stars": 0,
+    "pushed_at": "2026-08-15T09:05:09Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:51:10Z"
+ },
+ "SB-1134": {
+  "domain": "conexionderedes.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:51:23Z"
+ },
+ "SB-1135": {
+  "domain": "raisecom.su",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:51:34Z"
+ },
+ "SB-1136": {
+  "domain": "fiberoptics4sale.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "JamesBurnsBacon/5GWirelessSignalProcessing-Sionna-TensorFlow",
+    "url": "https://github.com/JamesBurnsBacon/5GWirelessSignalProcessing-Sionna-TensorFlow",
+    "desc": "AI simulated analysis of why cell phone service fails in large crowds",
+    "stars": 0,
+    "pushed_at": "2024-09-20T00:58:13Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:51:46Z"
+ },
+ "SB-1138": {
+  "domain": "devray.in",
+  "accounts": [
+   {
+    "login": "rayklanderman",
+    "type": "User",
+    "url": "https://github.com/rayklanderman",
+    "name": "Raymond Klanderman (DevRay)",
+    "blog": "https://rayklanderman.is-a.dev",
+    "email": null,
+    "company": "DevRay",
+    "public_repos": 60,
+    "created_at": "2020-04-05T10:16:33Z",
+    "updated_at": "2026-10-21T17:51:18Z",
+    "bio": "Software Engineer | AI/ML & Full-Stack Developer | Building production-grade agent systems, RAG, and cloud-native apps",
+    "match": "company",
+    "repos": [
+     {
+      "name": "ray-klanderman-portfolio",
+      "pushed_at": "2026-10-16T21:06:20Z",
+      "lang": "TypeScript",
+      "desc": "Portfolio site",
+      "fork": false
+     },
+     {
+      "name": "rayklanderman.github.io",
+      "pushed_at": "2026-10-16T20:42:09Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "devray",
+      "pushed_at": "2026-08-12T13:11:24Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "mrp-2026",
+      "pushed_at": "2026-06-08T21:20:06Z",
+      "lang": "Jupyter Notebook",
+      "desc": "Movie Recommendation Project 2026",
+      "fork": false
+     },
+     {
+      "name": "Clypra",
+      "pushed_at": "2026-06-04T23:21:20Z",
+      "lang": null,
+      "desc": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut fun",
+      "fork": true
+     },
+     {
+      "name": "Pesacheck",
+      "pushed_at": "2026-04-21T17:41:24Z",
+      "lang": "TypeScript",
+      "desc": "Personal smart budget app",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "tanishabisht0707/tanishabisht0707",
+    "url": "https://github.com/tanishabisht0707/tanishabisht0707",
+    "desc": "Config files for my GitHub profile.",
+    "stars": 0,
+    "pushed_at": "2026-02-25T06:50:39Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:51:57Z"
+ },
+ "SB-114": {
+  "domain": "swift.net.pk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:52:10Z"
+ },
+ "SB-118": {
+  "domain": "genrov.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:52:23Z"
+ },
+ "SB-119": {
+  "domain": "wirestar.net",
+  "accounts": [
+   {
+    "login": "WireStar-Networks",
+    "type": "Organization",
+    "url": "https://github.com/WireStar-Networks",
+    "name": "WireStar Networks",
+    "blog": "https://wirestar.net",
+    "email": "info@wirestar.net",
+    "company": null,
+    "public_repos": 1,
+    "created_at": "2021-04-06T15:39:48Z",
+    "updated_at": "2026-07-02T19:40:08Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "geofeed",
+      "pushed_at": "2026-08-14T01:00:27Z",
+      "lang": null,
+      "desc": "Home for WireStar's RFC 8805 geofeed. ",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "contrafy",
+    "type": "User",
+    "url": "https://github.com/contrafy",
+    "name": "Ahmad Raaiyan",
+    "blog": "contrafy.me",
+    "email": "ahmadraaiyan12@gmail.com",
+    "company": "@WireStar-Networks",
+    "public_repos": 13,
+    "created_at": "2022-06-20T04:13:20Z",
+    "updated_at": "2026-10-13T03:49:20Z",
+    "bio": "Texas A&M CS '25 | Developer @WireStar-Networks ",
+    "match": "company",
+    "repos": [
+     {
+      "name": "tern-grafana",
+      "pushed_at": "2026-10-20T21:34:41Z",
+      "lang": "Luau",
+      "desc": "Grafana and Prometheus in the Tern terminal: native dashboards, PromQL, alerts and silences, logs, traces, and lenses fo",
+      "fork": false
+     },
+     {
+      "name": "tern-netsuite",
+      "pushed_at": "2026-10-20T18:10:00Z",
+      "lang": "Luau",
+      "desc": "NetSuite for the Tern terminal: native SuiteCloud SDF CLI views, a production deploy guard, an SDF project explorer, and",
+      "fork": false
+     },
+     {
+      "name": "tern-cat",
+      "pushed_at": "2026-10-16T02:57:12Z",
+      "lang": "Luau",
+      "desc": "The domestic terrorist (housecat) your terminal never asked for",
+      "fork": false
+     },
+     {
+      "name": "balatro",
+      "pushed_at": "2026-10-14T22:28:39Z",
+      "lang": "Python",
+      "desc": "Training a from-scratch transformer policy to win Balatro (Black Deck, Gold Stake); collecting data with an LLM agent sw",
+      "fork": false
+     },
+     {
+      "name": "tern-kube",
+      "pushed_at": "2026-10-09T21:35:25Z",
+      "lang": "Luau",
+      "desc": "Native kubectl views for the Tern terminal: sortable tables, live Explore, one-key pod shells, previewed changes and Git",
+      "fork": false
+     },
+     {
+      "name": "dotfiles",
+      "pushed_at": "2026-10-08T22:18:17Z",
+      "lang": "Shell",
+      "desc": "My dotfiles",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "kobysb/signature-generator-entra",
+    "url": "https://github.com/kobysb/signature-generator-entra",
+    "desc": "Email signature generator using Graph API to get data",
+    "stars": 0,
+    "pushed_at": "2026-08-27T20:12:55Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:52:36Z"
+ },
+ "SB-120": {
+  "domain": "pronet-tech.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:52:49Z"
+ },
+ "SB-121": {
+  "domain": "storm-ict.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:53:03Z"
+ },
+ "SB-122": {
+  "domain": "teratech.co.tz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:53:17Z"
+ },
+ "SB-123": {
+  "domain": "tdtorus.ru",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "DeathCamel58/amcrest-compatible-finder",
+    "url": "https://github.com/DeathCamel58/amcrest-compatible-finder",
+    "desc": "",
+    "stars": 4,
+    "pushed_at": "2026-10-14T15:58:54Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:53:29Z"
+ },
+ "SB-124": {
+  "domain": "telconet.net",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "angrygabbar/TelcoNetwork",
+    "url": "https://github.com/angrygabbar/TelcoNetwork",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-09-27T10:24:45Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "TeKnowledge-AI-hackathon/TelcoNet.Frontend",
+    "url": "https://github.com/TeKnowledge-AI-hackathon/TelcoNet.Frontend",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-04-29T22:40:33Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "DizzyZ7/TelcoNet-Guardian",
+    "url": "https://github.com/DizzyZ7/TelcoNet-Guardian",
+    "desc": "",
+    "stars": 1,
+    "pushed_at": "2026-03-02T21:40:50Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "TeKnowledge-AI-hackathon/TelcoNet.BackEnd",
+    "url": "https://github.com/TeKnowledge-AI-hackathon/TelcoNet.BackEnd",
+    "desc": "TelcoNet AI is a next-generation Network Operations Center (NOC) backend built for the MTN Telco AI-Native Network Intel",
+    "stars": 0,
+    "pushed_at": "2026-04-29T22:32:13Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "lhidalgo0204/FTNT_VPN_DEVICES_EXPOSED_2021",
+    "url": "https://github.com/lhidalgo0204/FTNT_VPN_DEVICES_EXPOSED_2021",
+    "desc": "Fortinet Victim List",
+    "stars": 1,
+    "pushed_at": "2021-09-12T06:16:38Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:53:39Z"
+ },
+ "SB-126": {
+  "domain": "cablewindow.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:53:51Z"
+ },
+ "SB-127": {
+  "domain": "izux.es",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:54:02Z"
+ },
+ "SB-128": {
+  "domain": "orbitadigital.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "juanjmg1436/orbita-digital-web",
+    "url": "https://github.com/juanjmg1436/orbita-digital-web",
+    "desc": "sitio web",
+    "stars": 0,
+    "pushed_at": "2026-07-06T14:26:14Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:54:12Z"
+ },
+ "SB-129": {
+  "domain": "addon-tech.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Ivan2navI/rtl8812ae",
+    "url": "https://github.com/Ivan2navI/rtl8812ae",
+    "desc": "Drivers for RTL8812AE & Proxmox problems ...",
+    "stars": 0,
+    "pushed_at": "2023-05-01T16:02:13Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:54:28Z"
+ },
+ "SB-130": {
+  "domain": "omnisecurity.ro",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:54:39Z"
+ },
+ "SB-131": {
+  "domain": "desecuretechnology.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:54:54Z"
+ },
+ "SB-132": {
+  "domain": "fasttr.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "lesterrivera/fasttrack-components",
+    "url": "https://github.com/lesterrivera/fasttrack-components",
+    "desc": "Ready-to-deploy and example code to customize and extend CA Identity Manager (now CA IdentityMinder)",
+    "stars": 2,
+    "pushed_at": "2012-10-22T03:04:03Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Aslam-Shah/fasttradesolution.com",
+    "url": "https://github.com/Aslam-Shah/fasttradesolution.com",
+    "desc": "I have build this site using wordpres.",
+    "stars": 0,
+    "pushed_at": "2023-03-10T07:43:21Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "fasttrackedu/fasttrackgraduation.com-",
+    "url": "https://github.com/fasttrackedu/fasttrackgraduation.com-",
+    "desc": "Graduation courses play an important role in shaping your career and future opportunities. Choosing the right course hel",
+    "stars": 0,
+    "pushed_at": "2025-12-20T05:17:03Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "brianh148/new.fasttrackimprovements.com",
+    "url": "https://github.com/brianh148/new.fasttrackimprovements.com",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-02-14T11:33:32Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "AtomicBlonde100/Fasttrustedbuildere.-comwp1",
+    "url": "https://github.com/AtomicBlonde100/Fasttrustedbuildere.-comwp1",
+    "desc": "Fast trusting builders web application project under developent",
+    "stars": 0,
+    "pushed_at": "2019-02-21T06:56:14Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:55:08Z"
+ },
+ "SB-133": {
+  "domain": "gigalight.com.sg",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:55:23Z"
+ },
+ "SB-134": {
+  "domain": "kassabasystems.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:55:34Z"
+ },
+ "SB-135": {
+  "domain": "labormuhendislik.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:55:48Z"
+ },
+ "SB-136": {
+  "domain": "metalogint.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:55:56Z"
+ },
+ "SB-137": {
+  "domain": "oralcompanies.com",
+  "accounts": [
+   {
+    "login": "oralcompanies",
+    "type": "User",
+    "url": "https://github.com/oralcompanies",
+    "name": "MUHAMMAD AZEEMULLAH",
+    "blog": "",
+    "email": "azeem@oralcompanies.com",
+    "company": "ORAL GUVENLIK SISTEMLERI",
+    "public_repos": 1,
+    "created_at": "2026-01-02T07:24:15Z",
+    "updated_at": "2026-06-06T20:22:59Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "qraccess",
+      "pushed_at": "2026-01-02T07:25:52Z",
+      "lang": null,
+      "desc": "QR Access For AVM Shops",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:56:07Z"
+ },
+ "SB-138": {
+  "domain": "volktek.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:56:21Z"
+ },
+ "SB-139": {
+  "domain": "acusenseteknoloji.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:56:32Z"
+ },
+ "SB-140": {
+  "domain": "ag-bilgisayar.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:56:45Z"
+ },
+ "SB-141": {
+  "domain": "agilenetworks.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:56:56Z"
+ },
+ "SB-142": {
+  "domain": "airpo.co.id",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "ErfanSharifi/Iran-airport-company-Id-card",
+    "url": "https://github.com/ErfanSharifi/Iran-airport-company-Id-card",
+    "desc": "I making program with python for insert data of staff of ARFF of Iran airport company in database then print id-card for",
+    "stars": 2,
+    "pushed_at": "2021-05-28T06:34:56Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:57:08Z"
+ },
+ "SB-143": {
+  "domain": "broadstar.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:57:22Z"
+ },
+ "SB-144": {
+  "domain": "bsdnetworks.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:57:35Z"
+ },
+ "SB-145": {
+  "domain": "digicomm.de",
+  "accounts": [
+   {
+    "login": "digicomms",
+    "type": "User",
+    "url": "https://github.com/digicomms",
+    "name": "DigiComms",
+    "blog": "http://www.digicomms.com/",
+    "email": null,
+    "company": "DigiComms",
+    "public_repos": 48,
+    "created_at": "2015-02-23T18:37:10Z",
+    "updated_at": "2026-10-13T03:54:42Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "awesome-list",
+      "pushed_at": "2026-03-01T11:12:01Z",
+      "lang": null,
+      "desc": "Cybersecurity oriented awesome list",
+      "fork": true
+     },
+     {
+      "name": "IROD",
+      "pushed_at": "2026-02-28T15:34:23Z",
+      "lang": null,
+      "desc": "Intune Remediations On-Demand script execution with a modern WPF GUI and Microsoft Graph API integration.",
+      "fork": true
+     },
+     {
+      "name": "MasterclassELDK26",
+      "pushed_at": "2026-02-26T15:23:52Z",
+      "lang": null,
+      "desc": "Lab content for the ExpertsLive Denmark 2026 Identity Masterclass",
+      "fork": true
+     },
+     {
+      "name": "Win11Debloat",
+      "pushed_at": "2025-05-19T22:25:38Z",
+      "lang": null,
+      "desc": "A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various othe",
+      "fork": true
+     },
+     {
+      "name": "DuoUniversalKeycloakAuthenticator",
+      "pushed_at": "2025-05-12T17:11:53Z",
+      "lang": "Java",
+      "desc": "Keycloak Authenticator for Duo's new Universal Prompt",
+      "fork": true
+     },
+     {
+      "name": "keycloak-2fa-email-authenticator",
+      "pushed_at": "2025-05-08T22:56:52Z",
+      "lang": "Java",
+      "desc": "🔒  Keycloak Authentication Provider implementation to get a two factor authentication with a OTP/code/token send via Ema",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "Akbar0102/digicommerce-devcale",
+    "url": "https://github.com/Akbar0102/digicommerce-devcale",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2023-12-21T12:08:00Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:57:48Z"
+ },
+ "SB-146": {
+  "domain": "exsys.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:58:04Z"
+ },
+ "SB-147": {
+  "domain": "genieproducts.co.uk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:58:17Z"
+ },
+ "SB-148": {
+  "domain": "isrcorp.co.il",
+  "accounts": [
+   {
+    "login": "Smart-Mobility-Solutions",
+    "type": "Organization",
+    "url": "https://github.com/Smart-Mobility-Solutions",
+    "name": "Smart Mobility Solutions",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2026-07-01T03:40:43Z",
+    "updated_at": "2026-07-01T03:40:43Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "yarivzIsr/RoomTester",
+    "url": "https://github.com/yarivzIsr/RoomTester",
+    "desc": "A Room database tester",
+    "stars": 0,
+    "pushed_at": "2025-11-27T15:43:43Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:58:28Z"
+ },
+ "SB-149": {
+  "domain": "klasnet.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:58:43Z"
+ },
+ "SB-150": {
+  "domain": "nexxus.cc",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:58:54Z"
+ },
+ "SB-151": {
+  "domain": "optiwatchgroup.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:59:08Z"
+ },
+ "SB-152": {
+  "domain": "pulsar.pl",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "lhotari/pulsar-playground",
+    "url": "https://github.com/lhotari/pulsar-playground",
+    "desc": "Playground for Pulsar core development with instructions for setting up a k8s test env on your laptop",
+    "stars": 9,
+    "pushed_at": "2026-02-24T14:25:16Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "usegalaxy-eu/tpv-broker",
+    "url": "https://github.com/usegalaxy-eu/tpv-broker",
+    "desc": "Metascheduler for TPV as Service",
+    "stars": 3,
+    "pushed_at": "2025-06-10T18:39:15Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "juliam98/Pulsar_plot",
+    "url": "https://github.com/juliam98/Pulsar_plot",
+    "desc": "Plotted some pulsars just for fun. ",
+    "stars": 2,
+    "pushed_at": "2024-02-22T17:02:42Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "tisonkun/pulsar-planet",
+    "url": "https://github.com/tisonkun/pulsar-planet",
+    "desc": "Ecosystem for building messaging and streaming application around Apache Pulsar.",
+    "stars": 2,
+    "pushed_at": "2022-09-23T11:49:30Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "tspannhw/pinot-pulsar-plugin",
+    "url": "https://github.com/tspannhw/pinot-pulsar-plugin",
+    "desc": "Pinot realtime ingestion plugin for Apache Pulsar",
+    "stars": 2,
+    "pushed_at": "2021-09-28T13:27:57Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:59:19Z"
+ },
+ "SB-153": {
+  "domain": "sinerjik.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:59:33Z"
+ },
+ "SB-154": {
+  "domain": "wire.tech",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "VoltAgent/awesome-design-md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen",
+    "stars": 123779,
+    "pushed_at": "2026-10-14T05:46:48Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "HonzaKirchner/apify-workshop",
+    "url": "https://github.com/HonzaKirchner/apify-workshop",
+    "desc": "",
+    "stars": 1,
+    "pushed_at": "2026-02-26T05:33:09Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "VoltAgent/awesome-claude-design",
+    "url": "https://github.com/VoltAgent/awesome-claude-design",
+    "desc": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI i",
+    "stars": 4225,
+    "pushed_at": "2026-06-20T17:54:18Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "kanagarajnn/wireless-technology-5g-notes",
+    "url": "https://github.com/kanagarajnn/wireless-technology-5g-notes",
+    "desc": "Wireless Technology & 5G Notes: This repository contains comprehensive notes and insights on wireless technology and 5G,",
+    "stars": 5,
+    "pushed_at": "2025-04-29T12:00:43Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "serenay7/daily-news",
+    "url": "https://github.com/serenay7/daily-news",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-08-25T08:32:34Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:59:44Z"
+ },
+ "SB-156": {
+  "domain": "cyberteam.pl",
+  "accounts": [
+   {
+    "login": "cyberteam-international",
+    "type": "Organization",
+    "url": "https://github.com/cyberteam-international",
+    "name": "Cyber Team",
+    "blog": "",
+    "email": "cyberteaminternational@gmail.com",
+    "company": null,
+    "public_repos": 20,
+    "created_at": "2023-08-28T13:17:47Z",
+    "updated_at": "2023-08-28T13:42:45Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "bravex-front",
+      "pushed_at": "2026-08-21T14:39:24Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "hoset-back",
+      "pushed_at": "2026-08-21T14:06:30Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "jhbjhbasd",
+      "pushed_at": "2026-02-24T19:18:12Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "jsavfadsf",
+      "pushed_at": "2026-02-24T17:55:19Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "123213",
+      "pushed_at": "2026-02-24T16:35:00Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "yaren",
+      "pushed_at": "2026-02-24T16:00:56Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:59:57Z"
+ },
+ "SB-157": {
+  "domain": "dci.jp",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "cese-dci/tp-dci--jpmendi",
+    "url": "https://github.com/cese-dci/tp-dci--jpmendi",
+    "desc": "tp-dci--jpmendi created by GitHub Classroom",
+    "stars": 0,
+    "pushed_at": "2019-11-15T15:51:41Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "Legend0300/DCIOM-JPG-PNG",
+    "url": "https://github.com/Legend0300/DCIOM-JPG-PNG",
+    "desc": "THis is a DCIOM to JPG/PNG converter that is used to convert any DCIOM medical file to JPG or PNG format.",
+    "stars": 0,
+    "pushed_at": "2023-06-22T20:21:09Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:00:12Z"
  }
 }

@@ -74,6 +74,36 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「商用 2.5G PoE 管理型」，共 9 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **130 票**（02/2017-10/2026）；最近一票 **10/14/2026**；月均 3.3 TEU；ImportYeti 估算海运费累计 $361,898 (100% coverage)（不是货值）。[公司页](https://www.importyeti.com/company/gw-security)（synced 10/21/2026）
+- **中国占比**：116/130 中国 + 6 台湾（95.4% 亚洲）
+- **主要发货人**（票数 · 品名）：
+  - YCX Electronics HK / Shenzhen YCX Electronics（China）· 47 票 · CCTV cameras, NVRs, junction boxes, brackets
+  - Zhuhai Raysharp Technology（China）· 23 票 · camera/NVR, solar panel kits
+  - Shenzhen Hongrui Optical Technology (HRUI = Saga 的供应商)（China (Bao'an/Shajing)）· 14 票 · PoE SWITCH (HS 8517.62.32); 2023-03 一票 185 ctn/7 plts
+  - Hefei Zhongke Zhixun Technology（China）· 9 票 · Cat cable (整柜 17 t/697 ctn)
+  - Qualvision Technology（China）· 7 票 · CCTV camera/NVR
+  - Shenzhen Sunell Technology（China）· 4 票 · NVR, cameras
+  - Argus Image（Taiwan）· ≥4 票 · cameras 2025
+  - Zhuhai Glory Technology（China）· ≥2 票 · camera junction / NVR
+  - KC Technology（Taiwan）· ≥1 票 · camera/NVR 2026-05-26
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2026-10-14 · HRUI · 2,240 kg 170 ctn · PoE switch
+  - 2026-10-05 · YCX Electronics HK · 8,301 kg 557 ctn · CCTV camera/NVR
+  - 2026-08-09 · Zhuhai Glory · 5,300 kg 399 ctn · camera junction NVR
+  - 2026-07-31 · YCX · 8,190 kg 470 ctn · CCTV
+  - 2026-07-07 · Zhejiang Lingzhu · 420 kg 50 ctn · smart camera
+  - 2026-06-24 / 06-19 · YCX · 9,404 / 8,440 kg · CCTV
+  - 2026-06-02 · Hefei Zhongke Zhixun · 17,004 kg 697 ctn · Cat cable FCL
+  - 2026-05-26 · KC Technology (TW) · 4,836 kg 302 ctn · camera/NVR
+  - 2026-04-08 · HRUI · 2,200 kg 170 ctn · PoE switch
+  - 2026-02-13 · HRUI · 1,300 kg 100 ctn · PoE switch
+- **HRUI 直采票数**：[['2026-10-14', '2,240 kg 170 ctn', 'PoE switch plts; est. freight $8,232'], ['2026-04-08', '2,200 kg 170 ctn', 'PoE switch plts; $2,186'], ['2026-02-13', '1,300 kg 100 ctn', 'PoE switch; $2,702'], ['2025-06-20', '2,920 kg 225 ctn', 'PoE switch plts; $3,048'], ['2023-03', '185 ctn 7 plts', 'PoE switch (HTS 8517.62.32 BOL OSTIMASZ23030010)']]
+- **对 Saga 的含义**：最重要的发现之一：GW Security 直接从 HRUI（洪瑞 = 我们自己的供应商）海运 PoE 交换机，2023-03 起 14 票，2026 年已 3 票（02/04/10 月，各 100～170 箱）→ 他们在 HRUI 货上永远比我们便宜，不要拿 HRUI 同款去碰；只能拿 SmartByte Marvell 管理型（HRUI 没有的 L2+/L3）或 CENTEC 差异化；他们的采购节奏≈每 2～6 个月一票，月均 3.3 TEU
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

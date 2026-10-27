@@ -64,6 +64,7 @@ updated: 2026-10-27
 
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 4 封（2025-06-19 → 2025-09-19），打开标签 0 次。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 12129 条 URL（≥500 = 大目录 / 网店体量）；社媒：https://twitter.com/Odoo、https://www.facebook.com/odoo、https://www.instagram.com/odoo.official。
+- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [odoo](https://github.com/odoo)（官网/邮箱域名一致；公开仓库 46，最近 push 2026-10-27：industry、documentation、design-themes）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-12-18 国庆日；2027-02-08 斋月（约 02-08 → 03-09） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

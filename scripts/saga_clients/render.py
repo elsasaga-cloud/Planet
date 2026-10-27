@@ -22,6 +22,25 @@ GMAIL_DIGEST = os.path.join(DATA, 'gmail_digest.json')  # gmail_digest.py 产物
 GMAIL = json.load(open(GMAIL_DIGEST, encoding='utf-8')) if os.path.exists(GMAIL_DIGEST) else {}
 DIMS_JSON = os.path.join(DATA, 'dims.json')             # dims.py 产物（第 79 批多维画像），缺失则跳过
 DIMS = json.load(open(DIMS_JSON, encoding='utf-8')) if os.path.exists(DIMS_JSON) else {}
+IMPORTS_DIR = os.path.join(DATA, 'imports')               # T29-U62：公开海关提单（ImportYeti 美国海运）逐户查询结果，缺失则跳过
+
+
+def _load_imports():
+    out = {}
+    if not os.path.isdir(IMPORTS_DIR):
+        return out
+    for fn in sorted(os.listdir(IMPORTS_DIR)):
+        if not fn.endswith('.json'):
+            continue
+        d = json.load(open(os.path.join(IMPORTS_DIR, fn), encoding='utf-8'))
+        for code, row in (d.get('rows') or {}).items():
+            row = dict(row)
+            row['_src'] = d.get('_meta', {}).get('source', fn)
+            out[code] = row
+    return out
+
+
+IMPORTS = _load_imports()
 WEEKDAY_CN = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
 MONTH_CN = {1: '1 月', 2: '2 月', 3: '3 月', 4: '4 月', 5: '5 月', 6: '6 月', 7: '7 月', 8: '8 月', 9: '9 月', 10: '10 月', 11: '11 月', 12: '12 月'}
 
@@ -222,6 +241,55 @@ def fmt_dims(ent):
             '> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。'
             '**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。', '']
     return '\n'.join(head + L) + '\n'
+
+
+def fmt_imports(ent):
+    """进口记录（第 80 批 · T29-U62）：ImportYeti（美国海关海运提单）逐户查询；查无也写一行，省得下次再查。"""
+    r = IMPORTS.get(ent['code'])
+    if not r:
+        return ''
+    L = [f"## 进口记录（公开海关数据 · 第 80 批 · {r.get('fetched', TODAY)}）", '',
+         '> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。'
+         '美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 ' + str(r.get('fetched', TODAY)) + '。', '']
+    if not r.get('found'):
+        tried = '；'.join(r.get('tried') or [])
+        L.append(f"- **查无**：ImportYeti 公司页没有此户（{tried or '按公司名 slug 查 404'}）。{r.get('notes', '')}".rstrip())
+        L.append('- 查无 ≠ 不进口：可能用别的报关主体名、走空运 / 快递、或申请了舱单保密（ImportYeti FAQ）。')
+        return '\n'.join(L) + '\n'
+    seg = []
+    if r.get('total_shipments') is not None:
+        seg.append(f"海运提单 **{r['total_shipments']} 票**（{r.get('range', '')}）")
+    if r.get('last_shipment'):
+        seg.append(f"最近一票 **{r['last_shipment']}**")
+    if r.get('avg_teu_month'):
+        seg.append(f"月均 {r['avg_teu_month']} TEU")
+    if r.get('est_freight'):
+        seg.append(f"ImportYeti 估算海运费累计 {r['est_freight']}（不是货值）")
+    if r.get('lcl_fcl'):
+        seg.append(str(r['lcl_fcl']))
+    if r.get('ports'):
+        seg.append('到港 ' + str(r['ports']))
+    L.append(f"- **总量**：{'；'.join(seg)}。[公司页]({r['url']})（synced {r.get('synced', '')}）")
+    if r.get('china_share'):
+        L.append(f"- **中国占比**：{r['china_share']}")
+    sup = r.get('suppliers') or []
+    if sup:
+        L.append('- **主要发货人**（票数 · 品名）：')
+        for x in sup[:9]:
+            L.append(f"  - {x.get('n', '')}（{x.get('c', '')}）· {x.get('s', '?')} 票 · {x.get('p', '')}")
+    rec = r.get('recent') or []
+    if rec:
+        L.append('- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：')
+        for x in rec[:10]:
+            L.append('  - ' + ' · '.join(str(v) for v in x))
+    for k, lab in (('hrui_shipments', 'HRUI 直采票数'), ('onv_shipments', 'ONV 票数'), ('centro_shipments', 'Shenzhen Centro 票数')):
+        if r.get(k) is not None:
+            L.append(f"- **{lab}**：{r[k]}")
+    if r.get('notes'):
+        L.append(f"- **对 Saga 的含义**：{r['notes']}")
+    if r.get('related'):
+        L.append(f"- 关联户：{r['related']}")
+    return '\n'.join(L) + '\n'
 PI_DIR = os.path.join(ROOT, 'data', 'pi_orders')  # parse_pi.py 产物（PI 包成交记录），缺失则跳过
 
 
@@ -1450,6 +1518,9 @@ def render_one(ent):
         dm = fmt_dims(ent)
         if dm:
             lines.append(dm)
+        im = fmt_imports(ent)
+        if im:
+            lines.append(im)
     lines.append('## 基本事实（事实/推断/假设分层）')
     lines.append('')
     lines.append('| 项 | 内容 | 层级 |')

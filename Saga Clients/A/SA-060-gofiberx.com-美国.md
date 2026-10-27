@@ -86,6 +86,31 @@ updated: 2026-10-27
 - **同国同档参照（US，25% 档、主推线「CENTEC 数据中心」，共 2 户有动静，列前 3）**：SA-058 alphanetcom.com（A，同档：1:1 报过 1 次）；SB-119 wirestar.net（B，同档同线：1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **31 票**（02/2020-08/2026）；最近一票 **08/21/2026**；ImportYeti 估算海运费累计 $305 (3% coverage)（不是货值）。[公司页](https://www.importyeti.com/company/fiberx)（synced 10/21/2026）
+- **中国占比**：中国供应商 4 家（Qingdao Powtech / Hefei Lasun / Aimit Shenzhen / Shanghai Wanbao），全是光缆与 FTTH 线路五金，没有交换机
+- **主要发货人**（票数 · 品名）：
+  - Birla Cable（India (Rewa)）· 5 票 · optical fibre cable
+  - 4Net Networking Corp（Panama (one BOL from China 2024-08-26, 9,688 kg 821 pcs, desc redacted)）· 4 票 · telecom network accessories, fibre cable
+  - Fyco Telecomunicaciones（Dominican Republic）· 8 票 · messenger cable EHS
+  - Qingdao Powtech Electronics（China (ships via Panama/Colombia)）· 3 票 · ADSS accessories, bolts, suspension clamps (2023-12-01 24,686 kg; 2024-08-23 28,500 kg 1,334 ctn)
+  - Hefei Lasun Communication（China (via Panama)）· 2 票 · optical fiber cables
+  - Aimit Communication Shenzhen（China (via Colombia)）· 1 票 · outdoor flat cable, optic patch panel, junction (2023-11-27 8,170 kg)
+  - Shanghai Wanbao Optical（China）· 1 票 · FO standoff bracket, washers, strandvise, lashing wire (11,292 kg 523 pkg)
+  - Universal Cables（India (Goa)）· 1 票 · optical fibre cable 2022-06-16
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2024-09-12 · 4Net Networking (Panama) · 3,141 kg 23 pkg · tumbler/straw (non-telecom)
+  - 2024-08-26 · 4Net Networking (China) · 9,688 kg 821 pcs · [redacted]
+  - 2024-08-23 · Qingdao Powtech (Panama) · 28,500 kg 1,334 ctn · bolts, cable suspension clamp, thimbleye
+  - 2024-04-07 · Fyco (DR) · 25,636 kg 90 pkg · messenger cable
+  - 2024-01-13 · Birla Cable · 22,334 kg 53 drums · optical fibre cable
+  - 2023-12-01 · Qingdao Powtech · 24,686 kg 28 pkg · ADSS accessories
+  - 2023-11-27 · Aimit Communication Shenzhen · 8,170 kg 191 pkg · outdoor flat cable, patch panel
+- **对 Saga 的含义**：31 票全是 FTTH 外线材料（光缆、吊线、金具）；交换机类（HS 8517.62）一票也没有 → 他们的交换机走空运/快递或美国本土分销；海运记录显示 2026-08-21 仍在进口
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

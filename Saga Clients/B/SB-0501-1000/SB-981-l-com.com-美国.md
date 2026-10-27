@@ -66,6 +66,22 @@ updated: 2026-10-27
 - **同国同档参照（US，20% 档，共 2 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同档：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SB-020 52networks.com（B，同档：成交 STI-288GP，回过 14 次（最近 2025-07-24））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **1634 票**（01/2015-12/2024）；最近一票 **12/07/2024**；ImportYeti 估算海运费累计 $483,482 (44%)（不是货值）。[公司页](https://www.importyeti.com/company/l-com)（synced 10/21/2026）
+- **中国占比**：大头中国（含自有苏州厂）+ 台湾
+- **主要发货人**（票数 · 品名）：
+  - L-com Suzhou Mfg（自有苏州厂）（China）· 464 票 · data/USB/coax cables, connectors
+  - (redacted) China（China）· 224 票 · antennas, cooling fans, power cords, HS 8517.62
+  - (redacted) Taiwan（Taiwan）· 191 票 · aluminium enclosures, NEMA plates, HS 8517.62
+  - Infinite Electronics SZ（China (Suzhou)）· 129 票 · cables/connectors
+  - Beijing Oriens Technology（China）· 46 票 · stampings
+  - Kunshan Amphenol Zhengri（China）· 45 票 · connectors, waterproof caps
+  - Comm (TW)（Taiwan）· 44 票 · USB cables, modular accessories
+- **对 Saga 的含义**：自有苏州工厂 + 台湾 ODM 的大厂（Infinite Electronics 集团，28 个报关名）；2024-12 后在 'L Com' 名下断档——大概率改以集团其它名义报关；对我们：他们的工业交换机来自台湾/自有体系，Saga 只是千百个供应商候选之一（B 档保持）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
