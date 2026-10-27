@@ -40,7 +40,7 @@
  "kp": [
   {
    "name": "Nick Fitzsimmons",
-   "title": "General Manager",
+   "title": "员工（职务未核）—— 公司 = 1985 年起的光纤 / 工业以太网设备**制造商**（同行 + 轨交 / 国防客户 = 守界）→ 不追（第 89 批 官方登记核实 2026-10-27）",
    "email": "nickf@osd.com.au",
    "phone": "",
    "source": "用户表"
@@ -54,8 +54,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 osd.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Warriewood NSW 2102（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 osd.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "OPTICAL SYSTEMS DESIGN PTY LTD（ABN 83 003 020 504；NSW 2102 Warriewood）",
+  "founded": "≈1985（ACN 003 020 504 段；官网自述）（第 89 批 官方登记核实 2026-10-27）",
+  "size": "小型 / 中型制造商（同行）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "光纤通信 / 工业网络产品（自有品牌 OSD）"

@@ -35,7 +35,7 @@
  "kp": [
   {
    "name": "Philip Anderson",
-   "title": "Chief Executive Officer",
+   "title": "推定创办人 / 董事（公司名 And-corp 取自姓氏；自有品牌 Yamasaki IoT）= **老板 = 联系人**（ASIC 付费未取）（第 89 批 官方登记核实 2026-10-27）",
    "email": "sales@andcorp.com.au",
    "phone": "",
    "source": "用户表"
@@ -56,8 +56,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 andcorp.com.au，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "Wetherill Park NSW 2176（悉尼西）（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 andcorp.com.au，语言 ?，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "ANDCORP ENTERPRISES PTY. LTD.（ABN 93 610 329 934；NSW 2176 Wetherill Park；品牌 Yamasaki IoT）",
+  "founded": "≈2016（ACN 610xxx 段）（第 89 批 官方登记核实 2026-10-27）",
+  "size": "小型（进口分销 + 自有品牌）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "网络 / 光纤配件（自有品牌 Yamasaki；Utepo 工业 FS）"

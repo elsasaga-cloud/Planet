@@ -40,14 +40,14 @@
  "kp": [
   {
    "name": "Serkan Ertürk",
-   "title": "Project Manager",
+   "title": "Project Manager（2022 起；前 CTech）—— 公司 = 400 人国防电子制造商，自研军民两用交换机 / 路由器（守界 + 同行）→ **不追**（第 89 批 官方登记核实 2026-10-27）",
    "email": "info@pavotek.com.tr",
    "phone": "",
    "source": "用户表"
   },
   {
    "name": "Hilal Kırlıoğlu",
-   "title": "（职务待核）",
+   "title": "职能未核（国防电子厂员工）—— 不追（第 89 批 官方登记核实 2026-10-27）",
    "email": "hilal.kirlioglu@pavotek.com.tr",
    "phone": "",
    "source": "用户表"
@@ -61,8 +61,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 pavotek.com.tr，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "Pendik / İstanbul（Teknopark）（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 pavotek.com.tr，语言 en，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "PAVO TASARIM ÜRETİM ELEKTRONİK TİC. A.Ş.（Pavotek；Teknopark İstanbul Pendik + Orhanlı 工厂；董事长 Dr. Alper Özbilen）",
+  "founded": "2003（Teknopark İstanbul）（第 89 批 官方登记核实 2026-10-27）",
+  "staff": "300（2021）→ 400+（官网）；LinkedIn 201–500（第 89 批 官方登记核实 2026-10-27）",
+  "size": "中型 / 大型（国防电子制造商 = 守界 + 同行）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "电子 / 嵌入式系统 / 通信网络 / 电力电子 / IoT 方案"

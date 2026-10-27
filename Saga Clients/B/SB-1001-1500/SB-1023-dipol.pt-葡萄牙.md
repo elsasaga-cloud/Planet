@@ -88,6 +88,21 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 89 批（PT · Registo Comercial 镜像（iberinform：NIPC / 法律形式 / 地址；racius：资本 / 经营范围；rigorbiz：成立日 / CAE；einforma：18 年 / 2023–2025 资产负债表可购）+ 官网 política privacidade（成立 2008-03-28、资本 €25,000）+ prociv.gov.pt SCIE 名录（Ricardo Vieira 登记人），2026-10-27 查；https://www.iberinform.pt/empresa/24256500/skua-technology-unipessoal-lda）：**
+
+- 法定名 / 登记号：SKUA TECHNOLOGY, UNIPESSOAL LDA（商号 SKUA Tech；DIPOL Ibéria） · NIPC 508525934（Conservatória do Registo Comercial de Braga） · 状态 **Ativa（2025 年报已存）** · 成立 2008-03-28 · Sociedade Unipessoal por Quotas（**一人有限公司** = 单一股东）· 资本 €25,000
+- 行业码 / 经营范围：CAE 46502 电子 / 电信设备批发：**安防系统进口 / 出口 / 分销**（入侵 / 火警 / CCTV / GSM / 家居自动化 / LAN-WLAN）；**DIPOL Ibéria**（波兰 DIPOL 的葡西两国代理）；B2B 网店 b2b.skua.pt；西班牙电话线 +34 986（Vigo）
+- 注册地址：Rua da Quintã, Pavilhão 21, Frossos, 4700-023 Braga（登记地址 4700-859 São Pedro de Merelim）
+- 规模档：小型（一人公司；估 €1–3M）
+- 账目：资产负债表 2023 / 2024 / 2025 已存（付费未取）；估 5–15 人；PT IES 年报：7-15 前
+- 高管：**Ricardo Manuel da Silva VIEIRA — 民防局 SCIE 设备实体登记的负责人（ricardo.vieira@skuatechnology.com，证书至 2027-09）→ 推定 sócio-gerente（一人公司 = 老板）**；研究档 KP 仅「办公室」→ 下一封写 Ricardo
+- 控制人 / 股东：单一股东（推定 Ricardo Vieira）
+- **这意味着什么：**
+  - **Skua 是布拉加的一人老板安防分销商（2008 起，兼波兰 DIPOL 的伊比利亚代理，有 B2B 网店 + 西班牙线）** → 分销 20%：PoE 4/8/16/24 口配 CCTV 走其 B2B 网店；CE / RoHS + 葡语 / 西语说明书；写 Ricardo Vieira 本人（不发 dipol@ / office@）；首单 50/50；DAP 布拉加走 Saga 百运网线（经里斯本 / 波尔图）；PT 周四 12–14
+  - DIPOL 代理关系 = 他已有一条波兰系交换机 / 配件来源 —— 信里不提；我方差异 = Marvell 管理型 + 价格
+  - 复查：einforma 年报 7 月后看 2026 资产负债表是否存
+- 备注：研究档 legal_name 补全 Unipessoal；KP 加 Ricardo Vieira（推定 gerente）。新来源键 pt。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,14 +130,17 @@ updated: 2026-10-27
   > 兴趣：MC FS SFP VC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（办公室）（）office@dipol.pt +351 253 618 579〔https://dipol.pt/〕
+- **KP**：Ricardo Manuel da Silva Vieira（推定 sócio-gerente（一人有限公司 = 老板；民防局 SCIE 设备实体登记负责人，证书至 2027-09）→ 下一封写他（第 89 批 官方登记核实 2026-10-27））ricardo.vieira@skuatechnology.com 〔https://prociv.gov.pt/media/evnd50kk/listagem_773_24-01-2025.pdf〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Skua Technology Lda（DIPOL Portugal） |
-| 总部/地址 | Braga, Portugal |
+| 法定名称 | SKUA TECHNOLOGY, UNIPESSOAL LDA（NIPC 508525934；CRC Braga；资本 €25,000；CAE 46502；商号 SKUA Tech；DIPOL Ibéria 葡西代理） |
+| 成立 | 2008-03-28（Registo Comercial 镜像 + 官网）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Rua da Quintã, Pavilhão 21, Frossos, 4700-023 Braga（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 小型（一人公司；估 5–15 人；2023–2025 资产负债表已存，付费未取）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | DIPOL 集团（波兰）自有品牌配件 |
 
 - **业务线**：CCTV / 网络 / 电视天线批发
@@ -206,7 +224,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | dipol@skuatechnology.com / office@dipol.pt | 用户表原值 | Clients/ 表 |
+| Ricardo Manuel da Silva Vieira | 推定 sócio-gerente（一人有限公司 = 老板；民防局 SCIE 设备实体登记负责人，证书至 2027-09）→ 下一封写他（第 89 批 官方登记核实 2026-10-27） | ricardo.vieira@skuatechnology.com | 调研核实（公开页） | https://prociv.gov.pt/media/evnd50kk/listagem_773_24-01-2025.pdf |
 
 - **通道建议**：企业邮箱可直发
 

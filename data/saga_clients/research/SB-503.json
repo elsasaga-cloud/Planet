@@ -40,7 +40,7 @@
  "kp": [
   {
    "name": "Harry Courtice",
-   "title": "Engineering Manager",
+   "title": "职务未核；公司 = 布里斯班工业无线制造商 ELPRO（2019 新法人）→ 问「网络配套是否本地选型」（第 89 批 官方登记核实 2026-10-27）",
    "email": "harry.courtice@elpro.com.au",
    "phone": "",
    "source": "用户表"
@@ -61,8 +61,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 elprotech.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "Nundah QLD 4014（布里斯班）（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 elprotech.com，语言 en-US，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "ELPRO TECHNOLOGIES PTY LTD（ABN 98 634 237 933；QLD 4014 Nundah）",
+  "founded": "≈2019（ACN 634xxx 段；ELPRO 品牌 1990 年代起，2019 实体 = 重组后新设，待核）（第 89 批 官方登记核实 2026-10-27）",
+  "size": "小型 / 中型（工业无线制造商）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "工业无线通信 / I/O（自有品牌 ELPRO）",

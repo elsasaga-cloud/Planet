@@ -45,7 +45,8 @@
    "title": "Founder",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "职务未核；Dorani 为墨尔本自有品牌对讲 / 门禁进口商（ABR 以 Trading Name 登记 → 老板用信托 / 旧壳经营）→ 下一封写他本人（第 89 批 官方登记核实 2026-10-27）"
   }
  ],
  "grade_override": null,
@@ -56,8 +57,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 dorani.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表"
+  "hq": "Richmond VIC 3121（墨尔本）（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 dorani.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "DORANI PTY LTD（ABR 名称类型 Trading Name，ABN 57 909 759 767；VIC 3121 Richmond；实体名待 View 页）",
+  "size": "小型（自有品牌进口商）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "安防系统安装（澳洲）",

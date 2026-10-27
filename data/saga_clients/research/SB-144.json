@@ -27,8 +27,8 @@
  ],
  "kp": [
   {
-   "name": "Robert",
-   "title": "（表内联系人）",
+   "name": "Robert Lichtenstein",
+   "title": "Owner / President（1982 创立至今，44 年；≈19 人；自有品牌光纤转换器 / 交换机 / SFP 经 Graybar Canada 分销）= **老板 = 联系人**；他问「自产还是 OEM」→ 答 SmartByte 自有工厂 + Saga 渠道，OEM 30% 贴 BSD 标（第 89 批 官方登记核实 2026-10-27）",
    "email": "robert@bsdnetworks.com",
    "phone": "",
    "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -42,11 +42,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "BSD Networks（待核）",
-  "founded": "",
-  "hq": "Canada",
-  "size": "小型品牌商",
-  "other": "多来源贴牌"
+  "legal_name": "BSD International Marketing（商号 BSD Networks；Concord / Woodbridge, Ontario；安省登记号未取 —— Ontario 登记处 JS）",
+  "founded": "1982（ZoomInfo / 官网）（第 89 批 官方登记核实 2026-10-27）",
+  "hq": "Concord (Vaughan), Ontario（多伦多北）（第 89 批 官方登记核实 2026-10-27）",
+  "size": "小型（自有品牌进口商）（第 89 批 官方登记核实 2026-10-27）",
+  "other": "多来源贴牌",
+  "staff": "≈19 人（ZoomInfo）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "光纤网络产品（自有 logo）"

@@ -86,6 +86,21 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 89 批（LT · Registrų centras 镜像（rekvizitai.vz.lt：代码 / VAT / 股本 / 董事 / 员工 / 工资 / 2025 营收；scoris / okredo：SODRA 人数 2026-10；lovejob：2023 营收 / 净利）+ 官网 about / contacts，2026-10-27 查；https://rekvizitai.vz.lt/en/company/sareme/）：**
+
+- 法定名 / 登记号：UAB „SAREME“（品牌 viSar / visarcctv.com） · Įmonės kodas 110629811 · PVM LT106298113 · 状态 **Veikianti（SODRA 2026-10-05：22 人）** · 成立 1994-06-16 · UAB（私人有限）· 股本 €630,000 · 股东未公开（付费）
+- 行业码 / 经营范围：EVRK 46.64 其他机械设备批发（实际：**安防 / CCTV / 火警 / 门禁 / 楼宇自动化 / 对讲 / 音响系统分销 + 安装**，维尔纽斯 + 考纳斯两处；自有品牌 **viSar** CCTV）；自称「立陶宛非国有安防市场绝对长期领先者」
+- 注册地址：Vytenio g. 46, LT-03229 Vilnius；分部 Savanorių pr. 271, Kaunas
+- 规模档：小型（23 人；€9–11M；人均产出高 = 分销为主）
+- 账目：**2025 营收 €9,219,061；2023 营收 €10,820,365、净利 €349,382；近期利润 €308k；员工 22–23（2026），平均工资 €3,778（2026-05，立陶宛高位）**；LT 年报 Registrų centras：5-31 前
+- 高管：Valdemaras NARKOVIČIUS — Direktorius / Generalinis direktorius（2019-06-21 起）= 拍板人；研究档原无具名 KP（收件 info@sareme.lt / info@visarcctv.com）→ 下一封写他
+- 控制人 / 股东：未公开
+- **这意味着什么：**
+  - **Sareme 是立陶宛最大的民营安防分销商之一（€9–11M、23 人、1994 起），还有自有品牌 viSar 摄像机 —— 我们 24 封全寄 info@，没写过老板** → 写总经理 Narkovičius：viSar 贴牌 PoE 交换机（OEM 30%）配自家摄像机 + Sareme 分销（20%）两档并列；CE / RoHS + 立陶宛语标签；欧盟内可谈 30 天账期（€10M 公司，风险低）
+  - 波罗的海 11–12 月是安防项目结算季；DAP 维尔纽斯走 Saga 百运网线（经波兰）；LT 周四 12–14 与 PL 同窗
+  - 复查：rekvizitai 年报 5-31 后看 2026 营收（2023 → 2025 下滑 15%，看是否止跌）
+- 备注：研究档 legal_name 空 → 回填；KP 加 Narkovičius（Direktorius）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,13 +149,17 @@ updated: 2026-10-27
 - **【用户表】很多不同的外壳 switch PoE**
   > 很多不同的外壳 switch PoE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Valdemaras Narkovičius（Direktorius / Generalinis direktorius（2019-06-21 起）= 拍板人；研究档原无具名 KP（24 封全寄 info@）→ 下一封写他：viSar 贴牌 PoE（OEM 30%）+ 分销 20% 并列（第 89 批 官方登记核实 2026-10-27）） 〔https://rekvizitai.vz.lt/en/company/sareme/manager/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 立陶宛 |
+| 法定名称 | UAB „SAREME“（įmonės kodas 110629811；PVM LT106298113；1994-06-16；股本 €630,000；Vytenio g. 46, LT-03229 Vilnius + Kaunas 分部；品牌 viSar） |
+| 成立 | 1994-06-16（Registrų centras 镜像）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Vilnius（Vytenio g. 46）（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 22–23 人（SODRA 2026-10）；**2025 营收 €9.22M；2023 营收 €10.82M / 净利 €349k**；平均工资 €3,778（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 visarcctv.com，语言 ?，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：安防设备（自有 VSS/VSI 品牌：PoE 交换机 / 对讲）
@@ -250,7 +269,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@sareme.lt / info@visarcctv.com | 用户表原值 | Clients/ 表 |
+| Valdemaras Narkovičius | Direktorius / Generalinis direktorius（2019-06-21 起）= 拍板人；研究档原无具名 KP（24 封全寄 info@）→ 下一封写他：viSar 贴牌 PoE（OEM 30%）+ 分销 20% 并列（第 89 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://rekvizitai.vz.lt/en/company/sareme/manager/ |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -286,7 +305,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；已推送 16 次无回复，邮件通道疲劳
+- **W**：已推送 16 次无回复，邮件通道疲劳
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -303,7 +322,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

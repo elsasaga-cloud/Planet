@@ -79,6 +79,22 @@ updated: 2026-10-27
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 89 批（US · 官网 about / contact + SupplierConnect 名录（地址 / 创立 2000-01 / 联系人 Bradley）+ RocketReach（CEO 2008 起、2 名员工）+ Crunchbase；州登记未取（CA SoS 镜像未命中），2026-10-27 查；https://www.maxcomcorp.com/）：**
+
+- 法定名 / 登记号：Maxcom, Inc.（Fair Oaks / Orangevale, California —— **美国**，用户表国别 CA 实为加州缩写误判） · 未取（California corporation 推定） · 状态 **Active（官网 2025-08 更新）** · 成立 2000-01 · Inc.（一人 / 两人公司：CEO + 销售代表）
+- 行业码 / 经营范围：**光纤传输设备设计 / 制造**（CATV / 视频 / RF / L-band / ASI / 以太网至 10G 光端机、EDFA、编码器）—— 加州小型制造商，客户有线电视 / 广电
+- 注册地址：7996 California Ave Ste E, Fair Oaks, CA 95628（旧址 6105 Main Ave Ste 14, Orangevale CA 95662）
+- 规模档：微型（2 人 + 外包生产）
+- 账目：私企；RocketReach 2 人（「$173M 营收」为平台垃圾值，不采信）；CA Statement of Information 每年
+- 高管：**Steve BRADLEY — CEO（2008 起；同时任 Sonlight Communications 总裁 2009 起；前 Comcast 工程总监）= 研究档 KP steve.bradley@ → 老板 = 联系人**
+- 高管：Tom MAGUIRE — Sales Executive（Hickory NC）= 研究档 KP
+- 控制人 / 股东：Steve Bradley（推定）
+- **这意味着什么：**
+  - **纠错：Maxcom 不在加拿大 —— 是加州 Fair Oaks 的 2 人光纤传输设备小厂，CEO Steve Bradley 就是我们写信的人（老板 = 联系人）**；他设计 / 外包生产 CATV 光端机，以太网交换机不是自产 → OEM 30%：Maxcom 贴牌 8/24 口管理型 + 工业 PoE（配广电前端机房），MOQ 1 箱；FCC Part 15 + CE；100% 预付（2 人公司）；US 周三 08–10（PST）
+  - 用户表国别 CA（加州）被当成加拿大 → 发信时区 / 证书改按美国（FCC，无 ISED）；entities 不手改，记 Q-65 待批量纠错
+  - 不再检索
+- 备注：研究档 legal_name 回填 Maxcom, Inc.；hq 改加州；KP Bradley = CEO。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,14 +139,17 @@ updated: 2026-10-27
   > 广州 一个牌子 Gxcom  工业FS 刷了自己的logo 光路的MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Steve Bradley（）steve.bradley@maxcomcorp.com 〔用户表〕
-- **KP**：Tom Maguire（） 〔用户表〕
+- **KP**：Tom Maguire（Sales Executive（Hickory NC）（第 89 批 官方登记核实 2026-10-27）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 加拿大 |
+| 法定名称 | Maxcom, Inc.（California；7996 California Ave Ste E, Fair Oaks CA 95628；州登记号未取） |
+| 成立 | 2000-01（官网）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Fair Oaks, California, USA（非加拿大）（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 2 人（RocketReach；外包生产）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 maxcomcorp.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：光纤传输 / 数字电视设备制造（自有品牌 Maxcom）；工业交换机 / MC（贴标）
@@ -236,7 +255,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Steve Bradley | — | steve.bradley@maxcomcorp.com | 调研核实（公开页） | 用户表 |
-| Tom Maguire | — | — | 调研核实（公开页） | 用户表 |
+| Tom Maguire | Sales Executive（Hickory NC）（第 89 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 14 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

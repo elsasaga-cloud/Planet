@@ -86,6 +86,24 @@ updated: 2026-10-27
 
 - 法定假日：11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 89 批（CZ · Obchodní rejstřík 镜像（fakturujzdarma：IČO / DIČ / 资本 / 人数档 / 董事会，ARES 核验 2026-09-24；rejstrik.penize：登记日 / 历任；or.justice.cz：B 3718）+ 官网 kontakty + 捷克维基（营收 / 人数 / 所有人），2026-10-27 查；https://or.justice.cz/ias/ui/rejstrik-$firma?ico=26279690）：**
+
+- 法定名 / 登记号：ELKOV elektro a.s. · IČO 26279690 · DIČ CZ26279690 · Krajský soud v Brně B 3718 · LEI 31570010000000108638 · 状态 **Aktivní（可靠增值税纳税人，无破产）** · 成立 2002-03-04 · Akciová společnost（a.s.）· 所有人 MV elektro（Vodička 家族）100% · 基本资本 33,000,000 Kč
+- 行业码 / 经营范围：**电气材料 + 照明批发（捷克最大之一）**：33 家分店、分部 ELKOV lighting / servis / energy（光伏、充电桩、智慧城市）；工具租赁
+- 注册地址：Kšírova 701/255, Horní Heršpice, 619 00 Brno-jih
+- 规模档：大型（700 人；€2.2 亿）
+- 账目：集团营收 55 亿 Kč（≈ €2.2 亿；维基 2025）；总资产 10 亿 Kč（2018）、权益 4.68 亿 Kč（2018）；员工 500–999（RES）/ ≈700（2025）；CZ 年报 Sbírka listin：次年 12-31 前
+- 高管：Michal VODIČKA — předseda představenstva（董事长；创始人 Karel Vodička 之子，Karel 任董事长 2002–2009）
+- 高管：Martin MAREŠ — první místopředseda（第一副董事长）
+- 高管：Tomáš ŠKRHÁK（第二副）、Marek HAVLÍČEK（第三副）、Jitka KOBYLKOVÁ、Eva SEDLÁČKOVÁ — 董事会成员
+- 高管：研究档收件 nabidky.brno@elkov.cz = **报价 / 询价收件箱**（17 封 2 次打开）
+- 控制人 / 股东：MV elektro（Vodička 家族）100%
+- **这意味着什么：**
+  - **判定：ELKOV 是 700 人、€2.2 亿的捷克电气材料连锁批发商（33 家店），我们寄到的是它的「报价收件箱」—— 这类大批发商只通过「供应商准入 + 品类经理」进货** → 分销 20% 档；下一封不发 nabidky@，改写采购部「datové sítě / slaboproud 品类经理」（官网 kontakty 页找人名），一页：PoE 交换机品类补位（捷克市场现有 Planet / TP-Link / Zyxel 价位之下）、CE / RoHS、捷克语标签 + 说明书、EAN、30 天账期可谈（对 a.s. 大客户可破例 —— 需 Simon 决定）
+  - 大批发商节奏：年度选品 Q4（10–11 月）→ 本周正是窗口；DAP 布尔诺走 Saga 百运网线；CZ 周四 12–14
+  - 复查：年报 Sbírka listin 每年 12 月
+- 备注：研究档 legal_name 已有；补登记号 / 董事会；KP 无具名 → 加 Michal Vodička（董事长，不直接写）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,14 +135,17 @@ updated: 2026-10-27
 - **【用户表】展会互动；16 次跟进 0 回复；WhatsApp 加不上**
   > 对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Michal Vodička（Předseda představenstva（董事长；创始人 Karel Vodička 之子；所有人 MV elektro 100%）—— 不直接写；下一封写采购部「datové sítě」品类经理，不发 nabidky@（第 89 批 官方登记核实 2026-10-27）） 〔https://or.justice.cz/ias/ui/rejstrik-$firma?ico=26279690〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ELKOV elektro a.s. |
+| 法定名称 | ELKOV elektro a.s.（IČO 26279690；DIČ CZ26279690；KS Brno B 3718；LEI 31570010000000108638；基本资本 33,000,000 Kč） |
+| 成立 | 2002-03-04（Obchodní rejstřík）（第 89 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Kšírova 701, Brno-Horní Heršpice, Czechia |
+| 人数 | 500–999（RES）/ ≈700（2025）；集团营收 55 亿 Kč（≈ €2.2 亿）；33 家分店；董事会 6 人（Vodička / Mareš / Škrhák / Havlíček / Kobylková / Sedláčková）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 32+ 分店；部门 ELKOV lighting / servis / energy；光伏、EV 充电、智慧城市 |
 
 - **业务线**：电气安装材料与灯具批发（电缆、配电、保护器件、仪表）；光伏/充电桩/智慧城市项目；工具租赁与服务
@@ -226,6 +247,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Michal Vodička | Předseda představenstva（董事长；创始人 Karel Vodička 之子；所有人 MV elektro 100%）—— 不直接写；下一封写采购部「datové sítě」品类经理，不发 nabidky@（第 89 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://or.justice.cz/ias/ui/rejstrik-$firma?ico=26279690 |
 | Vladimir Novak | — | vladimir.novak@elkov.cz / nabidky.brno@elkov.cz / +420725653304 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

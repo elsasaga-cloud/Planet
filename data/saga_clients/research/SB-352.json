@@ -29,7 +29,8 @@
    "title": "VP Purchasing",
    "email": "sales@fiberdyne.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "VP Purchasing（2001 起）/ VP Logistics（2008 起）= **采购拍板人本人** —— 制造商采购要的是配套 / 贴牌，不是价表（第 89 批 官方登记核实 2026-10-27）"
   },
   {
    "name": "Jeremy Nulty",
@@ -43,7 +44,8 @@
    "title": "（职务待核）",
    "email": "peter@fiberdyne.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Founder / Chairman（1992 创立；Polus 家族所有；CEO 为 A. Peter Polus III）（第 89 批 官方登记核实 2026-10-27）"
   }
  ],
  "grade_override": null,
@@ -54,8 +56,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 fiberdyne.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+  "hq": "Frankfort, New York（Utica 东）（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 fiberdyne.com，语言 ?，快照状态 http_error；角色判定来源：用户表",
+  "legal_name": "Fiberdyne Labs, Inc.（NY S-Corp；SAM UEI L689L2J632M7，登记 2001-10-04、有效至 2026-10-31；127 Business Park Dr, Frankfort NY 13340）",
+  "founded": "1992（Herkimer NY；SAM 开业日 1994-08-23）（第 89 批 官方登记核实 2026-10-27）",
+  "staff": "51–200 人（LinkedIn / ZoomInfo）；光纤产品制造商（CATV / 电信）；SAM 登记 = 政府项目（TAA 限制 → 只走商业线）（第 89 批 官方登记核实 2026-10-27）",
+  "size": "中型（家族制造商）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "光纤产品 / 交换机（自有品牌 Fiberdyne）"

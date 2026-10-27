@@ -46,8 +46,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 murrelektronik.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Oppenweiler（斯图加特北）（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 murrelektronik.de，语言 de，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "Murrelektronik GmbH（Amtsgericht Stuttgart HRB 270279；LEI 529900J3OOQZY4CQNQ96；Grabenstr. 29, 71570 Oppenweiler）",
+  "founded": "1975-09-24（Handelsregister）（第 89 批 官方登记核实 2026-10-27）",
+  "staff": "大型自动化元件制造商（Hafner 家族控股；GF Jürgen Erkert + Ulrich Viethen；≥10 国子公司；自有工业交换机线；Stammkapital €5M）（第 89 批 官方登记核实 2026-10-27）",
+  "size": "大型（同行上游 → 不追；收件 shop@ 为网店客服箱）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "分布式自动化（I/O、连接、电源）",

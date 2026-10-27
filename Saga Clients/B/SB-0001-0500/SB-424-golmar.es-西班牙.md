@@ -83,6 +83,23 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 89 批（ES · Registro Mercantil de Barcelona 镜像（einforma：CIF / 资本 / 员工 / 治理 / BORME；expansión / infoempresa / axesor：成立日 / CNAE / 账目年；informa：销售区间 / 2024 员工；empresia：董事会主席）+ 官网 aviso legal，2026-10-27 查；https://www.einforma.com/informacion-empresa/golmar-sistemas-comunicacion）：**
+
+- 法定名 / 登记号：GOLMAR SISTEMAS DE COMUNICACIÓN, S.A. · CIF A08370314 · RM Barcelona tomo 24.484 folio 192 · 状态 **Activa（最近账目 2024 已存；**BORME 2026-10-21「Fusión y absorción de empresas」= 本月刚发生合并 / 吸收**）** · 成立 1975-04-09 · Sociedad Anónima · 资本 €1,239,400.23 · 董事会 7 人（2025-10-14）· 主席 Fiammetta Cometto（意大利姓 → 推定意资控股；具体集团待核）
+- 行业码 / 经营范围：CNAE 2640 消费电子制造：**楼宇对讲 / 视频门禁 / 安防通信设备制造 + 销售**（西班牙对讲第一品牌之一，进出口）；曾用名 Sistemas de Comunicación Golmar SA
+- 注册地址：C/ Silici 13-25, Pol. Ind. Famades, 08940 Cornellà de Llobregat (Barcelona)（旧址 Viladomat 83 Barcelona）
+- 规模档：中型（100–112 人；€6–30M）
+- 账目：销售 €6–30M 区间（informa）；员工 100（2026）/ 103 / 106（2022）/ 112（2024）；审计 Gabinete Audiwork SL；ES 账目存档：7-30 前（次年）
+- 高管：Fiammetta COMETTO — Presidenta del Consejo（董事会主席）
+- 高管：董事会 7 人 + 职能高管 4 人（2026-09）；研究档收件 golmar@（总信箱，13 封 2 次打开）
+- 控制人 / 股东：未取（主席意大利姓 + 2026-10 合并事件 → 股权刚变动）
+- 曾用名：SISTEMAS DE COMUNICACION GOLMAR SA
+- **这意味着什么：**
+  - **Golmar 是巴塞罗那 1975 年起的对讲 / 视频门禁制造商（100 多人），本月（2026-10-21）刚完成一次合并吸收** → IP 对讲系统正需要 PoE 交换机配套（楼宇每栋 8–24 口 PoE），OEM 30%（Golmar 贴牌）是正解；但合并刚发生 = 采购冻结期，**2027-01 后再写**，写产品管理 / compras，不发 golmar@
+  - 西班牙付款习惯 60 天 —— 不给；首单 50/50；CE / RoHS + 西语手册；DAP 巴塞罗那走 Saga 百运网线；ES 周四 12–14
+  - 复查：BORME 公告（einforma）2027-01 看合并后的主体与董事；2024 账目 → 2025 账目 2026-07 存
+- 备注：研究档 legal_name 空 → 回填；KP 无 → 加主席（不直接写）。新来源键 es。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,13 +132,17 @@ updated: 2026-10-27
 - **【用户表】CCTV 商业 PoE**
   > 主要是CCTV 也有一些商业POE；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Fiammetta Cometto（Presidenta del Consejo de Administración（董事会 7 人；意大利姓 → 推定意资控股）—— 不直接写；2026-10-21 BORME 合并吸收 → 2027-01 后写产品管理 / compras（第 89 批 官方登记核实 2026-10-27）） 〔https://www.einforma.com/informacion-empresa/golmar-sistemas-comunicacion〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 西班牙 |
+| 法定名称 | GOLMAR SISTEMAS DE COMUNICACIÓN, S.A.（CIF A08370314；RM Barcelona tomo 24.484 folio 192；资本 €1,239,400.23；曾用名 Sistemas de Comunicación Golmar SA） |
+| 成立 | 1975-04-09（Registro Mercantil 镜像）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | C/ Silici 13-25, Pol. Ind. Famades, 08940 Cornellà de Llobregat (Barcelona)（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 100–112 人（2022–2026）；销售 €6–30M 区间；CNAE 2640；审计 Gabinete Audiwork；**BORME 2026-10-21 Fusión y absorción**（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 golmar.es，语言 en-GB，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：楼宇可视对讲 / 安防系统制造（自有品牌 Golmar）
@@ -217,7 +238,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | golmar@golmar.es | 用户表原值 | Clients/ 表 |
+| Fiammetta Cometto | Presidenta del Consejo de Administración（董事会 7 人；意大利姓 → 推定意资控股）—— 不直接写；2026-10-21 BORME 合并吸收 → 2027-01 后写产品管理 / compras（第 89 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.einforma.com/informacion-empresa/golmar-sistemas-comunicacion |
 
 - **通道建议**：企业邮箱可直发
 

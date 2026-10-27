@@ -88,6 +88,23 @@ updated: 2026-10-27
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 89 批（CA · ZoomInfo / D&B（Key Principal、人数、1982 起）+ yellowpages（母公司 BSD International Marketing）+ 官网 about / T&C + Graybar Canada 品牌页；安省登记号未取，2026-10-27 查；https://www.dnb.com/business-directory/company-profiles.bsd_networks.239dc1ee4b87cb51cc71290a587c2280.html）：**
+
+- 法定名 / 登记号：BSD International Marketing（品牌 BSD Networks） · 安省公司（Ontario Business Registry 需 JS，编号未取） · 状态 **在营（官网 2026；Graybar Canada 在售 20 SKU）** · 成立 1982（ZoomInfo：Lichtenstein 1982 至今 44 年；官网「30+ 年」） · 私人公司 · 业主 Robert Lichtenstein（Owner / President / Key Principal）
+- 行业码 / 经营范围：**自有品牌网络 + 光纤产品（BSD Networks 牌媒体转换器 / 商用与工业交换机 / SFP）在加美销售**，经 Graybar Canada 等分销；办公室 + 展厅 Woodbridge（520 Applewood Cres, Concord ON）
+- 注册地址：登记 275 York Hill Blvd, Thornhill ON L4J 3L5（住宅）；经营 520 Applewood Cres, Concord / Woodbridge ON L4K 4B4
+- 规模档：小型（≈19 人；自有品牌进口商）
+- 账目：私企不公开；ZoomInfo 11–50（19）人；—
+- 高管：Robert LICHTENSTEIN — Owner / President（1982 起）= 研究档 KP Robert（robert@；2026-03-30 问「你们自产还是 OEM」）→ **老板 = 联系人**
+- 高管：Rita SANTANA — Product Services（ZoomInfo）；Lynn Lichtenstein（家属，非经营）
+- 控制人 / 股东：Robert Lichtenstein（推定 100%）
+- 曾用名：BSD International Marketing（法人名）
+- **这意味着什么：**
+  - **老板 = 联系人，且是我们最想要的客户类型：BSD Networks 是多伦多 44 年的「自有品牌进口商」—— 把亚洲产的媒体转换器 / 交换机 / SFP 贴 BSD 牌，经 Graybar Canada 卖给加美集成商；Robert 本人 2026-03-30 来问「你们是自产还是 OEM 别人的」= 在评估我们当代工源** → 这一问必须答准：「SmartByte 自有工厂 + Saga 渠道」，给 BSD 贴牌（OEM 30%）：机身丝印 + 彩盒 + 英法双语标签（加拿大法规）+ FCC / IC（ISED）申报由他持有；样机 2 台付费抵货款；别提 Graybar
+  - 首单 T/T 50/50，之后 30/70；DAP 多伦多走 Saga 百运网线；CA 周三 08–10（北京 21–23 发）
+  - 复查：Graybar Canada 品牌页 SKU 数（20）年看一次 = 产品线扩张信号
+- 备注：研究档 legal_name「BSD Networks（待核）」→ 回填 BSD International Marketing；KP Robert 补姓 Lichtenstein + Owner。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - TL 16 ← 「4 8 16 24 Legacy fiber port Legacy fiber port SC ST 90W BSD-90W801GP-SFP 8 10/100/1000TX PoE BT + 1 SFP Switch (BSD-90W801GP-SFP) View Product BSD-S58」（https://bsdnetworks.com/commercial-switches/?jsf=jet-engine&tax=application:135）
@@ -129,15 +146,17 @@ updated: 2026-10-27
 - **【用户表】SFP MC 工业 FS SFP 光猫；自己的 logo 但产品来源比较杂；光路 10G MC Robert**
   > 兴趣：SFP MC 工业FS SFP 光猫 自己的logo 但产品来源比较杂
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Robert（）robert@bsdnetworks.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Robert Lichtenstein（）robert@bsdnetworks.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | BSD Networks（待核） |
-| 总部/地址 | Canada |
+| 法定名称 | BSD International Marketing（商号 BSD Networks；Concord / Woodbridge, Ontario；安省登记号未取 —— Ontario 登记处 JS） |
+| 成立 | 1982（ZoomInfo / 官网）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Concord (Vaughan), Ontario（多伦多北）（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | ≈19 人（ZoomInfo）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 多来源贴牌 |
 
 - **业务线**：光纤网络产品（自有 logo）
@@ -236,7 +255,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Robert | — | robert@bsdnetworks.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Robert Lichtenstein | — | robert@bsdnetworks.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

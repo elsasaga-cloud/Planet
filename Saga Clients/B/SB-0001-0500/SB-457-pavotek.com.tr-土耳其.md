@@ -88,6 +88,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 89 批（TR · SAHA İstanbul 会员页（法定全称）+ 官网 about + Defense Here / İstanbul Ticaret 采访（董事长、人数、历史）+ LinkedIn 公司页 + RocketReach（Ertürk 职务），2026-10-27 查；https://www.sahaistanbul.org.tr/en/firma/pavo-tasarim-uretim-elektronik-tic-a-s）：**
+
+- 法定名 / 登记号：PAVO TASARIM ÜRETİM ELEKTRONİK TİC. A.Ş.（Pavotek） · A.Ş.（İstanbul Ticaret Sicili；MERSİS 未取） · 状态 **Aktif** · 成立 2003（Teknopark İstanbul） · Anonim Şirket · 董事长 Dr. Alper Özbilen（前 MİT 部门主管；2023 媒体质疑其持股来源）；早期 Teknoloji Holding 投资
+- 行业码 / 经营范围：**国防电子制造商**：IP 网络通信设备（自研「土耳其首台国产交换机 / 路由器」）、通信 / 控制系统、电力分配、无人航电、军用计算机终端、智能电网、IoT；2006 起为国防主承包商分包；2016 Orhanlı 2,200 ㎡ 工厂
+- 注册地址：Teknopark İstanbul, Pendik / İstanbul（研发）+ Orhanlı（生产）+ Bilişim Vadisi
+- 规模档：中型 / 大型（400 人国防电子厂）
+- 账目：私企；员工 300（2021 采访）→ 400+（官网）；LinkedIn 201–500；RocketReach 营收 $22.2M（第三方估）；—
+- 高管：Dr. Alper ÖZBİLEN — Yönetim Kurulu Başkanı（董事长 / 所有人）
+- 高管：Serkan ERTÜRK — Project Manager（2022 起；前 CTech）= 研究档 KP（非采购）
+- 高管：Gizem Kızıltan / Hilal Kırlıoğlu — 研究档收件（职能未核）
+- 控制人 / 股东：Özbilen（推定控股）
+- **这意味着什么：**
+  - **判定：Pavotek 是 400 人的土耳其国防电子制造商，自己研发军用 / 民用交换机 —— 既是守界禁区（军工）又是同行** → **不追**；17 封群发里 3 次打开是工程师看竞品；从 TR 群发名单剔除
+  - 留档：若其民用 IoT / 智能电网线需要白牌商用交换机作配套，才有理论入口（不主动）
+- 备注：研究档 legal_name 回填全称；grade 不动（守界标记在 lines）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -142,7 +158,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
+| 法定名称 | PAVO TASARIM ÜRETİM ELEKTRONİK TİC. A.Ş.（Pavotek；Teknopark İstanbul Pendik + Orhanlı 工厂；董事长 Dr. Alper Özbilen） |
+| 成立 | 2003（Teknopark İstanbul）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Pendik / İstanbul（Teknopark）（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 300（2021）→ 400+（官网）；LinkedIn 201–500（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 pavotek.com.tr，语言 en，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：电子 / 嵌入式系统 / 通信网络 / 电力电子 / IoT 方案

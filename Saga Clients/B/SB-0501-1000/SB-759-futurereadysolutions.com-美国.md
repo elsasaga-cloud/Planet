@@ -83,6 +83,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 89 批（US · 官网 about（创始人 / 总裁 Eric Bodley；2015 初正式启动）+ CB Insights（2014 成立、地址）+ ProSource 2019 / KMB 2024 新闻稿（1,500+ 经销商、InfoComm），2026-10-27 查；https://futurereadysolutions.com/about-future-ready-solutions/）：**
+
+- 法定名 / 登记号：Future Ready Solutions（Bonita Springs, Florida；法定后缀未取 —— Sunbiz ✗） · 未取（FL Sunbiz 不可抓） · 状态 **Active（官网 2026-10 更新）** · 成立 2014（2015 初启动） · 私企（推定 LLC / Inc.；创始人独资）
+- 行业码 / 经营范围：**AV / 定制集成渠道的连接产品「代理 + 分销」混合商**：HDMI 光纤、10G 网络、光缆（品牌 Belden / Cleerline / Kordz / CTC Union / ROBOfiber / Xtreme Power …）；服务 1,500+ 住宅 / 商用集成商（CEDIA / InfoComm / ProSource / Azione 会员）
+- 注册地址：24551 Production Circle, Suite 3, Bonita Springs, FL 34135（佛州西南）
+- 规模档：小型
+- 账目：私企；估 5–15 人；FL 年报 5-01
+- 高管：**Eric BODLEY — Founder & President（前 PPC / Belden / Perfect Path 代理商 Bodley & Associates）= 研究档 KP eric@ → 老板 = 联系人**
+- 高管：Lawrence DAVIS — 研究档 KP（职务未核）
+- 控制人 / 股东：Eric Bodley（推定 100%）
+- **这意味着什么：**
+  - **老板 = 联系人：Eric Bodley 是 AV 集成渠道的老代理人，公司是把 10 来个品牌卖给 1,500 家影音集成商的「代理 + 分销」平台** → 我们对他的价值不是「又一个交换机」，而是 **AV-over-IP 专用款**：2.5G / 10G 上联 PoE++（STI-288DGGPM-2BT、STC-110XGE 10G）给 8K / Dante 场景，可做 Future Ready 自有标（OEM 30%）或分销 20%；FCC Part 15 B（住宅）必备；样机付费；CEDIA 9 月 / InfoComm 6 月前 2 个月是选品窗口
+  - 他已经代理一家湾区光纤品牌（同为我方 B 档户）—— **信里绝不提**；付款首单 50/50；US 周三 08–10（EST）
+  - 不再检索
+- 备注：研究档 legal_name 回填；KP Bodley = Founder & President；hq 改 Bonita Springs FL。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,7 +150,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
+| 法定名称 | Future Ready Solutions（Bonita Springs, Florida；法定后缀未取 —— Sunbiz ✗） |
+| 成立 | 2014（CB Insights）/ 2015 初启动（官网）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 24551 Production Circle Ste 3, Bonita Springs FL 34135（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 小型（估 5–15 人）；CEDIA / InfoComm / ProSource / Azione 会员（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 futurereadysolutions.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：集成商连接产品分销（光纤 / 网络 / AV）

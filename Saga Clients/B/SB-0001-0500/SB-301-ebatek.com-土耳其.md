@@ -79,6 +79,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 89 批（TR · 1 次检索：官网 hakkımızda（2005 Gaziantep 成立、软件 + IT 服务 + 网络 / 光纤服务）+ foursquare（Coşkun B. 常驻签到）；法定类型 / 业主未命中，2026-10-27 查；https://www.ebatek.com/page.asp?s=hakkimizda）：**
+
+- 法定名 / 登记号：Ebatek Bilişim Teknolojileri（Gaziantep） · 未取 · 状态 **Aktif（官网 + 社媒在线）** · 成立 2005（官网） · 未知（Ltd. Şti. 或 şahıs）
+- 行业码 / 经营范围：IT 服务 + 自有软件（MIS 项目，公共 / 私营客户）+ 电脑耗材 + 技术服务 + **网络系统销售 / 安装 / 以太网与光纤方案、光纤熔接**
+- 注册地址：İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（东南部，非伊斯坦布尔）
+- 规模档：微型 / 小型（「年轻团队」；估 5–15 人）
+- 账目：—；—
+- 高管：S. Coşkun BALKIŞ — 研究档 KP（展会名片 scbalkis@；foursquare 本店 10+ 次签到「Coşkun B.」）→ 推定创办人 / 业主（未证实）
+- **这意味着什么：**
+  - **Gaziantep 的 IT / 软件 + 网络工程小公司（2005 起，为公共机构做 MIS 项目），名片人 Coşkun Balkış 大概率是老板** → 他们的交换机需求来自政府 / 医院 MIS 项目的机房 —— 管理型 24 口 + 10G 上联（STC-424XGGPM 类）集成 25% 档；WhatsApp 先发英文 + 土耳其语各一页；Gaziantep 公共项目多用 DMO（国家采购）目录 → 问他是否需要 TSE / 本地化文件
+  - 付款 50/50；DAP Gaziantep 走 Saga 百运网线（伊斯坦布尔转陆运 +3 天）；不再检索
+- 备注：研究档 legal_name 已有；hq 纠正为 Gaziantep；founded 2005。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,7 +120,7 @@ updated: 2026-10-27
 - **【用户表】ISAF：拿彩页；要求 WhatsApp**
   > 没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：S. Coşkun Balkış（（ISAF 名片；负责人推测））scbalkis@ebatek.com（用户表） —（要求用 WhatsApp 联系）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：S. Coşkun Balkış（推定创办人 / 业主（foursquare 本店 10+ 次签到「Coşkun B.」；公司 2005 Gaziantep 成立，软件 + IT + 网络 / 光纤工程）—— 未证实（第 89 批 官方登记核实 2026-10-27））scbalkis@ebatek.com（用户表） —（要求用 WhatsApp 联系）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
@@ -116,7 +129,7 @@ updated: 2026-10-27
 |---|---|
 | 法定名称 | Ebatek Bilişim Teknolojileri |
 | 成立 | 2005 |
-| 总部/地址 | İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（+90 342 215 13 22；info@ebatek.com） |
+| 总部/地址 | İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（东南部）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 软件 + 硬件供应 + MIS 项目（公共机构项目按个案守界） |
 
 - **业务线**：IT 硬件/耗材供应与技术服务；自有软件产品与 MIS 项目开发
@@ -178,7 +191,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| S. Coşkun Balkış | （ISAF 名片；负责人推测） | scbalkis@ebatek.com（用户表） / —（要求用 WhatsApp 联系） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| S. Coşkun Balkış | 推定创办人 / 业主（foursquare 本店 10+ 次签到「Coşkun B.」；公司 2005 Gaziantep 成立，软件 + IT + 网络 / 光纤工程）—— 未证实（第 89 批 官方登记核实 2026-10-27） | scbalkis@ebatek.com（用户表） / —（要求用 WhatsApp 联系） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | S.Coskun BALKIS | CEO | scbalkis@ebatek.com / +05326363306 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

@@ -91,6 +91,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 89 批（TR · 官网 firmamız / privacy（法定名、品牌线、19 省分支）+ EMIS（1984-01-27 成立、80 人 2026、2022 营收 +63.8%）+ Kompass（Çankaya 登记号 1750038872、100–249 人）+ DMO 供应商页 + trademo（进口 102 票：台湾 / 德国 / 波兰）+ kariyer.net 2025-02 招聘网络工程师，2026-10-27 查；https://www.bimel.com.tr/tr/firmamiz）：**
+
+- 法定名 / 登记号：BİMEL ELEKTRONİK MAMULLERİ PAZARLAMA A.Ş.（Ankara；原 Ltd. Şti.） · Ankara Ticaret Sicili（Çankaya）1750038872（Kompass）· MERSİS 未取 · 状态 **Aktif** · 成立 1984-01-27 · Anonim Şirket（由 Ltd. Şti. 转制）· 本土资本
+- 行业码 / 经营范围：**IT / 网络 / 安防产品全国分销商**：5,000+ SKU；品牌 Assmann / ATEN / Beek / Digitus / Lindy / **PLANET** / Teltonika / Tumtec / Huawei eKit；**DMO（国家物资局）目录供应商** = 公共部门渠道；19 省分支（Ankara 总部 + İstanbul / İzmir / Bursa / Antalya …）；技术服务 + ISP
+- 注册地址：Bayındır Sok. 5/1-19, Yenişehir / Çankaya, Ankara（+ Çamlıca Mah. Anadolu Bulvarı No:20N D:8, Yenimahalle 06200）
+- 规模档：中型（80–100 人全国分销商）
+- 账目：私企；员工 76–80（2026）/ Kompass 100–249；Datanyze 营收估 $14.7M（第三方）；EMIS：2022 净销售 +63.8%、总资产 +91.1%；—（TR 不公示）
+- 高管：研究档无具名 KP（收件 bimel@ 总箱，9 封 1 次打开）；管理层未公开 → 下一封写「Ürün Müdürü – Network」（官网 / LinkedIn 找人）
+- 控制人 / 股东：本土股东（未公开）
+- 曾用名：Bimel Elektronik Mamulleri Pazarlama Ltd. Şti.
+- **这意味着什么：**
+  - **硬发现：Bimel 是安卡拉 1984 年起的全国 IT 分销商（19 省、80+ 人、DMO 目录供应商），正在分销 PLANET 交换机 —— 我们 9 封寄 bimel@ 总箱** → 这是 TR 分销 20% 的头部目标：写网络产品经理（不发总箱）：「PLANET 价位之下的第二条管理型 / PoE 线」—— 信里**不提 PLANET / 台湾**，只讲 Marvell 管理型 + 24 口 PoE $170 档 + CE / RoHS + TSE 不需要；DMO 目录要本地法人，自然由 Bimel 承担
+  - 付款：首单 50/50，三单后可谈 30 天（A.Ş. 规模）；DAP 安卡拉走 Saga 百运网线（伊斯坦布尔转）；TR 周四 10–12
+  - 复查：kariyer.net 招聘（扩张信号）半年一次；trademo 进口国别年看一次
+- 备注：研究档 legal_name 已有 A.Ş.；补成立 / 人数 / 品牌线；KP 无。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -147,8 +163,10 @@ updated: 2026-10-27
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | Bimel Elektronik Mamulleri Pazarlama A.Ş. |
+| 成立 | 1984-01-27（EMIS）；原 Ltd. Şti. 后转 A.Ş.（第 89 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Ankara（分部 İstanbul ×2 / İzmir / Bursa）, 土耳其 |
-| 其他 | Planet 渠道档案 PB-031（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人 |
+| 人数 | 76–80 人（2026）/ Kompass 100–249；19 省分支；品牌 Assmann / ATEN / Digitus / Lindy / PLANET / Teltonika / Tumtec / Huawei eKit；DMO 目录供应商；进口自台湾 / 德国 / 波兰（第 89 批 官方登记核实 2026-10-27） |
+| 其他 | Planet 渠道档案 PB-031（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人；登记：Ankara Ticaret Sicili（Çankaya）1750038872（Kompass）；信里不提 PLANET / 台湾（第 89 批 官方登记核实 2026-10-27） |
 
 - **业务线**：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）
 

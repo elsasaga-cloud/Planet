@@ -85451,7 +85451,7 @@
 "kp": [
 {
 "name": "Steve Bradley",
-"title": "（表内联系人，电话 916.705.4441）",
+"title": "CEO（2008 起；兼 Sonlight Communications 总裁；前 Comcast 工程总监）= **老板 = 联系人**；**公司在加州 Fair Oaks（美国），用户表国别 CA 实为加州缩写误判 → 按 US 处理（FCC，无 ISED）**（第 89 批 官方登记核实 2026-10-27）",
 "email": "steve.bradley@maxcomcorp.com",
 "phone": "",
 "source": "用户表"
@@ -85461,7 +85461,8 @@
 "title": "Sales Executive",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Sales Executive（Hickory NC）（第 89 批 官方登记核实 2026-10-27）"
 }
 ],
 "grade_override": null,
@@ -85472,8 +85473,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "加拿大",
-"other": "官网 maxcomcorp.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "Fair Oaks, California, USA（非加拿大）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 maxcomcorp.com，语言 en-US，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Maxcom, Inc.（California；7996 California Ave Ste E, Fair Oaks CA 95628；州登记号未取）",
+"founded": "2000-01（官网）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "2 人（RocketReach；外包生产）（第 89 批 官方登记核实 2026-10-27）",
+"size": "微型（光纤传输设备小厂）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光纤传输 / 数字电视设备制造（自有品牌 Maxcom）",
@@ -94770,10 +94775,17 @@
 "kp": [
 {
 "name": "（办公室）",
-"title": "Office",
+"title": "办公室信箱（不再发）（第 89 批 官方登记核实 2026-10-27）",
 "email": "office@dipol.pt",
 "phone": "+351 253 618 579",
 "source": "https://dipol.pt/"
+},
+{
+"name": "Ricardo Manuel da Silva Vieira",
+"role": "推定 sócio-gerente（一人有限公司 = 老板；民防局 SCIE 设备实体登记负责人，证书至 2027-09）→ 下一封写他（第 89 批 官方登记核实 2026-10-27）",
+"email": "ricardo.vieira@skuatechnology.com",
+"phone": "",
+"source": "https://prociv.gov.pt/media/evnd50kk/listagem_773_24-01-2025.pdf"
 }
 ],
 "grade_override": null,
@@ -94784,11 +94796,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Skua Technology Lda（DIPOL Portugal）",
-"founded": "",
-"hq": "Braga, Portugal",
-"size": "中小型批发（集团分支）",
-"other": "DIPOL 集团（波兰）自有品牌配件"
+"legal_name": "SKUA TECHNOLOGY, UNIPESSOAL LDA（NIPC 508525934；CRC Braga；资本 €25,000；CAE 46502；商号 SKUA Tech；DIPOL Ibéria 葡西代理）",
+"founded": "2008-03-28（Registo Comercial 镜像 + 官网）（第 89 批 官方登记核实 2026-10-27）",
+"hq": "Rua da Quintã, Pavilhão 21, Frossos, 4700-023 Braga（第 89 批 官方登记核实 2026-10-27）",
+"size": "小型（安防分销 + B2B 网店）（第 89 批 官方登记核实 2026-10-27）",
+"other": "DIPOL 集团（波兰）自有品牌配件",
+"staff": "小型（一人公司；估 5–15 人；2023–2025 资产负债表已存，付费未取）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "CCTV / 网络 / 电视天线批发"
@@ -142325,8 +142338,8 @@
 ],
 "kp": [
 {
-"name": "Robert",
-"title": "（表内联系人）",
+"name": "Robert Lichtenstein",
+"title": "Owner / President（1982 创立至今，44 年；≈19 人；自有品牌光纤转换器 / 交换机 / SFP 经 Graybar Canada 分销）= **老板 = 联系人**；他问「自产还是 OEM」→ 答 SmartByte 自有工厂 + Saga 渠道，OEM 30% 贴 BSD 标（第 89 批 官方登记核实 2026-10-27）",
 "email": "robert@bsdnetworks.com",
 "phone": "",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -142340,11 +142353,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "BSD Networks（待核）",
-"founded": "",
-"hq": "Canada",
-"size": "小型品牌商",
-"other": "多来源贴牌"
+"legal_name": "BSD International Marketing（商号 BSD Networks；Concord / Woodbridge, Ontario；安省登记号未取 —— Ontario 登记处 JS）",
+"founded": "1982（ZoomInfo / 官网）（第 89 批 官方登记核实 2026-10-27）",
+"hq": "Concord (Vaughan), Ontario（多伦多北）（第 89 批 官方登记核实 2026-10-27）",
+"size": "小型（自有品牌进口商）（第 89 批 官方登记核实 2026-10-27）",
+"other": "多来源贴牌",
+"staff": "≈19 人（ZoomInfo）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光纤网络产品（自有 logo）"
@@ -144329,7 +144343,7 @@
 "kp": [
 {
 "name": "Mustafa（姓待核）",
-"role": "（用户表联系人）",
+"role": "用户表联系人（Bursa Nilüfer；公司 2021 起营业、团队 14 年经验；法定类型 / 股东未取 —— 1 次检索仅命中官网）（第 89 批 官方登记核实 2026-10-27）",
 "email": "mustafa@klasnet.com.tr（用户表）",
 "phone": "+90 546 546 37 43（公司 GSM，公开）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -144346,8 +144360,9 @@
 "legal_name": "Klasnet İletişim ve Güvenlik",
 "founded": "2021（商业运营；团队 14 年经验）",
 "hq": "Üçevler Mah. Dumlupınar Cad. 120 A, Nilüfer / Bursa（+90 224 443 55 27；info@klasnet.com.tr；GSM +90 546 546 37 43）",
-"size": "10+ 人（自述）",
-"other": "1,400+ 项目、700+ 客户（自述）；光纤布线为主业"
+"size": "微型 / 小型（2021 新集成商）（第 89 批 官方登记核实 2026-10-27）",
+"other": "1,400+ 项目、700+ 客户（自述）；光纤布线为主业",
+"staff": "10+ 人（自述）；2021 新店（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光纤/结构化布线与网络工程",
@@ -158157,7 +158172,7 @@
 "kp": [
 {
 "name": "Emrah Başaran",
-"role": "Boss / 业主（用户表 + LinkedIn）",
+"role": "Boss / 业主 + 技师（LinkedIn：25 年电子行业；Gömeç / Balıkesir 一人安防安装店；推定 şahıs）= **老板 = 联系人**（第 89 批 官方登记核实 2026-10-27）",
 "email": "info@basaranelektronik.net（公开）",
 "phone": "+90 542 744 96 95（公开，WhatsApp 已加）",
 "source": "https://tr.linkedin.com/in/emrah-basaran-86859130"
@@ -158173,9 +158188,10 @@
 "company_facts": {
 "legal_name": "Başaran Elektronik ve Güvenlik Sistemleri",
 "founded": "2001",
-"hq": "Mithatpaşa Mh. Hasan Şen Sk. 23/30, Gömeç / Balıkesir（+90 542 744 96 95；info@basaranelektronik.net）",
+"hq": "Mithatpaşa Mh. Hasan Şen Sk. 23/30, Gömeç / Balıkesir（爱琴海 Edremit 湾）（第 89 批 官方登记核实 2026-10-27）",
 "size": "微型（业主 + 数人）",
-"other": "服务 Edremit 海湾（Ayvalık/Burhaniye/Gömeç）；守界：火灾报警主系统不供"
+"other": "服务 Edremit 海湾（Ayvalık/Burhaniye/Gömeç）；守界：火灾报警主系统不供",
+"staff": "微型（1–3 人安装店）；注意同名干扰（Başaran Group 建筑集团 / basaranelektronik.com 2024 新店均非本户）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "CCTV 安装（住宅/商铺）",
@@ -201453,7 +201469,7 @@
 "kp": [
 {
 "name": "S. Coşkun Balkış",
-"role": "（ISAF 名片；负责人推测）",
+"role": "推定创办人 / 业主（foursquare 本店 10+ 次签到「Coşkun B.」；公司 2005 Gaziantep 成立，软件 + IT + 网络 / 光纤工程）—— 未证实（第 89 批 官方登记核实 2026-10-27）",
 "email": "scbalkis@ebatek.com（用户表）",
 "phone": "—（要求用 WhatsApp 联系）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -201469,8 +201485,8 @@
 "company_facts": {
 "legal_name": "Ebatek Bilişim Teknolojileri",
 "founded": "2005",
-"hq": "İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（+90 342 215 13 22；info@ebatek.com）",
-"size": "小型（「genç, güçlü ve dinamik ekip」）",
+"hq": "İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（东南部）（第 89 批 官方登记核实 2026-10-27）",
+"size": "微型 / 小型（估 5–15 人）（第 89 批 官方登记核实 2026-10-27）",
 "other": "软件 + 硬件供应 + MIS 项目（公共机构项目按个案守界）"
 },
 "business_lines": [
@@ -218512,7 +218528,7 @@
 "kp": [
 {
 "name": "Philip Anderson",
-"title": "Chief Executive Officer",
+"title": "推定创办人 / 董事（公司名 And-corp 取自姓氏；自有品牌 Yamasaki IoT）= **老板 = 联系人**（ASIC 付费未取）（第 89 批 官方登记核实 2026-10-27）",
 "email": "sales@andcorp.com.au",
 "phone": "",
 "source": "用户表"
@@ -218533,8 +218549,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 andcorp.com.au，语言 ?，快照状态 ok；角色判定来源：用户表"
+"hq": "Wetherill Park NSW 2176（悉尼西）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 andcorp.com.au，语言 ?，快照状态 ok；角色判定来源：用户表",
+"legal_name": "ANDCORP ENTERPRISES PTY. LTD.（ABN 93 610 329 934；NSW 2176 Wetherill Park；品牌 Yamasaki IoT）",
+"founded": "≈2016（ACN 610xxx 段）（第 89 批 官方登记核实 2026-10-27）",
+"size": "小型（进口分销 + 自有品牌）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "网络 / 光纤配件（自有品牌 Yamasaki；Utepo 工业 FS）"
@@ -220033,7 +220052,7 @@
 "kp": [
 {
 "name": "Robert Nathan",
-"title": "Director",
+"title": "推定董事 / 业主（公司上有 CLOUDTRONICS HOLDINGS PTY LTD 控股壳 = 老板双层结构；ASIC 董事付费未取）（第 89 批 官方登记核实 2026-10-27）",
 "email": "rnathan@cloudtronics.com.au",
 "phone": "",
 "source": "用户表"
@@ -220047,8 +220066,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 cloudtronics.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表"
+"hq": "Brookvale NSW 2100（悉尼北滩）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 cloudtronics.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表",
+"legal_name": "CLOUDTRONICS PTY LTD（ABN 46 603 072 000；控股 CLOUDTRONICS HOLDINGS PTY LTD ABN 89 692 459 537；NSW 2100 Brookvale；另有印尼 .co.id 支持信箱）",
+"founded": "≈2014–2015（ACN 603xxx 段）（第 89 批 官方登记核实 2026-10-27）",
+"size": "小型（IT / 网络集成 + 印尼分部）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "兼容光模块 / 网络设备 / 定制 IoT 电子（自有品牌 Cloudtronics）"
@@ -222061,7 +222083,8 @@
 "title": "VP Purchasing",
 "email": "sales@fiberdyne.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "VP Purchasing（2001 起）/ VP Logistics（2008 起）= **采购拍板人本人** —— 制造商采购要的是配套 / 贴牌，不是价表（第 89 批 官方登记核实 2026-10-27）"
 },
 {
 "name": "Jeremy Nulty",
@@ -222075,7 +222098,8 @@
 "title": "（职务待核）",
 "email": "peter@fiberdyne.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Founder / Chairman（1992 创立；Polus 家族所有；CEO 为 A. Peter Polus III）（第 89 批 官方登记核实 2026-10-27）"
 }
 ],
 "grade_override": null,
@@ -222086,8 +222110,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 fiberdyne.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+"hq": "Frankfort, New York（Utica 东）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 fiberdyne.com，语言 ?，快照状态 http_error；角色判定来源：用户表",
+"legal_name": "Fiberdyne Labs, Inc.（NY S-Corp；SAM UEI L689L2J632M7，登记 2001-10-04、有效至 2026-10-31；127 Business Park Dr, Frankfort NY 13340）",
+"founded": "1992（Herkimer NY；SAM 开业日 1994-08-23）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "51–200 人（LinkedIn / ZoomInfo）；光纤产品制造商（CATV / 电信）；SAM 登记 = 政府项目（TAA 限制 → 只走商业线）（第 89 批 官方登记核实 2026-10-27）",
+"size": "中型（家族制造商）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光纤产品 / 交换机（自有品牌 Fiberdyne）"
@@ -228217,10 +228245,17 @@
 "kp": [
 {
 "name": "（销售）",
-"title": "Sales",
+"title": "销售信箱（29 封 4 次打开 0 回）—— 改写老板本人（第 89 批 官方登记核实 2026-10-27）",
 "email": "sales@robofiber.com",
 "phone": "",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Radu Matei",
+"role": "Co-Founder / CEO / Director / 注册代理人（CA SoS 3540849，2013-01-25）= **一人公司老板 = 该写的人**；自有品牌 ROBOFIBER（USPTO 4854935 含以太网交换机）→ OEM 30%（第 89 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.bizprofile.net/ca/alamo/robofiber-inc"
 }
 ],
 "grade_override": null,
@@ -228232,10 +228267,11 @@
 },
 "company_facts": {
 "legal_name": "ROBOfiber, Inc.",
-"founded": "（待核）",
-"hq": "USA",
-"size": "中小型品牌商（光模块）",
-"other": "MC / 交换机线外购贴牌可能"
+"founded": "2013-01-25（California SoS）（第 89 批 官方登记核实 2026-10-27）",
+"hq": "Alamo, California（PMB 信箱地址）（第 89 批 官方登记核实 2026-10-27）",
+"size": "微型（一人公司 + 贴牌电商）（第 89 批 官方登记核实 2026-10-27）",
+"other": "MC / 交换机线外购贴牌可能",
+"staff": "≤10 人（6，Datanyze）；营收估 $1.3–6M 区间（第三方，不采信）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光模块（自产 / 自有品牌）",
@@ -240632,7 +240668,7 @@
 "kp": [
 {
 "name": "Nick Fitzsimmons",
-"title": "General Manager",
+"title": "员工（职务未核）—— 公司 = 1985 年起的光纤 / 工业以太网设备**制造商**（同行 + 轨交 / 国防客户 = 守界）→ 不追（第 89 批 官方登记核实 2026-10-27）",
 "email": "nickf@osd.com.au",
 "phone": "",
 "source": "用户表"
@@ -240646,8 +240682,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 osd.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "Warriewood NSW 2102（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 osd.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "OPTICAL SYSTEMS DESIGN PTY LTD（ABN 83 003 020 504；NSW 2102 Warriewood）",
+"founded": "≈1985（ACN 003 020 504 段；官网自述）（第 89 批 官方登记核实 2026-10-27）",
+"size": "小型 / 中型制造商（同行）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光纤通信 / 工业网络产品（自有品牌 OSD）"
@@ -250305,7 +250344,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Fiammetta Cometto",
+"role": "Presidenta del Consejo de Administración（董事会 7 人；意大利姓 → 推定意资控股）—— 不直接写；2026-10-21 BORME 合并吸收 → 2027-01 后写产品管理 / compras（第 89 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.einforma.com/informacion-empresa/golmar-sistemas-comunicacion"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -250314,8 +250361,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "西班牙",
-"other": "官网 golmar.es，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+"hq": "C/ Silici 13-25, Pol. Ind. Famades, 08940 Cornellà de Llobregat (Barcelona)（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 golmar.es，语言 en-GB，快照状态 ok；角色判定来源：用户表",
+"legal_name": "GOLMAR SISTEMAS DE COMUNICACIÓN, S.A.（CIF A08370314；RM Barcelona tomo 24.484 folio 192；资本 €1,239,400.23；曾用名 Sistemas de Comunicación Golmar SA）",
+"founded": "1975-04-09（Registro Mercantil 镜像）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "100–112 人（2022–2026）；销售 €6–30M 区间；CNAE 2640；审计 Gabinete Audiwork；**BORME 2026-10-21 Fusión y absorción**（第 89 批 官方登记核实 2026-10-27）",
+"size": "中型（对讲 / 视频门禁制造商）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "楼宇可视对讲 / 安防系统制造（自有品牌 Golmar）"
@@ -251936,8 +251987,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 murrelektronik.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+"hq": "Oppenweiler（斯图加特北）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 murrelektronik.de，语言 de，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "Murrelektronik GmbH（Amtsgericht Stuttgart HRB 270279；LEI 529900J3OOQZY4CQNQ96；Grabenstr. 29, 71570 Oppenweiler）",
+"founded": "1975-09-24（Handelsregister）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "大型自动化元件制造商（Hafner 家族控股；GF Jürgen Erkert + Ulrich Viethen；≥10 国子公司；自有工业交换机线；Stammkapital €5M）（第 89 批 官方登记核实 2026-10-27）",
+"size": "大型（同行上游 → 不追；收件 shop@ 为网店客服箱）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "分布式自动化（I/O、连接、电源）",
@@ -263210,14 +263265,14 @@
 "kp": [
 {
 "name": "Serkan Ertürk",
-"title": "Project Manager",
+"title": "Project Manager（2022 起；前 CTech）—— 公司 = 400 人国防电子制造商，自研军民两用交换机 / 路由器（守界 + 同行）→ **不追**（第 89 批 官方登记核实 2026-10-27）",
 "email": "info@pavotek.com.tr",
 "phone": "",
 "source": "用户表"
 },
 {
 "name": "Hilal Kırlıoğlu",
-"title": "（职务待核）",
+"title": "职能未核（国防电子厂员工）—— 不追（第 89 批 官方登记核实 2026-10-27）",
 "email": "hilal.kirlioglu@pavotek.com.tr",
 "phone": "",
 "source": "用户表"
@@ -263231,8 +263286,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 pavotek.com.tr，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "Pendik / İstanbul（Teknopark）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 pavotek.com.tr，语言 en，快照状态 ok；角色判定来源：用户表",
+"legal_name": "PAVO TASARIM ÜRETİM ELEKTRONİK TİC. A.Ş.（Pavotek；Teknopark İstanbul Pendik + Orhanlı 工厂；董事长 Dr. Alper Özbilen）",
+"founded": "2003（Teknopark İstanbul）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "300（2021）→ 400+（官网）；LinkedIn 201–500（第 89 批 官方登记核实 2026-10-27）",
+"size": "中型 / 大型（国防电子制造商 = 守界 + 同行）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电子 / 嵌入式系统 / 通信网络 / 电力电子 / IoT 方案"
@@ -278999,7 +279058,7 @@
 "kp": [
 {
 "name": "Harry Courtice",
-"title": "Engineering Manager",
+"title": "职务未核；公司 = 布里斯班工业无线制造商 ELPRO（2019 新法人）→ 问「网络配套是否本地选型」（第 89 批 官方登记核实 2026-10-27）",
 "email": "harry.courtice@elpro.com.au",
 "phone": "",
 "source": "用户表"
@@ -279020,8 +279079,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 elprotech.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "Nundah QLD 4014（布里斯班）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 elprotech.com，语言 en-US，快照状态 ok；角色判定来源：用户表",
+"legal_name": "ELPRO TECHNOLOGIES PTY LTD（ABN 98 634 237 933；QLD 4014 Nundah）",
+"founded": "≈2019（ACN 634xxx 段；ELPRO 品牌 1990 年代起，2019 实体 = 重组后新设，待核）（第 89 批 官方登记核实 2026-10-27）",
+"size": "小型 / 中型（工业无线制造商）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业无线通信 / I/O（自有品牌 ELPRO）",
@@ -296543,7 +296605,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Dimitrios Koutrouvis",
+"role": "Geschäftsführer（2024-10-08 起；与 Amphenol 高管 D'Amico / Lampo 同日任命 = 公司 2024-10 起属美国 Amphenol 集团）= 研究档收件人 dimitrios.koutrouvis@luetze.com 本人 → **联系人 = 德国总经理**，但采购已集团化 → 只写一封问「网络 / 连接线是否仍本地选型」（第 89 批 官方登记核实 2026-10-27）",
+"email": "dimitrios.koutrouvis@luetze.com",
+"phone": "",
+"source": "https://www.northdata.de/Friedrich%20L%C3%BCtze%20GmbH,%20Weinstadt"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -296552,8 +296622,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 luetze.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+"hq": "Weinstadt（斯图加特东）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 luetze.com，语言 ?，快照状态 http_error；角色判定来源：用户表",
+"legal_name": "Friedrich Lütze GmbH（Amtsgericht Stuttgart HRB 740258；LEI 529900QY4FK0M7B3P846；Bruckwiesenstr. 17-19, 71384 Weinstadt；与 Luetze International GmbH 利润转移协议；2024-10 起 Amphenol 集团）",
+"founded": "2012-02-07（现法人；创业 1958）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "2024：Umsatz €74.8M、Bilanzsumme €38.4M；GF 3 人 + Prokura 3 人；商标 LÜTZE CABLEFIX / LIMO-Box / PANELCON / LUNA / LUCI RAIL（第 89 批 官方登记核实 2026-10-27）",
+"size": "中型（€75M；Amphenol 子公司）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业电缆 / 自动化（LÜTZE 集团）",
@@ -298093,14 +298167,14 @@
 "kp": [
 {
 "name": "Mary Cartisano",
-"title": "Supply Manager",
+"title": "销售信箱联系人（Ness 是**制造商**不是经销商 → sales@ 不会买交换机）（第 89 批 官方登记核实 2026-10-27）",
 "email": "sales@ness.com.au",
 "phone": "",
 "source": "用户表"
 },
 {
 "name": "Gerard Mace",
-"title": "Project Manager",
+"title": "员工（职务未核；ABR 无董事信息）—— 若为产品经理则是对的人（第 89 批 官方登记核实 2026-10-27）",
 "email": "grmace@ness.com.au",
 "phone": "",
 "source": "用户表"
@@ -298114,8 +298188,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 ness.com.au，语言 ?，快照状态 unreachable；角色判定来源：用户表"
+"hq": "Seven Hills NSW 2147（悉尼西）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 ness.com.au，语言 ?，快照状态 unreachable；角色判定来源：用户表",
+"legal_name": "NESS CORPORATION PTY LIMITED（ABN 28 069 984 372；ABN 生效 2000-04-13、GST 2000-07-01；NSW 2147 Seven Hills；商号 Ness Security Products / Nesstronics / Valet / Protect Direct）",
+"founded": "≈1995（ACN 069 984 372 段）；ABN 2000-04-13（第 89 批 官方登记核实 2026-10-27）",
+"staff": "澳洲报警 / 对讲 / 智能家居**制造商**（自有品牌，百人级）（第 89 批 官方登记核实 2026-10-27）",
+"size": "中型（制造商）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "安防产品制造 / 分销（自有品牌 Ness，澳大利亚）"
@@ -318665,7 +318743,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Michal Vodička",
+"role": "Předseda představenstva（董事长；创始人 Karel Vodička 之子；所有人 MV elektro 100%）—— 不直接写；下一封写采购部「datové sítě」品类经理，不发 nabidky@（第 89 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://or.justice.cz/ias/ui/rejstrik-$firma?ico=26279690"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -318674,10 +318760,12 @@
 "level": "B 级加厚 v1（名录核对）"
 },
 "company_facts": {
-"legal_name": "ELKOV elektro a.s.",
+"legal_name": "ELKOV elektro a.s.（IČO 26279690；DIČ CZ26279690；KS Brno B 3718；LEI 31570010000000108638；基本资本 33,000,000 Kč）",
 "hq": "Kšírova 701, Brno-Horní Heršpice, Czechia",
 "size": "约 700 人；集团营业额 ≈ 55 亿 CZK（2024/25）",
-"other": "32+ 分店；部门 ELKOV lighting / servis / energy；光伏、EV 充电、智慧城市"
+"other": "32+ 分店；部门 ELKOV lighting / servis / energy；光伏、EV 充电、智慧城市",
+"founded": "2002-03-04（Obchodní rejstřík）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "500–999（RES）/ ≈700（2025）；集团营收 55 亿 Kč（≈ €2.2 亿）；33 家分店；董事会 6 人（Vodička / Mareš / Škrhák / Havlíček / Kobylková / Sedláčková）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电气安装材料与灯具批发（电缆、配电、保护器件、仪表）",
@@ -341749,7 +341837,15 @@
 "date": "2026-09-22"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Michael Charles White",
+"role": "Director（2005-04-14 创立至今；1954 生 = 72 岁）+ 配偶 June White 任 Secretary = **夫妻店老板 = 联系人 Mike**；研究档原无具名 KP（第 89 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://find-and-update.company-information.service.gov.uk/company/05424607/officers"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -341758,11 +341854,12 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-043，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "Saratota Ltd",
-"founded": "",
+"legal_name": "SARATOTA LIMITED（Companies House 05424607；2005-04-14；Welwyn Garden City, Hertfordshire；SIC 82990；账目下期 2027-01-31）",
+"founded": "2005-04-14（Companies House）（第 89 批 官方登记核实 2026-10-27）",
 "hq": "Welwyn Garden City（Hertfordshire）, 英国",
-"size": "",
-"other": "Planet 渠道档案 PB-043（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：公用事业/政府客户的认证门槛（UKCA 可；UL 不涉及）；年台数；是否已直接进口（自述 import）"
+"size": "微型（夫妻店）（第 89 批 官方登记核实 2026-10-27）",
+"other": "Planet 渠道档案 PB-043（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：公用事业/政府客户的认证门槛（UKCA 可；UL 不涉及）；年台数；是否已直接进口（自述 import）",
+"staff": "微型（夫妻两人；micro-entity 账目）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "进口分销/厂商代表（2005 年起；「represents Manufacturers … import and distribute」：Planet / LAVA / Patton / Flexdsl / Loop / Netsys；2–10 人；兼 planet-direct.co.uk、saratota-direct.co.uk 专站）"
@@ -342089,10 +342186,17 @@
 "kp": [
 {
 "name": "Jakub Drbohlav",
-"title": "（职务待核）",
+"title": "产品 / 销售经办（12 封 3 次打开 0 回）—— 不再写经办（第 89 批 官方登记核实 2026-10-27）",
 "email": "p.simek@schrack.cz",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Ing. Marek Zacios",
+"role": "Jednatel + ředitel（1998-09-22 起；**2005 起集团 Schrack Technik GmbH 共同所有人**）= 拍板人 → 下一封写他：Schrack 贴牌 PoE 第二货源（选型在维也纳产品管理，他能转样）（第 89 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.podnikatel.cz/rejstrik/schrack-technik-spol-s-r-o-15039137/"
 }
 ],
 "grade_override": null,
@@ -342103,8 +342207,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "捷克",
-"other": "官网 schrack.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
+"hq": "Dolnoměcholupská 1339/2, Praha 10 – Hostivař（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 schrack.cz，语言 cs，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Schrack Technik spol. s r.o.（IČO 15039137；DIČ CZ15039137；MS Praha C 5437；基本资本 16,000,000 Kč；母公司 Schrack Technik GmbH 维也纳）",
+"founded": "1991-08-27（Obchodní rejstřík）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "中型（捷克子公司；jednatelé Zacios / Chroust / Gletthofer；自有品牌网络产品）（第 89 批 官方登记核实 2026-10-27）",
+"size": "中型（集团大型）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电气安装材料制造与分销（集团）",
@@ -347116,14 +347224,14 @@
 "kp": [
 {
 "name": "Yair Turjeman",
-"title": "Chief Executive Officer",
+"title": "Manager / 经营者（ח.פ. 515461101 公司 2016-05-30 成立；ORing 以色列授权分销；ISO 9001 + 国防部供应商证 11005959）= **老板 = 联系人**；**守界：军工项目 PASS，只报商用 24 口**（第 89 批 官方登记核实 2026-10-27）",
 "email": "yair@aironix.co.il",
 "phone": "WhatsApp +972 54 831 8384（2026-08-15 他自己写「WhatsApp +972548318384」）",
 "source": "用户表"
 },
 {
 "name": "Eytan Birenzwige",
-"title": "Vice President Operations",
+"title": "总信箱联系人（Eytan Birenzwige；职务未核）（第 89 批 官方登记核实 2026-10-27）",
 "email": "info@aironix.co.il",
 "phone": "",
 "source": "用户表"
@@ -347137,8 +347245,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "以色列",
-"other": "官网 aironix.co.il，语言 ?，快照状态 ok；角色判定来源：待核"
+"hq": "Kadima-Zoran（特拉维夫北）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 aironix.co.il，语言 ?，快照状态 ok；角色判定来源：待核",
+"legal_name": "Aironix Systems Ltd（ח.פ. 515461101；2016-05-30；Kadima；私人有限公司；最近年报 2019）",
+"founded": "2016-05-30（以色列公司登记处镜像）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "微型（经营者 Yair + 销售 Shiri Amzaleg；工业网络分销）（第 89 批 官方登记核实 2026-10-27）",
+"size": "微型（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业 / 无线网络产品分销（以色列）"
@@ -364693,7 +364805,7 @@
 },
 "company_facts": {
 "hq": "英国",
-"other": "官网 comtrol.co.uk，语言 en-GB，快照状态 ok；角色判定来源：官网文案",
+"other": "官网 comtrol.co.uk，语言 en-GB，快照状态 ok；角色判定来源：官网文案；补核（2026-10-27）：SIC 46510 计算机 / 外设 / 软件批发；账目至 2025-06-30 已报、下期 2027-03-31；CS 2025-10-20；PSC = Port Group Limited（11393630）≥75%（2020-02-03 起；此前 Elvidge / Jones / Law 各 25–50%，2016–2020）；Port Group Limited 本身 2018-06-01 成立于 Hove（168 Church Road），SIC 41100 建筑开发，曾用名 NLW HOLDINGS LIMITED（至 2019-02-20）→ 实控 = Law 家族控股壳，Tim Jones 为经营董事（第 89 批 官方登记核实 2026-10-27）",
 "legal_name": "COMTROL UK LIMITED（Companies House 09041682；2014-05-15；登记地址 168 Church Road, Hove BN3 2DL = 代理地址；同名旧体系 COMTROL GMBH 英国分支 BR008786 Bicester / FC026768 Zug 均已 Closed；SIC / 账目 / PSC 下轮补）",
 "founded": "2014-05-15（现法人；「30+ 年」承自旧 Comtrol 英国分支）（第 88 批 官方登记核实 2026-10-27）",
 "staff": "小型（9 名董事进出，现 2 名在任；人数 / 账目未取）（第 88 批 官方登记核实 2026-10-27）"
@@ -370274,7 +370386,7 @@
 "kp": [
 {
 "name": "Eric Bodley",
-"title": "CEO",
+"title": "Founder & President（2014 创立、2015 启动；前 PPC / Belden / Perfect Path 代理人）= **老板 = 联系人**；公司 = AV 集成渠道「代理 + 分销」平台，服务 1,500+ 集成商（第 89 批 官方登记核实 2026-10-27）",
 "email": "eric@futurereadysolutions.com",
 "phone": "",
 "source": "用户表"
@@ -370295,8 +370407,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 futurereadysolutions.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "24551 Production Circle Ste 3, Bonita Springs FL 34135（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 futurereadysolutions.com，语言 en-US，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "Future Ready Solutions（Bonita Springs, Florida；法定后缀未取 —— Sunbiz ✗）",
+"founded": "2014（CB Insights）/ 2015 初启动（官网）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "小型（估 5–15 人）；CEDIA / InfoComm / ProSource / Azione 会员（第 89 批 官方登记核实 2026-10-27）",
+"size": "小型（渠道代理 + 分销）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "集成商连接产品分销（光纤 / 网络 / AV）"
@@ -383653,7 +383769,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Valdemaras Narkovičius",
+"role": "Direktorius / Generalinis direktorius（2019-06-21 起）= 拍板人；研究档原无具名 KP（24 封全寄 info@）→ 下一封写他：viSar 贴牌 PoE（OEM 30%）+ 分销 20% 并列（第 89 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://rekvizitai.vz.lt/en/company/sareme/manager/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -383662,8 +383786,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "立陶宛",
-"other": "官网 visarcctv.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"hq": "Vilnius（Vytenio g. 46）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 visarcctv.com，语言 ?，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "UAB „SAREME“（įmonės kodas 110629811；PVM LT106298113；1994-06-16；股本 €630,000；Vytenio g. 46, LT-03229 Vilnius + Kaunas 分部；品牌 viSar）",
+"founded": "1994-06-16（Registrų centras 镜像）（第 89 批 官方登记核实 2026-10-27）",
+"staff": "22–23 人（SODRA 2026-10）；**2025 营收 €9.22M；2023 营收 €10.82M / 净利 €349k**；平均工资 €3,778（第 89 批 官方登记核实 2026-10-27）",
+"size": "小型（€9–11M 安防分销商，立陶宛民营市场领先）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "安防设备（自有 VSS/VSI 品牌：PoE 交换机 / 对讲）"
@@ -408411,10 +408539,11 @@
 },
 "company_facts": {
 "legal_name": "Bimel Elektronik Mamulleri Pazarlama A.Ş.",
-"founded": "",
+"founded": "1984-01-27（EMIS）；原 Ltd. Şti. 后转 A.Ş.（第 89 批 官方登记核实 2026-10-27）",
 "hq": "Ankara（分部 İstanbul ×2 / İzmir / Bursa）, 土耳其",
-"size": "",
-"other": "Planet 渠道档案 PB-031（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人"
+"size": "中型（全国 IT 分销商）（第 89 批 官方登记核实 2026-10-27）",
+"other": "Planet 渠道档案 PB-031（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人；登记：Ankara Ticaret Sicili（Çankaya）1750038872（Kompass）；信里不提 PLANET / 台湾（第 89 批 官方登记核实 2026-10-27）",
+"staff": "76–80 人（2026）/ Kompass 100–249；19 省分支；品牌 Assmann / ATEN / Digitus / Lindy / PLANET / Teltonika / Tumtec / Huawei eKit；DMO 目录供应商；进口自台湾 / 德国 / 波兰（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）"
@@ -420925,11 +421054,18 @@
 ],
 "kp": [
 {
-"name": "Сергей (Sergey)",
-"title": "закупки（采购）",
+"name": "Алифанов Сергей Игоревич",
+"title": "Руководитель отдела продаж（销售部主管，兼采购信箱 zakupki@）= 经办；老板 = Директор Завгородний（dir@）→ 俄语信写他、抄 dir@（第 89 批 官方登记核实 2026-10-27）",
 "email": "zakupki@dozor23.ru",
 "phone": "+7 960 472 6772",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Завгородний Василий Васильевич",
+"role": "Директор + ИП（零售网主体 ИП Завгородний В. В.；集团另含 ООО «ПожЮг-Сервис» / ООО «БСК Дозор»）= 老板（第 89 批 官方登记核实 2026-10-27）",
+"email": "dir@dozor23.ru",
+"phone": "",
+"source": "https://anapa.dozor23.ru/company/staff/"
 }
 ],
 "grade_override": null,
@@ -420940,11 +421076,12 @@
 "level": "B 级加厚 v1（官网快照核对）"
 },
 "company_facts": {
-"legal_name": "（待核，ИП/ООО «Дозор23»）",
+"legal_name": "ГК «Дозор23» = ИП Завгородний Василий Васильевич（零售网）+ ООО «ПожЮг-Сервис» + ООО «БСК Дозор»（ИНН 未取 —— 首张形式发票时问 реквизиты）",
 "founded": "",
-"hq": "Анапа, Краснодарский край, Россия",
+"hq": "350000 Краснодар, ул. Кропоткина 50, оф. 303А（总部）；Анапа ул. Чехова 81（第 89 批 官方登记核实 2026-10-27）",
 "size": "小型安装商 + 网店",
-"other": ""
+"other": "",
+"staff": "小型（Краснодар / Анапа / Славянск-на-Кубани / Темрюк 4 城门店 + 安装队；估 15–30 人）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "视频监控 / 报警 / 门禁安装",
@@ -438197,7 +438334,8 @@
 "title": "Founder",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "职务未核；Dorani 为墨尔本自有品牌对讲 / 门禁进口商（ABR 以 Trading Name 登记 → 老板用信托 / 旧壳经营）→ 下一封写他本人（第 89 批 官方登记核实 2026-10-27）"
 }
 ],
 "grade_override": null,
@@ -438208,8 +438346,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 dorani.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表"
+"hq": "Richmond VIC 3121（墨尔本）（第 89 批 官方登记核实 2026-10-27）",
+"other": "官网 dorani.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表",
+"legal_name": "DORANI PTY LTD（ABR 名称类型 Trading Name，ABN 57 909 759 767；VIC 3121 Richmond；实体名待 View 页）",
+"size": "小型（自有品牌进口商）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "安防系统安装（澳洲）",
@@ -450008,10 +450148,24 @@
 "kp": [
 {
 "name": "Kalai Kalaichelvan（Dr.）",
-"role": "Founder, President & CEO（公开）",
+"role": "Founder, President & CEO（联邦公司 3921174，2001-07-16；母公司 PomeGran Inc. 含 3 家 ISP）—— 不直接写，抄送（第 89 批 官方登记核实 2026-10-27）",
 "email": "—（未公开）",
 "phone": "+1 613-271-4400（公司）",
 "source": "https://www.crunchbase.com/organization/eion-wireless"
+},
+{
+"name": "Saf Assadi",
+"role": "CTO = 无线基站 / 工业 PoE 选型人 → 写他（STI 工业系列 -40℃）（第 89 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.federalcorporation.ca/corporation/3921174"
+},
+{
+"name": "Manny Mistry",
+"role": "VP Sales = ISP 接入侧 24 口管理型选型人 → 写他；研究档原收件 harshul@ 非决策人（第 89 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.federalcorporation.ca/corporation/3921174"
 }
 ],
 "grade_override": null,
@@ -450022,11 +450176,12 @@
 "level": "B 级加厚 v1（官网 + 名录核对）"
 },
 "company_facts": {
-"legal_name": "EION Inc.（EION Networks, Inc.；EION Wireless 为事业部）",
-"founded": "2001",
+"legal_name": "EION Inc.（Corporations Canada 3921174；BN 870048014；2001-07-16；260 Terence Matthews Cres, Ottawa ON；母公司 PomeGran Inc.，旗下 ISP CochraneTel / Canquest / Digicom）",
+"founded": "2001-07-16（Corporations Canada）（第 89 批 官方登记核实 2026-10-27）",
 "hq": "150 Katimavik Rd, Ste 304, Kanata (Ottawa), ON K2L 2N2, Canada（+1 613-271-4400）；Calgary 分部",
-"size": "51–200（LinkedIn）/ 47 人、$20.9M（Datanyze）",
-"other": "Deloitte 50 强多次；WiMAX→LTE；行业：企业、政府、油气、安防、国防（守界：国防线不供）"
+"size": "小型 / 中型（无线设备商 + ISP 集团）（第 89 批 官方登记核实 2026-10-27）",
+"other": "Deloitte 50 强多次；WiMAX→LTE；行业：企业、政府、油气、安防、国防（守界：国防线不供）",
+"staff": "≈40 人（2009）；LinkedIn 51–200；高管 CEO Kalaichelvan / CTO Assadi / VP Eng Sumit Kumar / VP Sales Mistry（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "4G LTE / 宽带无线接入系统（基站、CPE）",
@@ -457410,7 +457565,8 @@
 "legal_name": "Wave Electronics Limited（HE 19231，1983-03-15）",
 "hq": "2 Paphou Street, Block A1, Latsia 2236, Nicosia, Cyprus（+357 22 573 057；wavesecu@spidernet.com.cy）",
 "size": "1–24（D&B）",
-"other": "1,100+ 项目；机场/医院/银行参考；Key principal Charalampos Charalampous"
+"other": "1,100+ 项目；机场/医院/银行参考；Key principal Charalampos Charalampous；底数止于 HE 号 + D&B 主事人 Charalampous；分销 20%；写 p.christos 抄 Charalampous（第 89 批 官方登记核实 2026-10-27）",
+"founded": "1983-03-15（HE 19231；塞浦路斯登记处 JS 不可抓，批 82 已关闭 → 本批仅建档）（第 89 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电子安防系统集成（CCTV、报警、门禁）",

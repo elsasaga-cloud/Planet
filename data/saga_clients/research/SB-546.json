@@ -28,14 +28,14 @@
  "kp": [
   {
    "name": "Mary Cartisano",
-   "title": "Supply Manager",
+   "title": "销售信箱联系人（Ness 是**制造商**不是经销商 → sales@ 不会买交换机）（第 89 批 官方登记核实 2026-10-27）",
    "email": "sales@ness.com.au",
    "phone": "",
    "source": "用户表"
   },
   {
    "name": "Gerard Mace",
-   "title": "Project Manager",
+   "title": "员工（职务未核；ABR 无董事信息）—— 若为产品经理则是对的人（第 89 批 官方登记核实 2026-10-27）",
    "email": "grmace@ness.com.au",
    "phone": "",
    "source": "用户表"
@@ -49,8 +49,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 ness.com.au，语言 ?，快照状态 unreachable；角色判定来源：用户表"
+  "hq": "Seven Hills NSW 2147（悉尼西）（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 ness.com.au，语言 ?，快照状态 unreachable；角色判定来源：用户表",
+  "legal_name": "NESS CORPORATION PTY LIMITED（ABN 28 069 984 372；ABN 生效 2000-04-13、GST 2000-07-01；NSW 2147 Seven Hills；商号 Ness Security Products / Nesstronics / Valet / Protect Direct）",
+  "founded": "≈1995（ACN 069 984 372 段）；ABN 2000-04-13（第 89 批 官方登记核实 2026-10-27）",
+  "staff": "澳洲报警 / 对讲 / 智能家居**制造商**（自有品牌，百人级）（第 89 批 官方登记核实 2026-10-27）",
+  "size": "中型（制造商）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "安防产品制造 / 分销（自有品牌 Ness，澳大利亚）"

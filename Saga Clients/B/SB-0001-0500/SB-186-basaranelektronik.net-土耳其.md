@@ -79,6 +79,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 89 批（TR · 1 次检索：LinkedIn Emrah Başaran（25 年电子行业；Electronic Technician；Gömeç）+ 官网 bize-ulaşın（地址 / 电话与用户表 0542 744 96 95 一致）+ firmaekle 名录；**注意同名干扰**：Başaran Group（İstanbul / Diyarbakır 建筑集团）、basaranelektronik.com（2024 新店，Emre）均非本户，2026-10-27 查；https://www.basaranelektronik.net/bize-ulasin）：**
+
+- 法定名 / 登记号：Başaran Elektronik（Gömeç / Balıkesir；法定类型未取，推定 şahıs） · 未取（小店；Ticaret Sicil 未命中） · 状态 **Aktif（官网 2017 起有内容）** · 成立 ≈2017 前（官网服务区页 2017-10；Emrah 自述 25 年行业经验） · 推定 şahıs işletmesi（个体）
+- 行业码 / 经营范围：安防摄像机 + 报警 + 火警系统安装（服务区：Edremit 海湾 / Balıkesir 省）
+- 注册地址：Mithatpaşa Mah. Hasan Şen Sk. 23/30（另 Atatürk Cad. No 32），Gömeç / Balıkesir
+- 规模档：微型（1–3 人安装店）
+- 账目：—；—
+- 高管：Emrah BAŞARAN — 业主 / 技师（LinkedIn；店名即姓氏）= 研究档 KP → **老板 = 联系人**
+- 控制人 / 股东：Emrah Başaran（个体）
+- **这意味着什么：**
+  - **老板 = 联系人：Emrah Başaran 是爱琴海小镇 Gömeç 的一人安防安装店（25 年技师）；展会拿了彩页没说要什么** → 量级 = 每单 1–5 台 4/8 口 PoE 配摄像机（STI-054GP / STC-028GP），走 WhatsApp 土耳其语一页价；100% 预付；可建议他从伊斯坦布尔经销商（我们的 TR 分销户）拿货更划算 —— 这类户的复利在「养成分销商的下线」而非直供
+  - 不再检索；法定名随首张发票
+- 备注：研究档 legal_name 已有；KP 角色回填。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,7 +124,7 @@ updated: 2026-10-27
 - **【用户表】ISAF：拿彩页，未说产品**
   > 拿了彩页， 没说要什么产品 / 0542 744 9695 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Emrah Başaran（Boss / 业主（用户表 + LinkedIn））info@basaranelektronik.net（公开） +90 542 744 96 95（公开，WhatsApp 已加）〔https://tr.linkedin.com/in/emrah-basaran-86859130〕
+- **KP**：Emrah Başaran（Boss / 业主 + 技师（LinkedIn：25 年电子行业；Gömeç / Balıkesir 一人安防安装店；推定 şahıs）= **老板 = 联系人**（第 89 批 官方登记核实 2026-10-27））info@basaranelektronik.net（公开） +90 542 744 96 95（公开，WhatsApp 已加）〔https://tr.linkedin.com/in/emrah-basaran-86859130〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
@@ -119,7 +133,8 @@ updated: 2026-10-27
 |---|---|
 | 法定名称 | Başaran Elektronik ve Güvenlik Sistemleri |
 | 成立 | 2001 |
-| 总部/地址 | Mithatpaşa Mh. Hasan Şen Sk. 23/30, Gömeç / Balıkesir（+90 542 744 96 95；info@basaranelektronik.net） |
+| 总部/地址 | Mithatpaşa Mh. Hasan Şen Sk. 23/30, Gömeç / Balıkesir（爱琴海 Edremit 湾）（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 微型（1–3 人安装店）；注意同名干扰（Başaran Group 建筑集团 / basaranelektronik.com 2024 新店均非本户）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 服务 Edremit 海湾（Ayvalık/Burhaniye/Gömeç）；守界：火灾报警主系统不供 |
 
 - **业务线**：CCTV 安装（住宅/商铺）；防盗/火灾报警、可视对讲
@@ -180,7 +195,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Emrah Başaran | Boss / 业主（用户表 + LinkedIn） | info@basaranelektronik.net（公开） / +90 542 744 96 95（公开，WhatsApp 已加） | 调研核实（公开页） | https://tr.linkedin.com/in/emrah-basaran-86859130 |
+| Emrah Başaran | Boss / 业主 + 技师（LinkedIn：25 年电子行业；Gömeç / Balıkesir 一人安防安装店；推定 şahıs）= **老板 = 联系人**（第 89 批 官方登记核实 2026-10-27） | info@basaranelektronik.net（公开） / +90 542 744 96 95（公开，WhatsApp 已加） | 调研核实（公开页） | https://tr.linkedin.com/in/emrah-basaran-86859130 |
 | Emrah Basaran | 老板 | info@basaranelektronik.net / +02663571208 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

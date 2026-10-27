@@ -43,7 +43,7 @@
  "kp": [
   {
    "name": "Steve Bradley",
-   "title": "（表内联系人，电话 916.705.4441）",
+   "title": "CEO（2008 起；兼 Sonlight Communications 总裁；前 Comcast 工程总监）= **老板 = 联系人**；**公司在加州 Fair Oaks（美国），用户表国别 CA 实为加州缩写误判 → 按 US 处理（FCC，无 ISED）**（第 89 批 官方登记核实 2026-10-27）",
    "email": "steve.bradley@maxcomcorp.com",
    "phone": "",
    "source": "用户表"
@@ -53,7 +53,8 @@
    "title": "Sales Executive",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Sales Executive（Hickory NC）（第 89 批 官方登记核实 2026-10-27）"
   }
  ],
  "grade_override": null,
@@ -64,8 +65,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 maxcomcorp.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "Fair Oaks, California, USA（非加拿大）（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 maxcomcorp.com，语言 en-US，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Maxcom, Inc.（California；7996 California Ave Ste E, Fair Oaks CA 95628；州登记号未取）",
+  "founded": "2000-01（官网）（第 89 批 官方登记核实 2026-10-27）",
+  "staff": "2 人（RocketReach；外包生产）（第 89 批 官方登记核实 2026-10-27）",
+  "size": "微型（光纤传输设备小厂）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "光纤传输 / 数字电视设备制造（自有品牌 Maxcom）",

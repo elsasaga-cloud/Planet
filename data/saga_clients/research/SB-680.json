@@ -40,10 +40,17 @@
  "kp": [
   {
    "name": "Jakub Drbohlav",
-   "title": "（职务待核）",
+   "title": "产品 / 销售经办（12 封 3 次打开 0 回）—— 不再写经办（第 89 批 官方登记核实 2026-10-27）",
    "email": "p.simek@schrack.cz",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "Ing. Marek Zacios",
+   "role": "Jednatel + ředitel（1998-09-22 起；**2005 起集团 Schrack Technik GmbH 共同所有人**）= 拍板人 → 下一封写他：Schrack 贴牌 PoE 第二货源（选型在维也纳产品管理，他能转样）（第 89 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.podnikatel.cz/rejstrik/schrack-technik-spol-s-r-o-15039137/"
   }
  ],
  "grade_override": null,
@@ -54,8 +61,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "捷克",
-  "other": "官网 schrack.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
+  "hq": "Dolnoměcholupská 1339/2, Praha 10 – Hostivař（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 schrack.cz，语言 cs，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Schrack Technik spol. s r.o.（IČO 15039137；DIČ CZ15039137；MS Praha C 5437；基本资本 16,000,000 Kč；母公司 Schrack Technik GmbH 维也纳）",
+  "founded": "1991-08-27（Obchodní rejstřík）（第 89 批 官方登记核实 2026-10-27）",
+  "staff": "中型（捷克子公司；jednatelé Zacios / Chroust / Gletthofer；自有品牌网络产品）（第 89 批 官方登记核实 2026-10-27）",
+  "size": "中型（集团大型）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "电气安装材料制造与分销（集团）",

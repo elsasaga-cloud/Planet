@@ -79,6 +79,23 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 89 批（DE · Northdata（Handelsregister 镜像：HRB、LEI、成立、资本、GF 更替、商标 / 专利、补贴、集团网络；chunk 0），2026-10-27 查；https://www.northdata.de/Murrelektronik%20GmbH,%20Oppenweiler）：**
+
+- 法定名 / 登记号：Murrelektronik GmbH · Amtsgericht Stuttgart HRB 270279 · LEI 529900J3OOQZY4CQNQ96 · EUID DEB8534.HRB270279 · 状态 **Aktiv** · 成立 1975-09-24（登记） · GmbH · 家族控股（Hafner Beteiligungen GmbH / MEG Murrelektronik GmbH Beteiligungen，3 名活跃股东）· 2 GF + 5 Prokura
+- 行业码 / 经营范围：自动化技术电子 / 电工元件与系统的开发、制造、销售（章程）—— 连接技术、I/O、电源、**自有工业以太网交换机 / 网络产品线**；商标 Vario-X（2021）/ uKonn-X（2022）/ pure.IO（2024）；2024–2026 多项专利；2022-11 联邦补贴 €370,428
+- 注册地址：Grabenstr. 29, D-71570 Oppenweiler（2024-12 迁址登记）
+- 规模档：大型（全球性自动化元件制造商；多国子公司）
+- 账目：Stammkapital €5,000,000（2006）；财务数字付费未取；全球子公司 ApS / B.V. / Inc.（Mississauga）/ sp. z o.o. / AB / 奥地利 GmbH 等 ≥10 家；DE 年报：次年 12-31 前公示
+- 高管：Jürgen ERKERT — Geschäftsführer（2023-07-28 起）
+- 高管：Ulrich Rupert Heinrich VIETHEN — Geschäftsführer（2019-10-24 起）
+- 高管：Holger SCHEIB — Prokura / ehem. VR；历任 GF Grotzke（2008–2021）、Zeltwanger（2018–2022）等
+- 高管：研究档收件 shop@murrelektronik.de = **网店客服信箱**（10 封群发 2 次打开 = 客服点开）
+- 控制人 / 股东：Hafner 家族（经 Hafner Beteiligungen GmbH + MEG Murrelektronik GmbH Beteiligungen）
+- **这意味着什么：**
+  - **判定：Murrelektronik 是 1975 年起的大型自动化元件制造商（家族控股、全球子公司、自有工业交换机线），我们 10 封群发寄到的是它的网店客服信箱 shop@** → 不是客户，是同行上游：**不追**；唯一理论入口是其网络产品线的 ODM 采购（Oppenweiler 产品管理），但 Marvell 白牌对 Murr 无差异化，不值得投入
+  - 留档价值：若将来做 CENTEC 高端款，可作 ODM 线索重估
+- 备注：研究档 legal_name 回填；KP 无 → 不加（无具名经办）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,7 +134,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
+| 法定名称 | Murrelektronik GmbH（Amtsgericht Stuttgart HRB 270279；LEI 529900J3OOQZY4CQNQ96；Grabenstr. 29, 71570 Oppenweiler） |
+| 成立 | 1975-09-24（Handelsregister）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Oppenweiler（斯图加特北）（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 大型自动化元件制造商（Hafner 家族控股；GF Jürgen Erkert + Ulrich Viethen；≥10 国子公司；自有工业交换机线；Stammkapital €5M）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 murrelektronik.de，语言 de，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：分布式自动化（I/O、连接、电源）；工业交换机 / 工业无线

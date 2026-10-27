@@ -81,6 +81,21 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 89 批（US · California SoS 镜像 bizprofile（编号 3540849、2013-01-25、CEO / Director / 代理人 Radu Matei、Good standing）+ USPTO 商标 4854935（Justia）+ ZoomInfo / D&B / Datanyze，2026-10-27 查；https://www.bizprofile.net/ca/alamo/robofiber-inc）：**
+
+- 法定名 / 登记号：ROBOfiber, Inc. · California General Corporation 3540849（2013-01-25） · 状态 **Active · SoS / FTB Good standing（2025-07 快照）** · 成立 2013-01-25 · Corporation · 一人公司（Radu Matei = CEO + Director + 注册代理人，住宅 105 Alamo Hills Ct）；经营地址为 PMB 信箱（3000F Danville Blvd PMB 300）
+- 行业码 / 经营范围：**自有品牌 ROBOFIBER**（USPTO 4854935，2015-11-17 注册：收发器、媒体转换器 LFC 系列、WDM、**以太网交换机 / 路由器**、FTTH 聚合器、远程管理）—— 亚洲代工 + 美国贴牌的网店型进口商；客户电信 / 数据中心 / 政府 / 教育
+- 注册地址：3000F Danville Blvd, PMB 300, Alamo, CA 94507（旧金山湾区东；信箱地址）
+- 规模档：微型（≤10 人；一人公司 + 贴牌电商）
+- 账目：私企；6 人（Datanyze）/ 1–10（ZoomInfo）；营收估 $1.3M（Datanyze）～ $6M（RocketReach）= 区间不采信；CA Statement of Information 每年
+- 高管：Radu MATEI — Co-Founder / CEO / Director / 注册代理人（2013 起）= 老板；研究档收件 sales@（29 封 4 次打开 0 回）→ **写 Matei 本人**
+- 控制人 / 股东：Radu Matei（推定 100%）
+- **这意味着什么：**
+  - **ROBOfiber 是湾区一人老板的自有品牌进口商（ROBOFIBER 商标明确含以太网交换机），我们 29 封全寄 sales@** → 典型 OEM 30% 对象：写 Radu Matei（罗马尼亚裔工程师背景）：ROBOfiber 贴牌管理型 / 工业交换机第二货源，MOQ 1 箱、丝印 + 彩盒、FCC Part 15 Class A + CE；样机付费抵货款；别提他现有供应商
+  - 一人公司：100% 预付或 50/50；DAP 加州走 Saga 百运网线；US 周三 08–10（PST → 北京 00–02，用定时发送）
+  - 复查：CA SoS 状态年看一次（PMB 地址 + 一人 = 退出风险）
+- 备注：研究档 legal_name 已有；KP 加 Radu Matei（CEO / owner）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,6 +133,7 @@ updated: 2026-10-27
   > 兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（销售）（）sales@robofiber.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Radu Matei（Co-Founder / CEO / Director / 注册代理人（CA SoS 3540849，2013-01-25）= **一人公司老板 = 该写的人**；自有品牌 ROBOFIBER（USPTO 4854935 含以太网交换机）→ OEM 30%（第 89 批 官方登记核实 2026-10-27）） 〔https://www.bizprofile.net/ca/alamo/robofiber-inc〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
@@ -125,8 +141,9 @@ updated: 2026-10-27
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | ROBOfiber, Inc. |
-| 成立 | （待核） |
-| 总部/地址 | USA |
+| 成立 | 2013-01-25（California SoS）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Alamo, California（PMB 信箱地址）（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | ≤10 人（6，Datanyze）；营收估 $1.3–6M 区间（第三方，不采信）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | MC / 交换机线外购贴牌可能 |
 
 - **业务线**：光模块（自产 / 自有品牌）；MC / 工业交换机（贴牌）
@@ -225,7 +242,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@robofiber.com | 用户表原值 | Clients/ 表 |
+| Radu Matei | Co-Founder / CEO / Director / 注册代理人（CA SoS 3540849，2013-01-25）= **一人公司老板 = 该写的人**；自有品牌 ROBOFIBER（USPTO 4854935 含以太网交换机）→ OEM 30%（第 89 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.bizprofile.net/ca/alamo/robofiber-inc |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

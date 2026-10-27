@@ -89,19 +89,20 @@ updated: 2026-10-27
 **公司底数 · 第 88 批（GB · Companies House 官方（search + /officers 页，2026-10-27 取；overview / PSC / accounts 未取 —— 额度用尽，下轮补），2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/09041682/officers）：**
 
 - 法定名 / 登记号：COMTROL UK LIMITED · 09041682 · 状态 **Active（同名 COMTROL GMBH 英国分支 BR008786 Bicester 与 FC026768 Zug 均已 Closed —— 老 Comtrol 瑞士 / 德国体系退出，现公司 2014 新设）** · 成立 2014-05-15 · Private limited company · 登记地址 168 Church Road, Hove BN3 2DL = 会计师 / 代理地址（9 名董事全用同一通讯地址 → 经营地另在）
-- 行业码 / 经营范围：（SIC 未取）官网：专业通信设备增值分销 30+ 年 —— 以太网交换机 / 媒体转换器 / 串口 / 光纤 / SFP / 定制设计；Omnitron 分销
+- 行业码 / 经营范围：46510 计算机、外围设备与软件批发（Companies House overview，2026-10-27 取）；官网：专业通信设备增值分销 30+ 年 —— 以太网交换机 / 媒体转换器 / 串口 / 光纤 / SFP / 定制设计；Omnitron 分销
 - 注册地址：168 Church Road, Hove, East Sussex BN3 2DL（代理地址）；「30+ 年」历史承自 Bicester 时代的 Comtrol 英国分支
 - 规模档：小型（分销 + 定制设计；人数未取）
-- 账目：未取（下轮 overview 页看 accounts_due / 规模）；待取
+- 账目：账目至 2025-06-30 已报；下期 2026-06-30，**2027-03-31 到期**；确认声明 2025-10-20（下期 2026-11-03）；2027-03-31
 - 高管：JONES, Timothy（1973-07 生）— Director：2014-05-15 创始董事 → 2020-02-03 辞任 → **2023-01-18 回任至今**；ID 核验到期 2026-11-03 = 研究档 KP Tim Jones（tim.jones@）→ **董事 / 共同创办人 = 联系人**
 - 高管：WESLEY, Nigel Robert（1957-04 生）— Director（2020-02→2022-07；2025-01-13 回任至今）
 - 高管：已辞：ELVIDGE Anthony（创始 2014→2020-02）、LAW Josephine（创始 2014→2020-02）、WAWRZESTA Louis（2020-02→2025-01）、FITZWILLIAMS Antoni（2021-04→2025-01）、RIISE Harald（挪威籍，2021-10→**2025-10-21**）
-- 控制人 / 股东：未取（下轮）；董事更替轨迹：2020-02 三创始人同日退 + 新班子进（= 股权变动 / MBO），2021 挪威籍董事进（= 北欧投资方），2023 Jones 回任，2025-01 班子再换、2025-10 挪威董事退 —— **2025 年又换了一次手 / 投资方退出**
+- 控制人 / 股东：**Port Group Limited（Companies House 11393630，2018 年设）≥75% 股权 + 表决权 + 任免董事权，2020-02-03 起**；此前 PSC（2016-04-06 → 2020-02-03）= Elvidge / Jones / Law 三人各 25–50% → 2020-02 三创始人把公司卖给 Port Group Limited；Jones 2023 回任 = 以经理人身份回来，不再是股东；**Port Group Limited 11393630 核：2018-06-01 成立，Hove（168 Church Road, BN3 2DL），SIC 41100 建筑开发 + 96090，曾用名 NLW HOLDINGS LIMITED（至 2019-02-20），账目至 2025-06-30 / 下期 2027-03-31，CS 2026-03-03 —— 即 2020 年 Law 家族把 Comtrol UK 并入自家控股壳（NLW = Law 姓首字母推定）**
 - 抵押 / 诉讼 / 担保：未取
 - **这意味着什么：**
   - **联系人 Tim Jones = 创始董事，2020 退出、2023 回任，2025 公司再次换班（挪威投资方 2025-10 退出）—— 现在 Jones + Wesley 两人当家，正是「重新选供应商」的窗口** → 27 封群发只打开 2 封，但 2025-02 Elsa 的「16 口 DIN 工业交换机」信是他们栏目正中的题：下一封按 ㉝ 带那封主题，只写 Tim（董事），内容 = 工业 DIN PoE（STI 系列 3 年保）+ 媒体转换器 Saga 不供但交换机侧可整柜配 Omnitron 之外的第二货源；分销 20%
   - 登记地址是代理地址 → 实际仓 / 办公另在；首单 T/T 50/50，UKCA + CE；DAP 英国走 Saga 百运网线；GB 周四 12–14
-  - 下轮补：overview（SIC / accounts_due / 规模）+ PSC（看 2025 新股东是谁）+ charges；复查 2027-01
+  - PSC 补核（2026-10-27）：母公司 = Port Group Limited（11393630）—— 下轮查其 PSC / 董事（Riise 挪威籍 2021–2025 大概率是 Port Group 的投资方代表）；Tim Jones 现为「回任的创始人经理」，决策可能要过 Port Group；写信仍写 Tim，但报价单抬头写 COMTROL UK LIMITED
+  - 母公司 Port Group Limited 是 Hove 的家族控股（含地产开发）→ Comtrol UK 实控人 = Law（前 PSC 之一），Tim Jones 为经营董事；写信仍给 Tim，但报价抄 Law 可加速
 - 备注：研究档 legal_name 空 → 回填 COMTROL UK LIMITED；KP Tim Jones 职务回填 Director（2014 创始；2023 回任）。
 
 ## 基本事实（事实/推断/假设分层）
@@ -159,7 +160,7 @@ updated: 2026-10-27
 | 成立 | 2014-05-15（现法人；「30+ 年」承自旧 Comtrol 英国分支）（第 88 批 官方登记核实 2026-10-27） |
 | 总部/地址 | 英国 |
 | 人数 | 小型（9 名董事进出，现 2 名在任；人数 / 账目未取）（第 88 批 官方登记核实 2026-10-27） |
-| 其他 | 官网 comtrol.co.uk，语言 en-GB，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 comtrol.co.uk，语言 en-GB，快照状态 ok；角色判定来源：官网文案；补核（2026-10-27）：SIC 46510 计算机 / 外设 / 软件批发；账目至 2025-06-30 已报、下期 2027-03-31；CS 2025-10-20；PSC = Port Group Limited（11393630）≥75%（2020-02-03 起；此前 Elvidge / Jones / Law 各 25–50%，2016–2020）；Port Group Limited 本身 2018-06-01 成立于 Hove（168 Church Road），SIC 41100 建筑开发，曾用名 NLW HOLDINGS LIMITED（至 2019-02-20）→ 实控 = Law 家族控股壳，Tim Jones 为经营董事（第 89 批 官方登记核实 2026-10-27） |
 
 - **业务线**：专业通信设备增值分销（Omnitron 等）；定制设计 / 楼宇监测
 - **触达通道（公开）**：role: 专业通信设备增值分销商（英国，Omnitron 为主）；region: 英国；contact: sales@comtrol.co.uk、tim.jones@comtrol.co.uk

@@ -1,138 +1,148 @@
 {
-  "code": "SB-605",
-  "name_official": "ELKOV elektro a.s.（Brno, CZ；elkov.cz；电气材料与灯具批发，32 家分店）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "捷克最大电气安装材料与灯具批发商之一（总部 Brno Kšírova 701；约 700 名员工、集团年营业额约 55 亿 CZK；32–33 家分店；1,500+ 供应商、20,000+ 客户；业务含工具租赁、光伏、充电桩、智慧城市系统；股东 MV elektro）。展会记录：联系人懂交换机、详细介绍 2 光 10 电后只说 OK，拍了 WDM 照片、拿了目录；邮箱 vladimir.novak@elkov.cz + nabidky.brno（报价部）；WhatsApp 加不上；16 次跟进 0 回复。规模远超 Saga 常规目标（临界），作「慢跟」B 保留——以自有品牌/白牌安装类 SKU 切入。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "名录",
-      "claim": "规模与网络",
-      "quote": "Specializovaný velkoobchod elektromateriálem a svítidly se sítí dvacetidevíti prodejních skladů na území České republiky. S konsolidovaným ročním obratem přesahujícím 4 miliardy korun a téměř 500 pracovníky",
-      "url": "https://www.schmachtl.cz/partneri/elkov-elektro",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "百科",
-      "claim": "员工与营业额（2025）",
-      "quote": "Zaměstnanci: 700 (2025) Majitel: MV elektro (100 %) … Zaměstnává téměř 700 zaměstnanců a má konsolidovaný obrat 5,5 miliardy korun.",
-      "url": "https://cs.m.wikipedia.org/wiki/ELKOV_elektro",
-      "date": "2024-06-13"
-    },
-    {
-      "kind": "官网招聘",
-      "claim": "分店数",
-      "quote": "Skupina má aktuálně téměř 700 zaměstnanců a působí na více než 33 pobočkách v ČR.",
-      "url": "https://www.elkov.cz/kariera/prodejce-elektromaterialu-praha-4",
-      "date": "2026-01-29"
-    },
-    {
-      "kind": "用户表",
-      "claim": "展会互动；16 次跟进 0 回复；WhatsApp 加不上",
-      "quote": "对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（名录核对）"
+ "code": "SB-605",
+ "name_official": "ELKOV elektro a.s.（Brno, CZ；elkov.cz；电气材料与灯具批发，32 家分店）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "捷克最大电气安装材料与灯具批发商之一（总部 Brno Kšírova 701；约 700 名员工、集团年营业额约 55 亿 CZK；32–33 家分店；1,500+ 供应商、20,000+ 客户；业务含工具租赁、光伏、充电桩、智慧城市系统；股东 MV elektro）。展会记录：联系人懂交换机、详细介绍 2 光 10 电后只说 OK，拍了 WDM 照片、拿了目录；邮箱 vladimir.novak@elkov.cz + nabidky.brno（报价部）；WhatsApp 加不上；16 次跟进 0 回复。规模远超 Saga 常规目标（临界），作「慢跟」B 保留——以自有品牌/白牌安装类 SKU 切入。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "名录",
+   "claim": "规模与网络",
+   "quote": "Specializovaný velkoobchod elektromateriálem a svítidly se sítí dvacetidevíti prodejních skladů na území České republiky. S konsolidovaným ročním obratem přesahujícím 4 miliardy korun a téměř 500 pracovníky",
+   "url": "https://www.schmachtl.cz/partneri/elkov-elektro",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ELKOV elektro a.s.",
-    "hq": "Kšírova 701, Brno-Horní Heršpice, Czechia",
-    "size": "约 700 人；集团营业额 ≈ 55 亿 CZK（2024/25）",
-    "other": "32+ 分店；部门 ELKOV lighting / servis / energy；光伏、EV 充电、智慧城市"
+  {
+   "kind": "百科",
+   "claim": "员工与营业额（2025）",
+   "quote": "Zaměstnanci: 700 (2025) Majitel: MV elektro (100 %) … Zaměstnává téměř 700 zaměstnanců a má konsolidovaný obrat 5,5 miliardy korun.",
+   "url": "https://cs.m.wikipedia.org/wiki/ELKOV_elektro",
+   "date": "2024-06-13"
   },
-  "business_lines": [
-    "电气安装材料与灯具批发（电缆、配电、保护器件、仪表）",
-    "光伏/充电桩/智慧城市项目",
-    "工具租赁与服务"
-  ],
-  "channels": {
-    "网站": "https://www.elkov.cz/",
-    "分店联系": "各分店公开电话/邮箱（如 liberec@elkov.cz）"
+  {
+   "kind": "官网招聘",
+   "claim": "分店数",
+   "quote": "Skupina má aktuálně téměř 700 zaměstnanců a působí na více než 33 pobočkách v ČR.",
+   "url": "https://www.elkov.cz/kariera/prodejce-elektromaterialu-praha-4",
+   "date": "2026-01-29"
   },
-  "signals": [
-    "电气批发渠道正在吸纳弱电/网络品类（智慧城市、光伏监控）→ DIN 导轨工业交换机与 PoE 可作白牌 SKU",
-    "报价部邮箱（nabidky.brno）为公开采购入口"
-  ],
-  "risks": [
-    "规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上"
-  ],
-  "saga_fit": {
-    "p1": "STI-050GE",
-    "tier": 20,
-    "why": "批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜"
-  },
-  "email_hook": "For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 2 封被打开，0 回；收件 nabidky.brno@elkov.cz, vladimir.novak@elkov.cz；被打开主题「Managed Optical Bypass Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-10「16 Port Ethernet Switch」；To 仅本户 vladimir.novak@elkov.cz；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:vladimir.novak@elkov.cz` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "—",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "捷克（欧洲全域主攻）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；用户表：「对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog」；研究档 risks：规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
-    },
-    "situation": "捷克最大电气安装材料与灯具批发商之一（总部 Brno Kšírova 701；约 700 名员工、集团年营业额约 55 亿 CZK；32–33 家分店；1,500+ 供应商、20,000+ 客户；业务含工具租赁、光伏、充电桩、智慧城市系统；股东 MV elektro）。展会记录：联系人懂交换机、详细介绍 2 光 10 电后只说 OK，拍了 WDM 照片、拿了目录；邮箱 vladimir.novak@elkov.cz + nabidky.brno（报价部）；WhatsApp 加不上；16 次跟进 0 回复。规模远超 Saga 常规目标（临界），作「慢跟」B 保留——以自有品牌/白牌安装类 SKU 切入。",
-    "need": "批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜",
-    "breakpoint": "规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上",
-    "saga_now": {
-      "p1": "STI-050GE",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-11 $65（10G Media Converter）、2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-17 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-      "why": "批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜。已打开的主题（2/17 封有打开记录）：「24 Port Fiber Switch」(2025-03-17)、「Industrial PoE Switch」(2025-07-30) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → nabidky.brno@elkov.cz",
-      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 vladimir.novak@elkov.cz（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）",
-      "one_question": "For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?"
-    },
-    "facts": [
-      {
-        "date": "2025-02-10",
-        "dir": "去",
-        "who": "Elsa 1:1 去信（To vladimir.novak@elkov.cz, nabidky.brno@elkov.cz）",
-        "quote": "16 Port Ethernet Switch — 16-port DIN Gigabit Ethernet switch for vehicle network / industrial automation; model choice 5/8 port, 10/100M, PoE version（稿内无价，第 74 批(p) 已读稿）",
-        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Vladimir」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-        "k": "elsa_1to1",
-        "msg_id": "194eedf51f6c7f7b"
-      },
-      {
-        "date": "2026-02-10",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、48 Port PoE Managed Switch",
-        "why": "17 封 / 2 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-02-10（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Managed Optical Bypass Switch",
-      "body": "Hi Nabidky,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "展会互动；16 次跟进 0 回复；WhatsApp 加不上",
+   "quote": "对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Michal Vodička",
+   "role": "Předseda představenstva（董事长；创始人 Karel Vodička 之子；所有人 MV elektro 100%）—— 不直接写；下一封写采购部「datové sítě」品类经理，不发 nabidky@（第 89 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://or.justice.cz/ias/ui/rejstrik-$firma?ico=26279690"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "ELKOV elektro a.s.（IČO 26279690；DIČ CZ26279690；KS Brno B 3718；LEI 31570010000000108638；基本资本 33,000,000 Kč）",
+  "hq": "Kšírova 701, Brno-Horní Heršpice, Czechia",
+  "size": "约 700 人；集团营业额 ≈ 55 亿 CZK（2024/25）",
+  "other": "32+ 分店；部门 ELKOV lighting / servis / energy；光伏、EV 充电、智慧城市",
+  "founded": "2002-03-04（Obchodní rejstřík）（第 89 批 官方登记核实 2026-10-27）",
+  "staff": "500–999（RES）/ ≈700（2025）；集团营收 55 亿 Kč（≈ €2.2 亿）；33 家分店；董事会 6 人（Vodička / Mareš / Škrhák / Havlíček / Kobylková / Sedláčková）（第 89 批 官方登记核实 2026-10-27）"
+ },
+ "business_lines": [
+  "电气安装材料与灯具批发（电缆、配电、保护器件、仪表）",
+  "光伏/充电桩/智慧城市项目",
+  "工具租赁与服务"
+ ],
+ "channels": {
+  "网站": "https://www.elkov.cz/",
+  "分店联系": "各分店公开电话/邮箱（如 liberec@elkov.cz）"
+ },
+ "signals": [
+  "电气批发渠道正在吸纳弱电/网络品类（智慧城市、光伏监控）→ DIN 导轨工业交换机与 PoE 可作白牌 SKU",
+  "报价部邮箱（nabidky.brno）为公开采购入口"
+ ],
+ "risks": [
+  "规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 20,
+  "why": "批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜"
+ },
+ "email_hook": "For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 2 封被打开，0 回；收件 nabidky.brno@elkov.cz, vladimir.novak@elkov.cz；被打开主题「Managed Optical Bypass Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-10「16 Port Ethernet Switch」；To 仅本户 vladimir.novak@elkov.cz；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:vladimir.novak@elkov.cz` 仅此 1 条，complete）（第 74 批(m)）",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；用户表：「对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog」；研究档 risks：规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
+  },
+  "situation": "捷克最大电气安装材料与灯具批发商之一（总部 Brno Kšírova 701；约 700 名员工、集团年营业额约 55 亿 CZK；32–33 家分店；1,500+ 供应商、20,000+ 客户；业务含工具租赁、光伏、充电桩、智慧城市系统；股东 MV elektro）。展会记录：联系人懂交换机、详细介绍 2 光 10 电后只说 OK，拍了 WDM 照片、拿了目录；邮箱 vladimir.novak@elkov.cz + nabidky.brno（报价部）；WhatsApp 加不上；16 次跟进 0 回复。规模远超 Saga 常规目标（临界），作「慢跟」B 保留——以自有品牌/白牌安装类 SKU 切入。",
+  "need": "批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜",
+  "breakpoint": "规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上",
+  "saga_now": {
+   "p1": "STI-050GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-11 $65（10G Media Converter）、2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-17 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$121.0）供光伏/智慧城市柜。已打开的主题（2/17 封有打开记录）：「24 Port Fiber Switch」(2025-03-17)、「Industrial PoE Switch」(2025-07-30) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → nabidky.brno@elkov.cz",
+   "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 vladimir.novak@elkov.cz（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）",
+   "one_question": "For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?"
+  },
+  "facts": [
+   {
+    "date": "2025-02-10",
+    "dir": "去",
+    "who": "Elsa 1:1 去信（To vladimir.novak@elkov.cz, nabidky.brno@elkov.cz）",
+    "quote": "16 Port Ethernet Switch — 16-port DIN Gigabit Ethernet switch for vehicle network / industrial automation; model choice 5/8 port, 10/100M, PoE version（稿内无价，第 74 批(p) 已读稿）",
+    "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Vladimir」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
+    "k": "elsa_1to1",
+    "msg_id": "194eedf51f6c7f7b"
+   },
+   {
+    "date": "2026-02-10",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、48 Port PoE Managed Switch",
+    "why": "17 封 / 2 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-02-10（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Managed Optical Bypass Switch",
+   "body": "Hi Nabidky,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-25"
+ }
 }

@@ -95,6 +95,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 89 批（AU · ABR ABN Lookup 名称检索结果表（ABN / 实体名 / 类型 / 邮编；记录提取 2026-10-27）—— 董事须 ASIC 付费，未取，2026-10-27 查；https://abr.business.gov.au/Search/ResultsActive?SearchText=cloudtronics）：**
+
+- 法定名 / 登记号：CLOUDTRONICS PTY LTD（+ CLOUDTRONICS HOLDINGS PTY LTD） · ABN 46 603 072 000（CLOUDTRONICS PTY LTD；ACN 603 072 000 → 2014 年段注册）· 控股 ABN 89 692 459 537 CLOUDTRONICS HOLDINGS PTY LTD · 状态 **Active（两 ABN 均 Active）** · 成立 ≈2014–2015（ACN 603xxx 段；待 View 页核） · Pty Ltd · 上有 Holdings Pty Ltd（典型澳洲小业主双层结构）；另有 support@cloudtronics.co.id 印尼分支
+- 行业码 / 经营范围：IT / 云 / 网络集成（悉尼北滩 Brookvale 2100 NSW）；印尼 .co.id 支持信箱 → 雅加达分部
+- 注册地址：NSW 2100（Brookvale / Dee Why，悉尼北）
+- 规模档：小型（估 5–20 人）
+- 账目：非上市 Pty Ltd 无公开账目；—
+- 高管：Robert NATHAN — 研究档 KP（rnathan@；职务未核；Holdings 结构 → 推定董事 / 业主）
+- 控制人 / 股东：推定 Cloudtronics Holdings Pty Ltd → 业主
+- **这意味着什么：**
+  - **悉尼小型 IT / 网络集成商 + 印尼分部，双层 Pty Ltd 结构 = 老板公司**；Robert Nathan 推定业主 → 集成 25%：管理型 24 口 PoE + 10G 上联；RCM 由进口方申报（说明 CE / FCC 测试报告可用）；首单 50/50；AU 周三 08–10（北京 06–08 发）
+  - 印尼分支 = 第二落地点（雅加达项目可 DAP 雅加达走 Saga 百运网线）；留一句
+  - 复查：ABR View 页（2026-11 顺手取 ABN 生效日 / GST）
+- 备注：研究档 legal_name 空 → 回填；KP Robert Nathan 角色 → 推定业主（待证）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -145,7 +160,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
+| 法定名称 | CLOUDTRONICS PTY LTD（ABN 46 603 072 000；控股 CLOUDTRONICS HOLDINGS PTY LTD ABN 89 692 459 537；NSW 2100 Brookvale；另有印尼 .co.id 支持信箱） |
+| 成立 | ≈2014–2015（ACN 603xxx 段）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Brookvale NSW 2100（悉尼北滩）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 cloudtronics.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：兼容光模块 / 网络设备 / 定制 IoT 电子（自有品牌 Cloudtronics）

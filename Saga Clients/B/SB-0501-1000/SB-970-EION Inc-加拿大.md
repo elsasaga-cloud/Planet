@@ -91,6 +91,23 @@ updated: 2026-10-27
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 89 批（CA · Corporations Canada 联邦登记镜像（federalcorporation.ca：编号、BN、成立日、地址、状态）+ Pomegran 新闻稿 + Ottawa Citizen 2009 + ZoomInfo / D&B / highperformr 团队，2026-10-27 查；https://federalcorporation.ca/corporation/3921174）：**
+
+- 法定名 / 登记号：EION Inc.（d/b/a EION Wireless；集团 PomeGran Inc.） · 联邦公司 3921174 · Business Number 870048014 · 状态 **Active / Actif** · 成立 2001-07-16 · 联邦私人公司 · 创始人 / CEO 控股；母公司 PomeGran Inc.（Kalaichelvan 的集团：EION Wireless + ISP 品牌 CochraneTel / Canquest / Digicom）
+- 行业码 / 经营范围：无线接入 / 回传设备制造（LTE / WiMAX / StarPlus 点对点、点对多点电台）面向运营商、ISP、安防 / 国防；集团另营区域 ISP
+- 注册地址：260 Terence Matthews Cres, Suite 200, Ottawa (Kanata) ON K2M 2C7
+- 规模档：小型 / 中型（40–100 人级；集团含 ISP）
+- 账目：私企不公开；2009 年 40 人（Ottawa Citizen）；ZoomInfo 51–200 / $21.8M（第三方估，不采信）；—
+- 高管：Dr. Kalai S. KALAICHELVAN — Founder / President & CEO（2001 起；ex-Nortel；集团 PomeGran 董事长）= 研究档 KP（无邮箱）→ 拍板人
+- 高管：Saf ASSADI — Founder & CTO；Sumit KUMAR — VP Engineering；Manny MISTRY — VP Sales & BD（2025 领导层）
+- 高管：研究档收件 harshul@eion.com = 工程 / 采购经办（18 封 6 次打开 0 回）
+- 控制人 / 股东：Kalaichelvan（经 PomeGran，推定控股）
+- **这意味着什么：**
+  - **EION 是渥太华 2001 年起的无线回传设备制造商 + 集团自营 3 家小 ISP；收件人 harshul@ 打开了 6 次（最热的沉默户之一）但他不是拍板人** → 两条线：① 制造线：EION 电台配套 PoE 注入 / 工业 PoE 交换机（户外塔站 → STI 工业款，-40℃），写 CTO Saf Assadi；② ISP 线：CochraneTel / Canquest 机房接入交换机（24 口管理型），写 VP Sales Manny Mistry 转运营；分销 20%；ISED（IC）认证由他们持有
+  - 加拿大北部 ISP 项目冬季施工停 → 采购窗口 3–5 月；首单 T/T 50/50；DAP 渥太华走 Saga 百运网线
+  - 复查：Corporations Canada 年度申报（federalcorporation.ca）年看一次
+- 备注：研究档 legal_name 已有 EION Inc. → 补编号 / BN；KP 加 Saf Assadi（CTO）与 Manny Mistry（VP Sales）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,16 +143,19 @@ updated: 2026-10-27
 - **【用户表】WhatsApp 已加；8 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Kalai Kalaichelvan（Dr.）（Founder, President & CEO（公开））—（未公开） +1 613-271-4400（公司）〔https://www.crunchbase.com/organization/eion-wireless〕
+- **KP**：Kalai Kalaichelvan（Dr.）（Founder, President & CEO（联邦公司 3921174，2001-07-16；母公司 PomeGran Inc. 含 3 家 ISP）—— 不直接写，抄送（第 89 批 官方登记核实 2026-10-27））—（未公开） +1 613-271-4400（公司）〔https://www.crunchbase.com/organization/eion-wireless〕
+- **KP**：Saf Assadi（CTO = 无线基站 / 工业 PoE 选型人 → 写他（STI 工业系列 -40℃）（第 89 批 官方登记核实 2026-10-27）） 〔https://www.federalcorporation.ca/corporation/3921174〕
+- **KP**：Manny Mistry（VP Sales = ISP 接入侧 24 口管理型选型人 → 写他；研究档原收件 harshul@ 非决策人（第 89 批 官方登记核实 2026-10-27）） 〔https://www.federalcorporation.ca/corporation/3921174〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | EION Inc.（EION Networks, Inc.；EION Wireless 为事业部） |
-| 成立 | 2001 |
+| 法定名称 | EION Inc.（Corporations Canada 3921174；BN 870048014；2001-07-16；260 Terence Matthews Cres, Ottawa ON；母公司 PomeGran Inc.，旗下 ISP CochraneTel / Canquest / Digicom） |
+| 成立 | 2001-07-16（Corporations Canada）（第 89 批 官方登记核实 2026-10-27） |
 | 总部/地址 | 150 Katimavik Rd, Ste 304, Kanata (Ottawa), ON K2L 2N2, Canada（+1 613-271-4400）；Calgary 分部 |
+| 人数 | ≈40 人（2009）；LinkedIn 51–200；高管 CEO Kalaichelvan / CTO Assadi / VP Eng Sumit Kumar / VP Sales Mistry（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | Deloitte 50 强多次；WiMAX→LTE；行业：企业、政府、油气、安防、国防（守界：国防线不供） |
 
 - **业务线**：4G LTE / 宽带无线接入系统（基站、CPE）；运营商与 ISP 方案（165+ 渠道伙伴）；行业无线（油气、安防、政府）
@@ -215,7 +235,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kalai Kalaichelvan（Dr.） | Founder, President & CEO（公开） | —（未公开） / +1 613-271-4400（公司） | 调研核实（公开页） | https://www.crunchbase.com/organization/eion-wireless |
+| Kalai Kalaichelvan（Dr.） | Founder, President & CEO（联邦公司 3921174，2001-07-16；母公司 PomeGran Inc. 含 3 家 ISP）—— 不直接写，抄送（第 89 批 官方登记核实 2026-10-27） | —（未公开） / +1 613-271-4400（公司） | 调研核实（公开页） | https://www.crunchbase.com/organization/eion-wireless |
+| Saf Assadi | CTO = 无线基站 / 工业 PoE 选型人 → 写他（STI 工业系列 -40℃）（第 89 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.federalcorporation.ca/corporation/3921174 |
+| Manny Mistry | VP Sales = ISP 接入侧 24 口管理型选型人 → 写他；研究档原收件 harshul@ 非决策人（第 89 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.federalcorporation.ca/corporation/3921174 |
 | Harshul Garg | — | harshul@eion.com / +16133710900 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

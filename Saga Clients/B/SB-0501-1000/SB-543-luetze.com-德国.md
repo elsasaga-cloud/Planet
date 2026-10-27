@@ -90,6 +90,24 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 89 批（DE · Northdata（HRB、LEI、Siren、GF 更替、利润转移协议、商标 / 专利、2024 资产 / 营收；chunk 0），2026-10-27 查；https://www.northdata.de/Friedrich%20L%C3%BCtze%20GmbH,%20Weinstadt）：**
+
+- 法定名 / 登记号：Friedrich Lütze GmbH（Amphenol 集团，2024-10 起） · Amtsgericht Stuttgart HRB 740258 · LEI 529900QY4FK0M7B3P846 · 法国分支 Siren 512907809 · 状态 **Aktiv** · 成立 2012-02-07（现法人；Lütze 创业 1958；2018-10 吸收合并 Friedrich Lütze International GmbH） · GmbH · 与 Luetze International GmbH 签有利润转移协议（Gewinnabführungsvertrag）· **2024-10-08 起 GF 换为 Lance Edward D'Amico（Wallingford CT）+ Craig Anthony Lampo（Old Saybrook CT）= Amphenol 集团高管 → 2024 年被 Amphenol 收购**
+- 行业码 / 经营范围：电工产品制造 / 销售 / 贸易 + 客户服务（章程）：控制柜布线系统（LSC / AirSTREAM）、电缆、电源、**网络 / 连接产品**；商标 LÜTZE CABLEFIX（2023）/ LIMO-Box（2023）/ PANELCON（2022）/ LUNA（2024）/ LUCI RAIL（2026-08）；2024–2026 专利
+- 注册地址：Bruckwiesenstr. 17-19, D-71384 Weinstadt（斯图加特东）
+- 规模档：中型（营收 €75M；集团含 Lütze AG 瑞士 / Lutze SAS 法国 / Lütze s.r.o. 捷克 / Lütze Inc. 美国）
+- 账目：**2024-12-31：Bilanzsumme €38.4M；Umsatzerlöse €74.8M**（Northdata 免费概览）；DE 年报：次年 12-31 前公示
+- 高管：**Dimitrios KOUTROUVIS — Geschäftsführer（2024-10-08 起；Sachsenheim）= 研究档收件人 dimitrios.koutrouvis@luetze.com（37 封群发 2 次打开 0 回）→ 联系人 = 德国公司总经理，但 2024-10 起受 Amphenol 管辖**
+- 高管：Lance Edward D'AMICO、Craig Anthony LAMPO — Geschäftsführer（2024-10-08 起；Amphenol 高管）
+- 高管：Peter JURCZYK — Prokura（2021-12）；Iaroslav NIKOLENKO — Prokura（2026-10-02 新）；前 GF Martin Teufel（2016–2024-11）
+- 控制人 / 股东：Amphenol（经 Luetze International GmbH / Lütze AG 链条，推定 100%）
+- 曾用名：Friedrich Lütze GmbH & Co. KG（已注销）
+- **这意味着什么：**
+  - **硬发现：我们 37 封信的收件人 Koutrouvis 就是 Lütze 德国总经理（2024-10 任命），而 Lütze 自 2024-10 起属美国 Amphenol 集团（GF 两位来自康州总部）** → 采购 / 产品决策已集团化：Lütze 的网络产品若需 ODM，走 Amphenol 供应链而非德国小供应商 → 期望值低；**一封**写给 Koutrouvis 本人（不再群发）：问「Lütze 网络 / 连接线是否仍在本地选型」，不回即归档
+  - 若有回：OEM 30%、Lütze 贴牌 + 控制柜 DIN 安装款（STI 工业系列、-40～75℃、冗余电源）是他们场景；付款 30 天内（集团）
+  - 复查：2025 年报 2026-12 公示后看营收走向；Prokura 2026-10 新增 = 组织仍在调整
+- 备注：研究档 KP 无 → 加 Koutrouvis（GF）；legal_name 回填。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,13 +144,17 @@ updated: 2026-10-27
 - **【用户表】工业 FS 自己的牌子；主要是工业电缆；重要**
   > 工业FS  自己的牌子  质量还行 主要是工业电缆 / 自己的牌子；可以着重跟一下；比较重要
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Dimitrios Koutrouvis（Geschäftsführer（2024-10-08 起；与 Amphenol 高管 D'Amico / Lampo 同日任命 = 公司 2024-10 起属美国 Amphenol 集团）= 研究档收件人 dimitrios.koutrouvis@luetze.com 本人 → **联系人 = 德国总经理**，但采购已集团化 → 只写一封问「网络 / 连接线是否仍本地选型」（第 89 批 官方登记核实 2026-10-27））dimitrios.koutrouvis@luetze.com 〔https://www.northdata.de/Friedrich%20L%C3%BCtze%20GmbH,%20Weinstadt〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
+| 法定名称 | Friedrich Lütze GmbH（Amtsgericht Stuttgart HRB 740258；LEI 529900QY4FK0M7B3P846；Bruckwiesenstr. 17-19, 71384 Weinstadt；与 Luetze International GmbH 利润转移协议；2024-10 起 Amphenol 集团） |
+| 成立 | 2012-02-07（现法人；创业 1958）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Weinstadt（斯图加特东）（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 2024：Umsatz €74.8M、Bilanzsumme €38.4M；GF 3 人 + Prokura 3 人；商标 LÜTZE CABLEFIX / LIMO-Box / PANELCON / LUNA / LUCI RAIL（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 luetze.com，语言 ?，快照状态 http_error；角色判定来源：用户表 |
 
 - **业务线**：工业电缆 / 自动化（LÜTZE 集团）；工业通信（自有标工业交换机）
@@ -243,7 +265,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Dimitrios Koutrouvis | — | info@luetze.de / sales.gb@lutze.co.uk | 用户表原值 | Clients/ 表 |
+| Dimitrios Koutrouvis | Geschäftsführer（2024-10-08 起；与 Amphenol 高管 D'Amico / Lampo 同日任命 = 公司 2024-10 起属美国 Amphenol 集团）= 研究档收件人 dimitrios.koutrouvis@luetze.com 本人 → **联系人 = 德国总经理**，但采购已集团化 → 只写一封问「网络 / 连接线是否仍本地选型」（第 89 批 官方登记核实 2026-10-27） | dimitrios.koutrouvis@luetze.com | 调研核实（公开页） | https://www.northdata.de/Friedrich%20L%C3%BCtze%20GmbH,%20Weinstadt |
 
 - **通道建议**：邮件已推送 27 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

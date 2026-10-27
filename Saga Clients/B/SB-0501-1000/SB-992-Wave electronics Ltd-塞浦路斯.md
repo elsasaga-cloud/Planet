@@ -86,6 +86,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 89 批（CY · 研究档既有事实（D&B 公开：Key Principal Charalampos Charalampous；Cyprus Registrar HE 19231，1983-03-15 —— 塞浦路斯登记处 JS 不可抓，批 82 已关闭）；本批不再检索，仅建档，2026-10-27 查；https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx）：**
+
+- 法定名 / 登记号：WAVE ELECTRONICS LIMITED · HE 19231（Department of Registrar of Companies, Cyprus） · 状态 **Active（推定；官网在线）** · 成立 1983-03-15 · Private Limited Company（Ltd）
+- 行业码 / 经营范围：电子 / 安防 / 通信产品分销（塞浦路斯；Limassol / Nicosia）
+- 注册地址：Cyprus（研究档）
+- 规模档：小型 / 中型（1983 起 40 年老店；估 10–30 人）
+- 账目：CY 年报 HE32 付费；未取；CY 年报：次年 12-31 前（HE32）
+- 高管：Charalampos CHARALAMPOUS — Key Principal（D&B）= 推定董事 / 业主
+- 高管：研究档收件 p.christos@（Christos P.，职务未核）
+- 控制人 / 股东：Charalampous 家族（推定）
+- **这意味着什么：**
+  - **塞浦路斯 1983 年起的老电子分销商，登记处无法抓取 → 底数到 HE 号 + D&B 主事人为止**；分销 20%：PoE + 管理型 24 口（塞岛酒店 / 住宅安防项目）；CE / RoHS + 希腊语标签可选；写 p.christos 同时抄 Charalampous（问全名邮箱）；首单 50/50；DAP 利马索尔走 Saga 百运网线；CY 周四 12–14（EET）
+  - 不再检索（来源已关闭）
+- 备注：研究档 legal_name 已有；KP 角色不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -142,8 +157,9 @@ updated: 2026-10-27
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | Wave Electronics Limited（HE 19231，1983-03-15） |
+| 成立 | 1983-03-15（HE 19231；塞浦路斯登记处 JS 不可抓，批 82 已关闭 → 本批仅建档）（第 89 批 官方登记核实 2026-10-27） |
 | 总部/地址 | 2 Paphou Street, Block A1, Latsia 2236, Nicosia, Cyprus（+357 22 573 057；wavesecu@spidernet.com.cy） |
-| 其他 | 1,100+ 项目；机场/医院/银行参考；Key principal Charalampos Charalampous |
+| 其他 | 1,100+ 项目；机场/医院/银行参考；Key principal Charalampos Charalampous；底数止于 HE 号 + D&B 主事人 Charalampous；分销 20%；写 p.christos 抄 Charalampous（第 89 批 官方登记核实 2026-10-27） |
 
 - **业务线**：电子安防系统集成（CCTV、报警、门禁）；A 级电气安装与自动化；生命安全系统（守界：火灾主系统不供）
 - **触达通道（公开）**：网站: https://www.wave-electronics.com.cy/；电话: +357 22 573 057（公开）；邮箱（公开）: wavesecu@spidernet.com.cy

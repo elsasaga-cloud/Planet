@@ -75,6 +75,25 @@ updated: 2026-10-27
 
 - 法定假日：11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 89 批（CZ · Obchodní rejstřík 镜像（podnikatel.cz：IČO / 资本 / C 5437 / 成立；kurzy.cz：jednatelé）+ 官网 impressum（三位 jednatel；Zacios 2005 起为集团 GmbH 共同所有人），2026-10-27 查；https://www.podnikatel.cz/rejstrik/schrack-technik-spol-s-r-o-15039137/）：**
+
+- 法定名 / 登记号：Schrack Technik spol. s r.o.（奥地利 Schrack Technik GmbH 捷克子公司） · IČO 15039137 · DIČ CZ15039137 · Městský soud v Praze C 5437 · datová schránka mm5zg44 · 状态 **Aktivní** · 成立 1991-08-27 · s.r.o. · 基本资本 16,000,000 Kč · 母公司 Schrack Technik GmbH（维也纳；集团由各国总经理 MBO 共同持有，Zacios 为股东之一）
+- 行业码 / 经营范围：电气 / 能源 / 网络技术批发 + **自有品牌**（Schrack 牌配电、机柜、结构化布线、网络产品含交换机 / 媒体转换器）；捷克多分店（Praha / Brno / Ostrava …）
+- 注册地址：Dolnoměcholupská 1339/2, 102 00 Praha 10 – Hostivař
+- 规模档：中型（捷克子公司数十至百人；集团大型）
+- 账目：财务未取（Sbírka listin 可查）；集团全欧 ≈ 15 国子公司；CZ 年报：次年 12-31 前
+- 高管：Ing. Marek ZACIOS — jednatel + ředitel（1998-09-22 起；1969 生 Brno；**2005 起集团 Schrack Technik GmbH 共同所有人**）= 拍板人
+- 高管：Pavel CHROUST — jednatel（2018-07-01 起）
+- 高管：Franz GLETTHOFER — jednatel（奥地利总部代表）
+- 高管：研究档收件 j.drbohlav@ / p.simek@ / j.myn…@ = 产品 / 销售经办（12 封 3 次打开 0 回）
+- 控制人 / 股东：Schrack Technik GmbH（AT）100%；Zacios 间接持股
+- 曾用名：Schrack Energietechnik spol. s r.o.（1990 年代名）
+- **这意味着什么：**
+  - **硬发现：Schrack Technik 是奥地利自有品牌电气 / 网络批发集团（Schrack 牌交换机 / 媒体转换器就是贴牌货），捷克总经理 Zacios 还是集团股东** → 这是 OEM 30% 的正牌对象，但选型在维也纳总部产品管理，捷克公司只卖：下一封写 Zacios 本人（他是股东，能把样品转给维也纳）：Schrack 贴牌 PoE 交换机第二货源 + 捷克语 / 德语文件 + CE / RoHS；别再发经办
+  - 集团采购节奏：目录年版 1 月出 → 选型 Q3；30 天账期对集团可谈（需 Simon 决定）；DAP 布拉格走 Saga 百运网线；CZ 周四 12–14
+  - 复查：or.justice.cz Sbírka listin 年报 12 月
+- 备注：研究档 legal_name 空 → 回填；KP 加 Zacios（jednatel / 集团股东）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,13 +127,17 @@ updated: 2026-10-27
   > 销售平台 工商业 台湾厂商的；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jakub Drbohlav（）p.simek@schrack.cz 〔用户表〕
+- **KP**：Ing. Marek Zacios（Jednatel + ředitel（1998-09-22 起；**2005 起集团 Schrack Technik GmbH 共同所有人**）= 拍板人 → 下一封写他：Schrack 贴牌 PoE 第二货源（选型在维也纳产品管理，他能转样）（第 89 批 官方登记核实 2026-10-27）） 〔https://www.podnikatel.cz/rejstrik/schrack-technik-spol-s-r-o-15039137/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 捷克 |
+| 法定名称 | Schrack Technik spol. s r.o.（IČO 15039137；DIČ CZ15039137；MS Praha C 5437；基本资本 16,000,000 Kč；母公司 Schrack Technik GmbH 维也纳） |
+| 成立 | 1991-08-27（Obchodní rejstřík）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Dolnoměcholupská 1339/2, Praha 10 – Hostivař（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 中型（捷克子公司；jednatelé Zacios / Chroust / Gletthofer；自有品牌网络产品）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 schrack.cz，语言 cs，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：电气安装材料制造与分销（集团）；网络 / 数据产品线（自有标）
@@ -210,6 +233,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Jakub Drbohlav | — | p.simek@schrack.cz | 调研核实（公开页） | 用户表 |
+| Ing. Marek Zacios | Jednatel + ředitel（1998-09-22 起；**2005 起集团 Schrack Technik GmbH 共同所有人**）= 拍板人 → 下一封写他：Schrack 贴牌 PoE 第二货源（选型在维也纳产品管理，他能转样）（第 89 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.podnikatel.cz/rejstrik/schrack-technik-spol-s-r-o-15039137/ |
 
 - **通道建议**：企业邮箱可直发
 

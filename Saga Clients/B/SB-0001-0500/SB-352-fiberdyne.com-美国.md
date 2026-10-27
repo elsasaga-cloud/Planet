@@ -86,6 +86,23 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 89 批（US · SAM.gov 镜像 opengovus（UEI L689L2J632M7、1994-08-23 开业、S-corp、制造商、官员名单、注册有效至 2026-10-31）+ craft.co（CEO / 高管）+ Utica OD 2017（Polus 家族所有）+ LinkedIn（Misterka 2001 起 VP Purchasing）+ NY 参议院 2009（1992 Herkimer 创立、1998 迁 Frankfort），2026-10-27 查；https://opengovus.com/sam-entity/L689L2J632M7）：**
+
+- 法定名 / 登记号：Fiberdyne Labs, Inc. · SAM UEI L689L2J632M7（2001-10-04 登记；激活 2025-11-04；到期 2026-10-31）· NY S-Corporation · 状态 **Active（SAM 有效；官网在线）** · 成立 1992（Herkimer NY；SAM 开业日 1994-08-23） · S-Corp · **Polus 家族所有**（Peter Polus 创始人 / 董事长；Chad Polus；Heather Polus-Mosny 财务；Shaula Polus）
+- 行业码 / 经营范围：**光纤产品制造商**（CATV / 电信光纤组件、光收发与分配、安装服务；SAM 类型 MF 制造商）；姊妹公司 Fiberdyne Energy / Fiberdyne Advertising
+- 注册地址：127 Business Park Dr, Frankfort, NY 13340（自有厂房，5S North Business Park）
+- 规模档：中型（51–200 人制造商）
+- 账目：私企；LinkedIn / ZoomInfo 51–200 人；SAM 年审 10-31（2026-10-31 即将到期 → 11 月续）
+- 高管：A. Peter POLUS III — CEO（家族第二代）；Chad POLUS — SAM 登记官员（MR）；Heather POLUS-MOSNY — Treasurer
+- 高管：**Ken (Kenneth) MISTERKA — VP Purchasing（2001 起）/ VP Logistics（2008 起）= 研究档收件人 kmisterka@ → 采购拍板人本人（非老板，但正是选供应商的人）**
+- 高管：Jeremy NULTY（jnulty@，研究档）— 职能未核；Donna SALAMONE — VP Quality；Tammy AVERY — Account Executive
+- 控制人 / 股东：Polus 家族 100%
+- **这意味着什么：**
+  - **硬发现：我们 29 封信的收件人之一 Ken Misterka 是 Fiberdyne 的采购副总（25 年），公司是纽约州北部 Polus 家族的光纤产品制造商（51–200 人、SAM 登记制造商）** → 他是对的人，错的是内容：制造商采购要的是「配套 / 贴牌」不是「交换机价表」—— 下一封只给 Ken：Fiberdyne 光纤产品线配套的工业 / 商用交换机 + 媒体转换器以外的 PoE 款，可贴 Fiberdyne 标（OEM 30%），FCC / UL 不承诺（无 UL）→ 说明 FCC Part 15 + CE；样机付费
+  - SAM 登记 = 有政府 / 市政光纤项目 → TAA 问题：白牌中国产不能进 TAA 合同，只能走商业线；付款 NET 30 不给、首单 50/50；DAP 纽约州走 Saga 百运网线；US 周三 08–10（EST）
+  - 复查：SAM 到期 2026-10-31 → 11 月看是否续（= 仍做政府项目）
+- 备注：研究档 KP Ken Misterka 角色回填 VP Purchasing；加 CEO Polus；legal_name 回填。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,16 +139,19 @@ updated: 2026-10-27
 - **【用户表】10G MC SFP 商业 FS 自己的 logo**
   > 光路的10GMC SFP 商业FS 少部分工业FS 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ken Misterka（）sales@fiberdyne.com 〔用户表〕
+- **KP**：Ken Misterka（VP Purchasing（2001 起）/ VP Logistics（2008 起）= **采购拍板人本人** —— 制造商采购要的是配套 / 贴牌，不是价表（第 89 批 官方登记核实 2026-10-27））sales@fiberdyne.com 〔用户表〕
 - **KP**：Jeremy Nulty（） 〔用户表〕
-- **KP**：Peter Polus（）peter@fiberdyne.com 〔用户表〕
+- **KP**：Peter Polus（Founder / Chairman（1992 创立；Polus 家族所有；CEO 为 A. Peter Polus III）（第 89 批 官方登记核实 2026-10-27））peter@fiberdyne.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
+| 法定名称 | Fiberdyne Labs, Inc.（NY S-Corp；SAM UEI L689L2J632M7，登记 2001-10-04、有效至 2026-10-31；127 Business Park Dr, Frankfort NY 13340） |
+| 成立 | 1992（Herkimer NY；SAM 开业日 1994-08-23）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Frankfort, New York（Utica 东）（第 89 批 官方登记核实 2026-10-27） |
+| 人数 | 51–200 人（LinkedIn / ZoomInfo）；光纤产品制造商（CATV / 电信）；SAM 登记 = 政府项目（TAA 限制 → 只走商业线）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 fiberdyne.com，语言 ?，快照状态 http_error；角色判定来源：用户表 |
 
 - **业务线**：光纤产品 / 交换机（自有品牌 Fiberdyne）
@@ -231,9 +251,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ken Misterka | — | sales@fiberdyne.com | 调研核实（公开页） | 用户表 |
+| Ken Misterka | VP Purchasing（2001 起）/ VP Logistics（2008 起）= **采购拍板人本人** —— 制造商采购要的是配套 / 贴牌，不是价表（第 89 批 官方登记核实 2026-10-27） | sales@fiberdyne.com | 调研核实（公开页） | 用户表 |
 | Jeremy Nulty | — | — | 调研核实（公开页） | 用户表 |
-| Peter Polus | — | peter@fiberdyne.com | 调研核实（公开页） | 用户表 |
+| Peter Polus | Founder / Chairman（1992 创立；Polus 家族所有；CEO 为 A. Peter Polus III）（第 89 批 官方登记核实 2026-10-27） | peter@fiberdyne.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

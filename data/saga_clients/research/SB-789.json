@@ -37,7 +37,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Valdemaras Narkovičius",
+   "role": "Direktorius / Generalinis direktorius（2019-06-21 起）= 拍板人；研究档原无具名 KP（24 封全寄 info@）→ 下一封写他：viSar 贴牌 PoE（OEM 30%）+ 分销 20% 并列（第 89 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://rekvizitai.vz.lt/en/company/sareme/manager/"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -46,8 +54,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "立陶宛",
-  "other": "官网 visarcctv.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Vilnius（Vytenio g. 46）（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 visarcctv.com，语言 ?，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "UAB „SAREME“（įmonės kodas 110629811；PVM LT106298113；1994-06-16；股本 €630,000；Vytenio g. 46, LT-03229 Vilnius + Kaunas 分部；品牌 viSar）",
+  "founded": "1994-06-16（Registrų centras 镜像）（第 89 批 官方登记核实 2026-10-27）",
+  "staff": "22–23 人（SODRA 2026-10）；**2025 营收 €9.22M；2023 营收 €10.82M / 净利 €349k**；平均工资 €3,778（第 89 批 官方登记核实 2026-10-27）",
+  "size": "小型（€9–11M 安防分销商，立陶宛民营市场领先）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "安防设备（自有 VSS/VSI 品牌：PoE 交换机 / 对讲）"

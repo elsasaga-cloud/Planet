@@ -85,6 +85,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 89 批（AU · ABR ABN Lookup 名称检索结果表（ABN / 实体名 / 类型 / 邮编；记录提取 2026-10-27）—— 董事须 ASIC 付费，未取，2026-10-27 查；https://abr.business.gov.au/Search/ResultsActive?SearchText=andcorp）：**
+
+- 法定名 / 登记号：ANDCORP ENTERPRISES PTY. LTD.（品牌 Yamasaki IoT） · ABN 93 610 329 934（ACN 610 329 934 → 2016 年段注册） · 状态 **Active** · 成立 ≈2016（ACN 610xxx 段） · Pty Ltd（业主 Philip Anderson 推定，姓氏 And-corp）
+- 行业码 / 经营范围：网络 / IoT 产品进口分销（自有品牌 **Yamasaki** IoT：光纤 / PoE / 无线；sales@yamasakiot.com 同户）
+- 注册地址：NSW 2176（Wetherill Park，悉尼西部工业区）
+- 规模档：小型（估 5–15 人）
+- 账目：—；—
+- 高管：Philip ANDERSON — 研究档 KP（panderson@；公司名 And-corp → 推定创办人 / 董事）
+- 高管：Gautam BOHRA — 研究档 KP（职务未核）
+- 控制人 / 股东：推定 Philip Anderson
+- **这意味着什么：**
+  - **Andcorp = 悉尼西区 2016 年起的网络产品进口商，自有品牌 Yamasaki IoT（含 PoE / 光纤）→ 老板 Philip Anderson 推定 = 联系人** → OEM 30%：Yamasaki 贴牌 PoE 交换机第二货源（4/8/16/24 口），RCM 其申报；写 Philip 本人；首单 50/50；AU 周三 08–10
+  - 复查：ABR View 页（2026-11）
+- 备注：研究档 legal_name 空 → 回填；KP Philip Anderson 推定业主。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,7 +153,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
+| 法定名称 | ANDCORP ENTERPRISES PTY. LTD.（ABN 93 610 329 934；NSW 2176 Wetherill Park；品牌 Yamasaki IoT） |
+| 成立 | ≈2016（ACN 610xxx 段）（第 89 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Wetherill Park NSW 2176（悉尼西）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 andcorp.com.au，语言 ?，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：网络 / 光纤配件（自有品牌 Yamasaki；Utepo 工业 FS）

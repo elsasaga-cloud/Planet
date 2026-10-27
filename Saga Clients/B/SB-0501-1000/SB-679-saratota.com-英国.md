@@ -78,6 +78,24 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 89 批（GB · Companies House 官方（search + overview + officers，2026-10-27 取），2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/05424607）：**
+
+- 法定名 / 登记号：SARATOTA LIMITED · 05424607 · 状态 **Active（账目至 2025-04-30 已报；下期 2026-04-30，2027-01-31 到期；确认声明 2026-04-14）** · 成立 2005-04-14 · Private limited company · 夫妻公司（董事 + 秘书同姓同址）
+- 行业码 / 经营范围：82990 其他商务支持服务 n.e.c.（登记 SIC 与实际「网络 / 通信设备供应」不符 —— 老公司沿用注册时的通用码）
+- 注册地址：Unit 21 Little Ridge Industrial Estate, Ridgeway, Welwyn Garden City, Herts AL7 2BH（真实工业园单元，非代理地址）
+- 规模档：微型（夫妻 2 人 + 可能数名雇员）
+- 账目：小微账目（人数未公示）；2027-01-31（账期 04-30）
+- 高管：WHITE, Michael Charles（1954-11 生，英籍，ID 已核）— Director（2005-04-14 创立至今）= 研究档收件人 mike.white@saratota.com → **老板 = 联系人**（年近 72 岁）
+- 高管：WHITE, June — Secretary（2005-04-14 起）= 配偶
+- 高管：成立当日 SDG Secretaries / SDG Registrars 名义董事进出（= 代办注册壳起步）
+- 控制人 / 股东：未取（董事结构已明：夫妻）
+- 抵押 / 诉讼 / 担保：（overview 无 charges 栏 = 无登记抵押）
+- **这意味着什么：**
+  - **老板 = 联系人：Mike White 是 Saratota 的创始董事（2005），公司 = 夫妻经营的赫特福德郡小单元，18 封群发打开 2 封 0 回** → 72 岁的夫妻店不会回群发：下一封只写 Mike 一人、一段话、一款（他打开过的主题对应的款），问一句「还在做网络设备这块吗」；分销 20%；首单 T/T 50/50，MOQ 1，UKCA + CE
+  - 年龄信号：创始人 72 岁 + 无第二董事 → 公司接班 / 退出风险，长期复利低 → 一封试探，不回即归档
+  - 复查 2027-02（账目到期后看是否仍在报）
+- 备注：研究档 legal_name 已有 Saratota Ltd → 回填全称 + 号码；KP 原无 → 加 Michael Charles White（Director / owner）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,14 +150,17 @@ updated: 2026-10-27
 - **【Mikrotik 仓库】C-116 同户：分销（PLANET 授权），B下放·无邮箱**
   > C-116 Saratota 英国 分销（PLANET 授权）… B下放·无邮箱 … saratota.com 页面标注 Planet Technology UK distributor / supplier，上架 PLANET 工业 PoE 与太阳能供电交换机 … 经 EtherWAN 渠道名录确认为其分销商
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-09-22）
+- **KP**：Michael Charles White（Director（2005-04-14 创立至今；1954 生 = 72 岁）+ 配偶 June White 任 Secretary = **夫妻店老板 = 联系人 Mike**；研究档原无具名 KP（第 89 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/05424607/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-043，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Saratota Ltd |
+| 法定名称 | SARATOTA LIMITED（Companies House 05424607；2005-04-14；Welwyn Garden City, Hertfordshire；SIC 82990；账目下期 2027-01-31） |
+| 成立 | 2005-04-14（Companies House）（第 89 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Welwyn Garden City（Hertfordshire）, 英国 |
+| 人数 | 微型（夫妻两人；micro-entity 账目）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | Planet 渠道档案 PB-043（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：公用事业/政府客户的认证门槛（UKCA 可；UL 不涉及）；年台数；是否已直接进口（自述 import） |
 
 - **业务线**：进口分销/厂商代表（2005 年起；「represents Manufacturers … import and distribute」：Planet / LAVA / Patton / Flexdsl / Loop / Netsys；2–10 人；兼 planet-direct.co.uk、saratota-direct.co.uk 专站）
@@ -244,6 +265,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Michael Charles White | Director（2005-04-14 创立至今；1954 生 = 72 岁）+ 配偶 June White 任 Secretary = **夫妻店老板 = 联系人 Mike**；研究档原无具名 KP（第 89 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/05424607/officers |
 | Mike White | — | mike.white@saratota.com / sales@saratota.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -313,7 +335,7 @@ updated: 2026-10-27
 **主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hi Mike,
+Hi Michael,
 
 Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 30 March 2025 - and there was no reason to answer a mass mail. This one is specific. You import PLANET industrial PoE for utility and reseller customers; a DIN-rail PoE+ L2+ switch sourced direct gives you a lower-cost line beside PLANET without changing the spec sheet. On your utility and reseller orders, is the 4/8-port industrial PoE+ class what ships most, or do PoE injectors and extenders lead?
 

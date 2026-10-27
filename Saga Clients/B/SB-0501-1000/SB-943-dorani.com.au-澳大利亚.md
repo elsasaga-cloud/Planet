@@ -87,6 +87,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 89 批（AU · ABR ABN Lookup 名称检索结果表（ABN / 实体名 / 类型 / 邮编；记录提取 2026-10-27）—— 董事须 ASIC 付费，未取，2026-10-27 查；https://abr.business.gov.au/Search/ResultsActive?SearchText=dorani）：**
+
+- 法定名 / 登记号：DORANI PTY LTD（ABR 登记为 Trading Name；实体名另有） · ABN 57 909 759 767（名称类型 Trading Name = DORANI PTY LTD；实体名 / 类型须 View 页） · 状态 **Active** · 成立 未取 · Pty Ltd 为商号；ABN 主体可能是信托 / 旧公司（ABR 显示 Trading Name）
+- 行业码 / 经营范围：楼宇对讲 / 门禁 / 视频对讲品牌 Dorani（墨尔本；自有品牌进口商 + 批发给安装商）
+- 注册地址：VIC 3121（Richmond，墨尔本内城）
+- 规模档：小型（自有品牌进口商；估 5–15 人）
+- 账目：—；—
+- 高管：Pete MONAGHAN — 研究档 KP（职务未核；收件 reception@ / support@ 均为公共箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Dorani 是墨尔本自有品牌对讲 / 门禁进口商（ABN 以 Trading Name 登记 = 老板用信托 / 旧壳经营）** → OEM 30%：Dorani 贴牌 4/8 口 PoE 配 IP 对讲（STI-054GP / STC-028GP），RCM 由其申报；写 Pete Monaghan 本人（不发 reception@）；100% 预付或 50/50；AU 周三 08–10
+  - 复查：ABR View 页看实体名（2026-11）
+- 备注：研究档 legal_name 回填（含 ABR 类型备注）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,14 +144,15 @@ updated: 2026-10-27
 - **【用户表】CCTV 全品类 + 自有 logo**
   > CCTV相关的都卖 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Pete Monaghan（） 〔用户表〕
+- **KP**：Pete Monaghan（职务未核；Dorani 为墨尔本自有品牌对讲 / 门禁进口商（ABR 以 Trading Name 登记 → 老板用信托 / 旧壳经营）→ 下一封写他本人（第 89 批 官方登记核实 2026-10-27）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
+| 法定名称 | DORANI PTY LTD（ABR 名称类型 Trading Name，ABN 57 909 759 767；VIC 3121 Richmond；实体名待 View 页） |
+| 总部/地址 | Richmond VIC 3121（墨尔本）（第 89 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 dorani.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：安防系统安装（澳洲）；安防批发 / 供应（自有 DORIP 品牌）
@@ -250,7 +265,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pete Monaghan | — | — | 调研核实（公开页） | 用户表 |
+| Pete Monaghan | 职务未核；Dorani 为墨尔本自有品牌对讲 / 门禁进口商（ABR 以 Trading Name 登记 → 老板用信托 / 旧壳经营）→ 下一封写他本人（第 89 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 21 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

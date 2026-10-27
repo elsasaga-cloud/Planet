@@ -37,7 +37,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Fiammetta Cometto",
+   "role": "Presidenta del Consejo de Administración（董事会 7 人；意大利姓 → 推定意资控股）—— 不直接写；2026-10-21 BORME 合并吸收 → 2027-01 后写产品管理 / compras（第 89 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.einforma.com/informacion-empresa/golmar-sistemas-comunicacion"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -46,8 +54,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "西班牙",
-  "other": "官网 golmar.es，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+  "hq": "C/ Silici 13-25, Pol. Ind. Famades, 08940 Cornellà de Llobregat (Barcelona)（第 89 批 官方登记核实 2026-10-27）",
+  "other": "官网 golmar.es，语言 en-GB，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "GOLMAR SISTEMAS DE COMUNICACIÓN, S.A.（CIF A08370314；RM Barcelona tomo 24.484 folio 192；资本 €1,239,400.23；曾用名 Sistemas de Comunicación Golmar SA）",
+  "founded": "1975-04-09（Registro Mercantil 镜像）（第 89 批 官方登记核实 2026-10-27）",
+  "staff": "100–112 人（2022–2026）；销售 €6–30M 区间；CNAE 2640；审计 Gabinete Audiwork；**BORME 2026-10-21 Fusión y absorción**（第 89 批 官方登记核实 2026-10-27）",
+  "size": "中型（对讲 / 视频门禁制造商）（第 89 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "楼宇可视对讲 / 安防系统制造（自有品牌 Golmar）"
