@@ -1,0 +1,81 @@
+# XB-M136 · Last Mile Gear · 美国
+
+> **初判 XB 慢慢跟进** ｜ 来源 mikrotik-info `A-096`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+
+## 1. 初判与理由
+- 初判：**XB** — 主攻区但没有可用邮箱（只有表单或地址失效）→ 先 XB，补到邮箱再升
+- 标记：无可用邮箱、有停用地址、缺联系
+- 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
+- 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
+
+## 2. 基本事实（来源库口径，未经本库复核）
+| 项 | 内容 |
+|---|---|
+| 公司 | Last Mile Gear |
+| 国家 / 城市 | 美国 / Washington |
+| ISO | US |
+| 网站 | —（无公开站点） |
+| 类型 / 角色 | WISP 集成商/代理（Netonix） |
+| 在卖品牌（反向信号） | Netonix 授权渠道（WISP 接入层交换机） |
+| 自有品牌 | 否 |
+| 切入点（来源库） | WISP 接入层替换 |
+| 组织 / 模式（来源库推断） | 个体顾问（无官网） / 顾问项目制 |
+| 他们首推（仅参考，不照搬） | STC-424XGGPM-280W |
+| 来源库优先级 / 状态 | ★★★ / 01-已跟进一轮（用户报告；具体日期/收件人未逐户记录） |
+| 来源库之来源 | Netonix 官方分销/代理名录 |
+| 来源库备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商，名字直指「最后一公里」，WISP 属性明确。 【2026-09-27 挖邮箱·真邮箱】官网与 X（@LastMileGear）双向印证；另有 info@lastmilegear.com。自述卖 Cambium / SAF 等 WISP 设备【2026-09-29 退信批】info@ not-found 永久停用，主走 sales@，X（@LastMileGear）为第三通道。 |
+| 来源库评级依据 | 有明确交换/供电需求（交换专长），三星重点 |
+| 来源文件 | `profile/A/A-096-Last Mile Gear-美国.md` @ elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)（更新 2026-10-12） |
+
+来源库「基本事实」表（原样）：
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Last Mile Gear（CSV 原样；登记名以调研为准） | 事实 |
+| 国家/城市 | 美国 / Washington | 事实 |
+| 网站 | —（无公开站点） | 事实 |
+| 类型 | WISP 集成商/代理（Netonix） | 事实（CSV 名录口径） |
+| 反向信号（资质/品牌） | Netonix 授权渠道（WISP 接入层交换机） | 事实（名录/自报口径） |
+| 组织性质 | 个体顾问（无官网） | 【推断】 |
+| 商业模式 | 顾问项目制 | 【推断】 |
+| 团队规模 | 一人/微型 | 【推断】 |
+| 决策链 | 短（本人即决策） | 【推断】 |
+
+## 3. 联系方式
+- 邮箱：sales@lastmilegear.com（停用）
+- 邮箱：info@lastmilegear.com（停用）
+- 来源库入口字段：sales@lastmilegear.com【主通道】；X（@LastMileGear）第三通道；info@lastmilegear.com【永久停用：2026-09-29 退信 not-found】。自述卖 Cambium / SAF 等 WISP 设备
+
+来源库「联系方式」段原文：
+
+> - **邮箱**：sales@lastmilegear.com
+>   - 状态：既有/公开
+> - **电话**：2026-09-29
+> - 来源等级：official-channel（R41–R48 联系方式台账口径）
+> - **原始联系字段**：sales@lastmilegear.com【主通道】；X（@LastMileGear）第三通道；info@lastmilegear.com【永久停用：2026-09-29 退信 not-found】。自述卖 Cambium / SAF 等 WISP 设备
+> 
+> 
+> - **退信实测（2026-09-29）**：`info@lastmilegear.com` 地址不存在（address couldn't be found / unable to receive mail）→ 停用该地址；替代通道：sales@lastmilegear.com（官网与 X(@LastMileGear) 双向印证，CSV 主联系）
+>   > 处置：info@ 判定不存在→永久停用；主通道=sales@；X 私信作第三通道
+
+## 4. 关键人（KP）
+- 无（待挖）
+
+## 5. 证据与来源 URL（来源库）
+- 无
+
+## 6. 已知触达
+- Saga S 箱 2026-09/10 群发名单：未匹配到本户邮箱
+- 来源库核验 / 退信摘录：
+  - R71 本轮跟进与邮件回执（2026-10-12）
+    - - **历史地址级例外**：本档已有较早的精确退信记录；继续跟进时遵守原记录的替代渠道/停止重投标记。R71 不清除或改写旧例外。
+
+## 7. 我方产品线提示
+- SmartByte 商用管理型（Marvell）为主 + Saga STI 工业系列补位（MikroTik/Allied/工业品牌渠道，缺的是性价比管理型与工业 PoE）
+- 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
+- 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
+
+## 8. 研究与跟进（第 2 步起填）
+- 研究状态：未研究
+- 研究结论 / 升降建议：—
+- 下一步：—

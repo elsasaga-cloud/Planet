@@ -1,0 +1,98 @@
+# XC-E001 · STORDIS GmbH（及 STORDIS Limited 英国） · 德国/英国
+
+> **初判 XC 暂不管** ｜ 来源 Edgecore `A-003`（原评级 A，阶段 未接触） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+
+## 1. 初判与理由
+- 初判：**XC** — 与 Saga Clients 重叠（SB-888，经 stordis.com）→ 以 Saga 档为准，本条不单独跟
+- 标记：重复=Saga
+- 与 Saga Clients 重叠：**SB-888**（Saga 评级 B，经域名 stordis.com）→ 以 Saga 档为主；本条只保留来源库事实
+- 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
+
+## 2. 基本事实（来源库口径，未经本库复核）
+| 项 | 内容 |
+|---|---|
+| 公司 | STORDIS GmbH（及 STORDIS Limited 英国） |
+| 国家 / 城市 | 德国/英国 |
+| ISO | DE |
+| 网站 | stordis.com |
+| 类型 / 角色 | 开放网络专业分销+集成+24/7 TAC |
+| 量级（来源库推断） | 中高（欧洲开放网络专业渠道） |
+| 需求标签（来源库） | 白牌/开放网络硬件货源、OEM、长期供货与交期、技术支持 |
+| 风险标签（来源库） | 对品质/支持要求高、与Edgecore关系深 |
+| 他们首推（仅参考，不照搬） | 白牌/开放网络接入层（可谈OEM）待核价 |
+| 来源文件 | `profile/A/A-003-STORDIS GmbH-德国.md` @ elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)（更新 2026-10-27） |
+
+来源库「基本事实」表（原样）：
+
+| 项 | 内容 |
+|---|---|
+| GmbH：Rübteile 24, 72574 Bad Urach / Rosenwiesstr.17, 70567 Stuttgart；+49 711 342 158 0；info@stordis.com | 事实（官网/名录） |
+| Limited（英国）：Pershore WR10 1DP（名录口径） | 事实（Edgecore 名录） |
+| 自述 "Open Networking Expert"，11-50 人（LinkedIn），2007 成立 | 事实（LinkedIn） |
+| 参与 IPNexia 开放网络数据中心（自述案例页） | 事实（stordis.com） |
+| 需要多供应商硬件底座 | 【推断】依据：开放网络分销定位 |
+
+## 3. 联系方式
+- 邮箱：info@stordis.com（首选）
+- 邮箱：enquiries@stordis.com（首选）
+- 邮箱：waldemar.scheck@stordis.com（首选）
+- 邮箱：alexander.scheck@stordis.com（公开）
+- 电话：+49 711 342 158 0（内部用，不进外发材料）
+
+来源库「联系方式」段原文：
+
+> - **邮箱**：info@stordis.com / enquiries@stordis.com（官网）；**waldemar.scheck@stordis.com**（Chelsio 伙伴页公开的 CEO 直达邮箱）
+> - **电话**：+49 711 342 158 0
+> - **网站**：stordis.com
+
+## 4. 关键人（KP）
+> - **Waldemar Scheck — CEO**（2007 年加入公司，2020 年任 CEO；兼 route2open Chief Enablement Officer）【事实：官网 About/Careers + RocketReach】→ 决策层直达邮箱已公开（见 §6），首触可点名但建议先走 info@ 并抄送逻辑待用户定
+> - Alexander Scheck（培训/学院线，Alexander.Scheck@stordis.com，LinkedIn 公司页公开）
+> - Kamal Bhatt — Head of Value Driven Software Delivery（OCP EMEA 2025 议程署名，软件线负责人）
+
+## 5. 证据与来源 URL（来源库）
+- 无
+
+> - stordis.com（about-us/contact/case）；LinkedIn 公司页；Edgecore EMEA 分销/经销名录
+
+## 6. 已知触达
+- Saga S 箱 2026-09/10 群发名单：未匹配到本户邮箱
+- 来源库跟进记录：
+
+| 列1 | 列2 | 列3 | 列4 | 列5 | 列6 |
+|---|---|---|---|---|---|
+| 2026-10-18 | — | 建档 | — | 未联系 | 首触待排 |
+- 来源库核验 / 退信摘录：
+  - R15 深度核验（2026-10-19）
+    - - **规模定版**：2007 年成立，LinkedIn 口径 11-50 人，团队分布德国/波兰/英国，设 24/7 国际 TAC【事实：官网 About】
+  - R18 A类增量加厚（2026-10-19）
+    - - **现行域名与邮件基础设施**：主域名 `stordis.com` 于 2026-10-19 经公共 DNS（8.8.8.8）实查：A 记录 `82.165.141.86`；MX `10 mx01.hornetsecurity.com, 20 mx02.hornetsecurity.com, 30 mx03.hornetsecurity.com, 40 mx04.hornetsecurity.com`；邮件平台特征为 **Hornetsecurity邮件网关**。判定：**A与MX均存在**。
+    - - **官方渠道快照对账**：仓库留存的 Edgecore 官方渠道快照（2026-10-18，分区 `emea-distributors`）载：地址 **Rübteile 24, 72574 Bad Urach / Rosenwiesstr.17, 70567 Stuttgart**；电话 +49-711-342 158 0；渠道定位 分销商。此项用于补齐主体地址并与档内电话对账；若与本档 R15 后段更新的登记/官网字段冲突，以后段为准。
+    - - **口径边界**：DNS 阳性仅证明域名与收信基础设施在查询时存在，不证明任一具体邮箱可投递、人员仍在职或有采购意愿；KP/邮箱仍以本档 R15 定版为准。结构化底稿见 `batch/contact_research-2026-10-19_R18_A类增量加厚.json`。首触仍由用户执行，Agent 不发信。
+  - R23 存量客户全量加厚（2026-10-25）
+    - - **域名与托管指纹**：主域`stordis.com`为A与MX均存在；网站IPv4 `82.165.141.86`（AS8560 IONOS-AS - IONOS SE, DE），AAAA 1条；邮件入口 `mx01.hornetsecurity.com`、`mx02.hornetsecurity.com`等4条（平台特征：Hornetsecurity邮件网关）；NS托管特征为mk.de。
+    - - **邮件认证与发信系统信号**：SPF已发布（Hornetsecurity、Zendesk，结尾`-all`）；未见公开DMARC政策；CAA授权CA：sectigo.com、letsencrypt.org、digicert.com。SPF include只说明该域授权过的发信系统，不证明采购量或具体邮箱可投递。
+    - - **公开服务面（DNS）**：检出`support.stordis.com`（Zendesk）。子域存在只证明DNS/服务配置，不单独证明页面当前可用或交易活跃。
+    - - **跟进与证据边界**：用户已表示存量客户基本完成一轮跟进；未逐档回传送达/回复结果的，本轮不虚构已送达和已回复。DNS为2026-10-25经8.8.8.8查询快照，结构化底稿见`batch/contact_research-2026-10-25_R23_存量客户全量加厚.json`。Agent不发信。
+  - R24 质量复核与纠错加厚（2026-10-25）
+    - - **R24 前质量快照**：实质行 60、跨档出现 ≤3 档的专属行 53、≤10 档的稀有行 57、外链来源域 2 个、全档去重邮箱 4 个；启发式审计分 78/100（主体 12/15、联系 18/20、KP 15/15、业务专属度 15/20、证据 11/20、可执行性 7/10、风险扣分 0）。该分只用于找薄弱档，不证明每条历史事实都正确。
+    - - **联系/KP 定版**：首选邮箱为 `enquiries@stordis.com`（状态 `public_primary_email_recorded`）；KP 状态 `named_multiple_candidates`，结构化抽到：Waldemar Scheck、Kamal Bhatt。自动抽取不替代原文的来源、日期和限定语；个人邮箱仅在公开披露且主体一致时保留。
+    - - **外部事实边界**：本档本轮没有新增可核验的外部公司事实；既有官网、厂商名录、登记、新闻稿和第三方材料继续按原段来源与日期分层。R23 的 DNS/GitHub 只证明基础设施或技术活动，不证明采购量、人员在职或交易意愿。
+    - - **未闭合项**：用户逐档送达/回复结果未回填；现行采购型号、月量和认证要求未由客户确认。
+    - - **下一证据路径**：以客户回复或询价确认现行采购型号、月量、认证与进口路径；报价前重新核 SmartByte 成本、汇率和有效期。
+    - - **证据纪律**：未核实内容不得拼造邮箱、人物、职务或交易关系；第三方员工/营收估算只作单源线索，官网自述与审计/登记事实分开；用户“基本跟进完了”仍不转写为逐档已送达或已回复。Agent 不发信。
+  - R25 运营化加厚与定向复核（2026-10-27）
+    - - **决策链工作图**：已实名候选为 Waldemar Scheck、Kamal Bhatt；下一步不是再堆姓名，而是逐人确认谁拥有产品导入、技术验收和 PO 签核权，避免把高管、销售或工程师自动写成采购 KP。
+    - - **触达顺序与停发规则**：只走一条已记录主线，不并行轰炸备址。下一证据路径：以客户回复或询价确认现行采购型号、月量、认证与进口路径；报价前重新核 SmartByte 成本、汇率和有效期。 Agent 不发信、不排期；若主口已拦截/失败，不原样重发或并行轰炸人事、支持、财务口。
+    - - **风险与未闭合项**：风险标志：无 R24 已登记的专项风险（不等于无交易风险）。未闭合：用户逐档送达/回复结果未回填；现行采购型号、月量和认证要求未由客户确认。
+    - - **R25结论边界**：运营化条目是基于档内既有证据与本轮定向来源的工作框架，不证明现行采购意愿、人员在职、邮箱可投递或订单量；新增外部事实只以本段逐项来源与限定语为准。
+
+## 7. 我方产品线提示
+- OEM / 贴牌 + 低价标品（Edgecore 渠道已习惯白牌/开放网络，拿价格与贴牌能力切）
+- 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
+- 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
+
+## 8. 研究与跟进（第 2 步起填）
+- 研究状态：未研究
+- 研究结论 / 升降建议：—
+- 下一步：—

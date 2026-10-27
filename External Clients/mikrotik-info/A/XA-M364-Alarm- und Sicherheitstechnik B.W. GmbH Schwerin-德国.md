@@ -1,0 +1,97 @@
+# XA-M364 · Alarm- und Sicherheitstechnik B.W. GmbH Schwerin · 德国
+
+> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-136`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+
+## 1. 初判与理由
+- 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
+- 标记：S箱已群发
+- 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
+- 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
+
+## 2. 基本事实（来源库口径，未经本库复核）
+| 项 | 内容 |
+|---|---|
+| 公司 | Alarm- und Sicherheitstechnik B.W. GmbH Schwerin |
+| 国家 / 城市 | 德国 / Schwerin |
+| ISO | DE |
+| 网站 | https://www.alarm-as.de |
+| 类型 / 角色 | 集成商/代理（Allied Telesis） |
+| 在卖品牌（反向信号） | Allied Telesis（Marvell Prestera 接入层） |
+| 自有品牌 | 否 |
+| 切入点（来源库） | Marvell Prestera 接入层切入 |
+| 组织 / 模式（来源库推断） | 公司/工作室（有官网） / 工程/集成项目制 |
+| 他们首推（仅参考，不照搬） | STC-424XGGPM-280W |
+| 来源库优先级 / 状态 | ★★★ / 01-已跟进一轮（用户报告；具体日期/收件人未逐户记录） |
+| 来源库之来源 | Allied Telesis 官方伙伴定位器（?country=germany） |
+| 来源库备注 | 伙伴等级：Resell。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。官网 Impressum 同时列出 Schwerin 分支；此为公司公共邮箱，可要求转 Schwerin，非已确认分支专属邮箱。 来源：[4](https://www.alarm-as.de/kontakt/impressum) |
+| 来源库评级依据 | 【人工定级】A —— 自动规则已跳过；人工指定 |
+| 来源库人工定级 | A |
+| 来源文件 | `profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md` @ elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)（更新 2026-10-12） |
+
+来源库「基本事实」表（原样）：
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Alarm- und Sicherheitstechnik B.W. GmbH Schwerin（CSV 原样；登记名以调研为准） | 事实 |
+| 国家/城市 | 德国 / Schwerin | 事实 |
+| 网站 | https://www.alarm-as.de | 事实 |
+| 类型 | 集成商/代理（Allied Telesis） | 事实（CSV 名录口径） |
+| 反向信号（资质/品牌） | Allied Telesis（Marvell Prestera 接入层） | 事实（名录/自报口径） |
+| 组织性质 | 公司/工作室（有官网） | 【推断】 |
+| 商业模式 | 工程/集成项目制 | 【推断】 |
+| 团队规模 | 有官网组织，规模未量化 | 【推断】 |
+| 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+## 3. 联系方式
+- 邮箱：info@alarm-as.de（首选）
+- 邮箱：ohaase@alarm-as.de（公开）
+- 邮箱：rvalentini@alarm-as.de（公开）
+- 邮箱：rlange@alarm-as.de（公开）
+- 电话：+49 40 7148600（内部用，不进外发材料）
+- 来源库入口字段：info@alarm-as.de [Publicly listed; delivery not tested]; https://www.alarm-as.de
+
+来源库「联系方式」段原文：
+
+> - **邮箱**：info@alarm-as.de
+>   - 状态：既有/公开
+> - **电话**：—
+> - 来源等级：official（R41–R48 联系方式台账口径）
+> - **原始联系字段**：info@alarm-as.de [Publicly listed; delivery not tested]; https://www.alarm-as.de
+> - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+>   - **Oliver Haase**(Abteilungsleiter Video(视频监控部门主管 LI 现场公章,O 级);大型视频监控系统 PoE 需求源最直口=P0)— ohaase@alarm-as.de(推断,送完核)/+49 40 7148600 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh〕
+>   - **Robert Valentini**(Geschäftsführer(总经理 LI 现场公章,O 级);30+ 年认证商采决快链)— rvalentini@alarm-as.de(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh〕
+>   - **Roland Lange**(Niederlassungsleiter Standort Westfalen(分点主管 LI 公章,O 级);Halle Westf 项目带)— rlange@alarm-as.de(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh〕
+>   - **Lutz Heldt**(Geschäftsführer(执行董事;2016-08 入职位,einzelvertretungsberechtigt,Kisdorf))— webvalid 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE〕
+>   - **Frank Christian Müller**(Geschäftsführer(执行董事;**2026-07-01 新登记**,*1972-12-29,Lippstadt))— creditreform 登记公告谱 〔已有(公司官方公开件/登记册自曝);源:https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH〕
+>   - **Thomas Niemann**(Geschäftsführer 谱位(登记册历史入谱))— webvalid 登记册谱(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE〕
+>   - **Hans-Olaf Beckmann**(原 Geschäftsführer(2018 变谱;**2026-07-01 Austritt**;DNB Key Principal 旧谱留痕))— DNB+creditreform 双源谱(DNB 滞) 〔已有(公司官方公开件/登记册自曝);源:https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH〕
+
+## 4. 关键人（KP）
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 | 性质 |
+|---|---|---|---|---|---|
+| Oliver Haase | Abteilungsleiter Video(视频监控部门主管 LI 现场公章,O 级);大型视频监控系统 PoE 需求源最直口=P0 | ohaase@alarm-as.de(推断,送完核)/+49 40 7148600 台口转 | LI 公章 O 级;邮箱推断 G 级 | https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh | 实名 |
+| Robert Valentini | Geschäftsführer(总经理 LI 现场公章,O 级);30+ 年认证商采决快链 | rvalentini@alarm-as.de(推断) | LI 公章 O 级;邮箱推断 G 级 | https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh | 实名 |
+| Roland Lange | Niederlassungsleiter Standort Westfalen(分点主管 LI 公章,O 级);Halle Westf 项目带 | rlange@alarm-as.de(推断) | LI 公章 O 级;邮箱推断 G 级 | https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh | 实名 |
+| Lutz Heldt | Geschäftsführer(执行董事;2016-08 入职位,einzelvertretungsberechtigt,Kisdorf) | webvalid 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE | 实名 |
+| Frank Christian Müller | Geschäftsführer(执行董事;**2026-07-01 新登记**,*1972-12-29,Lippstadt) | creditreform 登记公告谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH | 实名 |
+| Thomas Niemann | Geschäftsführer 谱位(登记册历史入谱) | webvalid 登记册谱(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE | 实名 |
+| Hans-Olaf Beckmann | 原 Geschäftsführer(2018 变谱;**2026-07-01 Austritt**;DNB Key Principal 旧谱留痕) | DNB+creditreform 双源谱(DNB 滞) | official-self-published·谱/leads-only(直发需 opt-in) | https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH | 实名 |
+
+## 5. 证据与来源 URL（来源库）
+- https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh
+- https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH
+- https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH
+- https://www.alarm-as.de
+
+## 6. 已知触达
+- Saga S 箱群发：「24 Port PoE Managed Switch」→ info@alarm-as.de，首次 2026-09-29，最后 2026-09-29，去信 1，来信 0（对账源 `data/gmail_s/2026-09_10群发名单_未入库.csv`；来信含自动回复，需人工看）
+
+## 7. 我方产品线提示
+- SmartByte 商用管理型（Marvell）为主 + Saga STI 工业系列补位（MikroTik/Allied/工业品牌渠道，缺的是性价比管理型与工业 PoE）
+- 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
+- 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
+
+## 8. 研究与跟进（第 2 步起填）
+- 研究状态：未研究
+- 研究结论 / 升降建议：—
+- 下一步：—
