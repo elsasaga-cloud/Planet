@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 28
+  "count": 31
  },
  "rows": {
   "SA-086": {
@@ -923,6 +923,98 @@
    "notes": "研究档 KP 空 → 新增 Murat Köksal。",
    "fetched": "2026-10-27",
    "code": "SB-688"
+  },
+  "SB-738": {
+   "batch": 91,
+   "name": "NETMAX TELEKOMÜNİKASYON İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ（Çerkezköy / Tekirdağ；ISP）",
+   "iso": "TR",
+   "source": "TR · 1 次检索：LinkedIn 公司页（2016 起企业 + 个人互联网服务，11–50 人，Çerkezköy）+ D&B（法定全名；Gazi Mustafa Kemal Paşa Mah. Öztırak Cad. No:141 Çerkezköy 59500；Key Principal Ugur Simsek, Manager）+ TRNOG 社区名单（Uğur Şimşek = Netmax 代表）",
+   "url": "https://www.linkedin.com/company/netmaxtr",
+   "number": "未取（Mersis 未命中）",
+   "status": "Aktif",
+   "incorporated": "2016",
+   "company_type": "Limited Şirket",
+   "sic": [
+    "区域 ISP（有线 / 无线接入、企业专线；Tekirdağ Çerkezköy 工业区）"
+   ],
+   "address": "Gazi Mustafa Kemal Paşa Mah. Öztırak Cad. No:141, 59500 Çerkezköy / Tekirdağ",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "Uğur ŞİMŞEK — Manager / 业主（D&B Key Principal；TRNOG 成员；研究档 ISAF 名片）= 老板 = 联系人（WhatsApp 已加）"
+   ],
+   "psc": "Şimşek（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**ISAF 名片上的 Uğur Şimşek 就是 Netmax 的老板，而 Netmax 是切尔凯兹柯伊工业区的 ISP —— ISP 买的是接入交换机 + 给无线 CPE 供电的 PoE，不是 CCTV 套装** → WhatsApp 一页价：STI-0240GE 24 口管理型 $130、光口上联 STC-110XGE $65、室外 PoE 供电款 STI-154GP；分销 20%、CE；TR 周四 10–12",
+    "不说：不提 TRNOG"
+   ],
+   "notes": "研究档 KP Uğur Şimşek 角色补 Manager / 业主。",
+   "fetched": "2026-10-27",
+   "code": "SB-738"
+  },
+  "SB-723": {
+   "batch": 91,
+   "name": "BİLGEN ELEKTRONİK GÜVENLİK SİSTEMLERİ TEKNOLOJİLERİ YAZILIM ELEKTRİK MAKİNA SAN. VE TİC. LTD. ŞTİ.（Gebze / Kocaeli）",
+   "iso": "TR",
+   "source": "TR · 1 次检索：iletisimadresleri 名录（法定全名；Osman Yılmaz Mah. 607/1 Sok. No:21, 41400 Gebze；+90 262 643 61 18 / +90 532 284 46 18；类别：电信 / 报警 - 摄像机 - 安防）+ LinkedIn 个人页「bilgenelektronik」（447 人脉）",
+   "url": "https://www.iletisimadresleri.com/en/bilgen-elektronik-854751",
+   "number": "未取",
+   "status": "Aktif",
+   "incorporated": "未取",
+   "company_type": "Limited Şirket",
+   "sic": [
+    "安防 / 报警 / CCTV + 电气 / 机械 安装（Gebze 工业区集成商）"
+   ],
+   "address": "Osman Yılmaz Mah. 607/1 Sok. No:21, 41400 Gebze / Kocaeli",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（估 3–10 人）",
+   "officers": [
+    "İbrahim（姓氏待核）— 研究档 ISAF 名片联系人（仅 WhatsApp）；推定业主"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Gebze 工业区的安防 + 电气小集成商（法定名含「电气 / 机械」= 工厂弱电承包）** → WhatsApp 一页价：工业 DIN PoE（STI-054GP / STI-154GP）+ 8/16 口 PoE，分销 20%，100% 预付；TR 周四 10–12",
+    "不再检索"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-723"
+  },
+  "SB-565": {
+   "batch": 91,
+   "name": "Marmaris Bilişim（Marmaris Wifi；Marmaris / Muğla）",
+   "iso": "TR",
+   "source": "TR · 1 次检索（顺带命中）：şikayetvar 结构化数据（Marmaris Bilişim，Sarıana Mah. Mustafa Kemal Paşa Cad. No:19，info@marmarisbilisim.com.tr）+ livenet.com.tr hakkımızda（「Marmaris Bilişim / Marmaris Wifi」为企业提供专属套餐 = 本地无线 ISP / 网店）",
+   "url": "https://www.sikayetvar.com/marmaris-bilisim",
+   "number": "未取（推定 şahıs 个体）",
+   "status": "Aktif（域 marmarisbilisim.com.tr 在用）",
+   "incorporated": "未取",
+   "company_type": "推定 şahıs",
+   "sic": [
+    "电脑 / 网络零售 + 本地 Wi-Fi 接入服务（Marmaris 度假区酒店 / 商铺）"
+   ],
+   "address": "Sarıana Mah. Mustafa Kemal Paşa Cad. No:19, Marmaris / Muğla",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（1–5 人）",
+   "officers": [
+    "店主（姓名待核）— 研究档：不会英文（土耳其语沟通）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**马尔马里斯度假区的一人店 + 本地 Wi-Fi 服务商（酒店 / 商铺场景）** → 土耳其语 WhatsApp 一页价：8/16 口 PoE + 室外 PoE 供电款，100% 预付、MOQ 1 箱；更划算的是让他从 TR 分销户拿货；一封无回即停"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-565"
   }
  }
 }

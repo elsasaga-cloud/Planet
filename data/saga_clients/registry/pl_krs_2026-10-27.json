@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 9
+  "count": 10
  },
  "rows": {
   "SA-023": {
@@ -311,6 +311,38 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SB-1041"
+  },
+  "SB-574": {
+   "batch": 91,
+   "name": "IMPAKT S.A.（品牌 Lanberg；Mosina / Poznań）",
+   "iso": "PL",
+   "source": "PL · 1 次检索：lanberg.eu privacy / regulamin（管理人 Impakt S.A.，ul. Stanisława Lema 16, 62-050 Mosina，KRS 0000585900，NIP 7831720485，REGON 360441981，**股本 60,761,002 zł**）+ impakt.com.pl about + LinkedIn Lanberg showcase（品牌 2015 创立，2017 Impakt S.A. 签许可并取得 Lanberg 品牌权；51–200 人）+ 零售商产品页「producent / podmiot odpowiedzialny = IMPAKT SPÓŁKA AKCYJNA」",
+   "url": "https://en.impakt.com.pl/about",
+   "number": "KRS 0000585900 · NIP 7831720485 · REGON 360441981",
+   "status": "Aktywna",
+   "incorporated": "2015（S.A. 登记 2015-10；Impakt 集团更早，同址 Impakt sp. z o.o. KRS 0000143241 = 物业壳）",
+   "company_type": "Spółka akcyjna（股本 60.76M zł）",
+   "sic": [
+    "IT 配件 / 网络产品 **自有品牌制造商 + 分销商**：Lanberg（机柜 / 跳线 / PDU / 网络配件 / 交换机）、Natec、Genesis 等；波兰 + 欧盟零售 / B2B 渠道"
+   ],
+   "address": "ul. Stanisława Lema 16, 62-050 Mosina（波兹南南）",
+   "accounts": "KRS 年报可取（未取）；股本 60.76M zł = 大型",
+   "accounts_due": "PL 年报 7 月",
+   "size_band": "大型（Lanberg 品牌页 51–200；Impakt 集团数百人）",
+   "officers": [
+    "Zarząd 未取（KRS 付费 / rejestr.io 下轮）；研究档无 KP（lanberg.pl 域）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**硬发现：lanberg.pl 不是小店 —— Lanberg 是 Impakt S.A.（股本 6,076 万 zł 的波兰 IT 配件集团）的自有品牌，产品线里本来就有交换机 = 《背景信息》第一序列 OEM 品牌商** → 写 Lanberg product manager（Impakt 采购）：OEM 30% Lanberg 标 PoE 4/8/16/24 + 2.5G，彩盒 $2.5/套、CE/RoHS/REACH 文件齐、EU 代表由他们；先 2 台付费样机；PL 周四 12–14",
+    "不说：不提其现有 ODM；不提 Natec / Genesis",
+    "复查：rejestr.io 取 zarząd + 2025 年报营收"
+   ],
+   "notes": "研究档 KP 空；国别 PL 不变。",
+   "fetched": "2026-10-27",
+   "code": "SB-574"
   }
  }
 }

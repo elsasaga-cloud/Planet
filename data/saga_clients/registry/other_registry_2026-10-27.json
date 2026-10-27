@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 32
+  "count": 41
  },
  "rows": {
   "SA-061": {
@@ -992,6 +992,297 @@
    "notes": "合规标注（内部）。",
    "fetched": "2026-10-27",
    "code": "SB-258"
+  },
+  "SB-375": {
+   "batch": 91,
+   "name": "DELTA CONSULTING LLC（dc.ge；Tbilisi, Georgia）",
+   "iso": "GE",
+   "source": "GE · US SAM 镜像 1 页（opengovus.com/sam-entity/J9LKEG5JR7D6）：UEI J9LKEG5JR7D6，CAGE SJFH4，LLC（2K / LJ），业务始于 2014-01-08，SAM 注册 2020-07-13、激活 2021-06-17、**2022-07-14 到期（Expired，未续）**，NAICS 541512 计算机系统设计 + 423690 电子零部件批发，E-Business / Government POC = CEO GEORGE JALIASHVILI，72 O. Oniashvili Str., Tbilisi 0160；**同名陷阱**：Delta Consulting LLC（Oxford MS，WE3LB56YJQA7）无关",
+   "url": "https://opengovus.com/sam-entity/J9LKEG5JR7D6",
+   "number": "SAM UEI J9LKEG5JR7D6 · CAGE SJFH4（格鲁吉亚登记号未取）",
+   "status": "Active（公司）；SAM 注册 Expired 2022-07-14",
+   "incorporated": "2014-01-08（SAM business start）",
+   "company_type": "LLC（შპს）",
+   "sic": [
+    "NAICS 541512 计算机系统设计 + 423690 电子设备批发（IT / 网络集成商；曾备案美援 / 美军采购资格）"
+   ],
+   "address": "72 O. Oniashvili Str., Tbilisi 0160, Georgia",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（估 10–30 人）",
+   "officers": [
+    "George JALIASHVILI — CEO / Partner（SAM POC；研究档 KP george@dc.ge）= 老板 = 联系人",
+    "Daviti GIORGADZE — Commercial Director（研究档 KP sales@dc.ge）"
+   ],
+   "psc": "Jaliashvili（推定合伙人）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：第比利斯 IT 集成商，2020–2022 曾注册美国 SAM（NAICS 含电子设备批发）= 做过美援 / 国际招标项目，之后没续** → 写 George 抄 Daviti：集成 25%，管理型 24 口 + 10G 上联（招标常要 L2+/L3 规格书 → 给 Marvell 线英文规格）、CE/RoHS，格鲁吉亚无强制认证；GE UTC+4，周四 10–12 = 北京 14–16",
+    "不说：不提 SAM 到期；不提美援"
+   ],
+   "notes": "研究档 KP 角色已全；补 facts。",
+   "fetched": "2026-10-27",
+   "code": "SB-375"
+  },
+  "SB-011": {
+   "batch": 91,
+   "name": "GREEN TECHNICAL LLC（greentechme.net；Ajman / Dubai, UAE）",
+   "iso": "AE",
+   "source": "AE · 1 次检索：greentechme.net 首页 / about（法定名 **Green Technical LLC**，P.O. Box 22511 Ajman + P.O. Box 238376 Dubai，sales@greentechme.net；首页主推 PoE 媒体转换器 / PoE 延长器 NEPX101/201 / PoE 中继 NEPR-111 = 自有型号 PoE 配件 + 网络 / 安防安装供货）；**同名陷阱**：GreenTech Inspiring Environment（greentech.ae 清洁能源）/ Greentech Middle East（巴林环境监测）/ greentech-ae.com（工业自动化）均非本户；UAE 登记（Ajman DED）不公开",
+   "url": "https://greentechme.net/",
+   "number": "未取（Ajman 执照不公开）",
+   "status": "Active（官网在用）",
+   "incorporated": "未取",
+   "company_type": "LLC",
+   "sic": [
+    "IT 网络 + 安防安装供货商；自有型号 PoE 配件（延长器 / 中继 / 媒转）= 小型 OEM 品牌 + 项目供货"
+   ],
+   "address": "P.O. Box 22511, Ajman；P.O. Box 238376, Dubai（UAE）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（估 3–10 人）",
+   "officers": [
+    "Shaji — 研究档 KP（WhatsApp 下单人；推定业主 / 采购主管）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已成交 2 单（研究档）；官网自有型号 PoE 配件 = 他们已经在贴牌卖配件，交换机也可贴** → WhatsApp 给 Shaji：OEM 30% 自有标 PoE 4/8/16 + 延续已买型号的复购价（按 ㉕ 用上次成交价）；彩盒 $2.5/套从 200 起；T/T 50/50；AE 周日–周四 10–12 当地",
+    "不说：不提同名公司"
+   ],
+   "notes": "研究档 KP Shaji 角色补；law 名 Green Technical LLC 入 facts。",
+   "fetched": "2026-10-27",
+   "code": "SB-011"
+  },
+  "SB-013": {
+   "batch": 91,
+   "name": "SYNCHCOM (PVT.) LIMITED（Islamabad I-8/4；LigoWave 巴基斯坦分销）",
+   "iso": "PK",
+   "source": "PK · 1 次检索：synchcom.com.pk about（2005-02 依 Companies Ordinance 1984 成立，SECP / 销售税 / 所得税登记；IT & 电信方案 + 系统集成；服务电信运营商 / 政府 / 机构）+ LigoWave 官网分销名录（Distributor in Pakistan；+92-51-4864925/26；销售 +92-335-5225522）+ businesslist（693 Rehman Baba Road, Sector I-8/4, Islamabad）+ RocketReach（Senior MD Muhammad Babar；Director Muhammad Mehmood 2001 起 = 同时是 Sina Institute 创始人）+ PTA 型号核准名单（DLB5 2016-05、Dinstar IAD-80 2017-07 以 Synchcom 名义核准）；ClarifiedBy：2005 成立",
+   "url": "https://synchcom.com.pk/about-us/",
+   "number": "SECP 注册号未取",
+   "status": "Active",
+   "incorporated": "2005-02（RocketReach 称 2000）",
+   "company_type": "(Pvt.) Limited",
+   "sic": [
+    "IT / 电信集成 + 分销（LigoWave 无线、Dinstar 网关、MSAN / GEPON）；**有 PTA 型号核准经验（2016、2017 各一）**"
+   ],
+   "address": "693 Rehman Baba Road, Sector I-8/4, Islamabad 44000",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（估 10–30 人）",
+   "officers": [
+    "Muhammad BABAR — Senior Managing Director（RocketReach）= 拍板人",
+    "Muhammad MEHMOOD — Director（2001 起；兼 Sina Institute 创始人）",
+    "Asif — 研究档 KP（销售）"
+   ],
+   "psc": "Babar / Mehmood（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**伊斯兰堡电信分销商，自己替 LigoWave / Dinstar 办过 PTA 型号核准 = 有进口 + 认证经验（《背景信息》第二序列）** → 写 Asif 抄 Babar：分销 20% 24 口管理型 + 室外 PoE（配无线 CPE 场景），PTA 核准由他们、我方出 CE/RoHS + 测试报告；100% 预付或 LC；PK 当地 10–12 = 北京 13–15",
+    "不说：不提 PTA 名单"
+   ],
+   "notes": "研究档 KP Asif 角色补；新增 Babar / Mehmood。",
+   "fetched": "2026-10-27",
+   "code": "SB-013"
+  },
+  "SB-728": {
+   "batch": 91,
+   "name": "FAST-TRACK SYSTEMS & SERVICES PTE LTD（Eunos, Singapore）",
+   "iso": "SG",
+   "source": "SG · 既有调研建档（ACRA 镜像已在研究档：UEN 200002876C，2000-04-05 成立，豁免私人公司；113 Eunos Avenue 3 #04-18 Gordon Industrial Building 409838；+65 6749 6390）；本轮不再检索（ACRA Bizfile 付费、镜像无董事）",
+   "url": "https://www.sgpbusiness.com/company/Fast-Track-Systems-Services-Pte-Ltd",
+   "number": "UEN 200002876C",
+   "status": "Live Company",
+   "incorporated": "2000-04-05",
+   "company_type": "Exempt Private Company Limited by Shares",
+   "sic": [
+    "楼宇工程设计 / 顾问 + 弱电供货（样品单为 ONU）"
+   ],
+   "address": "113 Eunos Avenue 3 #04-18, Gordon Industrial Building, Singapore 409838",
+   "accounts": "豁免私人公司不公开",
+   "accounts_due": "—",
+   "size_band": "微型（1–10 人）",
+   "officers": [
+    "Alan TAN — 研究档 KP（alan_ftss@yahoo.com.sg；推定董事 / 业主）"
+   ],
+   "psc": "Tan（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**2000 年起的一人工程顾问 + 弱电供货，样品单买过 ONU（我方不供 GPON）** → 只回有需求的交换机线：8/16 口 PoE + 24 口管理型，集成 25%，SG 无强制认证、100% 预付；SG 当地 10–12 = 北京 10–12；一封无回即停"
+   ],
+   "notes": "既有事实建档，不新增 KP。",
+   "fetched": "2026-10-27",
+   "code": "SB-728"
+  },
+  "SB-001": {
+   "batch": 91,
+   "name": "RESONANT NETWORKS PTE. LTD.（R~Nets；Ubi, Singapore）",
+   "iso": "SG",
+   "source": "SG · 既有调研建档（研究档：UEN 202005761Z，2020-02-20 注册，前身实体 2013-06-14 起；81 Ubi Avenue 4 #09-28 UB.One 408830；+65 6871 4128；2025-03 ACRA 变更员工 3 → 11；RocketReach 营收 ≈ $3M；主业数据中心 / 电信 / 云运营商光网络工程 + 海缆项目 + AI-Ready 数据中心，产品 MTP/MPO 等）；本轮不再检索",
+   "url": "https://www.resonantnetworks.com/",
+   "number": "UEN 202005761Z",
+   "status": "Live Company",
+   "incorporated": "2020-02-20（业务 2013 起）",
+   "company_type": "Private Company Limited by Shares",
+   "sic": [
+    "数据中心 / 电信光网络工程 + 光纤测试 / 运维 + 海缆 SLTE 项目 + 光配线产品 = **DC 工程集成商（Simon 优先级：DC 交换机客户）**"
+   ],
+   "address": "81 Ubi Avenue 4 #09-28, UB.One, Singapore 408830",
+   "accounts": "私人公司不公开；RocketReach ≈ $3M",
+   "accounts_due": "—",
+   "size_band": "小型（11 人，2025-03）",
+   "officers": [
+    "AU Wai Choon — 研究档 KP（本人来信 30 封 2024-07 → 2026-06；推定董事 / 业主）= 老板 = 联系人",
+    "Andrea CHEW / Bernard SONG — 研究档 KP（项目 / 采购）"
+   ],
+   "psc": "Au（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（Au Wai Choon 本人 30 封来信）；DC / 海缆光网络工程商，正做 AI-Ready 数据中心 = CENTEC 敲门砖的正主** → 下一封按现有线：STH-2C24XF-HSI $1,500 起的 25G/100G 位置 + Marvell 10G 上联 STC-110XGE $65；集成 25% / CENTEC ≥35% 底线；T/T 50/50；SG 当地 10–12",
+    "不说：不提 ACRA 人数变动"
+   ],
+   "notes": "既有事实建档；KP 不变。",
+   "fetched": "2026-10-27",
+   "code": "SB-001"
+  },
+  "SB-924": {
+   "batch": 91,
+   "name": "INTRACOM MIDDLE EAST FZE（Dubai；Intracom Telecom 100% 股东）/ INTRACOM TELECOM（Paiania, Greece）",
+   "iso": "GR",
+   "source": "GR/AE · 1 次检索：Intracom Telecom「At a glance」（2014-12 SITRONICS 48% + Intracom Holdings 49% 转给 Intracom Middle East FZE，2015-01 再收 3% → 唯一股东）+ 2024-07-17 组织重组新闻稿（主股东 Intracom Middle East FZE 由一名瑞士投资人全资；员工约 1,600，多为希腊人）+ 希腊外交部 agora 名录（Intracom Middle East FZE，3 名员工 = 控股壳）+ Reuters 2014-12-18（49% 作价 €47M）+ tracxn（2026-05 员工 1,071；印度子公司 Intracom Telecom Eastern Operations Pvt Ltd CIN U64200DL2008FTC184894）",
+   "url": "https://www.intracom-telecom.com/en/company/profile/intracom_telecom_glance.htm",
+   "number": "FZE（迪拜自贸区）执照号未取；希腊 ΓΕΜΗ 未取（GEMI JS 关闭）",
+   "status": "Active",
+   "incorporated": "Intracom Telecom 1977；FZE 控股 2014–2015",
+   "company_type": "FZE 控股 + 希腊 S.A.（瑞士投资人全资）",
+   "sic": [
+    "电信系统厂商（无线回传 / FTTx / 智慧城市 / 系统集成；东欧 / 中东非 / 亚太项目）= **同行 + 项目集成双重身份**；KP 为中东项目人员"
+   ],
+   "address": "Intracom Telecom: 19.7 km Markopoulou Ave., Paiania 19002, Greece；FZE: Dubai",
+   "accounts": "Intracom Telecom 年报可取（未取）；员工 1,071–1,600（2024–2026 递减）",
+   "accounts_due": "GR 年报 9 月",
+   "size_band": "大型（1,000+ 人）",
+   "officers": [
+    "Roberto GRASSI — Procurement Manager（研究档 KP；Intracom Telecom 希腊总部采购）= **正式采购口**",
+    "Mohammad YAACOUB — Projects Manager（研究档 KP；中东项目，2024-08 / 2024-10 来信）",
+    "Sergio KODAMA — Senior Director BD（研究档 KP）"
+   ],
+   "psc": "瑞士投资人（经 Intracom Middle East FZE）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**判定：项目型 —— 千人级电信系统厂商，自己有产品线，买交换机只为中东 / 非洲集成项目配套；2024–2026 员工从 1,600 降到 1,071 = 收缩期；但研究档里有正式采购经理 Roberto Grassi** → 一封给 Grassi 抄 Yaacoub：集成 25%，管理型 24/48 口 + 10G 上联英文规格 + CE/RoHS，供应商注册资料（VAT / 银行 / ISO 9001 厂证）随附；不主动追；GR 周四 12–14",
+    "不说：不提瑞士投资人 / 裁员"
+   ],
+   "notes": "研究档 KP 角色补；国别保持 GR（注：KP 在 Dubai，无 country_fix）。",
+   "fetched": "2026-10-27",
+   "code": "SB-924"
+  },
+  "SB-987": {
+   "batch": 91,
+   "name": "THROUGHPUT TECHNOLOGIES (PTY) LTD（Lonehill, Johannesburg；Westermo 南部非洲独家分销）",
+   "iso": "ZA",
+   "source": "ZA · 1 次检索：throughput.co.za profile / partners（1997 起工业数据通信顾问 + 分销；Westermo **南部非洲独家**，ProSoft / Secomea / Welotec 授权；「不做安装集成，只供货 + 顾问」；42 Thembi Place Office Park, Calderwood Rd, Lonehill）+ IBG 买家指南（Gillian Andersson 经理、Mashudu Mudau 分销经理、Brenda Petrie HR、Anton van der Westhuizen 技术支持 & 销售经理）+ LinkedIn（2–10 人，1997）+ Secomea 2011 新闻稿（创始人 Bob Petrie）；CIPC 登记号未取",
+   "url": "https://www.throughput.co.za/about-us/profile.html",
+   "number": "CIPC 登记号未取",
+   "status": "Active",
+   "incorporated": "1997",
+   "company_type": "(Pty) Ltd（Petrie 家族：Bob 创始人 + Brenda HR）",
+   "sic": [
+    "工业数据通信分销 + 顾问（矿业 / 公用事业 / 交通 / 制造 OT 网络）；**Westermo 独家 = 同类工业交换机已有欧洲品牌**"
+   ],
+   "address": "42 Thembi Place Office Park, Calderwood Road, Lonehill, Johannesburg, Gauteng",
+   "accounts": "—",
+   "accounts_due": "ZA 无公开",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Bob PETRIE — 创始人（1997）= 老板",
+    "Anton VAN DER WESTHUIZEN — Technical Support & Sales Manager（研究档 KP anton@）= 联系人",
+    "Gillian ANDERSSON — Manager；Mashudu MUDAU — Distribution Manager"
+   ],
+   "psc": "Petrie（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**判定：Westermo 独家分销的小顾问行（10 人以下），不会用中国工业交换机替掉自己的独家品牌；但交通 / 矿业客户要「非独家配套」的便宜 DIN 交换机时可做副线** → 回 Anton 一封：工业 DIN STI-054GP / STI-154GP（CE/RoHS，无 EN 50155）集成 25%，仅作价格副线；无回即停；ZA 当地 10–12 = 北京 16–18",
+    "不说：不提 Westermo / Welotec 收购"
+   ],
+   "notes": "研究档 KP Anton 角色补；新增 Bob Petrie。",
+   "fetched": "2026-10-27",
+   "code": "SB-987"
+  },
+  "SB-053": {
+   "batch": 91,
+   "name": "ONNET TECHNOLOGIES & INNOVATIONS LLC（OTAI；Ajman Industrial Area 1）",
+   "iso": "AE",
+   "source": "AE · 1 次检索：LinkedIn 公司页（2012 成立，11–50 人，Ajman；自称电信产品制造商：无线传输 / 高功率 PoE / CCTV 杆 / UPS / 定制机箱；Made in UAE）+ YouTube 频道（TRA（TDRA）核准制造商；piyush@ / info@onnettechnologies.com）+ SignalHire（+971 6 748 0204；Shed 1, Street 80-81 Junction, Ajman Industrial Area 1；营收估 $1–10M）+ contactout / RocketReach（Director Dipali PACHCHIGAR；BD Director Piyush S. Shah）+ LinkedIn Saurabh Pachchigar（设计 / 制造负责人）；UAE 登记不公开",
+   "url": "https://ae.linkedin.com/company/otaillc",
+   "number": "Ajman 执照号未取",
+   "status": "Active",
+   "incorporated": "2012",
+   "company_type": "LLC（Pachchigar 家族；印裔）",
+   "sic": [
+    "电信 / 安防周边制造（高功率 PoE 供电、无线、CCTV 杆 / 智慧杆、UPS、机箱；FCC ID 2ADPY 研究档）= **OEM 品牌商（配套交换机可贴 OTAI 标）**"
+   ],
+   "address": "Shed 1 & 2, Street 80-81 Junction, Ajman Industrial Area 1, Ajman（PO Box 23170）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（6–50 人；$1–10M 估）",
+   "officers": [
+    "Saurabh PACHCHIGAR — 研究档 KP saurabh@（设计 / 制造负责人；推定业主之一）= 技术拍板",
+    "Dipali PACHCHIGAR — Director（contactout / RocketReach）= 法定代表 / 家族",
+    "Piyush S. SHAH — Director Business Development（研究档 KP piyush@；PMP，31 年经验）= 商务联系人"
+   ],
+   "psc": "Pachchigar 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**阿治曼的印裔家族小制造商（OTAI 品牌：高功率 PoE 供电 / 智慧杆 / 机箱），已有 FCC ID 和 TDRA 核准 = 懂认证的 OEM 品牌商** → 写 Saurabh 抄 Piyush：OEM 30% OTAI 标工业 PoE（STI-054GP / STI-154GP / 288DGGPM-2BT bt 口配其高功率杆件）+ 室外机箱内 DIN 款；CE/RoHS 文件 + 测试报告；MOQ 20 台 / 型号；AE 周日–周四 10–12",
+    "不说：不提家族关系"
+   ],
+   "notes": "研究档 KP 角色补；新增 Dipali Pachchigar。",
+   "fetched": "2026-10-27",
+   "code": "SB-053"
+  },
+  "SB-450": {
+   "batch": 91,
+   "name": "COMTECH ASSOCIATES（Pvt.）LTD（Karachi；Cisco Partner of the Year 2026 Pakistan）",
+   "iso": "PK",
+   "source": "PK · 1 次检索：comtech.net.pk（CEO Muhammad Farooq ZAHEER；The Hive 3rd Floor, NASTP, Shahrah-e-Faisal, Karachi；+92 21 3440 4440；Cisco 认证伙伴 + Fortinet / Kaspersky / Sangfor；15 个技术伙伴）+ IssueWire 2026-10-26（CEO 赴温哥华 Cisco Partner Summit 2026；联合创始人 Rehan SHAIKH、COO Abdul Rehman ZAHEER）+ LinkedIn 2026-10（Cisco「Partner of the Year 2026」+ 4 奖；2024 SMB Emerging Partner、2025 SMB Partner Award）+ bloompakistan 2026-09（ITCN Asia 2026 与 Cisco 同展；银行 / 电信 / 医疗 / 政府 / 制造客户，含海湾）+ LinkedIn（11–50 人，2010）/ Clutch（50–249 人，2017）",
+   "url": "https://comtech.net.pk/",
+   "number": "SECP 注册号未取",
+   "status": "Active",
+   "incorporated": "2010（LinkedIn）/ 2017（Clutch）",
+   "company_type": "(Pvt.) Ltd（Zaheer 家族 + Shaikh）",
+   "sic": [
+    "企业网络 / 网络安全 / 数据中心 系统集成（**Cisco 首选伙伴 + Fortinet**；24/7 SOC）"
+   ],
+   "address": "The Hive 3rd Floor, NASTP, Shahrah-e-Faisal, Karachi（另 Office 53/3 Sheet 17 Khadim Avenue）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中小型（50–100 人）",
+   "officers": [
+    "Muhammad Farooq ZAHEER — CEO = 老板",
+    "Rehan SHAIKH — Co-Founder / Director of Sales",
+    "Abdul Rehman ZAHEER — COO / Director（家族）",
+    "Muhammad Irfan GHAURI — Head of Solutions（2026-01 加入）；研究档 KP 仅 WA 号 + marketing@"
+   ],
+   "psc": "Zaheer + Shaikh（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**判定：Cisco 巴基斯坦年度伙伴（2026-10）—— 主业卖 Cisco / Fortinet，不会把我们当主线；只在银行 / 政府标里要「非 Cisco 接入层」压价时有机会** → 一封给 marketing@ 抄 Rehan Shaikh（销售总监）：Marvell L2+ 24/48 口 + 10G 上联作接入层备选、集成 25%、英文规格 + CE/RoHS；无回即停；PK 北京 13–15",
+    "不说：不提 Cisco 奖项"
+   ],
+   "notes": "研究档 KP 无名 → 新增 Zaheer / Shaikh。",
+   "fetched": "2026-10-27",
+   "code": "SB-450"
   }
  }
 }

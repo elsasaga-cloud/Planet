@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 5
+  "count": 10
  },
  "rows": {
   "SA-073": {
@@ -186,6 +186,173 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SB-062"
+  },
+  "SB-006": {
+   "batch": 91,
+   "name": "UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED（Greater Noida, UP）",
+   "iso": "IN",
+   "source": "IN · 1 次检索：zaubacorp（CIN U17302UP2019PTC115938，2019-04-18 成立，ROC Kanpur，实缴 ₹1 lakh，NIC 代码误登「针织品」；董事 PRAMENDRA SINGH DIN 02074072 + SUMIT AGRAWAL DIN 02074121，均 2019-04-18 起；注册邮箱 chaudhary@unitedcontrolengg.com；注册地 218 Udyog Kendra Extn-1 Greater Noida 201308）+ tofler 同 + IndiaMart（CEO P Chaudhary，26–50 人，营业额 ₹25–100 cr，GST 2019-06，IEC 有，总部 Plot 98 Toy City Ecotech-III 201306，自有控制柜装配厂）+ tradeindia（业务始于 2001）+ 官网（Delta PLC 等工业自动化 / 低压电器分销 + 控制柜）",
+   "url": "https://www.zaubacorp.com/UNITED-CONTROL-ENGINEERS-INDIA-PRIVATE-LIMITED-U17302UP2019PTC115938",
+   "number": "CIN U17302UP2019PTC115938 · GST 09AACCU4195M1ZP · PAN AACCU4195M",
+   "status": "Active",
+   "incorporated": "2019-04-18（业务 2001 起，先为合伙）",
+   "company_type": "Private Limited（实缴 ₹1 lakh）",
+   "sic": [
+    "工业自动化 / 低压电器分销（Delta / ABB / Schneider / Phoenix Contact 渠道）+ 控制柜装配 = 工业集成商兼分销商"
+   ],
+   "address": "Plot No. 98, Toy City, Ecotech-III, Greater Noida 201306（注册地 218 Udyog Kendra Extn-1, Ecotech-III）",
+   "accounts": "MCA 年报可取（未取）；IndiaMart 自报 ₹25–100 cr",
+   "accounts_due": "IN 09-30",
+   "size_band": "中小型（26–50 人；₹25–100 cr ≈ $3–12M）",
+   "officers": [
+    "Pramendra Singh CHAUDHARY — Director / CEO（DIN 02074072，2019-04-18 起；研究档 KP chaudhary@）= 老板 = 联系人",
+    "Sumit AGRAWAL — Director（DIN 02074121，2019-04-18 起）= 合伙人"
+   ],
+   "psc": "Chaudhary + Agrawal（推定各半）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Pramendra Chaudhary 是董事 / CEO；公司是大诺伊达的工业自动化分销 + 控制柜厂（Delta PLC 渠道），不是 IT 店 → 要的是装进控制柜的工业 DIN 交换机** → 写 Chaudhary 抄 Agrawal：STI-054GP / STI-154GP / STI-110GE（宽压 $25 档）集成 25%，BIS 由他们（CE/RoHS 文件我方出）；IN 北京 13–15；避开 Diwali（≈2026-11-08）",
+    "不说：不提 NIC 误登 / 实缴 1 lakh"
+   ],
+   "notes": "研究档 KP 角色补 Director / CEO；新增 Sumit Agrawal。",
+   "fetched": "2026-10-27",
+   "code": "SB-006"
+  },
+  "SB-243": {
+   "batch": 91,
+   "name": "HFCL LIMITED（原 Himachal Futuristic Communications Ltd；NSE/BSE: HFCL；Gurugram / New Delhi）",
+   "iso": "IN",
+   "source": "IN · 1 次检索：thecompanycheck（CIN L64200HP1987PLC007466，2025 营收 ₹3,856 cr 口径、净资产 ₹3,963 cr、2,336 名员工；MD Mahendra Nahata）+ FY25 年报 / Q4 电话会（合并营收 ₹4,065 cr vs FY24 ₹4,465 cr，EBITDA ₹507 cr，PBT ₹217 cr；Q4 FY25 净亏 ₹81.4 cr）+ NSE 2026-04-30 投资者简报（FY26 营收 ₹4,949 cr，EBITDA ₹826.75 cr / 16.7%）+ 2026-10-20 新闻（Q2 FY27 营收 ₹2,541.79 cr、净利 ₹394 cr，同比 5 倍 = 创纪录）+ Q1 FY25 简报（电信 96% / 国防 2% / 铁路 2%；订单簿 ₹6,776 cr）",
+   "url": "https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466",
+   "number": "CIN L64200HP1987PLC007466",
+   "status": "Active · 上市（NSE/BSE）",
+   "incorporated": "1987",
+   "company_type": "Public Limited（上市；发起人 Nahata 家族）",
+   "sic": [
+    "光纤 / 光缆制造 + 电信设备（自有 IO by HFCL 品牌：企业交换机 / Wi-Fi AP / 路由器）+ 国防电子 + 铁路通信 = **同行上游 + 守界行业**"
+   ],
+   "address": "8, Commercial Complex, Masjid Moth, Greater Kailash-II, New Delhi 110048（运营 Gurugram）",
+   "accounts": "FY25 合并营收 ₹4,065 cr（≈$480M）；FY26 ₹4,949 cr；Q2 FY27 ₹2,542 cr 单季创纪录",
+   "accounts_due": "IN 09-30（上市季报）",
+   "size_band": "大型（2,300+ 人；年营收 $500M+）",
+   "officers": [
+    "Mahendra NAHATA — 发起人 / Managing Director",
+    "Shantanu RANA — 研究档 KP（已回信；采购 / 产品线人员）"
+   ],
+   "psc": "Nahata 家族（发起人）+ 公众",
+   "charges": "",
+   "prev_names": [
+    "Himachal Futuristic Communications Limited"
+   ],
+   "lines": [
+    "**判定：不追 —— HFCL 自有 IO 品牌交换机 / AP（同行），且主业光缆 + 国防 + 铁路（守界）；上市公司采购走 ODM 招标，不是我们的单** → 只回 Shantanu 已有线：若他问的是 ODM / 白牌（CENTEC ≥35% 或 Marvell L3 ≥25%），可报，否则 `when=不动`",
+    "不说：不提其亏损季 / 订单簿"
+   ],
+   "notes": "研究档 KP Shantanu Rana 保留；facts 补上市体量；grade 不动（B）。",
+   "fetched": "2026-10-27",
+   "code": "SB-243"
+  },
+  "SB-827": {
+   "batch": 91,
+   "name": "GO IP GLOBAL SERVICES PRIVATE LIMITED（GoIP；Noida Sector 63）",
+   "iso": "IN",
+   "source": "IN · 1 次检索：zaubacorp（CIN U74899DL1994PTC061633，1994-09-20 成立，ROC Delhi，授权 ₹1 cr / 实缴 ₹51 lakh；在任董事 ANIL MITTAL DIN 00117877（2004-09-20 起）、SURESH KUMAR MITTAL DIN 08429051（2021-06-24 起）、MANAV MITTAL DIN 08586626（2023-05-02 起）；前董事 Renu Mittal（2005–2013）、Rahul Swarup、Dharmender Bansal、Arvind Kumar Goel（2012–2023）；姊妹公司 **GOIP GLOBAL SOLUTIONS PRIVATE LIMITED** CIN U72900DL2008PTC173861（Anil + Renu + Suresh + Manav Mittal 同董事））+ tracxn 同",
+   "url": "https://www.zaubacorp.com/company/GO-IP-GLOBAL-SERVICES-PRIVATE-LIMITED/U74899DL1994PTC061633",
+   "number": "CIN U74899DL1994PTC061633（姊妹 U72900DL2008PTC173861）",
+   "status": "Active",
+   "incorporated": "1994-09-20",
+   "company_type": "Private Limited（实缴 ₹51 lakh；Mittal 家族）",
+   "sic": [
+    "IP 电话 / 网络产品自有品牌（GoIP）+ 印度本土组装（Make in India）+ 分销 = **OEM 品牌商**"
+   ],
+   "address": "Noida Sector 63, UP（研究档）；ROC Delhi",
+   "accounts": "MCA 年报可取（未取）",
+   "accounts_due": "IN 09-30",
+   "size_band": "中小型（估 50–150 人）",
+   "officers": [
+    "Anil MITTAL — Director（2004 起）= 实控家族长",
+    "Manav MITTAL — Director（2023-05 起）= 二代",
+    "Suresh Kumar MITTAL — Director（2021 起）",
+    "Pankaj SODHI — CEO（研究档 KP，2026-04 在信）；Akshat PANDEY — BD（研究档 KP）"
+   ],
+   "psc": "Mittal 家族（Anil / Renu / Manav）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Mittal 家族自有品牌 GoIP（1994 年老公司 + 2008 姊妹公司），CEO Pankaj Sodhi 是职业经理人、拍板在 Anil / Manav Mittal** → 写 Pankaj 抄 Akshat、信里请其转采购决策人：OEM 30% GoIP 标 PoE 8/16/24 + 2.5G，BIS 由他们（我方提供 CE/RoHS + 测试报告），SKD / 整机两档；IN 北京 13–15；避开 Diwali",
+    "不说：不提家族 / 姊妹公司"
+   ],
+   "notes": "研究档 KP 已有 Sodhi / Pandey；新增 Mittal ×2。",
+   "fetched": "2026-10-27",
+   "code": "SB-827"
+  },
+  "SB-692": {
+   "batch": 91,
+   "name": "ANDA TELECOM PRIVATE LIMITED（New Delhi / Noida）",
+   "iso": "IN",
+   "source": "IN · 1 次检索：zaubacorp（CIN U64202DL2004PTC131212，2004-12-13 成立，ROC Delhi，授权 = 实缴 ₹1 lakh，NIC 64202 电信；董事 HARISH GUPTA DIN 01054370 + NEELAM GUPTA DIN 02122908，均 2004-12-13 起 = 夫妻档）+ thecompanycheck（FY2024 营收 ₹12.81 cr，同比 −23%）+ EMIS（2025 净销售 +22%，总资产 +24.35%；1–10 人）+ 官网（2004 创立；总部 E-36 Amar Colony, Lajpat Nagar-IV, New Delhi 110024；制造地 E-38 Sector 6 Noida 201301；电信级 + 光纤产品）",
+   "url": "https://www.zaubacorp.com/company/ANDA-TELECOM-PRIVATE-LIMITED/U64202DL2004PTC131212",
+   "number": "CIN U64202DL2004PTC131212",
+   "status": "Active",
+   "incorporated": "2004-12-13",
+   "company_type": "Private Limited（实缴 ₹1 lakh；Gupta 夫妻）",
+   "sic": [
+    "电信 / 光纤产品自有品牌（Anda），从中国厂贴牌（研究档：ONV / AOA）+ Noida 组装 = **OEM 品牌商**"
+   ],
+   "address": "E-36 Amar Colony, Lajpat Nagar-IV, New Delhi 110024（制造 E-38 Sector 6, Noida 201301）",
+   "accounts": "FY2024 营收 ₹12.81 cr（≈$1.5M）；FY2025 +22%",
+   "accounts_due": "IN 09-30",
+   "size_band": "小型（1–10 人登记；≈$1.5–2M）",
+   "officers": [
+    "Harish GUPTA — Director（2004 起；研究档 KP harish@）= 老板 = 联系人",
+    "Neelam GUPTA — Director（2004 起）= 配偶合伙",
+    "Subhash — 研究档 KP（采购 / 技术）"
+   ],
+   "psc": "Gupta 夫妻",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Harish Gupta 夫妻的自有品牌电信小厂（年 ≈ $1.5M），已在从中国厂贴牌 = 直接谈换供应商** → 写 Harish 抄 Subhash：OEM 30% Anda 标 PoE 8/16/24 + 媒转以外的交换机线（我方不供媒转 / ONU），MOQ 20 台 / 型号起、彩盒 $2.5/套；BIS 由他们；IN 北京 13–15；避开 Diwali",
+    "不说：不提 ONV / AOA（现供应商）；不提营收下滑"
+   ],
+   "notes": "研究档 KP Harish 角色补 Director；新增 Neelam Gupta。",
+   "fetched": "2026-10-27",
+   "code": "SB-692"
+  },
+  "SB-189": {
+   "batch": 91,
+   "name": "VINTRON SMARTVISION PVT. LTD.（vintronsmartvision.com；New Delhi；关联上市公司 Vintron Informatics Ltd → Reganto Enterprises Ltd）",
+   "iso": "IN",
+   "source": "IN · 1 次检索：X 账号 @VintronInfo 自述「Vintron Smartvision Pvt. Ltd. — India’s leading manufacturer of electronics, security & surveillance products, New Delhi, vintronsmartvision.com」；关联上市公司 Vintron Informatics Ltd（BSE 517393）：FY2025 营收 ₹623.48 cr（FY2024 ₹174.17 cr，+258%）、净利 ₹47.92 cr；2025-09 增补独董、经营范围扩至建筑 / 航空运输 / IT 基础设施，2025-12 **更名 Reganto Enterprises Limited**，2026-01-27 多名董事辞任；Varun GUPTA 曾任其 WTD & CEO（2015-06 → 2019-06-08 辞任），董事长 Raj Kumar Gupta；RocketReach 仍称 Varun Gupta 为 Director & CEO（2025 营收口径 $19.3M）",
+   "url": "https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/",
+   "number": "Vintron Smartvision Pvt Ltd CIN 未取；上市关联体 BSE 517393",
+   "status": "Active（私营运营体）",
+   "incorporated": "未取（上市体 1991）",
+   "company_type": "Private Limited（Gupta 家族；上市体已易名 / 转向）",
+   "sic": [
+    "CCTV / DVR / 电子安防自有品牌制造（Vintron）= **OEM 品牌商**"
+   ],
+   "address": "New Delhi（上市体注册地新德里）",
+   "accounts": "私营体未取；上市关联体 FY25 ₹623 cr",
+   "accounts_due": "IN 09-30",
+   "size_band": "中型（上市体 FY25 ₹623 cr 营收 = 含贸易 / 新业务；CCTV 运营体估 50–200 人）",
+   "officers": [
+    "Varun GUPTA — Director & CEO（Vintron Smartvision Pvt Ltd；曾任上市体 WTD & CEO 至 2019-06；研究档 KP varun@）= 二代老板 = 联系人",
+    "Raj Kumar GUPTA — 上市体董事长（家族长）"
+   ],
+   "psc": "Gupta 家族",
+   "charges": "",
+   "prev_names": [
+    "上市体：Vintron Informatics Limited → Reganto Enterprises Limited（2025-12）"
+   ],
+   "lines": [
+    "**老板 = 联系人：Varun Gupta 是 Vintron 家族二代、现管 CCTV 运营体 Vintron Smartvision（自有品牌 CCTV 制造商）；上市壳 2025-12 更名并转向建筑 / 航空 = 安防业务已沉到私营体** → 写 Varun：OEM 30% Vintron 标 PoE 4/8/16/24（配其 NVR 套装），彩盒 $2.5/套、BIS 由他们；先 2 台付费样机；IN 北京 13–15；避开 Diwali",
+    "不说：不提上市壳更名 / 董事辞任"
+   ],
+   "notes": "研究档 KP Varun 角色补 Director & CEO；新增 Raj Kumar Gupta（上市体）。",
+   "fetched": "2026-10-27",
+   "code": "SB-189"
   }
  }
 }

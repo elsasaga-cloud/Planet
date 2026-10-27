@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 16
+  "count": 17
  },
  "rows": {
   "SA-015": {
@@ -576,6 +576,39 @@
    "notes": "研究档 legal_name 已有 Saratota Ltd → 回填全称 + 号码；KP 原无 → 加 Michael Charles White（Director / owner）。",
    "fetched": "2026-10-27",
    "code": "SB-679"
+  },
+  "SB-231": {
+   "batch": 91,
+   "name": "ADVANCE TECHNOLOGY SOLUTIONS LTD（advance.technology；St Asaph, Wales）",
+   "iso": "GB",
+   "source": "GB · 1 次检索 + Companies House overview + officers（10953609）：官网 contact-us 自报公司号 10953609 / VAT GB281168595 / 经营地 Felton House, Gemig Street, St Asaph LL17 0RY；登记处：注册地 Unit 32 Llys Edmund Prys, St. Asaph Business Park LL17 0JA；Active；2017-09-08 成立；SIC 26110 电子元件制造；账目至 2025-09-30 已报、下期 2026-09-30 → 2027-06-30 到期；CS 2026-02-06；董事 Nathan James PARYS（1982-01 生，2025-04-02 上任，威尔士）；前董事 Jie KENNETT（中国籍，Wigan，2017-09-08 创立 → 2025-04-02 辞任）、Rebecca Mary PARKINSON（2017-09 → 2018-01）；**同名陷阱**：Advance Technology Limited 03391710（Liverpool）/ Advance Tech (UK) Ltd 07227703（清算）均非本户",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10953609",
+   "number": "Companies House 10953609 · VAT GB281168595",
+   "status": "Active",
+   "incorporated": "2017-09-08",
+   "company_type": "Private limited company",
+   "sic": [
+    "26110 Manufacture of electronic components（官网定位：电子 / 网络产品方案，角色判定源自官网文案）"
+   ],
+   "address": "Unit 32 Llys Edmund Prys, St. Asaph Business Park, St. Asaph LL17 0JA（经营地 Felton House, Gemig Street, St Asaph LL17 0RY）",
+   "accounts": "至 2025-09-30 已报（类型未看；微型 / 小型）",
+   "accounts_due": "2027-06-30（至 2026-09-30）",
+   "size_band": "微型 / 小型（估 2–10 人）",
+   "officers": [
+    "Nathan James PARYS — Director（2025-04-02 起；唯一在任）= 现老板 = 联系人",
+    "Jie KENNETT — 创始董事（中国籍；2017-09 → 2025-04 辞任）= **2025-04 换手**"
+   ],
+   "psc": "未取（PSC 页下轮；推定 Parys 2025-04 起）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**硬发现：公司 2025-04 换手 —— 中国籍创始人 Jie Kennett 退出，Nathan Parys 接任唯一董事；此前的中资背景可能自带中国供应链，换手后供应链要重建 = 正是进门时机** → 写 Parys 本人：分销 20% / OEM 30% 二选一，UKCA + CE，MOQ 1 箱、首单 50/50；GB 周四 12–14；避开 12-24–01-02",
+    "不说：不提前董事 / 换手；不说「我们查过 Companies House」",
+    "复查：PSC 页补实控；2027-06 账目"
+   ],
+   "notes": "研究档 KP 空 → 新增 Nathan Parys。",
+   "fetched": "2026-10-27",
+   "code": "SB-231"
   }
  }
 }
