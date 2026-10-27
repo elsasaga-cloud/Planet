@@ -68,6 +68,29 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「商用 2.5G PoE 管理型」，共 9 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **95 票**（02/2015-03/2026）；最近一票 **03/16/2026**；月均 0.71 TEU；ImportYeti 估算海运费累计 $69,212 (54%)（不是货值）。[公司页](https://www.importyeti.com/company/eagle-eye-networks)（synced 10/21/2026）
+- **中国占比**：历史 69/95 中国；2024-03 之后中国票归零，2025–26 全部越南 / 台湾
+- **主要发货人**（票数 · 品名）：
+  - Shenzhen Sunell Technology（深圳景阳）（China）· 27 票 · Eagle Eye 贴牌摄像头 + 支架（2023 年 ≥7 票、每票 260–574 ctn；最后 2024-03-05）
+  - Shapepoint International（China (Dongguan)）· 25 票 · Eagle Eye 自家 Bridge/CMVR 机箱（2024-02-29 1,922 ctn）
+  - Shenzhen CSE Technology（China）· 9 票 · PoE SWITCH（HS 8517.62 / 8536.50；均在 2023 年之前，近期清单里已无）
+  - Ampacs International（Vietnam (HCMC)）· 3 票 · Eagle Eye 品牌网络摄像头（2025-10-28 164 ctn、2026-01-28 125 ctn、2026-03-16 129 ctn）
+  - Vivotek（Taiwan）· ≥1 票 · network cameras 2026-01-20 59 ctn
+  - Delta Electronics Jiangsu / Tele System TW / Zotac VN（CN/TW/VN）· 14 票 · 适配器、线缆、迷你主机
+  - Eagle Eye Networks B.V.（阿姆斯特丹）（Netherlands）· 3 票 · 内部调拨：video recorders, network bridges, SWITCHES, cables（2023-02-18 / 06-10）
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2026-03-16 · Ampacs VN · 1,247 kg 129 ctn · cameras
+  - 2026-01-28 · Ampacs VN · 1,330 kg 125 ctn · cameras
+  - 2026-01-20 · Vivotek TW · 600 kg 59 ctn · network cameras
+  - 2025-10-28 · Ampacs VN · 1,668 kg 164 ctn · Eagle Eye brand cameras
+  - 2024-03-05 · Sunell CN · 4,150 kg 317 ctn · cameras（最后一票中国摄像头）
+  - 2024-02-29 · Shapepoint CN · 4,200 kg 1,922 ctn · chassis
+- **对 Saga 的含义**：Eagle Eye（云 VMS 品牌）曾从深圳 CSE 海运 PoE 交换机 9 票（2023 前）、交换机也从阿姆斯特丹仓内部调拨；**2024-03 起中国供应全停、摄像头转越南 Ampacs + 台湾 Vivotek** → 典型 NDAA / 关税去中国化户，对 Saga 的中国产交换机基本关门，除非走『非 NDAA 场景的海外项目』；B 保持、不花精力
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

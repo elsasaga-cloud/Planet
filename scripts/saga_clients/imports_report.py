@@ -28,6 +28,8 @@ CN_SWITCH = {  # 提单里明写从中国厂买交换机的户 → 对手名单
     'SB-541': '上海申航进出口（代理）· Ethernet switch / 光端机 7 票 2016-01 → 2018-11，之后无',
     'SB-544': 'ONV 光网视 1 票试单 2020-04-10（18 ctn）→ 没续；交换机改台湾 Emplus 贴牌（2025 起放量）',
     'SB-221': 'HRUI 洪瑞 4 票 PoE switch（主供台湾 Mstronic 385 票）',
+    'SB-303': 'Shenzhen Utepo 优特普 4 票 PoE switch（2022-02 → 2023-12）→ 2025-04-26 换成 Shenzhen CSE 1 票 23 ctn；每 1～1.5 年换一次中国 PoE 交换机供应商',
+    'SB-211': 'Shenzhen CSE Technology 9 票 PoE switch（2023 前）；2024-03 起中国供应全停、转越南 / 台湾（去中国化户）',
 }
 TW_SWITCH = {
     'SB-751': 'Senao 神準（台湾）100%，351 票，月度，最近 2026-09-25',
@@ -71,12 +73,13 @@ found = [c for c, r in rows.items() if r.get('found')]
 nf = [c for c, r in rows.items() if not r.get('found')]
 A_done = [c for c in rows if c.startswith('SA-')]
 B_done = [c for c in rows if c.startswith('SB-')]
-L.append(f'本轮查了 **{len(rows)} 户**（A {len(A_done)} / B {len(B_done)}；美国 A 全部 15 户 + 美国 B 按热度前 {len(B_done) - 1} 户 + 加拿大经美转运 2 户），'
+CA_VIA_US = ['SB-1127', 'SB-538']  # 加拿大户，经美国港口转运才看得到
+L.append(f'本轮查了 **{len(rows)} 户**（A {len(A_done)} / B {len(B_done)}；美国 A 全部 15 户 + 美国 B 按热度顺序 {len(B_done) - len(CA_VIA_US)} 户 + 加拿大经美转运 {len(CA_VIA_US)} 户），'
          f'查到 **{len(found)}** 户有海运提单，**{len(nf)}** 户查无。')
 L.append('')
 L.append('## 二、关键发现（对 Saga 有用的 9 条）')
 L.append('')
-L.append('1. **真正「从中国海运买交换机」的只有一小撮，而且名字都对得上我们的对手**：')
+L.append(f'1. **真正「从中国海运买交换机」的只有 {len(CN_SWITCH)} 户，而且名字都对得上我们的对手**（HRUI / ONV 光网视 / Shenzhen Centro / Utepo 优特普 / Shenzhen CSE / Dahua·UNV 整包）：')
 for c, t in CN_SWITCH.items():
     L.append(f'   - {c} {name(c)} ← {t}')
 L.append('2. **GW Security（SB-108）就是 HRUI 的美国直客**（14 票、最近 2026-10-14 170 箱、年 3 票）：给他们推 HRUI 同款 = 自己打自己，只推 Marvell 管理型 / CENTEC 这类 HRUI 没有的；且他们走 LCL 到洛杉矶，有现成拼箱通道，样品可以搭。')
@@ -138,9 +141,9 @@ for row in [
 L.append('')
 L.append('## 六、怎么用（写进各户 MD 的「进口记录」一节之外）')
 L.append('')
-L.append('- **群发名单**：第二节第 1 条的 9 户是「已经在买中国交换机」的，把他们从通用群发里拿出来，各自一封对位信（ONV / Centro / HRUI 对位型号 + 拼箱说明）。')
+L.append(f'- **群发名单**：第二节第 1 条的 {len(CN_SWITCH)} 户是「已经在买中国交换机」的，把他们从通用群发里拿出来，各自一封对位信（ONV / Centro / HRUI / Utepo / CSE 对位型号 + 拼箱说明）；Watchnet（SB-303）每 1～1.5 年换一次 PoE 交换机供应商，是其中最该排进 2026 下半年日历的。')
 L.append('- **话术禁区**：对 GW Security 不提 HRUI；对 Nelly\'s/IPCamPower 不提 ONV 名字；任何信里不写其他客户名（INH 规则）。')
-L.append('- **再查节奏**：ImportYeti 每周同步一次，查过的 57 户不用再翻；只在 ① 某户来信 ② 季度末，重看 GW Security / Signamax / Optiview / Mako 四户有没有新票（看供应商有没有换）。')
+L.append(f'- **再查节奏**：ImportYeti 每周同步一次，查过的 {len(rows)} 户不用再翻；只在 ① 某户来信 ② 季度末，重看 GW Security / Signamax / Optiview / Mako / Watchnet 五户有没有新票（看供应商有没有换）。')
 L.append('- **印度 / 巴基斯坦**：Zauba / Volza 有逐单金额，A/B 里 IN 5+43 户、PK 1+19 户，Q-63 决定做不做。')
 L.append('')
 L.append(f'*生成：{TODAY}　|　脚本：`scripts/saga_clients/imports_report.py`　|　数据：`data/saga_clients/imports/`*')

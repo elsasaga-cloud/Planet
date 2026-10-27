@@ -73,6 +73,7 @@ updated: 2026-10-27
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1034 条 URL（≥500 = 大目录 / 网店体量）；官网语言 ja（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/Diatrend.JP/、https://www.instagram.com/diatrend_products/、https://www.linkedin.com/company/diatrend/。
+- **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [dia-sys](https://github.com/dia-sys)（仅名称一致，未核实是否同一家；公开仓库 0）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-12-29 年末年始（12-29 → 01-04） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

@@ -5700,7 +5700,7 @@
    "last_k": "fc1996c5626c5c37",
    "last_snippet": "",
    "last_questions": [],
-   "days_since": 480
+   "days_since": 481
   },
   "calendar": {
    "holidays": [
@@ -44589,6 +44589,35 @@
    "social": [],
    "fetched": "2026-10-21"
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "oralcompanies",
+     "type": "User",
+     "url": "https://github.com/oralcompanies",
+     "name": "MUHAMMAD AZEEMULLAH",
+     "blog": "",
+     "email": "azeem@oralcompanies.com",
+     "company": "ORAL GUVENLIK SISTEMLERI",
+     "public_repos": 1,
+     "created_at": "2026-01-02T07:24:15Z",
+     "updated_at": "2026-06-06T20:22:59Z",
+     "bio": "",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "qraccess",
+       "pushed_at": "2026-01-02T07:25:52Z",
+       "lang": null,
+       "desc": "QR Access For AVM Shops",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:56:07Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -45848,6 +45877,26 @@
    "social": [],
    "fetched": "2026-10-21"
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "Smart-Mobility-Solutions",
+     "type": "Organization",
+     "url": "https://github.com/Smart-Mobility-Solutions",
+     "name": "Smart Mobility Solutions",
+     "blog": "",
+     "email": null,
+     "company": null,
+     "public_repos": 0,
+     "created_at": "2026-07-01T03:40:43Z",
+     "updated_at": "2026-07-01T03:40:43Z",
+     "bio": "",
+     "match": "name"
+    }
+   ],
+   "repos_mentioning_n": 1,
+   "checked_at": "2026-10-27T04:58:28Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -47086,6 +47135,26 @@
     "https://www.youtube.com/user/diatrendchannel"
    ],
    "fetched": "2026-10-21"
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "dia-sys",
+     "type": "Organization",
+     "url": "https://github.com/dia-sys",
+     "name": "diatrend",
+     "blog": "",
+     "email": null,
+     "company": null,
+     "public_repos": 0,
+     "created_at": "2025-02-27T00:42:32Z",
+     "updated_at": "2026-05-15T07:31:07Z",
+     "bio": "",
+     "match": "name"
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T05:00:20Z"
   },
   "calendar": {
    "holidays": [

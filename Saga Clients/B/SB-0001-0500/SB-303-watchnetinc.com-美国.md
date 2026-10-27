@@ -89,6 +89,30 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「商用 2.5G PoE 管理型」，共 9 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-27）
+
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-27。
+
+- **总量**：海运提单 **47 票**（01/2015-10/2026）；最近一票 **10/05/2026**；月均 0.55 TEU；ImportYeti 估算海运费累计 $94,706 (61%)（不是货值）。[公司页](https://www.importyeti.com/company/watchnet)（synced 10/21/2026）
+- **中国占比**：43/47 中国
+- **主要发货人**（票数 · 品名）：
+  - Dahua Technology HK / Zhejiang Dahua Vision（China）· 26 票 · Watchnet 贴牌 CVI/IP 摄像头、NVR/DVR 套装、支架（2026-10-05 / 2025-07-26 / 2024-08-18 / 2024-06-10 377 pkg）
+  - Shenzhen Utepo Tech（优特普）（China (Shenzhen Shiyan)）· 4 票 · PoE SWITCH + PoE injector/extender：2022-02-07 364 kg 18 ctn；2023-08-04 446 kg 22 ctn；2023-10-22 757 kg 46 ctn（含机柜）；2023-12-09 1 pkg（PoE switch + 无线网桥）
+  - Shenzhen CSE Technology（China）· 1 票 · ETHERNET SWITCH 346 kg 23 ctn（2025-04-26）— 2024 年后换掉 Utepo 的新交换机来源
+  - Shenzhen Sunell / Foxlink Systems Canada / Hangzhou Zanuo Weipai / WTL Logistics / Secusys（China）· ≥8 票 · 摄像头、支架、junction box、杂件
+  - Integra Technologies / Keyking Group（China / KR）· 5 票 · CCTV 配件、门禁读卡器
+  - HD Pro（South Korea）· 3 票 · CCTV cameras
+- **近期提单**（到港日 · 发货人 · 重量/件数 · 品名）：
+  - 2026-10-05 · Dahua HK · 247 kg 19 pkg · cameras, junction
+  - 2026-07-26 · Foxlink Systems Canada · 1,027 kg 94 pkg · brackets, NVR kits, cameras
+  - 2026-04-13 · Hangzhou Zanuo Weipai · 909 kg 85 ctn · camera junction
+  - 2025-07-26 · Dahua HK · 562 kg 37 ctn · cameras, NVR/DVR（'cargo transfer Canada'）
+  - 2025-04-26 · Shenzhen CSE Technology · 346 kg 23 ctn · ETHERNET SWITCH
+  - 2024-06-10 · Dahua HK · 3,824 kg 377 pkg · cameras, NVR/DVR kits
+  - 2023-12-09 / 10-22 / 08-04 · Shenzhen Utepo · 1 pkg / 757 kg 46 ctn / 446 kg 22 ctn · PoE switch + injector/extender/rack
+  - 2022-02-07 · Shenzhen Utepo · 364 kg 18 ctn · PoE switch + PoE injector
+- **对 Saga 的含义**：Watchnet 是多伦多安防品牌（大华贴牌为主），**PoE 交换机是独立采购线**：2022–2023 四票买深圳 Utepo（优特普），2025-04 换成深圳 CSE 一票 23 箱 → 每 1～1.5 年换一次中国 PoE 交换机供应商、每次 18～46 箱 LCL、经美国西岸转运多伦多；这正是 Saga 对位 Utepo/CSE 的 8/16/24 口 PoE（STC-028GP / STC-2024GP / STI-244GP）能插进去的户——下一次他们换供应商就在 2026 下半年～2027；库里 iso 标 US，实为 CA（加拿大户里少见的能看见海运的）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -2455,6 +2455,259 @@
    ],
    "notes": "美国海运提单库查无（拉美 IP 话机品牌，货大概率直发拉美）",
    "fetched": "2026-10-27"
+  },
+  "SB-1075": {
+   "name": "Silmar Electronics (Doral, FL)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/silmar-electronics",
+   "synced": "10/21/2026",
+   "last_shipment": "02/15/2022",
+   "total_shipments": 5,
+   "range": "08/2017-02/2022",
+   "suppliers": [
+    {
+     "n": "Risco",
+     "c": "Israel",
+     "s": 1,
+     "p": "batteries 2022-02"
+    },
+    {
+     "n": "中美洲/加勒比退货（Honduras / Cayman / Belize / Chile）",
+     "c": "LATAM",
+     "s": 4,
+     "p": "access control, NVR repaired return, PSU"
+    }
+   ],
+   "china_share": "0% 中国",
+   "notes": "迈阿密安防分销（转口拉美），美国海运名下只有 5 票且无一来自中国 → 主货由大华/海康美国公司或品牌方供，自己不从中国直采；B 保持",
+   "fetched": "2026-10-27"
+  },
+  "SB-211": {
+   "name": "Eagle Eye Networks (Austin, TX)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/eagle-eye-networks",
+   "synced": "10/21/2026",
+   "last_shipment": "03/16/2026",
+   "total_shipments": 95,
+   "avg_teu": 2.12,
+   "avg_teu_month": 0.71,
+   "est_freight": "$69,212 (54%)",
+   "range": "02/2015-03/2026",
+   "suppliers": [
+    {
+     "n": "Shenzhen Sunell Technology（深圳景阳）",
+     "c": "China",
+     "s": 27,
+     "p": "Eagle Eye 贴牌摄像头 + 支架（2023 年 ≥7 票、每票 260–574 ctn；最后 2024-03-05）"
+    },
+    {
+     "n": "Shapepoint International",
+     "c": "China (Dongguan)",
+     "s": 25,
+     "p": "Eagle Eye 自家 Bridge/CMVR 机箱（2024-02-29 1,922 ctn）"
+    },
+    {
+     "n": "Shenzhen CSE Technology",
+     "c": "China",
+     "s": 9,
+     "p": "PoE SWITCH（HS 8517.62 / 8536.50；均在 2023 年之前，近期清单里已无）"
+    },
+    {
+     "n": "Ampacs International",
+     "c": "Vietnam (HCMC)",
+     "s": 3,
+     "p": "Eagle Eye 品牌网络摄像头（2025-10-28 164 ctn、2026-01-28 125 ctn、2026-03-16 129 ctn）"
+    },
+    {
+     "n": "Vivotek",
+     "c": "Taiwan",
+     "s": "≥1",
+     "p": "network cameras 2026-01-20 59 ctn"
+    },
+    {
+     "n": "Delta Electronics Jiangsu / Tele System TW / Zotac VN",
+     "c": "CN/TW/VN",
+     "s": 14,
+     "p": "适配器、线缆、迷你主机"
+    },
+    {
+     "n": "Eagle Eye Networks B.V.（阿姆斯特丹）",
+     "c": "Netherlands",
+     "s": 3,
+     "p": "内部调拨：video recorders, network bridges, SWITCHES, cables（2023-02-18 / 06-10）"
+    }
+   ],
+   "recent": [
+    [
+     "2026-03-16",
+     "Ampacs VN",
+     "1,247 kg 129 ctn",
+     "cameras"
+    ],
+    [
+     "2026-01-28",
+     "Ampacs VN",
+     "1,330 kg 125 ctn",
+     "cameras"
+    ],
+    [
+     "2026-01-20",
+     "Vivotek TW",
+     "600 kg 59 ctn",
+     "network cameras"
+    ],
+    [
+     "2025-10-28",
+     "Ampacs VN",
+     "1,668 kg 164 ctn",
+     "Eagle Eye brand cameras"
+    ],
+    [
+     "2024-03-05",
+     "Sunell CN",
+     "4,150 kg 317 ctn",
+     "cameras（最后一票中国摄像头）"
+    ],
+    [
+     "2024-02-29",
+     "Shapepoint CN",
+     "4,200 kg 1,922 ctn",
+     "chassis"
+    ]
+   ],
+   "china_share": "历史 69/95 中国；2024-03 之后中国票归零，2025–26 全部越南 / 台湾",
+   "notes": "Eagle Eye（云 VMS 品牌）曾从深圳 CSE 海运 PoE 交换机 9 票（2023 前）、交换机也从阿姆斯特丹仓内部调拨；**2024-03 起中国供应全停、摄像头转越南 Ampacs + 台湾 Vivotek** → 典型 NDAA / 关税去中国化户，对 Saga 的中国产交换机基本关门，除非走『非 NDAA 场景的海外项目』；B 保持、不花精力",
+   "chunks_read": [
+    0,
+    1,
+    2
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-303": {
+   "name": "Watchnet (Markham, ON — 经美国港口转运加拿大；库里登记为 US)",
+   "found": true,
+   "url": "https://www.importyeti.com/company/watchnet",
+   "synced": "10/21/2026",
+   "last_shipment": "10/05/2026",
+   "total_shipments": 47,
+   "avg_teu": 1.64,
+   "avg_teu_month": 0.55,
+   "est_freight": "$94,706 (61%)",
+   "range": "01/2015-10/2026",
+   "suppliers": [
+    {
+     "n": "Dahua Technology HK / Zhejiang Dahua Vision",
+     "c": "China",
+     "s": 26,
+     "p": "Watchnet 贴牌 CVI/IP 摄像头、NVR/DVR 套装、支架（2026-10-05 / 2025-07-26 / 2024-08-18 / 2024-06-10 377 pkg）"
+    },
+    {
+     "n": "Shenzhen Utepo Tech（优特普）",
+     "c": "China (Shenzhen Shiyan)",
+     "s": 4,
+     "p": "PoE SWITCH + PoE injector/extender：2022-02-07 364 kg 18 ctn；2023-08-04 446 kg 22 ctn；2023-10-22 757 kg 46 ctn（含机柜）；2023-12-09 1 pkg（PoE switch + 无线网桥）"
+    },
+    {
+     "n": "Shenzhen CSE Technology",
+     "c": "China",
+     "s": 1,
+     "p": "ETHERNET SWITCH 346 kg 23 ctn（2025-04-26）— 2024 年后换掉 Utepo 的新交换机来源"
+    },
+    {
+     "n": "Shenzhen Sunell / Foxlink Systems Canada / Hangzhou Zanuo Weipai / WTL Logistics / Secusys",
+     "c": "China",
+     "s": "≥8",
+     "p": "摄像头、支架、junction box、杂件"
+    },
+    {
+     "n": "Integra Technologies / Keyking Group",
+     "c": "China / KR",
+     "s": 5,
+     "p": "CCTV 配件、门禁读卡器"
+    },
+    {
+     "n": "HD Pro",
+     "c": "South Korea",
+     "s": 3,
+     "p": "CCTV cameras"
+    }
+   ],
+   "recent": [
+    [
+     "2026-10-05",
+     "Dahua HK",
+     "247 kg 19 pkg",
+     "cameras, junction"
+    ],
+    [
+     "2026-07-26",
+     "Foxlink Systems Canada",
+     "1,027 kg 94 pkg",
+     "brackets, NVR kits, cameras"
+    ],
+    [
+     "2026-04-13",
+     "Hangzhou Zanuo Weipai",
+     "909 kg 85 ctn",
+     "camera junction"
+    ],
+    [
+     "2025-07-26",
+     "Dahua HK",
+     "562 kg 37 ctn",
+     "cameras, NVR/DVR（'cargo transfer Canada'）"
+    ],
+    [
+     "2025-04-26",
+     "Shenzhen CSE Technology",
+     "346 kg 23 ctn",
+     "ETHERNET SWITCH"
+    ],
+    [
+     "2024-06-10",
+     "Dahua HK",
+     "3,824 kg 377 pkg",
+     "cameras, NVR/DVR kits"
+    ],
+    [
+     "2023-12-09 / 10-22 / 08-04",
+     "Shenzhen Utepo",
+     "1 pkg / 757 kg 46 ctn / 446 kg 22 ctn",
+     "PoE switch + injector/extender/rack"
+    ],
+    [
+     "2022-02-07",
+     "Shenzhen Utepo",
+     "364 kg 18 ctn",
+     "PoE switch + PoE injector"
+    ]
+   ],
+   "china_share": "43/47 中国",
+   "notes": "Watchnet 是多伦多安防品牌（大华贴牌为主），**PoE 交换机是独立采购线**：2022–2023 四票买深圳 Utepo（优特普），2025-04 换成深圳 CSE 一票 23 箱 → 每 1～1.5 年换一次中国 PoE 交换机供应商、每次 18～46 箱 LCL、经美国西岸转运多伦多；这正是 Saga 对位 Utepo/CSE 的 8/16/24 口 PoE（STC-028GP / STC-2024GP / STI-244GP）能插进去的户——下一次他们换供应商就在 2026 下半年～2027；库里 iso 标 US，实为 CA（加拿大户里少见的能看见海运的）",
+   "chunks_read": [
+    0,
+    1
+   ],
+   "fetched": "2026-10-27"
+  },
+  "SB-403": {
+   "name": "Surveillance-Video.com (Brooklyn, NY)",
+   "found": false,
+   "tried": [
+    "company/surveillance-video 404"
+   ],
+   "notes": "美国海运提单库查无（电商，货走美国分销/空运）",
+   "fetched": "2026-10-27"
+  },
+  "SB-1048": {
+   "name": "Kargor (Tampa, FL)",
+   "found": false,
+   "tried": [
+    "company/kargor 404"
+   ],
+   "notes": "美国海运提单库查无",
+   "fetched": "2026-10-27"
   }
  }
 }
