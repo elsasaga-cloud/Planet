@@ -26,6 +26,8 @@ IMPORTS_DIR = os.path.join(DATA, 'imports')               # T29-U62：公开海�
 
 
 def _load_imports():
+    """T29-U63：一个客户可能同时有美国提单（ImportYeti）和其他国家来源（HMRC / Volza / NBD …）→ 每码一个列表。
+    文件 _meta.kind 缺省为 'importyeti'（第 80 批美国海运提单），'other' = 第 81 批其他国家来源。"""
     out = {}
     if not os.path.isdir(IMPORTS_DIR):
         return out
@@ -33,10 +35,12 @@ def _load_imports():
         if not fn.endswith('.json'):
             continue
         d = json.load(open(os.path.join(IMPORTS_DIR, fn), encoding='utf-8'))
+        meta = d.get('_meta', {})
         for code, row in (d.get('rows') or {}).items():
             row = dict(row)
-            row['_src'] = d.get('_meta', {}).get('source', fn)
-            out[code] = row
+            row['_src'] = meta.get('source', fn)
+            row['_kind'] = meta.get('kind', 'importyeti')
+            out.setdefault(code, []).append(row)
     return out
 
 
@@ -243,11 +247,53 @@ def fmt_dims(ent):
     return '\n'.join(head + L) + '\n'
 
 
+def fmt_imports_other(r):
+    """第 81 批 · T29-U63：非美国来源（HMRC 英国官方 / Volza / NBD / ImportGenius / Tendata / MarketInsideData 免费摘要）。"""
+    L = [f"## 进口记录（公开海关数据 · 第 81 批 · {r.get('fetched', TODAY)}）", '',
+         f"> 来源：**{r.get('source', r.get('_src', ''))}**。{r.get('coverage', '')} 查询日 {r.get('fetched', TODAY)}。", '']
+    if not r.get('found'):
+        tried = '；'.join(r.get('tried') or [])
+        L.append(f"- **查无**：{tried or '按公司名查不到'}。")
+        for x in r.get('lines') or []:
+            L.append(f"- {x}")
+        if r.get('notes'):
+            L.append(f"- **对 Saga 的含义**：{r['notes']}")
+        L.append('- 查无 ≠ 不进口：可能用别的报关主体名、走快递 / 空运、或该国海关数据根本不对外公开。')
+        return '\n'.join(L) + '\n'
+    head = []
+    if r.get('name'):
+        head.append(f"报关主体 **{r['name']}**")
+    if r.get('latest'):
+        head.append(f"最近记录 **{r['latest']}**")
+    if r.get('url'):
+        head.append(f"[来源页]({r['url']})")
+    if head:
+        L.append('- ' + '；'.join(head))
+    for x in r.get('lines') or []:
+        L.append(f"- {x}")
+    if r.get('hs'):
+        L.append('- **涉及商品编码**：' + '、'.join(str(h) for h in r['hs']))
+    if r.get('partners'):
+        L.append('- **已披露的贸易伙伴**：' + '；'.join(r['partners']))
+    if r.get('notes'):
+        L.append(f"- **对 Saga 的含义**：{r['notes']}")
+    return '\n'.join(L) + '\n'
+
+
 def fmt_imports(ent):
-    """进口记录（第 80 批 · T29-U62）：ImportYeti（美国海关海运提单）逐户查询；查无也写一行，省得下次再查。"""
-    r = IMPORTS.get(ent['code'])
-    if not r:
-        return ''
+    """进口记录：第 80 批 ImportYeti（美国海运提单）+ 第 81 批其他国家来源；一个客户可能两段都有。查无也写，省得下次再查。"""
+    rows = IMPORTS.get(ent['code']) or []
+    out = []
+    for r in rows:
+        if r.get('_kind') == 'other':
+            out.append(fmt_imports_other(r))
+        else:
+            out.append(fmt_imports_us(r))
+    return '\n'.join(out)
+
+
+def fmt_imports_us(r):
+    """第 80 批 · T29-U62：ImportYeti（美国海关海运提单）逐户查询。"""
     L = [f"## 进口记录（公开海关数据 · 第 80 批 · {r.get('fetched', TODAY)}）", '',
          '> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。'
          '美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 ' + str(r.get('fetched', TODAY)) + '。', '']

@@ -71,6 +71,15 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 216 条 URL；社媒：https://wa.me/+923179995719、https://www.facebook.com/mtlinkpakistan/、https://www.instagram.com/mtlink_pakistan。
 - **日历窗口**：对方：2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 81 批 · 2026-10-27）
+
+> 来源：**Volza 搜索查无**。Volza 收录巴基斯坦进口数据（SB-869 Futurist 曾被索引），但 MT-Link 没有被搜索引擎索引的公司页。 查询日 2026-10-27。
+
+- **查无**：web_search "MT-Link" / "MT Link Technologies" Karachi volza / importgenius → 无。
+- Volza 没有 MT-Link 的公司页 → 要么以别的法人名报关、要么量小未被索引。
+- **对 Saga 的含义**：查无；巴基斯坦客户按既有节奏（B 类慢跟 / A 类仅 WhatsApp 一句话）处理，不为此再花时间。
+- 查无 ≠ 不进口：可能用别的报关主体名、走快递 / 空运、或该国海关数据根本不对外公开。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

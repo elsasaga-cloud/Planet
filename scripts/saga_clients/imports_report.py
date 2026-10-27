@@ -1,6 +1,6 @@
 """T29-U62 · 进口记录（公开海关数据）总表生成器。
 读取 data/saga_clients/imports/*.json（imports_store.put 写入的逐户查询结果）+ entities.json + dims.json，
-输出 docs/进口记录_公开海关_<date>.md：边界说明 / 关键发现（手写）/ 逐户总表 / 查无名单 / 新线索（海关里出现、库里没有的美国进口商）。
+输出 docs/进口记录_公开海关_<date>.md：边界说明 / 关键发现（手写）/ 逐户总表 / 查无名单 / 新线索（海关里出现、库里没有的美国进口商）/ 第七节其他国家（第 81 批，T29-U63）。
 重跑：python3 scripts/saga_clients/imports_report.py
 """
 import json, os, sys, datetime as dt
@@ -13,10 +13,12 @@ OUT = os.path.join(ROOT, 'docs', f'进口记录_公开海关_{TODAY}.md')
 
 E = {e['code']: e for e in json.load(open(os.path.join(DATA, 'entities.json'), encoding='utf-8'))}
 DIMS = json.load(open(os.path.join(DATA, 'dims.json'), encoding='utf-8')) if os.path.exists(os.path.join(DATA, 'dims.json')) else {}
-rows = {}
+rows = {}    # 第 80 批：ImportYeti 美国海运提单（kind 缺省）
+orows = {}   # 第 81 批：其他国家来源（_meta.kind == 'other'）
 for fn in sorted(os.listdir(IMP)):
     if fn.endswith('.json'):
-        rows.update(json.load(open(os.path.join(IMP, fn), encoding='utf-8')).get('rows', {}))
+        d = json.load(open(os.path.join(IMP, fn), encoding='utf-8'))
+        (orows if d.get('_meta', {}).get('kind') == 'other' else rows).update(d.get('rows', {}))
 
 CN_SWITCH = {  # 提单里明写从中国厂买交换机的户 → 对手名单
     'SA-021': 'Shenzhen Centro Technology（深圳西乡）· PoE switches ≥11 票 2020-10 → 2024-09-28，之后没再来',
@@ -144,8 +146,70 @@ L.append('')
 L.append(f'- **群发名单**：第二节第 1 条的 {len(CN_SWITCH)} 户是「已经在买中国交换机」的，把他们从通用群发里拿出来，各自一封对位信（ONV / Centro / HRUI / Utepo / CSE 对位型号 + 拼箱说明）；Watchnet（SB-303）每 1～1.5 年换一次 PoE 交换机供应商，是其中最该排进 2026 下半年日历的。')
 L.append('- **话术禁区**：对 GW Security 不提 HRUI；对 Nelly\'s/IPCamPower 不提 ONV 名字；任何信里不写其他客户名（INH 规则）。')
 L.append(f'- **再查节奏**：ImportYeti 每周同步一次，查过的 {len(rows)} 户不用再翻；只在 ① 某户来信 ② 季度末，重看 GW Security / Signamax / Optiview / Mako / Watchnet 五户有没有新票（看供应商有没有换）。')
-L.append('- **印度 / 巴基斯坦**：Zauba / Volza 有逐单金额，A/B 里 IN 5+43 户、PK 1+19 户，Q-63 决定做不做。')
+L.append('- **其他国家**：见第七节（第 81 批，T29-U63）。')
+L.append('')
+# ---------------- 第 81 批：其他国家 ----------------
+L.append('## 七、其他国家（第 81 批 · T29-U63「其他国家的不能查询吗」）')
+L.append('')
+L.append('> 美国之外，**只有英国有官方免费的按公司查询**（HMRC Find UK Traders）；印度 / 越南 / 土耳其 / 巴基斯坦 / 印尼靠聚合站的免费「公司页摘要」（Volza / NBD / ImportGenius / Tendata / MarketInsideData），能看到票数、供应商数、HS、年份、少量伙伴名，**明细与金额付费，我们不买**；'
+         '欧盟各国、加拿大、韩国、台湾、澳洲、海湾、以色列、南非、泰国、俄罗斯（2022 年后）没有按公司公开的海关记录——这些国家的 A/B 户只能靠官网 / 邮件 / 展会判断，不再花时间找海关。'
+         '原始数据：`data/saga_clients/imports/other_countries_2026-10-27.json`；每户结果已写进该户 MD 的「进口记录（第 81 批）」一节。')
+L.append('')
+L.append('### 7.1 各国能不能查（本轮实测）')
+L.append('')
+L.append('| 国家 | A/B 户数 | 来源 | 能看到什么 | 看不到什么 | 本轮查了 |')
+L.append('|---|---|---|---|---|---|')
+for row in [
+    ('英国 GB', '3 / 57', 'HMRC Find UK Traders（官方，免费）', '公司名 + 8 位商品编码 + 非欧盟来源的**逐月**记录（2016→2026-08）', '供应商、数量、金额；欧盟来源只到年', '8 户（7 有记录 / 1 查无）'),
+    ('印度 IN', '5 / 43', 'NBD Trade Data 公司页（按 IEC / PAN 拼 URL）+ Volza 搜索摘要', '记录数、供应商数、HS、4 家伙伴名、分年票数、最近 5 条品名', '金额、供应商全名（打码）', '6 户（4 有记录 / 2 查无）'),
+    ('土耳其 TR', '10 / 124', 'Volza 公司页 / Tendata / MarketInsideData 免费层', '票数、来源国占比、HS 章、前 3 供应商（Volza）、12 个月进口额（MID）', '逐单明细；Volza 土耳其数据只到 2023', '2 户有记录（Angora、Netaş）；Koptek / Snexus / SGE / IoT Sistem 搜索未索引'),
+    ('越南 VN', '1 / 15', 'ImportGenius 越南进口商页（免费窗口 2018-01 → 2022-02）', '票数、伙伴、最近 3 条含型号 / 数量 / HS / 口岸', '2022-02 之后', '1 户（Trường Sơn）'),
+    ('巴基斯坦 PK', '1 / 19', 'Volza（SB-869 Futurist 曾索引）', '同 Volza 摘要', '—', 'MT-Link 查无'),
+    ('印尼 ID', '3 / 11', 'Volza', '同 Volza 摘要', '—', 'Divatel 查无'),
+    ('俄罗斯 RU', '7 / 52', '无（2022 年后只在付费俄语库）', '—', '全部', 'Faraday 代表性确认查无'),
+    ('乌兹别克 UZ / 哈萨克 KZ', '1 / 3、0 / 多', '无公开来源', '—', '全部', '未查'),
+    ('欧盟 DE/IT/PL/CZ…、加拿大、韩国、台湾、澳洲、阿联酋、沙特、以色列、南非、泰国、马来西亚、巴西、菲律宾', '合计 A 30+ / B 400+', '无按公司公开的海关记录（加拿大只能靠美国转运提单）', '—', '全部', '不查'),
+]:
+    L.append('| ' + ' | '.join(str(x) for x in row) + ' |')
+L.append('')
+L.append('### 7.2 关键发现（其他国家）')
+L.append('')
+for x in [
+    '**英国 7 户里 6 户在持续非欧盟直采 8517 62 00**：Case Communications（SB-474）连续 11 年、2024–2025 年各 5–6 个月、最近 2026-08；Linxcom（SB-160）每年 4–11 个月、最近 2026-08；Technetix（SB-1121）几乎逐月（自家 HFC 产品代工）；Teltronix UK（SB-905）2026 年 1/2/4/6 月；Parallax（SA-017）每半年一次、最近 2026-01（姊妹公司 Parallax Digital Media 2025-09/11 也进）；Megnet（SA-015）2025-10 刚进过一次（主业 8471 电脑部件）。**ITM Systems（SB-767）的 8517 行全无月份 → 网络设备走欧盟渠道**；**Go Green IT（SA-007）完全查无 → 从英国分销商拿货**。',
+    '→ 英国话术分两种：有直采记录的（Case / Linxcom / Teltronix / Parallax / Megnet）报 **EXW / FOB 深圳 + 拼它现有的柜**，不用推 DAP；没有直采的（Go Green IT / ITM）必须报 **DAP 英国含税到门**，把「不会进口」这个理由拿掉。',
+    '**Case Communications（SB-474）是本轮最像《背景信息》第一目标（有进口经验的 OEM 品牌商）的户**：英国工业通信品牌、每年亚洲直采贴牌、节奏在加密（2016–21 年均 2–3 个月 → 2024–25 年 5–6 个月）。切入 = 它产品线缺的工业 DIN 导轨管理型 PoE（STI-42424XGGPM / STI-288DGGPM）做 OEM 30% 档；按节奏下一到货窗口 2026-10/11。',
+    '**印度：Sundar（SA-032）2025 年进口 165 票 / 31 家供应商，是 2023 年（17 票）的十倍**，主业工控 / 加固电脑（C&T、IBASE、Emdoor、Twinhead），HS 里有 85176290 但供应商里没有交换机厂 → 工业导轨机配套切入，MOQ 1。**Apollo（SB-641）2026-01-24 进的是「PoE 交换机散件 PCBA + 外壳」**（HS 85177990，台湾供应商）→ 已转本地组装，整机 8/16/24 口 PoE 别报；只报它不自产的万兆 L3 / 工业 / 2.5G，或 SKD（需 SmartByte 点头）。Areca（SA-063）2023 年 121 票、2025 年只剩 TI 芯片 → 项目配套买家。Vicom（SA-073）年营收 $3.27M 却只有 1 票进口（土耳其铁路信号）→ 全部境内采购，要 DDP 才有戏。',
+    '**土耳其：Angora（SA-077）45 票进口里 82% 来自中国，前三供应商 = 深圳 Ewind（交换机 ODM）+ 以色列 Larch（= 我方 B 户 SB-359）+ Neme Engae** → 它的 Verge 交换机是中国 ODM + 以色列贴牌；「做 Saga 代理」应反转为「先做它的第二家 ODM」。Netaş（SA-086）Tendata 130 票 / 39 家供应商 HS 8517.62，MID 12 个月进口 $517.61K / 28 票，大量经自家马耳他公司转口 → 项目型、合规文件优先。',
+    '**越南：Trường Sơn（SA-031）4 年只有一张 60 台明纬 48V 电源的快件单、没有任何 8517 申报** → ONV 工业 PoE 不是它自己进口的（走 ONV 越南总代）；对它只能 DAP 快件小批量 + VILINK 贴牌补 ONV 没有的型号。',
+    '**Larch Networks（SB-359，以色列）既是 Angora 的供应商、也是我方 B 户** → 内部对账：两边的信里都不提对方（话术禁区新增：Ewind / Larch 不对 Angora 提；Angora 不对 Larch 提）。',
+]:
+    L.append(f'- {x}')
+L.append('')
+L.append('### 7.3 逐户（其他国家）')
+L.append('')
+L.append('| 编号 | 国家 | 报关主体 / 公司 | 热度 | 来源 | 结果 | 最近记录 | 一句话 |')
+L.append('|---|---|---|---|---|---|---|---|')
+def _okey(c):
+    h = heat(c)
+    return (0 if c.startswith('SA-') else 1, (orows[c].get('iso') or ''), -(h if isinstance(h, (int, float)) else -1), c)
+for c in sorted(orows, key=_okey):
+    r = orows[c]
+    h = heat(c)
+    first = (r.get('lines') or [''])[0].replace('|', '／')
+    if len(first) > 120:
+        first = first[:118] + '…'
+    nm = (r.get('name') or name(c)).replace('|', '／')
+    if len(nm) > 60:
+        nm = nm[:58] + '…'
+    L.append(f"| {c} | {r.get('iso', '')} | {nm} | {h if h is not None else ''} | {(r.get('source') or '').split('（')[0]} | {'✅' if r.get('found') else '✗ 查无'} | {r.get('latest', '') if r.get('found') else ''} | {first} |")
+L.append('')
+L.append('### 7.4 怎么用')
+L.append('')
+L.append('- **英国 Find UK Traders 可以常态化**：每季度末把 GB 的 A/B 户名在 `uktradeinfo.com/search/traders/?q=<名>&traders=Importers` 过一遍，看 8517 62 00 有没有新月份（= 刚进过货 = 刚付过款，正是跟进时点）；结果用 `scripts/saga_clients/imports_other.py` 的 `put()` 追加。')
+L.append('- **印度按 IEC 查**：拿到客户 GSTIN（IndiaMART / 发票 / 邮件签名）→ 第 3–12 位是 PAN = 新制 IEC → `https://en.nbd.ltd/trader/info/26IN<PAN>`（老公司可能是 10 位数字旧 IEC，同样拼在 26IN 后）。')
+L.append('- **土耳其 / 其他聚合站**：只在客户回信、需要判断「它到底在从谁买」时查一次；搜索引擎索引不到的就放弃，不买会员。')
+L.append('- **不再查**：欧盟、加拿大、韩国、台湾、澳洲、海湾、以色列、南非、泰国、俄罗斯、中亚——没有公开来源，别再花时间。')
 L.append('')
 L.append(f'*生成：{TODAY}　|　脚本：`scripts/saga_clients/imports_report.py`　|　数据：`data/saga_clients/imports/`*')
 open(OUT, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
-print(OUT, len(rows), 'rows;', len(found), 'found')
+print(OUT, len(rows), 'US rows;', len(found), 'found;', len(orows), 'other-country rows;', sum(1 for r in orows.values() if r.get('found')), 'found')

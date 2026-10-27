@@ -87,6 +87,19 @@ updated: 2026-10-27
 - **同国同档参照（IN，30% 档，共 1 户有动静，列前 3）**：SA-032 sundartechno.com（A，同档：成交 STI-0160GE）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 81 批 · 2026-10-27）
+
+> 来源：**NBD Trade Data 公司页免费摘要（印度海关申报数据，按 IEC 定位）**。NBD（en.nbd.ltd）免费层：记录数、供应商数、相关 HS、4 家关联伙伴、分年票数、最近 5 条申报（供应商名打码）；金额 / 供应商全名付费。印度公司页 URL = /trader/info/26IN + IEC（IEC 可从 IndiaMART / GST 号第 3–12 位得到）。 查询日 2026-10-27。
+
+- 报关主体 **APOLLO INFOWAYS PVT. LTD.（Noida；IEC AAMCA3872D；WatchDog 品牌）**；最近记录 **2026-01-24**；[来源页](https://en.nbd.ltd/trader/info/26INAAMCA3872D)
+- NBD 收录 **129 条 / 22 家供应商**，最新 **2026-01-24**；分年：2021 年 27 票、2023 年 45 票（14 家）、2024 年 48 票（10 家）、2025 年出口 6 票。
+- **关联伙伴里有两家交换机原厂：H3C（新华三）和 Edgecore（台湾智邦）**，加 Longse（CCTV）——它的交换机过去是整机进口 H3C / Edgecore。
+- 最近 3 条（2026-01-24，台湾供应商 K***）：**「COMPONENTS FOR MFG OF POE SWITCH」**——PCBA 板 + 连接器 + 电源外壳、SMT 钢网、PCBA 余料，HS 85177990 → Apollo 已转为 **在印度自己组装 PoE 交换机**（Make in India / PLI 路线），进的是散件不是整机。
+- 2024-12-12 两条：64 路 4K AI NVR、5MP 多目摄像机「SAMPLE FOR INHOUSE TESTING」——持续在测新 CCTV 供应商。
+- **涉及商品编码**：85176290、85176990、85177990、85219090、85258900、85299090、85340000、90192010
+- **已披露的贸易伙伴**：H3C Technologies Co., Ltd.；H3C Technologies Co Limited；Longse Technology Limited（广州 CCTV）；Edgecore Networks Corporation（台湾交换机）
+- **对 Saga 的含义**：Apollo 不再是整机买家，而是本地组装的印度 OEM 品牌商（WatchDog）。对 Saga 只有两条路：① 它不自产的型号（万兆上联 L3 管理型 / 工业导轨 / 2.5G）整机补齐；② SKD / 半散件 + 固件授权——这要 SmartByte 同意，Simon 自己判断。整机 PoE 8/16/24 口别报了，它自己做。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

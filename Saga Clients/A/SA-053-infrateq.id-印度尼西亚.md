@@ -73,6 +73,15 @@ updated: 2026-10-27
 - **最后一球**：1:1 对话 1 段，最长一段 3 封 / 跨 0 天（2024-07-04 → 2024-07-04，「Re: industrial poe switch」）；**最后一句是他们说的**（2024-07-04，845 天前，「Re: industrial poe switch」，`7648ab2452628580`）：「Hello Simon, You can send the email with cc to info@divatel.co.id and ismedst@gmail.com in case you are facing…」。
 - **日历窗口**：对方：2026-12-25 圣诞–元旦；2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 81 批 · 2026-10-27）
+
+> 来源：**Volza 搜索查无**。Volza 收录印尼进口数据，但 Divatel 没有被索引的公司页。 查询日 2026-10-27。
+
+- **查无**：web_search volza "Divatel Pratama" / "PT Divatel" → 只有官网 / Facebook / LinkedIn（2–10 人）。
+- Volza 没有 Divatel 的公司页。LinkedIn 规模 2–10 人、ZoomInfo 营收 $23.6M（明显虚高）、主业 IP-PBX / 呼叫中心 / VoIP 设备，2025 起加 PA 系统、CCTV、「Network Industri」——交换机是新增副线。
+- **对 Saga 的含义**：查无 + 小团队 + VoIP 主业 → 它买交换机是项目配套，量小、看重到门价。报 DAP 雅加达小批量即可；不投入更多。
+- 查无 ≠ 不进口：可能用别的报关主体名、走快递 / 空运、或该国海关数据根本不对外公开。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

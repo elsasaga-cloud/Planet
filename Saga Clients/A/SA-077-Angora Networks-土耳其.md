@@ -170,6 +170,18 @@ updated: 2026-10-27
 - **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [anwHub](https://github.com/anwHub)（官网/邮箱域名一致；公开仓库 1，最近 push 2020-01-16：3rdPartyConfigs）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 81 批 · 2026-10-27）
+
+> 来源：**Volza 公司页免费摘要（土耳其海关镜像数据，页面标注 updated 14-11-2023）**。Volza 土耳其数据为镜像 / 第三方来源，公司页免费层只给票数、供应商数、来源国占比、HS 章、前三供应商和一张样例提单；明细付费。页面图表区间 Dec 2021–Nov 2022，数据更新至 2023-11-14。 查询日 2026-10-27。
+
+- 报关主体 **Angora Networks Bilişim Teknoloji Tic. San. A.Ş.（Volza 英译名 Angora Networks Informatics Technology Trade Industry Joint Stock Company）**；最近记录 **2023-11（Volza 更新日）**；[来源页](https://www.volza.com/company-profile/angora-networks-informatics-technology-trade-industry-joint-stock-company-54698404/)
+- Volza 记录 Angora **进口 45 票 / 15 家供应商**：来源 **中国 37 票（82.22%）**、以色列 7 票（15.56%）、德国 1 票；品类 HS **8517**（交换 / 路由）、8544（线缆）、8471（电脑）。另有出口 2 票（约旦 Mubadara Engineering Services、俄罗斯 Industrial Network Solutions）——它的「国产品牌」也在往外卖。
+- **前三供应商**：Ewind Technology Co Ltd（深圳交换机 ODM）、**Larch Networks Ltd（以色列，交换机 / ONT 厂，同时是我方 B 级客户 SB-359）**、Neme Engae Technology Co Ltd（中国）。→ Angora 的 Verge 交换机至少有一部分是中国 ODM + 以色列 Larch 贴牌。
+- 样例提单：供应商 Zhengzhou Qiyang Industrial Control Technology（中国）→ 便携式数据处理机 1 PCS（工控机样品）。
+- **涉及商品编码**：8517、8544、8471
+- **已披露的贸易伙伴**：Ewind Technology Co Ltd（中国）；Larch Networks Ltd（以色列 = 我方 B 客户 SB-359）；Neme Engae Technology Co Ltd（中国）；Zhengzhou Qiyang Industrial Control Technology Co Ltd（样例提单：便携式数据处理机 1 PCS）
+- **对 Saga 的含义**：这是土耳其唯一一户能免费看到供应商名的海关记录。Angora 82% 的进口来自中国、且主力供应商 Ewind 就是交换机 ODM——它完全具备「从中国直接买整机贴牌」的通道和习惯，Simon 之前谈的「Angora 做 Saga 代理」应反过来想：**先做它的第二家 ODM 供应商**（管理型 PoE / 万兆上联款），再谈代理。SB-359 Larch 既是它的供应商也是我们的客户 → 内部对账：别在给 Larch 的信里提 Angora，也别在给 Angora 的信里提 Larch。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

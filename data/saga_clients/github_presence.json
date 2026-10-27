@@ -6564,5 +6564,1996 @@
    }
   ],
   "checked_at": "2026-10-27T05:04:17Z"
+ },
+ "SB-180": {
+  "domain": "foline.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:04:28Z"
+ },
+ "SB-181": {
+  "domain": "inter-pos.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "doaa102938/Interactive-Posts-Comments",
+    "url": "https://github.com/doaa102938/Interactive-Posts-Comments",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-09-03T10:55:21Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:04:40Z"
+ },
+ "SB-184": {
+  "domain": "vernetzen.com.au",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:04:55Z"
+ },
+ "SB-185": {
+  "domain": "zeytek.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:05:07Z"
+ },
+ "SB-186": {
+  "domain": "basaranelektronik.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:05:19Z"
+ },
+ "SB-187": {
+  "domain": "pelikanbilgisayar.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:05:33Z"
+ },
+ "SB-188": {
+  "domain": "saf-slk.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:05:44Z"
+ },
+ "SB-189": {
+  "domain": "vintronsmartvision.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:05:54Z"
+ },
+ "SB-190": {
+  "domain": "ahamson.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Faixan-chaudhary/ahamson-client-portal",
+    "url": "https://github.com/Faixan-chaudhary/ahamson-client-portal",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-09-04T09:02:26Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:06:08Z"
+ },
+ "SB-193": {
+  "domain": "dema-vertrieb.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:06:18Z"
+ },
+ "SB-194": {
+  "domain": "sabaindia.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:06:30Z"
+ },
+ "SB-195": {
+  "domain": "bkgrupe.lt",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:06:41Z"
+ },
+ "SB-196": {
+  "domain": "extradigital.eu",
+  "accounts": [
+   {
+    "login": "extradigitaldevs",
+    "type": "Organization",
+    "url": "https://github.com/extradigitaldevs",
+    "name": "ExtraDigital Ltd",
+    "blog": "https://www.extradigital.co.uk/",
+    "email": "developers@extradigital.co.uk",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2021-02-15T09:09:43Z",
+    "updated_at": "2026-10-06T12:27:25Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:06:51Z"
+ },
+ "SB-197": {
+  "domain": "intellisystem.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:07:03Z"
+ },
+ "SB-198": {
+  "domain": "katalita.lt",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:10:18Z"
+ },
+ "SB-199": {
+  "domain": "korekonect.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:10:32Z"
+ },
+ "SB-200": {
+  "domain": "sysnetcenter.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:10:45Z"
+ },
+ "SB-201": {
+  "domain": "elsikr.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:10:58Z"
+ },
+ "SB-202": {
+  "domain": "egc-lb.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:11:07Z"
+ },
+ "SB-204": {
+  "domain": "aaagroup.pk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:11:17Z"
+ },
+ "SB-205": {
+  "domain": "barox.de",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "baroxdev/barox.dev",
+    "url": "https://github.com/baroxdev/barox.dev",
+    "desc": "Personal engineering journal, CV, and about page — baroxdev",
+    "stars": 1,
+    "pushed_at": "2026-10-15T13:07:38Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:11:29Z"
+ },
+ "SB-206": {
+  "domain": "brainboxes.com",
+  "accounts": [
+   {
+    "login": "brainboxes",
+    "type": "Organization",
+    "url": "https://github.com/brainboxes",
+    "name": "Brainboxes Limited",
+    "blog": "https://www.brainboxes.com",
+    "email": "support@brainboxes.com",
+    "company": null,
+    "public_repos": 4,
+    "created_at": "2015-04-20T14:00:40Z",
+    "updated_at": "2026-02-20T13:32:12Z",
+    "bio": "Official GitHub for Brainboxes. 🇬🇧 UK manufacturer of Industrial IoT, Ethernet to Serial, and Remote I/O devices. Connect, Monitor & Control.",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "brainboxes.io-dotnet",
+      "pushed_at": "2026-02-11T12:23:37Z",
+      "lang": "C#",
+      "desc": "APIs and example code for controlling Brainboxes Remote IO and Ethernet to Serial Devices",
+      "fork": false
+     },
+     {
+      "name": "brainboxes-edge-ai-vision-demo",
+      "pushed_at": "2026-01-16T15:59:27Z",
+      "lang": "Jupyter Notebook",
+      "desc": "Edge AI Vision Demo for Brainboxes BB-400",
+      "fork": false
+     },
+     {
+      "name": "brainboxes.io-nodejs",
+      "pushed_at": "2023-03-23T13:13:51Z",
+      "lang": "JavaScript",
+      "desc": "Node.js library to connect with brainboxes remote io devices",
+      "fork": false
+     },
+     {
+      "name": "product-3d-models",
+      "pushed_at": "2021-10-27T14:26:00Z",
+      "lang": null,
+      "desc": "3d models in various formats of Brainboxes products",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "Industry4/MultiPlug.Ext.Brainboxes",
+    "url": "https://github.com/Industry4/MultiPlug.Ext.Brainboxes",
+    "desc": "Brainboxes IO Extension for the MultiPlug .Net Edge Computing Platform",
+    "stars": 0,
+    "pushed_at": "2026-05-20T21:28:57Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "brainboxes/brainboxes-edge-ai-vision-demo",
+    "url": "https://github.com/brainboxes/brainboxes-edge-ai-vision-demo",
+    "desc": "Edge AI Vision Demo for Brainboxes BB-400",
+    "stars": 1,
+    "pushed_at": "2026-01-16T15:59:27Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "GSH-Open-source-projects/esp8266-body-interaction",
+    "url": "https://github.com/GSH-Open-source-projects/esp8266-body-interaction",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2020-09-16T00:09:04Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "bboldi/InspiringIoT",
+    "url": "https://github.com/bboldi/InspiringIoT",
+    "desc": "Stuff for InspiringIoT talk",
+    "stars": 0,
+    "pushed_at": "2024-02-22T09:20:54Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "KohrAhr/DemoGROGPRO",
+    "url": "https://github.com/KohrAhr/DemoGROGPRO",
+    "desc": "Car parking software (legacy). Riga, LATVIA.",
+    "stars": 0,
+    "pushed_at": "2019-05-09T04:40:40Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:11:43Z"
+ },
+ "SB-207": {
+  "domain": "ccontrols.de",
+  "accounts": [
+   {
+    "login": "Contemporary-Controls",
+    "type": "Organization",
+    "url": "https://github.com/Contemporary-Controls",
+    "name": "Contemporary Controls",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2025-07-02T18:02:00Z",
+    "updated_at": "2026-10-01T22:14:33Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:11:55Z"
+ },
+ "SB-208": {
+  "domain": "delock.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "MediaNerdStudio/generic-vtrcontrol",
+    "url": "https://github.com/MediaNerdStudio/generic-vtrcontrol",
+    "desc": "Bitfocus Companion module to control Sony 9-pin (RS-422) VTR devices using MediaNerd.RS422VTR library",
+    "stars": 0,
+    "pushed_at": "2025-11-24T11:37:48Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "johansundstrom/ssd",
+    "url": "https://github.com/johansundstrom/ssd",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2021-08-25T16:20:09Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "iugamarian/links",
+    "url": "https://github.com/iugamarian/links",
+    "desc": "links",
+    "stars": 4,
+    "pushed_at": "2024-07-04T15:56:43Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:12:09Z"
+ },
+ "SB-209": {
+  "domain": "denwaip.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:12:24Z"
+ },
+ "SB-210": {
+  "domain": "deonet.co.kr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:12:37Z"
+ },
+ "SB-211": {
+  "domain": "een.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "hogeschoolnovi/frontend-html-css-domeinshop",
+    "url": "https://github.com/hogeschoolnovi/frontend-html-css-domeinshop",
+    "desc": "",
+    "stars": 2,
+    "pushed_at": "2025-05-22T07:09:40Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "mcotton/EE-manufacturing-web",
+    "url": "https://github.com/mcotton/EE-manufacturing-web",
+    "desc": "Webserver component for Eagle Eye manufacturing demo",
+    "stars": 0,
+    "pushed_at": "2022-01-21T19:55:57Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "mcotton/ipython-template",
+    "url": "https://github.com/mcotton/ipython-template",
+    "desc": "A started ipython environment for Docker",
+    "stars": 0,
+    "pushed_at": "2019-03-25T16:36:54Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "mcotton/EE-bulk-settings",
+    "url": "https://github.com/mcotton/EE-bulk-settings",
+    "desc": "Go through a spreadsheet and modify cameras in account to match",
+    "stars": 0,
+    "pushed_at": "2025-06-23T18:15:03Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "mcotton/EE-manufacturing-detection",
+    "url": "https://github.com/mcotton/EE-manufacturing-detection",
+    "desc": "Computer vision processing component for Eagle Eye manufacturing demo",
+    "stars": 0,
+    "pushed_at": "2023-05-22T21:47:21Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:12:49Z"
+ },
+ "SB-212": {
+  "domain": "fti-optronic.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "soden46/rekrutmen-osis",
+    "url": "https://github.com/soden46/rekrutmen-osis",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-07-22T10:31:51Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "soden46/sistem-informasi-cuti",
+    "url": "https://github.com/soden46/sistem-informasi-cuti",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-07-16T11:37:51Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:13:00Z"
+ },
+ "SB-213": {
+  "domain": "kti.de",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "charlesntlala-lang/ktiDEBT-APP",
+    "url": "https://github.com/charlesntlala-lang/ktiDEBT-APP",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-05-27T06:17:09Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "ktimez/KtimezDevOpsTools",
+    "url": "https://github.com/ktimez/KtimezDevOpsTools",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2017-09-08T10:14:50Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "MaksimUshatov/KTI_demo",
+    "url": "https://github.com/MaksimUshatov/KTI_demo",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-01-15T13:00:38Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "tsarevmy/KTI_demo",
+    "url": "https://github.com/tsarevmy/KTI_demo",
+    "desc": "demo for KTI",
+    "stars": 0,
+    "pushed_at": "2026-01-17T14:53:57Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "BorisGitSaf/kti_development",
+    "url": "https://github.com/BorisGitSaf/kti_development",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2021-12-24T22:50:02Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:13:11Z"
+ },
+ "SB-214": {
+  "domain": "level1.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Zootian/Authentication-Project",
+    "url": "https://github.com/Zootian/Authentication-Project",
+    "desc": "From the London App Brewery, I documented 6 methods of authentication and have my sample users persisted in a mongodb fo",
+    "stars": 0,
+    "pushed_at": "2022-12-12T19:18:40Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "maisumerroo-eng/Fabletail_Flames_of_the_Hollow",
+    "url": "https://github.com/maisumerroo-eng/Fabletail_Flames_of_the_Hollow",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-05-24T17:16:48Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "michas-o-michas/roguelike",
+    "url": "https://github.com/michas-o-michas/roguelike",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-02-26T02:32:17Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "dimsumlabs-archive/lamma500",
+    "url": "https://github.com/dimsumlabs-archive/lamma500",
+    "desc": "Lamma 500 Dragonboat Festival - WiFi setup",
+    "stars": 1,
+    "pushed_at": "2012-06-17T04:51:11Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "patrickbrandao/go-loghub-uuid",
+    "url": "https://github.com/patrickbrandao/go-loghub-uuid",
+    "desc": "Biblioteca GoLang de implementação UUID",
+    "stars": 0,
+    "pushed_at": "2026-10-12T23:21:30Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:13:21Z"
+ },
+ "SB-215": {
+  "domain": "lindy.co.uk",
+  "accounts": [
+   {
+    "login": "Dann1y",
+    "type": "User",
+    "url": "https://github.com/Dann1y",
+    "name": "Danny",
+    "blog": "https://studio.lindyoperation.com",
+    "email": null,
+    "company": "@Lindy-Operation",
+    "public_repos": 45,
+    "created_at": "2017-06-27T07:50:50Z",
+    "updated_at": "2026-10-19T14:02:14Z",
+    "bio": "Founder of Lindy Operation Inc.",
+    "match": "company",
+    "repos": [
+     {
+      "name": "turbo",
+      "pushed_at": "2026-10-26T15:13:40Z",
+      "lang": "Rust",
+      "desc": "Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and ",
+      "fork": true
+     },
+     {
+      "name": "korea-election-guide",
+      "pushed_at": "2026-05-28T02:33:04Z",
+      "lang": "TypeScript",
+      "desc": "한국 선거 안내 — 내 선거구의 모든 후보·공약을 한 페이지에서",
+      "fork": false
+     },
+     {
+      "name": "homebrew-tap",
+      "pushed_at": "2026-04-26T16:47:40Z",
+      "lang": "Ruby",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "claude-usage-monitor",
+      "pushed_at": "2026-04-26T16:47:27Z",
+      "lang": "Swift",
+      "desc": "Track your Claude usage limits from the macOS menu bar — powered by Claude Code OAuth",
+      "fork": false
+     },
+     {
+      "name": "subscription-alert",
+      "pushed_at": "2026-03-20T02:21:35Z",
+      "lang": "TypeScript",
+      "desc": "Never miss an update — aggregate RSS, Facebook, and any website into one feed",
+      "fork": false
+     },
+     {
+      "name": "financial-services-plugins",
+      "pushed_at": "2026-03-19T06:07:12Z",
+      "lang": null,
+      "desc": "",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:13:39Z"
+ },
+ "SB-216": {
+  "domain": "ltsecurityinc.com.au",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:13:54Z"
+ },
+ "SB-217": {
+  "domain": "microsens.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Alberto0235/MEMS-and-Microsensors-COMSOL-Lab",
+    "url": "https://github.com/Alberto0235/MEMS-and-Microsensors-COMSOL-Lab",
+    "desc": "Design and FEA simulation of MEMS inertial sensors (Accelerometers, Gyroscopes) and optical devices (Photodiodes) using ",
+    "stars": 3,
+    "pushed_at": "2026-01-30T19:13:06Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:14:08Z"
+ },
+ "SB-218": {
+  "domain": "nag.ru",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "goq/telegram-list",
+    "url": "https://github.com/goq/telegram-list",
+    "desc": "List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для прогр",
+    "stars": 5000,
+    "pushed_at": "2026-08-30T10:11:27Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "SE-adm/Awesome-network",
+    "url": "https://github.com/SE-adm/Awesome-network",
+    "desc": "",
+    "stars": 507,
+    "pushed_at": "2026-09-02T20:25:26Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Prototype-X/blacklist-rkn-tool",
+    "url": "https://github.com/Prototype-X/blacklist-rkn-tool",
+    "desc": "Python3 скрипт для работы с реестром запрещенных сайтов http://vigruzki.rkn.gov.ru/",
+    "stars": 43,
+    "pushed_at": "2017-06-13T10:00:17Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "woohung/links-networking",
+    "url": "https://github.com/woohung/links-networking",
+    "desc": "Интернациональный awesome-list для сетевых инженеров/International awesome-list for network engineers",
+    "stars": 108,
+    "pushed_at": "2025-12-27T11:44:08Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "NewHR/telegram",
+    "url": "https://github.com/NewHR/telegram",
+    "desc": "Список интересных телеграм каналов, чатов, груп в сфере IT & Digital",
+    "stars": 113,
+    "pushed_at": "2023-10-12T11:38:59Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T05:14:20Z"
+ },
+ "SB-219": {
+  "domain": "sieraelectronics.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:14:28Z"
+ },
+ "SB-220": {
+  "domain": "sun-flowers.co.kr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:14:41Z"
+ },
+ "SB-221": {
+  "domain": "tyconsystems.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "animatedb/solar",
+    "url": "https://github.com/animatedb/solar",
+    "desc": "Hopefully helpful information about installing solar for a residence",
+    "stars": 3,
+    "pushed_at": "2023-09-30T23:18:01Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:14:53Z"
+ },
+ "SB-223": {
+  "domain": "2mtechnology.net",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "mouath-github/X-ray-luggage-scanning",
+    "url": "https://github.com/mouath-github/X-ray-luggage-scanning",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-11-17T19:59:03Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:15:06Z"
+ },
+ "SB-225": {
+  "domain": "shnrise.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:15:19Z"
+ },
+ "SB-226": {
+  "domain": "hcin4.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:15:30Z"
+ },
+ "SB-228": {
+  "domain": "negoh-op.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:15:41Z"
+ },
+ "SB-229": {
+  "domain": "tescom.co.tz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:15:52Z"
+ },
+ "SB-230": {
+  "domain": "adin.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:16:01Z"
+ },
+ "SB-231": {
+  "domain": "advance.technology",
+  "accounts": [
+   {
+    "login": "RJCodeAdvance",
+    "type": "User",
+    "url": "https://github.com/RJCodeAdvance",
+    "name": "RJ Code Advance",
+    "blog": "https://rjcodeadvance.com/",
+    "email": "rjcodeadvance@outlook.com",
+    "company": "RJ Code Advance",
+    "public_repos": 47,
+    "created_at": "2019-07-08T22:16:48Z",
+    "updated_at": "2025-07-25T01:15:13Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "Data-Dashboard-CSharp-SQL-WinForms",
+      "pushed_at": "2023-08-06T21:44:25Z",
+      "lang": "TSQL",
+      "desc": "Create a Dashboard - C#, SQL Server, WinForms & OOP / By Date Range",
+      "fork": false
+     },
+     {
+      "name": "RJControls",
+      "pushed_at": "2023-03-23T07:31:32Z",
+      "lang": "C#",
+      "desc": "Modern, flat, and elegant Custom Controls for Windows Forms, C#, or Visual Basic.NET. This Custon Controls library was c",
+      "fork": false
+     },
+     {
+      "name": "Login-Plano-Moderno-Transparente-WinForm-VB",
+      "pushed_at": "2022-09-12T22:03:01Z",
+      "lang": "Visual Basic .NET",
+      "desc": "Diseñar Formulario Login Plano Moderno Transparente y Botón Circular- Visual Basic y WinForm",
+      "fork": false
+     },
+     {
+      "name": "Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp",
+      "pushed_at": "2022-09-12T22:02:28Z",
+      "lang": "C#",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "GUI-Modern-Parte-2-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm",
+      "pushed_at": "2022-09-12T22:01:49Z",
+      "lang": "C#",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Modern-GUI-Multi-Form-Winform",
+      "pushed_at": "2022-09-12T22:01:21Z",
+      "lang": "C#",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "AdvancerTechnologies/MuscleSensorV3",
+    "url": "https://github.com/AdvancerTechnologies/MuscleSensorV3",
+    "desc": "Example code and files for the Muscle Sensor v3 by Advancer Technologies®",
+    "stars": 41,
+    "pushed_at": "2016-01-13T05:01:17Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "AdvancerTechnologies/MyoWare_v1_MuscleSensor",
+    "url": "https://github.com/AdvancerTechnologies/MyoWare_v1_MuscleSensor",
+    "desc": "Example code and documentation for the MyoWare® 1.0 Muscle Sensor by Advancer Technologies®",
+    "stars": 93,
+    "pushed_at": "2016-07-26T19:14:27Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "tcoppex/sparkle",
+    "url": "https://github.com/tcoppex/sparkle",
+    "desc": ":sparkler: GPU particle simulation engine, inspired by Agni's Philosophy.",
+    "stars": 197,
+    "pushed_at": "2025-01-24T14:46:47Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "ashiishjn/MIT-MANIPAL-IT-LAB",
+    "url": "https://github.com/ashiishjn/MIT-MANIPAL-IT-LAB",
+    "desc": "MIT IT LAB REPOSITORY",
+    "stars": 42,
+    "pushed_at": "2023-04-29T09:33:44Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "AdvancerTechnologies/MyoWare_BionicClaws",
+    "url": "https://github.com/AdvancerTechnologies/MyoWare_BionicClaws",
+    "desc": "Example code and files for the MyoWare® Bionic 3D Printed Claws tutorial by Advancer Technologies®",
+    "stars": 14,
+    "pushed_at": "2015-05-26T13:03:28Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T05:16:11Z"
+ },
+ "SB-232": {
+  "domain": "aixontec.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:16:27Z"
+ },
+ "SB-233": {
+  "domain": "avycon.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:16:41Z"
+ },
+ "SB-234": {
+  "domain": "benzotronic.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:16:53Z"
+ },
+ "SB-235": {
+  "domain": "bositaly.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:17:04Z"
+ },
+ "SB-236": {
+  "domain": "congtyminhphuoc.vn",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:17:17Z"
+ },
+ "SB-237": {
+  "domain": "dalessandris.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:17:31Z"
+ },
+ "SB-238": {
+  "domain": "digimax.it",
+  "accounts": [
+   {
+    "login": "DigiMaxIO",
+    "type": "User",
+    "url": "https://github.com/DigiMaxIO",
+    "name": "DigiMax",
+    "blog": "",
+    "email": null,
+    "company": "DigiMax, ALMAX",
+    "public_repos": 13,
+    "created_at": "2018-08-13T19:14:48Z",
+    "updated_at": "2026-10-23T15:52:18Z",
+    "bio": "Multidisciplinary Designer & Engineer",
+    "match": "company",
+    "repos": [
+     {
+      "name": "Capacitive-Touch-Sensing-Design-Guide",
+      "pushed_at": "2025-04-29T21:52:19Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "eufy-security-client",
+      "pushed_at": "2024-12-02T15:17:38Z",
+      "lang": null,
+      "desc": "This shared library allows to control Eufy security devices by connecting to the Eufy cloud servers and local/remote sta",
+      "fork": true
+     },
+     {
+      "name": "rtsp_simple_server",
+      "pushed_at": "2024-10-26T19:07:57Z",
+      "lang": "Dockerfile",
+      "desc": "RTSP Simple Server Addon for Home Assistant",
+      "fork": true
+     },
+     {
+      "name": "eufy-security-ws",
+      "pushed_at": "2024-09-29T07:43:39Z",
+      "lang": null,
+      "desc": "Small server wrapper around eufy-security-client library to access it via a WebSocket.",
+      "fork": true
+     },
+     {
+      "name": "hassio-eufy-security-ws",
+      "pushed_at": "2024-09-29T07:32:56Z",
+      "lang": null,
+      "desc": "Official eufy-security-ws Home Assistant add-on repository",
+      "fork": true
+     },
+     {
+      "name": "IQS7211A",
+      "pushed_at": "2024-08-10T16:47:16Z",
+      "lang": "C++",
+      "desc": "Arduino Library for Communicating with the Azoteq IQS7211A I2C Trackpad Chip",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "digimax-it",
+    "type": "Organization",
+    "url": "https://github.com/digimax-it",
+    "name": "Digimax",
+    "blog": "https://digimax.it.com",
+    "email": null,
+    "company": null,
+    "public_repos": 3,
+    "created_at": "2023-05-17T09:11:44Z",
+    "updated_at": "2025-08-02T04:55:07Z",
+    "bio": "Get maximum performance for digital services.",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "shadcn-admin",
+      "pushed_at": "2025-06-24T18:03:25Z",
+      "lang": null,
+      "desc": "Admin Dashboard UI built with Shadcn and Vite.",
+      "fork": true
+     },
+     {
+      "name": "laravel-daily-landing",
+      "pushed_at": "2025-04-29T09:29:54Z",
+      "lang": null,
+      "desc": "Created with StackBlitz ⚡️",
+      "fork": true
+     },
+     {
+      "name": "shadcn-ui-landing-page",
+      "pushed_at": "2025-02-24T14:36:09Z",
+      "lang": null,
+      "desc": "",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "bbd666/driver-ST7588Ti",
+    "url": "https://github.com/bbd666/driver-ST7588Ti",
+    "desc": "driver I2C for LCD 132 x 80 ST7588Ti",
+    "stars": 0,
+    "pushed_at": "2025-07-24T13:02:23Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:17:45Z"
+ },
+ "SB-239": {
+  "domain": "empicstar.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:17:59Z"
+ },
+ "SB-240": {
+  "domain": "frogfish.de",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "elgohr-update/frogfishio-delegate",
+    "url": "https://github.com/elgohr-update/frogfishio-delegate",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2023-03-29T11:06:10Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T05:18:09Z"
+ },
+ "SB-242": {
+  "domain": "grothe.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:18:22Z"
+ },
+ "SB-243": {
+  "domain": "hfcl.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Soumyojyotisaha/VIT-Resources",
+    "url": "https://github.com/Soumyojyotisaha/VIT-Resources",
+    "desc": "Placement Data 2023-2024",
+    "stars": 0,
+    "pushed_at": "2024-08-28T15:52:13Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:18:35Z"
+ },
+ "SB-244": {
+  "domain": "innowatt.it",
+  "accounts": [
+   {
+    "login": "innoWatt",
+    "type": "Organization",
+    "url": "https://github.com/innoWatt",
+    "name": "innoWatt",
+    "blog": "innowatt.io",
+    "email": null,
+    "company": null,
+    "public_repos": 7,
+    "created_at": "2017-11-03T16:45:53Z",
+    "updated_at": "2018-04-26T14:50:41Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "tarifes",
+      "pushed_at": "2024-02-05T14:59:42Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "factura",
+      "pushed_at": "2019-11-26T19:19:25Z",
+      "lang": "JavaScript",
+      "desc": "Calcular factura elèctrica a partir de corba horària (tarifa 3.1A)",
+      "fork": false
+     },
+     {
+      "name": "innowatt",
+      "pushed_at": "2017-07-21T16:56:55Z",
+      "lang": "PHP",
+      "desc": "innowatt.io",
+      "fork": false
+     },
+     {
+      "name": "icra-tarifes-optic",
+      "pushed_at": "2017-07-19T18:47:25Z",
+      "lang": "Python",
+      "desc": "Implementació protocol IEC 60870-5-102 (Lluís Bosch, Fèlix Hill, Lluís Corominas)",
+      "fork": false
+     },
+     {
+      "name": "innowatt-gui",
+      "pushed_at": "2017-06-07T23:00:44Z",
+      "lang": "PHP",
+      "desc": "innowatt GUI",
+      "fork": false
+     },
+     {
+      "name": "m2m_modem",
+      "pushed_at": "2017-04-20T21:11:19Z",
+      "lang": "Python",
+      "desc": "python scripts per comunicar modems m2m",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "sripatikannan",
+    "type": "User",
+    "url": "https://github.com/sripatikannan",
+    "name": "Sripati Kannan",
+    "blog": "www.innowatts.com",
+    "email": null,
+    "company": "Innowatts Inc",
+    "public_repos": 4,
+    "created_at": "2017-04-11T20:10:52Z",
+    "updated_at": "2021-04-28T01:33:45Z",
+    "bio": "Data Scientist at Innowatts Inc. , \r\nMS in Engineering, Purdue University\r\n",
+    "match": "company",
+    "repos": [
+     {
+      "name": "ShadowQueen",
+      "pushed_at": "2025-08-17T16:03:17Z",
+      "lang": "HTML",
+      "desc": "Shadow queen game",
+      "fork": false
+     },
+     {
+      "name": "sripatikannan.github.io",
+      "pushed_at": "2020-06-01T02:54:58Z",
+      "lang": "JavaScript",
+      "desc": "gaming",
+      "fork": false
+     },
+     {
+      "name": "a",
+      "pushed_at": "2020-05-26T03:03:26Z",
+      "lang": "JavaScript",
+      "desc": "For gaming",
+      "fork": false
+     },
+     {
+      "name": "projects",
+      "pushed_at": "2019-02-18T03:43:49Z",
+      "lang": "R",
+      "desc": "Data Science Projects",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:18:43Z"
+ },
+ "SB-245": {
+  "domain": "iotech-italia.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:18:56Z"
+ },
+ "SB-246": {
+  "domain": "isnetworks.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:19:09Z"
+ },
+ "SB-247": {
+  "domain": "jpg.lt",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "yougov/jwplayer-mirror",
+    "url": "https://github.com/yougov/jwplayer-mirror",
+    "desc": "Mirror for JWPlayer",
+    "stars": 0,
+    "pushed_at": "2013-11-14T17:52:28Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "TakehiroITO/jQuery-gallerybox",
+    "url": "https://github.com/TakehiroITO/jQuery-gallerybox",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2013-01-08T09:31:26Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "autodoor2010/cuacambientudong",
+    "url": "https://github.com/autodoor2010/cuacambientudong",
+    "desc": "Công nghệ an toàn <strong>cửa tự động</strong>, công nghệ an toàn cho công trình công cộng luôn đặt an toàn là trên hết ",
+    "stars": 0,
+    "pushed_at": "2017-12-04T08:46:16Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "vandana-jpg/https-github.com-vandana-jpg-ltf-cybersickness-webxr",
+    "url": "https://github.com/vandana-jpg/https-github.com-vandana-jpg-ltf-cybersickness-webxr",
+    "desc": " cybersickness",
+    "stars": 0,
+    "pushed_at": "2026-07-01T11:50:24Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "borisshapa/markdown-to-html",
+    "url": "https://github.com/borisshapa/markdown-to-html",
+    "desc": "Converter from markdown to html.",
+    "stars": 3,
+    "pushed_at": "2020-06-05T22:36:46Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:19:23Z"
+ },
+ "SB-248": {
+  "domain": "nellyssecurity.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "tjcarlsoeckerd/CapstoneClass",
+    "url": "https://github.com/tjcarlsoeckerd/CapstoneClass",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2018-02-19T02:50:36Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:19:33Z"
+ },
+ "SB-249": {
+  "domain": "netbergtw.com",
+  "accounts": [
+   {
+    "login": "netbergtw",
+    "type": "Organization",
+    "url": "https://github.com/netbergtw",
+    "name": "NetBerg",
+    "blog": "www.netbergtw.com",
+    "email": "info@netbergtw.com",
+    "company": null,
+    "public_repos": 11,
+    "created_at": "2019-03-03T13:26:54Z",
+    "updated_at": "2019-03-03T13:36:09Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "sonic-buildimage",
+      "pushed_at": "2026-07-17T13:31:54Z",
+      "lang": "C",
+      "desc": "Scripts which perform an installable binary image build for SONiC",
+      "fork": true
+     },
+     {
+      "name": "onie",
+      "pushed_at": "2026-06-16T19:41:41Z",
+      "lang": "Makefile",
+      "desc": "Open Network Install Environment",
+      "fork": true
+     },
+     {
+      "name": "sonic-swss",
+      "pushed_at": "2026-06-10T08:50:31Z",
+      "lang": null,
+      "desc": "SONiC Switch State Service (SwSS)",
+      "fork": true
+     },
+     {
+      "name": "files",
+      "pushed_at": "2026-05-29T17:31:36Z",
+      "lang": "C",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "sonic-buildimage-pr2",
+      "pushed_at": "2025-12-23T08:02:57Z",
+      "lang": "C",
+      "desc": "Scripts which perform an installable binary image build for SONiC",
+      "fork": true
+     },
+     {
+      "name": "sonic-utilities",
+      "pushed_at": "2025-04-25T08:30:10Z",
+      "lang": null,
+      "desc": "Command line utilities for the SONiC project",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "hesingh/p4-info",
+    "url": "https://github.com/hesingh/p4-info",
+    "desc": "",
+    "stars": 13,
+    "pushed_at": "2021-04-08T18:02:31Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:19:46Z"
+ },
+ "SB-250": {
+  "domain": "pf-electronic.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:19:58Z"
+ },
+ "SB-251": {
+  "domain": "pixcom.ae",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:20:11Z"
+ },
+ "SB-252": {
+  "domain": "platinumcctv.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:20:22Z"
+ },
+ "SB-253": {
+  "domain": "provision-isr.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:20:33Z"
+ },
+ "SB-254": {
+  "domain": "sicurtecnicanapoli.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:20:44Z"
+ },
+ "SB-255": {
+  "domain": "switchtec.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:20:55Z"
+ },
+ "SB-256": {
+  "domain": "tvprzemyslowa.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:21:08Z"
+ },
+ "SB-257": {
+  "domain": "voxplus.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:21:19Z"
+ },
+ "SB-258": {
+  "domain": "arfanet.al",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:21:30Z"
+ },
+ "SB-259": {
+  "domain": "dourte.be",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:21:39Z"
+ },
+ "SB-260": {
+  "domain": "hk-systeme.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:21:48Z"
+ },
+ "SB-261": {
+  "domain": "rectec.cz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:21:56Z"
+ },
+ "SB-262": {
+  "domain": "softwareeffect.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:22:11Z"
+ },
+ "SB-263": {
+  "domain": "tecside.be",
+  "accounts": [
+   {
+    "login": "tecside",
+    "type": "User",
+    "url": "https://github.com/tecside",
+    "name": "Tecside Limitada",
+    "blog": "https://www.tecside.net",
+    "email": null,
+    "company": "Tecside LDA",
+    "public_repos": 1,
+    "created_at": "2020-09-19T11:32:11Z",
+    "updated_at": "2021-07-29T01:00:34Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "tecfit",
+      "pushed_at": "2021-12-06T20:44:53Z",
+      "lang": "SCSS",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:22:22Z"
+ },
+ "SB-264": {
+  "domain": "tier1ds.com",
+  "accounts": [
+   {
+    "login": "Tier1",
+    "type": "Organization",
+    "url": "https://github.com/Tier1",
+    "name": "Tier1",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 1,
+    "created_at": "2013-09-05T06:29:27Z",
+    "updated_at": "2025-03-07T09:46:16Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "mp-mobile",
+      "pushed_at": "2013-09-05T10:47:53Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:22:35Z"
+ },
+ "SB-265": {
+  "domain": "videotronic.ch",
+  "accounts": [
+   {
+    "login": "VideotronicMaker",
+    "type": "User",
+    "url": "https://github.com/VideotronicMaker",
+    "name": "VideotronicMaker",
+    "blog": "https://videotronicmaker.com",
+    "email": "maker@videotronicmaker.com",
+    "company": "VideotronicMaker.com",
+    "public_repos": 10,
+    "created_at": "2019-10-12T21:52:06Z",
+    "updated_at": "2026-10-13T19:09:50Z",
+    "bio": "Video Production | Web Design | Arduino | Artificial Intelligence",
+    "match": "company",
+    "repos": [
+     {
+      "name": "VideotronicMaker-OS",
+      "pushed_at": "2026-05-14T13:35:38Z",
+      "lang": "HTML",
+      "desc": "VTM OS™ Community Edition: A Reference Architecture for Bio-Mimetic AI and Robotics. Protected for Personal & Educationa",
+      "fork": false
+     },
+     {
+      "name": "VideotronicMaker",
+      "pushed_at": "2026-02-01T15:52:59Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Reyax-Lora-Architecture",
+      "pushed_at": "2026-01-25T18:15:22Z",
+      "lang": "C++",
+      "desc": "A bio-mimetic environmental sensing architecture using LoRa technology and the Arduino Uno Q. Designed for long-range re",
+      "fork": false
+     },
+     {
+      "name": "VTM-CodeFrame",
+      "pushed_at": "2026-01-24T13:34:21Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Bioluminescence-Sensor-Sketch-for-Arduino-Uno-R4-WiFi",
+      "pushed_at": "2025-09-01T21:25:51Z",
+      "lang": "C++",
+      "desc": "This sketch uses an Adafruit TSL2591 light sensor to measure light levels and visualizes the intensity on the built-in L",
+      "fork": false
+     },
+     {
+      "name": "whisper_transcription_ui_app",
+      "pushed_at": "2024-07-19T12:38:03Z",
+      "lang": "CSS",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:22:46Z"
+ },
+ "SB-266": {
+  "domain": "axilogi.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:22:58Z"
+ },
+ "SB-267": {
+  "domain": "bio-cognitive.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:23:11Z"
+ },
+ "SB-268": {
+  "domain": "bulutlarbilisim.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:23:24Z"
+ },
+ "SB-269": {
+  "domain": "contradata.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:23:35Z"
+ },
+ "SB-270": {
+  "domain": "damixsat.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:23:46Z"
+ },
+ "SB-271": {
+  "domain": "dodicelettronica.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:23:56Z"
+ },
+ "SB-272": {
+  "domain": "electronikhouse.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:24:07Z"
+ },
+ "SB-273": {
+  "domain": "eretekne.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:24:18Z"
+ },
+ "SB-274": {
+  "domain": "fiberix.com.tr",
+  "accounts": [
+   {
+    "login": "fiberixcom",
+    "type": "User",
+    "url": "https://github.com/fiberixcom",
+    "name": null,
+    "blog": "https://fiberix.com.tr/kampanyalar.html",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2020-03-16T22:57:43Z",
+    "updated_at": "2024-10-29T20:40:40Z",
+    "bio": "",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:24:28Z"
+ },
+ "SB-275": {
+  "domain": "gelecekbt.com",
+  "accounts": [
+   {
+    "login": "gelecekbt",
+    "type": "User",
+    "url": "https://github.com/gelecekbt",
+    "name": "Yusuf Ölçer",
+    "blog": "http://www.gelecekbt.com/",
+    "email": null,
+    "company": "GelecekBT Bilgi ve İletişim Teknolojileri",
+    "public_repos": 0,
+    "created_at": "2021-05-10T20:46:59Z",
+    "updated_at": "2021-06-24T11:48:10Z",
+    "bio": "Temel olarak,  Ethernet Ağ Anahtarları ve SFP modüller , Endüstriyel Haberleşme ürünleri , Telekom SDH/PDH Sistemleri , Fiber optik video audio çeviriciler ",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:24:40Z"
+ },
+ "SB-276": {
+  "domain": "hanelektronik.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:24:54Z"
+ },
+ "SB-277": {
+  "domain": "instantbyte.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:25:06Z"
+ },
+ "SB-278": {
+  "domain": "lanmus.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:25:20Z"
+ },
+ "SB-279": {
+  "domain": "marlexconexion.com",
+  "accounts": [
+   {
+    "login": "botdetection",
+    "type": "Organization",
+    "url": "https://github.com/botdetection",
+    "name": "Bot Detection",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2020-01-30T18:07:20Z",
+    "updated_at": "2026-09-29T01:22:26Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:25:34Z"
+ },
+ "SB-280": {
+  "domain": "metcom.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:25:48Z"
+ },
+ "SB-281": {
+  "domain": "multiguide.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:26:03Z"
+ },
+ "SB-282": {
+  "domain": "nfsteknoloji.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:26:14Z"
+ },
+ "SB-283": {
+  "domain": "oncuguvenlik.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:26:27Z"
+ },
+ "SB-284": {
+  "domain": "provowire.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:26:40Z"
+ },
+ "SB-285": {
+  "domain": "rfteknoloji.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:26:51Z"
+ },
+ "SB-286": {
+  "domain": "rimaelektronik.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:27:04Z"
+ },
+ "SB-287": {
+  "domain": "sea-srl.it",
+  "accounts": [
+   {
+    "login": "seaitapp",
+    "type": "Organization",
+    "url": "https://github.com/seaitapp",
+    "name": "Sea It LLC",
+    "blog": "seaitapp.com",
+    "email": "info@seaitapp.com",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2022-10-06T15:36:42Z",
+    "updated_at": "2026-10-06T07:08:24Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:27:15Z"
+ },
+ "SB-288": {
+  "domain": "secomp-international.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:27:28Z"
+ },
+ "SB-289": {
+  "domain": "sisav.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:27:39Z"
+ },
+ "SB-290": {
+  "domain": "solpakutec.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:27:52Z"
+ },
+ "SB-291": {
+  "domain": "technosources.ca",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:28:02Z"
+ },
+ "SB-292": {
+  "domain": "teslanetworks.be",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:28:13Z"
+ },
+ "SB-293": {
+  "domain": "virtualprotective.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:28:24Z"
+ },
+ "SB-294": {
+  "domain": "hisvisionhatay.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:28:38Z"
+ },
+ "SB-295": {
+  "domain": "wicomsolutions.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:28:51Z"
+ },
+ "SB-296": {
+  "domain": "bhs-media.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:29:01Z"
+ },
+ "SB-298": {
+  "domain": "vnstech.com",
+  "accounts": [
+   {
+    "login": "vnstech",
+    "type": "Organization",
+    "url": "https://github.com/vnstech",
+    "name": "VNS Tech",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 1,
+    "created_at": "2025-04-01T19:06:47Z",
+    "updated_at": "2025-04-03T02:37:40Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "echo-eventus",
+      "pushed_at": "2025-07-08T14:17:08Z",
+      "lang": null,
+      "desc": "Echo Eventus is a system developed for general event organization.",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:29:12Z"
+ },
+ "SB-299": {
+  "domain": "ayezeegroup.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:29:24Z"
+ },
+ "SB-300": {
+  "domain": "camsanordu.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:29:38Z"
+ },
+ "SB-301": {
+  "domain": "ebatek.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:29:49Z"
+ },
+ "SB-302": {
+  "domain": "antalyaturkuaz.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:30:02Z"
+ },
+ "SB-303": {
+  "domain": "watchnetinc.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:30:19Z"
+ },
+ "SB-304": {
+  "domain": "aadona.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "ayushmishra00130/aadona-backend",
+    "url": "https://github.com/ayushmishra00130/aadona-backend",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-01-27T05:09:58Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T05:30:31Z"
+ },
+ "SB-305": {
+  "domain": "bitsandbyte.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:30:47Z"
+ },
+ "SB-307": {
+  "domain": "saxco.com.my",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:32:14Z"
+ },
+ "SB-308": {
+  "domain": "alconlink.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:32:26Z"
+ },
+ "SB-309": {
+  "domain": "alternetivo.cz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:32:39Z"
+ },
+ "SB-310": {
+  "domain": "arcanlibya.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:32:50Z"
+ },
+ "SB-311": {
+  "domain": "dipolnet.cz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:33:00Z"
+ },
+ "SB-312": {
+  "domain": "fibercomtelecoms.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:33:13Z"
+ },
+ "SB-313": {
+  "domain": "intellcom.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:33:26Z"
+ },
+ "SB-314": {
+  "domain": "rspotsolutions.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:33:37Z"
+ },
+ "SB-315": {
+  "domain": "stc-vietnam.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:33:50Z"
+ },
+ "SB-316": {
+  "domain": "swl.co.nz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:34:03Z"
+ },
+ "SB-317": {
+  "domain": "techfors.cz",
+  "accounts": [
+   {
+    "login": "techforspace",
+    "type": "User",
+    "url": "https://github.com/techforspace",
+    "name": "Techforspace",
+    "blog": "https://www.techforspace.com",
+    "email": "techforspace@gmail.com",
+    "company": "TechForSpace",
+    "public_repos": 7,
+    "created_at": "2015-07-15T12:41:27Z",
+    "updated_at": "2017-12-02T23:46:02Z",
+    "bio": "A non-profit association where international teams of space enthusiasts develop small aerospace projects during their free time.",
+    "match": "company",
+    "repos": [
+     {
+      "name": "GarageSat",
+      "pushed_at": "2017-12-02T23:47:23Z",
+      "lang": null,
+      "desc": "GarageSat TFS project",
+      "fork": false
+     },
+     {
+      "name": "sentinel",
+      "pushed_at": "2017-06-12T10:43:15Z",
+      "lang": "Jupyter Notebook",
+      "desc": "Repository created for the Earth Observation Sentinel project",
+      "fork": false
+     },
+     {
+      "name": "orbitsgame",
+      "pushed_at": "2015-12-13T11:42:02Z",
+      "lang": null,
+      "desc": "This is the repository created for the TFS orbits game",
+      "fork": false
+     },
+     {
+      "name": "space-data-visuals",
+      "pushed_at": "2015-12-10T07:30:45Z",
+      "lang": null,
+      "desc": "Space Data Visuals TFS Project",
+      "fork": false
+     },
+     {
+      "name": "tfsGpsApp",
+      "pushed_at": "2015-10-28T12:22:26Z",
+      "lang": "Java",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "zero-g",
+      "pushed_at": "2015-10-28T10:56:34Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:34:13Z"
+ },
+ "SB-318": {
+  "domain": "verdelon.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:34:28Z"
+ },
+ "SB-319": {
+  "domain": "viewtech.co.nz",
+  "accounts": [
+   {
+    "login": "ViewTechOrg",
+    "type": "Organization",
+    "url": "https://github.com/ViewTechOrg",
+    "name": "ViewTech (OFC)",
+    "blog": "",
+    "email": "viewtechorg@gmail.com",
+    "company": null,
+    "public_repos": 12,
+    "created_at": "2025-04-06T12:18:42Z",
+    "updated_at": "2025-04-20T09:34:49Z",
+    "bio": "ViewTech is the name of a technology company that offers several programming products.",
+    "match": "name",
+    "repos": [
+     {
+      "name": ".github",
+      "pushed_at": "2026-10-22T20:56:08Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Trust-YourCam",
+      "pushed_at": "2026-02-04T09:43:22Z",
+      "lang": "PHP",
+      "desc": "Social Enggenering Toolkit (Hack Cam & Location Tracking with gps)",
+      "fork": false
+     },
+     {
+      "name": "Crack-IG",
+      "pushed_at": "2025-11-30T05:42:37Z",
+      "lang": "Shell",
+      "desc": "tools bruteforce instagram account new methode",
+      "fork": false
+     },
+     {
+      "name": "Server",
+      "pushed_at": "2025-09-27T01:42:34Z",
+      "lang": "D",
+      "desc": "hosting image / etc",
+      "fork": false
+     },
+     {
+      "name": "Vconfig",
+      "pushed_at": "2025-09-26T17:32:17Z",
+      "lang": "Python",
+      "desc": "Hc Config Downloader",
+      "fork": false
+     },
+     {
+      "name": "Reverse-Engineering",
+      "pushed_at": "2025-08-27T13:47:52Z",
+      "lang": "Python",
+      "desc": "Hasil decrypt file lain ,di simpan di sini ya",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "viewtech1",
+    "type": "User",
+    "url": "https://github.com/viewtech1",
+    "name": "viewtech",
+    "blog": "https://www.viewtech.ca",
+    "email": null,
+    "company": "viewtech",
+    "public_repos": 0,
+    "created_at": "2023-03-03T10:35:51Z",
+    "updated_at": "2023-03-03T10:39:18Z",
+    "bio": "Latest Video Surveillance Technologies provide accurate sensing and deep learning algorithms.AcuSense by Hikvision distinguishes people, animals and vehicles fr",
+    "match": "company"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:34:39Z"
+ },
+ "SB-321": {
+  "domain": "bwsystems.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T05:34:52Z"
  }
 }

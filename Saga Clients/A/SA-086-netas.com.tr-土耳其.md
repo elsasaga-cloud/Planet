@@ -118,6 +118,18 @@ updated: 2026-10-27
 - **最后一球**：1:1 对话 3 段，最长一段 48 封 / 跨 277 天（2025-10-13 → 2026-07-17，「Industrial L2/L3 Managed Switches」）；**最后一句是他们说的**（2026-08-12，75 天前，「Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Or」，`2a47ba3b4819e20e`）：「 Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten v…」。
 - **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 进口记录（公开海关数据 · 第 81 批 · 2026-10-27）
+
+> 来源：**Tendata 买家页搜索摘要 + MarketInsideData 公司页（土耳其海关镜像数据）**。两家聚合站的免费层：Tendata 搜索摘要给票数 / 供应商数 / HS；MarketInsideData 给 12 个月进口额、票数、伙伴国数。明细（供应商名、单票金额）付费，未购买。Volza 另有 Netas Telecommunications Malta Ltd 出口土耳其 570 票的记录。 查询日 2026-10-27。
+
+- 报关主体 **Netaş Telekomünikasyon A.Ş.（Pendik / Ümraniye, İstanbul）**；最近记录 **2024-09（MarketInsideData 统计期末）**；[来源页](https://www.marketinsidedata.com/en/company/netas-telekomunikasyon-anonim/b6fda99e36e51351c2c3d8970ff4df22)
+- Tendata：NETAŞ TELEKOMÜNİKASYON A.Ş. **进口 130 票 / 39 家供应商**，前三个 HS 全是 **8517.62（交换 / 路由）与 8536.69（连接器）**：851762009000、851762001000、853669900018。
+- MarketInsideData：**2023-10 → 2024-09 进口额 USD 517.61K / 28 票**，出口 USD 14.28K / 6 票，伙伴国 11 个，行业归类「Telephones for transmission（8517）」。
+- Volza：**Netas Telecommunications Malta Ltd** 向土耳其出口 570 票（100% 目的地土耳其，样例提单 2023-09-15 Ambarlı 5,640 PCS）→ Netaş 相当一部分进口是经自家马耳他公司中转的（欧盟内采购 / 转口），不是直接从中国买。
+- **涉及商品编码**：851762009000、851762001000、853669900018
+- **已披露的贸易伙伴**：Netas Telecommunications Malta Ltd（自家马耳他公司，Volza：570 票出口至土耳其）
+- **对 Saga 的含义**：Netaş 的海关画像 = 一年几十票、金额几十万美元级的 8517.62 进口，而且很多经马耳他子公司走——它是系统集成 / 运营商项目商，不是囤货分销。对 Saga 的含义：单次项目型采购、认证 / 合规文件要全（CE / RoHS / REACH + 土耳其进口要求），报价按项目批量给 25% 档；别指望月度复购。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
