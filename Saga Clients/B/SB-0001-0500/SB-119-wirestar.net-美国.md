@@ -73,8 +73,8 @@ updated: 2026-10-27
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
   | 2025-01-06 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `afb97b9de3e5db66` |
-  | 2024-12-11 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `8192d45be63bafb5` |
-  | 2024-07-16 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 48 port managed switch | `dfa2c386fe4b6efa` |
+  | 2024-12-11 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `8192d45be63bafb5` |
+  | 2024-07-16 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 48 port managed switch | `dfa2c386fe4b6efa` |
   | 2024-06-19 | 「Price is 310usd/pc.」 | $310 | —（原句无型号） | — | 1:1 | 48 port managed switch | `deda136173372ce7` |
   | 2024-06-18 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `ed2834ea791b39b5` |
 

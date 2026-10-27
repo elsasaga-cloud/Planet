@@ -74,11 +74,11 @@ updated: 2026-10-27
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
   | 2025-01-01 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `a22305966d858c0f` |
-  | 2024-11-20 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `dc114515593296e1` |
-  | 2024-07-22 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G fiber media converter | `c62dff0f5e5bf837` |
+  | 2024-11-20 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `dc114515593296e1` |
+  | 2024-07-22 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G fiber media converter | `c62dff0f5e5bf837` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 57 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://gofiberx.com/、https://gofiberx.com/cloud-services/、https://gofiberx.com/colocation-services/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 57 条 URL；社媒：https://gofiberx.com/、https://gofiberx.com/cloud-services/、https://gofiberx.com/colocation-services/。
 - **写信的人（来信签名机械抽取）**：Ivan Rivera（irivera@fiberx.net，4 封，2025-01-03 → 2026-06-05）。
 - **他们嘴里的词（4 封来信、去引用后 434 字符的词频）**：话题（次数，最近一次）：10G ×1（2025-01-03）、工业 ×1（2025-01-03）、质保 / 售后 ×1（2026-06-05）；**提到的同行品牌**：H3C ×1（2026-06-05）。
 - **渠道反应**：S 箱（Simon） 去 12（1:1 5 / 群发 7）回 3，最近回 2025-01-03；A 箱（Alan） 去 24（1:1 2 / 群发 22）回 1，最近回 2026-06-05 → 两箱都回过，按绑定行的渠道走即可。

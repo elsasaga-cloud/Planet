@@ -66,11 +66,11 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-12-17 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `882947227dd21bbc` |
-  | 2024-10-29 | 「*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `6ac9585b21c92a7c` |
+  | 2024-12-17 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `882947227dd21bbc` |
+  | 2024-10-29 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `6ac9585b21c92a7c` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 357 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/ad_net、https://www.facebook.com/adnetTechnology、https://www.linkedin.com/company/ad-net-technology-co-ltd。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 357 条 URL；社媒：https://twitter.com/ad_net、https://www.facebook.com/adnetTechnology、https://www.linkedin.com/company/ad-net-technology-co-ltd。
 - **写信的人（来信签名机械抽取）**：robin（robin@ad-net.com.tw，1 封，2025-09-17 → 2025-09-17）。
 - **他们嘴里的词（1 封来信、去引用后 498 字符的词频）**：话题（次数，最近一次）：工业 ×1（2025-09-17）、管理型 / L2+ / L3 ×1（2025-09-17）、价格 / 折扣 ×1（2025-09-17）。
 - **渠道反应**：S 箱（Simon） 去 8（1:1 0 / 群发 8）回 0，从未回；A 箱（Alan） 去 19（1:1 1 / 群发 18）回 1，最近回 2025-09-17 → 只对 A 箱 Alan 有反应，下一封别换箱。

@@ -76,8 +76,8 @@ updated: 2026-10-27
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
   | 2024-12-26 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `1498a663d372dc88` |
-  | 2024-12-09 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `28a381ccd9684a2c` |
-  | 2024-11-11 | 「*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `410b2799e316dc6a` |
+  | 2024-12-09 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `28a381ccd9684a2c` |
+  | 2024-11-11 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `410b2799e316dc6a` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1726 条 URL（≥500 = 大目录 / 网店体量）；**自有型号串 5 个**（SVN-500TA60KPOE、SVN-500SBC20KPOE、SVN-NVRC830POE）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）；官网语言 ru（信照样英文，首句可用对方语言问候）；社媒：https://t.me/+79038103333、https://t.me/SVN_VIDEO_bot、https://vk.com/svn.video。

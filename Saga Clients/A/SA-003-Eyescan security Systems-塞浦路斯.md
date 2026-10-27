@@ -66,7 +66,7 @@ updated: 2026-10-27
 
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 16 封（2025-03-19 → 2026-09-14），打开标签 1 次（近 12 个月 0，最后 2025-05-29）；打开过：「Mini Industrial PoE Switch」×1（2025-05-29）；从未打开：「Industrial PoE Switch」、「48 Port PoE Managed Switch」、「16 Port Ethernet Switch」；**最近连续 14 封没打开**（近 180 天发 4 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 15 / camera 1 / poe 7）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；兴趣品类都已碰过——缺口不在品类，在上面的断点。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 53 条 URL；站内可见品牌 2 个（ZKTeco、Cisco）；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/EyeScanSecurities/、https://www.instagram.com/eyescansecuritysystems/、https://www.linkedin.com/company/eyescan-security-systems/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 53 条 URL；站内可见品牌 2 个（ZKTeco、Cisco）；社媒：https://www.facebook.com/EyeScanSecurities/、https://www.instagram.com/eyescansecuritysystems/、https://www.linkedin.com/company/eyescan-security-systems/。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

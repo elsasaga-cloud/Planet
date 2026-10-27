@@ -86,7 +86,7 @@ def fmt_dims(ent):
         L.append('  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |')
         L.append('  |---|---|---|---|---|---|---|---|')
         for r in q['rows']:
-            what = r['model'] or ('「' + (r.get('desc') or '').replace('|', '/') + '」')
+            what = r['model'] or ('「' + re.sub(r'[*_`]+', '', (r.get('desc') or '')).replace('|', '/').replace('1*', '1×') + '」')
             if r['model']:
                 today = f"${r['today']}" if r.get('today') else '主表无此型号'
             else:
@@ -132,7 +132,7 @@ def fmt_dims(ent):
             seg.append(f"站内可见品牌 {sc['brands_n']} 个（{'、'.join(sc['brands'])}）" + ('——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源' if sc['brands_n'] >= 4 else ''))
         if sc.get('own_label'):
             seg.append(f"**自有型号串 {len(sc['own_label'])} 个**（{'、'.join(sc['own_label'][:3])}）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）")
-        if sc.get('lang') and sc['lang'] not in ('en', None):
+        if sc.get('lang') and not str(sc['lang']).lower().startswith('en'):
             seg.append(f"官网语言 {sc['lang']}（信照样英文，首句可用对方语言问候）")
         if sc.get('social'):
             seg.append('社媒：' + '、'.join(sc['social'][:3]))

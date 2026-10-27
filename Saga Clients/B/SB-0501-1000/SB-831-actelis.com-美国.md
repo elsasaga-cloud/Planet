@@ -76,17 +76,17 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2026-09-08 | 「*Price: 170USD/PC*」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `27f7ce96fbbe2419` |
-  | 2026-07-20 | 「*Price: 1500USD/PC*」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `97e0e4e6c6f79be4` |
+  | 2026-09-08 | 「Price: 170USD/PC」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `27f7ce96fbbe2419` |
+  | 2026-07-20 | 「Price: 1500USD/PC」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `97e0e4e6c6f79be4` |
   | 2025-10-29 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `66cd110af00d07de` |
   | 2025-04-29 | STI-42424XGGPM-4BT | $500 | $456.5 | -9% | 1:1 | Re: [External]L3 Managed Switch | `d6394cf0f807b767` |
   | 2025-01-03 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `48deab481297afed` |
-  | 2024-12-12 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `5bc331fab8df6dc8` |
-  | 2024-08-19 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `b410600c05fb7920` |
+  | 2024-12-12 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `5bc331fab8df6dc8` |
+  | 2024-08-19 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `b410600c05fb7920` |
 
   今天比当时低：直接报今天的价，顺手说一句「比上次低」是现成的开场；「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 40 / automation 0） / 10G 汇聚（10g 71 / sfp 88）；我们报过 / 卖过：工业 10G PoE 管理型 ×1；打开过的群发主题落在：10G 汇聚 / L3 / PoE / 工业；兴趣品类都已碰过——缺口不在品类，在上面的断点。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 847 条 URL（≥500 = 大目录 / 网店体量）；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/actelis、https://www.facebook.com/Actelis/、https://www.linkedin.com/company/actelis-networks/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 847 条 URL（≥500 = 大目录 / 网店体量）；社媒：https://twitter.com/actelis、https://www.facebook.com/Actelis/、https://www.linkedin.com/company/actelis-networks/。
 - **写信的人（来信签名机械抽取）**：P. Casey Hurley — VP Sales - Strategic Accounts（pchurley@actelis.com，6 封，2024-09-26 → 2026-03-02）；Michal Winkler（michalw@actelis.com，1 封，2025-01-03 → 2025-01-03）。
 - **他们嘴里的词（7 封来信、去引用后 1,326 字符的词频）**：话题（次数，最近一次）：质保 / 售后 ×6（2026-03-02）。
 - **最后一球**：1:1 对话 4 段，最长一段 3 封 / 跨 0 天（2025-01-03 → 2025-01-04，「Re: [External]24 Port Fiber Switch」）；**最后一句是他们说的**（2026-03-02，238 天前，「RE: [External]Updated Ethernet Switches Links」，`840ce51782b3829d`）：「Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-4…」。

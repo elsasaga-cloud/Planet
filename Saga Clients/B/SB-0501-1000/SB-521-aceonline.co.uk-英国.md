@@ -67,7 +67,7 @@ updated: 2026-10-27
 - **本国来询季节（GB 全库 27 个「户·月」真人来信，样本小）**：1 月 14.8% / 5 月 11.1% / 6 月 11.1%——本户来信太少，按本国节奏排下一步。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 21 封（2025-01-24 → 2026-09-08），打开标签 1 次（近 12 个月 0，最后 2025-08-13）；打开过：「Industrial PoE Switch」×1（2025-08-13）；从未打开：「10G Enterprise SFP Switch」、「8 Port Industrial PoE Switch」、「16 Port Ethernet Switch」；**最近连续 15 封没打开**（近 180 天发 6 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 28 / camera 7 / poe 49）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；兴趣品类都已碰过——缺口不在品类，在上面的断点。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1972 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 5 个（Dahua、Ajax、TP-Link、Ubiquiti、Ruijie）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；官网语言 en-GB（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/aerialsandcableequipment/、https://www.instagram.com/aerials_and_cable_equipment、https://www.linkedin.com/company/aerials-&-cable-equipment-ltd。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1972 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 5 个（Dahua、Ajax、TP-Link、Ubiquiti、Ruijie）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；社媒：https://www.facebook.com/aerialsandcableequipment/、https://www.instagram.com/aerials_and_cable_equipment、https://www.linkedin.com/company/aerials-&-cable-equipment-ltd。
 - **同国同档参照（GB，20% 档、主推线「商用 2.5G PoE 管理型」，共 3 户有动静，列前 3）**：SA-015 megnet.co.uk（A，同档：回过 2 次（最近 2025-12-01），1:1 报过 1 次）；SB-160 linx-com.com（B，同档：回过 5 次（最近 2025-05-15））；SB-905 TELTRONIX | BRITICOM（B，同档：回过 2 次（最近 2025-07-07））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04；Boxing Day 12-28 补休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

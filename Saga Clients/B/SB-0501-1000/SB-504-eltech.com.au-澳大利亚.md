@@ -67,12 +67,12 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-12-30 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `db1182b83417dd1c` |
-  | 2024-07-22 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `8c3ed1929ccf18b2` |
+  | 2024-12-30 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `db1182b83417dd1c` |
+  | 2024-07-22 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `8c3ed1929ccf18b2` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 0 / automation 28）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$62.2 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 2031 条 URL（≥500 = 大目录 / 网店体量）；官网语言 en-AU（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/eltechaustralia/、https://www.instagram.com/eltechaustralia/?hl=en、https://www.linkedin.com/company/eltechaustralia/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 2031 条 URL（≥500 = 大目录 / 网店体量）；社媒：https://www.facebook.com/eltechaustralia/、https://www.instagram.com/eltechaustralia/?hl=en、https://www.linkedin.com/company/eltechaustralia/。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 + 南半球暑假（多到 1 月中） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

@@ -69,7 +69,7 @@ updated: 2026-10-27
   |---|---|---|---|---|---|---|---|
   | 2025-01-01 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `f0e76795649a7b66` |
   | 2024-07-31 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `b1a4ca677f63cf60` |
-  | 2024-07-02 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | Media converter | `f336dd874a27ea7b` |
+  | 2024-07-02 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | Media converter | `f336dd874a27ea7b` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：10G 汇聚（10g 45 / sfp 99）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：10G 汇聚** → 下封信可加一句 STC-448XGGPM（48 口千兆 PoE + 4 × 10G SFP+ L2+ 管理，$335.4 EXW）。

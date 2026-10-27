@@ -88,9 +88,8 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-12-31 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `2cc405c27d3679a2` |
-  | 2024-09-26 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `3f614545f03ac304` |
-  | 2024-08-26 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 port poe managed switch | `e5a85304f58a3e41` |
+  | 2024-12-31 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `2cc405c27d3679a2` |
+  | 2024-09-26 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `3f614545f03ac304` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 15 / automation 0） / 安防 PoE（cctv 58 / camera 530 / poe 210） / 光纤接入 / 媒体转换（media converter 46 / fiber 0）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：10G 汇聚 / 2.5G / PoE / 工业；**还没碰过的一类：光纤接入 / 媒体转换** → 下封信可加一句 STI-140GE（1 光 4 电工业非管理，$29.1 EXW）。

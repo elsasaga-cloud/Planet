@@ -61,7 +61,7 @@ updated: 2026-10-27
 
 - **发信窗口（CA 全库 681 封群发的打开标签，对方本地时间；均值 5.7%）**：周五 12–14 点 7.8%（51 封）、周二 12–14 点 7.8%（51 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 12 封（2025-01-13 → 2026-03-03），打开标签 0 次；**最近连续 12 封没打开**（近 180 天发 0 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 66 条 URL；官网语言 en-CA（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/intent/tweet?text=NLT%20Networks&url=https%3A%2F%2Fnltinc.com%2Fnlt-networks%2F、https://www.facebook.com/NLTLightingSolutions、https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnltinc.com%2Fnlt-networks%2F。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 66 条 URL；社媒：https://twitter.com/intent/tweet?text=NLT%20Networks&url=https%3A%2F%2Fnltinc.com%2Fnlt-networks%2F、https://www.facebook.com/NLTLightingSolutions、https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnltinc.com%2Fnlt-networks%2F。
 - **同国同档参照（CA，30% 档、主推线「工业 10G 非PoE 非管理」，共 1 户有动静，列前 3）**：SA-078 James Clendenan Systems Ltd.（A，同档：成交 STC-424XGGM、STI-21616DGGPM、STI-21616XGGPM）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

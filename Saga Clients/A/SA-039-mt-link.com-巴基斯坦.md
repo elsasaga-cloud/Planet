@@ -68,7 +68,7 @@ updated: 2026-10-27
 
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 2 封（2026-03-12 → 2026-08-10），打开标签 0 次。
 - **品类覆盖与缺口**：官网兴趣：10G 汇聚（10g 47 / sfp 227） / 光纤接入 / 媒体转换（media converter 86 / fiber 120）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：10G 汇聚** → 下封信可加一句 STC-448XGGPM（48 口千兆 PoE + 4 × 10G SFP+ L2+ 管理，$363.4 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 216 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://wa.me/+923179995719、https://www.facebook.com/mtlinkpakistan/、https://www.instagram.com/mtlink_pakistan。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 216 条 URL；社媒：https://wa.me/+923179995719、https://www.facebook.com/mtlinkpakistan/、https://www.instagram.com/mtlink_pakistan。
 - **日历窗口**：对方：2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

@@ -67,12 +67,12 @@ updated: 2026-10-27
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
   | 2024-12-25 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `1059beb91cddf2d5` |
-  | 2024-11-27 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `6f7bb7ab3ddf6a50` |
-  | 2024-07-03 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `403d9cc141114dca` |
+  | 2024-11-27 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `6f7bb7ab3ddf6a50` |
+  | 2024-07-03 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `403d9cc141114dca` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：安防 PoE（cctv 0 / camera 114 / poe 105）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：安防 PoE** → 下封信可加一句 STC-424XGGPM-280W（24 口千兆 PoE + 4 × 10G SFP+ L2+ 管理 280W，$196.3 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 39 条 URL；官网语言 en-CA（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/109067645066843、https://www.instagram.com/mapleye.ca/、https://www.x.com/Mapleye_ca。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 39 条 URL；社媒：https://www.facebook.com/109067645066843、https://www.instagram.com/mapleye.ca/、https://www.x.com/Mapleye_ca。
 - **同国同档参照（CA，30% 档、主推线「商用 2.5G PoE 管理型」，共 1 户有动静，列前 3）**：SA-078 James Clendenan Systems Ltd.（A，同档：成交 STC-424XGGM、STI-21616DGGPM、STI-21616XGGPM）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

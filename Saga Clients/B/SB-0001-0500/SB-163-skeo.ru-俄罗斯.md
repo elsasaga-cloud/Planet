@@ -70,7 +70,7 @@ updated: 2026-10-27
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
   | 2024-09-06 | STI-080GE | $33 | $31.4 | -5% | 1:1 | 8 port unmanaged switch | `8884a81a60ecbdb4` |
-  | 2024-07-11 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `51bcfc210f80fb4f` |
+  | 2024-07-11 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `51bcfc210f80fb4f` |
 
   今天比当时低：直接报今天的价，顺手说一句「比上次低」是现成的开场；「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 738 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 1 个（Huawei）；官网语言 ru（信照样英文，首句可用对方语言问候）；社媒：http://vk.com/nposkeo、http://www.youtube.com/channel/UCU8lAUnPr5cC0O3yjcB1rWg、https://twitter.com/NPOSkeo。

@@ -75,11 +75,11 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-09-02 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10g media converter | `f724df434fe7723a` |
+  | 2024-09-02 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10g media converter | `f724df434fe7723a` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 70 / automation 0） / 安防 PoE（cctv 26 / camera 42 / poe 6）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：2.5G / PoE / 工业；兴趣品类都已碰过——缺口不在品类，在上面的断点。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 546 条 URL（≥500 = 大目录 / 网店体量）；**自有型号串 5 个**（IMP-IGS-2、IMP-IGS-1G06CP、IMP-IGS-1G10CP）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/impulsecctv/、https://www.linkedin.com/company/impulse-cctv/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 546 条 URL（≥500 = 大目录 / 网店体量）；**自有型号串 5 个**（IMP-IGS-2、IMP-IGS-1G06CP、IMP-IGS-1G10CP）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）；社媒：https://twitter.com/impulsecctv/、https://www.linkedin.com/company/impulse-cctv/。
 - **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 农历新年（02-06/07） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

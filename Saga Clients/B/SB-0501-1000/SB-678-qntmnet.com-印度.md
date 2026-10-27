@@ -66,7 +66,7 @@ updated: 2026-10-27
 
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 11 封（2025-04-17 → 2026-09-02），打开标签 0 次；**最近连续 11 封没打开**（近 180 天发 4 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 21 / automation 2） / 10G 汇聚（10g 22 / sfp 41）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$62.2 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 309 条 URL；站内可见品牌 3 个（Ubiquiti、Cisco、Aruba）；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://in.linkedin.com/company/qntmnet、https://www.facebook.com/Qntmnet、https://www.instagram.com/qntmnet/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 309 条 URL；站内可见品牌 3 个（Ubiquiti、Cisco、Aruba）；社媒：https://in.linkedin.com/company/qntmnet、https://www.facebook.com/Qntmnet、https://www.instagram.com/qntmnet/。
 - **同国同档参照（IN，30% 档、主推线「工业 PoE 管理型」，共 2 户有动静，列前 3）**：SA-032 sundartechno.com（A，同档：成交 STI-0160GE）；SB-641 apolloinfoways.in（B，同档：回过 3 次（最近 2025-01-06），1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

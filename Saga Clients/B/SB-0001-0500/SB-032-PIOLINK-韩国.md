@@ -70,11 +70,11 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-10-11 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `7bb66a521150a4e6` |
+  | 2024-10-11 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `7bb66a521150a4e6` |
   | 2024-07-08 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `4302066c946936e5` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 105 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/company/Contact.php、http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/Backbone-Switch.php、http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/Cloud-Managed-Networking.php。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 105 条 URL；社媒：http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/company/Contact.php、http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/Backbone-Switch.php、http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/Cloud-Managed-Networking.php。
 - **写信的人（来信签名机械抽取）**：lee jayden（gooleebiz@gmail.com，1 封，2025-02-18 → 2025-02-18）。
 - **渠道反应**：S 箱（Simon） 去 5（1:1 1 / 群发 4）回 0，从未回；A 箱（Alan） 去 19（1:1 3 / 群发 16）回 1，最近回 2025-02-18 → 只对 A 箱 Alan 有反应，下一封别换箱。
 - **最后一球**：1:1 对话 1 段，最长一段 4 封 / 跨 69 天（2025-02-18 → 2025-04-28，「Re: 24 Port Fiber Switch」）；最后一句是我们说的（2025-04-28，547 天前，「Re: 24 Port Fiber Switch」，`db4b14d8e15b8ad5`）→ 球在对方手里。

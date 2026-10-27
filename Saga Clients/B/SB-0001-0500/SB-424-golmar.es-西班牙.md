@@ -64,11 +64,11 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-12-03 | 「*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `9c53814fc44c929a` |
-  | 2024-11-06 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `7c1224eb9c5b50e7` |
+  | 2024-12-03 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `9c53814fc44c929a` |
+  | 2024-11-06 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `7c1224eb9c5b50e7` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 2834 条 URL（≥500 = 大目录 / 网店体量）；官网语言 en-GB（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/GolmarGlobal、https://www.instagram.com/golmar_sistemas/、https://www.linkedin.com/company/golmar-global/about/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 2834 条 URL（≥500 = 大目录 / 网店体量）；社媒：https://twitter.com/GolmarGlobal、https://www.instagram.com/golmar_sistemas/、https://www.linkedin.com/company/golmar-global/about/。
 - **日历窗口**：对方：2026-12-08 宪法日 + 圣母节长周末（12-06/12-08）；2026-12-24 圣诞–三王节（到 01-06） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

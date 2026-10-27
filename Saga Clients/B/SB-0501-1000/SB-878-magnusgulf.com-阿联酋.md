@@ -62,7 +62,7 @@ updated: 2026-10-27
 
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 13 封（2025-08-25 → 2026-10-01），打开标签 1 次（近 12 个月 1，最后 2025-11-24）；打开过：「Booster PoE Switch」×1（2025-11-24）；从未打开：「Industrial PoE Switch」、「8 Port Industrial PoE Switch」、「10G Enterprise SFP Switch」；**最近连续 9 封没打开**（近 180 天发 5 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 8 / automation 16）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$57.4 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1638 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 7 个（Ubiquiti、Cisco、Netgear、D-Link、Aruba、Teltonika）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/Magnusgulf/、https://www.facebook.com/magnusgulf/、https://www.instagram.com/magnusdistribution/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1638 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 7 个（Ubiquiti、Cisco、Netgear、D-Link、Aruba、Teltonika）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；社媒：https://twitter.com/Magnusgulf/、https://www.facebook.com/magnusgulf/、https://www.instagram.com/magnusdistribution/。
 - **同国同档参照（AE，20% 档、主推线「工业 PoE 管理型」，共 1 户有动静，列前 3）**：SA-001 asteldigicom.com（A，同档：成交 STI-110GE、STI-140GE，回过 9 次（最近 2025-12-01），1:1 报过 3 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-12-02 国庆日（12-02/03）；2027-02-08 斋月（约 02-08 → 03-09） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

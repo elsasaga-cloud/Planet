@@ -159,11 +159,11 @@ updated: 2026-10-27
   | 2025-05-08 | 「2, the payment difference will be 255USD, lets add it in next order an」 | $255 | —（原句无型号） | — | 1:1 | Confirmation about Unshipped Materials | `bc5ffbb6d2fd04e9` |
   | 2025-03-19 | 「The best we can do is 4600USD/pc for now.」 | $4600 | —（原句无型号） | — | 1:1 | Data Center switches | `4f38791bbfde04fc` |
   | 2025-03-18 | 「4800USD/pc」 | $4800 | —（原句无型号） | — | 1:1 | Data Center switches | `208b7dcb8e3c1f8a` |
-  | 2025-03-12 | 「Price for 2*1G/2.5G: 100usd/pc(DC type, 90usd/pc)」 | $90 | —（原句无型号） | — | 1:1 | PI for New Order: 7 Units of Commercial L2+ Switch | `dc47c9508a0f57ba` |
-  | 2025-03-12 | 「Price for 4*1G/2.5G: 105usd/pc(DC type, 93usd/pc)」 | $93 | —（原句无型号） | — | 1:1 | PI for New Order: 7 Units of Commercial L2+ Switch | `dc47c9508a0f57ba` |
+  | 2025-03-12 | 「Price for 21G/2.5G: 100usd/pc(DC type, 90usd/pc)」 | $90 | —（原句无型号） | — | 1:1 | PI for New Order: 7 Units of Commercial L2+ Switch | `dc47c9508a0f57ba` |
+  | 2025-03-12 | 「Price for 41G/2.5G: 105usd/pc(DC type, 93usd/pc)」 | $93 | —（原句无型号） | — | 1:1 | PI for New Order: 7 Units of Commercial L2+ Switch | `dc47c9508a0f57ba` |
   | 2025-01-16 | 「1, We got your initial payment 10,000Usd.」 | $10000 | —（原句无型号） | — | 1:1 | Angora Networks - New order 2116-PG | `caf84e7ec6848602` |
   | 2024-11-28 | 「1. Unit price: 150usd(device)+1usd(console cable)=151usd/pc」 | $151 | —（原句无型号） | — | 1:1 | Angora Networks - New order 2116-PG | `00f9593232d28840` |
-  | 2024-11-28 | 「That is, 151*0.95=143.45usd/pc as final unit price」 | $143.45 | —（原句无型号） | — | 1:1 | Angora Networks - New order 2116-PG | `00f9593232d28840` |
+  | 2024-11-28 | 「That is, 151×0.95=143.45usd/pc as final unit price」 | $143.45 | —（原句无型号） | — | 1:1 | Angora Networks - New order 2116-PG | `00f9593232d28840` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **同国同档参照（TR，20% 档、主推线「工业 10G PoE 管理型」，共 1 户有动静，列前 3）**：SA-049 iotsistem.com（A，同档：回过 21 次（最近 2026-09-17），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。

@@ -79,12 +79,12 @@ updated: 2026-10-27
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
   | 2025-01-06 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `897626c786ef6e49` |
-  | 2024-11-19 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `d26439227af2bdf3` |
-  | 2024-09-30 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `7d38a7e2bc862f4b` |
+  | 2024-11-19 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `d26439227af2bdf3` |
+  | 2024-09-30 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `7d38a7e2bc862f4b` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 128 / automation 22） / 10G 汇聚（10g 58 / sfp 157） / 光纤接入 / 媒体转换（media converter 20 / fiber 83）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：2.5G / PoE / 工业；**还没碰过的一类：10G 汇聚** → 下封信可加一句 STC-448XGGPM（48 口千兆 PoE + 4 × 10G SFP+ L2+ 管理，$363.4 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 60 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/Dymec-388955778165019/、https://www.linkedin.com/company-beta/22297655/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 60 条 URL；社媒：https://www.facebook.com/Dymec-388955778165019/、https://www.linkedin.com/company-beta/22297655/。
 - **写信的人（来信签名机械抽取）**：Thomas West（sales@dymec.com，2 封，2024-07-30 → 2024-08-23）；Thom Sherer（thom.sherer@dymec.com，1 封，2025-09-22 → 2025-09-22）。
 - **他们嘴里的词（3 封来信、去引用后 184 字符的词频）**：话题（次数，最近一次）：PoE ×1（2024-07-30）、价格 / 折扣 ×1（2024-07-30）。
 - **渠道反应**：S 箱（Simon） 去 10（1:1 2 / 群发 8）回 2，最近回 2024-08-23；A 箱（Alan） 去 19（1:1 4 / 群发 15）回 1，最近回 2025-09-22 → 两箱都回过，按绑定行的渠道走即可。

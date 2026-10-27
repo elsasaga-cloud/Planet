@@ -66,7 +66,7 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2026-10-07 | 「*Price: 180USD/PC*」 | $180 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `9ea27472dd85c4ba` |
+  | 2026-10-07 | 「Price: 180USD/PC」 | $180 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `9ea27472dd85c4ba` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 6 条 URL；站内可见品牌 3 个（Ubiquiti、MikroTik、PLANET）；社媒：https://twitter.com/BizSysCon、https://www.facebook.com/bizsyscon、https://www.linkedin.com/company/business-systems-connection-inc.。

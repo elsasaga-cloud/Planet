@@ -67,7 +67,7 @@ updated: 2026-10-27
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
   | 2025-01-08 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `deee2d245fd27b4a` |
-  | 2024-11-25 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `5c069213456eb1f5` |
+  | 2024-11-25 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `5c069213456eb1f5` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **同国同档参照（CA，30% 档、主推线「工业 PoE 管理型」，共 1 户有动静，列前 3）**：SA-078 James Clendenan Systems Ltd.（A，同档：成交 STC-424XGGM、STI-21616DGGPM、STI-21616XGGPM）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。

@@ -275,7 +275,7 @@ def main():
             sentence = (r.get('价格所在句') or '').strip()
             mdls = [x.upper() for x in (r.get('型号(正文出现)') or '').split() if MODEL_RE.match(x)]
             qh_by_code[code0].append({'date': r.get('日期') or '', 'models': mdls, 'price': price, 'k': r.get('消息key') or '', 'subj': (r.get('主题') or '')[:50],
-                                      'desc': re.sub(r'\s+', ' ', sentence)[:70], 'kind': '群发价' if sent_cnt[sentence] >= 5 else '1:1', 'mb': 'S'})
+                                      'desc': re.sub(r'\s+', ' ', re.sub(r'[*_`]+', '', sentence.replace('1*', '1×')))[:70], 'kind': '群发价' if sent_cnt[sentence] >= 5 else '1:1', 'mb': 'S'})
     bought_by_code = {}
     pcsv = os.path.join(ROOT, 'data', 'pi_orders', '成单客户汇总.csv')
     if os.path.exists(pcsv):
@@ -332,6 +332,8 @@ def main():
     season_n = Counter()
     season_seen = set()
     bounce_days = defaultdict(set)
+    subj_stats = defaultdict(lambda: defaultdict(lambda: [0, 0]))   # iso / __ALL__ → 主题 → [sent, opened]
+    subj_last = {}
     for c, ms in per.items():
         for m in ms:
             if m['bounce']:
@@ -348,6 +350,13 @@ def main():
                 win[iso][key][0] += 1
                 if 'Opened' in m['labels']:
                     win[iso][key][1] += 1
+            if m['dir'] == 'out' and m['mass']:
+                if not any(abs((m['dt'].date() - bd).days) <= 1 for bd in bounce_days.get(c, ())):
+                    for key2 in (iso, '__ALL__'):
+                        subj_stats[key2][m['ns']][0] += 1
+                        if 'Opened' in m['labels']:
+                            subj_stats[key2][m['ns']][1] += 1
+                        subj_last[m['ns']] = max(subj_last.get(m['ns'], ''), m['dt'].date().isoformat())
             if m['human_in']:
                 sk = (iso, c, m['dt'].year, m['dt'].month)
                 if sk not in season_seen:                       # 同一户同一个月只算一次，免得一个话痨客户把全国曲线带歪
@@ -719,7 +728,10 @@ def main():
                       'in': sum(1 for m in hin if m['mb'] == mb), 'last_out': max((m['dt'].date().isoformat() for m in out_all), default=None),
                       'last_in': max((m['dt'].date().isoformat() for m in hin if m['mb'] == mb), default=None)}
         if len(ch) >= 2 and any(v['in'] for v in ch.values()):
+            chan = ((mr.get('next_move') or {}).get('channel') or '')
+            bound = 'S' if ('S 邮箱' in chan or 'Simon' in chan) else ('A' if ('A 邮箱' in chan or 'Alan' in chan) else ('E' if 'Elsa' in chan else ''))
             d['channels'] = ch
+            d['channel_bound'] = {'box': bound, 'text': chan[:60]}
         # 7d. 最后一球（线程级：最长一段对话、最后一句是谁说的）
         thr_map = defaultdict(list)
         real_in = {m['k'] for m in hin if not OOO_RE.search(unquoted(m['text'])[:400])}   # 去掉正文是自动回复 / 休假的
@@ -827,14 +839,14 @@ def main():
     json.dump(dims_all, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print(f'dims: {len(dims)} 户（文件共 {len(dims_all)}）→ {OUT}')
     if '--no-docs' not in args:
-        write_docs(dims_all, AB, country, seasons)
+        write_docs(dims_all, AB, country, seasons, subj_stats, subj_last, bought_by_code)
 
 
 def fmt_h(h):
     return f'{int(h):02d}:{int(round((h - int(h)) * 60)):02d}'
 
 
-def write_docs(dims, AB, country, seasons):
+def write_docs(dims, AB, country, seasons, subj_stats=None, subj_last=None, bought_by_code=None):
     # 热度榜
     rows = sorted(dims.values(), key=lambda d: -d['heat']['score'])
     L = [f'# A/B 热度榜（数据推导 · {TODAY_S}）', '',
@@ -900,7 +912,9 @@ def write_docs(dims, AB, country, seasons):
             one.append((d, only, ch[only], other, ch[other]))
     Q += ['', f'## 3. 只对一个邮箱有反应（{len(one)} 户）——下一封别换箱', '']
     for d, only, v, other, vo in sorted(one, key=lambda x: -x[2]['in']):
-        Q.append(f"- {nm(d['code'])}：只回 {'S 箱 Simon' if only == 'S' else 'A 箱 Alan'}（去 {v['out']} 回 {v['in']}，最近 {v['last_in']}）；{'S' if other == 'S' else 'A'} 箱去 {vo['out']} 回 0")
+        cb = d.get('channel_bound') or {}
+        warn = f"　⚠ 绑定行渠道写的是「{cb['text']}」，与此不一致，看一眼" if cb.get('box') and cb['box'] != only else ''
+        Q.append(f"- {nm(d['code'])}：只回 {'S 箱 Simon' if only == 'S' else 'A 箱 Alan'}（去 {v['out']} 回 {v['in']}，最近 {v['last_in']}）；{'S' if other == 'S' else 'A'} 箱去 {vo['out']} 回 0{warn}")
     rows = []
     for d in dims.values():
         for q in (d.get('words') or {}).get('qty') or []:
@@ -944,7 +958,43 @@ def write_docs(dims, AB, country, seasons):
         top = '；'.join(f"{t['m']} 月 {t['pct']}%（{t['n']}）" for t in s['top'])
         dist = ' '.join(f"{m}:{s['by_month'][str(m)]}" for m in range(1, 13))
         L.append(f"| {cn.get(iso, iso)}（{iso}） | {s['n']}{'（样本小）' if s['n'] < 30 else ''} | {top} | {dist} |")
-    L += ['', '> 用法：给某国客户排发信日时，优先落在该国最高的时段；来询季节高的月份前两周，把该国 B 级的「下一步」往前挪。数据文件 `data/saga_clients/dims_country.json`。']
+    # 各国 / 全库：哪些群发主题被打开得多
+    if subj_stats:
+        L += ['', '## 群发主题的打开率（像素口径，主题 ≥30 封才列）', '',
+              '| 范围 | 群发封数 | 打开率最高的三个主题 | 最低的两个主题 |', '|---|---|---|---|']
+        order = ['__ALL__'] + [iso for iso, _ in sorted(((k, sum(v[0] for v in d.values())) for k, d in subj_stats.items() if k != '__ALL__'), key=lambda x: -x[1]) if sum(v[0] for v in subj_stats[iso].values()) >= 300]
+        for key in order:
+            st = subj_stats[key]
+            total = sum(v[0] for v in st.values())
+            cells = [(v[1] / v[0], v[0], ns) for ns, v in st.items() if v[0] >= 30]
+            if not cells:
+                continue
+            cells.sort(reverse=True)
+            top = '；'.join(f'「{ns}」{r * 100:.1f}%（{n} 封，最近 {subj_last.get(ns, "")}）' for r, n, ns in cells[:3])
+            low = '；'.join(f'「{ns}」{r * 100:.1f}%（{n} 封）' for r, n, ns in cells[-2:] if (r, n, ns) not in cells[:3])
+            L.append(f"| {'全库 A/B' if key == '__ALL__' else cn.get(key, key) + '（' + key + '）'} | {total} | {top} | {low} |")
+    # 各国已验证组合：成交 / 1:1 报过的型号
+    if bought_by_code is not None:
+        combo = defaultdict(lambda: {'bought': Counter(), 'quoted': Counter(), 'buyers': set(), 'quoters': set()})
+        for c, d in dims.items():
+            iso = AB[c].get('iso') or '??'
+            for m in dict.fromkeys(bought_by_code.get(c, [])):
+                if MODEL_RE.match(m):
+                    combo[iso]['bought'][m] += 1
+                    combo[iso]['buyers'].add(c)
+            for r in ((d.get('quotes') or {}).get('rows') or []):
+                if r.get('model') and r.get('kind') == '1:1':
+                    combo[iso]['quoted'][r['model']] += 1
+                    combo[iso]['quoters'].add(c)
+        L += ['', '## 各国已验证组合（哪些型号在这个国家成交过 / 1:1 报过）', '',
+              '| 国家 | 成交过的型号（户数） | 1:1 报过价的型号（户数，只算最近一次） |', '|---|---|---|']
+        for iso, v in sorted(combo.items(), key=lambda x: (-len(x[1]['buyers']), -len(x[1]['quoters']))):
+            if not v['bought'] and len(v['quoters']) < 2:
+                continue
+            b = '、'.join(f'{m}（{n}）' for m, n in v['bought'].most_common(6)) or '—'
+            q = '、'.join(f'{m}（{n}）' for m, n in v['quoted'].most_common(6)) or '—'
+            L.append(f"| {cn.get(iso, iso)}（{iso}） | {b} | {q} |")
+    L += ['', '> 用法：给某国客户排发信日时，优先落在该国最高的时段；来询季节高的月份前两周，把该国 B 级的「下一步」往前挪；群发主题挑该国打开率高的那类改写（不要原样重发）；「已验证组合」是给同国新户起手的型号与价位。数据文件 `data/saga_clients/dims_country.json`。']
     open(os.path.join(ROOT, 'docs', f'各国发信窗口与来询季节_{TODAY_S}.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
     print('docs written')
 

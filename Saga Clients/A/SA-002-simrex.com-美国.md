@@ -78,12 +78,12 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2026-09-08 | 「*Price: 170USD/PC*」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `935007727c3ea96f` |
+  | 2026-09-08 | 「Price: 170USD/PC」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `935007727c3ea96f` |
   | 2026-07-21 | 「Price is 130USD/PC for single AC input.」 | $130 | —（原句无型号） | — | 1:1 | 24 Port 10G SFP+ Switch | `06610cfbde4173c3` |
-  | 2026-07-20 | 「*Price: 1500USD/PC*」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `e44ed147f5c2bbb7` |
+  | 2026-07-20 | 「Price: 1500USD/PC」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `e44ed147f5c2bbb7` |
   | 2025-10-30 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `959981a7454f2b8d` |
   | 2025-08-27 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `64ef9b106ddf943c` |
-  | 2025-04-28 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `95cec6bd97cfe34e` |
+  | 2025-04-28 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `95cec6bd97cfe34e` |
   | 2024-12-05 | STI-154GP | $38 | $40.8 | +7% | 1:1 | Industrial PoE Switch | `b5564e71079c9744` |
 
   涨的部分只有一个口径：汇率 7.2 → 6.7（成本按人民币不变）；对方若拿旧价压，先认旧价有效期已过，再谈量；「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。

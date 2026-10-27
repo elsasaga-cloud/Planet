@@ -69,16 +69,16 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2026-09-08 | 「*Price: 170USD/PC*」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `4f6cb988e33104e2` |
-  | 2026-07-20 | 「*Price: 1500USD/PC*」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `8093def8e5ae3cea` |
+  | 2026-09-08 | 「Price: 170USD/PC」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `4f6cb988e33104e2` |
+  | 2026-07-20 | 「Price: 1500USD/PC」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `8093def8e5ae3cea` |
   | 2025-10-29 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `d743477f3e331ade` |
   | 2025-01-03 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `0063084ea01ffd95` |
-  | 2024-11-20 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `453bbe90765ccb94` |
-  | 2024-10-24 | 「*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `f9cf7931e9982e4a` |
+  | 2024-11-20 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `453bbe90765ccb94` |
+  | 2024-10-24 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `f9cf7931e9982e4a` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 72 / automation 0）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：10G 汇聚；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$62.2 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 427 条 URL；站内可见品牌 2 个（Schneider、Siemens）；官网语言 en-GB（信照样英文，首句可用对方语言问候）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 427 条 URL；站内可见品牌 2 个（Schneider、Siemens）。
 - **写信的人（来信签名机械抽取）**：Charles Chaussonnier（charles.chaussonnier@etictelecom.com，1 封，2024-05-22 → 2024-05-22）。
 - **他们嘴里的词（1 封来信、去引用后 575 字符的词频）**：话题（次数，最近一次）：管理型 / L2+ / L3 ×3（2024-05-22）、10G ×2（2024-05-22）、工业 ×2（2024-05-22）、样品 ×1（2024-05-22）、价格 / 折扣 ×1（2024-05-22）、付款 / 物流 ×1（2024-05-22）；芯片 / 供应商词：Marvell ×1；**提过的数量**：100（2024-05-22，「…ello, What is the price DDP for 10, 50, 100 units? Best Regards. Char…」，`1e2c24b00883813d`）。
 - **最后一球**：1:1 对话 1 段，最长一段 5 封 / 跨 99 天（2024-05-22 → 2024-08-30，「RE: 24 port managed switch」）；最后一句是我们说的（2024-08-30，787 天前，「Re: 24 port managed switch」，`cf00648ad164d915`）→ 球在对方手里。

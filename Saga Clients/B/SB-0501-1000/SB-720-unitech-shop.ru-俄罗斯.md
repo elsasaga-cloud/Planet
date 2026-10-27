@@ -66,7 +66,7 @@ updated: 2026-10-27
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
   | 2024-09-06 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 port poe managed switch | `361bcbc147d0f79b` |
-  | 2024-08-10 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `04b0feafb9c5dff8` |
+  | 2024-08-10 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `04b0feafb9c5dff8` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **同国同档参照（RU，20% 档、主推线「商用 2.5G PoE 管理型」，共 3 户有动静，列前 3）**：SA-035 td-fe.com（A，同档：回过 15 次（最近 2025-01-03），1:1 报过 8 次）；SB-060 bargas.ru（B，同档：1:1 报过 1 次）；SB-163 skeo.ru（B，同档：1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。

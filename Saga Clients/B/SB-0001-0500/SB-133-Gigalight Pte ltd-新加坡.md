@@ -64,7 +64,7 @@ updated: 2026-10-27
 - **发信窗口（SG 全库 415 封群发的打开标签，对方本地时间；均值 5.5%）**：周一 10–12 点 6.8%（59 封）、周五 10–12 点 2.1%（47 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 18 封（2025-03-20 → 2026-09-23），打开标签 0 次；**最近连续 18 封没打开**（近 180 天发 5 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 9 / automation 1）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$57.4 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 1 个（Schneider）；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：http://smartpharmrx.com/、http://smartpharmrx.com/cialis-cost.php、http://twitter.com/intent/tweet?text=Promotion!  Giga-Maxx Mini-type Industrial PoE Media Converter 10/100/1000Base-T to 1000Base-F,IEEE802.3af/at, PoE Power&https://gigalight.com.sg/promotion-giga-maxx-mini-type-industrial-poe-media-converter-10-100-1000base-t-to-1000base-fieee802-3af-at-poe-power/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 1 个（Schneider）；社媒：http://smartpharmrx.com/、http://smartpharmrx.com/cialis-cost.php、http://twitter.com/intent/tweet?text=Promotion!  Giga-Maxx Mini-type Industrial PoE Media Converter 10/100/1000Base-T to 1000Base-F,IEEE802.3af/at, PoE Power&https://gigalight.com.sg/promotion-giga-maxx-mini-type-industrial-poe-media-converter-10-100-1000base-t-to-1000base-fieee802-3af-at-poe-power/。
 - **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 农历新年（02-06/07） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

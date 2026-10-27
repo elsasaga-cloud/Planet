@@ -76,12 +76,12 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2026-09-08 | 「*Price: 170USD/PC*」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `690f0845232f4568` |
-  | 2026-07-20 | 「*Price: 1500USD/PC*」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `e4a47cd229bec118` |
+  | 2026-09-08 | 「Price: 170USD/PC」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `690f0845232f4568` |
+  | 2026-07-20 | 「Price: 1500USD/PC」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `e4a47cd229bec118` |
   | 2025-12-02 | 「15Usd/pc」 | $15 | —（原句无型号） | — | 1:1 | Price and lead time | `c006113d9ba7a08c` |
   | 2025-10-29 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `69b59336b4834456` |
   | 2025-08-27 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `243ec12cb648c9fa` |
-  | 2025-01-16 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `1276c8432cfb0d22` |
+  | 2025-01-16 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `1276c8432cfb0d22` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1165 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 1 个（Cisco）；社媒：https://twitter.com/MegnetLtd、https://twitter.com/intent/tweet?text=https://megnet.co.uk/megnet-solution/industrial-park-video-surveillance-solution/、https://twitter.com/intent/tweet?text=https://megnet.co.uk/megnet-solution/large-shopping-mall-wireless-network-solution/。

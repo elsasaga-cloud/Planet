@@ -73,7 +73,7 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2026-09-28 | 「*Price: 180USD/PC*」 | $180 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `6a03768b154dbe10` |
+  | 2026-09-28 | 「Price: 180USD/PC」 | $180 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `6a03768b154dbe10` |
   | 2024-12-25 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `aa924b3759c30ecc` |
   | 2024-08-02 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `6f30f1b59f9f9e8a` |
 

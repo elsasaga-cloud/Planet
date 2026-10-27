@@ -63,7 +63,7 @@ updated: 2026-10-27
 - **本国来询季节（AU 全库 15 个「户·月」真人来信，样本小）**：4 月 20.0% / 6 月 20.0% / 5 月 13.3%——本户来信太少，按本国节奏排下一步。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 12 封（2025-05-27 → 2026-03-09），打开标签 3 次（近 12 个月 2，最后 2026-03-09）；打开过：「16 Port Ethernet Switch」×1（2025-08-26）、「Marvell Industrial Alert System」×1（2025-12-15）、「Updated Ethernet Switches Links」×1（2026-03-09）；从未打开：「90W PoE Managed Switch」、「Mini Industrial PoE Switch」、「48 Port PoE Managed Switch」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 20 / automation 3） / 10G 汇聚（10g 44 / sfp 77）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：工业；**还没碰过的一类：10G 汇聚** → 下封信可加一句 STC-448XGGPM（48 口千兆 PoE + 4 × 10G SFP+ L2+ 管理，$335.4 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 484 条 URL；站内可见品牌 1 个（Extreme）；官网语言 en-au（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/vgaustralia、https://www.facebook.com/VirtualGraffitiAU/、https://www.linkedin.com/company/virtual-graffiti-australia-pty-limited。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 484 条 URL；站内可见品牌 1 个（Extreme）；社媒：https://twitter.com/vgaustralia、https://www.facebook.com/VirtualGraffitiAU/、https://www.linkedin.com/company/virtual-graffiti-australia-pty-limited。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 + 南半球暑假（多到 1 月中） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

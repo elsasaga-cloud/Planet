@@ -59,7 +59,7 @@ updated: 2026-10-27
 
 - **发信窗口（SG 全库 415 封群发的打开标签，对方本地时间；均值 5.5%）**：周一 10–12 点 6.8%（59 封）、周五 10–12 点 2.1%（47 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 19 封（2025-01-29 → 2026-09-16），打开标签 2 次（近 12 个月 0，最后 2025-08-06）；打开过：「48 Port PoE Managed Switch」×1（2025-05-05）、「24 Port Fiber Switch」×1（2025-08-06）；从未打开：「Industrial PoE Switch」、「10G Enterprise SFP Switch」、「8 Port Industrial PoE Switch」；**最近连续 13 封没打开**（近 180 天发 5 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 46 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://sg.linkedin.com/company/lucky-joint-constructions-pte-ltd、https://twitter.com/luckyjoint_ljc?lang=en、https://wa.me/6597337533。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 46 条 URL；社媒：https://sg.linkedin.com/company/lucky-joint-constructions-pte-ltd、https://twitter.com/luckyjoint_ljc?lang=en、https://wa.me/6597337533。
 - **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 农历新年（02-06/07） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

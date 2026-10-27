@@ -66,7 +66,7 @@ updated: 2026-10-27
 
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 8 封（2025-06-19 → 2026-09-02），打开标签 1 次（近 12 个月 0，最后 2025-08-25）；打开过：「8 Port Industrial PoE Switch」×1（2025-08-25）；从未打开：「16 Port Ethernet Switch」、「Industrial PoE Switch」、「24 Port Fiber Switch」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 227 / automation 4） / 安防 PoE（cctv 4 / camera 14 / poe 156） / 10G 汇聚（10g 6 / sfp 61） / 光纤接入 / 媒体转换（media converter 15 / fiber 44）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；**还没碰过的一类：10G 汇聚** → 下封信可加一句 STC-448XGGPM（48 口千兆 PoE + 4 × 10G SFP+ L2+ 管理，$363.4 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 174 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/comxusofficial/、https://www.instagram.com/comxusofficial/、https://www.linkedin.com/company/comxus。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 174 条 URL；社媒：https://www.facebook.com/comxusofficial/、https://www.instagram.com/comxusofficial/、https://www.linkedin.com/company/comxus。
 - **同国同档参照（IN，30% 档、主推线「工业 2.5G PoE 管理型」，共 2 户有动静，列前 3）**：SA-032 sundartechno.com（A，同档同线：成交 STI-0160GE）；SB-641 apolloinfoways.in（B，同档：回过 3 次（最近 2025-01-06），1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

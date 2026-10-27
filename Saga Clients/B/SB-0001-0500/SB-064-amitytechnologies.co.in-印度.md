@@ -64,7 +64,7 @@ updated: 2026-10-27
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 9 / automation 3） / 10G 汇聚（10g 7 / sfp 1）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$59.8 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 17 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/profile.php?id=61573915896321、https://www.linkedin.com/company/amitytech/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 17 条 URL；社媒：https://www.facebook.com/profile.php?id=61573915896321、https://www.linkedin.com/company/amitytech/。
 - **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

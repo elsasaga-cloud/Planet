@@ -71,12 +71,12 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-07-03 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 48 port managed switch | `e056f44936325edc` |
+  | 2024-07-03 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 48 port managed switch | `e056f44936325edc` |
   | 2024-06-03 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `8fee83f8e52f41b0` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 203 / automation 0） / 10G 汇聚（10g 8 / sfp 56）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$62.2 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 415 条 URL；站内可见品牌 1 个（Cisco）；官网语言 en-GB（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/ParallaxDigTech、https://www.facebook.com/ParallaxDigTech、https://www.instagram.com/parallaxdigtech/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 415 条 URL；站内可见品牌 1 个（Cisco）；社媒：https://twitter.com/ParallaxDigTech、https://www.facebook.com/ParallaxDigTech、https://www.instagram.com/parallaxdigtech/。
 - **写信的人（来信签名机械抽取）**：Jeff Ferrier（jeff.ferrier@parallaxdigital.co.uk，2 封，2024-06-03 → 2024-10-24）。
 - **他们嘴里的词（2 封来信、去引用后 2,084 字符的词频）**：话题（次数，最近一次）：管理型 / L2+ / L3 ×1（2024-06-03）、价格 / 折扣 ×1（2024-06-03）；**提到的同行品牌**：Cisco ×1（2024-06-03）；**提过的数量**：3（2024-06-03，「…e number of cisco 52 port gigabit layer 3 switches that cost me $124 e…」，`f38bda5c25315e89`）。
 - **渠道反应**：S 箱（Simon） 去 6（1:1 3 / 群发 3）回 2，最近回 2024-10-24；A 箱（Alan） 去 20（1:1 0 / 群发 20）回 0，从未回 → 只对 S 箱 Simon 有反应，下一封别换箱。

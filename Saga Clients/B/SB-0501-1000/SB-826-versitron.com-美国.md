@@ -98,8 +98,8 @@ updated: 2026-10-27
   | 2025-10-30 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `c63ae0d8d2f14dae` |
   | 2025-08-28 | 「It is 500usd/pc, it is expensive because we are doing Marvell chip.」 | $500 | —（原句无型号） | — | 1:1 | L3 Managed Switch | `d9911e2b978f6965` |
   | 2025-01-03 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `13601a02ac7fdef0` |
-  | 2024-11-19 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `c9f08eec36ddb223` |
-  | 2024-06-18 | 「Price: 75usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $75 | —（原句无型号） | — | 1:1 | POE switch | `533485b14a400b6f` |
+  | 2024-11-19 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `c9f08eec36ddb223` |
+  | 2024-06-18 | 「Price: 75usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $75 | —（原句无型号） | — | 1:1 | POE switch | `533485b14a400b6f` |
   | 2024-05-16 | 「Commercial model, 375usd/pc」 | $375 | —（原句无型号） | — | 1:1 | POE switch | `73339deec6e397bd` |
   | 2024-05-16 | 「Industrial model, 550usd/pc」 | $550 | —（原句无型号） | — | 1:1 | POE switch | `73339deec6e397bd` |
 

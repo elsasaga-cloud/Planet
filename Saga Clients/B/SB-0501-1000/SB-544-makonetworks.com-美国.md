@@ -67,11 +67,11 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-12-17 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `84167bd74f7863a2` |
-  | 2024-07-22 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `99c9a57b39e6ab4d` |
+  | 2024-12-17 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `84167bd74f7863a2` |
+  | 2024-07-22 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `99c9a57b39e6ab4d` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 339 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/MakoNetworks?s=20、https://twitter.com/intent/tweet?text=CrossAmerica+Partners+Goes+%E2%80%9CAll-In%E2%80%9D+With+Mako+Networks%2C+the+Industry%E2%80%99s+Fastest+Growing+Platform+for+Secure%2C+Cloud-Managed+Retail+Connectivity&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2026%2F04%2Fcrossamerica-partners-goes-all-in-with-mako-networks-the-industrys-fastest-growing-platform-for-secure-cloud-managed-retail-connectivity%2F、https://twitter.com/intent/tweet?text=Mako+Networks%E2%80%99+Periscope+Named+Two-time+++Award-winning+New+Product+in+2025&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2025%2F11%2Fmako-networks-periscope-named-two-time-award-winning-new-product-in-2025%2F。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 339 条 URL；社媒：https://twitter.com/MakoNetworks?s=20、https://twitter.com/intent/tweet?text=CrossAmerica+Partners+Goes+%E2%80%9CAll-In%E2%80%9D+With+Mako+Networks%2C+the+Industry%E2%80%99s+Fastest+Growing+Platform+for+Secure%2C+Cloud-Managed+Retail+Connectivity&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2026%2F04%2Fcrossamerica-partners-goes-all-in-with-mako-networks-the-industrys-fastest-growing-platform-for-secure-cloud-managed-retail-connectivity%2F、https://twitter.com/intent/tweet?text=Mako+Networks%E2%80%99+Periscope+Named+Two-time+++Award-winning+New+Product+in+2025&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2025%2F11%2Fmako-networks-periscope-named-two-time-award-winning-new-product-in-2025%2F。
 - **同国同档参照（US，30% 档、主推线「商用 10G PoE 管理型」，共 10 户有动静，列前 3）**：SA-006 Vi-Link（vilinknet.com）（A，同线：成交 STC-110FE、STC-110XGE、STC-14DUR，回过 11 次（最近 2025-05-09），1:1 报过 3 次）；SB-831 actelis.com（B，同档同线：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

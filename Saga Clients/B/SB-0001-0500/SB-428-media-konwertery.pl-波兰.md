@@ -66,8 +66,8 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-11-27 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `71b67082f2fa80bf` |
-  | 2024-09-05 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `4e265a2a649aaf82` |
+  | 2024-11-27 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `71b67082f2fa80bf` |
+  | 2024-09-05 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `4e265a2a649aaf82` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 8 个（Dahua、PLANET、TP-Link、Intellinet、Cisco、Allied Telesis）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；社媒：https://twitter.com/InterCompPl、https://www.facebook.com/InterCompPl、https://www.youtube.com/user/intercomppl。

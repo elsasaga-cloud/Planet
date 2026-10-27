@@ -63,7 +63,7 @@ updated: 2026-10-27
 - **本国来询季节（AU 全库 15 个「户·月」真人来信，样本小）**：4 月 20.0% / 6 月 20.0% / 5 月 13.3%——本户来信太少，按本国节奏排下一步。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 15 封（2025-08-26 → 2026-08-31），打开标签 1 次（近 12 个月 0，最后 2025-08-26）；打开过：「16 Port Ethernet Switch」×1（2025-08-26）；从未打开：「Marvell Industrial Alert System」、「10G Enterprise SFP Switch」、「Booster PoE Switch」；**最近连续 14 封没打开**（近 180 天发 4 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 18 / automation 32）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$59.8 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 146 条 URL；站内可见品牌 3 个（Advantech、Schneider、Maiwe）；官网语言 en-AU（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/autechcontrolgroup/、https://www.youtube.com/c/AutechControlGroupOakleigh。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 146 条 URL；站内可见品牌 3 个（Advantech、Schneider、Maiwe）；社媒：https://www.facebook.com/autechcontrolgroup/、https://www.youtube.com/c/AutechControlGroupOakleigh。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 + 南半球暑假（多到 1 月中） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

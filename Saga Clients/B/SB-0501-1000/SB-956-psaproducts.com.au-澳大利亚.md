@@ -69,10 +69,10 @@ updated: 2026-10-27
   |---|---|---|---|---|---|---|---|
   | 2024-12-19 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `a109d3c666195216` |
   | 2024-09-03 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 port poe managed switch | `9a36bc2f5dd09b72` |
-  | 2024-08-05 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G fiber media converter | `b064d00529e34242` |
+  | 2024-08-05 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G fiber media converter | `b064d00529e34242` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 309 条 URL；站内可见品牌 1 个（Hikvision）；官网语言 en-AU（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/psaproducts、https://www.instagram.com/psaproducts/?fbclid=IwAR2FuO4Aa0C12LiXNY_7TiM-okfSToWNGxib9RBSWC_Qdg-GF4Mrwu7ABM8、https://www.linkedin.com/company/psa-products-pty-ltd/mycompany/?viewAsMember=true。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 309 条 URL；站内可见品牌 1 个（Hikvision）；社媒：https://www.facebook.com/psaproducts、https://www.instagram.com/psaproducts/?fbclid=IwAR2FuO4Aa0C12LiXNY_7TiM-okfSToWNGxib9RBSWC_Qdg-GF4Mrwu7ABM8、https://www.linkedin.com/company/psa-products-pty-ltd/mycompany/?viewAsMember=true。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 + 南半球暑假（多到 1 月中） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

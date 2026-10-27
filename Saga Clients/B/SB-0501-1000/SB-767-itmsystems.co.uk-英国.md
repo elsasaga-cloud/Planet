@@ -98,11 +98,11 @@ updated: 2026-10-27
   | 2026-02-28 | STH-32C-HSI | $6000 | 主表无此型号 | — | 1:1 | Re: Booster PoE Switch | `08e23b4cd1d35e84` |
   | 2026-02-28 | STH-32QC-HSI | $16000 | 主表无此型号 | — | 1:1 | Re: Booster PoE Switch | `08e23b4cd1d35e84` |
   | 2026-02-28 | STH-64QC-HSI | $3200 | 主表无此型号 | — | 1:1 | Re: Booster PoE Switch | `08e23b4cd1d35e84` |
-  | 2024-09-05 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `fdf38139f274bdf5` |
+  | 2024-09-05 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `fdf38139f274bdf5` |
   | 2024-07-10 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `9036cb1a685da584` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 22 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/itmsystemsltd。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 22 条 URL；社媒：https://www.facebook.com/itmsystemsltd。
 - **写信的人（来信签名机械抽取）**：ITM Systems（info@itmsystems.net，18 封，2026-01-23 → 2026-08-15）。
 - **他们嘴里的词（18 封来信、去引用后 3,256 字符的词频）**：话题（次数，最近一次）：25G/40G/100G+ ×6（2026-03-23）、管理型 / L2+ / L3 ×4（2026-03-20）、价格 / 折扣 ×3（2026-02-27）、MOQ / 交期 ×3（2026-08-15）、质保 / 售后 ×1（2026-02-05）、贴牌 / OEM ×1（2026-03-20）；**提到的同行品牌**：Juniper ×1（2026-02-27）；**提过的数量**：50（2026-05-19，「…Hi Alan, I hope you are well. In the 50 switches is there a plan for…」，`77fc79297576e203`）；6（2026-03-23，「…n Do you mean QSFP112 400Gb module and 6 pieces in EACH unit(total…」，`f05ed71fa67e24bc`）。
 - **渠道反应**：S 箱（Simon） 去 9（1:1 1 / 群发 8）回 0，从未回；A 箱（Alan） 去 33（1:1 23 / 群发 10）回 18，最近回 2026-08-15 → 只对 A 箱 Alan 有反应，下一封别换箱。

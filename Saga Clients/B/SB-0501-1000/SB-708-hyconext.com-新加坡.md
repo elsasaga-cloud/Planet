@@ -67,12 +67,12 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-11-28 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `dc21f8671de70fdc` |
-  | 2024-09-25 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `5df3975889e111ce` |
+  | 2024-11-28 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `dc21f8671de70fdc` |
+  | 2024-09-25 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `5df3975889e111ce` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：10G 汇聚（10g 52 / sfp 58）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：2.5G；**还没碰过的一类：10G 汇聚** → 下封信可加一句 STC-448XGGPM（48 口千兆 PoE + 4 × 10G SFP+ L2+ 管理，$363.4 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：**自有型号串 5 个**（HC16MT6XPAS-UP、HC8MT2XP-UP、HC16MT6XP-UP-PRO）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/intent/tweet?text=Mounting+Bracket+107%2A44%2A28mm%2C+Compatible+with+Hyconext+HC8MT2XP_UP+Series+PoE+Switches%2C+Easy+Installation%2C+424310744020 https%3A%2F%2Fhyconext.com%2Faccessories%2F18995-mounting-bracket-1074428mm-compatible-with-hyconext-hc8mt2xpup-series-poe-switches-easy-installation-424310744020、https://twitter.com/intent/tweet?text=NextWav+Lite+2.5G+PoE+Series+%E2%80%93+8+Ports+2.5G+%26+2+SFP%2B+10G+Ports+%26+250W+PoE+Power+HC8MT2XP-UP+Series https%3A%2F%2Fhyconext.com%2Fpoe-switches%2F18990-nextwav-lite-hc8mt2xp-up-series、https://twitter.com/intent/tweet?text=NextWav+Passive+2.5G+PoE+Series+-+16+ports+2.5G+%26+6+SFP%2B+10G+Ports+%26+500W+PoE+Power+HC16MT6XPAS-UP+Series https%3A%2F%2Fhyconext.com%2Fpoe-switches%2F19221-HC16MT6XPAS。
+- **规模与贴牌线索（官网快照 2026-10-21）**：**自有型号串 5 个**（HC16MT6XPAS-UP、HC8MT2XP-UP、HC16MT6XP-UP-PRO）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）；社媒：https://twitter.com/intent/tweet?text=Mounting+Bracket+107%2A44%2A28mm%2C+Compatible+with+Hyconext+HC8MT2XP_UP+Series+PoE+Switches%2C+Easy+Installation%2C+424310744020 https%3A%2F%2Fhyconext.com%2Faccessories%2F18995-mounting-bracket-1074428mm-compatible-with-hyconext-hc8mt2xpup-series-poe-switches-easy-installation-424310744020、https://twitter.com/intent/tweet?text=NextWav+Lite+2.5G+PoE+Series+%E2%80%93+8+Ports+2.5G+%26+2+SFP%2B+10G+Ports+%26+250W+PoE+Power+HC8MT2XP-UP+Series https%3A%2F%2Fhyconext.com%2Fpoe-switches%2F18990-nextwav-lite-hc8mt2xp-up-series、https://twitter.com/intent/tweet?text=NextWav+Passive+2.5G+PoE+Series+-+16+ports+2.5G+%26+6+SFP%2B+10G+Ports+%26+500W+PoE+Power+HC16MT6XPAS-UP+Series https%3A%2F%2Fhyconext.com%2Fpoe-switches%2F19221-HC16MT6XPAS。
 - **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 农历新年（02-06/07） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

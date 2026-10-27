@@ -291,6 +291,10 @@
     "last_in": "2025-12-01"
    }
   },
+  "channel_bound": {
+   "box": "S",
+   "text": "WeChat（Simon）→ 邮件 navsim@eim.ae 存档"
+  },
   "ball": {
    "threads": 4,
    "longest_n": 13,
@@ -447,7 +451,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "935007727c3ea96f",
@@ -471,7 +475,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "e44ed147f5c2bbb7",
@@ -507,7 +511,7 @@
     {
      "date": "2025-04-28",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "95cec6bd97cfe34e",
@@ -1008,7 +1012,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "9a27e4594a404dfb",
@@ -1068,7 +1072,7 @@
     {
      "date": "2024-11-13",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "fc98289bea1ccdb9",
@@ -1875,7 +1879,7 @@
     {
      "date": "2024-08-06",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "04d870a68af9ad7f",
@@ -2140,6 +2144,10 @@
     "last_in": "2025-05-26"
    }
   },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → eznet66@naver.com（Kim 本人，不发 sales@）"
+  },
   "ball": {
    "threads": 2,
    "longest_n": 5,
@@ -2259,7 +2267,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "31c3846e3e090787",
@@ -2271,7 +2279,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "00f989b452b62e8b",
@@ -2307,7 +2315,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "4b98c00a19e0083f",
@@ -2462,7 +2470,7 @@
     {
      "date": "2024-12-17",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "e0d09f1b5653a95f",
@@ -2581,7 +2589,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "416daea2221fc20d",
@@ -2593,7 +2601,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "b6adec4516d15445",
@@ -2629,7 +2637,7 @@
     {
      "date": "2024-12-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "f8d0149031fb24a1",
@@ -2665,7 +2673,7 @@
     {
      "date": "2024-07-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "aeadae1ed076a531",
@@ -2860,7 +2868,7 @@
     {
      "date": "2024-09-02",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "f724df434fe7723a",
@@ -3040,7 +3048,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "690f0845232f4568",
@@ -3052,7 +3060,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "e4a47cd229bec118",
@@ -3100,7 +3108,7 @@
     {
      "date": "2025-01-16",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "1276c8432cfb0d22",
@@ -3205,6 +3213,10 @@
     "last_out": "2025-03-19",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "S",
+   "text": "S 邮箱 → jitendra@megnet.co.uk（招标）+ nasim@megnet.co.uk（注入器）"
   },
   "ball": {
    "threads": 2,
@@ -3469,7 +3481,7 @@
     {
      "date": "2024-07-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e056f44936325edc",
@@ -3603,6 +3615,10 @@
     "last_out": "2026-09-28",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "S",
+   "text": "S 邮箱 → jeff.ferrier@"
   },
   "ball": {
    "threads": 2,
@@ -3959,7 +3975,7 @@
     {
      "date": "2026-10-08",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "15f87700ebc70348",
@@ -4066,6 +4082,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-07-10"
    }
+  },
+  "channel_bound": {
+   "box": "S",
+   "text": "S 邮箱 → zerwes@allnet.de"
   },
   "ball": {
    "threads": 1,
@@ -4217,7 +4237,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "4c3cbe3a33e8be4e",
@@ -4229,7 +4249,7 @@
     {
      "date": "2024-08-17",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "5a4481b7a50bac3f",
@@ -4298,6 +4318,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-01-30"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → tjargielo@ / ahyz@"
   },
   "ball": {
    "threads": 1,
@@ -4463,7 +4487,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "42b2747753cc855a",
@@ -4475,7 +4499,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "724247178287e5d6",
@@ -4511,7 +4535,7 @@
     {
      "date": "2024-11-15",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "82ec8ef142cfcb49",
@@ -5353,7 +5377,7 @@
     {
      "date": "2025-02-10",
      "model": "",
-     "desc": "1, 1000usd/pc, 2*40G+24*10G, all fiber",
+     "desc": "1, 1000usd/pc, 240G+2410G, all fiber",
      "price": 1000.0,
      "mb": "S",
      "k": "eb80eea25e1a3bb5",
@@ -5365,7 +5389,7 @@
     {
      "date": "2025-02-10",
      "model": "",
-     "desc": "2, 4000usd/pc, 6*40G+48*10G, all fiber",
+     "desc": "2, 4000usd/pc, 640G+4810G, all fiber",
      "price": 4000.0,
      "mb": "S",
      "k": "eb80eea25e1a3bb5",
@@ -5497,6 +5521,10 @@
     "last_out": "2026-02-12",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → mark@expresssupply.net"
   },
   "ball": {
    "threads": 2,
@@ -5787,7 +5815,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "619de6e6fa3019fe",
@@ -5799,7 +5827,7 @@
     {
      "date": "2024-08-23",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "9a7dd6d012ab5cf1",
@@ -5948,7 +5976,7 @@
     {
      "date": "2024-06-17",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d2a506d0f5570404",
@@ -6008,6 +6036,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-04-15"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → master@gtwave.co.kr（Moonsoo Park）"
   },
   "ball": {
    "threads": 1,
@@ -6147,7 +6179,7 @@
     {
      "date": "2024-10-28",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "0e3d05496b6b2e32",
@@ -6159,7 +6191,7 @@
     {
      "date": "2024-08-16",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "4b76faeca354d0cc",
@@ -6310,7 +6342,7 @@
     {
      "date": "2024-11-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "6c2cf871e9c96ebf",
@@ -6423,6 +6455,10 @@
     "last_out": "2026-09-24",
     "last_in": "2026-07-15"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → info@truongsonsolutions.com"
   },
   "ball": {
    "threads": 2,
@@ -6668,7 +6704,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "fb90588b2aa6d39a",
@@ -6776,6 +6812,10 @@
     "last_out": "2026-09-17",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -7266,6 +7306,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "S",
+   "text": "WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 42,
@@ -7444,7 +7488,7 @@
     {
      "date": "2024-12-09",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "28a381ccd9684a2c",
@@ -7456,7 +7500,7 @@
     {
      "date": "2024-11-11",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "410b2799e316dc6a",
@@ -7562,6 +7606,10 @@
     "last_out": "2026-09-07",
     "last_in": "2026-01-04"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → zakaz@"
   },
   "ball": {
    "threads": 1,
@@ -8010,7 +8058,7 @@
     {
      "date": "2026-10-20",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "b7d2811f984127c8",
@@ -8034,7 +8082,7 @@
     {
      "date": "2024-11-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "9bab146adffc4030",
@@ -8087,6 +8135,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-09-12"
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "calendar": {
    "holidays": [
@@ -8166,7 +8218,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "e5f1f002a33fa0f0",
@@ -8311,7 +8363,7 @@
     {
      "date": "2025-06-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "356ffdec1064aec6",
@@ -8430,6 +8482,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-08-08"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → petertarquinio@antronix.com（抄 jimtaxdahl@antronix.com"
   },
   "ball": {
    "threads": 2,
@@ -8596,7 +8652,7 @@
     {
      "date": "2026-09-28",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "6a03768b154dbe10",
@@ -8684,6 +8740,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-11-11"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → mats.backlund@direktronik.se + anders.hedin@direktron"
   },
   "ball": {
    "threads": 1,
@@ -8860,7 +8920,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "d26439227af2bdf3",
@@ -8872,7 +8932,7 @@
     {
      "date": "2024-09-30",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "7d38a7e2bc862f4b",
@@ -8992,6 +9052,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-09-22"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → sales.support@dymec.com + thom.sherer@dymec.com（同时覆盖 "
   },
   "ball": {
    "threads": 2,
@@ -9148,7 +9212,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "7ea24f4303e4aeb1",
@@ -9160,7 +9224,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "fd1a9009a3a0c59d",
@@ -9196,7 +9260,7 @@
     {
      "date": "2024-11-20",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "d38f2e742cda8850",
@@ -9221,7 +9285,7 @@
     {
      "date": "2024-08-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "966486459c09d600",
@@ -9290,6 +9354,10 @@
     "last_out": "2025-03-14",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -9434,7 +9502,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "9425376a2465b5f4",
@@ -9446,7 +9514,7 @@
     {
      "date": "2024-07-30",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "72ed6686dbe62a71",
@@ -9530,6 +9598,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-08-21"
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "calendar": {
    "holidays": [
@@ -9801,7 +9873,7 @@
     {
      "date": "2024-12-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "29773944aefa6480",
@@ -9813,7 +9885,7 @@
     {
      "date": "2024-07-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "8978e4f7fbab6a08",
@@ -9907,6 +9979,10 @@
     "last_out": "2026-09-22",
     "last_in": "2026-09-22"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com）"
   },
   "calendar": {
    "holidays": [
@@ -10062,7 +10138,7 @@
     {
      "date": "2024-07-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "66d48852ed77c39e",
@@ -10198,6 +10274,10 @@
     "last_out": "2026-09-18",
     "last_in": "2026-09-17"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → info@iotsistem.com（Berk）"
   },
   "ball": {
    "threads": 6,
@@ -10352,7 +10432,7 @@
     {
      "date": "2024-08-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "9e9739e06c8c4ffb",
@@ -10462,6 +10542,10 @@
     "last_out": "2026-09-28",
     "last_in": "2025-10-03"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → lukasz.gasiewicz@impakt.com.pl（主收件人），抄 bartosz.krawcz"
   },
   "ball": {
    "threads": 1,
@@ -10955,7 +11039,7 @@
     {
      "date": "2024-08-10",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "eae4bec0a71847bf",
@@ -11153,7 +11237,7 @@
     {
      "date": "2024-09-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "1b07cc333e969e86",
@@ -11509,6 +11593,10 @@
     "last_in": "2025-09-26"
    }
   },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → nate.cline@alphanetcom.com"
+  },
   "ball": {
    "threads": 2,
    "longest_n": 4,
@@ -11700,7 +11788,7 @@
     {
      "date": "2026-10-02",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "481d052423caa372",
@@ -11712,7 +11800,7 @@
     {
      "date": "2024-12-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "654b21b6912a9b67",
@@ -11724,7 +11812,7 @@
     {
      "date": "2024-08-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "1d40fa686d57be9b",
@@ -11838,6 +11926,10 @@
     "last_out": "2026-08-28",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "LinkedIn / 官网表单"
   },
   "calendar": {
    "holidays": [
@@ -12017,7 +12109,7 @@
     {
      "date": "2024-11-20",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "dc114515593296e1",
@@ -12029,7 +12121,7 @@
     {
      "date": "2024-07-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c62dff0f5e5bf837",
@@ -12114,6 +12206,10 @@
     "last_out": "2026-09-25",
     "last_in": "2026-06-05"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → irivera@fiberx.net + emorillo@fiberx.net"
   },
   "ball": {
    "threads": 2,
@@ -13142,7 +13238,7 @@
     {
      "date": "2024-11-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "784af58865e1a452",
@@ -13227,7 +13323,7 @@
     {
      "date": "2024-08-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "76ecfbf55a0061c3",
@@ -13339,7 +13435,7 @@
     {
      "date": "2024-09-04",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a9b45304e9fc36a5",
@@ -13434,7 +13530,7 @@
     {
      "date": "2024-11-01",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "059353780a2260c5",
@@ -13446,7 +13542,7 @@
     {
      "date": "2024-09-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "b9e9b5734c182bc5",
@@ -13977,7 +14073,7 @@
     {
      "date": "2025-03-12",
      "model": "",
-     "desc": "Price for 2*1G/2.5G: 100usd/pc(DC type, 90usd/pc)",
+     "desc": "Price for 21G/2.5G: 100usd/pc(DC type, 90usd/pc)",
      "price": 90.0,
      "mb": "S",
      "k": "dc47c9508a0f57ba",
@@ -13989,7 +14085,7 @@
     {
      "date": "2025-03-12",
      "model": "",
-     "desc": "Price for 4*1G/2.5G: 105usd/pc(DC type, 93usd/pc)",
+     "desc": "Price for 41G/2.5G: 105usd/pc(DC type, 93usd/pc)",
      "price": 93.0,
      "mb": "S",
      "k": "dc47c9508a0f57ba",
@@ -14025,7 +14121,7 @@
     {
      "date": "2024-11-28",
      "model": "",
-     "desc": "That is, 151*0.95=143.45usd/pc as final unit price",
+     "desc": "That is, 151×0.95=143.45usd/pc as final unit price",
      "price": 143.45,
      "mb": "S",
      "k": "00f9593232d28840",
@@ -14406,7 +14502,7 @@
     {
      "date": "2026-09-30",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "6d2437354be82f93",
@@ -14498,7 +14594,7 @@
     {
      "date": "2024-08-20",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "135bc0edf19035a0",
@@ -14650,7 +14746,7 @@
     {
      "date": "2024-11-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "57581384353465d0",
@@ -14662,7 +14758,7 @@
     {
      "date": "2024-08-08",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e1f47565ed2822b1",
@@ -15421,7 +15517,7 @@
     {
      "date": "2026-09-21",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "059803e2ac308b24",
@@ -16124,7 +16220,7 @@
     {
      "date": "2024-09-09",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "233fa9c03097202c",
@@ -16244,7 +16340,7 @@
     {
      "date": "2024-12-16",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "0f8052c464f3a00e",
@@ -16256,7 +16352,7 @@
     {
      "date": "2024-09-11",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "b1b0fcbdb2babc7e",
@@ -16515,7 +16611,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "8a37f207283c4a85",
@@ -16527,7 +16623,7 @@
     {
      "date": "2024-08-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "fa9bac28c9de0664",
@@ -16708,7 +16804,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "b2a99e7d19fa21bc",
@@ -16720,7 +16816,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "4a4ff46b38593395",
@@ -16744,7 +16840,7 @@
     {
      "date": "2024-12-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "3bcae89331accb91",
@@ -16756,7 +16852,7 @@
     {
      "date": "2024-06-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "30ebcfe9e225daf7",
@@ -17200,7 +17296,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "1ab2c5467b8641b6",
@@ -17212,7 +17308,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "d8a7409102b01dbb",
@@ -17236,7 +17332,7 @@
     {
      "date": "2025-08-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "28b65adeaf76d581",
@@ -17390,7 +17486,7 @@
     {
      "date": "2024-12-05",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ca17861f405c8d48",
@@ -17402,7 +17498,7 @@
     {
      "date": "2024-11-12",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "372aae1c985bf9bb",
@@ -17999,6 +18095,10 @@
     "last_in": "2025-07-24"
    }
   },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → uzair@52networks.com（抄 sales@52networks.com）"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 27,
@@ -18126,7 +18226,7 @@
     {
      "date": "2024-11-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "936327a9dd6164f1",
@@ -18351,7 +18451,7 @@
     {
      "date": "2024-09-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d8014aa853211270",
@@ -19202,7 +19302,7 @@
     {
      "date": "2024-10-11",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "7bb66a521150a4e6",
@@ -19269,6 +19369,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-02-18"
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "WeChat"
   },
   "ball": {
    "threads": 1,
@@ -19567,6 +19671,10 @@
     "last_in": "2025-03-18"
    }
   },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 3,
@@ -19761,7 +19869,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ef385b7af1c93eb7",
@@ -19773,7 +19881,7 @@
     {
      "date": "2024-08-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c6e318f2ed96c956",
@@ -19962,7 +20070,7 @@
     {
      "date": "2024-09-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e1ed90adf31dc2df",
@@ -20281,7 +20389,7 @@
     {
      "date": "2024-12-23",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "060384aa7df1a637",
@@ -20425,7 +20533,7 @@
     {
      "date": "2024-12-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "1f62db7f8d14e937",
@@ -20479,6 +20587,10 @@
     "last_out": "2026-10-06",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → Jacques"
   },
   "ball": {
    "threads": 1,
@@ -20588,7 +20700,7 @@
     {
      "date": "2024-11-20",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "49a94193b7498739",
@@ -20613,7 +20725,7 @@
     {
      "date": "2024-07-07",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "1b2ed2a08076f189",
@@ -20701,6 +20813,10 @@
     "last_out": "2026-09-25",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "WhatsApp"
   },
   "ball": {
    "threads": 1,
@@ -21012,7 +21128,7 @@
     {
      "date": "2024-09-12",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "eea455b2813aa838",
@@ -21102,7 +21218,7 @@
     {
      "date": "2024-11-07",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "aa0e8f4a4c52fcea",
@@ -21160,7 +21276,7 @@
     {
      "date": "2024-11-06",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "8caa3892cbcbcea6",
@@ -21598,7 +21714,7 @@
     {
      "date": "2024-12-04",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "d36d080b90811cc3",
@@ -21668,6 +21784,10 @@
     "last_out": "2026-09-02",
     "last_in": "2025-03-05"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → j.slob@dios-industries.com"
   },
   "ball": {
    "threads": 1,
@@ -21975,6 +22095,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 5,
@@ -22178,6 +22302,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 3,
@@ -22342,7 +22470,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "7740ac2cd15a82bb",
@@ -22354,7 +22482,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "fe47c9f2bfe46fe2",
@@ -22390,7 +22518,7 @@
     {
      "date": "2025-06-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "54d7319eb2186b6d",
@@ -22402,7 +22530,7 @@
     {
      "date": "2024-08-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a5609e0f54ad7985",
@@ -22669,7 +22797,7 @@
     {
      "date": "2024-11-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "419fbbeb3a42751b",
@@ -22681,7 +22809,7 @@
     {
      "date": "2024-08-07",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e3bdfc8940da3737",
@@ -22931,7 +23059,7 @@
     {
      "date": "2024-11-03",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "c41be8005bb9cae1",
@@ -23132,6 +23260,70 @@
    ],
    "fetched": "2026-10-21"
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "samihyder",
+     "type": "User",
+     "url": "https://github.com/samihyder",
+     "name": "@mutexsystemsltd",
+     "blog": "www.mutexsystemsltd.com",
+     "email": null,
+     "company": "Mutex Systems Ltd.",
+     "public_repos": 6,
+     "created_at": "2020-04-03T18:27:59Z",
+     "updated_at": "2026-09-30T06:52:57Z",
+     "bio": "Technology, Security, A.I, Software, DevOps, Cloud Services",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "tiledger-attendance",
+       "pushed_at": "2026-10-14T17:45:48Z",
+       "lang": "HTML",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "flowchat",
+       "pushed_at": "2026-08-24T01:44:49Z",
+       "lang": "TypeScript",
+       "desc": "Every conversation in flow. — Omnichannel customer communication platform.",
+       "fork": false
+      },
+      {
+       "name": "samihyder.github.io",
+       "pushed_at": "2026-07-29T01:51:28Z",
+       "lang": "HTML",
+       "desc": "Sami Haider — portfolio site (built output only)",
+       "fork": false
+      },
+      {
+       "name": "wa-automation",
+       "pushed_at": "2026-07-16T23:19:27Z",
+       "lang": "TypeScript",
+       "desc": "Whatsapp Automation",
+       "fork": true
+      },
+      {
+       "name": "SOCVault-Blueprint",
+       "pushed_at": "2026-07-03T14:41:09Z",
+       "lang": "HTML",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "das",
+       "pushed_at": "2026-05-26T16:56:10Z",
+       "lang": null,
+       "desc": "",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:14:30Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -23251,7 +23443,7 @@
     {
      "date": "2025-01-31",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ec3a49b86a072ec7",
@@ -23318,6 +23510,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 4,
@@ -23332,6 +23528,70 @@
    "last_snippet": "",
    "last_questions": [],
    "days_since": 614
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "neowine",
+     "type": "User",
+     "url": "https://github.com/neowine",
+     "name": "neowine",
+     "blog": "http://www.neowine.com",
+     "email": null,
+     "company": "NEOWINE",
+     "public_repos": 9,
+     "created_at": "2018-02-26T02:21:26Z",
+     "updated_at": "2022-10-14T17:03:13Z",
+     "bio": "FOR THE MORE SECURE WORLD. NEOWINE Co., Ltd is developed a DORCA-3 which is used for IoT. Since 2002 the NEOWINE developed a ASIC for security. ",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "Vitis-AI",
+       "pushed_at": "2021-06-01T06:34:09Z",
+       "lang": "C++",
+       "desc": "Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Al",
+       "fork": true
+      },
+      {
+       "name": "Xilinx-Guide",
+       "pushed_at": "2021-05-25T00:22:28Z",
+       "lang": null,
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "onnxruntime",
+       "pushed_at": "2021-05-13T05:07:25Z",
+       "lang": null,
+       "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+       "fork": true
+      },
+      {
+       "name": "iot_dev_project",
+       "pushed_at": "2019-03-11T03:19:28Z",
+       "lang": "C++",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "asdfasdfasdf",
+       "pushed_at": "2018-12-10T02:24:15Z",
+       "lang": null,
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "DORCA3_API-2",
+       "pushed_at": "2018-10-30T02:29:05Z",
+       "lang": "C",
+       "desc": "",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 2,
+   "checked_at": "2026-10-27T04:14:45Z"
   },
   "calendar": {
    "holidays": [
@@ -23422,7 +23682,7 @@
     {
      "date": "2024-12-03",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "1c00094188aa0650",
@@ -23434,7 +23694,7 @@
     {
      "date": "2024-11-06",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "1871f3a8b3e2be4e",
@@ -23509,6 +23769,10 @@
     "last_out": "2025-03-19",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "calendar": {
    "holidays": [
@@ -23634,6 +23898,70 @@
     "https://www.linkedin.com/company/anb-securite-s.a./"
    ],
    "fetched": "2026-10-21"
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "anb-rimex",
+     "type": "Organization",
+     "url": "https://github.com/anb-rimex",
+     "name": "AnB Rimex SA",
+     "blog": "http://www.anb-rimex.be",
+     "email": "developer@anb-rimex.be",
+     "company": null,
+     "public_repos": 6,
+     "created_at": "2013-11-29T15:55:27Z",
+     "updated_at": "2026-10-24T13:46:40Z",
+     "bio": "",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "TricomPlugIn",
+       "pushed_at": "2021-05-15T22:55:44Z",
+       "lang": "PHP",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "openremote",
+       "pushed_at": "2018-12-24T09:52:44Z",
+       "lang": "Java",
+       "desc": "OpenRemote v3",
+       "fork": true
+      },
+      {
+       "name": "debian-var",
+       "pushed_at": "2018-11-29T01:34:37Z",
+       "lang": "Shell",
+       "desc": "",
+       "fork": true
+      },
+      {
+       "name": "linux-imx",
+       "pushed_at": "2018-07-25T09:29:52Z",
+       "lang": "C",
+       "desc": "i.MX Linux Kernel",
+       "fork": true
+      },
+      {
+       "name": "uboot-imx",
+       "pushed_at": "2018-04-17T13:51:52Z",
+       "lang": "C",
+       "desc": "Variscite public boot-imx.git.",
+       "fork": true
+      },
+      {
+       "name": "bcm_4343w_fw",
+       "pushed_at": "2017-10-10T10:44:38Z",
+       "lang": null,
+       "desc": "BCM4343 firmware",
+       "fork": true
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:15:23Z"
   },
   "calendar": {
    "holidays": [
@@ -23878,7 +24206,7 @@
     {
      "date": "2024-11-07",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "9e0b1019348611aa",
@@ -24040,6 +24368,26 @@
     "https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABvIP3ABXah-psSnm-4Z31xv8UVMBQ5z_Q8&keywords=andreas%20valtin&origin=RICH_QUERY_SUGGESTION&position=0&searchId=5c57b73d-6ec8-4c1b-beb4-498764a346eb&sid=SzL&spellCorrectionEnabled=false"
    ],
    "fetched": "2026-10-21"
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "LivEye-GmbH",
+     "type": "Organization",
+     "url": "https://github.com/LivEye-GmbH",
+     "name": "LivEye GmbH",
+     "blog": "https://www.liveye.com",
+     "email": null,
+     "company": null,
+     "public_repos": 0,
+     "created_at": "2025-05-08T10:33:18Z",
+     "updated_at": "2026-10-22T18:48:29Z",
+     "bio": "",
+     "match": "strong"
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:16:03Z"
   },
   "calendar": {
    "holidays": [
@@ -24511,7 +24859,7 @@
     {
      "date": "2024-12-16",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "4c0cc8be5a71b873",
@@ -24564,6 +24912,10 @@
     "last_out": "2026-09-10",
     "last_in": "2025-02-20"
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -24710,7 +25062,7 @@
     {
      "date": "2024-12-17",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "882947227dd21bbc",
@@ -24722,7 +25074,7 @@
     {
      "date": "2024-10-29",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "6ac9585b21c92a7c",
@@ -24801,6 +25153,10 @@
     "last_out": "2026-09-09",
     "last_in": "2025-09-17"
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -24978,7 +25334,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "49b4d22f43e3b71d",
@@ -24990,7 +25346,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "483df5d1b7e6434e",
@@ -25038,7 +25394,7 @@
     {
      "date": "2024-12-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "25fe573d94e4e411",
@@ -25050,7 +25406,7 @@
     {
      "date": "2024-06-18",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "ded4159c17e34ac8",
@@ -25309,7 +25665,7 @@
     {
      "date": "2024-11-28",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "1ff4fbc09a136f20",
@@ -25396,6 +25752,10 @@
     "last_in": "2025-07-10"
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 4,
@@ -25410,6 +25770,70 @@
    "last_snippet": "",
    "last_questions": [],
    "days_since": 211
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "tailyn",
+     "type": "Organization",
+     "url": "https://github.com/tailyn",
+     "name": "Tailyn Technologies, Inc.",
+     "blog": "",
+     "email": null,
+     "company": null,
+     "public_repos": 8,
+     "created_at": "2014-07-22T01:06:39Z",
+     "updated_at": "2019-07-11T15:41:46Z",
+     "bio": "",
+     "match": "name",
+     "repos": [
+      {
+       "name": "lobby-greeting-page",
+       "pushed_at": "2023-02-09T01:12:46Z",
+       "lang": "HTML",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "qc-web",
+       "pushed_at": "2017-09-29T10:29:52Z",
+       "lang": "HTML",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "tn-kernel",
+       "pushed_at": "2016-11-04T15:21:05Z",
+       "lang": null,
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "tn-uboot",
+       "pushed_at": "2016-11-04T15:11:23Z",
+       "lang": null,
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "lobby-greeting-page-updater",
+       "pushed_at": "2014-09-03T07:30:20Z",
+       "lang": "Shell",
+       "desc": "",
+       "fork": false
+      },
+      {
+       "name": "board-lib-rdf022",
+       "pushed_at": "2014-09-01T06:36:08Z",
+       "lang": "Python",
+       "desc": "",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:17:57Z"
   },
   "calendar": {
    "holidays": [
@@ -25587,6 +26011,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-12-15"
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -25997,6 +26425,35 @@
    "last_questions": [],
    "days_since": 271
   },
+  "github": {
+   "accounts": [
+    {
+     "login": "ewinsonic",
+     "type": "User",
+     "url": "https://github.com/ewinsonic",
+     "name": "Winsonic",
+     "blog": "www.ewinsonic.com",
+     "email": null,
+     "company": null,
+     "public_repos": 1,
+     "created_at": "2017-09-22T02:29:03Z",
+     "updated_at": "2018-04-02T06:11:47Z",
+     "bio": "",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "k8s-dashboard",
+       "pushed_at": "2018-03-30T12:22:44Z",
+       "lang": null,
+       "desc": "",
+       "fork": true
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:18:31Z"
+  },
   "calendar": {
    "holidays": [
     [
@@ -26314,7 +26771,7 @@
     {
      "date": "2024-12-05",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "9095742841d606b9",
@@ -26326,7 +26783,7 @@
     {
      "date": "2024-08-08",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "cb931a2f380d4d49",
@@ -26510,7 +26967,7 @@
     {
      "date": "2024-08-10",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "82e3821f090f4550",
@@ -26621,6 +27078,10 @@
     "last_out": "2026-10-06",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -26884,7 +27345,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "d540d77588dbaf35",
@@ -26896,7 +27357,7 @@
     {
      "date": "2024-10-18",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "beef149a53ce453b",
@@ -27018,7 +27479,7 @@
     {
      "date": "2025-01-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "80628616e3c6e8f9",
@@ -27141,7 +27602,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "6019470d2fc923ac",
@@ -27153,7 +27614,7 @@
     {
      "date": "2024-07-15",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "ca3f8951ed3b313e",
@@ -27587,7 +28048,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "4af7499e3dd0e9a0",
@@ -27720,7 +28181,7 @@
     {
      "date": "2024-12-01",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "bec06c096e6c5a87",
@@ -28192,7 +28653,7 @@
     {
      "date": "2024-12-05",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "b5866a90abf69697",
@@ -28204,7 +28665,7 @@
     {
      "date": "2024-08-08",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a80c58256e931816",
@@ -28318,7 +28779,7 @@
     {
      "date": "2026-09-30",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "01e3de6b65ac070c",
@@ -28449,6 +28910,63 @@
     "https://www.youtube.com/AudioElektronik"
    ],
    "fetched": "2026-10-21"
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "AudioElektronik",
+     "type": "Organization",
+     "url": "https://github.com/AudioElektronik",
+     "name": "Audio Elektronik",
+     "blog": "http://www.audio.com.tr",
+     "email": "info@audio.com.tr",
+     "company": null,
+     "public_repos": 5,
+     "created_at": "2016-07-21T07:44:31Z",
+     "updated_at": "2026-05-13T09:29:27Z",
+     "bio": "Video Intercom and Home Automation Systems",
+     "match": "strong",
+     "repos": [
+      {
+       "name": "RSQLServer",
+       "pushed_at": "2017-06-16T11:14:34Z",
+       "lang": "Java",
+       "desc": "SQL Server DBI for R, based on the jTDS driver",
+       "fork": true
+      },
+      {
+       "name": "armap",
+       "pushed_at": "2017-05-18T07:16:05Z",
+       "lang": "R",
+       "desc": "Map data for Turkey and utility functions",
+       "fork": false
+      },
+      {
+       "name": "memoise",
+       "pushed_at": "2017-05-04T16:04:09Z",
+       "lang": "R",
+       "desc": "Easy memoisation for R",
+       "fork": true
+      },
+      {
+       "name": "arutil",
+       "pushed_at": "2017-03-20T08:11:23Z",
+       "lang": "R",
+       "desc": "Common, useful functions shared among Audio Elektronik R packages.",
+       "fork": false
+      },
+      {
+       "name": "artuik",
+       "pushed_at": "2016-10-25T12:52:19Z",
+       "lang": "R",
+       "desc": "Tuik (www.turkstat.gov.tr) data cleaning",
+       "fork": false
+      }
+     ]
+    }
+   ],
+   "repos_mentioning_n": 3,
+   "checked_at": "2026-10-27T04:22:13Z"
   },
   "calendar": {
    "holidays": [
@@ -29054,7 +29572,7 @@
     {
      "date": "2026-10-07",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "9ea27472dd85c4ba",
@@ -29472,7 +29990,7 @@
     {
      "date": "2026-09-30",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "e2165320e522739e",
@@ -29793,7 +30311,7 @@
     {
      "date": "2026-10-06",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "3b7548b01ef8ef14",
@@ -29948,7 +30466,7 @@
     {
      "date": "2024-09-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "b212f05d9dfed1f6",
@@ -30527,7 +31045,7 @@
     {
      "date": "2024-12-24",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "905356d61e633bb3",
@@ -31328,7 +31846,7 @@
     {
      "date": "2024-12-09",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "8dad1d35d9087e3e",
@@ -32025,6 +32543,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "S",
+   "text": "S 邮箱 → eros.stefani@stsitalia.com"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 2,
@@ -32170,7 +32692,7 @@
     {
      "date": "2024-06-20",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "83a51f5bb46115af",
@@ -32815,7 +33337,7 @@
     {
      "date": "2024-07-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "094f57eff6cfc9e4",
@@ -33022,7 +33544,7 @@
     {
      "date": "2024-09-11",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "6f4fab942815cac7",
@@ -33545,7 +34067,7 @@
     {
      "date": "2026-10-06",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "b79a2f90ea9deecc",
@@ -34297,7 +34819,7 @@
     {
      "date": "2024-12-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "73d7e1cd91baa130",
@@ -34570,7 +35092,7 @@
     {
      "date": "2024-12-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "86147ab3dac43f42",
@@ -34795,7 +35317,7 @@
     {
      "date": "2024-09-04",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e7a5a498740232ab",
@@ -35025,7 +35547,7 @@
     {
      "date": "2024-11-18",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "f87060308ca1b0e2",
@@ -35037,7 +35559,7 @@
     {
      "date": "2024-09-02",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "065534ea031a1d41",
@@ -35879,7 +36401,7 @@
     {
      "date": "2026-10-19",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "f6ebccb366466987",
@@ -36132,7 +36654,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "e53237ec71460f50",
@@ -36144,7 +36666,7 @@
     {
      "date": "2024-09-12",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "de5e049df6b20183",
@@ -37037,7 +37559,7 @@
     {
      "date": "2026-10-06",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "012d4aaf82e7d6ac",
@@ -37534,7 +38056,7 @@
     {
      "date": "2024-11-29",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "096d1850f905f26c",
@@ -37637,7 +38159,7 @@
     {
      "date": "2024-09-06",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "494dccd2348ba2cf",
@@ -38844,7 +39366,7 @@
     {
      "date": "2026-10-20",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "703a86954643546e",
@@ -38981,7 +39503,7 @@
     {
      "date": "2024-11-08",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "75e4d8ce21d59f28",
@@ -38993,7 +39515,7 @@
     {
      "date": "2024-06-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "8e7b7d4bafe29152",
@@ -39209,7 +39731,7 @@
     {
      "date": "2025-01-09",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "d58048ef1253134f",
@@ -39302,6 +39824,10 @@
     "last_out": "2026-08-10",
     "last_in": "2026-01-21"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → mark.basham@technetix.com（回 2026-01-22 原线程「OEM Core S"
   },
   "ball": {
    "threads": 1,
@@ -39534,6 +40060,10 @@
     "last_out": "2026-08-10",
     "last_in": "2025-12-03"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → yb@comtinu.ru（回 2025-12-03 原线程「Booster PoE Switch」或新主"
   },
   "ball": {
    "threads": 2,
@@ -40208,6 +40738,10 @@
     "last_in": "2026-05-20"
    }
   },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → info@cnstech.gr（同一线程「Re: 10G L3 Managed Switch」，抬头 Ak"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 4,
@@ -40275,7 +40809,7 @@
     {
      "date": "2026-10-07",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "4937ae788a3a4ff2",
@@ -40424,6 +40958,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "S",
+   "text": "S 邮箱 → nedic.aleksandar@gmail.com（回 2024-05-16 原线程「Industria"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 7,
@@ -40570,7 +41108,7 @@
     {
      "date": "2024-08-23",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "cca2d8ce95d12e94",
@@ -40624,6 +41162,10 @@
     "last_out": "2026-09-09",
     "last_in": "2026-01-20"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → gerencia@conexionderedes.com（回 2026-01-20 原线程「OEM Cor"
   },
   "ball": {
    "threads": 1,
@@ -41059,6 +41601,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "S",
+   "text": "S 邮箱 → transivideo@gmail.com"
+  },
   "ball": {
    "threads": 2,
    "longest_n": 8,
@@ -41138,7 +41684,7 @@
     {
      "date": "2024-12-30",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "5ae842df81924338",
@@ -41150,7 +41696,7 @@
     {
      "date": "2024-08-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "8e178e5ef509e627",
@@ -41405,6 +41951,10 @@
     "last_out": "2026-03-12",
     "last_in": "2026-03-11"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → arnoldomohr@gmail.com（回 2026-03-12 原线程「OEM Core Switc"
   },
   "ball": {
    "threads": 2,
@@ -41689,7 +42239,7 @@
     {
      "date": "2024-11-20",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "c5783ac152fa537b",
@@ -41701,7 +42251,7 @@
     {
      "date": "2024-08-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "b0097aaefd09c834",
@@ -41741,6 +42291,10 @@
     "last_out": "2026-03-11",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -41944,7 +42498,7 @@
     {
      "date": "2024-12-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "8192d45be63bafb5",
@@ -41956,7 +42510,7 @@
     {
      "date": "2024-07-16",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "dfa2c386fe4b6efa",
@@ -42034,6 +42588,10 @@
     "last_out": "2026-08-10",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）"
   },
   "ball": {
    "threads": 1,
@@ -42728,7 +43286,7 @@
     {
      "date": "2024-12-05",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "9005edf034098bbe",
@@ -42740,7 +43298,7 @@
     {
      "date": "2024-11-08",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "d9d573dfa12b31fb",
@@ -43194,7 +43752,7 @@
     {
      "date": "2024-09-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "93d29c2f1f1638e1",
@@ -44221,6 +44779,10 @@
     "last_in": "2026-05-26"
    }
   },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → robert@bsdnetworks.com"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 3,
@@ -44349,7 +44911,7 @@
     {
      "date": "2024-11-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "14531dd541f7f1e0",
@@ -44361,7 +44923,7 @@
     {
      "date": "2024-06-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "7f74dc16bdda4cfc",
@@ -44496,7 +45058,7 @@
     {
      "date": "2024-11-21",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "21fb4063cf5551fd",
@@ -44621,7 +45183,7 @@
     {
      "date": "2024-06-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "fcf8ada1a6106e57",
@@ -44950,7 +45512,7 @@
     {
      "date": "2024-10-08",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "438a3e0c6a138511",
@@ -45152,7 +45714,7 @@
     {
      "date": "2024-11-11",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "969f44f7384454b9",
@@ -45307,7 +45869,7 @@
     {
      "date": "2024-07-04",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "220cb850b422555f",
@@ -45685,7 +46247,7 @@
     {
      "date": "2024-11-21",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "109bb8a1ec73b11e",
@@ -45815,7 +46377,7 @@
     {
      "date": "2024-07-02",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "f336dd874a27ea7b",
@@ -45938,7 +46500,7 @@
     {
      "date": "2024-06-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a2ad42e4051a6336",
@@ -46035,7 +46597,7 @@
     {
      "date": "2024-12-23",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "c3753104b0401c1d",
@@ -46582,7 +47144,7 @@
     {
      "date": "2024-07-11",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "51bcfc210f80fb4f",
@@ -46674,6 +47236,10 @@
     "last_out": "2026-07-02",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -47198,7 +47764,7 @@
     {
      "date": "2024-12-02",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "0ab0d9fe4c2c7c82",
@@ -47210,7 +47776,7 @@
     {
      "date": "2024-08-09",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "6eb8063759a4181c",
@@ -47534,7 +48100,7 @@
     {
      "date": "2024-11-18",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ae4bd1466480dcdb",
@@ -47546,7 +48112,7 @@
     {
      "date": "2024-10-21",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "050e8819312abfc3",
@@ -47766,7 +48332,7 @@
     {
      "date": "2024-11-05",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "cf612f2994527043",
@@ -47903,6 +48469,10 @@
     "last_out": "2026-09-22",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -48308,7 +48878,7 @@
     {
      "date": "2026-10-04",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "7a6faecb42f79e58",
@@ -49206,7 +49776,7 @@
     {
      "date": "2024-12-31",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "2cc405c27d3679a2",
@@ -49218,23 +49788,11 @@
     {
      "date": "2024-09-26",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "3f614545f03ac304",
      "subj": "10G Media Converter",
-     "kind": "群发价",
-     "today": null,
-     "tier_used": 30
-    },
-    {
-     "date": "2024-08-26",
-     "model": "",
-     "desc": "Price is very competitive, 300usd/pc",
-     "price": 300.0,
-     "mb": "S",
-     "k": "e5a85304f58a3e41",
-     "subj": "48 port poe managed switch",
      "kind": "群发价",
      "today": null,
      "tier_used": 30
@@ -49892,7 +50450,7 @@
     {
      "date": "2024-06-17",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "7b6d740bd6fe91f8",
@@ -49951,6 +50509,10 @@
     "last_out": "2026-09-01",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -50433,7 +50995,7 @@
     {
      "date": "2024-12-06",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "186a272dde4cc437",
@@ -50515,7 +51077,7 @@
     {
      "date": "2024-09-02",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "1690d696c464e3dd",
@@ -50806,6 +51368,10 @@
     "last_out": "2026-09-22",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -51393,6 +51959,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "calendar": {
    "holidays": [
     [
@@ -51837,7 +52407,7 @@
     {
      "date": "2024-12-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "27f2a1e246c2ef42",
@@ -51849,7 +52419,7 @@
     {
      "date": "2024-09-09",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "ba0f371006782014",
@@ -52148,7 +52718,7 @@
     {
      "date": "2024-08-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "6e9cbe0e613fba72",
@@ -52304,7 +52874,7 @@
     {
      "date": "2025-01-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "9f4639f3732f1bb5",
@@ -52461,7 +53031,7 @@
     {
      "date": "2024-11-01",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "fcb8a0bb9a37a61b",
@@ -52853,6 +53423,10 @@
     "last_in": "2025-10-01"
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 2,
@@ -53079,7 +53653,7 @@
     {
      "date": "2024-09-12",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "870c70a14a65e7dd",
@@ -53232,7 +53806,7 @@
     {
      "date": "2024-12-02",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "a310803a8ab68233",
@@ -53244,7 +53818,7 @@
     {
      "date": "2024-07-04",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "4a25bf2c14223ec6",
@@ -53440,7 +54014,7 @@
     {
      "date": "2024-12-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "b920a6536b8f51f8",
@@ -53776,7 +54350,7 @@
     {
      "date": "2024-11-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "4a958f0e17a298e9",
@@ -53788,7 +54362,7 @@
     {
      "date": "2024-07-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "163826baf485b2a7",
@@ -53842,6 +54416,10 @@
     "last_out": "2026-09-10",
     "last_in": "2026-01-16"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → jryoun74@hcin4.com"
   },
   "ball": {
    "threads": 1,
@@ -53999,6 +54577,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 2,
@@ -54140,7 +54722,7 @@
     {
      "date": "2024-11-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "34090ed5dd302460",
@@ -54152,7 +54734,7 @@
     {
      "date": "2024-08-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "9a72215e0502f046",
@@ -54456,7 +55038,7 @@
     {
      "date": "2025-02-06",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "d1ef8a176faf72f8",
@@ -54604,7 +55186,7 @@
     {
      "date": "2025-01-16",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "2747d349647bff7c",
@@ -54616,23 +55198,11 @@
     {
      "date": "2024-10-28",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "dafa6cc19eb8e3b6",
      "subj": "10G Media Converter",
-     "kind": "群发价",
-     "today": null,
-     "tier_used": 30
-    },
-    {
-     "date": "2024-08-27",
-     "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
-     "price": 65.0,
-     "mb": "S",
-     "k": "e03174b241b4eff2",
-     "subj": "10G media converter",
      "kind": "群发价",
      "today": null,
      "tier_used": 30
@@ -54813,7 +55383,7 @@
     {
      "date": "2024-11-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "859600fcd2cc6483",
@@ -54825,7 +55395,7 @@
     {
      "date": "2024-06-28",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a159062b024fa5b1",
@@ -54979,7 +55549,7 @@
     {
      "date": "2024-08-10",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "011233a6f8dc6a9e",
@@ -55075,7 +55645,7 @@
     {
      "date": "2024-08-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e45597fdb1cc20ec",
@@ -55251,7 +55821,7 @@
     {
      "date": "2024-08-15",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c91ed2182d804f3e",
@@ -55532,7 +56102,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "4a29b52b5cfc591c",
@@ -55544,7 +56114,7 @@
     {
      "date": "2024-08-13",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d3b0bf687eab6479",
@@ -55682,7 +56252,7 @@
     {
      "date": "2024-08-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "005f6be864f5a75b",
@@ -55807,7 +56377,7 @@
     {
      "date": "2024-08-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "8cc9e63c121aeaa3",
@@ -55968,7 +56538,7 @@
     {
      "date": "2024-11-28",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "3a7587372f3a9288",
@@ -56066,6 +56636,10 @@
     "last_in": "2026-02-09"
    }
   },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → marek@is-net.pl（回到 OEM Core Switching Solution 串）"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 2,
@@ -56140,7 +56714,7 @@
     {
      "date": "2024-11-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "1eb5e071106a4355",
@@ -56274,7 +56848,7 @@
     {
      "date": "2024-11-06",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "da79ad9769e43861",
@@ -57032,7 +57606,7 @@
     {
      "date": "2024-09-06",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d3c51564e3c9bccc",
@@ -57190,7 +57764,7 @@
     {
      "date": "2024-12-24",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "b86b116e00596243",
@@ -57202,7 +57776,7 @@
     {
      "date": "2024-08-07",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "04e1b7c26ff7f57b",
@@ -57462,7 +58036,7 @@
     {
      "date": "2024-08-23",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "73b64fd04213109a",
@@ -58154,7 +58728,7 @@
     {
      "date": "2026-10-09",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "8450a1bbb07b6022",
@@ -58387,6 +58961,10 @@
     "last_out": "2026-09-04",
     "last_in": "2025-07-07"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → amyhoi@bio-cognitive.com"
   },
   "ball": {
    "threads": 1,
@@ -58767,7 +59345,7 @@
     {
      "date": "2024-10-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "3be6f2c5d0f2c0c2",
@@ -58779,7 +59357,7 @@
     {
      "date": "2024-08-16",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "5c562e3fe4402c71",
@@ -59003,7 +59581,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "45cd69a8b3e96817",
@@ -59015,7 +59593,7 @@
     {
      "date": "2024-07-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d13d8ca18d40b247",
@@ -59477,7 +60055,7 @@
     {
      "date": "2026-10-07",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "4a6c08ee65f6e34b",
@@ -59856,7 +60434,7 @@
     {
      "date": "2024-11-29",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "cc1f7ded25e4cd13",
@@ -59868,7 +60446,7 @@
     {
      "date": "2024-07-26",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c1df5440330646c5",
@@ -60296,7 +60874,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "a105ca3e88424b72",
@@ -60308,7 +60886,7 @@
     {
      "date": "2024-08-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "8a08b7b85203f399",
@@ -60516,7 +61094,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "0511a044fe2728a6",
@@ -60921,7 +61499,7 @@
     {
      "date": "2025-01-30",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "761b9bd65988e999",
@@ -61241,7 +61819,7 @@
     {
      "date": "2026-10-06",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "9667a6c8a6719fa6",
@@ -61677,7 +62255,7 @@
     {
      "date": "2024-11-06",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "4d73dd0922105490",
@@ -62153,7 +62731,7 @@
     {
      "date": "2025-01-08",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "4fe456408f8e8a9a",
@@ -62182,18 +62760,6 @@
      "mb": "S",
      "k": "b9f8fb0cdcb4661c",
      "subj": "PoE managed switch",
-     "kind": "群发价",
-     "today": null,
-     "tier_used": 30
-    },
-    {
-     "date": "2024-07-15",
-     "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
-     "price": 65.0,
-     "mb": "S",
-     "k": "1bafbd3051520284",
-     "subj": "10G media converter",
      "kind": "群发价",
      "today": null,
      "tier_used": 30
@@ -62506,7 +63072,7 @@
     {
      "date": "2024-12-23",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "2a76665e66caff3b",
@@ -62518,7 +63084,7 @@
     {
      "date": "2024-09-30",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a4de63842264cdb8",
@@ -62803,7 +63369,7 @@
     {
      "date": "2025-01-27",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "3de764baa16eb019",
@@ -63030,7 +63596,7 @@
     {
      "date": "2026-10-09",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "a20193781b1da4c0",
@@ -63054,7 +63620,7 @@
     {
      "date": "2024-11-01",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "74de5a74f50dd497",
@@ -63066,7 +63632,7 @@
     {
      "date": "2024-09-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "1852a639877f854f",
@@ -63118,6 +63684,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-06-12"
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -63786,7 +64356,7 @@
     {
      "date": "2024-08-07",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "57b1bbd1588df9bb",
@@ -64562,7 +65132,7 @@
     {
      "date": "2024-11-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "bb5a56bf25d23d5f",
@@ -64767,7 +65337,7 @@
     {
      "date": "2024-12-18",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "a3ad38bd84a2e9e0",
@@ -64779,7 +65349,7 @@
     {
      "date": "2024-07-16",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "bfb14229d337cc71",
@@ -65079,7 +65649,7 @@
     {
      "date": "2024-12-04",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "28ed43578457a107",
@@ -65282,7 +65852,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ae844bac17cbf1ed",
@@ -65440,7 +66010,7 @@
     {
      "date": "2024-11-05",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "1f0306e0a977fe72",
@@ -65452,23 +66022,11 @@
     {
      "date": "2024-09-12",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "26918a3336f15307",
      "subj": "10G Media Converter",
-     "kind": "群发价",
-     "today": null,
-     "tier_used": 30
-    },
-    {
-     "date": "2024-08-30",
-     "model": "",
-     "desc": "Price is very competitive, 300usd/pc",
-     "price": 300.0,
-     "mb": "S",
-     "k": "8e2f8c262456701c",
-     "subj": "48 port poe managed switch",
      "kind": "群发价",
      "today": null,
      "tier_used": 30
@@ -65554,7 +66112,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "0d9459de9b9b2c27",
@@ -65566,7 +66124,7 @@
     {
      "date": "2024-08-29",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e45e5a0901e855c1",
@@ -65685,7 +66243,7 @@
     {
      "date": "2024-11-21",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "a052b0472a93c417",
@@ -65697,7 +66255,7 @@
     {
      "date": "2024-08-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "ac4d08a68fca1e52",
@@ -65902,7 +66460,7 @@
     {
      "date": "2024-12-16",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ff330861feaa0515",
@@ -65914,7 +66472,7 @@
     {
      "date": "2024-09-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "1a17790e94583d8f",
@@ -66019,7 +66577,7 @@
     {
      "date": "2024-12-16",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "434bb1b89fbe1894",
@@ -66031,7 +66589,7 @@
     {
      "date": "2024-08-13",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "ff210e9b888ae8af",
@@ -66211,7 +66769,7 @@
     {
      "date": "2024-11-04",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "dd4e72ce5cf87d05",
@@ -66577,7 +67135,7 @@
     {
      "date": "2024-09-26",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "6a08519f22b7f868",
@@ -66922,7 +67480,7 @@
     {
      "date": "2024-11-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "5c069213456eb1f5",
@@ -67028,7 +67586,7 @@
     {
      "date": "2024-09-09",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "4a651f145382b512",
@@ -67288,7 +67846,7 @@
     {
      "date": "2024-12-05",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "1d341c8adc8b8dc2",
@@ -67390,7 +67948,7 @@
     {
      "date": "2024-07-18",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "727af384eea406e1",
@@ -67775,7 +68333,7 @@
     {
      "date": "2024-12-24",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "85631ffd7f2e810e",
@@ -67787,7 +68345,7 @@
     {
      "date": "2024-09-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "1bd4f140401738ff",
@@ -68233,7 +68791,7 @@
     {
      "date": "2025-01-31",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "d58defe633e59a37",
@@ -68245,7 +68803,7 @@
     {
      "date": "2024-11-21",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "0c5869772e8d463e",
@@ -68773,7 +69331,7 @@
     {
      "date": "2024-12-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "7493830b6e19d535",
@@ -68785,7 +69343,7 @@
     {
      "date": "2024-08-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "7ee8d55c9a41b028",
@@ -69145,7 +69703,7 @@
     {
      "date": "2024-11-21",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "97f5614be7a62274",
@@ -69157,7 +69715,7 @@
     {
      "date": "2024-08-18",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d61b54314d6f83b2",
@@ -69328,7 +69886,7 @@
     {
      "date": "2024-11-05",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "9bc484039b2212cf",
@@ -69340,7 +69898,7 @@
     {
      "date": "2024-10-01",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "f845853d86787ac5",
@@ -70252,7 +70810,7 @@
     {
      "date": "2024-12-06",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "32bce5450201c2a2",
@@ -70777,7 +71335,7 @@
     {
      "date": "2024-08-08",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "519f83711b06f57e",
@@ -70894,7 +71452,7 @@
     {
      "date": "2024-12-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "68307a1e54f5b7ac",
@@ -71073,7 +71631,7 @@
     {
      "date": "2024-11-07",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "2f448902829a2e68",
@@ -71085,7 +71643,7 @@
     {
      "date": "2024-08-08",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "0a1423feb2fed264",
@@ -71520,7 +72078,7 @@
     {
      "date": "2024-11-26",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "55be738053e059ca",
@@ -71965,7 +72523,7 @@
     {
      "date": "2024-11-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "6f7bb7ab3ddf6a50",
@@ -71977,7 +72535,7 @@
     {
      "date": "2024-07-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "403d9cc141114dca",
@@ -72098,7 +72656,7 @@
     {
      "date": "2024-10-22",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "d5e3af15fe220d34",
@@ -72210,7 +72768,7 @@
     {
      "date": "2024-11-04",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "1d70677d7221c2ee",
@@ -72222,7 +72780,7 @@
     {
      "date": "2024-08-12",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c8fafc21f92b2b9b",
@@ -72655,7 +73213,7 @@
     {
      "date": "2024-11-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "a0b1d3f7dc0e109e",
@@ -72667,7 +73225,7 @@
     {
      "date": "2024-07-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "76563d7b11af375c",
@@ -72858,7 +73416,7 @@
     {
      "date": "2024-08-09",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "6fdab09adad949d0",
@@ -73131,7 +73689,7 @@
     {
      "date": "2024-11-26",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "a9a62fe6c4a38393",
@@ -73366,7 +73924,7 @@
     {
      "date": "2024-09-13",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "13624c61e45f7560",
@@ -73876,7 +74434,7 @@
     {
      "date": "2024-06-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d623e7b9d368f411",
@@ -74716,7 +75274,7 @@
     {
      "date": "2026-10-06",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "c05dbf672da6660d",
@@ -75028,7 +75586,7 @@
     {
      "date": "2026-10-06",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "3b51e4beeee86047",
@@ -75270,7 +75828,7 @@
     {
      "date": "2024-11-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "cc49fdeb160c7fcc",
@@ -75282,7 +75840,7 @@
     {
      "date": "2024-07-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "0f58a68d11831156",
@@ -75432,7 +75990,7 @@
     {
      "date": "2024-12-03",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "9c53814fc44c929a",
@@ -75444,7 +76002,7 @@
     {
      "date": "2024-11-06",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "7c1224eb9c5b50e7",
@@ -75657,7 +76215,7 @@
     {
      "date": "2024-08-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "5c5128dc9f384bd2",
@@ -76002,7 +76560,7 @@
     {
      "date": "2024-11-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "71b67082f2fa80bf",
@@ -76014,7 +76572,7 @@
     {
      "date": "2024-09-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "4e265a2a649aaf82",
@@ -76429,6 +76987,10 @@
     "last_out": "2026-10-07",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "calendar": {
    "holidays": [
@@ -77229,7 +77791,7 @@
     {
      "date": "2025-02-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "f9e8e6b0c8efead3",
@@ -77336,7 +77898,7 @@
     {
      "date": "2024-11-28",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "f3376ca330f07216",
@@ -77861,7 +78423,7 @@
     {
      "date": "2024-09-10",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c0a3e9e26bc7481f",
@@ -78110,7 +78672,7 @@
     {
      "date": "2024-09-02",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e447e14c7cc6f5a2",
@@ -78238,7 +78800,7 @@
     {
      "date": "2024-11-15",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "1bfd3dac00f2def4",
@@ -78464,7 +79026,7 @@
     {
      "date": "2024-12-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "5d0ddb62c1b41a48",
@@ -78476,7 +79038,7 @@
     {
      "date": "2024-10-15",
      "model": "",
-     "desc": "50usd/pc, 2*1G/2.5G/10G SFP Fiber ports+4*100M/1G/2.5G Ethernet ports,",
+     "desc": "50usd/pc, 21G/2.5G/10G SFP Fiber ports+4100M/1G/2.5G Ethernet ports,",
      "price": 50.0,
      "mb": "S",
      "k": "600c9221602d0b9d",
@@ -78488,7 +79050,7 @@
     {
      "date": "2024-06-18",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a18734607baaf8c9",
@@ -78557,6 +79119,10 @@
     "last_out": "2026-09-08",
     "last_in": "2025-04-28"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → saeed@e-saudi.net（Saeed Mohammed）"
   },
   "ball": {
    "threads": 2,
@@ -78686,7 +79252,7 @@
     {
      "date": "2024-11-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "e79fe2405c18ab4e",
@@ -78698,7 +79264,7 @@
     {
      "date": "2024-10-21",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "1109d758082d4763",
@@ -78825,7 +79391,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "465a9b7f83b75dba",
@@ -78837,7 +79403,7 @@
     {
      "date": "2024-07-23",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "efaf79498c34e8e7",
@@ -79253,7 +79819,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "a07550069a0f6474",
@@ -79265,7 +79831,7 @@
     {
      "date": "2024-10-29",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "93ccb79acbee9649",
@@ -79608,7 +80174,7 @@
     {
      "date": "2024-12-06",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "19cc387b0b8b92b6",
@@ -79620,7 +80186,7 @@
     {
      "date": "2024-09-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a1c3d4beb46d0869",
@@ -79995,7 +80561,7 @@
     {
      "date": "2024-11-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "7f85a250d512e34a",
@@ -80007,7 +80573,7 @@
     {
      "date": "2024-08-07",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "9a04079e6d22c8e0",
@@ -80431,7 +80997,7 @@
     {
      "date": "2024-11-01",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "b396aeff3a6aae69",
@@ -81058,6 +81624,10 @@
     "last_out": "2026-09-07",
     "last_in": "2025-02-08"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → andys@case.uk.com"
   },
   "ball": {
    "threads": 2,
@@ -81690,7 +82260,7 @@
     {
      "date": "2026-10-08",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "cbcde8158310a745",
@@ -81933,7 +82503,7 @@
     {
      "date": "2024-11-28",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "5a6bfae266f8490a",
@@ -82134,7 +82704,7 @@
     {
      "date": "2024-11-06",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "4a6ec5b4563e6f5e",
@@ -82146,7 +82716,7 @@
     {
      "date": "2024-08-29",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c24a27645878c128",
@@ -82388,7 +82958,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "0d327a150c0bbff3",
@@ -82428,6 +82998,10 @@
     "last_out": "2026-08-17",
     "last_in": "2026-05-12"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → afonin@npotelecom.ru"
   },
   "ball": {
    "threads": 2,
@@ -82577,7 +83151,7 @@
     {
      "date": "2025-01-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "34f81e2b42a82723",
@@ -82748,7 +83322,7 @@
     {
      "date": "2024-08-13",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "18b0b8e7cfc9a555",
@@ -83190,7 +83764,7 @@
     {
      "date": "2026-10-20",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "4c29c5d07e17dc22",
@@ -83306,7 +83880,7 @@
     {
      "date": "2024-06-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "4b470b5e49a7530e",
@@ -83777,7 +84351,7 @@
     {
      "date": "2024-08-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "1476eaba3f718555",
@@ -84190,7 +84764,7 @@
     {
      "date": "2024-12-24",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "83dbede5e6de7786",
@@ -84202,7 +84776,7 @@
     {
      "date": "2024-10-23",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "341255552098f650",
@@ -84335,7 +84909,7 @@
     {
      "date": "2024-12-30",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "db1182b83417dd1c",
@@ -84347,7 +84921,7 @@
     {
      "date": "2024-07-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "8c3ed1929ccf18b2",
@@ -84709,7 +85283,7 @@
     {
      "date": "2024-12-23",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ea11b01b5b7642f5",
@@ -84828,7 +85402,7 @@
     {
      "date": "2024-08-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a20e19ac956e5116",
@@ -84946,7 +85520,7 @@
     {
      "date": "2024-08-29",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "cd8b5ec01f3253b8",
@@ -85117,6 +85691,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 4,
@@ -85242,7 +85820,7 @@
     {
      "date": "2024-11-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "cee3a6b862e47a42",
@@ -85440,7 +86018,7 @@
     {
      "date": "2024-08-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a4fb6e9cc6203d9b",
@@ -85539,7 +86117,7 @@
     {
      "date": "2024-12-23",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "de96faa4d6d4bb53",
@@ -85944,7 +86522,7 @@
     {
      "date": "2026-10-09",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "3d93fa321886c0f3",
@@ -86211,7 +86789,7 @@
     {
      "date": "2024-11-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "46b7ef7727a77a2b",
@@ -86223,7 +86801,7 @@
     {
      "date": "2024-07-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "0999390ac2ff1013",
@@ -86348,7 +86926,7 @@
     {
      "date": "2024-11-08",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "5b7cc3f55ee425d1",
@@ -86531,7 +87109,7 @@
     {
      "date": "2024-11-18",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "3a7c6f60c6e935d5",
@@ -86543,7 +87121,7 @@
     {
      "date": "2024-09-06",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d6e0636c18f94fe8",
@@ -86629,7 +87207,7 @@
     {
      "date": "2024-11-07",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "43c06c9fa49d1ee7",
@@ -87047,7 +87625,7 @@
     {
      "date": "2024-11-21",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "1dd86932eb3c21a9",
@@ -87166,7 +87744,7 @@
     {
      "date": "2024-11-18",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "02c84df792eb705a",
@@ -87810,7 +88388,7 @@
     {
      "date": "2024-11-18",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "687afe03c88b24f9",
@@ -87822,7 +88400,7 @@
     {
      "date": "2024-06-18",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "cc5b0face7233136",
@@ -87962,7 +88540,7 @@
     {
      "date": "2024-12-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "abb8904751e7acb8",
@@ -88397,7 +88975,7 @@
     {
      "date": "2024-12-17",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "12b14f737aebf8fe",
@@ -88409,7 +88987,7 @@
     {
      "date": "2024-09-02",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d06aebb99acc3a29",
@@ -88830,7 +89408,7 @@
     {
      "date": "2024-11-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "6ab5ec384af804d3",
@@ -88842,7 +89420,7 @@
     {
      "date": "2024-08-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "f51386bb935d6298",
@@ -88982,7 +89560,7 @@
     {
      "date": "2024-12-17",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "84167bd74f7863a2",
@@ -88994,7 +89572,7 @@
     {
      "date": "2024-07-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "99c9a57b39e6ab4d",
@@ -89155,7 +89733,7 @@
     {
      "date": "2024-11-29",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "04557320875a28c0",
@@ -89167,7 +89745,7 @@
     {
      "date": "2024-08-12",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "2e3cb9737cedaf26",
@@ -89308,7 +89886,7 @@
     {
      "date": "2024-08-30",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "2cc765353328b700",
@@ -89922,7 +90500,7 @@
     {
      "date": "2024-12-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "bb159c8c7d769705",
@@ -89934,7 +90512,7 @@
     {
      "date": "2024-06-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "ba60ccd1b4288779",
@@ -90194,7 +90772,7 @@
     {
      "date": "2024-08-15",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "5a5bcb540603a6bc",
@@ -90637,7 +91215,7 @@
     {
      "date": "2024-11-20",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "b47fbe9e6c758abb",
@@ -91062,7 +91640,7 @@
     {
      "date": "2024-12-31",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "298645201d79c26c",
@@ -92169,7 +92747,7 @@
     {
      "date": "2024-07-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "efc2205da3206b1c",
@@ -93715,7 +94293,7 @@
     {
      "date": "2025-01-08",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "8899e8941ba6ae89",
@@ -93737,21 +94315,9 @@
      "tier_used": 30
     },
     {
-     "date": "2024-08-17",
-     "model": "",
-     "desc": "Price is very competitive, 300usd/pc",
-     "price": 300.0,
-     "mb": "S",
-     "k": "112bfe5d676ac9e5",
-     "subj": "48 port poe managed switch",
-     "kind": "群发价",
-     "today": null,
-     "tier_used": 30
-    },
-    {
      "date": "2024-07-09",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "2e094766a5363023",
@@ -94011,7 +94577,7 @@
     {
      "date": "2024-11-28",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "f81f3b26e6aad98f",
@@ -94065,6 +94631,10 @@
     "last_out": "2026-09-07",
     "last_in": "2026-02-06"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → jskim@solway.co.kr"
   },
   "ball": {
    "threads": 1,
@@ -94194,7 +94764,7 @@
     {
      "date": "2024-11-20",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "5ac15ce4dda7d285",
@@ -94206,7 +94776,7 @@
     {
      "date": "2024-08-21",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "73afee791f2f8f5a",
@@ -94825,7 +95395,7 @@
     {
      "date": "2024-11-06",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "dcd7011db2b8c0a2",
@@ -94837,7 +95407,7 @@
     {
      "date": "2024-10-11",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "ff5b45dd33c231ed",
@@ -95154,7 +95724,7 @@
     {
      "date": "2024-08-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "7bb13d6da6175ac1",
@@ -95427,7 +95997,7 @@
     {
      "date": "2024-12-02",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "b25a78ccace49b59",
@@ -95816,7 +96386,7 @@
     {
      "date": "2024-08-10",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a0a235c51d7b235c",
@@ -95935,7 +96505,7 @@
     {
      "date": "2026-10-06",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "6cd19bffa84570cf",
@@ -96186,7 +96756,7 @@
     {
      "date": "2024-11-27",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "f450bac6908ccbeb",
@@ -96631,7 +97201,7 @@
     {
      "date": "2024-08-06",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "3061b11aa1986791",
@@ -96749,7 +97319,7 @@
     {
      "date": "2024-12-26",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "a495a5d7acb5a995",
@@ -96761,7 +97331,7 @@
     {
      "date": "2024-06-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e922edd105cca3cf",
@@ -97155,7 +97725,7 @@
     {
      "date": "2024-09-06",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "84f46e93a95036ea",
@@ -97410,7 +97980,7 @@
     {
      "date": "2024-07-06",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "f6df2b7549361ec0",
@@ -97976,7 +98546,7 @@
     {
      "date": "2024-11-15",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "42e515a23e616c0d",
@@ -98000,7 +98570,7 @@
     {
      "date": "2024-08-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "972d9c7605729e4a",
@@ -98076,6 +98646,10 @@
     "last_out": "2026-09-18",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "E",
+   "text": "Elsa 邮箱回原线程"
   },
   "ball": {
    "threads": 3,
@@ -99621,7 +100195,7 @@
     {
      "date": "2024-10-18",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "3546894191bacbcf",
@@ -99700,7 +100274,7 @@
     {
      "date": "2024-08-23",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a5ad4dd66a818832",
@@ -103258,7 +103832,7 @@
     {
      "date": "2024-12-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "6d46b7ba8ae2da7b",
@@ -103311,6 +103885,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 4,
@@ -103324,7 +103902,7 @@
    "last_k": "dfee51348aa39ecb",
    "last_snippet": "",
    "last_questions": [],
-   "days_since": 732
+   "days_since": 733
   },
   "calendar": {
    "holidays": [
@@ -103711,7 +104289,7 @@
     {
      "date": "2024-09-11",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "81f00da14e197903",
@@ -104130,7 +104708,7 @@
     {
      "date": "2024-12-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "51626efe54a57586",
@@ -104142,7 +104720,7 @@
     {
      "date": "2024-08-08",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "75996942f78a56bc",
@@ -104447,6 +105025,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "S",
+   "text": "S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed sw"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 5,
@@ -104673,6 +105255,10 @@
     "last_in": "2026-08-15"
    }
   },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → yair@aironix.co.il（+WhatsApp +972 54 831 8384）"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 4,
@@ -104896,7 +105482,7 @@
     {
      "date": "2024-12-04",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "6eef7557a65863ad",
@@ -104908,7 +105494,7 @@
     {
      "date": "2024-07-30",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "ed1e70d34de88e0c",
@@ -105097,7 +105683,7 @@
     {
      "date": "2024-11-29",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "a7b87531ec9e6d16",
@@ -105350,6 +105936,10 @@
     "last_out": "2026-08-31",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "S",
+   "text": "S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web "
   },
   "ball": {
    "threads": 1,
@@ -105985,7 +106575,7 @@
     {
      "date": "2024-11-28",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "dc21f8671de70fdc",
@@ -105997,7 +106587,7 @@
     {
      "date": "2024-09-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "5df3975889e111ce",
@@ -106336,7 +106926,7 @@
     {
      "date": "2024-11-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "0a6765b23340ce69",
@@ -106348,7 +106938,7 @@
     {
      "date": "2024-09-12",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c07f735777d36310",
@@ -106832,7 +107422,7 @@
     {
      "date": "2025-01-03",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "10186d463fffb69b",
@@ -107114,7 +107704,7 @@
     {
      "date": "2024-11-02",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "470ffdaf5b7ceb2f",
@@ -107507,7 +108097,7 @@
     {
      "date": "2024-08-10",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "04b0feafb9c5dff8",
@@ -107910,7 +108500,7 @@
     {
      "date": "2026-10-07",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "b0be1250c28ce544",
@@ -107922,7 +108512,7 @@
     {
      "date": "2024-12-02",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "3ff7c01d97de64d8",
@@ -108126,7 +108716,7 @@
     {
      "date": "2024-11-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "a3b629ed55e755f7",
@@ -108138,7 +108728,7 @@
     {
      "date": "2024-09-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "21ad767e6f91037c",
@@ -108398,7 +108988,7 @@
     {
      "date": "2024-11-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "2ac3b18f44fd4a03",
@@ -108410,7 +109000,7 @@
     {
      "date": "2024-09-04",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "bea489b47f0072b5",
@@ -108556,7 +109146,7 @@
     {
      "date": "2024-12-20",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "74001d860262bb05",
@@ -108738,6 +109328,10 @@
     "last_in": "2025-11-21"
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 4,
@@ -108808,7 +109402,7 @@
     {
      "date": "2024-12-26",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "dfc5a4d2ba755543",
@@ -108820,23 +109414,11 @@
     {
      "date": "2024-11-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "067ecc5963f8299f",
      "subj": "48 Port PoE Managed Switch",
-     "kind": "群发价",
-     "today": null,
-     "tier_used": 25
-    },
-    {
-     "date": "2024-08-09",
-     "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
-     "price": 65.0,
-     "mb": "S",
-     "k": "96562a3edc3153f2",
-     "subj": "PoE media converter",
      "kind": "群发价",
      "today": null,
      "tier_used": 25
@@ -108946,7 +109528,7 @@
     {
      "date": "2024-10-09",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "8ab48976e768a6e3",
@@ -109058,7 +109640,7 @@
     {
      "date": "2024-12-09",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "4e0ad6c0a1a0af74",
@@ -109070,7 +109652,7 @@
     {
      "date": "2024-09-04",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "f5dad48ef2804531",
@@ -109247,7 +109829,7 @@
     {
      "date": "2024-11-08",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "afbb63b3518cf80b",
@@ -109580,7 +110162,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "aee8d7757ffed641",
@@ -109592,7 +110174,7 @@
     {
      "date": "2024-06-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "0542de72a917c5dc",
@@ -110058,7 +110640,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ab156f35c4a37205",
@@ -110070,7 +110652,7 @@
     {
      "date": "2024-09-16",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "07a2129e39e7b6df",
@@ -110245,7 +110827,7 @@
     {
      "date": "2024-11-18",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "3cdeb4d02e651744",
@@ -110257,7 +110839,7 @@
     {
      "date": "2024-07-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c8e05e06cbf7ac88",
@@ -110587,7 +111169,7 @@
     {
      "date": "2024-12-18",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "599cebeaeeeaf48b",
@@ -110951,7 +111533,7 @@
     {
      "date": "2024-12-26",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "fb7f5acd9a7753d2",
@@ -111089,7 +111671,7 @@
     {
      "date": "2024-11-05",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "42282378e59a1ab1",
@@ -111600,7 +112182,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "62a8772d59da99dd",
@@ -111612,7 +112194,7 @@
     {
      "date": "2024-06-26",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "b61d432227220fdf",
@@ -111766,7 +112348,7 @@
     {
      "date": "2025-01-02",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "03688875629b18b8",
@@ -112106,7 +112688,7 @@
     {
      "date": "2026-10-06",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "87cc252797e5b38b",
@@ -112118,7 +112700,7 @@
     {
      "date": "2024-09-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "9affc684a2150658",
@@ -112389,7 +112971,7 @@
     {
      "date": "2024-08-21",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "9bbdfb539afa15b7",
@@ -112559,7 +113141,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "d2194ab3d14fbcdd",
@@ -112719,7 +113301,7 @@
     {
      "date": "2024-12-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "09097dcd85338cc8",
@@ -112731,7 +113313,7 @@
     {
      "date": "2024-10-30",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "f9a4285ff9372f1c",
@@ -112900,7 +113482,7 @@
     {
      "date": "2024-10-22",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "b5c3f7af59d436d6",
@@ -113036,7 +113618,7 @@
     {
      "date": "2024-09-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "b905f0bc018b9a7a",
@@ -113223,7 +113805,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "3dd38271a775f7a4",
@@ -113235,7 +113817,7 @@
     {
      "date": "2024-09-13",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "4eee3f51647ecf7a",
@@ -113332,7 +113914,7 @@
     {
      "date": "2024-11-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "e9c2eef83dcbd0f7",
@@ -113579,7 +114161,7 @@
     {
      "date": "2024-09-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "fdf38139f274bdf5",
@@ -113701,6 +114283,10 @@
     "last_out": "2026-09-07",
     "last_in": "2026-08-15"
    }
+  },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → info@itmsystems.net（Steve；回 9-07 原串）"
   },
   "ball": {
    "threads": 2,
@@ -114014,7 +114600,7 @@
     {
      "date": "2024-11-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "df56e7b3e3a80419",
@@ -114191,7 +114777,7 @@
     {
      "date": "2024-12-17",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "63576cecfa38f194",
@@ -114203,7 +114789,7 @@
     {
      "date": "2024-11-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ca553a4f46f4c265",
@@ -114370,7 +114956,7 @@
     {
      "date": "2024-11-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "092f44bb39b6fb4f",
@@ -114382,7 +114968,7 @@
     {
      "date": "2024-09-23",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "2edc6718eb7df481",
@@ -114689,7 +115275,7 @@
     {
      "date": "2024-09-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "f861ebd0b48ea3aa",
@@ -114856,7 +115442,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "4f8b002c53434818",
@@ -114868,7 +115454,7 @@
     {
      "date": "2024-06-26",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "edc319625c83382d",
@@ -114974,6 +115560,10 @@
     "last_out": "2026-10-01",
     "last_in": "2025-02-03"
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "calendar": {
    "holidays": [
@@ -115332,7 +115922,7 @@
     {
      "date": "2024-09-06",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d4b6b3db8257b03b",
@@ -115560,7 +116150,7 @@
     {
      "date": "2024-07-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c33f25bbe1025f5a",
@@ -115719,7 +116309,7 @@
     {
      "date": "2024-11-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "5e91156199dfc6c5",
@@ -115731,7 +116321,7 @@
     {
      "date": "2024-08-02",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "a7b540440fb5d647",
@@ -115854,7 +116444,7 @@
     {
      "date": "2024-11-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ec56c6285ef71aa5",
@@ -116180,7 +116770,7 @@
     {
      "date": "2024-11-29",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "eb35530e1e0f88de",
@@ -116298,7 +116888,7 @@
     {
      "date": "2024-12-31",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "983f70b9a8f4c789",
@@ -116482,7 +117072,7 @@
     {
      "date": "2024-11-26",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "aef1a3fd056c209b",
@@ -116565,6 +117155,10 @@
     "last_out": "2026-09-09",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "calendar": {
    "holidays": [
@@ -116686,7 +117280,7 @@
     {
      "date": "2024-09-23",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "1e34a505f3791d76",
@@ -116796,7 +117390,7 @@
     {
      "date": "2024-08-15",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "35b5e5c32cf699d8",
@@ -116912,7 +117506,7 @@
     {
      "date": "2024-08-07",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "918773702d666c34",
@@ -117211,7 +117805,7 @@
     {
      "date": "2024-09-11",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "efcc9e557a795f60",
@@ -117782,7 +118376,7 @@
     {
      "date": "2024-07-16",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c5c41fc9fc668dc4",
@@ -118068,7 +118662,7 @@
     {
      "date": "2024-06-17",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c9de856f71947339",
@@ -118375,7 +118969,7 @@
     {
      "date": "2024-12-10",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "5b3b0c658d01f3b5",
@@ -119950,7 +120544,7 @@
     {
      "date": "2024-12-31",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "81a61fc40df2c7a0",
@@ -120390,7 +120984,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "c9f08eec36ddb223",
@@ -120402,7 +120996,7 @@
     {
      "date": "2024-06-18",
      "model": "",
-     "desc": "Price: 75usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 75usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 75.0,
      "mb": "S",
      "k": "533485b14a400b6f",
@@ -120828,6 +121422,10 @@
     "last_in": null
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "calendar": {
    "holidays": [
     [
@@ -121070,7 +121668,7 @@
     {
      "date": "2025-01-13",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "1ff0e29602e5e2ce",
@@ -121082,7 +121680,7 @@
     {
      "date": "2024-11-08",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "b40a0acedfdbfd62",
@@ -121278,7 +121876,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "27f7ce96fbbe2419",
@@ -121290,7 +121888,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "97e0e4e6c6f79be4",
@@ -121339,7 +121937,7 @@
     {
      "date": "2024-12-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "5bc331fab8df6dc8",
@@ -121351,7 +121949,7 @@
     {
      "date": "2024-08-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "b410600c05fb7920",
@@ -122005,7 +122603,7 @@
     {
      "date": "2026-10-10",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "122e8cf8599f40a8",
@@ -122029,7 +122627,7 @@
     {
      "date": "2024-08-23",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "125db82ec3ce7d69",
@@ -122290,7 +122888,7 @@
     {
      "date": "2024-11-15",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "524a938f61c8fb53",
@@ -122563,7 +123161,7 @@
     {
      "date": "2024-11-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "470fc5ae0932f494",
@@ -122684,7 +123282,7 @@
     {
      "date": "2024-11-07",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "2a739f8f49971304",
@@ -122696,7 +123294,7 @@
     {
      "date": "2024-09-04",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "546141964cd68728",
@@ -122868,7 +123466,7 @@
     {
      "date": "2024-11-11",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "c854c7a24761f308",
@@ -122880,7 +123478,7 @@
     {
      "date": "2024-10-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "b0befb5312f01e9e",
@@ -123085,7 +123683,7 @@
     {
      "date": "2025-01-16",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "8ebc95357618fc14",
@@ -123339,7 +123937,7 @@
     {
      "date": "2025-01-09",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "6ca00db1f2dce504",
@@ -123449,7 +124047,7 @@
     {
      "date": "2024-11-21",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "30896ef8ca5f3068",
@@ -123639,7 +124237,7 @@
     {
      "date": "2024-11-26",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "04fb8466166c9aa9",
@@ -123782,7 +124380,7 @@
     {
      "date": "2024-08-16",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d1e31aa3697cd0e6",
@@ -124142,7 +124740,7 @@
     {
      "date": "2024-11-11",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "27c0d18cc8cc980c",
@@ -124299,7 +124897,7 @@
     {
      "date": "2024-11-18",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "f1ffa10fa8824bca",
@@ -124382,7 +124980,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "c230eadc257e589c",
@@ -124517,7 +125115,7 @@
     {
      "date": "2024-11-07",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "c80758601a37cb2d",
@@ -124529,7 +125127,7 @@
     {
      "date": "2024-09-30",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "28c467bc9f77b0a2",
@@ -125001,7 +125599,7 @@
     {
      "date": "2024-06-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "8384a709434021a4",
@@ -125113,7 +125711,7 @@
     {
      "date": "2024-09-07",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "f0be466bb3a73952",
@@ -125257,7 +125855,7 @@
     {
      "date": "2024-08-21",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "0dba89029cee30b4",
@@ -125427,7 +126025,7 @@
     {
      "date": "2024-07-16",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "fb8bda1f97855030",
@@ -125563,7 +126161,7 @@
     {
      "date": "2024-11-17",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "214fdf28188a8bd1",
@@ -125884,7 +126482,7 @@
     {
      "date": "2024-09-27",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "d49f9d078c3297df",
@@ -126058,7 +126656,7 @@
     {
      "date": "2026-10-20",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "04f1718e8da1b9ef",
@@ -126480,7 +127078,7 @@
     {
      "date": "2024-09-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c351949c568686e0",
@@ -126885,7 +127483,7 @@
     {
      "date": "2024-11-29",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "c04ce50bd07dcf0d",
@@ -126897,7 +127495,7 @@
     {
      "date": "2024-09-06",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e74a4badbf34ef44",
@@ -127280,7 +127878,7 @@
     {
      "date": "2024-10-29",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ed5a4f2912ae88c3",
@@ -127292,7 +127890,7 @@
     {
      "date": "2024-08-15",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "4175c1e0d6133a22",
@@ -127680,7 +128278,7 @@
     {
      "date": "2024-11-14",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "27fca4eacf029701",
@@ -127690,21 +128288,9 @@
      "tier_used": 20
     },
     {
-     "date": "2024-08-19",
-     "model": "",
-     "desc": "Price is very competitive, 300usd/pc",
-     "price": 300.0,
-     "mb": "S",
-     "k": "fd79c523e8d11a74",
-     "subj": "48 port poe managed switch",
-     "kind": "群发价",
-     "today": null,
-     "tier_used": 20
-    },
-    {
      "date": "2024-07-12",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "47bb5dc687a8e38a",
@@ -127956,7 +128542,7 @@
     {
      "date": "2024-06-18",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "8d2b73ded7aa73cd",
@@ -128245,7 +128831,7 @@
     {
      "date": "2026-10-19",
      "model": "",
-     "desc": "*Price: 180USD/PC*",
+     "desc": "Price: 180USD/PC",
      "price": 180.0,
      "mb": "S",
      "k": "8b14e4365d712787",
@@ -128350,7 +128936,7 @@
     {
      "date": "2024-07-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "6676559af6cf77c7",
@@ -128533,7 +129119,7 @@
     {
      "date": "2024-08-10",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "033ca82ece4166e2",
@@ -128881,7 +129467,7 @@
     {
      "date": "2024-08-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "98b9416840721953",
@@ -129290,7 +129876,7 @@
     {
      "date": "2024-07-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "ee889b0c5e5e6d39",
@@ -129765,6 +130351,10 @@
     "last_in": "2025-07-07"
    }
   },
+  "channel_bound": {
+   "box": "A",
+   "text": "A 邮箱 → wadii@teltronix.net"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 4,
@@ -130208,7 +130798,7 @@
     {
      "date": "2026-09-08",
      "model": "",
-     "desc": "*Price: 170USD/PC*",
+     "desc": "Price: 170USD/PC",
      "price": 170.0,
      "mb": "S",
      "k": "4f6cb988e33104e2",
@@ -130220,7 +130810,7 @@
     {
      "date": "2026-07-20",
      "model": "",
-     "desc": "*Price: 1500USD/PC*",
+     "desc": "Price: 1500USD/PC",
      "price": 1500.0,
      "mb": "S",
      "k": "8093def8e5ae3cea",
@@ -130256,7 +130846,7 @@
     {
      "date": "2024-11-20",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "453bbe90765ccb94",
@@ -130268,7 +130858,7 @@
     {
      "date": "2024-10-24",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "f9cf7931e9982e4a",
@@ -130715,7 +131305,7 @@
     {
      "date": "2024-08-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "ebca40f52fa9ce2d",
@@ -131133,7 +131723,7 @@
     {
      "date": "2024-07-02",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "4149aa73e1fd91e3",
@@ -131375,7 +131965,7 @@
     {
      "date": "2024-11-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "69d46370da78b1ee",
@@ -131387,7 +131977,7 @@
     {
      "date": "2024-07-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "4cfa93a8959a497a",
@@ -131590,7 +132180,7 @@
     {
      "date": "2024-11-15",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "764c4a033b6f4315",
@@ -131615,7 +132205,7 @@
     {
      "date": "2024-09-03",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "fc524009e37f20fa",
@@ -131722,6 +132312,10 @@
     "last_out": "2026-09-15",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "S",
+   "text": "S 邮箱 → mohammad.yaacoub@intracom-telecom.com"
   },
   "ball": {
    "threads": 1,
@@ -131852,7 +132446,7 @@
     {
      "date": "2024-06-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "0c9a2ccdc3336015",
@@ -132253,7 +132847,7 @@
     {
      "date": "2024-12-19",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "cfde043a2c35d998",
@@ -132265,7 +132859,7 @@
     {
      "date": "2024-08-23",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "3a8d9701ec7c8b0d",
@@ -132700,7 +133294,7 @@
     {
      "date": "2024-11-01",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "1695f569aed10e80",
@@ -132712,7 +133306,7 @@
     {
      "date": "2024-08-26",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "bd5c91566e5e4618",
@@ -132782,6 +133376,10 @@
     "last_out": "2026-09-10",
     "last_in": null
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -133155,7 +133753,7 @@
     {
      "date": "2024-12-04",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "ca7931a6d5d59422",
@@ -133207,6 +133805,10 @@
     "last_out": "2026-09-21",
     "last_in": "2026-04-20"
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "ball": {
    "threads": 1,
@@ -133303,7 +133905,7 @@
     {
      "date": "2024-11-28",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "84dcc23d141e4a39",
@@ -133446,7 +134048,7 @@
     {
      "date": "2024-10-30",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "bd66ebaae50981e3",
@@ -133715,7 +134317,7 @@
     {
      "date": "2024-11-25",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "06004e01e79da501",
@@ -133727,7 +134329,7 @@
     {
      "date": "2024-09-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "079e8879b947c115",
@@ -134075,7 +134677,7 @@
     {
      "date": "2024-11-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "3d007dacaf7d9ea3",
@@ -134087,7 +134689,7 @@
     {
      "date": "2024-09-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "5bd451b6402b98af",
@@ -134234,7 +134836,7 @@
     {
      "date": "2024-11-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "943f964fcb7e5499",
@@ -134246,7 +134848,7 @@
     {
      "date": "2024-07-15",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "2809adb6dd94eb14",
@@ -134366,7 +134968,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "2b66669c1feb42e1",
@@ -134378,7 +134980,7 @@
     {
      "date": "2024-06-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "bda706f346f84600",
@@ -134539,7 +135141,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "c259f90899d65fb5",
@@ -134551,7 +135153,7 @@
     {
      "date": "2024-09-10",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e4fe6ade31a7b9b3",
@@ -134717,7 +135319,7 @@
     {
      "date": "2024-12-03",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "79fd6320d68b2791",
@@ -134729,7 +135331,7 @@
     {
      "date": "2024-06-19",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "3b5362d9ac6fa69c",
@@ -134872,7 +135474,7 @@
     {
      "date": "2024-11-22",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "b467751a80c34625",
@@ -134884,7 +135486,7 @@
     {
      "date": "2024-06-25",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "75736e8b4d9ebc48",
@@ -134948,6 +135550,10 @@
     "last_out": "2026-09-04",
     "last_in": "2025-06-10"
    }
+  },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
   },
   "calendar": {
    "holidays": [
@@ -135206,7 +135812,7 @@
     {
      "date": "2024-08-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "1e86612f39ba978e",
@@ -135391,7 +135997,7 @@
     {
      "date": "2024-07-24",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "f9d9408378be6c8c",
@@ -135671,7 +136277,7 @@
     {
      "date": "2024-08-05",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "b064d00529e34242",
@@ -136031,7 +136637,7 @@
     {
      "date": "2024-11-28",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "0dcdab261c7ff93e",
@@ -136135,7 +136741,7 @@
     {
      "date": "2024-10-18",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "84f147e2feb1e65d",
@@ -136263,7 +136869,7 @@
     {
      "date": "2024-08-26",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "9b8cd47cb662b659",
@@ -136367,7 +136973,7 @@
     {
      "date": "2024-08-21",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "7102508e31cf2595",
@@ -136587,7 +137193,7 @@
     {
      "date": "2024-11-12",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "06b138efcf7e1a0c",
@@ -136599,7 +137205,7 @@
     {
      "date": "2024-08-22",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "01766d66cc0f95e4",
@@ -136698,7 +137304,7 @@
     {
      "date": "2024-10-29",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "66488000ec89cdb9",
@@ -136710,7 +137316,7 @@
     {
      "date": "2024-07-29",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "e4ccbaad72a24fa2",
@@ -136802,7 +137408,7 @@
     {
      "date": "2024-12-10",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "a767c05abbda9f19",
@@ -137070,7 +137676,7 @@
     {
      "date": "2024-08-16",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "c287d7098c2bdc23",
@@ -137209,7 +137815,7 @@
     {
      "date": "2024-11-13",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "b93a53af4fa7790b",
@@ -137221,7 +137827,7 @@
     {
      "date": "2024-07-17",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "70e0f04a3f73daf3",
@@ -137339,7 +137945,7 @@
     {
      "date": "2024-08-18",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "f4ebb85af3d0c0f0",
@@ -137488,7 +138094,7 @@
     {
      "date": "2024-08-16",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "02ea5f85cfc2fcdc",
@@ -137843,7 +138449,7 @@
     {
      "date": "2024-10-31",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "9bb3b4f5eae36c9b",
@@ -137855,7 +138461,7 @@
     {
      "date": "2024-09-13",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "99f8334dfe921ecd",
@@ -138406,6 +139012,10 @@
     "last_in": "2025-08-08"
    }
   },
+  "channel_bound": {
+   "box": "",
+   "text": "—"
+  },
   "ball": {
    "threads": 1,
    "longest_n": 2,
@@ -138526,7 +139136,7 @@
     {
      "date": "2024-11-01",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "5992fd00dbede799",
@@ -138855,7 +139465,7 @@
     {
      "date": "2024-08-14",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "fa1c2f6ad705aeae",
@@ -139098,7 +139708,7 @@
     {
      "date": "2024-12-05",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "ad22c4cce148ad58",
@@ -139110,7 +139720,7 @@
     {
      "date": "2024-10-10",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "7270213882cc9eb8",
@@ -139256,7 +139866,7 @@
     {
      "date": "2024-10-31",
      "model": "",
-     "desc": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,",
      "price": 65.0,
      "mb": "S",
      "k": "e861dd626c3f77fc",
@@ -139397,7 +140007,7 @@
     {
      "date": "2024-12-27",
      "model": "",
-     "desc": "*Price is very competitive, 300usd/pc*",
+     "desc": "Price is very competitive, 300usd/pc",
      "price": 300.0,
      "mb": "S",
      "k": "5aa876df8b0fdd01",
@@ -139409,7 +140019,7 @@
     {
      "date": "2024-08-21",
      "model": "",
-     "desc": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non",
+     "desc": "Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non",
      "price": 65.0,
      "mb": "S",
      "k": "b68b20dd0b0ccc4a",

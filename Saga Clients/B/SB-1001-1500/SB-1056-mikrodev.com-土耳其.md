@@ -64,7 +64,7 @@ updated: 2026-10-27
 - **发信窗口（TR 全库 901 封群发的打开标签，对方本地时间；均值 4.0%）**：周四 10–12 点 5.9%（51 封）、周一 10–12 点 5.2%（58 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **本国来询季节（TR 全库 17 个「户·月」真人来信，样本小）**：5 月 17.6% / 1 月 11.8% / 2 月 11.8%——本户来信太少，按本国节奏排下一步。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 66 / automation 83）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$62.2 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 208 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/MikrodevBilisim/、https://www.linkedin.com/company/mikrodevtr/mycompany/verification/、https://www.youtube.com/channel/UC-67KqN9lzKKQUuZaMt3Zhg。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 208 条 URL；社媒：https://www.facebook.com/MikrodevBilisim/、https://www.linkedin.com/company/mikrodevtr/mycompany/verification/、https://www.youtube.com/channel/UC-67KqN9lzKKQUuZaMt3Zhg。
 - **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

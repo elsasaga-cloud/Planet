@@ -99,7 +99,7 @@ updated: 2026-10-27
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
   | 2026-06-08 | STI-0240GE | $120 | 主表无此型号 | — | 1:1 | Re: 10G Enterprise SFP Switch | `d6ddd0cc83ac0a0b` |
-  | 2024-07-19 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | Industrial network switch | `66d48852ed77c39e` |
+  | 2024-07-19 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | Industrial network switch | `66d48852ed77c39e` |
   | 2024-06-24 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | Industrial network switch | `4739453a73bdf1a8` |
   | 2024-05-29 | STI-050GE | $18 | $17.0 | -6% | 1:1 | Industrial network switch | `effa45ee7857ca74` |
   | 2024-05-03 | 「25usd/pc」 | $25 | —（原句无型号） | — | 1:1 | Industrial network switch | `6f9e1d3875bc1933` |

@@ -2886,5 +2886,642 @@
    }
   ],
   "checked_at": "2026-10-27T04:16:16Z"
+ },
+ "SB-079": {
+  "domain": "cansisteknoloji.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:16:32Z"
+ },
+ "SB-080": {
+  "domain": "cyber-tec.net",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "CyberTech-Net/CyberTech-Net",
+    "url": "https://github.com/CyberTech-Net/CyberTech-Net",
+    "desc": "Разработка интегрированной платформы управления киберспортивными турнирами и расчета рейтинга",
+    "stars": 0,
+    "pushed_at": "2024-08-30T09:37:50Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "amitkanjariya/CyberTech.net",
+    "url": "https://github.com/amitkanjariya/CyberTech.net",
+    "desc": "",
+    "stars": 1,
+    "pushed_at": "2025-07-04T19:36:44Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "CyberTech-Net/CyberTech-Net-Front",
+    "url": "https://github.com/CyberTech-Net/CyberTech-Net-Front",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-08-30T08:10:16Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "NikitonGG/cyber.tech.net",
+    "url": "https://github.com/NikitonGG/cyber.tech.net",
+    "desc": "Что-то типа онлайн-магазина...",
+    "stars": 1,
+    "pushed_at": "2026-07-29T19:20:56Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:16:43Z"
+ },
+ "SB-081": {
+  "domain": "dabos.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:16:56Z"
+ },
+ "SB-082": {
+  "domain": "voltechelektronik.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:17:08Z"
+ },
+ "SB-083": {
+  "domain": "meritlilin.com.tw",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Enzo-chang/YY",
+    "url": "https://github.com/Enzo-chang/YY",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2020-01-30T01:50:17Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "LILINOpenGitHub/LPKG",
+    "url": "https://github.com/LILINOpenGitHub/LPKG",
+    "desc": "",
+    "stars": 1,
+    "pushed_at": "2023-07-19T09:07:45Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "LILINOpenGitHub/Colab-YOLO-Tiny",
+    "url": "https://github.com/LILINOpenGitHub/Colab-YOLO-Tiny",
+    "desc": "How to train YOLO v3 on Google Colab",
+    "stars": 4,
+    "pushed_at": "2022-02-06T00:40:15Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:17:18Z"
+ },
+ "SB-084": {
+  "domain": "ad-net.com.tw",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "msaunby/telephones",
+    "url": "https://github.com/msaunby/telephones",
+    "desc": "Old fashioned (analogue) telephone stuff",
+    "stars": 0,
+    "pushed_at": "2021-06-12T21:44:03Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:17:29Z"
+ },
+ "SB-085": {
+  "domain": "thorfiber.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:17:44Z"
+ },
+ "SB-086": {
+  "domain": "tailyn.com.tw",
+  "accounts": [
+   {
+    "login": "tailyn",
+    "type": "Organization",
+    "url": "https://github.com/tailyn",
+    "name": "Tailyn Technologies, Inc.",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 8,
+    "created_at": "2014-07-22T01:06:39Z",
+    "updated_at": "2019-07-11T15:41:46Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "lobby-greeting-page",
+      "pushed_at": "2023-02-09T01:12:46Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "qc-web",
+      "pushed_at": "2017-09-29T10:29:52Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "tn-kernel",
+      "pushed_at": "2016-11-04T15:21:05Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "tn-uboot",
+      "pushed_at": "2016-11-04T15:11:23Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "lobby-greeting-page-updater",
+      "pushed_at": "2014-09-03T07:30:20Z",
+      "lang": "Shell",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "board-lib-rdf022",
+      "pushed_at": "2014-09-01T06:36:08Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:17:57Z"
+ },
+ "SB-087": {
+  "domain": "assmann.com.tw",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:18:10Z"
+ },
+ "SB-088": {
+  "domain": "edimax.com.tw",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:18:22Z"
+ },
+ "SB-089": {
+  "domain": "ewinsonic.com",
+  "accounts": [
+   {
+    "login": "ewinsonic",
+    "type": "User",
+    "url": "https://github.com/ewinsonic",
+    "name": "Winsonic",
+    "blog": "www.ewinsonic.com",
+    "email": null,
+    "company": null,
+    "public_repos": 1,
+    "created_at": "2017-09-22T02:29:03Z",
+    "updated_at": "2018-04-02T06:11:47Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "k8s-dashboard",
+      "pushed_at": "2018-03-30T12:22:44Z",
+      "lang": null,
+      "desc": "",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:18:31Z"
+ },
+ "SB-090": {
+  "domain": "adlerss.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:18:45Z"
+ },
+ "SB-091": {
+  "domain": "fingerprint-access-control.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:18:57Z"
+ },
+ "SB-092": {
+  "domain": "spacetronik.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:19:08Z"
+ },
+ "SB-093": {
+  "domain": "konakguvenlik.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:19:19Z"
+ },
+ "SB-094": {
+  "domain": "maxcomcorp.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:19:29Z"
+ },
+ "SB-095": {
+  "domain": "mtechnology.it",
+  "accounts": [
+   {
+    "login": "Mootechnology",
+    "type": "Organization",
+    "url": "https://github.com/Mootechnology",
+    "name": "MTechnology",
+    "blog": "",
+    "email": "Mohsintechnologiesmohsin@gmail.com",
+    "company": null,
+    "public_repos": 2,
+    "created_at": "2024-03-26T08:26:26Z",
+    "updated_at": "2024-04-23T11:47:19Z",
+    "bio": "Software House",
+    "match": "name",
+    "repos": [
+     {
+      "name": "second-furniture",
+      "pushed_at": "2024-05-13T13:23:55Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "chauffeuringsite",
+      "pushed_at": "2024-04-19T11:22:31Z",
+      "lang": "HTML",
+      "desc": "This is the second chauffeuring site build by Mtechnologies",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:19:43Z"
+ },
+ "SB-096": {
+  "domain": "ovisscctv.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:19:57Z"
+ },
+ "SB-097": {
+  "domain": "lansan.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:20:08Z"
+ },
+ "SB-098": {
+  "domain": "nexxtsolutions.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:20:23Z"
+ },
+ "SB-099": {
+  "domain": "rocstor.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "shawonashraf/rocstories-combined",
+    "url": "https://github.com/shawonashraf/rocstories-combined",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2024-12-05T21:27:23Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:20:36Z"
+ },
+ "SB-100": {
+  "domain": "telkolink.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:20:48Z"
+ },
+ "SB-1000": {
+  "domain": "alphaelettronica.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:21:01Z"
+ },
+ "SB-1001": {
+  "domain": "altelix.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "oats-center/pod",
+    "url": "https://github.com/oats-center/pod",
+    "desc": "Purdue OATS DataStation (POD) aka LoRaWAN on a tripod",
+    "stars": 0,
+    "pushed_at": "2023-05-31T04:03:59Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T04:21:15Z"
+ },
+ "SB-1002": {
+  "domain": "amplicon.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Mettetron/16S_amplicon_communityAnalysis_R",
+    "url": "https://github.com/Mettetron/16S_amplicon_communityAnalysis_R",
+    "desc": "",
+    "stars": 1,
+    "pushed_at": "2018-01-15T12:20:34Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:21:26Z"
+ },
+ "SB-1003": {
+  "domain": "aplusnet.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:21:38Z"
+ },
+ "SB-1004": {
+  "domain": "arpeo.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:21:50Z"
+ },
+ "SB-1005": {
+  "domain": "asit.it",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "HeineCantor/AsItSounds",
+    "url": "https://github.com/HeineCantor/AsItSounds",
+    "desc": "Project source code for the exam of \"Elaborazione dei Sengali Multimediali\".",
+    "stars": 4,
+    "pushed_at": "2024-06-21T13:13:20Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "drac-0/Daniel_AsItMatter",
+    "url": "https://github.com/drac-0/Daniel_AsItMatter",
+    "desc": "",
+    "stars": 5,
+    "pushed_at": "2026-05-27T15:55:36Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "lomonaco22/Asitencias-ITR",
+    "url": "https://github.com/lomonaco22/Asitencias-ITR",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-15T13:17:29Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "lomonaco22/Asitencias--ITR",
+    "url": "https://github.com/lomonaco22/Asitencias--ITR",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-15T13:45:16Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "lomonaco22/Asitencia--ITR",
+    "url": "https://github.com/lomonaco22/Asitencia--ITR",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-15T14:28:47Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:22:02Z"
+ },
+ "SB-1006": {
+  "domain": "audio.com.tr",
+  "accounts": [
+   {
+    "login": "AudioElektronik",
+    "type": "Organization",
+    "url": "https://github.com/AudioElektronik",
+    "name": "Audio Elektronik",
+    "blog": "http://www.audio.com.tr",
+    "email": "info@audio.com.tr",
+    "company": null,
+    "public_repos": 5,
+    "created_at": "2016-07-21T07:44:31Z",
+    "updated_at": "2026-05-13T09:29:27Z",
+    "bio": "Video Intercom and Home Automation Systems",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "RSQLServer",
+      "pushed_at": "2017-06-16T11:14:34Z",
+      "lang": "Java",
+      "desc": "SQL Server DBI for R, based on the jTDS driver",
+      "fork": true
+     },
+     {
+      "name": "armap",
+      "pushed_at": "2017-05-18T07:16:05Z",
+      "lang": "R",
+      "desc": "Map data for Turkey and utility functions",
+      "fork": false
+     },
+     {
+      "name": "memoise",
+      "pushed_at": "2017-05-04T16:04:09Z",
+      "lang": "R",
+      "desc": "Easy memoisation for R",
+      "fork": true
+     },
+     {
+      "name": "arutil",
+      "pushed_at": "2017-03-20T08:11:23Z",
+      "lang": "R",
+      "desc": "Common, useful functions shared among Audio Elektronik R packages.",
+      "fork": false
+     },
+     {
+      "name": "artuik",
+      "pushed_at": "2016-10-25T12:52:19Z",
+      "lang": "R",
+      "desc": "Tuik (www.turkstat.gov.tr) data cleaning",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "mfatihkeskin/MFatihKeskin",
+    "url": "https://github.com/mfatihkeskin/MFatihKeskin",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2023-12-25T05:58:55Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "mfatihkeskinn/mfatihkeskinn",
+    "url": "https://github.com/mfatihkeskinn/mfatihkeskinn",
+    "desc": "Config files for my GitHub profile.",
+    "stars": 0,
+    "pushed_at": "2023-11-20T19:30:27Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "biboc/audio_common_transfer",
+    "url": "https://github.com/biboc/audio_common_transfer",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2014-06-20T14:40:35Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:22:13Z"
+ },
+ "SB-1007": {
+  "domain": "avnordic.se",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:22:29Z"
+ },
+ "SB-1008": {
+  "domain": "avstek.fi",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:22:41Z"
+ },
+ "SB-1009": {
+  "domain": "batna24.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:22:52Z"
+ },
+ "SB-101": {
+  "domain": "bg.com",
+  "accounts": [
+   {
+    "login": "avicambr",
+    "type": "Organization",
+    "url": "https://github.com/avicambr",
+    "name": "Avicam",
+    "blog": "https://avicam.com.br/",
+    "email": "suporte1@avicam.com.br",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2026-06-23T17:33:44Z",
+    "updated_at": "2026-06-23T17:41:51Z",
+    "bio": "Desenvolvemos e integramos soluções inteligentes para segurança eletrônica, controle de acesso e reconhecimento facial.",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "SimeonSimeonovIvanov/FOC-Servo",
+    "url": "https://github.com/SimeonSimeonovIvanov/FOC-Servo",
+    "desc": "Field Oriented Control of Permanent Magnet Synchronous Motors ( AC Servo Driver )",
+    "stars": 121,
+    "pushed_at": "2024-09-25T21:25:27Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "DinoDevs/GladiatusCrazyAddon",
+    "url": "https://github.com/DinoDevs/GladiatusCrazyAddon",
+    "desc": "A browser addon for the Gladiatus browser game.",
+    "stars": 49,
+    "pushed_at": "2026-10-05T14:22:16Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "SimeonSimeonovIvanov/DC-Servo",
+    "url": "https://github.com/SimeonSimeonovIvanov/DC-Servo",
+    "desc": "Analog speed control of Brushed DC Motor",
+    "stars": 26,
+    "pushed_at": "2023-12-24T16:37:19Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "ivantcholakov/starter-public-edition-4",
+    "url": "https://github.com/ivantcholakov/starter-public-edition-4",
+    "desc": "A PHP application starter, based on CodeIgniter 3",
+    "stars": 163,
+    "pushed_at": "2026-10-06T06:02:04Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Piasy/RxQrCode",
+    "url": "https://github.com/Piasy/RxQrCode",
+    "desc": "When QrCode meets RxJava...",
+    "stars": 39,
+    "pushed_at": "2016-11-30T11:40:09Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:23:04Z"
+ },
+ "SB-1010": {
+  "domain": "bayiden.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:23:13Z"
+ },
+ "SB-1011": {
+  "domain": "binarteknik.se",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:23:24Z"
+ },
+ "SB-1012": {
+  "domain": "bitstreamcore.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:23:37Z"
+ },
+ "SB-1013": {
+  "domain": "bizsyscon.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:23:48Z"
+ },
+ "SB-1014": {
+  "domain": "bluenote.ro",
+  "accounts": [
+   {
+    "login": "bluenotecommunications",
+    "type": "Organization",
+    "url": "https://github.com/bluenotecommunications",
+    "name": "Bluenote Communications SA",
+    "blog": "www.bluenote.ro",
+    "email": "office@bluenote.ro",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2025-09-23T09:29:57Z",
+    "updated_at": "2025-09-23T09:38:06Z",
+    "bio": "",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:23:59Z"
+ },
+ "SB-1015": {
+  "domain": "br-network-shop.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:24:14Z"
+ },
+ "SB-1016": {
+  "domain": "cae-groupe.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:24:27Z"
  }
 }

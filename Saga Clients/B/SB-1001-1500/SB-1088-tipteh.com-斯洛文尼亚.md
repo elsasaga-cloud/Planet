@@ -64,7 +64,7 @@ updated: 2026-10-27
 
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 1 封（2024-09-01 → 2024-09-01），打开标签 0 次。
 - **品类覆盖与缺口**：官网兴趣：工业（industrial 151 / automation 72） / 安防 PoE（cctv 0 / camera 85 / poe 10） / 10G 汇聚（10g 17 / sfp 1）；我们 1:1 从未报过价、也没成交；**还没碰过的一类：工业** → 下封信可加一句 STI-288GP（8 口千兆 PoE+ 2 SFP 工业非管理，$57.4 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 2301 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 1 个（Ubiquiti）；官网语言 en-GB（信照样英文，首句可用对方语言问候）；社媒：https://si.linkedin.com/company/tipteh-d.o.o.、https://www.cognex.com/applications/customer-stories/automotive、https://www.cognex.com/en/Applications/Customer-Stories/Electronics/Perfect-Application-of-Cognex-In-Sight-in-Mobile-Phone-Battery-Inspection。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 2301 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 1 个（Ubiquiti）；社媒：https://si.linkedin.com/company/tipteh-d.o.o.、https://www.cognex.com/applications/customer-stories/automotive、https://www.cognex.com/en/Applications/Customer-Stories/Electronics/Perfect-Application-of-Cognex-In-Sight-in-Mobile-Phone-Battery-Inspection。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 基本事实（事实/推断/假设分层）

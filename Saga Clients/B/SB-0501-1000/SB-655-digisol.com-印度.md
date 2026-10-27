@@ -70,11 +70,11 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-08-23 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `a5ad4dd66a818832` |
+  | 2024-08-23 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `a5ad4dd66a818832` |
   | 2024-07-05 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 48 port managed switch | `91eb3ba0cb9144be` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 914 条 URL（≥500 = 大目录 / 网店体量）；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：http://www.youtube.com/c/DIGISOL、https://twitter.com/DIGISOL_SNSL、https://wa.me/919607893444。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 914 条 URL（≥500 = 大目录 / 网店体量）；社媒：http://www.youtube.com/c/DIGISOL、https://twitter.com/DIGISOL_SNSL、https://wa.me/919607893444。
 - **同国同档参照（IN，30% 档、主推线「工业 PoE 管理型」，共 2 户有动静，列前 3）**：SA-032 sundartechno.com（A，同档：成交 STI-0160GE）；SB-641 apolloinfoways.in（B，同档：回过 3 次（最近 2025-01-06），1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

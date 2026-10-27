@@ -111,7 +111,7 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2026-09-21 | 「*Price: 180USD/PC*」 | $180 | —（原句无型号） | — | 群发价 | Optional Marvell Chipset Solutions | `059803e2ac308b24` |
+  | 2026-09-21 | 「Price: 180USD/PC」 | $180 | —（原句无型号） | — | 群发价 | Optional Marvell Chipset Solutions | `059803e2ac308b24` |
   | 2025-11-12 | 「1, sorry to know this, that will be about 100usd/pc, we cannot make it」 | $100 | —（原句无型号） | — | 1:1 | 10G MultiGig Price | `b26aafe834fa3423` |
   | 2025-07-28 | 「1. In last order, it is 210usd(product cost and shipping cost)」 | $210 | —（原句无型号） | — | 1:1 | 10G MultiGig Price | `f7a668d6ff8fbc71` |
   | 2025-07-28 | 「profit, let's say 30% each, this will make it around 360usd.」 | $360 | —（原句无型号） | — | 1:1 | 10G MultiGig Price | `f7a668d6ff8fbc71` |
@@ -121,7 +121,7 @@ updated: 2026-10-27
   | 2025-07-28 | 「100pcs: 172usd」 | $172 | —（原句无型号） | — | 1:1 | 10G MultiGig Price | `f7a668d6ff8fbc71` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 8 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://www.linkedin.com/company/resonant-networks-pte-ltd/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 8 条 URL；社媒：https://www.linkedin.com/company/resonant-networks-pte-ltd/。
 - **写信的人（来信签名机械抽取）**：Wai Choon, Au（auwc@resonantnetworks.com，30 封，2024-07-02 → 2026-06-22）；Andrea Chew（andreachewyy@resonantnetworks.com，2 封，2024-08-21 → 2024-08-30）；Bernard Song（bernardsongyw@resonantnetworks.com，2 封，2024-09-06 → 2024-09-06）；Hairomee（hairomee@resonantnetworks.com，2 封，2025-07-08 → 2025-07-28）。
 - **他们嘴里的词（36 封来信、去引用后 12,448 字符的词频）**：话题（次数，最近一次）：价格 / 折扣 ×17（2025-11-11）、10G ×15（2025-07-28）、2.5G ×12（2025-07-28）、样品 ×8（2025-07-08）、CCTV / 安防 ×8（2025-04-08）、质保 / 售后 ×6（2024-09-11）；**提到的同行品牌**：TP-Link ×4（2025-11-11）、Cisco ×1（2024-07-22）；**提过的数量**：1,000（2024-07-04，「…1. 10 units? 2. 100 units? 3. 1000 units? Best regards, Wai…」，`ae618b2e793c520d`）；100（2024-07-04，「…owing quantity: 1. 10 units? 2. 100 units? 3. 1000 units?…」，`ae618b2e793c520d`）；10（2024-07-04，「…ime for the following quantity: 1. 10 units? 2. 100 units?…」，`ae618b2e793c520d`）。
 - **最后一球**：1:1 对话 7 段，最长一段 25 封 / 跨 19 天（2024-08-21 → 2024-09-10，「PO | SGP250051 10G MultiGig switch」）；最后一句是我们说的（2026-09-21，35 天前，「Re: Optional Marvell Chipset Solutions」，`059803e2ac308b24`）→ 球在对方手里；按他们过去中位 2.1 小时回信（31 次），这次 35 天没回 ≈ 常态的 400 倍 → **值得追一句**（不是催，是换个问法）。

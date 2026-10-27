@@ -64,7 +64,7 @@ updated: 2026-10-27
 
 > 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
 
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://redwap-xxx.com/、https://twitter.com/smartaddons、https://www.facebook.com/SmartAddons.page/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1 条 URL；社媒：https://redwap-xxx.com/、https://twitter.com/smartaddons、https://www.facebook.com/SmartAddons.page/。
 - **同国同档参照（MY，25% 档、主推线「工业 PoE 非管理」，共 2 户有动静，列前 3）**：SB-002 Xspec Technology Sdn Bhd（B，同档：回过 4 次（最近 2024-06-18），1:1 报过 1 次）；SA-090 WizardsInc Sdn Bhd（A，同档：成交 STI-21616GP、STI-21616GPM、STI-288GP）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 农历新年（02-06/07）；2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 

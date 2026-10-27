@@ -69,15 +69,15 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2026-09-08 | 「*Price: 170USD/PC*」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `b2a99e7d19fa21bc` |
-  | 2026-07-20 | 「*Price: 1500USD/PC*」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `4a4ff46b38593395` |
+  | 2026-09-08 | 「Price: 170USD/PC」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `b2a99e7d19fa21bc` |
+  | 2026-07-20 | 「Price: 1500USD/PC」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `4a4ff46b38593395` |
   | 2025-10-29 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `51f571a063f2967b` |
-  | 2024-12-12 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `3bcae89331accb91` |
-  | 2024-06-25 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G fiber media converter | `30ebcfe9e225daf7` |
+  | 2024-12-12 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `3bcae89331accb91` |
+  | 2024-06-25 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G fiber media converter | `30ebcfe9e225daf7` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **品类覆盖与缺口**：官网兴趣：光纤接入 / 媒体转换（media converter 25 / fiber 62）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；**还没碰过的一类：光纤接入 / 媒体转换** → 下封信可加一句 STI-140GE（1 光 4 电工业非管理，$29.1 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 93 条 URL；站内可见品牌 1 个（ComNet）；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/AmFibertek、https://www.facebook.com/amfiber。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 93 条 URL；站内可见品牌 1 个（ComNet）；社媒：https://twitter.com/AmFibertek、https://www.facebook.com/amfiber。
 - **写信的人（来信签名机械抽取）**：Simon/Saga Telecom（tim.orselli@americanfibertek.com，1 封，2024-11-22 → 2024-11-22）。
 - **他们嘴里的词（1 封来信、去引用后 59 字符的词频）**：话题（次数，最近一次）：PoE ×1（2024-11-22）、价格 / 折扣 ×1（2024-11-22）。
 - **最后一球**：1:1 对话 1 段，最长一段 2 封 / 跨 0 天（2024-11-22 → 2024-11-23，「RE: 8 Port Industrial PoE Switch」）；最后一句是我们说的（2024-11-23，703 天前，「Re: 8 Port Industrial PoE Switch」，`0bff4caab85195a3`）→ 球在对方手里。

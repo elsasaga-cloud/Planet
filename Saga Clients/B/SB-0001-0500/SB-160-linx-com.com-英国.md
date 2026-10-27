@@ -78,7 +78,7 @@ updated: 2026-10-27
 - **发信窗口（GB 全库 1094 封群发的打开标签，对方本地时间；均值 5.0%）**：周四 12–14 点 11.9%（42 封）、周二 14–16 点 7.8%（103 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 13 封（2025-03-19 → 2026-09-07），打开标签 1 次（近 12 个月 0，最后 2025-03-19）；打开过：「Industrial PoE Switch」×1（2025-03-19）；从未打开：「48 Port PoE Managed Switch」、「Managed Optical Bypass Switch」、「Mini Industrial PoE Switch」；**最近连续 12 封没打开**（近 180 天发 3 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
 - **品类覆盖与缺口**：官网兴趣：光纤接入 / 媒体转换（media converter 16 / fiber 99）；我们 1:1 从未报过价、也没成交；打开过的群发主题落在：PoE / 工业；**还没碰过的一类：光纤接入 / 媒体转换** → 下封信可加一句 STI-140GE（1 光 4 电工业非管理，$26.9 EXW）。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 556 条 URL（≥500 = 大目录 / 网店体量）；官网语言 en-GB（信照样英文，首句可用对方语言问候）；社媒：https://facebook.com/linxcomuk/、https://twitter.com/linxcomuk、https://www.linkedin.com/company/linxcom-uk。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 556 条 URL（≥500 = 大目录 / 网店体量）；社媒：https://facebook.com/linxcomuk/、https://twitter.com/linxcomuk、https://www.linkedin.com/company/linxcom-uk。
 - **写信的人（来信签名机械抽取）**：Hussain Alqahtani — Purchasing and Product Development Manager（hussain.alqahtani@linx-com.com，5 封，2025-03-18 → 2025-05-15）。
 - **他们嘴里的词（5 封来信、去引用后 6,522 字符的词频）**：话题（次数，最近一次）：价格 / 折扣 ×2（2025-03-18）、工业 ×1（2025-03-18）。
 - **最后一球**：1:1 对话 1 段，最长一段 11 封 / 跨 58 天（2025-03-17 → 2025-05-15，「MOH-TA-170325 Offer」）；**最后一句是他们说的**（2025-05-15，529 天前，「RE: [EXTERNAL] MOH-TA-170325 Offer」，`d385ca588de7d060`）：「Hello Alan, Unfortunately there is no news yest, but once we have news regarding your offer we will be in touc…」。

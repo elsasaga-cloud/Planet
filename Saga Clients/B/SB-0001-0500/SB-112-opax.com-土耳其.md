@@ -68,8 +68,8 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2024-11-08 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `75e4d8ce21d59f28` |
-  | 2024-06-14 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `8e7b7d4bafe29152` |
+  | 2024-11-08 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `75e4d8ce21d59f28` |
+  | 2024-06-14 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `8e7b7d4bafe29152` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 380 条 URL；**自有型号串 4 个**（OPAX-2545LAN、OPAX-WF868-4G-LAN、OPAX-2646）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）；官网语言 tr（信照样英文，首句可用对方语言问候）；社媒：https://www.opax.com/、https://www.opax.com/hirsiz-alarm-sistemleri、https://www.opax.com/hirsiz-alarm-sistemleri/alarm-hareket-dedektorleri。

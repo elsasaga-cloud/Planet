@@ -76,7 +76,7 @@ updated: 2026-10-27
   |---|---|---|---|---|---|---|---|
   | 2024-05-03 | 「25usd/pc」 | $25 | —（原句无型号） | — | 1:1 | Industrial Ethernet Switch | `f68b73f1522697d3` |
 
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 444 条 URL；站内可见品牌 1 个（barox）；官网语言 en-us（信照样英文，首句可用对方语言问候）；社媒：https://ch.linkedin.com/company/barox-kommunikation-ag、https://www.youtube.com/@baroxkommunikationag4606。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 444 条 URL；站内可见品牌 1 个（barox）；社媒：https://ch.linkedin.com/company/barox-kommunikation-ag、https://www.youtube.com/@baroxkommunikationag4606。
 - **写信的人（来信签名机械抽取）**：Luis Coello — Sales director Barox (META)（luis.coello@barox.de，3 封，2024-05-02 → 2024-05-03）。
 - **他们嘴里的词（3 封来信、去引用后 254 字符的词频）**：**提到的同行品牌**：Barox ×3（2024-05-03）。
 - **渠道反应**：S 箱（Simon） 去 6（1:1 4 / 群发 2）回 3，最近回 2024-05-03；A 箱（Alan） 去 20（1:1 0 / 群发 20）回 0，从未回 → 只对 S 箱 Simon 有反应，下一封别换箱。

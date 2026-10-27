@@ -74,12 +74,12 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2025-06-25 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `356ffdec1064aec6` |
+  | 2025-06-25 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `356ffdec1064aec6` |
   | 2025-01-06 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `57fb1c7af7245559` |
   | 2024-06-18 | 「Price is very competitive, 220usd/pc」 | $220 | —（原句无型号） | — | 群发价 | 2.5G PoE switch | `707d5d7be12fe150` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 51 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）；社媒：https://antronix.com/、https://antronix.com/drop-passives/、https://antronix.com/filters-attenuators/。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 51 条 URL；社媒：https://antronix.com/、https://antronix.com/drop-passives/、https://antronix.com/filters-attenuators/。
 - **关联户**：SB-984 olsontech.com（B；同一封邮件）——写信前看一眼对方档案，别两边说两套价。
 - **写信的人（来信签名机械抽取）**：Peter Tarquinio（petertarquinio@antronix.com，4 封，2024-01-20 → 2025-08-08）。
 - **他们嘴里的词（4 封来信、去引用后 412 字符的词频）**：话题（次数，最近一次）：10G ×4（2024-01-20）、光纤 / 媒体转换 ×2（2024-01-20）、样品 ×1（2024-04-19）、价格 / 折扣 ×1（2025-08-08）。

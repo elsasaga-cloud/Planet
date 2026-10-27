@@ -76,8 +76,8 @@ updated: 2026-10-27
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
   | 2025-01-06 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `04b20100471a1077` |
-  | 2024-12-12 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `7493830b6e19d535` |
-  | 2024-08-14 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 24V poe switch | `7ee8d55c9a41b028` |
+  | 2024-12-12 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `7493830b6e19d535` |
+  | 2024-08-14 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 24V poe switch | `7ee8d55c9a41b028` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 46 条 URL；社媒：https://wa.me/60162281069?text=Hello, I am interested in Google%20Review. (https://www.th-it.com/showproducts/productid/5306613/)、https://wa.me/60162281069?text=Hello, I am interested in TH%20IT%20Networking%20Equipment%20Rental. (https://www.th-it.com/showproducts/productid/5232684/)、https://wa.me/60162281069?text=Hi, i am interested to know more. (https://www.th-it.com/)。

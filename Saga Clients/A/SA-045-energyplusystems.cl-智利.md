@@ -79,13 +79,13 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2026-09-08 | 「*Price: 170USD/PC*」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `7ea24f4303e4aeb1` |
-  | 2026-07-20 | 「*Price: 1500USD/PC*」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `fd1a9009a3a0c59d` |
+  | 2026-09-08 | 「Price: 170USD/PC」 | $170 | —（原句无型号） | — | 群发价 | 24 Port PoE Managed Switch | `7ea24f4303e4aeb1` |
+  | 2026-07-20 | 「Price: 1500USD/PC」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `fd1a9009a3a0c59d` |
   | 2025-10-29 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `6da1fa692fe34306` |
   | 2025-08-28 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `5285f4f822d9a47d` |
-  | 2024-11-20 | 「*Price is very competitive, 300usd/pc*」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `d38f2e742cda8850` |
+  | 2024-11-20 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `d38f2e742cda8850` |
   | 2024-09-28 | STI-154GP | $38 | $39.2 | +3% | 1:1 | Industrial PoE Switch | `dd2380a46a6ba1cc` |
-  | 2024-08-19 | 「Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `966486459c09d600` |
+  | 2024-08-19 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `966486459c09d600` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 13 条 URL；官网语言 es-CL（信照样英文，首句可用对方语言问候）；社媒：http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Alzador%20Hidr%C3%A1ulico%20Power-Works、http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Enchufe%20Minero%20Embutido%20Clase%2025KV%20Victor、http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Enchufe%20Minero%20Volante%20Clase%2025KV%20Victor。

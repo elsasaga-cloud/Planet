@@ -110,15 +110,15 @@ updated: 2026-10-27
 
   | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
   |---|---|---|---|---|---|---|---|
-  | 2026-07-20 | 「*Price: 1500USD/PC*」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `9a27e4594a404dfb` |
+  | 2026-07-20 | 「Price: 1500USD/PC」 | $1500 | —（原句无型号） | — | 群发价 | 24 Port 10G SFP+ Switch | `9a27e4594a404dfb` |
   | 2025-10-30 | 「It is a price-competitive aggregation switch(280usd/pc)」 | $280 | —（原句无型号） | — | 群发价 | 10G Enterprise SFP Switch | `ca2a019852deeb9e` |
   | 2024-11-16 | 「3, There is extra cost for this, 50usd, this charge is one-time and fo」 | $50 | —（原句无型号） | — | 1:1 | 10G Media Converter | `9b26b8e5f17f8e5c` |
   | 2024-11-14 | 「10G media converter: 65usd/pc」 | $65 | —（原句无型号） | — | 1:1 | 10G Media Converter | `aa5bd145269a4a45` |
   | 2024-11-14 | 「14-slot media converter: 75usd/pc」 | $75 | —（原句无型号） | — | 1:1 | 10G Media Converter | `aa5bd145269a4a45` |
-  | 2024-11-13 | 「*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `fc98289bea1ccdb9` |
+  | 2024-11-13 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged,」 | $65 | —（原句无型号） | — | 群发价 | 10G Media Converter | `fc98289bea1ccdb9` |
 
   「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 466 条 URL；官网语言 en-US（信照样英文，首句可用对方语言问候）。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 466 条 URL。
 - **写信的人（来信签名机械抽取）**：thup（thup@vilinknet.com，11 封，2024-11-13 → 2025-05-09）。
 - **最后一球**：1:1 对话 2 段，最长一段 19 封 / 跨 20 天（2024-11-13 → 2024-12-03，「Re: 10G Media Converter」）；最后一句是我们说的（2026-02-03，265 天前，「24 Port Ethernet Switch」，`b1d980459779e683`）→ 球在对方手里。
 - **同国同档参照（US，20% 档、主推线「商用 10G PoE 管理型」，共 3 户有动静，列前 3）**：SB-020 52networks.com（B，同档：成交 STI-288GP，回过 14 次（最近 2025-07-24））；SB-831 actelis.com（B，同线：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-042 antronix.com（A，同线：回过 3 次（最近 2025-08-08））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
