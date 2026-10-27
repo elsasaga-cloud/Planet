@@ -79,6 +79,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（TR · 1 次检索：官网 iletişim（商号 / 税号 3330751186 Gaziemir）+ belgelerimiz（2014 成立、BTK ISP + 基础设施运营牌照、İzmir 总部）+ bgp.he.net / ipinfo（AS216192，2023-10 分配，1,536 IPv4，自有 /24 ×6），2026-10-27 查；https://hiperonline.com.tr/belgelerimiz）：**
+
+- 法定名 / 登记号：HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ（İzmir 总部；Eskişehir 为分部） · Vergi No 3330751186（Gaziemir Vergi Dairesi，İzmir）· AS216192（RIPE，2023-10-10） · 状态 **Aktif（官网 .com.tr 在线；**.com 域已死 → 研究档地址 eskisehir@hiperonline.com 退信，改用 @hiperonline.com.tr**）** · 成立 2014（官网） · Limited Şirket（股东未取）
+- 行业码 / 经营范围：**ISP + 基础设施运营商**（BTK 双牌照）：İzmir 等地自建光纤 + AirFiber 无线接入，其余 81 省走批发线路；企业 Metro Ethernet；AS216192 对等 HizliNet / Güneydoğu Telekom
+- 注册地址：İzmir（Gaziemir 税务局辖区）；分部 Eskişehir（0850 840 98 83）
+- 规模档：小型 ISP（估 10–30 人）
+- 账目：—（TR 不公示）；自有 IP 1,536 个 = 小型 ISP（数千用户级）；—
+- 高管：研究档 KP 仅「Eskişehir 办公室」；管理层未公开 → 写 info@ / teknik@ @hiperonline.com.tr 问 Teknik Müdür
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **硬发现：Hiperonline 不是埃斯基谢希尔小店，是伊兹密尔的持牌 ISP（自有光纤 + 无线，AS216192），而我们手里的 .com 域已死 → 第 82 批把它列进「域死 10 户」是误伤，公司活得好好的，只是换了 .com.tr** → 按 ISP 线写：接入层 24 口管理型 + 10G 上联（STC-424XGGPM / STI-0240GE）、无线基站点 DIN 工业 PoE（STI 系列）、分销 20%；Q-64 名单把 SB-389 移出（改地址不剔除）
+  - 付款：ISP 对设备商习惯 30 天 —— 首单 50/50，三单后再谈；DAP 伊兹密尔走 Saga 百运网线；TR 周四 10–12
+  - 复查：ipinfo AS216192 的 IP 数量年看一次（增长 = 扩网 = 采购）
+- 备注：研究档 legal_name 已有；hq 纠正 İzmir；Q-64 死域名单修正。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,15 +125,17 @@ updated: 2026-10-27
 - **【用户表】ISAF：看多口交换机；不会英文；WA 已加**
   > Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（姓名未记录；Eskişehir 办公室）（ISP 技术/采购（待核））eskisehir@hiperonline.com（用户表） 0850 840 98 83（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（姓名未记录；Eskişehir 办公室）（Eskişehir 分部信箱（.com 已死 → **公司活着，官网 / 邮箱在 hiperonline.com.tr**；Q-64 死域名单移出）—— 下一封写 info@ / teknik@ @hiperonline.com.tr 问 Teknik Müdür（第 90 批 官方登记核实 2026-10-27））eskisehir@hiperonline.com（用户表） 0850 840 98 83（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Hiperonline İletişim Hizmetleri Sanayi Ticaret Limited Şirketi |
-| 总部/地址 | Eskişehir（0850 840 98 83） |
+| 法定名称 | HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ（Vergi No 3330751186，Gaziemir / İzmir；AS216192，自有 IP 1,536 个） |
+| 成立 | 2014（官网）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | İzmir（总部）+ Eskişehir 分部（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 小型 ISP（估 10–30 人；数千用户级）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 自建光纤 + airfiber 无线；Metro Ethernet 10 Gbps；全国 81 省转售 |
 
 - **业务线**：住宅/企业宽带（光纤、VDSL、无线）；企业 Metro Ethernet 专线

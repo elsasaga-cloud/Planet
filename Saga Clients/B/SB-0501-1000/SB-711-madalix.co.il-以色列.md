@@ -85,6 +85,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（IL · 1 次检索：官网 about / industrial-networking-devices / systems-backplanes / services（ISO 9001:2015；Nextron 以色列官方分销；品类：工业 / 加固电脑、面板 PC、显示、摄像机、网络通信；串口服务器 / CAN 网关；欧盟项目管理服务）+ RocketReach（2016 成立，CEO Daniel Zaichik，≈3 人，特拉维夫区），2026-10-27 查；https://www.madalix.co.il/about）：**
+
+- 法定名 / 登记号：MADALIX（Israel；工业 / 加固计算 VAR） · ח.פ. 未取 · 状态 **Active（官网在线）** · 成立 2016（RocketReach） · 推定 Ltd.（微型）
+- 行业码 / 经营范围：工业 / 加固嵌入式硬件增值分销（IPC、面板 PC、加固平板、VPX / cPCI 背板 Nextron、工业网络设备：串口服务器 / Modbus 网关 / 光猫 / CAN），市场 = 国防 / 工业 / 医疗
+- 注册地址：Tel Aviv District, Israel（具体地址未公开）
+- 规模档：微型（≈3 人）
+- 账目：—；—
+- 高管：Daniel ZAICHIK — CEO / 创始人（RocketReach）= 研究档 KP「Daniel」= 老板 = 联系人
+- 控制人 / 股东：Daniel Zaichik
+- **这意味着什么：**
+  - **老板 = 联系人：Daniel Zaichik 的三人工业计算 VAR，网络品类里只有串口 / CAN 网关，缺工业交换机** → 写 Daniel：分销 20%，工业 DIN PoE / 非 PoE（STI-054GP / STI-154GP / STI-050GE 宽压 / STI-480XGGM L3）补其货架，**只报工业 / 医疗 / 商用，国防项目 PASS**；CE/RoHS + SII 适配器；MOQ 1 箱、预付；IL 周日–周四
+  - 不说：不提其国防市场
+- 备注：研究档 KP「Daniel」补姓 Zaichik + CEO。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,14 +142,17 @@ updated: 2026-10-27
 - **【用户表】工业 FS 有迈威**
   > 工业FS 有迈威的；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Daniel（）daniel@madalix.co.il 〔用户表〕
+- **KP**：Daniel Zaichik（）daniel@madalix.co.il 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 以色列 |
+| 法定名称 | MADALIX（ח.פ. 未取） |
+| 成立 | 2016（RocketReach）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Tel Aviv District, Israel（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 微型（≈3 人）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 madalix.co.il，语言 en，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：工业计算 / 显示方案分销（以色列）
@@ -236,7 +253,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Daniel | — | daniel@madalix.co.il | 调研核实（公开页） | 用户表 |
+| Daniel Zaichik | — | daniel@madalix.co.il | 调研核实（公开页） | 用户表 |
+| 2024.3.14 Daniel | — | info@madalix.co.il / daniel@madalix.co.il | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 14 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

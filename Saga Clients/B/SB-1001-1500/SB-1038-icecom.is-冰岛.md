@@ -78,6 +78,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（IS · 1 次检索：官网 / english 页（1997 由 David Askelsson + Johann Sigurthorsson 创立；微波 / 网络 / 电视 / 摄像机 / 楼宇自控 / 安防 / 消防 系统安装运维）+ keldan / 1819 / leit.is（kennitala 540102-2440，Lyngási 10, 210 Garðabæ，ÍSAT 43 专业建筑施工，最新年报 2020）+ finna.is（旧 kt 570197-2239 = 1997 原主体）+ OpenCorporates（ehf，2002-01-14），2026-10-27 查；https://keldan.is/Fyrirtaeki/Yfirlit/5401022440）：**
+
+- 法定名 / 登记号：IceCom ehf.（Garðabær, Iceland） · kennitala 540102-2440（现 ehf，2002-01-14）；旧 kt 570197-2239（1997） · 状态 **Active（Facebook / 官网在线；keldan 最新年报 2020 —— 之后年报未见，待核）** · 成立 1997（原主体）/ 2002-01-14（ehf） · Einkahlutafélag（ehf.；两创始人持有）
+- 行业码 / 经营范围：ÍSAT 43：电信 / 网络 / 微波链路 / 电视 / CCTV / 楼宇自控 / 安防 / 消防 系统安装 + 运维（集成商）；雷克雅未克都会区
+- 注册地址：Lyngás 10, 210 Garðabær, Iceland
+- 规模档：微型 / 小型（估 5–15 人）
+- 账目：keldan 有年报摘要（付费；2020 为最新）；IS 年报 08-31
+- 高管：David ASKELSSON — 联合创始人 / 业主
+- 高管：Johann SIGURTHORSSON — 联合创始人 / 业主（= 老板 = 联系人，icecom@）
+- 控制人 / 股东：Askelsson + Sigurthorsson
+- **这意味着什么：**
+  - **老板 = 联系人：两位创始人经营 28 年的冰岛小集成商（微波 + 网络 + CCTV + 楼宇），冰岛 = EEA（CE 即可）、极寒 + 地热厂房 = 工业 PoE 场景** → 写 icecom@（致 David / Johann）：集成 25%，STI 工业 DIN PoE（-40℃）+ 室外光口上联、微波基站点的 PoE++ 供电（STI-288DGGPM-2BT 60/90 W）；DAP 雷克雅未克走海运拼箱（Saga 百运网）；冰岛 UTC，周四 10–12 = 北京 18–20
+  - 注意：keldan 年报止于 2020 → 发信前看官网 / Facebook 是否仍活跃（研究档 0 次跟进）
+- 备注：研究档 KP 空 → 新增两位创始人。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,13 +126,18 @@ updated: 2026-10-27
 - **【用户表】switch**
   > switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Johann Sigurthorsson（联合创始人 / 业主（1997 与 David Askelsson 共创）= **老板 = 联系人**（icecom@）→ 集成 25%，工业 DIN PoE（-40℃）+ 微波站 PoE++（第 90 批 官方登记核实 2026-10-27）） 〔https://keldan.is/Fyrirtaeki/Yfirlit/5401022440〕
+- **KP**：David Askelsson（联合创始人 / 业主 —— 抄送（第 90 批 官方登记核实 2026-10-27）） 〔https://www.icecom.is/index.php/english/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 冰岛 |
+| 法定名称 | IceCom ehf.（kennitala 540102-2440，ehf 2002-01-14；旧 kt 570197-2239 = 1997 原主体） |
+| 成立 | 1997（原主体）/ 2002-01-14（ehf）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Lyngás 10, 210 Garðabær, Iceland（EEA，CE 即可）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 估 5–15 人；keldan 最新年报 2020（之后未见 → 发信前看官网 / Facebook 是否仍活跃）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 icecom.is，语言 is，快照状态 ok；角色判定来源：待核 |
 
 - **业务线**：计算机与通信系统整体方案
@@ -188,7 +208,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | icecom@icecom.is | 用户表原值 | Clients/ 表 |
+| Johann Sigurthorsson | 联合创始人 / 业主（1997 与 David Askelsson 共创）= **老板 = 联系人**（icecom@）→ 集成 25%，工业 DIN PoE（-40℃）+ 微波站 PoE++（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://keldan.is/Fyrirtaeki/Yfirlit/5401022440 |
+| David Askelsson | 联合创始人 / 业主 —— 抄送（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.icecom.is/index.php/english/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -224,7 +245,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-288GPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -241,7 +262,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

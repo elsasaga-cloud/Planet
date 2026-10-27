@@ -85,6 +85,23 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（AU · 1 次检索：官网 career / about / contact（Knoxfield Melbourne，25 Gilbert Park Dr；2000 起；**2021 起为 Hexatronic Group（瑞典上市）成员**；GM Pavneet「Pav」Arneja 管销售与运营）+ ZoomInfo / RocketReach（CEO A.P. Singh Arneja；23 人；营收估 $24M；内销经理 Jaideep Singh）+ LinkedIn（2000，11–50，「Self-Owned」= 旧信息），2026-10-27 查；https://www.fibreoptic.com.au/career）：**
+
+- 法定名 / 登记号：Fibre Optic Systems Pty Ltd（FOS；Knoxfield VIC；Hexatronic Group 成员） · ABN 未取（ABR「fibre optic systems」未查，下轮） · 状态 **Active** · 成立 2000 · Pty Ltd（2021 起 Hexatronic Group AB 子公司；Arneja 家族管理）
+- 行业码 / 经营范围：光纤 / 铜缆连接产品制造 + 分销 + 方案（跳线组件本地生产、机柜 / 导管 / MTP、网络产品）；澳洲电信 / 数据中心 / 企业
+- 注册地址：25 Gilbert Park Drive, Knoxfield, VIC 3180
+- 规模档：11–50 人（23）
+- 账目：第三方估 $24M（量级；集团并表在 Hexatronic 年报）；Hexatronic 年报 2–3 月；AU 06-30
+- 高管：A.P. Singh ARNEJA — CEO / 创始人
+- 高管：Pav (Pavneet) ARNEJA — General Manager（2013–；研究档 KP）= 本地决策人
+- 高管：Jaideep SINGH — Internal Sales Manager
+- 控制人 / 股东：Hexatronic Group AB（2021 收购）；Arneja 家族管理
+- **这意味着什么：**
+  - **硬发现：FOS 2021 年被瑞典 Hexatronic 集团收购，但仍由 Arneja 父子经营（CEO + GM）—— 本地采购权还在墨尔本** → 写 Pav：分销 20%，光口交换机补其光纤产品线（STI-154GP、STC-110XGE 10G、STI-288DGGPM 2.5G 光），RCM 由他们；集团合规（Hexatronic 供应商准则）→ 备好 CE/RoHS/REACH 文件；AU 周三 08–10（北京 06–08）
+  - 不说：不提 Hexatronic 并购；不提其营收估值
+  - 复查：ABR 补 ABN；Hexatronic 年报看澳洲业务线
+- 备注：研究档 facts 回填；KP 角色 Pav = GM。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,13 +146,17 @@ updated: 2026-10-27
   > MC switch 其他的是周边产品 自己的牌子；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Pav Arneja（）sales@fibreoptic.com.au 〔用户表〕
+- **KP**：A.P. Singh Arneja（CEO / 创始人（2000）—— 抄送（第 90 批 官方登记核实 2026-10-27）） 〔https://www.fibreoptic.com.au/career〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
+| 法定名称 | Fibre Optic Systems Pty Ltd（FOS；ABN 未取；2021 起 Hexatronic Group AB 子公司） |
+| 成立 | 2000（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 25 Gilbert Park Drive, Knoxfield, VIC 3180（墨尔本东南）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 11–50（23）；第三方估 $24M（量级）；内销经理 Jaideep Singh（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 fibreoptic.com.au，语言 en-au，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：光纤 / 铜缆方案制造（自有品牌 FOS）
@@ -247,6 +268,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Pav Arneja | — | sales@fibreoptic.com.au | 调研核实（公开页） | 用户表 |
+| A.P. Singh Arneja | CEO / 创始人（2000）—— 抄送（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.fibreoptic.com.au/career |
 
 - **通道建议**：邮件已推送 22 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

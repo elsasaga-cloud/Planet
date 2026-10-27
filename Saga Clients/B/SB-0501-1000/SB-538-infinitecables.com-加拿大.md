@@ -1,6 +1,6 @@
 # infinitecables.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-538`　|　优先级 ★★　|　状态：已推送 10 次·未回复
+> **评级 B**　|　加拿大　|　档案编号 `SB-538`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
 > **类型**：北美连接产品网店（含 OEM 定制）（推断）　|　**历史关系**：推送 10 次（2025-02-20 → 2025-10-22）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-538
 rating: B
 rating_auto: B
 score: 38
-country: 美国
+country: 加拿大
+country_table: 美国  # 表内原填；调研纠正为 加拿大（research JSON country_fix）
 region: 北美
 website: infinitecables.com
 type: 北美连接产品网店（含 OEM 定制）
@@ -90,17 +91,34 @@ updated: 2026-10-27
 
 - `infinitecables.com` → Microsoft 365（MX：infinitecables-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（美国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+**假日避让（加拿大 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
 
-- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
+**公司底数 · 第 90 批（CA · 1 次检索：官网 about（2003 起、62,000 sq ft）+ opengovca / canadacompanyregistry（联邦公司 6482929，2006-01-01，董事 George Arvanitopoulos + Chris Michael Frangos，BN 813852142RC0001）+ D&B（DBA Phantom Cables，主要负责人 Arvanitopoulos）+ LEI 89450071WCT7PKO1GZ42 + CIPO 商标 1729763（2016-05-31）+ Yelp（2004 起自有品牌 Phantom Cables）+ LinkedIn（11–50），2026-10-27 查；https://opengovca.com/corporation/6482929）：**
+
+- 法定名 / 登记号：Infinite Cables Inc.（DBA Phantom Cables；Markham, Ontario） · Corporations Canada 6482929 · BN 813852142RC0001 · LEI 89450071WCT7PKO1GZ42 · 商标 TMA 1729763 · 状态 **Active** · 成立 2006-01-01（联邦；业务始于 2003） · 联邦 business corporation（非分销型，≤50 股东）
+- 行业码 / 经营范围：线缆 / 配件制造 + 分销 + 批发（网络、安防、AV、电源线、USB、UPS 电池）；**自有品牌 Phantom Cables（2004 起）**；服务加 / 美两国
+- 注册地址：3993 14th Avenue, Markham, ON L3R 4Z6（62,000 sq ft 办公 + 仓）
+- 规模档：11–50 人（LinkedIn；RocketReach 32）
+- 账目：—（私营）；第三方估 $2M–$50M 区间不可用，按 62,000 sq ft 仓 + 11–50 人 = 千万加元级；—
+- 高管：George ARVANITOPOULOS — 董事 / 主要负责人（联邦登记 + D&B）
+- 高管：Chris Michael FRANGOS — 董事（联邦登记）
+- 高管：Augustin LIU / Richard BONSOL — 研究档 KP（采购 / 销售口；职务待核）
+- 控制人 / 股东：Arvanitopoulos + Frangos（2 名董事；推定股东）
+- **这意味着什么：**
+  - **硬发现：用户表把 Infinite Cables 记成美国，其实是多伦多 Markham 的加拿大联邦公司（6482929），且有自有品牌 Phantom Cables（2004 起）、62,000 sq ft 仓 —— 自有品牌 + 网络 / 安防渠道 = OEM 品牌商画像** → 写 Augustin Liu cc 董事 George Arvanitopoulos：OEM 30%「Phantom」PoE 交换机（STC-028GP / STC-228GP / STC-2024GP）配其网线 / 配线架套餐，或分销 20%；FCC + ISED（IC）双标 + 英法双语标签；DAP 多伦多走百运网；CA 周三 08–10（北京 21–23）
+  - 国别已更正（country_fix → 加拿大，Q-65）；认证话术按加拿大写
+  - 复查：CIPO 商标库看 Phantom 是否新增交换机类（第 9 类）= 自有品牌扩品信号
+- 备注：country_fix 加拿大；研究档 facts 补 legal / founded / staff / hq。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | infinitecables.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | infinitecables.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 北美连接产品网店（含 OEM 定制） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 / Augustin Liu / Supervisor / Richard Bonsol / Sales | 事实（用户表） |
@@ -139,13 +157,17 @@ updated: 2026-10-27
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Augustin Liu（）sales@infinitecables.com 〔用户表〕
 - **KP**：Richard Bonsol（） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- **KP**：George Arvanitopoulos（董事 / 主要负责人（Corporations Canada 6482929 + D&B）= 老板；联名董事 Chris Michael Frangos —— 抄送（第 90 批 官方登记核实 2026-10-27）） 〔https://opengovca.com/corporation/6482929〕
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 国别更正为「加拿大」（country_fix）：Infinite Cables Inc. 为 Corporations Canada 联邦公司 6482929，地址 Markham ON；用户表记美国（第 90 批 / Q-65 2026-10-27）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
+| 法定名称 | Infinite Cables Inc.（Corporations Canada 6482929；BN 813852142RC0001；DBA Phantom Cables） |
+| 成立 | 2006-01-01（联邦；业务始于 2003）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 3993 14th Avenue, Markham, ON L3R 4Z6（多伦多东北）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 11–50（LinkedIn；RocketReach 32）；62,000 sq ft 办公 + 仓 = 千万加元级（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 infinitecables.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：线缆 / 光纤 / UPS 电池 / 安防摄像机网店
@@ -249,6 +271,7 @@ updated: 2026-10-27
 |---|---|---|---|---|
 | Augustin Liu | — | sales@infinitecables.com | 调研核实（公开页） | 用户表 |
 | Richard Bonsol | — | — | 调研核实（公开页） | 用户表 |
+| George Arvanitopoulos | 董事 / 主要负责人（Corporations Canada 6482929 + D&B）= 老板；联名董事 Chris Michael Frangos —— 抄送（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://opengovca.com/corporation/6482929 |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

@@ -1,7 +1,7 @@
 # netram.de
 **官方名称（调研核实）**：Netram Memory GmbH
 
-> **评级 B**　|　未填　|　档案编号 `SB-1133`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　德国　|　档案编号 `SB-1133`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:DE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -12,8 +12,9 @@ rating_auto: C
 rating_research: B  # Planet 渠道档案 PB-095 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
 name_official: "Netram Memory GmbH"
 score: 8
-country: 未填
-region: 未知
+country: 德国
+country_table: 未填  # 表内原填；调研纠正为 德国（research JSON country_fix）
+region: 欧洲
 website: netram.de
 type: 经销/集成（类型待核）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:DE"]
@@ -80,7 +81,7 @@ updated: 2026-10-27
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | netram.de（取自域名，公司全名待核） | 推断 |
-| 国家 | 未填 | 事实（用户表）|
+| 国家 | 德国 | 事实（用户表）|
 | 网站/域名 | netram.de | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
@@ -112,7 +113,7 @@ updated: 2026-10-27
   > 来源：https://www.netram.de/gs724t-400eus-EN（抓取 2026-10-20）
 - **KP**：Jürgen Hübner（） +49 202 75805-0〔https://www.netram.de/Impressum〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-095 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「德国」（country_fix）：域名 netram.de + 研究档 hq Wuppertal + 法定名 Netram Memory GmbH；表内国别空（Q-65 国别机检 2026-10-27）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-095，W 批次调研 2026-10-19/20））
 
@@ -204,7 +205,7 @@ updated: 2026-10-27
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差

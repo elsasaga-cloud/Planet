@@ -86,6 +86,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（AU · ABR 1 次检索「lt security」：ABN 18 609 932 309 Active（Entity Name，2210 NSW）+ 同邮编 Business Name「LTS Security Australia」ABN 33 845 781 939（Active）；域 ltsecurityinc.com.au 对应美国 LT Security Inc.（LTS，加州）品牌的澳洲公司，2026-10-27 查；https://abr.business.gov.au/ABN/View?abn=18609932309）：**
+
+- 法定名 / 登记号：LT SECURITY PTY LTD（LTS Security Australia；Peakhurst NSW 2210） · ABN 18 609 932 309 · ACN 609 932 309（≈2015–16）；Business Name ABN 33 845 781 939 · 状态 **Active（ABR 2026-10-27）** · 成立 ≈2015–16（ACN 段） · Pty Ltd（+ 同邮编个人 / 信托持有的 Business Name）
+- 行业码 / 经营范围：安防批发：LTS 品牌（美国 LT Security Inc. 的白标摄像机 / NVR / PoE 交换机）澳洲分销
+- 注册地址：Peakhurst / Riverwood, NSW 2210（悉尼南）
+- 规模档：小型（估 5–15 人）
+- 账目：—；AU 06-30
+- 高管：George LU — 研究档 KP（george@；推定业主 / 经理）
+- 控制人 / 股东：未取（ASIC 付费；推定 George Lu）
+- **这意味着什么：**
+  - **LTS 澳洲 = 美国白标安防品牌的本地分销，PoE 交换机已在其品牌线里（由美方统一贴牌）** → 低优先：写 George 一封，分销 20% 只打 LTS 没有的工业 DIN PoE（STI）+ 2.5G 上联，RCM 由他们；一封无回即停；AU 周三 08–10（北京 06–08）
+  - 不说：不提 LTS 母公司供应链
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,7 +149,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
+| 法定名称 | LT SECURITY PTY LTD（ABN 18 609 932 309；Business Name LTS Security Australia ABN 33 845 781 939） |
+| 成立 | ≈2015–16（ACN 609 932 309 段）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Peakhurst / Riverwood, NSW 2210（悉尼南）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 ltsecurityinc.com.au，语言 en，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：安防分销（LTS CCTV / 对讲 / Ajax / KNX）；工业 PoE 交换机（自有型号，Utepo 代工）

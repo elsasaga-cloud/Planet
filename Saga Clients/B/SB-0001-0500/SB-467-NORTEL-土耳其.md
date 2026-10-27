@@ -79,6 +79,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（TR · 1 次检索：官网首页 + HizmetDetay（两处地址、业务线：Avaya IP 交换机 / 数据布线 / CCTV / 光纤 / 消防 / 紧急广播），2026-10-27 查；http://norteliletisim.com/）：**
+
+- 法定名 / 登记号：Nortel İletişim（Antalya；法定类型未取） · 未取 · 状态 **Aktif（官网在线）** · 成立 未取（自述「uzun yıllar」） · 未知（Ltd. Şti. 或 şahıs）
+- 行业码 / 经营范围：电信 / 数据网络 / IP 安防 / 光纤骨干 集成（Avaya IP 交换机经销、结构化布线、机房、CCTV、火警、紧急广播）
+- 注册地址：Varlık Mah. Piri Reis Cad. No:19/B, Muratpaşa / Antalya（+ Yükseliş Mah. 2116 Sk. 26/A, Kepez / Antalya）
+- 规模档：小型（估 5–15 人）
+- 账目：—；—
+- 高管：Bayram TATLI — 研究档 KP（bayram@norteliletisim.com；职务未核；推定业主 / 经理）
+- **这意味着什么：**
+  - **安塔利亚的电信 + 布线 + CCTV 集成商（Avaya 经销），酒店 / 旅游业项目多** → 集成 25%：酒店楼层 24 口 PoE 管理型（STC-424XGGPM）+ 光纤上联，配 Avaya IP 话机的 PoE 预算（802.3af 全口）是卖点；写 Bayram 本人；首单 50/50；旺季前 2–4 月是酒店改造窗口；TR 周四 10–12
+  - 不再检索
+- 备注：研究档 hq 回填 Antalya。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,7 +121,7 @@ updated: 2026-10-27
 - **【用户表】ISAF：要目录；WhatsApp 已加**
   > 没说什么，要catalog / 90 53013 69407 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Bayram Tatlı（Project Manager（用户表名片））bayram@norteliletisim.com（用户表） +90 530 136 94 07（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Bayram Tatlı（推定业主 / 经理（职务未核；Antalya Muratpaşa 酒店 / 住宅 弱电集成商，法定类型未取）—— 24 口 PoE 酒店场景写他（第 90 批 官方登记核实 2026-10-27））bayram@norteliletisim.com（用户表） +90 530 136 94 07（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
@@ -116,7 +129,7 @@ updated: 2026-10-27
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | Nortel İletişim |
-| 总部/地址 | Varlık Mah. Piri Reis Cad. M.Bingöl Apt. No:19/B Muratpaşa / Antalya；Yükseliş Mah. 2116 Sk. 26/A Kepez / Antalya（+90 242 237 27 27；info@norteliletisim.com） |
+| 总部/地址 | Varlık Mah. Piri Reis Cad. No:19/B, Muratpaşa / Antalya（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | Avaya 电话系统 + 布线 + 光纤 + CCTV；守界：火灾探测主系统不供 |
 
 - **业务线**：电话交换机（Avaya IP PBX）与数据网络；结构化布线、光纤骨干、CCTV、广播
@@ -178,7 +191,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Bayram Tatlı | Project Manager（用户表名片） | bayram@norteliletisim.com（用户表） / +90 530 136 94 07（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Bayram Tatlı | 推定业主 / 经理（职务未核；Antalya Muratpaşa 酒店 / 住宅 弱电集成商，法定类型未取）—— 24 口 PoE 酒店场景写他（第 90 批 官方登记核实 2026-10-27） | bayram@norteliletisim.com（用户表） / +90 530 136 94 07（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Bayram Tatli | 项目经理 | bayram@norteliletisim.com / info@norteliletisim.com / +905301369407 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

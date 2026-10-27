@@ -80,6 +80,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（TR · 1 次检索：官网首页 / iletişim（地址、分店电话、sameAs → x.com/RifatYILDI…）+ 产品页（Zyxel 交换机 / AP、Dahua DSS、Tiandy / Hikvision、Paradox / Ajax）+ Facebook（Kemalpaşa Mh. 旧址、招聘安装工），2026-10-27 查；https://teknoktadestek.com/index.php?route=information%2Fcontact）：**
+
+- 法定名 / 登记号：Tek Nokta Destek Güvenlik Sistemleri（İnegöl / Bursa；推定 şahıs） · 未取 · 状态 **Aktif（官网 2026 在线，有分店）** · 成立 未取 · 推定 şahıs（店名 + 业主社媒）
+- 行业码 / 经营范围：安防（摄像机 / 报警 / 智能家居 / 考勤门禁）+ **网络系统**（Zyxel 交换机 / AP / 5G 路由在售）集成 + 小分销（「11 个全球品牌，全国供货」）；İnegöl 总店 + 分店
+- 注册地址：Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（旧址 Kemalpaşa Mh. Özsaraç Sk. 29/B）
+- 规模档：微型 / 小型（两店 + 安装队；估 5–10 人）
+- 账目：—；—
+- 高管：Rıfat YILDIZ — 业主（官网 sameAs 指向其个人 X 账号；研究档记「Rıfat Bende」为误读）= 老板 = 联系人（0532 315 7258 / info@）
+- 控制人 / 股东：Rıfat Yıldız
+- **这意味着什么：**
+  - **老板 = 联系人：Rıfat Yıldız 的 İnegöl 两店安防 + 网络小分销（在卖 Zyxel 交换机 / AP，有网店标价习惯「WhatsApp 问价」）** → 分销 20%：Zyxel 价位之下的 PoE 8/16/24 口 + 管理型，网店可挂我们型号；MOQ 1 箱、100% 预付；布尔萨家具业工厂（İnegöl 是家具之都）= 工业 PoE（STI）场景；TR 周四 10–12
+  - 不再检索
+- 备注：研究档 KP 名字纠正 Rıfat Yıldız；hq 回填。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,7 +122,7 @@ updated: 2026-10-27
 - **【用户表】ISAF：拿彩页；WhatsApp 已加**
   > 拿了彩页，没说什么 / 90 53231 57258 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rıfat Bende（官网社媒：Rıfat Yıldız，待核）（业主（推测））info@teknoktadestek.com（公开） +90 532 315 72 58（公开，WhatsApp 已加）〔https://teknoktadestek.com/index.php?route=information%2Fcontact〕
+- **KP**：Rıfat Yıldız（业主（官网 sameAs 指向其个人 X 账号；研究档原记「Rıfat Bende」为误读）= **老板 = 联系人**；İnegöl / Bursa 两店 + 安装队（第 90 批 官方登记核实 2026-10-27））info@teknoktadestek.com（公开） +90 532 315 72 58（公开，WhatsApp 已加）〔https://teknoktadestek.com/index.php?route=information%2Fcontact〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
@@ -116,7 +130,7 @@ updated: 2026-10-27
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | Tek Nokta Destek Güvenlik Sistemleri |
-| 总部/地址 | Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（+90 224 719 08 00；GSM +90 532 315 72 58；info@teknoktadestek.com） |
+| 总部/地址 | Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 11 个品牌、500+ 产品的网店；İnegöl = 家具产业城（工厂 CCTV 需求） |
 
 - **业务线**：CCTV / 报警 / 智能家居安装；网络设备与安防产品网店（全国供货）
@@ -176,7 +190,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rıfat Bende（官网社媒：Rıfat Yıldız，待核） | 业主（推测） | info@teknoktadestek.com（公开） / +90 532 315 72 58（公开，WhatsApp 已加） | 调研核实（公开页） | https://teknoktadestek.com/index.php?route=information%2Fcontact |
+| Rıfat Yıldız | 业主（官网 sameAs 指向其个人 X 账号；研究档原记「Rıfat Bende」为误读）= **老板 = 联系人**；İnegöl / Bursa 两店 + 安装队（第 90 批 官方登记核实 2026-10-27） | info@teknoktadestek.com（公开） / +90 532 315 72 58（公开，WhatsApp 已加） | 调研核实（公开页） | https://teknoktadestek.com/index.php?route=information%2Fcontact |
 | Rıfat Bende | — | +905323157258 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；无邮箱：只能电话 / WhatsApp / 官网表单

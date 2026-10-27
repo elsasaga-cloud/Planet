@@ -1,7 +1,7 @@
 # lanprosa.com
 **官方名称（调研核实）**：Lanprosa（西语站；表内美国）
 
-> **评级 B**　|　美国　|　档案编号 `SB-771`　|　优先级 ★★　|　状态：已推送 15 次·未回复
+> **评级 B**　|　哥斯达黎加　|　档案编号 `SB-771`　|　优先级 ★★　|　状态：已推送 15 次·未回复
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：推送 15 次（2024-08-21 → 2025-10-25）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,8 +11,9 @@ rating: B
 rating_auto: B
 name_official: "Lanprosa（西语站；表内美国）"
 score: 32
-country: 美国
-region: 北美
+country: 哥斯达黎加
+country_table: 美国  # 表内原填；调研纠正为 哥斯达黎加（research JSON country_fix）
+region: 拉美
 website: lanprosa.com
 type: 安防集成/经销
 tier_tags: ["A优质名单(US)", "AI评估(US)"]
@@ -83,7 +84,19 @@ updated: 2026-10-27
 
 - `lanprosa.com` → Google Workspace（MX：smtp.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让：** 下一步为「不动」，不排发信，略。
+**公司底数 · 第 90 批（CR · 1 次检索：官网首页 / sobre-nosotros / contactanos（Calle Blancos, San Francisco de Goicoechea；+506 2221-8800；Ruijie / Reyee / Lantek / Hikvision 代理）+ LinkedIn（100% 哥斯达黎加公司，11–50 人，Goicoechea）+ contactout（2003 成立）+ RocketReach（22 人）+ CPIC（「依哥斯达黎加法律设立，16 年以上」），2026-10-27 查；https://lanprosa.com/sobre-nosotros/）：**
+
+- 法定名 / 登记号：Lanprosa S.A.（San José, Costa Rica） · 未取（Registro Nacional 需付费） · 状态 **Active（官网 2026-10 更新）** · 成立 2003（contactout；自述 20 年经验） · S.A.（哥斯达黎加股份公司）
+- 行业码 / 经营范围：网络 / 电信 / CCTV 分销 + 项目：Ruijie / Reyee（主推）、Lantek、Hikvision、Ubiquiti、MikroTik、Grandstream、Epcom、Utepo、EZVIZ；WiFi 6/7 AP、L2/L3 管理型交换机、结构化布线、光纤
+- 注册地址：Calle Blancos, San Francisco de Goicoechea, San José 11502, Costa Rica
+- 规模档：11–50 人（LinkedIn；RocketReach 22）
+- 账目：—；—
+- 高管：Samanta NAVARRO — 研究档 KP（web@；职务待核）；管理层未公开
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **硬发现：用户表记美国，其实是哥斯达黎加圣何塞的网络 / CCTV 分销商（Ruijie / Reyee 主代理，20 年），与迈阿密 LanPro（SB-913）仅名字相似，无从证实同集团 —— 不并线** → 拉美非主攻区：留档，只在有 Reyee 价位之下的 PoE 新品时写一封（分销 20%，FOB 深圳或 DAP 迈阿密转运，100% 预付，CE/FCC）；国别已更正（country_fix → 哥斯达黎加）
+  - 不说：不提 Ruijie；不提 LanPro Miami
+- 备注：country_fix 哥斯达黎加；research hq 回填。
 
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
@@ -95,7 +108,7 @@ updated: 2026-10-27
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | lanprosa.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 哥斯达黎加 | 事实（用户表）|
 | 网站/域名 | lanprosa.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 / Samanta Navarro | 事实（用户表） |
@@ -127,14 +140,16 @@ updated: 2026-10-27
   > 兴趣：CCTV switch 有海思的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Samanta Navarro（）mercadeo@lanprosa.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「哥斯达黎加」（country_fix）：Lanprosa S.A. 为哥斯达黎加圣何塞公司（官网 / LinkedIn / CPIC），用户表记美国（第 90 批 / Q-65 2026-10-27）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Lanprosa（待核） |
-| 总部/地址 | （美国 / 拉美，待核） |
+| 法定名称 | Lanprosa S.A.（Registro Nacional 付费未取） |
+| 成立 | 2003（contactout；自述 20 年经验）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Calle Blancos, San Francisco de Goicoechea, San José 11502, Costa Rica（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 11–50（LinkedIn）/ 22（RocketReach）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 西语运营 |
 
 - **业务线**：CCTV / 网络经销
@@ -277,8 +292,8 @@ updated: 2026-10-27
 
 ## SWOT
 
-- **S**：北美主攻区，复购与口碑可外溢
-- **W**：已推送 15 次无回复，邮件通道疲劳
+- **S**：名单内已有联系记录，不是零起点
+- **W**：已推送 15 次无回复，邮件通道疲劳；拉美：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 

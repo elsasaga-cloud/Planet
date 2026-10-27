@@ -1,6 +1,6 @@
 # maxcomcorp.com
 
-> **评级 B**　|　加拿大　|　档案编号 `SB-094`　|　优先级 ★★　|　状态：已推送 14 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-094`　|　优先级 ★★　|　状态：已推送 14 次·未回复
 >
 > **类型**：光纤传输设备制造商（Gxcom 工业 FS 贴标，OEM 采购）（推断）　|　**历史关系**：推送 14 次（2024-05-17 → 2025-10-18）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-094
 rating: B
 rating_auto: B
 score: 61
-country: 加拿大
+country: 美国
+country_table: 加拿大  # 表内原填；调研纠正为 美国（research JSON country_fix）
 region: 北美
 website: maxcomcorp.com
 type: 光纤传输设备制造商（Gxcom 工业 FS 贴标，OEM 采购）
@@ -74,9 +75,9 @@ updated: 2026-10-27
 
 - `maxcomcorp.com` → Yahoo 小企业邮箱（MX：mx-biz.mail.am0.yahoodns.net）。主机商附带邮箱（Yahoo 小企业邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（加拿大 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+**假日避让（美国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
 
-- 窗口内无该国法定假日
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
 **公司底数 · 第 89 批（US · 官网 about / contact + SupplierConnect 名录（地址 / 创立 2000-01 / 联系人 Bradley）+ RocketReach（CEO 2008 起、2 名员工）+ Crunchbase；州登记未取（CA SoS 镜像未命中），2026-10-27 查；https://www.maxcomcorp.com/）：**
@@ -100,7 +101,7 @@ updated: 2026-10-27
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | maxcomcorp.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 加拿大 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | maxcomcorp.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 光纤传输设备制造商（Gxcom 工业 FS 贴标，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Steve Bradley / 916.705.4441 M 还没加 / Steve Bradley / 916.705.4441 M 还没加 / Tom Maguire / Sales Executive | 事实（用户表） |
@@ -140,7 +141,7 @@ updated: 2026-10-27
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Steve Bradley（）steve.bradley@maxcomcorp.com 〔用户表〕
 - **KP**：Tom Maguire（Sales Executive（Hickory NC）（第 89 批 官方登记核实 2026-10-27）） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 国别更正为「美国」（country_fix）：第 89 批核实：Maxcom, Inc. 在加州 Fair Oaks（官网 / 名录 / 电话 916 区号），用户表「Canada 3.5.xlsx」第 37 行把它列进了加拿大名单（Q-65 国别机检 2026-10-27）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

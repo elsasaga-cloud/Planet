@@ -81,6 +81,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（TR · 1 次检索：官网 iletişim / kurumsal（地址 / 电话与用户表一致）+ LinkedIn İsmet Yavuz（Hikvision Hatay Silver Partner 帖）+ worldorgs 名录（Antakya 旧址 + haikonhatay.com）；注意 ≠ 伊斯坦布尔 Şişli 同名电脑批发商，2026-10-27 查；https://vivabilgisayar.net/kurumsal/）：**
+
+- 法定名 / 登记号：Viva Bilgisayar Bilgisayar & Güvenlik Sistemleri（Defne / Hatay；推定 şahıs） · 未取（Ticaret Sicil 未命中；推定个体） · 状态 **Aktif（官网 2026-07 更新）** · 成立 未取（LinkedIn 2016 起有活动） · 推定 şahıs işletmesi
+- 行业码 / 经营范围：软件 / 网页 + 电脑硬件 + **安防系统**（Hikvision Hatay Silver Partner / 项目集成 / 经销）+ 网络布线；哈塔伊省（2023 地震重建区）
+- 注册地址：Sümerler Mah. 16. Sk. No:16/3, Defne / Hatay（旧址 Odabaşı Mah. Atatürk Blv. 127/1, Antakya）
+- 规模档：微型（业主 + 数人）
+- 账目：—；—
+- 高管：İsmet YAVUZ — 业主（LinkedIn「Viva Bilgisayar」；Selçuk Üniversitesi）= 研究档 KP，老板 = 联系人（is_ya@hotmail.com）
+- 控制人 / 股东：İsmet Yavuz
+- **这意味着什么：**
+  - **老板 = 联系人：İsmet Yavuz 是哈塔伊（安塔基亚）的 Hikvision 银牌经销 + 集成小店，2023 地震后重建区需求 = 住宅 / 商铺摄像机配 4/8 口 PoE** → WhatsApp 土耳其语一页：STI-054GP / STC-028GP + 16 口（STC-228GP），分销 20%，100% 预付；更划算的是接到我们 TR 分销户（伊斯坦布尔）拿货
+  - 不再检索
+- 备注：研究档 hq 回填 Defne / Hatay；KP 角色已有「Boss / 业主」。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,7 +127,7 @@ updated: 2026-10-27
 - **【用户表】ISAF：要工业级交换机；WhatsApp 已加**
   > 要工业级交换机 / 90 54464 91142 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：İsmet Yavuz（Boss / 业主（用户表 + LinkedIn））is_ya@hotmail.com（公开 + 用户表） +90 544 649 11 42（公开，WhatsApp 已加）〔https://www.linkedin.com/in/ismet-yavuz-608269100/〕
+- **KP**：İsmet Yavuz（业主（LinkedIn「Viva Bilgisayar」；Defne / Hatay 一人电脑 + 安防店，推定 şahıs 个体）= **老板 = 联系人**；**同名陷阱：İstanbul 的 Viva Bilgisayar 非本户**（第 90 批 官方登记核实 2026-10-27））is_ya@hotmail.com（公开 + 用户表） +90 544 649 11 42（公开，WhatsApp 已加）〔https://www.linkedin.com/in/ismet-yavuz-608269100/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
@@ -121,8 +135,8 @@ updated: 2026-10-27
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | Viva Bilgisayar Bilgisayar & Güvenlik Sistemleri |
-| 成立 | 2000（RocketReach）/ 2002（官网） |
-| 总部/地址 | Sümerler Mahallesi 16. Sk. No:16/3, Defne / Hatay（+90 544 649 11 42；info@vivabilgisayar.net） |
+| 成立 | 未取（LinkedIn 2016 起有活动；Ticaret Sicil 未命中 = 推定个体户）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Sümerler Mah. 16. Sk. No:16/3, Defne / Hatay（2023 地震区）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | Hikvision Hatay Silver Partner；Dahua；Haikon 区域经销 |
 
 - **业务线**：Hikvision/Dahua CCTV 项目集成与经销；网络基础设施、IT 硬件、软件/网页/短信服务
@@ -176,7 +190,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| İsmet Yavuz | Boss / 业主（用户表 + LinkedIn） | is_ya@hotmail.com（公开 + 用户表） / +90 544 649 11 42（公开，WhatsApp 已加） | 调研核实（公开页） | https://www.linkedin.com/in/ismet-yavuz-608269100/ |
+| İsmet Yavuz | 业主（LinkedIn「Viva Bilgisayar」；Defne / Hatay 一人电脑 + 安防店，推定 şahıs 个体）= **老板 = 联系人**；**同名陷阱：İstanbul 的 Viva Bilgisayar 非本户**（第 90 批 官方登记核实 2026-10-27） | is_ya@hotmail.com（公开 + 用户表） / +90 544 649 11 42（公开，WhatsApp 已加） | 调研核实（公开页） | https://www.linkedin.com/in/ismet-yavuz-608269100/ |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

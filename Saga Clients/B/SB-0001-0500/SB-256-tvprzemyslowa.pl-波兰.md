@@ -82,6 +82,22 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 90 批（PL · 1 次检索：imsig.pl（KRS 0000817374，REGON 385013197，NIP 7822874326，2019-12-05 登记，PKD 46.52.Z）+ 官网 / uniforce.pl 2020-01 公告（由 Karol Nowak 个体 → sp. z o.o. sp.k.，Prezes Karol Nowak）+ rejestr.io / aleo / gowork（普通合伙人 UNIFORCE sp. z o.o. KRS 0000812555，NIP 7822872965，REGON 384822457，prokurent Jerzy Zdzisław Nowak 2020-08-18 起）+ gowork（前身个体 Tvprzemyslowa.pl Karol Nowak，NIP 7822376077，2007-09-24 起）+ aplikuj（现名 UNIFORCE TVPRZEMYSLOWA NOWAK SP.K.），2026-10-27 查；https://www.imsig.pl/krs/0000817374）：**
+
+- 法定名 / 登记号：UNIFORCE TVPRZEMYSLOWA NOWAK SP.K.（原 TVprzemyslowa sp. z o.o. sp.k.；品牌 Uniforce；Poznań） · KRS 0000817374 · NIP 7822874326 · REGON 385013197（有限合伙）；普通合伙人 UNIFORCE sp. z o.o. KRS 0000812555 · NIP 7822872965 · 状态 **Aktywna** · 成立 2019-12-05（KRS；业务自 2007-09-24 个体起） · Spółka komandytowa（普通合伙人 = UNIFORCE sp. z o.o.；Nowak 家族）
+- 行业码 / 经营范围：PKD 46.52.Z 电子 / 电信设备批发：电子安防系统（CCTV / 报警 / 门禁）+ 无人机；品牌 Uniforce；网店 tvprzemyslowa.pl
+- 注册地址：ul. Kórnicka 30, 61-141 Poznań
+- 规模档：小型（估 5–15 人）
+- 账目：—（sp.k. 年报 KRS 可查，未取）；PL 年报 7 月
+- 高管：Karol NOWAK — Prezes zarządu（UNIFORCE sp. z o.o.）/ 创始人（2007 个体起）= 老板 = 联系人
+- 高管：Jerzy Zdzisław NOWAK — prokurent samoistny（2020-08-18 起；家族）
+- 控制人 / 股东：Nowak 家族（Karol + Jerzy）
+- 曾用名：TVprzemyslowa sp. z o.o. sp.k.（2019–）；Tvprzemyslowa.pl Karol Nowak（个体，2007–2020）
+- **这意味着什么：**
+  - **老板 = 联系人：Karol Nowak 的波兹南安防批发 + 网店（2007 起，2020 改公司制，自有品牌 Uniforce，兼无人机）** → 写 Karol：分销 20%，CCTV 配套 PoE 4/8/16/24 口（STI-054GP / STC-028GP / STC-228GP / STC-2024GP）挂网店 + 「Uniforce」贴牌 OEM 30% 可选；CE/RoHS，MOQ 1 箱，首单 50/50；PL 周四 12–14；避开 12-24–01-06
+  - 复查：KRS 年报 7 月看营收档
+- 备注：研究档 KP 空 → 新增 Karol Nowak。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,14 +140,17 @@ updated: 2026-10-27
 - **【用户表】WhatsApp 已加；8 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Karol Nowak（Prezes zarządu（UNIFORCE sp. z o.o. = 普通合伙人）/ 创始人（2007-09-24 个体起）= **老板 = 联系人**；prokurent Jerzy Zdzisław Nowak（家族）→ 分销 20% + 自有标签 OEM 30% 可选（第 90 批 官方登记核实 2026-10-27）） 〔https://rejestr.io/krs/817374〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店目录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | TVprzemyslowa sp. z o.o. sp. k.（品牌 Uniforce TVprzemyslowa） |
-| 总部/地址 | ul. Kórnicka 30, 61-141 Poznań（另见 Bodawska 11, 61-309 Poznań）, Polska（+48 61 875 04 76；kontakt@tvprzemyslowa.pl） |
+| 法定名称 | UNIFORCE TVPRZEMYSLOWA NOWAK SP.K.（原 TVprzemyslowa sp. z o.o. sp.k.；KRS 0000817374 · NIP 7822874326 · REGON 385013197） |
+| 成立 | 2019-12-05（KRS；业务自 2007-09-24）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | ul. Kórnicka 30, 61-141 Poznań（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 估 5–15 人（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 网店类目：监控（Hikvision/Dahua/IDIS/Eneo/ATTE 等），含专门的「Switche POE Dahua」类目 |
 
 - **业务线**：CCTV/IP 监控设备网店与分销；PoE 交换机与供电配件
@@ -233,7 +252,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | kontakt@tvprzemyslowa.pl / +48794724354 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Karol Nowak | Prezes zarządu（UNIFORCE sp. z o.o. = 普通合伙人）/ 创始人（2007-09-24 个体起）= **老板 = 联系人**；prokurent Jerzy Zdzisław Nowak（家族）→ 分销 20% + 自有标签 OEM 30% 可选（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://rejestr.io/krs/817374 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

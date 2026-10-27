@@ -75,6 +75,21 @@ updated: 2026-10-27
 
 - 法定假日：11-22 Alphabet Day；11-23 Alphabet Day (observed)；11-28 Flag and Independence Day；11-29 Liberation Day；11-30 Flag and Independence Day (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 90 批（AL · 1 次检索：companywall.al（NIPT L31626002T，2013-04-23 成立，Aktiv，股东 Artan Sota / Fatjon Luniku / Eduard Koka / Lorenc Sota；收入 73,543,847 ALL，支出 72,177,916，净利 576,306 ALL；f.luniku@arfanet.al）+ D&B（Key Principal Fatjon Luniku）+ 官网 / atp.al（酒店 / 住宅集中电视 SMATV 系统领先，2004 起，阿尔巴尼亚 + 科索沃；门锁 / 门禁 / 门铃 / 火警 / 报警）+ LinkedIn Luniku（Administrator & Shareholder 2013–；另有 Lex Travel、ARFA shpk 2005–2020）+ **pamfleti.net 2024-01-13 / prapaskena.com 2025-12-19：Luniku 因 IPTV 盗版（Tibo）+ 逃税案被捕，后获释**，2026-10-27 查；https://www.companywall.al/kompania/arfanet/MMGS0RnC）：**
+
+- 法定名 / 登记号：ARFANET SH.P.K.（ArfaNet-Systems；Tiranë, Albania） · NIPT L31626002T · 状态 **Aktiv（companywall）** · 成立 2013-04-23 · Sh.p.k.（4 名合伙人）
+- 行业码 / 经营范围：酒店 / 住宅 电视信号（地面 + 卫星 SMATV / IPTV）系统批发 + 零售 + 安装维护；门锁 / 门禁 / 门铃 / 火警 / 报警；阿尔巴尼亚 + 科索沃
+- 注册地址：Njësia Bashkiake nr.7, Rruga Muhedin Llagani, Ndërtesa 2, Nr.6, Tiranë
+- 规模档：微型 / 小型（估 5–10 人）
+- 账目：收入 73.5M ALL（≈ €0.73M）· 净利 0.58M ALL（companywall，年度未标）；AL 年报 07-31
+- 高管：Fatjon LUNIKU — Administrator & 股东（研究档 KP）
+- 高管：Artan SOTA / Lorenc SOTA / Eduard KOKA — 股东
+- 控制人 / 股东：4 合伙人
+- **这意味着什么：**
+  - **合规硬发现：管理人 Luniku 2024-01 因 IPTV 盗版 + 逃税案被捕（2025-12 报道已获释）—— 公司活着、营收 €0.7M 级，但这是「只做 100% 预付、不赊一分钱」的户** → 留档不主动追；来询则酒店 IPTV 配套 PoE（STC-228GP / STC-2024GP）分销 20%，100% 预付、FOB 深圳；信里绝不提案件
+  - 不说：案件 / 法律 / 税务 一字不提（话术禁区）
+- 备注：合规标注（内部）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,7 +140,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 阿尔巴尼亚 |
+| 法定名称 | ARFANET SH.P.K.（NIPT L31626002T；股东 Artan Sota / Fatjon Luniku / Eduard Koka / Lorenc Sota） |
+| 成立 | 2013-04-23（companywall.al）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Rruga Muhedin Llagani, Ndërtesa 2, Nr.6, Tiranë（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 估 5–10 人；收入 73.5M ALL（≈ €0.73M）· 净利 0.58M ALL（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 arfanet.al，语言 en，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：安防 / 酒店 / 电视信号 / 视频监控方案与分销

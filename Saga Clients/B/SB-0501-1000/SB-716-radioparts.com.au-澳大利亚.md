@@ -85,6 +85,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（AU · ABR 1 次检索「radio parts group」：ABN 95 006 098 719 Active（Entity Name RADIO PARTS PTY. LTD. + Trading Name RADIO PARTS GROUP，3003 VIC）；同址关联 RADIO PARTS SALES (AUST) PROPRIETARY LIMITED ABN 55 004 623 401（ACN 004… ≈ 1960 年代老壳），2026-10-27 查；https://abr.business.gov.au/ABN/View?abn=95006098719）：**
+
+- 法定名 / 登记号：RADIO PARTS PTY. LTD.（Trading Name RADIO PARTS GROUP；West Melbourne VIC） · ABN 95 006 098 719 · ACN 006 098 719（≈1982–83）；关联 ABN 55 004 623 401 · 状态 **Active（ABR 2026-10-27）** · 成立 ≈1982–83（ACN 段）；集团自述 1936 起 · Pty Ltd（家族集团；两实体同址）
+- 行业码 / 经营范围：电子元件 / 消费电子 / 安防 / 网络 贸易分销（墨尔本老牌，门店 + 网店 + 行业客户）
+- 注册地址：West Melbourne, VIC 3003
+- 规模档：中型（估 50–100 人）
+- 账目：—（私营 Pty Ltd 不公示）；AU 06-30
+- 高管：Daniel H — 研究档 KP（info@；职务待核）；董事 ABR 不公开
+- 控制人 / 股东：未取（ASIC 付费）
+- **这意味着什么：**
+  - **墨尔本 1936 年老牌电子分销（两实体同址 = 家族集团），网络 / 安防是其品类之一** → 写 info@ 请转 networking category buyer：分销 20%，RCM 由他们现有流程，PoE 4/8/16/24 + 2.5G 新品，MOQ 1 箱、首单 50/50；AU 周三 08–10（北京 06–08）
+  - 不再检索（ABR 已定位）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,7 +147,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
+| 法定名称 | RADIO PARTS PTY. LTD.（ABN 95 006 098 719；Trading Name RADIO PARTS GROUP；关联 RADIO PARTS SALES (AUST) PTY LTD ABN 55 004 623 401 同址） |
+| 成立 | ≈1982–83（ACN 006 098 719 段）；集团自述 1936（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | West Melbourne, VIC 3003（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 估 50–100 人（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 radioparts.com.au，语言 en，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：电子产品综合分销（AV / 音响 / 天线 / 电台 / CCTV / 家电）

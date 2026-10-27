@@ -63644,9 +63644,9 @@
 "names": [
 "4Demand Co"
 ],
-"country": "阿联酋",
-"iso": "AE",
-"region": "中东",
+"country": "英国",
+"iso": "GB",
+"region": "欧洲",
 "other_countries": [],
 "domains": [
 "4demand.co.uk"
@@ -64023,7 +64023,7 @@
 ],
 "grade_override": "B",
 "override_reason": "需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。",
-"notes": "WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。",
+"notes": "WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。 ｜ 国别更正为「英国」（country_fix）：研究档已核 4DEMAND LTD（Companies House 14564199，伦敦地址）；表内「阿联酋」来自 +971 联系人手机（Q-65 国别机检 2026-10-27）",
 "researched_at": "2026-10-21",
 "deep": {
 "done_at": "2026-10-21",
@@ -64130,8 +64130,10 @@
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "英国"
+},
+"country_table": "阿联酋"
 },
 {
 "name": "Telcam Fire&securoty Ltd",
@@ -85095,8 +85097,8 @@
 "name": "maxcomcorp.com",
 "name_src": "domain",
 "names": [],
-"country": "加拿大",
-"iso": "CA",
+"country": "美国",
+"iso": "US",
 "region": "北美",
 "other_countries": [],
 "domains": [
@@ -85467,7 +85469,7 @@
 ],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 国别更正为「美国」（country_fix）：第 89 批核实：Maxcom, Inc. 在加州 Fair Oaks（官网 / 名录 / 电话 916 区号），用户表「Canada 3.5.xlsx」第 37 行把它列进了加拿大名单（Q-65 国别机检 2026-10-27）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -85555,8 +85557,10 @@
 "body": "Hi Steve,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you sell under the Maxcom label next to your fibre transport range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "美国"
+},
+"country_table": "加拿大"
 },
 {
 "name": "mtechnology.it",
@@ -85905,7 +85909,7 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 mtechnology.it，语言 it，快照状态 ok；角色判定来源：用户表"
+"other": "官网 mtechnology.it，语言 it，快照状态 ok；角色判定来源：用户表；第 90 批检索同名多户（「M Technology srl」Olbia / Vinchiaturo 两家一人公司，均无法与 mtechnology.it 对上）→ 未能锁定，不写回登记（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业/极端环境视频监控系统",
@@ -99230,7 +99234,22 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Johann Sigurthorsson",
+"role": "联合创始人 / 业主（1997 与 David Askelsson 共创）= **老板 = 联系人**（icecom@）→ 集成 25%，工业 DIN PoE（-40℃）+ 微波站 PoE++（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://keldan.is/Fyrirtaeki/Yfirlit/5401022440"
+},
+{
+"name": "David Askelsson",
+"role": "联合创始人 / 业主 —— 抄送（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.icecom.is/index.php/english/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -99239,8 +99258,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "冰岛",
-"other": "官网 icecom.is，语言 is，快照状态 ok；角色判定来源：待核"
+"hq": "Lyngás 10, 210 Garðabær, Iceland（EEA，CE 即可）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 icecom.is，语言 is，快照状态 ok；角色判定来源：待核",
+"legal_name": "IceCom ehf.（kennitala 540102-2440，ehf 2002-01-14；旧 kt 570197-2239 = 1997 原主体）",
+"founded": "1997（原主体）/ 2002-01-14（ehf）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "估 5–15 人；keldan 最新年报 2020（之后未见 → 发信前看官网 / Facebook 是否仍活跃）（第 90 批 官方登记核实 2026-10-27）",
+"size": "微型 / 小型集成商（微波 / 网络 / 电视 / CCTV / 楼宇 / 消防）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "计算机与通信系统整体方案"
@@ -100370,8 +100393,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 intshop.pl，语言 fr-FR，快照状态 ok；角色判定来源：用户表"
+"hq": "ul. Bojkowska 22, 44-100 Gliwice（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 intshop.pl，语言 fr-FR，快照状态 ok；角色判定来源：用户表",
+"legal_name": "INTALL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ（品牌 noning / 网店 intshop.pl；NIP 6312679269 · REGON 380028515）",
+"founded": "2019（自述）（第 90 批 官方登记核实 2026-10-27）",
+"size": "微型（2–5 人；靠欧洲分销仓转卖）→ 低优先（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "网络产品网店 / 销售平台（波兰）"
@@ -129270,9 +129296,9 @@
 "name": "netram.de",
 "name_src": "domain",
 "names": [],
-"country": "未填",
-"iso": "??",
-"region": "未知",
+"country": "德国",
+"iso": "DE",
+"region": "欧洲",
 "other_countries": [],
 "domains": [
 "netram.de"
@@ -129421,7 +129447,7 @@
 ],
 "grade_override": "B",
 "override_reason": "Planet 渠道档案 PB-095 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「德国」（country_fix）：域名 netram.de + 研究档 hq Wuppertal + 法定名 Netram Memory GmbH；表内国别空（Q-65 国别机检 2026-10-27）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-095，W 批次调研 2026-10-19/20）"
@@ -129569,8 +129595,10 @@
 ],
 "draft_en": null,
 "as_of": "2026-10-25"
-}
-}
+},
+"country_fix": "德国"
+},
+"country_table": "未填"
 },
 {
 "name": "conexionderedes.com",
@@ -130287,8 +130315,8 @@
 "name": "fiberoptics4sale.com",
 "name_src": "domain",
 "names": [],
-"country": "加拿大",
-"iso": "CA",
+"country": "美国",
+"iso": "US",
 "region": "北美",
 "other_countries": [
 "美国"
@@ -130578,25 +130606,33 @@
 "kp": [
 {
 "name": "Grace（Fosco Sales）",
-"title": "Sales",
+"title": "Fosco Sales 接待（Grace）—— **公司在加州 Pleasanton，用户表「CA」= California 非加拿大 → country_fix 美国（FCC，无 ISED）**（第 90 批 官方登记核实 2026-10-27）",
 "email": "sales@fo4sale.com",
 "phone": "",
 "source": "gmail_a cb73165c3eeea9fa"
+},
+{
+"name": "Colin Yao",
+"role": "创始人 / 业主（官网 + BBB「Sales Manager」= 老板亲自管销售）= **老板 = 联系人** → 光口交换机分销 20%（STI-154GP / STC-110XGE / STI-288DGGPM），FOB 深圳（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.fiberoptics4sale.com/"
 }
 ],
 "grade_override": "B",
 "override_reason": "第 71 批(i)：北美主攻区 + 真人要价（2025-07-23）——C 不成立；按 B 慢慢跟进。表内「疑国内公司海外站」留作风险，不影响报价。",
-"notes": "由第 71 批(i)建档（Replied 标签 × 事实表无来信 复核）。",
+"notes": "由第 71 批(i)建档（Replied 标签 × 事实表无来信 复核）。 ｜ 国别更正为「美国」（country_fix）：Fiber Optics For Sale Co. 在加州 Pleasanton / Livermore（官网 / BBB），用户表「CA」= California 误作加拿大（第 90 批 / Q-65 2026-10-27）",
 "deep": {
 "done_at": "2026-10-24",
 "level": "邮件复核 · 未爬官网"
 },
 "company_facts": {
-"legal_name": "Fiber Optics For Sale Co.（待核）",
-"founded": "",
-"hq": "北美（表内 CA）",
-"size": "",
-"other": "fo4sale.com / foscoconnect.com 两域"
+"legal_name": "Fiber Optics For Sale Co.（FOSCO Connect；CA SoS 未查）",
+"founded": "2003-08-04（BBB；业务始于 2001）（第 90 批 官方登记核实 2026-10-27）",
+"hq": "269 Mavis Drive, Pleasanton, CA 94566（仓 Livermore）（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（光纤产品网售 + 分销）（第 90 批 官方登记核实 2026-10-27）",
+"other": "fo4sale.com / foscoconnect.com 两域",
+"staff": "11–50（LinkedIn）/ 12（BBB）；自述「multi-million dollar annual sales」（第 90 批 官方登记核实 2026-10-27）"
 },
 "channels": {
 "role": "线上零售 / 分销",
@@ -130688,8 +130724,10 @@
 "subject": "Re: 16 Port Ethernet Switch — the product line, pricing and website you asked for",
 "body": "Hi Grace,\n\nIn July last year you asked for our product line, pricing and website, and I answered with a link file. Here is the proper answer.\n\nWebsite: https://sagatele.com\n\nDIN-rail gigabit switches (industrial, DC 12–58 V, DIP switch, −40 to +75 °C, CE/FCC/RoHS), price per unit EXW:\n- STI-050GE, 5 x gigabit copper: $25 USD\n- STI-080GE, 8 x gigabit copper: $32.5 USD\n- STI-0160GE, 16 x gigabit copper: $100 USD\n- STI-244GP, 2 x SFP + 4 x gigabit PoE+ (120 W): $35 USD\nManaged versions, 24-port units and rack-mount commercial PoE switches are on the site. Lead time 3–5 working days, MOQ 1 pc, 15-day price validity, 3-year warranty on the industrial units, neutral or your-brand packaging.\n\nOne question: which of these would you consider listing first? I can send one or two units for your product photos and testing.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
 }
-}
-}
+},
+"country_fix": "美国"
+},
+"country_table": "加拿大"
 },
 {
 "name": "Infotec Comercio de Equipamentos e Sistemas de Segurança Ltda.",
@@ -170460,7 +170498,7 @@
 "kp": [
 {
 "name": "George Lu",
-"title": "Technical Support Specialist",
+"title": "推定业主 / 经理（LT SECURITY PTY LTD 2015–16；同邮编 Business Name「LTS Security Australia」）—— LTS = 美国 LT Security Inc. 白标安防品牌的澳洲分销，PoE 已在其品牌线 → 低优先，只打工业 DIN + 2.5G 空档（第 90 批 官方登记核实 2026-10-27）",
 "email": "george@ltsecurityinc.com.au",
 "phone": "",
 "source": "用户表"
@@ -170474,8 +170512,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 ltsecurityinc.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "Peakhurst / Riverwood, NSW 2210（悉尼南）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 ltsecurityinc.com.au，语言 en，快照状态 ok；角色判定来源：用户表",
+"legal_name": "LT SECURITY PTY LTD（ABN 18 609 932 309；Business Name LTS Security Australia ABN 33 845 781 939）",
+"founded": "≈2015–16（ACN 609 932 309 段）（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（估 5–15 人；LTS 品牌澳洲分销）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "安防分销（LTS CCTV / 对讲 / Ajax / KNX）",
@@ -180026,7 +180067,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Tobias Hübner",
+"role": "Geschäftsführer（2022-10 起；ex ESRA GmbH Prokurist；3 名股东之一 = 推定）= **老板 = 联系人** → **经营范围白纸黑字「摄像机 / NVR / UI 白标」= 在建自有安防品牌 → OEM 30%「frogfish」PoE 4/8/16/24 配 NVR**（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.northdata.de/frogfish%20surveillance%20GmbH,%20Reichenbach"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -180035,8 +180084,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 frogfish.de，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "Reichenbach im Vogtland, Sachsen（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 frogfish.de，语言 en，快照状态 ok；角色判定来源：用户表；**同名陷阱：Kleinmachnow 的 Frogfish&41 GmbH（HRB 34275 Potsdam）无关**（第 90 批 官方登记核实 2026-10-27）",
+"legal_name": "frogfish surveillance GmbH（Amtsgericht Chemnitz HRB 35309；EUID DEU1206.HRB35309；Friedensstraße 62, 08468 Reichenbach im Vogtland；登记笔误初名「froqfish」2022-10-25 更正）",
+"founded": "2022-10-14（Handelsregister）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "微型（估 3–10 人）；Stammkapital €25,000；3 股东（Northdata 网络：ESRA GmbH Reichenbach / Friedrich Strobel / Simon Strobel）（第 90 批 官方登记核实 2026-10-27）",
+"size": "微型（安防白标进口商）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "CCTV 摄像机 / 安防机器人（自有品牌 frogfish）",
@@ -186503,7 +186556,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Karol Nowak",
+"role": "Prezes zarządu（UNIFORCE sp. z o.o. = 普通合伙人）/ 创始人（2007-09-24 个体起）= **老板 = 联系人**；prokurent Jerzy Zdzisław Nowak（家族）→ 分销 20% + 自有标签 OEM 30% 可选（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://rejestr.io/krs/817374"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -186512,9 +186573,12 @@
 "level": "B 级加厚 v1（网店目录核对）"
 },
 "company_facts": {
-"legal_name": "TVprzemyslowa sp. z o.o. sp. k.（品牌 Uniforce TVprzemyslowa）",
-"hq": "ul. Kórnicka 30, 61-141 Poznań（另见 Bodawska 11, 61-309 Poznań）, Polska（+48 61 875 04 76；kontakt@tvprzemyslowa.pl）",
-"other": "网店类目：监控（Hikvision/Dahua/IDIS/Eneo/ATTE 等），含专门的「Switche POE Dahua」类目"
+"legal_name": "UNIFORCE TVPRZEMYSLOWA NOWAK SP.K.（原 TVprzemyslowa sp. z o.o. sp.k.；KRS 0000817374 · NIP 7822874326 · REGON 385013197）",
+"hq": "ul. Kórnicka 30, 61-141 Poznań（第 90 批 官方登记核实 2026-10-27）",
+"other": "网店类目：监控（Hikvision/Dahua/IDIS/Eneo/ATTE 等），含专门的「Switche POE Dahua」类目",
+"founded": "2019-12-05（KRS；业务自 2007-09-24）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "估 5–15 人（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（CCTV 批发 / 网店 Poznań）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "CCTV/IP 监控设备网店与分销",
@@ -187383,7 +187447,7 @@
 "kp": [
 {
 "name": "Fatjon Luniku",
-"title": "administrator",
+"title": "Administrator & 股东（2013–；另 Lex Travel、ARFA shpk 2005–2020）—— **合规标注（内部）：2024-01 因 IPTV 盗版 + 逃税案被捕，2025-12 报道已获释** → 留档不主动追；来询则 100% 预付、FOB 深圳；信里绝不提案件（第 90 批 官方登记核实 2026-10-27）",
 "email": "f.luniku@arfanet.al",
 "phone": "",
 "source": "用户表"
@@ -187397,8 +187461,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "阿尔巴尼亚",
-"other": "官网 arfanet.al，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "Rruga Muhedin Llagani, Ndërtesa 2, Nr.6, Tiranë（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 arfanet.al，语言 en，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "ARFANET SH.P.K.（NIPT L31626002T；股东 Artan Sota / Fatjon Luniku / Eduard Koka / Lorenc Sota）",
+"founded": "2013-04-23（companywall.al）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "估 5–10 人；收入 73.5M ALL（≈ €0.73M）· 净利 0.58M ALL（第 90 批 官方登记核实 2026-10-27）",
+"size": "微型 / 小型（酒店 SMATV / IPTV + 安防批发安装）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "安防 / 酒店 / 电视信号 / 视频监控方案与分销"
@@ -191419,14 +191487,16 @@
 "title": "General Manager e A.D.",
 "email": "info@dodicelettronica.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Direttore Generale / Key Principal（ufficiocamerale）= **决策人 = 联系人** → PoE 4/8/16/24 分销 20%；营收 €4.16M 但利润 €31.8k = 薄利 → 不做第二次让价（第 90 批 官方登记核实 2026-10-27）"
 },
 {
 "name": "Ivan Stazio",
 "title": "CFO",
 "email": "marketing@dodic.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "市场口（marketing@dodic.it；职务待核）—— 抄送（第 90 批 官方登记核实 2026-10-27）"
 }
 ],
 "grade_override": null,
@@ -191437,8 +191507,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "意大利",
-"other": "官网 dodicelettronica.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+"hq": "Via del Casale 13, 03100 Frosinone（总部 + 中央仓 1,500 m²）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 dodicelettronica.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "DODIC ELETTRONICA S.R.L.（Dodic Group；P.IVA / C.F. 01809930603 · REA FR-102942）",
+"founded": "1992-04-09（S.r.l.；业务自 1975）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "7–8 人正式员工 + 6 网点；营收 €4.16M（2025）· 利润 €31.8k（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型分销（中意安防 / 电子 6 分店）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "安防 / 防盗 / 视频监控 / 家居自动化分销（意大利）"
@@ -194416,8 +194490,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 metcom.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：用户表"
+"hq": "Şişli / İstanbul（Perpa）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 metcom.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：用户表；每个停车出入口 = 摄像机 + 道闸 + 户外机柜工业 PoE → 集成 25%，STI-054GP / STI-154GP（第 90 批 官方登记核实 2026-10-27）",
+"legal_name": "METCOM GÜVENLİK TEKNOLOJİLERİ A.Ş.（VKN 6190579359，Şişli；Perpa Ticaret Merkezi A Blok Kat:7-8 No:703-707）",
+"founded": "2017-01-04（vknsorgula；品牌可能更早）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "车牌识别 / 停车场系统集成 + 自有软件；İstanbul 总部 + Ankara / İzmir 网点（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（估 10–30 人）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "车牌识别 / 停车场系统 / 视频分析 / 摄像机配件"
@@ -195293,7 +195371,7 @@
 "kp": [
 {
 "name": "Ibrahim",
-"title": "（表内联系人）",
+"title": "姓氏 / 职务待核 —— 公司 = **伊斯坦布尔 1,500+ 经销商的安防总批发（100–200 人，$10–50M 级，与 Bimel 同量级）** → 请他转 ağ ürünleri ürün müdürü；分销 20% + 自有标签 OEM 30% 可选（第 90 批 官方登记核实 2026-10-27）",
 "email": "ibrahim@oncuguvenlik.com.tr",
 "phone": "",
 "source": "用户表"
@@ -195307,8 +195385,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 oncuguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"hq": "Kavacık Mah. FSM Cad. Yayabeyi Sk. No:8, 34810 Beykoz / İstanbul（整栋）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 oncuguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "ÖNCÜ GÜVENLİK SİSTEMLERİ A.Ş.（VKN 6560323830，Beykoz；现 A.Ş. 主体 2014-12-04）",
+"founded": "2002（业务）/ 2014-12-04（现 A.Ş.）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "51–200（LinkedIn）/ 100–200（signalhire）；1,500+ bayi；营收估 $10–50M（量级）（第 90 批 官方登记核实 2026-10-27）",
+"size": "中型（全国安防批发）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "安防/网络多品牌分销",
@@ -198769,7 +198851,7 @@
 "kp": [
 {
 "name": "İsmet Yavuz",
-"role": "Boss / 业主（用户表 + LinkedIn）",
+"role": "业主（LinkedIn「Viva Bilgisayar」；Defne / Hatay 一人电脑 + 安防店，推定 şahıs 个体）= **老板 = 联系人**；**同名陷阱：İstanbul 的 Viva Bilgisayar 非本户**（第 90 批 官方登记核实 2026-10-27）",
 "email": "is_ya@hotmail.com（公开 + 用户表）",
 "phone": "+90 544 649 11 42（公开，WhatsApp 已加）",
 "source": "https://www.linkedin.com/in/ismet-yavuz-608269100/"
@@ -198784,9 +198866,9 @@
 },
 "company_facts": {
 "legal_name": "Viva Bilgisayar Bilgisayar & Güvenlik Sistemleri",
-"founded": "2000（RocketReach）/ 2002（官网）",
-"hq": "Sümerler Mahallesi 16. Sk. No:16/3, Defne / Hatay（+90 544 649 11 42；info@vivabilgisayar.net）",
-"size": "1–10（Lusha）；4（RocketReach）",
+"founded": "未取（LinkedIn 2016 起有活动；Ticaret Sicil 未命中 = 推定个体户）（第 90 批 官方登记核实 2026-10-27）",
+"hq": "Sümerler Mah. 16. Sk. No:16/3, Defne / Hatay（2023 地震区）（第 90 批 官方登记核实 2026-10-27）",
+"size": "微型（业主 + 数人）（第 90 批 官方登记核实 2026-10-27）",
 "other": "Hikvision Hatay Silver Partner；Dahua；Haikon 区域经销"
 },
 "business_lines": [
@@ -207164,7 +207246,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Tomáš Pavlíček",
+"role": "Ing.；jednatel（2012-01-02 起，独立代表；ex UTC Fire & Security 捷克）= 推定业主 = **联系人** → CCTV PoE 分销 20%（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://or.justice.cz/ias/ui/rejstrik-$firma?ico=24202908"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -207173,8 +207263,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "捷克",
-"other": "官网 techfors.cz，语言 cz，快照状态 ok；角色判定来源：用户表"
+"hq": "Na staré vinici 395/7, Krč, 140 00 Praha 4（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 techfors.cz，语言 cz，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Techfors CZ s.r.o.（IČO 24202908；DIČ CZ24202908；OR Praha C 188256）",
+"founded": "2012-01-02（Obchodní rejstřík）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "估 5–15 人（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（安防 / 弱电分销 + 集成）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "CCTV / 安防分销（IFS 等）"
@@ -217661,14 +217755,16 @@
 "title": "Product Management, VP",
 "email": "sales@amer.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "VP Product Management（ex D-Link Canada；RocketReach）= 产品选型人 = **写他**（Lee 家族二代）（第 90 批 官方登记核实 2026-10-27）"
 },
 {
 "name": "Wai Lee",
 "title": "CEO",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "CEO / 创始人（1997；Crunchbase）—— **自有品牌 Amer Networks（交换机 / PoE / 光模块）= OEM 品牌商 = 首选目标 → OEM 30% Amer 标**（第 90 批 官方登记核实 2026-10-27）"
 }
 ],
 "grade_override": null,
@@ -217679,8 +217775,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "加拿大",
-"other": "官网 amer.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "3620B Laird Road Unit 4, Mississauga, ON L5L 6A9（+ Clearwater FL 美国仓）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 amer.com，语言 en-US，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Amer Networks（Amer.com；Mississauga ON + Clearwater FL；安省登记 JS-only、FL Sunbiz 未命中）",
+"founded": "1997（LinkedIn / 新闻稿）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "11–50（LinkedIn）；第三方估数百万美元（量级）（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（自有品牌网络设备商）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "交换机 / MC / PoE 注入器 / AP（自有品牌 Amer）",
@@ -225116,14 +225216,14 @@
 "kp": [
 {
 "name": "Alexander Cheskis",
-"title": "（表内联系人）",
+"title": "联合创始人 / CEO（市场 + 销售；前身 Niram Systems 2008/09）= **老板 = 联系人**；公司 = **Marvell ROS / SONiC 交换机 NOS 软件商** → 卖 Marvell L2+/L3 + CENTEC 做硬件平台，OEM 30% / CENTEC ≥35%，商用 / DC / 工业 only（第 90 批 官方登记核实 2026-10-27）",
 "email": "alexander@larch-networks.com",
 "phone": "",
 "source": "用户表"
 },
 {
 "name": "Andrey Zarudniy",
-"title": "（表内联系人）",
+"title": "研究档 KP（职务待核；工程口）（第 90 批 官方登记核实 2026-10-27）",
 "email": "azarudniy@larch-networks.com",
 "phone": "",
 "source": "用户表"
@@ -225134,6 +225234,13 @@
 "email": "oksana@larch-networks.com",
 "phone": "",
 "source": "S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补）"
+},
+{
+"name": "Eddie Preskovsky",
+"role": "联合创始人（Tracxn 记为 co-CEO）—— 抄送（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.larch-networks.com/"
 }
 ],
 "grade_override": null,
@@ -225144,8 +225251,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "以色列",
-"other": "官网 larch-networks.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "Rosh HaAyin, Central District, Israel（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 larch-networks.com，语言 en-US，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "Larch Networks Ltd.（原 Niram Systems；ח.פ. 未取 —— 下轮 israeli-companies 按名查）",
+"founded": "2008/2009（前身 Niram Systems）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "11–50（LinkedIn）；开发办公室 Kyiv（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（交换机 NOS / 嵌入式网络软件）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "定制网络软件 / 硬件开发（SONiC）",
@@ -227267,7 +227378,7 @@
 "kp": [
 {
 "name": "Denise Shay",
-"title": "（表内联系人，职务待核）",
+"title": "销售口（职务待核）—— 公司 = **纽约长岛 1990 年起的光纤传输设备制造商（同名陷阱：Jacksonville 的 Meridian Technologies 人力公司无关）** → OEM 30% 配套交换机 / 20% 分销（第 90 批 官方登记核实 2026-10-27）",
 "email": "dshay@meridian-tech.com",
 "phone": "",
 "source": "用户表"
@@ -227281,8 +227392,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 meridian-tech.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+"hq": "Elmont, NY 11003（长岛）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 meridian-tech.com，语言 ?，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Meridian Technologies, Inc.（NY DOS 检索 JS-only）",
+"founded": "1990（LinkedIn）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "11–50（LinkedIn）（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型制造商（光纤视频 / 数据传输）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光纤传输系统（自有品牌 Meridian：VC / 工业 FS / MC）"
@@ -235259,8 +235374,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "加拿大",
-"other": "官网 canacctv.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "Unit B135-6286 203 Street, Langley, BC V2Y 3S1（运营 Surrey）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 canacctv.com，语言 en-US，快照状态 ok；角色判定来源：用户表；微型 CCTV 网店 → 分销 20% 一封 admin@，无回即停（第 90 批 官方登记核实 2026-10-27）",
+"legal_name": "Canacctv（网店；法人名未取 —— BC Registry 付费 / JS）",
+"size": "微型（估 1–5 人）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "视频监控设备网店（加拿大）"
@@ -237157,7 +237274,7 @@
 "kp": [
 {
 "name": "（姓名未记录；Eskişehir 办公室）",
-"role": "ISP 技术/采购（待核）",
+"role": "Eskişehir 分部信箱（.com 已死 → **公司活着，官网 / 邮箱在 hiperonline.com.tr**；Q-64 死域名单移出）—— 下一封写 info@ / teknik@ @hiperonline.com.tr 问 Teknik Müdür（第 90 批 官方登记核实 2026-10-27）",
 "email": "eskisehir@hiperonline.com（用户表）",
 "phone": "0850 840 98 83（公司）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -237171,10 +237288,12 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Hiperonline İletişim Hizmetleri Sanayi Ticaret Limited Şirketi",
-"hq": "Eskişehir（0850 840 98 83）",
-"size": "区域 ISP（规模待核）",
-"other": "自建光纤 + airfiber 无线；Metro Ethernet 10 Gbps；全国 81 省转售"
+"legal_name": "HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ（Vergi No 3330751186，Gaziemir / İzmir；AS216192，自有 IP 1,536 个）",
+"hq": "İzmir（总部）+ Eskişehir 分部（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型 ISP（第 90 批 官方登记核实 2026-10-27）",
+"other": "自建光纤 + airfiber 无线；Metro Ethernet 10 Gbps；全国 81 省转售",
+"founded": "2014（官网）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "小型 ISP（估 10–30 人；数千用户级）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "住宅/企业宽带（光纤、VDSL、无线）",
@@ -241190,7 +241309,8 @@
 "title": "Vice President of Product and Engineering",
 "email": "sales@petawise.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "VP Product & Engineering（2022–）—— **LinkedIn 现挂 Genetec → 可能已离职**；下一封写 sales@ 问「current product lead」，不再指名（第 90 批 官方登记核实 2026-10-27）"
 },
 {
 "name": "John K",
@@ -241205,6 +241325,13 @@
 "email": "",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Dexter Liu",
+"role": "VP Operation（LinkedIn）—— Petawise = **Uniview 加拿大独家**（整线成品）→ 只打其空档：工业 DIN / 2.5G–10G PoE++，分销 20%（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.petawise.com/"
 }
 ],
 "grade_override": null,
@@ -241215,8 +241342,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 petawise.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "1040 Martin Grove Rd Unit 9, Toronto (Etobicoke), ON M9W 4W4（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 petawise.com，语言 en-US，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Petawise Inc.（Petawise Technologies；安省登记 JS-only）",
+"founded": "2014/2015（第 90 批 官方登记核实 2026-10-27）",
+"staff": "11–50（LinkedIn）/ 8（RocketReach）；ZoomInfo 估 $5.3M（量级）（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（Uniview 加拿大独家分销）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "IP 视频监控分销（Uniview 加拿大）",
@@ -242894,8 +243025,8 @@
 "name": "teamac-arabia.com",
 "name_src": "domain",
 "names": [],
-"country": "阿联酋",
-"iso": "AE",
+"country": "沙特阿拉伯",
+"iso": "SA",
 "region": "中东",
 "other_countries": [],
 "domains": [
@@ -243045,7 +243176,7 @@
 ],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5） ｜ 国别更正为「沙特阿拉伯」（country_fix）：域名 teamac-arabia.com + 电话 +966 530708118（沙特国家码）；表内阿联酋（Q-65 国别机检 2026-10-27）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -243118,8 +243249,10 @@
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "沙特阿拉伯"
+},
+"country_table": "阿联酋"
 },
 {
 "name": "tinycontrol.pl",
@@ -244165,8 +244298,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "哈萨克斯坦",
-"other": "官网 volokno.kz，语言 ru，快照状态 ok；角色判定来源：官网文案"
+"hq": "050027, г. Алматы, Наурызбайский район, мкр. Калкаман-2（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 volokno.kz，语言 ru，快照状态 ok；角色判定来源：官网文案；俄语信：光口交换机分销 20%，EAC 他们；Almaty 北京 13–15 发（第 90 批 官方登记核实 2026-10-27）",
+"legal_name": "ТОО «Альянс»（Торгово-производственная компания «АЛЬЯНС»；volokno.kz；БИН 未取 —— **同名陷阱：ТОО «Volokno KZ» БИН 230240037181（2023 安装商）非本户**）",
+"founded": "1999-03-10（官网）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "估 10–30 人（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（光缆 / 光纤配件贸易 1999）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光缆 / 架空线金具 / 电信设备贸易"
@@ -266386,7 +266523,7 @@
 "kp": [
 {
 "name": "Bayram Tatlı",
-"role": "Project Manager（用户表名片）",
+"role": "推定业主 / 经理（职务未核；Antalya Muratpaşa 酒店 / 住宅 弱电集成商，法定类型未取）—— 24 口 PoE 酒店场景写他（第 90 批 官方登记核实 2026-10-27）",
 "email": "bayram@norteliletisim.com（用户表）",
 "phone": "+90 530 136 94 07（用户表，WhatsApp 已加）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -266401,8 +266538,8 @@
 },
 "company_facts": {
 "legal_name": "Nortel İletişim",
-"hq": "Varlık Mah. Piri Reis Cad. M.Bingöl Apt. No:19/B Muratpaşa / Antalya；Yükseliş Mah. 2116 Sk. 26/A Kepez / Antalya（+90 242 237 27 27；info@norteliletisim.com）",
-"size": "小型集成商（人数待核）",
+"hq": "Varlık Mah. Piri Reis Cad. No:19/B, Muratpaşa / Antalya（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（估 5–15 人）（第 90 批 官方登记核实 2026-10-27）",
 "other": "Avaya 电话系统 + 布线 + 光纤 + CCTV；守界：火灾探测主系统不供"
 },
 "business_lines": [
@@ -276843,9 +276980,9 @@
 "name": "b.medvedev11@mail.ru",
 "name_src": "email",
 "names": [],
-"country": "沙特阿拉伯",
-"iso": "SA",
-"region": "中东",
+"country": "吉尔吉斯斯坦",
+"iso": "KG",
+"region": "俄语区",
 "other_countries": [],
 "domains": [],
 "urls": [],
@@ -277261,7 +277398,7 @@
 ],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「吉尔吉斯斯坦」（country_fix）：唯一身份 = WhatsApp +996 555 772975（吉尔吉斯国家码，长度相符）；研究档 hq 已按 +996 推断（Q-65 国别机检 2026-10-27）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "无域名 · 仅表内信息（国家待核 KG）"
@@ -277366,8 +277503,10 @@
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "吉尔吉斯斯坦"
+},
+"country_table": "沙特阿拉伯"
 },
 {
 "name": "cetsingapore.com",
@@ -280929,10 +281068,17 @@
 "kp": [
 {
 "name": "Pav Arneja",
-"title": "General Manager",
+"title": "General Manager（2013–；管销售与运营；CEO = 父 A.P. Singh Arneja）= **本地决策人 = 联系人**；**公司 2021 起属瑞典 Hexatronic Group，但仍由 Arneja 父子经营 → 采购权在墨尔本**；信里不提并购（第 90 批 官方登记核实 2026-10-27）",
 "email": "sales@fibreoptic.com.au",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "A.P. Singh Arneja",
+"role": "CEO / 创始人（2000）—— 抄送（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.fibreoptic.com.au/career"
 }
 ],
 "grade_override": null,
@@ -280943,8 +281089,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 fibreoptic.com.au，语言 en-au，快照状态 ok；角色判定来源：用户表"
+"hq": "25 Gilbert Park Drive, Knoxfield, VIC 3180（墨尔本东南）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 fibreoptic.com.au，语言 en-au，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Fibre Optic Systems Pty Ltd（FOS；ABN 未取；2021 起 Hexatronic Group AB 子公司）",
+"founded": "2000（第 90 批 官方登记核实 2026-10-27）",
+"staff": "11–50（23）；第三方估 $24M（量级）；内销经理 Jaideep Singh（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型 / 中型（光纤 / 铜缆产品制造 + 分销）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光纤 / 铜缆方案制造（自有品牌 FOS）"
@@ -293891,8 +294041,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "俄罗斯",
-"other": "官网 htvision.ru，语言 ?，快照状态 http_error；角色判定来源：用户表"
+"hq": "г. Москва, Сигнальный проезд, 16с2（注册地 Тюмень；分部 Братск）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 htvision.ru，语言 ?，快照状态 http_error；角色判定来源：用户表；俄语信 OEM 30% HTV 标，CNY 预付，EAC 他们（第 90 批 官方登记核实 2026-10-27）",
+"legal_name": "ООО «АгатСБ.ру»（品牌 HTV / Hi-Tech Vision；ИНН 7204152580 · ОГРН 1107232010808）",
+"founded": "2010（ОГРН 110…；秋明注册）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "估 10–30 人（下轮 rusprofile 按 ИНН 取）（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（**自有品牌 HTV 含 PoE 交换机 = OEM 品牌商**）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "CCTV / PoE（自有品牌 HTVision，俄罗斯）"
@@ -293974,8 +294128,8 @@
 "name": "infinitecables.com",
 "name_src": "domain",
 "names": [],
-"country": "美国",
-"iso": "US",
+"country": "加拿大",
+"iso": "CA",
 "region": "北美",
 "other_countries": [],
 "domains": [
@@ -294274,7 +294428,7 @@
 "kp": [
 {
 "name": "Augustin Liu",
-"title": "Supervisor",
+"title": "采购 / 销售口（职务待核）—— **公司在安省 Markham（加拿大），用户表国别 US 误 → country_fix 加拿大；DBA Phantom Cables = 自有品牌 → OEM 30%「Phantom」PoE，FCC + ISED**（第 90 批 官方登记核实 2026-10-27）",
 "email": "sales@infinitecables.com",
 "phone": "",
 "source": "用户表"
@@ -294285,18 +294439,29 @@
 "email": "",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "George Arvanitopoulos",
+"role": "董事 / 主要负责人（Corporations Canada 6482929 + D&B）= 老板；联名董事 Chris Michael Frangos —— 抄送（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://opengovca.com/corporation/6482929"
 }
 ],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 国别更正为「加拿大」（country_fix）：Infinite Cables Inc. 为 Corporations Canada 联邦公司 6482929，地址 Markham ON；用户表记美国（第 90 批 / Q-65 2026-10-27）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 infinitecables.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "3993 14th Avenue, Markham, ON L3R 4Z6（多伦多东北）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 infinitecables.com，语言 en，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Infinite Cables Inc.（Corporations Canada 6482929；BN 813852142RC0001；DBA Phantom Cables）",
+"founded": "2006-01-01（联邦；业务始于 2003）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "11–50（LinkedIn；RocketReach 32）；62,000 sq ft 办公 + 仓 = 千万加元级（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型 / 中型（线缆 + 网络配件自有品牌分销）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "线缆 / 光纤 / UPS 电池 / 安防摄像机网店"
@@ -294373,8 +294538,10 @@
 "body": "Hi Augustin,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $80.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "加拿大"
+},
+"country_table": "美国"
 },
 {
 "name": "ipcomm.de",
@@ -295170,8 +295337,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 jdktech.com.au，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "Regents Park / Birrong, NSW 2143（悉尼西）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 jdktech.com.au，语言 en，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "JDK TECHNOLOGIES PTY. LTD.（ABN 47 601 677 329）",
+"founded": "≈2014（ACN 601 677 329 段）（第 90 批 官方登记核实 2026-10-27）",
+"size": "微型 / 小型（IT / 安防贸易）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业网关 / 路由器 / PoE 交换机 / IoT 传感器（自有品牌 JDK）"
@@ -315562,7 +315732,7 @@
 "kp": [
 {
 "name": "Abiel Abuy",
-"title": "Procurement & Logistics",
+"title": "研究档收件人（波兰分部 / 采购口；职务待核）—— 公司 = **OPTOKON a.s. 捷克 Jihlava 光纤制造商（Štefl 家族；军用线 = PASS），optokon.pl = 波兰分部** → 商用 / 工业 OEM 30%，**明说不做 MIL-STD**，抄 George Štefl（第 90 批 官方登记核实 2026-10-27）",
 "email": "pytlak@optokon.com",
 "phone": "",
 "source": "用户表"
@@ -315573,6 +315743,13 @@
 "email": "",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "George Štefl",
+"role": "Group Manager & Head of Marketing（二代；兼 OptoNet Communication jednatel）；实控人 = 父 Ing. Jiří Štefl（1993 起 jednatel，2021 správní rada）（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://or.justice.cz/ias/ui/rejstrik-$firma?ico=13692283"
 }
 ],
 "grade_override": null,
@@ -315583,8 +315760,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 optokon.pl，语言 pl，快照状态 ok；角色判定来源：用户表"
+"hq": "Jihlava, Czech Republic（波兰：Świebodzice 一带分部）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 optokon.pl，语言 pl，快照状态 ok；角色判定来源：用户表",
+"legal_name": "OPTOKON, a.s.（IČO 13692283；DIČ CZ13692283；Červený Kříž 250, 586 01 Jihlava；波兰分部 OPTOKON Zakład Światłowodowy —— 用户表国别 PL 保留 = 收件人所在分部）",
+"founded": "1991-01-16（s.r.o.；2014-08-30 起 a.s.）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "估 100–250 人；多国子公司 + 13 个在招岗位（第 90 批 官方登记核实 2026-10-27）",
+"size": "中型制造商（光纤连接 / 军用加固）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光缆 / 光纤配件 / 测试仪制造",
@@ -322916,8 +323097,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "哈萨克斯坦",
-"other": "官网 intant.kz，语言 ru，快照状态 ok；角色判定来源：官网文案"
+"hq": "г. Алматы, ул. Байзакова, 60（旧址 ул. Муратбаева 61）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 intant.kz，语言 ru，快照状态 ok；角色判定来源：官网文案；俄语信：Marvell 管理型 / 工业 / 10G 空档分销 20%；**信里不提 HiLook / Tenda**（第 90 批 官方登记核实 2026-10-27）",
+"legal_name": "ТОО «Торговый Дом INTANT»（БИН 未取）",
+"founded": "2005（官网）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "6 城分部；估 50–150 人；**安防总分销（HiLook 全国）**（第 90 批 官方登记核实 2026-10-27）",
+"size": "中型（哈萨克斯坦安防主分销商）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "视频监控 / 安防 / 门禁 / 消防系统（哈萨克斯坦）"
@@ -344202,8 +344387,8 @@
 ],
 "kp": [
 {
-"name": "Rıfat Bende（官网社媒：Rıfat Yıldız，待核）",
-"role": "业主（推测）",
+"name": "Rıfat Yıldız",
+"role": "业主（官网 sameAs 指向其个人 X 账号；研究档原记「Rıfat Bende」为误读）= **老板 = 联系人**；İnegöl / Bursa 两店 + 安装队（第 90 批 官方登记核实 2026-10-27）",
 "email": "info@teknoktadestek.com（公开）",
 "phone": "+90 532 315 72 58（公开，WhatsApp 已加）",
 "source": "https://teknoktadestek.com/index.php?route=information%2Fcontact"
@@ -344218,8 +344403,8 @@
 },
 "company_facts": {
 "legal_name": "Tek Nokta Destek Güvenlik Sistemleri",
-"hq": "Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（+90 224 719 08 00；GSM +90 532 315 72 58；info@teknoktadestek.com）",
-"size": "小型（本地 + 网店）",
+"hq": "Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（第 90 批 官方登记核实 2026-10-27）",
+"size": "微型 / 小型（两店 + 安装队；估 5–10 人；推定 şahıs）（第 90 批 官方登记核实 2026-10-27）",
 "other": "11 个品牌、500+ 产品的网店；İnegöl = 家具产业城（工厂 CCTV 需求）"
 },
 "business_lines": [
@@ -344697,7 +344882,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Murat Köksal",
+"role": "Network and Security Solutions Director（Ankara；LinkedIn）= 技术决策人 → 写他：数据中心 10G/25G/100G（STH CENTEC）配其 Packet Broker / TAP 卖，分销 20% / OEM 30%；**守界：不做 bypass 交换机**（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.teslakom.com/kurumsal"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -344706,8 +344899,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 teslakom.com，语言 tr-TR，快照状态 ok；角色判定来源：官网文案"
+"hq": "Koçman Cd. 54 Demirkol Plaza C Blok Kat:2, Bağcılar / İstanbul（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 teslakom.com，语言 tr-TR，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "TESLAKOM BİLİŞİM VE TELEKOMÜNİKASYON A.Ş.（İstanbul Bağcılar Demirkol Plaza + Ankara Bilkent Cyberpark）",
+"founded": "2013（官网）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "12 人（contactout）/ 11–50；Niagara Networks（Packet Broker / Bypass / TAP）+ Celerway SD-WAN + Viprinet 土耳其分销 + 托管服务（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型增值分销商（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "网络 / 工业网络 / 网络安全方案与咨询"
@@ -348727,10 +348924,17 @@
 "kp": [
 {
 "name": "Marcus King",
-"title": "Director",
+"title": "Assistant Manager（2012–；MD Stuart Malcolm King 之子 = 二代）= **联系人**；公司 = **堪培拉自有品牌网络配件商（CCD 牌媒体转换器 / SFP / 交换机，客户含联邦政府供应链）= 现成 OEM 买家 → OEM 30% CCD 标** PoE / 光口；新域 ccd.au（第 90 批 官方登记核实 2026-10-27）",
 "email": "mk@ccdact.com",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Stuart Malcolm King",
+"role": "Managing Director / 业主（2003–；D&B Key Principal）—— 抄送（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://abr.business.gov.au/ABN/View?abn=22134085644"
 }
 ],
 "grade_override": null,
@@ -348741,8 +348945,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 ccdact.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "Unit 4, 10 Maryborough Street, Fyshwick, ACT 2609（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 ccdact.com.au，语言 en，快照状态 ok；角色判定来源：用户表",
+"legal_name": "CCD NETWORKING PTY. LTD.（ABN 22 134 085 644；DBA OMEO CANBERRA）",
+"founded": "2008（自述；ACN 134 085 644 段相符）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "3–10 人；第三方估 $4.4M（量级）（第 90 批 官方登记核实 2026-10-27）",
+"size": "微型（自有品牌网络配件进口 + 制造 + 分销）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "MC / SFP / 网线（自有品牌 CCD）"
@@ -353214,8 +353422,8 @@
 ],
 "kp": [
 {
-"name": "Daniel",
-"title": "（职务待核）",
+"name": "Daniel Zaichik",
+"title": "CEO / 创始人（2016；RocketReach）= **老板 = 联系人** → 工业 DIN PoE 分销 20%；**守界：国防项目 PASS**（第 90 批 官方登记核实 2026-10-27）",
 "email": "daniel@madalix.co.il",
 "phone": "",
 "source": "用户表"
@@ -353229,8 +353437,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "以色列",
-"other": "官网 madalix.co.il，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "Tel Aviv District, Israel（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 madalix.co.il，语言 en，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "MADALIX（ח.פ. 未取）",
+"founded": "2016（RocketReach）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "微型（≈3 人）（第 90 批 官方登记核实 2026-10-27）",
+"size": "微型 VAR（工业 / 加固计算）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业计算 / 显示方案分销（以色列）"
@@ -354883,7 +355095,7 @@
 "kp": [
 {
 "name": "Daniel H",
-"title": "Purchasing",
+"title": "总信箱接待（Daniel H；职务待核）—— 公司 = 墨尔本 1936 年老牌电子分销（两实体同址 = 家族集团）→ 请转 networking category buyer，分销 20%（第 90 批 官方登记核实 2026-10-27）",
 "email": "info@radioparts.com.au",
 "phone": "",
 "source": "用户表"
@@ -354897,8 +355109,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 radioparts.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "West Melbourne, VIC 3003（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 radioparts.com.au，语言 en，快照状态 ok；角色判定来源：用户表",
+"legal_name": "RADIO PARTS PTY. LTD.（ABN 95 006 098 719；Trading Name RADIO PARTS GROUP；关联 RADIO PARTS SALES (AUST) PTY LTD ABN 55 004 623 401 同址）",
+"founded": "≈1982–83（ACN 006 098 719 段）；集团自述 1936（第 90 批 官方登记核实 2026-10-27）",
+"staff": "估 50–100 人（第 90 批 官方登记核实 2026-10-27）",
+"size": "中型（电子 / 安防 / 网络分销，门店 + 网店）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电子产品综合分销（AV / 音响 / 天线 / 电台 / CCTV / 家电）"
@@ -357414,9 +357630,9 @@
 "names": [
 "Elektronik LTD"
 ],
-"country": "土耳其",
-"iso": "TR",
-"region": "土耳其",
+"country": "保加利亚",
+"iso": "BG",
+"region": "欧洲",
 "other_countries": [],
 "domains": [],
 "urls": [],
@@ -357560,7 +357776,7 @@
 ],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「保加利亚」（country_fix）：唯一身份 = WhatsApp +359 878 684007（保加利亚国家码）+ 人名 Toshko Todorov（保加利亚式）；ISAF 展会在伊斯坦布尔 → 表内误记土耳其（Q-65 国别机检 2026-10-27）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "无域名 · 仅表内信息"
@@ -357636,8 +357852,10 @@
 "body": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $34.6, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?"
 },
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "保加利亚"
+},
+"country_table": "土耳其"
 },
 {
 "name": "Elettronica E Sicurezza",
@@ -360711,8 +360929,8 @@
 "name": "Steve",
 "name_src": "person",
 "names": [],
-"country": "印度尼西亚",
-"iso": "ID",
+"country": "菲律宾",
+"iso": "PH",
 "region": "亚太",
 "other_countries": [],
 "domains": [],
@@ -360883,7 +361101,7 @@
 ],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「菲律宾」（country_fix）：唯一身份 = WhatsApp +63 917 8552172（菲律宾国家码）；表内印尼 = 展会名单归类错（Q-65 国别机检 2026-10-27）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "无域名 · 仅表内信息"
@@ -360952,8 +361170,10 @@
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "菲律宾"
+},
+"country_table": "印度尼西亚"
 },
 {
 "name": "Sun Energy Enterprise Sdn Bhd",
@@ -375457,9 +375677,9 @@
 "name": "lanprosa.com",
 "name_src": "domain",
 "names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
+"country": "哥斯达黎加",
+"iso": "CR",
+"region": "拉美",
 "other_countries": [],
 "domains": [
 "lanprosa.com"
@@ -375802,7 +376022,7 @@
 "kp": [
 {
 "name": "Samanta Navarro",
-"title": "（表内联系人）",
+"title": "市场口（职务待核）—— **公司在哥斯达黎加 San José（Ruijie 等品牌经销商），用户表国别 US 误 → country_fix 哥斯达黎加**；与迈阿密 LanPro（SB-913）同名未证实关联（第 90 批 官方登记核实 2026-10-27）",
 "email": "mercadeo@lanprosa.com",
 "phone": "",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -375810,17 +376030,18 @@
 ],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「哥斯达黎加」（country_fix）：Lanprosa S.A. 为哥斯达黎加圣何塞公司（官网 / LinkedIn / CPIC），用户表记美国（第 90 批 / Q-65 2026-10-27）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Lanprosa（待核）",
-"founded": "",
-"hq": "（美国 / 拉美，待核）",
-"size": "中小型经销",
-"other": "西语运营"
+"legal_name": "Lanprosa S.A.（Registro Nacional 付费未取）",
+"founded": "2003（contactout；自述 20 年经验）（第 90 批 官方登记核实 2026-10-27）",
+"hq": "Calle Blancos, San Francisco de Goicoechea, San José 11502, Costa Rica（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（网络 / 安防分销 + 集成）（第 90 批 官方登记核实 2026-10-27）",
+"other": "西语运营",
+"staff": "11–50（LinkedIn）/ 22（RocketReach）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "CCTV / 网络经销"
@@ -375882,8 +376103,10 @@
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "哥斯达黎加"
+},
+"country_table": "美国"
 },
 {
 "name": "mencom.com",
@@ -376769,8 +376992,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 microseven.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+"hq": "404 S Lemon Ave Ste 9, Walnut, CA 91789（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 microseven.com，语言 ?，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Microseven Systems, LLC（CA SoS 未查）",
+"founded": "2001（官网）/ 2003（LinkedIn）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "微型（1–9 人；创始人 James Cao）；Thomasnet 估 <$1M（第 90 批 官方登记核实 2026-10-27）",
+"size": "微型（IP 摄像机 + 流媒体）→ 不追（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "PoE / Wi-Fi 安防摄像机网店",
@@ -400840,7 +401067,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Brent Koziol",
+"role": "业主 / 经营者（1998 加入，父 Joe 退休后接班；与妻 Nonette 共同持有；Red Deer 1977 老店）= **老板 = 联系人**（sales@kohen.ca 转）→ STI 工业 DIN PoE 分销 20%（第 90 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.kohen.ca/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -400849,8 +401084,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "加拿大",
-"other": "官网 kohen.ca，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "6022 67A Street, Red Deer, AB T4P 3E8（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 kohen.ca，语言 en，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "Ko-Hen Electronics Supply Ltd.（Alberta 公司登记付费未取）",
+"founded": "1977（官网）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "估 10–20 人；3,840 sq ft 店面 + 库房（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（电子元件 / 工业物料零售批发）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电子元件分销（油气 / 自动化 / 网络）"
@@ -403057,8 +403296,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "加拿大",
-"other": "官网 rollan.ca，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "1288 Rue Saint-Antoine O #1502, Montréal, QC H3C 0X6（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 rollan.ca，语言 en，快照状态 ok；角色判定来源：用户表",
+"legal_name": "Rollan Tech Inc.（RollanTech Corporation；Québec REQ 未查）",
+"size": "微型（名录 ~1 人）→ 不追（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "IT / 电信 / 绿色能源 / 工业方案（加拿大）"
@@ -409129,7 +409370,7 @@
 },
 "company_facts": {
 "hq": "俄罗斯",
-"other": "官网 cmd-sec.ru，语言 ?，快照状态 unreachable；角色判定来源：用户表"
+"other": "官网 cmd-sec.ru，语言 ?，快照状态 unreachable；角色判定来源：用户表；第 90 批检索未命中（cmd-sec.ru：1 次检索仅泛化结果，无法定名 / ИНН）→ 留待 ИНН 线索（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "安防 / PoE（自有型号，俄罗斯）"
@@ -425761,7 +426002,7 @@
 "kp": [
 {
 "name": "Trinidad Ledezma",
-"title": "Analista en Marketing Online",
+"title": "官网公开 DM 地址（非私人邮箱）的接待人 —— 公司 = **LanPro® 自有品牌网络设备商（1997 品牌，Doral FL 2003 法人，拉美出口）= OEM 品牌商 → OEM 30% LanPro 标**（第 90 批 官方登记核实 2026-10-27）",
 "email": "asktolanpro@gmail.com",
 "phone": "",
 "source": "用户表"
@@ -425775,8 +426016,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 lanpro.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"hq": "1880 NW 93rd Ave, Doral, FL 33172（迈阿密机场工业区）（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 lanpro.com，语言 ?，快照状态 ok；角色判定来源：官网文案；与哥斯达黎加 Lanprosa（SB-771）同名但未证实关联，不合并（第 90 批 官方登记核实 2026-10-27）",
+"legal_name": "LanPro Networks Inc.（原 LanPro of Miami, Inc.；FL Document P03000135286；FEI 20-3029519）",
+"founded": "2003-11-19（FL Sunbiz；品牌 LanPro® 自 1997）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "5–10（Cortera）/ 11–50（LinkedIn）；Cortera 估销售 $5–10M（第 90 批 官方登记核实 2026-10-27）",
+"size": "小型（自有品牌出口商）（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "网络组件（铜缆 / 光纤 / 无线 / 有源，自有品牌 LanPro）"
@@ -458005,8 +458250,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 accuratetechnologies.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "26999 Meadowbrook Rd, Novi, MI 48377（第 90 批 官方登记核实 2026-10-27）",
+"other": "官网 accuratetechnologies.com，语言 en-US，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "Accurate Technologies Inc.（ATI；MI LARA 未查）",
+"founded": "1992-02-04（Bloomberg）（第 90 批 官方登记核实 2026-10-27）",
+"staff": "51–200（LinkedIn）；7 国子公司（第 90 批 官方登记核实 2026-10-27）",
+"size": "中型（汽车测试 / 标定工具制造商；客户含国防）→ **守界 + 非目标 → 不追**（第 90 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "ECU 开发工具（标定 / 采集 / 原型）",

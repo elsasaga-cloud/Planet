@@ -90,6 +90,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（TR · 1 次检索：官网 iletişim / kurumsal / referanslar（Perpa Ticaret Merkezi A Blok Kat 7-8 No 703-707 Şişli；Ankara Çankaya 区域经理部；车牌识别 PTS，商场 / 写字楼停车场案例）+ vknsorgula（VKN 6190579359，成立 2017-01-04）+ Yelp（İzmir 网点），2026-10-27 查；https://www.metcom.com.tr/kurumsal/）：**
+
+- 法定名 / 登记号：METCOM GÜVENLİK TEKNOLOJİLERİ A.Ş.（Şişli / İstanbul；车牌识别系统） · VKN 6190579359（Şişli） · 状态 **Aktif** · 成立 2017-01-04（A.Ş.；品牌可能更早） · Anonim Şirket
+- 行业码 / 经营范围：车牌识别（PTS）/ 停车场 / 门禁 系统集成 + 自有软件；AVM / 写字楼 / 工业园客户；İstanbul 总部 + Ankara / İzmir
+- 注册地址：Perpa Ticaret Merkezi A Blok Kat:7-8 No:703-707, Şişli / İstanbul
+- 规模档：小型（估 10–30 人）
+- 账目：—（TR 不公示）；—
+- 高管：研究档无 KP（info@）；管理层未公开
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **车牌识别 / 停车场集成商 —— 每个出入口 = 摄像机 + 道闸 + 户外机柜里一台工业 PoE** → 集成 25%：STI-054GP / STI-154GP（-40~75℃、光口上联到岗亭），CE/RoHS；写 info@ 请转 proje müdürü；TR 周四 10–12；首单 50/50
+  - 不再检索
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -146,8 +159,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 metcom.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | METCOM GÜVENLİK TEKNOLOJİLERİ A.Ş.（VKN 6190579359，Şişli；Perpa Ticaret Merkezi A Blok Kat:7-8 No:703-707） |
+| 成立 | 2017-01-04（vknsorgula；品牌可能更早）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Şişli / İstanbul（Perpa）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 车牌识别 / 停车场系统集成 + 自有软件；İstanbul 总部 + Ankara / İzmir 网点（第 90 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 metcom.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：用户表；每个停车出入口 = 摄像机 + 道闸 + 户外机柜工业 PoE → 集成 25%，STI-054GP / STI-154GP（第 90 批 官方登记核实 2026-10-27） |
 
 - **业务线**：车牌识别 / 停车场系统 / 视频分析 / 摄像机配件
 - **触达通道（公开）**：role: 车牌识别/停车系统方案商（土耳其）；region: 土耳其；contact: info@metcom.com.tr、ankara@metcom.com.tr

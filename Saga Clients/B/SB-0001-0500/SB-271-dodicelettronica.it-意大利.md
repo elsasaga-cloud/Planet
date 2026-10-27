@@ -87,6 +87,22 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 90 批（IT · 1 次检索：ufficiocamerale（P.IVA 01809930603，REA FR-102942，1992-04-09 登记，营收 €4,163,559（2025），利润 €31,758，7 人，ATECO 47.52.1）+ dodicgroup.it（1975 Isola Liri 创立，1985 迁 Frosinone，2001 现址 1,500 m²）+ impresaitalia（6 个网点：Frosinone / Roma Nord / Roma Sud / Fiumicino / Latina / Napoli）+ S News 2020-06（Napoli 分部开业，DG Simone D'Andrea「中意大利分销领先」）+ D&B（Key Principal Simone D'Andrea）+ money.it（股本 €10,200，均 8 人），2026-10-27 查；https://www.ufficiocamerale.it/3600/dodic-elettronica-srl）：**
+
+- 法定名 / 登记号：DODIC ELETTRONICA S.R.L.（Dodic Group；Frosinone） · P.IVA / C.F. 01809930603 · REA FR-102942 · 状态 **Attiva** · 成立 1992-04-09（S.r.l.；业务自 1975） · S.r.l.（股本 €10,200；家族 / 私人）
+- 行业码 / 经营范围：安防 + 电气材料分销（ATECO 47.52.1 / 43.21.01）：CCTV / 报警 / 门禁 / 电气，中意大利 6 网点，面向安装商
+- 注册地址：Via del Casale 13, 03100 Frosinone (FR)（总部 + 中央仓 1,500 m²）
+- 规模档：小型（7–8 人正式员工 + 6 网点；营收 €4M）
+- 账目：营收 €4.16M（2025）· 利润 €31.8k · 7–8 人；IT 年报 7–8 月
+- 高管：Simone D'ANDREA — Direttore Generale / Key Principal（研究档 KP）= 决策人
+- 高管：Ivan STAZIO — 研究档 KP（职务待核）
+- 控制人 / 股东：未取（家族企业推定）
+- **这意味着什么：**
+  - **Dodic = 中意大利 6 网点的安防 / 电气分销（€4.16M，1975），总经理 Simone D'Andrea 就在我们 KP 表里 = 决策人直达** → 写 Simone cc Ivan：分销 20%，安装商走量机型 PoE 4/8/16 口（STI-054GP / STC-028GP / STC-228GP）+ 24 口 300 W（STC-2024GP），CE/RoHS，MOQ 1 箱，首单 50/50、三单后 30/70；IT 周四 12–14；避开 8 月 + 12-20–01-06
+  - 利润薄（€31.8k / €4.16M = 0.8%）→ 价格敏感，开价直接给分销 20% 档，不留二次让价空间
+  - 复查：ufficiocamerale 次年 8 月看 2026 营收
+- 备注：研究档 facts 回填 legal / founded / staff / hq。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,15 +146,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE**
   > Mauro邮件中带的 / 商业PoE；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Simone D’Andrea（）info@dodicelettronica.it 〔用户表〕
-- **KP**：Ivan Stazio（）marketing@dodic.it 〔用户表〕
+- **KP**：Simone D’Andrea（Direttore Generale / Key Principal（ufficiocamerale）= **决策人 = 联系人** → PoE 4/8/16/24 分销 20%；营收 €4.16M 但利润 €31.8k = 薄利 → 不做第二次让价（第 90 批 官方登记核实 2026-10-27））info@dodicelettronica.it 〔用户表〕
+- **KP**：Ivan Stazio（市场口（marketing@dodic.it；职务待核）—— 抄送（第 90 批 官方登记核实 2026-10-27））marketing@dodic.it 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 意大利 |
+| 法定名称 | DODIC ELETTRONICA S.R.L.（Dodic Group；P.IVA / C.F. 01809930603 · REA FR-102942） |
+| 成立 | 1992-04-09（S.r.l.；业务自 1975）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Via del Casale 13, 03100 Frosinone（总部 + 中央仓 1,500 m²）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 7–8 人正式员工 + 6 网点；营收 €4.16M（2025）· 利润 €31.8k（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 dodicelettronica.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：安防 / 防盗 / 视频监控 / 家居自动化分销（意大利）
@@ -237,8 +256,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Simone D’Andrea | — | info@dodicelettronica.it | 调研核实（公开页） | 用户表 |
-| Ivan Stazio | — | marketing@dodic.it | 调研核实（公开页） | 用户表 |
+| Simone D’Andrea | Direttore Generale / Key Principal（ufficiocamerale）= **决策人 = 联系人** → PoE 4/8/16/24 分销 20%；营收 €4.16M 但利润 €31.8k = 薄利 → 不做第二次让价（第 90 批 官方登记核实 2026-10-27） | info@dodicelettronica.it | 调研核实（公开页） | 用户表 |
+| Ivan Stazio | 市场口（marketing@dodic.it；职务待核）—— 抄送（第 90 批 官方登记核实 2026-10-27） | marketing@dodic.it | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

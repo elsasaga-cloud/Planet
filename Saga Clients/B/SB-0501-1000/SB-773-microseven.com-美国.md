@@ -83,6 +83,18 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 90 批（US · 1 次检索：官网 about-history（2001 成立、2009 注册商标 Microseven®）+ LinkedIn（2003、Walnut CA、自称 51–200）+ Thomasnet（1–9 人、<$1M）+ LeadIQ（≈2 人、404 S Lemon Ave Ste 9）+ ZoomInfo（创始人 James Cao）+ Yelp（电话 909-348-5577）；注意 microseven.org「Michigan 边缘 AI」页面（2025）是否同主体未核，2026-10-27 查；https://www.microseven.com/corporate/about-history.html）：**
+
+- 法定名 / 登记号：Microseven Systems, LLC（Walnut, CA；IP 摄像机 + 流媒体） · 未取（CA SoS 需名称检索；未查） · 状态 **Active（网店在售，有 Clearance 页）** · 成立 2001（官网）/ 2003（LinkedIn） · LLC（加州）
+- 行业码 / 经营范围：IP 摄像机（PoE / Wi-Fi / 4K / PTZ）+ 自建流媒体平台 + 定制软件；网店直销 + Amazon
+- 注册地址：404 S Lemon Ave Ste 9, Walnut, CA 91789（洛杉矶东）
+- 规模档：微型（1–9 人；LinkedIn 数字虚高）
+- 账目：Thomasnet 估 <$1M（量级）；—
+- 高管：James CAO — 创始人（ZoomInfo）；研究档无 KP（techsupport@ 地址）
+- 控制人 / 股东：James Cao
+- **这意味着什么：**
+  - **华人创业的小 IP 摄像机品牌（Walnut CA，实际数人），自己就从国内拿货 —— 交换机对他只是配件位，且 techsupport@ 不是采购口** → 留档不追；如来询报 STI-054GP / STC-028GP 分销 20%、100% 预付、FOB 深圳（他们自己有拼柜）
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $79 ← 「4K (8MP) IP Camera, PoE, Outdoor-Rated, Open Platform SHOP NOW $79」（https://microseven.com/）
@@ -139,7 +151,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
+| 法定名称 | Microseven Systems, LLC（CA SoS 未查） |
+| 成立 | 2001（官网）/ 2003（LinkedIn）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 404 S Lemon Ave Ste 9, Walnut, CA 91789（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 微型（1–9 人；创始人 James Cao）；Thomasnet 估 <$1M（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 microseven.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：PoE / Wi-Fi 安防摄像机网店；配件 PoE 交换机（HRUI 供货）

@@ -1,7 +1,7 @@
 # Elektronik LTD
 **官方名称（调研核实）**：Elektronik LTD（Toshko Todorov；ISAF 参展记录为土耳其；无域名）
 
-> **评级 B**　|　土耳其　|　档案编号 `SB-725`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　保加利亚　|　档案编号 `SB-725`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Ady　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,8 +11,9 @@ rating: B
 rating_auto: B
 name_official: "Elektronik LTD（Toshko Todorov；ISAF 参展记录为土耳其；无域名）"
 score: 32
-country: 土耳其
-region: 土耳其
+country: 保加利亚
+country_table: 土耳其  # 表内原填；调研纠正为 保加利亚（research JSON country_fix）
+region: 欧洲
 website: none
 type: 经销/集成（类型待核）
 tier_tags: ["ISAF2025展会", "表:Ady"]
@@ -70,7 +71,7 @@ updated: 2026-10-27
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**假日避让（土耳其 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+**假日避让（保加利亚 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
 
 - 窗口内无该国法定假日
 
@@ -79,7 +80,7 @@ updated: 2026-10-27
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | Elektronik LTD | 事实（用户表） |
-| 国家 | 土耳其 | 事实（用户表）|
+| 国家 | 保加利亚 | 事实（用户表）|
 | 网站/域名 | — | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Toshko Todorov | 事实（用户表） |
@@ -97,7 +98,7 @@ updated: 2026-10-27
   > Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Toshko Todorov（（ISAF 名片））— —（Ady WhatsApp）〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「保加利亚」（country_fix）：唯一身份 = WhatsApp +359 878 684007（保加利亚国家码）+ 人名 Toshko Todorov（保加利亚式）；ISAF 展会在伊斯坦布尔 → 表内误记土耳其（Q-65 国别机检 2026-10-27）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
@@ -168,7 +169,7 @@ updated: 2026-10-27
 
 ## SWOT
 
-- **S**：土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
+- **S**：欧洲主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差

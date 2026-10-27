@@ -86,6 +86,23 @@ updated: 2026-10-27
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 90 批（CA · 1 次检索：官网 our-company（「Uniview 加拿大分支 / Wanglu 独家分销」）+ Uniview 官网北美伙伴页（Petawise Inc.，进口 + 主分销）+ LinkedIn（2015、11–50、Etobicoke）+ ZoomInfo（2014；VP Product & Engineering Stephane Lavigueur 2022–；工程经理 Simon Jiang；营收估 $5.3M）+ RocketReach（Lavigueur 履历 Convergint / GardaWorld / ADT；现 LinkedIn 显示 Genetec）+ Facebook（1040 Martin Grove Rd #9），2026-10-27 查；https://www.uniview.com/Partner/Find_our_partners/Partners/North_America/）：**
+
+- 法定名 / 登记号：Petawise Inc.（Petawise Technologies；Toronto / Etobicoke, ON；Uniview 加拿大独家） · 未取（Ontario 登记 JS-only） · 状态 **Active** · 成立 2014/2015 · Inc.（Ontario 私营；Uniview 加拿大独家进口 + 主分销）
+- 行业码 / 经营范围：安防批发：Uniview（UNV）IP 摄像机 / NVR / PoE 交换机 / 门禁 独家进口 + 全国分销（经集成商 / 区域分销）；自称 NDAA 合规线
+- 注册地址：1040 Martin Grove Rd Unit 9, Toronto (Etobicoke), ON M9W 4W4（另见 190 Millway Ave, Concord ON）
+- 规模档：11–50 人（LinkedIn）/ 8（RocketReach）
+- 账目：ZoomInfo 估 $5.3M（量级）；—
+- 高管：Stephane LAVIGUEUR — VP Product & Engineering（2022–；研究档 KP；LinkedIn 现挂 Genetec → 可能已离职，待核）
+- 高管：Dexter LIU — VP Operation（LinkedIn）
+- 高管：Simon JIANG — Manager, Engineering
+- 高管：John K — 研究档 KP
+- 控制人 / 股东：未取（Uniview 关联：官网自称「Canadian Arm of Uniview」，股权关系未证实）
+- **这意味着什么：**
+  - **Petawise = Uniview 在加拿大的独家进口分销（PoE 交换机已由 Uniview 自供）；产品 VP Lavigueur 的 LinkedIn 现挂 Genetec，很可能已离职** → 先核人：写 sales@ 问现任产品负责人（或 Dexter Liu 运营 VP），分销 20%：Uniview 没有的档位（工业 DIN PoE STI、2.5G / 10G PoE++ 上联），FCC + ISED；一封无回即停；CA 周三 08–10（北京 21–23）
+  - 不说：不提 Uniview / NDAA；不提 Lavigueur 去向
+- 备注：KP Lavigueur 现职存疑（LinkedIn Genetec）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,16 +146,20 @@ updated: 2026-10-27
 - **【用户表】全线用 Itoonertech 的 FS**
   > 全线用itoonertech的FS IPC比较多 主要是CCTV领域；在用Itoonertech商业PoE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Stephane Lavigueur（）sales@petawise.com 〔用户表〕
+- **KP**：Stephane Lavigueur（VP Product & Engineering（2022–）—— **LinkedIn 现挂 Genetec → 可能已离职**；下一封写 sales@ 问「current product lead」，不再指名（第 90 批 官方登记核实 2026-10-27））sales@petawise.com 〔用户表〕
 - **KP**：John K（）johnk@petawise.com 〔用户表〕
 - **KP**：Ebin Nazar（） 〔用户表〕
+- **KP**：Dexter Liu（VP Operation（LinkedIn）—— Petawise = **Uniview 加拿大独家**（整线成品）→ 只打其空档：工业 DIN / 2.5G–10G PoE++，分销 20%（第 90 批 官方登记核实 2026-10-27）） 〔https://www.petawise.com/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
+| 法定名称 | Petawise Inc.（Petawise Technologies；安省登记 JS-only） |
+| 成立 | 2014/2015（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 1040 Martin Grove Rd Unit 9, Toronto (Etobicoke), ON M9W 4W4（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 11–50（LinkedIn）/ 8（RocketReach）；ZoomInfo 估 $5.3M（量级）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 petawise.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：IP 视频监控分销（Uniview 加拿大）；PoE 交换机 / IPC 测试仪
@@ -253,9 +274,10 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Stephane Lavigueur | — | sales@petawise.com | 调研核实（公开页） | 用户表 |
+| Stephane Lavigueur | VP Product & Engineering（2022–）—— **LinkedIn 现挂 Genetec → 可能已离职**；下一封写 sales@ 问「current product lead」，不再指名（第 90 批 官方登记核实 2026-10-27） | sales@petawise.com | 调研核实（公开页） | 用户表 |
 | John K | — | johnk@petawise.com | 调研核实（公开页） | 用户表 |
 | Ebin Nazar | — | — | 调研核实（公开页） | 用户表 |
+| Dexter Liu | VP Operation（LinkedIn）—— Petawise = **Uniview 加拿大独家**（整线成品）→ 只打其空档：工业 DIN / 2.5G–10G PoE++，分销 20%（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.petawise.com/ |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

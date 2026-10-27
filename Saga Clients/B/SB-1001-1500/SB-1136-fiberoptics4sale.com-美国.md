@@ -1,7 +1,7 @@
 # fiberoptics4sale.com
 **官方名称（调研核实）**：Fiber Optics For Sale Co.（fo4sale.com / Fosco Connect）
 
-> **评级 B**　|　加拿大　|　档案编号 `SB-1136`　|　优先级 ★★　|　状态：已推送 8 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-1136`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
 > **类型**：线上零售/分销（光纤配件多品牌）（推断）　|　**历史关系**：推送 8 次（2025-02-20 → 2025-10-16）　|　**所在清单**：A已回复、A优质名单(Canada)、DWDM线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -12,7 +12,8 @@ rating_auto: C
 rating_research: B  # 第 71 批(i)：北美主攻区 + 真人要价（2025-07-23）——C 不成立；按 B 慢慢跟进。表内「疑国内公司海外站」留作风险，不影响报价。
 name_official: "Fiber Optics For Sale Co.（fo4sale.com / Fosco Connect）"
 score: 2
-country: 加拿大
+country: 美国
+country_table: 加拿大  # 表内原填；调研纠正为 美国（research JSON country_fix）
 region: 北美
 website: fiberoptics4sale.com
 type: 线上零售/分销（光纤配件多品牌）
@@ -82,17 +83,32 @@ updated: 2026-10-27
 - `fo4sale.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、aspmx2.googlemail.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 - `foscoconnect.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、aspmx2.googlemail.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（加拿大 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+**假日避让（美国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
 
-- 窗口内无该国法定假日
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
+**公司底数 · 第 90 批（US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavis Dr Pleasanton；仓库 61 Rickenbacker Cir Ste C Livermore）+ BBB（2003-08-04 注册公司，12 人，Colin Yao）+ LinkedIn（11–50，Fremont 旧址）+ eBay 店 + Bloomberg（电子件批发），2026-10-27 查；https://www.fiberoptics4sale.com/pages/about-us）：**
+
+- 法定名 / 登记号：Fiber Optics For Sale Co.（FOSCO Connect；Pleasanton / Livermore, CA） · 未取（CA SoS 需名称检索） · 状态 **Active（网店 + eBay 在售）** · 成立 2003-08-04（BBB；业务始于 2001） · Corporation（加州）
+- 行业码 / 经营范围：光纤 datacom / telecom 产品备货分销（跳线 / 连接器 / 光模块 / 媒体转换器 / 工具 / 测试仪 / OSP 接头盒），网店 + eBay；硅谷东湾
+- 注册地址：269 Mavis Drive, Pleasanton, CA 94566（仓 Livermore；旧址 Fremont 42660 Christy St / Milpitas）
+- 规模档：11–50 人（LinkedIn）/ 12（BBB）
+- 账目：自述「multi-million dollar annual sales」；RocketReach 估 $5.8M（量级）；—
+- 高管：Colin YAO — 创始人 / 业主（官网 + BBB「Sales Manager」= 老板亲自管销售）= 老板 = 联系人
+- 高管：Grace — 研究档 KP（Fosco Sales）
+- 控制人 / 股东：Colin Yao
+- **这意味着什么：**
+  - **硬发现：用户表「CA」是加州不是加拿大（第 3 个此类误判：Maxcom / Infinite Cables / FOSCO）—— country_fix → 美国** → 老板 = 联系人：写 Colin Yao（cc Grace）：分销 20%，光口交换机补其光纤货架（STI-154GP 4 PoE+1 SFP、STC-110XGE 10G、STI-288DGGPM 2.5G 光），FCC + CE；他们自己有拼柜 → FOB 深圳；US 周三 08–10 PST（北京 23–01）
+  - 不说：Saga 不供媒体转换器 / 光模块（他们主业），只做交换机档位
+- 备注：country_fix 美国。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | fiberoptics4sale.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 加拿大（另见：美国） | 事实（用户表）|
+| 国家 | 美国（另见：美国） | 事实（用户表）|
 | 网站/域名 | fiberoptics4sale.com / fo4sale.com / foscoconnect.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 线上零售/分销（光纤配件多品牌） | 推断（据兴趣/备注关键词） |
 | 联系人 | Grace Cai 蔡?? / Customer Service / 国内的公司 海外注册的 / 不再跟进 / 之前联系过 | 事实（用户表） |
@@ -115,15 +131,18 @@ updated: 2026-10-27
   > Please send me more info about your product line, pricing and your website.
   > 来源：gmail_a cb73165c3eeea9fa（抓取 2025-07-23）
 - **KP**：Grace（Fosco Sales）（）sales@fo4sale.com 〔gmail_a cb73165c3eeea9fa〕
+- **KP**：Colin Yao（创始人 / 业主（官网 + BBB「Sales Manager」= 老板亲自管销售）= **老板 = 联系人** → 光口交换机分销 20%（STI-154GP / STC-110XGE / STI-288DGGPM），FOB 深圳（第 90 批 官方登记核实 2026-10-27）） 〔https://www.fiberoptics4sale.com/〕
 - **调研后定级**：B（原自动 C）——第 71 批(i)：北美主攻区 + 真人要价（2025-07-23）——C 不成立；按 B 慢慢跟进。表内「疑国内公司海外站」留作风险，不影响报价。
-- 备注：由第 71 批(i)建档（Replied 标签 × 事实表无来信 复核）。
+- 备注：由第 71 批(i)建档（Replied 标签 × 事实表无来信 复核）。 ｜ 国别更正为「美国」（country_fix）：Fiber Optics For Sale Co. 在加州 Pleasanton / Livermore（官网 / BBB），用户表「CA」= California 误作加拿大（第 90 批 / Q-65 2026-10-27）
 
 ### 加厚挖掘（2026-10-24 · 邮件复核 · 未爬官网）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Fiber Optics For Sale Co.（待核） |
-| 总部/地址 | 北美（表内 CA） |
+| 法定名称 | Fiber Optics For Sale Co.（FOSCO Connect；CA SoS 未查） |
+| 成立 | 2003-08-04（BBB；业务始于 2001）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 269 Mavis Drive, Pleasanton, CA 94566（仓 Livermore）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 11–50（LinkedIn）/ 12（BBB）；自述「multi-million dollar annual sales」（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | fo4sale.com / foscoconnect.com 两域 |
 
 - **触达通道（公开）**：role: 线上零售 / 分销；region: 北美
@@ -187,6 +206,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Grace（Fosco Sales） | — | sales@fo4sale.com | 调研核实（公开页） | gmail_a cb73165c3eeea9fa |
+| Colin Yao | 创始人 / 业主（官网 + BBB「Sales Manager」= 老板亲自管销售）= **老板 = 联系人** → 光口交换机分销 20%（STI-154GP / STC-110XGE / STI-288DGGPM），FOB 深圳（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.fiberoptics4sale.com/ |
 | Grace Cai | — | sales@fo4sale.com / sales@foscoconnect.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

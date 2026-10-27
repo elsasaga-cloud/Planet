@@ -81,6 +81,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 90 批（CA · 1 次检索：官网 contact / about（双地址）+ LinkedIn 公司页（1997、11–50 人、总部字段 Clearwater FL）+ Toron Lee LinkedIn（Mississauga；ex D-Link Canada）+ Crunchbase（CEO Wai Lee，Waterloo 计算机工程）+ ZoomInfo（营收估 $6.5M，Mississauga 总部）+ Newegg / Barcodes Inc 品牌店（自有品牌交换机在售）+ PRNewswire 2013/2018（教育市场云管 Wi-Fi），2026-10-27 查；https://amer.com/about-us/）：**
+
+- 法定名 / 登记号：Amer Networks（Amer.com；Mississauga ON + Clearwater FL） · 未取（Ontario 登记 JS-only；美国实体 FL Sunbiz ✗） · 状态 **Active（官网 + Newegg 品牌店在售）** · 成立 1997（LinkedIn / 新闻稿） · Private；加拿大 + 美国双实体（Ontario 公司 + Florida 公司，编号未取）
+- 行业码 / 经营范围：**自有品牌网络设备商（OEM 品牌商）**：交换机（PoE / 管理型）、防火墙（Clavister 贴牌）、兼容光模块、线缆 / 配线；起家教育市场（K-12 网络），经 Newegg / Barcodes Inc / 分销渠道卖
+- 注册地址：3620B Laird Road Unit 4, Mississauga, ON L5L 6A9（加）/ 4600 140th Ave N Unit 180, Clearwater, FL 33762（美）
+- 规模档：11–50 人（LinkedIn）
+- 账目：ZoomInfo / RocketReach 估 $6.5M（第三方估值，只当量级：数百万美元）；—
+- 高管：Wai LEE — CEO / 创始人（Crunchbase；研究档 KP）
+- 高管：Toron LEE — VP Product Management（RocketReach；ex D-Link Canada；研究档 KP）
+- 高管：Andrew Crowe — 技术支持 / 产品管理 / 收发货（LinkedIn）
+- 控制人 / 股东：Lee 家族（Wai + Toron 同姓，推定家族企业）
+- **这意味着什么：**
+  - **硬发现：Amer 不是分销商，是加拿大的自有品牌交换机 OEM 品牌商（Newegg 上在卖 Amer 牌 PoE 交换机），且两位 KP Wai Lee（CEO）/ Toron Lee（VP 产品）就是老板家族 —— 这是 B 档里最像「OEM 品牌商（目标顺序第 1）」的户** → 写 Toron（产品线负责人）cc Wai：OEM 30%，以 Amer 现有型号表（Newegg 页可见 SKU）逐一对位 STC / STI 替代 + 新品 2.5G / 10G PoE++，强调「长期供货 + 固件 / 丝印 / 彩盒」；FCC + CE，ISED 由他们现有流程；先寄 2 台付费样机；CA 周三 08–10（北京 21–23）
+  - 不说：不提 D-Link 经历、不提其营收估值；美国仓在佛州 → 报 DAP 多伦多或 FOB 深圳由他们自己拼柜
+  - 复查：Newegg 品牌店 SKU 半年看一次（新 SKU 出现 = 正在找新代工）
+- 备注：研究档 company_facts 待补 legal / founded / staff / hq；KP 职务按上表。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,15 +142,18 @@ updated: 2026-10-27
 - **【用户表】自有 logo MC/SFP/注入器；switch 自有标 + Planet**
   > MC SFP POE injector 自己logo；switch 有自己的标 也有Planet的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Toron Lee（）sales@amer.com 〔用户表〕
-- **KP**：Wai Lee（） 〔用户表〕
+- **KP**：Toron Lee（VP Product Management（ex D-Link Canada；RocketReach）= 产品选型人 = **写他**（Lee 家族二代）（第 90 批 官方登记核实 2026-10-27））sales@amer.com 〔用户表〕
+- **KP**：Wai Lee（CEO / 创始人（1997；Crunchbase）—— **自有品牌 Amer Networks（交换机 / PoE / 光模块）= OEM 品牌商 = 首选目标 → OEM 30% Amer 标**（第 90 批 官方登记核实 2026-10-27）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 加拿大 |
+| 法定名称 | Amer Networks（Amer.com；Mississauga ON + Clearwater FL；安省登记 JS-only、FL Sunbiz 未命中） |
+| 成立 | 1997（LinkedIn / 新闻稿）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 3620B Laird Road Unit 4, Mississauga, ON L5L 6A9（+ Clearwater FL 美国仓）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 11–50（LinkedIn）；第三方估数百万美元（量级）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 amer.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：交换机 / MC / PoE 注入器 / AP（自有品牌 Amer）；Planet 经销
@@ -247,8 +267,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Toron Lee | — | sales@amer.com | 调研核实（公开页） | 用户表 |
-| Wai Lee | — | — | 调研核实（公开页） | 用户表 |
+| Toron Lee | VP Product Management（ex D-Link Canada；RocketReach）= 产品选型人 = **写他**（Lee 家族二代）（第 90 批 官方登记核实 2026-10-27） | sales@amer.com | 调研核实（公开页） | 用户表 |
+| Wai Lee | CEO / 创始人（1997；Crunchbase）—— **自有品牌 Amer Networks（交换机 / PoE / 光模块）= OEM 品牌商 = 首选目标 → OEM 30% Amer 标**（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | 用户表 |
 | Yehuda Mor Yosef | — | sales@amer.com / info@amer.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

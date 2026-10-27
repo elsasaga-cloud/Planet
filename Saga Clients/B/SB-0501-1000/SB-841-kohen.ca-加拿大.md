@@ -84,6 +84,21 @@ updated: 2026-10-27
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 90 批（CA · 1 次检索：官网 about（1977 成立、家族史、TURCK / WAGO / IDEC 授权分销、Koziol 家族接班）+ 分类页（Network Switches & Routers / PoE & WiFi 品类）+ asalco / cossd 名录（6022 67A St, 403-346-3733），2026-10-27 查；https://kohen.ca/page/about-us）：**
+
+- 法定名 / 登记号：Ko-Hen Electronics Supply Ltd.（Red Deer, Alberta） · 未取（Alberta 公司登记需付费） · 状态 **Active（官网 2026）** · 成立 1977（官网） · Ltd.（Alberta 私营家族公司）
+- 行业码 / 经营范围：工业电子 / 自动化元件分销（TURCK、WAGO、IDEC 授权）+ 油气行业 + **计算机 / 网络基础设施品类**（网线、配线架、**交换机 / 路由 / PoE / WiFi**、机柜）；阿尔伯塔中部为主
+- 注册地址：6022 67A Street, Red Deer, AB T4P 3E8
+- 规模档：小型（估 10–20 人；3,840 sq ft 店面 + 库房）
+- 账目：—（私营不公示）；—
+- 高管：Brent KOZIOL — 业主 / 经营者（1998 加入，父 Joe 退休后接班；与妻 Nonette 共同持有）= 老板 = 联系人（sales@kohen.ca 转）
+- 高管：Joe Koziol — 创始合伙人（已退休）；Morley（1995 退出）
+- 控制人 / 股东：Brent + Nonette Koziol
+- **这意味着什么：**
+  - **老板 = 联系人：Red Deer 的工业电子分销（TURCK / WAGO / IDEC 授权），网络品类里有「交换机 / PoE」专栏 = 正好是 STI 工业 DIN PoE 的货架位（油气井场、控制柜）** → 写 Brent：分销 20%，STI-054GP / STI-154GP / STI-288DGGPM-2BT + 宽压 STI-050GE，-40~75℃、FCC + ISED、3 年保；MOQ 1 箱、首单 50/50；CA 周三 08–10（北京 21–23）
+  - 不说：不碰其 TURCK / WAGO 工业以太网线（他们有授权），只做「无品牌工业 PoE 档位」
+- 备注：研究档 KP 空 → 新增 Brent Koziol。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,13 +142,17 @@ updated: 2026-10-27
 - **【用户表】主要是 Wago 的**
   > 主要是Wago的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Brent Koziol（业主 / 经营者（1998 加入，父 Joe 退休后接班；与妻 Nonette 共同持有；Red Deer 1977 老店）= **老板 = 联系人**（sales@kohen.ca 转）→ STI 工业 DIN PoE 分销 20%（第 90 批 官方登记核实 2026-10-27）） 〔https://www.kohen.ca/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 加拿大 |
+| 法定名称 | Ko-Hen Electronics Supply Ltd.（Alberta 公司登记付费未取） |
+| 成立 | 1977（官网）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 6022 67A Street, Red Deer, AB T4P 3E8（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 估 10–20 人；3,840 sq ft 店面 + 库房（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 kohen.ca，语言 en，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：电子元件分销（油气 / 自动化 / 网络）
@@ -220,7 +239,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@kohen.ca | 用户表原值 | Clients/ 表 |
+| Brent Koziol | 业主 / 经营者（1998 加入，父 Joe 退休后接班；与妻 Nonette 共同持有；Red Deer 1977 老店）= **老板 = 联系人**（sales@kohen.ca 转）→ STI 工业 DIN PoE 分销 20%（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.kohen.ca/ |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

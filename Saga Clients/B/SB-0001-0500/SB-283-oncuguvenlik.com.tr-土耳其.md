@@ -89,6 +89,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（TR · 1 次检索：官网 hakkımızda / iletişim（2002 成立，1,500+ bayi，一站式安防批发；Kavacık Mah. FSM Cad. Yayabeyi Sk. No:8）+ LinkedIn（51–200 人，批发进出口）+ signalhire（100–200 人，营收估 $10–50M）+ vknsorgula（VKN 6560323830，A.Ş. 2014-12-04 起）+ AxxonSoft 伙伴页 + Facebook（9 评 100% 推荐），2026-10-27 查；https://www.oncuguvenlik.com.tr/tr/bilgi/hakkimizda）：**
+
+- 法定名 / 登记号：ÖNCÜ GÜVENLİK SİSTEMLERİ A.Ş.（Kavacık / Beykoz, İstanbul；1,500+ 经销商） · VKN 6560323830（Beykoz） · 状态 **Aktif** · 成立 2002（业务）/ 2014-12-04（现 A.Ş. 主体） · Anonim Şirket（私营）
+- 行业码 / 经营范围：**安防批发 / 进出口**：CCTV / 报警 / 门禁 / 对讲 / 网络 全品类一站式，1,500+ 经销商；AxxonSoft VMS 伙伴；技术服务团队
+- 注册地址：Kavacık Mah. Fatih Sultan Mehmet Cad. Yayabeyi Sk. No:8, 34810 Beykoz / İstanbul（地下 + 1–3 层整栋）
+- 规模档：中型（51–200 人）
+- 账目：第三方估 $10–50M（量级）；—
+- 高管：İbrahim — 研究档 KP（姓氏 / 职务待核）；管理层未公开
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **硬发现：Öncü 是伊斯坦布尔 1,500+ 经销商的安防总批发（100–200 人，$10–50M 级），与 Bimel 同量级 —— TR 四大主攻国里真正的「大头分销」** → 写 İbrahim 请转 ağ ürünleri ürün müdürü：分销 20%，PoE 4/8/16/24 口走量型 + 管理型 24 口 + 工业 DIN，给其 1,500 经销商的「自有标签」OEM 30% 可选；CE/RoHS；MOQ 1 箱起、首单 50/50；TR 周四 10–12；避开 Kurban Bayramı（2027-05 下旬）
+  - 不说：不提其现有供应商；不说规模是我们查的
+  - 复查：官网 bayi 数 / LinkedIn 人数年看一次
+- 备注：研究档 facts 回填 founded / staff / hq。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -146,7 +161,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
+| 法定名称 | ÖNCÜ GÜVENLİK SİSTEMLERİ A.Ş.（VKN 6560323830，Beykoz；现 A.Ş. 主体 2014-12-04） |
+| 成立 | 2002（业务）/ 2014-12-04（现 A.Ş.）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Kavacık Mah. FSM Cad. Yayabeyi Sk. No:8, 34810 Beykoz / İstanbul（整栋）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 51–200（LinkedIn）/ 100–200（signalhire）；1,500+ bayi；营收估 $10–50M（量级）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 oncuguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：安防/网络多品牌分销；自有标 Sec-on

@@ -88,6 +88,25 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 90 批（CZ · 1 次检索：官网 contact（IČO 13692283，DIČ CZ13692283，datová schránka s7grkte）+ podnikatel.cz / penize.cz / kurzy.cz 商业登记镜像（1991-01-16 成立，创始股东 Ing. Jiří Vítek + Ing. Jiří Štefl，2014 改 a.s.，2021 správní rada Jiří Štefl）+ CzechTrade 出口商名录（Jiří Štefl 公司总监；George Štefl 集团经理 / 市场总监）+ finmag（关联 OPTOKON Kable Co., Ltd. s.r.o. IČO 03946487，jednatel Eva Šteflová）+ optokon.pl 分销页（华沙 Świeradowska 47）+ kurzy（2026-03 在招 13 个岗位），2026-10-27 查；https://www.podnikatel.cz/rejstrik/optokon-a-s-13692283/）：**
+
+- 法定名 / 登记号：OPTOKON, a.s.（Jihlava, CZ；optokon.pl = 波兰分部 OPTOKON Zakład Światłowodowy, Warszawa） · IČO 13692283 · DIČ CZ13692283（捷克母公司）；波兰分部编号未取 · 状态 **Aktivní（2026-03 仍大量招聘）** · 成立 1991-01-16（s.r.o.；2014-08-30 起 a.s.） · Akciová společnost（Štefl 家族控股；集团含 OPTOKON Elektronik / Middle East / Pacific / OptoNet Communication / OPTOKON Kable）
+- 行业码 / 经营范围：**光纤连接技术制造商**（军规 / 加固光纤连接器、野战光缆、加固交换机 / 终端、校准实验室、电信工程）+ 工业 / 商用光纤布线产品；客户含 NATO / 军方（守界：军品 PASS）
+- 注册地址：Červený Kříž 250, 586 01 Jihlava, Czech Republic（波兰：ul. Świeradowska 47, 02-662 Warszawa）
+- 规模档：中型（估 100–250 人；多国子公司 + 13 个在招岗位）
+- 账目：—（a.s. 年报在 justice.cz Sbírka listin，未取）；CZ 年报 12-31 后 12 个月内
+- 高管：Ing. Jiří ŠTEFL — 创始人 / 公司总监 / 管理委员会（1993 起 jednatel，2021 správní rada）= 实控人
+- 高管：George ŠTEFL — Group Manager & Head of Marketing（二代；兼 OptoNet Communication jednatel）
+- 高管：Eva ŠTEFLOVÁ — OPTOKON Kable jednatel（家族）
+- 高管：Pytlak（pytlak@optokon.com）/ Abiel Abuy / Erik Mikus — 研究档 KP（波兰 / 采购口；职务待核）
+- 控制人 / 股东：Štefl 家族（Jiří → George）
+- 曾用名：OPTOKON Co., Ltd., spol. s r.o.（1991–2014）
+- **这意味着什么：**
+  - **硬发现：optokon.pl 不是波兰分销商，是捷克 Jihlava 光纤连接制造商 OPTOKON a.s.（Štefl 家族，1991，多国子公司）的华沙分部；主业含军规加固产品（守界 PASS），但同时有工业 / 商用光纤布线线和自有加固交换机** → 只走商用 / 工业线：写 Pytlak（波兰）cc George Štefl：OEM 30%「OPTOKON 牌」工业 DIN 光口 PoE（STI-154GP / STI-288DGGPM / STI-480XGGM Marvell L3），-40~75℃、CE/RoHS，**明确不做军规 / MIL-STD 测试**；或 25% 集成价供其电信工程项目；CZ/PL 周四 12–14
+  - 不说：不提 NATO / 军品；不提其加固交换机 = 竞品
+  - 复查：justice.cz Sbírka listin 年报（次年 12 月前）看营收
+- 备注：研究档 legal / hq 回填；KP 名字 Pytlak 待补全名。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -139,13 +158,17 @@ updated: 2026-10-27
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Abiel Abuy（）pytlak@optokon.com 〔用户表〕
 - **KP**：Erik Mikus（） 〔用户表〕
+- **KP**：George Štefl（Group Manager & Head of Marketing（二代；兼 OptoNet Communication jednatel）；实控人 = 父 Ing. Jiří Štefl（1993 起 jednatel，2021 správní rada）（第 90 批 官方登记核实 2026-10-27）） 〔https://or.justice.cz/ias/ui/rejstrik-$firma?ico=13692283〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
+| 法定名称 | OPTOKON, a.s.（IČO 13692283；DIČ CZ13692283；Červený Kříž 250, 586 01 Jihlava；波兰分部 OPTOKON Zakład Światłowodowy —— 用户表国别 PL 保留 = 收件人所在分部） |
+| 成立 | 1991-01-16（s.r.o.；2014-08-30 起 a.s.）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Jihlava, Czech Republic（波兰：Świebodzice 一带分部）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 估 100–250 人；多国子公司 + 13 个在招岗位（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 optokon.pl，语言 pl，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：光缆 / 光纤配件 / 测试仪制造；自有标 LMSW 交换机（CTC Union 代工）；军用设备（守界，不涉）
@@ -266,6 +289,7 @@ updated: 2026-10-27
 |---|---|---|---|---|
 | Abiel Abuy | — | pytlak@optokon.com | 调研核实（公开页） | 用户表 |
 | Erik Mikus | — | — | 调研核实（公开页） | 用户表 |
+| George Štefl | Group Manager & Head of Marketing（二代；兼 OptoNet Communication jednatel）；实控人 = 父 Ing. Jiří Štefl（1993 起 jednatel，2021 správní rada）（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://or.justice.cz/ias/ui/rejstrik-$firma?ico=13692283 |
 | Pytlak | — | pytlak@optokon.com / info@optokon.ua | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

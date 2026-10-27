@@ -87,6 +87,21 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 90 批（US · 1 次检索：官网首页（「我们制造视频 / 音频 / 数据光纤传输系统」）+ LinkedIn 公司页（1990 成立、纽约州注册、Elmont NY、11–50 人、制造业）；**同名陷阱**：Jacksonville FL 的 Meridian Technologies（IT 人力外包，1998，CSI 收购）与本户无关，Sunbiz / SAM 结果全部属于那家，2026-10-27 查；https://www.meridian-tech.com/）：**
+
+- 法定名 / 登记号：Meridian Technologies, Inc.（Elmont, NY；光纤传输设备制造商） · 未取（NY DOS 检索 JS-only） · 状态 **Active（官网 + LinkedIn 在线）** · 成立 1990（LinkedIn） · Inc.（纽约州）
+- 行业码 / 经营范围：光纤传输系统制造（视频 / 音频 / 数据 / 接触闭合 光端机，安防 / 交通 / 广电）—— 与 Saga 光纤交换机 + SFP 场景相邻
+- 注册地址：Elmont, NY 11003（长岛，距纽约市 20 英里）
+- 规模档：11–50 人（LinkedIn）
+- 账目：—（私营）；—
+- 高管：Denise SHAY — 研究档 KP（sales@；职务待核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **纽约长岛的光端机制造商（1990），客户是安防 / 交通集成商 —— 他们卖光端机，我们卖带 SFP 的 PoE 交换机，是同一张 BOM 上的相邻两行** → 写 Denise：OEM 30%「Meridian 牌」工业 PoE 交换机（STI-154GP / STI-288DGGPM）补其产品线，或分销 20%；FCC + CE，no UL（如实）；US 周三 08–10 EST（北京 21–23）
+  - 不说：不提 Jacksonville 同名公司；不提 UL / NDAA
+  - 复查：不再检索
+- 备注：研究档 hq 回填 Elmont NY；同名公司警示。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,7 +151,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
+| 法定名称 | Meridian Technologies, Inc.（NY DOS 检索 JS-only） |
+| 成立 | 1990（LinkedIn）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Elmont, NY 11003（长岛）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 11–50（LinkedIn）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 meridian-tech.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：光纤传输系统（自有品牌 Meridian：VC / 工业 FS / MC）

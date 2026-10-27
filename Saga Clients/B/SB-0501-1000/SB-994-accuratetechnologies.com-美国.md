@@ -90,6 +90,18 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 90 批（US · 1 次检索：官网 AboutATI / Locations（1992、Novi 120,000 sq ft 研发制造基地、子公司 CN/FR/DE/IN/JP/SE/UK）+ Bloomberg（成立 1992-02-04）+ LinkedIn（51–200）+ Kvaser / ASAM 会员页 + largestcompanies（瑞典子公司 Accurate Technologies AB，2003），2026-10-27 查；https://www.accuratetechnologies.com/AboutATI）：**
+
+- 法定名 / 登记号：Accurate Technologies Inc.（ATI；Novi, Michigan） · 未取（MI LARA 可查，未查） · 状态 **Active** · 成立 1992-02-04（Bloomberg） · Inc.（密歇根州私营）
+- 行业码 / 经营范围：汽车 ECU 测量 / 标定 / 诊断（MCD）软硬件制造：数据采集、网络分析（CAN/以太网）、快速原型；客户 OEM / Tier 1 + 国防 / 船舶 / 航空
+- 注册地址：26999 Meadowbrook Rd, Novi, MI 48377
+- 规模档：51–200 人（LinkedIn）；7 国子公司
+- 账目：—（私营）；—
+- 高管：研究档无 KP（sales@）；管理层未取
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **汽车测试仪器厂商，不是渠道，也不是我们守界内的客户（国防 / 航空客户群）；交换机对他们只是实验室耗材** → 不追（留档）；若来询只报标准型号 + 100% 预付
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,7 +140,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
+| 法定名称 | Accurate Technologies Inc.（ATI；MI LARA 未查） |
+| 成立 | 1992-02-04（Bloomberg）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 26999 Meadowbrook Rd, Novi, MI 48377（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 51–200（LinkedIn）；7 国子公司（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 accuratetechnologies.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：ECU 开发工具（标定 / 采集 / 原型）；网络交换机 NS-1（配套）

@@ -85,6 +85,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（TR · 1 次检索：官网首页 / bize-ulaşın / kurumsal（2013 成立；Niagara Networks（Packet Broker / Bypass / TAP）土耳其分销；Celerway SD-WAN 分销；İstanbul 总部 Fulya Mah. Denizhan Sok. Lalehan No:7 Mecidiyeköy → 新址 Bağcılar Koçman Cd. 54 Demirkol Plaza；Ankara Bilkent Cyberpark A207）+ Viprinet 伙伴页 + contactout（12 人）+ Lusha（11–50，2013）+ LinkedIn Murat Köksal（Network and Security Solutions Director，Ankara），2026-10-27 查；https://www.teslakom.com/kurumsal）：**
+
+- 法定名 / 登记号：TESLAKOM BİLİŞİM VE TELEKOMÜNİKASYON A.Ş.（İstanbul + Ankara Bilkent Cyberpark；网络可视化 / SD-WAN 增值分销） · 未取（Mersis 未命中） · 状态 **Aktif（官网 2026 更新）** · 成立 2013 · Anonim Şirket（创始人团队「15 年电信经验」）
+- 行业码 / 经营范围：电信 / IT 增值分销 + 托管服务：网络可视化（Niagara Packet Broker / Bypass / TAP）、Viprinet / Celerway 多链路 SD-WAN 路由、DPI、DDoS、托管 LAN / WAN / Wi-Fi；经销商网络
+- 注册地址：Koçman Cd. No:54 Demirkol Plaza C Blok Kat:2, Bağcılar, İstanbul（Ankara：1606. Cad. 4/A Cyberpark A207, Bilkent）
+- 规模档：小型（12 人 / 11–50）
+- 账目：—；—
+- 高管：Murat KÖKSAL — Network and Security Solutions Director（Ankara；LinkedIn）= 技术决策人
+- 高管：研究档无 KP（iletisim@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Teslakom 卖的是数据中心 / 运营商的「旁路」设备（Packet Broker / TAP / Bypass），客户正是我们 CENTEC 10G/25G/100G 线的对象 —— 他们缺一条自有标签的 DC 交换机线来配 TAP 卖** → 写 Murat Köksal：分销 20% / OEM 30%，STH-2C24XF-HSI（24×10G+2×100G，$1,500）、STH-8C48DX（48×25G+8×100G，$4,800），BGP / EVPN-VXLAN，CE；先 1 台付费样机做互操作；TR 周四 10–12
+  - 不说：不提 Niagara / Viprinet；守界：不做 bypass 交换机（Saga 无此型号，不答应）
+- 备注：研究档 KP 空 → 新增 Murat Köksal。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,13 +134,17 @@ updated: 2026-10-27
 - **【用户表】很多牌子的**
   > 很多牌子的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Murat Köksal（Network and Security Solutions Director（Ankara；LinkedIn）= 技术决策人 → 写他：数据中心 10G/25G/100G（STH CENTEC）配其 Packet Broker / TAP 卖，分销 20% / OEM 30%；**守界：不做 bypass 交换机**（第 90 批 官方登记核实 2026-10-27）） 〔https://www.teslakom.com/kurumsal〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
+| 法定名称 | TESLAKOM BİLİŞİM VE TELEKOMÜNİKASYON A.Ş.（İstanbul Bağcılar Demirkol Plaza + Ankara Bilkent Cyberpark） |
+| 成立 | 2013（官网）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Koçman Cd. 54 Demirkol Plaza C Blok Kat:2, Bağcılar / İstanbul（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 12 人（contactout）/ 11–50；Niagara Networks（Packet Broker / Bypass / TAP）+ Celerway SD-WAN + Viprinet 土耳其分销 + 托管服务（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 teslakom.com，语言 tr-TR，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：网络 / 工业网络 / 网络安全方案与咨询
@@ -217,7 +236,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | iletisim@teslakom.com | 用户表原值 | Clients/ 表 |
+| Murat Köksal | Network and Security Solutions Director（Ankara；LinkedIn）= 技术决策人 → 写他：数据中心 10G/25G/100G（STH CENTEC）配其 Packet Broker / TAP 卖，分销 20% / OEM 30%；**守界：不做 bypass 交换机**（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.teslakom.com/kurumsal |
 
 - **通道建议**：企业邮箱可直发
 
@@ -253,7 +272,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：土耳其主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-288GPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -270,7 +289,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

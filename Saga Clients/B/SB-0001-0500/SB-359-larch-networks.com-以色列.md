@@ -104,6 +104,24 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（IL · 1 次检索：官网 team / at-a-glance（2009 成立，联合创始人 CEO Alexander Cheskis；Marvell ROS 战略伙伴、Marvell 硬件 bring-up、基辅开发办公室、100+ 客户、硬件 / 机械部门）+ Tracxn（联合创始人 Eddie Preskovsky）+ Wikipedia（前身 Niram Systems，2008）+ LinkedIn（11–50）+ BusinessWire 2021-03（IP Infusion 合作）/ 2024-10（Xsight Labs 选为 hardened SONiC 卓越中心）+ 2025-08 加入 SONiC Foundation + RocketReach（Cheskis 履历 Radware / PacketLight / Crescendo），2026-10-27 查；https://larch-networks.com/about-larch-networks/at-a-glance/）：**
+
+- 法定名 / 登记号：Larch Networks Ltd.（原 Niram Systems；Rosh HaAyin, Israel） · ח.פ. 未取（镜像未命中；下轮 israeli-companies 按名查） · 状态 **Active（2025-08 新闻）** · 成立 2008/2009（前身 Niram Systems） · Ltd.（私营，未融资；两位创始人持股）
+- 行业码 / 经营范围：**网络产品开发外包 + 白盒交换机 NOS**：Marvell ROS / Open ROS、SONiC（hardened / rugged）、IP Infusion OcNOS 集成、Marvell 芯片硬件 bring-up、加固交换机 / 工业网络、家庭自动化；客户 = 运营商 / 工业 / 安防 / 军方 / 数据中心
+- 注册地址：Rosh HaAyin, Central District, Israel（开发办公室 Kyiv）
+- 规模档：11–50 人（LinkedIn）
+- 账目：—（私营）；—
+- 高管：Alexander CHESKIS — 联合创始人 / CEO（市场 + 销售）= 老板 = 联系人（研究档 KP alexander@）
+- 高管：Eddie PRESKOVSKY — 联合创始人（Tracxn 记为 co-CEO）
+- 高管：Andrey ZARUDNIY — 研究档 KP
+- 控制人 / 股东：Cheskis + Preskovsky
+- 曾用名：Niram Systems
+- **这意味着什么：**
+  - **硬发现：Larch 不是渠道，是以色列的 Marvell 交换机软件 / 硬件开发商（Marvell ROS 官方伙伴 + SONiC 卓越中心，有自己的硬件部门）—— 他们给客户做定制交换机时需要「现成的 Marvell 硬件平台」，这正是我们 Marvell L2+/L3（STI-480XGGM、STC-448XGGPM）和 CENTEC STH 的另一种卖法：当硬件平台卖给 NOS 公司** → 写 Cheskis 本人（老板 = 联系人）：OEM 30%（Marvell 线）/ CENTEC ≥35%（STH-2C24XF-HSI $1,500 / 8C48DX $4,800 级），提供 U-Boot / SDK 接入和硬件文档，**仅商用 / 数据中心 / 工业用途，不做军规版本**；IL 周日–周四，周二 10–12
+  - 不说：不提其军方客户；不说「竞品」；不提 Open ROS 授权问题
+  - 复查：官网 news 季看一次（新芯片伙伴 = 新硬件需求）
+- 备注：研究档 facts 回填 founded / staff / hq；KP 角色 Cheskis CEO。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -140,13 +158,17 @@ updated: 2026-10-27
 - **KP**：Alexander Cheskis（）alexander@larch-networks.com 〔用户表〕
 - **KP**：Andrey Zarudniy（）azarudniy@larch-networks.com 〔用户表〕
 - **KP**：Oksana Loy（来信署名人（职务未在邮件署名里出现））oksana@larch-networks.com 〔S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补）〕
+- **KP**：Eddie Preskovsky（联合创始人（Tracxn 记为 co-CEO）—— 抄送（第 90 批 官方登记核实 2026-10-27）） 〔https://www.larch-networks.com/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 以色列 |
+| 法定名称 | Larch Networks Ltd.（原 Niram Systems；ח.פ. 未取 —— 下轮 israeli-companies 按名查） |
+| 成立 | 2008/2009（前身 Niram Systems）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Rosh HaAyin, Central District, Israel（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 11–50（LinkedIn）；开发办公室 Kyiv（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 larch-networks.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：定制网络软件 / 硬件开发（SONiC）；自有品牌工业交换机（LN 系列）
@@ -239,6 +261,7 @@ updated: 2026-10-27
 | Alexander Cheskis | — | alexander@larch-networks.com | 调研核实（公开页） | 用户表 |
 | Andrey Zarudniy | — | azarudniy@larch-networks.com | 调研核实（公开页） | 用户表 |
 | Oksana Loy | 来信署名人（职务未在邮件署名里出现） | oksana@larch-networks.com | 调研核实（公开页） | S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补） |
+| Eddie Preskovsky | 联合创始人（Tracxn 记为 co-CEO）—— 抄送（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.larch-networks.com/ |
 
 - **通道建议**：企业邮箱可直发
 

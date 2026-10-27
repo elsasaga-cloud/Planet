@@ -87,6 +87,21 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 90 批（AU · 1 次检索：aihitdata（ABN 22 134 085 644；2008 成立，堪培拉总部；自有品牌媒体转换器 / SFP / GBIC / NIC / **网管 + 非网管交换机**）+ ZoomInfo（Marcus King Assistant Manager 2012–；Stuart King 2003–；4/10 Maryborough St Fyshwick 2609；1–10 人）+ datanyze（MD Stuart King；营收估 $4.4M；3 人）+ D&B（Key Principal STUART MALCOLM KING；DBA OMEO CANBERRA）+ ccd.au 新站（媒体转换器 / SFP / 光纤 / CAT 线 / 网卡）+ Yerra（原住民企业经销 CCD 产品，含 Cisco / Juniper 兼容件），2026-10-27 查；https://ccd.au/pages/contact）：**
+
+- 法定名 / 登记号：CCD NETWORKING PTY. LTD.（Fyshwick, Canberra ACT；新域 ccd.au） · ABN 22 134 085 644 · ACN 134 085 644（≈2008–09） · 状态 **Active（新域 ccd.au 2026 在线）** · 成立 2008（自述；ACN 段相符） · Pty Ltd（King 家族）
+- 行业码 / 经营范围：**自有品牌网络配件进口 + 制造 + 分销**：媒体转换器、兼容 SFP / GBIC、网卡、光纤 / CAT 线、网管 / 非网管交换机；堪培拉（联邦政府采购圈）+ 经销商（含原住民企业 Yerra）
+- 注册地址：Unit 4, 10 Maryborough Street, Fyshwick, ACT 2609（旧址 Unit 13, 41-45 Tennant St）
+- 规模档：微型（3–10 人）
+- 账目：第三方估 $4.4M（量级）；AU 06-30
+- 高管：Stuart Malcolm KING — Managing Director / 业主（2003–）
+- 高管：Marcus KING — Assistant Manager（2012–；研究档 KP）= 二代 = 联系人
+- 控制人 / 股东：King 家族
+- **这意味着什么：**
+  - **老板 = 联系人：King 父子的堪培拉自有品牌网络配件商（CCD 牌媒体转换器 / SFP / 交换机），客户含联邦政府供应链 —— 交换机已在其品牌线里 = 现成的 OEM 买家** → 写 Marcus cc Stuart：OEM 30%「CCD」PoE / 光口交换机（STI-154GP / STC-228GP / STC-424XGGPM）配其 SFP + 媒体转换器卖，RCM 由他们，彩盒 $2.5/套；先 2 台付费样机；AU 周三 08–10（北京 06–08）
+  - 不说：Saga 不供媒体转换器 / SFP（他们主业）；不提政府采购
+- 备注：研究档 KP Marcus King 角色补 Assistant Manager；新增 Stuart King。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $239 ← 「00 AUD CCD-POE-4100 Fibre Optic Gigabit Media Converter From $239」（https://ccdact.com.au/）
@@ -135,13 +150,17 @@ updated: 2026-10-27
   > MC SFP 自己的牌子 标价较高；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Marcus King（）mk@ccdact.com 〔用户表〕
+- **KP**：Stuart Malcolm King（Managing Director / 业主（2003–；D&B Key Principal）—— 抄送（第 90 批 官方登记核实 2026-10-27）） 〔https://abr.business.gov.au/ABN/View?abn=22134085644〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
+| 法定名称 | CCD NETWORKING PTY. LTD.（ABN 22 134 085 644；DBA OMEO CANBERRA） |
+| 成立 | 2008（自述；ACN 134 085 644 段相符）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Unit 4, 10 Maryborough Street, Fyshwick, ACT 2609（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 3–10 人；第三方估 $4.4M（量级）（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 ccdact.com.au，语言 en，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：MC / SFP / 网线（自有品牌 CCD）
@@ -258,6 +277,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Marcus King | — | mk@ccdact.com | 调研核实（公开页） | 用户表 |
+| Stuart Malcolm King | Managing Director / 业主（2003–；D&B Key Principal）—— 抄送（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://abr.business.gov.au/ABN/View?abn=22134085644 |
 
 - **通道建议**：邮件已推送 21 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

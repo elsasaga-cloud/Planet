@@ -83,6 +83,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 90 批（DE · 1 次检索 + Northdata 1 页：官网 Impressum（HRB 35309 Amtsgericht Chemnitz，GF Tobias Hübner，Friedensstraße 62）+ Northdata（2022-10-14 登记，初名「froqfish」2022-10-25 更正；资本 €25,000；3 名在册股东；网络：ESRA GmbH Reichenbach HRB 1910 / Friedrich Strobel / Simon Strobel；Hübner 曾为 ESRA GmbH 经理 ppa；经营范围：电子安防 / 视频监控 / 技术部件进出口贸易，**摄像机 / NVR / UI 白标（Whitelabeling）**，iOS / Android / Windows 定制 App）；**同名陷阱**：Kleinmachnow 的 Frogfish&41 GmbH（HRB 34275 Potsdam，Julian Jeczawitz，互联网业务）无关，2026-10-27 查；https://www.northdata.de/frogfish%20surveillance%20GmbH,%20Reichenbach）：**
+
+- 法定名 / 登记号：frogfish surveillance GmbH（Reichenbach im Vogtland, Sachsen） · HRB 35309（Amtsgericht Chemnitz）· EUID DEU1206.HRB35309 · 状态 **Aktiv** · 成立 2022-10-14 · GmbH（资本 €25,000；3 股东 —— 推定 Hübner + Strobel 家族 / ESRA GmbH）
+- 行业码 / 经营范围：安防 / 视频监控进出口贸易 + **白标摄像机 / NVR / 用户界面** + 定制 App 开发；萨克森福格特兰
+- 注册地址：Friedensstraße 62, 08468 Reichenbach im Vogtland
+- 规模档：微型（估 3–10 人）
+- 账目：—（新公司；Bundesanzeiger 首份年报 2023 微型）；DE 次年 12-31 前公示
+- 高管：Tobias HÜBNER — Geschäftsführer（2022-10 起；ex ESRA GmbH Prokurist）= 老板 = 联系人
+- 高管：Friedrich / Simon STROBEL — 关联股东（ESRA GmbH 圈）
+- 控制人 / 股东：3 股东（姓名需 Liste der Gesellschafter 原件，Northdata 付费）
+- 曾用名：froqfish surveillance GmbH（登记笔误，2022-10-25 更正）
+- **这意味着什么：**
+  - **硬发现：frogfish 的经营范围白纸黑字写着「摄像机 / NVR 白标」—— 这是在建自有安防品牌的进口商，PoE 交换机是其白标套装里缺的一件** → 写 Tobias Hübner（GF = 老板）：OEM 30%「frogfish 牌」PoE 4/8/16/24 口 + NVR 配套（STC-028GP / STC-228GP / STC-2024GP），彩盒 $2.5/套从 200 起，CE/RoHS + WEEE 由他们注册，先付费样机 2 台；DE 周四 12–14；避开 12-24–01-06
+  - 不说：不提 ESRA / Strobel；不说「我们查过 Handelsregister」
+  - 复查：Northdata 看是否出现 Bundesanzeiger 年报 + 新 GF
+- 备注：研究档 KP 空 → 新增 Tobias Hübner。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,14 +143,18 @@ updated: 2026-10-27
 - **【用户表】CCTV；HRUI 商业 PoE；着重跟**
   > 主要是CCTV 洪瑞的商业PoE；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Tobias Hübner（Geschäftsführer（2022-10 起；ex ESRA GmbH Prokurist；3 名股东之一 = 推定）= **老板 = 联系人** → **经营范围白纸黑字「摄像机 / NVR / UI 白标」= 在建自有安防品牌 → OEM 30%「frogfish」PoE 4/8/16/24 配 NVR**（第 90 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/frogfish%20surveillance%20GmbH,%20Reichenbach〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 frogfish.de，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | frogfish surveillance GmbH（Amtsgericht Chemnitz HRB 35309；EUID DEU1206.HRB35309；Friedensstraße 62, 08468 Reichenbach im Vogtland；登记笔误初名「froqfish」2022-10-25 更正） |
+| 成立 | 2022-10-14（Handelsregister）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Reichenbach im Vogtland, Sachsen（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 微型（估 3–10 人）；Stammkapital €25,000；3 股东（Northdata 网络：ESRA GmbH Reichenbach / Friedrich Strobel / Simon Strobel）（第 90 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 frogfish.de，语言 en，快照状态 ok；角色判定来源：用户表；**同名陷阱：Kleinmachnow 的 Frogfish&41 GmbH（HRB 34275 Potsdam）无关**（第 90 批 官方登记核实 2026-10-27） |
 
 - **业务线**：CCTV 摄像机 / 安防机器人（自有品牌 frogfish）；配套 PoE 交换机（HRUI 贴标）
 
@@ -235,7 +256,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@frogfish.de | 用户表原值 | Clients/ 表 |
+| Tobias Hübner | Geschäftsführer（2022-10 起；ex ESRA GmbH Prokurist；3 名股东之一 = 推定）= **老板 = 联系人** → **经营范围白纸黑字「摄像机 / NVR / UI 白标」= 在建自有安防品牌 → OEM 30%「frogfish」PoE 4/8/16/24 配 NVR**（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.northdata.de/frogfish%20surveillance%20GmbH,%20Reichenbach |
 
 - **通道建议**：邮件已推送 14 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -303,7 +324,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Tobias,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the frogfish-branded PoE switch range, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS, extend mode) in your packaging from small lots alongside your current line, CE/RoHS — would a managed option fit your Premium camera kits?
 

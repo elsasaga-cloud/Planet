@@ -1,6 +1,6 @@
 # teamac-arabia.com
 
-> **评级 B**　|　阿联酋　|　档案编号 `SB-404`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-404`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-404
 rating: B
 rating_auto: B
 score: 43
-country: 阿联酋
+country: 沙特阿拉伯
+country_table: 阿联酋  # 表内原填；调研纠正为 沙特阿拉伯（research JSON country_fix）
 region: 中东
 website: teamac-arabia.com
 type: BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘）
@@ -77,7 +78,7 @@ updated: 2026-10-27
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | teamac-arabia.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 阿联酋 | 事实（用户表）|
+| 国家 | 沙特阿拉伯 | 事实（用户表）|
 | 网站/域名 | teamac-arabia.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘） | 推断（据兴趣/备注关键词） |
 | 联系人 | Khursheed Khan | 事实（用户表） |
@@ -106,7 +107,7 @@ updated: 2026-10-27
   > 8光8PoE管理 / from: 自建站
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Khursheed Khan（）khursheed.khan@teamac-arabia.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5） ｜ 国别更正为「沙特阿拉伯」（country_fix）：域名 teamac-arabia.com + 电话 +966 530708118（沙特国家码）；表内阿联酋（Q-65 国别机检 2026-10-27）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

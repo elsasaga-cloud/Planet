@@ -84,6 +84,18 @@ updated: 2026-10-27
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 90 批（CA · 1 次检索：官网 contact（Unit B135-6286 203 St, Langley BC）+ about（Surrey BC 运营、北美客户、西岸到东岸免运），2026-10-27 查；https://canacctv.com/about-us/）：**
+
+- 法定名 / 登记号：Canacctv（网店；Langley / Surrey, BC；法人名未取） · 未取（BC Registry 需付费 / JS） · 状态 **Active（官网在线）** · 成立 未取 · 未知（推定 BC 小公司或个体）
+- 行业码 / 经营范围：CCTV 监控网店（住宅 / 商用）+ 远程技术支持；自述团队有视频 / 网络传输 / 布线经验
+- 注册地址：Unit B135-6286 203 Street, Langley, BC V2Y 3S1（运营 Surrey BC）
+- 规模档：微型（估 1–5 人）
+- 账目：—；—
+- 高管：研究档无 KP（admin@canacctv.com）；法人未公开
+- **这意味着什么：**
+  - **BC 省华人区（Surrey / Langley）CCTV 网店，PoE 交换机是其配件位** → 分销 20%：4/8/16 口非管理 PoE（STI-054GP / STC-028GP / STC-228GP）挂网店，MOQ 1 箱、预付；FCC + ISED 双标；写 admin@ 问老板；CA 周三 08–10（北京 21–23）；一封无回即停
+  - 不再检索
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,8 +145,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 加拿大 |
-| 其他 | 官网 canacctv.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Canacctv（网店；法人名未取 —— BC Registry 付费 / JS） |
+| 总部/地址 | Unit B135-6286 203 Street, Langley, BC V2Y 3S1（运营 Surrey）（第 90 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 canacctv.com，语言 en-US，快照状态 ok；角色判定来源：用户表；微型 CCTV 网店 → 分销 20% 一封 admin@，无回即停（第 90 批 官方登记核实 2026-10-27） |
 
 - **业务线**：视频监控设备网店（加拿大）
 - **触达通道（公开）**：role: CCTV 供应网店（加拿大）；region: 加拿大；contact: admin@canacctv.com

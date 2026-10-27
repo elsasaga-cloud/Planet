@@ -95,6 +95,23 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 90 批（US · 1 次检索：Sunbiz 详情（P03000135286，2003-11-19，FEI 20-3029519，2016-02-16 改名，1880 NW 93 Ave Doral）+ bizprofile / bisprofiles 镜像 + 官网（LanPro® 品牌、One Stop Source、「factory representative, export worldwide」、为 Claro® 定制光纤配线架）+ LinkedIn（品牌 1997 起、11–50）+ Cortera（销售额 $5–10M、5–10 人）+ metoree（产品含 IEEE PoE 交换机），2026-10-27 查；https://www.lanpro.com/）：**
+
+- 法定名 / 登记号：LanPro Networks Inc.（原 LanPro of Miami, Inc.；Doral, FL） · FL Document P03000135286 · FEI/EIN 20-3029519 · 状态 **Active（Sunbiz）** · 成立 2003-11-19（FL；品牌 LanPro® 自 1997） · Florida Profit Corporation
+- 行业码 / 经营范围：**自有品牌 LanPro® 网络 / 电信基础设施产品（铜缆 / 光纤 / 机柜 / 无线 / 有源 PoE 交换机）**，面向拉美系统集成商 + 分销网；不做集成安装；「工厂代表」= 自己找代工出口全球；客户案例 Claro（美洲移动）
+- 注册地址：1880 NW 93rd Ave, Doral, FL 33172（迈阿密机场工业区）
+- 规模档：5–10 人（Cortera）/ 11–50（LinkedIn）
+- 账目：Cortera 估销售 $5–10M（区间量级）；—（FL 年报每年 5-01 前）
+- 高管：Trinidad LEDEZMA — 研究档 KP（asktolanpro@gmail.com = 官网公开 DM 地址，非私人邮箱）
+- 高管：法定高管未取（Sunbiz 详情页高管段未抓到）
+- 控制人 / 股东：未取
+- 曾用名：LANPRO OF MIAMI, INC.（→ 2016-02-16 改名 LanPro Networks Inc.）
+- **这意味着什么：**
+  - **硬发现：LanPro 是迈阿密的自有品牌「拉美一站式网络配件」OEM 品牌商（有源产品含 PoE 交换机，自称「工厂代表」= 找中国代工），客户是拉美集成商 / Claro 级运营商 —— 目标顺序第 1 类 OEM 品牌商** → 写 Trinidad：OEM 30%「LanPro 牌」PoE 交换机 8/16/24 口 + 工业 DIN（拉美户外机柜），FCC + CE，110–240V；拉美走迈阿密中转 = 报 DAP 迈阿密或 FOB 深圳；US 周三 08–10 EST（北京 21–23）
+  - SB-771 lanprosa.com（Samanta Navarro）疑为同一品牌的拉美公司（LanPro S.A.），见该行；若同集团 → 并一线
+  - 复查：Sunbiz 年报（5 月）看高管变更
+- 备注：研究档 facts 补 legal / founded / hq。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -145,8 +162,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 lanpro.com，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | LanPro Networks Inc.（原 LanPro of Miami, Inc.；FL Document P03000135286；FEI 20-3029519） |
+| 成立 | 2003-11-19（FL Sunbiz；品牌 LanPro® 自 1997）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 1880 NW 93rd Ave, Doral, FL 33172（迈阿密机场工业区）（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 5–10（Cortera）/ 11–50（LinkedIn）；Cortera 估销售 $5–10M（第 90 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 lanpro.com，语言 ?，快照状态 ok；角色判定来源：官网文案；与哥斯达黎加 Lanprosa（SB-771）同名但未证实关联，不合并（第 90 批 官方登记核实 2026-10-27） |
 
 - **业务线**：网络组件（铜缆 / 光纤 / 无线 / 有源，自有品牌 LanPro）
 - **触达通道（公开）**：role: 网络组件品牌商（美国/拉美，自有品牌 LanPro）；region: 美国；contact: asktolanpro@gmail.com

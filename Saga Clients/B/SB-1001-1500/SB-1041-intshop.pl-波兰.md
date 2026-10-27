@@ -87,6 +87,18 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 90 批（PL · 1 次检索：intshop.pl 联系页（法定名 INTALL sp. z o.o.，NIP 6312679269，REGON 380028515，Bojkowska 22, 44-100 Gliwice；「noning 2019 年在 Gliwice 成立，欧洲 IT 方案集成商，对接欧洲仓即时供货」；IdoSell 网店系统），2026-10-27 查；https://intshop.pl/contact-eng.html）：**
+
+- 法定名 / 登记号：INTALL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ（品牌 noning / 网店 intshop.pl；Gliwice） · NIP 6312679269 · REGON 380028515（KRS 号未取） · 状态 **Aktywna（网店在线）** · 成立 2019（自述；REGON 38… ≈ 2018） · sp. z o.o.
+- 行业码 / 经营范围：IT 设备网店 + 项目集成（网络 / 服务器 / 配件，欧洲分销仓转卖）
+- 注册地址：ul. Bojkowska 22, 44-100 Gliwice（Śląsk）
+- 规模档：微型（估 2–5 人）
+- 账目：—（KRS 年报可取，未取）；PL 年报 7 月
+- 高管：研究档无 KP（info@noning.pl）；zarząd 未取
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **格利维采的小型 IT 网店 / 转卖商（2019），靠欧洲分销仓发货，没有自己的货** → 低优先：分销 20%、MOQ 1 箱 + 100% 预付的一页报价挂网店即可；写 info@；一封无回即停；PL 周四 12–14
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,7 +134,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
+| 法定名称 | INTALL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ（品牌 noning / 网店 intshop.pl；NIP 6312679269 · REGON 380028515） |
+| 成立 | 2019（自述）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | ul. Bojkowska 22, 44-100 Gliwice（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 intshop.pl，语言 fr-FR，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：网络产品网店 / 销售平台（波兰）

@@ -76,6 +76,21 @@ updated: 2026-10-27
 
 - 法定假日：11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 90 批（CZ · 1 次检索：官网 o-nas / kontakt / dodací podmínky（2012-01-02 成立，承接 UTC Fire & Security 捷克办公室关闭后的业务；Aritech / Interlogix / GE Security 血统；Městský soud v Praze C 188256）+ podnikatel / kurzy / penize / finmag / mesec 商业登记镜像（IČO 24202908，jednatel Ing. Tomáš Pavlíček，Černošice，2012-01-02 起，独立代表）+ firmy.cz（UTC F&S 捷克斯洛伐克独家分销 + TIANDY 摄像机捷克斯洛伐克独家分销）+ zivefirmy（电子安防批发 + 网店），2026-10-27 查；https://www.podnikatel.cz/rejstrik/techfors-cz-s-r-o-24202908/）：**
+
+- 法定名 / 登记号：Techfors CZ s.r.o.（Praha 4 – Krč） · IČO 24202908 · DIČ CZ24202908 · OR Praha C 188256 · 状态 **Aktivní** · 成立 2012-01-02 · s.r.o.（股东未取；jednatel 单人 → 推定业主）
+- 行业码 / 经营范围：安防技术批发（EZS 报警 / EPS 火警 / CCTV / 门禁 / 疏散广播）：UTC Fire & Security（现 Carrier / Aritech）捷克斯洛伐克独家 + TIANDY 摄像机 CZ/SK 独家；网店
+- 注册地址：Na staré vinici 395/7, Krč, 140 00 Praha 4
+- 规模档：小型（估 5–15 人）
+- 账目：—（justice.cz Sbírka listin 可取，未取）；CZ 年报 12-31 后 12 个月
+- 高管：Ing. Tomáš PAVLÍČEK — jednatel（2012-01-02 起，独立代表；ex UTC Fire & Security 捷克）= 推定业主 = 联系人
+- 控制人 / 股东：推定 Tomáš Pavlíček
+- **这意味着什么：**
+  - **老板 = 联系人：Pavlíček 的布拉格安防批发（UTC/Aritech 血统 + 一家中国摄像机品牌的 CZ/SK 独家），卖摄像机就要配 PoE** → 写 Tomáš：分销 20%，CCTV 配套 PoE 4/8/16/24（STI-054GP / STC-028GP / STC-228GP / STC-2024GP），CE/RoHS，MOQ 1 箱，首单 50/50；CZ 周四 12–14；避开 12-24–01-06
+  - 不说：不提 Tiandy / UTC；不说「我们查过登记」
+  - 复查：justice.cz 年报次年看营收档
+- 备注：研究档 KP 空 → 新增 Tomáš Pavlíček。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,13 +124,17 @@ updated: 2026-10-27
 - **【用户表】IFS 工业 FS MC CCTV**
   > IFS这个牌子  工业FS MC CCTV；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Tomáš Pavlíček（Ing.；jednatel（2012-01-02 起，独立代表；ex UTC Fire & Security 捷克）= 推定业主 = **联系人** → CCTV PoE 分销 20%（第 90 批 官方登记核实 2026-10-27）） 〔https://or.justice.cz/ias/ui/rejstrik-$firma?ico=24202908〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 捷克 |
+| 法定名称 | Techfors CZ s.r.o.（IČO 24202908；DIČ CZ24202908；OR Praha C 188256） |
+| 成立 | 2012-01-02（Obchodní rejstřík）（第 90 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Na staré vinici 395/7, Krč, 140 00 Praha 4（第 90 批 官方登记核实 2026-10-27） |
+| 人数 | 估 5–15 人（第 90 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 techfors.cz，语言 cz，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：CCTV / 安防分销（IFS 等）
@@ -210,7 +229,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | firma@techfors.cz | 用户表原值 | Clients/ 表 |
+| Tomáš Pavlíček | Ing.；jednatel（2012-01-02 起，独立代表；ex UTC Fire & Security 捷克）= 推定业主 = **联系人** → CCTV PoE 分销 20%（第 90 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://or.justice.cz/ias/ui/rejstrik-$firma?ico=24202908 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
