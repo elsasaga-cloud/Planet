@@ -10605,7 +10605,7 @@
    "first_sent": "2026-03-23",
    "last_sent": "2026-10-01",
    "bounce_days": 0,
-   "sent_180d": 6,
+   "sent_180d": 5,
    "opened_180d": 0,
    "streak_unopened": 8
   },
@@ -29689,6 +29689,26 @@
    "own_label": [],
    "social": [],
    "fetched": "2026-10-21"
+  },
+  "github": {
+   "accounts": [
+    {
+     "login": "bluenotecommunications",
+     "type": "Organization",
+     "url": "https://github.com/bluenotecommunications",
+     "name": "Bluenote Communications SA",
+     "blog": "www.bluenote.ro",
+     "email": "office@bluenote.ro",
+     "company": null,
+     "public_repos": 0,
+     "created_at": "2025-09-23T09:29:57Z",
+     "updated_at": "2025-09-23T09:38:06Z",
+     "bio": "",
+     "match": "strong"
+    }
+   ],
+   "repos_mentioning_n": 0,
+   "checked_at": "2026-10-27T04:23:59Z"
   },
   "calendar": {
    "holidays": [
@@ -51337,20 +51357,6 @@
     "mb": "S"
    }
   ],
-  "words": {
-   "n_mails": 3,
-   "chars": 254,
-   "topics": [],
-   "competitors": [
-    [
-     "Barox",
-     3,
-     "2024-05-03"
-    ]
-   ],
-   "chips": [],
-   "qty": []
-  },
   "channels": {
    "S": {
     "out": 6,

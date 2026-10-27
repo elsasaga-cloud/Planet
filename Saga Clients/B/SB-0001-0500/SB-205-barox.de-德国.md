@@ -78,7 +78,6 @@ updated: 2026-10-27
 
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 444 条 URL；站内可见品牌 1 个（barox）；社媒：https://ch.linkedin.com/company/barox-kommunikation-ag、https://www.youtube.com/@baroxkommunikationag4606。
 - **写信的人（来信签名机械抽取）**：Luis Coello — Sales director Barox (META)（luis.coello@barox.de，3 封，2024-05-02 → 2024-05-03）。
-- **他们嘴里的词（3 封来信、去引用后 254 字符的词频）**：**提到的同行品牌**：Barox ×3（2024-05-03）。
 - **渠道反应**：S 箱（Simon） 去 6（1:1 4 / 群发 2）回 3，最近回 2024-05-03；A 箱（Alan） 去 20（1:1 0 / 群发 20）回 0，从未回 → 只对 S 箱 Simon 有反应，下一封别换箱。
 - **最后一球**：1:1 对话 1 段，最长一段 7 封 / 跨 55 天（2024-05-02 → 2024-06-26，「Re: Industrial Ethernet Switch」）；最后一句是我们说的（2024-06-26，852 天前，「Re: Industrial Ethernet Switch」，`9087effa8f6271a6`）→ 球在对方手里。
 - **同国同档参照（DE，30% 档、主推线「工业 PoE 非管理」，共 1 户有动静，列前 3）**：SA-008 fiberone.de（A，同档：成交 STC-4168XGGCM、STC-424XGGM，回过 43 次（最近 2026-10-15），1:1 报过 14 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。

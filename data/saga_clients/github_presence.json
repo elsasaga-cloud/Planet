@@ -3523,5 +3523,649 @@
   "accounts": [],
   "repos_mentioning": [],
   "checked_at": "2026-10-27T04:24:27Z"
+ },
+ "SB-1017": {
+  "domain": "cellco.com.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:24:38Z"
+ },
+ "SB-1018": {
+  "domain": "coeldistribution.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:24:52Z"
+ },
+ "SB-1019": {
+  "domain": "connectixcablingsystems.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:25:05Z"
+ },
+ "SB-102": {
+  "domain": "densoelectronics.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:25:16Z"
+ },
+ "SB-1020": {
+  "domain": "cratsol.ae",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:25:29Z"
+ },
+ "SB-1021": {
+  "domain": "cyberbajt.pl",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "blazejkapala/homelab",
+    "url": "https://github.com/blazejkapala/homelab",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2023-01-16T01:15:56Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:25:40Z"
+ },
+ "SB-1022": {
+  "domain": "danbit.dk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:25:53Z"
+ },
+ "SB-1023": {
+  "domain": "dipol.pt",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "ohlsw/DipolantennaPT2025",
+    "url": "https://github.com/ohlsw/DipolantennaPT2025",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-05-27T09:01:56Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:26:05Z"
+ },
+ "SB-1024": {
+  "domain": "dowtechnologies.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:26:20Z"
+ },
+ "SB-1025": {
+  "domain": "elfon.com.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:26:34Z"
+ },
+ "SB-1026": {
+  "domain": "epygi.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "SevereCloud/arti",
+    "url": "https://github.com/SevereCloud/arti",
+    "desc": "arti with snowflake, obfs4proxy and webtunnel",
+    "stars": 4,
+    "pushed_at": "2026-10-26T14:15:36Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "ja7ad/snowflake",
+    "url": "https://github.com/ja7ad/snowflake",
+    "desc": "Snowflake module",
+    "stars": 0,
+    "pushed_at": "2023-03-07T01:28:37Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "leon0625/myip",
+    "url": "https://github.com/leon0625/myip",
+    "desc": "使用stun协议，查询自己的公网IPv4地址",
+    "stars": 0,
+    "pushed_at": "2025-11-21T02:38:23Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "ppijbb/Active_WebRTC_STUN_Servers",
+    "url": "https://github.com/ppijbb/Active_WebRTC_STUN_Servers",
+    "desc": "사용 가능한 stun 서버 목록",
+    "stars": 0,
+    "pushed_at": "2023-01-30T06:45:53Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Soji-lion/snowflake_staging_test",
+    "url": "https://github.com/Soji-lion/snowflake_staging_test",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-16T02:43:00Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:26:47Z"
+ },
+ "SB-1027": {
+  "domain": "everbesthk.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:26:58Z"
+ },
+ "SB-1028": {
+  "domain": "fibersavvy.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:27:12Z"
+ },
+ "SB-1029": {
+  "domain": "fibersystem.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:27:26Z"
+ },
+ "SB-103": {
+  "domain": "grundig-security.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:27:40Z"
+ },
+ "SB-1030": {
+  "domain": "fibertronics.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:27:56Z"
+ },
+ "SB-1031": {
+  "domain": "findcontrols.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:28:09Z"
+ },
+ "SB-1032": {
+  "domain": "foppex.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:28:25Z"
+ },
+ "SB-1033": {
+  "domain": "garmasl.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:28:35Z"
+ },
+ "SB-1034": {
+  "domain": "gogss.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:28:48Z"
+ },
+ "SB-1035": {
+  "domain": "gponnetwork.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:29:00Z"
+ },
+ "SB-1036": {
+  "domain": "grinsrl.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:29:14Z"
+ },
+ "SB-1037": {
+  "domain": "hightrade-international.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:29:25Z"
+ },
+ "SB-1038": {
+  "domain": "icecom.is",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:29:36Z"
+ },
+ "SB-1039": {
+  "domain": "ico.de",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "ideawu/icomet-demos",
+    "url": "https://github.com/ideawu/icomet-demos",
+    "desc": "Demos for icomet server",
+    "stars": 85,
+    "pushed_at": "2016-06-23T03:13:27Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "maybeisyi/ChangeAppIconDemo",
+    "url": "https://github.com/maybeisyi/ChangeAppIconDemo",
+    "desc": "iOS 10.3 更换App图标 系列文章Demo",
+    "stars": 131,
+    "pushed_at": "2017-05-05T15:08:40Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "wxzwork/IconfontDemo",
+    "url": "https://github.com/wxzwork/IconfontDemo",
+    "desc": "如何在项目中使用Iconfont",
+    "stars": 22,
+    "pushed_at": "2016-12-19T09:47:35Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "madmaxms/iconpack-delft",
+    "url": "https://github.com/madmaxms/iconpack-delft",
+    "desc": "Continuation of Faenza icon theme with up to date app icons",
+    "stars": 78,
+    "pushed_at": "2024-02-12T03:48:46Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "ensaktas1/icones-desktop",
+    "url": "https://github.com/ensaktas1/icones-desktop",
+    "desc": "Native macOS icon browser for the Iconify ecosystem — 200k+ icons, built with Tauri + React",
+    "stars": 86,
+    "pushed_at": "2026-07-03T20:46:38Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:29:52Z"
+ },
+ "SB-104": {
+  "domain": "stsitalia.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:30:03Z"
+ },
+ "SB-1040": {
+  "domain": "icpdas.ro",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:30:17Z"
+ },
+ "SB-1041": {
+  "domain": "intshop.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:30:32Z"
+ },
+ "SB-1042": {
+  "domain": "iotkomponenty.sk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:30:48Z"
+ },
+ "SB-1043": {
+  "domain": "ipcamerawebwinkel.nl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:31:02Z"
+ },
+ "SB-1044": {
+  "domain": "ipcctv.ch",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:31:15Z"
+ },
+ "SB-1045": {
+  "domain": "itm-components.co.uk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:31:30Z"
+ },
+ "SB-1046": {
+  "domain": "ivolta.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:31:43Z"
+ },
+ "SB-1047": {
+  "domain": "kamsys.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:31:57Z"
+ },
+ "SB-1048": {
+  "domain": "kargor.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:32:12Z"
+ },
+ "SB-1049": {
+  "domain": "kdelectronics.ie",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:32:24Z"
+ },
+ "SB-105": {
+  "domain": "cenova.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:32:38Z"
+ },
+ "SB-1050": {
+  "domain": "keydence.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:32:50Z"
+ },
+ "SB-1051": {
+  "domain": "klemsan.com.tr",
+  "accounts": [
+   {
+    "login": "Klemsan",
+    "type": "Organization",
+    "url": "https://github.com/Klemsan",
+    "name": "Klemsan",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 1,
+    "created_at": "2026-06-23T09:08:48Z",
+    "updated_at": "2026-06-23T09:12:12Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "klemsan-CICD-sandbox",
+      "pushed_at": "2026-06-24T09:09:17Z",
+      "lang": "C",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:33:05Z"
+ },
+ "SB-1052": {
+  "domain": "lan.hu",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "hwchase17/langchain-hub",
+    "url": "https://github.com/hwchase17/langchain-hub",
+    "desc": "",
+    "stars": 3413,
+    "pushed_at": "2023-09-29T16:24:10Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "tummychow/lanyon-hugo",
+    "url": "https://github.com/tummychow/lanyon-hugo",
+    "desc": "Port of poole/lanyon, to spf13/hugo",
+    "stars": 160,
+    "pushed_at": "2021-07-06T00:21:24Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "theNewDynamic/language-hugo-vscode",
+    "url": "https://github.com/theNewDynamic/language-hugo-vscode",
+    "desc": "Adds syntax highlighting to Hugo files in VS Code",
+    "stars": 74,
+    "pushed_at": "2024-01-05T18:12:05Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "camille-vanhoffelen/langchain-huggingGPT",
+    "url": "https://github.com/camille-vanhoffelen/langchain-huggingGPT",
+    "desc": "Langchain implementation of HuggingGPT",
+    "stars": 136,
+    "pushed_at": "2023-06-02T14:43:32Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "FanaHOVA/langchain-hub-ui",
+    "url": "https://github.com/FanaHOVA/langchain-hub-ui",
+    "desc": "A web UI for LangChainHub, built on Next.js",
+    "stars": 41,
+    "pushed_at": "2023-01-28T01:58:08Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:33:17Z"
+ },
+ "SB-1053": {
+  "domain": "lichtleiterkabel.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:33:28Z"
+ },
+ "SB-1054": {
+  "domain": "luxritesecurity.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:33:41Z"
+ },
+ "SB-1055": {
+  "domain": "marcomweb.it",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:33:52Z"
+ },
+ "SB-1056": {
+  "domain": "mikrodev.com",
+  "accounts": [
+   {
+    "login": "mikrodev",
+    "type": "User",
+    "url": "https://github.com/mikrodev",
+    "name": "Mikrodev Limited",
+    "blog": "www.mikrodev.com",
+    "email": null,
+    "company": "Mikrodev",
+    "public_repos": 1,
+    "created_at": "2020-01-22T10:02:57Z",
+    "updated_at": "2026-06-25T13:33:36Z",
+    "bio": "",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "Documentation",
+      "pushed_at": "2026-04-07T12:51:39Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "Mikrodev-HalilSafakSimsek",
+    "type": "User",
+    "url": "https://github.com/Mikrodev-HalilSafakSimsek",
+    "name": "Mikrodev - Halil Şafak Şimşek",
+    "blog": "www.mikrodev.com",
+    "email": null,
+    "company": "MikroDev",
+    "public_repos": 0,
+    "created_at": "2026-06-26T06:55:16Z",
+    "updated_at": "2026-09-03T11:58:34Z",
+    "bio": "",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "emirhannavdar/Solar-Lab",
+    "url": "https://github.com/emirhannavdar/Solar-Lab",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-13T12:17:49Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:34:03Z"
+ },
+ "SB-1057": {
+  "domain": "mondoplast.ro",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "alexakajustin/OmniBuy",
+    "url": "https://github.com/alexakajustin/OmniBuy",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-07T10:40:27Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T04:34:16Z"
+ },
+ "SB-1058": {
+  "domain": "multiproject.com.pl",
+  "accounts": [
+   {
+    "login": "MultiProject23",
+    "type": "Organization",
+    "url": "https://github.com/MultiProject23",
+    "name": "MultiProject",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 2,
+    "created_at": "2023-02-28T06:28:18Z",
+    "updated_at": "2023-03-06T04:07:41Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "SEMO",
+      "pushed_at": "2023-04-16T15:13:29Z",
+      "lang": "JavaScript",
+      "desc": "세상의 모든 옷 프로젝트 SEMO 입니다!",
+      "fork": false
+     },
+     {
+      "name": "React-Project",
+      "pushed_at": "2023-03-29T14:05:08Z",
+      "lang": "JavaScript",
+      "desc": "React로 구현하는 토이 프로젝트",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:34:29Z"
+ },
+ "SB-1059": {
+  "domain": "neteon.net",
+  "accounts": [
+   {
+    "login": "Neteon-net",
+    "type": "Organization",
+    "url": "https://github.com/Neteon-net",
+    "name": "Neteon",
+    "blog": "https://www.neteon.net/",
+    "email": null,
+    "company": null,
+    "public_repos": 4,
+    "created_at": "2026-10-16T01:34:51Z",
+    "updated_at": "2026-10-16T16:29:20Z",
+    "bio": "An American industrial distributor and solution provider specializing in Industrial Internet of Things (IIoT), industrial digital transformation, and network in",
+    "match": "strong",
+    "repos": [
+     {
+      "name": "nexvdo-samples",
+      "pushed_at": "2026-07-16T16:55:52Z",
+      "lang": "C++",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "nexvdo-docs",
+      "pushed_at": "2026-07-16T16:55:44Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": ".github",
+      "pushed_at": "2026-07-16T16:55:40Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "YUAN",
+      "pushed_at": "2026-07-16T16:55:34Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "neteon-technologies",
+    "type": "Organization",
+    "url": "https://github.com/neteon-technologies",
+    "name": "Neteon Technologies",
+    "blog": "https://neteon.net",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2023-04-25T03:49:35Z",
+    "updated_at": "2023-04-25T03:51:53Z",
+    "bio": "",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "Neteon-net/.github",
+    "url": "https://github.com/Neteon-net/.github",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-07-16T16:55:40Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "Neteon-net/YUAN",
+    "url": "https://github.com/Neteon-net/YUAN",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-07-16T16:55:34Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "Neteon-net/nexvdo-samples",
+    "url": "https://github.com/Neteon-net/nexvdo-samples",
+    "desc": "",
+    "stars": 1,
+    "pushed_at": "2026-07-16T16:55:52Z",
+    "owner_type": "Organization"
+   },
+   {
+    "full_name": "Neteon-net/nexvdo-docs",
+    "url": "https://github.com/Neteon-net/nexvdo-docs",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-07-16T16:55:44Z",
+    "owner_type": "Organization"
+   }
+  ],
+  "checked_at": "2026-10-27T04:34:45Z"
+ },
+ "SB-106": {
+  "domain": "citicalls.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:35:02Z"
+ },
+ "SB-1060": {
+  "domain": "norteh.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:35:12Z"
+ },
+ "SB-1061": {
+  "domain": "obserwuj.pl",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T04:35:26Z"
  }
 }

@@ -1663,16 +1663,24 @@ def write_deep_overview(index):
         dp = rs.get('deep') or {}
         sf = rs.get('saga_fit') or {}
         seen = rs.get('products_seen') or []
-        rows.append('| {code} | {name} | {c} | {lvl} | {p1} | {tier} | {n} | {why} | `{fn}` |'.format(
+        dm = DIMS.get(e['code']) or {}
+        heat = (dm.get('heat') or {}).get('score', '')
+        bl = dm.get('ball') or {}
+        if bl:
+            ball = ('**他们**' if bl.get('last_dir') == 'in' else '我们') + f" {bl.get('last_date', '')}（{bl.get('days_since', '')} 天）"
+        else:
+            ball = '—'
+        rows.append('| {code} | {name} | {c} | {lvl} | {p1} | {tier} | {n} | {heat} | {ball} | {why} | `{fn}` |'.format(
             code=e['code'], name=(rs.get('name_official') or e['name'])[:40].replace('|', '/'), c=e['country'],
             lvl=(dp.get('level') or '未加厚').replace('|', '/'), p1=sf.get('p1') or ('待核型' if 'p1' in sf else '—'),
-            tier=f"{sf.get('tier')}%" if sf.get('tier') else '—', n=len(seen),
+            tier=f"{sf.get('tier')}%" if sf.get('tier') else '—', n=len(seen), heat=heat, ball=ball,
             why=(sf.get('why') or '')[:90].replace('|', '/'), fn=fn))
     done = sum(1 for e, _ in index.get('A', []) if (e.get('research') or {}).get('deep'))
     L = ['# A 级客户 · 加厚挖掘总览', '',
          f'> 生成：{TODAY}　|　A 级 {len(index.get("A", []))} 家，已加厚 {done} 家（深挖块 = 公司事实 / 业务线 / 在卖在用型号→Saga 对位 / 公开通道 / 近况信号 / 风险 / 对位结论 / 英文切入句，均在各自 MD 的「客户调研 → 加厚挖掘」小节）。',
          '>', '> 改 `data/saga_clients/research/<编号>.json`（经 `scripts/saga_clients/deepen.py`）后重跑 `render.py` 生成；**不手改**。', '',
-         '| 编号 | 公司 | 国家 | 深挖等级 | P1 | 档位 | 型号条数 | 对位理由（摘） | 文件 |', '|---|---|---|---|---|---|---|---|---|']
+         '> 「热度」「最后一句」两列来自第 79 批多维画像（`dims.json`）：热度 0–100 = 最近来信 / 回过几次 / 近 12 个月打开 / 成交 / 1:1 报价；最后一句 = 1:1 对话里最后说话的是谁与日期（**他们** = 球在我们手里）。', '',
+         '| 编号 | 公司 | 国家 | 深挖等级 | P1 | 档位 | 型号条数 | 热度 | 最后一句 | 对位理由（摘） | 文件 |', '|---|---|---|---|---|---|---|---|---|---|---|']
     L += rows
     with open(os.path.join(OUT_DIR, 'A', '_加厚总览.md'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(L) + '\n')

@@ -689,8 +689,11 @@ def main():
                     if n:
                         topics[k] += n
                         topic_last[k] = m['dt'].date().isoformat()
+                self_words = (e.get('name') or '').lower() + ' ' + ' '.join(e.get('domains') or []).lower()
                 for cm in COMP_RE.findall(low):
                     key = COMP_CANON.get(cm.lower(), cm)
+                    if key.lower().replace('-', '') in self_words.replace('-', ''):
+                        continue                                   # 客户自己就是这个牌子（barox.de 提 Barox）
                     comps[key] += 1
                     comp_last[key] = m['dt'].date().isoformat()
                 for qm in QTY_RE.finditer(low):
