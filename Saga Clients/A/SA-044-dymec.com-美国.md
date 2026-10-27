@@ -112,6 +112,25 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 84 批（USA · 官网 About / 联系页 + PRWeb（2015 更名公告）+ PitchBook / Tracxn（并购史）+ LinkedIn，2026-10-27 查；https://www.dymec.com/about/）：**
+
+- 法定名 / 登记号：KYLAND-USA, LLC（dba DYMEC / K-USA） · LLC（密苏里 / 得州登记号待补）· Veteran Owned Small Business（VOSB） · 状态 **经营中（官网联系页 2026-02 更新）** · 成立 Kyland-USA 约 2006–2008 成立；2015-02-19 收购 DYMEC 品牌（Tracxn）；2015-12-23 统一更名 DYMEC（PRWeb）。原 DYMEC, Inc.（1970 年创立）2006-07-31 被 GarrettCom 收购 · LLC · 退伍军人所有小企业（VOSB）
+- 行业码 / 经营范围：工业以太网交换机（温宽、变电站级）、SCADA 通信设备设计；交通流量 AI 计数（LinkedIn）；DYMEC 商标 / 专利归 Kyland-USA, LLC
+- 注册地址：1107 SE Willow Pl, Blue Springs, MO 64014-5248（总部）；2243 N. Mason Rd Suite 402, Katy, TX 77449（得州办公）
+- 规模档：4–11 人（PitchBook 4 / Lusha 1–10）；LinkedIn 11–50
+- 账目：私人公司不公开；估计营收 $1–5M（ContactOut）/ $11.3M（RocketReach，不可信）
+- 高管：Thomas WEST — President（Sales & Engineering），持两项交通组网专利 = 研究档 KP，也是 SA-033 BlueWARRIOR 的 KP → **两户同一人**
+- 高管：Thom SHERER — 研究档 KP（职务待核）
+- 高管：历史：John Shaw 为原 DYMEC, Inc. 总裁（2006 并入 GarrettCom）
+- 控制人 / 股东：退伍军人创始团队（Thomas West 等）
+- 曾用名：Kyland-USA, LLC / KUSA（2008–2015）→ DYMEC（2015-12 起品牌统一）
+- **这意味着什么：**
+  - **公司实体叫 Kyland-USA, LLC —— 名字就说明它曾是北京东土（Kyland）在美国的代理 / 合作方**：他们对中国工业交换机的货源、价格、品质门槛非常熟，Saga 工业 STI 系列报价会被拿去和东土比；强调差异点（Marvell 芯片、L3、3 年质保、小单灵活）而不是比低价
+  - **Thomas West 同时是 SA-033 BlueWARRIOR 的联系人**：两户并一线（㉚ 规则），报价口径必须一致；BlueWARRIOR 大概率是同一团队的另一个品牌 / 渠道，下一轮核
+  - VOSB（退伍军人小企业）在美国联邦 / 州采购里有配额加分：他们买我们的整机贴 DYMEC 标再投政府项目 → OEM 30% 线；原产地标注要如实（Made in China），不替他们做任何「American Made」背书
+  - 4–11 人的小公司：T/T 100% 预付或 50/50，MOQ 1；得州 + 密苏里两址，PI 前确认收货地
+- 备注：LLC 登记州未定（MO 或 TX），下一轮用 web_search 补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -150,15 +169,16 @@ updated: 2026-10-27
   > Over Ethernet Ports:8 Network Chipset Mfr:Broadcom Power Input:48~57 Volts DC Temperature Hardened:YES Operating Temperature:Ext:-40°C ~ 85°C … DYMEC Warranty:5 Year / Limited Lifetime $299.00
   > 来源：https://www.dymec.com/product-catalog/economy-industrial-ethernet-switches/（抓取 2026-10-21）
 - **KP**：Thom Sherer（联系人（用户表邮箱））thom.sherer@dymec.com +1 713-826-0739〔https://www.dymec.com/〕
-- **KP**：Thomas West（来信署名人（职务未在邮件署名里出现））sales@dymec.com 〔S/A 邮箱来信 2024-07-30 → 2025-03-28 来信 4 封（经 sales@ 公共箱署名）（第 72 批从邮件表头补）〕
+- **KP**：Thomas West（President（Sales & Engineering，两项交通组网专利）= 拍板人；**同时是 SA-033 BlueWARRIOR 的联系人**；法人 Kyland-USA, LLC（dba DYMEC，VOSB 退伍军人小企业，2015-02 收购 DYMEC 品牌、2015-12 统一更名）（第 84 批 官方登记核实 2026-10-27））sales@dymec.com 〔S/A 邮箱来信 2024-07-30 → 2025-03-28 来信 4 封（经 sales@ 公共箱署名）（第 72 批从邮件表头补）〕
 - 备注：A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA 的 Economy 线，P1 = STI-288DGGPM / STI-488XGGPM 贴牌，30% OEM 档；不承诺 TAA/NSA/UL。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + dymecdirect 清仓价核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | DYMEC |
+| 法定名称 | KYLAND-USA, LLC dba DYMEC（原 DYMEC, Inc. 1970 年创立、2006 并入 GarrettCom；Kyland-USA 2008 前后成立） |
 | 总部/地址 | Katy/Houston, Texas & Blue Springs, Missouri, USA |
+| 人数 | 4–11（第 84 批 官方登记核实 2026-10-27） |
 | 其他 | Economy 线在 dymecdirect.com 大幅清仓（KY-3120DM $1,295 → $395；KY-2189RG → $449）——Economy 线可能换代/换源；主线强调 IEC 61850-3、IEEE 1588v2、MRP、HSE 高安全、Traffic/Railway（守界：铁路不供） |
 
 - **业务线**：工业交换机 KY- 系列（DIN/机架、L2/L3、PoE/bt、10G）；Economy 线（KY-3120DM $590、KY-2189RG $299）；SFP 配套
@@ -262,7 +282,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Thom Sherer | 联系人（用户表邮箱） | thom.sherer@dymec.com / +1 713-826-0739 | 调研核实（公开页） | https://www.dymec.com/ |
-| Thomas West | 来信署名人（职务未在邮件署名里出现） | sales@dymec.com | 调研核实（公开页） | S/A 邮箱来信 2024-07-30 → 2025-03-28 来信 4 封（经 sales@ 公共箱署名）（第 72 批从邮件表头补） |
+| Thomas West | President（Sales & Engineering，两项交通组网专利）= 拍板人；**同时是 SA-033 BlueWARRIOR 的联系人**；法人 Kyland-USA, LLC（dba DYMEC，VOSB 退伍军人小企业，2015-02 收购 DYMEC 品牌、2015-12 统一更名）（第 84 批 官方登记核实 2026-10-27） | sales@dymec.com | 调研核实（公开页） | S/A 邮箱来信 2024-07-30 → 2025-03-28 来信 4 封（经 sales@ 公共箱署名）（第 72 批从邮件表头补） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

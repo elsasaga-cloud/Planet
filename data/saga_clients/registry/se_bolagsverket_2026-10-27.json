@@ -1,0 +1,47 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Sverige · Bolagsverket（allabolag / rating.se / hitta 镜像）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SA-043": {
+   "batch": 84,
+   "name": "DIREKTRONIK AKTIEBOLAG（Direktronik AB）",
+   "iso": "SE",
+   "source": "Sverige · Bolagsverket 登记镜像（allabolag / rating.se / hitta / syna / bolagsfakta）",
+   "url": "https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning/2JZYJ4FI63IFR",
+   "number": "Org.nr 556281-9663 · VAT SE556281966301 · F-skatt 登记",
+   "status": "Aktiv（经营中）",
+   "incorporated": "1986-09-11（登记；hitta 口径 09-17）",
+   "company_type": "Aktiebolag（AB）· 股本 300,000 SEK · 100% 子公司，母公司 Lagercrantz Group AB（556282-4556，斯德哥尔摩上市工业集团）；另有 1 家子公司",
+   "sic": [
+    "SNI 46502 电子元器件 / 网络通信设备批发（自有品牌 Direktronik：工业以太网、媒体转换、PoE、串口 / KVM 等）"
+   ],
+   "address": "Konsul Johnsons Väg 15, 149 45 Nynäshamn（Box 234, 149 23 Nynäshamn）",
+   "accounts": "财年 3 月止：2025-03 营收 133,047 kSEK（≈ $13M）/ 28 人；2024-03 130,548 kSEK / 26 人；2023-03 142,088 kSEK / 25 人；董事会+VD 薪酬 1,642 kSEK",
+   "accounts_due": "财年 4-01→3-31，年报约 9 月前公开",
+   "size_band": "28 人（2025），人均营收 4.75 MSEK",
+   "officers": [
+    "Henrik Johan RINGSTEDT — Extern VD（外聘总经理）",
+    "Mats Johan RYDÉN — Styrelseordförande（董事长；Lagercrantz 集团层面）",
+    "Lars Andreas HEDER / Elisabet Lina ÅLANDER — Styrelseledamot（董事）",
+    "研究档 KP Anders Hedin / Mats Backlund — 产品 / 采购经办，**不是董事**；审计 Johan Hulthin"
+   ],
+   "psc": "Lagercrantz Group AB 100%（上市集团，年报公开）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上市集团（Lagercrantz）子公司、专业「技术贸易 + 自有品牌」模式**：Direktronik 就是靠贴自己标卖亚洲 ODM 的——这是教科书式 OEM 品牌商目标（《背景信息》顺位第 1）→ OEM 30% 线，提案「Direktronik-branded managed / industrial PoE switches」，联系人 Anders Hedin / Mats Backlund 是产品经办，拍板 VD Ringstedt",
+    "营收三年横盘 130–142 MSEK（约 $13M）、28 人：集团对毛利有 KPI（Lagercrantz 公开目标 EBITA 率），他们换供应商看的是毛利与交期稳定，不是最低价；报价给「阶梯价 + 年度框架」",
+    "北欧合规：CE / RoHS / REACH 必备，可能问 WEEE 注册与包装法（瑞典 FTI）—— 由进口方负责，信里不碰；付款：集团公司常要 30 天账期，首单坚持 T/T 预付、第二单起可谈 30/70",
+    "财年 3 月止，预算 1–3 月定 → 2027-Q1 前（2026-11/12）送年度框架提案最合时；7 月瑞典全员休假避开"
+   ],
+   "notes": "新增来源键 se（Bolagsverket 镜像），后续 SE 户复用。",
+   "fetched": "2026-10-27",
+   "code": "SA-043"
+  }
+ }
+}

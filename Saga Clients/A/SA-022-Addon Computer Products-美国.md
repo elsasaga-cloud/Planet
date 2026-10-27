@@ -108,6 +108,26 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 84 批（USA · BBB 登记摘要 + 加州实体（corporationwiki / OpenCorporates 摘要）+ 纽约州 OGS 合同公告 + CourtListener，2026-10-27 查；https://www.bbb.org/us/ca/tustin/profile/computer-parts/add-on-computer-peripherals-llc-1126-100022963）：**
+
+- 法定名 / 登记号：ADD-ON COMPUTER PERIPHERALS, LLC（AddOn Networks） · California LLC（2002-12-26）；另有 Add-On Computer Peripherals, Inc.（2000，Active，President James W. Patton）· 联邦税号 05-0549009（NY OGS 合同 PM69867 公告） · 状态 **经营中；纽约州 OGS 集中采购合同持有人（PM69867，2024）** · 成立 业务始于 2000-04-28；LLC 2002-12-26（BBB）；品牌口径 1999 · LLC（California）· 私人持有（Patton / McCormick 管理层）
+- 行业码 / 经营范围：兼容光模块 / 高速线缆 / 内存升级制造与分销（ZoomInfo：Telecommunication Equipment；Buzzfile：制造 + 进口 + 出口）
+- 注册地址：15773–15775 Gateway Circle, Tustin, CA 92780（单址；研究档另有 UK / Belgium 仓）
+- 规模档：201–500 人（ZoomInfo）/ 本址 73 人 → 中型制造分销商
+- 账目：私人公司不公开；估计营收 $61.8M（ZoomInfo / Datanyze）、Cortera 区间 $50–75M；Buzzfile 单址口径 $9.3M；加州 LLC 每两年 Statement of Information
+- 高管：Matt (Matthew) McCORMICK — CEO（= 研究档 KP）
+- 高管：James W. (Jimmy) PATTON — President（Inc. 实体 2000 年起；LLC Managing Member）→ 所有者家族（Katherine Patton 任 Financial Manager）
+- 高管：Patrick BEARD — CTO / Manager of Technology；Tom Hurley — VP / Sales Manager；Tim Fazioli — Client Director（NY OGS 合同管理人）；Ray Hagen — Director Product Line Management
+- 控制人 / 股东：Patton 家族（President / Managing Member / Financial Manager 同姓）
+- 抵押 / 诉讼 / 担保：诉讼：Add-On Computer Peripherals, LLC v. Harris（联邦法院，移送加州中区）
+- 曾用名：Add-On Computer Peripherals, Inc.（2000，仍 Active）
+- **这意味着什么：**
+  - **KP Matt McCormick 是 CEO，但所有者是 Patton 家族（President Jimmy Patton + 财务 Katherine Patton）**：价格与框架 McCormick 能定，付款条款 / 年度量会过 Patton 家——提案抄 Jimmy Patton
+  - 核心生意是兼容光模块 / 线缆（Saga 不供光模块），交换机对他们是「同一客户群的扩展 SKU」→ 最合理的切入是 AddOn 自有标的 OEM 交换机（OEM 30%），卖点「与 AddOn 光模块一起验证过的整机」
+  - 纽约州 OGS 集中采购合同持有人 + 公共部门客户：他们对原产地 / 合规文件要求正规（FCC / RoHS / 原产地声明）；不提 NDAA（禁区），被问按事实答
+  - 201–500 人、估计 $6,000 万营收：付款能力强，但会要 Net 30+ —— 首单 T/T 50/50，复购后可 30/70；年报不公开，看 OGS 合同续约与官网即可
+- 备注：加州 bizfile 为 JS，实体号未取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -152,7 +172,7 @@ updated: 2026-10-27
 - **【官网】ADD-MC-PRO-1000AS-SFP 标注 TAA Compliant: No / Country Of Origin: Varies**
   > Country Of Origin · Varies … TAA Compliant · No … AddOn Part# · ADD-MC-PRO-1000AS-SFP
   > 来源：https://www.addonnetworks.com/products/media-converters/industry-standard/add-mc-pro-1000as-sfp（抓取 2026-10-21）
-- **KP**：Matt McCormick（采购/产品联系人（用户表原值））matt@addoncomputer.com +1 949-735-4119（WhatsApp 已加）〔Clients/A/DONE/US.xlsx〕
+- **KP**：Matt McCormick（CEO（经营者，非所有者）；AddOn Networks = ADD-ON COMPUTER PERIPHERALS, LLC（California LLC 2002-12-26，前身 Inc. 2000），Patton 家族所有（President Jimmy Patton）；NY OGS 合同 PM69867；EIN 05-0549009（第 84 批 官方登记核实 2026-10-27））matt@addoncomputer.com +1 949-735-4119（WhatsApp 已加）〔Clients/A/DONE/US.xlsx〕
 - **KP**：Anthony Giunta（收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核））anthony.giunta@addonnetworks.com 〔A 邮箱发件表头〕
 - **KP**：Tyler Griffey（收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核））tyler.griffey@addonnetworks.com 〔A 邮箱发件表头〕
 - 备注：A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。
@@ -161,10 +181,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | AddOn Networks（Add-On Computer Peripherals, LLC） |
+| 法定名称 | ADD-ON COMPUTER PERIPHERALS, LLC（dba AddOn Networks；California LLC，2002-12-26） |
 | 成立 | 1999 |
 | 总部/地址 | Tustin/Irvine, California, USA（另有 UK、Belgium 仓） |
-| 人数 | 250+（官网） |
+| 人数 | 201–500；营收估 ~$61.8M（第三方）（第 84 批 官方登记核实 2026-10-27） |
 | 其他 | 自称全球最大独立光模块制造商；MC 产品线通过 Ingram Micro / TD Synnex / Insight 分销，各型号标注三地库存 |
 
 - **业务线**：兼容光模块 / DAC / AOC；媒体转换器（商用、工业、PoE、管理型）；光纤配件与复用器
@@ -285,7 +305,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Matt McCormick | 采购/产品联系人（用户表原值） | matt@addoncomputer.com / +1 949-735-4119（WhatsApp 已加） | 调研核实（公开页） | Clients/A/DONE/US.xlsx |
+| Matt McCormick | CEO（经营者，非所有者）；AddOn Networks = ADD-ON COMPUTER PERIPHERALS, LLC（California LLC 2002-12-26，前身 Inc. 2000），Patton 家族所有（President Jimmy Patton）；NY OGS 合同 PM69867；EIN 05-0549009（第 84 批 官方登记核实 2026-10-27） | matt@addoncomputer.com / +1 949-735-4119（WhatsApp 已加） | 调研核实（公开页） | Clients/A/DONE/US.xlsx |
 | Anthony Giunta | 收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核） | anthony.giunta@addonnetworks.com | 调研核实（公开页） | A 邮箱发件表头 |
 | Tyler Griffey | 收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核） | tyler.griffey@addonnetworks.com | 调研核实（公开页） | A 邮箱发件表头 |
 | Mr. Matt McCormick | — | sales@addonnetworks.com / matt@addoncomputer.com / +9497354119 | 用户表原值·WhatsApp 已加 | Clients/ 表 |

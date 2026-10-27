@@ -113,6 +113,24 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 84 批（USA · 犹他州公司登记（OpenCorporates 摘要 us_ut/1034201-0142）+ BBB + SAM/CAGE 镜像（cage.report / teamingpro），2026-10-27 查；https://opencorporates.com/companies/us_ut/1034201-0142）：**
+
+- 法定名 / 登记号：SEWELL DEVELOPMENT CORPORATION（DBA Sewell Direct） · Utah 实体号 1034201-0142 · CAGE 38UZ7（SAM 登记 2005-04-21，2021-03 已过期） · 状态 **经营中（官网 / LinkedIn 活跃）；SAM 登记已失效（不再做联邦项目）** · 成立 1989-05-11 注册公司（BBB）；业务始于 1983-09-15（SAM） · Corporation（Utah）· 私人持有 · 注册代理 David S. Sewell（Provo）
+- 行业码 / 经营范围：计算机 / 外设零售与自有品牌产品设计制造（Bloomberg SIC 零售；LinkedIn：Product Design / Branding / Manufacturing / Logistics）
+- 注册地址：57 North 1380 West, Orem, UT 84057
+- 规模档：16–40 人（多源）；LinkedIn 51–200（含兼职 / 仓储）
+- 账目：私人公司不公开；估计营收 $6.5–11M（RocketReach / Prospeo / D&B $10M / Buzzfile $8.9M）；Utah 年度续期（成立月）
+- 高管：David S. SEWELL — Owner / 注册代理（= 研究档 KP）→ 老板 = 联系人
+- 高管：Preston WILY — President（BBB 登记管理人）= 日常经营负责人
+- 高管：犹他州登记 5 名在任高管（OpenCorporates 需登录，未取姓名）
+- 控制人 / 股东：David Sewell（Owner）
+- **这意味着什么：**
+  - **老板 = 联系人（David Sewell，Owner 兼注册代理）**，但日常由 President Preston Wily 管——报价给 David，执行细节（PI / 物流 / 标签）找 Preston
+  - Sewell Direct 是自有品牌电商（线缆 / 转换器 / 网络配件，亚马逊 + 自营站）：买交换机 = 贴 Sewell 标上架 → OEM 30% 线；小而杂 SKU、彩盒 + 条码 + 说明书是刚需（彩盒 $2.5/套 200 起）
+  - SAM 登记 2021 年起失效：已退出联邦采购 → 不必准备政府项目文件；FCC / CE / RoHS 够用
+  - 估计营收 $600–1,100 万、16–40 人：付款 T/T 50/50 合理；电商节奏——Q4 前（9–10 月）备货，是年度最佳下单窗口
+- 备注：OpenCorporates 高管名单需登录。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -158,16 +176,17 @@ updated: 2026-10-27
   > Sewell PoE Injector 50V, IEEE802.3af , With Power Supply … Mfr Part Number · SW-29532
   > 来源：https://www.amazon.com/Sewell-Injector-IEEE802-3af-Power-Supply/dp/B005582ICU（抓取 2026-10-21）
 - **KP**：David Sewell（CEO（BBB 口径）） +1 801-356-3823〔https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003〕
+- **KP**：Preston Wily（President（Utah 登记；Owner David Sewell 为登记代理人 = 研究档 KP）；Sewell Development Corp 1034201-0142，1989-05-11；CAGE 38UZ7（2021 过期）（第 84 批 官方登记核实 2026-10-27）） 〔https://opencorporates.com/companies/us_ut/1034201-0142〕
 - 备注：A 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Sewell Development Corp.（Sewell Direct） |
+| 法定名称 | SEWELL DEVELOPMENT CORPORATION（Utah 1034201-0142，1989-05-11） |
 | 成立 | 1983 |
 | 总部/地址 | Orem, Utah, USA |
-| 人数 | 17–200（口径不一） |
+| 人数 | 营收估 $6.5–11M（第三方区间）（第 84 批 官方登记核实 2026-10-27） |
 | 营收 | $1–10M（口径不一） |
 | 其他 | 自有品牌 Silverback / Deadbolt / Salt Labs；直营站 + Amazon/Newegg |
 
@@ -276,6 +295,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | David Sewell | CEO（BBB 口径） | +1 801-356-3823 | 调研核实（公开页） | https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003 |
+| Preston Wily | President（Utah 登记；Owner David Sewell 为登记代理人 = 研究档 KP）；Sewell Development Corp 1034201-0142，1989-05-11；CAGE 38UZ7（2021 过期）（第 84 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://opencorporates.com/companies/us_ut/1034201-0142 |
 | Ms. Susan Sewell | — | susan@sewelldev.com / service@sewelldirect.com | 用户表原值 | Clients/ 表 |
 | Pernell Ringlebottom | — | susan@sewelldev.com / service@sewelldirect.com | 用户表原值 | Clients/ 表 |
 

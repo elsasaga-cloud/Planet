@@ -97,6 +97,24 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 84 批（Italia · Registro Imprese 镜像（ufficiocamerale / reportaziende / money.it / registroaziende / tuttodati）+ 官网 Team 页（2025-12），2026-10-27 查；https://www.ufficiocamerale.it/4733/trans-audio-video-srl）：**
+
+- 法定名 / 登记号：TRANS AUDIO VIDEO S.R.L.（TAV Group） · P.IVA / C.F. 01675270613 · REA CE-116878 · PEC transaudiovideo@pec.it · SDI USAL8PV · 状态 **Attiva（经营中）** · 成立 1987-06-18 成立；1998-01-29 登记 Registro Imprese · S.r.l. · 股本 €500,000（2026）· Brighel 家族经营（President / MD / GM / 行政均为 Brighel）
+- 行业码 / 经营范围：ATECO 46.43.1 / 46.43.3 摄影 / 电影 / 光学器材批发 —— 实际为广播 / 电影 / 专业视听系统分销 + 集成（Video Solutions 事业部 35 年）
+- 注册地址：Viale Melvin Jones 12, 81100 Caserta (CE)
+- 规模档：29 人（2026）；25–49 区间
+- 账目：2024 营收 €17.96M（−24.4%）、净利 €33.8k（−93.6%，利润率 0.2%）、EBITDA €227.6k（−80.8%）；2023 €23.71M / €531.8k；2022 €22.31M / €357.7k；意大利年报 5–6 月股东会、7–8 月公示
+- 高管：Salvatore BRIGHEL — President = 研究档 KP → 老板本人在线
+- 高管：Marco BRIGHEL — Managing Director（Video Solutions 35 年）
+- 高管：Francesco BRIGHEL — General Manager = 研究档 KP
+- 高管：Rita BRIGHEL — Administration；Corrado NOVI — Procurement Manager（采购）；Vincenzo COLONNESE — Administrative Director
+- 控制人 / 股东：Brighel 家族（股东名单需 visura，待补）
+- **这意味着什么：**
+  - **老板家族 = 联系人（President Salvatore + GM Francesco Brighel）**，2024 年营收跌 24%、利润几乎归零：他们正在控成本、找更便宜的配套货源 —— 这是进攻窗口，但付款风险上升 → 报价可给到分销 20% 档，付款坚持 T/T 预付 / 50/50，不给账期
+  - 业务是广播 / 电影 / 专业 AV 系统集成分销：交换机用于 AV-over-IP / 媒体网络 —— 需要 IGMP / 多播、非阻塞背板、PoE++ 给 PTZ 与解码器 → 主推 Marvell 管理型（STI-480XGGM L3 / STC-448XGGPM、2.5G 款），信里给「multicast / IGMP snooping / jumbo frame」卖点
+  - 采购有专人 Corrado Novi（Procurement Manager）：拍板在 Brighel，执行给 Novi —— 信抄 Novi 让流程走得动
+  - 2024 跌幅大，2025 年报（2026 年中公示）出来再看是否继续缩；意大利 8 月全停（Ferragosto）避开
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -146,7 +164,7 @@ updated: 2026-10-27
 - **【用户表】采购历史与需求；14 次推送 0 回复**
   > 采购过多次交换机（少量工业级，主要是商业级）希望与我们合作 问了工业电源（朱姐说可以替他们采购） 要详细报价单
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Francesco Brighel（General Manager（用户表；家族企业第二代））f.brighel@transaudiovideo.com（用户表） +39 335 7374068（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Francesco Brighel（General Manager（Brighel 家族：President Salvatore / MD Marco / GM Francesco / 行政 Rita）= 老板家族；采购经办 Corrado Novi；2024 营收 €17.96M（−24%）、净利 €33.8k（第 84 批 官方登记核实 2026-10-27））f.brighel@transaudiovideo.com（用户表） +39 335 7374068（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Salvatore Brighel（创始人（官网公开））— —〔https://test.transaudiovideo.com/group/〕
 - **调研后定级**：A（原自动 A）——A 三条件：① 可追溯需求——「采购过多次交换机（主要商业级、少量工业级）、希望合作、要详细报价单」；② 直接具名联系人——GM Francesco Brighel（f.brighel@，手机在册，家族企业第二代）；③ 可赢规模——30 人家族分销商、2024 年营收 €18.0M，Security 事业部分销 CCTV，非巨头。
 - 备注：重启用手机/WhatsApp（有号码），一页式报价（STC-28DGGPM、STC-424DGGPM-280W、STI-288DGGPM，项目 25%）。
@@ -155,9 +173,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Trans Audio Video S.r.l.（P.IVA 01675270613） |
+| 法定名称 | TRANS AUDIO VIDEO S.R.L.（P.IVA 01675270613 · REA CE-116878；1987-06-18 成立 / 1998-01-29 登记；资本 €500,000；PEC transaudiovideo@pec.it） |
 | 成立 | 1987 |
 | 总部/地址 | Viale Melvin Jones 12, 81100 Caserta, Italy（+39 0823 329970；info@ / security@transaudiovideo.com）；分部 Corso Roma 186, Cologno Monzese (MI)（+39 039 791339） |
+| 人数 | 29（2026）（第 84 批 官方登记核实 2026-10-27） |
 | 其他 | 家族企业（Brighel）；事业部 Media / Academy / Security；SICUREZZA 2025 参展（Pad 5 H13 K12） |
 
 - **业务线**：广播/电影/专业影像设备分销（Sony/Panasonic 渊源）；Security 事业部：视频监控与 ICT 方案分销 + 设计/培训/售后；Academy：培训
@@ -253,7 +272,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Francesco Brighel | General Manager（用户表；家族企业第二代） | f.brighel@transaudiovideo.com（用户表） / +39 335 7374068（用户表） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Francesco Brighel | General Manager（Brighel 家族：President Salvatore / MD Marco / GM Francesco / 行政 Rita）= 老板家族；采购经办 Corrado Novi；2024 营收 €17.96M（−24%）、净利 €33.8k（第 84 批 官方登记核实 2026-10-27） | f.brighel@transaudiovideo.com（用户表） / +39 335 7374068（用户表） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Salvatore Brighel | 创始人（官网公开） | — / — | 调研核实（公开页） | https://test.transaudiovideo.com/group/ |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 14 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

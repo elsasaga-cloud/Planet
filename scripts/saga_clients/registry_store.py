@@ -33,6 +33,11 @@ SOURCES = {
     'tr': ('tr_ticaret', 'Turkey · Ticaret Sicil / MERSIS（公开可得部分）'),
     'it': ('it_registro', 'Italy · Registro Imprese 公开摘要'),
     'lt': ('lt_rekvizitai', 'Lithuania · Registrų centras / Sodra 公开数据（rekvizitai.vz.lt）'),
+    'se': ('se_bolagsverket', 'Sverige · Bolagsverket 登记镜像（allabolag / rating.se / hitta）'),
+    'bg': ('bg_tr_registry', 'България · Търговски регистър（papagal.bg 镜像）'),
+    'gr': ('gr_gemi', 'Ελλάδα · ΓΕΜΗ / 公开名录'),
+    'ca': ('ca_corporations', 'Canada · Corporations Canada / Ontario 登记（OpenCorporates 摘要）'),
+    'cy': ('cy_registrar', 'Κύπρος · Registrar of Companies（OpenCorporates 摘要）'),
     'other': ('other_registry', '其他国家官方 / 准官方登记'),
 }
 

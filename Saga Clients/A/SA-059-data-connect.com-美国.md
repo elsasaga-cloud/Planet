@@ -113,6 +113,22 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 84 批（USA · 马里兰州公司（BBB 登记 / Bloomberg / Buzzfile）+ SAM.gov 供应商档案（GovTribe 摘要）+ 官网 + LinkedIn，2026-10-27 查；https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56）：**
+
+- 法定名 / 登记号：DATA CONNECT ENTERPRISE, INC.（DCE） · Maryland corporation · SAM.gov 在册（有效至 2026-08-29，GovTribe 2026-02 快照） · 状态 **经营中；联邦小企业供应商（DLA 国防后勤局等）** · 成立 1989-01-13（Bloomberg / BBB）；LinkedIn 口径 1988 · Subchapter S Corporation（Maryland）· 私人持有 · Resident Agent = Barry G. Patton
+- 行业码 / 经营范围：SIC 5065 / NAICS 423690 电子零部件批发 + 自有制造（工业调制解调器、以太网延长器、蜂窝 ARC 调制解调器、远程接入服务器）；收购了 ctek / relcomm / synxcom / telenetics 等品牌的 IP 与制造权
+- 注册地址：3405 Olandwood Court, Olney, MD 20832（总部，4,000 sqft）；另有 NJ、CA 仓库 / 办公
+- 规模档：13–19 人（Buzzfile / Bloomberg）；LinkedIn 11–50
+- 账目：私人公司不公开；估计营收 $6.2M（ZoomInfo）/ $9.98M（Buzzfile）；Maryland 年报每年 4-15
+- 高管：Barry G. PATTON — Founder / President & CEO（1989 至今 36 年）/ Resident Agent = 老板；Patton Electronics 创始人家族的兄弟
+- 高管：销售分线：Daniel Rowe（SMB，ext 17）、Michael Spellerberg（Utility & SCADA，ext 25）、thaiber@（官网联系页）
+- 控制人 / 股东：Barry Patton
+- **这意味着什么：**
+  - **老板 Barry Patton 36 年一人掌舵、并购驱动（买了 ctek / relcomm / synxcom / telenetics 的 IP）**：他要的是「能挂 DCE 标的整条产品线」而不是零散采购 → OEM 30% 线，提案写成「DCE-branded managed PoE / industrial switch line」
+  - SAM 在册、DLA 供应商、S-Corp 小企业：联邦项目对原产地敏感——按话术禁区不主动提 NDAA；FCC / RoHS / 原产地声明备齐；DLA 件多为工业级 → STI 系列（温宽、3 年质保）优先
+  - 研究档 KP 为「Clients 表联系人」：直接写给 Barry Patton（President），抄 SCADA 线 Michael Spellerberg（工业以太网最对口）
+  - SAM 登记 2026-08-29 到期，续期即仍在接联邦单，2026-09 后看一眼；13–19 人规模，T/T 50/50
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -164,14 +180,16 @@ updated: 2026-10-27
   > DCE GMC series comply with IEE802.3z/ab Gigabit Ethernet standard … 1000Base-T to 1000base-SX/LX … WDM Technology Combines Dual Fiber Cables into Single Fiber
   > 来源：https://www.data-connect.com/dce_dt_gmc.htm（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +1 888-492-6526〔用户 Clients 表 + 官网〕
+- **KP**：Barry G. Patton（Founder / President & CEO / Resident Agent（1989 至今）= 老板；Patton Electronics 创始人家族的兄弟；SCADA 线销售 Michael Spellerberg、SMB 线 Daniel Rowe（第 84 批 官方登记核实 2026-10-27）） 〔https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56〕
 - 备注：自有品牌 DCE 的 MC/工业产品线明显为 ODM 来源 → Saga 以 STI-110GE 介质转换器 + STI 工业 FS 做 OEM 补充 SKU，价阶 30%（品牌/OEM）。美国主攻区。1 次回复后 16 次推送无果 → 换角度（给 DCE 现有 MC 型号的对位表与样品）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Data Connect Enterprise, Inc. |
+| 法定名称 | DATA CONNECT ENTERPRISE, INC.（Maryland Subchapter S Corp，1989-01-13；SAM.gov 在册至 2026-08-29；DLA 供应商） |
 | 总部/地址 | Maryland, USA（另有 NJ、CA 设施） |
+| 人数 | 13–19（第 84 批 官方登记核实 2026-10-27） |
 | 其他 | 自有 DCE 品牌：MC（10/100、千兆 GMC、WDM）、DFT 4FX+4TX 交换机、ANS205CR/ANS208 工业 DIN 交换机、工业调制解调器、以太网延长器（2178HEE/2178CEE+PoE）、串口服务器；拥有 Ctek/Relcomm/Synxcom/Telenetics 品牌 IP；同时转售 Canoga Perkins、GarrettCom 加固设备 |
 
 - **业务线**：DCE 品牌 MC / 工业交换机 / 延长器 / 调制解调器 / KVM；Canoga Perkins、GarrettCom 加固以太网转售；数据/语音/SCADA 连接产品
@@ -284,6 +302,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Barry G. Patton | Founder / President & CEO / Resident Agent（1989 至今）= 老板；Patton Electronics 创始人家族的兄弟；SCADA 线销售 Michael Spellerberg、SMB 线 Daniel Rowe（第 84 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56 |
 | Barry Patton | — | bpatton@data-connect.com / drowe@data-connect.com | 用户表原值 | Clients/ 表 |
 | Dan Rowe | — | bpatton@data-connect.com / drowe@data-connect.com | 用户表原值 | Clients/ 表 |
 

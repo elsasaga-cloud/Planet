@@ -50,7 +50,7 @@
  "kp": [
   {
    "name": "Anders Hedin",
-   "role": "联系人（用户表邮箱）",
+   "role": "产品 / 采购经办，非董事；Direktronik AB（556281-9663，1986）为上市集团 Lagercrantz Group 100% 子公司；外聘 VD Henrik Ringstedt、董事长 Mats Rydén；财年 3 月止 2025 营收 133.0 MSEK / 28 人（第 84 批 官方登记核实 2026-10-27）",
    "email": "anders.hedin@direktronik.se",
    "phone": "+46 8 52 400 700（总机）",
    "source": "Clients/A Replied 09.04.xlsx"
@@ -70,10 +70,10 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Direktronik AB（Lagercrantz Group）",
+  "legal_name": "DIREKTRONIK AKTIEBOLAG（Org.nr 556281-9663 · VAT SE556281966301；1986-09-11；母公司 Lagercrantz Group AB）",
   "founded": "1986；2007 起属上市集团 Lagercrantz",
   "hq": "Nynäshamn, Sweden",
-  "staff": "约 25",
+  "staff": "28（2025）；营收 133.0 MSEK（FY 2025-03）（第 84 批 官方登记核实 2026-10-27）",
   "revenue": "约 1.4 亿 SEK",
   "other": "自有系列 Direktronik Connect（非管理 PoE + Watchdog + MC）与 Direktronik Pro（管理型）；同时分销 PLANET（IGS-624HPT 等）；公共部门框架协议（Svenska Kraftnät）；2026 年收购 AB Qvintus 与挪威公司"
  },

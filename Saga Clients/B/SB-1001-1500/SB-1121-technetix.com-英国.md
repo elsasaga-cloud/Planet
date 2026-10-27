@@ -114,6 +114,26 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 84 批（UK · Companies House（公司页 + 高管页，2026-10-27 抓取），2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/02484988）：**
+
+- 法定名 / 登记号：TECHNETIX LIMITED · 02484988 · 状态 **Active** · 成立 1990-03-26 · Private limited company · 母公司 TECHNETIX GROUP LIMITED（05303822，2004-12-03 成立，同址）；关联 TECHNETIX NETWORKS LIMITED（03240196，2018-02-27 注销）
+- 行业码 / 经营范围：26110 电子元件制造；26400 消费电子制造；46520 电子与通信设备批发
+- 注册地址：Innovation House, Technetix Business Park, Muddleswood Road, Albourne, Hassocks, West Sussex BN6 9EB
+- 规模档：集团级（HFC / 宽带接入设备制造商，欧洲多国子公司）
+- 账目：最近账目至 2025-12-31 已报（全账，非微型）；下一期至 2026-12-31；2027-09-30；确认声明下期 2027-02-19（到期 2027-03-05）
+- 高管：BROADHURST, Paul Antony — Director（1991 年前即在任，1960 年生；创始人 / 长期掌舵人；身份已核验）
+- 高管：DEAKIN, Philip James — Director（2024-01-30 起，1969 年生）
+- 高管：PLOWMAN, Thomas William — Secretary（2023-10-31 起）；29 名历任高管 / 26 人已辞任（公司秘书频繁更替）
+- 控制人 / 股东：TECHNETIX GROUP LIMITED（05303822）为直接母公司（PSC 页未抓取，待下一轮）
+- 抵押 / 诉讼 / 担保：未抓取
+- 曾用名：TECHNETIX PLC（1990-05-30 → 2004-11-30）；CHARTSCALE LIMITED（1990-03-26 → 1990-05-30）
+- **这意味着什么：**
+  - **制造商集团（HFC 有线宽带设备，SIC 26110）而非分销商**：交换机对他们是配套 / 子系统件（头端机房、光节点管理口）→ OEM / 配套 30% 线，提案写「Technetix-labelled Ethernet access / management switches」，不是整线替换
+  - 创始人 Paul Broadhurst 1991 年前即任董事、仍在任；2024-01 新增董事 Deakin → 可能是接班 / 财务线；研究档 KP 若非董事，先走采购经办，提案要能让经办人转给董事
+  - 英国 UKCA + CE / RoHS；集团采购走供应商审核（ISO 9001 / 工厂资料）—— 备齐再谈价；付款：集团账期 30–60 天是常态，首单仍坚持 T/T 预付或 LC
+  - 账目年 12 月止、9 月底前公示：2026-10 之后可读 2025 全账（Companies House 免费 PDF），下一轮抓营收 / 员工数
+- 备注：B 档 GB 首户（第 84 批 B 欧美土起步）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -152,7 +172,7 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Technetix Ltd. |
+| 法定名称 | TECHNETIX LIMITED（Companies House 02484988；SIC 26110 / 26400 / 46520；账目至 2025-12-31 已报，下期 2027-09-30 到期）（第 84 批 官方登记核实 2026-10-27） |
 | 总部/地址 | Albourne, West Sussex, UK |
 | 其他 | 宽带/光纤接入设备（信尾 Fiber Access） |
 

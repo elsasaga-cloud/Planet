@@ -102,6 +102,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动；移出群发」，不排发信，略。
 
+**公司底数 · 第 84 批（USA · 官网 About（老板自述）+ ZoomInfo / Datanyze / RocketReach / Crunchbase 摘要 + LinkedIn 帖子（2025），2026-10-27 查；https://ipcampower.com/pages/about-us）：**
+
+- 法定名 / 登记号：IPCamPower（法人待核，Broken Arrow / Claremore, OK） · 俄克拉荷马州实体号待补（OK SOS 可查） · 状态 **经营中（官网 / LinkedIn 2025–2026 活跃）** · 成立 2015 创立（老板自述；ZoomInfo 2019 / Datanyze 2017 口径）；前身 Nelly's Security 2008 起，2023 年出售 · 私人持有（独资老板 Sean Nelson）
+- 行业码 / 经营范围：IP 摄像头用 PoE 交换机 / 注入器 / 分离器 / PoE 供电显示器与机柜灯的自有品牌电商（Shopify）；2025 推出「UL Listed + TAA Compliant」非管理型 PoE 交换机线（3 年质保）
+- 注册地址：501 N Aspen Ave, Broken Arrow, OK 74012
+- 规模档：1–17 人（RocketReach 1 / Datanyze 17 / ZoomInfo 11–50）
+- 账目：私人公司不公开；估计营收 $1M（RocketReach 2025）/ $3.9M（Datanyze）
+- 高管：Sean NELSON — Owner / Founder / 发明人（= 研究档 KP）；俄克拉荷马州立大学商科；2008 创 Nelly's Security（CCTV 分销，19 人）并于 2023 出售 → 老板 = 联系人
+- 控制人 / 股东：Sean Nelson 100%
+- 曾用名：Nelly's Security（2008–2023，已出售，非同一法人）
+- **这意味着什么：**
+  - **老板 = 联系人，且是产品发明型老板**：Sean Nelson 自己定义产品（PoE 供电显示器、机柜灯等），想要的是「按他规格做的独家 SKU」→ OEM 30% 线 + 小批量定制（丝印 / 彩盒 / 固件默认值），报价要带 NRE 与 MOQ 两档
+  - **2025 年他主推「UL Listed + TAA Compliant」PoE 线**：TAA 合规排除中国原产、Saga 无 UL（规则）→ 这条线 Saga 做不了；能做的是他的非 TAA 常规 PoE 交换机与 802.3bt 大功率 / 工业款（STI 系列），信里不碰 UL / TAA 字眼，只报能做的
+  - 2023 年卖掉分销公司、专心做产品：现金充裕、决策快、量小而频 —— MOQ 1 箱、T/T 100% 预付、4–7 天交期是他要的节奏
+  - 俄克拉荷马 SOS 登记号下一轮补（确认 LLC 名称 / 成立日）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,16 +152,16 @@ updated: 2026-10-27
 - **【官网】16/24 口 PoE 零售价与 UL/TAA 标注**
   > 24 Port POE Network Switch W/ 2 Gigabit Uplinks, POE+ 30 Watts per Port, 360 Watts Total Budget, UL Listed, TAA Compliant … $209.99 … 16 Port POE Network Switch W/ 2 Gigabit Uplinks … 200 Watts Total Budget, UL Listed, TAA Compliant … $169.99
   > 来源：https://ipcampower.com/collections/unmanaged-poe-switches（抓取 2026-10-21）
-- **KP**：Sean Nelson（Owner）sales@ipcampower.com 〔https://ipcampower.com/pages/about-us〕
+- **KP**：Sean Nelson（Owner / Founder / 发明人 = 老板 = 联系人；2008 创 Nelly's Security（2023 出售）、2015 创 IPCamPower；2025 主推 UL + TAA 合规 PoE 线（Saga 做不了，信里不碰）（第 84 批 官方登记核实 2026-10-27））sales@ipcampower.com 〔https://ipcampower.com/pages/about-us〕
 - 备注：A 确认（美国自有品牌 PoE + 老板直联 + 现供应商 ONV）：对位 IPCP-8G4G-AT1 ≈ STC-28DGGPM/非网管 8 PoE 款（需向 SmartByte 确认 extend-mode 非网管型号），30% OEM 档；强调 Marvell 方案与 FCC。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | IPCamPower（Broken Arrow / Tulsa, Oklahoma, USA） |
+| 法定名称 | IPCamPower（Broken Arrow, OK；独资；OK SOS 实体号待补） |
 | 成立 | 2015（Sean Nelson） |
-| 人数 | 17 |
+| 人数 | 1–17（第三方）（第 84 批 官方登记核实 2026-10-27） |
 | 营收 | 约 $3.9M |
 | 其他 | 面向 IP 摄像机安装商的自有品牌 PoE 交换机电商（Shopify 官网 + Amazon + Newegg + ipcamtalk 店），多款标注 UL Listed / TAA Compliant；用户表：ONV 来源 |
 
@@ -241,7 +257,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sean Nelson | Owner | sales@ipcampower.com | 调研核实（公开页） | https://ipcampower.com/pages/about-us |
+| Sean Nelson | Owner / Founder / 发明人 = 老板 = 联系人；2008 创 Nelly's Security（2023 出售）、2015 创 IPCamPower；2025 主推 UL + TAA 合规 PoE 线（Saga 做不了，信里不碰）（第 84 批 官方登记核实 2026-10-27） | sales@ipcampower.com | 调研核实（公开页） | https://ipcampower.com/pages/about-us |
 
 - **通道建议**：企业邮箱可直发
 

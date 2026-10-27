@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 9
+  "count": 10
  },
  "rows": {
   "SA-015": {
@@ -324,6 +324,46 @@
    "fetched": "2026-10-27",
    "code": "SB-176",
    "batch": 82
+  },
+  "SB-1121": {
+   "batch": 84,
+   "name": "TECHNETIX LIMITED",
+   "iso": "GB",
+   "source": "UK · Companies House（公司页 + 高管页，2026-10-27 抓取）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/02484988",
+   "number": "02484988",
+   "status": "Active",
+   "incorporated": "1990-03-26",
+   "company_type": "Private limited company · 母公司 TECHNETIX GROUP LIMITED（05303822，2004-12-03 成立，同址）；关联 TECHNETIX NETWORKS LIMITED（03240196，2018-02-27 注销）",
+   "sic": [
+    "26110 电子元件制造",
+    "26400 消费电子制造",
+    "46520 电子与通信设备批发"
+   ],
+   "address": "Innovation House, Technetix Business Park, Muddleswood Road, Albourne, Hassocks, West Sussex BN6 9EB",
+   "accounts": "最近账目至 2025-12-31 已报（全账，非微型）；下一期至 2026-12-31",
+   "accounts_due": "2027-09-30；确认声明下期 2027-02-19（到期 2027-03-05）",
+   "size_band": "集团级（HFC / 宽带接入设备制造商，欧洲多国子公司）",
+   "officers": [
+    "BROADHURST, Paul Antony — Director（1991 年前即在任，1960 年生；创始人 / 长期掌舵人；身份已核验）",
+    "DEAKIN, Philip James — Director（2024-01-30 起，1969 年生）",
+    "PLOWMAN, Thomas William — Secretary（2023-10-31 起）；29 名历任高管 / 26 人已辞任（公司秘书频繁更替）"
+   ],
+   "psc": "TECHNETIX GROUP LIMITED（05303822）为直接母公司（PSC 页未抓取，待下一轮）",
+   "charges": "未抓取",
+   "prev_names": [
+    "TECHNETIX PLC（1990-05-30 → 2004-11-30）",
+    "CHARTSCALE LIMITED（1990-03-26 → 1990-05-30）"
+   ],
+   "lines": [
+    "**制造商集团（HFC 有线宽带设备，SIC 26110）而非分销商**：交换机对他们是配套 / 子系统件（头端机房、光节点管理口）→ OEM / 配套 30% 线，提案写「Technetix-labelled Ethernet access / management switches」，不是整线替换",
+    "创始人 Paul Broadhurst 1991 年前即任董事、仍在任；2024-01 新增董事 Deakin → 可能是接班 / 财务线；研究档 KP 若非董事，先走采购经办，提案要能让经办人转给董事",
+    "英国 UKCA + CE / RoHS；集团采购走供应商审核（ISO 9001 / 工厂资料）—— 备齐再谈价；付款：集团账期 30–60 天是常态，首单仍坚持 T/T 预付或 LC",
+    "账目年 12 月止、9 月底前公示：2026-10 之后可读 2025 全账（Companies House 免费 PDF），下一轮抓营收 / 员工数"
+   ],
+   "notes": "B 档 GB 首户（第 84 批 B 欧美土起步）。",
+   "fetched": "2026-10-27",
+   "code": "SB-1121"
   }
  }
 }

@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 3
+  "count": 4
  },
  "rows": {
   "SA-023": {
@@ -111,6 +111,41 @@
    "fetched": "2026-10-27",
    "code": "SA-020",
    "batch": 83
+  },
+  "SA-041": {
+   "batch": 84,
+   "name": "FIBERMARKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ（品牌 LightOptics）",
+   "iso": "PL",
+   "source": "Polska · KRS（rejestr.io / krs-pobierz / GoWork 镜像，含 2024–2025 财报摘要）+ 官网 O firmie + LinkedIn",
+   "url": "https://rejestr.io/krs/356815/fibermarkt",
+   "number": "KRS 0000356815 · NIP 6772343192 · REGON 121230858 · VAT czynny（有效）",
+   "status": "Aktywna；KRS 最近变更 2026-06-01（KR.XI NS-REJ.KRS/21334/26/975）",
+   "incorporated": "2010-05-19",
+   "company_type": "Sp. z o.o. · 股本 123,700 PLN · 股东：Grzegorz Szydełko（187 股 = 18,700 PLN，2020-08-19 起，非全资）+ GEMINVE（2020-08-19 起）",
+   "sic": [
+    "FTTH 光模块 / 跳线 / 媒体转换器 / 交换机电商（自有品牌 LightOptics，兼容各厂商编码）；PKD 还登记 95.12.Z 通信设备维修、74.30.Z 翻译（壳历史）"
+   ],
+   "address": "ul. Christo Botewa 6A, 30-798 Kraków（旧址 Śnieżna 18, 30-822 Kraków）",
+   "accounts": "2025：营收 1.9 mln PLN / 成本 2.4 mln / 亏损 −431.8 tys. PLN / 总资产 212.8 tys.；2024：营收 1.227 mln PLN（+23%）/ 税前亏损 −705 tys. PLN",
+   "accounts_due": "KRS 财报 7 月 15 日前",
+   "size_band": "2–10 人（LinkedIn）",
+   "officers": [
+    "Krzysztof PODGÓRSKI — Prezes Zarządu（2026-02-17 起；此前 Magdalena Maria Podgórska 任 Prezes）",
+    "Magdalena PODGÓRSKA — Prokurent（2026-02-17 起）→ 夫妻 / 家族经营",
+    "研究档 KP 「—」（无具名联系人）→ 写给 Prezes Krzysztof Podgórski"
+   ],
+   "psc": "Grzegorz Szydełko + GEMINVE（投资壳，2020-08 进入）；Podgórski 家族任管理层",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**连续两年亏损（2024 −705k、2025 −432k PLN）、总资产只有 21 万 PLN、2026-02 刚换 Prezes**：这是一家在挣扎的小电商 —— 单量小、付款风险高 → 只做 100% 预付 T/T，MOQ 1 箱；别投入定制",
+    "模式 = 自有品牌 LightOptics 贴牌卖兼容光模块 + 交换机（已有 LO-IGS-M8GT2GF-HPOE 8 PoE + 2 SFP 款）：他们需要的正是 STC-228GP / STC-2024GP 这类贴标 PoE 交换机 → OEM 30% 线但走小批量，先报标准款 + 丝印",
+    "登记无具名 KP：信抬头 Krzysztof Podgórski（Prezes），抄 Magdalena Podgórska（Prokurent，可签合同）；PI 抬头 FIBERMARKT Sp. z o.o. NIP 6772343192",
+    "波兰 7 月报年报、2026-06 刚有 KRS 变更 → 2027-Q1 看 2025 年报后再决定投入；此前保持群发节奏即可"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-041"
   }
  }
 }

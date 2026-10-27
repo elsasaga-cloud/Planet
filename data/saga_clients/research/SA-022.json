@@ -41,7 +41,7 @@
  "kp": [
   {
    "name": "Matt McCormick",
-   "role": "采购/产品联系人（用户表原值）",
+   "role": "CEO（经营者，非所有者）；AddOn Networks = ADD-ON COMPUTER PERIPHERALS, LLC（California LLC 2002-12-26，前身 Inc. 2000），Patton 家族所有（President Jimmy Patton）；NY OGS 合同 PM69867；EIN 05-0549009（第 84 批 官方登记核实 2026-10-27）",
    "email": "matt@addoncomputer.com",
    "phone": "+1 949-735-4119（WhatsApp 已加）",
    "source": "Clients/A/DONE/US.xlsx"
@@ -68,10 +68,10 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "AddOn Networks（Add-On Computer Peripherals, LLC）",
+  "legal_name": "ADD-ON COMPUTER PERIPHERALS, LLC（dba AddOn Networks；California LLC，2002-12-26）",
   "founded": "1999",
   "hq": "Tustin/Irvine, California, USA（另有 UK、Belgium 仓）",
-  "staff": "250+（官网）",
+  "staff": "201–500；营收估 ~$61.8M（第三方）（第 84 批 官方登记核实 2026-10-27）",
   "other": "自称全球最大独立光模块制造商；MC 产品线通过 Ingram Micro / TD Synnex / Insight 分销，各型号标注三地库存"
  },
  "business_lines": [

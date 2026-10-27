@@ -438,7 +438,7 @@
    "p1": "PRT-SF-1110P（= STC-128GFP 百兆 8 PoE + 2 GE/SFP，Priorat 贴牌，$22）补货；三款测试机 PRT-SG-1428PM（STC-4424GCPM $130）/ PRT-SG-1424M（STC-424GM $92）/ PRT-SG-1208PMI（STI-288GPM $72）转批量",
    "tier": 30,
    "signals": 4,
-   "kp": 2,
+   "kp": 1,
    "summary": true
   },
   "SA-017": {
@@ -482,7 +482,7 @@
    "p1": "PoE 注入器 + STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-019": {
@@ -1384,7 +1384,7 @@
    "p1": "STI-110GE MC 对位表",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-060": {
@@ -1714,7 +1714,7 @@
    "p1": "STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位",
    "tier": 25,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-075": {
@@ -1758,7 +1758,7 @@
    "p1": "STI-222GP",
    "tier": 25,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SA-077": {

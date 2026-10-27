@@ -97,7 +97,7 @@
   },
   {
    "name": "Thu Pham",
-   "role": "单据联系人",
+   "role": "Owner（商会名录 / D&B 联系人 / 2018 OCTA 投标联系人）= 老板 = 联系人；公司已收缩至微型（Brea 关店、D&B 1 人），现址 450 Goddard Irvine（第 84 批 官方登记核实 2026-10-27）",
    "email": "thupvilink16@gmail.com",
    "phone": "",
    "source": "PI.zip 单据"
@@ -110,10 +110,10 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Vilink Communications, Inc.（品牌 Vi-Link）",
+  "legal_name": "VILINK COMMUNICATIONS, INC.（California，1993；Self-Owned）",
   "founded": "1993（Crunchbase/ZoomInfo 口径）",
   "hq": "Irvine/Brea, California, USA",
-  "staff": "1–10 / 11–50（口径不一）",
+  "staff": "1–数人（D&B 1 人；第三方营收估值不可信）（第 84 批 官方登记核实 2026-10-27）",
   "revenue": "约 $11–12M（ZoomInfo 口径，待核）",
   "other": "2024 年起新站 vilink.us（WooCommerce 直销），vilinknet.com 跳转至此"
  },

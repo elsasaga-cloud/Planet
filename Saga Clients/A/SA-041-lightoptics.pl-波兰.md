@@ -94,6 +94,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 84 批（Polska · KRS（rejestr.io / krs-pobierz / GoWork 镜像，含 2024–2025 财报摘要）+ 官网 O firmie + LinkedIn，2026-10-27 查；https://rejestr.io/krs/356815/fibermarkt）：**
+
+- 法定名 / 登记号：FIBERMARKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ（品牌 LightOptics） · KRS 0000356815 · NIP 6772343192 · REGON 121230858 · VAT czynny（有效） · 状态 **Aktywna；KRS 最近变更 2026-06-01（KR.XI NS-REJ.KRS/21334/26/975）** · 成立 2010-05-19 · Sp. z o.o. · 股本 123,700 PLN · 股东：Grzegorz Szydełko（187 股 = 18,700 PLN，2020-08-19 起，非全资）+ GEMINVE（2020-08-19 起）
+- 行业码 / 经营范围：FTTH 光模块 / 跳线 / 媒体转换器 / 交换机电商（自有品牌 LightOptics，兼容各厂商编码）；PKD 还登记 95.12.Z 通信设备维修、74.30.Z 翻译（壳历史）
+- 注册地址：ul. Christo Botewa 6A, 30-798 Kraków（旧址 Śnieżna 18, 30-822 Kraków）
+- 规模档：2–10 人（LinkedIn）
+- 账目：2025：营收 1.9 mln PLN / 成本 2.4 mln / 亏损 −431.8 tys. PLN / 总资产 212.8 tys.；2024：营收 1.227 mln PLN（+23%）/ 税前亏损 −705 tys. PLN；KRS 财报 7 月 15 日前
+- 高管：Krzysztof PODGÓRSKI — Prezes Zarządu（2026-02-17 起；此前 Magdalena Maria Podgórska 任 Prezes）
+- 高管：Magdalena PODGÓRSKA — Prokurent（2026-02-17 起）→ 夫妻 / 家族经营
+- 高管：研究档 KP 「—」（无具名联系人）→ 写给 Prezes Krzysztof Podgórski
+- 控制人 / 股东：Grzegorz Szydełko + GEMINVE（投资壳，2020-08 进入）；Podgórski 家族任管理层
+- **这意味着什么：**
+  - **连续两年亏损（2024 −705k、2025 −432k PLN）、总资产只有 21 万 PLN、2026-02 刚换 Prezes**：这是一家在挣扎的小电商 —— 单量小、付款风险高 → 只做 100% 预付 T/T，MOQ 1 箱；别投入定制
+  - 模式 = 自有品牌 LightOptics 贴牌卖兼容光模块 + 交换机（已有 LO-IGS-M8GT2GF-HPOE 8 PoE + 2 SFP 款）：他们需要的正是 STC-228GP / STC-2024GP 这类贴标 PoE 交换机 → OEM 30% 线但走小批量，先报标准款 + 丝印
+  - 登记无具名 KP：信抬头 Krzysztof Podgórski（Prezes），抄 Magdalena Podgórska（Prokurent，可签合同）；PI 抬头 FIBERMARKT Sp. z o.o. NIP 6772343192
+  - 波兰 7 月报年报、2026-06 刚有 KRS 变更 → 2027-Q1 看 2025 年报后再决定投入；此前保持群发节奏即可
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,15 +155,16 @@ updated: 2026-10-27
 - **【经销商】LO-IGS-8GT2GF-POE 经销价 1,406 PLN 净**
   > Przemysłowy przełącznik LightOptics - LO-IGS-8GT2GF-POE … 8*10/100/1000Base-T RJ45, 2*1000M fiber ports (SFP) 1 406,00 PLN netto
   > 来源：https://profisystems.pl/pl/producer/lightoptics,103922（抓取 2026-10-21）
-- **KP**：—（销售（用户表邮箱；电话即 WhatsApp））sales@fibermarkt.com +48 533 533 575〔https://inwestrut.pl/fibermarkt-sp-z-o-o/〕
+- **KP**：Krzysztof Podgórski（Prezes Zarządu（2026-02-17 起；此前 Magdalena Podgórska 任 Prezes，现为 Prokurent）；股东 Grzegorz Szydełko + GEMINVE（2020-08 起）；2024 亏 −705k、2025 亏 −432k PLN（第 84 批 官方登记核实 2026-10-27））sales@fibermarkt.com +48 533 533 575〔https://inwestrut.pl/fibermarkt-sp-z-o-o/〕
 - 备注：A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Fibermarkt Sp. z o.o.（品牌 LightOptics） |
+| 法定名称 | FIBERMARKT SP. Z O.O.（KRS 0000356815 · NIP 6772343192 · REGON 121230858；2010-05-19；资本 123,700 PLN；Kraków） |
 | 总部/地址 | Kraków, Poland |
+| 人数 | 2–10；2025 营收 1.9 mln PLN / 亏损 −431.8 tys. PLN（第 84 批 官方登记核实 2026-10-27） |
 | 其他 | 自有品牌 LightOptics 工业 PoE 交换机 LO-IGS 系列经 Profi Systems、Ceneo 等二级渠道销售；fibermarkt.com 网店 EUR 标价（LO-IGS-4GT2GF €101.67） |
 
 - **业务线**：兼容光模块（60+ 厂商编码）、DAC、xWDM；LightOptics MC 与工业/接入 PoE 交换机；ISP 与集成商供货，本地仓库与售后
@@ -273,7 +291,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| — | 销售（用户表邮箱；电话即 WhatsApp） | sales@fibermarkt.com / +48 533 533 575 | 调研核实（公开页） | https://inwestrut.pl/fibermarkt-sp-z-o-o/ |
+| Krzysztof Podgórski | Prezes Zarządu（2026-02-17 起；此前 Magdalena Podgórska 任 Prezes，现为 Prokurent）；股东 Grzegorz Szydełko + GEMINVE（2020-08 起）；2024 亏 −705k、2025 亏 −432k PLN（第 84 批 官方登记核实 2026-10-27） | sales@fibermarkt.com / +48 533 533 575 | 调研核实（公开页） | https://inwestrut.pl/fibermarkt-sp-z-o-o/ |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

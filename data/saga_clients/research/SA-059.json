@@ -65,6 +65,13 @@
    "email": "",
    "phone": "+1 888-492-6526",
    "source": "用户 Clients 表 + 官网"
+  },
+  {
+   "name": "Barry G. Patton",
+   "role": "Founder / President & CEO / Resident Agent（1989 至今）= 老板；Patton Electronics 创始人家族的兄弟；SCADA 线销售 Michael Spellerberg、SMB 线 Daniel Rowe（第 84 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56"
   }
  ],
  "grade_override": null,
@@ -76,9 +83,10 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Data Connect Enterprise, Inc.",
+  "legal_name": "DATA CONNECT ENTERPRISE, INC.（Maryland Subchapter S Corp，1989-01-13；SAM.gov 在册至 2026-08-29；DLA 供应商）",
   "hq": "Maryland, USA（另有 NJ、CA 设施）",
-  "other": "自有 DCE 品牌：MC（10/100、千兆 GMC、WDM）、DFT 4FX+4TX 交换机、ANS205CR/ANS208 工业 DIN 交换机、工业调制解调器、以太网延长器（2178HEE/2178CEE+PoE）、串口服务器；拥有 Ctek/Relcomm/Synxcom/Telenetics 品牌 IP；同时转售 Canoga Perkins、GarrettCom 加固设备"
+  "other": "自有 DCE 品牌：MC（10/100、千兆 GMC、WDM）、DFT 4FX+4TX 交换机、ANS205CR/ANS208 工业 DIN 交换机、工业调制解调器、以太网延长器（2178HEE/2178CEE+PoE）、串口服务器；拥有 Ctek/Relcomm/Synxcom/Telenetics 品牌 IP；同时转售 Canoga Perkins、GarrettCom 加固设备",
+  "staff": "13–19（第 84 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "DCE 品牌 MC / 工业交换机 / 延长器 / 调制解调器 / KVM",

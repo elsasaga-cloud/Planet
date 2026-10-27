@@ -103,6 +103,19 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不单独发；随 SA-044」，不排发信，略。
 
+**公司底数 · 第 84 批（USA · 由 SA-044 DYMEC 的登记类来源交叉推定（LinkedIn：Thomas West = DYMEC President）+ 研究档官网快照，2026-10-27 查；https://www.linkedin.com/in/thomas-west-8425175/）：**
+
+- 法定名 / 登记号：BlueWARRIOR（bluewarrior.com；法人待核，疑为 Kyland-USA, LLC / DYMEC 团队的第二品牌） · 未查到独立法人登记（待补） · 状态 **官网在线（2026-01 价格更新）** · 成立  · 品牌 / 网店（法人待核）
+- 行业码 / 经营范围：工业以太网交换机网店（BW7212G 等 = 武汉迈威 MISCOM 贴牌，研究档已证实）
+- 注册地址：USA（与 DYMEC 同团队：Blue Springs, MO / Katy, TX）
+- 规模档：与 DYMEC 共用团队（4–11 人）
+- 高管：Thomas WEST — 联系人（用户表）= DYMEC President → **SA-033 与 SA-044 同一人、同一团队**
+- **这意味着什么：**
+  - **与 SA-044 DYMEC 并一线**（㉚ 规则）：BlueWARRIOR 卖迈威贴牌、DYMEC 名字来自东土（Kyland-USA）——这是一个已经有两条中国工业交换机货源的美国小团队，对 Saga 的价值是「第三货源 / Marvell 管理型 / L3」而不是替代
+  - 报价给 Thomas West 一次即可，两个品牌不要分别报不同价
+  - 法人实体下一轮用 web_search "BlueWARRIOR LLC" 补（可能是 Kyland-USA, LLC 的 DBA）
+- 备注：未单独搜索；由 DYMEC 结果交叉得出。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -147,7 +160,7 @@ updated: 2026-10-27
 - **【官网】工业 PoE 类目：BW7212GP-4GT-8GTPOE $987.80**
   > Surge Protected with Relay Contact / (Ground / Bonding) ( DC 48-52 Volts). $987.80 View Product - BW7212GP-4GT-8GTPOE - 24 Port - (Layer 2 Managed) - Temperature Hardened
   > 来源：https://bluewarrior.com/product-category/industrial-poe-switches/（抓取 2026-10-21）
-- **KP**：Thomas West（联系人（用户表））sales@bluewarrior.com 〔Clients/A/DONE/US.xlsx〕
+- **KP**：Thomas West（= SA-044 DYMEC President Thomas West 本人 → 两户并一线；BlueWARRIOR 疑为 Kyland-USA, LLC 的第二品牌（法人待核）（第 84 批 官方登记核实 2026-10-27））sales@bluewarrior.com 〔Clients/A/DONE/US.xlsx〕
 - 备注：A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网产品目录逐型号核对））
@@ -156,7 +169,7 @@ updated: 2026-10-27
 |---|---|
 | 法定名称 | BlueWARRIOR（bluewarrior.com） |
 | 总部/地址 | USA |
-| 其他 | 官网 WooCommerce 目录明码标价（2026-01 更新）；BW7212G 产品描述内残留「MISCOM7212G」字样 → 证实为武汉迈威 MISCOM 系列贴牌 |
+| 其他 | 官网 WooCommerce 目录明码标价（2026-01 更新）；BW7212G 产品描述内残留「MISCOM7212G」字样 → 证实为武汉迈威 MISCOM 系列贴牌；与 SA-044 DYMEC 同团队（Blue Springs MO / Katy TX）；该团队已有东土（Kyland）+ 迈威（MISCOM）两条中国货源（第 84 批 官方登记核实 2026-10-27） |
 
 - **业务线**：工业交换机（DIN/机架、L2/L3、PoE）；工业 bypass 交换机；工业 MC
 
@@ -273,7 +286,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Thomas West | 联系人（用户表） | sales@bluewarrior.com | 调研核实（公开页） | Clients/A/DONE/US.xlsx |
+| Thomas West | = SA-044 DYMEC President Thomas West 本人 → 两户并一线；BlueWARRIOR 疑为 Kyland-USA, LLC 的第二品牌（法人待核）（第 84 批 官方登记核实 2026-10-27） | sales@bluewarrior.com | 调研核实（公开页） | Clients/A/DONE/US.xlsx |
 
 - **通道建议**：企业邮箱可直发
 

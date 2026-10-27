@@ -79,6 +79,24 @@ updated: 2026-10-27
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 84 批（Türkiye · EMIS / Bloomberg 摘要 + 官网 + LinkedIn + kariyer.net 招聘页（2025-11）+ ekşi sözlük 转载的公司登记公告（董事会名单 / 资本），2026-10-27 查；https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html）：**
+
+- 法定名 / 登记号：TELEMOBİL BİLGİ İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ（TBI） · İstanbul Ticaret Sicil（号待补） · 状态 **经营中（2025-11 仍在招聘；EMIS 2025-11 更新）** · 成立 2005-01-14（EMIS；Bloomberg 口径 2008）；前身为 A.B GRUP 的 IT 部门（90 年代） · Anonim Şirketi（A.Ş.）· 家族持股（Unakıtan 家族任董事会主席 / 副主席）；早期登记资本 300,000 YTL
+- 行业码 / 经营范围：系统集成商：数据中心机电（MEP）/ 弱电与楼宇自动化 / 电气承包 / 电子安防 / IT；案例：İstanbul Grand Airport（2018，150,000 m²）、自称建成「土耳其最大数据中心」
+- 注册地址：Çilehane Yolu Cd. Çamlıca Evleri Sitesi No:13/3–4, Küçük Çamlıca, 34696 Üsküdar / İstanbul
+- 规模档：50–97 人（kariyer.net 50–74；LinkedIn 97 名员工 / 51–200）
+- 账目：非上市，不公开
+- 高管：Abdullah UNAKITAN — Yönetim Kurulu Başkanı（董事长）
+- 高管：Fatma UNAKITAN / Zeynep Basutçu UNAKITAN — 董事会副主席（家族）
+- 高管：研究档 KP = Clients 表联系人（项目 / 采购经办），**不是老板**
+- 控制人 / 股东：Unakıtan 家族
+- 曾用名：A.B GRUP Bilgi İşlem（90 年代内部部门）
+- **这意味着什么：**
+  - **数据中心 MEP + 弱电集成商、家族董事会拍板**：联系人是项目经办；信里按「项目 BOM」给东西——机房接入 / 汇聚交换机（STC-448XGGPM、STI-480XGGM Marvell L3、CENTEC STH-2C24XF-HSI 作为 DC 敲门砖）+ 弱电 PoE（STC-2024GP）→ 集成 25% 档，CENTEC 按 ≥35% 底线
+  - 机场 / 大型数据中心项目 = 招标制、要求品牌资质：先给 CE / RoHS / 测试报告 + 项目参考，不要先谈价格；量来时按项目一次性报（项目价 15 天有效）
+  - 土耳其 A.Ş. 付款习惯：项目回款慢，坚持 T/T 预付或至少 50/50，不接受 vadeli（账期）
+  - 公司 2005 年注册但 Bloomberg 口径 2008 → 可能 2008 年改制为 A.Ş.；Ticaret Sicil 号下一轮补
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,16 +138,17 @@ updated: 2026-10-27
   > Headquarters Camlica Evleri Sitesi No:13-4 Kucuk Camlica Mahallesi Cilehane Yolu Caddesi Uskudar Istanbul … Incorporation Date: January 14, 2005
   > 来源：https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +90 533 086 6289（WA）/ 0216 547 6700（用户记录）〔用户 Clients 表（ISAF 2025）〕
+- **KP**：Abdullah Unakıtan（Yönetim Kurulu Başkanı（董事长）；副主席 Fatma Unakıtan / Zeynep Basutçu Unakıtan（家族）；研究档联系人为项目经办（第 84 批 官方登记核实 2026-10-27）） 〔https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html〕
 - 备注：土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。 ｜ T27 深挖更正：首轮调研把 telemobil.com.tr（Ltd Şti）当作主体；按联系人邮箱域 tbi.com.tr 应为 TBI Telemobil A.Ş.（51–200 人）。首轮引文保留作对照，以本条为准。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1（更正主体））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.（TBI） |
+| 法定名称 | TELEMOBİL BİLGİ İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET A.Ş.（2005-01-14；Üsküdar İstanbul；前身 A.B GRUP IT 部门） |
 | 成立 | 2005-01-14（EMIS） |
 | 总部/地址 | Çamlıca Evleri Sitesi No:13-4, Küçük Çamlıca Mah., Cilehane Yolu Cad., Üsküdar, İstanbul 34696 |
-| 人数 | 51–200（LinkedIn） |
+| 人数 | 50–97（第 84 批 官方登记核实 2026-10-27） |
 | 其他 | 业务：电气承包、弱电/自动化、数据中心建设（Uptime）、环境安防、X 光、港口、工业与楼宇自动化、网络、Mobese、OTVT、OSOS、SCADA/DMS |
 
 - **业务线**：数据中心 EPC（自称建成土耳其最大数据中心）；弱电与楼宇/工业自动化；网络方案（LAN/WAN/无线/安全：VLAN、802.1x、QoS、BGP/OSPF/MPLS）；Mobese 城市监控与环境安防；港口/X 光/OSOS/SCADA 项目
@@ -187,6 +206,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Abdullah Unakıtan | Yönetim Kurulu Başkanı（董事长）；副主席 Fatma Unakıtan / Zeynep Basutçu Unakıtan（家族）；研究档联系人为项目经办（第 84 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html |
 | Kaan Kisacik | Sales manager | kkisacik@tbi.com.tr / +02165476700 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

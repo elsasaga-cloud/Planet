@@ -42,8 +42,8 @@
  ],
  "kp": [
   {
-   "name": "—",
-   "role": "销售（用户表邮箱；电话即 WhatsApp）",
+   "name": "Krzysztof Podgórski",
+   "role": "Prezes Zarządu（2026-02-17 起；此前 Magdalena Podgórska 任 Prezes，现为 Prokurent）；股东 Grzegorz Szydełko + GEMINVE（2020-08 起）；2024 亏 −705k、2025 亏 −432k PLN（第 84 批 官方登记核实 2026-10-27）",
    "email": "sales@fibermarkt.com",
    "phone": "+48 533 533 575",
    "source": "https://inwestrut.pl/fibermarkt-sp-z-o-o/"
@@ -56,9 +56,10 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Fibermarkt Sp. z o.o.（品牌 LightOptics）",
+  "legal_name": "FIBERMARKT SP. Z O.O.（KRS 0000356815 · NIP 6772343192 · REGON 121230858；2010-05-19；资本 123,700 PLN；Kraków）",
   "hq": "Kraków, Poland",
-  "other": "自有品牌 LightOptics 工业 PoE 交换机 LO-IGS 系列经 Profi Systems、Ceneo 等二级渠道销售；fibermarkt.com 网店 EUR 标价（LO-IGS-4GT2GF €101.67）"
+  "other": "自有品牌 LightOptics 工业 PoE 交换机 LO-IGS 系列经 Profi Systems、Ceneo 等二级渠道销售；fibermarkt.com 网店 EUR 标价（LO-IGS-4GT2GF €101.67）",
+  "staff": "2–10；2025 营收 1.9 mln PLN / 亏损 −431.8 tys. PLN（第 84 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "兼容光模块（60+ 厂商编码）、DAC、xWDM",

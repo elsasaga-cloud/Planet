@@ -47,6 +47,13 @@
    "email": "",
    "phone": "+1 801-356-3823",
    "source": "https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003"
+  },
+  {
+   "name": "Preston Wily",
+   "role": "President（Utah 登记；Owner David Sewell 为登记代理人 = 研究档 KP）；Sewell Development Corp 1034201-0142，1989-05-11；CAGE 38UZ7（2021 过期）（第 84 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://opencorporates.com/companies/us_ut/1034201-0142"
   }
  ],
  "notes": "A 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。",
@@ -56,10 +63,10 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Sewell Development Corp.（Sewell Direct）",
+  "legal_name": "SEWELL DEVELOPMENT CORPORATION（Utah 1034201-0142，1989-05-11）",
   "founded": "1983",
   "hq": "Orem, Utah, USA",
-  "staff": "17–200（口径不一）",
+  "staff": "营收估 $6.5–11M（第三方区间）（第 84 批 官方登记核实 2026-10-27）",
   "revenue": "$1–10M（口径不一）",
   "other": "自有品牌 Silverback / Deadbolt / Salt Labs；直营站 + Amazon/Newegg"
  },

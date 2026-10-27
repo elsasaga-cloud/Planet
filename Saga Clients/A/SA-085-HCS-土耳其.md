@@ -79,6 +79,22 @@ updated: 2026-10-27
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 84 批（Türkiye · LEI 登记（GLEIF 镜像 lei-lookup）+ EMIS / D&B 摘要 + 官网 + Netser 品牌页 + LinkedIn + Türk Metal 工会新闻，2026-10-27 查；https://www.lei-lookup.com/record/7890008F3LXUBMYF0N25/）：**
+
+- 法定名 / 登记号：HCS KABLOLAMA SİSTEMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ · İstanbul Ticaret Sicil No 12401448 · LEI 7890008F3LXUBMYF0N25（2019-05-15 首登，2025-05-09 更新） · 状态 **经营中（LEI ISSUED；官网 / LinkedIn 活跃）** · 成立 2000-11-22（EMIS） · Anonim Şirketi（A.Ş.）· HES Hacılar Elektrik 集团（土耳其最大电缆厂，Kayseri）旗下结构化布线品牌公司
+- 行业码 / 经营范围：铜缆 / 光纤结构化布线系统制造与销售（Kayseri 工厂 30,000 m²，月产 12,000 km 电缆）；D&B 归类金属批发（口径偏差）
+- 注册地址：İkitelli OSB Mah. 8. Cadde Boypaş Blok No:3A, Başakşehir, İstanbul 34490
+- 规模档：51–200 人（LinkedIn）；有 Türk Metal 工会集体合同（Kayseri 工厂）
+- 账目：非上市，不公开（集团母公司 HES Kablo 亦非上市）
+- 高管：Yusuf ÖKSÜZÖMER — Yönetim Kurulu Başkanı（董事长，D&B Key Principal）
+- 高管：研究档 KP Cihat Tunçbilek / Fatma Sancar — 采购 / 销售侧经办，**不是老板**；集团公司，拍板在 HES 集团与董事会
+- 控制人 / 股东：HES Hacılar Elektrik San. ve Tic. A.Ş. 集团（Kayseri）
+- **这意味着什么：**
+  - **集团公司、联系人不是老板**：Cihat Tunçbilek / Fatma Sancar 只能把方案推到采购委员会；信里给「HCS 品牌有源产品线（交换机）补全」的商业理由，让经办人拿得出手 → OEM 30% 线（贴 HCS 标，与其无源布线配套卖）
+  - HCS 自己是制造商（布线），对供应商资质审核正规：CE / RoHS / REACH 文件、工厂资料、样品测试报告先备齐；付款按 A.Ş. 流程走（LC 或 T/T 30/70 可谈，不要坚持 100% 预付）
+  - 2000 年成立、LEI 2019 年起每年续期 → 有境外金融 / 出口业务（LEI 一般为银行或出口要求），说明会做外币 T/T，不是纯内销
+  - TR 每年 LEI 续期 5 月、年度账目 4–5 月，报价避开 Ramazan Bayramı / Kurban Bayramı 假期（见假日表）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,7 +130,7 @@ updated: 2026-10-27
 - **【用户表】ISAF：找商用 PoE，问 L2/L3**
   > 找商业级POE交换机 问是否带L2/L3 / Cihat TUNCBILEK / ctuncbilek@hescs.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Cihat Tunçbilek（Product & Product Development Manager（CPR 声明 + 名录公开））ctuncbilek@hescs.com（用户表） +90 212 438 25 75（公司）〔https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179〕
+- **KP**：Cihat Tunçbilek（采购 / 销售经办，**非老板**；HCS 为 HES Hacılar Elektrik 集团（Kayseri）旗下 A.Ş.，董事长 Yusuf Öksüzömer；İstanbul Ticaret Sicil 12401448，LEI 7890008F3LXUBMYF0N25（第 84 批 官方登记核实 2026-10-27））ctuncbilek@hescs.com（用户表） +90 212 438 25 75（公司）〔https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179〕
 - **KP**：Fatma Sancar（Regional Sales Manager（名录公开））— —〔https://rocketreach.co/hcs-kablolama-sistemleri-profile_b43b5d3ac190e399〕
 - **调研后定级**：A（原自动 B）——B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进
 - 备注：（无首轮调研；由 deepen.py 建档）
@@ -123,9 +139,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | HCS Kablolama Sistemleri Sanayi ve Ticaret A.Ş. |
+| 法定名称 | HCS KABLOLAMA SİSTEMLERİ SANAYİ VE TİCARET A.Ş.（İstanbul Ticaret Sicil 12401448；2000-11-22；LEI 7890008F3LXUBMYF0N25） |
 | 成立 | 2000-11-22 |
 | 总部/地址 | İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a, Başakşehir / İstanbul（+90 212 438 25 75；info@hescs.com）；登记地址 Turgut Reis Mah. Barbaros Cad. Vadi Bulvarı No:1 Esenler |
+| 人数 | 51–200；Kayseri 工厂 30,000 m²（第 84 批 官方登记核实 2026-10-27） |
 | 其他 | HES Hacılar Elektrik（土耳其最大电缆厂）子公司；结构化布线品牌；CPR 自我声明由 Cihat Tunçbilek 签署 |
 
 - **业务线**：结构化布线系统（铜缆、光缆、配线架、模块）——HCS 品牌；（拟新增）有源网络设备：商用 PoE 交换机 L2/L3
@@ -177,7 +194,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Cihat Tunçbilek | Product & Product Development Manager（CPR 声明 + 名录公开） | ctuncbilek@hescs.com（用户表） / +90 212 438 25 75（公司） | 调研核实（公开页） | https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179 |
+| Cihat Tunçbilek | 采购 / 销售经办，**非老板**；HCS 为 HES Hacılar Elektrik 集团（Kayseri）旗下 A.Ş.，董事长 Yusuf Öksüzömer；İstanbul Ticaret Sicil 12401448，LEI 7890008F3LXUBMYF0N25（第 84 批 官方登记核实 2026-10-27） | ctuncbilek@hescs.com（用户表） / +90 212 438 25 75（公司） | 调研核实（公开页） | https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179 |
 | Fatma Sancar | Regional Sales Manager（名录公开） | — / — | 调研核实（公开页） | https://rocketreach.co/hcs-kablolama-sistemleri-profile_b43b5d3ac190e399 |
 | Cihat TUNCBILEK | Product Manager | ctuncbilek@hescs.com / info@hescs.com / +903522200138 | 用户表原值 | Clients/ 表 |
 

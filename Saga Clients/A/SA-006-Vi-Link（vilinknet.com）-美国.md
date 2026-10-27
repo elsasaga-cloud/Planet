@@ -147,6 +147,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 84 批（USA · 加州公司（D&B / ZoomInfo / LinkedIn / 商会名录摘要）+ OCTA 公共招标投标人名单（2018），2026-10-27 查；https://www.linkedin.com/company/vilink-communications）：**
+
+- 法定名 / 登记号：VILINK COMMUNICATIONS, INC.（Vi-Link） · California corporation（实体号待补） · 状态 **经营中但明显收缩（Brea 门店 YP 标 CLOSED；D&B Brea 址 1 人 / $74k；Irvine 450 Goddard 为现址）** · 成立 1993（LinkedIn / 官网口径）；D&B Brea 址 2005 · Corporation（California）· Self-Owned（LinkedIn）
+- 行业码 / 经营范围：光纤数字传输设备设计制造（模拟 / 非压缩数字 / IP 视频、ITS 智能交通、媒体转换器）；D&B：Fiber Optics Communications Equipment 制造
+- 注册地址：450 Goddard, Irvine, CA 92618（现）；2913 Saturn St Ste J, Brea, CA 92821（旧）；5160 Avenida de Despacio, Yorba Linda, CA 92887（2018 OCTA 投标地址）
+- 规模档：LinkedIn 11–50（历史口径）；D&B 1 人；多地址频繁变更 → 老板 + 极少数人的工作室
+- 账目：私人公司不公开；ZoomInfo / RocketReach 估 $11–12M 与 D&B $74k 相差三个数量级 → 以「微型」为准
+- 高管：Thu PHAM — Owner（商会名录 / D&B 联系人 / OCTA 投标联系人 thup@vilinknet.com）= 研究档 KP → 老板 = 联系人
+- 高管：Robin SUN — 研究档 KP（邮件来信人），职务未在登记类来源出现
+- 控制人 / 股东：Thu Pham（Self-Owned）
+- **这意味着什么：**
+  - **老板 = 联系人 Thu Pham**（Owner），公司已收缩到微型（Brea 关店、D&B 1 人）：别按「1993 年制造商」的体量预期，每单都是小量 → MOQ 1 台、T/T 100% 预付
+  - 2018 年还在投 OCTA（橙县交通局）视频监控分包 → 客户是加州 ITS / 交通项目：主推工业级温宽 PoE（STI 系列）和光口交换机，强调 3 年质保
+  - 三个地址 8 年换了三次：开 PI 前确认收货地址；发票抬头 Vilink Communications, Inc.
+  - 估计营收数据不可信（$74k vs $12M），下一轮不再花时间查财务
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -199,7 +215,7 @@ updated: 2026-10-27
   > IM28 $395.00 Industrial Gigabits Managed Ethernet Switch, 8* 10/100/1000M TX RJ45, 2* 1000M SX SFP, DIN Rail 10~47 VDC … SW-Ring ring network patent technology (Fault recovery time<20ms)
   > 来源：https://vilink.us/product/im28/（抓取 2026-10-23）
 - **KP**：Robin Sun（联系人（ProcessRegister 名录口径））sales@vilinknet.com（产品 PDF 页脚公开） +1 714-312-0654〔https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf〕
-- **KP**：Thu Pham（单据联系人）thupvilink16@gmail.com 〔PI.zip 单据〕
+- **KP**：Thu Pham（Owner（商会名录 / D&B 联系人 / 2018 OCTA 投标联系人）= 老板 = 联系人；公司已收缩至微型（Brea 关店、D&B 1 人），现址 450 Goddard Irvine（第 84 批 官方登记核实 2026-10-27））thupvilink16@gmail.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
 - 备注：A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。
 
@@ -207,10 +223,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Vilink Communications, Inc.（品牌 Vi-Link） |
+| 法定名称 | VILINK COMMUNICATIONS, INC.（California，1993；Self-Owned） |
 | 成立 | 1993（Crunchbase/ZoomInfo 口径） |
 | 总部/地址 | Irvine/Brea, California, USA |
-| 人数 | 1–10 / 11–50（口径不一） |
+| 人数 | 1–数人（D&B 1 人；第三方营收估值不可信）（第 84 批 官方登记核实 2026-10-27） |
 | 营收 | 约 $11–12M（ZoomInfo 口径，待核） |
 | 其他 | 2024 年起新站 vilink.us（WooCommerce 直销），vilinknet.com 跳转至此 |
 
@@ -343,7 +359,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Robin Sun | 联系人（ProcessRegister 名录口径） | sales@vilinknet.com（产品 PDF 页脚公开） / +1 714-312-0654 | 调研核实（公开页） | https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf |
-| Thu Pham | 单据联系人 | thupvilink16@gmail.com | 调研核实（公开页） | PI.zip 单据 |
+| Thu Pham | Owner（商会名录 / D&B 联系人 / 2018 OCTA 投标联系人）= 老板 = 联系人；公司已收缩至微型（Brea 关店、D&B 1 人），现址 450 Goddard Irvine（第 84 批 官方登记核实 2026-10-27） | thupvilink16@gmail.com | 调研核实（公开页） | PI.zip 单据 |
 
 - **通道建议**：企业邮箱可直发
 

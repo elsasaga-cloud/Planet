@@ -3293,7 +3293,7 @@
 },
 {
 "name": "Thu Pham",
-"role": "单据联系人",
+"role": "Owner（商会名录 / D&B 联系人 / 2018 OCTA 投标联系人）= 老板 = 联系人；公司已收缩至微型（Brea 关店、D&B 1 人），现址 450 Goddard Irvine（第 84 批 官方登记核实 2026-10-27）",
 "email": "thupvilink16@gmail.com",
 "phone": "",
 "source": "PI.zip 单据"
@@ -3306,10 +3306,10 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Vilink Communications, Inc.（品牌 Vi-Link）",
+"legal_name": "VILINK COMMUNICATIONS, INC.（California，1993；Self-Owned）",
 "founded": "1993（Crunchbase/ZoomInfo 口径）",
 "hq": "Irvine/Brea, California, USA",
-"staff": "1–10 / 11–50（口径不一）",
+"staff": "1–数人（D&B 1 人；第三方营收估值不可信）（第 84 批 官方登记核实 2026-10-27）",
 "revenue": "约 $11–12M（ZoomInfo 口径，待核）",
 "other": "2024 年起新站 vilink.us（WooCommerce 直销），vilinknet.com 跳转至此"
 },
@@ -9743,18 +9743,11 @@
 ],
 "kp": [
 {
-"name": "—",
-"role": "总机",
+"name": "Андрей Александрович Татарников（Andrey Tatarnikov）",
+"role": "Директор + 100% учредитель（ЕГРЮЛ，2018-04-24 起）= 老板 = 一人公司；登记主业不动产出租、住宅地址；2025 营收 64 млн ₽（第 84 批 官方登记核实 2026-10-27）",
 "email": "info@bitbuk.ru",
 "phone": "+7 (3435) 37-87-87",
 "source": "https://bitbuk.ru/kontakty/"
-},
-{
-"name": "Andrey Tatarnikov",
-"role": "单据联系人",
-"email": "info@bitbuk.ru",
-"phone": "",
-"source": "PI.zip 单据"
 }
 ],
 "grade_override": "A",
@@ -9766,11 +9759,12 @@
 "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
 },
 "company_facts": {
-"legal_name": "ООО «БитБук» / BitBook LLC",
+"legal_name": "ООО «БИТБУК»（ОГРН 1186658033220 · ИНН 6623126845；Нижний Тагил；资本 10,000 ₽）",
 "founded": "2018（注册）；自称 15+ 年经验",
 "hq": "Нижний Тагил, Россия（+7 908 906 7874，已加 WA）",
 "size": "小型开发/生产/分销商",
-"other": "自有品牌 БитБук，产品在俄罗斯与中国工厂生产；官网有「网络 PoE 设备」类目并招经销商"
+"other": "自有品牌 БитБук，产品在俄罗斯与中国工厂生产；官网有「网络 PoE 设备」类目并招经销商",
+"staff": "1（平均人数）（第 84 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "条码/自动化设备开发与生产（自有品牌）",
@@ -10753,6 +10747,13 @@
 "email": "",
 "phone": "+1 801-356-3823",
 "source": "https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003"
+},
+{
+"name": "Preston Wily",
+"role": "President（Utah 登记；Owner David Sewell 为登记代理人 = 研究档 KP）；Sewell Development Corp 1034201-0142，1989-05-11；CAGE 38UZ7（2021 过期）（第 84 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://opencorporates.com/companies/us_ut/1034201-0142"
 }
 ],
 "notes": "A 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。",
@@ -10762,10 +10763,10 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Sewell Development Corp.（Sewell Direct）",
+"legal_name": "SEWELL DEVELOPMENT CORPORATION（Utah 1034201-0142，1989-05-11）",
 "founded": "1983",
 "hq": "Orem, Utah, USA",
-"staff": "17–200（口径不一）",
+"staff": "营收估 $6.5–11M（第三方区间）（第 84 批 官方登记核实 2026-10-27）",
 "revenue": "$1–10M（口径不一）",
 "other": "自有品牌 Silverback / Deadbolt / Salt Labs；直营站 + Amazon/Newegg"
 },
@@ -12073,7 +12074,7 @@
 "kp": [
 {
 "name": "Stephen Lebowitz",
-"role": "President（ZoomInfo 口径）",
+"role": "President（BBB 登记管理层）= 老板；Optiview 为 Florida 公司（2000-01-21 注册），另用 5 个零售别名 + 经销商门户（第 84 批 官方登记核实 2026-10-27）",
 "email": "sales@optiviewusa.com（Crunchbase 公开）",
 "phone": "+1 904-805-1581",
 "source": "https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f"
@@ -12093,7 +12094,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Optiview, Inc.",
+"legal_name": "OPTIVIEW, INC.（Florida corporation，2000-01-21；BBB 档：Alternate Business Names 5 个零售品牌）（第 84 批 官方登记核实 2026-10-27）",
 "founded": "1999",
 "hq": "Jacksonville, Florida, USA（电话 904.805.1581）",
 "staff": "11–50",
@@ -12691,7 +12692,7 @@
 "kp": [
 {
 "name": "Matt McCormick",
-"role": "采购/产品联系人（用户表原值）",
+"role": "CEO（经营者，非所有者）；AddOn Networks = ADD-ON COMPUTER PERIPHERALS, LLC（California LLC 2002-12-26，前身 Inc. 2000），Patton 家族所有（President Jimmy Patton）；NY OGS 合同 PM69867；EIN 05-0549009（第 84 批 官方登记核实 2026-10-27）",
 "email": "matt@addoncomputer.com",
 "phone": "+1 949-735-4119（WhatsApp 已加）",
 "source": "Clients/A/DONE/US.xlsx"
@@ -12718,10 +12719,10 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "AddOn Networks（Add-On Computer Peripherals, LLC）",
+"legal_name": "ADD-ON COMPUTER PERIPHERALS, LLC（dba AddOn Networks；California LLC，2002-12-26）",
 "founded": "1999",
 "hq": "Tustin/Irvine, California, USA（另有 UK、Belgium 仓）",
-"staff": "250+（官网）",
+"staff": "201–500；营收估 ~$61.8M（第三方）（第 84 批 官方登记核实 2026-10-27）",
 "other": "自称全球最大独立光模块制造商；MC 产品线通过 Ingram Micro / TD Synnex / Insight 分销，各型号标注三地库存"
 },
 "business_lines": [
@@ -17929,7 +17930,7 @@
 "kp": [
 {
 "name": "Thomas West",
-"role": "联系人（用户表）",
+"role": "= SA-044 DYMEC President Thomas West 本人 → 两户并一线；BlueWARRIOR 疑为 Kyland-USA, LLC 的第二品牌（法人待核）（第 84 批 官方登记核实 2026-10-27）",
 "email": "sales@bluewarrior.com",
 "phone": "",
 "source": "Clients/A/DONE/US.xlsx"
@@ -17944,7 +17945,7 @@
 "company_facts": {
 "legal_name": "BlueWARRIOR（bluewarrior.com）",
 "hq": "USA",
-"other": "官网 WooCommerce 目录明码标价（2026-01 更新）；BW7212G 产品描述内残留「MISCOM7212G」字样 → 证实为武汉迈威 MISCOM 系列贴牌"
+"other": "官网 WooCommerce 目录明码标价（2026-01 更新）；BW7212G 产品描述内残留「MISCOM7212G」字样 → 证实为武汉迈威 MISCOM 系列贴牌；与 SA-044 DYMEC 同团队（Blue Springs MO / Katy TX）；该团队已有东土（Kyland）+ 迈威（MISCOM）两条中国货源（第 84 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业交换机（DIN/机架、L2/L3、PoE）",
@@ -19020,7 +19021,7 @@
 "kp": [
 {
 "name": "Alexander Rudnev",
-"role": "Director（用户表）",
+"role": "Учредитель（股东之一）= 拍板人之一；总经理 2023-11-10 起为 Твердохлеб Татьяна Владимировна（签字人）；另一股东 Авраменко Е. Е.；6 人、营收 98 млн ₽；商标 TD-FE®（马德里 2019）（第 84 批 官方登记核实 2026-10-27）",
 "email": "air@td-fe.ru",
 "phone": "+7 812 953 13 59（官网总机）",
 "source": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx"
@@ -19033,9 +19034,10 @@
 "level": "深挖 v2（官网 td-fe.ru 目录核对）"
 },
 "company_facts": {
-"legal_name": "ООО «ТД «Фарадей Электроникс»（TH Faraday Electronics Ltd.）",
+"legal_name": "ООО «ТОРГОВЫЙ ДОМ «ФАРАДЕЙ ЭЛЕКТРОНИКС»（ОГРН 1167847053934 · ИНН 7820046904；СПб Шушары；2016-01-14）",
 "hq": "圣彼得堡（官网 td-fe.ru）",
-"other": "自有品牌 FARADAY：DIN 开关电源 12–240W（CE）、UPS（UPS45-12-Slim … UPS 300W/48V）、**PoE 注入器与网络设备：F-802 工业管理型 PoE 交换机（8×FE PoE + 2 Combo GE，PoE 预算 240W，IP40，DIN，防雷）、F-812 管理型 L2**；中俄团队、电子模块合同制造；按客户 TЗ 免费定制电源（批量）"
+"other": "自有品牌 FARADAY：DIN 开关电源 12–240W（CE）、UPS（UPS45-12-Slim … UPS 300W/48V）、**PoE 注入器与网络设备：F-802 工业管理型 PoE 交换机（8×FE PoE + 2 Combo GE，PoE 预算 240W，IP40，DIN，防雷）、F-812 管理型 L2**；中俄团队、电子模块合同制造；按客户 TЗ 免费定制电源（批量）",
+"staff": "6（第 84 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "DIN 导轨工业电源（主业）",
@@ -22298,8 +22300,8 @@
 ],
 "kp": [
 {
-"name": "—",
-"role": "销售（用户表邮箱；电话即 WhatsApp）",
+"name": "Krzysztof Podgórski",
+"role": "Prezes Zarządu（2026-02-17 起；此前 Magdalena Podgórska 任 Prezes，现为 Prokurent）；股东 Grzegorz Szydełko + GEMINVE（2020-08 起）；2024 亏 −705k、2025 亏 −432k PLN（第 84 批 官方登记核实 2026-10-27）",
 "email": "sales@fibermarkt.com",
 "phone": "+48 533 533 575",
 "source": "https://inwestrut.pl/fibermarkt-sp-z-o-o/"
@@ -22312,9 +22314,10 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Fibermarkt Sp. z o.o.（品牌 LightOptics）",
+"legal_name": "FIBERMARKT SP. Z O.O.（KRS 0000356815 · NIP 6772343192 · REGON 121230858；2010-05-19；资本 123,700 PLN；Kraków）",
 "hq": "Kraków, Poland",
-"other": "自有品牌 LightOptics 工业 PoE 交换机 LO-IGS 系列经 Profi Systems、Ceneo 等二级渠道销售；fibermarkt.com 网店 EUR 标价（LO-IGS-4GT2GF €101.67）"
+"other": "自有品牌 LightOptics 工业 PoE 交换机 LO-IGS 系列经 Profi Systems、Ceneo 等二级渠道销售；fibermarkt.com 网店 EUR 标价（LO-IGS-4GT2GF €101.67）",
+"staff": "2–10；2025 营收 1.9 mln PLN / 亏损 −431.8 tys. PLN（第 84 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "兼容光模块（60+ 厂商编码）、DAC、xWDM",
@@ -22642,7 +22645,7 @@
 "kp": [
 {
 "name": "Jim Taxdahl",
-"role": "Vice President of Sales U.S.A",
+"role": "VP Sales（非买方、非股东）；Antronix 为 NJ 公司（1980-03-12），Tang 家族持有：Danny Tang（2016 年故）→ 子 Neil Tang CEO/CTO；2018 与 Teleste 合资（第 84 批 官方登记核实 2026-10-27）",
 "email": "jimtaxdahl@antronix.com",
 "phone": "+1 609-860-0160（总机）",
 "source": "https://antronix.com/about-antronix/"
@@ -22662,10 +22665,10 @@
 "level": "深挖 v2（官网 + 进口记录 + 合资）"
 },
 "company_facts": {
-"legal_name": "Antronix, Inc.",
+"legal_name": "ANTRONIX, INC.（New Jersey，1980-03-12；Cranbury NJ；家族持有）",
 "founded": "1980",
 "hq": "440 Forsgate Drive, Cranbury, NJ 08512（T 1.609.860.0160）",
-"staff": "约 33",
+"staff": "30–34（Cranbury）（第 84 批 官方登记核实 2026-10-27）",
 "revenue": "约 $4.3M（口径）",
 "other": "自 1980 年；产品 Milenium NXT 2.0 GHz multi-tap（2024 起出货）、1.8 GHz 面板、3.0 GHz 在研；与 Teleste 合资 Teleste Intercept（同址，sales@telesteintercept.com）；与 GiaX 合作 Intercept EO 2.5 Gbps MoCA Access；进口记录显示从越南/中国（Etech Industries Ningbo、Main Brightness）采购分配器/连接器"
 },
@@ -22986,7 +22989,7 @@
 "kp": [
 {
 "name": "Anders Hedin",
-"role": "联系人（用户表邮箱）",
+"role": "产品 / 采购经办，非董事；Direktronik AB（556281-9663，1986）为上市集团 Lagercrantz Group 100% 子公司；外聘 VD Henrik Ringstedt、董事长 Mats Rydén；财年 3 月止 2025 营收 133.0 MSEK / 28 人（第 84 批 官方登记核实 2026-10-27）",
 "email": "anders.hedin@direktronik.se",
 "phone": "+46 8 52 400 700（总机）",
 "source": "Clients/A Replied 09.04.xlsx"
@@ -23006,10 +23009,10 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Direktronik AB（Lagercrantz Group）",
+"legal_name": "DIREKTRONIK AKTIEBOLAG（Org.nr 556281-9663 · VAT SE556281966301；1986-09-11；母公司 Lagercrantz Group AB）",
 "founded": "1986；2007 起属上市集团 Lagercrantz",
 "hq": "Nynäshamn, Sweden",
-"staff": "约 25",
+"staff": "28（2025）；营收 133.0 MSEK（FY 2025-03）（第 84 批 官方登记核实 2026-10-27）",
 "revenue": "约 1.4 亿 SEK",
 "other": "自有系列 Direktronik Connect（非管理 PoE + Watchdog + MC）与 Direktronik Pro（管理型）；同时分销 PLANET（IGS-624HPT 等）；公共部门框架协议（Svenska Kraftnät）；2026 年收购 AB Qvintus 与挪威公司"
 },
@@ -23342,7 +23345,7 @@
 },
 {
 "name": "Thomas West",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"role": "President（Sales & Engineering，两项交通组网专利）= 拍板人；**同时是 SA-033 BlueWARRIOR 的联系人**；法人 Kyland-USA, LLC（dba DYMEC，VOSB 退伍军人小企业，2015-02 收购 DYMEC 品牌、2015-12 统一更名）（第 84 批 官方登记核实 2026-10-27）",
 "email": "sales@dymec.com",
 "phone": "",
 "source": "S/A 邮箱来信 2024-07-30 → 2025-03-28 来信 4 封（经 sales@ 公共箱署名）（第 72 批从邮件表头补）"
@@ -23355,9 +23358,10 @@
 "level": "深挖 v2（官网 + dymecdirect 清仓价核对）"
 },
 "company_facts": {
-"legal_name": "DYMEC",
+"legal_name": "KYLAND-USA, LLC dba DYMEC（原 DYMEC, Inc. 1970 年创立、2006 并入 GarrettCom；Kyland-USA 2008 前后成立）",
 "hq": "Katy/Houston, Texas & Blue Springs, Missouri, USA",
-"other": "Economy 线在 dymecdirect.com 大幅清仓（KY-3120DM $1,295 → $395；KY-2189RG → $449）——Economy 线可能换代/换源；主线强调 IEC 61850-3、IEEE 1588v2、MRP、HSE 高安全、Traffic/Railway（守界：铁路不供）"
+"other": "Economy 线在 dymecdirect.com 大幅清仓（KY-3120DM $1,295 → $395；KY-2189RG → $449）——Economy 线可能换代/换源；主线强调 IEC 61850-3、IEEE 1588v2、MRP、HSE 高安全、Traffic/Railway（守界：铁路不供）",
+"staff": "4–11（第 84 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业交换机 KY- 系列（DIN/机架、L2/L3、PoE/bt、10G）",
@@ -24311,7 +24315,7 @@
 "kp": [
 {
 "name": "Sean Nelson",
-"role": "Owner",
+"role": "Owner / Founder / 发明人 = 老板 = 联系人；2008 创 Nelly's Security（2023 出售）、2015 创 IPCamPower；2025 主推 UL + TAA 合规 PoE 线（Saga 做不了，信里不碰）（第 84 批 官方登记核实 2026-10-27）",
 "email": "sales@ipcampower.com",
 "phone": "",
 "source": "https://ipcampower.com/pages/about-us"
@@ -24324,9 +24328,9 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "IPCamPower（Broken Arrow / Tulsa, Oklahoma, USA）",
+"legal_name": "IPCamPower（Broken Arrow, OK；独资；OK SOS 实体号待补）",
 "founded": "2015（Sean Nelson）",
-"staff": "17",
+"staff": "1–17（第三方）（第 84 批 官方登记核实 2026-10-27）",
 "revenue": "约 $3.9M",
 "other": "面向 IP 摄像机安装商的自有品牌 PoE 交换机电商（Shopify 官网 + Amazon + Newegg + ipcamtalk 店），多款标注 UL Listed / TAA Compliant；用户表：ONV 来源"
 },
@@ -24664,7 +24668,7 @@
 "kp": [
 {
 "name": "Murat Gül",
-"role": "Electrical Engineer（用户表）",
+"role": "Teknik Müdür（技术总监，2009-11 起；YTÜ 电气工程）= 技术拍板、非老板；CEO Özgür Ünver；公司 2007-11-28 成立、16 人（2025）、2024 销售额 −9.5% / 资产 +23.5%（第 84 批 官方登记核实 2026-10-27）",
 "email": "muratg@sge.com.tr",
 "phone": "",
 "source": "Clients/A Replied 09.04.xlsx"
@@ -24684,10 +24688,10 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "SGE Mühendislik Elektrik Otomasyon Bilgi İşlem San. ve Tic. Ltd. Şti.",
+"legal_name": "SGE MÜHENDİSLİK ELEKTRİK OTOMASYON BİLGİ İŞLEM SAN. VE TİC. LTD. ŞTİ.（2007-11-28；Çekmeköy İstanbul）",
 "founded": "2007",
 "hq": "İstanbul, Türkiye",
-"staff": "16",
+"staff": "16（EMIS 2025）（第 84 批 官方登记核实 2026-10-27）",
 "other": "能源自动化工程分销商（Sprecher Automation、Elspec），网店 shop.sge.com.tr「工业网络产品」类目在售 CIEN/CISCOM 品牌工业交换机（标注交期 5 周、TL 含税价）"
 },
 "business_lines": [
@@ -30649,7 +30653,7 @@
 "kp": [
 {
 "name": "Nathan \"Nate\" Cline",
-"role": "President",
+"role": "President（2013 起）/ Yelp 店主 = 老板（第二代；创始人 Thomas J. Cline 1986 创立、2012 退休）（第 84 批 官方登记核实 2026-10-27）",
 "email": "nate.cline@alphanetcom.com",
 "phone": "+1 210-654-0653",
 "source": "https://www.alphanetcom.com/（Contact 区块）"
@@ -30664,10 +30668,10 @@
 "level": "深挖 v2（官网核对 + KP）"
 },
 "company_facts": {
-"legal_name": "Alpha Net Communications",
+"legal_name": "Alpha Net Communications（San Antonio TX，1986；法人形式待核）",
 "founded": "1986",
 "hq": "Office 11031 Wye Dr Ste 102, San Antonio, TX 78217；Warehouse 11313 Lone Shadow Trail, TX 78233；P.O. Box 18122（tel 210-654-0653）",
-"staff": "4（RocketReach）/ 1–10",
+"staff": "2–10（第 84 批 官方登记核实 2026-10-27）",
 "other": "服务 San Antonio / Austin / South Texas：Cat5e–6A/10G 布线、光纤熔接、Avaya Connect 授权伙伴、Yealink VoIP、Wi-Fi 6E/7、IP 摄像机、门禁；在售 Extreme Networks / HP ProCurve 千兆交换机；官网 © 2026",
 "revenue": "$10M（RocketReach 口径，存疑）"
 },
@@ -31217,6 +31221,13 @@
 "email": "",
 "phone": "+1 888-492-6526",
 "source": "用户 Clients 表 + 官网"
+},
+{
+"name": "Barry G. Patton",
+"role": "Founder / President & CEO / Resident Agent（1989 至今）= 老板；Patton Electronics 创始人家族的兄弟；SCADA 线销售 Michael Spellerberg、SMB 线 Daniel Rowe（第 84 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56"
 }
 ],
 "grade_override": null,
@@ -31228,9 +31239,10 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "Data Connect Enterprise, Inc.",
+"legal_name": "DATA CONNECT ENTERPRISE, INC.（Maryland Subchapter S Corp，1989-01-13；SAM.gov 在册至 2026-08-29；DLA 供应商）",
 "hq": "Maryland, USA（另有 NJ、CA 设施）",
-"other": "自有 DCE 品牌：MC（10/100、千兆 GMC、WDM）、DFT 4FX+4TX 交换机、ANS205CR/ANS208 工业 DIN 交换机、工业调制解调器、以太网延长器（2178HEE/2178CEE+PoE）、串口服务器；拥有 Ctek/Relcomm/Synxcom/Telenetics 品牌 IP；同时转售 Canoga Perkins、GarrettCom 加固设备"
+"other": "自有 DCE 品牌：MC（10/100、千兆 GMC、WDM）、DFT 4FX+4TX 交换机、ANS205CR/ANS208 工业 DIN 交换机、工业调制解调器、以太网延长器（2178HEE/2178CEE+PoE）、串口服务器；拥有 Ctek/Relcomm/Synxcom/Telenetics 品牌 IP；同时转售 Canoga Perkins、GarrettCom 加固设备",
+"staff": "13–19（第 84 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "DCE 品牌 MC / 工业交换机 / 延长器 / 调制解调器 / KVM",
@@ -37638,7 +37650,7 @@
 "kp": [
 {
 "name": "Francesco Brighel",
-"role": "General Manager（用户表；家族企业第二代）",
+"role": "General Manager（Brighel 家族：President Salvatore / MD Marco / GM Francesco / 行政 Rita）= 老板家族；采购经办 Corrado Novi；2024 营收 €17.96M（−24%）、净利 €33.8k（第 84 批 官方登记核实 2026-10-27）",
 "email": "f.brighel@transaudiovideo.com（用户表）",
 "phone": "+39 335 7374068（用户表）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -37660,11 +37672,12 @@
 "level": "B→A 加厚 v1（官网 + 财报核对）"
 },
 "company_facts": {
-"legal_name": "Trans Audio Video S.r.l.（P.IVA 01675270613）",
+"legal_name": "TRANS AUDIO VIDEO S.R.L.（P.IVA 01675270613 · REA CE-116878；1987-06-18 成立 / 1998-01-29 登记；资本 €500,000；PEC transaudiovideo@pec.it）",
 "founded": "1987",
 "hq": "Viale Melvin Jones 12, 81100 Caserta, Italy（+39 0823 329970；info@ / security@transaudiovideo.com）；分部 Corso Roma 186, Cologno Monzese (MI)（+39 039 791339）",
 "size": "30 人（官网）；2024 年营收 €18.0M（reportaziende）",
-"other": "家族企业（Brighel）；事业部 Media / Academy / Security；SICUREZZA 2025 参展（Pad 5 H13 K12）"
+"other": "家族企业（Brighel）；事业部 Media / Academy / Security；SICUREZZA 2025 参展（Pad 5 H13 K12）",
+"staff": "29（2026）（第 84 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "广播/电影/专业影像设备分销（Sony/Panasonic 渊源）",
@@ -38526,6 +38539,13 @@
 "email": "",
 "phone": "+359 879 377 573（WA；与公司公开号码一致）",
 "source": "用户 Clients 表 + AxxonSoft 页"
+},
+{
+"name": "Радка Ангелова Иванова",
+"role": "Управител（2020-03-19 起）= 签字人；股东 „ВЪЛК - 80“ ЕООД 34% / Д. Конецовска 33% / Т. Иванова 33%（2024-06-04 起，股权 4 次易手）；МВР 私人保安许可 № 288 З/02-770（2023-01-10）（第 84 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://papagal.bg/eik/202351530/4f70"
 }
 ],
 "grade_override": null,
@@ -38537,7 +38557,7 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "ЕЛИТ-ТИМ-СЕКЮРИТИ ООД（Elite Team Security OOD）",
+"legal_name": "„ЕЛИТ - ТИМ - СЕКЮРИТИ“ ООД（ЕИК 202351530 · ДДС BG202351530；2012-12-07；Враца）（第 84 批 官方登记核实 2026-10-27）",
 "founded": "2012-12-07（ЕИК 202351530，VAT BG202351530）",
 "hq": "гр. Враца 3000, ж.к. Река Лева, ул. Остри връх 1, Bulgaria",
 "staff": "12（2021）/ 22（2022）",
@@ -39296,6 +39316,13 @@
 "email": "",
 "phone": "+90 533 086 6289（WA）/ 0216 547 6700（用户记录）",
 "source": "用户 Clients 表（ISAF 2025）"
+},
+{
+"name": "Abdullah Unakıtan",
+"role": "Yönetim Kurulu Başkanı（董事长）；副主席 Fatma Unakıtan / Zeynep Basutçu Unakıtan（家族）；研究档联系人为项目经办（第 84 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html"
 }
 ],
 "grade_override": null,
@@ -39307,10 +39334,10 @@
 "level": "深挖 v1（更正主体）"
 },
 "company_facts": {
-"legal_name": "Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.（TBI）",
+"legal_name": "TELEMOBİL BİLGİ İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET A.Ş.（2005-01-14；Üsküdar İstanbul；前身 A.B GRUP IT 部门）",
 "founded": "2005-01-14（EMIS）",
 "hq": "Çamlıca Evleri Sitesi No:13-4, Küçük Çamlıca Mah., Cilehane Yolu Cad., Üsküdar, İstanbul 34696",
-"staff": "51–200（LinkedIn）",
+"staff": "50–97（第 84 批 官方登记核实 2026-10-27）",
 "other": "业务：电气承包、弱电/自动化、数据中心建设（Uptime）、环境安防、X 光、港口、工业与楼宇自动化、网络、Mobese、OTVT、OSOS、SCADA/DMS"
 },
 "business_lines": [
@@ -43476,7 +43503,7 @@
 "kp": [
 {
 "name": "Osman Yıldız",
-"role": "General Manager & Co-Founder（LinkedIn 公开）",
+"role": "Genel Müdür（总经理）= 拍板人；Gülnihal Özdemir Yılmaz = Import Export Manager（进口经办）；EDS 1990-02 成立、Sancaktepe 5,000 m² 工厂、出口 35+ 国、官方认可 R&D 中心（第 84 批 官方登记核实 2026-10-27）",
 "email": "eds@eds.com.tr（公开；个人邮箱待核）",
 "phone": "+90 216 528 45 00（公司）",
 "source": "https://tr.linkedin.com/in/osman-y%C4%B1ld%C4%B1z-01921a53"
@@ -43504,11 +43531,12 @@
 "level": "B→A 加厚 v1（官网 + 名录核对；以前客户）"
 },
 "company_facts": {
-"legal_name": "EDS Elektronik Destek Sanayi ve Ticaret Ltd. Şti.",
+"legal_name": "EDS ELEKTRONİK DESTEK SANAYİ VE TİCARET LTD. ŞTİ.（1990-02；İSO / İTO / TÜYAK / GESİDER / TÜBİSAD 会员）",
 "founded": "1990-02",
 "hq": "Meclis Mah. Teraziler Cad. Hayran Sok. No:4, 34785 Sancaktepe / İstanbul（+90 216 528 45 00；eds@eds.com.tr）",
 "size": "60+ 员工（官网）/ 63（RocketReach）/ 51–200（LinkedIn）；营收口径 $22.5M",
-"other": "自有品牌安防电子制造 + 分销；出口 35+ 国；Ar-Ge 中心（2019）；TÜYAK/GESİDER/TÜBİSAD 会员"
+"other": "自有品牌安防电子制造 + 分销；出口 35+ 国；Ar-Ge 中心（2019）；TÜYAK/GESİDER/TÜBİSAD 会员",
+"staff": "57–74（第 84 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "CCTV 与入侵报警/门禁/火灾探测（自有品牌制造，守界：火灾主系统不供、仅网络配套）",
@@ -43813,7 +43841,7 @@
 "kp": [
 {
 "name": "Cihat Tunçbilek",
-"role": "Product & Product Development Manager（CPR 声明 + 名录公开）",
+"role": "采购 / 销售经办，**非老板**；HCS 为 HES Hacılar Elektrik 集团（Kayseri）旗下 A.Ş.，董事长 Yusuf Öksüzömer；İstanbul Ticaret Sicil 12401448，LEI 7890008F3LXUBMYF0N25（第 84 批 官方登记核实 2026-10-27）",
 "email": "ctuncbilek@hescs.com（用户表）",
 "phone": "+90 212 438 25 75（公司）",
 "source": "https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179"
@@ -43834,11 +43862,12 @@
 "level": "B→A 加厚 v1（官网 + 名录核对）"
 },
 "company_facts": {
-"legal_name": "HCS Kablolama Sistemleri Sanayi ve Ticaret A.Ş.",
+"legal_name": "HCS KABLOLAMA SİSTEMLERİ SANAYİ VE TİCARET A.Ş.（İstanbul Ticaret Sicil 12401448；2000-11-22；LEI 7890008F3LXUBMYF0N25）",
 "founded": "2000-11-22",
 "hq": "İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a, Başakşehir / İstanbul（+90 212 438 25 75；info@hescs.com）；登记地址 Turgut Reis Mah. Barbaros Cad. Vadi Bulvarı No:1 Esenler",
 "size": "51–200（LinkedIn / ZoomInfo）",
-"other": "HES Hacılar Elektrik（土耳其最大电缆厂）子公司；结构化布线品牌；CPR 自我声明由 Cihat Tunçbilek 签署"
+"other": "HES Hacılar Elektrik（土耳其最大电缆厂）子公司；结构化布线品牌；CPR 自我声明由 Cihat Tunçbilek 签署",
+"staff": "51–200；Kayseri 工厂 30,000 m²（第 84 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "结构化布线系统（铜缆、光缆、配线架、模块）——HCS 品牌",
@@ -44972,7 +45001,7 @@
 "kp": [
 {
 "name": "Norm Matinnia",
-"title": "Sales and Product Development（zoominfo 口径；官网门店页列为联系人）；公开（官网 /our-stores 与 /careers 页）",
+"title": "Sales and Product Development / 官网唯一具名负责人（投诉、招聘、门店均指向他）= 实际经营者；Amanda Matinnia 管采购（家族）；D&B 登记负责人 Frank Bruno（Norelco 时代 President，待核）（第 84 批 官方登记核实 2026-10-27）",
 "email": "norm@nsidistribution.com",
 "phone": "1-800-668-3402",
 "source": "https://www.nsidistribution.com/our-stores"
@@ -44986,11 +45015,12 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-004，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "NSI Distribution (2164929 Ontario Inc.)",
+"legal_name": "2164929 ONTARIO INC. o/a NSI Distribution（前 Norelco SafeCam / Norelco Telecom；Brampton ON；6 个门店）",
 "founded": "",
 "hq": "Brampton, ON, 加拿大",
 "size": "",
-"other": "Planet 渠道档案 PA-004（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Norelco SafeCam；官网自述提供 OEM 设计与制造服务）；最大未知：Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数"
+"other": "Planet 渠道档案 PA-004（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Norelco SafeCam；官网自述提供 OEM 设计与制造服务）；最大未知：Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数",
+"staff": "23（Datanyze）/ 11–50（第 84 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务"
@@ -125134,7 +125164,7 @@
 "kp": [
 {
 "name": "Mark Basham",
-"title": "Vice President Product Management, Fiber Access",
+"title": "研究档联系人（非登记董事）；Technetix Limited 02484988（1990-03-26，Active；前 Technetix PLC）董事 Paul Antony Broadhurst（1991 年前即在任）+ Philip James Deakin（2024-01-30）；母公司 Technetix Group Ltd 05303822（第 84 批 官方登记核实 2026-10-27）",
 "email": "mark.basham@technetix.com",
 "phone": "+44 1444 251260 / m +44 7827 990840（信尾；对外材料不写电话）",
 "source": "data/gmail_a/messages/<year>/<month>.jsonl"
@@ -125148,7 +125178,7 @@
 "level": "邮件证据 + 官网常识"
 },
 "company_facts": {
-"legal_name": "Technetix Ltd.",
+"legal_name": "TECHNETIX LIMITED（Companies House 02484988；SIC 26110 / 26400 / 46520；账目至 2025-12-31 已报，下期 2027-09-30 到期）（第 84 批 官方登记核实 2026-10-27）",
 "founded": "",
 "hq": "Albourne, West Sussex, UK",
 "size": "",

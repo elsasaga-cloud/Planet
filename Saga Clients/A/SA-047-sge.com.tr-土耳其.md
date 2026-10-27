@@ -83,6 +83,23 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 84 批（Türkiye · EMIS 摘要（含 2024 财务走势、2025 员工数）+ 官网 + LinkedIn（公司 / Murat Gül 履历）+ RocketReach / ContactOut / GlobalPiyasa，2026-10-27 查；https://www.emis.com/php/company-profile/TR/Sge_Muhendislik_Elektrik_Otomasyon_Bilgi_Islem_San_Ve_Tic_Ltd_Sti_en_3345169.html）：**
+
+- 法定名 / 登记号：SGE MÜHENDİSLİK ELEKTRİK OTOMASYON BİLGİ İŞLEM SANAYİ VE TİCARET LİMİTED ŞİRKETİ · İstanbul Ticaret Sicil（号待补） · 状态 **经营中（ContactOut 2026-10 更新；LinkedIn 活跃）** · 成立 2007-11-28（EMIS） · Limited Şirketi（Ltd. Şti.）· 私人持有
+- 行业码 / 经营范围：电力 / 能源自动化工程公司：SCADA（zenon / Sicam230）、变电站自动化、保护继电器与 RTU（Sprecher、Schneider、Siemens、ABB）销售与现场实施、电能质量仪表；OSB（工业园区）能源自动化；GlobalPiyasa 标 Manufacturer + Importer
+- 注册地址：Mimar Sinan Mah. Çavuşbaşı Cad. Gündoğdu Sk., Çekmeköy / İstanbul 34782（另有 Ümraniye Bulgurlu 旧址）
+- 规模档：16 人（EMIS 2025）；LinkedIn 11–50；ContactOut 19
+- 账目：EMIS：2024 年净销售额 −9.48%，总资产 +23.49%（绝对值付费）；RocketReach 估 $5.8M / ContactOut $0.77M（不可信区间）
+- 高管：Özgür ÜNVER — CEO（RocketReach；Ankara）→ 拍板人，未在研究档 KP 内
+- 高管：Murat GÜL — Teknik Müdür（技术总监，2009-11 至今；YTÜ 电气工程 1996；曾为 Sempati Otomasyon 合伙人）= 研究档 KP → **技术拍板、非老板**
+- 高管：Okan S. — 研究档 KP（职务待核）；Osama Arqoub — 自动化与保护团队负责人（德国）
+- 控制人 / 股东：待补（Ltd. Şti. 股东名单需 Ticaret Sicil Gazetesi）
+- **这意味着什么：**
+  - **联系人 Murat Gül 是技术总监而非老板（CEO Özgür Ünver）**：技术线已经认我们，差商务拍板——下一封信给 Murat 一份可直接转发 CEO 的一页纸（价格 + 质保 + 交期 + 认证），让他内部推
+  - 业务 = 变电站 / OSB 能源 SCADA：买交换机是给保护继电器与 RTU 组 IEC 61850 站控网 → 工业级 STI 系列（温宽、冗余环网）+ 光口；这是「守界」允许的工业自动化，不是轨交 → 集成 25% 档
+  - 2024 年销售额下滑 9.5% 但资产增 23%（EMIS）：在投入 / 囤项目，不是收缩 → 2026 年项目落地期报价，别催单
+  - 16 人的 Ltd. Şti.，T/T 50/50；变电站项目周期长，按项目 BOM 报 15 天有效价并注明可按项目锁价
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,7 +137,7 @@ updated: 2026-10-27
 - **【官网】工业 PoE 类目型号列表（CISCOM7212GP/7210GP、CIEN3205GP/3206GP/3210GP/5206GP）**
   > CISCOM7212GP, 4xGbit SFP, 8xGbit POE Layer2 Managed Switch … CISCOM7210GP-2xGbit SFP-8xGbit RJ45 POE Managed Switch … CIEN3205GP-1xGbit SFP, 4xGbit RJ45 PoE Unmanaged Switch … CIEN3210GP-2xGbit SFP, 8xGbit PoE Unmanaged PoE Switch
   > 来源：https://sge.com.tr/kategori-endustriyel-ethernet-switch-poe-switch-297.html（抓取 2026-10-21）
-- **KP**：Murat Gül（Electrical Engineer（用户表））muratg@sge.com.tr 〔Clients/A Replied 09.04.xlsx〕
+- **KP**：Murat Gül（Teknik Müdür（技术总监，2009-11 起；YTÜ 电气工程）= 技术拍板、非老板；CEO Özgür Ünver；公司 2007-11-28 成立、16 人（2025）、2024 销售额 −9.5% / 资产 +23.5%（第 84 批 官方登记核实 2026-10-27））muratg@sge.com.tr 〔Clients/A Replied 09.04.xlsx〕
 - **KP**：Okan S.（联系人（用户表））okans@sge.com.tr 〔Clients/A Replied 09.04.xlsx〕
 - 备注：A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转销中东/中亚）：对位 CIEN3206GP ≈ STI-244GP/STI-288DGGPM，25% 档；主打 10–15 天交期（对比其 5 周）与 5 年保修对齐问题需向 SmartByte 确认。
 
@@ -128,10 +145,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SGE Mühendislik Elektrik Otomasyon Bilgi İşlem San. ve Tic. Ltd. Şti. |
+| 法定名称 | SGE MÜHENDİSLİK ELEKTRİK OTOMASYON BİLGİ İŞLEM SAN. VE TİC. LTD. ŞTİ.（2007-11-28；Çekmeköy İstanbul） |
 | 成立 | 2007 |
 | 总部/地址 | İstanbul, Türkiye |
-| 人数 | 16 |
+| 人数 | 16（EMIS 2025）（第 84 批 官方登记核实 2026-10-27） |
 | 其他 | 能源自动化工程分销商（Sprecher Automation、Elspec），网店 shop.sge.com.tr「工业网络产品」类目在售 CIEN/CISCOM 品牌工业交换机（标注交期 5 周、TL 含税价） |
 
 - **业务线**：电力测量/保护/自动化产品分销（中东/俄/突厥语国家/非洲）；工业网络产品网店：CIEN DIN 非管理（百兆/千兆）、CIEN PoE、CISCOM 管理型 PoE
@@ -228,7 +245,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Murat Gül | Electrical Engineer（用户表） | muratg@sge.com.tr | 调研核实（公开页） | Clients/A Replied 09.04.xlsx |
+| Murat Gül | Teknik Müdür（技术总监，2009-11 起；YTÜ 电气工程）= 技术拍板、非老板；CEO Özgür Ünver；公司 2007-11-28 成立、16 人（2025）、2024 销售额 −9.5% / 资产 +23.5%（第 84 批 官方登记核实 2026-10-27） | muratg@sge.com.tr | 调研核实（公开页） | Clients/A Replied 09.04.xlsx |
 | Okan S. | 联系人（用户表） | okans@sge.com.tr | 调研核实（公开页） | Clients/A Replied 09.04.xlsx |
 
 - **通道建议**：企业邮箱可直发

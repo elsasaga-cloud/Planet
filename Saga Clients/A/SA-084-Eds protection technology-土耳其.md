@@ -98,6 +98,23 @@ updated: 2026-10-27
 - 【宗教】03-09→03-12：开斋节（Eid al-Fitr / Ramazan Bayramı，估算）：3–4 天全停
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 84 批（Türkiye · 官网（eds.com.tr / edselectronic.com）+ LinkedIn + kariyer / yenibiriş 招聘档（2026-04）+ FinalScout 职务 + RocketReach + TradeAtlas 出口档，2026-10-27 查；https://www.edselectronic.com/about-us-5）：**
+
+- 法定名 / 登记号：EDS ELEKTRONİK DESTEK SANAYİ VE TİCARET LİMİTED ŞİRKETİ · İstanbul Ticaret Sicil（号待补）· İSO / İTO / TÜYAK / GESİDER / TÜBİSAD 会员 · 状态 **经营中（2026-04 仍在招聘）** · 成立 1990-02（官网 / LinkedIn；Glassdoor 口径 1991） · Limited Şirketi（Ltd. Şti.）· 私人持有；自称「%100 yerli」国产制造商、有官方认可的 R&D 中心
+- 行业码 / 经营范围：安防电子制造商：CCTV、火灾探测、入侵报警、门禁、环境监控、电力电子；Sancaktepe 工厂 5,000 m²；出口 35+ 国
+- 注册地址：Meclis Mah. Teraziler Cad. Hayran Sk. No:4, 34785 Sancaktepe / İstanbul
+- 规模档：57–74 人（kariyer 50–74；官网「近 60 人、10–15 名工程师」）
+- 账目：非上市，不公开；RocketReach 估 $22.5M（仅供参考）
+- 高管：Osman YILDIZ — Genel Müdür（总经理）= 研究档 KP → 拍板人直接在线
+- 高管：Gülnihal ÖZDEMİR YILMAZ — Import Export Manager = 研究档 KP（进口经办）
+- 高管：Münevver ACARER — 研究档 KP（职务待核）；Yağmur Yıldız Temuçin — R&D 设计工程师（同姓，疑为家族二代）；Zafer Sönmez — 生产经理
+- 控制人 / 股东：Yıldız 家族（待证：总经理 Osman Yıldız + 同姓研发工程师）
+- **这意味着什么：**
+  - **总经理 Osman Yıldız 本人就是联系人，且有专职进出口经理**：这是 A 档里最「成熟进口商」的土耳其户——有进口经验的品牌制造商 = 《背景信息》目标顺位第 1–2 位 → OEM 30% 线（贴 EDS 标的 PoE 交换机配其 CCTV / 门禁系统）
+  - EDS 卖「%100 yerli」国产形象 + 自有 R&D 中心：他们买我们的整机会要求去标 / 中性包装（INH 规则本就如此）、固件 OEM 化（Web UI logo）；信里明确「neutral packaging + your firmware branding」
+  - 出口 35+ 国 → 需要 CE / RoHS / REACH 全套，可能问 EAC（独联体出口）：按证书规则只报我们有的
+  - 约 60 人的 Ltd. Şti.，付款 T/T 30/70 或 50/50；土耳其进口商常走 FOB 深圳自己找货代（㉘ 物流两条线）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,7 +151,7 @@ updated: 2026-10-27
 - **【用户表】以前的客户；ISAF 拿目录即走；WA 加不上**
   > 以前的客户，坐了一下，拿了catalogue就走 / Osman Yildiz GM / Munevver Acarer import / 90 216 528 45 00 加不上
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Osman Yıldız（General Manager & Co-Founder（LinkedIn 公开））eds@eds.com.tr（公开；个人邮箱待核） +90 216 528 45 00（公司）〔https://tr.linkedin.com/in/osman-y%C4%B1ld%C4%B1z-01921a53〕
+- **KP**：Osman Yıldız（Genel Müdür（总经理）= 拍板人；Gülnihal Özdemir Yılmaz = Import Export Manager（进口经办）；EDS 1990-02 成立、Sancaktepe 5,000 m² 工厂、出口 35+ 国、官方认可 R&D 中心（第 84 批 官方登记核实 2026-10-27））eds@eds.com.tr（公开；个人邮箱待核） +90 216 528 45 00（公司）〔https://tr.linkedin.com/in/osman-y%C4%B1ld%C4%B1z-01921a53〕
 - **KP**：Münevver Acarer（Import（用户表））—（待核） —〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Gülnihal Özdemir Yılmaz（Import Export / Supply Chain Manager（名录公开））—（待核） —〔https://finalscout.com/company/eds_elektronik〕
 - **调研后定级**：A（原自动 B）——B→A：用户表注明「以前的客户」（有成交史，复购优先）；本土安防电子制造商 + 分销商（1990 年成立，Sancaktepe 5,000 m² 工厂，60+ 员工/10+ 工程师，营收口径 $22.5M，出口 35 国，2019 年起 Ar-Ge 中心资质）；总经理 Osman Yıldız 直接可达——值得长期跟进
@@ -144,9 +161,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | EDS Elektronik Destek Sanayi ve Ticaret Ltd. Şti. |
+| 法定名称 | EDS ELEKTRONİK DESTEK SANAYİ VE TİCARET LTD. ŞTİ.（1990-02；İSO / İTO / TÜYAK / GESİDER / TÜBİSAD 会员） |
 | 成立 | 1990-02 |
 | 总部/地址 | Meclis Mah. Teraziler Cad. Hayran Sok. No:4, 34785 Sancaktepe / İstanbul（+90 216 528 45 00；eds@eds.com.tr） |
+| 人数 | 57–74（第 84 批 官方登记核实 2026-10-27） |
 | 其他 | 自有品牌安防电子制造 + 分销；出口 35+ 国；Ar-Ge 中心（2019）；TÜYAK/GESİDER/TÜBİSAD 会员 |
 
 - **业务线**：CCTV 与入侵报警/门禁/火灾探测（自有品牌制造，守界：火灾主系统不供、仅网络配套）；环境监测/IoT、自动化、电力电子；进口分销与出口（35+ 国）
@@ -237,7 +255,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Osman Yıldız | General Manager & Co-Founder（LinkedIn 公开） | eds@eds.com.tr（公开；个人邮箱待核） / +90 216 528 45 00（公司） | 调研核实（公开页） | https://tr.linkedin.com/in/osman-y%C4%B1ld%C4%B1z-01921a53 |
+| Osman Yıldız | Genel Müdür（总经理）= 拍板人；Gülnihal Özdemir Yılmaz = Import Export Manager（进口经办）；EDS 1990-02 成立、Sancaktepe 5,000 m² 工厂、出口 35+ 国、官方认可 R&D 中心（第 84 批 官方登记核实 2026-10-27） | eds@eds.com.tr（公开；个人邮箱待核） / +90 216 528 45 00（公司） | 调研核实（公开页） | https://tr.linkedin.com/in/osman-y%C4%B1ld%C4%B1z-01921a53 |
 | Münevver Acarer | Import（用户表） | —（待核） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Gülnihal Özdemir Yılmaz | Import Export / Supply Chain Manager（名录公开） | —（待核） / — | 调研核实（公开页） | https://finalscout.com/company/eds_elektronik |
 | Osman Yildiz   GM | — | eds@eds.com.tr / +902165284500 | 用户表原值 | Clients/ 表 |

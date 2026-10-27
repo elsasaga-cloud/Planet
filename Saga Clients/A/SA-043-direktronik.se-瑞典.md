@@ -97,6 +97,25 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 84 批（Sverige · Bolagsverket 登记镜像（allabolag / rating.se / hitta / syna / bolagsfakta），2026-10-27 查；https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning/2JZYJ4FI63IFR）：**
+
+- 法定名 / 登记号：DIREKTRONIK AKTIEBOLAG（Direktronik AB） · Org.nr 556281-9663 · VAT SE556281966301 · F-skatt 登记 · 状态 **Aktiv（经营中）** · 成立 1986-09-11（登记；hitta 口径 09-17） · Aktiebolag（AB）· 股本 300,000 SEK · 100% 子公司，母公司 Lagercrantz Group AB（556282-4556，斯德哥尔摩上市工业集团）；另有 1 家子公司
+- 行业码 / 经营范围：SNI 46502 电子元器件 / 网络通信设备批发（自有品牌 Direktronik：工业以太网、媒体转换、PoE、串口 / KVM 等）
+- 注册地址：Konsul Johnsons Väg 15, 149 45 Nynäshamn（Box 234, 149 23 Nynäshamn）
+- 规模档：28 人（2025），人均营收 4.75 MSEK
+- 账目：财年 3 月止：2025-03 营收 133,047 kSEK（≈ $13M）/ 28 人；2024-03 130,548 kSEK / 26 人；2023-03 142,088 kSEK / 25 人；董事会+VD 薪酬 1,642 kSEK；财年 4-01→3-31，年报约 9 月前公开
+- 高管：Henrik Johan RINGSTEDT — Extern VD（外聘总经理）
+- 高管：Mats Johan RYDÉN — Styrelseordförande（董事长；Lagercrantz 集团层面）
+- 高管：Lars Andreas HEDER / Elisabet Lina ÅLANDER — Styrelseledamot（董事）
+- 高管：研究档 KP Anders Hedin / Mats Backlund — 产品 / 采购经办，**不是董事**；审计 Johan Hulthin
+- 控制人 / 股东：Lagercrantz Group AB 100%（上市集团，年报公开）
+- **这意味着什么：**
+  - **上市集团（Lagercrantz）子公司、专业「技术贸易 + 自有品牌」模式**：Direktronik 就是靠贴自己标卖亚洲 ODM 的——这是教科书式 OEM 品牌商目标（《背景信息》顺位第 1）→ OEM 30% 线，提案「Direktronik-branded managed / industrial PoE switches」，联系人 Anders Hedin / Mats Backlund 是产品经办，拍板 VD Ringstedt
+  - 营收三年横盘 130–142 MSEK（约 $13M）、28 人：集团对毛利有 KPI（Lagercrantz 公开目标 EBITA 率），他们换供应商看的是毛利与交期稳定，不是最低价；报价给「阶梯价 + 年度框架」
+  - 北欧合规：CE / RoHS / REACH 必备，可能问 WEEE 注册与包装法（瑞典 FTI）—— 由进口方负责，信里不碰；付款：集团公司常要 30 天账期，首单坚持 T/T 预付、第二单起可谈 30/70
+  - 财年 3 月止，预算 1–3 月定 → 2027-Q1 前（2026-11/12）送年度框架提案最合时；7 月瑞典全员休假避开
+- 备注：新增来源键 se（Bolagsverket 镜像），后续 SE 户复用。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,7 +153,7 @@ updated: 2026-10-27
 - **【官网】同时分销 PLANET IGS-624HPT**
   > PLANET IGS-624HPT är en industriell PoE+ switch … fyra PoE+-portar och två fiberoptiska uplink-portar … strömbudget på upp till 120 watt
   > 来源：https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-poe-switch-med-12v-48v-matning/（抓取 2026-10-21）
-- **KP**：Anders Hedin（联系人（用户表邮箱））anders.hedin@direktronik.se +46 8 52 400 700（总机）〔Clients/A Replied 09.04.xlsx〕
+- **KP**：Anders Hedin（产品 / 采购经办，非董事；Direktronik AB（556281-9663，1986）为上市集团 Lagercrantz Group 100% 子公司；外聘 VD Henrik Ringstedt、董事长 Mats Rydén；财年 3 月止 2025 营收 133.0 MSEK / 28 人（第 84 批 官方登记核实 2026-10-27））anders.hedin@direktronik.se +46 8 52 400 700（总机）〔Clients/A Replied 09.04.xlsx〕
 - **KP**：Mats Backlund（收件人（A 邮箱 18 封的收件地址之一；他本人从未回信；职务未核））mats.backlund@direktronik.se 〔A 邮箱发件表头（18 封 to）〕
 - 备注：A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。
 
@@ -142,10 +161,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Direktronik AB（Lagercrantz Group） |
+| 法定名称 | DIREKTRONIK AKTIEBOLAG（Org.nr 556281-9663 · VAT SE556281966301；1986-09-11；母公司 Lagercrantz Group AB） |
 | 成立 | 1986；2007 起属上市集团 Lagercrantz |
 | 总部/地址 | Nynäshamn, Sweden |
-| 人数 | 约 25 |
+| 人数 | 28（2025）；营收 133.0 MSEK（FY 2025-03）（第 84 批 官方登记核实 2026-10-27） |
 | 营收 | 约 1.4 亿 SEK |
 | 其他 | 自有系列 Direktronik Connect（非管理 PoE + Watchdog + MC）与 Direktronik Pro（管理型）；同时分销 PLANET（IGS-624HPT 等）；公共部门框架协议（Svenska Kraftnät）；2026 年收购 AB Qvintus 与挪威公司 |
 
@@ -243,7 +262,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Anders Hedin | 联系人（用户表邮箱） | anders.hedin@direktronik.se / +46 8 52 400 700（总机） | 调研核实（公开页） | Clients/A Replied 09.04.xlsx |
+| Anders Hedin | 产品 / 采购经办，非董事；Direktronik AB（556281-9663，1986）为上市集团 Lagercrantz Group 100% 子公司；外聘 VD Henrik Ringstedt、董事长 Mats Rydén；财年 3 月止 2025 营收 133.0 MSEK / 28 人（第 84 批 官方登记核实 2026-10-27） | anders.hedin@direktronik.se / +46 8 52 400 700（总机） | 调研核实（公开页） | Clients/A Replied 09.04.xlsx |
 | Mats Backlund | 收件人（A 邮箱 18 封的收件地址之一；他本人从未回信；职务未核） | mats.backlund@direktronik.se | 调研核实（公开页） | A 邮箱发件表头（18 封 to） |
 
 - **通道建议**：企业邮箱可直发

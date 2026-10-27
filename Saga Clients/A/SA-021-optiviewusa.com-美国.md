@@ -124,6 +124,25 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 84 批（USA · BBB 企业档案（含州注册日 / 法人形式 / 别名）+ 官网 + LinkedIn；Florida Sunbiz 直连本轮失败（待补 document number），2026-10-27 查；https://www.bbb.org/us/fl/jacksonville/profile/security-system-monitors/optiview-inc-0403-12778）：**
+
+- 法定名 / 登记号：OPTIVIEW, INC. · Florida Corporation（Sunbiz 文件号待补） · 状态 **经营中（官网 © 2026，经销商门户在线）** · 成立 2000-01-21（BBB「Business Incorporated」；业务始于 2000-01-01；研究档 1999 为筹备期） · Corporation（佛罗里达州）· 私人持有
+- 行业码 / 经营范围：安防监控设备分销（BBB 类目 Security System Monitors）；通过经销商网络销售（官网「through our dealer network」）
+- 注册地址：5211 Fairmont St, Jacksonville, FL 32207（官网 2025–2026）
+- 规模档：小型区域分销商（单址，经销商渠道）
+- 账目：私人公司不公开；Florida 年报每年 5-01 前（Sunbiz）
+- 高管：Stephen LEBOWITZ — President（BBB 登记负责人 / LinkedIn；= 研究档 KP）→ 老板 = 联系人
+- 高管：别名 / 商号：Discount Security Cameras、The Security Store、DGP Security Company、Security Store、ASL Security Inc（BBB Alternate Names）
+- 控制人 / 股东：Stephen Lebowitz（President，私人持有）
+- 抵押 / 诉讼 / 担保：BBB 未认证（NOT BBB Accredited），无公开投诉摘要
+- 曾用名：ASL Security Inc / DGP Security Company（别名，可能为并购或旧商号）
+- **这意味着什么：**
+  - **老板 = 联系人**：President Stephen Lebowitz 就是 KP，2000 年创办至今 26 年；一封信里给齐型号 / 价格 / 交期，他自己能拍板
+  - 五个零售别名（Discount Security Cameras / The Security Store …）+ 经销商门户：Optiview 同时做线上零售与 B2B 经销 → PoE 交换机走「配 IP 摄像头套装」路线（STC-028GP / STC-228GP / STC-2024GP），按分销 20% 报；可提自有标 OEM 作为第二步
+  - 佛罗里达公司每年 5 月 1 日前交年报（Sunbiz），下一轮用 web_search 补 Sunbiz 文件号 + 注册代理，确认 Active
+  - 美国户认证口径：FCC / CE / RoHS；信里不提 NDAA / UL（话术禁区）
+- 备注：Sunbiz 搜索页抓取失败（HTTP），可用 web_search "Optiview Inc sunbiz P00000…" 补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -164,7 +183,7 @@ updated: 2026-10-27
 - **【官网】OVPOE12V-8+4-160-M 8+2 千兆 L2 管理 30W/口**
   > OVPOE12V-8+4-160-M – 8 + 2 Port Gigabit Layer 2 Managed Switch with 30W PoE per Port … 240W Power over Ethernet … 12V / 24V DC Output Ports
   > 来源：https://optiviewusa.com/product/ovpoe12v-8-4-160-m/（抓取 2026-06-11）
-- **KP**：Stephen Lebowitz（President（ZoomInfo 口径））sales@optiviewusa.com（Crunchbase 公开） +1 904-805-1581〔https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f〕
+- **KP**：Stephen Lebowitz（President（BBB 登记管理层）= 老板；Optiview 为 Florida 公司（2000-01-21 注册），另用 5 个零售别名 + 经销商门户（第 84 批 官方登记核实 2026-10-27））sales@optiviewusa.com（Crunchbase 公开） +1 904-805-1581〔https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f〕
 - **KP**：Silvia Flores（来信署名人（职务未在邮件署名里出现）；地址 2026-07-20 永久退信（550 5.1.1 Address not found）→ 已离职/停用，改问 purchasing@ 接替人）silvia.flores@optiviewusa.com 〔S/A 邮箱来信 2024-10-29 来信 2 封（第 72 批从邮件表头补）〕
 - 备注：A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。
 
@@ -172,7 +191,7 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Optiview, Inc. |
+| 法定名称 | OPTIVIEW, INC.（Florida corporation，2000-01-21；BBB 档：Alternate Business Names 5 个零售品牌）（第 84 批 官方登记核实 2026-10-27） |
 | 成立 | 1999 |
 | 总部/地址 | Jacksonville, Florida, USA（电话 904.805.1581） |
 | 人数 | 11–50 |
@@ -287,7 +306,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Stephen Lebowitz | President（ZoomInfo 口径） | sales@optiviewusa.com（Crunchbase 公开） / +1 904-805-1581 | 调研核实（公开页） | https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f |
+| Stephen Lebowitz | President（BBB 登记管理层）= 老板；Optiview 为 Florida 公司（2000-01-21 注册），另用 5 个零售别名 + 经销商门户（第 84 批 官方登记核实 2026-10-27） | sales@optiviewusa.com（Crunchbase 公开） / +1 904-805-1581 | 调研核实（公开页） | https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f |
 | Silvia Flores | 来信署名人（职务未在邮件署名里出现）；地址 2026-07-20 永久退信（550 5.1.1 Address not found）→ 已离职/停用，改问 purchasing@ 接替人 | silvia.flores@optiviewusa.com | 调研核实（公开页） | S/A 邮箱来信 2024-10-29 来信 2 封（第 72 批从邮件表头补） |
 
 - **通道建议**：企业邮箱可直发

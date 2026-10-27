@@ -1,185 +1,186 @@
 {
-  "code": "SA-087",
-  "name_official": "NSI Distribution (2164929 Ontario Inc.)",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（nsidistribution.com；并档 Planet 渠道档案 PA-004）",
-  "summary": "多伦多郊区的安防批发商，全国 9 个门店卖摄像机/门禁/网络给安装商；自己已经做贴牌品牌，PLANET 是其 PoE 交换机货源之一。类型：安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务。信号：PLANET 品牌页 17 款（GSW-2620HP、8 口 PoE+2 上联、16 口 PoE+2 RJ45+2 SFP、24 口非 PoE 等）；同时分销 Lysora（美国 BSC 的自有品牌）。Planet 渠道档案 PA-004 评级 A（需求面：PLANET 品牌页 17 款 PoE 在售 + 已分销两家贴牌品牌；触达：Norm Matinnia 直邮 norm@nsidistribution.com（官网门店页/招聘页公开）；体量：区域安防批发 9 分部，可赢；区域加拿大（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SA-087，加拿大，Saga 群发已推送 13 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "PLANET"
-  ],
-  "evidence": [
-    {
-      "kind": "卖方目录",
-      "claim": "PLANET 品牌页 17 款在售",
-      "quote": "Planet Technology #### 17 Products 8 Port Gigabit POE Switch + 2 Uplinks … 16 Port Gigabit POE Switch + 2 RJ45 + 2 SFP … GSW-2620HP",
-      "url": "https://www.nsidistribution.com/Brands/Planet-Technology-Corporation",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "公司自述",
-      "claim": "自述提供 OEM 设计与制造服务，并有自有品牌 Norelco SafeCam",
-      "quote": "offers OEM design and manufacturing services（检索摘要，原文页待 fetch 核对）",
-      "url": "https://www.nsidistribution.com/",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "公司自述",
-      "claim": "Norm Matinnia 直邮在官网公开",
-      "quote": "norm@nsidistribution.com（门店页与招聘页均列出；招聘页另列 carlo@/paul@/mike@/david@）",
-      "url": "https://www.nsidistribution.com/our-stores",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "第三方",
-      "claim": "分销 Lysora（Business Systems Connection 的自有品牌）",
-      "quote": "Lysora … distributed by NSI Distribution（检索摘要）",
-      "url": "https://www.nsidistribution.com/",
-      "date": "2026-10-19"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Norm Matinnia",
-      "title": "Sales and Product Development（zoominfo 口径；官网门店页列为联系人）；公开（官网 /our-stores 与 /careers 页）",
-      "email": "norm@nsidistribution.com",
-      "phone": "1-800-668-3402",
-      "source": "https://www.nsidistribution.com/our-stores"
-    }
-  ],
-  "grade_override": "A",
-  "override_reason": "Planet 渠道档案 PA-004 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-004，W 批次调研 2026-10-19/20）"
+ "code": "SA-087",
+ "name_official": "NSI Distribution (2164929 Ontario Inc.)",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（nsidistribution.com；并档 Planet 渠道档案 PA-004）",
+ "summary": "多伦多郊区的安防批发商，全国 9 个门店卖摄像机/门禁/网络给安装商；自己已经做贴牌品牌，PLANET 是其 PoE 交换机货源之一。类型：安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务。信号：PLANET 品牌页 17 款（GSW-2620HP、8 口 PoE+2 上联、16 口 PoE+2 RJ45+2 SFP、24 口非 PoE 等）；同时分销 Lysora（美国 BSC 的自有品牌）。Planet 渠道档案 PA-004 评级 A（需求面：PLANET 品牌页 17 款 PoE 在售 + 已分销两家贴牌品牌；触达：Norm Matinnia 直邮 norm@nsidistribution.com（官网门店页/招聘页公开）；体量：区域安防批发 9 分部，可赢；区域加拿大（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SA-087，加拿大，Saga 群发已推送 13 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "卖方目录",
+   "claim": "PLANET 品牌页 17 款在售",
+   "quote": "Planet Technology #### 17 Products 8 Port Gigabit POE Switch + 2 Uplinks … 16 Port Gigabit POE Switch + 2 RJ45 + 2 SFP … GSW-2620HP",
+   "url": "https://www.nsidistribution.com/Brands/Planet-Technology-Corporation",
+   "date": "2026-10-19"
   },
-  "company_facts": {
-    "legal_name": "NSI Distribution (2164929 Ontario Inc.)",
-    "founded": "",
-    "hq": "Brampton, ON, 加拿大",
-    "size": "",
-    "other": "Planet 渠道档案 PA-004（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Norelco SafeCam；官网自述提供 OEM 设计与制造服务）；最大未知：Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数"
+  {
+   "kind": "公司自述",
+   "claim": "自述提供 OEM 设计与制造服务，并有自有品牌 Norelco SafeCam",
+   "quote": "offers OEM design and manufacturing services（检索摘要，原文页待 fetch 核对）",
+   "url": "https://www.nsidistribution.com/",
+   "date": "2026-10-19"
   },
-  "business_lines": [
-    "安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务"
-  ],
-  "products_seen": [
-    {
-      "brand": "PLANET",
-      "model": "GSW-2620HP",
-      "spec": "PLANET 为 24 口 PoE 非管理+2 SFP；Saga 为 L2+ 管理型，功能上覆盖",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://nsidistribution.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GS-4210-24P4C",
-      "spec": "24×GE PoE+ + 4 Combo，280W",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://nsidistribution.com",
-      "date": "2026-10-19"
-    }
-  ],
-  "channels": {
-    "role": "安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务",
-    "region": "加拿大"
+  {
+   "kind": "公司自述",
+   "claim": "Norm Matinnia 直邮在官网公开",
+   "quote": "norm@nsidistribution.com（门店页与招聘页均列出；招聘页另列 carlo@/paul@/mike@/david@）",
+   "url": "https://www.nsidistribution.com/our-stores",
+   "date": "2026-10-19"
   },
-  "signals": [
-    "安防批发商自带贴牌诉求（Norelco/Lysora 都是贴牌货）；9 个分部走量 24 口 PoE；Norm Matinnia（销售与产品开发）直邮公开",
-    "第二货源对位：GSW-2620HP 同位且带 L2+ 管理；贴牌中性包装",
-    "样机到 Brampton：30 天并行测试，不要求承诺；兼容其在用 SFP"
-  ],
-  "risks": [
-    "Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数",
-    "Planet 首触邮件未发送（Elsa 账号待定）",
-    "Saga 群发已推送 13 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 20,
-    "why": "对位其在售 GSW-2620HP / GS-4210-24P4C 一档（24×GE PoE+ + 4 上联，280W），是安防批发最走量的尺寸；分销走量 → 20%；Norelco 贴牌定制另按 30%（沿用 Planet 档案 PA-004）；需求：24/16/8 口 PoE 商用、贴牌、北美 FCC（Saga 有）、UL（Saga 无——若硬性要求则降级）"
-  },
-  "email_hook": "Your PLANET page already lists 17 PoE models next to Norelco SafeCam, so a second-source PoE switch under your own label is a natural fit for your nine branches. Is the 24-port PoE+ with 4 uplinks your highest-volume PLANET SKU across the branches, or do the 8/16-port units move faster?",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 18 封 0 回，Opened 3 次（最近 2026-06-12），4 个收件人；Elsa 箱：`to:norelcosafecam.com OR to:nsidistribution.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(g)））",
-      "type": "加拿大 NSI Distribution（Ontario）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "对打开过的人发一句话",
-      "lane": "CA",
-      "cadence": "一次",
-      "evidence": "邮件：去信 18 封（2025-05-27 → 2026-09-24），来信 0；Opened 标签 3 次（2025-05-27、2025-11-21、2026-06-12）；收件人 alexs@nsidistribution.com, amanda@nsidistribution.com, claudio@nsidistribution.com, joef@nsidistribution.com, norm@nsidi"
-    },
-    "situation": "4 个收件人里有人持续打开（3 次，到 2026-06）。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 20,
-      "price": "—；**第 63 批基准统一（规则 ㉕）**：列表价 $220 → 20% 档 $215.2；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → norm@nsidistribution.com",
-      "action": "一句话（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-      "one_question": "Our June note on the 24-port PoE / 10G unit — is there a line in the NSI catalogue it would fit, and who decides on new vendors?"
-    },
-    "facts": [
-      {
-        "date": "2025-05-27",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "c5c7abff2df78e77"
-      },
-      {
-        "date": "2025-05-27",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "Industrial PoE Switch",
-        "why": "首封去信（邮箱索引；去信共 18 封）",
-        "k": "c5c7abff2df78e77"
-      },
-      {
-        "date": "2025-11-21",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "0a8d96748590fd99"
-      },
-      {
-        "date": "2026-06-12",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「10G L3 Managed Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "0e8efb29e3a824ef"
-      },
-      {
-        "date": "2026-09-24",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "Managed PoE Switches",
-        "why": "最近一封去信（邮箱索引；去信共 18 封）",
-        "k": "229930f76646812f"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "One question — 24-port PoE / 10G L3",
-      "body": "Hi, Norm,\n\nWe have sent NSI a few notes this year — the 10G L3 managed switch in June, the industrial and booster PoE units before that — and never gave you a reason to answer. No brochure this time, just one question:\n\nIs there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $215.2 USD EXW, OEM label possible) would fit — and who at NSI decides on new vendors?\n\nIf not, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "第三方",
+   "claim": "分销 Lysora（Business Systems Connection 的自有品牌）",
+   "quote": "Lysora … distributed by NSI Distribution（检索摘要）",
+   "url": "https://www.nsidistribution.com/",
+   "date": "2026-10-19"
   }
+ ],
+ "kp": [
+  {
+   "name": "Norm Matinnia",
+   "title": "Sales and Product Development / 官网唯一具名负责人（投诉、招聘、门店均指向他）= 实际经营者；Amanda Matinnia 管采购（家族）；D&B 登记负责人 Frank Bruno（Norelco 时代 President，待核）（第 84 批 官方登记核实 2026-10-27）",
+   "email": "norm@nsidistribution.com",
+   "phone": "1-800-668-3402",
+   "source": "https://www.nsidistribution.com/our-stores"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "Planet 渠道档案 PA-004 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-004，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "2164929 ONTARIO INC. o/a NSI Distribution（前 Norelco SafeCam / Norelco Telecom；Brampton ON；6 个门店）",
+  "founded": "",
+  "hq": "Brampton, ON, 加拿大",
+  "size": "",
+  "other": "Planet 渠道档案 PA-004（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Norelco SafeCam；官网自述提供 OEM 设计与制造服务）；最大未知：Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数",
+  "staff": "23（Datanyze）/ 11–50（第 84 批 官方登记核实 2026-10-27）"
+ },
+ "business_lines": [
+  "安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "GSW-2620HP",
+   "spec": "PLANET 为 24 口 PoE 非管理+2 SFP；Saga 为 L2+ 管理型，功能上覆盖",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://nsidistribution.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GS-4210-24P4C",
+   "spec": "24×GE PoE+ + 4 Combo，280W",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://nsidistribution.com",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务",
+  "region": "加拿大"
+ },
+ "signals": [
+  "安防批发商自带贴牌诉求（Norelco/Lysora 都是贴牌货）；9 个分部走量 24 口 PoE；Norm Matinnia（销售与产品开发）直邮公开",
+  "第二货源对位：GSW-2620HP 同位且带 L2+ 管理；贴牌中性包装",
+  "样机到 Brampton：30 天并行测试，不要求承诺；兼容其在用 SFP"
+ ],
+ "risks": [
+  "Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数",
+  "Planet 首触邮件未发送（Elsa 账号待定）",
+  "Saga 群发已推送 13 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "对位其在售 GSW-2620HP / GS-4210-24P4C 一档（24×GE PoE+ + 4 上联，280W），是安防批发最走量的尺寸；分销走量 → 20%；Norelco 贴牌定制另按 30%（沿用 Planet 档案 PA-004）；需求：24/16/8 口 PoE 商用、贴牌、北美 FCC（Saga 有）、UL（Saga 无——若硬性要求则降级）"
+ },
+ "email_hook": "Your PLANET page already lists 17 PoE models next to Norelco SafeCam, so a second-source PoE switch under your own label is a natural fit for your nine branches. Is the 24-port PoE+ with 4 uplinks your highest-volume PLANET SKU across the branches, or do the 8/16-port units move faster?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 18 封 0 回，Opened 3 次（最近 2026-06-12），4 个收件人；Elsa 箱：`to:norelcosafecam.com OR to:nsidistribution.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(g)））",
+   "type": "加拿大 NSI Distribution（Ontario）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "对打开过的人发一句话",
+   "lane": "CA",
+   "cadence": "一次",
+   "evidence": "邮件：去信 18 封（2025-05-27 → 2026-09-24），来信 0；Opened 标签 3 次（2025-05-27、2025-11-21、2026-06-12）；收件人 alexs@nsidistribution.com, amanda@nsidistribution.com, claudio@nsidistribution.com, joef@nsidistribution.com, norm@nsidi"
+  },
+  "situation": "4 个收件人里有人持续打开（3 次，到 2026-06）。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "—；**第 63 批基准统一（规则 ㉕）**：列表价 $220 → 20% 档 $215.2；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → norm@nsidistribution.com",
+   "action": "一句话（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Our June note on the 24-port PoE / 10G unit — is there a line in the NSI catalogue it would fit, and who decides on new vendors?"
+  },
+  "facts": [
+   {
+    "date": "2025-05-27",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "c5c7abff2df78e77"
+   },
+   {
+    "date": "2025-05-27",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 18 封）",
+    "k": "c5c7abff2df78e77"
+   },
+   {
+    "date": "2025-11-21",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "0a8d96748590fd99"
+   },
+   {
+    "date": "2026-06-12",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「10G L3 Managed Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "0e8efb29e3a824ef"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 18 封）",
+    "k": "229930f76646812f"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+  ],
+  "draft_en": {
+   "subject": "One question — 24-port PoE / 10G L3",
+   "body": "Hi, Norm,\n\nWe have sent NSI a few notes this year — the 10G L3 managed switch in June, the industrial and booster PoE units before that — and never gave you a reason to answer. No brochure this time, just one question:\n\nIs there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $215.2 USD EXW, OEM label possible) would fit — and who at NSI decides on new vendors?\n\nIf not, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

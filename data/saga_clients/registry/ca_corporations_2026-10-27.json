@@ -1,0 +1,48 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Canada · Corporations Canada / Ontario 登记（OpenCorporates 摘要）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SA-087": {
+   "batch": 84,
+   "name": "2164929 ONTARIO INC.（o/a NSI Distribution；前 Norelco SafeCam / Norelco Telecom）",
+   "iso": "CA",
+   "source": "Canada · Ontario 数字公司（D&B / Crunchbase 法定名）+ 官网联系 / 门店 / 招聘页（2026-07）+ Datanyze / ZoomInfo / allbiz",
+   "url": "https://www.dnb.com/business-directory/company-profiles.2164929_ontario_inc.a0bb631466051b01118696b4707541a0.html",
+   "number": "Ontario Corporation No. 2164929（数字公司，2007 年前后编号段）",
+   "status": "经营中（官网 2026-07 更新、招聘中）",
+   "incorporated": "安省编号 2164929 对应约 2007–2008 年注册；品牌 Norelco SafeCam 1996 / 2004 起（名录口径）",
+   "company_type": "Ontario 私人公司 · 「100% Canadian Owned and Operated」",
+   "sic": [
+    "弱电批发分销：语音数据 / 安防 CCTV / 门禁 / 自动化 + 安装耗材，面向经销商（dealer network）；6 个门店：Brampton 总部、Markham、Barrie、Laval（蒙特利尔）、Calgary、Edmonton；经销 Grandstream / Uniview / Ubiquiti"
+   ],
+   "address": "27 Armthorpe Rd, Brampton, ON L6T 5M4（总部 + 自提店）",
+   "accounts": "私人公司不公开；Datanyze 估 $6.3M；allbiz $1–10M",
+   "accounts_due": "安省年度申报（Annual Return）公司成立周年日后 6 个月内",
+   "size_band": "23 人（Datanyze）/ 11–50（ZoomInfo）/ 名录 25–100",
+   "officers": [
+    "Norm MATINNIA — Sales and Product Development / 官网全站唯一具名负责人（客户投诉、招聘、门店联系均指向他）= 研究档 KP → **实际经营者**（Executive，2019 投诉信称呼）",
+    "Amanda MATINNIA — Sales and Purchasing（2000 起；原 Norelco SafeCam 全国销售代表）→ 家族成员，采购经办",
+    "Frank BRUNO — D&B Key Principal / 名录 President（Norelco Telecom 时代）→ 登记层面负责人，待核是否仍在任"
+   ],
+   "psc": "Matinnia 家族（实际）；登记董事需 Ontario Business Registry 付费查询",
+   "charges": "",
+   "prev_names": [
+    "Norelco SafeCam / Norelco Telecom Ltd（品牌 / 前身）"
+   ],
+   "lines": [
+    "**联系人 Norm Matinnia 就是实际经营者，采购在家族内（Amanda Matinnia 管采购）**：一封信同时到 Norm + Amanda，拍板与下单在同一张桌上 → 分销 20% 档（6 店批发网络，走量）",
+    "产品线 = Uniview / Grandstream / Ubiquiti 经销 + 自有 Norelco 品牌耗材：PoE 交换机现在大概率卖 Uniview / Ubiquiti —— 我们切入点是「自有标 NSI/Norelco PoE 交换机」（OEM 30%）或非品牌的高性价比 PoE（STC-028GP / STC-2024GP）配其 CCTV 套装",
+    "6 个门店 = 需要备库存：报 FOB 深圳 + 整柜 / 拼箱两档，Q4 备货 9–10 月下单；加拿大认证 FCC/CE/RoHS 按规则（不提 UL / cUL）",
+    "付款：加拿大分销商习惯 Net 30，首单 T/T 预付、复购 50/50；2019 有公开投诉信（服务争议）—— 不提"
+   ],
+   "notes": "Ontario 登记董事需付费 ONBR 查询，未做。",
+   "fetched": "2026-10-27",
+   "code": "SA-087"
+  }
+ }
+}

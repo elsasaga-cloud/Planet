@@ -126,6 +126,25 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 84 批（USA · 新泽西州公司（Bloomberg / D&B / Buzzfile 登记摘要）+ 官网 About（2026-10）+ Cablefax / PR Newswire，2026-10-27 查；https://antronix.com/about-antronix/）：**
+
+- 法定名 / 登记号：ANTRONIX, INC. · New Jersey corporation（州登记号待补） · 状态 **经营中、私人持有（官网 2026-10「still privately held」）** · 成立 1980-03-12（Bloomberg foundingDate；官网「since 1980」） · Corporation（New Jersey）· 家族私人持有（Tang 家族）
+- 行业码 / 经营范围：有线电视 / 宽带网络射频元件设计制造（D&B：Manufacturing – Cable Television Equipment）；Buzzfile：制造 + 进口 + 出口
+- 注册地址：440 Forsgate Drive, Cranbury, NJ 08512（全球总部 + 技术中心）
+- 规模档：Cranbury 本部 30–34 人（LinkedIn 11–50）；Buzzfile 口径集团总员工 1,500（含海外制造）
+- 账目：私人公司不公开；第三方估计差异极大（Datanyze $4.3M / Buzzfile $38.2M / D&B $117M / RocketReach $182M）→ 只能确认「中型制造商」量级
+- 高管：Neil TANG — President / CEO / CTO（创始人 Danny Tang 之子，设计工程师出身）= 拍板人
+- 高管：Danny (Daniel) TANG — 创始人 / 原 President，2016-03 去世（73 岁）
+- 高管：Jim TAXDAHL — Vice President of Sales（= 研究档 KP）；Juan Bravo — VP Sales / National Sales Director；Andre Coulombe — VP Sales Canada；Jonathan Rigby — Director International BD；Bill Warner — General Manager
+- 高管：合作：2017–2018 与芬兰 Teleste 成立合资（北美千兆有线接入）；2024 与 GiaX 合作
+- 控制人 / 股东：Tang 家族
+- **这意味着什么：**
+  - **KP Jim Taxdahl 是 VP Sales，不是采购**：他找 Saga 多半是替 Antronix 的客户（北美有线运营商）配套以太网交换机，或为自家 FTTx/DAA 产品线补 OEM 件——先问清是「转售给运营商」还是「进自家产品目录」，前者分销 20%，后者 OEM 30%
+  - 45 年家族制造商、CEO 是工程师：技术问题会问到芯片 / 固件 / 温宽 / MTBF，资料要齐（Marvell 方案 + CENTEC 方案各一页）；别用营销话术
+  - 北美有线运营商供应链对原产地 / 合规敏感：FCC Part 15 报告必备；不主动提 NDAA（话术禁区），被问到再按事实答
+  - 规模中型、付款可靠：T/T 50/50 起步，复购后可谈 30/70；年报不公开，靠官网 News 与 Cablefax 看动向即可
+- 备注：NJ 州登记在线检索为 JS，未取登记号。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -163,7 +182,7 @@ updated: 2026-10-27
 - **【行业媒体】Antronix–GiaX 合作 Intercept EO 2.5 Gbps**
   > This recent collaboration with GiaX will lead with the Intercept EO 2.5 Gbps ethernet over coax PON Extension powered by MoCA Access
   > 来源：https://www.cbinsights.com/company/antronix（抓取 2024-09-23）
-- **KP**：Jim Taxdahl（Vice President of Sales U.S.A）jimtaxdahl@antronix.com +1 609-860-0160（总机）〔https://antronix.com/about-antronix/〕
+- **KP**：Jim Taxdahl（VP Sales（非买方、非股东）；Antronix 为 NJ 公司（1980-03-12），Tang 家族持有：Danny Tang（2016 年故）→ 子 Neil Tang CEO/CTO；2018 与 Teleste 合资（第 84 批 官方登记核实 2026-10-27））jimtaxdahl@antronix.com +1 609-860-0160（总机）〔https://antronix.com/about-antronix/〕
 - **KP**：Peter Tarquinio（联系人（用户表））petertarquinio@antronix.com 〔Clients/A Replied 09.04.xlsx〕
 - 备注：A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。
 
@@ -171,10 +190,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Antronix, Inc. |
+| 法定名称 | ANTRONIX, INC.（New Jersey，1980-03-12；Cranbury NJ；家族持有） |
 | 成立 | 1980 |
 | 总部/地址 | 440 Forsgate Drive, Cranbury, NJ 08512（T 1.609.860.0160） |
-| 人数 | 约 33 |
+| 人数 | 30–34（Cranbury）（第 84 批 官方登记核实 2026-10-27） |
 | 营收 | 约 $4.3M（口径） |
 | 其他 | 自 1980 年；产品 Milenium NXT 2.0 GHz multi-tap（2024 起出货）、1.8 GHz 面板、3.0 GHz 在研；与 Teleste 合资 Teleste Intercept（同址，sales@telesteintercept.com）；与 GiaX 合作 Intercept EO 2.5 Gbps MoCA Access；进口记录显示从越南/中国（Etech Industries Ningbo、Main Brightness）采购分配器/连接器 |
 
@@ -264,7 +283,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jim Taxdahl | Vice President of Sales U.S.A | jimtaxdahl@antronix.com / +1 609-860-0160（总机） | 调研核实（公开页） | https://antronix.com/about-antronix/ |
+| Jim Taxdahl | VP Sales（非买方、非股东）；Antronix 为 NJ 公司（1980-03-12），Tang 家族持有：Danny Tang（2016 年故）→ 子 Neil Tang CEO/CTO；2018 与 Teleste 合资（第 84 批 官方登记核实 2026-10-27） | jimtaxdahl@antronix.com / +1 609-860-0160（总机） | 调研核实（公开页） | https://antronix.com/about-antronix/ |
 | Peter Tarquinio | 联系人（用户表） | petertarquinio@antronix.com | 调研核实（公开页） | Clients/A Replied 09.04.xlsx |
 
 - **通道建议**：企业邮箱可直发

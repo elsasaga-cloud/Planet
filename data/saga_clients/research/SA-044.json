@@ -55,7 +55,7 @@
   },
   {
    "name": "Thomas West",
-   "role": "来信署名人（职务未在邮件署名里出现）",
+   "role": "President（Sales & Engineering，两项交通组网专利）= 拍板人；**同时是 SA-033 BlueWARRIOR 的联系人**；法人 Kyland-USA, LLC（dba DYMEC，VOSB 退伍军人小企业，2015-02 收购 DYMEC 品牌、2015-12 统一更名）（第 84 批 官方登记核实 2026-10-27）",
    "email": "sales@dymec.com",
    "phone": "",
    "source": "S/A 邮箱来信 2024-07-30 → 2025-03-28 来信 4 封（经 sales@ 公共箱署名）（第 72 批从邮件表头补）"
@@ -68,9 +68,10 @@
   "level": "深挖 v2（官网 + dymecdirect 清仓价核对）"
  },
  "company_facts": {
-  "legal_name": "DYMEC",
+  "legal_name": "KYLAND-USA, LLC dba DYMEC（原 DYMEC, Inc. 1970 年创立、2006 并入 GarrettCom；Kyland-USA 2008 前后成立）",
   "hq": "Katy/Houston, Texas & Blue Springs, Missouri, USA",
-  "other": "Economy 线在 dymecdirect.com 大幅清仓（KY-3120DM $1,295 → $395；KY-2189RG → $449）——Economy 线可能换代/换源；主线强调 IEC 61850-3、IEEE 1588v2、MRP、HSE 高安全、Traffic/Railway（守界：铁路不供）"
+  "other": "Economy 线在 dymecdirect.com 大幅清仓（KY-3120DM $1,295 → $395；KY-2189RG → $449）——Economy 线可能换代/换源；主线强调 IEC 61850-3、IEEE 1588v2、MRP、HSE 高安全、Traffic/Railway（守界：铁路不供）",
+  "staff": "4–11（第 84 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "工业交换机 KY- 系列（DIN/机架、L2/L3、PoE/bt、10G）",

@@ -110,6 +110,22 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 84 批（USA · 官网 About / 联系页 + ZoomInfo / LeadIQ / Yelp（店主信息）+ Humantic / RocketReach，2026-10-27 查；https://www.alphanetcom.com/）：**
+
+- 法定名 / 登记号：Alpha Net Communications（San Antonio, TX；法人形式待核） · 得州实体（SOS 登记号待补） · 状态 **经营中（官网 2026、ProvenExpert 2026-03）** · 成立 1986（创始人 Thomas J. Cline；2012 年底退休） · 家族私营（第二代 Nathan Cline 任 President）
+- 行业码 / 经营范围：结构化布线承包商（Cat 5e/6/6A、光纤熔接 / 认证）+ 托管 IP 电话 / Wi-Fi 6E–7 / IP 摄像头安装；SIC 4812 / NAICS 3341（名录口径）
+- 注册地址：11031 Wye Dr Ste 102, San Antonio, TX 78217（办公）；11313 Lone Shadow Trail, TX 78233（仓 / 旧址）；P.O. Box 18122
+- 规模档：2–10 人（ZoomInfo 1–10 / LeadIQ 5）
+- 账目：私人公司不公开；LeadIQ 估 $1–10M；Texas 每年 5-15 特许经营税申报
+- 高管：Nathan "Nate" CLINE — President（2013 起；2007–2012 VP Sales）/ Yelp 店主 = 研究档 KP → 老板 = 联系人（第二代）
+- 高管：Thomas J. CLINE — 创始人（1986），2012 年底退休
+- 控制人 / 股东：Cline 家族
+- **这意味着什么：**
+  - **老板 = 联系人（第二代 Nate Cline）**，5 人左右的布线承包商：买交换机是给自己安装项目配套（10–500 人规模的本地企业客户）→ 集成 25% 档；每单 1–10 台，但项目稳定、复购靠「有货 + 快」
+  - 业务画像 = 布线 + IP 摄像头 + Wi-Fi 7 + VoIP：PoE 交换机是刚需配件（STC-028GP / STC-228GP / STC-2024GP、2.5G PoE 配 Wi-Fi 7 AP：HRUI STC-114XGDGP）；强调即插即用与 3 年质保，不推 L3
+  - 小承包商现金流按项目走：T/T 100% 预付 + 小包裹快递（百运网 DAP）最省事；德州无州所得税但有特许税申报，5 月忙季避开
+  - 得州 SOS 登记号与法人形式（LLC / Inc.）下一轮补
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -147,17 +163,17 @@ updated: 2026-10-27
 - **【官网】在售 Extreme Networks / HP ProCurve 千兆交换机**
   > Extreme Networks Gigabit Switch HP ProCurve Gigabit Switch Service Design and Installation
   > 来源：https://www.alphanetcom.com/san-antonio-structured-cabling.html（抓取 2026-10-21）
-- **KP**：Nathan "Nate" Cline（President）nate.cline@alphanetcom.com +1 210-654-0653〔https://www.alphanetcom.com/（Contact 区块）〕
+- **KP**：Nathan "Nate" Cline（President（2013 起）/ Yelp 店主 = 老板（第二代；创始人 Thomas J. Cline 1986 创立、2012 退休）（第 84 批 官方登记核实 2026-10-27））nate.cline@alphanetcom.com +1 210-654-0653〔https://www.alphanetcom.com/（Contact 区块）〕
 - 备注：美国主攻区、集成商、已回复。用户记录称其'工业 switch 分销商、供应商多、产品面广'——官网显示更偏布线承包+项目集成。P1：STC-424DGGPM-280W（摄像/门禁项目 24 口 PoE），项目价阶 25%；需 FCC 文件，不承诺 UL。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对 + KP））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Alpha Net Communications |
+| 法定名称 | Alpha Net Communications（San Antonio TX，1986；法人形式待核） |
 | 成立 | 1986 |
 | 总部/地址 | Office 11031 Wye Dr Ste 102, San Antonio, TX 78217；Warehouse 11313 Lone Shadow Trail, TX 78233；P.O. Box 18122（tel 210-654-0653） |
-| 人数 | 4（RocketReach）/ 1–10 |
+| 人数 | 2–10（第 84 批 官方登记核实 2026-10-27） |
 | 营收 | $10M（RocketReach 口径，存疑） |
 | 其他 | 服务 San Antonio / Austin / South Texas：Cat5e–6A/10G 布线、光纤熔接、Avaya Connect 授权伙伴、Yealink VoIP、Wi-Fi 6E/7、IP 摄像机、门禁；在售 Extreme Networks / HP ProCurve 千兆交换机；官网 © 2026 |
 
@@ -247,7 +263,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nathan "Nate" Cline | President | nate.cline@alphanetcom.com / +1 210-654-0653 | 调研核实（公开页） | https://www.alphanetcom.com/（Contact 区块） |
+| Nathan "Nate" Cline | President（2013 起）/ Yelp 店主 = 老板（第二代；创始人 Thomas J. Cline 1986 创立、2012 退休）（第 84 批 官方登记核实 2026-10-27） | nate.cline@alphanetcom.com / +1 210-654-0653 | 调研核实（公开页） | https://www.alphanetcom.com/（Contact 区块） |
 | Nathan | — | nate.cline@alphanetcom.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

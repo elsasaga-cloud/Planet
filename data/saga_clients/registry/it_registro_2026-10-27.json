@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 1
+  "count": 2
  },
  "rows": {
   "SA-070": {
@@ -39,6 +39,42 @@
    "fetched": "2026-10-27",
    "code": "SA-070",
    "batch": 83
+  },
+  "SA-072": {
+   "batch": 84,
+   "name": "TRANS AUDIO VIDEO S.R.L.（TAV Group）",
+   "iso": "IT",
+   "source": "Italia · Registro Imprese 镜像（ufficiocamerale / reportaziende / money.it / registroaziende / tuttodati）+ 官网 Team 页（2025-12）",
+   "url": "https://www.ufficiocamerale.it/4733/trans-audio-video-srl",
+   "number": "P.IVA / C.F. 01675270613 · REA CE-116878 · PEC transaudiovideo@pec.it · SDI USAL8PV",
+   "status": "Attiva（经营中）",
+   "incorporated": "1987-06-18 成立；1998-01-29 登记 Registro Imprese",
+   "company_type": "S.r.l. · 股本 €500,000（2026）· Brighel 家族经营（President / MD / GM / 行政均为 Brighel）",
+   "sic": [
+    "ATECO 46.43.1 / 46.43.3 摄影 / 电影 / 光学器材批发 —— 实际为广播 / 电影 / 专业视听系统分销 + 集成（Video Solutions 事业部 35 年）"
+   ],
+   "address": "Viale Melvin Jones 12, 81100 Caserta (CE)",
+   "accounts": "2024 营收 €17.96M（−24.4%）、净利 €33.8k（−93.6%，利润率 0.2%）、EBITDA €227.6k（−80.8%）；2023 €23.71M / €531.8k；2022 €22.31M / €357.7k",
+   "accounts_due": "意大利年报 5–6 月股东会、7–8 月公示",
+   "size_band": "29 人（2026）；25–49 区间",
+   "officers": [
+    "Salvatore BRIGHEL — President = 研究档 KP → 老板本人在线",
+    "Marco BRIGHEL — Managing Director（Video Solutions 35 年）",
+    "Francesco BRIGHEL — General Manager = 研究档 KP",
+    "Rita BRIGHEL — Administration；Corrado NOVI — Procurement Manager（采购）；Vincenzo COLONNESE — Administrative Director"
+   ],
+   "psc": "Brighel 家族（股东名单需 visura，待补）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板家族 = 联系人（President Salvatore + GM Francesco Brighel）**，2024 年营收跌 24%、利润几乎归零：他们正在控成本、找更便宜的配套货源 —— 这是进攻窗口，但付款风险上升 → 报价可给到分销 20% 档，付款坚持 T/T 预付 / 50/50，不给账期",
+    "业务是广播 / 电影 / 专业 AV 系统集成分销：交换机用于 AV-over-IP / 媒体网络 —— 需要 IGMP / 多播、非阻塞背板、PoE++ 给 PTZ 与解码器 → 主推 Marvell 管理型（STI-480XGGM L3 / STC-448XGGPM、2.5G 款），信里给「multicast / IGMP snooping / jumbo frame」卖点",
+    "采购有专人 Corrado Novi（Procurement Manager）：拍板在 Brighel，执行给 Novi —— 信抄 Novi 让流程走得动",
+    "2024 跌幅大，2025 年报（2026 年中公示）出来再看是否继续缩；意大利 8 月全停（Ferragosto）避开"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-072"
   }
  }
 }
