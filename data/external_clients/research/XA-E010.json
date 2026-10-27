@@ -1,0 +1,77 @@
+{
+ "code": "XA-E010",
+ "name": "Hardware Nation",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "官网活（2026-10-26 更新），招 BDR Open Networking",
+ "summary": "佐治亚 Buford 的开放网络 VAR/经销商（2006 起，11–50 人，$1.8–2M），自述帮 DC 运营商/服务商/企业建「传统与开放网络」，IP Infusion 经销伙伴、Ubiquiti 授权经销商，BBB 认证 19 年。10-19 发创始人 alex@ 未回。",
+ "type_final": "开放网络 VAR + 网店（白牌友好）",
+ "size": "11–50 人；$1.8–2M（D&B）",
+ "brands_seen": [
+  "Ubiquiti",
+  "IP Infusion (OcNOS)",
+  "Edgecore（官方 SI/On-Line 名录）",
+  "open networking / disaggregated"
+ ],
+ "saga_line": "CENTEC + SmartByte 商用管理型（OEM 贴牌）",
+ "fit": "白牌 + 开放网络是他们的卖点，Centec L3 与 Marvell L2+ 都能进；小公司、创始人直达",
+ "evidence": [
+  {
+   "kind": "官网首页",
+   "claim": "We design and deploy traditional and open networks for data centers, service providers, enterprises and campuses",
+   "quote": "Open networking … decouples the hardware and software",
+   "url": "https://hardwarenation.com/",
+   "date": "2026-10-26"
+  },
+  {
+   "kind": "IP Infusion 伙伴名录",
+   "claim": "Hardware Nation = IP Infusion Reseller Partner（Americas/USA）",
+   "quote": "",
+   "url": "https://www.ipinfusion.com/partner-directory/hardware-nation/",
+   "date": "2023-09-15"
+  },
+  {
+   "kind": "BBB",
+   "claim": "Hardware Nation, LLC，Buford GA，BBB Accredited since 2012，产品含 Open Networking / Network Switches；Alex Cronin Founding Partner",
+   "quote": "",
+   "url": "https://www.bbb.org/us/ga/buford/profile/computer-dealers/hardware-nation-llc-0443-27429563",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "网店页",
+   "claim": "Ubiquiti UniFi 16-Port PoE Switch — Authorized Dealer",
+   "quote": "",
+   "url": "https://hardwarenation.com/product/ubiquiti-unifi-16-port-poe-switch-usw-16-poe/",
+   "date": "2023-06-15"
+  }
+ ],
+ "contacts": {
+  "email": "alex@hardwarenation.com",
+  "email_status": "Crunchbase/第三方公开，创始人直达，10-19 已发未回",
+  "kp": [
+   {
+    "name": "Alex Cronin",
+    "role": "Co-founder / Infrastructure Architect（Indeed 记 CEO）",
+    "source": "BBB + Crunchbase"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-19 发 alex@ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "美国主攻区、白牌/开放网络为卖点的小 VAR、创始人直达邮箱——Saga 最对口的美国类型之一；换 CENTEC+OEM 角度第二封",
+ "next_move": {
+  "action": "第二封",
+  "angle": "开放网络白牌：Centec L3 ToR + Marvell L2+ 园区线，可贴 Hardware Nation 标",
+  "model": "STH-2C24XF-HSI / STC-424XGGPM-280W",
+  "price": "USD 1,500 / USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "US 周三 08–10 当地",
+  "when": "2026-10-28"
+ },
+ "draft_en": {
+  "subject": "White-box switches under your own label - Centec L3 and Marvell L2+",
+  "body": "Hi Alex,\n\nI wrote on 19 October under \"24 Port PoE Managed Switch\"; this is a different angle, so a fresh note rather than a reply.\n\nSince Hardware Nation sells open networking, the more relevant part of what we do is OEM: switches shipped under your label with your UI, no MOQ. Two anchors: STH-2C24XF-HSI (Centec, 24 x 10G SFP+ + 2 x 100G, L3 with BGP/VXLAN, dual PSU) at USD 1,500, and STC-424XGGPM-280W (Marvell, 24 x GE PoE+ 280 W + 4 x 10G SFP+, L2+) at USD 170 - both EXW Shenzhen, snapshot 2026-10-27, valid 15 days, FCC/CE, 12-month warranty.\n\nWhich of the two would be worth a sample on your bench first?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "notes": "",
+ "deep": false
+}

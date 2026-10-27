@@ -1,0 +1,54 @@
+{
+ "code": "XA-M125",
+ "name": "I-NetPartner GmbH (mikrotik-store.eu)",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 官网核对在线；本轮未复查",
+ "summary": "格平根 I-NetPartner 的 mikrotik-store.eu，自述 2008 起 MikroTik Master Distributor，面向 WISP/无线运营商/集成商，在售 CRS 400G 等高端交换机，设 B2B 账期流程。",
+ "type_final": "MikroTik Master Distributor（WISP/集成商）",
+ "size": "小型（未查）",
+ "brands_seen": [
+  "MikroTik"
+ ],
+ "saga_line": "SmartByte 商用 L2+（已发）→ 第二封换 STI 工业 L2+ PoE 补位",
+ "fit": "Master 分销、WISP 方向、B2B 流程成熟；工业 PoE 补位",
+ "evidence": [
+  {
+   "kind": "来源库官网核对",
+   "claim": "mikrotik-store.eu 自述「Offizieller MikroTik Master Distributor seit 2008」，在售 CRS418/CRS812（400G）/CSS606，设 B2B 经销账期",
+   "quote": "",
+   "url": "https://www.mikrotik-store.eu/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "来源库群发记录",
+   "claim": "R71：本户一轮跟进已完成（用户报告），逐户日期/收件地址未记录",
+   "quote": "",
+   "url": "External Clients/mikrotik-info/A/XA-M125",
+   "date": "2026-10-12"
+  }
+ ],
+ "contacts": {
+  "email": "sales@mikrotik-store.eu",
+  "email_status": "来源库首选（official-company/channel）",
+  "kp": []
+ },
+ "touch_status": "9-28~10-10 群发 24 口 PoE L2+ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "DE 主攻区 Master Distributor（2008 起） → 维持 A",
+ "next_move": {
+  "action": "第二封",
+  "angle": "STI 工业 L2+ PoE（MikroTik 无此品类）",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "DE 周四 12–14",
+  "when": "2026-10-29"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
+ "draft_en": {
+  "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
+  "body": "Hello,\n\nI wrote in late September about our 24-port PoE L2+ switch; this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Also 4-port (USD 121) and 8 + 4 SFP (USD 147) versions, and PoE++ 90 W variants.\n\nDo your WISP and integrator customers ask for DIN-rail PoE, and would you evaluate a sample for the store?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

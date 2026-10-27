@@ -1,0 +1,56 @@
+{
+ "code": "XA-C0009",
+ "name": "ADN Distribution GmbH",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（2023 营收 7.8 亿欧元）",
+ "summary": "波鸿的 DACH 头部增值分销商（1994 起，约 260 人，7,000+ 伙伴，2023 年营收 ≈7.8 亿欧元），主线云/安全/存储/UCC/现代办公，Edgecore 在其网络线内。对 Saga 这个体量的供应商而言是「大的搞不定」。",
+ "type_final": "大型 VAD（DACH 头部）",
+ "size": "≈260 人；€780M（2023）",
+ "brands_seen": [
+  "Citrix",
+  "Dell",
+  "Microsoft",
+  "Nvidia",
+  "Sonicwall",
+  "Watchguard",
+  "Edgecore"
+ ],
+ "saga_line": "—",
+ "fit": "体量与厂商准入门槛都不匹配",
+ "evidence": [
+  {
+   "kind": "IT-Business「Wer ist ADN?」",
+   "claim": "rund 260 Mitarbeiter … über 7.000 Partnern",
+   "quote": "",
+   "url": "https://www.it-business.de/wer-ist-adn-a-88250c399eb07a093ee34a396c50de71/",
+   "date": "2025-05-26"
+  },
+  {
+   "kind": "ADN 官网新闻",
+   "claim": "Umsatz 2023 auf rund 780 Millionen Euro",
+   "quote": "",
+   "url": "https://www.adn.de/de/aktuelles/news/newsdetail/adn-group-steigert-jahresumsatz-auf-780-millionen-euro",
+   "date": "2024-09-01"
+  }
+ ],
+ "contacts": {
+  "email": "info@adn.de",
+  "email_status": "公开；不用"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "7.8 亿欧元的头部 VAD，守界「大的搞不定」→ C 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "",
+ "deep": false,
+ "draft_en": null
+}

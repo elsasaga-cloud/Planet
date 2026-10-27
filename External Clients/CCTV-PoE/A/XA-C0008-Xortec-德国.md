@@ -1,6 +1,6 @@
 # XA-C0008 · Xortec · 德国
 
-> **初判 XA 长期跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-58-part2.md`:19（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-58-part2.md`:19（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
@@ -79,7 +79,42 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+
+- **结论：XA** — 德国安防 VAD、多点、已卖多牌 PoE、具名销售口 → A 首触
+- 活着吗：活（官网 2026；2026-09 媒体仍报其并购）
+- 一句话：法兰克福的 B2B 安防/网络增值分销商（2007 起，11–50 人，PE Beyond Capital 支持，2021–2022 连并柏林/慕尼黑/汉堡三家同行，全国多点），客户是 Facherrichter/经销商/电工企业；网店已卖 barox/Veracity/Hikvision 等网络与 PoE 产品，首页给出销售负责人 Michael Kahl 与 sales.fra@。
+- 是什么人：安防/网络增值分销商（全国多点）；规模：11–50 人（LinkedIn，并购后或更多）
+- 在卖/在用：Hikvision、barox、Veracity、eks
+- 对口哪条线：HRUI PoE 主打 + SmartByte L2+ PoE — 安防 VAD 正是 HRUI PoE 的主渠道；已卖多牌 PoE，加一条中性低价线阻力小；有具名销售负责人
+- 找得到人吗：sales.fra@xortec.de（官网首页公开（法兰克福销售口））；KP：Michael Kahl（法兰克福销售联系人，官网首页）
+- 已触达：未发信
+- 与 Saga Clients：无
+- **下一动作：首触** — 给 Facherrichter 渠道一条中性 PoE 线（非管理 24 口 300 W + 8 口 + L2+ 10G 上联）；分销 20% 档；型号 STC-2224GP / STC-424XGGPM-280W；价 USD 86 / USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 DE 周四 12–14；建议 2026-10-29
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 官网首页 | Lösungsanbieter für professionelle Sicherheitstechnik, Videoüberwachung und Netzwerktechnik；Hauptsitz Frankfurt；sales.fra@xortec.de；Ansprechpartner: Michael Kahl |  | https://xortec.de/ | 2026-10-27 |
+| LinkedIn | Distributor von professionellen Videoüberwachungs- u. Datenkommunikationslösungen für den B2B Bereich；11–50；2007 |  | https://de.linkedin.com/company/xortec-gmbh | 2026-10-27 |
+| Beyond Capital Partners 新闻稿 | acquiring videotronic infosystems nord GmbH … Following … Burgenkönig Video GmbH |  | https://beyondcapital-partners.com/en/press-releasesxortec-gmbh-continues-its-market-expansion-through-next-add-on-acquisition-strengthening-its-nationwide-presence/ | 2022-02 |
+| 官网网络技术页 | IP-Extender/PoE-Extender 等网络产品在售（barox、Veracity） |  | https://xortec.de/Produkte/Netzwerktechnik/IP-Extender/ | 2026-10-27 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: Neutral PoE switch line for your installer channel
+
+Hello Mr. Kahl,
+
+Saga Telecom supplies PoE and L2+ switches to security and network distributors in Europe - under our label or the distributor's own. For a distributor serving Facherrichter, the line that usually moves is the one priced for the camera project rather than for the IT department.
+
+Three reference points at distributor level: STC-2224GP (24 x GE PoE+ + 2 x GE + 2 x SFP, 300 W, unmanaged) USD 86; 8-port PoE+ units from USD 28; and for the 10G-uplink tier STC-424XGGPM-280W (24 x GE PoE+ 280 W + 4 x 10G SFP+, Marvell L2+) USD 170, all EXW Shenzhen, snapshot 2026-10-27, valid 15 days, CE/RoHS/REACH, 12-month warranty. Your logo on the unit and carton is possible without MOQ.
+
+Would a PDF price sheet of the PoE range be useful for your product team, or do you prefer to start with a paid sample of the 24-port?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：不提 Hikvision 对比。

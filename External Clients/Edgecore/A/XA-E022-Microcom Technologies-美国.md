@@ -1,6 +1,6 @@
 # XA-E022 · Microcom Technologies · 美国
 
-> **初判 XA 长期跟进** ｜ 来源 Edgecore `B-046`（原评级 B，阶段 01-bounced-primary） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 Edgecore `B-046`（原评级 B，阶段 01-bounced-primary） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -103,7 +103,42 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+
+- **结论：XA** — 美国 Cambium 分销商，PoE 交换机是其无线项目的必配且现在只有 cnMatrix 可卖；首封从未到达 → 换新域首触
+- 活着吗：活；官网域已从 microcom.us 迁到 microcomtec.com（LinkedIn/RocketReach/Craft 均列新域）
+- 一句话：加州 Calabasas 的无线网络产品库存批发分销商（1999 起，31–48 人，$18.6–18.9M），Cambium 北美分销（2017 签）、Aruba、Algo 官方分销；客户是 VAR/SI/顾问。两封旧域地址 10-24 均退信 = 没碰到。
+- 是什么人：无线/网络产品批发分销商（Cambium 北美分销）；规模：31–48 人；$18.6–18.9M
+- 在卖/在用：Cambium Networks、Aruba、Algo、Coax-Seal
+- 对口哪条线：SmartByte 商用管理型 PoE（配 Cambium AP/回传，对标 cnMatrix） — Cambium 分销商必卖 PoE 交换机给 WISP/企业无线项目；现在只能卖 cnMatrix，缺一条便宜的 Marvell L2+ 线
+- 找得到人吗：sales@microcomtec.com（待核（新域按 microcom.us 旧格式推断，未实测）；退信则打 (818) 880-8008 要现行订单邮箱）；KP：David Golob（President/CEO，Cambium 官方稿引言）
+- 已触达：S 箱 2026-10-21 发旧域两址 → 均退信（未触达）
+- 与 Saga Clients：无
+- **下一动作：首触** — 配 Cambium AP/回传的 PoE L2+ 交换机，分销 20% 档；一封一问；型号 STC-424XGGPM-280W；价 USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 US 周三 08–10 当地；建议 2026-10-28
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| Cambium 官方稿 | distribution partnership with Microcom Technologies … Microcom Technologies is a stocking, wholesale distributor |  | https://www.cambiumnetworks.com/blog/cambium-networks-announces-distributor-agreement-microcom-technologies-north-america/ | 2017-11-02 |
+| Stock in the Channel | Official Distributor for Algo, Aruba Networks, Cambium Networks |  | https://us.stockinthechannel.com/Distributor/Microcom-Technologies/549 | 2026-10-27 |
+| RocketReach | Website microcomtec.com；Revenue $18.6M；31 人 |  | https://rocketreach.co/microcom-technologies-profile_b5c8497ef42e34f8 | 2026-10-27 |
+| 来源库跟进 | 2026-10-24 sales@microcom.us / info@microcom.us 均 Address not found |  | External Clients/Edgecore/A/XA-E022 | 2026-10-24 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: PoE L2+ switches for your Cambium resellers
+
+Hi David,
+
+Microcom stocks Cambium for VARs and WISPs; nearly every one of those deployments needs PoE switching next to the radios and APs. That is the line we build: Marvell-based L2+ PoE switches with 10G uplinks, FCC/CE, 12-month warranty, at distributor pricing.
+
+Reference: STC-424XGGPM-280W, 24 x GE PoE+ (280 W) + 4 x 10G SFP+, VLAN/QoS/ERPS/SNMPv3, web + CLI, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days). Also 8- and 16-port PoE+ and 60 W/90 W PoE++ versions for outdoor radios.
+
+Is PoE switching a category you currently fill for your Cambium resellers, or do they source it elsewhere?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：若 sales@microcomtec.com 也退信，下一步只能电话；不要再用 microcom.us。

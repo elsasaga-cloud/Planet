@@ -1,0 +1,60 @@
+{
+ "code": "XA-E023",
+ "name": "Redapt, Inc",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（Woodinville WA；2026-08 媒体稿）",
+ "summary": "1996 年起的 DC 基础设施/云集成商，220 人、$60M，Dell/NVIDIA/三大云伙伴，2017 年来部署 30 万台 Dell 服务器。主流品牌大体量 SI，白牌切不进。10-21 发 bmalmstrom@（CFO）未回。",
+ "type_final": "大型 DC/云系统集成商（Dell/NVIDIA）",
+ "size": "220 人；$60.6M",
+ "brands_seen": [
+  "Dell",
+  "NVIDIA",
+  "AWS/Azure/GCP",
+  "Edgecore（官方 SI 名录）"
+ ],
+ "saga_line": "—",
+ "fit": "主流品牌大 SI，不买中性白牌",
+ "evidence": [
+  {
+   "kind": "RocketReach",
+   "claim": "Revenue $60.6M；Employees 202；Woodinville WA",
+   "quote": "",
+   "url": "https://rocketreach.co/redapt-inc-profile_b5c7349ff42e0d3c",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "yespress 企业档",
+   "claim": "300,000+ Dell EMC servers deployed since 2017；Partners Dell · NVIDIA · AWS · Azure · Google Cloud；220+ technologists",
+   "quote": "",
+   "url": "https://yespress.io/redapt-inc",
+   "date": "2026-08-20"
+  }
+ ],
+ "contacts": {
+  "email": "results@redapt.com",
+  "email_status": "官网通用口；10-21 发 bmalmstrom@ 未回",
+  "kp": [
+   {
+    "name": "Rick Cantu",
+    "role": "Co-Founder & CEO",
+    "source": "官网 Leadership"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-21 发 bmalmstrom@ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "220 人 $60M 的 Dell/NVIDIA 大 SI，守界「大的搞不定」；留档不跟",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,56 @@
+{
+ "code": "XA-M094",
+ "name": "Internetten Ltd. / Wi (wi.com.tr)",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 官网核对在线；本轮未复查",
+ "summary": "Gebze 的 MikroTik 授权分销商，光纤/电信器材专营，在售 Ruijie Reyee PoE+ 交换机、SFP、GPON，有 B2B 经销商计划。",
+ "type_final": "MikroTik 授权分销（光纤/电信）",
+ "size": "小型（未查）",
+ "brands_seen": [
+  "MikroTik",
+  "Ruijie Reyee",
+  "GPON"
+ ],
+ "saga_line": "SmartByte 商用 L2+（已发）→ 第二封换 STI 工业 L2+ PoE 补位",
+ "fit": "已卖中国品牌 PoE，经销商计划现成；工业 PoE 是其空白",
+ "evidence": [
+  {
+   "kind": "来源库官网核对",
+   "claim": "Wi / WINET 为 MikroTik Authorized Distributor，在售 Ruijie Reyee RG-ES206GS-P 千兆 PoE+ 交换机、SFP、GPON、B2B 经销商计划",
+   "quote": "",
+   "url": "https://www.wi.com.tr/en",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "来源库群发记录",
+   "claim": "R71：本户一轮跟进已完成（用户报告），逐户日期/收件地址未记录",
+   "quote": "",
+   "url": "External Clients/mikrotik-info/A/XA-M094",
+   "date": "2026-10-12"
+  }
+ ],
+ "contacts": {
+  "email": "satis@wi.com.tr",
+  "email_status": "来源库首选（official-company/channel）",
+  "kp": []
+ },
+ "touch_status": "9-28~10-10 群发 24 口 PoE L2+ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "TR 主攻区 MikroTik 分销 + 已卖中国 PoE 品牌 → 维持 A",
+ "next_move": {
+  "action": "第二封",
+  "angle": "STI 工业 L2+ PoE（MikroTik 无此品类）",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "TR 周四 10–12",
+  "when": "2026-11-05"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
+ "draft_en": {
+  "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
+  "body": "Hi,\n\nI wrote in late September about our 24-port PoE L2+ switch; this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Also 4-port (USD 121) and 8 + 4 SFP (USD 147) versions, and PoE++ 90 W variants.\n\nDo your ISP and plant customers ask you for DIN-rail PoE switches, or is that still handled by other suppliers?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

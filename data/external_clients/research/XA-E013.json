@@ -1,0 +1,70 @@
+{
+ "code": "XA-E013",
+ "name": "Xantaro Deutschland GmbH",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活；2026-10-01 新 CEO Christian Werner 上任",
+ "summary": "汉堡/科隆的运营商级网络集成商（2007 起，集团 160+ 人，300+ 客户），Juniper 16 次年度伙伴、Nokia 等高端品牌；客户是电信/托管/云/DC 运营方。白牌低价线与其定位相反。10-20 发 wwinkler@ 未回。",
+ "type_final": "运营商级 SI（Juniper/Nokia 高端）",
+ "size": "160+ 人（集团）",
+ "brands_seen": [
+  "Juniper",
+  "Nokia",
+  "Arista",
+  "Ciena",
+  "Infinera",
+  "Fortinet",
+  "Cisco"
+ ],
+ "saga_line": "—",
+ "fit": "高端运营商集成，不买中性白牌",
+ "evidence": [
+  {
+   "kind": "Comms Dealer",
+   "claim": "Xantaro Group employs over 160 people … key technology partners Juniper Networks and Nokia",
+   "quote": "",
+   "url": "https://www.comms-dealer.com/networks/xantaro-and-netdescribe-forge-strategic-collaboration",
+   "date": "2024-03-14"
+  },
+  {
+   "kind": "官网新闻",
+   "claim": "Juniper EMEA Services Partner of the Year 2023（第 16 次）",
+   "quote": "",
+   "url": "https://www.xantaro.net/en-gb/news-and-press/xantaro-receives-juniper-emea-services-partner-of-the-year-2023-award-from-juniper-networks",
+   "date": "2024-06-18"
+  },
+  {
+   "kind": "LinkedIn（Jürgen Städing）",
+   "claim": "Christian Werner appointed CEO of the Xantaro Group effective 1 October 2026",
+   "quote": "",
+   "url": "https://www.linkedin.com/in/jstaeding/",
+   "date": "2026-10"
+  }
+ ],
+ "contacts": {
+  "email": "contact@xantaro.net",
+  "email_status": "官网公开；10-20 发的 wwinkler@（媒体联系人）未回",
+  "kp": [
+   {
+    "name": "Christian Werner",
+    "role": "Group CEO（2026-10-01 起）",
+    "source": "官方稿"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-20 发 wwinkler@ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "Juniper/Nokia 运营商级集成商，与 Saga 的中性白牌定位不交叉；留档不跟",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "",
+ "deep": false,
+ "draft_en": null
+}

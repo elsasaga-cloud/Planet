@@ -1,0 +1,70 @@
+{
+ "code": "XA-E011",
+ "name": "Myriad Supply (Myriad360)",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活；已更名 Myriad360，MSP 榜单列 $100M+/250+ 人（2026-02）",
+ "summary": "纽约 2003 年起的 IT 方案商/MSP，Cisco/Juniper/Arista/Dell 等主流品牌经销 + 翻新设备起家，客户 1 万+，2026 榜单 $100M+、250+ 人。体量与品牌结构都不是小贸易商能切的。10-19 发 tianyu.wei@ 未回。",
+ "type_final": "大型 IT 方案商 / MSP（主流品牌）",
+ "size": "250+ 人；$100M+（MSP 榜单 2026）",
+ "brands_seen": [
+  "Cisco",
+  "Juniper",
+  "Arista",
+  "Dell",
+  "Raritan",
+  "Opengear",
+  "Edgecore（官方名录）"
+ ],
+ "saga_line": "—",
+ "fit": "主流品牌经销 + 大体量，白牌切不进去",
+ "evidence": [
+  {
+   "kind": "MSP 榜单 2026",
+   "claim": "Myriad Supply $100M+，Employees 250+，Top Executive John Altobelli",
+   "quote": "",
+   "url": "https://mspcompanies.us/top-100-managed-service-providers",
+   "date": "2026-02-21"
+  },
+  {
+   "kind": "Yelp（Myriad360）",
+   "claim": "Cisco, Juniper, Extreme, Adtran, Polycom, Arista, Brocade hardware；10,000 clients",
+   "quote": "",
+   "url": "https://www.yelp.com/biz/myriad360-new-york",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "Edgecore 官网名录",
+   "claim": "Myriad Supply 22 West 19th Street New York（SI/VAR + On-Line）",
+   "quote": "",
+   "url": "https://www.edge-core.com/where-to-buy/northamerica-reseller/",
+   "date": "2025-07-01"
+  }
+ ],
+ "contacts": {
+  "email": "sales@myriadsupply.com",
+  "email_status": "公开；10-19 发的 tianyu.wei@ 未回",
+  "kp": [
+   {
+    "name": "Andrew Fisher",
+    "role": "Founder & CEO",
+    "source": "Crunchbase/Owler"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-19 发 tianyu.wei@ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "$100M+/250 人的主流品牌 MSP，Saga 守界「大的搞不定」；留档不跟",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "",
+ "deep": false,
+ "draft_en": null
+}

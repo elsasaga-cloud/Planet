@@ -1,0 +1,43 @@
+{
+ "code": "XA-C0024",
+ "name": "Bluechip Computer AG",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（轻卡：未外查）",
+ "summary": "Meuselwitz 的全品类 IT 分销商 + 自有品牌 PC/服务器厂（德国 Top-10——据公开常识，待补证）。同 KOSATEC：大广线，不走直邮。",
+ "type_final": "全品类 IT 分销商 + 自有品牌（大）",
+ "size": "待补证",
+ "brands_seen": [
+  "bluechip（自有 PC/服务器）"
+ ],
+ "saga_line": "—",
+ "fit": "体量门槛高",
+ "evidence": [
+  {
+   "kind": "来源库",
+   "claim": "Vollsortiment IT分销商；德国Top 10；info@bluechip.de",
+   "quote": "",
+   "url": "External Clients/CCTV-PoE/A/XA-C0024",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "info@bluechip.de",
+  "email_status": "公开"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "大型广线分销 → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡。",
+ "deep": false,
+ "draft_en": null
+}

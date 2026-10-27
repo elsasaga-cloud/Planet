@@ -1,6 +1,6 @@
 # XA-C0022 · ASSMANN Electronic GmbH / DIGITUS [多渠道发现 · 德国
 
-> **初判 XA 长期跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17071 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17071 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
@@ -59,7 +59,42 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+
+- **结论：XA** — 自有品牌在卖外采 PoE 交换机的德国品牌商 = OEM 序列第一位 → A 首触（先问对口人）
+- 活着吗：活（网店 2026 在售多款 PoE 交换机）
+- 一句话：Lüdenscheid 1969 年起的 IT 基础设施品牌商（ASSMANN 集团，201–500 人，11 国分公司），自有品牌 DIGITUS 覆盖机柜/布线/网络，网店在售 DIGITUS 牌 PoE 交换机全线（8 口 10" 非管理 DN-95317、8 口 L2+ 管理 PoE DN-95331、工业 16+2 L2 PoE DN-651159 等）。这些有源产品是外采贴牌——典型 OEM 品牌商。
+- 是什么人：IT 基础设施品牌商（DIGITUS，OEM 外采）；规模：201–500 人；11 国子公司
+- 在卖/在用：DIGITUS（自有）
+- 对口哪条线：SmartByte / HRUI OEM（30% 档） — 目标序列第一位「OEM 品牌商」，且已在卖同类 PoE 交换机；难点是找到有源产品的产品经理/采购
+- 找得到人吗：info@assmann.com（公开总口；有源产品的产品经理待找（LinkedIn））；KP：无具名
+- 已触达：未发信
+- 与 Saga Clients：无
+- **下一动作：首触** — OEM：对 DIGITUS 现有 8/16/24 口 PoE 与 L2+ 管理款逐项对标供货，一问：有源产品采购/PM 是谁；型号 STC-424XGGPM-280W（OEM）/ HRUI 8–24 口；价 OEM 档 — 首封不报价；窗口 DE 周四 12–14；建议 2026-10-29
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| DIGITUS 网店 | DIGITUS 10" Gigabit 8-Port L2+ Managed PoE+ Switch, DN-95331 |  | https://de.assmann.shop/en/Data-Network-Technology/Active-Network-Components/Network-Switches/10-Network-Switches/10-Gigabit-8-Port-L2-Managed-PoE-Switch.html | 2026-10-27 |
+| DIGITUS 网店 | DIGITUS Industrial 16+2-Port L2 Managed Gigabit Ethernet PoE Switch, DN-651159 |  | https://de.assmann.shop/en/Data-Network-Technology/Active-Network-Components/Network-Switches/Industrial-Network-Switches/Industrial-16-2-port-L2-managed-Gigabit-Ethernet-PoE-switch.html | 2026-10-27 |
+| XING 公司页 | ASSMANN Electronic GmbH … 1969 … Eigenmarke DIGITUS mit Niederlassungen in elf verschiedenen Ländern |  | https://www.xing.com/pages/assmann | 2023-05-12 |
+| 来源库 | 201-500 员工；info@assmann.com；LinkedIn ASSMANN GROUP |  | External Clients/CCTV-PoE/A/XA-C0022 | 2026-10-27 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: OEM supply for DIGITUS PoE switches - 8 to 48 ports, L2+ and 10G uplinks
+
+Hello,
+
+We supply PoE and L2+ switches to European infrastructure brands under the brand's own label: 8- to 48-port PoE+/PoE++, unmanaged and L2/L2+ managed (Marvell on the L2+ line), 1G/2.5G/10G uplinks, 10-inch and 19-inch, plus DIN-rail industrial models. CE/RoHS/REACH documentation, custom UI, firmware branding and carton artwork are standard; no MOQ on first orders.
+
+Since DIGITUS already carries a full PoE switch range, a model-by-model proposal against your current 8-, 16- and 24-port items would be the quickest way to compare.
+
+Who is the right person for active network components - product management or purchasing - so I can send the proposal directly?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：KP 待找：LinkedIn「ASSMANN Produktmanager aktive Netzwerkkomponenten」。

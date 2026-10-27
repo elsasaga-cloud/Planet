@@ -1,0 +1,41 @@
+{
+ "code": "XA-C0023",
+ "name": "KOSATEC Computer GmbH",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（轻卡：未外查）",
+ "summary": "布伦瑞克的全品类 IT 分销商（德国 Top-5 Vollsortimenter，营收数亿欧元级——据公开常识，待补证）。广线分销商上新要走厂商准入与 listing 流程，小供应商直邮进不去。",
+ "type_final": "全品类 IT 分销商（大）",
+ "size": "待补证（公开常识：数亿欧元级）",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "体量门槛高",
+ "evidence": [
+  {
+   "kind": "来源库",
+   "claim": "Vollsortiment IT分销商；德国Top 5；info@kosatec.de",
+   "quote": "",
+   "url": "External Clients/CCTV-PoE/A/XA-C0023",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "info@kosatec.de",
+  "email_status": "公开"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "大型广线分销，info@ 直邮无效 → B 不动；若将来有德国经销商案例再经 listing 渠道申请",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡。",
+ "deep": false,
+ "draft_en": null
+}

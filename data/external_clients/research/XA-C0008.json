@@ -1,0 +1,77 @@
+{
+ "code": "XA-C0008",
+ "name": "Xortec GmbH",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（官网 2026；2026-09 媒体仍报其并购）",
+ "summary": "法兰克福的 B2B 安防/网络增值分销商（2007 起，11–50 人，PE Beyond Capital 支持，2021–2022 连并柏林/慕尼黑/汉堡三家同行，全国多点），客户是 Facherrichter/经销商/电工企业；网店已卖 barox/Veracity/Hikvision 等网络与 PoE 产品，首页给出销售负责人 Michael Kahl 与 sales.fra@。",
+ "type_final": "安防/网络增值分销商（全国多点）",
+ "size": "11–50 人（LinkedIn，并购后或更多）",
+ "brands_seen": [
+  "Hikvision",
+  "barox",
+  "Veracity",
+  "eks"
+ ],
+ "saga_line": "HRUI PoE 主打 + SmartByte L2+ PoE",
+ "fit": "安防 VAD 正是 HRUI PoE 的主渠道；已卖多牌 PoE，加一条中性低价线阻力小；有具名销售负责人",
+ "evidence": [
+  {
+   "kind": "官网首页",
+   "claim": "Lösungsanbieter für professionelle Sicherheitstechnik, Videoüberwachung und Netzwerktechnik；Hauptsitz Frankfurt；sales.fra@xortec.de；Ansprechpartner: Michael Kahl",
+   "quote": "",
+   "url": "https://xortec.de/",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "Distributor von professionellen Videoüberwachungs- u. Datenkommunikationslösungen für den B2B Bereich；11–50；2007",
+   "quote": "",
+   "url": "https://de.linkedin.com/company/xortec-gmbh",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "Beyond Capital Partners 新闻稿",
+   "claim": "acquiring videotronic infosystems nord GmbH … Following … Burgenkönig Video GmbH",
+   "quote": "",
+   "url": "https://beyondcapital-partners.com/en/press-releasesxortec-gmbh-continues-its-market-expansion-through-next-add-on-acquisition-strengthening-its-nationwide-presence/",
+   "date": "2022-02"
+  },
+  {
+   "kind": "官网网络技术页",
+   "claim": "IP-Extender/PoE-Extender 等网络产品在售（barox、Veracity）",
+   "quote": "",
+   "url": "https://xortec.de/Produkte/Netzwerktechnik/IP-Extender/",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "sales.fra@xortec.de",
+  "email_status": "官网首页公开（法兰克福销售口）",
+  "kp": [
+   {
+    "name": "Michael Kahl",
+    "role": "法兰克福销售联系人",
+    "source": "官网首页"
+   }
+  ]
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "德国安防 VAD、多点、已卖多牌 PoE、具名销售口 → A 首触",
+ "next_move": {
+  "action": "首触",
+  "angle": "给 Facherrichter 渠道一条中性 PoE 线（非管理 24 口 300 W + 8 口 + L2+ 10G 上联）；分销 20% 档",
+  "model": "STC-2224GP / STC-424XGGPM-280W",
+  "price": "USD 86 / USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "DE 周四 12–14",
+  "when": "2026-10-29"
+ },
+ "draft_en": {
+  "subject": "Neutral PoE switch line for your installer channel",
+  "body": "Hello Mr. Kahl,\n\nSaga Telecom supplies PoE and L2+ switches to security and network distributors in Europe - under our label or the distributor's own. For a distributor serving Facherrichter, the line that usually moves is the one priced for the camera project rather than for the IT department.\n\nThree reference points at distributor level: STC-2224GP (24 x GE PoE+ + 2 x GE + 2 x SFP, 300 W, unmanaged) USD 86; 8-port PoE+ units from USD 28; and for the 10G-uplink tier STC-424XGGPM-280W (24 x GE PoE+ 280 W + 4 x 10G SFP+, Marvell L2+) USD 170, all EXW Shenzhen, snapshot 2026-10-27, valid 15 days, CE/RoHS/REACH, 12-month warranty. Your logo on the unit and carton is possible without MOQ.\n\nWould a PDF price sheet of the PoE range be useful for your product team, or do you prefer to start with a paid sample of the 24-port?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "notes": "不提 Hikvision 对比。",
+ "deep": false
+}

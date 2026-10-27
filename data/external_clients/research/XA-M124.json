@@ -1,0 +1,60 @@
+{
+ "code": "XA-M124",
+ "name": "FMS Internetservice GmbH (mikrotik-shop.de)",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 官网核对在线；本轮未复查",
+ "summary": "弗赖堡 FMS Internetservice 的 MikroTik 专营网店（域名即 mikrotik-shop），面向 ISP/企业/热点运营商，有独立「Switche」分类；GF Patrick Schaub。",
+ "type_final": "MikroTik 专营网店（单品牌依赖）",
+ "size": "小型（未查）",
+ "brands_seen": [
+  "MikroTik"
+ ],
+ "saga_line": "SmartByte 商用 L2+（已发）→ 第二封换 STI 工业 L2+ PoE 补位",
+ "fit": "单品牌依赖最需要第二品牌；工业 PoE 不与 MikroTik 冲突",
+ "evidence": [
+  {
+   "kind": "来源库官网核对",
+   "claim": "mikrotik-shop.de 产品导航含「Switche」独立分类，首页在售 CRS520/CRS320-8P-8B-4S-RM，面向 ISP/企业/热点运营商",
+   "quote": "",
+   "url": "https://www.mikrotik-shop.de/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "来源库群发记录",
+   "claim": "R71：本户一轮跟进已完成（用户报告），逐户日期/收件地址未记录",
+   "quote": "",
+   "url": "External Clients/mikrotik-info/A/XA-M124",
+   "date": "2026-10-12"
+  }
+ ],
+ "contacts": {
+  "email": "sales@fmsweb.de",
+  "email_status": "来源库首选（official-company/channel）",
+  "kp": [
+   {
+    "name": "Patrick Schaub",
+    "role": "Geschäftsführer",
+    "source": "companyhouse.de"
+   }
+  ]
+ },
+ "touch_status": "9-28~10-10 群发 24 口 PoE L2+ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "DE 主攻区、交换机专类、GF 实名 → 维持 A",
+ "next_move": {
+  "action": "第二封",
+  "angle": "STI 工业 L2+ PoE（MikroTik 无此品类）",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "DE 周四 12–14",
+  "when": "2026-10-29"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
+ "draft_en": {
+  "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
+  "body": "Hello Mr. Schaub,\n\nI wrote in late September about our 24-port PoE L2+ switch; this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Also 4-port (USD 121) and 8 + 4 SFP (USD 147) versions, and PoE++ 90 W variants.\n\nWould a non-competing industrial PoE line make sense for mikrotik-shop.de customers who run outdoor and plant installations?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

@@ -1,0 +1,79 @@
+{
+ "code": "XA-C0016",
+ "name": "EPS Vertriebs GmbH",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（Security Essen 2026 参展页）",
+ "summary": "Havixbeck 的安防技术批发商（1980 起，11–50 人，EPS 集团），只供 Fachhandel/电工/Errichter；Dahua DACH 官方分销（2020 最佳分销商奖）、Milesight 视频、Ajax/Jablotron 报警，产品表里已有「Switche」一类。家族经营（Hövelmann 父子 + Haas 任 GF）。",
+ "type_final": "安防技术批发商（Dahua/Milesight/Ajax/Jablotron 官方分销）",
+ "size": "11–50 人",
+ "brands_seen": [
+  "Dahua",
+  "Milesight",
+  "Ajax",
+  "Jablotron",
+  "FireAngel",
+  "UR Fog"
+ ],
+ "saga_line": "HRUI PoE 主打（Dahua 项目配套）+ SmartByte L2+",
+ "fit": "Dahua 官方分销必配 PoE 交换机；目前只能卖 Dahua 自家 PoE，缺一条中性便宜线给 Errichter",
+ "evidence": [
+  {
+   "kind": "官网 Dahua 页",
+   "claim": "offizieller Distributor für Dahua Videotechnik in Deutschland, Österreich und der Schweiz … als bester Distributor ausgezeichnet",
+   "quote": "",
+   "url": "https://www.eps-vertrieb.de/dahua/",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "wlw.at 产品表",
+   "claim": "Videotechnik | DAHUA, Milesight | Kameras … NVR/XVR, Monitore, Switche",
+   "quote": "",
+   "url": "https://www.wlw.at/de/firma/eps-elektronische-sicherungsanlagen-und-systeme-vertriebs-gmbh-1215232",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "Großhandel；11–50；Havixbeck；1980",
+   "quote": "",
+   "url": "https://de.linkedin.com/company/eps-vertriebs-gmbh",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "handelsregister.ai",
+   "claim": "GF: Jürgen Hövelmann (2008), Maik Hövelmann (2023), Wilfried Haas (2003)",
+   "quote": "",
+   "url": "https://handelsregister.ai/de/organizations/havixbeck/grosshandel-mit-geraeten-der-unterhaltungselektronik/eps-vertriebs-gmbh-b8f9f21763acdb35268d625fd44cd07b",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "info@eps-vertrieb.de",
+  "email_status": "Dahua 伙伴页 + 官网公开",
+  "kp": [
+   {
+    "name": "Maik Hövelmann",
+    "role": "Geschäftsführer（2023 起，二代）",
+    "source": "handelsregister.ai"
+   }
+  ]
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "德国安防批发商、官方分销多牌、已有 Switche 品类、家族小公司 → A 首触",
+ "next_move": {
+  "action": "首触",
+  "angle": "给 Errichter 的中性 PoE 线：24 口 300 W 非管理 + 8 口 + 24 口 L2 管理；分销 20%",
+  "model": "STC-2224GP / STC-4424GCPM",
+  "price": "USD 86 / USD 165 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "DE 周四 12–14",
+  "when": "2026-10-29"
+ },
+ "draft_en": {
+  "subject": "PoE switches for your Errichter partners - neutral line, distributor pricing",
+  "body": "Hello Mr. Hövelmann,\n\nSaga Telecom supplies PoE and L2+ switches to security and network distributors in Europe - under our label or the distributor's own. For a video-surveillance wholesaler the useful addition is usually a neutral PoE line that the installer can put under any camera brand without a price discussion.\n\nReference points at distributor level: STC-2224GP (24 x GE PoE+ + 2 x GE + 2 x SFP, 300 W, unmanaged) USD 86; 8-port PoE+ units from USD 28; STC-4424GCPM (24 x GE PoE+ + 4 x GE + 4 x SFP, L2 managed, 300 W) USD 165, all EXW Shenzhen, snapshot 2026-10-27, valid 15 days, CE/RoHS/REACH, 12-month warranty. Watchdog/PoE-reset and 250 m extend mode on the unmanaged units, VLAN/QoS/ERPS on the managed.\n\nWould you like the PoE price sheet, or shall I start with a paid sample of the 24-port for your technicians?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "notes": "不点名 Dahua PoE 比价。",
+ "deep": false
+}

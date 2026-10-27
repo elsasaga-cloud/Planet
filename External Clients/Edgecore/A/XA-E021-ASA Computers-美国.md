@@ -1,6 +1,6 @@
 # XA-E021 · ASA Computers · 美国
 
-> **初判 XA 长期跟进** ｜ 来源 Edgecore `B-044`（原评级 B，阶段 01-blocked-personal） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 Edgecore `B-044`（原评级 B，阶段 01-blocked-personal） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -99,7 +99,42 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+
+- **结论：XA** — 自己就是 OEM 代工 + 机柜集成，ToR/管理网交换机是整柜必配，白牌友好；首封没到 → 重新首触到 sales@
+- 活着吗：活（官网 2026，CRN SP500 2024，ISC West 2025 发布）
+- 一句话：Fremont 1989 年起的定制服务器/机柜集成商 + OEM 代工（51–200 人，ISO 9001，9.3 万平方英尺自有厂房），做 AI/HPC/云机柜，开放网络（Cumulus）组合，Racklive 是其系统部门。10-21 发 rchen@ 被拦截。
+- 是什么人：服务器/机柜集成商 + OEM 代工（开放网络组合）；规模：51–200 人；自有 93K ft² 厂房
+- 在卖/在用：Supermicro、Intel/AMD、Cumulus/开放网络、Edgecore（官方 SI 名录）
+- 对口哪条线：CENTEC + SmartByte（OEM 整机柜配套） — 机柜交付要配 ToR 与管理网交换机，且他们本身做 OEM，接受白牌；10-21 那封被拦截等于没到
+- 找得到人吗：sales@asacomputers.com（官网 Contact 公开；rchen@ 被拦截，改发 sales@）；KP：Robert Chen（VP Sales / Head of BD，官方介绍 PDF）；Arvind Bhargava（Founder & CEO，官网 Leadership）
+- 已触达：S 箱 2026-10-21 发 rchen@ → 被拦截（未到）
+- 与 Saga Clients：无
+- **下一动作：首触** — 整柜配套的 ToR（Centec）与管理网 1G（Marvell）两条线，OEM 贴 ASA 标；型号 STH-2C24XF-HSI / STC-424XGGM 系；价 USD 1,500 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 US 周三 08–10 当地；建议 2026-10-28
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 官网 | custom AI, HPC, cloud, and data center infrastructure … GPU servers, storage, networking, and rack integration |  | https://www.asacomputers.com/ | 2026-10-27 |
+| 官方公司介绍 PDF（Robert Chen） | ISO 9001:2015；Racklive is system division；partnered with Cumulus Networks … Open Networking products |  | https://res.cloudinary.com/hjlz68xhm/image/upload/v1581523465/cdvhjj2btaqrwkna7yxe.pdf | 2026-10-27 |
+| LinkedIn | 51–200 人；Specialties 含 OEM、Network Switches、Server Appliance Manufacturing |  | https://www.linkedin.com/company/asa-computers | 2026-10-27 |
+| 来源库跟进 | 2026-10-24 用户反馈 rchen@ Message blocked |  | External Clients/Edgecore/A/XA-E021 | 2026-10-24 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: ToR and management switches for your rack builds, under ASA label
+
+Hi Robert,
+
+A note sent to you last week bounced, so I am trying the sales desk.
+
+ASA integrates racks and does OEM manufacturing; we build the switches that go into such racks and ship them under the integrator's label: Centec-based L3 ToR (e.g. STH-2C24XF-HSI, 24 x 10G SFP+ + 2 x 100G, BGP/VXLAN, dual PSU, USD 1,500 EXW Shenzhen, snapshot 2026-10-27, valid 15 days) and Marvell-based 1G/10G management switches. No MOQ, your UI and part numbers, FCC/CE, 12-month warranty.
+
+Who on your side owns switch sourcing for rack projects - would it make sense to send the ToR datasheets to them directly?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：一封一问：问对接人。

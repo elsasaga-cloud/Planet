@@ -1,0 +1,78 @@
+{
+ "code": "XA-E012",
+ "name": "SoTel Systems",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（gosotel.com 新站 + sotelsystems.com 旧站），2026-10-27",
+ "summary": "圣路易斯的通信/网络设备批发分销商（1981 起，51–200 人，$12.8M），卖新品与翻新 IP 话机、网关、「managed network devices」，PE（Capital For Business）控股，5 万平方英尺仓库、美国 95% 三日达，另有拉美分销（Teleswitch）。10-19 发 info@ 未回。",
+ "type_final": "通信/网络设备批发分销商（VoIP 渠道）",
+ "size": "51–200 人；$12.8M（RocketReach）",
+ "brands_seen": [
+  "NEC Univerge",
+  "Adtran",
+  "Avaya",
+  "Cisco（翻新）",
+  "Edgecore（官方 SI 名录）"
+ ],
+ "saga_line": "SmartByte 商用管理型 PoE（IP 话机部署配套）",
+ "fit": "VoIP 渠道每套话机系统都要 PoE 交换机；分销商有仓有渠道，吃 20% 档位",
+ "evidence": [
+  {
+   "kind": "官网 About",
+   "claim": "industry leading distributor of (IT) communications and networking equipment throughout North America … including IP Phones, headsets … and managed network devices",
+   "quote": "",
+   "url": "https://www.gosotel.com/index.php/about/",
+   "date": "2023-05-17"
+  },
+  {
+   "kind": "官网 Distribution",
+   "claim": "50,000 sq ft warehouse in St. Louis；same-day ship；95% of the country within 3 days",
+   "quote": "",
+   "url": "https://www.gosotel.com/index.php/distribution/",
+   "date": "2023-05-17"
+  },
+  {
+   "kind": "CB Insights",
+   "claim": "distributor in the IT communications and networking equipment sector；2008 被 Capital For Business 收购",
+   "quote": "",
+   "url": "https://www.cbinsights.com/company/sotel-systems",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "Manta",
+   "claim": "CEO Jim Goebel；100–249 人",
+   "quote": "",
+   "url": "https://www.manta.com/c/mmnlxs2/sotel-systems-llc",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "sales@sotelsystems.com",
+  "email_status": "官网公开；10-19 发的 info@ 未回",
+  "kp": [
+   {
+    "name": "Jim Goebel",
+    "role": "President & CEO",
+    "source": "官网高管页 + Sunbiz（来源库）"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-19 发 info@ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "美国 VoIP 渠道批发分销商，有仓有 reseller 网络，PoE 交换机是其话机系统的必配 → XA；第二封换「话机部署配 PoE」角度、分销价",
+ "next_move": {
+  "action": "第二封",
+  "angle": "IP 话机/UC 部署的 PoE 交换机，分销商 20% 档位；8/16/24 口全有",
+  "model": "STC-424XGGPM-280W",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "US 周三 08–10 当地",
+  "when": "2026-10-28"
+ },
+ "draft_en": {
+  "subject": "PoE switches for your IP phone and UC resellers",
+  "body": "Hi Jim,\n\nI wrote on 19 October under \"24 Port PoE Managed Switch\"; this is a different angle, so a fresh note rather than a reply.\n\nEvery phone system your resellers ship needs PoE ports, and that is the one line we build: Marvell-based L2+ PoE switches, 8/16/24/48 ports, 10G uplinks, LLDP-MED and voice VLAN for phones, FCC/CE, 12-month warranty. Reference: STC-424XGGPM-280W, 24 x GE PoE+ (280 W) + 4 x 10G SFP+, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) at distributor level; smaller 8- and 16-port PoE units from USD 30.\n\nWould a distributor price sheet for the PoE range be useful for your product team?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "notes": "不提翻新/二手；不提 NEC/Adtran。",
+ "deep": false
+}

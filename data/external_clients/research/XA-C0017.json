@@ -1,0 +1,70 @@
+{
+ "code": "XA-C0017",
+ "name": "i-Alarmsysteme GmbH",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（2025-10 搬新址 Alte Gießerei 12, Erkrath）",
+ "summary": "奥地利 Weikersdorf 总部、DACH 5 个点、50+ 人的报警/视频/门禁批发商（1980 起），德国分部在 Erkrath；Dahua 官方分销（Excellent Distributor 2020），并把中国品牌 Wi-Tek 的 PoE 交换机/AP 作为自家「网络与传输技术」线在卖——说明已接受中国 PoE 品牌直供。",
+ "type_final": "安防批发商（DACH，Dahua 分销 + 自选中国 PoE 品牌）",
+ "size": ">50 人，5 个点",
+ "brands_seen": [
+  "Dahua",
+  "Wi-Tek",
+  "Ajax",
+  "其他报警/门禁"
+ ],
+ "saga_line": "HRUI PoE（对标其 Wi-Tek 线）+ SmartByte L2+",
+ "fit": "已在卖中国 PoE 品牌，采购路径现成；DE 分部有 vertrieb@ 口",
+ "evidence": [
+  {
+   "kind": "官网首页",
+   "claim": "Wi-Tek Netzwerk- & Übertragungstechnik — PoE-Switches, Wireless Access Points & mehr",
+   "quote": "",
+   "url": "https://www.i-alarmsysteme.de/",
+   "date": "2025-11-04"
+  },
+  {
+   "kind": "官网 Unternehmen",
+   "claim": "5 Standorte in Österreich, Deutschland & Schweiz；> 50 MitarbeiterInnen",
+   "quote": "",
+   "url": "https://www.i-alarmsysteme.de/ueber-uns/unternehmen/",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "Dahua 分销伙伴页",
+   "claim": "i-Alarmsysteme GmbH … Dahua Execllent Distributor 2020；vertrieb@i-alarmsysteme.de",
+   "quote": "",
+   "url": "https://www.dahuasecurity.com/de/partners/DistributionPartner?id=all",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "官网博客",
+   "claim": "i-Alarmsysteme Deutschland ist umgezogen! … Alte Gießerei 12, 40699 Erkrath",
+   "quote": "",
+   "url": "https://www.i-alarmsysteme.de/blog/i-Alarmsysteme-Deutschland-ist-umgezogen",
+   "date": "2025-10-31"
+  }
+ ],
+ "contacts": {
+  "email": "vertrieb@i-alarmsysteme.de",
+  "email_status": "Dahua 伙伴页 + 官网公开（德国分部销售口）"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "DACH 安防批发商，已自选中国 PoE 品牌在卖 → 采购路径现成 → A 首触",
+ "next_move": {
+  "action": "首触",
+  "angle": "第二条 PoE 线：24 口 300 W 非管理 + 8 口 + L2+ 10G 上联，可贴自家标；分销 20%",
+  "model": "STC-2224GP / STC-424XGGPM-280W",
+  "price": "USD 86 / USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "DE 周四 12–14",
+  "when": "2026-10-29"
+ },
+ "draft_en": {
+  "subject": "A second PoE switch line for your Facherrichter, own label possible",
+  "body": "Hello,\n\nSaga Telecom supplies PoE and L2+ switches to security and network distributors in Europe - under our label or the distributor's own. You already carry a dedicated network and transmission line for installers, so I will keep this to numbers.\n\nAt distributor level: STC-2224GP (24 x GE PoE+ + 2 x GE + 2 x SFP, 300 W, unmanaged) USD 86; 8-port PoE+ units from USD 28; STC-424XGGPM-280W (24 x GE PoE+ 280 W + 4 x 10G SFP+, Marvell L2+) USD 170, all EXW Shenzhen, snapshot 2026-10-27, valid 15 days, CE/RoHS/REACH, 12-month warranty. Units can carry the i-Alarmsysteme logo and your article numbers from the first order.\n\nIs a second PoE source of interest for your 2027 line card, or is the current one exclusive?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "notes": "不提 Wi-Tek 名字。",
+ "deep": false
+}

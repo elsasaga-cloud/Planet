@@ -1,0 +1,64 @@
+{
+ "code": "XA-E007",
+ "name": "Blue Core Networks",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "官网活（Marlboro/Northborough MA 两址），2026-10-27",
+ "summary": "1997 年起的小型厂商中立 IT 方案商（约 15 人，$2.9M），做存储/安全/DC/无线/VoIP 全科；交换机只是其中一项，没有自有渠道体量。10-19 发 partners@ 未回。",
+ "type_final": "小型 IT 方案商 / VAR（厂商中立）",
+ "size": "≈15 人；$2.9M（Manta）",
+ "brands_seen": [
+  "Edgecore（官方 SI 名录）"
+ ],
+ "saga_line": "SmartByte 商用管理型（项目配套）",
+ "fit": "只能做项目配套，量小；非主攻类型",
+ "evidence": [
+  {
+   "kind": "Crunchbase",
+   "claim": "BlueCore Networks provides enterprise-class IT solutions；11–50；vendor independent",
+   "quote": "",
+   "url": "https://www.crunchbase.com/organization/bluecore-networks",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "Manta",
+   "claim": "1997 年成立，约 15 人，年营收 ≈$2.93M，Computer Integrated Systems Design",
+   "quote": "",
+   "url": "https://www.manta.com/c/mb5sy5z/bluecore-networks",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "官网",
+   "claim": "info@bluecorenetworks.com / 28 Lord Road Suite 260 Marlboro MA",
+   "quote": "",
+   "url": "https://www.bluecorenetworks.com/",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "partners@bluecorenetworks.com",
+  "email_status": "官网 Partner Inquiries 口，10-19 已发未回",
+  "kp": [
+   {
+    "name": "Timothy P Roberts",
+    "role": "Key Principal（D&B 单源）",
+    "source": "来源库"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-19 发 partners@ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "美国主攻区但只是 15 人全科 VAR，交换机非主业、无渠道体量；放 XB，第二封排到 12 月以后",
+ "next_move": {
+  "action": "等回",
+  "angle": "不追；12 月若做美国第二封批次再带上",
+  "model": "",
+  "price": "",
+  "window": "US 周三 08–10 当地",
+  "when": "2026-12"
+ },
+ "notes": "与 Bluecore（营销 SaaS，2026-10 被 Insider One 收购）同名不同家，勿混。",
+ "deep": false,
+ "draft_en": null
+}

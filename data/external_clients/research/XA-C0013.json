@@ -1,0 +1,85 @@
+{
+ "code": "XA-C0013",
+ "name": "WAV, LLC",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（2026-09 AFL 战略分销稿）",
+ "summary": "伊利诺伊 Aurora 的北美 WISP/ISP 设备分销商（1990 起，51–200 人，$40.9M，4 个美国仓 + 加拿大 MBSI WAV），卖 Cambium/Ubiquiti/TP-Link/MikroTik 与光纤设备，2024-11 收购 ISP Supplies。营销 EVP Zach Hubeck 实名邮箱已公开。",
+ "type_final": "WISP/ISP 设备分销商（北美）",
+ "size": "51–200 人；$40.9M",
+ "brands_seen": [
+  "Cambium",
+  "Ubiquiti",
+  "TP-Link",
+  "MikroTik",
+  "AFL",
+  "Clearfield",
+  "Altowav"
+ ],
+ "saga_line": "SmartByte L2+ PoE + CENTEC 10G/25G 汇聚（WISP 塔站/机房）",
+ "fit": "WISP 渠道的管理型 PoE 与 10G 汇聚是刚需；分销商有仓有渠道；有实名 EVP",
+ "evidence": [
+  {
+   "kind": "LinkedIn",
+   "claim": "WAV, LLC；51–200；Aurora IL；1990",
+   "quote": "",
+   "url": "https://www.linkedin.com/company/wav-inc",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "RocketReach",
+   "claim": "Revenue $40.9M；72 人",
+   "quote": "",
+   "url": "https://rocketreach.co/wav-llc-profile_b5c70e67f42e0d32",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "官网新闻",
+   "claim": "WAV … completed an agreement to acquire ISP Supplies",
+   "quote": "",
+   "url": "https://www.wavonline.com/wav-announces-acquisition-of-isp-supplies-to-expand-distribution-footprint",
+   "date": "2024-11-11"
+  },
+  {
+   "kind": "PRWeb",
+   "claim": "said Zach Hubeck, Executive Vice President of Marketing at WAV",
+   "quote": "",
+   "url": "https://www.prweb.com/releases/wav-and-mbsi-wav-named-among-afls-strategic-distribution-partners-in-the-us-and-canada-302882264.html",
+   "date": "2026-09-17"
+  }
+ ],
+ "contacts": {
+  "email": "zachh@wavonline.com",
+  "email_status": "来源库记为公开（营销 EVP）；备用 info@wavonline.com",
+  "kp": [
+   {
+    "name": "Zach Hubeck",
+    "role": "EVP Marketing",
+    "source": "PRWeb 2026-09 + 来源库"
+   },
+   {
+    "name": "Norm Dumbroff",
+    "role": "CEO/Owner",
+    "source": "D&B"
+   }
+  ]
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "美国 WISP 渠道分销商、多仓、实名 EVP → A 首触",
+ "next_move": {
+  "action": "首触",
+  "angle": "WISP 渠道的 L2+ PoE 接入 + Centec 10G 汇聚，分销 20%；一问：新品牌准入流程",
+  "model": "STC-424XGGPM-280W / STH-2C24XF-HSI",
+  "price": "USD 170 / USD 1,500 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "US 周三 08–10 当地",
+  "when": "2026-10-28"
+ },
+ "draft_en": {
+  "subject": "L2+ PoE and 10G aggregation switches for WAV's WISP partners",
+  "body": "Hi Zach,\n\nSaga Telecom supplies switches to ISP and WISP distributors - Marvell-based L2+ PoE access switches and Centec-based L3 10G/25G/100G aggregation - under our label or the distributor's own, FCC/CE.\n\nTwo reference points at distributor level: STC-424XGGPM-280W, 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ with ERPS ring and SNMPv3, USD 170; STH-2C24XF-HSI, 24 x 10G SFP+ + 2 x 100G, full L3 (OSPF/BGP, VXLAN), dual PSU, USD 1,500. Both EXW Shenzhen, snapshot 2026-10-27, valid 15 days, 12-month warranty.\n\nWhat is WAV's process for evaluating a new switch vendor - a line review with your product team, or samples first?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "notes": "",
+ "deep": false
+}

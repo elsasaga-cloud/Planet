@@ -1,6 +1,6 @@
 # XA-M098 · Poyraz Network · 土耳其
 
-> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-463`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 mikrotik-info `A-463`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -69,7 +69,40 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+
+- **结论：XA** — TR 主攻区 Master Distributor、交换机专类 → 维持 A（TR 优先级最高之一）
+- 活着吗：来源库 2026-09-28 官网核对在线；本轮未复查
+- 一句话：Kocaeli 的 MikroTik Master Distributor（另 Ubiquiti 授权分销、Mimosa/Cudy/V-Sol），5000+ 产品、B2B 经销商价、培训项目，10 年经验。
+- 是什么人：MikroTik Master Distributor + 多牌（B2B）；规模：小型（未查）
+- 在卖/在用：MikroTik、Ubiquiti、Mimosa、Cudy、V-Sol
+- 对口哪条线：SmartByte 商用 L2+（已发）→ 第二封换 STI 工业 L2+ PoE 补位 — TR 头部 MikroTik 分销，交换机专类，经销商网络大
+- 找得到人吗：sales@poyraznetwork.com（来源库首选（official-company/channel））；KP：无具名
+- 已触达：9-28~10-10 群发 24 口 PoE L2+ → 已发未回
+- 与 Saga Clients：无
+- **下一动作：第二封** — STI 工业 L2+ PoE（MikroTik 无此品类）；型号 STI-288DGGPM；价 USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 TR 周四 10–12；建议 2026-11-05
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网核对 | Poyraz Network 为 MikroTik Master Distributor（另 Ubiquiti Authorized Distributor），导航含 Switches 与 Training Programs，5000+ 产品 |  | https://poyraznetwork.com/us | 2026-09-28 |
+| 来源库群发记录 | R71：本户一轮跟进已完成（用户报告），逐户日期/收件地址未记录 |  | External Clients/mikrotik-info/A/XA-M098 | 2026-10-12 |
+
+草稿（英文，第二封；Simon 发，Agent 不发）：
+
+```text
+Subject: Industrial DIN-rail PoE switches - the category MikroTik does not cover
+
+Hi,
+
+I wrote in late September about our 24-port PoE L2+ switch; this is a different product line, so a fresh note rather than a reply.
+
+STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Also 4-port (USD 121) and 8 + 4 SFP (USD 147) versions, and PoE++ 90 W variants.
+
+Would you like a sample unit for your lab, or first the full industrial price list for your reseller tiers?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。

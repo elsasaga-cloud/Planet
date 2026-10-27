@@ -1,0 +1,48 @@
+{
+ "code": "XA-C0020",
+ "name": "Lieske Elektronik / Industry-Electronics",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（轻卡：未外查，沿用来源库）",
+ "summary": "Vörstetten 的工业网络设备 B2B 分销商（Moxa/Hirschmann/Siemens/Weidmüller/Antaira/barox）。纯工业自动化渠道，与 Saga 的商用 PoE/L2+ 主线不交叉；STI 工业线只能当补位，且对手是 Moxa/Hirschmann 级别。",
+ "type_final": "工业网络设备分销商",
+ "size": "未查",
+ "brands_seen": [
+  "Moxa",
+  "Hirschmann",
+  "Siemens",
+  "Weidmüller",
+  "Antaira",
+  "barox"
+ ],
+ "saga_line": "（STI 工业线补位，暂不推）",
+ "fit": "工业自动化渠道，非主线",
+ "evidence": [
+  {
+   "kind": "来源库",
+   "claim": "B2B工业网络设备专业分销(Moxa/Hirschmann/Siemens/barox)；vertrieb@industry-electronics.de",
+   "quote": "",
+   "url": "External Clients/CCTV-PoE/A/XA-C0020",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "vertrieb@industry-electronics.de",
+  "email_status": "公开"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "德国渠道型但纯工业自动化，主线不交叉 → B；等 STI 工业线有欧洲案例后再碰",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡。",
+ "deep": false,
+ "draft_en": null
+}

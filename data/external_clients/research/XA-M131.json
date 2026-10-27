@@ -1,0 +1,57 @@
+{
+ "code": "XA-M131",
+ "name": "hsc solutions",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 官网核对在线；本轮未复查",
+ "summary": "开姆尼茨的小型系统集成商/MikroTik 经销（业主 Tom Zschockelt，Dipl.-Inf.），分销信号通用、无差异化切入点。",
+ "type_final": "小型 SI / MikroTik 经销",
+ "size": "小型（未查）",
+ "brands_seen": [
+  "MikroTik"
+ ],
+ "saga_line": "SmartByte 商用 L2+（已发）→ 第二封换 STI 工业 L2+ PoE 补位",
+ "fit": "小 SI，项目配套为主",
+ "evidence": [
+  {
+   "kind": "来源库官网核对",
+   "claim": "Impressum + XING 双源实名：Tom Zschockelt Inhaber",
+   "quote": "",
+   "url": "https://hsc-solutions.de/impressum-hsc-solutions/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "来源库群发记录",
+   "claim": "R71：本户一轮跟进已完成（用户报告），逐户日期/收件地址未记录",
+   "quote": "",
+   "url": "External Clients/mikrotik-info/A/XA-M131",
+   "date": "2026-10-12"
+  }
+ ],
+ "contacts": {
+  "email": "office@hsc-solutions.de",
+  "email_status": "来源库首选（official-company/channel）",
+  "kp": [
+   {
+    "name": "Tom Zschockelt",
+    "role": "Inhaber",
+    "source": "Impressum + XING"
+   }
+  ]
+ },
+ "touch_status": "9-28~10-10 群发 24 口 PoE L2+ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小型集成商（目标序列第 4 位），一轮未回 → 降 B，不追",
+ "next_move": {
+  "action": "等回",
+  "angle": "STI 工业 L2+ PoE（MikroTik 无此品类）",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "DE 周四 12–14",
+  "when": "2027-01"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
+ "deep": false,
+ "draft_en": null
+}

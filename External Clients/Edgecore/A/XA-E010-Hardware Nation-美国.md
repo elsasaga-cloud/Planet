@@ -1,6 +1,6 @@
 # XA-E010 · Hardware Nation · 美国
 
-> **初判 XA 长期跟进** ｜ 来源 Edgecore `A-055`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 Edgecore `A-055`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -91,7 +91,40 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+
+- **结论：XA** — 美国主攻区、白牌/开放网络为卖点的小 VAR、创始人直达邮箱——Saga 最对口的美国类型之一；换 CENTEC+OEM 角度第二封
+- 活着吗：官网活（2026-10-26 更新），招 BDR Open Networking
+- 一句话：佐治亚 Buford 的开放网络 VAR/经销商（2006 起，11–50 人，$1.8–2M），自述帮 DC 运营商/服务商/企业建「传统与开放网络」，IP Infusion 经销伙伴、Ubiquiti 授权经销商，BBB 认证 19 年。10-19 发创始人 alex@ 未回。
+- 是什么人：开放网络 VAR + 网店（白牌友好）；规模：11–50 人；$1.8–2M（D&B）
+- 在卖/在用：Ubiquiti、IP Infusion (OcNOS)、Edgecore（官方 SI/On-Line 名录）、open networking / disaggregated
+- 对口哪条线：CENTEC + SmartByte 商用管理型（OEM 贴牌） — 白牌 + 开放网络是他们的卖点，Centec L3 与 Marvell L2+ 都能进；小公司、创始人直达
+- 找得到人吗：alex@hardwarenation.com（Crunchbase/第三方公开，创始人直达，10-19 已发未回）；KP：Alex Cronin（Co-founder / Infrastructure Architect（Indeed 记 CEO），BBB + Crunchbase）
+- 已触达：S 箱 2026-10-19 发 alex@ → 已发未回
+- 与 Saga Clients：无
+- **下一动作：第二封** — 开放网络白牌：Centec L3 ToR + Marvell L2+ 园区线，可贴 Hardware Nation 标；型号 STH-2C24XF-HSI / STC-424XGGPM-280W；价 USD 1,500 / USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 US 周三 08–10 当地；建议 2026-10-28
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 官网首页 | We design and deploy traditional and open networks for data centers, service providers, enterprises and campuses | Open networking … decouples the hardware and software | https://hardwarenation.com/ | 2026-10-26 |
+| IP Infusion 伙伴名录 | Hardware Nation = IP Infusion Reseller Partner（Americas/USA） |  | https://www.ipinfusion.com/partner-directory/hardware-nation/ | 2023-09-15 |
+| BBB | Hardware Nation, LLC，Buford GA，BBB Accredited since 2012，产品含 Open Networking / Network Switches；Alex Cronin Founding Partner |  | https://www.bbb.org/us/ga/buford/profile/computer-dealers/hardware-nation-llc-0443-27429563 | 2026-10-27 |
+| 网店页 | Ubiquiti UniFi 16-Port PoE Switch — Authorized Dealer |  | https://hardwarenation.com/product/ubiquiti-unifi-16-port-poe-switch-usw-16-poe/ | 2023-06-15 |
+
+草稿（英文，第二封；Simon 发，Agent 不发）：
+
+```text
+Subject: White-box switches under your own label - Centec L3 and Marvell L2+
+
+Hi Alex,
+
+I wrote on 19 October under "24 Port PoE Managed Switch"; this is a different angle, so a fresh note rather than a reply.
+
+Since Hardware Nation sells open networking, the more relevant part of what we do is OEM: switches shipped under your label with your UI, no MOQ. Two anchors: STH-2C24XF-HSI (Centec, 24 x 10G SFP+ + 2 x 100G, L3 with BGP/VXLAN, dual PSU) at USD 1,500, and STC-424XGGPM-280W (Marvell, 24 x GE PoE+ 280 W + 4 x 10G SFP+, L2+) at USD 170 - both EXW Shenzhen, snapshot 2026-10-27, valid 15 days, FCC/CE, 12-month warranty.
+
+Which of the two would be worth a sample on your bench first?
+
+Simon
+Saga Telecom - sagatele.com
+```

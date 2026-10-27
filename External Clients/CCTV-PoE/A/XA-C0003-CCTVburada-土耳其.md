@@ -1,6 +1,6 @@
 # XA-C0003 · CCTVburada · 土耳其
 
-> **初判 XA 长期跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-4.md`:186（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-4.md`:186（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
@@ -73,7 +73,38 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+
+- **结论：XA** — 土耳其主攻区、网店在卖中国品牌交换机 → A，但体量小，首触排下周 TR 窗口
+- 活着吗：活（网店 2025-12 博客）
+- 一句话：伊斯坦布尔 Kartal 的安防经销/安装商 + 网店，Hikvision 授权经销商，网店有「24 Port Switchler」类目在卖 Ruijie Reyee 管理型交换机（5,500 TL），另做全市摄像头安装服务。小型经销 + 安装，土耳其主攻区。
+- 是什么人：安防经销商/安装商 + 网店（TR）；规模：小
+- 在卖/在用：Hikvision、Ruijie Reyee、Dahua、UNV、TP-Link
+- 对口哪条线：HRUI PoE 入门款（网店上架） — 网店已上架中国品牌交换机，加 HRUI 8/16/24 口 PoE 顺手；但体量小、偏安装
+- 找得到人吗：info@cctvburada.com（官网公开）；KP：无具名
+- 已触达：未发信
+- 与 Saga Clients：无
+- **下一动作：首触** — 网店加 HRUI PoE 8/16/24 口（非管理）与 24 口 L2+；一问：是否进口自采；型号 STC-2224GP / STC-028GP；价 USD 86 / from USD 28 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 TR 周四 10–12；建议 2026-11-05
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 网店博客 | We serve as an authorized reseller and dealer for Hikvision solutions … Network switch, PoE switch models |  | https://www.cctvburada.com/en/blogs/markalar/hikvision-turkiye-distributoru-yetkili-bayi-ve-servisi | 2025-12-04 |
+| 网店类目 | 24 Port Switchler：Ruijie Reyee RG-ES224GC … 5,500.00TL |  | https://www.cctvburada.com/collections/24-port-switchler | 2026-10-27 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: PoE switches for your web shop - 8/16/24 ports, CE
+
+Hello,
+
+Saga Telecom supplies PoE switches to security dealers and distributors in Türkiye and Europe, under our label or yours. Your shop already lists 24-port switches, so a PoE line for camera installations may fit next to them.
+
+Reference points: STC-2224GP (24 x GE PoE+ + 2 x GE + 2 x SFP, 300 W, unmanaged) USD 86; 8-port PoE+ units from USD 28; 16-port PoE+ USD 63, all EXW Shenzhen, snapshot 2026-10-27, valid 15 days, CE/RoHS/REACH, 12-month warranty. Extend mode to 250 m and PoE watchdog on all unmanaged units.
+
+Do you import directly, or do you buy switches through a local distributor? Either way I can send the full PoE price list.
+
+Simon
+Saga Telecom - sagatele.com
+```

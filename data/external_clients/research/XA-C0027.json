@@ -1,0 +1,52 @@
+{
+ "code": "XA-C0027",
+ "name": "ELBEX (Deutschland) GmbH",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "存疑：2025-02-03 雷根斯堡法院裁定临时破产管理（登记摘录）",
+ "summary": "雷根斯堡 1979 年起的视频监控厂商/分销商（Uniview、Avigilon 德国分销，20–49 人）。登记记录显示 2025-02 进入临时破产管理，2025-03 变更管理人；现状未明。内部备注，不对外提。",
+ "type_final": "安防分销商（破产程序中）",
+ "size": "20–49 人（历史）",
+ "brands_seen": [
+  "Uniview",
+  "Avigilon",
+  "自有 ELBEX"
+ ],
+ "saga_line": "HRUI PoE（若恢复经营）",
+ "fit": "类型对口，但主体状态不明",
+ "evidence": [
+  {
+   "kind": "Uniview 欧洲伙伴页",
+   "claim": "distributor of Uniview (UNV), Avigilon … national clients are installers, integrators and resellers",
+   "quote": "",
+   "url": "https://global.uniview.com/it/Partner/Find_our_partners/Partners/Europe/",
+   "date": "2024-07-11"
+  },
+  {
+   "kind": "webvalid 登记摘录",
+   "claim": "durch Beschluss des Amtsgerichts Regensburg vom 03.02.2025 … vorläufige Insolvenzverwaltung angeordnet",
+   "quote": "",
+   "url": "https://www.webvalid.de/company/ELBEX+(Deutschland)+GmbH,+Regensburg/HRB+2545",
+   "date": "2025-03-12"
+  }
+ ],
+ "contacts": {
+  "email": "cctv@elbex.de",
+  "email_status": "公开；主体状态未明，暂不发"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "破产程序中、主体状态不明 → C 不动；若 2027 年仍在经营可复核",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "⚠ 内部信息，任何对外文字不得提及破产。",
+ "deep": false,
+ "draft_en": null
+}

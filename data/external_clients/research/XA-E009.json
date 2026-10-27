@@ -1,0 +1,78 @@
+{
+ "code": "XA-E009",
+ "name": "Colfax Direct",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "网店活（colfaxdirect.com，按品牌浏览含 Edgecore/Mellanox/Chelsio），2026-10-27",
+ "summary": "Colfax International（1987 年起的 HPC/AI 服务器厂商，Sunnyvale）的电商部门（2008 起），专卖 HPC/DC 网卡、交换机、线缆、光模块，在售 Edgecore 与 Mellanox/NVIDIA 交换机。10-19 发 sales@ 未回。",
+ "type_final": "HPC/DC 组件网店（厂商集团下属，自有采购）",
+ "size": "母公司 Colfax International 私营；网店团队小",
+ "brands_seen": [
+  "Edgecore",
+  "Mellanox/NVIDIA",
+  "Chelsio",
+  "Netronome",
+  "AurCore"
+ ],
+ "saga_line": "CENTEC（网店上架一条低价 10/25/100G 线）",
+ "fit": "已经在网店卖 Edgecore 白牌交换机，加一条 Centec 系低价线阻力最小；采购决策在 Colfax 内部，链短",
+ "evidence": [
+  {
+   "kind": "网店 About",
+   "claim": "Launched in 2008, Colfax Direct is the E-commerce division of Colfax International；Browse by Manufacturer: Chelsio / Edgecore / Mellanox-NVIDIA / Netronome / AurCore",
+   "quote": "",
+   "url": "https://www.colfaxdirect.com/store/pc/viewcontent.asp?idpage=3",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "Colfax Direct provides adapters, switches, cables, SSDs … from Broadcom, Chelsio, Edgecore, Intel, Mellanox…",
+   "quote": "",
+   "url": "https://www.linkedin.com/company/colfax",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "Edgecore 官网北美 On-Line 名录",
+   "claim": "COLFAX DIRECT 750 Palomar Avenue Sunnyvale",
+   "quote": "",
+   "url": "https://www.edge-core.com/where-to-buy/northamerica-online/",
+   "date": "2024-12-19"
+  },
+  {
+   "kind": "网店条款",
+   "claim": "All deliveries are F.O.B. Sunnyvale（自营库存）",
+   "quote": "",
+   "url": "https://www.colfaxdirect.com/store/pc/viewcontent.asp?idpage=5",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "sales@colfaxdirect.com",
+  "email_status": "官网公开，10-19 已发未回",
+  "kp": [
+   {
+    "name": "Gautam Shah",
+    "role": "CEO, Colfax International",
+    "source": "官方新闻稿引言（2010）+ D&B"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-19 发 sales@ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "已在卖 Edgecore 白牌 DC 交换机的美国网店，决策链短，CENTEC 线天然对口；24 口 PoE 那封根本不对路，换 CENTEC 角度再发",
+ "next_move": {
+  "action": "第二封",
+  "angle": "给网店加一条 Centec 系 10/25/100G 低价线；拿 24×10G+2×100G 做锚",
+  "model": "STH-2C24XF-HSI",
+  "price": "USD 1,500 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "US 周三 08–10 当地",
+  "when": "2026-10-28"
+ },
+ "draft_en": {
+  "subject": "A Centec-based 10G/100G line next to Edgecore on colfaxdirect.com",
+  "body": "Hi,\n\nI wrote on 19 October under \"24 Port PoE Managed Switch\"; this is a different angle, so a fresh note rather than a reply.\n\nColfax Direct already lists Edgecore and NVIDIA switches, so you know the white-box buyer. We build the tier below that on Centec silicon: STH-2C24XF-HSI, 24 x 10G SFP+ + 2 x 100G QSFP28, full L3 (OSPF/BGP, VXLAN), dual hot-swap PSUs, 12-month warranty, USD 1,500 EXW Shenzhen (snapshot 2026-10-27, valid 15 days). Also 48 x 25G + 8 x 100G and 32 x 100G in the same family, FCC/CE.\n\nWould you like the datasheets and a reseller price list to see whether the line fits your catalog?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "notes": "不要提 Mellanox 对比价；只给自己的价。",
+ "deep": false
+}

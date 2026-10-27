@@ -1,0 +1,82 @@
+{
+ "code": "XA-C0019",
+ "name": "MICHAEL AG (MichaelTelecom)",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（2026-05-01 二代 Magnus Michael 任董事长）",
+ "summary": "下萨克森 Bohmte 的 ITK 分销商（1984 起，家族企业，2024 更名 Michael AG），Hikvision「第一代」分销商、2025-08 升为德国战略分销商；产品线含网络组件（工业/车载/标准交换机、路由器、PoE 注入器、UPS）、TK 设备与网络业务，面向经销商/系统商。",
+ "type_final": "ITK 分销商（Hikvision 战略分销 + 网络组件）",
+ "size": "中型家族企业（员工数待补证）",
+ "brands_seen": [
+  "Hikvision",
+  "HiWatch",
+  "EZVIZ",
+  "多牌 TK/网络"
+ ],
+ "saga_line": "SmartByte L2+ PoE + HRUI PoE（视频项目配套 + 通用网络组件线）",
+ "fit": "Hikvision 战略分销每个视频项目都要 PoE；网络组件线已含多种交换机，加一条中性 PoE/L2+ 顺手；家族企业链短",
+ "evidence": [
+  {
+   "kind": "Hikvision 官方分销名录",
+   "claim": "MICHAEL AG Die MICHAEL AG ist HIKVISION-Distributor der ersten Stunde；info@michael-ag.de",
+   "quote": "",
+   "url": "https://www.hikvision.com/en/Partners/channel-partners/find-a-distributor/",
+   "date": "2026-04-01"
+  },
+  {
+   "kind": "官网新闻稿",
+   "claim": "MICHAEL AG zum strategischen Distributor für den deutschen Markt ernannt",
+   "quote": "",
+   "url": "https://www.michael-ag.de/pressemitteilung-michael-ag-und-hikvision-vertiefen-partnerschaft",
+   "date": "2025-08-05"
+  },
+  {
+   "kind": "官网视频监控页",
+   "claim": "Netzwerkkomponenten wie Industrie-, Fahrzeug- und Standardswitche und Router, Netzwerkkabel, PoE-Injektoren",
+   "quote": "",
+   "url": "https://www.michael-ag.de/videoueberwachung",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "ChannelPartner",
+   "claim": "Magnus Michael übernimmt zum 1. Mai 2026 den Vorstandsvorsitz",
+   "quote": "",
+   "url": "https://www.channelpartner.de/article/4160956/die-michael-ag-bekommt-einen-neuen-chef.html",
+   "date": "2026-04-20"
+  }
+ ],
+ "contacts": {
+  "email": "info@michael-ag.de",
+  "email_status": "Hikvision 名录 + 官网公开",
+  "kp": [
+   {
+    "name": "Magnus Michael",
+    "role": "Vorstandsvorsitzender（2026-05-01 起）",
+    "source": "ChannelPartner/CRN"
+   },
+   {
+    "name": "Helmuth Stegemann",
+    "role": "Produktmanager Videoüberwachung（2018 报道）",
+    "source": "官网 2018 奖项稿"
+   }
+  ]
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "德国 ITK 分销商 + 视频监控战略分销 + 已有交换机品类 → A 首触（写给视频产品经理）",
+ "next_move": {
+  "action": "首触",
+  "angle": "视频监控项目配套的 PoE：24 口 L2+ 10G 上联 + 24 口非管理 300 W + 8 口；分销 20%",
+  "model": "STC-424XGGPM-280W / STC-2224GP",
+  "price": "USD 170 / USD 86 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "DE 周四 12–14",
+  "when": "2026-10-29"
+ },
+ "draft_en": {
+  "subject": "PoE switches for your video-surveillance resellers",
+  "body": "Hello,\n\nSaga Telecom supplies PoE and L2+ switches to security and network distributors in Europe - under our label or the distributor's own. Your network-components line already lists several switch types; what we add is a PoE line priced for camera projects and sold at distributor level.\n\nReference points: STC-424XGGPM-280W (24 x GE PoE+ 280 W + 4 x 10G SFP+, Marvell L2+) USD 170; STC-2224GP (24 x GE PoE+ + 2 x GE + 2 x SFP, 300 W, unmanaged) USD 86; 8-port PoE+ units from USD 28, all EXW Shenzhen, snapshot 2026-10-27, valid 15 days, CE/RoHS/REACH, 12-month warranty. Voice/camera VLAN, PoE watchdog and 250 m extend mode included where relevant.\n\nCould you forward this to the product manager for video surveillance, or tell me who that is so I can send the full price sheet directly?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "notes": "不提 Hikvision 自家交换机。",
+ "deep": false
+}

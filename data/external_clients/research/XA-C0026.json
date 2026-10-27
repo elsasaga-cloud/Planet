@@ -1,0 +1,51 @@
+{
+ "code": "XA-C0026",
+ "name": "m2m Germany GmbH",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（官网 2026-05 更新）",
+ "summary": "Wehrheim 的 M2M/IoT 方案商 + 分销（2007 起，11–50 人），LoRaWAN 全服务、Milesight 欧洲大分销之一、自研无线硬件。PoE 交换机只是 IoT 网关配套，非其品类重点。",
+ "type_final": "IoT 方案商/分销（Milesight 渠道）",
+ "size": "11–50 人",
+ "brands_seen": [
+  "Milesight",
+  "自有 m2m Germany 硬件"
+ ],
+ "saga_line": "HRUI PoE 入门款（网关配套）",
+ "fit": "弱—中",
+ "evidence": [
+  {
+   "kind": "官网 Manufacturer",
+   "claim": "As a LoRaWAN full service provider … also develops its own wireless hardware；Milesight 在列",
+   "quote": "",
+   "url": "https://www.m2mgermany.de/en/manufacturer/",
+   "date": "2026-05-29"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "11–50 人；Wehrheim；2007",
+   "quote": "",
+   "url": "https://www.linkedin.com/company/m2m-germany-gmbh",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "sales@m2mgermany.de",
+  "email_status": "Milesight 伙伴页公开"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "IoT 方案商，交换机非品类重点 → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "",
+ "deep": false,
+ "draft_en": null
+}

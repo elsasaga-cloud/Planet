@@ -1,0 +1,41 @@
+{
+ "code": "XA-C0030",
+ "name": "Camerawelt (Düsseldorf)",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（轻卡：未外查）",
+ "summary": "杜塞尔多夫地区安防安装商，小批量终端需求。",
+ "type_final": "安防安装商（小）",
+ "size": "小",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "终端触点",
+ "evidence": [
+  {
+   "kind": "来源库",
+   "claim": "安防系统专业安装商；原库自评 C类（区域安装商，小批量）",
+   "quote": "",
+   "url": "External Clients/CCTV-PoE/A/XA-C0030",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "info@camerawelt.com",
+  "email_status": "公开"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "小安装商 = 终端触点 → C",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡。",
+ "deep": false,
+ "draft_en": null
+}

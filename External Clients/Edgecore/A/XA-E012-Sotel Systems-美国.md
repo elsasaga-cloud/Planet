@@ -1,6 +1,6 @@
 # XA-E012 · Sotel Systems · 美国
 
-> **初判 XA 长期跟进** ｜ 来源 Edgecore `A-057`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 Edgecore `A-057`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -92,7 +92,42 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+
+- **结论：XA** — 美国 VoIP 渠道批发分销商，有仓有 reseller 网络，PoE 交换机是其话机系统的必配 → XA；第二封换「话机部署配 PoE」角度、分销价
+- 活着吗：活（gosotel.com 新站 + sotelsystems.com 旧站），2026-10-27
+- 一句话：圣路易斯的通信/网络设备批发分销商（1981 起，51–200 人，$12.8M），卖新品与翻新 IP 话机、网关、「managed network devices」，PE（Capital For Business）控股，5 万平方英尺仓库、美国 95% 三日达，另有拉美分销（Teleswitch）。10-19 发 info@ 未回。
+- 是什么人：通信/网络设备批发分销商（VoIP 渠道）；规模：51–200 人；$12.8M（RocketReach）
+- 在卖/在用：NEC Univerge、Adtran、Avaya、Cisco（翻新）、Edgecore（官方 SI 名录）
+- 对口哪条线：SmartByte 商用管理型 PoE（IP 话机部署配套） — VoIP 渠道每套话机系统都要 PoE 交换机；分销商有仓有渠道，吃 20% 档位
+- 找得到人吗：sales@sotelsystems.com（官网公开；10-19 发的 info@ 未回）；KP：Jim Goebel（President & CEO，官网高管页 + Sunbiz（来源库））
+- 已触达：S 箱 2026-10-19 发 info@ → 已发未回
+- 与 Saga Clients：无
+- **下一动作：第二封** — IP 话机/UC 部署的 PoE 交换机，分销商 20% 档位；8/16/24 口全有；型号 STC-424XGGPM-280W；价 USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 US 周三 08–10 当地；建议 2026-10-28
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 官网 About | industry leading distributor of (IT) communications and networking equipment throughout North America … including IP Phones, headsets … and managed network devices |  | https://www.gosotel.com/index.php/about/ | 2023-05-17 |
+| 官网 Distribution | 50,000 sq ft warehouse in St. Louis；same-day ship；95% of the country within 3 days |  | https://www.gosotel.com/index.php/distribution/ | 2023-05-17 |
+| CB Insights | distributor in the IT communications and networking equipment sector；2008 被 Capital For Business 收购 |  | https://www.cbinsights.com/company/sotel-systems | 2026-10-27 |
+| Manta | CEO Jim Goebel；100–249 人 |  | https://www.manta.com/c/mmnlxs2/sotel-systems-llc | 2026-10-27 |
+
+草稿（英文，第二封；Simon 发，Agent 不发）：
+
+```text
+Subject: PoE switches for your IP phone and UC resellers
+
+Hi Jim,
+
+I wrote on 19 October under "24 Port PoE Managed Switch"; this is a different angle, so a fresh note rather than a reply.
+
+Every phone system your resellers ship needs PoE ports, and that is the one line we build: Marvell-based L2+ PoE switches, 8/16/24/48 ports, 10G uplinks, LLDP-MED and voice VLAN for phones, FCC/CE, 12-month warranty. Reference: STC-424XGGPM-280W, 24 x GE PoE+ (280 W) + 4 x 10G SFP+, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) at distributor level; smaller 8- and 16-port PoE units from USD 30.
+
+Would a distributor price sheet for the PoE range be useful for your product team?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：不提翻新/二手；不提 NEC/Adtran。

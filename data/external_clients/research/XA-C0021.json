@@ -1,0 +1,50 @@
+{
+ "code": "XA-C0021",
+ "name": "uniVorx GmbH (DrayTek D-A-CH)",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活",
+ "summary": "柏林近郊 Schönefeld 的 DrayTek DACH 独家总代（2014 年底接手，11–50 人），只卖 DrayTek 一牌（含 VigorSwitch PoE 全线），下面再分给 Comline/TwoCom/TKR 等分销。品牌独家总代不会上第二家交换机。",
+ "type_final": "单品牌独家总代（DrayTek）",
+ "size": "11–50 人",
+ "brands_seen": [
+  "DrayTek"
+ ],
+ "saga_line": "—",
+ "fit": "品牌独家，不会上第二牌",
+ "evidence": [
+  {
+   "kind": "DrayTek.de Wir über uns",
+   "claim": "Die uniVorx GmbH als exklusiver DrayTek Partner für die DACH Region",
+   "quote": "",
+   "url": "https://www.draytek.de/wir-ueber-uns.html",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "heise",
+   "claim": "Neuer Generaldistributor ist dann das eigens gegründete Berliner Unternehmen Univorx",
+   "quote": "",
+   "url": "https://www.heise.de/newsticker/meldung/Neuer-Distributionsweg-fuer-DrayTek-Router-2499623.html",
+   "date": "2014-12-18"
+  }
+ ],
+ "contacts": {
+  "email": "contact@draytek.de",
+  "email_status": "公开"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "DrayTek 独家总代，结构上不会引入第二牌交换机 → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "",
+ "deep": false,
+ "draft_en": null
+}

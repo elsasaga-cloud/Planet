@@ -1,6 +1,6 @@
 # XA-E024 · CTD · 美国
 
-> **初判 XA 长期跟进** ｜ 来源 Edgecore `B-048`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 Edgecore `B-048`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -94,7 +94,41 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+
+- **结论：XA** — 美国 VoIP/网络 VAD、800 VAR、已在分销 TP-Link/Netgear/Edgecore 交换机——分销商类型里最对口的一家；第二封换「话机系统配套 PoE + 分销价」角度
+- 活着吗：活（官网 + LinkedIn 260 粉），2026-10-27
+- 一句话：南卡 Greenville 的电信/网络增值分销商（2004 起，11–50 人），面向北美 800+ VAR 分销 Allworx、Ericsson-LG、EnGenius、Netgear、TP-Link、Edgecore、Algo、Zultys 等，做远程安装与售前支持。10-21 发 sales@ 未回。
+- 是什么人：增值分销商（VoIP + 网络，800+ VAR）；规模：11–50 人；800+ VAR 渠道
+- 在卖/在用：Allworx、Ericsson-LG、EnGenius、Netgear、TP-Link、Edgecore、Algo、Zultys、Konftel、Cyberdata
+- 对口哪条线：SmartByte 商用管理型 PoE + HRUI 入门 PoE（话机系统配套，分销 20%） — 已分销 Netgear/TP-Link/EnGenius 交换机给 VoIP VAR，中性 Marvell L2+ 正好补「比 Netgear 便宜、比 TP-Link 像样」的位置
+- 找得到人吗：sales@ctdconnect.com（官方 LinkedIn/Crunchbase 公开，10-21 已发未回）；KP：George Richardson（President，ZoomInfo/Datanyze（来源库））；Sean Robertson（CTO & Founder，多库一致（来源库））
+- 已触达：S 箱 2026-10-21 发 sales@ → 已发未回
+- 与 Saga Clients：无
+- **下一动作：第二封** — 给 800 VAR 一条中性 Marvell L2+ PoE 线，分销 20% 档；一封一问；型号 STC-424XGGPM-280W；价 USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 US 周三 08–10 当地；建议 2026-10-28
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| LinkedIn 公司页 | value-added distributor of Allworx, Ericsson-LG, EnGenius, ConnectView, Algo, Netgear, TP-Link, Edgecore, Konftel, Cyberdata, Zultys |  | https://www.linkedin.com/company/computer-telephony-distributing-ctd- | 2026-10-27 |
+| PRNewswire（Tadiran） | Selling to over 800 VARs in North America and the CALA market |  | https://www.prnewswire.com/news-releases/tadiran-telecom-signs-new-distribution-agreement-with-computer-telephony-distributing-246309661.html | 2018-06-30 |
+| 官网 | value-added distributor of telecommunications and networking solutions … to our dealer and manufacturer partners；sales@ctdconnect.com |  | https://www.ctdconnect.com/ | 2026-10-27 |
+
+草稿（英文，第二封；Simon 发，Agent 不发）：
+
+```text
+Subject: A Marvell L2+ PoE line for CTD resellers, distributor pricing
+
+Hi George,
+
+I wrote on 21 October under "24 Port PoE Managed Switch"; this is a different angle, so a fresh note rather than a reply.
+
+CTD already carries several switch brands for its phone-system resellers; what we offer is the neutral tier in between: Marvell-based L2+ PoE switches, 8 to 48 ports, 10G uplinks, voice VLAN/LLDP-MED, FCC/CE, 12-month warranty, sold at distributor level with your margin built in. Reference: STC-424XGGPM-280W, 24 x GE PoE+ (280 W) + 4 x 10G SFP+, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days); 8-port PoE+ units from about USD 30.
+
+Would you take a look at the PoE range with distributor pricing to see whether it fits your line card?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：不点名 Netgear/TP-Link 比价。

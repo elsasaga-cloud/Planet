@@ -1,0 +1,82 @@
+{
+ "code": "XA-E008",
+ "name": "Cambridge Computer",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "官网活（2026-07 更新）、SAM 登记有效至 2027-05",
+ "summary": "1991 年起的存储/数据保护/HPC 经销商（51–200 人，$10–50M 级），女性企业认证，NVIDIA 网络经销商、NetApp 州合同经销商，客户为大企业/顶尖高校/药企；自称 broker-agent 而非 VAR。10-19 发 sgay@ 未回。",
+ "type_final": "存储/HPC 方向 VAR（技术型买家为主）",
+ "size": "51–200 人；$10–50M（GovTribe）",
+ "brands_seen": [
+  "NVIDIA Networking",
+  "NetApp",
+  "QCT",
+  "Edgecore（官方 SI 名录）"
+ ],
+ "saga_line": "CENTEC（实验室/高校 ToR 低价位）",
+ "fit": "客户是高校/研究所，对白牌 10/25/100G ToR 有价格敏感的场景；但主业是存储，交换机是配套",
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "Woman-Owned Business Enterprise；info@ / 781.250.3000；面向 technical decision-makers",
+   "quote": "",
+   "url": "https://www.cambridgecomputer.com/",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "NVIDIA 经销商名录",
+   "claim": "Cambridge Computer 列为 NVIDIA Networking 北美经销商",
+   "quote": "",
+   "url": "https://www.nvidia.com/en-us/networking/resellers/nala/",
+   "date": "2021-05-26"
+  },
+  {
+   "kind": "GovTribe",
+   "claim": "SAM 登记 Active through May 5, 2027；51–250 人；$10M–$50M",
+   "quote": "",
+   "url": "https://govtribe.com/vendors/cambridge-computer-services-inc-dot-1gum2",
+   "date": "2026-05-05"
+  },
+  {
+   "kind": "CIOReview",
+   "claim": "CTO Jacob Farmer：业务模式 broker-agent 而非 reseller/integrator",
+   "quote": "",
+   "url": "https://cioreview.com/cambridge-computer",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "joliverio@cambridgecomputer.com",
+  "email_status": "MEEC 教育采购供应商页公开实名（Relationship Manager）；10-19 发的是 sgay@",
+  "kp": [
+   {
+    "name": "John Oliverio",
+    "role": "Relationship Manager",
+    "source": "MEEC 供应商页（来源库）"
+   },
+   {
+    "name": "Jacob Farmer",
+    "role": "CTO/联合创始人",
+    "source": "官网 About"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-19 发 sgay@ → 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "主业存储、交换机配套；体量偏大、客户是高校药企；能做的只是 CENTEC ToR 的价格选项 → XB，第二封排 11 月第二周",
+ "next_move": {
+  "action": "第二封",
+  "angle": "CENTEC 24×10G+2×100G ToR 给实验室/研究网做低价位选项，一封一问",
+  "model": "STH-2C24XF-HSI",
+  "price": "USD 1,500 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "US 周三 08–10 当地",
+  "when": "2026-11-04"
+ },
+ "draft_en": {
+  "subject": "Low-cost 10G/100G ToR for lab and research networks",
+  "body": "Hi John,\n\nI wrote on 19 October under \"24 Port PoE Managed Switch\"; this is a different angle, so a fresh note rather than a reply.\n\nFor the research and university accounts you serve, we supply Centec-based L3 ToR switches as a lower-cost tier next to the mainstream brands: STH-2C24XF-HSI, 24 x 10G SFP+ + 2 x 100G QSFP28, L3 (OSPF/BGP, VXLAN), dual hot-swap PSUs, 12-month warranty, USD 1,500 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).\n\nIs a price-first ToR option something your lab customers ask for, or do they stay with the incumbent brands regardless?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "notes": "下一封改发 joliverio@（实名关系经理），比 sgay@ 更对口。",
+ "deep": false
+}

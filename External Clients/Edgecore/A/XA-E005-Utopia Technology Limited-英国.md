@@ -1,6 +1,6 @@
 # XA-E005 · Utopia Technology Limited · 英国
 
-> **初判 XA 长期跟进** ｜ 来源 Edgecore `A-018`（原评级 A，阶段 01-delivery-failed） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 Edgecore `A-018`（原评级 A，阶段 01-delivery-failed） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -102,7 +102,43 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+
+- **结论：XA** — 英国主攻区 + 面向 ISP/MSP 的增值分销商 + 接受白牌（Edgecore 在列）；首封根本没到，重发即首触
+- 活着吗：官网活、LinkedIn 283 粉、Kemp 伙伴页在列（2026-10-27）
+- 一句话：曼彻斯特增值分销/方案商（2009/2010 起，11–50 人，自报营收 $13.4M），客户是 ISP/MSP 与公共部门，主推 Huawei/Aurora/Kemp 等；X 自述「value-added technology distributor」。10-19 首封因 Gmail 临时故障最终未送达，等于没碰过。
+- 是什么人：增值分销商（面向 ISP/MSP/Reseller）；规模：11–50 人；$13.4M（RocketReach/ZoomInfo 估）
+- 在卖/在用：Huawei、Aurora Multimedia、Kemp LoadMaster、Invisible Systems、Renjo、Edgecore（官方 SI 名录）
+- 对口哪条线：SmartByte 商用管理型 + CENTEC（ISP/MSP 渠道两头都要） — 卖 Huawei 给 ISP/MSP 的英国 VAD 正缺一条中性价位的 L2+/10G 上联线；Edgecore 在列说明接受台/中系白牌
+- 找得到人吗：salessupport@utopiatechnology.co.uk（官网公开；10-19 投递最终失败，疑对方收件侧临时问题，可再试一次）；KP：Levi Bibby（Channel Manager ISP/MSP，ContactOut 2024-11）
+- 已触达：S 箱 2026-10-19 发 salessupport@ → 未送达（等于未触达）
+- 与 Saga Clients：无
+- **下一动作：首触** — 重发（同址再试一次）+ LinkedIn 连 Levi Bibby；角度：给 ISP/MSP 渠道一条中性 L2+/10G 上联线，UKCA/CE 齐；型号 STC-424XGGPM-280W；价 USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 GB 周四 12–14 当地；建议 2026-10-29
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| LinkedIn 公司页 | ISP/MSP/公共部门增值方案商，11–50 人，2010 成立，专长含 Switches/Routers/ISP Carrier Networking | Offering a range of products and services for ISP & Cloud Data Centre providers | https://uk.linkedin.com/company/utopia-technology | 2026-10-27 |
+| 官网 Partners 页 | 联系口 salessupport@utopiatechnology.co.uk / 0333 241 2526；品牌 Huawei/Aurora/Invisible/Renjo/SEAL |  | https://www.utopiatechnology.co.uk/partners/ | 2026-10-27 |
+| X 简介 | 自述 value-added technology distributor，面向 Resellers、ISP、Cloud DC |  | https://x.com/utopia_tech | 2026-10-27 |
+| ContactOut | Levi Bibby = Channel Manager ISP/MSP（KP 候选，LinkedIn 可触） |  | https://contactout.com/Levi-Bibby-603004 | 2024-11-22 |
+| 来源库跟进记录 | 2026-10-21 首触 Delivery incomplete → 最终失败（Gmail 临时问题） |  | External Clients/Edgecore/A/XA-E005 | 2026-10-24 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: L2+ PoE switches for your ISP/MSP channel (UKCA/CE)
+
+Hi Levi,
+
+Utopia supplies ISPs and MSPs with Huawei and other carrier-grade kit; the gap we usually fill for such distributors is the access layer: Marvell-based L2+ switches with 10G uplinks, your label if you want it, at a price that leaves room for the reseller.
+
+One reference point: STC-424XGGPM-280W, 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ (VLAN/QoS/ERPS, SNMPv3, web + CLI), CE/UKCA/RoHS, 12-month warranty, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days). A first message to you in October did not get through, hence this note.
+
+Would it help if I sent the full L2+ range with distributor pricing for a quick look?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：KP 直达邮箱未公开，稿写给 Levi 但发 salessupport@ 亦可；若再退信改 LinkedIn。

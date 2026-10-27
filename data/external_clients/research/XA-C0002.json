@@ -1,0 +1,46 @@
+{
+ "code": "XA-C0002",
+ "name": "OMG (omg.de) = 4Networks IT-Distribution",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活（见 XA-M122）",
+ "summary": "omg.de 是 4Networks IT-Distribution GmbH 的零售网店（同一公司，mikrotik 库已有 XA-M122 全档）。跨库重复，并线到 XA-M122，本号不再单独跟。",
+ "type_final": "跨库重复（并线 XA-M122）",
+ "size": "见 XA-M122",
+ "brands_seen": [
+  "Ubiquiti",
+  "MikroTik",
+  "Teltonika",
+  "Cambium"
+ ],
+ "saga_line": "见 XA-M122",
+ "fit": "—",
+ "evidence": [
+  {
+   "kind": "来源库交叉",
+   "claim": "mikrotik 库 XA-M122「4Networks IT-Distribution（OMG.de）」域名 omg.de 与本条相同",
+   "quote": "",
+   "url": "External Clients/mikrotik-info/A/XA-M122",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "shop@omg.de",
+  "email_status": "公开；不用，走 XA-M122 的 info@4networks.de"
+ },
+ "touch_status": "未发信（CCTV 库从未发信）；XA-M122 已于 9-28~10-10 群发",
+ "saga_overlap": "跨库重复 XA-M122",
+ "grade_final": "C",
+ "grade_reason_final": "跨库重复 → C（并线），研究与跟进记在 XA-M122",
+ "next_move": {
+  "action": "并线",
+  "angle": "→ XA-M122",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "并线目标 XA-M122。",
+ "deep": false,
+ "draft_en": null
+}

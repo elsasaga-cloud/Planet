@@ -1,0 +1,54 @@
+{
+ "code": "XA-C0028",
+ "name": "BYTEC Bodry Technology GmbH",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活",
+ "summary": "腓特烈港的 IT 专业分销商（1989 起，92 人，2023 营收 ≈2.64 亿欧元），Fujitsu/Lenovo 主力分销，2020 起加 D-Link 全线。体量大、网络线刚起步且已绑 D-Link。",
+ "type_final": "IT 专业分销商（大，Fujitsu/Lenovo/D-Link）",
+ "size": "92 人；€264M（2023）",
+ "brands_seen": [
+  "Fujitsu",
+  "Lenovo",
+  "D-Link",
+  "Datacore",
+  "IBM"
+ ],
+ "saga_line": "—",
+ "fit": "大分销 + 网络线已绑台系品牌",
+ "evidence": [
+  {
+   "kind": "implisense",
+   "claim": "Large enterprise · 92 employees (2023) · €263,593,751 revenue",
+   "quote": "",
+   "url": "https://app.implisense.com/en/companies/bytec-bodry-technology-gmbh-friedrichshafen--DEOXF195OE22",
+   "date": "2025-06-19"
+  },
+  {
+   "kind": "IT-Business",
+   "claim": "Bytec vertreibt das Netzwerkportfolio von D-Link … Schwerpunkt Business-Produkte",
+   "quote": "",
+   "url": "https://www.it-business.de/bytec-vertreibt-das-netzwerkportfolio-von-d-link-a-980896/",
+   "date": "2020-11-20"
+  }
+ ],
+ "contacts": {
+  "email": "info@bytec.de",
+  "email_status": "公开"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "2.6 亿欧元分销商、网络线绑 D-Link → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "",
+ "deep": false,
+ "draft_en": null
+}

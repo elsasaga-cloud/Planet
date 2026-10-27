@@ -1,0 +1,43 @@
+{
+ "code": "XA-C0010",
+ "name": "EtherWAN Systems",
+ "round": "W1-R01",
+ "researched_at": "2026-10-27",
+ "alive": "活",
+ "summary": "台湾工业交换机厂商（1996 起，2017 被 Phoenix Contact 收购），美国 Anaheim 分部。是同行/厂商，不是客户。",
+ "type_final": "同行厂商（工业交换机 OEM）",
+ "size": "Phoenix Contact 子公司",
+ "brands_seen": [
+  "EtherWAN"
+ ],
+ "saga_line": "—",
+ "fit": "同行，不碰",
+ "evidence": [
+  {
+   "kind": "来源库",
+   "claim": "OEM工业以太网/PoE/千兆交换机，台湾制造；2017 年被 Phoenix Contact 收购",
+   "quote": "",
+   "url": "External Clients/CCTV-PoE/A/XA-C0010",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "marketing@etherwan.com",
+  "email_status": "公开；不用"
+ },
+ "touch_status": "未发信",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "厂商/同行 → C 不动（原库自己也标「竞品/情报」）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "",
+ "deep": false,
+ "draft_en": null
+}

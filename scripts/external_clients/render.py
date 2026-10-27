@@ -10,6 +10,7 @@ from collections import Counter
 
 sys.path.insert(0, os.path.dirname(__file__))
 from common import DATA, ROOT
+from research_store import all_cards
 
 OUT = os.path.join(ROOT, 'External Clients')
 REPOS = [
@@ -46,11 +47,63 @@ def load_overrides():
     return json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {}
 
 
-def render_record(r, repo, product_line, src_desc, ov):
+def final_grade(r, ov, cards):
+    """优先级：Simon 人工改级 overrides.json > 第 2 步研究卡 grade_final > 导入初判。"""
+    o = ov.get(r['code'])
+    if o:
+        return o['grade']
+    c = cards.get(r['code'])
+    if c:
+        return c['grade_final']
+    return r['grade']
+
+
+def render_research(c):
+    out = ['## 8. 研究卡（第 2 步，' + c['round'] + '，' + c['researched_at'] + '）', '']
+    out.append(f"- **结论：X{c['grade_final']}** — {c['grade_reason_final']}")
+    out.append(f"- 活着吗：{c['alive']}")
+    out.append(f"- 一句话：{c['summary']}")
+    out.append(f"- 是什么人：{c['type_final']}" + (f"；规模：{c['size']}" if c.get('size') else ''))
+    if c.get('brands_seen'):
+        out.append('- 在卖/在用：' + '、'.join(c['brands_seen']))
+    out.append(f"- 对口哪条线：{c['saga_line']}" + (f" — {c['fit']}" if c.get('fit') else ''))
+    ct = c.get('contacts') or {}
+    if ct:
+        kp = '；'.join(f"{k['name']}（{k.get('role', '')}，{k.get('source', '')}）" for k in ct.get('kp') or [])
+        out.append(f"- 找得到人吗：{ct.get('email', '—')}（{ct.get('email_status', '')}）" + (f"；KP：{kp}" if kp else '；KP：无具名'))
+    out.append(f"- 已触达：{c['touch_status']}")
+    out.append(f"- 与 Saga Clients：{c.get('saga_overlap', '无')}")
+    nm = c['next_move']
+    out.append(f"- **下一动作：{nm['action']}**" + (f" — {nm.get('angle', '')}" if nm.get('angle') else '')
+               + (f"；型号 {nm['model']}" if nm.get('model') else '') + (f"；价 {nm['price']}" if nm.get('price') else '')
+               + (f"；窗口 {nm['window']}" if nm.get('window') else '') + (f"；建议 {nm['when']}" if nm.get('when') else ''))
+    if c.get('evidence'):
+        out.append('')
+        out.append('证据：')
+        out.append(md_table(['类型', '说明', '摘录', '来源', '日期'], [(e['kind'], e['claim'], e.get('quote', ''), e['url'], e['date']) for e in c['evidence']]))
+    if c.get('draft_en'):
+        out.append('')
+        out.append(f"草稿（英文，{nm['action']}；Simon 发，Agent 不发）：")
+        out.append('')
+        out.append('```text')
+        out.append('Subject: ' + c['draft_en']['subject'])
+        out.append('')
+        out.append(c['draft_en']['body'])
+        out.append('```')
+    if c.get('notes'):
+        out.append('')
+        out.append('- 备注：' + c['notes'])
+    out.append('')
+    return out
+
+
+def render_record(r, repo, product_line, src_desc, ov, cards=None):
+    cards = cards or {}
     g = r['grade']
     code = r['code']
     o = ov.get(code)
-    grade_now = o['grade'] if o else g
+    card = cards.get(code)
+    grade_now = final_grade(r, ov, cards)
     lines = []
     lines.append(f"# {code} · {r['name']} · {r['country_zh']}")
     lines.append('')
@@ -58,13 +111,16 @@ def render_record(r, repo, product_line, src_desc, ov):
         src_txt = f"来源 {repo} `{r['src_code']}`（原评级 {r.get('src_grade', '')}" + (f"，阶段 {r['stage']}" if r.get('stage') else '') + '）'
     else:
         src_txt = f"来源 {repo} `{r['src_path']}`:{r.get('src_line', '')}" + (f"（其分级 {r['their_class']}类）" if r.get('their_class') else '')
-    head = [f"**初判 {GRADE_TXT[grade_now]}**", src_txt, f"导入 2026-10-27", '研究状态：未研究（第 2 步待做）']
+    head = [f"**{'现判' if (o or card) else '初判'} {GRADE_TXT[grade_now]}**", src_txt, f"导入 2026-10-27",
+            (f"研究状态：已研究（{card['round']} {card['researched_at']}）→ 下一动作 {card['next_move']['action']}" if card else '研究状态：未研究（第 2 步待做）')]
     if o:
         head.insert(1, f"人工改级 {o['date']}：{o['grade']}（{o['reason']}）")
     lines.append('> ' + ' ｜ '.join(head))
     lines.append('')
     lines.append('## 1. 初判与理由')
-    lines.append(f"- 初判：**X{grade_now}** — {r['grade_reason']}")
+    lines.append(f"- 初判：**X{g}** — {r['grade_reason']}")
+    if card and card['grade_final'] != g:
+        lines.append(f"- 研究后改级：X{g} → **X{card['grade_final']}**（{card['round']}，{card['grade_reason_final'][:80]}）；编号不变")
     if o:
         lines.append(f"- 人工改级：X{o['grade']}（{o['date']}，{o['reason']}）；编号不变")
     lines.append('- 标记：' + ('、'.join(r['flags']) if r['flags'] else '无'))
@@ -201,16 +257,20 @@ def render_record(r, repo, product_line, src_desc, ov):
     lines.append('- 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`')
     lines.append('- 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）')
     lines.append('')
-    lines.append('## 8. 研究与跟进（第 2 步起填）')
-    lines.append('- 研究状态：未研究')
-    lines.append('- 研究结论 / 升降建议：—')
-    lines.append('- 下一步：—')
-    lines.append('')
+    if card:
+        lines.extend(render_research(card))
+    else:
+        lines.append('## 8. 研究与跟进（第 2 步起填）')
+        lines.append('- 研究状态：未研究')
+        lines.append('- 研究结论 / 升降建议：—')
+        lines.append('- 下一步：—')
+        lines.append('')
     return '\n'.join(lines)
 
 
 def main():
     ov = load_overrides()
+    cards = all_cards()
     os.makedirs(OUT, exist_ok=True)
     summary = []
     for fn, repo, letter, product_line, src_desc in REPOS:
@@ -228,22 +288,24 @@ def main():
             os.makedirs(gd)
         idx_rows = []
         cnt = Counter()
+        researched = 0
         for r in recs:
-            g = ov.get(r['code'], {}).get('grade', r['grade'])
+            g = final_grade(r, ov, cards)
             cnt[g] += 1
+            researched += 1 if r['code'] in cards else 0
             fname = f"{r['code']}-{safe(r['name'])}-{safe(r['country_zh'], 12)}.md"
             rel = f"{g}/{fname}"
             with open(os.path.join(base, rel), 'w', encoding='utf-8') as f:
-                f.write(render_record(r, repo, product_line, src_desc, ov))
+                f.write(render_record(r, repo, product_line, src_desc, ov, cards))
             live = [e['addr'] for e in r['emails'] if e['status'] != '停用']
             idx_rows.append((f"[{r['code']}]({rel.replace(' ', '%20')})", r.get('src_code') or f"{r['src_path'].split('/')[-1][:18]}:{r.get('src_line', '')}", r['name'], r['country_zh'], (r.get('type') or '')[:28],
-                             f"X{g}", r['grade_reason'][:40], live[0] if live else ('（停用）' + r['emails'][0]['addr'] if r['emails'] else '—'),
+                             f"X{g}" + ('·研' if r['code'] in cards else ''), (cards[r['code']]['grade_reason_final'][:40] if r['code'] in cards else r['grade_reason'][:40]), live[0] if live else ('（停用）' + r['emails'][0]['addr'] if r['emails'] else '—'),
                              '是' if r.get('kp_named') else '—', r['saga_dup']['code'] if r.get('saga_dup') else '—',
                              (r['touch']['最后'] + ' 去' + r['touch']['去信'] + '/来' + r['touch']['来信']) if r.get('touch') else '—'))
         deleted = [r for r in d['records'] if r['grade'] == 'DELETE']
         idx = [f"# {repo} · External Clients 索引", '',
                f"- 来源：{src_desc}；快照 `{d['src']}`（分支 `{d['branch']}`）",
-               f"- 导入 2026-10-27：{len(recs)} 户（XA {cnt['A']} / XB {cnt['B']} / XC {cnt['C']}）" + (f"；剔除大陆 {len(deleted)}" if deleted else ''),
+               f"- 导入 2026-10-27：{len(recs)} 户（现判 XA {cnt['A']} / XB {cnt['B']} / XC {cnt['C']}）" + (f"；剔除大陆 {len(deleted)}" if deleted else '') + f"；第 2 步已研究 {researched} 户（初判列带「·研」）",
                f"- 产品线：{product_line}",
                '- 编号：`X<等级>-' + letter + '<序号>`，导入时一次分配、永不重排；研究后升降 = 改等级 + 移文件夹，编号不动（可能出现 XA 编号躺在 B 文件夹，与 Saga Clients 同理）',
                '- 初判 = 机械规则（方案草案 §3）：主攻区（美加/欧/土）+ 渠道型买家 + 可用邮箱 → XA；对口但非主攻区 / 个人顾问 / 缺邮箱 / 风险国 → XB；与 Saga 重叠 / 原厂同行 / 超大集团 / 来源库 C → XC。第 2 步逐户研究后再定。',
@@ -253,23 +315,24 @@ def main():
             hdr_lines = idx[:-2]
             links = []
             for g in 'ABC':
-                sub = [row for row in idx_rows if row[5] == f'X{g}']
+                sub = [row for row in idx_rows if row[5].startswith(f'X{g}')]
                 fn_g = f'00-索引-X{g}.md'
                 open(os.path.join(base, fn_g), 'w', encoding='utf-8').write('\n'.join(hdr_lines + [f'（本页只列 X{g}，{len(sub)} 户）', '', md_table(['编号', '原编号', '公司', '国家', '类型', '初判', '理由（节选）', '首选邮箱', '实名KP', 'Saga重叠', 'S箱触达(最后/去/来)'], sub), '']))
                 links.append(f'- [{fn_g}]({fn_g})：X{g} {len(sub)} 户')
             idx = hdr_lines + ['', '索引按等级分页：'] + links + ['', '侧表：`data/external_clients/cctv_未导入条目.csv`（粗体/表格里不像公司的条目与理由）、`cctv_非客户段落.csv`、`cctv_剔除大陆.csv`', '']
         open(os.path.join(base, '00-索引.md'), 'w', encoding='utf-8').write('\n'.join(idx))
-        summary.append((repo, cnt, src_desc, product_line, len(recs), len(deleted), d['src']))
-        print(repo, dict(cnt), 'deleted', len(deleted))
+        summary.append((repo, cnt, src_desc, product_line, len(recs), len(deleted), d['src'], researched))
+        print(repo, dict(cnt), 'deleted', len(deleted), 'researched', researched)
     top = ['# External Clients · 总索引', '',
            '外部三仓（Edgecore / mikrotik-info / CCTV-PoE）客户全量进库。四步：① 全量导入（本页）→ ② 逐户深研定级 XA/XB/XC → ③ 跟进（与 S 箱群发对账）→ ④ 加厚/KP。方案：`docs/external_repos/External_Clients_方案草案_2026-10-27.md`；通读：`docs/external_repos/通读记录_2026-10-27.md`。',
-           '', '## 数量', '', '| 库 | 导入 | XA | XB | XC | 剔除大陆 | 快照 | 索引 |', '|---|---|---|---|---|---|---|---|']
+           '', '## 数量（现判 = 人工改级 > 研究卡 > 导入初判）', '', '| 库 | 导入 | XA | XB | XC | 已研究 | 剔除大陆 | 快照 | 索引 |', '|---|---|---|---|---|---|---|---|---|']
     for s in summary:
         if s[1] is None:
-            top.append(f"| {s[0]} | 待导入 | — | — | — | — | — | — |")
+            top.append(f"| {s[0]} | 待导入 | — | — | — | — | — | — | — |")
         else:
-            repo, cnt, src_desc, pl, n, dele, src = s
-            top.append(f"| {repo} | {n} | {cnt['A']} | {cnt['B']} | {cnt['C']} | {dele} | `{src}` | [{repo}/00-索引.md]({repo}/00-索引.md) |")
+            repo, cnt, src_desc, pl, n, dele, src, researched = s
+            top.append(f"| {repo} | {n} | {cnt['A']} | {cnt['B']} | {cnt['C']} | {researched} | {dele} | `{src}` | [{repo}/00-索引.md]({repo}/00-索引.md) |")
+    top += ['', '第 2 步研究卡：`data/external_clients/research/<编号>.json`（`scripts/external_clients/research_store.py`）；跟进总台 `docs/跟进总台.md`；计划 `docs/external_repos/第2步_深研定级计划_2026-10-27.md`。']
     top += ['', '## 规则', '',
             '- 目录：每库独立 `A/ B/ C/`（三库目的与跟进策略不同，Simon 2026-10-27 定）。',
             '- 编号：`XA-E001`（Edgecore）/ `XA-M001`（mikrotik-info）/ `XA-C001`（CCTV-PoE）；X = 外部，第二字母 = 导入时初判等级，连字符后字母 = 来源库；一次分配永不重排。',
