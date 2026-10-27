@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 2
+  "count": 6
  },
  "rows": {
   "SA-086": {
@@ -72,6 +72,147 @@
    "fetched": "2026-10-27",
    "code": "SA-077",
    "batch": 83
+  },
+  "SA-085": {
+   "batch": 84,
+   "name": "HCS KABLOLAMA SİSTEMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "iso": "TR",
+   "source": "Türkiye · LEI 登记（GLEIF 镜像 lei-lookup）+ EMIS / D&B 摘要 + 官网 + Netser 品牌页 + LinkedIn + Türk Metal 工会新闻",
+   "url": "https://www.lei-lookup.com/record/7890008F3LXUBMYF0N25/",
+   "number": "İstanbul Ticaret Sicil No 12401448 · LEI 7890008F3LXUBMYF0N25（2019-05-15 首登，2025-05-09 更新）",
+   "status": "经营中（LEI ISSUED；官网 / LinkedIn 活跃）",
+   "incorporated": "2000-11-22（EMIS）",
+   "company_type": "Anonim Şirketi（A.Ş.）· HES Hacılar Elektrik 集团（土耳其最大电缆厂，Kayseri）旗下结构化布线品牌公司",
+   "sic": [
+    "铜缆 / 光纤结构化布线系统制造与销售（Kayseri 工厂 30,000 m²，月产 12,000 km 电缆）；D&B 归类金属批发（口径偏差）"
+   ],
+   "address": "İkitelli OSB Mah. 8. Cadde Boypaş Blok No:3A, Başakşehir, İstanbul 34490",
+   "accounts": "非上市，不公开（集团母公司 HES Kablo 亦非上市）",
+   "accounts_due": "",
+   "size_band": "51–200 人（LinkedIn）；有 Türk Metal 工会集体合同（Kayseri 工厂）",
+   "officers": [
+    "Yusuf ÖKSÜZÖMER — Yönetim Kurulu Başkanı（董事长，D&B Key Principal）",
+    "研究档 KP Cihat Tunçbilek / Fatma Sancar — 采购 / 销售侧经办，**不是老板**；集团公司，拍板在 HES 集团与董事会"
+   ],
+   "psc": "HES Hacılar Elektrik San. ve Tic. A.Ş. 集团（Kayseri）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**集团公司、联系人不是老板**：Cihat Tunçbilek / Fatma Sancar 只能把方案推到采购委员会；信里给「HCS 品牌有源产品线（交换机）补全」的商业理由，让经办人拿得出手 → OEM 30% 线（贴 HCS 标，与其无源布线配套卖）",
+    "HCS 自己是制造商（布线），对供应商资质审核正规：CE / RoHS / REACH 文件、工厂资料、样品测试报告先备齐；付款按 A.Ş. 流程走（LC 或 T/T 30/70 可谈，不要坚持 100% 预付）",
+    "2000 年成立、LEI 2019 年起每年续期 → 有境外金融 / 出口业务（LEI 一般为银行或出口要求），说明会做外币 T/T，不是纯内销",
+    "TR 每年 LEI 续期 5 月、年度账目 4–5 月，报价避开 Ramazan Bayramı / Kurban Bayramı 假期（见假日表）"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-085"
+  },
+  "SA-076": {
+   "batch": 84,
+   "name": "TELEMOBİL BİLGİ İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ（TBI）",
+   "iso": "TR",
+   "source": "Türkiye · EMIS / Bloomberg 摘要 + 官网 + LinkedIn + kariyer.net 招聘页（2025-11）+ ekşi sözlük 转载的公司登记公告（董事会名单 / 资本）",
+   "url": "https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html",
+   "number": "İstanbul Ticaret Sicil（号待补）",
+   "status": "经营中（2025-11 仍在招聘；EMIS 2025-11 更新）",
+   "incorporated": "2005-01-14（EMIS；Bloomberg 口径 2008）；前身为 A.B GRUP 的 IT 部门（90 年代）",
+   "company_type": "Anonim Şirketi（A.Ş.）· 家族持股（Unakıtan 家族任董事会主席 / 副主席）；早期登记资本 300,000 YTL",
+   "sic": [
+    "系统集成商：数据中心机电（MEP）/ 弱电与楼宇自动化 / 电气承包 / 电子安防 / IT；案例：İstanbul Grand Airport（2018，150,000 m²）、自称建成「土耳其最大数据中心」"
+   ],
+   "address": "Çilehane Yolu Cd. Çamlıca Evleri Sitesi No:13/3–4, Küçük Çamlıca, 34696 Üsküdar / İstanbul",
+   "accounts": "非上市，不公开",
+   "accounts_due": "",
+   "size_band": "50–97 人（kariyer.net 50–74；LinkedIn 97 名员工 / 51–200）",
+   "officers": [
+    "Abdullah UNAKITAN — Yönetim Kurulu Başkanı（董事长）",
+    "Fatma UNAKITAN / Zeynep Basutçu UNAKITAN — 董事会副主席（家族）",
+    "研究档 KP = Clients 表联系人（项目 / 采购经办），**不是老板**"
+   ],
+   "psc": "Unakıtan 家族",
+   "charges": "",
+   "prev_names": [
+    "A.B GRUP Bilgi İşlem（90 年代内部部门）"
+   ],
+   "lines": [
+    "**数据中心 MEP + 弱电集成商、家族董事会拍板**：联系人是项目经办；信里按「项目 BOM」给东西——机房接入 / 汇聚交换机（STC-448XGGPM、STI-480XGGM Marvell L3、CENTEC STH-2C24XF-HSI 作为 DC 敲门砖）+ 弱电 PoE（STC-2024GP）→ 集成 25% 档，CENTEC 按 ≥35% 底线",
+    "机场 / 大型数据中心项目 = 招标制、要求品牌资质：先给 CE / RoHS / 测试报告 + 项目参考，不要先谈价格；量来时按项目一次性报（项目价 15 天有效）",
+    "土耳其 A.Ş. 付款习惯：项目回款慢，坚持 T/T 预付或至少 50/50，不接受 vadeli（账期）",
+    "公司 2005 年注册但 Bloomberg 口径 2008 → 可能 2008 年改制为 A.Ş.；Ticaret Sicil 号下一轮补"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-076"
+  },
+  "SA-084": {
+   "batch": 84,
+   "name": "EDS ELEKTRONİK DESTEK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "iso": "TR",
+   "source": "Türkiye · 官网（eds.com.tr / edselectronic.com）+ LinkedIn + kariyer / yenibiriş 招聘档（2026-04）+ FinalScout 职务 + RocketReach + TradeAtlas 出口档",
+   "url": "https://www.edselectronic.com/about-us-5",
+   "number": "İstanbul Ticaret Sicil（号待补）· İSO / İTO / TÜYAK / GESİDER / TÜBİSAD 会员",
+   "status": "经营中（2026-04 仍在招聘）",
+   "incorporated": "1990-02（官网 / LinkedIn；Glassdoor 口径 1991）",
+   "company_type": "Limited Şirketi（Ltd. Şti.）· 私人持有；自称「%100 yerli」国产制造商、有官方认可的 R&D 中心",
+   "sic": [
+    "安防电子制造商：CCTV、火灾探测、入侵报警、门禁、环境监控、电力电子；Sancaktepe 工厂 5,000 m²；出口 35+ 国"
+   ],
+   "address": "Meclis Mah. Teraziler Cad. Hayran Sk. No:4, 34785 Sancaktepe / İstanbul",
+   "accounts": "非上市，不公开；RocketReach 估 $22.5M（仅供参考）",
+   "accounts_due": "",
+   "size_band": "57–74 人（kariyer 50–74；官网「近 60 人、10–15 名工程师」）",
+   "officers": [
+    "Osman YILDIZ — Genel Müdür（总经理）= 研究档 KP → 拍板人直接在线",
+    "Gülnihal ÖZDEMİR YILMAZ — Import Export Manager = 研究档 KP（进口经办）",
+    "Münevver ACARER — 研究档 KP（职务待核）；Yağmur Yıldız Temuçin — R&D 设计工程师（同姓，疑为家族二代）；Zafer Sönmez — 生产经理"
+   ],
+   "psc": "Yıldız 家族（待证：总经理 Osman Yıldız + 同姓研发工程师）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**总经理 Osman Yıldız 本人就是联系人，且有专职进出口经理**：这是 A 档里最「成熟进口商」的土耳其户——有进口经验的品牌制造商 = 《背景信息》目标顺位第 1–2 位 → OEM 30% 线（贴 EDS 标的 PoE 交换机配其 CCTV / 门禁系统）",
+    "EDS 卖「%100 yerli」国产形象 + 自有 R&D 中心：他们买我们的整机会要求去标 / 中性包装（INH 规则本就如此）、固件 OEM 化（Web UI logo）；信里明确「neutral packaging + your firmware branding」",
+    "出口 35+ 国 → 需要 CE / RoHS / REACH 全套，可能问 EAC（独联体出口）：按证书规则只报我们有的",
+    "约 60 人的 Ltd. Şti.，付款 T/T 30/70 或 50/50；土耳其进口商常走 FOB 深圳自己找货代（㉘ 物流两条线）"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-084"
+  },
+  "SA-047": {
+   "batch": 84,
+   "name": "SGE MÜHENDİSLİK ELEKTRİK OTOMASYON BİLGİ İŞLEM SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "iso": "TR",
+   "source": "Türkiye · EMIS 摘要（含 2024 财务走势、2025 员工数）+ 官网 + LinkedIn（公司 / Murat Gül 履历）+ RocketReach / ContactOut / GlobalPiyasa",
+   "url": "https://www.emis.com/php/company-profile/TR/Sge_Muhendislik_Elektrik_Otomasyon_Bilgi_Islem_San_Ve_Tic_Ltd_Sti_en_3345169.html",
+   "number": "İstanbul Ticaret Sicil（号待补）",
+   "status": "经营中（ContactOut 2026-10 更新；LinkedIn 活跃）",
+   "incorporated": "2007-11-28（EMIS）",
+   "company_type": "Limited Şirketi（Ltd. Şti.）· 私人持有",
+   "sic": [
+    "电力 / 能源自动化工程公司：SCADA（zenon / Sicam230）、变电站自动化、保护继电器与 RTU（Sprecher、Schneider、Siemens、ABB）销售与现场实施、电能质量仪表；OSB（工业园区）能源自动化；GlobalPiyasa 标 Manufacturer + Importer"
+   ],
+   "address": "Mimar Sinan Mah. Çavuşbaşı Cad. Gündoğdu Sk., Çekmeköy / İstanbul 34782（另有 Ümraniye Bulgurlu 旧址）",
+   "accounts": "EMIS：2024 年净销售额 −9.48%，总资产 +23.49%（绝对值付费）；RocketReach 估 $5.8M / ContactOut $0.77M（不可信区间）",
+   "accounts_due": "",
+   "size_band": "16 人（EMIS 2025）；LinkedIn 11–50；ContactOut 19",
+   "officers": [
+    "Özgür ÜNVER — CEO（RocketReach；Ankara）→ 拍板人，未在研究档 KP 内",
+    "Murat GÜL — Teknik Müdür（技术总监，2009-11 至今；YTÜ 电气工程 1996；曾为 Sempati Otomasyon 合伙人）= 研究档 KP → **技术拍板、非老板**",
+    "Okan S. — 研究档 KP（职务待核）；Osama Arqoub — 自动化与保护团队负责人（德国）"
+   ],
+   "psc": "待补（Ltd. Şti. 股东名单需 Ticaret Sicil Gazetesi）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**联系人 Murat Gül 是技术总监而非老板（CEO Özgür Ünver）**：技术线已经认我们，差商务拍板——下一封信给 Murat 一份可直接转发 CEO 的一页纸（价格 + 质保 + 交期 + 认证），让他内部推",
+    "业务 = 变电站 / OSB 能源 SCADA：买交换机是给保护继电器与 RTU 组 IEC 61850 站控网 → 工业级 STI 系列（温宽、冗余环网）+ 光口；这是「守界」允许的工业自动化，不是轨交 → 集成 25% 档",
+    "2024 年销售额下滑 9.5% 但资产增 23%（EMIS）：在投入 / 囤项目，不是收缩 → 2026 年项目落地期报价，别催单",
+    "16 人的 Ltd. Şti.，T/T 50/50；变电站项目周期长，按项目 BOM 报 15 天有效价并注明可按项目锁价"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-047"
   }
  }
 }

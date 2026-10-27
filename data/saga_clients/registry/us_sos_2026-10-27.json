@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 1
+  "count": 11
  },
  "rows": {
   "SA-002": {
@@ -39,6 +39,356 @@
    "fetched": "2026-10-27",
    "code": "SA-002",
    "batch": 83
+  },
+  "SA-021": {
+   "batch": 84,
+   "name": "OPTIVIEW, INC.",
+   "iso": "US",
+   "source": "USA · BBB 企业档案（含州注册日 / 法人形式 / 别名）+ 官网 + LinkedIn；Florida Sunbiz 直连本轮失败（待补 document number）",
+   "url": "https://www.bbb.org/us/fl/jacksonville/profile/security-system-monitors/optiview-inc-0403-12778",
+   "number": "Florida Corporation（Sunbiz 文件号待补）",
+   "status": "经营中（官网 © 2026，经销商门户在线）",
+   "incorporated": "2000-01-21（BBB「Business Incorporated」；业务始于 2000-01-01；研究档 1999 为筹备期）",
+   "company_type": "Corporation（佛罗里达州）· 私人持有",
+   "sic": [
+    "安防监控设备分销（BBB 类目 Security System Monitors）；通过经销商网络销售（官网「through our dealer network」）"
+   ],
+   "address": "5211 Fairmont St, Jacksonville, FL 32207（官网 2025–2026）",
+   "accounts": "私人公司不公开",
+   "accounts_due": "Florida 年报每年 5-01 前（Sunbiz）",
+   "size_band": "小型区域分销商（单址，经销商渠道）",
+   "officers": [
+    "Stephen LEBOWITZ — President（BBB 登记负责人 / LinkedIn；= 研究档 KP）→ 老板 = 联系人",
+    "别名 / 商号：Discount Security Cameras、The Security Store、DGP Security Company、Security Store、ASL Security Inc（BBB Alternate Names）"
+   ],
+   "psc": "Stephen Lebowitz（President，私人持有）",
+   "charges": "BBB 未认证（NOT BBB Accredited），无公开投诉摘要",
+   "prev_names": [
+    "ASL Security Inc / DGP Security Company（别名，可能为并购或旧商号）"
+   ],
+   "lines": [
+    "**老板 = 联系人**：President Stephen Lebowitz 就是 KP，2000 年创办至今 26 年；一封信里给齐型号 / 价格 / 交期，他自己能拍板",
+    "五个零售别名（Discount Security Cameras / The Security Store …）+ 经销商门户：Optiview 同时做线上零售与 B2B 经销 → PoE 交换机走「配 IP 摄像头套装」路线（STC-028GP / STC-228GP / STC-2024GP），按分销 20% 报；可提自有标 OEM 作为第二步",
+    "佛罗里达公司每年 5 月 1 日前交年报（Sunbiz），下一轮用 web_search 补 Sunbiz 文件号 + 注册代理，确认 Active",
+    "美国户认证口径：FCC / CE / RoHS；信里不提 NDAA / UL（话术禁区）"
+   ],
+   "notes": "Sunbiz 搜索页抓取失败（HTTP），可用 web_search \"Optiview Inc sunbiz P00000…\" 补。",
+   "fetched": "2026-10-27",
+   "code": "SA-021"
+  },
+  "SA-042": {
+   "batch": 84,
+   "name": "ANTRONIX, INC.",
+   "iso": "US",
+   "source": "USA · 新泽西州公司（Bloomberg / D&B / Buzzfile 登记摘要）+ 官网 About（2026-10）+ Cablefax / PR Newswire",
+   "url": "https://antronix.com/about-antronix/",
+   "number": "New Jersey corporation（州登记号待补）",
+   "status": "经营中、私人持有（官网 2026-10「still privately held」）",
+   "incorporated": "1980-03-12（Bloomberg foundingDate；官网「since 1980」）",
+   "company_type": "Corporation（New Jersey）· 家族私人持有（Tang 家族）",
+   "sic": [
+    "有线电视 / 宽带网络射频元件设计制造（D&B：Manufacturing – Cable Television Equipment）；Buzzfile：制造 + 进口 + 出口"
+   ],
+   "address": "440 Forsgate Drive, Cranbury, NJ 08512（全球总部 + 技术中心）",
+   "accounts": "私人公司不公开；第三方估计差异极大（Datanyze $4.3M / Buzzfile $38.2M / D&B $117M / RocketReach $182M）→ 只能确认「中型制造商」量级",
+   "accounts_due": "",
+   "size_band": "Cranbury 本部 30–34 人（LinkedIn 11–50）；Buzzfile 口径集团总员工 1,500（含海外制造）",
+   "officers": [
+    "Neil TANG — President / CEO / CTO（创始人 Danny Tang 之子，设计工程师出身）= 拍板人",
+    "Danny (Daniel) TANG — 创始人 / 原 President，2016-03 去世（73 岁）",
+    "Jim TAXDAHL — Vice President of Sales（= 研究档 KP）；Juan Bravo — VP Sales / National Sales Director；Andre Coulombe — VP Sales Canada；Jonathan Rigby — Director International BD；Bill Warner — General Manager",
+    "合作：2017–2018 与芬兰 Teleste 成立合资（北美千兆有线接入）；2024 与 GiaX 合作"
+   ],
+   "psc": "Tang 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**KP Jim Taxdahl 是 VP Sales，不是采购**：他找 Saga 多半是替 Antronix 的客户（北美有线运营商）配套以太网交换机，或为自家 FTTx/DAA 产品线补 OEM 件——先问清是「转售给运营商」还是「进自家产品目录」，前者分销 20%，后者 OEM 30%",
+    "45 年家族制造商、CEO 是工程师：技术问题会问到芯片 / 固件 / 温宽 / MTBF，资料要齐（Marvell 方案 + CENTEC 方案各一页）；别用营销话术",
+    "北美有线运营商供应链对原产地 / 合规敏感：FCC Part 15 报告必备；不主动提 NDAA（话术禁区），被问到再按事实答",
+    "规模中型、付款可靠：T/T 50/50 起步，复购后可谈 30/70；年报不公开，靠官网 News 与 Cablefax 看动向即可"
+   ],
+   "notes": "NJ 州登记在线检索为 JS，未取登记号。",
+   "fetched": "2026-10-27",
+   "code": "SA-042"
+  },
+  "SA-022": {
+   "batch": 84,
+   "name": "ADD-ON COMPUTER PERIPHERALS, LLC（AddOn Networks）",
+   "iso": "US",
+   "source": "USA · BBB 登记摘要 + 加州实体（corporationwiki / OpenCorporates 摘要）+ 纽约州 OGS 合同公告 + CourtListener",
+   "url": "https://www.bbb.org/us/ca/tustin/profile/computer-parts/add-on-computer-peripherals-llc-1126-100022963",
+   "number": "California LLC（2002-12-26）；另有 Add-On Computer Peripherals, Inc.（2000，Active，President James W. Patton）· 联邦税号 05-0549009（NY OGS 合同 PM69867 公告）",
+   "status": "经营中；纽约州 OGS 集中采购合同持有人（PM69867，2024）",
+   "incorporated": "业务始于 2000-04-28；LLC 2002-12-26（BBB）；品牌口径 1999",
+   "company_type": "LLC（California）· 私人持有（Patton / McCormick 管理层）",
+   "sic": [
+    "兼容光模块 / 高速线缆 / 内存升级制造与分销（ZoomInfo：Telecommunication Equipment；Buzzfile：制造 + 进口 + 出口）"
+   ],
+   "address": "15773–15775 Gateway Circle, Tustin, CA 92780（单址；研究档另有 UK / Belgium 仓）",
+   "accounts": "私人公司不公开；估计营收 $61.8M（ZoomInfo / Datanyze）、Cortera 区间 $50–75M；Buzzfile 单址口径 $9.3M",
+   "accounts_due": "加州 LLC 每两年 Statement of Information",
+   "size_band": "201–500 人（ZoomInfo）/ 本址 73 人 → 中型制造分销商",
+   "officers": [
+    "Matt (Matthew) McCORMICK — CEO（= 研究档 KP）",
+    "James W. (Jimmy) PATTON — President（Inc. 实体 2000 年起；LLC Managing Member）→ 所有者家族（Katherine Patton 任 Financial Manager）",
+    "Patrick BEARD — CTO / Manager of Technology；Tom Hurley — VP / Sales Manager；Tim Fazioli — Client Director（NY OGS 合同管理人）；Ray Hagen — Director Product Line Management"
+   ],
+   "psc": "Patton 家族（President / Managing Member / Financial Manager 同姓）",
+   "charges": "诉讼：Add-On Computer Peripherals, LLC v. Harris（联邦法院，移送加州中区）",
+   "prev_names": [
+    "Add-On Computer Peripherals, Inc.（2000，仍 Active）"
+   ],
+   "lines": [
+    "**KP Matt McCormick 是 CEO，但所有者是 Patton 家族（President Jimmy Patton + 财务 Katherine Patton）**：价格与框架 McCormick 能定，付款条款 / 年度量会过 Patton 家——提案抄 Jimmy Patton",
+    "核心生意是兼容光模块 / 线缆（Saga 不供光模块），交换机对他们是「同一客户群的扩展 SKU」→ 最合理的切入是 AddOn 自有标的 OEM 交换机（OEM 30%），卖点「与 AddOn 光模块一起验证过的整机」",
+    "纽约州 OGS 集中采购合同持有人 + 公共部门客户：他们对原产地 / 合规文件要求正规（FCC / RoHS / 原产地声明）；不提 NDAA（禁区），被问按事实答",
+    "201–500 人、估计 $6,000 万营收：付款能力强，但会要 Net 30+ —— 首单 T/T 50/50，复购后可 30/70；年报不公开，看 OGS 合同续约与官网即可"
+   ],
+   "notes": "加州 bizfile 为 JS，实体号未取。",
+   "fetched": "2026-10-27",
+   "code": "SA-022"
+  },
+  "SA-018": {
+   "batch": 84,
+   "name": "SEWELL DEVELOPMENT CORPORATION（DBA Sewell Direct）",
+   "iso": "US",
+   "source": "USA · 犹他州公司登记（OpenCorporates 摘要 us_ut/1034201-0142）+ BBB + SAM/CAGE 镜像（cage.report / teamingpro）",
+   "url": "https://opencorporates.com/companies/us_ut/1034201-0142",
+   "number": "Utah 实体号 1034201-0142 · CAGE 38UZ7（SAM 登记 2005-04-21，2021-03 已过期）",
+   "status": "经营中（官网 / LinkedIn 活跃）；SAM 登记已失效（不再做联邦项目）",
+   "incorporated": "1989-05-11 注册公司（BBB）；业务始于 1983-09-15（SAM）",
+   "company_type": "Corporation（Utah）· 私人持有 · 注册代理 David S. Sewell（Provo）",
+   "sic": [
+    "计算机 / 外设零售与自有品牌产品设计制造（Bloomberg SIC 零售；LinkedIn：Product Design / Branding / Manufacturing / Logistics）"
+   ],
+   "address": "57 North 1380 West, Orem, UT 84057",
+   "accounts": "私人公司不公开；估计营收 $6.5–11M（RocketReach / Prospeo / D&B $10M / Buzzfile $8.9M）",
+   "accounts_due": "Utah 年度续期（成立月）",
+   "size_band": "16–40 人（多源）；LinkedIn 51–200（含兼职 / 仓储）",
+   "officers": [
+    "David S. SEWELL — Owner / 注册代理（= 研究档 KP）→ 老板 = 联系人",
+    "Preston WILY — President（BBB 登记管理人）= 日常经营负责人",
+    "犹他州登记 5 名在任高管（OpenCorporates 需登录，未取姓名）"
+   ],
+   "psc": "David Sewell（Owner）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（David Sewell，Owner 兼注册代理）**，但日常由 President Preston Wily 管——报价给 David，执行细节（PI / 物流 / 标签）找 Preston",
+    "Sewell Direct 是自有品牌电商（线缆 / 转换器 / 网络配件，亚马逊 + 自营站）：买交换机 = 贴 Sewell 标上架 → OEM 30% 线；小而杂 SKU、彩盒 + 条码 + 说明书是刚需（彩盒 $2.5/套 200 起）",
+    "SAM 登记 2021 年起失效：已退出联邦采购 → 不必准备政府项目文件；FCC / CE / RoHS 够用",
+    "估计营收 $600–1,100 万、16–40 人：付款 T/T 50/50 合理；电商节奏——Q4 前（9–10 月）备货，是年度最佳下单窗口"
+   ],
+   "notes": "OpenCorporates 高管名单需登录。",
+   "fetched": "2026-10-27",
+   "code": "SA-018"
+  },
+  "SA-006": {
+   "batch": 84,
+   "name": "VILINK COMMUNICATIONS, INC.（Vi-Link）",
+   "iso": "US",
+   "source": "USA · 加州公司（D&B / ZoomInfo / LinkedIn / 商会名录摘要）+ OCTA 公共招标投标人名单（2018）",
+   "url": "https://www.linkedin.com/company/vilink-communications",
+   "number": "California corporation（实体号待补）",
+   "status": "经营中但明显收缩（Brea 门店 YP 标 CLOSED；D&B Brea 址 1 人 / $74k；Irvine 450 Goddard 为现址）",
+   "incorporated": "1993（LinkedIn / 官网口径）；D&B Brea 址 2005",
+   "company_type": "Corporation（California）· Self-Owned（LinkedIn）",
+   "sic": [
+    "光纤数字传输设备设计制造（模拟 / 非压缩数字 / IP 视频、ITS 智能交通、媒体转换器）；D&B：Fiber Optics Communications Equipment 制造"
+   ],
+   "address": "450 Goddard, Irvine, CA 92618（现）；2913 Saturn St Ste J, Brea, CA 92821（旧）；5160 Avenida de Despacio, Yorba Linda, CA 92887（2018 OCTA 投标地址）",
+   "accounts": "私人公司不公开；ZoomInfo / RocketReach 估 $11–12M 与 D&B $74k 相差三个数量级 → 以「微型」为准",
+   "accounts_due": "",
+   "size_band": "LinkedIn 11–50（历史口径）；D&B 1 人；多地址频繁变更 → 老板 + 极少数人的工作室",
+   "officers": [
+    "Thu PHAM — Owner（商会名录 / D&B 联系人 / OCTA 投标联系人 thup@vilinknet.com）= 研究档 KP → 老板 = 联系人",
+    "Robin SUN — 研究档 KP（邮件来信人），职务未在登记类来源出现"
+   ],
+   "psc": "Thu Pham（Self-Owned）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人 Thu Pham**（Owner），公司已收缩到微型（Brea 关店、D&B 1 人）：别按「1993 年制造商」的体量预期，每单都是小量 → MOQ 1 台、T/T 100% 预付",
+    "2018 年还在投 OCTA（橙县交通局）视频监控分包 → 客户是加州 ITS / 交通项目：主推工业级温宽 PoE（STI 系列）和光口交换机，强调 3 年质保",
+    "三个地址 8 年换了三次：开 PI 前确认收货地址；发票抬头 Vilink Communications, Inc.",
+    "估计营收数据不可信（$74k vs $12M），下一轮不再花时间查财务"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-006"
+  },
+  "SA-059": {
+   "batch": 84,
+   "name": "DATA CONNECT ENTERPRISE, INC.（DCE）",
+   "iso": "US",
+   "source": "USA · 马里兰州公司（BBB 登记 / Bloomberg / Buzzfile）+ SAM.gov 供应商档案（GovTribe 摘要）+ 官网 + LinkedIn",
+   "url": "https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56",
+   "number": "Maryland corporation · SAM.gov 在册（有效至 2026-08-29，GovTribe 2026-02 快照）",
+   "status": "经营中；联邦小企业供应商（DLA 国防后勤局等）",
+   "incorporated": "1989-01-13（Bloomberg / BBB）；LinkedIn 口径 1988",
+   "company_type": "Subchapter S Corporation（Maryland）· 私人持有 · Resident Agent = Barry G. Patton",
+   "sic": [
+    "SIC 5065 / NAICS 423690 电子零部件批发 + 自有制造（工业调制解调器、以太网延长器、蜂窝 ARC 调制解调器、远程接入服务器）；收购了 ctek / relcomm / synxcom / telenetics 等品牌的 IP 与制造权"
+   ],
+   "address": "3405 Olandwood Court, Olney, MD 20832（总部，4,000 sqft）；另有 NJ、CA 仓库 / 办公",
+   "accounts": "私人公司不公开；估计营收 $6.2M（ZoomInfo）/ $9.98M（Buzzfile）",
+   "accounts_due": "Maryland 年报每年 4-15",
+   "size_band": "13–19 人（Buzzfile / Bloomberg）；LinkedIn 11–50",
+   "officers": [
+    "Barry G. PATTON — Founder / President & CEO（1989 至今 36 年）/ Resident Agent = 老板；Patton Electronics 创始人家族的兄弟",
+    "销售分线：Daniel Rowe（SMB，ext 17）、Michael Spellerberg（Utility & SCADA，ext 25）、thaiber@（官网联系页）"
+   ],
+   "psc": "Barry Patton",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 Barry Patton 36 年一人掌舵、并购驱动（买了 ctek / relcomm / synxcom / telenetics 的 IP）**：他要的是「能挂 DCE 标的整条产品线」而不是零散采购 → OEM 30% 线，提案写成「DCE-branded managed PoE / industrial switch line」",
+    "SAM 在册、DLA 供应商、S-Corp 小企业：联邦项目对原产地敏感——按话术禁区不主动提 NDAA；FCC / RoHS / 原产地声明备齐；DLA 件多为工业级 → STI 系列（温宽、3 年质保）优先",
+    "研究档 KP 为「Clients 表联系人」：直接写给 Barry Patton（President），抄 SCADA 线 Michael Spellerberg（工业以太网最对口）",
+    "SAM 登记 2026-08-29 到期，续期即仍在接联邦单，2026-09 后看一眼；13–19 人规模，T/T 50/50"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-059"
+  },
+  "SA-044": {
+   "batch": 84,
+   "name": "KYLAND-USA, LLC（dba DYMEC / K-USA）",
+   "iso": "US",
+   "source": "USA · 官网 About / 联系页 + PRWeb（2015 更名公告）+ PitchBook / Tracxn（并购史）+ LinkedIn",
+   "url": "https://www.dymec.com/about/",
+   "number": "LLC（密苏里 / 得州登记号待补）· Veteran Owned Small Business（VOSB）",
+   "status": "经营中（官网联系页 2026-02 更新）",
+   "incorporated": "Kyland-USA 约 2006–2008 成立；2015-02-19 收购 DYMEC 品牌（Tracxn）；2015-12-23 统一更名 DYMEC（PRWeb）。原 DYMEC, Inc.（1970 年创立）2006-07-31 被 GarrettCom 收购",
+   "company_type": "LLC · 退伍军人所有小企业（VOSB）",
+   "sic": [
+    "工业以太网交换机（温宽、变电站级）、SCADA 通信设备设计；交通流量 AI 计数（LinkedIn）；DYMEC 商标 / 专利归 Kyland-USA, LLC"
+   ],
+   "address": "1107 SE Willow Pl, Blue Springs, MO 64014-5248（总部）；2243 N. Mason Rd Suite 402, Katy, TX 77449（得州办公）",
+   "accounts": "私人公司不公开；估计营收 $1–5M（ContactOut）/ $11.3M（RocketReach，不可信）",
+   "accounts_due": "",
+   "size_band": "4–11 人（PitchBook 4 / Lusha 1–10）；LinkedIn 11–50",
+   "officers": [
+    "Thomas WEST — President（Sales & Engineering），持两项交通组网专利 = 研究档 KP，也是 SA-033 BlueWARRIOR 的 KP → **两户同一人**",
+    "Thom SHERER — 研究档 KP（职务待核）",
+    "历史：John Shaw 为原 DYMEC, Inc. 总裁（2006 并入 GarrettCom）"
+   ],
+   "psc": "退伍军人创始团队（Thomas West 等）",
+   "charges": "",
+   "prev_names": [
+    "Kyland-USA, LLC / KUSA（2008–2015）→ DYMEC（2015-12 起品牌统一）"
+   ],
+   "lines": [
+    "**公司实体叫 Kyland-USA, LLC —— 名字就说明它曾是北京东土（Kyland）在美国的代理 / 合作方**：他们对中国工业交换机的货源、价格、品质门槛非常熟，Saga 工业 STI 系列报价会被拿去和东土比；强调差异点（Marvell 芯片、L3、3 年质保、小单灵活）而不是比低价",
+    "**Thomas West 同时是 SA-033 BlueWARRIOR 的联系人**：两户并一线（㉚ 规则），报价口径必须一致；BlueWARRIOR 大概率是同一团队的另一个品牌 / 渠道，下一轮核",
+    "VOSB（退伍军人小企业）在美国联邦 / 州采购里有配额加分：他们买我们的整机贴 DYMEC 标再投政府项目 → OEM 30% 线；原产地标注要如实（Made in China），不替他们做任何「American Made」背书",
+    "4–11 人的小公司：T/T 100% 预付或 50/50，MOQ 1；得州 + 密苏里两址，PI 前确认收货地"
+   ],
+   "notes": "LLC 登记州未定（MO 或 TX），下一轮用 web_search 补。",
+   "fetched": "2026-10-27",
+   "code": "SA-044"
+  },
+  "SA-033": {
+   "batch": 84,
+   "name": "BlueWARRIOR（bluewarrior.com；法人待核，疑为 Kyland-USA, LLC / DYMEC 团队的第二品牌）",
+   "iso": "US",
+   "source": "USA · 由 SA-044 DYMEC 的登记类来源交叉推定（LinkedIn：Thomas West = DYMEC President）+ 研究档官网快照",
+   "url": "https://www.linkedin.com/in/thomas-west-8425175/",
+   "number": "未查到独立法人登记（待补）",
+   "status": "官网在线（2026-01 价格更新）",
+   "incorporated": "",
+   "company_type": "品牌 / 网店（法人待核）",
+   "sic": [
+    "工业以太网交换机网店（BW7212G 等 = 武汉迈威 MISCOM 贴牌，研究档已证实）"
+   ],
+   "address": "USA（与 DYMEC 同团队：Blue Springs, MO / Katy, TX）",
+   "accounts": "",
+   "accounts_due": "",
+   "size_band": "与 DYMEC 共用团队（4–11 人）",
+   "officers": [
+    "Thomas WEST — 联系人（用户表）= DYMEC President → **SA-033 与 SA-044 同一人、同一团队**"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**与 SA-044 DYMEC 并一线**（㉚ 规则）：BlueWARRIOR 卖迈威贴牌、DYMEC 名字来自东土（Kyland-USA）——这是一个已经有两条中国工业交换机货源的美国小团队，对 Saga 的价值是「第三货源 / Marvell 管理型 / L3」而不是替代",
+    "报价给 Thomas West 一次即可，两个品牌不要分别报不同价",
+    "法人实体下一轮用 web_search \"BlueWARRIOR LLC\" 补（可能是 Kyland-USA, LLC 的 DBA）"
+   ],
+   "notes": "未单独搜索；由 DYMEC 结果交叉得出。",
+   "fetched": "2026-10-27",
+   "code": "SA-033"
+  },
+  "SA-046": {
+   "batch": 84,
+   "name": "IPCamPower（法人待核，Broken Arrow / Claremore, OK）",
+   "iso": "US",
+   "source": "USA · 官网 About（老板自述）+ ZoomInfo / Datanyze / RocketReach / Crunchbase 摘要 + LinkedIn 帖子（2025）",
+   "url": "https://ipcampower.com/pages/about-us",
+   "number": "俄克拉荷马州实体号待补（OK SOS 可查）",
+   "status": "经营中（官网 / LinkedIn 2025–2026 活跃）",
+   "incorporated": "2015 创立（老板自述；ZoomInfo 2019 / Datanyze 2017 口径）；前身 Nelly's Security 2008 起，2023 年出售",
+   "company_type": "私人持有（独资老板 Sean Nelson）",
+   "sic": [
+    "IP 摄像头用 PoE 交换机 / 注入器 / 分离器 / PoE 供电显示器与机柜灯的自有品牌电商（Shopify）；2025 推出「UL Listed + TAA Compliant」非管理型 PoE 交换机线（3 年质保）"
+   ],
+   "address": "501 N Aspen Ave, Broken Arrow, OK 74012",
+   "accounts": "私人公司不公开；估计营收 $1M（RocketReach 2025）/ $3.9M（Datanyze）",
+   "accounts_due": "",
+   "size_band": "1–17 人（RocketReach 1 / Datanyze 17 / ZoomInfo 11–50）",
+   "officers": [
+    "Sean NELSON — Owner / Founder / 发明人（= 研究档 KP）；俄克拉荷马州立大学商科；2008 创 Nelly's Security（CCTV 分销，19 人）并于 2023 出售 → 老板 = 联系人"
+   ],
+   "psc": "Sean Nelson 100%",
+   "charges": "",
+   "prev_names": [
+    "Nelly's Security（2008–2023，已出售，非同一法人）"
+   ],
+   "lines": [
+    "**老板 = 联系人，且是产品发明型老板**：Sean Nelson 自己定义产品（PoE 供电显示器、机柜灯等），想要的是「按他规格做的独家 SKU」→ OEM 30% 线 + 小批量定制（丝印 / 彩盒 / 固件默认值），报价要带 NRE 与 MOQ 两档",
+    "**2025 年他主推「UL Listed + TAA Compliant」PoE 线**：TAA 合规排除中国原产、Saga 无 UL（规则）→ 这条线 Saga 做不了；能做的是他的非 TAA 常规 PoE 交换机与 802.3bt 大功率 / 工业款（STI 系列），信里不碰 UL / TAA 字眼，只报能做的",
+    "2023 年卖掉分销公司、专心做产品：现金充裕、决策快、量小而频 —— MOQ 1 箱、T/T 100% 预付、4–7 天交期是他要的节奏",
+    "俄克拉荷马 SOS 登记号下一轮补（确认 LLC 名称 / 成立日）"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-046"
+  },
+  "SA-058": {
+   "batch": 84,
+   "name": "Alpha Net Communications（San Antonio, TX；法人形式待核）",
+   "iso": "US",
+   "source": "USA · 官网 About / 联系页 + ZoomInfo / LeadIQ / Yelp（店主信息）+ Humantic / RocketReach",
+   "url": "https://www.alphanetcom.com/",
+   "number": "得州实体（SOS 登记号待补）",
+   "status": "经营中（官网 2026、ProvenExpert 2026-03）",
+   "incorporated": "1986（创始人 Thomas J. Cline；2012 年底退休）",
+   "company_type": "家族私营（第二代 Nathan Cline 任 President）",
+   "sic": [
+    "结构化布线承包商（Cat 5e/6/6A、光纤熔接 / 认证）+ 托管 IP 电话 / Wi-Fi 6E–7 / IP 摄像头安装；SIC 4812 / NAICS 3341（名录口径）"
+   ],
+   "address": "11031 Wye Dr Ste 102, San Antonio, TX 78217（办公）；11313 Lone Shadow Trail, TX 78233（仓 / 旧址）；P.O. Box 18122",
+   "accounts": "私人公司不公开；LeadIQ 估 $1–10M",
+   "accounts_due": "Texas 每年 5-15 特许经营税申报",
+   "size_band": "2–10 人（ZoomInfo 1–10 / LeadIQ 5）",
+   "officers": [
+    "Nathan \"Nate\" CLINE — President（2013 起；2007–2012 VP Sales）/ Yelp 店主 = 研究档 KP → 老板 = 联系人（第二代）",
+    "Thomas J. CLINE — 创始人（1986），2012 年底退休"
+   ],
+   "psc": "Cline 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（第二代 Nate Cline）**，5 人左右的布线承包商：买交换机是给自己安装项目配套（10–500 人规模的本地企业客户）→ 集成 25% 档；每单 1–10 台，但项目稳定、复购靠「有货 + 快」",
+    "业务画像 = 布线 + IP 摄像头 + Wi-Fi 7 + VoIP：PoE 交换机是刚需配件（STC-028GP / STC-228GP / STC-2024GP、2.5G PoE 配 Wi-Fi 7 AP：HRUI STC-114XGDGP）；强调即插即用与 3 年质保，不推 L3",
+    "小承包商现金流按项目走：T/T 100% 预付 + 小包裹快递（百运网 DAP）最省事；德州无州所得税但有特许税申报，5 月忙季避开",
+    "得州 SOS 登记号与法人形式（LLC / Inc.）下一轮补"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SA-058"
   }
  }
 }

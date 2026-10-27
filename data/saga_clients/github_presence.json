@@ -12529,5 +12529,1195 @@
   "accounts": [],
   "repos_mentioning": [],
   "checked_at": "2026-10-27T06:27:09Z"
+ },
+ "SB-564": {
+  "domain": "voiptech.co.mz",
+  "accounts": [
+   {
+    "login": "latitude-dev",
+    "type": "Organization",
+    "url": "https://github.com/latitude-dev",
+    "name": "Latitude",
+    "blog": "https://latitude.so",
+    "email": "hello@latitude.so",
+    "company": null,
+    "public_repos": 47,
+    "created_at": "2022-02-03T10:12:16Z",
+    "updated_at": "2026-07-10T15:00:15Z",
+    "bio": "Self-healing AI Agents",
+    "match": "name",
+    "repos": [
+     {
+      "name": "latitude-llm",
+      "pushed_at": "2026-10-27T01:15:17Z",
+      "lang": "TypeScript",
+      "desc": "Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify t",
+      "fork": false
+     },
+     {
+      "name": "promptl",
+      "pushed_at": "2026-10-09T06:14:06Z",
+      "lang": "TypeScript",
+      "desc": "PromptL is a templating language specifically designed for LLM prompting",
+      "fork": false
+     },
+     {
+      "name": "skills",
+      "pushed_at": "2026-09-09T12:17:10Z",
+      "lang": "HTML",
+      "desc": "Skills to integrate Latitude telemetry",
+      "fork": false
+     },
+     {
+      "name": "rosetta-js",
+      "pushed_at": "2026-08-26T09:30:19Z",
+      "lang": "TypeScript",
+      "desc": "The translation layer for LLM provider messages",
+      "fork": false
+     },
+     {
+      "name": "coding-agent-benchmark",
+      "pushed_at": "2026-08-04T12:46:24Z",
+      "lang": "JavaScript",
+      "desc": "Benchmark of frontier models as coding agents: cost per solved task, latency, tool reliability, and refusals, with every",
+      "fork": false
+     },
+     {
+      "name": "agentum",
+      "pushed_at": "2026-06-29T14:07:35Z",
+      "lang": "TypeScript",
+      "desc": "same agent. multiple harnesses",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "latitudegames",
+    "type": "Organization",
+    "url": "https://github.com/latitudegames",
+    "name": "Latitude",
+    "blog": "",
+    "email": "contact-us@latitude.io",
+    "company": null,
+    "public_repos": 13,
+    "created_at": "2019-12-08T23:11:35Z",
+    "updated_at": "2026-07-01T03:00:09Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "react-advanced-cropper",
+      "pushed_at": "2026-08-10T20:31:37Z",
+      "lang": null,
+      "desc": "The react cropper library that embraces power of the advanced cropper core to give the possibility to create croppers th",
+      "fork": true
+     },
+     {
+      "name": "expo",
+      "pushed_at": "2026-07-17T17:24:46Z",
+      "lang": "TypeScript",
+      "desc": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "fork": true
+     },
+     {
+      "name": "clawcraft",
+      "pushed_at": "2026-04-23T03:59:32Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "expo-open-ota",
+      "pushed_at": "2026-03-30T16:58:32Z",
+      "lang": "Go",
+      "desc": "An open-source self-hosted custom updates server implementing the Expo Updates protocol, built for production. Supports ",
+      "fork": true
+     },
+     {
+      "name": "llama-tokenizer-js",
+      "pushed_at": "2024-02-01T04:49:02Z",
+      "lang": null,
+      "desc": "JS tokenizer for LLaMA",
+      "fork": true
+     },
+     {
+      "name": "kubeflow-distribution",
+      "pushed_at": "2023-11-14T18:51:22Z",
+      "lang": null,
+      "desc": "Blueprints for Deploying Kubeflow on Google Cloud Platform and Anthos",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:27:20Z"
+ },
+ "SB-566": {
+  "domain": "pcgbilgisayar.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:27:34Z"
+ },
+ "SB-567": {
+  "domain": "global-tgm.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:27:47Z"
+ },
+ "SB-569": {
+  "domain": "cablematic.com",
+  "accounts": [
+   {
+    "login": "Cablematic",
+    "type": "Organization",
+    "url": "https://github.com/Cablematic",
+    "name": "Cablematic",
+    "blog": "https://www.cablematic.com",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2018-10-30T16:10:36Z",
+    "updated_at": "2024-08-30T16:55:15Z",
+    "bio": "",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "palegger/Health-Tech",
+    "url": "https://github.com/palegger/Health-Tech",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2023-06-20T14:21:25Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "therealdreg/okhi",
+    "url": "https://github.com/therealdreg/okhi",
+    "desc": "Open Keylogger Hardware Implant - USB & PS2 Keyboards",
+    "stars": 112,
+    "pushed_at": "2026-10-12T19:58:09Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:27:58Z"
+ },
+ "SB-570": {
+  "domain": "certech.com.au",
+  "accounts": [
+   {
+    "login": "Certech-Software",
+    "type": "Organization",
+    "url": "https://github.com/Certech-Software",
+    "name": "Certech",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2025-10-27T13:24:42Z",
+    "updated_at": "2026-01-27T00:02:24Z",
+    "bio": "Empresa de desenvolvimento de software.",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:28:10Z"
+ },
+ "SB-571": {
+  "domain": "energus.eu",
+  "accounts": [
+   {
+    "login": "energusNorthSydney",
+    "type": "User",
+    "url": "https://github.com/energusNorthSydney",
+    "name": "Energus",
+    "blog": "https://energus.com.au/",
+    "email": null,
+    "company": "Energus",
+    "public_repos": 0,
+    "created_at": "2026-06-02T04:09:47Z",
+    "updated_at": "2026-06-02T04:15:01Z",
+    "bio": "Energus is a North Sydney commercial and industrial solar company specialising in solar panel installations and battery storage systems for commercial builds ac",
+    "match": "company"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:28:22Z"
+ },
+ "SB-572": {
+  "domain": "fourline.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:28:37Z"
+ },
+ "SB-573": {
+  "domain": "integranetwork.es",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:28:52Z"
+ },
+ "SB-574": {
+  "domain": "lanberg.pl",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "alexakajustin/OmniBuy",
+    "url": "https://github.com/alexakajustin/OmniBuy",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-07T10:40:27Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:29:06Z"
+ },
+ "SB-575": {
+  "domain": "marbim.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:29:19Z"
+ },
+ "SB-576": {
+  "domain": "matrix.es",
+  "accounts": [
+   {
+    "login": "JingMatrix",
+    "type": "User",
+    "url": "https://github.com/JingMatrix",
+    "name": "JingMatrix",
+    "blog": "https://jingmatrix.github.io/pdf/cv.pdf",
+    "email": "jingmatrix@gmail.com",
+    "company": "[Founder] Matrix Transformation",
+    "public_repos": 87,
+    "created_at": "2016-12-09T12:26:12Z",
+    "updated_at": "2026-09-21T16:12:25Z",
+    "bio": "Doctor of mathematics (PhD).\r\nI enjoy poems and philosophy.\r\nAvailable for business collaboration or consultation.",
+    "match": "company",
+    "repos": [
+     {
+      "name": "Vector",
+      "pushed_at": "2026-10-27T01:55:57Z",
+      "lang": "Kotlin",
+      "desc": "Modern Xposed Framework",
+      "fork": false
+     },
+     {
+      "name": "NeoZygisk",
+      "pushed_at": "2026-10-26T19:22:16Z",
+      "lang": "C++",
+      "desc": "Zygote injection with ptrace",
+      "fork": false
+     },
+     {
+      "name": "gnome-shell-extension-gsconnect",
+      "pushed_at": "2026-10-26T13:24:53Z",
+      "lang": "JavaScript",
+      "desc": "KDE Connect implementation for GNOME",
+      "fork": true
+     },
+     {
+      "name": "KernelSU",
+      "pushed_at": "2026-10-25T01:53:32Z",
+      "lang": "Kotlin",
+      "desc": "Research of Kernel level attack via KernelSU",
+      "fork": true
+     },
+     {
+      "name": "TEESimulator",
+      "pushed_at": "2026-10-24T16:44:59Z",
+      "lang": "C++",
+      "desc": "Software simulation for Android hardware-backed key pairs with key attestation",
+      "fork": false
+     },
+     {
+      "name": "LSPatch",
+      "pushed_at": "2026-10-24T09:59:57Z",
+      "lang": "Kotlin",
+      "desc": "A rootless Xposed framework that embeds Vector into an app by patching its APK — no root, no Zygisk.",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "shrekshrek/css3d-matrix-es6",
+    "url": "https://github.com/shrekshrek/css3d-matrix-es6",
+    "desc": "3d engine lite. rendering by css3 & matrix.",
+    "stars": 83,
+    "pushed_at": "2018-03-15T09:57:10Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "matt-williams/matrix-esp8266",
+    "url": "https://github.com/matt-williams/matrix-esp8266",
+    "desc": "Matrix on the ESP8266",
+    "stars": 22,
+    "pushed_at": "2017-02-17T09:31:11Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "bmzstore/Stop-Lamp-Dot-Matrix-ESP8266",
+    "url": "https://github.com/bmzstore/Stop-Lamp-Dot-Matrix-ESP8266",
+    "desc": "",
+    "stars": 10,
+    "pushed_at": "2024-11-02T03:56:15Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "anishagartia/fundamental-matrix-estimation",
+    "url": "https://github.com/anishagartia/fundamental-matrix-estimation",
+    "desc": "Fundamental Matrix Estimation with RANSAC",
+    "stars": 5,
+    "pushed_at": "2016-11-21T05:16:59Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "szerintedmi/kinetic-mirror-matrix-esp32",
+    "url": "https://github.com/szerintedmi/kinetic-mirror-matrix-esp32",
+    "desc": "",
+    "stars": 15,
+    "pushed_at": "2026-02-09T20:20:03Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:29:32Z"
+ },
+ "SB-577": {
+  "domain": "metaworldcomputers.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:29:46Z"
+ },
+ "SB-578": {
+  "domain": "niaar.net",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:29:57Z"
+ },
+ "SB-579": {
+  "domain": "nnc.net.vn",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:30:13Z"
+ },
+ "SB-581": {
+  "domain": "sheildify.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:30:21Z"
+ },
+ "SB-582": {
+  "domain": "smartintercom.eu",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:30:36Z"
+ },
+ "SB-584": {
+  "domain": "vanphatdat.vn",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:30:47Z"
+ },
+ "SB-585": {
+  "domain": "vidos.pl",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "mantenimientovidosa-bot/vidosa-plantas-electricas-releases",
+    "url": "https://github.com/mantenimientovidosa-bot/vidosa-plantas-electricas-releases",
+    "desc": "APKs de la app de Plantas Eléctricas de VIDOSA",
+    "stars": 0,
+    "pushed_at": "2026-05-16T11:15:18Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:31:01Z"
+ },
+ "SB-586": {
+  "domain": "matrixsystems.co.ke",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "morriskitana/matrix-website",
+    "url": "https://github.com/morriskitana/matrix-website",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-19T09:41:32Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:31:14Z"
+ },
+ "SB-588": {
+  "domain": "wannt.co",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:31:27Z"
+ },
+ "SB-589": {
+  "domain": "bydemes.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:31:39Z"
+ },
+ "SB-590": {
+  "domain": "carritech.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:31:54Z"
+ },
+ "SB-591": {
+  "domain": "elementuengenharia.com.br",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:32:06Z"
+ },
+ "SB-592": {
+  "domain": "fotech.com.tr",
+  "accounts": [
+   {
+    "login": "aamirgulistan",
+    "type": "User",
+    "url": "https://github.com/aamirgulistan",
+    "name": "Aamir Gulistan",
+    "blog": "https://www.linkedin.com/in/aamirgulistan/",
+    "email": null,
+    "company": "Fotech Solution",
+    "public_repos": 4,
+    "created_at": "2019-11-14T11:35:01Z",
+    "updated_at": "2023-02-21T19:44:27Z",
+    "bio": "Sensor Development Engineer at Fotech Solution",
+    "match": "company",
+    "repos": [
+     {
+      "name": "Dog-Breed-Classifier",
+      "pushed_at": "2020-07-14T12:58:08Z",
+      "lang": "HTML",
+      "desc": "Deep Learning Prohects",
+      "fork": false
+     },
+     {
+      "name": "ISL-linear-regression",
+      "pushed_at": "2020-06-08T20:45:00Z",
+      "lang": null,
+      "desc": "",
+      "fork": true
+     },
+     {
+      "name": "Machine-learning",
+      "pushed_at": "2020-01-12T17:26:54Z",
+      "lang": "Python",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "Arduino",
+      "pushed_at": "2019-11-14T11:42:00Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:32:19Z"
+ },
+ "SB-593": {
+  "domain": "ibdglobal.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:32:31Z"
+ },
+ "SB-594": {
+  "domain": "kmsoltec.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:32:44Z"
+ },
+ "SB-595": {
+  "domain": "mpcl.in",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "rom1mouret/neurosymbolic",
+    "url": "https://github.com/rom1mouret/neurosymbolic",
+    "desc": "detecting domain boundaries during inference",
+    "stars": 1,
+    "pushed_at": "2021-06-23T16:17:01Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "jplaui/janus_artifacts",
+    "url": "https://github.com/jplaui/janus_artifacts",
+    "desc": "Collection of coding artifacts to reproduce the findings of the paper Janus",
+    "stars": 0,
+    "pushed_at": "2025-06-10T22:30:59Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:32:58Z"
+ },
+ "SB-596": {
+  "domain": "optokon.pl",
+  "accounts": [
+   {
+    "login": "OPTOKON-devel",
+    "type": "User",
+    "url": "https://github.com/OPTOKON-devel",
+    "name": "OPTOKON, a.s.",
+    "blog": "https://www.optokon.com",
+    "email": null,
+    "company": "OPTOKON, a.s.",
+    "public_repos": 2,
+    "created_at": "2021-03-12T08:58:40Z",
+    "updated_at": "2025-10-23T07:50:17Z",
+    "bio": "",
+    "match": "company",
+    "repos": [
+     {
+      "name": "pimd",
+      "pushed_at": "2022-08-11T06:59:04Z",
+      "lang": null,
+      "desc": "PIM-SM/SSM multicast routing for UNIX and Linux",
+      "fork": true
+     },
+     {
+      "name": "pimd-dense",
+      "pushed_at": "2022-05-02T17:18:29Z",
+      "lang": null,
+      "desc": "Continuation of the original pimd-dense from 1998-1999, gaps filled with frog DNA from pimd",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:33:09Z"
+ },
+ "SB-597": {
+  "domain": "plus-nn.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:34:15Z"
+ },
+ "SB-598": {
+  "domain": "solway.co.kr",
+  "accounts": [
+   {
+    "login": "Solway-Shastra",
+    "type": "Organization",
+    "url": "https://github.com/Solway-Shastra",
+    "name": "Solway",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 4,
+    "created_at": "2022-11-19T09:24:16Z",
+    "updated_at": "2023-03-06T20:40:56Z",
+    "bio": "Plan Your Itineraries",
+    "match": "name",
+    "repos": [
+     {
+      "name": "gpt-travel-advisor",
+      "pushed_at": "2023-04-02T09:02:30Z",
+      "lang": "TypeScript",
+      "desc": "reference architecture for building a travel application with GPT3",
+      "fork": true
+     },
+     {
+      "name": "frontend",
+      "pushed_at": "2023-04-02T08:55:48Z",
+      "lang": "JavaScript",
+      "desc": "Frontend for Solway Project",
+      "fork": false
+     },
+     {
+      "name": "solway-core",
+      "pushed_at": "2023-04-02T08:41:02Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": ".github",
+      "pushed_at": "2023-01-27T19:54:09Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "jbjypark/solway_history",
+    "url": "https://github.com/jbjypark/solway_history",
+    "desc": "solway.co.kr",
+    "stars": 0,
+    "pushed_at": "2015-03-04T09:49:06Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:34:27Z"
+ },
+ "SB-599": {
+  "domain": "symanitron.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:34:40Z"
+ },
+ "SB-600": {
+  "domain": "t1nexus.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:34:51Z"
+ },
+ "SB-601": {
+  "domain": "visus.pt",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:35:05Z"
+ },
+ "SB-602": {
+  "domain": "aniltelekom.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:35:18Z"
+ },
+ "SB-604": {
+  "domain": "burnsprecisionag.com.au",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:35:29Z"
+ },
+ "SB-605": {
+  "domain": "elkov.cz",
+  "accounts": [
+   {
+    "login": "ELKOV-group",
+    "type": "Organization",
+    "url": "https://github.com/ELKOV-group",
+    "name": "ELKOV elektro",
+    "blog": "",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2024-03-19T14:06:40Z",
+    "updated_at": "2026-09-30T14:39:39Z",
+    "bio": "",
+    "match": "name"
+   },
+   {
+    "login": "ELKOVOLD",
+    "type": "Organization",
+    "url": "https://github.com/ELKOVOLD",
+    "name": "ELKOVOLD",
+    "blog": "https://elkov.cz",
+    "email": null,
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2023-11-02T07:46:20Z",
+    "updated_at": "2024-03-19T12:56:43Z",
+    "bio": "ELKOV elektro",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "lubomir-sach/alexa_top_sites_cz",
+    "url": "https://github.com/lubomir-sach/alexa_top_sites_cz",
+    "desc": "",
+    "stars": 5,
+    "pushed_at": "2015-05-15T20:42:35Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:35:40Z"
+ },
+ "SB-606": {
+  "domain": "hmesolutions.com.au",
+  "accounts": [
+   {
+    "login": "fmslive",
+    "type": "Organization",
+    "url": "https://github.com/fmslive",
+    "name": "HME Solutions",
+    "blog": "hmesolutions.com.au",
+    "email": "support@hmesolutions.com.au",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2024-12-24T11:04:06Z",
+    "updated_at": "2026-08-10T08:51:10Z",
+    "bio": "",
+    "match": "strong"
+   },
+   {
+    "login": "HME-Solutions",
+    "type": "Organization",
+    "url": "https://github.com/HME-Solutions",
+    "name": "HME Solutions",
+    "blog": "",
+    "email": "miguel.ortega03@gmail.com",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2018-08-04T05:37:36Z",
+    "updated_at": "2022-07-12T02:29:45Z",
+    "bio": "",
+    "match": "name"
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:35:57Z"
+ },
+ "SB-607": {
+  "domain": "jtoptics.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:36:12Z"
+ },
+ "SB-609": {
+  "domain": "ablelink.co.th",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:36:22Z"
+ },
+ "SB-611": {
+  "domain": "avanis.de",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "AntonSkrub/GoGit-Integration",
+    "url": "https://github.com/AntonSkrub/GoGit-Integration",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-07-29T22:02:55Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "amanyad28/AvanishDemo",
+    "url": "https://github.com/amanyad28/AvanishDemo",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-03-02T14:07:33Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "avanish-dex/avanish-dex",
+    "url": "https://github.com/avanish-dex/avanish-dex",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-07-23T05:44:20Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "avanishp-dev/avanishp-dev",
+    "url": "https://github.com/avanishp-dev/avanishp-dev",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-08T08:39:12Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "avanishp-dev/avanish_demo",
+    "url": "https://github.com/avanishp-dev/avanish_demo",
+    "desc": "Its my first demo Git Repository",
+    "stars": 0,
+    "pushed_at": "2026-02-02T19:47:56Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:36:34Z"
+ },
+ "SB-612": {
+  "domain": "clouditnetwork.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:36:47Z"
+ },
+ "SB-613": {
+  "domain": "cozzmic.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:37:00Z"
+ },
+ "SB-614": {
+  "domain": "focomm-cabling.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:37:14Z"
+ },
+ "SB-615": {
+  "domain": "handsonsecurity.co.za",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:37:28Z"
+ },
+ "SB-616": {
+  "domain": "intant.kz",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "qwertukg/intant-bot",
+    "url": "https://github.com/qwertukg/intant-bot",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-06-03T15:27:17Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "zversin/smarttech_landing",
+    "url": "https://github.com/zversin/smarttech_landing",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-10-26T17:23:34Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:37:42Z"
+ },
+ "SB-617": {
+  "domain": "ipc2u.com",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "risototh/grblHAL-modbus-io",
+    "url": "https://github.com/risototh/grblHAL-modbus-io",
+    "desc": "grblHAL plugin for MODBUS I/O",
+    "stars": 3,
+    "pushed_at": "2024-08-14T18:54:06Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "ul-gh/cheap_modbus_rtu",
+    "url": "https://github.com/ul-gh/cheap_modbus_rtu",
+    "desc": "Lightweight control of cheap Modbus RTU components using Python",
+    "stars": 1,
+    "pushed_at": "2023-01-08T02:15:24Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "sanjas12/15_Modbus_ASCII",
+    "url": "https://github.com/sanjas12/15_Modbus_ASCII",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-10-01T09:25:30Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "potatopplking/modbus-lib",
+    "url": "https://github.com/potatopplking/modbus-lib",
+    "desc": "Yet another MODBUS RTU slave library. Work in progress.",
+    "stars": 0,
+    "pushed_at": "2022-10-02T12:12:28Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Benedito821/modbus_tcp",
+    "url": "https://github.com/Benedito821/modbus_tcp",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2025-09-08T09:39:00Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:37:54Z"
+ },
+ "SB-618": {
+  "domain": "jeatech.com.au",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:38:07Z"
+ },
+ "SB-619": {
+  "domain": "jmdv.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:38:18Z"
+ },
+ "SB-620": {
+  "domain": "karma-group.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:38:26Z"
+ },
+ "SB-621": {
+  "domain": "lanshack.com",
+  "accounts": [
+   {
+    "login": "LANshack",
+    "type": "User",
+    "url": "https://github.com/LANshack",
+    "name": "Tom Damiano",
+    "blog": "lanshack.com",
+    "email": "tom@lanshack.com",
+    "company": "LANshack",
+    "public_repos": 0,
+    "created_at": "2024-06-17T16:14:29Z",
+    "updated_at": "2026-10-05T17:07:54Z",
+    "bio": "",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "cyqsimon/ProxyList",
+    "url": "https://github.com/cyqsimon/ProxyList",
+    "desc": "A Personal SwitchyOmega Proxy List",
+    "stars": 0,
+    "pushed_at": "2026-08-10T08:32:31Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "DanySafatli/network-handbook",
+    "url": "https://github.com/DanySafatli/network-handbook",
+    "desc": "Study tool for CompTIA Network+ exam",
+    "stars": 36,
+    "pushed_at": "2017-03-21T13:25:28Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "theGreenJedi/Comptia-Network-",
+    "url": "https://github.com/theGreenJedi/Comptia-Network-",
+    "desc": "hodepodge notes, repos etc",
+    "stars": 0,
+    "pushed_at": "2022-06-21T17:31:24Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:38:38Z"
+ },
+ "SB-622": {
+  "domain": "market-telecom.kz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:38:52Z"
+ },
+ "SB-623": {
+  "domain": "smol-electro.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:39:03Z"
+ },
+ "SB-624": {
+  "domain": "ubwh.com.au",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "UBWH/tasmota_plus",
+    "url": "https://github.com/UBWH/tasmota_plus",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2021-05-13T11:52:58Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T06:39:13Z"
+ },
+ "SB-625": {
+  "domain": "virtware.pt",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:39:21Z"
+ },
+ "SB-626": {
+  "domain": "visiondynamics.de",
+  "accounts": [
+   {
+    "login": "Visiondynamics-ag",
+    "type": "Organization",
+    "url": "https://github.com/Visiondynamics-ag",
+    "name": "Visiondynamics AG",
+    "blog": "",
+    "email": "support@visiondynamics.ch",
+    "company": null,
+    "public_repos": 17,
+    "created_at": "2023-03-26T21:30:22Z",
+    "updated_at": "2026-03-29T19:26:18Z",
+    "bio": "A private technology company",
+    "match": "name",
+    "repos": [
+     {
+      "name": "infisical",
+      "pushed_at": "2026-10-23T15:53:44Z",
+      "lang": null,
+      "desc": "Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.",
+      "fork": true
+     },
+     {
+      "name": "indexer-api-ts",
+      "pushed_at": "2026-08-08T05:05:28Z",
+      "lang": "TypeScript",
+      "desc": "Random API Calls Build for Indexer",
+      "fork": false
+     },
+     {
+      "name": "zera-wallet-integration-test",
+      "pushed_at": "2026-05-06T17:13:02Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "zera-block-gossiper",
+      "pushed_at": "2026-03-31T18:02:31Z",
+      "lang": "Go",
+      "desc": "Gossips blocks to specified addr via grpc utilizing ZV indexer",
+      "fork": false
+     },
+     {
+      "name": "zera-scan-ui",
+      "pushed_at": "2026-02-09T18:43:38Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "zpay",
+      "pushed_at": "2026-02-09T18:42:21Z",
+      "lang": "TypeScript",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:39:32Z"
+ },
+ "SB-627": {
+  "domain": "zonagsm.su",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:39:44Z"
+ },
+ "SB-628": {
+  "domain": "bright.net.my",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:39:55Z"
+ },
+ "SB-629": {
+  "domain": "c-techeg.com",
+  "accounts": [
+   {
+    "login": "Cambalache-Technologies",
+    "type": "Organization",
+    "url": "https://github.com/Cambalache-Technologies",
+    "name": "C-Tech",
+    "blog": "http://c-tech.com.ar",
+    "email": "info@c-tech.com.ar",
+    "company": null,
+    "public_repos": 4,
+    "created_at": "2021-04-08T13:25:05Z",
+    "updated_at": "2026-07-15T07:01:42Z",
+    "bio": "",
+    "match": "name",
+    "repos": [
+     {
+      "name": "cgcloud__RetailRepositoryData",
+      "pushed_at": "2025-04-01T16:20:33Z",
+      "lang": null,
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "web-ctech-astro",
+      "pushed_at": "2025-01-21T17:01:35Z",
+      "lang": "CSS",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "navent-inmuebles24-mediakit",
+      "pushed_at": "2023-10-02T20:00:04Z",
+      "lang": "HTML",
+      "desc": "",
+      "fork": false
+     },
+     {
+      "name": "lwctraining",
+      "pushed_at": "2023-02-10T15:13:40Z",
+      "lang": "JavaScript",
+      "desc": "",
+      "fork": false
+     }
+    ]
+   },
+   {
+    "login": "jaborandi",
+    "type": "Organization",
+    "url": "https://github.com/jaborandi",
+    "name": "C.TECH",
+    "blog": "https://ctech.digital",
+    "email": "imprensa@jaborandi.sp.gov.br",
+    "company": null,
+    "public_repos": 9,
+    "created_at": "2020-12-03T19:25:35Z",
+    "updated_at": "2022-09-14T14:45:18Z",
+    "bio": "Centro Tecnológico de Jaborandi",
+    "match": "name",
+    "repos": [
+     {
+      "name": "frontend-ctech",
+      "pushed_at": "2023-06-21T13:33:02Z",
+      "lang": "Vue",
+      "desc": "FrontEnd do sistema de gestão do CTECH",
+      "fork": false
+     },
+     {
+      "name": "backend-ctech",
+      "pushed_at": "2023-06-20T14:13:55Z",
+      "lang": "PHP",
+      "desc": "BackEnd do sistema de gestão do CTECH",
+      "fork": false
+     },
+     {
+      "name": "psicologia-frontend",
+      "pushed_at": "2023-06-12T18:36:37Z",
+      "lang": "Vue",
+      "desc": "FrontEnd do sistema de gerenciamento de consultas psicológicas do município",
+      "fork": false
+     },
+     {
+      "name": "psicologia-backend",
+      "pushed_at": "2023-06-12T14:17:37Z",
+      "lang": "PHP",
+      "desc": "BackEnd do sistema de gerenciamento de consultas psicológicas no município",
+      "fork": false
+     },
+     {
+      "name": "php-laravel-api",
+      "pushed_at": "2022-11-28T03:55:26Z",
+      "lang": "PHP",
+      "desc": "API da saude",
+      "fork": false
+     },
+     {
+      "name": "ctech",
+      "pushed_at": "2022-09-15T16:33:59Z",
+      "lang": "Blade",
+      "desc": "Sistema de gestão do CTECH",
+      "fork": false
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:40:07Z"
+ },
+ "SB-630": {
+  "domain": "citsindia.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:40:21Z"
+ },
+ "SB-631": {
+  "domain": "gigaxysafe.com.ng",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T06:40:35Z"
  }
 }
