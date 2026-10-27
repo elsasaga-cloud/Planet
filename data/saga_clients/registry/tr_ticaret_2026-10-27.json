@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 13
+  "count": 16
  },
  "rows": {
   "SA-086": {
@@ -447,6 +447,102 @@
    "fetched": "2026-10-27",
    "code": "SB-167",
    "_src": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）"
+  },
+  "SB-185": {
+   "batch": 88,
+   "name": "ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ SAN. TİC. LTD. ŞTİ.",
+   "iso": "TR",
+   "source": "Türkiye · 官网 Hakkımızda + LinkedIn 公司页（2019 成立）+ ZoomInfo / RocketReach（团队 / 人数）；Ticaret Sicili 付费未取",
+   "url": "http://zeytek.com.tr/Hakkimizda",
+   "number": "Ltd. Şti.（İstanbul Ticaret Sicili；MERSİS 未取）",
+   "status": "Aktif（官网 + LinkedIn 2026 更新）",
+   "incorporated": "2019（创始人自述 15 年行业经验）",
+   "company_type": "Limited Şirket · 私人",
+   "sic": [
+    "弱电结构化布线 + 机房 / 基础设施材料供应（工业设施、政府大楼、医院、银行、连锁店、高层）—— 材料供应商 / 小分销"
+   ],
+   "address": "Çatalmeşe Mah. Saray Cad. No:261/A, Çekmeköy / İstanbul（ZoomInfo 另列 Mevlana Mh. Kanun Sk. 34791）",
+   "accounts": "Ltd. Şti. 无公开财报",
+   "accounts_due": "—",
+   "size_band": "微型（RocketReach 5 人：总协调 + 销售助理 + 记账；ZoomInfo 11–50 偏高）",
+   "officers": [
+    "Mehmet ZEYTİNLİ — Genel Koordinatör（2019 起；公司名 Zeytek = Zeytinli + Teknoloji）= 研究档 KP → **老板 = 联系人**（Ltd. Şti. 股东付费未取，姓名即公司名）",
+    "Kamuran İPEK — Sales Assistant（2020 起）；Sinem DOĞAN — Bookkeeping"
+   ],
+   "psc": "Mehmet Zeytinli（推定，姓名即商号）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Zeytek 是 Mehmet Zeytinli 2019 年用自己姓氏起的 5 人布线材料供应商（伊斯坦布尔亚洲侧）；展会上只交换了名片 + WhatsApp，没谈** → 他们卖布线材料给弱电承包商，交换机是顺手配套：分销 20% 档，8/16/24 口 PoE 非管理 + 机柜款（STC-028GP / STC-2024GP）；首触走 WhatsApp（已加）发一页 PDF 而非邮件群发",
+    "政府大楼 / 医院 / 银行项目按个案守界；土耳其 100% 预付或 50/50；CE / RoHS；DAP 伊斯坦布尔走 Saga 百运网线；TR 周四 10–12",
+    "无年报可查；LinkedIn 619 粉、持续更新 = 在营"
+   ],
+   "notes": "研究档 legal_name / hq 已有；founded 回填 2019；size 5 人。",
+   "fetched": "2026-10-27",
+   "code": "SB-185"
+  },
+  "SB-187": {
+   "batch": 88,
+   "name": "PELİKAN BİLGİSAYAR HİZMETLERİ İTHALAT İHRACAT（Pelikan Bilişim；Perpa）",
+   "iso": "TR",
+   "source": "Türkiye · LinkedIn 人物页（Ahmet Karcı：kurucu ortak / Firma Sahibi 2003-07 起）+ turkishyello / perpa.com.tr 名录 + 官网",
+   "url": "https://www.linkedin.com/in/ahmet-karci-09743337/",
+   "number": "Ticaret Sicili 未取（名录称 Şti.；法定全称 PELİKAN BİLGİSAYAR HİZMETLERİ İTHALAT İHRACAT …）",
+   "status": "Aktif（官网网店在线；Perpa 商城 A 座 4 层 271 号 + Şişli 仓库）",
+   "incorporated": "2003-07",
+   "company_type": "Ltd. Şti.（推定）· 合伙创立（kurucu ortak）",
+   "sic": [
+    "IT / 电脑配件批发零售：DIGITUS 产品线为主（USB 串口 / HDMI / 网络配件），笔记本、耗材、OEM 配件，企业解决方案（防火墙 / 服务器 / 存储）；站内已有管理型 L2 PoE 交换机品类（研究档）"
+   ],
+   "address": "Perpa Ticaret Merkezi A Blok Sarı Avlu K:4 No:271, Okmeydanı-Şişli / İstanbul（旧址 Dereboyu Cad. No:60 Mecidiyeköy）",
+   "accounts": "无公开财报",
+   "accounts_due": "—",
+   "size_band": "微型（Perpa 电子商城档口 + 仓库；估 3–10 人）",
+   "officers": [
+    "Ahmet KARCI — Kurucu ortak / Firma Sahibi（2003-07 起，「tüm operasyonlar」）= 研究档 KP（ISAF 名片）→ **老板 = 联系人**"
+   ],
+   "psc": "Ahmet Karcı（联合创始人 / 业主）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Ahmet Karcı 是 Pelikan 的联合创始人兼业主（2003 起 22 年），Perpa 电子商城的 DIGITUS 配件经销档口，站内已有 L2 PoE 交换机类目** → 典型「配件批发商补交换机线」：分销 20% 档，主推 5/8 口桌面 PoE（STI-054GP / STC-028GP）+ 16/24 口机柜款，走 Perpa 档口批零；首触 WhatsApp（已加）发价格一页纸",
+    "Perpa 商户价格敏感、现金流小：MOQ 1 箱、100% 预付、DAP 伊斯坦布尔走 Saga 百运网线；CE / RoHS",
+    "无年报；每年看网店类目是否仍列交换机"
+   ],
+   "notes": "研究档 legal_name 可回填全称；founded 2003-07。",
+   "fetched": "2026-10-27",
+   "code": "SB-187"
+  },
+  "SB-093": {
+   "batch": 88,
+   "name": "Konak Güvenlik（konakguvenlik.com.tr；法定全称未定位）",
+   "iso": "TR",
+   "source": "Türkiye · 1 次检索（\"Konak Güvenlik\" + Erkut Sevin）—— 仅命中 Erkut Sevin 个人推特（2018 转发公司账号）；armut 名录「Konak」为伊兹密尔区名同名干扰",
+   "url": "",
+   "number": "未取",
+   "status": "未核（官网 2026 快照 ok）",
+   "incorporated": "",
+   "company_type": "",
+   "sic": [
+    "安防系统经销 / 安装（研究档：2024-06 贴 Allied Telesis AT-FS750-28 图问同规格 → 24 口 PoE 需求）"
+   ],
+   "address": "",
+   "accounts": "",
+   "accounts_due": "",
+   "size_band": "未知",
+   "officers": [
+    "Erkut SEVIN — satis@（销售邮箱）；个人推特 2018 起转发公司账号 → 疑为业主 / 核心人员（未证实）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本轮 1 次检索未能定位法人（「Konak」与伊兹密尔 Konak 区同名，噪音大）** → 不再花额度；HRUI / 丰润达在售 → Q-33 口径（不跟）本就限制投入：留档",
+    "若对方再来信，先问 Ticaret Sicil No / vergi no 开形式发票 —— 合规流程自然拿到法定名"
+   ],
+   "notes": "不再检索。",
+   "fetched": "2026-10-27",
+   "code": "SB-093"
   }
  }
 }

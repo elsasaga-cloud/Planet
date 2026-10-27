@@ -1,0 +1,44 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Nederland · KvK Handelsregister（镜像 drimble / transfirm）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SB-055": {
+   "batch": 88,
+   "name": "Epic Europe B.V.（商号 DIOS / DIOS Industries / DIOS Ultra HD Security Systems）",
+   "iso": "NL",
+   "source": "Nederland · KvK Handelsregister 镜像（drimble / transfirm / bedrijvenregister / de10beste：KvK 号、成立、董事、SBI、商号、年报存档、人数）+ stagemarkt 认证企业页",
+   "url": "https://transfirm.nl/nl/organisatie/591113800000-epic-europe-b.v.",
+   "number": "KvK 59111380 · vestigingsnr 000028430891 · 法定住所 gemeente Etten-Leur · 经营地 Roosendaal",
+   "status": "Actief（年报存档记录至 2021 账年，2022 年 7 月；之后镜像未列 → 下次核是否逾期）",
+   "incorporated": "2013-10-29",
+   "company_type": "Besloten Vennootschap（B.V.）· 董事 / 100% 母公司 Kiyi Holding B.V.（KvK 59106808，同日成立）= Jacco Slob 的个人控股",
+   "sic": [
+    "SBI 80.20 安防系统服务 + 电气安装：监控 / 安防产品的贸易、进出口、咨询、设计、安装、维护（章程）；4–30 MP 超高清摄像机 + Xeon 录像服务器 + 千兆 PoE 交换机（brinqs 简介）"
+   ],
+   "address": "De Meeten 82, 4706 NH Roosendaal（Majoppeveld-Zuid 工业区；旧址 Bredaseweg 185 Etten-Leur）",
+   "accounts": "小微 B.V. 年报（仅资产负债表）；人数 5–9（de10beste）；营收未公开",
+   "accounts_due": "NL 年报存档：账年结束后 12 个月内（通常次年 7–12 月）",
+   "size_band": "微型（5–9 人；2024-02 起为 SBB 认可实习企业）",
+   "officers": [
+    "Jacco (Jacob) SLOB — 经 Kiyi Holding B.V. 任 bestuurder（2013-10-29 起）= 所有人 / CEO = 研究档 KP（2025-03 亲自要价表）→ **老板 = 联系人**",
+    "关联：Dios Industries V.O.F.（KvK 76083926，2019-10-11，Sint Willebrord，合伙人 Jacob Slob，2 人）—— 已注销（opgeheven）；drimble 另列 2026-01-23 新登记 KvK 99697149（名称待核，可能是新 Dios 实体）"
+   ],
+   "psc": "Jacco Slob via Kiyi Holding B.V.（100%，推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Jacco Slob 通过个人控股 Kiyi Holding 持有 Epic Europe B.V.（Dios 品牌），5–9 人的荷兰超高清监控「进口 + 分销 + 安装」商，2025-03-05 他本人两封信要价表、我们当天给了两份、之后无下文** → 不是没兴趣，是价表没对上他的需求：Dios 自己卖「千兆 PoE 交换机」配摄像机 → 对表信直接给 8/16/24 口 PoE（STC-028GP / STC-228GP / STC-2024GP）+ 高功率 bt 款（4–30 MP 摄像机 + PTZ 需 60–90 W），按「Dios 贴牌 + 彩盒」OEM 30% 或分销 20% 两档并列，由他选",
+    "荷兰付款习惯 30 天，但微型 B.V. 首单 T/T 50/50；CE / RoHS + NL WEEE（Stichting OPEN）由他作进口商持有；DAP Roosendaal 走 Saga 百运网线；比荷卢 + 德国是他的市场 → 德语说明书加分",
+    "2019 年另设的 V.O.F. 已注销、2026-01 又有新登记 → 公司结构在动；复查 2027-01 看新实体名称与年报是否补交"
+   ],
+   "notes": "研究档 legal_name 已有（含 V.O.F.）；founded / size 可回填 2013-10-29 / 5–9 人。",
+   "fetched": "2026-10-27",
+   "code": "SB-055"
+  }
+ }
+}

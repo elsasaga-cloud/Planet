@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 13
+  "count": 14
  },
  "rows": {
   "SA-015": {
@@ -424,17 +424,19 @@
     "CHEGE, Timothy Mathangani — Director（2015-05-18 创立；2020-06 → 2022-10 短暂退出后 2022-10-01 复任；1975-06 生；肯尼亚籍居英；2026-01 身份已核）= 研究档 KP Tim Chege → **老板 = 联系人**",
     "已离任：Faith Mathangani（Secretary 2016–2020 → Director 2020-06 → 2023-07；家属）、Francis Mwangi Wairegi（Director 2017-12 → 2020-02）、Nelson Kaamuli（Director 2024-10-31 → 2024-12-13，仅 6 周）"
    ],
-   "psc": "待取（/persons-with-significant-control）；推定 Chege",
+   "psc": "Timothy Mathangani CHEGE — 唯一 PSC，持股 + 表决权 ≥75%（2022-10-01 通知；2016-04 → 2021-06 亦为 PSC，中间 2021-06 → 2022-11 由 Faith Mathangani 持 ≥75%）→ 老板 = 联系人 确认（第 88 批补取）",
    "charges": "未取",
    "prev_names": [],
    "lines": [
     "**老板 = 联系人（Tim Chege，一人董事；董事名单 6 进 6 出，2024 年底还有一位只待了 6 周）** → 典型「一人安防服务商」：需求是项目配套 PoE（4–16 口非管理 / 轻管理），集成 25% 但量小 → 零售档起；UKCA + CE，DAP 伦敦走 Saga 百运网线，100% 预付 MOQ 1 箱",
     "2020-06 → 2022-10 创始人曾退出董事会（家属顶上）再回来 → 公司经历过停摆 / 重组；只做小额现金单",
-    "复查：2027-02-28 账目到期后看是否仍 Active"
+    "复查：2027-02-28 账目到期后看是否仍 Active",
+    "第 88 批补核：PSC ≥75% = Chege 本人（2021–2022 曾把股权转给家属又转回）→ 一人公司无疑，决策链 = Tim Chege 一个人"
    ],
    "notes": "PSC 未取。",
    "fetched": "2026-10-27",
-   "code": "SB-151"
+   "code": "SB-151",
+   "_src": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）"
   },
   "SB-360": {
    "batch": 87,
@@ -468,6 +470,42 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SB-360"
+  },
+  "SB-781": {
+   "batch": 88,
+   "name": "SILVERNET LIMITED",
+   "iso": "GB",
+   "source": "UK · Companies House（官方）搜索 → 公司页 + officers 页",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05386276",
+   "number": "05386276",
+   "status": "Active（账目至 2025-11-30 已报；确认声明 2026-03-09 已交；有 charges 页 = 曾设银行抵押）",
+   "incorporated": "2005-03-09（前 2 个月名 COMPLETE SECURITY SOLUTIONS LIMITED，2005-05-11 更名）",
+   "company_type": "Private limited company",
+   "sic": [
+    "26309 通信设备制造（SilverNet 品牌：无线网桥 / 点对点微波 + **自有品牌 PoE 交换机** + 户外 CCTV 传输 —— 英国安防 / 市政 CCTV 渠道）"
+   ],
+   "address": "19 Presley Way, Crownhill, Milton Keynes MK8 0ES（自有办公 / 仓库，非虚拟地址）",
+   "accounts": "账目至 2025-11-30 已报（iXBRL 不取）；下期 2026-11-30，2027-08-31 到期",
+   "accounts_due": "2027-08-31（账目）/ 2027-03-23（确认声明）",
+   "size_band": "小型（研究档估 10–30 人；夫妻持有）",
+   "officers": [
+    "BALLARD, Christopher Roland — Director（2005-03-09 起，1973-10 生，英籍，身份已核）= 创始人 / 老板（PSC 待取，推定 ≥75%）",
+    "BALLARD, Mandy — Secretary（2005-03-09 起，同址）= 配偶 / 共同所有人",
+    "研究档 KP C. DiPrima / K. Newton = 雇员（销售 / 采购），**非老板** → 25 封信 0 回，下一封改写给 Chris Ballard"
+   ],
+   "psc": "待取（/persons-with-significant-control）；推定 Christopher Ballard",
+   "charges": "有（charges 页存在；细节未取）",
+   "prev_names": [
+    "COMPLETE SECURITY SOLUTIONS LIMITED（2005-03 → 2005-05）"
+   ],
+   "lines": [
+    "**SilverNet 是米尔顿凯恩斯的英国自有品牌厂（无线网桥 + 自牌 PoE 交换机），老板 = 创始董事 Chris Ballard（妻子任秘书），我们 3 年 25 封信全发给了两名雇员** → 典型 OEM 30% 目标：他们的 PoE 交换机本来就是外采贴牌 → 对表信写给 Chris Ballard：「SilverNet-branded managed PoE switch, UKCA + CE, Marvell L2+, 3-year warranty, MOQ 1 carton」，附 STC-228GP / STC-2024GP / STI 工业款规格",
+    "英国安防渠道要 UKCA + CE / RoHS + UK WEEE（由他们作为进口商持有）；付款首单 T/T 50/50，复购 30/70；DAP 米尔顿凯恩斯走 Saga 百运网线；GB 周四 12–14 发信",
+    "复查 2027-08（2026 账目）；PSC / charges 下一轮 2 次 fetch"
+   ],
+   "notes": "研究档 legal_name 空 → 回填 SILVERNET LIMITED；add_kp Christopher Ballard。",
+   "fetched": "2026-10-27",
+   "code": "SB-781"
   }
  }
 }

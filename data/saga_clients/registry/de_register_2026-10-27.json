@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 10
+  "count": 11
  },
  "rows": {
   "SA-008": {
@@ -357,6 +357,40 @@
    "fetched": "2026-10-27",
    "code": "SB-932",
    "_src": "Germany · Handelsregister / Northdata（登记摘要）"
+  },
+  "SB-193": {
+   "batch": 88,
+   "name": "DEMA Vertriebs-GmbH（Untermünkheim；STABILO 建材连锁同系）",
+   "iso": "DE",
+   "source": "Deutschland · Handelsregister（Northdata 免费页：HRB / LEI / GF / Prokura / 资本 / 商标 / 国家补助 / 年报公示 / 资产总额 / 关联网络）",
+   "url": "https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim",
+   "number": "Amtsgericht Stuttgart HRB 571318 · EUID DEB8534.HRB571318 · LEI 529900NC79L6B29H5354",
+   "status": "Aktiv（2024 年报 2026-02-10 公示；2026-10-25 新注册 DEMA 图文商标 ×2）",
+   "incorporated": "1963-01-17（登记；章程 2009-10-07 重订）",
+   "company_type": "GmbH · Stammkapital €800,000（2009-12-29 起；原 50,000 DEM）· 2 名活跃股东（Northdata 付费）· 关联网络：STABILO Werkzeug Fachmarkt（Empfingen / Aglasterhausen / Herrenberg / Mengen / Steinheim 多家）、Hohenloher Elektrogroßhandel GmbH（同址 Untermünkheim）、Hans Mösle moderner Baubedarf GmbH、Just in Time Heimwerker-Maschinen-Vertriebsgesellschaft mbH、LVH Immobilien GmbH",
+   "sic": [
+    "机械 + 电器及各类商品的销售与中介（章程）：自有品牌 DEMA（文字商标 2021、图文商标 2026）/ Fix Aktiv / Denner Edition，供 STABILO 建材 / 农资连锁 + 多家网店（电商 10+ 年，研究档）"
+   ],
+   "address": "Im Tobel 4, D-74547 Untermünkheim（Schwäbisch Hall 郡，巴符州）",
+   "accounts": "**资产总额 €29.8M（2024-12-31）**；年报公示 2006–2024（损益明细付费）；2021-07 获国家补助 €742,684（COVID 过渡援助框架）",
+   "accounts_due": "年报次年 12 月前",
+   "size_band": "中型（资产 €29.8M、资本 €80 万、LEI 持有人 → 年营收估数千万欧元级）",
+   "officers": [
+    "Ulrich ABENDSCHEIN — Geschäftsführer（2006-10-27 起；Satteldorf；同时任 STABILO 多家连锁 GF）= 拍板人（集团经理人）",
+    "Günther DENNER — Prokura（2006-10-27 起；Kupferzell）= 创始家族（品牌 Denner Edition 即其姓）；2023-12 另一 Prokura 退出",
+    "研究档无具名 KP（2025-06 报价往来对 info@）"
+   ],
+   "psc": "2 名活跃股东（Northdata 付费未取）；推定 Denner 家族 + STABILO 系",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**比研究档大一个量级：DEMA 不是「小网店」，是 1963 年起、资本 €80 万、资产 €2,980 万、给 STABILO 建材 / 农资连锁（巴符州十几家门店）供自有品牌电器 / 机械的集团采购公司；GF Abendschein 同时管着 STABILO 多家门店** → 2025-06-10 Alan 报过全铜口工业系列（STI-050FE $22.5 … STI-088FP $36.5）对方没答数量 = 我方欠跟：对表信写给 Herr Abendschein（GF）或 Herr Denner（Prokura），按「DEMA 品牌贴牌 + 彩盒 + 门店零售包装」谈 OEM 30% 线，起订按门店数（≥200 套彩盒 $2.5/套）",
+    "连锁零售渠道要的是：CE / RoHS + 德语说明书 + EAN 条码 + 彩盒 + WEEE 注册（德国 ElektroG：进口商需 WEEE-Reg.-Nr.，由 DEMA 作为进口商持有）→ 信里主动提「可按贵司 WEEE 号 + EAN 印刷」",
+    "付款：德国中型集团首单 30/70，复购 30 天可谈；DAP Untermünkheim 走 Saga 百运网线；年报 2027-02 复查"
+   ],
+   "notes": "研究档 legal_name 已有；KP 空 → batch88_kp add_kp Abendschein + Denner。",
+   "fetched": "2026-10-27",
+   "code": "SB-193"
   }
  }
 }

@@ -34,11 +34,13 @@
     "**3–4 人、年营收 €65 万、净利率 30%、负债率 7%、毛利 53% 的「金牌小集成商」**（Avigilon 高端摄像项目）：现金极好、决策一人 → 工业 / 商用 PoE 交换机配 Avigilon 项目（集成 25%），卖点 Marvell 管理型 + 3 年保 + 小批量；T/T 30/70 甚至可信用证不必 —— 按 50/50",
     "斯洛伐克在欧元区、CE / RoHS 即可；DAP Trnava 走 Saga 百运网线（捷克 / 奥地利枢纽）",
     "2025 营收 +28% → 项目在增长；窗口 2026-11 / 2027-02（避开 12-24–01-06）",
-    "下一轮：finstat.sk/36225801/obchodny_register 看 konateľ + spoločníci，确认 Ondrejíček = 老板"
+    "下一轮：finstat.sk/36225801/obchodny_register 看 konateľ + spoločníci，确认 Ondrejíček = 老板",
+    "第 88 批补核尝试：FinStat 登记页不显示 konateľ（免费层）；经营范围自 1997 起含电气安装 / 测控 / 批发，2002 加电信设备安装、2006 加安防技术服务牌照（§7 私人安保法）→ 是持牌安防 / 弱电安装商，不是纯贸易商 → 集成 25% 档"
    ],
-   "notes": "",
+   "notes": " 第 88 批：finstat.sk/36225801/obchodny_register 免费页只含 IČO / DIČ / 地址 / 经营范围 / 历史地址，**不含 konateľ**（需登录）→ 死胡同；konateľ 改用 web_search 「ROVEZ s.r.o. Trnava konateľ Ondrejíček」一次（下一轮）。",
    "fetched": "2026-10-27",
-   "code": "SB-005"
+   "code": "SB-005",
+   "_src": "Slovensko · ORSR / FinStat（官方登记 + 公开财报）"
   }
  }
 }
