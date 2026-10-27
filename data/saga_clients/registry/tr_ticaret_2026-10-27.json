@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 12
+  "count": 13
  },
  "rows": {
   "SA-086": {
@@ -413,6 +413,40 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SB-180"
+  },
+  "SB-167": {
+   "batch": 87,
+   "name": "ONSİS ELEKTRİK ELEKTRONİK GÜVENLİK SİSTEMLERİ İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "iso": "TR",
+   "source": "Türkiye · Ticaret Sicili 镜像（find.com.tr：法定全称 / 类型 / 成立日 / 活动代码）+ D&B（Key Principal、1–24 人）+ kariyer.net 招聘 2023-07（1992 创业、业务范围）",
+   "url": "https://www.find.com.tr/Company/onsiselektrikelektronikguvenliksistemleriinsaatsanayiveticaretlimitedsirketi",
+   "number": "Ltd. Şti.（Ankara Ticaret Sicili；MERSİS / 税号镜像页为占位，未取）",
+   "status": "Aktif（2023-07 仍在招聘技术员；D&B 在档）",
+   "incorporated": "1992 创业（自述）；现法人 Ltd. Şti. 登记 2015-03-03",
+   "company_type": "Limited Şirket · 私人独立企业（D&B「Independent」）",
+   "sic": [
+    "安防系统服务（NACE：防盗 / 火警 / 门禁安装维护）+ 弱电总包：公共机构 + 住宅小区的摄像机、PDKS 考勤、数据 / 光纤 / 网络基础设施、卫星、火警、刷卡门禁（招聘广告 2023）"
+   ],
+   "address": "Emek Mah. Kırım Cad. Saruhan Apt. No:78 B/28, 06490 Çankaya / Ankara",
+   "accounts": "Ltd. Şti. 无公开财报；Datanyze「$28.2M / 359 人」为明显错配（D&B 1–24 人）→ 不采信",
+   "accounts_due": "TR 公司税申报 4 月；无公开年报",
+   "size_band": "小型（D&B 1–24 人；总经理 + 项目工程师 + 技术员团队）",
+   "officers": [
+    "Esef TAŞKIRAN — Genel Müdür / Key Principal（D&B）= 研究档 KP → **老板 = 联系人**（Ltd. Şti. 股东名单付费未取，Key Principal 即实际控制人）",
+    "Hatice BOLAT — Proje Mühendisi（Datanyze）"
+   ],
+   "psc": "Esef Taşkıran（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Esef Taşkıran 是安卡拉弱电总包商 Onsis 的总经理 / 实际控制人；公司 1992 创业、2015 改组 Ltd.、1–24 人，主做公共机构 + 住宅小区的摄像机 / 门禁 / 网络基础设施** → 本户是展会 + WhatsApp 户（问过 2 光 8 电 PoE 网管 bypass，报 $105 → 要 L2，最后一天要样品）：跟进走 WhatsApp 而非邮件；bypass 无 Saga 型号 → 用 8 PoE + 2 SFP 管理型（STC-228GP）按集成 25% 档报，并补「付费样品抵货款」；项目套包再加 STC-2024GP + 10G 上行；CE / RoHS；安卡拉 DAP 走 Saga 百运网线",
+    "公共招标部分守界按个案（Q 规则）；土耳其付款 = 100% 预付或 50/50，不做账期；TR 周四 10–12 发信",
+    "复查：无年报可查；每年看 kariyer.net 是否仍招聘（= 仍在接项目）"
+   ],
+   "notes": "Ltd. Şti. 股东 / 资本需付费 MERSİS；不再检索。",
+   "fetched": "2026-10-27",
+   "code": "SB-167",
+   "_src": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）"
   }
  }
 }

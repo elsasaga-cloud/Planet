@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 20
+  "count": 24
  },
  "rows": {
   "SA-002": {
@@ -695,6 +695,145 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SB-010"
+  },
+  "SB-119": {
+   "batch": 87,
+   "name": "WireStar, Inc.（d/b/a WireStar Networks）",
+   "iso": "US",
+   "source": "US · SAM.gov 实体登记（opengovus 镜像 UEI PU66QHF8L5F6）+ BBB 档案 + 公司官网 our-story + Aggie 100（Texas A&M）",
+   "url": "https://opengovus.com/sam-entity/PU66QHF8L5F6",
+   "number": "SAM UEI PU66QHF8L5F6（2021-03-29 登记，2025-12-03 激活，2026-12-02 到期）；TX Corporation（S-Corp）；BBB 档案 2007-11-20；NENA CLEC ID WRR（已注销）",
+   "status": "Active（SAM 有效至 2026-12-02；BBB 实体「Corporation」）",
+   "incorporated": "2007-12-06 注册（业务 2005-02-01 起，前身 DIALUP.CC 拨号 ISP）",
+   "company_type": "Texas corporation · S-Corp · 私人持有 · 老板 Kyle W. Leissner（Founder / Owner / President & CEO）",
+   "sic": [
+    "CLEC / 学生公寓（MDU）批量 Wi-Fi + 光纤 ISP + 结构化布线 + 安防报警 / 门禁 + 托管 IT（Ruckus MDU 案例 2025）；SIC 7371（第三方标）"
+   ],
+   "address": "4156 State Highway 6 S, College Station, TX 77845-8964（另 1902 Pinon Dr Ste E；邮箱 PO Box 10966）",
+   "accounts": "私企无公开财报；第三方估：营收 $5.1M（RocketReach / Datanyze，同源）；员工 18 / 32–42 / 48（Datanyze / RocketReach / LeadIQ 2026-07）→ 记区间 20–50 人",
+   "accounts_due": "SAM 年审 2026-12-02；TX 特许税报告 5-15",
+   "size_band": "小型（20–50 人，$5M 级 ISP / MDU 集成商；Aggie 100 2020 第 63 名 = 增长期）",
+   "officers": [
+    "Kyle W. LEISSNER — Founder / Owner / President & CEO（SAM 登记官员 PRESIDENT；Texas A&M BBA 2009 + MS MIS 2011；2024-06-18 亲自来信）= 研究档 KP → **老板 = 联系人**",
+    "Logan ROY — Director of Business Development；Jason GORMAN — Director Operations（BBB 客户联系人）；Dennis GILMORE — Customer Support Manager；Daniel WADE — Warehouse Manager"
+   ],
+   "psc": "Kyle W. Leissner（Owner，Aggie 100 「Founder, Owner, President」）",
+   "charges": "",
+   "prev_names": [
+    "DIALUP.CC（拨号 ISP 前身）"
+   ],
+   "lines": [
+    "**老板 = 联系人：Kyle Leissner 既是创始人 / 所有人 / President 又是 2024-06-18 来信人；公司 = 德州学生公寓（MDU）批量 Wi-Fi ISP + 布线商，20–50 人、$5M 级、SAM 已登记（可接政府 / 高校单）** → 他们每栋学生公寓楼都要接入层 PoE 交换机喂 Ruckus AP：对表信直接谈 24/48 口 PoE 管理型（STC-424XGGPM-280W $180、STC-448XGGPM $335）+ 10G 上行聚合，按「每栋楼 N 台」报阶梯价；集成 25% 档",
+    "SAM 登记 → 若走高校 / 政府项目要 TAA → 中国产不合规；只做他们的商业 MDU 项目线；FCC + CE / RoHS；DAP 德州走 Saga 百运网线，T/T 30/70",
+    "复查：SAM 到期 2026-12-02（续登 = 仍在接政府单）；官网 our-story 2026-07 更新"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-119"
+  },
+  "SB-750": {
+   "batch": 87,
+   "name": "Enable-IT, Inc.",
+   "iso": "US",
+   "source": "US · 公司官网 government / transportation 页（schema.org legalName + 地址；2026-06-08 更新）—— 州登记（Nevada SoS）未取",
+   "url": "https://enableit.com/government/",
+   "number": "Nevada SoS 编号未取；GSA Schedule 合同号「来电索取」（官网）；SAM/CAGE 未取",
+   "status": "在营（官网 2026-06 更新）",
+   "incorporated": "业务 1997/2000 起（官网：「Ethernet Extender 1999 发明，PoE Extender 2005」；对美政府供货 since 1997）",
+   "company_type": "Inc.（私人持有）· 自称「USA Original Equipment Manufacturer」· 100% 美国制造 · AS9100D",
+   "sic": [
+    "以太网 / PoE 延长器 OEM（产品线 Saga 不供：延长器属守界禁区）；客户 DoD / NASA / 70+ 政府机构；TAA + NDAA §889 合规 + GSA Schedule"
+   ],
+   "address": "4616 W Sahara Ave, Las Vegas, NV 89102-3627（研究档 hq「USA」→ 已定位拉斯维加斯）",
+   "accounts": "私企无公开财报",
+   "accounts_due": "NV 年度名单 / 营业执照 按成立月；SAM 年审",
+   "size_band": "小型制造商（研究档「中小型」；无可证人数）",
+   "officers": [
+    "David CONNERS — Director（研究档 KP，dconners@；职务来源待核：官网无团队页）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**定位结论：Enable-IT 是「100% USA manufacturing + TAA/NDAA/GSA + AS9100D」的美国本土延长器 OEM，主卖点就是「非中国制造」，而且产品（延长器）本身是 Saga 守界禁区** → 与第 86 批 American Fibertek 同类：**不追**；29 封群发 0 回 = 合理结果",
+    "唯一可能的缝：他们给集成商配套的 PoE 交换机（若有外采）—— 但一旦贴「TAA」就排除中国产；留 B 不动，年度看一次官网是否新增外采交换机线",
+    "话术禁区：别提 NDAA / TAA / 「American made」比较"
+   ],
+   "notes": "Nevada SoS 未取（优先级低）。",
+   "fetched": "2026-10-27",
+   "code": "SB-750"
+  },
+  "SB-780": {
+   "batch": 87,
+   "name": "AESP, Inc.（d/b/a Advanced Electronic Support Products；品牌 Signamax；子公司 Signamax, Inc.）",
+   "iso": "US",
+   "source": "US · SEC EDGAR 10-K FY2004（AESP 曾为纳斯达克上市，CIK 1026744）+ E.D. Va. 判决 2014（商标权属）+ USPTO 商标档 + D&B 档案",
+   "url": "https://www.sec.gov/Archives/edgar/data/1026744/000095014405005291/g94284e10vk.htm",
+   "number": "Florida corporation（1983 年注册；Sunbiz 不可抓）；SEC CIK 1026744（已退市）",
+   "status": "在营（D&B 列 Key Principal Vyacheslav Stein；signamax.com 在线）",
+   "incorporated": "1983（佛罗里达）",
+   "company_type": "Florida corporation · 私有化前为 Nasdaq 小盘股（2004 年净销售 $15.8M、72 人：北迈阿密 29 + 宾州 3 + 捷克 40；连续经营亏损 2002–2004）· 两名主要股东为高管",
+   "sic": [
+    "网络连接产品：线缆 / 适配器 / 交换机 / 收发器（Signamax 品牌）+ AEM 代工线（为零售商 / PC 厂贴牌）；市场北美 / 拉美 / 欧洲 / 中东；2004 年 34% 销售给俄乌独家分销商"
+   ],
+   "address": "999 NW 159th Dr, Miami, FL 33169-5803",
+   "accounts": "仅历史：2004 净销售 $15.8M、经营亏损 $(811)k、毛利 28.9%（SEC）；退市后无公开数",
+   "accounts_due": "FL 年报 5-01",
+   "size_band": "小型（历史 72 人 2004；现规模不明，估明显缩小）",
+   "officers": [
+    "Vyacheslav (Slav) STEIN — Key Principal（D&B）= 共同创始人 / 主要股东（SEC 10-K「two principal shareholders, as employees」）",
+    "Lynn McCULLOUGH — Vice President of Sales（研究档 KP）；Indika KULATUNGA — Vice President（研究档）；均非登记主股东",
+    "历史董事（2004）：William B. Coldrick、Leonard Sokolow、Steve Daily、John Wilkens"
+   ],
+   "psc": "两名创始股东兼高管（SEC 10-K 2004 「two principal shareholders, as employees」；D&B 现 Key Principal = Vyacheslav Stein；另一人姓名待核）",
+   "charges": "",
+   "prev_names": [
+    "Advanced Electronic Support Products, Inc."
+   ],
+   "lines": [
+    "**AESP = 1983 年起的迈阿密网络配件老牌 OEM / 分销商，曾上市（2004 $15.8M、72 人、连年亏损后私有化），Signamax 品牌交换机本就是外采贴牌** → 这是标准「有自有品牌的进口贴牌商」= OEM 30% 线首选类型；KP Lynn McCullough 不是老板，拍板人是 Slav Stein（Key Principal）→ 对表信 cc 或改写给 Stein",
+    "2005–2014 与捷克 Apron（Signamax LLC / signamax.cz）打了 9 年「SIGNAMAX」商标官司（E.D. Va. 2014）→ 欧洲 Signamax ≠ 美国 AESP，**别把两家混为一户，更别在信里提捷克 Signamax**；USPTO 2014 两件 SIGNAMAX 申请均 abandoned（商标权在美弱）",
+    "历史上 34% 销售走俄乌分销 → 他们有对俄渠道经验；现状不明，不主动提俄",
+    "付款 T/T 30/70，首单 100% 预付（历史亏损记录）；FCC + CE / RoHS；DAP 迈阿密走 Saga 百运网线"
+   ],
+   "notes": "研究档 founded / 规模字段可据此回填：1983、历史 72 人。",
+   "fetched": "2026-10-27",
+   "code": "SB-780",
+   "_src": "USA · 州务卿登记 / OpenCorporates"
+  },
+  "SB-739": {
+   "batch": 87,
+   "name": "Arcdyn, Inc.",
+   "iso": "US",
+   "source": "US · 公司官网 + LinkedIn 公司页（2016 成立 / 2–10 人）+ ZoomInfo（President Justin Bowman）+ Alignable；NC SoS 登记未取",
+   "url": "https://arcdyn.com/about-us",
+   "number": "NC SoS 编号未取（Inc.，Asheville）",
+   "status": "在营（官网在线；2024-09 飓风 Helene 曾断电断网公告）",
+   "incorporated": "2016",
+   "company_type": "Inc. · 私人持有 · 「founded by techs, not marketers」",
+   "sic": [
+    "安防批发商 / 电商：自有品牌 ArcCore IP 摄像机 + NVR（贴牌，3 年保）、Uniview 代理、门禁、Platinum Tools；经销商计划（dealer program，免运费）；页面有「NDAA Compliant」类目"
+   ],
+   "address": "43 Mildred Ave, Asheville, NC 28806（原 1370 Tunnel Rd, 28805）",
+   "accounts": "私企无公开财报；ZoomInfo <$5M；RocketReach $24M 不可信（同页「4 人」）→ 记 <$5M",
+   "accounts_due": "NC 年报 4-15",
+   "size_band": "微型（2–10 人：President + 销售 2 + 仓库 2）",
+   "officers": [
+    "Justin BOWMAN — President（ZoomInfo C-level；Alignable 团队首位）= 研究档 KP（jbowman@，已收 21 封 3 开 0 回）→ **老板 = 联系人**",
+    "Ben DOFFLEMYER — Head of Sales & Surveillance Analyst / Account Manager；Quinn POWERS — Sales；Joseph DAWES / Joseph RICKER — Warehouse"
+   ],
+   "psc": "Justin Bowman（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Arcdyn = 阿什维尔 2–10 人的安防电商 / 批发商，自有贴牌线 ArcCore（摄像机 + NVR 都是贴牌），President Justin Bowman 既是拍板人也是我们一直写信的人（3 次打开 0 回）** → 他们卖给安装商的套包天然缺「ArcCore 牌 PoE 交换机」：OEM 30% 线，8/16 口 PoE 非管理（STC-028GP / STC-228GP）+ 彩盒 $2.5/套起 200 套；下一封主题直接写「ArcCore-branded PoE switch to pair with your NVR kits」而不是泛群发",
+    "页面有 NDAA 类目 → 摄像机走 NDAA 是他们对政府 / 大麻农场客户的卖点；**交换机别提 NDAA**（规则），只谈 FCC + 3 年保与其摄像机同保",
+    "2024-09 飓风 Helene 重创阿什维尔 → 2025 年起才恢复；小商现金流紧：首单 100% 预付、MOQ 1 箱、DAP 北卡走 Saga 百运网线"
+   ],
+   "notes": "研究档 legal_name 「Arcdyn LLC（待核）」应改为 Arcdyn, Inc.（LinkedIn / 官网 / 判例均 Inc.）；founded 2016。",
+   "fetched": "2026-10-27",
+   "code": "SB-739",
+   "_src": "USA · 州务卿登记 / OpenCorporates"
   }
  }
 }

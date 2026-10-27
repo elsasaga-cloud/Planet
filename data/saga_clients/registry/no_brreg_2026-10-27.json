@@ -1,0 +1,52 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Norge · Brønnøysundregistrene（官方 API）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SB-836": {
+   "batch": 87,
+   "name": "FIBERWORKS AS",
+   "iso": "NO",
+   "source": "Norge · Brønnøysundregistrene Enhetsregisteret 官方 API（enheter + roller，2026-10-13 员工数更新）",
+   "url": "https://data.brreg.no/enhetsregisteret/api/enheter/959977046",
+   "number": "Org.nr 959977046 · MVA 登记 1991-03-01",
+   "status": "Aktiv（非破产 / 非清算；2025 年报已交）",
+   "incorporated": "1990-12-27 成立（Foretaksregisteret 1991-02-27）",
+   "company_type": "Aksjeselskap（AS）· 股本 NOK 500,000（1,000 股，2008-04-23）· 非集团 · A 股股东代表选董事（= 有 A/B 股结构，创始人持 A 股）",
+   "sic": [
+    "NACE 46.500 ICT 设备批发：「光纤网络产品销售及相关业务」（章程目的）—— 光模块 / 光纤 / 交换机分销商（fiberworks.no）"
+   ],
+   "address": "Eikenga 11, 0579 Oslo",
+   "accounts": "年报已交至 2025（brreg 不含数字；proff.no 可查营收 —— 下一轮 1 次搜索）",
+   "accounts_due": "挪威年报 7-31 前",
+   "size_band": "**22 名员工**（NAV Aa-registeret 2026-10-10）",
+   "officers": [
+    "Roger Allan WAHLGREN — Daglig leder（CEO，2019-01 起）+ Styremedlem（A 股股东代表）= 老板 / 拍板人",
+    "Martin Roland LINDER — Styrets leder（董事长，A 股股东代表，2025-02 更新）= 共同所有人",
+    "审计 Cedra Norge AS；会计 Amesto Accounthouse AS；研究档 KP 无具名（邮件 salg@ / office）"
+   ],
+   "psc": "A 股股东 Wahlgren + Linder（推定；挪威股东名册需 aksjonærregisteret）",
+   "charges": "",
+   "prev_names": [
+    "INS COMMUNICATIONS AS（2007–2013）",
+    "INS BROKER AS（2004–2007）",
+    "SIP COMMUNICATIONS AS（2003–2004）",
+    "DELTA ONE AS（2002–2003）",
+    "INS SUPPORT AS（1998–2002）",
+    "RE-LAB AS（1995–1998）"
+   ],
+   "lines": [
+    "**22 人的奥斯陆光纤 / 网络分销商（1990 起，6 次更名，2013 起叫 Fiberworks），CEO Wahlgren + 董事长 Linder 两人持 A 股** → 研究档没有具名 KP：下一封直接写给 Roger Wahlgren（Daglig leder）；分销 20% 档，卖点光口 / 10G 上行交换机配他们的光模块线（STI-480XGGM、STC-448XGGPM、2.5G 光口 DG 款）",
+    "挪威非欧盟但 EEA：CE / RoHS 即可，进口 VAT 由他们办；DAP 奥斯陆走 Saga 百运网线；T/T 30/70（22 人老公司，信用可）",
+    "下一轮：proff.no 看 2024 / 2025 营收与利润（1 次搜索）"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-836"
+  }
+ }
+}

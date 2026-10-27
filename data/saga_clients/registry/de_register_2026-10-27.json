@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 8
+  "count": 10
  },
  "rows": {
   "SA-008": {
@@ -289,6 +289,74 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SB-018"
+  },
+  "SB-426": {
+   "batch": 87,
+   "name": "Helmholz GmbH & Co. KG（Großenseebach；集团 Helmholz Holding GmbH）",
+   "iso": "DE",
+   "source": "Deutschland · Handelsregister（Northdata 免费页：HRA / 结构 / 商标专利 / 年报公示 / 参股）",
+   "url": "https://www.northdata.de/Helmholz%20GmbH%20%26%20Co.%20KG,%20Gro%C3%9Fenseebach",
+   "number": "Amtsgericht Fürth HRA 10671 · EUID DED3304V.HRA10671；无限责任股东 Helmholz Verwaltungs GmbH（HRB 15642）；母公司 Helmholz Holding GmbH（HRB 4573）",
+   "status": "Aktiv（2024 年报 2026-02-12 公示）",
+   "incorporated": "2016-06-06（KG 登记；2016-09-29 由 Helmholz Holding GmbH 分立而来；品牌 Helmholz 1980 年代起）",
+   "company_type": "GmbH & Co. KG · 家族集团（Manfred Helmholz）· 参股 Helmholz Benelux B.V. + Systeme Helmholz Kroatien d.o.o.（西班牙 SL 已注销）；关联 Helmholz Immobilien GmbH & Co. KG",
+   "sic": [
+    "工业电子元件 + 软件的开发与销售：PROFIBUS / PROFINET 网关、工业交换机（FLEXtra 商标 2009）、NETLink、EasyConnect、Optopus；22 项外观设计（2022）、总线插头专利（2009）"
+   ],
+   "address": "Hannberger Weg 2, D-91091 Großenseebach（纽伦堡 / 埃尔朗根）",
+   "accounts": "年报公示至 2024-12-31（Northdata 付费）；公示资产总额 €533,144（2024-12-31，疑为简化披露，不代表经营规模）",
+   "accounts_due": "年报次年 12 月前（2025 账约 2027-02 公示）",
+   "size_band": "中型（研究档：工业自动化品牌商，估 100–200 人；Northdata 付费）",
+   "officers": [
+    "Carsten BOKHOLT — Geschäftsführer（登记网络 GF 标记；Großenseebach）= 研究档 KP → **联系人 = 总经理 / 拍板人**",
+    "Karsten EICHMÜLLER — Geschäftsführer（Auerbach；另任西班牙 SL 前董事）",
+    "Manfred HELMHOLZ — 创始人 / 集团所有人（Weisendorf；Holding 100%）",
+    "Andrea FISCHER — Prokura"
+   ],
+   "psc": "Helmholz 家族（Manfred Helmholz via Helmholz Holding GmbH 100%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**联系人 Carsten Bokholt 就是 Geschäftsführer（总经理），集团为 Helmholz 家族所有、有商标 / 专利 / 22 项外观设计的正牌工业自动化品牌商** → 他们的 FLEXtra 工业交换机线是外采 ODM：标准 OEM 30% 线，但进入门槛是「工业品质 + 长期供货 + 文档」：先给 STI 系列规格书、EMC 报告、MTBF、固件定制能力；别用群发口吻",
+    "德国家族中型企业付款规矩：首单 T/T 预付 30% + 发货前 70%，复购可谈 30 天；DAP Großenseebach 走 Saga 百运网线",
+    "有荷兰 / 克罗地亚子公司 → 报价覆盖欧洲多仓交付；年报 2027-02 复查"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-426"
+  },
+  "SB-932": {
+   "batch": 87,
+   "name": "Acceed GmbH",
+   "iso": "DE",
+   "source": "Deutschland · Handelsregister（Northdata 免费页：登记 / GF / 资本 / 年报公示 2006–2024 / 资产总额）",
+   "url": "https://www.northdata.de/Acceed%20GmbH,%20D%C3%BCsseldorf",
+   "number": "Amtsgericht Düsseldorf HRB 40029 · EUID DER1101.HRB40029",
+   "status": "Aktiv（2024 年报 2026-06 公示；股东名单 2026-06-10 更新）",
+   "incorporated": "2000-12-29（登记 2001-07-16）",
+   "company_type": "GmbH · Stammkapital €25,000 · 1 名股东（2026-06 名单）",
+   "sic": [
+    "电子设备制造与销售 + 各类商品贸易：工业通信 / 串口 / 以太网 / 媒体转换器 / 工业交换机分销（Acceed = 德国工业连接产品进口商，研究档）"
+   ],
+   "address": "Arnoldstr. 19, D-40479 Düsseldorf",
+   "accounts": "资产总额 €718,124（2024-12-31）；年报连续公示 2006–2024（小型 GmbH 无损益明细）",
+   "accounts_due": "年报次年 6–12 月",
+   "size_band": "微型（估 3–8 人；一人 GF，25 年同一人）",
+   "officers": [
+    "Werner KUNZE — Geschäftsführer（2001-07-16 起，25 年）+ 推定唯一股东 = 老板；研究档收件已含 werner.kunze@acceed.com（A 箱 2026 年 5 封，0 真实打开，2026-08-18 / 09-24 有退信）→ 先核是哪个地址退信",
+    "Jürgen SILBER — ehem. GF（已离任，Haan）；关联 MeyeControl GmbH（同址 / 同 GF，Düsseldorf HRB 48350）"
+   ],
+   "psc": "Werner Kunze（1 名股东，推定 100%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一人 GmbH（GF Werner Kunze 25 年未变、资产 €72 万、同址另有 MeyeControl GmbH）= 典型德国工业产品进口小商** → 他们本身就在卖进口工业交换机 / 转换器：分销 20% 档，强调 Marvell 管理型 + 3 年保 + 小批量；信抬头 z. Hd. Herrn Kunze；若 werner.kunze@ 即退信地址（规则：失效地址不再发），只发 info@",
+    "付款 T/T 预付 / 50-50；DAP 杜塞尔多夫走 Saga 百运网线；年报 2026-06 已出 → 2027-06 复查"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-932",
+   "_src": "Germany · Handelsregister / Northdata（登记摘要）"
   }
  }
 }

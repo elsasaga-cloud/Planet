@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 4
+  "count": 5
  },
  "rows": {
   "SA-070": {
@@ -143,6 +143,41 @@
    "notes": "",
    "fetched": "2026-10-27",
    "code": "SA-083"
+  },
+  "SB-104": {
+   "batch": 87,
+   "name": "STS ITALIA S.R.L.（Arcore MB；原 Vicenza）",
+   "iso": "IT",
+   "source": "Italia · Registro Imprese 镜像（ufficiocamerale / companyreports / reportaziende / atoka：P.IVA、REA、ATECO、2022–2024 fatturato、utile、人数）+ 官网 contattaci（REA 1490600）",
+   "url": "https://www.ufficiocamerale.it/4755/sts-italia-srl",
+   "number": "P.IVA / C.F. 00865310247 · REA MB 1490600（原 VI 175684）· SDI MJ1OYNU · PEC stsitaliasrl@pec.telemar.it",
+   "status": "Attiva（2024 年报已交；无 protesti）",
+   "incorporated": "1984-03-16 成立（登记 1984-05-11；原籍维琴察 Via dell’Edilizia 110，后迁 Arcore）",
+   "company_type": "S.r.l. · 股本 €110,000 全缴 · 欧盟标准「media impresa」（50–249 人）· 私有",
+   "sic": [
+    "ATECO 43.21.02 电信 / 网络布线安装（系统集成商：安防 / 电信 / 网络工程，LinkedIn「Sicurezza e investigazioni」；办事处 Milano 等）"
+   ],
+   "address": "Via Altiero Spinelli 134, 20862 Arcore (MB)",
+   "accounts": "**Fatturato €7,973,181（2024）/ €8.0M（2023）/ €7.0M（2022）；utile €438,664（2024，-5.2%）；人工成本 €3,227,856（2024）**；营收稳定",
+   "accounts_due": "意大利年报 7–8 月（2025 账 2026-07 已到期 → 复查 2027-07 看 2025）",
+   "size_band": "**中型：73 人（2026 登记）/ 82（atoka）/ 50–99 档**",
+   "officers": [
+    "Silvio Stefani（atoka 成员列表首位）— 推定 amministratore / 创始家族（研究档 KP Eros Stefani 同姓 → 家族第二代）",
+    "Mariano CHEMELLO、Fabio CHEMELLO — 成员（合伙家族 / 股东）；Giovanni LA CROCE — 成员",
+    "研究档 KP Eros Stefani + Andrea Rongoni 不在登记成员表 → Rongoni = 采购 / 技术经办"
+   ],
+   "psc": "Stefani + Chemello 两家族（atoka 成员表，股权比例付费）",
+   "charges": "无 protesti",
+   "prev_names": [],
+   "lines": [
+    "**比研究档预想大得多：STS Italia 是 1984 年起、73–82 人、年营收 €8.0M、盈利 €44 万的伦巴第系统集成商（布线 / 安防 / 网络），而不是小安防店；KP Eros Stefani 姓氏 = 创始家族 Stefani** → 集成 25% 档但按「项目批量」谈：24/48 口 PoE 管理型 + 10G 上行（STC-424XGGPM-280W $180 / STC-448XGGPM $335 / STI-480XGGM）配他们的布线项目；信写给 Eros Stefani（家族）而非 Rongoni",
+    "意大利付款习惯 30/60 天 → 首单 T/T 30/70，复购可谈 30 天（€8M 稳定盈利、无 protesti，信用可）；CE / RoHS + 意大利语数据表加分；DAP 米兰走 Saga 百运网线",
+    "注意同名：米兰 Opera 另有一家 STS Italia S.r.l.（P.IVA 10621530152，5–9 人，仪器批发）—— **本户是 Arcore 00865310247**，别搞混",
+    "复查 2027-07（2025 年报）"
+   ],
+   "notes": "研究档 size「小型」应上调为中型 73–82 人 / €8M。",
+   "fetched": "2026-10-27",
+   "code": "SB-104"
   }
  }
 }

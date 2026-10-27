@@ -17226,5 +17226,411 @@
   "accounts": [],
   "repos_mentioning": [],
   "checked_at": "2026-10-27T08:09:33Z"
+ },
+ "SB-837": {
+  "domain": "giga-link.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:09:45Z"
+ },
+ "SB-838": {
+  "domain": "gmidatabox.fr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:09:56Z"
+ },
+ "SB-839": {
+  "domain": "ilucoltd.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:10:07Z"
+ },
+ "SB-840": {
+  "domain": "inline-info.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:10:21Z"
+ },
+ "SB-841": {
+  "domain": "kohen.ca",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:10:33Z"
+ },
+ "SB-842": {
+  "domain": "kzn-gps.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:10:49Z"
+ },
+ "SB-843": {
+  "domain": "mir-sb.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:10:59Z"
+ },
+ "SB-844": {
+  "domain": "oemarket.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:11:13Z"
+ },
+ "SB-845": {
+  "domain": "osbornsalessolutions.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:11:26Z"
+ },
+ "SB-846": {
+  "domain": "qualicam.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:11:39Z"
+ },
+ "SB-847": {
+  "domain": "rollan.ca",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "ferrisbueller92/presale-rolland-cafe",
+    "url": "https://github.com/ferrisbueller92/presale-rolland-cafe",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2026-06-30T06:11:46Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Rolland-Campbell/Rolland-Campbell.github.io",
+    "url": "https://github.com/Rolland-Campbell/Rolland-Campbell.github.io",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2020-03-06T20:22:04Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Rolland-Campbell/digital-resume-rolland-campbell",
+    "url": "https://github.com/Rolland-Campbell/digital-resume-rolland-campbell",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2020-03-04T16:56:14Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:11:52Z"
+ },
+ "SB-848": {
+  "domain": "setilend.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:12:05Z"
+ },
+ "SB-849": {
+  "domain": "ssd.ru",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "Marina81R/Resume",
+    "url": "https://github.com/Marina81R/Resume",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2022-08-31T17:48:48Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Vmprogram/ParserSSD",
+    "url": "https://github.com/Vmprogram/ParserSSD",
+    "desc": "This is a parser for the site SSD.ru. Functions: - Collecting information by section(3.1,3.2,3.3,3.4,3.5) -Processing of",
+    "stars": 0,
+    "pushed_at": "2021-02-26T11:33:24Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "bernerdschaefer/ssdeep_ruby",
+    "url": "https://github.com/bernerdschaefer/ssdeep_ruby",
+    "desc": "Ruby bindings for ssdeep",
+    "stars": 2,
+    "pushed_at": "2011-03-08T10:37:53Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "sqlsimon/SSDTAnalysisRules",
+    "url": "https://github.com/sqlsimon/SSDTAnalysisRules",
+    "desc": "SSDT Analysis Rules",
+    "stars": 0,
+    "pushed_at": "2016-12-19T06:21:48Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "kali/ssdp-rust",
+    "url": "https://github.com/kali/ssdp-rust",
+    "desc": "Rust library for SSDP",
+    "stars": 0,
+    "pushed_at": "2015-02-04T10:57:14Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:12:16Z"
+ },
+ "SB-850": {
+  "domain": "symway.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:12:24Z"
+ },
+ "SB-851": {
+  "domain": "tayle.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:22:51Z"
+ },
+ "SB-853": {
+  "domain": "jmfiberoptics.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:23:03Z"
+ },
+ "SB-854": {
+  "domain": "netcatsystems.de",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:23:15Z"
+ },
+ "SB-855": {
+  "domain": "nextlan.cz",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:23:26Z"
+ },
+ "SB-856": {
+  "domain": "o-tc.co.uk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:23:38Z"
+ },
+ "SB-857": {
+  "domain": "airpro.in",
+  "accounts": [],
+  "repos_mentioning": [
+   {
+    "full_name": "shadab-ansari11/AirprotIndian",
+    "url": "https://github.com/shadab-ansari11/AirprotIndian",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2022-10-20T07:00:34Z",
+    "owner_type": "User"
+   },
+   {
+    "full_name": "Nathan-W1/Investigation-of-UAV-Collision-Avoidance-Techniques-Applied-to-a-Real-World-Airprox-Incident",
+    "url": "https://github.com/Nathan-W1/Investigation-of-UAV-Collision-Avoidance-Techniques-Applied-to-a-Real-World-Airprox-Incident",
+    "desc": "",
+    "stars": 0,
+    "pushed_at": "2022-05-11T13:43:10Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:23:49Z"
+ },
+ "SB-858": {
+  "domain": "areskom.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:24:02Z"
+ },
+ "SB-859": {
+  "domain": "baburtech.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:24:16Z"
+ },
+ "SB-860": {
+  "domain": "basithamitech.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:24:30Z"
+ },
+ "SB-861": {
+  "domain": "bimel.com.tr",
+  "accounts": [
+   {
+    "login": "bimel",
+    "type": "Organization",
+    "url": "https://github.com/bimel",
+    "name": "Bimel ",
+    "blog": "https://www.bimel.com.tr",
+    "email": "dnsadmin@bimel.com.tr",
+    "company": null,
+    "public_repos": 0,
+    "created_at": "2016-11-14T13:56:04Z",
+    "updated_at": "2019-06-01T23:30:36Z",
+    "bio": "dnsadmin@bimel.com.tr",
+    "match": "strong"
+   }
+  ],
+  "repos_mentioning": [
+   {
+    "full_name": "ramazansancar/btk-yer_saglayici",
+    "url": "https://github.com/ramazansancar/btk-yer_saglayici",
+    "desc": "Software that retrieves BTK 'Commercial Service Providers Hosting Provider' data and checks its current status daily",
+    "stars": 6,
+    "pushed_at": "2026-06-07T00:17:12Z",
+    "owner_type": "User"
+   }
+  ],
+  "checked_at": "2026-10-27T08:24:44Z"
+ },
+ "SB-862": {
+  "domain": "cebecigrup.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:24:58Z"
+ },
+ "SB-863": {
+  "domain": "cmd-sec.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:25:12Z"
+ },
+ "SB-864": {
+  "domain": "dacelsolutions.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:25:24Z"
+ },
+ "SB-866": {
+  "domain": "egemenelektronik.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:25:38Z"
+ },
+ "SB-867": {
+  "domain": "erete.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:25:52Z"
+ },
+ "SB-868": {
+  "domain": "fiberden.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:26:08Z"
+ },
+ "SB-869": {
+  "domain": "futurist.com.pk",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:26:20Z"
+ },
+ "SB-870": {
+  "domain": "hunter-cctv.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:26:34Z"
+ },
+ "SB-871": {
+  "domain": "intenet.com.tr",
+  "accounts": [
+   {
+    "login": "InteNetProtocol",
+    "type": "Organization",
+    "url": "https://github.com/InteNetProtocol",
+    "name": "InteNet",
+    "blog": "https://intenet.io/",
+    "email": "snow@intenet.io",
+    "company": null,
+    "public_repos": 10,
+    "created_at": "2024-11-29T04:15:38Z",
+    "updated_at": "2025-03-11T13:59:18Z",
+    "bio": "InteNet Protocol is an integrated DeFAI (Decentralized Finance for AI) layer designed to empower AI agents with decentralized financial capabilities.",
+    "match": "name",
+    "repos": [
+     {
+      "name": "web",
+      "pushed_at": "2025-06-12T02:26:55Z",
+      "lang": null,
+      "desc": "",
+      "fork": true
+     },
+     {
+      "name": "assets",
+      "pushed_at": "2025-04-12T00:18:49Z",
+      "lang": "Go",
+      "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "fork": true
+     },
+     {
+      "name": "template-ethereum-contracts",
+      "pushed_at": "2025-03-12T14:28:12Z",
+      "lang": null,
+      "desc": "Template to develop ethereum smart contracts",
+      "fork": true
+     },
+     {
+      "name": "documents",
+      "pushed_at": "2025-02-07T08:00:32Z",
+      "lang": null,
+      "desc": "Open documentation for JarvisAgentLab",
+      "fork": false
+     },
+     {
+      "name": "LaunchPadContracts",
+      "pushed_at": "2025-02-05T09:50:00Z",
+      "lang": "TypeScript",
+      "desc": "Project InteNet is an innovative DeFi platform designed to cater to the launch, liquidity management, and automated mark",
+      "fork": false
+     },
+     {
+      "name": "eliza",
+      "pushed_at": "2024-12-17T04:16:36Z",
+      "lang": null,
+      "desc": "Autonomous agents for everyone",
+      "fork": true
+     }
+    ]
+   }
+  ],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:26:45Z"
+ },
+ "SB-873": {
+  "domain": "istccorp.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:27:02Z"
+ },
+ "SB-874": {
+  "domain": "keno-cctv.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:27:15Z"
+ },
+ "SB-875": {
+  "domain": "lemaxguvenlik.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:27:26Z"
+ },
+ "SB-876": {
+  "domain": "lilin.vn",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:27:40Z"
+ },
+ "SB-877": {
+  "domain": "ltv-cctv.ru",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:27:53Z"
+ },
+ "SB-878": {
+  "domain": "magnusgulf.com",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:28:04Z"
+ },
+ "SB-879": {
+  "domain": "mfd.com.tr",
+  "accounts": [],
+  "repos_mentioning": [],
+  "checked_at": "2026-10-27T08:28:15Z"
  }
 }

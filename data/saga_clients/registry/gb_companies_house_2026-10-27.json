@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 11
+  "count": 13
  },
  "rows": {
   "SA-015": {
@@ -386,20 +386,88 @@
     "FOLAYAN, Iyiola — Director（2025-10-24 起；1977-03 生；尼日利亚籍，居英；通信地址即注册代理地址）= 研究档 KP「负责人 / MikroTik 认证顾问」→ **老板之一 = 联系人**",
     "FOLAYAN, Aderonke — Director（1978-02 生；尼日利亚籍；Wakefield 住址）—— 同姓，家属",
     "OLADIPO, Andrew — Director（1978-06 生；英籍；Buckingham 住址）",
-    "PSC 页未取（下一轮 1 次 fetch）"
+    "PSC 已取（第 87 批）：Iyiola Folayan 持股 50–75%"
    ],
-   "psc": "待取（/persons-with-significant-control）",
+   "psc": "Iyiola FOLAYAN — 唯一 PSC（2025-10-24 通知）：持股 50–75% + 表决权 50–75% + 任免董事权（第 87 批补取）→ **联系人 = 控股股东**；其余 25–50% 在 Aderonke Folayan / Andrew Oladipo（未达 PSC 门槛）；身份核验到期 2026-11-06",
    "charges": "无（新公司）",
    "prev_names": [],
    "lines": [
     "**样品 PI 未付的真相：对方是 2025-10 刚注册、虚拟地址、IT 咨询 SIC 的三人初创（Folayan 夫妇 + Oladipo），零财务记录**——不是「不想买」，是「还没钱 / 还没客户」：按新公司规则 100% 预付、样品按付费样机（规则）、不给账期、不做定制；回信语气友好但不追，列入 2027-Q1 群发节奏",
     "**Iyiola Folayan 本人就是董事 = 老板**，所以 2026-09-29 起 4 封实质来信（要目录、问价）是老板自己在做采购 —— 谈判直接谈，不必找「决策人」",
     "首份账目 2027-07-24 前申报 → 2027-08 复查是否有营收 / 是否仍 Active（一年期新公司约 1/3 会注销）",
-    "通信地址 128 City Road = 常见注册代理地址，发货地址要另问（Wakefield 或 Buckingham）"
+    "通信地址 128 City Road = 常见注册代理地址，发货地址要另问（Wakefield 或 Buckingham）",
+    "第 87 批补核：PSC = Iyiola Folayan（>50%）→ 他既是来信人也是控股人，决策链 = 一个人；但公司仍是 2025-10 新壳（虚拟办公地址）→ 付费样品 + 100% 预付的规则不变"
    ],
    "notes": "PSC 待取。",
    "fetched": "2026-10-27",
-   "code": "SB-1115"
+   "code": "SB-1115",
+   "_src": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）"
+  },
+  "SB-151": {
+   "batch": 87,
+   "name": "OPTIWATCH LTD（Optiwatch Group）",
+   "iso": "GB",
+   "source": "UK · Companies House（官方）公司页 + officers 页",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09595034",
+   "number": "09595034",
+   "status": "Active（账目至 2025-05-31 已报；确认声明 2026-01-06 已交）",
+   "incorporated": "2015-05-18",
+   "company_type": "Private limited company",
+   "sic": [
+    "80200 安防系统服务（监控 / 报警 / 远程监看 —— Optiwatch 监控解决方案，Enfield 伦敦北）"
+   ],
+   "address": "Unit 5, Martinbridge Trading Estate, Lincoln Road, Enfield EN1 1SP",
+   "accounts": "小微账目（下期至 2026-05-31，2027-02-28 到期）；数字需 filing-history iXBRL（不取）",
+   "accounts_due": "2027-02-28（账目）/ 2027-01-20（确认声明）",
+   "size_band": "微型（1 名董事）",
+   "officers": [
+    "CHEGE, Timothy Mathangani — Director（2015-05-18 创立；2020-06 → 2022-10 短暂退出后 2022-10-01 复任；1975-06 生；肯尼亚籍居英；2026-01 身份已核）= 研究档 KP Tim Chege → **老板 = 联系人**",
+    "已离任：Faith Mathangani（Secretary 2016–2020 → Director 2020-06 → 2023-07；家属）、Francis Mwangi Wairegi（Director 2017-12 → 2020-02）、Nelson Kaamuli（Director 2024-10-31 → 2024-12-13，仅 6 周）"
+   ],
+   "psc": "待取（/persons-with-significant-control）；推定 Chege",
+   "charges": "未取",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（Tim Chege，一人董事；董事名单 6 进 6 出，2024 年底还有一位只待了 6 周）** → 典型「一人安防服务商」：需求是项目配套 PoE（4–16 口非管理 / 轻管理），集成 25% 但量小 → 零售档起；UKCA + CE，DAP 伦敦走 Saga 百运网线，100% 预付 MOQ 1 箱",
+    "2020-06 → 2022-10 创始人曾退出董事会（家属顶上）再回来 → 公司经历过停摆 / 重组；只做小额现金单",
+    "复查：2027-02-28 账目到期后看是否仍 Active"
+   ],
+   "notes": "PSC 未取。",
+   "fetched": "2026-10-27",
+   "code": "SB-151"
+  },
+  "SB-360": {
+   "batch": 87,
+   "name": "LONGTEK ELECTRONICS EUROPE LTD",
+   "iso": "GB",
+   "source": "UK · Companies House（官方）公司页 + officers 页",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05227994",
+   "number": "05227994",
+   "status": "Active（账目至 2025-03-31 已报；确认声明 2026-04-12 已交）",
+   "incorporated": "2004-09-10（Form 10 代办壳起步，4 天后换为夫妇本人）",
+   "company_type": "Private limited company",
+   "sic": [
+    "80200 安防系统服务（CCTV / 门禁 —— Longtek 以 CCTV 配件 + 网络产品为主，研究档）"
+   ],
+   "address": "12 Bishops Close, Enfield EN1 3QJ（**住宅地址 = 家庭公司**）",
+   "accounts": "小微账目（下期至 2026-03-31，2026-12-31 到期）；数字需 iXBRL（不取）",
+   "accounts_due": "2026-12-31（账目）/ 2027-04-26（确认声明）",
+   "size_band": "微型（夫妻店：1 董事 + 1 秘书，21 年无其他任命）",
+   "officers": [
+    "THEVALOJAN, Thevarajah — Director（2004-09-10 起，1975-05 生，英籍，身份已核）= 研究档 KP → **老板 = 联系人**",
+    "THEVALOJAN, Tharshini — Secretary（2004-09-10 起；同址，配偶）"
+   ],
+   "psc": "待取；推定 Thevalojan 夫妇",
+   "charges": "未取",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人（Thevarajah Thevalojan，21 年夫妻店，注册在 Enfield 住宅）** → 小额现金单客户：4–8 口 PoE 非管理 + STC-028GP 零售档，UKCA + CE，MOQ 1 箱、100% 预付，DAP 伦敦走 Saga 百运网线；别投入定制 / 账期",
+    "与 SB-151 Optiwatch 同在 Enfield（EN1）且同 SIC 80200 → 两户可共用同一批 DAP 伦敦运费与同一「London security installers」话术；不要在信里互相提及",
+    "复查：2026-12-31 账目到期"
+   ],
+   "notes": "",
+   "fetched": "2026-10-27",
+   "code": "SB-360"
   }
  }
 }
