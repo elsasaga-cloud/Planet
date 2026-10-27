@@ -190,6 +190,28 @@ def pregrade(rec):
     return 'B', '对口但不在主攻区（美加/欧/土以外）→ XB', flags
 
 
+def norm_key(name):
+    """公司名归一（去法律后缀/通用词/标点），用于跨表查重。"""
+    s = (name or '').lower()
+    s = re.sub(r'[（(].*?[)）]', '', s)
+    s = re.sub(r'\b(ltd|limited|llc|inc|corp|corporation|co|company|gmbh|ag|bv|b\.v|nv|sa|s\.a|srl|s\.r\.l|spa|s\.p\.a|sl|s\.l|sas|sarl|pty|sdn|bhd|'
+               r'fze|fzco|fzc|dmcc|plc|oy|ab|as|aps|kft|zrt|doo|d\.o\.o|sro|s\.r\.o|sp\. ?z ?o\.? ?o\.?|lda|pvt|private|public|group|holding|holdings|'
+               r'international|intl|trading|technologies|technology|tech|systems|system|solutions|solution|networks|network|distribution|'
+               r'distributors|distributor|security|securities|the)\b', ' ', s)
+    s = re.sub(r'[^a-z0-9\u4e00-\u9fff]+', '', s)
+    return s
+
+
+def name_known(name, keys):
+    """name 是否已在 keys（norm_key 集合）中：全等，或 >5 字符时的包含关系。"""
+    k = norm_key(name)
+    if not k:
+        return False
+    if k in keys:
+        return True
+    return len(k) > 5 and any(k in kk or kk in k for kk in keys if kk)
+
+
 def phones_in(text):
     out = []
     for p in PHONE.findall(text or ''):

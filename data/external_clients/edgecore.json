@@ -2,7 +2,7 @@
  "repo": "Edgecore",
  "src": "elsasaga-cloud/Edgecore@729187d",
  "branch": "arena/6214ebb8-edgecore",
- "count": 157,
+ "count": 240,
  "records": [
   {
    "repo": "Edgecore",
@@ -26172,6 +26172,6049 @@
    "grade": "C",
    "grade_reason": "品牌原厂 / 供应商 / 同行，不是买家",
    "code": "XC-E038"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#1",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "D2UNet Pty Ltd",
+   "country_zh": "澳大利亚",
+   "iso": "AU",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "8 Darter Street, The Ponds, NSW 2769"
+    ],
+    [
+     "电话",
+     "(02) 9629 8780"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "B",
+   "grade_reason": "对口但不在主攻区（美加/欧/土以外）→ XB；只在来源库 xlsx 里出现（未建档），资料极少，待研究",
+   "code": "XB-E093"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#4",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Richman Informatics",
+   "country_zh": "孟加拉国",
+   "iso": "BD",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "Navana DH Tower, Suite # 502, 6 Panthopath, Dhaka-1215"
+    ],
+    [
+     "电话",
+     "+880-2-9143683"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+880-2-9143683"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "B",
+   "grade_reason": "对口但不在主攻区（美加/欧/土以外）→ XB；只在来源库 xlsx 里出现（未建档），资料极少，待研究",
+   "code": "XB-E094"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#5",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Mekong Link Co. LTD",
+   "country_zh": "柬埔寨",
+   "iso": "KH",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "S3-08–S3 09, Olympia Mall Street 217 and 182 Blvd, Phnom Penh"
+    ],
+    [
+     "电话",
+     "+855-23902239"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+855-23902239"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "B-028",
+    "name": "Mekong Link Co. LTD",
+    "why": "佳能办公设备代理为主，网络仅集成配套"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-028）：佳能办公设备代理为主，网络仅集成配套；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E039"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#6",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "EPS Global",
+   "country_zh": "中国",
+   "iso": "CN",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "Ascendas-Xinsu Industrial Square, 5 XingHan Street, Block C Floor 4, Suzhou, 215021"
+    ],
+    [
+     "电话",
+     "+86-512-6761 7757"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+86-512-6761 7757"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "大陆",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "DELETE",
+   "grade_reason": "大陆公司（Simon：一律删除）",
+   "code": ""
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#7",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Nocsys",
+   "country_zh": "中国",
+   "iso": "CN",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "1st Floor, No.63 Building, No.421 Hong Cao Road, Xuhui District, Shanghai"
+    ],
+    [
+     "电话",
+     "+86-21-3497 0308"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+86-21-3497 0308"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "大陆",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "DELETE",
+   "grade_reason": "大陆公司（Simon：一律删除）",
+   "code": ""
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#8",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "PT Converion Solution Informatica",
+   "country_zh": "印度尼西亚",
+   "iso": "ID",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "Centennial Tower 12th Floor, Jl. Jend. Gatot Subroto Kav.24-25, Jakarta 12930"
+    ],
+    [
+     "电话",
+     "+62-21-806 22278"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+62-21-806 22278"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "B-029",
+    "name": "PT Converion Solution Informatica",
+    "why": "印尼最大分销集团 CTI Group 子公司，量级/决策门槛注记"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-029）：印尼最大分销集团 CTI Group 子公司，量级/决策门槛注记；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E040"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#9",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "PT. Sysware Indonesia",
+   "country_zh": "印度尼西亚",
+   "iso": "ID",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "Komplek Puri Mutiara Blok BD No.5, Jakarta 14350"
+    ],
+    [
+     "电话",
+     "+62-21-29569443"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+62-21-29569443"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "B-030",
+    "name": "PT. Sysware Indonesia",
+    "why": "已转型网络安全软件 VAD（Bitdefender 总代），硬件交换非其线"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-030）：已转型网络安全软件 VAD（Bitdefender 总代），硬件交换非其线；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E041"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#12",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ITOCHU Techno-Solutions Corporation",
+   "country_zh": "日本",
+   "iso": "JP",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "Kasumigaseki Bldg., 3-2-5 Kasumigaseki, Chiyoda-ku, Tokyo"
+    ],
+    [
+     "电话",
+     "03-6203-5000"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "C-011",
+    "name": "ITOCHU Techno-Solutions Corp",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 C-011）：主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E042"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#13",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "MACNICA, Inc.",
+   "country_zh": "日本",
+   "iso": "JP",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "Macnica Bldg. No.1, 1-6-3 Shin-Yokohama, Kohoku-ku, Yokohama"
+    ],
+    [
+     "电话",
+     "+81-45-470-9831"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+81-45-470-9831"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "C-012",
+    "name": "MACNICA INC.",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 C-012）：主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E043"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#24",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Xander international corp.",
+   "country_zh": "中国台湾",
+   "iso": "TW",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "5F., No.531, Zhongzheng Rd., Xindian Dist., New Taipei City 231"
+    ],
+    [
+     "电话",
+     "(02)2219-1600"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "B-046",
+    "name": "Xander international corp.",
+    "why": "上柜上市（6118）广谱 IT/3C 大通路（260 人）——量级偏大"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-046）：上柜上市（6118）广谱 IT/3C 大通路（260 人）——量级偏大；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E044"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#26",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "SWS Group Company Limited",
+   "country_zh": "泰国",
+   "iso": "TH",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "2126 Kromadit Building, 1st Floor, New Petchburi Road, Huay Kwang, Bangkok 10310"
+    ],
+    [
+     "电话",
+     "+66-2-016 3006"
+    ],
+    [
+     "来源页",
+     "asia-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+66-2-016 3006"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "B-049",
+    "name": "SWS Group Company Limited",
+    "why": "索尼专业广电授权分销+服务中心（官网）——品类不符（摄像机/医疗影像）"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-049）：索尼专业广电授权分销+服务中心（官网）——品类不符（摄像机/医疗影像）；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E045"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#33",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ELECTRONIC PRODUCT SERVICES",
+   "country_zh": "中国",
+   "iso": "CN",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Ascendas-Xinsu Industrial Square, 5 XingHan Street, Block C Floor 4, Suzhou"
+    ],
+    [
+     "电话",
+     "+86-512-6761 7757"
+    ],
+    [
+     "来源页",
+     "asia-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+86-512-6761 7757"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "大陆",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "DELETE",
+   "grade_reason": "大陆公司（Simon：一律删除）",
+   "code": ""
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#34",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "SKYWARE PROTECH LIMITED",
+   "country_zh": "中国香港",
+   "iso": "HK",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Room 3806A, 38/F., Cable TV Tower, 9 Hoi Shing Road, Tsuen Wan, N.T."
+    ],
+    [
+     "电话",
+     "(852) 31060868"
+    ],
+    [
+     "来源页",
+     "asia-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "A-031",
+    "name": "SKYWARE",
+    "why": "AV 为主"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 A-031）：AV 为主；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E046"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#37",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Algorithmic Digital Solutions Inc.",
+   "country_zh": "菲律宾",
+   "iso": "PH",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Unit 3F Virt.53 Symphony Tower 2, Sgt Esguerra Ave., Quezon City 1103"
+    ],
+    [
+     "电话",
+     "+63-968-8777 100"
+    ],
+    [
+     "来源页",
+     "asia-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+63-968-8777 100"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "A-034",
+    "name": "Algorithmic Digital Solutions Inc.",
+    "why": "官网为软件开发代理商、无硬件货架证据"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 A-034）：官网为软件开发代理商、无硬件货架证据；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E047"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#45",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "AsiaPac Distribution Pte Ltd",
+   "country_zh": "新加坡",
+   "iso": "SG",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Blk 219 Henderson Road, #05-01/02/03/04 Henderson Industrial Park, SG 159556"
+    ],
+    [
+     "电话",
+     "(+65) 6270 8281"
+    ],
+    [
+     "来源页",
+     "asia-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+65) 6270 8281"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "B-039",
+    "name": "AsiaPac Distribution Pte Ltd",
+    "why": "2018 年入 Keppel/M1 系、2026-04 更名为 Keppel Technology Solutions（CRN Asia），主业转多云/SI——集团内公司+品类偏移"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-039）：2018 年入 Keppel/M1 系、2026-04 更名为 Keppel Technology Solutions（CRN Asia），主业转多云/SI——集团内公司+品类偏移；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E048"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#46",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ComWorth Solutions Pte Ltd",
+   "country_zh": "新加坡",
+   "iso": "SG",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "81 Ubi Avenue 4, #06-02 UB.One, Singapore 408830"
+    ],
+    [
+     "电话",
+     "+65-6748 2260"
+    ],
+    [
+     "来源页",
+     "asia-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+65-6748 2260"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "A-039",
+    "name": "ComWorth",
+    "why": "测试利基"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 A-039）：测试利基；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E049"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#55",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "TRENTO SYSTEMS Inc.",
+   "country_zh": "韩国",
+   "iso": "KR",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "50, Techno jungang-ro, Yuseong-gu, Daejeon 34018"
+    ],
+    [
+     "电话",
+     "+82-42-710-5600"
+    ],
+    [
+     "来源页",
+     "asia-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+82-42-710-5600"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "A-047",
+    "name": "TRENTO",
+    "why": "登记 2 人研究衍生"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 A-047）：登记 2 人研究衍生；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E050"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#61",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "CTC GLOBAL  LTD.",
+   "country_zh": "泰国",
+   "iso": "TH",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "1788 Singha Complex, Unit 2301-2305, 23rd Floor, New Phetchaburi Road, Bangkok 10310"
+    ],
+    [
+     "电话",
+     "+66-2-059-0411"
+    ],
+    [
+     "来源页",
+     "asia-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+66-2-059-0411"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "B-047",
+    "name": "CTC GLOBAL (THAILAND) LTD.",
+    "why": "日本伊藤忠 Techno-Solutions（CTC）2017 年起 100% 持股（集团官网）——大集团全资，采购归口日本"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-047）：日本伊藤忠 Techno-Solutions（CTC）2017 年起 100% 持股（集团官网）——大集团全资，采购归口日本；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E051"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#65",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "FPT INFORMATION SYSTEM CORPORATION",
+   "country_zh": "越南",
+   "iso": "VN",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "22F, Keangnam Landmark 72 Tower, E6 Pham Hung road, Nam Tu Liem, Hanoi"
+    ],
+    [
+     "电话",
+     "+84-24-35626000"
+    ],
+    [
+     "来源页",
+     "asia-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+84-24-35626000"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "B-050",
+    "name": "FPT INFORMATION SYSTEM CORPORATION",
+    "why": "员工 3,500+、母集团 FPT 上市科技巨头（官网）——超大集团"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-050）：员工 3,500+、母集团 FPT 上市科技巨头（官网）——超大集团；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E052"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#74",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Khushi Communications Pvt. Ltd.",
+   "country_zh": "印度",
+   "iso": "IN",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "705-706, 7th Floor, Kirti Shikhar Building, Janakpuri District Centre, New Delhi 110058"
+    ],
+    [
+     "电话",
+     "011-4161 5459"
+    ],
+    [
+     "来源页",
+     "indian-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "C-022",
+    "name": "SHI International",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 C-022）：主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E053"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#75",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "KRUPAM SOLUTIONS LLP",
+   "country_zh": "印度",
+   "iso": "IN",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "403, Hir-Asha Arcade, Nr Shaleen Hospital, Sola Gam Rd. Sciencecity, Ahmedabad"
+    ],
+    [
+     "电话",
+     "+91-7405375321"
+    ],
+    [
+     "来源页",
+     "indian-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+91-7405375321"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "A-058",
+    "name": "KRUPAM",
+    "why": "AV 小集成商"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 A-058）：AV 小集成商；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E054"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#79",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Ravi and Singh Communication",
+   "country_zh": "印度",
+   "iso": "IN",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "The Cloverleaf, 1st Floor, Plot-37, Sector-11 (Metro Station), Dwarka, New Delhi-110075"
+    ],
+    [
+     "电话",
+     "+91-11-40558635"
+    ],
+    [
+     "来源页",
+     "indian-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+91-11-40558635"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "A-062",
+    "name": "Ravi and Singh Communication",
+    "why": "登记 LLP 已除名、签约主体混乱"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 A-062）：登记 LLP 已除名、签约主体混乱；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E055"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#83",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ASBIS Enterprises PLC",
+   "country_zh": "塞浦路斯",
+   "iso": "CY",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "1, Iapetou Street Agios Athanasios, 4101 Limassol (Head Office)"
+    ],
+    [
+     "电话",
+     "357-25-857 000"
+    ],
+    [
+     "来源页",
+     "emea-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "大集团",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "超大集团 / 决策链太长（Saga 守界：大集团搞不定）",
+   "code": "XC-E056"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#94",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ASBIS Poland Sp.z o.o",
+   "country_zh": "波兰",
+   "iso": "PL",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "Ul. M. Słowikowskiego 81C, Budynek H4, 05-090 Raszyn"
+    ],
+    [
+     "电话",
+     "48-501867434"
+    ],
+    [
+     "来源页",
+     "emea-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "大集团",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "C-006",
+    "name": "ASBIS Poland",
+    "why": "核法人独立性、品牌现行状态与本地采购入口；无独立入口才终局删除"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "超大集团 / 决策链太长（Saga 守界：大集团搞不定）",
+   "code": "XC-E057"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#106",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Fionis GmbH",
+   "country_zh": "奥地利",
+   "iso": "AT",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Anton-Hubmann-Platz 2, 8071 Goessendorf"
+    ],
+    [
+     "电话",
+     "+43-3135-40 960-0"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+43-3135-40 960-0"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-128",
+    "name": "Fionis GmbH",
+    "why": "被大集团吸收：2024-05 并入 Netceed 全球集团（2,000+ 人/19 国），2025-09 合并更名，独立采购主体消亡（与原 A 类移出理由一致）"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-128）：被大集团吸收：2024-05 并入 Netceed 全球集团（2,000+ 人/19 国），2025-09 合并更名，独立采购主体消亡（与原 A 类移出理由一致）；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E058"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#108",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Alyseo",
+   "country_zh": "法国",
+   "iso": "FR",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "44 rue Armand Carrel 93100 Montreuil"
+    ],
+    [
+     "电话",
+     "+33-1-83 35 10 10"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+33-1-83 35 10 10"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-129",
+    "name": "Alyseo",
+    "why": "微企业+方向迁移：注册资本 €9,000、约 8 人，业务转楼宇操作系统 WireBOS，关联子公司 ALYSEO BOS 2026-03 进入自愿清算，硬件采购非主业形态"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-129）：微企业+方向迁移：注册资本 €9,000、约 8 人，业务转楼宇操作系统 WireBOS，关联子公司 ALYSEO BOS 2026-03 进入自愿清算，硬件采购非主业形态；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E059"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#112",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "DELTA Computer Products GmbH",
+   "country_zh": "德国",
+   "iso": "DE",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Rontgenstr. 4, D-21465 Reinbek bei Hamburg"
+    ],
+    [
+     "电话",
+     "+49-40-300 672-0"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+49-40-300 672-0"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-007",
+    "name": "DELTA Computer Products GmbH",
+    "why": "HPC/AI 服务器硬件为主，交换机为配套边线"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-007）：HPC/AI 服务器硬件为主，交换机为配套边线；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E060"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#124",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Exclusive Networks",
+   "country_zh": "荷兰",
+   "iso": "NL",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Ekkersrijt 4601, 5692 DR SON"
+    ],
+    [
+     "电话",
+     "+31-499-462121"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+31-499-462121"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "大集团",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "C-009",
+    "name": "Exclusive Networks",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "超大集团 / 决策链太长（Saga 守界：大集团搞不定）",
+   "code": "XC-E061"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#126",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Infradata Group",
+   "country_zh": "荷兰",
+   "iso": "NL",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Nieuwenhuizenweg 3, 2314 XP Leiden"
+    ],
+    [
+     "电话",
+     "+31-71-7501525"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+31-71-7501525"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-010",
+    "name": "Infradata Group",
+    "why": "私募 IK Partners 控股的泛欧大集团，与「大集团不作为目标」原则相悖"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-010）：私募 IK Partners 控股的泛欧大集团，与「大集团不作为目标」原则相悖；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E062"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#127",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Xentech B.V.",
+   "country_zh": "荷兰",
+   "iso": "NL",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Vredeweg 46 / D1, 1505-HH Zaandam"
+    ],
+    [
+     "电话",
+     "+31-85-002 0796"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+31-85-002 0796"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "A-018→B-135",
+    "name": "Xentech B.V.",
+    "why": "KvK 登记 2020-08-04 已注销（Opgeheven），官网仍在线"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 A-018→B-135）：KvK 登记 2020-08-04 已注销（Opgeheven），官网仍在线；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E063"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#130",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "TELCARIA",
+   "country_zh": "葡萄牙",
+   "iso": "PT",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Barrionuevo 8, Local 1, 28911 Leganés (Madrid), Spain"
+    ],
+    [
+     "电话",
+     "+34-910261014"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+34-910261014"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-133",
+    "name": "TELCARIA",
+    "why": "品类错位：UC3M 衍生研发服务商（SDN/NFV/5G 项目与咨询），靠欧盟/国家科研项目营收，非交换机采购方"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-133）：品类错位：UC3M 衍生研发服务商（SDN/NFV/5G 项目与咨询），靠欧盟/国家科研项目营收，非交换机采购方；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E064"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#135",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Kontron, d.o.o.",
+   "country_zh": "斯洛文尼亚",
+   "iso": "SI",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Ljubljanska cesta 24a, 4000 Kranj"
+    ],
+    [
+     "电话",
+     "+386-4-207 20 00"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+386-4-207 20 00"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-012",
+    "name": "Kontron d.o.o.",
+    "why": "上市 Kontron AG 集团子公司，且自产 GPON 等接入设备属同业竞品"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-012）：上市 Kontron AG 集团子公司，且自产 GPON 等接入设备属同业竞品；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E065"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#145",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "M2M Enterprise",
+   "country_zh": "英国",
+   "iso": "GB",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Hanover Place, 8 Ravensbourne Road, Bromley, Kent BR1 1HP, London"
+    ],
+    [
+     "电话",
+     "+44-208-676 6067"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+44-208-676 6067"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "A-025",
+    "name": "M2M Enterprise",
+    "why": "存储 VAD"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 A-025）：存储 VAD；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E066"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#146",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Telent Technology Services Ltd",
+   "country_zh": "英国",
+   "iso": "GB",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Point 3, Haywood Road, Warwick, CV34 5AH"
+    ],
+    [
+     "电话",
+     "+44-1926-693 000"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+44-1926-693 000"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "C-010",
+    "name": "Telent Technology Services",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 C-010）：主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E067"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#148",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Vesper Technologies Ltd",
+   "country_zh": "英国",
+   "iso": "GB",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Units 5/6 Rugby Park Bletchley Road Stockport Cheshire SK4 3EJ"
+    ],
+    [
+     "电话",
+     "+44-161-947 4321"
+    ],
+    [
+     "来源页",
+     "emea-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+44-161-947 4321"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "A-027",
+    "name": "Vesper",
+    "why": "DC/HPC 非接入层"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 A-027）：DC/HPC 非接入层；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E068"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#151",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "info-logic ebm",
+   "country_zh": "加拿大",
+   "iso": "CA",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "1400, boulevard Marie-Victorin, suite 103 St-Bruno (Québec) J3V 6B9"
+    ],
+    [
+     "电话",
+     "1-450-653-7575"
+    ],
+    [
+     "来源页",
+     "northamerica-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-058",
+    "name": "info-logic ebm",
+    "why": "微型经销（估营收 ~$1M），无公开邮箱/KP/存续活跃度证据——无触达面"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-058）：微型经销（估营收 ~$1M），无公开邮箱/KP/存续活跃度证据——无触达面；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E069"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#153",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ASI",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "asipartner.com",
+   "domain": "asipartner.com",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "48289 Fremont Blvd. Fremont, CA 94538"
+    ],
+    [
+     "电话",
+     "(510) 226-8000"
+    ],
+    [
+     "来源页",
+     "northamerica-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "asipartner.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "C-027",
+    "name": "ASI (ASI Computer Technologies)",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 C-027）：主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E070"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#154",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Avnet",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "avnet.com",
+   "domain": "avnet.com",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "2211 S. 47th St. Phoenix, Arizona 85034"
+    ],
+    [
+     "电话",
+     "480-643-2000"
+    ],
+    [
+     "来源页",
+     "northamerica-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "avnet.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "大集团",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "C-017",
+    "name": "Avnet",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "超大集团 / 决策链太长（Saga 守界：大集团搞不定）",
+   "code": "XC-E071"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#157",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Global Convergence, Inc.",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "700 Brooker Creek Blvd. Ste.1000, Oldsmar, FL 34677"
+    ],
+    [
+     "电话",
+     "(813) 925-6021"
+    ],
+    [
+     "来源页",
+     "northamerica-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-074",
+    "name": "Global Convergence, Inc.",
+    "why": "2021 年被 New Era Technology 收购并更名运营，独立采购主体消亡，归口大集团供应商体系"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-074）：2021 年被 New Era Technology 收购并更名运营，独立采购主体消亡，归口大集团供应商体系；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E072"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#159",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "TD SYNNEX",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "44201 Nobel Drive, Fremont, CA 94538"
+    ],
+    [
+     "电话",
+     "800-237-8931"
+    ],
+    [
+     "来源页",
+     "northamerica-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "大集团",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "C-018",
+    "name": "TD SYNNEX",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "超大集团 / 决策链太长（Saga 守界：大集团搞不定）",
+   "code": "XC-E073"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#160",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Tech Data",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "techdata.com",
+   "domain": "techdata.com",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "8700 S Price Road, Tempe, AZ 85284"
+    ],
+    [
+     "电话",
+     "800-237-8931"
+    ],
+    [
+     "来源页",
+     "northamerica-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "techdata.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "大集团",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "C-019",
+    "name": "Tech Data (TD SYNNEX系)",
+    "why": "核法人独立性、品牌现行状态与本地采购入口；无独立入口才终局删除"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "超大集团 / 决策链太长（Saga 守界：大集团搞不定）",
+   "code": "XC-E074"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#163",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Tuangru",
+   "country_zh": "加拿大",
+   "iso": "CA",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "Suite 800–510 West Hastings Street, Vancouver, BC V6B 1L8"
+    ],
+    [
+     "电话",
+     "1-866-612-3637"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-060",
+    "name": "Tuangru",
+    "why": "纯 DCIM 软件商，2022 年更名 Hyperview——品类不符（非硬件渠道）"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-060）：纯 DCIM 软件商，2022 年更名 Hyperview——品类不符（非硬件渠道）；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E075"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#165",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "AMAX",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "amax.com",
+   "domain": "amax.com",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "1565 Reliance Way, Fremont, CA 94539"
+    ],
+    [
+     "电话",
+     "(800) 800-6328"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "amax.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-062",
+    "name": "AMAX",
+    "why": "台湾上市控股（6933.TW）服务器主业 251–500 人体系——品类配角+量级"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-062）：台湾上市控股（6933.TW）服务器主业 251–500 人体系——品类配角+量级；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E076"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#166",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Anixter",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "2301 Patriot Blvd. Glenview, IL 60026"
+    ],
+    [
+     "电话",
+     "(800) 323 8167"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "大集团",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "C-016",
+    "name": "Anixter Inc.",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "超大集团 / 决策链太长（Saga 守界：大集团搞不定）",
+   "code": "XC-E077"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#168",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Blue Chip Tek, Inc.",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "3030 Olcott St, Santa Clara, CA 95054"
+    ],
+    [
+     "电话",
+     "408-731-7700"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-064",
+    "name": "Blue Chip Tek, Inc.",
+    "why": "2018 年被 Converge Technology Solutions（上市）全资收购——集团采购归口"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-064）：2018 年被 Converge Technology Solutions（上市）全资收购——集团采购归口；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E078"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#171",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Champion One",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "23645 Mercantile Rd. Beachwood, OH 44122"
+    ],
+    [
+     "电话",
+     "216-831-1800"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-065",
+    "name": "Champion One",
+    "why": "现为罗格朗 Legrand 旗下品牌 Approved Networks——大集团"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-065）：现为罗格朗 Legrand 旗下品牌 Approved Networks——大集团；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E079"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#174",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Dorado Software",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "PO Box 4701, El Dorado Hills, CA 95762"
+    ],
+    [
+     "电话",
+     "916-673-1100"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-067",
+    "name": "Dorado Software",
+    "why": "网络管理软件主业；2026 年起才带卖 Larch 交换机——品类偏移（硬件动向终局复核）"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-067）：网络管理软件主业；2026 年起才带卖 Larch 交换机——品类偏移（硬件动向终局复核）；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E080"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#175",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ePLUS",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "eplus.com",
+   "domain": "eplus.com",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "13595 Dulles Technology Drive, Herndon, VA 20171"
+    ],
+    [
+     "电话",
+     "703-984-8400"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "eplus.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "C-024",
+    "name": "ePlus inc.",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 C-024）：主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E081"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#176",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "GDT",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "gdt.com",
+   "domain": "gdt.com",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "999 Metromedia Pl, Dallas, TX 75247"
+    ],
+    [
+     "电话",
+     "214-857-6997"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "gdt.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "C-025",
+    "name": "GDT",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 C-025）：主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E082"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#179",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "KGPCo",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "kgpco.com",
+   "domain": "kgpco.com",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "3305 Highway 60 West, Faribault, MN 55021"
+    ],
+    [
+     "电话",
+     "1-800-328-5142"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "kgpco.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-069",
+    "name": "KGPCo",
+    "why": "员工 1,001–5,000 人、营收 ~$308M 的运营商供应链商——超大体量"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-069）：员工 1,001–5,000 人、营收 ~$308M 的运营商供应链商——超大体量；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E083"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#182",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "PA Computer Connections",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "789 East Pittsburgh Street, Greensburg, PA 15601"
+    ],
+    [
+     "电话",
+     "724-838-7526"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "A-073",
+    "name": "PA Computer Connections",
+    "why": "美，社区级 MSP/维修小店"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 A-073）：美，社区级 MSP/维修小店；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E084"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#183",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Racklive",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "48761 Kato Road, Fremont, CA 94538"
+    ],
+    [
+     "电话",
+     "1-650-230-8060"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "B-071",
+    "name": "Racklive",
+    "why": "重复档案：官网自述为 B-063 ASA Computers 的数据中心事业部，同址同创始人，终局建议合并至 B-063"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-071）：重复档案：官网自述为 B-063 ASA Computers 的数据中心事业部，同址同创始人，终局建议合并至 B-063；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E085"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#185",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "SHI",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "shi.com",
+   "domain": "shi.com",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "290 Davidson Avenue, Somerset, NJ 08873"
+    ],
+    [
+     "电话",
+     "888-764-8888"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "shi.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "C-022",
+    "name": "SHI International",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 C-022）：主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E086"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#187",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "TESSCO",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "11126 McCormick Road, Hunt Valley, MD 21031"
+    ],
+    [
+     "电话",
+     "+1-800-472-7373"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+1-800-472-7373"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删",
+    "缺联系"
+   ],
+   "src_deleted": {
+    "old_code": "C-026",
+    "name": "TESSCO Technologies",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 C-026）：主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E087"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#189",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "SI·VAR·经销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "WWT",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "wwt.com",
+   "domain": "wwt.com",
+   "type": "SI·VAR·经销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "SI·VAR·经销商"
+    ],
+    [
+     "地址",
+     "60 Weldon Parkway, St. Louis, Missouri 63043"
+    ],
+    [
+     "电话",
+     "800-432-7008"
+    ],
+    [
+     "来源页",
+     "northamerica-reseller"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "wwt.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "大集团",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "美国超大 VAR / 分销（Saga 守界：大集团搞不定）；只在来源库 xlsx 里出现，未建档",
+   "code": "XC-E088"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#190",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "线上电商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "CDW",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "cdw.com",
+   "domain": "cdw.com",
+   "type": "线上电商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "线上电商"
+    ],
+    [
+     "地址",
+     "Computershare P.O. Box 30170, College Station, TX 77842"
+    ],
+    [
+     "电话",
+     "1-800-736-3001"
+    ],
+    [
+     "来源页",
+     "northamerica-online"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "cdw.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "大集团",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "C-020",
+    "name": "CDW Corporation",
+    "why": "主体存续/集团归属、实际规模、接入交换品类、KP、公开邮箱、本地采购自主权"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "超大集团 / 决策链太长（Saga 守界：大集团搞不定）",
+   "code": "XC-E089"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-渠道伙伴库#192",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "分销商",
+   "src_segment": "渠道伙伴库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "META LLC",
+   "country_zh": "亚美尼亚",
+   "iso": "AM",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "分销商",
+   "src_status": "",
+   "facts": [
+    [
+     "渠道类型",
+     "分销商"
+    ],
+    [
+     "地址",
+     "0031, Armenia, Erevan, 14 Ara Sargsysn Str., 3 floor"
+    ],
+    [
+     "电话",
+     "+374-93003333"
+    ],
+    [
+     "来源页",
+     "cis-distributors"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [
+    "+374-93003333"
+   ],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库已删",
+    "来源库未建档（仅在 xlsx）",
+    "来源库终局已删"
+   ],
+   "src_deleted": {
+    "old_code": "B-084",
+    "name": "META LLC",
+    "why": "主体无法交叉核实：泛化名，仅 Edgecore 名录孤证，无官网/邮箱/高管痕迹（亚美尼亚实落点为 B-085）"
+   },
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "来源库 2026-10-19 R16/R17 终局已删（旧 B-084）：主体无法交叉核实：泛化名，仅 Edgecore 名录孤证，无官网/邮箱/高管痕迹（亚美尼亚实落点为 B-085）；按方案 §7 已删档案不复活，仅存档备查",
+   "code": "XC-E090"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#1",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "电信/IDC",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "IPNexia",
+   "country_zh": "比利时/欧洲",
+   "iso": "BE",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "电信/IDC",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "电信/IDC"
+    ],
+    [
+     "项目/用途",
+     "数据中心 Spine-Leaf 自动化部署（VxLAN EVPN，部署时间从数小时缩到数分钟）"
+    ],
+    [
+     "涉及产品/方案",
+     "AS7726-32X + AS7326-56X + Enterprise SONiC"
+    ],
+    [
+     "来源",
+     "edge-core.com case-study 2026-01"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E091"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#3",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "测试/实验室",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Candela Technologies",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "测试/实验室",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "测试/实验室"
+    ],
+    [
+     "项目/用途",
+     "大规模园区网络测试，使用 Edgecore TIP OpenWiFi AP"
+    ],
+    [
+     "涉及产品/方案",
+     "TIP OpenWiFi AP"
+    ],
+    [
+     "来源",
+     "edge-core.com case-study 2022-12"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E092"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#4",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "教育/政府",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "台南市校园网",
+   "country_zh": "中国台湾",
+   "iso": "TW",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "教育/政府",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "教育/政府"
+    ],
+    [
+     "项目/用途",
+     "275 所学校 Wi-Fi 覆盖"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore Wi-Fi 方案"
+    ],
+    [
+     "来源",
+     "edge-core.com case-study 2022-11"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E093"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#5",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "政府/城市",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Lang Son City",
+   "country_zh": "越南",
+   "iso": "VN",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "政府/城市",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "政府/城市"
+    ],
+    [
+     "项目/用途",
+     "城市网络建设"
+    ],
+    [
+     "涉及产品/方案",
+     "L3/L2+ 交换机"
+    ],
+    [
+     "来源",
+     "edge-core.com case-study 2020-10"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E094"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#6",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "IXP/运营商",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "LINX",
+   "country_zh": "英国",
+   "iso": "GB",
+   "city": "",
+   "website": "linx.net",
+   "domain": "linx.net",
+   "type": "IXP/运营商",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "IXP/运营商"
+    ],
+    [
+     "项目/用途",
+     "LON2/MAN LAN 升级，开放网络迁移"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore 开放交换机 + IP Infusion OcNOS"
+    ],
+    [
+     "来源",
+     "edge-core.com press-release 2021/2024"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "linx.net（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E095"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#7",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "教育/科研",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "NCTU",
+   "country_zh": "中国台湾",
+   "iso": "TW",
+   "city": "",
+   "website": "nycu.edu.tw",
+   "domain": "nycu.edu.tw",
+   "type": "教育/科研",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "教育/科研"
+    ],
+    [
+     "项目/用途",
+     "全球 OpenFlow SDN 骨干"
+    ],
+    [
+     "涉及产品/方案",
+     "AS4610-54T / AS4610 系列"
+    ],
+    [
+     "来源",
+     "edge-core.com case-study 2016"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "nycu.edu.tw（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E096"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#8",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "教育",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Clemson University",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "教育",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "教育"
+    ],
+    [
+     "项目/用途",
+     "Big Cloud Fabric + Edgecore"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore 开放交换机 + Big Switch"
+    ],
+    [
+     "来源",
+     "edge-core.com case"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E097"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#9",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "教育/科研",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "UTSA",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "utsa.edu",
+   "domain": "utsa.edu",
+   "type": "教育/科研",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "教育/科研"
+    ],
+    [
+     "项目/用途",
+     "Cloud & Big Data Lab 10G/40G 网络"
+    ],
+    [
+     "涉及产品/方案",
+     "AS6712-32X / AS5712-54X + Cumulus"
+    ],
+    [
+     "来源",
+     "edge-core.com case"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "utsa.edu（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E098"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#10",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "集成商/政府项目",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "NETAS",
+   "country_zh": "土耳其",
+   "iso": "TR",
+   "city": "",
+   "website": "netas.com.tr",
+   "domain": "netas.com.tr",
+   "type": "集成商/政府项目",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "集成商/政府项目"
+    ],
+    [
+     "项目/用途",
+     "4,000 所学校无线网络，92,000 AP + 4,026 AC"
+    ],
+    [
+     "涉及产品/方案",
+     "EWS 系列无线控制器/AP"
+    ],
+    [
+     "来源",
+     "Edgecore 产品概览 2018"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "netas.com.tr（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "重复=Saga"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": {
+    "code": "SA-086",
+    "grade": "A",
+    "via": "netas.com.tr"
+   },
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "与 Saga Clients 重叠（SA-086，经 netas.com.tr）→ 以 Saga 档为准，本条不单独跟",
+   "code": "XC-E099"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#11",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "教育",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ITM University Gurgaon",
+   "country_zh": "印度",
+   "iso": "IN",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "教育",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "教育"
+    ],
+    [
+     "项目/用途",
+     "校园管理型网络"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore 有线+无线"
+    ],
+    [
+     "来源",
+     "edge-core.com case"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E100"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#13",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "互联网企业",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "MicroAds",
+   "country_zh": "以色列",
+   "iso": "IL",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "互联网企业",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "互联网企业"
+    ],
+    [
+     "项目/用途",
+     "Cumulus + Edgecore 开放交换机"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore 开放交换机"
+    ],
+    [
+     "来源",
+     "featuredcustomers.com"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E101"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#14",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "云实验室",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "CloudLabs",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "云实验室",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "云实验室"
+    ],
+    [
+     "项目/用途",
+     "BCF+OpenStack 验证环境"
+    ],
+    [
+     "涉及产品/方案",
+     "AS6700-32X / AS5710-54X"
+    ],
+    [
+     "来源",
+     "edge-core.com case"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E102"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#16",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "ISP/WISP",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Amplex",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "ISP/WISP",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "ISP/WISP"
+    ],
+    [
+     "项目/用途",
+     "聚合层扩容"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore + OcNOS"
+    ],
+    [
+     "来源",
+     "ipinfusion.com casestudies"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "B",
+   "grade_reason": "主攻区但没有可用邮箱（只有表单或地址失效）→ 先 XB，补到邮箱再升；只在来源库 xlsx 里出现（未建档），资料极少，待研究",
+   "code": "XB-E095"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#17",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "ISP",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "AnschlussWerk",
+   "country_zh": "德国",
+   "iso": "DE",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "ISP",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "ISP"
+    ],
+    [
+     "项目/用途",
+     "300G CRS + 2.4T 聚合路由"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore + IP Infusion Aggregation Router"
+    ],
+    [
+     "来源",
+     "ipinfusion.com casestudies"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "B",
+   "grade_reason": "主攻区但没有可用邮箱（只有表单或地址失效）→ 先 XB，补到邮箱再升；只在来源库 xlsx 里出现（未建档），资料极少，待研究",
+   "code": "XB-E096"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#19",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "ISP",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Haefele Connect",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "ISP",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "ISP"
+    ],
+    [
+     "项目/用途",
+     "L3 聚合（原 Cisco/Juniper 替代）"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore + OcNOS"
+    ],
+    [
+     "来源",
+     "ipinfusion.com casestudies"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "B",
+   "grade_reason": "主攻区但没有可用邮箱（只有表单或地址失效）→ 先 XB，补到邮箱再升；只在来源库 xlsx 里出现（未建档），资料极少，待研究",
+   "code": "XB-E097"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#20",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "ISP（约10万用户/11州）",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Nextlink Internet",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "ISP（约10万用户/11州）",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "ISP（约10万用户/11州）"
+    ],
+    [
+     "项目/用途",
+     "中间 mile 传输 + 站点路由 + 核心 DC"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore + OcNOS-SP"
+    ],
+    [
+     "来源",
+     "ipinfusion.com"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "B",
+   "grade_reason": "主攻区但没有可用邮箱（只有表单或地址失效）→ 先 XB，补到邮箱再升；只在来源库 xlsx 里出现（未建档），资料极少，待研究",
+   "code": "XB-E098"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#21",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "运营商",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "SK Telecom",
+   "country_zh": "韩国",
+   "iso": "KR",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "运营商",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "运营商"
+    ],
+    [
+     "项目/用途",
+     "IPoDWDM PoC（IOWN 全光网络）"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore 白盒 + 400G OpenZR+"
+    ],
+    [
+     "来源",
+     "ipinfusion.com"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E103"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#22",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "OEM/MSP 平台商",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Indio Networks",
+   "country_zh": "印度",
+   "iso": "IN",
+   "city": "",
+   "website": "indionetworks.com",
+   "domain": "indionetworks.com",
+   "type": "OEM/MSP 平台商",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "OEM/MSP 平台商"
+    ],
+    [
+     "项目/用途",
+     "OpenWiFi + OpenLAN 量产集成，面向 EMEA MSP/电信"
+    ],
+    [
+     "涉及产品/方案",
+     "OpenWiFi AP + OLS 交换机"
+    ],
+    [
+     "来源",
+     "wifi.edge-core.com 2026-01"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "indionetworks.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "B",
+   "grade_reason": "IN：Simon 口径「一些俄/印/韩」→ XB 慢慢跟；只在来源库 xlsx 里出现（未建档），资料极少，待研究",
+   "code": "XB-E099"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#23",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "政府/城市",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "City of Hoover",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "政府/城市",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "政府/城市"
+    ],
+    [
+     "项目/用途",
+     "城市网络升级"
+    ],
+    [
+     "涉及产品/方案",
+     "AS5812-54X / AS4610-54T + Pica8 PICOS"
+    ],
+    [
+     "来源",
+     "edge-core.com case"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E104"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#24",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "ISP/MDU",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Dojo Networks",
+   "country_zh": "美国",
+   "iso": "US",
+   "city": "",
+   "website": "dojonetworks.com",
+   "domain": "dojonetworks.com",
+   "type": "ISP/MDU",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "ISP/MDU"
+    ],
+    [
+     "项目/用途",
+     "MDU 间传输改造（替代 Cisco）"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore + OcNOS"
+    ],
+    [
+     "来源",
+     "ipinfusion.com casestudies"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ],
+    [
+     "域名",
+     "dojonetworks.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E105"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#25",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "ISP（7.5万用户）",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ASOM-Net",
+   "country_zh": "（东南亚）",
+   "iso": "",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "ISP（7.5万用户）",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "ISP（7.5万用户）"
+    ],
+    [
+     "项目/用途",
+     "IPoDWDM 开放网络扩容"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore 白盒 + 400G ZR+ + Smartoptics"
+    ],
+    [
+     "来源",
+     "ipinfusion.com casestudies"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "国别待核",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "B",
+   "grade_reason": "国别未识别，待核后再定；只在来源库 xlsx 里出现（未建档），资料极少，待研究",
+   "code": "XB-E100"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#26",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "ISP/MSP",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Prosoluce",
+   "country_zh": "法国",
+   "iso": "FR",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "ISP/MSP",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "ISP/MSP"
+    ],
+    [
+     "项目/用途",
+     "100G EVPN-VXLAN 核心升级"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore + OcNOS（Pine Networks 集成）"
+    ],
+    [
+     "来源",
+     "ipinfusion.com casestudies"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "B",
+   "grade_reason": "主攻区但没有可用邮箱（只有表单或地址失效）→ 先 XB，补到邮箱再升；只在来源库 xlsx 里出现（未建档），资料极少，待研究",
+   "code": "XB-E101"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#27",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "运营商/ISP",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ITandTEL",
+   "country_zh": "奥地利",
+   "iso": "AT",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "运营商/ISP",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "运营商/ISP"
+    ],
+    [
+     "项目/用途",
+     "主权 MPLS 骨干现代化"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore + OcNOS 400G ZR+"
+    ],
+    [
+     "来源",
+     "ipinfusion.com"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E106"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#29",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "AI 平台商",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "HyperVerge",
+   "country_zh": "印度",
+   "iso": "IN",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "AI 平台商",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "AI 平台商"
+    ],
+    [
+     "项目/用途",
+     "高带宽低时延数据中心"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore 数据中心方案"
+    ],
+    [
+     "来源",
+     "edge-core.com press-release 2026-06"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E107"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-案例客户库#30",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "2026-10-18 17:30:00",
+   "src_p1": "",
+   "src_role": "AI 基础设施",
+   "src_segment": "案例客户库",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "Submer",
+   "country_zh": "西班牙/中东非洲",
+   "iso": "ES",
+   "city": "",
+   "website": "",
+   "domain": "",
+   "type": "AI 基础设施",
+   "src_status": "",
+   "facts": [
+    [
+     "行业/类型",
+     "AI 基础设施"
+    ],
+    [
+     "项目/用途",
+     "AI-ready 数据中心合作备忘录"
+    ],
+    [
+     "涉及产品/方案",
+     "Edgecore 数据中心"
+    ],
+    [
+     "来源",
+     "edge-core.com media-report 2026-09"
+    ],
+    [
+     "采集时间",
+     "2026-10-18 17:30:00"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）",
+    "终端触点",
+    "缺联系"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "终端用户 / 运营商案例（Edgecore 官方案例页），不是渠道买家；仅存档",
+   "code": "XC-E108"
+  },
+  {
+   "repo": "Edgecore",
+   "src_code": "XLSX-目标客户评估#46",
+   "src_grade": "-",
+   "src_path": "Edgecore客户数据库.xlsx",
+   "src_stage": "",
+   "src_updated": "",
+   "src_p1": "",
+   "src_role": "大型分销",
+   "src_segment": "目标客户评估",
+   "src_needs": [],
+   "src_risk": [],
+   "src_volume": "",
+   "name": "ASBIS",
+   "country_zh": "欧洲/中东",
+   "iso": "",
+   "city": "",
+   "website": "asbis.com",
+   "domain": "asbis.com",
+   "type": "大型分销",
+   "src_status": "",
+   "facts": [
+    [
+     "我方目标类型",
+     "大型分销"
+    ],
+    [
+     "匹配理由",
+     "EMEA 大型 VAD"
+    ],
+    [
+     "切入点建议",
+     "低优先，可关注其细分需求"
+    ],
+    [
+     "优先级(1最高)",
+     "4"
+    ],
+    [
+     "跟进状态",
+     "未联系"
+    ],
+    [
+     "域名",
+     "asbis.com（Agent 常识补写，待核）"
+    ]
+   ],
+   "contact_text": "",
+   "kp_text": "",
+   "evidence_text": "",
+   "evidence_urls": [],
+   "followups": [],
+   "r_notes": [],
+   "emails": [],
+   "emails_live": [],
+   "phones": [],
+   "kp_named": false,
+   "stage": "",
+   "flags": [
+    "域名待核",
+    "大集团",
+    "无可用邮箱",
+    "来源库未建档（仅在 xlsx）"
+   ],
+   "src_repo_ref": "elsasaga-cloud/Edgecore@729187d (arena/6214ebb8-edgecore)",
+   "saga_dup": null,
+   "repo_dup": null,
+   "touch": null,
+   "grade": "C",
+   "grade_reason": "超大集团 / 决策链太长（Saga 守界：大集团搞不定）",
+   "code": "XC-E109"
   }
  ]
 }

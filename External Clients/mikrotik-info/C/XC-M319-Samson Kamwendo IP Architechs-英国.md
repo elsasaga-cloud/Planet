@@ -1,0 +1,53 @@
+# XC-M319 · Samson Kamwendo / IP Architechs · 英国
+
+> **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-254`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+
+## 1. 初判与理由
+- 初判：**XC** — 超大集团 / 决策链太长（Saga 守界：大集团搞不定）
+- 标记：大集团、库内重复
+- 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
+- 库内重复：与来源库 `A-273` 同域名，研究时合并判断
+- 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
+
+## 2. 基本事实（来源库口径，未经本库复核）
+| 项 | 内容 |
+|---|---|
+| 公司 | Samson Kamwendo / IP Architechs |
+| 国家 / 城市 | 英国 / Peterborough |
+| ISO | GB |
+| 网站 | iparchitechs.com |
+| 类型 / 角色 | 集成商/顾问（MikroTik 认证） |
+| 在卖品牌（反向信号） | MikroTik 认证顾问 MTCNA+MTCUME |
+| 自有品牌 | 否 |
+| 切入点（来源库） | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 他们首推（仅参考，不照搬） | STC-424XGGM（Saga） |
+| 来源库优先级 / 状态 | ★★★ / 未触达 |
+| 来源库之来源 | 2026-09-22 |
+| 来源库备注 | ★★★ 【升级：这家是跨国大所，不是普通顾问】自述「全球最大的 MikroTik 咨询公司之一，3 国设办公室、6 大洲有在建项目，客户含财富 500 强与上市公司，提供全球 24/7 支持」。公司内已知 3 位认证顾问：英国 Samson Kamwendo（MTCNA+MTCUME）、美国 Thomas Murdock（+1-855-645-7684 / thomas.murdock@iparchitechs.com，9 证）、Abraham Rios Velez（+1 303 590 9940 / abraham.rios@gmail.com，6 证，波多黎各出身，服务西语市场；西语站 es.iparchitechs.com）。★**交换专长（逐条列出）：VLAN（Q-in-Q、s/c tag、重写/翻译）、生成树、LACP 与绑定、GPON、二层传输设计、二层冗余**。无线含体育场/大型场馆；服务含 IPTV 与实时视频、SIP/H.323。→ 一家公司同时覆盖欧美与拉美 【2026-09-28 R50 去重提示】与 A-273 （同域名 iparchitechs.com） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 C 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#C-131 |
+| 来源库评级依据 | 备注含「全球最大」，决策链长或存在品牌冲突 |
+| 来源文件 | `profile/C/C-254-Samson Kamwendo - IP Architechs-英国.md` @ elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info) |
+
+## 3. 联系方式
+- 邮箱：samson.kamwendo@iparchitechs.com（公开）
+- 邮箱：thomas.murdock@iparchitechs.com（公开）
+- 邮箱：abraham.rios@gmail.com（公开）
+- 来源库入口字段：+44 7778 431460 / samson.kamwendo@iparchitechs.com
+
+## 4. 关键人（KP）
+- 无（待挖）
+
+## 5. 证据与来源 URL（来源库）
+- 无
+
+## 6. 已知触达
+- Saga S 箱 2026-09/10 群发名单：未匹配到本户邮箱
+
+## 7. 我方产品线提示
+- SmartByte 商用管理型（Marvell）为主 + Saga STI 工业系列补位（MikroTik/Allied/工业品牌渠道，缺的是性价比管理型与工业 PoE）
+- 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
+- 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
+
+## 8. 研究与跟进（第 2 步起填）
+- 研究状态：未研究
+- 研究结论 / 升降建议：—
+- 下一步：—

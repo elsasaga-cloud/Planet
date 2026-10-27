@@ -1,0 +1,61 @@
+﻿序号,公司/群体,国家/地区,我方目标类型,匹配理由,切入点建议,优先级(1最高),跟进状态
+1,Deca Consulting,比利时,品牌商/方案商(SI),技术型 SI，做 SONiC/Edgecore 深度集成，客户群为欧洲 IDC/运营商,深度定制 OEM/ODM、CLI/MIB 支持；项目型报价可让利,1,未联系
+2,Pine Networks,法国,品牌商/方案商(SI),ISP 集成商，做 100G EVPN-VXLAN 核心项目（Prosoluce）,汇聚/核心层 CENTEC 方案对标，项目联合投标,1,未联系
+3,STORDIS GmbH / STORDIS Limited,德国/英国,分销商(开放网络专业),开放网络专业分销，技术能力强，长期经营 Edgecore/Cumulus 生态,白牌/OEM 供货、快速交期、芯片库存保障,1,未联系
+4,Circle B,荷兰,分销商/方案商,荷兰开放网络生态活跃商，OCP 社区关联,OEM/ODM 贴牌 + 技术支持,1,未联系
+5,Cell-Core Industrial Technologies Ltd,匈牙利,品牌商/方案商,工业以太网技术公司，工业交换机需求与我方工业线高度重合,工业 PoE/工业管理型 OEM，宽温方案,1,未联系
+6,"Kontron, d.o.o.",斯洛文尼亚,品牌商/方案商(工业),工业计算品牌 Kontron 旗下，工业/嵌入式场景,工业交换机 ODM/OEM 深度定制,1,未联系
+7,FIBERGET,白俄罗斯,分销/集成(独联体),独联体市场，价格敏感，习惯亚洲供应链,高性价比 L2+/PoE，交期优势,1,未联系
+8,ООО NAGTECH,乌兹别克斯坦,分销/集成(独联体),中亚新兴市场进口商,现货+长期供货，价格灵活,1,未联系
+9,NETMARK DISTRIBUTION,越南,分销商(东南亚),越南分销，毗邻中国供应链，有进口习惯,CCTV/PoE 现货，OEM 贴牌,1,未联系
+10,PAVANA TECHNOLOGIES,越南,分销商(东南亚),越南分销，安防/园区项目,CCTV 交换机方案，价格让利,1,未联系
+11,SSS Vietnam Joint Stock Company,越南,分销商(东南亚),越南系统集成/分销,项目型报价，PoE++/ERPS 功能卖点,1,未联系
+12,Richman Informatics,孟加拉国,分销商(南亚),孟加拉 IT 分销，价格敏感市场,高性价比 L2+，长期供货,1,未联系
+13,Mekong Link Co. LTD,柬埔寨,分销商(东南亚),柬埔寨新兴分销,入门级 L2/PoE 现货,1,未联系
+14,Green Cube Technologies Pvt. Ltd.,尼泊尔,分销商(南亚),尼泊尔/南亚小市场分销,小批量+快速交期,1,未联系
+15,"Positron Multiverse Co., Ltd",柬埔寨,SI/经销商,柬埔寨 SI,项目配合，方案可行性和价格让利,2,未联系
+16,PT. Gwen Tekno Pratama / PT Trinet Prima Solusi,印度尼西亚,SI/经销商,印尼 SI，非巨头，项目体量适中,CCTV/园区 PoE 方案,2,未联系
+17,Mart Networks（Kenya/Tanzania/Uganda/Rwanda）,东非四国,分销商(非洲),东非分销网络，新兴市场价格敏感,性价比+长期供货+OEM 贴牌,1,未联系
+18,Soliton Telmec Limited,肯尼亚,SI/经销商,肯尼亚 SI,项目型跟进,2,未联系
+19,ODDnet,摩洛哥,SI/经销商,北非法语区 SI,项目型跟进,2,未联系
+20,Miro Distribution,南非,分销商(非洲),南非分销,价格+供货稳定性,2,未联系
+21,IntruGrid LLP / NETSOFT SOLUTIONS / STARCOM Technologies,巴基斯坦,分销/SI(南亚),巴基斯坦三家，价格敏感、进口活跃,高性价比 PoE/L2+，灵活付款方式可谈,1,未联系
+22,MBUZZ（沙特/迪拜）,沙特/阿联酋,分销商(中东),中东分销，安防/城市场景多,CCTV/PoE 方案，项目投标支持,2,未联系
+23,Evollabs Tech FZ-LLC,阿联酋,分销/SI(中东),迪拜自由区，转口贸易活跃,OEM/贴牌+快速交期,1,未联系
+24,Core Technologies LLC,阿联酋,SI(中东),沙迦自由区,项目型小单,2,未联系
+25,Khushi Communications / Micromap / Ravi and Singh 等,印度,SI/经销商(南亚),印度中小型 SI 群体（多家），项目制采购,项目报价让利、技术响应速度,2,未联系
+26,Saimaa Technologies LLP / Sheeltron Digital,印度,分销商(南亚),孟买/班加罗尔分销,价格+交期,2,未联系
+27,"BANBROS COMMERCIAL., INC.",菲律宾,分销商(东南亚),菲律宾老牌分销,CCTV/PoE，OEM,2,未联系
+28,C. F. KING Enterprise,文莱,SI/经销商,小市场独家型商,长期跟进池,3,未联系
+29,DataOne / Tech Trad / VEMAX / VESC,马来西亚,SI/经销商,马来 SI 群体,项目型跟进,2,未联系
+30,AHNNET / AI TECH / LANOASIS / NEWGENS 等 韩国 SI 群体,韩国,SI/经销商(东北亚),韩国 SI 群体（约10家），技术要求高,注意 KC 认证缺失——仅接无强制认证项目；深度定制可谈,3,未联系
+31,M2M Enterprise,英国,SI/经销商,英国 M2M/物联网方向，规模适中,OEM/物联网配套交换机,2,未联系
+32,Utopia Technology / Vesper Technologies,英国,SI/经销商,英国中小型技术商,技术型跟进（CLI/MIB）,2,未联系
+33,Xentech B.V. / Distri X BV / FiberUnlimited,荷兰,分销/SI,荷兰中小渠道群体,电商/分销现货供应,2,未联系
+34,Datanet Systems,罗马尼亚,SI/经销商,罗马尼亚系统集成商,项目型,2,未联系
+35,Upstream ICT Alliance,塞尔维亚,SI/经销商,塞尔维亚/巴尔干,价格敏感市场,2,未联系
+36,Aero-IT distribucija d.o.o.,斯洛文尼亚,分销商,巴尔干分销,现货+价格,2,未联系
+37,Meta LLC / Redinet CJSC / Romsat Georgia / ROMSAT,亚美尼亚/格鲁吉亚/乌克兰,分销商(独联体),高加索/乌克兰渠道,价格+供货,2,未联系
+38,Wisi Spain / Telcaria,西班牙,SI/经销商,西班牙/南欧,项目型跟进,2,未联系
+39,Direktronik / Vinnergi,瑞典,分销/SI,北欧渠道,工业/ISP 线切入,2,未联系
+40,E.C.I. NETWORKS / FONEX / info-logic / Planiselect,加拿大,分销商(北美),加拿大分销群体（法语区为主）,ISP/CCTV 线，项目型,3,未联系
+41,Nine-One-One Communication Supply,加拿大,SI/经销商,加拿大应急通信方向（911）,行业项目，避开超大集团,2,未联系
+42,Blue Core / Cambridge Computer / Myriad Supply / Hardware Nation,美国,SI/电商(北美),美国中小型技术渠道/电商,现货+电商供货,2,未联系
+43,Will Jaya / Sotel Systems / PA Computer Connections,美国,SI/经销商,美国区域型小 SI,小项目/小批量,2,未联系
+44,TD SYNNEX / Avnet / Tech Data / Anixter / WWT / CDW / SHI / ePLUS / Insight,美国,大型分销/电商,超大集团，按我方策略难拿下,仅作品牌背书参考，不作为主攻,5,未联系
+45,Exclusive Networks,荷兰,大型分销,欧洲大型安全/网络分销,同上，低优先,5,未联系
+46,ASBIS（塞浦路斯/波兰/中东）,欧洲/中东,大型分销,EMEA 大型 VAD,低优先，可关注其细分需求,4,未联系
+47,ECOM/技术型电商：Colfax Direct、CDW、Insight,美国,电商,线上标品渠道,现货标品+快速交期，可跟,3,未联系
+48,APRESIA / ITOCHU / MACNICA / 三井情报 / NEC NSI,日本,大型商社/SI,日本大手，认证门槛高（PSE 等）,仅长期跟进池,4,未联系
+49,FPT IS / NDC / NETCOM,越南,SI(东南亚),越南大 SI，项目体量中等偏大,选择性跟进，项目制报价,2,未联系
+50,ScaleIL LTD,以色列,SI/经销商,以色列技术市场,技术型定制，长期跟进,2,未联系
+51,Astute Electronics / Telent Technology Services,英国,SI(大型),英国较大 SI,选择性跟进,3,未联系
+52,Active Solution & Systems S.r.l.,意大利,SI,意大利 SI,项目型跟进,3,未联系
+53,LaserNetworks Kft,匈牙利,SI,匈牙利网络商,价格+项目,2,未联系
+54,primeLine / KTI / DELTA / ADN / Xantaro,德国,SI/分销(德国),德国技术渠道群体,技术型客户（CLI/MIB）优先,2,未联系
+55,Fionis GmbH,奥地利,SI,奥地利 SI,项目型,3,未联系
+56,MCS IT Distribution / ASBIS Cyprus,塞浦路斯,分销(东地中海),转口/区域分销,价格+供货,3,未联系
+57,PROFIcomms s.r.o.,捷克,SI/分销(中东欧),捷克渠道,中东欧价格敏感市场,2,未联系
+58,Allnet GmbH / ALLNET France,德国/法国,分销(西欧),Allnet 体系,中优先，看细分产品线,3,未联系
+59,Syserso Networks GmbH,德国,SI,德国 SI,项目型,3,未联系
+60,Electronic Product Services（多地）,德国/爱尔兰/罗马尼亚/英国/印度,分销(国际网络),EPS 全球网络（Edgecore 核心分销；按 2026-10-18 指令不含中国大陆公司）,了解其需求结构，作为行业情报源；合作空间有限,4,未联系

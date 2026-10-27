@@ -1,0 +1,8 @@
+﻿项目,说明
+数据来源,Edgecore 官网 Where-to-Buy 全球名录（asia/indian/emea/northamerica/cis distributors & reseller & online 页面），2026-10-18 采集
+数据来源,Edgecore 官方案例页 case-study / case-inquiry、新闻稿、IP Infusion 客户故事等公开资料，2026-10-18 采集
+处理范式,与 mikrotik-info 仓库同等方式：产品/价格库 + 客户/渠道研究 + 出货地分析 + 价值分析；mikrotik-info 仅只读参考，未复制其内容
+优先级定义,1=优先跟进（项目型/技术型/新兴市场进口商，匹配我方 OEM/ODM 与性价比卖点）；2=可跟；3=长期池；4=情报/背书用；5=大集团低优先
+使用方法,结合《Edgecore-vs-交换机价值分析.md》《Edgecore商业L2+主要出货地.md》制定开发信与报价策略
+注意,渠道名录来自公开页面，可能随 Edgecore 官网更新变动；联系前建议核对官网最新信息
+采集时间,2026-10-18 17:30:00

@@ -1,0 +1,31 @@
+﻿序号,客户名称,国家/地区,行业/类型,项目/用途,涉及产品/方案,来源,采集时间
+1,IPNexia,比利时/欧洲,电信/IDC,数据中心 Spine-Leaf 自动化部署（VxLAN EVPN，部署时间从数小时缩到数分钟）,AS7726-32X + AS7326-56X + Enterprise SONiC,edge-core.com case-study 2026-01,2026-10-18 17:30:00
+2,Deca Consulting,比利时,方案商/SI,为 IPNexia 实施 Edgecore+SONiC 数据中心方案（也是 EMEA 渠道伙伴）,AS7726-32X / AS7326-56X,edge-core.com case-study,2026-10-18 17:30:00
+3,Candela Technologies,美国,测试/实验室,大规模园区网络测试，使用 Edgecore TIP OpenWiFi AP,TIP OpenWiFi AP,edge-core.com case-study 2022-12,2026-10-18 17:30:00
+4,台南市校园网（合作中华电信）,中国台湾,教育/政府,275 所学校 Wi-Fi 覆盖,Edgecore Wi-Fi 方案,edge-core.com case-study 2022-11,2026-10-18 17:30:00
+5,Lang Son City（谅山市）,越南,政府/城市,城市网络建设,L3/L2+ 交换机,edge-core.com case-study 2020-10,2026-10-18 17:30:00
+6,LINX（伦敦互联网交换中心）,英国,IXP/运营商,LON2/MAN LAN 升级，开放网络迁移,Edgecore 开放交换机 + IP Infusion OcNOS,edge-core.com press-release 2021/2024,2026-10-18 17:30:00
+7,NCTU（台湾交通大学）,中国台湾,教育/科研,全球 OpenFlow SDN 骨干,AS4610-54T / AS4610 系列,edge-core.com case-study 2016,2026-10-18 17:30:00
+8,Clemson University,美国,教育,Big Cloud Fabric + Edgecore,Edgecore 开放交换机 + Big Switch,edge-core.com case,2026-10-18 17:30:00
+9,UTSA（德州大学圣安东尼奥）,美国,教育/科研,Cloud & Big Data Lab 10G/40G 网络,AS6712-32X / AS5712-54X + Cumulus,edge-core.com case,2026-10-18 17:30:00
+10,NETAS,土耳其,集成商/政府项目,"4,000 所学校无线网络，92,000 AP + 4,026 AC",EWS 系列无线控制器/AP,Edgecore 产品概览 2018,2026-10-18 17:30:00
+11,ITM University Gurgaon,印度,教育,校园管理型网络,Edgecore 有线+无线,edge-core.com case,2026-10-18 17:30:00
+12,Dubai Municipality（迪拜市政府）,阿联酋,政府,网络建设 CapEx 优化,Edgecore 开放网络,featuredcustomers.com,2026-10-18 17:30:00
+13,MicroAds,以色列,互联网企业,Cumulus + Edgecore 开放交换机,Edgecore 开放交换机,featuredcustomers.com,2026-10-18 17:30:00
+14,CloudLabs（Ciii）,美国,云实验室,BCF+OpenStack 验证环境,AS6700-32X / AS5710-54X,edge-core.com case,2026-10-18 17:30:00
+15,Scott Data,美国,数据中心,开放网络替代传统厂商,Edgecore + UfiSpace + Celestica + OcNOS,ipinfusion.com casestudies,2026-10-18 17:30:00
+16,Amplex,美国,ISP/WISP,聚合层扩容,Edgecore + OcNOS,ipinfusion.com casestudies,2026-10-18 17:30:00
+17,AnschlussWerk,德国,ISP,300G CRS + 2.4T 聚合路由,Edgecore + IP Infusion Aggregation Router,ipinfusion.com casestudies,2026-10-18 17:30:00
+18,Asia Pacific Telecom（亚太电信）,中国台湾,运营商,开放网络方案,Edgecore + IP Infusion,ipinfusion.com casestudies,2026-10-18 17:30:00
+19,Haefele Connect,美国,ISP,L3 聚合（原 Cisco/Juniper 替代）,Edgecore + OcNOS,ipinfusion.com casestudies,2026-10-18 17:30:00
+20,Nextlink Internet,美国,ISP（约10万用户/11州）,中间 mile 传输 + 站点路由 + 核心 DC,Edgecore + OcNOS-SP,ipinfusion.com,2026-10-18 17:30:00
+21,SK Telecom（SK电讯）,韩国,运营商,IPoDWDM PoC（IOWN 全光网络）,Edgecore 白盒 + 400G OpenZR+,ipinfusion.com,2026-10-18 17:30:00
+22,Indio Networks,印度,OEM/MSP 平台商,OpenWiFi + OpenLAN 量产集成，面向 EMEA MSP/电信,OpenWiFi AP + OLS 交换机,wifi.edge-core.com 2026-01,2026-10-18 17:30:00
+23,City of Hoover,美国,政府/城市,城市网络升级,AS5812-54X / AS4610-54T + Pica8 PICOS,edge-core.com case,2026-10-18 17:30:00
+24,Dojo Networks,美国,ISP/MDU,MDU 间传输改造（替代 Cisco）,Edgecore + OcNOS,ipinfusion.com casestudies,2026-10-18 17:30:00
+25,ASOM-Net,（东南亚）,ISP（7.5万用户）,IPoDWDM 开放网络扩容,Edgecore 白盒 + 400G ZR+ + Smartoptics,ipinfusion.com casestudies,2026-10-18 17:30:00
+26,Prosoluce,法国,ISP/MSP,100G EVPN-VXLAN 核心升级,Edgecore + OcNOS（Pine Networks 集成）,ipinfusion.com casestudies,2026-10-18 17:30:00
+27,ITandTEL,奥地利,运营商/ISP,主权 MPLS 骨干现代化,Edgecore + OcNOS 400G ZR+,ipinfusion.com,2026-10-18 17:30:00
+28,MetaLINK Technologies,美国,ISP,聚合层（与 MikroTik/Arista 混合组网）,Edgecore + UfiSpace + OcNOS,ipinfusion.com casestudies,2026-10-18 17:30:00
+29,HyperVerge,印度,AI 平台商,高带宽低时延数据中心,Edgecore 数据中心方案,edge-core.com press-release 2026-06,2026-10-18 17:30:00
+30,Submer（MoU）,西班牙/中东非洲,AI 基础设施,AI-ready 数据中心合作备忘录,Edgecore 数据中心,edge-core.com media-report 2026-09,2026-10-18 17:30:00
