@@ -4,7 +4,7 @@
   "source": "Australia · ABN Lookup（abr.business.gov.au，官方）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 2
+  "count": 3
  },
  "rows": {
   "SA-024": {
@@ -78,6 +78,40 @@
    "fetched": "2026-10-27",
    "code": "SB-936",
    "_src": "Australia · ABN Lookup（abr.business.gov.au，官方）"
+  },
+  "SB-546": {
+   "batch": 89,
+   "name": "NESS CORPORATION PTY LIMITED（商号 Ness Security Products / Valet / Protect Direct）",
+   "iso": "AU",
+   "source": "AU · ABR 官方（ABN Lookup 名称搜索 + ABN 详情页，2026-10-27 取；ASIC 董事付费未取）",
+   "url": "https://abr.business.gov.au/ABN/View?abn=28069984372",
+   "number": "ABN 28 069 984 372（ACN 069 984 372）",
+   "status": "Active（ABN 自 2000-04-13；GST 自 2000-07-01）",
+   "incorporated": "1995 前后（ACN 069… 段）；ABN 2000-04-13",
+   "company_type": "Australian Private Company（Pty Ltd）",
+   "sic": [
+    "安防报警 / 对讲 / 中央吸尘系统制造 + 分销：商号 NESS SECURITY PRODUCTS（2000）、NESSTRONICS（2009）、A.P.C.S.（2008）、I CENTRAL INTELLIGENT SYSTEMS（2009）、VALET INTERCOM / SECURITY / VACUUM / MANUFACTURING（2007–2016）、**PROTECT DIRECT（2024-10 新商号）**"
+   ],
+   "address": "NSW 2147（Seven Hills，悉尼西）",
+   "accounts": "Pty Ltd 不公示财报",
+   "accounts_due": "—",
+   "size_band": "中型（澳洲最大本土报警面板制造商之一；多商号多产品线）",
+   "officers": [
+    "（ABR 不含董事；ASIC 付费未取）研究档 KP Gerard Mace（grmace@）/ Mary Cartisano（sales@）= 销售 / 采购经办，非登记人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "NESS SECURITY PRODUCTS PTY LIMITED（trading name 2000）"
+   ],
+   "lines": [
+    "**Ness 是澳洲本土报警 / 对讲 / 中央吸尘制造集团（Seven Hills NSW，2000 年 ABN、商号 20 余个），不是经销商；31 封群发打开 3 封 0 回** → 他们是「自有品牌制造商」：唯一切入点 = Ness 品牌 PoE 交换机 / NVR 配套（OEM 30%），写给产品经理而非 sales@；2024-10 新商号 Protect Direct = 直销 / 电商线 → 可能在扩 SKU",
+    "澳洲 RCM 由进口商（Ness）自办；首单 T/T 50/50；DAP 悉尼走 Saga 百运网线；AU 周三 08–10（北京 06–08 发 → 悉尼上午）",
+    "复查：ABR 商号变化年看一次"
+   ],
+   "notes": "研究档 legal_name 空 → 回填；KP 不变。",
+   "fetched": "2026-10-27",
+   "code": "SB-546"
   }
  }
 }

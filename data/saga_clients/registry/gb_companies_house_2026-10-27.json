@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 15
+  "count": 16
  },
  "rows": {
   "SA-015": {
@@ -519,28 +519,62 @@
    "incorporated": "2014-05-15",
    "company_type": "Private limited company · 登记地址 168 Church Road, Hove BN3 2DL = 会计师 / 代理地址（9 名董事全用同一通讯地址 → 经营地另在）",
    "sic": [
-    "（SIC 未取）官网：专业通信设备增值分销 30+ 年 —— 以太网交换机 / 媒体转换器 / 串口 / 光纤 / SFP / 定制设计；Omnitron 分销"
+    "46510 计算机、外围设备与软件批发（Companies House overview，2026-10-27 取）；官网：专业通信设备增值分销 30+ 年 —— 以太网交换机 / 媒体转换器 / 串口 / 光纤 / SFP / 定制设计；Omnitron 分销"
    ],
    "address": "168 Church Road, Hove, East Sussex BN3 2DL（代理地址）；「30+ 年」历史承自 Bicester 时代的 Comtrol 英国分支",
-   "accounts": "未取（下轮 overview 页看 accounts_due / 规模）",
-   "accounts_due": "待取",
+   "accounts": "账目至 2025-06-30 已报；下期 2026-06-30，**2027-03-31 到期**；确认声明 2025-10-20（下期 2026-11-03）",
+   "accounts_due": "2027-03-31",
    "size_band": "小型（分销 + 定制设计；人数未取）",
    "officers": [
     "JONES, Timothy（1973-07 生）— Director：2014-05-15 创始董事 → 2020-02-03 辞任 → **2023-01-18 回任至今**；ID 核验到期 2026-11-03 = 研究档 KP Tim Jones（tim.jones@）→ **董事 / 共同创办人 = 联系人**",
     "WESLEY, Nigel Robert（1957-04 生）— Director（2020-02→2022-07；2025-01-13 回任至今）",
     "已辞：ELVIDGE Anthony（创始 2014→2020-02）、LAW Josephine（创始 2014→2020-02）、WAWRZESTA Louis（2020-02→2025-01）、FITZWILLIAMS Antoni（2021-04→2025-01）、RIISE Harald（挪威籍，2021-10→**2025-10-21**）"
    ],
-   "psc": "未取（下轮）；董事更替轨迹：2020-02 三创始人同日退 + 新班子进（= 股权变动 / MBO），2021 挪威籍董事进（= 北欧投资方），2023 Jones 回任，2025-01 班子再换、2025-10 挪威董事退 —— **2025 年又换了一次手 / 投资方退出**",
+   "psc": "**Port Group Limited（Companies House 11393630，2018 年设）≥75% 股权 + 表决权 + 任免董事权，2020-02-03 起**；此前 PSC（2016-04-06 → 2020-02-03）= Elvidge / Jones / Law 三人各 25–50% → 2020-02 三创始人把公司卖给 Port Group Limited；Jones 2023 回任 = 以经理人身份回来，不再是股东",
    "charges": "未取",
    "prev_names": [],
    "lines": [
     "**联系人 Tim Jones = 创始董事，2020 退出、2023 回任，2025 公司再次换班（挪威投资方 2025-10 退出）—— 现在 Jones + Wesley 两人当家，正是「重新选供应商」的窗口** → 27 封群发只打开 2 封，但 2025-02 Elsa 的「16 口 DIN 工业交换机」信是他们栏目正中的题：下一封按 ㉝ 带那封主题，只写 Tim（董事），内容 = 工业 DIN PoE（STI 系列 3 年保）+ 媒体转换器 Saga 不供但交换机侧可整柜配 Omnitron 之外的第二货源；分销 20%",
     "登记地址是代理地址 → 实际仓 / 办公另在；首单 T/T 50/50，UKCA + CE；DAP 英国走 Saga 百运网线；GB 周四 12–14",
-    "下轮补：overview（SIC / accounts_due / 规模）+ PSC（看 2025 新股东是谁）+ charges；复查 2027-01"
+    "PSC 补核（2026-10-27）：母公司 = Port Group Limited（11393630）—— 下轮查其 PSC / 董事（Riise 挪威籍 2021–2025 大概率是 Port Group 的投资方代表）；Tim Jones 现为「回任的创始人经理」，决策可能要过 Port Group；写信仍写 Tim，但报价单抬头写 COMTROL UK LIMITED"
    ],
    "notes": "研究档 legal_name 空 → 回填 COMTROL UK LIMITED；KP Tim Jones 职务回填 Director（2014 创始；2023 回任）。",
    "fetched": "2026-10-27",
    "code": "SB-745"
+  },
+  "SB-679": {
+   "batch": 89,
+   "name": "SARATOTA LIMITED",
+   "iso": "GB",
+   "source": "GB · Companies House 官方（search + overview + officers，2026-10-27 取）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05424607",
+   "number": "05424607",
+   "status": "Active（账目至 2025-04-30 已报；下期 2026-04-30，2027-01-31 到期；确认声明 2026-04-14）",
+   "incorporated": "2005-04-14",
+   "company_type": "Private limited company · 夫妻公司（董事 + 秘书同姓同址）",
+   "sic": [
+    "82990 其他商务支持服务 n.e.c.（登记 SIC 与实际「网络 / 通信设备供应」不符 —— 老公司沿用注册时的通用码）"
+   ],
+   "address": "Unit 21 Little Ridge Industrial Estate, Ridgeway, Welwyn Garden City, Herts AL7 2BH（真实工业园单元，非代理地址）",
+   "accounts": "小微账目（人数未公示）",
+   "accounts_due": "2027-01-31（账期 04-30）",
+   "size_band": "微型（夫妻 2 人 + 可能数名雇员）",
+   "officers": [
+    "WHITE, Michael Charles（1954-11 生，英籍，ID 已核）— Director（2005-04-14 创立至今）= 研究档收件人 mike.white@saratota.com → **老板 = 联系人**（年近 72 岁）",
+    "WHITE, June — Secretary（2005-04-14 起）= 配偶",
+    "成立当日 SDG Secretaries / SDG Registrars 名义董事进出（= 代办注册壳起步）"
+   ],
+   "psc": "未取（董事结构已明：夫妻）",
+   "charges": "（overview 无 charges 栏 = 无登记抵押）",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Mike White 是 Saratota 的创始董事（2005），公司 = 夫妻经营的赫特福德郡小单元，18 封群发打开 2 封 0 回** → 72 岁的夫妻店不会回群发：下一封只写 Mike 一人、一段话、一款（他打开过的主题对应的款），问一句「还在做网络设备这块吗」；分销 20%；首单 T/T 50/50，MOQ 1，UKCA + CE",
+    "年龄信号：创始人 72 岁 + 无第二董事 → 公司接班 / 退出风险，长期复利低 → 一封试探，不回即归档",
+    "复查 2027-02（账目到期后看是否仍在报）"
+   ],
+   "notes": "研究档 legal_name 已有 Saratota Ltd → 回填全称 + 号码；KP 原无 → 加 Michael Charles White（Director / owner）。",
+   "fetched": "2026-10-27",
+   "code": "SB-679"
   }
  }
 }

@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 1
+  "count": 2
  },
  "rows": {
   "SA-089": {
@@ -41,6 +41,41 @@
    "fetched": "2026-10-27",
    "code": "SA-089",
    "batch": 83
+  },
+  "SB-605": {
+   "batch": 89,
+   "name": "ELKOV elektro a.s.",
+   "iso": "CZ",
+   "source": "CZ · Obchodní rejstřík 镜像（fakturujzdarma：IČO / DIČ / 资本 / 人数档 / 董事会，ARES 核验 2026-09-24；rejstrik.penize：登记日 / 历任；or.justice.cz：B 3718）+ 官网 kontakty + 捷克维基（营收 / 人数 / 所有人）",
+   "url": "https://or.justice.cz/ias/ui/rejstrik-$firma?ico=26279690",
+   "number": "IČO 26279690 · DIČ CZ26279690 · Krajský soud v Brně B 3718 · LEI 31570010000000108638",
+   "status": "Aktivní（可靠增值税纳税人，无破产）",
+   "incorporated": "2002-03-04",
+   "company_type": "Akciová společnost（a.s.）· 所有人 MV elektro（Vodička 家族）100% · 基本资本 33,000,000 Kč",
+   "sic": [
+    "**电气材料 + 照明批发（捷克最大之一）**：33 家分店、分部 ELKOV lighting / servis / energy（光伏、充电桩、智慧城市）；工具租赁"
+   ],
+   "address": "Kšírova 701/255, Horní Heršpice, 619 00 Brno-jih",
+   "accounts": "集团营收 55 亿 Kč（≈ €2.2 亿；维基 2025）；总资产 10 亿 Kč（2018）、权益 4.68 亿 Kč（2018）；员工 500–999（RES）/ ≈700（2025）",
+   "accounts_due": "CZ 年报 Sbírka listin：次年 12-31 前",
+   "size_band": "大型（700 人；€2.2 亿）",
+   "officers": [
+    "Michal VODIČKA — předseda představenstva（董事长；创始人 Karel Vodička 之子，Karel 任董事长 2002–2009）",
+    "Martin MAREŠ — první místopředseda（第一副董事长）",
+    "Tomáš ŠKRHÁK（第二副）、Marek HAVLÍČEK（第三副）、Jitka KOBYLKOVÁ、Eva SEDLÁČKOVÁ — 董事会成员",
+    "研究档收件 nabidky.brno@elkov.cz = **报价 / 询价收件箱**（17 封 2 次打开）"
+   ],
+   "psc": "MV elektro（Vodička 家族）100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**判定：ELKOV 是 700 人、€2.2 亿的捷克电气材料连锁批发商（33 家店），我们寄到的是它的「报价收件箱」—— 这类大批发商只通过「供应商准入 + 品类经理」进货** → 分销 20% 档；下一封不发 nabidky@，改写采购部「datové sítě / slaboproud 品类经理」（官网 kontakty 页找人名），一页：PoE 交换机品类补位（捷克市场现有 Planet / TP-Link / Zyxel 价位之下）、CE / RoHS、捷克语标签 + 说明书、EAN、30 天账期可谈（对 a.s. 大客户可破例 —— 需 Simon 决定）",
+    "大批发商节奏：年度选品 Q4（10–11 月）→ 本周正是窗口；DAP 布尔诺走 Saga 百运网线；CZ 周四 12–14",
+    "复查：年报 Sbírka listin 每年 12 月"
+   ],
+   "notes": "研究档 legal_name 已有；补登记号 / 董事会；KP 无具名 → 加 Michal Vodička（董事长，不直接写）。",
+   "fetched": "2026-10-27",
+   "code": "SB-605"
   }
  }
 }

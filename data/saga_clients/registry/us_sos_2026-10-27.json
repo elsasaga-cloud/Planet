@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 25
+  "count": 26
  },
  "rows": {
   "SA-002": {
@@ -866,6 +866,40 @@
    "notes": "研究档 founded 可回填 2007；legal_name FikesMedia LLC（ZoomInfo，待 TX SoS 核）。",
    "fetched": "2026-10-27",
    "code": "SB-1114"
+  },
+  "SB-352": {
+   "batch": 89,
+   "name": "Fiberdyne Labs, Inc.",
+   "iso": "US",
+   "source": "US · SAM.gov 镜像 opengovus（UEI L689L2J632M7、1994-08-23 开业、S-corp、制造商、官员名单、注册有效至 2026-10-31）+ craft.co（CEO / 高管）+ Utica OD 2017（Polus 家族所有）+ LinkedIn（Misterka 2001 起 VP Purchasing）+ NY 参议院 2009（1992 Herkimer 创立、1998 迁 Frankfort）",
+   "url": "https://opengovus.com/sam-entity/L689L2J632M7",
+   "number": "SAM UEI L689L2J632M7（2001-10-04 登记；激活 2025-11-04；到期 2026-10-31）· NY S-Corporation",
+   "status": "Active（SAM 有效；官网在线）",
+   "incorporated": "1992（Herkimer NY；SAM 开业日 1994-08-23）",
+   "company_type": "S-Corp · **Polus 家族所有**（Peter Polus 创始人 / 董事长；Chad Polus；Heather Polus-Mosny 财务；Shaula Polus）",
+   "sic": [
+    "**光纤产品制造商**（CATV / 电信光纤组件、光收发与分配、安装服务；SAM 类型 MF 制造商）；姊妹公司 Fiberdyne Energy / Fiberdyne Advertising"
+   ],
+   "address": "127 Business Park Dr, Frankfort, NY 13340（自有厂房，5S North Business Park）",
+   "accounts": "私企；LinkedIn / ZoomInfo 51–200 人",
+   "accounts_due": "SAM 年审 10-31（2026-10-31 即将到期 → 11 月续）",
+   "size_band": "中型（51–200 人制造商）",
+   "officers": [
+    "A. Peter POLUS III — CEO（家族第二代）；Chad POLUS — SAM 登记官员（MR）；Heather POLUS-MOSNY — Treasurer",
+    "**Ken (Kenneth) MISTERKA — VP Purchasing（2001 起）/ VP Logistics（2008 起）= 研究档收件人 kmisterka@ → 采购拍板人本人（非老板，但正是选供应商的人）**",
+    "Jeremy NULTY（jnulty@，研究档）— 职能未核；Donna SALAMONE — VP Quality；Tammy AVERY — Account Executive"
+   ],
+   "psc": "Polus 家族 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**硬发现：我们 29 封信的收件人之一 Ken Misterka 是 Fiberdyne 的采购副总（25 年），公司是纽约州北部 Polus 家族的光纤产品制造商（51–200 人、SAM 登记制造商）** → 他是对的人，错的是内容：制造商采购要的是「配套 / 贴牌」不是「交换机价表」—— 下一封只给 Ken：Fiberdyne 光纤产品线配套的工业 / 商用交换机 + 媒体转换器以外的 PoE 款，可贴 Fiberdyne 标（OEM 30%），FCC / UL 不承诺（无 UL）→ 说明 FCC Part 15 + CE；样机付费",
+    "SAM 登记 = 有政府 / 市政光纤项目 → TAA 问题：白牌中国产不能进 TAA 合同，只能走商业线；付款 NET 30 不给、首单 50/50；DAP 纽约州走 Saga 百运网线；US 周三 08–10（EST）",
+    "复查：SAM 到期 2026-10-31 → 11 月看是否续（= 仍做政府项目）"
+   ],
+   "notes": "研究档 KP Ken Misterka 角色回填 VP Purchasing；加 CEO Polus；legal_name 回填。",
+   "fetched": "2026-10-27",
+   "code": "SB-352"
   }
  }
 }

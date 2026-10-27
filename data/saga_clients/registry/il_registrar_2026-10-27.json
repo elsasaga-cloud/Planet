@@ -1,0 +1,44 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "ישראל · רשם החברות（名錄摘要）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SB-696": {
+   "batch": 89,
+   "name": "AIRONIX SYSTEMS LTD（איירוניקס מערכות בע\"מ）",
+   "iso": "IL",
+   "source": "IL · רשם החברות 镜像（israeli-companies / obudget / b2bhint：ח.פ.、成立日、类型、状态、地址、最近报表年）+ 官网 about / contact + TechPartner + New-Tech 杂志联系栏",
+   "url": "https://next.obudget.org/i/org/company/515461101",
+   "number": "ח.פ. 515461101",
+   "status": "פעילה（在营；2020 快照「最近提交年报 2019」→ 年报可能拖欠，常见）",
+   "incorporated": "2016-05-30",
+   "company_type": "חברה פרטית（私人有限公司）；股东未公开（付费）",
+   "sic": [
+    "军工 / 航空 / 工业用加固计算机 + 嵌入式系统 + 电子元器件分销（Vecow 等）；**ORing 以色列授权分销商（工业交换机竞品线）**；实验室 ISO 9001:2015（SII）+ 以色列国防部供应商认证 No. 11005959"
+   ],
+   "address": "Ha'Ofe St. 2, Kadima 6092000（特拉维夫以北）",
+   "accounts": "私企不公开",
+   "accounts_due": "IL 年报每年（רשם החברות）",
+   "size_band": "微型 / 小型（ZoomInfo 列 Yair + Shiri Amzaleg 销售 + 办公室；估 5–15 人）",
+   "officers": [
+    "Yair TURJEMAN — 创始经理 / 实际负责人（LinkedIn「Aironix Systems & AEON Embedded Systems」；2017 起杂志联系人 yair@）= 研究档 KP（2026-08-13 来信要 47 台 AT-GS910-24 等效款）→ **老板 = 联系人**（登记股东未公开，推定）",
+    "Shiri AMZALEG — 销售（2024 起杂志联系人 shiri@）；Eytan Birenzwige（info@，研究档）"
+   ],
+   "psc": "未公开（推定 Turjeman）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Yair Turjeman 是 2016 年创立的以色列加固计算机分销商的负责人，同时是 ORing 工业交换机的以色列授权分销 —— 他 2026-08 来要 47 台「Allied AT-GS910-24 等效」= 商用 24 口千兆非管理，是项目补货、不是换主线** → 报价只给商用款（STI-0240GE 一档，分销 20%），别碰工业线（那是他的 ORing 饭碗，提了反而失分）；**守界**：公司主业军工 / 航空 —— 问清 47 台的终端用途是办公 / 工业园还是军方项目，军方项目 PASS（Saga 不供军用）",
+    "付款 100% 预付或 50/50；以色列进口无强制 CE 但要 SII 电气安全（交换机 12 V 适配器需 SII 认证）→ 适配器由他本地配或我们供带 SII 的；DAP 以色列走 Saga 百运网线（空运）；IL 工作周日–周四，周五六勿发",
+    "复查：年报提交年（b2bhint）每年看一次"
+   ],
+   "notes": "研究档 legal_name 空 → 回填；KP Yair 角色回填；守界提示写入。",
+   "fetched": "2026-10-27",
+   "code": "SB-696"
+  }
+ }
+}

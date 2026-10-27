@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 16
+  "count": 20
  },
  "rows": {
   "SA-086": {
@@ -543,6 +543,132 @@
    "notes": "不再检索。",
    "fetched": "2026-10-27",
    "code": "SB-093"
+  },
+  "SB-149": {
+   "batch": 89,
+   "name": "KLASNET İLETİŞİM VE GÜVENLİK（Bursa）",
+   "iso": "TR",
+   "source": "TR · 1 次检索：仅命中官网首页 / 联系页（2021 开业、14 年经验、Nilüfer 地址）；法定类型 / Ticaret Sicil / 业主未命中",
+   "url": "https://klasnet.com.tr/",
+   "number": "未取",
+   "status": "Aktif（官网在线）",
+   "incorporated": "2021（官网：「14 年经验，2021 年开始商业活动」）",
+   "company_type": "未知（Ltd. Şti. 或 şahıs；推定 şahıs 小企业）",
+   "sic": [
+    "弱电 / 网络 / 光纤布线 + 摄像机安防交钥匙项目（Bursa 本地集成商）"
+   ],
+   "address": "Üçevler Mah. Dumlupınar Cad. 120 A, Nilüfer / Bursa",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（2021 新店）",
+   "officers": [
+    "Mustafa（姓待核）— 研究档 KP（展会 WhatsApp；问「怎么成为分销商」、对 MC 感兴趣）→ 2021 新店的创办人（推定 = 老板）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**2021 年新开的 Bursa 弱电集成小店（一人 14 年经验出来单干），展会上问「怎么成为分销商」** → 分销资格的真实门槛说清：首单 MOQ 1 箱 + 100% 预付，连续 3 单后给 25% → 20%；MC（媒体转换器）Saga 不供 → 直接说没有，只给 PoE 交换机；WhatsApp 一页土耳其语 PDF",
+    "法定名 / 税号在首张形式发票时自然拿到；不再检索"
+   ],
+   "notes": "研究档 legal_name 已有「Klasnet İletişim ve Güvenlik」；founded 回填 2021。",
+   "fetched": "2026-10-27",
+   "code": "SB-149"
+  },
+  "SB-186": {
+   "batch": 89,
+   "name": "Başaran Elektronik（Gömeç / Balıkesir；法定类型未取，推定 şahıs）",
+   "iso": "TR",
+   "source": "TR · 1 次检索：LinkedIn Emrah Başaran（25 年电子行业；Electronic Technician；Gömeç）+ 官网 bize-ulaşın（地址 / 电话与用户表 0542 744 96 95 一致）+ firmaekle 名录；**注意同名干扰**：Başaran Group（İstanbul / Diyarbakır 建筑集团）、basaranelektronik.com（2024 新店，Emre）均非本户",
+   "url": "https://www.basaranelektronik.net/bize-ulasin",
+   "number": "未取（小店；Ticaret Sicil 未命中）",
+   "status": "Aktif（官网 2017 起有内容）",
+   "incorporated": "≈2017 前（官网服务区页 2017-10；Emrah 自述 25 年行业经验）",
+   "company_type": "推定 şahıs işletmesi（个体）",
+   "sic": [
+    "安防摄像机 + 报警 + 火警系统安装（服务区：Edremit 海湾 / Balıkesir 省）"
+   ],
+   "address": "Mithatpaşa Mah. Hasan Şen Sk. 23/30（另 Atatürk Cad. No 32），Gömeç / Balıkesir",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（1–3 人安装店）",
+   "officers": [
+    "Emrah BAŞARAN — 业主 / 技师（LinkedIn；店名即姓氏）= 研究档 KP → **老板 = 联系人**"
+   ],
+   "psc": "Emrah Başaran（个体）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Emrah Başaran 是爱琴海小镇 Gömeç 的一人安防安装店（25 年技师）；展会拿了彩页没说要什么** → 量级 = 每单 1–5 台 4/8 口 PoE 配摄像机（STI-054GP / STC-028GP），走 WhatsApp 土耳其语一页价；100% 预付；可建议他从伊斯坦布尔经销商（我们的 TR 分销户）拿货更划算 —— 这类户的复利在「养成分销商的下线」而非直供",
+    "不再检索；法定名随首张发票"
+   ],
+   "notes": "研究档 legal_name 已有；KP 角色回填。",
+   "fetched": "2026-10-27",
+   "code": "SB-186"
+  },
+  "SB-301": {
+   "batch": 89,
+   "name": "Ebatek Bilişim Teknolojileri（Gaziantep）",
+   "iso": "TR",
+   "source": "TR · 1 次检索：官网 hakkımızda（2005 Gaziantep 成立、软件 + IT 服务 + 网络 / 光纤服务）+ foursquare（Coşkun B. 常驻签到）；法定类型 / 业主未命中",
+   "url": "https://www.ebatek.com/page.asp?s=hakkimizda",
+   "number": "未取",
+   "status": "Aktif（官网 + 社媒在线）",
+   "incorporated": "2005（官网）",
+   "company_type": "未知（Ltd. Şti. 或 şahıs）",
+   "sic": [
+    "IT 服务 + 自有软件（MIS 项目，公共 / 私营客户）+ 电脑耗材 + 技术服务 + **网络系统销售 / 安装 / 以太网与光纤方案、光纤熔接**"
+   ],
+   "address": "İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（东南部，非伊斯坦布尔）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（「年轻团队」；估 5–15 人）",
+   "officers": [
+    "S. Coşkun BALKIŞ — 研究档 KP（展会名片 scbalkis@；foursquare 本店 10+ 次签到「Coşkun B.」）→ 推定创办人 / 业主（未证实）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Gaziantep 的 IT / 软件 + 网络工程小公司（2005 起，为公共机构做 MIS 项目），名片人 Coşkun Balkış 大概率是老板** → 他们的交换机需求来自政府 / 医院 MIS 项目的机房 —— 管理型 24 口 + 10G 上联（STC-424XGGPM 类）集成 25% 档；WhatsApp 先发英文 + 土耳其语各一页；Gaziantep 公共项目多用 DMO（国家采购）目录 → 问他是否需要 TSE / 本地化文件",
+    "付款 50/50；DAP Gaziantep 走 Saga 百运网线（伊斯坦布尔转陆运 +3 天）；不再检索"
+   ],
+   "notes": "研究档 legal_name 已有；hq 纠正为 Gaziantep；founded 2005。",
+   "fetched": "2026-10-27",
+   "code": "SB-301"
+  },
+  "SB-457": {
+   "batch": 89,
+   "name": "PAVO TASARIM ÜRETİM ELEKTRONİK TİC. A.Ş.（Pavotek）",
+   "iso": "TR",
+   "source": "TR · SAHA İstanbul 会员页（法定全称）+ 官网 about + Defense Here / İstanbul Ticaret 采访（董事长、人数、历史）+ LinkedIn 公司页 + RocketReach（Ertürk 职务）",
+   "url": "https://www.sahaistanbul.org.tr/en/firma/pavo-tasarim-uretim-elektronik-tic-a-s",
+   "number": "A.Ş.（İstanbul Ticaret Sicili；MERSİS 未取）",
+   "status": "Aktif",
+   "incorporated": "2003（Teknopark İstanbul）",
+   "company_type": "Anonim Şirket · 董事长 Dr. Alper Özbilen（前 MİT 部门主管；2023 媒体质疑其持股来源）；早期 Teknoloji Holding 投资",
+   "sic": [
+    "**国防电子制造商**：IP 网络通信设备（自研「土耳其首台国产交换机 / 路由器」）、通信 / 控制系统、电力分配、无人航电、军用计算机终端、智能电网、IoT；2006 起为国防主承包商分包；2016 Orhanlı 2,200 ㎡ 工厂"
+   ],
+   "address": "Teknopark İstanbul, Pendik / İstanbul（研发）+ Orhanlı（生产）+ Bilişim Vadisi",
+   "accounts": "私企；员工 300（2021 采访）→ 400+（官网）；LinkedIn 201–500；RocketReach 营收 $22.2M（第三方估）",
+   "accounts_due": "—",
+   "size_band": "中型 / 大型（400 人国防电子厂）",
+   "officers": [
+    "Dr. Alper ÖZBİLEN — Yönetim Kurulu Başkanı（董事长 / 所有人）",
+    "Serkan ERTÜRK — Project Manager（2022 起；前 CTech）= 研究档 KP（非采购）",
+    "Gizem Kızıltan / Hilal Kırlıoğlu — 研究档收件（职能未核）"
+   ],
+   "psc": "Özbilen（推定控股）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**判定：Pavotek 是 400 人的土耳其国防电子制造商，自己研发军用 / 民用交换机 —— 既是守界禁区（军工）又是同行** → **不追**；17 封群发里 3 次打开是工程师看竞品；从 TR 群发名单剔除",
+    "留档：若其民用 IoT / 智能电网线需要白牌商用交换机作配套，才有理论入口（不主动）"
+   ],
+   "notes": "研究档 legal_name 回填全称；grade 不动（守界标记在 lines）。",
+   "fetched": "2026-10-27",
+   "code": "SB-457"
   }
  }
 }

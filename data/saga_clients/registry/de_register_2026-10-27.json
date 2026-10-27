@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 11
+  "count": 13
  },
  "rows": {
   "SA-008": {
@@ -391,6 +391,76 @@
    "notes": "研究档 legal_name 已有；KP 空 → batch88_kp add_kp Abendschein + Denner。",
    "fetched": "2026-10-27",
    "code": "SB-193"
+  },
+  "SB-429": {
+   "batch": 89,
+   "name": "Murrelektronik GmbH",
+   "iso": "DE",
+   "source": "DE · Northdata（Handelsregister 镜像：HRB、LEI、成立、资本、GF 更替、商标 / 专利、补贴、集团网络；chunk 0）",
+   "url": "https://www.northdata.de/Murrelektronik%20GmbH,%20Oppenweiler",
+   "number": "Amtsgericht Stuttgart HRB 270279 · LEI 529900J3OOQZY4CQNQ96 · EUID DEB8534.HRB270279",
+   "status": "Aktiv",
+   "incorporated": "1975-09-24（登记）",
+   "company_type": "GmbH · 家族控股（Hafner Beteiligungen GmbH / MEG Murrelektronik GmbH Beteiligungen，3 名活跃股东）· 2 GF + 5 Prokura",
+   "sic": [
+    "自动化技术电子 / 电工元件与系统的开发、制造、销售（章程）—— 连接技术、I/O、电源、**自有工业以太网交换机 / 网络产品线**；商标 Vario-X（2021）/ uKonn-X（2022）/ pure.IO（2024）；2024–2026 多项专利；2022-11 联邦补贴 €370,428"
+   ],
+   "address": "Grabenstr. 29, D-71570 Oppenweiler（2024-12 迁址登记）",
+   "accounts": "Stammkapital €5,000,000（2006）；财务数字付费未取；全球子公司 ApS / B.V. / Inc.（Mississauga）/ sp. z o.o. / AB / 奥地利 GmbH 等 ≥10 家",
+   "accounts_due": "DE 年报：次年 12-31 前公示",
+   "size_band": "大型（全球性自动化元件制造商；多国子公司）",
+   "officers": [
+    "Jürgen ERKERT — Geschäftsführer（2023-07-28 起）",
+    "Ulrich Rupert Heinrich VIETHEN — Geschäftsführer（2019-10-24 起）",
+    "Holger SCHEIB — Prokura / ehem. VR；历任 GF Grotzke（2008–2021）、Zeltwanger（2018–2022）等",
+    "研究档收件 shop@murrelektronik.de = **网店客服信箱**（10 封群发 2 次打开 = 客服点开）"
+   ],
+   "psc": "Hafner 家族（经 Hafner Beteiligungen GmbH + MEG Murrelektronik GmbH Beteiligungen）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**判定：Murrelektronik 是 1975 年起的大型自动化元件制造商（家族控股、全球子公司、自有工业交换机线），我们 10 封群发寄到的是它的网店客服信箱 shop@** → 不是客户，是同行上游：**不追**；唯一理论入口是其网络产品线的 ODM 采购（Oppenweiler 产品管理），但 Marvell 白牌对 Murr 无差异化，不值得投入",
+    "留档价值：若将来做 CENTEC 高端款，可作 ODM 线索重估"
+   ],
+   "notes": "研究档 legal_name 回填；KP 无 → 不加（无具名经办）。",
+   "fetched": "2026-10-27",
+   "code": "SB-429"
+  },
+  "SB-543": {
+   "batch": 89,
+   "name": "Friedrich Lütze GmbH（Amphenol 集团，2024-10 起）",
+   "iso": "DE",
+   "source": "DE · Northdata（HRB、LEI、Siren、GF 更替、利润转移协议、商标 / 专利、2024 资产 / 营收；chunk 0）",
+   "url": "https://www.northdata.de/Friedrich%20L%C3%BCtze%20GmbH,%20Weinstadt",
+   "number": "Amtsgericht Stuttgart HRB 740258 · LEI 529900QY4FK0M7B3P846 · 法国分支 Siren 512907809",
+   "status": "Aktiv",
+   "incorporated": "2012-02-07（现法人；Lütze 创业 1958；2018-10 吸收合并 Friedrich Lütze International GmbH）",
+   "company_type": "GmbH · 与 Luetze International GmbH 签有利润转移协议（Gewinnabführungsvertrag）· **2024-10-08 起 GF 换为 Lance Edward D'Amico（Wallingford CT）+ Craig Anthony Lampo（Old Saybrook CT）= Amphenol 集团高管 → 2024 年被 Amphenol 收购**",
+   "sic": [
+    "电工产品制造 / 销售 / 贸易 + 客户服务（章程）：控制柜布线系统（LSC / AirSTREAM）、电缆、电源、**网络 / 连接产品**；商标 LÜTZE CABLEFIX（2023）/ LIMO-Box（2023）/ PANELCON（2022）/ LUNA（2024）/ LUCI RAIL（2026-08）；2024–2026 专利"
+   ],
+   "address": "Bruckwiesenstr. 17-19, D-71384 Weinstadt（斯图加特东）",
+   "accounts": "**2024-12-31：Bilanzsumme €38.4M；Umsatzerlöse €74.8M**（Northdata 免费概览）",
+   "accounts_due": "DE 年报：次年 12-31 前公示",
+   "size_band": "中型（营收 €75M；集团含 Lütze AG 瑞士 / Lutze SAS 法国 / Lütze s.r.o. 捷克 / Lütze Inc. 美国）",
+   "officers": [
+    "**Dimitrios KOUTROUVIS — Geschäftsführer（2024-10-08 起；Sachsenheim）= 研究档收件人 dimitrios.koutrouvis@luetze.com（37 封群发 2 次打开 0 回）→ 联系人 = 德国公司总经理，但 2024-10 起受 Amphenol 管辖**",
+    "Lance Edward D'AMICO、Craig Anthony LAMPO — Geschäftsführer（2024-10-08 起；Amphenol 高管）",
+    "Peter JURCZYK — Prokura（2021-12）；Iaroslav NIKOLENKO — Prokura（2026-10-02 新）；前 GF Martin Teufel（2016–2024-11）"
+   ],
+   "psc": "Amphenol（经 Luetze International GmbH / Lütze AG 链条，推定 100%）",
+   "charges": "",
+   "prev_names": [
+    "Friedrich Lütze GmbH & Co. KG（已注销）"
+   ],
+   "lines": [
+    "**硬发现：我们 37 封信的收件人 Koutrouvis 就是 Lütze 德国总经理（2024-10 任命），而 Lütze 自 2024-10 起属美国 Amphenol 集团（GF 两位来自康州总部）** → 采购 / 产品决策已集团化：Lütze 的网络产品若需 ODM，走 Amphenol 供应链而非德国小供应商 → 期望值低；**一封**写给 Koutrouvis 本人（不再群发）：问「Lütze 网络 / 连接线是否仍在本地选型」，不回即归档",
+    "若有回：OEM 30%、Lütze 贴牌 + 控制柜 DIN 安装款（STI 工业系列、-40～75℃、冗余电源）是他们场景；付款 30 天内（集团）",
+    "复查：2025 年报 2026-12 公示后看营收走向；Prokura 2026-10 新增 = 组织仍在调整"
+   ],
+   "notes": "研究档 KP 无 → 加 Koutrouvis（GF）；legal_name 回填。",
+   "fetched": "2026-10-27",
+   "code": "SB-543"
   }
  }
 }

@@ -4,7 +4,7 @@
   "source": "Canada · Corporations Canada / Ontario 登记（OpenCorporates 摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 1
+  "count": 3
  },
  "rows": {
   "SA-087": {
@@ -43,6 +43,75 @@
    "notes": "Ontario 登记董事需付费 ONBR 查询，未做。",
    "fetched": "2026-10-27",
    "code": "SA-087"
+  },
+  "SB-144": {
+   "batch": 89,
+   "name": "BSD International Marketing（品牌 BSD Networks）",
+   "iso": "CA",
+   "source": "CA · ZoomInfo / D&B（Key Principal、人数、1982 起）+ yellowpages（母公司 BSD International Marketing）+ 官网 about / T&C + Graybar Canada 品牌页；安省登记号未取",
+   "url": "https://www.dnb.com/business-directory/company-profiles.bsd_networks.239dc1ee4b87cb51cc71290a587c2280.html",
+   "number": "安省公司（Ontario Business Registry 需 JS，编号未取）",
+   "status": "在营（官网 2026；Graybar Canada 在售 20 SKU）",
+   "incorporated": "1982（ZoomInfo：Lichtenstein 1982 至今 44 年；官网「30+ 年」）",
+   "company_type": "私人公司 · 业主 Robert Lichtenstein（Owner / President / Key Principal）",
+   "sic": [
+    "**自有品牌网络 + 光纤产品（BSD Networks 牌媒体转换器 / 商用与工业交换机 / SFP）在加美销售**，经 Graybar Canada 等分销；办公室 + 展厅 Woodbridge（520 Applewood Cres, Concord ON）"
+   ],
+   "address": "登记 275 York Hill Blvd, Thornhill ON L4J 3L5（住宅）；经营 520 Applewood Cres, Concord / Woodbridge ON L4K 4B4",
+   "accounts": "私企不公开；ZoomInfo 11–50（19）人",
+   "accounts_due": "—",
+   "size_band": "小型（≈19 人；自有品牌进口商）",
+   "officers": [
+    "Robert LICHTENSTEIN — Owner / President（1982 起）= 研究档 KP Robert（robert@；2026-03-30 问「你们自产还是 OEM」）→ **老板 = 联系人**",
+    "Rita SANTANA — Product Services（ZoomInfo）；Lynn Lichtenstein（家属，非经营）"
+   ],
+   "psc": "Robert Lichtenstein（推定 100%）",
+   "charges": "",
+   "prev_names": [
+    "BSD International Marketing（法人名）"
+   ],
+   "lines": [
+    "**老板 = 联系人，且是我们最想要的客户类型：BSD Networks 是多伦多 44 年的「自有品牌进口商」—— 把亚洲产的媒体转换器 / 交换机 / SFP 贴 BSD 牌，经 Graybar Canada 卖给加美集成商；Robert 本人 2026-03-30 来问「你们是自产还是 OEM 别人的」= 在评估我们当代工源** → 这一问必须答准：「SmartByte 自有工厂 + Saga 渠道」，给 BSD 贴牌（OEM 30%）：机身丝印 + 彩盒 + 英法双语标签（加拿大法规）+ FCC / IC（ISED）申报由他持有；样机 2 台付费抵货款；别提 Graybar",
+    "首单 T/T 50/50，之后 30/70；DAP 多伦多走 Saga 百运网线；CA 周三 08–10（北京 21–23 发）",
+    "复查：Graybar Canada 品牌页 SKU 数（20）年看一次 = 产品线扩张信号"
+   ],
+   "notes": "研究档 legal_name「BSD Networks（待核）」→ 回填 BSD International Marketing；KP Robert 补姓 Lichtenstein + Owner。",
+   "fetched": "2026-10-27",
+   "code": "SB-144"
+  },
+  "SB-970": {
+   "batch": 89,
+   "name": "EION Inc.（d/b/a EION Wireless；集团 PomeGran Inc.）",
+   "iso": "CA",
+   "source": "CA · Corporations Canada 联邦登记镜像（federalcorporation.ca：编号、BN、成立日、地址、状态）+ Pomegran 新闻稿 + Ottawa Citizen 2009 + ZoomInfo / D&B / highperformr 团队",
+   "url": "https://federalcorporation.ca/corporation/3921174",
+   "number": "联邦公司 3921174 · Business Number 870048014",
+   "status": "Active / Actif",
+   "incorporated": "2001-07-16",
+   "company_type": "联邦私人公司 · 创始人 / CEO 控股；母公司 PomeGran Inc.（Kalaichelvan 的集团：EION Wireless + ISP 品牌 CochraneTel / Canquest / Digicom）",
+   "sic": [
+    "无线接入 / 回传设备制造（LTE / WiMAX / StarPlus 点对点、点对多点电台）面向运营商、ISP、安防 / 国防；集团另营区域 ISP"
+   ],
+   "address": "260 Terence Matthews Cres, Suite 200, Ottawa (Kanata) ON K2M 2C7",
+   "accounts": "私企不公开；2009 年 40 人（Ottawa Citizen）；ZoomInfo 51–200 / $21.8M（第三方估，不采信）",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（40–100 人级；集团含 ISP）",
+   "officers": [
+    "Dr. Kalai S. KALAICHELVAN — Founder / President & CEO（2001 起；ex-Nortel；集团 PomeGran 董事长）= 研究档 KP（无邮箱）→ 拍板人",
+    "Saf ASSADI — Founder & CTO；Sumit KUMAR — VP Engineering；Manny MISTRY — VP Sales & BD（2025 领导层）",
+    "研究档收件 harshul@eion.com = 工程 / 采购经办（18 封 6 次打开 0 回）"
+   ],
+   "psc": "Kalaichelvan（经 PomeGran，推定控股）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**EION 是渥太华 2001 年起的无线回传设备制造商 + 集团自营 3 家小 ISP；收件人 harshul@ 打开了 6 次（最热的沉默户之一）但他不是拍板人** → 两条线：① 制造线：EION 电台配套 PoE 注入 / 工业 PoE 交换机（户外塔站 → STI 工业款，-40℃），写 CTO Saf Assadi；② ISP 线：CochraneTel / Canquest 机房接入交换机（24 口管理型），写 VP Sales Manny Mistry 转运营；分销 20%；ISED（IC）认证由他们持有",
+    "加拿大北部 ISP 项目冬季施工停 → 采购窗口 3–5 月；首单 T/T 50/50；DAP 渥太华走 Saga 百运网线",
+    "复查：Corporations Canada 年度申报（federalcorporation.ca）年看一次"
+   ],
+   "notes": "研究档 legal_name 已有 EION Inc. → 补编号 / BN；KP 加 Saf Assadi（CTO）与 Manny Mistry（VP Sales）。",
+   "fetched": "2026-10-27",
+   "code": "SB-970"
   }
  }
 }
