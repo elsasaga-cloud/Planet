@@ -64,6 +64,21 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 1 个（Dahua）；官网语言 fi-fi（信照样英文，首句可用对方语言问候）；社媒：https://www.facebook.com/avstek.fi。
 - **日历窗口**：对方：2026-12-06 独立日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `avstek.fi` → OVH 主机邮箱（MX：mx1.ovh.net、mx2.ovh.net、mxb.ovh.net）。主机商附带邮箱（OVH 主机邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- € 399,00 ← 「379,00 € 399,00 € Sisältää alv:n Kaikki tarjoukset Asiasanat POE WLAN DAHUA PALOVAROITIN KUULUTUS SATEL Tiedot Avstek asiakaspalvelu Oikeudellinen huo」（https://avstek.fi/kauppa/44-poe-kytkimet）
+- € 399,00 ← 「00 € 399,00 € Sisältää alv:n Kaikki tarjoukset Asiasanat WLAN SATEL KUULUTUS PALOVAROITIN POE DAHUA Kameravalvonta Kameravalvonta Tallennus Kamerat 4G」（https://avstek.fi/kauppa/21-kameravalvonta）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

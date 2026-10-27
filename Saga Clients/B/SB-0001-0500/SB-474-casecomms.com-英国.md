@@ -90,6 +90,42 @@ updated: 2026-10-27
 - **涉及商品编码**：85176200、85176990、85176930、85177000、85177900、85171200、85171800、85043180、85044090、84715000
 - **对 Saga 的含义**：Case Communications 是英国老牌工业通信设备品牌（工业路由、串口服务器、4G 网关），它每年都从亚洲直采 8517 62 00 并贴自己牌子——是「有进口经验的 OEM 品牌商」，正是《背景信息》里排第一的目标客户类型。切入点：它产品线里缺的 **工业 DIN 导轨管理型 PoE 交换机（STI-42424XGGPM / STI-288DGGPM）** 做 OEM 30% 档，贴 Case 品牌；下一到货窗口按节奏在 2026-10/11，现在写信正合适。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `casecomms.com` → Hostinger / Titan（MX：mx1.titan.email、mx2.titan.email）。主机商附带邮箱（Hostinger / Titan）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `uk.com` → 印度 / 亚洲主机商邮箱（MX：mx-01.emailme.com）。主机商附带邮箱（印度 / 亚洲主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `case.uk.com` → Hostinger / Titan（MX：mx1.titan.email、mx2.titan.email）。主机商附带邮箱（Hostinger / Titan）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `foscam.uk.com` → Microsoft 365（MX：foscam-uk-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（英国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/03913540）：**
+
+- 法定名 / 登记号：CASE COMMUNICATIONS LIMITED · 03913540 · 状态 **Active** · 成立 2000-01-26 · Private limited company
+- 行业码（SIC）：26200 Manufacture of computers and peripheral equipment；62090 Other IT service activities
+- 注册地址：North's Estate, Old Oxford Road, Piddington, High Wycombe HP14 3BE（与官网一致）
+- 规模档：小型 · 单董事在任（历史上 10 名高管 / 9 人已辞）
+- 账目：最近账目截至 2025-03-31（已交）；下期截至 2026-03-31，**2026-12-31 前交**；确认声明 2026-05-28 已交，下期 2027-05-28
+- 高管：Andrew Thomas SAOULIS — 唯一在任董事，**1950-10 生（76 岁）**，英国籍，2000-01-26 成立即上任 = 给我们来信的 andys@case.uk.com「Andy」
+- 高管：2014-07→2015-01 两名董事（O'Daly 加拿大籍、Orren）、2015-01→2020-02 两名董事（Gennadii Armashula 乌克兰籍居乌克兰、D. R. L. Jones）均已辞任；2020-02 起又回到 Andy 一人
+- 高管：公司秘书三任（Scott / Kathleen Saoulis（同姓，家属）/ Corlett）2000→2014，之后无秘书
+- 抵押 / 担保：页面有 Charges 标签 → 存在抵押登记（明细未抓）
+- 曾用名：CASE TECHNOLOGY CENTRAL EUROPE LIMITED（2000-01-26→2003-02-07）
+- **这意味着什么：**
+  - **来信人 Andy 就是老板**：Andrew Saoulis，唯一董事、2000 年创办，76 岁——他回信 = 公司决定，不用找「采购经理」；但也意味着接班 / 退出风险：长期绑定要同时认识他下面做技术 / 采购的第二人
+  - 官网说的「since 1970」是沿用了老 Case Communications（Dowty / Smiths 集团旗下，公司号 00730286，2019 年已注销）的品牌；现公司 2000 年才成立，前名 Case Technology Central Europe → 2003 改今名；2015–2020 有乌克兰籍董事（Armashula，居乌克兰）→ 东欧研发 / 代工渊源
+  - SIC 26200 制造 + 62090 IT 服务：登记就是制造商（自有品牌工业路由 / 交换）；HMRC 第 81 批 11 年非欧盟 8517 62 00 进口、最近 2026-08 → 现成的 ODM 客户，报 OEM 30% 走 DIN 导轨 PoE 贴牌线
+  - 有抵押登记、单董事、账目 12-31 到期 → 11–12 月是他们对账期，别在 12 月下旬催 PI；1 月上旬跟进最顺
+- 备注：Andy = Andrew Saoulis（董事 / 老板）。更新 KP 角色。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -135,15 +171,15 @@ updated: 2026-10-27
 - **【用户表】1 次实质回复；20 次跟进；自有品牌标记**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Andy（来信署名人（职务未在邮件署名里出现））andys@case.uk.com 〔S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补）〕
+- **KP**：Andy（Andrew Thomas Saoulis）（Director / 老板 —— Andrew Thomas Saoulis，唯一在任董事，2000 年创办，1950 年生（第 82 批 Companies House 核实 2026-10-27））andys@case.uk.com 〔S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网产品线核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Case Communications Ltd |
-| 成立 | 1970 |
+| 法定名称 | CASE COMMUNICATIONS LIMITED（Companies House 03913540，2000-01-26 成立；前名 Case Technology Central Europe Ltd） |
+| 成立 | 2000-01-26（品牌沿用 1970 年老 Case Communications / Dowty，老公司 00730286 已于 2019 注销） |
 | 总部/地址 | Unit 12E, North's Estate, Old Oxford Road, Piddington, High Wycombe, Bucks HP14 3BE, UK（+44 1494 880 240；admin@case.uk.com） |
 | 其他 | 产品型号体系（PIGE/PIXE/R2/R3）与典型 ODM 口型一致（8 PoE+2 SFP、16 PoE+4 SFP、8 PoE+4 GE+4×10G）→ 高概率外购贴牌；DIN 导轨、−40~+75 ℃、双 DC 输入、ERPS G.8032 |
 
@@ -265,7 +301,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Andy | 来信署名人（职务未在邮件署名里出现） | andys@case.uk.com | 调研核实（公开页） | S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补） |
+| Andy（Andrew Thomas Saoulis） | Director / 老板 —— Andrew Thomas Saoulis，唯一在任董事，2000 年创办，1950 年生（第 82 批 Companies House 核实 2026-10-27） | andys@case.uk.com | 调研核实（公开页） | S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补） |
 | Andy Saoulis | — | andys@case.uk.com / admin@case.uk.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

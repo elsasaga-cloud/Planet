@@ -82,6 +82,20 @@ updated: 2026-10-27
 - **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [tailyn](https://github.com/tailyn)（仅名称一致，未核实是否同一家；公开仓库 8，最近 push 2023-02-09：lobby-greeting-page、qc-web、tn-kernel）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2027-02-05 农历新年（02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `tailyn.com.tw` → 自建 / 同域名邮件服务器（MX：mx6.tailyn.com.tw、mx2.tailyn.com.tw、mx1.tailyn.com.tw、mx5.tailyn.com.tw）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
+
+**假日避让（台湾 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 Founding Day of the Republic of China；02-04 Chinese New Year's Eve；02-05 Chinese New Year's Eve；02-06 Chinese New Year；02-07 Chinese New Year；02-08 Chinese New Year；02-09 Chinese New Year (observed)；02-10 Chinese New Year (observed)；02-28 Peace Memorial Day；03-01 Peace Memorial Day (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

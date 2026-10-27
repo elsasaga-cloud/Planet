@@ -91,6 +91,16 @@ updated: 2026-10-27
   - Soundwin Network（Taiwan）· 1 票 · network gateways 2017-07-17 (425 kg 30 ctn)
 - **对 Saga 的含义**：Patton 海运只从台湾买（Baudtec 路由器、Soundwin 网关 = 台湾 ODM），2017-09 后无海运；大陆供应商为零 → 对『中国货』的态度可能保守，说辞里先讲 Marvell 芯片与 3 年保
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `patton.com` → Proofpoint 企业网关（MX：mx1-us1.ppe-hosted.com、mx2-us1.ppe-hosted.com）。企业级邮件网关（Proofpoint 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

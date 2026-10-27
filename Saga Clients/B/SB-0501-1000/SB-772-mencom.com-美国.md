@@ -83,6 +83,16 @@ updated: 2026-10-27
   - Shanghai Sanjin Import & Export / Shanghai Haicheng Economic & Trade（China (Shanghai)）· 77 票 · Mencom 品牌 M12/工业连接器、插头、耦合器（中国代工）
 - **对 Saga 的含义**：Mencom = 工业连接器分销/品牌（每月 ~4 票、年 ~110 TEU），中国部分是上海代工的 Mencom 牌 M12 连接器；提单上没有以太网交换机 → 他们卖工业以太网线缆/连接器，交换机只是目录配套，Saga 能做的是 DIN 导轨 M12/工业交换机配套（守界：不碰 IP67）
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `mencom.com` → Microsoft 365（MX：mencom-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

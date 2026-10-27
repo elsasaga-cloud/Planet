@@ -84,6 +84,26 @@ updated: 2026-10-27
   - 2023-12-30 · Dahua Intl · 4,457 kg 352 ctn · brackets, cables, whiteboard bracket
 - **对 Saga 的含义**：Montavue = 大华 OEM 品牌（交换机也随大华整柜来，提单直接写 'Switch'）；2024-04-16 后海运断档（同步至 2026-10-21）——与大华在美受限时间线吻合；如果他们要找非大华的交换机来源，正是空窗期
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `montavue.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.googlemail.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- $609 ← 「00 Montavue Nexus 8MP 4K Smart Light Turret PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD $609」（https://montavue.com/）
+- $1,449 ← 「00 Montavue Nexus 12MP 4K RGB Turret PoE Security Camera System with 16-Channel Pro NVR & 4TB HDD $1,449」（https://montavue.com/）
+- $699 ← 「00 Montavue Nexus 4MP 2K Smart Turret PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD $699」（https://montavue.com/）
+- $734 ← 「00 Montavue Nexus 4MP 2K Smart Light Bullet PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD $734」（https://montavue.com/）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

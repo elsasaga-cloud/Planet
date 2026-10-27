@@ -91,6 +91,22 @@ updated: 2026-10-27
   - 2024-02-29 · Shapepoint CN · 4,200 kg 1,922 ctn · chassis
 - **对 Saga 的含义**：Eagle Eye（云 VMS 品牌）曾从深圳 CSE 海运 PoE 交换机 9 票（2023 前）、交换机也从阿姆斯特丹仓内部调拨；**2024-03 起中国供应全停、摄像头转越南 Ampacs + 台湾 Vivotek** → 典型 NDAA / 关税去中国化户，对 Saga 的中国产交换机基本关门，除非走『非 NDAA 场景的海外项目』；B 保持、不花精力
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `een.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+- `alludolearning.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+- `eagleeyenetworks.com` → Google Workspace（MX：ASPMX.L.GOOGLE.com、ALT1.ASPMX.L.GOOGLE.com、ALT2.ASPMX.L.GOOGLE.com、ALT3.ASPMX.L.GOOGLE.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

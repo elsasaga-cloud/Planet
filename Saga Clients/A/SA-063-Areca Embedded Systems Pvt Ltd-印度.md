@@ -81,6 +81,19 @@ updated: 2026-10-27
 - **已披露的贸易伙伴**：JHC Technology Development Co., Ltd.（深圳）；Digi-Key Electronics（美国元器件分销）；Shenzhen Muen LED Co., Ltd.；Mouser Electronics（美国元器件分销）
 - **对 Saga 的含义**：Areca 是做嵌入式 / 显示 / 安防板卡的制造商，进口主力是 IC，不是整机；它出现过 85176290 说明项目里需要交换机时会自己买。对 Saga：它不是分销商，是「项目配套」买家——给它的信应说「你们的项目里 PoE 交换机我们 MOQ 1 配套，CE / RoHS，印度 BIS 不在强制清单」，型号报 STC-028GP / STI-144GP；别推整柜、别推代理。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `areca.in` → Microsoft 365（MX：areca-in.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -64,6 +64,16 @@ updated: 2026-10-27
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 18 封（2025-01-16 → 2026-09-07），打开标签 1 次（近 12 个月 1，最后 2026-05-12）；打开过：「10G Enterprise SFP Switch」×1（2026-05-12）；从未打开：「16 Port Ethernet Switch」、「Marvell Alleycat5 Solution」、「Managed Optical Bypass Switch」；近 180 天发 6 封、打开 1 次 → 还在读，主题沿着打开过的那类走。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `globall.ca` → SpamExperts 网关（主机商附带）（MX：mx.spamexperts.com、fallbackmx.spamexperts.eu、astmx.spamexperts.net）。主机商附带邮箱（SpamExperts 网关（主机商附带））：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

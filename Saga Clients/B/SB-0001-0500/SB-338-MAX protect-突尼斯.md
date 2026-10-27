@@ -65,6 +65,18 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 3 个（Dahua、Hikvision、Uniview）；官网语言 fr-FR（信照样英文，首句可用对方语言问候）；社媒：https://twitter.com/intent/tweet?text=Dahua+2MP+%E2%80%93+Cam%C3%A9ra+IP+tube+Smart+Dual+Light+avec+micro%2C+PoE+%28IPC-B1E29-A-IL%29 https%3A%2F%2Fmax-protect.com%2F434-dahua-2mp-camera-ip-tube-smart-dual-light-avec-micro-poe-ipc-b1e29-a-il.html、https://twitter.com/intent/tweet?text=Dahua+2MP+%E2%80%93+Cam%C3%A9ra+IP+tube+Smart+Dual+Light+avec+micro%2C+PoE+%28IPC-HFW1239S1-A-IL%29 https%3A%2F%2Fmax-protect.com%2F517-dahua-2mp-camera-ip-tube-smart-dual-light-avec-micro-poe-ipc-hfw1239s1-a-il.html、https://twitter.com/intent/tweet?text=Dahua+4MP+%E2%80%93+Cam%C3%A9ra+IP+d%C3%B4me+Smart+Dual+Light+avec+micro%2C+PoE+%28IPC-HDW1439T1-A-IL%29 https%3A%2F%2Fmax-protect.com%2F515-dahua-4mp-camera-ip-dome-smart-dual-light-avec-micro-poe-ipc-hdw1439t1-a-il.html。
 - **日历窗口**：对方：2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `max-protect.com` → 同域名 MX → 托管在 twshosting.ca（MX：max-protect.com）。主机商附带邮箱（同域名 MX → 托管在 twshosting.ca）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（突尼斯 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 窗口内无该国法定假日
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

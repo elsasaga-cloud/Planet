@@ -73,6 +73,18 @@ updated: 2026-10-27
 - **GitHub 足迹（公开资料，2026-10-27 查）**：组织 [LivEye-GmbH](https://github.com/LivEye-GmbH)（官网/邮箱域名一致；公开仓库 0）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-06，德国多数工厂整周停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `liveye.com` → Hornetsecurity 网关（MX：mx01.hornetsecurity.com、mx02.hornetsecurity.com、mx03.hornetsecurity.com、mx04.hornetsecurity.com）。企业级邮件网关（Hornetsecurity 网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让（德国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 窗口内无该国法定假日
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

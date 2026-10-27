@@ -76,6 +76,19 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 48 条 URL；官网语言 tr-TR（信照样英文，首句可用对方语言问候）；社媒：https://tr.linkedin.com/company/efb-elektronik-turkiye、https://www.facebook.com/EFB-Elektronik-Ltd%C5%9Eti-T%C3%BCrkiye-980478345310387/、https://www.youtube.com/channel/UCtFNGfz_2KI7nlFZycox4Uw。
 - **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `efb-elektronik.com.tr` → Microsoft 365（MX：efbelektronik-com-tr0i.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

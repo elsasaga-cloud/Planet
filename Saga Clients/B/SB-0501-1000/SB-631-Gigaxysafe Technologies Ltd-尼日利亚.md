@@ -62,6 +62,20 @@ updated: 2026-10-27
 - **同国同档参照（NG，20% 档、主推线「商用 10G 非PoE 管理型」，共 1 户有动静，列前 3）**：SA-079 Biz-Ethics Ltd.（BEL Networks）（A，同档：成交 STC-228GP、STC-28GPM、STC-4168XGGCM）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-12-25 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `gigaxysafe.com.ng` → 同域名 MX → 托管在 contaboserver.net（MX：_dc-mx.c2681b9d287b.gigaxysafe.com.ng）。主机商附带邮箱（同域名 MX → 托管在 contaboserver.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- TL8125 ← 「5 Gigabit Ethernet Interface Adapter, with Realtek RTL8125B, Support NAS/PC, 2」（https://gigaxysafe.com.ng/products/2-port-2-5gb-pcie-network-card-dual-lan-port-2-5-gigabit-ethernet-interface-adapter-with-realtek-rtl8125b-support-nas-pc-2-5g-nic-compliant-windows-linux-mac-os）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

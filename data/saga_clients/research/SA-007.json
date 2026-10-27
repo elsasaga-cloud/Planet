@@ -76,7 +76,7 @@
   "level": "B 级加厚 v1（官网公开评测核对）"
  },
  "company_facts": {
-  "legal_name": "Go Green IT（gogreenit.net，英国）",
+  "legal_name": "GO GREEN IT LTD（Companies House 07614771，2011-04-26 成立，Active；SIC 62020）",
   "other": "IT 设备回收/翻新服务商（WEEE T11、数据销毁），同时运营「Green Reviews」栏目自费购买并评测离网/网络设备；**2025-08 自费 £588（+进口费）购入 Saga STI-42424XGGPM-4BT（L3，24 口）替换有 bug 的 Linovision POE-SW708GM-DC12V，并公开发表评测**：称赞销售响应（提供完整 SNMP OID PDF）、UI 设计、备份为明文 CLI 式配置、支持 10M 半双工；指出两项缺点（UI 不记忆显示行数；SFP 口不自动协商速率、默认 10G 需手动设 1G）"
  },
  "business_lines": [
@@ -135,8 +135,8 @@
  },
  "kp": [
   {
-   "name": "Chris Clemson",
-   "role": "单据联系人",
+   "name": "Chris Clemson（Christopher Bruce Athelstan Clemson）",
+   "role": "Director（2021-06-04 起在册董事，与创始人 Kathryn Sterling 共两名董事）；PI 单据联系人（第 82 批 Companies House 核实 2026-10-27）",
    "email": "info@gogreenit.net",
    "phone": "",
    "source": "PI.zip 单据"

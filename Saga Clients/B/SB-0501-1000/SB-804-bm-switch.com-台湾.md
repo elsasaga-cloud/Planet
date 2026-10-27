@@ -64,6 +64,23 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 100 条 URL；站内可见品牌 1 个（Ubiquiti）。
 - **日历窗口**：对方：2027-02-05 农历新年（02-05 → 02-11） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `bm-switch.com` → Zoho Mail（MX：mx.zoho.com、mx2.zoho.com、mx3.zoho.com）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
+
+**假日避让（台湾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 窗口内无该国法定假日
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- $ 4,000 ← 「00 48x10G + 6x40G Netberg Aurora 420 (Broadcom Trident2) Bare Metal Switch NBA420-xxx $ 4,000」（https://bm-switch.com/shop/）
+- $ 4,400 ← 「00 48x10G + 6x40G Netberg Aurora 420 (Broadcom Trident2) L3 Data Center Switch, ICOS NOS NBA420-ICOS $ 4,400」（https://bm-switch.com/shop/）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

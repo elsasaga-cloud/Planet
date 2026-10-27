@@ -72,6 +72,19 @@ updated: 2026-10-27
 - **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 9 封（2025-02-13 → 2025-10-10），打开标签 3 次（近 12 个月 0，最后 2025-10-10）；打开过：「8 Port Industrial PoE Switch」×2（2025-02-26）、「10G Enterprise SFP Switch」×1（2025-10-10）；从未打开：「48 Port PoE Managed Switch」、「Industrial PoE Switch」、「Commercial PoE Switch」。
 - **日历窗口**：我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（赞比亚 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；03-08 International Women's Day；03-12 Youth Day；03-26 Good Friday；03-27 Holy Saturday；03-28 Easter Sunday；03-29 Easter Monday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

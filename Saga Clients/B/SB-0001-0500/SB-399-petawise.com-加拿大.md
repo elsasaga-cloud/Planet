@@ -73,6 +73,19 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 205 条 URL；站内可见品牌 2 个（Uniview、Ruijie）；社媒：https://www.facebook.com/peta.wise.737、https://www.instagram.com/petawise.inc/、https://www.linkedin.com/company/78987730/admin/dashboard/。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `petawise.com` → Microsoft 365（MX：petawise-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（加拿大 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 窗口内无该国法定假日
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

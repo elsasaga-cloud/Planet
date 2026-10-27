@@ -77,6 +77,19 @@ updated: 2026-10-27
   - Shenzhen Mengzhituo Keji（China）· 1 票 · speaker LED light strip 2022-01
 - **对 Saga 的含义**：ENS = 大华（Dahua）美国 OEM 品牌之一，自己名下只有 3 票线缆/灯带，主货（摄像头/NVR/交换机）显然由大华美国或其他主体报关 → 交换机采购权不在 ENS 手里，B 保持
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `enssecurity.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（美国 · 按下一步「2026-12」窗口 2026-12-01→2026-12-31）：**
+
+- 法定假日：12-25 Christmas Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

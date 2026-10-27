@@ -77,6 +77,26 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1496 条 URL（≥500 = 大目录 / 网店体量）；社媒：https://www.facebook.com、https://www.instagram.com、https://www.twitter.com。
 - **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `lansan.com.tr` → 土耳其主机商邮箱（MX：ni-spamexperts.guzel.net.tr、mt-spamexperts.guzel.net.tr）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- 00 USD ← 「00 USD Hızlı Gözat Sepete Ekle Ürün Kodu: LNS-1105 Pasif Poe Enjektör 15」（https://www.lansan.com.tr/switch-ve-aktif-urunler/-poe-urunler）
+- 00 USD ← 「00 USD Hızlı Gözat Sepete Ekle Ürün Kodu: LNS-1104 Poe Rj45 Kablo 11」（https://www.lansan.com.tr/switch-ve-aktif-urunler/-poe-urunler）
+- 50 TL ← 「50 TL Ücretsiz Kargo Hızlı Gözat Sepete Ekle Ürün Kodu:LNS-4002-SM Fast Ethernet Converter 9,521」（https://www.lansan.com.tr/switch-ve-aktif-urunler）
+- 70 TL ← 「70 TL Hızlı Gözat Sepete Ekle Ürün Kodu:LNS-1324P 24 Port POE Switch 67,937」（https://www.lansan.com.tr/switch-ve-aktif-urunler）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -182,6 +182,19 @@ updated: 2026-10-27
 - **已披露的贸易伙伴**：Ewind Technology Co Ltd（中国）；Larch Networks Ltd（以色列 = 我方 B 客户 SB-359）；Neme Engae Technology Co Ltd（中国）；Zhengzhou Qiyang Industrial Control Technology Co Ltd（样例提单：便携式数据处理机 1 PCS）
 - **对 Saga 的含义**：这是土耳其唯一一户能免费看到供应商名的海关记录。Angora 82% 的进口来自中国、且主力供应商 Ewind 就是交换机 ODM——它完全具备「从中国直接买整机贴牌」的通道和习惯，Simon 之前谈的「Angora 做 Saga 代理」应反过来想：**先做它的第二家 ODM 供应商**（管理型 PoE / 万兆上联款），再谈代理。SB-359 Larch 既是它的供应商也是我们的客户 → 内部对账：别在给 Larch 的信里提 Angora，也别在给 Angora 的信里提 Larch。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `angoranetworks.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、aspmx2.googlemail.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（土耳其 · 按下一步「现在 → 两周内」窗口 2026-10-27→2026-11-10）：**
+
+- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

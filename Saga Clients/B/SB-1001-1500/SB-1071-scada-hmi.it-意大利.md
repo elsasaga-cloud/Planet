@@ -66,6 +66,25 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 1 个（Teltonika）；社媒：https://www.facebook.com/ScadaSoftware/。
 - **日历窗口**：对方：2026-12-08 圣母无染原罪瞻礼（长周末）；2026-12-24 圣诞–主显节（到 01-06） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `scada-hmi.it` → 同域名 MX → 托管在 dnshigh.com（MX：scada-hmi.it）。主机商附带邮箱（同域名 MX → 托管在 dnshigh.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `sielcosistemi.com` → 同域名 MX → 托管在 aruba.it（MX：mx.sielcosistemi.com）。主机商附带邮箱（同域名 MX → 托管在 aruba.it）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（意大利 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- €88 ← 「0 Add to Cart Add to Wish List Add to Compare Opal8 8 Port Entry Level Unmanaged Din-Rail Switch €88」（https://scada-hmi.it/）
+- €63 ← 「0 Add to Cart Add to Wish List Add to Compare Opal5 5 Port Entry Level Unmanaged Din-Rail Switch €63」（https://scada-hmi.it/）
+- €88 ← 「5 Add to Cart Add to Wish List Add to Compare Opal8 8 Port Entry Level Unmanaged Din-Rail Switch €88」（https://www.scada-hmi.it/store2/accessories.html）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

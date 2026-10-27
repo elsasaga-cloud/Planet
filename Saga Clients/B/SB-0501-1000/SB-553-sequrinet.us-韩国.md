@@ -72,6 +72,22 @@ updated: 2026-10-27
 - **同国同档参照（KR，25% 档、主推线「工业 PoE 非管理」，共 1 户有动静，列前 3）**：SB-070 neowine（B，同档：1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 설날（02-06 → 02-08） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `sequrinet.us` → 无 MX 无 A。域名无 MX 也无 A 记录：收不了信也打不开网站 → 地址作废，降级候选
+- `sequrinet.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+- 其他域名仍活：`sequrinet.com` → 只用这些域的地址
+
+**假日避让（韩国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；02-06 The day preceding Korean New Year；02-07 Korean New Year；02-08 The second day of Korean New Year；02-09 Alternative holiday for Korean New Year；03-01 Independence Movement Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

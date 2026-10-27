@@ -416,7 +416,7 @@
    "p1": "STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0）",
    "tier": 20,
    "signals": 3,
-   "kp": 3,
+   "kp": 4,
    "summary": true
   },
   "SA-016": {

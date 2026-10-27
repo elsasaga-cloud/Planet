@@ -82,6 +82,19 @@ updated: 2026-10-27
   - Shenzhen Centro Technology（= Optiview 的 PoE 交换机供应商）（China (Shenzhen Xixiang)）· 2 票 · PoE injectors, power adapters, PoE extender（非交换机）
 - **对 Saga 的含义**：加拿大 Markham 布线电商，2015–2024 经美国港口海运 182 票（线缆/机柜/配件），2024-08 后在美国海关记录里消失（可能改走温哥华/多伦多直进，加拿大数据不公开）；曾从 Shenzhen Centro 买 PoE 供电器/延长器 2 票 → 已经跟深圳 PoE 厂打过交道、只差交换机本身；对 Saga：STI-154GP / STC-028GP 这类小 PoE 可当『线缆电商配套』推
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `infinitecables.com` → Microsoft 365（MX：infinitecables-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（美国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

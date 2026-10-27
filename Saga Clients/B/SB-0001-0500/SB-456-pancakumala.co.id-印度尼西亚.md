@@ -77,6 +77,24 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 1 个（Hanwha）。
 - **日历窗口**：对方：2026-12-25 圣诞–元旦；2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `pancakumala.co.id` → 无 MX（只有 A 记录 118.139.180.58）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+- ⚠ 手里这些地址所在的域已收不了信：`info@pancakumala.co.id` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
+- 其他域名仍活：`gmail.com` → 只用这些域的地址
+
+**假日避让（印度尼西亚 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；01-05 Isra' and Mi'raj；02-06 Lunar New Year；03-08 Day of Silence；03-10 Eid al-Fitr (estimated)；03-11 Eid al-Fitr Second Day (estimated)；03-26 Good Friday；03-28 Easter Sunday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【宗教】02-08→03-09：斋月（按天文估算 2027-02-08 起，以当地公告为准）：白天效率低、午后早走，海湾国家法定工时缩到 6 小时；开斋节前一周基本不做决策
+- 【宗教】03-09→03-12：开斋节（Eid al-Fitr / Ramazan Bayramı，估算）：3–4 天全停
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

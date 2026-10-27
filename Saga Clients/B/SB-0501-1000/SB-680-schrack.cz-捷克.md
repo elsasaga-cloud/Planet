@@ -63,6 +63,18 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：官网语言 cs（信照样英文，首句可用对方语言问候）；社媒：https://linkedin.com/company/schrack-technik-spol-sro、https://www.facebook.com/schrack.technikcz/、https://www.instagram.com/schrack.technikcz/。
 - **日历窗口**：对方：2026-11-17 自由民主日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `schrack.cz` → Microsoft 365（MX：schrack-cz.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（捷克 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 法定假日：11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -67,6 +67,30 @@ updated: 2026-10-27
 - **同国同档参照（GB，20% 档、主推线「工业 非PoE 管理型」，共 3 户有动静，列前 3）**：SA-015 megnet.co.uk（A，同档：回过 2 次（最近 2025-12-01），1:1 报过 1 次）；SB-160 linx-com.com（B，同档：回过 5 次（最近 2025-05-15））；SB-905 TELTRONIX | BRITICOM（B，同档：回过 2 次（最近 2025-07-07））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04；Boxing Day 12-28 补休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `oksa.co.uk` → Zoho Mail（MX：mx.zoho.com、mx2.zoho.com、mx3.zoho.com）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**公司底数（UK Companies House（搜索页），2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/13062295）：**
+
+- 法定名 / 登记号：OKSA AUTOMATION LIMITED · 13062295 · 状态 **Active（搜索页无 Dissolved 标记）** · 成立 2020-12-04 · Private limited company
+- 行业码（SIC）：（overview 未抓）
+- 注册地址：Office 202, 11 Courtenay Road, East Lane Business Park, Wembley HA9 7ND（与官网一致）
+- 规模档：新公司（2020-12 成立，不到 6 年）· 商务园区单间办公室
+- 账目：（未抓）；（未抓）
+- 高管：（未抓）
+- 抵押 / 担保：（未抓）
+- **这意味着什么：**
+  - 2020-12 才注册的 5 年新公司，办公地址是 Wembley 商务园区的一间 Office 202 → 小型自动化集成 / 配件商，官网评价里的 James 很可能就是老板之一（姓氏仍待核）
+  - Planet 渠道档案 PB-081 里的英国经销商，公司实体很小 → 按集成商 25%，别按分销 20% 报
+- 备注：低优先级 B，只核了存续与成立时间。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,7 +152,8 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | OKSA Automation Limited |
+| 法定名称 | OKSA AUTOMATION LIMITED（Companies House 13062295，2020-12-04 成立，Active） |
+| 成立 | 2020-12-04 |
 | 总部/地址 | Wembley, London（East Lane Business Park, Office 202, 11 Courtenay Road, HA9 7ND）, 英国 |
 | 其他 | Planet 渠道档案 PB-081（2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json）；自有品牌：否；最大未知：James 的姓氏 / 职务（是否采购决策人）；PLANET 进货渠道（PLANET UK 直供 or 分销）；工业交换机年量；是否要求 PROFINET / UKCA 文件 |
 

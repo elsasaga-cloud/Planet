@@ -81,6 +81,20 @@ updated: 2026-10-27
   - 杂项（阳江刀具、宁波减压球、越南帽子、厦门印刷品）（CN/VN）· 10 票 · 促销品 / 杂货
 - **对 Saga 的含义**：迈阿密转口拉美的网络品牌（LanPro），美国海关可见的 24 票多为促销品和少量线缆/机柜，交换机没有走美国港口 → 主货直发拉美（哥伦比亚/委内瑞拉）不经美国，美国数据看不到；B 保持
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `lanpro.com` → Microsoft 365（MX：lanpro-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（美国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

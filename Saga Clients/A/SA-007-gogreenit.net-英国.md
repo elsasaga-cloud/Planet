@@ -113,6 +113,40 @@ updated: 2026-10-27
 - **对 Saga 的含义**：结合它的热度 62（回信多）但无进口记录：Go Green IT 大概率一直从英国分销商 / 欧盟渠道拿货，没有自己的清关经验。对它报价必须 **DAP 英国含税到门**（Saga 百运网线路），把「进口门槛」从它的理由清单里拿掉；它要的是省事，不是最低 EXW。
 - 查无 ≠ 不进口：可能用别的报关主体名、走快递 / 空运、或该国海关数据根本不对外公开。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `gogreenit.net` → IONOS 主机邮箱（MX：mx00.ionos.co.uk、mx01.ionos.co.uk）。主机商附带邮箱（IONOS 主机邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（英国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 窗口内无该国法定假日
+
+**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/07614771）：**
+
+- 法定名 / 登记号：GO GREEN IT LTD · 07614771 · 状态 **Active** · 成立 2011-04-26 · Private limited company
+- 行业码（SIC）：62020 Information technology consultancy activities
+- 注册地址：222 Warwick Avenue, Derby DE23 6HP（住宅街道地址 = 家庭办公，不是仓库 / 写字楼）
+- 规模档：微型 / 小型（住宅注册地 + 2 名董事，无其他高管）
+- 账目：最近账目截至 2025-04-30（已交）；下期截至 2026-04-30，2027-01-31 前交；确认声明 2026-04-26 已交，下期 2027-04-26
+- 高管：Kathryn Hwa Yong STERLING — 董事，1974-09 生，韩国籍、居英，2011-04-26 公司成立当天上任（创始人）
+- 高管：Christopher Bruce Athelstan CLEMSON — 董事，1975-05 生，英国籍，2021-06-04 上任；= 我们 PI 单据上的联系人 Chris Clemson
+- 抵押 / 担保：无抵押登记（页面无 Charges 标签）
+- **这意味着什么：**
+  - 给我们下单、写 Green Reviews 评测的 Chris Clemson 不是采购员，是 2021 年起的在册董事（两名董事之一）——他说的话就是公司决定，不存在「还要请示老板」
+  - 另一名董事 Kathryn Sterling 为创始人、韩国籍：公司是夫妻 / 合伙小店，SIC 62020 IT 咨询；注册地是德比的住宅地址 → 没有仓库，走小批量、DAP 到门最合适（与第 81 批 HMRC 查无进口记录一致：他们的进口量没到海关名录门槛）
+  - 15 年老公司、账目 / 确认声明都按期交，无抵押 → 付款风险低，T/T 50/50 可以谈成 100% 预付小单
+- 备注：信抬头写 Chris（董事），不要只发 info@。
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- £75 ← 「So far, one was great, one was good, and two were poor: "Gigabit Power-over-Ethernet Extender, PoE Passthrough Switch" Several of these were bought fr」（https://gogreenit.net/index.php?page=poe-extenders）
+- £20 ← 「3af/at PoE Powered, 100Mbps Ethernet, din-rail & Wall Mount £20 from Amazon, July 2024 Although it's not listed as such, I thi」（https://gogreenit.net/index.php?page=poe-extenders）
+- £30 ← 「3af/at/bt PoE Powered 90W, 10/100/1000Mbps Ethernet, Wall Mount Waterproof Plug and Play, 1000M OUTDOOR 5 PORT £30 from Amazon, July 2024 Not」（https://gogreenit.net/index.php?page=poe-extenders）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -163,14 +197,14 @@ updated: 2026-10-27
 - **【公开平台核查（T29-U18）】SOGo wiki 署名 Chris.Clemson@GoGreenIT.Net（2017）；neverbounce：Derby DE22 3UP，邮箱格式 first.last@gogreenit.net**
   > If you have any questions, feel free to email me on Chris[dot]Clemson[at]GoGreenIT[dot]Net
   > 来源：https://wiki.sogo.nu/ZEGReconfiguration（抓取 2017-10-29）
-- **KP**：Chris Clemson（单据联系人）info@gogreenit.net 〔PI.zip 单据〕
+- **KP**：Chris Clemson（Christopher Bruce Athelstan Clemson）（Director（2021-06-04 起在册董事，与创始人 Kathryn Sterling 共两名董事）；PI 单据联系人（第 82 批 Companies House 核实 2026-10-27））info@gogreenit.net 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。；PI 包成单客户，Simon 标签 可发展 → A
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网公开评测核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Go Green IT（gogreenit.net，英国） |
+| 法定名称 | GO GREEN IT LTD（Companies House 07614771，2011-04-26 成立，Active；SIC 62020） |
 | 其他 | IT 设备回收/翻新服务商（WEEE T11、数据销毁），同时运营「Green Reviews」栏目自费购买并评测离网/网络设备；**2025-08 自费 £588（+进口费）购入 Saga STI-42424XGGPM-4BT（L3，24 口）替换有 bug 的 Linovision POE-SW708GM-DC12V，并公开发表评测**：称赞销售响应（提供完整 SNMP OID PDF）、UI 设计、备份为明文 CLI 式配置、支持 10M 半双工；指出两项缺点（UI 不记忆显示行数；SFP 口不自动协商速率、默认 10G 需手动设 1G） |
 
 - **业务线**：IT 设备回收 / 翻新 / 数据销毁；自用离网供电与网络设备（评测栏目）
@@ -268,7 +302,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Chris Clemson | 单据联系人 | info@gogreenit.net | 调研核实（公开页） | PI.zip 单据 |
+| Chris Clemson（Christopher Bruce Athelstan Clemson） | Director（2021-06-04 起在册董事，与创始人 Kathryn Sterling 共两名董事）；PI 单据联系人（第 82 批 Companies House 核实 2026-10-27） | info@gogreenit.net | 调研核实（公开页） | PI.zip 单据 |
 | Chris | — | info@gogreenit.net | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

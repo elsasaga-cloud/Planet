@@ -103,6 +103,16 @@ updated: 2026-10-27
 - **ONV 票数**：[['2022-12-22', '2,834 kg 144 ctn', 'PoE switch ONV; $1,777'], ['2022-08-13', '3,598 kg 207 ctn', 'PoE switch ONV; $7,614'], ['2022-05-01', '1,965 kg 80 ctn', 'PoE switch ONV; $9,377'], ['2016-02', '—', 'PoE extender + PoE switch (HTS 8517.62.39, BOL HNLTSZG1602132AC)']]
 - **对 Saga 的含义**：Nelly's 的 PoE 交换机海运供应商是 ONV（光网视），2016～2022-12 共 15 票；2023 起 PoE 交换机改由 Raysharp 随摄像头拼柜带入；2024-10-17 后整个海运断档（同步到 2026-10-21）。研究档已记：创始人 Sean Nelson 2023 年把 Nelly's 卖掉、专做 IPCamPower（SA-046，同在 Broken Arrow OK）——ONV 票止于 2022-12 与出售时间吻合 → IPCamPower 早年的 PoE 交换机货源大概率就是 ONV 这条线；IPCamPower 自己名下海运库查无（可能走空运或以其他主体报关）
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `nellyssecurity.com` → Microsoft 365（MX：nellyssecurity-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

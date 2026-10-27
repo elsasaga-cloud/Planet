@@ -73,6 +73,27 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 235 条 URL；社媒：https://www.facebook.com/3tel.com.sg/。
 - **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 农历新年（02-06/07） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `3tel.com.sg` → 同域名 MX → 托管在 sgcloudhosting.cloud（MX：mail.3tel.com.sg）。主机商附带邮箱（同域名 MX → 托管在 sgcloudhosting.cloud）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（新加坡 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；02-06 Chinese New Year；02-07 Chinese New Year；02-08 Chinese New Year (observed)；03-10 Eid al-Fitr；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- $58 ← 「Z) Name (Z - A) Price (Low > High) Price (High > Low) View More UTP3-SW04-TP60 4 Channel PoE Switch, 2 Uplink Ports $58」（https://www.3tel.com.sg/utepo-switches-and-acs/poe-switches）
+- $169 ← 「50 Qty View More UTP3-GSW0802-TSP120 8 Channel Full Gigabit PoE Switch, 2 Uplink Ports $169」（https://www.3tel.com.sg/utepo-switches-and-acs/poe-switches）
+- $284 ← 「00 Qty View More UTP7208E-POE-A1 Industrial 8 Channel PoE Switch $284」（https://www.3tel.com.sg/utepo-switches-and-acs/poe-switches）
+- $864 ← 「70 Qty View More UTP7524GE - 16GF8GT L3 Managed POE Switch $864」（https://www.3tel.com.sg/utepo-switches-and-acs/poe-switches）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

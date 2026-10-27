@@ -96,6 +96,36 @@ updated: 2026-10-27
 - **涉及商品编码**：85176200、85176920、85177000、85177900、85367000、85369010、85369095、85371098、85444210、85444920、85447000、3925 线槽、3919 胶带
 - **对 Saga 的含义**：Linxcom 每年 4–11 个月都在非欧盟直采 8517 62 00，节奏稳定、最近 2026-08 还有——它有现成的亚洲供应链和清关，缺的不是「能不能进口」而是「换不换一家」。它的品类是布线配件 + 介质转换 / 小型交换机，对 Saga 最对口的是 **桌面 / 墙装小型 PoE（STI-054GP / STC-028GP）和光口型号（带 SFP 上联）**，与它的光纤配件捆绑卖；报价给 EXW 深圳 + 拼它现有的拼箱即可，不必 DAP。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `linx-com.com` → Microsoft 365（MX：linxcom-com01b.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（英国 · 按下一步「现在 → 两周内」窗口 2026-10-27→2026-11-10）：**
+
+- 窗口内无该国法定假日
+
+**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/07157746）：**
+
+- 法定名 / 登记号：LINXCOM LIMITED · 07157746 · 状态 **Active** · 成立 2010-02-15 · Private limited company
+- 行业码（SIC）：26309 Manufacture of communication equipment (other than telegraph/telephone)；27310 Manufacture of fibre optic cables；27320 Manufacture of other electronic/electric wires and cables
+- 注册地址：50 Woodgate, Leicester LE3 5GF（注册地；研究档里的 3 Oakland Road 是旧址 / 经营地，以此为准更新）
+- 规模档：小型 · 单董事在任
+- 账目：截至 2025-12-31 的账目已交（提前；下期 2026-12-31，2027-09-30 前交）；确认声明 2026-02-21 已交，下期 2027-02-21
+- 高管：Mohamed Abdelhamid OKBA — 唯一在任董事，1977-02 生，法国籍、居英，2011-07-01 上任（接替创始董事 Ashraf Bana）
+- 高管：Wadii KHERFANI — 前董事 2011-07-01→2018-03-29（1978-04 生，英国籍）= 现在 Teltronix Holdings / Briticom（SB-905）给我们来信的 wadii@teltronix.net
+- 高管：Ashraf BANA — 创始董事 2010-02-15→2011-07-01（居南非）
+- 抵押 / 担保：无抵押登记（页面无 Charges 标签）
+- **这意味着什么：**
+  - SIC 三项全是「制造」（通信设备 / 光缆 / 电线电缆）：Linxcom 在工商口径上是自有品牌制造商，不是经销商——HMRC 第 81 批的非欧盟 8517 62 00 进口就是贴自己牌的货 → 按 OEM 30% 报，走贴牌线
+  - 来信的 Hussain Alqahtani（Purchasing & Product Development Manager）不是董事；拍板人是唯一董事 Mohamed Okba（法国籍）——报价信抄送 / 提到 Okba 比只对 Hussain 更快
+  - **同行串线**：Linxcom 2011–2018 的董事 Wadii Kherfani 就是 SB-905 Teltronix / Briticom 的来信人 → 两户是「老东家 / 出走创业」关系，产品线相近（网络配件 / 机柜 / PoE），报价别给出价差，两边都会互相比价
+  - 2025 年账目 2026 年 10 月前就交了（法定到 2026-09-30）→ 财务规整，付款信用可按正常 T/T 50/50
+- 备注：注册地变更为 50 Woodgate → 更新 hq。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,7 +161,7 @@ updated: 2026-10-27
 - **【用户表】关注 MC/SFP/FS 周边；WhatsApp 已加；1 次跟进**
   > MC SFP FS 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hussain Alqahtani（Purchasing and Product Development Manager（邮件签名））hussain.alqahtani@linx-com.com 〔S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补）〕
+- **KP**：Hussain Alqahtani（Purchasing and Product Development Manager（邮件签名）；**非董事**，拍板人是唯一董事 Mohamed Abdelhamid Okba（法国籍，2011-07 起）（第 82 批 Companies House 核实 2026-10-27））hussain.alqahtani@linx-com.com 〔S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
@@ -140,8 +170,8 @@ updated: 2026-10-27
 |---|---|
 | 法定名称 | Linxcom Ltd（Companies House 07157746；VAT GB990241716） |
 | 成立 | 2010-02-15 |
-| 总部/地址 | 3 Oakland Road, Leicester LE2 6AN, UK（+44 1327 705 425） |
-| 其他 | 远东仓 + 中国办公室；60+ 国销售；产品含 OEO MC、可管理交换机、SFP；OEM 定制服务 |
+| 总部/地址 | 50 Woodgate, Leicester LE3 5GF（Companies House 注册地 2026-10；研究档旧址 3 Oakland Road 为经营地 / 旧址） |
+| 其他 | 远东仓 + 中国办公室；60+ 国销售；产品含 OEO MC、可管理交换机、SFP；OEM 定制服务；SIC 26309 / 27310 / 27320 全为制造类；前董事 Wadii Kherfani（2011–2018）现为 SB-905 Teltronix / Briticom 董事（第 82 批 Companies House 核实 2026-10-27） |
 
 - **业务线**：光纤无源件与光缆（FTTx/数据中心）；有源件：OEO 介质转换器、可管理交换机、SFP/QSFP/XFP（贴牌）；OEM 定制与多语言销售
 - **触达通道（公开）**：网站: https://www.linx-com.com/；电话: +44 1327 705 425（公开）；LinkedIn: https://uk.linkedin.com/company/linxcom-uk
@@ -230,7 +260,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hussain Alqahtani | Purchasing and Product Development Manager（邮件签名） | hussain.alqahtani@linx-com.com | 调研核实（公开页） | S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补） |
+| Hussain Alqahtani | Purchasing and Product Development Manager（邮件签名）；**非董事**，拍板人是唯一董事 Mohamed Abdelhamid Okba（法国籍，2011-07 起）（第 82 批 Companies House 核实 2026-10-27） | hussain.alqahtani@linx-com.com | 调研核实（公开页） | S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

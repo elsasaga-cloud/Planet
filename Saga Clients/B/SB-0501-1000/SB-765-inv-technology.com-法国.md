@@ -73,6 +73,27 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 308 条 URL；站内可见品牌 1 个（Ruijie）；社媒：https://www.facebook.com/invtechnology20/、https://www.youtube.com/channel/UCmR8v1WcK5Q0-KXFmQRbdUg。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `inv-technology.com` → OVH 主机邮箱（MX：mx1.mail.ovh.net、mx2.mail.ovh.net、mx3.mail.ovh.net）。主机商附带邮箱（OVH 主机邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（法国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；03-29 Easter Monday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- €1,266 ← 「Price, low to high Price, high to low Showing 1-9 of 9 item(s)  Quick view  View Detail Switch Manageable RG-ES228GS-P €1,266」（https://inv-technology.com/en/38-switch-manageable）
+- €894 ← 「00  Quick view  View Detail Switch Manageable RG-ES220GS-P €894」（https://inv-technology.com/en/38-switch-manageable）
+- €430 ← 「00  Quick view  View Detail Switch Manageable RG-ES210GS-P €430」（https://inv-technology.com/en/38-switch-manageable）
+- €378 ← 「80  Quick view  View Detail Switch Manageable RG-ES209GC-P €378」（https://inv-technology.com/en/38-switch-manageable）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

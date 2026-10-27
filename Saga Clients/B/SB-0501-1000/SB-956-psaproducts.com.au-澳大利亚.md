@@ -75,6 +75,20 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 309 条 URL；站内可见品牌 1 个（Hikvision）；社媒：https://www.facebook.com/psaproducts、https://www.instagram.com/psaproducts/?fbclid=IwAR2FuO4Aa0C12LiXNY_7TiM-okfSToWNGxib9RBSWC_Qdg-GF4Mrwu7ABM8、https://www.linkedin.com/company/psa-products-pty-ltd/mycompany/?viewAsMember=true。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 + 南半球暑假（多到 1 月中） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `psaproducts.com.au` → 自建 / 同域名邮件服务器（MX：filter1.psapro-1.mailguard.com.au、filter2.psapro-1.mailguard.com.au、filter3.psapro-1.mailguard.com.au）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
+
+**假日避让（澳大利亚 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；01-26 Australia Day；03-26 Good Friday；03-29 Easter Monday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+- 【惯例】12-18→01-25：澳新夏休：12-18 起到 1 月下旬，很多公司直接关到澳大利亚日（1-26）后
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

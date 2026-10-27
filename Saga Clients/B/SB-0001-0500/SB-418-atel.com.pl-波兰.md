@@ -76,6 +76,26 @@ updated: 2026-10-27
 - **同国同档参照（PL，20% 档、主推线「工业 PoE 非管理」，共 1 户有动静，列前 3）**：SA-023 fcnet.pl（A，同档：回过 2 次（最近 2025-04-22））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-11 独立日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `atel.com.pl` → 自建 / 同域名邮件服务器（MX：domino.atel.com.pl）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
+- `atel-electronics.eu` → 其他主机商邮箱（domino.atel.com.pl）（MX：domino.atel.com.pl）。主机商附带邮箱（domino.atel.com.pl）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- 590,00 PLN ← 「19", 1-portowy KVM HDMI, 1U, pojedyncza szyna 8 590,00 PLN #09787 Edge-corE ECS4650-54P, Switch zarządzalny, 48x 10/100/1000 RJ-45 PoE, 6x 25G SFP28, 」（https://atel.com.pl/）
+- 508,00 PLN ← 「5G RJ-45 PoE + 2x1000/10G SFP+ 508,00 PLN #09768 Gigabitowy bezprzewodowy most 5Ghz (TP-Link Flex Brid」（https://atel.com.pl/）
+- 118,00 PLN ← 「5G) więcej nowości » #09531 118,00 PLN 116,00 PLN TP-Link Mercusys MS108GP, Switch niezarządzalny, 8x 10/100/1000 RJ-45, PoE+, desktop / Switche #0914」（https://atel.com.pl/）
+- 107,00 PLN ← 「0 PLN TP-Link TL-SG2428P, Switch inteligentny, 24x 10/100/1000 RJ-45, 4x SFP, PoE+, 19" / Switche #06424 107,00 PLN 105,00 PLN Konwerter światłowodowy」（https://atel.com.pl/）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -85,6 +85,18 @@ updated: 2026-10-27
 - **最后一球**：1:1 对话 1 段，最长一段 3 封 / 跨 1 天（2026-01-19 → 2026-01-20，「Re: OEM Core Switching Solution」）；**最后一句是他们说的**（2026-01-20，279 天前，「Re: OEM Core Switching Solution」，`d7fe7ed18432cbb9`）：「Dear Alan: Good day, Thank you for your support and for processing the information with the Data Center client…」。
 - **日历窗口**：我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `conexionderedes.com` → Google Workspace（MX：ASPMX.L.GOOGLE.com、ALT1.ASPMX.L.GOOGLE.com、ALT2.ASPMX.L.GOOGLE.com、ALT3.ASPMX.L.GOOGLE.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（萨尔瓦多 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 法定假日：11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

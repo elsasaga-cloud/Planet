@@ -121,6 +121,38 @@ updated: 2026-10-27
 - **涉及商品编码**：85176200、85176990、85171100、85171300、85171800、84713000、84714100、84716070、85044030、85183000、85258100、85423111、85444290
 - **对 Saga 的含义**：ITM 有非欧盟清关经验（2026-08 刚进过笔记本），但网络设备一直走欧盟渠道（Westcon / Exertis 一类）。它热度 68（回信积极），卡点大概率不是「不会进口」而是「没有理由换」。话术：用它最近一次欧盟来源交换机的到货价做比照——我们报 DAP UK 含税到门，省它换渠道的麻烦；型号从它 reseller 清单里的 24 口 PoE 管理型切。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `itmsystems.co.uk` → MailChannels 过滤（主机商附带）（MX：mx1.mailchannels.net、mx2.mailchannels.net）。主机商附带邮箱（MailChannels 过滤（主机商附带））：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `itmsystems.net` → 主机商 cPanel 类邮箱（MX：mail.itmsystems.net）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（英国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 窗口内无该国法定假日
+
+**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/07747218）：**
+
+- 法定名 / 登记号：ITM SYSTEMS LIMITED · 07747218 · 状态 **Active** · 成立 2011-08-22 · Private limited company
+- 行业码（SIC）：26110 Manufacture of electronic components；62020 IT consultancy；63110 Data processing / hosting；80200 Security systems service activities
+- 注册地址：North Wing, Broadway Court, Peterborough PE1 1RP（与官网一致）
+- 规模档：小型 · 两名在任董事
+- 账目：截至 2025-11-30 的账目已交（下期 2026-11-30，2027-08-31 前交）；确认声明 2026-02-04 已交，下期 2027-02-04
+- 高管：Inneh Emmanuel AIG-IMORU — 董事，1974-01 生，英国籍，2012-08-28 上任（在任 14 年，最稳定的一位）
+- 高管：Dr Stanislas Bael NYOKAS-MOUNTSAMBOTE — 创始董事 2011-08-22→2018-03-21 辞任，2024-11-28 重新上任（同日 Marie-Rose Nyokas 辞任）
+- 高管：Marie-Rose NYOKAS — 2015→2016、2015-08→2024-11 两段董事，已辞任
+- 抵押 / 担保：页面有 Charges 标签 → 存在抵押登记（明细未抓）
+- 曾用名：ITOTALMARKETING LIMITED（2011-08-22→2012-08-29）
+- **这意味着什么：**
+  - 我们表里的 KP 只有一个名字「Steve」（info@itmsystems.net）：Companies House 在任董事里没有 Steve，最接近的是创始人 Dr Stanislas（Stan）Nyokas-Mountsambote，2024-11 刚回任董事 → 「Steve」大概率是 Stan 的英语化称呼，待核；另一位董事 Emmanuel Aig-Imoru 在任 14 年
+  - 2024-11-28 董事层换血（创始人回归、原董事 Marie-Rose 退出）→ 2025 年起采购决策链变了，老邮件里的默契不一定还算数，首封要重新自我介绍
+  - SIC 有 80200「安防系统服务」+ 62020 IT 咨询 + 63110 托管：是做 CCTV / IT 项目的集成商（官网也写 Advanced Video Surveillance）→ 报价按集成商 25%，PoE 交换机配监控是切入点
+  - HMRC 第 81 批：交换机行无月份 = 欧盟来源进货，没有亚洲直采经验 → 报 DAP UK 含税到门，别只报 EXW
+- 备注：Steve ≈ Stanislas 待核；有抵押登记。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -171,6 +203,7 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ITM SYSTEMS LIMITED（Companies House 07747218，2011-08-22 成立，Active；SIC 26110 / 62020 / 63110 / 80200；有抵押登记） |
 | 总部/地址 | 英国 |
 | 其他 | 官网 itmsystems.co.uk，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 

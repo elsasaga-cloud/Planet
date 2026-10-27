@@ -62,6 +62,23 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 144 条 URL；官网语言 it-IT（信照样英文，首句可用对方语言问候）。
 - **日历窗口**：对方：2026-12-08 圣母无染原罪瞻礼（长周末）；2026-12-24 圣诞–主显节（到 01-06） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `lorwen.it` → 其他主机商邮箱（mailserver11.vhosting-it.com）（MX：mailserver11.vhosting-it.com）。主机商附带邮箱（mailserver11.vhosting-it.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- € 87,54 ← 「Aggiungi alla lista dei desideri 9 Canali 4K Smart AI – 4 Porte POE – NVR € 87,54 Aggiungi al carrello Cod: LW-NVR4KT9C4P Aggiungi alla lista dei desi」（https://lorwen.it/categorie/nvr-network-video-recorder/nvr-con-poe-integrato-nvr-network-video-recorder/）
+- € 91,97 ← 「Canali 4K Smart AI – 4 Porte POE – NVR € 91,97 Aggiungi al carrello Cod: LW-NVR12S9C4P Aggiungi alla lista dei desideri 9」（https://lorwen.it/categorie/nvr-network-video-recorder/nvr-con-poe-integrato-nvr-network-video-recorder/）
+- € 93,78 ← 「Canali 4K 12 Mpx Smart AI – 4 Porte POE – NVR € 93,78 Aggiungi al carrello Cod: LW-NVR12M9C8P Aggiungi alla lista dei desideri 9」（https://lorwen.it/categorie/nvr-network-video-recorder/nvr-con-poe-integrato-nvr-network-video-recorder/）
+- € 95,45 ← 「Canali 4k 12Mpx Smart AI – 8 Porte POE – NVR Mini € 95,45 Aggiungi al carrello Cod: LW-NVR4KS16C8P_ Aggiungi alla lista dei desi」（https://lorwen.it/categorie/nvr-network-video-recorder/nvr-con-poe-integrato-nvr-network-video-recorder/）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

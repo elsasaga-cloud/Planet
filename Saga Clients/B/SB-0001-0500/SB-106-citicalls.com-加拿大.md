@@ -65,6 +65,19 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 21 条 URL；站内可见品牌 3 个（Cisco、Cambium、Grandstream）；社媒：https://twitter.com/share?text=Yealink YEA-AP08 1303097 Dante Digital Signal Processor&url=https://citicalls.com/products/yealink-yea-ap08-1303097-dante-digital-signal-processor、https://twitter.com/share?text=Yealink YEA-UVC8X-MOUNT-KITS 330100059001 UVC8X Mount Kit&url=https://citicalls.com/products/yealink-yea-uvc8x-mount-kits-330100059001-uvc8x-mount-kit、https://twitter.com/share?text=Yealink YEA-VCR11 1303081 Remote For MB A10/A20/A30/A40&url=https://citicalls.com/products/yealink-yea-vcr11-1303081-remote-for-mb-a10-a20-a30-a40。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `citicalls.com` → Hostinger / Titan（MX：mx1.hostinger.com、mx2.hostinger.com）。主机商附带邮箱（Hostinger / Titan）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（加拿大 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 窗口内无该国法定假日
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

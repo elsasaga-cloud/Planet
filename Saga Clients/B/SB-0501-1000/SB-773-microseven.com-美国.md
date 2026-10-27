@@ -73,6 +73,23 @@ updated: 2026-10-27
 - **同国同档参照（US，30% 档、主推线「商用 2.5G PoE 管理型」，共 9 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `microseven.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- $79 ← 「4K (8MP) IP Camera, PoE, Outdoor-Rated, Open Platform SHOP NOW $79」（https://microseven.com/）
+- $149 ← 「4K (8MP) IP PoE Vandalproof Dome Security Camera, Open Platform SHOP NOW $149」（https://microseven.com/）
+- $79 ← 「1080p (1920×1080) 150° Wide Angle Motion & Human Detection PoE (Wired Only) IP66 Outdoor $79」（http://www.microseven.com/product/1080P Open Platform-M7D77-POE.html）
+- $159 ← 「4K - 30 FPS AI Human Detection Top/Bottom UNC Mount PoE + Wi-Fi IP66 Outdoor $159」（http://www.microseven.com/product/4K 8MP Open Platform-M7B4K-WPUNC-SVF.html）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

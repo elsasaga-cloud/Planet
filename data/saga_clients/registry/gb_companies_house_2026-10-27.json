@@ -1,0 +1,320 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "UK Companies House（find-and-update.company-information.service.gov.uk，免费官方登记）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 9
+ },
+ "rows": {
+  "SA-015": {
+   "name": "MEGNET LTD.",
+   "iso": "GB",
+   "source": "UK Companies House",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04748999",
+   "number": "04748999",
+   "status": "Active",
+   "incorporated": "2003-04-30",
+   "company_type": "Private limited company",
+   "sic": [
+    "82990 Other business support service activities n.e.c."
+   ],
+   "address": "Mortlake Business Centre, 20 Mortlake High Street, London SW14 8JN（商务中心地址，非自有办公室）",
+   "accounts": "最近账目截至 2025-04-30（2025-06-10 提交）；类型 Total exemption full accounts，FRS 102 1A 小型公司制度（营业额 < £10.2m，免审计）；有形固定资产 £7,403（2024：£9,870）",
+   "accounts_due": "下期账目截至 2026-04-30，2027-01-31 前交；确认声明 2026-04-30 已交（2026-05-01，「with updates」）",
+   "size_band": "小型（small entities regime）· 单董事",
+   "officers": [
+    "Omar Ismat MIQDADI — 唯一在任董事，1973-04 生，英国籍，2003-11-17 上任（公司成立半年后从 Megdadi 家族接手）；其余 3 人均已辞任（2003/2009）"
+   ],
+   "psc": "见 PSC 页（未抓）",
+   "charges": "2021-06-07 登记 1 项抵押（charge 047489990001，MR01 2021-06-11）——通常是银行贷款 / 融资额度",
+   "prev_names": [
+    "RELATIVE NETWORK TECHNOLOGY LTD（2003-04-30→05-15）"
+   ],
+   "lines": [
+    "22 年老公司、一人董事、账目走小型公司免审计口径，年报按时交（2024 账目 2025-01-09 交、2025 账目提前到 6 月交）",
+    "SIC 挂的是 82990「其他商务支持服务」而不是 46510/62090 IT 批发或 IT 服务——登记口径与网站的 IT 分销定位不一致，说明是老登记没改，不是转行",
+    "2021-06 新登记一项抵押：有融资安排 → 对账期（T/T 50/50 vs 30 天账期）会敏感",
+    "HMRC 进口记录（第 81 批）显示 2025-10 仍有非欧盟 8517 62 00 进口 → 公司活着且在进口交换机"
+   ],
+   "notes": "董事 = 实际拍板人：Omar Miqdadi。给 Megnet 的信抬头应对他本人而不是 info@。",
+   "fetched": "2026-10-27",
+   "code": "SA-015"
+  },
+  "SA-007": {
+   "name": "GO GREEN IT LTD",
+   "iso": "GB",
+   "source": "UK Companies House",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07614771",
+   "number": "07614771",
+   "status": "Active",
+   "incorporated": "2011-04-26",
+   "company_type": "Private limited company",
+   "sic": [
+    "62020 Information technology consultancy activities"
+   ],
+   "address": "222 Warwick Avenue, Derby DE23 6HP（住宅街道地址 = 家庭办公，不是仓库 / 写字楼）",
+   "accounts": "最近账目截至 2025-04-30（已交）；下期截至 2026-04-30，2027-01-31 前交",
+   "accounts_due": "确认声明 2026-04-26 已交，下期 2027-04-26",
+   "size_band": "微型 / 小型（住宅注册地 + 2 名董事，无其他高管）",
+   "officers": [
+    "Kathryn Hwa Yong STERLING — 董事，1974-09 生，韩国籍、居英，2011-04-26 公司成立当天上任（创始人）",
+    "Christopher Bruce Athelstan CLEMSON — 董事，1975-05 生，英国籍，2021-06-04 上任；= 我们 PI 单据上的联系人 Chris Clemson"
+   ],
+   "psc": "见 PSC 页（未抓）",
+   "charges": "无抵押登记（页面无 Charges 标签）",
+   "prev_names": [],
+   "lines": [
+    "给我们下单、写 Green Reviews 评测的 Chris Clemson 不是采购员，是 2021 年起的在册董事（两名董事之一）——他说的话就是公司决定，不存在「还要请示老板」",
+    "另一名董事 Kathryn Sterling 为创始人、韩国籍：公司是夫妻 / 合伙小店，SIC 62020 IT 咨询；注册地是德比的住宅地址 → 没有仓库，走小批量、DAP 到门最合适（与第 81 批 HMRC 查无进口记录一致：他们的进口量没到海关名录门槛）",
+    "15 年老公司、账目 / 确认声明都按期交，无抵押 → 付款风险低，T/T 50/50 可以谈成 100% 预付小单"
+   ],
+   "notes": "信抬头写 Chris（董事），不要只发 info@。",
+   "fetched": "2026-10-27",
+   "code": "SA-007"
+  },
+  "SA-017": {
+   "name": "PARALLAX DIGITAL TECHNOLOGIES LIMITED",
+   "iso": "GB",
+   "source": "UK Companies House",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10314407",
+   "number": "10314407",
+   "status": "Active",
+   "incorporated": "2016-08-05",
+   "company_type": "Private limited company",
+   "sic": [
+    "26200 Manufacture of computers and peripheral equipment",
+    "62020 IT consultancy",
+    "62030 Computer facilities management",
+    "62090 Other IT service activities"
+   ],
+   "address": "19 Endeavour Park, Baker Road, Nelson Park West, Cramlington, Northumberland NE23 1XA（工业园单元，与官网一致）",
+   "accounts": "最近账目截至 2025-04-05（已交）；下期截至 2026-04-05，2027-01-05 前交",
+   "accounts_due": "确认声明 2026-08-04 已交，下期 2027-08-04",
+   "size_band": "小型 · 单董事（1 officer / 0 resignations）",
+   "officers": [
+    "Jeffrey Allan FERRIER — 唯一董事，1965-09 生，英国籍，2016-08-05 成立即上任；身份核验由会计师事务所 G W Thompson & Co（ACSP）于 2025-12-18 完成"
+   ],
+   "psc": "见 PSC 页（未抓）",
+   "charges": "无抵押登记（页面无 Charges 标签）",
+   "prev_names": [
+    "DIGITAL SYSTEMS DESIGN LIMITED（2016-08-05→2017-04-24）",
+    "PARALLAX DIGITAL LIMITED（2017-04-24→2019-06-07）"
+   ],
+   "lines": [
+    "单董事公司：给我们来信的 jeff.ferrier@ 就是唯一董事 Jeff Ferrier（1965 年生，60 岁）——没有采购部，所有决定他一个人定，回信慢是因为人忙不是流程",
+    "SIC 第一项 26200「计算机及外设制造」：登记口径就是制造商 / 方案商，不是经销商 → 报价按集成商 25%、谈 OEM 贴牌按 30%，别按分销 20% 报",
+    "两次改名（Digital Systems Design → Parallax Digital → Parallax Digital Technologies，2019 定名）：2019 年起的品牌才 6 年；HMRC 第 81 批显示 2026-01 仍有非欧盟进口 → 业务活跃",
+    "会计师 2025-12 刚替他做完 Companies House 身份核验 → 公司合规维护在正常走，无解散风险"
+   ],
+   "notes": "无抵押、单董事、工业园自有单元 → 小而稳。",
+   "fetched": "2026-10-27",
+   "code": "SA-017"
+  },
+  "SB-160": {
+   "name": "LINXCOM LIMITED",
+   "iso": "GB",
+   "source": "UK Companies House",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07157746",
+   "number": "07157746",
+   "status": "Active",
+   "incorporated": "2010-02-15",
+   "company_type": "Private limited company",
+   "sic": [
+    "26309 Manufacture of communication equipment (other than telegraph/telephone)",
+    "27310 Manufacture of fibre optic cables",
+    "27320 Manufacture of other electronic/electric wires and cables"
+   ],
+   "address": "50 Woodgate, Leicester LE3 5GF（注册地；研究档里的 3 Oakland Road 是旧址 / 经营地，以此为准更新）",
+   "accounts": "截至 2025-12-31 的账目已交（提前；下期 2026-12-31，2027-09-30 前交）",
+   "accounts_due": "确认声明 2026-02-21 已交，下期 2027-02-21",
+   "size_band": "小型 · 单董事在任",
+   "officers": [
+    "Mohamed Abdelhamid OKBA — 唯一在任董事，1977-02 生，法国籍、居英，2011-07-01 上任（接替创始董事 Ashraf Bana）",
+    "Wadii KHERFANI — 前董事 2011-07-01→2018-03-29（1978-04 生，英国籍）= 现在 Teltronix Holdings / Briticom（SB-905）给我们来信的 wadii@teltronix.net",
+    "Ashraf BANA — 创始董事 2010-02-15→2011-07-01（居南非）"
+   ],
+   "psc": "见 PSC 页（未抓）",
+   "charges": "无抵押登记（页面无 Charges 标签）",
+   "prev_names": [],
+   "lines": [
+    "SIC 三项全是「制造」（通信设备 / 光缆 / 电线电缆）：Linxcom 在工商口径上是自有品牌制造商，不是经销商——HMRC 第 81 批的非欧盟 8517 62 00 进口就是贴自己牌的货 → 按 OEM 30% 报，走贴牌线",
+    "来信的 Hussain Alqahtani（Purchasing & Product Development Manager）不是董事；拍板人是唯一董事 Mohamed Okba（法国籍）——报价信抄送 / 提到 Okba 比只对 Hussain 更快",
+    "**同行串线**：Linxcom 2011–2018 的董事 Wadii Kherfani 就是 SB-905 Teltronix / Briticom 的来信人 → 两户是「老东家 / 出走创业」关系，产品线相近（网络配件 / 机柜 / PoE），报价别给出价差，两边都会互相比价",
+    "2025 年账目 2026 年 10 月前就交了（法定到 2026-09-30）→ 财务规整，付款信用可按正常 T/T 50/50"
+   ],
+   "notes": "注册地变更为 50 Woodgate → 更新 hq。",
+   "fetched": "2026-10-27",
+   "code": "SB-160"
+  },
+  "SB-905": {
+   "name": "TELTRONIX HOLDINGS LTD（品牌 Briticom™）",
+   "iso": "GB",
+   "source": "UK Companies House",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12455268",
+   "number": "12455268",
+   "status": "Active（officers 页在列，无解散标记）",
+   "incorporated": "2020-02-11",
+   "lines": [
+    "来信人 Wadii Kherfani 就是老板本人（两名董事之一，另一位同姓）：2020 年才成立的 5 年新公司，但他本人在 Linxcom 做了 7 年董事 → 懂行、有供应链、会比价",
+    "与 SB-160 Linxcom 同源（Wadii 2018 年从 Linxcom 退出、2020 年开 Teltronix），两户的报价和交期口径必须一致",
+    "有抵押登记 + 新公司 → 对账期不要松：T/T 50/50 起，不给 30 天账期",
+    "HMRC 第 81 批：Teltronix LLP + Teltronix U.K. Ltd 两个法人都在非欧盟进口名录 → 实际进口主体可能不是 Holdings，PI 抬头按客户指定法人开"
+   ],
+   "notes": "Holdings 下另有 LLP / U.K. Ltd（HMRC 名录见第 81 批）。",
+   "fetched": "2026-10-27",
+   "code": "SB-905",
+   "company_type": "Private limited company",
+   "sic": [
+    "（overview 未抓）"
+   ],
+   "address": "7 Premier Court, Boarden Close, Moulton Park Industrial Estate, Northampton NN3 6LF（工业园单元）",
+   "accounts": "（overview 未抓）",
+   "accounts_due": "两名董事的 Companies House 身份核验均到期于 2026-11-18（新规，逾期会影响公司申报）",
+   "size_band": "微型 / 小型 · 夫妻两董事",
+   "officers": [
+    "Wadii KHERFANI — 董事，1978-04 生，英国籍，2020-02-11 成立即上任；= 来信人 wadii@teltronix.net；2011-07→2018-03 曾任 Linxcom Ltd（SB-160）董事",
+    "Anna KHERFANI — 董事，1985-03 生，英国籍，2020-02-11 上任（同姓 → 家族 / 夫妻公司）"
+   ],
+   "psc": "见 PSC 页（未抓）",
+   "charges": "页面有 Charges 标签 → 存在抵押登记（明细未抓）",
+   "prev_names": []
+  },
+  "SB-767": {
+   "name": "ITM SYSTEMS LIMITED",
+   "iso": "GB",
+   "source": "UK Companies House",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07747218",
+   "number": "07747218",
+   "status": "Active",
+   "incorporated": "2011-08-22",
+   "company_type": "Private limited company",
+   "sic": [
+    "26110 Manufacture of electronic components",
+    "62020 IT consultancy",
+    "63110 Data processing / hosting",
+    "80200 Security systems service activities"
+   ],
+   "address": "North Wing, Broadway Court, Peterborough PE1 1RP（与官网一致）",
+   "accounts": "截至 2025-11-30 的账目已交（下期 2026-11-30，2027-08-31 前交）",
+   "accounts_due": "确认声明 2026-02-04 已交，下期 2027-02-04",
+   "size_band": "小型 · 两名在任董事",
+   "officers": [
+    "Inneh Emmanuel AIG-IMORU — 董事，1974-01 生，英国籍，2012-08-28 上任（在任 14 年，最稳定的一位）",
+    "Dr Stanislas Bael NYOKAS-MOUNTSAMBOTE — 创始董事 2011-08-22→2018-03-21 辞任，2024-11-28 重新上任（同日 Marie-Rose Nyokas 辞任）",
+    "Marie-Rose NYOKAS — 2015→2016、2015-08→2024-11 两段董事，已辞任"
+   ],
+   "psc": "见 PSC 页（未抓）",
+   "charges": "页面有 Charges 标签 → 存在抵押登记（明细未抓）",
+   "prev_names": [
+    "ITOTALMARKETING LIMITED（2011-08-22→2012-08-29）"
+   ],
+   "lines": [
+    "我们表里的 KP 只有一个名字「Steve」（info@itmsystems.net）：Companies House 在任董事里没有 Steve，最接近的是创始人 Dr Stanislas（Stan）Nyokas-Mountsambote，2024-11 刚回任董事 → 「Steve」大概率是 Stan 的英语化称呼，待核；另一位董事 Emmanuel Aig-Imoru 在任 14 年",
+    "2024-11-28 董事层换血（创始人回归、原董事 Marie-Rose 退出）→ 2025 年起采购决策链变了，老邮件里的默契不一定还算数，首封要重新自我介绍",
+    "SIC 有 80200「安防系统服务」+ 62020 IT 咨询 + 63110 托管：是做 CCTV / IT 项目的集成商（官网也写 Advanced Video Surveillance）→ 报价按集成商 25%，PoE 交换机配监控是切入点",
+    "HMRC 第 81 批：交换机行无月份 = 欧盟来源进货，没有亚洲直采经验 → 报 DAP UK 含税到门，别只报 EXW"
+   ],
+   "notes": "Steve ≈ Stanislas 待核；有抵押登记。",
+   "fetched": "2026-10-27",
+   "code": "SB-767"
+  },
+  "SB-474": {
+   "name": "CASE COMMUNICATIONS LIMITED",
+   "iso": "GB",
+   "source": "UK Companies House",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03913540",
+   "number": "03913540",
+   "status": "Active",
+   "incorporated": "2000-01-26",
+   "company_type": "Private limited company",
+   "sic": [
+    "26200 Manufacture of computers and peripheral equipment",
+    "62090 Other IT service activities"
+   ],
+   "address": "North's Estate, Old Oxford Road, Piddington, High Wycombe HP14 3BE（与官网一致）",
+   "accounts": "最近账目截至 2025-03-31（已交）；下期截至 2026-03-31，**2026-12-31 前交**",
+   "accounts_due": "确认声明 2026-05-28 已交，下期 2027-05-28",
+   "size_band": "小型 · 单董事在任（历史上 10 名高管 / 9 人已辞）",
+   "officers": [
+    "Andrew Thomas SAOULIS — 唯一在任董事，**1950-10 生（76 岁）**，英国籍，2000-01-26 成立即上任 = 给我们来信的 andys@case.uk.com「Andy」",
+    "2014-07→2015-01 两名董事（O'Daly 加拿大籍、Orren）、2015-01→2020-02 两名董事（Gennadii Armashula 乌克兰籍居乌克兰、D. R. L. Jones）均已辞任；2020-02 起又回到 Andy 一人",
+    "公司秘书三任（Scott / Kathleen Saoulis（同姓，家属）/ Corlett）2000→2014，之后无秘书"
+   ],
+   "psc": "见 PSC 页（未抓）",
+   "charges": "页面有 Charges 标签 → 存在抵押登记（明细未抓）",
+   "prev_names": [
+    "CASE TECHNOLOGY CENTRAL EUROPE LIMITED（2000-01-26→2003-02-07）"
+   ],
+   "lines": [
+    "**来信人 Andy 就是老板**：Andrew Saoulis，唯一董事、2000 年创办，76 岁——他回信 = 公司决定，不用找「采购经理」；但也意味着接班 / 退出风险：长期绑定要同时认识他下面做技术 / 采购的第二人",
+    "官网说的「since 1970」是沿用了老 Case Communications（Dowty / Smiths 集团旗下，公司号 00730286，2019 年已注销）的品牌；现公司 2000 年才成立，前名 Case Technology Central Europe → 2003 改今名；2015–2020 有乌克兰籍董事（Armashula，居乌克兰）→ 东欧研发 / 代工渊源",
+    "SIC 26200 制造 + 62090 IT 服务：登记就是制造商（自有品牌工业路由 / 交换）；HMRC 第 81 批 11 年非欧盟 8517 62 00 进口、最近 2026-08 → 现成的 ODM 客户，报 OEM 30% 走 DIN 导轨 PoE 贴牌线",
+    "有抵押登记、单董事、账目 12-31 到期 → 11–12 月是他们对账期，别在 12 月下旬催 PI；1 月上旬跟进最顺"
+   ],
+   "notes": "Andy = Andrew Saoulis（董事 / 老板）。更新 KP 角色。",
+   "fetched": "2026-10-27",
+   "code": "SB-474"
+  },
+  "SB-118": {
+   "name": "GENROV LTD",
+   "iso": "GB",
+   "source": "UK Companies House",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06899120",
+   "number": "06899120",
+   "status": "Active",
+   "incorporated": "2009-05-07",
+   "company_type": "Private limited company",
+   "sic": [
+    "74909 Other professional, scientific and technical activities n.e.c."
+   ],
+   "address": "Office 2 Kepier Hall, Church Street, Houghton-le-Spring DH4 4DN（与研究档一致）",
+   "accounts": "最近账目截至 2025-05-31（已交）；下期截至 2026-05-31，2027-02-28 前交",
+   "accounts_due": "确认声明 2026-05-07 已交，下期 2027-05-07",
+   "size_band": "微型 · 单董事 / 唯一股东（研究档：Michael Dickinson）",
+   "officers": [
+    "（officers 页未抓；研究档已记 Michael Dickinson = Director / 唯一股东，mike@genrov.com 本人来信 2024-06-16）"
+   ],
+   "psc": "（未抓）",
+   "charges": "无抵押登记（页面无 Charges 标签）",
+   "prev_names": [],
+   "lines": [
+    "17 年老公司、无抵押、账目按期交，SIC 74909「其他专业技术活动」= 工程咨询型一人公司（ROV / 水下机器人方向），不是经销商 → 买交换机是配自己的项目，量小但重复，按集成商 25% 报、不要群发",
+    "注册地址 = 研究档地址，公司状态 Active → 2024-06 本人来信的 mike@ 仍是正确入口"
+   ],
+   "notes": "低优先级 B；工商口径确认存活。",
+   "fetched": "2026-10-27",
+   "code": "SB-118"
+  },
+  "SB-176": {
+   "name": "OKSA AUTOMATION LIMITED",
+   "iso": "GB",
+   "source": "UK Companies House（搜索页）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13062295",
+   "number": "13062295",
+   "status": "Active（搜索页无 Dissolved 标记）",
+   "incorporated": "2020-12-04",
+   "company_type": "Private limited company",
+   "sic": [
+    "（overview 未抓）"
+   ],
+   "address": "Office 202, 11 Courtenay Road, East Lane Business Park, Wembley HA9 7ND（与官网一致）",
+   "accounts": "（未抓）",
+   "accounts_due": "（未抓）",
+   "size_band": "新公司（2020-12 成立，不到 6 年）· 商务园区单间办公室",
+   "officers": [
+    "（未抓）"
+   ],
+   "psc": "（未抓）",
+   "charges": "（未抓）",
+   "prev_names": [],
+   "lines": [
+    "2020-12 才注册的 5 年新公司，办公地址是 Wembley 商务园区的一间 Office 202 → 小型自动化集成 / 配件商，官网评价里的 James 很可能就是老板之一（姓氏仍待核）",
+    "Planet 渠道档案 PB-081 里的英国经销商，公司实体很小 → 按集成商 25%，别按分销 20% 报"
+   ],
+   "notes": "低优先级 B，只核了存续与成立时间。",
+   "fetched": "2026-10-27",
+   "code": "SB-176"
+  }
+ }
+}

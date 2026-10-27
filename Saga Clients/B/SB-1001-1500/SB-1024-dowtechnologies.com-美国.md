@@ -80,6 +80,19 @@ updated: 2026-10-27
   - Ningbo Yago / Shimaotong / Yihoo（China）· 3 票 · amplifiers, speakers
 - **对 Saga 的含义**：DOW 是美国东南部 AV/安防分销，自有音箱品牌从嘉兴/宁波海运（季度级，Savannah 港）；交换机从未自行进口 → 他们的网络产品走美国代理，Saga 要进只能做他们自有品牌的『配套 PoE 交换机』（OEM 30%）
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `dowtechnologies.com` → Barracuda 网关（MX：d241174a.ess.barracudanetworks.com、d241174b.ess.barracudanetworks.com）。企业级邮件网关（Barracuda 网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

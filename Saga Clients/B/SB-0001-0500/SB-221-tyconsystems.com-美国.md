@@ -91,6 +91,20 @@ updated: 2026-10-27
   - Shenzhen Hongrui Optical Technology (HRUI)（China）· 4 票 · PoE switches (per HRUI supplier page 2026-10-22: 2022-08…2024-01)
 - **对 Saga 的含义**：美国 A/B 里唯一的『海运大户』：1,039 票、月均 9.46 TEU；交换机主供 Mstronic（台湾）；HRUI 仅 4 票 2022-08~2024-01
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `tyconsystems.com` → Microsoft 365（MX：tyconsystems-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- $499 ← 「3at/24V Passive PoE Switch, Remote Mgmt $499」（https://www.tyconsystems.com/products/tpdin-sc48-20/6026428000003357520）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -92,6 +92,27 @@ updated: 2026-10-27
 - **查无**：ImportYeti 公司页没有此户（company/megatel-industries 404）。美国海运提单库查无
 - 查无 ≠ 不进口：可能用别的报关主体名、走空运 / 快递、或申请了舱单保密（ImportYeti FAQ）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `megatelindustries.com` → Yahoo 小企业邮箱（MX：mx-biz.mail.am0.yahoodns.net、mx-biz.mail.am0.yahoodns.net）。主机商附带邮箱（Yahoo 小企业邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- RM220 ← 「Site Map Main Menu POE Extender, Injector and Splitter Industrial Sync Ethernet Switch Multi-Service Platform FRM220 Series Chassis Ethernet Converter」（https://megatelindustries.com/）
+- $430 ← 「703 E1 Converter Interface Converter Fiber Patch Cord PoE Surge Protector Baluns Featured Products GSW-3100C, 10G Managed CPE Switch Price: $430」（https://megatelindustries.com/）
+- $2,900 ← 「00 IGS-804SM-SE-E, 8x10/100/1000Base-T+ 4x100/1000Base-X SFP GbE Switch with SyncE Price: $2,900」（https://megatelindustries.com/）
+- $3,500 ← 「00 IGS-1608SM-SE-E, 16x10/100/1000Base-T+ 8 x 100/1000Base-X SFP GbE Switch with Sync Ethernet Price: $3,500」（https://megatelindustries.com/）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

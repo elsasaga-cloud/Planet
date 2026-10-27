@@ -77,6 +77,22 @@ updated: 2026-10-27
 - **同国同档参照（PL，20% 档、主推线「商用 10G 非PoE 管理型」，共 1 户有动静，列前 3）**：SA-023 fcnet.pl（A，同档：回过 2 次（最近 2025-04-22））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-11 独立日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `cdr.pl` → Google Workspace（MX：ASPMX.L.GOOGLE.COM、ALT1.ASPMX.L.GOOGLE.COM、ALT2.ASPMX.L.GOOGLE.COM、ASPMX2.GOOGLEMAIL.COM）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- 12,96 zł ← 「12,96 zł netto Aktualności D-Link M30 ISP Router Wi-Fi 6 AX3000 wyposażony w 5 portów 1G Ethernet Przejdź do produktu Huawei OptiXstar EG8145B7N」（https://cdr.pl/）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

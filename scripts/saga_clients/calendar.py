@@ -25,6 +25,24 @@ BIND_RANK = ['深', '较深', '中度', '轻度绑定', '轻度', '读而不回'
 WD = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
 _DC = os.path.join(DATA, 'dims_country.json')
 DIMS_COUNTRY = json.load(open(_DC, encoding='utf-8')) if os.path.exists(_DC) else {}
+_HOL = os.path.join(DATA, 'holidays_2026-11_2027-03.json')   # 第 82 批 holidays_cal.py 产物；缺失则该列为 —
+HOLIDAYS = (json.load(open(_HOL, encoding='utf-8')).get('countries') or {}) if os.path.exists(_HOL) else {}
+
+
+def holiday_note(iso, start, end):
+    """该国在 [start, end] 内的法定假日 + 惯例停摆（第 82 批）；用于日历「该窗口假日」列。"""
+    hc = HOLIDAYS.get((iso or '').upper())
+    if not hc:
+        return ''
+    parts = []
+    for d, n in hc.get('legal') or []:
+        dd = dt.date.fromisoformat(d)
+        if start <= dd <= end:
+            parts.append(f'{d[5:]} {n[:18]}')
+    for ps, pe, lab, kind in hc.get('practice') or []:
+        if dt.date.fromisoformat(ps) <= end and dt.date.fromisoformat(pe) >= start and kind != '供应侧':
+            parts.append(f'{ps[5:]}→{pe[5:]} {lab.split("：")[0][:14]}' if ps != pe else f'{ps[5:]} {lab.split("：")[0][:14]}')
+    return '；'.join(parts)
 
 
 def send_hint(iso):
@@ -94,6 +112,7 @@ def main():
             'q': str(nm.get('one_question', '')), 'subj': str((mr.get('draft_en') or {}).get('subject', ''))[:60],
             'facts': len(mr.get('facts') or []),
             'hint': send_hint(e.get('iso')),
+            'iso': (e.get('iso') or '').upper(),
         }
         if '现在' in when or '本周' in when:
             now.append(row)
@@ -112,9 +131,17 @@ def main():
          f'生成：{dt.datetime.utcnow().strftime("%Y-%m-%d %H:%MZ")}。只列 A/B；每行 = 一句话问题（已在各户档案 `next_move.one_question` / `draft_en`）。排序：绑定深 → 浅；地区：北美 → 欧洲 → 土耳其 → 其他。',
          '', f'**现在就做：{len(now)} 户 · {month}：{len(mon)} 户**', '']
 
+    y, m = int(month[:4]), int(month[5:7])
+    m_start, m_end = dt.date(y, m, 1), dt.date(y + (m == 12), m % 12 + 1, 1) - dt.timedelta(days=1)
+    today = dt.date.today()
+
     def table(rows, title):
         if not rows:
             return
+        if title == '现在':
+            ws, we = today, today + dt.timedelta(days=14)
+        else:
+            ws, we = m_start, m_end
         L.append(f'## {title}（{len(rows)}）'); L.append('')
         groups = defaultdict(list)
         for r in rows:
@@ -124,11 +151,11 @@ def main():
             if not rs:
                 continue
             L.append(f'### {k}（{len(rs)}）'); L.append('')
-            L.append('| 户 | 公司 | 国家 | 级 | 绑定 | 时点 | 渠道 | 发信时段（该国打开率最高格） | 一句话 |'); L.append('|---|---|---|---|---|---|---|---|---|')
+            L.append('| 户 | 公司 | 国家 | 级 | 绑定 | 时点 | 渠道 | 发信时段（该国打开率最高格） | 该窗口假日（别发的日子） | 一句话 |'); L.append('|---|---|---|---|---|---|---|---|---|---|')
             rs.sort(key=lambda r: (REGION_ORDER.index(r['region']), r['rank'], -r['facts']))
             for r in rs:
                 q = (r['q'] or r['action']).replace('|', '／').replace('\n', ' ')
-                L.append(f"| {r['code']} | {r['name']} | {r['country']} | {r['grade']} | {r['level']} | {r['when'][:16]} | {r['channel']} | {r['hint'] or '—'} | {q[:160]} |")
+                L.append(f"| {r['code']} | {r['name']} | {r['country']} | {r['grade']} | {r['level']} | {r['when'][:16]} | {r['channel']} | {r['hint'] or '—'} | {holiday_note(r['iso'], ws, we) or '—'} | {q[:160]} |")
             L.append('')
 
     table(now, '现在')
@@ -137,6 +164,7 @@ def main():
     L.append('- 「个别跟进」每户打开档案看 `facts` 最后三条再发；「首触一句话」可以同一天用 A 邮箱批量发（每封只改公司名/型号）；「补答」回原线程，不开新线程。')
     L.append('- 发完把结果写回档案（`next_move.when` 改成下一时点），重跑 `calendar.py` 即可刷新本页。')
     L.append('- 「发信时段」= 该国全库群发按对方本地时间统计的打开率最高的 2 小时格（`dims.py` → `dims_country.json`，像素口径、只看相对高低），已换算成北京时间；WhatsApp / 微信不受此限。')
+    L.append('- 「该窗口假日」= 第 82 批 `holidays_cal.py`（法定 + 惯例停摆）落在本月 / 两周内的日子；假日前一个工作日下午、当天、长假后第一个上午都别发。我方春节停摆（2027-01-25 锁单 → 02-17 复工）对所有国家通用，不在此列重复。总表见 `docs/各国假日避让_2026-11_2027-03.md`。')
     out = os.path.join(ROOT, 'docs', f'跟进日历_{month}.md')
     open(out, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
     print(out, len(now), len(mon))

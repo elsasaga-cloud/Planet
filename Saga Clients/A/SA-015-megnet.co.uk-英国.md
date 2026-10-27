@@ -104,6 +104,35 @@ updated: 2026-10-27
 - **涉及商品编码**：85176200、85176990、85176100、85171100、85171200、85171300、85171800、8471（整机/部件多码）、8504、8544
 - **对 Saga 的含义**：Megnet 自己做非欧盟直接进口（含 2025-10 的 8517 62 00），说明有报关 / 清关通道，不用我们解决进口门槛；但它是「什么都进」的经销商，交换机只是品类之一，最合适的话术是「同一报关批次顺带一两款管理型 PoE 补货」，不是整柜。给它报 DAP 没意义，EXW / FOB 深圳即可。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `megnet.co.uk` → Microsoft 365（MX：megnet-co-uk.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（英国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 窗口内无该国法定假日
+
+**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/04748999）：**
+
+- 法定名 / 登记号：MEGNET LTD. · 04748999 · 状态 **Active** · 成立 2003-04-30 · Private limited company
+- 行业码（SIC）：82990 Other business support service activities n.e.c.
+- 注册地址：Mortlake Business Centre, 20 Mortlake High Street, London SW14 8JN（商务中心地址，非自有办公室）
+- 规模档：小型（small entities regime）· 单董事
+- 账目：最近账目截至 2025-04-30（2025-06-10 提交）；类型 Total exemption full accounts，FRS 102 1A 小型公司制度（营业额 < £10.2m，免审计）；有形固定资产 £7,403（2024：£9,870）；下期账目截至 2026-04-30，2027-01-31 前交；确认声明 2026-04-30 已交（2026-05-01，「with updates」）
+- 高管：Omar Ismat MIQDADI — 唯一在任董事，1973-04 生，英国籍，2003-11-17 上任（公司成立半年后从 Megdadi 家族接手）；其余 3 人均已辞任（2003/2009）
+- 抵押 / 担保：2021-06-07 登记 1 项抵押（charge 047489990001，MR01 2021-06-11）——通常是银行贷款 / 融资额度
+- 曾用名：RELATIVE NETWORK TECHNOLOGY LTD（2003-04-30→05-15）
+- **这意味着什么：**
+  - 22 年老公司、一人董事、账目走小型公司免审计口径，年报按时交（2024 账目 2025-01-09 交、2025 账目提前到 6 月交）
+  - SIC 挂的是 82990「其他商务支持服务」而不是 46510/62090 IT 批发或 IT 服务——登记口径与网站的 IT 分销定位不一致，说明是老登记没改，不是转行
+  - 2021-06 新登记一项抵押：有融资安排 → 对账期（T/T 50/50 vs 30 天账期）会敏感
+  - HMRC 进口记录（第 81 批）显示 2025-10 仍有非欧盟 8517 62 00 进口 → 公司活着且在进口交换机
+- 备注：董事 = 实际拍板人：Omar Miqdadi。给 Megnet 的信抬头应对他本人而不是 info@。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -144,13 +173,14 @@ updated: 2026-10-27
 - **KP**：—（报价热线） +44 845 130 1585〔https://dev.megnet.co.uk/〕
 - **KP**：Jitendra Sain（Assistant Manager - Operations（邮件签名））jitendra@megnet.co.uk 〔S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：Nasim Chaudhari（来信署名人（职务未在邮件署名里出现））nasim@megnet.co.uk 〔S/A 邮箱来信 2025-12-01 来信 2 封（第 72 批从邮件表头补）〕
+- **KP**：Omar Ismat Miqdadi（唯一在任董事（2003-11 起）—— 实际拍板人；邮箱待核（现有入口 info@ / sales@）（第 82 批 Companies House 核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/04748999/officers〕
 - 备注：A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Megnet Limited |
+| 法定名称 | MEGNET LTD.（Companies House 04748999，2003-04-30 成立，Active；SIC 82990；2021-06 有 1 项抵押登记） |
 | 成立 | 2003 |
 | 总部/地址 | London, UK |
 | 人数 | 11–50（LinkedIn，5,083 followers） |
@@ -268,6 +298,7 @@ updated: 2026-10-27
 | — | 报价热线 | +44 845 130 1585 | 调研核实（公开页） | https://dev.megnet.co.uk/ |
 | Jitendra Sain | Assistant Manager - Operations（邮件签名） | jitendra@megnet.co.uk | 调研核实（公开页） | S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补） |
 | Nasim Chaudhari | 来信署名人（职务未在邮件署名里出现） | nasim@megnet.co.uk | 调研核实（公开页） | S/A 邮箱来信 2025-12-01 来信 2 封（第 72 批从邮件表头补） |
+| Omar Ismat Miqdadi | 唯一在任董事（2003-11 起）—— 实际拍板人；邮箱待核（现有入口 info@ / sales@）（第 82 批 Companies House 核实 2026-10-27） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/04748999/officers |
 | Rajiv | — | rajiv@megnet.co.uk / purchasing@megnet.co.uk | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

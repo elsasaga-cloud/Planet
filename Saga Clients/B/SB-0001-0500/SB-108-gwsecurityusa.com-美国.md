@@ -104,6 +104,16 @@ updated: 2026-10-27
 - **HRUI 直采票数**：[['2026-10-14', '2,240 kg 170 ctn', 'PoE switch plts; est. freight $8,232'], ['2026-04-08', '2,200 kg 170 ctn', 'PoE switch plts; $2,186'], ['2026-02-13', '1,300 kg 100 ctn', 'PoE switch; $2,702'], ['2025-06-20', '2,920 kg 225 ctn', 'PoE switch plts; $3,048'], ['2023-03', '185 ctn 7 plts', 'PoE switch (HTS 8517.62.32 BOL OSTIMASZ23030010)']]
 - **对 Saga 的含义**：最重要的发现之一：GW Security 直接从 HRUI（洪瑞 = 我们自己的供应商）海运 PoE 交换机，2023-03 起 14 票，2026 年已 3 票（02/04/10 月，各 100～170 箱）→ 他们在 HRUI 货上永远比我们便宜，不要拿 HRUI 同款去碰；只能拿 SmartByte Marvell 管理型（HRUI 没有的 L2+/L3）或 CENTEC 差异化；他们的采购节奏≈每 2～6 个月一票，月均 3.3 TEU
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `gwsecurityusa.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、aspmx2.googlemail.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

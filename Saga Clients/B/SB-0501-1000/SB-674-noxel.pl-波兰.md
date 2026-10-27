@@ -66,6 +66,25 @@ updated: 2026-10-27
 - **同国同档参照（PL，20% 档、主推线「商用 2.5G PoE 管理型」，共 1 户有动静，列前 3）**：SA-023 fcnet.pl（A，同档同线：回过 2 次（最近 2025-04-22））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-11 独立日；2026-12-24 圣诞–元旦 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `noxel.pl` → Microsoft 365（MX：noxel-pl.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- 1899,00 zł ← 「600 stojąca + akcesoria RL-6641SRE Racktel Racktel 1899,00 zł Zestaw monitoringu Dahua IP PoE 4 kamery 6MPx IPC-HFW1639TC-A-IL-0280B Dahua 2229,00 zł 」（https://noxel.pl/）
+- 1749,00 zł ← 「kamery IPC-HFW1639TC-A-IL-0280B-S6-BLACK Dahua 1749,00 zł Zestaw monitoringu Dahua IP PoE 4 kamery IPC-HFW1639TC-A-IL-0280B-S6-BLACK Dahua 2229,00 zł 」（https://noxel.pl/）
+- 319,00 zł ← 「UPST1200VAL-LCD z akumulatorem 2x 7Ah/12V EAST 319,00 zł Zestaw monitoringu Dahua 8MPx IP PoE 2 kamery IPC-HFW1839TC-A-IL-0280B-S6 Dahua 1499,00 zł Pi」（https://noxel.pl/）
+- 1559,00 zł ← 「Zestaw monitoringu Dahua 8MPx IP PoE 3 kamery IPC-HFW1839TC-A-IL-0280B-S6 Dahua 1559,00 zł Zestaw monitoringu Dahua 8MPx IP Po」（https://noxel.pl/）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

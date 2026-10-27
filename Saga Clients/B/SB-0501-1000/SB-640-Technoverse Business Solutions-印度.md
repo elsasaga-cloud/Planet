@@ -64,6 +64,19 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 702 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 12 个（Ubiquiti、Cisco、TP-Link、Aruba、Juniper、Netgear）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；社媒：https://wa.me/918356901419?text=Hello%20Technoverse%20Business%20Solutions.%0A%0AI%20found%20your%20company%20through%20Google.%0A%0AProduct%20Required%3A%20%0ABrand%3A%20%0AQuantity%3A%20%0ACountry%3A%20%0ACompany%20Name%3A%20%0A%0APlease%20share%20your%20best%20quotation.、https://www.aramex.com/in/en、https://www.facebook.com/profile.php?id=61555805265468。
 - **日历窗口**：对方：2026-11-08 排灯节 Diwali（11-08 前后一周生意半停）；2026-12-25 圣诞 ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `technoversebs.com` → GoDaddy 邮箱（MX：smtp.secureserver.net、mailstore1.secureserver.net）。主机商附带邮箱（GoDaddy 邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

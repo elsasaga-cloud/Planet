@@ -100,6 +100,21 @@ updated: 2026-10-27
 - **最后一球**：1:1 对话 4 段，最长一段 13 封 / 跨 39 天（2025-10-22 → 2025-12-01，「RE: 10G Enterprise SFP Switch」）；最后一句是我们说的（2025-12-01，329 天前，「Re: FW: 10G Enterprise SFP Switch」，`65729c2384f57e35`）→ 球在对方手里。
 - **日历窗口**：对方：2026-12-02 国庆日（12-02/03）；2027-02-08 斋月（约 02-08 → 03-09） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `asteldigicom.com` → 其他主机商邮箱（cloudhost-4428557.us-midwest-2.nxcli.net）（MX：cloudhost-4428557.us-midwest-2.nxcli.net）。主机商附带邮箱（cloudhost-4428557.us-midwest-2.nxcli.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `asteldigicom.ae` → Etisalat / du 邮箱（阿联酋）（MX：imailv.emirates.net.ae、imailv2.emirates.net.ae）。主机商附带邮箱（Etisalat / du 邮箱（阿联酋））：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `avssgroup.com` → Microsoft 365（MX：avssgroup-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `eim.ae` → Etisalat / du 邮箱（阿联酋）（MX：fmhimail01.emirates.net.ae、fmkimail01.emirates.net.ae）。主机商附带邮箱（Etisalat / du 邮箱（阿联酋））：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（阿联酋 · 按下一步「现在 → 两周内」窗口 2026-10-27→2026-11-10）：**
+
+- 窗口内无该国法定假日
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

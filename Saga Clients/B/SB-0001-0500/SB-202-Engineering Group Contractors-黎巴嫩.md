@@ -75,6 +75,21 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：社媒：https://wa.me/96170、https://www.facebook.com/EGC-558090151231448、https://www.instagram.com/egc/。
 - **日历窗口**：我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `egc-lb.com` → 同域名 MX → 托管在 stableserver.net（MX：egc-lb.com）。主机商附带邮箱（同域名 MX → 托管在 stableserver.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（黎巴嫩 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；01-06 Armenian Orthodox Christmas Day；02-09 Saint Maron's Day；03-09 Eid al-Fitr (estimated)；03-10 Eid al-Fitr (estimated)；03-25 Feast of the Annunciation；03-26 Catholic Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【宗教】02-08→03-09：斋月（按天文估算 2027-02-08 起，以当地公告为准）：白天效率低、午后早走，海湾国家法定工时缩到 6 小时；开斋节前一周基本不做决策
+- 【宗教】03-09→03-12：开斋节（Eid al-Fitr / Ramazan Bayramı，估算）：3–4 天全停
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -77,6 +77,19 @@ updated: 2026-10-27
   - Aplex Technology（Taiwan）· 9 票 · HMI / industrial computers（每票固定 54 ctn ~202 kg，2019-01～2020-04 双月一票）
 - **对 Saga 的含义**：HMI/工业 PC 品牌，海运只有 2019–2020 的台湾 Aplex 贴牌 HMI，之后全无（改空运或台湾直发客户）；交换机从未海运；他们网站卖的工业交换机是配套品 → 对 Saga 是『给 HMI 配 DIN 导轨交换机』的 OEM 思路，B 保持
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `maplesystems.com` → Microsoft 365（MX：maplesystems-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

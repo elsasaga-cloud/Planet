@@ -84,6 +84,22 @@ updated: 2026-10-27
 - **GitHub 足迹（公开资料，2026-10-27 查）**：用户 [born-shop](https://github.com/born-shop)（company 字段一致；公开仓库 0）——有工程师在写代码的客户，SNMP / CLI / LibreNMS 适配是现成话题（NYNEX 先例）。
 - **日历窗口**：对方：2026-11-04 民族统一日；2027-01-01 新年长假（01-01 → 01-10 整体停摆） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `born-shop.ru` → 俄罗斯主机商邮箱（MX：mx1.beget.com、mx2.beget.com）。俄语区云邮箱（俄罗斯主机商邮箱）：Gmail 投递正常，但制裁环境下美元汇路和 PayPal 常走不通 → 报价前先问付款银行 / 币种，T/T 以外别承诺
+- `born-spb.ru` → 其他主机商邮箱（mx2.beget.ru）（MX：mx2.beget.ru、mx1.beget.ru）。主机商附带邮箱（mx2.beget.ru）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（俄罗斯 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year Holidays；01-02 New Year Holidays；01-03 New Year Holidays；01-04 New Year Holidays；01-05 New Year Holidays；01-06 New Year Holidays；01-07 Christmas Day；01-08 New Year Holidays；02-22 Day off (substituted from 02/20/2027)；02-23 Defender of the Fatherland Day；03-08 International Women's Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】12-31→01-10：俄罗斯新年长假：法定 1-01→1-08，叠加周末实际到 1-10；12 月最后一周已在收尾
+- 【宗教】01-07：东正教圣诞
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

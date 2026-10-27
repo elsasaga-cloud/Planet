@@ -82,6 +82,19 @@ updated: 2026-10-27
 - **对 Saga 的含义**：查无 + 小团队 + VoIP 主业 → 它买交换机是项目配套，量小、看重到门价。报 DAP 雅加达小批量即可；不投入更多。
 - 查无 ≠ 不进口：可能用别的报关主体名、走快递 / 空运、或该国海关数据根本不对外公开。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `infrateq.id` → 同域名 MX → 托管在 upcloud.host（MX：mail.infrateq.id）。主机商附带邮箱（同域名 MX → 托管在 upcloud.host）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `divatel.co.id` → Google Workspace（MX：aspmx.l.google.com、aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 窗口内无该国法定假日
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

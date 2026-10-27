@@ -66,6 +66,13 @@
    "email": "nasim@megnet.co.uk",
    "phone": "",
    "source": "S/A 邮箱来信 2025-12-01 来信 2 封（第 72 批从邮件表头补）"
+  },
+  {
+   "name": "Omar Ismat Miqdadi",
+   "role": "唯一在任董事（2003-11 起）—— 实际拍板人；邮箱待核（现有入口 info@ / sales@）（第 82 批 Companies House 核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/04748999/officers"
   }
  ],
  "notes": "A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。",
@@ -75,7 +82,7 @@
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Megnet Limited",
+  "legal_name": "MEGNET LTD.（Companies House 04748999，2003-04-30 成立，Active；SIC 82990；2021-06 有 1 项抵押登记）",
   "founded": "2003",
   "hq": "London, UK",
   "staff": "11–50（LinkedIn，5,083 followers）",

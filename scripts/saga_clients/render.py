@@ -22,6 +22,7 @@ GMAIL_DIGEST = os.path.join(DATA, 'gmail_digest.json')  # gmail_digest.py 产物
 GMAIL = json.load(open(GMAIL_DIGEST, encoding='utf-8')) if os.path.exists(GMAIL_DIGEST) else {}
 DIMS_JSON = os.path.join(DATA, 'dims.json')             # dims.py 产物（第 79 批多维画像），缺失则跳过
 DIMS = json.load(open(DIMS_JSON, encoding='utf-8')) if os.path.exists(DIMS_JSON) else {}
+from batch82 import fmt_batch82  # T29-U64 第 82 批：邮箱域体检 + 假日避让 + 公司底数 + 官网标价
 IMPORTS_DIR = os.path.join(DATA, 'imports')               # T29-U62：公开海关提单（ImportYeti 美国海运）逐户查询结果，缺失则跳过
 
 
@@ -1567,6 +1568,9 @@ def render_one(ent):
         im = fmt_imports(ent)
         if im:
             lines.append(im)
+        b82 = fmt_batch82(ent, rs)
+        if b82:
+            lines.append(b82)
     lines.append('## 基本事实（事实/推断/假设分层）')
     lines.append('')
     lines.append('| 项 | 内容 | 层级 |')

@@ -66,6 +66,24 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：社媒：http://www.facebook.com/sharer.php?u=https://www.kmsoltec.com/en/Industrial-Fiber-Optic-Cables-A-Guide-to-Choosing-the-Right-Ones-for-Critical-Environments.htm、http://www.youtube.com/c/Kmsoltec、https://twitter.com/intent/tweet?text=Industrial Fiber Optic Cables: A Guide to Choosing the Right Ones for Critical Environments https://www.kmsoltec.com/en/Industrial-Fiber-Optic-Cables-A-Guide-to-Choosing-the-Right-Ones-for-Critical-Environments.htm。
 - **日历窗口**：对方：2026-12-08 圣母无染原罪瞻礼（长周末）；2026-12-24 圣诞–主显节（到 01-06） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `kmsoltec.com` → Google Workspace（MX：smtp.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（意大利 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- 88064 € ← 「first Most expensive first In stock first Switch di rete Delock 10" Gigabit Ethernet Switch 8 Port + 1 SFP Delock 88064 €110」（https://www.kmsoltec.com/en/343-switch-di-rete）
+- 87781 € ← 「5 Gigabit Ethernet Switch 5 Port Delock 87781 €125」（https://www.kmsoltec.com/en/343-switch-di-rete）
+- 87782 € ← 「5 Gigabit Ethernet Switch 8 Port Delock 87782 €153」（https://www.kmsoltec.com/en/343-switch-di-rete）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

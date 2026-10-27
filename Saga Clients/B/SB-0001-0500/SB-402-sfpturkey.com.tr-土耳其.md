@@ -67,6 +67,24 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站内可见品牌 12 个（Ubiquiti、Aruba、MikroTik、Cisco、Moxa、Netgear）——多品牌分销位，Saga 作「同口数 Marvell 方案低一档」的补位货源；**自有型号串 1 个**（SFP28）→ 已在贴自己的牌：按 OEM 档说话（logo 免费、彩盒 $2.5/套 200 起）；官网语言 tr（信照样英文，首句可用对方语言问候）；社媒：https://tr.linkedin.com/company/sfpturkey、https://www.facebook.com/sfpturkiye/、https://www.instagram.com/sfpturkey/。
 - **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `sfpturkey.com.tr` → 其他主机商邮箱（mx1.trdns.com）（MX：mx1.trdns.com、mx2.trdns.com）。主机商附带邮箱（mx1.trdns.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+
+- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+
+**官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
+
+- 6524 TL ← 「6524 TL Bayi Girişi Ara 0 Network Switch 100Mbit SFP Port 1Gigabit SFP Port SFP+ Port SFP28 Port QSFP+ Port QSFP28 Port Endüstriye」（https://www.sfpturkey.com.tr/products/667671489-network-switch）
+- 6524 TL ← 「6524 TL Bayi Girişi Ara 0 Fiber Ethernet Kartı 100Mbit SFP Port 1Gigabit SFP Port SFP+ Port SFP28 Port QSFP+ Port QSFP28 Port Endü」（https://www.sfpturkey.com.tr/products/238088196-fiber-ethernet-karti）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

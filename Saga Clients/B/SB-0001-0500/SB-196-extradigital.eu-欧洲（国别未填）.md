@@ -77,6 +77,14 @@ updated: 2026-10-27
 - **最后一球**：1:1 对话 1 段，最长一段 6 封 / 跨 120 天（2024-08-13 → 2024-12-12，「RE: Passive PoE Switch」）；最后一句是我们说的（2024-12-12，683 天前，「Re: Passive PoE Switch」，`ed973dfae5902353`）→ 球在对方手里。
 - **日历窗口**：我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `extradigital.eu` → 其他主机商邮箱（chameleonas.serveriai.lt）（MX：chameleonas.serveriai.lt）。主机商附带邮箱（chameleonas.serveriai.lt）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -99,6 +99,36 @@ updated: 2026-10-27
 - **涉及商品编码**：85176200、85176990、85177900、85367000、85369010、85369095、85371098、85381000、85444210、85444920、85447000、4819 纸箱、4415 木缆盘
 - **对 Saga 的含义**：Teltronix / Briticom 是有长期亚洲直采习惯的光纤布线分销 + 本地组装商，2026 年上半年每隔一个月就有 8517 62 00 到货。对 Saga：它的客户是布线承包商，最顺的是 **带 SFP 光口的接入交换机（STC-228GP / STI-144GP）** 与它的光纤产品一起成套卖；用「同柜拼货」话术，报 FOB 深圳。热度低，放群发 + 一封定向信即可。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `briticom.net` → Microsoft 365（MX：briticom-net.mail.protection.outlook.com、briticom-net.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `teltronix.net` → Microsoft 365（MX：teltronix-net.mail.protection.outlook.com、teltronix-net.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（英国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 窗口内无该国法定假日
+
+**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/12455268）：**
+
+- 法定名 / 登记号：TELTRONIX HOLDINGS LTD（品牌 Briticom™） · 12455268 · 状态 **Active（officers 页在列，无解散标记）** · 成立 2020-02-11 · Private limited company
+- 行业码（SIC）：（overview 未抓）
+- 注册地址：7 Premier Court, Boarden Close, Moulton Park Industrial Estate, Northampton NN3 6LF（工业园单元）
+- 规模档：微型 / 小型 · 夫妻两董事
+- 账目：（overview 未抓）；两名董事的 Companies House 身份核验均到期于 2026-11-18（新规，逾期会影响公司申报）
+- 高管：Wadii KHERFANI — 董事，1978-04 生，英国籍，2020-02-11 成立即上任；= 来信人 wadii@teltronix.net；2011-07→2018-03 曾任 Linxcom Ltd（SB-160）董事
+- 高管：Anna KHERFANI — 董事，1985-03 生，英国籍，2020-02-11 上任（同姓 → 家族 / 夫妻公司）
+- 抵押 / 担保：页面有 Charges 标签 → 存在抵押登记（明细未抓）
+- **这意味着什么：**
+  - 来信人 Wadii Kherfani 就是老板本人（两名董事之一，另一位同姓）：2020 年才成立的 5 年新公司，但他本人在 Linxcom 做了 7 年董事 → 懂行、有供应链、会比价
+  - 与 SB-160 Linxcom 同源（Wadii 2018 年从 Linxcom 退出、2020 年开 Teltronix），两户的报价和交期口径必须一致
+  - 有抵押登记 + 新公司 → 对账期不要松：T/T 50/50 起，不给 30 天账期
+  - HMRC 第 81 批：Teltronix LLP + Teltronix U.K. Ltd 两个法人都在非欧盟进口名录 → 实际进口主体可能不是 Holdings，PI 抬头按客户指定法人开
+- 备注：Holdings 下另有 LLP / U.K. Ltd（HMRC 名录见第 81 批）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -142,7 +172,7 @@ updated: 2026-10-27
 - **【email】同期问 STI-288GP 价格（Simon 报 $60/pc，2024-09-03）；2024-10-02 要 Power Converter 的组网示意图；此后 Saga 群发 2024-10/11/12 三次无回**
   > What's the price of this switch? … Can you show us a drawing of a network where this product will fit/install??
   > 来源：data/gmail_s/messages/2024/2024-09.jsonl、2024-10.jsonl（wadii@teltronix.net，+44 1604 434 186）（抓取 2024-10-02）
-- **KP**：Wadii Kherfani（来信署名人（职务未在邮件署名里出现））wadii@teltronix.net 〔S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补）〕
+- **KP**：Wadii Kherfani（Director / 老板 —— Teltronix Holdings Ltd 两名董事之一（另一位 Anna Kherfani，同姓）；2011–2018 曾任 Linxcom Ltd（SB-160）董事（第 82 批 Companies House 核实 2026-10-27））wadii@teltronix.net 〔S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 公司档案核对））
@@ -235,7 +265,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Wadii Kherfani | 来信署名人（职务未在邮件署名里出现） | wadii@teltronix.net | 调研核实（公开页） | S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补） |
+| Wadii Kherfani | Director / 老板 —— Teltronix Holdings Ltd 两名董事之一（另一位 Anna Kherfani，同姓）；2011–2018 曾任 Linxcom Ltd（SB-160）董事（第 82 批 Companies House 核实 2026-10-27） | wadii@teltronix.net | 调研核实（公开页） | S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补） |
 | Briticom is a brand of | 采购/项目（邮件签名无职务） | briticom@briticom.net / wadii@teltronix.net / +441604434186 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

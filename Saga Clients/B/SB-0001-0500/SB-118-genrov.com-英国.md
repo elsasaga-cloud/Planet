@@ -78,6 +78,30 @@ updated: 2026-10-27
 - **同国同档参照（GB，25% 档，共 3 户有动静，列前 3）**：SA-007 gogreenit.net（A，同档：成交 STI-42424XGGPM-4BT，回过 17 次（最近 2026-04-27））；SB-767 itmsystems.co.uk（B，同档：回过 17 次（最近 2026-08-15），1:1 报过 3 次）；SB-474 casecomms.com（B，同档：回过 5 次（最近 2025-02-08））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-04；Boxing Day 12-28 补休） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `genrov.com` → 其他主机商邮箱（athena.hosts.co.uk）（MX：athena.hosts.co.uk、hermes.hosts.co.uk）。主机商附带邮箱（athena.hosts.co.uk）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/06899120）：**
+
+- 法定名 / 登记号：GENROV LTD · 06899120 · 状态 **Active** · 成立 2009-05-07 · Private limited company
+- 行业码（SIC）：74909 Other professional, scientific and technical activities n.e.c.
+- 注册地址：Office 2 Kepier Hall, Church Street, Houghton-le-Spring DH4 4DN（与研究档一致）
+- 规模档：微型 · 单董事 / 唯一股东（研究档：Michael Dickinson）
+- 账目：最近账目截至 2025-05-31（已交）；下期截至 2026-05-31，2027-02-28 前交；确认声明 2026-05-07 已交，下期 2027-05-07
+- 高管：（officers 页未抓；研究档已记 Michael Dickinson = Director / 唯一股东，mike@genrov.com 本人来信 2024-06-16）
+- 抵押 / 担保：无抵押登记（页面无 Charges 标签）
+- **这意味着什么：**
+  - 17 年老公司、无抵押、账目按期交，SIC 74909「其他专业技术活动」= 工程咨询型一人公司（ROV / 水下机器人方向），不是经销商 → 买交换机是配自己的项目，量小但重复，按集成商 25% 报、不要群发
+  - 注册地址 = 研究档地址，公司状态 Active → 2024-06 本人来信的 mike@ 仍是正确入口
+- 备注：低优先级 B；工商口径确认存活。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,7 +136,7 @@ updated: 2026-10-27
 - **【用户表】1 次实质回复；16 次跟进**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Michael Dickinson（Director / 唯一股东）mike@genrov.com（2024-06-16 本人来信「You could email the data sheet/manual」） +44 191 543 8953〔https://uk.globaldatabase.com/company/genrov-ltd；S 邮箱来信表头〕
+- **KP**：Michael Dickinson（Director / 唯一股东（Companies House 06899120 Active，2009-05-07 成立，SIC 74909，无抵押）（第 82 批 Companies House 核实 2026-10-27））mike@genrov.com（2024-06-16 本人来信「You could email the data sheet/manual」） +44 191 543 8953〔https://uk.globaldatabase.com/company/genrov-ltd；S 邮箱来信表头〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
@@ -213,7 +237,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Michael Dickinson | Director / 唯一股东 | mike@genrov.com（2024-06-16 本人来信「You could email the data sheet/manual」） / +44 191 543 8953 | 调研核实（公开页） | https://uk.globaldatabase.com/company/genrov-ltd；S 邮箱来信表头 |
+| Michael Dickinson | Director / 唯一股东（Companies House 06899120 Active，2009-05-07 成立，SIC 74909，无抵押）（第 82 批 Companies House 核实 2026-10-27） | mike@genrov.com（2024-06-16 本人来信「You could email the data sheet/manual」） / +44 191 543 8953 | 调研核实（公开页） | https://uk.globaldatabase.com/company/genrov-ltd；S 邮箱来信表头 |
 
 - **通道建议**：企业邮箱可直发
 

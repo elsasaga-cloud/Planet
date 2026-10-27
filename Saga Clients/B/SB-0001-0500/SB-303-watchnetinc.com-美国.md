@@ -113,6 +113,20 @@ updated: 2026-10-27
   - 2022-02-07 · Shenzhen Utepo · 364 kg 18 ctn · PoE switch + PoE injector
 - **对 Saga 的含义**：Watchnet 是多伦多安防品牌（大华贴牌为主），**PoE 交换机是独立采购线**：2022–2023 四票买深圳 Utepo（优特普），2025-04 换成深圳 CSE 一票 23 箱 → 每 1～1.5 年换一次中国 PoE 交换机供应商、每次 18～46 箱 LCL、经美国西岸转运多伦多；这正是 Saga 对位 Utepo/CSE 的 8/16/24 口 PoE（STC-028GP / STC-2024GP / STI-244GP）能插进去的户——下一次他们换供应商就在 2026 下半年～2027；库里 iso 标 US，实为 CA（加拿大户里少见的能看见海运的）
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `watchnetinc.com` → Google Workspace（MX：ASPMX.L.GOOGLE.com、ALT1.ASPMX.L.GOOGLE.com、ALT2.ASPMX.L.GOOGLE.com、ASPMX2.GOOGLEMAIL.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

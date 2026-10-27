@@ -98,6 +98,19 @@ updated: 2026-10-27
 - **ONV 票数**：[['2026-07-12', '1,032 kg 58 ctn', 'Ethernet switch (ONV, Xinghe)']]
 - **对 Saga 的含义**：Signamax 的以太网/PoE 交换机 OEM 来自 ONV（光网视）——35 票、最近一票 2026-07-12；工业交换机走 Etherwan（台湾）；他们月均 3.35 TEU、几乎全 LCL 到迈阿密 → 已习惯中国拼箱；切入点 = ONV 没有的 Marvell 管理型/L3 与 2.5G
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `signamax.com` → Proofpoint 企业网关（MX：mx1-usg2.ppe-hosted.com、mx2-usg2.ppe-hosted.com、mx3-usg2.ppe-hosted.com）。企业级邮件网关（Proofpoint 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让（美国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

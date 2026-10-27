@@ -89,6 +89,21 @@ updated: 2026-10-27
 - **已披露的贸易伙伴**：C&T Solution Inc.（台湾工控）；IBASE Technology Inc.（台湾工控主板）；Emdoor Information（深圳加固平板 / 笔记本）；Twinhead International（台湾加固电脑）
 - **对 Saga 的含义**：Sundar 是印度做 STS 自有品牌工控电脑的小厂，2025 年进口量暴增 → 现金流和清关能力都在。它进口过 85176290 但供应商里没有交换机厂，说明交换机是零星配套采购——正好是 Saga 的切入点：工业导轨机 STI-144GP / STI-288GP 配它的加固电脑一起出方案，MOQ 1、走它现成的清关通道（印度要 BIS？交换机目前不在强制清单，照旧写「CE / RoHS，BIS 按需协助」）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `sundartechno.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+- `embeddedaautomation.org` → 域名不存在。域名已不存在（NXDOMAIN）：这个域的所有地址都退信；公司可能换了域名或关门 → 先核再发，核不到就降级
+- ⚠ 手里这些地址所在的域已收不了信：`sales@embeddedaautomation.org` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
+- 其他域名仍活：`sundartechno.com` → 只用这些域的地址
+
+**假日避让（印度 · 按下一步「2026-12」窗口 2026-12-01→2026-12-31）：**
+
+- 法定假日：12-25 Christmas —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

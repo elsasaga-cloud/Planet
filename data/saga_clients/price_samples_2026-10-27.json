@@ -1,0 +1,643 @@
+{
+"_meta": {
+"source": "site_snapshots/<code>.json 正文里带币种数字、且同句含 switch/PoE/Ethernet 的片段",
+"date": "2026-10-27"
+},
+"codes": {
+"SA-007": {
+"fetched_at": "2026-10-21T09:20:52Z",
+"rows": [
+{
+"url": "https://gogreenit.net/index.php?page=poe-extenders",
+"text": "So far, one was great, one was good, and two were poor: \"Gigabit Power-over-Ethernet Extender, PoE Passthrough Switch\" Several of these were bought from Anazon for £75-90 ove",
+"price": "£75"
+},
+{
+"url": "https://gogreenit.net/index.php?page=poe-extenders",
+"text": "3af/at PoE Powered, 100Mbps Ethernet, din-rail & Wall Mount £20 from Amazon, July 2024 Although it's not listed as such, I thi",
+"price": "£20"
+},
+{
+"url": "https://gogreenit.net/index.php?page=poe-extenders",
+"text": "3af/at/bt PoE Powered 90W, 10/100/1000Mbps Ethernet, Wall Mount Waterproof Plug and Play, 1000M OUTDOOR 5 PORT £30 from Amazon, July 2024 Not",
+"price": "£30"
+}
+]
+},
+"SA-045": {
+"fetched_at": "2026-10-21T09:20:23Z",
+"rows": [
+{
+"url": "https://energyplusystems.cl/catalogo/iot-control-y-automatizacion/switch-ethernet/",
+"text": "000 Switch Ethernet Industrial No Administrable 5 puertos PoE 10/100/1000 Mbps Base-T IP40 a Riel DIN $ 130",
+"price": "$ 130"
+},
+{
+"url": "https://energyplusystems.cl/catalogo/iot-control-y-automatizacion/switch-ethernet/",
+"text": "000 Switch Ethernet Industrial 8 puertos 10/100/1000 Mbps Base-T IP40 No Administrable a Riel DIN $ 160",
+"price": "$ 160"
+},
+{
+"url": "https://energyplusystems.cl/catalogo/iot-control-y-automatizacion/switch-ethernet/",
+"text": "000 Switch Ethernet Industrial 8 puertos PoE 10/100/1000 Mbps Base-T IP40 No Administrable a Riel DIN $ 180",
+"price": "$ 180"
+},
+{
+"url": "https://energyplusystems.cl/catalogo/iot-control-y-automatizacion/switch-ethernet/",
+"text": "000 Switch industrial PoE 8 puertos 10/100 / 1000T + 2 1000X SFP Ethernet No Administrable $ 185",
+"price": "$ 185"
+}
+]
+},
+"SB-012": {
+"fetched_at": "2026-10-21T09:20:57Z",
+"rows": [
+{
+"url": "https://xcam.cz/",
+"text": "Produkty LAN SWITCH LAN PoE MiniSwitch 4+1, Industrial, POE booster 12V, X-IMC005GP Kč 1,480",
+"price": "Kč 1,480"
+},
+{
+"url": "https://xcam.cz/",
+"text": "00 Přidat do košíku LAN SWITCH LAN POE SWITCH X-104GP-SFP, 4+1SFP, Industrial Kč 1,680",
+"price": "Kč 1,680"
+}
+]
+},
+"SB-017": {
+"fetched_at": "2026-10-21T09:21:04Z",
+"rows": [
+{
+"url": "https://www.securitytec.co.uk/our-products/networking-products/network-switches.html",
+"text": "95 Add to Cart Ruijie-Reyee, 15 watt, 52v Gigabit PoE+ injector SKU: RG-POE-AF15 £16",
+"price": "15 £"
+},
+{
+"url": "https://www.securitytec.co.uk/our-products/networking-products/poe-extenders-converters.html",
+"text": "Delivery on all orders over £300 (exclusions apply) Home Our Products Networking Products PoE extenders & converters PoE extenders & converters 5 Items Show 12 24 36 All per page Sort",
+"price": "£300"
+},
+{
+"url": "https://www.securitytec.co.uk/our-products/networking-products/poe-extenders-converters.html",
+"text": "ction 2 x Cameras/Network Devices across a single CAT 5/6 cable up to 100 metres SKU: HAY-POE-MULTI £16",
+"price": "£16"
+},
+{
+"url": "https://www.securitytec.co.uk/our-products/networking-products/poe-extenders-converters.html",
+"text": "00 Add to Cart Passive RJ45 to Coax Network adapter (PoE not supported) SKU: IPCXP01 £21",
+"price": "01 £"
+}
+]
+},
+"SB-061": {
+"fetched_at": "2026-10-21T09:22:34Z",
+"rows": [
+{
+"url": "https://megatelindustries.com/",
+"text": "Site Map Main Menu POE Extender, Injector and Splitter Industrial Sync Ethernet Switch Multi-Service Platform FRM220 Series Chassis Ethernet Converter DS3/E3 & E1/T1, Data Fibe",
+"price": "RM220"
+},
+{
+"url": "https://megatelindustries.com/",
+"text": "703 E1 Converter Interface Converter Fiber Patch Cord PoE Surge Protector Baluns Featured Products GSW-3100C, 10G Managed CPE Switch Price: $430",
+"price": "$430"
+},
+{
+"url": "https://megatelindustries.com/",
+"text": "00 IGS-804SM-SE-E, 8x10/100/1000Base-T+ 4x100/1000Base-X SFP GbE Switch with SyncE Price: $2,900",
+"price": "$2,900"
+},
+{
+"url": "https://megatelindustries.com/",
+"text": "00 IGS-1608SM-SE-E, 16x10/100/1000Base-T+ 8 x 100/1000Base-X SFP GbE Switch with Sync Ethernet Price: $3,500",
+"price": "$3,500"
+}
+]
+},
+"SB-097": {
+"fetched_at": "2026-10-21T09:23:12Z",
+"rows": [
+{
+"url": "https://www.lansan.com.tr/switch-ve-aktif-urunler/-poe-urunler",
+"text": "00 USD Hızlı Gözat Sepete Ekle Ürün Kodu: LNS-1105 Pasif Poe Enjektör 15",
+"price": "00 USD"
+},
+{
+"url": "https://www.lansan.com.tr/switch-ve-aktif-urunler/-poe-urunler",
+"text": "00 USD Hızlı Gözat Sepete Ekle Ürün Kodu: LNS-1104 Poe Rj45 Kablo 11",
+"price": "00 USD"
+},
+{
+"url": "https://www.lansan.com.tr/switch-ve-aktif-urunler",
+"text": "50 TL Ücretsiz Kargo Hızlı Gözat Sepete Ekle Ürün Kodu:LNS-4002-SM Fast Ethernet Converter 9,521",
+"price": "50 TL"
+},
+{
+"url": "https://www.lansan.com.tr/switch-ve-aktif-urunler",
+"text": "70 TL Hızlı Gözat Sepete Ekle Ürün Kodu:LNS-1324P 24 Port POE Switch 67,937",
+"price": "70 TL"
+}
+]
+},
+"SB-1008": {
+"fetched_at": "2026-10-21T09:27:18Z",
+"rows": [
+{
+"url": "https://avstek.fi/kauppa/44-poe-kytkimet",
+"text": "379,00 € 399,00 € Sisältää alv:n Kaikki tarjoukset Asiasanat POE WLAN DAHUA PALOVAROITIN KUULUTUS SATEL Tiedot Avstek asiakaspalvelu Oikeudellinen huomaut",
+"price": "€ 399,00"
+},
+{
+"url": "https://avstek.fi/kauppa/21-kameravalvonta",
+"text": "00 € 399,00 € Sisältää alv:n Kaikki tarjoukset Asiasanat WLAN SATEL KUULUTUS PALOVAROITIN POE DAHUA Kameravalvonta Kameravalvonta Tallennus Kamerat 4G/5G/LTE kamerat Tiedot Avstek asi",
+"price": "€ 399,00"
+}
+]
+},
+"SB-1021": {
+"fetched_at": "2026-10-21T09:27:58Z",
+"rows": [
+{
+"url": "https://www.cyberbajt.pl/grupa/362/adaptery-poe.html",
+"text": "16 zł brutto dodaj do koszyka Do koszyka MikroTik GPeR gigabitowy wzmacniacz sygnału Ethernet / PoE (repeater) GPeR to gigabitowy wzmacniacz sygnału Ethernet / PoE (repeater)",
+"price": "16 zł"
+},
+{
+"url": "https://www.cyberbajt.pl/grupa/362/adaptery-poe.html",
+"text": "84 zł brutto dodaj do koszyka Do koszyka Adapter POE Gigabit Adapter PoE do zasilania platform RB/UBNT z portem Gigabit",
+"price": "84 zł"
+},
+{
+"url": "https://www.cyberbajt.pl/grupa/362/adaptery-poe.html",
+"text": "36 zł brutto dodaj do koszyka Do koszyka Mikrotik RBPOE adapter PoE 10/100 Mb/s Mikrotik RBPOE adapter PoE do zasilania pasywnych urządzeń PoE przez port Eth",
+"price": "36 zł"
+},
+{
+"url": "https://www.cyberbajt.pl/grupa/665/unifi-switche.html",
+"text": "82 zł brutto dodaj do koszyka Do koszyka Ubiquiti Unifi Switch Pro 48 PoE 40x GbE PoE+, 8x GbE PoE++, 4x SFP+",
+"price": "82 zł"
+}
+]
+},
+"SB-1071": {
+"fetched_at": "2026-10-21T09:36:15Z",
+"rows": [
+{
+"url": "https://scada-hmi.it/",
+"text": "0 Add to Cart Add to Wish List Add to Compare Opal8 8 Port Entry Level Unmanaged Din-Rail Switch €88",
+"price": "€88"
+},
+{
+"url": "https://scada-hmi.it/",
+"text": "0 Add to Cart Add to Wish List Add to Compare Opal5 5 Port Entry Level Unmanaged Din-Rail Switch €63",
+"price": "€63"
+},
+{
+"url": "https://www.scada-hmi.it/store2/accessories.html",
+"text": "5 Add to Cart Add to Wish List Add to Compare Opal8 8 Port Entry Level Unmanaged Din-Rail Switch €88",
+"price": "€88"
+}
+]
+},
+"SB-128": {
+"fetched_at": "2026-10-21T09:23:36Z",
+"rows": [
+{
+"url": "https://www.orbitadigital.com/en/cctv-accessories/ip-solutions/86468-at-gs980mx-28-50.html",
+"text": "(AFM) for secure fiber networks EPSRing for… Allied telesis AT-GS980MX/28-50 L3 Stackable Switch, 24x 10/100/1000-T, 4x SFP+ Ports Brand: Allied telesis Sku: AT-GS980MX/28-50 €1 ,954",
+"price": "50 €"
+}
+]
+},
+"SB-144": {
+"fetched_at": "2026-10-21T09:23:47Z",
+"rows": [
+{
+"url": "https://bsdnetworks.com/commercial-switches/?jsf=jet-engine&tax=application:135",
+"text": "4 8 16 24 Legacy fiber port Legacy fiber port SC ST 90W BSD-90W801GP-SFP 8 10/100/1000TX PoE BT + 1 SFP Switch (BSD-90W801GP-SFP) View Product BSD-S5832G-4SE-RTL 16 x 1000 SFP + 8 10",
+"price": "TL 16"
+}
+]
+},
+"SB-221": {
+"fetched_at": "2026-10-21T09:37:37Z",
+"rows": [
+{
+"url": "https://www.tyconsystems.com/products/tpdin-sc48-20/6026428000003357520",
+"text": "3at/24V Passive PoE Switch, Remote Mgmt $499",
+"price": "$499"
+}
+]
+},
+"SB-362": {
+"fetched_at": "2026-10-21T09:39:53Z",
+"rows": [
+{
+"url": "https://maintechconnect.com/",
+"text": "naged PoE++ Switch with 16 Gigabit Ethernet Ports and 2 Base-T/SFP Combo Ports Regular price $489",
+"price": "$489"
+},
+{
+"url": "https://maintechconnect.com/",
+"text": "99 USD Unit price / per 26-Port L2+ Fully Managed PoE++ Switch with 24 Gigabit Ethernet Ports and 2 Base-T/SFP Combo Ports 26-Port L2+ Fully Managed PoE++ Switch with 24 Gigabit",
+"price": "99 USD"
+},
+{
+"url": "https://maintechconnect.com/",
+"text": "Ethernet Ports and 2 Base-T/SFP Combo Ports Regular price $549",
+"price": "$549"
+}
+]
+},
+"SB-402": {
+"fetched_at": "2026-10-21T09:40:25Z",
+"rows": [
+{
+"url": "https://www.sfpturkey.com.tr/products/667671489-network-switch",
+"text": "6524 TL Bayi Girişi Ara 0 Network Switch 100Mbit SFP Port 1Gigabit SFP Port SFP+ Port SFP28 Port QSFP+ Port QSFP28 Port Endüstriye",
+"price": "6524 TL"
+},
+{
+"url": "https://www.sfpturkey.com.tr/products/238088196-fiber-ethernet-karti",
+"text": "6524 TL Bayi Girişi Ara 0 Fiber Ethernet Kartı 100Mbit SFP Port 1Gigabit SFP Port SFP+ Port SFP28 Port QSFP+ Port QSFP28 Port Endü",
+"price": "6524 TL"
+}
+]
+},
+"SB-408": {
+"fetched_at": "2026-10-21T09:40:30Z",
+"rows": [
+{
+"url": "https://xblue.com/product-category/qb-parts/",
+"text": "99 Add to cart 8 Port PoE Switch + 1 Uplink Port $ 79",
+"price": "$ 79"
+}
+]
+},
+"SB-418": {
+"fetched_at": "2026-10-21T09:40:43Z",
+"rows": [
+{
+"url": "https://atel.com.pl/",
+"text": "19\", 1-portowy KVM HDMI, 1U, pojedyncza szyna 8 590,00 PLN #09787 Edge-corE ECS4650-54P, Switch zarządzalny, 48x 10/100/1000 RJ-45 PoE, 6x 25G SFP28, 19\" 915,00 PLN #06659 IDGPS-C1042GP",
+"price": "590,00 PLN"
+},
+{
+"url": "https://atel.com.pl/",
+"text": "5G RJ-45 PoE + 2x1000/10G SFP+ 508,00 PLN #09768 Gigabitowy bezprzewodowy most 5Ghz (TP-Link Flex Brid",
+"price": "508,00 PLN"
+},
+{
+"url": "https://atel.com.pl/",
+"text": "5G) więcej nowości » #09531 118,00 PLN 116,00 PLN TP-Link Mercusys MS108GP, Switch niezarządzalny, 8x 10/100/1000 RJ-45, PoE+, desktop / Switche #09144 1 070,00 PLN 1 060,0",
+"price": "118,00 PLN"
+},
+{
+"url": "https://atel.com.pl/",
+"text": "0 PLN TP-Link TL-SG2428P, Switch inteligentny, 24x 10/100/1000 RJ-45, 4x SFP, PoE+, 19\" / Switche #06424 107,00 PLN 105,00 PLN Konwerter światłowodowy 1G RJ-45/SC, SM 1310",
+"price": "107,00 PLN"
+}
+]
+},
+"SB-420": {
+"fetched_at": "2026-10-21T09:40:46Z",
+"rows": [
+{
+"url": "https://cdr.pl/",
+"text": "12,96 zł netto Aktualności D-Link M30 ISP Router Wi-Fi 6 AX3000 wyposażony w 5 portów 1G Ethernet Przejdź do produktu Huawei OptiXstar EG8145B7N",
+"price": "12,96 zł"
+}
+]
+},
+"SB-428": {
+"fetched_at": "2026-10-21T09:41:01Z",
+"rows": [
+{
+"url": "https://media-konwertery.pl/",
+"text": "M2 (50/125um) duplex 2m 24,21 zł zoom Ilość: Kup teraz PLANET IGUP-1205AT (2x SFP, 1xRJ45 PoE 802",
+"price": "24,21 zł"
+},
+{
+"url": "https://www.media-konwertery.pl/Produkty/search=PoE",
+"text": "21-15B 1 041,21 zł zoom Gwarancja: 12 miesięcy Media konwerter 1000Base RJ45 na slot SFP, PoE+, 120 km PoE+ 1000Base-T RJ45 na Slot SFP 399,45 zł zoom Gwarancja: 3 lata Ilość: Kup ter",
+"price": "041,21 zł"
+},
+{
+"url": "https://www.media-konwertery.pl/Produkty/search=PoE",
+"text": "az Media konwerter 1000Base RJ45 na SC SM Duplex, PoE+, 20 km PoE+ 1000Base-T RJ45 na 1000Base-LX SC SM 458,02 zł zoom Gwarancja: 3 lata Ilość: Kup teraz P",
+"price": "458,02 zł"
+},
+{
+"url": "https://www.media-konwertery.pl/Produkty/search=PoE",
+"text": "3at PoE+) 526,26 zł zoom Gwarancja: 2 lata Ilość: Kup teraz PLANET IGTP-802T (SC MM, RJ45 802",
+"price": "526,26 zł"
+}
+]
+},
+"SB-438": {
+"fetched_at": "2026-10-21T09:41:16Z",
+"rows": [
+{
+"url": "https://www.ctcu.com/zh-TW/page/product-comparison.html",
+"text": "pdf FRM220 1G/10G 轉發器 FRM220 (1G/4G) 轉發器比較表 FRM220-Converter-Switch",
+"price": "RM220"
+},
+{
+"url": "https://www.ctcu.com/zh-TW/page/product-comparison.html",
+"text": "pdf FRM220 交換機&轉換器 FRM220 交換機&轉換器比較表 L2-Ethernet-Switch",
+"price": "RM220"
+}
+]
+},
+"SB-515": {
+"fetched_at": "2026-10-21T09:42:31Z",
+"rows": [
+{
+"url": "https://www.3tel.com.sg/utepo-switches-and-acs/poe-switches",
+"text": "Z) Name (Z - A) Price (Low > High) Price (High > Low) View More UTP3-SW04-TP60 4 Channel PoE Switch, 2 Uplink Ports $58",
+"price": "$58"
+},
+{
+"url": "https://www.3tel.com.sg/utepo-switches-and-acs/poe-switches",
+"text": "50 Qty View More UTP3-GSW0802-TSP120 8 Channel Full Gigabit PoE Switch, 2 Uplink Ports $169",
+"price": "$169"
+},
+{
+"url": "https://www.3tel.com.sg/utepo-switches-and-acs/poe-switches",
+"text": "00 Qty View More UTP7208E-POE-A1 Industrial 8 Channel PoE Switch $284",
+"price": "$284"
+},
+{
+"url": "https://www.3tel.com.sg/utepo-switches-and-acs/poe-switches",
+"text": "70 Qty View More UTP7524GE - 16GF8GT L3 Managed POE Switch $864",
+"price": "$864"
+}
+]
+},
+"SB-548": {
+"fetched_at": "2026-10-21T09:42:59Z",
+"rows": [
+{
+"url": "https://netsys-direct.com/",
+"text": "Ethernet Over Phone Line or Cat5/6 (NV-202GEKIT) (6) In stock Regular price $275",
+"price": "$275"
+},
+{
+"url": "https://netsys-direct.com/",
+"text": "Ethernet Over Phone Line or Cat5/6 (NV-450EKIT) (4) In stock Regular price $379",
+"price": "$379"
+},
+{
+"url": "https://netsys-direct.com/",
+"text": "00 USD Unit price / per Cart GigaPort Industrial Grade VDSL2 Ethernet Extender Kit (2 Units Included) - Extend LAN up to 3km / 1",
+"price": "00 USD"
+},
+{
+"url": "https://netsys-direct.com/",
+"text": "00 USD Unit price / per Cart GigaPort VDSL2 Ethernet Extender Kit with Remote PoE Output (2 Units Included) — NV-320SEKIT In stock Regular price $382",
+"price": "00 USD"
+}
+]
+},
+"SB-594": {
+"fetched_at": "2026-10-21T09:43:43Z",
+"rows": [
+{
+"url": "https://www.kmsoltec.com/en/343-switch-di-rete",
+"text": "first Most expensive first In stock first Switch di rete Delock 10\" Gigabit Ethernet Switch 8 Port + 1 SFP Delock 88064 €110",
+"price": "88064 €"
+},
+{
+"url": "https://www.kmsoltec.com/en/343-switch-di-rete",
+"text": "5 Gigabit Ethernet Switch 5 Port Delock 87781 €125",
+"price": "87781 €"
+},
+{
+"url": "https://www.kmsoltec.com/en/343-switch-di-rete",
+"text": "5 Gigabit Ethernet Switch 8 Port Delock 87782 €153",
+"price": "87782 €"
+}
+]
+},
+"SB-631": {
+"fetched_at": "2026-10-21T09:44:33Z",
+"rows": [
+{
+"url": "https://gigaxysafe.com.ng/products/2-port-2-5gb-pcie-network-card-dual-lan-port-2-5-gigabit-ethernet-interface-adapter-with-realtek-rtl8125b-support-nas-pc-2-5g-nic-compliant-windows-linux-mac-os",
+"text": "5 Gigabit Ethernet Interface Adapter, with Realtek RTL8125B, Support NAS/PC, 2",
+"price": "TL8125"
+}
+]
+},
+"SB-674": {
+"fetched_at": "2026-10-21T09:45:35Z",
+"rows": [
+{
+"url": "https://noxel.pl/",
+"text": "600 stojąca + akcesoria RL-6641SRE Racktel Racktel 1899,00 zł Zestaw monitoringu Dahua IP PoE 4 kamery 6MPx IPC-HFW1639TC-A-IL-0280B Dahua 2229,00 zł Zestaw monitoringu Dahua IP PoE 3",
+"price": "1899,00 zł"
+},
+{
+"url": "https://noxel.pl/",
+"text": "kamery IPC-HFW1639TC-A-IL-0280B-S6-BLACK Dahua 1749,00 zł Zestaw monitoringu Dahua IP PoE 4 kamery IPC-HFW1639TC-A-IL-0280B-S6-BLACK Dahua 2229,00 zł Zasilacz UPS EAST 850VA/510W",
+"price": "1749,00 zł"
+},
+{
+"url": "https://noxel.pl/",
+"text": "UPST1200VAL-LCD z akumulatorem 2x 7Ah/12V EAST 319,00 zł Zestaw monitoringu Dahua 8MPx IP PoE 2 kamery IPC-HFW1839TC-A-IL-0280B-S6 Dahua 1499,00 zł Pierwotna cena wynosiła: 1499,00 zł",
+"price": "319,00 zł"
+},
+{
+"url": "https://noxel.pl/",
+"text": "Zestaw monitoringu Dahua 8MPx IP PoE 3 kamery IPC-HFW1839TC-A-IL-0280B-S6 Dahua 1559,00 zł Zestaw monitoringu Dahua 8MPx IP Po",
+"price": "1559,00 zł"
+}
+]
+},
+"SB-699": {
+"fetched_at": "2026-10-21T09:46:14Z",
+"rows": [
+{
+"url": "https://ccdact.com.au/",
+"text": "00 AUD CCD-POE-4100 Fibre Optic Gigabit Media Converter From $239",
+"price": "$239"
+},
+{
+"url": "https://ccdact.com.au/",
+"text": "00 AUD Sold Out CCD POE Fibre Optic Media Converter From $280",
+"price": "$280"
+}
+]
+},
+"SB-708": {
+"fetched_at": "2026-10-21T09:46:18Z",
+"rows": [
+{
+"url": "https://hyconext.com/",
+"text": "might also like Mounting Bracket 107*44*28mm, Compatible with Hyconext HC8MT2XP_UP Series PoE Switches, Easy Installation, 424310744020 $12",
+"price": "$12"
+},
+{
+"url": "https://hyconext.com/14-poe-switches",
+"text": "5G & 6 SFP+ 10G - 500W PoE - HC16MT6XP-UP-PRO Series $1,169",
+"price": "$1,169"
+},
+{
+"url": "https://hyconext.com/14-poe-switches",
+"text": "5G & 6 SFP+ 10G Ports & 500W PoE Power HC16MT6XPAS-UP Series $1,060",
+"price": "$1,060"
+},
+{
+"url": "https://hyconext.com/l2-managed-poe-switches/18990-nextwav-lite-hc8mt2xp-up-series",
+"text": "5G & 2 SFP+ 10G Ports & 250W PoE Power HC8MT2XP-UP Series -$20",
+"price": "$20"
+}
+]
+},
+"SB-765": {
+"fetched_at": "2026-10-21T09:47:06Z",
+"rows": [
+{
+"url": "https://inv-technology.com/en/38-switch-manageable",
+"text": "Price, low to high Price, high to low Showing 1-9 of 9 item(s)  Quick view  View Detail Switch Manageable RG-ES228GS-P €1,266",
+"price": "€1,266"
+},
+{
+"url": "https://inv-technology.com/en/38-switch-manageable",
+"text": "00  Quick view  View Detail Switch Manageable RG-ES220GS-P €894",
+"price": "€894"
+},
+{
+"url": "https://inv-technology.com/en/38-switch-manageable",
+"text": "00  Quick view  View Detail Switch Manageable RG-ES210GS-P €430",
+"price": "€430"
+},
+{
+"url": "https://inv-technology.com/en/38-switch-manageable",
+"text": "80  Quick view  View Detail Switch Manageable RG-ES209GC-P €378",
+"price": "€378"
+}
+]
+},
+"SB-771": {
+"fetched_at": "2026-10-21T09:47:12Z",
+"rows": [
+{
+"url": "https://lanprosa.com/switch-24-ge-poe-2ge-2sfp-uplink-370w-4kv-vlan-loop-prevention-remote-boot-cloud-reyee-rg-es228gs-p/",
+"text": "5GE + 1 GE / PoE / Doble banda / MIMO 2x2, REYEE RG-RAP2260 $ 121 + IVA Back to products Switch 4 GE PoE+ / 2GE + 1SFP (combo) upli",
+"price": "$ 121"
+},
+{
+"url": "https://lanprosa.com/switch-16-ge-poe-2ge-2sfp-uplink-250w-4kv-vlan-loop-prevention-remote-boot-cloud-reyee-rg-es220gs-p/",
+"text": "RG-ES220GS-P Switch 16 GE / Vlan, Loop prevention, Remote Boot, Cloud, REYEE RG-ES216GC-V2 $ 121 + IVA Back t",
+"price": "$ 121"
+}
+]
+},
+"SB-773": {
+"fetched_at": "2026-10-21T09:47:15Z",
+"rows": [
+{
+"url": "https://microseven.com/",
+"text": "4K (8MP) IP Camera, PoE, Outdoor-Rated, Open Platform SHOP NOW $79",
+"price": "$79"
+},
+{
+"url": "https://microseven.com/",
+"text": "4K (8MP) IP PoE Vandalproof Dome Security Camera, Open Platform SHOP NOW $149",
+"price": "$149"
+},
+{
+"url": "http://www.microseven.com/product/1080P Open Platform-M7D77-POE.html",
+"text": "1080p (1920×1080) 150° Wide Angle Motion & Human Detection PoE (Wired Only) IP66 Outdoor $79",
+"price": "$79"
+},
+{
+"url": "http://www.microseven.com/product/4K 8MP Open Platform-M7B4K-WPUNC-SVF.html",
+"text": "4K - 30 FPS AI Human Detection Top/Bottom UNC Mount PoE + Wi-Fi IP66 Outdoor $159",
+"price": "$159"
+}
+]
+},
+"SB-804": {
+"fetched_at": "2026-10-21T09:47:43Z",
+"rows": [
+{
+"url": "https://bm-switch.com/shop/",
+"text": "00 48x10G + 6x40G Netberg Aurora 420 (Broadcom Trident2) Bare Metal Switch NBA420-xxx $ 4,000",
+"price": "$ 4,000"
+},
+{
+"url": "https://bm-switch.com/shop/",
+"text": "00 48x10G + 6x40G Netberg Aurora 420 (Broadcom Trident2) L3 Data Center Switch, ICOS NOS NBA420-ICOS $ 4,400",
+"price": "$ 4,400"
+}
+]
+},
+"SB-815": {
+"fetched_at": "2026-10-21T09:48:02Z",
+"rows": [
+{
+"url": "https://lendoux.com/",
+"text": "00 Price      Edgecore Datacenter switch DCS810-AS9516-32D-with 32X400G Switch and router store $29,160",
+"price": "$29,160"
+},
+{
+"url": "https://lendoux.com/",
+"text": "00 Price      FS Datacenter switch MSN4410-WS2FC with 24*100G&8*400G Switch and router store $67,350",
+"price": "$67,350"
+}
+]
+},
+"SB-816": {
+"fetched_at": "2026-10-21T09:48:02Z",
+"rows": [
+{
+"url": "https://lorwen.it/categorie/nvr-network-video-recorder/nvr-con-poe-integrato-nvr-network-video-recorder/",
+"text": "Aggiungi alla lista dei desideri 9 Canali 4K Smart AI – 4 Porte POE – NVR € 87,54 Aggiungi al carrello Cod: LW-NVR4KT9C4P Aggiungi alla lista dei desideri 9",
+"price": "€ 87,54"
+},
+{
+"url": "https://lorwen.it/categorie/nvr-network-video-recorder/nvr-con-poe-integrato-nvr-network-video-recorder/",
+"text": "Canali 4K Smart AI – 4 Porte POE – NVR € 91,97 Aggiungi al carrello Cod: LW-NVR12S9C4P Aggiungi alla lista dei desideri 9",
+"price": "€ 91,97"
+},
+{
+"url": "https://lorwen.it/categorie/nvr-network-video-recorder/nvr-con-poe-integrato-nvr-network-video-recorder/",
+"text": "Canali 4K 12 Mpx Smart AI – 4 Porte POE – NVR € 93,78 Aggiungi al carrello Cod: LW-NVR12M9C8P Aggiungi alla lista dei desideri 9",
+"price": "€ 93,78"
+},
+{
+"url": "https://lorwen.it/categorie/nvr-network-video-recorder/nvr-con-poe-integrato-nvr-network-video-recorder/",
+"text": "Canali 4k 12Mpx Smart AI – 8 Porte POE – NVR Mini € 95,45 Aggiungi al carrello Cod: LW-NVR4KS16C8P_ Aggiungi alla lista dei desi",
+"price": "€ 95,45"
+}
+]
+},
+"SB-951": {
+"fetched_at": "2026-10-21T09:25:39Z",
+"rows": [
+{
+"url": "https://montavue.com/",
+"text": "00 Montavue Nexus 8MP 4K Smart Light Turret PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD $609",
+"price": "$609"
+},
+{
+"url": "https://montavue.com/",
+"text": "00 Montavue Nexus 12MP 4K RGB Turret PoE Security Camera System with 16-Channel Pro NVR & 4TB HDD $1,449",
+"price": "$1,449"
+},
+{
+"url": "https://montavue.com/",
+"text": "00 Montavue Nexus 4MP 2K Smart Turret PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD $699",
+"price": "$699"
+},
+{
+"url": "https://montavue.com/",
+"text": "00 Montavue Nexus 4MP 2K Smart Light Bullet PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD $734",
+"price": "$734"
+}
+]
+}
+}
+}

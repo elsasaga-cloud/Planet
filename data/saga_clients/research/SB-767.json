@@ -42,7 +42,7 @@
  "kp": [
   {
    "name": "Steve",
-   "title": "（职务待核）",
+   "title": "「Steve」（用户表）—— Companies House 在任董事为 Inneh Emmanuel Aig-Imoru（2012 起）与 Dr Stanislas Bael Nyokas-Mountsambote（创始人，2024-11 回任）；Steve ≈ Stan 待核（第 82 批 Companies House 核实 2026-10-27）",
    "email": "info@itmsystems.net",
    "phone": "",
    "source": "用户表"
@@ -57,7 +57,8 @@
  },
  "company_facts": {
   "hq": "英国",
-  "other": "官网 itmsystems.co.uk，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 itmsystems.co.uk，语言 en-US，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "ITM SYSTEMS LIMITED（Companies House 07747218，2011-08-22 成立，Active；SIC 26110 / 62020 / 63110 / 80200；有抵押登记）"
  },
  "business_lines": [
   "网络安全 / 视频监控 / IT 基础设施（英国）"

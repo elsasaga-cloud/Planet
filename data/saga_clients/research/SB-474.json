@@ -48,8 +48,8 @@
  ],
  "kp": [
   {
-   "name": "Andy",
-   "role": "来信署名人（职务未在邮件署名里出现）",
+   "name": "Andy（Andrew Thomas Saoulis）",
+   "role": "Director / 老板 —— Andrew Thomas Saoulis，唯一在任董事，2000 年创办，1950 年生（第 82 批 Companies House 核实 2026-10-27）",
    "email": "andys@case.uk.com",
    "phone": "",
    "source": "S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补）"
@@ -63,8 +63,8 @@
   "level": "B 级加厚 v1（官网产品线核对）"
  },
  "company_facts": {
-  "legal_name": "Case Communications Ltd",
-  "founded": "1970",
+  "legal_name": "CASE COMMUNICATIONS LIMITED（Companies House 03913540，2000-01-26 成立；前名 Case Technology Central Europe Ltd）",
+  "founded": "2000-01-26（品牌沿用 1970 年老 Case Communications / Dowty，老公司 00730286 已于 2019 注销）",
   "hq": "Unit 12E, North's Estate, Old Oxford Road, Piddington, High Wycombe, Bucks HP14 3BE, UK（+44 1494 880 240；admin@case.uk.com）",
   "size": "1–10（ContactOut）/ 51–200（LinkedIn 自报）——口径不一，按小团队品牌商处理",
   "other": "产品型号体系（PIGE/PIXE/R2/R3）与典型 ODM 口型一致（8 PoE+2 SFP、16 PoE+4 SFP、8 PoE+4 GE+4×10G）→ 高概率外购贴牌；DIN 导轨、−40~+75 ℃、双 DC 输入、ERPS G.8032"

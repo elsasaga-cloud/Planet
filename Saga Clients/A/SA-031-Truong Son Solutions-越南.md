@@ -93,6 +93,22 @@ updated: 2026-10-27
 - **已披露的贸易伙伴**：Hangzhou Baishou Yiwu Branch（义乌，明纬电源贸易商，750± 票出口）
 - **对 Saga 的含义**：Trường Sơn 热度 40，但它是 ONV 的二级分销、没有自主进口整机的习惯（4 年只有一张 60 台电源的快件单）。对 Saga：① 报价必须是 **DAP 胡志明快件到门、小批量**（像它买电源那样），别谈 FOB 整柜；② 切入点是 ONV 不做或缺货的型号（2.5G 工业、万兆上联 L3），以 VILINK 贴牌做小批量 OEM；③ 别指望它替代 ONV 全线，越南本地有 ONV 总代压价。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `truongsonsolutions.vn` → 无 MX（只有 A 记录 113.177.118.84）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
+- `truongsonsolutions.com` → Google Workspace（MX：ASPMX.L.GOOGLE.com、ALT1.ASPMX.L.GOOGLE.com、ALT2.ASPMX.L.GOOGLE.com、ALT3.ASPMX.L.GOOGLE.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+- `switchcongnghiep.com` → 无 MX（只有 A 记录 103.110.84.53）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
+- `switchcongnghiep.vn` → 其他主机商邮箱（mx.hopthu.vn）（MX：mx.hopthu.vn、mx1.hopthu.vn）。主机商附带邮箱（mx.hopthu.vn）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- 其他域名仍活：`truongsonsolutions.com`、`switchcongnghiep.vn` → 只用这些域的地址
+
+**假日避让（越南 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 法定假日：11-24 Vietnam Cultural Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

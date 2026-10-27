@@ -74,6 +74,19 @@ updated: 2026-10-27
 - **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 29 条 URL；社媒：https://linkedin.com/company/elprotechnologies、https://www.youtube.com/@elprotechnologies1650。
 - **日历窗口**：对方：2026-12-24 圣诞–元旦 + 南半球暑假（多到 1 月中） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `elprotech.com` → 其他主机商邮箱（filter1.elprot-1.mailguard.com.au）（MX：filter1.elprot-1.mailguard.com.au、filter2.elprot-1.mailguard.com.au、filter3.elprot-1.mailguard.com.au）。主机商附带邮箱（filter1.elprot-1.mailguard.com.au）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `elpro.com.au` → 自建 / 同域名邮件服务器（MX：filter1.elpro-1.mailguard.com.au、filter2.elpro-1.mailguard.com.au、filter3.elpro-1.mailguard.com.au）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
+
+**假日避让（澳大利亚 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 窗口内无该国法定假日
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

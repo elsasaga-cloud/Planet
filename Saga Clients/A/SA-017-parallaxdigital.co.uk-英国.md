@@ -96,6 +96,37 @@ updated: 2026-10-27
 - **涉及商品编码**：85176200、85044095、85369095、85285299、85285900、85437090、85447000、90302000、90303370
 - **对 Saga 的含义**：Parallax 两家公司都在持续、小批量地从非欧盟直接进口 8517 62 00，节奏约每半年一次，最近 2025-12 / 2026-01 刚进过——下一窗口按节奏在 2026 年 6–8 月；写信时间应放到 2026-05 下旬，问「下一批工程用的 PoE 交换机有没有定型号」。它们同时进电源 / 连接器 / 光缆，说明是自己配套做方案的集成商，对 DIN 导轨工业机（STI 系列）和 PoE 预算型号都可能有需求。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `parallaxdigital.co.uk` → Microsoft 365（MX：parallaxdigital-co-uk.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让（英国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+
+- 法定假日：01-01 New Year's Day；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
+- 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数（UK Companies House，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/10314407）：**
+
+- 法定名 / 登记号：PARALLAX DIGITAL TECHNOLOGIES LIMITED · 10314407 · 状态 **Active** · 成立 2016-08-05 · Private limited company
+- 行业码（SIC）：26200 Manufacture of computers and peripheral equipment；62020 IT consultancy；62030 Computer facilities management；62090 Other IT service activities
+- 注册地址：19 Endeavour Park, Baker Road, Nelson Park West, Cramlington, Northumberland NE23 1XA（工业园单元，与官网一致）
+- 规模档：小型 · 单董事（1 officer / 0 resignations）
+- 账目：最近账目截至 2025-04-05（已交）；下期截至 2026-04-05，2027-01-05 前交；确认声明 2026-08-04 已交，下期 2027-08-04
+- 高管：Jeffrey Allan FERRIER — 唯一董事，1965-09 生，英国籍，2016-08-05 成立即上任；身份核验由会计师事务所 G W Thompson & Co（ACSP）于 2025-12-18 完成
+- 抵押 / 担保：无抵押登记（页面无 Charges 标签）
+- 曾用名：DIGITAL SYSTEMS DESIGN LIMITED（2016-08-05→2017-04-24）；PARALLAX DIGITAL LIMITED（2017-04-24→2019-06-07）
+- **这意味着什么：**
+  - 单董事公司：给我们来信的 jeff.ferrier@ 就是唯一董事 Jeff Ferrier（1965 年生，60 岁）——没有采购部，所有决定他一个人定，回信慢是因为人忙不是流程
+  - SIC 第一项 26200「计算机及外设制造」：登记口径就是制造商 / 方案商，不是经销商 → 报价按集成商 25%、谈 OEM 贴牌按 30%，别按分销 20% 报
+  - 两次改名（Digital Systems Design → Parallax Digital → Parallax Digital Technologies，2019 定名）：2019 年起的品牌才 6 年；HMRC 第 81 批显示 2026-01 仍有非欧盟进口 → 业务活跃
+  - 会计师 2025-12 刚替他做完 Companies House 身份核验 → 公司合规维护在正常走，无解散风险
+- 备注：无抵押、单董事、工业园自有单元 → 小而稳。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -146,7 +177,7 @@ updated: 2026-10-27
 - **【官网】自称英国最大交换机库存之一；高层住宅消防探测网络用其交换产品**
   > we also have probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK … Our network designs and switching products have been in service in tower blocks in London and other cities … for fire detection systems
   > 来源：https://parallaxdigital.co.uk/about-us/（抓取 2026-10-21）
-- **KP**：Jeffrey Allan Ferrier（Founder/Director（Companies House））jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk +44 1670 202001〔https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头〕
+- **KP**：Jeffrey Allan Ferrier（Founder / 唯一董事（Companies House 10314407，2016-08-05 起；1965 年生）（第 82 批 Companies House 核实 2026-10-27））jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk +44 1670 202001〔https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头〕
 - 备注：A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -276,7 +307,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jeffrey Allan Ferrier | Founder/Director（Companies House） | jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk / +44 1670 202001 | 调研核实（公开页） | https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头 |
+| Jeffrey Allan Ferrier | Founder / 唯一董事（Companies House 10314407，2016-08-05 起；1965 年生）（第 82 批 Companies House 核实 2026-10-27） | jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk / +44 1670 202001 | 调研核实（公开页） | https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头 |
 | Jeff Ferrier | — | jeff.ferrier@parallaxdigital.co.uk / networkops@parallaxdigital.co.uk | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

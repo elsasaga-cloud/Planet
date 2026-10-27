@@ -111,6 +111,19 @@ updated: 2026-10-27
   - 2021-01-02 · Centro + C&T Litech · 381 + 110 kg · PoE switch/injector/PSU + lock bracket; est. freight $4,157
 - **对 Saga 的含义**：唯一一户在海运提单里明写 'Poe Switches' 的 A 类：供应商深圳 Centro Technology，2020-10～2024-09 共 ≥11 票、每 2～6 个月一票、每票 7～49 箱（124～580 kg）= 小批量 LCL；2024-09-28 之后再无海运记录（同步至 2026-10-21）→ 要么换成空运/快递，要么停购 → 这正是问『你们 PoE 交换机现在哪来』的时机
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `optiviewusa.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让（美国 · 按下一步「2026-11」窗口 2026-11-01→2026-11-30）：**
+
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

@@ -92,6 +92,16 @@ updated: 2026-10-27
 - **查无**：ImportYeti 公司页没有此户（company/ipcampower 404）。美国海运提单库查无（company/ipcampower 404）。关联线索：创始人 Sean Nelson 的前公司 Nelly's Security（SB-248）2016～2022-12 从 ONV（光网视）海运 PoE 交换机 15 票（最后三票 2022-05-01 80 ctn / 08-13 207 ctn / 12-22 144 ctn），2023 年公司出售后该线中断 → IPCamPower 的 PoE 交换机货源应是 ONV 系或改走空运；见 SB-248 记录
 - 查无 ≠ 不进口：可能用别的报关主体名、走空运 / 快递、或申请了舱单保密（ImportYeti FAQ）。
 
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+
+- `ipcampower.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「不动；移出群发」，不排发信，略。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
