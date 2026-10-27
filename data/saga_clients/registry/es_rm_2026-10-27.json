@@ -1,0 +1,46 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "España · Registro Mercantil（einforma / infoempresa / axesor 镜像）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SB-424": {
+   "batch": 89,
+   "name": "GOLMAR SISTEMAS DE COMUNICACIÓN, S.A.",
+   "iso": "ES",
+   "source": "ES · Registro Mercantil de Barcelona 镜像（einforma：CIF / 资本 / 员工 / 治理 / BORME；expansión / infoempresa / axesor：成立日 / CNAE / 账目年；informa：销售区间 / 2024 员工；empresia：董事会主席）+ 官网 aviso legal",
+   "url": "https://www.einforma.com/informacion-empresa/golmar-sistemas-comunicacion",
+   "number": "CIF A08370314 · RM Barcelona tomo 24.484 folio 192",
+   "status": "Activa（最近账目 2024 已存；**BORME 2026-10-21「Fusión y absorción de empresas」= 本月刚发生合并 / 吸收**）",
+   "incorporated": "1975-04-09",
+   "company_type": "Sociedad Anónima · 资本 €1,239,400.23 · 董事会 7 人（2025-10-14）· 主席 Fiammetta Cometto（意大利姓 → 推定意资控股；具体集团待核）",
+   "sic": [
+    "CNAE 2640 消费电子制造：**楼宇对讲 / 视频门禁 / 安防通信设备制造 + 销售**（西班牙对讲第一品牌之一，进出口）；曾用名 Sistemas de Comunicación Golmar SA"
+   ],
+   "address": "C/ Silici 13-25, Pol. Ind. Famades, 08940 Cornellà de Llobregat (Barcelona)（旧址 Viladomat 83 Barcelona）",
+   "accounts": "销售 €6–30M 区间（informa）；员工 100（2026）/ 103 / 106（2022）/ 112（2024）；审计 Gabinete Audiwork SL",
+   "accounts_due": "ES 账目存档：7-30 前（次年）",
+   "size_band": "中型（100–112 人；€6–30M）",
+   "officers": [
+    "Fiammetta COMETTO — Presidenta del Consejo（董事会主席）",
+    "董事会 7 人 + 职能高管 4 人（2026-09）；研究档收件 golmar@（总信箱，13 封 2 次打开）"
+   ],
+   "psc": "未取（主席意大利姓 + 2026-10 合并事件 → 股权刚变动）",
+   "charges": "",
+   "prev_names": [
+    "SISTEMAS DE COMUNICACION GOLMAR SA"
+   ],
+   "lines": [
+    "**Golmar 是巴塞罗那 1975 年起的对讲 / 视频门禁制造商（100 多人），本月（2026-10-21）刚完成一次合并吸收** → IP 对讲系统正需要 PoE 交换机配套（楼宇每栋 8–24 口 PoE），OEM 30%（Golmar 贴牌）是正解；但合并刚发生 = 采购冻结期，**2027-01 后再写**，写产品管理 / compras，不发 golmar@",
+    "西班牙付款习惯 60 天 —— 不给；首单 50/50；CE / RoHS + 西语手册；DAP 巴塞罗那走 Saga 百运网线；ES 周四 12–14",
+    "复查：BORME 公告（einforma）2027-01 看合并后的主体与董事；2024 账目 → 2025 账目 2026-07 存"
+   ],
+   "notes": "研究档 legal_name 空 → 回填；KP 无 → 加主席（不直接写）。新来源键 es。",
+   "fetched": "2026-10-27",
+   "code": "SB-424"
+  }
+ }
+}

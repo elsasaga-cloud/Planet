@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 20
+  "count": 21
  },
  "rows": {
   "SA-086": {
@@ -669,6 +669,40 @@
    "notes": "研究档 legal_name 回填全称；grade 不动（守界标记在 lines）。",
    "fetched": "2026-10-27",
    "code": "SB-457"
+  },
+  "SB-861": {
+   "batch": 89,
+   "name": "BİMEL ELEKTRONİK MAMULLERİ PAZARLAMA A.Ş.（Ankara；原 Ltd. Şti.）",
+   "iso": "TR",
+   "source": "TR · 官网 firmamız / privacy（法定名、品牌线、19 省分支）+ EMIS（1984-01-27 成立、80 人 2026、2022 营收 +63.8%）+ Kompass（Çankaya 登记号 1750038872、100–249 人）+ DMO 供应商页 + trademo（进口 102 票：台湾 / 德国 / 波兰）+ kariyer.net 2025-02 招聘网络工程师",
+   "url": "https://www.bimel.com.tr/tr/firmamiz",
+   "number": "Ankara Ticaret Sicili（Çankaya）1750038872（Kompass）· MERSİS 未取",
+   "status": "Aktif",
+   "incorporated": "1984-01-27",
+   "company_type": "Anonim Şirket（由 Ltd. Şti. 转制）· 本土资本",
+   "sic": [
+    "**IT / 网络 / 安防产品全国分销商**：5,000+ SKU；品牌 Assmann / ATEN / Beek / Digitus / Lindy / **PLANET** / Teltonika / Tumtec / Huawei eKit；**DMO（国家物资局）目录供应商** = 公共部门渠道；19 省分支（Ankara 总部 + İstanbul / İzmir / Bursa / Antalya …）；技术服务 + ISP"
+   ],
+   "address": "Bayındır Sok. 5/1-19, Yenişehir / Çankaya, Ankara（+ Çamlıca Mah. Anadolu Bulvarı No:20N D:8, Yenimahalle 06200）",
+   "accounts": "私企；员工 76–80（2026）/ Kompass 100–249；Datanyze 营收估 $14.7M（第三方）；EMIS：2022 净销售 +63.8%、总资产 +91.1%",
+   "accounts_due": "—（TR 不公示）",
+   "size_band": "中型（80–100 人全国分销商）",
+   "officers": [
+    "研究档无具名 KP（收件 bimel@ 总箱，9 封 1 次打开）；管理层未公开 → 下一封写「Ürün Müdürü – Network」（官网 / LinkedIn 找人）"
+   ],
+   "psc": "本土股东（未公开）",
+   "charges": "",
+   "prev_names": [
+    "Bimel Elektronik Mamulleri Pazarlama Ltd. Şti."
+   ],
+   "lines": [
+    "**硬发现：Bimel 是安卡拉 1984 年起的全国 IT 分销商（19 省、80+ 人、DMO 目录供应商），正在分销 PLANET 交换机 —— 我们 9 封寄 bimel@ 总箱** → 这是 TR 分销 20% 的头部目标：写网络产品经理（不发总箱）：「PLANET 价位之下的第二条管理型 / PoE 线」—— 信里**不提 PLANET / 台湾**，只讲 Marvell 管理型 + 24 口 PoE $170 档 + CE / RoHS + TSE 不需要；DMO 目录要本地法人，自然由 Bimel 承担",
+    "付款：首单 50/50，三单后可谈 30 天（A.Ş. 规模）；DAP 安卡拉走 Saga 百运网线（伊斯坦布尔转）；TR 周四 10–12",
+    "复查：kariyer.net 招聘（扩张信号）半年一次；trademo 进口国别年看一次"
+   ],
+   "notes": "研究档 legal_name 已有 A.Ş.；补成立 / 人数 / 品牌线；KP 无。",
+   "fetched": "2026-10-27",
+   "code": "SB-861"
   }
  }
 }

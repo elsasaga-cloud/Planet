@@ -1,0 +1,43 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Portugal · Registo Comercial（racius / iberinform / rigorbiz 镜像）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SB-1023": {
+   "batch": 89,
+   "name": "SKUA TECHNOLOGY, UNIPESSOAL LDA（商号 SKUA Tech；DIPOL Ibéria）",
+   "iso": "PT",
+   "source": "PT · Registo Comercial 镜像（iberinform：NIPC / 法律形式 / 地址；racius：资本 / 经营范围；rigorbiz：成立日 / CAE；einforma：18 年 / 2023–2025 资产负债表可购）+ 官网 política privacidade（成立 2008-03-28、资本 €25,000）+ prociv.gov.pt SCIE 名录（Ricardo Vieira 登记人）",
+   "url": "https://www.iberinform.pt/empresa/24256500/skua-technology-unipessoal-lda",
+   "number": "NIPC 508525934（Conservatória do Registo Comercial de Braga）",
+   "status": "Ativa（2025 年报已存）",
+   "incorporated": "2008-03-28",
+   "company_type": "Sociedade Unipessoal por Quotas（**一人有限公司** = 单一股东）· 资本 €25,000",
+   "sic": [
+    "CAE 46502 电子 / 电信设备批发：**安防系统进口 / 出口 / 分销**（入侵 / 火警 / CCTV / GSM / 家居自动化 / LAN-WLAN）；**DIPOL Ibéria**（波兰 DIPOL 的葡西两国代理）；B2B 网店 b2b.skua.pt；西班牙电话线 +34 986（Vigo）"
+   ],
+   "address": "Rua da Quintã, Pavilhão 21, Frossos, 4700-023 Braga（登记地址 4700-859 São Pedro de Merelim）",
+   "accounts": "资产负债表 2023 / 2024 / 2025 已存（付费未取）；估 5–15 人",
+   "accounts_due": "PT IES 年报：7-15 前",
+   "size_band": "小型（一人公司；估 €1–3M）",
+   "officers": [
+    "**Ricardo Manuel da Silva VIEIRA — 民防局 SCIE 设备实体登记的负责人（ricardo.vieira@skuatechnology.com，证书至 2027-09）→ 推定 sócio-gerente（一人公司 = 老板）**；研究档 KP 仅「办公室」→ 下一封写 Ricardo"
+   ],
+   "psc": "单一股东（推定 Ricardo Vieira）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Skua 是布拉加的一人老板安防分销商（2008 起，兼波兰 DIPOL 的伊比利亚代理，有 B2B 网店 + 西班牙线）** → 分销 20%：PoE 4/8/16/24 口配 CCTV 走其 B2B 网店；CE / RoHS + 葡语 / 西语说明书；写 Ricardo Vieira 本人（不发 dipol@ / office@）；首单 50/50；DAP 布拉加走 Saga 百运网线（经里斯本 / 波尔图）；PT 周四 12–14",
+    "DIPOL 代理关系 = 他已有一条波兰系交换机 / 配件来源 —— 信里不提；我方差异 = Marvell 管理型 + 价格",
+    "复查：einforma 年报 7 月后看 2026 资产负债表是否存"
+   ],
+   "notes": "研究档 legal_name 补全 Unipessoal；KP 加 Ricardo Vieira（推定 gerente）。新来源键 pt。",
+   "fetched": "2026-10-27",
+   "code": "SB-1023"
+  }
+ }
+}

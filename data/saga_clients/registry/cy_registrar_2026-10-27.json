@@ -1,0 +1,43 @@
+{
+ "_meta": {
+  "kind": "registry",
+  "source": "Κύπρος · Registrar of Companies（OpenCorporates 摘要）",
+  "created": "2026-10-27",
+  "updated": "2026-10-27",
+  "count": 1
+ },
+ "rows": {
+  "SB-992": {
+   "batch": 89,
+   "name": "WAVE ELECTRONICS LIMITED",
+   "iso": "CY",
+   "source": "CY · 研究档既有事实（D&B 公开：Key Principal Charalampos Charalampous；Cyprus Registrar HE 19231，1983-03-15 —— 塞浦路斯登记处 JS 不可抓，批 82 已关闭）；本批不再检索，仅建档",
+   "url": "https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx",
+   "number": "HE 19231（Department of Registrar of Companies, Cyprus）",
+   "status": "Active（推定；官网在线）",
+   "incorporated": "1983-03-15",
+   "company_type": "Private Limited Company（Ltd）",
+   "sic": [
+    "电子 / 安防 / 通信产品分销（塞浦路斯；Limassol / Nicosia）"
+   ],
+   "address": "Cyprus（研究档）",
+   "accounts": "CY 年报 HE32 付费；未取",
+   "accounts_due": "CY 年报：次年 12-31 前（HE32）",
+   "size_band": "小型 / 中型（1983 起 40 年老店；估 10–30 人）",
+   "officers": [
+    "Charalampos CHARALAMPOUS — Key Principal（D&B）= 推定董事 / 业主",
+    "研究档收件 p.christos@（Christos P.，职务未核）"
+   ],
+   "psc": "Charalampous 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**塞浦路斯 1983 年起的老电子分销商，登记处无法抓取 → 底数到 HE 号 + D&B 主事人为止**；分销 20%：PoE + 管理型 24 口（塞岛酒店 / 住宅安防项目）；CE / RoHS + 希腊语标签可选；写 p.christos 同时抄 Charalampous（问全名邮箱）；首单 50/50；DAP 利马索尔走 Saga 百运网线；CY 周四 12–14（EET）",
+    "不再检索（来源已关闭）"
+   ],
+   "notes": "研究档 legal_name 已有；KP 角色不动。",
+   "fetched": "2026-10-27",
+   "code": "SB-992"
+  }
+ }
+}

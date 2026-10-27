@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 2
+  "count": 3
  },
  "rows": {
   "SA-089": {
@@ -76,6 +76,43 @@
    "notes": "研究档 legal_name 已有；补登记号 / 董事会；KP 无具名 → 加 Michal Vodička（董事长，不直接写）。",
    "fetched": "2026-10-27",
    "code": "SB-605"
+  },
+  "SB-680": {
+   "batch": 89,
+   "name": "Schrack Technik spol. s r.o.（奥地利 Schrack Technik GmbH 捷克子公司）",
+   "iso": "CZ",
+   "source": "CZ · Obchodní rejstřík 镜像（podnikatel.cz：IČO / 资本 / C 5437 / 成立；kurzy.cz：jednatelé）+ 官网 impressum（三位 jednatel；Zacios 2005 起为集团 GmbH 共同所有人）",
+   "url": "https://www.podnikatel.cz/rejstrik/schrack-technik-spol-s-r-o-15039137/",
+   "number": "IČO 15039137 · DIČ CZ15039137 · Městský soud v Praze C 5437 · datová schránka mm5zg44",
+   "status": "Aktivní",
+   "incorporated": "1991-08-27",
+   "company_type": "s.r.o. · 基本资本 16,000,000 Kč · 母公司 Schrack Technik GmbH（维也纳；集团由各国总经理 MBO 共同持有，Zacios 为股东之一）",
+   "sic": [
+    "电气 / 能源 / 网络技术批发 + **自有品牌**（Schrack 牌配电、机柜、结构化布线、网络产品含交换机 / 媒体转换器）；捷克多分店（Praha / Brno / Ostrava …）"
+   ],
+   "address": "Dolnoměcholupská 1339/2, 102 00 Praha 10 – Hostivař",
+   "accounts": "财务未取（Sbírka listin 可查）；集团全欧 ≈ 15 国子公司",
+   "accounts_due": "CZ 年报：次年 12-31 前",
+   "size_band": "中型（捷克子公司数十至百人；集团大型）",
+   "officers": [
+    "Ing. Marek ZACIOS — jednatel + ředitel（1998-09-22 起；1969 生 Brno；**2005 起集团 Schrack Technik GmbH 共同所有人**）= 拍板人",
+    "Pavel CHROUST — jednatel（2018-07-01 起）",
+    "Franz GLETTHOFER — jednatel（奥地利总部代表）",
+    "研究档收件 j.drbohlav@ / p.simek@ / j.myn…@ = 产品 / 销售经办（12 封 3 次打开 0 回）"
+   ],
+   "psc": "Schrack Technik GmbH（AT）100%；Zacios 间接持股",
+   "charges": "",
+   "prev_names": [
+    "Schrack Energietechnik spol. s r.o.（1990 年代名）"
+   ],
+   "lines": [
+    "**硬发现：Schrack Technik 是奥地利自有品牌电气 / 网络批发集团（Schrack 牌交换机 / 媒体转换器就是贴牌货），捷克总经理 Zacios 还是集团股东** → 这是 OEM 30% 的正牌对象，但选型在维也纳总部产品管理，捷克公司只卖：下一封写 Zacios 本人（他是股东，能把样品转给维也纳）：Schrack 贴牌 PoE 交换机第二货源 + 捷克语 / 德语文件 + CE / RoHS；别再发经办",
+    "集团采购节奏：目录年版 1 月出 → 选型 Q3；30 天账期对集团可谈（需 Simon 决定）；DAP 布拉格走 Saga 百运网线；CZ 周四 12–14",
+    "复查：or.justice.cz Sbírka listin 年报 12 月"
+   ],
+   "notes": "研究档 legal_name 空 → 回填；KP 加 Zacios（jednatel / 集团股东）。",
+   "fetched": "2026-10-27",
+   "code": "SB-680"
   }
  }
 }

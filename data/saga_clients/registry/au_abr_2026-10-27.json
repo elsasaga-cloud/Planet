@@ -4,7 +4,7 @@
   "source": "Australia · ABN Lookup（abr.business.gov.au，官方）",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 3
+  "count": 8
  },
  "rows": {
   "SA-024": {
@@ -112,6 +112,165 @@
    "notes": "研究档 legal_name 空 → 回填；KP 不变。",
    "fetched": "2026-10-27",
    "code": "SB-546"
+  },
+  "SB-348": {
+   "batch": 89,
+   "name": "CLOUDTRONICS PTY LTD（+ CLOUDTRONICS HOLDINGS PTY LTD）",
+   "iso": "AU",
+   "source": "AU · ABR ABN Lookup 名称检索结果表（ABN / 实体名 / 类型 / 邮编；记录提取 2026-10-27）—— 董事须 ASIC 付费，未取",
+   "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=cloudtronics",
+   "number": "ABN 46 603 072 000（CLOUDTRONICS PTY LTD；ACN 603 072 000 → 2014 年段注册）· 控股 ABN 89 692 459 537 CLOUDTRONICS HOLDINGS PTY LTD",
+   "status": "Active（两 ABN 均 Active）",
+   "incorporated": "≈2014–2015（ACN 603xxx 段；待 View 页核）",
+   "company_type": "Pty Ltd · 上有 Holdings Pty Ltd（典型澳洲小业主双层结构）；另有 support@cloudtronics.co.id 印尼分支",
+   "sic": [
+    "IT / 云 / 网络集成（悉尼北滩 Brookvale 2100 NSW）；印尼 .co.id 支持信箱 → 雅加达分部"
+   ],
+   "address": "NSW 2100（Brookvale / Dee Why，悉尼北）",
+   "accounts": "非上市 Pty Ltd 无公开账目",
+   "accounts_due": "—",
+   "size_band": "小型（估 5–20 人）",
+   "officers": [
+    "Robert NATHAN — 研究档 KP（rnathan@；职务未核；Holdings 结构 → 推定董事 / 业主）"
+   ],
+   "psc": "推定 Cloudtronics Holdings Pty Ltd → 业主",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**悉尼小型 IT / 网络集成商 + 印尼分部，双层 Pty Ltd 结构 = 老板公司**；Robert Nathan 推定业主 → 集成 25%：管理型 24 口 PoE + 10G 上联；RCM 由进口方申报（说明 CE / FCC 测试报告可用）；首单 50/50；AU 周三 08–10（北京 06–08 发）",
+    "印尼分支 = 第二落地点（雅加达项目可 DAP 雅加达走 Saga 百运网线）；留一句",
+    "复查：ABR View 页（2026-11 顺手取 ABN 生效日 / GST）"
+   ],
+   "notes": "研究档 legal_name 空 → 回填；KP Robert Nathan 角色 → 推定业主（待证）。",
+   "fetched": "2026-10-27",
+   "code": "SB-348"
+  },
+  "SB-398": {
+   "batch": 89,
+   "name": "OPTICAL SYSTEMS DESIGN PTY LTD（OSD）",
+   "iso": "AU",
+   "source": "AU · ABR ABN Lookup 名称检索结果表（ABN / 实体名 / 类型 / 邮编；记录提取 2026-10-27）—— 董事须 ASIC 付费，未取",
+   "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=optical%20systems%20design",
+   "number": "ABN 83 003 020 504（ACN 003 020 504 → 1985 年段 NSW 注册）",
+   "status": "Active",
+   "incorporated": "≈1985（ACN 003 0xx 段；官网自述 1985 创立）",
+   "company_type": "Pty Ltd（私人制造商；澳洲本土）",
+   "sic": [
+    "**光纤传输 / 工业以太网设备制造商**（视频 / 数据 / 音频光端机、工业交换机、媒体转换器；轨交 / 公用事业 / 国防客户）"
+   ],
+   "address": "NSW 2102（Warriewood，悉尼北滩）",
+   "accounts": "非上市无公开账目；官网自述 40 年",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（估 20–50 人制造商）",
+   "officers": [
+    "Nick FITZSIMMONS — 研究档 KP（nickf@；职务未核；OSD 老牌制造商 → 推定销售 / 产品经理）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**判定：OSD 是澳洲 1985 年起的光纤 / 工业以太网设备制造商（自有工业交换机线，客户含轨交 / 国防）—— 既是同行又踩守界（轨交 / 军工）** → **不追**；若将来 OSD 要商用 PoE 配套做 ODM 才有入口（不主动）；从 AU 群发剔除",
+    "留档：ABN 83 003 020 504 作同行档"
+   ],
+   "notes": "研究档 legal_name 空 → 回填；守界标记。",
+   "fetched": "2026-10-27",
+   "code": "SB-398"
+  },
+  "SB-943": {
+   "batch": 89,
+   "name": "DORANI PTY LTD（ABR 登记为 Trading Name；实体名另有）",
+   "iso": "AU",
+   "source": "AU · ABR ABN Lookup 名称检索结果表（ABN / 实体名 / 类型 / 邮编；记录提取 2026-10-27）—— 董事须 ASIC 付费，未取",
+   "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=dorani",
+   "number": "ABN 57 909 759 767（名称类型 Trading Name = DORANI PTY LTD；实体名 / 类型须 View 页）",
+   "status": "Active",
+   "incorporated": "未取",
+   "company_type": "Pty Ltd 为商号；ABN 主体可能是信托 / 旧公司（ABR 显示 Trading Name）",
+   "sic": [
+    "楼宇对讲 / 门禁 / 视频对讲品牌 Dorani（墨尔本；自有品牌进口商 + 批发给安装商）"
+   ],
+   "address": "VIC 3121（Richmond，墨尔本内城）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（自有品牌进口商；估 5–15 人）",
+   "officers": [
+    "Pete MONAGHAN — 研究档 KP（职务未核；收件 reception@ / support@ 均为公共箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Dorani 是墨尔本自有品牌对讲 / 门禁进口商（ABN 以 Trading Name 登记 = 老板用信托 / 旧壳经营）** → OEM 30%：Dorani 贴牌 4/8 口 PoE 配 IP 对讲（STI-054GP / STC-028GP），RCM 由其申报；写 Pete Monaghan 本人（不发 reception@）；100% 预付或 50/50；AU 周三 08–10",
+    "复查：ABR View 页看实体名（2026-11）"
+   ],
+   "notes": "研究档 legal_name 回填（含 ABR 类型备注）。",
+   "fetched": "2026-10-27",
+   "code": "SB-943"
+  },
+  "SB-345": {
+   "batch": 89,
+   "name": "ANDCORP ENTERPRISES PTY. LTD.（品牌 Yamasaki IoT）",
+   "iso": "AU",
+   "source": "AU · ABR ABN Lookup 名称检索结果表（ABN / 实体名 / 类型 / 邮编；记录提取 2026-10-27）—— 董事须 ASIC 付费，未取",
+   "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=andcorp",
+   "number": "ABN 93 610 329 934（ACN 610 329 934 → 2016 年段注册）",
+   "status": "Active",
+   "incorporated": "≈2016（ACN 610xxx 段）",
+   "company_type": "Pty Ltd（业主 Philip Anderson 推定，姓氏 And-corp）",
+   "sic": [
+    "网络 / IoT 产品进口分销（自有品牌 **Yamasaki** IoT：光纤 / PoE / 无线；sales@yamasakiot.com 同户）"
+   ],
+   "address": "NSW 2176（Wetherill Park，悉尼西部工业区）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（估 5–15 人）",
+   "officers": [
+    "Philip ANDERSON — 研究档 KP（panderson@；公司名 And-corp → 推定创办人 / 董事）",
+    "Gautam BOHRA — 研究档 KP（职务未核）"
+   ],
+   "psc": "推定 Philip Anderson",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Andcorp = 悉尼西区 2016 年起的网络产品进口商，自有品牌 Yamasaki IoT（含 PoE / 光纤）→ 老板 Philip Anderson 推定 = 联系人** → OEM 30%：Yamasaki 贴牌 PoE 交换机第二货源（4/8/16/24 口），RCM 其申报；写 Philip 本人；首单 50/50；AU 周三 08–10",
+    "复查：ABR View 页（2026-11）"
+   ],
+   "notes": "研究档 legal_name 空 → 回填；KP Philip Anderson 推定业主。",
+   "fetched": "2026-10-27",
+   "code": "SB-345"
+  },
+  "SB-503": {
+   "batch": 89,
+   "name": "ELPRO TECHNOLOGIES PTY LTD",
+   "iso": "AU",
+   "source": "AU · ABR ABN Lookup 名称检索（2 条匹配；ABN / 实体名 / 邮编；记录提取 2026-10-27）",
+   "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=elpro%20technologies",
+   "number": "ABN 98 634 237 933（ACN 634 237 933 → 2019 年段注册）",
+   "status": "Active",
+   "incorporated": "≈2019（ACN 634xxx；ELPRO 品牌 1990 年代起 —— 2019 实体 = 品牌从 Eaton 分拆后新设，待核）",
+   "company_type": "Pty Ltd",
+   "sic": [
+    "**工业无线 / 遥测设备制造商**（ELPRO 品牌：无线 I/O、网关、工业以太网配套；矿业 / 水务 / 石油气客户）"
+   ],
+   "address": "QLD 4014（Nundah，布里斯班北）",
+   "accounts": "非上市无公开账目",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（估 20–60 人）",
+   "officers": [
+    "Harry COURTICE — 研究档 KP（harry.courtice@elpro.com.au；职务未核）",
+    "Karen McLAUCHLAN — 研究档 KP（职务未核）"
+   ],
+   "psc": "未取（2019 新实体 → 管理层 / 私募持股可能）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**ELPRO 是布里斯班工业无线制造商（2019 年新法人 = 品牌重组后独立运营）** → 工业以太网是其无线产品的配套而非主业：OEM 30%：ELPRO 贴牌 DIN 导轨工业 PoE（STI 系列 -40～75℃、冗余 24–48 V）配其无线网关；RCM 其申报；写 Harry Courtice 问「网络配套是否本地选型」；首单 50/50；AU 周三 08–10（北京 06–08 发）",
+    "守界：矿业 / 水务 OK，若涉国防项目 PASS",
+    "复查：ABR View 页（2026-11）取 ABN 生效日"
+   ],
+   "notes": "研究档 legal_name 空 → 回填。",
+   "fetched": "2026-10-27",
+   "code": "SB-503"
   }
  }
 }

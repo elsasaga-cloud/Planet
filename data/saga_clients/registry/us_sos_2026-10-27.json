@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-27",
-  "count": 26
+  "count": 29
  },
  "rows": {
   "SA-002": {
@@ -900,6 +900,104 @@
    "notes": "研究档 KP Ken Misterka 角色回填 VP Purchasing；加 CEO Polus；legal_name 回填。",
    "fetched": "2026-10-27",
    "code": "SB-352"
+  },
+  "SB-365": {
+   "batch": 89,
+   "name": "ROBOfiber, Inc.",
+   "iso": "US",
+   "source": "US · California SoS 镜像 bizprofile（编号 3540849、2013-01-25、CEO / Director / 代理人 Radu Matei、Good standing）+ USPTO 商标 4854935（Justia）+ ZoomInfo / D&B / Datanyze",
+   "url": "https://www.bizprofile.net/ca/alamo/robofiber-inc",
+   "number": "California General Corporation 3540849（2013-01-25）",
+   "status": "Active · SoS / FTB Good standing（2025-07 快照）",
+   "incorporated": "2013-01-25",
+   "company_type": "Corporation · 一人公司（Radu Matei = CEO + Director + 注册代理人，住宅 105 Alamo Hills Ct）；经营地址为 PMB 信箱（3000F Danville Blvd PMB 300）",
+   "sic": [
+    "**自有品牌 ROBOFIBER**（USPTO 4854935，2015-11-17 注册：收发器、媒体转换器 LFC 系列、WDM、**以太网交换机 / 路由器**、FTTH 聚合器、远程管理）—— 亚洲代工 + 美国贴牌的网店型进口商；客户电信 / 数据中心 / 政府 / 教育"
+   ],
+   "address": "3000F Danville Blvd, PMB 300, Alamo, CA 94507（旧金山湾区东；信箱地址）",
+   "accounts": "私企；6 人（Datanyze）/ 1–10（ZoomInfo）；营收估 $1.3M（Datanyze）～ $6M（RocketReach）= 区间不采信",
+   "accounts_due": "CA Statement of Information 每年",
+   "size_band": "微型（≤10 人；一人公司 + 贴牌电商）",
+   "officers": [
+    "Radu MATEI — Co-Founder / CEO / Director / 注册代理人（2013 起）= 老板；研究档收件 sales@（29 封 4 次打开 0 回）→ **写 Matei 本人**"
+   ],
+   "psc": "Radu Matei（推定 100%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**ROBOfiber 是湾区一人老板的自有品牌进口商（ROBOFIBER 商标明确含以太网交换机），我们 29 封全寄 sales@** → 典型 OEM 30% 对象：写 Radu Matei（罗马尼亚裔工程师背景）：ROBOfiber 贴牌管理型 / 工业交换机第二货源，MOQ 1 箱、丝印 + 彩盒、FCC Part 15 Class A + CE；样机付费抵货款；别提他现有供应商",
+    "一人公司：100% 预付或 50/50；DAP 加州走 Saga 百运网线；US 周三 08–10（PST → 北京 00–02，用定时发送）",
+    "复查：CA SoS 状态年看一次（PMB 地址 + 一人 = 退出风险）"
+   ],
+   "notes": "研究档 legal_name 已有；KP 加 Radu Matei（CEO / owner）。",
+   "fetched": "2026-10-27",
+   "code": "SB-365"
+  },
+  "SB-094": {
+   "batch": 89,
+   "name": "Maxcom, Inc.（Fair Oaks / Orangevale, California —— **美国**，用户表国别 CA 实为加州缩写误判）",
+   "iso": "US",
+   "source": "US · 官网 about / contact + SupplierConnect 名录（地址 / 创立 2000-01 / 联系人 Bradley）+ RocketReach（CEO 2008 起、2 名员工）+ Crunchbase；州登记未取（CA SoS 镜像未命中）",
+   "url": "https://www.maxcomcorp.com/",
+   "number": "未取（California corporation 推定）",
+   "status": "Active（官网 2025-08 更新）",
+   "incorporated": "2000-01",
+   "company_type": "Inc.（一人 / 两人公司：CEO + 销售代表）",
+   "sic": [
+    "**光纤传输设备设计 / 制造**（CATV / 视频 / RF / L-band / ASI / 以太网至 10G 光端机、EDFA、编码器）—— 加州小型制造商，客户有线电视 / 广电"
+   ],
+   "address": "7996 California Ave Ste E, Fair Oaks, CA 95628（旧址 6105 Main Ave Ste 14, Orangevale CA 95662）",
+   "accounts": "私企；RocketReach 2 人（「$173M 营收」为平台垃圾值，不采信）",
+   "accounts_due": "CA Statement of Information 每年",
+   "size_band": "微型（2 人 + 外包生产）",
+   "officers": [
+    "**Steve BRADLEY — CEO（2008 起；同时任 Sonlight Communications 总裁 2009 起；前 Comcast 工程总监）= 研究档 KP steve.bradley@ → 老板 = 联系人**",
+    "Tom MAGUIRE — Sales Executive（Hickory NC）= 研究档 KP"
+   ],
+   "psc": "Steve Bradley（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**纠错：Maxcom 不在加拿大 —— 是加州 Fair Oaks 的 2 人光纤传输设备小厂，CEO Steve Bradley 就是我们写信的人（老板 = 联系人）**；他设计 / 外包生产 CATV 光端机，以太网交换机不是自产 → OEM 30%：Maxcom 贴牌 8/24 口管理型 + 工业 PoE（配广电前端机房），MOQ 1 箱；FCC Part 15 + CE；100% 预付（2 人公司）；US 周三 08–10（PST）",
+    "用户表国别 CA（加州）被当成加拿大 → 发信时区 / 证书改按美国（FCC，无 ISED）；entities 不手改，记 Q-65 待批量纠错",
+    "不再检索"
+   ],
+   "notes": "研究档 legal_name 回填 Maxcom, Inc.；hq 改加州；KP Bradley = CEO。",
+   "fetched": "2026-10-27",
+   "code": "SB-094"
+  },
+  "SB-759": {
+   "batch": 89,
+   "name": "Future Ready Solutions（Bonita Springs, Florida；法定后缀未取 —— Sunbiz ✗）",
+   "iso": "US",
+   "source": "US · 官网 about（创始人 / 总裁 Eric Bodley；2015 初正式启动）+ CB Insights（2014 成立、地址）+ ProSource 2019 / KMB 2024 新闻稿（1,500+ 经销商、InfoComm）",
+   "url": "https://futurereadysolutions.com/about-future-ready-solutions/",
+   "number": "未取（FL Sunbiz 不可抓）",
+   "status": "Active（官网 2026-10 更新）",
+   "incorporated": "2014（2015 初启动）",
+   "company_type": "私企（推定 LLC / Inc.；创始人独资）",
+   "sic": [
+    "**AV / 定制集成渠道的连接产品「代理 + 分销」混合商**：HDMI 光纤、10G 网络、光缆（品牌 Belden / Cleerline / Kordz / CTC Union / ROBOfiber / Xtreme Power …）；服务 1,500+ 住宅 / 商用集成商（CEDIA / InfoComm / ProSource / Azione 会员）"
+   ],
+   "address": "24551 Production Circle, Suite 3, Bonita Springs, FL 34135（佛州西南）",
+   "accounts": "私企；估 5–15 人",
+   "accounts_due": "FL 年报 5-01",
+   "size_band": "小型",
+   "officers": [
+    "**Eric BODLEY — Founder & President（前 PPC / Belden / Perfect Path 代理商 Bodley & Associates）= 研究档 KP eric@ → 老板 = 联系人**",
+    "Lawrence DAVIS — 研究档 KP（职务未核）"
+   ],
+   "psc": "Eric Bodley（推定 100%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板 = 联系人：Eric Bodley 是 AV 集成渠道的老代理人，公司是把 10 来个品牌卖给 1,500 家影音集成商的「代理 + 分销」平台** → 我们对他的价值不是「又一个交换机」，而是 **AV-over-IP 专用款**：2.5G / 10G 上联 PoE++（STI-288DGGPM-2BT、STC-110XGE 10G）给 8K / Dante 场景，可做 Future Ready 自有标（OEM 30%）或分销 20%；FCC Part 15 B（住宅）必备；样机付费；CEDIA 9 月 / InfoComm 6 月前 2 个月是选品窗口",
+    "他已经代理一家湾区光纤品牌（同为我方 B 档户）—— **信里绝不提**；付款首单 50/50；US 周三 08–10（EST）",
+    "不再检索"
+   ],
+   "notes": "研究档 legal_name 回填；KP Bodley = Founder & President；hq 改 Bonita Springs FL。",
+   "fetched": "2026-10-27",
+   "code": "SB-759"
   }
  }
 }
