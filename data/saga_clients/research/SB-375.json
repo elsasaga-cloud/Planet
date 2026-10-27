@@ -79,7 +79,8 @@
    "title": "CEO / Partner",
    "email": "george@dc.ge",
    "phone": "+995 577 578 811",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "CEO / Partner（US SAM 镜像 E-Business / Government POC 同名 = 核实）= **老板 = 联系人**；公司 2020-07 → 2022-07 曾注册美国 SAM（UEI J9LKEG5JR7D6 / CAGE SJFH4；NAICS 541512 + 423690 电子设备批发）= 做过美援 / 国际招标项目，之后未续（第 91 批 官方登记核实 2026-10-27）"
   },
   {
    "name": "Daviti Giorgadze",
@@ -97,11 +98,12 @@
   "level": "B 级加厚 v1（官网 + D&B + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "Delta Consulting LLC",
-  "founded": "2014",
-  "hq": "72 O. Oniashvili Str., Tbilisi 0160, Georgia",
-  "size": "约 30 人，营收约 $2M",
-  "other": "US SAM 注册（UEI J9LKEG5JR7D6）"
+  "legal_name": "DELTA CONSULTING LLC（შპს；Tbilisi；SAM UEI J9LKEG5JR7D6 / CAGE SJFH4，Expired 2022-07-14；**同名陷阱：Delta Consulting LLC Oxford MS 无关**）",
+  "founded": "2014-01-08（SAM business start）（第 91 批 官方登记核实 2026-10-27）",
+  "hq": "72 O. Oniashvili Str., Tbilisi 0160, Georgia（第 91 批 官方登记核实 2026-10-27）",
+  "size": "小型 IT 集成商（第 91 批 官方登记核实 2026-10-27）",
+  "other": "US SAM 注册（UEI J9LKEG5JR7D6）；集成 25%，管理型 24 口 + 10G 上联（招标要 L2+/L3 规格书 → Marvell 线英文规格）；**信里不提 SAM / 美援**（第 91 批 官方登记核实 2026-10-27）",
+  "staff": "小型（估 10–30 人）（第 91 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "服务器 / 网络 / 通信集成（Cisco、Dell、Juniper）",

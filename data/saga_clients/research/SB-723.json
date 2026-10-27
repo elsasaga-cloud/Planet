@@ -1,106 +1,107 @@
 {
-  "code": "SB-723",
-  "name_official": "Bilgen Elektronik（TR；无域名）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "ISAF 记录：İbrahim（Bilgen Elektronik，无邮箱/域名）——Ady 加了 WhatsApp；问了 2 光 8 电带 bypass，问了 PoE 功率；无后续跟进。仅表内信息。需求映射：2 光 8 电 bypass 工业机 Saga 无（bypass 仅 4 SFP 版 SmartByte LT-IS6312GP-4GX8GT-FBP）→ 主推非 bypass STI-288DGGPM，bypass 以 SmartByte 型号注明。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "ISAF：2 光 8 电 bypass；PoE 功率；WA 已加",
-      "quote": "Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "İbrahim（姓氏待核）",
-      "role": "（ISAF 名片）",
-      "email": "—",
-      "phone": "—（Ady WhatsApp）",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "Bilgen Elektronik（待核）",
-    "hq": "Türkiye（待核）",
-    "size": "待核",
-    "other": "仅 WhatsApp"
-  },
-  "business_lines": [
-    "电子/安防（推测）"
-  ],
-  "channels": {
-    "WhatsApp": "Ady 已加"
-  },
-  "signals": [
-    "问 bypass + PoE 功率 → 有具体工程；WhatsApp 直达"
-  ],
-  "risks": [
-    "无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 25,
-    "why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）"
-  },
-  "email_hook": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "土耳其 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；研究档 risks：无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进"
-    },
-    "situation": "ISAF 记录：İbrahim（Bilgen Elektronik，无邮箱/域名）——Ady 加了 WhatsApp；问了 2 光 8 电带 bypass，问了 PoE 功率；无后续跟进。仅表内信息。需求映射：2 光 8 电 bypass 工业机 Saga 无（bypass 仅 4 SFP 版 SmartByte LT-IS6312GP-4GX8GT-FBP）→ 主推非 bypass STI-288DGGPM，bypass 以 SmartByte 型号注明。",
-    "need": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）",
-    "breakpoint": "无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进",
-    "saga_now": {
-      "p1": "STI-288DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-      "why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：ERPS → halka yedekliliği）",
-      "one_question": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa halka yedekliliği (ring redundancy) yeterli mi?"
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-723",
+ "name_official": "Bilgen Elektronik（TR；无域名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "ISAF 记录：İbrahim（Bilgen Elektronik，无邮箱/域名）——Ady 加了 WhatsApp；问了 2 光 8 电带 bypass，问了 PoE 功率；无后续跟进。仅表内信息。需求映射：2 光 8 电 bypass 工业机 Saga 无（bypass 仅 4 SFP 版 SmartByte LT-IS6312GP-4GX8GT-FBP）→ 主推非 bypass STI-288DGGPM，bypass 以 SmartByte 型号注明。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：2 光 8 电 bypass；PoE 功率；WA 已加",
+   "quote": "Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "İbrahim（姓氏待核）",
+   "role": "推定业主（ISAF 名片；仅 WhatsApp）—— 公司法定名含「电气 / 机械」= **Gebze 工业区安防 + 电气小集成商（工厂弱电承包）** → 工业 DIN PoE + 8/16 口 PoE，分销 20%，100% 预付（第 91 批 官方登记核实 2026-10-27）",
+   "email": "—",
+   "phone": "—（Ady WhatsApp）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "BİLGEN ELEKTRONİK GÜVENLİK SİSTEMLERİ TEKNOLOJİLERİ YAZILIM ELEKTRİK MAKİNA SAN. VE TİC. LTD. ŞTİ.",
+  "hq": "Osman Yılmaz Mah. 607/1 Sok. No:21, 41400 Gebze / Kocaeli（+90 262 643 61 18）（第 91 批 官方登记核实 2026-10-27）",
+  "size": "微型 / 小型（第 91 批 官方登记核实 2026-10-27）",
+  "other": "仅 WhatsApp",
+  "staff": "微型 / 小型（估 3–10 人）（第 91 批 官方登记核实 2026-10-27）"
+ },
+ "business_lines": [
+  "电子/安防（推测）"
+ ],
+ "channels": {
+  "WhatsApp": "Ady 已加"
+ },
+ "signals": [
+  "问 bypass + PoE 功率 → 有具体工程；WhatsApp 直达"
+ ],
+ "risks": [
+  "无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）"
+ },
+ "email_hook": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；研究档 risks：无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进"
+  },
+  "situation": "ISAF 记录：İbrahim（Bilgen Elektronik，无邮箱/域名）——Ady 加了 WhatsApp；问了 2 光 8 电带 bypass，问了 PoE 功率；无后续跟进。仅表内信息。需求映射：2 光 8 电 bypass 工业机 Saga 无（bypass 仅 4 SFP 版 SmartByte LT-IS6312GP-4GX8GT-FBP）→ 主推非 bypass STI-288DGGPM，bypass 以 SmartByte 型号注明。",
+  "need": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）",
+  "breakpoint": "无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：ERPS → halka yedekliliği）",
+   "one_question": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa halka yedekliliği (ring redundancy) yeterli mi?"
+  },
+  "as_of": "2026-10-24"
+ }
 }

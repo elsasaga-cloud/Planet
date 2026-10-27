@@ -74,6 +74,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 91 批（TR · 1 次检索：LinkedIn 公司页（2016 起企业 + 个人互联网服务，11–50 人，Çerkezköy）+ D&B（法定全名；Gazi Mustafa Kemal Paşa Mah. Öztırak Cad. No:141 Çerkezköy 59500；Key Principal Ugur Simsek, Manager）+ TRNOG 社区名单（Uğur Şimşek = Netmax 代表），2026-10-27 查；https://www.linkedin.com/company/netmaxtr）：**
+
+- 法定名 / 登记号：NETMAX TELEKOMÜNİKASYON İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ（Çerkezköy / Tekirdağ；ISP） · 未取（Mersis 未命中） · 状态 **Aktif** · 成立 2016 · Limited Şirket
+- 行业码 / 经营范围：区域 ISP（有线 / 无线接入、企业专线；Tekirdağ Çerkezköy 工业区）
+- 注册地址：Gazi Mustafa Kemal Paşa Mah. Öztırak Cad. No:141, 59500 Çerkezköy / Tekirdağ
+- 规模档：小型（11–50）
+- 账目：—；—
+- 高管：Uğur ŞİMŞEK — Manager / 业主（D&B Key Principal；TRNOG 成员；研究档 ISAF 名片）= 老板 = 联系人（WhatsApp 已加）
+- 控制人 / 股东：Şimşek（推定）
+- **这意味着什么：**
+  - **ISAF 名片上的 Uğur Şimşek 就是 Netmax 的老板，而 Netmax 是切尔凯兹柯伊工业区的 ISP —— ISP 买的是接入交换机 + 给无线 CPE 供电的 PoE，不是 CCTV 套装** → WhatsApp 一页价：STI-0240GE 24 口管理型 $130、光口上联 STC-110XGE $65、室外 PoE 供电款 STI-154GP；分销 20%、CE；TR 周四 10–12
+  - 不说：不提 TRNOG
+- 备注：研究档 KP Uğur Şimşek 角色补 Manager / 业主。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -96,15 +110,17 @@ updated: 2026-10-27
 - **【用户表】ISAF：bypass；2 光 8 电 PoE 管理 $120；WA 已加**
   > Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Uğur Şimşek（（ISAF 名片；Netmax））— —（Ady WhatsApp）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Uğur Şimşek（Manager / 业主（D&B Key Principal；TRNOG 成员）= **老板 = 联系人**（WhatsApp 已加）—— 公司 = **Çerkezköy 工业区 ISP（2016 起，11–50 人）→ 要的是接入交换机 + 给无线 CPE 供电的 PoE，不是 CCTV 套装**：STI-0240GE $130 / STC-110XGE $65 / STI-154GP，分销 20%（第 91 批 官方登记核实 2026-10-27））— —（Ady WhatsApp）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Netmax（待核；土耳其同名公司多，需从名片核实） |
-| 总部/地址 | Türkiye（待核） |
+| 法定名称 | NETMAX TELEKOMÜNİKASYON İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ（Mersis 未命中） |
+| 成立 | 2016（LinkedIn）（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Gazi Mustafa Kemal Paşa Mah. Öztırak Cad. No:141, 59500 Çerkezköy / Tekirdağ（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 11–50（LinkedIn）（第 91 批 官方登记核实 2026-10-27） |
 | 其他 | WhatsApp 已加 |
 
 - **业务线**：网络/安防工程或分销（推测）
@@ -133,7 +149,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Uğur Şimşek | （ISAF 名片；Netmax） | — / —（Ady WhatsApp） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Uğur Şimşek | Manager / 业主（D&B Key Principal；TRNOG 成员）= **老板 = 联系人**（WhatsApp 已加）—— 公司 = **Çerkezköy 工业区 ISP（2016 起，11–50 人）→ 要的是接入交换机 + 给无线 CPE 供电的 PoE，不是 CCTV 套装**：STI-0240GE $130 / STC-110XGE $65 / STI-154GP，分销 20%（第 91 批 官方登记核实 2026-10-27） | — / —（Ady WhatsApp） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Ugur Simsek Netmax | — | +905325710885 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；无邮箱：只能电话 / WhatsApp / 官网表单

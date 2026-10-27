@@ -84,6 +84,21 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 91 批（PL · 1 次检索：lanberg.eu privacy / regulamin（管理人 Impakt S.A.，ul. Stanisława Lema 16, 62-050 Mosina，KRS 0000585900，NIP 7831720485，REGON 360441981，**股本 60,761,002 zł**）+ impakt.com.pl about + LinkedIn Lanberg showcase（品牌 2015 创立，2017 Impakt S.A. 签许可并取得 Lanberg 品牌权；51–200 人）+ 零售商产品页「producent / podmiot odpowiedzialny = IMPAKT SPÓŁKA AKCYJNA」，2026-10-27 查；https://en.impakt.com.pl/about）：**
+
+- 法定名 / 登记号：IMPAKT S.A.（品牌 Lanberg；Mosina / Poznań） · KRS 0000585900 · NIP 7831720485 · REGON 360441981 · 状态 **Aktywna** · 成立 2015（S.A. 登记 2015-10；Impakt 集团更早，同址 Impakt sp. z o.o. KRS 0000143241 = 物业壳） · Spółka akcyjna（股本 60.76M zł）
+- 行业码 / 经营范围：IT 配件 / 网络产品 **自有品牌制造商 + 分销商**：Lanberg（机柜 / 跳线 / PDU / 网络配件 / 交换机）、Natec、Genesis 等；波兰 + 欧盟零售 / B2B 渠道
+- 注册地址：ul. Stanisława Lema 16, 62-050 Mosina（波兹南南）
+- 规模档：大型（Lanberg 品牌页 51–200；Impakt 集团数百人）
+- 账目：KRS 年报可取（未取）；股本 60.76M zł = 大型；PL 年报 7 月
+- 高管：Zarząd 未取（KRS 付费 / rejestr.io 下轮）；研究档无 KP（lanberg.pl 域）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **硬发现：lanberg.pl 不是小店 —— Lanberg 是 Impakt S.A.（股本 6,076 万 zł 的波兰 IT 配件集团）的自有品牌，产品线里本来就有交换机 = 《背景信息》第一序列 OEM 品牌商** → 写 Lanberg product manager（Impakt 采购）：OEM 30% Lanberg 标 PoE 4/8/16/24 + 2.5G，彩盒 $2.5/套、CE/RoHS/REACH 文件齐、EU 代表由他们；先 2 台付费样机；PL 周四 12–14
+  - 不说：不提其现有 ODM；不提 Natec / Genesis
+  - 复查：rejestr.io 取 zarząd + 2025 年报营收
+- 备注：研究档 KP 空；国别 PL 不变。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,8 +131,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 lanberg.pl，语言 ?，快照状态 http_error；角色判定来源：用户表 |
+| 法定名称 | IMPAKT S.A.（Lanberg 品牌权人；KRS 0000585900，NIP 7831720485，REGON 360441981，**股本 60,761,002 zł**） |
+| 成立 | 品牌 Lanberg 2015；Impakt S.A. 2015-10 登记（集团更早）（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | ul. Stanisława Lema 16, 62-050 Mosina（波兹南南）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | Lanberg 品牌页 51–200；Impakt 集团数百人（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 lanberg.pl，语言 ?，快照状态 http_error；角色判定来源：用户表；**lanberg.pl 不是小店 —— Lanberg 产品线本就含交换机 = OEM 品牌商首选 → 写 Lanberg product manager（Impakt 采购）OEM 30%**；zarząd 待 rejestr.io 补（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：IT 配件 / 网络产品（品牌 Lanberg）
 - **触达通道（公开）**：role: 波兰 IT 配件品牌商（Lanberg，OEM 采购；体量较大）；region: 波兰；contact: support@lanberg.pl、export@lanberg.pl

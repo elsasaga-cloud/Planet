@@ -86,6 +86,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 91 批（AE · 1 次检索：LinkedIn 公司页（2012 成立，11–50 人，Ajman；自称电信产品制造商：无线传输 / 高功率 PoE / CCTV 杆 / UPS / 定制机箱；Made in UAE）+ YouTube 频道（TRA（TDRA）核准制造商；piyush@ / info@onnettechnologies.com）+ SignalHire（+971 6 748 0204；Shed 1, Street 80-81 Junction, Ajman Industrial Area 1；营收估 $1–10M）+ contactout / RocketReach（Director Dipali PACHCHIGAR；BD Director Piyush S. Shah）+ LinkedIn Saurabh Pachchigar（设计 / 制造负责人）；UAE 登记不公开，2026-10-27 查；https://ae.linkedin.com/company/otaillc）：**
+
+- 法定名 / 登记号：ONNET TECHNOLOGIES & INNOVATIONS LLC（OTAI；Ajman Industrial Area 1） · Ajman 执照号未取 · 状态 **Active** · 成立 2012 · LLC（Pachchigar 家族；印裔）
+- 行业码 / 经营范围：电信 / 安防周边制造（高功率 PoE 供电、无线、CCTV 杆 / 智慧杆、UPS、机箱；FCC ID 2ADPY 研究档）= **OEM 品牌商（配套交换机可贴 OTAI 标）**
+- 注册地址：Shed 1 & 2, Street 80-81 Junction, Ajman Industrial Area 1, Ajman（PO Box 23170）
+- 规模档：小型（6–50 人；$1–10M 估）
+- 账目：—；—
+- 高管：Saurabh PACHCHIGAR — 研究档 KP saurabh@（设计 / 制造负责人；推定业主之一）= 技术拍板
+- 高管：Dipali PACHCHIGAR — Director（contactout / RocketReach）= 法定代表 / 家族
+- 高管：Piyush S. SHAH — Director Business Development（研究档 KP piyush@；PMP，31 年经验）= 商务联系人
+- 控制人 / 股东：Pachchigar 家族（推定）
+- **这意味着什么：**
+  - **阿治曼的印裔家族小制造商（OTAI 品牌：高功率 PoE 供电 / 智慧杆 / 机箱），已有 FCC ID 和 TDRA 核准 = 懂认证的 OEM 品牌商** → 写 Saurabh 抄 Piyush：OEM 30% OTAI 标工业 PoE（STI-054GP / STI-154GP / 288DGGPM-2BT bt 口配其高功率杆件）+ 室外机箱内 DIN 款；CE/RoHS 文件 + 测试报告；MOQ 20 台 / 型号；AE 周日–周四 10–12
+  - 不说：不提家族关系
+- 备注：研究档 KP 角色补；新增 Dipali Pachchigar。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,8 +141,9 @@ updated: 2026-10-27
 - **【用户表】老说价格高、了解中国市场价、与中国供应商长期合作；2025-04 Bypass→用常见的几个型号**
   > 兴趣：老说价格高 比较了解中国市场价 和中国供应商长期合作；回复：用常见的几个型号
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Saurabh（）saurabh@onnettechnologies.com +971 50 559 4409〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Saurabh Pachchigar（）saurabh@onnettechnologies.com +971 50 559 4409〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Piyush S. Shah（）piyush@onnettechnologies.com +971 50 184 2443〔https://www.linkedin.com/in/piyushsshah/〕
+- **KP**：Dipali Pachchigar（Director（contactout / RocketReach）= 法定代表 / 家族（第 91 批 官方登记核实 2026-10-27）） 〔https://ae.linkedin.com/company/otaillc〕
 - **调研后定级**：B（原自动 A）——纯价格导向且已有中国直采渠道，Saga 贸易商加价结构无优势；中东非主攻区 → 慢跟。
 - 备注：只在有尾货/促销时触达；不做长期投入。
 
@@ -134,9 +151,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Onnet Technologies and Innovations LLC |
-| 成立 | 2012 |
-| 总部/地址 | Shed 1&2, Street 80-81, Ajman Industrial Area 1, Ajman, UAE（PO Box 23170） |
+| 法定名称 | ONNET TECHNOLOGIES & INNOVATIONS LLC（OTAI；Ajman 执照号未取） |
+| 成立 | 2012（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Shed 1 & 2, Street 80-81 Junction, Ajman Industrial Area 1（PO Box 23170；+971 6 748 0204）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 6–50（contactout 6 / LinkedIn 11–50）；营收估 $1–10M（量级）（第 91 批 官方登记核实 2026-10-27） |
 | 其他 | TDRA 认证；Hikvision TPP 方案伙伴；FCC ID 2ADPY |
 
 - **业务线**：运营商级长距无线（自有品牌）；大功率工业 PoE 交换机 / PoE 延长器 / Magic Box（OEM 采购 + 集成）；室外 UPS / 太阳能供电；CCTV 杆 / 智慧灯杆 / 通信机柜
@@ -209,8 +227,10 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Saurabh | — | saurabh@onnettechnologies.com / +971 50 559 4409 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Saurabh Pachchigar | — | saurabh@onnettechnologies.com / +971 50 559 4409 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Piyush S. Shah | — | piyush@onnettechnologies.com / +971 50 184 2443 | 调研核实（公开页） | https://www.linkedin.com/in/piyushsshah/ |
+| Dipali Pachchigar | Director（contactout / RocketReach）= 法定代表 / 家族（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://ae.linkedin.com/company/otaillc |
+| Saurabh | — | saurabh@onnettechnologies.com / +971505594409 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

@@ -2198,7 +2198,7 @@
    "p1": "STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯",
    "tier": 20,
    "signals": 3,
-   "kp": 2,
+   "kp": 4,
    "summary": true
   },
   "SB-007": {
@@ -2352,7 +2352,7 @@
    "p1": "STC-28GPM",
    "tier": 25,
    "signals": 2,
-   "kp": 1,
+   "kp": 3,
    "summary": true
   },
   "SB-014": {
@@ -3232,7 +3232,7 @@
    "p1": "（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给",
    "tier": 30,
    "signals": 3,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-054": {
@@ -9304,7 +9304,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 4,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-190": {
@@ -10228,7 +10228,7 @@
    "p1": "STI-111GP",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-232": {
@@ -10492,7 +10492,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-244": {
@@ -15046,7 +15046,7 @@
    "p1": "STC-424DGGPM-280W",
    "tier": 25,
    "signals": 1,
-   "kp": 1,
+   "kp": 3,
    "summary": true
   },
   "SB-451": {
@@ -20370,7 +20370,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-693": {
@@ -20854,7 +20854,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-715": {
@@ -23340,7 +23340,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 3,
-   "kp": 3,
+   "kp": 5,
    "summary": true
   },
   "SB-828": {
@@ -26860,7 +26860,7 @@
    "p1": "STI-288GPM",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-988": {

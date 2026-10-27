@@ -96,6 +96,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 91 批（IN · 1 次检索：zaubacorp（CIN U74899DL1994PTC061633，1994-09-20 成立，ROC Delhi，授权 ₹1 cr / 实缴 ₹51 lakh；在任董事 ANIL MITTAL DIN 00117877（2004-09-20 起）、SURESH KUMAR MITTAL DIN 08429051（2021-06-24 起）、MANAV MITTAL DIN 08586626（2023-05-02 起）；前董事 Renu Mittal（2005–2013）、Rahul Swarup、Dharmender Bansal、Arvind Kumar Goel（2012–2023）；姊妹公司 **GOIP GLOBAL SOLUTIONS PRIVATE LIMITED** CIN U72900DL2008PTC173861（Anil + Renu + Suresh + Manav Mittal 同董事））+ tracxn 同，2026-10-27 查；https://www.zaubacorp.com/company/GO-IP-GLOBAL-SERVICES-PRIVATE-LIMITED/U74899DL1994PTC061633）：**
+
+- 法定名 / 登记号：GO IP GLOBAL SERVICES PRIVATE LIMITED（GoIP；Noida Sector 63） · CIN U74899DL1994PTC061633（姊妹 U72900DL2008PTC173861） · 状态 **Active** · 成立 1994-09-20 · Private Limited（实缴 ₹51 lakh；Mittal 家族）
+- 行业码 / 经营范围：IP 电话 / 网络产品自有品牌（GoIP）+ 印度本土组装（Make in India）+ 分销 = **OEM 品牌商**
+- 注册地址：Noida Sector 63, UP（研究档）；ROC Delhi
+- 规模档：中小型（估 50–150 人）
+- 账目：MCA 年报可取（未取）；IN 09-30
+- 高管：Anil MITTAL — Director（2004 起）= 实控家族长
+- 高管：Manav MITTAL — Director（2023-05 起）= 二代
+- 高管：Suresh Kumar MITTAL — Director（2021 起）
+- 高管：Pankaj SODHI — CEO（研究档 KP，2026-04 在信）；Akshat PANDEY — BD（研究档 KP）
+- 控制人 / 股东：Mittal 家族（Anil / Renu / Manav）
+- **这意味着什么：**
+  - **Mittal 家族自有品牌 GoIP（1994 年老公司 + 2008 姊妹公司），CEO Pankaj Sodhi 是职业经理人、拍板在 Anil / Manav Mittal** → 写 Pankaj 抄 Akshat、信里请其转采购决策人：OEM 30% GoIP 标 PoE 8/16/24 + 2.5G，BIS 由他们（我方提供 CE/RoHS + 测试报告），SKD / 整机两档；IN 北京 13–15；避开 Diwali
+  - 不说：不提家族 / 姊妹公司
+- 备注：研究档 KP 已有 Sodhi / Pandey；新增 Mittal ×2。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -145,15 +162,18 @@ updated: 2026-10-27
 - **KP**：Akshat Pandey（）akshat.pandey@goip.in +91 89202 45569〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Naman Gupta（）naman.gupta@goip.in +91 98702 95096〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Pankaj Sodhi（）pankaj.sodhi@goip.in WhatsApp +91-98189 89801（2024-10-24 他自己给的）；Skype pankaj.sodhi〔S 邮箱 2024-10-24 来信「Kindly share Price… I am on WhatsApp at +91-9818989801」〕
+- **KP**：Anil Mittal（Director（DIN 00117877，2004-09-20 起）= 实控家族长；姊妹公司 GOIP GLOBAL SOLUTIONS PVT LTD（CIN U72900DL2008PTC173861）同董事（第 91 批 官方登记核实 2026-10-27）） 〔https://www.zaubacorp.com/company/GO-IP-GLOBAL-SERVICES-PRIVATE-LIMITED/U74899DL1994PTC061633〕
+- **KP**：Manav Mittal（Director（DIN 08586626，2023-05-02 起）= 二代（抄送候选）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.zaubacorp.com/company/GO-IP-GLOBAL-SERVICES-PRIVATE-LIMITED/U74899DL1994PTC061633〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + CRISIL 核对：品牌商 OEM，A 候选））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | GO IP Global Services Private Limited |
-| 成立 | 1994（Syrotech 品牌 2014） |
-| 总部/地址 | D-206, Sector 63, Noida, Uttar Pradesh, India |
+| 法定名称 | GO IP GLOBAL SERVICES PRIVATE LIMITED（CIN U74899DL1994PTC061633；实缴 ₹51 lakh） |
+| 成立 | 1994-09-20（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Noida Sector 63, UP（ROC Delhi）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 中小型（估 50–150 人）（第 91 批 官方登记核实 2026-10-27） |
 | 其他 | CRISIL 评级；Make in India 组装 |
 
 - **业务线**：FTTx（OLT/ONT）与光模块（自有品牌）；PoE / L2+ 交换机、工业交换机（贴牌采购）；无线、CCTV、门禁道闸
@@ -264,6 +284,8 @@ updated: 2026-10-27
 | Akshat Pandey | — | akshat.pandey@goip.in / +91 89202 45569 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Naman Gupta | — | naman.gupta@goip.in / +91 98702 95096 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Pankaj Sodhi | — | pankaj.sodhi@goip.in / WhatsApp +91-98189 89801（2024-10-24 他自己给的）；Skype pankaj.sodhi | 调研核实（公开页） | S 邮箱 2024-10-24 来信「Kindly share Price… I am on WhatsApp at +91-9818989801」 |
+| Anil Mittal | Director（DIN 00117877，2004-09-20 起）= 实控家族长；姊妹公司 GOIP GLOBAL SOLUTIONS PVT LTD（CIN U72900DL2008PTC173861）同董事（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.zaubacorp.com/company/GO-IP-GLOBAL-SERVICES-PRIVATE-LIMITED/U74899DL1994PTC061633 |
+| Manav Mittal | Director（DIN 08586626，2023-05-02 起）= 二代（抄送候选）（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.zaubacorp.com/company/GO-IP-GLOBAL-SERVICES-PRIVATE-LIMITED/U74899DL1994PTC061633 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

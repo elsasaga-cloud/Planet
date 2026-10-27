@@ -79,6 +79,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 91 批（AE · 1 次检索：greentechme.net 首页 / about（法定名 **Green Technical LLC**，P.O. Box 22511 Ajman + P.O. Box 238376 Dubai，sales@greentechme.net；首页主推 PoE 媒体转换器 / PoE 延长器 NEPX101/201 / PoE 中继 NEPR-111 = 自有型号 PoE 配件 + 网络 / 安防安装供货）；**同名陷阱**：GreenTech Inspiring Environment（greentech.ae 清洁能源）/ Greentech Middle East（巴林环境监测）/ greentech-ae.com（工业自动化）均非本户；UAE 登记（Ajman DED）不公开，2026-10-27 查；https://greentechme.net/）：**
+
+- 法定名 / 登记号：GREEN TECHNICAL LLC（greentechme.net；Ajman / Dubai, UAE） · 未取（Ajman 执照不公开） · 状态 **Active（官网在用）** · 成立 未取 · LLC
+- 行业码 / 经营范围：IT 网络 + 安防安装供货商；自有型号 PoE 配件（延长器 / 中继 / 媒转）= 小型 OEM 品牌 + 项目供货
+- 注册地址：P.O. Box 22511, Ajman；P.O. Box 238376, Dubai（UAE）
+- 规模档：微型 / 小型（估 3–10 人）
+- 账目：—；—
+- 高管：Shaji — 研究档 KP（WhatsApp 下单人；推定业主 / 采购主管）
+- **这意味着什么：**
+  - **已成交 2 单（研究档）；官网自有型号 PoE 配件 = 他们已经在贴牌卖配件，交换机也可贴** → WhatsApp 给 Shaji：OEM 30% 自有标 PoE 4/8/16 + 延续已买型号的复购价（按 ㉕ 用上次成交价）；彩盒 $2.5/套从 200 起；T/T 50/50；AE 周日–周四 10–12 当地
+  - 不说：不提同名公司
+- 备注：研究档 KP Shaji 角色补；law 名 Green Technical LLC 入 facts。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,15 +129,16 @@ updated: 2026-10-27
 - **【用户表】成交 2 次；工业 PoE 配件；WA 已加**
   > 工业POE配件 / 971 55 572 1640 已加 / 成单客户
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Shaji（邮箱前缀；全名待核）（用户表联系人（WhatsApp 为主通道））shaji@greentechme.net 〔用户表 / entities 邮箱〕
+- **KP**：Shaji（邮箱前缀；全名待核）（WhatsApp 下单人（已成交 2 单；推定业主 / 采购主管）—— 公司法定名 **Green Technical LLC**（Ajman + Dubai 信箱），官网自有型号 PoE 配件（NEPX101/201 延长器、NEPR-111 中继、PoE 媒转）= **已在贴牌卖配件 → 交换机也可贴：OEM 30% + 按 ㉕ 用上次成交价续**（第 91 批 官方登记核实 2026-10-27））shaji@greentechme.net 〔用户表 / entities 邮箱〕
 - **调研后定级**：B（原自动 A）——实体未核实且零互动；即便同一公司，主业为太阳能，工业 PoE 为项目配套。B 慢跟。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射；主体未核））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （greentechme.net 主体未核；与 greentechme.com 太阳能公司是否同一实体不能确认） |
-| 总部/地址 | UAE（+971 55 572 1640，已加 WA） |
+| 法定名称 | Green Technical LLC（greentechme.net；Ajman DED 执照不公开；**同名陷阱：greentech.ae / greentech-ae.com / Greentech Middle East 巴林 均非本户**） |
+| 总部/地址 | P.O. Box 22511, Ajman；P.O. Box 238376, Dubai（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 微型 / 小型（估 3–10 人）（第 91 批 官方登记核实 2026-10-27） |
 | 其他 | 成交 2 次；无邮件回复 |
 
 - **业务线**：（待核）太阳能/离网项目 + 网络配套
@@ -180,7 +194,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Shaji（邮箱前缀；全名待核） | 用户表联系人（WhatsApp 为主通道） | shaji@greentechme.net | 调研核实（公开页） | 用户表 / entities 邮箱 |
+| Shaji（邮箱前缀；全名待核） | WhatsApp 下单人（已成交 2 单；推定业主 / 采购主管）—— 公司法定名 **Green Technical LLC**（Ajman + Dubai 信箱），官网自有型号 PoE 配件（NEPX101/201 延长器、NEPR-111 中继、PoE 媒转）= **已在贴牌卖配件 → 交换机也可贴：OEM 30% + 按 ㉕ 用上次成交价续**（第 91 批 官方登记核实 2026-10-27） | shaji@greentechme.net | 调研核实（公开页） | 用户表 / entities 邮箱 |
 | Shaji Mohamed | — | shaji@greentechme.net / +971555721640 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

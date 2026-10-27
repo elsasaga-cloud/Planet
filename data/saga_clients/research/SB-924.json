@@ -1,256 +1,260 @@
 {
-  "code": "SB-924",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（intracom-telecom.com，快照 2026-10-21）",
-  "summary": "Intracom Telecom（希腊电信系统厂商；本条目为 Intracom Middle East FZ-LLC，迪拜 Internet City；无线接入 WiBAS、光纤、关键基础设施安防、AI 运营方案；表内「Telecom / PoE Switch」；KP Roberto Grassi（Procurement Manager，rgrassi@）、Sergio Kodama（Senior Director BD）、Mohammad Yaacoub（Projects Manager））；表内无跟进记录。",
-  "type": "电信系统厂商中东项目公司（项目采购 PoE，体量大）",
-  "size": "",
-  "brands_seen": [
-    "Ubiquiti"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Intracom Telecom - Intracom Telecom；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换",
-      "quote": "Beyond Fiber. Without Limits.；Innovative Solutions for a connected world!；WiBAS™ G5 MDUConnect；Securing Critical Missions & Infrastructure；AI-powered solutions to optimize operations；Accelerating BEAD Broadband Deployments",
-      "url": "https://intracom-telecom.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "Telecom；POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE；971 50 65 45766 手机 971 4 362 5660 电话",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Intracom Telecom - Intracom Telecom；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Beyond Fiber. Without Limits.；Innovative Solutions for a connected world!；WiBAS™ G5 MDUConnect；Securing Critical Missions & Infrastructure；AI-powered solutions to optimize operations；Accelerating BEAD Broadband Deployments",
-      "url": "https://intracom-telecom.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Intracom Telecom 首页",
-      "quote": "Intracom Telecom ; Beyond Fiber. Without Limits. ; Innovative Solutions for a connected world! ; WiBAS™ G5 MDUConnect ; Securing Critical Missions & Infrastructure",
-      "url": "https://intracom-telecom.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Telecom / PoE Switch；迪拜地址",
-      "quote": "Telecom / POE Switch；公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Roberto Grassi",
-      "title": "Procurement Manager",
-      "email": "rgrassi@intracom-telecom.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Sergio Kodama",
-      "title": "Senior Director BD",
-      "email": "skodama@intracom-telecom.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Mohammad Yaacoub",
-      "title": "Projects Manager",
-      "email": "mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07）",
-      "phone": "+971 50 654 5766（2024-10-09 签名 m:）",
-      "source": "S 邮箱来信表头"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-924",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（intracom-telecom.com，快照 2026-10-21）",
+ "summary": "Intracom Telecom（希腊电信系统厂商；本条目为 Intracom Middle East FZ-LLC，迪拜 Internet City；无线接入 WiBAS、光纤、关键基础设施安防、AI 运营方案；表内「Telecom / PoE Switch」；KP Roberto Grassi（Procurement Manager，rgrassi@）、Sergio Kodama（Senior Director BD）、Mohammad Yaacoub（Projects Manager））；表内无跟进记录。",
+ "type": "电信系统厂商中东项目公司（项目采购 PoE，体量大）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Intracom Telecom - Intracom Telecom；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换",
+   "quote": "Beyond Fiber. Without Limits.；Innovative Solutions for a connected world!；WiBAS™ G5 MDUConnect；Securing Critical Missions & Infrastructure；AI-powered solutions to optimize operations；Accelerating BEAD Broadband Deployments",
+   "url": "https://intracom-telecom.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "希腊",
-    "other": "官网 intracom-telecom.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Telecom；POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE；971 50 65 45766 手机 971 4 362 5660 电话",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "电信系统（无线接入 / 光纤 / ICT 项目）"
-  ],
-  "channels": {
-    "role": "电信系统厂商中东项目公司（项目采购 PoE，体量大）",
-    "region": "阿联酋",
-    "contact": "rgrassi@intracom-telecom.com、skodama@intracom-telecom.com"
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Intracom Telecom - Intracom Telecom；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Beyond Fiber. Without Limits.；Innovative Solutions for a connected world!；WiBAS™ G5 MDUConnect；Securing Critical Missions & Infrastructure；AI-powered solutions to optimize operations；Accelerating BEAD Broadband Deployments",
+   "url": "https://intracom-telecom.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页：Beyond Fiber. Without Limits. ; WiBAS™ G5 MDUConnect ; Securing Critical Missions & Infrastructure；页面 /corporate/certificates/defense_industrial_security/",
-    "表内：Telecom / PoE Switch；公司地址 P.O. Box 500517, Dubai Internet City, Bldg.3, Office 204, Dubai, UAE；KP Roberto Grassi / Procurement Manager；Sergio Kodama / Senior Director BD；Mohammad Yaacoub / Projects Manager"
-  ],
-  "risks": [
-    "体量大（集团 1,000+ 人，供应商准入流程长）；守界备注：站内国防工业安全证书/关键任务项目不涉，只供通用接入交换机",
-    "国别更正：表内「希腊」为集团总部，本条目为迪拜公司（用户表地址）→ 阿联酋；无跟进记录"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "项目配套 PoE（表内兴趣）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 口 STC-424XGGPM-280W（$180）作中东项目接入层；国防/关键基础设施项目不涉"
+  {
+   "kind": "官网快照",
+   "claim": "Intracom Telecom 首页",
+   "quote": "Intracom Telecom ; Beyond Fiber. Without Limits. ; Innovative Solutions for a connected world! ; WiBAS™ G5 MDUConnect ; Securing Critical Missions & Infrastructure",
+   "url": "https://intracom-telecom.com/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Roberto, for the PoE access switches your Middle East projects source alongside WiBAS and fibre deployments, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4×10G L2+ units from small lots, CE/RoHS, neutral packing, EXW USD — which port count do your current project BOMs call for most?",
-  "country_fix": "阿联酋",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（2024-10-09 Mohammad Yaacoub（Wireless Network Systems）：「Before we request for a sample, I would like to understand the price level」→ $34 STI-222GP → Simon 10-15 追问样品 → 无回；之后群发无回）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my 9 轮 2025-04-11→2026-09-08；本户在 Bcc；主题 Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 全程 complete：命中 9 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
-      "type": "希腊电信系统商中东项目公司（Intracom Middle East；项目采购 PoE，体量大）——第二档项目型",
-      "sieve": "2→3（问价后未要样）",
-      "stop": "$34 的价没有触发样品——可能项目已过或价格不是问题；没有追问项目",
-      "revive": "一句话问当时的无线回传项目",
-      "lane": "AE 非主攻（但 Intracom 体量大）",
-      "cadence": "一封",
-      "evidence": "k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
-    },
-    "situation": "—",
-    "need": "工业 PoE 小型款（无线回传站点）。",
-    "breakpoint": "无闭环。",
-    "saga_now": {
-      "p1": "STI-222GP",
-      "tier": 25,
-      "price": "再触锚价 STI-222GP $34（沿用 2024-10 对他的实报，规则㉕ 自报优先；第 72 批 2026-10-24）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
-      "why": "项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "S 邮箱 → mohammad.yaacoub@intracom-telecom.com",
-      "action": "首封前知悉：Elsa 群发 BCC 已触达 9 轮（2025-04-11→2026-09-08，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；问项目",
-      "one_question": "Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027? Reference: STI-222GP at $34 USD EXW (as quoted Oct-2024; MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2023-07-01",
-        "dir": "备",
-        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
-        "quote": "名单行：「23 Intracom Middle East FZ-LLC Mohammad Yaacoub Projects Manager Mitec 2023 POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE mohammad.yaacoub@intracom-telecom.com 971 50 654 5766 手机」",
-        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
-        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
-      },
-      {
-        "date": "2024-08-07",
-        "dir": "来",
-        "who": "myaacoub@intracom-telecom.com",
-        "quote": "Dear Sender, I am on annual leave with limited access to my emails, for any urgent matters contact me on my mobile. Best Regards, Mohammad Yaacoub +97",
-        "why": "来信原文（主题「Re: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "7ae3b3c443b92c6f"
-      },
-      {
-        "date": "2024-10-09",
-        "dir": "来",
-        "who": "Mohammad Yaacoub",
-        "quote": "Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch.",
-        "why": "价格先行",
-        "k": "d05d6d8f07683799"
-      },
-      {
-        "date": "2024-10-09",
-        "dir": "去",
-        "who": "Saga（Simon）",
-        "quote": "Hi, Yaacoub, Thanks for your interest. Please see attached datasheet of this model. Price: 34usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, POE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial T",
-        "why": "历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 34usd",
-        "k": "815888411fd50a1b"
-      },
-      {
-        "date": "2025-04-11",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19623a5f07b9a5bf"
-      },
-      {
-        "date": "2025-05-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19699a96e93d4ea9"
-      },
-      {
-        "date": "2025-06-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1973f4fbd2176398"
-      },
-      {
-        "date": "2025-07-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "197d44f5b17bb6b9"
-      },
-      {
-        "date": "2025-10-06",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "199b7cd286b8997d"
-      },
-      {
-        "date": "2025-11-20",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19a9f3c99302ff20"
-      },
-      {
-        "date": "2026-02-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19c2c14168a821f5"
-      },
-      {
-        "date": "2026-04-29",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19dd7f65aff0636e"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1a07fb58f139416e"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "Re: Industrial poe switch",
-      "body": "Hi Mohammad,\n\nPicking up your note of 2024-10-09 (\"Before we request for a sample, I would like to understand from you what is the price level for the below kind…\"). Instead of another catalog mail, one question:\n\nWas the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?\n\nReference price: STI-222GP (2× GE PoE + 2× SFP, DIN-rail) at $34 USD EXW as quoted in October 2024, MOQ 1 pc, 15-day validity.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Telecom / PoE Switch；迪拜地址",
+   "quote": "Telecom / POE Switch；公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Roberto Grassi",
+   "title": "Procurement Manager（Intracom Telecom 希腊总部）= **正式采购口 = 写他**：集成 25%，24/48 口管理型 + 10G 上联英文规格 + CE/RoHS，随附供应商注册资料（VAT / 银行 / ISO 9001 厂证）；不主动追（第 91 批 官方登记核实 2026-10-27）",
+   "email": "rgrassi@intracom-telecom.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Sergio Kodama",
+   "title": "Senior Director BD",
+   "email": "skodama@intracom-telecom.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Mohammad Yaacoub",
+   "title": "Projects Manager（中东项目；2024-08 / 2024-10 来信）= 抄送（第 91 批 官方登记核实 2026-10-27）",
+   "email": "mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07）",
+   "phone": "+971 50 654 5766（2024-10-09 签名 m:）",
+   "source": "S 邮箱来信表头"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "19.7 km Markopoulou Ave., Paiania 19002, Greece（FZE: Dubai）（第 91 批 官方登记核实 2026-10-27）",
+  "other": "官网 intracom-telecom.com，语言 en，快照状态 ok；角色判定来源：用户表；**信里不提瑞士投资人 / 裁员**；国别保持 GR（第 91 批 官方登记核实 2026-10-27）",
+  "legal_name": "INTRACOM TELECOM（Paiania, Greece）；唯一股东 INTRACOM MIDDLE EAST FZE（Dubai，2015-01 起；瑞士投资人全资）",
+  "founded": "1977（Intracom Telecom）；FZE 控股 2014–2015（第 91 批 官方登记核实 2026-10-27）",
+  "staff": "1,071（tracxn 2026-05）← 约 1,600（2024-07 官方）= 收缩期（第 91 批 官方登记核实 2026-10-27）",
+  "size": "大型电信系统厂商（无线回传 / FTTx / 智慧城市 / 系统集成）= 同行 + 项目集成双重身份（第 91 批 官方登记核实 2026-10-27）"
+ },
+ "business_lines": [
+  "电信系统（无线接入 / 光纤 / ICT 项目）"
+ ],
+ "channels": {
+  "role": "电信系统厂商中东项目公司（项目采购 PoE，体量大）",
+  "region": "阿联酋",
+  "contact": "rgrassi@intracom-telecom.com、skodama@intracom-telecom.com"
+ },
+ "signals": [
+  "首页：Beyond Fiber. Without Limits. ; WiBAS™ G5 MDUConnect ; Securing Critical Missions & Infrastructure；页面 /corporate/certificates/defense_industrial_security/",
+  "表内：Telecom / PoE Switch；公司地址 P.O. Box 500517, Dubai Internet City, Bldg.3, Office 204, Dubai, UAE；KP Roberto Grassi / Procurement Manager；Sergio Kodama / Senior Director BD；Mohammad Yaacoub / Projects Manager"
+ ],
+ "risks": [
+  "体量大（集团 1,000+ 人，供应商准入流程长）；守界备注：站内国防工业安全证书/关键任务项目不涉，只供通用接入交换机",
+  "国别更正：表内「希腊」为集团总部，本条目为迪拜公司（用户表地址）→ 阿联酋；无跟进记录"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "项目配套 PoE（表内兴趣）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 口 STC-424XGGPM-280W（$180）作中东项目接入层；国防/关键基础设施项目不涉"
+ },
+ "email_hook": "Roberto, for the PoE access switches your Middle East projects source alongside WiBAS and fibre deployments, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4×10G L2+ units from small lots, CE/RoHS, neutral packing, EXW USD — which port count do your current project BOMs call for most?",
+ "country_fix": "阿联酋",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-10-09 Mohammad Yaacoub（Wireless Network Systems）：「Before we request for a sample, I would like to understand the price level」→ $34 STI-222GP → Simon 10-15 追问样品 → 无回；之后群发无回）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my 9 轮 2025-04-11→2026-09-08；本户在 Bcc；主题 Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 全程 complete：命中 9 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
+   "type": "希腊电信系统商中东项目公司（Intracom Middle East；项目采购 PoE，体量大）——第二档项目型",
+   "sieve": "2→3（问价后未要样）",
+   "stop": "$34 的价没有触发样品——可能项目已过或价格不是问题；没有追问项目",
+   "revive": "一句话问当时的无线回传项目",
+   "lane": "AE 非主攻（但 Intracom 体量大）",
+   "cadence": "一封",
+   "evidence": "k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "—",
+  "need": "工业 PoE 小型款（无线回传站点）。",
+  "breakpoint": "无闭环。",
+  "saga_now": {
+   "p1": "STI-222GP",
+   "tier": 25,
+   "price": "再触锚价 STI-222GP $34（沿用 2024-10 对他的实报，规则㉕ 自报优先；第 72 批 2026-10-24）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+   "why": "项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "S 邮箱 → mohammad.yaacoub@intracom-telecom.com",
+   "action": "首封前知悉：Elsa 群发 BCC 已触达 9 轮（2025-04-11→2026-09-08，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；问项目",
+   "one_question": "Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027? Reference: STI-222GP at $34 USD EXW (as quoted Oct-2024; MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2023-07-01",
+    "dir": "备",
+    "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+    "quote": "名单行：「23 Intracom Middle East FZ-LLC Mohammad Yaacoub Projects Manager Mitec 2023 POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE mohammad.yaacoub@intracom-telecom.com 971 50 654 5766 手机」",
+    "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+    "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+   },
+   {
+    "date": "2024-08-07",
+    "dir": "来",
+    "who": "myaacoub@intracom-telecom.com",
+    "quote": "Dear Sender, I am on annual leave with limited access to my emails, for any urgent matters contact me on my mobile. Best Regards, Mohammad Yaacoub +97",
+    "why": "来信原文（主题「Re: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "7ae3b3c443b92c6f"
+   },
+   {
+    "date": "2024-10-09",
+    "dir": "来",
+    "who": "Mohammad Yaacoub",
+    "quote": "Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch.",
+    "why": "价格先行",
+    "k": "d05d6d8f07683799"
+   },
+   {
+    "date": "2024-10-09",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Yaacoub, Thanks for your interest. Please see attached datasheet of this model. Price: 34usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, POE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial T",
+    "why": "历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 34usd",
+    "k": "815888411fd50a1b"
+   },
+   {
+    "date": "2025-04-11",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19623a5f07b9a5bf"
+   },
+   {
+    "date": "2025-05-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19699a96e93d4ea9"
+   },
+   {
+    "date": "2025-06-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "1973f4fbd2176398"
+   },
+   {
+    "date": "2025-07-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "197d44f5b17bb6b9"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "199b7cd286b8997d"
+   },
+   {
+    "date": "2025-11-20",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19a9f3c99302ff20"
+   },
+   {
+    "date": "2026-02-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19c2c14168a821f5"
+   },
+   {
+    "date": "2026-04-29",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19dd7f65aff0636e"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "1a07fb58f139416e"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Re: Industrial poe switch",
+   "body": "Hi Mohammad,\n\nPicking up your note of 2024-10-09 (\"Before we request for a sample, I would like to understand from you what is the price level for the below kind…\"). Instead of another catalog mail, one question:\n\nWas the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?\n\nReference price: STI-222GP (2× GE PoE + 2× SFP, DIN-rail) at $34 USD EXW as quoted in October 2024, MOQ 1 pc, 15-day validity.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

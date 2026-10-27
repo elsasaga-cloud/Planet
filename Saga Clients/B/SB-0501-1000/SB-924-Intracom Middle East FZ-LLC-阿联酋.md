@@ -103,6 +103,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 91 批（GR/AE · 1 次检索：Intracom Telecom「At a glance」（2014-12 SITRONICS 48% + Intracom Holdings 49% 转给 Intracom Middle East FZE，2015-01 再收 3% → 唯一股东）+ 2024-07-17 组织重组新闻稿（主股东 Intracom Middle East FZE 由一名瑞士投资人全资；员工约 1,600，多为希腊人）+ 希腊外交部 agora 名录（Intracom Middle East FZE，3 名员工 = 控股壳）+ Reuters 2014-12-18（49% 作价 €47M）+ tracxn（2026-05 员工 1,071；印度子公司 Intracom Telecom Eastern Operations Pvt Ltd CIN U64200DL2008FTC184894），2026-10-27 查；https://www.intracom-telecom.com/en/company/profile/intracom_telecom_glance.htm）：**
+
+- 法定名 / 登记号：INTRACOM MIDDLE EAST FZE（Dubai；Intracom Telecom 100% 股东）/ INTRACOM TELECOM（Paiania, Greece） · FZE（迪拜自贸区）执照号未取；希腊 ΓΕΜΗ 未取（GEMI JS 关闭） · 状态 **Active** · 成立 Intracom Telecom 1977；FZE 控股 2014–2015 · FZE 控股 + 希腊 S.A.（瑞士投资人全资）
+- 行业码 / 经营范围：电信系统厂商（无线回传 / FTTx / 智慧城市 / 系统集成；东欧 / 中东非 / 亚太项目）= **同行 + 项目集成双重身份**；KP 为中东项目人员
+- 注册地址：Intracom Telecom: 19.7 km Markopoulou Ave., Paiania 19002, Greece；FZE: Dubai
+- 规模档：大型（1,000+ 人）
+- 账目：Intracom Telecom 年报可取（未取）；员工 1,071–1,600（2024–2026 递减）；GR 年报 9 月
+- 高管：Roberto GRASSI — Procurement Manager（研究档 KP；Intracom Telecom 希腊总部采购）= **正式采购口**
+- 高管：Mohammad YAACOUB — Projects Manager（研究档 KP；中东项目，2024-08 / 2024-10 来信）
+- 高管：Sergio KODAMA — Senior Director BD（研究档 KP）
+- 控制人 / 股东：瑞士投资人（经 Intracom Middle East FZE）
+- **这意味着什么：**
+  - **判定：项目型 —— 千人级电信系统厂商，自己有产品线，买交换机只为中东 / 非洲集成项目配套；2024–2026 员工从 1,600 降到 1,071 = 收缩期；但研究档里有正式采购经理 Roberto Grassi** → 一封给 Grassi 抄 Yaacoub：集成 25%，管理型 24/48 口 + 10G 上联英文规格 + CE/RoHS，供应商注册资料（VAT / 银行 / ISO 9001 厂证）随附；不主动追；GR 周四 12–14
+  - 不说：不提瑞士投资人 / 裁员
+- 备注：研究档 KP 角色补；国别保持 GR（注：KP 在 Dubai，无 country_fix）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -153,8 +169,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 希腊 |
-| 其他 | 官网 intracom-telecom.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | INTRACOM TELECOM（Paiania, Greece）；唯一股东 INTRACOM MIDDLE EAST FZE（Dubai，2015-01 起；瑞士投资人全资） |
+| 成立 | 1977（Intracom Telecom）；FZE 控股 2014–2015（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 19.7 km Markopoulou Ave., Paiania 19002, Greece（FZE: Dubai）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 1,071（tracxn 2026-05）← 约 1,600（2024-07 官方）= 收缩期（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 intracom-telecom.com，语言 en，快照状态 ok；角色判定来源：用户表；**信里不提瑞士投资人 / 裁员**；国别保持 GR（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：电信系统（无线接入 / 光纤 / ICT 项目）
 - **触达通道（公开）**：role: 电信系统厂商中东项目公司（项目采购 PoE，体量大）；region: 阿联酋；contact: rgrassi@intracom-telecom.com、skodama@intracom-telecom.com

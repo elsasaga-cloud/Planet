@@ -86,6 +86,21 @@ updated: 2026-10-27
 - 【宗教】01-07：东正教圣诞
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 91 批（GE · US SAM 镜像 1 页（opengovus.com/sam-entity/J9LKEG5JR7D6）：UEI J9LKEG5JR7D6，CAGE SJFH4，LLC（2K / LJ），业务始于 2014-01-08，SAM 注册 2020-07-13、激活 2021-06-17、**2022-07-14 到期（Expired，未续）**，NAICS 541512 计算机系统设计 + 423690 电子零部件批发，E-Business / Government POC = CEO GEORGE JALIASHVILI，72 O. Oniashvili Str., Tbilisi 0160；**同名陷阱**：Delta Consulting LLC（Oxford MS，WE3LB56YJQA7）无关，2026-10-27 查；https://opengovus.com/sam-entity/J9LKEG5JR7D6）：**
+
+- 法定名 / 登记号：DELTA CONSULTING LLC（dc.ge；Tbilisi, Georgia） · SAM UEI J9LKEG5JR7D6 · CAGE SJFH4（格鲁吉亚登记号未取） · 状态 **Active（公司）；SAM 注册 Expired 2022-07-14** · 成立 2014-01-08（SAM business start） · LLC（შპს）
+- 行业码 / 经营范围：NAICS 541512 计算机系统设计 + 423690 电子设备批发（IT / 网络集成商；曾备案美援 / 美军采购资格）
+- 注册地址：72 O. Oniashvili Str., Tbilisi 0160, Georgia
+- 规模档：小型（估 10–30 人）
+- 账目：—；—
+- 高管：George JALIASHVILI — CEO / Partner（SAM POC；研究档 KP george@dc.ge）= 老板 = 联系人
+- 高管：Daviti GIORGADZE — Commercial Director（研究档 KP sales@dc.ge）
+- 控制人 / 股东：Jaliashvili（推定合伙人）
+- **这意味着什么：**
+  - **老板 = 联系人：第比利斯 IT 集成商，2020–2022 曾注册美国 SAM（NAICS 含电子设备批发）= 做过美援 / 国际招标项目，之后没续** → 写 George 抄 Daviti：集成 25%，管理型 24 口 + 10G 上联（招标常要 L2+/L3 规格书 → 给 Marvell 线英文规格）、CE/RoHS，格鲁吉亚无强制认证；GE UTC+4，周四 10–12 = 北京 14–16
+  - 不说：不提 SAM 到期；不提美援
+- 备注：研究档 KP 角色已全；补 facts。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -141,7 +156,7 @@ updated: 2026-10-27
 - **【公开平台核查（T29-U18）】RIPE NCC 成员名录：Delta Consulting LLC，Lvov Str 72，0160 Tbilisi，+995577578811，sales@DC.ge；ipinfo AS209786 1,024 IPv4（2018-12 分配）**
   > Delta Consulting LLC — RIPE Network Coordination Centre … sales@DC.ge
   > 来源：https://www.ripe.net/membership/member-support/list-of-members/ge/dc/（抓取 2026-10-23）
-- **KP**：George Jaliashvili（）george@dc.ge +995 577 578 811〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：George Jaliashvili（CEO / Partner（US SAM 镜像 E-Business / Government POC 同名 = 核实）= **老板 = 联系人**；公司 2020-07 → 2022-07 曾注册美国 SAM（UEI J9LKEG5JR7D6 / CAGE SJFH4；NAICS 541512 + 423690 电子设备批发）= 做过美援 / 国际招标项目，之后未续（第 91 批 官方登记核实 2026-10-27））george@dc.ge +995 577 578 811〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Daviti Giorgadze（）sales@dc.ge +995 32 205 0055〔https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -149,10 +164,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Delta Consulting LLC |
-| 成立 | 2014 |
-| 总部/地址 | 72 O. Oniashvili Str., Tbilisi 0160, Georgia |
-| 其他 | US SAM 注册（UEI J9LKEG5JR7D6） |
+| 法定名称 | DELTA CONSULTING LLC（შპს；Tbilisi；SAM UEI J9LKEG5JR7D6 / CAGE SJFH4，Expired 2022-07-14；**同名陷阱：Delta Consulting LLC Oxford MS 无关**） |
+| 成立 | 2014-01-08（SAM business start）（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 72 O. Oniashvili Str., Tbilisi 0160, Georgia（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 小型（估 10–30 人）（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | US SAM 注册（UEI J9LKEG5JR7D6）；集成 25%，管理型 24 口 + 10G 上联（招标要 L2+/L3 规格书 → Marvell 线英文规格）；**信里不提 SAM / 美援**（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：服务器 / 网络 / 通信集成（Cisco、Dell、Juniper）；视频监控 CCTV（Dahua）；无线（Cambium、Ruckus）、IoT 网关（Teltonika）
 - **触达通道（公开）**：role: 系统集成商（企业 + 政府项目）；region: 格鲁吉亚；公开动态平台（监控中，T29-U18）: 官网 dc.ge / delta-consulting.ge；Facebook deltaconsultingofficial；RIPE 成员 + AS209786（1,024 IPv4，ISP/托管）；美国 SAM 注册（UEI J9LKEG5JR7D6，CAGE SJFH4）
@@ -255,7 +271,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| George Jaliashvili | — | george@dc.ge / +995 577 578 811 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| George Jaliashvili | CEO / Partner（US SAM 镜像 E-Business / Government POC 同名 = 核实）= **老板 = 联系人**；公司 2020-07 → 2022-07 曾注册美国 SAM（UEI J9LKEG5JR7D6 / CAGE SJFH4；NAICS 541512 + 423690 电子设备批发）= 做过美援 / 国际招标项目，之后未续（第 91 批 官方登记核实 2026-10-27） | george@dc.ge / +995 577 578 811 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Daviti Giorgadze | — | sales@dc.ge / +995 32 205 0055 | 调研核实（公开页） | https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

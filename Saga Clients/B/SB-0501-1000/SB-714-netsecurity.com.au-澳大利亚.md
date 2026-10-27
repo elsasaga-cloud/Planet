@@ -81,6 +81,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 91 批（AU · 1 次检索 + ABR 1 次（「net security wholesalers」）：ABN 94 083 730 250 Active（Entity Name，5033 SA）+ 同邮编 NET SECURITY WHOLESALERS SUPER FUND ABN 27 140 358 544（= 老板自管养老金 → 业主自营）；D&B：DBA NETDIGITAL SURVEILLANCE，4 Commercial St Marleston SA 5033，Key Principal DANIEL PETER WILLGOOSE；**同名陷阱**：netsecure.com.au（布里斯班 IT 取证）/ netsecurity.com（美国）均非本户，2026-10-27 查；https://abr.business.gov.au/ABN/View?abn=94083730250）：**
+
+- 法定名 / 登记号：NET SECURITY WHOLESALERS PTY LTD（DBA NetDigital Surveillance；Marleston, Adelaide SA） · ABN 94 083 730 250 · ACN 083 730 250（≈1998）；关联 SMSF ABN 27 140 358 544 · 状态 **Active（ABR 2026-10-27）** · 成立 ≈1998（ACN 083 段） · Pty Ltd（业主 + 自管养老金结构）
+- 行业码 / 经营范围：安防 / CCTV 批发（NetDigital Surveillance 品牌线；南澳 + 全国经销商）
+- 注册地址：4 Commercial Street, Marleston, SA 5033（阿德莱德）
+- 规模档：小型（估 5–15 人）
+- 账目：—；AU 06-30
+- 高管：Daniel Peter WILLGOOSE — 业主 / 主事人（D&B；SMSF 同邮编）= 老板 = 联系人
+- 控制人 / 股东：Willgoose（推定）
+- **这意味着什么：**
+  - **阿德莱德 1998 年起的安防批发商，老板 Daniel Willgoose 自营（公司 + 自管养老金同址）** → 写他本人：分销 20% CCTV 配套 PoE 4/8/16/24 + 工业 DIN，RCM 由他们，MOQ 1 箱、首单 50/50；AU 周三 08–10（北京 06–08）
+  - 不说：不提 SMSF / 养老金
+- 备注：研究档 KP 空 → 新增 Willgoose。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,13 +137,17 @@ updated: 2026-10-27
 - **【用户表】MC switch PoE 配件**
   > MC switch POE配件
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Daniel Peter Willgoose（业主 / 主事人（D&B Key Principal；同邮编自管养老金 NET SECURITY WHOLESALERS SUPER FUND ABN 27 140 358 544 = 业主自营）= **老板 = 联系人** → 分销 20% CCTV 配套 PoE + 工业 DIN，RCM 他们（第 91 批 官方登记核实 2026-10-27）） 〔https://abr.business.gov.au/ABN/View?abn=94083730250〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
+| 法定名称 | NET SECURITY WHOLESALERS PTY LTD（ABN 94 083 730 250；DBA NetDigital Surveillance） |
+| 成立 | ≈1998（ACN 083 段）（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 4 Commercial Street, Marleston, SA 5033（阿德莱德）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 小型（估 5–15 人）（第 91 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 netsecurity.com.au，语言 en，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：电子安防进口批发（CCTV / 门禁 / 网络）
@@ -224,7 +242,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@netsecurity.com.au | 用户表原值 | Clients/ 表 |
+| Daniel Peter Willgoose | 业主 / 主事人（D&B Key Principal；同邮编自管养老金 NET SECURITY WHOLESALERS SUPER FUND ABN 27 140 358 544 = 业主自营）= **老板 = 联系人** → 分销 20% CCTV 配套 PoE + 工业 DIN，RCM 他们（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://abr.business.gov.au/ABN/View?abn=94083730250 |
 
 - **通道建议**：邮件已推送 14 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -292,7 +310,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Daniel,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Planet and Moxa switches you distribute with Hikvision, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models from small lots, EXW — which Planet model do your installers order most, so we quote its equivalent first?
 

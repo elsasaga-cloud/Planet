@@ -118,7 +118,7 @@ updated: 2026-10-27
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 澳大利亚 |
-| 其他 | 官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案；第 91 批检索未命中（netsolutionstore.com.au：1 次检索仅无关 Net Solutions / Netsol；ABR 常用词检索易截断）→ 下轮试 ABR「net solution store」（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：Extreme Networks 产品专营
 - **触达通道（公开）**：role: Extreme Networks 专营网店（澳洲）；region: 澳大利亚；contact: sales@netsolutionstore.com.au

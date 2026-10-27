@@ -77,6 +77,22 @@ updated: 2026-10-27
 
 - 法定假日：11-09 Iqbal Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 91 批（PK · 1 次检索：synchcom.com.pk about（2005-02 依 Companies Ordinance 1984 成立，SECP / 销售税 / 所得税登记；IT & 电信方案 + 系统集成；服务电信运营商 / 政府 / 机构）+ LigoWave 官网分销名录（Distributor in Pakistan；+92-51-4864925/26；销售 +92-335-5225522）+ businesslist（693 Rehman Baba Road, Sector I-8/4, Islamabad）+ RocketReach（Senior MD Muhammad Babar；Director Muhammad Mehmood 2001 起 = 同时是 Sina Institute 创始人）+ PTA 型号核准名单（DLB5 2016-05、Dinstar IAD-80 2017-07 以 Synchcom 名义核准）；ClarifiedBy：2005 成立，2026-10-27 查；https://synchcom.com.pk/about-us/）：**
+
+- 法定名 / 登记号：SYNCHCOM (PVT.) LIMITED（Islamabad I-8/4；LigoWave 巴基斯坦分销） · SECP 注册号未取 · 状态 **Active** · 成立 2005-02（RocketReach 称 2000） · (Pvt.) Limited
+- 行业码 / 经营范围：IT / 电信集成 + 分销（LigoWave 无线、Dinstar 网关、MSAN / GEPON）；**有 PTA 型号核准经验（2016、2017 各一）**
+- 注册地址：693 Rehman Baba Road, Sector I-8/4, Islamabad 44000
+- 规模档：小型（估 10–30 人）
+- 账目：—；—
+- 高管：Muhammad BABAR — Senior Managing Director（RocketReach）= 拍板人
+- 高管：Muhammad MEHMOOD — Director（2001 起；兼 Sina Institute 创始人）
+- 高管：Asif — 研究档 KP（销售）
+- 控制人 / 股东：Babar / Mehmood（推定）
+- **这意味着什么：**
+  - **伊斯兰堡电信分销商，自己替 LigoWave / Dinstar 办过 PTA 型号核准 = 有进口 + 认证经验（《背景信息》第二序列）** → 写 Asif 抄 Babar：分销 20% 24 口管理型 + 室外 PoE（配无线 CPE 场景），PTA 核准由他们、我方出 CE/RoHS + 测试报告；100% 预付或 LC；PK 当地 10–12 = 北京 13–15
+  - 不说：不提 PTA 名单
+- 备注：研究档 KP Asif 角色补；新增 Babar / Mehmood。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,16 +127,19 @@ updated: 2026-10-27
 - **【用户表】样品单：MC 双纤 25 km + 8 口网管 PCB**
   > 问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Asif（asif@）（销售负责人（Facebook 主页公开））asif@synchcom.com.pk +92 332 5933665（WhatsApp 已加）〔https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/〕
+- **KP**：Asif（asif@）（销售负责人（Facebook 公开）= 联系人；拍板 = Senior MD Muhammad Babar —— 公司 **自己替 LigoWave / Dinstar 办过 PTA 型号核准（2016、2017）= 有进口 + 认证经验** → 分销 20% 24 口管理型 + 室外 PoE，PTA 他们，100% 预付或 LC（第 91 批 官方登记核实 2026-10-27））asif@synchcom.com.pk +92 332 5933665（WhatsApp 已加）〔https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/〕
+- **KP**：Muhammad Babar（Senior Managing Director（RocketReach）= 拍板人（抄送）（第 91 批 官方登记核实 2026-10-27）） 〔https://synchcom.com.pk/about-us/〕
+- **KP**：Muhammad Mehmood（Director（2001 起；兼 Sina Institute of Networks 创始人）（第 91 批 官方登记核实 2026-10-27）） 〔https://synchcom.com.pk/about-us/〕
 - **调研后定级**：B（原自动 A）——样品后 8 次推送零回复；需求是裸 PCBA（本地组装贴牌），毛利与售后风险高；南亚区 + 含国防行业。B 慢跟：仅在其主动询价时报整机或 PCBA（需 SmartByte 确认可供板级）。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SYNCHCOM (Pvt) Ltd |
-| 成立 | 2005 |
-| 总部/地址 | Islamabad, Pakistan（+92 332 593 3665 / +92 335 522 5522，均已加 WA） |
+| 法定名称 | SYNCHCOM (PVT.) LIMITED（SECP 注册号未取） |
+| 成立 | 2005-02（官网；RocketReach 称 2000）（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 693 Rehman Baba Road, Sector I-8/4, Islamabad 44000（+92 51 486 4925）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 小型（估 10–30 人）（第 91 批 官方登记核实 2026-10-27） |
 | 其他 | LigoWave 巴基斯坦分销商；面向电信/政府/国防/能源/油气/自动化 |
 
 - **业务线**：系统集成与分销（无线、MC、工业网络、布线）；电信运营商与能源/油气项目
@@ -192,7 +211,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Asif（asif@） | 销售负责人（Facebook 主页公开） | asif@synchcom.com.pk / +92 332 5933665（WhatsApp 已加） | 调研核实（公开页） | https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/ |
+| Asif（asif@） | 销售负责人（Facebook 公开）= 联系人；拍板 = Senior MD Muhammad Babar —— 公司 **自己替 LigoWave / Dinstar 办过 PTA 型号核准（2016、2017）= 有进口 + 认证经验** → 分销 20% 24 口管理型 + 室外 PoE，PTA 他们，100% 预付或 LC（第 91 批 官方登记核实 2026-10-27） | asif@synchcom.com.pk / +92 332 5933665（WhatsApp 已加） | 调研核实（公开页） | https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/ |
+| Muhammad Babar | Senior Managing Director（RocketReach）= 拍板人（抄送）（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://synchcom.com.pk/about-us/ |
+| Muhammad Mehmood | Director（2001 起；兼 Sina Institute of Networks 创始人）（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://synchcom.com.pk/about-us/ |
 | Muhammad Asif | — | asif@synchcom.com.pk / mehmood@synchcom.com.pk / +923325933665 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 | Mr.Muhammad | — | asif@synchcom.com.pk / mehmood@synchcom.com.pk / +923325933665 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 

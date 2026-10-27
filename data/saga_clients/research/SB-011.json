@@ -31,10 +31,11 @@
   "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；主体未核）"
  },
  "company_facts": {
-  "legal_name": "（greentechme.net 主体未核；与 greentechme.com 太阳能公司是否同一实体不能确认）",
-  "hq": "UAE（+971 55 572 1640，已加 WA）",
-  "size": "待核",
-  "other": "成交 2 次；无邮件回复"
+  "legal_name": "Green Technical LLC（greentechme.net；Ajman DED 执照不公开；**同名陷阱：greentech.ae / greentech-ae.com / Greentech Middle East 巴林 均非本户**）",
+  "hq": "P.O. Box 22511, Ajman；P.O. Box 238376, Dubai（第 91 批 官方登记核实 2026-10-27）",
+  "size": "微型 / 小型（网络 + 安防安装供货 + 自有型号 PoE 配件）（第 91 批 官方登记核实 2026-10-27）",
+  "other": "成交 2 次；无邮件回复",
+  "staff": "微型 / 小型（估 3–10 人）（第 91 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "（待核）太阳能/离网项目 + 网络配套"
@@ -105,7 +106,7 @@
  "kp": [
   {
    "name": "Shaji（邮箱前缀；全名待核）",
-   "role": "用户表联系人（WhatsApp 为主通道）",
+   "role": "WhatsApp 下单人（已成交 2 单；推定业主 / 采购主管）—— 公司法定名 **Green Technical LLC**（Ajman + Dubai 信箱），官网自有型号 PoE 配件（NEPX101/201 延长器、NEPR-111 中继、PoE 媒转）= **已在贴牌卖配件 → 交换机也可贴：OEM 30% + 按 ㉕ 用上次成交价续**（第 91 批 官方登记核实 2026-10-27）",
    "email": "shaji@greentechme.net",
    "phone": "",
    "source": "用户表 / entities 邮箱"

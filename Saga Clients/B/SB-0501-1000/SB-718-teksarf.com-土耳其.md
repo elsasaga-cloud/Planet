@@ -110,7 +110,7 @@ updated: 2026-10-27
 |---|---|
 | 法定名称 | Düzgün Toptan Ticaret（待核） |
 | 总部/地址 | Türkiye（待核） |
-| 其他 | Gmail 联系；WhatsApp 已加 |
+| 其他 | Gmail 联系；WhatsApp 已加；第 91 批检索未命中（teksarf.com / Düzgün Toptan：1 次检索仅泛化「toptan kamera」结果）→ 不写回登记；Gmail 个体户，WhatsApp 线（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：IT/安防耗材批发（推测）
 - **触达通道（公开）**：邮箱: duzgun.toptan.ticaret@gmail.com（用户表）；WhatsApp: Ady 已加

@@ -143,6 +143,21 @@ updated: 2026-10-27
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 91 批（SG · 既有调研建档（研究档：UEN 202005761Z，2020-02-20 注册，前身实体 2013-06-14 起；81 Ubi Avenue 4 #09-28 UB.One 408830；+65 6871 4128；2025-03 ACRA 变更员工 3 → 11；RocketReach 营收 ≈ $3M；主业数据中心 / 电信 / 云运营商光网络工程 + 海缆项目 + AI-Ready 数据中心，产品 MTP/MPO 等）；本轮不再检索，2026-10-27 查；https://www.resonantnetworks.com/）：**
+
+- 法定名 / 登记号：RESONANT NETWORKS PTE. LTD.（R~Nets；Ubi, Singapore） · UEN 202005761Z · 状态 **Live Company** · 成立 2020-02-20（业务 2013 起） · Private Company Limited by Shares
+- 行业码 / 经营范围：数据中心 / 电信光网络工程 + 光纤测试 / 运维 + 海缆 SLTE 项目 + 光配线产品 = **DC 工程集成商（Simon 优先级：DC 交换机客户）**
+- 注册地址：81 Ubi Avenue 4 #09-28, UB.One, Singapore 408830
+- 规模档：小型（11 人，2025-03）
+- 账目：私人公司不公开；RocketReach ≈ $3M；—
+- 高管：AU Wai Choon — 研究档 KP（本人来信 30 封 2024-07 → 2026-06；推定董事 / 业主）= 老板 = 联系人
+- 高管：Andrea CHEW / Bernard SONG — 研究档 KP（项目 / 采购）
+- 控制人 / 股东：Au（推定）
+- **这意味着什么：**
+  - **老板 = 联系人（Au Wai Choon 本人 30 封来信）；DC / 海缆光网络工程商，正做 AI-Ready 数据中心 = CENTEC 敲门砖的正主** → 下一封按现有线：STH-2C24XF-HSI $1,500 起的 25G/100G 位置 + Marvell 10G 上联 STC-110XGE $65；集成 25% / CENTEC ≥35% 底线；T/T 50/50；SG 当地 10–12
+  - 不说：不提 ACRA 人数变动
+- 备注：既有事实建档；KP 不变。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -218,7 +233,7 @@ updated: 2026-10-27
 | 总部/地址 | 81 Ubi Avenue 4 #09-28 UB.One, Singapore 408830（+65 6871 4128） |
 | 人数 | 11（2025-03 ACRA 变更：3 → 11）/ 10–50 |
 | 营收 | 约 $3M（RocketReach 口径） |
-| 其他 | 主业：数据中心/电信/云运营商光网络工程（设计、部署、光纤特性测试 OLTS/OTDR/PMD/CD、运维）；海缆项目（ADC SLTE 新加坡/香港/日本，AAE-1 槟城—新加坡）；AI-Ready 数据中心（机器人光纤交叉连接、OCS、数字孪生）；产品销售：MTP/MPO 跳线、分路器、1RU 48ch C 波段 Mux/Demux、SFP 形态 VOA、SFP 形态 2 线铜缆以太网延长器、DWDM OLS（PQC/QKD）、测试仪、ODF、DC PDU；2025-07 SSIC 改为「数据中心网络系统供应与专业服务」 |
+| 其他 | 主业：数据中心/电信/云运营商光网络工程（设计、部署、光纤特性测试 OLTS/OTDR/PMD/CD、运维）；海缆项目（ADC SLTE 新加坡/香港/日本，AAE-1 槟城—新加坡）；AI-Ready 数据中心（机器人光纤交叉连接、OCS、数字孪生）；产品销售：MTP/MPO 跳线、分路器、1RU 48ch C 波段 Mux/Demux、SFP 形态 VOA、SFP 形态 2 线铜缆以太网延长器、DWDM OLS（PQC/QKD）、测试仪、ODF、DC PDU；2025-07 SSIC 改为「数据中心网络系统供应与专业服务」；第 91 批：按既有 ACRA 事实建档（UEN 202005761Z）；**老板 = 联系人（Au Wai Choon 本人 30 封来信）；DC / 海缆光网络工程商正做 AI-Ready 数据中心 = CENTEC 敲门砖正主** → STH-2C24XF-HSI $1,500 起 + STC-110XGE $65，集成 25% / CENTEC ≥35% 底线（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：数据中心/电信/云运营商光网络设计与部署（海缆 SLTE：ADC、AAE-1）；数据中心网络系统供应与专业服务；光纤周边（MPO 等，用户表已成单）；光网络工程（DC 互联、回传、海缆）；光纤配件 / DWDM / 测试设备销售；AI-Ready DC（光交叉、OCS、数字孪生）
 

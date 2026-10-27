@@ -46679,7 +46679,7 @@
 "hq": "81 Ubi Avenue 4 #09-28 UB.One, Singapore 408830（+65 6871 4128）",
 "staff": "11（2025-03 ACRA 变更：3 → 11）/ 10–50",
 "revenue": "约 $3M（RocketReach 口径）",
-"other": "主业：数据中心/电信/云运营商光网络工程（设计、部署、光纤特性测试 OLTS/OTDR/PMD/CD、运维）；海缆项目（ADC SLTE 新加坡/香港/日本，AAE-1 槟城—新加坡）；AI-Ready 数据中心（机器人光纤交叉连接、OCS、数字孪生）；产品销售：MTP/MPO 跳线、分路器、1RU 48ch C 波段 Mux/Demux、SFP 形态 VOA、SFP 形态 2 线铜缆以太网延长器、DWDM OLS（PQC/QKD）、测试仪、ODF、DC PDU；2025-07 SSIC 改为「数据中心网络系统供应与专业服务」"
+"other": "主业：数据中心/电信/云运营商光网络工程（设计、部署、光纤特性测试 OLTS/OTDR/PMD/CD、运维）；海缆项目（ADC SLTE 新加坡/香港/日本，AAE-1 槟城—新加坡）；AI-Ready 数据中心（机器人光纤交叉连接、OCS、数字孪生）；产品销售：MTP/MPO 跳线、分路器、1RU 48ch C 波段 Mux/Demux、SFP 形态 VOA、SFP 形态 2 线铜缆以太网延长器、DWDM OLS（PQC/QKD）、测试仪、ODF、DC PDU；2025-07 SSIC 改为「数据中心网络系统供应与专业服务」；第 91 批：按既有 ACRA 事实建档（UEN 202005761Z）；**老板 = 联系人（Au Wai Choon 本人 30 封来信）；DC / 海缆光网络工程商正做 AI-Ready 数据中心 = CENTEC 敲门砖正主** → STH-2C24XF-HSI $1,500 起 + STC-110XGE $65，集成 25% / CENTEC ≥35% 底线（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "数据中心/电信/云运营商光网络设计与部署（海缆 SLTE：ADC、AAE-1）",
@@ -49280,6 +49280,20 @@
 "email": "accounts@unitedcontrolengg.com",
 "phone": "",
 "source": "PI.zip 单据"
+},
+{
+"name": "Pramendra Singh Chaudhary",
+"role": "Director / CEO（DIN 02074072，2019-04-18 起；注册邮箱 chaudhary@unitedcontrolengg.com）= **老板 = 联系人** → 工业 DIN 交换机（STI-054GP / STI-154GP / STI-110GE 宽压）集成 25%，BIS 他们（第 91 批 官方登记核实 2026-10-27）",
+"email": "chaudhary@unitedcontrolengg.com",
+"phone": "",
+"source": "https://www.zaubacorp.com/UNITED-CONTROL-ENGINEERS-INDIA-PRIVATE-LIMITED-U17302UP2019PTC115938"
+},
+{
+"name": "Sumit Agrawal",
+"role": "Director（DIN 02074121，2019-04-18 起）= 合伙人（抄送）（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.tofler.in/united-control-engineers-india-private-limited/company/U17302UP2019PTC115938"
 }
 ],
 "notes": "A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。",
@@ -49289,12 +49303,13 @@
 "level": "深挖 v1"
 },
 "company_facts": {
-"legal_name": "United Control Engineers India Pvt. Ltd.",
-"founded": "2001",
-"hq": "Greater Noida, Delhi NCR, India",
-"staff": "11–50（LinkedIn）",
+"legal_name": "UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED（CIN U17302UP2019PTC115938；GST 09AACCU4195M1ZP）",
+"founded": "2019-04-18（业务 2001 起，先为合伙）（第 91 批 官方登记核实 2026-10-27）",
+"hq": "Plot No. 98, Toy City, Ecotech-III, Greater Noida 201306（注册地 218 Udyog Kendra Extn-1）（第 91 批 官方登记核实 2026-10-27）",
+"staff": "26–50 人；自报营业额 ₹25–100 cr（≈$3–12M）（第 91 批 官方登记核实 2026-10-27）",
 "revenue": "$10–15M（口径不一）",
-"other": "Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 授权渠道；官网有独立「Ethernet Switch」落地页（2026-05-23）"
+"other": "Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 授权渠道；官网有独立「Ethernet Switch」落地页（2026-05-23）",
+"size": "中小型（工业自动化 / 低压电器分销 + 控制柜装配厂；Delta / ABB / Schneider 渠道）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业自动化分销 + 系统集成",
@@ -51718,10 +51733,11 @@
 "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；主体未核）"
 },
 "company_facts": {
-"legal_name": "（greentechme.net 主体未核；与 greentechme.com 太阳能公司是否同一实体不能确认）",
-"hq": "UAE（+971 55 572 1640，已加 WA）",
-"size": "待核",
-"other": "成交 2 次；无邮件回复"
+"legal_name": "Green Technical LLC（greentechme.net；Ajman DED 执照不公开；**同名陷阱：greentech.ae / greentech-ae.com / Greentech Middle East 巴林 均非本户**）",
+"hq": "P.O. Box 22511, Ajman；P.O. Box 238376, Dubai（第 91 批 官方登记核实 2026-10-27）",
+"size": "微型 / 小型（网络 + 安防安装供货 + 自有型号 PoE 配件）（第 91 批 官方登记核实 2026-10-27）",
+"other": "成交 2 次；无邮件回复",
+"staff": "微型 / 小型（估 3–10 人）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "（待核）太阳能/离网项目 + 网络配套"
@@ -51792,7 +51808,7 @@
 "kp": [
 {
 "name": "Shaji（邮箱前缀；全名待核）",
-"role": "用户表联系人（WhatsApp 为主通道）",
+"role": "WhatsApp 下单人（已成交 2 单；推定业主 / 采购主管）—— 公司法定名 **Green Technical LLC**（Ajman + Dubai 信箱），官网自有型号 PoE 配件（NEPX101/201 延长器、NEPR-111 中继、PoE 媒转）= **已在贴牌卖配件 → 交换机也可贴：OEM 30% + 按 ㉕ 用上次成交价续**（第 91 批 官方登记核实 2026-10-27）",
 "email": "shaji@greentechme.net",
 "phone": "",
 "source": "用户表 / entities 邮箱"
@@ -52484,10 +52500,24 @@
 "kp": [
 {
 "name": "Asif（asif@）",
-"role": "销售负责人（Facebook 主页公开）",
+"role": "销售负责人（Facebook 公开）= 联系人；拍板 = Senior MD Muhammad Babar —— 公司 **自己替 LigoWave / Dinstar 办过 PTA 型号核准（2016、2017）= 有进口 + 认证经验** → 分销 20% 24 口管理型 + 室外 PoE，PTA 他们，100% 预付或 LC（第 91 批 官方登记核实 2026-10-27）",
 "email": "asif@synchcom.com.pk",
 "phone": "+92 332 5933665（WhatsApp 已加）",
 "source": "https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/"
+},
+{
+"name": "Muhammad Babar",
+"role": "Senior Managing Director（RocketReach）= 拍板人（抄送）（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://synchcom.com.pk/about-us/"
+},
+{
+"name": "Muhammad Mehmood",
+"role": "Director（2001 起；兼 Sina Institute of Networks 创始人）（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://synchcom.com.pk/about-us/"
 }
 ],
 "grade_override": "B",
@@ -52499,11 +52529,12 @@
 "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
 },
 "company_facts": {
-"legal_name": "SYNCHCOM (Pvt) Ltd",
-"founded": "2005",
-"hq": "Islamabad, Pakistan（+92 332 593 3665 / +92 335 522 5522，均已加 WA）",
-"size": "11–50（ZoomInfo）/ 101–200（businesslist 口径）",
-"other": "LigoWave 巴基斯坦分销商；面向电信/政府/国防/能源/油气/自动化"
+"legal_name": "SYNCHCOM (PVT.) LIMITED（SECP 注册号未取）",
+"founded": "2005-02（官网；RocketReach 称 2000）（第 91 批 官方登记核实 2026-10-27）",
+"hq": "693 Rehman Baba Road, Sector I-8/4, Islamabad 44000（+92 51 486 4925）（第 91 批 官方登记核实 2026-10-27）",
+"size": "小型（IT / 电信集成 + 分销：LigoWave 巴基斯坦分销、Dinstar、MSAN / GEPON）（第 91 批 官方登记核实 2026-10-27）",
+"other": "LigoWave 巴基斯坦分销商；面向电信/政府/国防/能源/油气/自动化",
+"staff": "小型（估 10–30 人）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "系统集成与分销（无线、MC、工业网络、布线）",
@@ -69466,18 +69497,25 @@
 ],
 "kp": [
 {
-"name": "Saurabh",
-"title": "（采购 / 技术，表内联系人）",
+"name": "Saurabh Pachchigar",
+"title": "设计 / 制造负责人（LinkedIn；Pachchigar 家族 = 推定业主之一）= **技术拍板 = 写他**：OEM 30% OTAI 标工业 PoE（STI-054GP / STI-154GP / 288DGGPM-2BT 配其高功率杆件）（第 91 批 官方登记核实 2026-10-27）",
 "email": "saurabh@onnettechnologies.com",
 "phone": "+971 50 559 4409",
 "source": "（本地 Clients/ 表格，无公开 URL）"
 },
 {
 "name": "Piyush S. Shah",
-"title": "Founder / Managing Director（LinkedIn）",
+"title": "Director – Business Development（LinkedIn 2026；研究档原记 Founder / MD 应为误读；PMP，31 年经验）= 商务联系人（抄送）（第 91 批 官方登记核实 2026-10-27）",
 "email": "piyush@onnettechnologies.com",
 "phone": "+971 50 184 2443",
 "source": "https://www.linkedin.com/in/piyushsshah/"
+},
+{
+"name": "Dipali Pachchigar",
+"role": "Director（contactout / RocketReach）= 法定代表 / 家族（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://ae.linkedin.com/company/otaillc"
 }
 ],
 "grade_override": "B",
@@ -69489,11 +69527,12 @@
 "level": "B 级加厚 v1（LinkedIn + 名录核对：本土制造商 OEM）"
 },
 "company_facts": {
-"legal_name": "Onnet Technologies and Innovations LLC",
-"founded": "2012",
-"hq": "Shed 1&2, Street 80-81, Ajman Industrial Area 1, Ajman, UAE（PO Box 23170）",
-"size": "11–50 人",
-"other": "TDRA 认证；Hikvision TPP 方案伙伴；FCC ID 2ADPY"
+"legal_name": "ONNET TECHNOLOGIES & INNOVATIONS LLC（OTAI；Ajman 执照号未取）",
+"founded": "2012（第 91 批 官方登记核实 2026-10-27）",
+"hq": "Shed 1 & 2, Street 80-81 Junction, Ajman Industrial Area 1（PO Box 23170；+971 6 748 0204）（第 91 批 官方登记核实 2026-10-27）",
+"size": "小型制造商（高功率 PoE 供电 / 无线 / 智慧杆 / 机箱；TDRA 核准 + FCC ID）= OEM 品牌商（第 91 批 官方登记核实 2026-10-27）",
+"other": "TDRA 认证；Hikvision TPP 方案伙伴；FCC ID 2ADPY",
+"staff": "6–50（contactout 6 / LinkedIn 11–50）；营收估 $1–10M（量级）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "运营商级长距无线（自有品牌）",
@@ -159241,10 +159280,17 @@
 "kp": [
 {
 "name": "Varun Gupta",
-"title": "Director",
+"title": "Director & CEO（Vintron Smartvision Pvt Ltd = CCTV 运营体；曾任上市体 Vintron Informatics Ltd WTD & CEO 2015-06 → 2019-06）= **二代老板 = 联系人** → OEM 30% Vintron 标 PoE 4/8/16/24 配其 NVR 套装，BIS 他们；先 2 台付费样机（第 91 批 官方登记核实 2026-10-27）",
 "email": "varun@vintronsmartvision.com",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Raj Kumar Gupta",
+"role": "上市关联体董事长（家族长；上市体 2025-12 更名 Reganto Enterprises Ltd 并转向建筑 / 航空 = 安防业务已沉到私营体）—— 不联系（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/"
 }
 ],
 "grade_override": null,
@@ -159255,8 +159301,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "印度",
-"other": "官网 vintronsmartvision.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "New Delhi（第 91 批 官方登记核实 2026-10-27）",
+"other": "官网 vintronsmartvision.com，语言 en，快照状态 ok；角色判定来源：用户表；**信里不提上市壳更名 / 董事辞任**（第 91 批 官方登记核实 2026-10-27）",
+"legal_name": "VINTRON SMARTVISION PVT. LTD.（CIN 未取；关联上市体 Vintron Informatics Ltd → Reganto Enterprises Ltd，BSE 517393）",
+"founded": "未取（上市体 1991）（第 91 批 官方登记核实 2026-10-27）",
+"staff": "CCTV 运营体估 50–200 人；上市关联体 FY25 营收 ₹623 cr（+258%）、净利 ₹47.9 cr（含贸易 / 新业务）（第 91 批 官方登记核实 2026-10-27）",
+"size": "中型（CCTV / DVR 自有品牌制造）= OEM 品牌商（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "CCTV 摄像机 / NVR 制造（印度）",
@@ -173933,7 +173983,8 @@
 "company_facts": {
 "legal_name": "Arsenal TV（表内；未能核实）",
 "hq": "罗马尼亚",
-"size": "微型"
+"size": "微型",
+"other": "第 91 批检索未命中（「Arsenal TV」罗马尼亚：1 次检索无命中，无 CUI 线索）→ 不再检索（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电视/视频（据名称推断）"
@@ -176453,7 +176504,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Nathan James Parys",
+"role": "Director（唯一在任，2025-04-02 起；Companies House 10953609）= **老板 = 联系人**；**公司 2025-04 换手**：中国籍创始董事 Jie Kennett 同日辞任 → 供应链重建期 = 进门时机；分销 20% / OEM 30% 二选一，UKCA + CE（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://find-and-update.company-information.service.gov.uk/company/10953609/officers"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -176462,8 +176521,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "英国",
-"other": "官网 advance.technology，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+"hq": "Felton House, Gemig Street, St Asaph LL17 0RY（注册地 Unit 32 Llys Edmund Prys, St Asaph Business Park LL17 0JA，威尔士）（第 91 批 官方登记核实 2026-10-27）",
+"other": "官网 advance.technology，语言 en-GB，快照状态 ok；角色判定来源：官网文案；账目至 2025-09-30 已报，下期 2027-06-30 到期；PSC 页下轮补（第 91 批 官方登记核实 2026-10-27）",
+"legal_name": "ADVANCE TECHNOLOGY SOLUTIONS LTD（Companies House 10953609；VAT GB281168595；**同名陷阱：Advance Technology Limited 03391710 Liverpool 非本户**）",
+"founded": "2017-09-08（第 91 批 官方登记核实 2026-10-27）",
+"staff": "微型 / 小型（估 2–10 人）；SIC 26110 电子元件制造（第 91 批 官方登记核实 2026-10-27）",
+"size": "微型 / 小型（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "兼容光模块 / MC / PoE / 线缆（自有品牌 Advance）"
@@ -181021,10 +181084,17 @@
 "kp": [
 {
 "name": "Shantanu Rana",
-"title": "（有回复，职务待核）",
+"title": "有回复（采购 / 产品线人员，职务待核）—— 公司 = **HFCL Ltd 上市光缆 + 电信设备商（FY26 营收 ₹4,949 cr；自有 IO 品牌交换机 / AP = 同行；国防 + 铁路 = 守界）→ 判定不追；仅在其问 ODM / 白牌时报 CENTEC ≥35% / Marvell L3 ≥25%，否则 when=不动**（第 91 批 官方登记核实 2026-10-27）",
 "email": "shantanu.kumar@hfcl.com",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Mahendra Nahata",
+"role": "发起人 / Managing Director（上市公司；不直接联系）（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466"
 }
 ],
 "grade_override": null,
@@ -181035,8 +181105,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "印度",
-"other": "官网 hfcl.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "8 Commercial Complex, Masjid Moth, Greater Kailash-II, New Delhi 110048（运营 Gurugram）（第 91 批 官方登记核实 2026-10-27）",
+"other": "官网 hfcl.com，语言 en，快照状态 ok；角色判定来源：用户表",
+"legal_name": "HFCL LIMITED（原 Himachal Futuristic Communications Ltd；CIN L64200HP1987PLC007466；NSE/BSE: HFCL）",
+"founded": "1987（第 91 批 官方登记核实 2026-10-27）",
+"staff": "2,336 人；FY25 合并营收 ₹4,065 cr、EBITDA ₹507 cr；FY26 ₹4,949 cr；Q2 FY27 单季 ₹2,542 cr / 净利 ₹394 cr 创纪录（第 91 批 官方登记核实 2026-10-27）",
+"size": "大型上市（电信 96% / 国防 2% / 铁路 2%）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "光缆 / FTTH / 数据中心 / IO 网络设备（自有品牌）"
@@ -209237,7 +209311,7 @@
 "legal_name": "D&N Elektrik Mühendislik（待核）",
 "hq": "Türkiye（城市待核）",
 "size": "待核（小型承包商）",
-"other": "消防安全系统 + 电气工程；仅 Gmail 联系"
+"other": "消防安全系统 + 电气工程；仅 Gmail 联系；第 91 批检索未命中（「D&N Elektrik Mühendislik」Doğan Tanrıkulu：1 次检索仅同名无关）→ Gmail 个体户，不再检索（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电气工程承包",
@@ -232309,7 +232383,8 @@
 "title": "CEO / Partner",
 "email": "george@dc.ge",
 "phone": "+995 577 578 811",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "CEO / Partner（US SAM 镜像 E-Business / Government POC 同名 = 核实）= **老板 = 联系人**；公司 2020-07 → 2022-07 曾注册美国 SAM（UEI J9LKEG5JR7D6 / CAGE SJFH4；NAICS 541512 + 423690 电子设备批发）= 做过美援 / 国际招标项目，之后未续（第 91 批 官方登记核实 2026-10-27）"
 },
 {
 "name": "Daviti Giorgadze",
@@ -232327,11 +232402,12 @@
 "level": "B 级加厚 v1（官网 + D&B + 名录核对）"
 },
 "company_facts": {
-"legal_name": "Delta Consulting LLC",
-"founded": "2014",
-"hq": "72 O. Oniashvili Str., Tbilisi 0160, Georgia",
-"size": "约 30 人，营收约 $2M",
-"other": "US SAM 注册（UEI J9LKEG5JR7D6）"
+"legal_name": "DELTA CONSULTING LLC（შპს；Tbilisi；SAM UEI J9LKEG5JR7D6 / CAGE SJFH4，Expired 2022-07-14；**同名陷阱：Delta Consulting LLC Oxford MS 无关**）",
+"founded": "2014-01-08（SAM business start）（第 91 批 官方登记核实 2026-10-27）",
+"hq": "72 O. Oniashvili Str., Tbilisi 0160, Georgia（第 91 批 官方登记核实 2026-10-27）",
+"size": "小型 IT 集成商（第 91 批 官方登记核实 2026-10-27）",
+"other": "US SAM 注册（UEI J9LKEG5JR7D6）；集成 25%，管理型 24 口 + 10G 上联（招标要 L2+/L3 规格书 → Marvell 线英文规格）；**信里不提 SAM / 美援**（第 91 批 官方登记核实 2026-10-27）",
+"staff": "小型（估 10–30 人）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "服务器 / 网络 / 通信集成（Cisco、Dell、Juniper）",
@@ -261000,6 +261076,20 @@
 "email": "marketing@comtech.net.pk（官网公开）",
 "phone": "+92 335 287 6148（用户表 WA = ZoomInfo 公司电话）",
 "source": "https://www.zoominfo.com/c/comtech/470605669"
+},
+{
+"name": "Muhammad Farooq Zaheer",
+"role": "CEO = 老板 —— 公司 = **Cisco 巴基斯坦「Partner of the Year 2026」+ Fortinet 伙伴（50–100 人）→ 判定：只在银行 / 政府标里要「非 Cisco 接入层」时有机会；一封抄 Rehan Shaikh，无回即停**（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://comtech.net.pk/"
+},
+{
+"name": "Rehan Shaikh",
+"role": "Co-Founder / Director of Sales = 销售拍板（抄送）；COO Abdul Rehman Zaheer（家族）；Head of Solutions Muhammad Irfan Ghauri（2026-01）（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.issuewire.com/comtech-associates-joins-cisco-partner-summit-2026-as-a-cisco-partner-1879935322008449"
 }
 ],
 "grade_override": null,
@@ -261010,11 +261100,12 @@
 "level": "B 级加厚 v1（官网 + 名录核对）"
 },
 "company_facts": {
-"legal_name": "Comtech Associates（Pvt.）Ltd.（全称待核）",
-"founded": "2010（LinkedIn）",
-"hq": "Office 53/3 Sheet 17 Khadim Avenue, Karachi；The Hive 3rd Floor, NASTP, Shahrah-e-Faisal（+92 21 3440 4440 / 4441；+92 331 114 4220；marketing@comtech.net.pk）",
-"size": "11–50（LinkedIn）",
-"other": "Cisco / Fortinet / D-Link 伙伴；24/7 SOC；四城办公"
+"legal_name": "COMTECH ASSOCIATES (PVT.) LTD（SECP 注册号未取）",
+"founded": "2010（LinkedIn）/ 2017（Clutch）（第 91 批 官方登记核实 2026-10-27）",
+"hq": "The Hive 3rd Floor, NASTP, Shahrah-e-Faisal, Karachi（+92 21 3440 4440）（第 91 批 官方登记核实 2026-10-27）",
+"size": "中小型（企业网络 / 网络安全 / 数据中心集成；24/7 SOC；客户含海湾）（第 91 批 官方登记核实 2026-10-27）",
+"other": "Cisco / Fortinet / D-Link 伙伴；24/7 SOC；四城办公",
+"staff": "50–100 人（LinkedIn 11–50 / Clutch 50–249）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "网络基础设施集成（Cisco、D-Link）",
@@ -306110,10 +306201,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Marmaris Bilişim（待核）",
-"hq": "Marmaris / Muğla, Türkiye（推测）",
-"size": "微型",
-"other": "不会英文（用土耳其语）"
+"legal_name": "Marmaris Bilişim（Marmaris Wifi；推定 şahıs 个体，VKN 未取）",
+"hq": "Sarıana Mah. Mustafa Kemal Paşa Cad. No:19, Marmaris / Muğla（info@marmarisbilisim.com.tr）（第 91 批 官方登记核实 2026-10-27）",
+"size": "微型（电脑 / 网络零售 + 本地 Wi-Fi 接入服务）（第 91 批 官方登记核实 2026-10-27）",
+"other": "不会英文（用土耳其语）；度假区酒店 / 商铺 Wi-Fi 场景 → 土耳其语 WhatsApp 一页价，一封无回即停；更划算是让他从 TR 分销户拿货（第 91 批 官方登记核实 2026-10-27）",
+"staff": "微型（1–5 人）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "本地 IT/网络服务（推测）"
@@ -308634,8 +308726,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 lanberg.pl，语言 ?，快照状态 http_error；角色判定来源：用户表"
+"hq": "ul. Stanisława Lema 16, 62-050 Mosina（波兹南南）（第 91 批 官方登记核实 2026-10-27）",
+"other": "官网 lanberg.pl，语言 ?，快照状态 http_error；角色判定来源：用户表；**lanberg.pl 不是小店 —— Lanberg 产品线本就含交换机 = OEM 品牌商首选 → 写 Lanberg product manager（Impakt 采购）OEM 30%**；zarząd 待 rejestr.io 补（第 91 批 官方登记核实 2026-10-27）",
+"legal_name": "IMPAKT S.A.（Lanberg 品牌权人；KRS 0000585900，NIP 7831720485，REGON 360441981，**股本 60,761,002 zł**）",
+"founded": "品牌 Lanberg 2015；Impakt S.A. 2015-10 登记（集团更早）（第 91 批 官方登记核实 2026-10-27）",
+"staff": "Lanberg 品牌页 51–200；Impakt 集团数百人（第 91 批 官方登记核实 2026-10-27）",
+"size": "大型（波兰 IT 配件自有品牌集团：Lanberg / Natec / Genesis）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "IT 配件 / 网络产品（品牌 Lanberg）"
@@ -308876,7 +308972,7 @@
 "legal_name": "Marbim（待核；「bim」常为 Bilişim 缩写）",
 "hq": "Türkiye（待核）",
 "size": "待核",
-"other": "仅 WhatsApp 渠道"
+"other": "仅 WhatsApp 渠道；第 91 批检索未命中（marbim.com.tr：1 次检索仅 Merbim / Narbim / Marmara Bilişim 等近名，无法定名 / VKN）→ 不写回登记；仅 WhatsApp 线（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "（待核）IT/安防"
@@ -346043,7 +346139,7 @@
 "kp": [
 {
 "name": "Harish Gupta",
-"title": "Director",
+"title": "Director（DIN 01054370，2004-12-13 起；与 Neelam Gupta 夫妻档）= **老板 = 联系人** → OEM 30% Anda 标 PoE 8/16/24（我方不供媒转 / ONU），MOQ 20 台 / 型号；**信里不提 ONV / AOA**（第 91 批 官方登记核实 2026-10-27）",
 "email": "harish@andatelecom.com",
 "phone": "+91 93502 57173",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -346054,6 +346150,13 @@
 "email": "subhash@andatelecom.com",
 "phone": "+91 99686 50294",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Neelam Gupta",
+"role": "Director（DIN 02122908，2004-12-13 起）= 配偶合伙（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.zaubacorp.com/company/ANDA-TELECOM-PRIVATE-LIMITED/U64202DL2004PTC131212"
 }
 ],
 "grade_override": null,
@@ -346064,11 +346167,12 @@
 "level": "B 级加厚 v1（官网快照核对：自有型号 OEM）"
 },
 "company_facts": {
-"legal_name": "Anda Telecom Private Limited",
-"founded": "（待核）",
-"hq": "Noida, Uttar Pradesh, India",
-"size": "中小型电信产品商（自有型号）",
-"other": "从 ONV / AOA 等中国厂采购贴牌"
+"legal_name": "ANDA TELECOM PRIVATE LIMITED（CIN U64202DL2004PTC131212；实缴 ₹1 lakh）",
+"founded": "2004-12-13（第 91 批 官方登记核实 2026-10-27）",
+"hq": "E-36 Amar Colony, Lajpat Nagar-IV, New Delhi 110024（制造 E-38 Sector 6, Noida 201301）（第 91 批 官方登记核实 2026-10-27）",
+"size": "小型（电信 / 光纤产品自有品牌 + Noida 组装）= OEM 品牌商（第 91 批 官方登记核实 2026-10-27）",
+"other": "从 ONV / AOA 等中国厂采购贴牌",
+"staff": "1–10 人（EMIS）；FY2024 营收 ₹12.81 cr（≈$1.5M，−23%）、FY2025 +22%（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电信级光传输（PDH、E1、光复用、EDFA 需求）",
@@ -354328,7 +354432,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Daniel Peter Willgoose",
+"role": "业主 / 主事人（D&B Key Principal；同邮编自管养老金 NET SECURITY WHOLESALERS SUPER FUND ABN 27 140 358 544 = 业主自营）= **老板 = 联系人** → 分销 20% CCTV 配套 PoE + 工业 DIN，RCM 他们（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://abr.business.gov.au/ABN/View?abn=94083730250"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -354337,8 +354449,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "澳大利亚",
-"other": "官网 netsecurity.com.au，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "4 Commercial Street, Marleston, SA 5033（阿德莱德）（第 91 批 官方登记核实 2026-10-27）",
+"other": "官网 netsecurity.com.au，语言 en，快照状态 ok；角色判定来源：官网文案",
+"legal_name": "NET SECURITY WHOLESALERS PTY LTD（ABN 94 083 730 250；DBA NetDigital Surveillance）",
+"founded": "≈1998（ACN 083 段）（第 91 批 官方登记核实 2026-10-27）",
+"staff": "小型（估 5–15 人）（第 91 批 官方登记核实 2026-10-27）",
+"size": "小型（安防 / CCTV 批发）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电子安防进口批发（CCTV / 门禁 / 网络）"
@@ -355719,7 +355835,7 @@
 "legal_name": "Düzgün Toptan Ticaret（待核）",
 "hq": "Türkiye（待核）",
 "size": "小型批发商（推测）",
-"other": "Gmail 联系；WhatsApp 已加"
+"other": "Gmail 联系；WhatsApp 已加；第 91 批检索未命中（teksarf.com / Düzgün Toptan：1 次检索仅泛化「toptan kamera」结果）→ 不写回登记；Gmail 个体户，WhatsApp 线（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "IT/安防耗材批发（推测）"
@@ -357070,7 +357186,7 @@
 "kp": [
 {
 "name": "İbrahim（姓氏待核）",
-"role": "（ISAF 名片）",
+"role": "推定业主（ISAF 名片；仅 WhatsApp）—— 公司法定名含「电气 / 机械」= **Gebze 工业区安防 + 电气小集成商（工厂弱电承包）** → 工业 DIN PoE + 8/16 口 PoE，分销 20%，100% 预付（第 91 批 官方登记核实 2026-10-27）",
 "email": "—",
 "phone": "—（Ady WhatsApp）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -357084,10 +357200,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Bilgen Elektronik（待核）",
-"hq": "Türkiye（待核）",
-"size": "待核",
-"other": "仅 WhatsApp"
+"legal_name": "BİLGEN ELEKTRONİK GÜVENLİK SİSTEMLERİ TEKNOLOJİLERİ YAZILIM ELEKTRİK MAKİNA SAN. VE TİC. LTD. ŞTİ.",
+"hq": "Osman Yılmaz Mah. 607/1 Sok. No:21, 41400 Gebze / Kocaeli（+90 262 643 61 18）（第 91 批 官方登记核实 2026-10-27）",
+"size": "微型 / 小型（第 91 批 官方登记核实 2026-10-27）",
+"other": "仅 WhatsApp",
+"staff": "微型 / 小型（估 3–10 人）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电子/安防（推测）"
@@ -358706,7 +358823,7 @@
 "founded": "2000-04-05",
 "hq": "113 Eunos Avenue 3 #04-18 Gordon Industrial Building, Singapore 409838（+65 6749 6390；+65 9761 1286）",
 "size": "小型（豁免私人公司）",
-"other": "楼宇工程设计/顾问 + 弱电供货（样品单为 ONU）"
+"other": "楼宇工程设计/顾问 + 弱电供货（样品单为 ONU）；第 91 批：按既有 ACRA 事实建档（UEN 200002876C）；一人工程顾问 + 弱电供货，样品单为 ONU（我方不供 GPON）→ 只回交换机线 8/16 口 PoE + 24 口管理型，集成 25%，100% 预付，一封无回即停（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "楼宇工程设计与顾问",
@@ -359936,7 +360053,8 @@
 "company_facts": {
 "legal_name": "JTS Telecom（表内；未能核实）",
 "hq": "加拿大",
-"size": "微型/个体"
+"size": "微型/个体",
+"other": "第 91 批检索未命中（「JTS Telecom」加拿大：1 次检索仅 JTS Consulting 温哥华 / JTS Services 蒙特利尔 POS 等同名，均无法与 joejts@hotmail.com 对上）→ 不写回（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电信布线/承包（推断）",
@@ -361843,7 +361961,7 @@
 "kp": [
 {
 "name": "Uğur Şimşek",
-"role": "（ISAF 名片；Netmax）",
+"role": "Manager / 业主（D&B Key Principal；TRNOG 成员）= **老板 = 联系人**（WhatsApp 已加）—— 公司 = **Çerkezköy 工业区 ISP（2016 起，11–50 人）→ 要的是接入交换机 + 给无线 CPE 供电的 PoE，不是 CCTV 套装**：STI-0240GE $130 / STC-110XGE $65 / STI-154GP，分销 20%（第 91 批 官方登记核实 2026-10-27）",
 "email": "—",
 "phone": "—（Ady WhatsApp）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -361857,10 +361975,12 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Netmax（待核；土耳其同名公司多，需从名片核实）",
-"hq": "Türkiye（待核）",
-"size": "待核",
-"other": "WhatsApp 已加"
+"legal_name": "NETMAX TELEKOMÜNİKASYON İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ（Mersis 未命中）",
+"hq": "Gazi Mustafa Kemal Paşa Mah. Öztırak Cad. No:141, 59500 Çerkezköy / Tekirdağ（第 91 批 官方登记核实 2026-10-27）",
+"size": "小型 ISP（第 91 批 官方登记核实 2026-10-27）",
+"other": "WhatsApp 已加",
+"founded": "2016（LinkedIn）（第 91 批 官方登记核实 2026-10-27）",
+"staff": "11–50（LinkedIn）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "网络/安防工程或分销（推测）"
@@ -395429,10 +395549,24 @@
 },
 {
 "name": "Pankaj Sodhi",
-"title": "CEO（2026-04 起；表内「有回复了」）",
+"title": "CEO（2026-04 起；职业经理人 —— **拍板在 Mittal 家族：Anil / Manav Mittal 董事**）= 写他并请转采购决策人：OEM 30% GoIP 标 PoE 8/16/24 + 2.5G，BIS 他们，SKD / 整机两档（第 91 批 官方登记核实 2026-10-27）",
 "email": "pankaj.sodhi@goip.in",
 "phone": "WhatsApp +91-98189 89801（2024-10-24 他自己给的）；Skype pankaj.sodhi",
 "source": "S 邮箱 2024-10-24 来信「Kindly share Price… I am on WhatsApp at +91-9818989801」"
+},
+{
+"name": "Anil Mittal",
+"role": "Director（DIN 00117877，2004-09-20 起）= 实控家族长；姊妹公司 GOIP GLOBAL SOLUTIONS PVT LTD（CIN U72900DL2008PTC173861）同董事（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.zaubacorp.com/company/GO-IP-GLOBAL-SERVICES-PRIVATE-LIMITED/U74899DL1994PTC061633"
+},
+{
+"name": "Manav Mittal",
+"role": "Director（DIN 08586626，2023-05-02 起）= 二代（抄送候选）（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.zaubacorp.com/company/GO-IP-GLOBAL-SERVICES-PRIVATE-LIMITED/U74899DL1994PTC061633"
 }
 ],
 "grade_override": null,
@@ -395443,11 +395577,12 @@
 "level": "B 级加厚 v1（官网 + LinkedIn + CRISIL 核对：品牌商 OEM，A 候选）"
 },
 "company_facts": {
-"legal_name": "GO IP Global Services Private Limited",
-"founded": "1994（Syrotech 品牌 2014）",
-"hq": "D-206, Sector 63, Noida, Uttar Pradesh, India",
-"size": "201–500 人；500 渠道伙伴",
-"other": "CRISIL 评级；Make in India 组装"
+"legal_name": "GO IP GLOBAL SERVICES PRIVATE LIMITED（CIN U74899DL1994PTC061633；实缴 ₹51 lakh）",
+"founded": "1994-09-20（第 91 批 官方登记核实 2026-10-27）",
+"hq": "Noida Sector 63, UP（ROC Delhi）（第 91 批 官方登记核实 2026-10-27）",
+"size": "中小型（IP 电话 / 网络产品自有品牌 GoIP + 印度组装 + 分销）= OEM 品牌商（第 91 批 官方登记核实 2026-10-27）",
+"other": "CRISIL 评级；Make in India 组装",
+"staff": "中小型（估 50–150 人）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "FTTx（OLT/ONT）与光模块（自有品牌）",
@@ -414794,7 +414929,7 @@
 },
 "company_facts": {
 "hq": "澳大利亚",
-"other": "官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案；第 91 批检索未命中（netsolutionstore.com.au：1 次检索仅无关 Net Solutions / Netsol；ABR 常用词检索易截断）→ 下轮试 ABR「net solution store」（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "Extreme Networks 产品专营"
@@ -430188,7 +430323,7 @@
 "kp": [
 {
 "name": "Roberto Grassi",
-"title": "Procurement Manager",
+"title": "Procurement Manager（Intracom Telecom 希腊总部）= **正式采购口 = 写他**：集成 25%，24/48 口管理型 + 10G 上联英文规格 + CE/RoHS，随附供应商注册资料（VAT / 银行 / ISO 9001 厂证）；不主动追（第 91 批 官方登记核实 2026-10-27）",
 "email": "rgrassi@intracom-telecom.com",
 "phone": "",
 "source": "用户表"
@@ -430202,7 +430337,7 @@
 },
 {
 "name": "Mohammad Yaacoub",
-"title": "Projects Manager",
+"title": "Projects Manager（中东项目；2024-08 / 2024-10 来信）= 抄送（第 91 批 官方登记核实 2026-10-27）",
 "email": "mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07）",
 "phone": "+971 50 654 5766（2024-10-09 签名 m:）",
 "source": "S 邮箱来信表头"
@@ -430216,8 +430351,12 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "希腊",
-"other": "官网 intracom-telecom.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "19.7 km Markopoulou Ave., Paiania 19002, Greece（FZE: Dubai）（第 91 批 官方登记核实 2026-10-27）",
+"other": "官网 intracom-telecom.com，语言 en，快照状态 ok；角色判定来源：用户表；**信里不提瑞士投资人 / 裁员**；国别保持 GR（第 91 批 官方登记核实 2026-10-27）",
+"legal_name": "INTRACOM TELECOM（Paiania, Greece）；唯一股东 INTRACOM MIDDLE EAST FZE（Dubai，2015-01 起；瑞士投资人全资）",
+"founded": "1977（Intracom Telecom）；FZE 控股 2014–2015（第 91 批 官方登记核实 2026-10-27）",
+"staff": "1,071（tracxn 2026-05）← 约 1,600（2024-07 官方）= 收缩期（第 91 批 官方登记核实 2026-10-27）",
+"size": "大型电信系统厂商（无线回传 / FTTx / 智慧城市 / 系统集成）= 同行 + 项目集成双重身份（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "电信系统（无线接入 / 光纤 / ICT 项目）"
@@ -456352,10 +456491,17 @@
 "kp": [
 {
 "name": "Anton van der Westhuizen",
-"title": "Sales Manager",
+"title": "Technical Support & Sales Manager（IBG 买家指南）= 联系人；老板 = 创始人 Bob Petrie —— 公司 = **Westermo 南部非洲独家分销（2–10 人顾问行）→ 不会替掉独家品牌；仅作交通 / 矿业客户的「非独家配套」价格副线：STI-054GP / STI-154GP 集成 25%，一封无回即停**（第 91 批 官方登记核实 2026-10-27）",
 "email": "anton@throughput.co.za",
 "phone": "+27 83 659 3290",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Bob Petrie",
+"role": "创始人（1997）= 老板（Petrie 家族：Brenda Petrie HR）；Gillian Andersson 经理、Mashudu Mudau 分销经理（第 91 批 官方登记核实 2026-10-27）",
+"email": "",
+"phone": "",
+"source": "https://www.throughput.co.za/about-us/profile.html"
 }
 ],
 "grade_override": null,
@@ -456366,11 +456512,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 守界）"
 },
 "company_facts": {
-"legal_name": "Throughput Technologies (Pty) Ltd",
-"founded": "（待核）",
-"hq": "Johannesburg, South Africa",
-"size": "中小型工业网络分销 / 方案",
-"other": "Westermo 南非伙伴"
+"legal_name": "THROUGHPUT TECHNOLOGIES (PTY) LTD（CIPC 登记号未取）",
+"founded": "1997（第 91 批 官方登记核实 2026-10-27）",
+"hq": "42 Thembi Place Office Park, Calderwood Road, Lonehill, Johannesburg（第 91 批 官方登记核实 2026-10-27）",
+"size": "微型（工业数据通信分销 + 顾问；Westermo / ProSoft / Secomea / Welotec）（第 91 批 官方登记核实 2026-10-27）",
+"other": "Westermo 南非伙伴；**信里不提 Westermo / Welotec 收购**（第 91 批 官方登记核实 2026-10-27）",
+"staff": "2–10（LinkedIn）（第 91 批 官方登记核实 2026-10-27）"
 },
 "business_lines": [
 "工业以太网 / 光纤网络方案（Westermo、Atop）",

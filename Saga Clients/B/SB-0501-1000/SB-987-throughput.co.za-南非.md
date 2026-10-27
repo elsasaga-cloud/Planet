@@ -87,6 +87,22 @@ updated: 2026-10-27
 
 - 法定假日：11-04 Local Government Elections —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 91 批（ZA · 1 次检索：throughput.co.za profile / partners（1997 起工业数据通信顾问 + 分销；Westermo **南部非洲独家**，ProSoft / Secomea / Welotec 授权；「不做安装集成，只供货 + 顾问」；42 Thembi Place Office Park, Calderwood Rd, Lonehill）+ IBG 买家指南（Gillian Andersson 经理、Mashudu Mudau 分销经理、Brenda Petrie HR、Anton van der Westhuizen 技术支持 & 销售经理）+ LinkedIn（2–10 人，1997）+ Secomea 2011 新闻稿（创始人 Bob Petrie）；CIPC 登记号未取，2026-10-27 查；https://www.throughput.co.za/about-us/profile.html）：**
+
+- 法定名 / 登记号：THROUGHPUT TECHNOLOGIES (PTY) LTD（Lonehill, Johannesburg；Westermo 南部非洲独家分销） · CIPC 登记号未取 · 状态 **Active** · 成立 1997 · (Pty) Ltd（Petrie 家族：Bob 创始人 + Brenda HR）
+- 行业码 / 经营范围：工业数据通信分销 + 顾问（矿业 / 公用事业 / 交通 / 制造 OT 网络）；**Westermo 独家 = 同类工业交换机已有欧洲品牌**
+- 注册地址：42 Thembi Place Office Park, Calderwood Road, Lonehill, Johannesburg, Gauteng
+- 规模档：微型（2–10 人）
+- 账目：—；ZA 无公开
+- 高管：Bob PETRIE — 创始人（1997）= 老板
+- 高管：Anton VAN DER WESTHUIZEN — Technical Support & Sales Manager（研究档 KP anton@）= 联系人
+- 高管：Gillian ANDERSSON — Manager；Mashudu MUDAU — Distribution Manager
+- 控制人 / 股东：Petrie（推定）
+- **这意味着什么：**
+  - **判定：Westermo 独家分销的小顾问行（10 人以下），不会用中国工业交换机替掉自己的独家品牌；但交通 / 矿业客户要「非独家配套」的便宜 DIN 交换机时可做副线** → 回 Anton 一封：工业 DIN STI-054GP / STI-154GP（CE/RoHS，无 EN 50155）集成 25%，仅作价格副线；无回即停；ZA 当地 10–12 = 北京 16–18
+  - 不说：不提 Westermo / Welotec 收购
+- 备注：研究档 KP Anton 角色补；新增 Bob Petrie。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,16 +141,18 @@ updated: 2026-10-27
   > 兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Anton van der Westhuizen（）anton@throughput.co.za +27 83 659 3290〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Bob Petrie（创始人（1997）= 老板（Petrie 家族：Brenda Petrie HR）；Gillian Andersson 经理、Mashudu Mudau 分销经理（第 91 批 官方登记核实 2026-10-27）） 〔https://www.throughput.co.za/about-us/profile.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 守界））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Throughput Technologies (Pty) Ltd |
-| 成立 | （待核） |
-| 总部/地址 | Johannesburg, South Africa |
-| 其他 | Westermo 南非伙伴 |
+| 法定名称 | THROUGHPUT TECHNOLOGIES (PTY) LTD（CIPC 登记号未取） |
+| 成立 | 1997（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 42 Thembi Place Office Park, Calderwood Road, Lonehill, Johannesburg（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 2–10（LinkedIn）（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | Westermo 南非伙伴；**信里不提 Westermo / Welotec 收购**（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：工业以太网 / 光纤网络方案（Westermo、Atop）；网络冗余、诊断与监控
 - **触达通道（公开）**：role: 工业网络分销 + 方案（服务集成商）；region: 南非 + 周边
@@ -228,6 +246,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Anton van der Westhuizen | — | anton@throughput.co.za / +27 83 659 3290 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Bob Petrie | 创始人（1997）= 老板（Petrie 家族：Brenda Petrie HR）；Gillian Andersson 经理、Mashudu Mudau 分销经理（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.throughput.co.za/about-us/profile.html |
 | Bob Petrie sales | — | sales@throughput.co.za / anton@throughput.co.za / +27836593290 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 | Anton Westhuizen | — | sales@throughput.co.za / anton@throughput.co.za / +27836593290 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 

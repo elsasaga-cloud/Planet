@@ -52,18 +52,25 @@
  ],
  "kp": [
   {
-   "name": "Saurabh",
-   "title": "（采购 / 技术，表内联系人）",
+   "name": "Saurabh Pachchigar",
+   "title": "设计 / 制造负责人（LinkedIn；Pachchigar 家族 = 推定业主之一）= **技术拍板 = 写他**：OEM 30% OTAI 标工业 PoE（STI-054GP / STI-154GP / 288DGGPM-2BT 配其高功率杆件）（第 91 批 官方登记核实 2026-10-27）",
    "email": "saurabh@onnettechnologies.com",
    "phone": "+971 50 559 4409",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   },
   {
    "name": "Piyush S. Shah",
-   "title": "Founder / Managing Director（LinkedIn）",
+   "title": "Director – Business Development（LinkedIn 2026；研究档原记 Founder / MD 应为误读；PMP，31 年经验）= 商务联系人（抄送）（第 91 批 官方登记核实 2026-10-27）",
    "email": "piyush@onnettechnologies.com",
    "phone": "+971 50 184 2443",
    "source": "https://www.linkedin.com/in/piyushsshah/"
+  },
+  {
+   "name": "Dipali Pachchigar",
+   "role": "Director（contactout / RocketReach）= 法定代表 / 家族（第 91 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://ae.linkedin.com/company/otaillc"
   }
  ],
  "grade_override": "B",
@@ -75,11 +82,12 @@
   "level": "B 级加厚 v1（LinkedIn + 名录核对：本土制造商 OEM）"
  },
  "company_facts": {
-  "legal_name": "Onnet Technologies and Innovations LLC",
-  "founded": "2012",
-  "hq": "Shed 1&2, Street 80-81, Ajman Industrial Area 1, Ajman, UAE（PO Box 23170）",
-  "size": "11–50 人",
-  "other": "TDRA 认证；Hikvision TPP 方案伙伴；FCC ID 2ADPY"
+  "legal_name": "ONNET TECHNOLOGIES & INNOVATIONS LLC（OTAI；Ajman 执照号未取）",
+  "founded": "2012（第 91 批 官方登记核实 2026-10-27）",
+  "hq": "Shed 1 & 2, Street 80-81 Junction, Ajman Industrial Area 1（PO Box 23170；+971 6 748 0204）（第 91 批 官方登记核实 2026-10-27）",
+  "size": "小型制造商（高功率 PoE 供电 / 无线 / 智慧杆 / 机箱；TDRA 核准 + FCC ID）= OEM 品牌商（第 91 批 官方登记核实 2026-10-27）",
+  "other": "TDRA 认证；Hikvision TPP 方案伙伴；FCC ID 2ADPY",
+  "staff": "6–50（contactout 6 / LinkedIn 11–50）；营收估 $1–10M（量级）（第 91 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "运营商级长距无线（自有品牌）",

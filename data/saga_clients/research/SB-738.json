@@ -1,106 +1,108 @@
 {
-  "code": "SB-738",
-  "name_official": "Netmax（Uğur Şimşek，TR；无域名）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "ISAF 记录：Uğur Şimşek / Netmax（无邮箱/域名）——Ady 加了 WhatsApp；问了 bypass，具体问了 2 光 8 电带 PoE 带管理的价格，现场报价 $120；无后续跟进。仅表内信息。映射：2 SFP + 8 GE PoE 管理型工业 = STI-288GPM（L2，$82.2）/ STI-288DGGPM（L2+，$137.5）；现场 $120 介于两者之间，报价前核价并说明层级；bypass 仅 4 SFP 版（SmartByte 型号注明）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "ISAF：bypass；2 光 8 电 PoE 管理 $120；WA 已加",
-      "quote": "Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Uğur Şimşek",
-      "role": "（ISAF 名片；Netmax）",
-      "email": "—",
-      "phone": "—（Ady WhatsApp）",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "Netmax（待核；土耳其同名公司多，需从名片核实）",
-    "hq": "Türkiye（待核）",
-    "size": "待核",
-    "other": "WhatsApp 已加"
-  },
-  "business_lines": [
-    "网络/安防工程或分销（推测）"
-  ],
-  "channels": {
-    "WhatsApp": "Ady 已加"
-  },
-  "signals": [
-    "已问到具体价格（$120）→ 需求真实；WhatsApp 直达"
-  ],
-  "risks": [
-    "现场报价与公式价差异需统一口径；bypass 缺口；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 25,
-    "why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）；L2 版 STI-288GPM（$82.2）；ISAF 现场报 $120（层级待核，报价前核价）；bypass 版 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3；Saga 暂无对应型号）"
-  },
-  "email_hook": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "土耳其 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax」；研究档 risks：现场报价与公式价差异需统一口径；bypass 缺口；无后续跟进"
-    },
-    "situation": "ISAF 记录：Uğur Şimşek / Netmax（无邮箱/域名）——Ady 加了 WhatsApp；问了 bypass，具体问了 2 光 8 电带 PoE 带管理的价格，现场报价 $120；无后续跟进。仅表内信息。映射：2 SFP + 8 GE PoE 管理型工业 = STI-288GPM（L2，$82.2）/ STI-288DGGPM（L2+，$137.5）；现场 $120 介于两者之间，报价前核价并说明层级；bypass 仅 4 SFP 版（SmartByte 型号注明）。",
-    "need": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）；L2 版 STI-288GPM（$82.2）；ISAF 现场报 $120（层级待核，报价前核价）；bypass 版 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3；Saga 暂无对应型号）",
-    "breakpoint": "现场报价与公式价差异需统一口径；bypass 缺口；无后续跟进",
-    "saga_now": {
-      "p1": "STI-288DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-      "why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）；L2 版 STI-288GPM（$82.2）；ISAF 现场报 $120（层级待核，报价前核价）；bypass 版 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3；Saga 暂无对应型号）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话（第 75 批(n)：信稿「ERPS」改「halka yedekli」——口径只说 ring redundancy）",
-      "one_question": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (halka yedekli) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-738",
+ "name_official": "Netmax（Uğur Şimşek，TR；无域名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "ISAF 记录：Uğur Şimşek / Netmax（无邮箱/域名）——Ady 加了 WhatsApp；问了 bypass，具体问了 2 光 8 电带 PoE 带管理的价格，现场报价 $120；无后续跟进。仅表内信息。映射：2 SFP + 8 GE PoE 管理型工业 = STI-288GPM（L2，$82.2）/ STI-288DGGPM（L2+，$137.5）；现场 $120 介于两者之间，报价前核价并说明层级；bypass 仅 4 SFP 版（SmartByte 型号注明）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：bypass；2 光 8 电 PoE 管理 $120；WA 已加",
+   "quote": "Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Uğur Şimşek",
+   "role": "Manager / 业主（D&B Key Principal；TRNOG 成员）= **老板 = 联系人**（WhatsApp 已加）—— 公司 = **Çerkezköy 工业区 ISP（2016 起，11–50 人）→ 要的是接入交换机 + 给无线 CPE 供电的 PoE，不是 CCTV 套装**：STI-0240GE $130 / STC-110XGE $65 / STI-154GP，分销 20%（第 91 批 官方登记核实 2026-10-27）",
+   "email": "—",
+   "phone": "—（Ady WhatsApp）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "NETMAX TELEKOMÜNİKASYON İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ（Mersis 未命中）",
+  "hq": "Gazi Mustafa Kemal Paşa Mah. Öztırak Cad. No:141, 59500 Çerkezköy / Tekirdağ（第 91 批 官方登记核实 2026-10-27）",
+  "size": "小型 ISP（第 91 批 官方登记核实 2026-10-27）",
+  "other": "WhatsApp 已加",
+  "founded": "2016（LinkedIn）（第 91 批 官方登记核实 2026-10-27）",
+  "staff": "11–50（LinkedIn）（第 91 批 官方登记核实 2026-10-27）"
+ },
+ "business_lines": [
+  "网络/安防工程或分销（推测）"
+ ],
+ "channels": {
+  "WhatsApp": "Ady 已加"
+ },
+ "signals": [
+  "已问到具体价格（$120）→ 需求真实；WhatsApp 直达"
+ ],
+ "risks": [
+  "现场报价与公式价差异需统一口径；bypass 缺口；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）；L2 版 STI-288GPM（$82.2）；ISAF 现场报 $120（层级待核，报价前核价）；bypass 版 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3；Saga 暂无对应型号）"
+ },
+ "email_hook": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax」；研究档 risks：现场报价与公式价差异需统一口径；bypass 缺口；无后续跟进"
+  },
+  "situation": "ISAF 记录：Uğur Şimşek / Netmax（无邮箱/域名）——Ady 加了 WhatsApp；问了 bypass，具体问了 2 光 8 电带 PoE 带管理的价格，现场报价 $120；无后续跟进。仅表内信息。映射：2 SFP + 8 GE PoE 管理型工业 = STI-288GPM（L2，$82.2）/ STI-288DGGPM（L2+，$137.5）；现场 $120 介于两者之间，报价前核价并说明层级；bypass 仅 4 SFP 版（SmartByte 型号注明）。",
+  "need": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）；L2 版 STI-288GPM（$82.2）；ISAF 现场报 $120（层级待核，报价前核价）；bypass 版 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3；Saga 暂无对应型号）",
+  "breakpoint": "现场报价与公式价差异需统一口径；bypass 缺口；无后续跟进",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）；L2 版 STI-288GPM（$82.2）；ISAF 现场报 $120（层级待核，报价前核价）；bypass 版 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3；Saga 暂无对应型号）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话（第 75 批(n)：信稿「ERPS」改「halka yedekli」——口径只说 ring redundancy）",
+   "one_question": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (halka yedekli) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
+  },
+  "as_of": "2026-10-24"
+ }
 }

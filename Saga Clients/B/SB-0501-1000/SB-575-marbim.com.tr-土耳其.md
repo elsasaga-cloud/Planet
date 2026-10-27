@@ -109,7 +109,7 @@ updated: 2026-10-27
 |---|---|
 | 法定名称 | Marbim（待核；「bim」常为 Bilişim 缩写） |
 | 总部/地址 | Türkiye（待核） |
-| 其他 | 仅 WhatsApp 渠道 |
+| 其他 | 仅 WhatsApp 渠道；第 91 批检索未命中（marbim.com.tr：1 次检索仅 Merbim / Narbim / Marmara Bilişim 等近名，无法定名 / VKN）→ 不写回登记；仅 WhatsApp 线（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：（待核）IT/安防
 - **触达通道（公开）**：网站: http://marbim.com.tr/（未核）；WhatsApp: Ady 已加（号码在 Ady 手机）

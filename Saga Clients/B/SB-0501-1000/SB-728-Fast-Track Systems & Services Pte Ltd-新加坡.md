@@ -82,6 +82,19 @@ updated: 2026-10-27
 
 - 法定假日：11-08 Diwali；11-09 Diwali (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 91 批（SG · 既有调研建档（ACRA 镜像已在研究档：UEN 200002876C，2000-04-05 成立，豁免私人公司；113 Eunos Avenue 3 #04-18 Gordon Industrial Building 409838；+65 6749 6390）；本轮不再检索（ACRA Bizfile 付费、镜像无董事），2026-10-27 查；https://www.sgpbusiness.com/company/Fast-Track-Systems-Services-Pte-Ltd）：**
+
+- 法定名 / 登记号：FAST-TRACK SYSTEMS & SERVICES PTE LTD（Eunos, Singapore） · UEN 200002876C · 状态 **Live Company** · 成立 2000-04-05 · Exempt Private Company Limited by Shares
+- 行业码 / 经营范围：楼宇工程设计 / 顾问 + 弱电供货（样品单为 ONU）
+- 注册地址：113 Eunos Avenue 3 #04-18, Gordon Industrial Building, Singapore 409838
+- 规模档：微型（1–10 人）
+- 账目：豁免私人公司不公开；—
+- 高管：Alan TAN — 研究档 KP（alan_ftss@yahoo.com.sg；推定董事 / 业主）
+- 控制人 / 股东：Tan（推定）
+- **这意味着什么：**
+  - **2000 年起的一人工程顾问 + 弱电供货，样品单买过 ONU（我方不供 GPON）** → 只回有需求的交换机线：8/16 口 PoE + 24 口管理型，集成 25%，SG 无强制认证、100% 预付；SG 当地 10–12 = 北京 10–12；一封无回即停
+- 备注：既有事实建档，不新增 KP。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,7 +130,7 @@ updated: 2026-10-27
 | 法定名称 | FAST-TRACK SYSTEMS & SERVICES PTE LTD（UEN 200002876C） |
 | 成立 | 2000-04-05 |
 | 总部/地址 | 113 Eunos Avenue 3 #04-18 Gordon Industrial Building, Singapore 409838（+65 6749 6390；+65 9761 1286） |
-| 其他 | 楼宇工程设计/顾问 + 弱电供货（样品单为 ONU） |
+| 其他 | 楼宇工程设计/顾问 + 弱电供货（样品单为 ONU）；第 91 批：按既有 ACRA 事实建档（UEN 200002876C）；一人工程顾问 + 弱电供货，样品单为 ONU（我方不供 GPON）→ 只回交换机线 8/16 口 PoE + 24 口管理型，集成 25%，100% 预付，一封无回即停（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：楼宇工程设计与顾问；弱电/网络设备项目供货
 - **触达通道（公开）**：邮箱: alan_ftss@yahoo.com.sg（用户表）；WhatsApp: +65 9761 1286（用户表 = 注册电话）

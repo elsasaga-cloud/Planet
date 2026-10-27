@@ -81,6 +81,23 @@ updated: 2026-10-27
 
 - 法定假日：11-09 Iqbal Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 91 批（PK · 1 次检索：comtech.net.pk（CEO Muhammad Farooq ZAHEER；The Hive 3rd Floor, NASTP, Shahrah-e-Faisal, Karachi；+92 21 3440 4440；Cisco 认证伙伴 + Fortinet / Kaspersky / Sangfor；15 个技术伙伴）+ IssueWire 2026-10-26（CEO 赴温哥华 Cisco Partner Summit 2026；联合创始人 Rehan SHAIKH、COO Abdul Rehman ZAHEER）+ LinkedIn 2026-10（Cisco「Partner of the Year 2026」+ 4 奖；2024 SMB Emerging Partner、2025 SMB Partner Award）+ bloompakistan 2026-09（ITCN Asia 2026 与 Cisco 同展；银行 / 电信 / 医疗 / 政府 / 制造客户，含海湾）+ LinkedIn（11–50 人，2010）/ Clutch（50–249 人，2017），2026-10-27 查；https://comtech.net.pk/）：**
+
+- 法定名 / 登记号：COMTECH ASSOCIATES（Pvt.）LTD（Karachi；Cisco Partner of the Year 2026 Pakistan） · SECP 注册号未取 · 状态 **Active** · 成立 2010（LinkedIn）/ 2017（Clutch） · (Pvt.) Ltd（Zaheer 家族 + Shaikh）
+- 行业码 / 经营范围：企业网络 / 网络安全 / 数据中心 系统集成（**Cisco 首选伙伴 + Fortinet**；24/7 SOC）
+- 注册地址：The Hive 3rd Floor, NASTP, Shahrah-e-Faisal, Karachi（另 Office 53/3 Sheet 17 Khadim Avenue）
+- 规模档：中小型（50–100 人）
+- 账目：—；—
+- 高管：Muhammad Farooq ZAHEER — CEO = 老板
+- 高管：Rehan SHAIKH — Co-Founder / Director of Sales
+- 高管：Abdul Rehman ZAHEER — COO / Director（家族）
+- 高管：Muhammad Irfan GHAURI — Head of Solutions（2026-01 加入）；研究档 KP 仅 WA 号 + marketing@
+- 控制人 / 股东：Zaheer + Shaikh（推定）
+- **这意味着什么：**
+  - **判定：Cisco 巴基斯坦年度伙伴（2026-10）—— 主业卖 Cisco / Fortinet，不会把我们当主线；只在银行 / 政府标里要「非 Cisco 接入层」压价时有机会** → 一封给 marketing@ 抄 Rehan Shaikh（销售总监）：Marvell L2+ 24/48 口 + 10G 上联作接入层备选、集成 25%、英文规格 + CE/RoHS；无回即停；PK 北京 13–15
+  - 不说：不提 Cisco 奖项
+- 备注：研究档 KP 无名 → 新增 Zaheer / Shaikh。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,15 +137,18 @@ updated: 2026-10-27
   > 闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（姓名未记录；WA 号 +92 335 287 6148）（（待核））marketing@comtech.net.pk（官网公开） +92 335 287 6148（用户表 WA = ZoomInfo 公司电话）〔https://www.zoominfo.com/c/comtech/470605669〕
+- **KP**：Muhammad Farooq Zaheer（CEO = 老板 —— 公司 = **Cisco 巴基斯坦「Partner of the Year 2026」+ Fortinet 伙伴（50–100 人）→ 判定：只在银行 / 政府标里要「非 Cisco 接入层」时有机会；一封抄 Rehan Shaikh，无回即停**（第 91 批 官方登记核实 2026-10-27）） 〔https://comtech.net.pk/〕
+- **KP**：Rehan Shaikh（Co-Founder / Director of Sales = 销售拍板（抄送）；COO Abdul Rehman Zaheer（家族）；Head of Solutions Muhammad Irfan Ghauri（2026-01）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.issuewire.com/comtech-associates-joins-cisco-partner-summit-2026-as-a-cisco-partner-1879935322008449〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Comtech Associates（Pvt.）Ltd.（全称待核） |
-| 成立 | 2010（LinkedIn） |
-| 总部/地址 | Office 53/3 Sheet 17 Khadim Avenue, Karachi；The Hive 3rd Floor, NASTP, Shahrah-e-Faisal（+92 21 3440 4440 / 4441；+92 331 114 4220；marketing@comtech.net.pk） |
+| 法定名称 | COMTECH ASSOCIATES (PVT.) LTD（SECP 注册号未取） |
+| 成立 | 2010（LinkedIn）/ 2017（Clutch）（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | The Hive 3rd Floor, NASTP, Shahrah-e-Faisal, Karachi（+92 21 3440 4440）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 50–100 人（LinkedIn 11–50 / Clutch 50–249）（第 91 批 官方登记核实 2026-10-27） |
 | 其他 | Cisco / Fortinet / D-Link 伙伴；24/7 SOC；四城办公 |
 
 - **业务线**：网络基础设施集成（Cisco、D-Link）；网络安全（Fortinet、托管 SOC）；数据中心/云、托管 IT、软件
@@ -232,7 +252,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | +923352876148 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Muhammad Farooq Zaheer | CEO = 老板 —— 公司 = **Cisco 巴基斯坦「Partner of the Year 2026」+ Fortinet 伙伴（50–100 人）→ 判定：只在银行 / 政府标里要「非 Cisco 接入层」时有机会；一封抄 Rehan Shaikh，无回即停**（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://comtech.net.pk/ |
+| Rehan Shaikh | Co-Founder / Director of Sales = 销售拍板（抄送）；COO Abdul Rehman Zaheer（家族）；Head of Solutions Muhammad Irfan Ghauri（2026-01）（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.issuewire.com/comtech-associates-joins-cisco-partner-summit-2026-as-a-cisco-partner-1879935322008449 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；无邮箱：只能电话 / WhatsApp / 官网表单
 
@@ -268,7 +289,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：有 4 次实质回复（对方认识我们）；WhatsApp 直达
-- **W**：无具名决策人，仍是公司级触达；南亚：物流/收款/汇率摩擦高于主攻区
+- **W**：南亚：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -285,7 +306,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ WhatsApp 已加 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |

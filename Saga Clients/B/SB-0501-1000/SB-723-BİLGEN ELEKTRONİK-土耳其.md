@@ -74,6 +74,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 91 批（TR · 1 次检索：iletisimadresleri 名录（法定全名；Osman Yılmaz Mah. 607/1 Sok. No:21, 41400 Gebze；+90 262 643 61 18 / +90 532 284 46 18；类别：电信 / 报警 - 摄像机 - 安防）+ LinkedIn 个人页「bilgenelektronik」（447 人脉），2026-10-27 查；https://www.iletisimadresleri.com/en/bilgen-elektronik-854751）：**
+
+- 法定名 / 登记号：BİLGEN ELEKTRONİK GÜVENLİK SİSTEMLERİ TEKNOLOJİLERİ YAZILIM ELEKTRİK MAKİNA SAN. VE TİC. LTD. ŞTİ.（Gebze / Kocaeli） · 未取 · 状态 **Aktif** · 成立 未取 · Limited Şirket
+- 行业码 / 经营范围：安防 / 报警 / CCTV + 电气 / 机械 安装（Gebze 工业区集成商）
+- 注册地址：Osman Yılmaz Mah. 607/1 Sok. No:21, 41400 Gebze / Kocaeli
+- 规模档：微型 / 小型（估 3–10 人）
+- 账目：—；—
+- 高管：İbrahim（姓氏待核）— 研究档 ISAF 名片联系人（仅 WhatsApp）；推定业主
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Gebze 工业区的安防 + 电气小集成商（法定名含「电气 / 机械」= 工厂弱电承包）** → WhatsApp 一页价：工业 DIN PoE（STI-054GP / STI-154GP）+ 8/16 口 PoE，分销 20%，100% 预付；TR 周四 10–12
+  - 不再检索
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -96,15 +109,16 @@ updated: 2026-10-27
 - **【用户表】ISAF：2 光 8 电 bypass；PoE 功率；WA 已加**
   > Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：İbrahim（姓氏待核）（（ISAF 名片））— —（Ady WhatsApp）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：İbrahim（姓氏待核）（推定业主（ISAF 名片；仅 WhatsApp）—— 公司法定名含「电气 / 机械」= **Gebze 工业区安防 + 电气小集成商（工厂弱电承包）** → 工业 DIN PoE + 8/16 口 PoE，分销 20%，100% 预付（第 91 批 官方登记核实 2026-10-27））— —（Ady WhatsApp）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Bilgen Elektronik（待核） |
-| 总部/地址 | Türkiye（待核） |
+| 法定名称 | BİLGEN ELEKTRONİK GÜVENLİK SİSTEMLERİ TEKNOLOJİLERİ YAZILIM ELEKTRİK MAKİNA SAN. VE TİC. LTD. ŞTİ. |
+| 总部/地址 | Osman Yılmaz Mah. 607/1 Sok. No:21, 41400 Gebze / Kocaeli（+90 262 643 61 18）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 微型 / 小型（估 3–10 人）（第 91 批 官方登记核实 2026-10-27） |
 | 其他 | 仅 WhatsApp |
 
 - **业务线**：电子/安防（推测）
@@ -133,7 +147,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| İbrahim（姓氏待核） | （ISAF 名片） | — / —（Ady WhatsApp） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| İbrahim（姓氏待核） | 推定业主（ISAF 名片；仅 WhatsApp）—— 公司法定名含「电气 / 机械」= **Gebze 工业区安防 + 电气小集成商（工厂弱电承包）** → 工业 DIN PoE + 8/16 口 PoE，分销 20%，100% 预付（第 91 批 官方登记核实 2026-10-27） | — / —（Ady WhatsApp） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；无邮箱：只能电话 / WhatsApp / 官网表单
 

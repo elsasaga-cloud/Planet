@@ -41,10 +41,24 @@
  "kp": [
   {
    "name": "Asif（asif@）",
-   "role": "销售负责人（Facebook 主页公开）",
+   "role": "销售负责人（Facebook 公开）= 联系人；拍板 = Senior MD Muhammad Babar —— 公司 **自己替 LigoWave / Dinstar 办过 PTA 型号核准（2016、2017）= 有进口 + 认证经验** → 分销 20% 24 口管理型 + 室外 PoE，PTA 他们，100% 预付或 LC（第 91 批 官方登记核实 2026-10-27）",
    "email": "asif@synchcom.com.pk",
    "phone": "+92 332 5933665（WhatsApp 已加）",
    "source": "https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/"
+  },
+  {
+   "name": "Muhammad Babar",
+   "role": "Senior Managing Director（RocketReach）= 拍板人（抄送）（第 91 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://synchcom.com.pk/about-us/"
+  },
+  {
+   "name": "Muhammad Mehmood",
+   "role": "Director（2001 起；兼 Sina Institute of Networks 创始人）（第 91 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://synchcom.com.pk/about-us/"
   }
  ],
  "grade_override": "B",
@@ -56,11 +70,12 @@
   "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
  },
  "company_facts": {
-  "legal_name": "SYNCHCOM (Pvt) Ltd",
-  "founded": "2005",
-  "hq": "Islamabad, Pakistan（+92 332 593 3665 / +92 335 522 5522，均已加 WA）",
-  "size": "11–50（ZoomInfo）/ 101–200（businesslist 口径）",
-  "other": "LigoWave 巴基斯坦分销商；面向电信/政府/国防/能源/油气/自动化"
+  "legal_name": "SYNCHCOM (PVT.) LIMITED（SECP 注册号未取）",
+  "founded": "2005-02（官网；RocketReach 称 2000）（第 91 批 官方登记核实 2026-10-27）",
+  "hq": "693 Rehman Baba Road, Sector I-8/4, Islamabad 44000（+92 51 486 4925）（第 91 批 官方登记核实 2026-10-27）",
+  "size": "小型（IT / 电信集成 + 分销：LigoWave 巴基斯坦分销、Dinstar、MSAN / GEPON）（第 91 批 官方登记核实 2026-10-27）",
+  "other": "LigoWave 巴基斯坦分销商；面向电信/政府/国防/能源/油气/自动化",
+  "staff": "小型（估 10–30 人）（第 91 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "系统集成与分销（无线、MC、工业网络、布线）",

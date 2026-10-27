@@ -86,6 +86,21 @@ updated: 2026-10-27
 - 法定假日：01-26 Republic Day；03-06 Maha Shivaratri；03-10 Eid al-Fitr (estimated)；03-22 Holi；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 91 批（IN · 1 次检索：zaubacorp（CIN U17302UP2019PTC115938，2019-04-18 成立，ROC Kanpur，实缴 ₹1 lakh，NIC 代码误登「针织品」；董事 PRAMENDRA SINGH DIN 02074072 + SUMIT AGRAWAL DIN 02074121，均 2019-04-18 起；注册邮箱 chaudhary@unitedcontrolengg.com；注册地 218 Udyog Kendra Extn-1 Greater Noida 201308）+ tofler 同 + IndiaMart（CEO P Chaudhary，26–50 人，营业额 ₹25–100 cr，GST 2019-06，IEC 有，总部 Plot 98 Toy City Ecotech-III 201306，自有控制柜装配厂）+ tradeindia（业务始于 2001）+ 官网（Delta PLC 等工业自动化 / 低压电器分销 + 控制柜），2026-10-27 查；https://www.zaubacorp.com/UNITED-CONTROL-ENGINEERS-INDIA-PRIVATE-LIMITED-U17302UP2019PTC115938）：**
+
+- 法定名 / 登记号：UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED（Greater Noida, UP） · CIN U17302UP2019PTC115938 · GST 09AACCU4195M1ZP · PAN AACCU4195M · 状态 **Active** · 成立 2019-04-18（业务 2001 起，先为合伙） · Private Limited（实缴 ₹1 lakh）
+- 行业码 / 经营范围：工业自动化 / 低压电器分销（Delta / ABB / Schneider / Phoenix Contact 渠道）+ 控制柜装配 = 工业集成商兼分销商
+- 注册地址：Plot No. 98, Toy City, Ecotech-III, Greater Noida 201306（注册地 218 Udyog Kendra Extn-1, Ecotech-III）
+- 规模档：中小型（26–50 人；₹25–100 cr ≈ $3–12M）
+- 账目：MCA 年报可取（未取）；IndiaMart 自报 ₹25–100 cr；IN 09-30
+- 高管：Pramendra Singh CHAUDHARY — Director / CEO（DIN 02074072，2019-04-18 起；研究档 KP chaudhary@）= 老板 = 联系人
+- 高管：Sumit AGRAWAL — Director（DIN 02074121，2019-04-18 起）= 合伙人
+- 控制人 / 股东：Chaudhary + Agrawal（推定各半）
+- **这意味着什么：**
+  - **老板 = 联系人：Pramendra Chaudhary 是董事 / CEO；公司是大诺伊达的工业自动化分销 + 控制柜厂（Delta PLC 渠道），不是 IT 店 → 要的是装进控制柜的工业 DIN 交换机** → 写 Chaudhary 抄 Agrawal：STI-054GP / STI-154GP / STI-110GE（宽压 $25 档）集成 25%，BIS 由他们（CE/RoHS 文件我方出）；IN 北京 13–15；避开 Diwali（≈2026-11-08）
+  - 不说：不提 NIC 误登 / 实缴 1 lakh
+- 备注：研究档 KP 角色补 Director / CEO；新增 Sumit Agrawal。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,16 +144,18 @@ updated: 2026-10-27
   > 来源：https://rocketreach.co/united-control-engineers-india-pvt-ltd-profile_b7dc2582c0cb47fa（抓取 2026-10-23）
 - **KP**：—（市场部）marketing@unitedcontrolengg.com +91 93111 50492〔https://unitedcontrolengg.com/〕
 - **KP**：Rajesh（单据联系人）accounts@unitedcontrolengg.com 〔PI.zip 单据〕
+- **KP**：Pramendra Singh Chaudhary（Director / CEO（DIN 02074072，2019-04-18 起；注册邮箱 chaudhary@unitedcontrolengg.com）= **老板 = 联系人** → 工业 DIN 交换机（STI-054GP / STI-154GP / STI-110GE 宽压）集成 25%，BIS 他们（第 91 批 官方登记核实 2026-10-27））chaudhary@unitedcontrolengg.com 〔https://www.zaubacorp.com/UNITED-CONTROL-ENGINEERS-INDIA-PRIVATE-LIMITED-U17302UP2019PTC115938〕
+- **KP**：Sumit Agrawal（Director（DIN 02074121，2019-04-18 起）= 合伙人（抄送）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.tofler.in/united-control-engineers-india-private-limited/company/U17302UP2019PTC115938〕
 - 备注：A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | United Control Engineers India Pvt. Ltd. |
-| 成立 | 2001 |
-| 总部/地址 | Greater Noida, Delhi NCR, India |
-| 人数 | 11–50（LinkedIn） |
+| 法定名称 | UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED（CIN U17302UP2019PTC115938；GST 09AACCU4195M1ZP） |
+| 成立 | 2019-04-18（业务 2001 起，先为合伙）（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Plot No. 98, Toy City, Ecotech-III, Greater Noida 201306（注册地 218 Udyog Kendra Extn-1）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 26–50 人；自报营业额 ₹25–100 cr（≈$3–12M）（第 91 批 官方登记核实 2026-10-27） |
 | 营收 | $10–15M（口径不一） |
 | 其他 | Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 授权渠道；官网有独立「Ethernet Switch」落地页（2026-05-23） |
 
@@ -243,7 +260,8 @@ updated: 2026-10-27
 |---|---|---|---|---|
 | — | 市场部 | marketing@unitedcontrolengg.com / +91 93111 50492 | 调研核实（公开页） | https://unitedcontrolengg.com/ |
 | Rajesh | 单据联系人 | accounts@unitedcontrolengg.com | 调研核实（公开页） | PI.zip 单据 |
-| Sumit Agrawal | — | sumitagrwal@yahoo.com / +919313550492 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Pramendra Singh Chaudhary | Director / CEO（DIN 02074072，2019-04-18 起；注册邮箱 chaudhary@unitedcontrolengg.com）= **老板 = 联系人** → 工业 DIN 交换机（STI-054GP / STI-154GP / STI-110GE 宽压）集成 25%，BIS 他们（第 91 批 官方登记核实 2026-10-27） | chaudhary@unitedcontrolengg.com | 调研核实（公开页） | https://www.zaubacorp.com/UNITED-CONTROL-ENGINEERS-INDIA-PRIVATE-LIMITED-U17302UP2019PTC115938 |
+| Sumit Agrawal | Director（DIN 02074121，2019-04-18 起）= 合伙人（抄送）（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.tofler.in/united-control-engineers-india-private-limited/company/U17302UP2019PTC115938 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 

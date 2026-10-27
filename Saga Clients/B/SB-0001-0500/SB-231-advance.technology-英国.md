@@ -80,6 +80,22 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 91 批（GB · 1 次检索 + Companies House overview + officers（10953609）：官网 contact-us 自报公司号 10953609 / VAT GB281168595 / 经营地 Felton House, Gemig Street, St Asaph LL17 0RY；登记处：注册地 Unit 32 Llys Edmund Prys, St. Asaph Business Park LL17 0JA；Active；2017-09-08 成立；SIC 26110 电子元件制造；账目至 2025-09-30 已报、下期 2026-09-30 → 2027-06-30 到期；CS 2026-02-06；董事 Nathan James PARYS（1982-01 生，2025-04-02 上任，威尔士）；前董事 Jie KENNETT（中国籍，Wigan，2017-09-08 创立 → 2025-04-02 辞任）、Rebecca Mary PARKINSON（2017-09 → 2018-01）；**同名陷阱**：Advance Technology Limited 03391710（Liverpool）/ Advance Tech (UK) Ltd 07227703（清算）均非本户，2026-10-27 查；https://find-and-update.company-information.service.gov.uk/company/10953609）：**
+
+- 法定名 / 登记号：ADVANCE TECHNOLOGY SOLUTIONS LTD（advance.technology；St Asaph, Wales） · Companies House 10953609 · VAT GB281168595 · 状态 **Active** · 成立 2017-09-08 · Private limited company
+- 行业码 / 经营范围：26110 Manufacture of electronic components（官网定位：电子 / 网络产品方案，角色判定源自官网文案）
+- 注册地址：Unit 32 Llys Edmund Prys, St. Asaph Business Park, St. Asaph LL17 0JA（经营地 Felton House, Gemig Street, St Asaph LL17 0RY）
+- 规模档：微型 / 小型（估 2–10 人）
+- 账目：至 2025-09-30 已报（类型未看；微型 / 小型）；2027-06-30（至 2026-09-30）
+- 高管：Nathan James PARYS — Director（2025-04-02 起；唯一在任）= 现老板 = 联系人
+- 高管：Jie KENNETT — 创始董事（中国籍；2017-09 → 2025-04 辞任）= **2025-04 换手**
+- 控制人 / 股东：未取（PSC 页下轮；推定 Parys 2025-04 起）
+- **这意味着什么：**
+  - **硬发现：公司 2025-04 换手 —— 中国籍创始人 Jie Kennett 退出，Nathan Parys 接任唯一董事；此前的中资背景可能自带中国供应链，换手后供应链要重建 = 正是进门时机** → 写 Parys 本人：分销 20% / OEM 30% 二选一，UKCA + CE，MOQ 1 箱、首单 50/50；GB 周四 12–14；避开 12-24–01-02
+  - 不说：不提前董事 / 换手；不说「我们查过 Companies House」
+  - 复查：PSC 页补实控；2027-06 账目
+- 备注：研究档 KP 空 → 新增 Nathan Parys。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,14 +138,18 @@ updated: 2026-10-27
 - **【用户表】MC PoE 自己 logo，很多 SFP**
   > 外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Nathan James Parys（Director（唯一在任，2025-04-02 起；Companies House 10953609）= **老板 = 联系人**；**公司 2025-04 换手**：中国籍创始董事 Jie Kennett 同日辞任 → 供应链重建期 = 进门时机；分销 20% / OEM 30% 二选一，UKCA + CE（第 91 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/10953609/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 advance.technology，语言 en-GB，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | ADVANCE TECHNOLOGY SOLUTIONS LTD（Companies House 10953609；VAT GB281168595；**同名陷阱：Advance Technology Limited 03391710 Liverpool 非本户**） |
+| 成立 | 2017-09-08（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | Felton House, Gemig Street, St Asaph LL17 0RY（注册地 Unit 32 Llys Edmund Prys, St Asaph Business Park LL17 0JA，威尔士）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 微型 / 小型（估 2–10 人）；SIC 26110 电子元件制造（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 advance.technology，语言 en-GB，快照状态 ok；角色判定来源：官网文案；账目至 2025-09-30 已报，下期 2027-06-30 到期；PSC 页下轮补（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：兼容光模块 / MC / PoE / 线缆（自有品牌 Advance）
 
@@ -226,7 +246,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@advance.technology | 用户表原值 | Clients/ 表 |
+| Nathan James Parys | Director（唯一在任，2025-04-02 起；Companies House 10953609）= **老板 = 联系人**；**公司 2025-04 换手**：中国籍创始董事 Jie Kennett 同日辞任 → 供应链重建期 = 进门时机；分销 20% / OEM 30% 二选一，UKCA + CE（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/10953609/officers |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

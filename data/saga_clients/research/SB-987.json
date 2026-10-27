@@ -29,10 +29,17 @@
  "kp": [
   {
    "name": "Anton van der Westhuizen",
-   "title": "Sales Manager",
+   "title": "Technical Support & Sales Manager（IBG 买家指南）= 联系人；老板 = 创始人 Bob Petrie —— 公司 = **Westermo 南部非洲独家分销（2–10 人顾问行）→ 不会替掉独家品牌；仅作交通 / 矿业客户的「非独家配套」价格副线：STI-054GP / STI-154GP 集成 25%，一封无回即停**（第 91 批 官方登记核实 2026-10-27）",
    "email": "anton@throughput.co.za",
    "phone": "+27 83 659 3290",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Bob Petrie",
+   "role": "创始人（1997）= 老板（Petrie 家族：Brenda Petrie HR）；Gillian Andersson 经理、Mashudu Mudau 分销经理（第 91 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.throughput.co.za/about-us/profile.html"
   }
  ],
  "grade_override": null,
@@ -43,11 +50,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 守界）"
  },
  "company_facts": {
-  "legal_name": "Throughput Technologies (Pty) Ltd",
-  "founded": "（待核）",
-  "hq": "Johannesburg, South Africa",
-  "size": "中小型工业网络分销 / 方案",
-  "other": "Westermo 南非伙伴"
+  "legal_name": "THROUGHPUT TECHNOLOGIES (PTY) LTD（CIPC 登记号未取）",
+  "founded": "1997（第 91 批 官方登记核实 2026-10-27）",
+  "hq": "42 Thembi Place Office Park, Calderwood Road, Lonehill, Johannesburg（第 91 批 官方登记核实 2026-10-27）",
+  "size": "微型（工业数据通信分销 + 顾问；Westermo / ProSoft / Secomea / Welotec）（第 91 批 官方登记核实 2026-10-27）",
+  "other": "Westermo 南非伙伴；**信里不提 Westermo / Welotec 收购**（第 91 批 官方登记核实 2026-10-27）",
+  "staff": "2–10（LinkedIn）（第 91 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "工业以太网 / 光纤网络方案（Westermo、Atop）",

@@ -113,6 +113,22 @@ updated: 2026-10-27
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 91 批（IN · 1 次检索：X 账号 @VintronInfo 自述「Vintron Smartvision Pvt. Ltd. — India’s leading manufacturer of electronics, security & surveillance products, New Delhi, vintronsmartvision.com」；关联上市公司 Vintron Informatics Ltd（BSE 517393）：FY2025 营收 ₹623.48 cr（FY2024 ₹174.17 cr，+258%）、净利 ₹47.92 cr；2025-09 增补独董、经营范围扩至建筑 / 航空运输 / IT 基础设施，2025-12 **更名 Reganto Enterprises Limited**，2026-01-27 多名董事辞任；Varun GUPTA 曾任其 WTD & CEO（2015-06 → 2019-06-08 辞任），董事长 Raj Kumar Gupta；RocketReach 仍称 Varun Gupta 为 Director & CEO（2025 营收口径 $19.3M），2026-10-27 查；https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/）：**
+
+- 法定名 / 登记号：VINTRON SMARTVISION PVT. LTD.（vintronsmartvision.com；New Delhi；关联上市公司 Vintron Informatics Ltd → Reganto Enterprises Ltd） · Vintron Smartvision Pvt Ltd CIN 未取；上市关联体 BSE 517393 · 状态 **Active（私营运营体）** · 成立 未取（上市体 1991） · Private Limited（Gupta 家族；上市体已易名 / 转向）
+- 行业码 / 经营范围：CCTV / DVR / 电子安防自有品牌制造（Vintron）= **OEM 品牌商**
+- 注册地址：New Delhi（上市体注册地新德里）
+- 规模档：中型（上市体 FY25 ₹623 cr 营收 = 含贸易 / 新业务；CCTV 运营体估 50–200 人）
+- 账目：私营体未取；上市关联体 FY25 ₹623 cr；IN 09-30
+- 高管：Varun GUPTA — Director & CEO（Vintron Smartvision Pvt Ltd；曾任上市体 WTD & CEO 至 2019-06；研究档 KP varun@）= 二代老板 = 联系人
+- 高管：Raj Kumar GUPTA — 上市体董事长（家族长）
+- 控制人 / 股东：Gupta 家族
+- 曾用名：上市体：Vintron Informatics Limited → Reganto Enterprises Limited（2025-12）
+- **这意味着什么：**
+  - **老板 = 联系人：Varun Gupta 是 Vintron 家族二代、现管 CCTV 运营体 Vintron Smartvision（自有品牌 CCTV 制造商）；上市壳 2025-12 更名并转向建筑 / 航空 = 安防业务已沉到私营体** → 写 Varun：OEM 30% Vintron 标 PoE 4/8/16/24（配其 NVR 套装），彩盒 $2.5/套、BIS 由他们；先 2 台付费样机；IN 北京 13–15；避开 Diwali
+  - 不说：不提上市壳更名 / 董事辞任
+- 备注：研究档 KP Varun 角色补 Director & CEO；新增 Raj Kumar Gupta（上市体）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -157,14 +173,18 @@ updated: 2026-10-27
   > PoE switch CCTV为主 DVR NVR / POE managed switch / 数据中心类产品 / 从10G tek买东西
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Varun Gupta（）varun@vintronsmartvision.com 〔用户表〕
+- **KP**：Raj Kumar Gupta（上市关联体董事长（家族长；上市体 2025-12 更名 Reganto Enterprises Ltd 并转向建筑 / 航空 = 安防业务已沉到私营体）—— 不联系（第 91 批 官方登记核实 2026-10-27）） 〔https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 印度 |
-| 其他 | 官网 vintronsmartvision.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | VINTRON SMARTVISION PVT. LTD.（CIN 未取；关联上市体 Vintron Informatics Ltd → Reganto Enterprises Ltd，BSE 517393） |
+| 成立 | 未取（上市体 1991）（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | New Delhi（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | CCTV 运营体估 50–200 人；上市关联体 FY25 营收 ₹623 cr（+258%）、净利 ₹47.9 cr（含贸易 / 新业务）（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 vintronsmartvision.com，语言 en，快照状态 ok；角色判定来源：用户表；**信里不提上市壳更名 / 董事辞任**（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：CCTV 摄像机 / NVR 制造（印度）；PoE 交换机（自有 VS-POE 系列）；EMS 代工服务
 
@@ -266,6 +286,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Varun Gupta | — | varun@vintronsmartvision.com | 调研核实（公开页） | 用户表 |
+| Raj Kumar Gupta | 上市关联体董事长（家族长；上市体 2025-12 更名 Reganto Enterprises Ltd 并转向建筑 / 航空 = 安防业务已沉到私营体）—— 不联系（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/ |
 | Leann | — | lead@vintronsmartvision.com / varun@vintronsmartvision.com / +919818122003 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

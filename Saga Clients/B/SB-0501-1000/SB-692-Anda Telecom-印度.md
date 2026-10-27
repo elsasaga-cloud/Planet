@@ -105,6 +105,22 @@ updated: 2026-10-27
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 91 批（IN · 1 次检索：zaubacorp（CIN U64202DL2004PTC131212，2004-12-13 成立，ROC Delhi，授权 = 实缴 ₹1 lakh，NIC 64202 电信；董事 HARISH GUPTA DIN 01054370 + NEELAM GUPTA DIN 02122908，均 2004-12-13 起 = 夫妻档）+ thecompanycheck（FY2024 营收 ₹12.81 cr，同比 −23%）+ EMIS（2025 净销售 +22%，总资产 +24.35%；1–10 人）+ 官网（2004 创立；总部 E-36 Amar Colony, Lajpat Nagar-IV, New Delhi 110024；制造地 E-38 Sector 6 Noida 201301；电信级 + 光纤产品），2026-10-27 查；https://www.zaubacorp.com/company/ANDA-TELECOM-PRIVATE-LIMITED/U64202DL2004PTC131212）：**
+
+- 法定名 / 登记号：ANDA TELECOM PRIVATE LIMITED（New Delhi / Noida） · CIN U64202DL2004PTC131212 · 状态 **Active** · 成立 2004-12-13 · Private Limited（实缴 ₹1 lakh；Gupta 夫妻）
+- 行业码 / 经营范围：电信 / 光纤产品自有品牌（Anda），从中国厂贴牌（研究档：ONV / AOA）+ Noida 组装 = **OEM 品牌商**
+- 注册地址：E-36 Amar Colony, Lajpat Nagar-IV, New Delhi 110024（制造 E-38 Sector 6, Noida 201301）
+- 规模档：小型（1–10 人登记；≈$1.5–2M）
+- 账目：FY2024 营收 ₹12.81 cr（≈$1.5M）；FY2025 +22%；IN 09-30
+- 高管：Harish GUPTA — Director（2004 起；研究档 KP harish@）= 老板 = 联系人
+- 高管：Neelam GUPTA — Director（2004 起）= 配偶合伙
+- 高管：Subhash — 研究档 KP（采购 / 技术）
+- 控制人 / 股东：Gupta 夫妻
+- **这意味着什么：**
+  - **老板 = 联系人：Harish Gupta 夫妻的自有品牌电信小厂（年 ≈ $1.5M），已在从中国厂贴牌 = 直接谈换供应商** → 写 Harish 抄 Subhash：OEM 30% Anda 标 PoE 8/16/24 + 媒转以外的交换机线（我方不供媒转 / ONU），MOQ 20 台 / 型号起、彩盒 $2.5/套；BIS 由他们；IN 北京 13–15；避开 Diwali
+  - 不说：不提 ONV / AOA（现供应商）；不提营收下滑
+- 备注：研究档 KP Harish 角色补 Director；新增 Neelam Gupta。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,15 +149,17 @@ updated: 2026-10-27
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Harish Gupta（）harish@andatelecom.com +91 93502 57173〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Subhash（）subhash@andatelecom.com +91 99686 50294〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Neelam Gupta（Director（DIN 02122908，2004-12-13 起）= 配偶合伙（第 91 批 官方登记核实 2026-10-27）） 〔https://www.zaubacorp.com/company/ANDA-TELECOM-PRIVATE-LIMITED/U64202DL2004PTC131212〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有型号 OEM））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Anda Telecom Private Limited |
-| 成立 | （待核） |
-| 总部/地址 | Noida, Uttar Pradesh, India |
+| 法定名称 | ANDA TELECOM PRIVATE LIMITED（CIN U64202DL2004PTC131212；实缴 ₹1 lakh） |
+| 成立 | 2004-12-13（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | E-36 Amar Colony, Lajpat Nagar-IV, New Delhi 110024（制造 E-38 Sector 6, Noida 201301）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 1–10 人（EMIS）；FY2024 营收 ₹12.81 cr（≈$1.5M，−23%）、FY2025 +22%（第 91 批 官方登记核实 2026-10-27） |
 | 其他 | 从 ONV / AOA 等中国厂采购贴牌 |
 
 - **业务线**：电信级光传输（PDH、E1、光复用、EDFA 需求）；ATMIS 工业 / 管理接入交换机（贴牌）；MC / VoIP
@@ -243,6 +261,7 @@ updated: 2026-10-27
 |---|---|---|---|---|
 | Harish Gupta | — | harish@andatelecom.com / +91 93502 57173 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Subhash | — | subhash@andatelecom.com / +91 99686 50294 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Neelam Gupta | Director（DIN 02122908，2004-12-13 起）= 配偶合伙（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.zaubacorp.com/company/ANDA-TELECOM-PRIVATE-LIMITED/U64202DL2004PTC131212 |
 | harish@andatelecom.com | — | harish@andatelecom.com / harish@andatelecomindia.com / +919350257173 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

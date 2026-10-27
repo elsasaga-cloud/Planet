@@ -101,6 +101,22 @@ updated: 2026-10-27
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 91 批（IN · 1 次检索：thecompanycheck（CIN L64200HP1987PLC007466，2025 营收 ₹3,856 cr 口径、净资产 ₹3,963 cr、2,336 名员工；MD Mahendra Nahata）+ FY25 年报 / Q4 电话会（合并营收 ₹4,065 cr vs FY24 ₹4,465 cr，EBITDA ₹507 cr，PBT ₹217 cr；Q4 FY25 净亏 ₹81.4 cr）+ NSE 2026-04-30 投资者简报（FY26 营收 ₹4,949 cr，EBITDA ₹826.75 cr / 16.7%）+ 2026-10-20 新闻（Q2 FY27 营收 ₹2,541.79 cr、净利 ₹394 cr，同比 5 倍 = 创纪录）+ Q1 FY25 简报（电信 96% / 国防 2% / 铁路 2%；订单簿 ₹6,776 cr），2026-10-27 查；https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466）：**
+
+- 法定名 / 登记号：HFCL LIMITED（原 Himachal Futuristic Communications Ltd；NSE/BSE: HFCL；Gurugram / New Delhi） · CIN L64200HP1987PLC007466 · 状态 **Active · 上市（NSE/BSE）** · 成立 1987 · Public Limited（上市；发起人 Nahata 家族）
+- 行业码 / 经营范围：光纤 / 光缆制造 + 电信设备（自有 IO by HFCL 品牌：企业交换机 / Wi-Fi AP / 路由器）+ 国防电子 + 铁路通信 = **同行上游 + 守界行业**
+- 注册地址：8, Commercial Complex, Masjid Moth, Greater Kailash-II, New Delhi 110048（运营 Gurugram）
+- 规模档：大型（2,300+ 人；年营收 $500M+）
+- 账目：FY25 合并营收 ₹4,065 cr（≈$480M）；FY26 ₹4,949 cr；Q2 FY27 ₹2,542 cr 单季创纪录；IN 09-30（上市季报）
+- 高管：Mahendra NAHATA — 发起人 / Managing Director
+- 高管：Shantanu RANA — 研究档 KP（已回信；采购 / 产品线人员）
+- 控制人 / 股东：Nahata 家族（发起人）+ 公众
+- 曾用名：Himachal Futuristic Communications Limited
+- **这意味着什么：**
+  - **判定：不追 —— HFCL 自有 IO 品牌交换机 / AP（同行），且主业光缆 + 国防 + 铁路（守界）；上市公司采购走 ODM 招标，不是我们的单** → 只回 Shantanu 已有线：若他问的是 ODM / 白牌（CENTEC ≥35% 或 Marvell L3 ≥25%），可报，否则 `when=不动`
+  - 不说：不提其亏损季 / 订单簿
+- 备注：研究档 KP Shantanu Rana 保留；facts 补上市体量；grade 不动（B）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -135,13 +151,17 @@ updated: 2026-10-27
   > 工业FS 自己的logo；回复里有详细联系方式
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Shantanu Rana（）shantanu.kumar@hfcl.com 〔用户表〕
+- **KP**：Mahendra Nahata（发起人 / Managing Director（上市公司；不直接联系）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 印度 |
+| 法定名称 | HFCL LIMITED（原 Himachal Futuristic Communications Ltd；CIN L64200HP1987PLC007466；NSE/BSE: HFCL） |
+| 成立 | 1987（第 91 批 官方登记核实 2026-10-27） |
+| 总部/地址 | 8 Commercial Complex, Masjid Moth, Greater Kailash-II, New Delhi 110048（运营 Gurugram）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 2,336 人；FY25 合并营收 ₹4,065 cr、EBITDA ₹507 cr；FY26 ₹4,949 cr；Q2 FY27 单季 ₹2,542 cr / 净利 ₹394 cr 创纪录（第 91 批 官方登记核实 2026-10-27） |
 | 其他 | 官网 hfcl.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：光缆 / FTTH / 数据中心 / IO 网络设备（自有品牌）
@@ -238,6 +258,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Shantanu Rana | — | shantanu.kumar@hfcl.com | 调研核实（公开页） | 用户表 |
+| Mahendra Nahata | 发起人 / Managing Director（上市公司；不直接联系）（第 91 批 官方登记核实 2026-10-27） | — | 调研核实（公开页） | https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466 |
 
 - **通道建议**：企业邮箱可直发
 

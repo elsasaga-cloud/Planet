@@ -62,6 +62,20 @@
    "email": "marketing@comtech.net.pk（官网公开）",
    "phone": "+92 335 287 6148（用户表 WA = ZoomInfo 公司电话）",
    "source": "https://www.zoominfo.com/c/comtech/470605669"
+  },
+  {
+   "name": "Muhammad Farooq Zaheer",
+   "role": "CEO = 老板 —— 公司 = **Cisco 巴基斯坦「Partner of the Year 2026」+ Fortinet 伙伴（50–100 人）→ 判定：只在银行 / 政府标里要「非 Cisco 接入层」时有机会；一封抄 Rehan Shaikh，无回即停**（第 91 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://comtech.net.pk/"
+  },
+  {
+   "name": "Rehan Shaikh",
+   "role": "Co-Founder / Director of Sales = 销售拍板（抄送）；COO Abdul Rehman Zaheer（家族）；Head of Solutions Muhammad Irfan Ghauri（2026-01）（第 91 批 官方登记核实 2026-10-27）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.issuewire.com/comtech-associates-joins-cisco-partner-summit-2026-as-a-cisco-partner-1879935322008449"
   }
  ],
  "grade_override": null,
@@ -72,11 +86,12 @@
   "level": "B 级加厚 v1（官网 + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "Comtech Associates（Pvt.）Ltd.（全称待核）",
-  "founded": "2010（LinkedIn）",
-  "hq": "Office 53/3 Sheet 17 Khadim Avenue, Karachi；The Hive 3rd Floor, NASTP, Shahrah-e-Faisal（+92 21 3440 4440 / 4441；+92 331 114 4220；marketing@comtech.net.pk）",
-  "size": "11–50（LinkedIn）",
-  "other": "Cisco / Fortinet / D-Link 伙伴；24/7 SOC；四城办公"
+  "legal_name": "COMTECH ASSOCIATES (PVT.) LTD（SECP 注册号未取）",
+  "founded": "2010（LinkedIn）/ 2017（Clutch）（第 91 批 官方登记核实 2026-10-27）",
+  "hq": "The Hive 3rd Floor, NASTP, Shahrah-e-Faisal, Karachi（+92 21 3440 4440）（第 91 批 官方登记核实 2026-10-27）",
+  "size": "中小型（企业网络 / 网络安全 / 数据中心集成；24/7 SOC；客户含海湾）（第 91 批 官方登记核实 2026-10-27）",
+  "other": "Cisco / Fortinet / D-Link 伙伴；24/7 SOC；四城办公",
+  "staff": "50–100 人（LinkedIn 11–50 / Clutch 50–249）（第 91 批 官方登记核实 2026-10-27）"
  },
  "business_lines": [
   "网络基础设施集成（Cisco、D-Link）",

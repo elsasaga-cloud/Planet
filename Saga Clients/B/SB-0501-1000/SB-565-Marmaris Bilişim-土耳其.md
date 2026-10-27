@@ -74,6 +74,17 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 91 批（TR · 1 次检索（顺带命中）：şikayetvar 结构化数据（Marmaris Bilişim，Sarıana Mah. Mustafa Kemal Paşa Cad. No:19，info@marmarisbilisim.com.tr）+ livenet.com.tr hakkımızda（「Marmaris Bilişim / Marmaris Wifi」为企业提供专属套餐 = 本地无线 ISP / 网店），2026-10-27 查；https://www.sikayetvar.com/marmaris-bilisim）：**
+
+- 法定名 / 登记号：Marmaris Bilişim（Marmaris Wifi；Marmaris / Muğla） · 未取（推定 şahıs 个体） · 状态 **Aktif（域 marmarisbilisim.com.tr 在用）** · 成立 未取 · 推定 şahıs
+- 行业码 / 经营范围：电脑 / 网络零售 + 本地 Wi-Fi 接入服务（Marmaris 度假区酒店 / 商铺）
+- 注册地址：Sarıana Mah. Mustafa Kemal Paşa Cad. No:19, Marmaris / Muğla
+- 规模档：微型（1–5 人）
+- 账目：—；—
+- 高管：店主（姓名待核）— 研究档：不会英文（土耳其语沟通）
+- **这意味着什么：**
+  - **马尔马里斯度假区的一人店 + 本地 Wi-Fi 服务商（酒店 / 商铺场景）** → 土耳其语 WhatsApp 一页价：8/16 口 PoE + 室外 PoE 供电款，100% 预付、MOQ 1 箱；更划算的是让他从 TR 分销户拿货；一封无回即停
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,9 +114,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Marmaris Bilişim（待核） |
-| 总部/地址 | Marmaris / Muğla, Türkiye（推测） |
-| 其他 | 不会英文（用土耳其语） |
+| 法定名称 | Marmaris Bilişim（Marmaris Wifi；推定 şahıs 个体，VKN 未取） |
+| 总部/地址 | Sarıana Mah. Mustafa Kemal Paşa Cad. No:19, Marmaris / Muğla（info@marmarisbilisim.com.tr）（第 91 批 官方登记核实 2026-10-27） |
+| 人数 | 微型（1–5 人）（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | 不会英文（用土耳其语）；度假区酒店 / 商铺 Wi-Fi 场景 → 土耳其语 WhatsApp 一页价，一封无回即停；更划算是让他从 TR 分销户拿货（第 91 批 官方登记核实 2026-10-27） |
 
 - **业务线**：本地 IT/网络服务（推测）
 - **触达通道（公开）**：电话: +90 533 358 54 80（用户表，WhatsApp 已加）
