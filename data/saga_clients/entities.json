@@ -101801,7 +101801,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Konrad Ryszard Koperski",
+"role": "Prezes Zarządu（rejestr.io KRS 0000023698；2008-07-21 起，职业经理人；股东 Olesiewicz 父子各 50% 不管日常）= 拍板层（邮箱未公开；收件人仍用采购 / 产品公域）（第 95 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://rejestr.io/krs/23698/volta"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -101810,11 +101818,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "ul. Jutrzenki 94, 02-230 Warszawa",
-"other": "官网 ivolta.pl，语言 pl，快照状态 ok；角色判定来源：用户表；第 94 批：Satel / Hikvision / Dahua 授权分销 = 波兰安防分销 Top 级 → B BIG，分销 20% 上架 SmartByte，不谈贴标；已有 PoE 供应（Utepo 等）→ 只谈第二供应 + 现货期；zarząd 未取（第 94 批 官方登记核实 2026-10-28）",
-"legal_name": "VOLTA Sp. z o.o.（ivolta.pl 为其网店品牌；KRS 0000023698 · NIP 5211367444 · REGON 010829096；资本 1,020,000 PLN；BDO 000051577）",
-"founded": "2001-06-28（KRS；业务 1986 起）（第 94 批 官方登记核实 2026-10-28）",
-"staff": "70+ 人、华沙总部 + 10 分部；营收 2025 90.85 mln zł（2024 83.30 / 2023 83.19）；资产 30.4 mln"
+"hq": "Jutrzenki 94, 02-230 Warszawa",
+"other": "官网 ivolta.pl，语言 pl，快照状态 ok；角色判定来源：用户表；第 94 批：Satel / Hikvision / Dahua 授权分销 = 波兰安防分销 Top 级 → B BIG，分销 20% 上架 SmartByte，不谈贴标；已有 PoE 供应（Utepo 等）→ 只谈第二供应 + 现货期；zarząd 未取（第 94 批 官方登记核实 2026-10-28）；第 95 批：2025 年报 = 营收持平、小亏、正在「发展与国内外供应商的合作」+ 开拓新市场 → 分销 20% 值得一封正式信（写采购口；信中不得引用年报，改谈 Hikvision / Dahua 配套 PoE 毛利）（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "VOLTA Sp. z o.o.（KRS 0000023698；NIP 5211367444；REGON 010829096；资本 1 mln zł；Janusz + Konrad Olesiewicz 各 50%）",
+"founded": "2001-06-28（第 95 批 官方登记核实 2026-10-28）",
+"staff": "70+ 人；2025 营收 90.8 mln zł、净亏 0.27 mln zł（经审计）"
 },
 "business_lines": [
 "报警 / CCTV 网店"
@@ -107924,11 +107932,12 @@
 ],
 "kp": [
 {
-"name": "（办公室）",
+"name": "Bartosz Ryszka",
 "title": "Biuro",
 "email": "biuro@rbline.pl",
 "phone": "+48 77 555 91 30",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "业主（CEIDG 2010-08-01；NIP 7542138394；Roline 波兰独家代表）= 拍板人（公域 biuro@）（第 95 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -107939,11 +107948,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "RB Line（待核）",
-"founded": "",
-"hq": "Opole 区, Poland（+48 77）",
+"legal_name": "RBLINE Bartosz Ryszka（CEIDG；NIP 7542138394；REGON 160340714；关联 Rb-Com s.c. Roman Ryszka Bartosz Ryszka）",
+"founded": "2010-08-01（第 95 批 官方登记核实 2026-10-28）",
+"hq": "ul. Kępska 12, 45-130 Opole",
 "size": "中小型网店 / 分销",
-"other": ""
+"other": "第 95 批：Roline（瑞士 Secomp / Rotronic）波兰独家代表 → 交换机货架被 Roline 占住，分销 20% 只补其空白型号；有国防工业 B2B 专页 → 军工 PASS（第 95 批 官方登记核实 2026-10-28）",
+"staff": "小型（自述 10,000 托盘位仓）"
 },
 "business_lines": [
 "网络组件 / UPS / CCTV 网店"
@@ -113605,7 +113615,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Maciej Prandota",
+"role": "Prezes Zarządu（TAYAMA Sp. z o.o. KRS 0000430899 自 2015-07；TAYAMA GROUP Sp. z o.o. KRS 0000947226）= 拍板人 = 收件人（m.prandota@tayama.pl 第三方目录公开）（第 95 批 官方登记核实 2026-10-28）",
+"email": "m.prandota@tayama.pl",
+"phone": "",
+"source": "https://rejestr.io/krs/430899/tayama"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -113614,8 +113632,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 tayama.pl，语言 ?，快照状态 ok；角色判定来源：用户表"
+"hq": "ul. Słoneczna 4, 40-135 Katowice",
+"other": "官网 tayama.pl，语言 ?，快照状态 ok；角色判定来源：用户表；第 95 批：自有品牌 CCTV + 商用 PoE / 机箱已在贴牌 → OEM 30%，写 Prezes Maciej Prandota；家族三实体重组期，采购仍在 Maciej 手里（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "TAYAMA Sp. z o.o.（KRS 0000430899；NIP 6272733091）+ TAYAMA Sp. z o.o. Sp.k.（KRS 0000619990；NIP 6342182846）+ TAYAMA GROUP Sp. z o.o.（KRS 0000947226；NIP 6343005879）— Prandota 家族",
+"founded": "2012-08-24（Sp. z o.o.）（第 95 批 官方登记核实 2026-10-28）",
+"staff": "小型（Sp.k. 营收 1.9–3.1 mln zł 区间）"
 },
 "business_lines": [
 "电子 / 安防产品分销网店（波兰）"
@@ -168482,14 +168503,16 @@
 "title": "Director of Partner",
 "email": "jaime@alludolearning.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "**误归属**：alludolearning.com 与 Eagle Eye Networks 无关 → 不发（第 95 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Steve Roskowski",
 "title": "CTO",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "来源不明（研究档；与 een.com 无公开关联）→ 不发（第 95 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -168500,8 +168523,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 een.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "Austin, TX",
+"other": "官网 een.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 95 批：云视频监控平台 = 守界（云管理）+ 2025-12 并入 Brivo 大集团 → B 不动、不发；KP 误归属已标（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "Eagle Eye Networks, Inc.（Austin TX；2025-12 与 Brivo 合并，合并后以 Brivo 名义运营；登记号未取）",
+"founded": "2012-07（Dean Drako）（第 95 批 官方登记核实 2026-10-28）",
+"staff": "≈500 人（2023 487）"
 },
 "business_lines": [
 "云视频监控 VMS（自有品牌）",
@@ -169776,7 +169802,8 @@
 "title": "（职务待核）",
 "email": "saeid.habibi@ddc-group.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "DDC 集团销售口（研究档）；**LevelOne = 同行品牌 + Peter 既有客户 → 不碰**（第 95 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Marcelo Pio",
@@ -169794,8 +169821,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 level1.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "Im Defdahl 10F, 44141 Dortmund",
+"other": "官网 level1.com，语言 en，快照状态 ok；角色判定来源：用户表；第 95 批：LevelOne 台资同行品牌（台湾 / 中国代工）；研究档「Peter 的产品已经做进去了」= SmartByte 既有供应链一环 → Saga 不横插，B 不动、不发；价值仅为欧洲品牌加价参照（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "Digital Data Communications GmbH（Amtsgericht Dortmund HRB 9821；USt DE124728154；GF Amanda (Shu-Wen) Chen；台北 DDC 集团）",
+"founded": "1991-03-27（第 95 批 官方登记核实 2026-10-28）",
+"staff": "60–100 人；股本 €5.5M"
 },
 "business_lines": [
 "网络产品品牌（LevelOne：工业/商用 PoE、管理交换机、MC）"
@@ -170184,14 +170214,16 @@
 "title": "Purchase",
 "email": "internationalsales@lindy.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "International Sales（集团销售口，不管采购）（第 95 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Darren Casey",
 "title": "Director",
 "email": "darren.casey@lindy.co.uk",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Managing Director / Director / Secretary / PSC（Companies House 02132710；1971-01 生）= **英国公司拍板人 = 研究档 KP 本人**；贴牌归 Mannheim 总部（第 95 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -170202,8 +170234,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "英国",
-"other": "官网 lindy.co.uk，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+"hq": "Unit 103 Sadler Forster Way, Teesside Industrial Estate, Thornaby, Stockton-On-Tees TS17 9JY",
+"other": "官网 lindy.co.uk，语言 en-GB，快照状态 ok；角色判定来源：用户表；第 95 批：自有品牌已含交换机（亚洲代工）→ OEM 30% 对口是 Mannheim 产品管理；英国线分销 20% 补空白型号（2.5G / 10G 上联 PoE），写 MD Darren Casey（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "LINDY ELECTRONICS LIMITED（Companies House 02132710；母公司 Lindy-Elektronik GmbH, Mannheim；LEI 529900RIHMCCKO7G8T48）",
+"founded": "1987-05-19（英国）；集团 1932（第 95 批 官方登记核实 2026-10-28）",
+"staff": "英国 37 人；集团 €16M 资产负债表（2023）"
 },
 "business_lines": [
 "线缆 / USB / KVM / AV 连接产品（自有品牌）",
@@ -171185,14 +171220,16 @@
 "title": "（表内联系人）",
 "email": "adevries@microsens.de",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "市场 / 销售口（研究档）；**同行 → 不发**（第 95 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Nailia Faut",
 "title": "（表内联系人）",
 "email": "nfaut@microsens.de",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "市场 / 销售口（研究档）；**同行 → 不发**（第 95 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -171203,11 +171240,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "MICROSENS GmbH & Co. KG",
-"founded": "1993",
-"hq": "Hamm, Germany",
+"legal_name": "MICROSENS GmbH & Co. KG（Amtsgericht Hamm HRA 1669；Komplementärin MICROSENS Beteiligungs GmbH HRB 1981；GF Frank Konrad + Dirk Korn）",
+"founded": "1993（创立）/ 1995-12-06（KG）（第 95 批 官方登记核实 2026-10-28）",
+"hq": "Küferstr. 16, 59067 Hamm",
 "size": "中型制造商（euromicron 集团）",
-"other": "白色外壳自有设计"
+"other": "白色外壳自有设计；第 95 批：德国本土光纤 / 工业交换机制造商（原 euromicron 80%，euromicron 2020 破产后独立）= 同行 → 守界不发、B 不动（第 95 批 官方登记核实 2026-10-28）",
+"staff": "50–99 人；€10–50M"
 },
 "business_lines": [
 "光纤交换机 / 智能楼宇 / 工业交换机（自有品牌）"
@@ -230396,8 +230434,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 wieland-electric.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "Brennerstraße 10-14, 96052 Bamberg",
+"other": "官网 wieland-electric.com，语言 en，快照状态 ok；角色判定来源：用户表；第 95 批：工业连接集团，wienet 交换机为代工自有品牌 → 理论 OEM 30% 但集团采购 + 工厂级审核 → B BIG 一页纸即止；2023–24 连亏 + 2025–26 新增 Prokurist = 降本期，但 Saga 不包装成制造商（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "Wieland Electric GmbH（Amtsgericht Bamberg HRB 105；LEI 5299001AC5UDXKZ6J390；GF Dr.-Ing. Börne Rensing + Dr. Christian Wahlers）",
+"founded": "1910（创立）/ 1949-09-27（GmbH）（第 95 批 官方登记核实 2026-10-28）",
+"staff": "2,200 人（集团）；营收 €181.8M（2024）"
 },
 "business_lines": [
 "电气连接技术 / 可插拔安装技术",
@@ -230489,8 +230530,8 @@
 "name": "wildix.com",
 "name_src": "domain",
 "names": [],
-"country": "英国",
-"iso": "GB",
+"country": "爱沙尼亚",
+"iso": "EE",
 "region": "欧洲",
 "other_countries": [],
 "domains": [
@@ -230755,8 +230796,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "英国",
-"other": "官网 wildix.com，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+"hq": "Laeva tn. 2, 10111 Tallinn, Estonia（运营 Loc. le Basse 3, 38123 Trento）",
+"other": "官网 wildix.com，语言 en-GB，快照状态 ok；角色判定来源：用户表；第 95 批：国别更正英国 → 爱沙尼亚（英国 Coventry 仅办事处）；UCaaS 平台 + 自有品牌 PoE 交换机（代工）→ B BIG，只认工厂级 ODM，一页纸给 Trento 产品部即止（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "Wildix（总部 Tallinn：VAT EE101984698；运营 Wildix S.r.l., Trento；登记号未取）",
+"founded": "2005（Trento；Steve + Dimitri Osler）（第 95 批 官方登记核实 2026-10-28）",
+"staff": "360 人（2025）"
 },
 "business_lines": [
 "云 VoIP / UCaaS（自有品牌 Wildix）",
@@ -230839,8 +230883,10 @@
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "爱沙尼亚"
+},
+"country_table": "英国"
 },
 {
 "name": "wirewerks.com",
@@ -231616,11 +231662,12 @@
 ],
 "kp": [
 {
-"name": "Steve Clarke",
+"name": "Stephen Edwin Clarke",
 "title": "（表内联系人）",
 "email": "steve.clarke@amgsystems.com",
 "phone": "+44 1767 600 777",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Director（2019-08-09 任；1955-01 生；Companies House 02838846）= 董事本人；**同行（自产工业交换机）→ 不发**（第 95 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -231631,11 +231678,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "AMG Systems Ltd",
-"founded": "1986（待核）",
-"hq": "Biggleswade, Bedfordshire, UK",
+"legal_name": "AMG SYSTEMS LIMITED（Companies House 02838846；Edgenet Solutions Limited 11974182 控股 ≥75%）",
+"founded": "1993-07-23（第 95 批 官方登记核实 2026-10-28）",
+"hq": "3 Omega Centre, Stratton Business Park, Biggleswade SG18 8QB",
 "size": "中型品牌商（工业传输）",
-"other": "AMG210M 10G MC 系列；美国分销"
+"other": "AMG210M 10G MC 系列；美国分销；第 95 批：英国工业以太网交换机 / 光传输制造商 = 同行 → 守界：不发价格表、不加厚、B 不动；2019–2020 Edgenet 接盘已久，非进门时机（第 95 批 官方登记核实 2026-10-28）",
+"staff": "<50 人（Small）"
 },
 "business_lines": [
 "工业以太网 / 光纤传输设备（自有品牌，部分外购）"
@@ -244147,7 +244195,8 @@
 "title": "（职务待核）",
 "email": "notek@ats.pl",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "业主 / 制造者（tinycontrol Marcin Nosek；CEIDG 2023-11-01；NIP 7961580284）= 拍板人 = 收件人（第 95 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -244158,8 +244207,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 tinycontrol.pl，语言 en，快照状态 ok；角色判定来源：待核"
+"hq": "ul. Tadeusza Mazowieckiego 7G, 26-600 Radom",
+"other": "官网 tinycontrol.pl，语言 en，快照状态 ok；角色判定来源：待核；第 95 批：自研 LAN 控制器 + 外采配套交换机（2 光 10 电）→ OEM 30% 微量，一页纸写业主（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "tinycontrol Marcin Nosek（CEIDG；NIP 7961580284；REGON 526800704）",
+"founded": "2023-11-01（现实体；品牌 / ATS 更早）（第 95 批 官方登记核实 2026-10-28）",
+"staff": "微型"
 },
 "business_lines": [
 "LAN 控制器 / PoE 交换机（自有品牌 tinycontrol）"
@@ -248294,7 +248346,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Artur Rafał Bogucki",
+"role": "业主（CEIDG；NIP 7742987442）= 拍板人 = 收件人（批发口 oferta@abcvision.pl，官网公开）（第 95 批 官方登记核实 2026-10-28）",
+"email": "oferta@abcvision.pl",
+"phone": "",
+"source": "https://abcv.pl/pl/contact"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -248303,8 +248363,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 abcv.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
+"hq": "ul. 1 Maja 12/35, 09-402 Płock",
+"other": "官网 abcv.pl，语言 pl，快照状态 ok；角色判定来源：官网文案；第 95 批：个体户网店 + 公共采购投标，现供 Hasivo → 分销 20% 小量，一页纸对标 Hasivo 价位 + CE / RoHS 文件（投标用）（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "ABC VISION - SYSTEMY ZABEZPIECZEŃ Artur Bogucki（CEIDG；NIP 7742987442；REGON 142729969）",
+"founded": "2011（第 95 批 官方登记核实 2026-10-28）",
+"staff": "微型（个体户）"
 },
 "business_lines": [
 "安防系统网店（报警 / 监控 / CCTV）",
@@ -278493,7 +278556,22 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Dave Gattis",
+"role": "VP Engineering（DITEK 2024-Q1 社区稿）= 产品 / 选型口 = 首收件人（邮箱未公开 → 官网表单 / sales@ 点名）（第 95 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://www.diteksurgeprotection.com/ditek-community-involvement-2024-q1/"
+},
+{
+"name": "Wendy Gattis",
+"role": "CEO（2021-03-04 起；创始人 Robert McIntyre 之女）= 拍板人 = 抄送（第 95 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://www.thomasnet.com/company/01182816/profile"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -278502,8 +278580,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 diteksurgeprotection.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "1720 Starkey Road, Largo, FL 33771",
+"other": "官网 diteksurgeprotection.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 95 批：美国本土浪涌保护制造商 + 自有标 PoE / 工业交换机（外采贴标）→ OEM 30%，对口 VP Engineering；对外叙事「美国制造」→ 只谈部件配套 + 中性包装，不碰产地（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "DITEK Corporation（佛州；FL 登记号未取 Sunbiz ✗）",
+"founded": "1988（Robert McIntyre）（第 95 批 官方登记核实 2026-10-28）",
+"staff": "100–120 人；$19.9M 级（第三方）"
 },
 "business_lines": [
 "电涌保护（商业 / 工业 / 住宅）",
@@ -290242,9 +290323,9 @@
 "name": "commfront.com",
 "name_src": "domain",
 "names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
+"country": "新加坡",
+"iso": "SG",
+"region": "亚太",
 "other_countries": [],
 "domains": [
 "commfront.com"
@@ -290542,8 +290623,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 commfront.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"hq": "1 Yishun Industrial Street 1, #05-31 A'Posh BizHub, Singapore 768160（美国 Bethesda MD 地址为商务中心）",
+"other": "官网 commfront.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 95 批：国别更正美国 → 新加坡；自有品牌工业转换器 / 交换机制造兼网店 = 准同行（华南代工）→ 不发价格表、B 不动（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "COMMFRONT COMMUNICATIONS PTE. LTD.（新加坡 ACRA UEN 201131527M；Exempt Private Company）",
+"founded": "2011-10-22（业务自称 2005）（第 95 批 官方登记核实 2026-10-28）",
+"staff": "16 人；$4M 级（第三方）"
 },
 "business_lines": [
 "工业串口转换 / 隔离器 / Modbus 网关（自有品牌）",
@@ -290656,8 +290740,10 @@
 "body": "Hello CommFront team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nSerial and Modbus are yours; for the compact industrial Ethernet switches and gigabit fibre converters in the range, under the CommFront label from small lots, -40 to 75 C, CE/RoHS/FCC: DIN-rail 5 x Gigabit unmanaged, 12-36 V DC - model STI-050GE - $18.5 USD EXW (MOQ 1, 15-day validity; wide 12-58 V version $25); 8 x Gigabit - STI-080GE - $34.0; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: which of the two - the 5/8-port switch or the converter - would you want a sample quote on first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "新加坡"
+},
+"country_table": "美国"
 },
 {
 "name": "dmsimfg.com",
@@ -297684,7 +297770,15 @@
 "title": "（表内联系人）",
 "email": "toddv@makonetworks.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Senior Vice President of Sales（theorg / Datanyze）= 卖方，不管采购（第 95 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Andrzej Krupa",
+"role": "Director of Procurement（theorg）= 采购口（仅记档；守界不发）（第 95 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://theorg.com/org/mako-networks"
 }
 ],
 "grade_override": null,
@@ -297695,8 +297789,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 makonetworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "1355 North McLean Blvd, Elgin, IL 60123",
+"other": "官网 makonetworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 95 批：云管理 PCI 网络设备商 = 守界（其交换机绑自家云平台、需 ODM 固件）→ 不发价格表、B 不动（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "Mako Networks, Inc.（美国 Elgin IL）+ Mako Networks NZ Limited（2000 年奥克兰 YellowTuna Networks 起家）",
+"founded": "2000（第 95 批 官方登记核实 2026-10-28）",
+"staff": "75–77 人；$18.5M 级（第三方）"
 },
 "business_lines": [
 "SD-WAN / PCI DSS 安全网关 / 云管理",
@@ -300756,7 +300853,8 @@
 "title": "（姓氏/职务待核）",
 "email": "deepali@sanspot.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（职务未取；SanSpot / OptoSpan 同一班人）= 收件人（第 95 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -300767,8 +300865,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 sanspot.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+"hq": "125 Kennedy Dr, Suite 500, Hauppauge, NY 11788",
+"other": "官网 sanspot.com，语言 ?，快照状态 http_error；角色判定来源：用户表；第 95 批：主品类光纤线缆 / 配线（Saga 不供）→ 只剩 MC + 光口小交换机贴标一条线 OEM 30%，一页纸即止（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "SanSpot（品牌名；纽约法定实体未取，疑与 OptoSpan 同一公司）",
+"founded": "2000（第三方）/ 域名 2003-06（第 95 批 官方登记核实 2026-10-28）",
+"staff": "11–50 人"
 },
 "business_lines": [
 "布线 / 无源产品网店",
@@ -312417,7 +312518,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Zhaoping Wei",
+"role": "Prezes Zarządu / 80% 股东 / 实际受益人（rejestr.io KRS 0000857683；2020-09-03 起）= 老板 = 拍板人（华人；可中文直联 —— 由 Simon 决定；邮箱未公开 → 官网公域点名）（第 95 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://rejestr.io/krs/857683/vidos"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -312426,11 +312535,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "ul. Sokołowska 44, 05-806 Sokołów k/Warszawy",
-"other": "官网 vidos.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌视频对讲 / 门禁「Producent」+ 已有自标 PoE → OEM 30%：4 / 8 口 PoE 贴 Vidos 标；zarząd 未取；同名陷阱 vidos-domofony.pl（KRS 0000857651）/ vidos-sklep.pl（PPHU HERZ）为经销商（第 94 批 官方登记核实 2026-10-28）",
-"legal_name": "VIDOS Sp. z o.o.（KRS 0000857683 · NIP 5342626018 · REGON 386943260；资本 5,000 zł；前身 Reguły 主体 NIP 7281209711）",
-"founded": "2020-09-03（KRS；品牌业务更早）（第 94 批 官方登记核实 2026-10-28）",
-"staff": "小型（未取）"
+"hq": "Sokołowska 44, Sokołów, 05-806 Komorów",
+"other": "官网 vidos.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌视频对讲 / 门禁「Producent」+ 已有自标 PoE → OEM 30%：4 / 8 口 PoE 贴 Vidos 标；zarząd 未取；同名陷阱 vidos-domofony.pl（KRS 0000857651）/ vidos-sklep.pl（PPHU HERZ）为经销商（第 94 批 官方登记核实 2026-10-28）；第 95 批：老板华人 Zhaoping Wei、2025 营收 2,960 万 zł 盈利 → 自有品牌 PoE 必有国内货源 → OEM 30% 下调为「一对一替代」（交期 / Marvell 管理型才有戏）；收件人 = 老板本人（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "VIDOS Sp. z o.o.（KRS 0000857683；NIP 5342626018；REGON 386943260；资本 5,000 zł；Zhaoping Wei 80% + Aneta Kaczmarczyk Wei 20%）",
+"founded": "2020-09-03（第 95 批 官方登记核实 2026-10-28）",
+"staff": "小型（2025 营收 29.6 mln zł、净利 2.5 mln zł；人数付费未取）"
 },
 "business_lines": [
 "可视对讲 / 密码锁 / 门禁自动化（自有品牌 VIDOS）",
@@ -356185,7 +356294,7 @@
 "legal_name": "Düzgün Toptan Ticaret（待核）",
 "hq": "Türkiye（待核）",
 "size": "小型批发商（推测）",
-"other": "Gmail 联系；WhatsApp 已加；第 91 批检索未命中（teksarf.com / Düzgün Toptan：1 次检索仅泛化「toptan kamera」结果）→ 不写回登记；Gmail 个体户，WhatsApp 线（第 91 批 官方登记核实 2026-10-27）"
+"other": "Gmail 联系；WhatsApp 已加；第 91 批检索未命中（teksarf.com / Düzgün Toptan：1 次检索仅泛化「toptan kamera」结果）→ 不写回登记；Gmail 个体户，WhatsApp 线（第 91 批 官方登记核实 2026-10-27）；第 95 批：底数 1 次检索未命中（gmail 名片户；结果全是无关 toptan 安防站）→ 标「底数不可查（名片户）」，不再查（第 95 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT/安防耗材批发（推测）"
@@ -415575,7 +415684,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Rodrigo (Rod) Lima",
+"role": "Founder / Manager（BBB 登记管理人；2006 创业、2007 LLC）= 老板 = 收件人（rod@nexlar.com 新闻稿公开）（第 95 批 官方登记核实 2026-10-28）",
+"email": "rod@nexlar.com",
+"phone": "",
+"source": "https://www.nexlar.com/press-release/virtual-security-guard-services/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -415584,8 +415701,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 nexlar.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "2825 Wilcrest Dr, Suite 170, Houston, TX 77042",
+"other": "官网 nexlar.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 95 批：休斯顿持牌安防集成商、老板邮箱公开 → 小项目集成商 25%，商用 PoE 配监控项目，直接写老板（第 95 批 官方登记核实 2026-10-28）",
+"legal_name": "Nexlar Security, LLC（德州；TX 登记号未取；BBB 记 2007-10-08 成立；德州执照 B14634）",
+"founded": "2006-04-20（开业）/ 2007-10-08（LLC）（第 95 批 官方登记核实 2026-10-28）",
+"staff": "13–49 人；<$5M"
 },
 "business_lines": [
 "商用安防 / 门禁 / 摄像机安装（休斯顿）"
@@ -423949,7 +424069,7 @@
 },
 "company_facts": {
 "hq": "波兰",
-"other": "官网 avizio.pl，语言 ?，快照状态 ok；角色判定来源：用户表；第 94 批：底数 1 次检索未命中；侧证 lan-cctv.pl（AICOM 网店）页脚「AICOM · KRS 0000654397 · NIP 6782913975」→ Avizio 疑为 SB-445 AICOM（Kraków）自有品牌（推定）→ 下轮一次直查 avizio.pl Impressum 即可定并线（第 94 批 官方登记核实 2026-10-28）"
+"other": "官网 avizio.pl，语言 ?，快照状态 ok；角色判定来源：用户表；第 94 批：底数 1 次检索未命中；侧证 lan-cctv.pl（AICOM 网店）页脚「AICOM · KRS 0000654397 · NIP 6782913975」→ Avizio 疑为 SB-445 AICOM（Kraków）自有品牌（推定）→ 下轮一次直查 avizio.pl Impressum 即可定并线（第 94 批 官方登记核实 2026-10-28）；第 95 批：avizio.pl 直查 → /kontakt 404、根域名 302 跳 a-lan.pl（A-LAN Technologie = AICOM 体系，品牌墙含 Avizio CCTV / Avizio Power；Ruijie Reyee 波兰授权分销）→ **并线 SB-445 坐实**，不再单独发 / 查（第 95 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防系统（自有标工业 PoE 交换机）"

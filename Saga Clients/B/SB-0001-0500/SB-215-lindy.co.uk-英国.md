@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +91,24 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 95 批（GB · 1 次检索：Companies House 02132710（1987-05-19 注册；Unit 103 Sadler Forster Way, Thornaby, Stockton-On-Tees TS17 9JY；Active；Small；1 项在押抵押）+ Endole（37 人；资产负债表 <£7.5M；4 officers / 3 股东 / 2 PSC；**Darren Neil Casey = Director / Secretary / PSC / Managing Director，1971-01 生**；Lesley Jean Gray；Jurgen Lindenberg 在册）+ lindy.com/global-locations（德国 LINDY-Elektronik GmbH, Markircher Str. 20/22, 68229 Mannheim = 总部；英国 Stockton 公司）+ LEI 529900RIHMCCKO7G8T48（Lindy-Elektronik GmbH；Mannheim；1964-10-20 登记）+ implisense（2023 年资产负债表 €16.1M），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/02132710）：**
+
+- 法定名 / 登记号：LINDY ELECTRONICS LIMITED（lindy.co.uk；Stockton-on-Tees）— LINDY-Elektronik GmbH（Mannheim）集团英国公司 · Companies House 02132710（母公司 Lindy-Elektronik GmbH，Amtsgericht Mannheim；LEI 529900RIHMCCKO7G8T48） · 状态 **Active** · 成立 1987-05-19（英国）；集团 1932 创立 / GmbH 1964 登记 · Private limited company（德国家族集团 Lindenberg 旗下）
+- 行业码 / 经营范围：46520 电信设备批发（自有品牌 LINDY 线缆 / KVM / 转换器 / 小交换机 / 工业交换机）
+- 注册地址：Unit 103 Sadler Forster Way, Teesside Industrial Estate, Thornaby, Stockton-On-Tees TS17 9JY
+- 规模档：英国公司小型（37 人）；集团中型（€16M 资产负债表 2023）
+- 账目：Total Exemption Full；最近账目 2025-06-29 递交；—
+- 高管：Darren Neil Casey — Managing Director / Director / Secretary / PSC（= 研究档 KP darren.casey@lindy.co.uk 本人）
+- 高管：Lesley Jean Gray — Officer
+- 高管：Jurgen Lindenberg — Director（集团家族）
+- 控制人 / 股东：Darren Neil Casey + 集团（Lindenberg 家族）
+- 抵押 / 诉讼 / 担保：1 项在押
+- **这意味着什么：**
+  - **研究档 KP Darren Casey 就是英国公司 MD + PSC** → 英国渠道拍板人；但 LINDY 产品线由 Mannheim 总部 / 台北采购统一开发 → 英国 MD 能拍「本地库存 / 项目补货」，拍不了贴牌
+  - 自有品牌已含交换机 / 工业交换机（亚洲代工）= **OEM 30% 理论对口是 Mannheim 产品管理**，英国线只做分销 20%（SmartByte 品牌补其空白型号：2.5G / 10G 上联 PoE）
+  - 发信窗口 Thu 12–14 GMT；一页纸 + 一个问题：「英国仓现有 PoE 型号的交期痛点？」
+- 备注：Mannheim HRB 号两说（LEI 页 HRB 786 / 第三方 HRB 712565）→ 未定，不作底数。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,16 +151,19 @@ updated: 2026-10-27
 - **【用户表】MC 有名，SFP，工业 FS 自己的牌子，价格很高**
   > MC,似乎是比较有名 SFP 工业FS 自己的牌子 价格很高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Megan Fairbairn（）internationalsales@lindy.com 〔用户表〕
-- **KP**：Darren Casey（）darren.casey@lindy.co.uk 〔用户表〕
+- **KP**：Megan Fairbairn（International Sales（集团销售口，不管采购）（第 95 批 官方登记核实 2026-10-28））internationalsales@lindy.com 〔用户表〕
+- **KP**：Darren Casey（Managing Director / Director / Secretary / PSC（Companies House 02132710；1971-01 生）= **英国公司拍板人 = 研究档 KP 本人**；贴牌归 Mannheim 总部（第 95 批 官方登记核实 2026-10-28））darren.casey@lindy.co.uk 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 lindy.co.uk，语言 en-GB，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | LINDY ELECTRONICS LIMITED（Companies House 02132710；母公司 Lindy-Elektronik GmbH, Mannheim；LEI 529900RIHMCCKO7G8T48） |
+| 成立 | 1987-05-19（英国）；集团 1932（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 103 Sadler Forster Way, Teesside Industrial Estate, Thornaby, Stockton-On-Tees TS17 9JY |
+| 人数 | 英国 37 人；集团 €16M 资产负债表（2023） |
+| 其他 | 官网 lindy.co.uk，语言 en-GB，快照状态 ok；角色判定来源：用户表；第 95 批：自有品牌已含交换机（亚洲代工）→ OEM 30% 对口是 Mannheim 产品管理；英国线分销 20% 补空白型号（2.5G / 10G 上联 PoE），写 MD Darren Casey（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：线缆 / USB / KVM / AV 连接产品（自有品牌）；网络交换机 / 光纤 MC（自有品牌）
 - **触达通道（公开）**：role: 欧洲连接产品品牌商（自有标网络/工业交换机，OEM 采购）；region: 英国；contact: internationalsales@lindy.com、darren.casey@lindy.co.uk
@@ -243,8 +264,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Megan Fairbairn | — | internationalsales@lindy.com | 调研核实（公开页） | 用户表 |
-| Darren Casey | — | darren.casey@lindy.co.uk | 调研核实（公开页） | 用户表 |
+| Megan Fairbairn | International Sales（集团销售口，不管采购）（第 95 批 官方登记核实 2026-10-28） | internationalsales@lindy.com | 调研核实（公开页） | 用户表 |
+| Darren Casey | Managing Director / Director / Secretary / PSC（Companies House 02132710；1971-01 生）= **英国公司拍板人 = 研究档 KP 本人**；贴牌归 Mannheim 总部（第 95 批 官方登记核实 2026-10-28） | darren.casey@lindy.co.uk | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -338,12 +359,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

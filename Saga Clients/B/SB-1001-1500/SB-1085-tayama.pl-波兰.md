@@ -77,6 +77,24 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 95 批（PL · 1 次检索：rejestr.io KRS 0000430899（TAYAMA Sp. z o.o.；2012-08-24；NIP 6272733091；REGON 243016429；ul. Słoneczna 4, 40-135 Katowice；资本 15 tys. zł；**Prezes Maciej Prandota（2015-07 起）**；Henryk Tadeusz Prandota prokura 2016-12 起；最近登记 2026-05-05）+ imsig KRS 0000619990（TAYAMA Sp. z o.o. Sp.k.；2016-05-31；NIP 6342182846；46.52.Z 电子 / 电信设备批发）+ bizraport（Sp.k. 营收 1.9 / 3.1 mln zł 区间）+ tayama.pl（legalName TAYAMA GROUP Sp. z o.o.；NIP 6343005879）+ tayamagroup.pl/kontakt（KRS 0000947226；资本 100,000 zł）+ GoWork（GROUP：Prezes Maciej Prandota、Wiceprezes Mirosław Grzegorz Rydzek；关联 Tayama Polska Robert Prandota i Wspólnicy sp.j.；m.prandota@tayama.pl 公开），2026-10-28 查；https://rejestr.io/krs/430899/tayama）：**
+
+- 法定名 / 登记号：TAYAMA（tayama.pl；Katowice）— Prandota 家族三实体：TAYAMA Sp. z o.o. / TAYAMA Sp. z o.o. Sp.k. / TAYAMA GROUP Sp. z o.o. · KRS 0000430899（Sp. z o.o.）/ 0000619990（Sp.k.）/ 0000947226（GROUP） · 状态 **Active（三实体）** · 成立 2012-08-24 / 2016-05-31 / 2021–2022（GROUP） · Sp. z o.o. + Sp.k. + GROUP Sp. z o.o.（Prandota 家族）
+- 行业码 / 经营范围：46.52.Z 电子 / 电信设备批发（自有品牌 Tayama CCTV 摄像机 / 录像机 / 电源 / PoE 机箱）
+- 注册地址：ul. Słoneczna 4, 40-135 Katowice
+- 规模档：小型（家族三实体；人数未取）
+- 账目：Sp.k. 营收 1.9–3.1 mln zł（bizraport 区间）；—
+- 高管：Maciej Prandota — Prezes Zarządu（Sp. z o.o. + GROUP）= 拍板人（m.prandota@tayama.pl 第三方目录公开）
+- 高管：Mirosław Grzegorz Rydzek — Wiceprezes（GROUP）
+- 高管：Henryk Tadeusz Prandota — Prokurent
+- 高管：Robert Prandota — sp.j. 合伙人
+- 控制人 / 股东：Prandota 家族
+- **这意味着什么：**
+  - **自有品牌 CCTV + 研究档「商用 PoE 比较多、外壳 / 机箱」= 已在贴牌** → **OEM 30%**：STC-028GP / STC-228GP / STC-2224GP 贴 Tayama 标，写 Prezes Maciej Prandota
+  - 家族三实体并存（2021–22 新设 GROUP）= 重组期，采购仍在 Maciej 手里 → 一个收件人即可
+  - 规模小（Sp.k. 1.9–3.1 mln zł）→ 先款后货、MOQ 1；发信窗口 Thu 12–14 CET
+- 备注：GROUP 成立日按 KRS 0000947226 号段推定 2021–2022；未取精确日。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,14 +123,18 @@ updated: 2026-10-28
 - **【用户表】商业 PoE CCTV 为主**
   > 商业PoE 比较多的外壳 CCTV为主；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Maciej Prandota（Prezes Zarządu（TAYAMA Sp. z o.o. KRS 0000430899 自 2015-07；TAYAMA GROUP Sp. z o.o. KRS 0000947226）= 拍板人 = 收件人（m.prandota@tayama.pl 第三方目录公开）（第 95 批 官方登记核实 2026-10-28））m.prandota@tayama.pl 〔https://rejestr.io/krs/430899/tayama〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 tayama.pl，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | TAYAMA Sp. z o.o.（KRS 0000430899；NIP 6272733091）+ TAYAMA Sp. z o.o. Sp.k.（KRS 0000619990；NIP 6342182846）+ TAYAMA GROUP Sp. z o.o.（KRS 0000947226；NIP 6343005879）— Prandota 家族 |
+| 成立 | 2012-08-24（Sp. z o.o.）（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Słoneczna 4, 40-135 Katowice |
+| 人数 | 小型（Sp.k. 营收 1.9–3.1 mln zł 区间） |
+| 其他 | 官网 tayama.pl，语言 ?，快照状态 ok；角色判定来源：用户表；第 95 批：自有品牌 CCTV + 商用 PoE / 机箱已在贴牌 → OEM 30%，写 Prezes Maciej Prandota；家族三实体重组期，采购仍在 Maciej 手里（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电子 / 安防产品分销网店（波兰）
 - **触达通道（公开）**：role: 安防/电子分销网店（波兰）；region: 波兰；contact: esklep@tayama.pl
@@ -159,7 +181,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | esklep@tayama.pl | 用户表原值 | Clients/ 表 |
+| Maciej Prandota | Prezes Zarządu（TAYAMA Sp. z o.o. KRS 0000430899 自 2015-07；TAYAMA GROUP Sp. z o.o. KRS 0000947226）= 拍板人 = 收件人（m.prandota@tayama.pl 第三方目录公开）（第 95 批 官方登记核实 2026-10-28） | m.prandota@tayama.pl | 调研核实（公开页） | https://rejestr.io/krs/430899/tayama |
 
 - **通道建议**：企业邮箱可直发
 

@@ -87,6 +87,24 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 95 批（DE · 1 次检索：level1.com Imprint（GF Amanda (Shu-Wen) Chen；Amtsgericht Dortmund HRB 9821；USt DE 124728154）+ Northdata HRB 9821（Prokura Damian Nöthe / Johannes van Kempen；股本 €5,500,000；2010-12 商标 LEVEL ONE）+ implisense（1991-03-27 登记；Im Defdahl 10F, 44141 Dortmund；批发 4651）+ DDC 公司简介 PDF（1991 年 Dortmund 创立 IT 批发；60 人；研发 / 制造 / 分销网络 / 连接 / 安防产品；**生产在台湾 & 中国**；Soest 物流中心）+ non-plus-ultra（100 人）+ GITEX 2025 展商页（KAM Nico Riedl；BD Director Asia & ANZ Harry Yohannan），2026-10-28 查；https://www.level1.com/level1_en/imprint）：**
+
+- 法定名 / 登记号：Digital Data Communications GmbH（level1.com / digital-data.de；Dortmund）— LevelOne 品牌 = 台资 DDC 集团欧洲公司（同行品牌） · Amtsgericht Dortmund HRB 9821 · 状态 **Active** · 成立 1991-03-27 · GmbH（股本 €5.5M；台北 Digital Data Communications 集团控股 — GF 为台籍）
+- 行业码 / 经营范围：4651 网络 / 外设批发 + 自有品牌 LevelOne（交换机 / PoE / 工业交换机 / 监控）设计分销
+- 注册地址：Im Defdahl 10F, 44141 Dortmund
+- 规模档：中型（60–100 人；€5.5M 股本）
+- 账目：—（未取）；—
+- 高管：Amanda (Shu-Wen) Chen — Geschäftsführerin（台籍，集团派驻）
+- 高管：Damian Nöthe — Prokurist
+- 高管：Johannes Elbert van Kempen — Prokurist
+- 高管：Saeid Habibi — 研究档 KP（ddc-group.com；销售口）
+- 控制人 / 股东：台北 DDC 集团（推定）
+- **这意味着什么：**
+  - **LevelOne = 同行品牌（台资，产品自台湾 / 中国代工）**；研究档记「Peter 的产品已经做进去了」= **SmartByte 已是其供应链一环** → Saga 不能横插（供应商既有客户）→ B 不动、不发
+  - 价值只在情报：LevelOne 欧洲选型 / 价位 = SmartByte 在欧洲的「出厂→品牌」加价参照
+  - 研究档 KP Saeid Habibi 是销售（ddc-group.com）而非采购 → 即便日后碰也不是他
+- 备注：Peter 既有客户 → 不碰；不再查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,7 +150,7 @@ updated: 2026-10-28
 - **【用户表】自己的标；Peter 产品已做进去**
   > MC 工业FS FS 自己的标 Peter产品已经做进去了；质量高；总部在德国 有很多国家办事处
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Saeid Habibi（）saeid.habibi@ddc-group.com 〔用户表〕
+- **KP**：Saeid Habibi（DDC 集团销售口（研究档）；**LevelOne = 同行品牌 + Peter 既有客户 → 不碰**（第 95 批 官方登记核实 2026-10-28））saeid.habibi@ddc-group.com 〔用户表〕
 - **KP**：Marcelo Pio（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -140,8 +158,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 level1.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Digital Data Communications GmbH（Amtsgericht Dortmund HRB 9821；USt DE124728154；GF Amanda (Shu-Wen) Chen；台北 DDC 集团） |
+| 成立 | 1991-03-27（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Im Defdahl 10F, 44141 Dortmund |
+| 人数 | 60–100 人；股本 €5.5M |
+| 其他 | 官网 level1.com，语言 en，快照状态 ok；角色判定来源：用户表；第 95 批：LevelOne 台资同行品牌（台湾 / 中国代工）；研究档「Peter 的产品已经做进去了」= SmartByte 既有供应链一环 → Saga 不横插，B 不动、不发；价值仅为欧洲品牌加价参照（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品品牌（LevelOne：工业/商用 PoE、管理交换机、MC）
 - **触达通道（公开）**：role: 网络品牌商（LevelOne，OEM 采购；已有在供厂商）；region: 德国；contact: saeid.habibi@ddc-group.com
@@ -227,7 +248,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Saeid Habibi | — | saeid.habibi@ddc-group.com | 调研核实（公开页） | 用户表 |
+| Saeid Habibi | DDC 集团销售口（研究档）；**LevelOne = 同行品牌 + Peter 既有客户 → 不碰**（第 95 批 官方登记核实 2026-10-28） | saeid.habibi@ddc-group.com | 调研核实（公开页） | 用户表 |
 | Marcelo Pio | — | — | 调研核实（公开页） | 用户表 |
 | Saeid | — | saeid.habibi@ddc-group.com | 用户表原值 | Clients/ 表 |
 

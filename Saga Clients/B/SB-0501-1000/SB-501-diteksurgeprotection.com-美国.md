@@ -91,6 +91,24 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 95 批（US · 1 次检索：diteksurgeprotection.com/about（1988 年海军退伍 Robert (Bob) McIntyre 创立；夫妻 Bob + Joanne；100+ 美国本土员工；女儿 Wendy Gattis = CEO、Melissa Lostraglio = VP Administration；Bob 任 Board Chairman）+ Thomasnet 新闻（2021-03-04 Wendy Gattis 升 CEO）+ Security Systems News 2023-05（107 人）+ LinkedIn（51–200 人；Founded 1988）+ RocketReach（1720 Starkey Road, Largo FL 33771；99 人；$19.9M 第三方估）+ DITEK 2024-Q1 社区稿（Dave Gattis = VP Engineering），2026-10-28 查；https://www.diteksurgeprotection.com/about/）：**
+
+- 法定名 / 登记号：DITEK Corporation（diteksurgeprotection.com；Largo FL） · FL 登记号未取（Sunbiz ✗） · 状态 **Active（官网 2026-09 更新；Thomasnet 在册）** · 成立 1988 · Corporation（佛州；家族持有，第二代经营）
+- 行业码 / 经营范围：浪涌保护器制造（安防 / 消防 / 数据线路）+ 「network solutions」自有标 PoE / 工业交换机线（研究档：PoE 及配件、工业 FS 自有 logo）
+- 注册地址：1720 Starkey Road, Largo, FL 33771
+- 规模档：中型（100–120 人；$20M 级第三方估；50,000 sq ft 自有厂房）
+- 账目：—（私有）；—
+- 高管：Wendy Gattis — CEO（2021-03 起；创始人之女）
+- 高管：Dave Gattis — VP Engineering（产品 / 选型口）
+- 高管：Melissa Lostraglio — VP Administration
+- 高管：Robert (Bob) McIntyre — Founder / Chairman
+- 控制人 / 股东：McIntyre / Gattis 家族（推定）
+- **这意味着什么：**
+  - **美国本土浪涌保护制造商，交换机不是自产而是贴标外采（研究档「工业 FS 自己的 logo」）→ OEM 30%**：工业 PoE 小口数 + 商用 PoE 给其安防渠道配套；对口是 VP Engineering Dave Gattis（产品）而非销售
+  - 家族企业第二代、「坚持美国制造」是其对外叙事 → 发信**只讲部件级配套 + 中性包装 + FCC / CE**，不碰「产地」话题；先款后货、MOQ 1
+  - 主业与 Saga 不冲突（我们不做浪涌）→ 可提「互补」：他们的 PoE 浪涌保护 + 我们的 PoE 交换机同一张 BOM；发信窗口 Wed 08–10 ET
+- 备注：FL 实体号未取（Sunbiz ✗）；第三方营收只作区间。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,14 +141,19 @@ updated: 2026-10-28
 - **【用户表】PoE 及配件、工业 FS，自己的 logo**
   > PoE及配件 工业FS 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Dave Gattis（VP Engineering（DITEK 2024-Q1 社区稿）= 产品 / 选型口 = 首收件人（邮箱未公开 → 官网表单 / sales@ 点名）（第 95 批 官方登记核实 2026-10-28）） 〔https://www.diteksurgeprotection.com/ditek-community-involvement-2024-q1/〕
+- **KP**：Wendy Gattis（CEO（2021-03-04 起；创始人 Robert McIntyre 之女）= 拍板人 = 抄送（第 95 批 官方登记核实 2026-10-28）） 〔https://www.thomasnet.com/company/01182816/profile〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 diteksurgeprotection.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | DITEK Corporation（佛州；FL 登记号未取 Sunbiz ✗） |
+| 成立 | 1988（Robert McIntyre）（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1720 Starkey Road, Largo, FL 33771 |
+| 人数 | 100–120 人；$19.9M 级（第三方） |
+| 其他 | 官网 diteksurgeprotection.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 95 批：美国本土浪涌保护制造商 + 自有标 PoE / 工业交换机（外采贴标）→ OEM 30%，对口 VP Engineering；对外叙事「美国制造」→ 只谈部件配套 + 中性包装，不碰产地（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电涌保护（商业 / 工业 / 住宅）；自有 logo PoE 交换机 / PoE 保护器
 
@@ -199,7 +222,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | — | 用户表原值 | Clients/ 表 |
+| Dave Gattis | VP Engineering（DITEK 2024-Q1 社区稿）= 产品 / 选型口 = 首收件人（邮箱未公开 → 官网表单 / sales@ 点名）（第 95 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.diteksurgeprotection.com/ditek-community-involvement-2024-q1/ |
+| Wendy Gattis | CEO（2021-03-04 起；创始人 Robert McIntyre 之女）= 拍板人 = 抄送（第 95 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.thomasnet.com/company/01182816/profile |
 
 - **通道建议**：无邮箱：只能电话 / WhatsApp / 官网表单
 
@@ -235,7 +259,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；没有可靠直达通道
+- **W**：没有可靠直达通道
 - **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -252,7 +276,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ❌ 无 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认 |

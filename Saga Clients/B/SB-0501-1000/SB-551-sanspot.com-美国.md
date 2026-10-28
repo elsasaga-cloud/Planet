@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 95 批（US · 1 次检索：sanspot.com/about-sanspot（「10 年以上」；30,000 sq ft 纽约仓；经销 OptoSpan / Cisco / Brocade / Finisar 等；地址 125 Kennedy Dr. Suite 500, Hauppauge NY 11788）+ Crunchbase（Hauppauge；11–50 人；sameAs LinkedIn optospan）+ craft.co / salary.com（Founded 2000；旧址 50 Alexander Ct, Ronkonkoma NY 11779）+ WHOIS 镜像（域名 2003-06-15 注册，隐私代理），2026-10-28 查；https://www.sanspot.com/about-sanspot）：**
+
+- 法定名 / 登记号：SanSpot（sanspot.com；Hauppauge NY）— 光纤线缆 / 配线自有品牌，OptoSpan 同门 · NY 登记号未取（NY DOS 按法定名查，SanSpot 为品牌名；法定实体疑为 OptoSpan 同一公司） · 状态 **官网在线（2026）** · 成立 2000（第三方）/ 域名 2003 · 私有公司（纽约；法定名未取）
+- 行业码 / 经营范围：光纤跳线 / MPO / 铠装光缆 / 配线架自有品牌（SanSpot + OptoSpan）+ 网络设备转售
+- 注册地址：125 Kennedy Dr, Suite 500, Hauppauge, NY 11788
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Deepali（姓未取）— 研究档 KP deepali@sanspot.com（职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - 主品类是光纤线缆 / 配线（Saga 不供）；研究档「MC 自有 logo」→ **只剩 MC + 光口小交换机一条线 OEM 30%**，一页纸即止
+  - SanSpot 与 OptoSpan 同一班人（Crunchbase sameAs）→ 若回信，两牌一并谈；不投第 2 封
+  - 法定名未取（品牌名查不到 NY DOS）→ 底数到此为止
+- 备注：NY DOS 需法定名；不再追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,15 +130,18 @@ updated: 2026-10-27
 - **【用户表】工业 MC 自己的 logo；网站多无源**
   > 工业MC MC  自己的logo 网站上都是cable等无源产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Deepali（）deepali@sanspot.com 〔用户表〕
+- **KP**：Deepali（研究档 KP（职务未取；SanSpot / OptoSpan 同一班人）= 收件人（第 95 批 官方登记核实 2026-10-28））deepali@sanspot.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 sanspot.com，语言 ?，快照状态 http_error；角色判定来源：用户表 |
+| 法定名称 | SanSpot（品牌名；纽约法定实体未取，疑与 OptoSpan 同一公司） |
+| 成立 | 2000（第三方）/ 域名 2003-06（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 125 Kennedy Dr, Suite 500, Hauppauge, NY 11788 |
+| 人数 | 11–50 人 |
+| 其他 | 官网 sanspot.com，语言 ?，快照状态 http_error；角色判定来源：用户表；第 95 批：主品类光纤线缆 / 配线（Saga 不供）→ 只剩 MC + 光口小交换机贴标一条线 OEM 30%，一页纸即止（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：布线 / 无源产品网店；MC（自有标）
 - **触达通道（公开）**：role: 布线网店/自有标 MC（美国）；region: 美国；contact: deepali@sanspot.com、vanil@sanspot.com
@@ -219,7 +237,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Deepali | — | deepali@sanspot.com | 调研核实（公开页） | 用户表 |
+| Deepali | 研究档 KP（职务未取；SanSpot / OptoSpan 同一班人）= 收件人（第 95 批 官方登记核实 2026-10-28） | deepali@sanspot.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -313,12 +331,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -80,6 +80,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 95 批（PL · 1 次检索：abcv.pl/dane-firmy + /pl/contact（ABC VISION - SYSTEMY ZABEZPIECZEŃ BOGUCKI ARTUR；NIP 7742987442；REGON 142729969；ul. 1 Maja 12/35, 09-402 Płock；批发报价 oferta@abcvision.pl；公共采购部 zamowieniapubliczne@）+ /pl/i/O-nas（2011 年起；CCTV / 报警 / 门禁 / 综合布线 / DVB-T 零售 + 批发；「Rzetelna Firma」）+ 隐私政策（管理者 Bogucki Artur Rafał）+ Ceneo 店铺页，2026-10-28 查；https://abcv.pl/dane-firmy）：**
+
+- 法定名 / 登记号：ABC VISION - SYSTEMY ZABEZPIECZEŃ Artur Bogucki（abcv.pl；Płock）— CEIDG 个体户 · NIP 7742987442 / REGON 142729969（CEIDG） · 状态 **Active（网店 2026 在线）** · 成立 2011 · Jednoosobowa działalność gospodarcza（个体户）
+- 行业码 / 经营范围：4652 安防 / 网络设备零售 + 批发（网店 + 公共采购投标）
+- 注册地址：ul. 1 Maja 12/35, 09-402 Płock
+- 规模档：微型（个体户）
+- 账目：—（个体户）；—
+- 高管：Artur Rafał Bogucki — 业主
+- 控制人 / 股东：Artur Bogucki 100%
+- **这意味着什么：**
+  - 个体户网店 + 公共采购投标，研究档「现供 Hasivo」→ **分销 20% 小量**：一页纸 STC-028GP / STC-228GP 对标 Hasivo 价位，写业主 Artur Bogucki（oferta@ 批发口）
+  - 公共采购部 = 学校 / 市政项目用 PoE 交换机 → 可提 CE / RoHS 文件齐全（投标需要）
+  - 量小、不加厚；发信窗口 Thu 12–14 CET
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,14 +137,18 @@ updated: 2026-10-28
 - **【用户表】有 Hasivo 的商业 PoE，从国内买**
   > MC Switch等 / 有haviso的商业PoE 应该是比较多从国内买；https://www.ceneo.pl/Switche_i_huby/p:ABCVISION.htm
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Artur Rafał Bogucki（业主（CEIDG；NIP 7742987442）= 拍板人 = 收件人（批发口 oferta@abcvision.pl，官网公开）（第 95 批 官方登记核实 2026-10-28））oferta@abcvision.pl 〔https://abcv.pl/pl/contact〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 abcv.pl，语言 pl，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | ABC VISION - SYSTEMY ZABEZPIECZEŃ Artur Bogucki（CEIDG；NIP 7742987442；REGON 142729969） |
+| 成立 | 2011（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. 1 Maja 12/35, 09-402 Płock |
+| 人数 | 微型（个体户） |
+| 其他 | 官网 abcv.pl，语言 pl，快照状态 ok；角色判定来源：官网文案；第 95 批：个体户网店 + 公共采购投标，现供 Hasivo → 分销 20% 小量，一页纸对标 Hasivo 价位 + CE / RoHS 文件（投标用）（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统网店（报警 / 监控 / CCTV）；自有标交换机（ABCVISION）
 - **触达通道（公开）**：role: 安防网店 + 自有标交换机（波兰，Hasivo 代工迹象）；region: 波兰；contact: sklep@abcvision.pl
@@ -212,7 +230,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sklep@abcvision.pl | 用户表原值 | Clients/ 表 |
+| Artur Rafał Bogucki | 业主（CEIDG；NIP 7742987442）= 拍板人 = 收件人（批发口 oferta@abcvision.pl，官网公开）（第 95 批 官方登记核实 2026-10-28） | oferta@abcvision.pl | 调研核实（公开页） | https://abcv.pl/pl/contact |
 
 - **通道建议**：企业邮箱可直发
 
@@ -281,7 +299,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Artur,
 
 Some time ago you had a product mail from us - "L3 Managed Switch" on 3 April 2025 - and there was no reason to answer a mass mail. This one is specific. For the ABCVISION-branded PoE switches listed on Ceneo, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget unmanaged 4/8-PoE units from small lots in your packaging, CE/RoHS — which model do you reorder most often?
 

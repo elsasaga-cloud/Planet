@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -92,6 +92,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 95 批（DE · 1 次检索：microsens.com/footer/imprint（HRA Hamm 1669；Komplementärin MICROSENS Beteiligungs GmbH HRB Hamm 1981；GF Dipl.-Ing. Frank Konrad + Dipl.-Kfm. Dirk Korn；USt DE170837673；Küferstr. 16, 59067 Hamm）+ Northdata HRA 1669 + companyhouse.de（1995-12-06 登记；资本 €1,000,000；制造业；最近变更 2026-09-02）+ wer-zu-wem（50–99 人；营收 €10–50M）+ Elektroniknet 2006（euromicron AG 收购 80%；创始人 Dr. Hocine Bezzaoui 1993 创立）+ Wikipedia euromicron（2020-06 破产清算 → Microsens 已脱离），2026-10-28 查；https://www.microsens.com/footer/imprint）：**
+
+- 法定名 / 登记号：MICROSENS GmbH & Co. KG（microsens.com；Hamm）— 光纤 / 工业交换机制造商 = 同行 · Amtsgericht Hamm HRA 1669（Komplementärin HRB 1981） · 状态 **Active** · 成立 1993（创立）/ 1995-12-06（KG 登记） · GmbH & Co. KG（原 euromicron 集团 80%，euromicron 2020 破产后独立 / 易主）
+- 行业码 / 经营范围：26 光纤传输 / 工业以太网 / 楼宇微型交换机制造（自研自产，Hamm）
+- 注册地址：Küferstr. 16, 59067 Hamm
+- 规模档：中型（50–99 人；€10–50M）
+- 账目：—（KG 未公开）；—
+- 高管：Frank Konrad — Geschäftsführer
+- 高管：Dirk Korn — Geschäftsführer
+- 高管：Anke de Vries / Nailia Faut — 研究档 KP（microsens.de；市场 / 销售口）
+- 控制人 / 股东：未取（euromicron 破产后股东变更未公开）
+- **这意味着什么：**
+  - **德国本土光纤 / 工业交换机制造商 = 同行** → 守界：不发价格表、不加厚、B 不动
+  - 研究档 KP 两位是市场 / 销售口 → 即便有 ODM 需求也不是她们
+  - 记档价值：euromicron 2020 破产后的 Microsens 现股东未公开 → 若日后出现「外采商用 PoE 补线」信号再看
+- 备注：不再查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,18 +145,19 @@ updated: 2026-10-27
 - **【用户表】自己的 logo 白色外壳；工业 FS 10G MC；可以着重跟一下**
   > 兴趣：自己的logo 白色外壳 工业FS 10G MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Anke de Vries（）adevries@microsens.de 〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Nailia Faut（）nfaut@microsens.de 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Anke de Vries（市场 / 销售口（研究档）；**同行 → 不发**（第 95 批 官方登记核实 2026-10-28））adevries@microsens.de 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Nailia Faut（市场 / 销售口（研究档）；**同行 → 不发**（第 95 批 官方登记核实 2026-10-28））nfaut@microsens.de 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | MICROSENS GmbH & Co. KG |
-| 成立 | 1993 |
-| 总部/地址 | Hamm, Germany |
-| 其他 | 白色外壳自有设计 |
+| 法定名称 | MICROSENS GmbH & Co. KG（Amtsgericht Hamm HRA 1669；Komplementärin MICROSENS Beteiligungs GmbH HRB 1981；GF Frank Konrad + Dirk Korn） |
+| 成立 | 1993（创立）/ 1995-12-06（KG）（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Küferstr. 16, 59067 Hamm |
+| 人数 | 50–99 人；€10–50M |
+| 其他 | 白色外壳自有设计；第 95 批：德国本土光纤 / 工业交换机制造商（原 euromicron 80%，euromicron 2020 破产后独立）= 同行 → 守界不发、B 不动（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤交换机 / 智能楼宇 / 工业交换机（自有品牌）
 - **触达通道（公开）**：role: 德国品牌商（OEM 采购）；region: 德国
@@ -243,8 +261,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Anke de Vries | — | adevries@microsens.de | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Nailia Faut | — | nfaut@microsens.de | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Anke de Vries | 市场 / 销售口（研究档）；**同行 → 不发**（第 95 批 官方登记核实 2026-10-28） | adevries@microsens.de | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Nailia Faut | 市场 / 销售口（研究档）；**同行 → 不发**（第 95 批 官方登记核实 2026-10-28） | nfaut@microsens.de | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mrs. Anke de Vries | — | adevries@microsens.de / nfaut@microsens.de | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 14 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -339,12 +357,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

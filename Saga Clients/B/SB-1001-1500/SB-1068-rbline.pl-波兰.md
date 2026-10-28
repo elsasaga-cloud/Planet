@@ -89,6 +89,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 95 批（PL · 1 次检索：rbline.pl 首页 / kontakt（RBLINE Bartosz Ryszka；ul. Kępska 12, 45-130 Opole；NIP 7542138394；REGON 160340714；2010 年起；「Roline 品牌波兰独家代表」；近 2,000 SKU、95% 现货、10,000 托盘位自述）+ GoWork（个体户；2010-08-01 开业；关联 Rb-Com s.c. Roman Ryszka Bartosz Ryszka）+ zbrojenia.rbline.pl（国防工业 B2B 专页）+ baza-firm（Roline = 瑞士 ROTRONIC AG 品牌），2026-10-28 查；https://rbline.pl/kontakt）：**
+
+- 法定名 / 登记号：RBLINE Bartosz Ryszka（rbline.pl；Opole）— Roline（Rotronic / Secomp）波兰独家代表，CEIDG 个体户 · NIP 7542138394 / REGON 160340714（CEIDG） · 状态 **Active** · 成立 2010-08-01 · Jednoosobowa działalność gospodarcza（个体户；关联 Rb-Com s.c. 父子合伙）
+- 行业码 / 经营范围：4651 网络组件 / UPS / IP 摄像机批发（Roline 独家 + 多品牌）
+- 注册地址：ul. Kępska 12, 45-130 Opole
+- 规模档：小型（自述 10,000 托盘位仓；人数未取）
+- 账目：—（个体户）；—
+- 高管：Bartosz Ryszka — 业主
+- 高管：Roman Ryszka — Rb-Com s.c. 合伙人（父）
+- 控制人 / 股东：Bartosz Ryszka 100%
+- **这意味着什么：**
+  - **Roline（瑞士 Secomp / Rotronic 体系）波兰独家代表 → 其交换机货架已被 Roline 工业 / 商用交换机占住**；分销 20% 只能补 Roline 没有的型号（2.5G / 10G 上联 PoE、L3）
+  - 有国防工业 B2B 专页 → 守界提示：军工项目 PASS，只谈商用 / 工业通用
+  - 业主直联（biuro@ 公域）；一页纸即止，不加厚
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,15 +130,18 @@ updated: 2026-10-28
 - **【用户表】工商 Switch；质量一般**
   > 兴趣：工商Switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（办公室）（）biuro@rbline.pl +48 77 555 91 30〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Bartosz Ryszka（业主（CEIDG 2010-08-01；NIP 7542138394；Roline 波兰独家代表）= 拍板人（公域 biuro@）（第 95 批 官方登记核实 2026-10-28））biuro@rbline.pl +48 77 555 91 30〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | RB Line（待核） |
-| 总部/地址 | Opole 区, Poland（+48 77） |
+| 法定名称 | RBLINE Bartosz Ryszka（CEIDG；NIP 7542138394；REGON 160340714；关联 Rb-Com s.c. Roman Ryszka Bartosz Ryszka） |
+| 成立 | 2010-08-01（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Kępska 12, 45-130 Opole |
+| 人数 | 小型（自述 10,000 托盘位仓） |
+| 其他 | 第 95 批：Roline（瑞士 Secomp / Rotronic）波兰独家代表 → 交换机货架被 Roline 占住，分销 20% 只补其空白型号；有国防工业 B2B 专页 → 军工 PASS（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络组件 / UPS / CCTV 网店
 - **触达通道（公开）**：role: 网店 / 分销商；region: 波兰
@@ -194,7 +212,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | biuro@rbline.pl | 用户表原值 | Clients/ 表 |
+| Bartosz Ryszka | 业主（CEIDG 2010-08-01；NIP 7542138394；Roline 波兰独家代表）= 拍板人（公域 biuro@）（第 95 批 官方登记核实 2026-10-28） | biuro@rbline.pl / +48 77 555 91 30 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -262,7 +280,7 @@ updated: 2026-10-28
 **主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Bartosz,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the switch category on rbline.pl, Marvell L2+ 24-GE + 4×10G at $127 and 24-PoE at $135 EXW with EU CE/RoHS files and photos for listings; who handles new-brand onboarding?
 

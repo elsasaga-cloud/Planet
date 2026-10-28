@@ -79,20 +79,23 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
-**公司底数 · 第 94 批（PL · 1 次检索：bizraport（VOLTA SP. Z O.O.；KRS 0000023698；NIP 5211367444；REGON 010829096；登记 2001-06-28；资本 1,020,000 PLN；营收 2025 90.85 mln zł / 2024 83.30 / 2023 83.19；资产 30.4 mln）+ ivolta.pl/contact（ul. Jutrzenki 94, 02-230 Warszawa；BDO 000051577）+ en.ivolta.pl（25 年；Satel / Hikvision / Dahua 授权分销；70+ 人；华沙总部 + 10 分部）+ LinkedIn（51–200 人；1986 起），2026-10-28 查；https://www.bizraport.pl/krs/0000023698/volta-spolka-z-ograniczona-odpowiedzialnoscia）：**
+**公司底数 · 第 95 批（PL · rejestr.io 直页 KRS 0000023698（VOLTA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ；NIP 5211367444；REGON 010829096；Jutrzenki 94, 02-230 Warszawa；2001-06-28 登记；资本 1 mln zł；**Prezes Konrad Ryszard Koperski（2008-07 起）**，Członek Anetta Maria Wójcik（2017-03）/ Dariusz Szewczyk（2019-07）；股东 Janusz Tadeusz Olesiewicz 50% + Konrad Olesiewicz 50%（父子；监事会 Konrad / Anna Olesiewicz + Piotr Stefańczyk）；2025 财报：营收 90.8 mln zł、成本 91.1 mln、**净亏 266.6 tys. zł**、资产 30.4 mln；年报要点：乌克兰战争 + 建筑业低迷拖累；2025 行动 = 成本 / 流程优化、组织调整、**「发展与国内外供应商的合作」**、开拓新市场；公共补助 2020 2.9 mln zł；最近登记 2026-07-09），2026-10-28 查；https://rejestr.io/krs/23698/volta）：**
 
-- 法定名 / 登记号：VOLTA Sp. z o.o.（ivolta.pl / volta.com.pl；Warszawa）— Satel / Hikvision / Dahua 授权分销 · KRS 0000023698 / NIP 5211367444 / REGON 010829096 · 状态 **AKTYWNA** · 成立 2001-06-28（KRS；业务 1986 起） · Spółka z o.o.（资本 1,020,000 PLN）
-- 行业码 / 经营范围：电子安防系统批发（CCTV / 报警 / 门禁 / 消防；PKD 46.xx）
-- 注册地址：ul. Jutrzenki 94, 02-230 Warszawa
-- 规模档：中型（70+ 人；≈€21M 营收）
-- 账目：营收 90.85 mln zł（2025）；83.30（2024）；83.19（2023）；资产 30.4 mln zł；—
-- 高管：（zarząd 未取 — 片段无人名）
-- 控制人 / 股东：未取
+- 法定名 / 登记号：VOLTA Sp. z o.o.（ivolta.pl；Warszawa）— 补项：zarząd + 2025 年报要点 · KRS 0000023698 / NIP 5211367444 / REGON 010829096 · 状态 **Active（VAT czynny）** · 成立 2001-06-28 · Sp. z o.o.（资本 1 mln zł；Olesiewicz 父子各 50%；设监事会）
+- 行业码 / 经营范围：46 批发（安防 / 网络 / 自动化分销：Hikvision / Dahua / Satel 授权）+ 62 软件
+- 注册地址：Jutrzenki 94, 02-230 Warszawa
+- 规模档：中型（≈€21M；70+ 人）
+- 账目：2025：营收 90.8 mln zł、净亏 0.27 mln zł（2024 90.85 mln）；已递交 2025 年报（经审计）
+- 高管：Konrad Ryszard Koperski — Prezes Zarządu（2008-07 起，职业经理人）
+- 高管：Anetta Maria Wójcik — Członek Zarządu（2017-03）
+- 高管：Dariusz Szewczyk — Członek Zarządu（2019-07）
+- 高管：Janusz / Konrad Olesiewicz — 股东各 50%（Konrad 兼监事会）
+- 控制人 / 股东：Olesiewicz 父子 50/50
 - **这意味着什么：**
-  - **波兰安防分销 Top 级（€21M、10 分部、Hikvision / Dahua / Satel 授权）= B BIG** → 分销 20% 线，走品牌 SmartByte 上架，不谈贴标
-  - 研究档「PoE 很多摄像头、很多牌子、有 Utepo」→ 已有 PoE 供应（Utepo 等）→ 开场只谈「第二供应 + 现货期」，一个问题：现用 PoE 交期？
-  - zarząd 未取 → 写采购 / 产品经理公域邮箱；年度复核营收
-- 备注：zarząd 未取（省 1 次 rejestr.io）。
+  - **2025 年报白纸黑字：营收持平、小亏、正在「发展与国内外供应商的合作」+ 开拓新市场** = 分销商在找新货源 / 新毛利 → **分销 20% 值得一封正式信**（写采购 / 产品经理公域，开场点「2025 年报提到拓展供应商」不可写 —— 守规：不向客户引用财报）→ 改为点「Hikvision / Dahua 配套 PoE 的毛利空间」
+  - Prezes Koperski 是 2008 年起的职业经理人，股东 Olesiewicz 父子不管日常 → 收件人 = 采购口，不写股东
+  - 小亏不是风险（资产 3,040 万、经审计）；先款后货即可；发信窗口 Thu 12–14 CET
+- 备注：第 94 批 bizraport + 本批 rejestr.io 直页合并。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -127,17 +130,18 @@ updated: 2026-10-28
 - **【用户表】PoE 交换机；有 Utepo 的**
   > PoE交换机  很多摄像头 很多牌子的产品 有utepo的；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Konrad Ryszard Koperski（Prezes Zarządu（rejestr.io KRS 0000023698；2008-07-21 起，职业经理人；股东 Olesiewicz 父子各 50% 不管日常）= 拍板层（邮箱未公开；收件人仍用采购 / 产品公域）（第 95 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/23698/volta〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | VOLTA Sp. z o.o.（ivolta.pl 为其网店品牌；KRS 0000023698 · NIP 5211367444 · REGON 010829096；资本 1,020,000 PLN；BDO 000051577） |
-| 成立 | 2001-06-28（KRS；业务 1986 起）（第 94 批 官方登记核实 2026-10-28） |
-| 总部/地址 | ul. Jutrzenki 94, 02-230 Warszawa |
-| 人数 | 70+ 人、华沙总部 + 10 分部；营收 2025 90.85 mln zł（2024 83.30 / 2023 83.19）；资产 30.4 mln |
-| 其他 | 官网 ivolta.pl，语言 pl，快照状态 ok；角色判定来源：用户表；第 94 批：Satel / Hikvision / Dahua 授权分销 = 波兰安防分销 Top 级 → B BIG，分销 20% 上架 SmartByte，不谈贴标；已有 PoE 供应（Utepo 等）→ 只谈第二供应 + 现货期；zarząd 未取（第 94 批 官方登记核实 2026-10-28） |
+| 法定名称 | VOLTA Sp. z o.o.（KRS 0000023698；NIP 5211367444；REGON 010829096；资本 1 mln zł；Janusz + Konrad Olesiewicz 各 50%） |
+| 成立 | 2001-06-28（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Jutrzenki 94, 02-230 Warszawa |
+| 人数 | 70+ 人；2025 营收 90.8 mln zł、净亏 0.27 mln zł（经审计） |
+| 其他 | 官网 ivolta.pl，语言 pl，快照状态 ok；角色判定来源：用户表；第 94 批：Satel / Hikvision / Dahua 授权分销 = 波兰安防分销 Top 级 → B BIG，分销 20% 上架 SmartByte，不谈贴标；已有 PoE 供应（Utepo 等）→ 只谈第二供应 + 现货期；zarząd 未取（第 94 批 官方登记核实 2026-10-28）；第 95 批：2025 年报 = 营收持平、小亏、正在「发展与国内外供应商的合作」+ 开拓新市场 → 分销 20% 值得一封正式信（写采购口；信中不得引用年报，改谈 Hikvision / Dahua 配套 PoE 毛利）（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：报警 / CCTV 网店
 - **触达通道（公开）**：role: 安防网店（波兰，Utepo 在售）；region: 波兰；contact: kontakt@ivolta.pl
@@ -200,7 +204,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | kontakt@ivolta.pl | 用户表原值 | Clients/ 表 |
+| Konrad Ryszard Koperski | Prezes Zarządu（rejestr.io KRS 0000023698；2008-07-21 起，职业经理人；股东 Olesiewicz 父子各 50% 不管日常）= 拍板层（邮箱未公开；收件人仍用采购 / 产品公域）（第 95 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejestr.io/krs/23698/volta |
 
 - **通道建议**：企业邮箱可直发
 

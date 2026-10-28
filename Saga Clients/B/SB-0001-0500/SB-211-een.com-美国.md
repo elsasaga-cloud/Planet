@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -107,6 +107,22 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 95 批（US · 1 次检索：Wikipedia（2012 年 Dean Drako（Barracuda 创始人）创立；Austin；487 人（2023）；2023 年 SECOM 投资 $100M；**2025-12 与 Brivo 合并，合并后以 Brivo 名义运营，Drako 任 CEO**）+ Owler（Private Subsidiary of Brivo Systems, LLC）+ BusinessWire 2022-07（2012-07 注册；2,500+ 渠道伙伴；12 个数据中心；Amsterdam / Tokyo / Bangalore 办事处）+ ZoomInfo 2026-04（合并后高管变动：Steven Till 任 President），2026-10-28 查；https://en.wikipedia.org/wiki/Eagle_Eye_Networks）：**
+
+- 法定名 / 登记号：Eagle Eye Networks, Inc.（een.com；Austin TX）— 2025-12 与 Brivo 合并 · TX / DE 登记号未取 · 状态 **Active（合并入 Brivo 2025-12）** · 成立 2012-07 · Inc.（Delaware 推定）；现为 Brivo 集团一部分
+- 行业码 / 经营范围：云视频监控 VMS / 视频 API（SaaS；自有云桥接盒 + 配套交换机）
+- 注册地址：Austin, TX（总部；具体门牌未取）
+- 规模档：大型（≈500 人；SECOM / 私募股东）
+- 账目：—（私有）；—
+- 高管：Dean Drako — Founder / CEO（合并后 Brivo CEO；多数股东）
+- 高管：Steven Till — President（合并后，原 Brivo 创始人）
+- 控制人 / 股东：Dean Drako（多数）+ SECOM（2023 投资）
+- **这意味着什么：**
+  - **云管理视频监控平台 = 守界（Saga 不做云管理）+ 2025-12 并入 Brivo 大集团** → B 不动、不发
+  - 研究档 KP 邮箱 alludolearning.com 与 een.com 无关 = **误归属**（Jaime Becker / Steve Roskowski 不属该公司）→ 标注不发
+  - 若日后要碰，只有其云桥接盒配套的 PoE 交换机 ODM 一条线，需工厂级资质 → 不是 Saga 的菜
+- 备注：KP 误归属已标；不再查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -150,16 +166,19 @@ updated: 2026-10-27
 - **【用户表】自己的 logo 商业 FS；CCTV 周边**
   > 自己的logo 商业FS CCTV 一些周边产品；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jaime Becker（）jaime@alludolearning.com 〔用户表〕
-- **KP**：Steve Roskowski（） 〔用户表〕
+- **KP**：Jaime Becker（**误归属**：alludolearning.com 与 Eagle Eye Networks 无关 → 不发（第 95 批 官方登记核实 2026-10-28））jaime@alludolearning.com 〔用户表〕
+- **KP**：Steve Roskowski（来源不明（研究档；与 een.com 无公开关联）→ 不发（第 95 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 een.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Eagle Eye Networks, Inc.（Austin TX；2025-12 与 Brivo 合并，合并后以 Brivo 名义运营；登记号未取） |
+| 成立 | 2012-07（Dean Drako）（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Austin, TX |
+| 人数 | ≈500 人（2023 487） |
+| 其他 | 官网 een.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 95 批：云视频监控平台 = 守界（云管理）+ 2025-12 并入 Brivo 大集团 → B 不动、不发；KP 误归属已标（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：云视频监控 VMS（自有品牌）；配套 PoE 交换机（贴标周边）
 
@@ -270,8 +289,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jaime Becker | — | jaime@alludolearning.com | 调研核实（公开页） | 用户表 |
-| Steve Roskowski | — | — | 调研核实（公开页） | 用户表 |
+| Jaime Becker | **误归属**：alludolearning.com 与 Eagle Eye Networks 无关 → 不发（第 95 批 官方登记核实 2026-10-28） | jaime@alludolearning.com | 调研核实（公开页） | 用户表 |
+| Steve Roskowski | 来源不明（研究档；与 een.com 无公开关联）→ 不发（第 95 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -364,12 +383,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

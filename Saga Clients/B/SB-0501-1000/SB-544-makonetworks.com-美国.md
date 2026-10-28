@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -111,6 +111,25 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 95 批（US · 1 次检索：makonetworks.com/about（2000 年 Chris Massam + Simon Gamble 创立；PCI DSS / SD-WAN / 云管理；美国总部 + 英 / 澳 / 新西兰）+ LinkedIn（Elgin IL；51–200 人；Founded 2000）+ Crunchbase（CEO Jason Kubasak；President Simon Gamble；CTO Chris Massam；CFO Mike Bryniarski）+ RocketReach（1355 North McLean Blvd, Elgin IL 60123；77 人；$18.5M 第三方估）+ theorg（Director of Procurement Andrzej Krupa；SVP Sales Todd Vojta = 研究档 KP）+ docs.makonetworks.com（原新西兰 YellowTuna Networks），2026-10-28 查；https://makonetworks.com/about/）：**
+
+- 法定名 / 登记号：Mako Networks, Inc.（makonetworks.com；Elgin IL）— 云管理 PCI 网络设备商（2000 年奥克兰创立） · IL / NZ 登记号未取 · 状态 **Active** · 成立 2000（新西兰 YellowTuna Networks）；美国总部 Elgin IL · Inc.（美国）+ Mako Networks NZ Limited
+- 行业码 / 经营范围：云管理网络设备（Mako 系列防火墙 / 交换机 / LTE 失效切换）+ PCI DSS 合规管理服务（零售 / 加油站）
+- 注册地址：1355 North McLean Blvd, Elgin, IL 60123
+- 规模档：中型（75–77 人；$18.5M 第三方估）
+- 账目：—（私有）；—
+- 高管：Jason Kubasak — CEO
+- 高管：Simon Gamble — President / Co-founder
+- 高管：Chris Massam — CTO / Co-founder
+- 高管：Andrzej Krupa — Director of Procurement（采购口）
+- 高管：Todd Vojta — SVP Sales（研究档 KP = 销售，不管采购）
+- 控制人 / 股东：创始人 + 投资人（未取）
+- **这意味着什么：**
+  - **云管理网络 = 守界**（其交换机走自家云平台，需 ODM 固件配合）→ 不发价格表、B 不动
+  - 研究档 KP Todd Vojta 是 SVP Sales（卖方），采购口是 Director of Procurement Andrzej Krupa → 若日后碰，只写采购，且只有 ODM 工厂级才有戏 = 不是 Saga 的菜
+  - 记档价值：知道它是「同行里的平台商」，别再群发
+- 备注：不再查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -143,15 +162,19 @@ updated: 2026-10-27
 - **【用户表】管理 FS 大口，自己的 logo**
   > 管理FS(大口的) 他们自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Todd Vojta（）toddv@makonetworks.com 〔用户表〕
+- **KP**：Todd Vojta（Senior Vice President of Sales（theorg / Datanyze）= 卖方，不管采购（第 95 批 官方登记核实 2026-10-28））toddv@makonetworks.com 〔用户表〕
+- **KP**：Andrzej Krupa（Director of Procurement（theorg）= 采购口（仅记档；守界不发）（第 95 批 官方登记核实 2026-10-28）） 〔https://theorg.com/org/mako-networks〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 makonetworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Mako Networks, Inc.（美国 Elgin IL）+ Mako Networks NZ Limited（2000 年奥克兰 YellowTuna Networks 起家） |
+| 成立 | 2000（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1355 North McLean Blvd, Elgin, IL 60123 |
+| 人数 | 75–77 人；$18.5M 级（第三方） |
+| 其他 | 官网 makonetworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 95 批：云管理 PCI 网络设备商 = 守界（其交换机绑自家云平台、需 ODM 固件）→ 不发价格表、B 不动（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：SD-WAN / PCI DSS 安全网关 / 云管理；自有标管理型交换机
 - **触达通道（公开）**：role: SD-WAN/云管理方案商（自有标管理交换机线，OEM 采购）；region: 美国；contact: toddv@makonetworks.com、sales@makonetworks.com
@@ -262,7 +285,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Todd Vojta | — | toddv@makonetworks.com | 调研核实（公开页） | 用户表 |
+| Todd Vojta | Senior Vice President of Sales（theorg / Datanyze）= 卖方，不管采购（第 95 批 官方登记核实 2026-10-28） | toddv@makonetworks.com | 调研核实（公开页） | 用户表 |
+| Andrzej Krupa | Director of Procurement（theorg）= 采购口（仅记档；守界不发）（第 95 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://theorg.com/org/mako-networks |
 
 - **通道建议**：邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -354,12 +378,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

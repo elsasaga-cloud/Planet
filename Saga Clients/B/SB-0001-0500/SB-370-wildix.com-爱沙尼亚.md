@@ -1,6 +1,6 @@
 # wildix.com
 
-> **评级 B**　|　英国　|　档案编号 `SB-370`　|　优先级 ★★　|　状态：已推送 10 次·未回复
+> **评级 B**　|　爱沙尼亚　|　档案编号 `SB-370`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
 > **类型**：UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大）（推断）　|　**历史关系**：推送 10 次（2025-02-21 → 2025-11-05）　|　**所在清单**：A优质名单(UK)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-370
 rating: B
 rating_auto: B
 score: 44
-country: 英国
+country: 爱沙尼亚
+country_table: 英国  # 表内原填；调研纠正为 爱沙尼亚（research JSON country_fix）
 region: 欧洲
 website: wildix.com
 type: UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大）
@@ -75,16 +76,32 @@ updated: 2026-10-28
 
 - `wildix.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（英国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（爱沙尼亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 窗口内无该国法定假日
+
+**公司底数 · 第 95 批（EE/IT · 1 次检索：wildix.com/about（2005 年 Steve + Dimitri Osler 兄弟创立；Laeva tn. 2, 10111 Tallinn；VAT EE 101984698；100% 渠道）+ wildix.com/it/contatti（Wildix S.r.l. 运营地 Loc. le Basse 3, 38123 Trento）+ LinkedIn（HQ Tallinn；201–500 人；办事处 Trento / Paris / Coventry）+ dealroom（2023 年首轮外部融资 Livonia Partners 私募；2018 起持续盈利）+ Cavell 2025-11（360 人；ARR +36%）+ Wildix 2025-03 新闻稿（Dimitri Osler 任 CIO），2026-10-28 查；https://www.wildix.com/about-wildix/）：**
+
+- 法定名 / 登记号：Wildix（wildix.com）— 总部 Tallinn（Wildix OÜ，VAT EE101984698）/ 运营 Trento（Wildix S.r.l.）；英国 Coventry 办事处 · 爱沙尼亚商业登记号未取（VAT EE101984698）；意大利 Wildix S.r.l.（P.IVA 未取） · 状态 **Active** · 成立 2005（Trento） · OÜ（爱沙尼亚）+ S.r.l.（意大利）+ 多国子公司；私募 Livonia Partners 参股（2023）
+- 行业码 / 经营范围：UCaaS / VoIP 平台 + 自有品牌话机 / 网关 / PoE 交换机（W-PoE 系列，代工）
+- 注册地址：Laeva tn. 2, 10111 Tallinn, Estonia（运营：Loc. le Basse 3, 38123 Trento, Italy）
+- 规模档：中型（360 人；百万级用户）
+- 账目：—；—
+- 高管：Steve Osler — CEO / Co-founder
+- 高管：Dimitri Osler — CIO / Co-founder（技术 / 产品）
+- 控制人 / 股东：Osler 兄弟 + Livonia Partners
+- **这意味着什么：**
+  - **国别更正：英国 → 爱沙尼亚（总部）**；英国只是办事处；产品 / 采购在 Trento
+  - 自有品牌 PoE 交换机是话机配套（代工）→ 理论 OEM 30%，但 360 人集团 + 私募 → 只认工厂级 ODM → **B BIG，一页纸给 Trento 产品部即止**，不加厚
+  - 没有 KP → 若发只写 Trento 公域；发信窗口 Thu 12–14 CET
+- 备注：country_fix 爱沙尼亚；登记号未取（爱沙尼亚 e-Business Register 付费 / 需名）。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | wildix.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 英国 | 事实（用户表）|
+| 国家 | 爱沙尼亚 | 事实（用户表）|
 | 网站/域名 | wildix.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大） | 推断（据兴趣/备注关键词） |
 | 联系人 | 很大的一个公司 / 可以尝试多跟进一下 | 事实（用户表） |
@@ -118,8 +135,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 wildix.com，语言 en-GB，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Wildix（总部 Tallinn：VAT EE101984698；运营 Wildix S.r.l., Trento；登记号未取） |
+| 成立 | 2005（Trento；Steve + Dimitri Osler）（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Laeva tn. 2, 10111 Tallinn, Estonia（运营 Loc. le Basse 3, 38123 Trento） |
+| 人数 | 360 人（2025） |
+| 其他 | 官网 wildix.com，语言 en-GB，快照状态 ok；角色判定来源：用户表；第 95 批：国别更正英国 → 爱沙尼亚（英国 Coventry 仅办事处）；UCaaS 平台 + 自有品牌 PoE 交换机（代工）→ B BIG，只认工厂级 ODM，一页纸给 Trento 产品部即止（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：云 VoIP / UCaaS（自有品牌 Wildix）；配套 PoE 交换机（贴标周边）
 - **触达通道（公开）**：role: UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大）；region: 英国；contact: sales@wildix.com

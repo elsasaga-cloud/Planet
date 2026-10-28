@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -79,6 +79,18 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 95 批（TR · 1 次检索「Düzgün Toptan Ticaret teksarf.com」→ 结果全是无关 toptan 安防批发站（ZTech / Toptan Sarf / NR Güvenlik 等）→ 未命中即停，2026-10-28 查；）：**
+
+- 法定名 / 登记号：Düzgün Toptan Ticaret（teksarf.com；gmail 名片户）— 1 次检索未命中 · 未取 · 状态 **未取** · 成立 未取 · 未取（疑个体 / 家族批发）
+- 行业码 / 经营范围：安防耗材批发（研究档）
+- 注册地址：未取
+- 规模档：未取
+- 账目：—；—
+- 高管：Düzgün 家族业主（姓名待核）
+- **这意味着什么：**
+  - gmail 名片户、1 次未命中 → 标「底数不可查（名片户）」，不再查；B 不动
+- 备注：side leads：ZTech / Starlink Güvenlik（土耳其本土品牌，进口方 Zerginar Dış Ticaret）、Toptan Sarf（Bahçelievler）、Securitech A.Ş.（2018，Muammer Korkmaz）—— 不在库，仅记。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,7 +122,7 @@ updated: 2026-10-27
 |---|---|
 | 法定名称 | Düzgün Toptan Ticaret（待核） |
 | 总部/地址 | Türkiye（待核） |
-| 其他 | Gmail 联系；WhatsApp 已加；第 91 批检索未命中（teksarf.com / Düzgün Toptan：1 次检索仅泛化「toptan kamera」结果）→ 不写回登记；Gmail 个体户，WhatsApp 线（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | Gmail 联系；WhatsApp 已加；第 91 批检索未命中（teksarf.com / Düzgün Toptan：1 次检索仅泛化「toptan kamera」结果）→ 不写回登记；Gmail 个体户，WhatsApp 线（第 91 批 官方登记核实 2026-10-27）；第 95 批：底数 1 次检索未命中（gmail 名片户；结果全是无关 toptan 安防站）→ 标「底数不可查（名片户）」，不再查（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT/安防耗材批发（推测）
 - **触达通道（公开）**：邮箱: duzgun.toptan.ticaret@gmail.com（用户表）；WhatsApp: Ady 已加
@@ -246,12 +258,12 @@ Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

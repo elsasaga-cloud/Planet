@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 95 批（US · 1 次检索：BBB Houston（Nexlar Security, LLC；Business Started 2006-04-20；Incorporated 2007-10-08；LLC；Mr. Rodrigo Lima, Manager；A+）+ nexlar.com 新闻稿 2025-01（创始人 Rodrigo Lima，rod@nexlar.com 公开）+ nexlar.com 博客 2026-08（2825 Wilcrest Dr, Houston；德州执照 #B14634；1,000+ 商业客户）+ LinkedIn（11–50 人；Founded 2007）+ RocketReach（13 人）+ D&B（Key Principal Rod Lima），2026-10-28 查；https://www.bbb.org/us/tx/houston/profile/security-systems-consultants/nexlar-security-llc-0915-90015595）：**
+
+- 法定名 / 登记号：Nexlar Security, LLC（nexlar.com；Houston TX） · TX 登记号未取（TX SoS 付费；BBB 记 2007-10-08 成立） · 状态 **Active（BBB A+；官网 2026-08 更新）** · 成立 2006-04-20（开业）/ 2007-10-08（LLC） · Limited Liability Company（德州）
+- 行业码 / 经营范围：商用安防集成（监控 / 门禁 / 可视对讲 / 自动门 / 虚拟保安）
+- 注册地址：2825 Wilcrest Dr, Suite 170, Houston, TX 77042
+- 规模档：小型（13–49 人；<$5M 第三方估）
+- 账目：—；—
+- 高管：Rodrigo (Rod) Lima — Founder / Manager（老板；rod@nexlar.com 新闻稿公开）
+- 控制人 / 股东：Rodrigo Lima（推定）
+- **这意味着什么：**
+  - 休斯顿安防集成商、老板 Rod Lima 邮箱公开 → **小项目集成商 25%**：商用 PoE（STC-028GP / STC-2224GP）配监控项目，直接写老板
+  - 研究档「自有 logo」= 项目贴牌（Alfred360 等自有产品名）→ 可提中性包装；量按项目走，不加厚
+  - 德州执照 B14634 = 正规持牌集成商；发信窗口 Wed 08–10 CT
+- 备注：TX SoS 付费未查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,14 +128,18 @@ updated: 2026-10-28
 - **【用户表】很多牌子 有自己的 logo**
   > 很多牌子的 有自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Rodrigo (Rod) Lima（Founder / Manager（BBB 登记管理人；2006 创业、2007 LLC）= 老板 = 收件人（rod@nexlar.com 新闻稿公开）（第 95 批 官方登记核实 2026-10-28））rod@nexlar.com 〔https://www.nexlar.com/press-release/virtual-security-guard-services/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 nexlar.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Nexlar Security, LLC（德州；TX 登记号未取；BBB 记 2007-10-08 成立；德州执照 B14634） |
+| 成立 | 2006-04-20（开业）/ 2007-10-08（LLC）（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 2825 Wilcrest Dr, Suite 170, Houston, TX 77042 |
+| 人数 | 13–49 人；<$5M |
+| 其他 | 官网 nexlar.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 95 批：休斯顿持牌安防集成商、老板邮箱公开 → 小项目集成商 25%，商用 PoE 配监控项目，直接写老板（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：商用安防 / 门禁 / 摄像机安装（休斯顿）
 - **触达通道（公开）**：role: 商用安防集成商（美国休斯顿）；region: 美国；contact: info@nexlar.com
@@ -180,7 +199,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@nexlar.com | 用户表原值 | Clients/ 表 |
+| Rodrigo (Rod) Lima | Founder / Manager（BBB 登记管理人；2006 创业、2007 LLC）= 老板 = 收件人（rod@nexlar.com 新闻稿公开）（第 95 批 官方登记核实 2026-10-28） | rod@nexlar.com | 调研核实（公开页） | https://www.nexlar.com/press-release/virtual-security-guard-services/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -215,7 +234,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -232,7 +251,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

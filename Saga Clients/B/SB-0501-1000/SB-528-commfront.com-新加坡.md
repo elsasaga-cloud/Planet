@@ -1,6 +1,6 @@
 # commfront.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-528`　|　优先级 ★★　|　状态：已推送 10 次·未回复
+> **评级 B**　|　新加坡　|　档案编号 `SB-528`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
 > **类型**：工业通信配件自有品牌网店（美国，高标价）（推断）　|　**历史关系**：推送 10 次（2025-02-22 → 2025-10-23）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,8 +9,9 @@ code: SB-528
 rating: B
 rating_auto: B
 score: 38
-country: 美国
-region: 北美
+country: 新加坡
+country_table: 美国  # 表内原填；调研纠正为 新加坡（research JSON country_fix）
+region: 亚太
 website: commfront.com
 type: 工业通信配件自有品牌网店（美国，高标价）
 tier_tags: ["A优质名单(US)", "AI评估(US)"]
@@ -25,7 +26,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,18 +78,33 @@ updated: 2026-10-27
 
 - `commfront.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（新加坡 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
+- 法定假日：01-01 New Year's Day；02-06 Chinese New Year；02-07 Chinese New Year；02-08 Chinese New Year (observed)；03-10 Eid al-Fitr；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数 · 第 95 批（SG · 1 次检索：ACRA 镜像 sgpbusiness / recordowl / sgpgrid（COMMFRONT COMMUNICATIONS PTE. LTD.；UEN 201131527M；2011-10-22 注册；Exempt Private Company；实缴 S$50,100；1 Yishun Industrial Street 1 #05-31 A'Posh BizHub, Singapore 768160；主业 72102 电子研发；6 名高管 / 2 名股东）+ commfront.com/pages/contact-us（美国 3 Bethesda Metro Center Suite 700 Bethesda MD = 商务中心地址；新加坡 Yishun 地址；「since 2005」）+ ZoomInfo / Datanyze（新加坡；16 人；$4.4M 第三方估；2005），2026-10-28 查；https://www.sgpbusiness.com/company/Commfront-Communications-Pte-Ltd）：**
+
+- 法定名 / 登记号：CommFront Communications Pte. Ltd.（commfront.com）— 实为新加坡公司（美国地址为 Bethesda 虚拟办公室） · ACRA UEN 201131527M · 状态 **Live Company** · 成立 2011-10-22（业务自称 2005） · Exempt Private Company Limited by Shares（新加坡）
+- 行业码 / 经营范围：72102 电子研发（自有品牌工业串口 / 光纤 / 以太网转换器 + 工业交换机，Shopify 网店直销）
+- 注册地址：1 Yishun Industrial Street 1, #05-31 A'Posh BizHub, Singapore 768160（美国通讯地址 Bethesda MD 20814）
+- 规模档：小型（16 人；$4M 级第三方估）
+- 账目：—（豁免私人公司）；—
+- 高管：高管 6 人（ACRA 镜像未列名；付费）
+- 控制人 / 股东：2 名股东（未列名）
+- **这意味着什么：**
+  - **国别更正：美国 → 新加坡**（美国地址只是商务中心）；自有品牌工业转换器 / 交换机制造兼网店 = **准同行**（华南代工为主）→ 不发价格表、B 不动
+  - 若要碰只有 OEM 30% 工业 PoE 一条线，但其货源本就在华南 → 低概率，不加厚
+  - 发信窗口若用 = 新加坡时区（与我同区）
+- 备注：country_fix 新加坡；高管名单付费未取。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | commfront.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 新加坡 | 事实（用户表）|
 | 网站/域名 | commfront.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 工业通信配件自有品牌网店（美国，高标价） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 | 事实（用户表） |
@@ -131,8 +147,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 commfront.com，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | COMMFRONT COMMUNICATIONS PTE. LTD.（新加坡 ACRA UEN 201131527M；Exempt Private Company） |
+| 成立 | 2011-10-22（业务自称 2005）（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1 Yishun Industrial Street 1, #05-31 A'Posh BizHub, Singapore 768160（美国 Bethesda MD 地址为商务中心） |
+| 人数 | 16 人；$4M 级（第三方） |
+| 其他 | 官网 commfront.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 95 批：国别更正美国 → 新加坡；自有品牌工业转换器 / 交换机制造兼网店 = 准同行（华南代工）→ 不发价格表、B 不动（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业串口转换 / 隔离器 / Modbus 网关（自有品牌）；工业以太网交换机 / 光纤转换器
 
@@ -273,7 +292,7 @@ updated: 2026-10-27
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：已推送 10 次无回复，邮件通道疲劳
 - **O**：P1 STI-050GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -331,12 +350,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

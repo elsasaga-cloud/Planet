@@ -5388,7 +5388,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1047": {
@@ -6334,7 +6334,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1086": {
@@ -13269,8 +13269,8 @@
   },
   "SB-370": {
    "grade": "B",
-   "iso": "GB",
-   "country": "英国",
+   "iso": "EE",
+   "country": "爱沙尼亚",
    "facts": 3,
    "in": 0,
    "out": 2,
@@ -14298,7 +14298,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 3,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-417": {
@@ -16168,7 +16168,7 @@
    "p1": "STC-424DGGPM-280W",
    "tier": 30,
    "signals": 3,
-   "kp": 0,
+   "kp": 2,
    "summary": true
   },
   "SB-502": {
@@ -16745,8 +16745,8 @@
   },
   "SB-528": {
    "grade": "B",
-   "iso": "US",
-   "country": "美国",
+   "iso": "SG",
+   "country": "新加坡",
    "facts": 4,
    "in": 0,
    "out": 3,
@@ -17114,7 +17114,7 @@
    "p1": "STC-424XGGPM-280W",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-545": {
@@ -18016,7 +18016,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-586": {
@@ -24528,7 +24528,7 @@
    "p1": "STC-28DGGPM",
    "tier": 25,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-882": {

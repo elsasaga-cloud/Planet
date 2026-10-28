@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -90,6 +90,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 95 批（DE · 1 次检索：wieland-electric.com/en/imprint（HRB 105 Amtsgericht Bamberg；GF Dr.-Ing. Börne Rensing + Dr. Christian Wahlers；Brennerstraße 10-14, 96052 Bamberg）+ openregister（Prokura 2025-06 Fabian Reuß；2026-03 Thilo Döring / Eik Stachowicz）+ online-handelsregister（1949-09-27 GmbH 登记；资本 €15,500,000）+ Northdata（LEI 5299001AC5UDXKZ6J390）+ Die Deutsche Wirtschaft（2,200 人；营收 €181.8M 2024）+ craft.co（2024：营收 €181.8M、净亏 €3.5M）+ unternehmen24（净利 2022 +€5.5M → 2023 −€16.1M → 2024 −€3.5M）+ Wikipedia（1910 创立；€223.2M 2022），2026-10-28 查；https://www.wieland-electric.com/en/imprint/）：**
+
+- 法定名 / 登记号：Wieland Electric GmbH（wieland-electric.com；Bamberg）— 工业连接 / 自动化集团，wienet 工业交换机为代工自有品牌 · Amtsgericht Bamberg HRB 105（LEI 5299001AC5UDXKZ6J390） · 状态 **Active** · 成立 1910（创立）/ 1949-09-27（GmbH） · GmbH（股本 €15.5M；Wieland 家族集团）
+- 行业码 / 经营范围：27 工业连接器 / 安全继电器 / 楼宇电气安装系统制造 + wienet 工业交换机 / 路由（代工自有品牌）
+- 注册地址：Brennerstraße 10-14, 96052 Bamberg
+- 规模档：大型（2,200 人集团；€180–220M）
+- 账目：2024 营收 €181.8M、净亏 €3.5M（2023 净亏 €16.1M）；—
+- 高管：Dr.-Ing. Börne Rensing — Geschäftsführer（2021-02 起）
+- 高管：Dr. Christian Wahlers — Geschäftsführer（2021-07 起）
+- 高管：Prokura 多人（2025–2026 新增 3 人）
+- 控制人 / 股东：Wieland 家族
+- **这意味着什么：**
+  - **大型工业集团、wienet 交换机本就外采贴牌** → 理论 OEM 30%，但走集团采购 + 工厂级审核 → **B BIG**，一页纸工业 PoE 给产品管理即止，不加厚
+  - 2023–2024 连亏（−€16.1M / −€3.5M）+ 2025–2026 新增 3 名 Prokurist = 降本换血期 → 「更便宜的工业 PoE 代工」有听众，但 Saga 不是工厂 → 不要包装成制造商（守 Saga.md）
+  - 没有 KP → 若发只写 wienet 产品公域；发信窗口 Thu 12–14 CET
+- 备注：不加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,8 +155,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 wieland-electric.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Wieland Electric GmbH（Amtsgericht Bamberg HRB 105；LEI 5299001AC5UDXKZ6J390；GF Dr.-Ing. Börne Rensing + Dr. Christian Wahlers） |
+| 成立 | 1910（创立）/ 1949-09-27（GmbH）（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Brennerstraße 10-14, 96052 Bamberg |
+| 人数 | 2,200 人（集团）；营收 €181.8M（2024） |
+| 其他 | 官网 wieland-electric.com，语言 en，快照状态 ok；角色判定来源：用户表；第 95 批：工业连接集团，wienet 交换机为代工自有品牌 → 理论 OEM 30% 但集团采购 + 工厂级审核 → B BIG 一页纸即止；2023–24 连亏 + 2025–26 新增 Prokurist = 降本期，但 Saga 不包装成制造商（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气连接技术 / 可插拔安装技术；自有标工业以太网交换机（wienet）
 - **触达通道（公开）**：role: 德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）；region: 德国；contact: info@wieland-electric.com
@@ -338,12 +358,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

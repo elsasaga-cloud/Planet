@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,6 +84,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 95 批（GB · 1 次检索：Companies House 02838846（1993-07-23 注册；3 Omega Centre, Stratton Business Park, Biggleswade SG18 8QB；Active；24 officers / 21 resignations）+ companycheck（现任董事：**Stephen Edwin Clarke 2019-08-09 任，1955-01 生**；Stephen Paul Kummik + Thomas Alexander Exley 2020-02-04 任）+ PSC 页（Edgenet Solutions Limited 11974182 持股 ≥75% + 任免权）+ 2019-08-12 TM01（Allen William Mabbitt 退任）+ Endole（Small；<50 人）+ amgsystems.com 数据表（AMG9HM2P 工业加固 PoE+ 管理型交换机自产），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/02838846）：**
+
+- 法定名 / 登记号：AMG SYSTEMS LIMITED（amgsystems.com；Biggleswade）— 英国工业以太网交换机制造商 = 同行 · Companies House 02838846 · 状态 **Active** · 成立 1993-07-23 · Private limited company（Edgenet Solutions Limited 11974182 控股 ≥75%，2019–2020 换手）
+- 行业码 / 经营范围：工业以太网 / 光纤传输设备设计制造（AMG 系列加固交换机、MC）
+- 注册地址：3 Omega Centre, Stratton Business Park, Biggleswade, Bedfordshire SG18 8QB
+- 规模档：小型（<50 人）
+- 账目：Small（<50 人）；—
+- 高管：Stephen Edwin Clarke — Director（2019-08-09 任；= 研究档 KP steve.clarke@amgsystems.com 本人）
+- 高管：Stephen Paul Kummik — Director（2020-02-04 任）
+- 高管：Thomas Alexander Exley — Director（2020-02-04 任）
+- 控制人 / 股东：Edgenet Solutions Limited（11974182；≥75%）
+- **这意味着什么：**
+  - **自产工业以太网交换机 = 同行** → 守界：不发价格表、不加厚、B 不动
+  - 研究档 KP Steve Clarke 是董事（2019-08 任，2019–2020 Edgenet 接盘后的管理层）→ 记档：若其日后找「商用 PoE 配套外采」才有戏，等他来
+  - 2019-08 / 2020-02 换手完成已 6 年 → 不是进门时机
+- 备注：不再查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,17 +137,18 @@ updated: 2026-10-27
 - **【用户表】MC SFP 工业 FS 自己的牌子；重要光路 10G MC（AMG210M 系列）；可以多跟进一下**
   > 兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Steve Clarke（）steve.clarke@amgsystems.com +44 1767 600 777〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Stephen Edwin Clarke（Director（2019-08-09 任；1955-01 生；Companies House 02838846）= 董事本人；**同行（自产工业交换机）→ 不发**（第 95 批 官方登记核实 2026-10-28））steve.clarke@amgsystems.com +44 1767 600 777〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | AMG Systems Ltd |
-| 成立 | 1986（待核） |
-| 总部/地址 | Biggleswade, Bedfordshire, UK |
-| 其他 | AMG210M 10G MC 系列；美国分销 |
+| 法定名称 | AMG SYSTEMS LIMITED（Companies House 02838846；Edgenet Solutions Limited 11974182 控股 ≥75%） |
+| 成立 | 1993-07-23（第 95 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 3 Omega Centre, Stratton Business Park, Biggleswade SG18 8QB |
+| 人数 | <50 人（Small） |
+| 其他 | AMG210M 10G MC 系列；美国分销；第 95 批：英国工业以太网交换机 / 光传输制造商 = 同行 → 守界：不发价格表、不加厚、B 不动；2019–2020 Edgenet 接盘已久，非进门时机（第 95 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业以太网 / 光纤传输设备（自有品牌，部分外购）
 - **触达通道（公开）**：role: 英国品牌商（OEM 采购）；region: 英国 + 美国
@@ -238,7 +256,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Steve Clarke | — | steve.clarke@amgsystems.com / +44 1767 600 777 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Stephen Edwin Clarke | Director（2019-08-09 任；1955-01 生；Companies House 02838846）= 董事本人；**同行（自产工业交换机）→ 不发**（第 95 批 官方登记核实 2026-10-28） | steve.clarke@amgsystems.com / +44 1767 600 777 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -307,7 +325,7 @@ updated: 2026-10-27
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hi Steve,
+Hi Stephen,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the AMG managed PoE and media-converter lines — Marvell-based DIN 8-PoE + 2-SFP managed under the AMG label from small lots (CE/UKCA/RoHS), plus 10G SFP+/RJ45 converters on request; which SKU is next for re-sourcing?
 
@@ -332,12 +350,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
