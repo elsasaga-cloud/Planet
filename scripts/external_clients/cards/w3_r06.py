@@ -319,4 +319,109 @@ for c, t, why in [
 for c in ['XB-M023','XB-M024','XB-M025','XB-M026','XB-M027','XB-M028','XB-M029','XB-M031','XB-M032','XB-M033','XB-M036','XB-M037','XB-M039','XB-M041']:
     j(c, 'B', '不动', typ=MK + '（乌克兰）', reason='战时物流/结算风险，邮箱已在记录 → B 不动，待局势稳定再评')
 
+# ===== 补：类型字段为空但按名称可辨的渠道型（土/波/德/爱/英/美/意）=====
+j('XB-C0889', 'B', '不动', typ='Hexapro Sécurité（Dahua/Ajax/Hikvision 官方经销）', reason='邮箱待补 → B 不动')
+# 土耳其（主战场）
+j('XB-C0498', 'A', '首触', 'W02', '安防/网络分销（Nokta Elektronik ve Bilişim Sistemleri A.Ş.，Istanbul Perpa；CCTV/网络/消防/护士呼叫分销；自有品牌 upTech；品类含 PoE 交换机与工业以太网）', '自有品牌 + PoE/工业以太网品类 → 自有标签交换机正对口', 'TR 主战场、分销 + 自有品牌、邮箱已补 → 升 A 首触（排 2027-W02 周四）', kind='dist2', to='nokta@noktaelektronik.net',
+  ev=[{'claim': '官网：Turkish distributor of CCTV cameras, networking…owner of the upTech brand；knowsAbout 列 PoE switch ve network ürünleri、Endüstriyel ethernet；nokta@noktaelektronik.net', 'quote': 'Turkish distributor of CCTV cameras, networking, fire detection and nurse call systems; owner of the upTech brand', 'url': 'https://www.noktaelektronik.net/en'}],
+  q='Would a PoE switch line under your upTech label be worth a sample, and who on your product team should see the spec sheets?')
+j('XB-C0501', 'A', '首触', 'W02', '安防批发分销（Öncü Güvenlik Sistemleri A.Ş.，Istanbul Beykoz；2002 起；1,500+ 经销商；BDCOM 土耳其官方分销）', '已代理中国交换机品牌 BDCOM → 对中国采购熟悉，可加第二条线', 'TR 主战场、批发 1,500 经销商、邮箱已补 → 升 A 首触（排 2027-W02 周四）', kind='dist2', to='info@oncuguvenlik.com.tr',
+  ev=[{'claim': '官网联系页 Wholesale: info@oncuguvenlik.com.tr；关于页 1500’ün üzerinde bayisi；博客：Türkiye BDCOM Distribütörü', 'quote': 'Öncü Güvenlik Sistemleri, 2002 yılında kurulmuştur. 1500’ün üzerinde bayisi olup', 'url': 'https://www.oncuguvenlik.com.tr/tr/bilgi/hakkimizda'}],
+  q=Q_D2)
+j('XB-C0506', 'A', '首触', 'W02', '安防分销（ENTPA Elektronik，Istanbul Ümraniye；ENTES 集团；2003 起；11–50 人；CCTV/门禁/智能家居分销；Hanwha 分销）', '安防分销，PoE 配套', 'TR 主战场、安防分销、邮箱已补 → 升 A 首触（排 2027-W02 周四）', kind='dist2', to='satis@entpa.com.tr',
+  ev=[{'claim': '官网联系页 Yurtiçi Satış: satis@entpa.com.tr；Hanwha 分销名录列 ENTPA；contactout 11–50 人', 'quote': 'Entpa was established in 2003 by Entes’s partners', 'url': 'https://entpa.com.tr/iletisim_tr.asp'}],
+  q=Q_D2S)
+j('XB-C0499', 'C', '并线', typ='Poyraz Network（MikroTik 土耳其 Master Distributor）', reason='与 XA-M098 Poyraz Network 同一公司（已排 11-05 第二封）→ 并线')
+j('XB-C0507', 'C', '并线', typ='Koyuncu Elektronik 重复条目', reason='与 XB-C0302 同一公司 → 并线')
+for c, t, why in [
+    ('XB-C0500', 'Art Sistem（土耳其最大技术分销之一，22 年，135 品牌，5,000+ 经销商）', BIG),
+    ('XB-C0491', 'Focus Elektronik（Istanbul Kadıköy；网查未得邮箱）', '邮箱待补 → B 不动'),
+    ('XB-C0493', 'Barbaros Elektronik（网查未得）', '邮箱待补 → B 不动'),
+    ('XB-C0492', 'Teletek Elektronik（SMATV/CATV 分销 + LED 制造）', '广电线为主 → B 不动'),
+    ('XB-C0502', 'Güvenlik Bayii（Ankara 批发）', '邮箱待补 → B 不动'),
+    ('XB-C0503', 'Toptan Güvenlik（Perpa 批发）', '邮箱待补 → B 不动'),
+    ('XB-C0508', 'Simet Technologies（Ankara 网络 VAD）', '邮箱待补（下一轮网查）→ B 不动'),
+    ('XB-C0494', 'Trunk.tr', '邮箱待补 → B 不动'),
+    ('XB-C0497', 'LonglineNetwork.com（翻新网络设备）', '翻新品商 → B 不动'),
+    ('XB-C0495', 'LonglineStore.com（Cisco/Juniper/Planet 翻新）', '翻新品商 → B 不动'),
+    ('XB-C0504', 'Perpa Elektronik', '邮箱待补 → B 不动'),
+    ('XB-C0505', 'Perpa Güvenlik / VEN', '邮箱待补 → B 不动'),
+    ('XB-C0509', 'Rima Elektronik', '邮箱待补 → B 不动'),
+    ('XB-C0510', 'Y3K Güvenlik', '邮箱待补 → B 不动'),
+    ('XB-C0511', 'Kasa Elektronik', '邮箱待补 → B 不动'),
+    ('XB-C0512', 'Aydın Elektronik', '邮箱待补 → B 不动'),
+    ('XB-C0513', 'Güler Güvenlik', '邮箱待补 → B 不动'),
+    ('XB-C0514', 'CLR Networks', '邮箱待补（下一轮网查）→ B 不动'),
+    ('XB-C0516', 'BESTA / ARNA', '邮箱待补 → B 不动'),
+    ('XB-C0659', 'Proline / infoMet', '邮箱待补 → B 不动'),
+    ('XB-C0688', 'Bilgi Teknolojileri', '邮箱待补 → B 不动'),
+    ('XB-C0700', 'Okisan', '邮箱待补 → B 不动'),
+]:
+    j(c, 'B', '不动', typ=t, reason=why)
+for c, t in [('XB-C0515', 'Cimri.com（比价网站）'), ('XB-C0496', 'ikincielaliyoruz.com（二手回收）'), ('XB-C0064', 'ISAF 2026 展会条目'), ('XB-C0314', 'Sensormatic（Securitas 集团集成商条目）')]:
+    j(c, 'C', '不动', typ=t, reason='非采购渠道 → C')
+for c in ['XB-C0790','XB-C0791','XB-C0792','XB-C0793','XB-C0794','XB-C0795','XB-C0796','XB-C0797','XB-C0798','XB-C0799']:
+    j(c, 'C', '不动', typ='土耳其深度挖掘汇总/分析行', reason='非客户记录 → C')
+# 波兰（次级市场）
+j('XB-C0582', 'A', '首触', 'W03', '安防批发（Alkam Security Sp. z o.o. Sp.k.，Jabłonna + 波/克/弗/托/卡 6 家分部；Hikvision 波兰认证分销；CCTV + 报警批发）', '全国安防批发，PoE 配套', 'PL 安防批发、邮箱已补 → 升 A 首触（排 2027-W03）', kind='dist2', to='dzial.handlowy@alkam-security.pl',
+  ev=[{'claim': '官网联系页 Dział handlowy dzial.handlowy@alkam-security.pl；页面：Certyfikowany dystrybutor Hikvision w Polsce', 'quote': 'Alkam Security oficjalny dystrybutor Hikvision w Polsce', 'url': 'https://alkam-security.pl/content/14-kontakt'}],
+  q=Q_D2S)
+j('XB-C0586', 'A', '首触', 'W03', '弱电设备欧洲分销 + 天线制造（DIPOL Sp.J.，Kraków；1990 起；CCTV/WLAN/TV-SAT；2,000+ 品类；批发 + 零售 + 安装商；英文站 dipolnet.com）', '欧洲级分销 + 自产天线 → 对 OEM/自有标签熟悉', 'PL 老牌分销、邮箱已补 → 升 A 首触（排 2027-W03）', kind='dist2', to='dipol@dipol.com.pl',
+  ev=[{'claim': '官网：Założona w 1990 roku firma DIPOL jest europejskim dystrybutorem…oraz producentem anten；dipol@dipol.com.pl', 'quote': 'Dipol - europejski dystrybutor CCTV, WLAN, TV-SAT oraz producent anten. Oferujemy ponad 2000 towarów', 'url': 'https://www.dipol.com.pl/firma_dipol_m110.htm'}],
+  q=Q_D2)
+j('XB-C0588', 'A', '首触', 'W03', '网络分销 + 自有品牌（A-LAN Technologie，Kraków；AICOM 分销 + 布线/视频监控制造合并而成；自有品牌 ALANTEC/AVIZIO/Q-LANTEC/WireArte；出口销售 Paweł Puźniak）', '自有品牌多（含 AVIZIO 视频监控）→ 自有标签交换机对口', 'PL 分销 + 自有品牌、邮箱已补 → 升 A 首触（排 2027-W03）', kind='dist2', to='info@a-lan.pl',
+  kp=[{'name': 'Paweł Puźniak', 'role': 'Export Sales（export@a-lan.pl，官网联系页公开）', 'source': 'https://a-lan.pl/en/contact-us,contact'}],
+  ev=[{'claim': 'LinkedIn：Dystrybutor i właściciel marek: WireArte, Kerpen DATACOM, ZPAS, ALANTEC, AVIZIO, Q-LANTEC, AICOM；官网 info@a-lan.pl', 'quote': 'Dystrybutor i właściciel marek: WireArte, Kerpen DATACOM, ZPAS, ALANTEC, AVIZIO, Q-LANTEC, AICOM', 'url': 'https://pl.linkedin.com/company/a-lan'}],
+  q='Would a PoE switch line under one of your own brands be worth a sample, and who on your product team should see the spec sheets?')
+j('XB-C0581', 'A', '首触', 'W03', '安防分销（MWS Sp. z o.o. / MW Security，Zabrze + Katowice/Kraków/Rybnik；MPL 集团；Hikvision 波兰全国分销；自有品牌 MW Power）', 'Hikvision 全国分销 + 自有品牌，PoE 配套', 'PL 安防分销、邮箱已补 → 升 A 首触（排 2027-W03）', kind='dist2', to='mws@mwsecurity.pl',
+  ev=[{'claim': '官网：Krajowy dystrybutor Hikvision；Hikvision 促销 PDF 列 MWS Sp. z o.o. mws@mwsecurity.pl', 'quote': 'MWS Sp. z o.o. to dystrybutor monitoringu i systemów zabezpieczeń. Spółka należąca do grupy MPL. Krajowy dystrybutor Hikvision.', 'url': 'https://mwsecurity.eu/'}],
+  q=Q_D2S)
+for c, t, why in [
+    ('XB-C0585', 'Eltrox Sp. z o.o.（安防零售连锁 + 批发）', '零售连锁为主，邮箱待补 → B 不动'),
+    ('XB-C0589', 'Vidicon（波兰 CCTV 分销）', '邮箱待补（下一轮网查）→ B 不动'),
+    ('XB-C0587', 'PROMITEL Sp. z o.o.', '邮箱待补 → B 不动'),
+    ('XB-C0584', 'MKJ Systemy zabezpieczeń', '邮箱待补 → B 不动'),
+    ('XB-C0708', 'CTS Katowice', '邮箱待补 → B 不动'),
+]:
+    j(c, 'B', '不动', typ=t, reason=why)
+j('XB-C0822', 'C', '并线', typ='MKJ Systemy zabezpieczeń 重复', reason='与 XB-C0584 同一公司 → 并线')
+j('XB-C0583', 'C', '不动', typ='ADI-Ultrak Security（ADI 体系）', reason=BIG + '（ADI 全球体系）→ C')
+j('XB-C0063', 'C', '不动', typ='Securex Poland 2026 展会条目', reason='非采购渠道 → C')
+# 德国 / 爱尔兰 / 英国 / 美国 / 意大利 / 重复
+j('XB-C0728', 'A', '首触', 'W03', '网络/通信增值分销（Syserso Networks GmbH，Hannover；ITTC Group；德/奥/荷/卢 区域销售办公室；销售总监 Holger Kausch；GF Naif Kiy、Michael Clever）', '多国 VAD，网络接入/交换品类', 'DE 网络 VAD、邮箱已补 → 升 A 首触（排 2027-W03）', kind='dist', to='info@syserso.com',
+  kp=[{'name': 'Holger Kausch', 'role': 'Vertriebsleitung（官网联系页）', 'source': 'https://www.syserso.com/kontakt/'}],
+  ev=[{'claim': 'Impressum：Syserso Networks – an ITTC Group Company；info@syserso.com；联系页列德/奥/荷/卢 Vertriebsbüros', 'quote': 'Syserso Networks – an ITTC Group Company', 'url': 'https://www.syserso.com/impressum/'}],
+  q=Q_D2)
+j('XB-C0478', 'A', '首触', 'W03', '网络/安防分销（Wood Communications Ltd，Dublin；1924 起；11–50 人；爱尔兰领先网络/数据中心/安防分销；Uniview 分销、Teltonika Gold；2026 被瑞典 Alcadon Group 收购；MD Keith Mahony）', '网络 + 安防分销，PoE 配套', 'IE 分销、邮箱已补 → 升 A 首触（排 2027-W03）', kind='dist2', to='sales@woodcomm.ie',
+  kp=[{'name': 'Keith Mahony', 'role': 'Owner & Managing Director（Crunchbase）', 'source': 'https://www.crunchbase.com/organization/wood-communications'}],
+  ev=[{'claim': '官网：Ireland’s Premier leading distributor of networking products for the Data communications, Data Centre, Telecoms, and Security industry；sales@woodcomm.ie；Uniview 分销', 'quote': 'Wood Communications are delighted to partner with Uniview and act as a distributor for their full offering in Ireland', 'url': 'https://woodcomm.ie/partners/uniview-technologies/'}],
+  q=Q_D2S)
+for c, t, why in [
+    ('XB-C0480', 'Satworld（爱尔兰卫星/安防网店）', '邮箱待补 → B 不动'),
+    ('XB-C0481', 'Cians Tech World（爱尔兰）', '邮箱待补 → B 不动'),
+    ('XB-C0538', 'Birmingham Telecom（英国 IT/网络经销）', '邮箱待补 → B 不动'),
+    ('XB-C0805', 'Re-solution（英国网络经销）', '邮箱待补 → B 不动'),
+    ('XB-C0812', 'Premier Partners（英国）', '邮箱待补 → B 不动'),
+    ('XB-C0476', 'BroadbandBuyer（英国网络设备网店，误标 DE）', '网店，邮箱待补 → B 不动'),
+    ('XB-C0657', 'Advanced Tech Solutions（美国）', '邮箱待补 → B 不动'),
+    ('XB-C0685', 'CCTV Camera Pros（美国安防网店）', '网店，邮箱待补 → B 不动'),
+    ('XB-C0686', "Nelly's Security（美国安防网店）", '网店，邮箱待补 → B 不动'),
+    ('XB-C0690', 'Rovision / Cristal（罗马尼亚安防分销）', '邮箱待补 → B 不动'),
+]:
+    j(c, 'B', '不动', typ=t, reason=why)
+for c, t, why in [
+    ('XB-C0015', 'DSE Italia', '与 XB-C0007 DSE 同一公司 → 并线'),
+    ('XB-C0683', 'DSE Torino', '与 XB-C0007 DSE 同一公司 → 并线'),
+    ('XB-C0701', 'Dero Security 重复', '与 XB-C0305 同一公司 → 并线'),
+    ('XB-C0702', 'ADI-GARDINER NL 重复', '与 XB-C0306 同一公司 → 并线'),
+    ('XB-C0703', 'MEGATEH.eu（爱沙尼亚条目）', '与 XB-C0099 Megateh 同一公司 → 并线'),
+    ('XB-C0704', 'MB Vision / cctvspot 重复', '与 XB-C0307 同一公司 → 并线'),
+    ('XB-C0709', 'Atu TECH 重复', '与 XB-C0345 同一公司 → 并线'),
+    ('XB-C0684', 'EET Europarts（瑞典条目）', '与 XB-C0915 EET 同集团 → 并线'),
+    ('XB-C1174', 'Digitus（ASSMANN 自有品牌）', '品牌商自营 → C'),
+    ('XB-C0474', 'OMG.de（分析条目）', '非采购渠道 → C'),
+    ('XB-C0475', 'eBay.de（平台）', '非采购渠道 → C'),
+]:
+    j(c, 'C', '并线' if '并线' in why else '不动', typ=t, reason=why)
+
 run(J, 'W3-R06')
