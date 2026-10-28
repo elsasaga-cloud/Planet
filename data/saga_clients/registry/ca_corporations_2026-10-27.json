@@ -627,9 +627,9 @@
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**PoE 现由洪瑞（HRUI）供货 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价；若对方主动来询再按 Simon 口径处理）**"
+    "**Q-33 口径勘误（第 113 批）：PoE 现由洪瑞（HRUI）供货 ≠「不碰」；Q-33 裁定「不碰」仅针对 SmartByte 经销名单，HRUI 在供户默认「只推 SmartByte / Marvell 管理 / 工业线，不报 HRUI 同款」→ 改为 一页纸一次（切口：Mesh / CPE 配套的 Marvell 管理型 STC-4424GCPM / STC-424XGGPM-280W + 工业 STI-288GPM 作 ISP 项目配套，不报非管理 PoE；英文，Ge Shi 直呼）；再无回声 → 不动**"
    ],
-   "notes": "Q-33 不跟 → 不动；部分坐实（法定名 + 址 + 创始人；登记号未取）。",
+   "notes": "Q-33 HRUI 口径 → 一页纸一次（只推 Marvell 管理 / 工业线）；部分坐实（法定名 + 址 + 创始人；登记号未取）。第 113 批勘误。",
    "code": "SB-395"
   },
   "SB-409": {
@@ -754,9 +754,9 @@
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**交换机现由洪瑞（HRUI）代工贴标 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价）**"
+    "**Q-33 口径勘误（第 113 批）：交换机现由洪瑞（HRUI）代工贴标 ≠「不碰」；HRUI 在供户默认「只推 SmartByte / Marvell 管理 / 工业线，不报 HRUI 同款」→ 改为 一页纸一次（切口：Inaxsys 标 Marvell 管理型 STC-4424GCPM / STC-424XGGPM-280W + 工业 STI-054GP / STI-144GP 作其 PoE 线之上的管理 / 工业补位 + 中性包装；英文，sales@ 点名 Mark McRae）；再无回声 → 不动**"
    ],
-   "notes": "Q-33 不跟 → 不动；部分坐实（法定名 + 址 + 总裁；NEQ 未取）。",
+   "notes": "Q-33 HRUI 口径 → 一页纸一次（只推 Marvell 管理 / 工业线）；部分坐实（法定名 + 址 + 总裁；NEQ 未取）。第 113 批勘误。",
    "code": "SB-173"
   },
   "SB-387": {
