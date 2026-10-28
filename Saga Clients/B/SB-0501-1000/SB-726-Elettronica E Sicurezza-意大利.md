@@ -88,6 +88,22 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（IT · 1 次检索：ufficiocamerale（ELETTRONICA E SICUREZZA SRL；P.IVA 03518240241；VIA FRANCESCO FOSCARI 27/29 THIENE；REA 331657；PEC info@pec.elettronicaesicurezza.it；Fatturato € 1.345.334 (2024)；Dipendenti 4 (2026)；Iscrizione 12/02/2009；Utile € 96.273；URL 旧名 snc-di-d-ferrari-c）+ atoka（ricavi 1.3M +32.4%；sede Via Padre Massimiliano Kolbe 39；4 dipendenti；16 anni）+ elettronicaesicurezza.it 页脚（C.S. 20000,00 i.v.；0445 823720）+ it.tiandy.com 合作伙伴页（Via Massimiliano Kolbe 39；0445 344591；commerciale@）；2026-10-28，2026-10-28 查；https://www.ufficiocamerale.it/2006/elettronica-e-sicurezza-snc-di-d-ferrari-c）：**
+
+- 法定名 / 登记号：ELETTRONICA E SICUREZZA SRL（原 Elettronica e Sicurezza snc di D. Ferrari & C.；elettronicaesicurezza.it；Via Francesco Foscari 27/29, 36016 Thiene (VI)（另址 Via Padre Massimiliano Kolbe 39 / Via Marco Corner 1/A）；P.IVA / CF 03518240241；REA VI-331657；股本 €20,000）— 2009-02-12 登记的安防设备批发分销商（TVCC / 防盗 / 消防 / 门禁 / 对讲 / 网络；Tiandy 合作伙伴）；4 名雇员（2026）；2024 营收 €1.35M（+32.4%）、净利 €96k；KP Fortunato Riccardo（会中文）；群发 14 次无回复 · P.IVA 03518240241 / REA VI-331657 · 状态 **Attiva** · 成立 2009-02-12 · S.r.l.（原 s.n.c.）
+- 行业码 / 经营范围：安防设备 批发分销（Thiene）
+- 注册地址：Via Francesco Foscari 27/29, 36016 Thiene (VI)
+- 规模档：小型（4 人）
+- 账目：2024 营收 €1,345,334 / 净利 €96,273（+32.4%）；—
+- 高管：Fortunato Riccardo — 研究档 KP（info@；表内「会说中文」）= 收件人
+- 高管：D. Ferrari — 原 snc 合伙人（旧名；现职务未取）
+- 控制人 / 股东：未取
+- 曾用名：Elettronica e Sicurezza snc di D. Ferrari & C.（推定自 ufficiocamerale URL）
+- **这意味着什么：**
+  - **小型安防批发商（增长 32%、曾询 PoE 延长器）→ 分销 20% small，一页纸一次（切口：STC-028GP / STC-228GP / STC-2224GP 配摄像机 + 对讲套件一口价 + MOQ 1；意语引子，info@ 点名 Riccardo）；有回声再加厚**
+  - 中文直联：Simon 定，默认否（表内「会说中文」）；稿内不点名 Tiandy；发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸一次；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,15 +147,17 @@ updated: 2026-10-28
 - **【用户表】找 extender EoC，会说中文**
   > 找extender EOC 会说中文
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Fortunato Riccardo（）info@elettronicaesicurezza.it 〔用户表〕
+- **KP**：Fortunato Riccardo（研究档 KP（info@；表内「会说中文」）= 收件人（第 111 批 官方登记核实 2026-10-28））info@elettronicaesicurezza.it 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ELETTRONICA E SICUREZZA SRL（原 … snc di D. Ferrari & C.；P.IVA / CF 03518240241；REA VI-331657；Thiene (VI)） |
+| 成立 | 2009-02-12（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 elettronicaesicurezza.it，语言 it，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 elettronicaesicurezza.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 111 批：安防设备批发分销商（4 人；2024 营收 €1.35M +32%）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 配摄像机 + 对讲套件一口价 + MOQ 1；意语引子，点名 Riccardo）；有回声再加厚**；中文直联由 Simon 定（默认否）（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统分销（CCTV / 对讲 / PoE 配件）
 
@@ -243,7 +261,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Fortunato Riccardo | — | info@elettronicaesicurezza.it | 调研核实（公开页） | 用户表 |
+| Fortunato Riccardo | 研究档 KP（info@；表内「会说中文」）= 收件人（第 111 批 官方登记核实 2026-10-28） | info@elettronicaesicurezza.it | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 14 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

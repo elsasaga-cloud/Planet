@@ -75,6 +75,21 @@ updated: 2026-10-28
 
 - 法定假日：11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 111 批（RS · 1 次检索：companywall.rs（KBV DATACOM；ZORANA ŽUNKOVIĆA 17 sprat 1 i 2 11102 BEOGRAD；Aktivan；PIB 106983968；MB 20718749；osnivanje 11.3.2011；6209；Veličina Veliko）+ pretraga.pkspartner.rs（puno ime Društvo za informacione tehnologije i telekomunikacije KBV DATACOM d.o.o. Beograd；office@kbvdatacom.com；+381 11 4148220）+ poslovi.infostud（101–250 zaposlenih；projektovanje, konsalting, inženjering i izgradnja telekomunikacione, energetske i saobraćajne infrastrukture）+ biznis.rs 2026-06-25（190 zaposlenih）+ kbvdatacom.rs/sertifikati（Licenca I141E3 železničke；P150E3 projektovanje）；2026-10-28，2026-10-28 查；https://www.companywall.rs/firma/kbv-datacom-doo-beograd/MMu9ivZ0）：**
+
+- 法定名 / 登记号：Društvo za informacione tehnologije i telekomunikacije KBV DATACOM d.o.o. Beograd（kbvdatacom.rs；Zorana Žunkovića 17, sprat 1 i 2, 11102 Beograd (Savski Venac)（另 Milentija Popovića 9 Sava Centar / Vladimira Popovića 6）；PIB 106983968；MB 20718749）— 2011-03-11 成立的电信 / 能源 / 交通基础设施设计咨询与建设工程公司（APR 分类 6209；**「Veliko」大型企业；101–250 人（2026 报道 190 人）**；光纤基础设施、安防系统、电力系统；持 P150E3 设计 + I141E3 铁路电信网施工许可 → 铁路线不碰）；阿里巴巴 RTS 订单「Bypass 模块」；KP Dušan Ponjavić（Gmail；职务待核）；未发过信 · PIB 106983968 / MB 20718749 · 状态 **Aktivan** · 成立 2011-03-11 · d.o.o.
+- 行业码 / 经营范围：电信 / 能源 / 交通 基础设施 设计与建设工程（贝尔格莱德）
+- 注册地址：Zorana Žunkovića 17, sprat 1 i 2, 11102 Beograd (Savski Venac)
+- 规模档：大型（190 人）
+- 账目：未取（APR 分类「大型」）；—
+- 高管：Dušan Ponjavić — 研究档 KP（dponjavic@gmail.com；职务待核）= 收件人
+- 高管：（Direktor 未取；office@kbvdatacom.rs 抄）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **190 人电信基建工程商、已下过旁路模块小单（阿里 RTS）→ 集成 25%，B BIG，加厚一次（切口：光纤接入 / 安防 / 电力站点的工业 PoE STI-054GP / STI-144GP / STI-288DGGPM + 旁路模块回访 + RS 非欧盟 DAP 买方清关；英文 / 塞语引子，Dušan 直呼 + office@ 抄、一问其职务 / 公司邮箱）；回信 → 次候选升 A**
+  - **守界：只谈电信 / 能源 / 安防线，绝不提铁路电信网（I141E3）**；发信窗口 Thu 12–14 CET
+- 备注：集成 25%；B BIG 加厚一次（非轨交线）；坐实（PIB + MB + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,15 +122,17 @@ updated: 2026-10-28
 - **【用户表】Bypass 模块 RTS 订单**
   > Bypass模块 / from: 阿里巴巴RTS订单
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Dušan Ponjavić（）dponjavic@gmail.com 〔用户表〕
+- **KP**：Dušan Ponjavić（研究档 KP（Gmail；职务待核）= 收件人（office@kbvdatacom.rs 抄，一问职务 / 公司邮箱）（第 111 批 官方登记核实 2026-10-28））dponjavic@gmail.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Društvo za informacione tehnologije i telekomunikacije KBV DATACOM d.o.o. Beograd（PIB 106983968；MB 20718749；Zorana Žunkovića 17, Beograd） |
+| 成立 | 2011-03-11（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 塞尔维亚 |
-| 其他 | 官网 kbvdatacom.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 kbvdatacom.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案；第 111 批：电信 / 能源 / 交通基建设计与建设工程商（APR「大型」；190 人；持铁路电信施工许可 I141E3 → **守界：只谈电信 / 能源 / 安防线，绝不提铁路**；阿里 RTS 旁路模块小单）→ **集成 25%，B BIG，加厚一次（光纤接入 / 安防 / 电力站点的工业 PoE STI-054GP / STI-144GP / STI-288DGGPM + 旁路回访 + RS 非欧盟 DAP；英文 / 塞语）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信网络设计 / 建设 / 安防 / 电力系统（塞尔维亚）
 - **触达通道（公开）**：role: 电信工程/集成商（塞尔维亚，bypass 模块订单）；region: 塞尔维亚；contact: dponjavic@gmail.com
@@ -170,7 +187,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Dušan Ponjavić | — | dponjavic@gmail.com | 调研核实（公开页） | 用户表 |
+| Dušan Ponjavić | 研究档 KP（Gmail；职务待核）= 收件人（office@kbvdatacom.rs 抄，一问职务 / 公司邮箱）（第 111 批 官方登记核实 2026-10-28） | dponjavic@gmail.com | 调研核实（公开页） | 用户表 |
 | Dusan Ponjavic | — | dponjavic@gmail.com / +381665000484 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）

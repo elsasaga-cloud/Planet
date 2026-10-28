@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 111 批（IE · 1 次检索（Gmail 户 1 查即停）：LinkedIn（Tomasz Gluszek — AT Networks · Ireland · 50 connections；是否同一人待证）+ companycheck.ie / CRO 结果均为无关法人（Electric Install Ireland Ltd 623184 ≠）；波兰 Bud-Inspekt Tomasz Głuszek Kielce NIP 9591718230 = 同名他人；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：Tomasz Głuszek（个人；gluszek.tomasz@gmail.com；爱尔兰 +353 83；波兰裔安装商）— LinkedIn 有同名「Tomasz Gluszek — AT Networks, Ireland」（待证，未核为同一人）；无 CRO 法人；2010 年起用阿里国际站；购 2 个工业 90W PoE 注入器样品（已成交小客户）；WhatsApp 已加，3 次实质回复 / 5 次跟进 · 未取（个人） · 状态 **—** · 成立 — · 个人（无法人）
+- 行业码 / 经营范围：个人安装商（爱尔兰）
+- 注册地址：爱尔兰（具体未取）
+- 规模档：个人
+- 账目：—；—
+- 高管：Tomasz Głuszek — 本人（WA）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **个人安装商、样品单已成交、WA 活跃 → 不进发送包（Gmail / 个人）；由 Simon 在 WA 顺手维系即可（STI-054GP 整机一口价）；registry 不动**
+  - 旁线索：AT Networks（IE）若为其雇主可另立户（待证）
+- 备注：未坐实（个人）→ 不动（WA 维系）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,8 +120,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | 未具名（个人邮箱） |
+| 法定名称 | Tomasz Głuszek（个人；Gmail；爱尔兰 +353 83；无 CRO 法人；LinkedIn 同名「AT Networks, Ireland」待证） |
+| 成立 | —（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 爱尔兰（+353 83） |
+| 其他 | 第 111 批：个人安装商、2 个工业 90W PoE 注入器样品已成交、WA 活跃 → **不进发送包（个人 / Gmail）；Simon 在 WA 顺手维系（STI-054GP 整机一口价）；registry 不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：弱电/安防安装（推断）
 - **触达通道（公开）**：邮箱: （表内 Gmail）；WhatsApp: 已加

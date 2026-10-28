@@ -73,6 +73,24 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 111 批（CZ · 1 次检索：rejstrik.penize.cz（ENIKA.CZ s.r.o.；IČO 28218167 zapsáno 20. 12. 2007；DIČ CZ28218167；jednatel Ing. Jiří Vávra / Michal Geisler；DS pts4afb）+ rejstrik-firem.kurzy.cz（同；enika@enika.cz）+ podnikatel.cz（sídlo Nová Paka 33 Vlkov）+ enika.eu（s účinností od 15. dubna 2025 Lukáš Majkuth novým generálním ředitelem a prokuristou；C 49375 Hradec Králové）+ rejstrik.penize.cz ENIKA spol. s r.o. 15055761（前身，1994）+ zivefirmy（český výrobce bezdrátových technologií；30 let）；2026-10-28，2026-10-28 查；https://rejstrik.penize.cz/28218167-enika-cz-s-r-o）：**
+
+- 法定名 / 登记号：ENIKA.CZ s.r.o.（enika.cz / enika.eu；Vlkov 33, 509 01 Nová Paka；IČO 28218167；DIČ CZ28218167；C 49375 Krajský soud v Hradci Králové；数据箱 pts4afb）— 2007-12-20 登记（前身 ENIKA spol. s r.o. IČO 15055761，1994 起；「30 年」）的捷克无线控制技术制造商 + 电气元件 / 照明分销商（20,000+ 品项；欧洲分销网）；jednatelé Ing. Jiří Vávra、Michal Geisler（各自独立代表）；2025-04-15 起 Lukáš Majkuth 任 generální ředitel + prokurista；KP Iva Horáčková / P. Gottwald（职务待核）；表内「电口，网页是项目类的」；群发 8 次无回复 · IČO 28218167 · 状态 **Aktivní** · 成立 2007-12-20（前身 1994） · s.r.o.
+- 行业码 / 经营范围：无线控制技术制造 + 电气元件 / 照明 分销
+- 注册地址：Vlkov 33, 509 01 Nová Paka
+- 规模档：中小型（推定 50+）
+- 账目：未取；—
+- 高管：Ing. Jiří Vávra — jednatel（2007-12-20 起）
+- 高管：Michal Geisler — jednatel（2007-12-20 起）
+- 高管：Lukáš Majkuth — generální ředitel + prokurista（2025-04-15 起）= 拍板人（邮箱未取）
+- 高管：Iva Horáčková / P. Gottwald — 研究档收件人（职务待核）
+- 控制人 / 股东：Vávra / Geisler（推定）
+- 曾用名：（前身）ENIKA spol. s r.o.
+- **这意味着什么：**
+  - **电气 / 照明分销商、网络为边缘品类（8 次无打开）→ 分销 20% small，一页纸一次（切口：照明控制 / 楼宇项目的 PoE 供电 STC-028GP / STI-054GP 一口价 + MOQ 1；捷语引子，抄 Majkuth 请转）；再无回声 → 不动**
+  - 发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸一次；坐实（IČO + 卷号 + jednatelé + 新总经理）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,16 +123,20 @@ updated: 2026-10-28
 - **【用户表】电口 项目类**
   > 电口 网页是项目类的；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Iva Horáčková（）i.horackova@enika.cz 〔用户表〕
-- **KP**：P. Gottwald（）p.gottwald@enika.cz 〔用户表〕
+- **KP**：Iva Horáčková（研究档收件人（职务待核）（第 111 批 官方登记核实 2026-10-28））i.horackova@enika.cz 〔用户表〕
+- **KP**：P. Gottwald（研究档收件人（姓名 / 职务待核）（第 111 批 官方登记核实 2026-10-28））p.gottwald@enika.cz 〔用户表〕
+- **KP**：Lukáš Majkuth（generální ředitel + prokurista（enika.eu 公告，2025-04-15 起）= 拍板人（邮箱未取，抄请转）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.enika.eu/〕
+- **KP**：Jiří Vávra（Ing.；jednatel（OR，2007-12-20 起）（第 111 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/28218167-enika-cz-s-r-o〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ENIKA.CZ s.r.o.（IČO 28218167；DIČ CZ28218167；C 49375 KS Hradec Králové；Nová Paka；前身 ENIKA spol. s r.o. 15055761） |
+| 成立 | 2007-12-20（前身 1994）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 enika.cz，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 enika.cz，语言 en，快照状态 ok；角色判定来源：用户表；第 111 批：无线控制技术制造商 + 电气元件 / 照明分销商（20,000+ 品项；网络为边缘品类；8 次无打开）→ **分销 20% small，一页纸一次（照明控制 / 楼宇项目的 PoE 供电 STC-028GP / STI-054GP 一口价 + MOQ 1；捷语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：无线技术制造（自有）；照明 / 电气元件分销
 - **触达通道（公开）**：role: 电气/照明分销商（捷克，网络为边缘品类）；region: 捷克；contact: i.horackova@enika.cz、p.gottwald@enika.cz
@@ -211,8 +233,10 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Iva Horáčková | — | i.horackova@enika.cz | 调研核实（公开页） | 用户表 |
-| P. Gottwald | — | p.gottwald@enika.cz | 调研核实（公开页） | 用户表 |
+| Iva Horáčková | 研究档收件人（职务待核）（第 111 批 官方登记核实 2026-10-28） | i.horackova@enika.cz | 调研核实（公开页） | 用户表 |
+| P. Gottwald | 研究档收件人（姓名 / 职务待核）（第 111 批 官方登记核实 2026-10-28） | p.gottwald@enika.cz | 调研核实（公开页） | 用户表 |
+| Lukáš Majkuth | generální ředitel + prokurista（enika.eu 公告，2025-04-15 起）= 拍板人（邮箱未取，抄请转）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.enika.eu/ |
+| Jiří Vávra | Ing.；jednatel（OR，2007-12-20 起）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejstrik.penize.cz/28218167-enika-cz-s-r-o |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

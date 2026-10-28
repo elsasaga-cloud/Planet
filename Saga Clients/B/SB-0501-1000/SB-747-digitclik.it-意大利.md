@@ -88,6 +88,19 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（IT · 1 次检索：vat-validation.com（Digitclik DI Princic Iztok；34170 Gorizia；Friuli-Venezia Giulia；P.IVA 数字未在摘要显示）+ vat-search（旧名 Demetz Princic）+ bizi.si（DIGITKLIK d.o.o. Trzin SI61365645 = 斯洛文尼亚他家，≠）；1 查即停；2026-10-28，2026-10-28 查；https://vat-validation.com/YH.v_Digitclik+DI+Princic+Iztok）：**
+
+- 法定名 / 登记号：Digitclik di Princic Iztok（impresa individuale；digitclik.it / digitclik.com；34170 Gorizia（斯洛文尼亚语区，站点「Stran v izdelavi」建设中）；P.IVA 未取全）— 一人网络 / 工业 FS 网店（vat-validation 条目「Digitclik DI Princic Iztok, 34170 Gorizia」）；≠ 斯洛文尼亚 DIGITKLIK d.o.o. Trzin 2106817000；表内「像是国内的工商业 switch」；群发 23 次无回复 · P.IVA 未取全 · 状态 **未取** · 成立 未取 · Impresa individuale
+- 行业码 / 经营范围：网络产品 一人网店（戈里齐亚）
+- 注册地址：34170 Gorizia (GO)
+- 规模档：微型（1 人）
+- 账目：—；—
+- 高管：Iztok Princic — Titolare
+- 控制人 / 股东：Iztok Princic
+- **这意味着什么：**
+  - **一人网店 + 站点建设中 + 23 次无打开 → 不动**
+- 备注：部分坐实（业主 + 城市；P.IVA 未取全）→ 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,8 +146,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Digitclik di Princic Iztok（impresa individuale；34170 Gorizia；P.IVA 未取全）≠ DIGITKLIK d.o.o. Trzin（SI） |
+| 成立 | 未取（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 digitclik.it，语言 sl，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 digitclik.it，语言 sl，快照状态 ok；角色判定来源：用户表；第 111 批：一人网络产品网店（站点「Stran v izdelavi」建设中；23 次无打开）→ **不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品网店 / 销售平台（意大利）
 - **触达通道（公开）**：role: 网络产品网店（意大利，站点待核）；region: 意大利；contact: info@digitclik.com

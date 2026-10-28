@@ -70,6 +70,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 111 批（FR · 1 次检索：entreprises.lefigaro.fr（UNIFORMATIC；Siren 333998623；Siret 33399862300073 siège；TVA FR43333998623；RCS Lyon；NAF 4651Z；SAS；immatriculation 18/11/1985；PME；décisions extraordinaires 1er décembre 2025 l'associée unique … transférer le siège social de 54-60 rue Louis Ampère 93330 NEUILLY-SUR-MARNE au 692…）+ annuaire-entreprises.data.gouv.fr（créée 18 novembre 1985；SAS；Rillieux-la-Pape 69140；10 à 19 salariés 2024）+ uniformatic.fr 法律声明（SAS au capital de 200 000 €；RCS B 333 998 623）+ uniformatic.fr 工业交换机类目（LevelOne 61602 / 61615 / 61620 / 61650 / 61652；Uniformatic 品牌 DIN 电源 61663）；2026-10-28，2026-10-28 查；https://annuaire-entreprises.data.gouv.fr/entreprise/uniformatic-333998623）：**
+
+- 法定名 / 登记号：UNIFORMATIC SAS（uniformatic.fr；SIREN 333 998 623；SIRET 333 998 623 00073（新总部）；TVA FR43333998623；RCS Lyon（原 Bobigny）；资本 €200,000）— 1985-11-18 设立的 IT / 网络配件批发商（NAF 4651Z；自有品牌 Uniformatic 线缆 / 电源 + 代理 LevelOne 工业交换机 / DIN 导轨电源；PME 10–19 人）；2025-12-01 唯一股东决议将总部自 Neuilly-sur-Marne (93) 迁至 Rillieux-la-Pape (69140)（→ 所有权 / 集团化变动待证）；KP Virginie（virginie@，职务待核）；退信 kalen.makela@ 2026-07-13；群发 8 次无回复；官网 http_error · SIREN 333 998 623 · 状态 **Active** · 成立 1985-11-18 · SAS（associée unique）
+- 行业码 / 经营范围：IT / 网络配件 批发（自有品牌 Uniformatic + LevelOne 工业交换机）
+- 注册地址：Rillieux-la-Pape 69140（2025-12 起；原 60 rue Louis Ampère, Z.I. des Chanoux, 93330 Neuilly-sur-Marne）
+- 规模档：小型（10–19 人）
+- 账目：未取（PME 10–19 人）；—
+- 高管：Virginie — 研究档 KP（virginie@；职务待核）= 收件人
+- 高管：（Président / 唯一股东 未取；2025-12 总部迁里昂 → 疑被收购）
+- 控制人 / 股东：associée unique（未具名）
+- **这意味着什么：**
+  - **自有品牌配件商 + 代理台系工业交换机 → 贴标 30% small，一页纸一次（切口：Uniformatic 标 DIN 导轨 PoE STI-054GP / STI-144GP / STI-154GP 作现有工业线的第二价位 + 自编货号 + 小 MOQ；法语引子，Virginie 直呼）；有回声再加厚**
+  - 稿内不点名 LevelOne；2025-12 迁址 / 唯一股东 → 发信前确认 virginie@ 仍有效；发信窗口 Thu 12–14 CET
+- 备注：贴标 30% small；一页纸一次；坐实（SIREN + RCS + 迁址公告）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,15 +121,17 @@ updated: 2026-10-28
 - **【用户表】工业电源 switch 工业 switch**
   > 工业电源 switch 工业switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Virginie（）virginie@uniformatic.fr 〔用户表〕
+- **KP**：Virginie（研究档 KP（职务待核）= 收件人；2025-12 总部迁里昂后先确认邮箱仍有效（第 111 批 官方登记核实 2026-10-28））virginie@uniformatic.fr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | UNIFORMATIC SAS（SIREN 333 998 623；TVA FR43333998623；RCS Lyon（原 Bobigny）；资本 €200,000；associée unique） |
+| 成立 | 1985-11-18（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 法国 |
-| 其他 | 官网 uniformatic.fr，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 uniformatic.fr，语言 ?，快照状态 http_error；角色判定来源：待核；第 111 批：IT / 网络配件批发商（10–19 人；自有品牌 Uniformatic 线缆 / 电源 + 代理台系工业交换机；2025-12-01 总部自 Neuilly-sur-Marne 迁 Rillieux-la-Pape）→ **贴标 30% small，一页纸一次（Uniformatic 标 DIN 导轨 PoE STI-054GP / STI-144GP / STI-154GP 作现有工业线的第二价位 + 自编货号 + 小 MOQ；法语引子）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业电源 / 网络产品经销（法国）
 - **触达通道（公开）**：role: 工业电源/网络经销商（法国）；region: 法国；contact: virginie@uniformatic.fr
@@ -194,7 +211,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Virginie | — | virginie@uniformatic.fr | 调研核实（公开页） | 用户表 |
+| Virginie | 研究档 KP（职务待核）= 收件人；2025-12 总部迁里昂后先确认邮箱仍有效（第 111 批 官方登记核实 2026-10-28） | virginie@uniformatic.fr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

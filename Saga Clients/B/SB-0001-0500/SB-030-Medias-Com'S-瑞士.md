@@ -77,6 +77,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 111 批（CH · 1 次检索：moneyhouse.ch（MEDIAS-COM'S SA in Lens；active；Founded 2018；entry 02.11.2018；AG；HR VS；CH-626.3.019.073-4；UID CHE-394.326.893；sector Trading in IT and communications products；board Christophe Denis Cordonier, Philippe Bonvin；signatories Pascal Jacot, Cordonier, Bonvin；last change 11.08.2021；Place du Village 18 1978 Lens）+ medias-coms.ch/fr（communication + télécommunication：routeurs 4G LTE, abonnements, internet, téléphones）；2026-10-28，2026-10-28 查；https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971）：**
+
+- 法定名 / 登记号：MEDIAS-COM'S SA（medias-coms.ch；Place du Village 18, 1978 Lens (VS)；UID CHE-394.326.893；CH-626.3.019.073-4；HR Valais）— 2018-11-02 登记的媒体 / 传播 + 电信转售小公司（网站 / 视频 / 4G 路由器 / 固话 / 电视订阅）；管理层 Christophe Denis Cordonier、Philippe Bonvin（董事）、Pascal Jacot（签字权）；2020 年群发成一笔样品单（IM-MC110FE ×2、IM-FP144FE ×2），之后无跟进；Clients 表 KP「Director Manager」未具名 · UID CHE-394.326.893 / CH-626.3.019.073-4 · 状态 **Active** · 成立 2018-11-02 · SA（AG）
+- 行业码 / 经营范围：媒体 / 传播服务 + 电信产品转售（瓦莱州）
+- 注册地址：Place du Village 18, 1978 Lens (VS)
+- 规模档：微型
+- 账目：—（瑞士不公开）；—
+- 高管：Christophe Denis Cordonier — 董事 / 签字权（moneyhouse）= 拍板人（推定「Director Manager」）
+- 高管：Philippe Bonvin — 董事 / 签字权
+- 高管：Pascal Jacot — 签字权
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **2020 样品单小客户（媒体公司兼电信转售，非主业）→ 集成 25% small，一页纸一次（切口：回访 2020 样品 + 工业 MC / STI-054GP 现价一口价 + CH DAP 买方清关；法语引子，Cordonier 直呼）；再无回声 → 不动**
+  - 发信窗口 Thu 12–14 CET；研究档 KP 需补名
+- 备注：集成 25% small；一页纸一次（成单回访）；坐实（UID + HR 号 + 董事）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,6 +121,8 @@ updated: 2026-10-28
   > Médias-Com'S est une société Suisse spécialisée dans les médias et la communication … Nos abris bus digitalisés : Cette technologie est étudiée et développée par Medias-Com'S … mobilier urbain utile, permettant de diffuser les informations nécessaires … Medias-Com'S SA Place du Village 18 Case postale 47 1978 Lens
   > 来源：https://medias-coms.ch/fr/（抓取 2026-10-21）
 - **KP**：（Director Manager，见 Clients 表）（Director Manager） 〔用户 Clients 表〕
+- **KP**：Christophe Denis Cordonier（董事 / 签字权（moneyhouse）= 拍板人（推定 Clients 表「Director Manager」）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971〕
+- **KP**：Philippe Bonvin（董事 / 签字权（moneyhouse）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971〕
 - **调研后定级**：B（原自动 A）——有历史样品成交但停滞 5 年（2020 后 0 跟进），瑞士欧洲区可重启一次；信息不足以判断长期价值 → B 慢跟。
 - 备注：重启：告知当年 IM-MC110FE/IM-FP144FE 的现行对位型号（STI-110GE / STI-144GP）与新价，一封邮件；待补证：公司网站与规模。
 
@@ -112,9 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Medias-Com'S SA |
+| 法定名称 | MEDIAS-COM'S SA（UID CHE-394.326.893；CH-626.3.019.073-4；HR Valais；Place du Village 18, 1978 Lens） |
+| 成立 | 2018-11-02（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Place du Village 18, Case postale 47, 1978 Lens (Valais), Suisse |
-| 其他 | 瓦莱州媒体与传播公司：自研**数字化公交候车亭**（城市家具 + 数字信息屏：班次、旅游/地方资讯），以及传播服务（网站、SEO、社媒、品牌设计、App、视频）——交换机需求来自候车亭/户外信息屏的网络接入（户外柜、宽温） |
+| 其他 | 瓦莱州媒体与传播公司：自研**数字化公交候车亭**（城市家具 + 数字信息屏：班次、旅游/地方资讯），以及传播服务（网站、SEO、社媒、品牌设计、App、视频）——交换机需求来自候车亭/户外信息屏的网络接入（户外柜、宽温）；第 111 批：媒体 / 传播 + 电信转售微型公司（2020 样品单 IM-MC110FE ×2 / IM-FP144FE ×2 后无跟进）→ **集成 25% small，一页纸一次（回访 2020 样品 + 工业 MC / STI-054GP 现价一口价 + CH DAP 买方清关；法语引子，Cordonier 直呼）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：数字化公交候车亭（户外数字标牌 + 网络）；传播/数字营销服务
 - **触达通道（公开）**：网站: https://medias-coms.ch/fr/
@@ -168,6 +187,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Christophe Denis Cordonier | 董事 / 签字权（moneyhouse）= 拍板人（推定 Clients 表「Director Manager」）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971 |
+| Philippe Bonvin | 董事 / 签字权（moneyhouse）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971 |
 | Pascal Jacot | — | admin-dir@medias-coms.ch / client-contact@medias-coms.ch | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

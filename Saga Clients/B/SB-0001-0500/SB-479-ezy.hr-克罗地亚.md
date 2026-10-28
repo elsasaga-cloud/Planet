@@ -78,6 +78,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 111 批（HR · 1 次检索：companywall.hr（EZY Infotech d.o.o.；OIB 79541484681；MBS 070061024；Datum osnivanja 16.05.2002；Income 6.684.29…）+ poslovna.hr（Trgovački sud u Varaždinu；46.51；mali）+ infobiz.fina.hr（Matični broj 01643550）+ ezy.hr/kontakti（Temeljni kapital 830.000,00 kn；Direktor i član uprave Branko Novosel；Zagreb Slavonska avenija 19）+ LinkedIn（11–50；Čakovec；2002）；2026-10-28，2026-10-28 查；https://www.companywall.hr/tvrtka/ezy-infotech-doo/MM17CHn0）：**
+
+- 法定名 / 登记号：EZY Infotech d.o.o.（全称 EZY Infotech društvo s ograničenom odgovornošću za trgovinu；ezy.hr；Ulica Miroslava Krleže 28, 40000 Čakovec + Zagreb Slavonska avenija 19（销售 / 仓）；OIB 79541484681；MBS 070061024；MB 01643550；Trgovački sud Varaždin）— 2002-05-16 成立的克罗地亚 IT 设备分销商（网络 / 光纤 / 无线 / PC 组件；PLANET 在售；MikroTik / Ubiquiti 培训；资本 HRK 830,000）；Direktor Branko Novosel；KP Petra Novosel（Managing Director）、David Dolenec（Product Manager）；11–50 名雇员；收入 ≈€6.68M（companywall）；群发 6 次无回复 · OIB 79541484681 / MBS 070061024 · 状态 **Aktivan** · 成立 2002-05-16 · d.o.o.
+- 行业码 / 经营范围：IT / 网络设备 分销（克罗地亚）
+- 注册地址：Ulica Miroslava Krleže 28, 40000 Čakovec（+ Zagreb）
+- 规模档：中小型（11–50 人）
+- 账目：收入 ≈€6.68M（companywall，年度未取）；—
+- 高管：Branko Novosel — Direktor i član uprave（ezy.hr 法律信息）= 拍板人
+- 高管：Petra Novosel — Managing Director（研究档 KP；petra@）= 收件人
+- 高管：David Dolenec — Product Manager（研究档 KP）= 收件人（抄）
+- 控制人 / 股东：Novosel 家族（推定）
+- **这意味着什么：**
+  - **克罗地亚两城 IT 分销商（€6.7M；在售台系 PLANET、做 MikroTik / Ubiquiti 培训）→ 分销 20%，B BIG，加厚一次（换切口：台系 / MikroTik 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP；克罗地亚 DAP 小起订）；回信 → 次候选升 A**
+  - 稿内不点名 PLANET / MikroTik / Ubiquiti；收件人 Petra（直呼）+ David 抄；发信窗口 Thu 12–14 CET
+- 备注：分销 20%；B BIG 加厚一次；坐实（OIB + MBS + Direktor + 收入）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,16 +134,19 @@ updated: 2026-10-28
 - **【官网快照】EZY Infotech 分销**
   > EZY Infotech d.o.o. ; Distribucija informatičke opreme
   > 来源：https://ezy.hr/（抓取 2026-10-21）
-- **KP**：Petra Novosel（）petra@ezy.hr 〔用户表〕
-- **KP**：David Dolenec（） 〔用户表〕
+- **KP**：Petra Novosel（Managing Director（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28））petra@ezy.hr 〔用户表〕
+- **KP**：David Dolenec（Product Manager（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28）） 〔用户表〕
+- **KP**：Branko Novosel（Direktor i član uprave（ezy.hr 法律信息 / companywall）= 拍板人（第 111 批 官方登记核实 2026-10-28）） 〔https://www.ezy.hr/kontakti〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | EZY Infotech d.o.o.（全称 … za trgovinu；OIB 79541484681；MBS 070061024；Čakovec + Zagreb） |
+| 成立 | 2002-05-16（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 克罗地亚 |
-| 其他 | 官网 ezy.hr，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 ezy.hr，语言 ?，快照状态 ok；角色判定来源：用户表；第 111 批：克罗地亚两城 IT 分销商（收入 ≈€6.68M；在售台系 PoE；做 MikroTik / Ubiquiti 培训）→ **分销 20%，B BIG，加厚一次（台系 / MikroTik 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP；HR DAP 小起订）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 设备分销（网络 / 光纤 / 无线 / PC 组件）
 - **触达通道（公开）**：role: IT 设备分销商（克罗地亚，在售 PLANET）；region: 克罗地亚；contact: prodaja@ezy.hr、petra@ezy.hr
@@ -215,8 +234,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Petra Novosel | — | petra@ezy.hr | 调研核实（公开页） | 用户表 |
-| David Dolenec | — | — | 调研核实（公开页） | 用户表 |
+| Petra Novosel | Managing Director（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28） | petra@ezy.hr | 调研核实（公开页） | 用户表 |
+| David Dolenec | Product Manager（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
+| Branko Novosel | Direktor i član uprave（ezy.hr 法律信息 / companywall）= 拍板人（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.ezy.hr/kontakti |
 
 - **通道建议**：企业邮箱可直发
 

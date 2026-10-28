@@ -83,6 +83,20 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 111 批（CZ · 1 次检索：finmag.cz（ABCtech s.r.o.；IČO 27546624；C 25333/KSHK；základní kapitál 200 000 Kč；vznikla 28. 8. 2008；sídlo Nerudova 742 Česká Skalice；kontaktní adresa Piletická 55/36 Hradec Králové）+ abctech.cz/o-nas（IČ 27546624；DIČ CZ27546624；Jednatel: Jan Hofman；reklamace@abctech.cz）+ firmy.cz（品牌 Mikrotik, Cambium, UBNT, TP-Link, RF Elements, Hikvision, Solarix）+ heureka（Mikrotik, Ubiquiti, Netis, TP-Link, H-tools, Solarix）；2026-10-28，2026-10-28 查；https://www.finmag.cz/obchodni-rejstrik/27546624-abctech-s-r-o）：**
+
+- 法定名 / 登记号：ABCtech s.r.o.（abctech.cz；注册地 Nerudova 742, 552 03 Česká Skalice；门店 / 发货 Piletická 55/36, 500 03 Hradec Králové；IČO 27546624；DIČ CZ27546624；C 25333 KS Hradec Králové）— 2008-08-28 成立的网络设备 / 电子产品网店 + 批发（MikroTik / Ubiquiti / Cambium / TP-Link / Netis / RF Elements / Hikvision / Solarix / Carspa 逆变器；「možnost velkoobchodní spolupráce」；Heureka 1,304 评价）；股本 CZK 200k；jednatel Jan Hofman；表内「同行的，帧田的；也有 TP-Link 的」；群发 8 次无回复 · IČO 27546624 · 状态 **Aktivní** · 成立 2008-08-28 · s.r.o.
+- 行业码 / 经营范围：网络设备网店 + 批发（WISP / MikroTik 渠道）
+- 注册地址：Nerudova 742, 552 03 Česká Skalice（门店 Piletická 55/36, Hradec Králové）
+- 规模档：小型
+- 账目：未取；—
+- 高管：Jan Hofman — jednatel（abctech.cz 法律信息）= 拍板人（收件人 info@ / obchod@ 点名）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **MikroTik / Ubiquiti 渠道网店（提供批发合作）→ 分销 20% small，一页纸一次（换切口：MikroTik / TP-Link 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP + 捷克 DAP 小起订；捷语引子，info@ 点名 Jan Hofman）；再无回声 → 不动**
+  - 稿内不点名 MikroTik / Ubiquiti / TP-Link；发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸一次；坐实（IČO + 卷号 + jednatel）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,14 +130,17 @@ updated: 2026-10-28
 - **【用户表】同行的，帧田的；也有 TP-Link**
   > 同行的 帧田的；也有tplink的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Jan Hofman（jednatel（abctech.cz 法律信息）= 拍板人（info@ / obchod@ 点名）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.abctech.cz/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ABCtech s.r.o.（IČO 27546624；DIČ CZ27546624；C 25333 KS Hradec Králové） |
+| 成立 | 2008-08-28（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 abctech.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+| 其他 | 官网 abctech.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 111 批：Česká Skalice / Hradec Králové 网络渠道网店（提供批发合作）→ **分销 20% small，一页纸一次（换切口：主流品牌价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP + CZ DAP 小起订；捷语引子，点名 Jan Hofman）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：计算机与电子产品网店（网络 / 光伏配件）
 
@@ -227,7 +244,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@abctech.cz / reklamace@abctech.cz | 用户表原值 | Clients/ 表 |
+| Jan Hofman | jednatel（abctech.cz 法律信息）= 拍板人（info@ / obchod@ 点名）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.abctech.cz/ |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -295,7 +312,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Jan,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to the MikroTik CSS610-8P-2S you list, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch from small lots at a lower price point, CE/RoHS — would a budget alternative to the CSS610 sell in your shop?
 

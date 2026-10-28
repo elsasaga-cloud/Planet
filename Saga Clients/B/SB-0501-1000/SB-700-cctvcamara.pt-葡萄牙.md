@@ -78,6 +78,19 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（PT · 1 次检索：cctvcamara.pt 首页 / shop（Rua Aquiles Machado 3A 1900-077 Lisboa；+351 961-626-218 WhatsApp；cctvcamarageral@gmail.com；Switch PoE 类目）+ cctvcamara.pt/about（Somos a filial da Vividview Interconnected Technology Co., Ltd.；empresa-mãe 600 funcionários）；NIPC 未在页面出现；Gmail 联系 → 1 查即停；2026-10-28，2026-10-28 查；https://cctvcamara.pt/about）：**
+
+- 法定名 / 登记号：cctvcamara.pt（CCTVCÂMARA；Rua Aquiles Machado 3A, 1900-077 Lisboa；仅 Gmail cctvcamarageral@gmail.com + WhatsApp）— 自称「Vividview Interconnected Technology Co., Ltd.（Vividview 集团）葡萄牙分支」的 CCTV 网店（IPC / NVR / PoE Switch / 对讲；「20 年葡萄牙市场」）；NIPC 未取；表内「有 ONV 的」；群发 24 次无回复 · 未取（NIPC） · 状态 **未取** · 成立 未取 · 未取（自称外企分支）
+- 行业码 / 经营范围：CCTV 网店（中国厂家葡萄牙分支）
+- 注册地址：Rua Aquiles Machado 3A, 1900-077 Lisboa
+- 规模档：微型
+- 账目：—；—
+- 高管：（无 KP；Gmail）
+- 控制人 / 股东：Vividview（中国厂家；自称）
+- **这意味着什么：**
+  - **中国 CCTV 厂家的葡萄牙门店（同行分支 + Gmail + 24 次无打开）→ 不动**
+- 备注：部分坐实（地址 + 自称母公司；NIPC 未取）→ 不动（同行分支）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,8 +139,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | cctvcamara.pt（CCTVCÂMARA；Lisboa；自称 Vividview Interconnected Technology Co., Ltd. 葡萄牙分支；NIPC 未取；仅 Gmail + WhatsApp） |
+| 成立 | 未取（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 葡萄牙 |
-| 其他 | 官网 cctvcamara.pt，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 cctvcamara.pt，语言 ?，快照状态 ok；角色判定来源：用户表；第 111 批：中国 CCTV 厂家的葡萄牙门店（同行分支；24 次无打开）→ **不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 网店（葡萄牙）
 - **触达通道（公开）**：role: CCTV 网店（葡萄牙，PoE 现 ONV）；region: 葡萄牙；contact: cctvcamarageral@gmail.com

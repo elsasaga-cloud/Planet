@@ -85,6 +85,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 111 批（GE · 1 次检索：bia.ge/EN/Company/4081（Intellcom Group；LLC；VAT Number 202441189；Registration Date 22/02/2008；NAPR；Legal Address Digomi mass. 5 Q. 9 Bldg Apt 71；Tereverko str. 42；Operating）+ yell.ge（legalName შპს ინტელკომ ჯგუფი；taxID 202441189；sale@intellcom.net）+ ui.com 分销商名录（Intellcom Group Ltd.；42 Tereverko Str.）+ uniview.com 合作伙伴（Established in 2008；IT products distribution）+ LinkedIn（11–50；2008）+ tendermonitor（INTELCOM GROUP 406099546 = 他家）；2026-10-28，2026-10-28 查；https://www.bia.ge/EN/Company/4081）：**
+
+- 法定名 / 登记号：შპს ინტელკომ ჯგუფი / Intellcom Group LLC（intellcom.net / intellcom.ge；42 Tereverko St., 0159 Tbilisi（展厅 / 办公 / 服务 / 仓；法定地址 Digomi mass. 5 Q. 9 Bldg）；识别码 202441189）— 2008-02-22 登记（NAPR）的格鲁吉亚 IT / 安防 / 供电 / 光网络分销商（**Ubiquiti 官方分销商、Uniview 合作伙伴**；MikroTik 在售；11–50 人）；≠ 同名 INTELCOM GROUP 406099546；KP Ekvtime Kheredinashvili（Head of Product Management）、Samson Khaduri（Head of Procurement）；2025-06-12 工单一次（轻度触达） · 识别码 202441189 · 状态 **Operating** · 成立 2008-02-22 · შპს（LLC）
+- 行业码 / 经营范围：IT / 网络 / 安防 / 供电 分销（Ubiquiti 官方分销）
+- 注册地址：42 Tereverko St., 0159 Tbilisi（法定 Digomi mass. 5 Q. 9 Bldg, Apt 71）
+- 规模档：中小型（11–50 人）
+- 账目：未取；—
+- 高管：Ekvtime Kheredinashvili — Head of Product Management（研究档 KP；ekvtime@）= 收件人
+- 高管：Samson Khaduri — Head of Procurement（研究档 KP；soso@）= 收件人（抄）
+- 高管：（Director 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **格鲁吉亚 Ubiquiti 官方分销商（有产品 + 采购负责人直邮）→ 分销 20%，B BIG，加厚一次（切口：Ubiquiti / MikroTik 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP；格鲁吉亚 DAP 买方清关 + 预付款；英 / 俄文）；回信 → 次候选升 A**
+  - 稿内不点名 Ubiquiti / Uniview / MikroTik；发信窗口 Thu 12–14 GET
+- 备注：分销 20%；B BIG 加厚一次；坐实（识别码 + 登记日 + 分销资质）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,16 +134,18 @@ updated: 2026-10-28
 - **【用户表】MC / Switch 需求 + 具名 KP**
   > MC Switch等；Ekvtime Kheredinashvili / Head of Product Management / Samson Khaduri / Head of Procurement
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ekvtime Kheredinashvili（）ekvtime@intellcom.net 〔用户表〕
-- **KP**：Samson Khaduri（）soso@intellcom.net 〔用户表〕
+- **KP**：Ekvtime Kheredinashvili（Head of Product Management（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28））ekvtime@intellcom.net 〔用户表〕
+- **KP**：Samson Khaduri（Head of Procurement（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28））soso@intellcom.net 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | შპს ინტელკომ ჯგუფი / Intellcom Group LLC（识别码 202441189；NAPR 2008-02-22；42 Tereverko St., Tbilisi）≠ INTELCOM GROUP 406099546 |
+| 成立 | 2008-02-22（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 格鲁吉亚 |
-| 其他 | 官网 intellcom.net，语言 ka，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 intellcom.net，语言 ka，快照状态 ok；角色判定来源：待核；第 111 批：格鲁吉亚 IT / 安防 / 供电分销商（**Ubiquiti 官方分销、Uniview 合作伙伴**；11–50 人；2025-06 工单一次）→ **分销 20%，B BIG，加厚一次（主流品牌价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP；GE DAP 买方清关 + 预付款；英 / 俄文）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：供电 / UPS / 电池；安防系统；LAN & WAN / 光网络；音视频 / 存储
 
@@ -219,8 +237,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ekvtime Kheredinashvili | — | ekvtime@intellcom.net | 调研核实（公开页） | 用户表 |
-| Samson Khaduri | — | soso@intellcom.net | 调研核实（公开页） | 用户表 |
+| Ekvtime Kheredinashvili | Head of Product Management（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28） | ekvtime@intellcom.net | 调研核实（公开页） | 用户表 |
+| Samson Khaduri | Head of Procurement（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28） | soso@intellcom.net | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

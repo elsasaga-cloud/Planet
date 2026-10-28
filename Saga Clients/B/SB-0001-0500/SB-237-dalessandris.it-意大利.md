@@ -87,6 +87,19 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（IT · 1 次检索：dalessandris.it 页脚（Dales srl；Corso Giacomo Matteotti n°78 73054 Presicce-Acquarica (LE)；P.I. 04273690752；D'Alessandris Group 52 anni）+ misterimprese（D'ales S.r.l. Acquarica del Capo；P.IVA 04273690752；2010；18 dipendenti；ferramenta）+ web.tiscali.it/dalessandris（1970 Giovanni D'Alessandris；termoidraulica）+ ufficiocamerale（D'ALESSANDRIS S.R.L. Supino 02452850601 = 不动产公司，≠）；2026-10-28，2026-10-28 查；https://www.dalessandris.it/）：**
+
+- 法定名 / 登记号：Dales srl（D'ales S.r.l.；站点 dalessandris.it「D'Alessandris Group」；Corso Giacomo Matteotti 78, 73054 Presicce-Acquarica (LE)；P.IVA 04273690752）— 2010 年成立的暖通 / 锅炉 / 光伏 / 电气材料 / 五金批发零售商（集团 1970 起；18 名雇员）；网店兼售 Shelly 等智能家居 / 少量 CCTV；≠ 同名 D'ALESSANDRIS S.R.L. Supino (FR) 02452850601（不动产）；表内「商业 PoE Hisource 的，主要是 CCTV」；群发 13 次无回复 · P.IVA 04273690752 · 状态 **Attiva** · 成立 2010 · S.r.l.
+- 行业码 / 经营范围：暖通 / 光伏 / 电气材料 / 五金 批发零售
+- 注册地址：Corso Giacomo Matteotti 78, 73054 Presicce-Acquarica (LE)
+- 规模档：小型（18 人）
+- 账目：未取；—
+- 高管：（未取；D'Alessandris 家族）— 收件人 info@dalessandris.it
+- 控制人 / 股东：D'Alessandris 家族（推定）
+- **这意味着什么：**
+  - **暖通 / 光伏 / 五金商（网络仅附带类目）→ 非目标行业 → 不动**
+- 备注：不动（非目标行业）；坐实（P.IVA 页脚 + 名录）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -139,8 +152,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Dales srl（D'ales S.r.l.；站点 dalessandris.it「D'Alessandris Group」；P.IVA 04273690752；Presicce-Acquarica (LE)）≠ D'ALESSANDRIS S.R.L. Supino 02452850601 |
+| 成立 | 2010（集团 1970）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 dalessandris.it，语言 it，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 dalessandris.it，语言 it，快照状态 ok；角色判定来源：用户表；第 111 批：暖通 / 锅炉 / 光伏 / 电气材料 / 五金批发零售商（18 人；网络仅附带类目）→ **非目标行业 → 不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：暖通 / 光伏 / 智能家居网店（意大利）
 - **触达通道（公开）**：role: 暖通/光伏网店（兼售 CCTV/PoE，意大利）；region: 意大利；contact: info@dalessandris.it

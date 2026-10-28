@@ -86,6 +86,20 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（CY · 1 次检索：elekora.com（K.N. Electrologic Services Lim；22 Lefkosias Street Ftelehas & Argyrides 17 1st Floor Office 103 Strovolos；Company Registration Number 251241）+ resecfund.org.cy A3 名录（K.N. ELECTROLOGIC SERVICES LIMITED；VAT 10251241W；pv@electrologicservices.com）+ plumettaz.com 分销商页（KN ELECTROLOGIC SERVICES LTD；Cyprus / Greece；22 Lefkosias 2018 Strovolos）+ LinkedIn Nikolas Konomou（Director KN Electrologic Services ltd Jun 2009 – Present；Electrical Engineer）；2026-10-28，2026-10-28 查；https://elekora.com/product/kn-electrologic-services-lim/）：**
+
+- 法定名 / 登记号：K.N. ELECTROLOGIC SERVICES LIMITED（KN Electrologic Services Ltd；electrologicservices.com；22 Lefkosias Street, 1st Floor, Office 103, 2018 Strovolos, Nicosia；HE 251241；VAT 10251241W）— 2009 年起的电气工程承包商（光伏安装 RES 基金 A3 类登记商；Plumettaz 光缆敷设设备塞浦路斯 + 希腊分销）；Director Nikolas Konomou（Electrical Engineer，= 研究档 KP；2009-06 起）；表内「管理交换机 HDMI 转网带 USB」；群发 21 次无回复；官网 timeout · HE 251241 / VAT 10251241W · 状态 **未取（推定在册）** · 成立 ≈2009（HE 号段；LinkedIn 2009-06） · Ltd
+- 行业码 / 经营范围：电气工程承包 / 光伏安装 / 光缆敷设设备分销
+- 注册地址：22 Lefkosias Street, Office 103, 2018 Strovolos, Nicosia
+- 规模档：微型
+- 账目：—（无公开账）；—
+- 高管：Nikolas Konomou — Director（LinkedIn；研究档 KP info@）= 拍板人 / 收件人
+- 控制人 / 股东：Nikolas Konomou（推定）
+- **这意味着什么：**
+  - **电气 / 光伏承包商（网络非主业；21 次无打开）→ 集成 25% small，一页纸一次（切口：楼宇 / 光伏场站监控的 PoE 配套 STC-028GP / STI-054GP + MOQ 1 + 塞浦路斯 DAP；英文，Nikolas 直呼）；再无回声 → 不动**
+  - 发信窗口 Thu 12–14 EET
+- 备注：集成 25% small；一页纸一次；坐实（HE + VAT + Director）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,15 +126,17 @@ updated: 2026-10-28
 - **【用户表】管理交换机 HDMI 转网带 USB**
   > 管理交换机 HDMI转网带USB
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Nikolas Konomou（）info@electrologicservices.com 〔用户表〕
+- **KP**：Nikolas Konomou（Director（LinkedIn 2009-06 起；Electrical Engineer）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28））info@electrologicservices.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | K.N. ELECTROLOGIC SERVICES LIMITED（HE 251241；VAT 10251241W；Strovolos, Nicosia） |
+| 成立 | ≈2009（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 塞浦路斯 |
-| 其他 | 官网 electrologicservices.com，语言 ?，快照状态 timeout；角色判定来源：待核 |
+| 其他 | 官网 electrologicservices.com，语言 ?，快照状态 timeout；角色判定来源：待核；第 111 批：电气工程 / 光伏承包商（Plumettaz CY + GR 分销；网络非主业；21 次无打开）→ **集成 25% small，一页纸一次（楼宇 / 光伏场站监控的 PoE 配套 STC-028GP / STI-054GP + MOQ 1 + CY DAP；英文，Nikolas 直呼）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气工程服务（塞浦路斯）
 - **触达通道（公开）**：role: 电气工程承包商（塞浦路斯）；region: 塞浦路斯；contact: info@electrologicservices.com
@@ -215,7 +231,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nikolas Konomou | — | info@electrologicservices.com | 调研核实（公开页） | 用户表 |
+| Nikolas Konomou | Director（LinkedIn 2009-06 起；Electrical Engineer）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28） | info@electrologicservices.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 21 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

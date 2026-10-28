@@ -83,6 +83,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 111 批（IT · 1 次检索：ufficiocamerale（ETER BIOMETRIC TECHNOLOGIES SRL；Rea 250476；PEC eterbiometric@pec.it；Fatturato € 3.950.301 (2024)；Dipendenti 12 (2026)；Iscrizione 15/07/2004；Utile € 54.098；Capitale € 10.000；CamCom RE）+ fatturatoitalia（P.IVA 02089510354；RE 250476；46.51）+ aziende.money.it（ricavi 2022–2024 €3.46M → €3.55M → €3.97M 总额；EBITDA €154k）+ topaziende（2019–2024 €2.39M → €3.95M）+ secsolution.com 2024-08-13（Marcello Canali vende la sua quota ad Andrea Giacobazzi → titolare unico）+ aeroleads（a.giacobazzi@eter.it Owner）；2026-10-28，2026-10-28 查；https://www.ufficiocamerale.it/5541/eter-biometric-technologies-srl）：**
+
+- 法定名 / 登记号：ETER BIOMETRIC TECHNOLOGIES SRL（eter.it；Rubiera (RE)；P.IVA / CF 02089510354；REA RE-250476；股本 €10,000；PEC eterbiometric@pec.it）— 2004 年登记（iscrizione 2004-02-11 / 07-15）的门禁 / 考勤 / 生物识别 / 消防探测分销 + 集成商（ATECO 46.51；Suprema 终端、Hochiki 探测器、HR 系统）；12 名雇员；2024 营收 €3.95M（+12.3%）、净利 €54k、EBITDA €154k；2024-08 老股东 Marcello Canali 将股份售予 Andrea Giacobazzi → **Giacobazzi 为唯一所有人 + CEO**（= 研究档 KP，a.giacobazzi@）；表内「介绍了 bypass 和接线图，让邮件发信息」；5 次跟进无回复（仅自动回复） · P.IVA 02089510354 / REA RE-250476 · 状态 **Attiva** · 成立 2004-02-11（登记 2004-07-15） · S.r.l.（单一股东）
+- 行业码 / 经营范围：门禁 / 考勤 / 生物识别 / 消防探测 分销 + 集成（雷焦艾米利亚）
+- 注册地址：Rubiera (RE)（街道未取）
+- 规模档：小型（12 人）
+- 账目：2024 营收 €3,950,301 / 净利 €54,098（2019 €2.39M → 2024，连年增长）；—
+- 高管：Andrea Giacobazzi — CEO & founder，2024-08 起唯一所有人（secsolution；研究档 KP a.giacobazzi@）= 拍板人 / 收件人
+- 高管：Marcello Canali — 原股东（2024-08 退出）
+- 控制人 / 股东：Andrea Giacobazzi（100%，2024-08 起）
+- **这意味着什么：**
+  - **连年增长的门禁 / 消防集成商、CEO 本人曾要资料（bypass + 接线图）→ 集成 25% small，加厚一次（切口：门禁 / 考勤终端 + 消防网络的 PoE 供电 STC-028GP / STI-054GP / STI-144GP + 旁路需求回访，直发 Andrea、一问「bypass 还在议程上吗」；意语引子）；回信 → 次候选**
+  - 稿内不点名 Suprema / Hochiki；发信窗口 Thu 12–14 CET；5 封来信皆自动回复 → 此次换主题、直呼其名
+- 备注：集成 25% small；加厚一次；坐实（P.IVA + REA + 营收 + 所有权变更）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,15 +141,17 @@ updated: 2026-10-28
 - **【用户表】bypass 接线图 让邮件发信息**
   > 介绍了bypass和接线图，大概懂，让邮件发给他信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Andrea Giacobazzi（）a.giacobazzi@eter.it 〔用户表〕
+- **KP**：Andrea Giacobazzi（CEO & founder；2024-08 起唯一所有人（secsolution：Marcello Canali 售股）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28））a.giacobazzi@eter.it 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ETER BIOMETRIC TECHNOLOGIES SRL（P.IVA / CF 02089510354；REA RE-250476；Rubiera (RE)；单一股东） |
+| 成立 | 2004-02-11（登记 2004-07-15）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 eter.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 eter.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 111 批：门禁 / 考勤 / 消防探测分销 + 集成商（12 人；2024 营收 €3.95M，2019 起连年增长）；CEO 本人曾索 bypass + 接线图资料 → **集成 25% small，加厚一次（门禁 / 消防网络的 PoE 供电 STC-028GP / STI-054GP / STI-144GP + 旁路需求回访，直发 Andrea 一问；意语引子）；回信 → 次候选**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：门禁 / 考勤 / 火灾探测 / HR 系统集成（意大利）
 - **触达通道（公开）**：role: 门禁/消防系统集成商（意大利，bypass 需求）；region: 意大利；contact: a.giacobazzi@eter.it、info@eter.it
@@ -227,7 +244,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Andrea Giacobazzi | — | a.giacobazzi@eter.it | 调研核实（公开页） | 用户表 |
+| Andrea Giacobazzi | CEO & founder；2024-08 起唯一所有人（secsolution：Marcello Canali 售股）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28） | a.giacobazzi@eter.it | 调研核实（公开页） | 用户表 |
 | Ing. Andrea Giacobazzi | — | a.giacobazzi@eter.it / info@eter.it / +393356671667 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

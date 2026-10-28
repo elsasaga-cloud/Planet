@@ -83,6 +83,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 111 批（NO · 1 次检索：proff.no（Melbye Skandinavia Norge AS；Org nr 941 009 697；Juridisk navn MELBYE AS；Registreringsdato 19.02.1995；Stiftelsesdato 26.05.1986；Antall ansatte 48；NACE 46.640；Daglig leder Hege Nordahl；Aksjekapital 1 160；Del av Melbye Group AS）+ gulesider（Omsetning 342 158 tkr；74 ansatte）+ 1881.no（Styrets leder / Daglig leder Hege Nordahl；Styremedlem Kim Edvardsen；Aksjonærer Melbye Group AS 100%）+ proff aksjonærer（Resultat før skatt 2025 30 539' NOK）+ melbye.no/om-oss（≈115 medarbeidere；Sverige / Storbritannia / Asia）+ no.wikipedia（1907；Hege Nordahl adm.dir.）；2026-10-28，2026-10-28 查；https://www.proff.no/selskap/melbye-skandinavia-norge-as/skedsmokorset/grossister/IFK93Q910NS）：**
+
+- 法定名 / 登记号：MELBYE AS（商号 Melbye Skandinavia Norge AS；melbye.no / melbyefiber.com；Prost Stabels vei 22, 2019 Skedsmokorset；org.nr 941 009 697；Melbye Group AS 100% 子公司，集团 1907 创立）— 1986-05-26 成立的北欧关键基础设施方案供应商（电力 / 数据 / 光纤 / 移动 / 楼宇 / 安防；自产 + 分销；中央仓 Skedsmokorset + Jönköping；员工瑞典 / 英国 / 亚洲；EcoVadis 金级）；Daglig leder + styreleder Hege Nordahl；48–74 名雇员（集团 ≈115）；营业额 NOK 342M（≈€29M）；2025 税前利润 NOK 30.5M；KP Amber Miller（Customer & Logistics Coordinator，melbye.com）；表内「用的 AOA 的」；2 封自动回复；退信 te@melbye.com · org.nr 941 009 697 · 状态 **Aktivt** · 成立 1986-05-26 · AS（Melbye Group AS 100%）
+- 行业码 / 经营范围：关键基础设施 / 光纤 / 电力 / 安防 方案供应商（自产 + 分销）
+- 注册地址：Prost Stabels vei 22, 2019 Skedsmokorset
+- 规模档：中型（48–74 人；集团 ≈115）
+- 账目：营业额 NOK 342.2M；2025 税前利润 NOK 30.5M；—
+- 高管：Hege Nordahl — Daglig leder / Styrets leder（proff / 1881）= 拍板人
+- 高管：Kim Edvardsen — Styremedlem
+- 高管：Amber Miller — Customer and Logistics Coordinator（研究档 KP；amm@melbye.com）= 现有收件人（非决策）
+- 控制人 / 股东：Melbye Group AS（100%；HCA Melbye AS + Melbye-Larsen Invest AS）
+- **这意味着什么：**
+  - **自有品牌光纤 / 基础设施产品 + NOK 342M 规模 → 贴标 / 配套 30% 目标，B BIG，加厚一次（换切口：光纤到边缘的配套 PoE / 工业交换机 STC-028GP / STC-228GP / STI-054GP / STI-144GP / STI-288DGGPM，可贴 Melbye 标 + 中性包装；挪威非欧盟 DAP 买方清关）；收件人改为产品 / 采购负责人（Amber 为物流协调员，非决策）；回信 → 次候选升 A**
+  - 稿内不点名 AOA；发信窗口 Thu 12–14 CET；te@melbye.com 已退信，不再用
+- 备注：贴标 / 配套 30% 目标；B BIG 加厚一次；坐实（org.nr + 法定名 + 营业额 + 管理层）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,15 +142,18 @@ updated: 2026-10-28
 - **【用户表】用的 AOA 的**
   > 用的AOA的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Amber Miller（）amm@melbye.com 〔用户表〕
+- **KP**：Amber Miller（Customer and Logistics Coordinator（研究档；非决策）= 请转产品 / 采购负责人（第 111 批 官方登记核实 2026-10-28））amm@melbye.com 〔用户表〕
+- **KP**：Hege Nordahl（Daglig leder / Styrets leder（proff / 1881）= 拍板人（第 111 批 官方登记核实 2026-10-28）） 〔https://www.proff.no/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MELBYE AS（商号 Melbye Skandinavia Norge AS；org.nr 941 009 697；Melbye Group AS 100%；Skedsmokorset） |
+| 成立 | 1986-05-26（集团 1907）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 挪威 |
-| 其他 | 官网 melbyefiber.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 melbyefiber.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 111 批：自有品牌光纤 / 基础设施产品商（48–74 人；营业额 NOK 342M；2025 税前 NOK 30.5M；te@ 已退信）→ **贴标 / 配套 30% 目标，B BIG，加厚一次（光纤到边缘的配套 PoE / 工业交换机 STC-028GP / STC-228GP / STI-054GP / STI-144GP / STI-288DGGPM，可贴 Melbye 标；NO 非欧盟 DAP 买方清关）；收件人改产品 / 采购负责人；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤方案（光缆 / 配线 / MC / 工业网络配套）
 - **触达通道（公开）**：role: 光纤方案供应商（北欧/英国，MC 与工业交换机为配套）；region: 挪威；contact: kontakt@melbye.no、amm@melbye.com
@@ -229,7 +248,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Amber Miller | — | amm@melbye.com | 调研核实（公开页） | 用户表 |
+| Amber Miller | Customer and Logistics Coordinator（研究档；非决策）= 请转产品 / 采购负责人（第 111 批 官方登记核实 2026-10-28） | amm@melbye.com | 调研核实（公开页） | 用户表 |
+| Hege Nordahl | Daglig leder / Styrets leder（proff / 1881）= 拍板人（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.proff.no/ |
 
 - **通道建议**：企业邮箱可直发
 

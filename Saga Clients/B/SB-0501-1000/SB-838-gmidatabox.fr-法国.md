@@ -81,6 +81,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 111 批（FR · 1 次检索：pappers.fr（GMI DATABOX；320 290 190；Active；32 RUE DE TOURNENFILS 91540 MENNECY；Commerce de gros de composants et d'équipements électroniques；Effectif 6–9 (2022)；Création 18/11/1980；Dirigeant Bugnet Robert；SAS；TVA FR28320290190；clôture 30/09）+ manageo（Capital 182 938 €；Robert Gérard José BUGNET；CA 1 589 859 € (2025)）+ verif（Président；CA 1 174 231 € bilan 30/09/2023）+ gmidatabox.fr/gmi-databox（Fondée en 1980；fabricant et distributeur；Mennecy；R&D / labo）+ locale.online（品牌 Moxa, CTC union, Patton, Garrettcom, Winmate, Telebyte, Icron, AKCP）；2026-10-28，2026-10-28 查；https://www.pappers.fr/entreprise/gmi-databox-320290190）：**
+
+- 法定名 / 登记号：GMI DATABOX SAS（原 SARL；gmidatabox.fr；32 rue de Tournenfils, 91540 Mennecy；SIREN 320 290 190；RCS Évry；TVA FR28320290190）— 1980-11-18 成立的工业通信 / 电信 / 数据中心基础设施增值分销商 + 制造商（Moxa / CTC Union / Patton / GarrettCom / Winmate 等；DAXTEN 法国独家；自产机柜封闭 / 监控方案；1,000+ 客户）；Président Robert Gérard José Bugnet；6–9 名雇员；资本 €182,938；CA 2025 €1.59M（FY 09-30；2023 €1.17M）；表内 ventes@；群发 8 次无回复；官网快照 timeout · SIREN 320 290 190 · 状态 **Active** · 成立 1980-11-18 · SAS（原 SARL）
+- 行业码 / 经营范围：工业通信 / 电信 / 数据中心基础设施 增值分销 + 制造
+- 注册地址：32 rue de Tournenfils, 91540 Mennecy
+- 规模档：小型（6–9 人）
+- 账目：CA 2025 €1,589,859（2023 €1,174,231）；FY 09-30
+- 高管：Robert Gérard José Bugnet — Président（pappers / verif）= 拍板人 / 收件人（ventes@ 点名）
+- 控制人 / 股东：Robert Bugnet（推定）
+- **这意味着什么：**
+  - **老牌工业通信 VAD（台系 / Moxa 价位带）→ 分销 20% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作第二价位 + 3 年保 + 法国 DAP；法语引子，ventes@ 点名 M. Bugnet）；有回声再加厚**
+  - 稿内不点名 Moxa / CTC Union / Patton；只提工业 / 能源 / 楼宇，不提轨交；发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸一次；坐实（SIREN + Président + CA）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,14 +132,17 @@ updated: 2026-10-28
 - **【用户表】三旺 Moxa 等有名牌子**
   > 3旺 moxa等比较有名的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Robert Bugnet（Président（pappers / verif；全名 Robert Gérard José Bugnet）= 拍板人 / 收件人（ventes@ 点名）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.pappers.fr/entreprise/gmi-databox-320290190〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | GMI DATABOX SAS（原 SARL；SIREN 320 290 190；RCS Évry；TVA FR28320290190） |
+| 成立 | 1980-11-18（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 法国 |
-| 其他 | 官网 gmidatabox.fr，语言 ?，快照状态 timeout；角色判定来源：待核 |
+| 其他 | 官网 gmidatabox.fr，语言 ?，快照状态 timeout；角色判定来源：待核；第 111 批：Mennecy (91) 老牌工业通信 / 数据中心增值分销商（6–9 人；CA 2025 €1.59M）→ **分销 20% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作第二价位 + 3 年保 + FR DAP；法语引子）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络产品分销（法国）
 - **触达通道（公开）**：role: 工业网络分销商（法国，3onedata/Moxa）；region: 法国；contact: ventes@gmidatabox.fr
@@ -207,7 +224,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | ventes@gmidatabox.fr | 用户表原值 | Clients/ 表 |
+| Robert Bugnet | Président（pappers / verif；全名 Robert Gérard José Bugnet）= 拍板人 / 收件人（ventes@ 点名）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.pappers.fr/entreprise/gmi-databox-320290190 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -277,7 +294,7 @@ updated: 2026-10-28
 **主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Robert,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?
 

@@ -88,6 +88,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（LT · 1 次检索：pyramid.lt/en/about-pyramid/contacts（UAB Enzas；Company code 303005607；VAT LT100009310917；Ukmergės street 219 Vilnius；shop Akropolis Ozo 25；EN, RU, LT）+ info.lt（Direktorius Arūnas Ramonas；Registracijos data 2013.02.21；10 darbuotojų）+ kaina24（9 darbuotojai）+ rekvizitai.vz.lt/en/company/enzas（founded 2013-02-21；1 shareholder individual；video surveillance systems）+ varle.lt 卖家页（UAB "Enzas" 303005607；品牌 Pyramid PYR-SH200XF 摄像机）；2026-10-28，2026-10-28 查；https://rekvizitai.vz.lt/en/company/enzas/）：**
+
+- 法定名 / 登记号：UAB „Enzas“（商号 Pyramid.lt / Pyramid Electronics；pyramid.lt / pyramid-electronics.com；Ukmergės g. 219-1, LT-07152 Vilnius + 门店 Akropolis Ozo g. 25；įmonės kodas 303005607；PVM LT100009310917）— 2013-02-21 成立的监控 / 安防 / 对讲 / 门禁 / 网络设备网店 + 门店（Hikvision / Dahua / Ajax；**自有品牌 Pyramid 摄像机 PYR-SH200X 系列**；EN / RU / LT 服务；1 名自然人股东）；Direktorius Arūnas Ramonas（= 研究档 KP）；9–10 名雇员；KP Mattheos Dimitras（Business Manager）；表内「卖 Longse 的」；群发 24 次无回复 · įmonės kodas 303005607 · 状态 **Veikianti** · 成立 2013-02-21 · UAB
+- 行业码 / 经营范围：安防 / 监控 网店 + 门店（自有品牌 Pyramid 摄像机）
+- 注册地址：Ukmergės g. 219-1, LT-07152 Vilnius
+- 规模档：小型（9–10 人）
+- 账目：未取（rekvizitai 可取，未展开）；—
+- 高管：Arūnas Ramonas — Direktorius（info.lt / rekvizitai）= 拍板人 / 收件人（研究档 KP arunas@）
+- 高管：Mattheos Dimitras — Business Manager（研究档 KP）= 收件人（抄）
+- 控制人 / 股东：1 名自然人股东（推定 Ramonas）
+- **这意味着什么：**
+  - **已有自有品牌 Pyramid 摄像机 → 贴标 30% small，一页纸一次（切口：Pyramid 品牌 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP 配自家摄像机套件，中性包装 + 自编货号；英 / 俄文引子，Arūnas 直呼）；有回声再加厚**
+  - 稿内不点名 Longse / Hikvision / Dahua；发信窗口 Thu 12–14 EET
+- 备注：贴标 30% small；一页纸一次；坐实（kodas + PVM + Direktorius）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -137,16 +152,18 @@ updated: 2026-10-28
 - **【用户表】商业 PoE 及周边，卖 Longse 的**
   > 商业PoE及周边产品；卖Longse的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Arunas Ramonas（）arunas@pyramid.lt 〔用户表〕
-- **KP**：Mattheos Dimitras（）info@pyramid-electronics.com 〔用户表〕
+- **KP**：Arunas Ramonas（Direktorius（info.lt / rekvizitai）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28））arunas@pyramid.lt 〔用户表〕
+- **KP**：Mattheos Dimitras（Business Manager（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28））info@pyramid-electronics.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | UAB „Enzas“（商号 Pyramid.lt / Pyramid Electronics；įmonės kodas 303005607；PVM LT100009310917；Vilnius） |
+| 成立 | 2013-02-21（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 立陶宛 |
-| 其他 | 官网 pyramid.lt，语言 lt-LT，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 pyramid.lt，语言 lt-LT，快照状态 ok；角色判定来源：待核；第 111 批：监控 / 安防网店 + 门店（9–10 人；**自有品牌 Pyramid 摄像机 PYR-SH200X**；EN / RU / LT）→ **贴标 30% small，一页纸一次（Pyramid 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP 配自家摄像机套件，中性包装 + 自编货号；英 / 俄文引子，Arūnas 直呼）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防设备网店（摄像机 / 报警 / 对讲 / 网络）
 - **触达通道（公开）**：role: 安防网店/分销（立陶宛，Longse / Hikvision）；region: 立陶宛；contact: info@pyramid-electronics.com、arunas@pyramid.lt
@@ -251,8 +268,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arunas Ramonas | — | arunas@pyramid.lt | 调研核实（公开页） | 用户表 |
-| Mattheos Dimitras | — | info@pyramid-electronics.com | 调研核实（公开页） | 用户表 |
+| Arunas Ramonas | Direktorius（info.lt / rekvizitai）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28） | arunas@pyramid.lt | 调研核实（公开页） | 用户表 |
+| Mattheos Dimitras | Business Manager（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28） | info@pyramid-electronics.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

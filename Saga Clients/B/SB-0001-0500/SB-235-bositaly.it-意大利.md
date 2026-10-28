@@ -90,6 +90,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（IT · 1 次检索：ufficiocamerale（BOS ITALY S.R.L.；P.IVA 03576140242；VIA CHIESA 22 VAL LIONA (VI)；REA 336327；PEC amministrazione@pec.borinatosecurity.it；Fatturato € 2.540.176 (2024)；Dipendenti 8 (2026)；Iscrizione 02/11/2009；Utile € 2.296）+ aziende.it（URL borinato-security-s-r-l；Capitale 200.000；ATECO 46.50.2）+ bositaly.it/azienda（Registro Imprese Vicenza VI336327；Cap. versato 200.000 €；Socio unico）+ bositaly.it/home（ONVIF member；BOS 摄像机 Profile M）+ /ti-presentiamo-i-distributori（分销商 Security Planet）+ confindustria.vicenza（ATECO 46.43.10 / 46.52.09；营收段 0.5–2.5M）；2026-10-28，2026-10-28 查；https://www.ufficiocamerale.it/8040/bos-italy-srl）：**
+
+- 法定名 / 登记号：BOS ITALY S.R.L.（原 Borinato Security S.r.l.，PEC 仍用 borinatosecurity.it；bositaly.it；Via Chiesa 22, 36044 Val Liona (VI)；P.IVA / CF 03576140242；REA VI-336327；socio unico；股本 €200,000）— 2009-11-02 登记的自有品牌视频监控 / 网络设备品牌商（BOS 摄像机 ONVIF 会员、Profile S/G/T/M；经分销商 Security Planet 等销售；poe / switch / industrial 类目）；8 名雇员（2026）；2024 营收 €2.54M、净利 €2,296；表内「工业 FS，Hasivo 的」「可多跟进」；群发 13 次无回复 · P.IVA 03576140242 / REA VI-336327 · 状态 **Attiva** · 成立 2009-11-02 · S.r.l.（socio unico）
+- 行业码 / 经营范围：自有品牌视频监控 / 网络设备 品牌商（经分销商销售）
+- 注册地址：Via Chiesa 22, 36044 Val Liona (VI)
+- 规模档：小型（8 人）
+- 账目：2024 营收 €2,540,176 / 净利 €2,296；人工成本 €344k；—
+- 高管：（未取；Borinato 家族推定）— 收件人 info@bositaly.it
+- 控制人 / 股东：socio unico（未取）
+- 曾用名：Borinato Security S.r.l.（推定，PEC 域 + aziende.it URL）
+- **这意味着什么：**
+  - **自有品牌 BOS 摄像机（ONVIF 会员）+ 自有 poe / switch 类目、走分销商渠道 → 贴标 OEM 30% 目标，B，加厚 small 一次（换切口：BOS 品牌 PoE 交换机整线贴标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP；中性包装 + 自编货号 + 3 年保可谈）；回信 → 次候选升 A**
+  - 稿内不点名 Hasivo；收件人 info@（无具名 KP，先问「chi segue gli acquisti switch」一个问题）；发信窗口 Thu 12–14 CET
+- 备注：贴标 30% 目标；B 加厚 small；坐实（P.IVA + REA + 营收）；KP 未取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,16 +141,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS Hasivo 的；可以尝试多跟进一下**
   > 兴趣：工业FS Hasivo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（未具名）（）info@bositaly.it +39 0444 868678〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（未具名）（公司公开信箱（KP 未取；Borinato 家族推定）= 收件人，一问产品负责人（第 111 批 官方登记核实 2026-10-28））info@bositaly.it +39 0444 868678〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Bos Italy S.r.l. |
+| 法定名称 | BOS ITALY S.R.L.（原 Borinato Security S.r.l.；P.IVA / CF 03576140242；REA VI-336327；socio unico） |
+| 成立 | 2009-11-02（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Vicenza, Italy（+39 0444） |
-| 其他 | 已售 Hasivo 工业 FS |
+| 其他 | 已售 Hasivo 工业 FS；第 111 批：Val Liona (VI) 自有品牌 BOS 摄像机（ONVIF 会员）+ 自有 poe / switch 类目、走分销商渠道（8 人；2024 营收 €2.54M）→ **贴标 OEM 30% 目标，B，加厚 small 一次（BOS 标 PoE 整线 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP；中性包装 + 自编货号 + 3 年保）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / 安防分销
 - **触达通道（公开）**：role: 分销商（已售中国同行）；region: 意大利

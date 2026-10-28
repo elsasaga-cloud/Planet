@@ -89,6 +89,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（IT · 1 次检索：ufficiocamerale（SICURTECNICA S.R.L.；P.IVA 01400990634；VIA CAMPEGNA 135 NAPOLI；REA 307645；Fatturato € 768.616 (2025)；Dipendenti 3 (2026)；Iscrizione 05/07/1988；Utile € -7.985；Capitale € 10.400）+ paginebianche（1980 起；unica sede via Campegna）+ paginemail（guidata da Francesco De Gennaro；1980 costituisce la SICURTECNICA SRL）+ antifurtisicurtecnicanapoli.it/prodotti（rivenditore autorizzato Aritech / Carrier）+ LinkedIn（2–10 人；1982）；2026-10-28，2026-10-28 查；https://www.ufficiocamerale.it/3151/sicurtecnica-srl）：**
+
+- 法定名 / 登记号：SICURTECNICA S.R.L.（sicurtecnicanapoli.it / antifurtisicurtecnicanapoli.it；Via Campegna 135, 80124 Napoli；P.IVA / CF 01400990634；REA NA-307645）— 1980 创立、1988-07-05 登记的那不勒斯安防系统分销 / 咨询 / 设计商（Aritech / TruVision (Carrier) 授权经销、UNV / Safire / Crow / Ruijie；创始人 Francesco De Gennaro）；3 名雇员（2026）；2025 营收 €768.6k、亏损 −€7,985；股本 €10,400；KP Arena Enzo（Tecnico）；表内「Utepo 的工商业交换机」；群发 13 次无回复 · P.IVA 01400990634 / REA NA-307645 · 状态 **Attiva** · 成立 1988-07-05（创立 1980） · S.r.l.
+- 行业码 / 经营范围：安防系统 分销 / 咨询 / 设计（那不勒斯）
+- 注册地址：Via Campegna 135, 80124 Napoli (NA)
+- 规模档：微型（3 人）
+- 账目：2025 营收 €768,616 / 亏损 −€7,985；—
+- 高管：Francesco De Gennaro — 创始人 / 负责人（paginemail 名录；职务未取）= 拍板人（抄）
+- 高管：Arena Enzo — Tecnico（研究档 KP；info@）= 收件人
+- 控制人 / 股东：De Gennaro 家族（推定）
+- **这意味着什么：**
+  - **微型安防经销（3 人、亏损、已上架 Utepo）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配 IP 摄像机套件一口价 + MOQ 1 + 预付款；意语引子，info@ 点名 Enzo）；再无回声 → 不动**
+  - 稿内不点名 Utepo / Aritech；发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸一次；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,15 +147,18 @@ updated: 2026-10-28
 - **【用户表】Utepo 的工商业交换机**
   > Utepo的工商业交换机；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Arena Enzo（）info@sicurtecnicanapoli.it 〔用户表〕
+- **KP**：Arena Enzo（Tecnico（研究档）= 收件人（info@ 点名）（第 111 批 官方登记核实 2026-10-28））info@sicurtecnicanapoli.it 〔用户表〕
+- **KP**：Francesco De Gennaro（创始人 / 负责人（paginemail 名录；职务未取，待证）= 拍板人（抄）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.ufficiocamerale.it/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SICURTECNICA S.R.L.（P.IVA / CF 01400990634；REA NA-307645） |
+| 成立 | 1988-07-05（创立 1980）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 sicurtecnicanapoli.it，语言 it-IT，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 sicurtecnicanapoli.it，语言 it-IT，快照状态 ok；角色判定来源：待核；第 111 批：那不勒斯微型安防经销（3 人；2025 营收 €769k 微亏）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP 配 IP 摄像机套件一口价 + MOQ 1 + 预付款；意语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防产品经销（CCTV / 入侵 / 网络）
 - **触达通道（公开）**：role: 安防经销网店（意大利，Utepo 工商业 FS 在售）；region: 意大利；contact: info@sicurtecnicanapoli.it
@@ -238,7 +256,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arena Enzo | — | info@sicurtecnicanapoli.it | 调研核实（公开页） | 用户表 |
+| Arena Enzo | Tecnico（研究档）= 收件人（info@ 点名）（第 111 批 官方登记核实 2026-10-28） | info@sicurtecnicanapoli.it | 调研核实（公开页） | 用户表 |
+| Francesco De Gennaro | 创始人 / 负责人（paginemail 名录；职务未取，待证）= 拍板人（抄）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.ufficiocamerale.it/ |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

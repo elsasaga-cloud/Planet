@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 111 批（EE · 1 次检索：e-krediidiinfo.ee（NETWORK BUSINESS SOLUTIONS OÜ；Registrikood 11338038；Vesse tn 9a Tallinn 11415；Asutatud 09.01.2007；Põhikapital 2 550 EUR；46511；Endised ärinimed OSAÜHING ANGELMONT 09.01.2007–19.02.2007）+ inforegister.ee（Prognooskäive 2024 ~ 0 EUR；Bilansimaht 46 467 EUR；2024 I kvartalis ei ole registreeritud töötajaid；KMKR EE101131030 02.04.2007 → lõpp 15.05.2023；Kasusaajad Dmitri Simonov 20.09.2018 – …；Kohtulahendid 2）+ 16366.ee（Magdaleena 3；5027651）；2026-10-28，2026-10-28 查；https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU）：**
+
+- 法定名 / 登记号：NETWORK BUSINESS SOLUTIONS OÜ（原 Osaühing Angelmont 2007-01-09 – 02-19；nbs.ee 停放；Vesse tn 9a, Lasnamäe, 11415 Tallinn；registrikood 11338038）— 2007-01-09 成立的计算机 / 外设批发公司（EMTAK 46511；资本 €2,550）；受益人 Dmitri Simonov（2018-09-20 起）；**增值税号 EE101131030 已于 2023-05-15 注销；2024 Q1 无登记雇员、无国税；2024 预测营业额 ≈ €0，资产负债 €46k → 休眠壳**；WA 3 次回复 / 19 次跟进为一般交流 · registrikood 11338038 · 状态 **Registrisse kantud（休眠：VAT 注销 2023-05-15，0 雇员）** · 成立 2007-01-09 · OÜ
+- 行业码 / 经营范围：计算机 / 外设 批发（休眠）
+- 注册地址：Vesse tn 9a, Lasnamäe linnaosa, 11415 Tallinn
+- 规模档：微型（0 雇员）
+- 账目：2024 预测营业额 ≈ €0；资产 €46,467；年报 2020–2022；—
+- 高管：Dmitri Simonov — 受益人（2018-09-20 起）= WA 联系人（推定）
+- 控制人 / 股东：Dmitri Simonov
+- 曾用名：Osaühing Angelmont（2007-01 – 02）
+- **这意味着什么：**
+  - **法人休眠（VAT 注销 + 0 雇员 + 0 营收 + 2 条法院记录）→ 不动（WA 闲聊不转商机；主动询盘须预付款）**
+- 备注：不动（法人休眠）；坐实（registrikood + VAT 注销 + 受益人）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,6 +140,7 @@ updated: 2026-10-28
   > Your Domain www.nbs.ee is Registered NB! Your domain has been registered but has NOT yet been linked to a hosting service
   > 来源：https://www.nbs.ee/（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +372 515 1032（WA）〔用户 Clients 表〕
+- **KP**：Dmitri Simonov（受益人（inforegister，2018-09-20 起）= WA 联系人（推定）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU〕
 - **调研后定级**：B（原自动 A）——爱沙尼亚为非主动开发小国，互动停留在一般信息、无具体需求 → 慢跟。
 - 备注：WA 维持；有具体项目再报价。
 
@@ -133,9 +148,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Network Business Solutions OÜ（Infojuht 名录：计算机及外设批发；站点 fiber.ee / www.nbs.ee） |
+| 法定名称 | NETWORK BUSINESS SOLUTIONS OÜ（registrikood 11338038；原 Osaühing Angelmont；Vesse tn 9a, Tallinn） |
+| 成立 | 2007-01-09（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Tallinn（服务楼宇位于 Lasnamäe 区：Paekaare 68/72/74、Punane 1 等）, Eesti |
-| 其他 | **小型住宅光纤 ISP + 数据中心/主机托管 + 域名注册商（.ee/.eu/.lv/.fi 认证）**：公寓楼光纤入户 18 €/月（2026-10 提速 200→250 Mbit/s）、24 € 档 400→500 Mbit/s、4G SIM 无限流量 12.40 €；网络建设「最高 10 Gbit/s」；2026-08/10 持续有新楼接入公告——楼栋接入交换机为持续性需求 |
+| 其他 | **小型住宅光纤 ISP + 数据中心/主机托管 + 域名注册商（.ee/.eu/.lv/.fi 认证）**：公寓楼光纤入户 18 €/月（2026-10 提速 200→250 Mbit/s）、24 € 档 400→500 Mbit/s、4G SIM 无限流量 12.40 €；网络建设「最高 10 Gbit/s」；2026-08/10 持续有新楼接入公告——楼栋接入交换机为持续性需求；第 111 批：**法人休眠（VAT EE101131030 已于 2023-05-15 注销；2024 Q1 0 雇员 / 0 国税；2024 预测营业额 ≈ €0；资产 €46k；2 条法院记录）→ 不动（WA 闲聊不转商机；主动询盘预付款）**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：住宅楼光纤宽带（Tallinn Lasnamäe）；数据中心托管 / 服务器租赁；主机与域名注册
 - **触达通道（公开）**：网站: https://fiber.ee/（业务站）；www.nbs.ee（停放）；名录: https://www.infojuht.ee/Otsing-Network/（电话 5033655 / 53616045）
@@ -207,6 +223,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Dmitri Simonov | 受益人（inforegister，2018-09-20 起）= WA 联系人（推定）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU |
 | Vadim Tsvetikev | — | vadim@nbs.ee / +3725151032 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删

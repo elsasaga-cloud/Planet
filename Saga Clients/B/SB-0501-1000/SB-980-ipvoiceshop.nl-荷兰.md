@@ -84,6 +84,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 111 批（NL · 1 次检索：drimble.nl（IP Voice Group Services B.V.；Grootzeil Zeewolde；KVK 61046655；vestigingsnr 000030181968；BV）+ company.info（KVK 61046655；www.ipvoicegroup.com）+ ipvoiceshop.nl/shop（Powered by IP Voice Group；Grootzeil 1 3891 KH Zeewolde；info@ipvoiceshop.nl）+ ipvoicegroup.com（Sinds 2011；ISO 27001；eigen infrastructuur）+ rocketreach（7 employees；founded 2012）+ LinkedIn（Mitel / 3CX / Vodafone / HPE）；2026-10-28，2026-10-28 查；https://drimble.nl/bedrijf/zeewolde/30181968/ip-voice-group-services-bv.html）：**
+
+- 法定名 / 登记号：IP Voice Group Services B.V.（网店 ipvoiceshop.nl「Powered by IP Voice Group」；Grootzeil 1, 3891 KH Zeewolde；KvK 61046655；vestiging 000030181968）— 2011/2012 起的荷兰中小企业托管 VoIP / 云电话 / IT 服务商（Mitel Gold Partner、3CX、Vodafone SIP；ISO 27001；≈7 人）；网店（VoIP 话机 / TP-Link Omada / 耳机）快照显示「维护中」；表内「主要是 TP-Link 的商业交换机」；群发 15 次无回复 · KvK 61046655 · 状态 **Actief** · 成立 ≈2014（KvK 号段；业务 2011） · B.V.
+- 行业码 / 经营范围：托管 VoIP / 云电话 / IT 服务（附网店）
+- 注册地址：Grootzeil 1, 3891 KH Zeewolde
+- 规模档：微型（≈7 人）
+- 账目：未取（BV 微型）；—
+- 高管：（未取）— 收件人 info@ipvoiceshop.nl
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **VoIP 服务商（网店停摆、15 次无打开）→ 集成 25% small，一页纸一次（换切口：IP 话机部署的 PoE 配套 STC-028GP / STC-228GP + MOQ 1；荷语引子）；再无回声 → 不动**
+  - 稿内不点名 TP-Link / Mitel / 3CX；发信窗口 Thu 12–14 CET
+- 备注：集成 25% small；一页纸一次；坐实（KvK + 地址）；网店维护中。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,8 +137,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | IP Voice Group Services B.V.（网店 ipvoiceshop.nl；Zeewolde；KvK 61046655）≠ KommaGo B.V. / voipshop.nl |
+| 成立 | ≈2014（业务 2011）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 荷兰 |
-| 其他 | 官网 ipvoiceshop.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 ipvoiceshop.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案；第 111 批：微型 VoIP 服务商（网店维护中；15 次无打开）→ **集成 25% small，一页纸一次（IP 话机部署的 PoE 配套 STC-028GP / STC-228GP + MOQ 1；荷语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：VoIP / IP 话机网店（荷兰）
 - **触达通道（公开）**：role: VoIP 网店（荷兰，TP-Link 交换机）；region: 荷兰；contact: info@ipvoiceshop.nl

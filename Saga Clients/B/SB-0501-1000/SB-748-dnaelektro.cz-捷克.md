@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 111 批（CZ · 1 次检索：dnaelektro.cz/obchodni-podminky（prodávající Lukáš Wagner；sídlo Pod Císařkou 2454/1 Praha 5；IČ 74378945；živnostenské oprávnění；doručování K Vodojemu 140 Chrášťany；dnaelektro@email.cz）+ /kontakt（výdejní místo Doplnkynaauto.cz, DNA Group s.r.o. a GRW Company s.r.o.；Unhošťská 65 Červený Újezd；IČ 24282197）+ internetoveobchody.cz（Provozovatel Lukáš Wagner；DIČ CZ8509045446）+ heureka（45.000 výrobků）；2026-10-28，2026-10-28 查；https://www.dnaelektro.cz/obchodni-podminky）：**
+
+- 法定名 / 登记号：dnaelektro.cz（经营者 Lukáš Wagner 个体工商户；IČO 74378945；DIČ CZ8509045446；注册地 Pod Císařkou 2454/1, 150 00 Praha 5；收发 Unhošťská 65, 273 51 Červený Újezd 与 DNA Group s.r.o. IČ 24282197 / GRW Company s.r.o. 共用）— 综合电子邮购网店（自称 45,000 种商品：网络路由器 / 交换机 / PoE 组件 / 游戏外设 / 汽车配件 Doplnkynaauto.cz）；表内「外壳比较杂」；群发 8 次无回复 · IČO 74378945（OSVČ） · 状态 **Aktivní（živnost）** · 成立 —（个体） · OSVČ（个体工商户）
+- 行业码 / 经营范围：综合电子 / 汽配 邮购网店
+- 注册地址：Pod Císařkou 2454/1, 150 00 Praha 5（收发 Unhošťská 65, Červený Újezd）
+- 规模档：微型（个体）
+- 账目：—（个体，无公开账）；—
+- 高管：Lukáš Wagner — 经营者（OSVČ）
+- 控制人 / 股东：Lukáš Wagner
+- **这意味着什么：**
+  - **个体工商户综合网店（网络只是 45,000 SKU 中的一类；8 次无回复）→ 按「一人网店」规则 不动（主动询盘走零售价 / 预付款）**
+  - 关联实体 DNA Group s.r.o. IČ 24282197 仅记录
+- 备注：不动（OSVČ 综合网店）；坐实（IČO + 经营者）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,8 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | dnaelektro.cz — 经营者 Lukáš Wagner（OSVČ；IČO 74378945；DIČ CZ8509045446）；同址 DNA Group s.r.o. 24282197 |
+| 成立 | —（个体）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 dnaelektro.cz，语言 cs，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 dnaelektro.cz，语言 cs，快照状态 ok；角色判定来源：待核；第 111 批：Praha 5 / Červený Újezd 个体工商户综合网店（45,000 SKU，网络仅一类）→ **不动（一人网店规则；主动询盘零售价 / 预付款）**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电子 / 网络产品网店（捷克）
 - **触达通道（公开）**：role: 电子产品网店（捷克）；region: 捷克；contact: info@dnaelektro.cz

@@ -86,6 +86,20 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（IT · 1 次检索：ufficiocamerale（EXSYS ITALIA - S.R.L.；P.IVA 02375220130；VIA BELVEDERE 45/B COMO；REA 257326；Fatturato € 233.294 (2025)；Dipendenti 1 (2026)；Iscrizione 03/09/1998；Utile € 8.840）+ fatturatoitalia（Anno Fondazione 15/04/1998；costo personale € 20.600）+ exsys.it 首页（oltre 600 modelli di schede；100% made in Taiwan；garanzia 24 mesi）+ exsys.it/negozio/about-us（1998；sede storica Germania / Svizzera；rivenditori / installatori / assemblatori / sub distributori；fascia mediterranea）；2026-10-28，2026-10-28 查；https://www.ufficiocamerale.it/7762/exsys-italia-srl）：**
+
+- 法定名 / 登记号：EXSYS ITALIA - S.R.L.（exsys.it；Via Belvedere 45/B, 22100 Como；P.IVA / CF 02375220130；REA CO-257326）— 1998-04-15 成立（登记 1998-09-03）的 EXSYS 品牌（德国 / 瑞士总部）意大利公司：自有品牌 PCI / PCIe 接口卡（600+ 型号）、工业 HUB、PoE 交换机，「100% made in Taiwan」，走经销 / 装机 / 子分销渠道（意大利 + 地中海）；1 名雇员；2025 营收 €233k、净利 €8.8k；表内「switch 自己的 logo PoE；用的 E-link 的设备」；群发 15 次无回复；官网 http_error · P.IVA 02375220130 / REA CO-257326 · 状态 **Attiva** · 成立 1998-04-15 · S.r.l.
+- 行业码 / 经营范围：自有品牌 接口卡 / 工业 HUB / PoE 交换机（台湾代工）分销
+- 注册地址：Via Belvedere 45/B, 22100 Como (CO)
+- 规模档：微型（1 人）
+- 账目：2025 营收 €233,294 / 净利 €8,840；—
+- 高管：（未取）— 收件人 exsys@exsys.it
+- 控制人 / 股东：EXSYS 集团（德 / 瑞；推定）
+- **这意味着什么：**
+  - **自有品牌 EXSYS 已贴标 PoE 交换机（台湾代工）、1 人微型 → 贴标 30% small，一页纸一次（切口：EXSYS 标 STC-028GP / STC-228GP / STI-054GP 作台系代工的第二价位 + 小 MOQ；意语引子）；再无回声 → 不动**
+  - 稿内不点名 E-link；发信窗口 Thu 12–14 CET；旁线索 EXSYS 德国 / 瑞士总部另立户评估
+- 备注：贴标 30% small；一页纸一次；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,8 +143,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | EXSYS ITALIA - S.R.L.（P.IVA / CF 02375220130；REA CO-257326；Como）— EXSYS 品牌德国 / 瑞士总部另立户 |
+| 成立 | 1998-04-15（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 exsys.it，语言 ?，快照状态 http_error；角色判定来源：用户表 |
+| 其他 | 官网 exsys.it，语言 ?，快照状态 http_error；角色判定来源：用户表；第 111 批：自有品牌 EXSYS 接口卡 / 工业 HUB / PoE 交换机（台湾代工）的意大利公司（1 人；2025 营收 €233k）→ **贴标 30% small，一页纸一次（EXSYS 标 STC-028GP / STC-228GP / STI-054GP 作台系代工的第二价位 + 小 MOQ；意语引子）；再无回声 → 不动**；收件人 exsys@exsys.it（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：接口 / 网络配件（品牌 EXSYS）
 - **触达通道（公开）**：role: 网络配件品牌商（EXSYS，现 E-link 供货）；region: 意大利；contact: exsys@exsys.it

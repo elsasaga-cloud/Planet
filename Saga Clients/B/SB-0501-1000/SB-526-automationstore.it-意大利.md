@@ -85,6 +85,19 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（IT · 1 次检索：ufficiocamerale 同名命中（A.I. AUTOMAZIONE INDUSTRIALE S.R.L. 03059890966 aisrl.it €13.2M / AUTOMAZIONI INDUSTRIALI S.R.L. 02053790248 金属结构；均 ≠ automationstore.it，无关联证据）；1 查即停；2026-10-28，2026-10-28 查；https://www.automationstore.it/）：**
+
+- 法定名 / 登记号：automationstore.it（经营主体未坐实；自动化产品网店；快照为验证等待页；仅 info@）— 1 次检索未命中（结果为同名无关 A.I. AUTOMAZIONE INDUSTRIALE S.R.L. 03059890966 Nerviano / AUTOMAZIONI INDUSTRIALI S.R.L. 02053790248 Schio，均无 automationstore.it 关联证据）；群发 23 次无回复 · 未取 · 状态 **未取** · 成立 未取 · 未取
+- 行业码 / 经营范围：自动化产品 网店
+- 注册地址：未取
+- 规模档：未取
+- 账目：—；—
+- 高管：（无 KP）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实 + 无 KP + 23 次无打开 + 站点验证墙 → 不动（B 保留）**
+- 备注：未坐实（1 查即停）→ 不动；同名 ≠ 已记。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,8 +142,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | automationstore.it（经营主体未坐实；1 查即停；同名 A.I. AUTOMAZIONE INDUSTRIALE S.R.L. 03059890966 / AUTOMAZIONI INDUSTRIALI S.R.L. 02053790248 均无关联证据） |
+| 成立 | 未取（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 automationstore.it，语言 en，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 automationstore.it，语言 en，快照状态 ok；角色判定来源：待核；第 111 批：自动化产品网店（站点验证墙；仅 info@；23 次无打开）→ **未坐实 → 不动（B 保留）**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：自动化产品网店（意大利）
 - **触达通道（公开）**：role: 自动化产品网店（意大利）；region: 意大利；contact: info@automationstore.it

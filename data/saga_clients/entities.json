@@ -59468,6 +59468,18 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Christophe Denis Cordonier",
+"role": "董事 / 签字权（moneyhouse）= 拍板人（推定 Clients 表「Director Manager」）（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971"
+},
+{
+"name": "Philippe Bonvin",
+"role": "董事 / 签字权（moneyhouse）（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971"
 }
 ],
 "grade_override": "B",
@@ -59479,9 +59491,10 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Medias-Com'S SA",
+"legal_name": "MEDIAS-COM'S SA（UID CHE-394.326.893；CH-626.3.019.073-4；HR Valais；Place du Village 18, 1978 Lens）",
 "hq": "Place du Village 18, Case postale 47, 1978 Lens (Valais), Suisse",
-"other": "瓦莱州媒体与传播公司：自研**数字化公交候车亭**（城市家具 + 数字信息屏：班次、旅游/地方资讯），以及传播服务（网站、SEO、社媒、品牌设计、App、视频）——交换机需求来自候车亭/户外信息屏的网络接入（户外柜、宽温）"
+"other": "瓦莱州媒体与传播公司：自研**数字化公交候车亭**（城市家具 + 数字信息屏：班次、旅游/地方资讯），以及传播服务（网站、SEO、社媒、品牌设计、App、视频）——交换机需求来自候车亭/户外信息屏的网络接入（户外柜、宽温）；第 111 批：媒体 / 传播 + 电信转售微型公司（2020 样品单 IM-MC110FE ×2 / IM-FP144FE ×2 后无跟进）→ **集成 25% small，一页纸一次（回访 2020 样品 + 工业 MC / STI-054GP 现价一口价 + CH DAP 买方清关；法语引子，Cordonier 直呼）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+"founded": "2018-11-02（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "数字化公交候车亭（户外数字标牌 + 网络）",
@@ -70936,6 +70949,12 @@
 "email": "",
 "phone": "+372 515 1032（WA）",
 "source": "用户 Clients 表"
+},
+{
+"name": "Dmitri Simonov",
+"role": "受益人（inforegister，2018-09-20 起）= WA 联系人（推定）（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU"
 }
 ],
 "grade_override": "B",
@@ -70947,9 +70966,10 @@
 "level": "B 级加厚 v1（名录 + 业务站核对）"
 },
 "company_facts": {
-"legal_name": "Network Business Solutions OÜ（Infojuht 名录：计算机及外设批发；站点 fiber.ee / www.nbs.ee）",
+"legal_name": "NETWORK BUSINESS SOLUTIONS OÜ（registrikood 11338038；原 Osaühing Angelmont；Vesse tn 9a, Tallinn）",
 "hq": "Tallinn（服务楼宇位于 Lasnamäe 区：Paekaare 68/72/74、Punane 1 等）, Eesti",
-"other": "**小型住宅光纤 ISP + 数据中心/主机托管 + 域名注册商（.ee/.eu/.lv/.fi 认证）**：公寓楼光纤入户 18 €/月（2026-10 提速 200→250 Mbit/s）、24 € 档 400→500 Mbit/s、4G SIM 无限流量 12.40 €；网络建设「最高 10 Gbit/s」；2026-08/10 持续有新楼接入公告——楼栋接入交换机为持续性需求"
+"other": "**小型住宅光纤 ISP + 数据中心/主机托管 + 域名注册商（.ee/.eu/.lv/.fi 认证）**：公寓楼光纤入户 18 €/月（2026-10 提速 200→250 Mbit/s）、24 € 档 400→500 Mbit/s、4G SIM 无限流量 12.40 €；网络建设「最高 10 Gbit/s」；2026-08/10 持续有新楼接入公告——楼栋接入交换机为持续性需求；第 111 批：**法人休眠（VAT EE101131030 已于 2023-05-15 注销；2024 Q1 0 雇员 / 0 国税；2024 预测营业额 ≈ €0；资产 €46k；2 条法院记录）→ 不动（WA 闲聊不转商机；主动询盘预付款）**（第 111 批 官方登记核实 2026-10-28）",
+"founded": "2007-01-09（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "住宅楼光纤宽带（Tallinn Lasnamäe）",
@@ -123097,10 +123117,11 @@
 "level": "无域名 · 仅表内信息（身份待核）"
 },
 "company_facts": {
-"legal_name": "待核",
+"legal_name": "（未具名；无名称 / 域名 / 邮箱 / 电话可查；0 次检索）",
 "hq": "西班牙（表格国家列）",
 "size": "待核",
-"other": "来源行：Clients/A/DONE/Spain 2.9.xlsx#总表:42（No.41）"
+"other": "来源行：Clients/A/DONE/Spain 2.9.xlsx#总表:42（No.41）；第 111 批：仅 12 条 WhatsApp 历史（2023-12 → 2024-11）、身份全空 → **查无实体 → 不动；Simon 若能从 WA 对出号码 / 公司名再立户**（第 111 批 官方登记核实 2026-10-28）",
+"founded": "未取（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "待核"
@@ -135185,17 +135206,23 @@
 "kp": [
 {
 "name": "Alban S. Beqiri",
-"role": "CEO（LinkedIn 公开）",
+"role": "CEO（LinkedIn / D&B；2013-09 起）= 拍板人 / 收件人；研究档邮箱域名 storm.ict.com 有误 → storm-ict.com（具体地址待核，先发 info@storm-ict.com 抄）（第 111 批 官方登记核实 2026-10-28）",
 "email": "alban.beqiri@storm.ict.com（用户表；域名疑误，应为 storm-ict.com——待核）",
 "phone": "+383 38 732 732（公司）；+383 49 637 000（用户表，WA 加不上）",
 "source": "https://www.linkedin.com/in/albanbeqiri/"
 },
 {
 "name": "Vegim Zhitija",
-"role": "CTO（名录公开）",
+"role": "CTO（名录）（第 111 批 官方登记核实 2026-10-28）",
 "email": "—",
 "phone": "—",
 "source": "https://www.zoominfo.com/c/storm-ict-llc/430375477"
+},
+{
+"name": "Elion Rexhepi",
+"role": "Sales Manager（RocketReach）（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://rocketreach.co/storm-ict-llc-profile_b556e312f9d4c813"
 }
 ],
 "grade_override": null,
@@ -135206,11 +135233,11 @@
 "level": "B 级加厚 v1（官网 + LinkedIn 核对）"
 },
 "company_facts": {
-"legal_name": "STORM ICT L.L.C.",
-"founded": "2013",
+"legal_name": "STORM ICT L.L.C.（Prishtinë；Storm Group（HR）成员；ARBK 商业编号未取；NCAGE A08RH）",
+"founded": "2013-09（第 111 批 官方登记核实 2026-10-28）",
 "hq": "Rruga Tahir Zajmi (KOSOVATEX), pn, 10000 Prishtinë, Kosovo（+383 38 732 731；info@storm-ict.com）",
 "size": "11–50（LinkedIn）；6（RocketReach）",
-"other": "Storm Group（克罗地亚）成员；北马其顿办公室（2020）"
+"other": "Storm Group（克罗地亚）成员；北马其顿办公室（2020）；第 111 批：科索沃 + 北马其顿 ICT 集成商（ISO 9001 / 27001；Cisco 系项目；6–50 人）；现场说用工业管理型 PoE、拿了彩页、未发过信 → **集成 25% small，一页纸一次（会面回访 + STI-288DGGPM / STI-488DGGPM / STI-054GP 作第二价位 + XK 非欧盟 DAP 买方清关 + 预付款；英文）；回信 → 加厚**（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "有源/无源网络基础设施集成",
@@ -139785,7 +139812,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "K. Kassabow",
+"role": "CEO / 业主（研究档展会记录；kkassabow@kassabasystems.com）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）",
+"email": "kkassabow@kassabasystems.com",
+"source": "https://papagal.bg/eik/131403477/a657"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -139794,11 +139828,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Кассаба Системс ЕООД（Kassaba Systems Ltd.）",
-"founded": "2004",
+"legal_name": "КАССАБА СИСТЕМС ООД（Kassaba Systems Ltd.；原 ЕООД；ЕИК 131403477；ДДС BG131403477 自 2006-09-15；София 1309）",
+"founded": "2005-03-25（第 111 批 官方登记核实 2026-10-28）",
 "hq": "жк. Разсадника, ул. Коньовица 4, София, България（+359 2 820 2610；office@kassabasystems.com）",
 "size": "1–10（Crunchbase）",
-"other": "保加利亚三大监控元件进口商之一（自述）；APEXIS 独家代理（2012）；Facebook 69 评 92% 推荐"
+"other": "保加利亚三大监控元件进口商之一（自述）；APEXIS 独家代理（2012）；Facebook 69 评 92% 推荐；第 111 批：微型 CCTV 直接进口商 + 安装商（6 人；2020 营业额 €627k；展会见过 CEO）→ **分销 20% small，一页纸一次（提展会会面 + STC-028GP / STC-228GP 配套件一口价 + MOQ 1 + BG DAP；保语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频监控设备进口与分销（网店）",
@@ -144129,7 +144163,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 exsys.it，语言 ?，快照状态 http_error；角色判定来源：用户表"
+"other": "官网 exsys.it，语言 ?，快照状态 http_error；角色判定来源：用户表；第 111 批：自有品牌 EXSYS 接口卡 / 工业 HUB / PoE 交换机（台湾代工）的意大利公司（1 人；2025 营收 €233k）→ **贴标 30% small，一页纸一次（EXSYS 标 STC-028GP / STC-228GP / STI-054GP 作台系代工的第二价位 + 小 MOQ；意语引子）；再无回声 → 不动**；收件人 exsys@exsys.it（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "EXSYS ITALIA - S.R.L.（P.IVA / CF 02375220130；REA CO-257326；Como）— EXSYS 品牌德国 / 瑞士总部另立户",
+"founded": "1998-04-15（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "接口 / 网络配件（品牌 EXSYS）"
@@ -178768,7 +178804,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 benzotronic.it，语言 ?，快照状态 http_error；角色判定来源：待核"
+"other": "官网 benzotronic.it，语言 ?，快照状态 http_error；角色判定来源：待核；第 111 批：个体电子 / 安防门店 + 网店（3 人；本地零售为主；13 次无打开）→ **不动（一人网店规则）**；业主 Mauro Benzoni（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "Benzotronic di Benzoni Mauro（impresa individuale；P.IVA 01414660397；CF BNZMRA64R13H199Y；Ravenna）",
+"founded": "1998（个体）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防 / 电子产品经销（意大利）"
@@ -179185,7 +179223,8 @@
 "title": "",
 "email": "info@bositaly.it",
 "phone": "+39 0444 868678",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "公司公开信箱（KP 未取；Borinato 家族推定）= 收件人，一问产品负责人（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -179196,11 +179235,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Bos Italy S.r.l.",
-"founded": "",
+"legal_name": "BOS ITALY S.R.L.（原 Borinato Security S.r.l.；P.IVA / CF 03576140242；REA VI-336327；socio unico）",
+"founded": "2009-11-02（第 111 批 官方登记核实 2026-10-28）",
 "hq": "Vicenza, Italy（+39 0444）",
 "size": "小型分销",
-"other": "已售 Hasivo 工业 FS"
+"other": "已售 Hasivo 工业 FS；第 111 批：Val Liona (VI) 自有品牌 BOS 摄像机（ONVIF 会员）+ 自有 poe / switch 类目、走分销商渠道（8 人；2024 营收 €2.54M）→ **贴标 OEM 30% 目标，B，加厚 small 一次（BOS 标 PoE 整线 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP；中性包装 + 自编货号 + 3 年保）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络 / 安防分销"
@@ -179827,7 +179866,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 dalessandris.it，语言 it，快照状态 ok；角色判定来源：用户表"
+"other": "官网 dalessandris.it，语言 it，快照状态 ok；角色判定来源：用户表；第 111 批：暖通 / 锅炉 / 光伏 / 电气材料 / 五金批发零售商（18 人；网络仅附带类目）→ **非目标行业 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "Dales srl（D'ales S.r.l.；站点 dalessandris.it「D'Alessandris Group」；P.IVA 04273690752；Presicce-Acquarica (LE)）≠ D'ALESSANDRIS S.R.L. Supino 02452850601",
+"founded": "2010（集团 1970）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "暖通 / 光伏 / 智能家居网店（意大利）"
@@ -181419,9 +181460,11 @@
 "level": "无域名 · 仅表内信息（已成交）"
 },
 "company_facts": {
-"legal_name": "未具名（个人邮箱）",
+"legal_name": "Tomasz Głuszek（个人；Gmail；爱尔兰 +353 83；无 CRO 法人；LinkedIn 同名「AT Networks, Ireland」待证）",
 "hq": "爱尔兰（+353 83）",
-"size": "个人/微型"
+"size": "个人/微型",
+"founded": "—（第 111 批 官方登记核实 2026-10-28）",
+"other": "第 111 批：个人安装商、2 个工业 90W PoE 注入器样品已成交、WA 活跃 → **不进发送包（个人 / Gmail）；Simon 在 WA 顺手维系（STI-054GP 整机一口价）；registry 不动**（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "弱电/安防安装（推断）"
@@ -183065,7 +183108,7 @@
 "kp": [
 {
 "name": "L. Donato",
-"role": "业主（官网版权栏「Iotech-Italia di L. Donato」）",
+"role": "Titolare（ditta individuale；Lorenzo）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）",
 "email": "info@iotech-italia.net（公司公开）",
 "phone": "+39 339 2514 712",
 "source": "https://www.iotech-italia.net/wlink-tech"
@@ -183079,11 +183122,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Iotech-Italia di L. Donato（ditta individuale；P.IVA IT-13362610969）",
-"founded": "2019（LinkedIn）",
+"legal_name": "IOTECH-ITALIA DI L. DONATO（ditta individuale；P.IVA 13362610969；REA MI-2718540；域名持有人 RCC ITALY srl）",
+"founded": "2024-01-25（业务 2019）（第 111 批 官方登记核实 2026-10-28）",
 "hq": "Via G. di Vittorio 19, 20097 San Donato Milanese (MI), Italia（+39 339 2514 712；info@iotech-italia.net / admin@iotech-italia.net）",
 "size": "1 人",
-"other": "面向机器/设备设计者、制造商、安装与维护商；品类列表含「Switch Ethernet Industriali」、「Router & Modem 4G, 5G industriali」、「Convertitori Seriale - Ethernet」"
+"other": "面向机器/设备设计者、制造商、安装与维护商；品类列表含「Switch Ethernet Industriali」、「Router & Modem 4G, 5G industriali」、「Convertitori Seriale - Ethernet」；第 111 批：San Donato Milanese 一人工业 IoT 技术代表（顾问式代理小众品牌）→ **分销 20% small，一页纸一次（代理一条中性品牌工业 PoE 线 STI-054GP / STI-144GP / STI-154GP，MOQ 1 + 3 年保；意语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业 IoT/M2M 元器件分销（数据记录、I/O、RFID、路由器、交换机）",
@@ -183884,7 +183927,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 jpg.lt，语言 ?，快照状态 ok；角色判定来源：用户表"
+"other": "官网 jpg.lt，语言 ?，快照状态 ok；角色判定来源：用户表；第 111 批：立陶宛语监控 / 安防网店（LAN / PoE 类目、Ajax、车牌识别；仅 info@）；法人未命中 → **未坐实 + 无 KP + 21 次无打开 → 不动（B 保留）**；研究档国别应为 LT（entities 已为 LT）（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "jpg.lt（经营主体未坐实；1 查即停）",
+"founded": "未取（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频监控 / 安防系统网店"
@@ -186687,7 +186732,14 @@
 "title": "Tecnico",
 "email": "info@sicurtecnicanapoli.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Tecnico（研究档）= 收件人（info@ 点名）（第 111 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Francesco De Gennaro",
+"role": "创始人 / 负责人（paginemail 名录；职务未取，待证）= 拍板人（抄）（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.ufficiocamerale.it/"
 }
 ],
 "grade_override": null,
@@ -186699,7 +186751,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 sicurtecnicanapoli.it，语言 it-IT，快照状态 ok；角色判定来源：待核"
+"other": "官网 sicurtecnicanapoli.it，语言 it-IT，快照状态 ok；角色判定来源：待核；第 111 批：那不勒斯微型安防经销（3 人；2025 营收 €769k 微亏）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP 配 IP 摄像机套件一口价 + MOQ 1 + 预付款；意语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "SICURTECNICA S.R.L.（P.IVA / CF 01400990634；REA NA-307645）",
+"founded": "1988-07-05（创立 1980）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防产品经销（CCTV / 入侵 / 网络）"
@@ -190133,7 +190187,8 @@
 "title": "（职务待核）",
 "email": "orders@tecside.be",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "founder / sales（tecsideshop.be；giovanni@tecside.be 优于 orders@）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -190145,7 +190200,9 @@
 },
 "company_facts": {
 "hq": "比利时",
-"other": "官网 tecside.be，语言 nl-BE，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 tecside.be，语言 nl-BE，快照状态 ok；角色判定来源：官网文案；第 111 批：定制 LED 照明 + 视听安装微型公司（2.2 FTE；阿里 RFQ 8× 2.5G + 4× 10G SFP+）→ **集成 25% small，一页纸一次（直接回应 RFQ：主表若有 2.5G 多千兆型号则报之，否则 STC-2224GP / STC-4424GCPM + 10G 上联说明 + MOQ 1；荷语引子）；回信 → 加厚**；发信前核主表 2.5G 型号（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "Tecside BV（BE 0795.233.912；Kolonel Begaultlaan 11, 3012 Leuven；前身 TECside Comm.V 0567.983.696 2014–2023）",
+"founded": "2022-12-22（前身 2014-11-20）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "LED 照明 / 视听安装 / 自动化（比利时）"
@@ -207066,14 +207123,16 @@
 "title": "Head of Product Management",
 "email": "ekvtime@intellcom.net",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Head of Product Management（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Samson Khaduri",
 "title": "Head of Procurement",
 "email": "soso@intellcom.net",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Head of Procurement（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -207085,7 +207144,9 @@
 },
 "company_facts": {
 "hq": "格鲁吉亚",
-"other": "官网 intellcom.net，语言 ka，快照状态 ok；角色判定来源：待核"
+"other": "官网 intellcom.net，语言 ka，快照状态 ok；角色判定来源：待核；第 111 批：格鲁吉亚 IT / 安防 / 供电分销商（**Ubiquiti 官方分销、Uniview 合作伙伴**；11–50 人；2025-06 工单一次）→ **分销 20%，B BIG，加厚一次（主流品牌价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP；GE DAP 买方清关 + 预付款；英 / 俄文）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "შპს ინტელკომ ჯგუფი / Intellcom Group LLC（识别码 202441189；NAPR 2008-02-22；42 Tereverko St., Tbilisi）≠ INTELCOM GROUP 406099546",
+"founded": "2008-02-22（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "供电 / UPS / 电池",
@@ -214273,7 +214334,8 @@
 "title": "Security System Engineer",
 "email": "andreea.toderici@yli.ro",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Security System Engineer（研究档）= 收件人（ofertare@ 抄）（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -214284,11 +214346,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "YLI Sisteme S.R.L.（待核）",
-"founded": "",
+"legal_name": "YLI ETERNIT ACCES S.R.L.（商号 YLI Control Acces；CUI 19284558；Cluj-Napoca）",
+"founded": "2006（第 111 批 官方登记核实 2026-10-28）",
 "hq": "Romania",
 "size": "中小型门禁分销",
-"other": "UTEPO 交换机在售；小国名单"
+"other": "UTEPO 交换机在售；小国名单；第 111 批：RO + HU 门禁 / 安防进口分销商（11–50 人；3 办事处；已上架 UTEPO PoE）→ **分销 20%，B，加厚 small 一次（门禁 / 对讲 PoE 配套 STC-028GP / STC-228GP / STC-2224GP + 工业 STI-054GP；两国 DAP 小起订；罗语引子）；回信 → 次候选**（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "门禁 / 安防分销"
@@ -266866,7 +266928,8 @@
 "title": "CEO and founder",
 "email": "a.giacobazzi@eter.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "CEO & founder；2024-08 起唯一所有人（secsolution：Marcello Canali 售股）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -266878,7 +266941,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 eter.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 eter.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 111 批：门禁 / 考勤 / 消防探测分销 + 集成商（12 人；2024 营收 €3.95M，2019 起连年增长）；CEO 本人曾索 bypass + 接线图资料 → **集成 25% small，加厚一次（门禁 / 消防网络的 PoE 供电 STC-028GP / STI-054GP / STI-144GP + 旁路需求回访，直发 Andrea 一问；意语引子）；回信 → 次候选**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "ETER BIOMETRIC TECHNOLOGIES SRL（P.IVA / CF 02089510354；REA RE-250476；Rubiera (RE)；单一股东）",
+"founded": "2004-02-11（登记 2004-07-15）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "门禁 / 考勤 / 火灾探测 / HR 系统集成（意大利）"
@@ -272572,14 +272637,22 @@
 "title": "Managing Director",
 "email": "petra@ezy.hr",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Managing Director（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "David Dolenec",
 "title": "Product Manager",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Product Manager（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Branko Novosel",
+"role": "Direktor i član uprave（ezy.hr 法律信息 / companywall）= 拍板人（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.ezy.hr/kontakti"
 }
 ],
 "grade_override": null,
@@ -272591,7 +272664,9 @@
 },
 "company_facts": {
 "hq": "克罗地亚",
-"other": "官网 ezy.hr，语言 ?，快照状态 ok；角色判定来源：用户表"
+"other": "官网 ezy.hr，语言 ?，快照状态 ok；角色判定来源：用户表；第 111 批：克罗地亚两城 IT 分销商（收入 ≈€6.68M；在售台系 PoE；做 MikroTik / Ubiquiti 培训）→ **分销 20%，B BIG，加厚一次（台系 / MikroTik 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP；HR DAP 小起订）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "EZY Infotech d.o.o.（全称 … za trgovinu；OIB 79541484681；MBS 070061024；Čakovec + Zagreb）",
+"founded": "2002-05-16（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT 设备分销（网络 / 光纤 / 无线 / PC 组件）"
@@ -273687,7 +273762,14 @@
 "title": "Customer and Logistics Coordinator",
 "email": "amm@melbye.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Customer and Logistics Coordinator（研究档；非决策）= 请转产品 / 采购负责人（第 111 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Hege Nordahl",
+"role": "Daglig leder / Styrets leder（proff / 1881）= 拍板人（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.proff.no/"
 }
 ],
 "grade_override": null,
@@ -273699,7 +273781,9 @@
 },
 "company_facts": {
 "hq": "挪威",
-"other": "官网 melbyefiber.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 melbyefiber.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 111 批：自有品牌光纤 / 基础设施产品商（48–74 人；营业额 NOK 342M；2025 税前 NOK 30.5M；te@ 已退信）→ **贴标 / 配套 30% 目标，B BIG，加厚一次（光纤到边缘的配套 PoE / 工业交换机 STC-028GP / STC-228GP / STI-054GP / STI-144GP / STI-288DGGPM，可贴 Melbye 标；NO 非欧盟 DAP 买方清关）；收件人改产品 / 采购负责人；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "MELBYE AS（商号 Melbye Skandinavia Norge AS；org.nr 941 009 697；Melbye Group AS 100%；Skedsmokorset）",
+"founded": "1986-05-26（集团 1907）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤方案（光缆 / 配线 / MC / 工业网络配套）"
@@ -286058,7 +286142,9 @@
 },
 "company_facts": {
 "hq": "塞尔维亚",
-"other": "官网 257.cz，语言 ?，快照状态 ok；角色判定来源：待核"
+"other": "官网 257.cz，语言 ?，快照状态 ok；角色判定来源：待核；第 111 批：贝尔格莱德工业自动化分销商（PROFINET 线 + 机器人；3 办事处）→ **分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作现场网络第二价位 + RS 非欧盟 DAP；塞语引子）**；收件人 office@ep-solutions.rs（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "ELECTRO PNEUMATIC SOLUTIONS DOO（商号 EP Solutions；ep-solutions.rs；PIB 108600536；MB 21032018）— 研究档域名 257.cz 为误判",
+"founded": "2014-07-17（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业网络产品分销（塞尔维亚）"
@@ -288395,7 +288481,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Jan Hofman",
+"role": "jednatel（abctech.cz 法律信息）= 拍板人（info@ / obchod@ 点名）（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.abctech.cz/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -288405,7 +288498,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 abctech.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"other": "官网 abctech.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 111 批：Česká Skalice / Hradec Králové 网络渠道网店（提供批发合作）→ **分销 20% small，一页纸一次（换切口：主流品牌价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP + CZ DAP 小起订；捷语引子，点名 Jan Hofman）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "ABCtech s.r.o.（IČO 27546624；DIČ CZ27546624；C 25333 KS Hradec Králové）",
+"founded": "2008-08-28（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "计算机与电子产品网店（网络 / 光伏配件）"
@@ -291090,7 +291185,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 automationstore.it，语言 en，快照状态 ok；角色判定来源：待核"
+"other": "官网 automationstore.it，语言 en，快照状态 ok；角色判定来源：待核；第 111 批：自动化产品网店（站点验证墙；仅 info@；23 次无打开）→ **未坐实 → 不动（B 保留）**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "automationstore.it（经营主体未坐实；1 查即停；同名 A.I. AUTOMAZIONE INDUSTRIALE S.R.L. 03059890966 / AUTOMAZIONI INDUSTRIALI S.R.L. 02053790248 均无关联证据）",
+"founded": "未取（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "自动化产品网店（意大利）"
@@ -294926,7 +295023,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 escadtrade.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"other": "官网 escadtrade.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 111 批：30 年 CCTV 进口批发商 + 网店（Milesight 授权；已售台系 PoE）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 作摄像机配套的第二价位 PoE + CZ DAP 小起订；捷语引子）；有回声再加厚**；收件人 obchod@（jednatel 未取）（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "ESCAD Trade s.r.o.（IČO 60487283；DIČ CZ60487283；C 27175 Městský soud v Praze；Praha 10 – Hostivař）",
+"founded": "1994-03-29（业务 1993）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV / 安防摄像机分销网店（捷克）"
@@ -303605,14 +303704,16 @@
 "title": "Deputy CTO",
 "email": "stefano.cornelli@sysnetexplorer.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Deputy CTO（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Christian Tufariello",
 "title": "Chief Operating Officer",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Chief Operating Officer（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -303624,7 +303725,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 sysnettelematica.it，语言 it，快照状态 ok；角色判定来源：待核"
+"other": "官网 sysnettelematica.it，语言 it，快照状态 ok；角色判定来源：待核；第 111 批：三年营收 ×3.5 的 ICT 集成商（32 人；2025 营收 €5.23M；已用台系工业交换机）→ **集成 25% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM + STC-2224GP 作项目第二价位 + 3 年保；意语引子，Stefano 直呼 + Christian 抄）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "SYSNET S.R.L.（原 Sysnet Telematica S.r.l.；P.IVA / CF 12548250153；REA MI-1565510；Milano + Torino 等分部）",
+"founded": "1998-07-30（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "ICT / 电信集成（意大利）"
@@ -305248,7 +305351,8 @@
 "title": "（职务待核）",
 "email": "virginie@uniformatic.fr",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（职务待核）= 收件人；2025-12 总部迁里昂后先确认邮箱仍有效（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -305260,7 +305364,9 @@
 },
 "company_facts": {
 "hq": "法国",
-"other": "官网 uniformatic.fr，语言 ?，快照状态 http_error；角色判定来源：待核"
+"other": "官网 uniformatic.fr，语言 ?，快照状态 http_error；角色判定来源：待核；第 111 批：IT / 网络配件批发商（10–19 人；自有品牌 Uniformatic 线缆 / 电源 + 代理台系工业交换机；2025-12-01 总部自 Neuilly-sur-Marne 迁 Rillieux-la-Pape）→ **贴标 30% small，一页纸一次（Uniformatic 标 DIN 导轨 PoE STI-054GP / STI-144GP / STI-154GP 作现有工业线的第二价位 + 自编货号 + 小 MOQ；法语引子）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "UNIFORMATIC SAS（SIREN 333 998 623；TVA FR43333998623；RCS Lyon（原 Bobigny）；资本 €200,000；associée unique）",
+"founded": "1985-11-18（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业电源 / 网络产品经销（法国）"
@@ -316894,7 +317000,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Matteo Pinato",
+"role": "Fondatore / Amministratore（kmsoltec.com About）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.kmsoltec.com/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -316904,7 +317017,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 kmsoltec.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 kmsoltec.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 111 批：Pressana (VR) 工业 PC 组装 + 工厂硬件网店（10 人；2024 营收 €2.01M）→ **贴标 / 配套 30% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP 作工业 PC 整机配套，可贴 Kimera 标 + 3 年保 + MOQ 1；意语引子，Matteo 直呼）**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "KM SOLTEC S.R.L.（自有工业 PC 品牌 Kimera Computers；P.IVA / CF 04466860238；REA VR-463733）",
+"founded": "2017-03-20（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "定制工业 PC / 工业触控设备",
@@ -332554,7 +332669,8 @@
 "title": "Director",
 "email": "dia@opatov.ru",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director（研究档）= 拍板人 / 收件人（info@opatov.by 抄）（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -332566,7 +332682,9 @@
 },
 "company_facts": {
 "hq": "白俄罗斯",
-"other": "官网 opl-sfp.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 opl-sfp.by，语言 ru，快照状态 ok；角色判定来源：官网文案；第 111 批：电信 / 工业自动化材料设备供应商 + 系统集成商（Sumitomo 授权服务；**自有商标 OPL / OPL-SFP：光模块按总协议代工、OPL 管理型交换机 5–26 口**；阿里询盘 bypass）→ **贴标 30% 目标，B BIG，加厚一次（OPL 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-288DGGPM 作第二代工源 + 旁路回访 + 中性包装 / 自编货号 + 预付款；俄文）；回信 → 次候选升 A**；BY 收款 / 物流路径同 RU 议题（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "ПТЧ УП «Опатов»（Производственно-торговое частное унитарное предприятие；УНП 190207304；ОКПО 37546484；Минск, ул. Франциска Скорины 52）",
+"founded": "2001（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络设备网店（SFP / PoE / 10G / 2.5G）",
@@ -351570,7 +351688,9 @@
 },
 "company_facts": {
 "hq": "葡萄牙",
-"other": "官网 cctvcamara.pt，语言 ?，快照状态 ok；角色判定来源：用户表"
+"other": "官网 cctvcamara.pt，语言 ?，快照状态 ok；角色判定来源：用户表；第 111 批：中国 CCTV 厂家的葡萄牙门店（同行分支；24 次无打开）→ **不动**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "cctvcamara.pt（CCTVCÂMARA；Lisboa；自称 Vividview Interconnected Technology Co., Ltd. 葡萄牙分支；NIPC 未取；仅 Gmail + WhatsApp）",
+"founded": "未取（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV 网店（葡萄牙）"
@@ -360415,7 +360535,8 @@
 "title": "（表内联系人，会中文）",
 "email": "info@elettronicaesicurezza.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（info@；表内「会说中文」）= 收件人（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -360427,7 +360548,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 elettronicaesicurezza.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 elettronicaesicurezza.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 111 批：安防设备批发分销商（4 人；2024 营收 €1.35M +32%）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 配摄像机 + 对讲套件一口价 + MOQ 1；意语引子，点名 Riccardo）；有回声再加厚**；中文直联由 Simon 定（默认否）（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "ELETTRONICA E SICUREZZA SRL（原 … snc di D. Ferrari & C.；P.IVA / CF 03518240241；REA VI-331657；Thiene (VI)）",
+"founded": "2009-02-12（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防系统分销（CCTV / 对讲 / PoE 配件）"
@@ -367979,7 +368102,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 digitclik.it，语言 sl，快照状态 ok；角色判定来源：用户表"
+"other": "官网 digitclik.it，语言 sl，快照状态 ok；角色判定来源：用户表；第 111 批：一人网络产品网店（站点「Stran v izdelavi」建设中；23 次无打开）→ **不动**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "Digitclik di Princic Iztok（impresa individuale；34170 Gorizia；P.IVA 未取全）≠ DIGITKLIK d.o.o. Trzin（SI）",
+"founded": "未取（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络产品网店 / 销售平台（意大利）"
@@ -368321,7 +368446,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 dnaelektro.cz，语言 cs，快照状态 ok；角色判定来源：待核"
+"other": "官网 dnaelektro.cz，语言 cs，快照状态 ok；角色判定来源：待核；第 111 批：Praha 5 / Červený Újezd 个体工商户综合网店（45,000 SKU，网络仅一类）→ **不动（一人网店规则；主动询盘零售价 / 预付款）**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "dnaelektro.cz — 经营者 Lukáš Wagner（OSVČ；IČO 74378945；DIČ CZ8509045446）；同址 DNA Group s.r.o. 24282197",
+"founded": "—（个体）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电子 / 网络产品网店（捷克）"
@@ -369931,14 +370058,28 @@
 "title": "（职务待核）",
 "email": "i.horackova@enika.cz",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档收件人（职务待核）（第 111 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "P. Gottwald",
 "title": "（姓名/职务待核）",
 "email": "p.gottwald@enika.cz",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档收件人（姓名 / 职务待核）（第 111 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Lukáš Majkuth",
+"role": "generální ředitel + prokurista（enika.eu 公告，2025-04-15 起）= 拍板人（邮箱未取，抄请转）（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.enika.eu/"
+},
+{
+"name": "Jiří Vávra",
+"role": "Ing.；jednatel（OR，2007-12-20 起）（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://rejstrik.penize.cz/28218167-enika-cz-s-r-o"
 }
 ],
 "grade_override": null,
@@ -369950,7 +370091,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 enika.cz，语言 en，快照状态 ok；角色判定来源：用户表"
+"other": "官网 enika.cz，语言 en，快照状态 ok；角色判定来源：用户表；第 111 批：无线控制技术制造商 + 电气元件 / 照明分销商（20,000+ 品项；网络为边缘品类；8 次无打开）→ **分销 20% small，一页纸一次（照明控制 / 楼宇项目的 PoE 供电 STC-028GP / STI-054GP 一口价 + MOQ 1；捷语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "ENIKA.CZ s.r.o.（IČO 28218167；DIČ CZ28218167；C 49375 KS Hradec Králové；Nová Paka；前身 ENIKA spol. s r.o. 15055761）",
+"founded": "2007-12-20（前身 1994）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "无线技术制造（自有）",
@@ -377125,7 +377268,8 @@
 "title": "（职务待核）",
 "email": "dponjavic@gmail.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（Gmail；职务待核）= 收件人（office@kbvdatacom.rs 抄，一问职务 / 公司邮箱）（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -377137,7 +377281,9 @@
 },
 "company_facts": {
 "hq": "塞尔维亚",
-"other": "官网 kbvdatacom.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 kbvdatacom.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案；第 111 批：电信 / 能源 / 交通基建设计与建设工程商（APR「大型」；190 人；持铁路电信施工许可 I141E3 → **守界：只谈电信 / 能源 / 安防线，绝不提铁路**；阿里 RTS 旁路模块小单）→ **集成 25%，B BIG，加厚一次（光纤接入 / 安防 / 电力站点的工业 PoE STI-054GP / STI-144GP / STI-288DGGPM + 旁路回访 + RS 非欧盟 DAP；英文 / 塞语）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "Društvo za informacione tehnologije i telekomunikacije KBV DATACOM d.o.o. Beograd（PIB 106983968；MB 20718749；Zorana Žunkovića 17, Beograd）",
+"founded": "2011-03-11（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电信网络设计 / 建设 / 安防 / 电力系统（塞尔维亚）"
@@ -381331,14 +381477,16 @@
 "title": "General Manager",
 "email": "arunas@pyramid.lt",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Direktorius（info.lt / rekvizitai）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Mattheos Dimitras",
 "title": "Business Manager",
 "email": "info@pyramid-electronics.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Business Manager（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -381350,7 +381498,9 @@
 },
 "company_facts": {
 "hq": "立陶宛",
-"other": "官网 pyramid.lt，语言 lt-LT，快照状态 ok；角色判定来源：待核"
+"other": "官网 pyramid.lt，语言 lt-LT，快照状态 ok；角色判定来源：待核；第 111 批：监控 / 安防网店 + 门店（9–10 人；**自有品牌 Pyramid 摄像机 PYR-SH200X**；EN / RU / LT）→ **贴标 30% small，一页纸一次（Pyramid 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP 配自家摄像机套件，中性包装 + 自编货号；英 / 俄文引子，Arūnas 直呼）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "UAB „Enzas“（商号 Pyramid.lt / Pyramid Electronics；įmonės kodas 303005607；PVM LT100009310917；Vilnius）",
+"founded": "2013-02-21（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防设备网店（摄像机 / 报警 / 对讲 / 网络）"
@@ -391774,7 +391924,9 @@
 },
 "company_facts": {
 "hq": "保加利亚",
-"other": "官网 datastream.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 datastream.by，语言 ru，快照状态 ok；角色判定来源：官网文案；第 111 批：白俄电信 / 网络 / 监控设备综合分销商（**ZyXEL / ORing / VIVOTEK / QNAP 等官方分销；51–200 人；面向集成商**；仅 info@）→ **分销 20%，B BIG，加厚一次（工业 PoE STI-054GP / STI-144GP / STI-288DGGPM 作现有台系线的第二价位 + 商用 STC-028GP / STC-2224GP + 预付款；俄文，一问采购负责人）；回信 → 次候选升 A**；研究档国别应为 BY（entities 已为 BY）；BY 收款 / 物流路径同 RU 议题（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "ООО «Датастрим ДЕП»（Datastream DEP；УНП 100917214（登记证 2001-06-20，Мингорисполком）；ОКПО 373712285000；Минск, ул. Мележа 1, комн. 1309）",
+"founded": "2001-06-20（业务 1993 起）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络与电信设备分销（零售 + 批发）"
@@ -393854,7 +394006,9 @@
 },
 "company_facts": {
 "hq": "保加利亚",
-"other": "官网 istream.by，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 istream.by，语言 ?，快照状态 ok；角色判定来源：官网文案；第 111 批：微型家庭 / 办公 CCTV + 报警 + 门禁销售安装商（Partizan 官方经销；仅 info@）→ **不动（微型无 KP；BY 收款路径未定）**；研究档国别应为 BY（entities 已为 BY）（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "ЧСУП «Айстрим Плюс»（Частное сервисное унитарное предприятие；УНП 191523533；ОКПО 379687595000；Минск, ул. Пономаренко 35）",
+"founded": "2011-02-15（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频监控 / 门禁 / 对讲销售与安装"
@@ -402507,7 +402661,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Robert Bugnet",
+"role": "Président（pappers / verif；全名 Robert Gérard José Bugnet）= 拍板人 / 收件人（ventes@ 点名）（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.pappers.fr/entreprise/gmi-databox-320290190"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -402517,7 +402678,9 @@
 },
 "company_facts": {
 "hq": "法国",
-"other": "官网 gmidatabox.fr，语言 ?，快照状态 timeout；角色判定来源：待核"
+"other": "官网 gmidatabox.fr，语言 ?，快照状态 timeout；角色判定来源：待核；第 111 批：Mennecy (91) 老牌工业通信 / 数据中心增值分销商（6–9 人；CA 2025 €1.59M）→ **分销 20% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作第二价位 + 3 年保 + FR DAP；法语引子）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "GMI DATABOX SAS（原 SARL；SIREN 320 290 190；RCS Évry；TVA FR28320290190）",
+"founded": "1980-11-18（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业网络产品分销（法国）"
@@ -453816,7 +453979,8 @@
 "title": "Electrical Engineer",
 "email": "info@electrologicservices.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director（LinkedIn 2009-06 起；Electrical Engineer）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -453828,7 +453992,9 @@
 },
 "company_facts": {
 "hq": "塞浦路斯",
-"other": "官网 electrologicservices.com，语言 ?，快照状态 timeout；角色判定来源：待核"
+"other": "官网 electrologicservices.com，语言 ?，快照状态 timeout；角色判定来源：待核；第 111 批：电气工程 / 光伏承包商（Plumettaz CY + GR 分销；网络非主业；21 次无打开）→ **集成 25% small，一页纸一次（楼宇 / 光伏场站监控的 PoE 配套 STC-028GP / STI-054GP + MOQ 1 + CY DAP；英文，Nikolas 直呼）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "K.N. ELECTROLOGIC SERVICES LIMITED（HE 251241；VAT 10251241W；Strovolos, Nicosia）",
+"founded": "≈2009（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电气工程服务（塞浦路斯）"
@@ -455790,7 +455956,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Martin Kundrik",
+"role": "eltrox.cz 站点联系人（schema；职务未取）= 收件人（第 111 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.eltrox.cz/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -455800,7 +455973,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 eltrox.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"other": "官网 eltrox.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 111 批：SK 法人运营的 CZ / SK 安防网店（已上架白牌 PoE）→ **分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP / STC-2224GP 作摄像机套件 PoE SKU + 比价 + SK DAP；捷 / 斯语引子）；有回声再加厚**；iso 保持 CZ（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "eltrox.cz — 经营者 E-commerce Group, s.r.o.（斯洛伐克 Bardejov；IČO 47589175；IČ DPH SK2024000066；OR Okresný súd Prešov）≠ Eltrox s.r.o. Ostrava 29382289",
+"founded": "未取（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防系统 / 智能家居网店"
@@ -456768,7 +456943,9 @@
 },
 "company_facts": {
 "hq": "荷兰",
-"other": "官网 ipvoiceshop.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 ipvoiceshop.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案；第 111 批：微型 VoIP 服务商（网店维护中；15 次无打开）→ **集成 25% small，一页纸一次（IP 话机部署的 PoE 配套 STC-028GP / STC-228GP + MOQ 1；荷语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+"legal_name": "IP Voice Group Services B.V.（网店 ipvoiceshop.nl；Zeewolde；KvK 61046655）≠ KommaGo B.V. / voipshop.nl",
+"founded": "≈2014（业务 2011）（第 111 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "VoIP / IP 话机网店（荷兰）"

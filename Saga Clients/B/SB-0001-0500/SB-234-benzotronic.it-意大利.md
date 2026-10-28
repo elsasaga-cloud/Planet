@@ -79,6 +79,19 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（IT · 1 次检索：benzotronic.it/privacy-policy（Benzotronic di Benzoni Mauro；Via Bassano del Grappa 68 / Viale Antonio Gramsci 76 Ravenna；P.IVA 01414660397）+ informazione-aziende（CF BNZMRA64R13H199Y；IMPRESA INDIVIDUALE；47.59.3）+ misterimprese（1995；3 dipendenti；Responsabile Mauro Benzoni）+ benzotronic.it/custom/chi-siamo（nasce nel 1998 come negozio di elettronica）；2026-10-28，2026-10-28 查；https://www.benzotronic.it/privacy-policy/）：**
+
+- 法定名 / 登记号：Benzotronic di Benzoni Mauro（impresa individuale；benzotronic.it；Viale Antonio Gramsci 76 / Via Bassano del Grappa 68, 48121 Ravenna；P.IVA 01414660397；CF BNZMRA64R13H199Y）— 1998 年创立的专业电子 / 通信 / 安防门店 + 网店（Ajax / Pyronix；面向本地个人与小企业）；3 名雇员；业主 Mauro Benzoni；表内「商业 PoE ONV 的」；群发 13 次无回复；官网 http_error · P.IVA 01414660397 · 状态 **Attiva** · 成立 1998（个体） · Impresa individuale
+- 行业码 / 经营范围：电子 / 安防 门店 + 网店（拉文纳）
+- 注册地址：Viale Antonio Gramsci 76, 48121 Ravenna (RA)
+- 规模档：微型（3 人）
+- 账目：—（个体，无公开账）；—
+- 高管：Mauro Benzoni — Titolare = 拍板人
+- 控制人 / 股东：Mauro Benzoni
+- **这意味着什么：**
+  - **个体电子门店（本地零售为主；13 次无打开）→ 按「一人网店」规则 不动（主动询盘走零售价 / 预付款）**
+- 备注：不动（个体门店）；坐实（P.IVA + CF + 业主）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,8 +135,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Benzotronic di Benzoni Mauro（impresa individuale；P.IVA 01414660397；CF BNZMRA64R13H199Y；Ravenna） |
+| 成立 | 1998（个体）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 benzotronic.it，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 benzotronic.it，语言 ?，快照状态 http_error；角色判定来源：待核；第 111 批：个体电子 / 安防门店 + 网店（3 人；本地零售为主；13 次无打开）→ **不动（一人网店规则）**；业主 Mauro Benzoni（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 电子产品经销（意大利）
 - **触达通道（公开）**：role: 安防/电子经销商（意大利，PoE 现 ONV）；region: 意大利；contact: info@benzotronic.it

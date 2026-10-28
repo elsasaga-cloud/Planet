@@ -79,6 +79,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 111 批（XK · 1 次检索：LinkedIn Alban S. Beqiri（CEO at STORM ICT LLC member of Storm Group；Sep 2013 – Present Kosovo；Sep 2020 – North Macedonia）+ dnb.com（STORM ICT L.L.C.；Rruga Tahir Zajmi pn 10000 PRISHTINE；Key Principal Alban Beqiri；+383-38-732732）+ info-clipper（NAZIM GAFURRI 203 PRISHTINE）+ cage.report（NCAGE A08RH；Nazim Gafurri 203；2019-04-08）+ storm-ict.com（ISO 9001 / 27001；Cisco telemedicine；info@storm-ict.com；+383 38 732 731/732）+ rocketreach（Elion Rexhepi Sales Manager；6 员工）+ LinkedIn 公司页（11–50；Storm Group Croatia；2013）；ARBK 商业编号未在结果中出现；2026-10-28，2026-10-28 查；https://www.storm-ict.com/）：**
+
+- 法定名 / 登记号：STORM ICT L.L.C.（storm-ict.com；Rruga Tahir Zajmi (KOSOVATEX) pn, 10000 Prishtinë（登记址 Nazim Gafurri 203）；商业编号未取）— 2013-09 成立的科索沃 ICT 系统集成商，克罗地亚 Storm Group 成员，科索沃 + 北马其顿（2020 起）办公室；CEO Alban S. Beqiri（LinkedIn；20+ 年 IT / 金融）；Sales Manager Elion Rexhepi；ISO 9001 / 27001；Cisco 远程医疗项目；11–50 人（RocketReach 6 / 「$45M」为推算，不采）；NCAGE A08RH（2019）；表内「英文很好，平时用工业级交换机，PoE 用的多，带管理，拿了彩页」；WA 加不上 · 未取（ARBK 商业编号） · 状态 **Active（经营中）** · 成立 2013-09 · L.L.C.（SH.P.K.）
+- 行业码 / 经营范围：ICT 系统集成（有源 / 无源网络基础设施；科索沃 + 北马其顿）
+- 注册地址：Rruga Tahir Zajmi (KOSOVATEX) pn, 10000 Prishtinë（登记 Nazim Gafurri 203）
+- 规模档：小型（6–50 人）
+- 账目：—（无公开账）；—
+- 高管：Alban S. Beqiri — CEO（LinkedIn / D&B）= 拍板人 / 收件人（研究档邮箱域名 storm.ict.com 有误 → 应为 storm-ict.com，具体地址待核；先发 info@storm-ict.com 抄）
+- 高管：Elion Rexhepi — Sales Manager（RocketReach）
+- 高管：Vegim Zhitija — CTO（名录）
+- 控制人 / 股东：Storm Group（克罗地亚；推定控股）
+- **这意味着什么：**
+  - **Cisco 系集成商、现场说用工业 PoE 带管理（拿了彩页；未发过信）→ 集成 25% small，一页纸一次（切口：会面回访 + 工业管理型 PoE STI-288DGGPM / STI-488DGGPM / STI-054GP 作 Cisco 之外的第二价位 + XK 非欧盟 DAP 买方清关 + 预付款；英文，Alban 直呼，info@ 抄）；回信 → 加厚**
+  - 稿内不点名 Cisco；研究档 KP 邮箱域名改 storm-ict.com（待核）；发信窗口 Thu 12–14 CET
+- 备注：集成 25% small；一页纸一次；部分坐实（名称 + 址 + CEO；ARBK 编号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,18 +126,19 @@ updated: 2026-10-28
 - **【用户表】ISAF：英文好；用工业级管理 PoE；WA 加不上**
   > 英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页 / 383 3873 2732 加不上 383 49637000 加不上
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Alban S. Beqiri（CEO（LinkedIn 公开））alban.beqiri@storm.ict.com（用户表；域名疑误，应为 storm-ict.com——待核） +383 38 732 732（公司）；+383 49 637 000（用户表，WA 加不上）〔https://www.linkedin.com/in/albanbeqiri/〕
-- **KP**：Vegim Zhitija（CTO（名录公开））— —〔https://www.zoominfo.com/c/storm-ict-llc/430375477〕
+- **KP**：Alban S. Beqiri（CEO（LinkedIn / D&B；2013-09 起）= 拍板人 / 收件人；研究档邮箱域名 storm.ict.com 有误 → storm-ict.com（具体地址待核，先发 info@storm-ict.com 抄）（第 111 批 官方登记核实 2026-10-28））alban.beqiri@storm.ict.com（用户表；域名疑误，应为 storm-ict.com——待核） +383 38 732 732（公司）；+383 49 637 000（用户表，WA 加不上）〔https://www.linkedin.com/in/albanbeqiri/〕
+- **KP**：Vegim Zhitija（CTO（名录）（第 111 批 官方登记核实 2026-10-28））— —〔https://www.zoominfo.com/c/storm-ict-llc/430375477〕
+- **KP**：Elion Rexhepi（Sales Manager（RocketReach）（第 111 批 官方登记核实 2026-10-28）） 〔https://rocketreach.co/storm-ict-llc-profile_b556e312f9d4c813〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | STORM ICT L.L.C. |
-| 成立 | 2013 |
+| 法定名称 | STORM ICT L.L.C.（Prishtinë；Storm Group（HR）成员；ARBK 商业编号未取；NCAGE A08RH） |
+| 成立 | 2013-09（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Rruga Tahir Zajmi (KOSOVATEX), pn, 10000 Prishtinë, Kosovo（+383 38 732 731；info@storm-ict.com） |
-| 其他 | Storm Group（克罗地亚）成员；北马其顿办公室（2020） |
+| 其他 | Storm Group（克罗地亚）成员；北马其顿办公室（2020）；第 111 批：科索沃 + 北马其顿 ICT 集成商（ISO 9001 / 27001；Cisco 系项目；6–50 人）；现场说用工业管理型 PoE、拿了彩页、未发过信 → **集成 25% small，一页纸一次（会面回访 + STI-288DGGPM / STI-488DGGPM / STI-054GP 作第二价位 + XK 非欧盟 DAP 买方清关 + 预付款；英文）；回信 → 加厚**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：有源/无源网络基础设施集成；ICT 方案、专业服务与应用方案（金融/企业）
 - **触达通道（公开）**：网站: https://www.storm-ict.com/；电话: +383 38 732 731 / 732（公开）；邮箱（公开）: info@storm-ict.com；LinkedIn: https://www.linkedin.com/company/storm-ict-llc
@@ -173,8 +190,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Alban S. Beqiri | CEO（LinkedIn 公开） | alban.beqiri@storm.ict.com（用户表；域名疑误，应为 storm-ict.com——待核） / +383 38 732 732（公司）；+383 49 637 000（用户表，WA 加不上） | 调研核实（公开页） | https://www.linkedin.com/in/albanbeqiri/ |
-| Vegim Zhitija | CTO（名录公开） | — / — | 调研核实（公开页） | https://www.zoominfo.com/c/storm-ict-llc/430375477 |
+| Alban S. Beqiri | CEO（LinkedIn / D&B；2013-09 起）= 拍板人 / 收件人；研究档邮箱域名 storm.ict.com 有误 → storm-ict.com（具体地址待核，先发 info@storm-ict.com 抄）（第 111 批 官方登记核实 2026-10-28） | alban.beqiri@storm.ict.com（用户表；域名疑误，应为 storm-ict.com——待核） / +383 38 732 732（公司）；+383 49 637 000（用户表，WA 加不上） | 调研核实（公开页） | https://www.linkedin.com/in/albanbeqiri/ |
+| Vegim Zhitija | CTO（名录）（第 111 批 官方登记核实 2026-10-28） | — / — | 调研核实（公开页） | https://www.zoominfo.com/c/storm-ict-llc/430375477 |
+| Elion Rexhepi | Sales Manager（RocketReach）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rocketreach.co/storm-ict-llc-profile_b556e312f9d4c813 |
 | Alban Beqiri | CEO | alban.beqiri@storm.ict.com / info@storm-ict.com / +38338732732 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

@@ -75,6 +75,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 111 批（BE · 1 次检索：companyweb.be（Tecside BV；BE 0795.233.912；Kolonel Begaultlaan 11 3012 Leuven；Established 22-12-2022；Last balance 2024；Micro 2,2 FTE；Specialised services in sound, image and lighting）+ pappers.be（TECside 0567.983.696 Gewone commanditaire vennootschap；Hoegaardsestraat 122；oprichting 20/11/2014；gesloten 30/06/2023）+ tecsideshop.be/contact（Giovanni Desramault founder - sales giovanni@tecside.be；Bert Hellemans installatie technieker）+ tecside.be（maatwerk LED；AV；DMX / DALI / KNX）；2026-10-28，2026-10-28 查；https://www.companyweb.be/en/0795233912/tecside）：**
+
+- 法定名 / 登记号：Tecside BV（tecside.be / tecsideshop.be；Kolonel Begaultlaan 11, 3012 Leuven；ondernemingsnummer BE 0795.233.912）— 2022-12-22 设立（前身 TECside Comm.V 0567.983.696，2014-11-20 起，2023-06-30 关闭）的定制 LED 照明 + 专业视听安装商（餐饮 / 电视演播 / 零售 / 健身；DMX / DALI / KNX；自有 CNC 车间；LED 灯带按自家规格代工）；微型 2.2 FTE（2024 年报）；创始人 / 销售 Giovanni Desramault（giovanni@tecside.be；= 研究档 KP，orders@）；安装技师 Bert Hellemans；阿里巴巴 RFQ「4 光 8 电 10G 光 2.5G 网」；未发过信 · BE 0795.233.912 · 状态 **Actief** · 成立 2022-12-22（前身 2014-11-20） · BV
+- 行业码 / 经营范围：定制 LED 照明 + 视听安装（鲁汶）
+- 注册地址：Kolonel Begaultlaan 11, 3012 Leuven
+- 规模档：微型（2.2 FTE）
+- 账目：2024 年报已交（微型 2.2 FTE）；—
+- 高管：Giovanni Desramault — founder / sales（tecsideshop.be）= 拍板人 / 收件人（giovanni@tecside.be 优于 orders@）
+- 高管：Bert Hellemans — 安装技师
+- 控制人 / 股东：Giovanni Desramault（推定）
+- 曾用名：TECside Comm.V（0567.983.696，2014–2023）
+- **这意味着什么：**
+  - **微型 AV 安装商但有具体 RFQ（8× 2.5G + 4× 10G SFP+）→ 集成 25% small，一页纸一次（切口：直接回应 RFQ 规格——若主表有 2.5G 多千兆型号则报之，否则报 STC-2224GP / STC-4424GCPM + 10G 上联说明 + MOQ 1；荷语引子，Giovanni 直呼）；回信 → 加厚**
+  - 发信前核主表 2.5G 型号是否存在（无则不许编）；发信窗口 Thu 12–14 CET
+- 备注：集成 25% small；一页纸一次（回 RFQ）；坐实（企业号 + 成立日 + 创始人）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,15 +123,17 @@ updated: 2026-10-28
 - **【用户表】4 光 8 电 10G 2.5G RFQ**
   > 4光8电 10G光 2.5G网 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Giovanni Desramault（）orders@tecside.be 〔用户表〕
+- **KP**：Giovanni Desramault（founder / sales（tecsideshop.be；giovanni@tecside.be 优于 orders@）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28））orders@tecside.be 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Tecside BV（BE 0795.233.912；Kolonel Begaultlaan 11, 3012 Leuven；前身 TECside Comm.V 0567.983.696 2014–2023） |
+| 成立 | 2022-12-22（前身 2014-11-20）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 比利时 |
-| 其他 | 官网 tecside.be，语言 nl-BE，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 tecside.be，语言 nl-BE，快照状态 ok；角色判定来源：官网文案；第 111 批：定制 LED 照明 + 视听安装微型公司（2.2 FTE；阿里 RFQ 8× 2.5G + 4× 10G SFP+）→ **集成 25% small，一页纸一次（直接回应 RFQ：主表若有 2.5G 多千兆型号则报之，否则 STC-2224GP / STC-4424GCPM + 10G 上联说明 + MOQ 1；荷语引子）；回信 → 加厚**；发信前核主表 2.5G 型号（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：LED 照明 / 视听安装 / 自动化（比利时）
 - **触达通道（公开）**：role: LED/AV 安装商（比利时，2.5G/10G 交换机 RFQ）；region: 比利时；contact: orders@tecside.be
@@ -174,7 +192,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Giovanni Desramault | — | orders@tecside.be | 调研核实（公开页） | 用户表 |
+| Giovanni Desramault | founder / sales（tecsideshop.be；giovanni@tecside.be 优于 orders@）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28） | orders@tecside.be | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

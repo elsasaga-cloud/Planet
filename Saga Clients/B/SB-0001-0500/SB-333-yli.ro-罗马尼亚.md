@@ -88,6 +88,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（RO · 1 次检索：emag.ro 卖家页（YLI ETERNIT ACCES S.R.L.；STR. HAIDUCULUI NR.3A Cluj-Napoca 400040；CUI 19284558）+ yli.ro/compania（SC YLI ETERNIT ACCES SRL；sedii Cluj, Bucuresti si Budapesta；2006；distribuitori unici YLI RO + HU）+ revista-alarma.ro（18+ 年；3000+ clienți B2B；stocuri proprii）+ LinkedIn YLI CONTROL ACCES（11–50；品牌 YLI, ZKTeco, Dahua, Dorcas, Vtec, Akuvox, Quiko, BOOMX, UTEPO, Silin）+ kompass（Founded 2006）；2026-10-28，2026-10-28 查；https://www.emag.ro/ylietegj/10825/v）：**
+
+- 法定名 / 登记号：YLI ETERNIT ACCES S.R.L.（商号 YLI Control Acces；yli.ro；Str. Haiducului 3A, 400040 Cluj-Napoca；CUI 19284558）— 2006 年创立的门禁 / 安防系统进口分销商（YLI 品牌罗马尼亚 + 匈牙利独家；ZKTeco / Dahua / Dorcas / Akuvox / UTEPO / Silin；办事处 Cluj / București / Budapesta；3,000+ B2B 客户；自有库存 24–48h 送达；eMAG 卖家；Senior ERP）；11–50 名雇员；KP Andreea Toderici（Security System Engineer）；表内「基本都是 UTEPO 的」；群发 18 次无回复 · CUI 19284558 · 状态 **Activă** · 成立 2006 · S.R.L.
+- 行业码 / 经营范围：门禁 / 安防 进口分销（RO + HU）
+- 注册地址：Str. Haiducului 3A, 400040 Cluj-Napoca
+- 规模档：中小型（11–50 人；3 办事处）
+- 账目：未取（termene 可取，未展开）；—
+- 高管：Andreea Toderici — Security System Engineer（研究档 KP；andreea.toderici@）= 收件人
+- 高管：（管理层未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **两国门禁分销商（已上架 UTEPO PoE）→ 分销 20%，B，加厚 small 一次（换切口：门禁 / 对讲 PoE 配套 STC-028GP / STC-228GP / STC-2224GP + 工业 STI-054GP；RO + HU 两国 DAP 小起订；罗语引子，andreea 直呼 + ofertare@ 抄）；回信 → 次候选**
+  - 稿内不点名 UTEPO / ZKTeco / Dahua；发信窗口 Thu 12–14 EET
+- 备注：分销 20%；B 加厚 small；坐实（CUI + 地址 + 规模）；营收 / 管理层未取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,16 +139,17 @@ updated: 2026-10-28
 - **【用户表】基本都是 Utepo 的；有 Utepo 的**
   > 兴趣：基本都是Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Andreea Toderici（）andreea.toderici@yli.ro 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Andreea Toderici（Security System Engineer（研究档）= 收件人（ofertare@ 抄）（第 111 批 官方登记核实 2026-10-28））andreea.toderici@yli.ro 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | YLI Sisteme S.R.L.（待核） |
+| 法定名称 | YLI ETERNIT ACCES S.R.L.（商号 YLI Control Acces；CUI 19284558；Cluj-Napoca） |
+| 成立 | 2006（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Romania |
-| 其他 | UTEPO 交换机在售；小国名单 |
+| 其他 | UTEPO 交换机在售；小国名单；第 111 批：RO + HU 门禁 / 安防进口分销商（11–50 人；3 办事处；已上架 UTEPO PoE）→ **分销 20%，B，加厚 small 一次（门禁 / 对讲 PoE 配套 STC-028GP / STC-228GP / STC-2224GP + 工业 STI-054GP；两国 DAP 小起订；罗语引子）；回信 → 次候选**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：门禁 / 安防分销
 - **触达通道（公开）**：role: 安防分销商（UTEPO 渠道）；region: 罗马尼亚（小国）
@@ -235,7 +251,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Andreea Toderici | — | andreea.toderici@yli.ro | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Andreea Toderici | Security System Engineer（研究档）= 收件人（ofertare@ 抄）（第 111 批 官方登记核实 2026-10-28） | andreea.toderici@yli.ro | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

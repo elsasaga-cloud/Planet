@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 111 批（CZ/SK · 1 次检索：eltrox.cz/kontakty（E-commerce Group, s.r.o.；Laca Novomeského 2630/13 Bardejov；IČO 47589175；IČ DPH SK2024000066；Sro 31437/P Okresní soud Prešov；info@eltrox.cz）+ /obchodni-podminky（同一经营者）+ eltrox.cz 首页 schema（employee Martin Kundrik）+ info-ostrava.cz（Eltrox s.r.o. Ostrava IČO 29382289 = 另一家安装商，≠）+ heureka（4,4 满意度）；2026-10-28，2026-10-28 查；https://www.eltrox.cz/kontakty/）：**
+
+- 法定名 / 登记号：eltrox.cz（经营者 E-commerce Group, s.r.o.；注册地 Laca Novomeského 2630/13, 085 01 Bardejov, Slovensko；IČO 47589175；IČ DPH SK2024000066；OR Okresný súd Prešov Sro 31437/P）— 安防系统 / 智能家居跨境网店（CZ 站，另有 .sk / .pl 等站；Hikvision / Dahua / Ajax / Netgear / Ubiquiti；「vlastní sklady」）；联系人 Martin Kundrik（info@）；≠ 同名 Eltrox s.r.o. Ostrava IČO 29382289（安防安装商）；表内「Hasivo 的」「质量高」；群发 8 次无回复 · IČO 47589175（SK） · 状态 **Aktívna** · 成立 —（未取） · s.r.o.（斯洛伐克法人）
+- 行业码 / 经营范围：安防 / 智能家居 跨境网店
+- 注册地址：Laca Novomeského 2630/13, 085 01 Bardejov, Slovensko（CZ 站点）
+- 规模档：小型（跨境网店）
+- 账目：未取（finstat 可取，未展开）；—
+- 高管：Martin Kundrik — 站点联系人（eltrox.cz schema；职务未取）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **斯洛伐克法人运营的 CZ/SK 安防网店（已上架 Hasivo 等白牌 PoE）→ 分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP / STC-2224GP 作摄像机套件 PoE SKU + 比价 + 斯洛伐克 DAP；捷 / 斯语引子）；有回声再加厚**
+  - 实体为斯洛伐克法人但站点面向捷克 → entities iso CZ 不改，registry 注明 SK；稿内不点名 Hasivo / Hikvision / Dahua；发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸一次；坐实（经营者 IČO + 卷号；成立日未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,14 +122,17 @@ updated: 2026-10-28
 - **【用户表】Hasivo 的**
   > hasivo的；质量高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Martin Kundrik（eltrox.cz 站点联系人（schema；职务未取）= 收件人（第 111 批 官方登记核实 2026-10-28）） 〔https://www.eltrox.cz/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | eltrox.cz — 经营者 E-commerce Group, s.r.o.（斯洛伐克 Bardejov；IČO 47589175；IČ DPH SK2024000066；OR Okresný súd Prešov）≠ Eltrox s.r.o. Ostrava 29382289 |
+| 成立 | 未取（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 eltrox.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+| 其他 | 官网 eltrox.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 111 批：SK 法人运营的 CZ / SK 安防网店（已上架白牌 PoE）→ **分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP / STC-2224GP 作摄像机套件 PoE SKU + 比价 + SK DAP；捷 / 斯语引子）；有回声再加厚**；iso 保持 CZ（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统 / 智能家居网店
 - **触达通道（公开）**：role: 安防/智能家居网店（捷克，Hasivo PoE 在售）；region: 捷克；contact: info@eltrox.cz
@@ -207,7 +224,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@eltrox.cz | 用户表原值 | Clients/ 表 |
+| Martin Kundrik | eltrox.cz 站点联系人（schema；职务未取）= 收件人（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.eltrox.cz/ |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -275,7 +292,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Martin,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Hasivo and Netgear PoE switches in your e-shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your camera-kit customers buy most?
 

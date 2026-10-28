@@ -82,6 +82,22 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（IT · 1 次检索：ufficiocamerale（SYSNET S.R.L.；P.IVA 12548250153；REA 1565510；Fatturato € 4.225.776 (2024)；Dipendenti 32 (2026)；Iscrizione 30/07/1998；Utile € 363.895；Capitale € 1.000.000）+ aziende.it（Via Valla Lorenzo 16 Milano；2025 fatturato € 5.229.011 +23,7%；utile € 8.864）+ aziende.money.it（2022–2024 ricavi €1.64M → €2.63M → €4.34M）+ sysnettelematica.it/it/contatti（Sysnet S.r.l.；sales@sysnetexplorer.com；sedi Milano / Torino / Roma）；2026-10-28，2026-10-28 查；https://www.ufficiocamerale.it/4286/sysnet-telematica-srl）：**
+
+- 法定名 / 登记号：SYSNET S.R.L.（原 Sysnet Telematica S.r.l.；sysnettelematica.it / sysnetexplorer.com；Via Lorenzo Valla 16, 20141 Milano（原 Viale Berbera 49）；分部 Torino / Roma；P.IVA / CF 12548250153；REA MI-1565510；股本 €1,000,000）— 1998-07-30 登记的 ICT / 电信集成商 + 软件（ATECO 58.29；公采 MePA；CTC Union 等工业 FS）；32 名雇员（2026）；2025 营收 €5.23M（+23.7%；2024 €4.23M；2022 €1.49M）、2025 净利 €8.9k（2024 €364k）；KP Stefano Cornelli（Deputy CTO）、Christian Tufariello（COO）；群发 8 次无回复 · P.IVA 12548250153 / REA MI-1565510 · 状态 **Attiva** · 成立 1998-07-30 · S.r.l.
+- 行业码 / 经营范围：ICT / 电信 系统集成 + 软件
+- 注册地址：Via Lorenzo Valla 16, 20141 Milano (MI)
+- 规模档：中小型（32 人）
+- 账目：2025 营收 €5,229,011 / 净利 €8,864（2024 €4,225,776 / €363,895）；—
+- 高管：Stefano Cornelli — Deputy CTO（研究档 KP；stefano.cornelli@sysnetexplorer.com）= 收件人
+- 高管：Christian Tufariello — Chief Operating Officer（研究档 KP）= 收件人（抄）
+- 控制人 / 股东：未取
+- 曾用名：Sysnet Telematica S.r.l.
+- **这意味着什么：**
+  - **三年营收 ×3.5 的 ICT 集成商（已用台系工业 FS）→ 集成 25% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-288DGGPM + STC-2224GP 作项目第二价位 + 3 年保；意语引子，Stefano 直呼 + Christian 抄）；有回声再加厚**
+  - 稿内不点名 CTC Union；只提企业 / 工业 / 公共楼宇，不提轨交；发信窗口 Thu 12–14 CET
+- 备注：集成 25% small；一页纸一次；坐实（P.IVA + REA + 营收 + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,16 +138,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS CTCU**
   > 工业FS CTCU的；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Stefano Cornelli（）stefano.cornelli@sysnetexplorer.com 〔用户表〕
-- **KP**：Christian Tufariello（） 〔用户表〕
+- **KP**：Stefano Cornelli（Deputy CTO（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28））stefano.cornelli@sysnetexplorer.com 〔用户表〕
+- **KP**：Christian Tufariello（Chief Operating Officer（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SYSNET S.R.L.（原 Sysnet Telematica S.r.l.；P.IVA / CF 12548250153；REA MI-1565510；Milano + Torino 等分部） |
+| 成立 | 1998-07-30（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 sysnettelematica.it，语言 it，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 sysnettelematica.it，语言 it，快照状态 ok；角色判定来源：待核；第 111 批：三年营收 ×3.5 的 ICT 集成商（32 人；2025 营收 €5.23M；已用台系工业交换机）→ **集成 25% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM + STC-2224GP 作项目第二价位 + 3 年保；意语引子，Stefano 直呼 + Christian 抄）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：ICT / 电信集成（意大利）
 - **触达通道（公开）**：role: ICT/电信集成商（意大利，工业 FS 现 CTC Union）；region: 意大利；contact: sysnettelematica@legalmail.it、stefano.cornelli@sysnetexplorer.com
@@ -225,8 +243,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Stefano Cornelli | — | stefano.cornelli@sysnetexplorer.com | 调研核实（公开页） | 用户表 |
-| Christian Tufariello | — | — | 调研核实（公开页） | 用户表 |
+| Stefano Cornelli | Deputy CTO（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28） | stefano.cornelli@sysnetexplorer.com | 调研核实（公开页） | 用户表 |
+| Christian Tufariello | Chief Operating Officer（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 12 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

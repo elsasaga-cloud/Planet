@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 111 批（IT · 1 次检索：ufficiocamerale（KM SOLTEC SOCIETA' A RESPONSABILITA' LIMITATA；P.IVA 04466860238；VIA I MAGGIO 4 PRESSANA (VR)；REA 463733；Fatturato € 2.011.883 (2024)；Dipendenti 10 (2025)；Data Iscrizione 20/03/2017；Utile € 2.777；Capitale € 2.950）+ fatturatoitalia（2023 营收 €1.69M 净利 €7.3k；ATECO 47.91.1）+ kmsoltec.com/en/content/16-about-us（founder Matteo Pinato；over 10 years；industrial hardware / Panel PC）+ kimera-computers.com/en/about-us（2007 起进口 Mini-ITX 工业主板；Made in Italy 工业 PC；2P Tech 解散 → KM Soltec）+ LinkedIn（2–10 人；2017）；2026-10-28，2026-10-28 查；https://www.ufficiocamerale.it/6041/km-soltec-societa-a-responsabilita-limitata）：**
+
+- 法定名 / 登记号：KM SOLTEC S.R.L.（kmsoltec.com；自有工业 PC 品牌 Kimera Computers；Via I Maggio 4, 37040 Pressana (VR)；P.IVA / CF 04466860238；REA VR-463733）— 2017-03-20 登记的工业 PC / Panel PC / 嵌入式硬件网店 + 「Made in Italy」工业 PC 组装商（Asus 迷你 PC 认证经销 #1 意大利；Delock 配件）；创始人 Matteo Pinato（前身 2P Tech）；10 名雇员（2025）；2024 营收 €2.01M、净利 €2,777；股本 €2,950；ATECO 47.91.1 网售；表内「卖德国 Delock 公司的；switch」「质量一般」；A 箱 5 封无回复 · P.IVA 04466860238 / REA VR-463733 · 状态 **Attiva** · 成立 2017-03-20 · S.r.l.
+- 行业码 / 经营范围：工业 PC 组装（自有品牌 Kimera）+ 工业硬件网售
+- 注册地址：Via I Maggio 4, 37040 Pressana (VR)
+- 规模档：小型（10 人）
+- 账目：2024 营收 €2,011,883 / 净利 €2,777（2023 €1,686,833 / €7,336）；—
+- 高管：Matteo Pinato — Fondatore / Amministratore（kmsoltec.com About）= 拍板人 / 收件人（info@ 点名）
+- 控制人 / 股东：Matteo Pinato（推定）
+- 曾用名：2P Tech（前身，已解散）
+- **这意味着什么：**
+  - **自有工业 PC 品牌 Kimera（Made in Italy 组装）+ 面向工厂客户的硬件网店 → 贴标 / 配套 30% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP 作工业 PC 整机配套，可贴 Kimera 标 + 3 年保 + MOQ 1）；有回声再加厚**
+  - 稿内不点名 Delock / Asus；收件人 info@ 点名 Matteo Pinato；发信窗口 Thu 12–14 CET
+- 备注：贴标 / 配套 30% small；一页纸一次；坐实（P.IVA + REA + 营收 + 创始人）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - 88064 € ← 「first Most expensive first In stock first Switch di rete Delock 10" Gigabit Ethernet Switch 8 Port + 1 SFP Delock 88064 €110」（https://www.kmsoltec.com/en/343-switch-di-rete）
@@ -117,14 +132,17 @@ updated: 2026-10-28
 - **【用户表】卖 Delock 的；switch**
   > 卖德国Delock公司的 / switch；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Matteo Pinato（Fondatore / Amministratore（kmsoltec.com About）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）） 〔https://www.kmsoltec.com/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | KM SOLTEC S.R.L.（自有工业 PC 品牌 Kimera Computers；P.IVA / CF 04466860238；REA VR-463733） |
+| 成立 | 2017-03-20（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 kmsoltec.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 kmsoltec.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 111 批：Pressana (VR) 工业 PC 组装 + 工厂硬件网店（10 人；2024 营收 €2.01M）→ **贴标 / 配套 30% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP 作工业 PC 整机配套，可贴 Kimera 标 + 3 年保 + MOQ 1；意语引子，Matteo 直呼）**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：定制工业 PC / 工业触控设备；Delock 配件 / Asus 迷你 PC 经销
 - **触达通道（公开）**：role: 工业 PC 制造/分销（意大利，Delock 配件）；region: 意大利；contact: info@kmsoltec.com
@@ -202,7 +220,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@kmsoltec.com | 用户表原值 | Clients/ 表 |
+| Matteo Pinato | Fondatore / Amministratore（kmsoltec.com About）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.kmsoltec.com/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -271,7 +289,7 @@ updated: 2026-10-28
 **主题**：STI-080GE - industrial DIN-rail 8-port Gigabit switch (neutral label)
 
 ```text
-Hello,
+Hi Matteo,
 
 Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 1 April 2025 - and there was no reason to answer a mass mail. This one is specific. For the switches you bundle with your industrial PCs and Delock accessories, we supply DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?
 

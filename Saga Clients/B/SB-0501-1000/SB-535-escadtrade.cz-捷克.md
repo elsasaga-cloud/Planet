@@ -72,6 +72,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 111 批（CZ · 1 次检索：firmy.euro.cz（ESCAD Trade s.r.o.；Městský soud v Praze 29. 3. 1994；C 27175；IČO 60487283；s.r.o.）+ rejstrik.penize.cz（vznik 29. 3. 1994）+ zivefirmy（IČ 60487283；DIČ CZ60487283；DS 5k6pvea）+ escadtrade.cz/o-nas（od roku 1993 dovoz a prodej kamerových systémů；velkoobchodní sklad；záruka 24 měsíců）+ escadtrade.cz 首页（Autorizovaný dodavatel IP kamer Milesight；Grundig）+ podnikatel.cz（NACE 261 / 46190 / 46900）；2026-10-28，2026-10-28 查；https://firmy.euro.cz/subjekt-escad-trade-s-r-o-60487283）：**
+
+- 法定名 / 登记号：ESCAD Trade s.r.o.（escadtrade.cz；U Továren 770/1b, 102 00 Praha 10 – Hostivař；IČO 60487283；DIČ CZ60487283；C 27175 Městský soud v Praze；数据箱 5k6pvea）— 1994-03-29 登记（业务 1993）的 CCTV 进口批发商 + 网店（Milesight 授权供应商、Grundig、Axis、Hikvision、Dahua、PLANET、TP-Link；批发仓；24 个月保；可借测）；表内「卖几个有名牌子的 MILESIGHT」；群发 19 次无回复 · IČO 60487283 · 状态 **Aktivní** · 成立 1994-03-29 · s.r.o.
+- 行业码 / 经营范围：CCTV 进口批发 + 网店（布拉格）
+- 注册地址：U Továren 770/1b, 102 00 Praha 10 – Hostivař
+- 规模档：小型
+- 账目：未取；—
+- 高管：（jednatel 未取）— 收件人 obchod@escadtrade.cz
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **30 年 CCTV 批发商（已售台系 PLANET + Milesight）→ 分销 20% small，一页纸一次（切口：STC-028GP / STC-228GP / STC-2224GP 配 Milesight 级摄像机的第二价位 PoE + 捷克 DAP 小起订；捷语引子）；有回声再加厚**
+  - 稿内不点名 Milesight / PLANET / Axis；发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸一次；坐实（IČO + 卷号 + 成立日）；jednatel 未取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,8 +128,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ESCAD Trade s.r.o.（IČO 60487283；DIČ CZ60487283；C 27175 Městský soud v Praze；Praha 10 – Hostivař） |
+| 成立 | 1994-03-29（业务 1993）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 escadtrade.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+| 其他 | 官网 escadtrade.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 111 批：30 年 CCTV 进口批发商 + 网店（Milesight 授权；已售台系 PoE）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 作摄像机配套的第二价位 PoE + CZ DAP 小起订；捷语引子）；有回声再加厚**；收件人 obchod@（jednatel 未取）（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 安防摄像机分销网店（捷克）
 - **触达通道（公开）**：role: CCTV 分销网店（捷克，多品牌）；region: 捷克；contact: obchod@escadtrade.cz

@@ -92,6 +92,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 111 批（IT · 1 次检索：ufficiocamerale（IOTECH-ITALIA DI L. DONATO；P.IVA 13362610969；VIA GIUSEPPE DI VITTORIO 19 SAN DONATO MILANESE；REA 2718540；Dipendenti 0 (2025)；Forma DI；Iscrizione 25/01/2024；ATECO 466499）+ iotech-italia.net/Condizioni（titolare Iotech-Italia di L. Donato；resa f.co ns. sede；consegna 4 settimane）+ LinkedIn（1 dipendente；ditta individuale；2019；distributore / consulente）+ scamadviser（WHOIS org RCC ITALY srl）；2026-10-28，2026-10-28 查；https://www.ufficiocamerale.it/7045/iotech-italia-di-l-donato）：**
+
+- 法定名 / 登记号：IOTECH-ITALIA DI L. DONATO（ditta individuale；iotech-italia.net；Via Giuseppe Di Vittorio 19, 20097 San Donato Milanese (MI)；P.IVA 13362610969；REA MI-2718540）— 2024-01-25 登记（业务 2019 起，自述 30 年经验）的一人工业 IoT / M2M 元器件分销 + 技术代表（Modbus 数据记录仪、I/O 模块、Wlink 4G/5G 工业路由器、Inveo RFID、串口转以太网、Egnite 温湿度；「非电商、顾问式」；交期 4 周）；0 名雇员；域名登记人 RCC ITALY srl；群发 13 次无回复 · P.IVA 13362610969 / REA MI-2718540 · 状态 **Attiva** · 成立 2024-01-25（业务 2019） · Ditta individuale
+- 行业码 / 经营范围：工业 IoT / M2M 元器件 一人分销 + 技术代表
+- 注册地址：Via Giuseppe Di Vittorio 19, 20097 San Donato Milanese (MI)
+- 规模档：微型（1 人）
+- 账目：—（个体，无公开账）；—
+- 高管：L. Donato（Lorenzo，CF DNTLNZ…）— Titolare = 拍板人 / 收件人（info@）
+- 控制人 / 股东：L. Donato
+- 曾用名：L2-Consulting di Luca Sivori（同址前身，研究档）
+- **这意味着什么：**
+  - **一人工业 IoT 技术代表（顾问式、代理多个小众欧洲品牌）→ 分销 20% small，一页纸一次（切口：代理一条中性品牌工业 PoE 线 STI-054GP / STI-144GP / STI-154GP，MOQ 1 + 3 年保 + 技术资料包；意语引子）；再无回声 → 不动**
+  - 稿内不点名 Wlink / Inveo；发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸一次；坐实（P.IVA + REA；个体）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -137,17 +152,17 @@ updated: 2026-10-28
 - **【用户表】WhatsApp 已加；13 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：L. Donato（业主（官网版权栏「Iotech-Italia di L. Donato」））info@iotech-italia.net（公司公开） +39 339 2514 712〔https://www.iotech-italia.net/wlink-tech〕
+- **KP**：L. Donato（Titolare（ditta individuale；Lorenzo）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28））info@iotech-italia.net（公司公开） +39 339 2514 712〔https://www.iotech-italia.net/wlink-tech〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Iotech-Italia di L. Donato（ditta individuale；P.IVA IT-13362610969） |
-| 成立 | 2019（LinkedIn） |
+| 法定名称 | IOTECH-ITALIA DI L. DONATO（ditta individuale；P.IVA 13362610969；REA MI-2718540；域名持有人 RCC ITALY srl） |
+| 成立 | 2024-01-25（业务 2019）（第 111 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Via G. di Vittorio 19, 20097 San Donato Milanese (MI), Italia（+39 339 2514 712；info@iotech-italia.net / admin@iotech-italia.net） |
-| 其他 | 面向机器/设备设计者、制造商、安装与维护商；品类列表含「Switch Ethernet Industriali」、「Router & Modem 4G, 5G industriali」、「Convertitori Seriale - Ethernet」 |
+| 其他 | 面向机器/设备设计者、制造商、安装与维护商；品类列表含「Switch Ethernet Industriali」、「Router & Modem 4G, 5G industriali」、「Convertitori Seriale - Ethernet」；第 111 批：San Donato Milanese 一人工业 IoT 技术代表（顾问式代理小众品牌）→ **分销 20% small，一页纸一次（代理一条中性品牌工业 PoE 线 STI-054GP / STI-144GP / STI-154GP，MOQ 1 + 3 年保；意语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业 IoT/M2M 元器件分销（数据记录、I/O、RFID、路由器、交换机）；国外品牌在意技术代表（egnite、DLM、Infinite、Wlink、Inveo、Hi-Flying）
 - **触达通道（公开）**：网站: https://www.iotech-italia.net/；电话: +39 339 2514 712（官网公开）；邮箱（公开）: info@iotech-italia.net
@@ -248,7 +263,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| L. Donato | 业主（官网版权栏「Iotech-Italia di L. Donato」） | info@iotech-italia.net（公司公开） / +39 339 2514 712 | 调研核实（公开页） | https://www.iotech-italia.net/wlink-tech |
+| L. Donato | Titolare（ditta individuale；Lorenzo）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28） | info@iotech-italia.net（公司公开） / +39 339 2514 712 | 调研核实（公开页） | https://www.iotech-italia.net/wlink-tech |
 | Luca Sivori | — | info@iotech-italia.net / +393358784738 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
