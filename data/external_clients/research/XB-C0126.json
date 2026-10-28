@@ -1,0 +1,49 @@
+{
+ "code": "XB-C0126",
+ "name": "Micro-ray Electronics（美国）",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "电子元器件/线缆增值分销（Micro-Ray Electronics，Brick NJ；1984 起；1–10 人）",
+ "type_final": "电子元器件/线缆增值分销（Micro-Ray Electronics，Brick NJ；1984 起；1–10 人）",
+ "size": "电子元器件/线缆增值分销（Micro-Ray Electronics，Brick NJ；1984 起；1–10 人）",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "B类 — PoE分销/制造",
+   "quote": "",
+   "url": "",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网自述 value-added distributor and manufacturer of electronic components since 1984",
+   "quote": "Micro-Ray Electronics Inc. is a family-owned and operated Value-Added Distributor and Manufacturer of electronic components since our founding in 1984",
+   "url": "https://micro-ray.com/home/"
+  }
+ ],
+ "contacts": {
+  "email": "",
+  "email_status": "缺",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "元器件/线缆为主，交换机只是零星网络耗材；sales@micro-ray.com 已记 → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

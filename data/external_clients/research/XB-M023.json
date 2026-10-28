@@ -1,0 +1,52 @@
+{
+ "code": "XB-M023",
+ "name": "ERC",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "MikroTik 官方分销（自带邮箱）（乌克兰）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
+ "type_final": "MikroTik 官方分销（自带邮箱）（乌克兰）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Master",
+  "VAD）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Kyiv",
+   "quote": "",
+   "url": "https://erc.ua/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-08 发 network_soho@erc.ua「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-08"
+  }
+ ],
+ "contacts": {
+  "email": "Network_SOHO@erc.ua",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-08 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "战时物流/结算风险，邮箱已在记录 → B 不动，待局势稳定再评",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

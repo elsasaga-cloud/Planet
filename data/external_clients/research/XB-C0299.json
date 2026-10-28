@@ -1,0 +1,52 @@
+{
+ "code": "XB-C0299",
+ "name": "TESAN",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "增值技术分销（TESAN İletişim A.Ş.，Istanbul；1983 起；约 300 人；4,000+ 品类、5,000+ 经销/零售伙伴；2016 起 Hikvision 土耳其分销（含交换机）；土耳其安防摄像头分销第一）",
+ "type_final": "增值技术分销（TESAN İletişim A.Ş.，Istanbul；1983 起；约 300 人；4,000+ 品类、5,000+ 经销/零售伙伴；2016 起 Hikvision 土耳其分销（含交换机）；土耳其安防摄像头分销第一）",
+ "size": "增值技术分销（TESAN İletişim A.Ş.，Istanbul；1983 起；约 300 人；4,000+ 品类、5,000+ 经销/零售伙伴；2016 起 Hikvision 土耳其分销（含交换机）；土耳其安防摄像头分销第一）",
+ "brands_seen": [],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "土耳其头部安防/通信分销，已卖交换机品类",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Hikvision土耳其官方分销商（2016年起）",
+   "quote": "",
+   "url": "https://tesan.com.tr/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网品牌页：TESAN has been the Turkish distributor of Hikvision … and switch solutions since 2016；tesan@tesan.com.tr",
+   "quote": "TESAN has been the Turkish distributor of Hikvision security camera systems (CCTV), intruder alarm systems, intercom systems, and switch solutions since 2016",
+   "url": "https://www.tesan.com.tr/en/brands/23/hikvision"
+  }
+ ],
+ "contacts": {
+  "email": "tesan@tesan.com.tr",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "TR 主战场、头部分销、邮箱已补 → 升 A 首触（排 W51 周四）",
+ "next_move": {
+  "action": "首触",
+  "angle": "分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI",
+  "model": "STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "TR 周四 12–14",
+  "when": "2026-12-17"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "PoE switch line for your reseller channel - distributor pricing",
+  "body": "Hi,\n\nSaga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWho on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

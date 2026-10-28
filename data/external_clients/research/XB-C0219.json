@@ -1,0 +1,52 @@
+{
+ "code": "XB-C0219",
+ "name": "Acandia（瑞典）",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "测控技术分销（Acandia AB，Tyresö；2006 起；8 人；测量/控制/数据采集产品，含工业交换机品类）",
+ "type_final": "测控技术分销（Acandia AB，Tyresö；2006 起；8 人；测量/控制/数据采集产品，含工业交换机品类）",
+ "size": "测控技术分销（Acandia AB，Tyresö；2006 起；8 人；测量/控制/数据采集产品，含工业交换机品类）",
+ "brands_seen": [],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "工业测控渠道，DIN 导轨 PoE 可补位",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "C类 — 瑞典工业分销",
+   "quote": "",
+   "url": "https://acandia.se/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网客服页 Försäljning - info@acandia.se；产品页有 Opal 5 industriell switch；allabolag：8 anställda，2006 起",
+   "quote": "Acandia erbjuder produkter och tjänster för mätning, styrning och mätvärdesinsamling",
+   "url": "https://www.acandia.se/customer-service"
+  }
+ ],
+ "contacts": {
+  "email": "info@acandia.se",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "SE 小型工业分销、邮箱已补 → 升 A 首触（轻，排 2027-W02）",
+ "next_move": {
+  "action": "首触",
+  "angle": "工业 DIN 轨 PoE 首触",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "SE 周四 12–14",
+  "when": "2027-01-14"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "DIN-rail industrial PoE switches - second source for your line card",
+  "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point (CE certified).\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to the industrial brands you carry?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

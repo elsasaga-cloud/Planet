@@ -1,0 +1,51 @@
+{
+ "code": "XB-M105",
+ "name": "Accreda Ltd",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "MikroTik 官方分销（自带邮箱）（Accreda，马耳他；sales@accreda.eu）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
+ "type_final": "MikroTik 官方分销（自带邮箱）（Accreda，马耳他；sales@accreda.eu）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Reseller）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Valletta",
+   "quote": "",
+   "url": "https://accreda.eu/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-10 发 sales@accreda.eu「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-10"
+  }
+ ],
+ "contacts": {
+  "email": "sales@accreda.eu",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-10 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小市场 → B 不动，邮箱已记",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,49 @@
+{
+ "code": "XB-C0073",
+ "name": "Telesystem（罗马尼亚）",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "Telesystem（罗马尼亚 PoE 交换机授权分销）",
+ "type_final": "Telesystem（罗马尼亚 PoE 交换机授权分销）",
+ "size": "未量化",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "C类 — PoE交换机授权分销",
+   "quote": "",
+   "url": "https://telesystem.ro/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-09 发 comenzi@telesystem.ro「Confirmare de primire」，去 1 来 1",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-09"
+  }
+ ],
+ "contacts": {
+  "email": "comenzi@telesystem.ro",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-09 群发「Confirmare de primire」→ 来信（Confirmare de primire），待核",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "邮箱待补 → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

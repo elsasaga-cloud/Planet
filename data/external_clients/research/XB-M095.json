@@ -1,0 +1,51 @@
+{
+ "code": "XB-M095",
+ "name": "Itshopp.com",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "MikroTik 官方分销（自带邮箱）（ITShopp，美国；eddy@itshopp.com，S 箱已去信未回）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
+ "type_final": "MikroTik 官方分销（自带邮箱）（ITShopp，美国；eddy@itshopp.com，S 箱已去信未回）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Reseller）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "USMiami 【2026-09-28 R53 B段复筛达标升级】官网核对：IT Shopp（美国）自述 «Online Shopping Networking Product and computer Parts»，在售交换机为核心品类：TP-Link TL-SG3452P JetStream 52-Port L2 Managed PoE（$549.99）、TL-SG1016PE 16-Port Gigabit Easy Smart ",
+   "quote": "",
+   "url": "https://itshopp.com/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-06 发 eddy@itshopp.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-06"
+  }
+ ],
+ "contacts": {
+  "email": "eddy@itshopp.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-06 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小型网店、已发未回 → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

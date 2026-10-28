@@ -191,6 +191,11 @@ def main():
         s0 = m0 + dt.timedelta(days=6)
         w0 = iso_week(m0)
         lst0 = sorted([i for i in send if i['date'] and m0 <= i['date'] <= s0], key=lambda x: (x['date'], x['iso'], x['code']))
+        if k > 0 and not lst0:
+            fp = os.path.join(ROOT, 'docs', '发送包', f'{w0}.md')
+            if os.path.exists(fp):
+                os.remove(fp)  # 空周不出发送包（跳过 W52/W01 这类空档）
+            continue
         write_package(w0, m0, s0, lst0, [i for i in send if not (i['date'] and m0 <= i['date'] <= s0)], now)
         future[w0] = len(lst0)
     # ---------- 跟进总台 ----------

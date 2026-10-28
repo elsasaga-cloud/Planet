@@ -1,0 +1,49 @@
+{
+ "code": "XB-C0182",
+ "name": "Cyber Distribution（UK）",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "增值分销（Cyber Distribution Ltd，Basingstoke；2018 起；2–10 人；Cambium/Barracuda/Securly；教育网络）",
+ "type_final": "增值分销（Cyber Distribution Ltd，Basingstoke；2018 起；2–10 人；Cambium/Barracuda/Securly；教育网络）",
+ "size": "增值分销（Cyber Distribution Ltd，Basingstoke；2018 起；2–10 人；Cambium/Barracuda/Securly；教育网络）",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "C类 — Cambium分销",
+   "quote": "",
+   "url": "https://cyberdistribution.co.uk/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "LinkedIn 2–10 人、2018 成立；联系页仅表单",
+   "quote": "We are a value added distributor bringing innovative network connectivity, security and e-safety solutions to the UK market",
+   "url": "https://cyberdistribution.co.uk/"
+  }
+ ],
+ "contacts": {
+  "email": "",
+  "email_status": "缺",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小型 VAD、无公开销售邮箱（仅表单）、以 Cambium 云管为主 → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

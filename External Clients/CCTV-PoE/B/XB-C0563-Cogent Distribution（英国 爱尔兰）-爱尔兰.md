@@ -1,6 +1,6 @@
 # XB-C0563 · Cogent Distribution（英国/爱尔兰） · 爱尔兰
 
-> **初判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-8.md`:120 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-8.md`:120 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
@@ -59,7 +59,22 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+
+- **结论：XB** — 已去一信未回，下一轮再评第二封 → B 不动
+- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 一句话：Cogent Technology（爱尔兰 IT 分销；S 箱 10-01 已去信未回）
+- 是什么人：Cogent Technology（爱尔兰 IT 分销；S 箱 10-01 已去信未回）；规模：未量化
+- 对口哪条线：—
+- 找得到人吗：enquiries@cogentdistribution.com（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回
+- 与 Saga Clients：无
+- **下一动作：不动**；建议 不动
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | C类 — Perle Systems分销 |  | https://cogentdistribution.com/ | 2026-09-28 |
+| S 箱群发记录 | S 箱 2026-10-01 发 enquiries@cogentdistribution.com「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-01 |
+
+- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

@@ -1,6 +1,6 @@
 # XB-M075 · Comitek（doxyterra.md） · 摩尔多瓦
 
-> **初判 XB 慢慢跟进** ｜ 来源 mikrotik-info `B-210`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XB 慢慢跟进** ｜ 来源 mikrotik-info `B-210`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区但没有可用邮箱（只有表单或地址失效）→ 先 XB，补到邮箱再升
@@ -78,7 +78,23 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+
+- **结论：XB** — 主战场外 → B 不动，邮箱已记
+- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 一句话：MikroTik 官方分销（自带邮箱）（Doxyterra，摩尔多瓦；info@doxyterra.md）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口
+- 是什么人：MikroTik 官方分销（自带邮箱）（Doxyterra，摩尔多瓦；info@doxyterra.md）；规模：未量化
+- 在卖/在用：MikroTik（Master）
+- 对口哪条线：—
+- 找得到人吗：info@doxyterra.md（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 2026-10-09 群发「24 Port PoE Managed Switch」→ 已发未回
+- 与 Saga Clients：无
+- **下一动作：不动**；建议 不动
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | Chișinău |  | https://doxyterra.md/ | 2026-09-28 |
+| S 箱群发记录 | S 箱 2026-10-09 发 info@doxyterra.md「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-09 |
+
+- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

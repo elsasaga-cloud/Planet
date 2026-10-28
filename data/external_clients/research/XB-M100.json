@@ -1,0 +1,44 @@
+{
+ "code": "XB-M100",
+ "name": "DITECAL S.L",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "MikroTik 官方分销（自带邮箱）（DITECAL，西班牙；pedidos@ditecal.es）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
+ "type_final": "MikroTik 官方分销（自带邮箱）（DITECAL，西班牙；pedidos@ditecal.es）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Reseller）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Alcalá la Real 【2026-09-28 R53 B段复筛达标升级】官网核对：Ditecal S.L（西班牙 Sevilla，pedidos@ditecal.es，953 004 850）自述 «Tienda Online Proveedor telecomunicaciones»，专营 MikroTik（「Productos Mikrotik en stock」轮播） + ISP/电信物料；在售 RG-ES108GD 8 ",
+   "quote": "",
+   "url": "https://tienda.ditecal.es/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "pedidos@ditecal.es",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "仅订单邮箱、小型 → B 不动",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,44 @@
+{
+ "code": "XB-M036",
+ "name": "Setevuha",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "MikroTik 官方分销（自带邮箱）（乌克兰）；专属邮箱 mikrotik@setevuha.ua",
+ "type_final": "MikroTik 官方分销（自带邮箱）（乌克兰）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Reseller）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Kyiv 【2026-09-28 R53 B段复筛达标升级】官网核对：Setevuha 为网络设备+安防专营店，「Мережеві комутатори」列在热门分类首位并含「Аксесуари для комутаторів」、SFP、机柜、PON、监控/门禁。原 B-027 → 现 A-438，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://setevuha.ua/)；批次：batch/",
+   "quote": "",
+   "url": "https://setevuha.com.ua/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "mikrotik@setevuha.ua",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "战时物流/结算风险，邮箱已在记录 → B 不动，待局势稳定再评",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,6 +1,6 @@
 # XB-C1119 · EBDS (European Business & Distribution Services) · 德国
 
-> **初判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17709 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17709 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
@@ -81,7 +81,22 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+
+- **结论：XB** — 主营无线路由/LoRaWAN/天线，交换机非其品类；国别修正 DE→FR；邮箱已补（info@ebds.eu），留 B 备用
+- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 一句话：无线/IoT/天线分销（EBDS Wireless & Antennas，Montbonnot/Grenoble，法国；2013 起，10–19 人）
+- 是什么人：无线/IoT/天线分销（EBDS Wireless & Antennas，Montbonnot/Grenoble，法国；2013 起，10–19 人）；规模：无线/IoT/天线分销（EBDS Wireless & Antennas，Montbonnot/Grenoble，法国；2013 起，10–19 人）
+- 对口哪条线：—
+- 找得到人吗：（缺）；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：不动**；建议 不动
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 工业/IoT分销商 |  | https://ebds.eu/ | 2026-09-28 |
+| 本轮网查 | 官网页脚 info@ebds.eu；Grenoble；10–19 人 | EBDS distribue des solutions sans-fil et est expert des antennes | https://www.ebds.eu/ | 2026-10-28 |
+
+- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

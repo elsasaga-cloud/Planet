@@ -1,0 +1,47 @@
+{
+ "code": "XB-M086",
+ "name": "iWave Group S.A.",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "MikroTik 官方分销（自带邮箱）（iWave，波兰）；域名 mikrotik.org.pl → 单品牌依赖最高",
+ "type_final": "MikroTik 官方分销（自带邮箱）（iWave，波兰）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Reseller）"
+ ],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "MikroTik 渠道",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Wrocław 【2026-09-28 R53 B段复筛达标升级】官网核对：mikrotik.org.pl（iWave Group S.A.，波兰）为 MikroTik/RouterOS 专营网店（含论坛 mikrotikforum.pl、培训 Szkolenia、维修 Serwis、Download），类目树含 Automatyka i Przemysł。原 B-275 → 现 A-516，物理位置不动、原 B 号空置不回填；证据与原",
+   "quote": "",
+   "url": "https://mikrotik.org.pl/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "info@iwave.pl",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "PL 次级市场、MikroTik 官方分销 → A 首触（轻，排 2027-W02）",
+ "next_move": {
+  "action": "首触",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "PL 周四 12–14",
+  "when": "2027-01-14"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "L2+ PoE and industrial switches for your reseller channel",
+  "body": "Hi,\n\nSaga Telecom supplies network distributors with Marvell-based L2+ PoE switches and Centec-based L3 10G/25G/100G switches, under our label or the distributor's own, CE. Two lines that usually interest MikroTik and WISP channels:\n\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).\n- STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\n\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}
