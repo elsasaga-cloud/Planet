@@ -82,6 +82,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 102 批（GB · 1 次检索：Companies House 14564199（4DEMAND LTD；Active；Private limited company；Incorporated 2022-12-30；注册地 227 Nether Street, London N3 1NT（2024-10-23 由 80 Golders Green Road NW11 8LN 迁入）；SIC 46900 / 62012 / 62020 / 62090；董事 TAVAKOLI ZANIANI, Mohsen（2022-12-30 起，British，*1992-02）；PSC 同人 75–100%；NEWINC 股本 £1；CS01 2025-01-03）+ Endole（1 董事 / 1 股东 / 1 PSC；020 3576 1986）+ sponsorlicensechecker（UK 担保人名册 Skilled Worker，SIC 46900），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/14564199）：**
+
+- 法定名 / 登记号：4DEMAND LTD（4demand.co.uk；London N3）— 2022-12-30 注册的微型 IT / 贸易公司（SIC 46900 非专业批发 + 62012/62020/62090 软件 / IT 咨询；自述由波斯湾地区多家企业合并而来：IT 服务、CCTV / 报警、设备供应与进出口）；Companies House 14564199；资本 £1；**唯一董事 / PSC Mohsen Tavakoli Zaniani（*1992-02）**；英国 Skilled Worker 担保资质；研究档采购联系 Mr. Ari（procurement@） · Companies House 14564199 · 状态 **Active（CS01 2025-01-03）** · 成立 2022-12-30 · Private limited company（资本 £1；单一董事 / PSC）
+- 行业码 / 经营范围：46900 — 非专业批发；62012 / 62020 / 62090 — 软件开发 / IT 咨询 / 其他 IT 服务
+- 注册地址：227 Nether Street, London N3 1NT（住宅 / 小办公；前址 80 Golders Green Road NW11 8LN）
+- 规模档：微型（<10 人；营业额 <£1M）
+- 账目：—（微型豁免）；—
+- 高管：Mohsen Tavakoli Zaniani — Director / PSC（*1992-02；British）= 拍板人
+- 高管：Mr. Ari — 采购（表内 procurement@）= 收件人
+- 控制人 / 股东：Mohsen Tavakoli Zaniani（75–100%）
+- **这意味着什么：**
+  - **£1 资本微型贸易 / 转口公司（面向海湾）→ 采购型 small：一页纸 + 100% 预付、不赊、不备货**：STC-028GP / STC-228GP / STC-2224GP 按单报价；**目的地与最终用户按出口合规核对（海湾转口）**
+  - 收件人 procurement@ 点名 Mr. Ari 抄 Director；表内已有采购联系 → 首信一页纸即止；发信窗口 Thu 12–14 GMT
+- 备注：采购型 small；100% 预付；一页纸；转口合规核对。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,8 +137,8 @@ updated: 2026-10-28
 - **【用户表】需求与回复**
   > Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mr. Ari（采购（表内））procurement@4demand.co.uk +971 55 964 5463（WA 已加）〔用户 Clients 表〕
-- **KP**：Mohsen Tavakoli Zaniani（Director / PSC） 〔Companies House（经 Endole）〕
+- **KP**：Mr. Ari（采购（表内；WhatsApp +971 已加 → 海湾一线）= 收件人（第 102 批 官方登记核实 2026-10-28））procurement@4demand.co.uk +971 55 964 5463（WA 已加）〔用户 Clients 表〕
+- **KP**：Mohsen Tavakoli Zaniani（Director / PSC 75–100%（*1992-02；British；Companies House 14564199，2022-12-30 起）= 拍板人（抄送 / 点名）（第 102 批 官方登记核实 2026-10-28）） 〔Companies House（经 Endole）〕
 - **调研后定级**：B（原自动 A）——需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。
 - 备注：WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。 ｜ 国别更正为「英国」（country_fix）：研究档已核 4DEMAND LTD（Companies House 14564199，伦敦地址）；表内「阿联酋」来自 +971 联系人手机（Q-65 国别机检 2026-10-27）
 
@@ -131,10 +146,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | 4DEMAND LTD（Company No. 14564199） |
-| 成立 | 2022-12-30 |
-| 总部/地址 | 227 Nether Street, London N3 1NT（另见 Flat 62 North End Road, London W14 9EP）；020 3576 1986 |
-| 其他 | SIC 46900 非专业批发 / 62012 / 62020 / 62090；董事 Mohsen Tavakoli Zaniani（1992 年生）；Tradeford 简介称源自波斯湾地区企业合并；持技术工签担保资质 |
+| 法定名称 | 4DEMAND LTD（Companies House 14564199；股本 £1；SIC 46900 / 62012 / 62020 / 62090；UK Skilled Worker 担保资质） |
+| 成立 | 2022-12-30（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 227 Nether Street, London N3 1NT（2024-10-23 起；前址 80 Golders Green Road NW11 8LN） |
+| 人数 | 微型（<10 人；营业额 <£1M） |
+| 其他 | SIC 46900 非专业批发 / 62012 / 62020 / 62090；董事 Mohsen Tavakoli Zaniani（1992 年生）；Tradeford 简介称源自波斯湾地区企业合并；持技术工签担保资质；第 102 批：£1 资本微型贸易 / 转口公司（面向海湾）→ **采购型 small：一页纸 + 100% 预付、不赊、不备货**（STC-028GP / STC-228GP / STC-2224GP 按单）；目的地 / 最终用户按出口合规核对（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 支持与设备供应/维护；CCTV、报警与智能楼宇；进出口贸易（设备采购、国际运输）；网站/软件与电商 API
 
@@ -224,8 +240,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mr. Ari | 采购（表内） | procurement@4demand.co.uk / +971 55 964 5463（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
-| Mohsen Tavakoli Zaniani | Director / PSC | — | 调研核实（公开页） | Companies House（经 Endole） |
+| Mr. Ari | 采购（表内；WhatsApp +971 已加 → 海湾一线）= 收件人（第 102 批 官方登记核实 2026-10-28） | procurement@4demand.co.uk / +971 55 964 5463（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Mohsen Tavakoli Zaniani | Director / PSC 75–100%（*1992-02；British；Companies House 14564199，2022-12-30 起）= 拍板人（抄送 / 点名）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | Companies House（经 Endole） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

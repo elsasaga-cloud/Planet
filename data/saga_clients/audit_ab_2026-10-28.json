@@ -4904,7 +4904,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1027": {
@@ -10602,7 +10602,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 1,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-249": {
@@ -13154,7 +13154,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-365": {
@@ -16784,7 +16784,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 3,
+   "kp": 4,
    "summary": true
   },
   "SB-530": {
@@ -18126,7 +18126,7 @@
    "p1": "STI-110GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-591": {
@@ -18588,7 +18588,7 @@
    "p1": "STC-448XGGPM",
    "tier": 25,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-612": {
@@ -22130,7 +22130,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-773": {
@@ -22460,7 +22460,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 3,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-788": {
@@ -22548,7 +22548,7 @@
    "p1": "STI-080GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-792": {
@@ -22570,7 +22570,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-793": {
@@ -22839,8 +22839,8 @@
   },
   "SB-805": {
    "grade": "B",
-   "iso": "GB",
-   "country": "英国",
+   "iso": "BG",
+   "country": "保加利亚",
    "facts": 1,
    "in": 0,
    "out": 0,
@@ -27570,7 +27570,7 @@
   [
    1,
    "SB-805",
-   "英国",
+   "保加利亚",
    "其他"
   ],
   [

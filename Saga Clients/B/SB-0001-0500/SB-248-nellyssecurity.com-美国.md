@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -113,6 +113,25 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 102 批（US · 1 次检索：官网 About / legacy About（2008 Sean Nelson 由 Nelly’s Surplus（Claremore OK）起家；团队 Ryan O’Daniel、Cole Cattaneo、Seth Paulson 等）+ D&B（Nelly’s Security LLC；501 N Aspen Ave, Broken Arrow, OK 74012-2220；Limited Liability Company）+ BBB（「Nelly’s Security, A Division of Rackmount Solutions」；Business Started 2008-01-01；LLC；Jeff Morton CEO/Owner；档案 2011-03-18）+ PitchBook（2008；19 人；Status Acquired/Merged；Buyout/LBO）+ LinkedIn（Wholesale；11–50；Broken Arrow；2008）+ Datanyze（$3.5M；25 人）+ ZoomInfo / RocketReach（Ryan O’Daniel — Technical Operations Officer，2010–；Tanner Dehart VP Logistics）+ IPCamPower About（Sean Nelson 2015 创办，PoE 交换机品牌）；OK SoS 备案号未取，2026-10-28 查；https://www.bbb.org/us/ok/broken-arrow/profile/surveillance-equipment/nellys-security-a-division-of-rackmount-solutions-1025-38020648）：**
+
+- 法定名 / 登记号：Nelly’s Security LLC（nellyssecurity.com；Broken Arrow, Oklahoma）— 2008 年 Sean Nelson 创办的商用级安防设备分销电商（Uniview / Hanwha / ZKTeco / TP-Link / Ubiquiti）；BBB 列为 Rackmount Solutions 一部门（CEO / Owner Jeff Morton），PitchBook 列 Acquired / Merged（Buyout）；创始人 Sean Nelson 另有自有品牌 **IPCamPower（2015 起，专为 IP 摄像机设计的 PoE 交换机）**；研究档 KP Ryan O’Daniel = Technical Operations Officer（2010 起） · OK LLC（SoS 备案号未取）；BBB 列为 Rackmount Solutions 一部门 · 状态 **Active（站点在线；股权已变更 — 待核）** · 成立 2008-01-01 · Limited Liability Company（俄克拉荷马；疑已并入 Rackmount Solutions）
+- 行业码 / 经营范围：商用安防设备分销电商（CCTV / 门禁 / 入侵报警 / 网络；Uniview、Hanwha、ZKTeco、TP-Link、Ubiquiti）；关联自有品牌 IPCamPower（PoE 交换机，创始人 Sean Nelson 另营）
+- 注册地址：501 N Aspen Ave, Broken Arrow, OK 74012
+- 规模档：小型（15–25 人）
+- 账目：第三方营收 $3.5M（仅作区间）；—
+- 高管：Sean Nelson — 创始人（Claremore OK；另营 IPCamPower）
+- 高管：Jeff Morton — CEO / Owner（Rackmount Solutions；BBB）
+- 高管：Ryan O’Daniel — Technical Operations Officer（2010 起）= 研究档 KP rodaniel@
+- 高管：Cole Cattaneo — Sales = 研究档 KP customerservice@
+- 高管：Tanner Dehart — VP of Logistics
+- 控制人 / 股东：Rackmount Solutions（BBB；待核）
+- 曾用名：Nelly’s Surplus（2008）
+- **这意味着什么：**
+  - **安防分销电商 + 创始人自有 PoE 交换机品牌 IPCamPower → 两条线：Nelly’s 分销 20%（STC-028GP / STC-228GP / STC-2216GP / STC-2224GP）+ IPCamPower 贴标 OEM 30%**（专为 IP 摄像机的 PoE 交换机 = 咱们 STC 全线对口）；加厚一次（两线各一张价）
+  - 收件人 Ryan O’Daniel（技术运营，选型人）+ 点名 Sean Nelson（IPCamPower）；股权变更（Rackmount Solutions）→ 采购口可能上移，首信先探采购人；发信窗口 Wed 08–10 CT；升 A 次候选
+- 备注：分销 20% + IPCamPower 贴标 OEM 30%；加厚一次；股权变更待核；升 A 次候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -149,17 +168,20 @@ updated: 2026-10-27
 - **【用户表】PoE switch 摄像头，安防；用的是 ONV 的设备**
   > 兴趣：PoE switch 摄像头，安防 用的是ONV的设备
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ryan O'Daniel（）rodaniel@nellyssecurity.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Cole Cattaneo（）customerservice@nellyssecurity.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ryan O'Daniel（Technical Operations Officer（2010 起；选型人）= 收件人（第 102 批 官方登记核实 2026-10-28））rodaniel@nellyssecurity.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Cole Cattaneo（Sales（官网团队页）= 抄送（第 102 批 官方登记核实 2026-10-28））customerservice@nellyssecurity.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Sean Nelson（创始人（2008；另营自有 PoE 交换机品牌 IPCamPower）= 贴标线点名对象（第 102 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Nelly's Security（待核） |
-| 总部/地址 | USA（俄克拉荷马，待核） |
-| 其他 | 自有标 PoE 疑由 ONV 代工 |
+| 法定名称 | Nelly’s Security LLC（Broken Arrow OK；BBB 列为 Rackmount Solutions 一部门，CEO / Owner Jeff Morton；PitchBook 列 Acquired / Merged — 待核） |
+| 成立 | 2008-01-01（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 501 N Aspen Ave, Broken Arrow, OK 74012 |
+| 人数 | 15–25 人；$3.5M（第三方） |
+| 其他 | 自有标 PoE 疑由 ONV 代工；第 102 批：安防分销电商 + 创始人自有 PoE 交换机品牌 IPCamPower → **分销 20%（STC-028GP / STC-228GP / STC-2216GP / STC-2224GP）+ IPCamPower 贴标 OEM 30%**；加厚一次；股权变更后先探采购人（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防电商
 - **触达通道（公开）**：role: 电商（ONV 用户）；region: 美国
@@ -257,8 +279,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ryan O'Daniel | — | rodaniel@nellyssecurity.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Cole Cattaneo | — | customerservice@nellyssecurity.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ryan O'Daniel | Technical Operations Officer（2010 起；选型人）= 收件人（第 102 批 官方登记核实 2026-10-28） | rodaniel@nellyssecurity.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Cole Cattaneo | Sales（官网团队页）= 抄送（第 102 批 官方登记核实 2026-10-28） | customerservice@nellyssecurity.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Sean Nelson | 创始人（2008；另营自有 PoE 交换机品牌 IPCamPower）= 贴标线点名对象（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -354,12 +377,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

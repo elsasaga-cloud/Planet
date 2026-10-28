@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,6 +86,24 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 102 批（US · 1 次检索：官网 Weltron（1968 品牌起源 Model 2001 收音机）+ winstonele.com About（「Established in 1980 by James Pratt and Gwendolyn Winston, we are a small business located in Oxford, NC – 30 miles north of Research Triangle Park」；服务电脑 / 电子 / 电气分销商）+ Wikipedia Weltron（总部 Oxford NC，前 Durham NC；CEO James Pratt Winston；President Francis Winston；1980 Winston International 成立，约 1985 购 Weltron 品牌）+ LinkedIn Winston International LTD.（Telecommunication and Data Infrastructure Importer；1980 起制造商）+ Crunchbase（Legal Name Winston International LTD.；Oxford NC）+ cage.report（DUNS 056291859；robwinston@winstonele.com 列于 CAGE 3AZP6）+ ZoomInfo（11–50；<$5M；1968）；NC SoS 号未取；**Sunbiz 的 WINSTON ELECTRONICS, INC.（440526，Ft. Lauderdale，1983 已解散）为同名他户**，2026-10-28 查；http://www.winstonele.com/About_us.html）：**
+
+- 法定名 / 登记号：Winston International, Ltd.（Weltron® 品牌独家制造商；weltronproducts.com / winstonele.com；**Oxford, North Carolina**）— 1980 年 James Pratt Winston 与 Gwendolyn Winston 创办的电信 / 数据基础设施进口制造商（Cat5e/6 跳线、光纤跳线、键石、配线架、MC、PoE 交换机、商用音响；1985 前后购得 1968 年 Weltron 品牌）；服务全美经销商；CAGE 3AZP6；研究档 KP Rob Winston（家族成员，职务未核） · NC 公司（SoS 号未取）· CAGE 3AZP6 · DUNS 056291859 · 状态 **Active（站点 / 商店在线）** · 成立 1980（Winston International）；Weltron 品牌 1968 · Ltd.（北卡；Winston 家族）
+- 行业码 / 经营范围：电信 / 数据基础设施产品进口与制造（Weltron 品牌：铜缆 / 光纤跳线、键石、配线架、媒体转换器、PoE 交换机、工业、商用音响、安防），面向全美分销商
+- 注册地址：Oxford, NC（门牌未取；研究档 / 旧地址勿按佛州处理）
+- 规模档：小型（11–50 人）
+- 账目：第三方 <$5M（仅作区间）；—
+- 高管：James Pratt Winston — 创办人 / CEO
+- 高管：Francis Winston — President（Wikipedia）
+- 高管：Rob Winston — 研究档 KP robwinston@（家族成员；职务未核）
+- 高管：A. Winston — 研究档 awinston@（职务未核）
+- 控制人 / 股东：Winston 家族
+- 曾用名：Weltron Company（1968 品牌）
+- **这意味着什么：**
+  - **自有品牌 Weltron 已含 PoE 交换机 + 家族企业直收 → 贴标 OEM 30% 目标**：Weltron 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-144GP（配其跳线 / 键石 / 配线架整线）；B BIG，**加厚**（对标其在售 Weltron PoE 交换机价）
+  - 群发 8 次已打开 → 第二次触达换主题「managed PoE switches under the Weltron label — MOQ 1, 3-year option」；点名 President；发信窗口 Wed 08–10 ET；升 A 候选；州别更正：NC 非 FL
+- 备注：贴标 OEM 30% 目标；B BIG；加厚；升 A 候选；州别 NC。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,15 +146,19 @@ updated: 2026-10-27
 - **【用户表】商业 PoE**
   > 商业PoE；info@weltron.us
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rob Winston（）robwinston@winstonele.com 〔用户表〕
+- **KP**：Rob Winston（Winston 家族成员（robwinston@ 列于 CAGE 3AZP6 官方邮箱；职务未核）= 收件人（第 102 批 官方登记核实 2026-10-28））robwinston@winstonele.com 〔用户表〕
+- **KP**：Francis Winston（President（Wikipedia；创办人 James Pratt Winston = CEO）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 weltronproducts.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Winston International, Ltd.（Weltron® 品牌独家制造商；北卡公司；CAGE 3AZP6；DUNS 056291859；SoS 号未取；Sunbiz 的 Winston Electronics, Inc. 440526 为已解散同名他户） |
+| 成立 | 1980（Winston International）；Weltron 品牌 1968（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Oxford, North Carolina（**州别更正：NC 非 FL**；门牌未取） |
+| 人数 | 11–50 人；<$5M（第三方） |
+| 其他 | 官网 weltronproducts.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 102 批：自有品牌 Weltron 已含 PoE 交换机 + 家族企业直收 → **贴标 OEM 30% 目标**（Weltron 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-144GP）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络基础设施（线缆 / 光纤 / MC / PoE 交换机，自有品牌 Weltron）
 - **触达通道（公开）**：role: 美国网络基础设施自有品牌商（OEM 采购）；region: 美国；contact: robwinston@winstonele.com、awinston@winstonele.com
@@ -238,7 +260,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rob Winston | — | robwinston@winstonele.com | 调研核实（公开页） | 用户表 |
+| Rob Winston | Winston 家族成员（robwinston@ 列于 CAGE 3AZP6 官方邮箱；职务未核）= 收件人（第 102 批 官方登记核实 2026-10-28） | robwinston@winstonele.com | 调研核实（公开页） | 用户表 |
+| Francis Winston | President（Wikipedia；创办人 James Pratt Winston = CEO）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -332,12 +355,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

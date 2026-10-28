@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -96,6 +96,25 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 102 批（US · 1 次检索：官网 35 周年页（1991-12 TC Communications, Inc. 成立于 Yorba Linda，创办人 Kai Liang；1995 迁 Irvine；现址 17881 Cartwright Road 40,000 sq ft；2000 TC8800；2008 JumboSwitch）+ cage.report（CAGE 0S5C7；Established 1992-02-06；Business started 1990-10-01；Incorporation jurisdiction CA；Entity type A 美国制造商）+ D&B（Kai Liang — President and CEO）+ amfibi（Elton Chai — COO）+ LinkedIn（1991；51–200；Irvine；Steve Cragg — Vice President Sales Marketing；Ted Langford — Marketing and Sales Director）+ leadiq（11–50；NAICS 517）+ Wiza（Ken Winward Director of Sales；Jessica Liang Director Marketing & Sales Ops）；CA SoS 实体号未取，2026-10-28 查；https://tccomm.com/Literature/Literature/Fiber-Optic-Promotion/TC-Anniversary）：**
+
+- 法定名 / 登记号：TC Communications, Inc.（tccomm.com / JumboSwitch.com；Irvine, California）— 1991-12 成立（Yorba Linda，1995 迁 Irvine）的工业光纤通信 / 工业以太网设计制造商（JumboSwitch® 工业千兆多业务平台、TC8000 系列复用器、导轨工业交换机；公用事业 / 公共安全 / 交通 / 航空 / 轨道 / 国防）；4 万平方英尺总部；创办人 President & CEO Kai Liang；CAGE 0S5C7；**研究档 KP Steve Cragg = Vice President Sales & Marketing** · CA Corporation（SoS 实体号未取）· CAGE 0S5C7 · 状态 **Active（2026 年 35 周年）** · 成立 1991-12（CAGE 载 1992-02-06） · Corporation（加州；创办人 Kai Liang 家族）
+- 行业码 / 经营范围：工业光纤通信与工业以太网设备设计制造（JumboSwitch、复用器、导轨交换机、远动保护）；公用事业 / 公共安全 / 交通 / 航空 / **轨道 / 国防（守界，不提）**
+- 注册地址：17881 Cartwright Road, Irvine, CA 92614
+- 规模档：小型 / 中型（11–200 人）
+- 账目：—；—
+- 高管：Kai Liang — President & CEO / 创办人
+- 高管：Elton Chai — Chief Operating Officer
+- 高管：Steve Cragg — Vice President Sales & Marketing = **研究档 KP stevec@ 本人**
+- 高管：Ken Winward — Director of Sales
+- 高管：Jessica Liang — Director, Marketing and Sales Operations
+- 高管：Fredrick Chow — 研究档 KP（职务未核）；larry@novaca.com = 外域联系人（代理 / 代表推定）
+- 控制人 / 股东：Kai Liang（推定）
+- **这意味着什么：**
+  - **自产高端工业平台（JumboSwitch）的制造商 → 入门级导轨工业交换机 / MC 可外采贴标 → 贴标 OEM 30% 目标**：TC 标 STI-054GP / STI-144GP / STI-154GP / STI-244GP（入门导轨线，填其 JumboSwitch 之下空档）；**只谈公用事业 / 交通 / 商用，不碰轨道 EN 50155 与国防**；加厚一次
+  - 收件人 Steve Cragg（销售副总 = 产品线扩充决策人）；表内 1 次跟进无回复 → 第二次触达主题「an entry-level DIN-rail line under your brand beneath JumboSwitch」；发信窗口 Wed 08–10 PT；升 A 次候选
+- 备注：贴标 OEM 30% 目标（入门工业线）；KP = VP 本人；轨道 / 国防守界；加厚一次。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,16 +157,20 @@ updated: 2026-10-27
 - **【用户表】工业 FS / MC / 光猫 / 协议类**
   > 工业FS MC 光猫 / Switch 协议类产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Steve Cragg（）stevec@tccomm.com 〔用户表〕
-- **KP**：Fredrick Chow（） 〔用户表〕
+- **KP**：Steve Cragg（Vice President Sales & Marketing（TC Communications, Inc.）= **产品线扩充决策人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））stevec@tccomm.com 〔用户表〕
+- **KP**：Fredrick Chow（研究档 KP（职务未核）（第 102 批 官方登记核实 2026-10-28）） 〔用户表〕
+- **KP**：Kai Liang（President & CEO / 创办人（1991）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 tccomm.com，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | TC Communications, Inc.（加州公司；CAGE 0S5C7；SoS 实体号未取） |
+| 成立 | 1991-12（Yorba Linda；1995 迁 Irvine）（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 17881 Cartwright Road, Irvine, CA 92614（4 万平方英尺） |
+| 人数 | 11–200 人 |
+| 其他 | 官网 tccomm.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 102 批：自产 JumboSwitch 工业平台的制造商 → 入门级导轨工业交换机可外采贴标 → **贴标 OEM 30% 目标**（TC 标 STI-054GP / STI-144GP / STI-154GP / STI-244GP）；只谈公用事业 / 交通 / 商用，**不碰轨道 EN 50155 与国防**；加厚一次；larry@novaca.com 为外域代表（待核）（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤复用器 / 工业以太网（自研）；DIN 工业交换机；行业：公用事业 / 公共安全 / 轨道 / 航空
 - **触达通道（公开）**：role: 工业光通信制造商（自有品牌，入门工业交换机可 OEM）；region: 美国；contact: larry@novaca.com、stevec@tccomm.com
@@ -263,8 +286,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Steve Cragg | — | stevec@tccomm.com | 调研核实（公开页） | 用户表 |
-| Fredrick Chow | — | — | 调研核实（公开页） | 用户表 |
+| Steve Cragg | Vice President Sales & Marketing（TC Communications, Inc.）= **产品线扩充决策人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28） | stevec@tccomm.com | 调研核实（公开页） | 用户表 |
+| Fredrick Chow | 研究档 KP（职务未核）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
+| Kai Liang | President & CEO / 创办人（1991）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 | Larry | — | larry@novaca.com / stevec@tccomm.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -360,12 +384,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

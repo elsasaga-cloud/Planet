@@ -77,6 +77,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 102 批（GB · 1 次检索：Companies House 11652776（TIER1 DATA SYSTEMS LIMITED；Active；Private limited company；Incorporated 2018-10-31；注册地 167-169 Great Portland Street, 5th Floor, London W1W 5PF（前址 85 Great Portland Street, First Floor W1W 7LT）；SIC 46520 / 47910；9 名董事 / 7 名已辞；现任 JAMJAM, Mohammad Samir（2018-10-31 起）、KHATRI, Kajal（2026-07-07 起）；已辞 Antelawala / Katara（2025-10-04）/ Kothari 等）+ Endole（VAT GB311899586；2 股东 / 2 PSC；Jamjam 创始人，Indian，36 岁；Khatri 33 岁 首任董事）+ GlobalDatabase（1 人；CS01 2023-10-31），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/11652776）：**
+
+- 法定名 / 登记号：TIER1 DATA SYSTEMS LIMITED（tier1ds.com；London W1W 商务中心）— 2018-10-31 注册的 IT 硬件 / 备件经销微型公司（SIC 46520 电子电信设备批发 + 47910 网络零售；Cisco / Juniper / Fortinet / Huawei 品牌货、刀片服务器、配置服务；阿里巴巴 RFQ「Cisco Switch」）；Companies House 11652776；VAT GB311899586；1 人；**董事 / 创始人 Mohammad Samir Jamjam（印度籍，*1990-05）= 研究档 KP「Sameer JamJam」sales@ 本人**；历任多名印度籍董事进出 · Companies House 11652776 · VAT GB311899586 · 状态 **Active（新董事 2026-07-07）** · 成立 2018-10-31 · Private limited company（微型；印度籍董事；商务中心注册地）
+- 行业码 / 经营范围：46520 — 电子与电信设备及零件批发（品牌 IT 硬件 / 备件经纪）；47910 — 邮购 / 网络零售
+- 注册地址：167-169 Great Portland Street, 5th Floor, London W1W 5PF（商务中心；非实体仓）
+- 规模档：微型（1 人）
+- 账目：—（微型）；—
+- 高管：Mohammad Samir Jamjam — Director / 创始人 / PSC（*1990-05；Indian）= **研究档 KP sales@ 本人**
+- 高管：Kajal Khatri — Director（2026-07 起）
+- 控制人 / 股东：Jamjam + 1
+- **这意味着什么：**
+  - **品牌货经纪（Cisco 为主）+ 商务中心壳 + 1 人** → **采购型 small：一页纸 + 100% 预付、不赊**：STC-2224GP / STC-4424GCPM / STC-110XGE 按单报价；不加厚
+  - 收件人 sales@（= 老板本人）；表内无跟进 → 首信一页纸即止；发信窗口 Thu 12–14 GMT
+- 备注：采购型 small；100% 预付；一页纸；KP = 董事本人。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,15 +125,18 @@ updated: 2026-10-28
 - **【用户表】Cisco Switch RFQ**
   > Cisco Switch / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Sameer JamJam（）sales@tier1ds.com 〔用户表〕
+- **KP**：Mohammad Samir Jamjam（Director / 创始人 / PSC（*1990-05；Indian；Companies House 11652776，2018-10-31 起；研究档拼写「Sameer JamJam」）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））sales@tier1ds.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 tier1ds.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | TIER1 DATA SYSTEMS LIMITED（Companies House 11652776；VAT GB311899586；SIC 46520 / 47910；1 人；多名印度籍董事进出） |
+| 成立 | 2018-10-31（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 167-169 Great Portland Street, 5th Floor, London W1W 5PF（商务中心；前址 85 Great Portland Street） |
+| 人数 | 微型（1 人） |
+| 其他 | 官网 tier1ds.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 102 批：品牌货经纪（Cisco 为主）+ 商务中心壳 → **采购型 small：一页纸 + 100% 预付、不赊**（STC-2224GP / STC-4424GCPM / STC-110XGE 按单）（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 硬件 / 备件 / 数据中心经销
 - **触达通道（公开）**：role: IT 硬件/备件经销商（英国，品牌货为主）；region: 英国；contact: sales@tier1ds.com
@@ -175,7 +193,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sameer JamJam | — | sales@tier1ds.com | 调研核实（公开页） | 用户表 |
+| Mohammad Samir Jamjam | Director / 创始人 / PSC（*1990-05；Indian；Companies House 11652776，2018-10-31 起；研究档拼写「Sameer JamJam」）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28） | sales@tier1ds.com | 调研核实（公开页） | 用户表 |
+| Sameer JamJam | — | sales@tier1ds.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 

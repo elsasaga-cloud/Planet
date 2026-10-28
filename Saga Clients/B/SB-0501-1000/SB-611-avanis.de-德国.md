@@ -78,6 +78,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 102 批（DE · 1 次检索：官网 Impressum（Avanis GmbH；Meisenstraße 79a, 33607 Bielefeld；+49 521 26012 0；GF Thomas Passlack, Paul Peter Kaiser；Amtsgericht Bielefeld HRB 37834；USt-ID DE813687094）+ 官网 Über uns / Team（2003 成立；「Spezialisten im Vertrieb von aktiver Netzwerktechnik」；新楼 Technologiepark；Paul Kaiser / Thomas Passlack Geschäftsführung）+ implisense（Founded 2003-04-22；Share capital €70,000；LEI 529900I6QC9S0TFPUY37；Small enterprise）+ companyhouse（两 GF 自 2003-05-15 单独代表；地址变更 Am Fichtenbrink 38 → Meisenstraße 97a → 79a）+ firmendatenbanken（Gesellschafter Paul Peter Kaiser、Thomas Passlack）+ wlw（10–19 人）+ RocketReach（8 人），2026-10-28 查；https://avanis.de/impressum）：**
+
+- 法定名 / 登记号：Avanis GmbH（avanis.de；Bielefeld，Technologiepark Meisenstraße）— 2003 年成立的有源网络设备销售与 WLAN 规划专业商（「Netzwerk-Architekten」：交换机到 RTLS，Ekahau 测量，医院场景；站内 Edgecore / Fortinet）；Amtsgericht Bielefeld HRB 37834；资本 €70,000；LEI 529900I6QC9S0TFPUY37；**GF 兼股东 Thomas Passlack = 研究档 KP tpasslack@ 本人**（+ GF 兼股东 Paul Peter Kaiser）；8–19 人 · HRB 37834（Amtsgericht Bielefeld）· LEI 529900I6QC9S0TFPUY37 · USt-ID DE813687094 · 状态 **Aktiv** · 成立 2003-04-22（公司合同；登记 2003-05-15） · GmbH（资本 €70,000；两 GF 即两股东）
+- 行业码 / 经营范围：有源网络设备销售（交换机 / WLAN / 安全）+ WLAN 规划测量（Ekahau）+ RTLS；医院等项目
+- 注册地址：Meisenstraße 79a, 33607 Bielefeld
+- 规模档：微型 / 小型（8–19 人）
+- 账目：—；—
+- 高管：Thomas Passlack — Geschäftsführer / Gesellschafter = **研究档 KP tpasslack@ 本人**
+- 高管：Paul Peter Kaiser — Geschäftsführer / Gesellschafter（pkaiser@）
+- 高管：Valentin Kaiser — 研究档 KP（职务未核）
+- 控制人 / 股东：Passlack / Kaiser
+- **这意味着什么：**
+  - **网络设备经销 + 已用 Edgecore（OEM 低价定位）+ 老板本人收件 → 分销 20%（项目集成商 25% 两可）**：STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM（楼宇 / 医院 PoE 接入，对标 Edgecore ECS-4650 价）+ STC-110XGE；B BIG，**加厚**（对标价表）
+  - 表内 1 次跟进无回复 → 第二次触达换主题「an alternative access-switch line beside your current OEM brand — Marvell L2+, 15-day quote」（不点名 Edgecore）；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）
+- 备注：分销 20% / 集成商 25%；KP = GF 本人；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,16 +137,20 @@ updated: 2026-10-28
 - **【用户表】Edgecore 等牌子**
   > Edgecore等牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Thomas Passlack（）tpasslack@avanis.de 〔用户表〕
-- **KP**：Valentin Kaiser（） 〔用户表〕
+- **KP**：Thomas Passlack（Geschäftsführer / Gesellschafter（Avanis GmbH，HRB 37834 Bielefeld；2003 起）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））tpasslack@avanis.de 〔用户表〕
+- **KP**：Valentin Kaiser（研究档 KP（职务未核）（第 102 批 官方登记核实 2026-10-28）） 〔用户表〕
+- **KP**：Paul Peter Kaiser（Geschäftsführer / Gesellschafter（2003 起；pkaiser@avanis.de 官网团队页）= 抄送（第 102 批 官方登记核实 2026-10-28））pkaiser@avanis.de 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 avanis.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Avanis GmbH（Amtsgericht Bielefeld HRB 37834；资本 €70,000；LEI 529900I6QC9S0TFPUY37；USt-ID DE813687094） |
+| 成立 | 2003-04-22（登记 2003-05-15）（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Meisenstraße 79a, 33607 Bielefeld（Technologiepark） |
+| 人数 | 8–19 人 |
+| 其他 | 官网 avanis.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案；第 102 批：有源网络设备经销 + WLAN 规划（已用 Edgecore）+ 老板本人收件 → **分销 20% / 集成商 25% 两可**（STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + STC-110XGE 对标 Edgecore ECS-4650）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / WLAN / RTLS 系统集成
 
@@ -216,8 +236,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Thomas Passlack | — | tpasslack@avanis.de | 调研核实（公开页） | 用户表 |
-| Valentin Kaiser | — | — | 调研核实（公开页） | 用户表 |
+| Thomas Passlack | Geschäftsführer / Gesellschafter（Avanis GmbH，HRB 37834 Bielefeld；2003 起）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28） | tpasslack@avanis.de | 调研核实（公开页） | 用户表 |
+| Valentin Kaiser | 研究档 KP（职务未核）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
+| Paul Peter Kaiser | Geschäftsführer / Gesellschafter（2003 起；pkaiser@avanis.de 官网团队页）= 抄送（第 102 批 官方登记核实 2026-10-28） | pkaiser@avanis.de | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 

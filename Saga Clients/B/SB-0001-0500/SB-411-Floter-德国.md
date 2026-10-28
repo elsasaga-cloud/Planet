@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 102 批（DE · 1 次检索：官网 Impressum（Dewitzer Straße 77H, 04425 Taucha；buero@floeter-sdt.de；Geschäftsführer Daniel Flöter；Amtsgericht Leipzig HRB 38796）+ Creditreform（GmbH；HRB 38796 Leipzig；wirtschaftsaktiv；1 GF；1 Gesellschafter；最后变更 2021-09-15）+ companyhouse（Gesellschaftsvertrag 2021-04-22；Stammkapital €25,000；Zweck：Detektivbüro、Sicherheitsdienst、Bewachung；Daniel Flöter alleinvertretungsberechtigt 2021-04-28 起，Gesellschafter 2024-02 起）+ Northdata（2021-04-28 登记；Daniel Flöter 另任 SignalTech GmbH GF，2025-01-02 登记）+ cylex（团队：Melanie Zimmermann 助理、Sebastian Saupe / Ronny Dietze 区域经理、Lukas Diwisch 招聘 / 销售），2026-10-28 查；https://www.companyhouse.de/Floeter-SDT-Sicherheit-Detektei-und-Technik-GmbH-Taucha）：**
+
+- 法定名 / 登记号：Flöter SDT | Sicherheit, Detektei und Technik GmbH（floeter-sicherheit.de / floeter-sdt.de；Taucha bei Leipzig）— 2021-04-28 登记的保安服务 / 侦探 / 安防技术公司（报警、门禁；区域经理制）；Amtsgericht Leipzig HRB 38796；资本 €25,000；**GF 兼唯一股东 Daniel Flöter = 研究档 KP d@ 本人**；另设 SignalTech GmbH（2025-01-02，GF Daniel Flöter） · HRB 38796（Amtsgericht Leipzig） · 状态 **Aktiv（2026-01 年报已公示）** · 成立 2021-04-22（公司合同；登记 2021-04-28） · GmbH（资本 €25,000；Daniel Flöter 唯一股东）
+- 行业码 / 经营范围：保安服务 / 侦探 / 安防技术安装（报警、门禁、Doorman）
+- 注册地址：Dewitzer Straße 77h, 04425 Taucha
+- 规模档：微型 / 小型（人数未取）
+- 账目：—；—
+- 高管：Daniel Flöter — Geschäftsführer / Alleingesellschafter = **研究档 KP d@ 本人**（另任 SignalTech GmbH GF）
+- 控制人 / 股东：Daniel Flöter
+- **这意味着什么：**
+  - **保安服务为主、安防技术为辅 + 表内 7 次跟进无回复** → **集成商 25% 低优先，一页纸最后一次后 `when=不动`**：STC-028GP / STC-228GP（报警 / 门禁小项目 PoE）
+  - 老板本人收件但长期不回 → 最后一次换主题「one-page: PoE switches for alarm & access installs — MOQ 1」；发信窗口 Thu 12–14 CET；若 SignalTech GmbH 为其技术线可另开一线
+- 备注：集成商 25% 低优先；KP = GF 本人；一页纸一次后不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,15 +123,18 @@ updated: 2026-10-28
 - **【用户表】找 HDMI 延长器**
   > 找HDMI延长器的，对交换机和I/O也懂
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Daniel Flöter（）d@floeter-sdt.de 〔用户表〕
+- **KP**：Daniel Flöter（Geschäftsführer / Alleingesellschafter（Amtsgericht Leipzig HRB 38796；另任 SignalTech GmbH GF）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））d@floeter-sdt.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 floeter-sdt.de，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Flöter SDT \| Sicherheit, Detektei und Technik GmbH（HRB 38796 Leipzig；资本 €25,000） |
+| 成立 | 2021-04-22（登记 2021-04-28）（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Dewitzer Straße 77h, 04425 Taucha |
+| 人数 | 微型 / 小型（人数未取） |
+| 其他 | 官网 floeter-sdt.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 102 批：保安服务为主、安防技术为辅 + 表内 7 次跟进无回复 → **集成商 25% 低优先**（STC-028GP / STC-228GP），一页纸最后一次后不动（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：保安服务 / 侦探 / 安防技术（德国）
 - **触达通道（公开）**：role: 保安服务兼安防技术安装（德国）；region: 德国；contact: d@floeter-sdt.de
@@ -201,7 +218,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Daniel Flöter | — | d@floeter-sdt.de | 调研核实（公开页） | 用户表 |
+| Daniel Flöter | Geschäftsführer / Alleingesellschafter（Amtsgericht Leipzig HRB 38796；另任 SignalTech GmbH GF）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28） | d@floeter-sdt.de | 调研核实（公开页） | 用户表 |
 | Daniel Floter | — | d@floeter-sdt.de / +491774010888 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

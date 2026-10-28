@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,6 +83,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 102 批（US · 1 次检索：Sunbiz（NITROTEL MANUFACTURING CORP.；Florida Profit Corporation；Document P18000064924；FEI 83-1401215；Date Filed 2018-07-27，Effective 2018-07-26；ACTIVE；Last Event AMENDMENT 2018-10-24；Principal Address 4626 SW 147 Court, Miami, FL 33185；旧主体 NITROTEL INTERNATIONAL GROUP, LLC L07000033723 INACT）+ 官网 About（2001 品牌营销起；2006 Nitrotel Manufacturing Corp. 设于 Miami；2014 光纤方案 / 机柜线；2016 全线 UL/ETL）+ Corporate Profile 2024 PDF + LinkedIn（Partnership；11–50；Doral FL；2006）+ ZoomInfo（Daniel Morera — Senior Technical Director & VP & Business Developer，2022–；10440 NW 37th Terrace, Doral, FL 33178）+ cage.report / D&B（President Ivette Patterson）+ Manta（President Juan Viera —— 不一致，列备），2026-10-28 查；https://search.sunbiz.org/Inquiry/CorporationSearch/ByName）：**
+
+- 法定名 / 登记号：Nitrotel Manufacturing Corp.（nitrotelmanufacturing.com；Miami / Doral, FL）— 自有品牌 Nitrotel 网络物理基础设施整线商（2001 品牌起、2006 公司起；Cat5e/6/6A 铜缆、光纤、机柜、MC NTFFSM 系列；2016 全线 UL/ETL；拉美导向）；FL Sunbiz **P18000064924**（2018-07-27 现主体）；President Ivette Patterson；**研究档 KP Daniel Morera = Senior Technical Director / VP New Business Development（RCDD）** · FL Sunbiz P18000064924 · FEI 83-1401215 · 状态 **ACTIVE** · 成立 2018-07-27（现主体；品牌 2001，首家公司 2006） · Florida Profit Corporation（私有；President Ivette Patterson）
+- 行业码 / 经营范围：网络物理基础设施自有品牌（铜缆 / 光纤 / 机柜 / 配线 / 媒体转换器 NTFFSM；UL/ETL）制造与分销，面向拉美与美国集成商
+- 注册地址：10440 NW 37th Terrace, Doral, FL 33178（经营地）；登记地址 4626 SW 147 Court, Miami, FL 33185
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Ivette Patterson — President（D&B / CAGE）
+- 高管：Daniel Morera — Senior Technical Director / VP New Business Development（RCDD；2022 起）= **研究档 KP dmorera@ 本人**
+- 高管：Juan Viera — President（Manta，不一致，列备）
+- 控制人 / 股东：未取
+- 曾用名：NITROTEL INTERNATIONAL GROUP, LLC（L07000033723，已注销）
+- **这意味着什么：**
+  - **自有品牌整线商（已贴标 MC / SFP）+ 技术副总本人收件 → 贴标 OEM 30% 目标**：Nitrotel 标 STC-228GP / STC-2224GP / STC-4424GCPM + STI-144GP（配其光纤 / MC 线；拉美出口不碰认证之外承诺）；B BIG，**加厚**
+  - 表内「工业 FS MC SFP 自己的 logo」→ 第二次触达主题「adding managed PoE switches to your Nitrotel line — same label workflow as your MCs」；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）
+- 备注：贴标 OEM 30% 目标；KP = VP 本人；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,15 +142,19 @@ updated: 2026-10-27
 - **【用户表】工业 FS MC SFP 自己的 logo**
   > 工业FS MC SFP 自己的logo 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Daniel Morera（RCDD）（）dmorera@nitrotelmanufacturing.com 〔用户表〕
+- **KP**：Daniel Morera（Senior Technical Director / VP New Business Development（RCDD；2022 起）= **产品线决策人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））dmorera@nitrotelmanufacturing.com 〔用户表〕
+- **KP**：Ivette Patterson（President（D&B / CAGE；Sunbiz P18000064924）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 nitrotelmanufacturing.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Nitrotel Manufacturing Corp.（Florida Profit Corporation；Sunbiz P18000064924，2018-07-27；FEI 83-1401215；旧 Nitrotel International Group, LLC 已注销） |
+| 成立 | 2001 品牌 / 2006 公司 / 2018-07-27 现主体（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 10440 NW 37th Terrace, Doral, FL 33178（登记 4626 SW 147 Court, Miami, FL 33185） |
+| 人数 | 11–50 人 |
+| 其他 | 官网 nitrotelmanufacturing.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 102 批：自有品牌整线商（UL/ETL；已贴标 MC / SFP）+ 技术副总本人收件 → **贴标 OEM 30% 目标**（Nitrotel 标 STC-228GP / STC-2224GP / STC-4424GCPM + STI-144GP）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络布线 / 光纤 / MC（自有品牌 Nitrotel）
 - **触达通道（公开）**：role: 布线/网络品牌商（美国迈阿密，拉美导向；自有标 MC/FS）；region: 美国；contact: sales@nitrotelmanufacturing.com、dmorera@nitrotelmanufacturing.com
@@ -242,7 +263,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Daniel Morera（RCDD） | — | dmorera@nitrotelmanufacturing.com | 调研核实（公开页） | 用户表 |
+| Daniel Morera | Senior Technical Director / VP New Business Development（RCDD；2022 起）= **产品线决策人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28） | dmorera@nitrotelmanufacturing.com | 调研核实（公开页） | 用户表 |
+| Ivette Patterson | President（D&B / CAGE；Sunbiz P18000064924）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 | Daniel Rcdd | — | sales@nitrotelmanufacturing.com / dmorera@nitrotelmanufacturing.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -337,12 +359,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

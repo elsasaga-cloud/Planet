@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -93,6 +93,24 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 102 批（US · 1 次检索：bizstanding / GA SoS 摘录（Mencom Corporation；Domestic Profit Corporation；官员 S. Barbara Mistarz Secretary、E. Bruce Mistarz CFO、Bruce Mistarz Vice-President (inactive)、Barbara Mistarz President (inactive)；注册代理 Bruce E. Mistarz, 3745 Timber Walk Dr, Gainesville GA）+ LinkedIn（1987；51–200；Oakwood GA；Privately Held）+ ZoomInfo（Bruce Mistarz President，1987–；5750 McEver Rd, Oakwood, GA 30566；$26.2M）+ craft.co（Bruce E. Mistarz President, CEO & CFO；Bruce S. Mistarz Secretary）+ Gainesville Times 2008（Mistarz 伊利诺伊厨房起家，1996 前后迁 Gainesville）+ YouTube（150,000 sq ft 工厂 Oakwood）+ Kompass（John Bisson 列 Owner —— 与 growjo「Sales」不一致，按 Sales 记）+ RocketReach（39 人）；GA SoS 控制号未取，2026-10-28 查；https://bizstanding.com/p/mencom+corporation-180484562）：**
+
+- 法定名 / 登记号：Mencom Corporation（mencom.com；Oakwood, Georgia）— 1987 年 Bruce E. Mistarz 创办（伊利诺伊起家，1990 年代迁乔治亚）的工业电气连接器 / 线缆组件制造商（15 万平方英尺美国工厂；兼售自有标工业交换机与媒体转换器）；Georgia Domestic Profit Corporation；President / CEO Bruce E. Mistarz；51–200 人，第三方营收 $26.2M；研究档 KP John Heath = Engineering Manager、John J. Bisson = Sales · GA Domestic Profit Corporation（SoS 控制号未取） · 状态 **Active（在产）** · 成立 1987（伊利诺伊起家；乔治亚现主体年份未取） · Domestic Profit Corporation（乔治亚；Mistarz 家族）
+- 行业码 / 经营范围：工业电气连接器 / 线缆组件 / 面板接口连接器制造（美国制造）；自有标工业以太网交换机 / 媒体转换器（外采）
+- 注册地址：5750 McEver Rd, Suite A, Oakwood, GA 30566
+- 规模档：中型（39–200 人）
+- 账目：第三方营收 $26.2M（仅作区间）；—
+- 高管：Bruce E. Mistarz — President / CEO / 创办人（注册代理）
+- 高管：Barbara Mistarz — Secretary
+- 高管：Catherine Saye — Director, Finance
+- 高管：John Heath — Engineering Manager = 研究档 KP john.heath@
+- 高管：John J. Bisson — Sales = 研究档 KP john@
+- 控制人 / 股东：Bruce E. Mistarz（推定）
+- **这意味着什么：**
+  - **美国工业连接器制造商，自有标工业交换机「标价高」且外采 → 贴标 OEM 30% 目标**：Mencom 标 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM（导轨 PoE / 光口，与其 M12 / 线缆组件配套）；B BIG，**加厚**（对标其在售工业交换机价）
+  - 收件人 John Heath（工程经理 = 选型人）抄 John Bisson（销售）+ 点名 President Bruce Mistarz；表内 1 次跟进无回复 → 第二次触达主题「a lower-cost source for your private-label DIN-rail switches — managed L2+, 3-year warranty」；发信窗口 Wed 08–10 ET；升 A 候选
+- 备注：贴标 OEM 30% 目标；B BIG；加厚；升 A 候选；GA 控制号下轮补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,16 +147,20 @@ updated: 2026-10-27
 - **【用户表】工业 FS 工业 MC 标价高**
   > 工业FS 工业MC 标价高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：John Heath（）john.heath@mencom.com 〔用户表〕
-- **KP**：John J. Bisson（）john@mencom.com 〔用户表〕
+- **KP**：John Heath（Engineering Manager（选型人）= 收件人（第 102 批 官方登记核实 2026-10-28））john.heath@mencom.com 〔用户表〕
+- **KP**：John J. Bisson（Sales（growjo；Kompass 误列 Owner）= 抄送（第 102 批 官方登记核实 2026-10-28））john@mencom.com 〔用户表〕
+- **KP**：Bruce E. Mistarz（President / CEO / 创办人（1987；GA Domestic Profit Corporation 注册代理）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 mencom.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Mencom Corporation（Georgia Domestic Profit Corporation；SoS 控制号未取；Secretary Barbara Mistarz） |
+| 成立 | 1987（伊利诺伊起家，1990 年代迁乔治亚）（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 5750 McEver Rd, Suite A, Oakwood, GA 30566（15 万平方英尺工厂） |
+| 人数 | 39–200 人；$26.2M（第三方） |
+| 其他 | 官网 mencom.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 102 批：美国工业连接器制造商，自有标工业交换机「标价高」且外采 → **贴标 OEM 30% 目标**（Mencom 标 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业连接器 / 线缆组件（自有品牌 Mencom）；工业交换机 / MC（贴牌线）
 - **触达通道（公开）**：role: 工业连接器制造商（美国，自有标工业 FS/MC）；region: 美国；contact: john@mencom.com、john.heath@mencom.com
@@ -237,8 +259,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| John Heath | — | john.heath@mencom.com | 调研核实（公开页） | 用户表 |
-| John J. Bisson | — | john@mencom.com | 调研核实（公开页） | 用户表 |
+| John Heath | Engineering Manager（选型人）= 收件人（第 102 批 官方登记核实 2026-10-28） | john.heath@mencom.com | 调研核实（公开页） | 用户表 |
+| John J. Bisson | Sales（growjo；Kompass 误列 Owner）= 抄送（第 102 批 官方登记核实 2026-10-28） | john@mencom.com | 调研核实（公开页） | 用户表 |
+| Bruce E. Mistarz | President / CEO / 创办人（1987；GA Domestic Profit Corporation 注册代理）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -333,12 +356,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

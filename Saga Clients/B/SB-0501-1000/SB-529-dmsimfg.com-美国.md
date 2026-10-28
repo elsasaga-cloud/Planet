@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,26 @@ updated: 2026-10-27
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 102 批（US · 1 次检索：BBB（Diversified Material Specialists, Inc.；别名 DMSI；105 Triple Diamond Blvd Ste 101, North Venice, FL 34275-3646；Business Incorporated 1996-07-05；Corporation；CFO Jeffrey D’Alonzo）+ 官网 Who We Are（CORPORATE HQ Venice, Florida；info@dmsimfg.com）+ 官网新闻 2025-05（Tampa Bay Business Journal；Jeneth D’Alonzo — President & CEO；两年增长 15–20%）+ LinkedIn（DMSI International；Manufacturing；51–200；1996；OEM & contract manufacturing）+ RocketReach（$18.5M；63 人；Brandon Woodward — VP Business Development）+ 官网 /randy/（Randy Harris — Director, Data Center & Broadband Sales）+ LinkedIn Randy Harris（Lenoir NC；OEM and private-label manufacturing for leading global brands）；FL Sunbiz 文件号未取，2026-10-28 查；https://www.bbb.org/us/fl/north-venice/profile/fiber-optics/diversified-material-specialists-inc-0653-90109063）：**
+
+- 法定名 / 登记号：DMSI International = Diversified Material Specialists, Inc.（dmsimfg.com；North Venice, FL）— 1996-07-05 成立的美国光纤连接合同制造商（MTP / MMC / MDC 高密度组件、分光器、衰减器、媒体转换器、定制机箱；**为全球品牌做 OEM / 自有标制造**）；51–200 人，第三方营收 $18.5M；President & CEO Jeneth D’Alonzo；研究档 KP Randy Harris = Director, Data Center & Broadband Sales（2023 起） · FL Corporation（Sunbiz 文件号未取；BBB 法定名 Diversified Material Specialists, Inc.） · 状态 **Active（2025 扩产报道）** · 成立 1996-07-05 · Corporation（私有；D’Alonzo 家族管理）
+- 行业码 / 经营范围：光纤连接合同制造（MTP / MMC / MDC 组件、PON / FTTx、分光器、媒体转换器、定制机箱）；数据中心 / 政府 / 宽带；OEM / 自有标代工（为全球品牌贴标）
+- 注册地址：105 Triple Diamond Blvd, Unit 101, North Venice, FL 34275
+- 规模档：中型（51–200 人；63）
+- 账目：第三方营收 $18.5M（仅作区间）；—
+- 高管：Jeneth D’Alonzo — President & CEO
+- 高管：Jeffrey D’Alonzo — CFO（BBB）
+- 高管：Brandon Woodward — VP Business Development
+- 高管：Randy Harris — Director, Data Center & Broadband Sales（2023 起；Lenoir NC）= 研究档 KP（用户表误把 dustin@ 记其名下）
+- 高管：Dustin Hall — 研究档 KP dustin@（职务未核）
+- 高管：Iylin Flock — General Manager（研究档）= evan@（待核）
+- 控制人 / 股东：D’Alonzo 家族（推定）
+- 曾用名：DMSI International（商号）
+- **这意味着什么：**
+  - **光纤合同制造商 + 自有标 MC 周边 + 数据中心客户群 → 贴标 OEM 30% 目标（DMSI 标 STC-228GP / STI-144GP / STC-110XGE 配其光纤组件）+ DC 线 STH-2C24XF-HSI / STH-32C-HSI 作其数据中心客户配套**；B BIG，**加厚**
+  - 收件人 Randy Harris（数据中心 / 宽带销售总监，产品线决策人）抄 Dustin Hall；表内 1 次跟进无回复 → 第二次触达换主题「white-label managed switches to round out your fiber assemblies」；发信窗口 Wed 08–10 ET；升 A 候选
+- 备注：贴标 OEM 30% 目标 + DC 线；B BIG；加厚；升 A 候选；Sunbiz 号下轮补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,17 +147,21 @@ updated: 2026-10-27
 - **【用户表】自己的 logo MC 周边产品**
   > 自己的logo MC 周边产品；info@dmsimfg.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Randy Harris（）（用户表把 dustin@ 记在他名下——同址属 Dustin Hall，Randy 本人地址待核） 〔用户表〕
-- **KP**：Dustin Hall（）dustin@dmsimfg.com 〔用户表〕
-- **KP**：Iylin Flock（）evan@dmsimfg.com 〔用户表〕
+- **KP**：Randy Harris（Director, Data Center & Broadband Sales（2023 起；Lenoir NC；randy.harris@dmsimfg.com）= 产品线决策人 / 收件人（第 102 批 官方登记核实 2026-10-28））（用户表把 dustin@ 记在他名下——同址属 Dustin Hall，Randy 本人地址待核） 〔用户表〕
+- **KP**：Dustin Hall（研究档 KP（职务未核）= 抄送（第 102 批 官方登记核实 2026-10-28））dustin@dmsimfg.com 〔用户表〕
+- **KP**：Iylin Flock（研究档写 General Manager（姓名 / 邮箱对应待核）（第 102 批 官方登记核实 2026-10-28））evan@dmsimfg.com 〔用户表〕
+- **KP**：Jeneth D’Alonzo（President & CEO（Tampa Bay Business Journal 2025-05）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 dmsimfg.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Diversified Material Specialists, Inc.（DMSI / DMSI International；佛州公司；BBB 1996-07-05 注册；Sunbiz 文件号未取） |
+| 成立 | 1996-07-05（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 105 Triple Diamond Blvd, Unit 101, North Venice, FL 34275 |
+| 人数 | 51–200 人（63）；$18.5M（第三方） |
+| 其他 | 官网 dmsimfg.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 102 批：光纤连接合同制造商（为全球品牌 OEM / 自有标代工）+ 自有标 MC 周边 → **贴标 OEM 30% 目标**（DMSI 标 STC-228GP / STI-144GP / STC-110XGE）+ DC 线 STH-2C24XF-HSI / STH-32C-HSI；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络配件 / MC（自有品牌 DMSI）
 - **触达通道（公开）**：role: 网络配件品牌商（美国，自有标 MC；官网待核）；region: 美国；contact: dustin@dmsimfg.com、evan@dmsimfg.com
@@ -233,9 +257,10 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Randy Harris | — | （用户表把 dustin@ 记在他名下——同址属 Dustin Hall，Randy 本人地址待核） | 调研核实（公开页） | 用户表 |
-| Dustin Hall | — | dustin@dmsimfg.com | 调研核实（公开页） | 用户表 |
-| Iylin Flock | — | evan@dmsimfg.com | 调研核实（公开页） | 用户表 |
+| Randy Harris | Director, Data Center & Broadband Sales（2023 起；Lenoir NC；randy.harris@dmsimfg.com）= 产品线决策人 / 收件人（第 102 批 官方登记核实 2026-10-28） | （用户表把 dustin@ 记在他名下——同址属 Dustin Hall，Randy 本人地址待核） | 调研核实（公开页） | 用户表 |
+| Dustin Hall | 研究档 KP（职务未核）= 抄送（第 102 批 官方登记核实 2026-10-28） | dustin@dmsimfg.com | 调研核实（公开页） | 用户表 |
+| Iylin Flock | 研究档写 General Manager（姓名 / 邮箱对应待核）（第 102 批 官方登记核实 2026-10-28） | evan@dmsimfg.com | 调研核实（公开页） | 用户表 |
+| Jeneth D’Alonzo | President & CEO（Tampa Bay Business Journal 2025-05）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -328,12 +353,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

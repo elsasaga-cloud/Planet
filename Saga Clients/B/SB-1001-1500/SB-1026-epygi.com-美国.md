@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 102 批（US · 1 次检索：Epygi 支持站 About（Epygi Technologies, LLC；私有美国公司；2000 成立；总部 Altamonte Springs, Florida）+ 旧案例 PDF（Epygi Technologies, Ltd.；1400 Preston Road, Suite 300, Plano, Texas 75093；sales@epygi.com）+ LinkedIn（Epygi Technologies LLC；Telecommunications；11–50；Altamonte Springs FL；2000）+ leadiq / ContactOut（561 Maitland Avenue, Altamonte Springs, FL 32701；$10M–$50M；CEO Mario Cuello）+ theorg（Mario Cuello CEO；Annie Ghannoum Director；Levon Harutyunyan SW director）+ 官网 2024-07 新闻（Mario Cuello, CEO）+ RocketReach（$24.2M；26 人）；TX / FL 登记号未取，2026-10-28 查；https://support.epygi.com/Knowledgebase/List/Index/354/qx-ip-pbx-products）：**
+
+- 法定名 / 登记号：Epygi Technologies, LLC（原 Epygi Technologies, Ltd.；epygi.com；Altamonte Springs, FL，原 Plano, TX）— 2000 年成立的 IP PBX / VoIP 网关 / 云电话（ecQX）设计制造商（QX 系列；亚美尼亚研发中心）；CEO Mario Cuello；11–50 人，第三方营收 $10–50M；研究档无 KP（sales@） · LLC（TX 起家，现 FL；登记号未取 → 部分坐实） · 状态 **Active（2024 新闻）** · 成立 2000 · Limited Liability Company（私有；原 Ltd.）
+- 行业码 / 经营范围：IP PBX / VoIP 网关 / SIP 会议 / 云电话（ecQX）设计制造与全球分销（经销商渠道）
+- 注册地址：561 Maitland Avenue, Altamonte Springs, FL 32701（原 1400 Preston Road Ste 300, Plano, TX 75093）
+- 规模档：小型（11–50 人）
+- 账目：第三方营收 $10–50M（仅作区间）；—
+- 高管：Mario Cuello — CEO
+- 高管：Annie Ghannoum — Director（Plano TX）
+- 高管：Levon Harutyunyan — Software Director（亚美尼亚）
+- 控制人 / 股东：未取
+- 曾用名：Epygi Technologies, Ltd.
+- **这意味着什么：**
+  - **IP PBX 厂商 → 配套 IP 话机的 PoE 交换机可挂 Epygi 标 → 贴标 OEM 30% 目标 / 次选分销 20%**：Epygi 标 STC-028GP / STC-228GP / STC-2224GP（话机 PoE 预算、VLAN / QoS 语音优先）；一页纸 + 贴标条款，不加厚
+  - 收件人 sales@ 点名 CEO Mario Cuello / 产品管理；表内未跟进 → 首信即一页纸「a PoE switch line under your brand for QX deployments」；发信窗口 Wed 08–10 ET
+- 备注：贴标 OEM 30% 目标 / 分销 20% 次选；一页纸；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,14 +139,18 @@ updated: 2026-10-27
 - **【用户表】工业 FS**
   > 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mario Cuello（CEO（Epygi Technologies, LLC）= 拍板人（sales@ 点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 epygi.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Epygi Technologies, LLC（原 Epygi Technologies, Ltd.；TX / FL 登记号未取 → 部分坐实） |
+| 成立 | 2000（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 561 Maitland Avenue, Altamonte Springs, FL 32701（原 1400 Preston Road Ste 300, Plano, TX 75093） |
+| 人数 | 11–50 人；$10–50M（第三方） |
+| 其他 | 官网 epygi.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 102 批：IP PBX 厂商 → 配套 IP 话机的 PoE 交换机可挂 Epygi 标 → **贴标 OEM 30% 目标 / 次选分销 20%**（STC-028GP / STC-228GP / STC-2224GP，VLAN / QoS 语音优先）；一页纸 + 贴标条款（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IP PBX / VoIP 网关（自有品牌 Epygi）
 - **触达通道（公开）**：role: IP PBX 厂商（美国，配套交换机 OEM 采购）；region: 美国；contact: sales@epygi.com
@@ -208,7 +229,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@epygi.com | 用户表原值 | Clients/ 表 |
+| Mario Cuello | CEO（Epygi Technologies, LLC）= 拍板人（sales@ 点名）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -243,7 +264,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -260,7 +281,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认 |
@@ -276,7 +297,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Mario,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches your dealers deploy with QX PBXs and IP phones, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option) under the Epygi label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your dealer price list?
 
@@ -301,12 +322,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

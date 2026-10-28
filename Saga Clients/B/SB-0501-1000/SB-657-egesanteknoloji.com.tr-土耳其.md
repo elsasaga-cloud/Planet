@@ -81,6 +81,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 102 批（TR · 1 次检索：官网 İletişim（Egesan Teknoloji Pazarlama İth.；Akçaalan Mahallesi Cumhuriyet Blv. No 120/1 A Blok, 48400 Bodrum/Muğla；Vergi No 3250872231；Vergi Dairesi Bodrum；0 252 382 32 36；info@）+ Yenibiriş 公司页（EGESAN TEKNOLOJİ PAZARLAMA İTH.İHR VE TİC.LTD. ŞTİ.；「2005 yılından bugüne」；Hi Look Türkiye Resmi Distribütörü；Hikvision / Fujitron / Westa / Decon / Ajax / Ruijie Reyee ana dağıtıcısı；**Coremax marka ürünlerin ithalatçısı ve marka sahibi**；总部 Muğla；Karabağ Mah. Turgut Özal Cad. No 4 Bodrum）+ bayifi.com（Hikvision 批发商 Muğla；Ajax / Dahua / Hikvision），2026-10-28 查；https://www.egesanteknoloji.com.tr/iletisim）：**
+
+- 法定名 / 登记号：EGESAN TEKNOLOJİ PAZARLAMA İTH. İHR. VE TİC. LTD. ŞTİ.（egesanteknoloji.com.tr；**Bodrum / Muğla**，非 İzmir）— 2005 年起的电子安防 / 消防探测 / 报警 / 摄像机批发商：HiLook 土耳其官方分销、Hikvision / Fujitron / Westa / Decon / Ajax / Ruijie Reyee 主分销、**自有品牌 Coremax 进口商兼商标持有人**；Vergi No 3250872231（Bodrum）；研究档 KP Gökhan（职务未核） · Vergi No 3250872231（Bodrum）；MERSİS 未取（按规则推定 0325087223100001，未核） · 状态 **Aktif（站点在线）** · 成立 2005（自述） · Limited Şirket（私有）
+- 行业码 / 经营范围：电子安防 / 消防 / 报警 / CCTV / 网络批发（HiLook 官方分销；Hikvision、Ajax、Ruijie Reyee 主分销）；自有品牌 Coremax（进口 + 商标持有）
+- 注册地址：Akçaalan Mah. Cumhuriyet Blv. No 120/1 A Blok, 48400 Bodrum / Muğla（另址 Karabağ Mah. Turgut Özal Cad. No 4 Bodrum）
+- 规模档：小型（人数未取）
+- 账目：—；—
+- 高管：Gökhan（姓未取）— 研究档 KP gokhan@（职务未核；疑业主 / 采购）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **多品牌安防批发 + 自有品牌 Coremax 进口商 → 分销 20% + 贴标 OEM 30% 目标**：Coremax 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（对标其在售 Ruijie Reyee RG-ES 系列价）；加厚一次（两线各一张价）
+  - 收件人 gokhan@；表内 1 次跟进无回复 → 第二次触达换主题「PoE switches under the Coremax label — managed L2+, MOQ 1」；发信窗口 Thu 10–12 TRT；地域更正：Bodrum / Muğla；升 A 次候选
+- 备注：分销 20% + Coremax 贴标 OEM 30%；加厚一次；地域 Bodrum；升 A 次候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,15 +122,18 @@ updated: 2026-10-28
 - **【官网快照】Egesan 安防批发**
   > Egesan Teknoloji, Güvenlik Sistemleri, Yangın Algılama, Alarm, Kamera Toptancısı
   > 来源：https://www.egesanteknoloji.com.tr/（抓取 2026-10-21）
-- **KP**：Gokhan（）gokhan@egesanteknoloji.com.tr 〔用户表〕
+- **KP**：Gokhan（研究档 KP（职务未核；疑业主 / 采购）= 收件人（第 102 批 官方登记核实 2026-10-28））gokhan@egesanteknoloji.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 egesanteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | EGESAN TEKNOLOJİ PAZARLAMA İTH. İHR. VE TİC. LTD. ŞTİ.（Vergi No 3250872231 Bodrum；MERSİS 未取；HiLook 土耳其官方分销；自有品牌 Coremax 商标持有人） |
+| 成立 | 2005（自述）（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Akçaalan Mah. Cumhuriyet Blv. No 120/1 A Blok, 48400 Bodrum / Muğla（**地域更正：Bodrum，非 İzmir**） |
+| 人数 | 小型（人数未取） |
+| 其他 | 官网 egesanteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 102 批：多品牌安防批发 + 自有品牌 Coremax 进口商 → **分销 20% + Coremax 贴标 OEM 30% 目标**（STC-028GP / STC-228GP / STC-2216GP / STC-2224GP 对标 Ruijie Reyee RG-ES 价）；加厚一次；升 A 次候选（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 火灾探测 / 报警 / 摄像机批发
 - **触达通道（公开）**：role: 安防批发商（土耳其，Hikvision/Ruijie）；region: 土耳其；contact: gokhan@egesanteknoloji.com.tr
@@ -193,7 +210,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gokhan | — | gokhan@egesanteknoloji.com.tr | 调研核实（公开页） | 用户表 |
+| Gokhan | 研究档 KP（职务未核；疑业主 / 采购）= 收件人（第 102 批 官方登记核实 2026-10-28） | gokhan@egesanteknoloji.com.tr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

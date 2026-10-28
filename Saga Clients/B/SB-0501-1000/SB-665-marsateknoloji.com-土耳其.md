@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 102 批（TR · 1 次检索：官网首页 / Distribütörlüklerimiz（Marsa Teknoloji A.Ş.；U-Prox、Urfog、BasIP、Fanvil Türkiye Distribütörü；Hikvision / Dahua / Tiandy / Teletek 销售与技术服务点；İnkılap Mah. İlkkurşun Cad. 83B Ümraniye İstanbul；0216 256 56 86；info@）+ U-Prox / BAS-IP 官方「Where to buy」（Marsa Teknoloji ve Yazilum A.S.，同址）+ u-prox.com.tr（Marsa Teknoloji ve Yazılım A.Ş，No 83/A）+ nbd.ltd 贸易数据（MARSA TEKNOLOJİ VE YAZILIM ANONİM ŞİRKETİ；贸易伙伴 UR FOG S.R.L、BAS-IP DISTRIBUTION LTD.、BAS-IP TECHNOLOGY S.R.O）；Vergi No / MERSİS 未取，2026-10-28 查；https://www.marsateknoloji.com/distributorluklerimiz）：**
+
+- 法定名 / 登记号：Marsa Teknoloji ve Yazılım A.Ş.（marsateknoloji.com；İstanbul Ümraniye）— 进口型安防 / 通信分销商：U-Prox（门禁）、Ur-fog（防盗烟雾）、BAS-IP（IP 对讲，捷克产）、Fanvil（IP 话机）土耳其授权 / 独家分销；Hikvision / Dahua / Tiandy / Teletek 销售与技术服务点；海关记录显示直接进口（UR FOG S.R.L / BAS-IP DISTRIBUTION LTD / BAS-IP TECHNOLOGY S.R.O）；研究档 KP Ali Yıldız（职务未核） · A.Ş.（İstanbul；Vergi No / MERSİS 未取 → 部分坐实） · 状态 **Aktif（站点在线；2025 仍列为 U-Prox 土耳其分销）** · 成立 未取 · Anonim Şirket（私有）
+- 行业码 / 经营范围：安防 / 通信设备进口分销（门禁 U-Prox、防盗烟雾 Ur-fog、IP 对讲 BAS-IP、IP 话机 Fanvil；经销商计划）；Hikvision / Dahua / Tiandy / Teletek 销售与技术服务
+- 注册地址：İnkılap Mah. İlkkurşun Cad. No 83/A-B, Ümraniye / İstanbul
+- 规模档：小型（人数未取）
+- 账目：—；—
+- 高管：Ali Yıldız — 研究档 KP ali.yildiz@（职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **有进口经验的品牌分销商（IP 对讲 + IP 话机 = 天然 PoE 交换机配套需求）→ 分销 20%**：STC-028GP / STC-228GP / STC-2224GP（PoE 预算满足 BAS-IP 面板 / Fanvil 话机；VLAN / QoS 语音优先）+ STI-144GP（室外门禁柜）；加厚一次（配套方案价表）
+  - 收件人 ali.yildiz@ 点名 satın alma / genel müdür；表内 1 次跟进无回复 → 第二次触达换主题「PoE switches sized for IP intercom and IP phone deployments — a dealer-programme price list」；发信窗口 Thu 10–12 TRT；下轮补项：Vergi No / MERSİS；升 A 次候选
+- 备注：分销 20%；进口经验；加厚一次；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,15 +122,17 @@ updated: 2026-10-28
 - **【官网快照】Marsa Teknoloji 定位**
   > Marsa Teknoloji - U-Prox, Urfog, BasIP, Fanvil Türkiye Yetkili Distribütörü ; Hikvision, dahua, tiandy, teletek gibi büyük markalarında satış ve teknik servis noktasıdır
   > 来源：https://www.marsateknoloji.com/（抓取 2026-10-21）
-- **KP**：Ali Yıldız（）ali.yildiz@marsateknoloji.com 〔用户表〕
+- **KP**：Ali Yıldız（研究档 KP（职务未核）= 收件人；点名 satın alma / genel müdür（第 102 批 官方登记核实 2026-10-28））ali.yildiz@marsateknoloji.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 marsateknoloji.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Marsa Teknoloji ve Yazılım A.Ş.（İstanbul Ümraniye；Vergi No / MERSİS 未取 → 部分坐实；U-Prox / Ur-fog / BAS-IP / Fanvil 土耳其授权分销） |
+| 总部/地址 | İnkılap Mah. İlkkurşun Cad. No 83/A-B, Ümraniye / İstanbul |
+| 人数 | 小型（人数未取）（第 102 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 marsateknoloji.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 102 批：有进口经验的品牌分销商（IP 对讲 + IP 话机 = PoE 交换机配套需求）→ **分销 20%**（STC-028GP / STC-228GP / STC-2224GP + STI-144GP）；加厚一次；升 A 次候选（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 对讲 / IP 话机分销（U-Prox、Urfog、BasIP、Fanvil）
 - **触达通道（公开）**：role: 安防/对讲分销商（土耳其）；region: 土耳其；contact: ali.yildiz@marsateknoloji.com
@@ -191,7 +207,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ali Yıldız | — | ali.yildiz@marsateknoloji.com | 调研核实（公开页） | 用户表 |
+| Ali Yıldız | 研究档 KP（职务未核）= 收件人；点名 satın alma / genel müdür（第 102 批 官方登记核实 2026-10-28） | ali.yildiz@marsateknoloji.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

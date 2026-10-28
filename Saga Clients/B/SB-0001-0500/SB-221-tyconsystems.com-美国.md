@@ -101,6 +101,25 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 102 批（US · 1 次检索：官网 About（legalName Tycon Systems Inc.；foundingDate 2008；Bluffdale UT；「Scott Parsons, President」）+ SAM / opengovus（TYCON SYSTEMS INC；UEI V8M1PCBVGN91；CAGE 5XBL3；SAM 注册 2010-03-11，有效至 2026-12-29；业务始于 2008-01-01；930 W 14600 S Ste 600, Bluffdale, UT 84065；Incorporation State UT；2X 营利 / MF 制造商 / XS S 型公司；NAICS 334290；官员 Scott M Parsons PRESIDENT、Anita Parsons、Bruce Sutton ACCOUNTANT）+ 犹他 DBA（Tycon Power Systems，2008-04-04 备案，File 6970120-0151，注册代理 Scott Parsons）+ D&B（Key Principal Scott Parsons President）+ ZoomInfo（Bruce Sutton — CEO）+ Facebook / RocketReach（2008 创办人 Scott Parsons），2026-10-28 查；https://opengovus.com/sam-entity/V8M1PCBVGN91）：**
+
+- 法定名 / 登记号：Tycon Systems Inc.（DBA Tycon Power Systems；tyconsystems.com；Bluffdale, Utah）— 2008 年由 Scott Parsons（前 Pacific Wireless 创始人 / CEO）创办的离网供电 / 户外 UPS / PoE / 无线网络设备设计制造商（自有 TP- 系列 PoE 产品、太阳能监控拖车）；犹他 S 型公司；SAM UEI V8M1PCBVGN91，CAGE 5XBL3；**President Scott M. Parsons = 研究档 KP scottp@ 本人** · UT 公司（DBA 备案 6970120-0151）· SAM UEI V8M1PCBVGN91 · CAGE 5XBL3 · 状态 **Active（SAM 2025-12-31 激活）** · 成立 2008-01-01（业务起始；DBA 2008-04-04） · Subchapter S Corporation（犹他；Parsons 家族）
+- 行业码 / 经营范围：NAICS 334290 — 其他通信设备制造（离网太阳能 / 风能供电系统、户外 UPS、PoE 供电器 / 交换机、无线网桥、移动监控拖车）
+- 注册地址：930 W 14600 S, Suite 600, Bluffdale, UT 84065
+- 规模档：小型（人数未取；SAM 制造商）
+- 账目：—；—
+- 高管：Scott M. Parsons — President / 创办人 = **研究档 KP scottp@ 本人**
+- 高管：Bruce Sutton — Accountant（SAM）/ CEO（ZoomInfo）
+- 高管：Anita Parsons — 官员（SAM）
+- 高管：Daimyn Duong — 研究档 KP daimyn@（职务未核）
+- 高管：Andy Pierre — 研究档 KP（职务未核）
+- 控制人 / 股东：Parsons 家族（推定）
+- 曾用名：Tycon Power Systems（DBA）
+- **这意味着什么：**
+  - **自有 TP- 系列 PoE 产品线（TP-SW5G-D 导轨 5 口千兆 PoE 等）+ 总裁本人收件 → 贴标 OEM 30% 目标**：Tycon 标 STI-054GP / STI-144GP / STI-288DGGPM（导轨宽温 PoE，配其离网供电箱）+ STC-228GP；B BIG，**加厚**（对标其在售 TP-SW 价）
+  - 群发已打开 → 第二次触达换主题「DIN-rail PoE switches for your remote power enclosures — your label, 3-year warranty」；发信窗口 Wed 08–10 MT；升 A 候选（回信即 A）
+- 备注：贴标 OEM 30% 目标；KP = President 本人；B BIG；加厚；升 A 候选。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $499 ← 「3at/24V Passive PoE Switch, Remote Mgmt $499」（https://www.tyconsystems.com/products/tpdin-sc48-20/6026428000003357520）
@@ -151,16 +170,19 @@ updated: 2026-10-28
   > Tycon Systems Inc, Riverton … 4 shipments … Poe Switch … 01/31/2024 CHKMMZLMSA248500 570 kg 29ctn
   > 来源：https://www.importyeti.com/supplier/shenzhen-hongrui-optical-technology（抓取 2026-10-22）
 - **KP**：Andy Pierre（） 〔用户表〕
-- **KP**：Daimyn Duong（）daimyn@tyconsystems.com 〔用户表〕
-- **KP**：Scott Parsons（）scottp@tyconsystems.com 〔用户表〕
+- **KP**：Daimyn Duong（研究档 KP（职务未核）= 抄送（第 102 批 官方登记核实 2026-10-28））daimyn@tyconsystems.com 〔用户表〕
+- **KP**：Scott Parsons（President / 创办人（Tycon Systems Inc.；SAM UEI V8M1PCBVGN91）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））scottp@tyconsystems.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 tyconsystems.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Tycon Systems Inc.（DBA Tycon Power Systems；犹他 S 型公司；UT DBA 6970120-0151；SAM UEI V8M1PCBVGN91；CAGE 5XBL3） |
+| 成立 | 2008-01-01（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 930 W 14600 S, Suite 600, Bluffdale, UT 84065 |
+| 人数 | 小型（SAM 制造商；人数未取） |
+| 其他 | 官网 tyconsystems.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 102 批：自有 TP- 系列 PoE 产品线 + 总裁本人收件 → **贴标 OEM 30% 目标**（Tycon 标 STI-054GP / STI-144GP / STI-288DGGPM + STC-228GP）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：离网太阳能供电与 UPS 系统；移动太阳能监控拖车；PoE 交换机 / 注入器 / 延长器（自有 TP- 系列）
 
@@ -271,8 +293,8 @@ updated: 2026-10-28
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Andy Pierre | — | — | 调研核实（公开页） | 用户表 |
-| Daimyn Duong | — | daimyn@tyconsystems.com | 调研核实（公开页） | 用户表 |
-| Scott Parsons | — | scottp@tyconsystems.com | 调研核实（公开页） | 用户表 |
+| Daimyn Duong | 研究档 KP（职务未核）= 抄送（第 102 批 官方登记核实 2026-10-28） | daimyn@tyconsystems.com | 调研核实（公开页） | 用户表 |
+| Scott Parsons | President / 创办人（Tycon Systems Inc.；SAM UEI V8M1PCBVGN91）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28） | scottp@tyconsystems.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

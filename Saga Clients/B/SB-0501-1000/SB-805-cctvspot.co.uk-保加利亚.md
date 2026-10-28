@@ -1,7 +1,7 @@
 # cctvspot.co.uk
 **官方名称（调研核实）**：CCTVSpot（英国）
 
-> **评级 B**　|　英国　|　档案编号 `SB-805`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　保加利亚　|　档案编号 `SB-805`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "CCTVSpot（英国）"
 score: 31
-country: 英国
+country: 保加利亚
+country_table: 英国  # 表内原填；调研纠正为 保加利亚（research JSON country_fix）
 region: 欧洲
 website: cctvspot.co.uk
 type: 安防集成/经销
@@ -35,7 +36,7 @@ updated: 2026-10-28
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。；首触锚价 STC-28DGGPM $80.7 EXW（主表 20% 档；第 72 批）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS/UKCA — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
+- **第一问（只问一个）**：Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） 网站表单（cctvspot.co.uk，无邮箱） 表单一问（短）（第 75 批(f) 2026-10-25：英文信稿已写 `draft_en`；网站表单用，短版）
 
@@ -49,7 +50,7 @@ updated: 2026-10-28
 - **断点 / 为什么停在这里**：无邮箱（需网站表单）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表 20% 档；第 72 批）；按主表（研究档 saga_fit））——对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。
 - **下一步（具体）**：待 Simon 排期（首封）　网站表单（cctvspot.co.uk，无邮箱）　表单一问（短）（第 75 批(f) 2026-10-25：英文信稿已写 `draft_en`；网站表单用，短版）
-  - 第一问（只问一个）：Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS/UKCA — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -76,16 +77,30 @@ updated: 2026-10-28
 
 - `cctvspot.co.uk` → 同域名 MX → 托管在 mbvision.com（MX：cctvspot.co.uk）。主机商附带邮箱（同域名 MX → 托管在 mbvision.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（英国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（保加利亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 窗口内无该国法定假日
+
+**公司底数 · 第 102 批（GB · 1 次检索：cctvspot.co.uk About Us（「MB Vision Ltd.；Headquarters for Europe: 20 Sredetc str., 4003 Plovdiv, Bulgaria；BG VAT N: BG 202150972；UK VAT N: GB 411290538」；品牌 Hikvision / Dahua / Ajax / Wi-Tek）+ 首页（「Since our inception in 2012, MB Vision Ltd. has been a leading importer and distributor of high-quality CCTV equipment … one of the most trusted online suppliers in Bulgaria … across Europe」）+ DVR kits 页（联系 cctv.mbvision@gmail.com；「imported directly for the EU market」）；保加利亚商业登记（ЕИК 202150972）未另查，2026-10-28 查；https://cctvspot.co.uk/about-us）：**
+
+- 法定名 / 登记号：CCTVSpot.co.uk = **MB Vision Ltd.（保加利亚 Plovdiv）**— 2012 年起的 CCTV 设备进口 / 在线分销商（Hikvision / Dahua 授权经销、Ajax、Wi-Tek；欧洲发货）；英国站仅为销售前台（UK VAT GB411290538），总部 20 Sredets str., 4003 Plovdiv，BG VAT 202150972；无官方邮箱（Gmail 联系）→ **国别更正：保加利亚** · BG ЕИК / VAT 202150972 · UK VAT GB411290538 · 状态 **Active（站点在线）** · 成立 2012（自述） · Ltd.（保加利亚 ООД 推定；英国无实体登记）
+- 行业码 / 经营范围：CCTV 设备进口与在线分销（Hikvision / Dahua 授权经销；套件、IP、HD-CVI、LPR）
+- 注册地址：ul. Sredets 20, 4003 Plovdiv, Bulgaria（英国站无实体地址）
+- 规模档：微型（人数未取）
+- 账目：—；—
+- 高管：无具名（研究档无 KP；Gmail 联系 cctv.mbvision@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **保加利亚在线 CCTV 零售商（英国前台）+ 无官方邮箱 + 表内用 UTEPO PoE** → **分销 20% small，一页纸**：STC-028GP / STC-228GP / STC-2216GP（对标其在售 UTEPO / Wi-Tek 价）；DAP Plovdiv；不加厚
+  - 收件：站点联系表 / Gmail（公开邮箱规则：Gmail 为站点公示，可用）；发信窗口 Thu 12–14 EET；国别更正保加利亚（渲染 country_fix）
+- 备注：分销 20% small；一页纸；国别更正 BG。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | cctvspot.co.uk（取自域名，公司全名待核） | 推断 |
-| 国家 | 英国 | 事实（用户表）|
+| 国家 | 保加利亚 | 事实（用户表）|
 | 网站/域名 | cctvspot.co.uk | 事实（用户表 URL/邮箱域名） |
 | 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
 | 联系人 | 销售平台 | 事实（用户表） |
@@ -112,9 +127,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | CCTVSpot（待核） |
-| 总部/地址 | UK |
-| 其他 | 无公开邮箱 |
+| 法定名称 | MB Vision Ltd.（保加利亚 Plovdiv；BG VAT / ЕИК 202150972；UK VAT GB411290538；cctvspot.co.uk 为英国销售前台） |
+| 成立 | 2012（自述）（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Sredets 20, 4003 Plovdiv, Bulgaria（**国别更正：保加利亚**） |
+| 人数 | 微型（人数未取） |
+| 其他 | 无公开邮箱；第 102 批：保加利亚在线 CCTV 进口零售商（Hikvision / Dahua 授权；表内用 UTEPO PoE）→ **分销 20% small**（STC-028GP / STC-228GP / STC-2216GP）；一页纸；联系 = 站点公示 Gmail cctv.mbvision@（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 电商
 - **触达通道（公开）**：role: 电商（已售 UTEPO）；region: 英国
@@ -243,7 +260,7 @@ updated: 2026-10-28
 ```text
 Hello,
 
-We supply neutral-brand PoE switches to CCTV e-shops. Next to the UTEPO commercial PoE units you list: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, UKCA/CE/RoHS - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity).
+We supply neutral-brand PoE switches to CCTV e-shops. Next to the UTEPO commercial PoE units you list: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity).
 
 One question: which PoE port count do your installer customers buy most - 4, 8 or 16? If useful, I will send the datasheet to the address you prefer.
 

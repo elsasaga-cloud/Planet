@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -80,6 +80,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 102 批（PL · 1 次检索：官网 Regulamin / Dział sprzedaży（CONSTEEL Electronics sp. z o.o. sp. k.；ul. Rzemieślnicza 17/19, 81-855 Sopot；NIP 5862321609；REGON 368059985；KRS 0000691687）+ krs-pobierz（Spółka komandytowa；登记 2017-08-22；Sąd Rejonowy Gdańsk-Północ VIII Wydział KRS）+ bizraport（KRS 0000691687；资产 3.1 mln、营收 7.9 mln、利润 849 tys. zł）+ EMIS（2017-08-22；8 人 2022；2024 营收 -21.98%）+ rejestr.io（普通合伙人 CONSTEEL ELECTRONICS Sp. z o.o.；KRS 0000681591；NIP 5862319104；资本 50 tys. zł；Prezes Zarządu Bartosz Marciszewski（2020-02-20 起；500 udziałów）；Marta Ewa Borkowska（2023-01-05 起；500 udziałów））+ 官网 O firmie（3onedata：switche przemysłowe PoE+, EN50155, IEC61850, media konwertery, serwery portów；ADFweb；Caimore）+ automatyka.pl（客户群：集成商 / 分销商 / 制造商 / 安装商）+ LinkedIn（2017；11–50；Gdynia），2026-10-28 查；https://krs-pobierz.pl/consteel-electronics-spolka-z-ograniczona-odpowiedzialnoscia-spolka-komandytowa-i6711118）：**
+
+- 法定名 / 登记号：CONSTEEL Electronics Sp. z o.o. Sp. k.（consteel-electronics.com；Sopot）— 2017-08-22 登记的工业自动化 / 工业电子分销商（面向 CCTV / BMS / 汽车 / 智能电网 / 轨道 / 数字标牌集成商与安装商；**3onedata 工业交换机 PoE+ / EN 50155 / IEC 61850、ADFweb 协议转换、Caimore 无线**）；KRS 0000691687，NIP 5862321609，REGON 368059985；营收 7.9 mln zł（bizraport）、8 人（2022）；普通合伙人 CONSTEEL ELECTRONICS Sp. z o.o.（KRS 0000681591）**Prezes Zarządu Bartosz Marciszewski = 研究档 KP sklep@ 本人** · KRS 0000691687 · NIP 5862321609 · REGON 368059985（普通合伙人 KRS 0000681591） · 状态 **Aktywna（KRS 档案 2026-05 确认）** · 成立 2017-08-22 · Spółka komandytowa（普通合伙人 CONSTEEL ELECTRONICS Sp. z o.o.，资本 50,000 zł）
+- 行业码 / 经营范围：PKD 46.90.Z — 非专业批发（实为工业自动化 / 工业通信 / 工业电子分销：3onedata 工业交换机、ADFweb 转换器、Caimore 路由、工业 PC、显示器）
+- 注册地址：ul. Rzemieślnicza 17-19, 81-855 Sopot
+- 规模档：小型（8–11 人）
+- 账目：营收 7.9 mln zł、利润 849 tys. zł（bizraport；2024 营收 -22%）；—
+- 高管：Bartosz Marciszewski — Prezes Zarządu（普通合伙人）/ 股东 50% = **研究档 KP sklep@ 本人**
+- 高管：Marta Ewa Borkowska — 股东 50%（2023 起）
+- 控制人 / 股东：Marciszewski / Borkowska
+- **这意味着什么：**
+  - **3onedata 波兰分销（表内「质量一般」）+ 老板本人收件 → Saga STI 作其第二工业线 → 分销 20%**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE（对标 3onedata IES 系列价；-40~75 °C；3 年保修）；**轨道 EN 50155 / IEC 61850 不谈（守界）**；B BIG，**加厚**（对标价表）
+  - 表内「3onedata 的工业 FS 比较多；串口 / 工业 FS / MC」→ 第二次触达换主题「a second industrial Ethernet line beside your current Chinese brand — managed L2+, 3-year warranty, MOQ 1」（不点名 3onedata）；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）
+- 备注：分销 20%；KP = Prezes 本人；B BIG；加厚；升 A 候选；轨道守界。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,15 +138,18 @@ updated: 2026-10-27
 - **【用户表】3onedata 的工业 FS 比较多**
   > 3旺的 / 串口 工业FS MC；3旺的工业FS比较多
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Bartosz Marciszewski（）sklep@consteel-electronics.com 〔用户表〕
+- **KP**：Bartosz Marciszewski（Prezes Zarządu（普通合伙人 CONSTEEL ELECTRONICS Sp. z o.o.，KRS 0000681591）/ 股东 50% = **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））sklep@consteel-electronics.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 consteel-electronics.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | CONSTEEL Electronics Sp. z o.o. Sp. k.（KRS 0000691687；NIP 5862321609；REGON 368059985；普通合伙人 KRS 0000681591，资本 50,000 zł；股东 Bartosz Marciszewski / Marta Ewa Borkowska） |
+| 成立 | 2017-08-22（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Rzemieślnicza 17-19, 81-855 Sopot |
+| 人数 | 8–11 人；营收 7.9 mln zł（bizraport，2024 -22%） |
+| 其他 | 官网 consteel-electronics.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 102 批：3onedata 波兰分销（表内「质量一般」）+ 老板本人收件 → Saga STI 作其第二工业线 → **分销 20%**（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE 对标 3onedata IES 价）；轨道 EN 50155 / IEC 61850 守界不谈；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化与电子产品分销（工业交换机 / 无线 / 工业 PC / 网关）
 - **触达通道（公开）**：role: 工业自动化产品分销商（波兰，3onedata 工业线）；region: 波兰；contact: sklep@consteel-electronics.com、marketing@consteel-electronics.com
@@ -217,7 +235,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Bartosz Marciszewski | — | sklep@consteel-electronics.com | 调研核实（公开页） | 用户表 |
+| Bartosz Marciszewski | Prezes Zarządu（普通合伙人 CONSTEEL ELECTRONICS Sp. z o.o.，KRS 0000681591）/ 股东 50% = **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28） | sklep@consteel-electronics.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -312,12 +330,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -79,6 +79,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 102 批（DE · 1 次检索：官网 Impressum（Wachendorff Prozesstechnik GmbH & Co. KG；Industriestraße 7, 65366 Geisenheim；+49 6722 996520；Amtsgericht Wiesbaden HRA 7403；USt-ID DE113657232；Komplementär Wachendorff GmbH, Amtsgericht Wiesbaden HRB 20054；Geschäftsführer Robert Wachendorff；WEEE DE 79288157）+ wer-zu-wem（Robert Wachendorff — Geschäftsführer & Inhaber）+ Wachendorff Group 历史（1978-11-17 Rolf Wachendorff 创办，进口工业电子；1985 两子 Dr. Peter 与 Robert 加入）+ 集团简介 PDF 2021（>110 人；2022 营收 >€25M；家族经营）+ industrial-production（160 人；€28M；GF Robert / Dr. Peter Wachendorff）+ LinkedIn（1978；51–200；Geisenheim）+ 关联 Wachendorff Automation GmbH & Co. KG（HRA 8377，编码器），2026-10-28 查；https://www.wachendorff.com/legal-notice/）：**
+
+- 法定名 / 登记号：Wachendorff Prozesstechnik GmbH & Co. KG（wachendorff-prozesstechnik.de；Geisenheim / Rheingau）— 1978-11-17 由 Rolf Wachendorff 创办的工业电子进口 / 分销商（面板 PC、远程维护、数据记录、协议转换、工业网络组件；「Alles aus einer Hand」、原机测试）；Amtsgericht Wiesbaden HRA 7403（普通合伙人 Wachendorff GmbH HRB 20054）；GF 兼所有人 Dipl.-Wirtsch.-Ing. Robert Wachendorff；集团 >110 人、>€25M（2022）；研究档联系 kontakt@segno.de（关联域） · HRA 7403（Amtsgericht Wiesbaden）· Komplementär Wachendorff GmbH HRB 20054 · USt-ID DE113657232 · 状态 **Aktiv** · 成立 1978-11-17 · GmbH & Co. KG（家族企业；GF / Inhaber Robert Wachendorff）
+- 行业码 / 经营范围：工业电子进口与分销（面板 PC、HMI、远程维护、数据记录、协议 / 信号转换器、工业网络组件；原机测试、一站式）；集团：Wachendorff Automation（编码器制造）
+- 注册地址：Industriestraße 7, 65366 Geisenheim
+- 规模档：中型（集团 >110 人）
+- 账目：集团 >€25M（2022，自报）；—
+- 高管：Robert Wachendorff — Geschäftsführer & Inhaber（Dipl.-Wirtsch.-Ing.）= 拍板人
+- 高管：Dr. Peter Wachendorff — 集团管理层
+- 高管：kontakt@segno.de — 研究档联系（关联域；无具名 KP）
+- 控制人 / 股东：Wachendorff 家族
+- **这意味着什么：**
+  - **老牌工业电子进口分销（目标客户序列「有进口经验者」）+ 表内「电口」「可以着重跟一下」→ 分销 20%，可谈 Wachendorff 标 OEM 30%**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE（导轨宽温，配其面板 PC / 网关线）；B BIG，**加厚**（工业线对标价表 + 原机测试样机付费）
+  - 收件人改官方 wp@ / vertrieb@ 点名 Herrn Robert Wachendorff + Produktmanagement Industrielle Kommunikation；群发 8 次已打开 → 第二次触达换主题「DIN-rail managed switches for your industrial portfolio — tested samples, 3-year warranty」；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）
+- 备注：分销 20% / 可谈贴标；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,14 +128,18 @@ updated: 2026-10-28
 - **【用户表】电口；着重跟**
   > 电口；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Robert Wachendorff（Geschäftsführer & Inhaber（Dipl.-Wirtsch.-Ing.；Wachendorff Prozesstechnik GmbH & Co. KG，HRA 7403 Wiesbaden）= 拍板人（wp@ / vertrieb@ 点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 wachendorff-prozesstechnik.de，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Wachendorff Prozesstechnik GmbH & Co. KG（Amtsgericht Wiesbaden HRA 7403；Komplementär Wachendorff GmbH HRB 20054；USt-ID DE113657232） |
+| 成立 | 1978-11-17（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Industriestraße 7, 65366 Geisenheim |
+| 人数 | 集团 >110 人；>€25M（2022） |
+| 其他 | 官网 wachendorff-prozesstechnik.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 102 批：老牌工业电子进口分销（有进口经验者）+ 表内「可以着重跟一下」→ **分销 20%，可谈 Wachendorff 标 OEM 30%**（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE）；B BIG；加厚；升 A 候选；研究档 kontakt@segno.de 为关联域，收件改官方 wp@ / vertrieb@（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化组件（面板 PC / 远程维护 / 协议转换）
 - **触达通道（公开）**：role: 工业自动化组件供应商（德国，自有+分销）；region: 德国；contact: kontakt@segno.de
@@ -209,7 +229,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | kontakt@segno.de | 用户表原值 | Clients/ 表 |
+| Robert Wachendorff | Geschäftsführer & Inhaber（Dipl.-Wirtsch.-Ing.；Wachendorff Prozesstechnik GmbH & Co. KG，HRA 7403 Wiesbaden）= 拍板人（wp@ / vertrieb@ 点名）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -277,7 +297,7 @@ updated: 2026-10-28
 **主题**：STI-080GE - industrial DIN-rail 8-port Gigabit switch (neutral label)
 
 ```text
-Hello,
+Hi Robert,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?
 

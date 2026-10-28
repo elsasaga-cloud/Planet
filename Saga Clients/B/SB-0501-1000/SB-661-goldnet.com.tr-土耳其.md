@@ -79,6 +79,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 102 批（TR · 1 次检索：konkordatotakip 2024-07（GOLD-NET BİLİŞİM ELEKTRONİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ；Vergi No 3960490373；Ticaret Sicil 7956 / ÇORLU / TEKİRDAĞ；Dosya 2019/297 >> 2021/219 >> 2024/79；申请人 Gold-Net（MERSİS 0396049037300015）、Teknogon Güvenlik Sistemleri İth. İhr. San. Tic. Ltd. Şti.（0734055181700012）、Murat Gündeğer、Mustafa Gündeğer）+ EMIS（incorporated 2004-10-01；Kazımiye Mah. Dadaloğlu Cad. No 42 Çorlu Tekirdağ 59860；Electronics Stores）+ Çorlu TSO 名录（Muhittin Mh. Omurtak Cad. Peksoy Apt. K4 D11 Çorlu；0850 333 26 50）+ Yandex（Çorlu 安防与报警系统）+ leventelektronik（GOLDNET GN-5104 NVR 自有品牌产品）；find.com.tr 的 GOLDNET BİLİŞİM TEKNOLOJİLERİ（个体，1999）与 Ankara 的 Goldennet 为同名他户，2026-10-28 查；https://www.konkordatotakip.com/2024/07/gold-net-bilisim-elektronik-sanayi-ve-ticaret-limited-sirketi-11/）：**
+
+- 法定名 / 登记号：GOLD-NET BİLİŞİM ELEKTRONİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ（goldnet.com.tr；**Çorlu / Tekirdağ**）— 2004-10-01 成立的安防 / 电子产品公司（自有品牌 GOLDNET NVR / 摄像机经由经销商销售；Teknogon Güvenlik 关联）；**MERSİS 0396049037300015**；Vergi No 3960490373；Ticaret Sicil 7956 Çorlu；**2019 起 konkordato（破产重整保护）程序（2019/297 → 2021/219 → 2024/79），业主 Murat Gündeğer / Mustafa Gündeğer**；研究档 KP Murat（murat@）疑 = Murat Gündeğer · MERSİS 0396049037300015 · Vergi No 3960490373 · Ticaret Sicil 7956（Çorlu） · 状态 **Aktif（但 konkordato 程序进行中 2019–2024+）** · 成立 2004-10-01 · Limited Şirket（Gündeğer 家族；关联 Teknogon Güvenlik）
+- 行业码 / 经营范围：安防 / 电子产品销售（自有品牌 GOLDNET NVR / 摄像机，经销商渠道）
+- 注册地址：Kazımiye Mah. Dadaloğlu Cad. No 42, Çorlu / Tekirdağ 59860
+- 规模档：小型（人数未取）
+- 账目：—（重整程序中）；—
+- 高管：Murat Gündeğer — 业主 / 申请人（konkordato 文件）= 研究档 KP murat@ 推定同人
+- 高管：Mustafa Gündeğer — 业主 / 申请人
+- 控制人 / 股东：Gündeğer 家族
+- 抵押 / 诉讼 / 担保：konkordato（债务重整）程序 2019/297 → 2021/219 → 2024/79
+- **这意味着什么：**
+  - **自有品牌 GOLDNET + 业主本人收件，但公司处于 konkordato 重整 → 回款风险高 → 贴标 small，`when=不动` 之外的唯一例外是 100% 预付**：Goldnet 标 STC-028GP / STC-228GP 一页纸，T/T 100% 预付、不赊、不备货；不加厚；**对客不提重整**
+  - 收件人 murat@；表内 1 次跟进无回复 → 第二次触达一次即止；发信窗口 Thu 10–12 TRT；地域更正：Çorlu / Tekirdağ
+- 备注：贴标 small；konkordato 风险 → 100% 预付；一页纸；地域 Çorlu。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -102,15 +118,18 @@ updated: 2026-10-28
 - **类型**：IT/网络公司（土耳其，待核）
 - **【官网快照】官网标题：goldnet.com.tr**
   > 来源：https://goldnet.com.tr/（抓取 2026-10-21）
-- **KP**：Murat（）murat@goldnet.com.tr 〔用户表〕
+- **KP**：Murat（业主 Murat Gündeğer 推定同人（konkordato 申请人之一；未证）= 收件人（第 102 批 官方登记核实 2026-10-28））murat@goldnet.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 goldnet.com.tr，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | GOLD-NET BİLİŞİM ELEKTRONİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ（MERSİS 0396049037300015；Vergi No 3960490373；Ticaret Sicil 7956 Çorlu；关联 Teknogon Güvenlik） |
+| 成立 | 2004-10-01（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Kazımiye Mah. Dadaloğlu Cad. No 42, Çorlu / Tekirdağ 59860（**地域更正：Çorlu，非 İstanbul**） |
+| 人数 | 小型（人数未取） |
+| 其他 | 官网 goldnet.com.tr，语言 ?，快照状态 ok；角色判定来源：待核；第 102 批：自有品牌 GOLDNET NVR / 摄像机，但 **2019 起 konkordato 重整程序（2019/297 → 2021/219 → 2024/79）→ 回款风险高** → 贴标 small，仅 100% 预付、不赊、不备货（STC-028GP / STC-228GP）；一页纸一次；对客不提重整（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核）
 - **触达通道（公开）**：role: IT/网络公司（土耳其，待核）；region: 土耳其；contact: murat@goldnet.com.tr
@@ -172,7 +191,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Murat | — | murat@goldnet.com.tr | 调研核实（公开页） | 用户表 |
+| Murat | 业主 Murat Gündeğer 推定同人（konkordato 申请人之一；未证）= 收件人（第 102 批 官方登记核实 2026-10-28） | murat@goldnet.com.tr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

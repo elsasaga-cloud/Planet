@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,6 +86,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 102 批（TR · 1 次检索：T.C. Ticaret Bakanlığı ETBİS 站点档案（www.baburtech.com；Mersis No 0128085731200001；İşletme Adı BABURTECH BİLİŞİM SANAYİ VE TİCARET ANONİM ŞİRKETİ；İşletme Türü Anonim Şirket；ETBİS 登记 2017-12-29）+ 官网 İletişim（Vergi No 1280857312；Vergi Dairesi Çankaya；Ziya Gökalp Cad. No 9 Kızılay；技术服务 Necatibey Cad. No 51 Çankaya；0850 302 06 47）+ LinkedIn（2007；Çankaya Ankara；自报 201–500 人 — 存疑）+ TrustBuy（Ankara 中央仓 Ziya Gökalp Cad. 9/3 Kızılay；电脑 / 移动设备配件大仓）+ başkentrehber（负责人「Genel Müdür」未具名），2026-10-28 查；https://www.eticaret.gov.tr/siteprofil/DBF006896AD84356AECB2A471AD82BE2/wwwbaburtechcom）：**
+
+- 法定名 / 登记号：BABURTECH BİLİŞİM SANAYİ VE TİCARET ANONİM ŞİRKETİ（baburtech.com；Ankara Kızılay）— 2007 年起的笔记本 / 手机原厂配件与维修电商（兼售 Hikvision / Dahua / TP-Link / Ubiquiti / Planet 网络安防品）；**MERSİS 0128085731200001**（商务部 ETBİS 电商登记，2017-12-29）；Vergi No 1280857312（Çankaya）；研究档 KP Ayşe Narinsöz（职务待核） · MERSİS 0128085731200001 · Vergi No 1280857312（Çankaya） · 状态 **Aktif（ETBİS 在册；站点在线）** · 成立 2007（LinkedIn；ETBİS 登记 2017-12-29） · Anonim Şirket（私有）
+- 行业码 / 经营范围：电脑 / 笔记本 / 手机原厂配件与维修电商（B2C + B2B）；网络 / 安防品转售（Hikvision / Dahua / TP-Link / Ubiquiti / Planet；表内「switch，有海思的」）
+- 注册地址：Cumhuriyet Mah. Ziya Gökalp Cad. No 9/3, Kızılay, Çankaya / Ankara
+- 规模档：小型 / 中型（自报 201–500 存疑；实体配件电商）
+- 账目：—；—
+- 高管：Genel Müdür — 未具名（başkentrehber）
+- 高管：Ayşe Narinsöz — 研究档 KP ayse@（职务待核；采购 / 产品推定）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **配件电商 + 网络品转售（已卖海思方案交换机）→ 分销 20% small，一页纸**：STC-028GP / STC-228GP / STC-2216GP（对标其在售 TP-Link / 海思白牌价）；不加厚
+  - 收件人 ayse@ 点名 satın alma；群发已打开 → 第二次触达换主题「managed PoE switches at unmanaged-level prices — MOQ 1, DAP Ankara」；发信窗口 Thu 10–12 TRT；ETBİS 站点档案 = 新增 TR 查号路径（已记规程 §1）
+- 备注：分销 20% small；一页纸；MERSİS 坐实（ETBİS）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,15 +148,18 @@ updated: 2026-10-27
 - **【用户表】switch 有海思的**
   > switch 有海思的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ayse Narinsoez（）ayse@baburtech.com 〔用户表〕
+- **KP**：Ayşe Narinsöz（研究档 KP（职务待核；采购 / 产品推定）= 收件人（第 102 批 官方登记核实 2026-10-28））ayse@baburtech.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 baburtech.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | BABURTECH BİLİŞİM SANAYİ VE TİCARET ANONİM ŞİRKETİ（MERSİS 0128085731200001 — 商务部 ETBİS；Vergi No 1280857312 Çankaya） |
+| 成立 | 2007（ETBİS 登记 2017-12-29）（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Cumhuriyet Mah. Ziya Gökalp Cad. No 9/3, Kızılay, Çankaya / Ankara |
+| 人数 | 小型 / 中型（自报 201–500 存疑） |
+| 其他 | 官网 baburtech.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 102 批：笔记本 / 手机配件电商 + 网络品转售（海思白牌交换机在售）→ **分销 20% small**（STC-028GP / STC-228GP / STC-2216GP）；一页纸（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：笔记本配件与维修电商；网络 / 安防产品兼营
 - **触达通道（公开）**：role: 电脑配件电商兼安防网络（土耳其）；region: 土耳其；contact: destek@baburtech.com、ayse@baburtech.com
@@ -235,7 +253,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ayse Narinsoez | — | ayse@baburtech.com | 调研核实（公开页） | 用户表 |
+| Ayşe Narinsöz | 研究档 KP（职务待核；采购 / 产品推定）= 收件人（第 102 批 官方登记核实 2026-10-28） | ayse@baburtech.com | 调研核实（公开页） | 用户表 |
+| Ayse Narinsoez | — | destek@baburtech.com / ayse@baburtech.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -303,7 +322,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Ayse,
+Hi Ayşe,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches you sell alongside Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band sells more for you?
 
@@ -328,12 +347,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

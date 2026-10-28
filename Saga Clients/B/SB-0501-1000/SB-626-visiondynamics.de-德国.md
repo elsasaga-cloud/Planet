@@ -76,6 +76,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 102 批（DE · 1 次检索（关键词 Vision Dynamics ElectronX visiondynamics.de Impressum）→ 返回 vision-dynamics.de Impressum（Vision Dynamics GmbH；Grünwalder Weg 32, 82041 Oberhaching；GF Christian P. Zimmermann；Amtsgericht München HRB 235057；USt-ID DE313379909）+ implisense / Northdata（2017-07-24 成立；资本 €25,000；经营范围：工业自动化项目管理 / 系统设计 / 软件集成）—— 电子贸易「ElectronX」与 enquiries@ 英式用语均对不上；按「1 次未中即停」规则不再追，2026-10-28 查；https://visiondynamics.de/）：**
+
+- 法定名 / 登记号：Vision Dynamics ElectronX（visiondynamics.de；德国）— 研究档 KP Joseph（joseph.nb@）、enquiries@；表内「之前谈过」；**本轮 1 次检索仅命中 Vision Dynamics GmbH（vision-dynamics.de，Oberhaching bei München，Amtsgericht München HRB 235057，工业自动化工程咨询，GF Christian Zimmermann）—— 域名与业务均不符，疑同名他户，不采 → 未坐实** · 未坐实（visiondynamics.de 主体未取；HRB 235057 为同名他户，不采） · 状态 **站点快照仅标题（研究档）** · 成立 未取 · 未取
+- 行业码 / 经营范围：电子 / 网络产品贸易（研究档待核）
+- 注册地址：德国（门牌未取）
+- 规模档：未取
+- 账目：—；—
+- 高管：Joseph（姓未取）— 研究档 KP joseph.nb@（职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实** → 表内「之前谈过」仍值一封：一页纸（STC-228GP / STC-2224GP / STI-144GP）点回旧话题；不加厚；下轮补项：站点 Impressum / whois 法人名
+  - 收件人 joseph.nb@ 抄 enquiries@；发信窗口 Thu 12–14 CET
+- 备注：未坐实（1 次未中，同名他户不采）；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,15 +128,16 @@ updated: 2026-10-28
 - **【用户表】之前谈过**
   > 之前谈过
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Joseph（）joseph.nb@visiondynamics.de 〔用户表〕
+- **KP**：Joseph（研究档 KP（职务未核；1 次检索未命中本户登记 → 未坐实）= 收件人（第 102 批 官方登记核实 2026-10-28））joseph.nb@visiondynamics.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Vision Dynamics ElectronX（visiondynamics.de；法人主体未取 → 未坐实；vision-dynamics.de 的 Vision Dynamics GmbH（HRB München 235057，工业自动化咨询）为同名他户，不采） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 visiondynamics.de，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 visiondynamics.de，语言 ?，快照状态 ok；角色判定来源：待核；第 102 批：**未坐实** → 表内「之前谈过」仍值一封一页纸（STC-228GP / STC-2224GP / STI-144GP）点回旧话题；下轮补项：Impressum / whois（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核）
 - **触达通道（公开）**：role: 电子/网络贸易商（德国，待核）；region: 德国；contact: joseph.nb@visiondynamics.de、enquiries@visiondynamics.de
@@ -185,7 +200,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Joseph | — | joseph.nb@visiondynamics.de | 调研核实（公开页） | 用户表 |
+| Joseph | 研究档 KP（职务未核；1 次检索未命中本户登记 → 未坐实）= 收件人（第 102 批 官方登记核实 2026-10-28） | joseph.nb@visiondynamics.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

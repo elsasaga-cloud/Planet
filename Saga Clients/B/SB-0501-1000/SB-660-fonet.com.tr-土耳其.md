@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 102 批（TR · 1 次检索：官网 Hakkımızda / 首页 schema（legalName「Fonet Fiber Optik Bilgisayar Hizmetleri Ticaret Limited Şirketi」；foundingDate 1995-01-01；taxID 3880095179；1995 İstanbul 成立；结构化布线、LSN、WAN、Wireless、交钥匙 Data Center；服务：光纤布线与端接、测试分析、数据布线与机柜安装、数据中心与无线、有源设备配置维护、勘察设计与产品销售）；检索同时返回 FONET BİLGİ TEKNOLOJİLERİ A.Ş.（Ankara；Vergi No 3880651486；1997 医疗信息化；BIST 上市）= **同名他户，不采**，2026-10-28 查；https://fonet.com.tr/hakkimizda/）：**
+
+- 法定名 / 登记号：Fonet Fiber Optik Bilgisayar Hizmetleri Ticaret Limited Şirketi（fonet.com.tr；İstanbul）— 1995 年成立的结构化布线 / LAN-WAN / 无线 / 交钥匙数据中心基础设施集成商（光纤布线与熔接、测试、机柜、有源设备配置与维护；机场 / 大桥 / 酒店项目）；Vergi No 3880095179；**与上市公司 FONET Bilgi Teknolojileri A.Ş.（Ankara 医疗信息化，BIST:FONET）无关**；研究档 KP Akgün（职务未核） · Vergi No 3880095179；MERSİS 未取 · 状态 **Aktif（站点 2024 更新）** · 成立 1995 · Limited Şirket（私有）
+- 行业码 / 经营范围：网络 / 电信基础设施集成：结构化布线、光纤、无线、数据中心交钥匙、有源设备配置维护与产品销售
+- 注册地址：İstanbul（门牌未取）
+- 规模档：小型（人数未取）
+- 账目：—；—
+- 高管：Akgün（姓未取）— 研究档 KP akgun@（职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **30 年布线 / 数据中心集成商 → 集成商 25%**：STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W（楼宇接入 PoE）+ STC-448XGGPM / STH-2C24XF-HSI（机房汇聚 / ToR）；一页纸 + DC 规格；不加厚
+  - 收件人 akgun@；表内 1 次跟进无回复 → 第二次触达换主题「access + ToR switches for your turnkey data center projects — 15-day quote」；发信窗口 Thu 10–12 TRT；下轮补项：MERSİS / 门牌
+- 备注：集成商 25%；一页纸；同名上市公司不采。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,15 +121,18 @@ updated: 2026-10-28
 - **【官网快照】Fonet 定位**
   > Anasayfa | Fonet ; 30 Yıllık tecrübe Bilişim ve Telekom Altyapısında Güçlü Çözümler ; Havaalanı Projelerimiz ; Otel Projelerimiz
   > 来源：https://fonet.com.tr/（抓取 2026-10-21）
-- **KP**：Akgün（）akgun@fonet.com.tr 〔用户表〕
+- **KP**：Akgün（研究档 KP（职务未核）= 收件人（第 102 批 官方登记核实 2026-10-28））akgun@fonet.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 fonet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Fonet Fiber Optik Bilgisayar Hizmetleri Ticaret Limited Şirketi（Vergi No 3880095179；MERSİS 未取；**与上市公司 FONET Bilgi Teknolojileri A.Ş.（Ankara 医疗信息化）无关**） |
+| 成立 | 1995（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | İstanbul（门牌未取） |
+| 人数 | 小型（人数未取） |
+| 其他 | 官网 fonet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 102 批：30 年结构化布线 / 交钥匙数据中心集成商 → **集成商 25%**（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W + STC-448XGGPM / STH-2C24XF-HSI）；一页纸 + DC 规格（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 电信基础设施集成（土耳其）
 - **触达通道（公开）**：role: IT/电信基础设施集成商（土耳其，项目型）；region: 土耳其；contact: akgun@fonet.com.tr
@@ -186,7 +203,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Akgün | — | akgun@fonet.com.tr | 调研核实（公开页） | 用户表 |
+| Akgün | 研究档 KP（职务未核）= 收件人（第 102 批 官方登记核实 2026-10-28） | akgun@fonet.com.tr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

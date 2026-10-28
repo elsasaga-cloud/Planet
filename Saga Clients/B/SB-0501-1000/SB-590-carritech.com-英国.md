@@ -77,6 +77,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 102 批（GB · 1 次检索：Companies House 07260202（CARRITECH LTD；Active；Private limited company；Incorporated 2010-05-20；注册地 124 City Road, London EC1V 2NX（虚拟办公地址）；CH01 / PSC04 2025–2026 Miguel Asin Barcos 变更）+ companiesintheuk（SIC 61900；资本 £200；11 人 2025 账（2024 为 8）；董事 Miguel ASIN BARCOS 2011-04-12、Bruce Iain SUTHERLAND 2010-06-16；Total Exemption Full）+ Endole（微型；2 董事 / 2 股东 / 2 PSC；Sutherland 58 岁）+ 官网 Company（2010 由 Miguel Asín 与 Bruce Sutherland 创办；备件供应、资产管理、远程支持、硬件支持、WEEE 回收；UK + Spain）+ LinkedIn（11–50；光模块 / SFP、翻新维修、legacy telecoms）+ prospeo（营收约 $1.45M；Miguel Asin Barcos — Sales Director），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/07260202）：**
+
+- 法定名 / 登记号：CARRITECH LTD（carritech.com / optics.carritech.com；London 注册，运营 UK + Madrid）— 2010-05-20 成立的运营商级电信设备备件供应 / 资产管理 / 翻新维修 / WEEE 回收商（延长旧网络寿命；光模块 / SFP 为主，MC 为副线）；Companies House 07260202；SIC 61900；资本 £200；11 人（2025 账）；董事 Bruce Iain Sutherland（创始人，2010）+ Miguel Asín Barcos（2011；PSC；Sales Director，Madrid） · Companies House 07260202 · 状态 **Active（2025 账已报）** · 成立 2010-05-20 · Private limited company（资本 £200；两创始董事即 PSC）
+- 行业码 / 经营范围：61900 — 其他电信活动（运营商旧设备备件供应、资产管理、翻新维修、WEEE 回收；光模块 / SFP 销售）
+- 注册地址：124 City Road, London EC1V 2NX（注册 / 虚拟）；运营 UK + Madrid
+- 规模档：微型 / 小型（11 人）
+- 账目：第三方营收约 $1.45M（仅作区间）；—
+- 高管：Bruce Iain Sutherland — Director / 创始人（2010）
+- 高管：Miguel Asín Barcos — Director / PSC / Sales Director（2011；Madrid）
+- 高管：Yura Saskevych — Global Account Director（Madrid）
+- 控制人 / 股东：Sutherland / Asín Barcos
+- **这意味着什么：**
+  - **翻新备件商（同行·翻新类）+ 表内 2 次跟进无回复** → **一页纸一次后 `when=不动`**：仅 MC / 光口小件（STI-144GP / STC-228GP）配其光模块业务；不加厚
+  - 收件人 contact@ 点名 Sales Director；发信窗口 Thu 12–14 GMT（马德里团队 CET）
+- 备注：翻新商 → 一页纸一次后不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,14 +119,18 @@ updated: 2026-10-28
 - **【用户表】主要是光模块 有一些 MC**
   > 主要是光模块 有一些MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Miguel Asín Barcos（Director / PSC / Sales Director（2011 起；Madrid；Companies House 07260202）= 收件点名；创始董事 Bruce Iain Sutherland（2010）（第 102 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 carritech.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | CARRITECH LTD（Companies House 07260202；SIC 61900；股本 £200；注册地 124 City Road EC1V 2NX 为虚拟办公地址） |
+| 成立 | 2010-05-20（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | London（注册）+ Madrid（运营） |
+| 人数 | 11 人（2025 账）；营收约 $1.45M（第三方） |
+| 其他 | 官网 carritech.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 102 批：运营商旧设备备件 / 翻新 / WEEE 回收商（同行·翻新类）+ 表内 2 次跟进无回复 → **一页纸一次后不动**（仅 STI-144GP / STC-228GP 配其光模块业务）（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信设备 / 光模块供应（英国）
 - **触达通道（公开）**：role: 电信设备/光模块供应商（英国，MC 为副线）；region: 英国；contact: contact@carritech.com
@@ -179,7 +199,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | contact@carritech.com | 用户表原值 | Clients/ 表 |
+| Miguel Asín Barcos | Director / PSC / Sales Director（2011 起；Madrid；Companies House 07260202）= 收件点名；创始董事 Bruce Iain Sutherland（2010）（第 102 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -215,7 +235,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -232,7 +252,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -249,7 +269,7 @@ updated: 2026-10-28
 **主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
 
 ```text
-Hello,
+Hi Miguel,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the media converters you offer alongside optics, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — which MC configuration do your telecom customers order most?
 

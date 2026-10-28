@@ -78,6 +78,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 102 批（TR · 1 次检索（关键词 Midosa midosa.com.tr Taner Şahin 公司 vergi no）→ 仅返回 ITO 新设公司名单、HİB 名单、Midas Menkul 等无关条目；按「1 次未中即停」规则不再追；业务范围沿用研究档（待核），2026-10-28 查；https://midosa.com.tr/）：**
+
+- 法定名 / 登记号：Midosa（midosa.com.tr；土耳其）— 研究档 KP Taner Şahin tanersahin@（电话 +90 544 …）；官网 http_error；**本轮 1 次检索未命中任何登记 / 名录条目 → 未坐实** · 未坐实（登记主体未取） · 状态 **站点 http_error（研究档快照）** · 成立 未取 · 未取
+- 行业码 / 经营范围：IT / 网络（研究档待核）
+- 注册地址：土耳其（门牌未取）
+- 规模档：未取
+- 账目：—；—
+- 高管：Taner Şahin — 研究档 KP tanersahin@（职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实 + 站点失效** → 只发一页纸（STC-228GP / STC-2224GP）一次，不回复即 `when=不动`；下轮补项：域名 whois / 站点恢复后 İletişim 页 Vergi No
+  - 收件人 tanersahin@；表内 1 次跟进无回复；发信窗口 Thu 10–12 TRT
+- 备注：未坐实（1 次未中）；一页纸一次；低优先。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -102,15 +116,16 @@ updated: 2026-10-28
 - **【用户表】表内兴趣/备注**
   > 90 544 427 52 46
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Taner Şahin（）tanersahin@midosa.com.tr 〔用户表〕
+- **KP**：Taner Şahin（研究档 KP（职务未核；1 次检索未命中登记主体 → 未坐实）= 收件人（第 102 批 官方登记核实 2026-10-28））tanersahin@midosa.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Midosa（midosa.com.tr；登记主体 / Vergi No 未取 → 未坐实；站点 http_error） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 midosa.com.tr，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 midosa.com.tr，语言 ?，快照状态 http_error；角色判定来源：待核；第 102 批：**未坐实 + 站点失效** → 一页纸一次（STC-228GP / STC-2224GP），不回复即不动；下轮补项：whois / İletişim 页 Vergi No（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核，土耳其）
 - **触达通道（公开）**：role: IT/网络公司（土耳其，待核）；region: 土耳其；contact: tanersahin@midosa.com.tr
@@ -180,7 +195,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Taner Şahin | — | tanersahin@midosa.com.tr | 调研核实（公开页） | 用户表 |
+| Taner Şahin | 研究档 KP（职务未核；1 次检索未命中登记主体 → 未坐实）= 收件人（第 102 批 官方登记核实 2026-10-28） | tanersahin@midosa.com.tr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

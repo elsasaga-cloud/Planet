@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 102 批（TR · 1 次检索：mnspazar.com İletişim（MNS BİLİŞİM HİZ. SAN. TİC. LTD. ŞTİ.；Mahmut Bektaş；Mecidiyeköy Mh. Cemal Sahir Sk. Polat Mecidiyeköy İş Merkezi No 29 K:4 D:43 Şişli İstanbul；Vergi No 6220446809；Vergi Dairesi Zincirlikuyu；0 212 347 90 66；info@ / teknik@）+ EMIS（Mns Bilisim Hizmetleri San. Ve Tic. Ltd. Sti.；established 2005-07-07；İstanbul）+ ZoomInfo（Mahmut Bektaş — Founder，2005–；11–50 人；Harun Kara — Network Systems Specialist）+ 官网（Kurumsal Network Çözümleri；UniFi AP；Ruijie 6120；Ruijie 土耳其授权销售与方案伙伴）+ whois（域名 2005-04-09 创建），2026-10-28 查；https://www.mnspazar.com/iletisim）：**
+
+- 法定名 / 登记号：MNS Bilişim Hizmetleri San. ve Tic. Ltd. Şti.（mnsbilisim.com / 电商 mnspazar.com；İstanbul Şişli Mecidiyeköy）— 2005-07-07 成立的企业网络方案商 / 增值经销商（Ruijie Networks 与 Ubiquiti UniFi 土耳其授权销售 + 项目 / 安装 / 维护；RG-WALL 防火墙、Ruijie 6120 25G/40G 交换机）；Vergi No 6220446809（Zincirlikuyu）；**创始人 Mahmut Bektaş = 研究档 KP 本人**；11–50 人 · Vergi No 6220446809（Zincirlikuyu）；MERSİS 未取（推定 0622044680900001，未核） · 状态 **Aktif（电商 2025 在线）** · 成立 2005-07-07 · Limited Şirket（创始人 Mahmut Bektaş）
+- 行业码 / 经营范围：企业网络方案 / 增值经销（Ruijie、Ubiquiti 授权；防火墙 / 交换机 / AP / 布线；项目 + 维护）；网络设备电商（mnspazar.com）
+- 注册地址：Mecidiyeköy Mah. Cemal Sahir Sk. Polat Mecidiyeköy İş Merkezi No 29, K:4 D:43, Şişli / İstanbul
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Mahmut Bektaş — Founder / 业主 = **研究档 KP mahmut.bektas@ 本人**
+- 高管：Harun Kara — Network Systems Specialist
+- 控制人 / 股东：Mahmut Bektaş（推定）
+- **这意味着什么：**
+  - **Ruijie / UniFi 增值经销 + 老板本人收件 + 已卖 10G/25G → 集成商 25%（项目）+ 分销 20%（电商）**：STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM（对标 Ruijie 6120 系列价）+ STH-2C24XF-HSI（25G ToR）+ STC-110XGE；B BIG，**加厚**（对标价表）
+  - 表内 1 次跟进无回复 → 第二次触达换主题「10G/25G switches priced against your current 6120 line — managed L3 on the STH line」（不点名 Ruijie）；发信窗口 Thu 10–12 TRT；升 A 候选（回信即 A）
+- 备注：集成商 25% + 分销 20%；KP = 创始人本人；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,15 +123,18 @@ updated: 2026-10-28
 - **【官网快照】MNS Bilişim 首页**
   > Anasayfa - MNS Bilişim Hizmetleri ; Unifi Ap Serisi ; RUIJIE 6120 Switch Ailesi ; 1G Fiyat / 10G Performans ; Kurumsal Network Çözümleri
   > 来源：https://mnsbilisim.com/（抓取 2026-10-21）
-- **KP**：Mahmut Bektaş（）mahmut.bektas@mnsbilisim.com 〔用户表〕
+- **KP**：Mahmut Bektaş（Founder / 业主（MNS Bilişim Hizmetleri San. ve Tic. Ltd. Şti.，2005 起）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））mahmut.bektas@mnsbilisim.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 mnsbilisim.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | MNS Bilişim Hizmetleri San. ve Tic. Ltd. Şti.（Vergi No 6220446809 Zincirlikuyu；MERSİS 未取；电商 mnspazar.com；Ruijie / Ubiquiti 土耳其授权销售） |
+| 成立 | 2005-07-07（第 102 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Mecidiyeköy Mah. Cemal Sahir Sk. Polat Mecidiyeköy İş Merkezi No 29, K:4 D:43, Şişli / İstanbul |
+| 人数 | 11–50 人 |
+| 其他 | 官网 mnsbilisim.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 102 批：Ruijie / UniFi 增值经销 + 老板本人收件 + 已卖 10G/25G → **集成商 25% + 分销 20%**（STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + STH-2C24XF-HSI + STC-110XGE 对标 Ruijie 6120）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业网络集成 / IT 服务
 - **触达通道（公开）**：role: 企业网络集成商（土耳其，Ruijie/UniFi）；region: 土耳其；contact: mahmut.bektas@mnsbilisim.com
@@ -195,7 +213,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mahmut Bektaş | — | mahmut.bektas@mnsbilisim.com | 调研核实（公开页） | 用户表 |
+| Mahmut Bektaş | Founder / 业主（MNS Bilişim Hizmetleri San. ve Tic. Ltd. Şti.，2005 起）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28） | mahmut.bektas@mnsbilisim.com | 调研核实（公开页） | 用户表 |
 | Mahmut | — | mahmut.bektas@mnsbilisim.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

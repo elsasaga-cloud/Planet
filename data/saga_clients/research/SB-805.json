@@ -88,7 +88,7 @@
    "when": "待 Simon 排期（首封）",
    "channel": "网站表单（cctvspot.co.uk，无邮箱）",
    "action": "表单一问（短）（第 75 批(f) 2026-10-25：英文信稿已写 `draft_en`；网站表单用，短版）",
-   "one_question": "Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS/UKCA — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
@@ -105,7 +105,7 @@
   ],
   "draft_en": {
    "subject": "Web form: neutral-brand 8-PoE L2+ switch next to UTEPO",
-   "body": "Hello,\n\nWe supply neutral-brand PoE switches to CCTV e-shops. Next to the UTEPO commercial PoE units you list: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, UKCA/CE/RoHS - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity).\n\nOne question: which PoE port count do your installer customers buy most - 4, 8 or 16? If useful, I will send the datasheet to the address you prefer.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello,\n\nWe supply neutral-brand PoE switches to CCTV e-shops. Next to the UTEPO commercial PoE units you list: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity).\n\nOne question: which PoE port count do your installer customers buy most - 4, 8 or 16? If useful, I will send the datasheet to the address you prefer.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  },
