@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 93 批（PL · 1 次检索：damixsat.pl o-firmie / regulamin / polityka（FHU DAMIX，CEIDG 个体；ul. Balcera 40, 64-000 Kościan；NIP 698-162-04-19；REGON 386854875；2006 起）+ yellowpages / firmagodnazaufania（DAMIX Damian Marciniak；旧 NIP 6981560781 / REGON 300273697）+ 首页「akcesoria Spacetronik」，2026-10-28 查；https://www.damixsat.pl/webpage/o-firmie.html）：**
+
+- 法定名 / 登记号：FHU DAMIX Damian Marciniak（damixsat.pl；Kościan）— 个体 SAT/RTV 网店 · NIP 6981620419 / REGON 386854875（CEIDG 个体；另见旧登记 NIP 6981560781） · 状态 **Aktywna（官网 2026-10 更新）** · 成立 2006 · 个体工商（CEIDG；FHU）
+- 行业码 / 经营范围：卫星 / RTV / 电脑配件网店 + 门店；Spacetronik 配件经销
+- 注册地址：ul. Balcera 40, 64-000 Kościan（wielkopolskie）
+- 规模档：微型（1–3 人）
+- 账目：—（个体）；—
+- 高管：Damian Marciniak — 业主
+- **这意味着什么：**
+  - **个体网店、交换机只是配件** → 不再投入，分销 20% 一页纸也不必单发；`when=不动`
+  - 它卖 Spacetronik（SB-092）配件 → 若 Spacetronik 做成 OEM，这类店会自动跟着卖
+  - B 维持
+- 备注：底数完整即可。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,14 +127,18 @@ updated: 2026-10-28
 - **【用户表】工商业 switch 有国内的**
   > 工商业switch 有国内的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Damian Marciniak（业主（FHU DAMIX，CEIDG 个体）（第 93 批 官方登记核实 2026-10-28）） 〔https://www.damixsat.pl/webpage/o-firmie.html〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 damixsat.pl，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | FHU DAMIX Damian Marciniak（CEIDG 个体；NIP 6981620419 · REGON 386854875；旧登记 NIP 6981560781） |
+| 成立 | 2006（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Balcera 40, 64-000 Kościan |
+| 人数 | 微型（1–3 人） |
+| 其他 | 官网 damixsat.pl，语言 ?，快照状态 http_error；角色判定来源：待核；第 93 批：个体 SAT / RTV 网店、交换机只是配件、经销 Spacetronik（SB-092）配件 → 不再投入（不动）；Spacetronik 做成 OEM 后此类店自动跟着卖（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：卫星 / 电视 / 网络产品网店（波兰）
 - **触达通道（公开）**：role: 卫星/网络产品网店（波兰）；region: 波兰；contact: damix@damixsat.pl、serwis@damixsat.pl
@@ -201,7 +219,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | damix@damixsat.pl / serwis@damixsat.pl | 用户表原值 | Clients/ 表 |
+| Damian Marciniak | 业主（FHU DAMIX，CEIDG 个体）（第 93 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.damixsat.pl/webpage/o-firmie.html |
 
 - **通道建议**：企业邮箱可直发
 
@@ -237,7 +255,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -254,7 +272,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -271,7 +289,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Damian,
 
 Some time ago you had a product mail from us - "16 Port Ethernet Switch" on 10 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the commercial and industrial switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP units from single units, CE/RoHS, EXW USD — which switch SKU sells most in your shop?
 

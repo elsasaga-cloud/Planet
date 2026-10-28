@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -92,6 +92,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 93 批（GB · Companies House officers 页（07964960）：3 officers / 2 resignations；页面含 Charges 标签，2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/07964960/officers）：**
+
+- 法定名 / 登记号：AVESTA (MANCHESTER) LTD（07964960；HiLook 授权分销） · 07964960 · 状态 **Active** · 成立 2012-02-24 · Private limited company
+- 行业码 / 经营范围：安防产品分销（HiLook UK 授权分销；64 Waterloo Road, Manchester）
+- 注册地址：64 Waterloo Road, Manchester（研究档）；董事通讯地址 6 Hasper Avenue, Manchester M20 1AX
+- 规模档：微型（1–9 人）
+- 账目：未取；未取
+- 高管：Javid Aria — Director（1982-09 生，英国籍，2013-11-11 起在任）= 老板
+- 高管：Farima Aria — Director（阿富汗籍，2012-02-24 → 2013-12-12 辞任；家族）
+- 控制人 / 股东：未取
+- 抵押 / 诉讼 / 担保：存在（Charges 标签）
+- **这意味着什么：**
+  - **一人公司（Javid Aria）、HiLook（海康子品牌）授权分销** → 相机线是海康的，PoE 交换机可换 → 分销 20% 线：8/16 口 PoE 一页纸
+  - 有 charges（抵押）→ 现金紧、看价格；T/T 50/50 坚持
+  - B 维持、年度复核
+- 备注：无需再查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -140,6 +157,7 @@ updated: 2026-10-27
   > Avesta (Manchester) LTD is a wholesale supplier of security equipment based in Manchester … 64 Waterloo Road, Manchester, United Kingdom +44 333 344 0789 +44 7413 040743 sales@avestatek.co.uk
   > 来源：https://www.facebook.com/AvestaManchesterLTD/（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +44 7455 243224〔用户 Clients 表〕
+- **KP**：Javid Aria（Director（2013-11-11 起；1982-09 生；英国籍；Companies House 07964960；唯一在任）= 老板 = 联系人（第 93 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/07964960/officers〕
 - **调研后定级**：B（原自动 A）——英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。
 - 备注：重启用 WhatsApp/电话（有手机号），直接给 2 光 24 电非管理 PoE 的 MOQ 1、OEM 30% 价与交期。
 
@@ -147,9 +165,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Avesta (Manchester) Ltd（Companies House 07964960） |
-| 总部/地址 | 64 Waterloo Road, Manchester, UK（+44 333 344 0789 / +44 7413 040743；sales@avestatek.co.uk） |
-| 其他 | HiLook UK Authorised Distributor；Facebook 7 评 66% 推荐 |
+| 法定名称 | AVESTA (MANCHESTER) LTD（Companies House 07964960） |
+| 成立 | 2012-02-24（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 64 Waterloo Road, Manchester |
+| 人数 | 微型（1–9 人） |
+| 其他 | HiLook UK Authorised Distributor；Facebook 7 评 66% 推荐；第 93 批：一人公司、HiLook（海康子品牌）授权分销、有 charges（抵押）→ 分销 20% 8/16 口 PoE 一页纸；T/T 50/50 坚持（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Hikvision/HiLook CCTV 批发与网店；PoE 交换机、线缆、支架等配件（含自有编码 HA- 白牌）
 
@@ -249,6 +269,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Javid Aria | Director（2013-11-11 起；1982-09 生；英国籍；Companies House 07964960；唯一在任）= 老板 = 联系人（第 93 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/07964960/officers |
 | Hamid Aria | — | hamid@avestatek.co.uk / sales@avestatek.co.uk / +447455243224 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -344,12 +365,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

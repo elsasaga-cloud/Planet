@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -93,6 +93,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 93 批（GB · securitytec.co.uk/about-us 页脚（Company Number 05585047）+ Companies House officers 页（05585047）；同名陷阱 SECURITYTEC LTD 10186386（Manchester，2017-02 注销），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/05585047/officers）：**
+
+- 法定名 / 登记号：SECURITYTEC LIMITED（securitytec.co.uk；Coulsdon, Surrey） · 05585047 · 状态 **Active** · 成立 2005-10-06 · Private limited company
+- 行业码 / 经营范围：80200 安防系统服务（Hikvision 授权批发 HIK00006690；CCTV / 门禁 / 对讲 / 报警 + 自有标 PoE 交换机网店）
+- 注册地址：Units 2 & 3 Redlands Centre, Redlands, Ullswater Industrial Estate, Coulsdon CR5 2HT（020 8660 5888）
+- 规模档：微型（0–9 人，Kompass）
+- 账目：有 charges 页（抵押 / 贷款记录存在，未展开）；未取
+- 高管：Graham David Smith — Director（1959-09 生，2005-10-06 起）= 研究档 KP graham@securitytec.co.uk = 老板
+- 高管：Katie Ann Smith — Secretary（2005-12-01 起；家族）
+- 控制人 / 股东：未取（officers 页未含 PSC；两 Smith 大概率 100%）
+- 抵押 / 诉讼 / 担保：存在（页面有 Charges 标签）
+- **这意味着什么：**
+  - **夫妻店 20 年、老板 Graham Smith 本人 = 研究档 KP**；自有标 PoE 交换机已在网店（NTP3-GSW0802S）→ **OEM 30%：8/16 口 PoE 贴 Securitytec 标**替换现款
+  - Hikvision 授权批发 → 相机线不碰；只谈交换机
+  - GB 复盘：accounts_due 下轮补（overview 页）
+- 备注：第 93 批 GB 首户；PSC / accounts 下轮一次补齐。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - 15 £ ← 「95 Add to Cart Ruijie-Reyee, 15 watt, 52v Gigabit PoE+ injector SKU: RG-POE-AF15 £16」（https://www.securitytec.co.uk/our-products/networking-products/network-switches.html）
@@ -147,7 +164,7 @@ updated: 2026-10-27
 - **【名录】地址与联系人**
   > Mr Graham Smith Unit 2 Redlands Centre Redlands Coulsdon Surrey Croydon CR5 2HT … WE ARE A PROUD HIKVISION DISTRIBUTOR Securitytec Ltd are a UK based Hikvision Authorised Wholesaler
   > 来源：https://www.construction.co.uk/c/633203/securitytec（抓取 2026-10-21）
-- **KP**：Graham Smith（Director）graham@securitytec.co.uk +44 20 8660 5888〔https://www.securitytec.co.uk/contact〕
+- **KP**：Graham David Smith（Director（2005-10-06 起；1959-09 生；Companies House 05585047；身份已核验）= **老板 = 采购 = 联系人**（Secretary Katie Ann Smith = 家族）（第 93 批 官方登记核实 2026-10-28））graham@securitytec.co.uk +44 20 8660 5888〔https://www.securitytec.co.uk/contact〕
 - **KP**：Graham Smith（联系人（construction.co.uk 公司名录公开））—（未公开） —〔https://www.construction.co.uk/c/633203/securitytec〕
 - **调研后定级**：B（原自动 A）——3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。
 
@@ -155,9 +172,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Securitytec Ltd |
-| 总部/地址 | Unit 2 Redlands Centre, Redlands, Coulsdon, Surrey CR5 2HT（M25 J7 内 10 分钟） |
-| 其他 | 英国 Hikvision 授权批发商（trade counter + DPD 次日达）；价格匹配 Hikvision / Pyronix / EZVIZ / HiLook；网店在售交换机：自有标 **NTP3-GSW0802S-MTP150**（8 GE 管理 PoE + 2 SFP，135W，描述残留「UTP3-」= Utepo 贴牌）、Ruijie-Reyee（RG-ES106F-P、RG-ES110FG-P、PoE 注入器 £16–17）、Hikvision DS-3E1105P-EI / DS-3E1106HP-EI、HiLook NS-0109P-60(B) £44；NVR 清仓 Uniview NVR301-08L-P8 £79 |
+| 法定名称 | SECURITYTEC LIMITED（Companies House 05585047；同名陷阱 SECURITYTEC LTD 10186386 Manchester 已注销） |
+| 成立 | 2005-10-06（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Units 2 & 3 Redlands Centre, Redlands, Ullswater Industrial Estate, Coulsdon CR5 2HT |
+| 人数 | 微型（0–9 人） |
+| 其他 | 英国 Hikvision 授权批发商（trade counter + DPD 次日达）；价格匹配 Hikvision / Pyronix / EZVIZ / HiLook；网店在售交换机：自有标 **NTP3-GSW0802S-MTP150**（8 GE 管理 PoE + 2 SFP，135W，描述残留「UTP3-」= Utepo 贴牌）、Ruijie-Reyee（RG-ES106F-P、RG-ES110FG-P、PoE 注入器 £16–17）、Hikvision DS-3E1105P-EI / DS-3E1106HP-EI、HiLook NS-0109P-60(B) £44；NVR 清仓 Uniview NVR301-08L-P8 £79；第 93 批：夫妻店 20 年、Hikvision 授权批发、网店已有自有标 PoE 交换机 → OEM 30%：8/16 口 PoE 贴 Securitytec 标替换现款；有 charges 记录（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Hikvision / HiLook / Pyronix / EZVIZ 安防批发（安装商客户）；网络交换与 PoE 配件（Ruijie-Reyee、自有标 NTP3-）；门禁 / 对讲 / 报警
 
@@ -266,7 +285,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Graham Smith | Director | graham@securitytec.co.uk / +44 20 8660 5888 | 调研核实（公开页） | https://www.securitytec.co.uk/contact |
+| Graham David Smith | Director（2005-10-06 起；1959-09 生；Companies House 05585047；身份已核验）= **老板 = 采购 = 联系人**（Secretary Katie Ann Smith = 家族）（第 93 批 官方登记核实 2026-10-28） | graham@securitytec.co.uk / +44 20 8660 5888 | 调研核实（公开页） | https://www.securitytec.co.uk/contact |
 | Graham Smith | 联系人（construction.co.uk 公司名录公开） | —（未公开） / — | 调研核实（公开页） | https://www.construction.co.uk/c/633203/securitytec |
 | Graham Smith Director | — | graham@securitytec.co.uk / +03339909191 | 用户表原值 | Clients/ 表 |
 
@@ -361,12 +380,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 78）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 78）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

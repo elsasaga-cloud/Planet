@@ -88,6 +88,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 93 批（PL · 1 次检索：rejestr.io / krs-pobierz / imsig（KRS 0000690689；NIP 9662114233；REGON 368007675；登记 2017-08-11；资本 5,000 zł；PKD 26.40.Z 消费电子生产；受益人 Marek Ziniewicz 4/5 股 + Dominika Talarczyk 1/5；最近 KRS 变更 2026-03-16 RDF）+ zintronic.pl 规则页（biuro@zintronic.pl；85 677 70 55），2026-10-28 查；https://rejestr.io/krs/690689/zintronic）：**
+
+- 法定名 / 登记号：Zintronic Sp. z o.o.（zintronic.pl；KRS 0000690689；Białystok）— 自有品牌相机 · KRS 0000690689 / NIP 9662114233 / REGON 368007675 · 状态 **Aktywna（2025 年报 RDF 2026-03）** · 成立 2017-08-11 · Sp. z o.o.（资本 5,000 zł）
+- 行业码 / 经营范围：26.40.Z 消费电子生产（自有品牌 Zintronic 相机 / 录像机 / 套装；网店）
+- 注册地址：ul. Karola Modzelewskiego 2, 15-535 Białystok
+- 规模档：微型–小型（估 5–15 人）
+- 账目：RDF 已提交（金额未读）；2026-07
+- 高管：Marek Ziniewicz — Prezes Zarządu / 80% 股东 = 老板
+- 高管：Dominika Talarczyk — 20% 股东
+- 控制人 / 股东：Marek Ziniewicz 80% / Dominika Talarczyk 20%
+- **这意味着什么：**
+  - **自有品牌（PKD 生产类）+ 现供 Hasivo（深圳）PoE 交换机** → **OEM 30%：Zintronic 标 PoE 交换机一对一替代 Hasivo**（研究档「商业 PoE hasivo 的」）
+  - 老板 Marek Ziniewicz 80% → 一人拍板；写 biuro@ 点名 Prezes
+  - 资本 5,000 zł 微型 → MOQ 1 箱、T/T 预付；PL 复盘 7 月
+- 备注：建议：PL 第二 OEM 候选（Spacetronik 之后）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,14 +131,18 @@ updated: 2026-10-28
 - **【用户表】商业 PoE Hasivo**
   > 商业PoE hasivo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Marek Ziniewicz（Prezes Zarządu / 80% 股东（KRS 0000690689；Dominika Talarczyk 20%）= 老板 = 联系人（biuro@zintronic.pl 点名）（第 93 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/690689/zintronic〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 zintronic.pl，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Zintronic Sp. z o.o.（KRS 0000690689 · NIP 9662114233 · REGON 368007675；资本 5,000 zł；PKD 26.40.Z 消费电子生产） |
+| 成立 | 2017-08-11（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Karola Modzelewskiego 2, 15-535 Białystok |
+| 人数 | 微型–小型（估 5–15 人） |
+| 其他 | 官网 zintronic.pl，语言 ?，快照状态 http_error；角色判定来源：待核；第 93 批：自有品牌 Zintronic（PKD 生产类）+ 现供 Hasivo（深圳）→ OEM 30%：Zintronic 标 PoE 一对一替代 Hasivo；PL 第二 OEM 候选（Spacetronik 之后）；MOQ 1 箱、T/T 预付（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 网店 / 品牌（波兰）
 - **触达通道（公开）**：role: CCTV 网店/品牌（波兰，PoE 现 Hasivo）；region: 波兰；contact: biuro@zintronic.pl
@@ -188,7 +208,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | biuro@zintronic.pl | 用户表原值 | Clients/ 表 |
+| Marek Ziniewicz | Prezes Zarządu / 80% 股东（KRS 0000690689；Dominika Talarczyk 20%）= 老板 = 联系人（biuro@zintronic.pl 点名）（第 93 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejestr.io/krs/690689/zintronic |
 
 - **通道建议**：企业邮箱可直发
 
@@ -256,7 +276,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Marek,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches you sell with Zintronic camera kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE port count do your customers buy most?
 

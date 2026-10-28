@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 93 批（DE · 1 次检索：firmenwissen / Creditreform（Rechtsform Gewerbebetrieb，1 Inhaber，Außenhandel / Import，WZ 47；Im Hagen 3, 33790 Halle）+ aihitdata（VAT DE814065254；CEO Mathias Gottensträter）+ XING（Unternehmer VoIP Distribution；MG-MediaStudio GF）+ 官网 B2B 门槛「Gewerbeschein oder Handelsregister notwendig」，2026-10-28 查；https://www.firmenwissen.de/az/firmeneintrag/33790/4010155801/MATHIAS_GOTTENSTRAETER_VOIPDISTRI_COM.html）：**
+
+- 法定名 / 登记号：Mathias Gottensträter VoIPDistri.com（voipdistri.com；Halle (Westf.)）— 个体工商 · 无 HRB（个体工商 Gewerbebetrieb）；USt-IdNr. DE814065254 · 状态 **Aktiv（官网 / 电商在线，2020 起 Kleinanzeigen Pro）** · 成立 ≈2003–2010（VoIPphones.de 编辑 2003–2010 后创业） · Einzelunternehmen（个体）
+- 行业码 / 经营范围：VoIP / 网络产品增值分销（B2B 门槛）+ 工业通信（Teltonika、M12 交换机）；进口
+- 注册地址：Im Hagen 3, 33790 Halle (Westfalen)（+49 5201 730030）
+- 规模档：微型（1 人 + 兼职）
+- 账目：—（个体无公示）；—
+- 高管：Mathias Gottensträter — Inhaber / CEO（研究档 KP communication@voipdistri.com）= 老板
+- **这意味着什么：**
+  - **一人 VoIP 分销、自营进口（Creditreform 标 Außenhandel/Import）** → 有进口经验、决策快 → 分销 20% 线：工业 M12 / DIN 轨 PoE（研究档「Elink 工业交换机、M12」）作第二货源
+  - 个体 → 量小、信用线短 → T/T 预付坚持
+  - DE 复盘 3 月：看域名与 Kleinanzeigen 是否仍活跃
+- 备注：无 HRB 可查，底数到此为止。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,7 +140,7 @@ updated: 2026-10-28
 - **【用户表】在采 E-link 工业交换机；卖 Teltonika；问 I/O 模块、分销商；7 次推送 0 回复**
   > 买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mathias Gottensträter（CEO / Owner）communication@voipdistri.com +49 5201 730030〔用户 Clients 表 + Impressum〕
+- **KP**：Mathias Gottensträter（Inhaber / CEO（个体工商 Gewerbebetrieb；Creditreform：1 Inhaber、Außenhandel / Import）= 老板 = 联系人（第 93 批 官方登记核实 2026-10-28））communication@voipdistri.com +49 5201 730030〔用户 Clients 表 + Impressum〕
 - **调研后定级**：B（原自动 A）——画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。
 - 备注：重启角度：'E-link 同类 DIN 工业 PoE 的补充 SKU + Teltonika 路由配套 PoE 供电'，P1 STI-288DGGPM（分销 20%）；一次单问邮件 + 电话。Impressum 邮箱 communication@voip.world 与用户记录 communication@voipdistri.com 同主体。
 
@@ -134,10 +148,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | VoIPDistri.com – Voice over IP Distribution（Inh. Mathias Gottensträter） |
-| 成立 | 2003 |
-| 总部/地址 | Halle (Westfalen), Germany（+49 5201 730030） |
-| 其他 | 网店 voip.world / shop.voipdistri.com；Teltonika/Yealink/Grandstream 等官方分销；已售 E-link 工业交换机 |
+| 法定名称 | Mathias Gottensträter VoIPDistri.com（Einzelunternehmen；无 HRB；USt-IdNr. DE814065254） |
+| 成立 | ≈2003–2010（VoIPphones.de 编辑后创业）（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Im Hagen 3, 33790 Halle (Westfalen) |
+| 人数 | 微型（1 人 + 兼职） |
+| 其他 | 网店 voip.world / shop.voipdistri.com；Teltonika/Yealink/Grandstream 等官方分销；已售 E-link 工业交换机；第 93 批：一人 VoIP 增值分销、自营进口 → 分销 20%：工业 M12 / DIN 轨 PoE 作第二货源；T/T 预付坚持（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：VoIP 话机/系统网店分销（Akuvox、Yealink、Grandstream、Fanvil 等）；工业网络：Teltonika 路由、E-link 工业交换机；面向 IT 经销商/集成商/工业客户/公共部门
 - **触达通道（公开）**：网店: https://voip.world/ · https://shop.voipdistri.com/；电话: +49 5201 730030（Impressum 公开）；邮箱（公开）: communication@voipdistri.com
@@ -222,7 +237,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mathias Gottensträter | CEO / Owner | communication@voipdistri.com / +49 5201 730030 | 调研核实（公开页） | 用户 Clients 表 + Impressum |
+| Mathias Gottensträter | Inhaber / CEO（个体工商 Gewerbebetrieb；Creditreform：1 Inhaber、Außenhandel / Import）= 老板 = 联系人（第 93 批 官方登记核实 2026-10-28） | communication@voipdistri.com / +49 5201 730030 | 调研核实（公开页） | 用户 Clients 表 + Impressum |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

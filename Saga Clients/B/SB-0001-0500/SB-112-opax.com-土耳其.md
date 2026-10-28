@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,6 +86,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 93 批（TR · 1 次检索：opax.com 用户协议页（法定全名「Opax Mühendislik Kamera Alarm ve Güvenlik Sistemleri … Dış Ticaret Pazarlama Limited Şirketi」/「OPAX GÜVENLİK SİSTEMLERİ DIŞ TİC. LTD. ŞTİ.」）+ 页脚「Opax İthalat Dış Ticaret Ltd. Şti. 2007-2022」+ YouTube 自述 2004 年创立（OPAX-W20 GSM/WiFi 报警）；**opax.pl = 波兰 Przytkowice 纸箱印刷厂 OPAX Sp. z o.o. Sp.k.（KRS 0000593709），Damian Brózda 是其董事会成员 → 与土耳其 Opax 无关**，2026-10-28 查；https://www.opax.com/kullanici/hesap.aspx）：**
+
+- 法定名 / 登记号：Opax Güvenlik Sistemleri Dış Tic. Ltd. Şti.（opax.com；İstanbul）— 研究档 KP damian@opax.pl 误归属 · Mersis / VKN 未取 · 状态 **Aktif（官网在线）** · 成立 2004（自述；页脚 2007 起） · Limited Şirket
+- 行业码 / 经营范围：报警系统自有品牌 OPAX（GPRS / GSM / WiFi 无线报警）+ 相机 / 安防进出口
+- 注册地址：İstanbul（街道地址未取；客服 0 444 9890）
+- 规模档：小型（估 10–30 人）
+- 账目：—；—
+- 高管：Aleksandar Radonic — satis@opax.com（研究档 KP，销售）
+- 高管：**Damian Brózda / damian@opax.pl — 误归属：波兰纸箱厂 OPAX 的董事，删除**
+- **这意味着什么：**
+  - **国别 TR 正确；研究档第一 KP 是波兰同名包装厂的人 → 误归属，改写 satis@opax.com**
+  - 自有品牌报警商（OPAX-W 系列）→ PoE 交换机只是配套（研究档「商业 PoE 用洪瑞的」）→ **OEM 30%：8/16 口 PoE 贴 OPAX 标**配报警 + 相机套装
+  - 老板姓名未公开 → 写 satış / satın alma；季度复核域名即可
+- 备注：kp 修正通过 patches/batch93_kp.py 落地（Damian Brózda 标 误归属）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,16 +151,19 @@ updated: 2026-10-27
 - **【用户表】商业 PoE 用的洪瑞的**
   > 商业POE 用的洪瑞的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Damian Brozda（）damian@opax.pl 〔用户表〕
-- **KP**：Aleksandar Radonic（）satis@opax.com 〔用户表〕
+- **KP**：Damian Brozda（**误归属**：opax.pl = 波兰 Przytkowice 纸箱印刷厂 OPAX Sp. z o.o. Sp.k.（KRS 0000593709）的董事 Damian Brózda，与土耳其 Opax 无关 → 不发（第 93 批 官方登记核实 2026-10-28））damian@opax.pl 〔用户表〕
+- **KP**：Aleksandar Radonic（Satış（销售；研究档）= 本户唯一有效收件人（第 93 批 官方登记核实 2026-10-28））satis@opax.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 opax.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Opax Güvenlik Sistemleri Dış Tic. Ltd. Şti.（全名「Opax Mühendislik Kamera Alarm ve Güvenlik Sistemleri … Dış Ticaret Pazarlama Limited Şirketi」；页脚 Opax İthalat Dış Ticaret Ltd. Şti.） |
+| 成立 | 2004（自述；页脚 2007 起）（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | İstanbul（街道地址未取） |
+| 人数 | 小型（估 10–30 人） |
+| 其他 | 官网 opax.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 93 批：自有品牌报警（OPAX-W 系列 GSM / WiFi）+ 相机进出口 → OEM 30%：PoE 交换机贴 OPAX 标配报警 + 相机套装；研究档首 KP damian@opax.pl 误归属已标（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：报警 / 无线火灾报警 / 摄像机与网络产品（自有品牌 OPAX）
 - **触达通道（公开）**：role: 报警/安防品牌商（土耳其/波兰，OPAX 标 PoE，现 HRUI）；region: 土耳其；contact: satis@opax.com、damian@opax.pl
@@ -234,8 +252,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Damian Brozda | — | damian@opax.pl | 调研核实（公开页） | 用户表 |
-| Aleksandar Radonic | — | satis@opax.com | 调研核实（公开页） | 用户表 |
+| Damian Brozda | **误归属**：opax.pl = 波兰 Przytkowice 纸箱印刷厂 OPAX Sp. z o.o. Sp.k.（KRS 0000593709）的董事 Damian Brózda，与土耳其 Opax 无关 → 不发（第 93 批 官方登记核实 2026-10-28） | damian@opax.pl | 调研核实（公开页） | 用户表 |
+| Aleksandar Radonic | Satış（销售；研究档）= 本户唯一有效收件人（第 93 批 官方登记核实 2026-10-28） | satis@opax.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -328,12 +346,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

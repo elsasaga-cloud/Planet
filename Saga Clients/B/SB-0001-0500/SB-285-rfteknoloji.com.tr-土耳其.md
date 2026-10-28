@@ -90,6 +90,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 93 批（TR · 1 次检索：rfteknoloji.com.tr kurumsal（2012 年成立；法定全名 + 发票地址 Tevfik Bey Mah. Şehit Adem Tamrak Sk. No:2/5 Sefaköy）+ perpaonline（Genel Müdür Raif Gündüz）+ 官网产品页（CalAmp 代表、3onedata 工业交换机、Wlink 路由）+ firmadan（0212 210 95 65），2026-10-28 查；https://www.rfteknoloji.com.tr/kurumsal）：**
+
+- 法定名 / 登记号：RF Teknoloji Makine ve Otomasyon San. Tic. Ltd. Şti.（rfteknoloji.com.tr；Sefaköy / Küçükçekmece） · Mersis / VKN 未取 · 状态 **Aktif（官网在线）** · 成立 2012 · Limited Şirket
+- 行业码 / 经营范围：无线数据通信（RF / GSM 数据调制解调器、CalAmp 代理）+ 工业以太网交换机分销（3onedata）
+- 注册地址：Tevfik Bey Mah. Şehit Adem Tamrak Sk. No:2/5, Sefaköy / Küçükçekmece / İstanbul 34295
+- 规模档：微型（估 3–10 人）
+- 账目：—；—
+- 高管：Raif Gündüz — Genel Müdür（Perpa 名录）
+- 高管：Orhan Özdemir — 官网内容负责人（职务未取）
+- **这意味着什么：**
+  - **工业无线 + 3onedata（深圳三旺）工业交换机分销** → 已有深圳工业货源，比价激烈 → 分销 20% 线：STI 工业 DIN 轨 PoE 作第二货源，一页纸即可
+  - GM Raif Gündüz = 老板 = 拍板；微型公司，量小
+  - 季度复核：看官网是否仍挂 3onedata；若换牌子即是窗口
+- 备注：同行分销（3onedata）但非制造商 → 不守界降级，B 维持。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -140,14 +155,18 @@ updated: 2026-10-28
 - **【用户表】工业交换机 3onedata 的**
   > 工业交换机 3旺的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Raif Gündüz（Genel Müdür（Perpa 名录）= 老板 = 拍板人（邮箱未公开 → info@rfteknoloji.com.tr 点名）（第 93 批 官方登记核实 2026-10-28）） 〔https://www.perpaonline.com/tr/firma.aspx?fid=2654〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 rfteknoloji.com.tr，语言 tr-tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | RF Teknoloji Makine ve Otomasyon San. Tic. Ltd. Şti. |
+| 成立 | 2012（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Tevfik Bey Mah. Şehit Adem Tamrak Sk. No:2/5, Sefaköy / Küçükçekmece / İstanbul |
+| 人数 | 微型（估 3–10 人） |
+| 其他 | 官网 rfteknoloji.com.tr，语言 tr-tr，快照状态 ok；角色判定来源：官网文案；第 93 批：工业无线（CalAmp 代理）+ 3onedata 工业交换机分销 → 已有深圳工业货源 → 分销 20%：STI DIN 轨 PoE 作第二货源一页纸（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：RF 数据电台 / 工业蜂窝路由（CalAmp）；工业交换机分销
 - **触达通道（公开）**：role: 工业无线与数传方案分销（在售 3onedata 工业交换机）；region: 土耳其；contact: info@rfteknoloji.com.tr
@@ -232,7 +251,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@rfteknoloji.com.tr | 用户表原值 | Clients/ 表 |
+| Raif Gündüz | Genel Müdür（Perpa 名录）= 老板 = 拍板人（邮箱未公开 → info@rfteknoloji.com.tr 点名）（第 93 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.perpaonline.com/tr/firma.aspx?fid=2654 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -301,7 +320,7 @@ updated: 2026-10-28
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Raif,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the industrial switch category next to your RF modems and 4G routers, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
 

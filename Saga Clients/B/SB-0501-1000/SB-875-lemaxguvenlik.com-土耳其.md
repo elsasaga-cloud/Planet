@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,6 +86,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 93 批（TR · 1 次检索：lemaxguvenlik.com 产品页（法定全名 Ltd. Şti.）+ hakkımızda（2010 起；另页写 2007 / 2008 / 2012，自述不一致）+ n11 / PttAVM 店铺信息（个体「Semih Sengir / Proses Bilgisayar」为电商主体）+ Yandex（Kartal Üsküdar Cad. 127C；0216 473 72 77），2026-10-28 查；https://www.lemaxguvenlik.com/sayfa/hakkimizda/1）：**
+
+- 法定名 / 登记号：Lemax Güvenlik ve Bilişim Sistemleri Toptan Satış Paz. İç ve Dış Tic. Ltd. Şti.（lemaxguvenlik.com；Kartal / İstanbul） · Mersis / VKN 未取（电商主体为个体工商户，个人税号不记） · 状态 **Aktif（官网 2026-05 博客更新）** · 成立 2007–2012（自述不一致） · Limited Şirket + 个体（Semih Sengir）双主体
+- 行业码 / 经营范围：安防相机批发 / 零售（网店 + 门店）；自有标 Lemax PRO HD 套装；太阳能小系统
+- 注册地址：Üsküdar Cad. 127C, Kartal / İstanbul
+- 规模档：微型（1–5 人）
+- 账目：—；—
+- 高管：Semih Sengir — 电商店铺登记人（n11 / PttAVM）= 老板
+- **这意味着什么：**
+  - **微型网店、个体 + Ltd. 双主体、相机套装贴 Lemax 标** → 量极小、价格敏感（研究档「现供新桥」）→ 分销 20% 线一页纸，不再投入
+  - 老板 Semih Sengir 直联即可；B 维持，年度复核
+  - 自述成立年份四个版本 → 以 Ltd. 法定名为准，不写年份给客户
+- 备注：个人税号 / MERSİS（个体）属个人数据，不入库。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,14 +147,18 @@ updated: 2026-10-27
 - **【用户表】switch；新桥的**
   > switch；新桥的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Semih Sengir（电商店铺登记人（n11 / PttAVM：个体 Proses Bilgisayar）= 老板（第 93 批 官方登记核实 2026-10-28）） 〔https://www.n11.com/magaza/lemaxguvenlik〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 lemaxguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Lemax Güvenlik ve Bilişim Sistemleri Toptan Satış Paz. İç ve Dış Tic. Ltd. Şti.（+ 个体 Semih Sengir 双主体） |
+| 成立 | 2007–2012（自述四个版本）（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Üsküdar Cad. 127C, Kartal / İstanbul |
+| 人数 | 微型（1–5 人） |
+| 其他 | 官网 lemaxguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 93 批：微型网店、相机套装贴 Lemax 标、价格敏感 → 分销 20% 一页纸后不再投入（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防摄像机套装网店
 - **触达通道（公开）**：role: CCTV 套装网店（土耳其，PoE 现新桥）；region: 土耳其；contact: satis@lemaxguvenlik.com
@@ -225,7 +243,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | satis@lemaxguvenlik.com | 用户表原值 | Clients/ 表 |
+| Semih Sengir | 电商店铺登记人（n11 / PttAVM：个体 Proses Bilgisayar）= 老板（第 93 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.n11.com/magaza/lemaxguvenlik |
 
 - **通道建议**：企业邮箱可直发
 
@@ -293,7 +311,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Semih,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches in your 4/6/8-camera 4K kits, we supply budget 4/8-port unmanaged PoE units and a Marvell-based 8-PoE + 2 SFP L2+ model from small lots, CE/RoHS, EXW USD — which kit size sells most?
 
@@ -318,12 +336,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

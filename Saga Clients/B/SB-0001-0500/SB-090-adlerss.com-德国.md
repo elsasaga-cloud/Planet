@@ -77,6 +77,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 93 批（DE · 1 次检索：adlerss.com/contact（Adler ELREHA GmbH, Schwetzinger Str. 103, 68766 Hockenheim；美国 Adler Systems LLC, St Petersburg FL）+ about（自研 IP 相机，美 / 德 / 台 / 中设施）+ aeconline（2012 年并入约旦 Elreha 家族，联系人 Hashim Sholy，电话 +962）+ LinkedIn（2013 / 11–50 人）+ signalhire（Zain Sana Ullah = Operations Engineer）；HRB 号 1 次未取，2026-10-28 查；https://adlerss.com/contact/）：**
+
+- 法定名 / 登记号：Adler ELREHA GmbH / Adler Security Systems（adlerss.com；Hockenheim）— 约旦 Elreha 集团 · HRB 未取（Mannheim 法院；下轮 Northdata 直链「Adler ELREHA GmbH, Hockenheim」） · 状态 **Aktiv（官网 2026 在线）** · 成立 2012 / 2013 · GmbH（约旦 Elreha 集团子公司 + 美国 LLC）
+- 行业码 / 经营范围：IP / 热成像相机制造（自有品牌 Adler）；边境 / 市政 / 太阳能独立监控系统
+- 注册地址：Schwetzinger Str. 103, 68766 Hockenheim
+- 规模档：小型（11–50 人）
+- 账目：未取；—
+- 高管：Hashim Sholy — 集团联系人（Elreha，约旦）
+- 高管：Zain (Sana) Ullah — Operations Engineer（研究档 KP zain@adlerss.com）
+- **这意味着什么：**
+  - **相机制造商（自有品牌）→ 交换机是系统部件**（研究档「ONV 工业 FS」）→ OEM 30% 线：工业 PoE / 光口交换机贴 Adler 标配太阳能独立站
+  - 边境 / 政府项目为主 → 项目制、量不稳；军用 / 边防整机不碰（守界），只供通用交换机
+  - KP 是运营工程师（非采购）→ 技术切入：宽温、PoE 预算、SFP 兼容；DE 复盘 3 月补 HRB
+- 备注：HRB 1 次未取 → 下轮 Northdata 直链一次。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,15 +129,18 @@ updated: 2026-10-28
 - **【用户表】ONV 的工业 FS**
   > ONV的工业FS / 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Zain Ullah（）zain@adlerss.com 〔用户表〕
+- **KP**：Zain (Sana) Ullah（Operations Engineer（signalhire）= 技术口（非采购）→ 技术切入：宽温 / PoE 预算 / SFP 兼容（第 93 批 官方登记核实 2026-10-28））zain@adlerss.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 adlerss.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Adler ELREHA GmbH t/a Adler Security Systems（Hockenheim；HRB 1 次未取 → 下轮 Northdata 直链；约旦 Elreha 集团子公司 + 美国 Adler Systems LLC, St Petersburg FL） |
+| 成立 | 2012 / 2013（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Schwetzinger Str. 103, 68766 Hockenheim |
+| 人数 | 小型（11–50 人） |
+| 其他 | 官网 adlerss.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 93 批：自有品牌 IP / 热成像相机制造商 → 交换机是系统部件 → OEM 30%：工业 PoE / 光口交换机贴 Adler 标配太阳能独立站；边境 / 政府项目制 → 量不稳；军用整机不碰（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核，德国）
 - **触达通道（公开）**：role: 安防/网络安装商（德国，工业 FS 现 ONV）；region: 德国；contact: info@adlerss.com、zain@adlerss.com
@@ -203,7 +221,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Zain Ullah | — | zain@adlerss.com | 调研核实（公开页） | 用户表 |
+| Zain (Sana) Ullah | Operations Engineer（signalhire）= 技术口（非采购）→ 技术切入：宽温 / PoE 预算 / SFP 兼容（第 93 批 官方登记核实 2026-10-28） | zain@adlerss.com | 调研核实（公开页） | 用户表 |
+| Zain Ullah | — | info@adlerss.com / zain@adlerss.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 

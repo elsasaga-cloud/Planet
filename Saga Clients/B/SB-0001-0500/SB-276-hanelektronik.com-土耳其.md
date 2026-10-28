@@ -82,6 +82,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 93 批（TR · 1 次检索：EMIS（法定全名；成立 2003-06-25；20 人 2026；Mehmet Akif Mah. 1904 Sk. No:15-15/A Küçükçekmece 34307）+ hanelektronik.com/iletisim（HAN ELEKTRONİK A.Ş. 地址）+ bayimiz-olun（「Han Grup 40 人、百万美元营收」）+ RocketReach（Hakan Kasap G.Müdür；Fadime Maden Purchasing Manager）+ LinkedIn（2000 / 51–200；Kerim Yeşilyurt 董事会成员），2026-10-28 查；https://www.emis.com/php/company-profile/TR/Han_Elektronik_Bilgisayar_Ve_Guvenlik_Sistemleri_Sanayi_Ticaret_AS_en_3355230.html）：**
+
+- 法定名 / 登记号：Han Elektronik Bilgisayar ve Güvenlik Sistemleri San. Tic. A.Ş.（hanelektronik.com；Küçükçekmece / İstanbul） · Mersis / VKN 未取 · 状态 **Aktif（官网 / LinkedIn 活跃；444 1 426）** · 成立 2003-06-25（EMIS；LinkedIn 记 2000） · Anonim Şirket
+- 行业码 / 经营范围：安防批发 + 自有品牌（相机 / 录像机 / 交换机 / 无线 / 火灾报警 / IoT）；经销商网络（bayi）
+- 注册地址：Mehmet Akif Mah. Bahariye Cad. (Basın Ekspres Yolu) 1904 Sk. No:15/A, Küçükçekmece / İstanbul 34307
+- 规模档：小型（20–52 人；集团自述 40 人）
+- 账目：—；—
+- 高管：Hakan Kasap — Genel Müdür
+- 高管：Fadime Maden — Purchasing Manager（采购经理）= 对口
+- 高管：Kerim Yeşilyurt — Yönetim Kurulu Üyesi（董事会成员）
+- **这意味着什么：**
+  - **A.Ş.、40 人、自有品牌含交换机、有专职采购经理（Fadime Maden）** → **OEM 30% 首选：Han 标 PoE 交换机**（研究档「商业 PoE 看着是 hisource 的」= 现为深圳同类货 → 一对一替代）
+  - 本批 TR 最厚一户；写 Fadime Maden（采购）抄 Hakan Kasap（GM）；邮箱未公开 → 先 info@ 点名收件人，不编邮箱
+  - 经销商网络（bayi）= 他们自己是分销 → 不要再把他们的 bayi 当客户（Q-33 不碰）
+- 备注：建议：若回信即可列为 A 候选（Simon 定）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,14 +148,18 @@ updated: 2026-10-28
 - **【用户表】商业 PoE 看着有 HiSource 的，多种外壳**
   > 商业POE 看着有hisource的 MC 工业FS VC 无源产品 很多种外壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Fadime Maden（Purchasing Manager（采购经理；RocketReach）= **对口收件人**（邮箱未公开 → info@ 点名；GM Hakan Kasap 抄送；董事会成员 Kerim Yeşilyurt）（第 93 批 官方登记核实 2026-10-28）） 〔https://rocketreach.co/han-elektronik-profile_b40780acfc251b05〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 hanelektronik.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Han Elektronik Bilgisayar ve Güvenlik Sistemleri San. Tic. A.Ş.（EMIS） |
+| 成立 | 2003-06-25（EMIS；LinkedIn 2000）（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Mehmet Akif Mah. Bahariye Cad. 1904 Sk. No:15/A, Küçükçekmece / İstanbul 34307 |
+| 人数 | 20–52 人（集团自述 Han Grup 40 人） |
+| 其他 | 官网 hanelektronik.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 93 批：A.Ş.、自有品牌含交换机、专职采购经理 → OEM 30% 首选：Han 标 PoE 一对一替代现深圳货（研究档「hisource」）；bayi 网络 = 他们自己是分销（Q-33 其 bayi 不碰）；回信即 A 候选（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防方案（摄像机 / NVR / 太阳能 Wi-Fi 摄像机）；自有标 PoE 交换机（AI / VP 系列）
 
@@ -238,7 +258,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@hanelektronik.com | 用户表原值 | Clients/ 表 |
+| Fadime Maden | Purchasing Manager（采购经理；RocketReach）= **对口收件人**（邮箱未公开 → info@ 点名；GM Hakan Kasap 抄送；董事会成员 Kerim Yeşilyurt）（第 93 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rocketreach.co/han-elektronik-profile_b40780acfc251b05 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -306,7 +326,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Fadime,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the AI-series PoE switches under your label (AI8082M / AI8024 / VP-16PG), we can supply the same layouts — 8 FE PoE + 2 GE, 24 FE PoE + 2 GE + SFP, 16 GE PoE + 2 SFP — plus a Marvell-based gigabit L2+ step-up model from small lots, neutral housing of your choice; which SKU do you reorder most often?
 

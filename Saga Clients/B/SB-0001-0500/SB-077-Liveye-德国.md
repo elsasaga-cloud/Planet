@@ -85,6 +85,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 93 批（DE · 1 次检索：liveye.com Impressum（HRB 44506 Amtsgericht Wittlich；USt DE321392908；GF Carsten Simons）+ online-handelsregister（2021-03-12 Simons 单独代表权）+ Creditreform（2025-09-25 新任 GF Markus Diederichs；关联 LivEye Beteiligungs GmbH HRB 46290）+ GIT-Sicherheit（≈95 人、5 地点 DACH + 波兰）+ Indeed（2018 创立；营收 €4.25–21.5M 区间），2026-10-28 查；https://www.liveye.uk/impressum-en/）：**
+
+- 法定名 / 登记号：LivEye GmbH（HRB 44506 Wittlich；Föhren）— 移动视频监控塔制造商 · HRB 44506（Amtsgericht Wittlich）；USt-IdNr. DE321392908；D-U-N-S 315185493 · 状态 **Aktiv** · 成立 2018（Indeed；HRB 登记年份未取） · GmbH（控股 LivEye Beteiligungs GmbH HRB 46290）
+- 行业码 / 经营范围：移动 / 临时视频监控塔自研自产（NSTR 订阅模式）；安防服务
+- 注册地址：Europa-Allee 56b, 54343 Föhren（+49 6502 4034722）
+- 规模档：中型（≈95 人；营收 €4–21M 区间）
+- 账目：Bundesanzeiger 未取；—
+- 高管：Carsten Simons — Geschäftsführer（创始人型 GF；研究档 KP info@）
+- 高管：Markus Diederichs — Geschäftsführer（**2025-09 起**；前 BDO Cyber Security；主推「自研 / 德国制造 / 主权」）
+- 高管：Marc Thurn — 曾任 GF（2022 Impressum，现已不列）
+- **这意味着什么：**
+  - **产品公司（监控塔）→ PoE 交换机是塔内部件** → OEM / 部件采购 30% 线：工业级小口数 PoE（宽温、DIN）配塔；量稳定但要样机验证（付费样品）
+  - **2025-09 新 GF 主打「Souveränität made in Germany / 摆脱全球供应链」** → 对中国部件更挑 → 卖点写长期供货 + 固件 + 3 年保修，不提产地
+  - DE 复盘 3 月：Bundesanzeiger 2025 账目 + 是否再换 GF
+- 备注：95 人 = 本批 DE 最大户；B 维持，等回信再升。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -135,8 +151,8 @@ updated: 2026-10-28
 - **【LinkedIn】规模**
   > LivEye … Größe: 51–200 Beschäftigte Hauptsitz: Föhren, Rheinland-Pfalz … Gegründet: 2018
   > 来源：https://de.linkedin.com/company/liveye-gmbh（抓取 2026-10-21）
-- **KP**：Carsten Simons（Geschäftsführer（行业媒体公开））info@liveye.com（公司公开） —〔https://git-sicherheit.de/de/business-partner/liveye-gmbh/〕
-- **KP**：Markus Diederichs（Geschäftsführer（2025-10 起；行业媒体公开））—（未公开） —〔https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung〕
+- **KP**：Carsten Simons（Geschäftsführer（2021-03 登记单独代表权；创始人型）= 老板（第 93 批 官方登记核实 2026-10-28））info@liveye.com（公司公开） —〔https://git-sicherheit.de/de/business-partner/liveye-gmbh/〕
+- **KP**：Markus Diederichs（Geschäftsführer（**2025-09 起**，与 Carsten Simons 共同；前 BDO Cyber Security；主推「自研 / 德国制造 / 主权」；HRB 44506 Wittlich）= 新拍板人（第 93 批 官方登记核实 2026-10-28））—（未公开） —〔https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung〕
 - **调研后定级**：B（原自动 A）——无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。
 - 备注：WA 季度触达。
 
@@ -144,10 +160,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | LivEye GmbH |
-| 成立 | 2018（品牌）/ 2019（GmbH） |
-| 总部/地址 | Europa-Allee 56b（另见 27），54343 Föhren, Germany（info@liveye.com）；生产基地 Badem（2024） |
-| 其他 | Nord Holding 持股 70%（2022-09）；ISO 14001；协会 BHE/BDSW/ASW/VDBUM；NSTR 订阅制长期安装 |
+| 法定名称 | LivEye GmbH（AG Wittlich HRB 44506；USt DE321392908；D-U-N-S 315185493；控股 LivEye Beteiligungs GmbH HRB 46290） |
+| 成立 | 2018（Indeed）（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Europa-Allee 56b, 54343 Föhren |
+| 人数 | ≈95 人、5 地点（DACH + 波兰）；营收 €4–21M 区间 |
+| 其他 | Nord Holding 持股 70%（2022-09）；ISO 14001；协会 BHE/BDSW/ASW/VDBUM；NSTR 订阅制长期安装；第 93 批：移动监控塔制造商 → PoE 交换机是塔内部件 → OEM / 部件 30%：工业小口数宽温 PoE（付费样机验证）；新 GF 主打「摆脱全球供应链」→ 卖点写长期供货 + 固件 + 3 年保修，不提产地（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：移动视频监控塔研发制造（PRO 2.0、PRO SOLAR、ONE+、LIGHT+、FALCON、DOCU）；24/7 自营监控中心与全服务（规划、技术、服务、监控）；长期固定安装订阅（NSTR）
 
@@ -249,8 +266,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Carsten Simons | Geschäftsführer（行业媒体公开） | info@liveye.com（公司公开） / — | 调研核实（公开页） | https://git-sicherheit.de/de/business-partner/liveye-gmbh/ |
-| Markus Diederichs | Geschäftsführer（2025-10 起；行业媒体公开） | —（未公开） / — | 调研核实（公开页） | https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung |
+| Carsten Simons | Geschäftsführer（2021-03 登记单独代表权；创始人型）= 老板（第 93 批 官方登记核实 2026-10-28） | info@liveye.com（公司公开） / — | 调研核实（公开页） | https://git-sicherheit.de/de/business-partner/liveye-gmbh/ |
+| Markus Diederichs | Geschäftsführer（**2025-09 起**，与 Carsten Simons 共同；前 BDO Cyber Security；主推「自研 / 德国制造 / 主权」；HRB 44506 Wittlich）= 新拍板人（第 93 批 官方登记核实 2026-10-28） | —（未公开） / — | 调研核实（公开页） | https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung |
 | Florian Hoffmann | — | f.hoffmann@liveye.com / +491735167073 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

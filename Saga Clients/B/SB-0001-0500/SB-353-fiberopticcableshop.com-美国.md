@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 93 批（US · 1 次检索：fiberopticcableshop.com 首页 + about（1976 年起、三次 INC 500、Richmond CA 地址、Sales@FiberMailbox.com）+ photonics.com 公司页（1976 / 15 人 / 15,000 sq ft / 私有）+ ZoomInfo（8 人；Gerry Schumacher、Paul Fletcher），2026-10-28 查；https://www.fiberopticcableshop.com/about-fiber-optic-cable-shop.html）：**
+
+- 法定名 / 登记号：Fiber Optic Cable Shop（fiberopticcableshop.com / FiberMailbox.com；Richmond CA） · 加州登记号未取（CA SoS 为 JS 页） · 状态 **Active（官网在售、2024-11 快照）** · 成立 1976（业务起点；法人类型未取） · 私有公司（dba Fiber Optic Cable Shop；法定名未取）
+- 行业码 / 经营范围：光纤跳线 / 配线 / MC / 光纤交换机制造 + 网店零售（SIC 33/335）
+- 注册地址：136 South Second Street, Richmond, CA 94804（800-777-6269 / 510-234-9090）
+- 规模档：微型–小型（8–15 人；营收 <$5M 第三方区间）
+- 账目：—；—
+- 高管：Mark W（研究档 KP，mark@fibermailbox.com）— 职务未取
+- 高管：Gerry Schumacher / Paul Fletcher — ZoomInfo 列为主要员工（职务未取）
+- **这意味着什么：**
+  - **50 年老店、自产光纤组件 + 自有标 MC / 机架 / 交换机**（研究档「14 槽机架 MC 自己的标」）→ **OEM 30%：MC + 机架式 MC 机箱 + 小口数光纤口交换机**贴他们的标；主品类 SFP / 光缆 Saga 不供，只做交换机 / MC 一条线
+  - 8–15 人、老板型公司 → 回信即拍板；写 mark@（研究档已有）抄 Sales@FiberMailbox.com
+  - 加州实体 → 发信窗口 Wed 08–10 PT；年度复核看官网是否仍更新
+- 备注：法定名 / 州登记号未取（CA SoS JS）；不再追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,15 +146,18 @@ updated: 2026-10-27
 - **【用户表】MC 14 机架 FS 自己的标 周边 SFP**
   > MC 14机架 FS 自己的标 周边产品 SFP
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mark W（）mark@fibermailbox.com 〔用户表〕
+- **KP**：Mark W（研究档 KP（职务未取；8–15 人老店，回信即拍板层）（第 93 批 官方登记核实 2026-10-28））mark@fibermailbox.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 fiberopticcableshop.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Fiber Optic Cable Shop（dba；Sales@FiberMailbox.com；加州法定名 / 登记号未取） |
+| 成立 | 1976（自述；三次 INC 500）（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 136 South Second Street, Richmond, CA 94804 |
+| 人数 | 8–15 人（ZoomInfo 8 / photonics 15；15,000 sq ft） |
+| 其他 | 官网 fiberopticcableshop.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 93 批：50 年老店、自产光纤组件 + 自有标 MC / 机架 / 交换机 → OEM 30% 只做 MC + 机架 MC 机箱 + 光口小交换机；主品类 SFP / 光缆不供（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤跳线 / 适配器 / MC / SFP 网店（自有标）
 
@@ -247,7 +265,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mark W | — | mark@fibermailbox.com | 调研核实（公开页） | 用户表 |
+| Mark W | 研究档 KP（职务未取；8–15 人老店，回信即拍板层）（第 93 批 官方登记核实 2026-10-28） | mark@fibermailbox.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -341,12 +359,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

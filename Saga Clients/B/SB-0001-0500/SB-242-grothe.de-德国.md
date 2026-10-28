@@ -79,6 +79,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 93 批（DE · 1 次检索：Northdata（HRB 6442 Siegburg；2002-04-23 登记；资本 €1.5M；LEI 529900VY9SISWY0OKP81；2 GF + 2 ppa）+ implisense（2001-08-27 成立；VAT DE813326876；70 人 2023；资产 €9.38M 2023）+ wer-zu-wem / DDW / protector（1892 Köln 创立，1998 迁 Hennef，2001 起属 Urmet；GF Andreas Rosen；70–71 人；营收 €13–21M），2026-10-28 查；https://www.northdata.com/Grothe%20GmbH,%20Hennef/Amtsgericht%20Siegburg%20HRB%206442）：**
+
+- 法定名 / 登记号：Grothe GmbH（HRB 6442 Siegburg；Hennef）— 意大利 Urmet 集团德国子公司 · HRB 6442（Amtsgericht Siegburg）；LEI 529900VY9SISWY0OKP81；USt-IdNr. DE813326876 · 状态 **Aktiv** · 成立 2001-08-27（GmbH；品牌 1892） · GmbH（意大利 Urmet S.p.A. 集团，€270–470M）
+- 行业码 / 经营范围：楼宇 / 安防技术制造与分销（门铃 / 对讲 / 2 线 IP / 报警 / CCTV）
+- 注册地址：Löhestr. 22, 53773 Hennef (Sieg)（02242-8890-0）
+- 规模档：中型（70 人；营收 €13–21M）
+- 账目：Bundesanzeiger：资产 €9.38M（2023）；9 份年报在档；—
+- 高管：Andreas Rosen — Geschäftsführer（**= 研究档 KP arosen@grothe.de**）
+- 高管：第二 GF + 2 名 ppa（姓名未取）
+- 控制人 / 股东：Urmet（意大利）100%
+- **这意味着什么：**
+  - **研究档 KP 就是 GF 本人（Andreas Rosen）** → 一封信直达拍板人；但 **Urmet 集团子公司 → CCTV / 网络件可能集团统采（意大利）** → 只能试 OEM 30%：Grothe 标 PoE 交换机配其 IP 对讲 / CCTV 线
+  - 130 年品牌、70 人、€1.5M 资本 → 稳定、付款好；量取决于集团是否放权
+  - DE 复盘 3 月：Bundesanzeiger 2024 账目 + GF 是否变动
+- 备注：集团子公司 → 不算守界（非同行制造交换机）；B 维持。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,15 +137,18 @@ updated: 2026-10-28
 - **【用户表】CCTV 为主，有商业 PoE EoC**
   > 主要是CCTV类产品 有商业POE EOC；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Andreas Rosen（）arosen@grothe.de 〔用户表〕
+- **KP**：Andreas Rosen（Geschäftsführer（AG Siegburg HRB 6442；wer-zu-wem / DDW / protector）= **研究档 KP 就是 GF 本人 = 拍板人**（第 93 批 官方登记核实 2026-10-28））arosen@grothe.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 grothe.de，语言 de-DE，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Grothe GmbH（AG Siegburg HRB 6442；LEI 529900VY9SISWY0OKP81；USt DE813326876；资本 €1.5M；意大利 Urmet S.p.A. 集团 100%） |
+| 成立 | 2001-08-27（GmbH；品牌 1892 Köln，1998 迁 Hennef，2001 入 Urmet）（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Löhestr. 22, 53773 Hennef (Sieg) |
+| 人数 | 70 人（2023）；营收 €13–21M；资产 €9.38M（2023） |
+| 其他 | 官网 grothe.de，语言 de-DE，快照状态 ok；角色判定来源：用户表；第 93 批：Urmet 集团德国子公司 → CCTV / 网络件可能集团统采 → 只试 OEM 30%：Grothe 标 PoE 配其 IP 对讲 / CCTV；一封信直达 GF；130 年品牌付款稳（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：楼宇对讲 / 智能家居 / CCTV（Urmet 集团）
 - **触达通道（公开）**：role: 楼宇对讲/CCTV 品牌商（Urmet 集团德国，OEM 采购）；region: 德国；contact: info@grothe.de、arosen@grothe.de
@@ -223,7 +242,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Andreas Rosen | — | arosen@grothe.de | 调研核实（公开页） | 用户表 |
+| Andreas Rosen | Geschäftsführer（AG Siegburg HRB 6442；wer-zu-wem / DDW / protector）= **研究档 KP 就是 GF 本人 = 拍板人**（第 93 批 官方登记核实 2026-10-28） | arosen@grothe.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

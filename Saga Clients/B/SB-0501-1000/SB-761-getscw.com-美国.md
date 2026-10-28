@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -107,6 +107,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 93 批（US · 1 次检索：BBB（Business Started 2009-09-01；Incorporated 2016-07-26；Corporation；Matthew Nederlanden President，Micah Shearer Secretary，Christopher M. Craig；33 人）+ HigherGov / GovTribe（UEI RR46YDVKTNJ1，CAGE 6ELB6，S 公司，2011-06 起联邦供应商，海军为主）+ Inc.com（INC 5000，2010 创立）+ getscw.com/about（15 年、Asheville）+ Capital at Play 2019（Nederlanden 从营销顾问接手跑路创始人的公司），2026-10-28 查；https://www.bbb.org/us/nc/asheville/profile/security-cameras/security-camera-warehouse-inc-0473-92005262）：**
+
+- 法定名 / 登记号：Security Camera Warehouse, Inc.（SCW；getscw.com；Asheville NC） · UEI RR46YDVKTNJ1 / CAGE 6ELB6（SAM 联邦登记） · 状态 **Active（SAM 在册、INC 5000）** · 成立 2016-07-26（公司；业务始于 2009-09 / 2010-10） · S Corporation（北卡）
+- 行业码 / 经营范围：NAICS 561621 安防系统服务：自有品牌 SCW 相机 / NVR + Survail VSaaS + 安装；联邦（海军）供应商
+- 注册地址：11 Richland St, Asheville, NC 28806（828-483-4237）
+- 规模档：小型（31–50 人；第三方营收 ≈$7.7M 区间）
+- 账目：—；—
+- 高管：Matthew Nederlanden — CEO / President / 创始人（2009 接手）
+- 高管：Micah Shearer — Secretary
+- 高管：Christopher M. Craig — 管理层（BBB）
+- 高管：Benjamin Larue — 研究档 KP ben.larue@getscw.com（职务未取）
+- **这意味着什么：**
+  - **自有品牌 SCW + 联邦（海军）供应商 = 对 NDAA 敏感**：政府线我们进不去（Saga 不做任何 NDAA / TAA 声明），**只能走商用线 OEM 30%：SCW 标 PoE 交换机**配自家相机套装
+  - 31–50 人、INC 5000 成长型 → 有采购岗（研究档 KP Larue）；信里只谈商用客户用的 8/16/24 口 PoE，不碰联邦
+  - Nederlanden 是营销出身的老板，看重软件 / 服务 → 卖点写「保修 + 固件长期供应」而非价格
+- 备注：INC 5000 / 联邦供应商 = 公开可核；营收只记区间。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -150,15 +167,19 @@ updated: 2026-10-27
 - **【用户表】PoE 主要是 CCTV 比较专业**
   > PoE  主要是CCTV 比较专业
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Benjamin Larue（）ben.larue@getscw.com 〔用户表〕
+- **KP**：Benjamin Larue（研究档 KP（职务未取；31–50 人公司有采购岗）（第 93 批 官方登记核实 2026-10-28））ben.larue@getscw.com 〔用户表〕
+- **KP**：Matthew Nederlanden（CEO / President / 创始人（2009 接手；INC 5000；BBB / SAM 登记负责人）= 拍板人，抄送（第 93 批 官方登记核实 2026-10-28）） 〔https://www.bbb.org/us/nc/asheville/profile/security-cameras/security-camera-warehouse-inc-0473-92005262〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 getscw.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Security Camera Warehouse, Inc.（SCW；北卡 S Corporation；SAM UEI RR46YDVKTNJ1 / CAGE 6ELB6） |
+| 成立 | 2009-09-01（业务）/ 2010-10-05（SAM）/ 2016-07-26（公司）（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 11 Richland St, Asheville, NC 28806 |
+| 人数 | 31–50 人（BBB 33） |
+| 其他 | 官网 getscw.com，语言 en，快照状态 ok；角色判定来源：用户表；第 93 批：自有品牌 SCW + 联邦（海军）供应商 = NDAA 敏感 → 政府线不碰、只走商用线 OEM 30%（SCW 标 PoE 配自家相机）；卖点写保修 + 固件长期供应（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：商用安防摄像机 / NVR / 门禁（自有品牌 SCW）；配套 PoE 交换机（SCW 标）
 
@@ -274,7 +295,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Benjamin Larue | — | ben.larue@getscw.com | 调研核实（公开页） | 用户表 |
+| Benjamin Larue | 研究档 KP（职务未取；31–50 人公司有采购岗）（第 93 批 官方登记核实 2026-10-28） | ben.larue@getscw.com | 调研核实（公开页） | 用户表 |
+| Matthew Nederlanden | CEO / President / 创始人（2009 接手；INC 5000；BBB / SAM 登记负责人）= 拍板人，抄送（第 93 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.bbb.org/us/nc/asheville/profile/security-cameras/security-camera-warehouse-inc-0473-92005262 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -367,12 +389,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

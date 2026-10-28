@@ -78,6 +78,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 93 批（PL · 1 次检索：bizraport / rejestr.io（KRS 0000416117；NIP 6312645365；REGON 242895943；登记 2012-04-03；资本 1,000,000 zł；营收 2025 58.5 mln zł / 2024 58.2 / 2023 64.1；利润 236 tys. zł；资产 32.4 mln zł；PKD 46.90.Z）+ rejestrkrs（Prezes Sławomir Jarosław Pieszczek；Wiceprezes Teresa Jadwiga Suchoń）+ automatykab2b（2009 起 ICP DAS 授权分销）+ jm.pl 公司数据页（D-U-N-S 422187464），2026-10-28 查；https://rejestr.io/krs/416117/jm-elektronik）：**
+
+- 法定名 / 登记号：JM elektronik Sp. z o.o.（jm.pl；KRS 0000416117；Gliwice）— 元器件 / 自动化分销（ICP DAS） · KRS 0000416117 / NIP 6312645365 / REGON 242895943 · 状态 **Aktywna（2025 年报已提交 2026-06）** · 成立 2012-04-03（Sp. z o.o.；业务更早） · Sp. z o.o.（资本 1,000,000 zł）
+- 行业码 / 经营范围：46.90.Z 非专业化批发（电子元器件 + 工业自动化 ICP DAS；B2B 门户）
+- 注册地址：ul. Karolinki 58, 44-100 Gliwice
+- 规模档：中型（营收 ≈58 mln zł ≈ $14M）
+- 账目：2025：营收 58.5 mln zł、利润 0.24 mln、资产 32.4 mln（低利润率元器件分销）；2026-07（PL 惯例）
+- 高管：Sławomir Jarosław Pieszczek — Prezes Zarządu
+- 高管：Teresa Jadwiga Suchoń — Wiceprezes Zarządu
+- 控制人 / 股东：未取（rejestr.io 受益人页未读）
+- **这意味着什么：**
+  - **元器件广线分销（58 mln zł）、工业交换机走 ICP DAS（台湾）** → 大 broadline → B BIG：分销 20% 线、STI 工业 DIN 轨作第二货源，一页纸即可
+  - 利润率 0.4% → 对价格极敏感、对账期有要求 → T/T 预付会被拒，量不大时不值得让步
+  - PL 复盘 7 月：2026 年报 + 是否仍挂 ICP DAS
+- 备注：研究档「inhand 的 试试跟进」→ 工业路由 / 交换机兴趣确认；B 维持。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,14 +127,18 @@ updated: 2026-10-28
 - **【用户表】InHand 的，试试跟进**
   > inhand的 试试跟进
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Sławomir Jarosław Pieszczek（Prezes Zarządu（KRS 0000416117；Wiceprezes Teresa Jadwiga Suchoń）= 拍板人（元器件广线分销，写 jm@jm.pl 点名采购 / 产品经理）（第 93 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/416117/jm-elektronik〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 jm.pl，语言 pl，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | JM elektronik Sp. z o.o.（KRS 0000416117 · NIP 6312645365 · REGON 242895943；资本 1,000,000 zł；D-U-N-S 422187464） |
+| 成立 | 2012-04-03（Sp. z o.o.）（第 93 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Karolinki 58, 44-100 Gliwice |
+| 人数 | 中型；营收 2025 58.5 mln zł（2024 58.2 / 2023 64.1）、利润 0.24 mln、资产 32.4 mln |
+| 其他 | 官网 jm.pl，语言 pl，快照状态 ok；角色判定来源：官网文案；第 93 批：元器件广线分销 + ICP DAS（台湾）工业自动化 2009 起授权 → B BIG：分销 20%、STI 工业 DIN 轨作第二货源；利润率 0.4% → 价格 / 账期极敏感（第 93 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业计算机 / 自动化 / 元件 / LoRaWAN 分销
 
@@ -211,7 +231,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | jm@jm.pl | 用户表原值 | Clients/ 表 |
+| Sławomir Jarosław Pieszczek | Prezes Zarządu（KRS 0000416117；Wiceprezes Teresa Jadwiga Suchoń）= 拍板人（元器件广线分销，写 jm@jm.pl 点名采购 / 产品经理）（第 93 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejestr.io/krs/416117/jm-elektronik |
 
 - **通道建议**：企业邮箱可直发
 
@@ -247,7 +267,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-288GP 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -264,7 +284,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -280,7 +300,7 @@ updated: 2026-10-28
 **主题**：STI-288GP - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Sławomir,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the ICP DAS and InHand industrial switches on your linecard, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?
 
