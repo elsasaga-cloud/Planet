@@ -37,7 +37,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Sébastien Dourte",
+   "role": "创办人 / Gérant（LinkedIn Dourte；companyweb 10.2 FTE）= 拍板人（收件人 info@dourte.be 待核）（第 110 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.companyweb.be/en/0684917295/dourte"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -46,11 +53,11 @@
   "level": "B 级加厚 v1（官网 + 登记核对）"
  },
  "company_facts": {
-  "legal_name": "Dourte SRL（BE 0684.917.295；商号 Dourte Elektriciteit）",
-  "founded": "2017-11-22（LinkedIn 称 2010 起业）",
+  "legal_name": "Dourte SRL / BV（商号 Dourte Elektriciteit；BE 0684.917.295）",
+  "founded": "2017-11-16（业务 2010）（第 110 批 官方登记核实 2026-10-28）",
   "hq": "Buitenplas 1 unit 15, 1601 Ruisbroek, Belgium（info@dourte.be）",
   "size": "10.2 FTE（2025 年报）；LinkedIn 11–50",
-  "other": "FPS Interior 认可（报警/摄像）；Nacebel 43211 电气安装；2024 年入 Anderlecht 市政采购名单"
+  "other": "FPS Interior 认可（报警/摄像）；Nacebel 43211 电气安装；2024 年入 Anderlecht 市政采购名单；第 110 批：Ruisbroek (Sint-Pieters-Leeuw) 电气 + 安防安装商（10.2 FTE 2025；毛利 €598k；净利 €8.5k）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 配 CCTV / 门禁 + MOQ 1；法 / 荷引子）；再无回声 → 不动**（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "视频安防 / 门禁 / 入侵探测集成",

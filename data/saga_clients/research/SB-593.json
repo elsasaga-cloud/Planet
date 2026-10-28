@@ -50,14 +50,22 @@
    "title": "Owner",
    "email": "jordi@iptecno.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Administrador（BORME-C-2021-3504：Jordi Bassa Jansana）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Joan Balaguer",
    "title": "Projects & Solutions Director",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未取）（第 110 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Joan Ojeda Flores",
+   "role": "Administrador solidario（BORME 2021）（第 110 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.boe.es/diario_borme/txt.php?id=BORME-C-2021-3504"
   }
  ],
  "grade_override": null,
@@ -69,7 +77,9 @@
  },
  "company_facts": {
   "hq": "西班牙",
-  "other": "官网 ibdglobal.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "other": "官网 ibdglobal.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述；第 110 批：Montornès del Vallès 伊比利亚安防分销集团（100+ 人；西 / 葡多地物流基地；IndigoVision / IntelexVision）→ **分销 20%，B BIG，加厚一次（换切口：项目型安防分销的工程配套 PoE：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP；西 / 葡两国 DAP）；回信即 A 候选**；稿内不点名 IndigoVision（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "SMART TECH IBD GLOBAL SOLUTIONS S.L.U.（原名 IPTECNO VIDEOVIGILANCIA SL；商号 IBD Global / IPTecno；CIF B63904445；RM Barcelona）",
+  "founded": "—（2020-04 BC Diid + IPTecno 合并；2021-05 吸收合并）（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "专业安防分销（视频监控 / 入侵 / 门禁 / 消防）"

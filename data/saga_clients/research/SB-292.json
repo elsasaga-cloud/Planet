@@ -45,14 +45,22 @@
    "title": "Project Manager",
    "email": "info@teslanetworks.be",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP Ashwin Taeye（info@）（第 110 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Bart Pen",
    "title": "CEO",
    "email": "bart@teslanetworks.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO（LinkedIn）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Joris Laeremans",
+   "role": "Sales & Marketing Manager（LinkedIn）（第 110 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://be.linkedin.com/company/tesla-networks"
   }
  ],
  "grade_override": null,
@@ -64,7 +72,9 @@
  },
  "company_facts": {
   "hq": "比利时",
-  "other": "官网 teslanetworks.be，语言 nl，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 teslanetworks.be，语言 nl，快照状态 ok；角色判定来源：官网文案；第 110 批：Heist-op-den-Berg 无线 + 工业网络集成 / 咨询商（1–5 人；公交 / 有轨电车车载 ITxPT / 5G 项目为主 = 台系品牌渠道）→ **守界：绝不提轨交 / 车载；只做能源 / 工业 / 智慧城市固定场景 → 集成 25% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM + MOQ 1；荷语引子）；再无回声 → 不动**；稿内不点名 ORing（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "Tesla Networks BV（原 BVBA；BE 0830.294.165；RPR Antwerpen afd. Mechelen）",
+  "founded": "2010-10-06（业务 1999）（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "天线 / 工业网络设备分销（比利时）"

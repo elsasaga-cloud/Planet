@@ -43,14 +43,22 @@
    "title": "（职务待核）",
    "email": "michal.chvala@triton.eu",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP = 收件人（第 110 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Stanislav Lupták",
    "title": "（职务待核）",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Konateľ / 所有人（foaf.sk / orsr.sk；Ing.）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Boris Lupták",
+   "role": "Konateľ / 所有人（foaf.sk；Mgr.）（第 110 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://foaf.sk/firmy/436789"
   }
  ],
  "grade_override": null,
@@ -62,7 +70,9 @@
  },
  "company_facts": {
   "hq": "斯洛伐克",
-  "other": "官网 tritonsystems.eu，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 tritonsystems.eu，语言 ?，快照状态 ok；角色判定来源：官网文案；第 110 批：布拉迪斯拉发 停车 / 票务 / 门禁系统制造商 + 运营商（自有品牌 ParkIS / Arena；「斯洛伐克最大停车系统制造商之一」；Lupták 家族）→ **贴标 / 配套 30% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP 作停车终端 + 车牌相机户外机柜 PoE 配套，可贴 ParkIS 标 + 3 年保）；有回声再加厚**；斯洛伐克语引子（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "Tritonsystems spol. s r.o.（IČO 48060658；DIČ 2120052044；IČ DPH SK2120052044；OR OS Bratislava I Sro 102834/B；关联老公司 T R I T O N spol. s r.o. IČO 31323642 同址）",
+  "founded": "2015-03-10（集团 1992）（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "智能停车与缴费系统（ParkIS）"

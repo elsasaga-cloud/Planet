@@ -43,7 +43,8 @@
    "title": "（采购）",
    "email": "procurement@novytel.cz",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（procurement@）— 公司为中国货源采购代理 / 转口商（第 110 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +56,9 @@
  },
  "company_facts": {
   "hq": "捷克",
-  "other": "官网 novytel.cz，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 novytel.cz，语言 en-GB，快照状态 ok；角色判定来源：用户表；第 110 批：布拉格 2 亚洲 / 中国货源采购代理与进出口商（主营农机；2024 出口 ≈US$770k，1,004 票主要发乌克兰）→ **采购代理 → 不动（询价只做预付款、不给渠道价）**（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "Novy Telecom s.r.o.（IČO 28481968）",
+  "founded": "2008-10-30（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "进出口贸易服务（捷克）"

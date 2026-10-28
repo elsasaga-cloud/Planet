@@ -43,7 +43,14 @@
    "title": "（职务待核）",
    "email": "c.sgouros@videotronic.ch",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Verwaltungsratspräsident / Geschäftsführer（business-monitor.ch）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Dominik Mizdrak",
+   "role": "Verwaltungsrat（VIDEOR E. Hartig GmbH Geschäftsführer；2026 起控股方）— 仅记录（第 110 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://business-monitor.ch/en/companies/197640-videotronic-ag"
   }
  ],
  "grade_override": null,
@@ -55,7 +62,9 @@
  },
  "company_facts": {
   "hq": "瑞士",
-  "other": "官网 videotronic.ch，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 videotronic.ch，语言 de，快照状态 ok；角色判定来源：官网文案；第 110 批：Regensdorf (ZH) 视频安防 / 门禁分销集成商（股本 CHF 316k；1–10 人；**2026 起德国 VIDEOR E. Hartig GmbH（自有品牌 eneo）多数控股**；6 次无回）→ **分销 20% small，一页纸一次（换切口：并入 Videor 后供应商重审；STC-028GP / STC-228GP / STI-054GP；DAP 瑞士）；再无回声 → 不动**；旁线索 VIDEOR / eneo → DE 池另立户（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "Videotronic AG（UID CHE-107.888.942；CH-020.3.927.830-8）≠ Videotronic (Schweiz) AG CHE-106.761.351",
+  "founded": "1976-08-03（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "视频安防 / 门禁 / 门口通信方案（瑞士）"

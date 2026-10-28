@@ -33,7 +33,7 @@
  "kp": [
   {
    "name": "Bogdan（姓未公开）",
-   "role": "联系人（用户表）",
+   "role": "业主（推定；1 人公司）= 收件人（第 110 批 官方登记核实 2026-10-28）",
    "email": "bogdan@omnisecurity.ro",
    "phone": "+40 723 64 94 49（公司公开号）",
    "source": "用户表 + https://www.omnisecurity.ro/"
@@ -47,11 +47,11 @@
   "level": "B 级加厚 v1（官网 + 注册核对）"
  },
  "company_facts": {
-  "legal_name": "BONMAG INTERNATIONAL SRL",
+  "legal_name": "BONMAG INTERNATIONAL S.R.L.（品牌 OmniSecurity；CUI 37299107；J15/334/2017）",
   "registry": "CUI 37299107 · J15/334/2017（EUID ROONRC.J15/334/2017）",
-  "founded": "2017",
+  "founded": "2017-03-29（第 110 批 官方登记核实 2026-10-28）",
   "hq": "Voinești, Dâmbovița, România",
-  "other": "2024 年 Voinești 镇 CAEN 4690（非专业批发）利润榜第一（小镇口径）；官网自述团队有安防系统与技术背景，供应商培训/技术支持渠道完整"
+  "other": "2024 年 Voinești 镇 CAEN 4690（非专业批发）利润榜第一（小镇口径）；官网自述团队有安防系统与技术背景，供应商培训/技术支持渠道完整；第 110 批：Dâmbovița Voinești 一人安防 / 自动化安装商（2025 销售 €100.8k；SICAP 小额公采）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP 一口价 + MOQ 1 + 预付款；罗语引子）；再无回声 → 不动**（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IP 视频监控安装（Full HD / 3K / 4K / 5K）",

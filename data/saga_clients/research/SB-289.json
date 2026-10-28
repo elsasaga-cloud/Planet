@@ -43,7 +43,8 @@
    "title": "Account & Technical Manager",
    "email": "c.beriachetto@sisav.it",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP = 收件人（工业线）（第 110 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Ilaria Cianciola",
@@ -62,7 +63,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 sisav.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 sisav.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 110 批：Cossato (BI) 工业 / 国防 / 医疗电子硬件分销 + 集成（11–50 人；2024 营收 €4.33M）→ **守界：只做工业自动化线 → 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作数据采集现场网络第二价位）；绝不提国防 / 医疗**（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "SISTEMI AVANZATI ELETTRONICI S.R.L.（商号 SisAv；P.IVA / CF 01925460022；REA BI-174039）",
+  "founded": "1998（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业与过程自动化产品（工业 PC / 面板 PC / 现场总线 / 网络）"

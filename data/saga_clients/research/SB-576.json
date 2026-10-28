@@ -43,7 +43,8 @@
    "title": "（表内联系人）",
    "email": "info@matrix.es",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP Daniel Cortes（info@）= 收件人（第 110 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Jose Miguel",
@@ -62,7 +63,9 @@
  },
  "company_facts": {
   "hq": "西班牙",
-  "other": "官网 matrix.es，语言 es-ES，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 matrix.es，语言 es-ES，快照状态 ok；角色判定来源：用户表；第 110 批：马德里 工业电子 / IoT 元器件与模块分销商（60 人；销售额 €6–30M 区间；Madrid / Barcelona / Durango / Valencia / Sevilla + Lisboa / 法国 / 印度 办事处）→ **分销 20%，B BIG，加厚一次（换切口：面向其集成商 / 制造商客户的工业 PoE 配套 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + Webdyn 网关项目；西语引子）；次候选升 A**（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "MATRIX ELECTRONICA SL（S.L.U.；CIF B79611794；RM Madrid；Administrador único / 所有人 FLEXITRON SL = Flexitron Group；自有 IoT 品牌 Webdyn）",
+  "founded": "1990-10-18（活动 1991）（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IoT 方案 / 电子模块与设备供应",

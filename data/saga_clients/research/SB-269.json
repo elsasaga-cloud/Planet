@@ -36,14 +36,16 @@
    "title": "General Manager",
    "email": "adamian@contradata.it",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "General Manager（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Tiziano Cerato",
    "title": "Sales Engineer",
    "email": "info@contradata.it",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Sales Engineer（研究档）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +57,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 contradata.it，语言 ?，快照状态 ok；角色判定来源：待核"
+  "other": "官网 contradata.it，语言 ?，快照状态 ok；角色判定来源：待核；第 110 批：Monza 工业 PC / 嵌入式 / 工业以太网分销商（股本 €78k；10–15 人；2024 营收 €3.69M −22.5%）→ **分销 20% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作台系第二价位 + 交期）；有回声再加厚**（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "Contradata Milano S.r.l.（P.IVA / CF 04099800155；REA MI-987346）",
+  "founded": "1978（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业计算 / 嵌入式 / 工业网络分销（意大利）"

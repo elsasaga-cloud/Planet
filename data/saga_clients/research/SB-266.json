@@ -49,7 +49,8 @@
    "title": "Chief Executive Officer",
    "email": "milan@axilogi.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO（研究档）— 2026-01-19 起不再是登记代表人；2026-03-10 法院登记 opatrovník → 法人状态异常（第 110 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -61,7 +62,9 @@
  },
  "company_facts": {
   "hq": "捷克",
-  "other": "官网 axilogi.com，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "other": "官网 axilogi.com，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 110 批：比尔森 IT / 安防网店（股本 CZK 2M；jednatel = DC Europe system a.s.；代表人 Harmáček 2026-01 注销、2026-03 法院指定监护人 Mgr. Martin Svoboda）→ **法人状态异常 → 不动（B 保留，不进发送包；主动询盘只做全额预付）**（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "Axilogi s.r.o.（IČO 10964703；DIČ CZ10964703；C 123877 KS Plzeň；网站自称 C 47636 → 不一致）",
+  "founded": "2021-06-23（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT / 安防 / 工业电源网店"

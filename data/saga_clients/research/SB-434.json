@@ -1,131 +1,138 @@
 {
-  "code": "SB-434",
-  "name_official": "S-Connect（马德里）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（s-connect.es，快照 2026-10-21，西语）",
-  "summary": "西班牙工业 IoT 分销商（「Su socio para el IoT」；Moxa、Advantech、Milesight；switch 1232 / industrial 1160 / poe 588 / sfp 277 —— 工业网络目录极深；+34 910 421 886），工业 IoT 方案专家 Nicolas Calvez；表内「很多台湾品牌的」；群发 1 次。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Moxa",
-    "Advantech",
-    "Milesight"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "工业 IoT 伙伴；品牌 Moxa / Advantech / Milesight；关键词 switch 1232 / industrial 1160 / poe 588；+34 910 421 886",
-      "quote": "S-Connect - Su socio para el IoT… brands Moxa, Advantech, Milesight",
-      "url": "https://s-connect.es/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "很多台湾品牌的；很多牌子的",
-      "quote": "兴趣：很多台湾品牌的;很多牌子的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Nicolas Calvez",
-      "title": "Industrial IoT Solutions Specialist",
-      "email": "nicolas@s-connect.es",
-      "phone": "+34 910 421 886",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-434",
+ "name_official": "S-Connect（马德里）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（s-connect.es，快照 2026-10-21，西语）",
+ "summary": "西班牙工业 IoT 分销商（「Su socio para el IoT」；Moxa、Advantech、Milesight；switch 1232 / industrial 1160 / poe 588 / sfp 277 —— 工业网络目录极深；+34 910 421 886），工业 IoT 方案专家 Nicolas Calvez；表内「很多台湾品牌的」；群发 1 次。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Moxa",
+  "Advantech",
+  "Milesight"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业 IoT 伙伴；品牌 Moxa / Advantech / Milesight；关键词 switch 1232 / industrial 1160 / poe 588；+34 910 421 886",
+   "quote": "S-Connect - Su socio para el IoT… brands Moxa, Advantech, Milesight",
+   "url": "https://s-connect.es/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "S-Connect（待核）",
-    "founded": "",
-    "hq": "Madrid, Spain",
-    "size": "中小型工业 IoT 分销",
-    "other": "工业交换机目录深"
-  },
-  "business_lines": [
-    "工业网络 / IoT 分销（Moxa、Advantech）"
-  ],
-  "channels": {
-    "role": "工业分销商",
-    "region": "西班牙"
-  },
-  "signals": [
-    "工业交换机为核心品类 → 需 Moxa 之下的价位带",
-    "具名技术联系人"
-  ],
-  "risks": [
-    "台系 / Moxa 品牌忠诚；群发无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。"
-  },
-  "email_hook": "Nicolas, for the projects where Moxa EDS is over budget — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS <20 ms, −40~75 ℃) at $79 EXW; shall I send one for your Madrid bench?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 comercial@s-connect.es, nicolas@s-connect.es；主题多为「Booster PoE Switch、Optional Marvell Chipset Solutions」）；Elsa 群发 BCC 已触达 2025-03-29「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），ES 批次 To info@garmasl.com，0 回（第 74 批 Bcc 头核对 msg 195e12122be75883）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "西班牙（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 11；用户表：「兴趣：很多台湾品牌的;很多牌子的」；研究档 risks：台系 / Moxa 品牌忠诚；群发无回复；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）本户见于 2025-03-29 名单；2026-09-02 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-    },
-    "situation": "西班牙工业 IoT 分销商（「Su socio para el IoT」；Moxa、Advantech、Milesight；switch 1232 / industrial 1160 / poe 588 / sfp 277 —— 工业网络目录极深；+34 910 421 886），工业 IoT 方案专家 Nicolas Calvez；表内「很多台湾品牌的」；群发 1 次。",
-    "need": "Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。",
-    "breakpoint": "台系 / Moxa 品牌忠诚；群发无回复",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-      "why": "Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Nicolas, for the projects where Moxa EDS is over budget — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS <20 ms, −40~75 ℃) at $79 EXW; shall I send one for your Madrid bench?"
-    },
-    "facts": [
-      {
-        "date": "2025-03-29",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@garmasl.com，ES 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 comercial@s-connect.es, s-connect.es）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-30",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Booster PoE Switch、Optional Marvell Chipset Solutions",
-        "why": "11 封 / 0 次打开 / 0 回｜首封 2025-11-06 → 末封 2026-09-30（11 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：很多台湾品牌的;很多牌子的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "很多台湾品牌的；很多牌子的",
+   "quote": "兴趣：很多台湾品牌的;很多牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Nicolas Calvez",
+   "title": "Industrial IoT Solutions Specialist",
+   "email": "nicolas@s-connect.es",
+   "phone": "+34 910 421 886",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Inside Sales / Industrial IoT Solutions Specialist（LinkedIn / blog）= 收件人（第 110 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Pablo Kessler de la Maza",
+   "role": "Sales and Technical Support Industrial IoT Solutions（LinkedIn）（第 110 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.linkedin.com/company/s-connect-s.l./"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "S CONNECT S.L.（S-Connect；S.L.U.；CIF B64872484；RM Barcelona；SPHINX Computer Vertriebs GmbH 全资子公司）",
+  "founded": "2008-05-07（办事处 2003）（第 110 批 官方登记核实 2026-10-28）",
+  "hq": "Madrid, Spain",
+  "size": "中小型工业 IoT 分销",
+  "other": "工业交换机目录深；第 110 批：巴塞罗那 + 马德里 工业通信 / 工业 IoT 增值分销（德国 SPHINX 集团 7 国；Moxa 等；2–10 人；本地库存）→ **分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 第二价位 + 短交期；西语引子）；有回声再加厚**；旁线索 SPHINX Computer Vertriebs GmbH（法兰克福）→ DE 池另立户；稿内不点名 Moxa（第 110 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "工业网络 / IoT 分销（Moxa、Advantech）"
+ ],
+ "channels": {
+  "role": "工业分销商",
+  "region": "西班牙"
+ },
+ "signals": [
+  "工业交换机为核心品类 → 需 Moxa 之下的价位带",
+  "具名技术联系人"
+ ],
+ "risks": [
+  "台系 / Moxa 品牌忠诚；群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。"
+ },
+ "email_hook": "Nicolas, for the projects where Moxa EDS is over budget — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS <20 ms, −40~75 ℃) at $79 EXW; shall I send one for your Madrid bench?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 comercial@s-connect.es, nicolas@s-connect.es；主题多为「Booster PoE Switch、Optional Marvell Chipset Solutions」）；Elsa 群发 BCC 已触达 2025-03-29「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），ES 批次 To info@garmasl.com，0 回（第 74 批 Bcc 头核对 msg 195e12122be75883）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "西班牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 11；用户表：「兴趣：很多台湾品牌的;很多牌子的」；研究档 risks：台系 / Moxa 品牌忠诚；群发无回复；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）本户见于 2025-03-29 名单；2026-09-02 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+  },
+  "situation": "西班牙工业 IoT 分销商（「Su socio para el IoT」；Moxa、Advantech、Milesight；switch 1232 / industrial 1160 / poe 588 / sfp 277 —— 工业网络目录极深；+34 910 421 886），工业 IoT 方案专家 Nicolas Calvez；表内「很多台湾品牌的」；群发 1 次。",
+  "need": "Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。",
+  "breakpoint": "台系 / Moxa 品牌忠诚；群发无回复",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Nicolas, for the projects where Moxa EDS is over budget — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS <20 ms, −40~75 ℃) at $79 EXW; shall I send one for your Madrid bench?"
+  },
+  "facts": [
+   {
+    "date": "2025-03-29",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@garmasl.com，ES 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 comercial@s-connect.es, s-connect.es）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Booster PoE Switch、Optional Marvell Chipset Solutions",
+    "why": "11 封 / 0 次打开 / 0 回｜首封 2025-11-06 → 末封 2026-09-30（11 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：很多台湾品牌的;很多牌子的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

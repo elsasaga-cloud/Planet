@@ -45,7 +45,8 @@
    "title": "CEO",
    "email": "mauro.brunazzo@sea-srl.it",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Sandro Succi",
@@ -53,6 +54,12 @@
    "email": "",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "Marcello Gariboldi",
+   "role": "Responsabile Commerciale Milano（sea-srl.it Sedi）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28）",
+   "email": "milano@sea-srl.it",
+   "source": "https://www.sea-srl.it/contatti/sedi"
   }
  ],
  "grade_override": null,
@@ -64,7 +71,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 sea-srl.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 sea-srl.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 110 批：Gallarate (VA) 安防电子批发分销商（Legnano / Milano / Bologna / Asti 5 网点；TVT / Ajax / Bentel / Bosch / Hochiki）→ **分销 20%，B BIG，加厚一次（换切口：安装商柜台配套 PoE SKU：STC-028GP / STC-228GP / STC-2224GP + 意大利 DAP 小起订）**；营收未取（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "S. & A. S.R.L.（商号 S&A；P.IVA / CF 01887850129；REA VA-214291；股本 €100,000）",
+  "founded": "—（未取）（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防电子批发（入侵 / 消防 / CCTV / 门禁 / 对讲）"

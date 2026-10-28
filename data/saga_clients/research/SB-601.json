@@ -48,7 +48,8 @@
    "title": "Product & Technical Manager",
    "email": "rjorge@visus.pt",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP = 收件人（第 110 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -60,7 +61,9 @@
  },
  "company_facts": {
   "hq": "葡萄牙",
-  "other": "官网 visus.pt，语言 en-gb，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 visus.pt，语言 en-gb，快照状态 ok；角色判定来源：用户表；第 110 批：里斯本 CCTV-IP / 网络 / 电信设备进口分销商（只走经销伙伴网络；Vivotek / DrayTek）→ **分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP / STC-2224GP 配 IP 摄像机套件 + 葡语引子 + 葡萄牙 DAP）；有回声再加厚**；稿内不点名 Vivotek / DrayTek（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "OPTIVISUS, LDA（商号 Visus；原名 CENTRO DE OPTOMETRIA OPTIVISUS, LDA；NIPC 502 752 980）",
+  "founded": "1991-01（业务 1989）（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电信 / 视频监控分销（葡萄牙）"

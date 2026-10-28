@@ -45,7 +45,8 @@
    "title": "Founder",
    "email": "d.prieth@solpakutec.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Titolare / Inhaber（impresa individuale；CF PRTDNK95S07I729O）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -57,7 +58,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 solpakutec.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 solpakutec.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 110 批：南蒂罗尔 Schlanders 一人工业 PC / 工业通信分销（打开 4 次）→ **分销 20% small，一页纸一次（德语引子；STI-054GP / STI-144GP / STI-154GP 作台系第二价位 + MOQ 1 + 预付款）；再无回声 → 不动**；稿内不点名 ICP DAS（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "SOLPAKUTEC INDUSTRY DP（Dominik Prieth 个体户；P.IVA 03085880213；REA BZ-230913）",
+  "founded": "—（≈2019；未取）（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业定制软硬件方案"

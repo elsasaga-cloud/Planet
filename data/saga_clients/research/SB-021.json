@@ -27,7 +27,7 @@
  "kp": [
   {
    "name": "Eric Piaget",
-   "role": "V.P. Sales EMEA & India（用户表）",
+   "role": "外部顾问 / 欧洲销售（LinkedIn：CEO EPA-Technologies SAS，Consultant chez Loop Telecom；法国 Vaucresson）— 公司为台湾上市同行制造商（第 110 批 官方登记核实 2026-10-28）",
    "email": "eric-piaget@looptelecom.com",
    "phone": "+33 6 6767 1045",
    "source": "Clients/A/Taiwan.xlsx"
@@ -42,10 +42,11 @@
   "level": "B 级加厚 v1（基于首轮调研整理 + 身份判断）"
  },
  "company_facts": {
-  "legal_name": "Loop Telecommunication International, Inc.（Loop Telecom；台湾上市 3025）",
+  "legal_name": "星通資訊股份有限公司 Loop Telecommunication International, Inc.（統一編號 22099863；TWSE 3025；新竹科学园区新安路 8 号）",
   "hq": "台湾新竹；EMEA & India 销售 VP Eric Piaget 驻法国",
   "size": "上市公司",
-  "other": "自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）"
+  "other": "自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）；第 110 批：台湾上市电信 / 工业以太网设备制造商（董事长兼总经理葉茂林；实收资本 NT$567M；表内 FR 仅为其欧洲顾问所在地，不 country_fix）→ **同行 → 不动（不进任何发送包）**（第 110 批 官方登记核实 2026-10-28）",
+  "founded": "1991-12-03（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电信接入与传输设备制造（自有品牌 Loop）",

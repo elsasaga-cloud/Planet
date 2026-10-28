@@ -49,7 +49,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 itegra.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 itegra.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 110 批：考纳斯微型电气 / 安防 / 监控安装合伙（rekvizitai 目录条目；无 KP；研究档国别「意大利」有误，entities iso LT 正确，不改）→ **不动**（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "Itegra, MB（mažoji bendrija；Partizanų g. 21B-11, LT-49478 Kaunas；įmonės kodas 未取）",
+  "founded": "—（未取）（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防 / 视频监控 / 消防 / 智能家居安装（立陶宛）"

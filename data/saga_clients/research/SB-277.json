@@ -37,14 +37,16 @@
    "title": "CEO",
    "email": "ejprieto@instantbyte.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "CEO（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Eduardo Valle",
    "title": "Technical Manager",
    "email": "comercial@instantbyte.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Comercial（研究档 Eduardo Valle）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,11 +57,11 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Instant Byte S.L.",
-  "founded": "",
+  "legal_name": "INSTANT BYTE SL（CIF B83680082；RM Madrid）",
+  "founded": "2003-07-15（第 110 批 官方登记核实 2026-10-28）",
   "hq": "Spain（马德里，待核）",
   "size": "中小型批发商",
-  "other": ""
+  "other": "第 110 批：Leganés (Madrid) 无线 / VoIP / CCTV / GPON 增值批发商（36 人；自述年营业额 >€20–22M；1.2 万 SKU）→ **分销 20%，B BIG，加厚一次（换切口：MikroTik / TP-Link 价位带之间的第二 PoE 货源 + 伊比利亚 DAP；STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP）；次候选升 A**（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络 / 安防 / VoIP 批发"

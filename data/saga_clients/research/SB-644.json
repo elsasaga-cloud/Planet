@@ -42,7 +42,14 @@
    "title": "（表内联系人）",
    "email": "thomas.thoma@art2soft.eu",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director / Managing Director（cyprusregistry：ΘΩΜΑΣ ΘΩΜΑ；rocketreach）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Janet Bergeman Thomas",
+   "role": "Director / Secretary（cyprusregistry）（第 110 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://cyprusregistry.com/companies/HE/147954"
   }
  ],
  "grade_override": null,
@@ -54,7 +61,9 @@
  },
  "company_facts": {
   "hq": "塞浦路斯",
-  "other": "官网 art2soft.eu，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 art2soft.eu，语言 en-US，快照状态 ok；角色判定来源：用户表；第 110 批：尼科西亚 Lakatameia 网络 / 无线 / VoIP 分销商（Ubiquiti / MikroTik / Ruijie / TP-Link Business / Yeastar 官方分销；500+ 经销商；登记状态 Reminder letter sent，年报 2020 后待补）→ **分销 20% small，一页纸一次（换切口：MikroTik / TP-Link 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP + 塞浦路斯 DAP）；有回声再加厚**；希腊语引子（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "A.K. ART 2 SOFT LIMITED（商号 ART2SOFT / cy-wireless.com；HE 147954）",
+  "founded": "2004-04-30（业务 2006）（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "无线网络产品分销"

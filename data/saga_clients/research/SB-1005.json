@@ -36,14 +36,22 @@
    "title": "Owner & CEO",
    "email": "jacopo.ganz@asit.it",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Amministratore Delegato（asit.it 2024-06 任命公告）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Marco Gabriele",
    "title": "VP Sales",
    "email": "marco.gabriele@asit.it",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Vice President Sales（techcompany360 / rocketreach）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Joris Ganz",
+   "role": "Presidente e Amministratore Delegato（asit.it 2024-06）（第 110 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.asit.it/nuove-nomine-asit-s-p-a/"
   }
  ],
  "grade_override": null,
@@ -54,11 +62,11 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "ASIT S.r.l.（待核）",
-  "founded": "",
+  "legal_name": "ASIT S.p.A.（P.IVA / CF 06221270017；Registro AEE IT22010000013576）",
+  "founded": "1992-05-12（活动 1984）（第 110 批 官方登记核实 2026-10-28）",
   "hq": "Italy",
   "size": "中小型分销 / 电商",
-  "other": ""
+  "other": "第 110 批：都灵 Mappano 专业 ICT 分销商（布线 / 网络 / 安全 / UCC / AV / CCTV；35+ 品牌；1,500 活跃客户；5 分公司 + 2 代理；42 人；2025 营收 €41.8M；股本 €250k）→ **分销 20%，B BIG，加厚一次（换切口：安装商渠道第二价位 + 意大利 DAP 小起订；STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP / STI-144GP）；次候选升 A**（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "CCTV / 网络设备分销（电商）"

@@ -45,7 +45,8 @@
    "title": "（表内：Lola Medina；以邮箱为准待核）",
    "email": "lola.lucena@integra-nes.es",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP = 收件人（工业线）（第 110 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -57,7 +58,9 @@
  },
  "company_facts": {
   "hq": "西班牙",
-  "other": "官网 integranetwork.es，语言 es，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 integranetwork.es，语言 es，快照状态 ok；角色判定来源：用户表；第 110 批：Rivas-Vaciamadrid 工业计算 / 嵌入式 / 工业网络方案商（工业 / 轨交 / 交通 / 电信 / AV / 国防）→ **守界：只做工业 / 能源 / 交通固定机柜线 → 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 第二价位；西语引子）**；不提 IEC 61850 / EN 50155；稿内不点名 Lantech（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "INTEGRA NETWORK AND EMBEDDED SYSTEMS SL（S.L.U.；商号 Integra Network；CIF B84961267；RM Madrid hoja 425407）",
+  "founded": "2007-01-22（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业计算与网络方案（分销 / 设计 / 制造）",

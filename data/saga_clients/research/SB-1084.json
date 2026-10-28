@@ -1,122 +1,124 @@
 {
-  "code": "SB-1084",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（timeout）",
-  "summary": "匈牙利 Targoncavilla / Frekvent（targoncavilla.com / frekvent.com；表内「工业 FS」；官网 timeout，业务范围待核）；表内未跟进。",
-  "type": "工业设备供应商（匈牙利，待核）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS",
-      "quote": "工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1084",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（timeout）",
+ "summary": "匈牙利 Targoncavilla / Frekvent（targoncavilla.com / frekvent.com；表内「工业 FS」；官网 timeout，业务范围待核）；表内未跟进。",
+ "type": "工业设备供应商（匈牙利，待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "匈牙利",
-    "other": "官网 targoncavilla.com，语言 ?，快照状态 timeout；角色判定来源：待核"
-  },
-  "business_lines": [
-    "（待核，匈牙利）"
-  ],
-  "channels": {
-    "role": "工业设备供应商（匈牙利，待核）",
-    "region": "匈牙利",
-    "contact": "villa@frekvent.com"
-  },
-  "signals": [
-    "表内：工业 FS；villa@frekvent.com",
-    "快照：timeout"
-  ],
-  "risks": [
-    "业务范围待核（官网 timeout）；未跟进过，仅 villa@"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 20,
-    "why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）"
-  },
-  "email_hook": "For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS」",
-      "type": "工业设备供应商（匈牙利，待核）",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "匈牙利（欧洲全域主攻）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「工业FS」；研究档 risks：业务范围待核（官网 timeout）；未跟进过，仅 villa@；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "匈牙利 Targoncavilla / Frekvent（targoncavilla.com / frekvent.com；表内「工业 FS」；官网 timeout，业务范围待核）；表内未跟进。",
-    "need": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）",
-    "breakpoint": "业务范围待核（官网 timeout）；未跟进过，仅 villa@",
-    "saga_now": {
-      "p1": "STI-280GE",
-      "tier": 20,
-      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → villa@frekvent.com",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-03-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
-        "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 frekvent.com, villa@frekvent.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-21",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 frekvent.com, villa@frekvent.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": {
-      "subject": "DIN-rail industrial switches - 5-port and 8+2 SFP",
-      "body": "Hello,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches you supply, neutral-brand DIN-rail units, -40 to 75 C, CE/RoHS, from single units: 8 x Gigabit + 2 x SFP unmanaged, 12-58 V DC - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit - STI-050GE - $17.0; the 8 + 2 SFP L2 managed version, Marvell-based - STI-280GM - $68.2.\n\nOne question: which configuration do your customers order most - plain 5-port, 8 + 2 SFP, or managed?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "匈牙利",
+  "other": "官网 targoncavilla.com，语言 ?，快照状态 timeout；角色判定来源：待核；第 110 批：Jánoshalma 叉车 / 建筑机械配件批发 + 网店（2025 净营收 HUF 1.08bn ≈ €2.7M）；表内「工业 FS」为误判 → **非目标行业 → 不动**（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "Frekvent Forklift Kft.（原 PHOENIX FORKLIFT Kft.；adószám 12678859-2-03；cégjegyzékszám 03-09-109129）",
+  "founded": "2001-06-19（第 110 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "（待核，匈牙利）"
+ ],
+ "channels": {
+  "role": "工业设备供应商（匈牙利，待核）",
+  "region": "匈牙利",
+  "contact": "villa@frekvent.com"
+ },
+ "signals": [
+  "表内：工业 FS；villa@frekvent.com",
+  "快照：timeout"
+ ],
+ "risks": [
+  "业务范围待核（官网 timeout）；未跟进过，仅 villa@"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）"
+ },
+ "email_hook": "For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS」",
+   "type": "工业设备供应商（匈牙利，待核）",
+   "sieve": "—（未入筛）",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "匈牙利（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「工业FS」；研究档 risks：业务范围待核（官网 timeout）；未跟进过，仅 villa@；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+  },
+  "situation": "匈牙利 Targoncavilla / Frekvent（targoncavilla.com / frekvent.com；表内「工业 FS」；官网 timeout，业务范围待核）；表内未跟进。",
+  "need": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）",
+  "breakpoint": "业务范围待核（官网 timeout）；未跟进过，仅 villa@",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → villa@frekvent.com",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-03-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+    "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 frekvent.com, villa@frekvent.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 frekvent.com, villa@frekvent.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "DIN-rail industrial switches - 5-port and 8+2 SFP",
+   "body": "Hello,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches you supply, neutral-brand DIN-rail units, -40 to 75 C, CE/RoHS, from single units: 8 x Gigabit + 2 x SFP unmanaged, 12-58 V DC - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit - STI-050GE - $17.0; the 8 + 2 SFP L2 managed version, Marvell-based - STI-280GM - $68.2.\n\nOne question: which configuration do your customers order most - plain 5-port, 8 + 2 SFP, or managed?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-25"
+ }
 }

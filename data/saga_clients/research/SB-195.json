@@ -32,6 +32,18 @@
    "email": "andrius@bkgrupe.lt",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "Andrius Dapkevičius",
+   "role": "Vadovas / 总经理（rekvizitai.vz.lt）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://rekvizitai.vz.lt/en/company/bk_grupe/"
+  },
+  {
+   "name": "Justas Kudirka",
+   "role": "Elektroninės prekybos vadovas / 电商负责人（bkgrupe.lt）（第 110 批 官方登记核实 2026-10-28）",
+   "email": "justas@bkgrupe.lt",
+   "source": "https://bkgrupe.lt/kontaktai"
   }
  ],
  "grade_override": null,
@@ -43,7 +55,9 @@
  },
  "company_facts": {
   "hq": "立陶宛",
-  "other": "官网 bkgrupe.lt，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "other": "官网 bkgrupe.lt，语言 ?，快照状态 http_error；角色判定来源：待核；第 110 批：考纳斯 波罗的海三国 + 波兰安防系统分销商（管理中心塔林；95 人；销售收入 €41.9M；股本 €67,320；电商部）→ **分销 20%，B BIG，加厚一次（换切口：四国渠道第二 PoE 货源 + 电商 SKU；STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP）；次候选升 A**；稿内不点名 Utepo（第 110 批 官方登记核实 2026-10-28）",
+  "legal_name": "BK grupė, UAB（Uždaroji akcinė bendrovė Baltijos kontaktų grupė；įmonės kodas 210599550；PVM LT105995515）",
+  "founded": "1994-03-07（第 110 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "（待核，立陶宛）"
