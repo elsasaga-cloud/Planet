@@ -77,6 +77,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（AE · 1 次检索（路径首测）：alston-systems.com/contact（USA: Alston Systems LLC, 919 North Market Street, Suite 950, Wilmington 19801 Delaware；Middle East & Africa: Alston Systems Inc., 801 Reef Tower, Jumeira Lake Towers, P.O. Box 62201, Dubai, UAE；mea@alston-systems.com）+ alston-systems.com 产品目录 PDF 2022-10（ICT, Security and Energy Savings Products Manufacturer；Communications and Network Cables and Components, Active products, Power Solutions, CCTV, LED, solar；corporate offices USA and UAE）+ letfindout（JLT Dubai；mea@）；牌照号 / DMCC 登记未命中 → 部分坐实；2026-10-28，2026-10-28 查；https://alston-systems.com/contact/）：**
+
+- 法定名 / 登记号：Alston Systems Inc.（alston-systems.com；**中东非总部 801 Reef Tower, Jumeirah Lake Towers, P.O. Box 62201, Dubai, UAE（JLT = DMCC 自贸区推定）；美国法人 Alston Systems LLC, 919 North Market Street Suite 950, Wilmington DE 19801（= 注册代理地址）；阿联酋牌照号 1 查未得 → 部分坐实**）— **自有品牌 ICT / 安防 / 节能产品商（铜缆 / 光缆 / 配线 / 有源产品（PoE MC 等）/ 电源 / CCTV / LED / 太阳能；自称制造商、海外制造基地）**；表内「FS SFP 模块 MC」；KP Kennedy / Ross（purchase@）；16 次跟进无回复 · 未取（AE 牌照号 1 查未得；JLT/DMCC 推定） · 状态 **营业中（官网 + 目录在线）** · 成立 未取 · Inc.（自贸区推定）+ 美国 LLC（Delaware）
+- 行业码 / 经营范围：自有品牌 布线 / 有源网络 / 电源 / CCTV 产品（迪拜 JLT）
+- 注册地址：801 Reef Tower, Jumeirah Lake Towers, P.O. Box 62201, Dubai, UAE
+- 规模档：小型
+- 账目：未取；—
+- 高管：Kennedy — 研究档 KP（kennedy@alston-systems.com；姓氏 / 职务待核）= 收件人
+- 高管：Ross — 研究档 KP（purchase@alston-systems.com）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌（Alston 标有源产品 = 外购贴牌）→ 贴标 OEM 30% B，一页纸一次（切口：Alston 标 / 中性包装 的 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM + MC STC-110XGE 阶梯一口价 + 付费样机 + MOQ 1；SFP 模块不做明说；英文，Kennedy 直呼、抄 purchase@）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；16 次 0 回复在先 → 再无回声即不动
+  - 守界：牌照未核 → 只做预付 100%；TDRA / ESMA 不声称
+- 备注：贴标 OEM 30%；一页纸一次（最后一次；预付）；部分坐实（官网 contact 地址 + P.O. Box；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,16 +134,18 @@ updated: 2026-10-28
 - **【用户表】FS SFP 模块 MC**
   > FS SFP模块 MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Kennedy（）kennedy@alston-systems.com 〔用户表〕
-- **KP**：Ross（）purchase@alston-systems.com 〔用户表〕
+- **KP**：Kennedy（研究档 KP（姓氏 / 职务待核；自有品牌 Alston）= 收件人 — 一页纸一次（最后一次）：贴标 OEM 30% B、Alston 标 / 中性包装 STC 阶梯 + STC-4424GCPM + MC STC-110XGE、SFP 模块不做、付费样机— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））kennedy@alston-systems.com 〔用户表〕
+- **KP**：Ross（采购箱（Ross）= 抄送（第 117 批 官方登记核实 2026-10-28））purchase@alston-systems.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 阿联酋 |
-| 其他 | 官网 alston-systems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Alston Systems Inc.（迪拜 JLT；美国法人 Alston Systems LLC, Delaware（注册代理地址）；阿联酋牌照号 1 查未得） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 801 Reef Tower, Jumeirah Lake Towers, P.O. Box 62201, Dubai, UAE（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 alston-systems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 117 批：自有品牌 ICT / 安防 / 节能产品商（铜缆 / 光缆 / 有源 / 电源 / CCTV / LED），自称制造商 → **贴标 OEM 30% B，一页纸一次（最后一次；预付）**；16×0 在先 → 再无回声即不动；部分坐实（官网 contact）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：铜缆 / 光纤布线系统（自有品牌 Alston）；PoE MC / PDU / 机柜
 - **触达通道（公开）**：role: 布线系统品牌商（阿联酋，MC/FS 为配套）；region: 阿联酋；contact: purchase@alston-systems.com、kennedy@alston-systems.com
@@ -232,8 +249,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kennedy | — | kennedy@alston-systems.com | 调研核实（公开页） | 用户表 |
-| Ross | — | purchase@alston-systems.com | 调研核实（公开页） | 用户表 |
+| Kennedy | 研究档 KP（姓氏 / 职务待核；自有品牌 Alston）= 收件人 — 一页纸一次（最后一次）：贴标 OEM 30% B、Alston 标 / 中性包装 STC 阶梯 + STC-4424GCPM + MC STC-110XGE、SFP 模块不做、付费样机— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28） | kennedy@alston-systems.com | 调研核实（公开页） | 用户表 |
+| Ross | 采购箱（Ross）= 抄送（第 117 批 官方登记核实 2026-10-28） | purchase@alston-systems.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

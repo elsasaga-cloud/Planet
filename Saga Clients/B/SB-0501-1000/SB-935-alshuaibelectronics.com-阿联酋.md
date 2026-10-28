@@ -83,6 +83,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（AE · 1 次检索：haiuae.com（Al Shuaib Control Equipment LLC；established in the year 2005；CCTV / SMATV / IPTV / PA / Door Entry / Intercom；30453, Near Central Post Office, Ras Al Khaimah）+ atninfo（Al Shuaib Control Equipment LLC；CP PLUS CCTV；P.O Box 30453；Structured Cabling）；牌照号未得；2026-10-28，2026-10-28 查；https://www.haiuae.com/company/al-shuaib-control-equipment-llc-security-control-equipment-systems-ras-al-khaimah）：**
+
+- 法定名 / 登记号：Al Shuaib Control Equipment LLC（alshuaibelectronics.com；**法定名 AL SHUAIB CONTROL EQUIPMENT L.L.C.；2005 年成立；P.O. Box 30453, Near Central Post Office, Ras Al Khaimah；CP Plus CCTV 经销；牌照号未得 → 部分坐实**）— RAK 弱电集成（CCTV 安装测试 / 家庭自动化 / 结构化布线 / 门禁 / BMS / PA / IPTV / SMATV / 对讲）；KP Vijith（Business Development）；需求 HDMI 延长器（Saga 无）+ 工业 FS；WA 22 次无实质回复 · 未取（LLC；牌照号 1 查未得） · 状态 **营业中（名录在）** · 成立 2005 · LLC
+- 行业码 / 经营范围：弱电集成（CCTV / 布线 / BMS；RAK）
+- 注册地址：P.O. Box 30453, Near Central Post Office, Ras Al Khaimah, UAE
+- 规模档：微型
+- 账目：未取；—
+- 高管：Vijith — Business Development（研究档 KP；vijith@alshuaib.ae；+971 55 236 1122）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **主需求 HDMI 延长器（Saga 无）+ WA 22 次 0 实质 → 不动（B 保留；工业 FS 来询再报 STI 线预付）**
+- 备注：不动（需求不对位 + 22×0）；部分坐实（法定名 + 成立年 + P.O. Box；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,9 +138,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Al Shuaib Control Equipments L.L.C |
-| 成立 | （待核） |
-| 总部/地址 | Ras Al Khaimah, UAE |
+| 法定名称 | AL SHUAIB CONTROL EQUIPMENT L.L.C.（alshuaibelectronics.com；CP Plus CCTV 经销；牌照号 1 查未得） |
+| 成立 | 2005（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | P.O. Box 30453, Near Central Post Office, Ras Al Khaimah, UAE（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 第 117 批：RAK 弱电集成（CCTV / 布线 / BMS / IPTV）；主需求 HDMI 延长器（Saga 无）+ WA 22×0 → **不动（B 保留；工业 FS 来询再报 STI 线预付）**；部分坐实（名录）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 门禁 / BMS 集成；结构化布线 / IPTV / PA
 - **触达通道（公开）**：role: 弱电集成商；region: 阿联酋北部酋长国

@@ -85,6 +85,20 @@ updated: 2026-10-28
 
 - 法定假日：11-08 Diwali；11-09 Diwali (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 117 批（SG · 1 次检索：recordowl（BIO-COGNITIVE SOLUTIONS PTE. LTD.；UEN 200807513Z；Live Company；Incorporated on 17 Apr 2008；Exempt Private Company Limited By Shares；5 ANG MO KIO INDUSTRIAL PARK 2A #5-30 AMK TECH II SINGAPORE 567760；Annual return filed 27 Apr 2012）+ manufacturerss（Bio-Cognitive Solutions Pte Ltd；Contact Person Ms. Amy Hoi；factory based in Korea；200+ security systems installed）+ mfgpages（67 Ubi Crescent #04-11 Techniques Centre；65-6842-2995；biometric readers / CCTV / access control）；2026-10-28，2026-10-28 查；https://recordowl.com/company/bio-cognitive-solutions-pte-ltd）：**
+
+- 法定名 / 登记号：Bio-Cognitive Solutions Pte. Ltd.（bio-cognitive.com；**UEN 200807513Z；注册 2008-04-17；Exempt Private Company Limited By Shares；Live；recordowl 最近年报 2012-04-27（报备停滞迹象）**；5 Ang Mo Kio Industrial Park 2A #05-30 AMK Tech II, Singapore 567760（旧址 67 Ubi Crescent #04-11 Techniques Centre；电话 +65 6842 2995））— **生物识别门禁 / CCTV / 报警 / 自动闸门 集成 + IT/OT 安全（SCADA / ISA-62443 内容）；自称韩国工厂、200+ 安装点**；**Amy Hoi = 行业名录登记联系人（= KP；+65 9656 8498）**；需求 16 电口 PoE，2025-07 问了一个具体型号；表内「可以多跟进一下」 · UEN 200807513Z · 状态 **Live Company（年报记录停于 2012 → 待核）** · 成立 2008-04-17 · Exempt Private Company Limited By Shares
+- 行业码 / 经营范围：生物识别门禁 / CCTV 集成 + IT/OT 安全（Ang Mo Kio）
+- 注册地址：5 Ang Mo Kio Industrial Park 2A #05-30 AMK Tech II, Singapore 567760
+- 规模档：小型
+- 账目：年报记录停于 2012-04-27（recordowl）；—
+- 高管：Amy Hoi — 名录登记联系人 / 研究档 KP（amyhoi@bio-cognitive.com；+65 9656 8498）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **门禁 / CCTV 集成商、KP 问过 16 电口具体型号、Simon「可多跟进」→ 集成商 25% B small，一页纸一次（切口：直接答 16 电口 PoE = STC-2216GP 一口价（+ STC-2224GP 带 SFP 版）+ 付费样机 + MOQ 1；opener 引 2025-07 她问的型号；英文，Amy 直呼）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动
+  - 守界：年报停滞 → 只做预付 100%；OT / SCADA 场景只给商用 PoE；IMDA 不声称
+- 备注：集成商 25% small；一页纸一次（预付）；坐实（UEN + 注册日 + 类型 + 地址；年报停滞待核）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,16 +124,17 @@ updated: 2026-10-28
 - **【用户表】兴趣 16 电 / VC 安防 / 网站 CCTV；2025-07 PoE→问了一个型号；备注可以多跟进一下**
   > 兴趣：16电 VC 安防 网站：CCTV；回复：问了一个型号
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Amy Hoi（）amyhoi@bio-cognitive.com +65 9656 8498〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Amy Hoi（名录登记联系人（manufacturerss：Contact Person Ms. Amy Hoi；2025-07 问过 16 电口具体型号）= 收件人 — 一页纸一次：集成商 25% B small、直接答 16 电口 = STC-2216GP（+ STC-2224GP 带 SFP）、MOQ 1、付费样机、预付 100%— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））amyhoi@bio-cognitive.com +65 9656 8498〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Bio-Cognitive Pte Ltd（待核） |
-| 总部/地址 | Singapore |
-| 其他 | enquiries@bio-cognitive.com；+65 6553 2128 |
+| 法定名称 | BIO-COGNITIVE SOLUTIONS PTE. LTD.（UEN 200807513Z；Exempt Private Company Limited By Shares；Live；recordowl 最近年报 2012-04-27） |
+| 成立 | 2008-04-17（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 5 Ang Mo Kio Industrial Park 2A #05-30 AMK Tech II, Singapore 567760（旧址 67 Ubi Crescent #04-11）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | enquiries@bio-cognitive.com；+65 6553 2128；第 117 批：生物识别门禁 / CCTV 集成 + IT/OT 安全；年报记录停于 2012 → 只做预付；Simon「可以多跟进」→ **集成商 25% B small，一页纸一次（预付）**；再无回声 → 不动；坐实（年报停滞待核）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：物理安防集成（生物识别门禁、监控）；OT / SCADA 安全评估与服务；7×24 监控
 - **触达通道（公开）**：role: 安防 + OT 安全集成商；region: 新加坡 + 工业客户
@@ -207,7 +222,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Amy Hoi | — | amyhoi@bio-cognitive.com / +65 9656 8498 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Amy Hoi | 名录登记联系人（manufacturerss：Contact Person Ms. Amy Hoi；2025-07 问过 16 电口具体型号）= 收件人 — 一页纸一次：集成商 25% B small、直接答 16 电口 = STC-2216GP（+ STC-2224GP 带 SFP）、MOQ 1、付费样机、预付 100%— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28） | amyhoi@bio-cognitive.com / +65 9656 8498 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（AE · 1 次检索：hamedelectronics.com（HAMED ELECTRONICS LLC … LOW VOLTAGE SYSTEM INTEGRATION FROM YEAR 1985 AS A PART OF NASSER ABDULLATIF AHMED LOOTAH GROUP；Approved By Dubai Police；P. O. Box 379738, Deira Dubai；04-2281214；info@hamedelectronics.com）+ zoominfo（revenue <$5 Million；hospitality, education, government, healthcare）+ atninfo（Mohammed Hamed Electronics Trading LLC；Box 65146；Abu Hail — 同名异户）；牌照号未得；2026-10-28，2026-10-28 查；https://hamedelectronics.com/）：**
+
+- 法定名 / 登记号：Hamed Electronics LLC（hamedelectronics.com；**P.O. Box 379738, Deira, Dubai；04-228 1214；1985 年起；Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认可；牌照号未得 → 部分坐实**；同名 Mohammed Hamed Electronics Trading LLC（Abu Hail, Box 65146）≠）— **弱电系统集成（CCTV / SMATV / 门禁 / PA / 中央时钟 / 电话；供货 + 安装 + 调试；客户 酒店 / 教育 / 政府 / 医疗）**；1–10 人、营收 <$5M（ZoomInfo）；KP Anil P. Joseph（Project Manager；agrajan@eim.ae 归属待核） · 未取（LLC；牌照号 1 查未得） · 状态 **营业中（官网在）** · 成立 1985 · LLC（Lootah 集团成员）
+- 行业码 / 经营范围：弱电系统集成（CCTV / SMATV / 门禁 / PA；Deira）
+- 注册地址：P.O. Box 379738, Deira, Dubai, UAE
+- 规模档：微型（1–10 人）
+- 账目：未取（营收 <$5M 口径）；—
+- 高管：Anil P. Joseph — Project Manager（研究档 KP；agrajan@eim.ae 待核；+971 50 452 6169）= 收件人
+- 高管：info@hamedelectronics.com = 抄送
+- 控制人 / 股东：Lootah 集团（推定）
+- **这意味着什么：**
+  - **40 年本地集团弱电集成商、项目经理为 KP → 集成商 25% B small，一页纸一次（切口：酒店 / 校园弱电 PoE 阶梯 STC-2216GP / STC-2224GP / STC-4424GCPM（Marvell 管理）+ 工业 STI-154GP 一口价 + MOQ 1 + 付费样机 + DAP 迪拜；英文，Anil 直呼、抄 info@）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；再无回声 → 不动
+  - 守界：政府项目不主动提；邮箱域 eim.ae 待核 → 同发 info@；预付 100%
+- 备注：集成商 25% small；一页纸一次（预付）；部分坐实（官网：P.O. Box + 电话 + 集团；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,7 +121,7 @@ updated: 2026-10-28
 - **【用户表】Intersec 2012；PoE 手册；买了 2ch 样品；WA 已加**
   > POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese director / 9715065 40470 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Anil P. Joseph（Project Manager（ZoomInfo）/ 工程师（用户表））agrajan@eim.ae（用户表，待核归属） +971 50 452 6169（用户表）〔https://www.zoominfo.com/c/hamed-electronics-llc/397459106〕
+- **KP**：Anil P. Joseph（Project Manager（ZoomInfo；邮箱域 eim.ae 归属待核 → 同发 info@hamedelectronics.com）= 收件人 — 一页纸一次：集成商 25% B small、酒店 / 校园弱电 PoE STC-2216GP / 2224GP / STC-4424GCPM + STI-154GP、MOQ 1、付费样机、DAP 迪拜— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））agrajan@eim.ae（用户表，待核归属） +971 50 452 6169（用户表）〔https://www.zoominfo.com/c/hamed-electronics-llc/397459106〕
 - **KP**：A.G. Varghese（Director（用户表））— +971 50 654 0470（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -114,10 +129,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Hamed Electronics LLC |
-| 成立 | 1985 |
-| 总部/地址 | Deira, Dubai, UAE（P.O. Box 379738；+971 4 228 1214；info@hamedelectronics.com） |
-| 其他 | Lootah 集团成员；Dubai Police 认证安防承包商 |
+| 法定名称 | Hamed Electronics LLC（Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认可；牌照号 1 查未得；同名 Mohammed Hamed Electronics Trading LLC Box 65146 ≠） |
+| 成立 | 1985（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | P.O. Box 379738, Deira, Dubai, UAE（04-228 1214）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | Lootah 集团成员；Dubai Police 认证安防承包商；第 117 批：40 年本地集团弱电集成商（CCTV / SMATV / 门禁 / PA；客户 酒店 / 教育 / 政府 / 医疗）→ **集成商 25% B small，一页纸一次（预付；政府项目不主动提）**；再无回声 → 不动；部分坐实（官网）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：弱电集成（CCTV、SMATV、门禁、PA、时钟、电话）；酒店/教育/政府/医疗项目
 - **触达通道（公开）**：网站: https://hamedelectronics.com/；电话: +971 4 228 1214（公开）；手机 +971 50 452 6169 / +971 50 654 0470（用户表，WA 已加）；邮箱（公开）: info@hamedelectronics.com；agrajan@eim.ae（用户表）
@@ -157,7 +172,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Anil P. Joseph | Project Manager（ZoomInfo）/ 工程师（用户表） | agrajan@eim.ae（用户表，待核归属） / +971 50 452 6169（用户表） | 调研核实（公开页） | https://www.zoominfo.com/c/hamed-electronics-llc/397459106 |
+| Anil P. Joseph | Project Manager（ZoomInfo；邮箱域 eim.ae 归属待核 → 同发 info@hamedelectronics.com）= 收件人 — 一页纸一次：集成商 25% B small、酒店 / 校园弱电 PoE STC-2216GP / 2224GP / STC-4424GCPM + STI-154GP、MOQ 1、付费样机、DAP 迪拜— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28） | agrajan@eim.ae（用户表，待核归属） / +971 50 452 6169（用户表） | 调研核实（公开页） | https://www.zoominfo.com/c/hamed-electronics-llc/397459106 |
 | A.G. Varghese | Director（用户表） | — / +971 50 654 0470（用户表） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Anil P. Joseph engineer | — | agrajan@eim.ae / +971504526169 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 

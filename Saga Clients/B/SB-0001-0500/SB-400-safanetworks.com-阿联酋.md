@@ -79,6 +79,19 @@ updated: 2026-10-28
 - 【宗教】03-09→03-12：开斋节（Eid al-Fitr / Ramazan Bayramı，估算）：3–4 天全停
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 117 批（AE · 1 次检索：safanetworks.com（presence in Saudi Arabia, UAE and India；Networking switches / Wireless Access Points 通用文案；Address SHARJAH UAE）+ tendata / 52wmb（SAFA NETWORKS FZE-LLC；buyer；hard disk / memory from Zaco Computers Pvt Ltd, Bombay air → Sharjah）；牌照号未得；2026-10-28，2026-10-28 查；https://safanetworks.com/）：**
+
+- 法定名 / 登记号：Safa Networks FZE-LLC（safanetworks.com；**沙迦自贸区（FZE-LLC；沙迦）；分支 UAE / 沙特 / 印度；进口数据 = 从印度进硬盘 / 内存（IT 硬件贸易）；地址 / 牌照号未得 → 部分坐实**）— 「基础设施服务与 IT 方案」；官网仅通用文案（switches / APs）；无 KP（sales@）；7 次跟进无回复 · 未取（FZE-LLC；牌照号 1 查未得） · 状态 **营业中（官网在；内容空泛）** · 成立 未取 · FZE-LLC（沙迦自贸区推定）
+- 行业码 / 经营范围：IT 硬件贸易 / 基础设施服务（沙迦）
+- 注册地址：未取（Sharjah, UAE）
+- 规模档：未取
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@safanetworks.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **身份空泛（硬盘内存贸易 + 通用文案）+ 无 KP + 7 次 0 回复 → 不动（B 保留）**
+- 备注：不动（身份不清 + 无 KP）；部分坐实（法定后缀 + 进口数据；地址 / 牌照未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,8 +134,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 阿联酋 |
-| 其他 | 官网 safanetworks.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Safa Networks FZE-LLC（沙迦自贸区；分支 UAE / 沙特 / 印度；牌照号 / 地址 1 查未得） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 未取（Sharjah, UAE）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 safanetworks.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 117 批：进口数据 = 从印度进硬盘 / 内存的 IT 硬件贸易，官网通用文案，无 KP，7×0 → **不动（B 保留）**；部分坐实（法定后缀 + 进口数据）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品经销（阿联酋）
 - **触达通道（公开）**：role: 网络产品经销商（阿联酋）；region: 阿联酋；contact: sales@safanetworks.com

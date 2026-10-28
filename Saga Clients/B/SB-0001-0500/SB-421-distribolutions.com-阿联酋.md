@@ -77,6 +77,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 117 批（AE · 1 次检索：haiuae.com（Distributed Business Solutions Trading, Fze；www.distribolutions.com；SIT Tower, 1, Nadd Hessa Street；PO Box 341455）+ finditprice（DISTRIBUTED BUSINESS SOLUTIONS FZE POBOX 341355, DUBAI；971 4 388 6508）+ crunchbase（ICT infrastructure and services integration；Dubai；11-50）；牌照号未得；2026-10-28，2026-10-28 查；https://www.haiuae.com/company/distributed-business-solutions-trading-fze-dubai）：**
+
+- 法定名 / 登记号：Distributed Business Solutions Trading FZE（Distribolutions；distribolutions.com；**法定名 DISTRIBUTED BUSINESS SOLUTIONS FZE；SIT Tower, Nadd Hessa Street（Dubai Silicon Oasis），P.O. Box 341455（另一名录 341355）；+971 4 388 6508（= 表内 KP 电话）；Crunchbase 11–50 人；牌照号未得 → 部分坐实**）— ICT 基础设施与服务集成（路由交换 / 网络安全 / 网管 / 大数据；Ubiquiti）；2021 自建站询盘 10G 双纤 LC 10 km 模块、报价后要 100G → **需求 = 光模块（Q-32 缺口，Saga 无）**；KP Ajith Rajan · 未取（FZE；牌照号 1 查未得） · 状态 **营业中（名录在）** · 成立 未取 · FZE（自贸区独资；Dubai Silicon Oasis 推定）
+- 行业码 / 经营范围：ICT 基础设施 / 网络安全 集成（DSO）
+- 注册地址：SIT Tower, Nadd Hessa Street, Dubai Silicon Oasis, Dubai, UAE (P.O. Box 341455)
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Ajith Rajan — 表内联系人（研究档 KP；ajithpr@distribolutions.com；+971 4 388 6508）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **唯一需求是 10G / 100G 光模块（Saga 不做、Q-32 缺口）→ 不动（B 保留；交换机需求出现再按集成商 25%）**
+- 备注：不动（需求不对位）；部分坐实（法定名 + 地址 + P.O. Box + 电话吻合）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,8 +122,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Distributed Business Solutions（待核） |
-| 总部/地址 | Dubai, UAE |
+| 法定名称 | Distributed Business Solutions Trading FZE（Distribolutions；牌照号 1 查未得） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | SIT Tower, Nadd Hessa Street, Dubai Silicon Oasis, Dubai, UAE (P.O. Box 341455；另一名录 341355；+971 4 388 6508)（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 第 117 批：ICT 基础设施 / 网络安全集成；唯一需求 10G / 100G 光模块（Saga 不做，Q-32 缺口）→ **不动（B 保留；交换机需求出现再按集成商 25%）**；部分坐实（法定名 + 地址 + P.O. Box + 电话吻合）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业网络 / 安全 / 网管方案
 - **触达通道（公开）**：role: IT 方案商；region: 阿联酋

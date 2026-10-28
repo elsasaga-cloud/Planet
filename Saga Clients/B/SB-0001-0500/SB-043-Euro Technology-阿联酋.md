@@ -97,6 +97,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（AE · 1 次检索：yellowpages-uae.com（Euro Technology；M 4, Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd, Abu Dhabi；P.O Box 27709；02-6417222；PARADOX / DEISTER / CAME 授权）+ atninfo（Euro Technology Abu Dhabi；+971-2-6417222；Hazaa Bin Zaid Rd, Ruby Saloon Bldg；Box 27709；Locations: Dubai (Head-office) Abu Hail-Deira / Abu Dhabi Salam st. / India Mumbai）；牌照号未得；2026-10-28，2026-10-28 查；https://www.atninfo.com/co/euro-technology-abu-dhabi-26803）：**
+
+- 法定名 / 登记号：Euro Technology（eurotechnology.ae / eurotechnology.net；**阿布扎比 M4 Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd（Hazaa Bin Zaid Rd），P.O. Box 27709；+971 2 641 7222；另列 迪拜 Abu Hail-Deira 总部 + 孟买；牌照号未得 → 部分坐实**）— **安防系统集成（CCTV / 门禁 / 报警 / 门闸 / PA / 消防报警；Paradox / CAME / Deister / Virdi / CDVI 授权经销）**；约 9 人；客户自述含军方 / VVIP 宫殿 / 银行 / 医疗 / 政府；另有伊拉克业务；**WA 在线，41 次跟进中 4 次回复（索要资料）**；KP m.maarouf@（姓名职务待核） · 未取（牌照号 1 查未得） · 状态 **营业中（名录 + WA 在线）** · 成立 未取 · 未取（阿布扎比本土公司推定）
+- 行业码 / 经营范围：安防系统集成（CCTV / 门禁 / 报警 / 门闸；阿布扎比）
+- 注册地址：M4 Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd (Hazaa Bin Zaid Rd), Abu Dhabi, UAE (P.O. Box 27709)
+- 规模档：微型（约 9 人）
+- 账目：未取（营收估 $7M 口径，不引用）；—
+- 高管：M. Maarouf — 研究档联系人（m.maarouf@eurotechnology.ae；姓名职务待核）= 收件人
+- 高管：info@eurotechnology.net = 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **唯一在 41 次里回过 4 次要资料的阿联酋安防集成商 → 集成商 25% B small，一页纸一次（切口：只给他要过的「资料」= 一页 CCTV PoE 阶梯 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + 管理机 STC-4424GCPM 一口价 + 付费样机 + MOQ 1 + DAP 阿布扎比；WA 发链接；英文）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；再无回声 → 不动
+  - 守界：军方 / 宫殿 / 政府 / 伊拉克项目一律不提不接；只做商业 CCTV 场景；预付 100%
+- 备注：集成商 25% small；一页纸一次（预付；守界）；部分坐实（名录：地址 + P.O. Box + 电话 + 授权品牌；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -146,6 +161,7 @@ updated: 2026-10-28
   > 资料 / Mohamad Asaad Maarouf Manager / 971 26417222 T 050751 4160 已加 / IFSEC 2010
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（）info@eurotechnology.net（公开） +971 2 6417222 / +971 50 751 4160（WA）〔用户 Clients 表 + 官网〕
+- **KP**：M. Maarouf（表内具名邮箱（姓名职务待核；WA +971 50 751 4160 在线；41 次里回 4 次要资料）= 收件人 — 一页纸一次：集成商 25% B small、只给他要过的「资料」= CCTV PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM 一口价、付费样机、MOQ 1、DAP 阿布扎比、WA 发链接— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））m.maarouf@eurotechnology.ae 〔Clients 表邮箱（entities）〕
 - **调研后定级**：B（原自动 A）——41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。
 - 备注：WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。
 
@@ -153,9 +169,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Euro Technology（eurotechnology.ae / eurotechnology.net；关联 Neton Technologies netontechnologies.com） |
-| 总部/地址 | Abu Dhabi, UAE（+971 2 641 7222；+971 50 751 4160 已加 WA） |
-| 其他 | 安防集成（CCTV、门禁、报警、门闸、PA、消防报警）；品牌 Paradox / CAME / Deister / Virdi / CDVI；伊拉克业务 |
+| 法定名称 | Euro Technology（eurotechnology.ae / .net；Paradox / CAME / Deister 授权经销；另列 迪拜 Abu Hail-Deira 总部 + 孟买；牌照号 1 查未得） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | M4 Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd (Hazaa Bin Zaid Rd), Abu Dhabi, UAE (P.O. Box 27709；+971 2 641 7222)（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 安防集成（CCTV、门禁、报警、门闸、PA、消防报警）；品牌 Paradox / CAME / Deister / Virdi / CDVI；伊拉克业务；第 117 批：安防系统集成（CCTV / 门禁 / 报警 / 门闸 / PA / 消防报警）；唯一在 41 次里回过 4 次要资料的阿联酋安防集成商 → **集成商 25% B small，一页纸一次（预付；守界：军方 / 宫殿 / 政府 / 伊拉克项目一律不提不接）**；再无回声 → 不动；部分坐实（名录）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统集成（阿布扎比 + 伊拉克）；消防报警（守界：主系统不供）
 - **触达通道（公开）**：网站: https://eurotechnology.net/；邮箱: m.maarouf@eurotechnology.ae（用户表）；info@netontechnologies.com；WhatsApp: +971 50 751 4160（已加）
@@ -288,6 +305,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| M. Maarouf | 表内具名邮箱（姓名职务待核；WA +971 50 751 4160 在线；41 次里回 4 次要资料）= 收件人 — 一页纸一次：集成商 25% B small、只给他要过的「资料」= CCTV PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM 一口价、付费样机、MOQ 1、DAP 阿布扎比、WA 发链接— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28） | m.maarouf@eurotechnology.ae | 调研核实（公开页） | Clients 表邮箱（entities） |
 | Mohamad Asaad Maarouf | — | m.maarouf@eurotechnology.ae / info@netontechnologies.com / +97126417222 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 | Chandra | — | m.maarouf@eurotechnology.ae / info@netontechnologies.com / +97126417222 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 

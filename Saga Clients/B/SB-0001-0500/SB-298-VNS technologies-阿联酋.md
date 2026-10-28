@@ -83,6 +83,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 117 批（AE · 1 次检索：vnstech.com/contact-vns（Abu Dhabi – HQ；P.O. Box 51216；+971 2 666 7757；marketing@vnstech.com；Surveillance, ICT domain, and Airspace Safety and Security）+ linkedin/company/vns-tech（VNS Technologies … IT Distributor focused in Surveillance, Networking and Storage；Established 2009；regional offices Dubai, Qatar, India, Sri Lanka；HQ Abu Dhabi；11-50；Primary Mina Zayed, Abu Dhabi, P.O.Box 51216）+ vnstech.com（Welcome to VNS Technologies LLC）；牌照号未得；2026-10-28，2026-10-28 查；https://vnstech.com/contact-vns/）：**
+
+- 法定名 / 登记号：VNS Technologies LLC（vnstech.com；**HQ Mina Zayed, Abu Dhabi, P.O. Box 51216；+971 2 666 7757；2009 年成立；11–50 人；区域办事处 迪拜 / 卡塔尔 / 印度 / 斯里兰卡；牌照号未得 → 部分坐实**）— **安防 / 网络 / 存储 增值分销（经 VAR / SI / 顾问 / 承包商；品牌 H3C / Huawei / AETEK / Network Optix / Rasilient / Irisity；2019 创新安防产品奖）**；**KP Abdul Gafoor = Executive Director：与 AETEK 合作 5 年，看过工业 2 光 8 管理 PoE 与商用 2 光 24 电、问 L2 还是 L3、说会来深圳**；此后 20 次跟进无实质回复 · 未取（LLC；牌照号 1 查未得） · 状态 **营业中（官网 + LinkedIn 435 关注）** · 成立 2009 · LLC（VNS Technologies LLC）
+- 行业码 / 经营范围：安防 / 网络 / 存储 增值分销（阿布扎比 Mina Zayed；4 国办事处）
+- 注册地址：Mina Zayed, Abu Dhabi, UAE (P.O. Box 51216)
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Abdul Gafoor — Executive Director（研究档 KP；gafoor@vnstech.com；+971 2 666 7757）= 拍板人 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **4 国增值分销商、执行董事本人看过具体型号并问 L2 / L3 → 分销 20% B（升 A 候选），一页纸一次（切口：直接答 L2 / L3：工业 2 光 8 电管理 = STI-288DGGPM（L2 管理）$137；商用 24 电 = STC-2224GP（非管理）$86 / STC-4424GCPM（L2+ 管理，Marvell）$165 一口价 + 中性包装 + MOQ 1 + 付费样机 + DAP 迪拜 / 阿布扎比；邀他来深圳时面谈（时间由 Simon 定）；opener 引他「L2 还是 L3」之问；英文，Gafoor 直呼）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；回信 → 加厚 + 升 A
+  - 守界：不评价 AETEK（另有 SB-138 / 019 Volktek–AETEK 一线，互不提及）；不比 H3C / Huawei；Airspace Safety（反无人机）类客户项目不碰；牌照未核 → 预付 100%
+- 备注：分销 20%（升 A 候选）；一页纸一次（回声再加厚）；部分坐实（官网 + LinkedIn：法定名 + HQ + P.O. Box + 成立年；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,17 +133,17 @@ updated: 2026-10-28
 - **【用户表】和 aetek 合作了 5 年；工业品看了 2 光 8 管理 POE；商业看了 2 光 24 电，问了管理是 2 层还是 3 层；会来深圳**
   > 兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Abdul Gafoor（）gafoor@vnstech.com +971 2 666 7757〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Abdul Gafoor（Executive Director（研究档；VNS Technologies LLC；与 AETEK 合作 5 年；问过 L2 还是 L3、说会来深圳）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、直接答 L2 / L3：工业 2 光 8 电管理 = STI-288DGGPM（L2）$137；商用 24 电 = STC-2224GP（非管理）$86 / STC-4424GCPM（L2+，Marvell）$165、中性包装、MOQ 1、付费样机、DAP 阿布扎比、邀深圳面谈（时间 Simon 定）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））gafoor@vnstech.com +971 2 666 7757〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：AETEK 渠道））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | VNS Technologies LLC |
-| 成立 | （待核） |
-| 总部/地址 | Abu Dhabi, UAE |
-| 其他 | AETEK 阿联酋伙伴 5 年 |
+| 法定名称 | VNS Technologies LLC（vnstech.com；LinkedIn 435 关注；区域办事处 迪拜 / 卡塔尔 / 印度 / 斯里兰卡；牌照号 1 查未得） |
+| 成立 | 2009（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Mina Zayed, Abu Dhabi, UAE (P.O. Box 51216；+971 2 666 7757)（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | AETEK 阿联酋伙伴 5 年；第 117 批：安防 / 网络 / 存储增值分销（H3C / Huawei / AETEK / Network Optix / Rasilient / Irisity；经 VAR / SI / 顾问 / 承包商），执行董事本人看过具体型号 → **分销 20% B（升 A 候选），一页纸一次（预付）**；回信 → 加厚 + 升 A；守界：不评价 AETEK（另有 SB-138 / 019 一线）、Airspace Safety 类项目不碰；部分坐实（官网 + LinkedIn）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防监控集成（VMS、存储、AI 分析）；网络（H3C / Huawei / AETEK PoE）
 - **触达通道（公开）**：role: 安防集成 + 分销（AETEK 渠道）；region: 阿联酋（阿布扎比）
@@ -240,7 +254,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Abdul Gafoor | — | gafoor@vnstech.com / +971 2 666 7757 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Abdul Gafoor | Executive Director（研究档；VNS Technologies LLC；与 AETEK 合作 5 年；问过 L2 还是 L3、说会来深圳）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、直接答 L2 / L3：工业 2 光 8 电管理 = STI-288DGGPM（L2）$137；商用 24 电 = STC-2224GP（非管理）$86 / STC-4424GCPM（L2+，Marvell）$165、中性包装、MOQ 1、付费样机、DAP 阿布扎比、邀深圳面谈（时间 Simon 定）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28） | gafoor@vnstech.com / +971 2 666 7757 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

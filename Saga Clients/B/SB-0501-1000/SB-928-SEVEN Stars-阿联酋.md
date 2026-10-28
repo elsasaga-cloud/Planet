@@ -79,6 +79,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（AE · 1 次检索：sevenstarsuae.com/locations（Seven Stars Rent A Car, Hamdan Street, Abu Dhabi；Corporate Office Nice Karak Refreshment bldg, Hamdan Street；Auto Garage / Auto Spare Parts Sector M40 Mussafah；Seven Stars Technology；Five Stars General / Passenger Transport；School Buses）+ zoominfo（Basheer Nibu；Client Relations Associate at Seven Stars Auto Spare Parts；2021–present）；牌照号未得；2026-10-28，2026-10-28 查；https://www.sevenstarsuae.com/locations）：**
+
+- 法定名 / 登记号：Seven Stars（sevenstarsuae.com；阿布扎比多元集团：Seven Stars Rent A Car / Auto Garage / Auto Spare Parts（Mussafah M40）/ Technology / Five Stars 运输 / 校车 / 学校；企业办公室 Hamdan Street, Abu Dhabi；**牌照号未得 → 部分坐实**）— IT 方案仅为集团旁支；**表内 KP Nibu Basheer「Director」，ZoomInfo 显示为 Seven Stars Auto Spare Parts 的 Client Relations Associate** → 身份待核；WA 23 次无实质回复 · 未取（集团多牌照；1 查未得） · 状态 **营业中（官网在）** · 成立 未取 · 集团（租车 / 汽修 / 运输 / IT）
+- 行业码 / 经营范围：租车 / 汽修 / 运输 为主；IT 方案旁支（阿布扎比）
+- 注册地址：Corporate Office: Nice Karak Refreshment Bldg, Hamdan Street, Abu Dhabi, UAE
+- 规模档：中小（集团）
+- 账目：未取；—
+- 高管：Nibu Basheer — 表内「Director」/ ZoomInfo「Client Relations Associate（汽配）」（研究档 KP；nibu@sevenstarsuae.com；+971 50 441 0530）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **非目标行业（汽车 / 运输集团，IT 为旁支）+ KP 身份不符 + WA 23 次 0 实质 → 不动（B 保留）**
+- 备注：不动（非目标 + 身份不清 + 23×0）；部分坐实（官网集团地址；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,15 +127,17 @@ updated: 2026-10-28
 - **【用户表】工程商 Switch；网站看着不太相关**
   > 兴趣：工程商 Switch 网站：看着不太相关
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Nibu Basheer（）nibu@sevenstarsuae.com +971 50 441 0530〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Nibu Basheer（表内「Director」；ZoomInfo = Seven Stars Auto Spare Parts 的 Client Relations Associate（2021 起）→ 身份待核 — 不动，不发（第 117 批 官方登记核实 2026-10-28））nibu@sevenstarsuae.com +971 50 441 0530〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：行业相关性低））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Seven Stars Group |
-| 总部/地址 | UAE |
+| 法定名称 | Seven Stars（阿布扎比多元集团：Rent A Car / Auto Garage / Auto Spare Parts / Technology / Five Stars 运输 / 校车；集团多牌照，1 查未得） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Corporate Office: Nice Karak Refreshment Bldg, Hamdan Street, Abu Dhabi, UAE（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 第 117 批：非目标行业（汽车 / 运输集团，IT 为旁支）+ KP 身份不符 + WA 23×0 → **不动（B 保留）**；部分坐实（官网）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 方案 / CCTV（副业）；租车 / 运输 / 汽配
 - **触达通道（公开）**：role: 集团 IT 部门 / 小工程；region: 阿联酋
@@ -219,7 +234,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nibu Basheer | — | nibu@sevenstarsuae.com / +971 50 441 0530 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Nibu Basheer | 表内「Director」；ZoomInfo = Seven Stars Auto Spare Parts 的 Client Relations Associate（2021 起）→ 身份待核 — 不动，不发（第 117 批 官方登记核实 2026-10-28） | nibu@sevenstarsuae.com / +971 50 441 0530 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

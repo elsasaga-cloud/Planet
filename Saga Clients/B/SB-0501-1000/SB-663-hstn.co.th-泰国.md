@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（TH · 1 次检索：dataforthai（บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด HIGH SOLUTION OF TECHNOLOGY NETWORK CO., LTD.；ทะเบียน 0105552017802；ทุนจดทะเบียน 5,140,000 บาท；17/14 หมู่ที่ 6 ถนนพุทธมณฑลสาย 5 ตำบลบางกระทึก อำเภอสามพราน จ.นครปฐม 73210；ไทย 9 ราย 100%；www.hstn.co.th）+ creden（เลขทะเบียนนิติบุคคล 0105552017802；จดทะเบียน 20 ก.พ. 2552；TSIC 46521）+ hstn.co.th/en/whoweare（established in 2009；Tax ID 0105552017802；Tel 02 889 4701；hospitality IPTV / SMATV / FTTx / CCTV）；2026-10-28，2026-10-28 查；https://www.dataforthai.com/company/0105552017802/）：**
+
+- 法定名 / 登记号：บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด HIGH SOLUTION OF TECHNOLOGY NETWORK CO., LTD.（HSTN；hstn.co.th；**เลขทะเบียน 0105552017802；注册 2009-02-20；注册资本 ฿5,140,000；9 名泰籍股东 100%；状态 营业中**；17/14 Moo 6, Phutthamonthon Sai 5 Rd., Bang Krathuek, Sam Phran, Nakhon Pathom 73210；电话 02-889-4701 / 082-726-5320；TSIC 46521 电子设备批发）— **酒店 / 医院 / 公寓 / 商场 的 IPTV / SMATV / FTTx / Wi-Fi / 有线网络 / CCTV / 数字标牌 集成商（25 年团队）；站内 Cisco 24 口智能交换机**；无具名 KP（info@ + rungruengh@ / khomkits@）；表内未跟进 · เลขทะเบียนนิติบุคคล 0105552017802 · 状态 **ยังดำเนินกิจการอยู่（营业中）** · 成立 2009-02-20 · บริษัทจำกัด（Co., Ltd.）
+- 行业码 / 经营范围：46521 电子设备批发（酒店 / 医院 IPTV / 网络 / CCTV 集成）
+- 注册地址：17/14 Moo 6, Phutthamonthon Sai 5 Rd., Bang Krathuek, Sam Phran, Nakhon Pathom 73210
+- 规模档：小型
+- 账目：注册资本 ฿5,140,000（财报未取）；—
+- 高管：（研究档无具名 KP：info@ / rungruengh@ / khomkits@hstn.co.th）
+- 控制人 / 股东：9 名泰籍股东
+- **这意味着什么：**
+  - **酒店 / 医院网络集成商（在用 Cisco 智能交换机）→ 集成商 25% B small，一页纸一次（切口：酒店 / 公寓项目 PoE 阶梯 STC-2216GP / STC-2224GP / STC-4424GCPM（Marvell 管理）+ 房间级 STC-028GP 一口价 + MOQ 1 + 付费样机；IPTV / 机顶盒 不做；英文，收 info@，抄 rungruengh@ / khomkits@）— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（NBTC 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动
+  - 守界：NBTC 不声称、由其自办；不比 Cisco
+- 备注：集成商 25% small；一页纸一次；坐实（登记号 + 注册日 + 资本 + 股东结构 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,8 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 泰国 |
-| 其他 | 官网 hstn.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+| 法定名称 | บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด HIGH SOLUTION OF TECHNOLOGY NETWORK CO., LTD.（HSTN；เลขทะเบียน 0105552017802；注册资本 ฿5,140,000；9 名泰籍股东） |
+| 成立 | 2009-02-20（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 17/14 Moo 6, Phutthamonthon Sai 5 Rd., Bang Krathuek, Sam Phran, Nakhon Pathom 73210（02-889-4701）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 hstn.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：酒店 / 医院 IPTV / SMATV / FTTx / CCTV 集成商（在用 Cisco 智能交换机）、无具名 KP → **集成商 25% B small，一页纸一次**（收 info@，抄 rungruengh@ / khomkits@）；再无回声 → 不动；坐实（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络基础设施 / 酒店 IPTV / MATV / CCTV 集成（泰国）
 - **触达通道（公开）**：role: 网络/酒店系统集成分销商（泰国）；region: 泰国；contact: info@hstn.co.th、rungruengh@hstn.co.th

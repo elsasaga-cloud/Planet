@@ -72,6 +72,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 117 批（SG · 1 次检索：zoominfo（TGM Global Pte Ltd；10 Ubi Cres 06-92；+65 68482146；online condition monitoring solutions Partial Discharge / Distributed Temperature Sensing / Vibration；SF6 purification；Oil & Gas, Petrochemical, Power Generation, Mining, power transmission；revenue <$5 Million）+ dnb（TGM GLOBAL PTE. LTD.；Key Principal CHANG POO GEOK；50 Ubi Crescent #01-04 Singapore 408568）+ signalhire（Founded 2011；10-50 employees；data centres service continuity）；UEN 未得；2026-10-28，2026-10-28 查；https://www.dnb.com/business-directory/company-profiles.tgm_global_pte_ltd.c860ade3faf60092825e5ac8d94f1321.html）：**
+
+- 法定名 / 登记号：TGM Global Pte. Ltd.（global-tgm.com；50 Ubi Crescent #01-04, Singapore 408568（ZoomInfo 旧址 10 Ubi Crescent #06-92）；电话 +65 6848 2146；**2011 年成立；10–50 人；Key Principal Chang Poo Geok（D&B）；UEN 1 查未得 → 部分坐实**）— **电力资产在线状态监测（局放 / 分布式测温 / 振动）、SF6 回收、IoT / 网络安全方案 + 数据中心能效；客户 油气 / 石化 / 发电 / 矿业 / 输电**；阿里巴巴询盘「16 槽收发器机架」（Saga 无）；KP Lau Ghee Siang（Project Manager）/ Chee Wei Jun；表内未跟进 · 未取（UEN 1 查未得） · 状态 **营业中（企业库在）** · 成立 2011 · Pte. Ltd.
+- 行业码 / 经营范围：电力资产状态监测 / SF6 / 数据中心能效 方案（Ubi）— 守界边缘
+- 注册地址：50 Ubi Crescent #01-04, Singapore 408568
+- 规模档：小型（10–50 人）
+- 账目：未取（营收 <$5M 口径）；—
+- 高管：Chang Poo Geok — Key Principal（D&B）
+- 高管：Lau Ghee Siang — Project Manager（研究档 KP；gheesiang.lau@global-tgm.com）
+- 高管：Chee Wei Jun — 研究档联系人（weijun.chee@global-tgm.com）
+- 控制人 / 股东：Chang Poo Geok（推定）
+- **这意味着什么：**
+  - **电力 / 油气资产监测方案商（守界边缘）+ 唯一需求是 16 槽收发器机架（Saga 无）+ 从未跟进 → 不动（B 保留）**
+- 备注：不动（守界边缘 + 需求不对位）；部分坐实（企业库：地址 + 负责人 + 成立年；UEN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,14 +120,17 @@ updated: 2026-10-28
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Lau Ghee Siang（）gheesiang.lau@global-tgm.com 〔用户表〕
 - **KP**：Chee Wei Jun（）weijun.chee@global-tgm.com 〔用户表〕
+- **KP**：Chang Poo Geok（Key Principal（D&B）— 不动，不发（第 117 批 官方登记核实 2026-10-28）） 〔dnb.com TGM GLOBAL PTE. LTD.〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 global-tgm.com，语言 en，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | TGM Global Pte. Ltd.（UEN 1 查未得） |
+| 成立 | 2011（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 50 Ubi Crescent #01-04, Singapore 408568（+65 6848 2146；旧址 10 Ubi Crescent #06-92）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 global-tgm.com，语言 en，快照状态 ok；角色判定来源：待核；第 117 批：电力资产状态监测（局放 / DTS / SF6）+ 数据中心能效方案商，客户 油气 / 发电 / 输电（守界边缘），唯一需求 16 槽收发器机架（Saga 无）→ **不动（B 保留）**；部分坐实（企业库）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工程 / 线缆 / 自动化贸易（新加坡）
 - **触达通道（公开）**：role: 工程贸易商（新加坡，MC 机架询盘）；region: 新加坡；contact: gheesiang.lau@global-tgm.com、weijun.chee@global-tgm.com
@@ -170,6 +188,7 @@ updated: 2026-10-28
 |---|---|---|---|---|
 | Lau Ghee Siang | — | gheesiang.lau@global-tgm.com | 调研核实（公开页） | 用户表 |
 | Chee Wei Jun | — | weijun.chee@global-tgm.com | 调研核实（公开页） | 用户表 |
+| Chang Poo Geok | Key Principal（D&B）— 不动，不发（第 117 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | dnb.com TGM GLOBAL PTE. LTD. |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

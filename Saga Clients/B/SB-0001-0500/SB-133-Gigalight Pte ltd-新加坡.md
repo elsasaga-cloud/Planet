@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 法定假日：11-08 Diwali；11-09 Diwali (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 117 批（SG · 1 次检索：itnetworks.softing.com（Regional Distributor Singapore：Gigalight Pte. Ltd；970 Toa Payoh North, #02-04, Singapore 318992；Tel +65 6353 3679；enquiry@gigalight.com.sg）+ zoominfo（distributor specializing in structured cabling and fiber optic products；contractors, system integrators, end-users；revenue <$5 Million）+ sg.kompass（management team >20 aggregated years；Premium Line / Schneider Actassi / Smart Home / Psiber WireXpert）；UEN 未得；2026-10-28，2026-10-28 查；https://itnetworks.softing.com/asia/where-to-buy/asia-pacific/singapore-gigalight-pte-ltd/）：**
+
+- 法定名 / 登记号：Gigalight Pte. Ltd.（gigalight.com.sg；970 Toa Payoh North #02-04, Singapore 318992；电话 +65 6353 3679；**UEN 1 查未得 → 部分坐实**；与深圳易飞扬 Gigalight 无关）— **结构化布线 / 光纤配线分销商（Softing WireXpert 区域分销、Schneider Actassi、Premium Line、Giga-Maxx；客户 = 承包商 / 集成商 / 电信 / 银行 / 油气）**；营收 <$5M（ZoomInfo）；**Director Jimmy Wee（= KP；+65 9023 9663）：做布线与 PoE，让发海报上的产品信息**；7 次跟进无实质回复 · 未取（UEN 1 查未得） · 状态 **营业中（分销商页 + 官网在线）** · 成立 未取 · Pte. Ltd.
+- 行业码 / 经营范围：结构化布线 / 光纤配线 分销（Toa Payoh）
+- 注册地址：970 Toa Payoh North #02-04, Singapore 318992
+- 规模档：小型
+- 账目：未取（营收 <$5M 口径）；—
+- 高管：Jimmy Wee — Director（研究档 KP；jw@gigalight.com.sg；+65 9023 9663）= 拍板人 / 收件人
+- 控制人 / 股东：Jimmy Wee（推定）
+- **这意味着什么：**
+  - **布线分销商、老板本人要过海报产品信息 → 分销 20% B small，一页纸一次（切口：给承包商渠道的 PoE 阶梯 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + 管理机 STC-4424GCPM 一口价 + MOQ 1 + 付费样机；opener 引他「发海报上的产品」之请；英文，Jimmy 直呼）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动
+  - 守界：UEN 未取 → 只做预付；IMDA 不声称
+- 备注：分销 20% small；一页纸一次；部分坐实（分销商页 + 企业库：地址 + 电话 + 业务；UEN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,17 +129,17 @@ updated: 2026-10-28
 - **【用户表】做布线 PoE；让发海报上的产品信息**
   > 兴趣：做布线 PoE 让发海报上的产品信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jimmy Wee（）jw@gigalight.com.sg +65 9023 9663〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jimmy Wee（Director（= 老板本人；要过海报产品信息）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、承包商渠道 PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM、MOQ 1、付费样机、预付— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））jw@gigalight.com.sg +65 9023 9663〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Gigalight Pte. Ltd. |
-| 成立 | （待核） |
-| 总部/地址 | Singapore |
-| 其他 | 与深圳 Gigalight（易飞扬）无关 |
+| 法定名称 | Gigalight Pte. Ltd.（UEN 1 查未得；与深圳易飞扬 Gigalight 无关） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 970 Toa Payoh North #02-04, Singapore 318992（+65 6353 3679）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 与深圳 Gigalight（易飞扬）无关；第 117 批：结构化布线 / 光纤配线分销商（Softing 区域分销、Schneider Actassi、Premium Line）→ **分销 20% B small，一页纸一次**；再无回声 → 不动；部分坐实（分销商页 + 企业库，UEN 未取）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：结构化布线 / 光纤配线分销；PoE 配套
 - **触达通道（公开）**：role: 布线分销商；region: 新加坡
@@ -219,7 +233,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jimmy Wee | — | jw@gigalight.com.sg / +65 9023 9663 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Jimmy Wee | Director（= 老板本人；要过海报产品信息）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、承包商渠道 PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM、MOQ 1、付费样机、预付— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28） | jw@gigalight.com.sg / +65 9023 9663 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

@@ -56972,7 +56972,7 @@
 "kp": [
 {
 "name": "（无具名）",
-"role": "",
+"role": "公用销售箱（无具名 KP）= 收件人 — 一页纸一次：分销 20% B small、对位其网店 ONV 工业线的 STI 8 口 PoE + 2 SFP 档（STI-288GPM / STI-288DGGPM）、MOQ 1、付费样机— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28）",
 "email": "sales@itk.co.th",
 "phone": "",
 "source": "用户 Clients 表"
@@ -56987,10 +56987,11 @@
 "level": "B 级加厚 v1（网店核对）"
 },
 "company_facts": {
-"legal_name": "ITK Connecting（泰文全称待核）",
-"hq": "Bangkok, Thailand（02-460-9200）",
-"size": "中小型电商/安装商",
-"other": "ONV 工业交换机、多品牌 IT；5 年保修；Project inquiry 通道"
+"legal_name": "บริษัท ไอทีเค คอนเน็คติ้ง จำกัด ITK CONNECTING COMPANY LIMITED（เลขทะเบียน 0205557021718；注册资本 ฿5,000,000；股东权益 ฿10,035,499；2 名泰籍股东）",
+"hq": "2/6 Rat Phatthana Rd., Rat Phatthana, Saphan Sung, Bangkok 10240（02-460-9200）（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（权益 = 资本 2 倍）（第 117 批 官方登记核实 2026-10-28）",
+"other": "ONV 工业交换机、多品牌 IT；5 年保修；Project inquiry 通道；第 117 批：IT 产品电商 + 安装商，网店在售深圳 ONV 工业交换机全线 → **分销 20% B small，一页纸一次**；再无回声 → 不动；坐实（第 117 批 官方登记核实 2026-10-28）",
+"founded": "2014-06-25（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT 网络产品电商（交换机、PoE、工业交换机）",
@@ -61194,7 +61195,8 @@
 "title": "（经营者）",
 "email": "tjcomputercctv@tj2003.net（2025-03 / 05 来信地址；署名 พงศ์นันท์ รื่นบุญ (ปีเตอร์)）；tjcomputer2003@gmail.com",
 "phone": "08-0069-1918 / 06-2217-9229（2025-05-14 签名）",
-"source": "A 邮箱来信表头 + 签名"
+"source": "A 邮箱来信表头 + 签名",
+"role": "经营者（2025-03 回 Interested；2025-05 要 5 电口具体信息）= 收件人 — 一页纸一次：集成商 25% B small、直接报 STC-228GP（8 PoE + 2 SFP）+ 5 口 STI-054GP（4 PoE + 1 GE）按主表现价、MOQ 1、付费样机、预付 100%、小额快递 DAP— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": "B",
@@ -61206,11 +61208,11 @@
 "level": "B 级加厚 v1（快照不可达 + 表内）"
 },
 "company_facts": {
-"legal_name": "TJ Computer（2003）",
-"founded": "2003（域名推断）",
-"hq": "泰国",
-"size": "小型零售 / 安装",
-"other": "CCTV 业务"
+"legal_name": "TJ Computer（泰国电脑 / CCTV 店；通名 + 域名失效 → 0 查）",
+"founded": "未查（第 117 批 官方登记核实 2026-10-28）",
+"hq": "未查（泰国）（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（个体店推定）（第 117 批 官方登记核实 2026-10-28）",
+"other": "CCTV 业务；第 117 批：店主本人回过 Interested + 两次具体需求 → **集成商 25% B small，一页纸一次（预付）**；再无回声 → 不动；0 查（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电脑 / CCTV 零售安装"
@@ -66094,6 +66096,12 @@
 "email": "info@eurotechnology.net（公开）",
 "phone": "+971 2 6417222 / +971 50 751 4160（WA）",
 "source": "用户 Clients 表 + 官网"
+},
+{
+"name": "M. Maarouf",
+"email": "m.maarouf@eurotechnology.ae",
+"role": "表内具名邮箱（姓名职务待核；WA +971 50 751 4160 在线；41 次里回 4 次要资料）= 收件人 — 一页纸一次：集成商 25% B small、只给他要过的「资料」= CCTV PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM 一口价、付费样机、MOQ 1、DAP 阿布扎比、WA 发链接— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28）",
+"source": "Clients 表邮箱（entities）"
 }
 ],
 "grade_override": "B",
@@ -66105,10 +66113,11 @@
 "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
 },
 "company_facts": {
-"legal_name": "Euro Technology（eurotechnology.ae / eurotechnology.net；关联 Neton Technologies netontechnologies.com）",
-"hq": "Abu Dhabi, UAE（+971 2 641 7222；+971 50 751 4160 已加 WA）",
-"size": "约 9 人；营收估 $7M（首轮调研）",
-"other": "安防集成（CCTV、门禁、报警、门闸、PA、消防报警）；品牌 Paradox / CAME / Deister / Virdi / CDVI；伊拉克业务"
+"legal_name": "Euro Technology（eurotechnology.ae / .net；Paradox / CAME / Deister 授权经销；另列 迪拜 Abu Hail-Deira 总部 + 孟买；牌照号 1 查未得）",
+"hq": "M4 Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd (Hazaa Bin Zaid Rd), Abu Dhabi, UAE (P.O. Box 27709；+971 2 641 7222)（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（约 9 人；营收估 $7M 口径不引用）（第 117 批 官方登记核实 2026-10-28）",
+"other": "安防集成（CCTV、门禁、报警、门闸、PA、消防报警）；品牌 Paradox / CAME / Deister / Virdi / CDVI；伊拉克业务；第 117 批：安防系统集成（CCTV / 门禁 / 报警 / 门闸 / PA / 消防报警）；唯一在 41 次里回过 4 次要资料的阿联酋安防集成商 → **集成商 25% B small，一页纸一次（预付；守界：军方 / 宫殿 / 政府 / 伊拉克项目一律不提不接）**；再无回声 → 不动；部分坐实（名录）（第 117 批 官方登记核实 2026-10-28）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防系统集成（阿布扎比 + 伊拉克）",
@@ -72181,7 +72190,8 @@
 "title": "General Manager",
 "email": "steven@avanca.com.sg",
 "phone": "+65 6242 5108",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "General Manager & Managing Director（LinkedIn：2024-01 起 GM & MD，2015 入职；2025-11 对 10G MC 群发回 info）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、宽温 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE 一口价、3 年保、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": "B",
@@ -72193,11 +72203,11 @@
 "level": "B 级加厚 v1（官网快照核对）"
 },
 "company_facts": {
-"legal_name": "Avanca Technologies Pte Ltd",
-"founded": "（待核）",
-"hq": "Singapore",
-"size": "小型工业通信分销",
-"other": "sales@avanca.com.sg"
+"legal_name": "AVANCA TECHNOLOGIES PTE. LTD.（UEN 200207710N；Private Company Limited By Shares；Live；.SG 域名注册人）",
+"founded": "2002-09-06（第 117 批 官方登记核实 2026-10-28）",
+"hq": "23 New Industrial Road #07-06/07 Solstice Business Center, Singapore 536209（+65 6242 5108）（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（24 年工业通信分销）（第 117 批 官方登记核实 2026-10-28）",
+"other": "sales@avanca.com.sg；第 117 批：工业 4G/5G 路由 / 工业交换机 / PoE / MC（Red Lion N-Tron 在供）/ 带外管理 分销商，总经理本人回过 info → **分销 20% B（升 A 候选），一页纸一次**；回信 → 加厚 + 升 A；坐实（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业 4G/5G 路由 / 调制解调器",
@@ -113376,11 +113386,11 @@
 "level": "B 级加厚 v1（快照不可达 + 表内）"
 },
 "company_facts": {
-"legal_name": "（待核）",
-"founded": "",
-"hq": "Thailand",
-"size": "小型网店",
-"other": "gmail；域名失效"
+"legal_name": "未查（无法人名；sswmcctvshop.com 失效；siamskyworth@gmail.com）",
+"founded": "未查（第 117 批 官方登记核实 2026-10-28）",
+"hq": "未查（泰国）（第 117 批 官方登记核实 2026-10-28）",
+"size": "未查（第 117 批 官方登记核实 2026-10-28）",
+"other": "gmail；域名失效；第 117 批：域名失效 + gmail + 16×0 + 丰润达在供（Q-33 口径）→ **不动（B 保留）**；0 查（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV / 通讯产品网店"
@@ -139477,7 +139487,8 @@
 "title": "Director",
 "email": "jw@gigalight.com.sg",
 "phone": "+65 9023 9663",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Director（= 老板本人；要过海报产品信息）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、承包商渠道 PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM、MOQ 1、付费样机、预付— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -139488,11 +139499,11 @@
 "level": "B 级加厚 v1（官网快照 + 表内）"
 },
 "company_facts": {
-"legal_name": "Gigalight Pte. Ltd.",
-"founded": "（待核）",
-"hq": "Singapore",
-"size": "小型布线分销",
-"other": "与深圳 Gigalight（易飞扬）无关"
+"legal_name": "Gigalight Pte. Ltd.（UEN 1 查未得；与深圳易飞扬 Gigalight 无关）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+"hq": "970 Toa Payoh North #02-04, Singapore 318992（+65 6353 3679）（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型；营收 <$5M（ZoomInfo 口径）（第 117 批 官方登记核实 2026-10-28）",
+"other": "与深圳 Gigalight（易飞扬）无关；第 117 批：结构化布线 / 光纤配线分销商（Softing 区域分销、Schneider Actassi、Premium Line）→ **分销 20% B small，一页纸一次**；再无回声 → 不动；部分坐实（分销商页 + 企业库，UEN 未取）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "结构化布线 / 光纤配线分销",
@@ -140428,7 +140439,14 @@
 "title": "（表内联系人）",
 "email": "pankaj@metalogint.com",
 "phone": "+971 55 791 7244",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Assistant Marketing Manager（rocketreach；2015 起）— 非拍板；不动，不发（第 117 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Jaideep Paul",
+"email": "",
+"role": "Director（rocketreach）— 不动，不发（第 117 批 官方登记核实 2026-10-28）",
+"source": "rocketreach.co Metalog International DMCC"
 }
 ],
 "grade_override": null,
@@ -140439,11 +140457,11 @@
 "level": "B 级加厚 v1（快照空页 + 表内）"
 },
 "company_facts": {
-"legal_name": "Metalog International DMCC",
-"founded": "",
-"hq": "Dubai (DMCC), UAE",
-"size": "小型贸易",
-"other": "行业相关性待核"
+"legal_name": "Metalog International DMCC（DMCC 自贸区公司；行业 能源 / 油气供应链；尼日利亚 Port Harcourt 技术销售；牌照号 1 查未得）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+"hq": "DMCC, Jumeirah Lake Towers, Dubai, UAE（门牌未取；+971 4 886 xxxx）（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（第 117 批 官方登记核实 2026-10-28）",
+"other": "行业相关性待核；第 117 批：非目标行业（油气供应链贸易）+ KP 非拍板 + 无具体兴趣 → **不动（B 保留）**；部分坐实（企业库）（第 117 批 官方登记核实 2026-10-28）"
 },
 "channels": {
 "role": "贸易商",
@@ -164569,8 +164587,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 sysnetcenter.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"hq": "807/147 Moo 8, Khu Khot, Lam Luk Ka, Pathum Thani 12130（behind Zeer Rangsit；02-102-4284）（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 sysnetcenter.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：多品牌网店 + 安装（TP-Link / Reyee / Ruijie / UniFi 原厂渠道货）+ 无 KP → **不动（B 保留；来询按分销 20% 预付）**；坐实（官网自列登记号 + 许可号）（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "ห้างหุ้นส่วนจำกัด ซิสเน็ต เซ็นเตอร์ SYSNET CENTER LIMITED PARTNERSHIP（เลขทะเบียน 0133552003338；有限合伙；注册资本 ฿500,000；NBTC 无线电设备经营许可 050356000200；财报 2564–2568 连续）",
+"founded": "2009-07-21（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（有限合伙）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络设备零售/经销（Switch / Wireless / Router）",
@@ -191583,7 +191604,8 @@
 "title": "（表内联系人，备注可多跟进）",
 "email": "amyhoi@bio-cognitive.com",
 "phone": "+65 9656 8498",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "名录登记联系人（manufacturerss：Contact Person Ms. Amy Hoi；2025-07 问过 16 电口具体型号）= 收件人 — 一页纸一次：集成商 25% B small、直接答 16 电口 = STC-2216GP（+ STC-2224GP 带 SFP）、MOQ 1、付费样机、预付 100%— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -191594,11 +191616,11 @@
 "level": "B 级加厚 v1（官网快照核对）"
 },
 "company_facts": {
-"legal_name": "Bio-Cognitive Pte Ltd（待核）",
-"founded": "",
-"hq": "Singapore",
-"size": "小型安防服务商",
-"other": "enquiries@bio-cognitive.com；+65 6553 2128"
+"legal_name": "BIO-COGNITIVE SOLUTIONS PTE. LTD.（UEN 200807513Z；Exempt Private Company Limited By Shares；Live；recordowl 最近年报 2012-04-27）",
+"founded": "2008-04-17（第 117 批 官方登记核实 2026-10-28）",
+"hq": "5 Ang Mo Kio Industrial Park 2A #05-30 AMK Tech II, Singapore 567760（旧址 67 Ubi Crescent #04-11）（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（自称 200+ 安装点）（第 117 批 官方登记核实 2026-10-28）",
+"other": "enquiries@bio-cognitive.com；+65 6553 2128；第 117 批：生物识别门禁 / CCTV 集成 + IT/OT 安全；年报记录停于 2012 → 只做预付；Simon「可以多跟进」→ **集成商 25% B small，一页纸一次（预付）**；再无回声 → 不动；坐实（年报停滞待核）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "物理安防集成（生物识别门禁、监控）",
@@ -202153,7 +202175,8 @@
 "title": "Executive Director",
 "email": "gafoor@vnstech.com",
 "phone": "+971 2 666 7757",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Executive Director（研究档；VNS Technologies LLC；与 AETEK 合作 5 年；问过 L2 还是 L3、说会来深圳）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、直接答 L2 / L3：工业 2 光 8 电管理 = STI-288DGGPM（L2）$137；商用 24 电 = STC-2224GP（非管理）$86 / STC-4424GCPM（L2+，Marvell）$165、中性包装、MOQ 1、付费样机、DAP 阿布扎比、邀深圳面谈（时间 Simon 定）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -202164,11 +202187,11 @@
 "level": "B 级加厚 v1（官网快照核对：AETEK 渠道）"
 },
 "company_facts": {
-"legal_name": "VNS Technologies LLC",
-"founded": "（待核）",
-"hq": "Abu Dhabi, UAE",
-"size": "中小型安防集成 / 分销",
-"other": "AETEK 阿联酋伙伴 5 年"
+"legal_name": "VNS Technologies LLC（vnstech.com；LinkedIn 435 关注；区域办事处 迪拜 / 卡塔尔 / 印度 / 斯里兰卡；牌照号 1 查未得）",
+"founded": "2009（第 117 批 官方登记核实 2026-10-28）",
+"hq": "Mina Zayed, Abu Dhabi, UAE (P.O. Box 51216；+971 2 666 7757)（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（11–50）（第 117 批 官方登记核实 2026-10-28）",
+"other": "AETEK 阿联酋伙伴 5 年；第 117 批：安防 / 网络 / 存储增值分销（H3C / Huawei / AETEK / Network Optix / Rasilient / Irisity；经 VAR / SI / 顾问 / 承包商），执行董事本人看过具体型号 → **分销 20% B（升 A 候选），一页纸一次（预付）**；回信 → 加厚 + 升 A；守界：不评价 AETEK（另有 SB-138 / 019 一线）、Airspace Safety 类项目不碰；部分坐实（官网 + LinkedIn）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防监控集成（VMS、存储、AI 分析）",
@@ -211461,7 +211484,7 @@
 "kp": [
 {
 "name": "Anil P. Joseph",
-"role": "Project Manager（ZoomInfo）/ 工程师（用户表）",
+"role": "Project Manager（ZoomInfo；邮箱域 eim.ae 归属待核 → 同发 info@hamedelectronics.com）= 收件人 — 一页纸一次：集成商 25% B small、酒店 / 校园弱电 PoE STC-2216GP / 2224GP / STC-4424GCPM + STI-154GP、MOQ 1、付费样机、DAP 迪拜— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28）",
 "email": "agrajan@eim.ae（用户表，待核归属）",
 "phone": "+971 50 452 6169（用户表）",
 "source": "https://www.zoominfo.com/c/hamed-electronics-llc/397459106"
@@ -211482,11 +211505,11 @@
 "level": "B 级加厚 v1（官网 + 名录核对）"
 },
 "company_facts": {
-"legal_name": "Hamed Electronics LLC",
-"founded": "1985",
-"hq": "Deira, Dubai, UAE（P.O. Box 379738；+971 4 228 1214；info@hamedelectronics.com）",
-"size": "1–10（ZoomInfo）；营收 <$5M",
-"other": "Lootah 集团成员；Dubai Police 认证安防承包商"
+"legal_name": "Hamed Electronics LLC（Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认可；牌照号 1 查未得；同名 Mohammed Hamed Electronics Trading LLC Box 65146 ≠）",
+"founded": "1985（第 117 批 官方登记核实 2026-10-28）",
+"hq": "P.O. Box 379738, Deira, Dubai, UAE（04-228 1214）（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（1–10 人；营收 <$5M 口径）（第 117 批 官方登记核实 2026-10-28）",
+"other": "Lootah 集团成员；Dubai Police 认证安防承包商；第 117 批：40 年本地集团弱电集成商（CCTV / SMATV / 门禁 / PA；客户 酒店 / 教育 / 政府 / 医疗）→ **集成商 25% B small，一页纸一次（预付；政府项目不主动提）**；再无回声 → 不动；部分坐实（官网）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "弱电集成（CCTV、SMATV、门禁、PA、时钟、电话）",
@@ -228005,14 +228028,16 @@
 "title": "Senior Manager (Network Engineering)",
 "email": "robin@luckyjoint.com.sg",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Senior Manager, Network Engineering（研究档；问过「PoE 能传 250 m 吗」）= 收件人 — 一页纸一次：集成商 25% B（升 A 候选）、答 250 m = STC-028GP / 228GP 延长模式 250 m（10 Mbps）+ 标准 100 m 千兆 + 项目量 STC-4424GCPM、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Kee Ching Hai",
 "title": "（职务待核）",
 "email": "sales@luckyjoint.com.sg",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档联系人（Kee Ching Hai）= 抄送（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -228023,8 +228048,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 luckyjoint.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "17 Tuas Avenue 3, Singapore 639414（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 luckyjoint.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 117 批：SSIC 42202 通信 / 电力线路建设 + 43909 网络基础设施 / FTTx；44 年电信网络承包商；Simon「可以多跟进」→ **集成商 25% B（升 A 候选），一页纸一次**；回信 → 加厚 + 升 A；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "LUCKY JOINT CONSTRUCTION PTE. LTD.（UEN 198200882E；Exempt Private Company Limited By Shares；Live；实缴 S$2,000,000；bizSAFE Star 至 2028-01-20）",
+"founded": "1982-03-08（第 117 批 官方登记核实 2026-10-28）",
+"size": "中型（251–500 人，Crunchbase 口径）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电信网络设计 / 建设 / 维护（新加坡）"
@@ -235944,8 +235972,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 accessofranco.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"hq": "23/2 Soi Punnawithi 29, Bang Chak, Phra Khanong, Bangkok 10260（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 accessofranco.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：微型 + 登记业务与站内不符 + 已直接用国内 MaiWe 工业线 + 无 KP → **不动（B 保留）**；部分坐实（业务不符）（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "บริษัท แอ็คเซสโซ่ ฟรานโก้ จำกัด ACCESSO FRANCO COMPANY LIMITED（เลขทะเบียน 0105558125585；注册资本 ฿1,000,000；2 名泰籍股东；登记业务 = 汽车零配件零售 ≠ 站内能源智能方案）",
+"founded": "2015-08-03（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "能源智能 / 工业物联网方案"
@@ -243501,8 +243532,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "阿联酋",
-"other": "官网 safanetworks.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+"hq": "未取（Sharjah, UAE）（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 safanetworks.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 117 批：进口数据 = 从印度进硬盘 / 内存的 IT 硬件贸易，官网通用文案，无 KP，7×0 → **不动（B 保留）**；部分坐实（法定后缀 + 进口数据）（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "Safa Networks FZE-LLC（沙迦自贸区；分支 UAE / 沙特 / 印度；牌照号 / 地址 1 查未得）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+"size": "未取（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络产品经销（阿联酋）"
@@ -246479,8 +246513,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 winnerintertech.com，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"hq": "未取（泰国）（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 winnerintertech.com，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：Moxa / Adder / Robustel 官方经销（原厂渠道）+ Defense & Security 展客户（守界）+ 6×0 + 未坐实 → **不动（B 保留）**（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "Winner Intertech Co., Ltd.（法人 1 查未得 → 未坐实；命中 WINNER TECH (THAILAND) 0105556021529 / WINNER INTERGREAT LP / WE WINER INTERTRADE 均 ≠）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+"size": "未取（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业网络 / KVM / 工业路由分销（Moxa、Adder、Robustel）"
@@ -251523,11 +251560,11 @@
 "level": "B 级加厚 v1（官网快照 + 表内）"
 },
 "company_facts": {
-"legal_name": "Distributed Business Solutions（待核）",
-"founded": "",
-"hq": "Dubai, UAE",
-"size": "小型方案商",
-"other": ""
+"legal_name": "Distributed Business Solutions Trading FZE（Distribolutions；牌照号 1 查未得）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+"hq": "SIT Tower, Nadd Hessa Street, Dubai Silicon Oasis, Dubai, UAE (P.O. Box 341455；另一名录 341355；+971 4 388 6508)（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（11–50，Crunchbase 口径）（第 117 批 官方登记核实 2026-10-28）",
+"other": "第 117 批：ICT 基础设施 / 网络安全集成；唯一需求 10G / 100G 光模块（Saga 不做，Q-32 缺口）→ **不动（B 保留；交换机需求出现再按集成商 25%）**；部分坐实（法定名 + 地址 + P.O. Box + 电话吻合）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "企业网络 / 安全 / 网管方案"
@@ -265866,8 +265903,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 satsdigital.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+"hq": "88/468 Kanlapaphruek Rd., Bang Khae, Bangkok 10160（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 satsdigital.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 117 批：2025 新设 ฿1M 比价网店 + 无 KP + 9×0 + 法人仅近似 → **不动（B 保留）**（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "SATS Digital（最接近法人 บริษัท แซทดิจิตอล จำกัด SATDIGITAL CO., LTD. เลขทะเบียน 0105568002761；注册资本 ฿1,000,000；网站未在登记页核到 → 部分坐实）",
+"founded": "2025-01-06（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（2025 新设）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络 / 安防产品网店（泰国）"
@@ -278120,7 +278160,8 @@
 "title": "Managing Director",
 "email": "ganesan@topnet.ae",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Managing Director（官网 For Emergency Ganesan K +971 55 652 2648；NTI 经销联系人）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、对位其工业线的 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE、3 年保、中性包装、MOQ 1、付费样机、DAP 迪拜 / 沙特转口自理— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Athira Babu",
@@ -278138,8 +278179,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "阿联酋",
-"other": "官网 topnetdistribution.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "Warehouse Unit K-11, Dubai Airport Free Zone, Dubai, UAE (P.O. Box 54791；+971 4 299 1162)（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 topnetdistribution.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 117 批：ICT / 工业连接产品分销（经 SI / 电信安装商 / VAR；工业光纤交换机 / MC / PoE / ITS；表内 三旺 / Nsgate 在供），总经理为 KP，只跟过 2 次 → **分销 20% B（升 A 候选），一页纸一次（预付）**；回信 → 加厚 + 升 A；部分坐实（官网 + NTI 经销页）（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "Topnet Distribution FZCO（DAFZA；集团 Topnet Distribution LLC, Deira + Topnet Communications and Information Technology, 沙特；牌照号 1 查未得）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（3 法人集团）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "ICT 分销（工业光纤交换机 / MC / PoE / 数据中心 / 无线）"
@@ -282308,8 +282352,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 eso.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"hq": "242/7 Moo 6, Thung Sukhla, Si Racha, Chonburi 20230（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 eso.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：工业传感器 / PLC / SCADA 分销（WECON 代理），交换机只是入门配件，无 KP，7×0 → **不动（B 保留；来询工业 PoE 按分销 20% 预付）**；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "บริษัท อีเอสโอ เทค จำกัด ESO TECH CO., LTD.（เลขทะเบียน 0205566032166；注册资本 ฿5,000,000；2 名泰籍股东）",
+"founded": "2023-06-07（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（2023 新设）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业传感器进口分销",
@@ -284783,7 +284830,7 @@
 "kp": [
 {
 "name": "Pongpanot Kwanmuang",
-"role": "（表内联系人）",
+"role": "项目型买家本人（2024-06 问工业 2+4 / 2+8 PoE；19 次里 1 次实质）= 收件人 — 一页纸一次：集成商 25% B small、2+4 = STI-154GP / 2+8 = STI-288DGGPM $137、12 光 12 电 / 8 光 8 电 主表无此配置明说、预付 100%、付费样机— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28）",
 "email": "pongpanot.k@hotmail.com",
 "phone": "",
 "source": "用户 Clients 表"
@@ -284797,11 +284844,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "待核",
-"founded": "待核",
-"hq": "待核",
-"size": "待核",
-"other": "无电话/公司；hotmail"
+"legal_name": "未查（个人 Pongpanot Kwanmuang；hotmail）",
+"founded": "未查（第 117 批 官方登记核实 2026-10-28）",
+"hq": "未查（泰国）（第 117 批 官方登记核实 2026-10-28）",
+"size": "个人（第 117 批 官方登记核实 2026-10-28）",
+"other": "无电话/公司；hotmail；第 117 批：需求具体 + 1 次实质回复 + Simon「可以尝试多跟进」→ **集成商 25% B small，一页纸一次（预付）**；身份不清不升 A；再无回声 → 不动；0 查（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "待核（见表内需求）"
@@ -286994,7 +287041,8 @@
 "title": "Co-founder & Director",
 "email": "elvin.tan@3tel.com.sg",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Co-founder & Director（3 名高管之一；UEN 201325873K）= 拍板人 / 收件人 — 一页纸一次（最后一次）：分销 20% B small、对位其 Utepo 页的 STC 阶梯 + STI-288DGGPM + STC-4424GCPM、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -287005,8 +287053,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 3tel.com.sg，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "15 Yishun Industrial Street 1 #01-17 Win 5, Singapore 768091（+65 6583 1334）（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 3tel.com.sg，语言 en，快照状态 ok；角色判定来源：官网文案；第 117 批：SSIC 61012 电信 / 光纤 turnkey + 43210 电气工程；安防 + 网络供应与工程，站内 Utepo PoE 在供 → **分销 20% B small，一页纸一次（最后一次）**；15×0 在先 → 再无回声即不动；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "3TEL INTERNATIONAL PTE. LTD.（UEN 201325873K；Local Company；Live；年报 2025-09-30）",
+"founded": "2013-09-24（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（3 名高管 / 股东；营收 <$5M）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防 / 电信 / 网络产品供应（新加坡）"
@@ -303192,14 +303243,16 @@
 "title": "（表内联系人）",
 "email": "ler@securevision.com.sg",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（PLRD 持牌安防集成商；UEN 200614644E）= 收件人 — 一页纸一次：集成商 25% B、Q-33 口径只推 Marvell 管理 PoE STC-4424GCPM + STC-110XGE + 工业 STI、不碰其 HRUI 非管理同款、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Abdul Hameed",
 "title": "Technical Specialist",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Technical Specialist = 抄送（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -303210,8 +303263,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 securevision.com.sg，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+"hq": "新加坡（recordowl 未展示详址）（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 securevision.com.sg，语言 en-GB，快照状态 ok；角色判定来源：官网文案；第 117 批：20 年持牌安防 SI（CCTV / 门禁 / 报警 / LPR / 数据中心门禁）、HRUI 在供、Simon「可以多跟进」→ **集成商 25% B，一页纸一次（Q-33 口径）**；回信 → 加厚；坐实（UEN + 注册日 + 牌照）（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "SECUREVISION PTE. LTD.（UEN 200614644E；Live；PLRD 保安承包商牌照 + bizSAFE Level 3 + BCA 注册）",
+"founded": "2006-10-03（第 117 批 官方登记核实 2026-10-28）",
+"size": "中小（2,000+ 新加坡安装点）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防系统集成（CCTV / 门禁 / 对讲 / 报警）"
@@ -309031,6 +309087,12 @@
 "email": "weijun.chee@global-tgm.com",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Chang Poo Geok",
+"email": "",
+"role": "Key Principal（D&B）— 不动，不发（第 117 批 官方登记核实 2026-10-28）",
+"source": "dnb.com TGM GLOBAL PTE. LTD."
 }
 ],
 "grade_override": null,
@@ -309041,8 +309103,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 global-tgm.com，语言 en，快照状态 ok；角色判定来源：待核"
+"hq": "50 Ubi Crescent #01-04, Singapore 408568（+65 6848 2146；旧址 10 Ubi Crescent #06-92）（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 global-tgm.com，语言 en，快照状态 ok；角色判定来源：待核；第 117 批：电力资产状态监测（局放 / DTS / SF6）+ 数据中心能效方案商，客户 油气 / 发电 / 输电（守界边缘），唯一需求 16 槽收发器机架（Saga 无）→ **不动（B 保留）**；部分坐实（企业库）（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "TGM Global Pte. Ltd.（UEN 1 查未得）",
+"founded": "2011（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（10–50 人）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工程 / 线缆 / 自动化贸易（新加坡）"
@@ -313210,8 +313275,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "阿联酋",
-"other": "官网 sheildify.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "Tanvi Building Office 20, Port Saeed, Deira, Dubai, UAE (P.O. Box 118467；名录旧址 Khalifa BA Balila Bldg, 22B St, Abu Hail；+971 58 554 2050)（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 sheildify.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 117 批：2020 新设安防 / 医疗 / 消防 / 电池 UPS 多品牌网店（原厂 PoE 随 CCTV 走）+ 无 KP → **不动（B 保留）**；部分坐实（名录 + 官网页脚）（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "Sheildify Security Equipment Trading LLC（Shieldify；牌照号 1 查未得）",
+"founded": "2020（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防 / 门禁 / 消防 / 医疗设备网店",
@@ -320821,11 +320889,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "（未知，Arp）",
-"founded": "",
-"hq": "泰国",
-"size": "",
-"other": "gmail"
+"legal_name": "未查（个人 Wirote；gmail；+66 65 426 3626）",
+"founded": "未查（第 117 批 官方登记核实 2026-10-28）",
+"hq": "未查（泰国）（第 117 批 官方登记核实 2026-10-28）",
+"size": "个人（第 117 批 官方登记核实 2026-10-28）",
+"other": "gmail；第 117 批：个人 + WA 14×0 实质 + 2023 后无新需求 → **不动（B 保留；来询再按集成商 25% 预付）**；0 查（第 117 批 官方登记核实 2026-10-28）"
 },
 "channels": {
 "role": "（未知）",
@@ -322937,8 +323005,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 ablelink.co.th，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"hq": "12 Soi Sukhaphiban 5 Soi 5 Yaek 3, Tha Raeng, Bang Khen, Bangkok 10220（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 ablelink.co.th，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：安防 + 网络分销（已卖多个国内工业牌）、Simon「可以尝试多跟进」→ **分销 20% B small，一页纸一次（代表 SB-609 + SB-614 一线；预付 100%）**（收 info@ablelink.co.th，抄 info@focomm-cabling.com）；再无回声 → 两户一起不动；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "บริษัท เอเบิลลิ้งค์(ประเทศไทย) จำกัด ABLELINK(THAILAND) COMPANY LIMITED（เลขทะเบียน 0105561132341；注册资本 ฿1,000,000；股东权益 ฿1,553,464；3 名泰籍股东；与 SB-614 Focomm 同址同构）",
+"founded": "2018-08-03（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（双牌照小分销）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT 网络 / 安防分销（泰国）"
@@ -324048,8 +324119,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 clouditnetwork.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"hq": "51/1 Mongkhon Niwet Village, Soi Ngamwongwan 48, Lat Yao, Chatuchak, Bangkok 10900（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 clouditnetwork.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：15 年 VoIP 方案商（已从佛山进口 IP PBX）、Simon「可以尝试多跟进」→ **分销 20% B small，一页纸一次（IP 话机配套 PoE STC-028GP / 2216GP / 2224GP + STC-4424GCPM VLAN；预付）**（收 sales@）；再无回声 → 不动；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "บริษัท คลาวด์ ไอที เน็ทเวิร์ค จำกัด CLOUD IT NETWORK CO., LTD.（เลขทะเบียน 0125554018059；注册资本 ฿1,000,000；股东权益 ฿1,880,014；3 名泰籍股东；财报 2563–2567 连续）",
+"founded": "2011-09-29（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "VoIP / 云方案（LVswitch、Grandstream）"
@@ -324785,8 +324859,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 focomm-cabling.com，语言 th，快照状态 ok；角色判定来源：官网文案"
+"hq": "12 Soi Sukhaphiban 5 Soi 5 Yaek 3, Tha Raeng, Bang Khen, Bangkok（与 SB-609 Ablelink 同址）（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 focomm-cabling.com，语言 th，快照状态 ok；角色判定来源：官网文案；第 117 批：与 SB-609 Ablelink (Thailand) 同址同构 → **并线 → SB-609，本户不另发**；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "บริษัท โฟคอมม์ (ประเทศไทย) จำกัด FOCOMM (THAILAND) COMPANY LIMITED（เลขทะเบียน 0105559051071；注册资本 ฿1,000,000；3 名泰籍股东；网站 focomm-cabling.com 登记页核到）",
+"founded": "2016-03-24（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光缆 / 铜缆 / 机柜分销",
@@ -340013,8 +340090,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 hstn.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"hq": "17/14 Moo 6, Phutthamonthon Sai 5 Rd., Bang Krathuek, Sam Phran, Nakhon Pathom 73210（02-889-4701）（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 hstn.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：酒店 / 医院 IPTV / SMATV / FTTx / CCTV 集成商（在用 Cisco 智能交换机）、无具名 KP → **集成商 25% B small，一页纸一次**（收 info@，抄 rungruengh@ / khomkits@）；再无回声 → 不动；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด HIGH SOLUTION OF TECHNOLOGY NETWORK CO., LTD.（HSTN；เลขทะเบียน 0105552017802；注册资本 ฿5,140,000；9 名泰籍股东）",
+"founded": "2009-02-20（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络基础设施 / 酒店 IPTV / MATV / CCTV 集成（泰国）"
@@ -394402,8 +394482,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 ifocusshop.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"hq": "149/237 9th Fl., Moo 9, Chonburi（芭提雅；门牌后段未取）（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 ifocusshop.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：地方 CCTV 安装店（Hikvision / Dahua 经销点，原厂 PoE 随摄像机走）+ hotmail + 无 KP + 9×0 → **不动（B 保留）**；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "บริษัท โฟกัส ซิสเต็ม แอนด์ ดีไซน์ จำกัด FOCUS SYSTEM AND DESIGN COMPANY LIMITED（iFocus；เลขทะเบียน 0205549023031；注册资本 ฿3,000,000）",
+"founded": "2006-08-24（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV 设计 / 安装 / 维护（芭提雅、春武里）",
@@ -417653,7 +417736,8 @@
 "title": "Managing Director",
 "email": "saleem.a@magnusgulf.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Managing Director（研究档；Magnus Infotech Trading LLC）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、其品牌组合价格空档 = 价值档 PoE STC 阶梯 + Marvell 管理 STC-4424GCPM + 工业 STI-288DGGPM、中性包装、MOQ 1、付费样机、DAP 迪拜— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Vishnu Nagaraj",
@@ -417671,8 +417755,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "阿联酋",
-"other": "官网 magnusgulf.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai, Dubai, UAE（+971 4 874 7373）（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 magnusgulf.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 117 批：B2B IT 增值分销（Cisco / Aruba / Ubiquiti / Netgear / D-Link / Teltonika / Vivotek；面向中东经销商与 SI），总经理为 KP → **分销 20% B（升 A 候选），一页纸一次（预付）**；回信 → 加厚 + 升 A；部分坐实（官网法定名 + 地址）（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "Magnus Infotech Trading LLC（Magnus Gulf；牌照号 1 查未得）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT 产品分销（网络 / 安防 / 无线）"
@@ -419201,8 +419288,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 pctelecom.co.th，语言 th，快照状态 ok；角色判定来源：用户表"
+"hq": "100/215 Soi Kanchanaphisek 005, Lak Song, Bang Khae, Bangkok 10160（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 pctelecom.co.th，语言 th，快照状态 ok；角色判定来源：用户表；第 117 批：30 年 CCTV / PBX 布线安装商、已用深圳 Utepo，但 31×0 + 无 KP → **不动（B 保留；来询按集成商 25% 预付）**；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "บริษัท พี.ซี. เทเลคอม จำกัด P.C. TELECOM CO., LTD.（เลขทะเบียน 0105539072803；注册资本 ฿10,000,000；网站登记页核到）",
+"founded": "1996-07-01（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV 销售与安装（LG / Axis / Utepo）"
@@ -420130,14 +420220,16 @@
 "title": "Purchasing Manager",
 "email": "sales@riverplus.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Purchasing Manager（研究档 Jiraporn Teeramasvanich；เลขทะเบียน 0125548003398）= 收件人 — 一页纸一次：分销 20% B（升 A 候选）、对位其工业 LAN 交换机线的 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + CCTV PoE STC-2216GP / 2224GP、3 年保、付费样机、串口 / 路由不做— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Prapapim Phetnoi",
 "title": "System Engineer",
 "email": "prapapim@riverplus.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "System Engineer = 抄送（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -420148,8 +420240,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 riverplus.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"hq": "85/120-121 Moo 3, Bang Kruai-Sai Noi Rd., Bang Rak Phatthana, Bang Bua Thong, Nonthaburi 11110（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 riverplus.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：TSIC 46521；2005 年起工业 4.0 / IoT 进口分销（工业 5G/4G 路由网关 + 交换机 + CCTV PoE 方案），采购经理为 KP → **分销 20% B（升 A 候选），一页纸一次**；回信 → 加厚 + 升 A；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "บริษัท ริเวอร์พลัส จำกัด RIVERPLUS COMPANY LIMITED（เลขทะเบียน 0125548003398；旧号 0127354803391；注册资本 ฿5,000,000；股东权益 ฿141,848,531；6 名泰籍股东；财报 2564–2568 连续）",
+"founded": "2005-03-14（第 117 批 官方登记核实 2026-10-28）",
+"size": "中小（权益 ฿141.8M ≈ $4.2M）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业 IoT / 蜂窝路由 / 工业交换机分销（Teltonika / Milesight）"
@@ -431283,14 +431378,16 @@
 "title": "（姓氏/职务待核）",
 "email": "kennedy@alston-systems.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（姓氏 / 职务待核；自有品牌 Alston）= 收件人 — 一页纸一次（最后一次）：贴标 OEM 30% B、Alston 标 / 中性包装 STC 阶梯 + STC-4424GCPM + MC STC-110XGE、SFP 模块不做、付费样机— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Ross",
 "title": "（姓氏/职务待核）",
 "email": "purchase@alston-systems.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "采购箱（Ross）= 抄送（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -431301,8 +431398,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "阿联酋",
-"other": "官网 alston-systems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "801 Reef Tower, Jumeirah Lake Towers, P.O. Box 62201, Dubai, UAE（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 alston-systems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 117 批：自有品牌 ICT / 安防 / 节能产品商（铜缆 / 光缆 / 有源 / 电源 / CCTV / LED），自称制造商 → **贴标 OEM 30% B，一页纸一次（最后一次；预付）**；16×0 在先 → 再无回声即不动；部分坐实（官网 contact）（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "Alston Systems Inc.（迪拜 JLT；美国法人 Alston Systems LLC, Delaware（注册代理地址）；阿联酋牌照号 1 查未得）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "铜缆 / 光纤布线系统（自有品牌 Alston）",
@@ -431744,7 +431844,8 @@
 "title": "Chief Executive Officer",
 "email": "sale@bismon.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Chief Executive Officer（研究档；自有品牌 Bismon；เลขทะเบียน 0105546131011）= 拍板人 / 收件人（发 sale@，抬头 Attn: Mr. Anek Thongdee, CEO）— 一页纸一次（最后一次）：贴标 OEM 30% B、Bismon 标 / 自编货号 / 中性包装 STC 阶梯 + STI-154GP / 288DGGPM、MC 只有 STC-110XGE、付费样机— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -431755,8 +431856,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 bismon.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+"hq": "298 Moo 1, O Ngoen, Sai Mai, Bangkok 10220（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 bismon.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 117 批：登记业务 进口 / 销售计算机设备 + 网络布设；自有品牌 Bismon 与 Saga 产品线相似（= 外购贴牌）；Simon「可以尝试多跟进」→ **贴标 OEM 30% B，一页纸一次（最后一次）**；16×0 在先 → 再无回声即不动；坐实（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "บริษัท บิสม่อน จำกัด BISMON COMPANY LIMITED（เลขทะเบียน 0105546131011；注册资本 ฿20,000,000；营业中）",
+"founded": "2003-10-29（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（23 年进口商）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络产品（自有品牌 Bismon，泰国）"
@@ -434873,11 +434977,11 @@
 "level": "B 级加厚 v1（官网快照核对）"
 },
 "company_facts": {
-"legal_name": "Osool Communications & Technical Systems",
-"founded": "（待核）",
-"hq": "Ras Al Khaimah, UAE",
-"size": "小型集成商",
-"other": ""
+"legal_name": "Osool Communications & Technical Systems（RAK；protenders 分包商；牌照号 1 查未得）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+"hq": "Villa Y1 Al Hamra near Al Jazeera Port, Ras Al Khaimah, UAE（+971 7 244 4355；手机 +971 50 686 8944 = Hossam Ayyad）（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（第 117 批 官方登记核实 2026-10-28）",
+"other": "第 117 批：机电 + 弱电分包；需求曾具体（2 光 8 电工业网管 PoE = STI-288DGGPM）但 WA 23×0 → **不动（B 保留；来询即报 STI-288DGGPM $137 预付）**；部分坐实（官网）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "监控 / 弱电集成",
@@ -435762,7 +435866,8 @@
 "title": "Director",
 "email": "nibu@sevenstarsuae.com",
 "phone": "+971 50 441 0530",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "表内「Director」；ZoomInfo = Seven Stars Auto Spare Parts 的 Client Relations Associate（2021 起）→ 身份待核 — 不动，不发（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -435773,11 +435878,11 @@
 "level": "B 级加厚 v1（官网快照：行业相关性低）"
 },
 "company_facts": {
-"legal_name": "Seven Stars Group",
-"founded": "",
-"hq": "UAE",
-"size": "多元集团（IT 为副业）",
-"other": ""
+"legal_name": "Seven Stars（阿布扎比多元集团：Rent A Car / Auto Garage / Auto Spare Parts / Technology / Five Stars 运输 / 校车；集团多牌照，1 查未得）",
+"founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+"hq": "Corporate Office: Nice Karak Refreshment Bldg, Hamdan Street, Abu Dhabi, UAE（第 117 批 官方登记核实 2026-10-28）",
+"size": "中小（集团）（第 117 批 官方登记核实 2026-10-28）",
+"other": "第 117 批：非目标行业（汽车 / 运输集团，IT 为旁支）+ KP 身份不符 + WA 23×0 → **不动（B 保留）**；部分坐实（官网）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT 方案 / CCTV（副业）",
@@ -438916,11 +439021,11 @@
 "level": "B 级加厚 v1（官网快照核对）"
 },
 "company_facts": {
-"legal_name": "Al Shuaib Control Equipments L.L.C",
-"founded": "（待核）",
-"hq": "Ras Al Khaimah, UAE",
-"size": "小型集成商",
-"other": ""
+"legal_name": "AL SHUAIB CONTROL EQUIPMENT L.L.C.（alshuaibelectronics.com；CP Plus CCTV 经销；牌照号 1 查未得）",
+"founded": "2005（第 117 批 官方登记核实 2026-10-28）",
+"hq": "P.O. Box 30453, Near Central Post Office, Ras Al Khaimah, UAE（第 117 批 官方登记核实 2026-10-28）",
+"size": "微型（第 117 批 官方登记核实 2026-10-28）",
+"other": "第 117 批：RAK 弱电集成（CCTV / 布线 / BMS / IPTV）；主需求 HDMI 延长器（Saga 无）+ WA 22×0 → **不动（B 保留；工业 FS 来询再报 STI 线预付）**；部分坐实（名录）（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV / 门禁 / BMS 集成",
@@ -447808,8 +447913,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "泰国",
-"other": "官网 omctech.com，语言 ?，快照状态 ok；角色判定来源：待核"
+"hq": "99/349 Chaeng Watthana Rd., Thung Song Hong, Lak Si, Bangkok 10210（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 omctech.com，语言 ?，快照状态 ok；角色判定来源：待核；第 117 批：视频光端机 / 转换器 为主「基本没有 switch」（Saga 仅 STC-110XGE 一款 MC）+ 无 KP + 9×0 → **不动（B 保留）**（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "OMC Tech（最接近法人 บริษัท โอเอ็มซีเทค จำกัด OMC TECH COMPANY LIMITED เลขทะเบียน 0105559034613；注册资本 ฿4,000,000；3 名泰籍股东；登记业务 电气材料 ≠ 站内光端机 → 部分坐实）",
+"founded": "2016-02-26（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频光端机 / MC（泰国）"
@@ -462502,14 +462610,16 @@
 "title": "Sales Director",
 "email": "dipesh.p@acixme.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Sales Director（研究档；安防渠道 VAD，Oud Metha）= 收件人 — 一页纸一次：分销 20% B、安装商渠道 CCTV / 门禁 PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM、MOQ 1、付费样机、DAP 迪拜— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Akkeef P",
 "title": "Operations Executive",
 "email": "sales@acixme.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Operations Executive（Akkeef P）= 抄送（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -462520,8 +462630,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "沙特阿拉伯",
-"other": "官网 acixme.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+"hq": "#217 Business Venue Building, Oud Metha, Dubai, UAE (P.O. Box 28474)（第 117 批 官方登记核实 2026-10-28）",
+"other": "官网 acixme.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 117 批：IT 与安防产品增值分销 / 供应商（门禁 / 考勤 / IP CCTV / VMS；面向经销商 / SI / 安装商；2026-05 新闻稿活跃；Utepo 在供）→ **分销 20% B，一页纸一次（预付）**；回信 → 加厚；部分坐实（名录 + 新闻稿）（第 117 批 官方登记核实 2026-10-28）",
+"legal_name": "ACIX Middle East（acixme.com；牌照号 1 查未得；表内误记沙特 → 迪拜）",
+"founded": "约 2010（「15 年+」）（第 117 批 官方登记核实 2026-10-28）",
+"size": "小型（第 117 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "门禁 / LPR / 停车 / 安防方案（阿联酋）"

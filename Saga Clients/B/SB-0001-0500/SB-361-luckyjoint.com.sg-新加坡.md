@@ -72,6 +72,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 117 批（SG · 1 次检索：sg.ltddir（LUCKY JOINT CONSTRUCTION PTE. LTD.；UEN 198200882E；Local Company；Live Company；17 TUAS AVENUE 3, Singapore 639414；SSIC 42202 COMMUNICATIONS AND POWER LINE CONSTRUCTION (MANHOLE CONSTRUCTION, PIPE LAYING, CABLE INSTALLATION AND TERMINATION)；43909 (NETWORK INFRASTRUCTURE, FTTX SOLUTIONS, HOME NETWORK & SECURITY SYS INSTALLATION)）+ companies.sg（incorporated 08 Mar 1982；Exempt Private Company Limited by Shares；paid-up capital SGD 2,000,000；bizSAFE Star E03654 approved to 2028-01-20）+ crunchbase（251-500；telecommunication network design and construction；24/7 maintenance）；2026-10-28，2026-10-28 查；https://www.companies.sg/business/198200882E/LUCKY-JOINT-CONSTRUCTION-PTE-LTD-）：**
+
+- 法定名 / 登记号：Lucky Joint Construction Pte. Ltd.（luckyjoint.com.sg；**UEN 198200882E；注册 1982-03-08；Exempt Private Company Limited By Shares；Live；实缴资本 S$2,000,000；bizSAFE Star（至 2028-01-20）**；17 Tuas Avenue 3, Singapore 639414；SSIC 42202 通信 / 电力线路建设（人孔 / 管道 / 布缆 / 端接）+ 43909 网络基础设施 / FTTx / 家庭网络与安防安装）— **独立电信网络设计、建设与 7×24 维护承包商；251–500 人（Crunchbase）**；表内「PoE switch / PoE 网口能传 250m 吗」「可以多跟进一下」；KP Jackson Ho（Senior Manager, Network Engineering）/ Kee Ching Hai；8 次跟进无回复 · UEN 198200882E · 状态 **Live Company（bizSAFE Star）** · 成立 1982-03-08 · Exempt Private Company Limited By Shares
+- 行业码 / 经营范围：42202 通信 / 电力线路建设；43909 网络基础设施 / FTTx / 安防安装
+- 注册地址：17 Tuas Avenue 3, Singapore 639414
+- 规模档：中型（251–500 人）
+- 账目：实缴资本 S$2,000,000；—
+- 高管：Jackson Ho — Senior Manager (Network Engineering)（研究档 KP；robin@luckyjoint.com.sg）= 收件人
+- 高管：Kee Ching Hai — 研究档联系人（sales@luckyjoint.com.sg）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **44 年电信网络承包商（251–500 人、实缴 S$2M）、问过「PoE 能传 250 m 吗」→ 集成商 25% B（升 A 候选），一页纸一次（切口：直接答 250 m：STC-028GP / STC-228GP 的延长模式 250 m（10 Mbps）+ 标准 100 m 千兆 + 项目量管理机 STC-4424GCPM 一口价 + 付费样机；opener 引其 250 m 之问；英文，Jackson 直呼、抄 Kee）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；回信 → 加厚 + 升 A
+  - 守界：电力线路工程部分不碰；IMDA 不声称
+- 备注：集成商 25%（升 A 候选）；一页纸一次（回声再加厚）；坐实（UEN + 注册日 + 类型 + 实缴 + 地址 + SSIC + bizSAFE）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,16 +129,18 @@ updated: 2026-10-28
 - **【用户表】PoE 网口能传 250m 吗**
   > POE switch POE网口能传250m吗；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jackson Ho（）robin@luckyjoint.com.sg 〔用户表〕
-- **KP**：Kee Ching Hai（）sales@luckyjoint.com.sg 〔用户表〕
+- **KP**：Jackson Ho（Senior Manager, Network Engineering（研究档；问过「PoE 能传 250 m 吗」）= 收件人 — 一页纸一次：集成商 25% B（升 A 候选）、答 250 m = STC-028GP / 228GP 延长模式 250 m（10 Mbps）+ 标准 100 m 千兆 + 项目量 STC-4424GCPM、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））robin@luckyjoint.com.sg 〔用户表〕
+- **KP**：Kee Ching Hai（研究档联系人（Kee Ching Hai）= 抄送（第 117 批 官方登记核实 2026-10-28））sales@luckyjoint.com.sg 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 luckyjoint.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | LUCKY JOINT CONSTRUCTION PTE. LTD.（UEN 198200882E；Exempt Private Company Limited By Shares；Live；实缴 S$2,000,000；bizSAFE Star 至 2028-01-20） |
+| 成立 | 1982-03-08（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 17 Tuas Avenue 3, Singapore 639414（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 luckyjoint.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 117 批：SSIC 42202 通信 / 电力线路建设 + 43909 网络基础设施 / FTTx；44 年电信网络承包商；Simon「可以多跟进」→ **集成商 25% B（升 A 候选），一页纸一次**；回信 → 加厚 + 升 A；坐实（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信网络设计 / 建设 / 维护（新加坡）
 - **触达通道（公开）**：role: 电信网络工程商（新加坡，PoE 长距需求）；region: 新加坡；contact: sales@luckyjoint.com.sg、robin@luckyjoint.com.sg
@@ -217,8 +234,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jackson Ho | — | robin@luckyjoint.com.sg | 调研核实（公开页） | 用户表 |
-| Kee Ching Hai | — | sales@luckyjoint.com.sg | 调研核实（公开页） | 用户表 |
+| Jackson Ho | Senior Manager, Network Engineering（研究档；问过「PoE 能传 250 m 吗」）= 收件人 — 一页纸一次：集成商 25% B（升 A 候选）、答 250 m = STC-028GP / 228GP 延长模式 250 m（10 Mbps）+ 标准 100 m 千兆 + 项目量 STC-4424GCPM、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28） | robin@luckyjoint.com.sg | 调研核实（公开页） | 用户表 |
+| Kee Ching Hai | 研究档联系人（Kee Ching Hai）= 抄送（第 117 批 官方登记核实 2026-10-28） | sales@luckyjoint.com.sg | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

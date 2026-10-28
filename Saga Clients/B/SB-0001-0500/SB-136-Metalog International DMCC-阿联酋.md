@@ -74,6 +74,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 117 批（AE · 1 次检索：rocketreach（Pankaj Sharma；Assistant Marketing Manager @ Metalog International DMCC；January 2015 – Present；Dubai；+971 4 886 XXXX / +971 55 791 XXXX）+ signalhire（Metalog International DMCC operates in the Energy industries；offices Dubai）+ rocketreach（Jaideep Paul；Director @ Metalog International DMCC；Stephen Uma-Oji Technical Sales Engineer, Port Harcourt NG）；牌照号未得；2026-10-28，2026-10-28 查；https://www.signalhire.com/companies/metalog-international-dmcc）：**
+
+- 法定名 / 登记号：Metalog International DMCC（metalogint.com；**DMCC 自贸区（JLT）注册公司；+971 4 886 xxxx；行业 = 能源（油气供应链；尼日利亚 Port Harcourt 有技术销售工程师）；牌照号未得 → 部分坐实**）— **表内 KP Pankaj Sharma = Assistant Marketing Manager（2015 起；非拍板）；Director Jaideep Paul**；询盘表来源、无具体兴趣；WA 无实质回复 · 未取（DMCC 注册；牌照号 1 查未得） · 状态 **营业中（企业库在）** · 成立 未取 · DMCC（自贸区公司）
+- 行业码 / 经营范围：能源 / 油气供应链 贸易（JLT；非目标行业）
+- 注册地址：DMCC, Jumeirah Lake Towers, Dubai, UAE（门牌未取）
+- 规模档：小型
+- 账目：未取；—
+- 高管：Pankaj Sharma — Assistant Marketing Manager（研究档 KP；pankaj@metalogint.com；+971 55 791 7244）— 非拍板
+- 高管：Jaideep Paul — Director（rocketreach）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **非目标行业（油气供应链贸易）+ KP 非拍板 + 无具体兴趣 → 不动（B 保留）**
+- 备注：不动（非目标行业）；部分坐实（企业库：DMCC 法定后缀 + 职务；牌照号 / 地址未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -99,16 +113,18 @@ updated: 2026-10-28
 - **【用户表】询盘统计表来源，无兴趣描述**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Pankaj Sharma（）pankaj@metalogint.com +971 55 791 7244〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Pankaj Sharma（Assistant Marketing Manager（rocketreach；2015 起）— 非拍板；不动，不发（第 117 批 官方登记核实 2026-10-28））pankaj@metalogint.com +971 55 791 7244〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jaideep Paul（Director（rocketreach）— 不动，不发（第 117 批 官方登记核实 2026-10-28）） 〔rocketreach.co Metalog International DMCC〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Metalog International DMCC |
-| 总部/地址 | Dubai (DMCC), UAE |
-| 其他 | 行业相关性待核 |
+| 法定名称 | Metalog International DMCC（DMCC 自贸区公司；行业 能源 / 油气供应链；尼日利亚 Port Harcourt 技术销售；牌照号 1 查未得） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | DMCC, Jumeirah Lake Towers, Dubai, UAE（门牌未取；+971 4 886 xxxx）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 行业相关性待核；第 117 批：非目标行业（油气供应链贸易）+ KP 非拍板 + 无具体兴趣 → **不动（B 保留）**；部分坐实（企业库）（第 117 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：role: 贸易商；region: 阿联酋
 - **风险/边界**：无需求描述；行业可能无关
@@ -162,7 +178,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pankaj Sharma | — | pankaj@metalogint.com / +971 55 791 7244 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Pankaj Sharma | Assistant Marketing Manager（rocketreach；2015 起）— 非拍板；不动，不发（第 117 批 官方登记核实 2026-10-28） | pankaj@metalogint.com / +971 55 791 7244 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Jaideep Paul | Director（rocketreach）— 不动，不发（第 117 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | rocketreach.co Metalog International DMCC |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

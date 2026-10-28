@@ -100,6 +100,21 @@ updated: 2026-10-28
 - 【宗教】03-09→03-12：开斋节（Eid al-Fitr / Ramazan Bayramı，估算）：3–4 天全停
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 117 批（AE · 1 次检索：aiwa.ae（Acix Middle East；217, Business Venue Building, Oud Metha, Dubai；PO Box 28474；Value added distributor and supplier for IT & security products；resellers, system integrators, installers）+ openpr 2026-05-26（ACIX Middle East … over fifteen years；#217, Business Venue Building, Oud Metha；www.acixme.com）；牌照号未得；2026-10-28，2026-10-28 查；https://aiwa.ae/company/acix-middleeast）：**
+
+- 法定名 / 登记号：ACIX Middle East（acixme.com；**#217 Business Venue Building, Oud Metha, Dubai, P.O. Box 28474；牌照号 1 查未得 → 部分坐实**；表内国别误记沙特 → 实为迪拜）— **IT 与安防产品增值分销 / 供应商（面向经销商 / 集成商 / 安装商：门禁 / 考勤 / IP CCTV / VMS / 存储；15 年+；2026-05 新闻稿仍活跃；Utepo 在供）**；KP Dipesh Patel（Sales Director）/ Akkeef P（Operations Executive）；2 次跟进无回复 · 未取（AE 牌照号 1 查未得） · 状态 **营业中（2026-05 新闻稿）** · 成立 约 2010（「15 年+」） · 未取（迪拜本土公司推定）
+- 行业码 / 经营范围：IT / 安防产品 增值分销（门禁 / 考勤 / CCTV；Oud Metha）
+- 注册地址：#217 Business Venue Building, Oud Metha, Dubai, UAE (P.O. Box 28474)
+- 规模档：小型
+- 账目：未取；—
+- 高管：Dipesh Patel — Sales Director（研究档 KP；dipesh.p@acixme.com）= 收件人
+- 高管：Akkeef P — Operations Executive（研究档 KP；sales@acixme.com）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安防渠道增值分销商（已进深圳 Utepo）、销售总监为 KP、只跟过 2 次 → 分销 20% B，一页纸一次（切口：给安装商渠道的 CCTV / 门禁 PoE 阶梯 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + 管理机 STC-4424GCPM 一口价 + MOQ 1 + 付费样机 + DAP 迪拜；英文，Dipesh 直呼、抄 sales@）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；回信 → 加厚
+  - 守界：牌照未核 → 预付 100%；不点名 Utepo；国别修正 沙特 → 阿联酋（research 已 AE）
+- 备注：分销 20%；一页纸一次（预付）；部分坐实（名录 + 新闻稿：地址 + P.O. Box；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -143,16 +158,18 @@ updated: 2026-10-28
 - **【用户表】有 Utepo 的 主要是 CCTV**
   > 有Utepo的 / 主要是CCTV
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Dipesh Patel（）dipesh.p@acixme.com 〔用户表〕
-- **KP**：Akkeef P（）sales@acixme.com 〔用户表〕
+- **KP**：Dipesh Patel（Sales Director（研究档；安防渠道 VAD，Oud Metha）= 收件人 — 一页纸一次：分销 20% B、安装商渠道 CCTV / 门禁 PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM、MOQ 1、付费样机、DAP 迪拜— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））dipesh.p@acixme.com 〔用户表〕
+- **KP**：Akkeef P（Operations Executive（Akkeef P）= 抄送（第 117 批 官方登记核实 2026-10-28））sales@acixme.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 沙特阿拉伯 |
-| 其他 | 官网 acixme.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | ACIX Middle East（acixme.com；牌照号 1 查未得；表内误记沙特 → 迪拜） |
+| 成立 | 约 2010（「15 年+」）（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | #217 Business Venue Building, Oud Metha, Dubai, UAE (P.O. Box 28474)（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 acixme.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 117 批：IT 与安防产品增值分销 / 供应商（门禁 / 考勤 / IP CCTV / VMS；面向经销商 / SI / 安装商；2026-05 新闻稿活跃；Utepo 在供）→ **分销 20% B，一页纸一次（预付）**；回信 → 加厚；部分坐实（名录 + 新闻稿）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：门禁 / LPR / 停车 / 安防方案（阿联酋）
 - **触达通道（公开）**：role: 门禁/安防集成商（阿联酋，Utepo 在用）；region: 阿联酋；contact: sales@acixme.com、dipesh.p@acixme.com
@@ -248,8 +265,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Dipesh Patel | — | dipesh.p@acixme.com | 调研核实（公开页） | 用户表 |
-| Akkeef P | — | sales@acixme.com | 调研核实（公开页） | 用户表 |
+| Dipesh Patel | Sales Director（研究档；安防渠道 VAD，Oud Metha）= 收件人 — 一页纸一次：分销 20% B、安装商渠道 CCTV / 门禁 PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM、MOQ 1、付费样机、DAP 迪拜— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28） | dipesh.p@acixme.com | 调研核实（公开页） | 用户表 |
+| Akkeef P | Operations Executive（Akkeef P）= 抄送（第 117 批 官方登记核实 2026-10-28） | sales@acixme.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

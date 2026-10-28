@@ -87,6 +87,20 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 117 批（SG · 1 次检索：recordowl（3TEL INTERNATIONAL PTE. LTD.；Registration Number 201325873K；15 YISHUN INDUSTRIAL STREET 1 #01-17 WIN 5 SINGAPORE 768091；Live Company；+65 6583 1334；incorporated 24 September 2013；3 officers / owners / shareholders；latest annual return 30 September 2025）+ sg.ltddir（UEN Issue Date 2013-09-25；SSIC 61012 MOBILE CELLULAR AND OTHER WIRELESS TELECOMMUNICATIONS NETWORK OPERATION (TELECOMMUNICATION, DATA NETWORK & FIBER OPTICS SERVICE PROVIDER (TURNKEY))；43210 ELECTRICAL WORKS；同名 3TEL SOLAR & ENERGY PTE. LTD.）+ zoominfo（established 2013；revenue <$5 Million；ISO45000）；2026-10-28，2026-10-28 查；https://recordowl.com/company/3tel-international-pte-ltd）：**
+
+- 法定名 / 登记号：3Tel International Pte. Ltd.（3tel.com.sg；**UEN 201325873K；注册 2013-09-24；Local Company；Live；3 名高管 / 股东；年报 2025-09-30 已报**；15 Yishun Industrial Street 1 #01-17 Win 5, Singapore 768091（ZoomInfo 旧址 9 Yishun Industrial Street 1 #04-77）；电话 +65 6583 1334；SSIC 61012 电信 / 数据网络 / 光纤服务（turnkey）+ 43210 电气工程；ISO 45001）— **安防（Hikvision）/ 电信 / 网络 / 线缆产品供应 + 工程；站内 Utepo（深圳优特普）PoE 在供、工业 8 口 PoE / L3 管理 PoE 页面**；营收 <$5M；KP Elvin Tan（Co-founder & Director）；15 次跟进无回复 · UEN 201325873K · 状态 **Live Company（年报 2025-09-30）** · 成立 2013-09-24 · Pte. Ltd.（Local Company）
+- 行业码 / 经营范围：61012 电信 / 数据网络 / 光纤 turnkey；43210 电气工程（安防 / 网络产品供应 + 工程）
+- 注册地址：15 Yishun Industrial Street 1 #01-17 Win 5, Singapore 768091
+- 规模档：小型（3 名高管）
+- 账目：年报 2025-09-30 已报（数字未取）；—
+- 高管：Elvin Tan — Co-founder & Director（研究档 KP；elvin.tan@3tel.com.sg）= 拍板人 / 收件人
+- 控制人 / 股东：3 名股东（Elvin Tan 推定其一）
+- **这意味着什么：**
+  - **已从深圳进 Utepo PoE 的工程 + 供应商、联合创始人为 KP → 分销 20% B small，一页纸一次（切口：对位其 Utepo 页面的 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + 工业 8 口 STI-288DGGPM + L3 管理 STC-4424GCPM 一口价 + 付费样机；英文，Elvin 直呼）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；15 次 0 回复在先 → 再无回声即不动
+  - 守界：不点名 Utepo；IMDA 不声称；姊妹公司 3Tel Solar & Energy 不碰
+- 备注：分销 20% small；一页纸一次（最后一次）；坐实（UEN + 注册日 + 地址 + 高管数 + 年报 + SSIC）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $58 ← 「Z) Name (Z - A) Price (Low > High) Price (High > Low) View More UTP3-SW04-TP60 4 Channel PoE Switch, 2 Uplink Ports $58」（https://www.3tel.com.sg/utepo-switches-and-acs/poe-switches）
@@ -137,15 +151,17 @@ updated: 2026-10-28
 - **【用户表】工商业 FS 有 Utepo 的**
   > 工商业FS 有Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Elvin Tan（）elvin.tan@3tel.com.sg 〔用户表〕
+- **KP**：Elvin Tan（Co-founder & Director（3 名高管之一；UEN 201325873K）= 拍板人 / 收件人 — 一页纸一次（最后一次）：分销 20% B small、对位其 Utepo 页的 STC 阶梯 + STI-288DGGPM + STC-4424GCPM、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））elvin.tan@3tel.com.sg 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 3tel.com.sg，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | 3TEL INTERNATIONAL PTE. LTD.（UEN 201325873K；Local Company；Live；年报 2025-09-30） |
+| 成立 | 2013-09-24（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 15 Yishun Industrial Street 1 #01-17 Win 5, Singapore 768091（+65 6583 1334）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 3tel.com.sg，语言 en，快照状态 ok；角色判定来源：官网文案；第 117 批：SSIC 61012 电信 / 光纤 turnkey + 43210 电气工程；安防 + 网络供应与工程，站内 Utepo PoE 在供 → **分销 20% B small，一页纸一次（最后一次）**；15×0 在先 → 再无回声即不动；坐实（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 电信 / 网络产品供应（新加坡）
 
@@ -256,7 +272,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Elvin Tan | — | elvin.tan@3tel.com.sg | 调研核实（公开页） | 用户表 |
+| Elvin Tan | Co-founder & Director（3 名高管之一；UEN 201325873K）= 拍板人 / 收件人 — 一页纸一次（最后一次）：分销 20% B small、对位其 Utepo 页的 STC 阶梯 + STI-288DGGPM + STC-4424GCPM、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28） | elvin.tan@3tel.com.sg | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（AE · 1 次检索：magnusgulf.com 博客页脚（Magnus Infotech Trading LLC；Al Tawhidi Building II - M4 - Al Mankhool Rd - Dubai；+971 4 874 7373；authorized distributor … B2B IT distribution company … bridge between global tech vendors and regional resellers or system integrators；Networking & Wireless, Security Surveillance, Unified Communication, Server & Storage）；牌照号未得；2026-10-28，2026-10-28 查；https://magnusgulf.com/what-is-a-network-access-controller-nac/）：**
+
+- 法定名 / 登记号：Magnus Gulf = Magnus Infotech Trading LLC（magnusgulf.com；**Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai；+971 4 874 7373；牌照号未得 → 部分坐实**）— **B2B IT 增值分销（Cisco / Aruba / Ubiquiti / Netgear / D-Link / Teltonika / Vivotek；网络无线 / 安防 / UC / 服务器存储 / 网络安全；面向中东经销商与集成商；页面「PoE switch supplier in the UAE」）**；KP Saleem Shaikh（Managing Director）/ Vishnu Nagaraj（Product Specialist） · 未取（LLC；牌照号 1 查未得） · 状态 **营业中（官网 2026-04 更新）** · 成立 未取 · LLC（Magnus Infotech Trading LLC）
+- 行业码 / 经营范围：IT 增值分销（网络 / 安防 / UC；Bur Dubai）
+- 注册地址：Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai, Dubai, UAE
+- 规模档：小型
+- 账目：未取；—
+- 高管：Saleem Shaikh — Managing Director（研究档 KP；saleem.a@magnusgulf.com）= 拍板人 / 收件人
+- 高管：Vishnu Nagaraj — Product Specialist（研究档 KP；vishnu.n@magnusgulf.com）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **真·多品牌增值分销商、总经理为 KP → 分销 20% B（升 A 候选），一页纸一次（切口：其品牌组合里的价格空档 = 价值档 PoE STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + Marvell 管理 STC-4424GCPM + 工业 STI-288DGGPM 一口价 + 中性包装 + MOQ 1 + 付费样机 + DAP 迪拜；英文，Saleem 直呼、抄 Vishnu）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；回信 → 加厚 + 升 A
+  - 守界：不比 Cisco / Aruba；牌照未核 → 预付 100%
+- 备注：分销 20%（升 A 候选）；一页纸一次（回声再加厚）；部分坐实（官网法定名 + 地址 + 电话；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,7 +136,7 @@ updated: 2026-10-28
 - **【用户表】安防 networking，小有名气的牌子；分销商**
   > 安防 networking / 一些小有名气的牌子；分销商
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Saleem Shaikh（）saleem.a@magnusgulf.com 〔用户表〕
+- **KP**：Saleem Shaikh（Managing Director（研究档；Magnus Infotech Trading LLC）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、其品牌组合价格空档 = 价值档 PoE STC 阶梯 + Marvell 管理 STC-4424GCPM + 工业 STI-288DGGPM、中性包装、MOQ 1、付费样机、DAP 迪拜— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））saleem.a@magnusgulf.com 〔用户表〕
 - **KP**：Vishnu Nagaraj（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -129,8 +144,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 阿联酋 |
-| 其他 | 官网 magnusgulf.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Magnus Infotech Trading LLC（Magnus Gulf；牌照号 1 查未得） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai, Dubai, UAE（+971 4 874 7373）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 magnusgulf.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 117 批：B2B IT 增值分销（Cisco / Aruba / Ubiquiti / Netgear / D-Link / Teltonika / Vivotek；面向中东经销商与 SI），总经理为 KP → **分销 20% B（升 A 候选），一页纸一次（预付）**；回信 → 加厚 + 升 A；部分坐实（官网法定名 + 地址）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 产品分销（网络 / 安防 / 无线）
 
@@ -230,7 +247,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Saleem Shaikh | — | saleem.a@magnusgulf.com | 调研核实（公开页） | 用户表 |
+| Saleem Shaikh | Managing Director（研究档；Magnus Infotech Trading LLC）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、其品牌组合价格空档 = 价值档 PoE STC 阶梯 + Marvell 管理 STC-4424GCPM + 工业 STI-288DGGPM、中性包装、MOQ 1、付费样机、DAP 迪拜— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28） | saleem.a@magnusgulf.com | 调研核实（公开页） | 用户表 |
 | Vishnu Nagaraj | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发

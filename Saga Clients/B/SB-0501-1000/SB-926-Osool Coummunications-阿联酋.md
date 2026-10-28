@@ -83,6 +83,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（AE · 1 次检索：osoolct.com/contact-us（Osool Communications & Technical Systems；Villa Y1 Al Hamra near Al Jazeera Port, Ras Al Khaimah；+971 72 444 355；+971 50 686 8944；info@osoolct.com；MEP + ELV）+ protenders（OSOOL COMMUNICATIONS；sub-contractor；Villa 2, Al Riffa, Ras Al Khaimah）；牌照号未得；2026-10-28，2026-10-28 查；https://osoolct.com/contact-us/）：**
+
+- 法定名 / 登记号：Osool Communications & Technical Systems（osoolct.com；**Villa Y1 Al Hamra near Al Jazeera Port, Ras Al Khaimah；+971 7 244 4355；手机 +971 50 686 8944（= KP）；protenders 列为分包商（Villa 2, Al Riffa, RAK）；牌照号未得 → 部分坐实**）— RAK 机电 + 弱电分包（CCTV / 结构化布线 / SMATV / 电话 / 家庭自动化 / 消防报警 / 水暖；有项目页）；KP Hossam Ayyad；需求 2 光 8 电 工业网管千兆 PoE；WhatsApp 23 次跟进无实质回复 · 未取（牌照号 1 查未得） · 状态 **营业中（官网 + 项目页）** · 成立 未取 · 未取（RAK 本土公司推定）
+- 行业码 / 经营范围：机电 / 弱电 分包（RAK）
+- 注册地址：Villa Y1 Al Hamra near Al Jazeera Port, Ras Al Khaimah, UAE
+- 规模档：微型
+- 账目：未取；—
+- 高管：Hossam Ayyad — 负责人 / 项目（研究档 KP；info@osoolct.com；+971 50 686 8944）
+- 控制人 / 股东：Hossam Ayyad（推定）
+- **这意味着什么：**
+  - **需求曾具体（2 光 8 电工业网管 PoE = STI-288DGGPM）但 WA 23 次 0 实质 → 不动（B 保留；来询即报 STI-288DGGPM $137 预付）**
+- 备注：不动（23×0）；部分坐实（官网地址 + 电话吻合；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,9 +138,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Osool Communications & Technical Systems |
-| 成立 | （待核） |
-| 总部/地址 | Ras Al Khaimah, UAE |
+| 法定名称 | Osool Communications & Technical Systems（RAK；protenders 分包商；牌照号 1 查未得） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Villa Y1 Al Hamra near Al Jazeera Port, Ras Al Khaimah, UAE（+971 7 244 4355；手机 +971 50 686 8944 = Hossam Ayyad）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 第 117 批：机电 + 弱电分包；需求曾具体（2 光 8 电工业网管 PoE = STI-288DGGPM）但 WA 23×0 → **不动（B 保留；来询即报 STI-288DGGPM $137 预付）**；部分坐实（官网）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：监控 / 弱电集成；结构化布线 / 电话 / TV 系统
 - **触达通道（公开）**：role: 弱电集成商；region: 阿联酋北部酋长国

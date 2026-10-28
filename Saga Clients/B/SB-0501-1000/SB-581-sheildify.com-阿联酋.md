@@ -77,6 +77,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（AE · 1 次检索：townin.com（Sheildify Security Equipment Trading LLC；Khalifa BA Balila Building, 22B Street Abu Hail, Dubai, 39701；+971 58 554 2050；Established in 2020；Battery & UPS, Home Automation, Fire Safety, Medical, Lab Equipment, Smart Door Locks）+ sheildify.com 页脚 2025-07（Tanvi Building Office No 20, Ground Floor, Port Saeed, Deira Dubai；P.O. Box 118467）；牌照号未得；2026-10-28，2026-10-28 查；https://townin.com/Dubai/search/business/2264/Dubai/abu-hail/22b-street-abu-hail/sheildify-security-equipment-trading-llc）：**
+
+- 法定名 / 登记号：Sheildify Security Equipment Trading LLC（Shieldify；sheildify.com；**2020 年成立；Khalifa BA Balila Building, 22B Street, Abu Hail, Dubai（名录）/ Tanvi Building Office 20, Port Saeed, Deira, P.O. Box 118467（官网 2025）；+971 58 554 2050；牌照号未得 → 部分坐实**）— 迪拜安防 / 医疗 / 消防 / 电池 UPS 设备网店（Hikvision / Dahua / Ubiquiti / D-Link / TP-Link / Teltonika / Hanwha / ZKTeco；交换机页 Dahua PFS）；无 KP（sales@） · 未取（LLC；牌照号 1 查未得） · 状态 **营业中（官网 2025-07 更新）** · 成立 2020 · LLC（Security Equipment Trading）
+- 行业码 / 经营范围：安防 / 医疗 / 消防设备 网店（Deira）
+- 注册地址：Tanvi Building Office 20, Port Saeed, Deira, Dubai, UAE (P.O. Box 118467)
+- 规模档：微型
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@sheildify.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **2020 新设多品牌网店（原厂 PoE 随 CCTV 走）+ 无 KP → 不动（B 保留）**
+- 备注：不动（网店 + 无 KP）；部分坐实（法定名 + 成立年 + 地址 + P.O. Box；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,8 +126,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 阿联酋 |
-| 其他 | 官网 sheildify.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Sheildify Security Equipment Trading LLC（Shieldify；牌照号 1 查未得） |
+| 成立 | 2020（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Tanvi Building Office 20, Port Saeed, Deira, Dubai, UAE (P.O. Box 118467；名录旧址 Khalifa BA Balila Bldg, 22B St, Abu Hail；+971 58 554 2050)（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 sheildify.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 117 批：2020 新设安防 / 医疗 / 消防 / 电池 UPS 多品牌网店（原厂 PoE 随 CCTV 走）+ 无 KP → **不动（B 保留）**；部分坐实（名录 + 官网页脚）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 门禁 / 消防 / 医疗设备网店；数据网络方案（配套）
 

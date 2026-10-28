@@ -83,6 +83,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 117 批（SG · 1 次检索：sgpbusiness（AVANCA TECHNOLOGIES PTE. LTD.；UEN 200207710N；Private Company Limited by Shares；incorporated on 6 September 2002；23 NEW INDUSTRIAL ROAD #07-06/07 SOLSTICE BUSINESS CENTER SINGAPORE (536209)；+65-62425108；.SG Domains as Registrant avanca.com.sg）+ linkedin（Steven Fu；General Manager and Managing Director Avanca Technologies Pte Ltd Jan 2024 – Present；General Manager Jan 2022；Senior Sales Engineer May 2015；Industrial 4G/5G Router, Console managers, Network Switches, Edge Computing, Fieldbus, Serial, Modbus）+ callupcontact（industrial 4g modem, industrial router, network switch provider in Singapore）；2026-10-28，2026-10-28 查；https://www.sgpbusiness.com/company/Avanca-Technologies-Pte-Ltd）：**
+
+- 法定名 / 登记号：Avanca Technologies Pte. Ltd.（avanca.com.sg；**UEN 200207710N；注册 2002-09-06；Private Company Limited By Shares；Live**；23 New Industrial Road #07-06/07 Solstice Business Center, Singapore 536209；电话 +65 6242 5108；.SG 域名注册人）— **工业通信分销商：工业 4G / 5G 路由（R5020 / M1200）、工业管理 / 非管理交换机、PoE、光纤 MC（Red Lion N-Tron NT24K 在供）、控制台服务器 / 带外管理、串口服务器、Audio over IP**；**KP Steven Fu = General Manager & Managing Director（2024-01 起；在司 10 年）**；2025-11 对 10G MC 群发回复 info · UEN 200207710N · 状态 **Live Company** · 成立 2002-09-06 · Private Company Limited By Shares
+- 行业码 / 经营范围：工业通信 / 网络设备 分销（New Industrial Road）
+- 注册地址：23 New Industrial Road #07-06/07 Solstice Business Center, Singapore 536209
+- 规模档：小型（24 年）
+- 账目：未取；—
+- 高管：Steven Fu — General Manager & Managing Director（研究档 KP；steven@avanca.com.sg；+65 6242 5108）= 拍板人 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **24 年工业通信分销商、总经理本人回过 info → 分销 20% B（升 A 候选），一页纸一次（切口：对位其工业线的宽温 STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE + 10G MC STC-110XGE（他问过的）一口价 + 3 年保 + MOQ 1 + 付费样机；opener 引 2025-11 他的 info 回复；英文，Steven 直呼）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；回信 → 加厚 + 升 A
+  - 守界：不点名 Red Lion / N-Tron；路由 / 串口 / 带外明说不做；IMDA 不声称
+- 备注：分销 20%（升 A 候选）；一页纸一次（回声再加厚）；坐实（UEN + 注册日 + 类型 + 地址 + 域名注册人 + KP 职务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,7 +139,7 @@ updated: 2026-10-28
   > 兴趣：redlion的工业FS；回复：info
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表邮件签名）（） 〔用户 Clients 表〕
-- **KP**：Steven Fu（）steven@avanca.com.sg +65 6242 5108〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Steven Fu（General Manager & Managing Director（LinkedIn：2024-01 起 GM & MD，2015 入职；2025-11 对 10G MC 群发回 info）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、宽温 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE 一口价、3 年保、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））steven@avanca.com.sg +65 6242 5108〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。
 - 备注：重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。
 
@@ -133,10 +147,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Avanca Technologies Pte Ltd |
-| 成立 | （待核） |
-| 总部/地址 | Singapore |
-| 其他 | sales@avanca.com.sg |
+| 法定名称 | AVANCA TECHNOLOGIES PTE. LTD.（UEN 200207710N；Private Company Limited By Shares；Live；.SG 域名注册人） |
+| 成立 | 2002-09-06（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 23 New Industrial Road #07-06/07 Solstice Business Center, Singapore 536209（+65 6242 5108）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | sales@avanca.com.sg；第 117 批：工业 4G/5G 路由 / 工业交换机 / PoE / MC（Red Lion N-Tron 在供）/ 带外管理 分销商，总经理本人回过 info → **分销 20% B（升 A 候选），一页纸一次**；回信 → 加厚 + 升 A；坐实（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业 4G/5G 路由 / 调制解调器；工业以太网交换机 / PoE / MC（Red Lion 等）
 - **触达通道（公开）**：role: 工业通信分销商；region: 新加坡 + 东南亚
@@ -232,7 +246,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Steven Fu | — | steven@avanca.com.sg / +65 6242 5108 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Steven Fu | General Manager & Managing Director（LinkedIn：2024-01 起 GM & MD，2015 入职；2025-11 对 10G MC 群发回 info）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、宽温 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE 一口价、3 年保、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28） | steven@avanca.com.sg / +65 6242 5108 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 

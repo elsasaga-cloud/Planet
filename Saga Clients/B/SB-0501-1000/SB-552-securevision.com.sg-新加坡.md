@@ -81,6 +81,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 117 批（SG · 1 次检索：recordowl（SECUREVISION PTE. LTD.；UEN 200614644E；03 Oct 2006 Company founded；secondary activity INSTALLATION OF BUILDING AUTOMATED SYSTEMS FOR REMOTE MONITORING；security systems integrator；Established, low risk）+ securevision.com.sg（Police Licensed | BCA Registered；over 2,000 Singapore installations；CCTV / access control / intercom / LPR / IP telephony / network infrastructure；Data Centres tiered access control）+ securevision.com.sg/systems/premises-security（PLRD security contractor licence；bizSAFE Level 3；since 2006）；地址未取；2026-10-28，2026-10-28 查；https://recordowl.com/company/securevision-pte-ltd）：**
+
+- 法定名 / 登记号：Securevision Pte. Ltd.（securevision.com.sg；**UEN 200614644E；注册 2006-10-03；Live；次业 楼宇自动化远程监控系统安装**；PLRD 保安承包商牌照 + bizSAFE Level 3 + BCA 注册；**2,000+ 新加坡安装点（公寓 / 商业 / 工业 / 数据中心）**）— **安防系统集成：CCTV（AI）/ 门禁 / 对讲 / 报警（AJAX / RISCO / Paradox / DSC）/ LPR 车辆管理 / IP 电话 / 网络基础设施**；表内「商业 PoE，洪瑞（HRUI）的」「可以多跟进一下」；KP Wee Ler / Abdul Hameed（Technical Specialist）；15 次跟进无回复 · UEN 200614644E · 状态 **Live Company** · 成立 2006-10-03 · Pte. Ltd.
+- 行业码 / 经营范围：安防系统集成（CCTV / 门禁 / 报警 / 网络）；次业 楼宇自动化安装
+- 注册地址：未取（新加坡；recordowl 未展示）
+- 规模档：中小（2,000+ 安装点）
+- 账目：未取；—
+- 高管：Wee Ler — 研究档 KP（ler@securevision.com.sg）= 收件人
+- 高管：Abdul Hameed — Technical Specialist（研究档 KP；hameed@securevision.com.sg）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **20 年持牌安防集成商、HRUI 在供（Q-33 勘误口径：只推 Marvell 管理 / 工业线，不碰其 HRUI 非管理同款）→ 集成商 25% B，一页纸一次（切口：数据中心 / 公寓项目用 Marvell 管理 PoE STC-4424GCPM + 10G 上联 STC-110XGE + 工业 STI-154GP / STI-288DGGPM 一口价 + 付费样机；英文，Wee Ler 直呼、抄 Hameed）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；回信 → 加厚；Q-33 口径仍待 Simon 确认
+  - 守界：不评价 HRUI 现货；IMDA 不声称；数据中心安防场景只给网络设备
+- 备注：集成商 25%；一页纸一次（Q-33 口径）；坐实（UEN + 注册日 + 牌照；地址未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,16 +139,18 @@ updated: 2026-10-28
 - **【用户表】商业 PoE 洪瑞的**
   > 商业POE 洪瑞的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Wee Ler（）ler@securevision.com.sg 〔用户表〕
-- **KP**：Abdul Hameed（） 〔用户表〕
+- **KP**：Wee Ler（研究档 KP（PLRD 持牌安防集成商；UEN 200614644E）= 收件人 — 一页纸一次：集成商 25% B、Q-33 口径只推 Marvell 管理 PoE STC-4424GCPM + STC-110XGE + 工业 STI、不碰其 HRUI 非管理同款、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））ler@securevision.com.sg 〔用户表〕
+- **KP**：Abdul Hameed（Technical Specialist = 抄送（第 117 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 securevision.com.sg，语言 en-GB，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | SECUREVISION PTE. LTD.（UEN 200614644E；Live；PLRD 保安承包商牌照 + bizSAFE Level 3 + BCA 注册） |
+| 成立 | 2006-10-03（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 新加坡（recordowl 未展示详址）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 securevision.com.sg，语言 en-GB，快照状态 ok；角色判定来源：官网文案；第 117 批：20 年持牌安防 SI（CCTV / 门禁 / 报警 / LPR / 数据中心门禁）、HRUI 在供、Simon「可以多跟进」→ **集成商 25% B，一页纸一次（Q-33 口径）**；回信 → 加厚；坐实（UEN + 注册日 + 牌照）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统集成（CCTV / 门禁 / 对讲 / 报警）
 - **触达通道（公开）**：role: 安防系统集成商（新加坡，PoE 现由 HRUI 供货 → Q-33 口径）；region: 新加坡；contact: sales@securevision.com.sg、ler@securevision.com.sg
@@ -238,8 +255,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Wee Ler | — | ler@securevision.com.sg | 调研核实（公开页） | 用户表 |
-| Abdul Hameed | — | — | 调研核实（公开页） | 用户表 |
+| Wee Ler | 研究档 KP（PLRD 持牌安防集成商；UEN 200614644E）= 收件人 — 一页纸一次：集成商 25% B、Q-33 口径只推 Marvell 管理 PoE STC-4424GCPM + STC-110XGE + 工业 STI、不碰其 HRUI 非管理同款、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28） | ler@securevision.com.sg | 调研核实（公开页） | 用户表 |
+| Abdul Hameed | Technical Specialist = 抄送（第 117 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

@@ -88,6 +88,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（AE · 1 次检索：topnetdistribution.com（Topnet Distribution FZCO；Warehouse Unit K-11, Dubai Airport Free Zone, PO Box 54791；Tel +971 4 299 1162；Our Group of Companies: Topnet Distribution LLC, B205, Auto Centre, B-Block, Plot # 367-0, Al Khabaisi, Deira；Topnet Communications and Information Technology, Saudi；Ganesan K +971 55 652 2648）+ networktechinc.com（NTI distributor；Contact K. Ganesan；ganesan@topnet.ae）；牌照号未得；2026-10-28，2026-10-28 查；https://www.topnetdistribution.com/contact-us/）：**
+
+- 法定名 / 登记号：Topnet Distribution FZCO（topnet.ae / topnetdistribution.com；**Warehouse Unit K-11, Dubai Airport Free Zone, P.O. Box 54791；+971 4 299 1162；集团：Topnet Distribution LLC（B205 Auto Centre, Al Khabaisi, Deira）+ Topnet Communications and Information Technology（沙特）；NTI 官方经销；牌照号未得 → 部分坐实**）— **ICT 分销（经 SI / 电信安装商 / VAR 落地项目）：工业光纤交换机（B+B）、MC、PoE、数据中心、ITS；表内「分销很多牌子（三旺、Nsgate）」**；**KP Kandasamy Ganesan = Managing Director（+971 55 652 2648）**/ Athira Babu（Sales Engineer）；2 次跟进无回复 · 未取（FZCO；牌照号 1 查未得） · 状态 **营业中（官网在；3 法人集团）** · 成立 未取 · FZCO（DAFZA）+ LLC（Deira）+ 沙特分支
+- 行业码 / 经营范围：ICT / 工业连接产品 分销（DAFZA）
+- 注册地址：Warehouse Unit K-11, Dubai Airport Free Zone, Dubai, UAE (P.O. Box 54791)
+- 规模档：小型
+- 账目：未取；—
+- 高管：Kandasamy Ganesan — Managing Director（研究档 KP；ganesan@topnet.ae；+971 55 652 2648）= 拍板人 / 收件人
+- 高管：Athira Babu — Sales Engineer（研究档 KP；athira@topnet.ae）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已分销多个国内工业牌的 ICT 分销商、总经理为 KP、只跟过 2 次 → 分销 20% B（升 A 候选），一页纸一次（切口：对位其工业线的宽温 STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE + 10G MC STC-110XGE 一口价 + 3 年保 + 中性包装 + MOQ 1 + 付费样机 + DAP 迪拜 / 沙特转口自理；英文，Ganesan 直呼、抄 Athira）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；回信 → 加厚 + 升 A
+  - 守界：不点名三旺 / Nsgate / B+B；牌照未核 → 预付 100%
+- 备注：分销 20%（升 A 候选）；一页纸一次（回声再加厚）；部分坐实（官网法定名 + DAFZA 地址 + P.O. Box + 集团结构；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,7 +146,7 @@ updated: 2026-10-28
 - **【用户表】分销很多牌子（三旺、Nsgate）**
   > 分销商 3旺等 / 分销很多牌子（3旺、Nsgate）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Kandasamy Ganesan（）ganesan@topnet.ae 〔用户表〕
+- **KP**：Kandasamy Ganesan（Managing Director（官网 For Emergency Ganesan K +971 55 652 2648；NTI 经销联系人）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、对位其工业线的 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE、3 年保、中性包装、MOQ 1、付费样机、DAP 迪拜 / 沙特转口自理— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））ganesan@topnet.ae 〔用户表〕
 - **KP**：Athira Babu（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -139,8 +154,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 阿联酋 |
-| 其他 | 官网 topnetdistribution.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Topnet Distribution FZCO（DAFZA；集团 Topnet Distribution LLC, Deira + Topnet Communications and Information Technology, 沙特；牌照号 1 查未得） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Warehouse Unit K-11, Dubai Airport Free Zone, Dubai, UAE (P.O. Box 54791；+971 4 299 1162)（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 topnetdistribution.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 117 批：ICT / 工业连接产品分销（经 SI / 电信安装商 / VAR；工业光纤交换机 / MC / PoE / ITS；表内 三旺 / Nsgate 在供），总经理为 KP，只跟过 2 次 → **分销 20% B（升 A 候选），一页纸一次（预付）**；回信 → 加厚 + 升 A；部分坐实（官网 + NTI 经销页）（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：ICT 分销（工业光纤交换机 / MC / PoE / 数据中心 / 无线）
 - **触达通道（公开）**：role: ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）；region: 阿联酋；contact: info@topnet.ae、ganesan@topnet.ae
@@ -233,7 +250,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kandasamy Ganesan | — | ganesan@topnet.ae | 调研核实（公开页） | 用户表 |
+| Kandasamy Ganesan | Managing Director（官网 For Emergency Ganesan K +971 55 652 2648；NTI 经销联系人）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、对位其工业线的 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE、3 年保、中性包装、MOQ 1、付费样机、DAP 迪拜 / 沙特转口自理— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28） | ganesan@topnet.ae | 调研核实（公开页） | 用户表 |
 | Athira Babu | — | — | 调研核实（公开页） | 用户表 |
 | Ganesan | — | info@topnet.ae / ganesan@topnet.ae | 用户表原值 | Clients/ 表 |
 

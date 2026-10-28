@@ -77,6 +77,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 117 批（TH · 1 次检索：「Winner Intertech Co., Ltd. Thailand เลขทะเบียน … winnerintertech.com Moxa」→ dataforthai 命中 บริษัท วินเนอร์ เทค (ไทยแลนด์) จำกัด 0105556021529（计算机零售；≠）/ หจก. วินเนอร์ อินเตอร์เกรท 0103557011622（报关；≠）/ บริษัท วี วินเนอร์ อินเตอร์เทรด 0205560020883（化学品；≠）→ 未坐实（按 1 查纪律停）；2026-10-28，2026-10-28 查；https://winnerintertech.com/）：**
+
+- 法定名 / 登记号：Winner Intertech Co., Ltd.（winnerintertech.com；泰国；**法人 1 查未得 → 未坐实**（命中 Winner Tech (Thailand) 0105556021529 / Winner Intergreat / We Winer Intertrade 均 ≠））— **Moxa / Adder / Robustel / Protempis / ATcom 官方经销与合作伙伴（直接从原厂进货）；参展 Defense & Security 2025 + Manufacturing Expo 2025；站内 Korenix、EN 50155 / EN 50121**；表内「主要是巨联（Moxa）的」；无 KP（sales01@ / narathon@ / office@）；6 次跟进无回复 · 未取（法人 1 查未得） · 状态 **营业中（官网 + 参展在）** · 成立 未取 · Co., Ltd.（推定）
+- 行业码 / 经营范围：工业通信 原厂经销（Moxa / Robustel；国防展）— 原厂渠道 + 守界
+- 注册地址：未取（泰国）
+- 规模档：未取
+- 账目：未取；—
+- 高管：（研究档无具名 KP；narathon@winnerintertech.com 为具名邮箱、姓名职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Moxa 等原厂官方经销（在供原厂线）+ 国防展客户（守界）+ 6 次 0 回复 + 主体未坐实 → 不动（B 保留）**
+- 备注：不动（原厂渠道 + 守界 + 未坐实）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,8 +129,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 泰国 |
-| 其他 | 官网 winnerintertech.com，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+| 法定名称 | Winner Intertech Co., Ltd.（法人 1 查未得 → 未坐实；命中 WINNER TECH (THAILAND) 0105556021529 / WINNER INTERGREAT LP / WE WINER INTERTRADE 均 ≠） |
+| 成立 | 未取（第 117 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 未取（泰国）（第 117 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 winnerintertech.com，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：Moxa / Adder / Robustel 官方经销（原厂渠道）+ Defense & Security 展客户（守界）+ 6×0 + 未坐实 → **不动（B 保留）**（第 117 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络 / KVM / 工业路由分销（Moxa、Adder、Robustel）
 - **触达通道（公开）**：role: 工业网络分销商（Moxa 官方渠道）；region: 泰国；contact: sales01@winnerintertech.com、narathon@winnerintertech.com

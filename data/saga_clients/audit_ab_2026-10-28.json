@@ -3017,7 +3017,7 @@
    "p1": "STI-154GP（按现价重算）",
    "tier": 25,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-044": {
@@ -8143,7 +8143,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 0,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-137": {
@@ -17625,7 +17625,7 @@
    "p1": "STI-110GE",
    "tier": 25,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-568": {
