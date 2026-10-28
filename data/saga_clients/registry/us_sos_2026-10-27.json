@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 136
+  "count": 139
  },
  "rows": {
   "SA-002": {
@@ -4590,6 +4590,102 @@
    ],
    "notes": "贴标 30%；加厚 small 一次；部分坐实（址 + 规模；法定名 / SoS 号未取）；country_fix US。",
    "code": "SB-233"
+  },
+  "SB-766": {
+   "batch": 112,
+   "name": "INNOVATIVE VIDEO TECHNOLOGY, INC.（dba InVid Tech；invidtech.com；355 Oser Avenue, Hauppauge, NY 11788, USA（另 5 Adams Ave）；SAM UEI C15VFM1N1VS6 / CAGE 8N8G4；GSA 合同 47QTCA25D004R）— 2016 年创立的北美安防品牌（AI 摄像机 / NVR / 云存储 / 太阳能塔 / 商用 PoE 周边）；President Joe Troiano（研究档 KP）、Matt Troiano（Director of Sales）；11–50 人（RocketReach 13 人 / $7M）；**研究档国别 CA 有误 → 美国纽约州 → country_fix US**；表内「一部分商业 PoE、周边产品；Centro 的（深圳公司）」；26 封 0 打开",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：acornbids SAM 记录（Legal name INNOVATIVE VIDEO TECHNOLOGY, INC.；DBA INVID TECH；UEI C15VFM1N1VS6；CAGE 8N8G4；355 OSER AVE HAUPPAUGE NY 11788；NAICS 334111）+ gsaelibrary（47QTCA25D004R；joe.troiano@invidtech.com；Small Business）+ LinkedIn（Hauppauge NY；11-50；Founded 2016）+ rocketreach（13 employees；$7M）+ contactout（Joe Troiano President since 2016-09）；NY DOS 实体号未取；2026-10-28",
+   "url": "https://app.acornbids.com/contractors/C15VFM1N1VS6/innovative-video-technology-inc",
+   "number": "SAM UEI C15VFM1N1VS6 / CAGE 8N8G4（NY DOS 号未取）",
+   "status": "Active（SAM 登记 E）",
+   "incorporated": "2016",
+   "company_type": "Inc.（纽约州）",
+   "sic": [
+    "视频监控 品牌商（长岛）"
+   ],
+   "address": "355 Oser Avenue, Hauppauge, NY 11788, USA",
+   "accounts": "估 $7M（RocketReach）",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Joe (Joseph) Troiano — President（SAM / GSA 联系人；研究档 KP joe.troiano@）= 拍板人 / 收件人",
+    "Matt Troiano — Director of Sales（研究档 KP）= 抄"
+   ],
+   "psc": "Troiano 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌安防 + 商用 PoE 现由深圳同行供货 → 贴标 OEM 30% 目标，B，加厚 small 一次（切口：InVid 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 作第二代工源 + 中性包装 / 自编货号 + FCC + 小 MOQ；英文，Joe 直呼）；回信 → 次候选**",
+    "**country_fix US**（发信窗口 US Wed 08–10 ET）；守界：持 GSA 合同 → 稿内绝不提政府 / NDAA / TAA / GSA；不点名 Centro"
+   ],
+   "notes": "贴标 30%；加厚 small 一次；坐实（SAM 法定名 + UEI + 地址 + 总裁）；country_fix US。",
+   "code": "SB-766"
+  },
+  "SB-484": {
+   "batch": 112,
+   "name": "Moso Networks（原 MosoLabs；法定名待取：MosoLabs Inc.；mosonetworks.com；2108 N St #9184, Sacramento, CA 95816, USA）— 私有 5G / CBRS 小基站与中立主机网络设备商（Moso Canopy 5GID2 室内 5G 小基站、Moso Connect 5G RedCap 适配器；Qualcomm FSM200；OnGo 联盟成员；站内自述 TAA（我方不得引用））；President & CEO / Co-Founder Stephen Leotis（研究档 KP；ex-Sercomm / ARRIS）；**研究档国别 CA 有误 → 美国加州 → country_fix US**；14 封 0 打开",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：mosonetworks.com/contact-us（2108 N ST # 9184 Sacramento CA 95816）+ prnewswire 2025-02-03（MosoLabs becomes Moso Networks；US-based；Stephen Leotis president and co-founder）+ ongoalliance.org（member MosoLabs Inc.；Stephen Leotis）+ iwceexpo（Stephen Leotis CEO and founder；prior Sercomm / ARRIS / Luma / First Alert）；California SoS 实体号未取；2026-10-28",
+   "url": "https://www.mosonetworks.com/about/",
+   "number": "未取（CA SoS 实体号）",
+   "status": "Active",
+   "incorporated": "未取（MosoLabs）",
+   "company_type": "Inc.（加州，待取）",
+   "sic": [
+    "私有 5G 小基站 设备商（萨克拉门托）"
+   ],
+   "address": "2108 N St #9184, Sacramento, CA 95816, USA",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Stephen Leotis — President & CEO / Co-Founder（研究档 KP stephen@）= 拍板人 / 收件人"
+   ],
+   "psc": "创始团队",
+   "charges": "",
+   "prev_names": [
+    "MosoLabs（2025-02 更名）"
+   ],
+   "lines": [
+    "**自有品牌小基站全靠 PoE / PoE+ 供电 → 贴标 / 配套 30% small，一页纸一次（切口：Moso 标或中性 PoE+ / PoE++ STC-228GP / STC-2224GP / STI-288GPM 作小基站配套供电交换机 + FCC + 中性包装；英文，Stephen 直呼）；再无回声 → 不动**",
+    "**country_fix US**（发信窗口 US Wed 08–10 PT）；稿内绝不提 TAA / 政府 / 中立主机运营商名"
+   ],
+   "notes": "贴标 / 配套 30% small；一页纸一次；部分坐实（址 + 创始人 + 更名；法定名 / SoS 号未取）；country_fix US。",
+   "code": "SB-484"
+  },
+  "SB-106": {
+   "batch": 112,
+   "name": "WinWealth Tech Inc.（商号 citiCalls；citicalls.com；170 W Pomona Ave, Monrovia, CA 91016, USA；2003-05 起营业；eBay 卖家 2006 起）— VoIP 设备网店（Yealink / Grandstream / Fanvil / Cisco / Avaya / Yeastar / OpenVox；兼营杂项网络设备）；RocketReach 估 $2.4M、0 名员工（一人网店）；**研究档国别 CA 有误 → 美国加州 → country_fix US**；仅 sales@；13 封 0 打开",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：citicalls.com/pages/about-us（owned and operated by WinWealth Tech Inc.；commenced operations in May 2003；170 W Pomona Ave Monrovia CA 91016；626-240-0785）+ ebay seller citicalls（Member since Mar 09, 2006；United States）+ rocketreach（Monrovia California；$2.4M；0 employees）+ owler（online retailer of telecommunications equipment）；California SoS 实体号未取；2026-10-28",
+   "url": "https://citicalls.com/pages/about-us",
+   "number": "未取（CA SoS 实体号）",
+   "status": "Active",
+   "incorporated": "2003-05（业务）",
+   "company_type": "Inc.（加州）",
+   "sic": [
+    "VoIP 设备 网店（洛杉矶 Monrovia）"
+   ],
+   "address": "170 W Pomona Ave, Monrovia, CA 91016, USA",
+   "accounts": "估 $2.4M",
+   "accounts_due": "—",
+   "size_band": "微型（一人网店）",
+   "officers": [
+    "（业主未具名；sales@citicalls.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一人 VoIP 网店（无 KP、0 打开）→ 不动（一人网店规则；B 保留）**",
+    "**country_fix US**"
+   ],
+   "notes": "不动（一人网店）；部分坐实（法定名 + 址；SoS 号未取）；country_fix US。",
+   "code": "SB-106"
   }
  }
 }

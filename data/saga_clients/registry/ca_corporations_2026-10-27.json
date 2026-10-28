@@ -4,7 +4,7 @@
   "source": "Canada · Corporations Canada / Ontario 登记（OpenCorporates 摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 18
+  "count": 28
  },
  "rows": {
   "SA-087": {
@@ -599,6 +599,327 @@
    ],
    "notes": "贴标 30% small；加厚 small 一次；坐实（联邦公司号 + BN + 董事）。",
    "code": "SB-393"
+  },
+  "SB-395": {
+   "batch": 112,
+   "name": "Mercku Inc.（mercku.com；51 Breithaupt St, Kitchener, ON N2H（创立于 Waterloo）；2017-09 创立：Prof. Yihong Qi / Dr. Fred Yu / Alex Qi；450+ 专利）— Mesh Wi-Fi / CPE 品牌商（M2 / M6 Wi-Fi 6 EasyMesh、WISe 无线感知；面向 ISP 渠道；中国 / 日本 / 新加坡 / 欧洲有据点）；11–50 人（自报 50）；KP Ge Shi（研究档 Co-Founder；LinkedIn 现 CEO / 此前 CFO-COO）；**表内「商业 PoE 用的洪瑞（HRUI）的」→ 现供应商为我方合作厂 → Q-33 口径不跟**；27 封 0 打开",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：mercku.com/about-us（Founded in Canada's Waterloo technology hub in 2017；full-stack CPE）+ mercku.com/legals（founded September 2017 Waterloo；Prof. Yihong Qi, Dr. Fred Yu；450 patents）+ crunchbase（Legal Name Mercku Inc.；Founders Alex S. Qi, Fred Yu, Yihong Qi）+ contactout（51 Breithaupt St Kitchener ON N2H；11-50）+ LinkedIn（Kitchener；Ge SHI CEO）+ sourcefromontario（Staff 50；$1M+）；安省 / 联邦登记号未取；2026-10-28",
+   "url": "https://www.mercku.com/about-us/",
+   "number": "未取（登记号）",
+   "status": "Active",
+   "incorporated": "2017-09",
+   "company_type": "Inc.",
+   "sic": [
+    "Mesh Wi-Fi / CPE 品牌（基奇纳 - 滑铁卢）"
+   ],
+   "address": "51 Breithaupt St, Kitchener, ON N2H",
+   "accounts": "未取（自报 $1M+）",
+   "accounts_due": "—",
+   "size_band": "小型（≈50 人）",
+   "officers": [
+    "Ge Shi — CEO（LinkedIn）/ Co-Founder（研究档 KP ge.shi@）",
+    "Alex Qi — Co-Founder（原 CEO）",
+    "Prof. Yihong Qi / Dr. Fred Yu — 创始人"
+   ],
+   "psc": "创始团队",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**PoE 现由洪瑞（HRUI）供货 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价；若对方主动来询再按 Simon 口径处理）**"
+   ],
+   "notes": "Q-33 不跟 → 不动；部分坐实（法定名 + 址 + 创始人；登记号未取）。",
+   "code": "SB-395"
+  },
+  "SB-409": {
+   "batch": 112,
+   "name": "XLR Security Inc.（xlrsecurity.com；Unit 15 – 1 High Meadow Pl, Toronto (Etobicoke / North York), ON M9L 0A3；2022 年由 Jaeden Wiens 创立）— 面向全加拿大安装商 / 经销商的 CCTV 增值分销（Uniview 授权分销；Ruijie；**Lysora 云管理网络设备为第三方品牌（美国由 ENS Security 分销）、XLR 只是授权分销 → 研究档「自有品牌 Lysora」有误，更正**）；2–10 人；BBB 建档 2022-11；KP Jaeden Wiens（Founder / Account Manager）、June Wang（Project Coordinator）；26 封 0 打开",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：xlrsecurity.com（legalName XLR Security Inc.；1 High Meadow Pl Unit 15 Toronto；founder Jaeden Wiens）+ xlrsecurity.com/about（owned and operated by Jaeden Wiens；2022 opened；Uniview authorized distributor）+ xlrsecurity.com/blog/introducing-lysora（We're an authorized distributor for Lysora … USA buy from ENS Security）+ LinkedIn（2-10；Etobicoke；Founded 2022）+ bbb.org（XLR Security Inc；Jaeden Wiens）；安省 / 联邦登记号未取；2026-10-28",
+   "url": "https://www.xlrsecurity.com/about/",
+   "number": "未取（登记号）",
+   "status": "Active",
+   "incorporated": "2022",
+   "company_type": "Inc.",
+   "sic": [
+    "CCTV 增值分销（多伦多）"
+   ],
+   "address": "Unit 15 – 1 High Meadow Pl, Toronto, ON M9L 0A3",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Jaeden Wiens — Founder / 业主（研究档 KP jaeden@）= 拍板人 / 收件人",
+    "June Wang — Project Coordinator"
+   ],
+   "psc": "Jaeden Wiens",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**新创 2 年 CCTV 分销、PoE 卖第三方云管理品牌 → 分销 20% small，一页纸一次（切口：非云管理的普通 / 管理型 PoE STC-028GP / STC-228GP / STC-2224GP 作经销商第二价位 + MOQ 1 + 加拿大 DAP；英文，Jaeden 直呼）；再无回声 → 不动**",
+    "稿内不点名 Uniview / Lysora；发信窗口 CA Wed 08–10 ET"
+   ],
+   "notes": "分销 20% small；一页纸一次；部分坐实（法定名 + 址 + 业主；登记号未取）；研究档「自有品牌 Lysora」更正为第三方品牌。",
+   "code": "SB-409"
+  },
+  "SB-1125": {
+   "batch": 112,
+   "name": "Globall Distribution（globall.ca；仓库 4185 rue Marcel Lacasse, Boisbriand, QC J7H 1N4；LinkedIn 旧址 773 Boul. Industriel, Blainville QC J7C 3V3；法定名 / NEQ 未取）— 2011 年起的小型进口分销商（Self-Owned；2–10 人，RocketReach 2 人）：数据网络 / 监控 / 电话产品供 IT 经销商、集成商与零售；**PLANET 加拿大分销 + 站内「Globall」自有品牌系列**（Engenius / Milesight / Fanvil / Snom / Ubiquiti / Aruba Instant On / Eaton 等）；KP Corinne Defay（Marketing Manager，无邮箱）；仅 info@；Elsa 1:1 去信 1 轮 2025-02-28 无回",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：globall.ca/fr/collections/globall（Profil corporatif – Globall Distribution；importateur, distributeur；marques Planet, Engenius, Milesight, Globall, …；Entrepôt 4185 rue Marcel Lacasse Boisbriand J7H 1N4；514-374-7117）+ globall.ca/pages/about-us（imports and provides data and networking products, surveillance and telephony）+ rocketreach（2 employees；Founded 2011；Boisbriand）+ LinkedIn（2-10；Self-Owned；Founded 2011；773 Boulevard Industriel Blainville）；REQ NEQ 未取；2026-10-28",
+   "url": "https://www.globall.ca/fr/collections/globall",
+   "number": "未取（NEQ）",
+   "status": "Active",
+   "incorporated": "2011",
+   "company_type": "未取（Self-Owned）",
+   "sic": [
+    "网络 / 监控 / 电话 进口分销（蒙特利尔北郊）"
+   ],
+   "address": "4185 rue Marcel Lacasse, Boisbriand, QC J7H 1N4",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "（业主未具名；info@globall.ca）",
+    "Corinne Defay — Marketing Manager（研究档 KP，无邮箱）"
+   ],
+   "psc": "未取（Self-Owned）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型进口分销 + 自有「Globall」系列 → 分销 20% / 贴标 small，一页纸一次（切口：Globall 标或中性 PoE STC-028GP / STC-228GP / STC-2224GP + 工业 STI-054GP 作目录第二价位 + 小 MOQ + 加拿大 DAP；法 / 英双语，info@ 一问业主）；再无回声 → 不动**",
+    "稿内不点名 PLANET；发信窗口 CA Wed 08–10 ET"
+   ],
+   "notes": "分销 20% small；一页纸一次；部分坐实（址 + 年份 + 规模；NEQ 未取）。",
+   "code": "SB-1125"
+  },
+  "SB-999": {
+   "batch": 112,
+   "name": "Algo Communication Products Ltd.（algosolutions.com；4500 Beedie Street, Burnaby, BC V5J 5L2；1968-12-01 起营业；SAM UEI ZXSBJM33KYN5 / CAGE 3AC08）— IP 寻呼 / 告警 / 门口对讲终端制造商（SIP 扬声器、寻呼适配器、频闪灯、对讲；K-12 / InformaCast 生态）；CEO Ryan Zoehner；51–200 人（RocketReach 95 人 / $27.2M）；仅 info@；Elsa 群发 BCC 2026-08-28 触达 1 次；表内「IP-based 产品也牵涉到了 PoE」「质量一般」",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：LinkedIn（Algo Communication Products Ltd；Founded 1968；51-200；Burnaby BC）+ rocketreach（4500 Beedie Street Burnaby BC V5J 5L2；95 employees；$27.2M）+ cage.report（CAGE 3AC08；Business started Dec 1, 1968；Incorporation jurisdiction CAN）+ govtribe（UEI ZXSBJM33KYN5；Manufacturer of Goods）+ indeed（CEO Ryan Zoehner）；BC 登记号未取；2026-10-28",
+   "url": "https://ca.linkedin.com/company/algo-communication-products-ltd",
+   "number": "SAM UEI ZXSBJM33KYN5 / CAGE 3AC08（BC 号未取）",
+   "status": "Active",
+   "incorporated": "1968",
+   "company_type": "Ltd.（BC）",
+   "sic": [
+    "IP 寻呼 / 告警 终端 制造（本拿比）"
+   ],
+   "address": "4500 Beedie Street, Burnaby, BC V5J 5L2",
+   "accounts": "估 $27.2M（RocketReach）",
+   "accounts_due": "—",
+   "size_band": "中型（≈95 人）",
+   "officers": [
+    "Ryan Zoehner — CEO（indeed / theorg）= 拍板人（邮箱未取）",
+    "Nick Guarna — Director International & Growth Distribution（theorg）"
+   ],
+   "psc": "未取（私有）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**终端厂商、交换机非其品类但部署全靠 PoE → 配套 30% small，一页纸一次（切口：Algo 标或中性 PoE / PoE+ STC-028GP / STC-228GP / STC-2224GP 作寻呼套件配套 SKU + 中性包装；英文，info@ 点名产品 / 渠道负责人）；再无回声 → 不动**",
+    "发信窗口 CA Wed 08–10 PT；稿内不提 K-12 / 政府项目"
+   ],
+   "notes": "配套 30% small；一页纸一次；坐实（法定名 + SAM 登记 + 址；BC 号未取）。",
+   "code": "SB-999"
+  },
+  "SB-173": {
+   "batch": 112,
+   "name": "Inaxsys Security Systems Inc.（inaxsys.com；11685 Avenue Philippe-Panneton, Montréal (QC) H1E 4M1；2004 年创立）— 安防品牌 / 分销（Inaxsys 摄像机、Arkiv VMS、录像服务器、PoE 交换机；Ajax 加拿大首家官方分销（2022）；ICT Protege 美国渠道（2026）；经 ADI / Wesco 分销）；President Mark McRae（ex-Paradox / ADT；研究档 KP）、Alain Boisvert（VP International Sales）；22–24 人（$5.4–7.2M 估）；**表内「HRUI（洪瑞）的，贴了自己的牌子」→ 现供应商为我方合作厂 → Q-33 口径不跟**；6 封来信全为工单自动回复",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：inaxsys.com 新闻 2024-10（Inaxsys Security Systems Inc. 11685 Avenue Philippe-Panneton Montréal H1E 4M1；Mark McRae President）+ rocketreach（Founded 2004；24 employees；$5.4M；Mark McRae President）+ ajax.systems 2022-06-01（first official distributor of Ajax in Canada；Mark McRae 35 years）+ LinkedIn（11-50；Montréal；Founded 2004；POE network switches）+ Mark McRae LinkedIn 2026-10（ICT Protege 美国渠道经 ADI / Wesco）；REQ NEQ 未取；2026-10-28",
+   "url": "https://inaxsys.com/en/news-and-articles/details/inaxsys-at-security-canada-central-2024/",
+   "number": "未取（NEQ）",
+   "status": "Active",
+   "incorporated": "2004",
+   "company_type": "Inc.（魁北克）",
+   "sic": [
+    "安防品牌 / 分销（蒙特利尔）"
+   ],
+   "address": "11685 Avenue Philippe-Panneton, Montréal, QC H1E 4M1",
+   "accounts": "估 $5.4–7.2M",
+   "accounts_due": "—",
+   "size_band": "小型（22–24 人）",
+   "officers": [
+    "Mark McRae — President（研究档 KP）",
+    "Alain Boisvert — VP International Sales（研究档 KP sales@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**交换机现由洪瑞（HRUI）代工贴标 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价）**"
+   ],
+   "notes": "Q-33 不跟 → 不动；部分坐实（法定名 + 址 + 总裁；NEQ 未取）。",
+   "code": "SB-173"
+  },
+  "SB-387": {
+   "batch": 112,
+   "name": "Fatwire Distributors（Fat Wire Distribution；法定名 / 阿省登记号未取；fatwiredist.ca；9325 63 Avenue NW, Edmonton, AB T6E 0G2；2010 年创立）— 面向集成商 / 经销商的低压与信号分配元件分销（卫星安装、LMR / RG 同轴、结构化布线、PoE 交换机 / 管理型交换机 / 无线 CPE 类目；Dealer Login）；Managing Director Ray Haugland（= 研究档 KP Ray ray.h@）、Michael Pothier（Inside Sales，2019–；研究档 KP mike.p@）；3–11 人（$5.1M 估）；表内「Wi-Tek 的比较多」；24 封 1 次打开 0 回",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：fatwiredist.ca（9325 - 63 AVENUE Edmonton Alberta T6E 0G2；1-877-640-9473；类目 Managed Switch / PoE Switches / Power over Ethernet；Dealer Login）+ zoominfo（Founded 2010；$5.1M；11-50；Ray Haugland Managing Director；Michael Pothier 2019–）+ LinkedIn Fat Wire Distribution（2-10；Partnership；Founded 2010）+ rocketreach（3 employees）；阿省登记号未取；2026-10-28",
+   "url": "https://www.fatwiredist.ca/",
+   "number": "未取（阿省登记号）",
+   "status": "Active",
+   "incorporated": "2010",
+   "company_type": "未取（LinkedIn「Partnership」）",
+   "sic": [
+    "低压 / 信号分配 元件 分销（埃德蒙顿）"
+   ],
+   "address": "9325 63 Avenue NW, Edmonton, AB T6E 0G2",
+   "accounts": "估 $5.1M",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（3–11 人）",
+   "officers": [
+    "Ray Haugland — Managing Director（zoominfo；研究档 KP Ray ray.h@）= 拍板人 / 收件人",
+    "Michael Pothier — Inside Sales Specialist（研究档 KP mike.p@）= 抄"
+   ],
+   "psc": "Ray Haugland（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**经销商型低压分销、PoE 卖中系 → 分销 20% small，一页纸一次（切口：STC-028GP / STC-228GP / STC-2224GP 作分销第二价位 + MOQ 1 + 加拿大 DAP；英文，Ray 直呼 + Mike 抄）；再无回声 → 不动**",
+    "稿内不点名 Wi-Tek；发信窗口 CA Wed 08–10 MT"
+   ],
+   "notes": "分销 20% small；一页纸一次；部分坐实（址 + 年份 + 负责人；登记号未取）。",
+   "code": "SB-387"
+  },
+  "SB-165": {
+   "batch": 112,
+   "name": "YM Inc.（yminc.ca / ym-inc.com；50 Dufflaw Road, Toronto, ON M6A 2W1；销售实体 YM INC. (SALES) 联邦公司号 8228426 / BN 105261705RC0005，2012-10-28 注册，4 名董事）— **多伦多服装零售集团（Urban Planet / Stitches / Bluenotes 等 ≈700 店）**，非网络贸易商 → 研究档类型更正：零售连锁终端 IT；CEO Eric Grundy；1,300+ 员工；研究档 KP Mario Elia = Director, Network Infrastructure（2025–；此前网络与安全架构师）；2025 年阿里 RFQ「工业 PoE Extender」；1 封 0 打开",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：canadacompanyregistry.com（YM INC. (SALES)；50 DUFFLAW ROAD TORONTO ON M6A 2W1；registered 28-Oct-2012；bn 105261705RC0005；corporation number 8228426；4 directors）+ datanyze（50 Dufflaw Rd；Eric Grundy；Mario Elia Director, Network Infrastructure）+ rocketreach（YM INC. 1,340 employees；Mario Elia 2025– Director Network Infrastructure）+ prospeo（General Retail；1001-2000；ym-inc.com）；2026-10-28",
+   "url": "https://www.canadacompanyregistry.com/companies/ym-inc-sales-4/",
+   "number": "联邦公司号 8228426（YM INC. (SALES)）/ BN 105261705RC0005",
+   "status": "Active",
+   "incorporated": "2012-10-28（销售实体；集团 1975）",
+   "company_type": "Inc.（联邦）",
+   "sic": [
+    "服装零售连锁（多伦多）— 终端 IT 采购"
+   ],
+   "address": "50 Dufflaw Road, Toronto, ON M6A 2W1",
+   "accounts": "未取（集团）",
+   "accounts_due": "—",
+   "size_band": "大型（1,300+ 人）",
+   "officers": [
+    "Mario Elia — Director, Network Infrastructure（研究档 KP mario@）= 收件人（IT 采购）",
+    "Eric Grundy — CEO"
+   ],
+   "psc": "私有（Grundy 家族）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**零售连锁终端 IT（≈700 店的门店 IDF 网络）→ 终端 25% small，一页纸一次（切口：门店摄像机 / AP / POS 用 PoE STC-028GP / STC-228GP / STC-2224GP 一口价 + 1 年保 + 付费样机；英文，Mario 直呼；PoE 延长器非我方品类，明说不做）；再无回声 → 不动**",
+    "研究档类型「网络 / 安防贸易商」更正为零售连锁终端；发信窗口 CA Wed 08–10 ET"
+   ],
+   "notes": "终端 25% small；一页纸一次；坐实（联邦公司号 + BN + 址）；研究档类型更正。",
+   "code": "SB-165"
+  },
+  "SB-291": {
+   "batch": 112,
+   "name": "Technosource Smart Services Inc.（technosources.ca；3000 Danforth Avenue, Unit #4, Toronto (Scarborough), ON M4C 1M7；2016 年成立）— 住宅 / 小商业 CCTV 安装与零售（自述已装 200 户住宅 + 50 家商铺；Swann / EZVIZ 套装、门铃、IPTV、网页设计兼营）；Gmail 备用邮箱；无 KP；13 封 0 打开；表内「小口商业 Switch；BDCOM」",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：cctv.technosources.ca/about + /contact（Technosource Smart Services Inc. … established in 2016；3000 Danforth Avenue Unit #4 Toronto ON M4C 1M7；4165612243；over 200 houses and 50 business places）+ zoominfo（Technosource Smart Services Inc.；3000 Danforth Ave Unit 4）；安省登记号未取；2026-10-28",
+   "url": "https://cctv.technosources.ca/about",
+   "number": "未取（安省登记号）",
+   "status": "Active",
+   "incorporated": "2016",
+   "company_type": "Inc.（安省）",
+   "sic": [
+    "住宅 / 小商业 CCTV 安装 + 零售（士嘉堡）"
+   ],
+   "address": "3000 Danforth Avenue, Unit #4, Toronto, ON M4C 1M7",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "（业主未具名；info@ / Gmail）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型住宅安装商（零售套装、无 KP、0 打开）→ 不动（B 保留）**"
+   ],
+   "notes": "不动（微型无 KP）；部分坐实（法定名 + 址 + 年份；登记号未取）。",
+   "code": "SB-291"
+  },
+  "SB-284": {
+   "batch": 112,
+   "name": "Provo Ltd. / Provo Ltée（provowire.com；总部 620 Rowntree Dairy Rd., Woodbridge, ON L4L 5T8；蒙特利尔 401 rue Locke, St-Laurent, QC H4T 1X7；1958 年创立于蒙特利尔）— 加拿大最大的电子线缆 / 低压 / CCTV / AV 配件分销商之一（安防 / 自动化 / 对讲 / 电信渠道；**「in-house developed and sub-distributed product lines」= 自有开发产品线 + 代理线（PLANET、Provision-ISR 等）**）；家族企业（Key Principal Haskell Greenberg；Elliot Greenberg VP Operations = 研究档 KP；Sy / Spencer Greenberg 数字营销 / 采购）；44 人 / $14.8M 估；13 封 0 打开；表内「大口 FS；BDCOM」",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：provowire.com/about-provo（Established in Montreal in 1958；headquartered in Toronto；offices in Montreal）+ provowire.com/contact-us（620 Rowntree Dairy Rd. Woodbridge ON L4L 5T8；401 rue Locke St-Laurent QC H4T 1X7）+ provowire.com/careers（in-house developed and sub-distributed product lines）+ rocketreach（44 employees；$14.8M；Elliot Greenberg VP of Operations）+ dnb（Key Principal Haskell Greenberg）+ LinkedIn（11-50；Woodbridge；Founded 1958）；安省 / 联邦登记号未取；2026-10-28",
+   "url": "https://www.provowire.com/about-provo",
+   "number": "未取（登记号）",
+   "status": "Active",
+   "incorporated": "1958",
+   "company_type": "Ltd. / Ltée",
+   "sic": [
+    "低压线缆 / CCTV / AV 配件 分销（大多伦多 + 蒙特利尔）"
+   ],
+   "address": "620 Rowntree Dairy Rd., Woodbridge, ON L4L 5T8",
+   "accounts": "估 $14.8M",
+   "accounts_due": "—",
+   "size_band": "中小型（≈44 人）",
+   "officers": [
+    "Elliot Greenberg — Vice President of Operations（研究档 KP elliot@）= 拍板人 / 收件人",
+    "Sy Greenberg — Procurement and Operations / Digital Marketing（研究档 KP）= 抄",
+    "Haskell Greenberg — Key Principal（D&B）"
+   ],
+   "psc": "Greenberg 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**全国性低压 / CCTV 分销 + 自有开发产品线 → 分销 20% + 贴标 30% 两线，B BIG，加厚一次（切口：Provo 标或中性 PoE STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP 作代理线第二价位或自有线补位 + 多伦多 / 蒙特利尔两仓 DAP；英 / 法文，Elliot 直呼 + Sy 抄）；回信 → 次候选升 A**",
+    "稿内不点名 PLANET / BDCOM / Provision-ISR；发信窗口 CA Wed 08–10 ET"
+   ],
+   "notes": "分销 20% / 贴标 30%；B BIG 加厚一次；部分坐实（址 + 历史 + 家族 + 规模；登记号未取）。",
+   "code": "SB-284"
+  },
+  "SB-749": {
+   "batch": 112,
+   "name": "E.C.I. Networks Inc.（ECI Networks；ecin.ca；蒙特利尔 1405 Trans Canada Route, Dorval, QC H9P 2V9（BusinessWire 总部 Rigaud, QC）；1998 年创立）— 开放网络系统集成 / 分销（SONiC 白盒交换机「Ready-to-Plug」、1G–1.6T 光模块、网络 TAP / 分组代理 PacketMaestro、Microchip 时钟同步；2024-10 收购 NoviFlow（SRv6 / 可编程交换）；案例「120 站点边缘计算 + 开放交换」）；President / CEO Wassim Mekkaoui（2015–；研究档 KP）、CTO Hassan Khanafer（研究档 KP）、Global Sales Director Eilidh Mekkaoui；18 人；26 封 0 打开；表内「有 Utepo 的；工业 FS、SFP、DAC」",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：LinkedIn（E.C.I. NETWORKS INC.；Montreal；11-50；Founded 1998；Wassim Mekkaoui President）+ businesswire 2024-10-30（E.C.I. Networks Acquires NoviFlow；Headquarters Rigaud Quebec；CEO Wassim Mekkaoui；Employees 18）+ signalhire（1405 Trans Canada Route Montreal H9P 2V9）+ theorg（Hassan Khanafer CTO；Eilidh Mekkaoui Global Sales Director）+ ecin.ca（SONiC switches, optics, TAPs, timing；120 sites case）；REQ NEQ 未取；2026-10-28",
+   "url": "https://www.ecin.ca/home",
+   "number": "未取（NEQ）",
+   "status": "Active",
+   "incorporated": "1998",
+   "company_type": "Inc.（魁北克）",
+   "sic": [
+    "开放网络 / 数据中心 系统集成 + 分销（蒙特利尔）"
+   ],
+   "address": "1405 Trans Canada Route, Dorval, QC H9P 2V9",
+   "accounts": "估 $1–10M",
+   "accounts_due": "—",
+   "size_band": "小型（18 人）",
+   "officers": [
+    "Wassim Mekkaoui — President / CEO（研究档 KP wassim.mekkaoui@）= 拍板人 / 收件人",
+    "Hassan Khanafer — CTO（研究档 KP）= 技术抄",
+    "Eilidh Mekkaoui — Global Sales Director"
+   ],
+   "psc": "Mekkaoui 家族（推定）",
+   "charges": "",
+   "prev_names": [
+    "NoviFlow（2024-10 并入）"
+   ],
+   "lines": [
+    "**DC 交换机客户优先级 + 多站点边缘项目 → 集成 / 分销 20–25% B BIG，加厚一次，CENTEC 敲门砖（切口：STH-2C24XF-HSI（24×25G+2×100G）/ STH-8C48DX-HSI（48×10G+8×100G）/ STH-32C-HSI（32×100G）作 120 站点级边缘 / 汇聚的固定配置 L3 第二来源 + 工业 STI 副线；英文，Wassim 直呼 + Hassan 抄，一问是否愿评估一台样机（付费））；回信 → 次候选升 A**",
+    "守界：稿内不声称 SONiC / ONIE 兼容（未验证），不点名 Utepo；发信窗口 CA Wed 08–10 ET"
+   ],
+   "notes": "集成 / 分销 20–25%；B BIG 加厚一次（CENTEC 敲门砖）；部分坐实（法定名 + 址 + 高管 + 规模；NEQ 未取）。",
+   "code": "SB-749"
   }
  }
 }
