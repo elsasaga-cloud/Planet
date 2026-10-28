@@ -4,7 +4,7 @@
   "source": "Lithuania · Registrų centras / Sodra 公开数据（rekvizitai.vz.lt）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 3
+  "count": 4
  },
  "rows": {
   "SB-789": {
@@ -105,6 +105,38 @@
    ],
    "notes": "分销 20%；B BIG；加厚一次；坐实（įmonės kodas + 营收）。",
    "code": "SB-198"
+  },
+  "SB-571": {
+   "batch": 108,
+   "name": "UAB „ENERGUS GROUP“（energus.eu / energusgroup.com；维尔纽斯 Savanorių pr. 176C, LT-03154；įmonės kodas 304419130；PVM LT100011259419）— 2016-11-02 登记（Energus 品牌 2010 起）的电气 / 能源工程承包商（EVRK 43.21 建筑与构筑物电网安装：光伏电站、变电、充电桩、楼宇电气）；股本 €27,000；direktorius Povilas Šidlauskas；117–133 人（2026）；2025 营收 €12.95M、净利 €289k；15 辆登记车辆；表内「工业 FS」；群发 2 次打开",
+   "iso": "LT",
+   "fetched": "2026-10-28",
+   "source": "LT · 1 次检索：rekvizitai.vz.lt（ENERGUS GROUP, UAB；Savanorių pr. 176C Vilnius；Manager Povilas Šidlauskas direktorius；įregistruota 2016-11-02；įstatinis kapitalas 27000 EUR；100 akcijų）+ okredo（304419130；PVM nuo 2017-11-17；EVRK 43.21.90；117 darbuotojų 2026-10-09）+ fsaskaita（128 darbuotojai；Pardavimo pajamos 12 954 561 € 2025）+ tax.lt（2025 pelnas 289 tūkst. €；133 darbuotojai 2026-06）",
+   "url": "https://rekvizitai.vz.lt/en/company/energus_group/",
+   "number": "Įmonės kodas 304419130；PVM LT100011259419",
+   "status": "Aktyvi",
+   "incorporated": "2016-11-02",
+   "company_type": "UAB（私有；100 股）",
+   "sic": [
+    "电气 / 能源工程承包（光伏、变电、充电桩；EVRK 43.21）"
+   ],
+   "address": "Savanorių pr. 176C, LT-03154 Vilnius",
+   "accounts": "2025 营收 €12,954,561；净利 €289k",
+   "accounts_due": "—",
+   "size_band": "中型（117–133 人）",
+   "officers": [
+    "Povilas Šidlauskas — Direktorius = 拍板人",
+    "（研究档联系人见 kp）— 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**130 人的能源工程承包商（光伏 / 变电项目要工业交换机做监控网）→ 集成 25%，B，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 配 PV 监控柜与变电站）；有回声再加厚**；不谈 IEC 61850",
+    "2 次打开无回复 → 二次触达换切口「DIN-rail switches for PV monitoring cabinets」；发信窗口 Thu 12–14 EET；立陶宛语一句引子"
+   ],
+   "notes": "集成 25%；B；一页纸一次；坐实（kodas + 财务）。",
+   "code": "SB-571"
   }
  }
 }

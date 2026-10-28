@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 61
+  "count": 67
  },
  "rows": {
   "SA-061": {
@@ -1916,6 +1916,195 @@
    ],
    "notes": "分销 20%；B；加厚一次（small）；坐实（CIF）。",
    "code": "SB-654"
+  },
+  "SB-1014": {
+   "batch": 108,
+   "name": "BLUENOTE COMMUNICATIONS SA（bluenote.ro / bluevoice.ro；雅西 Iași Str. Stejar 18, Construcția C1, 700327；CUI RO15146404；J22/101/22.01.2003）— 2003 年由信息 / 电信工程师创立的 SCADA / IoT / IIoT 方案集成商 + 通话录音系统开发商（自产 + 进口电子设备，EEE 生产者登记 RO-2017-12-EEE-2996-I；公共采购供应商 TED 2020）；实缴股本 105,000 RON；表内「工业 FS」；群发 2 次打开",
+   "iso": "RO",
+   "fetched": "2026-10-28",
+   "source": "RO · 1 次检索：bluenote.ro 首页 / Contact（Număr de înregistrare ONRC J22/101/22.01.2003；CUI RO15146404；Capital social vărsat 105 000 RON；SC Bluenote Communications SA；Str. Stejar Nr. 18 Construcția C1 Iași；office@bluenote.ro；0232 265 995）+ termene.ro（J2003000101225；22 ianuarie 2003）+ risco.ro / icapb2b（Registration Date 22/01/2003）+ TED 593082-2020（供应商）",
+   "url": "https://termene.ro/firma/15146404-BLUENOTE-COMMUNICATIONS-SA",
+   "number": "CUI RO15146404；J22/101/2003",
+   "status": "Active",
+   "incorporated": "2003-01-22",
+   "company_type": "S.A.（私有）",
+   "sic": [
+    "SCADA / IoT / IIoT 方案集成 + 通话录音系统开发（自产 + 进口）"
+   ],
+   "address": "Str. Stejar 18, Construcția C1, 700327 Iași",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（推定 10–50）",
+   "officers": [
+    "（未具名）— 收件人 office@bluenote.ro（点名 departament tehnic / achiziții）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业 SCADA / IoT 集成商（含公共采购项目）→ 集成 25%，B，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 配 SCADA 现场柜）；有回声再加厚**；不谈政府项目本身",
+    "2 次打开无回复 → 二次触达换切口「DIN-rail switches sized for SCADA cabinets」；发信窗口 Thu 12–14 EET；罗语一句引子"
+   ],
+   "notes": "集成 25%；B；一页纸一次；坐实（CUI + J）。",
+   "code": "SB-1014"
+  },
+  "SB-1029": {
+   "batch": 108,
+   "name": "Fibersystem AB（fibersystem.se；斯德哥尔摩 Bromma Gårdsfogdevägen 18 A/B, 168 67；org.nr 556605-4325；VAT SE556605432501）— 2001-01-22 登记、Addtech Nordic AB（上市 Addtech 集团）子公司的安全通信设备**制造商**（SNI 26200：数据二极管、光纤隔离 / TEMPEST 级介质转换器等高保密网络产品，客户以国防 / 政府为主）；VD John Oscar Lindberg（1988 年生）；董事长 Michael Ullskog；13 人；2025 营收 SEK 266.9M（+55%）；表内「工业 FS」；群发 2 次打开",
+   "iso": "SE",
+   "fetched": "2026-10-28",
+   "source": "SE · 1 次检索：allabolag（Fibersystem AB；Org.nr 556605-4325；Gårdsfogdevägen 18 b 168 67 Bromma；Del av Addtech Nordic AB；Registreringsdatum 2001-01-22；13 anställda；VD John Oscar Lindberg f 1988；Ordförande Michael Ullskog f 1966）+ ratsit（Omsättning 266,9 MSEK 2025；+55,2 %）+ syna（Aktivt；SNI 26200 Tillverkning av datorer och kringutrustning）+ bolagsfakta（Deloitte 审计；Ledamot Anders Fallheden）",
+   "url": "https://www.allabolag.se/foretag/fibersystem-ab/bromma/datorer-och-kringutrustningar-tillverkning/2K1VV05I63ILT",
+   "number": "Org.nr 556605-4325",
+   "status": "Aktivt",
+   "incorporated": "2001-01-22",
+   "company_type": "Aktiebolag（Addtech 集团子公司）",
+   "sic": [
+    "安全通信 / 高保密网络设备制造（SNI 26200；国防 / 政府客户）"
+   ],
+   "address": "Gårdsfogdevägen 18 A/B, 168 67 Bromma (Stockholm)",
+   "accounts": "2025 营收 SEK 266.9M",
+   "accounts_due": "—",
+   "size_band": "小型高产值（13 人）",
+   "officers": [
+    "John Oscar Lindberg — VD（Addtech 体系）",
+    "Michael Ullskog — Styrelseordförande"
+   ],
+   "psc": "Addtech Nordic AB（Addtech AB 上市集团）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上市集团旗下、以国防 / 政府为主业的保密通信制造商 → 守界（军工 / 政府主营，Saga 不碰）+ 自研产品非我方品类 → 不动**；Addtech 集团采购自有体系",
+    "不进发送包；记为「守界不动」"
+   ],
+   "notes": "坐实（org.nr）；守界不动（国防 / 政府主业）。",
+   "code": "SB-1029"
+  },
+  "SB-1040": {
+   "batch": 108,
+   "name": "CHT DATA SRL（icpdas.ro「ICP DAS Romania」网店；布加勒斯特 Str. Av. Popișteanu nr. 54A, Expo Business Park, Clădirea 2, Etaj 2；CUI RO 32791574；J40/8808/2020；前身 / 关联 Instruments CHT SRL Ploiești = ICP DAS 官方列名经销商）— 工业自动化 / 数据采集 / 通信网店（ICP DAS I/O、串口 / 介质转换器、工业交换机、Axiomtek 工控机）；office@icpdas.ro；群发 2 次打开",
+   "iso": "RO",
+   "fetched": "2026-10-28",
+   "source": "RO · 1 次检索：icpdas.ro 首页 / About us（Company name CHT DATA SRL；VAT ID RO 32791574；Registry of Commerce J40/8808/2020；Str. Av. Popișteanu nr. 54A Expo Business Park Clădirea 2 Etaj 2 București；0756 427 327；office@icpdas.ro）+ icpdas.com Distributors（Instruments CHT SRL, Aleea Biruintei 134A Ploiesti；+40 756 427 327；office@icpdas.ro；www.icpdas.ro）",
+   "url": "https://icpdas.ro/en/content/6-about-us",
+   "number": "CUI RO 32791574；J40/8808/2020",
+   "status": "Active",
+   "incorporated": "2014（CUI 3279… 口径）/ J40 2020 迁册",
+   "company_type": "S.R.L.（私有；小微）",
+   "sic": [
+    "工业自动化 / 数据采集 / 工业通信 网店（ICP DAS + Axiomtek）"
+   ],
+   "address": "Str. Av. Popișteanu 54A, Expo Business Park, Clădirea 2, Et. 2, București",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "（未具名）— 收件人 office@icpdas.ro（点名 responsabil vânzări）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**台系 I/O 品牌的罗马尼亚网店（该品牌自带工业交换机线）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作「第二价位」）；有回声再加厚**；稿内不点名 ICP DAS",
+    "2 次打开无回复 → 二次触达换切口「a value industrial switch line beside your I/O brand」；发信窗口 Thu 12–14 EET；罗语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（CUI + J40）。",
+   "code": "SB-1040"
+  },
+  "SB-1072": {
+   "batch": 108,
+   "name": "SECURAME, S.L.（原 TWISTED REALITY S.L.；securame.com；巴塞罗那 C/ Sepúlveda 161 local, 08011；CIF B62808498）— 2002-03-01 成立的视频监控 / 安防批发网店（Safire 经销点、CCTV / 报警 / 录像机；CNAE 4652）；2–10 人；销售额 ≈€0.5M（2021）；**研究档误记意大利 → 实为西班牙（country_fix）**；群发 2 次打开",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：securame.com 首页 / Contacte（C. Sepúlveda 161 08011 Barcelona；933 90 88 29；contacto@securame.com）+ axesor（Securame sl；CIF B62808498；Fecha de constitución 01/03/2002；C/ SEPULVEDA 161 P.BA. 08011 BARCELONA）+ einforma（Denominación Antigua TWISTED REALITY S.L.；domicilio anterior Calle Rosselló 372）+ empresia（CNAE 4652；Ventas 0.5M €；Administradores solidarios）+ confianzaonline（Razón social SECURAME, S.L.）+ LinkedIn（2–10；1999 活动）",
+   "url": "https://www.axesor.es/Informes-Empresas/2385474/SECURAME_SL.html",
+   "number": "CIF B62808498",
+   "status": "Active",
+   "incorporated": "2002-03-01",
+   "company_type": "S.L.（私有；小微）",
+   "sic": [
+    "视频监控 / 安防设备批发 + 网店（CNAE 4652）"
+   ],
+   "address": "C/ Sepúlveda 161, local, 08011 Barcelona",
+   "accounts": "销售额 ≈€0.5M（2021 口径）",
+   "accounts_due": "—",
+   "size_band": "小微（2–10 人）",
+   "officers": [
+    "（未具名；administradores solidarios）— 收件人 contacto@securame.com"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**巴塞罗那小型 CCTV 批发网店 → 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配其摄像机套件）；有回声再加厚**；国别改为西班牙（发信窗口 Thu 12–14 CET；西语一句引子）",
+    "2 次打开无回复 → 二次触达换切口；稿内不点名 Safire / Hikvision"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（CIF）；country_fix 西班牙。",
+   "code": "SB-1072"
+  },
+  "SB-709": {
+   "batch": 108,
+   "name": "АйСи ИНТРАКОМ ООД（IC INTRACOM Ltd.；ic-intracom.bg；索非亚 1582 бул. Искърско шосе 7, Търговски център Европа, сгр. 7, ет. 1；ЕИК 200758666；ДДС BG200758666）— 2009-06-19 登记的光纤网络有源 / 无源设备、结构化布线、数据中心产品分销商（客户为保加利亚主要电信与数据中心；Moxa、TP-Link；sfp 246 / switch 133 品类词频）；управител + 55% 股东 Христо Валентинов Чанков（Търговски директор，对外用 QQ / WeChat = 直采中国）、45% Надя Желева；7 人（2021）；营业额 2.045M лв.（2020）；群发 2 次打开",
+   "iso": "BG",
+   "fetched": "2026-10-28",
+   "source": "BG · 1 次检索：papagal.bg（АйСи ИНТРАКОМ ООД；ЕИК 200758666；Активен；Дата на регистрация 19.06.2009；ДДС BG200758666 от 10.08.2009；Оборот 2 045 000 лв. 2020；7 служители 2021；Управител Христо Валентинов Чанков；Съдружници Чанков 55% / Надя Жечева 45%；седалище бул. Искърско шосе 7）+ ic-intracom.bg За нас（ЕИК 200758666；Търговски директор Христо Чанков hristo@；Търговски отдел Мартин Капанов / Марияна Лазарова；QQ 2595522810；WeChat hristo-chankov）+ Terms（IC Intracom Ltd., UIC 200758666）",
+   "url": "https://papagal.bg/eik/200758666/42c9",
+   "number": "ЕИК 200758666；ДДС BG200758666",
+   "status": "Активен",
+   "incorporated": "2009-06-19",
+   "company_type": "ООД（Чанков 55% / Желева 45%）",
+   "sic": [
+    "光纤网络 / 布线 / 数据中心产品分销（电信与 DC 客户）"
+   ],
+   "address": "бул. Искърско шосе 7, Търговски център Европа, сгр. 7, ет. 1, 1582 София",
+   "accounts": "营业额 2,045,000 лв.（2020）",
+   "accounts_due": "—",
+   "size_band": "小微（7 人）",
+   "officers": [
+    "Христо Чанков（Hristo Chankov）— Управител / Търговски директор / 55% = 拍板人 + 收件人（hristo@）",
+    "Мартин Капанов / Марияна Лазарова — Търговски отдел"
+   ],
+   "psc": "Христо Чанков 55%；Надя Желева 45%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已经直采中国（QQ / WeChat 公开）的索非亚光网分销商 → 分销 20%，B，加厚一次（small）**：STC-028GP / STC-228GP / STC-2224GP / STC-110XGE + STI-054GP / STI-144GP 一页纸 + 1:1 对照其在售 TP-Link / Moxa 价位；稿内不点名",
+    "收件人 hristo@ 直呼 Hristo（老板兼商务）；2 次打开无回复 → 二次触达换切口「a factory-direct switch line with EU-side invoicing」；发信窗口 Thu 12–14 EET；保语一句引子；WeChat 不用（规则：仅 James）"
+   ],
+   "notes": "分销 20%；B；加厚一次（small）；坐实（ЕИК）。",
+   "code": "SB-709"
+  },
+  "SB-1007": {
+   "batch": 108,
+   "name": "AV Nordic Hemsat AB（avnordic.se；布罗斯 Borås Elinsdalsgatan 15, 504 33；org.nr 556594-9863；VAT SE556594986301）— 2000-07-11 登记的安防 / 网络 / 音响 B2B 批发商（面向安装商与经销商：Uniview / Milesight 摄像机、Cvedia 分析、Global Caché；起家于天线 / 卫星分销）；Hemfast Holding AB 子公司；VD / 业主 Hans Martin Karlsson（官网署 Martin Carlzon VD/ägare，同一人待核）；登记 1 名雇员（LinkedIn 2–10）；2025 营收 SEK 8.4M（−36%）；群发 2 次打开",
+   "iso": "SE",
+   "fetched": "2026-10-28",
+   "source": "SE · 1 次检索：allabolag（AV Nordic Hemsat AB；Org.nr 556594-9863；Elinsdalsgatan 15 504 33 Borås；Del av Hemfast Holding AB；Registreringsdatum 2000-07-11；1 anställd；SNI 46502；VD Hans Martin Karlsson f 1976）+ ratsit（Omsättning 8,4 MSEK 2025；−36,1 %；VAT SE556594986301）+ avnordic.se Kontakta oss（Martin Carlzon VD/ägare；Fredrik Kärrander Marknadsföring fredrik@；info@avnordic.se）+ LinkedIn（2000；2–10）",
+   "url": "https://www.allabolag.se/foretag/av-nordic-hemsat-ab/bor%C3%A5s/elektronik-och-telekommunikationsutrustning/2K1TMEFI63IFR",
+   "number": "Org.nr 556594-9863",
+   "status": "Aktivt",
+   "incorporated": "2000-07-11",
+   "company_type": "Aktiebolag（Hemfast Holding AB 子公司）",
+   "sic": [
+    "安防 / 网络 / 音响 B2B 批发（SNI 46502）"
+   ],
+   "address": "Elinsdalsgatan 15, 504 33 Borås",
+   "accounts": "2025 营收 SEK 8.4M（−36%）",
+   "accounts_due": "—",
+   "size_band": "小微（1–10 人）",
+   "officers": [
+    "Martin Carlzon / Hans Martin Karlsson — VD / ägare = 拍板人（同一人待核）",
+    "Fredrik Kärrander — Marknadsföring（fredrik@）= 收件人"
+   ],
+   "psc": "Hemfast Holding AB",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**营收下滑的小型安防批发商 → 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配其摄像机品牌）；有回声再加厚**",
+    "收件人 fredrik@ 直呼 Fredrik，抄 info@ 点名 Martin；2 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；瑞典语一句引子；稿内不点名 Uniview / Milesight"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（org.nr）。",
+   "code": "SB-1007"
   }
  }
 }

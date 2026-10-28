@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 19
+  "count": 21
  },
  "rows": {
   "SA-070": {
@@ -624,6 +624,68 @@
    ],
    "notes": "分销 20%；B BIG；加厚一次；坐实（P.IVA + REA）。",
    "code": "SB-1018"
+  },
+  "SB-1069": {
+   "batch": 108,
+   "name": "REWEB S.R.L.（reweb.it；雷焦艾米利亚 Via Ferruccio Ferrari 6, 42124；P.IVA 02026760351；REA RE-244931）— 1983 年起、2002-12-07 现法人登记的 IT / IoT 增值分销商（M2M 多运营商 SIM、IoT 连接方案含蜂窝路由 / 天线 / 交换机、Advantech、Opengear 控制台服务器、数据中心）；2024 营收 €2.61M、净利 €399k；10 人；表内「工业 FS」；群发 2 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（REWEB S.R.L.；P.IVA 02026760351；VIA FERRUCCIO FERRARI 6 42124 REGGIO NELL’EMILIA；Rea 244931；Data Iscrizione 07/12/2002；Fatturato € 2.614.110 2024；Dipendenti 10；Utile € 399.426；ATECO 46501）+ reweb.it 首页 / Contatti（Innovazione tecnologica dal 1983；cuse@reweb.it；0522 1712600）+ LinkedIn（1983；11–50；Value added distributor；SIM M2M；console server）",
+   "url": "https://www.ufficiocamerale.it/9437/reweb-srl",
+   "number": "P.IVA / CF 02026760351；REA RE-244931",
+   "status": "Active",
+   "incorporated": "2002-12-07（活动 1983 起）",
+   "company_type": "S.r.l.（私有）",
+   "sic": [
+    "IT / IoT 增值分销（M2M SIM、蜂窝路由、工控、控制台服务器）"
+   ],
+   "address": "Via Ferruccio Ferrari 6, 42124 Reggio Emilia",
+   "accounts": "2024 营收 €2,614,110；净利 €399,426",
+   "accounts_due": "—",
+   "size_band": "小型（10 人）",
+   "officers": [
+    "（未具名）— 收件人 cuse@reweb.it（点名 ufficio acquisti / product manager IoT）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**IoT 连接方案 VAD（路由 + 天线 + 交换机打包卖集成商）→ 分销 20%，B，一页纸一次（STI-054GP / STI-144GP / STI-154GP 配蜂窝路由柜）；有回声再加厚**；稿内不点名 Advantech",
+    "2 次打开无回复 → 二次触达换切口「a DIN-rail switch to bundle with your cellular routers」；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20%；B；一页纸一次；坐实（P.IVA + REA + 营收）。",
+   "code": "SB-1069"
+  },
+  "SB-1074": {
+   "batch": 108,
+   "name": "SETIK S.R.L.（setik.biz；蒙扎-布里安扎 法定 Via San Carlo Borromeo 78/B, 20811 Cesano Maderno (MB)；运营 Via Giovanni Cimabue 35, 20851 Lissone；P.IVA 09729650961；REA MB-1910472）— 2017-01-09 登记的 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 品类词频）；2025 营收 €3.89M、净利 €9k；10 人；股本 €30,000；法国分支 SETIK S.R.L. 890 543 416 已于 2025-11-30 注销；群发 2 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（SETIK S.R.L.；P.IVA 09729650961；VIA SAN CARLO BORROMEO 78/B 20811 CESANO MADERNO (MB)；Rea 1910472；Data Iscrizione 09/01/2017；Fatturato € 3.890.337 2025；Dipendenti 10；Utile € 8.961；Capitale € 30.000）+ fatturatoitalia（REA MB 1910472；ATECO 47.91.1；Attiva）+ setik.biz 页脚（Sede Operativa Via Giovanni Cimabue 35 Lissone；Magazzino Via Guarenti 2/B）+ societe.com（法国分支 890 543 416 Radiée 30/11/2025）",
+   "url": "https://www.ufficiocamerale.it/5024/setik-srl",
+   "number": "P.IVA / CF 09729650961；REA MB-1910472",
+   "status": "Attiva",
+   "incorporated": "2017-01-09",
+   "company_type": "S.r.l.（私有；股本 €30,000）",
+   "sic": [
+    "CCTV / 报警 / 安防套件 电商（ATECO 47.91.1）"
+   ],
+   "address": "Via San Carlo Borromeo 78/B, 20811 Cesano Maderno (MB)（运营 Lissone）",
+   "accounts": "2025 营收 €3,890,337；净利 €8,961",
+   "accounts_due": "—",
+   "size_band": "小型（10 人；薄利）",
+   "officers": [
+    "（未具名）— 收件人 info@setik.biz（点名 ufficio acquisti）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€3.9M 薄利安防电商（PoE 交换机是其套件配件）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 对照其在售 TP-Link 价位）；有回声再加厚**；稿内不点名 Dahua / Hikvision / TP-Link",
+    "2 次打开无回复 → 二次触达换切口「PoE switches priced for camera kits」；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（P.IVA + REA + 营收）。",
+   "code": "SB-1074"
   }
  }
 }
