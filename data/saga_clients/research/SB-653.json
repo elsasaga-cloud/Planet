@@ -39,8 +39,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 coredata.com.tr，语言 en，快照状态 ok；角色判定来源：待核"
+  "hq": "Hamidiye Mah. Alp Sk. C Blok Apt. No:4/C/2, Kağıthane, İstanbul",
+  "other": "官网 coredata.com.tr，语言 en，快照状态 ok；角色判定来源：待核；第 94 批：原 Plesk 默认页已换正式站（2026）但无人名 / 产品页 → 身份只到「伊斯坦布尔小电信 / 集成商」；写 satis@coredata.com.tr 一封分销 20%，不加厚（第 94 批 官方登记核实 2026-10-28）",
+  "legal_name": "Coredata Telekom A.Ş.（MERSİS / 商会号未取）",
+  "founded": "未取（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "微型–小型（未取）"
  },
  "business_lines": [
   "（待核）"

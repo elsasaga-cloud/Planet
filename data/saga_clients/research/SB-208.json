@@ -1,145 +1,156 @@
 {
-  "code": "SB-208",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（delock.com，快照 2026-10-21）",
-  "summary": "德国 Delock（Tragant 旗下配件品牌：MC、交换机、SFP、PoE 设备等自有 logo 周边产品，工业品少；表内「自己的 logo MC / FS / SFP，工业品少，很多是周边产品」「可以着重跟一下」；备注 URL 为芬兰经销商 triosoft.fi 的 Delock MC 页——官网快照亦落在 triosoft.fi（站点不符，待重抓 delock.com））；群发 8 次无回复。",
-  "type": "德国配件品牌商（自有 logo MC/PoE 周边，OEM 采购）",
-  "size": "",
-  "brands_seen": [
-    "Zyxel"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Triosoftilta tietokoneiden lisätarvikkeet / komponentit; all-in-one tietokonekauppa: verkkokauppa, tietokonehuolto ja myymälä Tampereella. Ethernet -kaapelit, USB tai display -adapterit, tulostimet, tulostintarvikkeet, tarra-arkit ja paljon",
-      "url": "https://www.triosoft.fi/index.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "自己的logo MC FS SFP 工业品少 很多是周边产品；https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "快照落在经销商 triosoft.fi",
-      "quote": "Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa ; /c67-poe-laitteet-fi.html",
-      "url": "https://www.triosoft.fi/index.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "自己的 logo MC FS SFP，工业品少",
-      "quote": "自己的logo MC FS SFP 工业品少 很多是周边产品；可以着重跟一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-208",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（delock.com，快照 2026-10-21）",
+ "summary": "德国 Delock（Tragant 旗下配件品牌：MC、交换机、SFP、PoE 设备等自有 logo 周边产品，工业品少；表内「自己的 logo MC / FS / SFP，工业品少，很多是周边产品」「可以着重跟一下」；备注 URL 为芬兰经销商 triosoft.fi 的 Delock MC 页——官网快照亦落在 triosoft.fi（站点不符，待重抓 delock.com））；群发 8 次无回复。",
+ "type": "德国配件品牌商（自有 logo MC/PoE 周边，OEM 采购）",
+ "size": "",
+ "brands_seen": [
+  "Zyxel"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Triosoftilta tietokoneiden lisätarvikkeet / komponentit; all-in-one tietokonekauppa: verkkokauppa, tietokonehuolto ja myymälä Tampereella. Ethernet -kaapelit, USB tai display -adapterit, tulostimet, tulostintarvikkeet, tarra-arkit ja paljon",
+   "url": "https://www.triosoft.fi/index.html",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "德国",
-    "other": "官网 delock.com，语言 fi，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "自己的logo MC FS SFP 工业品少 很多是周边产品；https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IT 配件（自有品牌 Delock：MC / 交换机 / SFP / PoE 周边）"
-  ],
-  "channels": {
-    "role": "德国配件品牌商（自有 logo MC/PoE 周边，OEM 采购）",
-    "region": "德国",
-    "contact": "info@delock.de"
+  {
+   "kind": "官网快照",
+   "claim": "快照落在经销商 triosoft.fi",
+   "quote": "Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa ; /c67-poe-laitteet-fi.html",
+   "url": "https://www.triosoft.fi/index.html",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "表内备注：https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html（Delock 100Base-FX MC）",
-    "快照（triosoft.fi）：Zyxel GS1900-10HP / PoE-laitteet 栏目；kw ethernet 66 / poe 16"
-  ],
-  "risks": [
-    "快照站点不符：抓到芬兰经销商 triosoft.fi，delock.com 待重抓（site_mismatch）",
-    "配件品牌：SKU 多、单品量小；8 次无回复，仅 info@"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE"
-  },
-  "email_hook": "For the Delock PoE switches and media converters, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 4/8-port PoE, gigabit MC) from small lots in your retail packaging, CE/RoHS — which Delock PoE SKU do you reorder most often?",
-  "products_seen": [
-    {
-      "brand": "Delock（自有）",
-      "model": "Kuitumuunnin 100Base-FX SC MM 1310 nm 2 km",
-      "spec": "桌面百兆 MC",
-      "saga": "SmartByte/HRUI 桌面 MC（注明，Saga 列表无）",
-      "url": "https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@delock.de；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-24「Mini Industrial PoE Switch」；To 仅本户 info@delock.de；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@delock.de` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "德国配件品牌商（自有 logo MC/PoE 周边，OEM 采购）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "DE 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「自己的logo MC FS SFP 工业品少 很多是周边产品；https://www.triosoft.fi/p7504-delock-kuitumuunnin」；研究档 risks：快照站点不符：抓到芬兰经销商 triosoft.fi，delock.com 待重抓（site_mismatch）；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
-    },
-    "situation": "德国 Delock（Tragant 旗下配件品牌：MC、交换机、SFP、PoE 设备等自有 logo 周边产品，工业品少；表内「自己的 logo MC / FS / SFP，工业品少，很多是周边产品」「可以着重跟一下」；备注 URL 为芬兰经销商 triosoft.fi 的 Delock MC 页——官网快照亦落在 triosoft.fi（站点不符，待重抓 delock.com））；群发 8 次无回复。",
-    "need": "自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE",
-    "breakpoint": "快照站点不符：抓到芬兰经销商 triosoft.fi，delock.com 待重抓（site_mismatch）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）",
-      "why": "自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE。已打开的主题（1/16 封有打开记录）：「90W PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Mini Industrial PoE Switch」给 info@delock.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开",
-      "one_question": "For the Delock PoE switches and media converters, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 4/8-port PoE, gigabit MC) from small lots in your retail packaging, CE/RoHS — which Delock PoE SKU do you reorder most often?"
-    },
-    "facts": [
-      {
-        "date": "2025-02-24",
-        "dir": "去",
-        "who": "Elsa 1:1 去信（To info@delock.de）",
-        "quote": "Mini Industrial PoE Switch — MINI DIN unmanaged, 100/1000M auto-adaptive SFP, DIP, PoE optional, support OEM（稿内无价，第 74 批(p) 已读稿）",
-        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-        "k": "elsa_1to1",
-        "msg_id": "19537ef890cf3f79"
-      },
-      {
-        "date": "2026-09-23",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
-        "why": "16 封 / 1 次打开 / 0 回｜首封 2025-04-11 → 末封 2026-09-23（16 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "自己的logo MC FS SFP 工业品少 很多是周边产品；https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "自己的 logo MC FS SFP，工业品少",
+   "quote": "自己的logo MC FS SFP 工业品少 很多是周边产品；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ahmad Ebrahimi",
+   "role": "Dipl.-Ing.；Geschäftsführer / 创始人（1992）/ 所有者（HRB 45788 B Charlottenburg；GF 登记 2004-10-14–）= 老板；Azar Bayegi Geschäftsführerin 2020-02-06–（采购在台北分公司，邮箱未取 → info@delock.de）（第 94 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.delock.de/impressum/index.html"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "Beeskowdamm 13/15, 14167 Berlin（台北分公司 2005 起）",
+  "other": "官网 delock.com，语言 fi，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌 Delock IT 配件 / MC / SFP 进口分销 25 国、台北采购 → B BIG、OEM 30% 低概率；一页纸 MC + 小口数 PoE 即止（第 94 批 官方登记核实 2026-10-28）",
+  "legal_name": "TRAGANT Handels- und Beteiligungsgesellschaft mbH（Delock / Navilock 品牌；AG Charlottenburg HRB 45788 B；LEI 391200S2D0IEA0LPEV63；USt DE156330245）",
+  "founded": "1992（创立）/ 2004-10-14（现登记）（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "67–84 人；营收 €26M（2017）/ €10–50M；资产负债表 €28.4M（2023）"
+ },
+ "business_lines": [
+  "IT 配件（自有品牌 Delock：MC / 交换机 / SFP / PoE 周边）"
+ ],
+ "channels": {
+  "role": "德国配件品牌商（自有 logo MC/PoE 周边，OEM 采购）",
+  "region": "德国",
+  "contact": "info@delock.de"
+ },
+ "signals": [
+  "表内备注：https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html（Delock 100Base-FX MC）",
+  "快照（triosoft.fi）：Zyxel GS1900-10HP / PoE-laitteet 栏目；kw ethernet 66 / poe 16"
+ ],
+ "risks": [
+  "快照站点不符：抓到芬兰经销商 triosoft.fi，delock.com 待重抓（site_mismatch）",
+  "配件品牌：SKU 多、单品量小；8 次无回复，仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE"
+ },
+ "email_hook": "For the Delock PoE switches and media converters, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 4/8-port PoE, gigabit MC) from small lots in your retail packaging, CE/RoHS — which Delock PoE SKU do you reorder most often?",
+ "products_seen": [
+  {
+   "brand": "Delock（自有）",
+   "model": "Kuitumuunnin 100Base-FX SC MM 1310 nm 2 km",
+   "spec": "桌面百兆 MC",
+   "saga": "SmartByte/HRUI 桌面 MC（注明，Saga 列表无）",
+   "url": "https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@delock.de；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-24「Mini Industrial PoE Switch」；To 仅本户 info@delock.de；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@delock.de` 仅此 1 条，complete）（第 74 批(m)）",
+   "type": "德国配件品牌商（自有 logo MC/PoE 周边，OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「自己的logo MC FS SFP 工业品少 很多是周边产品；https://www.triosoft.fi/p7504-delock-kuitumuunnin」；研究档 risks：快照站点不符：抓到芬兰经销商 triosoft.fi，delock.com 待重抓（site_mismatch）；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
+  },
+  "situation": "德国 Delock（Tragant 旗下配件品牌：MC、交换机、SFP、PoE 设备等自有 logo 周边产品，工业品少；表内「自己的 logo MC / FS / SFP，工业品少，很多是周边产品」「可以着重跟一下」；备注 URL 为芬兰经销商 triosoft.fi 的 Delock MC 页——官网快照亦落在 triosoft.fi（站点不符，待重抓 delock.com））；群发 8 次无回复。",
+  "need": "自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE",
+  "breakpoint": "快照站点不符：抓到芬兰经销商 triosoft.fi，delock.com 待重抓（site_mismatch）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE。已打开的主题（1/16 封有打开记录）：「90W PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Mini Industrial PoE Switch」给 info@delock.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开",
+   "one_question": "For the Delock PoE switches and media converters, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 4/8-port PoE, gigabit MC) from small lots in your retail packaging, CE/RoHS — which Delock PoE SKU do you reorder most often?"
+  },
+  "facts": [
+   {
+    "date": "2025-02-24",
+    "dir": "去",
+    "who": "Elsa 1:1 去信（To info@delock.de）",
+    "quote": "Mini Industrial PoE Switch — MINI DIN unmanaged, 100/1000M auto-adaptive SFP, DIP, PoE optional, support OEM（稿内无价，第 74 批(p) 已读稿）",
+    "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
+    "k": "elsa_1to1",
+    "msg_id": "19537ef890cf3f79"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
+    "why": "16 封 / 1 次打开 / 0 回｜首封 2025-04-11 → 末封 2026-09-23（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "自己的logo MC FS SFP 工业品少 很多是周边产品；https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

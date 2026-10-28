@@ -45,14 +45,23 @@
    "title": "V.P. Product Development",
    "email": "sales@xblue.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "VP Product Development（NENA 登记联系人）= 产品 / 选型人 = 首收件人（第 94 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Larry Steinmetz",
    "title": "President",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Founder & President（2005 创立；Crunchbase / contactout）= 老板 = 抄送（第 94 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Paul Lynch",
+   "role": "Vice President, Product Development（contactout / ZoomInfo）= 产品口（与 Paul Falanga 并列）（第 94 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://contactout.com/company/XBLUE-Networks-51822"
   }
  ],
  "grade_override": null,
@@ -63,8 +72,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 xblue.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "20801 N. 19th Ave, Suite 2 & 3, Phoenix, AZ 85027（旧址 Lenexa KS）",
+  "other": "官网 xblue.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 94 批：自有品牌小企业电话系统经零售 / 电商销售；研究档「PoE = ONV 去 logo」= 已贴标 → OEM 30%：8 口 PoE 电话机配套，注明中性包装 + FCC（第 94 批 官方登记核实 2026-10-28）",
+  "legal_name": "XBLUE Networks, LLC（Crunchbase 法定名；AZ 登记号未取）",
+  "founded": "2005（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "11–14 人；$2M 级（第三方）"
  },
  "business_lines": [
   "中小企业电话系统（自有品牌 XBLUE）"

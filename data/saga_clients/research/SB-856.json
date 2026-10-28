@@ -41,11 +41,12 @@
  ],
  "kp": [
   {
-   "name": "Martin Omond Tong",
+   "name": "Martin Omond-Tong",
    "title": "（负责人）",
    "email": "martin@o-tc.co.uk",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "创办人（2012；Eplan 电气设计咨询；董事身份推定）= 老板；Pamela Omond-Tong Director 2015-05-15 任（Companies House 08154404）（第 94 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -56,8 +57,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 o-tc.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "4 Wentworth Way, Woodhall Spa, Lincolnshire, LN10 6PG",
+  "other": "官网 o-tc.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案；第 94 批：两人电气设计咨询、买工业 MC 配自动化项目；自述已有中国 / 台湾 IoT 伙伴 → 小项目集成商 25%，量极小，不投第 2 封（第 94 批 官方登记核实 2026-10-28）",
+  "legal_name": "OMOND-TONG CONSULTANCY LTD（Companies House 08154404；t/a O-TC Ltd）",
+  "founded": "2012-07-24（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "微型（夫妻公司）"
  },
  "business_lines": [
   "Eplan 电气设计 / 自动化咨询（英国）"

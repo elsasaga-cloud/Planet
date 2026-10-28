@@ -56,10 +56,11 @@
   "level": "B 级加厚 v1（官网目录核对）"
  },
  "company_facts": {
-  "legal_name": "Pulsar（pulsar.pl；法人全称待核）",
-  "hq": "波兰（Siechnice/Wrocław 区域，待核）",
+  "legal_name": "Pulsar（pulsar.pl；Siechnice；法定主体名 / KRS 未取 —— 同名陷阱：PULSAR Sp. z o.o. KRS 0000262594（卡托维兹，营收 76 万 zł）是另一家）",
+  "hq": "Siechnice（Wrocław 附近）",
   "size": "制造商（规模待核）",
-  "other": "产品：缓冲电源（DING2/DRC/DRS/PSB）、变压器、PoE 交换机（商用+工业 DIN）；按 IEEE 802.3af/at/bt"
+  "other": "产品：缓冲电源（DING2/DRC/DRS/PSB）、变压器、PoE 交换机（商用+工业 DIN）；按 IEEE 802.3af/at/bt；第 94 批：自产安防电源 + PoE 交换机（S64 / S108 / SG32 / ISFG108）= **同行** → 守界：不发价格表、不加厚、B 不动（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "中型（8,000 m² 厂区）"
  },
  "business_lines": [
   "缓冲/开关电源与变压器制造（自有品牌）",

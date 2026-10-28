@@ -43,14 +43,16 @@
    "title": "Product Manager",
    "email": "sales@enetusa.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "销售公域（研究档）（第 94 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Jason Barrette",
    "title": "CEO",
    "email": "jason@enetusa.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President（growjo；原 ENET Components VP Sales）= 拍板层（2023-12 后归 NSI 集团）（第 94 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Aaron S",
@@ -68,8 +70,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 enetusa.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "75 Argonaut, Suite B, Aliso Viejo, CA 92656",
+  "other": "官网 enetusa.com，语言 en，快照状态 ok；角色判定来源：用户表；第 94 批：主品类 SFP / DAC / 内存（Saga 不供）；研究档「MC 自己的 logo」→ 只剩 MC 贴标一条线 OEM 30%，且已并入 NSI 集团采购 → 低概率，一页纸即止（第 94 批 官方登记核实 2026-10-28）",
+  "legal_name": "ENET Solutions, Inc.（加州；2023-12-12 起为 NSI Industries, LLC（Huntersville NC）子公司 / 品牌；曾名 ENET Components, Inc.）",
+  "founded": "2003（Chris Brock 创立）（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "27–30+ 人；$10M 级"
  },
  "business_lines": [
   "OEM 兼容光模块 / DAC / AOC / 线缆（自有品牌 ENET）"

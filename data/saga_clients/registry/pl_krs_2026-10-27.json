@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 17
+  "count": 21
  },
  "rows": {
   "SA-023": {
@@ -583,6 +583,130 @@
    ],
    "notes": "底数完整即可。",
    "code": "SB-270"
+  },
+  "SB-585": {
+   "batch": 94,
+   "name": "VIDOS Sp. z o.o.（vidos.pl；Sokołów k/Warszawy）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：aleo / gowork / aplikuj（VIDOS SPÓŁKA Z O.O.；KRS 0000857683；NIP 5342626018；REGON 386943260；ul. Sokołowska 44, 05-806 Sokołów；资本 5,000 zł；KRS 登记 2020-09-03；状态 AKTYWNA；PKD 批发）+ vidos.pl/contact（Vidos LLC 同址；旧 2018 页 Reguły Al. Jerozolimskie 311、NIP 728-120-97-11 = 前身个体 / 旧主体）+ 产品页（视频对讲 / 门禁 / 门控自动化 / CCTV 自有品牌「Producent」；客户为安防专业公司）；同名陷阱：vidos-domofony.pl（KRS 0000857651 另一法人）、PPHU HERZ vidos-sklep.pl（经销商）",
+   "url": "https://aleo.com/int/company/vidos-sp-z-oo-sokolow",
+   "number": "KRS 0000857683 / NIP 5342626018 / REGON 386943260",
+   "status": "AKTYWNA",
+   "incorporated": "2020-09-03（KRS；品牌业务更早，前身 Reguły 主体 NIP 7281209711）",
+   "company_type": "Spółka z o.o.（资本 5,000 zł）",
+   "sic": [
+    "视频对讲 / 门禁 / 门控自动化 自有品牌（亚洲代工）批发给安防安装商"
+   ],
+   "address": "ul. Sokołowska 44, 05-806 Sokołów k/Warszawy",
+   "accounts": "未取（rejestr.io 未单独取）",
+   "accounts_due": "—",
+   "size_band": "小型（人数未取；有招聘页）",
+   "officers": [
+    "（zarząd 未取 — 1 次检索片段无人名）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌对讲 + 已有自标 PoE 交换机（研究档）= 现成贴牌买家** → **OEM 30%：4 / 8 口 PoE（对讲 / 门口机供电）STC-028GP / STI-054GP 贴 Vidos 标**",
+    "2020 新法人 + 5,000 zł 资本 = 重组后的轻资产贸易主体 → 先款后货；研究档无 KP → 写 公域邮箱 + 要采购负责人",
+    "同名陷阱：vidos-domofony.pl / vidos-sklep.pl 都是别的法人（经销商），别混"
+   ],
+   "notes": "zarząd / 财务未取（省 1 次 rejestr.io）。",
+   "code": "SB-585"
+  },
+  "SB-906": {
+   "batch": 94,
+   "name": "Avizio（avizio.pl）— 1 次未命中（侧证：疑为 SB-445 AICOM 的自有品牌）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索「Avizio avizio.pl firma KRS」：无 Avizio 法人页；侧证：lan-cctv.pl 站内搜索「avizio」页脚显示「AICOM · NIP 6782913975 · REGON 356808516 · KRS 0000654397」（lan-cctv.pl = AICOM 的网店）→ Avizio 疑为 AICOM Sp. z o.o.（Kraków；SB-445）自有品牌（推定，未经 Impressum 直证）",
+   "url": "https://www.lan-cctv.pl/wyszukiwanie,list,0,0?search=avizio",
+   "number": "（疑）AICOM KRS 0000654397 / NIP 6782913975",
+   "status": "未命中（品牌站无法人页）",
+   "incorporated": "—",
+   "company_type": "—（疑为 AICOM 品牌）",
+   "sic": [
+    "（研究档）工业 FS 刷自有标、安防为主"
+   ],
+   "address": "（疑）Kraków",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "—",
+   "officers": [],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一次未命中 → 停**；但侧证指向 Avizio = SB-445 AICOM 自有品牌 → **下轮一次直查 avizio.pl Impressum 即可定「并线 SB-445」**",
+    "若并线成立：SB-445 研究档「在用国内的、8 次无回复」+ 自有品牌 = OEM 30% 对象但已冷 → 不加投入",
+    "暂不改研究档归属"
+   ],
+   "notes": "第 94 批 1 次未命中 + 侧证推定；下轮 1 次直查。",
+   "code": "SB-906"
+  },
+  "SB-1046": {
+   "batch": 94,
+   "name": "VOLTA Sp. z o.o.（ivolta.pl / volta.com.pl；Warszawa）— Satel / Hikvision / Dahua 授权分销",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：bizraport（VOLTA SP. Z O.O.；KRS 0000023698；NIP 5211367444；REGON 010829096；登记 2001-06-28；资本 1,020,000 PLN；营收 2025 90.85 mln zł / 2024 83.30 / 2023 83.19；资产 30.4 mln）+ ivolta.pl/contact（ul. Jutrzenki 94, 02-230 Warszawa；BDO 000051577）+ en.ivolta.pl（25 年；Satel / Hikvision / Dahua 授权分销；70+ 人；华沙总部 + 10 分部）+ LinkedIn（51–200 人；1986 起）",
+   "url": "https://www.bizraport.pl/krs/0000023698/volta-spolka-z-ograniczona-odpowiedzialnoscia",
+   "number": "KRS 0000023698 / NIP 5211367444 / REGON 010829096",
+   "status": "AKTYWNA",
+   "incorporated": "2001-06-28（KRS；业务 1986 起）",
+   "company_type": "Spółka z o.o.（资本 1,020,000 PLN）",
+   "sic": [
+    "电子安防系统批发（CCTV / 报警 / 门禁 / 消防；PKD 46.xx）"
+   ],
+   "address": "ul. Jutrzenki 94, 02-230 Warszawa",
+   "accounts": "营收 90.85 mln zł（2025）；83.30（2024）；83.19（2023）；资产 30.4 mln zł",
+   "accounts_due": "—",
+   "size_band": "中型（70+ 人；≈€21M 营收）",
+   "officers": [
+    "（zarząd 未取 — 片段无人名）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**波兰安防分销 Top 级（€21M、10 分部、Hikvision / Dahua / Satel 授权）= B BIG** → 分销 20% 线，走品牌 SmartByte 上架，不谈贴标",
+    "研究档「PoE 很多摄像头、很多牌子、有 Utepo」→ 已有 PoE 供应（Utepo 等）→ 开场只谈「第二供应 + 现货期」，一个问题：现用 PoE 交期？",
+    "zarząd 未取 → 写采购 / 产品经理公域邮箱；年度复核营收"
+   ],
+   "notes": "zarząd 未取（省 1 次 rejestr.io）。",
+   "code": "SB-1046"
+  },
+  "SB-152": {
+   "batch": 94,
+   "name": "Pulsar（pulsar.pl；Siechnice）— 电源 + PoE 交换机制造商 = 同行；同名陷阱",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：pulsar.pl（产品：工业 PoE 交换机 DIN、PoE 交换机 S64 / S108 / SG32 / ISFG108、PoE 供电系统 SWS、EN54 消防电源；「生产、仓库等 8000 m²」）+ tim.pl / eltrox.pl（Pulsar 自有品牌 PoE 交换机在售）；bizraport「PULSAR SP. Z O.O. KRS 0000262594 NIP 9542567297（营收 763 tys. zł）」= **同名他户**（卡托维兹小公司，不是 pulsar.pl）",
+   "url": "https://www.pulsar.pl/PL_1026_o-firmie",
+   "number": "法定主体号未取（pulsar.pl 的法人名 1 次检索未出现；KRS 0000262594 是同名他户）",
+   "status": "Active（官网 / 渠道在售）",
+   "incorporated": "未取",
+   "company_type": "未取（制造商）",
+   "sic": [
+    "安防电源 / 蓄电池机箱 / PoE 交换机 / PoE 供电系统 制造（自有品牌 Pulsar）"
+   ],
+   "address": "Siechnice（Wrocław 附近；街道未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（8,000 m² 厂区）",
+   "officers": [],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自产 PoE 交换机（S108 / ISFG108）= 同行** → 守界：不发价格表、不加厚；B 不动",
+    "同名陷阱：bizraport 的 PULSAR Sp. z o.o.（KRS 0000262594）营收 76 万 zł 是另一家，不能写进任何材料",
+    "若他们要外采 ODM 也是工厂级 → Saga 不碰"
+   ],
+   "notes": "第 94 批：定性同行 → 不动；法人号不再追。",
+   "code": "SB-152"
   }
  }
 }

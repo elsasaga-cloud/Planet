@@ -46,8 +46,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 ccontrols.de，语言 de，快照状态 ok；角色判定来源：用户表"
+  "hq": "Fuggerstraße 1 B, 04158 Leipzig",
+  "other": "官网 ccontrols.de，语言 de，快照状态 ok；角色判定来源：用户表；第 94 批：GF George M. Thomas = 美国母公司创始人；自有品牌工业交换机 / MC（CTRLink）+ BACnet 路由器制造商 = **同行** → 守界：不发价格表、不加厚、B 不动（第 94 批 官方登记核实 2026-10-28）",
+  "legal_name": "Contemporary Controls GmbH（Amtsgericht Leipzig HRB 24731；曾 Stendal HRB 214009；USt DE220664517；美国 Contemporary Controls Systems, Inc.（Downers Grove IL）100% 子公司）",
+  "founded": "2006-10（Eisleben 登记；2009-02 迁 Leipzig）（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "德国分部 ≤20 人（母公司 ≈100）"
  },
  "business_lines": [
   "楼宇自动化（BACnet 路由/网关）",

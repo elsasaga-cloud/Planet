@@ -36,8 +36,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 eretekne.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "19 Mayıs Mah. Güven Sk. No:4/2, Şişli, İstanbul",
+  "other": "官网 eretekne.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 94 批：Erete = Edge-Core（Accton）+ Etherwan + Fluke 土耳其分销商（卖竞品）；B2B 负责人 Pınar Kabil（创始合伙人）；只跟 SB-867 一线，不加厚（第 94 批 官方登记核实 2026-10-28）",
+  "legal_name": "Erete Bilgi Sistemleri Dış Tic. ve San. Ltd. Şti.（eretekne.com = Erete 的 B2B 网店；VKN 3540201016 Mecidiyeköy V.D.）= **与 SB-867 Erete 同一法人 → 并线 SB-867**",
+  "founded": "2001-12（Erete）（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "小型（同 SB-867）"
  },
  "business_lines": [
   "安防传输 / 工业网络产品分销（土耳其）"

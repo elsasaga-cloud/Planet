@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 45
+  "count": 50
  },
  "rows": {
   "SA-002": {
@@ -836,35 +836,35 @@
    "_src": "USA · 州务卿登记 / OpenCorporates"
   },
   "SB-1114": {
-   "batch": 88,
-   "name": "FikesMedia（FikesMedia LLC，ZoomInfo）",
+   "batch": 94,
+   "name": "FikesMedia LLC（fikesmedia.com；Silsbee TX）",
    "iso": "US",
-   "source": "US · 公司官网 about / contact + Tracxn（2007 创立，创始人 Christopher Fikes，1–10 人）+ Crunchbase 人物页 + ZoomInfo；TX SoS 登记未取",
+   "source": "US · 1 次检索：Tracxn（2007 年 Christopher Fikes 创立；Silsbee；未融资）+ fikesmedia.com/about（2007；「与老朋友 Mikrotik 的新合作」）+ /contact（105 George St, Silsbee TX 77656；旧址 109 Pinecrest Dr）+ Crunchbase 人物页（Christopher Fikes：Evadale ISD 信息技术主任 2018– + FikesMedia Owner 2007–）+ bizstanding（Fikesmedia.Com, Member Christopher Fikes / Principal, inactive）",
    "url": "https://www.fikesmedia.com/about",
-   "number": "TX SoS 编号未取（LLC，Silsbee TX）",
-   "status": "在营（官网 © 2025；2026-10-03 来信）",
-   "incorporated": "2007-01（Crunchbase：Owner Jan 2007 至今）",
-   "company_type": "LLC · 一人公司（业主 Christopher Fikes 同时任 Evadale ISD 信息技术主管，2018-08 起）",
+   "number": "TX 登记号未取（TX SoS 付费；bizstanding 镜像显示旧登记 inactive）",
+   "status": "官网在线（2026）；登记状态存疑（镜像 inactive）",
+   "incorporated": "2007",
+   "company_type": "LLC（德州）",
    "sic": [
-    "网络咨询 / 数据中心 / VoIP / **MikroTik 咨询与合作伙伴**；客户 = 德州地方政府、K-12 / 高校、企业；曾转售 UniFi / EdgeMax / Dell EMC / HPE Aruba / pfSense；GitHub 开源工具（Proxmox、AD 同步、校园门禁）"
+    "MikroTik 转售 + IT 服务（副业）"
    ],
-   "address": "105 George St, Silsbee, TX 77656（另 109 Pinecrest Dr）",
-   "accounts": "私企无公开财报；Tracxn 1–10 人、未融资",
-   "accounts_due": "TX 特许税报告 5-15",
-   "size_band": "微型（1–10 人；业主兼职学区 IT 主管）",
+   "address": "105 George St, Silsbee, TX 77656",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（1 人；老板另有全职 = 学区 IT 主任 + 兼职教授）",
    "officers": [
-    "Christopher FIKES — Owner / Founder（2007）= 研究档 KP（2026-10-03 来信「This actually does have my interest… customization… API for controller integration」）→ **老板 = 联系人**；本职 Evadale ISD Director of IT"
+    "Christopher Fikes — Owner（研究档 KP；同时任 Evadale ISD Director of IT）"
    ],
    "psc": "Christopher Fikes 100%（推定）",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**老板 = 联系人：Chris Fikes 是一人 MikroTik 咨询 / 集成商（客户 = 德州学区 + 市政），本职是学区 IT 主管；他 2026-10-03 来信问定制程度与控制器 API，Simon 10-04 长回 + 10-19 催样都没回** → 他要的是「能被他的控制器 / 脚本接管」的交换机：下一封由 Alan 以工程口吻答具体项 —— SNMP / CLI / RESTCONF 或 Web API 有无、固件可否定制、能否提供 MIB；**别再催样**，先把技术问答给足（他是技术人）；GitHub 开源作者 → 给文档链接比给价表管用",
-    "学区 / 市政采购走 TX 州合同 / 报价单（无联邦 TAA 问题，但 E-Rate 项目有 FCC 禁购清单 —— Marvell / CENTEC 白牌不在清单）；一人公司 100% 预付、MOQ 1、DAP 德州走 Saga 百运网线；US 周三 08–10 发信（CST）",
-    "复查：每年看官网 services 是否仍列 MikroTik（= 仍在做集成）"
+    "**一人副业（老板全职在学区）** → 量极小；分销 20% 线只给一页纸，不投第 2 封",
+    "唯一价值：他管一个学区的网络 → 若他回信，问的是「学区项目用 PoE 交换机」而不是经销",
+    "德州登记可能已失效（镜像 inactive）→ 不作为可靠底数；不动 B"
    ],
-   "notes": "研究档 founded 可回填 2007；legal_name FikesMedia LLC（ZoomInfo，待 TX SoS 核）。",
-   "fetched": "2026-10-27",
+   "notes": "TX SoS 付费未查；不再追。",
+   "fetched": "2026-10-28",
    "code": "SB-1114"
   },
   "SB-352": {
@@ -1362,33 +1362,33 @@
    "code": "SB-362"
   },
   "SB-150": {
-   "batch": 93,
-   "name": "Nexxus（nexxus.cc）— 1 次未命中",
+   "batch": 94,
+   "name": "Nexxus（nexxus.cc）— 直查：站活、自有标 3 口千兆 PoE",
    "iso": "US",
    "fetched": "2026-10-28",
-   "source": "US · 1 次检索「Nexxus nexxus.cc industrial Ethernet switch」：返回全是同名他户（墨西哥工业地产 Nexxus、马萨诸塞软件 The Nexxus Group、Nexius 电信、护发品牌 Nexxus）；唯一同品类线索 nexxusnetworks.com（「第一家智能 PoE 制造商，17 年」，2024-04）域名不同、未证同一",
-   "url": "https://nexxusnetworks.com/home-2/",
-   "number": "未取",
-   "status": "未命中（域 nexxus.cc 无法与任何登记主体对上）",
-   "incorporated": "—",
-   "company_type": "—",
+   "source": "US · 第 94 批补项 1 次直查 nexxus.cc 首页（fetch_page 2026-10-28）：「Reliable Networking Solutions」；产品线 IP 电话 / UC、Wi-Fi、网络交换机、安防 / 防火墙、存储；首页主推自有「3-Port Gigabit PoE Switch（Smart PoE / Plug & Play）」；案例：全球 3D 打印龙头、全球最大玻璃制造商；客户 logo 含 EHNAC；2024-03 / 2025-03 更新；无 Impressum / 地址 / 人名",
+   "url": "https://nexxus.cc/",
+   "number": "未取（站无法人信息）",
+   "status": "Active（2025-03 产品图更新）",
+   "incorporated": "未取",
+   "company_type": "未取",
    "sic": [
-    "（研究档）ONV 工业 FS 贴自有标"
+    "网络方案 / VAR（交换、Wi-Fi、UC、防火墙、存储）+ 自有标小口数 PoE"
    ],
-   "address": "USA（州 / 城市未取）",
+   "address": "未取（站无地址；研究档 US）",
    "accounts": "—",
    "accounts_due": "—",
-   "size_band": "—",
+   "size_band": "未取",
    "officers": [],
    "psc": "",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**一次检索未命中 → 按规程停**；nexxus.cc 与 nexxusnetworks.com 是否同一家待下轮一次直查（Impressum / WHOIS 镜像）",
-    "同名陷阱极多（护发品牌 / 地产 / 软件 / 电信），任何第三方「Nexxus」营收 / 人数都不可用",
-    "不影响跟进：研究档已有「工业 FS 贴标」兴趣 → 仍按 OEM 30% 一页纸等回信"
+    "**站活、有自有标 PoE 小交换机 → 研究档「工业 FS 贴标」兴趣成立**；OEM 30% 一页纸照发（STI-054GP / STI-154GP + 商用 STC-028GP）",
+    "与 nexxusnetworks.com **不是**同一家（产品 / 文案 / 客户群都不同）→ 第 93 批线索作废",
+    "法人 / 地址不可查（站无 Impressum）→ 永久标「底数不可查」，不再追"
    ],
-   "notes": "第 93 批 1 次未命中；下轮若再 1 次不中则永久标「底数不可查」。",
+   "notes": "第 93 批 1 次未命中 + 第 94 批 1 次直查 → 永久「底数不可查」。",
    "code": "SB-150"
   },
   "SB-353": {
@@ -1526,6 +1526,174 @@
    ],
    "notes": "INC 5000 / 联邦供应商 = 公开可核；营收只记区间。",
    "code": "SB-761"
+  },
+  "SB-098": {
+   "batch": 94,
+   "name": "Nexxt Solutions（nexxtsolutions.com；Miami FL）— Intcomex 集团自有品牌",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：LinkedIn 公司页（Computer Hardware Manufacturing；201–500 人；Miami FL；Founded 2006；3505 NW 107 Ave）+ ZoomInfo / Datanyze（同址；2006；51–200 / 69 人；$26.4M 第三方估）+ Intcomex 公司史（1988/89 Shalom 父子创立；Delaware 公司；拉美 / 加勒比 IT 分销；40,000+ 客户 / 45 国；2,600 人；曾 2007 申请上市）",
+   "url": "https://www.linkedin.com/company/nexxt-solutions",
+   "number": "FL / DE 登记号未取（Sunbiz ✗）",
+   "status": "Active（LinkedIn / 官网在线）",
+   "incorporated": "2006（品牌；母公司 Intcomex 1988）",
+   "company_type": "Intcomex, Inc.（Delaware）旗下自有品牌 / 事业部（独立法人与否未取）",
+   "sic": [
+    "网络 / 连接 / 电源自有品牌（Nexxt：交换机、PoE、路由、配线、UPS），母公司 IT 分销（NAICS 423430）"
+   ],
+   "address": "3505 NW 107th Ave, Miami (Doral), FL 33178",
+   "accounts": "—（私有）",
+   "accounts_due": "—",
+   "size_band": "大型集团内品牌（Nexxt 51–500 人；Intcomex ≈2,600 人 / 数亿美元级）",
+   "officers": [
+    "Paula Aguilera / Luis Garcia — 研究档 KP（职务未取）",
+    "Michael Shalom — Intcomex CEO（集团层，不写）",
+    "Anthony (Thony) Shalom — Intcomex Chairman / 创始人"
+   ],
+   "psc": "Intcomex, Inc.（Shalom 家族 + 机构股东）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Intcomex 的自有品牌 = 典型「贴牌商用 PoE」买家**（研究档「一部分贴牌的商业 PoE」）→ **OEM 30%**；但采购在迈阿密产品部、量大且走招标式比价 → B BIG，别指望一封信",
+    "研究档 KP Paula Aguilera / Luis Garcia 继续写，开场点「Nexxt 现有 PoE 交换机系列」+ 一页纸 STC-028GP / STC-2224GP 贴标报价，一个问题：现用 ODM 交期？",
+    "市场是拉美 / 加勒比（不在 Saga 主战场）但买家在美国 → 发信窗口 Wed 08–10 ET；年度复核"
+   ],
+   "notes": "FL 实体号未取（Sunbiz ✗）；第三方营收只作区间。",
+   "code": "SB-098"
+  },
+  "SB-951": {
+   "batch": 94,
+   "name": "Montavue LLC（montavue.com；Missoula MT）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：OpenCorporates MT C1022717（Domestic LLC；Active Good Standing；Agent Cody Gordon，5707 W Harrier Dr Missoula）+ BBB（Business Started 2016-09-19；LLC；Cody Gordon, Member）+ Justia 商标 MONTAVUE（2017-05-17 申请）+ montavue.com/about（2017 年 Cody Gordon 创立，此前转售他牌）+ LinkedIn（11–50 人；Founded 2015）+ RocketReach（9 人；$5.1M 估）",
+   "url": "https://opencorporates.com/companies/us_mt/C1022717",
+   "number": "Montana SoS C1022717",
+   "status": "Active Good Standing",
+   "incorporated": "2016-09-19（BBB）/ 品牌 2017",
+   "company_type": "Domestic Limited Liability Company（Montana）",
+   "sic": [
+    "自有品牌安防相机 / NVR 网店 + 经销商计划（Montavue Partners）"
+   ],
+   "address": "5707 W Harrier Dr, Missoula, MT 59808",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（9–16 人；$5M 级第三方估）",
+   "officers": [
+    "Cody Gordon — President / Founder / Member（老板）"
+   ],
+   "psc": "Cody Gordon（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 + 只有一款自标工业 PoE（研究档）= 正好缺商用 PoE 全系** → **OEM 30% 首选户**：STC-028GP / STC-228GP / STC-2224GP 贴 Montavue 标，一页纸直接写老板 Cody Gordon",
+    "蒙大拿 16 人老板公司 → 回信即拍板；Partners 经销计划说明他们有自己的渠道 = 复购面",
+    "发信窗口 Wed 08–10 MT；年度复核 OpenCorporates 状态"
+   ],
+   "notes": "研究档曾记 Lacey WA（错，实为 Missoula MT）→ 以登记为准。",
+   "code": "SB-951"
+  },
+  "SB-959": {
+   "batch": 94,
+   "name": "Silarius LLC（silarius.com；Brooklyn NY / Clifton NJ）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：BBB（Silarius LLC；155 Water St Brooklyn NY 11201；Founding 2019-03-25）+ buzzfile（Silarius LLC；2019；5 人；$0.86M 估）+ silarius.com（「NJ 团队自 2008 年起服务」；1033 US Highway 46 Ste 204, Clifton NJ 07013；230,000+ 产品；自有品牌 Silarius 相机 / NVR「NDAA Section 889 compliant」）+ LinkedIn（2–10 人；Founded 2008）+ Google Play 开发者（ben@silarius.com）",
+   "url": "https://www.bbb.org/us/ny/brooklyn/profile/information-technology-services/silarius-llc-0121-87158748",
+   "number": "NY LLC 登记号未取（NY DOS 为 JS 页）",
+   "status": "Active（官网 / App 在线）",
+   "incorporated": "2019-03-25（LLC；业务自称 2008）",
+   "company_type": "LLC（New York）",
+   "sic": [
+    "IT / AV / 安防设备网店（23 万 SKU 代销）+ 自有品牌 Silarius 相机 / NVR + 云监控服务"
+   ],
+   "address": "1033 US Highway 46, Suite 204, Clifton, NJ 07013（登记地 Brooklyn NY）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Ben（ben@silarius.com）— 开发者账户联系人（职务未取；疑为老板）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌打「NDAA 合规」旗号** → 我方不能也不要配合这个话术（禁词）；研究档「工业 FS 自己的 logo」→ 只做 **商用 PoE 贴标一条线（OEM 30%）**，不提合规",
+    "23 万 SKU 代销网店 = 比价平台，自有品牌才是入口；写 ben@silarius.com（公域出现）",
+    "微型 → B 维持；不投第 2 封"
+   ],
+   "notes": "NY 登记号未取；不再追。",
+   "code": "SB-959"
+  },
+  "SB-408": {
+   "batch": 94,
+   "name": "XBLUE Networks, LLC（xblue.com；Phoenix AZ）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：Crunchbase（法定名 XBLUE Networks, LLC；Founder & President Larry Steinmetz；Phoenix AZ；产品经 Amazon / Staples / Office Depot 等零售）+ LinkedIn（Telecommunications；11–50 人；Founded 2005；20801 N. 19th Ave Phoenix）+ Datanyze（11 人；$2M 估）+ contactout（Larry Steinmetz President；Paul Lynch VP Product Development；Alan Parker VP Marketing）+ NENA 登记（Paul Falanga VP Product Development；Winter Park FL 通信地址）+ 旧址 Lenexa KS",
+   "url": "https://www.crunchbase.com/organization/xblue-networks",
+   "number": "AZ / KS 登记号未取（AZ CC 为 JS 页）",
+   "status": "Active（官网 2026-10 更新）",
+   "incorporated": "2005",
+   "company_type": "LLC",
+   "sic": [
+    "小企业电话系统（云 / VoIP / 本地 PBX）自有品牌，经零售 / 电商销售"
+   ],
+   "address": "20801 N. 19th Ave, Suite 2 & 3, Phoenix, AZ 85027",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–14 人；$2M 级第三方估）",
+   "officers": [
+    "Larry Steinmetz — Founder & President（老板）",
+    "Paul Lynch — VP Product Development（产品 = 选型人）",
+    "Paul Falanga — VP Product Development（NENA 登记）",
+    "Alan Parker — VP Marketing"
+   ],
+   "psc": "Larry Steinmetz（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档「商业 PoE 似乎是 ONV 去掉 logo」= 已在贴标** → **OEM 30%：8 口 PoE（电话机配套）STC-028GP / STC-228GP**，写产品副总 Paul Lynch，开场点「XBLUE 现有 PoE 交换机配件」",
+    "零售渠道（Amazon / Staples）= 包装 / 说明书 / FCC 标识要求高 → 报价时注明中性包装可贴标、FCC 有",
+    "20 年老公司、老板 + 产品副总两个人拍板 → 两封信够；年度复核"
+   ],
+   "notes": "AZ 登记号未取；不再追。",
+   "code": "SB-408"
+  },
+  "SB-351": {
+   "batch": 94,
+   "name": "ENET Solutions, Inc.（enetusa.com；Aliso Viejo CA）— 2023-12 起属 NSI Industries",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：LinkedIn（ENET Solutions, Inc.；2003；11–50 人；Irvine CA）+ contactout / RocketReach（75 Argonaut Suite B, Aliso Viejo CA 92656；27 人；$10.8M 估）+ svconline / ewweb / nsiindustries.com 2023-12-12（NSI Industries（Huntersville NC）收购 ENET Solutions；2003 年 Chris Brock 创立；30+ 人；10,000+ 兼容收发器 / AOC / DAC / 内存 / MC / NIC / 线缆）",
+   "url": "https://www.ewweb.com/news/mergers-acquisitions/article/21279116/nsi-buys-enet-solutions-to-bolster-vdv-position",
+   "number": "CA 登记号未取（CA SoS JS）",
+   "status": "Active（NSI 旗下品牌）",
+   "incorporated": "2003",
+   "company_type": "Inc.（加州；2023-12 起为 NSI Industries 子公司 / 品牌）",
+   "sic": [
+    "OEM 兼容光收发器 / DAC / AOC / 内存 / MC / 线缆 自有品牌 ENET（美国本土编程测试）"
+   ],
+   "address": "75 Argonaut, Suite B, Aliso Viejo, CA 92656",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（27–30+ 人；$10M 级）；母公司 NSI 为 PE 控股的电气产品集团",
+   "officers": [
+    "Chris Brock — 创始人（收购后职务未取）",
+    "Jason Barrette — President（growjo 记）"
+   ],
+   "psc": "NSI Industries, LLC（Huntersville NC）100%",
+   "charges": "",
+   "prev_names": [
+    "ENET Components, Inc.（旧名 / 关联）"
+   ],
+   "lines": [
+    "**主品类 SFP / DAC / 内存（Saga 不供）**；研究档「MC 自己的 logo」→ 只剩 **MC 贴标一条线（OEM 30%）**，且 2023-12 被 NSI 收购后采购并入集团 → 概率低",
+    "不投入：一页纸 MC 报价即可，不写第 2 封；若回信再谈",
+    "同名注意：ENET 与 eNet Components 为同一家的前后名"
+   ],
+   "notes": "CA 登记号未取；不再追。",
+   "code": "SB-351"
   }
  }
 }

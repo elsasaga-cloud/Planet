@@ -45,14 +45,16 @@
    "title": "Leiter Technik（2024-10 任命）= 技术选型人（第 86 批 官方登记核实 2026-10-27）",
    "email": "mail@barox.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Head of Engineering（barox.ch 团队页；+41 56 511 10 41）= 产品 / 工程口 —— 研究档「revive 只有找到产品 / 采购负责人」对应的人；但 barox 为同行（自有品牌视频交换机制造商），默认不动（第 94 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Rudolf Rohr",
    "title": "Mitgründer / Geschäftsführer（AG CEO 2005 起；GmbH 共同 GF）/ geschäftsführender Gesellschafter = 老板 = 联系人；barox Kommunikation AG 1998-09-01 Baden（CH），GmbH 2003 Lörrach（HRB 413457 Freiburg，€25,000）（第 86 批 官方登记核实 2026-10-27）",
    "email": "rohr.rudolf@barox.ch",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Geschäftsführer / 创始人（1998-09-01 与 Angelo Banfi 共同创立；barox Kommunikation AG CEO；GmbH HRB 413457 Freiburg / 3457 Lörrach）= 老板（第 94 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Luis Coello",
@@ -70,10 +72,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表",
+  "hq": "Weiler Strasse 7, 79540 Lörrach（母公司 Im Grund 15, CH-5405 Baden-Dättwil）",
+  "other": "官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表；第 94 批：GF Angelo Banfi + Rudolf Rohr；LEI 549300UCXE39G2ZNV027；自有品牌视频 / 安防交换机 + MC 制造商 = **同行** → 守界：不发价格表、不加厚（2024 问价后拒样 + 退信已证）（第 94 批 官方登记核实 2026-10-28）",
   "legal_name": "Barox Kommunikation GmbH（Lörrach；HRB 413457 Freiburg / Impressum HRB 3457 Lörrach；USt-ID DE228975346；100% 子公司 of barox Kommunikation AG，CH-400.3.019.774-7，Baden-Dättwil）",
-  "staff": "估 20–50（两国三址）（第 86 批 官方登记核实 2026-10-27）"
+  "staff": "≈15 人（barox.ch 团队页 2026-07；两地 Baden-Dättwil / Lörrach）",
+  "founded": "1998-09-01（AG）；GmbH 登记日未取（第 94 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "视频/安防网络交换机（自有品牌）",

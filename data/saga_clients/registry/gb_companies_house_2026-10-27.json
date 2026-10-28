@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 25
+  "count": 29
  },
  "rows": {
   "SA-015": {
@@ -760,36 +760,37 @@
    "code": "SB-740"
   },
   "SB-017": {
-   "batch": 93,
-   "name": "SECURITYTEC LIMITED（securitytec.co.uk；Coulsdon, Surrey）",
+   "batch": 94,
+   "name": "SECURITYTEC LIMITED（05585047；Purley, Surrey）— 总览页补项",
    "iso": "GB",
    "fetched": "2026-10-28",
-   "source": "GB · securitytec.co.uk/about-us 页脚（Company Number 05585047）+ Companies House officers 页（05585047）；同名陷阱 SECURITYTEC LTD 10186386（Manchester，2017-02 注销）",
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05585047/officers",
+   "source": "GB · Companies House 总览页 fetch_page 2026-10-28：Registered office 132 Riddlesdown Road, Purley, Surrey, CR8 1DE；Active；Private limited；Incorporated 2005-10-06；Last accounts to 2025-10-31；Next accounts to 2026-10-31 due 2027-07-31；Confirmation statement last 2026-10-05（next due 2027-10-19）；SIC 46520；Previous name FIRST SECURITY TEC LIMITED（2005-10-06 → 2017-03-02）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05585047",
    "number": "05585047",
-   "status": "Active",
+   "status": "Active（账目 2025-10 + 确认声明 2026-10 均按时）",
    "incorporated": "2005-10-06",
-   "company_type": "Private limited company",
+   "company_type": "Private limited Company",
    "sic": [
-    "80200 安防系统服务（Hikvision 授权批发 HIK00006690；CCTV / 门禁 / 对讲 / 报警 + 自有标 PoE 交换机网店）"
+    "46520 Wholesale of electronic and telecommunications equipment and parts"
    ],
-   "address": "Units 2 & 3 Redlands Centre, Redlands, Ullswater Industrial Estate, Coulsdon CR5 2HT（020 8660 5888）",
-   "accounts": "有 charges 页（抵押 / 贷款记录存在，未展开）",
-   "accounts_due": "未取",
-   "size_band": "微型（0–9 人，Kompass）",
+   "address": "132 Riddlesdown Road, Purley, Surrey, CR8 1DE（住宅地址）",
+   "accounts": "Last accounts to 2025-10-31（微型）",
+   "accounts_due": "2027-07-31（to 2026-10-31）",
+   "size_band": "微型（住宅地址、单董事）",
    "officers": [
-    "Graham David Smith — Director（1959-09 生，2005-10-06 起）= 研究档 KP graham@securitytec.co.uk = 老板",
-    "Katie Ann Smith — Secretary（2005-12-01 起；家族）"
+    "Graham David Smith — Director（第 93 批）"
    ],
-   "psc": "未取（officers 页未含 PSC；两 Smith 大概率 100%）",
-   "charges": "存在（页面有 Charges 标签）",
-   "prev_names": [],
+   "psc": "Graham David Smith（第 93 批记）",
+   "charges": "",
+   "prev_names": [
+    "FIRST SECURITY TEC LIMITED（→ 2017-03-02）"
+   ],
    "lines": [
-    "**夫妻店 20 年、老板 Graham Smith 本人 = 研究档 KP**；自有标 PoE 交换机已在网店（NTP3-GSW0802S）→ **OEM 30%：8/16 口 PoE 贴 Securitytec 标**替换现款",
-    "Hikvision 授权批发 → 相机线不碰；只谈交换机",
-    "GB 复盘：accounts_due 下轮补（overview 页）"
+    "**合规在册、按时申报 20 年** → 老实的一人批发商；OEM 30% 判断（第 93 批）不变",
+    "住宅地址 = 无库房 → 小批量 / 代发为主，报价写 MOQ 1 + 4–7 工作日",
+    "年度复核：2027-07 看账目是否按时"
    ],
-   "notes": "第 93 批 GB 首户；PSC / accounts 下轮一次补齐。",
+   "notes": "第 94 批补项：总览页已取，PSC 页不再单独取。",
    "code": "SB-017"
   },
   "SB-041": {
@@ -891,6 +892,143 @@
    ],
    "notes": "17 次推送 0 回复 → 不动；本行只为底数完整。",
    "code": "SB-076"
+  },
+  "SB-342": {
+   "batch": 94,
+   "name": "SURE24 LIMITED（04863038；Bingham, Nottinghamshire）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · Companies House 总览（web_search 片段）+ officers 页 fetch_page 2026-10-28：Sure House, 2 Moorbridge Court, Moorbridge Road East, Bingham NG13 8GG；Active；Incorporated 2003-08-11；SIC 32990；曾用名 BATTANCO LIMITED（2003-08-11 → 2003-11-11）；officers 17 / 15 resignations；现任董事 Louis Max Fitzsimmons（2025-06-29 任）、Edwyn Owen Thomas（2025-06-29 任）、Stephanie Lorraine Kirton（Finance Director，2023-11-23 任）；2017–2024 董事 Bailey / Baxendale / Crowch / Howell 已全部辞任；Endole：29 人、总资产 £2.11M、负债 £1.33M、Small；sure24.co.uk：SURE Group 1992 起，隐蔽侦察 / 警用安防设计制造分销",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04863038/officers",
+   "number": "04863038",
+   "status": "Active",
+   "incorporated": "2003-08-11",
+   "company_type": "Private limited Company",
+   "sic": [
+    "32990 Other manufacturing n.e.c.（隐蔽 CCTV / 警用追踪设备设计制造 + 分销）"
+   ],
+   "address": "Sure House, 2 Moorbridge Court, Moorbridge Road East, Bingham, Nottinghamshire, NG13 8GG",
+   "accounts": "Small（Endole：总资产 £2.11M；现金 £136K；负债 £1.33M）",
+   "accounts_due": "未取（总览页未抓）",
+   "size_band": "小型（29 人）",
+   "officers": [
+    "Louis Max Fitzsimmons — Director（2025-06-29 任）",
+    "Edwyn Owen Thomas — Director（2025-06-29 任；ACSP 身份核验 2025-11）",
+    "Stephanie Lorraine Kirton — Director / Finance Director（2023-11-23 任）"
+   ],
+   "psc": "未取（PSC 页未抓）",
+   "charges": "",
+   "prev_names": [
+    "BATTANCO LIMITED（→ 2003-11-11）"
+   ],
+   "lines": [
+    "**2023–2025 董事会整体换血（旧董事全辞、2025-06 新进两位）= 换手 / 重组期 = 进门时机**；研究档无 KP → 写 sales@ 并点名新董事（不写私人邮箱）",
+    "主业警用 / 隐蔽监控 = 政府采购、偏「守界」边缘（非军品，可做）→ 只推商用 PoE + 工业小口数，不谈项目",
+    "负债 > 现金、Small 账目 → 先款后货（T/T 50/50）；年度复核"
+   ],
+   "notes": "PSC / accounts_due 未抓（省 fetch）。",
+   "code": "SB-342"
+  },
+  "SB-762": {
+   "batch": 94,
+   "name": "Ground Control Technologies UK Ltd（groundcontrol.com；Churcham, Gloucestershire）— 2025-10 起属法国 CLS",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Iridium 合作伙伴页（Ground Control Technologies UK Ltd（formerly Wireless Innovation Ltd），Unit D2 Churcham Business Park, Churcham GL2 8AX；美国 Ground Control Systems, 4650 Polaris Ave Las Vegas；原 Rock Seven Mobile Services Ltd, Whiteley PO15 7FN）+ CLS 公告 2025-10-07/08（CLS（CNES 子公司）收购 Ground Control；35 处 / 1,100 人集团）+ groundcontrol.com 公司史（2002；三家合并：美国 Ground Control（2000 Atascadero CA）+ Wireless Innovation + Rock Seven；4,500 客户 / 120 国）+ Endole（Ground Control Technologies Holdings Ltd 10888253，2017-07-28）+ RocketReach（Scotty Thibodeaux = IoT Solution Architect，Scott LA, US）",
+   "url": "https://www.cls.fr/en/acquisition-ground-control/",
+   "number": "Holdings 10888253（Ground Control Technologies Holdings Ltd）；运营公司号未取",
+   "status": "Active（2025-10 被 CLS 收购）",
+   "incorporated": "2017-07-28（Holdings；Wireless Innovation 更早）",
+   "company_type": "Private limited（集团；2025-10 起为 CLS Group 子公司）",
+   "sic": [
+    "卫星 IoT 设备 / 追踪器设计制造 + 卫星空中时间服务"
+   ],
+   "address": "Unit D2, Churcham Business Park, Churcham, Gloucestershire, GL2 8AX",
+   "accounts": "—（集团）",
+   "accounts_due": "—",
+   "size_band": "中型（集团 ≈100+ 人；母公司 CLS 1,100 人）",
+   "officers": [
+    "Scotty Thibodeaux — IoT Solution Architect（美国路易斯安那；研究档 KP = 美方技术，不是采购）"
+   ],
+   "psc": "CLS Group（Toulouse，CNES + CNP 控股）",
+   "charges": "",
+   "prev_names": [
+    "Wireless Innovation Ltd",
+    "Rock Seven Mobile Services Ltd"
+   ],
+   "lines": [
+    "**卫星 IoT 设备商，PoE 只是配套（注入器 / 小交换机）→ 不是我们的品类；研究档 KP 是美国技术架构师，不管采购**",
+    "2025-10 被法国 CLS 收购 → 采购进集团 → **不再补查、不再发**（标「同行 / 非品类」B 不动）",
+    "国别：登记 GB，KP 在美国 → 研究档国别保留 GB，不改"
+   ],
+   "notes": "第 94 批：定性「非品类 + 集团化」→ 不动。",
+   "code": "SB-762"
+  },
+  "SB-856": {
+   "batch": 94,
+   "name": "OMOND-TONG CONSULTANCY LTD（08154404；Woodhall Spa, Lincolnshire）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 总览（08154404；4 Wentworth Way, Woodhall Spa LN10 6PG；Active；Incorporated 2012-07-24）+ 官员页片段（Pamela Omond-Tong Director 2015-05-15 任）+ o-tc.co.uk（2012 年创立；Eplan P8 电气设计 / 西门子自动化 / IoT；「与中国台湾 IoT 伙伴开发产品」；DPO Pam Omond-Tong pam@o-tc.co.uk；旧址 Swallow Barn Sotby / Catch Acres Authorpe）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08154404",
+   "number": "08154404",
+   "status": "Active",
+   "incorporated": "2012-07-24",
+   "company_type": "Private limited Company",
+   "sic": [
+    "电气设计咨询（Eplan）/ 自动化集成（SIC 未抓）"
+   ],
+   "address": "4 Wentworth Way, Woodhall Spa, Lincolnshire, LN10 6PG（住宅地址）",
+   "accounts": "未取（微型推定）",
+   "accounts_due": "未取",
+   "size_band": "微型（夫妻公司）",
+   "officers": [
+    "Martin Omond-Tong — 研究档 KP / 创办人（董事身份推定，officers 页未全抓）",
+    "Pamela Omond-Tong — Director（2015-05-15 任）"
+   ],
+   "psc": "Omond-Tong 夫妇（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**两人电气设计咨询公司，买工业 MC 是给自动化项目配套** → 小项目集成商 25%，量极小；B 不动",
+    "他们自述已有「中国 / 台湾 IoT 伙伴」→ 有直采渠道，Saga 价值只在工业 PoE 现货 + 英文技术支持",
+    "不投第 2 封"
+   ],
+   "notes": "officers 页未全抓（省 fetch）。",
+   "code": "SB-856"
+  },
+  "SB-724": {
+   "batch": 94,
+   "name": "COMMS EXPRESS LIMITED（04359914；Chelmsford, Essex）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 总览 / officers 片段（04359914；7 Grafton Place, Dukes Park Industrial Estate, Chelmsford CM2 6TG；Active；Incorporated 2002-01-24；Justin Ellis Director 2019-03-01 任，1972-03 生；Secretary Michelle Lorraine Wilkin 2019-04-02）+ Pomanda（SIC 46510；最大股东 comms capital holdings ltd 100%；turnover £20.7m；Justin Ellis 同时任 Comms Capital Holdings Ltd 董事 2020-07–）+ Endole（18 管理 / 14 销售）+ RocketReach（22 人；Justin Ellis MD 2020–）+ comms-express.com/about（登记号 / VAT 787 391279）+ 博客 2024-01（22 周年，MD Justin Ellis）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04359914/officers",
+   "number": "04359914",
+   "status": "Active",
+   "incorporated": "2002-01-24",
+   "company_type": "Private limited Company（2020-07 起 Comms Capital Holdings Ltd 100% 控股 = MBO 结构）",
+   "sic": [
+    "46510 Wholesale of computers, peripheral equipment and software（IT / 网络电商平台）"
+   ],
+   "address": "7 Grafton Place, Dukes Park Industrial Estate, Chelmsford, Essex, CM2 6TG",
+   "accounts": "Turnover £20.7m（Pomanda）",
+   "accounts_due": "未取",
+   "size_band": "中小型（22–40 人；£20M 级）",
+   "officers": [
+    "Justin Ellis — Director / Managing Director（2019-03-01 任；研究档 KP）",
+    "Michelle Lorraine Wilkin — Company Secretary（2019-04-02 任）"
+   ],
+   "psc": "Comms Capital Holdings Ltd 100%（Justin Ellis 为其董事）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**£20M 电商平台、MD 本人即研究档 KP** → 分销 20% 线：上架品牌（SmartByte）而非贴标；一页纸写 Justin Ellis，开场「平台现有 PoE 交换机品类补一条价格带」",
+    "2019 换手（新董事会）+ 2020 控股公司 = 现管理层持股 → 决策快；但平台靠多品牌比价 → 价格先行",
+    "发信窗口 Thu 12–14 GMT；年度复核账目"
+   ],
+   "notes": "accounts_due / PSC 页未抓（Pomanda 已给控股方）。",
+   "code": "SB-724"
   }
  }
 }

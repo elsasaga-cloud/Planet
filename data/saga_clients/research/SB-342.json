@@ -47,7 +47,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Stephanie Lorraine Kirton",
+   "role": "Director / Finance Director（2023-11-23 任；Companies House 04863038）= 现任董事中任期最长者；另两位董事 Louis Max Fitzsimmons / Edwyn Owen Thomas 2025-06-29 新任 = 换手期（邮箱未公开 → sales@ 点名）（第 94 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/04863038/officers"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -56,11 +64,12 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "SURE24 Ltd（姐妹 SURE Transport / SURE Solutions）",
-  "founded": "1992（SURE24）/ 1990（SURE Solutions 口径）",
-  "hq": "Bingham, Nottinghamshire, UK（+44 1949 836990；sales@sure24.co.uk）",
+  "legal_name": "SURE24 LIMITED（Companies House 04863038；曾名 BATTANCO LIMITED → 2003-11-11；SIC 32990）",
+  "founded": "2003-08-11（SURE Group 1992 起）（第 94 批 官方登记核实 2026-10-28）",
+  "hq": "Sure House, 2 Moorbridge Court, Moorbridge Road East, Bingham, Nottinghamshire, NG13 8GG",
   "size": "11–50（LinkedIn）",
-  "other": "Go-Ahead 5,000 辆巴士合同；SUREMDVR 自有品牌（E-mark）；产线前装 + 后装；车队追踪云"
+  "other": "Go-Ahead 5,000 辆巴士合同；SUREMDVR 自有品牌（E-mark）；产线前装 + 后装；车队追踪云；第 94 批：隐蔽 / 警用 CCTV 设计制造分销；2023–2025 董事会整体换血 = 进门时机；只推商用 PoE + 工业小口数，先款后货（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "29 人；总资产 £2.11M / 负债 £1.33M（Endole；Small）"
  },
  "business_lines": [
   "巴士/长途车/货车/警用车载 CCTV 与 MDVR（自有品牌 SUREMDVR）",

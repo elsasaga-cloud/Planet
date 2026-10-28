@@ -43,14 +43,16 @@
    "title": "（职务待核）",
    "email": "paguilera@nexxtsolutions.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未取；Nexxt 产品 / 采购部在迈阿密）= 首收件人（第 94 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Luis Garcia",
    "title": "（职务待核）",
    "email": "lgarcia@nexxtsolutions.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未取）= 抄送（第 94 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -61,8 +63,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 nexxtsolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "3505 NW 107th Ave, Miami (Doral), FL 33178",
+  "other": "官网 nexxtsolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 94 批：Intcomex 自有品牌 = 典型贴牌商用 PoE 买家 → OEM 30%，但集团采购比价、量大 → B BIG；市场在拉美，买家在美国（第 94 批 官方登记核实 2026-10-28）",
+  "legal_name": "Nexxt Solutions（Intcomex, Inc.（Delaware）旗下自有品牌 / 事业部；FL 实体号未取）",
+  "founded": "2006（品牌；母公司 Intcomex 1988/89 Shalom 父子创立）（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "Nexxt 51–500 人；Intcomex 集团 ≈2,600 人（第三方）"
  },
  "business_lines": [
   "网络连接 / 基础设施品牌（Nexxt）"

@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 23
+  "count": 26
  },
  "rows": {
   "SA-008": {
@@ -221,38 +221,37 @@
    "code": "SB-103"
   },
   "SB-205": {
-   "batch": 86,
-   "name": "Barox Kommunikation GmbH（Lörrach；母公司 barox Kommunikation AG，瑞士 Baden）",
+   "batch": 94,
+   "name": "Barox Kommunikation GmbH（barox.de；Lörrach）— 瑞士 barox Kommunikation AG 德国子公司 = 同行",
    "iso": "DE",
-   "source": "Deutschland / Schweiz · Handelsregister（Northdata 登记摘要 HRB 413457 Freiburg）+ 官网 Impressum / AGB（HRB 3457 AG Lörrach、CH-400.3.019.774-7、USt-ID）+ 官网 Geschichte + 2024-10 任命新闻稿 + theorg",
+   "source": "DE · 1 次检索：barox.ch Impressum（Barox Kommunikation GmbH, Weiler Strasse 7, D-79540 Lörrach；GF Angelo Banfi + Rudolf Rohr；HRB 3457 Amtsgericht Lörrach；USt DE 228975346）+ Northdata（Amtsgericht Freiburg HRB 413457；LEI 549300UCXE39G2ZNV027；资本 €25,000）+ AGB（母公司 barox Kommunikation AG, Im Grund 15, CH-5405 Baden-Dättwil；CH-400.3.019.774-7；MWST CHE-104.727.047）+ barox.ch 团队页（≈15 人；Jeneeben Jesujeevagan 工程负责人；Daniel Kühnelt 系统工程师 Lörrach）+ 公司页（1998-09-01 Banfi + Rohr 创立；视频 / 安防网络交换机 + MC 自有品牌）",
    "url": "https://www.northdata.com/Barox%20Kommunikation%20GmbH,%20L%C3%B6rrach/Amtsgericht%20Freiburg%20HRB%20413457",
-   "number": "DE：Amtsgericht Freiburg HRB 413457（Impressum 旧号 HRB 3457 AG Lörrach）· USt-ID DE228975346 · 德国税号 1108809963；CH 母公司：Handelsregister CH-400.3.019.774-7 · MWST CHE-104.727.047",
-   "status": "Aktiv（2025-10 25 周年新闻；2026-02 官网更新）",
-   "incorporated": "GmbH 2003（Lörrach 子公司）；AG 1998-09-01（Baden，ABB 园区）",
-   "company_type": "GmbH · Stammkapital €25,000 · 100% 子公司 of barox Kommunikation AG（瑞士）· 创始人 Banfi + Rohr 持股（geschäftsführender Gesellschafter）",
+   "number": "HRB 413457（Amtsgericht Freiburg；旧 HRB 3457 Lörrach）；LEI 549300UCXE39G2ZNV027",
+   "status": "Active",
+   "incorporated": "未取（母公司 1998-09-01）",
+   "company_type": "GmbH（瑞士 barox Kommunikation AG 子公司）",
    "sic": [
-    "视频 / 安防网络专用交换机、媒体转换器、IP 延长器的设计 + 销售（瑞士品牌，产品自研外包生产）；覆盖德语区；2014 增设 Stade-Hamburg 办事处"
+    "视频 / 安防专用网络交换机、MC、PoE 自有品牌制造（barox）"
    ],
-   "address": "Weiler Strasse 7, D-79540 Lörrach；母公司 Im Grund 15, CH-5405 Baden-Dättwil",
-   "accounts": "小型 GmbH 不披露营收；AG 瑞士不公开",
-   "accounts_due": "德国年报次年 12 月前",
-   "size_band": "中小（估 20–50 人，两国三址）",
+   "address": "Weiler Strasse 7, 79540 Lörrach",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（集团 ≈15 人）",
    "officers": [
-    "Rudolf ROHR — Mitgründer / Geschäftsführer（AG CEO 2005 起；GmbH 共同 GF）/ geschäftsführender Gesellschafter = 老板 = 研究档 KP rohr.rudolf@barox.ch → **老板 = 联系人**",
-    "Angelo BANFI — Mitgründer / Geschäftsführer（AG + GmbH）",
-    "Jeneeben JESUJEEVAGAN — Leiter Technik（技术负责人，2024-10 任命）= 研究档 KP mail@barox.de → 技术选型人"
+    "Angelo Banfi — Geschäftsführer / 创始人",
+    "Rudolf Rohr — Geschäftsführer / 创始人（研究档 KP）",
+    "Jeneeben Jesujeevagan — Head of Engineering（研究档 KP）"
    ],
-   "psc": "Banfi + Rohr（创始合伙人，比例未公开）",
+   "psc": "barox Kommunikation AG（Banfi / Rohr 家族；VR 主席 Jürg Ingwar Michel）",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**老板 Rudolf Rohr 本人 + 技术负责人 Jeneeben 都在研究档 KP 里**：barox 是「自有品牌视频交换机」的瑞士品牌商（自研、外包生产）—— 正是 OEM 30% 线的教科书客户；Rohr 2009 年上过上海交大 EMBE，懂中国供应链、会直接比价 → 报价一步到位 + 阶梯；切入点：他们目录里的 PoE++ / 工业导轨 / 2.5G 上行款的第二货源（STI-288DGGPM-2BT、STI-480XGGM）",
-    "技术门槛：视频网络专用（组播 / IGMP / 环网 / 动态路由）→ 必须给 Marvell 管理型 + 固件可定制说明，先样机（付费）后谈量；CE / RoHS / REACH 文件齐",
-    "瑞士母公司结算：T/T 30/70，欧元或瑞郎；DAP Lörrach 走 Saga 百运网线（德国境内）",
-    "收件人：技术 Jeneeben 做评估、Rohr 拍板 → 一信两收"
+    "**barox = 自有品牌视频交换机制造商 = 同行**（研究档「自己的 logo 白色外壳」是他们的产品）→ **守界：不发价格表、不加厚**",
+    "唯一通道是 ODM（他们的硬件为亚洲代工）→ 需工厂级 → Saga 不碰；B 不动",
+    "15 人瑞士 / 德国两地 → 若日后他们主动来询，才谈"
    ],
-   "notes": "",
-   "fetched": "2026-10-27",
+   "notes": "第 94 批：定性同行 → 不动。",
+   "fetched": "2026-10-28",
    "code": "SB-205"
   },
   "SB-018": {
@@ -741,36 +740,36 @@
    "code": "SB-077"
   },
   "SB-090": {
-   "batch": 93,
-   "name": "Adler ELREHA GmbH / Adler Security Systems（adlerss.com；Hockenheim）— 约旦 Elreha 集团",
+   "batch": 94,
+   "name": "Adler Elreha GmbH（HRB 724419 Mannheim；Hockenheim）— Northdata 直页补项",
    "iso": "DE",
    "fetched": "2026-10-28",
-   "source": "DE · 1 次检索：adlerss.com/contact（Adler ELREHA GmbH, Schwetzinger Str. 103, 68766 Hockenheim；美国 Adler Systems LLC, St Petersburg FL）+ about（自研 IP 相机，美 / 德 / 台 / 中设施）+ aeconline（2012 年并入约旦 Elreha 家族，联系人 Hashim Sholy，电话 +962）+ LinkedIn（2013 / 11–50 人）+ signalhire（Zain Sana Ullah = Operations Engineer）；HRB 号 1 次未取",
-   "url": "https://adlerss.com/contact/",
-   "number": "HRB 未取（Mannheim 法院；下轮 Northdata 直链「Adler ELREHA GmbH, Hockenheim」）",
-   "status": "Aktiv（官网 2026 在线）",
-   "incorporated": "2012 / 2013",
-   "company_type": "GmbH（约旦 Elreha 集团子公司 + 美国 LLC）",
+   "source": "DE · 第 94 批补项 Northdata 直页 fetch_page 2026-10-28（northdata.de/Adler+ELREHA+GmbH,+Hockenheim）：Adler Elreha GmbH；Amtsgericht Mannheim HRB 724419；EUID DEB8535.HRB724419；Schwetzinger Str. 103, D-68766 Hockenheim；Gegenstand「Die Herstellung und der Handel elektronischer Überwachungssysteme」；Gesellschaftsvertrag 2015-12-02；Eintragung 2016-03-15；Kapital €25,000；GF Sachir Kamel Ajlouni（Clearwater）；股东网络：EL RE HA Elektronische Regelungen GmbH（HRB 420487 Hockenheim；Hamadeh 家族）为股东（Liste der Gesellschafter 2025-11-28）、Zhongjian Wei（ShenZhen）曾任 GF / 持股、Hamadeh Beteiligungs-GmbH / Hamadeh Grundstücks-GmbH & Co. KG 关联",
+   "url": "https://www.northdata.de/Adler+ELREHA+GmbH,+Hockenheim",
+   "number": "HRB 724419（Amtsgericht Mannheim）",
+   "status": "Active（2025-11-28 新股东名单）",
+   "incorporated": "2016-03-15（合同 2015-12-02）",
+   "company_type": "GmbH（资本 €25,000）",
    "sic": [
-    "IP / 热成像相机制造（自有品牌 Adler）；边境 / 市政 / 太阳能独立监控系统"
+    "电子监控系统制造与贸易"
    ],
    "address": "Schwetzinger Str. 103, 68766 Hockenheim",
-   "accounts": "未取",
+   "accounts": "未取（微型披露）",
    "accounts_due": "—",
-   "size_band": "小型（11–50 人）",
+   "size_band": "微型–小型",
    "officers": [
-    "Hashim Sholy — 集团联系人（Elreha，约旦）",
-    "Zain (Sana) Ullah — Operations Engineer（研究档 KP zain@adlerss.com）"
+    "Sachir Kamel Ajlouni — Geschäftsführer（Clearwater, FL/US）",
+    "Zhongjian Wei（深圳）— 前 GF / 股东（30%，Northdata 网络图）"
    ],
-   "psc": "",
+   "psc": "EL RE HA Elektronische Regelungen GmbH（Hamadeh 家族）+ Ajlouni + Wei（比例以 2025-11 名单为准，Premium 未看）",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**相机制造商（自有品牌）→ 交换机是系统部件**（研究档「ONV 工业 FS」）→ OEM 30% 线：工业 PoE / 光口交换机贴 Adler 标配太阳能独立站",
-    "边境 / 政府项目为主 → 项目制、量不稳；军用 / 边防整机不碰（守界），只供通用交换机",
-    "KP 是运营工程师（非采购）→ 技术切入：宽温、PoE 预算、SFP 兼容；DE 复盘 3 月补 HRB"
+    "**股东里有深圳人士（Zhongjian Wei，曾任 GF）= 已有华南直采 / 合资渠道** → 第 93 批 OEM 30% 判断降为「低概率」；一封一页纸即可，不加厚",
+    "母体 EL RE HA（Hockenheim 电子控制器制造）+ 房地产 / 参股公司 = 家族集团，Adler 是其安防贴牌线",
+    "年度复核 Northdata 股东名单（2025-11 刚更新 = 股权在动）"
    ],
-   "notes": "HRB 1 次未取 → 下轮 Northdata 直链一次。",
+   "notes": "第 93 批 HRB 未取 → 第 94 批 Northdata 直页补齐。",
    "code": "SB-090"
   },
   "SB-242": {
@@ -805,6 +804,107 @@
    ],
    "notes": "集团子公司 → 不算守界（非同行制造交换机）；B 维持。",
    "code": "SB-242"
+  },
+  "SB-207": {
+   "batch": 94,
+   "name": "Contemporary Controls GmbH（ccontrols.de；Leipzig）— 美国 Contemporary Controls 欧洲子公司 = 同行",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：ccontrols.de Impressum（Contemporary Controls GmbH, Fuggerstraße 1 B, 04158 Leipzig；GF George M. Thomas；Amtsgericht Leipzig HRB 24731；USt DE 220 664 517）+ Northdata（HRB 24731；曾 Stendal HRB 214009 / Lutherstadt Eisleben；2009-02 迁 Leipzig；资本 €50,000；Gegenstand 工业自动化系统开发制造销售）+ kompany（GF Thomas, George Michael, Downers Grove, Illinois/USA）+ ccontrols.com 公司史（BASrouter / BASremote；美国 Downers Grove IL 总部）",
+   "url": "https://www.northdata.de/Contemporary+Controls+GmbH,+Leipzig/HRB+24731",
+   "number": "HRB 24731（Amtsgericht Leipzig）；曾 HRB 214009（Stendal）",
+   "status": "Active",
+   "incorporated": "2006-10（Eisleben 登记；2009-02 迁 Leipzig）",
+   "company_type": "GmbH（美国 Contemporary Controls Systems, Inc. 子公司）",
+   "sic": [
+    "楼宇 / 工业自动化网络产品：BACnet 路由器、工业以太网交换机（CTRLink）、MC 自有品牌"
+   ],
+   "address": "Fuggerstraße 1 B, 04158 Leipzig",
+   "accounts": "未取（GmbH 微型披露）",
+   "accounts_due": "—",
+   "size_band": "小型（德国分部 ≤20 人；美国母公司 ≈100 人）",
+   "officers": [
+    "George M. Thomas — Geschäftsführer（= 美国母公司创始人 / 总裁，Downers Grove IL）"
+   ],
+   "psc": "Contemporary Controls Systems, Inc.（USA）100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌工业交换机 / MC 制造商（CTRLink）= 同行** → 研究档「工业 FS MC PoE 自己的 logo」是他们自己的产品线，不是贴牌需求 → **守界：不发价格表、不加厚**",
+    "唯一可能：ODM 代工（他们的交换机也是亚洲代工）→ 需 OEM 工厂级能力，Saga 不是 → 不碰",
+    "B 不动；记「同行」"
+   ],
+   "notes": "第 94 批：定性同行 → 不动。",
+   "code": "SB-207"
+  },
+  "SB-208": {
+   "batch": 94,
+   "name": "TRAGANT Handels- und Beteiligungsgesellschaft mbH（Delock / Navilock；Berlin）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：delock.de Impressum（Tragant Handels- und Beteiligungs GmbH, Beeskowdamm 13/15, 14167 Berlin；GF Dipl.-Ing. Ahmad Ebrahimi + Azar Bayegi；HRB 45788 AG Berlin-Charlottenburg；USt DE 156 330 245）+ Northdata（HRB 45788 B；LEI 391200S2D0IEA0LPEV63；Gegenstand 进出口贸易 / 软件 / 参股）+ openregister（登记 2004-10-14；资本 400,000 DM；Ebrahimi GF 2004-10-14–，Bayegi GF 2020-02-06–）+ wer-zu-wem（1992 创立；84 人；营收 10–50 Mio €；所有者 Ahmad Ebrahimi）+ implisense（67 人 2023；资产负债表 €28.4M 2023）+ IT-Business 2018（2017 营收 €26M / 80 人；2005 起台北分公司；25 国分销）+ PresseBox 2026-09（34 周年）",
+   "url": "https://www.northdata.com/TRAGANT%20Handels-%20und%20Beteiligungsgesellschaft%20mbH,%20Berlin/Amtsgericht%20Charlottenburg%20(Berlin)%20HRB%2045788%20B",
+   "number": "HRB 45788 B（Amtsgericht Charlottenburg）；LEI 391200S2D0IEA0LPEV63",
+   "status": "Active",
+   "incorporated": "1992（创立）/ 2004-10-14（现登记）",
+   "company_type": "GmbH（创始人 Ahmad Ebrahimi 所有）",
+   "sic": [
+    "IT 配件 / 连接 / 网络自有品牌 Delock + Navilock 进口分销（25 国；台北采购分公司）"
+   ],
+   "address": "Beeskowdamm 13/15, 14167 Berlin",
+   "accounts": "资产负债表 €28.4M（2023）；营收 €26M（2017）",
+   "accounts_due": "—",
+   "size_band": "中型（67–84 人；€10–50M）",
+   "officers": [
+    "Dipl.-Ing. Ahmad Ebrahimi — Geschäftsführer / 创始人 / 所有者",
+    "Azar Bayegi — Geschäftsführerin（2020-02-06 任）"
+   ],
+   "psc": "Ahmad Ebrahimi（所有者）",
+   "charges": "",
+   "prev_names": [
+    "Tragant Computer（旧称）"
+   ],
+   "lines": [
+    "**自有品牌 Delock（MC / SFP / 配件）、台北采购分公司自 2005** → 采购在台北、走台湾 / 大陆 ODM 比价 → **B BIG，OEM 30% 概率低**",
+    "研究档「工业品少、周边多」→ 若写，只写一页纸 MC + 小口数 PoE 贴标，发 info@delock.de 抄台北采购（邮箱未取）",
+    "不投入第 2 封；年度复核即可"
+   ],
+   "notes": "第三方人数 / 营收只作区间。",
+   "code": "SB-208"
+  },
+  "SB-846": {
+   "batch": 94,
+   "name": "Qualicam GmbH Sicherheitstechnik + Reizgasanlagen（qualicam.de；Leipzig / Braunsbedra）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：Creditreform（Qualicam GmbH, Leipzig；Amtsgericht Leipzig HRB 37030；1 GF；最后变更 2021-12-15）+ cylex / aktiveabwehr.de Impressum（Volbedingstraße 2, 04357 Leipzig；资本 €25,000；qcone@ueberwachung.tv；USt DE 298 501 143；WEEE DE 27008620）+ firmenwissen 公告 2020-04-08（GF Scheer, Karin, Braunsbedra, *1984，einzelvertretungsberechtigt；旧址 Berliner Straße 69 Leipzig）+ blog.qualicam.de（GF Karin Scheer）+ buyingselling（源自 Qualicom；2000 起安防；2012 起自产刺激气体报警装置）",
+   "url": "https://firmeneintrag.creditreform.de/04357/8190890687/QUALICAM_GMBH",
+   "number": "HRB 37030（Amtsgericht Leipzig）",
+   "status": "Active（最后登记变更 2021-12）",
+   "incorporated": "2015-01-15（companyhouse.de 记；业务 2000 起）",
+   "company_type": "GmbH",
+   "sic": [
+    "视频监控 / 报警 / 刺激气体防盗装置 网店 + 自产（QC-Houseguard）"
+   ],
+   "address": "Volbedingstraße 2, 04357 Leipzig（经营地 Braunsbedra）",
+   "accounts": "未取（微型）",
+   "accounts_due": "—",
+   "size_band": "微型（1 GF；≤5 人）",
+   "officers": [
+    "Karin Scheer — Geschäftsführerin（einzelvertretungsberechtigt；*1984）"
+   ],
+   "psc": "Karin Scheer（推定）",
+   "charges": "",
+   "prev_names": [
+    "Qualicom Videoüberwachung und Reizgasanlagen（前身）"
+   ],
+   "lines": [
+    "**一人 GmbH 安防网店 + 自产防盗气体装置** → PoE 只是相机套装配件 → 分销 20% 小量；B 不动",
+    "写 qcone@ueberwachung.tv（Impressum 公域）一封即可，不加厚",
+    "年度复核 HRB 状态"
+   ],
+   "notes": "第 94 批：微型 → 不加厚。",
+   "code": "SB-846"
   }
  }
 }

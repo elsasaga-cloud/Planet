@@ -29,7 +29,8 @@
    "title": "Managing Director",
    "email": "justin@comms-express.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director / Managing Director（2019-03-01 任；1972-03 生；Companies House 04359914；兼 Comms Capital Holdings Ltd 董事 = 控股方）= **老板 = 拍板人 = 研究档 KP 本人**（第 94 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -40,8 +41,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 comms-express.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+  "hq": "7 Grafton Place, Dukes Park Industrial Estate, Chelmsford, Essex, CM2 6TG",
+  "other": "官网 comms-express.com，语言 ?，快照状态 http_error；角色判定来源：用户表；第 94 批：£20M IT / 网络电商平台、MD 本人即 KP → 分销 20%：上架 SmartByte 品牌（不谈贴标），价格先行；发信 Thu 12–14 GMT（第 94 批 官方登记核实 2026-10-28）",
+  "legal_name": "COMMS EXPRESS LIMITED（Companies House 04359914；SIC 46510；VAT 787 391279；Comms Capital Holdings Ltd 100% 控股（2020-07 MBO 结构））",
+  "founded": "2002-01-24（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "22–40 人；turnover £20.7m（Pomanda）"
  },
  "business_lines": [
   "网络 / 布线产品电商（英国）"

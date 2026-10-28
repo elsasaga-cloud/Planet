@@ -1,0 +1,160 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""第 94 批 · GB 4 户 + DE 4 户 + PL 4 户 + 补项 1（SB-090 Northdata 直页）（T29-U89，2026-10-28）：web_search depth 1 各一次；Companies House officers 页 fetch_page（SURE24）；Northdata 直页 fetch_page（Adler Elreha）。可重复运行（put 按 code 合并）。"""
+import os, sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
+from registry_store import put
+F = '2026-10-28'
+B = 94
+
+# ---------------- GB 4 ----------------
+put('SB-342', key='gb', batch=B, name='SURE24 LIMITED（04863038；Bingham, Nottinghamshire）', iso='GB', fetched=F,
+    source='GB · Companies House 总览（web_search 片段）+ officers 页 fetch_page 2026-10-28：Sure House, 2 Moorbridge Court, Moorbridge Road East, Bingham NG13 8GG；Active；Incorporated 2003-08-11；SIC 32990；曾用名 BATTANCO LIMITED（2003-08-11 → 2003-11-11）；officers 17 / 15 resignations；现任董事 Louis Max Fitzsimmons（2025-06-29 任）、Edwyn Owen Thomas（2025-06-29 任）、Stephanie Lorraine Kirton（Finance Director，2023-11-23 任）；2017–2024 董事 Bailey / Baxendale / Crowch / Howell 已全部辞任；Endole：29 人、总资产 £2.11M、负债 £1.33M、Small；sure24.co.uk：SURE Group 1992 起，隐蔽侦察 / 警用安防设计制造分销',
+    url='https://find-and-update.company-information.service.gov.uk/company/04863038/officers',
+    number='04863038', status='Active', incorporated='2003-08-11', company_type='Private limited Company',
+    sic=['32990 Other manufacturing n.e.c.（隐蔽 CCTV / 警用追踪设备设计制造 + 分销）'],
+    address='Sure House, 2 Moorbridge Court, Moorbridge Road East, Bingham, Nottinghamshire, NG13 8GG', accounts='Small（Endole：总资产 £2.11M；现金 £136K；负债 £1.33M）', accounts_due='未取（总览页未抓）', size_band='小型（29 人）',
+    officers=['Louis Max Fitzsimmons — Director（2025-06-29 任）', 'Edwyn Owen Thomas — Director（2025-06-29 任；ACSP 身份核验 2025-11）', 'Stephanie Lorraine Kirton — Director / Finance Director（2023-11-23 任）'], psc='未取（PSC 页未抓）', charges='', prev_names=['BATTANCO LIMITED（→ 2003-11-11）'],
+    lines=['**2023–2025 董事会整体换血（旧董事全辞、2025-06 新进两位）= 换手 / 重组期 = 进门时机**；研究档无 KP → 写 sales@ 并点名新董事（不写私人邮箱）',
+           '主业警用 / 隐蔽监控 = 政府采购、偏「守界」边缘（非军品，可做）→ 只推商用 PoE + 工业小口数，不谈项目',
+           '负债 > 现金、Small 账目 → 先款后货（T/T 50/50）；年度复核'],
+    notes='PSC / accounts_due 未抓（省 fetch）。')
+put('SB-762', key='gb', batch=B, name='Ground Control Technologies UK Ltd（groundcontrol.com；Churcham, Gloucestershire）— 2025-10 起属法国 CLS', iso='GB', fetched=F,
+    source='GB · 1 次检索：Iridium 合作伙伴页（Ground Control Technologies UK Ltd（formerly Wireless Innovation Ltd），Unit D2 Churcham Business Park, Churcham GL2 8AX；美国 Ground Control Systems, 4650 Polaris Ave Las Vegas；原 Rock Seven Mobile Services Ltd, Whiteley PO15 7FN）+ CLS 公告 2025-10-07/08（CLS（CNES 子公司）收购 Ground Control；35 处 / 1,100 人集团）+ groundcontrol.com 公司史（2002；三家合并：美国 Ground Control（2000 Atascadero CA）+ Wireless Innovation + Rock Seven；4,500 客户 / 120 国）+ Endole（Ground Control Technologies Holdings Ltd 10888253，2017-07-28）+ RocketReach（Scotty Thibodeaux = IoT Solution Architect，Scott LA, US）',
+    url='https://www.cls.fr/en/acquisition-ground-control/',
+    number='Holdings 10888253（Ground Control Technologies Holdings Ltd）；运营公司号未取', status='Active（2025-10 被 CLS 收购）', incorporated='2017-07-28（Holdings；Wireless Innovation 更早）', company_type='Private limited（集团；2025-10 起为 CLS Group 子公司）',
+    sic=['卫星 IoT 设备 / 追踪器设计制造 + 卫星空中时间服务'],
+    address='Unit D2, Churcham Business Park, Churcham, Gloucestershire, GL2 8AX', accounts='—（集团）', accounts_due='—', size_band='中型（集团 ≈100+ 人；母公司 CLS 1,100 人）',
+    officers=['Scotty Thibodeaux — IoT Solution Architect（美国路易斯安那；研究档 KP = 美方技术，不是采购）'], psc='CLS Group（Toulouse，CNES + CNP 控股）', charges='', prev_names=['Wireless Innovation Ltd', 'Rock Seven Mobile Services Ltd'],
+    lines=['**卫星 IoT 设备商，PoE 只是配套（注入器 / 小交换机）→ 不是我们的品类；研究档 KP 是美国技术架构师，不管采购**',
+           '2025-10 被法国 CLS 收购 → 采购进集团 → **不再补查、不再发**（标「同行 / 非品类」B 不动）',
+           '国别：登记 GB，KP 在美国 → 研究档国别保留 GB，不改'],
+    notes='第 94 批：定性「非品类 + 集团化」→ 不动。')
+put('SB-856', key='gb', batch=B, name='OMOND-TONG CONSULTANCY LTD（08154404；Woodhall Spa, Lincolnshire）', iso='GB', fetched=F,
+    source='GB · 1 次检索：Companies House 总览（08154404；4 Wentworth Way, Woodhall Spa LN10 6PG；Active；Incorporated 2012-07-24）+ 官员页片段（Pamela Omond-Tong Director 2015-05-15 任）+ o-tc.co.uk（2012 年创立；Eplan P8 电气设计 / 西门子自动化 / IoT；「与中国台湾 IoT 伙伴开发产品」；DPO Pam Omond-Tong pam@o-tc.co.uk；旧址 Swallow Barn Sotby / Catch Acres Authorpe）',
+    url='https://find-and-update.company-information.service.gov.uk/company/08154404',
+    number='08154404', status='Active', incorporated='2012-07-24', company_type='Private limited Company',
+    sic=['电气设计咨询（Eplan）/ 自动化集成（SIC 未抓）'],
+    address='4 Wentworth Way, Woodhall Spa, Lincolnshire, LN10 6PG（住宅地址）', accounts='未取（微型推定）', accounts_due='未取', size_band='微型（夫妻公司）',
+    officers=['Martin Omond-Tong — 研究档 KP / 创办人（董事身份推定，officers 页未全抓）', 'Pamela Omond-Tong — Director（2015-05-15 任）'], psc='Omond-Tong 夫妇（推定）', charges='', prev_names=[],
+    lines=['**两人电气设计咨询公司，买工业 MC 是给自动化项目配套** → 小项目集成商 25%，量极小；B 不动',
+           '他们自述已有「中国 / 台湾 IoT 伙伴」→ 有直采渠道，Saga 价值只在工业 PoE 现货 + 英文技术支持',
+           '不投第 2 封'],
+    notes='officers 页未全抓（省 fetch）。')
+put('SB-724', key='gb', batch=B, name='COMMS EXPRESS LIMITED（04359914；Chelmsford, Essex）', iso='GB', fetched=F,
+    source='GB · 1 次检索：Companies House 总览 / officers 片段（04359914；7 Grafton Place, Dukes Park Industrial Estate, Chelmsford CM2 6TG；Active；Incorporated 2002-01-24；Justin Ellis Director 2019-03-01 任，1972-03 生；Secretary Michelle Lorraine Wilkin 2019-04-02）+ Pomanda（SIC 46510；最大股东 comms capital holdings ltd 100%；turnover £20.7m；Justin Ellis 同时任 Comms Capital Holdings Ltd 董事 2020-07–）+ Endole（18 管理 / 14 销售）+ RocketReach（22 人；Justin Ellis MD 2020–）+ comms-express.com/about（登记号 / VAT 787 391279）+ 博客 2024-01（22 周年，MD Justin Ellis）',
+    url='https://find-and-update.company-information.service.gov.uk/company/04359914/officers',
+    number='04359914', status='Active', incorporated='2002-01-24', company_type='Private limited Company（2020-07 起 Comms Capital Holdings Ltd 100% 控股 = MBO 结构）',
+    sic=['46510 Wholesale of computers, peripheral equipment and software（IT / 网络电商平台）'],
+    address='7 Grafton Place, Dukes Park Industrial Estate, Chelmsford, Essex, CM2 6TG', accounts='Turnover £20.7m（Pomanda）', accounts_due='未取', size_band='中小型（22–40 人；£20M 级）',
+    officers=['Justin Ellis — Director / Managing Director（2019-03-01 任；研究档 KP）', 'Michelle Lorraine Wilkin — Company Secretary（2019-04-02 任）'], psc='Comms Capital Holdings Ltd 100%（Justin Ellis 为其董事）', charges='', prev_names=[],
+    lines=['**£20M 电商平台、MD 本人即研究档 KP** → 分销 20% 线：上架品牌（SmartByte）而非贴标；一页纸写 Justin Ellis，开场「平台现有 PoE 交换机品类补一条价格带」',
+           '2019 换手（新董事会）+ 2020 控股公司 = 现管理层持股 → 决策快；但平台靠多品牌比价 → 价格先行',
+           '发信窗口 Thu 12–14 GMT；年度复核账目'],
+    notes='accounts_due / PSC 页未抓（Pomanda 已给控股方）。')
+
+# ---------------- DE 4 ----------------
+put('SB-207', key='de', batch=B, name='Contemporary Controls GmbH（ccontrols.de；Leipzig）— 美国 Contemporary Controls 欧洲子公司 = 同行', iso='DE', fetched=F,
+    source='DE · 1 次检索：ccontrols.de Impressum（Contemporary Controls GmbH, Fuggerstraße 1 B, 04158 Leipzig；GF George M. Thomas；Amtsgericht Leipzig HRB 24731；USt DE 220 664 517）+ Northdata（HRB 24731；曾 Stendal HRB 214009 / Lutherstadt Eisleben；2009-02 迁 Leipzig；资本 €50,000；Gegenstand 工业自动化系统开发制造销售）+ kompany（GF Thomas, George Michael, Downers Grove, Illinois/USA）+ ccontrols.com 公司史（BASrouter / BASremote；美国 Downers Grove IL 总部）',
+    url='https://www.northdata.de/Contemporary+Controls+GmbH,+Leipzig/HRB+24731',
+    number='HRB 24731（Amtsgericht Leipzig）；曾 HRB 214009（Stendal）', status='Active', incorporated='2006-10（Eisleben 登记；2009-02 迁 Leipzig）', company_type='GmbH（美国 Contemporary Controls Systems, Inc. 子公司）',
+    sic=['楼宇 / 工业自动化网络产品：BACnet 路由器、工业以太网交换机（CTRLink）、MC 自有品牌'],
+    address='Fuggerstraße 1 B, 04158 Leipzig', accounts='未取（GmbH 微型披露）', accounts_due='—', size_band='小型（德国分部 ≤20 人；美国母公司 ≈100 人）',
+    officers=['George M. Thomas — Geschäftsführer（= 美国母公司创始人 / 总裁，Downers Grove IL）'], psc='Contemporary Controls Systems, Inc.（USA）100%', charges='', prev_names=[],
+    lines=['**自有品牌工业交换机 / MC 制造商（CTRLink）= 同行** → 研究档「工业 FS MC PoE 自己的 logo」是他们自己的产品线，不是贴牌需求 → **守界：不发价格表、不加厚**',
+           '唯一可能：ODM 代工（他们的交换机也是亚洲代工）→ 需 OEM 工厂级能力，Saga 不是 → 不碰',
+           'B 不动；记「同行」'],
+    notes='第 94 批：定性同行 → 不动。')
+put('SB-208', key='de', batch=B, name='TRAGANT Handels- und Beteiligungsgesellschaft mbH（Delock / Navilock；Berlin）', iso='DE', fetched=F,
+    source='DE · 1 次检索：delock.de Impressum（Tragant Handels- und Beteiligungs GmbH, Beeskowdamm 13/15, 14167 Berlin；GF Dipl.-Ing. Ahmad Ebrahimi + Azar Bayegi；HRB 45788 AG Berlin-Charlottenburg；USt DE 156 330 245）+ Northdata（HRB 45788 B；LEI 391200S2D0IEA0LPEV63；Gegenstand 进出口贸易 / 软件 / 参股）+ openregister（登记 2004-10-14；资本 400,000 DM；Ebrahimi GF 2004-10-14–，Bayegi GF 2020-02-06–）+ wer-zu-wem（1992 创立；84 人；营收 10–50 Mio €；所有者 Ahmad Ebrahimi）+ implisense（67 人 2023；资产负债表 €28.4M 2023）+ IT-Business 2018（2017 营收 €26M / 80 人；2005 起台北分公司；25 国分销）+ PresseBox 2026-09（34 周年）',
+    url='https://www.northdata.com/TRAGANT%20Handels-%20und%20Beteiligungsgesellschaft%20mbH,%20Berlin/Amtsgericht%20Charlottenburg%20(Berlin)%20HRB%2045788%20B',
+    number='HRB 45788 B（Amtsgericht Charlottenburg）；LEI 391200S2D0IEA0LPEV63', status='Active', incorporated='1992（创立）/ 2004-10-14（现登记）', company_type='GmbH（创始人 Ahmad Ebrahimi 所有）',
+    sic=['IT 配件 / 连接 / 网络自有品牌 Delock + Navilock 进口分销（25 国；台北采购分公司）'],
+    address='Beeskowdamm 13/15, 14167 Berlin', accounts='资产负债表 €28.4M（2023）；营收 €26M（2017）', accounts_due='—', size_band='中型（67–84 人；€10–50M）',
+    officers=['Dipl.-Ing. Ahmad Ebrahimi — Geschäftsführer / 创始人 / 所有者', 'Azar Bayegi — Geschäftsführerin（2020-02-06 任）'], psc='Ahmad Ebrahimi（所有者）', charges='', prev_names=['Tragant Computer（旧称）'],
+    lines=['**自有品牌 Delock（MC / SFP / 配件）、台北采购分公司自 2005** → 采购在台北、走台湾 / 大陆 ODM 比价 → **B BIG，OEM 30% 概率低**',
+           '研究档「工业品少、周边多」→ 若写，只写一页纸 MC + 小口数 PoE 贴标，发 info@delock.de 抄台北采购（邮箱未取）',
+           '不投入第 2 封；年度复核即可'],
+    notes='第三方人数 / 营收只作区间。')
+put('SB-846', key='de', batch=B, name='Qualicam GmbH Sicherheitstechnik + Reizgasanlagen（qualicam.de；Leipzig / Braunsbedra）', iso='DE', fetched=F,
+    source='DE · 1 次检索：Creditreform（Qualicam GmbH, Leipzig；Amtsgericht Leipzig HRB 37030；1 GF；最后变更 2021-12-15）+ cylex / aktiveabwehr.de Impressum（Volbedingstraße 2, 04357 Leipzig；资本 €25,000；qcone@ueberwachung.tv；USt DE 298 501 143；WEEE DE 27008620）+ firmenwissen 公告 2020-04-08（GF Scheer, Karin, Braunsbedra, *1984，einzelvertretungsberechtigt；旧址 Berliner Straße 69 Leipzig）+ blog.qualicam.de（GF Karin Scheer）+ buyingselling（源自 Qualicom；2000 起安防；2012 起自产刺激气体报警装置）',
+    url='https://firmeneintrag.creditreform.de/04357/8190890687/QUALICAM_GMBH',
+    number='HRB 37030（Amtsgericht Leipzig）', status='Active（最后登记变更 2021-12）', incorporated='2015-01-15（companyhouse.de 记；业务 2000 起）', company_type='GmbH',
+    sic=['视频监控 / 报警 / 刺激气体防盗装置 网店 + 自产（QC-Houseguard）'],
+    address='Volbedingstraße 2, 04357 Leipzig（经营地 Braunsbedra）', accounts='未取（微型）', accounts_due='—', size_band='微型（1 GF；≤5 人）',
+    officers=['Karin Scheer — Geschäftsführerin（einzelvertretungsberechtigt；*1984）'], psc='Karin Scheer（推定）', charges='', prev_names=['Qualicom Videoüberwachung und Reizgasanlagen（前身）'],
+    lines=['**一人 GmbH 安防网店 + 自产防盗气体装置** → PoE 只是相机套装配件 → 分销 20% 小量；B 不动',
+           '写 qcone@ueberwachung.tv（Impressum 公域）一封即可，不加厚',
+           '年度复核 HRB 状态'],
+    notes='第 94 批：微型 → 不加厚。')
+put('SB-205', key='de', batch=B, name='Barox Kommunikation GmbH（barox.de；Lörrach）— 瑞士 barox Kommunikation AG 德国子公司 = 同行', iso='DE', fetched=F,
+    source='DE · 1 次检索：barox.ch Impressum（Barox Kommunikation GmbH, Weiler Strasse 7, D-79540 Lörrach；GF Angelo Banfi + Rudolf Rohr；HRB 3457 Amtsgericht Lörrach；USt DE 228975346）+ Northdata（Amtsgericht Freiburg HRB 413457；LEI 549300UCXE39G2ZNV027；资本 €25,000）+ AGB（母公司 barox Kommunikation AG, Im Grund 15, CH-5405 Baden-Dättwil；CH-400.3.019.774-7；MWST CHE-104.727.047）+ barox.ch 团队页（≈15 人；Jeneeben Jesujeevagan 工程负责人；Daniel Kühnelt 系统工程师 Lörrach）+ 公司页（1998-09-01 Banfi + Rohr 创立；视频 / 安防网络交换机 + MC 自有品牌）',
+    url='https://www.northdata.com/Barox%20Kommunikation%20GmbH,%20L%C3%B6rrach/Amtsgericht%20Freiburg%20HRB%20413457',
+    number='HRB 413457（Amtsgericht Freiburg；旧 HRB 3457 Lörrach）；LEI 549300UCXE39G2ZNV027', status='Active', incorporated='未取（母公司 1998-09-01）', company_type='GmbH（瑞士 barox Kommunikation AG 子公司）',
+    sic=['视频 / 安防专用网络交换机、MC、PoE 自有品牌制造（barox）'],
+    address='Weiler Strasse 7, 79540 Lörrach', accounts='未取', accounts_due='—', size_band='小型（集团 ≈15 人）',
+    officers=['Angelo Banfi — Geschäftsführer / 创始人', 'Rudolf Rohr — Geschäftsführer / 创始人（研究档 KP）', 'Jeneeben Jesujeevagan — Head of Engineering（研究档 KP）'], psc='barox Kommunikation AG（Banfi / Rohr 家族；VR 主席 Jürg Ingwar Michel）', charges='', prev_names=[],
+    lines=['**barox = 自有品牌视频交换机制造商 = 同行**（研究档「自己的 logo 白色外壳」是他们的产品）→ **守界：不发价格表、不加厚**',
+           '唯一通道是 ODM（他们的硬件为亚洲代工）→ 需工厂级 → Saga 不碰；B 不动',
+           '15 人瑞士 / 德国两地 → 若日后他们主动来询，才谈'],
+    notes='第 94 批：定性同行 → 不动。')
+
+# ---------------- PL 4 ----------------
+put('SB-585', key='pl', batch=B, name='VIDOS Sp. z o.o.（vidos.pl；Sokołów k/Warszawy）', iso='PL', fetched=F,
+    source='PL · 1 次检索：aleo / gowork / aplikuj（VIDOS SPÓŁKA Z O.O.；KRS 0000857683；NIP 5342626018；REGON 386943260；ul. Sokołowska 44, 05-806 Sokołów；资本 5,000 zł；KRS 登记 2020-09-03；状态 AKTYWNA；PKD 批发）+ vidos.pl/contact（Vidos LLC 同址；旧 2018 页 Reguły Al. Jerozolimskie 311、NIP 728-120-97-11 = 前身个体 / 旧主体）+ 产品页（视频对讲 / 门禁 / 门控自动化 / CCTV 自有品牌「Producent」；客户为安防专业公司）；同名陷阱：vidos-domofony.pl（KRS 0000857651 另一法人）、PPHU HERZ vidos-sklep.pl（经销商）',
+    url='https://aleo.com/int/company/vidos-sp-z-oo-sokolow',
+    number='KRS 0000857683 / NIP 5342626018 / REGON 386943260', status='AKTYWNA', incorporated='2020-09-03（KRS；品牌业务更早，前身 Reguły 主体 NIP 7281209711）', company_type='Spółka z o.o.（资本 5,000 zł）',
+    sic=['视频对讲 / 门禁 / 门控自动化 自有品牌（亚洲代工）批发给安防安装商'],
+    address='ul. Sokołowska 44, 05-806 Sokołów k/Warszawy', accounts='未取（rejestr.io 未单独取）', accounts_due='—', size_band='小型（人数未取；有招聘页）',
+    officers=['（zarząd 未取 — 1 次检索片段无人名）'], psc='未取', charges='', prev_names=[],
+    lines=['**自有品牌对讲 + 已有自标 PoE 交换机（研究档）= 现成贴牌买家** → **OEM 30%：4 / 8 口 PoE（对讲 / 门口机供电）STC-028GP / STI-054GP 贴 Vidos 标**',
+           '2020 新法人 + 5,000 zł 资本 = 重组后的轻资产贸易主体 → 先款后货；研究档无 KP → 写 公域邮箱 + 要采购负责人',
+           '同名陷阱：vidos-domofony.pl / vidos-sklep.pl 都是别的法人（经销商），别混'],
+    notes='zarząd / 财务未取（省 1 次 rejestr.io）。')
+put('SB-906', key='pl', batch=B, name='Avizio（avizio.pl）— 1 次未命中（侧证：疑为 SB-445 AICOM 的自有品牌）', iso='PL', fetched=F,
+    source='PL · 1 次检索「Avizio avizio.pl firma KRS」：无 Avizio 法人页；侧证：lan-cctv.pl 站内搜索「avizio」页脚显示「AICOM · NIP 6782913975 · REGON 356808516 · KRS 0000654397」（lan-cctv.pl = AICOM 的网店）→ Avizio 疑为 AICOM Sp. z o.o.（Kraków；SB-445）自有品牌（推定，未经 Impressum 直证）',
+    url='https://www.lan-cctv.pl/wyszukiwanie,list,0,0?search=avizio',
+    number='（疑）AICOM KRS 0000654397 / NIP 6782913975', status='未命中（品牌站无法人页）', incorporated='—', company_type='—（疑为 AICOM 品牌）',
+    sic=['（研究档）工业 FS 刷自有标、安防为主'], address='（疑）Kraków', accounts='—', accounts_due='—', size_band='—',
+    officers=[], psc='', charges='', prev_names=[],
+    lines=['**一次未命中 → 停**；但侧证指向 Avizio = SB-445 AICOM 自有品牌 → **下轮一次直查 avizio.pl Impressum 即可定「并线 SB-445」**',
+           '若并线成立：SB-445 研究档「在用国内的、8 次无回复」+ 自有品牌 = OEM 30% 对象但已冷 → 不加投入',
+           '暂不改研究档归属'],
+    notes='第 94 批 1 次未命中 + 侧证推定；下轮 1 次直查。')
+put('SB-1046', key='pl', batch=B, name='VOLTA Sp. z o.o.（ivolta.pl / volta.com.pl；Warszawa）— Satel / Hikvision / Dahua 授权分销', iso='PL', fetched=F,
+    source='PL · 1 次检索：bizraport（VOLTA SP. Z O.O.；KRS 0000023698；NIP 5211367444；REGON 010829096；登记 2001-06-28；资本 1,020,000 PLN；营收 2025 90.85 mln zł / 2024 83.30 / 2023 83.19；资产 30.4 mln）+ ivolta.pl/contact（ul. Jutrzenki 94, 02-230 Warszawa；BDO 000051577）+ en.ivolta.pl（25 年；Satel / Hikvision / Dahua 授权分销；70+ 人；华沙总部 + 10 分部）+ LinkedIn（51–200 人；1986 起）',
+    url='https://www.bizraport.pl/krs/0000023698/volta-spolka-z-ograniczona-odpowiedzialnoscia',
+    number='KRS 0000023698 / NIP 5211367444 / REGON 010829096', status='AKTYWNA', incorporated='2001-06-28（KRS；业务 1986 起）', company_type='Spółka z o.o.（资本 1,020,000 PLN）',
+    sic=['电子安防系统批发（CCTV / 报警 / 门禁 / 消防；PKD 46.xx）'],
+    address='ul. Jutrzenki 94, 02-230 Warszawa', accounts='营收 90.85 mln zł（2025）；83.30（2024）；83.19（2023）；资产 30.4 mln zł', accounts_due='—', size_band='中型（70+ 人；≈€21M 营收）',
+    officers=['（zarząd 未取 — 片段无人名）'], psc='未取', charges='', prev_names=[],
+    lines=['**波兰安防分销 Top 级（€21M、10 分部、Hikvision / Dahua / Satel 授权）= B BIG** → 分销 20% 线，走品牌 SmartByte 上架，不谈贴标',
+           '研究档「PoE 很多摄像头、很多牌子、有 Utepo」→ 已有 PoE 供应（Utepo 等）→ 开场只谈「第二供应 + 现货期」，一个问题：现用 PoE 交期？',
+           'zarząd 未取 → 写采购 / 产品经理公域邮箱；年度复核营收'],
+    notes='zarząd 未取（省 1 次 rejestr.io）。')
+put('SB-152', key='pl', batch=B, name='Pulsar（pulsar.pl；Siechnice）— 电源 + PoE 交换机制造商 = 同行；同名陷阱', iso='PL', fetched=F,
+    source='PL · 1 次检索：pulsar.pl（产品：工业 PoE 交换机 DIN、PoE 交换机 S64 / S108 / SG32 / ISFG108、PoE 供电系统 SWS、EN54 消防电源；「生产、仓库等 8000 m²」）+ tim.pl / eltrox.pl（Pulsar 自有品牌 PoE 交换机在售）；bizraport「PULSAR SP. Z O.O. KRS 0000262594 NIP 9542567297（营收 763 tys. zł）」= **同名他户**（卡托维兹小公司，不是 pulsar.pl）',
+    url='https://www.pulsar.pl/PL_1026_o-firmie',
+    number='法定主体号未取（pulsar.pl 的法人名 1 次检索未出现；KRS 0000262594 是同名他户）', status='Active（官网 / 渠道在售）', incorporated='未取', company_type='未取（制造商）',
+    sic=['安防电源 / 蓄电池机箱 / PoE 交换机 / PoE 供电系统 制造（自有品牌 Pulsar）'],
+    address='Siechnice（Wrocław 附近；街道未取）', accounts='—', accounts_due='—', size_band='中型（8,000 m² 厂区）',
+    officers=[], psc='', charges='', prev_names=[],
+    lines=['**自产 PoE 交换机（S108 / ISFG108）= 同行** → 守界：不发价格表、不加厚；B 不动',
+           '同名陷阱：bizraport 的 PULSAR Sp. z o.o.（KRS 0000262594）营收 76 万 zł 是另一家，不能写进任何材料',
+           '若他们要外采 ODM 也是工厂级 → Saga 不碰'],
+    notes='第 94 批：定性同行 → 不动；法人号不再追。')
+
+# ---------------- 补项 ----------------
+put('SB-090', key='de', batch=B, name='Adler Elreha GmbH（HRB 724419 Mannheim；Hockenheim）— Northdata 直页补项', iso='DE', fetched=F,
+    source='DE · 第 94 批补项 Northdata 直页 fetch_page 2026-10-28（northdata.de/Adler+ELREHA+GmbH,+Hockenheim）：Adler Elreha GmbH；Amtsgericht Mannheim HRB 724419；EUID DEB8535.HRB724419；Schwetzinger Str. 103, D-68766 Hockenheim；Gegenstand「Die Herstellung und der Handel elektronischer Überwachungssysteme」；Gesellschaftsvertrag 2015-12-02；Eintragung 2016-03-15；Kapital €25,000；GF Sachir Kamel Ajlouni（Clearwater）；股东网络：EL RE HA Elektronische Regelungen GmbH（HRB 420487 Hockenheim；Hamadeh 家族）为股东（Liste der Gesellschafter 2025-11-28）、Zhongjian Wei（ShenZhen）曾任 GF / 持股、Hamadeh Beteiligungs-GmbH / Hamadeh Grundstücks-GmbH & Co. KG 关联',
+    url='https://www.northdata.de/Adler+ELREHA+GmbH,+Hockenheim',
+    number='HRB 724419（Amtsgericht Mannheim）', status='Active（2025-11-28 新股东名单）', incorporated='2016-03-15（合同 2015-12-02）', company_type='GmbH（资本 €25,000）',
+    sic=['电子监控系统制造与贸易'],
+    address='Schwetzinger Str. 103, 68766 Hockenheim', accounts='未取（微型披露）', accounts_due='—', size_band='微型–小型',
+    officers=['Sachir Kamel Ajlouni — Geschäftsführer（Clearwater, FL/US）', 'Zhongjian Wei（深圳）— 前 GF / 股东（30%，Northdata 网络图）'], psc='EL RE HA Elektronische Regelungen GmbH（Hamadeh 家族）+ Ajlouni + Wei（比例以 2025-11 名单为准，Premium 未看）', charges='', prev_names=[],
+    lines=['**股东里有深圳人士（Zhongjian Wei，曾任 GF）= 已有华南直采 / 合资渠道** → 第 93 批 OEM 30% 判断降为「低概率」；一封一页纸即可，不加厚',
+           '母体 EL RE HA（Hockenheim 电子控制器制造）+ 房地产 / 参股公司 = 家族集团，Adler 是其安防贴牌线',
+           '年度复核 Northdata 股东名单（2025-11 刚更新 = 股权在动）'],
+    notes='第 93 批 HRB 未取 → 第 94 批 Northdata 直页补齐。')
+
+print('b94_gb_de_pl ok')

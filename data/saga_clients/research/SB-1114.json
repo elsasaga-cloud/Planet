@@ -32,7 +32,7 @@
  "kp": [
   {
    "name": "Christopher Fikes",
-   "role": "Owner / Founder（2007-01 起；Crunchbase / Tracxn）= **老板 = 联系人**；本职 Evadale ISD（德州学区）Director of IT（2018-08 起）—— FikesMedia 是他的一人 MikroTik 咨询 / 集成公司，客户 = 学区 + 市政；GitHub 开源作者 → 技术人，别催样，给 API / SNMP / CLI 文档（第 88 批 官方登记核实 2026-10-27）",
+   "role": "Owner（2007–；同时任 Evadale ISD 信息技术主任 2018– + 兼职教授）= 一人副业老板（第 94 批 官方登记核实 2026-10-28）",
    "email": "cfikes@fikesmedia.com",
    "phone": "409.877.4220",
    "source": "S 邮箱签名"
@@ -111,10 +111,11 @@
   "as_of": "2026-10-24"
  },
  "company_facts": {
-  "legal_name": "FikesMedia（FikesMedia LLC，ZoomInfo；TX SoS 编号未取；105 George St, Silsbee TX 77656；另 109 Pinecrest Dr）",
-  "founded": "2007（官网 about / Tracxn）（第 88 批 官方登记核实 2026-10-27）",
-  "staff": "1–10 人（Tracxn 2024-07）；未融资；业主兼职（第 88 批 官方登记核实 2026-10-27）",
+  "legal_name": "FikesMedia LLC（德州；TX 登记号未取；镜像显示旧登记 inactive）",
+  "founded": "2007（第 94 批 官方登记核实 2026-10-28）",
+  "staff": "1 人（副业）",
   "size": "微型（一人公司）（第 88 批 官方登记核实 2026-10-27）",
-  "hq": "Silsbee, Texas（休斯敦东北 Hardin 县）（第 88 批 官方登记核实 2026-10-27）"
+  "hq": "105 George St, Silsbee, TX 77656",
+  "other": "第 94 批：MikroTik 转售副业、老板全职在学区 → 分销 20% 一页纸，不投第 2 封；若回信问的是学区项目（第 94 批 官方登记核实 2026-10-28）"
  }
 }

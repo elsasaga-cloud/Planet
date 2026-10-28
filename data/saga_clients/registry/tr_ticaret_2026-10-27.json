@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 41
+  "count": 45
  },
  "rows": {
   "SA-086": {
@@ -1351,6 +1351,132 @@
    ],
    "notes": "个人税号 / MERSİS（个体）属个人数据，不入库。",
    "code": "SB-875"
+  },
+  "SB-273": {
+   "batch": 94,
+   "name": "Eretekne（eretekne.com）= Erete Bilgi Sistemleri Dış Tic. ve San. Ltd. Şti. 的 B2B 站 → 并线 SB-867",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：eretekne.com/sayfa/hakkimizda（Erete Bilgi Sistemleri Ltd. Şti. 2001-12 创立；创始合伙人 Pınar Kabil / Murat Soyak / Timur Yıldız；Edge-Core（Accton）土耳其分销、Etherwan 工业交换机分销、Fluke Networks 分销；XPS 工业交换机）+ /iletisim（Firma Adı Eretekne | Erete B2B Sitesi；Yetkili Kişi Pınar Kabil；19 Mayıs Mah. Güven Sk. No:4/2 Şişli İstanbul；Vergi No 3540201016 Mecidiyeköy V.D.；IBAN 户名 ERETE BILGI SISTEMLERİ DIŞ. TIC. ve SAN. LTD.ŞTİ）+ erete.com.tr 公告（B2B 平台 = eretekne.com）",
+   "url": "https://www.eretekne.com/iletisim",
+   "number": "VKN 3540201016（Mecidiyeköy V.D.）",
+   "status": "Active（B2B 站 2025 公告在线）",
+   "incorporated": "2001-12（Erete）",
+   "company_type": "Ltd. Şti.（同 SB-867 Erete 一个法人）",
+   "sic": [
+    "网络布线 + 有源设备分销（Edge-Core / Etherwan / XPS / Fluke）B2B 平台"
+   ],
+   "address": "19 Mayıs Mah. Güven Sk. No:4/2, Şişli, İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（同 SB-867）",
+   "officers": [
+    "Pınar Kabil — 创始合伙人 / B2B 站负责人（Yetkili Kişi）",
+    "Murat Soyak — 创始合伙人（研究档 SB-867 KP）",
+    "Timur Yıldız — 创始合伙人"
+   ],
+   "psc": "三位创始合伙人（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**SB-273 = SB-867 Erete 的 B2B 网店，一个法人（VKN 3540201016）→ 并线 SB-867，只跟一线**",
+    "他们是 **Edge-Core（Accton）与 Etherwan 的土耳其分销商** = 卖竞品；对 Saga 只有「补位 / 低价线」价值：XPS / Etherwan 之外的商用 PoE 走 SmartByte 分销 20%",
+    "写 Murat Soyak（已有）抄 Pınar Kabil；一封信，不加厚"
+   ],
+   "notes": "并线：SB-273 → SB-867（第 94 批）。",
+   "code": "SB-273"
+  },
+  "SB-653": {
+   "batch": 94,
+   "name": "Coredata Telekom A.Ş.（coredata.com.tr；Kağıthane İstanbul）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：coredata.com.tr 首页 / iletişim / hakkımızda（Coredata Telekom A.Ş；Hamidiye Mah. Alp Sk. C Blok Apt. No:4/C/2 Kağıthane / İstanbul；info@ / satis@coredata.com.tr；+90 212 999 01 03；愿景页空泛；「2026 Tüm Hakları Saklıdır」）；MERSİS / 商会号未出现",
+   "url": "http://coredata.com.tr/iletisim",
+   "number": "MERSİS / 商会号未取（1 次检索未出现）",
+   "status": "Active（官网 2026 在线；此前 Plesk 默认页已换成正式站）",
+   "incorporated": "未取",
+   "company_type": "A.Ş.",
+   "sic": [
+    "电信服务 / 网络集成（自述「Telekom」）"
+   ],
+   "address": "Hamidiye Mah. Alp Sk. C Blok Apt. No:4/C/2, Kağıthane, İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型–小型（人数未取）",
+   "officers": [],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**站活了（原 Plesk 默认页）但内容空泛，无人名、无产品页** → 身份只到「伊斯坦布尔小电信 / 集成商」",
+    "研究档无 KP → 写 satis@coredata.com.tr 一封（分销 20% 一页纸），不加厚",
+    "A.Ş. 形式但无披露 → 不作 BIG 判断；年度复核即可"
+   ],
+   "notes": "法人号未取；不再追。",
+   "code": "SB-653"
+  },
+  "SB-575": {
+   "batch": 94,
+   "name": "Marbim（marbim.com.tr）— 1 次未命中",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索「Marbim marbim.com.tr bilişim güvenlik PoE switch」：返回全是通用 PoE 文章 / 他户（Atlantis Grup、Netser、Turkbim、Rima、Poe Güvenlik Batman…），无 Marbim 任何页面",
+   "url": "",
+   "number": "未取",
+   "status": "未命中",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "（研究档）安防 / 网络零售，仅 WhatsApp 联系"
+   ],
+   "address": "Türkiye（城市未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "—",
+   "officers": [
+    "Ecevit — 研究档 KP（仅 WhatsApp）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一次未命中 → 按规程停**；名片户（WhatsApp only）本就不走邮件群发，底数价值低",
+    "不再查；研究档维持"
+   ],
+   "notes": "第 94 批 1 次未命中；标「底数不可查（名片户）」。",
+   "code": "SB-575"
+  },
+  "SB-323": {
+   "batch": 94,
+   "name": "D&N Elektrik Mühendislik（Doğan Tanrıkulu；gmail）— 1 次未命中",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索「\"D&N Elektrik\" Mühendislik Doğan Tanrıkulu」：返回 Doğan Mühendislik（安卡拉 1991）、D&T Group、美国 D&N Electric（亚特兰大 / 圣迭戈）等同名他户，无命中",
+   "url": "",
+   "number": "未取",
+   "status": "未命中",
+   "incorporated": "—",
+   "company_type": "—（疑个体 / 小 Ltd.）",
+   "sic": [
+    "（研究档）电气工程承包"
+   ],
+   "address": "Türkiye（城市未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "—",
+   "officers": [
+    "Doğan Tanrıkulu — 研究档 KP（gmail）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一次未命中 → 停**；gmail 名片户、同名陷阱多（美国 D&N Electric）",
+    "研究档维持；不再查"
+   ],
+   "notes": "第 94 批 1 次未命中；标「底数不可查（名片户）」。",
+   "code": "SB-323"
   }
  }
 }
