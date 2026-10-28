@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 29
+  "count": 34
  },
  "rows": {
   "SA-070": {
@@ -940,6 +940,168 @@
    ],
    "notes": "代理型 small；一页纸一次（非轨交）；坐实（P.IVA + REA + 财务）。",
    "code": "SB-295"
+  },
+  "SB-009": {
+   "batch": 109,
+   "name": "SICURMAX S.R.L.（原 SICURMAX S.n.c. di Marzari Massimo & C.；sicurmax.com；维罗纳 Bovolone Via del Ciclamino 7, 37051；P.IVA / CF 02360600239；REA VR-233884）— 1992-07-01 登记的民用 / 工业安防集成商（防盗、视频监控含城市 / 交通、消防、门禁、楼宇；ISO 9001；SOA OS5 / OS19 / OS30；MePA 供应商、市政招标；**另具意大利军方 / NATO 场所施工资格 = 附带资质，主业民用 → 守界核查通过，但稿内只谈民用 / 工地**）；股本 €10,000；6 人；ATECO 43.24.09；KP Massimo Marzari（业主；WhatsApp 已加）；17 次推送无回",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（SICURMAX S.R.L.；P.IVA 02360600239；VIA DEL CICLAMINO 7 37051 BOVOLONE；Rea 233884；Iscrizione 01/07/1992；Dipendenti 6；Capitale € 10.000；ATECO 432409；PEC massimo.marzari@pec.sicurmax.com）+ sicurmax.com 页脚 / azienda（SICURMAX S.R.L. REA VR233884；oltre 30 anni；ISO 9001；abilitazioni Enti e Organizzazioni Militari Italiani e NATO）+ amministrazionicomunali MePA（SICURMAX SNC DI MARZARI MASSIMO & C；OS 19 / antincendio / impianti elettrici e speciali；aggiudicazione 19-08-2022）+ comune.legnago 招标",
+   "url": "https://www.ufficiocamerale.it/7597/sicurmax-snc-di-marzari-massimo-c",
+   "number": "P.IVA / CF 02360600239；REA VR-233884",
+   "status": "Active",
+   "incorporated": "1992-07-01",
+   "company_type": "S.r.l.（原 S.n.c.；Marzari 家族）",
+   "sic": [
+    "民用 / 工业安防系统 设计安装维护（ATECO 43.24.09 / 43.21.02）"
+   ],
+   "address": "Via del Ciclamino 7, 37051 Bovolone (VR)",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（6 人）",
+   "officers": [
+    "Massimo Marzari — Amministratore / 创始合伙人 = 拍板人 / 收件人（WA 已加）"
+   ],
+   "psc": "Marzari 家族",
+   "charges": "",
+   "prev_names": [
+    "SICURMAX S.n.c. di Marzari Massimo & C."
+   ],
+   "lines": [
+    "**6 人维罗纳安防集成商（军方 / NATO 资质为附带，主业民用 → 不降 C；17 次推送无回）→ 集成 25% small，一页纸一次（WA 走 Simon：STI-054GP / STI-144GP / STC-228GP 配工地 / 城市监控立杆；MOQ 1 一口价）；再无回声 → 不动**；稿内绝不提军方 / NATO / 政府项目",
+    "收件人 Massimo 直呼（WA + 邮件）；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "守界核查通过（民用主业）；集成 25% small；一页纸一次；坐实（P.IVA + REA）。",
+   "code": "SB-009"
+  },
+  "SB-257": {
+   "batch": 109,
+   "name": "VOXPLUS S.R.L.（voxplus.it；法定 米兰 Via Raimondo Montecuccoli 36, 20147；运营 Busto Arsizio (VA) Via Bellaria 3, 21052；P.IVA / CF 05516110961；REA MI-1828564）— 2006-12 成立、2007-01-24 登记的系统集成商（网络安全 / 网络与 VoIP / 数据中心与布线 / 楼宇自动化与 IoT；站内 Maiwe 工业交换机产品页）；15 人；2024 营收 €1.82M（2023 €2.96M）、净利 €20.8k；ATECO 43.21.02 / 33.20.02；KP Gianni Scandroglio、Fabio Frigerio",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（VOXPLUS S.R.L.；P.IVA 05516110961；VIA RAIMONDO MONTECUCCOLI 36 20147 MILANO；Rea 1828564；Iscrizione 24/01/2007；Fatturato € 1.817.038 2024；Dipendenti 15；Utile € 20.808）+ fatturatoitalia（fondazione 19/12/2006；costo personale € 721.953）+ reportaziende（Fatturato 2023 € 2.962.591；2019–2024 序列）+ voxplus.it/contatti（Sede operativa Via Bellaria 3 Busto Arsizio；P.IVA 05516110961 REA MI-1828564）",
+   "url": "https://www.ufficiocamerale.it/8107/voxplus-srl",
+   "number": "P.IVA / CF 05516110961；REA MI-1828564",
+   "status": "Active",
+   "incorporated": "2007-01-24（成立 2006-12-19）",
+   "company_type": "S.r.l.（私有）",
+   "sic": [
+    "系统集成（网络 / VoIP / 数据中心布线 / 楼宇自动化）（ATECO 43.21.02）"
+   ],
+   "address": "Via Raimondo Montecuccoli 36, 20147 Milano（运营 Via Bellaria 3, 21052 Busto Arsizio）",
+   "accounts": "2024 营收 €1,817,038；净利 €20,808",
+   "accounts_due": "—",
+   "size_band": "小型（15 人）",
+   "officers": [
+    "Gianni Scandroglio — 研究档 KP = 收件人",
+    "Fabio Frigerio — 研究档 KP（抄）",
+    "（未具名）— amministratore（拍板人未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**15 人米兰集成商，站内在推国产 Maiwe 工业交换机 → 集成 25% small，一页纸一次（STI-054GP 对照 5 口工业 PoE；STC-424XGGPM-280W 对照 8×90 W + 4×10G 管理型）；有回声再加厚**；稿内不点名 Maiwe",
+    "收件人 Gianni 直呼、抄 Fabio；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "集成 25% small；一页纸一次；坐实（P.IVA + REA + 财务）。",
+   "code": "SB-257"
+  },
+  "SB-432": {
+   "batch": 109,
+   "name": "QUBIX S.P.A.（qubix.it；帕多瓦 Via Canada 22/A, 35127；P.IVA / CF 03575150283；REA PD-321331）— 2001-02-01 登记（数据线缆厂数据传输部门分拆）的结构化布线 / 网络 / 视频监控分销商（表内「几乎全是 Planet 的设备」—— 工业 FS / MC / SFP / 工业电源）；股本 €300,000；20–21 人；2025 营收 €29.72M（+4.5%）、净利 €6.62M；ATECO 46.50.2；General Manager Filippo Gnocco；BDM Davide Villotti；BDM Caroline (Chia Ling) Lee；表内「质量一般」",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（QUBIX S.P.A.；P.IVA 03575150283；VIA CANADA’ 22/A 35127 PADOVA；Rea 321331；Fatturato € 29.715.092 2025；Dipendenti 21；Iscrizione 01/02/2001；Utile € 6.617.277）+ aziende.it（Capitale € 300.000；2023–2025 fatturato 27.6 / 28.4 / 29.7 M€；utile 5.58 / 5.53 / 6.62 M€）+ LinkedIn（Filippo Gnocco General Manager；Caroline (Chia Ling) Lee BDM；2001；11–50）+ qubix.it/en/azienda（spin-off 2001）",
+   "url": "https://www.ufficiocamerale.it/6588/qubix-spa",
+   "number": "P.IVA / CF 03575150283；REA PD-321331",
+   "status": "Active",
+   "incorporated": "2001-02-01",
+   "company_type": "S.p.A.（私有；股本 €300,000）",
+   "sic": [
+    "结构化布线 / 网络 / 视频监控 分销（ATECO 46.50.2）"
+   ],
+   "address": "Via Canada 22/A, 35127 Padova",
+   "accounts": "2025 营收 €29,715,092；净利 €6,617,277",
+   "accounts_due": "—",
+   "size_band": "中小（21 人；€29.7M；净利率 22%）",
+   "officers": [
+    "Filippo Gnocco — General Manager（研究档 KP）= 拍板人 / 收件人",
+    "Davide Villotti — Business Developer Manager（研究档 KP）= 收件人（抄）",
+    "Caroline (Chia Ling) Lee — Business Development Manager（台系供应链接口，推定）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€30M、净利率 22%、几乎全线台系的帕多瓦分销商 → 分销 20%，B BIG，加厚一次；回信即升 A 候选**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE + STC-110XGE 一页纸 1:1 对照其在售型号（第二货源 + 毛利切口）；稿内不点名 Planet",
+    "收件人 Filippo 直呼、抄 Davide；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次；升 A 候选（回信即 A）；坐实（P.IVA + REA + 财务）。",
+   "code": "SB-432"
+  },
+  "SB-524": {
+   "batch": 109,
+   "name": "Armadi-Rack.it（电商与品牌；运营主体 M.D.W. srl，P.IVA / CF 02766841205，REA BO-465866；法定 博洛尼亚 Piazza Minghetti 4/D, 40124；运营 Casalecchio di Reno Via Edmondo De Amicis 7, 40033）— 19 寸机柜 / 子架 / 电子外壳 / 电气柜意大利制造 + 网店（栏目 PoE 交换机、工业交换机；表内 Digitus / Utepo / Linkcreative）；KP Massimiliano Luciani（业主）、Alfredo Marmone；表内「可以尝试多跟进一下」",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：armadi-rack.it/chi_siamo + assistenza（M.D.W. srl；R.I./C.F./P.I. IT02766841205；Camera di Commercio di Bologna REA 465866；Sede legale Piazza Minghetti 4/D Bologna；Sede operativa Via Edmondo De Amicis 7 Casalecchio di Reno）+ reteimprese（Luciani Massimiliano；REA 465866；progettano e producono carpenterie metalliche per elettronica）",
+   "url": "https://www.armadi-rack.it/chi_siamo",
+   "number": "P.IVA / CF 02766841205；REA BO-465866（M.D.W. srl）",
+   "status": "Active",
+   "incorporated": "未取",
+   "company_type": "S.r.l.（Luciani 家族）",
+   "sic": [
+    "19 寸机柜 / 电子外壳 制造 + 网店（含 PoE / 工业交换机栏目）"
+   ],
+   "address": "Piazza Minghetti 4/D, 40124 Bologna（运营 Via Edmondo De Amicis 7, 40033 Casalecchio di Reno）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "Massimiliano Luciani — 业主 / 研究档 KP = 拍板人 / 收件人",
+    "Alfredo Marmone — 研究档 KP（抄）"
+   ],
+   "psc": "Luciani 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**机柜厂自营网店（交换机栏目卖国产贴牌货）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 1:1 对照其在售 Digitus / Utepo；MOQ 1）；有回声再加厚**；稿内不点名",
+    "收件人 Massimiliano 直呼、抄 Alfredo；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（P.IVA + REA 站脚）。",
+   "code": "SB-524"
+  },
+  "SB-201": {
+   "batch": 109,
+   "name": "EL.SI. S.R.L.（elsi.it；克罗托内 Crotone Località Zigari, Via Enzo Ferrari, 88900；P.IVA / CF 01536710799；REA KR-118653）— 1985-10-18 登记的南意安防 / 自动化 / 能源管理区域分销商（Calabria / Basilicata / Puglia / Sicilia；Comfort / Sicurezza / Energia 三条线）；股本 €93,600；16 人；2025 营收 €3.91M（−1.9%）、净利 €25k（2024 −€57k）；ATECO 46.47.3；Amministratore Unico 未具名",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（EL.SI. S.R.L.；P.IVA 01536710799；LOCALITA’ ZIGARI - VIA E. FERRARI 88900 CROTONE；Rea 118653；Iscrizione 18/10/1985；Fatturato € 3.990.302 2024；Dipendenti 16；Utile € -56.990；Capitale € 93.600）+ aziende.money.it（2025 fatturato € 3.914.124 −1,91 %；utile € 25.184；EBITDA € 217.133）+ fatturatoitalia（ATECO 46.47.3；16–19 dipendenti）+ atoka（Amministratore Unico）",
+   "url": "https://www.ufficiocamerale.it/9607/elsi-srl",
+   "number": "P.IVA / CF 01536710799；REA KR-118653",
+   "status": "Active",
+   "incorporated": "1985-10-18",
+   "company_type": "S.r.l.（私有；股本 €93,600）",
+   "sic": [
+    "安防 / 自动化门 / 能源管理 区域分销（ATECO 46.47.3）"
+   ],
+   "address": "Località Zigari, Via Enzo Ferrari, 88900 Crotone",
+   "accounts": "2025 营收 €3,914,124；净利 €25,184（2024 −€56,990）",
+   "accounts_due": "—",
+   "size_band": "小型（16 人）",
+   "officers": [
+    "（未具名）— Amministratore Unico（拍板人未取）；收件人 info@（点名 responsabile acquisti sicurezza）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**南意 16 人区域安防分销商（薄利、2024 亏损 → 需要毛利）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 配 CCTV 线；MOQ 1）；有回声再加厚**",
+    "表内未跟进 → 首触 info@；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（P.IVA + REA + 财务）。",
+   "code": "SB-201"
   }
  }
 }

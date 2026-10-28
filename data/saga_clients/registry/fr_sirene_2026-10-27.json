@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 8
+  "count": 10
  },
  "rows": {
   "SA-011": {
@@ -269,6 +269,74 @@
    ],
    "notes": "坐实（SIREN）；同行制造商 → 不动。",
    "code": "SB-764"
+  },
+  "SB-423": {
+   "batch": 109,
+   "name": "EQUIPEMENTS SCIENTIFIQUES（ES France；es-france.com；Hauts-de-Seine Garches 127 rue de Buzenval, 92380；SIREN 353 579 634；TVA 未取；DUNS 76-586-6108）— 1963 年起（现法人 1990-01-26 登记；2025-09 由 SA à directoire 改 SAS）的增值分销商：元器件 / 仪器 / 工业信息 / 通信网络四大部门（ISO 9001:2015；Ecovadis；样品 / 借测 / 演示；站内 ORing 工业交换机与电源）；2025 营业额 €101.5M；101 人；资本 + 储备 €16M（股本 €3.29M）；Président Daniel Guez（1966 年生）、DG Laurent Guez（1972 年生）= Guez 家族；表内 2 次跟进无回复",
+   "iso": "FR",
+   "fetched": "2026-10-28",
+   "source": "FR · 2 次检索（首次 Montrouge 误定位）：pappers（EQUIPEMENTS SCIENTIFIQUES；127 RUE DE BUZENVAL 92380 GARCHES；Commerce de gros de composants et d’équipements électroniques；Effectif 50–99 2022；Création 26/01/1990；GUEZ Daniel Président 02/09/2025；GUEZ Laurent DG 23/04/2012；CAC FITECO）+ societe.com / xerfi（SIREN 353579634；SIRET 35357963400018；capital 3 290 k€）+ infonet（Philippe / Gilles / Alain Guez 监事会）+ es-france.com/recrutement（Créée en 1963；C.A. 2025 101,5 M€；Effectif 101；Capital + réserves 16 M€；Duns 76-586-6108；bureaux à Garches）",
+   "url": "https://www.pappers.fr/entreprise/equipements-scientifiques-353579634",
+   "number": "SIREN 353 579 634；SIRET 35357963400018",
+   "status": "Active",
+   "incorporated": "1990-01-26（活动 1963）",
+   "company_type": "SAS（Guez 家族；股本 €3.29M）",
+   "sic": [
+    "电子元器件 / 仪器 / 工业 IT / 网络 增值分销（NAF 46.52Z）"
+   ],
+   "address": "127 rue de Buzenval, 92380 Garches",
+   "accounts": "2025 营业额 €101.5M",
+   "accounts_due": "—",
+   "size_band": "中型（101 人；€101M）",
+   "officers": [
+    "Daniel Guez — Président（2025-09 起；此前 Président du directoire 2004 起）= 拍板人（不直接发）",
+    "Laurent Guez — Directeur général（2004 起）",
+    "（未具名）— département Réseaux chef de produit = 收件人（contact@es-france.com 点名）"
+   ],
+   "psc": "Guez 家族",
+   "charges": "",
+   "prev_names": [
+    "SA à directoire（2025-09 前）"
+   ],
+   "lines": [
+    "**€100M 的法国四部门 VAD（网络部卖 ORing 工业线；2 次群发无回）→ 分销 20%，B BIG，加厚一次（换切口：ORing 第二价位 + 法国借测样机付费）**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE 一页纸；稿内不点名 ORing",
+    "收件人 contact@ 点名 chef de produit réseaux；发信窗口 Thu 12–14 CET；法语一句引子"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次（换切口）；坐实（SIREN + 财务）。",
+   "code": "SB-423"
+  },
+  "SB-025": {
+   "batch": 109,
+   "name": "SIPE – Société Insulaire de Protection Electronique（SAS；sipe-corse.fr；科西嘉 Ajaccio Les Ateliers de Suartello Lot 217, chemin de Suartello, 20167；SIREN 814 329 462；SIRET 81432946200034；TVA FR39814329462；RCS Ajaccio）— 1985 年起（现法人 2015-10-01）的安防安装商（报警 / 视频 / 门禁 / 自动化；科西嘉唯一 APSAD 三认证；Collectivité de Corse 框架合同 €152k 2026-02）；股本 €10,000；10–19 人；Président Olivier Donadio（1980 年生；= 研究档 KP）；APE 8020Z；需求 3 个工业 PoE 配件小量；5 次跟进无实质回复",
+   "iso": "FR",
+   "fetched": "2026-10-28",
+   "source": "FR · 1 次检索：pappers（SIPE SOCIETE INSULAIRE DE PROTECTION ELECTRONIQUE；LES ATELIERS DE SUARTELLO LOT 217 CHEMIN DE SUARTELLO 20167 AJACCIO；Effectif 10–19 2022；Création 01/10/2015；RCS 814 329 462 Ajaccio；Donadio Olivier Président 12/07/2016 né 07/1980；appels d’offres Collectivité de Corse 152 000 € 26/02/2026）+ lefigaro（SIRET 81432946200034；TVA FR39814329462；前身 SOCIETE INSULAIRE DE PROTECTION SIREN 332551688 fonds acquis 2023）+ sipe-corse.fr/a-propos（création 1985；Président Olivier Donadio；Capital 10 000 €；SIRET 814 329 462 000 34；APSAD）",
+   "url": "https://www.pappers.fr/entreprise/sipe-societe-insulaire-de-protection-electronique-814329462",
+   "number": "SIREN 814 329 462；SIRET 81432946200034；TVA FR39814329462",
+   "status": "Active",
+   "incorporated": "2015-10-01（活动 1985）",
+   "company_type": "SAS（Donadio；股本 €10,000）",
+   "sic": [
+    "安防系统安装与维护（APE 80.20Z）"
+   ],
+   "address": "Les Ateliers de Suartello Lot 217, chemin de Suartello, 20167 Ajaccio",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（10–19 人）",
+   "officers": [
+    "Olivier Donadio — Président（研究档 KP）= 拍板人 / 收件人"
+   ],
+   "psc": "Olivier Donadio（推定）",
+   "charges": "",
+   "prev_names": [
+    "Société Insulaire de Protection SARL（332 551 688；2023 收购经营资产）"
+   ],
+   "lines": [
+    "**科西嘉 10–19 人安装商（只要 3 个工业 PoE 配件；5 次无实质回复）→ 集成 25% small，一页纸一次（STI-054GP / STI-144GP 一口价 + MOQ 1 + 法国 DAP）；再无回声 → 不动**；公共合同不提",
+    "收件人 Olivier 直呼；发信窗口 Thu 12–14 CET；法语一句引子"
+   ],
+   "notes": "集成 25% small；一页纸一次；坐实（SIREN + Président）。",
+   "code": "SB-025"
   }
  }
 }

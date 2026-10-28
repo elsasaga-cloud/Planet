@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 15
+  "count": 16
  },
  "rows": {
   "SA-089": {
@@ -503,6 +503,39 @@
    ],
    "notes": "贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；坐实（IČO + 法院卷号 + 股东）。",
    "code": "SB-309"
+  },
+  "SB-470": {
+   "batch": 109,
+   "name": "ASM（asm.cz；= 100MEGA Distribution s.r.o. 的 ICT 安装商 / 集成商分销部门，布拉格 10 K Hrušovu 292/4, 102 00；法人总部 布尔诺 Horní Heršpice Železná 681/7, 619 00；IČO 60707968；DIČ CZ60707968；KS Brno C 15317）— 1994-05-24 成立的捷克大型 IT 分销商（营业额居全国前 0.5%；100–149 人；股本 CZK 12,957,000）；ASM 面向安装公司与系统集成商（站内 PLANET 61 / Dahua 105 / Hikvision；专业培训）；jednatel Ing. Petr Bečička；股东 Martin Zavřel / Petr Bečička；KP Richard Hemzal",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：asm.cz/kontakty（A S M (100MEGA Distribution s.r.o.)；K Hrušovu 292/4 Praha 10；sídlo Železná 681/7 Brno；IČ 60707968 DIČ CZ60707968；KS v Brně C 15317）+ podnikatel.cz（základní kapitál 12 957 000 Kč；jednatel Ing. Petr Bečička vznik funkce 24.5.1994）+ firmindex（100–149 zaměstnanců；vznik 24. 5. 1994）+ detail.cz（obrat v 0,5 % firem；vlastní Martin Zavřel / Petr Bečička）",
+   "url": "https://rejstrik.penize.cz/60707968-100mega-distribution-s-r-o",
+   "number": "IČO 60707968；DIČ CZ60707968；C 15317 KS Brno",
+   "status": "Aktivní",
+   "incorporated": "1994-05-24",
+   "company_type": "s.r.o.（Zavřel / Bečička）",
+   "sic": [
+    "IT 分销（捷克大型；ASM 部门 = ICT 安装商 / 集成商渠道）"
+   ],
+   "address": "Železná 681/7, 619 00 Brno – Horní Heršpice（ASM：K Hrušovu 292/4, 102 00 Praha 10）",
+   "accounts": "—（营业额前 0.5%）",
+   "accounts_due": "—",
+   "size_band": "中型（100–149 人）",
+   "officers": [
+    "Richard Hemzal — 研究档 KP（ASM 产品 / 采购）= 收件人",
+    "Ing. Petr Bečička — Jednatel / 股东 = 拍板人（不直接发）",
+    "Martin Zavřel — 股东"
+   ],
+   "psc": "Zavřel / Bečička",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**捷克大型分销商的安装商渠道部门（台系工业交换机为主力）→ 分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + STC-028GP / STC-228GP / STC-2224GP 一页纸 1:1；稿内不点名 Planet / Dahua / Hikvision",
+    "收件人 Richard 直呼；发信窗口 Thu 12–14 CET；捷克语一句引子"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次；坐实（IČO + 法院卷号）。",
+   "code": "SB-470"
   }
  }
 }
