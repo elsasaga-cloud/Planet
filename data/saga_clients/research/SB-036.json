@@ -52,6 +52,18 @@
    "email": "",
    "phone": "",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Matej Snoha",
+   "role": "Jednatel / 创始人 / 实益所有人（2017 起；or.justice.cz）= 拍板人 / 收件人（第 107 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o"
+  },
+  {
+   "name": "Andrej Hraško",
+   "role": "Jednatel / 实益所有人（2016 起）（第 107 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o"
   }
  ],
  "grade_override": "B",
@@ -63,11 +75,11 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Inthouse Systems s.r.o.（IČO 05405947）",
-  "founded": "2013",
+  "legal_name": "Inthouse Systems s.r.o.（IČO 05405947；C 263202 MSPH；Praha 5）",
+  "founded": "2016-09-19（第 107 批 官方登记核实 2026-10-28）",
   "hq": "Grafická 769/9, 150 00 Praha 5, Czechia（+420 722 476 554；support@inthouse.eu）",
   "size": "4 人（Tracxn 2026-08）",
-  "other": "Siemens Climatix PLC 云网关与 App；64 伙伴/制造商；白标 App"
+  "other": "Siemens Climatix PLC 云网关与 App；64 伙伴/制造商；白标 App；第 107 批：布拉格楼宇自动化软件 / 云网关公司（≈4 人；注册资本 2,000 Kč；两名斯洛伐克创始人）→ **采购型 25% tiny，一页纸一次；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "Inthouse Hub 云网关 + App（Siemens Climatix PLC 远程控制）",

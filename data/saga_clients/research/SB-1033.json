@@ -1,144 +1,144 @@
 {
-  "code": "SB-1033",
-  "name_official": "Garma Electronics S.L.（西班牙圣塞巴斯蒂安）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（garmasl.com，快照 2026-10-21）",
-  "summary": "西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Red Lion"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "20+ 年工业方案：仪表与过程控制；+34 943 291 102",
-      "quote": "With over 20 years of experience, Garma Electronics is your trusted source for industrial solutions. Offering instrumentation and control for demanding processes.",
-      "url": "https://garmasl.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "redlion Switch I/O module",
-      "quote": "兴趣：redlion Switch I/O module",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（未具名）",
-      "title": "",
-      "email": "info@garmasl.com",
-      "phone": "+34 943 291 102",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-1033",
+ "name_official": "Garma Electronics S.L.（西班牙圣塞巴斯蒂安）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（garmasl.com，快照 2026-10-21）",
+ "summary": "西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Red Lion"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "20+ 年工业方案：仪表与过程控制；+34 943 291 102",
+   "quote": "With over 20 years of experience, Garma Electronics is your trusted source for industrial solutions. Offering instrumentation and control for demanding processes.",
+   "url": "https://garmasl.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Garma Electronics S.L.",
-    "founded": "约 2003",
-    "hq": "San Sebastián (Gipuzkoa), Spain",
-    "size": "中小型工业分销",
-    "other": "Red Lion 渠道"
-  },
-  "business_lines": [
-    "工业仪表 / 控制 / 网络分销"
-  ],
-  "channels": {
-    "role": "工业分销商",
-    "region": "西班牙"
-  },
-  "signals": [
-    "Red Lion（N-Tron）之下价位带"
-  ],
-  "risks": [
-    "I/O 模块不供；无具名"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。"
-  },
-  "email_hook": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 7 封 2024→2025，1 次记录打开，0 回；收件 info@garmasl.com；主题多为「Passive PoE Switch、Mini Industrial Switch」）；Elsa 群发 To 直收 11 轮 2025-03-29→2026-09-02（本户是「ES」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-02「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a061e4cc4892abf）",
-      "type": "—",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "西班牙（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 7，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：redlion Switch I/O module」；研究档 risks：I/O 模块不供；无具名；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）2025-03-29→2026-09-02 共 11 轮群发（Marvell Alleycat5 Solution、Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、24 Port Fiber Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。",
-    "need": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。",
-    "breakpoint": "I/O 模块不供；无具名",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-09 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-02；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。已打开的主题（1/7 封有打开记录）：「Power booster」(2024-09-06) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?"
-    },
-    "facts": [
-      {
-        "date": "2025-01-18",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "Passive PoE Switch、Mini Industrial Switch",
-        "why": "7 封 / 1 次打开 / 0 回｜首封 2024-07-10 → 末封 2025-01-18（7 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-03-29",
-        "dir": "去",
-        "who": "Elsa 群发（To 直收：本户是「ES」批次的锚，其余客户在 Bcc）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发直达证据（To info@garmasl.com）；该批次 11 轮 2025-03-29→2026-09-02 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-02",
-        "dir": "去",
-        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
-        "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ info@garmasl.com（截至 2026-10-24 无回复）",
-        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
-        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
-      },
-      {
-        "date": "2026-09-02",
-        "dir": "去",
-        "who": "Elsa 群发（To 直收：本户是「ES」批次的锚，其余客户在 Bcc）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发直达证据（To info@garmasl.com）；该批次 11 轮 2025-03-29→2026-09-02 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：redlion Switch I/O module",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "redlion Switch I/O module",
+   "quote": "兴趣：redlion Switch I/O module",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@garmasl.com",
+   "phone": "+34 943 291 102",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Garma Electrónica S.L.（圣塞巴斯蒂安 Calle Oyarzun 1 Bajo；CIF 未取 → 部分坐实）",
+  "founded": "未取（自述 20+ 年）（第 107 批 官方登记核实 2026-10-28）",
+  "hq": "San Sebastián (Gipuzkoa), Spain",
+  "size": "中小型工业分销",
+  "other": "Red Lion 渠道；第 107 批：工业仪表 / 过程控制分销商（Red Lion / N-Tron NT5000 工业交换机代理、FEMA、Scaime、Helmholz、Finetek）→ **STI 工业线作「第二价位」：分销 20% small，一页纸（1:1 对照 NT5000 价位）一次，有回声再加厚**；稿内不点名 Red Lion / N-Tron（第 107 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "工业仪表 / 控制 / 网络分销"
+ ],
+ "channels": {
+  "role": "工业分销商",
+  "region": "西班牙"
+ },
+ "signals": [
+  "Red Lion（N-Tron）之下价位带"
+ ],
+ "risks": [
+  "I/O 模块不供；无具名"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。"
+ },
+ "email_hook": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 7 封 2024→2025，1 次记录打开，0 回；收件 info@garmasl.com；主题多为「Passive PoE Switch、Mini Industrial Switch」）；Elsa 群发 To 直收 11 轮 2025-03-29→2026-09-02（本户是「ES」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-02「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a061e4cc4892abf）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "西班牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 7，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：redlion Switch I/O module」；研究档 risks：I/O 模块不供；无具名；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）2025-03-29→2026-09-02 共 11 轮群发（Marvell Alleycat5 Solution、Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、24 Port Fiber Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+  },
+  "situation": "西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。",
+  "need": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。",
+  "breakpoint": "I/O 模块不供；无具名",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-09 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-02；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。已打开的主题（1/7 封有打开记录）：「Power booster」(2024-09-06) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?"
+  },
+  "facts": [
+   {
+    "date": "2025-01-18",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "Passive PoE Switch、Mini Industrial Switch",
+    "why": "7 封 / 1 次打开 / 0 回｜首封 2024-07-10 → 末封 2025-01-18（7 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-03-29",
+    "dir": "去",
+    "who": "Elsa 群发（To 直收：本户是「ES」批次的锚，其余客户在 Bcc）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发直达证据（To info@garmasl.com）；该批次 11 轮 2025-03-29→2026-09-02 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "去",
+    "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+    "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ info@garmasl.com（截至 2026-10-24 无回复）",
+    "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+    "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "去",
+    "who": "Elsa 群发（To 直收：本户是「ES」批次的锚，其余客户在 Bcc）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发直达证据（To info@garmasl.com）；该批次 11 轮 2025-03-29→2026-09-02 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：redlion Switch I/O module",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

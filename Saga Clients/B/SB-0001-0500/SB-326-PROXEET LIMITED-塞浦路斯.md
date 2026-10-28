@@ -79,6 +79,22 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Ohi Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（CY · 1 次检索：i-cyprus（PROXEET LIMITED；ΗΕ 437925；Private Limited；Registration 31/08/2022；Active；Neofytou Nikolaidi 61 Yiannis Court Floor 2 Office 201 8011 Pafos）+ companiesregistry.cy（Directors ANTREI TYCHONOV + ALEKSEI KIZRIAKOV；Secretary Antrei Tychonov，related to ANDREY ST. TIKHONOV & CO LLC）+ proxeet.shop Support（Proxeet Ltd, Neofytou Nikolaidi 61 Paphos；+357 25100999；info@proxeet.com）+ LinkedIn（11–50；Founded 2020；Telecommunications）+ D&B 目录（Computer and Electronic Product Manufacturing, Paphos），2026-10-28 查；https://i-cyprus.com/company/611007）：**
+
+- 法定名 / 登记号：PROXEET LIMITED（proxeet.com / portablepoe.com / chiprian.com；帕福斯 Neofytou Nikolaidi 61, Yiannis Court, Floor 2, Office 201, 8011 Pafos；ΗΕ 437925，2022-08-31 注册）— 面向 ISP 的网络设备品牌商（**自有 Chiprian 系列 L3 管理交换机 + iBlock 便携 PoE 注入器**；LinkedIn 11–50、2020 起）；董事 Aleksei Kizriakov + Andrei Tikhonov（Tikhonov 兼秘书，且为多家塞浦路斯公司秘书 = 公司服务商）→ 俄籍创始团队的塞浦路斯法人；研究档 KP Marina Shkarpetina（marketplace@，用户表 RFQ）；群发 5 次打开 · ΗΕ 437925 · 状态 **Active（Registrar of Companies）** · 成立 2022-08-31 · Private Limited（俄籍创始团队；秘书为公司服务商）
+- 行业码 / 经营范围：ISP 网络设备品牌商（自有 Chiprian L3 交换机 / iBlock PoE 注入器；网店 + marketplace）
+- 注册地址：Neofytou Nikolaidi 61, Yiannis Court, Floor 2, Office 201, 8011 Pafos
+- 规模档：小型（11–50 口径）
+- 账目：—；—
+- 高管：Aleksei Kizriakov — Director = 拍板人
+- 高管：Andrei Tikhonov — Director + Secretary（公司服务商，非业务人）
+- 高管：Marina Shkarpetina — Marketplace（研究档 KP，marketplace@proxeet.com；用户表 RFQ）= 收件人
+- 控制人 / 股东：未取（俄籍创始团队推定）
+- **这意味着什么：**
+  - **自有标 L3 交换机（Chiprian）的 ISP 设备品牌商 = 贴标 OEM 30% 目标，B BIG，加厚一次；升 A 次候选**：STC-424XGGPM-280W / STC-448XGGPM / STC-110XGE + STI 线一页纸 + 1:1 对照 Chiprian 在售机型；只报 OEM 档
+  - 收件人 marketplace@ 直呼 Marina（她发过 RFQ），抄 Aleksei Kizriakov；5 次打开无回复 → 二次触达接其 RFQ 旧题；发信窗口 Thu 12–14 EET；**塞浦路斯 EU 法人，收款走正常 T/T；不碰俄方背景话题**
+- 备注：贴标 30% 目标；B BIG；加厚一次；升 A 次候选；坐实（ΗΕ）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,17 +133,18 @@ updated: 2026-10-28
 - **【用户表】RFQ：30 W PoE injector**
   > 需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marina Shkarpetina（Marketplace（用户表 RFQ））marketplace@proxeet.com（用户表） —（WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Marina Shkarpetina（Marketplace（用户表 RFQ）= 收件人（第 107 批 官方登记核实 2026-10-28））marketplace@proxeet.com（用户表） —（WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Aleksei Kizriakov（Director（Registrar of Companies）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28）） 〔https://companiesregistry.cy/company-details/proxeet-limited-437925/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（公司注册 + 官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | PROXEET LIMITED（HE 437925） |
-| 成立 | 2022-08-31（注册）；LinkedIn 2020 |
+| 法定名称 | PROXEET LIMITED（ΗΕ 437925；Pafos） |
+| 成立 | 2022-08-31（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Neofytou Nikolaidi 61, Yiannis Court, Office 201, 8011 Paphos, Cyprus（+357 25 100999；info@proxeet.com） |
-| 其他 | 自有品牌 PoE injector（iBlock）、Chiprian L3 PoE 交换机；ISP/WISP 客户；RIPE AS201158 |
+| 其他 | 自有品牌 PoE injector（iBlock）、Chiprian L3 PoE 交换机；ISP/WISP 客户；RIPE AS201158；第 107 批：帕福斯 ISP 网络设备品牌商（**自有 Chiprian L3 管理交换机 + iBlock 便携 PoE 注入器**；俄籍创始团队，董事 Kizriakov + Tikhonov（后者为公司服务商兼秘书）；11–50 口径）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 次候选**；塞浦路斯 EU 法人，正常 T/T；不碰俄方背景话题（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：PoE 注入器/便携 PoE（自有品牌，亦在阿里巴巴与亚马逊销售）；Chiprian L3 管理交换机 16/24 口（被动 + 标准 PoE）；ISP 软件与网络设备
 - **触达通道（公开）**：网站: https://proxeet.com/ · https://chiprian.com/ · https://portablepoe.com/；电话: +357 25 100999（公开）；邮箱（公开）: info@proxeet.com；LinkedIn: https://www.linkedin.com/company/proxeet
@@ -193,7 +210,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marina Shkarpetina | Marketplace（用户表 RFQ） | marketplace@proxeet.com（用户表） / —（WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Marina Shkarpetina | Marketplace（用户表 RFQ）= 收件人（第 107 批 官方登记核实 2026-10-28） | marketplace@proxeet.com（用户表） / —（WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Aleksei Kizriakov | Director（Registrar of Companies）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://companiesregistry.cy/company-details/proxeet-limited-437925/ |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

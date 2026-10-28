@@ -88,6 +88,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 107 批（ES · 1 次检索：官网 Home / Contact（Garma Electrónica S.L.；Calle Oyarzun 1 Bajo 20013 Donostia-San Sebastián；info@garmasl.com；943 29 11 02；With over 20 years；Download Red Lion Ntron Networking / N-Tron Series NT5000 / Red Lion FlexEdge / Scaime / Helmholz）+ FEMA 分销页 + Finetek 项目页（Zamakona 船厂）；CIF / Registro Mercantil 未取，2026-10-28 查；https://www.garmasl.com/en/）：**
+
+- 法定名 / 登记号：Garma Electrónica S.L.（garmasl.com；西班牙圣塞巴斯蒂安 Calle Oyarzun 1 Bajo, 20013 Donostia）— 20+ 年工业仪表与过程控制分销商（Red Lion / N-Tron 工业交换机 NT5000、FEMA 面板表、Scaime 称重、Helmholz 网络、Finetek 液位）；CIF 未取 → 部分坐实；表内「Red Lion Switch、I/O module」；无跟进；群发 8 次打开 · CIF 未取（S.L.） · 状态 **Active** · 成立 未取（自述 20+ 年） · S.L.（私有；小型）
+- 行业码 / 经营范围：工业仪表 / 过程控制 / 工业网络分销（Red Lion / N-Tron 代理）
+- 注册地址：Calle Oyarzun 1 Bajo, 20013 Donostia-San Sebastián（Gipuzkoa）
+- 规模档：小微（推定 <10 人）
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@garmasl.com（点名 compras / responsable de redes industriales）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **卖 N-Tron（高价美系工业交换机）的仪表分销商 → STI 工业线是「第二价位」：分销 20% small，一页纸（STI-054GP / STI-144GP / STI-288DGGPM 1:1 对照 NT5000 价位）一次；有回声再加厚**；稿内不点名 Red Lion / N-Tron
+  - 8 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；西语一句引子
+- 备注：分销 20% small；一页纸；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,10 +135,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Garma Electronics S.L. |
-| 成立 | 约 2003 |
+| 法定名称 | Garma Electrónica S.L.（圣塞巴斯蒂安 Calle Oyarzun 1 Bajo；CIF 未取 → 部分坐实） |
+| 成立 | 未取（自述 20+ 年）（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | San Sebastián (Gipuzkoa), Spain |
-| 其他 | Red Lion 渠道 |
+| 其他 | Red Lion 渠道；第 107 批：工业仪表 / 过程控制分销商（Red Lion / N-Tron NT5000 工业交换机代理、FEMA、Scaime、Helmholz、Finetek）→ **STI 工业线作「第二价位」：分销 20% small，一页纸（1:1 对照 NT5000 价位）一次，有回声再加厚**；稿内不点名 Red Lion / N-Tron（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业仪表 / 控制 / 网络分销
 - **触达通道（公开）**：role: 工业分销商；region: 西班牙

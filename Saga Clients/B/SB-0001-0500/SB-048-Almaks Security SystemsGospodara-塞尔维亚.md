@@ -86,6 +86,22 @@ updated: 2026-10-28
 
 - 法定假日：11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（RS · 1 次检索：companywall.rs（ALMAKS DOO BEOGRAD；Gospodara Vučića 129 11118 Beograd (Vračar)；Aktivan；PIB 100571552；MB 06698182；Datum osnivanja 15.6.1992；Vlasnik Slobodan Maksimović 100%；Direktor Slobodan Maksimović；Direktor Uroš Maksimović；Zastupnik Predrag Đorđević；šifra 8020）+ infostud（51–100 zaposlenih）+ PKS 协会名录（ALMAKS Security Systems d.o.o.；Slobodan Maksimović vlasnik i direktor；almaks@almaks.rs / smaksimovic@almaks.rs；06698182）+ almaks.rs（Since 1991；Founder Slobodan Maksimović）+ companywall ALMAKS GPS d.o.o.（MB 21315931，2017），2026-10-28 查；https://www.companywall.rs/firma/almaks-doo-beograd/MMfjjXsD）：**
+
+- 法定名 / 登记号：ALMAKS DOO BEOGRAD（Almaks Security Systems；almaks.rs；贝尔格莱德 Vračar Gospodara Vučića 129, 11118；матични број 06698182；ПИБ 100571552）— 1992-06-15 登记（品牌 1991 起）的塞尔维亚安防系统集成商（火灾 / 入侵报警、视频安防、气溶胶灭火、门禁考勤、周界、对讲；шифра 8020）；所有人兼董事 Slobodan Maksimović（100%）、董事 Uroš Maksimović（二代）、代表 Predrag Đorđević；51–100 人；子公司 ALMAKS GPS d.o.o.（2017）；**2012-03 成交 20 对 1V1D 视频光端机，此后无跟进**；群发 5 次打开 · Матични број 06698182；ПИБ 100571552 · 状态 **Aktivan** · 成立 1992-06-15 · d.o.o.（Maksimović 家族 100%）
+- 行业码 / 经营范围：安防系统集成（报警 / 视频 / 灭火 / 门禁 / 周界；шифра 8020）
+- 注册地址：Gospodara Vučića 129, 11118 Beograd (Vračar)
+- 规模档：中小（51–100 人）
+- 账目：—；—
+- 高管：Slobodan Maksimović — Vlasnik i direktor（100%）= 拍板人 / 收件人（smaksimovic@almaks.rs，PKS 公开名录）
+- 高管：Uroš Maksimović — Direktor（二代）= 抄送
+- 高管：Predrag Đorđević — Zastupnik
+- 控制人 / 股东：Slobodan Maksimović（100%）
+- **这意味着什么：**
+  - **51–100 人的老成单集成商（2012 买过 20 对光端机）→ 集成 25%，B BIG，加厚一次；升 A 次候选（回信即 A）**：STC-028GP / STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM 一页纸；开头可引 2012 那单（S-box 有记录才引）
+  - 收件人 smaksimovic@ 直呼 Slobodan，抄 Uroš；5 次打开无回复 → 二次触达换切口「14 years on, a PoE line for your CCTV projects」；发信窗口 Thu 12–14 CET；塞语一句引子
+- 备注：集成 25%；B BIG；加厚一次；升 A 次候选；坐实（МБ + ПИБ）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,7 +139,8 @@ updated: 2026-10-28
 - **【协会名录】董事与公开邮箱**
   > ALMAKS Security Systems d.o.o. | Slobodan Maksimović vlasnik i direktor | Beograd | Gospodara Vučića 129 | 011/2852606 | almaks@almaks.rs smaksimovic@almaks.rs
   > 来源：https://aplikacije.pks.rs/Sadrzaj/Files/Spisak%20Grupacije%20za%20TO%20-%20Ranka.doc（抓取 2026-10-21）
-- **KP**：Slobodan Maksimović（创始人 / 所有人兼董事）smaksimovic@almaks.rs（PKS 协会公开名录） +381 11 2852 606〔https://aplikacije.pks.rs/Sadrzaj/Files/Spisak%20Grupacije%20za%20TO%20-%20Ranka.doc〕
+- **KP**：Slobodan Maksimović（Vlasnik i direktor（100%；1992 创始）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28））smaksimovic@almaks.rs（PKS 协会公开名录） +381 11 2852 606〔https://aplikacije.pks.rs/Sadrzaj/Files/Spisak%20Grupacije%20za%20TO%20-%20Ranka.doc〕
+- **KP**：Uroš Maksimović（Direktor（二代；companywall）= 抄送（第 107 批 官方登记核实 2026-10-28）） 〔https://www.companywall.rs/firma/almaks-doo-beograd/MMfjjXsD〕
 - **调研后定级**：B（原自动 A）——历史成交但已沉寂 13 年，塞尔维亚为非主动开发小国；成交记录使其不降 C，B 待机一次性重启。
 - 备注：一封'老客户回访'邮件：视频光端机已被 IP 化替代 → 推 STC-28DGGPM/STI-110GE；无回应即停。
 
@@ -131,10 +148,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Almaks Security Systems d.o.o.（Almaks d.o.o.） |
-| 成立 | 1991 |
+| 法定名称 | ALMAKS DOO BEOGRAD（Almaks Security Systems；МБ 06698182；ПИБ 100571552；Beograd-Vračar） |
+| 成立 | 1992-06-15（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Gospodara Vučića 129, 11050 Beograd (Vračar), Srbija（+381 11 2852 606 / 607；almaks@almaks.rs，marketing@almaks.rs） |
-| 其他 | 塞尔维亚老牌技术安防工程+分销：火灾/防盗报警、视频监控、气溶胶灭火、门禁考勤、周界、对讲、车辆 GPS；**Hikvision 产品线 + 2018-11 成为 Dahua 官方分销商**；创始人/董事 Slobodan Maksimović（PKS 私人安保协会名录公开 smaksimovic@almaks.rs） |
+| 其他 | 塞尔维亚老牌技术安防工程+分销：火灾/防盗报警、视频监控、气溶胶灭火、门禁考勤、周界、对讲、车辆 GPS；**Hikvision 产品线 + 2018-11 成为 Dahua 官方分销商**；创始人/董事 Slobodan Maksimović（PKS 私人安保协会名录公开 smaksimovic@almaks.rs）；第 107 批：贝尔格莱德安防系统集成商（报警 / 视频 / 灭火 / 门禁 / 周界；51–100 人；子公司 ALMAKS GPS 2017；**2012-03 成交 20 对 1V1D 光端机，老成单**）→ **集成 25%，B BIG，加厚一次；升 A 次候选（回信即 A）**；开头引 2012 那单须 S-box 有记录（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：技术安防工程（报警、视频、门禁、周界）；Hikvision / Dahua 分销（biblioteka.almaks.rs 产品库）；车辆 GPS 跟踪、消防（Detnov 可寻址）
 - **触达通道（公开）**：网站: https://www.almaks.rs/en/ · https://biblioteka.almaks.rs/；电话: +381 11 2852 606（官网公开）；邮箱（公开）: almaks@almaks.rs / marketing@almaks.rs
@@ -206,7 +223,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Slobodan Maksimović | 创始人 / 所有人兼董事 | smaksimovic@almaks.rs（PKS 协会公开名录） / +381 11 2852 606 | 调研核实（公开页） | https://aplikacije.pks.rs/Sadrzaj/Files/Spisak%20Grupacije%20za%20TO%20-%20Ranka.doc |
+| Slobodan Maksimović | Vlasnik i direktor（100%；1992 创始）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28） | smaksimovic@almaks.rs（PKS 协会公开名录） / +381 11 2852 606 | 调研核实（公开页） | https://aplikacije.pks.rs/Sadrzaj/Files/Spisak%20Grupacije%20za%20TO%20-%20Ranka.doc |
+| Uroš Maksimović | Direktor（二代；companywall）= 抄送（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.companywall.rs/firma/almaks-doo-beograd/MMfjjXsD |
 | Ms. Svetlana Cvetković | — | almaks@almaks.rs / +381112852606 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

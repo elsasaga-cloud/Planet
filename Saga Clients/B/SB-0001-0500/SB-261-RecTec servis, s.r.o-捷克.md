@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（CZ · 1 次检索：fakturujzdarma（RecTec servis, s.r.o.；IČO 17957036；DIČ CZ17957036；Spolehlivý plátce DPH；Nádražní 92 667 01 Židlochovice；Datum vzniku 23. ledna 2023；Základní kapitál 200 000 Kč；C 132302 Krajský soud v Brně；jednatel Viktor Fojt Absolonova 637/16 Brno；společník CVFT s.r.o. 100 %；ARES 2025-08-19）+ kurzy.cz / podnikatel.cz / finmag（同），2026-10-28 查；https://rejstrik-firem.kurzy.cz/17957036/rectec-servis-sro/）：**
+
+- 法定名 / 登记号：RecTec servis, s.r.o.（rectec.cz；布尔诺郊 Židlochovice Nádražní 92, 667 01；IČO 17957036；DIČ CZ17957036；C 132302 KS Brno）— 2023-01-23 登记的回收生产线（破碎 / 热解 / 精炼 / 清洗）与工业自动化供应商；注册资本 200,000 Kč；jednatel Viktor Fojt（研究档 KP；布尔诺）；100% 股东 CVFT s.r.o.；2023 阿里巴巴 RFQ「BIDI 千兆光模块」（Saga 不做光模块）；表内 6 次跟进无回复；群发 5 次打开 · IČO 17957036；DIČ CZ17957036；C 132302 KS Brno · 状态 **Active（可靠增值税纳税人）** · 成立 2023-01-23 · s.r.o.（CVFT s.r.o. 100%；注册资本 200,000 Kč）
+- 行业码 / 经营范围：回收生产线与工业自动化设备供应 / 服务
+- 注册地址：Nádražní 92, 667 01 Židlochovice（Brno-venkov）
+- 规模档：小微（2023 新设）
+- 账目：—；—
+- 高管：Viktor Fojt — jednatel（研究档 KP，fojt@rectec.cz）= 拍板人 / 收件人
+- 控制人 / 股东：CVFT s.r.o.（100%）
+- **这意味着什么：**
+  - **回收产线集成商，网络件只是配套（其 RFQ 是光模块，Saga 不做）→ 项目 25% 一页纸一次（STI-054GP / STI-144GP 产线控制柜用）；无回声 → 不动**
+  - 收件人直呼 Viktor；6 次跟进 + 5 次打开无回复 → 二次触达换切口「DIN-rail switches for your recycling line cabinets」；发信窗口 Thu 12–14 CET
+- 备注：项目 25% small；一页纸一次 → 不动；坐实（IČO）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,15 +121,17 @@ updated: 2026-10-28
 - **【用户表】BiDi 千兆光模块 RFQ**
   > 2023年使用国际站 / BIDI千兆光模块 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Viktor Fojt（）fojt@rectec.cz 〔用户表〕
+- **KP**：Viktor Fojt（Jednatel（2023 起；KS Brno C 132302）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28））fojt@rectec.cz 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | RecTec servis, s.r.o.（IČO 17957036；DIČ CZ17957036；Židlochovice；100% CVFT s.r.o.） |
+| 成立 | 2023-01-23（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 rectec.cz，语言 cs-CZ，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 rectec.cz，语言 cs-CZ，快照状态 ok；角色判定来源：官网文案；第 107 批：回收生产线 / 工业自动化供应商（注册资本 200,000 Kč；2023 阿里巴巴 RFQ 为光模块，Saga 不做）→ **项目 25% small，一页纸一次（STI 导轨机进产线柜）；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：回收生产线 / 工业自动化（捷克）
 - **触达通道（公开）**：role: 工业自动化/回收线集成商（捷克，光模块 RFQ）；region: 捷克；contact: fojt@rectec.cz
@@ -200,7 +216,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Viktor Fojt | — | fojt@rectec.cz | 调研核实（公开页） | 用户表 |
+| Viktor Fojt | Jednatel（2023 起；KS Brno C 132302）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28） | fojt@rectec.cz | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

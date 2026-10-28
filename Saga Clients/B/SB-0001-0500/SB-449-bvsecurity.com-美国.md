@@ -1,6 +1,6 @@
 # bvsecurity.com
 
-> **评级 B**　|　意大利　|　档案编号 `SB-449`　|　优先级 ★★　|　状态：已推送 13 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-449`　|　优先级 ★★　|　状态：已推送 13 次·未回复
 >
 > **类型**：安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）（推断）　|　**历史关系**：推送 13 次（2024-04-23 → 2025-10-14）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,8 +9,9 @@ code: SB-449
 rating: B
 rating_auto: B
 score: 41
-country: 意大利
-region: 欧洲
+country: 美国
+country_table: 意大利  # 表内原填；调研纠正为 美国（research JSON country_fix）
+region: 北美
 website: bvsecurity.com
 type: 安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）
 tier_tags: ["A优质名单(Italy)", "AI评估(IT)·DONE"]
@@ -25,7 +26,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -81,18 +82,34 @@ updated: 2026-10-27
 
 - `bvsecurity.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（意大利 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：01-01 New Year's Day；01-06 Epiphany；03-28 Easter Sunday；03-29 Easter Monday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数 · 第 107 批（IT→US · 1 次检索：官网产品页 schema（BV USA LLC alternateName BV Security；1951 Landmeier Road Elk Grove Village IL 60007；sales@bvsecurity.com；+1 877-985-5888）+ About Us（BV Security is an OEM/ODM manufacturer located in the Northwest Suburbs of Chicago … authorized re-seller of GeoVision）+ LinkedIn（BV USA LLC；Founded 2009；11–50；POE Switch and IP Camera）+ buzzfile（BV USA LLC；Chien Chang Lu Managing Member；(847) 619-2288）+ ZoomInfo（Lisa Tsai Co-Managing Director and Owner；$5.3M）+ RocketReach（7 人；Founded 2009）；IL SoS 文件号未取，2026-10-28 查；https://bvsecurity.com/pages/about-us）：**
+
+- 法定名 / 登记号：BV Security = BV USA LLC（bvsecurity.com；**美国伊利诺伊 Elk Grove Village 1951 Landmeier Rd**，研究档误记意大利）— 2009 年起的 PoE 交换机 / 注入器 / 摄像机 / 监控硬盘批发商，自称 OEM/ODM manufacturer，**自有品牌 BV-Tech**（POE-SW802G、SW802-DIN 等 Amazon 热销 264+ 评价）；GeoVision 授权经销；Managing Member Chien Chang Lu，Co-Managing Director / Owner Lisa Tsai；7–11 人；$5.3M 口径；IL LLC 号未取 → 部分坐实；研究档 KP Zehua W（support@）；群发 6 次打开 · IL LLC（文件号未取） · 状态 **Active** · 成立 2009 · LLC（华裔家族私有）
+- 行业码 / 经营范围：PoE 交换机 / 注入器 / 摄像机 / 监控硬盘 批发 + 自有品牌 BV-Tech（亚马逊 + 自营店）+ 安装服务
+- 注册地址：1951 Landmeier Rd, Elk Grove Village, IL 60007
+- 规模档：小微（7–11 人）
+- 账目：—；—
+- 高管：Chien Chang Lu — Managing Member = 拍板人
+- 高管：Lisa Tsai — Co-Managing Director / Owner = 拍板人
+- 高管：Zehua W — 研究档 KP（support@）= 技术 / 客服，改投 sales@ 点名 Lisa Tsai
+- 控制人 / 股东：Lu / Tsai
+- **这意味着什么：**
+  - **国别更正：美国伊利诺伊（研究档误记意大利 → country_fix 美国）**；**自有 BV-Tech 标 PoE 交换机批发商 = 贴标 OEM 30% 目标（它的 SW802G 类机型正是 STC-028GP / STC-228GP 的贴标对象）+ 工业 DIN 线（STI-054GP / STI-144GP），B BIG，加厚一次；升 A 候选（回信即 A）**；亚马逊渠道 → 价格敏感，报 OEM 30% 档不报分销档
+  - 收件人改 sales@ 点名 Lisa Tsai / Chien Chang Lu；华裔业主 → 中文直联 Simon 定（默认否）；6 次打开无回复 → 二次触达换切口「second OEM source for your BV-Tech line」；发信窗口 Wed 08–10 CT；其 NDAA 博客口径我方不碰
+- 备注：贴标 30% 目标；B BIG；加厚一次；升 A 候选；country_fix 美国；部分坐实。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | bvsecurity.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 意大利 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | bvsecurity.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 / Zehua W / Product Manager | 事实（用户表） |
@@ -130,15 +147,19 @@ updated: 2026-10-27
 - **【用户表】Utepo，有 Amazon 店铺**
   > Utepo 有Amazon店铺
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Zehua W（）support@bvsecurity.com 〔用户表〕
+- **KP**：Zehua W（Product Manager / 技术客服（研究档）→ 改投 sales@ 点名业主（第 107 批 官方登记核实 2026-10-28））support@bvsecurity.com 〔用户表〕
+- **KP**：Lisa Tsai（Co-Managing Director / Owner（ZoomInfo）= 拍板人 / 收件人（sales@bvsecurity.com）（第 107 批 官方登记核实 2026-10-28））sales@bvsecurity.com 〔https://www.zoominfo.com/c/bv-security/22367373〕
+- **KP**：Chien Chang Lu（Managing Member（buzzfile；BV USA LLC）= 拍板人（第 107 批 官方登记核实 2026-10-28）） 〔https://www.buzzfile.com/business/BV-Security-847-619-2288〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | BV USA LLC（d/b/a BV Security；伊利诺伊 Elk Grove Village；IL 文件号未取 → 部分坐实） |
+| 成立 | 2009（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 bvsecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 bvsecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 107 批：**美国伊利诺伊（研究档误记意大利 → country_fix 美国）**；PoE 交换机 / 注入器 / 摄像机批发商，自称 OEM/ODM，自有品牌 BV-Tech（POE-SW802G 等亚马逊热销）；GeoVision 经销；7–11 人；华裔业主 → **贴标 OEM 30% 目标（其 SW802G 类机型正是 STC-028GP / STC-228GP 的贴标对象），B BIG，加厚一次；升 A 候选（回信即 A）**；中文直联 Simon 定（默认否）；发信窗口 Wed 08–10 CT（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防电商（硬盘 / 摄像机 / PoE）；自有标 PoE 交换机（SW 系列）；Amazon 店铺
 
@@ -245,7 +266,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Zehua W | — | support@bvsecurity.com | 调研核实（公开页） | 用户表 |
+| Zehua W | Product Manager / 技术客服（研究档）→ 改投 sales@ 点名业主（第 107 批 官方登记核实 2026-10-28） | support@bvsecurity.com | 调研核实（公开页） | 用户表 |
+| Lisa Tsai | Co-Managing Director / Owner（ZoomInfo）= 拍板人 / 收件人（sales@bvsecurity.com）（第 107 批 官方登记核实 2026-10-28） | sales@bvsecurity.com | 调研核实（公开页） | https://www.zoominfo.com/c/bv-security/22367373 |
+| Chien Chang Lu | Managing Member（buzzfile；BV USA LLC）= 拍板人（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.buzzfile.com/business/BV-Security-847-619-2288 |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -280,7 +303,7 @@ updated: 2026-10-27
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：已推送 13 次无回复，邮件通道疲劳
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Utepo：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
@@ -338,12 +361,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

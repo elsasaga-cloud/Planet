@@ -34,7 +34,14 @@
    "title": "Chief Financial Officer",
    "email": "robertas@katalita.lt",
    "phone": "+370 603 03213",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "CFO（用户表；与负责人同姓 → 家族）= 收件人（第 107 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Donatas Zubenas",
+   "role": "Vadovas / 负责人（rekvizitai / imoniubaze）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://rekvizitai.vz.lt/en/company/katalita/"
   }
  ],
  "grade_override": null,
@@ -45,11 +52,11 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Katalita UAB",
-  "founded": "",
+  "legal_name": "Katalita, UAB（įmonės kodas 134637695；PVM LT346376917；Kauno r. Neveronys）",
+  "founded": "1995-12-18（第 107 批 官方登记核实 2026-10-28）",
   "hq": "Lithuania",
   "size": "中小型分销",
-  "other": "OEM 词频 117 → 自有标产品"
+  "other": "OEM 词频 117 → 自有标产品；第 107 批：ICT / 网络设备纯批发商（MikroTik / Ubiquiti 官方 reseller / Teltonika / TP-Link；6–8 人做 2025 营收 €6.86M；Extralink 非其品牌）→ **分销 20%，B BIG，加厚一次**；稿内不点名 MikroTik / Ubiquiti（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络设备分销（ISP / 无线）"

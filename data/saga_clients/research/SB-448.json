@@ -47,21 +47,24 @@
    "title": "Product Manager",
    "email": "info@bettinivideo.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Product Manager（研究档）= 收件人（第 107 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Giuseppe Costantini",
    "title": "Purchasing Manager",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Purchasing Manager（研究档）= 抄送（第 107 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Walter Bettini",
    "title": "CEO",
    "email": "walter.bettini@bettinivideo.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Amministratore Delegato / 联合创始人（1996，与兄弟 Massimo）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -73,7 +76,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 bettinivideo.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 bettinivideo.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案；第 107 批：意大利视频监控方案商 / 制造商（自有 GAMS 品牌；2025 营收 €8.94M；42 人；分部 Firenze / Roma / Bologna；表内「用 ONV 的直接带标卖」）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选（回信即 A）**；稿内不点名 ONV / ComNet（第 107 批 官方登记核实 2026-10-28）",
+  "legal_name": "BETTINI S.R.L.（P.IVA / CF 11883080159；REA MI-1506925；注册 Milano，运营 Saronno VA）",
+  "founded": "1996-09-23（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "视频监控方案（自有品牌 GAMS NVR）",

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,6 +74,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 107 批（LT · 1 次检索：rekvizitai.vz.lt（Katalita, UAB；code 134637695；founded 1995；VAT LT346376917；Share capital 8 690 €；Tvenkinio g. 10 Pabiržio k. LT-54477 Kauno r.；Sodra 2026-10-17 6 darbuotojai）+ 官网 Kontaktai（KATALITA UAB；Tvenkinio g. 10 Neveronių k.；kodas 134637695；PVM LT346376917；+370 603 03213；品牌 Mikrotik / Ubiquiti / Ligowave / TP-LINK / Mimosa / Teltonika / Xiaomi / Extralink）+ tax.lt（įregistruota 1995-12-18；2025 pajamos 6,86 mln. €；pelnas 132 tūkst. €；6 darbuotojai；465000 IRT įrangos didmeninė prekyba）+ imoniubaze / kaina24（Vadovas Donatas Zubenas；8 darbuotojai）+ ui.com Distributors（Katalita Resellers Lithuania），2026-10-28 查；https://rekvizitai.vz.lt/en/company/katalita/）：**
+
+- 法定名 / 登记号：Katalita, UAB（katalita.lt；考纳斯区 Neveronys Tvenkinio g. 10；įmonės kodas 134637695；PVM LT346376917）— 1995-12-18 登记的 ICT / 网络设备批发商（EVRK 465000；MikroTik / Ubiquiti（官方 reseller 名录）/ Teltonika / TP-Link / LigoWave / Mimosa / Extralink 分销 —「Extralink 是他们的品牌」存疑，Extralink 属 Batna24，Katalita 只是转售）；股本 €8,690；6–8 人；2025 营收 €6.86M、利润 €132k（人均极高 = 纯批发）；负责人 Donatas Zubenas；CFO Robertas Zubenas（研究档 KP，同姓 → 家族）；群发 4 次 6 次打开 · įmonės kodas 134637695；PVM LT346376917 · 状态 **Veikiantis / Active** · 成立 1995-12-18 · UAB（Zubenas 家族私有；股本 €8,690）
+- 行业码 / 经营范围：ICT / 网络设备批发（EVRK 46.50；MikroTik / Ubiquiti / Teltonika 渠道；面向立陶宛 + 出口）
+- 注册地址：Tvenkinio g. 10, Neveronių k., LT-54478 Kauno r. sav.
+- 规模档：小微（6–8 人；人均营收 ≈€1M）
+- 账目：2025 营收 €6.86M；利润 €132k；—
+- 高管：Donatas Zubenas — Vadovas（负责人）= 拍板人
+- 高管：Robertas Zubenas — CFO（研究档 KP，robertas@katalita.lt）= 收件人
+- 控制人 / 股东：Zubenas 家族（推定）
+- **这意味着什么：**
+  - **MikroTik / Ubiquiti 渠道的纯批发商（6 人做 €6.9M）→ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W 一页纸 + 与其在售 TP-Link / MikroTik 价位 1:1；**不接 Extralink 话题**（非其品牌）；稿内不点名 MikroTik / Ubiquiti
+  - 收件人 robertas@ 直呼 Robertas，抄 Donatas Zubenas；6 次打开无回复 → 二次触达换切口「a PoE line at wholesale margin beside your MikroTik shelf」；发信窗口 Thu 12–14 EET
+- 备注：分销 20%；B BIG；加厚一次；坐实（įmonės kodas + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,16 +125,18 @@ updated: 2026-10-27
 - **【用户表】extralink 是他们的品牌（待核）；有点像洪瑞的**
   > 兴趣：extralink是他们的品牌 有点像洪瑞的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Robertas Zubenas（）robertas@katalita.lt +370 603 03213〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Robertas Zubenas（CFO（用户表；与负责人同姓 → 家族）= 收件人（第 107 批 官方登记核实 2026-10-28））robertas@katalita.lt +370 603 03213〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Donatas Zubenas（Vadovas / 负责人（rekvizitai / imoniubaze）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28）） 〔https://rekvizitai.vz.lt/en/company/katalita/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Katalita UAB |
+| 法定名称 | Katalita, UAB（įmonės kodas 134637695；PVM LT346376917；Kauno r. Neveronys） |
+| 成立 | 1995-12-18（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Lithuania |
-| 其他 | OEM 词频 117 → 自有标产品 |
+| 其他 | OEM 词频 117 → 自有标产品；第 107 批：ICT / 网络设备纯批发商（MikroTik / Ubiquiti 官方 reseller / Teltonika / TP-Link；6–8 人做 2025 营收 €6.86M；Extralink 非其品牌）→ **分销 20%，B BIG，加厚一次**；稿内不点名 MikroTik / Ubiquiti（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备分销（ISP / 无线）
 - **触达通道（公开）**：role: 分销商（自有标）；region: 立陶宛（小国名单）
@@ -207,7 +224,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Robertas Zubenas | — | robertas@katalita.lt / +370 603 03213 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Robertas Zubenas | CFO（用户表；与负责人同姓 → 家族）= 收件人（第 107 批 官方登记核实 2026-10-28） | robertas@katalita.lt / +370 603 03213 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Donatas Zubenas | Vadovas / 负责人（rekvizitai / imoniubaze）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rekvizitai.vz.lt/en/company/katalita/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -300,12 +318,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 51）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 51）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

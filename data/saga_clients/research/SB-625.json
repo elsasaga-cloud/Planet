@@ -47,7 +47,8 @@
    "title": "Owner",
    "email": "augusto@virtware.pt",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Owner / sócio-gerente（用户表 + LinkedIn）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -59,7 +60,9 @@
  },
  "company_facts": {
   "hq": "葡萄牙",
-  "other": "官网 virtware.pt，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 virtware.pt，语言 ?，快照状态 ok；角色判定来源：官网文案；第 107 批：波尔图网络 / 布线增值分销商（Cat.6a 布线、TP-Link L2、兼容光模块、机柜、VoIP；股本 €5,000；2–10 人）→ **分销 20% small，一页纸一次（对照 TL-SG5428 类价位）；有回声再加厚**；表内从未跟进 → 首封不伪造 Re:（第 107 批 官方登记核实 2026-10-28）",
+  "legal_name": "VIRTWARE – Soluções Integradas de Telecomunicações, Lda.（NIPC 506612813；Vila Nova de Gaia）",
+  "founded": "2003-05-19（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电信 / 布线 / 网络产品分销"

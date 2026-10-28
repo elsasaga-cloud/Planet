@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 107 批（ES · 1 次检索：orbitadigital.com Legal warning（CONEXIÓN B2B 2005 S.L. con CIF B74173303 … owner of www.orbitadigital.com；info@orbitadigital.com）+ Company（Founded in Oviedo in 2004 under Conexión B2B 2005, S.L.；2009 online store Órbita Digital；over 184 countries；VAT ESB74173303；Dr. Francisco Grande Covián 3 33011 Oviedo）+ Confianza Online（Razón social CONEXION B2B 2005, S.L.；CIF ESB74173303；985 288 282）+ Location（Madrid +34 910 052 331；WhatsApp 644 40 90 03），2026-10-28 查；https://www.orbitadigital.com/en/content/4-company）：**
+
+- 法定名 / 登记号：Órbita Digital = CONEXIÓN B2B 2005, S.L.（orbitadigital.com；奥维耶多 Dr. Francisco Grande Covián 3, Bajo, 33011 Oviedo（阿斯图里亚斯）；CIF B74173303）— 2004 年成立（公司）、2009 年起网店的电信 / 网络 / 光纤 / 多媒体 / 安防 分销与进口商（Triax / Televes / Ikusi / Kathrein / Hikvision / Dahua / Ubiquiti / ZKTeco；自称发货 184 国；马德里 / 巴塞罗那电话）；表内「安防为主，之前有 UTEPO 的交换机」；群发 5 次打开 · CIF B74173303 · 状态 **Active** · 成立 2004（网店 2009） · S.L.（私有；Grupo Conexión）
+- 行业码 / 经营范围：电信 / 网络 / 光纤 / 多媒体 / 安防 产品分销 + 跨境网店
+- 注册地址：Dr. Francisco Grande Covián 3, Bajo, 33011 Oviedo（Asturias）
+- 规模档：小型（推定 10–20 人）
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@orbitadigital.com（点名 compras / responsable de networking）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **跨境网店型分销商（曾上架 Utepo 类交换机）→ 分销 20%，B，加厚一次（small）**：STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W 一页纸 + 1:1 对照其在售同类；MOQ 1 + 15 天有效价对网店友好
+  - 收件人 info@ 点名 compras；5 次打开无回复 → 二次触达换切口「a PoE switch line you can list this month」；发信窗口 Thu 12–14 CET；西语一句引子；稿内不点名 Utepo / Hikvision
+- 备注：分销 20%；B；加厚一次（small）；坐实（CIF）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - 50 € ← 「(AFM) for secure fiber networks EPSRing for… Allied telesis AT-GS980MX/28-50 L3 Stackable Switch, 24x 10/100/1000-T, 4x SFP+ Ports Brand: Allied teles」（https://www.orbitadigital.com/en/cctv-accessories/ip-solutions/86468-at-gs980mx-28-50.html）
@@ -115,9 +129,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Órbita Digital（待核） |
+| 法定名称 | CONEXIÓN B2B 2005, S.L.（Órbita Digital；CIF B74173303；Oviedo） |
+| 成立 | 2004（网店 2009）（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Spain |
-| 其他 | 曾售 UTEPO；OEM 词频 12 |
+| 其他 | 曾售 UTEPO；OEM 词频 12；第 107 批：阿斯图里亚斯电信 / 网络 / 安防分销 + 跨境网店（Triax / Televes / Ikusi / Hikvision / Ubiquiti；曾上架 Utepo 类交换机；自称发货 184 国）→ **分销 20%，B，加厚一次（small）；MOQ 1 + 15 天有效价对网店友好**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信 / 网络 / 安防分销进口
 - **触达通道（公开）**：role: 分销 / 进口商；region: 西班牙

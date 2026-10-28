@@ -84,6 +84,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（IT · 1 次检索：ufficiocamerale（EL.MO. S.P.A.；P.IVA 00605640283；VIA PONTAROLA 70 35011 CAMPODARSEGO (PD)；Rea 126325；Data Iscrizione 01/01/1976；Fatturato € 30.569.956 2025；Dipendenti 79 2026；Utile € 1.491.081；Capitale € 3.000.000；ATECO 261）+ abbrevia（REA PD126325 registrazione 06/02/1976；S.p.A.）+ aziende.it（2024 € 30.66M；2022 € 24.18M）+ elmospa.com 页脚（Capitale Sociale € 3.000.000 i.v.；Registro Imprese di Padova 00605640283；+39 049 9203333）+ 隐私页（S.P.A. a socio unico），2026-10-28 查；https://www.ufficiocamerale.it/2756/elmo-spa）：**
+
+- 法定名 / 登记号：EL.MO. S.p.A.（a socio unico；elmospa.com；帕多瓦 Campodarsego Via Pontarola 70, 35011；P.IVA / CF 00605640283；REA PD-126325）— 1976 年登记（REA 1976-02-06）的意大利专业安防系统制造商（入侵报警 EN 50131、门禁、CCTV、无线；经销商 / 安装商网络）；股本 €3,000,000；2025 营收 €30.57M、净利 €1.49M；79 人；表内「CCTV 帧田交换机」「可以尝试多跟进一下」；研究档 KP Agostino Avolio（Technical / Commercial Agent）、Mauro Felice；群发 5 次打开 · P.IVA / CF 00605640283；REA PD-126325 · 状态 **Active** · 成立 1976 · S.p.A. a socio unico（股本 €3,000,000）
+- 行业码 / 经营范围：专业安防系统制造（入侵 / 门禁 / CCTV / 无线；ATECO 26.1）— 经销商 / 安装商渠道
+- 注册地址：Via Pontarola 70, 35011 Campodarsego (PD)
+- 规模档：中型（79 人）
+- 账目：2025 营收 €30,569,956；净利 €1,491,081；—
+- 高管：（未具名）— 拍板层：Direzione Acquisti / Product Management（S.p.A. a socio unico，单一股东）
+- 高管：Agostino Avolio — Technical / Commercial Agent（研究档 KP，agostino.avolio@）= 收件人（代理，非采购）
+- 高管：Mauro Felice — 研究档 KP
+- 控制人 / 股东：单一股东（未取）
+- **这意味着什么：**
+  - **€30M / 79 人的安防制造商，CCTV 线已配中国交换机 → 贴标 OEM 30% 目标（EL.MO. 标 PoE 交换机进其 CCTV 目录），B BIG，加厚一次；升 A 候选（回信即 A）**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-154GP 一页纸 + 1:1 对照其目录在售机型
+  - 研究档 KP Avolio 是技术 / 商务代理，非采购 → 投 Avolio 的同时抄 info@ 点名 Ufficio Acquisti / Product Manager CCTV；5 次打开无回复 → 二次触达换切口「a second OEM source for the switches in your CCTV catalogue」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：贴标 30% 目标；B BIG；加厚一次；升 A 候选；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,7 +142,7 @@ updated: 2026-10-28
 - **【用户表】CCTV 帧田交换机**
   > CCTV 帧田交换机；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Agostino Avolio（）agostino.avolio@elmospa.com 〔用户表〕
+- **KP**：Agostino Avolio（Technical / Commercial Agent（研究档）= 收件人（代理，非采购 → 抄 info@ 点名 Ufficio Acquisti）（第 107 批 官方登记核实 2026-10-28））agostino.avolio@elmospa.com 〔用户表〕
 - **KP**：Mauro Felice（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -134,8 +150,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | EL.MO. S.p.A. a socio unico（P.IVA / CF 00605640283；REA PD-126325；Campodarsego PD） |
+| 成立 | 1976（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 elmospa.com，语言 en-gb，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 elmospa.com，语言 en-gb，快照状态 ok；角色判定来源：用户表；第 107 批：帕多瓦专业安防系统制造商（入侵 EN 50131 / 门禁 / CCTV / 无线；经销商 / 安装商渠道；股本 €3M；2025 营收 €30.57M、净利 €1.49M；79 人；表内「CCTV 帧田交换机」）→ **贴标 OEM 30% 目标（EL.MO. 标 PoE 交换机进其 CCTV 目录），B BIG，加厚一次；升 A 候选（回信即 A）**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：专业安防系统制造（入侵 / 门禁 / CCTV / 无线）
 - **触达通道（公开）**：role: 意大利安防系统制造商（CCTV 配套 PoE 可贴标，OEM 采购）；region: 意大利；contact: info@elmospa.com、agostino.avolio@elmospa.com
@@ -231,7 +249,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Agostino Avolio | — | agostino.avolio@elmospa.com | 调研核实（公开页） | 用户表 |
+| Agostino Avolio | Technical / Commercial Agent（研究档）= 收件人（代理，非采购 → 抄 info@ 点名 Ufficio Acquisti）（第 107 批 官方登记核实 2026-10-28） | agostino.avolio@elmospa.com | 调研核实（公开页） | 用户表 |
 | Mauro Felice | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发

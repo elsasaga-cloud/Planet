@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（PT · 1 次检索：Iberinform（VIRTWARE - SOLUÇÕES INTEGRADAS DE TELECOMUNICAÇÕES, LDA.；NIF/NIPC 506612813；Soc. Por Quotas；Rua Canastreiros Nr. 394 4400-404 Vila Nova de Gaia；CAE 46900；Data de constituição 2003/05/19；Conservatória do Porto）+ racius（Capital Social € 5.000,00）+ virtware.pt 首页（Switches TP-Link Layer 2；MiniGBIC compatíveis；Bastidores；VoIP；MTP/MPO）+ LinkedIn（Value-added distributor；2–10 employees；Canidelo VNG）+ 3ptest（+351 22781 0460；info@virtware.pt），2026-10-28 查；https://www.iberinform.pt/empresa/24049432/virtware-solucoes-integradas-de-telecomunicacoes-lda）：**
+
+- 法定名 / 登记号：VIRTWARE – Soluções Integradas de Telecomunicações, Lda.（virtware.pt；波尔图 Vila Nova de Gaia Canidelo Rua dos Canastreiros 394, 4400-404；NIPC 506612813）— 2003-05-19 成立的网络 / 布线增值分销商（结构化布线 Cat.6a、TP-Link L2 交换机、兼容光模块、机柜、VoIP、WLAN、光纤 MTP/MPO、ATEN KVM、UPS）；股本 €5,000；CAE 46900；2–10 人；Owner Augusto Oliveira（研究档 KP）；表内无跟进记录；群发 5 次打开 · NIPC 506612813 · 状态 **Active** · 成立 2003-05-19 · Lda.（Sociedade por Quotas；股本 €5,000）
+- 行业码 / 经营范围：网络 / 结构化布线 / 光纤 增值分销（CAE 46900）
+- 注册地址：Rua dos Canastreiros 394, Canidelo, 4400-404 Vila Nova de Gaia（Porto）
+- 规模档：小微（2–10 人）
+- 账目：—；—
+- 高管：Augusto Oliveira — Owner / sócio-gerente（研究档 KP，augusto@virtware.pt）= 拍板人 / 收件人
+- 控制人 / 股东：Augusto Oliveira
+- **这意味着什么：**
+  - **卖 TP-Link L2 + 布线的小型增值分销商（老板直达）→ 分销 20% small，一页纸一次（STC-2224GP / STC-424XGGPM-280W / STC-110XGE 对照 TL-SG5428 类价位）；有回声再加厚**；稿内不点名 TP-Link
+  - 收件人 augusto@ 直呼 Augusto；表内从未跟进 → 首封按一次触达写（不伪造 Re:）；发信窗口 Thu 12–14 WET；葡语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（NIPC）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,15 +132,17 @@ updated: 2026-10-28
 - **【用户表】很多知名小品牌的**
   > 很多知名小品牌的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Augusto Oliveira（）augusto@virtware.pt 〔用户表〕
+- **KP**：Augusto Oliveira（Owner / sócio-gerente（用户表 + LinkedIn）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28））augusto@virtware.pt 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | VIRTWARE – Soluções Integradas de Telecomunicações, Lda.（NIPC 506612813；Vila Nova de Gaia） |
+| 成立 | 2003-05-19（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 葡萄牙 |
-| 其他 | 官网 virtware.pt，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 virtware.pt，语言 ?，快照状态 ok；角色判定来源：官网文案；第 107 批：波尔图网络 / 布线增值分销商（Cat.6a 布线、TP-Link L2、兼容光模块、机柜、VoIP；股本 €5,000；2–10 人）→ **分销 20% small，一页纸一次（对照 TL-SG5428 类价位）；有回声再加厚**；表内从未跟进 → 首封不伪造 Re:（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信 / 布线 / 网络产品分销
 
@@ -204,7 +220,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Augusto Oliveira | — | augusto@virtware.pt | 调研核实（公开页） | 用户表 |
+| Augusto Oliveira | Owner / sócio-gerente（用户表 + LinkedIn）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28） | augusto@virtware.pt | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

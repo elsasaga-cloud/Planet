@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,6 +87,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 107 批（IT · 1 次检索：innowatt.it 页脚（© 2026, Innowatt GRUPPO COSOLA S.R.L - P.IVA: 01218230777；shop@innowatt.it；linkedin gruppo-cosola-impianti-tecnologici）+ About（Innowatt is an Italian brand of electrical, technological and safety equipment）+ Collections（Networking 295 / Videosorveglianza 772 / Videoregistratori 126；INNOWATT 标配件）；atoka 的 Innowatt Srl Semplificata 05403310757（Sannicola LE，电力分销）= 同名异主，不取，2026-10-28 查；https://www.innowatt.it/en/pages/about）：**
+
+- 法定名 / 登记号：Innowatt = GRUPPO COSOLA S.R.L. 的自有品牌网店（innowatt.it；P.IVA 01218230777（站脚；马泰拉段位）；LinkedIn「Gruppo Cosola Impianti Tecnologici」= 技术安装集团）— 电气 / 技术 / 安防材料电商（视频监控 772 件、网络 295 件；Hikvision / Uniview / Ruijie / Safire / X-Security 系配件贴 INNOWATT 标）；REA / 注册地未取 → 部分坐实；表内「工业 FS，中科德能的」「可以尝试多跟进一下」；群发 12 次无回复 6 次打开 · P.IVA 01218230777（GRUPPO COSOLA S.R.L.；REA 未取） · 状态 **Active（站点 2026）** · 成立 未取 · S.r.l.（安装集团 + 自有品牌电商）
+- 行业码 / 经营范围：电气 / 安防 / 网络材料电商（自有 Innowatt 标）+ 技术系统安装（Gruppo Cosola）
+- 注册地址：未取（P.IVA 段位 = 马泰拉省，巴西利卡塔）
+- 规模档：小型（推定）
+- 账目：—；—
+- 高管：（未具名）— 收件人 commerciale@ / shop@innowatt.it（点名 ufficio acquisti）
+- 控制人 / 股东：Cosola 家族（推定）
+- **这意味着什么：**
+  - **自有标配件电商 + 安装集团 → 贴标 OEM 30% 可谈（Innowatt 标 PoE 交换机，小批量）+ 分销 20%，B，加厚一次（small）**：STC-028GP / STC-228GP / STC-2224GP + STI-154GP 一页纸；稿内不点名 Hikvision / Ruijie
+  - 12 次群发无回复但 6 次打开 → 二次触达必须换切口「your own label on the PoE switch, not ours」；收件人 commerciale@ 点名 ufficio acquisti；发信窗口 Thu 12–14 CET；意语一句引子；注册地 / REA 待补证
+- 备注：贴标 30% 可谈 + 分销 20%；B；加厚一次（small）；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,8 +150,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | GRUPPO COSOLA S.R.L.（Innowatt 为其自有品牌网店；P.IVA 01218230777 站脚；REA 未取 → 部分坐实） |
+| 成立 | 未取（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 innowatt.it，语言 it，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 innowatt.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 107 批：电气 / 安防 / 网络材料电商（视频监控 772 件、网络 295 件；配件贴 INNOWATT 标）+ 技术安装集团 → **贴标 OEM 30% 可谈（小批量）+ 分销 20%，B，加厚一次（small）**；12 次群发无回复 → 二次触达必须换切口（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气 / 技术 / 安防材料网店（自有品牌 Innowatt）
 - **触达通道（公开）**：role: 电气/安防材料自有品牌网店（意大利，OEM 采购）；region: 意大利；contact: commerciale@innowatt.it
@@ -333,12 +349,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

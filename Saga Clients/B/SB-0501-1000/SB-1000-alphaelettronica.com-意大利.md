@@ -86,6 +86,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（IT · 1 次检索：官网页脚（Alpha Elettronica S.r.l.；Strada Antolini 2/A 43044 Collecchio (PR)；P.IVA/CF IT01511860346；R.E.A. PR-159233；Reg.Impr PR-15711）+ 条款页（Registro Imprese di Parma REA 159233；P.IVA 01511860346）+ visurissima（ATECO 279009 其他电气设备制造；Capitale € 46.500 i.v.；SDI KRRH6B9）+ Storia（1975 创始人 Mauro Salsi；2015 新总部）+ LinkedIn（11–50；1975）+ Contatti（commerciale@ / ordini@ / info@；0521 804427），2026-10-28 查；https://www.alphaelettronica.com/en/）：**
+
+- 法定名 / 登记号：Alpha Elettronica S.r.l.（alphaelettronica.com；帕尔马 Collecchio Strada Antolini 2/A；P.IVA 01511860346；REA PR-159233）— 1975 年由 Mauro Salsi 创立的电源 / 变压器设计制造商 + 电子电气配件分销商（自有 Alpha Elettronica 品牌；品类含 networking / switch、工业适配器、安防网络交换机；2015 新总部）；股本 €46,500；11–50 人（≈21）；表内「商业 PoE 为主，质量一般」；无跟进；群发 8 次打开 · P.IVA / CF 01511860346；REA PR-159233 · 状态 **Active** · 成立 1975 · S.r.l.（家族私有；股本 €46,500）
+- 行业码 / 经营范围：电源 / 变压器制造（ATECO 27.90）+ 电子电气配件分销（自有品牌；含网络 / PoE 交换机品类）
+- 注册地址：Strada Antolini 2/A, 43044 Collecchio (PR)
+- 规模档：小型（≈21 人）
+- 账目：—；—
+- 高管：Mauro Salsi — 创始人（1975）= 拍板层
+- 高管：（未具名）— 收件人 commerciale@alphaelettronica.com（点名 ufficio acquisti）
+- 控制人 / 股东：Salsi 家族（推定）
+- **这意味着什么：**
+  - **自有品牌电源厂 + 配件分销（已卖商用 PoE）→ 贴标 OEM 30% 可谈（Alpha 标 PoE 交换机，与其电源线同渠道）+ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP + 工业 STI 线一页纸
+  - 收件人 commerciale@ 点名 ufficio acquisti；8 次打开无回复 → 二次触达换切口「PoE switch under your own label, same channel as your adapters」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；坐实（P.IVA + REA）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,14 +133,17 @@ updated: 2026-10-28
 - **【用户表】商业 PoE 为主**
   > 商业POE为主；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mauro Salsi（创始人（1975；官网 Storia）= 拍板层（收件人 commerciale@ 点名 ufficio acquisti）（第 107 批 官方登记核实 2026-10-28））commerciale@alphaelettronica.com 〔https://test.alphaelettronica.com/storia〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Alpha Elettronica S.r.l.（P.IVA / CF 01511860346；REA PR-159233；Collecchio PR） |
+| 成立 | 1975（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 alphaelettronica.com，语言 it，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 alphaelettronica.com，语言 it，快照状态 ok；角色判定来源：官网文案；第 107 批：帕尔马电源 / 变压器制造商 + 自有品牌电子电气配件分销（品类含网络 / PoE 交换机；股本 €46,500；≈21 人；2015 新总部）→ **贴标 OEM 30% 可谈（Alpha 标 PoE 交换机走其电源同渠道）+ 分销 20%，B BIG，加厚一次**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电子产品与配件分销（多媒体 / 电气 / 安防 / 智能家居）
 - **触达通道（公开）**：role: 电子产品与配件分销商（意大利）；region: 意大利；contact: info@alphaelettronica.com
@@ -193,7 +211,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@alphaelettronica.com | 用户表原值 | Clients/ 表 |
+| Mauro Salsi | 创始人（1975；官网 Storia）= 拍板层（收件人 commerciale@ 点名 ufficio acquisti）（第 107 批 官方登记核实 2026-10-28） | commerciale@alphaelettronica.com | 调研核实（公开页） | https://test.alphaelettronica.com/storia |
 
 - **通道建议**：企业邮箱可直发
 
@@ -260,7 +278,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Mauro,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the PoE switch pages in your networking and security categories, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models plus a budget unmanaged line, neutral packing from small lots, CE/RoHS — which band do your resellers buy most, unmanaged or managed PoE?
 

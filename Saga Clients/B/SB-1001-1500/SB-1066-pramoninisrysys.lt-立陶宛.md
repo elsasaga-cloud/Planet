@@ -85,6 +85,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（LT · 1 次检索：rekvizitai.vz.lt（Elseta, UAB；code 300564737；founded 2006-05-02；VAT LT100003358919；Share capital 173 760 €；Manager Matas Doviltis；L. Zamenhofo g. 5 LT-06332 Vilnius；4 shareholders；2018-03-16 更名自 UAB PRAMONINIS RYŠYS；2013-01-18 由 UAB ELSETA 改为 PRAMONINIS RYŠYS）+ info.lt（22 darbuotojai；www.pramoninisrysys.lt）+ elseta.com Contacts（Company Code 300564737）+ 公司自述（First established as Aedilis R&D department in 2011, separate company 2017；RTU for secondary substations），2026-10-28 查；https://rekvizitai.vz.lt/en/company/elseta/）：**
+
+- 法定名 / 登记号：UAB „Elseta“（原 UAB „PRAMONINIS RYŠYS“ 2013–2018；elseta.com；pramoninisrysys.lt 为其工业通信网店；维尔纽斯 L. Zamenhofo g. 5；įmonės kodas 300564737；PVM LT100003358919）— 2006-05-02 登记、Aedilis 研发部拆分而来的工业 / 变电站自动化制造商（Mini RTU、数据集中器、WCCLite、The-Vinci 云；面向配电网 / 新能源 / 产线）；股本 €173,760；≈22 人；负责人 Matas Doviltis；表内「Beijer 工业 FS，质量一般」；群发 8 次打开 · įmonės kodas 300564737；PVM LT100003358919 · 状态 **Active** · 成立 2006-05-02 · UAB（4 名股东；股本 €173,760）
+- 行业码 / 经营范围：工业 / 变电站自动化设备制造（RTU、数据集中器）+ 工业通信设备网店（pramoninisrysys.lt）
+- 注册地址：Liudviko Zamenhofo g. 5, LT-06332 Vilnius
+- 规模档：小型（≈22 人）
+- 账目：—；—
+- 高管：Matas Doviltis — 负责人（vadovas）= 拍板人
+- 高管：（未具名）— 收件人 info@elseta.com / 网店邮箱（点名 pirkimai / 采购）
+- 控制人 / 股东：4 名股东（未取）
+- 曾用名：UAB „PRAMONINIS RYŠYS“（2013–2018）；UAB „ELSETA“（2006–2013）
+- **这意味着什么：**
+  - **自产 RTU 的工业自动化厂 + 工业通信网店 → 采购型 25%（RTU 柜内 / 变电站二次侧配工业交换机）+ 网店分销 20%，B，加厚一次（small）**：STI-054GP / STI-144GP / STI-288DGGPM / STI-0240GE 一页纸；**守界：不提 IEC 61850 认证，只讲宽温 / 导轨 / 冗余供电**
+  - 收件人 info@ 点名 Matas Doviltis；8 次打开无回复 → 二次触达换切口「DIN-rail switches sized for RTU cabinets」；发信窗口 Thu 12–14 EET
+- 备注：采购型 25% + 分销 20%；B；加厚一次（small）；坐实（įmonės kodas）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,14 +134,17 @@ updated: 2026-10-28
 - **【用户表】Beijer 工业 FS**
   > Beijer sbjlink的工业FS；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Matas Doviltis（Vadovas / 负责人（rekvizitai.lt）= 拍板人（收件人 info@ 点名）（第 107 批 官方登记核实 2026-10-28）） 〔https://rekvizitai.vz.lt/en/company/elseta/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | UAB „Elseta“（原 UAB „PRAMONINIS RYŠYS“ 2013–2018；įmonės kodas 300564737；PVM LT100003358919；Vilnius） |
+| 成立 | 2006-05-02（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 pramoninisrysys.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 pramoninisrysys.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 107 批：维尔纽斯工业 / 变电站自动化制造商（Mini RTU、数据集中器；Aedilis 研发部拆分；股本 €173,760；≈22 人）+ 工业通信网店 pramoninisrysys.lt → **采购型 25%（RTU 柜配工业交换机）+ 网店分销 20%，B，加厚一次（small）；守界不提 IEC 61850**；国别 立陶宛（已 country_fix）（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：智能电网 RTU / 转换器 / I/O（自有品牌 Elseta）
 - **触达通道（公开）**：role: 智能电网 RTU 制造商兼网店（立陶宛，工业 FS 为配套；仅民用口径）；region: 立陶宛；contact: info@pramoninisrysys.lt
@@ -195,7 +214,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@pramoninisrysys.lt | 用户表原值 | Clients/ 表 |
+| Matas Doviltis | Vadovas / 负责人（rekvizitai.lt）= 拍板人（收件人 info@ 点名）（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rekvizitai.vz.lt/en/company/elseta/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -263,7 +282,7 @@ updated: 2026-10-28
 **主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Matas,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?
 

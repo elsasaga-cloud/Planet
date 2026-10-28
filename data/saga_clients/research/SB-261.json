@@ -43,7 +43,8 @@
    "title": "（职务待核）",
    "email": "fojt@rectec.cz",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Jednatel（2023 起；KS Brno C 132302）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +56,9 @@
  },
  "company_facts": {
   "hq": "捷克",
-  "other": "官网 rectec.cz，语言 cs-CZ，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 rectec.cz，语言 cs-CZ，快照状态 ok；角色判定来源：官网文案；第 107 批：回收生产线 / 工业自动化供应商（注册资本 200,000 Kč；2023 阿里巴巴 RFQ 为光模块，Saga 不做）→ **项目 25% small，一页纸一次（STI 导轨机进产线柜）；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28）",
+  "legal_name": "RecTec servis, s.r.o.（IČO 17957036；DIČ CZ17957036；Židlochovice；100% CVFT s.r.o.）",
+  "founded": "2023-01-23（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "回收生产线 / 工业自动化（捷克）"

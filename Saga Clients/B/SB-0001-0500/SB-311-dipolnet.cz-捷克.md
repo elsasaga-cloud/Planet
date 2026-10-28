@@ -86,6 +86,20 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（CZ · 1 次检索：dipolnet.cz 首页 / Firma DIPOL（Centrála Skopalova 2991/22 750 02 Přerov；dipolnet@t-cz.com；+420 734 310 460；Společnost DIPOL založena 1990 … evropský distributor CCTV, WLAN, TV-SAT a výrobce antén）+ dipolnet.cz „DIPOL- TOMI CZECH s.r.o.“ 页（Fakturační adresa a sídlo TOMI CZECH, s.r.o. Skopalova 2991/22 Přerov；IČ 26830370；DIČ CZ26830370）+ firmy.cz / info-praha（IČO 26830370；门店 Praha-Modřany；Brno；Lipník）+ dipolnet.cz Aktuality 2026-06-10（DIPOL sp. z o.o.，ul. Ciepłownicza 40 31-574 Kraków，原 DIPOL Gołaszewski Waśniowski Sp. j.），2026-10-28 查；https://www.dipolnet.cz/dipol-_tomi_czech_s_r_o_m120.htm）：**
+
+- 法定名 / 登记号：DIPOL 捷克站 = TOMI CZECH, s.r.o.（dipolnet.cz；dipolnet@t-cz.com；总部 Skopalova 2991/22, 750 02 Přerov；IČO 26830370；DIČ CZ26830370；门店 Praha-Modřany / Brno-Černovice / Lipník nad Bečvou）— 波兰 DIPOL（Kraków；2026-06-10 由 Sp. j. 改制为 DIPOL sp. z o.o.，1990 起的 CCTV / WLAN / TV-SAT 欧洲分销商 + 天线制造商）在捷克的销售公司（2000+ SKU；Hikvision / Dahua / TP-Link / Ultimode）；表内「switch 展示页很多；可多跟进」；与 SB-1023 DIPOL 葡萄牙同集团 → **采购在 Kraków 总部**；群发 8 次无回复 5 次打开 · IČO 26830370；DIČ CZ26830370 · 状态 **Active** · 成立 未取（捷克站运营 20+ 年） · s.r.o.（波兰 DIPOL 集团捷克销售公司）
+- 行业码 / 经营范围：CCTV / WLAN / TV-SAT / 线缆 批发 + 零售（DIPOL 目录；3 门店）
+- 注册地址：Skopalova 2991/22, 750 02 Přerov（门店 Praha / Brno / Lipník nad Bečvou）
+- 规模档：小型（集团子公司）
+- 账目：—；—
+- 高管：（未具名）— 收件人 dipolnet@t-cz.com；**真正的选品 / 采购在 Kraków 总部（orders@dipolnet.com）**
+- 控制人 / 股东：DIPOL sp. z o.o.（Kraków）
+- **这意味着什么：**
+  - **集团目录制分销的捷克销售站 → 分销 20%，但选品权在波兰总部：一页纸一次（STC-028GP / STC-228GP / STC-2224GP 对照其在售 TP-Link 价位）并请转给 Kraków 采购；与 SB-1023 并线记一笔；无回声 → 不动**
+  - 8 次无回复 5 次打开 → 二次触达换切口「one PoE line for all DIPOL country sites」；发信窗口 Thu 12–14 CET；捷克语一句引子
+- 备注：分销 20%（选品在波兰总部）；一页纸一次 → 不动；与 SB-1023 同集团；坐实（IČO）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,9 +133,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | DIPOL（捷克分支） |
+| 法定名称 | TOMI CZECH, s.r.o.（DIPOL 捷克站；IČO 26830370；DIČ CZ26830370；Přerov） |
+| 成立 | 未取（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Czech Republic |
-| 其他 | 同集团 SB-1023（葡萄牙）；总部波兰 |
+| 其他 | 同集团 SB-1023（葡萄牙）；总部波兰；第 107 批：波兰 DIPOL（Kraków；2026-06-10 改制 DIPOL sp. z o.o.）集团的捷克销售公司（3 门店；Hikvision / Dahua / TP-Link 目录）→ **分销 20% 但选品在 Kraków 总部：一页纸一次并请转 orders@dipolnet.com；与 SB-1023 DIPOL 葡萄牙并线记一笔；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 网络 / 天线批发
 - **触达通道（公开）**：role: 批发分支；region: 捷克

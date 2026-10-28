@@ -77,6 +77,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（IT · 1 次检索：ufficiocamerale（GSG INTERNATIONAL S.R.L.；Rea 1537545；Data Iscrizione 12/06/1997；Fatturato € 2.374.984 2024；Dipendenti 7 2026；Utile € 308；ATECO 46502）+ fatturatoitalia（P.IVA 12178170150；REA MI 1537545；Piazza San Lorenzo 48 Trezzano sul Naviglio）+ gsginternational.com 页脚（P.IVA 12178170150；Cap. Sociale € 53.700,00；REA 1537545）+ Team（Antonmarco Catania Chairman，1997 创 GSG、2017 创 Euklis srl；Ludovico Paveri Fontana）+ 2017 新闻稿（Paveri Fontana 任 AD）+ Nedap 合作稿（CEO），2026-10-28 查；https://www.ufficiocamerale.it/1127/gsg-international-srl）：**
+
+- 法定名 / 登记号：GSG INTERNATIONAL S.R.L.（gsginternational.com；米兰 Trezzano sul Naviglio Piazza San Lorenzo 48（运营 Via C. Colombo 23）；P.IVA 12178170150；REA MI-1537545）— 1997-06-12 登记的安防市场增值分销商（视频监控 / 门禁 / 网络；品牌 barox / ComNet / Lantech / Nedap；姊妹制造商 Euklis srl（2017，创始人同为 Antonmarco Catania）的 NVR / 人脸识别；Nettosecurity 奥特莱斯）；股本 €53,700；2024 营收 €2.37M、净利 €308（极薄）；7 人；Chairman Antonmarco Catania（1997 创始）、CEO Ludovico Paveri Fontana（2017 起，前 CTO；研究档 KP）；群发 5 次打开 · P.IVA / CF 12178170150；REA MI-1537545 · 状态 **Active** · 成立 1997-06-12 · S.r.l.（私有；股本 €53,700）
+- 行业码 / 经营范围：安防市场增值分销（视频监控 / 门禁 / 网络；ATECO 46.52）+ 控制室服务
+- 注册地址：Piazza San Lorenzo 48, 20090 Trezzano sul Naviglio (MI)
+- 规模档：小型（7 人）
+- 账目：2024 营收 €2,374,984；净利 €308；—
+- 高管：Ludovico Paveri Fontana — Amministratore Delegato / CEO（2017 起；研究档 KP，ludovico.paveri@）= 拍板人 / 收件人
+- 高管：Antonmarco Catania — Chairman / 创始人（兼 Euklis srl）
+- 控制人 / 股东：Catania（推定）
+- **这意味着什么：**
+  - **卖 barox / ComNet / Lantech 的增值分销商（CEO 直达）→ 分销 20%，B，加厚一次（small）；姊妹厂 Euklis 的贴标 30% 一句带过**：STC-2224GP / STC-4424GCPM / STI-288DGGPM / STI-488DGGPM 一页纸 + 1:1 对照其在售工业机型；净利极薄 → 强调毛利空间
+  - 收件人 ludovico.paveri@ 直呼 Ludovico；5 次打开无回复 → 二次触达换切口「a margin line beside your premium switch brands」；发信窗口 Thu 12–14 CET；稿内不点名 barox / ComNet / Lantech
+- 备注：分销 20%；B；加厚一次（small）；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,15 +135,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS 很多牌子；KBC barox 经销**
   > 几个知名牌子的工业FS / 工业FS　VC   很多牌子 经销商 KBC Barox等；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ludovico Fontana（）ludovico.paveri@gsginternational.com 〔用户表〕
+- **KP**：Ludovico Paveri Fontana（Amministratore Delegato / CEO（2017 起，前 CTO）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28））ludovico.paveri@gsginternational.com 〔用户表〕
+- **KP**：Antonmarco Catania（Chairman / 创始人（1997；兼 Euklis srl 2017）（第 107 批 官方登记核实 2026-10-28）） 〔https://www.gsginternational.com/it/team.html〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | GSG INTERNATIONAL S.R.L.（P.IVA / CF 12178170150；REA MI-1537545；Trezzano sul Naviglio MI） |
+| 成立 | 1997-06-12（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 gsginternational.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 gsginternational.com，语言 en，快照状态 ok；角色判定来源：用户表；第 107 批：米兰安防增值分销商（barox / ComNet / Lantech / Nedap；姊妹制造商 Euklis；股本 €53,700；2024 营收 €2.37M、净利 €308；7 人）→ **分销 20%，B，加厚一次（small）；Euklis 贴标 30% 一句带过；强调毛利空间**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防技术分销（CCTV / 门禁 / 入侵 / 分析）；自有品牌 Euklis NVR
 - **触达通道（公开）**：role: 安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Euklis）；region: 意大利；contact: info@gsginternational.com、ludovico.paveri@gsginternational.com
@@ -218,7 +236,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ludovico Fontana | — | ludovico.paveri@gsginternational.com | 调研核实（公开页） | 用户表 |
+| Ludovico Paveri Fontana | Amministratore Delegato / CEO（2017 起，前 CTO）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28） | ludovico.paveri@gsginternational.com | 调研核实（公开页） | 用户表 |
+| Antonmarco Catania | Chairman / 创始人（1997；兼 Euklis srl 2017）（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.gsginternational.com/it/team.html |
+| Ludovico Fontana | — | info@gsginternational.com / ludovico.paveri@gsginternational.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 

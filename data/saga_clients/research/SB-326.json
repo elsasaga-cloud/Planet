@@ -57,10 +57,16 @@
  "kp": [
   {
    "name": "Marina Shkarpetina",
-   "role": "Marketplace（用户表 RFQ）",
+   "role": "Marketplace（用户表 RFQ）= 收件人（第 107 批 官方登记核实 2026-10-28）",
    "email": "marketplace@proxeet.com（用户表）",
    "phone": "—（WhatsApp 已加）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Aleksei Kizriakov",
+   "role": "Director（Registrar of Companies）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://companiesregistry.cy/company-details/proxeet-limited-437925/"
   }
  ],
  "grade_override": null,
@@ -71,11 +77,11 @@
   "level": "B 级加厚 v1（公司注册 + 官网核对）"
  },
  "company_facts": {
-  "legal_name": "PROXEET LIMITED（HE 437925）",
-  "founded": "2022-08-31（注册）；LinkedIn 2020",
+  "legal_name": "PROXEET LIMITED（ΗΕ 437925；Pafos）",
+  "founded": "2022-08-31（第 107 批 官方登记核实 2026-10-28）",
   "hq": "Neofytou Nikolaidi 61, Yiannis Court, Office 201, 8011 Paphos, Cyprus（+357 25 100999；info@proxeet.com）",
   "size": "11–50（LinkedIn）",
-  "other": "自有品牌 PoE injector（iBlock）、Chiprian L3 PoE 交换机；ISP/WISP 客户；RIPE AS201158"
+  "other": "自有品牌 PoE injector（iBlock）、Chiprian L3 PoE 交换机；ISP/WISP 客户；RIPE AS201158；第 107 批：帕福斯 ISP 网络设备品牌商（**自有 Chiprian L3 管理交换机 + iBlock 便携 PoE 注入器**；俄籍创始团队，董事 Kizriakov + Tikhonov（后者为公司服务商兼秘书）；11–50 口径）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 次候选**；塞浦路斯 EU 法人，正常 T/T；不碰俄方背景话题（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "PoE 注入器/便携 PoE（自有品牌，亦在阿里巴巴与亚马逊销售）",

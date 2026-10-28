@@ -52109,8 +52109,9 @@
 "level": "B 级加厚 v1（官网网店自有标核对）"
 },
 "company_facts": {
-"legal_name": "Xcam.cz（含姊妹站 excam.cz）",
-"other": "捷克摄像系统安装商 + 网店：安防摄像安装/维护、报警与门禁（住宅、写字楼、厂房）、**光伏电站摄像**；网店以 **X- 自有标**销售工业小型 PoE 交换机（X-IMC005GP 4+1 工业迷你 PoE 带 12V 升压 Kč 1,480；X-104GP-SFP 4 PoE + 1 SFP 工业 12~48VDC 升压 Kč 1,680），excam.cz 主推「DIN 导轨 PoE 交换机，装进标准配电箱」"
+"legal_name": "XCAM CZech s.r.o.（IČO 29397839；DIČ CZ29397839；Ostrava）",
+"other": "捷克摄像系统安装商 + 网店：安防摄像安装/维护、报警与门禁（住宅、写字楼、厂房）、**光伏电站摄像**；网店以 **X- 自有标**销售工业小型 PoE 交换机（X-IMC005GP 4+1 工业迷你 PoE 带 12V 升压 Kč 1,480；X-104GP-SFP 4 PoE + 1 SFP 工业 12~48VDC 升压 Kč 1,680），excam.cz 主推「DIN 导轨 PoE 交换机，装进标准配电箱」；第 107 批：俄斯特拉发一人安防集成 / 安装商（CCTV / 报警 / 车牌识别 / 光伏电站监控；Jablotron / AXIS；已用 E-link 类 PoE）→ **集成 25% small，一页纸一次（STI-054GP 对光伏 / 道闸场景）；9 次无回复 → 不动**（第 107 批 官方登记核实 2026-10-28）",
+"founded": "2012-02-29（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "摄像系统安装与维护（含光伏电站）",
@@ -52220,7 +52221,15 @@
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
+},
+"kp": [
+{
+"name": "Alexandr Grepl",
+"role": "Jednatel（唯一；2012 起；obchodní rejstřík）= 拍板人 / 收件人（第 107 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://rejstrik.penize.cz/29397839-xcam-czech-s-r-o"
 }
+]
 }
 },
 {
@@ -62026,6 +62035,18 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Matej Snoha",
+"role": "Jednatel / 创始人 / 实益所有人（2017 起；or.justice.cz）= 拍板人 / 收件人（第 107 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o"
+},
+{
+"name": "Andrej Hraško",
+"role": "Jednatel / 实益所有人（2016 起）（第 107 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o"
 }
 ],
 "grade_override": "B",
@@ -62037,11 +62058,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Inthouse Systems s.r.o.（IČO 05405947）",
-"founded": "2013",
+"legal_name": "Inthouse Systems s.r.o.（IČO 05405947；C 263202 MSPH；Praha 5）",
+"founded": "2016-09-19（第 107 批 官方登记核实 2026-10-28）",
 "hq": "Grafická 769/9, 150 00 Praha 5, Czechia（+420 722 476 554；support@inthouse.eu）",
 "size": "4 人（Tracxn 2026-08）",
-"other": "Siemens Climatix PLC 云网关与 App；64 伙伴/制造商；白标 App"
+"other": "Siemens Climatix PLC 云网关与 App；64 伙伴/制造商；白标 App；第 107 批：布拉格楼宇自动化软件 / 云网关公司（≈4 人；注册资本 2,000 Kč；两名斯洛伐克创始人）→ **采购型 25% tiny，一页纸一次；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "Inthouse Hub 云网关 + App（Siemens Climatix PLC 远程控制）",
@@ -67933,10 +67954,16 @@
 "kp": [
 {
 "name": "Slobodan Maksimović",
-"role": "创始人 / 所有人兼董事",
+"role": "Vlasnik i direktor（100%；1992 创始）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28）",
 "email": "smaksimovic@almaks.rs（PKS 协会公开名录）",
 "phone": "+381 11 2852 606",
 "source": "https://aplikacije.pks.rs/Sadrzaj/Files/Spisak%20Grupacije%20za%20TO%20-%20Ranka.doc"
+},
+{
+"name": "Uroš Maksimović",
+"role": "Direktor（二代；companywall）= 抄送（第 107 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.companywall.rs/firma/almaks-doo-beograd/MMfjjXsD"
 }
 ],
 "grade_override": "B",
@@ -67948,11 +67975,11 @@
 "level": "B 级加厚 v1（官网 + 名录核对）"
 },
 "company_facts": {
-"legal_name": "Almaks Security Systems d.o.o.（Almaks d.o.o.）",
-"founded": "1991",
+"legal_name": "ALMAKS DOO BEOGRAD（Almaks Security Systems；МБ 06698182；ПИБ 100571552；Beograd-Vračar）",
+"founded": "1992-06-15（第 107 批 官方登记核实 2026-10-28）",
 "hq": "Gospodara Vučića 129, 11050 Beograd (Vračar), Srbija（+381 11 2852 606 / 607；almaks@almaks.rs，marketing@almaks.rs）",
 "size": "51–200（RevenueBase 口径，2026-09）",
-"other": "塞尔维亚老牌技术安防工程+分销：火灾/防盗报警、视频监控、气溶胶灭火、门禁考勤、周界、对讲、车辆 GPS；**Hikvision 产品线 + 2018-11 成为 Dahua 官方分销商**；创始人/董事 Slobodan Maksimović（PKS 私人安保协会名录公开 smaksimovic@almaks.rs）"
+"other": "塞尔维亚老牌技术安防工程+分销：火灾/防盗报警、视频监控、气溶胶灭火、门禁考勤、周界、对讲、车辆 GPS；**Hikvision 产品线 + 2018-11 成为 Dahua 官方分销商**；创始人/董事 Slobodan Maksimović（PKS 私人安保协会名录公开 smaksimovic@almaks.rs）；第 107 批：贝尔格莱德安防系统集成商（报警 / 视频 / 灭火 / 门禁 / 周界；51–100 人；子公司 ALMAKS GPS 2017；**2012-03 成交 20 对 1V1D 光端机，老成单**）→ **集成 25%，B BIG，加厚一次；升 A 次候选（回信即 A）**；开头引 2012 那单须 S-box 有记录（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "技术安防工程（报警、视频、门禁、周界）",
@@ -77449,10 +77476,16 @@
 "kp": [
 {
 "name": "Ibrahim Tiryaki",
-"role": "Product Manager CCTV（用户表）",
+"role": "Product Manager CCTV（用户表）= 收件人（第 107 批 官方登记核实 2026-10-28）",
 "email": "it@anb-rimex.be（用户表）",
 "phone": "+32 496 34 18 97（用户表）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Philippe Stas",
+"role": "Administrateur + 日常管理负责人（2022 起；BCE）= 拍板人（抄 info@ 点名）（第 107 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.companyweb.be/en/0424592259/a-n-b-rimex"
 }
 ],
 "grade_override": "B",
@@ -77464,11 +77497,11 @@
 "level": "B 级加厚 v1（官网 + 登记核对）"
 },
 "company_facts": {
-"legal_name": "A.N.B. Rimex SA（BE 0424.592.259）",
-"founded": "1983-07-26",
+"legal_name": "A.N.B. RIMEX SA / NV（BCE / TVA BE 0424.592.259；Herstal）",
+"founded": "1983-07-26（第 107 批 官方登记核实 2026-10-28）",
 "hq": "Rue de l'Abbaye 89, Parc industriel des Hauts Sarts, 4040 Herstal, Belgium（+32 4 229 37 97；info@anb-rimex.be）",
 "size": "12.7 FTE（2025 年报）；LinkedIn 11–50",
-"other": "自研报警/家庭自动化（TriCom）；INCERT 认证 CCTV 分销商（2018）；eShop + Academy"
+"other": "自研报警/家庭自动化（TriCom）；INCERT 认证 CCTV 分销商（2018）；eShop + Academy；第 107 批：列日 Herstal 安防 / 楼宇自动化设备制造商（自有 TriCom 报警主机；NACE 2630 + 4652）+ CCTV / 门禁分销；股本 €75,000；12.7 FTE；INCERT 认证 → **贴标 OEM 30% 可谈（AnB 标 PoE 交换机进其 CCTV 套装）+ 分销 20%，B，加厚一次（small）**（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "报警与家庭自动化系统自研/生产（TriCom、TriCare）",
@@ -86024,7 +86057,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 mtechnology.it，语言 it，快照状态 ok；角色判定来源：用户表；第 90 批检索同名多户（「M Technology srl」Olbia / Vinchiaturo 两家一人公司，均无法与 mtechnology.it 对上）→ 未能锁定，不写回登记（第 90 批 官方登记核实 2026-10-27）"
+"other": "官网 mtechnology.it，语言 it，快照状态 ok；角色判定来源：用户表；第 90 批检索同名多户（「M Technology srl」Olbia / Vinchiaturo 两家一人公司，均无法与 mtechnology.it 对上）→ 未能锁定，不写回登记（第 90 批 官方登记核实 2026-10-27）；第 107 批：面向工业 / 极端环境的 AI 视频监控品牌商，**自有型号工业 PoE 交换机 MT-TP7-16GT240BT / MT-TP7308POE / MT-TP7324GE-POE / MT-TP7224E-POE（Utepo 式）**，只经认证安装商销售（Gamma Commerciale 载其价表）→ **贴标 OEM 30% 正中目标，B BIG，加厚一次；升 A 次候选**；法人名 / 所在地待补证（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "Mtechnology（注册商标 / Divisione Italiana；P.IVA 02451810960 站脚；法人全名未取 → 部分坐实）",
+"founded": "未取（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业/极端环境视频监控系统",
@@ -88014,7 +88049,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Mauro Salsi",
+"role": "创始人（1975；官网 Storia）= 拍板层（收件人 commerciale@ 点名 ufficio acquisti）（第 107 批 官方登记核实 2026-10-28）",
+"email": "commerciale@alphaelettronica.com",
+"source": "https://test.alphaelettronica.com/storia"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -88024,7 +88066,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 alphaelettronica.com，语言 it，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 alphaelettronica.com，语言 it，快照状态 ok；角色判定来源：官网文案；第 107 批：帕尔马电源 / 变压器制造商 + 自有品牌电子电气配件分销（品类含网络 / PoE 交换机；股本 €46,500；≈21 人；2015 新总部）→ **贴标 OEM 30% 可谈（Alpha 标 PoE 交换机走其电源同渠道）+ 分销 20%，B BIG，加厚一次**（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "Alpha Elettronica S.r.l.（P.IVA / CF 01511860346；REA PR-159233；Collecchio PR）",
+"founded": "1975（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电子产品与配件分销（多媒体 / 电气 / 安防 / 智能家居）"
@@ -90686,7 +90730,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Georgi Kolev（Георги Атанасов Колев）",
+"role": "Управител / 50% 股东（papagal.bg）= 拍板人 / 收件人（sales@avicam-bg.com）（第 107 批 官方登记核实 2026-10-28）",
+"email": "sales@avicam-bg.com",
+"source": "https://papagal.bg/eik/175335234/8e85"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -90695,11 +90746,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "АВИКАМ ООД（AVICAM Ltd.）",
-"founded": "2001",
+"legal_name": "АВИКАМ ЕООД / Avicam Ltd.（ЕИК 175335234；ДДС BG175335234；София）",
+"founded": "2007（法人）；品牌 2001（第 107 批 官方登记核实 2026-10-28）",
 "hq": "ул. „Братя Миладинови\" № 60, 1202 София, България（+359 2 832 7084 / 832 5757；sales@avicam-bg.com）",
 "size": "小型（营收口径 $200k，RocketReach）",
-"other": "RaySharp 官方代表；AVICAM 自有品牌配件；网店 + 安装"
+"other": "RaySharp 官方代表；AVICAM 自有品牌配件；网店 + 安装；第 107 批：索菲亚 2 人家族安防进口分销 + 安装（RaySharp 保加利亚代表；自有 AVICAM 配件标；2020 营业额 €160k；Колев 父子各 50%）→ **分销 20% small，一页纸（STC-028GP / STC-228GP 配其套装）一次；小批量贴标一句带过**（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频监控与安防设备进口分销（网店）",
@@ -98138,11 +98189,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Garma Electronics S.L.",
-"founded": "约 2003",
+"legal_name": "Garma Electrónica S.L.（圣塞巴斯蒂安 Calle Oyarzun 1 Bajo；CIF 未取 → 部分坐实）",
+"founded": "未取（自述 20+ 年）（第 107 批 官方登记核实 2026-10-28）",
 "hq": "San Sebastián (Gipuzkoa), Spain",
 "size": "中小型工业分销",
-"other": "Red Lion 渠道"
+"other": "Red Lion 渠道；第 107 批：工业仪表 / 过程控制分销商（Red Lion / N-Tron NT5000 工业交换机代理、FEMA、Scaime、Helmholz、Finetek）→ **STI 工业线作「第二价位」：分销 20% small，一页纸（1:1 对照 NT5000 价位）一次，有回声再加厚**；稿内不点名 Red Lion / N-Tron（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业仪表 / 控制 / 网络分销"
@@ -107710,7 +107761,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Matas Doviltis",
+"role": "Vadovas / 负责人（rekvizitai.lt）= 拍板人（收件人 info@ 点名）（第 107 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://rekvizitai.vz.lt/en/company/elseta/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -107720,7 +107778,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 pramoninisrysys.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 pramoninisrysys.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 107 批：维尔纽斯工业 / 变电站自动化制造商（Mini RTU、数据集中器；Aedilis 研发部拆分；股本 €173,760；≈22 人）+ 工业通信网店 pramoninisrysys.lt → **采购型 25%（RTU 柜配工业交换机）+ 网店分销 20%，B，加厚一次（small）；守界不提 IEC 61850**；国别 立陶宛（已 country_fix）（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "UAB „Elseta“（原 UAB „PRAMONINIS RYŠYS“ 2013–2018；įmonės kodas 300564737；PVM LT100003358919；Vilnius）",
+"founded": "2006-05-02（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "智能电网 RTU / 转换器 / I/O（自有品牌 Elseta）"
@@ -137090,11 +137150,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Órbita Digital（待核）",
-"founded": "",
+"legal_name": "CONEXIÓN B2B 2005, S.L.（Órbita Digital；CIF B74173303；Oviedo）",
+"founded": "2004（网店 2009）（第 107 批 官方登记核实 2026-10-28）",
 "hq": "Spain",
 "size": "中小型分销 / 进口",
-"other": "曾售 UTEPO；OEM 词频 12"
+"other": "曾售 UTEPO；OEM 词频 12；第 107 批：阿斯图里亚斯电信 / 网络 / 安防分销 + 跨境网店（Triax / Televes / Ikusi / Hikvision / Ubiquiti；曾上架 Utepo 类交换机；自称发货 184 国）→ **分销 20%，B，加厚一次（small）；MOQ 1 + 15 天有效价对网店友好**（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电信 / 网络 / 安防分销进口"
@@ -148719,7 +148779,8 @@
 "title": "Technical/Commercial Agent",
 "email": "agostino.avolio@elmospa.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Technical / Commercial Agent（研究档）= 收件人（代理，非采购 → 抄 info@ 点名 Ufficio Acquisti）（第 107 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Mauro Felice",
@@ -148738,7 +148799,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 elmospa.com，语言 en-gb，快照状态 ok；角色判定来源：用户表"
+"other": "官网 elmospa.com，语言 en-gb，快照状态 ok；角色判定来源：用户表；第 107 批：帕多瓦专业安防系统制造商（入侵 EN 50131 / 门禁 / CCTV / 无线；经销商 / 安装商渠道；股本 €3M；2025 营收 €30.57M、净利 €1.49M；79 人；表内「CCTV 帧田交换机」）→ **贴标 OEM 30% 目标（EL.MO. 标 PoE 交换机进其 CCTV 目录），B BIG，加厚一次；升 A 候选（回信即 A）**（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "EL.MO. S.p.A. a socio unico（P.IVA / CF 00605640283；REA PD-126325；Campodarsego PD）",
+"founded": "1976（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "专业安防系统制造（入侵 / 门禁 / CCTV / 无线）"
@@ -163137,18 +163200,20 @@
 ],
 "kp": [
 {
-"name": "Walter Randieri",
+"name": "Cristian Randieri",
 "title": "Engineer",
 "email": "randieri@intellisystem.it",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "President & CEO / 创始人（官网 About Us；研究档误作 Walter Randieri）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28）"
 },
 {
-"name": "Clelia Randieri",
+"name": "Clelia Rizza",
 "title": "Sales Manager",
 "email": "info@intellisystem.it",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Founding Board Member（官网 About Us；研究档误作 Clelia Randieri）= 抄送（第 107 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -163159,11 +163224,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Intellisystem Technologies S.r.l.",
-"founded": "",
+"legal_name": "Intellisystem Technologies S.r.l.（P.IVA / CF 01424300893；Siracusa；REA 未取）",
+"founded": "2000（事务所）/ 2003（S.r.l.）（第 107 批 官方登记核实 2026-10-28）",
 "hq": "Italy（西西里，待核）",
 "size": "小型家族方案商",
-"other": "已进口中国同行 3onedata；OEM 词频 14"
+"other": "已进口中国同行 3onedata；OEM 词频 14；第 107 批：锡拉库萨 2–5 人工业网络 / 监控 / 自动化方案商（在售 3onedata 工业交换机；营收 <€0.25M 口径）→ **分销 20% small，一页纸一次（STI 1:1 对照 3onedata 同口数）；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业网络 / 监控 / 自动化方案"
@@ -163459,7 +163524,14 @@
 "title": "Chief Financial Officer",
 "email": "robertas@katalita.lt",
 "phone": "+370 603 03213",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "CFO（用户表；与负责人同姓 → 家族）= 收件人（第 107 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Donatas Zubenas",
+"role": "Vadovas / 负责人（rekvizitai / imoniubaze）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://rekvizitai.vz.lt/en/company/katalita/"
 }
 ],
 "grade_override": null,
@@ -163470,11 +163542,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Katalita UAB",
-"founded": "",
+"legal_name": "Katalita, UAB（įmonės kodas 134637695；PVM LT346376917；Kauno r. Neveronys）",
+"founded": "1995-12-18（第 107 批 官方登记核实 2026-10-28）",
 "hq": "Lithuania",
 "size": "中小型分销",
-"other": "OEM 词频 117 → 自有标产品"
+"other": "OEM 词频 117 → 自有标产品；第 107 批：ICT / 网络设备纯批发商（MikroTik / Ubiquiti 官方 reseller / Teltonika / TP-Link；6–8 人做 2025 营收 €6.86M；Extralink 非其品牌）→ **分销 20%，B BIG，加厚一次**；稿内不点名 MikroTik / Ubiquiti（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络设备分销（ISP / 无线）"
@@ -182301,7 +182373,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 innowatt.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 innowatt.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 107 批：电气 / 安防 / 网络材料电商（视频监控 772 件、网络 295 件；配件贴 INNOWATT 标）+ 技术安装集团 → **贴标 OEM 30% 可谈（小批量）+ 分销 20%，B，加厚一次（small）**；12 次群发无回复 → 二次触达必须换切口（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "GRUPPO COSOLA S.R.L.（Innowatt 为其自有品牌网店；P.IVA 01218230777 站脚；REA 未取 → 部分坐实）",
+"founded": "未取（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电气 / 技术 / 安防材料网店（自有品牌 Innowatt）"
@@ -189316,7 +189390,8 @@
 "title": "（职务待核）",
 "email": "fojt@rectec.cz",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Jednatel（2023 起；KS Brno C 132302）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -189328,7 +189403,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 rectec.cz，语言 cs-CZ，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 rectec.cz，语言 cs-CZ，快照状态 ok；角色判定来源：官网文案；第 107 批：回收生产线 / 工业自动化供应商（注册资本 200,000 Kč；2023 阿里巴巴 RFQ 为光模块，Saga 不做）→ **项目 25% small，一页纸一次（STI 导轨机进产线柜）；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "RecTec servis, s.r.o.（IČO 17957036；DIČ CZ17957036；Židlochovice；100% CVFT s.r.o.）",
+"founded": "2023-01-23（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "回收生产线 / 工业自动化（捷克）"
@@ -206118,11 +206195,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "DIPOL（捷克分支）",
-"founded": "",
+"legal_name": "TOMI CZECH, s.r.o.（DIPOL 捷克站；IČO 26830370；DIČ CZ26830370；Přerov）",
+"founded": "未取（第 107 批 官方登记核实 2026-10-28）",
 "hq": "Czech Republic",
 "size": "集团分支",
-"other": "同集团 SB-1023（葡萄牙）；总部波兰"
+"other": "同集团 SB-1023（葡萄牙）；总部波兰；第 107 批：波兰 DIPOL（Kraków；2026-06-10 改制 DIPOL sp. z o.o.）集团的捷克销售公司（3 门店；Hikvision / Dahua / TP-Link 目录）→ **分销 20% 但选品在 Kraków 总部：一页纸一次并请转 orders@dipolnet.com；与 SB-1023 DIPOL 葡萄牙并线记一笔；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV / 网络 / 天线批发"
@@ -211027,10 +211104,16 @@
 "kp": [
 {
 "name": "Marina Shkarpetina",
-"role": "Marketplace（用户表 RFQ）",
+"role": "Marketplace（用户表 RFQ）= 收件人（第 107 批 官方登记核实 2026-10-28）",
 "email": "marketplace@proxeet.com（用户表）",
 "phone": "—（WhatsApp 已加）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Aleksei Kizriakov",
+"role": "Director（Registrar of Companies）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://companiesregistry.cy/company-details/proxeet-limited-437925/"
 }
 ],
 "grade_override": null,
@@ -211041,11 +211124,11 @@
 "level": "B 级加厚 v1（公司注册 + 官网核对）"
 },
 "company_facts": {
-"legal_name": "PROXEET LIMITED（HE 437925）",
-"founded": "2022-08-31（注册）；LinkedIn 2020",
+"legal_name": "PROXEET LIMITED（ΗΕ 437925；Pafos）",
+"founded": "2022-08-31（第 107 批 官方登记核实 2026-10-28）",
 "hq": "Neofytou Nikolaidi 61, Yiannis Court, Office 201, 8011 Paphos, Cyprus（+357 25 100999；info@proxeet.com）",
 "size": "11–50（LinkedIn）",
-"other": "自有品牌 PoE injector（iBlock）、Chiprian L3 PoE 交换机；ISP/WISP 客户；RIPE AS201158"
+"other": "自有品牌 PoE injector（iBlock）、Chiprian L3 PoE 交换机；ISP/WISP 客户；RIPE AS201158；第 107 批：帕福斯 ISP 网络设备品牌商（**自有 Chiprian L3 管理交换机 + iBlock 便携 PoE 注入器**；俄籍创始团队，董事 Kizriakov + Tikhonov（后者为公司服务商兼秘书）；11–50 口径）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 次候选**；塞浦路斯 EU 法人，正常 T/T；不碰俄方背景话题（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "PoE 注入器/便携 PoE（自有品牌，亦在阿里巴巴与亚马逊销售）",
@@ -225887,18 +225970,20 @@
 ],
 "kp": [
 {
-"name": "Stephane Manuse",
+"name": "Stéphane Manuse",
 "title": "Directeur Technique",
 "email": "stephane.manuse@kyolis.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Directeur général（2024-06 起；联合创始人 / 技术）= 收件人（第 107 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Thomas Eleaume",
 "title": "CEO",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Président（2011 起；联合创始人；societe.com）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -225910,7 +225995,9 @@
 },
 "company_facts": {
 "hq": "法国",
-"other": "官网 kyolis.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表"
+"other": "官网 kyolis.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表；第 107 批：法国光纤 / 同轴以太网传输设备与工业交换机品牌商（自有 logo；Chambéry 2023 投产；股本 €100,000；6–9 人；pappers 标注 1 项登记程序，性质未查）→ **贴标 OEM 30% 目标（Kyolis 标导轨工业 PoE / 光口机补其 SKU）+ 分销 20%，B BIG，加厚一次；升 A 次候选**（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "KYOLIS SAS（SIREN 519 722 698 RCS Nanterre；TVA FR00519722698；Antony，工厂 Chambéry）",
+"founded": "2010-01-22（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤/同轴数据转换器（自有品牌 Kyolis）",
@@ -251890,11 +251977,18 @@
 ],
 "kp": [
 {
-"name": "Ludovico Fontana",
+"name": "Ludovico Paveri Fontana",
 "title": "Chief Executive Officer",
 "email": "ludovico.paveri@gsginternational.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Amministratore Delegato / CEO（2017 起，前 CTO）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Antonmarco Catania",
+"role": "Chairman / 创始人（1997；兼 Euklis srl 2017）（第 107 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.gsginternational.com/it/team.html"
 }
 ],
 "grade_override": null,
@@ -251906,7 +252000,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 gsginternational.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"other": "官网 gsginternational.com，语言 en，快照状态 ok；角色判定来源：用户表；第 107 批：米兰安防增值分销商（barox / ComNet / Lantech / Nedap；姊妹制造商 Euklis；股本 €53,700；2024 营收 €2.37M、净利 €308；7 人）→ **分销 20%，B，加厚一次（small）；Euklis 贴标 30% 一句带过；强调毛利空间**（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "GSG INTERNATIONAL S.R.L.（P.IVA / CF 12178170150；REA MI-1537545；Trezzano sul Naviglio MI）",
+"founded": "1997-06-12（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防技术分销（CCTV / 门禁 / 入侵 / 分析）",
@@ -260913,21 +261009,24 @@
 "title": "Product Manager",
 "email": "info@bettinivideo.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Product Manager（研究档）= 收件人（第 107 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Giuseppe Costantini",
 "title": "Purchasing Manager",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Purchasing Manager（研究档）= 抄送（第 107 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Walter Bettini",
 "title": "CEO",
 "email": "walter.bettini@bettinivideo.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Amministratore Delegato / 联合创始人（1996，与兄弟 Massimo）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -260939,7 +261038,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 bettinivideo.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 bettinivideo.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案；第 107 批：意大利视频监控方案商 / 制造商（自有 GAMS 品牌；2025 营收 €8.94M；42 人；分部 Firenze / Roma / Bologna；表内「用 ONV 的直接带标卖」）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选（回信即 A）**；稿内不点名 ONV / ComNet（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "BETTINI S.R.L.（P.IVA / CF 11883080159；REA MI-1506925；注册 Milano，运营 Saronno VA）",
+"founded": "1996-09-23（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频监控方案（自有品牌 GAMS NVR）",
@@ -261031,9 +261132,9 @@
 "name": "bvsecurity.com",
 "name_src": "domain",
 "names": [],
-"country": "意大利",
-"iso": "IT",
-"region": "欧洲",
+"country": "美国",
+"iso": "US",
+"region": "北美",
 "other_countries": [],
 "domains": [
 "bvsecurity.com"
@@ -261362,7 +261463,20 @@
 "title": "Product Manager",
 "email": "support@bvsecurity.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Product Manager / 技术客服（研究档）→ 改投 sales@ 点名业主（第 107 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Lisa Tsai",
+"role": "Co-Managing Director / Owner（ZoomInfo）= 拍板人 / 收件人（sales@bvsecurity.com）（第 107 批 官方登记核实 2026-10-28）",
+"email": "sales@bvsecurity.com",
+"source": "https://www.zoominfo.com/c/bv-security/22367373"
+},
+{
+"name": "Chien Chang Lu",
+"role": "Managing Member（buzzfile；BV USA LLC）= 拍板人（第 107 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.buzzfile.com/business/BV-Security-847-619-2288"
 }
 ],
 "grade_override": null,
@@ -261374,7 +261488,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 bvsecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 bvsecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 107 批：**美国伊利诺伊（研究档误记意大利 → country_fix 美国）**；PoE 交换机 / 注入器 / 摄像机批发商，自称 OEM/ODM，自有品牌 BV-Tech（POE-SW802G 等亚马逊热销）；GeoVision 经销；7–11 人；华裔业主 → **贴标 OEM 30% 目标（其 SW802G 类机型正是 STC-028GP / STC-228GP 的贴标对象），B BIG，加厚一次；升 A 候选（回信即 A）**；中文直联 Simon 定（默认否）；发信窗口 Wed 08–10 CT（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "BV USA LLC（d/b/a BV Security；伊利诺伊 Elk Grove Village；IL 文件号未取 → 部分坐实）",
+"founded": "2009（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防电商（硬盘 / 摄像机 / PoE）",
@@ -261481,8 +261597,10 @@
 "body": "Hi Zehua,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 8 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the SW-series PoE switches under your label, two positions built to your spec from small lots, CE/RoHS: SW802G - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); SW811G-DIN - DIN-rail industrial 8 x PoE+ + 2 x SFP, unmanaged, -40 to 75 C - STI-288GP - $62.2. On NDAA: we make no claim either way - the component list goes with the sample and your guide decides.\n\nOne question: which model is due for a second source first - the desktop 8-port or the DIN unit?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "美国"
+},
+"country_table": "意大利"
 },
 {
 "name": "comtech.net.pk",
@@ -276170,11 +276288,11 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-015，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "Sistel Networking (SISTEL srl)",
-"founded": "",
+"legal_name": "SISTEL S.R.L.（Sistel Networking 事业部；P.IVA / CF 01164230037；REA NO-153233；Suno NO）",
+"founded": "1986-05-28（第 107 批 官方登记核实 2026-10-28）",
 "hq": "Suno (NO), 意大利",
 "size": "",
-"other": "Planet 渠道档案 PB-015（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；决策人（SISTEL srl 业主）"
+"other": "Planet 渠道档案 PB-015（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；决策人（SISTEL srl 业主）；第 107 批：诺瓦拉电子元件制造商兼网络方案部（布线 / 机柜 / UPS / 台系工业交换机整包；2024 营收 €1.70M、净利 €206k）→ **集成 25%，B，一页纸一次（STI 1:1 对照 IGS-620TF 类）；有回声再加厚**（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）"
@@ -327861,7 +327979,8 @@
 "title": "Owner",
 "email": "augusto@virtware.pt",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Owner / sócio-gerente（用户表 + LinkedIn）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -327873,7 +327992,9 @@
 },
 "company_facts": {
 "hq": "葡萄牙",
-"other": "官网 virtware.pt，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 virtware.pt，语言 ?，快照状态 ok；角色判定来源：官网文案；第 107 批：波尔图网络 / 布线增值分销商（Cat.6a 布线、TP-Link L2、兼容光模块、机柜、VoIP；股本 €5,000；2–10 人）→ **分销 20% small，一页纸一次（对照 TL-SG5428 类价位）；有回声再加厚**；表内从未跟进 → 首封不伪造 Re:（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "VIRTWARE – Soluções Integradas de Telecomunicações, Lda.（NIPC 506612813；Vila Nova de Gaia）",
+"founded": "2003-05-19（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电信 / 布线 / 网络产品分销"
@@ -426124,7 +426245,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Gianluca Cerino",
+"role": "Titolare（个体工商户业主）= 唯一收件人（info@techlu.it）（第 107 批 官方登记核实 2026-10-28）",
+"email": "info@techlu.it",
+"source": "https://www.informazione-aziende.it/Azienda_CT-SERVICE-DI-CERINO-GIANLUCA"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -426134,7 +426262,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 ctservicestore.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 ctservicestore.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 107 批：坎波巴索 1 人安防门店 + Techlu 安装商网店（已卖 ONV 式商用 PoE）→ **分销 20% small，一页纸一次；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28）",
+"legal_name": "CT Service di Cerino Gianluca（impresa individuale；P.IVA 01771320700；CF CRNGLC67L29L483I；Campobasso）",
+"founded": "未取（3–10 年）（第 107 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "报警 / 监控 / 对讲安装与网店"

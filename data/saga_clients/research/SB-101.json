@@ -40,7 +40,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Georgi Kolev（Георги Атанасов Колев）",
+   "role": "Управител / 50% 股东（papagal.bg）= 拍板人 / 收件人（sales@avicam-bg.com）（第 107 批 官方登记核实 2026-10-28）",
+   "email": "sales@avicam-bg.com",
+   "source": "https://papagal.bg/eik/175335234/8e85"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -49,11 +56,11 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "АВИКАМ ООД（AVICAM Ltd.）",
-  "founded": "2001",
+  "legal_name": "АВИКАМ ЕООД / Avicam Ltd.（ЕИК 175335234；ДДС BG175335234；София）",
+  "founded": "2007（法人）；品牌 2001（第 107 批 官方登记核实 2026-10-28）",
   "hq": "ул. „Братя Миладинови\" № 60, 1202 София, България（+359 2 832 7084 / 832 5757；sales@avicam-bg.com）",
   "size": "小型（营收口径 $200k，RocketReach）",
-  "other": "RaySharp 官方代表；AVICAM 自有品牌配件；网店 + 安装"
+  "other": "RaySharp 官方代表；AVICAM 自有品牌配件；网店 + 安装；第 107 批：索菲亚 2 人家族安防进口分销 + 安装（RaySharp 保加利亚代表；自有 AVICAM 配件标；2020 营业额 €160k；Колев 父子各 50%）→ **分销 20% small，一页纸（STC-028GP / STC-228GP 配其套装）一次；小批量贴标一句带过**（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "视频监控与安防设备进口分销（网店）",

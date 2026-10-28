@@ -80,6 +80,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（BE · 1 次检索：companyweb（BE 0424.592.259；Rue de l’Abbaye 89 4040 Herstal；Established 26-07-1983；12.7 FTE；SA）+ b2bhint（Capital 75.000 EUR；NACE 2630 / 4652 / 4669；Dirigeants Stas Philippe Administrateur + Personne chargée de la gestion journalière depuis 2022；Aida Consult Administrateur / Représentant permanent）+ pappers.be（NV；BTW BE0424592259；75 000 €）+ INCERT 证书页（ANB Rimex；BE0424592259；info@anb-rimex.be；04 229 37 97）+ LinkedIn（12 员工），2026-10-28 查；https://www.companyweb.be/en/0424592259/a-n-b-rimex）：**
+
+- 法定名 / 登记号：A.N.B. RIMEX SA（AnB-Rimex；anb-rimex.be；比利时列日 Herstal Parc Industriel des Hauts-Sarts；BCE 0424.592.259）— 1983-07-26 成立的安防 / 楼宇自动化设备制造商 + 分销商（NACE 2630 通信设备制造 + 4652 电子 / 电信设备批发；自有 TriCom 报警主机、TriCare AI；分销 CCTV / 门禁 / 火灾探测；2018 首家 INCERT 认证 CCTV）；股本 €75,000；12.7 FTE；董事兼日常管理 Philippe Stas（2022 起）+ Aida Consult（常任代表）；研究档 KP Ibrahim Tiryaki（it@）；群发 8 次打开 · BCE / TVA BE 0424.592.259（établissement 2.023.133.651） · 状态 **Active（situation normale）** · 成立 1983-07-26 · SA / NV（私有；股本 €75,000）
+- 行业码 / 经营范围：安防 / 楼宇自动化设备制造（报警主机）+ 安防设备批发（CCTV / 门禁 / 火灾探测）
+- 注册地址：Rue de l’Abbaye 89, 4040 Herstal（Liège）
+- 规模档：小型（12.7 FTE）
+- 账目：2025 年报已交；—
+- 高管：Philippe Stas — Administrateur + 日常管理负责人（2022 起）= 拍板人
+- 高管：Aida Consult（常任代表）— Administrateur
+- 高管：Ibrahim Tiryaki — 研究档 KP（it@anb-rimex.be）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自产报警主机 + 分销 CCTV 的比利时小厂 → 贴标 OEM 30% 可谈（AnB 标 PoE 交换机进其 CCTV 套装）+ 分销 20%，B，加厚一次（small）**：STC-028GP / STC-228GP / STC-2224GP 一页纸 + 1:1 对照
+  - 收件人 it@ 直呼 Ibrahim，抄 info@ 点名 Philippe Stas；8 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；法语一句引子 + 英文正文
+- 备注：贴标 30% 可谈 + 分销 20%；B；加厚一次（small）；坐实（BCE）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,7 +146,8 @@ updated: 2026-10-28
 - **【用户表】IP67、小体积、PoE 为主；6 次推送 0 回复**
   > IP67网口 小体积 PoE为主 拿了很多同行的彩页
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ibrahim Tiryaki（Product Manager CCTV（用户表））it@anb-rimex.be（用户表） +32 496 34 18 97（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ibrahim Tiryaki（Product Manager CCTV（用户表）= 收件人（第 107 批 官方登记核实 2026-10-28））it@anb-rimex.be（用户表） +32 496 34 18 97（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Philippe Stas（Administrateur + 日常管理负责人（2022 起；BCE）= 拍板人（抄 info@ 点名）（第 107 批 官方登记核实 2026-10-28）） 〔https://www.companyweb.be/en/0424592259/a-n-b-rimex〕
 - **调研后定级**：B（原自动 A）——核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。
 - 备注：只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。
 
@@ -138,10 +155,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | A.N.B. Rimex SA（BE 0424.592.259） |
-| 成立 | 1983-07-26 |
+| 法定名称 | A.N.B. RIMEX SA / NV（BCE / TVA BE 0424.592.259；Herstal） |
+| 成立 | 1983-07-26（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Rue de l'Abbaye 89, Parc industriel des Hauts Sarts, 4040 Herstal, Belgium（+32 4 229 37 97；info@anb-rimex.be） |
-| 其他 | 自研报警/家庭自动化（TriCom）；INCERT 认证 CCTV 分销商（2018）；eShop + Academy |
+| 其他 | 自研报警/家庭自动化（TriCom）；INCERT 认证 CCTV 分销商（2018）；eShop + Academy；第 107 批：列日 Herstal 安防 / 楼宇自动化设备制造商（自有 TriCom 报警主机；NACE 2630 + 4652）+ CCTV / 门禁分销；股本 €75,000；12.7 FTE；INCERT 认证 → **贴标 OEM 30% 可谈（AnB 标 PoE 交换机进其 CCTV 套装）+ 分销 20%，B，加厚一次（small）**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：报警与家庭自动化系统自研/生产（TriCom、TriCare）；CCTV / 门禁 / 可视对讲 / 火灾探测分销（守界：火灾主系统不供）；安装商培训 Academy 与 eShop
 - **触达通道（公开）**：网站: https://anb-rimex.be/；eShop: https://anb-rimex.be/nl-be/eshop；电话: +32 4 229 37 97（公开）；邮箱（公开）: info@anb-rimex.be
@@ -237,7 +254,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ibrahim Tiryaki | Product Manager CCTV（用户表） | it@anb-rimex.be（用户表） / +32 496 34 18 97（用户表） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ibrahim Tiryaki | Product Manager CCTV（用户表）= 收件人（第 107 批 官方登记核实 2026-10-28） | it@anb-rimex.be（用户表） / +32 496 34 18 97（用户表） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Philippe Stas | Administrateur + 日常管理负责人（2022 起；BCE）= 拍板人（抄 info@ 点名）（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.companyweb.be/en/0424592259/a-n-b-rimex |
 | Lbrahim Tiryaki | — | it@anb-rimex.be / +32496341897 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

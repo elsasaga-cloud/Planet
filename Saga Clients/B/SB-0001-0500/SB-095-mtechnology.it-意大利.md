@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,6 +86,20 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（IT · 1 次检索：mtechnology.it 全站页脚（Mtechnology Divisione Italiana - Mtechnology è un marchio registrato - P.IVA 02451810960）+ Chi siamo / Contatti（distribuisce esclusivamente tramite rete di installatori certificati；R&D 可改 firmware / hardware）+ gammacommerciale.it（Mtechnology 安装商价表：telecamere IP、NVR、extender、switch long distance、convertitori IP）；ufficiocamerale 的 M - TECHNOLOGY S.R.L. 00892280942（Vinchiaturo CB，1 人）= 同名异主，不取，2026-10-28 查；https://www.mtechnology.it/chi-siamo.1.96.uw）：**
+
+- 法定名 / 登记号：Mtechnology（「Mtechnology Divisione Italiana — marchio registrato」；mtechnology.it；P.IVA 02451810960（站脚；蒙扎-布里安扎 / 米兰区号段）；法人全名未取 → 部分坐实；installer 渠道价表由 Gamma Commerciale 承载，是否同一法人待补证）— 面向工业 / 极端环境（钢厂、铸造、船舶）的 AI 视频监控品牌商，**自有型号工业 PoE 交换机 MT-TP7-16GT240BT（20 口管理 16×Hi-PoE 90W / 240W）、MT-TP7308POE、MT-TP7324GE-POE、MT-TP7224E-POE**（表内「工业 FS（Utepo 式外壳）是他们自己贴标」）；只经认证安装商销售；群发 6 次打开 · P.IVA 02451810960（站脚；法人名未取） · 状态 **Active（站点 2026 更新）** · 成立 未取 · 注册商标 / 意大利分部（法人待补证）
+- 行业码 / 经营范围：工业级 AI 视频监控品牌商（自有型号摄像机 / NVR / 工业 PoE 交换机 / 长距 PoE 扩展）— 安装商渠道
+- 注册地址：未取（P.IVA 段位 = 蒙扎-布里安扎 / 米兰）
+- 规模档：小型（推定）
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@mtechnology.it（点名 ufficio acquisti / product manager）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已经自贴标工业 PoE 交换机（MT-TP7 系列，Utepo 式）的品牌商 = 贴标 OEM 30% 正中目标，B BIG，加厚一次；升 A 次候选**：STI-288DGGPM / STI-244DGGPM / STI-488DGGPM / STI-154GP 一页纸 + 1:1 对照 MT-TP7-16GT240BT（90 W Hi-PoE 口 / 240 W 预算）；稿内不点名 Utepo
+  - 收件人 info@ 点名 ufficio acquisti；6 次打开无回复 → 二次触达换切口「second source for your MT-TP7 industrial PoE family」；发信窗口 Thu 12–14 CET；意语一句引子；法人名 / 所在地待补证（下次核：Gamma Commerciale 是否同主）
+- 备注：贴标 30% 目标；B BIG；加厚一次；升 A 次候选；部分坐实（P.IVA 站脚、法人名未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -135,8 +149,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Mtechnology（注册商标 / Divisione Italiana；P.IVA 02451810960 站脚；法人全名未取 → 部分坐实） |
+| 成立 | 未取（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 mtechnology.it，语言 it，快照状态 ok；角色判定来源：用户表；第 90 批检索同名多户（「M Technology srl」Olbia / Vinchiaturo 两家一人公司，均无法与 mtechnology.it 对上）→ 未能锁定，不写回登记（第 90 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 mtechnology.it，语言 it，快照状态 ok；角色判定来源：用户表；第 90 批检索同名多户（「M Technology srl」Olbia / Vinchiaturo 两家一人公司，均无法与 mtechnology.it 对上）→ 未能锁定，不写回登记（第 90 批 官方登记核实 2026-10-27）；第 107 批：面向工业 / 极端环境的 AI 视频监控品牌商，**自有型号工业 PoE 交换机 MT-TP7-16GT240BT / MT-TP7308POE / MT-TP7324GE-POE / MT-TP7224E-POE（Utepo 式）**，只经认证安装商销售（Gamma Commerciale 载其价表）→ **贴标 OEM 30% 正中目标，B BIG，加厚一次；升 A 次候选**；法人名 / 所在地待补证（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业/极端环境视频监控系统；自有型号工业 PoE 交换机 + PoE 电源配件
 
@@ -335,12 +351,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 61）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 61）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

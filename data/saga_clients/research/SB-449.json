@@ -45,7 +45,20 @@
    "title": "Product Manager",
    "email": "support@bvsecurity.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Product Manager / 技术客服（研究档）→ 改投 sales@ 点名业主（第 107 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Lisa Tsai",
+   "role": "Co-Managing Director / Owner（ZoomInfo）= 拍板人 / 收件人（sales@bvsecurity.com）（第 107 批 官方登记核实 2026-10-28）",
+   "email": "sales@bvsecurity.com",
+   "source": "https://www.zoominfo.com/c/bv-security/22367373"
+  },
+  {
+   "name": "Chien Chang Lu",
+   "role": "Managing Member（buzzfile；BV USA LLC）= 拍板人（第 107 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.buzzfile.com/business/BV-Security-847-619-2288"
   }
  ],
  "grade_override": null,
@@ -57,7 +70,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 bvsecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 bvsecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 107 批：**美国伊利诺伊（研究档误记意大利 → country_fix 美国）**；PoE 交换机 / 注入器 / 摄像机批发商，自称 OEM/ODM，自有品牌 BV-Tech（POE-SW802G 等亚马逊热销）；GeoVision 经销；7–11 人；华裔业主 → **贴标 OEM 30% 目标（其 SW802G 类机型正是 STC-028GP / STC-228GP 的贴标对象），B BIG，加厚一次；升 A 候选（回信即 A）**；中文直联 Simon 定（默认否）；发信窗口 Wed 08–10 CT（第 107 批 官方登记核实 2026-10-28）",
+  "legal_name": "BV USA LLC（d/b/a BV Security；伊利诺伊 Elk Grove Village；IL 文件号未取 → 部分坐实）",
+  "founded": "2009（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防电商（硬盘 / 摄像机 / PoE）",
@@ -164,5 +179,6 @@
    "body": "Hi Zehua,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 8 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the SW-series PoE switches under your label, two positions built to your spec from small lots, CE/RoHS: SW802G - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); SW811G-DIN - DIN-rail industrial 8 x PoE+ + 2 x SFP, unmanaged, -40 to 75 C - STI-288GP - $62.2. On NDAA: we make no claim either way - the component list goes with the sample and your guide decides.\n\nOne question: which model is due for a second source first - the desktop 8-port or the DIN unit?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "美国"
 }

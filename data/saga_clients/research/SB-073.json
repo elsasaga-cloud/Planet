@@ -55,10 +55,16 @@
  "kp": [
   {
    "name": "Ibrahim Tiryaki",
-   "role": "Product Manager CCTV（用户表）",
+   "role": "Product Manager CCTV（用户表）= 收件人（第 107 批 官方登记核实 2026-10-28）",
    "email": "it@anb-rimex.be（用户表）",
    "phone": "+32 496 34 18 97（用户表）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Philippe Stas",
+   "role": "Administrateur + 日常管理负责人（2022 起；BCE）= 拍板人（抄 info@ 点名）（第 107 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.companyweb.be/en/0424592259/a-n-b-rimex"
   }
  ],
  "grade_override": "B",
@@ -70,11 +76,11 @@
   "level": "B 级加厚 v1（官网 + 登记核对）"
  },
  "company_facts": {
-  "legal_name": "A.N.B. Rimex SA（BE 0424.592.259）",
-  "founded": "1983-07-26",
+  "legal_name": "A.N.B. RIMEX SA / NV（BCE / TVA BE 0424.592.259；Herstal）",
+  "founded": "1983-07-26（第 107 批 官方登记核实 2026-10-28）",
   "hq": "Rue de l'Abbaye 89, Parc industriel des Hauts Sarts, 4040 Herstal, Belgium（+32 4 229 37 97；info@anb-rimex.be）",
   "size": "12.7 FTE（2025 年报）；LinkedIn 11–50",
-  "other": "自研报警/家庭自动化（TriCom）；INCERT 认证 CCTV 分销商（2018）；eShop + Academy"
+  "other": "自研报警/家庭自动化（TriCom）；INCERT 认证 CCTV 分销商（2018）；eShop + Academy；第 107 批：列日 Herstal 安防 / 楼宇自动化设备制造商（自有 TriCom 报警主机；NACE 2630 + 4652）+ CCTV / 门禁分销；股本 €75,000；12.7 FTE；INCERT 认证 → **贴标 OEM 30% 可谈（AnB 标 PoE 交换机进其 CCTV 套装）+ 分销 20%，B，加厚一次（small）**（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "报警与家庭自动化系统自研/生产（TriCom、TriCare）",

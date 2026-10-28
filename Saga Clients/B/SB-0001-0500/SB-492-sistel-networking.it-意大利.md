@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,6 +75,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 107 批（IT · 1 次检索：ufficiocamerale（SISTEL S.R.L.；P.IVA 01164230037；Via Novara 21 28019 Suno (NO)；Rea 153233；Data Iscrizione 28/05/1986；ATECO 261109；Utile € 206.464 2024）+ companyreports（Fatturato € 1.699.479 2024；Fondazione 11/07/1986）+ sistel-networking.it Chi siamo（Sistel Networking è la divisione specializzata di SISTEL srl … Da oltre 30 anni；P. IVA 01164230037；info@sistel-networking.it；0322 858077），2026-10-28 查；https://www.ufficiocamerale.it/1662/sistel-srl）：**
+
+- 法定名 / 登记号：SISTEL S.R.L.（Sistel Networking 事业部；sistel-networking.it / sistelsrl.it；诺瓦拉省 Suno Via Novara 21；P.IVA 01164230037；REA NO-153233）— 1986 年登记的电子元件制造商（ATECO 26.11.09）兼网络方案部（铜缆 / 光纤布线、机柜、UPS、工业交换机；官网 Industrial Ethernet Solution 专页 = 某台系品牌工业交换机 IGS-620TF 等）；2024 营收 €1.70M、净利 €206k；研究档「资本 €10k」；面向安装商 / IT 经理；群发 6 次打开 · P.IVA / CF 01164230037；REA NO-153233 · 状态 **Active** · 成立 1986-05-28（登记）/ 1986-07-11 · S.r.l.（私有）
+- 行业码 / 经营范围：电子元件制造（ATECO 26.11）+ 网络方案事业部（布线 / 机柜 / UPS / 工业交换机，面向安装商）
+- 注册地址：Via Novara 21, 28019 Suno (NO)
+- 规模档：小型（推定 10–20 人）
+- 账目：2024 营收 €1,699,479；净利 €206,464；—
+- 高管：（未具名）— 收件人 info@sistel-networking.it（点名 responsabile divisione Networking）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **给安装商做「布线 + 机柜 + 工业交换机」整包的小方案商（现用台系工业交换机）→ 集成 25%，B，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 1:1 对照 IGS-620TF 类）；有回声再加厚**；稿内不点名台系品牌
+  - 收件人 info@ 点名 divisione Networking；6 次打开无回复 → 二次触达换切口「a second industrial switch line for your cabinet bundles」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：集成 25% small；一页纸；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,9 +134,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Sistel Networking (SISTEL srl) |
+| 法定名称 | SISTEL S.R.L.（Sistel Networking 事业部；P.IVA / CF 01164230037；REA NO-153233；Suno NO） |
+| 成立 | 1986-05-28（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Suno (NO), 意大利 |
-| 其他 | Planet 渠道档案 PB-015（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；决策人（SISTEL srl 业主） |
+| 其他 | Planet 渠道档案 PB-015（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；决策人（SISTEL srl 业主）；第 107 批：诺瓦拉电子元件制造商兼网络方案部（布线 / 机柜 / UPS / 台系工业交换机整包；2024 营收 €1.70M、净利 €206k）→ **集成 25%，B，一页纸一次（STI 1:1 对照 IGS-620TF 类）；有回声再加厚**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）
 
@@ -313,12 +328,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,6 +87,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 107 批（IT · 1 次检索：官网页脚（Bettini S.r.l.；Milan Register of Companies no. 11883080159；R.E.A. MI-1506925；Capital 119,000.00 Euro；AEE IT15090000009003；Via E. H. Grieg 23 Saronno；info@；+39 0289651000）+ ufficiocamerale（BETTINI S.R.L.；P.IVA 11883080159；Via Marco Ulpio Traiano 16 Milano；Data Iscrizione 23/09/1996；Fatturato € 8.944.233 2025；Dipendenti 42 2026；Utile € 44.374；ATECO 26）+ 官网访谈（Walter Bettini AD；1996 与兄弟 Massimo 创立；2004 GAMS；2007 Initel）+ secsolution（25 周年；Rho 起家；分部 Roma / Firenze / Bologna）+ LinkedIn（51–200 口径），2026-10-28 查；https://www.ufficiocamerale.it/9537/bettini-srl）：**
+
+- 法定名 / 登记号：BETTINI S.R.L.（bettinivideo.com；注册地 Via Marco Ulpio Traiano 16 Milano，运营 / 研发 / 生产 Via E. H. Grieg 23 Saronno (VA)；P.IVA / CF 11883080159；REA MI-1506925）— 1996-09-23 由 Walter 与 Massimo Bettini 兄弟创立的意大利视频监控方案商 / 制造商（2004 收购 GAMS 品牌、2007 并入 Initel 生产分支；GAMS 录像 / 视频分析「意大利设计制造」；分部 Firenze / Roma / Bologna；在售 ComNet 交换机 + 据表内「用 ONV 的直接带标卖」）；股本 €119,000；营收 €8.94M（2025）；42 人（2026）；AD Walter Bettini；Simon「可以尝试多跟进一下」；群发 6 次打开 · P.IVA / CF 11883080159；REA MI-1506925 · 状态 **Active** · 成立 1996-09-23 · S.r.l.（Bettini 家族私有；股本 €119,000）
+- 行业码 / 经营范围：视频监控系统制造 / 分销（自有 GAMS 品牌 NVR / 视频分析；ATECO 26；面向安装商；3 分部）
+- 注册地址：运营 Via E. H. Grieg 23, 21047 Saronno (VA)；注册 Via Marco Ulpio Traiano 16, 20149 Milano
+- 规模档：中小（42 人）
+- 账目：2025 营收 €8,944,233；净利 €44,374；—
+- 高管：Walter Bettini — Amministratore Delegato / 联合创始人 = 拍板人
+- 高管：Massimo Bettini — 联合创始人
+- 高管：Marco Contu — 研究档 KP（info@）= 收件人
+- 高管：Giuseppe Costantini — 研究档 KP
+- 控制人 / 股东：Bettini 家族
+- **这意味着什么：**
+  - **已经把中国 PoE 交换机贴 GAMS 标卖的意大利方案商（营收 €8.9M、42 人、3 分部）→ 贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选（回信即 A）**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI 工业线一页纸 + 1:1 对照其现贴标机型；稿内不点名 ONV / ComNet
+  - 收件人 info@ 点名 Marco Contu，抄 Walter Bettini（AD）；6 次打开无回复 → 二次触达换切口「a second OEM source for your GAMS-branded switches」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：贴标 30% 目标；B BIG；加厚一次；升 A 候选；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,17 +147,19 @@ updated: 2026-10-27
 - **【用户表】用的 ONV 的 直接带标卖；还有 ComNet**
   > 用的ONV的 直接带标卖的 还有Comnet的；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marco Contu（）info@bettinivideo.com 〔用户表〕
-- **KP**：Giuseppe Costantini（） 〔用户表〕
-- **KP**：Walter Bettini（）walter.bettini@bettinivideo.com 〔用户表〕
+- **KP**：Marco Contu（Product Manager（研究档）= 收件人（第 107 批 官方登记核实 2026-10-28））info@bettinivideo.com 〔用户表〕
+- **KP**：Giuseppe Costantini（Purchasing Manager（研究档）= 抄送（第 107 批 官方登记核实 2026-10-28）） 〔用户表〕
+- **KP**：Walter Bettini（Amministratore Delegato / 联合创始人（1996，与兄弟 Massimo）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28））walter.bettini@bettinivideo.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | BETTINI S.R.L.（P.IVA / CF 11883080159；REA MI-1506925；注册 Milano，运营 Saronno VA） |
+| 成立 | 1996-09-23（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 bettinivideo.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 bettinivideo.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案；第 107 批：意大利视频监控方案商 / 制造商（自有 GAMS 品牌；2025 营收 €8.94M；42 人；分部 Firenze / Roma / Bologna；表内「用 ONV 的直接带标卖」）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选（回信即 A）**；稿内不点名 ONV / ComNet（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频监控方案（自有品牌 GAMS NVR）；PoE 交换机 / MC（ONV 贴标、ComNet）
 - **触达通道（公开）**：role: 意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet）；region: 意大利；contact: info@bettinivideo.com、walter.bettini@bettinivideo.com
@@ -249,9 +268,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marco Contu | — | info@bettinivideo.com | 调研核实（公开页） | 用户表 |
-| Giuseppe Costantini | — | — | 调研核实（公开页） | 用户表 |
-| Walter Bettini | — | walter.bettini@bettinivideo.com | 调研核实（公开页） | 用户表 |
+| Marco Contu | Product Manager（研究档）= 收件人（第 107 批 官方登记核实 2026-10-28） | info@bettinivideo.com | 调研核实（公开页） | 用户表 |
+| Giuseppe Costantini | Purchasing Manager（研究档）= 抄送（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
+| Walter Bettini | Amministratore Delegato / 联合创始人（1996，与兄弟 Massimo）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28） | walter.bettini@bettinivideo.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -344,12 +363,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

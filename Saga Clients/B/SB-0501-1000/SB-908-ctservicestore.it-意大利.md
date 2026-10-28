@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,6 +82,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 107 批（IT · 1 次检索：informazione-aziende（Ct Service Di Cerino Gianluca；VIALE DUCA D’AOSTA 43 86100 Campobasso；CF CRNGLC67L29L483I；P.IVA 01771320700；IMPRESA INDIVIDUALE；ATECO 46.47.3；Età 3–10 anni）+ reportaziende（同）+ ctservicestore.it Contattaci（Via Duca D’Aosta 43；340 7562053；ctservicemolise@gmail.com；P.IVA 01771320700）+ robarts.it（Techlu.it è lo store online di CT Service di Cerino Gianluca … punto vendita fisico a Campobasso），2026-10-28 查；https://www.informazione-aziende.it/Azienda_CT-SERVICE-DI-CERINO-GIANLUCA）：**
+
+- 法定名 / 登记号：CT Service di Cerino Gianluca（Techlu 网店 techlu.it / ctservicestore.it；坎波巴索 Viale Duca d’Aosta 43, 86100 Campobasso（莫利塞）；P.IVA 01771320700；CF CRNGLC67L29L483I）— 个体工商户（impresa individuale；ATECO 46.47.3；3–10 年）：安防 / 监控 / 自动化 / 智能家居 / 网络 门店 + 安装商网店（Ajax 目录；在售 PoE 交换机 SW8FE2FE-100W、SW4GE1GE-65W、Safire DIN PoE —「商业 PoE，ONV 的」）；联系邮箱 Gmail；群发 6 次打开 · P.IVA 01771320700；CF CRNGLC67L29L483I · 状态 **Active** · 成立 未取（3–10 年） · Impresa individuale（个体）
+- 行业码 / 经营范围：安防 / 监控 / 自动化 / 网络 零售门店 + 安装商网店（Techlu）
+- 注册地址：Viale Duca d’Aosta 43, 86100 Campobasso (CB)
+- 规模档：个体（1–3 人）
+- 账目：—；—
+- 高管：Gianluca Cerino — 业主（titolare）= 唯一收件人（info@techlu.it / ctservicemolise@gmail.com）
+- 控制人 / 股东：Gianluca Cerino
+- **这意味着什么：**
+  - **1 人安防门店 + 网店（已卖 ONV 式商用 PoE）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP 对照其 SW8FE2FE-100W 价位）；无回声 → 不动**
+  - 收件人直呼 Gianluca；6 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；意语一句引子；MOQ 1 + T/T 对个体友好可提
+- 备注：分销 20% small；一页纸一次 → 不动；坐实（P.IVA 个体）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,14 +139,17 @@ updated: 2026-10-27
 - **【用户表】商业 PoE ONV 的**
   > 商业PoE ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Gianluca Cerino（Titolare（个体工商户业主）= 唯一收件人（info@techlu.it）（第 107 批 官方登记核实 2026-10-28））info@techlu.it 〔https://www.informazione-aziende.it/Azienda_CT-SERVICE-DI-CERINO-GIANLUCA〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | CT Service di Cerino Gianluca（impresa individuale；P.IVA 01771320700；CF CRNGLC67L29L483I；Campobasso） |
+| 成立 | 未取（3–10 年）（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 ctservicestore.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 ctservicestore.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 107 批：坎波巴索 1 人安防门店 + Techlu 安装商网店（已卖 ONV 式商用 PoE）→ **分销 20% small，一页纸一次；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：报警 / 监控 / 对讲安装与网店
 - **触达通道（公开）**：role: 个体安防安装商兼网店（意大利南部）；region: 意大利；contact: ctservicemolise@gmail.com
@@ -232,7 +249,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | ctservicemolise@gmail.com | 用户表原值 | Clients/ 表 |
+| Gianluca Cerino | Titolare（个体工商户业主）= 唯一收件人（info@techlu.it）（第 107 批 官方登记核实 2026-10-28） | info@techlu.it | 调研核实（公开页） | https://www.informazione-aziende.it/Azienda_CT-SERVICE-DI-CERINO-GIANLUCA |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -325,12 +342,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

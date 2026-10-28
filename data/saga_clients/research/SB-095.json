@@ -49,7 +49,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 mtechnology.it，语言 it，快照状态 ok；角色判定来源：用户表；第 90 批检索同名多户（「M Technology srl」Olbia / Vinchiaturo 两家一人公司，均无法与 mtechnology.it 对上）→ 未能锁定，不写回登记（第 90 批 官方登记核实 2026-10-27）"
+  "other": "官网 mtechnology.it，语言 it，快照状态 ok；角色判定来源：用户表；第 90 批检索同名多户（「M Technology srl」Olbia / Vinchiaturo 两家一人公司，均无法与 mtechnology.it 对上）→ 未能锁定，不写回登记（第 90 批 官方登记核实 2026-10-27）；第 107 批：面向工业 / 极端环境的 AI 视频监控品牌商，**自有型号工业 PoE 交换机 MT-TP7-16GT240BT / MT-TP7308POE / MT-TP7324GE-POE / MT-TP7224E-POE（Utepo 式）**，只经认证安装商销售（Gamma Commerciale 载其价表）→ **贴标 OEM 30% 正中目标，B BIG，加厚一次；升 A 次候选**；法人名 / 所在地待补证（第 107 批 官方登记核实 2026-10-28）",
+  "legal_name": "Mtechnology（注册商标 / Divisione Italiana；P.IVA 02451810960 站脚；法人全名未取 → 部分坐实）",
+  "founded": "未取（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业/极端环境视频监控系统",

@@ -81,6 +81,20 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（CZ · 1 次检索：rejstrik.penize.cz（XCAM CZech s.r.o.；IČO 29397839；Datum vzniku a zápisu 29. 2. 2012；Jednatel Alexandr Grepl Ostrava od 29.2.2012；Počet členů 1）+ zivefirmy（IČ 29397839；DIČ CZ29397839；DS y2rah2u）+ xcam.cz（Gen Piky 1A Ostrava；IČO 29397839 / DIČ CZ29397839；kamery pro solární elektrárny a LAN prvky）+ firmy.cz（Gen. Píky 3038/1a；30 years of experience；Jablotron），2026-10-28 查；https://rejstrik.penize.cz/29397839-xcam-czech-s-r-o）：**
+
+- 法定名 / 登记号：XCAM CZech s.r.o.（xcam.cz；俄斯特拉发 Gen. Píky 3038/1a, 702 00 Ostrava – Moravská Ostrava；IČO 29397839；DIČ CZ29397839）— 2012-02-29 登记的小型安防集成 / 安装商（摄像系统安装维护、报警 / 门禁、车牌识别道闸、工地延时、光伏电站摄像；Jablotron / AXIS；官网提 LAN 元件）；jednatel Alexandr Grepl（唯一，2012 起）；表内「已在用 E-link 产品，9 次推送无回复」；群发 5 次打开 · IČO 29397839；DIČ CZ29397839 · 状态 **Active** · 成立 2012-02-29 · s.r.o.（一人公司）
+- 行业码 / 经营范围：安防系统集成 / 安装（CCTV / 报警 / 门禁 / 车牌识别 / 光伏电站监控）
+- 注册地址：Gen. Píky 3038/1a, 702 00 Ostrava – Moravská Ostrava
+- 规模档：小微（1–5 人）
+- 账目：—；—
+- 高管：Alexandr Grepl — jednatel（唯一）= 拍板人 / 收件人
+- 控制人 / 股东：Alexandr Grepl（推定）
+- **这意味着什么：**
+  - **小型安装商（已用国产 E-link 类 PoE）→ 集成 25% small，一页纸一次（STC-028GP / STI-054GP 对光伏电站 / 道闸场景）；9 次无回复 + 无回声 → 不动**
+  - 收件人直呼 Alexandr；5 次打开无回复 → 二次触达换切口「outdoor-cabinet PoE for solar-plant cameras」；发信窗口 Thu 12–14 CET；捷克语一句引子
+- 备注：集成 25% small；一页纸一次 → 不动；坐实（IČO）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - Kč 1,480 ← 「Produkty LAN SWITCH LAN PoE MiniSwitch 4+1, Industrial, POE booster 12V, X-IMC005GP Kč 1,480」（https://xcam.cz/）
@@ -120,14 +134,16 @@ updated: 2026-10-28
 - **【姊妹站】DIN 导轨 PoE 交换机主推**
   > Jedinečný PoE switch pro DIN montáž a pasující do standardních rozvaděčů. Ušetří čas instalace a místo pro Vaše kamerové rozvody. V nabídce také standardní PoE switche do racku
   > 来源：https://www.excam.cz/（抓取 2026-10-21）
+- **KP**：Alexandr Grepl（Jednatel（唯一；2012 起；obchodní rejstřík）= 拍板人 / 收件人（第 107 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/29397839-xcam-czech-s-r-o〕
 - **调研后定级**：B（原自动 A）——小型安装商、9 次推送零回复、无自有品牌；与早期 AI 评估（30% B）一致。B 慢跟。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网网店自有标核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Xcam.cz（含姊妹站 excam.cz） |
-| 其他 | 捷克摄像系统安装商 + 网店：安防摄像安装/维护、报警与门禁（住宅、写字楼、厂房）、**光伏电站摄像**；网店以 **X- 自有标**销售工业小型 PoE 交换机（X-IMC005GP 4+1 工业迷你 PoE 带 12V 升压 Kč 1,480；X-104GP-SFP 4 PoE + 1 SFP 工业 12~48VDC 升压 Kč 1,680），excam.cz 主推「DIN 导轨 PoE 交换机，装进标准配电箱」 |
+| 法定名称 | XCAM CZech s.r.o.（IČO 29397839；DIČ CZ29397839；Ostrava） |
+| 成立 | 2012-02-29（第 107 批 官方登记核实 2026-10-28） |
+| 其他 | 捷克摄像系统安装商 + 网店：安防摄像安装/维护、报警与门禁（住宅、写字楼、厂房）、**光伏电站摄像**；网店以 **X- 自有标**销售工业小型 PoE 交换机（X-IMC005GP 4+1 工业迷你 PoE 带 12V 升压 Kč 1,480；X-104GP-SFP 4 PoE + 1 SFP 工业 12~48VDC 升压 Kč 1,680），excam.cz 主推「DIN 导轨 PoE 交换机，装进标准配电箱」；第 107 批：俄斯特拉发一人安防集成 / 安装商（CCTV / 报警 / 车牌识别 / 光伏电站监控；Jablotron / AXIS；已用 E-link 类 PoE）→ **集成 25% small，一页纸一次（STI-054GP 对光伏 / 道闸场景）；9 次无回复 → 不动**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：摄像系统安装与维护（含光伏电站）；报警与门禁；网店：X- 自有标工业 PoE 小交换机、LAN 配件
 
@@ -227,7 +243,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@xcam.cz | 用户表原值 | Clients/ 表 |
+| Alexandr Grepl | Jednatel（唯一；2012 起；obchodní rejstřík）= 拍板人 / 收件人（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejstrik.penize.cz/29397839-xcam-czech-s-r-o |
 
 - **通道建议**：邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -296,7 +312,7 @@ updated: 2026-10-28
 **主题**：STI-144GP - compact industrial switch (neutral label)
 
 ```text
-Hello,
+Hi Alexandr,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the X-104GP-SFP slot in your shop, the 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $36.9 EXW; shall I send the label template for the next batch?
 

@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（IT · 1 次检索：intellisystem.it Contacts（Intellisystem Technologies S.r.l.；P.IVA e C.F. IT01424300893；Via Augusto Murri N°1 96100 Siracusa；+39 0931-1756256）+ reportaziende（Sede legale Via Augusto Murri 1 Siracusa；ATECO 26.20.00）+ impresaitalia（Classe di fatturato 0–0,25 Ml；dipendenti 2–5；P.IVA 01424300893）+ About Us（President & CEO Cristian Randieri PhD；Clelia Rizza Founding Board Member；Roberta Cassarino Communication Manager）+ Crunchbase（established 2000 as engineering office；CEO & Founder since 2003-03-22）；REA 未取，2026-10-28 查；https://www.intellisystem.it/en/intellisystem-contact/）：**
+
+- 法定名 / 登记号：Intellisystem Technologies S.r.l.（intellisystem.it；锡拉库萨 Via Augusto Murri 1, 96100 Siracusa；P.IVA / CF 01424300893）— 2000 年起（S.r.l. 2003）由 Cristian Randieri 博士创立的工业网络 / 监控 / 自动化 / 远程控制方案商（在售 3onedata 工业交换机；ATECO 26.20）；2–5 人、营收 <€0.25M 口径（impresaitalia）；President & CEO Cristian Randieri；研究档 KP「Walter Randieri Engineer」「Clelia Randieri Sales Manager」疑为误归属（官网：Clelia Rizza 创始董事）；群发 6 次 5 次打开 · P.IVA / CF 01424300893（REA 未取） · 状态 **Active** · 成立 2000（事务所）/ 2003（S.r.l.） · S.r.l.（创始人持有）
+- 行业码 / 经营范围：工业网络 / 监控 / 自动化方案 + 研发（在售 3onedata 工业交换机；ATECO 26.20）
+- 注册地址：Via Augusto Murri 1, 96100 Siracusa
+- 规模档：小微（2–5 人）
+- 账目：营收 <€0.25M（口径）；—
+- 高管：Cristian Randieri — President & CEO / 创始人 = 拍板人 / 收件人（randieri@intellisystem.it；研究档写作 Walter Randieri 疑为误归属 → 同一邮箱）
+- 高管：Clelia Rizza — Founding Board Member（研究档写作 Clelia Randieri）
+- 控制人 / 股东：Randieri
+- **这意味着什么：**
+  - **2–5 人工业方案商（卖 3onedata）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 1:1 对照 3onedata 同口数）；无回声 → 不动**；稿内不点名 3onedata
+  - 收件人 randieri@ 直呼 Cristian（CEO）；5 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20% small；一页纸一次 → 不动；坐实（P.IVA + 官网）；KP 名修正 Cristian Randieri。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,17 +129,18 @@ updated: 2026-10-28
 - **【用户表】三旺的**
   > 兴趣：三旺的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Walter Randieri（）randieri@intellisystem.it 〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Clelia Randieri（）info@intellisystem.it 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Cristian Randieri（President & CEO / 创始人（官网 About Us；研究档误作 Walter Randieri）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28））randieri@intellisystem.it 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Clelia Rizza（Founding Board Member（官网 About Us；研究档误作 Clelia Randieri）= 抄送（第 107 批 官方登记核实 2026-10-28））info@intellisystem.it 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Intellisystem Technologies S.r.l. |
+| 法定名称 | Intellisystem Technologies S.r.l.（P.IVA / CF 01424300893；Siracusa；REA 未取） |
+| 成立 | 2000（事务所）/ 2003（S.r.l.）（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Italy（西西里，待核） |
-| 其他 | 已进口中国同行 3onedata；OEM 词频 14 |
+| 其他 | 已进口中国同行 3onedata；OEM 词频 14；第 107 批：锡拉库萨 2–5 人工业网络 / 监控 / 自动化方案商（在售 3onedata 工业交换机；营收 <€0.25M 口径）→ **分销 20% small，一页纸一次（STI 1:1 对照 3onedata 同口数）；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络 / 监控 / 自动化方案
 - **触达通道（公开）**：role: 方案商 / 经销（已售中国同行）；region: 意大利
@@ -212,8 +228,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Walter Randieri | — | randieri@intellisystem.it | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Clelia Randieri | — | info@intellisystem.it | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Cristian Randieri | President & CEO / 创始人（官网 About Us；研究档误作 Walter Randieri）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28） | randieri@intellisystem.it | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Clelia Rizza | Founding Board Member（官网 About Us；研究档误作 Clelia Randieri）= 抄送（第 107 批 官方登记核实 2026-10-28） | info@intellisystem.it | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Walter Randieri | — | info@intellisystem.it / randieri@intellisystem.it | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -282,7 +299,7 @@ updated: 2026-10-28
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hi Walter,
+Hi Cristian,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Beside the 3onedata units you carry — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms) at $79 EXW, same import flow you already use; one sample for a side-by-side?
 

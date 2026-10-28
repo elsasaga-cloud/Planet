@@ -49,8 +49,9 @@
   "level": "B 级加厚 v1（官网网店自有标核对）"
  },
  "company_facts": {
-  "legal_name": "Xcam.cz（含姊妹站 excam.cz）",
-  "other": "捷克摄像系统安装商 + 网店：安防摄像安装/维护、报警与门禁（住宅、写字楼、厂房）、**光伏电站摄像**；网店以 **X- 自有标**销售工业小型 PoE 交换机（X-IMC005GP 4+1 工业迷你 PoE 带 12V 升压 Kč 1,480；X-104GP-SFP 4 PoE + 1 SFP 工业 12~48VDC 升压 Kč 1,680），excam.cz 主推「DIN 导轨 PoE 交换机，装进标准配电箱」"
+  "legal_name": "XCAM CZech s.r.o.（IČO 29397839；DIČ CZ29397839；Ostrava）",
+  "other": "捷克摄像系统安装商 + 网店：安防摄像安装/维护、报警与门禁（住宅、写字楼、厂房）、**光伏电站摄像**；网店以 **X- 自有标**销售工业小型 PoE 交换机（X-IMC005GP 4+1 工业迷你 PoE 带 12V 升压 Kč 1,480；X-104GP-SFP 4 PoE + 1 SFP 工业 12~48VDC 升压 Kč 1,680），excam.cz 主推「DIN 导轨 PoE 交换机，装进标准配电箱」；第 107 批：俄斯特拉发一人安防集成 / 安装商（CCTV / 报警 / 车牌识别 / 光伏电站监控；Jablotron / AXIS；已用 E-link 类 PoE）→ **集成 25% small，一页纸一次（STI-054GP 对光伏 / 道闸场景）；9 次无回复 → 不动**（第 107 批 官方登记核实 2026-10-28）",
+  "founded": "2012-02-29（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "摄像系统安装与维护（含光伏电站）",
@@ -160,5 +161,13 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "kp": [
+  {
+   "name": "Alexandr Grepl",
+   "role": "Jednatel（唯一；2012 起；obchodní rejstřík）= 拍板人 / 收件人（第 107 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://rejstrik.penize.cz/29397839-xcam-czech-s-r-o"
+  }
+ ]
 }

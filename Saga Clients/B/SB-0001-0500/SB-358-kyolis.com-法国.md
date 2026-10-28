@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,6 +87,22 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 107 批（FR · 1 次检索：societe.com（KYOLIS；SIREN 519 722 698；SIRET 519 722 698 00023；TVA FR00519722698；création 22/01/2010；NAF 4669B；SAS；2 rue de la Renaissance 92160 Antony；Président Thomas ELEAUME depuis 2011-08-06；DG Stéphane MANUSE depuis 2024-06-28）+ pappers（Effectif 6–9 salariés 2022；Capital 100 000；1 procédure enregistrée）+ infonet（RCS Nanterre；Active）+ 官网 Notre histoire（Créée en 2010 … fabrication française；atelier Chambéry fin 2022，production 2023；siège Antony）+ lefigaro 公告（capital 100.000 €；AG 2024-05-16 任命 DG），2026-10-28 查；https://www.societe.com/societe/kyolis-519722698.html）：**
+
+- 法定名 / 登记号：KYOLIS SAS（kyolis.com；总部 2 rue de la Renaissance 92160 Antony，研发 / 工厂 / 售后 1 rue de la Banque 73000 Chambéry（2023 起投产）；SIREN 519 722 698 RCS Nanterre；TVA FR00519722698）— 2010-01 由 Stéphane Manuse 与 Thomas Eleaume 创立的法国光纤 / 同轴以太网传输设备与工业交换机品牌商（自有 logo；「法国制造」）；股本 €100,000；6–9 人（2022）；Président Thomas Eleaume（2011 起）、DG Stéphane Manuse（2024-06 起）；pappers 标注 1 项登记程序（性质未查）；群发 6 次打开 · SIREN 519 722 698（RCS Nanterre）；TVA FR00519722698 · 状态 **Active** · 成立 2010-01-22（RCS） · SAS（私有；股本 €100,000）
+- 行业码 / 经营范围：光纤 / 同轴以太网传输设备、工业交换机 品牌商（自有 logo；部分法国组装）
+- 注册地址：2 rue de la Renaissance, 92160 Antony（工厂 1 rue de la Banque, 73000 Chambéry）
+- 规模档：小微（6–9 人）
+- 账目：—；—
+- 高管：Thomas Eleaume — Président（2011 起）= 拍板人（研究档 KP）
+- 高管：Stéphane Manuse — Directeur général / 技术（2024-06 起）= 收件人（stephane.manuse@）
+- 控制人 / 股东：Eleaume / Manuse（创始人）
+- 抵押 / 诉讼 / 担保：pappers：1 项登记程序（性质未查）
+- **这意味着什么：**
+  - **自有 logo 的法国小品牌商（工业 MC / FS / SFP / EoC）→ 贴标 OEM 30% 目标（Kyolis 标导轨工业 PoE / 光口机，补其自产线以外的 SKU）+ 分销 20%，B BIG，加厚一次；升 A 次候选**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 一页纸 + 1:1 规格对照；稿内不说「made in France 替代」
+  - 收件人 stephane.manuse@ 直呼 Stéphane，抄 Thomas Eleaume；6 次打开无回复 → 二次触达换切口「fill your catalogue gaps under your own label」；发信窗口 Thu 12–14 CET；法语一句引子
+- 备注：贴标 30% 目标 + 分销 20%；B BIG；加厚一次；升 A 次候选；坐实（SIREN）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,16 +145,18 @@ updated: 2026-10-27
 - **【用户表】工业 MC 工业 FS SFP EoC 自己的 logo**
   > 工业MC 工业FS SFP EOC 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Stephane Manuse（）stephane.manuse@kyolis.com 〔用户表〕
-- **KP**：Thomas Eleaume（） 〔用户表〕
+- **KP**：Stéphane Manuse（Directeur général（2024-06 起；联合创始人 / 技术）= 收件人（第 107 批 官方登记核实 2026-10-28））stephane.manuse@kyolis.com 〔用户表〕
+- **KP**：Thomas Eleaume（Président（2011 起；联合创始人；societe.com）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | KYOLIS SAS（SIREN 519 722 698 RCS Nanterre；TVA FR00519722698；Antony，工厂 Chambéry） |
+| 成立 | 2010-01-22（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 法国 |
-| 其他 | 官网 kyolis.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 kyolis.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表；第 107 批：法国光纤 / 同轴以太网传输设备与工业交换机品牌商（自有 logo；Chambéry 2023 投产；股本 €100,000；6–9 人；pappers 标注 1 项登记程序，性质未查）→ **贴标 OEM 30% 目标（Kyolis 标导轨工业 PoE / 光口机补其 SKU）+ 分销 20%，B BIG，加厚一次；升 A 次候选**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤/同轴数据转换器（自有品牌 Kyolis）；工业与可管理以太网交换机
 - **触达通道（公开）**：role: 法国光纤传输制造商（自有 Kyolis 标，交换机二供口径）；region: 法国；contact: sales@kyolis.com、stephane.manuse@kyolis.com
@@ -245,8 +263,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Stephane Manuse | — | stephane.manuse@kyolis.com | 调研核实（公开页） | 用户表 |
-| Thomas Eleaume | — | — | 调研核实（公开页） | 用户表 |
+| Stéphane Manuse | Directeur général（2024-06 起；联合创始人 / 技术）= 收件人（第 107 批 官方登记核实 2026-10-28） | stephane.manuse@kyolis.com | 调研核实（公开页） | 用户表 |
+| Thomas Eleaume | Président（2011 起；联合创始人；societe.com）= 拍板人（抄送）（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 | Stephane | — | sales@kyolis.com / stephane.manuse@kyolis.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -341,12 +359,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

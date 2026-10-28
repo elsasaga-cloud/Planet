@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 107 批（CZ · 1 次检索：or.justice.cz（Inthouse Systems s.r.o.；IČO 054 05 947；C 263202 Městský soud v Praze；Den zápisu 19. září 2016；Grafická 769/9 Smíchov）+ rejstrik.penize.cz（Jednatel Andrej Hraško Bratislava od 19.9.2016；Jednatel Matej Snoha Banská Bystrica od 5.1.2017；每位 jednatel 单独代表）+ kurzy.cz（Z. kapitál 2 000 Kč）+ hlidacstatu（Skuteční majitelé Hraško + Snoha 2022-09-30）+ inthouse.eu Privacy（Inthouse Systems s.r.o. Grafická 769/9 … IČO 05405947），2026-10-28 查；https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o）：**
+
+- 法定名 / 登记号：Inthouse Systems s.r.o.（inthouse.eu；布拉格 Grafická 769/9, Smíchov, 150 00 Praha 5；IČO 05405947；C 263202 MSPH）— 2016-09-19 登记（品牌 2013 起）的楼宇自动化软件 / 云网关小公司（Inthouse App / Studio / Cloud + Inthouse Hub，接 Siemens 等楼控）；注册资本 2,000 Kč；jednatelé 兼实益所有人 Andrej Hraško（2016）+ Matej Snoha（2017，创始人），均为斯洛伐克人；约 4 人；群发 5 次打开 · IČO 05405947；C 263202 MSPH · 状态 **Active（1 aktivní živnost）** · 成立 2016-09-19 · s.r.o.（两名斯洛伐克创始人持有；注册资本 2,000 Kč）
+- 行业码 / 经营范围：楼宇自动化软件 / 云网关（Inthouse Hub）
+- 注册地址：Grafická 769/9, Smíchov, 150 00 Praha 5
+- 规模档：小微（≈4 人）
+- 账目：—；—
+- 高管：Matej Snoha — jednatel / 创始人 = 拍板人 / 收件人
+- 高管：Andrej Hraško — jednatel / 实益所有人
+- 控制人 / 股东：Hraško / Snoha
+- **这意味着什么：**
+  - **软件 / 网关公司，硬件采购量极小 → 采购型 25% 一页纸一次（STC-028GP 配 Hub 机柜）；无回声 → 不动**
+  - 收件人点名 Matej Snoha；5 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET
+- 备注：采购型 25% tiny；一页纸一次 → 不动；坐实（IČO）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,6 +131,8 @@ updated: 2026-10-28
   > 升压5电口 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
+- **KP**：Matej Snoha（Jednatel / 创始人 / 实益所有人（2017 起；or.justice.cz）= 拍板人 / 收件人（第 107 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o〕
+- **KP**：Andrej Hraško（Jednatel / 实益所有人（2016 起）（第 107 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o〕
 - **调研后定级**：B（原自动 A）——0 回复 / 6 次推送，核心业务未确认，用户 AI 评估亦为 B→C 区间；RFQ 历史说明需求曾真实 → 不降 C，B 慢跟。
 - 备注：一次性邮件给 5 口/8 口 PoE（STI-244GP / STC-28DGGPM）价格即可。
 
@@ -123,10 +140,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Inthouse Systems s.r.o.（IČO 05405947） |
-| 成立 | 2013 |
+| 法定名称 | Inthouse Systems s.r.o.（IČO 05405947；C 263202 MSPH；Praha 5） |
+| 成立 | 2016-09-19（第 107 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Grafická 769/9, 150 00 Praha 5, Czechia（+420 722 476 554；support@inthouse.eu） |
-| 其他 | Siemens Climatix PLC 云网关与 App；64 伙伴/制造商；白标 App |
+| 其他 | Siemens Climatix PLC 云网关与 App；64 伙伴/制造商；白标 App；第 107 批：布拉格楼宇自动化软件 / 云网关公司（≈4 人；注册资本 2,000 Kč；两名斯洛伐克创始人）→ **采购型 25% tiny，一页纸一次；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Inthouse Hub 云网关 + App（Siemens Climatix PLC 远程控制）；面向暖通/热泵设备制造商的白标方案
 - **触达通道（公开）**：网站: https://inthouse.eu/；电话: +420 722 476 554（公开）；邮箱（公开）: support@inthouse.eu
@@ -214,6 +231,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Matej Snoha | Jednatel / 创始人 / 实益所有人（2017 起；or.justice.cz）= 拍板人 / 收件人（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o |
+| Andrej Hraško | Jednatel / 实益所有人（2016 起）（第 107 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o |
 | Andrej Hrasko | — | andrej.hrasko@inthouse.eu | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -284,7 +303,7 @@ updated: 2026-10-28
 **主题**：STI-144GP - compact industrial switch (neutral label)
 
 ```text
-Hi Andrej,
+Hi Matej,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Climatix panels your partners ship with an Inthouse Hub: a DIN-rail 4-port gigabit PoE switch with one uplink (44–57 V DC, −40 to +75 °C) is $35.5 EXW — how many panels a month would need one?
 

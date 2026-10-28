@@ -43,7 +43,8 @@
    "title": "Technical/Commercial Agent",
    "email": "agostino.avolio@elmospa.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Technical / Commercial Agent（研究档）= 收件人（代理，非采购 → 抄 info@ 点名 Ufficio Acquisti）（第 107 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Mauro Felice",
@@ -62,7 +63,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 elmospa.com，语言 en-gb，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 elmospa.com，语言 en-gb，快照状态 ok；角色判定来源：用户表；第 107 批：帕多瓦专业安防系统制造商（入侵 EN 50131 / 门禁 / CCTV / 无线；经销商 / 安装商渠道；股本 €3M；2025 营收 €30.57M、净利 €1.49M；79 人；表内「CCTV 帧田交换机」）→ **贴标 OEM 30% 目标（EL.MO. 标 PoE 交换机进其 CCTV 目录），B BIG，加厚一次；升 A 候选（回信即 A）**（第 107 批 官方登记核实 2026-10-28）",
+  "legal_name": "EL.MO. S.p.A. a socio unico（P.IVA / CF 00605640283；REA PD-126325；Campodarsego PD）",
+  "founded": "1976（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "专业安防系统制造（入侵 / 门禁 / CCTV / 无线）"

@@ -27,18 +27,20 @@
  ],
  "kp": [
   {
-   "name": "Walter Randieri",
+   "name": "Cristian Randieri",
    "title": "Engineer",
    "email": "randieri@intellisystem.it",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "President & CEO / 创始人（官网 About Us；研究档误作 Walter Randieri）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28）"
   },
   {
-   "name": "Clelia Randieri",
+   "name": "Clelia Rizza",
    "title": "Sales Manager",
    "email": "info@intellisystem.it",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Founding Board Member（官网 About Us；研究档误作 Clelia Randieri）= 抄送（第 107 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -49,11 +51,11 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Intellisystem Technologies S.r.l.",
-  "founded": "",
+  "legal_name": "Intellisystem Technologies S.r.l.（P.IVA / CF 01424300893；Siracusa；REA 未取）",
+  "founded": "2000（事务所）/ 2003（S.r.l.）（第 107 批 官方登记核实 2026-10-28）",
   "hq": "Italy（西西里，待核）",
   "size": "小型家族方案商",
-  "other": "已进口中国同行 3onedata；OEM 词频 14"
+  "other": "已进口中国同行 3onedata；OEM 词频 14；第 107 批：锡拉库萨 2–5 人工业网络 / 监控 / 自动化方案商（在售 3onedata 工业交换机；营收 <€0.25M 口径）→ **分销 20% small，一页纸一次（STI 1:1 对照 3onedata 同口数）；无回声 → 不动**（第 107 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业网络 / 监控 / 自动化方案"

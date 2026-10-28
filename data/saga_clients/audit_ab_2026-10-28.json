@@ -58,6 +58,11 @@
    "Üİ | geMaxx / SFPTÜRKİYE label - 2 SFP + 4 po"
   ],
   [
+   "SB-449",
+   "US 稿缺 FCC",
+   "The SW802G / SW811G-DIN positions - built to your "
+  ],
+  [
    "SB-469",
    "英文稿含非 ASCII",
    "š | Your media-converter request on Alibaba "
@@ -2330,7 +2335,7 @@
    "p1": "STI-144GP",
    "tier": 30,
    "signals": 1,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-013": {
@@ -2858,7 +2863,7 @@
    "p1": "STI-144GP",
    "tier": 25,
    "signals": 1,
-   "kp": 1,
+   "kp": 3,
    "summary": true
   },
   "SB-037": {
@@ -3122,7 +3127,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-049": {
@@ -3672,7 +3677,7 @@
    "p1": "STI-144GP",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-074": {
@@ -4288,7 +4293,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1001": {
@@ -4508,7 +4513,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 1,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1010": {
@@ -5872,7 +5877,7 @@
    "p1": "STI-280GE",
    "tier": 25,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1067": {
@@ -9502,7 +9507,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-199": {
@@ -12318,7 +12323,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-327": {
@@ -14496,7 +14501,7 @@
    "p1": "STI-288GPM",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-426": {
@@ -15007,8 +15012,8 @@
   },
   "SB-449": {
    "grade": "B",
-   "iso": "IT",
-   "country": "意大利",
+   "iso": "US",
+   "country": "美国",
    "facts": 3,
    "in": 0,
    "out": 2,
@@ -15024,7 +15029,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 4,
-   "kp": 1,
+   "kp": 3,
    "summary": true
   },
   "SB-450": {
@@ -25122,7 +25127,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 3,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-909": {
