@@ -72,6 +72,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：thuvienphapluat.vn（CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI NINH THANH；NINH THANH PRODUCTION AND TRADING COMPANY LIMITED；Mã số thuế 0106778512；Ngày cấp 27/02/2015；Số 20, ngách 24, ngõ 38, đường Xuân La；Người đại diện VŨ ĐÌNH TƯ；0904550273）+ dulieuphapluat.vn；2026-10-28，2026-10-28 查；https://thuvienphapluat.vn/ma-so-thue/cong-ty-tnhh-san-xuat-va-thuong-mai-ninh-thanh-mst-0106778512.html）：**
+
+- 法定名 / 登记号：CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI NINH THANH / NINH THANH PRODUCTION AND TRADING CO., LTD（ninhthanh.com；**MST 0106778512；发证 2015-02-27；Số 20, ngách 24, ngõ 38, đường Xuân La, Xuân Đỉnh / Tây Hồ, Hà Nội；法人代表 VŨ ĐÌNH TƯ = 表内 KP Đinh Tú Vũ ✓；0904 550 273**）— 电信 / 数字化转型 / 数字地图 方案分销；阿里巴巴 RFQ「商业千兆 1 光 4 电」；KP Đinh Tú Vũ（CEO）；未跟进 · MST 0106778512 · 状态 **营业中（已发 MST）** · 成立 2015-02-27 · Công ty TNHH
+- 行业码 / 经营范围：电信 / 数字化方案分销（Tây Hồ, Hà Nội）
+- 注册地址：Số 20, ngách 24, ngõ 38, đường Xuân La, Xuân Đỉnh, Hà Nội, Việt Nam
+- 规模档：小型
+- 账目：未取；—
+- 高管：Đinh Tú Vũ (Vũ Đình Tư) — CEO / 法人代表（研究档 KP；dinhtu.vu@ninhthanh.com；登记吻合）= 拍板人 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **CEO 本人发过 RFQ（1 光 4 电）、从未跟进 → 集成商 25% B small，一页纸一次（直接答：STI-154GP（4 PoE + 1 GE + 1 SFP）/ 商用 8+2 STC-228GP $33 一口价 + MOQ 1 + 付费样机；opener 引其 RFQ）— 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（MIC 型号核准不声称；买方清关）**；再无回声 → 不动
+- 备注：集成商 25% small；一页纸一次（预付 100%）；坐实（MST + 发证日 + 地址 + 法人代表 = KP）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +118,17 @@ updated: 2026-10-28
 - **【用户表】商业千兆 1 光 4 电 RFQ**
   > 商业千兆1光4电 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Đinh Tú Vũ（）dinhtu.vu@ninhthanh.com 〔用户表〕
+- **KP**：Đinh Tú Vũ（CEO / 法人代表（登记 VŨ ĐÌNH TƯ 吻合；阿里巴巴 RFQ 1 光 4 电）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B small、STI-154GP / STC-228GP $33 一口价 + MOQ 1 + 付费样机、opener 引其 RFQ — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））dinhtu.vu@ninhthanh.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 越南 |
-| 其他 | 官网 ninhthanh.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI NINH THANH / NINH THANH PRODUCTION AND TRADING CO., LTD（MST 0106778512） |
+| 成立 | 2015-02-27（发证）（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Số 20, ngách 24, ngõ 38, đường Xuân La, Xuân Đỉnh / Tây Hồ, Hà Nội（0904 550 273）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 ninhthanh.com，语言 en，快照状态 ok；角色判定来源：用户表；第 119 批：电信 / 数字化方案分销商，CEO 本人发过 RFQ 且从未跟进 → **集成商 25% B small，一页纸一次**；再无回声 → 不动；坐实（MST + 发证日 + 地址 + 法人代表 = KP）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信 / 数字化方案贸易（越南）
 - **触达通道（公开）**：role: 电信/数字化贸易商（越南，1 光 4 电 RFQ）；region: 越南；contact: dinhtu.vu@ninhthanh.com
@@ -171,7 +186,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Đinh Tú Vũ | — | dinhtu.vu@ninhthanh.com | 调研核实（公开页） | 用户表 |
+| Đinh Tú Vũ | CEO / 法人代表（登记 VŨ ĐÌNH TƯ 吻合；阿里巴巴 RFQ 1 光 4 电）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B small、STI-154GP / STC-228GP $33 一口价 + MOQ 1 + 付费样机、opener 引其 RFQ — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28） | dinhtu.vu@ninhthanh.com | 调研核实（公开页） | 用户表 |
 | DinhTu Vu, CEO | — | dinhtu.vu@ninhthanh.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

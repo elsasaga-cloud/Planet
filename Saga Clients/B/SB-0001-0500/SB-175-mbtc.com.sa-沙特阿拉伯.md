@@ -81,6 +81,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（SA · 1 次检索：protenders.com（M. Al-Barghash Trading & Contracting Company was established in the year 1976 in Eastern Province … 100% Saudi Owned；Head Office Al-Khobar 31952；P.O. Box 31996 Dammam；www.mbtc.com.sa）+ brandfetch（Year founded 1976；1001-5000 employees；Energy Industry）+ mustakbil（Oil & Energy；Ad Dammam）；CR 未得；2026-10-28，2026-10-28 查；https://www.protenders.com/companies/mohammad-al-barghash-trading-construction-company）：**
+
+- 法定名 / 登记号：M. Al-Barghash Trading & Contracting Company (MBTC)（mbtc.com.sa；**1976 年成立；100% 沙资；总部 Al-Khobar 31952 / P.O. Box 31996 Dammam, Eastern Province；关联 AAM Industrial（ei-telcomlead@ = 电气仪表 / 电信项目组）；1001–5000 人（brandfetch，口径存疑）；CR 号 1 查未得 → 部分坐实**）— 建筑 / 制造 / 油气行业设备与材料供应 + 承包；表内 Project Manager Prabhu Manickam 2024-01「有用但现在没需求」+ Wasi Akthar；WhatsApp 24 次无实质回复 · 未取（CR 1 查未得） · 状态 **营业中（名录）** · 成立 1976 · 沙特私营公司（100% 沙资）
+- 行业码 / 经营范围：油气 / 建筑设备材料供应 + 承包（Al-Khobar / Dammam）
+- 注册地址：Al-Khobar 31952 / P.O. Box 31996 Dammam, Eastern Province, Saudi Arabia
+- 规模档：大型（口径存疑）
+- 账目：未取；—
+- 高管：Prabhu Manickam — Project Manager（研究档 KP；prabhu@mbtc.com.sa）
+- 高管：Wasi Akthar — E&I / Telecom lead（研究档 KP；ei-telcomlead@aamindustrial.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **油气项目型大承包商 + 明说没需求 + WA 24×0 → 不动（B 保留；项目来询按集成商 25% 报，预付 100%）**— 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SASO / SABER 不声称）
+- 备注：不动（项目型 + 24×0）；部分坐实（名录：成立年 + 总部；CR 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,18 +130,18 @@ updated: 2026-10-28
 - **【用户表】做项目的，问了几个产品；2024-01 2 光 4→有用但现在没需求**
   > 兴趣：做项目的 问了几个产品；回复：有用但现在没需求
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Prabhu Manickam（）prabhu@mbtc.com.sa +966 57 201 2594〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Wasi Akthar（）ei-telcomlead@aamindustrial.com 0572012594（2023-06-19 签名；与用户表记在 Prabhu 名下的 +966 57 201 2594 同号——同一手机，谁在用待核）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Prabhu Manickam（Project Manager（研究档；2024-01「有用但现在没需求」；WA 24×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28））prabhu@mbtc.com.sa +966 57 201 2594〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Wasi Akthar（E&I / Telecom lead（研究档 Wasi Akthar；AAM Industrial 项目组）— 不动（第 119 批 官方登记核实 2026-10-28））ei-telcomlead@aamindustrial.com 0572012594（2023-06-19 签名；与用户表记在 Prabhu 名下的 +966 57 201 2594 同号——同一手机，谁在用待核）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | M. Al Barghash Trading & Contracting Co. |
-| 成立 | 1976 |
-| 总部/地址 | Eastern Province, Saudi Arabia（Dammam/Al Khobar，待核） |
-| 其他 | 关联 AAM Industrial（aamindustrial.com） |
+| 法定名称 | M. Al-Barghash Trading & Contracting Company (MBTC)（1976；100% 沙资；关联 AAM Industrial；CR 号 1 查未得） |
+| 成立 | 1976（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Al-Khobar 31952 / P.O. Box 31996 Dammam, Eastern Province, Saudi Arabia（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 关联 AAM Industrial（aamindustrial.com）；第 119 批：油气 / 建筑设备材料供应 + 承包（项目型），明说没需求 + WA 24×0 → **不动（B 保留；项目来询按集成商 25% 报，预付 100%）**；部分坐实（名录）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业 / 油气项目承包（电气仪表、电信）；贸易
 - **触达通道（公开）**：role: 项目承包商（EPC 分包）；region: 沙特东部省（油气区）
@@ -220,8 +234,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Prabhu Manickam | — | prabhu@mbtc.com.sa / +966 57 201 2594 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Wasi Akthar | — | ei-telcomlead@aamindustrial.com / 0572012594（2023-06-19 签名；与用户表记在 Prabhu 名下的 +966 57 201 2594 同号——同一手机，谁在用待核） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Prabhu Manickam | Project Manager（研究档；2024-01「有用但现在没需求」；WA 24×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28） | prabhu@mbtc.com.sa / +966 57 201 2594 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Wasi Akthar | E&I / Telecom lead（研究档 Wasi Akthar；AAM Industrial 项目组）— 不动（第 119 批 官方登记核实 2026-10-28） | ei-telcomlead@aamindustrial.com / 0572012594（2023-06-19 签名；与用户表记在 Prabhu 名下的 +966 57 201 2594 同号——同一手机，谁在用待核） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 24 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

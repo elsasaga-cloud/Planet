@@ -93,6 +93,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 119 批（MY · 1 次检索：maukerja.my/en/company/sun-energy-enterprise-sdn-bhd（Company SSM No 800805-W；<50 Employees；54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong）+ facebook（+60 3-6242 6818；info@sunenergy.com.my）+ caricari（Wholesale & Retail；52100 Kuala Lumpur）；2026-10-28，2026-10-28 查；https://www.maukerja.my/en/company/sun-energy-enterprise-sdn-bhd）：**
+
+- 法定名 / 登记号：Sun Energy Enterprise Sdn Bhd（sunenergy.com.my；**SSM 800805-W；54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong, 52100 Kuala Lumpur；+60 3 6242 6818；<50 人**）— CCTV / 报警 / 停车场 / 门禁对讲 / SMATV / 考勤 / 网络与服务器 供应安装；MD Tan Chan Sun（陈先生，会中文）关心电源输入上限与防雷；无跟进 · SSM 800805-W · 状态 **营业中（名录 + 社媒）** · 成立 未取（800805 ≈ 2008 段） · Sdn Bhd
+- 行业码 / 经营范围：安防 / 弱电系统供应安装（Kepong KL）
+- 注册地址：54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong, 52100 Kuala Lumpur, Malaysia
+- 规模档：小型（<50）
+- 账目：未取；—
+- 高管：Tan Chan Sun（陈先生）— Managing Director（研究档 KP；chansun@sunenergy.com.my）= 拍板人 / 收件人（英文稿，不走中文直联）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **本地安防 SI、MD 本人为 KP、问题具体（电源输入上限 / 防雷）→ 集成商 25% B，一页纸一次（直接答：STI 导轨机 DC 输入范围与浪涌等级按规格书逐条给、STC-2216GP / 2224GP 摄像机 PoE 一口价 + MOQ 1 + 付费样机）— 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（SIRIM 不声称；DAP 买方清关）**；回信 → 加厚
+- 备注：集成商 25%；一页纸一次；坐实（SSM 号 + 地址 + 电话）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,17 +131,17 @@ updated: 2026-10-28
 - **【用户表】本地做安防，会说中文，对交换机有兴趣，特别关心电源输入（最大值）和防雷；地址 54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong**
   > 兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Tan Chan Sun（陈先生）（）chansun@sunenergy.com.my +60 12 268 2818〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Tan Chan Sun（陈先生）（Managing Director（研究档；陈先生，会中文 → 英文稿；关心电源输入上限与防雷）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、STI 导轨机 DC 输入范围 / 浪涌等级按规格书逐条答、STC-2216GP / 2224GP 摄像机 PoE 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））chansun@sunenergy.com.my +60 12 268 2818〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Sun Energy Enterprise Sdn. Bhd. |
+| 法定名称 | Sun Energy Enterprise Sdn Bhd（SSM 800805-W） |
 | 成立 | （待核） |
-| 总部/地址 | 54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong, 52100 Kuala Lumpur |
-| 其他 | 中文沟通 |
+| 总部/地址 | 54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong, 52100 Kuala Lumpur（+60 3 6242 6818）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 中文沟通；第 119 批：CCTV / 报警 / 停车 / 门禁 / 网络 供应安装商，MD 本人 KP、问题具体 → **集成商 25% B，一页纸一次**；回信 → 加厚；坐实（SSM 号 + 地址 + 电话）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统安装
 - **触达通道（公开）**：role: 安防安装商；region: 马来西亚
@@ -195,7 +208,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tan Chan Sun（陈先生） | — | chansun@sunenergy.com.my / +60 12 268 2818 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Tan Chan Sun（陈先生） | Managing Director（研究档；陈先生，会中文 → 英文稿；关心电源输入上限与防雷）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、STI 导轨机 DC 输入范围 / 浪涌等级按规格书逐条答、STC-2216GP / 2224GP 摄像机 PoE 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28） | chansun@sunenergy.com.my / +60 12 268 2818 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

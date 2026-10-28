@@ -80,6 +80,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：masothue.com/0309279999（CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SONG THÀNH CÔNG；247/8B Hoàng Hoa Thám, Phường 05, Quận Phú Nhuận；Đang hoạt động；Bán buôn các thiết bị phòng cháy, chữa cháy）+ yellowpages.vn（Mã số thuế 0309279999；Thành lập 2009；(028) 35074676；pricing@stc-vietnam.com）+ stc-vietnam.com/nha-san-xuat/moxa-1；2026-10-28，2026-10-28 查；https://masothue.com/0309279999-cong-ty-tnhh-thuong-mai-dich-vu-song-thanh-cong）：**
+
+- 法定名 / 登记号：CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SONG THÀNH CÔNG（STC Vietnam；stc-vietnam.com / songthanhcong.com；**MST 0309279999；2009 年成立；247/8B Hoàng Hoa Thám, P.5, Q. Phú Nhuận, TP.HCM；(028) 3507 4676；代表处 Thủ Đức；登记主业「消防设备批发」≠ 网站工业自动化（部分坐实 + 标记）**）— 工业自动化元器件贸易（Moxa / Advantech / NSD / E2S 等数十品牌；报价部 pricing@）；KP Mr. Linh（采购；表内注 MaiWe）/ Mr. Đức（Sales）2024 多次要价 · MST 0309279999 · 状态 **Đang hoạt động（营业中）** · 成立 2009 · Công ty TNHH（民营）
+- 行业码 / 经营范围：工业自动化元器件贸易（登记 消防设备批发）（Phú Nhuận, HCMC）
+- 注册地址：247/8B Hoàng Hoa Thám, P.5, Q. Phú Nhuận, TP. Hồ Chí Minh, Việt Nam
+- 规模档：小型
+- 账目：未取；—
+- 高管：Mr. Linh — 采购（研究档 KP；linh@songthanhcong.com）= 收件人
+- 高管：Mr. Đức — Sales（研究档 KP；duc@stc-vietnam.com）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **16 年工业品贸易商、采购多次要价、在供台系 + 国内工业机 → 分销 20% B，一页纸一次（STI-288DGGPM / STI-488DGGPM / STI-154GP 一口价 + 3 年保 + MOQ 1 + 付费样机；串口 MC 不做明说；不点名 Moxa / Maiwe）— 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（MIC 型号核准不声称；买方清关）**；回信 → 加厚
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（MST + 地址 + 成立年；登记主业 ≠ 网站业务，标记）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,17 +120,18 @@ updated: 2026-10-28
 - **【用户表】Moxa 分销商；工业 FS、串口 MC；回复价格 官网 ×2、价格、主要是工业品**
   > 兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mr. Linh（）linh@songthanhcong.com +84 374 133 044〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Mr. Đức（）duc@stc-vietnam.com +84 379 720 873〔https://stc-vietnam.com/〕
+- **KP**：Mr. Linh（采购（研究档；表内注 MaiWe；2024 多次要价）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM / STI-488DGGPM / STI-154GP 一口价 + 3 年保 + MOQ 1 + 付费样机、串口 MC 不做明说、不点名 Moxa / Maiwe — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））linh@songthanhcong.com +84 374 133 044〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Mr. Đức（Sales（研究档）= 抄送（第 119 批 官方登记核实 2026-10-28））duc@stc-vietnam.com +84 379 720 873〔https://stc-vietnam.com/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Công ty TNHH TM DV Song Thành Công |
-| 总部/地址 | 越南（胡志明市，待核） |
-| 其他 | 多品牌代理；有报价部 |
+| 法定名称 | CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SONG THÀNH CÔNG（STC Vietnam；MST 0309279999；登记主业「消防设备批发」≠ 网站工业自动化 → 标记） |
+| 成立 | 2009（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 247/8B Hoàng Hoa Thám, P.5, Q. Phú Nhuận, TP. Hồ Chí Minh（(028) 3507 4676；代表处 Thủ Đức）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 多品牌代理；有报价部；第 119 批：16 年工业自动化元器件贸易商（Moxa / Advantech 等数十品牌；报价部 pricing@），采购多次要价 → **分销 20% B，一页纸一次**；回信 → 加厚；部分坐实（MST + 地址；登记主业不符已标记）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化元器件（编码器、传感器、继电器、电源）；工业网络（Moxa 交换机 / 串口服务器）
 
@@ -201,8 +216,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mr. Linh | — | linh@songthanhcong.com / +84 374 133 044 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Mr. Đức | — | duc@stc-vietnam.com / +84 379 720 873 | 调研核实（公开页） | https://stc-vietnam.com/ |
+| Mr. Linh | 采购（研究档；表内注 MaiWe；2024 多次要价）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM / STI-488DGGPM / STI-154GP 一口价 + 3 年保 + MOQ 1 + 付费样机、串口 MC 不做明说、不点名 Moxa / Maiwe — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28） | linh@songthanhcong.com / +84 374 133 044 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mr. Đức | Sales（研究档）= 抄送（第 119 批 官方登记核实 2026-10-28） | duc@stc-vietnam.com / +84 379 720 873 | 调研核实（公开页） | https://stc-vietnam.com/ |
 | Mark Basham | — | linh@songthanhcong.com / duy@songthanhcong.com / +0374133044 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

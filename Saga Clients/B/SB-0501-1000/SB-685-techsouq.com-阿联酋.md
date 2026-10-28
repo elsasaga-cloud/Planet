@@ -1,7 +1,7 @@
 # techsouq.com
 **官方名称（调研核实）**：Techsouq Computers L.L.C.（Dubai）
 
-> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-685`　|　优先级 ★★　|　状态：有回复·跟进中
+> **评级 B**　|　阿联酋　|　档案编号 `SB-685`　|　优先级 ★★　|　状态：有回复·跟进中
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 15 次（2024-09-08 → 2025-10-22）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "Techsouq Computers L.L.C.（Dubai）"
 score: 34
-country: 沙特阿拉伯
+country: 阿联酋
+country_table: 沙特阿拉伯  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
 region: 中东
 website: techsouq.com
 type: 经销/集成（类型待核）
@@ -87,12 +88,26 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（AE · 1 次检索：resource.geospatialworld.net（Techsouq Computers L.L.C.；online retailer；Managing Director Ahmad Pervez；Bayan Business Center, Dubai Investments Park First）+ zoominfo（Ahmad Pervez Managing Director 2009-present；Al Abbas Bldg Khalid Bin Al Waleed Rd；27570）+ apnagulf（PO Box 27570；+97143550600）；2026-10-28，2026-10-28 查；https://resource.geospatialworld.net/company/techsouq-computers-llc）：**
+
+- 法定名 / 登记号：Techsouq Computers L.L.C.（techsouq.com；**迪拜：Bayan Business Center, Dubai Investments Park 1（旧址 Al Abbas Bldg, Khalid Bin Al Waleed Rd；P.O. Box 27570）；+971 4 355 0600；MD Ahmad Pervez（2009 至今，ZoomInfo）；表内误归沙特（沙特为分站）→ country_fix 阿联酋；牌照号未得 → 部分坐实**）— 老牌 IT 电商（1999 起；约 8 人；「难找的 IT 产品」采购；政府 / 企业 / 消费者）；表内兴趣 MC / 机架 / 周边，2024-09 对电源转换器回 interesting；KP Ahmad Pervez（MD）/ Shifan Shivani（Co-Founder） · 未取（L.L.C.；牌照号 1 查未得） · 状态 **营业中（官网 + 企业库）** · 成立 1999（自述）/ 2009（MD 任期） · L.L.C.（迪拜）
+- 行业码 / 经营范围：IT / 电子产品电商（Dubai Investments Park）
+- 注册地址：Bayan Business Center, Dubai Investments Park 1, Dubai, UAE (P.O. Box 27570)
+- 规模档：微型（约 8 人）
+- 账目：未取；—
+- 高管：Ahmad Pervez — Managing Director（研究档 KP；ahmad@techsouq.com；ZoomInfo 吻合）= 拍板人 / 收件人
+- 高管：Shifan Shivani — Co-Founder（研究档 KP；info@）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **老牌电商、MD 本人回过 interesting → 分销 20% B small，一页纸一次（电商上架：STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机 + DAP 迪拜；机架 / 周边不做明说）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称）**；再无回声 → 不动
+- 备注：分销 20% small；一页纸一次（预付 100%）；部分坐实（企业库：法定名 + 地址 + MD；牌照号未取）；country_fix 阿联酋。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | techsouq.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 沙特阿拉伯 | 事实（用户表）|
+| 国家 | 阿联酋 | 事实（用户表）|
 | 网站/域名 | techsouq.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Ahmad Pervez / 销售平台 / Ahmad Pervez / Managing Director / Shifan Shivani / Co-Founder / 971 4 355 0600 | 事实（用户表） |
@@ -128,18 +143,18 @@ updated: 2026-10-28
 - **【用户表】MC 机架 周边产品；2024-09 群发 power converter→interesting**
   > 兴趣：MC 机架 周边产品；回复：interesting
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ahmad Pervez（）ahmad@techsouq.com +971 50 653 4953〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Shifan Shivani（）info@techsouq.com +971 4 355 0600〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ahmad Pervez（Managing Director（ZoomInfo，2009 至今；2024-09 回 interesting）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、电商上架 STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机 + DAP 迪拜、机架 / 周边不做明说 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 119 批 官方登记核实 2026-10-28））ahmad@techsouq.com +971 50 653 4953〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Shifan Shivani（Co-Founder（研究档 Shifan Shivani）= 抄送（第 119 批 官方登记核实 2026-10-28））info@techsouq.com +971 4 355 0600〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + 官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Techsouq Computers L.L.C. |
-| 成立 | 1999 |
-| 总部/地址 | Bayan Business Center, Dubai Investments Park 1, Dubai, UAE（PO Box 27570） |
-| 其他 | WooCommerce 电商；沙特免费热线 |
+| 法定名称 | Techsouq Computers L.L.C.（迪拜；牌照号 1 查未得） |
+| 成立 | 1999（自述）（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Bayan Business Center, Dubai Investments Park 1, Dubai, UAE (P.O. Box 27570；+971 4 355 0600；旧址 Al Abbas Bldg, Khalid Bin Al Waleed Rd)（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | WooCommerce 电商；沙特免费热线；第 119 批：老牌 IT 电商（「难找的 IT 产品」采购），表内沙特为分站 → country_fix 阿联酋；MD 本人回过 interesting → **分销 20% B small，一页纸一次**；再无回声 → 不动；部分坐实（企业库）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 产品电商（服务器、网络、外设）；B2B 采购 / AMC
 - **触达通道（公开）**：role: 电商 / 经销；region: 阿联酋 + 沙特
@@ -231,8 +246,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ahmad Pervez | — | ahmad@techsouq.com / +971 50 653 4953 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Shifan Shivani | — | info@techsouq.com / +971 4 355 0600 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ahmad Pervez | Managing Director（ZoomInfo，2009 至今；2024-09 回 interesting）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、电商上架 STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机 + DAP 迪拜、机架 / 周边不做明说 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 119 批 官方登记核实 2026-10-28） | ahmad@techsouq.com / +971 50 653 4953 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Shifan Shivani | Co-Founder（研究档 Shifan Shivani）= 抄送（第 119 批 官方登记核实 2026-10-28） | info@techsouq.com / +971 4 355 0600 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删
 

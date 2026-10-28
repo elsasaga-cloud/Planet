@@ -71,6 +71,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：infodoanhnghiep.com（Công Ty Cổ Phần Thương Mại Kỹ Thuật Hoàng Thiên Ân；HOANG THIEN AN TECHNOLOGY CORP；MST 0313394377；Lê Thị Kim Thoa；cấp 11/08/2015；29 đường DD 11, Phường Tân Hưng Thuận, Quận 12）+ yellowpages.vn（Thành lập 2015；5-10 人；www.hoangthienan.vn）+ timviec365（10-24 人）；域名 .vn / .com.vn 差异，以法定英文名 + 地址对上；2026-10-28，2026-10-28 查；https://infodoanhnghiep.com/thong-tin/Cong-Ty-Co-Phan-Thuong-Mai-Ky-Thuat-Hoang-Thien-an-94377.html）：**
+
+- 法定名 / 登记号：CÔNG TY CỔ PHẦN THƯƠNG MẠI KỸ THUẬT HOÀNG THIÊN ÂN / HOANG THIEN AN TECHNOLOGY CORP（hoangthienan.com.vn，黄页列 hoangthienan.vn；**MST 0313394377；发证 2015-08-11；29 Đường DD11, P. Tân Hưng Thuận, Q.12, TP.HCM；法人代表 Lê Thị Kim Thoa；5–24 人**）— SFP / GPON SFP / Wintop MC / Cisco / EtherWAN / ORing / Huawei 贸易；自建站询「16 槽收发器机架」（Saga 无）；KP Anh Phan（Project Director）；无跟进 · MST 0313394377 · 状态 **Đang hoạt động（营业中）** · 成立 2015-08-11 · Công ty Cổ phần
+- 行业码 / 经营范围：网络 / 光通信设备贸易（Q.12, HCMC）
+- 注册地址：29 Đường DD11, P. Tân Hưng Thuận, Q.12, TP. Hồ Chí Minh, Việt Nam
+- 规模档：微型（5–24）
+- 账目：未取；—
+- 高管：Anh Phan — Project Director（研究档 KP；anhpt@hoangthienan.com.vn）= 收件人
+- 高管：Lê Thị Kim Thoa — 法人代表（登记）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **在售台系工业交换机的小贸易商、项目总监为 KP → 分销 20% B small，一页纸一次（STI-288DGGPM / STI-154GP 对位 + 3 年保 + MOQ 1 + 付费样机；机架 / SFP 不做明说；不点名 ORing）— 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（MIC 型号核准不声称；买方清关）**；再无回声 → 不动
+- 备注：分销 20% small；一页纸一次（预付 100%）；坐实（MST + 发证日 + 地址 + 法人代表；域名后缀差异已注）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -104,15 +118,17 @@ updated: 2026-10-28
 - **【用户表】16 槽收发器机架询盘**
   > 16槽收发器机架 / from: 自建站
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Anh Phan（）anhpt@hoangthienan.com.vn 〔用户表〕
+- **KP**：Anh Phan（Project Director（研究档；自建站询 16 槽机架）= 收件人 — 一页纸一次：分销 20% B small、STI-288DGGPM / STI-154GP 对位 + 3 年保 + MOQ 1 + 付费样机、机架 / SFP 不做明说、不点名 ORing — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））anhpt@hoangthienan.com.vn 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 越南 |
-| 其他 | 官网 hoangthienan.com.vn，语言 vi，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | CÔNG TY CỔ PHẦN THƯƠNG MẠI KỸ THUẬT HOÀNG THIÊN ÂN / HOANG THIEN AN TECHNOLOGY CORP（MST 0313394377；法人代表 Lê Thị Kim Thoa；黄页列域名 hoangthienan.vn，表内 .com.vn） |
+| 成立 | 2015-08-11（发证）（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 29 Đường DD11, P. Tân Hưng Thuận, Q.12, TP. Hồ Chí Minh（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 hoangthienan.com.vn，语言 vi，快照状态 ok；角色判定来源：用户表；第 119 批：SFP / GPON SFP / Wintop MC / Cisco / EtherWAN / ORing / Huawei 小贸易商，项目总监为 KP → **分销 20% B small，一页纸一次**；再无回声 → 不动；坐实（MST + 发证日 + 地址 + 法人代表；域名后缀差异已注）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光通信产品贸易（SFP / MC / GPON）
 - **触达通道（公开）**：role: 光通信产品贸易商（越南，MC 机架询盘）；region: 越南；contact: anhpt@hoangthienan.com.vn、sales@hoangthienan.com.vn
@@ -172,7 +188,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Anh Phan | — | anhpt@hoangthienan.com.vn | 调研核实（公开页） | 用户表 |
+| Anh Phan | Project Director（研究档；自建站询 16 槽机架）= 收件人 — 一页纸一次：分销 20% B small、STI-288DGGPM / STI-154GP 对位 + 3 年保 + MOQ 1 + 付费样机、机架 / SFP 不做明说、不点名 ORing — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28） | anhpt@hoangthienan.com.vn | 调研核实（公开页） | 用户表 |
 | Anh Phan, Project Director | — | anhpt@hoangthienan.com.vn / sales@hoangthienan.com.vn / +842836366340 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

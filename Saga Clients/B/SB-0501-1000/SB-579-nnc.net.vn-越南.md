@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：hoainamgroup.com/gioi-thieu-cong-ty-tnhh-nhat-nuoc（Công ty TNHH Nhất Nước (NNC) thành lập từ năm 2003；Gia công chế tạo thiết bị điện；Xây dựng, lắp đặt (Nhà máy điện, trạm biến áp, đường dây)；Vinhomes Greenbay；ceo@nnc.net.vn；Mã số thuế 0101403703；Nghệ An 分厂）；2026-10-28，2026-10-28 查；https://hoainamgroup.com/gioi-thieu-cong-ty-tnhh-nhat-nuoc/）：**
+
+- 法定名 / 登记号：Công ty TNHH Nhất Nước (NNC)（nnc.net.vn；**MST 0101403703；2003 年成立；河内 Tòa G03 Căn 2412, Vinhomes Greenbay, 7 Đại Lộ Thăng Long, Nam Từ Liêm；024 3784 9934；义安省 Vinh 分厂 MST 0101403703-001**）— 电气设备制造 / 贸易 + 电站 / 变电站 / 线路建设安装 + 投资；KP Hoa（kinhdoanh8@）；询盘表来源、WA 无回复 · MST 0101403703 · 状态 **营业中（集团页）** · 成立 2003 · Công ty TNHH
+- 行业码 / 经营范围：电气设备制造 + 电力工程（Hà Nội / Nghệ An）
+- 注册地址：Tòa G03 Căn 2412, Vinhomes Greenbay, 7 Đại Lộ Thăng Long, Nam Từ Liêm, Hà Nội, Việt Nam
+- 规模档：中小
+- 账目：未取；—
+- 高管：Hoa — Kinh doanh（研究档 KP；kinhdoanh8@nnc.net.vn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **电力工程为主（守界 电力）+ 无需求描述 + WA×0 → 不动（B 保留）**
+- 备注：不动（电力守界）；坐实（MST + 成立年 + 地址，集团页）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -98,15 +111,17 @@ updated: 2026-10-28
 - **【用户表】询盘统计表来源，无兴趣描述**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hoa（）kinhdoanh8@nnc.net.vn +84 946 129 891〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Hoa（Kinh doanh（销售）Hoa（研究档；询盘表来源；WA×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28））kinhdoanh8@nnc.net.vn +84 946 129 891〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | NNC（待核） |
-| 总部/地址 | Vietnam |
+| 法定名称 | Công ty TNHH Nhất Nước (NNC)（MST 0101403703；义安分厂 -001） |
+| 成立 | 2003（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Tòa G03 Căn 2412, Vinhomes Greenbay, 7 Đại Lộ Thăng Long, Nam Từ Liêm, Hà Nội（024 3784 9934）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 第 119 批：电气设备制造 + 电站 / 变电站 / 线路工程（电力守界）+ 无需求描述 → **不动（B 保留）**；坐实（MST + 成立年 + 地址）（第 119 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：role: （未知）；region: 越南
 - **风险/边界**：身份不明；无需求
@@ -152,7 +167,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hoa | — | kinhdoanh8@nnc.net.vn / +84 946 129 891 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Hoa | Kinh doanh（销售）Hoa（研究档；询盘表来源；WA×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28） | kinhdoanh8@nnc.net.vn / +84 946 129 891 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

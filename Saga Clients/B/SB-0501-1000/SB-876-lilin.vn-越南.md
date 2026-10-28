@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：thuvienphapluat / masothue 仅 CÔNG TY TNHH THỦY SẢN SILVERSEA（庆和省水产）与 SILVERSEA NEW MATERIAL（同奈省）— 均 ≠ 安防分销；lilin.vn 法人未得；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：LILIN Vietnam / Silversea HCM（lilin.vn / silverseahcm.vn；**1 查仅得同名异业（Silversea 水产 MST 4202007157、Silversea New Material 3801292166）→ 未坐实**）— 台湾 LILIN CCTV 越南分销商；表内「自己的 logo」「工业交换机」；无 KP（marketing@）；未跟进 · 未坐实（同名异业） · 状态 **未坐实** · 成立 未取 · 未取
+- 行业码 / 经营范围：CCTV 品牌分销（HCMC，推定）
+- 注册地址：未取（TP. Hồ Chí Minh）
+- 规模档：未取
+- 账目：未取；—
+- 高管：（研究档无 KP：marketing@silverseahcm.vn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有 logo + 工业交换机需求记录 → 贴标 OEM 30% B small，一页纸一次（中性包装 / 贴标 STI-288DGGPM / STC-2216GP，MOQ 起订 + 付费样机；Attn: Marketing / Purchasing；未坐实 → 预付 100%）— 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（MIC 型号核准不声称；买方清关）**；再无回声 → 不动
+- 备注：贴标 OEM 30% small；一页纸一次（预付 100%）；未坐实（同名异业，1 查止）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,8 +121,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 越南 |
-| 其他 | 官网 lilin.vn，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | LILIN Vietnam / Silversea HCM（法人 1 查未得；同名 Silversea 水产 4202007157 / New Material 3801292166 ≠） |
+| 总部/地址 | 未取（TP. Hồ Chí Minh）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 lilin.vn，语言 ?，快照状态 ok；角色判定来源：待核；第 119 批：台湾 LILIN CCTV 越南分销商，表内「自己的 logo」「工业交换机」→ **贴标 OEM 30% B small，一页纸一次（Attn: Marketing / Purchasing；未坐实 → 预付 100%）**；再无回声 → 不动；未坐实（同名异业，1 查止）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 分销（LILIN，越南）
 - **触达通道（公开）**：role: CCTV 分销商（越南，自有 logo 工业交换机）；region: 越南；contact: marketing@silverseahcm.vn

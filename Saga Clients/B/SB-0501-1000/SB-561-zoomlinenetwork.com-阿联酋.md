@@ -1,6 +1,6 @@
 # zoomlinenetwork.com
 
-> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-561`　|　优先级 ★★　|　状态：已推送 8 次·未回复
+> **评级 B**　|　阿联酋　|　档案编号 `SB-561`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
 > **类型**：分销商（IT 网络 + 安防 + 光纤，KSA/UAE）（推断）　|　**历史关系**：推送 8 次（2025-04-04 → 2025-10-22）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE、群发(筛选后质量一般的_群发)、表:阿联酋沙特　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-561
 rating: B
 rating_auto: B
 score: 38
-country: 沙特阿拉伯
+country: 阿联酋
+country_table: 沙特阿拉伯  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
 region: 中东
 website: zoomlinenetwork.com
 type: 分销商（IT 网络 + 安防 + 光纤，KSA/UAE）
@@ -89,19 +90,32 @@ updated: 2026-10-28
 
 - `zoomlinenetwork.com` → Microsoft 365（MX：zoomlinenetwork-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（沙特阿拉伯 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（阿联酋 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：02-22 Founding Day Holiday；03-09 Eid al-Fitr Holiday；03-10 Eid al-Fitr Holiday；03-11 Eid al-Fitr Holiday；03-12 Eid al-Fitr Holiday；03-14 Eid al-Fitr Holiday (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：01-01 New Year's Day；03-09 Eid al-Fitr (estimated)；03-10 Eid al-Fitr Holiday (estimated)；03-11 Eid al-Fitr Holiday (estimated) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】02-08→03-09：斋月（按天文估算 2027-02-08 起，以当地公告为准）：白天效率低、午后早走，海湾国家法定工时缩到 6 小时；开斋节前一周基本不做决策
 - 【宗教】03-09→03-12：开斋节（Eid al-Fitr / Ramazan Bayramı，估算）：3–4 天全停
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数 · 第 119 批（AE · 1 次检索：zoomlinenetwork.com/fiber-optics-distributor-ksa 等 KSA 页（+971 55 378 6444；+971 4 325 7866；sales@zoomlinenetwork.com；leading supplier of networking solutions in Saudi Arabia (KSA)）；法人 / 地址未得；2026-10-28，2026-10-28 查；https://zoomlinenetwork.com/fiber-optics-distributor-ksa/）：**
+
+- 法定名 / 登记号：Zoom Line Networks Technology（zoomlinenetwork.com；**联系电话全为迪拜 +971 4 325 7866 / +971 55 378 6444；KSA 页面为 SEO 分页、无沙特地址 → country_fix 阿联酋；法人名 / 牌照号 1 查未得 → 部分坐实**）— IT / 网络 / 安防分销（TP-Link / Ubiquiti / MikroTik / Cisco / Fortinet；专页「Industrial Switches Distributor」+ 光纤 / 熔接机 / IP PBX 分销 KSA 页）；KP Mohammad Faisal（BDM） · 未取（牌照号 1 查未得） · 状态 **营业中（官网 2025）** · 成立 未取 · LLC / FZ（推定）
+- 行业码 / 经营范围：IT / 网络 / 安防分销（迪拜；面向 KSA）
+- 注册地址：未取（Dubai, UAE）
+- 规模档：小型
+- 账目：未取；—
+- 高管：Mohammad Faisal — Business Development Manager（研究档 KP；faisal@zoomlinenetwork.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自称工业交换机分销商、BDM 为 KP → 分销 20% B，一页纸一次（STI-288DGGPM / STI-488DGGPM / STI-154GP + 商用 STC-2224GP / 4424GCPM 一口价 + MOQ 1 + 付费样机；DAP 迪拜）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称）**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（官网电话；法人 / 地址未取）；country_fix 阿联酋。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | zoomlinenetwork.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 沙特阿拉伯（另见：阿联酋） | 事实（用户表）|
+| 国家 | 阿联酋（另见：阿联酋） | 事实（用户表）|
 | 网站/域名 | zoomlinenetwork.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 分销商（IT 网络 + 安防 + 光纤，KSA/UAE） | 推断（据兴趣/备注关键词） |
 | 联系人 | N-net的工业FS / Mohammad Faisal / Business Development Manager | 事实（用户表） |
@@ -142,15 +156,16 @@ updated: 2026-10-28
 - **【用户表】在卖 N-net 工业 FS、无源产品多**
   > 工业FS 商业FS 周边产品 无源产品也比较多 / 很多牌子的 有Nnet的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mohammad Faisal（）faisal@zoomlinenetwork.com 〔用户表〕
+- **KP**：Mohammad Faisal（Business Development Manager（研究档）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM / STI-488DGGPM / STI-154GP + STC-2224GP / 4424GCPM 一口价 + MOQ 1 + 付费样机、DAP 迪拜 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 119 批 官方登记核实 2026-10-28））faisal@zoomlinenetwork.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 沙特阿拉伯 |
-| 其他 | 官网 zoomlinenetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Zoom Line Networks Technology（法人名 / 牌照号 1 查未得；联系电话全为迪拜 +971 4 325 7866 / +971 55 378 6444；KSA 页为 SEO 分页） |
+| 总部/地址 | Dubai, UAE（门牌未取）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 zoomlinenetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 119 批：IT / 网络 / 安防分销（TP-Link / Ubiquiti / MikroTik / Cisco / Fortinet；「Industrial Switches Distributor」专页；面向 KSA），表内沙特实为迪拜 → country_fix 阿联酋；BDM 为 KP → **分销 20% B，一页纸一次**；再无回声 → 不动；部分坐实（官网电话）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 网络 / 安防分销（KSA、UAE）；光纤与无源产品（熔接机、线缆）；工业交换机分销（专页）
 - **触达通道（公开）**：role: 分销商（IT 网络 + 安防 + 光纤，KSA/UAE）；region: 沙特阿拉伯；contact: sales@zoomlinenetwork.com、faisal@zoomlinenetwork.com
@@ -253,7 +268,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mohammad Faisal | — | faisal@zoomlinenetwork.com | 调研核实（公开页） | 用户表 |
+| Mohammad Faisal | Business Development Manager（研究档）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM / STI-488DGGPM / STI-154GP + STC-2224GP / 4424GCPM 一口价 + MOQ 1 + 付费样机、DAP 迪拜 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 119 批 官方登记核实 2026-10-28） | faisal@zoomlinenetwork.com | 调研核实（公开页） | 用户表 |
 | N-net | — | sales@zoomlinenetwork.com / faisal@zoomlinenetwork.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

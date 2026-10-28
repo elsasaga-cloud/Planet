@@ -71,6 +71,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：sieuthivienthong.com.vn/gioi-thieu（Công Ty TNHH Kỹ Thuật Viễn Thông Thiên Long；Mã số thuế 0312485663；10 Bis Trường Chinh, P. Tân Hưng Thuận, Q.12）+ sieuthivienthong.net/lien-he（Công Ty TNHH Siêu Thị Viễn Thông；27A Hoàng Việt, P.4, Q. Tân Bình）；.com 对应方未定；2026-10-28，2026-10-28 查；https://sieuthivienthong.com.vn/gioi-thieu/）：**
+
+- 法定名 / 登记号：Siêu Thị Viễn Thông（sieuthivienthong.com；**1 查得两同名候选：.com.vn = Công ty TNHH Kỹ Thuật Viễn Thông Thiên Long MST 0312485663（10 Bis Trường Chinh, Q.12, HCMC）/ .net = Công ty TNHH Siêu Thị Viễn Thông（27A Hoàng Việt, Tân Bình, HCMC）— .com 归属未定 → 部分坐实**）— 电信 / 安防 / 网络设备电商（Hikvision / Dahua / TP-Link / Ubiquiti；表内「商业 PoE 主要是 Hasivo 的」= 在卖深圳白牌）；无 KP（info@）；未跟进 · 未定（候选 MST 0312485663 / 另一同名） · 状态 **营业中（电商在）** · 成立 未取 · Công ty TNHH
+- 行业码 / 经营范围：电信 / 安防设备电商（HCMC）
+- 注册地址：TP. Hồ Chí Minh（Q.12 或 Tân Bình，待定）
+- 规模档：微型
+- 账目：未取；—
+- 高管：（研究档无 KP：info@sieuthivienthong.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **白牌 PoE 网店 + 无 KP + 归属未定 → 不动（B 保留）**
+- 备注：不动（网店 + 无 KP）；部分坐实（两同名候选，域名归属未定）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,8 +123,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 越南 |
-| 其他 | 官网 sieuthivienthong.com，语言 vi-VN，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Siêu Thị Viễn Thông（sieuthivienthong.com 归属未定：.com.vn = Công ty TNHH Kỹ Thuật Viễn Thông Thiên Long MST 0312485663（Q.12）/ .net = Công ty TNHH Siêu Thị Viễn Thông（Tân Bình）） |
+| 总部/地址 | TP. Hồ Chí Minh（Q.12 或 Tân Bình，待定）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 sieuthivienthong.com，语言 vi-VN，快照状态 ok；角色判定来源：官网文案；第 119 批：电信 / 安防设备电商（Hikvision / Dahua / TP-Link / Ubiquiti；在卖深圳白牌 PoE）+ 无 KP + 归属未定 → **不动（B 保留）**；部分坐实（两同名候选）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信 / 安防 / 网络设备电商（全国配送）
 - **触达通道（公开）**：role: 电商/网店（安防 + 网络）；region: 越南；contact: info@sieuthivienthong.com

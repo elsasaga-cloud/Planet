@@ -90,6 +90,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（MY · 1 次检索：precisotechnology.com.my/about-us（established in June 2018；Master Clock / Digital Clock；48-2, Jalan PJU 5/20D, The Strand, Kota Damansara, 47810 PJ；+603 6151 2777）+ volza（10 Bill of Ladings, 2 Buyers and 4 Suppliers）+ zoominfo（11-50）；SSM 号未得；2026-10-28，2026-10-28 查；https://www.precisotechnology.com.my/about-us/）：**
+
+- 法定名 / 登记号：Preciso Technology Sdn Bhd（precisotechnology.com.my；**2018-06 成立；48-2, Jalan PJU 5/20D, The Strand, Kota Damansara, 47810 Petaling Jaya, Selangor；+603 6151 2777；11–50 人；Volza 进口记录 10 票 / 4 家供应商；SSM 号 1 查未得 → 部分坐实**）— 电信同步 / 主时钟 / 数字时钟系统专家（代理 Albedo / Elproma / Gorgy / Protempis / Sapling；客户 运营商 / 金融 / 医院 / 轨交 / 学校）+ IoT 集成；KP C.S. Chong（张志祥，Senior Manager，会中文）问工业级 85 ℃；无跟进 · 未取（SSM 1 查未得；Volza 进口记录在） · 状态 **营业中（官网 2024）** · 成立 2018-06 · Sdn Bhd
+- 行业码 / 经营范围：电信同步 / 时钟系统 + IoT 集成（Kota Damansara）
+- 注册地址：48-2, Jalan PJU 5/20D, The Strand, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：C.S. Chong（张志祥）— Senior Manager（研究档 KP；cschong@precisotechnology.com.my）= 收件人（英文稿）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **专业集成商 + 进口商、高管为 KP、问题具体（85 ℃）→ 集成商 25% B，一页纸一次（直接答：STI 线 -40～75 ℃，85 ℃ 不做；STI-288DGGPM / STI-154GP 一口价 + 3 年保 + MOQ 1 + 付费样机）— 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（SIRIM 不声称；DAP 买方清关）**；轨交项目不主动提；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次；部分坐实（官网 + 海关记录；SSM 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,17 +128,17 @@ updated: 2026-10-28
 - **【用户表】系统集成商 IOT，会去深圳看展，拿了光路彩页，问工业级可以达到 85 度吗；地址 48-2, Jalan PJU 5/20D, The Strand Kota Damansara 47810**
   > 兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：C.S. Chong（张志祥）（）cschong@precisotechnology.com.my +60 16 222 1954〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：C.S. Chong（张志祥）（Senior Manager（研究档；张志祥，会中文 → 英文稿；问工业级 85 ℃）= 收件人 — 一页纸一次：集成商 25% B、直接答 STI 线 -40～75 ℃（85 ℃ 不做）、STI-288DGGPM / STI-154GP 一口价 + 3 年保 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））cschong@precisotechnology.com.my +60 16 222 1954〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Preciso Technology Sdn Bhd |
-| 成立 | （待核） |
-| 总部/地址 | 48-2, Jalan PJU 5/20D, The Strand, Kota Damansara 47810, Selangor, Malaysia |
-| 其他 | 中文沟通 |
+| 法定名称 | Preciso Technology Sdn Bhd（SSM 号 1 查未得；Volza 进口记录 10 票） |
+| 成立 | 2018-06（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 48-2, Jalan PJU 5/20D, The Strand, Kota Damansara, 47810 Petaling Jaya, Selangor（+603 6151 2777）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 中文沟通；第 119 批：电信同步 / 主时钟系统专家 + IoT 集成（客户 运营商 / 金融 / 医院 / 轨交），高管为 KP → **集成商 25% B，一页纸一次**；轨交不主动提；再无回声 → 不动；部分坐实（官网 + 海关）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IoT / 系统集成
 - **触达通道（公开）**：role: 系统集成商；region: 马来西亚
@@ -191,7 +204,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| C.S. Chong（张志祥） | — | cschong@precisotechnology.com.my / +60 16 222 1954 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| C.S. Chong（张志祥） | Senior Manager（研究档；张志祥，会中文 → 英文稿；问工业级 85 ℃）= 收件人 — 一页纸一次：集成商 25% B、直接答 STI 线 -40～75 ℃（85 ℃ 不做）、STI-288DGGPM / STI-154GP 一口价 + 3 年保 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28） | cschong@precisotechnology.com.my / +60 16 222 1954 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

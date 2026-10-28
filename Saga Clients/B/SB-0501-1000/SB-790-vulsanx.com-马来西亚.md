@@ -94,6 +94,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 119 批（MY · 1 次检索：startup-asean.org（Vulsan X；59-2 JALAN MPK 3 MEDAN PERDAGANGAN KEPAYANG SEREMBAN；Founded 2016-09-26；11-50；Cybersecurity）+ bizmalay（06-851 5911）+ signalhire（Seremban 70200；10-50）；SSM 号未得；2026-10-28，2026-10-28 查；https://startup-asean.org/startup-detail?Id=3a1bb4f9-e0d6-037e-0bda-3181b4fcc865）：**
+
+- 法定名 / 登记号：Vulsan X（vulsanx.com；**59-2, Jalan MPK 3, Medan Perdagangan Kepayang, 70200 Seremban, Negeri Sembilan；06-851 5911；成立 2016-09-26（startup-asean）；11–50 人；法人名 / SSM 号 1 查未得 → 部分坐实**）— 网络安全 / AI 分析公司；KP Annamery Raja（OSINT Researcher）问过 PoE、在用知名品牌 24/48 口；无跟进 · 未取（SSM 1 查未得） · 状态 **营业中（名录 ACTIVE）** · 成立 2016-09-26 · Sdn Bhd（推定）
+- 行业码 / 经营范围：网络安全 / AI（Seremban）
+- 注册地址：59-2, Jalan MPK 3, Medan Perdagangan Kepayang, 70200 Seremban, Negeri Sembilan, Malaysia
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Annamery Raja — OSINT Researcher（研究档 KP；mery@vulsanx.com；非采购）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **非目标行业（安全服务）+ 硬件量小 + KP 非采购 → 不动（B 保留）**
+- 备注：不动（非目标 + 量小）；部分坐实（名录：地址 + 成立日；SSM 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,16 +132,17 @@ updated: 2026-10-28
 - **【用户表】问了 POE switch，在用有名的牌子，主要是 24 48 口，4 8 口用得少；地址 No 59-1 & 59-2 Jalan MPK, Medan Perdagangan Kepayang**
   > 兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Annamery Raja（）mery@vulsanx.com +60 11 5652 8663〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Annamery Raja（OSINT Researcher（研究档；非采购；在用知名品牌 24/48 口）— 不动，不发（第 119 批 官方登记核实 2026-10-28））mery@vulsanx.com +60 11 5652 8663〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Vulsan X Sdn Bhd |
-| 成立 | （待核） |
-| 总部/地址 | Seremban, Negeri Sembilan, Malaysia |
+| 法定名称 | Vulsan X（Sdn Bhd 推定；SSM 号 1 查未得） |
+| 成立 | 2016-09-26（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 59-2, Jalan MPK 3, Medan Perdagangan Kepayang, 70200 Seremban, Negeri Sembilan（06-851 5911）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 第 119 批：网络安全 / AI 分析公司（非目标）+ 硬件量小 + KP 非采购 → **不动（B 保留）**；部分坐实（名录）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络安全服务
 - **触达通道（公开）**：role: 安全服务商（项目配套）；region: 马来西亚
@@ -199,7 +213,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Annamery Raja | — | mery@vulsanx.com / +60 11 5652 8663 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Annamery Raja | OSINT Researcher（研究档；非采购；在用知名品牌 24/48 口）— 不动，不发（第 119 批 官方登记核实 2026-10-28） | mery@vulsanx.com / +60 11 5652 8663 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

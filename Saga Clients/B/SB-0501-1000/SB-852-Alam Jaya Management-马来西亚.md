@@ -85,6 +85,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 119 批（0 查（yahoo + 公司名泛称）；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：Alam Jaya Management（Thiruvaluvar Vajram；yahoo；**0 查**）— 展会谈 1+2+8 商用 PoE、问过 OEM；无跟进 · 0 查 · 状态 **未核** · 成立 — · 未取
+- 行业码 / 经营范围：未核（马来西亚）
+- 注册地址：未取
+- 规模档：未取
+- 账目：未取；—
+- 高管：Thiruvaluvar Vajram — 表内联系人（研究档 KP；thiru_vajram@yahoo.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **展会问过 OEM → 贴标 OEM 30% B small，一页纸一次（1 光 2 电 8 口 = STC-228GP 中性包装 / 贴标 MOQ 起订说明 + 付费样机；yahoo → 预付 100%）— 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（SIRIM 不声称；DAP 买方清关）**；再无回声 → 不动
+- 备注：贴标 OEM 30% small；一页纸一次（预付 100%）；0 查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,16 +120,16 @@ updated: 2026-10-28
 - **【用户表】谈了 1+2+8 商业 POE，问了 OEM**
   > 兴趣：谈了1+2+8商业POE，问了OEM
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Thiruvaluvar Vajram（）thiru_vajram@yahoo.com +60 17 381 2169〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Thiruvaluvar Vajram（表内联系人（yahoo；展会谈 1+2+8 商用 PoE、问过 OEM）= 收件人 — 一页纸一次：贴标 OEM 30% B small、STC-228GP 中性包装 / 贴标 MOQ 起订 + 付费样机、预付 100% — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））thiru_vajram@yahoo.com +60 17 381 2169〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Alam Jaya Management（待核） |
+| 法定名称 | 0 查（yahoo + 公司名泛称 Alam Jaya Management） |
 | 总部/地址 | Malaysia |
-| 其他 | yahoo |
+| 其他 | yahoo；第 119 批：展会问过 OEM → **贴标 OEM 30% B small，一页纸一次（预付 100%）**；再无回声 → 不动；0 查（第 119 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：role: （疑经销 / 贴牌）；region: 马来西亚
 - **近况信号**：
@@ -161,7 +174,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Thiruvaluvar Vajram | — | thiru_vajram@yahoo.com / +60 17 381 2169 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Thiruvaluvar Vajram | 表内联系人（yahoo；展会谈 1+2+8 商用 PoE、问过 OEM）= 收件人 — 一页纸一次：贴标 OEM 30% B small、STC-228GP 中性包装 / 贴标 MOQ 起订 + 付费样机、预付 100% — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28） | thiru_vajram@yahoo.com / +60 17 381 2169 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 

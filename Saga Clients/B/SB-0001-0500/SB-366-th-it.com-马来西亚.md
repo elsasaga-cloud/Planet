@@ -96,6 +96,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（MY · 1 次检索：th-it.com/services（TH IT RESOURCE CENTRE SDN BHD；TH IT NETWORKS SDN BHD 198301012255 (107648-T)；No. 130, Jalan Kapar 27/89, Seksyen 27, 40400 Shah Alam；+6016-280 3363；inquiry@th-it.com）+ th-it.com 租赁方案页（sister company … authorized Ekahau partner distributor；41, Jalan Pengeluaran U1/78, Hicom-Glenmarie）；2026-10-28，2026-10-28 查；https://www.th-it.com/services/stag/13449/pc-rental-kuala-lumpur-malaysia/）：**
+
+- 法定名 / 登记号：TH IT Resource Centre Sdn Bhd（th-it.com；**页脚姊妹公司 TH IT Networks Sdn Bhd 198301012255 (107648-T)；No. 130, Jalan Kapar 27/89, Seksyen 27, 40400 Shah Alam, Selangor；+6016-280 3363；Ekahau 授权分销（Wi-Fi 设计）；本体 SSM 号 1 查未得 → 部分坐实**）— IT 设备短长期租赁（笔记本 / PC / 服务器 / 投影）+ 无线网络设计；KP Lee；表内「商业 PoE」；未跟进 · 未取（本体；姊妹 198301012255 (107648-T)） · 状态 **营业中（官网在）** · 成立 姊妹 1983 · Sdn Bhd
+- 行业码 / 经营范围：IT 设备租赁 + 无线网络设计（Shah Alam）
+- 注册地址：No. 130, Jalan Kapar 27/89, Seksyen 27, 40400 Shah Alam, Selangor, Malaysia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Lee — 表内联系人（研究档 KP；inquiry@th-it.com；职务待核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **租赁 + Wi-Fi 设计、有商业 PoE 需求记录 → 集成商 25% B small，一页纸一次（AP 供电 STC-028GP / STC-2216GP / 2224GP 一口价 + MOQ 1 + 付费样机）— 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（SIRIM 不声称；DAP 买方清关）**；再无回声 → 不动
+- 备注：集成商 25% small；一页纸一次；部分坐实（官网页脚姊妹登记号 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,15 +141,17 @@ updated: 2026-10-28
 - **【用户表】商业 PoE**
   > 商业POE；邮件中有详细的联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Lee（；明确拒绝「sorry, no need」（2024-07-29；2026-09 Elsa 箱再拒）→ 不发）inquiry@th-it.com 〔用户表〕
+- **KP**：Lee（表内联系人 Lee（职务待核；商业 PoE 需求记录）= 收件人 — 一页纸一次：集成商 25% B small、AP 供电 STC-028GP / STC-2216GP / 2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））inquiry@th-it.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 马来西亚 |
-| 其他 | 官网 th-it.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | TH IT Resource Centre Sdn Bhd（本体 SSM 未取；页脚姊妹 TH IT Networks Sdn Bhd 198301012255 (107648-T)，Ekahau 授权分销） |
+| 成立 | 姊妹 1983（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | No. 130, Jalan Kapar 27/89, Seksyen 27, 40400 Shah Alam, Selangor（+6016-280 3363）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 th-it.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 119 批：IT 设备租赁 + 无线网络设计，有商业 PoE 需求记录 → **集成商 25% B small，一页纸一次**；再无回声 → 不动；部分坐实（官网页脚）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 设备租赁（马来西亚）
 - **触达通道（公开）**：role: IT 设备租赁商（马来西亚）；region: 马来西亚；contact: inquiry@th-it.com
@@ -208,7 +223,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Lee | ；明确拒绝「sorry, no need」（2024-07-29；2026-09 Elsa 箱再拒）→ 不发 | inquiry@th-it.com | 调研核实（公开页） | 用户表 |
+| Lee | 表内联系人 Lee（职务待核；商业 PoE 需求记录）= 收件人 — 一页纸一次：集成商 25% B small、AP 供电 STC-028GP / STC-2216GP / 2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28） | inquiry@th-it.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

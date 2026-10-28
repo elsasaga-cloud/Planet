@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：trangdoanhnghiep.com（CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG；Số 9B Nguyễn Gia Thiều, Hoàn Kiếm；hlc@hlc.vn；(024) 39393737；Mã số thuế 0102354061；Năm thành lập 2007；31 – 50 người；ISO 9001）；2026-10-28，2026-10-28 查；https://trangdoanhnghiep.com/cong-ty-co-phan-xuat-nhap-khau-va-thuong-mai-hoang-long/）：**
+
+- 法定名 / 登记号：CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG（hlc.vn；**MST 0102354061；2007 年成立；Số 9B Nguyễn Gia Thiều, P. Trần Hưng Đạo, Q. Hoàn Kiếm, Hà Nội；(024) 3939 3737；31–50 人；ISO 9001**）— 电信 / IT / 工业网络 / 传输 / 自动化设备供应与安装 + **自述「专业生产工业交换机 / 光电转换器」= 自有品牌贴牌**；经销 Lantronix 工业 PoE；表内「和三旺有合作」；阿里巴巴询 16 槽收发器机架（Saga 无）；KP Hoang Nguyen Anh · MST 0102354061 · 状态 **营业中（名录 2024 + 官网）** · 成立 2007 · Công ty Cổ phần（股份公司）
+- 行业码 / 经营范围：电信 / 工业网络设备供应 + 自有品牌工业交换机（Hoàn Kiếm, Hà Nội）
+- 注册地址：Số 9B Nguyễn Gia Thiều, P. Trần Hưng Đạo, Q. Hoàn Kiếm, Hà Nội, Việt Nam
+- 规模档：小型（31–50）
+- 账目：未取；—
+- 高管：Hoang Nguyen Anh — 表内联系人（研究档 KP；nguyenhoang@hlc.vn；职务未核）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌工业交换机（外购贴牌）+ 已与国内同行合作 → 贴标 OEM 30% B，一页纸一次（HLC 标 / 中性包装 STI-288DGGPM / STI-488DGGPM / STI-0240GE，MOQ 起订 + 付费样机；机架不做明说；不点名三旺）— 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（MIC 型号核准不声称；买方清关）**；再无回声 → 不动
+- 备注：贴标 OEM 30%；一页纸一次（预付 100%）；坐实（MST + 地址 + 成立年 + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,15 +119,17 @@ updated: 2026-10-28
 - **【用户表】与 3onedata 合作；询盘 16 槽机架**
   > 和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hoang Nguyen Anh（）nguyenhoang@hlc.vn 〔用户表〕
+- **KP**：Hoang Nguyen Anh（表内联系人（研究档；职务未核；阿里巴巴询 16 槽机架）= 收件人 — 一页纸一次：贴标 OEM 30% B、HLC 标 / 中性包装 STI-288DGGPM / STI-488DGGPM / STI-0240GE，MOQ 起订 + 付费样机、机架不做明说、不点名三旺 — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））nguyenhoang@hlc.vn 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 越南 |
-| 其他 | 官网 hlc.vn，语言 vi，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG（MST 0102354061；ISO 9001） |
+| 成立 | 2007（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Số 9B Nguyễn Gia Thiều, P. Trần Hưng Đạo, Q. Hoàn Kiếm, Hà Nội（(024) 3939 3737）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 hlc.vn，语言 vi，快照状态 ok；角色判定来源：用户表；第 119 批：电信 / IT / 工业网络设备供应安装 + 自述「专业生产工业交换机 / 光电转换器」（外购贴牌）+ 经销 Lantronix 工业 PoE、与国内同行合作 → **贴标 OEM 30% B，一页纸一次**；再无回声 → 不动；坐实（MST + 地址 + 成立年）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业交换机 / 光电转换器（自有标）；Lantronix 工业 PoE 经销
 
@@ -182,7 +197,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hoang Nguyen Anh | — | nguyenhoang@hlc.vn | 调研核实（公开页） | 用户表 |
+| Hoang Nguyen Anh | 表内联系人（研究档；职务未核；阿里巴巴询 16 槽机架）= 收件人 — 一页纸一次：贴标 OEM 30% B、HLC 标 / 中性包装 STI-288DGGPM / STI-488DGGPM / STI-0240GE，MOQ 起订 + 付费样机、机架不做明说、不点名三旺 — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28） | nguyenhoang@hlc.vn | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

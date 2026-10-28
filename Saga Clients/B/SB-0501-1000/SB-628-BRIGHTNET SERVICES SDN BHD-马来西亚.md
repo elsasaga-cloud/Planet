@@ -72,6 +72,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（MY · 1 次检索：contact.page / panpages（BrightNet Services Sdn. Bhd.；No. 20-4-10, Jalan 2/101C, Cheras Business Centre, 56100 KL；Tel 03-9130 9887；System Integrator / Automation Systems）；SSM 号未得；2026-10-28，2026-10-28 查；https://www.panpages.my/listings/my740116-brightnet-services-sdn-bhd）：**
+
+- 法定名 / 登记号：BrightNet Services Sdn Bhd（bright.net.my；**No. 20-4-10, Jalan 2/101C, Cheras Business Centre, 56100 Kuala Lumpur；03-9130 9887；SSM 号 1 查未得 → 部分坐实**）— 一站式 SI（自动化 / 硬件 / 网络安防 / 现场支持；在售 Cisco / Aruba / Huawei / Ubiquiti 含翻新）；阿里巴巴询「光模块」（Saga 无）；KP Diana Wang（Inside Sales）；无跟进 · 未取（SSM 1 查未得） · 状态 **营业中（名录）** · 成立 未取 · Sdn Bhd
+- 行业码 / 经营范围：IT 系统集成 + 翻新设备（Cheras KL）
+- 注册地址：No. 20-4-10, Jalan 2/101C, Cheras Business Centre, 56100 Kuala Lumpur, Malaysia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Diana Wang — Inside Sales & Administrative（研究档 KP；diana.wang@bright.net.my；非拍板）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **需求 = 光模块（Saga 无）+ 原厂 / 翻新渠道 + KP 非拍板 → 不动（B 保留）**
+- 备注：不动（需求不对位）；部分坐实（名录：法定名 + 地址 + 电话；SSM 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +118,16 @@ updated: 2026-10-28
 - **【用户表】光模块询盘（阿里巴巴）**
   > 光模块 / from: 阿里巴巴即时对话
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Diana Wang（）diana.wang@bright.net.my 〔用户表〕
+- **KP**：Diana Wang（Inside Sales & Administrative（研究档；非拍板；阿里巴巴询光模块）— 不动，不发（第 119 批 官方登记核实 2026-10-28））diana.wang@bright.net.my 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 马来西亚 |
-| 其他 | 官网 bright.net.my，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | BrightNet Services Sdn Bhd（SSM 号 1 查未得） |
+| 总部/地址 | No. 20-4-10, Jalan 2/101C, Cheras Business Centre, 56100 Kuala Lumpur（03-9130 9887）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 bright.net.my，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 119 批：一站式 SI（Cisco / Aruba / Huawei / Ubiquiti 含翻新），需求 = 光模块（Saga 无）+ KP 非拍板 → **不动（B 保留）**；部分坐实（名录）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：系统集成（企业网络 / 安防 / 硬件 / 翻新）
 - **触达通道（公开）**：role: 系统集成商（马来西亚，企业级品牌为主）；region: 马来西亚；contact: diana.wang@bright.net.my
@@ -175,7 +189,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Diana Wang | — | diana.wang@bright.net.my | 调研核实（公开页） | 用户表 |
+| Diana Wang | Inside Sales & Administrative（研究档；非拍板；阿里巴巴询光模块）— 不动，不发（第 119 批 官方登记核实 2026-10-28） | diana.wang@bright.net.my | 调研核实（公开页） | 用户表 |
 | Diana Wang, Inside Sales & Administrative | — | diana.wang@bright.net.my / +0125666691 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

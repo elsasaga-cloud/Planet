@@ -94,6 +94,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 119 批（MY · 1 次检索：saxco.com.my/find-us（HQ 8, Jalan SS 4c/5, Taman Rasa Sayang, 47301 PJ；03-7880 2299；PG / South / KCH / MLK 分公司）+ contact.page（incorporated in the year of 1995）+ jobstreet（51-100 employees；Distributor of all kinds of security products）；SSM 号未得；2026-10-28，2026-10-28 查；https://saxco.com.my/find-us）：**
+
+- 法定名 / 登记号：Saxco Marketing Sdn Bhd（saxco.com.my；**1995 年本地注册；总部 8 & 10, Jalan SS 4C/5, Taman Rasa Sayang, 47301 Petaling Jaya, Selangor；03-7880 2299；槟城 / 沙巴 / 古晋 / 马六甲 4 家姊妹公司；51–100 人；SSM 号 1 查未得 → 部分坐实**）— 全马安防产品分销商（CCTV 起家、报警 / 门禁 / 一站式）；KP Heng Lee Sun（Purchaser）主动问网络交换机；无跟进 · 未取（SSM 1 查未得） · 状态 **营业中（官网 2025）** · 成立 1995 · Sdn Bhd（+ 4 家区域 Sdn Bhd）
+- 行业码 / 经营范围：安防产品分销（Petaling Jaya）
+- 注册地址：8, Jalan SS 4C/5, 47301 Petaling Jaya, Selangor, Malaysia
+- 规模档：中小（51–100）
+- 账目：未取；—
+- 高管：Heng Lee Sun — Purchaser（研究档 KP；purchaser5@saxco.com.my）= 收件人（采购本人主动问）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **全马安防分销 + 采购本人主动问交换机、从未跟进 → 分销 20% B，一页纸一次（摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP 一口价 + MOQ 1 + 付费样机；opener 引其来询）— 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（SIRIM 不声称；DAP 买方清关）**；回信 → 加厚
+- 备注：分销 20%；一页纸一次；部分坐实（官网 + 名录：成立年 + 总部 + 分公司；SSM 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,16 +133,17 @@ updated: 2026-10-28
 - **【用户表】主动联系问了 network switch；security products distributor**
   > 兴趣：主动联系 问了network switch security products distributor
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Heng Lee Sun（）purchaser5@saxco.com.my +60 12 418 8623〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Heng Lee Sun（Purchaser（研究档；主动问网络交换机）= 收件人 — 一页纸一次：分销 20% B、摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））purchaser5@saxco.com.my +60 12 418 8623〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Saxco Marketing Sdn Bhd |
-| 成立 | （待核） |
-| 总部/地址 | Malaysia（+60 3 7880 2299） |
+| 法定名称 | Saxco Marketing Sdn Bhd（SSM 号 1 查未得；槟城 / 沙巴 / 古晋 / 马六甲 4 家姊妹 Sdn Bhd） |
+| 成立 | 1995（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 8 & 10, Jalan SS 4C/5, Taman Rasa Sayang, 47301 Petaling Jaya, Selangor（03-7880 2299）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 第 119 批：全马安防产品分销商（CCTV 起家），采购本人主动问交换机、从未跟进 → **分销 20% B，一页纸一次**；回信 → 加厚；部分坐实（官网 + jobstreet）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防产品分销
 - **触达通道（公开）**：role: 安防分销商；region: 马来西亚
@@ -198,7 +212,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Heng Lee Sun | — | purchaser5@saxco.com.my / +60 12 418 8623 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Heng Lee Sun | Purchaser（研究档；主动问网络交换机）= 收件人 — 一页纸一次：分销 20% B、摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28） | purchaser5@saxco.com.my / +60 12 418 8623 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | SAXCO L | — | purchaser5@saxco.com.my / purchaser6@saxco.com.my / +600378802299 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

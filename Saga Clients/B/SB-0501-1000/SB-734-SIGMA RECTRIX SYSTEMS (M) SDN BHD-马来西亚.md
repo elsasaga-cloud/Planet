@@ -92,6 +92,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 119 批（MY · 1 次检索：sigmarectrix.com/contactus（Sigma Rectrix Systems (M) Sdn Bhd；Suite 3-05, 4805 CBD Perdana 2, Jalan Perdana Cyber 12, Cyberjaya 63000；+60383186696）+ exabytes 伙伴页（founded in 2003；ICT and IOT integration）+ iscb.cybersecurity.my MyCC 认证产品页；SSM 号未得；2026-10-28，2026-10-28 查；https://sigmarectrix.com/contactus）：**
+
+- 法定名 / 登记号：Sigma Rectrix Systems (M) Sdn Bhd（sigmarectrix.com；**2003 年成立；Suite 3-05, 4805 CBD Perdana 2, Jalan Perdana, Cyber 12, 63000 Cyberjaya, Selangor；+60 3 8318 6696；MyCC（CyberSecurity Malaysia）认证防火墙产品开发商；SSM 号 1 查未得 → 部分坐实**）— ICT / IoT 集成 + 软件开发 + 培训（Ubiquiti 在用）；KP Mohamad Faiza bin Ismail（Pre-Sales Consultant）对 2 光 8 bypass 工业机有兴趣；无跟进 · 未取（SSM 1 查未得） · 状态 **营业中（官网 + 认证库）** · 成立 2003 · Sdn Bhd
+- 行业码 / 经营范围：ICT / IoT 集成 + 软件（Cyberjaya）
+- 注册地址：Suite 3-05, 4805 CBD Perdana 2, Jalan Perdana, Cyber 12, 63000 Cyberjaya, Selangor, Malaysia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Mohamad Faiza bin Ismail — Pre-Sales Consultant（研究档 KP；mohamadfaiza@sigmarectrix.com）= 收件人（售前选型）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **ICT / IoT 集成商、售前明确要 2 光 8 工业机 → 集成商 25% B，一页纸一次（STI-288DGGPM $137（2 光 8 电管理 PoE，无 bypass 明说）/ STI-488DGGPM $147 + 3 年保 + MOQ 1 + 付费样机）— 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（SIRIM 不声称；DAP 买方清关）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次；部分坐实（官网 + 伙伴页 + 认证库；SSM 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,16 +130,17 @@ updated: 2026-10-28
 - **【用户表】方案提供商，对 2 光 8 bypass 有挺大兴趣，对跳线问了比较多；地址 Suite 3-05, 4805 CBD Perdana 2, Jalan Perdana, Cyber 12, Cyberjaya**
   > 兴趣：方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mohamad Faiza bin Ismail（）mohamadfaiza@sigmarectrix.com +60 16 965 2260〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Mohamad Faiza bin Ismail（Pre-Sales Consultant（研究档；对 2 光 8 bypass 工业机有兴趣）= 收件人（售前选型）— 一页纸一次：集成商 25% B、STI-288DGGPM $137（无 bypass 明说）/ STI-488DGGPM $147 + 3 年保 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））mohamadfaiza@sigmarectrix.com +60 16 965 2260〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Sigma Rectrix Systems (M) Sdn. Bhd. |
-| 成立 | （待核） |
-| 总部/地址 | Suite 3-05, 4805 CBD Perdana 2, Cyber 12, 63000 Cyberjaya, Malaysia |
+| 法定名称 | Sigma Rectrix Systems (M) Sdn Bhd（SSM 号 1 查未得；MyCC 认证防火墙开发商） |
+| 成立 | 2003（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Suite 3-05, 4805 CBD Perdana 2, Jalan Perdana, Cyber 12, 63000 Cyberjaya, Selangor（+60 3 8318 6696）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 第 119 批：ICT / IoT 集成 + 软件 + 培训（Ubiquiti 在用），售前明确要 2 光 8 工业机 → **集成商 25% B，一页纸一次**；再无回声 → 不动；部分坐实（官网 + 伙伴页 + 认证库）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：ICT 方案 / 系统集成
 - **触达通道（公开）**：role: 方案提供商；region: 马来西亚
@@ -198,7 +212,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mohamad Faiza bin Ismail | — | mohamadfaiza@sigmarectrix.com / +60 16 965 2260 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mohamad Faiza bin Ismail | Pre-Sales Consultant（研究档；对 2 光 8 bypass 工业机有兴趣）= 收件人（售前选型）— 一页纸一次：集成商 25% B、STI-288DGGPM $137（无 bypass 明说）/ STI-488DGGPM $147 + 3 年保 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28） | mohamadfaiza@sigmarectrix.com / +60 16 965 2260 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

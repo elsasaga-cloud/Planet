@@ -77,6 +77,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：yellowpages.vn（Công Ty TNHH Công Nghệ Quang Lâm；99/1 Đường Huỳnh Văn Nghệ, P. 12, Q. Gò Vấp；(028) 38313119；lamho@quanglam.com.vn；Mã số thuế 0310601970）+ wintop.com.vn/pages/thong-tin-lien-he（Công ty TNHH Công Nghệ Quang Lâm；MST 0310601970；văn phòng 160/1/67 Phan Huy Ích）+ thongtincongty.vn（Ngày cấp 22/01/2011；NNT đang hoạt động；Tên giao dịch QLC CO.,LTD）；2026-10-28，2026-10-28 查；https://thongtincongty.vn/ma-so-thue/0310601970-cong-ty-trach-nhiem-huu-han-cong-nghe-quang-lam-474073398）：**
+
+- 法定名 / 登记号：CÔNG TY TNHH CÔNG NGHỆ QUANG LÂM / QLC CO., LTD（quanglam.com.vn + wintop.com.vn；**MST 0310601970；发证 2011-01-22；开票地址 99/1 Huỳnh Văn Nghệ, P.12 (An Hội Tây), Gò Vấp, TP.HCM；交易办公室 / 仓库 160/1/67 Phan Huy Ích；(028) 3831 3119；CEO Hồ Lâm；NNT đang hoạt động**）— 光通信设备分销 + 制造（自产跳线 / 尾纤 / ODF；SFP / GPON / 交换机；**自有品牌 Wintop（MC 等）= 表内「有自己的 logo」**）；KP Hồ Lâm（CEO）；AOA 工业 FS 较多 · MST 0310601970 · 状态 **NNT đang hoạt động（营业中）** · 成立 2011-01-22 · Công ty TNHH
+- 行业码 / 经营范围：光通信设备分销 + 制造 + 自有品牌 Wintop（Gò Vấp, HCMC）
+- 注册地址：99/1 Huỳnh Văn Nghệ, P. An Hội Tây (Gò Vấp), TP. Hồ Chí Minh, Việt Nam
+- 规模档：中小
+- 账目：未取；—
+- 高管：Hồ Lâm (Ho Lam) — CEO（研究档 KP；lamho@quanglam.com.vn；黄页公开）= 拍板人 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **15 年实体 + 自有品牌 Wintop + CEO 本人 KP + 已大量进口国内工业机 → 贴标 OEM 30% B（升 A 候选 ★），一页纸一次（Wintop 标 / 中性包装：STI-288DGGPM / STI-488DGGPM / STI-154GP 工业线 + STC-2224GP / 4424GCPM 商用线，MOQ 起订 + 付费样机；MC 仅 STC-110XGE 明说）— 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（MIC 型号核准不声称；买方清关）**；回信 → 加厚 + 升 A
+- 备注：贴标 OEM 30%（升 A 候选 ★）；一页纸一次（预付 100%）；坐实（MST + 发证日 + 两地址 + CEO）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,17 +116,17 @@ updated: 2026-10-28
 - **【用户表】工业交换机；AOA 的工业 FS 比较多，有自己的 logo MC VC FS 周边产品**
   > 兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hồ Lâm (Ho Lam)（）lamho@quanglam.com.vn +84 908 505 685〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Hồ Lâm (Ho Lam)（CEO（研究档 + 黄页公开；自有品牌 Wintop）= 拍板人 / 收件人 — 一页纸一次：贴标 OEM 30% B（升 A 候选 ★）、Wintop 标 / 中性包装 STI-288DGGPM / STI-488DGGPM / STI-154GP + STC-2224GP / 4424GCPM，MOQ 起订 + 付费样机、MC 仅 STC-110XGE 明说 — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））lamho@quanglam.com.vn +84 908 505 685〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有品牌 OEM））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Công ty TNHH Công Nghệ Quang Lâm |
-| 成立 | （待核） |
-| 总部/地址 | Ho Chi Minh City, Vietnam |
-| 其他 | 自有品牌（wintop.com.vn） |
+| 法定名称 | CÔNG TY TNHH CÔNG NGHỆ QUANG LÂM / QLC CO., LTD（MST 0310601970；NNT đang hoạt động；自有品牌 Wintop wintop.com.vn） |
+| 成立 | 2011-01-22（发证）（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 99/1 Huỳnh Văn Nghệ, P.12 (An Hội Tây), Gò Vấp, TP. Hồ Chí Minh（(028) 3831 3119；办公 / 仓库 160/1/67 Phan Huy Ích）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 自有品牌（wintop.com.vn）；第 119 批：光通信设备分销 + 制造（自产跳线 / ODF；SFP / GPON / 交换机）+ 自有品牌 Wintop，CEO 本人 KP、已大量进口国内工业机 → **贴标 OEM 30% B，一页纸一次；升 A 候选 ★**；回信 → 加厚 + 升 A；坐实（MST + 发证日 + 地址 + CEO）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光模块 / GPON / 无源器件分销与自产；工业 / 商用交换机、MC（AOA 代工贴牌）
 
@@ -182,7 +195,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hồ Lâm (Ho Lam) | — | lamho@quanglam.com.vn / +84 908 505 685 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Hồ Lâm (Ho Lam) | CEO（研究档 + 黄页公开；自有品牌 Wintop）= 拍板人 / 收件人 — 一页纸一次：贴标 OEM 30% B（升 A 候选 ★）、Wintop 标 / 中性包装 STI-288DGGPM / STI-488DGGPM / STI-154GP + STC-2224GP / 4424GCPM，MOQ 起订 + 付费样机、MC 仅 STC-110XGE 明说 — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28） | lamho@quanglam.com.vn / +84 908 505 685 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Ho Lam | — | lamho@quanglam.com.vn / ketoan@quanglam.com.vn / +02838313119 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

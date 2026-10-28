@@ -85,6 +85,20 @@ updated: 2026-10-28
 
 - 法定假日：11-24 Vietnam Cultural Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 119 批（VN · 1 次检索：congtydoanhnghiep.com（Công Ty TNHH Công Nghệ Và Truyền Thông Comtec；MST 0100774014；Thành lập 09-11-1998；Chủ sở hữu Vũ Thái Hải；Số nhà 9, ngách 45, ngõ 91 Nguyễn Chí Thanh；Bán buôn máy móc, thiết bị）+ yellowpages.vn（Được xác minh 25/11/2024；(024) 37734926）；2026-10-28，2026-10-28 查；https://www.yellowpages.vn/lgs/720336/comtec-cong-ty-tnhh-cong-nghe---truyen-thong-comtec.html）：**
+
+- 法定名 / 登记号：CÔNG TY TNHH CÔNG NGHỆ VÀ TRUYỀN THÔNG COMTEC（comtec.com.vn；**MST 0100774014；成立 1998-11-09；所有人 Vũ Thái Hải；登记地址 Số 9, ngách 45, ngõ 91 Nguyễn Chí Thanh, Láng Hạ, Đống Đa, Hà Nội（现办公 GoldSeason 47 Nguyễn Tuân）；(024) 3773 4926；主业 机械设备批发；黄页 2024-11 已验证**）— 电信设备与元器件批发（Viettel / MobiFone / VNPT 供应商；电源 / OTDR / 光模块 / 光缆配件 / 熔接机）；KP Cao Bá Duy（副总经理，公开）；无互动 · MST 0100774014 · 状态 **营业中（已验证 2024-11）** · 成立 1998-11-09 · Công ty TNHH
+- 行业码 / 经营范围：电信设备 / 元器件批发（Đống Đa, Hà Nội）
+- 注册地址：Số 9, ngách 45, ngõ 91 Nguyễn Chí Thanh, Láng Hạ, Đống Đa, Hà Nội, Việt Nam
+- 规模档：中小
+- 账目：未取；—
+- 高管：Cao Bá Duy — Phó Giám Đốc（研究档 KP；caobaduy@comtec.com.vn，黄页公开）
+- 高管：Vũ Thái Hải — 所有人（登记）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **27 年运营商供应商但产品线（电源 / 仪表 / 光模块 / 光缆）不对位 + 无互动 → 不动（B 保留；交换机来询按分销 20% 报，预付 100%）**
+- 备注：不动（产品线不对位 + 无互动）；坐实（MST + 成立日 + 所有人 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,7 +132,7 @@ updated: 2026-10-28
 - **【用户表】富通天下：从 BTON 买了很多；SFP 模块**
   > SFP模块 / 从BTON买了很多 / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Cao Bá Duy（Phó Giám Đốc（副总经理；黄页公开））caobaduy@comtec.com.vn（黄页公开） +84 989 339 983（黄页公开）〔https://www.trangvangvietnam.com/listings/720336/cong-ty-tnhh-cong-nghe-truyen-thong-comtec.html〕
+- **KP**：Cao Bá Duy（Phó Giám Đốc（副总经理；黄页公开）— 不动，不发（交换机来询按分销 20% 报）（第 119 批 官方登记核实 2026-10-28））caobaduy@comtec.com.vn（黄页公开） +84 989 339 983（黄页公开）〔https://www.trangvangvietnam.com/listings/720336/cong-ty-tnhh-cong-nghe-truyen-thong-comtec.html〕
 - **调研后定级**：B（原自动 A）——品类为光模块（非主线）、无互动、越南非主攻区 → B。
 - 备注：首触邮件带 SFP 光口交换机。
 
@@ -126,10 +140,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Công ty TNHH Công Nghệ và Truyền Thông COMTEC（税号 0100774014） |
-| 成立 | 1998-11-09 |
-| 总部/地址 | Tòa FS - GoldSeason, 47 Nguyễn Tuân, Thanh Xuân, Hà Nội（+84 24 3773 4926；info@comtec.com.vn）；分公司 24C Phan Đăng Lưu, TP HCM |
-| 其他 | 客户 Viettel / MobiFone / VNPT；所有者 Vũ Thái Hải |
+| 法定名称 | CÔNG TY TNHH CÔNG NGHỆ VÀ TRUYỀN THÔNG COMTEC（MST 0100774014；主业 机械设备批发；所有人 Vũ Thái Hải） |
+| 成立 | 1998-11-09（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Số 9, ngách 45, ngõ 91 Nguyễn Chí Thanh, Láng Hạ, Đống Đa, Hà Nội（现办公 GoldSeason 47 Nguyễn Tuân；(024) 3773 4926）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 客户 Viettel / MobiFone / VNPT；所有者 Vũ Thái Hải；第 119 批：27 年电信设备 / 元器件批发（Viettel / MobiFone / VNPT 供应商；电源 / OTDR / 光模块 / 光缆配件），产品线不对位 + 无互动 → **不动（B 保留）**；坐实（MST + 成立日 + 所有人）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信设备与元器件批发（光模块、光缆配件、电源、仪表）；运营商项目供货
 - **触达通道（公开）**：网站: https://comtec.com.vn/ve-chung-toi/；电话: +84 24 3773 4926（公开）；邮箱（公开）: info@comtec.com.vn；caobaduy@comtec.com.vn（黄页公开）
@@ -191,7 +205,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Cao Bá Duy | Phó Giám Đốc（副总经理；黄页公开） | caobaduy@comtec.com.vn（黄页公开） / +84 989 339 983（黄页公开） | 调研核实（公开页） | https://www.trangvangvietnam.com/listings/720336/cong-ty-tnhh-cong-nghe-truyen-thong-comtec.html |
+| Cao Bá Duy | Phó Giám Đốc（副总经理；黄页公开）— 不动，不发（交换机来询按分销 20% 报）（第 119 批 官方登记核实 2026-10-28） | caobaduy@comtec.com.vn（黄页公开） / +84 989 339 983（黄页公开） | 调研核实（公开页） | https://www.trangvangvietnam.com/listings/720336/cong-ty-tnhh-cong-nghe-truyen-thong-comtec.html |
 
 - **通道建议**：企业邮箱可直发
 

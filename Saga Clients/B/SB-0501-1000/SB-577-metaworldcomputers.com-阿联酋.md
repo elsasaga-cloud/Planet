@@ -1,6 +1,6 @@
 # metaworldcomputers.com
 
-> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-577`　|　优先级 ★★　|　状态：已推送 3 次·未回复
+> **评级 B**　|　阿联酋　|　档案编号 `SB-577`　|　优先级 ★★　|　状态：已推送 3 次·未回复
 >
 > **类型**：IT 经销商（沙特）（推断）　|　**历史关系**：推送 3 次（2025-08-21 → 2025-10-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-577
 rating: B
 rating_auto: B
 score: 37
-country: 沙特阿拉伯
+country: 阿联酋
+country_table: 沙特阿拉伯  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
 region: 中东
 website: metaworldcomputers.com
 type: IT 经销商（沙特）
@@ -72,16 +73,29 @@ updated: 2026-10-28
 
 - `metaworldcomputers.com` → 主机商 cPanel 类邮箱（MX：mx10.antispam.mailspamprotection.com、mx20.antispam.mailspamprotection.com、mx30.antispam.mailspamprotection.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（沙特阿拉伯 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（阿联酋 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 窗口内无该国法定假日
+
+**公司底数 · 第 119 批（AE · 1 次检索：metaworldcomputers.com/contact-us（MetaWorld Computers LLC；Damascus Street, office 331, Deyaar Building, Al Qussais, Dubai；+971 56 2134555；sales@ / info@）+ 首页（+971 4 3537555；ELV, Security Surveillance and Telecom Equipments）+ /fiberproducts（Metacom Fiber Products）；2026-10-28，2026-10-28 查；https://www.metaworldcomputers.com/contact-us.html）：**
+
+- 法定名 / 登记号：MetaWorld Computers LLC（metaworldcomputers.com；**Deyaar Building, Office 331, Damascus Street, Al Qussais Industrial Area 1, Dubai；+971 4 353 7555 / +971 56 213 4555；官网自列 LLC → country_fix 阿联酋；牌照号未得 → 部分坐实**）— 光纤 / 连接产品 + ELV / 安防 / 电信设备供应（自有「Metacom」光纤产品线；500+ 客户自述）；无 KP（info@）；3 次跟进无回复 · 未取（LLC；牌照号 1 查未得） · 状态 **营业中（官网在）** · 成立 未取 · LLC
+- 行业码 / 经营范围：光纤 / 连接 / ELV / 安防设备供应（Al Qussais, Dubai）
+- 注册地址：Deyaar Building, Office 331, Damascus Street, Al Qussais Industrial Area 1, Dubai, UAE
+- 规模档：小型
+- 账目：未取；—
+- 高管：（研究档无 KP：info@metaworldcomputers.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **无 KP + 3×0 + 光纤为主 → 不动（B 保留；国别更正阿联酋；若其 Metacom 自有线要交换机再按贴标 30% 报）**— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称）
+- 备注：不动（无 KP + 3×0）；部分坐实（官网：法定后缀 + 地址 + 电话）；country_fix 阿联酋。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | metaworldcomputers.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 沙特阿拉伯 | 事实（用户表）|
+| 国家 | 阿联酋 | 事实（用户表）|
 | 网站/域名 | metaworldcomputers.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | IT 经销商（沙特） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
@@ -110,8 +124,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 沙特阿拉伯 |
-| 其他 | 官网 metaworldcomputers.com，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | MetaWorld Computers LLC（官网自列；牌照号 1 查未得；自有「Metacom」光纤产品线） |
+| 总部/地址 | Deyaar Building, Office 331, Damascus Street, Al Qussais Industrial Area 1, Dubai, UAE（+971 4 353 7555 / +971 56 213 4555）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 metaworldcomputers.com，语言 ?，快照状态 ok；角色判定来源：待核；第 119 批：光纤 / 连接 / ELV / 安防 / 电信设备供应，表内沙特实为迪拜 → country_fix 阿联酋；无 KP + 3×0 → **不动（B 保留；Metacom 自有线要交换机再按贴标 30% 报）**；部分坐实（官网）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 经销（沙特）
 - **触达通道（公开）**：role: IT 经销商（沙特）；region: 沙特阿拉伯；contact: info@metaworldcomputers.com

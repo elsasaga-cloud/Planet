@@ -80,6 +80,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：masothue.com/0109246393（CÔNG TY TNHH VIỄN THÔNG GIÁ TỐT；Mã số thuế 0109246393；Thôn Tiên Kha, Xã Phúc Thịnh, Hà Nội；Đang hoạt động；Người đại diện NGUYỄN VĂN ĐÔNG；Ngày hoạt động 2020-07-01）；2026-10-28，2026-10-28 查；https://masothue.com/0109246393-cong-ty-tnhh-vien-thong-gia-tot）：**
+
+- 法定名 / 登记号：CÔNG TY TNHH VIỄN THÔNG GIÁ TỐT / GOOD PRICE TELECOMMUNICATIONS CO., LTD（vienthonggiatot.com；**MST 0109246393；2020-07-01 起营业；Thôn Tiên Kha, Xã Phúc Thịnh, Hà Nội；法人代表 Nguyễn Văn Đông；0963 508 809；两人以上有限公司；Đang hoạt động**）— 网络设备电商 + 弱电施工，站内按品牌卖 PLANET / TP-Link / Cisco / **HRUI 正品 PoE** / 工业交换机；无 KP（gmail 公用箱） · MST 0109246393 · 状态 **Đang hoạt động（营业中）** · 成立 2020-07-01 · Công ty TNHH 2 thành viên trở lên
+- 行业码 / 经营范围：网络设备电商 + 弱电施工（Hà Nội）
+- 注册地址：Thôn Tiên Kha, Xã Phúc Thịnh, Hà Nội, Việt Nam
+- 规模档：微型（2020 新设）
+- 账目：未取；—
+- 高管：Nguyễn Văn Đông — 法人代表（masothue）
+- 高管：（研究档无 KP：vienthonggiatotvn@gmail.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **HRUI 在供（Q-33 口径待定）+ 2020 新壳 + 无 KP → 不动（B 保留；Q-33 定后若放开则按分销 20% 推 Marvell 管理线，预付 100%）**
+- 备注：不动（Q-33 待定 + 新壳）；坐实（MST + 地址 + 法人代表 + 成立日）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,15 +126,17 @@ updated: 2026-10-28
 - **【用户表】表内注「很多国内的牌子 有洪瑞的」；2025-11 群发 28 PoE→price**
   > 兴趣：很多国内的牌子 有洪瑞的；回复：price
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Nguyễn Văn Đông（法人代表（masothue 0109246393）— 不动（Q-33 待定）（第 119 批 官方登记核实 2026-10-28）） 〔masothue.com/0109246393〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照品牌识别：已售 HRUI））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （待核；品牌名 Viễn Thông Giá Tốt） |
-| 总部/地址 | 越南（表内） |
-| 其他 | 仅 gmail（vienthonggiatotvn@gmail.com） |
+| 法定名称 | CÔNG TY TNHH VIỄN THÔNG GIÁ TỐT / GOOD PRICE TELECOMMUNICATIONS CO., LTD（MST 0109246393；Công ty TNHH 2 thành viên；Đang hoạt động） |
+| 成立 | 2020-07-01（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Thôn Tiên Kha, Xã Phúc Thịnh, Hà Nội（0963 508 809）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 仅 gmail（vienthonggiatotvn@gmail.com）；第 119 批：网络设备电商 + 弱电施工（PLANET / TP-Link / Cisco / HRUI 正品 / 工业交换机），HRUI 在供（Q-33 口径待定）+ 2020 新壳 + 无 KP → **不动（B 保留；Q-33 放开则按分销 20% 推 Marvell 管理线，预付 100%）**；坐实（MST + 法人代表 + 成立日）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备电商（交换机 / 光模块 / 机柜 / 配件）；光纤 / Wi-Fi / 监控施工
 
@@ -205,7 +221,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | vienthonggiatotvn@gmail.com | 用户表原值 | Clients/ 表 |
+| Nguyễn Văn Đông | 法人代表（masothue 0109246393）— 不动（Q-33 待定）（第 119 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | masothue.com/0109246393 |
 
 - **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 

@@ -86,6 +86,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 119 批（SA · 1 次检索：linkedin.com/company/telecom-special-solutions-tss（MEP, Data Center Technology Contracting … Approved NEOM ICT & Infrastructure Contractor；Khobar, Riyadh, NEOM；Partnership；Founded 2012；51-200）+ zoominfo（Prince Fisal Bin Fahad Road Al Moosa Bld, Khobar；+966 138468882；11-50；Murad Abusal Senior Manager, Accounts & Projects）；CR 未得；2026-10-28，2026-10-28 查；https://www.linkedin.com/company/telecom-special-solutions-tss）：**
+
+- 法定名 / 登记号：Telecom Special Solutions (TSS)（tss-e.com；**总部 Prince Faisal Bin Fahad Road, Al Moosa Building, Al Khobar；+966 13 846 8882；2012 年成立（自述 16+ 年）；合伙企业；11–50 / 51–200 人（口径不一）；NEOM 核准 ICT 与基础设施承包商；分支利雅得 / NEOM；CR 号 1 查未得 → 部分坐实**）— 数据中心 / MEP / 安防 / 电信 turnkey 承包（SOC / NOC、网络、CCTV、IPTEL、IPTV、消防）；KP Eng. Murad = ZoomInfo「Murad Abusal, Senior Manager, Accounts & Projects」✓；需求 工业带光口交换机 + SFP · 未取（CR 1 查未得） · 状态 **营业中（领英 + 企业库）** · 成立 2012 · 合伙企业（领英口径）
+- 行业码 / 经营范围：数据中心 / 电信 / 安防 turnkey 承包（Al Khobar；利雅得 / NEOM）
+- 注册地址：Prince Faisal Bin Fahad Road, Al Moosa Building, Al Khobar, Saudi Arabia
+- 规模档：小型（11–50；自报 51–200）
+- 账目：未取；—
+- 高管：Eng. Murad (Murad Abusal) — Senior Manager, Accounts & Projects（研究档 KP；murad@tss-e.com；ZoomInfo 吻合）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **东部省 turnkey 承包商、项目经理为 KP、需求明确（工业光口交换机）→ 集成商 25% B，一页纸一次（STI-288DGGPM $137 / STI-488DGGPM $147 + STC-4424GCPM 一口价；SFP 不做明说；MOQ 1 + 付费样机）— 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SASO / SABER 不声称）**；NEOM / 政府项目按单核；回信 → 加厚
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（领英 + ZoomInfo：总部 + 电话 + 成立年 + KP 职务；CR 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,16 +124,17 @@ updated: 2026-10-28
 - **【用户表】工业级带光的交换机、SFP 模块；前一阵子问了模块和 PSU**
   > 兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Eng. Murad（）murad@tss-e.com +966 59 832 3625〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Eng. Murad（Senior Manager, Accounts & Projects（ZoomInfo「Murad Abusal」吻合；需求 工业光口交换机 + SFP）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-488DGGPM $147 + STC-4424GCPM 一口价、SFP 不做明说、MOQ 1 + 付费样机 — 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、SASO / SABER 不声称（第 119 批 官方登记核实 2026-10-28））murad@tss-e.com +966 59 832 3625〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | TSS Co.（待核） |
-| 成立 | （待核） |
-| 总部/地址 | Dammam / Khobar, Eastern Province, Saudi Arabia |
+| 法定名称 | Telecom Special Solutions (TSS)（合伙企业，领英口径；NEOM 核准 ICT 与基础设施承包商；CR 号 1 查未得） |
+| 成立 | 2012（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Prince Faisal Bin Fahad Road, Al Moosa Building, Al Khobar（+966 13 846 8882；分支 Riyadh / NEOM）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 第 119 批：数据中心 / MEP / 安防 / 电信 turnkey 承包商，项目经理为 KP、需求明确 → **集成商 25% B，一页纸一次**；NEOM / 政府项目按单核；回信 → 加厚；部分坐实（领英 + ZoomInfo）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信 / 安防工程承包
 - **触达通道（公开）**：role: 工程承包商；region: 沙特东部省
@@ -191,7 +205,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Eng. Murad | — | murad@tss-e.com / +966 59 832 3625 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Eng. Murad | Senior Manager, Accounts & Projects（ZoomInfo「Murad Abusal」吻合；需求 工业光口交换机 + SFP）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-488DGGPM $147 + STC-4424GCPM 一口价、SFP 不做明说、MOQ 1 + 付费样机 — 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、SASO / SABER 不声称（第 119 批 官方登记核实 2026-10-28） | murad@tss-e.com / +966 59 832 3625 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

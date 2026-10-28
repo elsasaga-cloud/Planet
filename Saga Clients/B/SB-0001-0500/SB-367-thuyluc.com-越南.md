@@ -83,6 +83,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：thuvienphapluat.vn（CÔNG TY CỔ PHẦN MTS；Tên quốc tế MTS JSC；Mã số thuế 0101892941；Ngày cấp 20/03/2006；Số 166 đường Tựu Liệt）+ trangvangvietnam（Kiốt 7 CT4C X2 Bắc Linh Đàm；(024) 36416189；Thiết Bị Thủy Lực；www.thuyluc.com）；2026-10-28，2026-10-28 查；https://thuvienphapluat.vn/ma-so-thue/cong-ty-co-phan-mts-mst-0101892941.html）：**
+
+- 法定名 / 登记号：CÔNG TY CỔ PHẦN MTS / MTS JSC（thuyluc.com；**MST 0101892941；发证 2006-03-20；Số 166 đường Tựu Liệt, Tam Hiệp, Thanh Trì, Hà Nội（门店 Kiốt 7 CT4C X2 Bắc Linh Đàm）；(024) 3641 6189**）— 液压设备（软管 / 阀 / 泵 / 油缸），非网络行业；表内 Lee 曾询 2 光 6 电非管理 SC 20 km（未成） · MST 0101892941 · 状态 **营业中** · 成立 2006-03-20 · Công ty Cổ phần
+- 行业码 / 经营范围：液压设备贸易（Thanh Trì, Hà Nội）
+- 注册地址：Số 166 đường Tựu Liệt, Tam Hiệp, Thanh Trì, Hà Nội, Việt Nam
+- 规模档：小型
+- 账目：未取；—
+- 高管：Ly Thanh Ha (Lee) — 表内联系人（研究档 KP；hydraulics@vnn.vn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **非目标行业（液压）+ 偶发需求 → 不动（B 保留）**
+- 备注：不动（非目标行业）；坐实（MST + 发证日 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,16 +121,17 @@ updated: 2026-10-28
 - **【用户表】兴趣 2 光 6 电非管理非 POE SC 20km 没成；Email 发了 2 光 6 小壳信息**
   > 兴趣：2光6电非管理非POE SC 20km 没成
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ly Thanh Ha (Lee Thanh Ha)（；Project Manager, MTS JSC（2024-06-21 签名；发信地址 chuyengiathuykhi@gmail.com））hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址） +84 912 336 758〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ly Thanh Ha (Lee Thanh Ha)（表内联系人 Lee（液压公司；偶发询 2 光 6 电）— 不动，不发（第 119 批 官方登记核实 2026-10-28））hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址） +84 912 336 758〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：行业外））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Công ty Cổ Phần MTS |
-| 总部/地址 | 越南 |
-| 其他 | 液压行业（行业外） |
+| 法定名称 | CÔNG TY CỔ PHẦN MTS / MTS JSC（MST 0101892941） |
+| 成立 | 2006-03-20（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Số 166 đường Tựu Liệt, Tam Hiệp, Thanh Trì, Hà Nội（门店 Kiốt 7 CT4C X2 Bắc Linh Đàm；(024) 3641 6189）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 液压行业（行业外）；第 119 批：液压设备贸易（非目标行业）→ **不动（B 保留）**；坐实（MST + 发证日 + 地址）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：液压元件贸易
 - **触达通道（公开）**：role: 行业外终端 / 偶发采购；region: 越南
@@ -204,7 +218,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ly Thanh Ha (Lee Thanh Ha) | ；Project Manager, MTS JSC（2024-06-21 签名；发信地址 chuyengiathuykhi@gmail.com） | hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址） / +84 912 336 758 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ly Thanh Ha (Lee Thanh Ha) | 表内联系人 Lee（液压公司；偶发询 2 光 6 电）— 不动，不发（第 119 批 官方登记核实 2026-10-28） | hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址） / +84 912 336 758 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Lee | — | chuyengiathuykhi@gmail.com / hydraulics@vnn.vn / +84912336758 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

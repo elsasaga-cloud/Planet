@@ -74,6 +74,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：congtyminhphuoc.vn/kinh-nghiem-mua-sam（CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ MINH PHƯỚC；Thành lập 30/01/2015；Mã Số Thuế 0313120792；11/31 Nguyễn Thái Sơn, Phường 3 quận Gò Vấp；MINH PHUOC SOLUTIONS TECHNOLOGY COMPANY LIMITED；tmphuocvn@gmail.com；nhà nhập khẩu và sản xuất phân phối）；同名 Cty TNHH Minh Phước 平顺省（油品）≠；2026-10-28，2026-10-28 查；https://congtyminhphuoc.vn/kinh-nghiem-mua-sam）：**
+
+- 法定名 / 登记号：CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ MINH PHƯỚC / MINH PHUOC SOLUTIONS TECHNOLOGY CO., LTD（congtyminhphuoc.vn；**MST 0313120792；成立 2015-01-30；11/31 Nguyễn Thái Sơn, P.3, Q. Gò Vấp, TP.HCM；官网自列**）— 电信设备 / 光跳线 / 光缆 / 摄像机 / 机柜 进口 + 生产分销；表内「从 BTON 买了很多」= 大量进口国内光产品；无具名 KP（tmphuocvn@gmail.com）；群发无互动 · MST 0313120792 · 状态 **营业中（官网）** · 成立 2015-01-30 · Công ty TNHH
+- 行业码 / 经营范围：电信 / 光纤产品进口 + 生产分销（Gò Vấp, HCMC）
+- 注册地址：11/31 Nguyễn Thái Sơn, P.3, Q. Gò Vấp, TP. Hồ Chí Minh, Việt Nam
+- 规模档：小型
+- 账目：未取；—
+- 高管：（研究档无具名 KP：tmphuocvn@gmail.com 公用箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **真实进口商（同行大量采购）→ 分销 20% B small，一页纸一次（STC-228GP / STC-2216GP / STI-154GP 一口价 + MOQ 1 + 付费样机；MC 仅 STC-110XGE 明说；Attn: Purchasing）— 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（MIC 型号核准不声称；买方清关）**；再无回声 → 不动
+- 备注：分销 20% small；一页纸一次（预付 100%；无具名 KP）；坐实（官网自列 MST + 成立日 + 地址 + 英文名）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -102,9 +115,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Công ty TNHH Minh Phước（全称待核） |
-| 总部/地址 | Vietnam |
-| 其他 | Gmail 联系；多品牌光产品 |
+| 法定名称 | CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ MINH PHƯỚC / MINH PHUOC SOLUTIONS TECHNOLOGY CO., LTD（MST 0313120792；官网自列；≠ 平顺省 Cty TNHH Minh Phước 油品） |
+| 成立 | 2015-01-30（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 11/31 Nguyễn Thái Sơn, P.3, Q. Gò Vấp, TP. Hồ Chí Minh（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | Gmail 联系；多品牌光产品；第 119 批：电信 / 光跳线 / 光缆 / 摄像机 / 机柜 进口 + 生产分销（表内：从国内同行大量进口光产品）→ **分销 20% B small，一页纸一次（Attn: Purchasing；gmail 公用箱 → 预付 100%）**；再无回声 → 不动；坐实（官网自列 MST + 成立日 + 地址 + 英文名）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤/网络产品贸易
 - **触达通道（公开）**：网站: https://congtyminhphuoc.vn/（未核）；邮箱: tmphuocvn@gmail.com（用户表）

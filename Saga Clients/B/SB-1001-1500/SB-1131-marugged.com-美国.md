@@ -1,7 +1,7 @@
 # marugged.com
 **官方名称（调研核实）**：Mid-Atlantic Rugged Systems (M/A Rugged)
 
-> **评级 B**　|　马来西亚　|　档案编号 `SB-1131`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　美国　|　档案编号 `SB-1131`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:马来西亚　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -12,8 +12,9 @@ rating_auto: C
 rating_research: B  # Planet 渠道档案 PB-005 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
 name_official: "Mid-Atlantic Rugged Systems (M/A Rugged)"
 score: 12
-country: 马来西亚
-region: 亚太
+country: 美国
+country_table: 马来西亚  # 表内原填；调研纠正为 美国（research JSON country_fix）
+region: 北美
 website: marugged.com
 type: 经销/集成（类型待核）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:马来西亚"]
@@ -88,12 +89,25 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（US · 1 次检索：marugged.com/teltonika（Mid-Atlantic Rugged Systems 95 Monocacy Blvd, Suite B18 Frederick, MD 21701；sales@marugged.com；855-784-4334；Shop By Brands Moxa / PLANET Technology / Teltonika …）+ zoominfo（Frederick, Maryland；<25 Employees）；州登记号未得；2026-10-28，2026-10-28 查；https://marugged.com/teltonika/）：**
+
+- 法定名 / 登记号：Mid-Atlantic Rugged Systems（marugged.com；**美国马里兰：95 Monocacy Blvd, Suite B18, Frederick, MD 21701；855-784-4334；<25 人；表内误归马来西亚 → country_fix 美国**）— 加固计算 / 工业网络 VAD（PLANET 授权分销专页、Moxa 10 年+、Teltonika / ATOP / Cincoze / Lanner）；无 KP（sales@） · 未取（MD 州登记 1 查未得） · 状态 **营业中（网店在）** · 成立 未取 · LLC / Inc（未取）
+- 行业码 / 经营范围：加固计算 / 工业网络分销（Frederick MD）
+- 注册地址：95 Monocacy Blvd, Suite B18, Frederick, MD 21701, USA
+- 规模档：微型（<25）
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@marugged.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **原厂（PLANET / Moxa）授权分销 + 无 KP → 不动（B 保留；国别更正美国）**— 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 / DAP（买方清关；FCC 有、UL / NDAA / TAA 不声称）
+- 备注：不动（原厂授权分销）；部分坐实（官网 + ZoomInfo）；country_fix 美国。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | marugged.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 马来西亚 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | marugged.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
@@ -124,9 +138,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Mid-Atlantic Rugged Systems (M/A Rugged) |
-| 总部/地址 | Frederick, MD, 美国 |
-| 其他 | Planet 渠道档案 PB-005（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：否；最大未知： |
+| 法定名称 | Mid-Atlantic Rugged Systems（marugged.com；州登记号 1 查未得） |
+| 总部/地址 | 95 Monocacy Blvd, Suite B18, Frederick, MD 21701, USA（855-784-4334）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | Planet 渠道档案 PB-005（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：否；最大未知：；第 119 批：加固计算 / 工业网络 VAD（PLANET 授权分销专页 + Moxa / Teltonika），表内误归马来西亚 → country_fix 美国；原厂授权分销 + 无 KP → **不动（B 保留）**；部分坐实（官网 + ZoomInfo）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）
 
@@ -215,7 +229,7 @@ updated: 2026-10-28
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：北美主攻区，复购与口碑可外溢
 - **W**：无具名决策人，仍是公司级触达
 - **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Moxa：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差

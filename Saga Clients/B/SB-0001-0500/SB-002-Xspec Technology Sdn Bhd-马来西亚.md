@@ -99,6 +99,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「跟 PI 节奏；不主动」，不排发信，略。
 
+**公司底数 · 第 119 批（MY · 1 次检索：buy.experian.com.my（XSPEC TECHNOLOGY SDN. BHD. (200501018493 (700608-K))；Incorporation Date 20 June 2005；State SELANGOR；trading in non-destructive equipments …）+ abc-gcc（No 8, Jalan Industri USJ 1/8, Subang Jaya；+60-3-80231161；Managing Director Sugito Wibawa）+ newpages；2026-10-28，2026-10-28 查；https://buy.experian.com.my/index.php/buy-report/malaysia-company/700608/xspec-technology-sdn-bhd）：**
+
+- 法定名 / 登记号：Xspec Technology Sdn Bhd（xspec.com.my；**SSM 200501018493 (700608-K)；注册 2005-06-20；Selangor；No 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, Subang Jaya；+60 3 8023 1161；MD Sugito Wibawa；登记业务 无损检测设备贸易 / 工业化学品批发 / 管理咨询（experian，数据至 2026-10-04）**）— 制造商代表 / 分销（NDT、军警安防、医疗、生物实验室设备；马 / 印尼 / 新）；**表内 WhatsApp 跟进、有成单记录** · SSM 200501018493 (700608-K) · 状态 **营业中（登记在 2026-10）** · 成立 2005-06-20 · Sdn Bhd
+- 行业码 / 经营范围：设备制造商代表 / 分销（Subang Jaya）
+- 注册地址：No 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, Subang Jaya, Selangor, Malaysia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Sugito Wibawa — Managing Director（研究档 KP；sugito@xspec.com.my；WA 在联）= 拍板人 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已成单客户（表内）+ MD 本人 KP + 21 年登记实体 → 分销 20% B（升 A 候选 ★）：复购一页纸（上次成交型号续单价 + 新品 STI-288DGGPM / STC-2224GP 一口价 + MOQ 1；WA 为主）— 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（SIRIM 不声称；DAP 买方清关）**；回信 → 升 A；军警项目不主动提
+- 备注：分销 20%（升 A 候选 ★，已成单）；复购一页纸；坐实（SSM 号 + 注册日 + 地址 + MD）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -145,17 +158,17 @@ updated: 2026-10-28
 - **【公开平台核查（T29-U18）】Converus 授权服务伙伴名录：MALAYSIA XSPec Technology Sdn Bhd，Sugito Wibawa，+60 (3) 8023 1162**
   > MALAYSIA XSPec Technology Sdn Bhd Sugito Wibawa … W: xspectechnology.com
   > 来源：https://converus.com/find-a-partner/（抓取 2026-09-23）
-- **KP**：Sugito Wibawa（负责人（代理名录口径））sugito@xspec.com.my +60 3 8023 1161〔https://www.intron.ru/en/about-us/agents/〕
+- **KP**：Sugito Wibawa（Managing Director（abc-gcc 名录；研究档 KP；WA 在联；表内有成单记录）= 拍板人 / 收件人 — 复购一页纸：分销 20% B（升 A 候选 ★）、上次成交型号续单价 + STI-288DGGPM / STC-2224GP 一口价 + MOQ 1；WA 为主 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））sugito@xspec.com.my +60 3 8023 1161〔https://www.intron.ru/en/about-us/agents/〕
 - **调研后定级**：B（原自动 A）——成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | XSPEC Technology Sdn. Bhd. |
-| 成立 | 2005（注册） |
-| 总部/地址 | No. 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia（+60 12 988 8086 手机） |
-| 其他 | 代理 NDT 检测、军警安防、医疗、生物实验室设备；覆盖马/印尼/新 |
+| 法定名称 | Xspec Technology Sdn Bhd（SSM 200501018493 (700608-K)；登记业务 无损检测设备贸易 / 工业化学品批发 / 管理咨询；experian 数据至 2026-10-04） |
+| 成立 | 2005-06-20（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | No 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, Subang Jaya, Selangor（+60 3 8023 1161）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 代理 NDT 检测、军警安防、医疗、生物实验室设备；覆盖马/印尼/新；第 119 批：制造商代表 / 分销（NDT、军警安防、医疗、实验室；马 / 印尼 / 新），**已成单客户 + MD 本人 KP → 分销 20% B，复购一页纸；升 A 候选 ★（建议直接升）**；军警项目不主动提；坐实（SSM 号 + 注册日 + 地址 + MD）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：制造商代表/分销（NDT、安防、医疗）；项目供货（交换机/PoE 作配套）
 - **触达通道（公开）**：网站: https://xspectechnology.com/ · xspec.com.my；邮箱: sugito@xspec.com.my（用户表）；WhatsApp / Skype: +60 12 988 8086 / sugitowibawa（用户表）；公开动态平台（监控中，T29-U18）: 新目录站 xspectechnology.com（2026 改版，MY/SG/ID 三站，54 品牌 86 产品）；CEO Sugito Wibawa LinkedIn（1K followers，2026-05 仍活跃）；展会：MINDTCE 2026-11-17/18（NDT 展参展商）
@@ -247,7 +260,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sugito Wibawa | 负责人（代理名录口径） | sugito@xspec.com.my / +60 3 8023 1161 | 调研核实（公开页） | https://www.intron.ru/en/about-us/agents/ |
+| Sugito Wibawa | Managing Director（abc-gcc 名录；研究档 KP；WA 在联；表内有成单记录）= 拍板人 / 收件人 — 复购一页纸：分销 20% B（升 A 候选 ★）、上次成交型号续单价 + STI-288DGGPM / STC-2224GP 一口价 + MOQ 1；WA 为主 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28） | sugito@xspec.com.my / +60 3 8023 1161 | 调研核实（公开页） | https://www.intron.ru/en/about-us/agents/ |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

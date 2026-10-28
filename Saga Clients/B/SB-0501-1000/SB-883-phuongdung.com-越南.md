@@ -69,6 +69,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：masothue.com/0315321631（CÔNG TY TNHH VIỄN THÔNG PHƯƠNG DUNG；PHUONG DUNG TELECOM COMPANY LIMITED；40/14 Tân Thành, Phường Tân Phú；Đang hoạt động；Người đại diện VĂN ĐỨC PHƯƠNG）+ phuongdung.com 页脚（GCNĐKDN số 0315321631 Ngày Cấp 10/04/2024；Chi nhánh Đà Nẵng / Tây Ninh；Hotline 0989865766）；2026-10-28，2026-10-28 查；https://masothue.com/0315321631-cong-ty-tnhh-vien-thong-phuong-dung）：**
+
+- 法定名 / 登记号：CÔNG TY TNHH VIỄN THÔNG PHƯƠNG DUNG / PHUONG DUNG TELECOM CO., LTD（phuongdung.com；**MST 0315321631；GCN 变更 2024-04-10（HCMC 计投局）；总部 40/14 Tân Thành, P. Tân Thành, Q. Tân Phú, TP.HCM；分支 岘港 / 西宁；法人代表 VĂN ĐỨC PHƯƠNG = 表内 KP ✓（另代表 Univision Việt Nam JSC、Sài Gòn New）；0989 865 766**）— 监控摄像机批发零售 + 安装（Vantech / KBVision / Hikvision / Dahua / Ezviz …；站内 ONV 交换机）；表内 1 次跟进无回复 · MST 0315321631 · 状态 **Đang hoạt động（营业中）** · 成立 约 2018（MST 0315 段）；GCN 变更 2024-04-10 · Công ty TNHH
+- 行业码 / 经营范围：监控摄像机批发零售 + 安装（Tân Phú, HCMC；2 分支）
+- 注册地址：40/14 Tân Thành, P. Tân Phú, TP. Hồ Chí Minh, Việt Nam
+- 规模档：小型
+- 账目：未取；—
+- 高管：Văn Đức Phương — 负责人 / 法人代表（研究档 KP；info@phuongdung.com；登记吻合）= 拍板人 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **三地摄像机分销 + 老板本人为法人代表 + 在售国内交换机 → 分销 20% B small，一页纸一次（摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机；不点名 ONV）— 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（MIC 型号核准不声称；买方清关）**；1×0 在先 → 再无回声即不动
+- 备注：分销 20% small；一页纸一次（预付 100%）；坐实（MST + 地址 + 法人代表 = KP + 分支）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -96,15 +109,17 @@ updated: 2026-10-28
 - **【用户表】分销商 批发零售 switch ONV**
   > 分销商 批发零售商 / switch 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Văn Đức Phương（）info@phuongdung.com 〔用户表〕
+- **KP**：Văn Đức Phương（负责人 / 法人代表（masothue VĂN ĐỨC PHƯƠNG 吻合；另代表 Univision Việt Nam JSC、Sài Gòn New；1 次跟进无回复）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机、不点名 ONV — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））info@phuongdung.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 越南 |
-| 其他 | 官网 phuongdung.com，语言 ?，快照状态 timeout；角色判定来源：用户表 |
+| 法定名称 | CÔNG TY TNHH VIỄN THÔNG PHƯƠNG DUNG / PHUONG DUNG TELECOM CO., LTD（MST 0315321631；GCN 变更 2024-04-10） |
+| 成立 | 约 2018（MST 0315 段）（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 40/14 Tân Thành, P. Tân Phú, TP. Hồ Chí Minh（0989 865 766；分支 Đà Nẵng / Tây Ninh）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 phuongdung.com，语言 ?，快照状态 timeout；角色判定来源：用户表；第 119 批：监控摄像机批发零售 + 安装（Vantech / KBVision / Hikvision / Dahua；站内 ONV 交换机），老板 = 法人代表 → **分销 20% B small，一页纸一次**；1×0 在先 → 再无回声即不动；坐实（MST + 地址 + 法人代表 + 分支）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品分销 / 批发零售（越南）
 - **触达通道（公开）**：role: 网络产品分销/批发商（越南，ONV 在售）；region: 越南；contact: info@phuongdung.com
@@ -170,7 +185,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Văn Đức Phương | — | info@phuongdung.com | 调研核实（公开页） | 用户表 |
+| Văn Đức Phương | 负责人 / 法人代表（masothue VĂN ĐỨC PHƯƠNG 吻合；另代表 Univision Việt Nam JSC、Sài Gòn New；1 次跟进无回复）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机、不点名 ONV — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28） | info@phuongdung.com | 调研核实（公开页） | 用户表 |
 | Mr.Phuong  Van | — | info@phuongdung.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

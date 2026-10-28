@@ -92,6 +92,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 119 批（MY · 1 次检索：linkedin.com/company/heitechpaduberhad（HEITECH PADU BERHAD Registration No: 199401024950 (310628-D)；public listed … Bursa Malaysia；Founded 1995）+ marketscreener AGM 纪要（Registration No. 199401024950 (310628-D)）+ rocketreach（HeiTech Village, Persiaran Kewajipan, USJ 1, UEP Subang Jaya 47600；+60 3-8601 3000；979 employees）；2026-10-28，2026-10-28 查；https://www.linkedin.com/company/heitechpaduberhad）：**
+
+- 法定名 / 登记号：HeiTech Padu Berhad（heitech.com.my；**Registration No. 199401024950 (310628-D)；Bursa Malaysia 主板上市 HTPADU；1995；HeiTech Village, Persiaran Kewajipan, USJ 1, 47600 UEP Subang Jaya, Selangor；+60 3 8601 3000；约 979 人 / 营收 $56.9M**）— 政府 / 企业 ICT 系统集成（SI、托管网络、数据中心）；KP Ts. Rizaki bin Napi（Cybersecurity Consultant）展会对工业 PoE 有兴趣；无跟进 · SSM 199401024950 (310628-D) · 状态 **上市营业中（HTPADU）** · 成立 1994 / 1995 · Berhad（上市公司）
+- 行业码 / 经营范围：政府 / 企业 ICT 系统集成（Subang Jaya）
+- 注册地址：HeiTech Village, Persiaran Kewajipan, USJ 1, 47600 UEP Subang Jaya, Selangor, Malaysia
+- 规模档：大型（约 1,000）
+- 账目：未取；—
+- 高管：Ts. Rizaki bin Napi — Cybersecurity Consultant（研究档 KP；rizaki@heitech.com.my；非采购）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **上市大型 SI、政府项目为主（守界）、KP 为安全顾问非采购、招标采购 → 不动（B 保留；企业项目来询按集成商 25% 报）**
+- 备注：不动（大型招标 SI + 政府守界）；坐实（登记号 + 上市代码 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,17 +130,17 @@ updated: 2026-10-28
 - **【用户表】对 POE 很有兴趣，拿了彩页，主要看工业级，问电源口接线，也看了商业级；地址 HeiTech Village 2, Jalan Astaka U8/8**
   > 兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ts. Rizaki bin Napi（）rizaki@heitech.com.my +60 19 620 1681〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ts. Rizaki bin Napi（Cybersecurity Consultant（研究档；展会对工业 PoE 有兴趣；非采购）— 不动，不发（企业项目来询按集成商 25% 报）（第 119 批 官方登记核实 2026-10-28））rizaki@heitech.com.my +60 19 620 1681〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | HeiTech Padu Berhad |
-| 成立 | 1994（待核） |
-| 总部/地址 | HeiTech Village 2, No. 1, Jalan Astaka U8/8, Bukit Jelutong, Shah Alam, Malaysia |
-| 其他 | 政府项目多（守界：按单核） |
+| 法定名称 | HeiTech Padu Berhad（Registration No. 199401024950 (310628-D)；Bursa Malaysia 主板 HTPADU） |
+| 成立 | 1994 / 1995（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | HeiTech Village, Persiaran Kewajipan, USJ 1, 47600 UEP Subang Jaya, Selangor（+60 3 8601 3000）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 政府项目多（守界：按单核）；第 119 批：上市政府 / 企业 ICT 系统集成商，招标采购 + 政府守界 + KP 非采购 → **不动（B 保留）**；坐实（登记号 + 上市代码）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：政府 / 企业 ICT 系统集成；网络安全
 - **触达通道（公开）**：role: 大型系统集成商；region: 马来西亚
@@ -192,7 +205,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ts. Rizaki bin Napi | — | rizaki@heitech.com.my / +60 19 620 1681 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ts. Rizaki bin Napi | Cybersecurity Consultant（研究档；展会对工业 PoE 有兴趣；非采购）— 不动，不发（企业项目来询按集成商 25% 报）（第 119 批 官方登记核实 2026-10-28） | rizaki@heitech.com.my / +60 19 620 1681 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

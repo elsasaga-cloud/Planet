@@ -74,6 +74,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（VN · 1 次检索：vanphatdat.vn/lien-he（Văn phòng Hồ Chí Minh 26/37/6 Đường B3, Phường Tây Thạnh, Quận Tân Phú；hungtran@vanphatdat.vn；Giấy chứng nhận Đăng ký Kinh doanh số 0315053647 … cấp ngày 17 tháng 05 năm 2018；Giám Đốc Trần Minh Hùng）；2026-10-28，2026-10-28 查；https://vanphatdat.vn/lien-he/）：**
+
+- 法定名 / 登记号：Vạn Phát Đạt（vanphatdat.vn / it-support.vn；**ĐKKD 0315053647，HCMC 计投局 2018-05-17 发证；26/37/6 Đường B3, P. Tây Thạnh, Q. Tân Phú, TP.HCM；028 6265 5310；河内代表处 Sannam Building 78 Duy Tân；Giám đốc Trần Minh Hùng = 表内 KP ✓**）— IT 外包 / Helpdesk / IT Onsite（24/7）；询盘表来源、WA 无回复（注：同名 Vạn Phát Đạt Group 富安省 MST 4400990704 为化肥 / 投资集团 ≠） · ĐKKD / MST 0315053647 · 状态 **营业中（官网）** · 成立 2018-05-17 · Công ty TNHH（推定）
+- 行业码 / 经营范围：IT 服务外包（Tân Phú, HCMC）
+- 注册地址：26/37/6 Đường B3, P. Tây Thạnh, Q. Tân Phú, TP. Hồ Chí Minh, Việt Nam
+- 规模档：小型
+- 账目：未取；—
+- 高管：Hùng Trần (Trần Minh Hùng) — Giám đốc（研究档 KP；hungtran@vanphatdat.vn；官网吻合）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **IT 服务商（非目标）+ 无需求 + WA×0 → 不动（B 保留）**
+- 备注：不动（非目标行业）；坐实（官网自列登记号 + 发证日 + 地址 + 总监）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -99,15 +112,17 @@ updated: 2026-10-28
 - **【用户表】询盘统计表来源，无兴趣描述**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hùng Trần（）hungtran@vanphatdat.vn +84 904 711 163〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Hùng Trần（Giám đốc（官网自列 Trần Minh Hùng；IT 外包商）— 不动，不发（第 119 批 官方登记核实 2026-10-28））hungtran@vanphatdat.vn +84 904 711 163〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Công ty Vạn Phát Đạt（待核） |
-| 总部/地址 | Ho Chi Minh City, Vietnam |
+| 法定名称 | Vạn Phát Đạt（vanphatdat.vn / it-support.vn；ĐKKD / MST 0315053647；≠ 富安省 Vạn Phát Đạt Group 4400990704） |
+| 成立 | 2018-05-17（发证）（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 26/37/6 Đường B3, P. Tây Thạnh, Q. Tân Phú, TP. Hồ Chí Minh（028 6265 5310；河内代表处 Sannam Bldg 78 Duy Tân）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 第 119 批：IT 外包 / Helpdesk 服务商（非目标）+ 无需求 → **不动（B 保留）**；坐实（官网自列登记号 + 发证日 + 总监）（第 119 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：role: IT 服务商（项目采购）；region: 越南
 - **风险/边界**：IT 服务为主，硬件量小
@@ -160,7 +175,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hùng Trần | — | hungtran@vanphatdat.vn / +84 904 711 163 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Hùng Trần | Giám đốc（官网自列 Trần Minh Hùng；IT 外包商）— 不动，不发（第 119 批 官方登记核实 2026-10-28） | hungtran@vanphatdat.vn / +84 904 711 163 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Hung Tran | — | hungtran@vanphatdat.vn / +84904711163 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

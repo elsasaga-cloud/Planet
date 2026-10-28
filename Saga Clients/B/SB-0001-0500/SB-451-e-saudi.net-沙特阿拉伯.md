@@ -103,6 +103,19 @@ updated: 2026-10-28
 - 【宗教】03-09→03-12：开斋节（Eid al-Fitr / Ramazan Bayramı，估算）：3–4 天全停
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 119 批（SA · 1 次检索：rocketreach.co/e-saudi-electronic-saudi-network-profile（specialized in Remote Automation, Control and Communication. Fixed broadband connectivity；based in Riyadh；Founded 2001；14 employees；$1.4M）+ rocketreach Saeed Mohammed（Operation Manager @ Electronic saudi network 2005-now）+ zoominfo（Abdallah Bahamdan St Suleimaniya, Riyadh；11-50；Telecommunication Equipment）；CR 未得；2026-10-28，2026-10-28 查；https://rocketreach.co/e-saudi-electronic-saudi-network-profile_b4438538fdf7a71a）：**
+
+- 法定名 / 登记号：(e-Saudi) Electronic Saudi Network（e-saudi.net / e-saudi.net.sa；**2001 年成立；利雅得 Abdallah Bahamdan St, Suleimaniya（ZoomInfo）+ 吉达分支；11–50 / 14 人、营收约 $1.4M（RocketReach）；CR 号 1 查未得 → 部分坐实**）— 远程自动化 / 控制与通信 + 固定宽带连接（电信设备制造 / 分销 口径）；KP Saeed Mohammed = RocketReach「Operation Manager / Business Development Manager（2005 至今）」✓；表内 1 次跟进有回复（要 Catalog） · 未取（CR 1 查未得） · 状态 **营业中（企业库）** · 成立 2001 · 未取（沙特公司）
+- 行业码 / 经营范围：远程自动化 / 通信 / 宽带连接（Riyadh；吉达分支）
+- 注册地址：Abdallah Bahamdan St, Suleimaniya, Riyadh, Saudi Arabia
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Saeed Mohammed — Operation Manager / Business Development Manager（研究档 KP；saeed@e-saudi.net；RocketReach 吻合）= 拍板人 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **25 年远程自动化 / 通信方案商、运营经理本人回过信 → 集成商 25% B，一页纸一次（远端站点 STI-154GP / STI-288DGGPM 宽温 + 机房 STC-4424GCPM 一口价 + 3 年保 + MOQ 1 + 付费样机；opener 引其要 Catalog）— 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SASO / SABER 不声称）**；回信 → 加厚
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（企业库：成立年 + 地址 + KP 职务；CR 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,15 +142,17 @@ updated: 2026-10-28
 - **【用户表】Catalog 有回复**
   > Catalog；邮件中有详细的联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Saeed Mohammed（）saeed@e-saudi.net +966 55 068 6619（2024-02→06 签名 Mobile）〔用户表〕
+- **KP**：Saeed Mohammed（Operation Manager / Business Development Manager（RocketReach，2005 至今；表内 1 次跟进有回复 要 Catalog）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、远端站点 STI-154GP / STI-288DGGPM 宽温 + 机房 STC-4424GCPM 一口价 + 3 年保 + MOQ 1 + 付费样机、opener 引其要 Catalog — 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、SASO / SABER 不声称（第 119 批 官方登记核实 2026-10-28））saeed@e-saudi.net +966 55 068 6619（2024-02→06 签名 Mobile）〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 沙特阿拉伯 |
-| 其他 | 官网 e-saudi.net，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | (e-Saudi) Electronic Saudi Network（e-saudi.net / e-saudi.net.sa；CR 号 1 查未得） |
+| 成立 | 2001（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Abdallah Bahamdan St, Suleimaniya, Riyadh（吉达分支）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 e-saudi.net，语言 ?，快照状态 http_error；角色判定来源：待核；第 119 批：远程自动化 / 控制与通信 + 固定宽带连接方案商，运营经理本人回过信 → **集成商 25% B，一页纸一次**；回信 → 加厚；部分坐实（企业库）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核，沙特）
 - **触达通道（公开）**：role: IT/网络贸易商（沙特，有回复，业务待核）；region: 沙特阿拉伯；contact: saeed@e-saudi.net
@@ -213,7 +228,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Saeed Mohammed | — | saeed@e-saudi.net / +966 55 068 6619（2024-02→06 签名 Mobile） | 调研核实（公开页） | 用户表 |
+| Saeed Mohammed | Operation Manager / Business Development Manager（RocketReach，2005 至今；表内 1 次跟进有回复 要 Catalog）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、远端站点 STI-154GP / STI-288DGGPM 宽温 + 机房 STC-4424GCPM 一口价 + 3 年保 + MOQ 1 + 付费样机、opener 引其要 Catalog — 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、SASO / SABER 不声称（第 119 批 官方登记核实 2026-10-28） | saeed@e-saudi.net / +966 55 068 6619（2024-02→06 签名 Mobile） | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

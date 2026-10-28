@@ -96,6 +96,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 119 批（MY · 1 次检索：maxitulin.com/contact（Maxitulin Sdn Berhad；Unit 2-1, Pusat Komersial Koi, Jalan Puchong Batu 13 1/2, 47100 Puchong；603-8062-2255）+ malaysiaservices.matrade.gov.my/company-info/12184（MAXITULIN SDN BHD；System Integration）+ contact.page；SSM 号未得；2026-10-28，2026-10-28 查；https://maxitulin.com/contact/）：**
+
+- 法定名 / 登记号：Maxitulin Sdn Bhd（maxitulin.com；**MATRADE 服务名录收录（系统集成）；总部 Unit 2-1, 1st Floor, Pusat Komersial Koi, Jalan Puchong Batu 13 1/2, 47100 Puchong, Selangor（旧址 No. 29, Jalan Puteri 5/16, Bandar Puteri）；+60 3 8062 2255；SSM 号 1 查未得 → 部分坐实**）— CCTV 供应 / 安装 / 维保 + 门禁 + 巡更；KP P. Kumar（Design Analyst Engineer）PoE 用量大、项目 Cisco / Aruba；无跟进 · 未取（SSM 1 查未得） · 状态 **营业中（官网 + MATRADE 名录）** · 成立 未取 · Sdn Bhd
+- 行业码 / 经营范围：安防系统集成（Puchong）
+- 注册地址：Unit 2-1, Pusat Komersial Koi, Jalan Puchong Batu 13 1/2, 47100 Puchong, Selangor, Malaysia
+- 规模档：小型
+- 账目：未取；—
+- 高管：P. Kumar — Design Analyst Engineer（研究档 KP；kumar@maxitulin.com）= 收件人（选型）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安防 SI、PoE 用量大、工程师为 KP → 集成商 25% B，一页纸一次（STC-2216GP / 2224GP 摄像机 PoE + 室外箱 STI-154GP / STI-288DGGPM + 管理 STC-4424GCPM 一口价；bypass 不做明说；MOQ 1 + 付费样机）— 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（SIRIM 不声称；DAP 买方清关）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次；部分坐实（官网 + MATRADE 名录；SSM 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,16 +135,17 @@ updated: 2026-10-28
 - **【用户表】用 POE 交换机比较多，对 bypass 有兴趣拍了照片，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 但有时用普通品牌**
   > 兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：P. Kumar（）kumar@maxitulin.com +60 17 409 2070〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：P. Kumar（Design Analyst Engineer（研究档；PoE 用量大、项目 Cisco / Aruba）= 收件人（选型）— 一页纸一次：集成商 25% B、STC-2216GP / 2224GP + 室外 STI-154GP / STI-288DGGPM + STC-4424GCPM 一口价、bypass 不做明说、MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））kumar@maxitulin.com +60 17 409 2070〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Maxitulin Sdn Bhd |
+| 法定名称 | Maxitulin Sdn Bhd（MATRADE 服务名录；SSM 号 1 查未得） |
 | 成立 | （待核） |
-| 总部/地址 | Malaysia（Puchong，+60 3 8062） |
+| 总部/地址 | Unit 2-1, 1st Floor, Pusat Komersial Koi, Jalan Puchong Batu 13 1/2, 47100 Puchong, Selangor（+60 3 8062 2255；旧址 No. 29, Jalan Puteri 5/16）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 第 119 批：CCTV 供应 / 安装 / 维保 + 门禁 SI，工程师为 KP → **集成商 25% B，一页纸一次**；再无回声 → 不动；部分坐实（官网 + MATRADE）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IPC 监控项目集成
 - **触达通道（公开）**：role: 安防集成商；region: 马来西亚
@@ -212,7 +226,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| P. Kumar | — | kumar@maxitulin.com / +60 17 409 2070 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| P. Kumar | Design Analyst Engineer（研究档；PoE 用量大、项目 Cisco / Aruba）= 收件人（选型）— 一页纸一次：集成商 25% B、STC-2216GP / 2224GP + 室外 STI-154GP / STI-288DGGPM + STC-4424GCPM 一口价、bypass 不做明说、MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28） | kumar@maxitulin.com / +60 17 409 2070 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

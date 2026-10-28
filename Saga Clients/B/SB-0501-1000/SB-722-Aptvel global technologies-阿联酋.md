@@ -1,7 +1,7 @@
 # Aptvel global technologies
 **官方名称（调研核实）**：Aptvel Global Technologies（沙特 / 阿联酋）
 
-> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-722`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
+> **评级 B**　|　阿联酋　|　档案编号 `SB-722`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：群发(Cisco/Cisco)、群发(阿联酋)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "Aptvel Global Technologies（沙特 / 阿联酋）"
 score: 32
-country: 沙特阿拉伯
+country: 阿联酋
+country_table: 沙特阿拉伯  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
 region: 中东
 website: aptvelglobal.com
 type: 经销/集成（类型待核）
@@ -86,12 +87,25 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（AE · 1 次检索：aptvelglobal.com（5+ Years；electrical, automation, and IoT solutions；HEADQUARTERS 204, Building 3 Arenco Offices, DIP 1 Dubai；+971 48 824 871；Audio Visual / Automation & Security / Custom Software / Home Cinemas）+ zoominfo（Arenco Business Tower 4 Ofc 115, Dubai；Custom Software & IT Services）；2026-10-28，2026-10-28 查；https://aptvelglobal.com/）：**
+
+- 法定名 / 登记号：Aptvel Global（aptvelglobal.com；**总部 204, Building 3, Arenco Offices, DIP 1, Dubai；+971 4 882 4871 / +971 50 839 4997；5+ 年；美国地址 Fall River MA 为陈列；表内误归沙特 → country_fix 阿联酋；法人 / 牌照号未得 → 部分坐实**）— 电气 / 自动化 / IoT + AV / 家庭影院 / 软件 / 数字媒体 杂业方案商；表内要 PLANET 48 口交换机（指定原厂）、问 bypass；KP Arunima Raj（另一邮箱 klasseducation.com）；WA 无实质回复 · 未取（牌照号 1 查未得） · 状态 **营业中（官网 2025）** · 成立 约 2020（自述 5+ 年） · LLC / FZ（推定）
+- 行业码 / 经营范围：电气 / 自动化 / IoT / AV 杂业方案（DIP, Dubai）
+- 注册地址：204, Building 3, Arenco Offices, DIP 1, Dubai, UAE
+- 规模档：微型
+- 账目：未取；—
+- 高管：Arunima Raj — 表内联系人（研究档 KP；info@aptvelglobal.com；职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **需求指定原厂（PLANET 48 口）+ bypass（Saga 无）+ 杂业微型 + WA×0 → 不动（B 保留；国别更正阿联酋）**— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称）
+- 备注：不动（需求不对位 + 微型）；部分坐实（官网 + ZoomInfo）；country_fix 阿联酋。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | Aptvel global technologies | 事实（用户表） |
-| 国家 | 沙特阿拉伯（另见：阿联酋） | 事实（用户表）|
+| 国家 | 阿联酋（另见：阿联酋） | 事实（用户表）|
 | 网站/域名 | aptvelglobal.com / klasseducation.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Mr.Arunima Raj | 事实（用户表） |
@@ -112,16 +126,17 @@ updated: 2026-10-28
 - **【用户表】Planet 48 口交换机；交谈中问了 bypass**
   > 兴趣：Planet 48口交换机 交谈中问了bypass
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Arunima Raj（）info@aptvelglobal.com +971 50 839 4997〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Arunima Raj（表内联系人 Arunima Raj（职务未核；要 PLANET 48 口、问 bypass；WA×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28））info@aptvelglobal.com +971 50 839 4997〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内：PLANET 对价））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Aptvel Global Technologies（待核） |
-| 总部/地址 | （沙特 / 阿联酋，待核） |
-| 其他 | 关联 Klass Education |
+| 法定名称 | Aptvel Global（法人 / 牌照号 1 查未得） |
+| 成立 | 约 2020（自述 5+ 年）（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 204, Building 3, Arenco Offices, DIP 1, Dubai, UAE（+971 4 882 4871）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 关联 Klass Education；第 119 批：电气 / 自动化 / IoT / AV / 家庭影院 / 软件 杂业方案商，表内沙特实为迪拜 → country_fix 阿联酋；需求指定原厂（PLANET 48 口）+ bypass（Saga 无）→ **不动（B 保留）**；部分坐实（官网 + ZoomInfo）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气 / 自动化 / IoT 方案
 - **触达通道（公开）**：role: 方案商 / 集成；region: 海湾
@@ -195,7 +210,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arunima Raj | — | info@aptvelglobal.com / +971 50 839 4997 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Arunima Raj | 表内联系人 Arunima Raj（职务未核；要 PLANET 48 口、问 bypass；WA×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28） | info@aptvelglobal.com / +971 50 839 4997 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Arunima Raj | — | arunima@klasseducation.com / info@aptvelglobal.com / +971508394997 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

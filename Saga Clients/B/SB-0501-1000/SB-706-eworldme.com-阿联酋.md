@@ -1,6 +1,6 @@
 # eworldme.com
 
-> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-706`　|　优先级 ★★　|　状态：已推送 10 次·未回复
+> **评级 B**　|　阿联酋　|　档案编号 `SB-706`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
 > **类型**：工业自动化与数据通信分销商（中东，Moxa 为主）（推断）　|　**历史关系**：推送 10 次（2025-02-27 → 2025-10-24）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-706
 rating: B
 rating_auto: B
 score: 33
-country: 沙特阿拉伯
+country: 阿联酋
+country_table: 沙特阿拉伯  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
 region: 中东
 website: eworldme.com
 type: 工业自动化与数据通信分销商（中东，Moxa 为主）
@@ -75,19 +76,33 @@ updated: 2026-10-28
 
 - `eworldme.com` → Microsoft 365（MX：eworldme-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（沙特阿拉伯 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（阿联酋 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：02-22 Founding Day Holiday；03-09 Eid al-Fitr Holiday；03-10 Eid al-Fitr Holiday；03-11 Eid al-Fitr Holiday；03-12 Eid al-Fitr Holiday；03-14 Eid al-Fitr Holiday (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：01-01 New Year's Day；03-09 Eid al-Fitr (estimated)；03-10 Eid al-Fitr Holiday (estimated)；03-11 Eid al-Fitr Holiday (estimated) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】02-08→03-09：斋月（按天文估算 2027-02-08 起，以当地公告为准）：白天效率低、午后早走，海湾国家法定工时缩到 6 小时；开斋节前一周基本不做决策
 - 【宗教】03-09→03-12：开斋节（Eid al-Fitr / Ramazan Bayramı，估算）：3–4 天全停
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数 · 第 119 批（AE · 1 次检索：moxa.eworldme.com contact（Easy World Automation LLC (eworld) is the leading distributor of Moxa … Middle East；P.O. Box 29505, Office 204, Building no.1, Emaar Business Park, Sheikh Zayed Road, Dubai；+971 4 447 1137）+ eworldme.com/PARTNERS/MOXA（Al Khobar / Riyadh / Muscat 办公室）+ 产品页页脚（established in 2002）；2026-10-28，2026-10-28 查；https://eworldme.com/PARTNERS/MOXA）：**
+
+- 法定名 / 登记号：Easy World Automation L.L.C（eWorld；eworldme.com；**2002 年成立；总部 P.O. Box 29505, Office 204, Building 1, Emaar Business Park, Sheikh Zayed Road, Dubai；+971 4 447 1137；分支 Al Khobar（Office 2-5, Al Mukhaizeem Tower, 6248 Prince Turkey St；+966 13 850 6010）/ Riyadh（Office 104, Bldg 6, Imam Abdullah Ibn Saud St；+966 11 275 1110）/ Muscat；总部迪拜 → country_fix 阿联酋；牌照号未得 → 部分坐实**）— **Moxa 中东领先分销商（近 20 年，价格匹配保证）**+ 工业数据通信 / 自动化 / 电信 VAD；KP Mohsen Nejadi（COO）/ Akram Jafari（Sales Manager） · 未取（L.L.C；牌照号 1 查未得） · 状态 **营业中（官网 2026）** · 成立 2002 · L.L.C（迪拜）+ KSA / 阿曼分支
+- 行业码 / 经营范围：工业数据通信 / 自动化 VAD（Moxa 官方分销）（Dubai；Al Khobar / Riyadh / Muscat）
+- 注册地址：Office 204, Building 1, Emaar Business Park, Sheikh Zayed Road, Dubai, UAE (P.O. Box 29505)
+- 规模档：中小
+- 账目：未取；—
+- 高管：Mohsen Nejadi — Chief Operating Officer（研究档 KP；m.nejadi@eworldme.com）
+- 高管：Akram Jafari — Sales Manager（研究档 KP）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **原厂（Moxa）官方分销 = 同行渠道 + 无 OEM 诉求 → 不动（B 保留；国别更正阿联酋；若提出自有品牌 / 低价补位线再按贴标 OEM 30% 报）**— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称）
+- 备注：不动（原厂官方分销）；部分坐实（官网：成立年 + 总部 + 分支 + 电话；牌照号未取）；country_fix 阿联酋。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | eworldme.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 沙特阿拉伯 | 事实（用户表）|
+| 国家 | 阿联酋 | 事实（用户表）|
 | 网站/域名 | eworldme.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 工业自动化与数据通信分销商（中东，Moxa 为主） | 推断（据兴趣/备注关键词） |
 | 联系人 | Mohsen Nejadi / Chief Operating Officer / Akram Jafari / Sales Manager | 事实（用户表） |
@@ -125,16 +140,18 @@ updated: 2026-10-28
 - **【用户表】分销商 工业以太网**
   > 分销商 工业以太网
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mohsen Nejadi（）m.nejadi@eworldme.com 〔用户表〕
-- **KP**：Akram Jafari（） 〔用户表〕
+- **KP**：Mohsen Nejadi（Chief Operating Officer（研究档；Moxa 官方分销商）— 不动，不发（自有品牌 / 低价补位线诉求出现再按贴标 OEM 30% 报）（第 119 批 官方登记核实 2026-10-28））m.nejadi@eworldme.com 〔用户表〕
+- **KP**：Akram Jafari（Sales Manager（研究档）— 不动（第 119 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 沙特阿拉伯 |
-| 其他 | 官网 eworldme.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Easy World Automation L.L.C（eWorld；牌照号 1 查未得；Moxa 中东领先分销商近 20 年） |
+| 成立 | 2002（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Office 204, Building 1, Emaar Business Park, Sheikh Zayed Road, Dubai, UAE (P.O. Box 29505；+971 4 447 1137)；分支 Al Khobar（+966 13 850 6010）/ Riyadh（+966 11 275 1110）/ Muscat（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 eworldme.com，语言 en，快照状态 ok；角色判定来源：用户表；第 119 批：工业数据通信 / 自动化 VAD（Moxa 官方分销 = 同行渠道），总部迪拜 → country_fix 阿联酋；无 OEM 诉求 → **不动（B 保留）**；部分坐实（官网）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化 / 数据通信 / IIoT 分销（Moxa 等）
 
@@ -234,8 +251,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mohsen Nejadi | — | m.nejadi@eworldme.com | 调研核实（公开页） | 用户表 |
-| Akram Jafari | — | — | 调研核实（公开页） | 用户表 |
+| Mohsen Nejadi | Chief Operating Officer（研究档；Moxa 官方分销商）— 不动，不发（自有品牌 / 低价补位线诉求出现再按贴标 OEM 30% 报）（第 119 批 官方登记核实 2026-10-28） | m.nejadi@eworldme.com | 调研核实（公开页） | 用户表 |
+| Akram Jafari | Sales Manager（研究档）— 不动（第 119 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

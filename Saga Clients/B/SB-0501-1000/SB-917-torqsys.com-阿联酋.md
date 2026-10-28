@@ -1,7 +1,7 @@
 # torqsys.com
 **官方名称（调研核实）**：Fuzzy Logic Automation（Torqsys，阿联酋；表内沙特）
 
-> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-917`　|　优先级 ★★　|　状态：已推送 7 次·未回复
+> **评级 B**　|　阿联酋　|　档案编号 `SB-917`　|　优先级 ★★　|　状态：已推送 7 次·未回复
 >
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：推送 7 次（2023-03-30 → 2023-09-11）　|　**所在清单**：群发(已重新审核/领英)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "Fuzzy Logic Automation（Torqsys，阿联酋；表内沙特）"
 score: 28
-country: 沙特阿拉伯
+country: 阿联酋
+country_table: 沙特阿拉伯  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
 region: 中东
 website: torqsys.com
 type: 系统集成/工程商
@@ -77,12 +78,25 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 119 批（AE · 1 次检索：fuzzylogicautomation.com（Fuzzy Logic Equipment Trading Ltd, headquartered in Abu Dhabi；Building Number 280 Taweelah, Kizad Free Zone；+971 545851777；SCADA / PLC / UPS）+ zoominfo（Torque Automation；Sheikh Zayed Rd, Dubai；+971 44329204）+ abc-gcc（Torque Automation Systems FZE；P.O Box 121718 Sharjah；sales@torqsys.com）；2026-10-28，2026-10-28 查；https://www.fuzzylogicautomation.com/）：**
+
+- 法定名 / 登记号：Torque Automation Systems FZE（torqsys.com；**P.O. Box 121718, Sharjah + Sheikh Zayed Rd, Dubai 办公室；+971 6 557 9973 / +971 4 432 9204；自动化控制承包商（PLC / RTU / SCADA / DCS）**）；表内 KP Arjun Muralidharan 邮箱域 = **Fuzzy Logic Equipment Trading Ltd（Building 280, Taweelah, KIZAD Free Zone, Abu Dhabi；+971 54 585 1777 = 表内电话 ✓；水 / 污水 / 工业厂站 SCADA、100+ 项目）**→ 两家均阿联酋 → country_fix 阿联酋；牌照号未得 → 部分坐实；7 次跟进无实质回复 · 未取（FZE / Ltd；牌照号 1 查未得） · 状态 **营业中（两官网在）** · 成立 未取 · FZE（Torque）/ Ltd（Fuzzy Logic，KIZAD）
+- 行业码 / 经营范围：工业自动化 / SCADA 承包（阿布扎比 / 沙迦 / 迪拜）
+- 注册地址：Building 280, Taweelah, KIZAD Free Zone, Abu Dhabi, UAE（Torque：P.O. Box 121718 Sharjah）
+- 规模档：小型
+- 账目：未取；—
+- 高管：Arjun Muralidharan — 项目 / 技术（研究档 KP；arjun.murali@fuzzylogicautomation.com；+971 54 585 1777）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **水 / 污水 SCADA 项目型（关键基础设施边缘）+ 7×0 → 不动（B 保留；国别更正阿联酋）**— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称）
+- 备注：不动（项目型 + 7×0）；部分坐实（两官网 + 企业库；牌照号未取）；country_fix 阿联酋。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | torqsys.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 沙特阿拉伯 | 事实（用户表）|
+| 国家 | 阿联酋 | 事实（用户表）|
 | 网站/域名 | torqsys.com / fuzzylogicautomation.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
 | 联系人 | Arjun Muralidharan | 事实（用户表） |
@@ -102,17 +116,17 @@ updated: 2026-10-28
 - **【用户表】做项目的，让发介绍资料；2023-04 featured models 宣传册→read**
   > 兴趣：做项目的 让发介绍资料；回复：read
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Arjun Muralidharan（）arjun.murali@fuzzylogicautomation.com +971 54 585 1777〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Arjun Muralidharan（项目 / 技术（研究档；邮箱域 = Fuzzy Logic Equipment Trading Ltd，阿布扎比 KIZAD；+971 54 585 1777 吻合；7×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28））arjun.murali@fuzzylogicautomation.com +971 54 585 1777〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Fuzzy Logic Automation LLC（待核） |
+| 法定名称 | Torque Automation Systems FZE（torqsys.com；沙迦 P.O. Box 121718 + 迪拜 SZR）；KP 现属 Fuzzy Logic Equipment Trading Ltd（阿布扎比 KIZAD）；牌照号 1 查未得 |
 | 成立 | （待核） |
-| 总部/地址 | UAE |
-| 其他 | 水务 / 污水厂站（公用事业，按单核） |
+| 总部/地址 | Building 280, Taweelah, KIZAD Free Zone, Abu Dhabi, UAE（Torque：P.O. Box 121718, Sharjah；+971 4 432 9204）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 水务 / 污水厂站（公用事业，按单核）；第 119 批：工业自动化 / SCADA 承包（水 / 污水 / 工业厂站），表内沙特实为阿联酋 → country_fix 阿联酋；项目型 + 7×0 → **不动（B 保留）**；部分坐实（两官网 + 企业库）（第 119 批 官方登记核实 2026-10-28） |
 
 - **业务线**：SCADA / PLC 控制系统集成；水 / 污水厂站自动化
 - **触达通道（公开）**：role: 工业自动化集成商；region: 阿联酋
@@ -178,7 +192,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arjun Muralidharan | — | arjun.murali@fuzzylogicautomation.com / +971 54 585 1777 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Arjun Muralidharan | 项目 / 技术（研究档；邮箱域 = Fuzzy Logic Equipment Trading Ltd，阿布扎比 KIZAD；+971 54 585 1777 吻合；7×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28） | arjun.murali@fuzzylogicautomation.com / +971 54 585 1777 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
