@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""波 3 R13：「邮箱待补」收口批 16 户（爱 2 / 英 1 / 法 6 / 土 4 / 德 3）——含 5 户不再补查的元器件/巨头收口。"""
+"""波 3 R13：「邮箱待补」收口批 16 户（爱 2 / 英 1 / 法 6 / 土 4 / 德 3）——含 5 户不再补查的元器件/巨头收口；XB-C0688 于第 92 批并线到 Saga SB-100。"""
 import os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from w2lib import j as _j, run
@@ -10,9 +10,9 @@ Q_D2 = 'Who on your product team looks after new networking vendors, and would a
 Q_OEM = 'Would a PoE switch line under your own label be of interest, and if so, which port count should we sample first?'
 
 # ---- A 首触 ----
-j('XB-C0688', 'A', '首触', 'W03', 'Perpa 网络/安防分销 + 自有标签（GelecekBT Bilgi Teknolojileri，Perpa A Blok K:13 No:1990 Şişli；CLR Networks 分销；自有 GBT- 编号 PoE 延长器等）', '土耳其核心市场，Perpa 渠道 + 已有自有标签 PoE 配件 → 自有标签 PoE 交换机的 OEM 候选', '来源名仅「Bilgi Teknolojileri」，按 Perpa + PoE 品类判定为 GelecekBT（身份待其回信确认）；TR 四主之一、邮箱已补 → 升 A 首触，用自有标签问句（排 2027-01-21 周四）', kind='dist', to='satis@gelecekbt.com',
-  ev=[{'claim': 'gelecekbt.com 产品页 GBT-C1400 PoE Extender…İletişim：Perpa Ticaret Merkezi A Blok Kat:13 No:1990 Şişli İstanbul…satis@gelecekbt.com', 'quote': 'GelecekBT Bilgi Teknolojileri · Perpa Ticaret Merkezi A Blok Kat:13 No:1990 Şişli İstanbul · satis@gelecekbt.com', 'url': 'https://gelecekbt.com/GBT-C1400'}],
-  q=Q_OEM)
+j('XB-C0688', 'C', '并线', typ='Perpa 网络/安防分销 + 自有标签（GelecekBT Bilgi Teknolojileri = Telkolink，Perpa A Blok；老板 Yusuf Ölçer）', reason='来源名仅「Bilgi Teknolojileri」，按 Perpa + PoE 品类判定为 GelecekBT；公司底数第 92 批核实：GelecekBT 与 Telkolink 同一老板 Yusuf Ölçer（LinkedIn「Gelecekbt.com General Manager」+ telkolink.com 联系页 yusuf@telkolink.com），而 Telkolink 已是 Saga 客户 SB-100（+ SB-275 gelecekbt.com）→ 并线到 Saga 侧，不另发首触，避免一人两信',
+  ev=[{'claim': 'gelecekbt.com 产品页 GBT-C1400 PoE Extender…İletişim：Perpa Ticaret Merkezi A Blok Kat:13 No:1990 Şişli İstanbul…satis@gelecekbt.com', 'quote': 'GelecekBT Bilgi Teknolojileri · Perpa Ticaret Merkezi A Blok Kat:13 No:1990 Şişli İstanbul · satis@gelecekbt.com', 'url': 'https://gelecekbt.com/GBT-C1400'},
+      {'claim': 'LinkedIn Yusuf Ölçer：Gelecekbt.com şirketinde General Manager…GelececekBT.com Telkolink, CLR Networks ve ONET kablolama çözümleri Türkiye Dağıtıcısıdır；Telkolink 联系页 Satış yusuf@telkolink.com', 'quote': 'GelececekBT.com Telkolink, CLR Networks ve ONET kablolama çözümleri Türkiye Dağıtıcısıdır', 'url': 'https://tr.linkedin.com/in/yusuf%C3%B6l%C3%A7er'}])
 j('XB-C0889', 'A', '首触', 'W04', '安防进口分销（HEXAPRO Sécurité，Chassieu/Lyon；17 年；2–10 人；Dahua/Ajax/Visonic/Hikvision 分销，面向安装商）', '小型进口分销，里昂区域安装商渠道', 'FR 进口分销、邮箱已补 → 升 A 首触（轻，排 2027-01-28 周四）', kind='dist2', to='contact@hexapro-securite.fr',
   ev=[{'claim': 'LinkedIn：Importateur Distributeur en Matériel de Sécurité…17 ans…2-10 employés；infonet：contact@hexapro-securite.fr', 'quote': 'Importateur Distributeur en Matériel de Sécurité | Fort de ses 17 ans d\'expérience', 'url': 'https://fr.linkedin.com/company/hexaprosecurite'}],
   q=Q_D2)

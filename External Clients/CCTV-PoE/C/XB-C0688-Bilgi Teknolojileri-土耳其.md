@@ -1,10 +1,10 @@
 # XB-C0688 · Bilgi Teknolojileri · 土耳其
 
-> **现判 XA 长期跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:195 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R13 2026-10-28）→ 下一动作 首触
+> **现判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:195 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R13 2026-10-28）→ 下一动作 并线
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区，类型待核（来源库没写清是渠道还是终端）
-- 研究后改级：XB → **XA**（W3-R13，来源名仅「Bilgi Teknolojileri」，按 Perpa + PoE 品类判定为 GelecekBT（身份待其回信确认）；TR 四主之一、邮箱已补 →）；编号不变
+- 研究后改级：XB → **XC**（W3-R13，来源名仅「Bilgi Teknolojileri」，按 Perpa + PoE 品类判定为 GelecekBT；公司底数第 92 批核实：GelecekBT 与）；编号不变
 - 标记：类型待核
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
 - 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
@@ -48,38 +48,21 @@
 
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
-- **结论：XA** — 来源名仅「Bilgi Teknolojileri」，按 Perpa + PoE 品类判定为 GelecekBT（身份待其回信确认）；TR 四主之一、邮箱已补 → 升 A 首触，用自有标签问句（排 2027-01-21 周四）
+- **结论：XC** — 来源名仅「Bilgi Teknolojileri」，按 Perpa + PoE 品类判定为 GelecekBT；公司底数第 92 批核实：GelecekBT 与 Telkolink 同一老板 Yusuf Ölçer（LinkedIn「Gelecekbt.com General Manager」+ telkolink.com 联系页 yusuf@telkolink.com），而 Telkolink 已是 Saga 客户 SB-100（+ SB-275 gelecekbt.com）→ 并线到 Saga 侧，不另发首触，避免一人两信
 - 活着吗：本轮 web_search 复核在线（2026-10-28）
-- 一句话：Perpa 网络/安防分销 + 自有标签（GelecekBT Bilgi Teknolojileri，Perpa A Blok K:13 No:1990 Şişli；CLR Networks 分销；自有 GBT- 编号 PoE 延长器等）
-- 是什么人：Perpa 网络/安防分销 + 自有标签（GelecekBT Bilgi Teknolojileri，Perpa A Blok K:13 No:1990 Şişli；CLR Networks 分销；自有 GBT- 编号 PoE 延长器等）；规模：未量化
-- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 土耳其核心市场，Perpa 渠道 + 已有自有标签 PoE 配件 → 自有标签 PoE 交换机的 OEM 候选
-- 找得到人吗：satis@gelecekbt.com（来源库公开邮箱）；KP：无具名
+- 一句话：Perpa 网络/安防分销 + 自有标签（GelecekBT Bilgi Teknolojileri = Telkolink，Perpa A Blok；老板 Yusuf Ölçer）
+- 是什么人：Perpa 网络/安防分销 + 自有标签（GelecekBT Bilgi Teknolojileri = Telkolink，Perpa A Blok；老板 Yusuf Ölçer）；规模：未量化
+- 对口哪条线：—
+- 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
 - 与 Saga Clients：无
-- **下一动作：首触** — 分销首触：24 口 PoE + STI 工业线；型号 STC-424XGGPM-280W / STI-288DGGPM；价 USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 TR 周四 12–14；建议 2027-01-21
+- **下一动作：并线**
 
 证据：
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | gelecekbt.com 产品页 GBT-C1400 PoE Extender…İletişim：Perpa Ticaret Merkezi A Blok Kat:13 No:1990 Şişli İstanbul…satis@gelecekbt.com | GelecekBT Bilgi Teknolojileri · Perpa Ticaret Merkezi A Blok Kat:13 No:1990 Şişli İstanbul · satis@gelecekbt.com | https://gelecekbt.com/GBT-C1400 | 2026-10-28 |
-
-草稿（英文，首触；Simon 发，Agent 不发）：
-
-```text
-Subject: L2+ PoE and industrial switches for your reseller channel
-
-Hi,
-
-Saga Telecom supplies network distributors with Marvell-based L2+ PoE switches and Centec-based L3 10G/25G/100G switches, under our label or the distributor's own, CE. Two lines that usually interest MikroTik and WISP channels:
-
-- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).
-- STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.
-
-Would a PoE switch line under your own label be of interest, and if so, which port count should we sample first?
-
-Simon
-Saga Telecom - sagatele.com
-```
+| 本轮网查 | LinkedIn Yusuf Ölçer：Gelecekbt.com şirketinde General Manager…GelececekBT.com Telkolink, CLR Networks ve ONET kablolama çözümleri Türkiye Dağıtıcısıdır；Telkolink 联系页 Satış yusuf@telkolink.com | GelececekBT.com Telkolink, CLR Networks ve ONET kablolama çözümleri Türkiye Dağıtıcısıdır | https://tr.linkedin.com/in/yusuf%C3%B6l%C3%A7er | 2026-10-28 |
 
 - 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。
