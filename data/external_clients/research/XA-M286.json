@@ -1,0 +1,52 @@
+{
+ "code": "XA-M286",
+ "name": "Leadernet Sistemas Telec",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "电信系统集成商（Leadernet Sistemas，N-Tron 渠道名录导入）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商，价差 5 倍",
+ "type_final": "电信系统集成商（Leadernet Sistemas，N-Tron 渠道名录导入）",
+ "size": "未量化",
+ "brands_seen": [
+  "N-Tron",
+  "Red Lion"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网首页正文可见：info@leadernet.es。待补标记解除；C→B 回升（原下放原因=无邮箱）。 证据：[1](htt",
+   "quote": "",
+   "url": "https://leadernet.es/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-07 发 info@leadernet.es「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-07"
+  }
+ ],
+ "contacts": {
+  "email": "info@leadernet.es",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-07 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "未核实为分销 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

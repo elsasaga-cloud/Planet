@@ -1,0 +1,51 @@
+{
+ "code": "XA-M281",
+ "name": "Infortisa",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "大型广线 IT 分销（Infortisa，Valencia）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
+ "type_final": "大型广线 IT 分销（Infortisa，Valencia）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Master）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Valencia",
+   "quote": "",
+   "url": "https://infortisa.com/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-10 发 ventas@infortisa.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-10"
+  }
+ ],
+ "contacts": {
+  "email": "ventas@infortisa.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-10 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "大型广线/集团分销，决策链长 → B 慢慢跟进",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

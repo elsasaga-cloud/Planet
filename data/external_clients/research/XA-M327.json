@@ -1,0 +1,54 @@
+{
+ "code": "XA-M327",
+ "name": "DeInta",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "VoIP/网络集成商（DeInta，Zaragoza）；Marvell 接入层生态切入",
+ "type_final": "VoIP/网络集成商（DeInta，Zaragoza）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis",
+  "Axis",
+  "3CX",
+  "HP"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "西班牙 Zaragoza，VOIP 与网络。 【2026-09-27 A300–A319联络核验】来源等级：official-company。官网联系页给+34 976 798 180、Zaragoza PLAZA地址与personal@deinta.com；页脚/法定告知给deinta@deinta.com、CIF B99060089；DPO邮箱privacidad@deinta.com；elioplus列VOIP/AT渠道伙伴。 证",
+   "quote": "",
+   "url": "https://deinta.com/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-03 发 deinta@deinta.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-03"
+  }
+ ],
+ "contacts": {
+  "email": "deinta@deinta.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-03 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,45 @@
+{
+ "code": "XA-M278",
+ "name": "David Forteza Rey Casasnovas",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "个人顾问（仅 gmail，无站点）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "个人顾问（仅 gmail，无站点）",
+ "size": "个人顾问（仅 gmail，无站点）",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCSE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "各类 MikroTik 网络的搭建/配置/排障",
+   "quote": "",
+   "url": "https://—（无公开站点）/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "davidfortezarey@gmail.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "个人、无公司 → C",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

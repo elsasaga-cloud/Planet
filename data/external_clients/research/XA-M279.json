@@ -1,0 +1,44 @@
+{
+ "code": "XA-M279",
+ "name": "Ditecom",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "小型电子仪器设计/分销网店（Ditecom Design SL，Madrid；在售 1 款工业交换机）；第二供应源；公开电话与邮箱",
+ "type_final": "小型电子仪器设计/分销网店（Ditecom Design SL，Madrid；在售 1 款工业交换机）",
+ "size": "未量化",
+ "brands_seen": [
+  "工业管理型（EX-9911M环网）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "原批量导入说明（三星依据仅渠道等级、需先查证是否已有工业交换机/PoE++产品线），本轮核验为“已有”，待补标记解除。【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-465（批量导入行，备注含待补标记）。核验要点：站内搜索命中在售工业交换机 ISW-801（8×10/100TX，−40..75°C，60€+IVA），Networking 分类存在（17项） → 待补标记所问“是否已",
+   "quote": "",
+   "url": "https://ditecom.com/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "info@ditecom.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小店 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "本轮 web_search：ditecom.com 工业交换机类目仅 ISW-801。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

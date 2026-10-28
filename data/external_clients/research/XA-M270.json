@@ -1,0 +1,52 @@
+{
+ "code": "XA-M270",
+ "name": "Bruno Caiola Ricardo / Sinaltech",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "ICT 集成商（Sinaltech）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "ICT 集成商（Sinaltech）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCRE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【2026-09-28 R53 B段复筛达标升级】官网核对：Sinaltech（葡萄牙，葡萄牙，十余年 ICT 集成商，联系人 Bruno Caiola Ricardo）业务范围含 «Implementação de Soluções de Comunicações e Segurança»：Routing／Switching／Unified Communications／Wi-Fi／LAN-WAN／Segurança／Telefoni",
+   "quote": "",
+   "url": "https://sinaltech.pt/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-07 发 bruno.ricardo@sinaltech.pt「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-07"
+  }
+ ],
+ "contacts": {
+  "email": "bruno.ricardo@sinaltech.pt",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-07 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

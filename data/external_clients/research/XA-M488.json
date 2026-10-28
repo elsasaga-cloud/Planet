@@ -1,0 +1,51 @@
+{
+ "code": "XA-M488",
+ "name": "Databox",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "葡萄牙最大 IT 广线分销之一（Databox Informática S.A.，Massamá；约 140 人、年销约 8,000 万欧，TP-Link/Hikvision/Huawei eKit 分销，100% 渠道）；Marvell Prestera 接入层切入",
+ "type_final": "葡萄牙最大 IT 广线分销之一（Databox Informática S.A.，Massamá；约 140 人、年销约 8,000 万欧，TP-Link/Hikvision/Huawei eKit 分销，100% 渠道）",
+ "size": "葡萄牙最大 IT 广线分销之一（Databox Informática S.A.，Massamá；约 140 人、年销约 8,000 万欧，TP-Link/Hikvision/Huawei eKit 分销，100% 渠道）",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【人工定级保留】原无邮箱说明已由本轮来源核验结果替代；不改评级。  【2026-09-27 A210–A239联络核验】来源等级：official。官网contactos第6块正文确认总邮箱与Massamá地址、+351214308400。采购/产品部门公开Vitor Gama，负责D-Link、Equip、Digitus、Cisco、Level One、TP-Link、Ubiquiti，直线214308442；没有公开其个人邮箱，不猜",
+   "quote": "",
+   "url": "https://databox.pt/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-01 发 databox@databox.pt「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-01"
+  }
+ ],
+ "contacts": {
+  "email": "databox@databox.pt",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "大型广线/集团分销，决策链长 → B 慢慢跟进；将来可作 OEM 品类谈，先慢跟",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "本轮 web_search：intel partner showcase「about 140 people … more than 80 million Euros」。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,52 @@
+{
+ "code": "XA-M057",
+ "name": "Carlos Otin / Hotelinking",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "酒店 WiFi SaaS/顾问（Hotelinking）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "酒店 WiFi SaaS/顾问（Hotelinking）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCSE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★★ 高级网络工程师，专注酒店 hospitality 与多站点 multi-site 可扩展网络；专长 MikroTik 路由 + 交换 switching + 无线 + GPON 集成；做网络审计、复杂故障排查、配置标准化、对接监控与自动化平台 → 酒店多站点 = PoE 接入交换机批量需求",
+   "quote": "",
+   "url": "https://hotelinking.com/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-28 发 c.otin@hotelinking.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "c.otin@hotelinking.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-28 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

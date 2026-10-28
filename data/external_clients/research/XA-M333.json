@@ -1,0 +1,45 @@
+{
+ "code": "XA-M333",
+ "name": "Flavio Gomes Figueira Camacho",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "= XA-M271（同人同邮箱 camacho@engenheiros.pt）；MikroTik 生态切入",
+ "type_final": "= XA-M271（同人同邮箱 camacho@engenheiros.pt）",
+ "size": "= XA-M271（同人同邮箱 camacho@engenheiros.pt）",
+ "brands_seen": [
+  "MikroTik 培训伙伴",
+  "持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "持全部十证含 MTCSWE，葡萄牙首位进库。 【2026-09-27 A240–A259联络核验】来源等级：local-legacy-unverified。本地batch/be_pt_ie.json（Camacho / Engenheiros）与B452存camacho@engenheiros.pt及相同+351965869277，只是历史记录线索，未获本轮外部邮箱/全名匹配，不计新确认邮箱、不并入主邮箱列表。engenheiros.p",
+   "quote": "",
+   "url": "https://engenheiros.pt及相同/",
+   "date": "2026-09-27"
+  }
+ ],
+ "contacts": {
+  "email": "与b452存camacho@engenheiros.pt及相同",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "重复 → C 并线",
+ "next_move": {
+  "action": "并线",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

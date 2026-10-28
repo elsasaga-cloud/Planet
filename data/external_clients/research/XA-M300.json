@@ -1,0 +1,51 @@
+{
+ "code": "XA-M300",
+ "name": "MHz Shop",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-23 核对在线；本轮未复查",
+ "summary": "= XA-M176 MHz Wireless（同站 mhzshop.com，Netonix 名录重复）；WISP 接入层替换",
+ "type_final": "= XA-M176 MHz Wireless（同站 mhzshop.com，Netonix 名录重复）",
+ "size": "未量化",
+ "brands_seen": [
+  "Netonix 授权渠道（WISP 接入层交换机）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【2026-09-23 用户裁决·保留】Netonix 交换机采用 Vitesse 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其不能使用「同芯片」话术（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 法国分销。 【2026-09-27 A340–A359联",
+   "quote": "",
+   "url": "https://mhzshop.com/",
+   "date": "2026-09-23"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-04 发 info@mhzshop.com「24 Port PoE Managed Switch」，去 2 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-06"
+  }
+ ],
+ "contacts": {
+  "email": "info@mhzshop.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "同公司并线 → C",
+ "next_move": {
+  "action": "并线",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

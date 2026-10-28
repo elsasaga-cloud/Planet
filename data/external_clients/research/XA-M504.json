@@ -1,0 +1,53 @@
+{
+ "code": "XA-M504",
+ "name": "DSSI",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "Perle 授权分销/集成（DSSI，Agualva-Cacém）；Marvell Prestera 接入层切入",
+ "type_final": "Perle 授权分销/集成（DSSI，Agualva-Cacém）",
+ "size": "未量化",
+ "brands_seen": [
+  "Perle Systems（工业 PoE 交换机",
+  "媒体转换",
+  "串口设备联网）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Perle 授权分销商。 【2026-09-27 A240–A259联络核验】来源等级：official。旧owncloud页实际404，现contactos正文葡萄牙商业邮箱、Agualva-Cacém地址及+351218051560匹配；虽然链接误写http://邮箱/，正文邮箱清楚，不依畸形链接跳转。不用旧索引info替代现商业邮箱，不导入西班牙/巴西/非洲分支邮箱。 证据：[1](https://dssi.pt/contacto",
+   "quote": "",
+   "url": "https://dssi.pt/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-01 发 comercial@dssi.pt「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-01"
+  }
+ ],
+ "contacts": {
+  "email": "comercial@dssi.pt",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "未核实规模、10-01 已发未回 → B 待核",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

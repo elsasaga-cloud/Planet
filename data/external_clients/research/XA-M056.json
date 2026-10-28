@@ -1,0 +1,52 @@
+{
+ "code": "XA-M056",
+ "name": "Urbino Lobo / MiniMeLabs",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "酒店/多住户网络顾问（MiniMeLabs）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "酒店/多住户网络顾问（MiniMeLabs）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCUME"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★★ 自述「酒店 Hospitality、多住户公寓 Multi-Dwelling Properties、公共接入 Public Access 的网络与强制门户 Captive Portal 环境专家」，且「手上有大量现场工程师与生态方案的数据库」→ 酒店+MDU 是 PoE 接入交换机批量出货场景；他还有外场工程师网络，能铺量。同事 João Martins（+351 968 850 581 / joao@minimelabs.com",
+   "quote": "",
+   "url": "https://minimelabs.com/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-28 发 urbino@minimelabs.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "urbino@minimelabs.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-28 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

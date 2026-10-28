@@ -1,0 +1,53 @@
+{
+ "code": "XA-M277",
+ "name": "Darío Noguera / Lanpixel",
+ "round": "W2-R05c",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "顾问/讲师（Lanpixel）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "顾问/讲师（Lanpixel）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCRE",
+  "MTCSE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "15+ 年，既做培训也做生产网络设计；防火墙加固、VPN/IPSec、流量管理、QoS、高可用；兼 Linux/自动化/RADIUS/监控 【2026-09-28 R49 复筛补录】来源等级：official-company。官网在线并扩为培训中心；培训型，未见采购证据：lanpixel.com：MikroTik Academy / Ubiquiti 授权培训中心、FUNDAE 学时补贴、labs.lanpixel.com 远程实验平台",
+   "quote": "",
+   "url": "https://lanpixel.com/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-05 发 dario@lanpixel.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-05"
+  }
+ ],
+ "contacts": {
+  "email": "dario@lanpixel.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-05 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}
