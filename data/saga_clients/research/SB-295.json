@@ -43,7 +43,8 @@
    "title": "General Manager",
    "email": "info@wicomsolutions.it",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP Alessandro Padovani = 收件人；amministratore 未取（第 109 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +56,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 wicomsolutions.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 wicomsolutions.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 109 批：Bovisio Masciago RF / 天线 / 连接元器件代理分销（3 人；2024 营收 €3.73M、净利 €1.44M；交换机栏目为 EN 50155 / IEC 60255 轨交 / 电力级）→ **代理型 small，一页纸一次只给非轨交工业线；无回声 → 不动**；军工 / 轨交不提（第 109 批 官方登记核实 2026-10-28）",
+  "legal_name": "WI-COM SOLUTIONS S.R.L.（P.IVA / CF 07628770963；REA MB-1880777）",
+  "founded": "2011-11-30（第 109 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "天线 / 电池 / 通信部件分销",

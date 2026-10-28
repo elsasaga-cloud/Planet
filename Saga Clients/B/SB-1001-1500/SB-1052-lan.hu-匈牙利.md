@@ -73,6 +73,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（HU · 1 次检索：lan.hu Kapcsolat / ÁSZF（Cégjegyzékszám 01-09-162407 Fővárosi Cégbíróság；Adószám 10678994-2-42；1155 Budapest Kolozsvár utca 7；Hegedűs József Ügyvezető；sales@lan.hu；部门：Iroda / Kereskedelem / Webshop / Rendszerintegráció / Hálózatépítés / Gyártás）+ companywall.hu（LAN Számítástechnikai Szolgáltató Kft.；Alapítás 1992.05.04；Tulajdonos Fejes András Béláné；Ügyvezető Hegedűs József）+ nemzeticegtar（létszám 20–49 fő；alapítás 1991；TEÁOR 4650）+ ceginfo / opten，2026-10-28 查；https://www.companywall.hu/v%C3%A1llalat/lan-kft/MMHpGT00）：**
+
+- 法定名 / 登记号：LAN Számítástechnikai Szolgáltató Kft.（LAN Kft.；lan.hu；布达佩斯 XV. Kolozsvár u. 7, 1155；adószám 10678994-2-42；cégjegyzékszám 01-09-162407 Fővárosi Cégbíróság）— 1991 / 1992-05-04 成立的网络 / 布线 / 机柜 / UPS 分销商兼电商 + 系统集成 + 网络施工 + 自有「生产」部门（Digitus、X-Tech 机柜、PowerWalker UPS；有源类目以 PLANET 工业交换机为主并自编货号）；ügyvezető Hegedűs József；所有人 Fejes András Béláné；20–49 人；TEÁOR 4650 · Adószám 10678994-2-42；Cégjegyzékszám 01-09-162407 · 状态 **Active** · 成立 1992-05-04（活动 1991） · Kft.（私有；所有人 Fejes András Béláné）
+- 行业码 / 经营范围：网络 / 布线 / 机柜 / UPS 分销 + 电商 + 系统集成 + 网络施工（TEÁOR 4650）
+- 注册地址：Kolozsvár u. 7, 1155 Budapest
+- 规模档：小型（20–49 人）
+- 账目：—；—
+- 高管：Hegedűs József — Ügyvezető = 拍板人 / 收件人（sales@lan.hu 点名）
+- 高管：Fejes András Béláné — Tulajdonos（所有人）
+- 高管：Fejes Éva — Gazdasági vezető
+- 控制人 / 股东：Fejes 家族
+- **这意味着什么：**
+  - **20–49 人、自编货号卖台系工业交换机的布达佩斯分销商 → 分销 20% + 贴标可谈，B，加厚一次（small）**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + STC-028GP / STC-228GP / STC-2224GP 一页纸 + 1:1 对照其自编货号；稿内不点名 Planet
+  - 收件人 sales@ 点名 Hegedűs József；发信窗口 Thu 12–14 CET；匈牙利语一句引子
+- 备注：分销 20% + 贴标可谈；B；加厚一次（small）；坐实（adószám + cégjegyzékszám）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,15 +124,17 @@ updated: 2026-10-28
 - **【官网】体量 / 信用口径**
   > Tanúsítvány a pénzügyileg legstabilabb cégeknek … Dun & Bradstreet … Így került kiválasztásra cégünk, a Lan Számítástechnikai Szolgáltató Kft. is, mint a pénzügyileg legstabilabb cégek egyike.（2026. 07. 22.）
   > 来源：https://lan.hu/hirek_1/tanusitvany-a-penzugyileg-legstabilabb-cegeknek-222（抓取 2026-10-20）
+- **KP**：Hegedűs József（Ügyvezető（lan.hu Kapcsolat / companywall.hu；所有人 Fejes András Béláné）= 拍板人 / 收件人（sales@lan.hu 点名）（第 109 批 官方登记核实 2026-10-28））sales@lan.hu 〔https://www.companywall.hu/v%C3%A1llalat/lan-kft/MMHpGT00〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-093，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | LAN Számítástechnikai Szolgáltató Kft. |
+| 法定名称 | LAN Számítástechnikai Szolgáltató Kft.（adószám 10678994-2-42；cégjegyzékszám 01-09-162407） |
+| 成立 | 1992-05-04（活动 1991）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Budapest（H-1155 Budapest, Kolozsvár utca 7）, 匈牙利 |
-| 其他 | Planet 渠道档案 PB-093（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（货号前缀 L 为自编码，非品牌）；最大未知：采购负责人姓名（jhegedus@ / wbea@ 角色）；PLANET 线年量；是否要求匈牙利语文档 / 匈牙利仓 |
+| 其他 | Planet 渠道档案 PB-093（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（货号前缀 L 为自编码，非品牌）；最大未知：采购负责人姓名（jhegedus@ / wbea@ 角色）；PLANET 线年量；是否要求匈牙利语文档 / 匈牙利仓；第 109 批：布达佩斯网络 / 布线 / 机柜 / UPS 分销 + 电商 + 集成 + 施工（20–49 人；自编货号卖台系工业交换机）→ **分销 20% + 贴标可谈，B，加厚一次（small）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号
 
@@ -201,7 +219,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | jhegedus@lan.hu / wbea@lan.hu | 用户表原值 | Clients/ 表 |
+| Hegedűs József | Ügyvezető（lan.hu Kapcsolat / companywall.hu；所有人 Fejes András Béláné）= 拍板人 / 收件人（sales@lan.hu 点名）（第 109 批 官方登记核实 2026-10-28） | sales@lan.hu | 调研核实（公开页） | https://www.companywall.hu/v%C3%A1llalat/lan-kft/MMHpGT00 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -269,7 +287,7 @@ updated: 2026-10-28
 **主题**：STI-280GM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Hegedűs,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. Your aktív eszközök range lists PLANET industrial units under your own L-codes (IGS-10020MT at 120,140 Ft net) — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. For the industrial 8-port Gigabit + 2 SFP managed class (IGS-10020MT), do your installer customers mostly need the non-PoE unit, or has demand moved to PoE+ — so I send the right sample first?
 

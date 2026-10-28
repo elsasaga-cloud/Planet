@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 109 批（ES · 1 次检索：iberinform / axesor / datoscif（INTEC SEGURIDAD MENORCA SL；CIF B57518151；constitución 10/08/2007；Calle Pere Cortes 76 BJ A1 07760 Ciutadella de Menorca；CNAE 8009 / 8010）+ intecseguridad.com Aviso Legal（INTEC SEGURIDAD MENORCA, SL CIF B57518151；oficina@intecseguridad.com）+ policia.es 登记表 2025-09-03（Nº 3451；11/12/2007；B57518151）+ expansion（microempresa；CNAE 4321）；intecseg.com ↔ 该法人 1 次检索未证实，2026-10-28 查；https://www.iberinform.es/empresa/2412607/intec-seguridad-menorca）：**
+
+- 法定名 / 登记号：Intec Seguridad（用户表「ITS, S.L. - S.B.T.」，域 intecseg.com；**候选法人 INTEC SEGURIDAD MENORCA SL，CIF B57518151，Ciutadella de Menorca C/ Pere Cortés 76, Local A1, 07760 —— 域名 intecseg.com 与该法人同一性未证实**）— 2007-08-10 成立的梅诺卡岛安防安装商（国家警察私营安防登记 3451，2007-12-11；报警 / CCTV / 消防；微型 0–10 人；CNAE 4321 / 8010）；KP Vicente Jiménez（vicente.jimenez@intecseg.com；WhatsApp 已加）；20 次推送 0 回复 · 候选 CIF B57518151（未证实同一） · 状态 **Activa（候选法人）** · 成立 2007-08-10（候选） · S.L.（微型）
+- 行业码 / 经营范围：安防系统安装（报警 / CCTV / 消防）
+- 注册地址：C/ Pere Cortés 76, Local A1, 07760 Ciutadella de Menorca（候选）
+- 规模档：小微（0–10 人）
+- 账目：—；—
+- 高管：Vicente Jiménez — 用户表 KP（vicente.jimenez@intecseg.com；WA 已加）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **域名与法人未证实 + 微型安装商 + 20 次推送 0 回复 → 不动（B 保留但不进发送包）**
+  - 若 Vicente 在 WA 主动开口 → 按集成 25% small 一口价，预付款
+- 备注：部分坐实（候选法人；同一性未证实）；不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,16 +132,17 @@ updated: 2026-10-28
 - **【官网】持牌安防公司、ISO 9001、业务范围**
   > Intec Seguridad | Empresa de seguridad 100% menorquina. Autorizada por la Dirección General de Policía y Guardia Civil con el número de inscripción 3451 … CERTIFICACIÓN ISO EUROCERT 2025 SGS System Certification ISO 9001 … Mejor seguridad, alarmas, cámaras de videovigilancia, CCTV, cajas fuertes, contra incendios y más, de Menorca y Campus Mallorca
   > 来源：https://www.intecseguridad.com/en/productos-y-servicios/（抓取 2024-11-19）
-- **KP**：Vicente Jimenez（联系人（用户表））vicente.jimenez@intecseg.com +34 616 913 800（WhatsApp 已加）〔Clients/A/DONE/其他优质欧洲客户.xlsx〕
+- **KP**：Vicente Jimenez（用户表 KP（intecseg.com；WA 已加；20 次 0 回复）— 公司同一性未证实 → 不动（第 109 批 官方登记核实 2026-10-28））vicente.jimenez@intecseg.com +34 616 913 800（WhatsApp 已加）〔Clients/A/DONE/其他优质欧洲客户.xlsx〕
 - **调研后定级**：B（原自动 A）——实体无法核实 + 20 次推送零回复；保留 WhatsApp 渠道慢跟，若其回复再补调研。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Intec Seguridad（ITS, S.L. / S.B.T.；intecseguridad.com，用户表域 intecseg.com） |
+| 法定名称 | Intec Seguridad（「ITS, S.L. - S.B.T.」）— 候选法人 INTEC SEGURIDAD MENORCA SL（CIF B57518151；Ciutadella de Menorca）；域名 intecseg.com 与该法人同一性未证实 → 部分坐实 |
+| 成立 | 2007-08-10（候选法人）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Menorca（另有 Mallorca Campus），Baleares, España |
-| 其他 | 「100% 梅诺卡」持牌安防公司：DGP/Guardia Civil 登记号 3451；ISO 9001（SGS，Eurocert 2025）；业务：报警、CCTV、保险柜、消防、报警接收中心联动；参与 red.es 云方案资助计划 |
+| 其他 | 「100% 梅诺卡」持牌安防公司：DGP/Guardia Civil 登记号 3451；ISO 9001（SGS，Eurocert 2025）；业务：报警、CCTV、保险柜、消防、报警接收中心联动；参与 red.es 云方案资助计划；第 109 批：候选法人 = 梅诺卡岛微型安防安装商（警察登记 3451；0–10 人；CNAE 4321 / 8010）→ **不动（未证实 + 20 次 0 回复）**；Vicente 在 WA 主动开口再谈预付款小单（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：报警 + 报警接收中心（CRA）联动；CCTV 安装（远程查看）；消防 / 保险柜 / 门禁
 - **触达通道（公开）**：网站: https://www.intecseguridad.com/
@@ -211,7 +226,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Vicente Jimenez | 联系人（用户表） | vicente.jimenez@intecseg.com / +34 616 913 800（WhatsApp 已加） | 调研核实（公开页） | Clients/A/DONE/其他优质欧洲客户.xlsx |
+| Vicente Jimenez | 用户表 KP（intecseg.com；WA 已加；20 次 0 回复）— 公司同一性未证实 → 不动（第 109 批 官方登记核实 2026-10-28） | vicente.jimenez@intecseg.com / +34 616 913 800（WhatsApp 已加） | 调研核实（公开页） | Clients/A/DONE/其他优质欧洲客户.xlsx |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

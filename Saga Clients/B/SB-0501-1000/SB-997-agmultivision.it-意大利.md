@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 109 批（IT · 1 次检索：agmultivision.it 页脚 / Contattaci（Agmultivision s.r.l. - Unipersonale；Via Calabria 15 20054 Segrate (MI)；P.Iva IT04302850963；REA MI-1739481；Capitale Sociale € 30.000,00 i.v.；PEC agmultivision@pec.it；info@agmultivision.it）+ reportaziende（ATECO 46.50.10）+ amministrazionicomunali MePA（AGMULTIVISION UNIPERSONALE；Prodotti multimediali, audio-visivi）+ LinkedIn（2004；11–50）+ displaydaily 2018（Peerless-AV distributor），2026-10-28 查；https://www.agmultivision.it/en/contact-us/）：**
+
+- 法定名 / 登记号：Agmultivision s.r.l.（Unipersonale；agmultivision.it / shop.agmultivision.it；米兰 Segrate Via Calabria 15, 20054；P.IVA 04302850963；REA MI-1739481）— 2004 年起的专业视频 / 通信 / 多媒体 / 互动技术增值分销商（投影、视频会议、大屏、数字标牌、控制室、VR、光纤延长器；Peerless-AV 意大利分销；MePA 公共采购供应商）；股本 €30,000（曾 €52,500）；11–50 人；表内「switch」「质量一般」；表内未跟进 · P.IVA / CF 04302850963；REA MI-1739481 · 状态 **Active** · 成立 2004 · S.r.l. Unipersonale（私有）
+- 行业码 / 经营范围：专业 AV / 多媒体 / 互动技术 增值分销（ATECO 46.50.10）
+- 注册地址：Via Calabria 15, 20054 Segrate (MI)
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@agmultivision.it（点名 product manager networking）
+- 控制人 / 股东：单一股东（未取）
+- **这意味着什么：**
+  - **专业 AV 增值分销商（AV-over-IP / 数字标牌项目要管理型 PoE 交换机）→ 分销 20% small，一页纸一次（STC-228GP / STC-2224GP / STC-424XGGPM-280W：IGMP / QoS 管理型）；有回声再加厚**
+  - 表内未跟进 → 首触；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（P.IVA + REA）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,8 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Agmultivision s.r.l. Unipersonale（P.IVA / CF 04302850963；REA MI-1739481） |
+| 成立 | 2004（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 agmultivision.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 agmultivision.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 109 批：米兰 Segrate 专业 AV / 多媒体增值分销商（Peerless-AV 意大利分销；MePA；股本 €30,000；11–50 人）→ **分销 20% small，一页纸一次（AV-over-IP 管理型 PoE）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：AV / 多媒体技术咨询与项目（意大利）
 - **触达通道（公开）**：role: AV/多媒体集成商（意大利）；region: 意大利；contact: info@agmultivision.it

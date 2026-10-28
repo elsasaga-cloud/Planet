@@ -48,7 +48,14 @@
    "title": "（职务待核）",
    "email": "e.slavev@maxtel.bg",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（推定 Славов 家族；управител Огнян Божидаров Славов）= 收件人（第 109 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Mladen Marinov",
+   "role": "Управител（papagal.bg / ksb.bg 口径 Младен Георгиев Маринов；m.marinov@）= 拍板人（抄）（第 109 批 官方登记核实 2026-10-28）",
+   "email": "m.marinov@maxtel.bg",
+   "source": "https://papagal.bg/eik/130157325/773b"
   }
  ],
  "grade_override": null,
@@ -60,7 +67,9 @@
  },
  "company_facts": {
   "hq": "保加利亚",
-  "other": "官网 maxtel.bg，语言 bg-BG，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 maxtel.bg，语言 bg-BG，快照状态 ok；角色判定来源：官网文案；第 109 批：索非亚 CCTV / 门禁 / 通信 / LED 进口批发商（全国渠道；市政 CCTV 项目；股本 BGN 5,000；15 次群发无回）→ **分销 20% small，一页纸一次（换切口一口价）；再无回声 → 不动**（第 109 批 官方登记核实 2026-10-28）",
+  "legal_name": "МАКСТЕЛ ООД（MAXTEL Ltd.；ЕИК 130157325；ДДС BG130157325）",
+  "founded": "1999-12-09（第 109 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防 / 视频监控 / 门禁 / 通信 / 工业 LED 分销（保加利亚）"

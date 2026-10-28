@@ -81,6 +81,21 @@ updated: 2026-10-28
 
 - 法定假日：10-31 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 109 批（SE · 1 次检索：allabolag（Safe-tech CCTV Systems SWEDEN AB；Org.nr 556732-8181；Ljungbyvägen 61 285 40 Markaryd；Registreringsdatum 2007-06-28；3 anställda；SNI 46649；Ledamot Jimmy Leif Göran Johansson f 1977）+ bolagsfakta（Verklig huvudman Jimmy Johansson 100 %；Suppleant Mikaela Ahl）+ eniro（Aktiekapital 100000；Revisor Fredrik Martin Jönsson）+ hitta（Moms SE556732818101）+ 研究档 allabolag 2024 数字（4.63 MSEK；−24 %；−0.48 MSEK），2026-10-28 查；https://www.allabolag.se/5567328181/safe-tech-cctv-systems-sweden-ab）：**
+
+- 法定名 / 登记号：Safe-tech CCTV Systems SWEDEN AB（safe-tech.se；Kronoberg Markaryd Ljungbyvägen 61, 285 40；org.nr 556732-8181；VAT SE556732818101）— 2007-06-28 登记的小型 CCTV / 安防批发商（SNI 46649）；股本 SEK 100k；3 人；2024 营收 SEK 4.63M（−24%）、经营亏损 SEK −0.48M；董事 / 100% 实益人 Jimmy Leif Göran Johansson（1977 年生；ISAF 2025 到访、取目录、加 WA）、替补 Sara Mikaela Ahl；6 次推送 0 回复 · Org.nr 556732-8181；VAT SE556732818101 · 状态 **Aktiv** · 成立 2007-06-28 · Aktiebolag（Jimmy Johansson 100%）
+- 行业码 / 经营范围：CCTV / 安防产品 批发（SNI 46649）
+- 注册地址：Ljungbyvägen 61, 285 40 Markaryd
+- 规模档：小微（3 人）
+- 账目：2024 营收 SEK 4.63M；经营亏损 SEK −0.48M；—
+- 高管：Jimmy Johansson（Jimmy Leif Göran Johansson）— Styrelseledamot / 100% 所有人 / CEO = 拍板人 / 收件人（WA 已加）
+- 高管：Sara Mikaela Ahl — Styrelsesuppleant
+- 控制人 / 股东：Jimmy Johansson 100%
+- **这意味着什么：**
+  - **3 人、亏损中的瑞典 CCTV 批发商（展会加过 WA）→ 分销 20% small，一页纸一次（WA 走 Simon：STC-028GP / STC-228GP 一口价 + MOQ 1）；再无回声 → 不动**
+  - 收件人 Jimmy 直呼（WA + 邮件同发）；发信窗口 Thu 12–14 CET；瑞典语一句引子；稿内引 ISAF 2025 见面
+- 备注：分销 20% small；一页纸一次（WA）；坐实（org.nr + 实益人）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,7 +136,7 @@ updated: 2026-10-28
 - **【关联站】Jimmy Johansson 为 CEO/Owner，电话 070-610 17 11**
   > Jimmy Johansson CEO/Owner/Support 070-610 17 11 jimmy@safe-tech.se
   > 来源：https://safevisioncctv.se/index.php?route=information/ourstaff（抓取 2026-10-21）
-- **KP**：Jimmy Johansson（CEO / Owner）jimmy@safe-tech.se +46 70 610 17 11〔用户 Clients 表（ISAF 2025）+ safevisioncctv.se 员工页〕
+- **KP**：Jimmy Johansson（Styrelseledamot / 100% 实益人 / CEO（allabolag / bolagsfakta；1977 年生；WA 已加）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））jimmy@safe-tech.se +46 70 610 17 11〔用户 Clients 表（ISAF 2025）+ safevisioncctv.se 员工页〕
 - **调研后定级**：B（原自动 A）——3 人微型公司、营收下滑且亏损、展后 6 次推送 0 回复 → 需求与支付能力都弱，慢跟。
 - 备注：保留 WA 渠道；只在有 8 口 PoE 促销/新品时一次性触达（STC-28DGGPM，分销 20%）。
 
@@ -129,9 +144,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Safe-tech CCTV Systems SWEDEN AB（org.nr 556732-8181） |
+| 法定名称 | Safe-tech CCTV Systems SWEDEN AB（org.nr 556732-8181；VAT SE556732818101） |
+| 成立 | 2007-06-28（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Markaryd, Sverige |
-| 其他 | 2007 年注册，SNI 46649 批发；CEO/Owner Jimmy Johansson（070-610 17 11）；关联站 safevisioncctv.se；ISAF 2025 到访取目录并加 WA |
+| 其他 | 2007 年注册，SNI 46649 批发；CEO/Owner Jimmy Johansson（070-610 17 11）；关联站 safevisioncctv.se；ISAF 2025 到访取目录并加 WA；第 109 批：Markaryd 小型 CCTV 批发商（3 人；2024 营收 SEK 4.63M −24%、亏损；替补 Sara Mikaela Ahl）→ **分销 20% small，一页纸一次（WA 走 Simon 一口价）；再无回声 → 不动**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV/安防设备批发（瑞典）；安装与小型工程
 - **触达通道（公开）**：网站: safe-tech.se / https://safevisioncctv.se/；登记: https://www.allabolag.se/5567328181/safe-tech-cctv-systems-sweden-ab
@@ -210,7 +226,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jimmy Johansson | CEO / Owner | jimmy@safe-tech.se / +46 70 610 17 11 | 调研核实（公开页） | 用户 Clients 表（ISAF 2025）+ safevisioncctv.se 员工页 |
+| Jimmy Johansson | Styrelseledamot / 100% 实益人 / CEO（allabolag / bolagsfakta；1977 年生；WA 已加）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28） | jimmy@safe-tech.se / +46 70 610 17 11 | 调研核实（公开页） | 用户 Clients 表（ISAF 2025）+ safevisioncctv.se 员工页 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

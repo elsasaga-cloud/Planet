@@ -75,6 +75,23 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 109 批（CZ · 1 次检索：alternetivo.cz/kontakty（Alternetivo s.r.o. Žirovnická 2389/1a 106 00 Praha 10；IČ 25098314 DIČ CZ25098314；MS v Praze oddíl C vložka 49492）+ kurzy.cz（jednatelé Ondřej Valenta 1.2.2005 / Radim Dolák 15.11.2016）+ detail.cz（vlastní Ondřej Valenta 55 / Radim Dolák 47 / Lukáš Reif 51）+ channeltrends（Specializovaný distributor / VAD）+ LinkedIn（since 1996；CZ + SK；VAD of the year）+ o-spolecnosti（ChannelWorld Awards 2017 / 2018 / 2021），2026-10-28 查；https://rejstrik-firem.kurzy.cz/25098314/alternetivo-sro/）：**
+
+- 法定名 / 登记号：Alternetivo s.r.o.（alternetivo.cz；布拉格 10 Záběhlice Žirovnická 2389/1a, 106 00；IČO 25098314；DIČ CZ25098314；MS Praha C 49492）— 1996 年起的捷克 / 斯洛伐克网络与电信技术增值分销商（交换 / 路由、无线与光网络、结构化布线、网络安全、IP 监控；**自有品牌 NNET 工业非管理 PoE 交换机**；ChannelWorld「年度 VAD」2017 / 2018 / 2021）；jednatelé Ondřej Valenta（2005-02-01 起）、Radim Dolák（2016-11-15 起）；股东 Valenta / Dolák / Lukáš Reif（= 研究档 KP）；KP Milan Krátký；表内「可以尝试多跟进一下」 · IČO 25098314；DIČ CZ25098314；C 49492 MS Praha · 状态 **Aktivní** · 成立 1996/1997 · s.r.o.（Valenta / Dolák / Reif）
+- 行业码 / 经营范围：网络 / 电信技术增值分销（CZ + SK）+ 自有品牌 NNET
+- 注册地址：Žirovnická 2389/1a, 106 00 Praha 10 – Záběhlice
+- 规模档：小型（VAD；人数未取）
+- 账目：—；—
+- 高管：Lukáš Reif — 股东（研究档 KP）= 拍板人 / 收件人
+- 高管：Milan Krátký — 研究档 KP（产品 / 采购）= 收件人（抄）
+- 高管：Ondřej Valenta — Jednatel / 股东
+- 高管：Radim Dolák — Jednatel / 股东
+- 控制人 / 股东：Valenta / Dolák / Reif
+- **这意味着什么：**
+  - **自有品牌 NNET 已贴工业非管理 PoE 的捷克 VAD → 贴标 OEM 30% 可谈 + 分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-244GP（非管理）1:1 对照 NNET 在售型号 + STC-228GP / STC-2224GP；只报 OEM 档；稿内不点名其现有代工厂
+  - 收件人 Lukáš 直呼、抄 Milan；发信窗口 Thu 12–14 CET；捷克语一句引子
+- 备注：贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；坐实（IČO + 法院卷号 + 股东）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,16 +125,18 @@ updated: 2026-10-28
 - **【用户表】MC SFP 工业 FS 标价高；NNET 的**
   > MC SFP 工业FS（标价高）周边产品 JHA的反搜列表中有；Lukáš Reif NNET的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Lukáš Reif（）reif@alternetivo.cz 〔用户表〕
-- **KP**：Milan Krátký（）kratky@alternetivo.cz 〔用户表〕
+- **KP**：Lukáš Reif（股东（detail.cz：Valenta / Dolák / Reif）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））reif@alternetivo.cz 〔用户表〕
+- **KP**：Milan Krátký（研究档 KP（产品 / 采购）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28））kratky@alternetivo.cz 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Alternetivo s.r.o.（IČO 25098314；DIČ CZ25098314；MS Praha C 49492） |
+| 成立 | 1996/1997（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 alternetivo.cz，语言 cs，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 alternetivo.cz，语言 cs，快照状态 ok；角色判定来源：用户表；第 109 批：布拉格网络与电信 VAD（CZ + SK；ChannelWorld 年度 VAD 2017 / 2018 / 2021；jednatelé Ondřej Valenta / Radim Dolák；**自有品牌 NNET 工业非管理 PoE**）→ **贴标 OEM 30% 可谈 + 分销 20%，B BIG，加厚一次（STI 1:1 对照 NNET）**；次候选升 A（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 分销（交换路由 / 无线光网 / 布线 / 安全 / IP 监控）
 
@@ -223,8 +242,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Lukáš Reif | — | reif@alternetivo.cz | 调研核实（公开页） | 用户表 |
-| Milan Krátký | — | kratky@alternetivo.cz | 调研核实（公开页） | 用户表 |
+| Lukáš Reif | 股东（detail.cz：Valenta / Dolák / Reif）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28） | reif@alternetivo.cz | 调研核实（公开页） | 用户表 |
+| Milan Krátký | 研究档 KP（产品 / 采购）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28） | kratky@alternetivo.cz | 调研核实（公开页） | 用户表 |
 | Lukáš Reif NNET | — | reif@alternetivo.cz / kratky@alternetivo.cz | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

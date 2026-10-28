@@ -1,310 +1,313 @@
 {
-  "code": "SB-1129",
-  "name_official": "Redcorp SA/NV",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（redcorp.com；并档 Planet 渠道档案 PB-083）",
-  "summary": "布鲁塞尔一家 1989 年起的 B2B IT 供应商兼电商，PLANET 品牌页以工业 IGS 系列为主、十余款带价。类型：B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）。信号：redcorp.com：PLANET 品牌页 + 商品页带价：IGS-504PT € 230.42（已 fetch）；同页推荐 IGS-604HPT-RJ € 575.63 / IGS-4215-4P4T € 435.65 / IGS-4215-8P2T2S € 501.69 / IGS-20160HPT € 1033.86 / GSW-2620HP € 321.05 / IGS-824UPT € 362.27 / IGS-5225-4UP1T2S € 603.65 / IGS-6325-16P4S € 1132.28 / IGS-510TF € 147.10 / IGS-5225-8P4S € 669.78；搜索快照：GSW-2401 € 160.49「InStock」、ISW-501T € 80.32、GSW-1601 € 86.24、GSD-1002M € 126.55、WGS-804HP € 186.61、IGS-801M € 242.71、SGS-6341-24T4X € 559.49。Planet 渠道档案 PB-083 评级 B（需求：PLANET 品牌页 + 十余款工业 IGS 带价、GSW-2401「InStock」→ 在售真实，但价格形态（分位数）显示为分销 feed 定价、库存多数未显示；触达：sales@redcorp.com 公开（FAQ 页）+ 三位创始人具名直邮公开（About 页：ronald@ / dino@ / danny@redcorp.com），但创始人非采购 KP；体量：1989 年起、11–50 人，可赢；Gmail：Elsa 账号 2025-02-17 → 2026-08-13 以 BCC 群发 10 封至 sales@redcorp.com，0 回复 → 非首触、通用通道疲劳；Mikrotik 仓无此户 → B ★★（创始人直邮 + 工业线密集；feed 型 + 群发疲劳，不到 A））。并档说明：Saga 表内本条 SB-1129（比利时）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "PLANET"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "PLANET IGS-504PT 商品页带价 + 品牌页链接 + 同页推荐十款工业 IGS 带价",
-      "quote": "PLANET … Ethernet Switch Compact Industrial 4-Port 10/100/1000T 802.3at PoE + 1-Port 10/100/1000T (-40~75 degrees C) - IGS-504PT … € 230.42 … IGS-604HPT-RJ € 575.63 … IGS-4215-4P4T € 435.65 … IGS-4215-8P2T2S € 501.69 … IGS-20160HPT € 1033.86 … GSW-2620HP € 321.05 … IGS-824UPT € 362.27 … IGS-5225-4UP1T2S € 603.65 … IGS-6325-16P4S € 1132.28 … IGS-510TF € 147.10 … IGS-5225-8P4S € 669.78",
-      "url": "https://www.redcorp.com/en/product/hub-switch/planet/ethernet-switch-compact-industrial-4-port-10-100-1000t-802-3at-poe-1-port-10-100-1000t-40-75-degrees-c--igs-504pt/z9812021",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网",
-      "claim": "PLANET 品牌页存在",
-      "quote": "PLANET brand page",
-      "url": "https://www.redcorp.com/en/brand/7322/planet",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "GSW-2401 在库带价；其他 PLANET SKU 带价",
-      "quote": "GSW-2401 … € 160.49 … InStock … seller Redcorp … ISW-501T € 80.32 … GSW-1601 € 86.24 … GSD-1002M € 126.55 … WGS-804HP € 186.61 … IGS-801M € 242.71 … SGS-6341-24T4X € 559.49",
-      "url": "https://www.redcorp.com/en/brand/7322/planet",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "FAQ：法律实体 / 销售邮箱 / 电话 / 地址 / VAT",
-      "quote": "REDCORP SA/NV E-mail: sales@redcorp.com Telephone 32/2/558.3000 … Rue Emile Féronstraat 168, 1060 Brussel, VAT BE 0448 875 715",
-      "url": "https://www.redcorp.com/en/common/FAQ",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "About：三位创始人具名直邮",
-      "quote": "Ronald Reich ronald@redcorp.com (+32 2 558 30 22) … Dino Reich dino@redcorp.com … Danny Lipski danny@redcorp.com",
-      "url": "https://www.redcorp.com/fr/Home/About",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "第三方（LinkedIn 搜索快照）",
-      "claim": "成立年份 / 规模 / 自述",
-      "quote": "founded 1989 … 11–50 employees … leading B2B supplier of hardware and software in Belgium",
-      "url": "https://www.linkedin.com/company/redcorp",
-      "date": "2026-10-20"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ronald Reich",
-      "title": "Founder（About 页）；公开（About 页「Qui sommes-nous」）；创始人非采购 KP，但为唯一未被群发过的具名入口",
-      "email": "ronald@redcorp.com",
-      "phone": "+32 2 558 30 22",
-      "source": "https://www.redcorp.com/fr/Home/About"
-    },
-    {
-      "name": "Dino Reich",
-      "title": "Founder（About 页）；公开（About 页）",
-      "email": "dino@redcorp.com",
-      "phone": "",
-      "source": "https://www.redcorp.com/fr/Home/About"
-    },
-    {
-      "name": "Danny Lipski",
-      "title": "Founder（About 页）；公开（About 页）",
-      "email": "danny@redcorp.com",
-      "phone": "",
-      "source": "https://www.redcorp.com/fr/Home/About"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "Planet 渠道档案 PB-083 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-083，W 批次调研 2026-10-19/20）"
+ "code": "SB-1129",
+ "name_official": "Redcorp SA/NV",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（redcorp.com；并档 Planet 渠道档案 PB-083）",
+ "summary": "布鲁塞尔一家 1989 年起的 B2B IT 供应商兼电商，PLANET 品牌页以工业 IGS 系列为主、十余款带价。类型：B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）。信号：redcorp.com：PLANET 品牌页 + 商品页带价：IGS-504PT € 230.42（已 fetch）；同页推荐 IGS-604HPT-RJ € 575.63 / IGS-4215-4P4T € 435.65 / IGS-4215-8P2T2S € 501.69 / IGS-20160HPT € 1033.86 / GSW-2620HP € 321.05 / IGS-824UPT € 362.27 / IGS-5225-4UP1T2S € 603.65 / IGS-6325-16P4S € 1132.28 / IGS-510TF € 147.10 / IGS-5225-8P4S € 669.78；搜索快照：GSW-2401 € 160.49「InStock」、ISW-501T € 80.32、GSW-1601 € 86.24、GSD-1002M € 126.55、WGS-804HP € 186.61、IGS-801M € 242.71、SGS-6341-24T4X € 559.49。Planet 渠道档案 PB-083 评级 B（需求：PLANET 品牌页 + 十余款工业 IGS 带价、GSW-2401「InStock」→ 在售真实，但价格形态（分位数）显示为分销 feed 定价、库存多数未显示；触达：sales@redcorp.com 公开（FAQ 页）+ 三位创始人具名直邮公开（About 页：ronald@ / dino@ / danny@redcorp.com），但创始人非采购 KP；体量：1989 年起、11–50 人，可赢；Gmail：Elsa 账号 2025-02-17 → 2026-08-13 以 BCC 群发 10 封至 sales@redcorp.com，0 回复 → 非首触、通用通道疲劳；Mikrotik 仓无此户 → B ★★（创始人直邮 + 工业线密集；feed 型 + 群发疲劳，不到 A））。并档说明：Saga 表内本条 SB-1129（比利时）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "PLANET IGS-504PT 商品页带价 + 品牌页链接 + 同页推荐十款工业 IGS 带价",
+   "quote": "PLANET … Ethernet Switch Compact Industrial 4-Port 10/100/1000T 802.3at PoE + 1-Port 10/100/1000T (-40~75 degrees C) - IGS-504PT … € 230.42 … IGS-604HPT-RJ € 575.63 … IGS-4215-4P4T € 435.65 … IGS-4215-8P2T2S € 501.69 … IGS-20160HPT € 1033.86 … GSW-2620HP € 321.05 … IGS-824UPT € 362.27 … IGS-5225-4UP1T2S € 603.65 … IGS-6325-16P4S € 1132.28 … IGS-510TF € 147.10 … IGS-5225-8P4S € 669.78",
+   "url": "https://www.redcorp.com/en/product/hub-switch/planet/ethernet-switch-compact-industrial-4-port-10-100-1000t-802-3at-poe-1-port-10-100-1000t-40-75-degrees-c--igs-504pt/z9812021",
+   "date": "2026-10-20"
   },
-  "company_facts": {
-    "legal_name": "Redcorp SA/NV",
-    "founded": "",
-    "hq": "Brussels（Rue Emile Féronstraat 168, 1060）, 比利时",
-    "size": "",
-    "other": "Planet 渠道档案 PB-083（2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json）；自有品牌：否；最大未知：PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要求"
+  {
+   "kind": "官网",
+   "claim": "PLANET 品牌页存在",
+   "quote": "PLANET brand page",
+   "url": "https://www.redcorp.com/en/brand/7322/planet",
+   "date": "2026-10-20"
   },
-  "business_lines": [
-    "B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）"
-  ],
-  "products_seen": [
-    {
-      "brand": "PLANET",
-      "model": "IGS-504PT",
-      "spec": "工业 4×GE PoE+ + 1×GE 非管理（€ 230.42）→ Saga $31.2 EXW，同口型",
-      "saga": "STI-054GP",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-604HPT-RJ",
-      "spec": "工业 4×GE PoE+ + 2×GE 非管理（€ 575.63）→ Saga 4P+1 上联对位，需说明",
-      "saga": "STI-054GP",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-4215-4P4T",
-      "spec": "工业 L2+ 4×GE PoE+ + 4×GE 管理（€ 435.65）→ Saga 4×GE PoE + 2×SFP L2+ $147.1（上联形态不同，需说明）",
-      "saga": "STI-244DGGPM-2BT",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-4215-8P2T2S",
-      "spec": "工业 L2+ 8×GE PoE+ + 2T + 2 SFP（€ 501.69）→ Saga 8×GE PoE+ + 2×SFP L2 $78.9 EXW",
-      "saga": "STI-288GPM",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-20160HPT",
-      "spec": "工业 16×GE PoE+ + 4 SFP 管理（€ 1033.86）→ Saga 工业 16×GE + 2×10G SFP+ $269.1（非 PoE，需说明）",
-      "saga": "STI-2160XGGM",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GSW-2620HP",
-      "spec": "24×GE PoE+ 非管理机架（€ 321.05）：Saga 商用线无非管理型号，不硬凑",
-      "saga": "—",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-824UPT",
-      "spec": "工业 8×GE bt PoE++ 非管理（€ 362.27）→ Saga 8×GE PoE at 非管理 $57.4（非 bt，需说明）",
-      "saga": "STI-288GP",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-5225-4UP1T2S",
-      "spec": "工业 L2+ 4×bt PoE++ + 1T + 2 SFP（€ 603.65）→ Saga $147.1",
-      "saga": "STI-244DGGPM-2BT",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-6325-16P4S",
-      "spec": "工业 L3 16×GE PoE+ + 4 SFP（€ 1132.28）：Saga 工业 16 口无 PoE，不硬凑",
-      "saga": "—",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-510TF",
-      "spec": "工业 4×GE + 1×SFP 非管理（€ 147.10）→ Saga 4×GE + 2×SFP $28.0",
-      "saga": "STI-240GE",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-5225-8P4S",
-      "spec": "工业 L2+ 8×GE PoE+ + 4 SFP（€ 669.78）→ Saga 8P + 2 SFP $78.9（少 2 SFP，需说明）",
-      "saga": "STI-288GPM",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GSW-2401",
-      "spec": "24×GE 非管理（€ 160.49 InStock）：不硬凑",
-      "saga": "—",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "ISW-501T",
-      "spec": "工业 5×FE 非管理（€ 80.32）→ Saga 4×FE + 2×SFP $25.1",
-      "saga": "STI-240FE",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GSW-1601",
-      "spec": "16×GE 非管理：不硬凑",
-      "saga": "—",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GSD-1002M",
-      "spec": "8×GE + 2×SFP 管理桌面（€ 126.55）→ Saga STC-28DGGM $68.2（价格表「paused」，报价前核价）",
-      "saga": "STC-28DGGM",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "WGS-804HP",
-      "spec": "工业壁挂 8×GE（4 PoE+）管理（€ 186.61）→ Saga 商用 8×GE PoE+ + 2 SFP L2+ $80.7",
-      "saga": "STC-28DGGPM",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-801M",
-      "spec": "工业 8×GE 管理 DIN（€ 242.71）→ Saga $68.2",
-      "saga": "STI-280GM",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "SGS-6341-24T4X",
-      "spec": "24×GE + 4×10G SFP+ L3 堆叠（€ 559.49）→ Saga L2+ 档 $127.4",
-      "saga": "STC-424XGGM",
-      "url": "https://redcorp.com",
-      "date": "2026-10-19"
-    }
-  ],
-  "channels": {
-    "role": "B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）",
-    "region": "比利时"
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "GSW-2401 在库带价；其他 PLANET SKU 带价",
+   "quote": "GSW-2401 … € 160.49 … InStock … seller Redcorp … ISW-501T € 80.32 … GSW-1601 € 86.24 … GSD-1002M € 126.55 … WGS-804HP € 186.61 … IGS-801M € 242.71 … SGS-6341-24T4X € 559.49",
+   "url": "https://www.redcorp.com/en/brand/7322/planet",
+   "date": "2026-10-20"
   },
-  "signals": [
-    "比利时老牌 B2B 供应商的 PLANET 页以工业 IGS 系列为主（十余款带价）→ 其企业 / 公共机构客户有工业 DIN 需求；Saga STI 工业线同口型、中性包装 EXW，价差 5–8×（IGS-4215-8P2T2S € 501.69 vs STI-288GPM $78.9）；创始人直邮公开，可绕开已疲劳的 sales@ 通道"
-  ],
-  "risks": [
-    "PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要求"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "其 PLANET 页工业 PoE 管理款最密集（IGS-4215-8P2T2S € 501.69 / IGS-5225-8P4S € 669.78 / IGS-4215-4P4T € 435.65）→ Saga 工业 8×GE PoE+ + 2×SFP L2 管理（$78.9 EXW）同口型；非 PoE 位 IGS-801M € 242.71 由 STI-280GM（$68.2）第二封；分销 / B2B 电商 → 20%（沿用 Planet 档案 PB-083）；需求："
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "FAQ：法律实体 / 销售邮箱 / 电话 / 地址 / VAT",
+   "quote": "REDCORP SA/NV E-mail: sales@redcorp.com Telephone 32/2/558.3000 … Rue Emile Féronstraat 168, 1060 Brussel, VAT BE 0448 875 715",
+   "url": "https://www.redcorp.com/en/common/FAQ",
+   "date": "2026-10-20"
   },
-  "email_hook": "Your PLANET page is dense with industrial IGS units at € 230–1 130 — a neutral-packed Marvell-based DIN-rail line at EXW gives the same slots at roughly one fifth of the price. On the industrial PLANET units you list (IGS-4215 / IGS-5225 class), do customers mostly buy the PoE+ managed models or the compact unmanaged ones — so I quote the right slot first?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
-      "revive": "不动（Q-33 供应商渠道客户）",
-      "lane": "比利时（欧洲全域主攻）",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；研究档 risks：PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2025-02-17 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入"
-    },
-    "situation": "布鲁塞尔一家 1989 年起的 B2B IT 供应商兼电商，PLANET 品牌页以工业 IGS 系列为主、十余款带价。类型：B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）。信号：redcorp.com：PLANET 品牌页 + 商品页带价：IGS-504PT € 230.42（已 fetch）；同页推荐 IGS-604HPT-RJ € 575.63 / IGS-4215-4P4T € 435.65 / IGS-4215-8P2T2S € 501.69 / IGS-20160HPT € 1033.86 / GSW-2620HP € ",
-    "need": "其 PLANET 页工业 PoE 管理款最密集（IGS-4215-8P2T2S € 501.69 / IGS-5225-8P4S € 669.78 / IGS-4215-4P4T € 435.65）→ Saga 工业 8×GE PoE+ + 2×SFP L2 管理（$78.9 EXW）同口型；非 PoE 位 IGS-801M € 242.71 由 STI-280GM（$68.2）第二封；分销 / ",
-    "breakpoint": "PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要求",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "其 PLANET 页工业 PoE 管理款最密集（IGS-4215-8P2T2S € 501.69 / IGS-5225-8P4S € 669.78 / IGS-4215-4P4T € 435.65）→ Saga 工业 8×GE PoE+ + 2×SFP L2 管理（$78.9 EXW）同口型；非 PoE 位 IGS-801M € 242.71 由 STI-280GM（$68.2）第二封；分销 / ",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-02-17",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
-        "quote": "24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 redcorp.com, sales@redcorp.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-13",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 redcorp.com, sales@redcorp.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "About：三位创始人具名直邮",
+   "quote": "Ronald Reich ronald@redcorp.com (+32 2 558 30 22) … Dino Reich dino@redcorp.com … Danny Lipski danny@redcorp.com",
+   "url": "https://www.redcorp.com/fr/Home/About",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "第三方（LinkedIn 搜索快照）",
+   "claim": "成立年份 / 规模 / 自述",
+   "quote": "founded 1989 … 11–50 employees … leading B2B supplier of hardware and software in Belgium",
+   "url": "https://www.linkedin.com/company/redcorp",
+   "date": "2026-10-20"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ronald Reich",
+   "title": "Founder（About 页）；公开（About 页「Qui sommes-nous」）；创始人非采购 KP，但为唯一未被群发过的具名入口",
+   "email": "ronald@redcorp.com",
+   "phone": "+32 2 558 30 22",
+   "source": "https://www.redcorp.com/fr/Home/About",
+   "role": "Founder（redcorp.com About；pappers.be 口径 Ronald Reich Management and Consulting）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Dino Reich",
+   "title": "Founder（About 页）；公开（About 页）",
+   "email": "dino@redcorp.com",
+   "phone": "",
+   "source": "https://www.redcorp.com/fr/Home/About",
+   "role": "Founder（redcorp.com About）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Danny Lipski",
+   "title": "Founder（About 页）；公开（About 页）",
+   "email": "danny@redcorp.com",
+   "phone": "",
+   "source": "https://www.redcorp.com/fr/Home/About",
+   "role": "董事（pappers.be 口径 Daniel Lipski）（第 109 批 官方登记核实 2026-10-28）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "Planet 渠道档案 PB-083 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-083，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "REDCORP SA/NV（BCE / TVA BE 0448.875.715，2021-10 起；吸收原 Redcorp 0437.509.887）",
+  "founded": "1989-05-18（原法人）/ 1992-12-11（现法人）（第 109 批 官方登记核实 2026-10-28）",
+  "hq": "Brussels（Rue Emile Féronstraat 168, 1060）, 比利时",
+  "size": "",
+  "other": "Planet 渠道档案 PB-083（2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json）；自有品牌：否；最大未知：PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要求；第 109 批：布鲁塞尔 Saint-Gilles B2B IT 电商（营业额 €31.97M；≈49 人；Reich 家族；目录已有台系工业 IGS 系列）→ **分销 20%，B BIG，加厚一次（STI 1:1 对照 IGS）**；次候选升 A（第 109 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "IGS-504PT",
+   "spec": "工业 4×GE PoE+ + 1×GE 非管理（€ 230.42）→ Saga $31.2 EXW，同口型",
+   "saga": "STI-054GP",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-604HPT-RJ",
+   "spec": "工业 4×GE PoE+ + 2×GE 非管理（€ 575.63）→ Saga 4P+1 上联对位，需说明",
+   "saga": "STI-054GP",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-4215-4P4T",
+   "spec": "工业 L2+ 4×GE PoE+ + 4×GE 管理（€ 435.65）→ Saga 4×GE PoE + 2×SFP L2+ $147.1（上联形态不同，需说明）",
+   "saga": "STI-244DGGPM-2BT",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-4215-8P2T2S",
+   "spec": "工业 L2+ 8×GE PoE+ + 2T + 2 SFP（€ 501.69）→ Saga 8×GE PoE+ + 2×SFP L2 $78.9 EXW",
+   "saga": "STI-288GPM",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-20160HPT",
+   "spec": "工业 16×GE PoE+ + 4 SFP 管理（€ 1033.86）→ Saga 工业 16×GE + 2×10G SFP+ $269.1（非 PoE，需说明）",
+   "saga": "STI-2160XGGM",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GSW-2620HP",
+   "spec": "24×GE PoE+ 非管理机架（€ 321.05）：Saga 商用线无非管理型号，不硬凑",
+   "saga": "—",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-824UPT",
+   "spec": "工业 8×GE bt PoE++ 非管理（€ 362.27）→ Saga 8×GE PoE at 非管理 $57.4（非 bt，需说明）",
+   "saga": "STI-288GP",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-5225-4UP1T2S",
+   "spec": "工业 L2+ 4×bt PoE++ + 1T + 2 SFP（€ 603.65）→ Saga $147.1",
+   "saga": "STI-244DGGPM-2BT",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-6325-16P4S",
+   "spec": "工业 L3 16×GE PoE+ + 4 SFP（€ 1132.28）：Saga 工业 16 口无 PoE，不硬凑",
+   "saga": "—",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-510TF",
+   "spec": "工业 4×GE + 1×SFP 非管理（€ 147.10）→ Saga 4×GE + 2×SFP $28.0",
+   "saga": "STI-240GE",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-5225-8P4S",
+   "spec": "工业 L2+ 8×GE PoE+ + 4 SFP（€ 669.78）→ Saga 8P + 2 SFP $78.9（少 2 SFP，需说明）",
+   "saga": "STI-288GPM",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GSW-2401",
+   "spec": "24×GE 非管理（€ 160.49 InStock）：不硬凑",
+   "saga": "—",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "ISW-501T",
+   "spec": "工业 5×FE 非管理（€ 80.32）→ Saga 4×FE + 2×SFP $25.1",
+   "saga": "STI-240FE",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GSW-1601",
+   "spec": "16×GE 非管理：不硬凑",
+   "saga": "—",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GSD-1002M",
+   "spec": "8×GE + 2×SFP 管理桌面（€ 126.55）→ Saga STC-28DGGM $68.2（价格表「paused」，报价前核价）",
+   "saga": "STC-28DGGM",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "WGS-804HP",
+   "spec": "工业壁挂 8×GE（4 PoE+）管理（€ 186.61）→ Saga 商用 8×GE PoE+ + 2 SFP L2+ $80.7",
+   "saga": "STC-28DGGPM",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-801M",
+   "spec": "工业 8×GE 管理 DIN（€ 242.71）→ Saga $68.2",
+   "saga": "STI-280GM",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "SGS-6341-24T4X",
+   "spec": "24×GE + 4×10G SFP+ L3 堆叠（€ 559.49）→ Saga L2+ 档 $127.4",
+   "saga": "STC-424XGGM",
+   "url": "https://redcorp.com",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）",
+  "region": "比利时"
+ },
+ "signals": [
+  "比利时老牌 B2B 供应商的 PLANET 页以工业 IGS 系列为主（十余款带价）→ 其企业 / 公共机构客户有工业 DIN 需求；Saga STI 工业线同口型、中性包装 EXW，价差 5–8×（IGS-4215-8P2T2S € 501.69 vs STI-288GPM $78.9）；创始人直邮公开，可绕开已疲劳的 sales@ 通道"
+ ],
+ "risks": [
+  "PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要求"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "其 PLANET 页工业 PoE 管理款最密集（IGS-4215-8P2T2S € 501.69 / IGS-5225-8P4S € 669.78 / IGS-4215-4P4T € 435.65）→ Saga 工业 8×GE PoE+ + 2×SFP L2 管理（$78.9 EXW）同口型；非 PoE 位 IGS-801M € 242.71 由 STI-280GM（$68.2）第二封；分销 / B2B 电商 → 20%（沿用 Planet 档案 PB-083）；需求："
+ },
+ "email_hook": "Your PLANET page is dense with industrial IGS units at € 230–1 130 — a neutral-packed Marvell-based DIN-rail line at EXW gives the same slots at roughly one fifth of the price. On the industrial PLANET units you list (IGS-4215 / IGS-5225 class), do customers mostly buy the PoE+ managed models or the compact unmanaged ones — so I quote the right slot first?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "比利时（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；研究档 risks：PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2025-02-17 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入"
+  },
+  "situation": "布鲁塞尔一家 1989 年起的 B2B IT 供应商兼电商，PLANET 品牌页以工业 IGS 系列为主、十余款带价。类型：B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）。信号：redcorp.com：PLANET 品牌页 + 商品页带价：IGS-504PT € 230.42（已 fetch）；同页推荐 IGS-604HPT-RJ € 575.63 / IGS-4215-4P4T € 435.65 / IGS-4215-8P2T2S € 501.69 / IGS-20160HPT € 1033.86 / GSW-2620HP € ",
+  "need": "其 PLANET 页工业 PoE 管理款最密集（IGS-4215-8P2T2S € 501.69 / IGS-5225-8P4S € 669.78 / IGS-4215-4P4T € 435.65）→ Saga 工业 8×GE PoE+ + 2×SFP L2 管理（$78.9 EXW）同口型；非 PoE 位 IGS-801M € 242.71 由 STI-280GM（$68.2）第二封；分销 / ",
+  "breakpoint": "PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要求",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "其 PLANET 页工业 PoE 管理款最密集（IGS-4215-8P2T2S € 501.69 / IGS-5225-8P4S € 669.78 / IGS-4215-4P4T € 435.65）→ Saga 工业 8×GE PoE+ + 2×SFP L2 管理（$78.9 EXW）同口型；非 PoE 位 IGS-801M € 242.71 由 STI-280GM（$68.2）第二封；分销 / ",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-02-17",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+    "quote": "24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 redcorp.com, sales@redcorp.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-13",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 redcorp.com, sales@redcorp.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

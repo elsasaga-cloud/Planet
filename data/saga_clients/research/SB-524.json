@@ -1,165 +1,169 @@
 {
-  "code": "SB-524",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（armadi-rack.it，快照 2026-10-21）",
-  "summary": "意大利 Armadi Rack（19 寸机柜、子架、电子/机电外壳意大利制造与网店；网店栏目 PoE 交换机、工业交换机/HUB；表内「Digitus / Utepo 的工业 FS；Linkcreative 的 MC」「可以尝试多跟进一下」；KP Massimiliano Luciani（Sales Manager）、Alfredo Marmone（Entrepreneur））；群发 13 次无回复。",
-  "type": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
-  "size": "",
-  "brands_seen": [
-    "Digitus",
-    "Utepo",
-    "Linkcreative",
-    "TP-Link"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Armadi Rack；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia. Ampia scelta, produzione e vendita online.",
-      "url": "https://www.armadi-rack.it/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "Digitus Upeto的工业FS Linkcreative的MC",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Armadi Rack 定位",
-      "quote": "Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia. Ampia scelta, produzione e vendita online. ; /294-switch-poe/ ; /288-hub-switch-industriali/",
-      "url": "https://www.armadi-rack.it/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Digitus Utepo 工业 FS；Linkcreative MC",
-      "quote": "Digitus Upeto的工业FS Linkcreative的MC；可以尝试多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Massimiliano Luciani",
-      "title": "Sales Manager",
-      "email": "info@armadi-rack.it",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Alfredo Marmone",
-      "title": "Entrepreneur",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-524",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（armadi-rack.it，快照 2026-10-21）",
+ "summary": "意大利 Armadi Rack（19 寸机柜、子架、电子/机电外壳意大利制造与网店；网店栏目 PoE 交换机、工业交换机/HUB；表内「Digitus / Utepo 的工业 FS；Linkcreative 的 MC」「可以尝试多跟进一下」；KP Massimiliano Luciani（Sales Manager）、Alfredo Marmone（Entrepreneur））；群发 13 次无回复。",
+ "type": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
+ "size": "",
+ "brands_seen": [
+  "Digitus",
+  "Utepo",
+  "Linkcreative",
+  "TP-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Armadi Rack；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia. Ampia scelta, produzione e vendita online.",
+   "url": "https://www.armadi-rack.it/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "意大利",
-    "other": "官网 armadi-rack.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Digitus Upeto的工业FS Linkcreative的MC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "19 寸机柜 / 子架 / 外壳制造",
-    "网络配件网店（PoE / 工业交换机 / MC）"
-  ],
-  "channels": {
-    "role": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
-    "region": "意大利",
-    "contact": "info@armadi-rack.it、ordini@armadi-rack.it"
+  {
+   "kind": "官网快照",
+   "claim": "Armadi Rack 定位",
+   "quote": "Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia. Ampia scelta, produzione e vendita online. ; /294-switch-poe/ ; /288-hub-switch-industriali/",
+   "url": "https://www.armadi-rack.it/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "栏目 /294-switch-poe/、/288-hub-switch-industriali/；kw switch 26 / wireless 31 / sfp 10",
-    "官网：Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia；KP Massimiliano Luciani / Sales Manager；Alfredo Marmone / Entrepreneur"
-  ],
-  "risks": [
-    "主业机柜：交换机为网店配套品类，量小；现卖 Utepo（深圳）价格基准低",
-    "13 次无回复 → 改向 Sales Manager 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 20,
-    "why": "在售 Digitus/Utepo 工业 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）对位 Linkcreative"
-  },
-  "email_hook": "Massimiliano, alongside the Digitus and Utepo industrial switches in your shop, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your rack customers order most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 info@armadi-rack.it, ordini@armadi-rack.it；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-17「16 Port PoE Managed Switch」；To 仅本户 info@armadi-rack.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@armadi-rack.it` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "意大利（欧洲全域主攻）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「Digitus Upeto的工业FS Linkcreative的MC」；研究档 risks：主业机柜：交换机为网店配套品类，量小；现卖 Utepo（深圳）价格基准低"
-    },
-    "situation": "意大利 Armadi Rack（19 寸机柜、子架、电子/机电外壳意大利制造与网店；网店栏目 PoE 交换机、工业交换机/HUB；表内「Digitus / Utepo 的工业 FS；Linkcreative 的 MC」「可以尝试多跟进一下」；KP Massimiliano Luciani（Sales Manager）、Alfredo Marmone（Entrepreneur））；群发 13 次无回复。",
-    "need": "在售 Digitus/Utepo 工业 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）对位 Linkcreative",
-    "breakpoint": "主业机柜：交换机为网店配套品类，量小；现卖 Utepo（深圳）价格基准低",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 20,
-      "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SB-034 2025-03-18；SB-1102 / SB-010 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
-      "why": "在售 Digitus/Utepo 工业 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）对位 Linkcreative。已打开的主题（1/20 封有打开记录）：「24 port poe switch」(2024-08-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Massimiliano, alongside the Digitus and Utepo industrial switches in your shop, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your rack customers order most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-02-17",
-        "dir": "out",
-        "who": "Elsa → info@armadi-rack.it",
-        "quote": "16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "1951419f3fa96c82"
-      },
-      {
-        "date": "2026-09-16",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
-        "why": "20 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-16（20 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Digitus Upeto的工业FS Linkcreative的MC",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2026-09-16",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "16 Port Industrial PoE Switch",
-        "why": "本日去信真实主题（邮箱索引 fa541ee622d8b380；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-        "k": "fa541ee622d8b380"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "Alongside the Digitus and Utepo industrial switches in your shop - three neutral-brand numbers",
-      "body": "Hi Massimiliano,\n\nWe wrote to you once in February 2025 about a 16-port PoE managed switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nAlongside the Digitus and Utepo industrial switches and the Linkcreative converters in your shop, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: which port count do your rack customers order most - 8-port PoE, or the small 5-port?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Digitus Utepo 工业 FS；Linkcreative MC",
+   "quote": "Digitus Upeto的工业FS Linkcreative的MC；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Massimiliano Luciani",
+   "title": "Sales Manager",
+   "email": "info@armadi-rack.it",
+   "phone": "",
+   "source": "用户表",
+   "role": "业主（reteimprese 口径 Luciani Massimiliano）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Alfredo Marmone",
+   "title": "Entrepreneur",
+   "email": "",
+   "phone": "",
+   "source": "用户表",
+   "role": "研究档 KP = 收件人（抄）（第 109 批 官方登记核实 2026-10-28）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 armadi-rack.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 109 批：博洛尼亚 Casalecchio di Reno 19 寸机柜 / 电子外壳制造 + 网店（交换机栏目卖 Digitus / Utepo 贴牌货）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 1:1）**（第 109 批 官方登记核实 2026-10-28）",
+  "legal_name": "Armadi-Rack.it（品牌 / 网店）— 运营主体 M.D.W. srl（P.IVA / CF 02766841205；REA BO-465866）",
+  "founded": "未取（第 109 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "19 寸机柜 / 子架 / 外壳制造",
+  "网络配件网店（PoE / 工业交换机 / MC）"
+ ],
+ "channels": {
+  "role": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
+  "region": "意大利",
+  "contact": "info@armadi-rack.it、ordini@armadi-rack.it"
+ },
+ "signals": [
+  "栏目 /294-switch-poe/、/288-hub-switch-industriali/；kw switch 26 / wireless 31 / sfp 10",
+  "官网：Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia；KP Massimiliano Luciani / Sales Manager；Alfredo Marmone / Entrepreneur"
+ ],
+ "risks": [
+  "主业机柜：交换机为网店配套品类，量小；现卖 Utepo（深圳）价格基准低",
+  "13 次无回复 → 改向 Sales Manager 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "在售 Digitus/Utepo 工业 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）对位 Linkcreative"
+ },
+ "email_hook": "Massimiliano, alongside the Digitus and Utepo industrial switches in your shop, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your rack customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 info@armadi-rack.it, ordini@armadi-rack.it；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-17「16 Port PoE Managed Switch」；To 仅本户 info@armadi-rack.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@armadi-rack.it` 仅此 1 条，complete）（第 74 批(m)）",
+   "type": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「Digitus Upeto的工业FS Linkcreative的MC」；研究档 risks：主业机柜：交换机为网店配套品类，量小；现卖 Utepo（深圳）价格基准低"
+  },
+  "situation": "意大利 Armadi Rack（19 寸机柜、子架、电子/机电外壳意大利制造与网店；网店栏目 PoE 交换机、工业交换机/HUB；表内「Digitus / Utepo 的工业 FS；Linkcreative 的 MC」「可以尝试多跟进一下」；KP Massimiliano Luciani（Sales Manager）、Alfredo Marmone（Entrepreneur））；群发 13 次无回复。",
+  "need": "在售 Digitus/Utepo 工业 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）对位 Linkcreative",
+  "breakpoint": "主业机柜：交换机为网店配套品类，量小；现卖 Utepo（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SB-034 2025-03-18；SB-1102 / SB-010 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
+   "why": "在售 Digitus/Utepo 工业 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）对位 Linkcreative。已打开的主题（1/20 封有打开记录）：「24 port poe switch」(2024-08-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Massimiliano, alongside the Digitus and Utepo industrial switches in your shop, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your rack customers order most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-02-17",
+    "dir": "out",
+    "who": "Elsa → info@armadi-rack.it",
+    "quote": "16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1951419f3fa96c82"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+    "why": "20 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-16（20 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Digitus Upeto的工业FS Linkcreative的MC",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 fa541ee622d8b380；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "fa541ee622d8b380"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Alongside the Digitus and Utepo industrial switches in your shop - three neutral-brand numbers",
+   "body": "Hi Massimiliano,\n\nWe wrote to you once in February 2025 about a 16-port PoE managed switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nAlongside the Digitus and Utepo industrial switches and the Linkcreative converters in your shop, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: which port count do your rack customers order most - 8-port PoE, or the small 5-port?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

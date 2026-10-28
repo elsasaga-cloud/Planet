@@ -82,6 +82,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（NL · 1 次检索：netwerkproducten.com/service/over-ons（MP2 Netwerkproducten bv 2002 opgericht door wijlen Marcel Meijer；Wilgenkade 2 3992 LL Houten；KVK 62165984；BTW NL8546.95.667B01）+ bedrijvenregister（Hoofdvestiging Wilgenkade 2 Houten；vestigingsnummer 000031200974；Detailhandel via internet）+ goudengids（Oprichtingsdatum 23/12/2014；Aantal werknemers 2）+ qshops（contactpersoon Sandra Meijer）+ drimble（前 Zeewolde Grootzeil），2026-10-28 查；https://www.netwerkproducten.com/service/over-ons）：**
+
+- 法定名 / 登记号：MP2 Netwerkproducten B.V.（netwerkproducten.com / mp2.nl；乌得勒支 Houten Wilgenkade 2, 3992 LL（退货地 Zeewolde Grootzeil 5）；KvK 62165984；BTW NL8546.95.667B01）— 2002 年由 Marcel Meijer（已故）创立、2014-12-23 登记为 B.V. 的网络产品网店（1996 起进口机柜 / 线缆 / 网络件；16 点前下单当天发；交换机 94 / MC 18 / 光纤 40；Planet GSD-1020S）；联系人 Sandra Meijer；2 名雇员；群发 15 次无回复 · KvK 62165984；BTW NL8546.95.667B01 · 状态 **Actief** · 成立 2014-12-23（活动 2002 / 1996） · B.V.（Meijer 家族）
+- 行业码 / 经营范围：网络产品 网店（机柜 / 线缆 / 交换机 / 光纤）
+- 注册地址：Wilgenkade 2, 3992 LL Houten
+- 规模档：小微（2 人）
+- 账目：—；—
+- 高管：Sandra Meijer — 联系人 / 经营者（推定）= 收件人（klantenservice@ 点名）
+- 高管：Marcel Meijer — 创始人（已故）
+- 控制人 / 股东：Meijer 家族
+- **这意味着什么：**
+  - **2 人网店（15 次群发无回）→ 分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP 对照其在售 10 口型号一口价 + MOQ 1 + 荷兰 DAP）；再无回声 → 不动**；稿内不点名 Planet
+  - 收件人 Sandra 直呼；发信窗口 Thu 12–14 CET；荷语一句引子
+- 备注：分销 20% small；一页纸一次（换切口）；坐实（KvK）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,14 +143,17 @@ updated: 2026-10-28
 - **【用户表】比较多外壳，有国内的；switch**
   > 比较多的外壳 有国内的 switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Sandra Meijer（联系人 / 经营者（qshops；创始人 Marcel Meijer 已故）= 收件人（klantenservice@ 点名）（第 109 批 官方登记核实 2026-10-28））klantenservice@netwerkproducten.com 〔https://www.netwerkproducten.com/service/over-ons〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MP2 Netwerkproducten B.V.（KvK 62165984；BTW NL8546.95.667B01） |
+| 成立 | 2014-12-23（活动 2002 / 1996）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 荷兰 |
-| 其他 | 官网 netwerkproducten.com，语言 nl，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 netwerkproducten.com，语言 nl，快照状态 ok；角色判定来源：待核；第 109 批：Houten 网络产品网店（2 人；机柜 / 线缆 / 交换机 / 光纤；15 次群发无回）→ **分销 20% small，一页纸一次（换切口一口价 + 荷兰 DAP）；再无回声 → 不动**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品网店（交换机 / 线缆 / MC）
 - **触达通道（公开）**：role: 网络产品网店（荷兰）；region: 荷兰；contact: klantenservice@netwerkproducten.com
@@ -231,7 +249,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | klantenservice@netwerkproducten.com | 用户表原值 | Clients/ 表 |
+| Sandra Meijer | 联系人 / 经营者（qshops；创始人 Marcel Meijer 已故）= 收件人（klantenservice@ 点名）（第 109 批 官方登记核实 2026-10-28） | klantenservice@netwerkproducten.com | 调研核实（公开页） | https://www.netwerkproducten.com/service/over-ons |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -267,7 +285,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；已推送 15 次无回复，邮件通道疲劳
+- **W**：已推送 15 次无回复，邮件通道疲劳
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -284,7 +302,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -300,7 +318,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Sandra,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the switch category of your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 5/8-port unmanaged models from small lots, CE/RoHS, EU shipping — which band sells more for you, PoE or plain gigabit?
 

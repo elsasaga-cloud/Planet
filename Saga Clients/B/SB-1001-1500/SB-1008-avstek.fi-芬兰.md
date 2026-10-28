@@ -74,6 +74,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（FI · 1 次检索：kauppalehti（Avstek Oy；Y-tunnus 2721676-8；Toimiala 80200；Toimitusjohtaja Haaparanta Jari Lasse Olavi）+ finder.fi（Vanajantie 10 A 13110 Hämeenlinna；PL 21 Turenki；1–4 henkilöä；perustettu 2015；kotipaikka Janakkala）+ vainu（Perustettu 30.10.2015；hallitus Jari / Tanja Haaparanta）+ avstek.fi Yritysesittely（Sähköurakoitsija Tukes S3；Turvallisuusalan elinkeinolupa），2026-10-28 查；https://www.finder.fi/Turvaj%C3%A4rjestelm%C3%A4t/Avstek+Oy/H%C3%A4meenlinna/yhteystiedot/3101598）：**
+
+- 法定名 / 登记号：Avstek Oy（avstek.fi；海门林纳 Hämeenlinna Vanajantie 10a, 13110（注册地 Janakkala；PL 21, 14201 Turenki）；Y-tunnus 2721676-8）— 2015-10-30 成立的小型安防 / 电气安装承包商兼网店（Tukes S3 电气承包 + 安保业许可；网店 PoE 交换机 4 款全为 PLANET 备库）；toimitusjohtaja Jari Haaparanta（董事；Tanja Haaparanta 替补 = 家族）；1–4 人；表内未跟进 · Y-tunnus 2721676-8 · 状态 **Aktiivinen** · 成立 2015-10-30 · Oy（Haaparanta 家族）
+- 行业码 / 经营范围：安防 / 电气安装承包 + 安防 / 网络产品网店（TOL 80200）
+- 注册地址：Vanajantie 10a, 13110 Hämeenlinna
+- 规模档：小微（1–4 人）
+- 账目：—；—
+- 高管：Jari Haaparanta — Toimitusjohtaja / 董事 = 拍板人 / 收件人（info@avstek.fi 点名）
+- 控制人 / 股东：Haaparanta 家族
+- **这意味着什么：**
+  - **1–4 人的芬兰安装商兼网店（PoE 类目全是台系）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 1:1 对照；MOQ 1）；有回声再加厚**；稿内不点名 Planet
+  - 表内未跟进 → 首触；收件人 info@ 点名 Jari；发信窗口 Thu 12–14 EET；芬兰语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（Y-tunnus）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - € 399,00 ← 「379,00 € 399,00 € Sisältää alv:n Kaikki tarjoukset Asiasanat POE WLAN DAHUA PALOVAROITIN KUULUTUS SATEL Tiedot Avstek asiakaspalvelu Oikeudellinen huo」（https://avstek.fi/kauppa/44-poe-kytkimet）
@@ -111,15 +125,17 @@ updated: 2026-10-28
 - **【官网（搜索快照）】PLANET AP 在售**
   > WBS-202N 2.4GHz 300M WLAN tukiasema sisä- ja ulko … PLANET WBS-202N
   > 来源：https://avstek.fi/kauppa/wifi-laite-antenni/339-wbs-202n-24ghz-300m-wlan-tukiasema-sisae-ja-ulko.html（抓取 2026-10-20）
+- **KP**：Jari Haaparanta（Toimitusjohtaja / 董事（kauppalehti / finder.fi；Tanja Haaparanta 替补）= 拍板人 / 收件人（info@ 点名）（第 109 批 官方登记核实 2026-10-28））info@avstek.fi 〔https://www.finder.fi/Turvaj%C3%A4rjestelm%C3%A4t/Avstek+Oy/H%C3%A4meenlinna/yhteystiedot/3101598〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-094，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Avstek Oy |
+| 法定名称 | Avstek Oy（Y-tunnus 2721676-8） |
+| 成立 | 2015-10-30（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | （芬兰；具体城市官网未列，待补证）, 芬兰 |
-| 其他 | Planet 渠道档案 PB-094（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否；最大未知：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感） |
+| 其他 | Planet 渠道档案 PB-094（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否；最大未知：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）；第 109 批：Hämeenlinna 安防 / 电气安装承包商兼网店（Tukes S3；1–4 人；网店 PoE 类目全为台系）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 1:1）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库
 
@@ -191,7 +207,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | myynti@avstek.fi | 用户表原值 | Clients/ 表 |
+| Jari Haaparanta | Toimitusjohtaja / 董事（kauppalehti / finder.fi；Tanja Haaparanta 替补）= 拍板人 / 收件人（info@ 点名）（第 109 批 官方登记核实 2026-10-28） | info@avstek.fi | 调研核实（公开页） | https://www.finder.fi/Turvaj%C3%A4rjestelm%C3%A4t/Avstek+Oy/H%C3%A4meenlinna/yhteystiedot/3101598 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -226,7 +242,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV, Planet, Moxa：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
@@ -243,7 +259,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ ONV, Planet, Moxa, FS |
 | 采购量/预算 | ❓ 未确认 |
@@ -259,7 +275,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Jari,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. Every PoE switch you stock is PLANET (GSD-908HP at €181.17 incl. VAT) — a Marvell-based, neutral-packed 8-port PoE+ unit at EXW gives your camera and alarm installs the same slot at a margin you set yourself. For your camera installs, is the 8-port PoE class (GSD-908HP) the unit you go through most, or the 24-port GSW-2620HP — so I send the right sample first?
 

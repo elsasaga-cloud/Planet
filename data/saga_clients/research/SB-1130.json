@@ -31,7 +31,8 @@
    "title": "Engineer",
    "email": "info@cnstech.gr",
    "phone": "",
-   "source": "用户表 AI客户评估_EU 09.15"
+   "source": "用户表 AI客户评估_EU 09.15",
+   "role": "Engineer（官网 Team）= 收件人（info@ 直呼 Akis）（第 109 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Panagiotis（署名出现在 Alan 2026-05-21 回信抬头）",
@@ -39,6 +40,12 @@
    "email": "info@cnstech.gr",
    "phone": "",
    "source": "gmail_a f95072ae72b68c26"
+  },
+  {
+   "name": "Panagiotis Lichas",
+   "role": "负责人 / 业主（ananas.gr 名录 ΛΙΧΑΣ ΠΑΝΑΓΙΩΤΗΣ；2026-05-21 回信署名）= 拍板人（抄）（第 109 批 官方登记核实 2026-10-28）",
+   "email": "info@cnstech.gr",
+   "source": "https://www.cnstech.gr/about-us/"
   }
  ],
  "grade_override": "B",
@@ -49,11 +56,11 @@
   "level": "邮件复核 · 未爬官网"
  },
  "company_facts": {
-  "legal_name": "CNS Tech（待核）",
-  "founded": "",
+  "legal_name": "CNSTECH / CNS Tech（Peristeri；ΑΦΜ / ΓΕΜΗ 未取 → 部分坐实）",
+  "founded": "2013（活动 2007）（第 109 批 官方登记核实 2026-10-28）",
   "hq": "希腊 雅典 Peristeri",
   "size": "小",
-  "other": "在售 Comfast PoE"
+  "other": "在售 Comfast PoE；第 109 批：雅典小型 IT 托管 / CCTV / 布线安装商 + 小网店（在售国产 PoE；已回信）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP 对照其在售价位）**（第 109 批 官方登记核实 2026-10-28）"
  },
  "channels": {
   "role": "安装商 / 小集成",

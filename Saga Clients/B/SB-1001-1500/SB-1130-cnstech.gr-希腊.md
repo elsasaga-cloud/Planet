@@ -98,6 +98,21 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Ohi Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 109 批（GR · 1 次检索：cnstech.gr 首页 / About / Contact（CNSTECH；Andritsainis 15 Peristeri 12135；legalName Cnstech；από το 2013；info@cnstech.gr；210 5713048）+ Team 页（ιδρύθηκε επίσημα το 2013；side project από το 2007）+ ananas.gr 名录（Υπεύθυνος ΛΙΧΑΣ ΠΑΝΑΓΙΩΤΗΣ；Ανδριτσαίνης 15 ΠΕΡΙΣΤΕΡΙ）；ΑΦΜ / ΓΕΜΗ 1 次检索未命中，2026-10-28 查；https://www.cnstech.gr/about-us/）：**
+
+- 法定名 / 登记号：CNSTECH / CNS Tech（cnstech.gr；雅典 Peristeri Andritsainis 15, 12135）— 2013 年正式成立（2007 起副业）的小型 IT 托管 / CCTV / 门禁 / 对讲 / 网络布线安装商兼小网店（在售 Comfast PoE 交换机）；负责人 Panagiotis Lichas（Λίχας Παναγιώτης）+ Akis Lichas（Engineer）；ΑΦΜ / ΓΕΜΗ 未取 → 部分坐实；两箱 26 封：2026-05-21 Panagiotis 回信（已有回声） · ΑΦΜ / ΓΕΜΗ 未取（部分坐实） · 状态 **Active** · 成立 2013（活动 2007） · 未取（推定个人企业 / Ο.Ε.）
+- 行业码 / 经营范围：IT 托管 / CCTV / 门禁 / 网络布线 安装 + 小网店
+- 注册地址：Andritsainis 15, 12135 Peristeri (Attica)
+- 规模档：小微（2–5 人）
+- 账目：—；—
+- 高管：Panagiotis Lichas（Λίχας Παναγιώτης）— 负责人 / 业主 = 拍板人（2026-05-21 回信署名）
+- 高管：Akis Lichas — Engineer（研究档 KP，info@）= 收件人
+- 控制人 / 股东：Lichas 家族
+- **这意味着什么：**
+  - **已回过信的雅典小安装商（在售国产 PoE）→ 集成 25% small，一页纸一次（STC-028GP / STC-228GP 对照其在售 Comfast 价位，MOQ 1）；成单再加厚**
+  - 收件人 info@ 直呼 Akis，抄 Panagiotis；发信窗口 Thu 12–14 EET；希腊语一句引子；稿内不点名 Comfast
+- 备注：集成 25% small；一页纸一次；部分坐实（ΑΦΜ 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -139,8 +154,9 @@ updated: 2026-10-28
 - **【邮件】2026-05-20 真人回复 CENTEC 10G L3 推介**
   > Hello Alan, you got our attention. Tell us more
   > 来源：gmail_a 186a579856e8cf52（抓取 2026-05-20）
-- **KP**：Akis Lichas（）info@cnstech.gr 〔用户表 AI客户评估_EU 09.15〕
+- **KP**：Akis Lichas（Engineer（官网 Team）= 收件人（info@ 直呼 Akis）（第 109 批 官方登记核实 2026-10-28））info@cnstech.gr 〔用户表 AI客户评估_EU 09.15〕
 - **KP**：Panagiotis（署名出现在 Alan 2026-05-21 回信抬头）（）info@cnstech.gr 〔gmail_a f95072ae72b68c26〕
+- **KP**：Panagiotis Lichas（负责人 / 业主（ananas.gr 名录 ΛΙΧΑΣ ΠΑΝΑΓΙΩΤΗΣ；2026-05-21 回信署名）= 拍板人（抄）（第 109 批 官方登记核实 2026-10-28））info@cnstech.gr 〔https://www.cnstech.gr/about-us/〕
 - **调研后定级**：B（原自动 C）——第 71 批(g)：欧洲主攻区 + 2026-05 真人回复「tell us more」——C（垃圾）口径不成立；按 B 慢慢跟进。表内 Claude 评 5% C 是按「纯工程服务」判的，但对方对 10G L3 核心机表态有兴趣，先当有项目的集成商看。
 - 备注：由第 71 批(g)建档（Replied 标签出站 × 事实表无来信 的复核发现）。
 
@@ -148,9 +164,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | CNS Tech（待核） |
+| 法定名称 | CNSTECH / CNS Tech（Peristeri；ΑΦΜ / ΓΕΜΗ 未取 → 部分坐实） |
+| 成立 | 2013（活动 2007）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 希腊 雅典 Peristeri |
-| 其他 | 在售 Comfast PoE |
+| 其他 | 在售 Comfast PoE；第 109 批：雅典小型 IT 托管 / CCTV / 布线安装商 + 小网店（在售国产 PoE；已回信）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP 对照其在售价位）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：role: 安装商 / 小集成；region: 希腊
 - **风险/边界**：规模小，10G L3 核心机可能只是好奇；要先问项目；只有 info@，无具名邮箱
@@ -218,8 +235,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Akis Lichas | — | info@cnstech.gr | 调研核实（公开页） | 用户表 AI客户评估_EU 09.15 |
+| Akis Lichas | Engineer（官网 Team）= 收件人（info@ 直呼 Akis）（第 109 批 官方登记核实 2026-10-28） | info@cnstech.gr | 调研核实（公开页） | 用户表 AI客户评估_EU 09.15 |
 | Panagiotis（署名出现在 Alan 2026-05-21 回信抬头） | — | info@cnstech.gr | 调研核实（公开页） | gmail_a f95072ae72b68c26 |
+| Panagiotis Lichas | 负责人 / 业主（ananas.gr 名录 ΛΙΧΑΣ ΠΑΝΑΓΙΩΤΗΣ；2026-05-21 回信署名）= 拍板人（抄）（第 109 批 官方登记核实 2026-10-28） | info@cnstech.gr | 调研核实（公开页） | https://www.cnstech.gr/about-us/ |
 | comfast | — | info@cnstech.gr | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

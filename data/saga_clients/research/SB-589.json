@@ -50,14 +50,22 @@
    "title": "（职务待核）",
    "email": "bydemes@bydemes.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Managing Director / Administrador delegado（electrico.info 口径 Rubi Rio Ricardo；Administrador único = LAST ROUND HOLDING SL）= 拍板人（第 109 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Liana Barragan",
    "title": "（职务待核）",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP = 收件人（抄）（第 109 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "María Gracia Guzzi",
+   "role": "Directora de compras / exportaciones（electrico.info）= 收件人（compras 点名）（第 109 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.electrico.info/empresa-demes-en-barcelona-32739"
   }
  ],
  "grade_override": null,
@@ -69,7 +77,9 @@
  },
  "company_facts": {
   "hq": "西班牙",
-  "other": "官网 bydemes.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "other": "官网 bydemes.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述；第 109 批：巴塞罗那 + Coslada 伊比利亚 #1 电子安防分销商（132 人；40+ 品牌 6,500 SKU；自有品牌 AIRSPACE / CCTVDIRECT；Hyundai 独家；在售 Wi-Tek / Cudy）→ **贴标 OEM 30% 正中目标，B BIG，加厚一次；回信即升 A**（第 109 批 官方登记核实 2026-10-28）",
+  "legal_name": "BY DEMES SL（By Demes Group；CIF B60347010）",
+  "founded": "1985（第 109 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防技术分销（CCTV / 报警 / 门禁 / 消防 / 网络）"

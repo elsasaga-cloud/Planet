@@ -39,11 +39,18 @@
  ],
  "kp": [
   {
-   "name": "G. Billet",
+   "name": "Gilles Billet",
    "title": "（姓名/职务待核）",
    "email": "gbillet@ifotec.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Président / 创始人（pappers；1953 年生；DG = Yves-Gaël Billet）— 同行制造商 → 不动（第 109 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Yves-Gaël Billet",
+   "role": "Directeur général（pappers；2024 起；家族）— 仅记录（第 109 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.pappers.fr/entreprise/ifotec-421531708"
   }
  ],
  "grade_override": null,
@@ -55,7 +62,9 @@
  },
  "company_facts": {
   "hq": "法国",
-  "other": "官网 ifotec.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 ifotec.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案；第 109 批：Voiron 光纤传输 / 安全工业交换机制造商（INet 系列「entièrement conçu et fabriqué dans notre usine à Voiron」；20–49 人；股本 €113,335）→ **同行制造商 → 不动**（第 109 批 官方登记核实 2026-10-28）",
+  "legal_name": "IFOTEC SAS（SIREN 421 531 708；TVA FR25421531708）",
+  "founded": "1999-01-02（第 109 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "光纤信号传输设备（自有品牌 IFOTEC）",

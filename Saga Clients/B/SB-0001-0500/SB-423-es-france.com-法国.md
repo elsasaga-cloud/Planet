@@ -75,6 +75,23 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 109 批（FR · 2 次检索（首次 Montrouge 误定位）：pappers（EQUIPEMENTS SCIENTIFIQUES；127 RUE DE BUZENVAL 92380 GARCHES；Commerce de gros de composants et d’équipements électroniques；Effectif 50–99 2022；Création 26/01/1990；GUEZ Daniel Président 02/09/2025；GUEZ Laurent DG 23/04/2012；CAC FITECO）+ societe.com / xerfi（SIREN 353579634；SIRET 35357963400018；capital 3 290 k€）+ infonet（Philippe / Gilles / Alain Guez 监事会）+ es-france.com/recrutement（Créée en 1963；C.A. 2025 101,5 M€；Effectif 101；Capital + réserves 16 M€；Duns 76-586-6108；bureaux à Garches），2026-10-28 查；https://www.pappers.fr/entreprise/equipements-scientifiques-353579634）：**
+
+- 法定名 / 登记号：EQUIPEMENTS SCIENTIFIQUES（ES France；es-france.com；Hauts-de-Seine Garches 127 rue de Buzenval, 92380；SIREN 353 579 634；TVA 未取；DUNS 76-586-6108）— 1963 年起（现法人 1990-01-26 登记；2025-09 由 SA à directoire 改 SAS）的增值分销商：元器件 / 仪器 / 工业信息 / 通信网络四大部门（ISO 9001:2015；Ecovadis；样品 / 借测 / 演示；站内 ORing 工业交换机与电源）；2025 营业额 €101.5M；101 人；资本 + 储备 €16M（股本 €3.29M）；Président Daniel Guez（1966 年生）、DG Laurent Guez（1972 年生）= Guez 家族；表内 2 次跟进无回复 · SIREN 353 579 634；SIRET 35357963400018 · 状态 **Active** · 成立 1990-01-26（活动 1963） · SAS（Guez 家族；股本 €3.29M）
+- 行业码 / 经营范围：电子元器件 / 仪器 / 工业 IT / 网络 增值分销（NAF 46.52Z）
+- 注册地址：127 rue de Buzenval, 92380 Garches
+- 规模档：中型（101 人；€101M）
+- 账目：2025 营业额 €101.5M；—
+- 高管：Daniel Guez — Président（2025-09 起；此前 Président du directoire 2004 起）= 拍板人（不直接发）
+- 高管：Laurent Guez — Directeur général（2004 起）
+- 高管：（未具名）— département Réseaux chef de produit = 收件人（contact@es-france.com 点名）
+- 控制人 / 股东：Guez 家族
+- 曾用名：SA à directoire（2025-09 前）
+- **这意味着什么：**
+  - **€100M 的法国四部门 VAD（网络部卖 ORing 工业线；2 次群发无回）→ 分销 20%，B BIG，加厚一次（换切口：ORing 第二价位 + 法国借测样机付费）**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE 一页纸；稿内不点名 ORing
+  - 收件人 contact@ 点名 chef de produit réseaux；发信窗口 Thu 12–14 CET；法语一句引子
+- 备注：分销 20%；B BIG；加厚一次（换切口）；坐实（SIREN + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,14 +125,18 @@ updated: 2026-10-28
 - **【用户表】ORing 的工业 FS**
   > Oring的工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Daniel Guez（Président（pappers；2025-09 起，此前 Président du directoire 2004 起；1966 年生）= 拍板人（不直接发）（第 109 批 官方登记核实 2026-10-28）） 〔https://www.pappers.fr/entreprise/equipements-scientifiques-353579634〕
+- **KP**：Laurent Guez（Directeur général（pappers；2004 起；1972 年生）— 仅记录；收件人 = chef de produit réseaux via contact@es-france.com（第 109 批 官方登记核实 2026-10-28））contact@es-france.com 〔https://www.pappers.fr/entreprise/equipements-scientifiques-353579634〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | EQUIPEMENTS SCIENTIFIQUES（ES France；SIREN 353 579 634；SIRET 35357963400018；SAS 自 2025-09） |
+| 成立 | 1990-01-26（活动 1963）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 法国 |
-| 其他 | 官网 es-france.com，语言 fr-fr，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 es-france.com，语言 fr-fr，快照状态 ok；角色判定来源：官网文案；第 109 批：Garches 四部门增值分销商（2025 营业额 €101.5M；101 人；ISO 9001；站内 ORing 工业线；Guez 家族；2 次群发无回）→ **分销 20%，B BIG，加厚一次（换切口：ORing 第二价位 + 付费借测）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：元器件 / 仪器 / IT 与网络增值分销
 
@@ -197,7 +218,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | contact@es-france.com | 用户表原值 | Clients/ 表 |
+| Daniel Guez | Président（pappers；2025-09 起，此前 Président du directoire 2004 起；1966 年生）= 拍板人（不直接发）（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.pappers.fr/entreprise/equipements-scientifiques-353579634 |
+| Laurent Guez | Directeur général（pappers；2004 起；1972 年生）— 仅记录；收件人 = chef de produit réseaux via contact@es-france.com（第 109 批 官方登记核实 2026-10-28） | contact@es-france.com | 调研核实（公开页） | https://www.pappers.fr/entreprise/equipements-scientifiques-353579634 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -233,7 +255,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Oring：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
@@ -250,7 +272,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ Oring, FS |
 | 采购量/预算 | ❓ 未确认 |
@@ -266,7 +288,7 @@ updated: 2026-10-28
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Daniel,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the ORing industrial switches in your Réseaux department, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line — which ORing port count do your customers order most?
 

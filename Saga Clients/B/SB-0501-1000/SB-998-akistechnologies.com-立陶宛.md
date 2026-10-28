@@ -76,6 +76,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 109 批（LT · 1 次检索：rekvizitai.vz.lt（AKIS Technologies, UAB；Registration code 120113138；VAT LT201131314；Share capital 2 915 €；Manager Vladislavas Grod direktorius；M. K. Čiurlionio g. 82 Vilnius）+ okredo（registracijos data 1990-12-14；EVRK 62.20）+ tax.lt（2025 pajamos 861 tūkst. €；pelnas 6 tūkst. €；savininkai 6 fiziniai asmenys）+ geltoni / imones.lt（darbuotojai 18 / 16；Vilius Ivanauskas Komercijos direktorius）+ chamber.lt（vieninteliai eilių valdymo sistemų gamintojai Lietuvoje），2026-10-28 查；https://rekvizitai.vz.lt/en/company/tipas/）：**
+
+- 法定名 / 登记号：AKIS Technologies, UAB（原 UAB TIPAS；akistechnologies.com；维尔纽斯 M. K. Čiurlionio g. 82, LT-03100；įmonės kodas 120113138；PVM LT201131314）— 1990-12-14 登记的排队管理 / 停车 / 卡车流量 / 交通管理系统与电子标识制造商（「立陶宛唯一排队系统制造商」；数字标牌、互动自助机、LAN-RS485 控制器、云平台）；direktorius Vladislavas Grod；komercijos direktorius Vilius Ivanauskas；16–18 人；2025 营收 €861k；股本 €2,915；6 名自然人股东；表内「工业 FS」；表内未跟进 · Įmonės kodas 120113138；PVM LT201131314 · 状态 **Veikiantis** · 成立 1990-12-14 · UAB（6 名自然人股东）
+- 行业码 / 经营范围：排队 / 停车 / 交通管理系统与电子标识 制造（自研软硬件）
+- 注册地址：M. K. Čiurlionio g. 82, LT-03100 Vilnius
+- 规模档：小型（16–18 人）
+- 账目：2025 营收 €861k；税前利润 €6k；—
+- 高管：Vladislavas Grod — Direktorius = 拍板人
+- 高管：Vilius Ivanauskas — Komercijos direktorius = 收件人（info@ 点名）
+- 控制人 / 股东：6 名自然人（未取）
+- 曾用名：UAB TIPAS
+- **这意味着什么：**
+  - **自研交通 / 停车 / 排队系统的小厂（机柜里要工业交换机）→ 采购型 25% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP 配路侧 / 停车场柜）；有回声再加厚**；不谈 EN 50155 / 轨交
+  - 表内未跟进 → 首触；收件人 info@ 点名 Vilius Ivanauskas；发信窗口 Thu 12–14 EET；立陶宛语一句引子
+- 备注：采购型 25% small；一页纸一次；坐实（kodas + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,14 +124,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS**
   > 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Vilius Ivanauskas（Komercijos direktorius（geltoni.lt / imones.lt）= 收件人（info@ 点名）（第 109 批 官方登记核实 2026-10-28）） 〔https://rekvizitai.vz.lt/en/company/tipas/〕
+- **KP**：Vladislavas Grod（Direktorius（rekvizitai.vz.lt）= 拍板人（第 109 批 官方登记核实 2026-10-28）） 〔https://rekvizitai.vz.lt/en/company/tipas/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | AKIS Technologies, UAB（原 UAB TIPAS；įmonės kodas 120113138；PVM LT201131314） |
+| 成立 | 1990-12-14（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 立陶宛 |
-| 其他 | 官网 akistechnologies.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 akistechnologies.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 109 批：维尔纽斯排队 / 停车 / 交通管理系统制造商（16–18 人；2025 营收 €861k）→ **采购型 25% small，一页纸一次（STI 配路侧 / 停车场柜）**；不谈轨交（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：排队管理 / 交通管理系统（立陶宛）
 - **触达通道（公开）**：role: 排队/交通管理系统开发商（立陶宛，工业 FS 为配套）；region: 立陶宛；contact: info@akistechnologies.com
@@ -176,7 +196,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@akistechnologies.com | 用户表原值 | Clients/ 表 |
+| Vilius Ivanauskas | Komercijos direktorius（geltoni.lt / imones.lt）= 收件人（info@ 点名）（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rekvizitai.vz.lt/en/company/tipas/ |
+| Vladislavas Grod | Direktorius（rekvizitai.vz.lt）= 拍板人（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rekvizitai.vz.lt/en/company/tipas/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -212,7 +233,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-080GE 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -229,7 +250,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认 |

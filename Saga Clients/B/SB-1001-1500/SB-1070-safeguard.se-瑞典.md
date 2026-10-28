@@ -73,6 +73,23 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（SE · 1 次检索：allabolag（SafeGuard Sverige AB；Org.nr 559523-7867；Fågelviksvägen 9 145 53 Norsborg；Registreringsdatum 2025-03-18；1 anställd；Aktiekapital 25 Tkr；Ledamot Isa Ataseven f 2004）+ bolagsfakta（Styrelsesuppleant Eugen Ataseven；Botkyrka）+ safeguard.se Integritetspolicy（SafeGuard Sverige AB；Org.nr 559523-7867）+ konkurslistan（SafeGuard Sweden AB 5568487226 konkurs 2025；Stensätravägen 13）+ LinkedIn（Safeguard Sweden AB grundades 2011），2026-10-28 查；https://www.allabolag.se/foretag/safeguard-sverige-ab/norsborg/bevakningsf%C3%B6retag/2KJ9D63I5YCZJ）：**
+
+- 法定名 / 登记号：SafeGuard Sverige AB（safeguard.se；Norsborg Fågelviksvägen 9, 145 53（Botkyrka）；org.nr 559523-7867）— 2025-03-18 新登记的安防安装商（企业报警、摄像监控、门禁、卷帘；SNI 80090 / 43342）；股本 SEK 25k；1 名雇员；董事 Isa Ataseven（2004 年生）、替补 Eugen Ataseven；**前身 SafeGuard Sweden AB（556848-7226，2011 起）已于 2025 破产（Hälsinglands tingsrätt）**；研究档 KP Amanda Andén / Sara；表内国别「波兰」有误 → 瑞典 · Org.nr 559523-7867 · 状态 **Aktiv（2025 新设；前身破产）** · 成立 2025-03-18（前身 2011-04-05） · Aktiebolag（Ataseven 家族；股本 SEK 25k）
+- 行业码 / 经营范围：安防系统安装（报警 / CCTV / 门禁 / 卷帘）+ 电气 / 建筑
+- 注册地址：Fågelviksvägen 9, 145 53 Norsborg
+- 规模档：小微（1 人）
+- 账目：—（新设）；—
+- 高管：Isa Ataseven — Styrelseledamot（2004 年生）
+- 高管：Eugen Ataseven — Styrelsesuppleant
+- 高管：Amanda Andén / Sara — 研究档 KP（sara@safeguard.se）
+- 控制人 / 股东：Ataseven 家族
+- 曾用名：SafeGuard Sweden AB（556848-7226；2025 破产）
+- **这意味着什么：**
+  - **前身 2025 年破产、新壳 1 人 + 20 岁董事 → 信用风险，不动（B 保留但不进发送包）**
+  - 国别更正为瑞典（研究档「波兰」有误；iso 已为 SE 则不动）；若日后询盘 → 只做预付款小单
+- 备注：坐实（org.nr）；不动（前身破产 + 新壳）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +122,18 @@ updated: 2026-10-28
 - **【用户表】PoE switch**
   > PoE switch；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Amanda Andén（）sara@safeguard.se 〔用户表〕
+- **KP**：Amanda Andén（研究档 KP（sara@）— 公司为 2025-03 新设壳，前身破产 → 不动（第 109 批 官方登记核实 2026-10-28））sara@safeguard.se 〔用户表〕
+- **KP**：Isa Ataseven（Styrelseledamot（allabolag；2004 年生；替补 Eugen Ataseven）— 仅记录（第 109 批 官方登记核实 2026-10-28）） 〔https://www.allabolag.se/foretag/safeguard-sverige-ab/norsborg/bevakningsf%C3%B6retag/2KJ9D63I5YCZJ〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SafeGuard Sverige AB（org.nr 559523-7867；前身 SafeGuard Sweden AB 556848-7226 已于 2025 破产） |
+| 成立 | 2025-03-18（前身 2011）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 波兰 |
-| 其他 | 官网 safeguard.se，语言 sv-SE，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 safeguard.se，语言 sv-SE，快照状态 ok；角色判定来源：官网文案；第 109 批：Norsborg 安防安装商新壳（1 人；股本 SEK 25k；董事 20 岁）；研究档国别「波兰」有误 → 瑞典（entities 已为 SE）→ **不动（前身破产新壳）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业报警 / 摄像监控 / 门禁安装（瑞典）
 - **触达通道（公开）**：role: 安防安装商（瑞典，PoE 配套）；region: 瑞典；contact: sara@safeguard.se、info@safeguard.se
@@ -182,7 +202,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Amanda Andén | — | sara@safeguard.se | 调研核实（公开页） | 用户表 |
+| Amanda Andén | 研究档 KP（sara@）— 公司为 2025-03 新设壳，前身破产 → 不动（第 109 批 官方登记核实 2026-10-28） | sara@safeguard.se | 调研核实（公开页） | 用户表 |
+| Isa Ataseven | Styrelseledamot（allabolag；2004 年生；替补 Eugen Ataseven）— 仅记录（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.allabolag.se/foretag/safeguard-sverige-ab/norsborg/bevakningsf%C3%B6retag/2KJ9D63I5YCZJ |
 
 - **通道建议**：企业邮箱可直发
 

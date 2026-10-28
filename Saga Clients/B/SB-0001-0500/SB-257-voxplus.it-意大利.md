@@ -89,6 +89,22 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 109 批（IT · 1 次检索：ufficiocamerale（VOXPLUS S.R.L.；P.IVA 05516110961；VIA RAIMONDO MONTECUCCOLI 36 20147 MILANO；Rea 1828564；Iscrizione 24/01/2007；Fatturato € 1.817.038 2024；Dipendenti 15；Utile € 20.808）+ fatturatoitalia（fondazione 19/12/2006；costo personale € 721.953）+ reportaziende（Fatturato 2023 € 2.962.591；2019–2024 序列）+ voxplus.it/contatti（Sede operativa Via Bellaria 3 Busto Arsizio；P.IVA 05516110961 REA MI-1828564），2026-10-28 查；https://www.ufficiocamerale.it/8107/voxplus-srl）：**
+
+- 法定名 / 登记号：VOXPLUS S.R.L.（voxplus.it；法定 米兰 Via Raimondo Montecuccoli 36, 20147；运营 Busto Arsizio (VA) Via Bellaria 3, 21052；P.IVA / CF 05516110961；REA MI-1828564）— 2006-12 成立、2007-01-24 登记的系统集成商（网络安全 / 网络与 VoIP / 数据中心与布线 / 楼宇自动化与 IoT；站内 Maiwe 工业交换机产品页）；15 人；2024 营收 €1.82M（2023 €2.96M）、净利 €20.8k；ATECO 43.21.02 / 33.20.02；KP Gianni Scandroglio、Fabio Frigerio · P.IVA / CF 05516110961；REA MI-1828564 · 状态 **Active** · 成立 2007-01-24（成立 2006-12-19） · S.r.l.（私有）
+- 行业码 / 经营范围：系统集成（网络 / VoIP / 数据中心布线 / 楼宇自动化）（ATECO 43.21.02）
+- 注册地址：Via Raimondo Montecuccoli 36, 20147 Milano（运营 Via Bellaria 3, 21052 Busto Arsizio）
+- 规模档：小型（15 人）
+- 账目：2024 营收 €1,817,038；净利 €20,808；—
+- 高管：Gianni Scandroglio — 研究档 KP = 收件人
+- 高管：Fabio Frigerio — 研究档 KP（抄）
+- 高管：（未具名）— amministratore（拍板人未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **15 人米兰集成商，站内在推国产 Maiwe 工业交换机 → 集成 25% small，一页纸一次（STI-054GP 对照 5 口工业 PoE；STC-424XGGPM-280W 对照 8×90 W + 4×10G 管理型）；有回声再加厚**；稿内不点名 Maiwe
+  - 收件人 Gianni 直呼、抄 Fabio；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：集成 25% small；一页纸一次；坐实（P.IVA + REA + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,16 +148,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS MC 串口，供应商 Maiwe**
   > 工业FS MC 串口 有小壳但比较大；供应商Maiwe
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Gianni Scandroglio（）gianni.scandroglio@voxplus.it 〔用户表〕
-- **KP**：Fabio Frigerio（） 〔用户表〕
+- **KP**：Gianni Scandroglio（研究档 KP（voxplus.it）= 收件人；amministratore 未取（第 109 批 官方登记核实 2026-10-28））gianni.scandroglio@voxplus.it 〔用户表〕
+- **KP**：Fabio Frigerio（研究档 KP = 收件人（抄）（第 109 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | VOXPLUS S.R.L.（P.IVA / CF 05516110961；REA MI-1828564） |
+| 成立 | 2007-01-24（成立 2006-12-19）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 voxplus.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 voxplus.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 109 批：米兰 / Busto Arsizio 系统集成商（15 人；2024 营收 €1.82M；站内 Maiwe 工业交换机）→ **集成 25% small，一页纸一次（STI-054GP 对 5 口工业 PoE；STC-424XGGPM-280W 对 8×90 W + 4×10G）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：系统集成（网络安全 / 网络 VoIP / 数据中心布线 / 楼宇自动化 IoT）；工业交换机（Maiwe）
 
@@ -255,8 +273,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gianni Scandroglio | — | gianni.scandroglio@voxplus.it | 调研核实（公开页） | 用户表 |
-| Fabio Frigerio | — | — | 调研核实（公开页） | 用户表 |
+| Gianni Scandroglio | 研究档 KP（voxplus.it）= 收件人；amministratore 未取（第 109 批 官方登记核实 2026-10-28） | gianni.scandroglio@voxplus.it | 调研核实（公开页） | 用户表 |
+| Fabio Frigerio | 研究档 KP = 收件人（抄）（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

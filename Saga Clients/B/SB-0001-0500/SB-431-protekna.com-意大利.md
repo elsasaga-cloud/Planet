@@ -80,6 +80,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（IT · 1 次检索：ufficiocamerale（PROTEKNA S.R.L.；P.IVA 03451940237；VIA ARNALDO PORTA 4/E 37069 VILLAFRANCA DI VERONA；Rea 337644；Data Iscrizione 03/01/2005；Fatturato € 2.408.572 2024；Dipendenti 6；Utile € 186.153；Capitale € 10.000）+ aziende.money.it（Ricavi 2022–2024 3.07M / 2.91M / 2.41M；sede VIA A VOLTA 4E 37062）+ protekna.com 页脚 / contacts（P.iva 03451940237；REA VR-337644；Via A.Volta 4/E Dossobuono；reseller of mitsubishi electric moxa murrelektronik hilscher grafos meanwell）+ reportaziende（costituzione 19/11/2004），2026-10-28 查；https://www.ufficiocamerale.it/5650/protekna-srl）：**
+
+- 法定名 / 登记号：PROTEKNA S.R.L.（protekna.com / protekna.it；维罗纳 Villafranca di Verona – Dossobuono Via A. Volta 4/E, 37062；P.IVA 03451940237；REA VR-337644）— 2004-11-19 成立、2005-01-03 登记的工业自动化元件分销商（Mitsubishi Electric、Moxa、Murrelektronik、Hilscher、Grafos、Mean Well、Molex 意大利经销）；股本 €10,000；6 人；2024 营收 €2.41M（2022 €3.07M → 下滑）、净利 €186k；KP Stefano Turrina；表内「switch 11」 · P.IVA / CF 03451940237；REA VR-337644 · 状态 **Active** · 成立 2005-01-03（成立 2004-11-19） · S.r.l.（私有；股本 €10,000）
+- 行业码 / 经营范围：工业自动化元件分销（PLC / 工业通信 / 连接 / 电源）
+- 注册地址：Via A. Volta 4/E, 37062 Dossobuono – Villafranca di Verona (VR)
+- 规模档：小微（6 人）
+- 账目：2024 营收 €2,408,572；净利 €186,153；—
+- 高管：Stefano Turrina — 研究档 KP（stefano.turrina@protekna.it）= 收件人
+- 高管：（未具名）— amministratore（拍板人未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **卖 Moxa 的 6 人工业自动化分销商（营收下滑中，需要毛利）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作 Moxa EDS 第二价位）；有回声再加厚**；稿内不点名 Moxa
+  - 收件人 stefano.turrina@ 直呼 Stefano；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,16 +131,17 @@ updated: 2026-10-28
 - **【用户表】MaiWe；工业 FS MC 串口 SFP 很多牌子；销售平台**
   > 兴趣：MaiWe;工业FS MC 串口 SFP 很多牌子 销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Stefano Turrina（）stefano.turrina@protekna.it +39 045 861 8777〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Stefano Turrina（研究档 KP（protekna.it）= 收件人；amministratore 未取（第 109 批 官方登记核实 2026-10-28））stefano.turrina@protekna.it +39 045 861 8777〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Protekna S.r.l. |
+| 法定名称 | PROTEKNA S.R.L.（P.IVA / CF 03451940237；REA VR-337644） |
+| 成立 | 2005-01-03（成立 2004-11-19）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Verona, Italy |
-| 其他 | 已接触中国同行 MaiWe（迈威） |
+| 其他 | 已接触中国同行 MaiWe（迈威）；第 109 批：维罗纳 Dossobuono 工业自动化元件分销商（Mitsubishi / Moxa / Murr / Hilscher / Mean Well 经销；6 人；2024 营收 €2.41M 下滑）→ **分销 20% small，一页纸一次（STI 作 Moxa 第二价位）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化元器件与工业网络分销
 - **触达通道（公开）**：role: 工业分销商；region: 意大利
@@ -213,7 +229,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Stefano Turrina | — | stefano.turrina@protekna.it / +39 045 861 8777 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Stefano Turrina | 研究档 KP（protekna.it）= 收件人；amministratore 未取（第 109 批 官方登记核实 2026-10-28） | stefano.turrina@protekna.it / +39 045 861 8777 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | MaiWe | — | protekna@protekna.it / stefano.turrina@protekna.it | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

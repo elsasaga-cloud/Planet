@@ -75,6 +75,23 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（BE · 1 次检索：trendstop（Redcorp NV；BE 0448.875.715；Emile Feronstraat 168 1060 Brussel；turnover 31,968,008 euros；establishment 11/12/1992）+ pappers.be（REDCORP 0448.875.715 Active；Commerce de gros d’équipements de l’information et de la communication；dirigeants Edward Reich / Daniel Lipski / Ronald Reich Management and Consulting；société absorbée Redcorp 0437.509.887 constituée 18 mai 1989）+ redcorp.com About / FAQ（Ronald Reich FOUNDER ronald@；Dino Reich FOUNDER dino@；REDCORP SA/NV；VAT BE 0448 875 715 depuis le 1er octobre 2021）+ LinkedIn（1989；11–50）+ rocketreach（49 employees），2026-10-28 查；https://www.pappers.be/fr/company/redcorp-0448.875.715）：**
+
+- 法定名 / 登记号：REDCORP SA/NV（redcorp.com；布鲁塞尔 Saint-Gilles Rue Emile Féron 168, 1060；BCE / TVA BE 0448.875.715（2021-10 起；吸收原 Redcorp 0437.509.887，1989-05-18 创立））— 1989 年由三位创始人创立的比利时 B2B IT 硬件 / 软件供应商兼电商（独立商户、企业、机构；每年数千订单；PLANET 品牌页以工业 IGS 系列为主、十余款带价）；营业额 €31.97M；≈49 人；创始人 Ronald Reich / Dino Reich；董事 Edward Reich、Daniel Lipski；NACE 46500 · BCE / TVA BE 0448.875.715（原 0437.509.887） · 状态 **Active** · 成立 1989-05-18（原法人）/ 1992-12-11（现法人） · SA / NV（Reich 家族）
+- 行业码 / 经营范围：B2B IT 硬件 / 软件供应 + 电商（NACE 46500）
+- 注册地址：Rue Emile Féron 168, 1060 Saint-Gilles (Bruxelles)
+- 规模档：中小（≈49 人；€32M）
+- 账目：营业额 €31,968,008；—
+- 高管：Ronald Reich — Founder（ronald@redcorp.com）= 拍板人 / 收件人
+- 高管：Dino Reich — Founder（dino@redcorp.com）= 收件人（抄）
+- 高管：Edward Reich — Bestuurder（2018 起）；Daniel Lipski — 董事
+- 控制人 / 股东：Reich 家族（Ronald Reich Management and Consulting）
+- 曾用名：Redcorp SA 0437.509.887（2021 并入）
+- **这意味着什么：**
+  - **€32M 的布鲁塞尔 B2B IT 电商，目录已有台系工业交换机 → 分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM（1:1 对照 IGS 系列）+ STC-028GP / STC-228GP / STC-2224GP 一页纸；稿内不点名 Planet
+  - 收件人 ronald@ 直呼 Ronald，抄 dino@；发信窗口 Thu 12–14 CET；法语 / 荷语一句引子
+- 备注：分销 20%；B BIG；加厚一次；坐实（BCE + 营业额）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,9 +130,9 @@ updated: 2026-10-28
 - **【第三方（LinkedIn 搜索快照）】成立年份 / 规模 / 自述**
   > founded 1989 … 11–50 employees … leading B2B supplier of hardware and software in Belgium
   > 来源：https://www.linkedin.com/company/redcorp（抓取 2026-10-20）
-- **KP**：Ronald Reich（）ronald@redcorp.com +32 2 558 30 22〔https://www.redcorp.com/fr/Home/About〕
-- **KP**：Dino Reich（）dino@redcorp.com 〔https://www.redcorp.com/fr/Home/About〕
-- **KP**：Danny Lipski（）danny@redcorp.com 〔https://www.redcorp.com/fr/Home/About〕
+- **KP**：Ronald Reich（Founder（redcorp.com About；pappers.be 口径 Ronald Reich Management and Consulting）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））ronald@redcorp.com +32 2 558 30 22〔https://www.redcorp.com/fr/Home/About〕
+- **KP**：Dino Reich（Founder（redcorp.com About）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28））dino@redcorp.com 〔https://www.redcorp.com/fr/Home/About〕
+- **KP**：Danny Lipski（董事（pappers.be 口径 Daniel Lipski）（第 109 批 官方登记核实 2026-10-28））danny@redcorp.com 〔https://www.redcorp.com/fr/Home/About〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-083 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -123,9 +140,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Redcorp SA/NV |
+| 法定名称 | REDCORP SA/NV（BCE / TVA BE 0448.875.715，2021-10 起；吸收原 Redcorp 0437.509.887） |
+| 成立 | 1989-05-18（原法人）/ 1992-12-11（现法人）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Brussels（Rue Emile Féronstraat 168, 1060）, 比利时 |
-| 其他 | Planet 渠道档案 PB-083（2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json）；自有品牌：否；最大未知：PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要求 |
+| 其他 | Planet 渠道档案 PB-083（2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json）；自有品牌：否；最大未知：PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要求；第 109 批：布鲁塞尔 Saint-Gilles B2B IT 电商（营业额 €31.97M；≈49 人；Reich 家族；目录已有台系工业 IGS 系列）→ **分销 20%，B BIG，加厚一次（STI 1:1 对照 IGS）**；次候选升 A（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）
 
@@ -185,9 +203,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ronald Reich | — | ronald@redcorp.com / +32 2 558 30 22 | 调研核实（公开页） | https://www.redcorp.com/fr/Home/About |
-| Dino Reich | — | dino@redcorp.com | 调研核实（公开页） | https://www.redcorp.com/fr/Home/About |
-| Danny Lipski | — | danny@redcorp.com | 调研核实（公开页） | https://www.redcorp.com/fr/Home/About |
+| Ronald Reich | Founder（redcorp.com About；pappers.be 口径 Ronald Reich Management and Consulting）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28） | ronald@redcorp.com / +32 2 558 30 22 | 调研核实（公开页） | https://www.redcorp.com/fr/Home/About |
+| Dino Reich | Founder（redcorp.com About）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28） | dino@redcorp.com | 调研核实（公开页） | https://www.redcorp.com/fr/Home/About |
+| Danny Lipski | 董事（pappers.be 口径 Daniel Lipski）（第 109 批 官方登记核实 2026-10-28） | danny@redcorp.com | 调研核实（公开页） | https://www.redcorp.com/fr/Home/About |
 
 - **通道建议**：企业邮箱可直发
 

@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 109 批（FR · 1 次检索：pappers（SIPE SOCIETE INSULAIRE DE PROTECTION ELECTRONIQUE；LES ATELIERS DE SUARTELLO LOT 217 CHEMIN DE SUARTELLO 20167 AJACCIO；Effectif 10–19 2022；Création 01/10/2015；RCS 814 329 462 Ajaccio；Donadio Olivier Président 12/07/2016 né 07/1980；appels d’offres Collectivité de Corse 152 000 € 26/02/2026）+ lefigaro（SIRET 81432946200034；TVA FR39814329462；前身 SOCIETE INSULAIRE DE PROTECTION SIREN 332551688 fonds acquis 2023）+ sipe-corse.fr/a-propos（création 1985；Président Olivier Donadio；Capital 10 000 €；SIRET 814 329 462 000 34；APSAD），2026-10-28 查；https://www.pappers.fr/entreprise/sipe-societe-insulaire-de-protection-electronique-814329462）：**
+
+- 法定名 / 登记号：SIPE – Société Insulaire de Protection Electronique（SAS；sipe-corse.fr；科西嘉 Ajaccio Les Ateliers de Suartello Lot 217, chemin de Suartello, 20167；SIREN 814 329 462；SIRET 81432946200034；TVA FR39814329462；RCS Ajaccio）— 1985 年起（现法人 2015-10-01）的安防安装商（报警 / 视频 / 门禁 / 自动化；科西嘉唯一 APSAD 三认证；Collectivité de Corse 框架合同 €152k 2026-02）；股本 €10,000；10–19 人；Président Olivier Donadio（1980 年生；= 研究档 KP）；APE 8020Z；需求 3 个工业 PoE 配件小量；5 次跟进无实质回复 · SIREN 814 329 462；SIRET 81432946200034；TVA FR39814329462 · 状态 **Active** · 成立 2015-10-01（活动 1985） · SAS（Donadio；股本 €10,000）
+- 行业码 / 经营范围：安防系统安装与维护（APE 80.20Z）
+- 注册地址：Les Ateliers de Suartello Lot 217, chemin de Suartello, 20167 Ajaccio
+- 规模档：小型（10–19 人）
+- 账目：—；—
+- 高管：Olivier Donadio — Président（研究档 KP）= 拍板人 / 收件人
+- 控制人 / 股东：Olivier Donadio（推定）
+- 曾用名：Société Insulaire de Protection SARL（332 551 688；2023 收购经营资产）
+- **这意味着什么：**
+  - **科西嘉 10–19 人安装商（只要 3 个工业 PoE 配件；5 次无实质回复）→ 集成 25% small，一页纸一次（STI-054GP / STI-144GP 一口价 + MOQ 1 + 法国 DAP）；再无回声 → 不动**；公共合同不提
+  - 收件人 Olivier 直呼；发信窗口 Thu 12–14 CET；法语一句引子
+- 备注：集成 25% small；一页纸一次；坐实（SIREN + Président）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,7 +133,7 @@ updated: 2026-10-28
 - **【用户表】3 个工业 PoE 配件**
   > 兴趣：3个工业PoE配件
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Olivier Donadio（（用户记录））odonadio@sipe-corse.fr 〔用户 Clients 表〕
+- **KP**：Olivier Donadio（Président（pappers；2016-07 起；1980 年生）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））odonadio@sipe-corse.fr 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——已有一笔极小的平台零售单（3 件配件）但后续 0 回复/5 次推送；微型安装商，复购天花板低 → 慢跟（有成交记录故不降 C）。
 - 备注：复购触发点：其下一个项目；一次性发'项目用 PoE 交换机 + 配件打包'单问邮件即可。待补证：公司登记（SIREN）与规模。
 
@@ -126,9 +141,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SIPE Corse SARL（待核） |
-| 成立 | 约 1985（40 年） |
+| 法定名称 | SIPE – Société Insulaire de Protection Electronique SAS（SIREN 814 329 462；SIRET 81432946200034；TVA FR39814329462；RCS Ajaccio） |
+| 成立 | 2015-10-01（活动 1985）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Ajaccio, Corse, France |
+| 其他 | 第 109 批：阿雅克肖安防安装商（10–19 人；APSAD 三认证；Collectivité de Corse 框架合同；只要 3 个工业 PoE 配件；5 次无实质回复）→ **集成 25% small，一页纸一次（STI-054GP / STI-144GP 一口价 + MOQ 1）；再无回声 → 不动**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：报警 / 监控 / 门禁安装（科西嘉）
 - **触达通道（公开）**：role: 安防安装商（终端采购）；region: 法国（科西嘉）
@@ -215,7 +231,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Olivier Donadio | （用户记录） | odonadio@sipe-corse.fr | 调研核实（公开页） | 用户 Clients 表 |
+| Olivier Donadio | Président（pappers；2016-07 起；1980 年生）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28） | odonadio@sipe-corse.fr | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

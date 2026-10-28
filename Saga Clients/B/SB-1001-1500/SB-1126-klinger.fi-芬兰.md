@@ -74,6 +74,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（FI · 1 次检索：proff.fi（Klinger Finland Oy 0195519-1；liikevaihto 39 MEUR 2025；115 henkilöä；liikevoitto 3,8 MEUR；Toimitusjohtaja Virtanen Esa Olavi；aputoiminimet Aseko / Klinger-Ramikro / Meckelborg；Tinankuja 3 02430 Masala）+ asiakastieto（perustettu 1940；Puheenjohtaja Schibli Daniel；liikevaihto 2021–2025 35.4 / 42.1 / 49.2 / 44.5 / 39.0 M€；henkilöstö 91→115）+ vainu（Christoph Klinger-Lohr hallitus）+ klinger.fi/en/contact（CCTV Systems），2026-10-28 查；https://www.proff.fi/yrityksen/klinger-finland-oy/masala/koneet-ja-laitteet/0195519-1I10PO）：**
+
+- 法定名 / 登记号：KLINGER Finland Oy（klinger.fi；Kirkkonummi Masala Tinankuja 3, 02430；Y-tunnus 0195519-1）— 1940 年成立、KLINGER 集团（奥地利家族）芬兰公司：工业阀门 / 密封 / 产品标识 / 机器自动化元件 / 仪表，另设 CCTV Systems 事业部（工业 IP 摄像机配 PLANET 工业 PoE）；辅名 Aseko / Klinger-Ramikro / Meckelborg / Tarraprint；toimitusjohtaja Esa Virtanen；董事长 Daniel Schibli；董事 Christoph Klinger-Lohr；2025 营收 €39.0M（−12.3%）、营业利润 €3.8M；115 人 · Y-tunnus 0195519-1 · 状态 **Aktiivinen** · 成立 1940 · Oy（KLINGER 集团子公司）
+- 行业码 / 经营范围：工业阀门 / 密封 / 仪表 / 标识 技术批发（TOL 4669）+ CCTV Systems 事业部
+- 注册地址：Tinankuja 3, 02430 Masala (Kirkkonummi)
+- 规模档：中型（115 人；€39M）
+- 账目：2025 营收 €38,997k；营业利润 €3,756k；—
+- 高管：Esa Virtanen — Toimitusjohtaja（集团子公司 CEO；不直接发）
+- 高管：（未具名）— CCTV Systems 事业部负责人 = 收件人（info@klinger.fi 点名 CCTV Systems）
+- 高管：Daniel Schibli — 董事长；Christoph Klinger-Lohr — 董事（集团）
+- 控制人 / 股东：KLINGER Holding（奥地利）
+- **这意味着什么：**
+  - **€39M 工业技术批发集团子公司，只有 CCTV 事业部用得上（工业 PoE 配 IP 摄像机）→ 采购型 25% small（事业部级），一页纸一次（STI-054GP / STI-144GP / STI-154GP 1:1 对照其台系在用型号）；有回声再加厚**；稿内不点名 Planet
+  - 表内未跟进 → 首触；收件人 info@ 点名 CCTV Systems；发信窗口 Thu 12–14 EET；芬兰语一句引子
+- 备注：采购型 25% small（事业部）；一页纸一次；坐实（Y-tunnus + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,6 +125,7 @@ updated: 2026-10-28
 - **【官网（搜索快照）】菜单结构（Planet 与 OT-Systems 并列）**
   > PoE Network switches and injectors - Planet kytkimet - Muut kytkimet - OT-Systems teollisuuskytkimet - Virtalähteet DIN kiskolle - PoE injektorit
   > 来源：https://www.klinger.fi/en/product/product-marking-and-labels/labelling-machines-and-solutions/mecklabeller-labelling-machines/ml300/（抓取 2026-10-20）
+- **KP**：Esa Virtanen（Toimitusjohtaja（proff.fi；集团子公司 CEO）— 不直接发；收件人 = CCTV Systems 事业部（info@ 点名）（第 109 批 官方登记核实 2026-10-28）） 〔https://www.proff.fi/yrityksen/klinger-finland-oy/masala/koneet-ja-laitteet/0195519-1I10PO〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-090 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -116,9 +133,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | KLINGER Finland Oy |
+| 法定名称 | KLINGER Finland Oy（Y-tunnus 0195519-1；KLINGER 集团） |
+| 成立 | 1940（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Masala, Kirkkonummi（Tinankuja 3, 02430 Masala）, 芬兰 |
-| 其他 | Planet 渠道档案 PB-090（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：否；最大未知：CCTV Systems 事业部负责人 / 采购人；PLANET 页面是否仍在售（2018–2021 年页面）；年量；是否要求芬兰语文档 / 集团供应商注册 |
+| 其他 | Planet 渠道档案 PB-090（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：否；最大未知：CCTV Systems 事业部负责人 / 采购人；PLANET 页面是否仍在售（2018–2021 年页面）；年量；是否要求芬兰语文档 / 集团供应商注册；第 109 批：Kirkkonummi Masala 工业阀门 / 密封 / 仪表批发（2025 营收 €39.0M；115 人）+ CCTV Systems 事业部（工业 PoE 配 IP 摄像机）→ **采购型 25% small（事业部级），一页纸一次（STI 1:1）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业技术供应商（KLINGER 集团芬兰公司：阀门 / 密封 / 仪表 / 产品标识）附设 CCTV Systems 事业部（IP 摄像机系统、PoE 网络交换机与注入器、OT-Systems 工业交换机）；PLANET 工业交换机 + PoE 注入器为其「Planet kytkimet」类目
 
@@ -168,7 +186,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@klinger.fi | 用户表原值 | Clients/ 表 |
+| Esa Virtanen | Toimitusjohtaja（proff.fi；集团子公司 CEO）— 不直接发；收件人 = CCTV Systems 事业部（info@ 点名）（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.proff.fi/yrityksen/klinger-finland-oy/masala/koneet-ja-laitteet/0195519-1I10PO |
 
 - **通道建议**：企业邮箱可直发
 
@@ -204,7 +222,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-288GPM 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 planet：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
@@ -221,7 +239,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ planet |
 | 采购量/预算 | ❓ 未确认 |
@@ -237,7 +255,7 @@ updated: 2026-10-28
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Esa,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. Your CCTV systems team lists PLANET IGS-10020HPT / IGS-20160HPT for industrial camera networks — a neutral-packed Marvell-based DIN-rail PoE+ managed line at EXW gives the same slot a second source for your project BOMs. In your industrial camera projects, is the 8-port PoE+ DIN unit (IGS-10020HPT class) still the standard pick, or have you moved to 16-port — so I send the right sample first?
 

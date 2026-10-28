@@ -72,6 +72,24 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（CH · 1 次检索：moneyhouse（SECOMP International AG；UID CHE-112.622.278；CH-170.3.028.825-9；Bassersdorf；signatories Hans Rudolf Merz / Hans Walbert / Roland Albert Silvestri / Markus Imfeld / Michael Andreas Taraba；Statutenänderung 30.06.2020）+ prospex（Aktienkapital CHF 500’000；Taraba Präsident；Walbert / Silvestri / Merz VR）+ secomp.ch/ueber-uns（1988 Ettlingen；MBO 2014 SECOMP AG；Gruppe rund 250 Beschäftigte；etwa 100 in Ettlingen Zentrallager；Niederlassungen FR / NL / CZ；SECOMP International AG Grindelstrasse 6）+ help.ch（SECOMP AG CHE-211.141.887 eingetragen 16.12.2013）+ wer-zu-wem（SECOMP Electronic Components GmbH HRB 361374 Mannheim；Geschäftsführer Michael Taraba / Hans Walbert），2026-10-28 查；https://www.moneyhouse.ch/en/company/secomp-international-ag-12957629611）：**
+
+- 法定名 / 登记号：SECOMP International AG（secomp-international.com；苏黎世州 Bassersdorf Grindelstrasse 6, 8303；UID CHE-112.622.278；CH-170.3.028.825-9）— SECOMP 集团（1988 年 Michael Taraba 在德国 Ettlingen 创立；集团 ≈250 人；中央仓 SECOMP Electronic Components GmbH Ettlingen HRB 361374 ≈100 人；分支 FR / NL / CZ；瑞士 SECOMP AG CHE-211.141.887 2013-12-16 登记）的国际贸易主体：B2B IT 配件 / 网络技术 / 安防 / UPS / 19 寸机柜，自有品牌 ROLINE / VALUE（表内「工业 FS SFP MC 都有，从多家买的；有 HRUI 的商业 FS」）；股本 CHF 500,000；董事会 Michael Taraba（主席）、Hans Rudolf Merz、Roland Silvestri、Hans Walbert；表内 6 次跟进无回复 · UID CHE-112.622.278；CH-170.3.028.825-9（关联 SECOMP AG CHE-211.141.887；SECOMP GmbH HRB 361374） · 状态 **Aktiv** · 成立 未取（集团 1988；瑞士主体 ≤2013） · AG（Taraba 等管理层持有；股本 CHF 500,000）
+- 行业码 / 经营范围：B2B IT 配件 / 网络 / 安防 / 机柜 批发 + 自有品牌 ROLINE / VALUE（国际主体）
+- 注册地址：Grindelstrasse 6, 8303 Bassersdorf (ZH)
+- 规模档：中型（集团 ≈250 人）
+- 账目：—（集团 ≈250 人）；—
+- 高管：Michael Taraba — Präsident des Verwaltungsrats / 集团创始人 = 拍板人（不直接发）
+- 高管：Hans Walbert — VR / SECOMP GmbH Geschäftsführer（Ettlingen 采购所在）
+- 高管：Roland Silvestri — VR / SECOMP AG CEO
+- 高管：（未具名）— Einkauf Netzwerk / ROLINE product manager = 收件人（info@secomp-international.com 点名）
+- 控制人 / 股东：Taraba / Merz / Silvestri / Walbert（管理层）
+- 曾用名：Rotronic-Secomp（瑞士 2014–2017 对外名）
+- **这意味着什么：**
+  - **自有品牌 ROLINE / VALUE、集团 250 人、已从国内多家采购（含 HRUI 商用 FS）→ 贴标 OEM 30% 正中目标，B BIG，加厚一次（换切口：ROLINE 标 PoE / 工业交换机系列补齐 + 德国中央仓 DAP）**：STC-028GP / STC-228GP / STC-2224GP / STI-054GP / STI-144GP 一页纸；只报 OEM 档；稿内不点名 HRUI
+  - 收件人 info@secomp-international.com 点名 ROLINE 产品经理（采购实际在 Ettlingen → 德语引子）；发信窗口 Thu 12–14 CET；瑞士非欧盟 → DAP 买方清关、德国仓则 EU
+- 备注：贴标 30% 目标；B BIG；加厚一次（换切口）；坐实（UID + 董事会）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,14 +133,17 @@ updated: 2026-10-28
 - **【用户表】从多家买；有 HRUI 商业 FS**
   > 工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Michael Taraba（Präsident des Verwaltungsrats / 集团创始人（moneyhouse / prospex；另 Hans Walbert / Roland Silvestri / Hans Rudolf Merz）= 拍板人（不直接发；收件人 = ROLINE 产品经理 via info@secomp-international.com）（第 109 批 官方登记核实 2026-10-28））info@secomp-international.com 〔https://www.moneyhouse.ch/en/company/secomp-international-ag-12957629611〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SECOMP International AG（UID CHE-112.622.278；CH-170.3.028.825-9；关联 SECOMP AG CHE-211.141.887 / SECOMP Electronic Components GmbH HRB 361374 Ettlingen） |
+| 成立 | 集团 1988（瑞士主体 ≤2013）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 瑞士 |
-| 其他 | 官网 secomp-international.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 secomp-international.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 109 批：Bassersdorf 国际贸易主体（集团 ≈250 人；中央仓 Ettlingen；分支 FR / NL / CZ；自有品牌 ROLINE / VALUE；已从国内多家采购含 HRUI；6 次群发无回）→ **贴标 OEM 30% 正中目标，B BIG，加厚一次（换切口：ROLINE 标 PoE 系列补齐 + 德国仓 DAP）**；次候选升 A（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 配件 / 网络技术 B2B 分销；安防 / UPS / 机柜
 - **触达通道（公开）**：role: IT/网络 B2B 分销商（瑞士，现含 HRUI → Q-33 口径）；region: 瑞士；contact: info@secomp-international.com
@@ -212,7 +233,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@secomp-international.com | 用户表原值 | Clients/ 表 |
+| Michael Taraba | Präsident des Verwaltungsrats / 集团创始人（moneyhouse / prospex；另 Hans Walbert / Roland Silvestri / Hans Rudolf Merz）= 拍板人（不直接发；收件人 = ROLINE 产品经理 via info@secomp-international.com）（第 109 批 官方登记核实 2026-10-28） | info@secomp-international.com | 调研核实（公开页） | https://www.moneyhouse.ch/en/company/secomp-international-ag-12957629611 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -281,7 +302,7 @@ updated: 2026-10-28
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Michael,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the industrial and commercial switches you source from several suppliers, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-PoE + 2 SFP L2+ commercial models (CE/RoHS, neutral packing) from small lots, EXW USD — is there an industrial or managed position you would like a comparative quote for?
 

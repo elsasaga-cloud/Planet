@@ -74,6 +74,23 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（DK · 1 次检索：krak.dk（DANBIT A/S；Aktieselskab；Registreringsdato 26.09.1985；CVR 78788216；Selskabskapital 500000；Adm. Direktør Peter Grubb Jensen；Bestyrelsesformand Birgith Elsa Grubb Jensen；Bestyrelsesmedlem Kirsten Anette Hansen Petersen；Antal ansatte 7；Bruttofortjeneste 3 935 tkr）+ proff.dk（DANSK BINÆR TEKNIK A/S CVRP 1003198485 Del af DANBIT A/S；Regnskab 2025-06 Årets resultat 1.727；Egenkapital 7.757）+ ownr.dk（Stiftet 26.09.1985；AKTIV；SALG@DANBIT.DK；Birkevej 4 Solrød Strand）+ danbit.dk/en（Værkstedsvej 39 4600 Køge；CVR 78788216）+ erhvervplus（Årets resultat 2020–2024 −142 / 9,149 / 2,258 / 1,942 / 3,115 tDKK），2026-10-28 查；https://www.proff.dk/firma/danbit-as/solr%C3%B8d-strand/elektronik-og-telekommunikationsudstyr-engros/1AWPDKI10MZ）：**
+
+- 法定名 / 登记号：DANBIT A/S（Dansk Binær Teknik；danbit.dk / danbit.com；克厄 Køge Værkstedsvej 39, 4600（注册地 Birkevej 4, 2680 Solrød Strand）；CVR 78788216）— 1970 年起（A/S 1985-09-26）的工业 IT / 网络专业分销商（工业 PC、网络、PoE、光纤、自动化；**把 PLANET 工业 PoE 管理交换机换上自家 ESW 货号卖 = 贴牌买家**；瑞典销售壳 Binär Teknik SB-1011）；股本 DKK 500k；adm. direktør Peter Grubb Jensen；董事长 Birgith Elsa Grubb Jensen；董事 Kirsten Anette Hansen Petersen；7 人；FY2025-06 毛利 DKK 3.94M、净利 1.73M、权益 7.76M · CVR 78788216 · 状态 **Aktiv** · 成立 1985-09-26（活动 1970） · A/S（Grubb Jensen 家族；股本 DKK 500k）
+- 行业码 / 经营范围：工业 IT / 网络 / 自动化产品分销（丹麦 + 瑞典）
+- 注册地址：Værkstedsvej 39, 4600 Køge
+- 规模档：小微（7 人）
+- 账目：FY2025-06 毛利 DKK 3,935k；净利 DKK 1,727k；权益 DKK 7,757k；—
+- 高管：Peter Grubb Jensen — Adm. direktør / 董事 = 拍板人 / 收件人（salg@danbit.dk 点名）
+- 高管：Birgith Elsa Grubb Jensen — Bestyrelsesformand
+- 高管：Kirsten Anette Hansen Petersen — Bestyrelsesmedlem
+- 控制人 / 股东：Grubb Jensen 家族
+- 曾用名：Dansk Binær Teknik A/S
+- **这意味着什么：**
+  - **已把台系工业交换机换成自家 ESW 货号卖的丹麦分销商 = 现成贴牌买家 → 贴标 OEM 30% 可谈 + 分销 20%，B，加厚一次（small，7 人）**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE 一页纸 + 1:1 对照其 ESW 货号；只报 OEM 档；稿内不点名 Planet / Antaira
+  - 收件人 salg@ 点名 Peter Grubb Jensen；并线 SB-1011（瑞典壳）；发信窗口 Thu 12–14 CET；丹麦语一句引子
+- 备注：贴标 30% 可谈 + 分销 20%；B；加厚一次（small）；坐实（CVR + 财务）；并线 SB-1011。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,15 +144,17 @@ updated: 2026-10-28
 - **【第三方（瑞典行业名录）】Binär Teknik 邮箱**
   > Binär Teknik AB Lugna gatan 39 211 59 Malmö Sweden Ring oss: 042 14 10 85 Maila oss: info@binarteknik.se
   > 来源：https://alltomteknikindustrin.se/foretag/foretag-b/binar-teknik-ab/（抓取 2026-10-20）
+- **KP**：Peter Grubb Jensen（Adm. direktør / 董事（krak.dk / ownr.dk）= 拍板人 / 收件人（salg@danbit.dk 点名）（第 109 批 官方登记核实 2026-10-28））salg@danbit.dk 〔https://www.proff.dk/firma/danbit-as/solr%C3%B8d-strand/elektronik-og-telekommunikationsudstyr-engros/1AWPDKI10MZ〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-089，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Danbit A/S (Dansk Binær Teknik A/S) |
+| 法定名称 | DANBIT A/S（Dansk Binær Teknik；CVR 78788216） |
+| 成立 | 1985-09-26（活动 1970）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Køge（Værkstedsvej 39-41, 4600 Køge）；瑞典姊妹公司 Binär Teknik AB（Malmö）, 丹麦 |
-| 其他 | Planet 渠道档案 PB-089（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：是（自编货号 ESW- 等贴牌转售 PLANET 等工业交换机 / 串口服务器）；最大未知：采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购 |
+| 其他 | Planet 渠道档案 PB-089（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：是（自编货号 ESW- 等贴牌转售 PLANET 等工业交换机 / 串口服务器）；最大未知：采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购；第 109 批：Køge 工业 IT / 网络分销商（7 人；FY2025-06 毛利 DKK 3.94M；把台系工业 PoE 换自家 ESW 货号卖 = 现成贴牌买家；瑞典壳 SB-1011）→ **贴标 OEM 30% 可谈 + 分销 20%，B，加厚一次（small）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）
 
@@ -212,7 +231,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | salg@danbit.dk | 用户表原值 | Clients/ 表 |
+| Peter Grubb Jensen | Adm. direktør / 董事（krak.dk / ownr.dk）= 拍板人 / 收件人（salg@danbit.dk 点名）（第 109 批 官方登记核实 2026-10-28） | salg@danbit.dk | 调研核实（公开页） | https://www.proff.dk/firma/danbit-as/solr%C3%B8d-strand/elektronik-og-telekommunikationsudstyr-engros/1AWPDKI10MZ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -248,7 +267,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-288GPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 Planet：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
@@ -265,7 +284,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ Planet, FS |
 | 采购量/预算 | ❓ 未确认 |
@@ -281,7 +300,7 @@ updated: 2026-10-28
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Peter,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. You already sell PLANET industrial PoE managed switches under your own ESW item numbers — a Marvell-based 8×GE PoE+ + 2×SFP DIN unit shipped neutral or under your ESW code at EXW fits the same slot with room under your current SEK pricing. For your ESW8G-M-SFP2 slot, do customers mostly take the DIN-rail unit or the wall-mount LCD version — so I send the matching sample first?
 

@@ -90,6 +90,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 109 批（IT · 1 次检索：ufficiocamerale（SICURMAX S.R.L.；P.IVA 02360600239；VIA DEL CICLAMINO 7 37051 BOVOLONE；Rea 233884；Iscrizione 01/07/1992；Dipendenti 6；Capitale € 10.000；ATECO 432409；PEC massimo.marzari@pec.sicurmax.com）+ sicurmax.com 页脚 / azienda（SICURMAX S.R.L. REA VR233884；oltre 30 anni；ISO 9001；abilitazioni Enti e Organizzazioni Militari Italiani e NATO）+ amministrazionicomunali MePA（SICURMAX SNC DI MARZARI MASSIMO & C；OS 19 / antincendio / impianti elettrici e speciali；aggiudicazione 19-08-2022）+ comune.legnago 招标，2026-10-28 查；https://www.ufficiocamerale.it/7597/sicurmax-snc-di-marzari-massimo-c）：**
+
+- 法定名 / 登记号：SICURMAX S.R.L.（原 SICURMAX S.n.c. di Marzari Massimo & C.；sicurmax.com；维罗纳 Bovolone Via del Ciclamino 7, 37051；P.IVA / CF 02360600239；REA VR-233884）— 1992-07-01 登记的民用 / 工业安防集成商（防盗、视频监控含城市 / 交通、消防、门禁、楼宇；ISO 9001；SOA OS5 / OS19 / OS30；MePA 供应商、市政招标；**另具意大利军方 / NATO 场所施工资格 = 附带资质，主业民用 → 守界核查通过，但稿内只谈民用 / 工地**）；股本 €10,000；6 人；ATECO 43.24.09；KP Massimo Marzari（业主；WhatsApp 已加）；17 次推送无回 · P.IVA / CF 02360600239；REA VR-233884 · 状态 **Active** · 成立 1992-07-01 · S.r.l.（原 S.n.c.；Marzari 家族）
+- 行业码 / 经营范围：民用 / 工业安防系统 设计安装维护（ATECO 43.24.09 / 43.21.02）
+- 注册地址：Via del Ciclamino 7, 37051 Bovolone (VR)
+- 规模档：小微（6 人）
+- 账目：—；—
+- 高管：Massimo Marzari — Amministratore / 创始合伙人 = 拍板人 / 收件人（WA 已加）
+- 控制人 / 股东：Marzari 家族
+- 曾用名：SICURMAX S.n.c. di Marzari Massimo & C.
+- **这意味着什么：**
+  - **6 人维罗纳安防集成商（军方 / NATO 资质为附带，主业民用 → 不降 C；17 次推送无回）→ 集成 25% small，一页纸一次（WA 走 Simon：STI-054GP / STI-144GP / STC-228GP 配工地 / 城市监控立杆；MOQ 1 一口价）；再无回声 → 不动**；稿内绝不提军方 / NATO / 政府项目
+  - 收件人 Massimo 直呼（WA + 邮件）；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：守界核查通过（民用主业）；集成 25% small；一页纸一次；坐实（P.IVA + REA）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,18 +145,18 @@ updated: 2026-10-28
 - **【官网】公共机构业务与 SOA**
   > Certificata ISO 9001 e SOA, collabora con enti locali e istituzioni militari per la messa in sicurezza di strutture pubbliche.
   > 来源：https://sicurmax.com/sistemi-di-sicurezza-per-enti-pubblici-a-bovolone-verona-sicurmax-33/soluzioni（抓取 2026-10-21）
-- **KP**：Massimo Marzari（合伙人（法人名称所示））info@sicurmax.com +39 045 690 0922〔https://sicurmax.com/azienda〕
-- **KP**：Massimo Marzari（创始合伙人（原 S.n.c. 名称「di Marzari Massimo & C.」））info@sicurmax.com（公司公开） +39 045 690 0922〔https://sicurmax.com/azienda〕
+- **KP**：Massimo Marzari（Amministratore / 创始合伙人（PEC massimo.marzari@；WA 已加）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））info@sicurmax.com +39 045 690 0922〔https://sicurmax.com/azienda〕
+- **KP**：Massimo Marzari（Amministratore / 创始合伙人（PEC massimo.marzari@；WA 已加）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））info@sicurmax.com（公司公开） +39 045 690 0922〔https://sicurmax.com/azienda〕
 - **调研后定级**：B（原自动 A）——17 次推送无任何回复（仅 WhatsApp 加上），小型集成商、项目型采购、且部分业务涉军方/NATO 场所（INH 守界）；B 慢跟。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SICURMAX S.r.l.（原 Sicurmax S.n.c. di Marzari Massimo & C.；P.IVA 02360600239） |
-| 成立 | 1992 |
+| 法定名称 | SICURMAX S.R.L.（原 SICURMAX S.n.c. di Marzari Massimo & C.；P.IVA / CF 02360600239；REA VR-233884） |
+| 成立 | 1992-07-01（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Via del Ciclamino 7, 37051 Bovolone (VR), Italia（+39 045 690 0922；info@sicurmax.com） |
-| 其他 | 北意大利民用/工业安防集成商（30+ 年）：防盗、视频监控、消防、门禁、无线系统；ISO 9001 + SOA；有意大利军方/NATO 设施施工资质（守界：不参与军方项目配套）；面向公共机构（学校、医疗）与工地 |
+| 其他 | 北意大利民用/工业安防集成商（30+ 年）：防盗、视频监控、消防、门禁、无线系统；ISO 9001 + SOA；有意大利军方/NATO 设施施工资质（守界：不参与军方项目配套）；面向公共机构（学校、医疗）与工地；第 109 批：Bovolone 民用 / 工业安防集成商（6 人；ISO 9001；SOA；MePA；军方 / NATO 场所资质为附带 → 守界核查通过，稿内只谈民用 / 工地）→ **集成 25% small，一页纸一次（WA 走 Simon）；再无回声 → 不动**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：防盗 / 视频监控 / 门禁 安装（民用+工业）；公共机构与工地安防；消防
 - **触达通道（公开）**：网站: https://sicurmax.com/；电话: +39 045 690 0922（官网公开）；邮箱（公开）: info@sicurmax.com
@@ -241,8 +256,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Massimo Marzari | 合伙人（法人名称所示） | info@sicurmax.com / +39 045 690 0922 | 调研核实（公开页） | https://sicurmax.com/azienda |
-| Massimo Marzari | 创始合伙人（原 S.n.c. 名称「di Marzari Massimo & C.」） | info@sicurmax.com（公司公开） / +39 045 690 0922 | 调研核实（公开页） | https://sicurmax.com/azienda |
+| Massimo Marzari | Amministratore / 创始合伙人（PEC massimo.marzari@；WA 已加）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28） | info@sicurmax.com / +39 045 690 0922 | 调研核实（公开页） | https://sicurmax.com/azienda |
+| Massimo Marzari | Amministratore / 创始合伙人（PEC massimo.marzari@；WA 已加）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28） | info@sicurmax.com（公司公开） / +39 045 690 0922 | 调研核实（公开页） | https://sicurmax.com/azienda |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

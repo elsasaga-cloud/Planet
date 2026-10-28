@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 109 批（ES · 1 次检索：empresia（INTELIWARE SL；CIF B86690344；constitución 15/03/2013；capital 3.006 €；C/ JUAN GENOVES 43 TORREJON DE ARDOZ）+ datoscif（Administrador Único Torrico Jimenez Rafael；T 30835 F 163 S 8 H M 554995）+ einforma（1 empleado 2024；microempresa；resultado negativo）+ domoticalia.es Legal Notice（INTELIWARE S.L. CIF B86690344 Juan Genovés 43 28850），2026-10-28 查；https://www.empresia.es/empresa/inteliware/）：**
+
+- 法定名 / 登记号：INTELIWARE SL（品牌 Domoticalia；domoticalia.es / inteliware.es；马德里 Torrejón de Ardoz C/ Juan Genovés 43, 28850；CIF B86690344；RM Madrid T 30835 F 163 H M-554995）— 2013-03-15 成立的智能家居 / IoT / 网络设备网店（多品牌含 Witek 工业 FS）；股本 €3,006；**1 名雇员（2024）、上年度亏损**；Administrador único Rafael Torrico Jiménez（= 研究档 KP）；8 次跟进 0 回复 · CIF B86690344 · 状态 **Activa** · 成立 2013-03-15 · S.L.（一人公司；股本 €3,006）
+- 行业码 / 经营范围：智能家居 / IoT / 网络设备 网店
+- 注册地址：C/ Juan Genovés 43, 28850 Torrejón de Ardoz (Madrid)
+- 规模档：小微（1 人）
+- 账目：—（微型；上年亏损）；—
+- 高管：Rafael Torrico Jiménez — Administrador único / 唯一雇员（研究档 KP Rafael Torrico）
+- 控制人 / 股东：Rafael Torrico（推定）
+- **这意味着什么：**
+  - **一人网店 + 亏损 + 8 次 0 回复 → 不动（B 保留但不进发送包）**
+  - 若其主动询盘 → 只做预付款小单
+- 备注：坐实（CIF + 管理人）；一人网店 → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,7 +129,7 @@ updated: 2026-10-28
 - **【名录】CIF 与经理**
   > La empresa Domoticalia con CIF B86690344 Está ubicada en 28850 Torrejon de Ardoz (Madrid) … Gerente: Rafael Torrico
   > 来源：https://www.anuarioguia.com/empresa/domoticalia（抓取 2023-10-25）
-- **KP**：Rafael Torrico（Gerente（公开企业名录））info@domoticalia.es（公司公开） +34 91 005 26 51〔https://www.anuarioguia.com/empresa/domoticalia〕
+- **KP**：Rafael Torrico（Administrador único / 唯一雇员（BORME 2013；datoscif）— 一人网店 → 不动（第 109 批 官方登记核实 2026-10-28））info@domoticalia.es（公司公开） +34 91 005 26 51〔https://www.anuarioguia.com/empresa/domoticalia〕
 - **调研后定级**：B（原自动 A）——0 回复 / 8 次推送，重心为消费级智能家居零售（Saga 不做消费），交换机仅附带 → 慢跟；西班牙在欧洲区故不降 C。
 - 备注：一次性邮件：Witek 工业 FS 对位 STI-288GP/STI-288DGGPM 价格（电商 20%）。
 
@@ -123,9 +137,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Inteliware, S.L.（品牌 Domoticalia；CIF B86690344） |
+| 法定名称 | INTELIWARE SL（品牌 Domoticalia；CIF B86690344；RM Madrid H M-554995） |
+| 成立 | 2013-03-15（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | C/ Juan Genovés 43, 28850 Torrejón de Ardoz (Madrid), España（+34 91 005 26 51；atencioncliente@domoticalia.es） |
-| 其他 | 智能家居/楼宇自动化网店与集成（Z-Wave Alliance 成员，eKomi/Confianza Online 认证）；网络类目在售品牌：EnGenius（11 款 PoE 机，含云管理 ECS1528P €—/ECS1552FP €1,231.18）、Stonet（6 款工业 DIN 机：NIS3010GP-WMC 8 PoE 管理 + 2 SFP €188.76；NIS3006GP-WMC 4 PoE + 2 SFP €158.27；NIS3005 PRO €71.78；NIS3008 PRO €63.89）、Wi-Tek（4）、BYDom（1）、smlight（1）；经理 Rafael Torrico（公开名录） |
+| 其他 | 智能家居/楼宇自动化网店与集成（Z-Wave Alliance 成员，eKomi/Confianza Online 认证）；网络类目在售品牌：EnGenius（11 款 PoE 机，含云管理 ECS1528P €—/ECS1552FP €1,231.18）、Stonet（6 款工业 DIN 机：NIS3010GP-WMC 8 PoE 管理 + 2 SFP €188.76；NIS3006GP-WMC 4 PoE + 2 SFP €158.27；NIS3005 PRO €71.78；NIS3008 PRO €63.89）、Wi-Tek（4）、BYDom（1）、smlight（1）；经理 Rafael Torrico（公开名录）；第 109 批：Torrejón de Ardoz 智能家居 / 网络网店（1 名雇员；股本 €3,006；上年亏损；8 次 0 回复）→ **不动（一人网店）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：智能家居/楼宇自动化网店（Z-Wave 等）；网络设备零售（PoE 交换机、工业 DIN 交换机）；安防与监控
 
@@ -225,7 +240,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rafael Torrico | Gerente（公开企业名录） | info@domoticalia.es（公司公开） / +34 91 005 26 51 | 调研核实（公开页） | https://www.anuarioguia.com/empresa/domoticalia |
+| Rafael Torrico | Administrador único / 唯一雇员（BORME 2013；datoscif）— 一人网店 → 不动（第 109 批 官方登记核实 2026-10-28） | info@domoticalia.es（公司公开） / +34 91 005 26 51 | 调研核实（公开页） | https://www.anuarioguia.com/empresa/domoticalia |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删
 

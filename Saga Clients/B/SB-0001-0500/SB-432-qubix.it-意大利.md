@@ -73,6 +73,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（IT · 1 次检索：ufficiocamerale（QUBIX S.P.A.；P.IVA 03575150283；VIA CANADA’ 22/A 35127 PADOVA；Rea 321331；Fatturato € 29.715.092 2025；Dipendenti 21；Iscrizione 01/02/2001；Utile € 6.617.277）+ aziende.it（Capitale € 300.000；2023–2025 fatturato 27.6 / 28.4 / 29.7 M€；utile 5.58 / 5.53 / 6.62 M€）+ LinkedIn（Filippo Gnocco General Manager；Caroline (Chia Ling) Lee BDM；2001；11–50）+ qubix.it/en/azienda（spin-off 2001），2026-10-28 查；https://www.ufficiocamerale.it/6588/qubix-spa）：**
+
+- 法定名 / 登记号：QUBIX S.P.A.（qubix.it；帕多瓦 Via Canada 22/A, 35127；P.IVA / CF 03575150283；REA PD-321331）— 2001-02-01 登记（数据线缆厂数据传输部门分拆）的结构化布线 / 网络 / 视频监控分销商（表内「几乎全是 Planet 的设备」—— 工业 FS / MC / SFP / 工业电源）；股本 €300,000；20–21 人；2025 营收 €29.72M（+4.5%）、净利 €6.62M；ATECO 46.50.2；General Manager Filippo Gnocco；BDM Davide Villotti；BDM Caroline (Chia Ling) Lee；表内「质量一般」 · P.IVA / CF 03575150283；REA PD-321331 · 状态 **Active** · 成立 2001-02-01 · S.p.A.（私有；股本 €300,000）
+- 行业码 / 经营范围：结构化布线 / 网络 / 视频监控 分销（ATECO 46.50.2）
+- 注册地址：Via Canada 22/A, 35127 Padova
+- 规模档：中小（21 人；€29.7M；净利率 22%）
+- 账目：2025 营收 €29,715,092；净利 €6,617,277；—
+- 高管：Filippo Gnocco — General Manager（研究档 KP）= 拍板人 / 收件人
+- 高管：Davide Villotti — Business Developer Manager（研究档 KP）= 收件人（抄）
+- 高管：Caroline (Chia Ling) Lee — Business Development Manager（台系供应链接口，推定）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **€30M、净利率 22%、几乎全线台系的帕多瓦分销商 → 分销 20%，B BIG，加厚一次；回信即升 A 候选**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE + STC-110XGE 一页纸 1:1 对照其在售型号（第二货源 + 毛利切口）；稿内不点名 Planet
+  - 收件人 Filippo 直呼、抄 Davide；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20%；B BIG；加厚一次；升 A 候选（回信即 A）；坐实（P.IVA + REA + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,16 +126,18 @@ updated: 2026-10-28
 - **【用户表】几乎全是 Planet 的设备**
   > 主要是planet的 / 工业FS MC SFP 工业电源 几乎全是Planet的设备
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Filippo Gnocco（）fgnocco@qubix.it 〔用户表〕
-- **KP**：Davide Villotti（）info@qubix.it 〔用户表〕
+- **KP**：Filippo Gnocco（General Manager（LinkedIn）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））fgnocco@qubix.it 〔用户表〕
+- **KP**：Davide Villotti（Business Developer Manager（研究档）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28））info@qubix.it 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | QUBIX S.P.A.（P.IVA / CF 03575150283；REA PD-321331） |
+| 成立 | 2001-02-01（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 qubix.it，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 qubix.it，语言 ?，快照状态 http_error；角色判定来源：待核；第 109 批：帕多瓦结构化布线 / 网络 / CCTV 分销商（21 人；2025 营收 €29.72M、净利 €6.62M；股本 €300,000；几乎全线台系；BDM Caroline (Chia Ling) Lee）→ **分销 20%，B BIG，加厚一次；回信即升 A**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络产品分销（意大利）
 - **触达通道（公开）**：role: 工业网络分销商（意大利，Planet 为主）；region: 意大利；contact: info@qubix.it、fgnocco@qubix.it
@@ -201,8 +219,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Filippo Gnocco | — | fgnocco@qubix.it | 调研核实（公开页） | 用户表 |
-| Davide Villotti | — | info@qubix.it | 调研核实（公开页） | 用户表 |
+| Filippo Gnocco | General Manager（LinkedIn）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28） | fgnocco@qubix.it | 调研核实（公开页） | 用户表 |
+| Davide Villotti | Business Developer Manager（研究档）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28） | info@qubix.it | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

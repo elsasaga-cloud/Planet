@@ -74,6 +74,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（CZ · 1 次检索：losan.cz/kontakty（IČO 64053580；DIČ CZ64053580；Březenecká 4808 Chomutov；KS Ústí nad Labem oddíl C vložka 10071）+ fakturujzdarma（Datum vzniku 18. prosince 1995；Základní kapitál 100 000 Kč；10–19 zaměstnanců；jednatelé Jan Stehno / Pavel Zwinger 2. února 2023）+ rejstrik.penize.cz（zapsáno 18. 12. 1995；历任 jednatel David Fojtík / Jiří Brož）+ idatabaze（pobočky Chomutov Palackého 4505 / Most / Teplice）+ LOSAN internet s.r.o. 06878865（společníci Stehno 45 % / Weiss 45 % / Zwinger 10 %），2026-10-28 查；https://rejstrik.penize.cz/64053580-losan-s-r-o）：**
+
+- 法定名 / 登记号：LOSAN s.r.o.（losan.cz / eshop.losan.cz；霍穆托夫 Chomutov Březenecká 4808, 430 04；IČO 64053580；DIČ CZ64053580；KS Ústí nad Labem C 10071）— 1995-12-18 成立的北波希米亚区域 IT 零售 / 电商 / 学校与机构 IT 供应商（门店 Chomutov / Most / Teplice；e-shop 上 PLANET 工业交换机带价带库存）；股本 CZK 100k；10–19 人；jednatelé Jan Stehno、Pavel Zwinger（2023-02-02 起）；姐妹公司 LOSAN internet s.r.o.（06878865；批发；股东 Stehno 45% / Weiss 45% / Zwinger 10%）、LOSAN servis s.r.o. · IČO 64053580；DIČ CZ64053580；C 10071 KS Ústí nad Labem · 状态 **Aktivní** · 成立 1995-12-18 · s.r.o.（Stehno / Weiss / Zwinger）
+- 行业码 / 经营范围：IT 零售 + 电商 + 学校 / 机构 IT 供应 + 网络施工（北波希米亚）
+- 注册地址：Březenecká 4808, 430 04 Chomutov
+- 规模档：小型（10–19 人）
+- 账目：—；—
+- 高管：Jan Stehno — Jednatel / 股东 = 拍板人 / 收件人（obchod@ / info@losan.cz 点名）
+- 高管：Pavel Zwinger — Jednatel / 股东
+- 高管：David Weiss — 股东（LOSAN internet）
+- 控制人 / 股东：Stehno / Weiss / Zwinger
+- **这意味着什么：**
+  - **三店区域 IT 商，e-shop 已备库台系工业交换机 → 分销 20% small，一页纸一次（STI-288DGGPM / STI-0240GE 对照其在库 10 口型号 + STC-028GP / STC-228GP 学校 PoE）；有回声再加厚**；稿内不点名 Planet
+  - 表内未跟进 → 首触；收件人点名 Jan Stehno；发信窗口 Thu 12–14 CET；捷克语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（IČO + 法院卷号）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,6 +128,7 @@ updated: 2026-10-28
 - **【官网（搜索快照）】Ústí 门店与店长姓名（片段复述）**
   > Ústí nad Labem … Vaníčkova 1112/27 … manažer prodejny Daniel Gujda
   > 来源：https://losan.cz/usti-nad-labem/（抓取 2026-10-20）
+- **KP**：Jan Stehno（Jednatel / 股东（fakturujzdarma；2023-02-02 起；另 Pavel Zwinger）= 拍板人 / 收件人（点名）（第 109 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/64053580-losan-s-r-o〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-096 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -119,9 +136,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | LOSAN s.r.o. |
+| 法定名称 | LOSAN s.r.o.（IČO 64053580；DIČ CZ64053580；KS Ústí nad Labem C 10071） |
+| 成立 | 1995-12-18（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Chomutov（Březenecká 4808, 430 04 Chomutov；门店 Teplice Alejní 2786 / Ústí nad Labem Vaníčkova 1112/27）, 捷克 |
-| 其他 | Planet 渠道档案 PB-096（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否；最大未知：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口径 |
+| 其他 | Planet 渠道档案 PB-096（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否；最大未知：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口径；第 109 批：Chomutov 三店区域 IT 零售 / 电商 / 学校 IT 供应商（10–19 人；e-shop 备库台系工业交换机）→ **分销 20% small，一页纸一次（STI-288DGGPM / STI-0240GE 对照在库型号）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修
 
@@ -175,7 +193,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | tp@losan.cz | 用户表原值 | Clients/ 表 |
+| Jan Stehno | Jednatel / 股东（fakturujzdarma；2023-02-02 起；另 Pavel Zwinger）= 拍板人 / 收件人（点名）（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejstrik.penize.cz/64053580-losan-s-r-o |
 
 - **通道建议**：企业邮箱可直发
 
@@ -243,7 +261,7 @@ updated: 2026-10-28
 **主题**：STI-280GM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Jan,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 28 August 2026 - and there was no reason to answer a mass mail. This one is specific. Your e-shop keeps the PLANET IGS-10020MT in stock at 8 351 Kč net — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives that slot a second source with room for your own margin. For your school and institutional projects, is the 8-port Gigabit + 2×SFP managed class (IGS-10020MT) the unit you move most, or the 4-port IGS-4215-4T2S — so I send the matching sample first?
 

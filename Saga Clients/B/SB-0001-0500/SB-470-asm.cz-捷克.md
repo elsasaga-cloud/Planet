@@ -78,6 +78,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（CZ · 1 次检索：asm.cz/kontakty（A S M (100MEGA Distribution s.r.o.)；K Hrušovu 292/4 Praha 10；sídlo Železná 681/7 Brno；IČ 60707968 DIČ CZ60707968；KS v Brně C 15317）+ podnikatel.cz（základní kapitál 12 957 000 Kč；jednatel Ing. Petr Bečička vznik funkce 24.5.1994）+ firmindex（100–149 zaměstnanců；vznik 24. 5. 1994）+ detail.cz（obrat v 0,5 % firem；vlastní Martin Zavřel / Petr Bečička），2026-10-28 查；https://rejstrik.penize.cz/60707968-100mega-distribution-s-r-o）：**
+
+- 法定名 / 登记号：ASM（asm.cz；= 100MEGA Distribution s.r.o. 的 ICT 安装商 / 集成商分销部门，布拉格 10 K Hrušovu 292/4, 102 00；法人总部 布尔诺 Horní Heršpice Železná 681/7, 619 00；IČO 60707968；DIČ CZ60707968；KS Brno C 15317）— 1994-05-24 成立的捷克大型 IT 分销商（营业额居全国前 0.5%；100–149 人；股本 CZK 12,957,000）；ASM 面向安装公司与系统集成商（站内 PLANET 61 / Dahua 105 / Hikvision；专业培训）；jednatel Ing. Petr Bečička；股东 Martin Zavřel / Petr Bečička；KP Richard Hemzal · IČO 60707968；DIČ CZ60707968；C 15317 KS Brno · 状态 **Aktivní** · 成立 1994-05-24 · s.r.o.（Zavřel / Bečička）
+- 行业码 / 经营范围：IT 分销（捷克大型；ASM 部门 = ICT 安装商 / 集成商渠道）
+- 注册地址：Železná 681/7, 619 00 Brno – Horní Heršpice（ASM：K Hrušovu 292/4, 102 00 Praha 10）
+- 规模档：中型（100–149 人）
+- 账目：—（营业额前 0.5%）；—
+- 高管：Richard Hemzal — 研究档 KP（ASM 产品 / 采购）= 收件人
+- 高管：Ing. Petr Bečička — Jednatel / 股东 = 拍板人（不直接发）
+- 高管：Martin Zavřel — 股东
+- 控制人 / 股东：Zavřel / Bečička
+- **这意味着什么：**
+  - **捷克大型分销商的安装商渠道部门（台系工业交换机为主力）→ 分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + STC-028GP / STC-228GP / STC-2224GP 一页纸 1:1；稿内不点名 Planet / Dahua / Hikvision
+  - 收件人 Richard 直呼；发信窗口 Thu 12–14 CET；捷克语一句引子
+- 备注：分销 20%；B BIG；加厚一次；坐实（IČO + 法院卷号）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,15 +127,18 @@ updated: 2026-10-28
 - **【用户表】PoE FS / 光模块 / 工业 FS，很多是 PLANET 的**
   > POE FS 光模块 CVI SDI 同轴 工业FS等；很多都是Planet的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Richard Hemzal（）hemzal@asm.cz 〔用户表〕
+- **KP**：Richard Hemzal（研究档 KP（ASM 部门产品 / 采购）= 收件人（第 109 批 官方登记核实 2026-10-28））hemzal@asm.cz 〔用户表〕
+- **KP**：Petr Bečička（Jednatel / 股东（podnikatel.cz；Ing.；1994 起；另一股东 Martin Zavřel）= 拍板人（不直接发）（第 109 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/60707968-100mega-distribution-s-r-o〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ASM = 100MEGA Distribution s.r.o.（IČO 60707968；DIČ CZ60707968；KS Brno C 15317） |
+| 成立 | 1994-05-24（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 asm.cz，语言 cs-CZ，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+| 其他 | 官网 asm.cz，语言 cs-CZ，快照状态 ok；角色判定来源：表内早期 AI 描述；第 109 批：布尔诺大型 IT 分销商（100–149 人；营业额前 0.5%；股本 CZK 12.96M）的安装商 / 集成商 ICT 渠道部门 ASM（布拉格；台系 61 / Dahua 105）→ **分销 20%，B BIG，加厚一次（STI + STC 1:1）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：数据与电信网络产品分销（安装商 / SI）；安防（Dahua / Hikvision）配套；专业培训
 - **触达通道（公开）**：role: ICT 分销商（PLANET 捷克渠道，面向安装商/SI）；region: 捷克；contact: hemzal@asm.cz
@@ -221,7 +240,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Richard Hemzal | — | hemzal@asm.cz | 调研核实（公开页） | 用户表 |
+| Richard Hemzal | 研究档 KP（ASM 部门产品 / 采购）= 收件人（第 109 批 官方登记核实 2026-10-28） | hemzal@asm.cz | 调研核实（公开页） | 用户表 |
+| Petr Bečička | Jednatel / 股东（podnikatel.cz；Ing.；1994 起；另一股东 Martin Zavřel）= 拍板人（不直接发）（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejstrik.penize.cz/60707968-100mega-distribution-s-r-o |
 | Hemzal Richard | — | hemzal@asm.cz | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

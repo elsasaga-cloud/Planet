@@ -84,6 +84,24 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（CZ · 1 次检索：rejstrik.penize.cz（EMOS spol. s r.o.；Šířava 295/17 Přerov I-Město 75002；IČO 19014104；C 1167 KS Ostrava；Franck Lemery jednatel 12. 5. 2025 zapsáno 14. 10. 2025）+ kurzy.cz（jednatelé Yriex Dominique Roullac 28.2.2022 / Emmanuel Regent 31.12.2022 / Franck Lemery；společník Legrand France S.A. 758501001 Limoges vklad 64 950 000 Kč 100 % zapsáno 1. 1. 2024；前股东 EMOS CZ group a.s. 05645573）+ finmag（Jiří Lupač jednatel 18. 7. 1991）+ cs.wikipedia（založení 1991；401 zaměstnanců；majitel Legrand；2020 obrat 2,3 mld Kč）+ prerovsky.denik 2022-02-15（ÚOHS fúzi povolil），2026-10-28 查；https://rejstrik.penize.cz/19014104-emos-spol-s-r-o）：**
+
+- 法定名 / 登记号：EMOS spol. s r.o.（emos.cz / emos.eu；普热罗夫 Přerov I-Město Šířava 295/17, 750 02；IČO 19014104；DIČ CZ19014104；KS Ostrava C 1167）— 1991-07-18 由 Jiří Lupač 创立的自有品牌消费电子 / 电工产品公司（电池、照明、天线、门铃、气象站、延长线、小家电；经 SK / PL / SI / HU 姐妹公司覆盖 26 国；GP Batteries 独家）；**2022 年被 Legrand 收购，2024-01-01 起唯一股东 Legrand France S.A.（出资 CZK 64.95M）**；jednatelé Yriex Dominique Roullac（2022-02-28）、Emmanuel Regent（2022-12-31）、Franck Lemery（2025-05-12）；≈400–450 人；集团营收 CZK 2.3bn（2020） · IČO 19014104；DIČ CZ19014104；C 1167 KS Ostrava；LEI 31570010000000069450 · 状态 **Aktivní（Legrand 子公司）** · 成立 1991-07-18 · spol. s r.o.（Legrand France S.A. 100%）
+- 行业码 / 经营范围：自有品牌消费电子 / 电工产品 批发（中国代工）
+- 注册地址：Šířava 295/17, 750 02 Přerov I-Město
+- 规模档：中型（≈400 人；Legrand 集团）
+- 账目：集团营收 CZK 2.3bn（2020）；—
+- 高管：Franck Lemery — Jednatel（2025-05 起；Legrand 派驻）
+- 高管：Emmanuel Regent — Jednatel（VOP 签署人）
+- 高管：Yriex Dominique Roullac — Jednatel
+- 高管：Jiří Lupač — 创始人（已退出）
+- 控制人 / 股东：Legrand France S.A.（Limoges）
+- 曾用名：EMOS CZ group a.s.（前控股）
+- **这意味着什么：**
+  - **Legrand 旗下 400 人自有品牌消费电子商（代工采购集中、合规门槛高）→ 贴标 OEM 30% 理论可谈但命中率低，B，一页纸一次（STC-028GP / STC-228GP 非管理型 PoE 走其「网络配件」类目；只报 OEM 档）；无回声 → 不动**
+  - 收件人 nakup@ / info@emos.cz 点名 product manager（网络 / 电脑配件）；发信窗口 Thu 12–14 CET；捷克语一句引子；稿内不提 Legrand
+- 备注：贴标 30% 低命中；B；一页纸一次；坐实（IČO + 股东）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,16 +134,17 @@ updated: 2026-10-28
 - **【用户表】展会互动；15 次跟进 0 回复**
   > 问了商业POE，要小尺寸，介绍了4口的那个 问了价格，不用工业级，拍了展位照片
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Franck Lemery（Jednatel（2025-05-12 起；Legrand 派驻；另 Emmanuel Regent / Yriex Dominique Roullac）— 不直接发；收件人 = product manager 网络 / 电脑配件（第 109 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/19014104-emos-spol-s-r-o〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | EMOS spol. s r.o.（IČO 19014104；Krajský soud v Ostravě C 1167） |
-| 成立 | 1991 |
+| 法定名称 | EMOS spol. s r.o.（IČO 19014104；KS Ostrava C 1167；唯一股东 Legrand France S.A. 自 2024-01-01） |
+| 成立 | 1991-07-18（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Lipnická 2844, 750 02 Přerov, Czechia（+420 581 261 111；emos@emos.cz） |
-| 其他 | Legrand 100% 持有（2022 反垄断批准）；品牌 EMOS；26 国分销；GP 电池独家分销 |
+| 其他 | Legrand 100% 持有（2022 反垄断批准）；品牌 EMOS；26 国分销；GP 电池独家分销；第 109 批：Přerov 自有品牌消费电子 / 电工产品公司（≈400 人；集团营收 CZK 2.3bn；2022 并入 Legrand）→ **贴标 OEM 30% 低命中，B，一页纸一次（非管理 PoE 走网络配件类目）；无回声 → 不动**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：EMOS 品牌消费电子与电工产品（照明、电池、天线、门铃、延长线等）；中东欧多国分销网络
 - **触达通道（公开）**：网站: https://www.emos.cz/；电话: +420 581 261 111（公开）；邮箱（公开）: emos@emos.cz
@@ -228,6 +247,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Franck Lemery | Jednatel（2025-05-12 起；Legrand 派驻；另 Emmanuel Regent / Yriex Dominique Roullac）— 不直接发；收件人 = product manager 网络 / 电脑配件（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejstrik.penize.cz/19014104-emos-spol-s-r-o |
 | Pavel Valcuha Technical | — | valcuha@emos.cz / vesely@emos.cz / +420581261203 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -297,7 +317,7 @@ updated: 2026-10-28
 **主题**：STC-024GP - 4-port Gigabit PoE switch with 2 Gigabit uplinks (neutral label)
 
 ```text
-Hi Pavel,
+Hi Franck,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — $22.3 EXW; what carton quantity does your Přerov warehouse prefer?
 

@@ -91,6 +91,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 109 批（ES · 1 次检索：iberinform（SUMINISTROS INDUSTRIALES MP4 SL；CIF B63629968；CALLE LEONARDO DA VINCI 37, 39 LOCAL 2 08204 SABADELL；constitución 28/09/2004；BORME 12/06/2025 ADM.UNICO PASCUAL FERNANDEZ SILVIA）+ einforma（Capital 3.460 €；6 empleados 2023；microempresa）+ expansion（CNAE 4690；último depósito 2024）+ datoscif（Administrador Único Pascual Fernandez Silvia 19/06/2025）+ suministros-industriales.es（automatización y condúctica；info@），2026-10-28 查；https://www.iberinform.es/empresa/1753516/suministros-industriales-mp4）：**
+
+- 法定名 / 登记号：SUMINISTROS INDUSTRIALES MP4 SL（品牌 MP4；suministros-industriales.es；巴塞罗那 Sabadell C/ Leonardo da Vinci 37-39, Local 2, 08204；CIF B63629968）— 2004-09-28 成立的工业用品供应商（自动化：电柜空调 / 机柜 / 安全传感器 / 执行器 / 气动输送；条导：拖链 / 型材 / 卷线器 / 滑触线；官网无网络类目）；股本 €3,460；6 人（2023）；微型；administradora única Silvia Pascual Fernández（2025-06 起）；KP Hugo Hernàndez（1 次回复、18 次跟进） · CIF B63629968 · 状态 **Activa** · 成立 2004-09-28 · S.L.（微型；股本 €3,460）
+- 行业码 / 经营范围：工业用品供应（自动化元件 / 条导）（CNAE 4690）
+- 注册地址：C/ Leonardo da Vinci 37-39, Local 2, 08204 Sabadell (Barcelona)
+- 规模档：小微（6 人）
+- 账目：—（微型）；—
+- 高管：Silvia Pascual Fernández — Administradora única（2025-06 起）= 拍板人
+- 高管：Hugo Hernàndez — 研究档 KP（曾 1 次回复）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **6 人工业用品商，主业无网络类目（只回过 1 次「价格」）→ 采购型 25% small，一页纸一次（STI-054GP / STI-144GP 配电柜 + STC-028GP；一口价 + MOQ 1）；再无回声 → 不动**
+  - 收件人 Hugo 直呼；发信窗口 Thu 12–14 CET；西语一句引子
+- 备注：采购型 25% small；一页纸一次；坐实（CIF + 管理人）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,16 +130,18 @@ updated: 2026-10-28
 - **【官网】经营范围为自动化与 condúctica，无网络设备线**
   > Suministros industriales MP4 es una empresa situada en Sabadell. Somos especialistas en todo tipo de soluciones industriales integrales. Disponemos de productos y servicios de las siguientes divisiones: automatización, y condúctica. - info@suministros-industriales.es - +34 93 590 94 12
   > 来源：https://suministros-industriales.es/（抓取 2026-10-21）
-- **KP**：Hugo Hernàndez（联系人（用户表））info@suministros-industriales.es +34 93 590 94 12〔Clients/S 09.08.xlsx〕
+- **KP**：Hugo Hernàndez（研究档 KP Hugo Hernàndez（曾 1 次回复）= 收件人（第 109 批 官方登记核实 2026-10-28））info@suministros-industriales.es +34 93 590 94 12〔Clients/S 09.08.xlsx〕
+- **KP**：Silvia Pascual Fernández（Administradora única（BORME 2025-06-19）= 拍板人（抄）（第 109 批 官方登记核实 2026-10-28）） 〔https://www.iberinform.es/empresa/1753516/suministros-industriales-mp4〕
 - **调研后定级**：B（原自动 A）——品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Suministros Industriales MP4, S.L. |
+| 法定名称 | SUMINISTROS INDUSTRIALES MP4 SL（CIF B63629968） |
+| 成立 | 2004-09-28（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Sabadell (Barcelona), España |
-| 其他 | 产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络类目；联系人 Hugo Hernàndez；S 重点名单，1 次回复，兴趣「价格」 |
+| 其他 | 产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络类目；联系人 Hugo Hernàndez；S 重点名单，1 次回复，兴趣「价格」；第 109 批：Sabadell 工业用品供应商（自动化 / 条导；6 人；股本 €3,460；主业无网络类目）→ **采购型 25% small，一页纸一次（STI 配电柜一口价）；再无回声 → 不动**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化元器件与机柜供应（MRO）；Condúctica（拖链、滑触线）
 - **触达通道（公开）**：网站: https://suministros-industriales.es/；联系人: Hugo Hernàndez（用户表）
@@ -228,7 +245,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hugo Hernàndez | 联系人（用户表） | info@suministros-industriales.es / +34 93 590 94 12 | 调研核实（公开页） | Clients/S 09.08.xlsx |
+| Hugo Hernàndez | 研究档 KP Hugo Hernàndez（曾 1 次回复）= 收件人（第 109 批 官方登记核实 2026-10-28） | info@suministros-industriales.es / +34 93 590 94 12 | 调研核实（公开页） | Clients/S 09.08.xlsx |
+| Silvia Pascual Fernández | Administradora única（BORME 2025-06-19）= 拍板人（抄）（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.iberinform.es/empresa/1753516/suministros-industriales-mp4 |
 
 - **通道建议**：企业邮箱可直发
 

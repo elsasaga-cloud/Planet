@@ -87,6 +87,20 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 109 批（IT · 1 次检索：ufficiocamerale（EL.SI. S.R.L.；P.IVA 01536710799；LOCALITA’ ZIGARI - VIA E. FERRARI 88900 CROTONE；Rea 118653；Iscrizione 18/10/1985；Fatturato € 3.990.302 2024；Dipendenti 16；Utile € -56.990；Capitale € 93.600）+ aziende.money.it（2025 fatturato € 3.914.124 −1,91 %；utile € 25.184；EBITDA € 217.133）+ fatturatoitalia（ATECO 46.47.3；16–19 dipendenti）+ atoka（Amministratore Unico），2026-10-28 查；https://www.ufficiocamerale.it/9607/elsi-srl）：**
+
+- 法定名 / 登记号：EL.SI. S.R.L.（elsi.it；克罗托内 Crotone Località Zigari, Via Enzo Ferrari, 88900；P.IVA / CF 01536710799；REA KR-118653）— 1985-10-18 登记的南意安防 / 自动化 / 能源管理区域分销商（Calabria / Basilicata / Puglia / Sicilia；Comfort / Sicurezza / Energia 三条线）；股本 €93,600；16 人；2025 营收 €3.91M（−1.9%）、净利 €25k（2024 −€57k）；ATECO 46.47.3；Amministratore Unico 未具名 · P.IVA / CF 01536710799；REA KR-118653 · 状态 **Active** · 成立 1985-10-18 · S.r.l.（私有；股本 €93,600）
+- 行业码 / 经营范围：安防 / 自动化门 / 能源管理 区域分销（ATECO 46.47.3）
+- 注册地址：Località Zigari, Via Enzo Ferrari, 88900 Crotone
+- 规模档：小型（16 人）
+- 账目：2025 营收 €3,914,124；净利 €25,184（2024 −€56,990）；—
+- 高管：（未具名）— Amministratore Unico（拍板人未取）；收件人 info@（点名 responsabile acquisti sicurezza）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **南意 16 人区域安防分销商（薄利、2024 亏损 → 需要毛利）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 配 CCTV 线；MOQ 1）；有回声再加厚**
+  - 表内未跟进 → 首触 info@；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（P.IVA + REA + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,10 +152,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | EL.SI. S.r.l.（P.IVA 01536710799） |
-| 成立 | 1985 |
+| 法定名称 | EL.SI. S.R.L.（P.IVA / CF 01536710799；REA KR-118653） |
+| 成立 | 1985-10-18（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Via Enzo Ferrari, Zona Industriale, 88900 Crotone (KR), Italy（+39 0962 930786；info@elsikr.it / customercare@elsikr.it） |
-| 其他 | 南意四区分销；ZKTeco 分销伙伴（2021）；Uniview 摄像头（用户记录） |
+| 其他 | 南意四区分销；ZKTeco 分销伙伴（2021）；Uniview 摄像头（用户记录）；第 109 批：Crotone 南意安防 / 自动化区域分销商（16 人；2025 营收 €3.91M、净利 €25k，2024 亏损；股本 €93,600；Amministratore Unico 未具名）→ **分销 20% small，一页纸一次（STC PoE 配 CCTV 线）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防（防盗、视频监控、消防）区域分销；自动化（门、闸、锁）与智能家居
 - **触达通道（公开）**：网站: https://www.elsikr.it/；电话: +39 0962 930786（公开）；邮箱（公开）: info@elsikr.it；Facebook: https://www.facebook.com/elsisrl.crotone/

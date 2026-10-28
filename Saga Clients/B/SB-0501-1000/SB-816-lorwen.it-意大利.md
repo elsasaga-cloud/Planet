@@ -72,6 +72,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（IT · 1 次检索：lorwen.it Condizioni / 页脚（LAPOTECH S.R.L.S.；Via Starzella 16 84087 Sarno (SA)；Partita IVA 05082330654；proprietaria del sito）+ Chi siamo（marchio LORWEN 2013；distribuito da Lapotech srl；design deciso in Italia）+ Contatti（LORWEN c/o Lapotech SRLS；Via Roma 60 Sarno；info@ / assistenza@lorwen.it；081 941283）+ eBay 卖家信息（Lapotech Srl；Via Prima Starzella 6 Sarno；IT 05082330654），2026-10-28 查；https://lorwen.it/chi-siamo/）：**
+
+- 法定名 / 登记号：LORWEN（品牌 2013 起；运营主体 LAPOTECH S.R.L.S.，P.IVA 05082330654；lorwen.it；萨莱诺 Sarno 法定 Via Starzella 16 / Via Prima Starzella 6，仓 Via Roma 60, 84087）— 自有品牌视频监控（LW- 系列 4K NVR / XVR、IP / AHD 摄像机、Wi-Fi 套件、5 口千兆 PoE 交换机、54 V 电源、PoE 分离器；「设计与元件在意大利决定」= 中国代工），经意大利多家经销商分销；表内「switch 看着像丰润达的」；表内无邮 · P.IVA 05082330654（LAPOTECH S.R.L.S.；REA 未取） · 状态 **Active** · 成立 品牌 2013 · S.r.l.s.（简易有限公司；小微）
+- 行业码 / 经营范围：自有品牌视频监控 + PoE 配件（中国代工；意大利经销网）
+- 注册地址：Via Starzella 16, 84087 Sarno (SA)（仓 Via Roma 60）
+- 规模档：小微
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@lorwen.it（点名 titolare / responsabile prodotto）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 LW- 已贴国产 PoE 交换机的小品牌商 → 贴标 OEM 30% 可谈（small），B，一页纸一次（STC-028GP / STC-228GP 对照其 5 口 PoE；只报 OEM 档）；有回声再加厚**
+  - 表内无邮 → 首触 info@；发信窗口 Thu 12–14 CET；意语一句引子；稿内不点名丰润达
+- 备注：贴标 30% 可谈 small；B；一页纸一次；坐实（P.IVA 站脚）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - € 87,54 ← 「Aggiungi alla lista dei desideri 9 Canali 4K Smart AI – 4 Porte POE – NVR € 87,54 Aggiungi al carrello Cod: LW-NVR4KT9C4P Aggiungi alla lista dei desi」（https://lorwen.it/categorie/nvr-network-video-recorder/nvr-con-poe-integrato-nvr-network-video-recorder/）
@@ -119,8 +133,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | LORWEN（品牌）— 运营主体 LAPOTECH S.R.L.S.（P.IVA 05082330654；Sarno (SA)） |
+| 成立 | 品牌 2013（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 lorwen.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 lorwen.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 109 批：萨莱诺自有品牌视频监控（LW- 系列 NVR / IPC / 5 口 PoE 交换机；中国代工；意大利经销网）→ **贴标 OEM 30% 可谈 small，B，一页纸一次（STC-028GP / STC-228GP 只报 OEM 档）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频监控网店（自有品牌 Lorwen NVR / 摄像机 / PoE）
 

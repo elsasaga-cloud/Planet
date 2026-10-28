@@ -75,6 +75,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（IT · 1 次检索：optoplast.org 新闻 2026-09-30（1° ottobre 2026 — acquisizione da parte di Optoconnect (rebrand di Optoplast) del ramo d’azienda di Unifibre；页脚 Optoplast Srl Via Onorato Vigliani 143-B 10127 Torino CF 05645630632 P.IVA 01220320665 REA TO-916276 Capitale 1.059.136）+ unifibre.it 首页（OPTOPLAST SRL P.IVA 01220320665；Copyright Unifibre S.r.l.）+ ufficiocamerale（OPTOPLAST S.R.L.；Fatturato € 20.667.242 2024；Dipendenti 109；Iscrizione 23/04/2007；ATECO 2731；Utile € 189.856）+ LinkedIn（fondata 1988；dal gennaio 2023 controllata da Star Capital；quattro stabilimenti；fatturato 2022 22 M€），2026-10-28 查；https://www.ufficiocamerale.it/6808/optoplast-spa）：**
+
+- 法定名 / 登记号：UNIFIBRE（unifibre.it 电商与品牌；业务分支 2026-10-01 起并入 OPTOPLAST S.R.L.（rebrand Optoconnect）；P.IVA 01220320665；CF 05645630632；REA TO-916276；都灵 Via Onorato Vigliani 143/B, 10127）— 1988 年起的意大利铜缆 / 光纤连接制造商（ISO 9001；4 个工厂；电信 / 广播 / 数据中心 / 工业 / 军工；2023-01 起由 Star Capital SGR 控股；2024 营收 €20.67M、净利 €190k；109 人；股本 €1,059,136）；Unifibre 有源类目 10 款工业交换机全为 PLANET · P.IVA 01220320665；CF 05645630632；REA TO-916276（OPTOPLAST S.R.L.；Unifibre S.r.l. 原主体 P.IVA 未取） · 状态 **Active（Unifibre 分支 2026-10-01 并入）** · 成立 1988（现主体登记 2007-04-23） · S.r.l.（Star Capital SGR 控股）
+- 行业码 / 经营范围：铜缆 / 光纤连接产品制造（ATECO 27.31）+ Unifibre 光纤增值分销电商
+- 注册地址：Via Onorato Vigliani 143/B, 10127 Torino
+- 规模档：中型（109 人；€20.7M）
+- 账目：2024 营收 €20,667,242；净利 €189,856；—
+- 高管：（未具名）— Unifibre 分支 responsabile commerciale / acquisti（收件人 info@unifibre.it 点名）
+- 高管：（未具名）— Optoplast / Optoconnect 管理层（拍板人未取）
+- 控制人 / 股东：Star Capital SGR（2023-01 起）
+- 曾用名：Optoplast S.p.A.；Unifibre S.r.l.（业务分支）
+- **这意味着什么：**
+  - **刚被 €20M 光纤制造集团收购的光纤增值分销分支（有源类目全是台系工业交换机）→ 分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE 一页纸 + STC-110XGE；切口 = 「并购后供应商重审」；稿内不点名 Planet；军工业务不碰
+  - 收件人 info@unifibre.it 点名 Unifibre 原团队；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20%；B BIG；加厚一次；坐实（收购方 P.IVA + 财务；Unifibre 原 P.IVA 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,9 +132,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Unifibre Srl（Optoplast Srl 承接业务） |
+| 法定名称 | UNIFIBRE（业务分支）— 2026-10-01 起并入 OPTOPLAST S.R.L.（rebrand Optoconnect；P.IVA 01220320665；CF 05645630632；REA TO-916276；Unifibre S.r.l. 原 P.IVA 未取） |
+| 成立 | 1988（Optoplast；现主体登记 2007-04-23）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Settimo Milanese (MI)（Via Luigi Galvani 36；Optoplast 总部 Torino）, 意大利 |
-| 其他 | Planet 渠道档案 PB-092（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否；最大未知：Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档 |
+| 其他 | Planet 渠道档案 PB-092（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否；最大未知：Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档；第 109 批：都灵光纤连接制造集团（2024 营收 €20.67M；109 人；Star Capital SGR 控股；4 厂）收购 Unifibre 光纤增值分销分支（有源类目全为台系）→ **分销 20%，B BIG，加厚一次（切口 = 并购后供应商重审）**；军工不碰（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌
 

@@ -74,6 +74,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（SE · 1 次检索：allabolag（Binär Teknik Scandinavia AB；Org.nr 559181-6201；Lugna Gatan 39 Malmö；Registreringsdatum 2018-11-26；0 anställda；Kirsten Anette Hansen Petersen）+ bolagsfakta（omsättning 1 277 KSEK 2025；resultat 393 KSEK；Styrelsesuppleant Peter Grubb Jensen；VAT SE559181620101）+ riksdelen（Svensk Binär Teknik AB 556517-3753；1996 起；leveranser från Køge）+ binarteknik.se Kontakta oss（Org. nr 559181-6201）+ krafman（现名 2019-01-24；aktiekapital 50 000），2026-10-28 查；https://www.allabolag.se/5591816201/binar-teknik-scandinavia-ab）：**
+
+- 法定名 / 登记号：Binär Teknik Scandinavia AB（binarteknik.se；马尔默 Lugna Gatan 39, 211 59；org.nr 559181-6201；VAT SE559181620101）— 2018-11-26 登记（2019-01-24 现名；前身 Svensk Binär Teknik AB 556517-3753，1995/1996 起）的丹麦 Danbit A/S 瑞典销售壳（0 雇员；发货与维修均在丹麦 Køge；2025 营收 SEK 1.28M、利润 SEK 393k）；董事 Kirsten Anette Hansen Petersen、替补 Peter Grubb Jensen（= Danbit 管理层）；表内「Antaira、Planet 的工业 FS / MC / SFP」 · Org.nr 559181-6201 · 状态 **Aktiv** · 成立 2018-11-26（前身 1995-09-25） · Aktiebolag（Danbit A/S 管理层持有；0 雇员）
+- 行业码 / 经营范围：工业电子 / 网络产品 分销（瑞典销售壳；库存在丹麦）
+- 注册地址：Lugna Gatan 39, 211 59 Malmö
+- 规模档：壳（0 雇员）
+- 账目：2025 营收 SEK 1,277k；利润 SEK 393k；—
+- 高管：Kirsten Anette Hansen Petersen — Styrelseledamot（Danbit 董事）
+- 高管：Peter Grubb Jensen — Styrelsesuppleant（= Danbit adm. direktør）
+- 控制人 / 股东：Danbit A/S 管理层
+- 曾用名：Svensk Binär Teknik AB（556517-3753）
+- **这意味着什么：**
+  - **丹麦 Danbit 的瑞典销售壳 → 并线 SB-1022 Danbit A/S（同一拍板人 Peter Grubb Jensen），不单独发**
+  - 发送包只走 SB-1022；此户 B 保留
+- 备注：坐实（org.nr）；并线 SB-1022。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,8 +129,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Binär Teknik Scandinavia AB（org.nr 559181-6201；VAT SE559181620101；前身 Svensk Binär Teknik AB 556517-3753） |
+| 成立 | 2018-11-26（前身 1995）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 瑞典 |
-| 其他 | 官网 binarteknik.se，语言 sv，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 binarteknik.se，语言 sv，快照状态 ok；角色判定来源：官网文案；第 109 批：马尔默销售壳（0 雇员；发货在丹麦 Køge；董事 = Danbit 管理层 Kirsten Anette Hansen Petersen / Peter Grubb Jensen）→ **并线 SB-1022 DANBIT A/S，不单独发**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业电子 / 网络 / PoE / 光纤 / 工业电脑 / 自动化分销
 - **触达通道（公开）**：role: 工业电子与自动化分销商（瑞典，Antaira/Planet 工业线）；region: 瑞典；contact: info@binarteknik.se

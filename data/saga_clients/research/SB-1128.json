@@ -1,208 +1,215 @@
 {
-  "code": "SB-1128",
-  "name_official": "LOSAN s.r.o.",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（losan.cz；并档 Planet 渠道档案 PB-096）",
-  "summary": "北波希米亚三店 IT 商，e-shop 上 PLANET 工业交换机带价带库存（IGS-10020MT 5 台可发）。类型：北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修。信号：eshop.losan.cz PLANET 商品页：IGS-10020MT 10 105 Kč（8 351 Kč bez DPH，K odeslání 5 ks，Záruka 60 měs.）、IGS-20040MT 19 229 Kč（15 891 bez DPH）、IGS-1020PTF-12V 10 596 Kč（8 757 bez DPH）、IGS-4215-4T2S 5 298 Kč（4 379 bez DPH，K odeslání 1 ks）；首次探针快照另见 IGS-4215-4P4T 10 438 Kč、IGS-1020PTF 8 024 Kč、GSD-1022UP、IGTP-815AT 3 403 Kč、「Bude skladem za 2 týdny」。Planet 渠道档案 PB-096 评级 B（需求：e-shop PLANET 工业交换机 ≥ 7 款带 CZK 净价 / 含税价 + 发货库存（IGS-10020MT K odeslání 5 ks、IGS-4215-4T2S 1 ks）+ 60 个月保修口径 → 工业交换机在售真实、有常备量；触达：门店 / 电商信箱 tp@losan.cz + 电话 +420 732 203 848 公开（已被 Elsa 账号群发 10 封 0 回复）；Ústí 店长 Daniel Gujda 姓名公开但邮箱 JS 保护未抄录 → 无具名邮箱；体量：三店区域 IT 商（IČO 64053580）→ 可赢 → B ★★（无具名决策人邮箱，不升 A））。并档说明：Saga 表内本条 SB-1128（捷克）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "PLANET"
-  ],
-  "evidence": [
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "IGS-10020MT 商品页：价 / 发货库存 / 保修",
-      "quote": "Switch PLANET IGS-10020MT Switch, průmyslový, 8x 10/100/1000, 2x 100/1000 SFP, management, -40 +75°C 10 105 Kč 8 351 Kč bez DPH Běžná cena: 10 887 Kč K odeslání: 5 ks Osobní odběr na pobočce: Teplice: Není skladem Ústí: Není skladem Kód: NAPPNT2006 PN: IGS-10020MT Záruka: 60 měs.",
-      "url": "https://eshop.losan.cz/cs/130468-switch-planet-igs-10020mt",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "IGS-20040MT 商品页",
-      "quote": "PLANET IGS-20040MT Switch, průmyslový, 16x RJ-45, 4x SFP, Web/SNMPv3, VLAN, IGMPv3, ESD, IPv4/IPv6, -40 až +75°C, DC9-48V, AC24V, IP30, DIN, fanless 19 229 Kč 15 891 Kč bez DPH Běžná cena: 20 716 Kč",
-      "url": "https://eshop.losan.cz/cs/130466-planet-igs-20040mt",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "IGS-1020PTF-12V 商品页",
-      "quote": "PLANET IGS-1020PTF-12V Switch, průmyslový, PoE, 8x RJ-45 GbE, 2x SFP, 8x PoE 802.3af/at, až 30W/port, 240W PoE budget, -40 až +75°C, DC12-56V, dual-power, DIN 10 596 Kč 8 757 Kč bez DPH",
-      "url": "https://eshop.losan.cz/cs/239723-planet-igs-1020ptf-12v",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "IGS-4215-4T2S 商品页：价 / 库存 / 厂商",
-      "quote": "PLANET IGS-4215-4T2S Switch, průmyslový, 4x GbE RJ-45, 2x 1G SFP, IP30, -40 až +75°C, ERPS Ring (ITU-T G.8032), DC 9-48V, AC 24V 5 298 Kč 4 379 Kč bez DPH Běžná cena: 5 708 Kč K odeslání: 1 ks … Kód: NETPLA2414 PN: IGS-4215-4T2S Záruka: 60 měs. Výrobce: PLANET Technology",
-      "url": "https://eshop.losan.cz/cs/268602-planet-igs-4215-4t2s",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "门店联络 / 法律实体（首次探针记录，片段复述）",
-      "quote": "LOSAN s.r.o. … IČO 64053580 … Březenecká 4808, Chomutov … Teplice, Alejní 2786 … tp@losan.cz … +420 732 203 848",
-      "url": "https://losan.cz/internet/kontakt",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "Ústí 门店与店长姓名（片段复述）",
-      "quote": "Ústí nad Labem … Vaníčkova 1112/27 … manažer prodejny Daniel Gujda",
-      "url": "https://losan.cz/usti-nad-labem/",
-      "date": "2026-10-20"
-    }
-  ],
-  "kp": [],
-  "grade_override": "B",
-  "override_reason": "Planet 渠道档案 PB-096 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-096，W 批次调研 2026-10-19/20）"
+ "code": "SB-1128",
+ "name_official": "LOSAN s.r.o.",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（losan.cz；并档 Planet 渠道档案 PB-096）",
+ "summary": "北波希米亚三店 IT 商，e-shop 上 PLANET 工业交换机带价带库存（IGS-10020MT 5 台可发）。类型：北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修。信号：eshop.losan.cz PLANET 商品页：IGS-10020MT 10 105 Kč（8 351 Kč bez DPH，K odeslání 5 ks，Záruka 60 měs.）、IGS-20040MT 19 229 Kč（15 891 bez DPH）、IGS-1020PTF-12V 10 596 Kč（8 757 bez DPH）、IGS-4215-4T2S 5 298 Kč（4 379 bez DPH，K odeslání 1 ks）；首次探针快照另见 IGS-4215-4P4T 10 438 Kč、IGS-1020PTF 8 024 Kč、GSD-1022UP、IGTP-815AT 3 403 Kč、「Bude skladem za 2 týdny」。Planet 渠道档案 PB-096 评级 B（需求：e-shop PLANET 工业交换机 ≥ 7 款带 CZK 净价 / 含税价 + 发货库存（IGS-10020MT K odeslání 5 ks、IGS-4215-4T2S 1 ks）+ 60 个月保修口径 → 工业交换机在售真实、有常备量；触达：门店 / 电商信箱 tp@losan.cz + 电话 +420 732 203 848 公开（已被 Elsa 账号群发 10 封 0 回复）；Ústí 店长 Daniel Gujda 姓名公开但邮箱 JS 保护未抄录 → 无具名邮箱；体量：三店区域 IT 商（IČO 64053580）→ 可赢 → B ★★（无具名决策人邮箱，不升 A））。并档说明：Saga 表内本条 SB-1128（捷克）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "IGS-10020MT 商品页：价 / 发货库存 / 保修",
+   "quote": "Switch PLANET IGS-10020MT Switch, průmyslový, 8x 10/100/1000, 2x 100/1000 SFP, management, -40 +75°C 10 105 Kč 8 351 Kč bez DPH Běžná cena: 10 887 Kč K odeslání: 5 ks Osobní odběr na pobočce: Teplice: Není skladem Ústí: Není skladem Kód: NAPPNT2006 PN: IGS-10020MT Záruka: 60 měs.",
+   "url": "https://eshop.losan.cz/cs/130468-switch-planet-igs-10020mt",
+   "date": "2026-10-20"
   },
-  "company_facts": {
-    "legal_name": "LOSAN s.r.o.",
-    "founded": "",
-    "hq": "Chomutov（Březenecká 4808, 430 04 Chomutov；门店 Teplice Alejní 2786 / Ústí nad Labem Vaníčkova 1112/27）, 捷克",
-    "size": "",
-    "other": "Planet 渠道档案 PB-096（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否；最大未知：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口径"
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "IGS-20040MT 商品页",
+   "quote": "PLANET IGS-20040MT Switch, průmyslový, 16x RJ-45, 4x SFP, Web/SNMPv3, VLAN, IGMPv3, ESD, IPv4/IPv6, -40 až +75°C, DC9-48V, AC24V, IP30, DIN, fanless 19 229 Kč 15 891 Kč bez DPH Běžná cena: 20 716 Kč",
+   "url": "https://eshop.losan.cz/cs/130466-planet-igs-20040mt",
+   "date": "2026-10-20"
   },
-  "business_lines": [
-    "北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修"
-  ],
-  "products_seen": [
-    {
-      "brand": "PLANET",
-      "model": "IGS-10020MT",
-      "spec": "工业 8×GE + 2×SFP 管理型 DIN（其库存款 8 351 Kč 净价）→ Saga 同口型 $68.2 USD EXW",
-      "saga": "STI-280GM",
-      "url": "https://losan.cz",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-20040MT",
-      "spec": "工业 16×GE + 4×SFP 管理型 → Saga 16×GE + 4×10G SFP+ 管理型 $269.1 USD EXW（上行为 10G，规格高一级，注明）",
-      "saga": "STI-2160XGGM",
-      "url": "https://losan.cz",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-1020PTF-12V",
-      "spec": "工业 8×GE PoE+ + 2×SFP 非管理（12 V 低压款）→ Saga STI-288GP $57.4 USD EXW（标准 48 V 输入；12 V 升压款另询，注明）",
-      "saga": "STI-288GP",
-      "url": "https://losan.cz",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-1020PTF",
-      "spec": "工业 8×GE PoE+ + 2×SFP 非管理 → Saga 同口型 $57.4 USD EXW",
-      "saga": "STI-288GP",
-      "url": "https://losan.cz",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-4215-4T2S",
-      "spec": "工业 4×GE + 2×SFP（其为管理型 ERPS）→ Saga STI-240GE 为非管理同口型 $28.0 USD EXW（管理型对位缺位，注明）",
-      "saga": "STI-240GE",
-      "url": "https://losan.cz",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGS-4215-4P4T",
-      "spec": "工业 4×GE PoE+ + 4×GE 管理型 → Saga 4×GE PoE++（2×bt）+ 2×SFP 管理型 $147.1 USD EXW（上行为 SFP 非电口，口型近似，注明）",
-      "saga": "STI-244DGGPM-2BT",
-      "url": "https://losan.cz",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GSD-1022UP",
-      "spec": "桌面 8×GE 802.3bt PoE + 2×SFP 非管理 → Saga 工业 STI-288GP（802.3at，非 bt，注明）$57.4 USD EXW",
-      "saga": "STI-288GP",
-      "url": "https://losan.cz",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGTP-815AT",
-      "spec": "工业 PoE 注入器：Saga 不供",
-      "saga": "—",
-      "url": "https://losan.cz",
-      "date": "2026-10-19"
-    }
-  ],
-  "channels": {
-    "role": "北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修",
-    "region": "捷克"
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "IGS-1020PTF-12V 商品页",
+   "quote": "PLANET IGS-1020PTF-12V Switch, průmyslový, PoE, 8x RJ-45 GbE, 2x SFP, 8x PoE 802.3af/at, až 30W/port, 240W PoE budget, -40 až +75°C, DC12-56V, dual-power, DIN 10 596 Kč 8 757 Kč bez DPH",
+   "url": "https://eshop.losan.cz/cs/239723-planet-igs-1020ptf-12v",
+   "date": "2026-10-20"
   },
-  "signals": [
-    "区域 IT 商把 PLANET 工业 DIN 交换机作为学校 / 机构项目的标配件在售且有发货库存（IGS-10020MT 5 ks）→ Saga STI 工业管理型同口型、Marvell 方案、中性包装 EXW，给其一个毛利更高的第二来源；捷克第 11 户，与 Lancomat（PA-018）/ ergate 系列同一群发名单"
-  ],
-  "risks": [
-    "PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口径"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GM",
-    "tier": 20,
-    "why": "其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求："
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "IGS-4215-4T2S 商品页：价 / 库存 / 厂商",
+   "quote": "PLANET IGS-4215-4T2S Switch, průmyslový, 4x GbE RJ-45, 2x 1G SFP, IP30, -40 až +75°C, ERPS Ring (ITU-T G.8032), DC 9-48V, AC 24V 5 298 Kč 4 379 Kč bez DPH Běžná cena: 5 708 Kč K odeslání: 1 ks … Kód: NETPLA2414 PN: IGS-4215-4T2S Záruka: 60 měs. Výrobce: PLANET Technology",
+   "url": "https://eshop.losan.cz/cs/268602-planet-igs-4215-4t2s",
+   "date": "2026-10-20"
   },
-  "email_hook": "Your e-shop keeps the PLANET IGS-10020MT in stock at 8 351 Kč net — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives that slot a second source with room for your own margin. For your school and institutional projects, is the 8-port Gigabit + 2×SFP managed class (IGS-10020MT) the unit you move most, or the 4-port IGS-4215-4T2S — so I send the matching sample first?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CZ 批次 To office@ergate.cz，0 回（第 73 批(o) Bcc 头核对 msg 1a04798efe1a50d8）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-28）无回；S/A 箱从未单独发过",
-      "revive": "不动（Q-33 供应商渠道客户）",
-      "lane": "捷克（欧洲全域主攻）",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；研究档 risks：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@ergate.cz）2025-04-12→2026-08-28 共 10 轮群发（Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、90W PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "北波希米亚三店 IT 商，e-shop 上 PLANET 工业交换机带价带库存（IGS-10020MT 5 台可发）。类型：北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修。信号：eshop.losan.cz PLANET 商品页：IGS-10020MT 10 105 Kč（8 351 Kč bez DPH，K odeslání 5 ks，Záruka 60 měs.）、IGS-20040MT 19 229 Kč（15 891 bez DPH）、IGS-1020PTF-12V 10 596 Kč（8 757 bez DPH）、IGS-4215-4T2S 5 298 Kč（4 379 bez D",
-    "need": "其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求：",
-    "breakpoint": "PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口径",
-    "saga_now": {
-      "p1": "STI-280GM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-28；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求：",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-04-12",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To office@ergate.cz，CZ 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 losan.cz, tp@losan.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-28",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To office@ergate.cz，CZ 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 losan.cz, tp@losan.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "门店联络 / 法律实体（首次探针记录，片段复述）",
+   "quote": "LOSAN s.r.o. … IČO 64053580 … Březenecká 4808, Chomutov … Teplice, Alejní 2786 … tp@losan.cz … +420 732 203 848",
+   "url": "https://losan.cz/internet/kontakt",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "Ústí 门店与店长姓名（片段复述）",
+   "quote": "Ústí nad Labem … Vaníčkova 1112/27 … manažer prodejny Daniel Gujda",
+   "url": "https://losan.cz/usti-nad-labem/",
+   "date": "2026-10-20"
   }
+ ],
+ "kp": [
+  {
+   "name": "Jan Stehno",
+   "role": "Jednatel / 股东（fakturujzdarma；2023-02-02 起；另 Pavel Zwinger）= 拍板人 / 收件人（点名）（第 109 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://rejstrik.penize.cz/64053580-losan-s-r-o"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "Planet 渠道档案 PB-096 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-096，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "LOSAN s.r.o.（IČO 64053580；DIČ CZ64053580；KS Ústí nad Labem C 10071）",
+  "founded": "1995-12-18（第 109 批 官方登记核实 2026-10-28）",
+  "hq": "Chomutov（Březenecká 4808, 430 04 Chomutov；门店 Teplice Alejní 2786 / Ústí nad Labem Vaníčkova 1112/27）, 捷克",
+  "size": "",
+  "other": "Planet 渠道档案 PB-096（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否；最大未知：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口径；第 109 批：Chomutov 三店区域 IT 零售 / 电商 / 学校 IT 供应商（10–19 人；e-shop 备库台系工业交换机）→ **分销 20% small，一页纸一次（STI-288DGGPM / STI-0240GE 对照在库型号）**（第 109 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "IGS-10020MT",
+   "spec": "工业 8×GE + 2×SFP 管理型 DIN（其库存款 8 351 Kč 净价）→ Saga 同口型 $68.2 USD EXW",
+   "saga": "STI-280GM",
+   "url": "https://losan.cz",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-20040MT",
+   "spec": "工业 16×GE + 4×SFP 管理型 → Saga 16×GE + 4×10G SFP+ 管理型 $269.1 USD EXW（上行为 10G，规格高一级，注明）",
+   "saga": "STI-2160XGGM",
+   "url": "https://losan.cz",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-1020PTF-12V",
+   "spec": "工业 8×GE PoE+ + 2×SFP 非管理（12 V 低压款）→ Saga STI-288GP $57.4 USD EXW（标准 48 V 输入；12 V 升压款另询，注明）",
+   "saga": "STI-288GP",
+   "url": "https://losan.cz",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-1020PTF",
+   "spec": "工业 8×GE PoE+ + 2×SFP 非管理 → Saga 同口型 $57.4 USD EXW",
+   "saga": "STI-288GP",
+   "url": "https://losan.cz",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-4215-4T2S",
+   "spec": "工业 4×GE + 2×SFP（其为管理型 ERPS）→ Saga STI-240GE 为非管理同口型 $28.0 USD EXW（管理型对位缺位，注明）",
+   "saga": "STI-240GE",
+   "url": "https://losan.cz",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-4215-4P4T",
+   "spec": "工业 4×GE PoE+ + 4×GE 管理型 → Saga 4×GE PoE++（2×bt）+ 2×SFP 管理型 $147.1 USD EXW（上行为 SFP 非电口，口型近似，注明）",
+   "saga": "STI-244DGGPM-2BT",
+   "url": "https://losan.cz",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GSD-1022UP",
+   "spec": "桌面 8×GE 802.3bt PoE + 2×SFP 非管理 → Saga 工业 STI-288GP（802.3at，非 bt，注明）$57.4 USD EXW",
+   "saga": "STI-288GP",
+   "url": "https://losan.cz",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGTP-815AT",
+   "spec": "工业 PoE 注入器：Saga 不供",
+   "saga": "—",
+   "url": "https://losan.cz",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修",
+  "region": "捷克"
+ },
+ "signals": [
+  "区域 IT 商把 PLANET 工业 DIN 交换机作为学校 / 机构项目的标配件在售且有发货库存（IGS-10020MT 5 ks）→ Saga STI 工业管理型同口型、Marvell 方案、中性包装 EXW，给其一个毛利更高的第二来源；捷克第 11 户，与 Lancomat（PA-018）/ ergate 系列同一群发名单"
+ ],
+ "risks": [
+  "PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口径"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GM",
+  "tier": 20,
+  "why": "其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求："
+ },
+ "email_hook": "Your e-shop keeps the PLANET IGS-10020MT in stock at 8 351 Kč net — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives that slot a second source with room for your own margin. For your school and institutional projects, is the 8-port Gigabit + 2×SFP managed class (IGS-10020MT) the unit you move most, or the 4-port IGS-4215-4T2S — so I send the matching sample first?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CZ 批次 To office@ergate.cz，0 回（第 73 批(o) Bcc 头核对 msg 1a04798efe1a50d8）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-28）无回；S/A 箱从未单独发过",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；研究档 risks：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@ergate.cz）2025-04-12→2026-08-28 共 10 轮群发（Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、90W PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+  },
+  "situation": "北波希米亚三店 IT 商，e-shop 上 PLANET 工业交换机带价带库存（IGS-10020MT 5 台可发）。类型：北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修。信号：eshop.losan.cz PLANET 商品页：IGS-10020MT 10 105 Kč（8 351 Kč bez DPH，K odeslání 5 ks，Záruka 60 měs.）、IGS-20040MT 19 229 Kč（15 891 bez DPH）、IGS-1020PTF-12V 10 596 Kč（8 757 bez DPH）、IGS-4215-4T2S 5 298 Kč（4 379 bez D",
+  "need": "其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求：",
+  "breakpoint": "PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口径",
+  "saga_now": {
+   "p1": "STI-280GM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-28；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-04-12",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To office@ergate.cz，CZ 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 losan.cz, tp@losan.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-28",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To office@ergate.cz，CZ 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 losan.cz, tp@losan.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

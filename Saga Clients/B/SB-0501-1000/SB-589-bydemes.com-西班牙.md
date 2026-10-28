@@ -75,6 +75,23 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 109 批（ES · 1 次检索：empresia（BY DEMES SL；CIF B60347010；CNAE 4643）+ einforma（132 empleados 2025；5 administradores）+ infocif（Administrador único LAST ROUND HOLDING SL；auditor ADADE）+ electrico.info（Administrador delegado Rubi Rio Ricardo；Director de compras / exportaciones Guzzi Maria Gracia；Director comercial Adrian Alvarez Marcelo）+ bydemes.com/en/company（San Fructuoso 50-56 08004 Barcelona；Coslada Madrid；almacén Hospitalet）+ aecoctrade（marcas propias AIRSPACE y CCTVDIRECT；6.500 referencias 40 marcas；HYUNDAI exclusiva）+ theorg（7,500 customers since 1985），2026-10-28 查；https://www.einforma.com/informacion-empresa/by-demes）：**
+
+- 法定名 / 登记号：BY DEMES SL（By Demes Group；bydemes.com；巴塞罗那 C/ San Fructuoso 50-56, 08004（马德里 Coslada Av. de la Industria 25, 28823；仓 L’Hospitalet）；CIF B60347010）— 1985 年起的伊比利亚头部电子安防分销商（CCTV / 对讲 / 门禁 / 入侵 / 消防 / 网络 / IoT；40+ 品牌 6,500 SKU；**自有品牌 AIRSPACE / CCTVDIRECT**；Hyundai 独家；7,500 客户 欧洲 / 非洲 / 中东；在售 Wi-Tek / Cudy 交换机）；132 人（2025）；Administrador único LAST ROUND HOLDING SL；Managing Director Ricardo Rubi Rio（= 研究档 KP）；采购 / 出口总监 María Gracia Guzzi；KP Liana Barragan · CIF B60347010 · 状态 **Activa** · 成立 1985 · S.L.（LAST ROUND HOLDING SL 管理）
+- 行业码 / 经营范围：电子安防产品分销（伊比利亚 #1；CNAE 4643 / 4652）+ 自有品牌
+- 注册地址：C/ San Fructuoso 50-56, 08004 Barcelona
+- 规模档：中型（132 人）
+- 账目：—（2024 年报已存；审计 ADADE）；—
+- 高管：Ricardo Rubi Rio — Managing Director（研究档 KP Ricardo Rubi）= 拍板人
+- 高管：María Gracia Guzzi — Directora de compras / exportaciones = 收件人
+- 高管：Liana Barragan — 研究档 KP（抄）
+- 高管：Adrián Álvarez Marcelo — Director comercial
+- 控制人 / 股东：LAST ROUND HOLDING SL
+- **这意味着什么：**
+  - **132 人、自有品牌 AIRSPACE / CCTVDIRECT 的伊比利亚头部安防分销商（在售国产 Wi-Tek / Cudy）→ 贴标 OEM 30% 正中目标，B BIG，加厚一次；有回声即升 A 候选**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 1:1 对照 Wi-Tek 在售型号 + STI-054GP；只报 OEM 档；稿内不点名 Wi-Tek / Cudy / Hyundai
+  - 收件人 compras（María Gracia Guzzi）+ Ricardo（抄）；发信窗口 Thu 12–14 CET；西语一句引子
+- 备注：贴标 30% 目标；B BIG；加厚一次；升 A 候选（回信即 A）；坐实（CIF + 管理结构）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,16 +125,19 @@ updated: 2026-10-28
 - **【用户表】Wi-Tek 工商业 switch；Dahua/Cudy**
   > Wi-tek的工商业swith 也有大华 的 / Cudy的；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ricardo Rubi（）bydemes@bydemes.com 〔用户表〕
-- **KP**：Liana Barragan（） 〔用户表〕
+- **KP**：Ricardo Rubi（Managing Director / Administrador delegado（electrico.info 口径 Rubi Rio Ricardo；Administrador único = LAST ROUND HOLDING SL）= 拍板人（第 109 批 官方登记核实 2026-10-28））bydemes@bydemes.com 〔用户表〕
+- **KP**：Liana Barragan（研究档 KP = 收件人（抄）（第 109 批 官方登记核实 2026-10-28）） 〔用户表〕
+- **KP**：María Gracia Guzzi（Directora de compras / exportaciones（electrico.info）= 收件人（compras 点名）（第 109 批 官方登记核实 2026-10-28）） 〔https://www.electrico.info/empresa-demes-en-barcelona-32739〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | BY DEMES SL（By Demes Group；CIF B60347010） |
+| 成立 | 1985（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 西班牙 |
-| 其他 | 官网 bydemes.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+| 其他 | 官网 bydemes.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述；第 109 批：巴塞罗那 + Coslada 伊比利亚 #1 电子安防分销商（132 人；40+ 品牌 6,500 SKU；自有品牌 AIRSPACE / CCTVDIRECT；Hyundai 独家；在售 Wi-Tek / Cudy）→ **贴标 OEM 30% 正中目标，B BIG，加厚一次；回信即升 A**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防技术分销（CCTV / 报警 / 门禁 / 消防 / 网络）
 - **触达通道（公开）**：role: 安防头部分销商（西班牙，Wi-Tek/Cudy 预算线在售；体量大）；region: 西班牙；contact: bydemes@bydemes.com、almacenbcn@bydemes.com
@@ -215,8 +235,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ricardo Rubi | — | bydemes@bydemes.com | 调研核实（公开页） | 用户表 |
-| Liana Barragan | — | — | 调研核实（公开页） | 用户表 |
+| Ricardo Rubi | Managing Director / Administrador delegado（electrico.info 口径 Rubi Rio Ricardo；Administrador único = LAST ROUND HOLDING SL）= 拍板人（第 109 批 官方登记核实 2026-10-28） | bydemes@bydemes.com | 调研核实（公开页） | 用户表 |
+| Liana Barragan | 研究档 KP = 收件人（抄）（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
+| María Gracia Guzzi | Directora de compras / exportaciones（electrico.info）= 收件人（compras 点名）（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.electrico.info/empresa-demes-en-barcelona-32739 |
 
 - **通道建议**：企业邮箱可直发
 

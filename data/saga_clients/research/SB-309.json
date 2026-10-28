@@ -47,14 +47,16 @@
    "title": "（表内联系人）",
    "email": "reif@alternetivo.cz",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "股东（detail.cz：Valenta / Dolák / Reif）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Milan Krátký",
    "title": "（表内联系人）",
    "email": "kratky@alternetivo.cz",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（产品 / 采购）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -66,7 +68,9 @@
  },
  "company_facts": {
   "hq": "捷克",
-  "other": "官网 alternetivo.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 alternetivo.cz，语言 cs，快照状态 ok；角色判定来源：用户表；第 109 批：布拉格网络与电信 VAD（CZ + SK；ChannelWorld 年度 VAD 2017 / 2018 / 2021；jednatelé Ondřej Valenta / Radim Dolák；**自有品牌 NNET 工业非管理 PoE**）→ **贴标 OEM 30% 可谈 + 分销 20%，B BIG，加厚一次（STI 1:1 对照 NNET）**；次候选升 A（第 109 批 官方登记核实 2026-10-28）",
+  "legal_name": "Alternetivo s.r.o.（IČO 25098314；DIČ CZ25098314；MS Praha C 49492）",
+  "founded": "1996/1997（第 109 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT 分销（交换路由 / 无线光网 / 布线 / 安全 / IP 监控）"

@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 109 批（IT · 1 次检索：adj.it 页脚（© 2025 ADJ；P.IVA e CF 04446661219；I prodotti ADJ sono Importati e distribuiti da IoT Tecnologie s.r.l.；info@adj.it）+ Chi siamo（nasce nel 2006；partner produttivi in Cina；100+ ADJ Zone；70+ rivenditori in Belgio）+ LinkedIn（11–50；San Cesareo；2006）+ Trustpilot（via della Faeta 1 00030 San Cesareo），2026-10-28 查；https://www.adj.it/chi-siamo/）：**
+
+- 法定名 / 登记号：ADJ（品牌；进口与分销主体 IoT Tecnologie s.r.l.，P.IVA / CF 04446661219；adj.it；罗马 San Cesareo Via della Faeta 1, 00030）— 2006 年起的意大利 IT / 电子自有品牌（PC、笔记本、一体机、耳机、UPS、外设、扩展坞；「设计在意大利、与中国合作厂生产」；意大利 100+ ADJ Zone、比利时 70+ 经销；表内「商业 PoE」「质量一般」）；11–50 人；表内未跟进 · P.IVA / CF 04446661219（IoT Tecnologie s.r.l.；REA 未取） · 状态 **Active** · 成立 品牌 2006 · S.r.l.（品牌运营主体 IoT Tecnologie s.r.l.）
+- 行业码 / 经营范围：IT / 消费电子 自有品牌进口分销（中国代工）
+- 注册地址：Via della Faeta 1, 00030 San Cesareo (RM)
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@adj.it（点名 product manager networking / ufficio acquisti）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已在中国代工自有品牌的意大利 IT 品牌（目录有商用 PoE）→ 贴标 OEM 30% 可谈（ADJ 标 PoE / 桌面交换机），B，一页纸一次（OEM 切口：STC-028GP / STC-228GP / STC-2224GP）；有回声再加厚**；只报 OEM 档
+  - 表内未跟进 → 首触；发信窗口 Thu 12–14 CET；意语一句引子；稿内不点名其现有代工厂
+- 备注：贴标 30% 可谈；B；一页纸一次；坐实（P.IVA 站脚 + 运营主体）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,8 +129,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ADJ（品牌）— 进口分销主体 IoT Tecnologie s.r.l.（P.IVA / CF 04446661219；adj.it 页脚） |
+| 成立 | 品牌 2006（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 adj.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 adj.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 109 批：罗马 San Cesareo 意大利 IT / 电子自有品牌（设计在意大利、中国合作厂生产；100+ ADJ Zone + 比利时 70 经销；11–50 人）→ **贴标 OEM 30% 可谈，B，一页纸一次（OEM 切口 STC-028GP / STC-228GP / STC-2224GP）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 消费电子品牌（ADJ）
 - **触达通道（公开）**：role: 意大利 IT 消费/办公品牌（自有标，PoE 为边缘品类）；region: 意大利；contact: info@adj.it

@@ -39,7 +39,20 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Daniel Guez",
+   "role": "Président（pappers；2025-09 起，此前 Président du directoire 2004 起；1966 年生）= 拍板人（不直接发）（第 109 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.pappers.fr/entreprise/equipements-scientifiques-353579634"
+  },
+  {
+   "name": "Laurent Guez",
+   "role": "Directeur général（pappers；2004 起；1972 年生）— 仅记录；收件人 = chef de produit réseaux via contact@es-france.com（第 109 批 官方登记核实 2026-10-28）",
+   "email": "contact@es-france.com",
+   "source": "https://www.pappers.fr/entreprise/equipements-scientifiques-353579634"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -49,7 +62,9 @@
  },
  "company_facts": {
   "hq": "法国",
-  "other": "官网 es-france.com，语言 fr-fr，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 es-france.com，语言 fr-fr，快照状态 ok；角色判定来源：官网文案；第 109 批：Garches 四部门增值分销商（2025 营业额 €101.5M；101 人；ISO 9001；站内 ORing 工业线；Guez 家族；2 次群发无回）→ **分销 20%，B BIG，加厚一次（换切口：ORing 第二价位 + 付费借测）**（第 109 批 官方登记核实 2026-10-28）",
+  "legal_name": "EQUIPEMENTS SCIENTIFIQUES（ES France；SIREN 353 579 634；SIRET 35357963400018；SAS 自 2025-09）",
+  "founded": "1990-01-26（活动 1963）（第 109 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "元器件 / 仪器 / IT 与网络增值分销"

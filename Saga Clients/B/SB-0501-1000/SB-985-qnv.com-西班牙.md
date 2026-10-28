@@ -87,6 +87,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 109 批（ES · 1 次检索：axesor（Qnv sl；CIF B60574779；constitución 16/05/1994；CALLE TALLADOR 37 RECINTO IND. COLONIA GUELL 08690 SANTA COLOMA DE CERVELLO；CNAE 4690；objeto importación y distribución de componentes informáticos para la industria）+ empresite（15 trabajadores 2026）+ einforma（Capital 21.000 €；órgano de administración 3 miembros 20/07/2026；BORME 27/07/2026 nombramientos）+ iberinform（marca QNV SOLUTIONS）+ qnv.com（desde 1994；Adlink, Korenix y Cincoze；delegaciones Barcelona / Madrid / Bizkaia / Portugal）+ LinkedIn（11–50），2026-10-28 查；https://www.axesor.es/Informes-Empresas/723108/QNV_SL.html）：**
+
+- 法定名 / 登记号：QNV SL（品牌 QNV Solutions；qnv.com；巴塞罗那 Santa Coloma de Cervelló Carrer Tallador 37, Recinto Industrial Colònia Güell, 08690；CIF B60574779）— 1994-05-16 成立的工业计算 / 数据采集 / 工业通信 / 机器视觉 / 边缘 AI 分销与方案商（Adlink、Korenix、Cincoze 等；工业以太网交换机管理 / 非管理类目；分部 Madrid / Bizkaia / Portugal）；股本 €21,000；15 人（2026）；3 名 administradores solidarios（未具名）；KP Roberto Cordeiro；群发 15 次无回复 · CIF B60574779 · 状态 **Activa** · 成立 1994-05-16 · S.L.（3 名连带管理人）
+- 行业码 / 经营范围：工业计算 / 工业通信 / 机器视觉 分销与方案（CNAE 4690）
+- 注册地址：Carrer Tallador 37, Recinto Industrial Colònia Güell, 08690 Santa Coloma de Cervelló (Barcelona)
+- 规模档：小型（15 人）
+- 账目：—；—
+- 高管：Roberto Cordeiro — 研究档 KP（r.cordeiro@ / ventas）= 收件人
+- 高管：（未具名）— administradores solidarios ×3（拍板人未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **卖 Korenix 的 15 人工业计算分销商（15 次群发无回）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作 Korenix JetNet 第二价位；换切口 = 交期 + 价差）；再无回声 → 不动**；稿内不点名 Korenix
+  - 收件人 Roberto 直呼；发信窗口 Thu 12–14 CET；西语一句引子
+- 备注：分销 20% small；一页纸一次（换切口）；坐实（CIF + 成立日）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,16 +128,17 @@ updated: 2026-10-28
 - **【用户表】MC 工业 POE FS 串口 工业电源；质量高 Roberto**
   > 兴趣：MC 工业POE FS 串口 工业电源
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Roberto Cordeiro（）roberto.cordeiro@qnv.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Roberto Cordeiro（研究档 KP（qnv.com）= 收件人；administradores solidarios ×3 未具名（第 109 批 官方登记核实 2026-10-28））roberto.cordeiro@qnv.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | QNV S.L.（待核） |
+| 法定名称 | QNV SL（品牌 QNV Solutions；CIF B60574779） |
+| 成立 | 1994-05-16（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Spain |
-| 其他 | Korenix（台系 Beijer）工业线在售 |
+| 其他 | Korenix（台系 Beijer）工业线在售；第 109 批：Santa Coloma de Cervelló 工业计算 / 工业通信 / 机器视觉分销（Adlink / Korenix / Cincoze；15 人；分部 Madrid / Bizkaia / Portugal；15 次群发无回）→ **分销 20% small，一页纸一次（换切口：STI 作 Korenix 第二价位 + 交期）；再无回声 → 不动**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业计算 / 通信 / 视觉方案
 - **触达通道（公开）**：role: 工业方案分销商；region: 西班牙
@@ -224,7 +240,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Roberto Cordeiro | — | roberto.cordeiro@qnv.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Roberto Cordeiro | 研究档 KP（qnv.com）= 收件人；administradores solidarios ×3 未具名（第 109 批 官方登记核实 2026-10-28） | roberto.cordeiro@qnv.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

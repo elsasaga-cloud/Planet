@@ -71,6 +71,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（FR · 1 次检索：pappers（IFOTEC；SIREN 421 531 708；ZAC DE CHAMPFEUILLET 8 ROUTE DES BOIS 38500 VOIRON；Fabrication d’équipements de communication；Effectif 20–49 2022；Création 02/01/1999；BILLET Gilles Président；BILLET Yves-Gael DG；LEI）+ societe.com（capital 113 335 €；NAF 2630Z；Président Gilles BILLET né 1953；DG Yves-Gaël BILLET né 1983）+ ifotec.com（INet6X entièrement conçu et fabriqué dans notre usine à Voiron；INet4+ PoE managed），2026-10-28 查；https://www.pappers.fr/entreprise/ifotec-421531708）：**
+
+- 法定名 / 登记号：IFOTEC SAS（ifotec.com；伊泽尔 Voiron ZAC de Champfeuillet, 8 route des Bois, 38500；SIREN 421 531 708；TVA FR25421531708；LEI 969500A8ZSNBM6U30P48）— 1999-01-02 成立的光纤信号传输设备**制造商**（INet 系列安全工业交换机 INet4+ / INet6 / INet6X 10G，「entièrement conçu et fabriqué dans notre usine à Voiron」= 法国自产；街道机柜 / 关键基础设施网络安全）；股本 €113,335；20–49 人；Président Gilles Billet（1953 年生）、DG Yves-Gaël Billet（1983 年生，家族）；研究档 KP G. Billet（gbillet@）；表内「工业」 · SIREN 421 531 708；TVA FR25421531708 · 状态 **Active** · 成立 1999-01-02 · SAS（Billet 家族；股本 €113,335）
+- 行业码 / 经营范围：光纤信号传输 / 安全工业交换机 制造（法国自产；NAF 26.30Z）
+- 注册地址：ZAC de Champfeuillet, 8 route des Bois, 38500 Voiron
+- 规模档：小型（20–49 人）
+- 账目：—；—
+- 高管：Gilles Billet — Président / 创始人（研究档 KP gbillet@）
+- 高管：Yves-Gaël Billet — Directeur général（2024 起；家族）
+- 控制人 / 股东：Billet 家族
+- **这意味着什么：**
+  - **自研自产工业交换机的法国厂（Made in France 为卖点）= 同行制造商 → 不动**
+  - 若日后出现「低价商用线 / 配件」询盘再按 OEM 30% 对待
+- 备注：坐实（SIREN）；同行制造商 → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,15 +118,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS SFP；质量不错**
   > 工业FS SFP；质量不错
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：G. Billet（）gbillet@ifotec.com 〔用户表〕
+- **KP**：Gilles Billet（Président / 创始人（pappers；1953 年生；DG = Yves-Gaël Billet）— 同行制造商 → 不动（第 109 批 官方登记核实 2026-10-28））gbillet@ifotec.com 〔用户表〕
+- **KP**：Yves-Gaël Billet（Directeur général（pappers；2024 起；家族）— 仅记录（第 109 批 官方登记核实 2026-10-28）） 〔https://www.pappers.fr/entreprise/ifotec-421531708〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | IFOTEC SAS（SIREN 421 531 708；TVA FR25421531708） |
+| 成立 | 1999-01-02（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 法国 |
-| 其他 | 官网 ifotec.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 ifotec.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案；第 109 批：Voiron 光纤传输 / 安全工业交换机制造商（INet 系列「entièrement conçu et fabriqué dans notre usine à Voiron」；20–49 人；股本 €113,335）→ **同行制造商 → 不动**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤信号传输设备（自有品牌 IFOTEC）；工业 PoE 交换机（INET 系列）
 
@@ -214,7 +232,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| G. Billet | — | gbillet@ifotec.com | 调研核实（公开页） | 用户表 |
+| Gilles Billet | Président / 创始人（pappers；1953 年生；DG = Yves-Gaël Billet）— 同行制造商 → 不动（第 109 批 官方登记核实 2026-10-28） | gbillet@ifotec.com | 调研核实（公开页） | 用户表 |
+| Yves-Gaël Billet | Directeur général（pappers；2024 起；家族）— 仅记录（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.pappers.fr/entreprise/ifotec-421531708 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -282,7 +301,7 @@ updated: 2026-10-28
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Gilles,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the INET industrial PoE switch range, we can serve as a second ODM source (DIN-rail 4-PoE and 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — is there a model in the range you currently source from a single supplier?
 

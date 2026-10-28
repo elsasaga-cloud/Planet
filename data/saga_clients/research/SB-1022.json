@@ -1,262 +1,269 @@
 {
-  "code": "SB-1022",
-  "name_official": "Danbit A/S (Dansk Binær Teknik A/S)",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（danbit.dk；并档 Planet 渠道档案 PB-089）",
-  "summary": "丹麦 Køge 一家 1970 年起的工业 IT 分销商（瑞典有姊妹公司 Binär Teknik），把 PLANET 工业 PoE 管理交换机换上自家 ESW 货号卖，是典型的贴牌买家。类型：工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）。信号：danbit.dk：PLANET IFT-802T 媒体转换器、PLANET POE-171S 分离器、Planet TDS-712 串口服务器、Planet IVS-H125P / IVS-2120 视频服务器（EOL）、CNV-SFP2.5G「designed to work with Planet products」、MGB SFP「可装于 PLANET Switch 产品」；binarteknik.se（同目录）：ESW8G-M-SFP2-PWM 4,462 SEK「industriell väggmonterad PoE Managed Switch med LCD-pekskärm med PLANET intelligenta PoE-funktioner」、ESW8G-M-SFP2 8,770 SEK「Industrial 8-Port Gigabit 802.3at PoE+ Switch … IP30 … <50 ms」、PLANET ICS-2105A / TDS-715。Planet 渠道档案 PB-089 评级 B（需求：PLANET 多类目在售（媒体转换器 / 串口服务器 / PoE 分离器 / SFP 兼容说明）+ 自编货号 ESW 系列工业 PoE 管理交换机文案含「PLANET 智能 PoE 功能」且「Fysiskt i lager」→ 工业交换机进货真实、贴牌习惯明确；触达：salg@danbit.dk + +45 56 66 20 20、Binär Teknik info@binarteknik.se 公开，无具名 KP；体量：1970 年起私营，6,000+ 产品，子公司于 PGJ Investments ApS，丹麦 + 瑞典 + 挪威 → 可赢；Gmail：Elsa 账号 2025-02-17 → 2026-08-13 以 BCC 群发 10 封（salg@danbit.dk / info@binarteknik.se），0 回复 → 非首触、通用通道疲劳；Mikrotik 仓无此户 → B ★★（贴牌买家画像强，无具名 KP + 群发疲劳不到 A））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1022，丹麦，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "PLANET"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "公司历史 / 体量 / 瑞典挪威分支",
-      "quote": "Dansk Binary Technology A/S or DANBIT in daily talk is a Danish privately owned technology supplier, who has been the preferred supplier of specialty products since 1970 … Today, DANBIT is a supplier of more than 6,000 special products … Imported mainly from Taiwan, Hong Kong, China, Korea, Japan, USA … In 1996, DANBIT expanded its activities and established a Swedish branch in Helsingborg. It is now an independent company - Binär Teknik AB. In 1997, DANBIT opened a branch in Oslo, Norway.",
-      "url": "https://danbit.dk/en/content/4-about-us",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "第三方（品牌经销商页）",
-      "claim": "地址 / 电话 / 邮箱",
-      "quote": "DANBIT A/S Værkstedsvej 39-41 4600 Køge Danmark Telefonnr. +45 56 66 20 20 E-mail: salg@danbit.dk",
-      "url": "https://www.iqtronic.com/where-to-buy/danbit/",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "瑞典姊妹公司联系方式",
-      "quote": "Binär Teknik AB Lugna Gaten 39 211 59 Malmö Sverige Ring oss: 042 14 10 85 Org. nr.: 559181-6201",
-      "url": "https://www.danbit.dk/en/contact-us",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "自编货号工业 PoE 管理交换机文案含 PLANET",
-      "quote": "8 portar Managed switch 8 x 10/100/1000Mbit RJ45. Fiber 2 x 100/1000Mbit SFP-kortplats, PoE+, Väggmonterbar, magneter, 48-57VDC … 4 462,00 SEK Fysiskt i lager Artikelnummer ESW8G-M-SFP2-PWM … ESW8G-M-SFP2-PWM är en industriell väggmonterad PoE Managed Switch med LCD-pekskärm med PLANET intelligenta PoE-funktioner",
-      "url": "https://binarteknik.se/sv/naetverksvaexlar/21308-8-portar-managed-switch-8-x-101001000mbit-rj45-fiber-2-x-1001000mbit-sfp-kortplats-poe-vaggmonterbar-magneter-48-57vdc.html",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "自编货号工业 8×GE PoE+ 管理 DIN 款（IGS-10020HPT 文案）",
-      "quote": "Referens: ESW8G-M-SFP2 8 770 SEK … ESW8G-M-SFP2 Industrial 8-Port Gigabit 802.3at PoE + Switch, är utrustad med robust IP30 metallhölje … felåterställningstiderna vara mindre än 50 ms … 48-55VDC / 5AMP (240W)",
-      "url": "https://binarteknik.se/sv/poe-power-over-ethernet/16996-8-portar-managed-switch-8-x-1001000mbit-rj45-fiber-2-x-10010002500-mbit-sfp-kortplats-poe-40-75c-12-48vdc.html",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "丹麦站同款（同目录）",
-      "quote": "8 ports Managed switch 8 x 10/100/1000Mbit RJ45. Fiber 2 x 100/1000Mbit SFP slot, PoE+, Vægmonteres, magneter, 48-57VDC … Op til 36 watt for hver PoE-port Total PoE effekt er 240Watt",
-      "url": "https://www.danbit.dk/da/switche/21308-8-ports-managed-switch-8-x-101001000mbit-rj45-fiber-2-x-1001000mbit-sfp-slot-poe-vaegmonteres-magneter-48-57vdc.html",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "PLANET 工业媒体转换器类目",
-      "quote": "Industriel - for DIN … PLANET IFT-802T Media Converter RJ45 to fiber, RJ45 10 / 100Mbit, 100Mbit fiber Multimode, SC",
-      "url": "https://danbit.dk/en/45-industriel-for-din",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "PLANET PoE 分离器 / SFP 兼容说明",
-      "quote": "PLANET 1 port PoE-171S splitterx50 Watt. Gigabit. Output voltage 12VDC,19VDC ｜ CNV-SFP2.5G mm … Transceiver modules are specially designed to work with Planet products with 2.5 g of SFP interface",
-      "url": "https://www.danbit.dk/en/57-splitter",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "官网（搜索快照）",
-      "claim": "PLANET 串口服务器（瑞典站）",
-      "quote": "Planet TDS-712 är en extern RS232-port via Internet och Ethernet. För PoE eller extern strömförsörjning … 1 590,00 SEK ｜ PLANET ICS-2105A er en 1 port seriel port server via fibernetværk RS232/422/485, SFP modul",
-      "url": "https://binarteknik.se/sv/seriel-port-rs232/9380-serial-device-server-med-rs232.html",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "第三方（企业信息）",
-      "claim": "法律实体 / VAT / 母公司",
-      "quote": "VAT No: DK78788216 … Company: Danbit A/S … Dansk Binær Teknik A/S (legal name) … Telephone: +45 56662020 … Subsidiary company to: PGJ Investments ApS (DK)",
-      "url": "https://www.largestcompanies.com/company/Danbit-AS-94160",
-      "date": "2026-10-20"
-    },
-    {
-      "kind": "第三方（瑞典行业名录）",
-      "claim": "Binär Teknik 邮箱",
-      "quote": "Binär Teknik AB Lugna gatan 39 211 59 Malmö Sweden Ring oss: 042 14 10 85 Maila oss: info@binarteknik.se",
-      "url": "https://alltomteknikindustrin.se/foretag/foretag-b/binar-teknik-ab/",
-      "date": "2026-10-20"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-089，W 批次调研 2026-10-19/20）"
+ "code": "SB-1022",
+ "name_official": "Danbit A/S (Dansk Binær Teknik A/S)",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（danbit.dk；并档 Planet 渠道档案 PB-089）",
+ "summary": "丹麦 Køge 一家 1970 年起的工业 IT 分销商（瑞典有姊妹公司 Binär Teknik），把 PLANET 工业 PoE 管理交换机换上自家 ESW 货号卖，是典型的贴牌买家。类型：工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）。信号：danbit.dk：PLANET IFT-802T 媒体转换器、PLANET POE-171S 分离器、Planet TDS-712 串口服务器、Planet IVS-H125P / IVS-2120 视频服务器（EOL）、CNV-SFP2.5G「designed to work with Planet products」、MGB SFP「可装于 PLANET Switch 产品」；binarteknik.se（同目录）：ESW8G-M-SFP2-PWM 4,462 SEK「industriell väggmonterad PoE Managed Switch med LCD-pekskärm med PLANET intelligenta PoE-funktioner」、ESW8G-M-SFP2 8,770 SEK「Industrial 8-Port Gigabit 802.3at PoE+ Switch … IP30 … <50 ms」、PLANET ICS-2105A / TDS-715。Planet 渠道档案 PB-089 评级 B（需求：PLANET 多类目在售（媒体转换器 / 串口服务器 / PoE 分离器 / SFP 兼容说明）+ 自编货号 ESW 系列工业 PoE 管理交换机文案含「PLANET 智能 PoE 功能」且「Fysiskt i lager」→ 工业交换机进货真实、贴牌习惯明确；触达：salg@danbit.dk + +45 56 66 20 20、Binär Teknik info@binarteknik.se 公开，无具名 KP；体量：1970 年起私营，6,000+ 产品，子公司于 PGJ Investments ApS，丹麦 + 瑞典 + 挪威 → 可赢；Gmail：Elsa 账号 2025-02-17 → 2026-08-13 以 BCC 群发 10 封（salg@danbit.dk / info@binarteknik.se），0 回复 → 非首触、通用通道疲劳；Mikrotik 仓无此户 → B ★★（贴牌买家画像强，无具名 KP + 群发疲劳不到 A））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1022，丹麦，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司历史 / 体量 / 瑞典挪威分支",
+   "quote": "Dansk Binary Technology A/S or DANBIT in daily talk is a Danish privately owned technology supplier, who has been the preferred supplier of specialty products since 1970 … Today, DANBIT is a supplier of more than 6,000 special products … Imported mainly from Taiwan, Hong Kong, China, Korea, Japan, USA … In 1996, DANBIT expanded its activities and established a Swedish branch in Helsingborg. It is now an independent company - Binär Teknik AB. In 1997, DANBIT opened a branch in Oslo, Norway.",
+   "url": "https://danbit.dk/en/content/4-about-us",
+   "date": "2026-10-20"
   },
-  "company_facts": {
-    "legal_name": "Danbit A/S (Dansk Binær Teknik A/S)",
-    "founded": "",
-    "hq": "Køge（Værkstedsvej 39-41, 4600 Køge）；瑞典姊妹公司 Binär Teknik AB（Malmö）, 丹麦",
-    "size": "",
-    "other": "Planet 渠道档案 PB-089（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：是（自编货号 ESW- 等贴牌转售 PLANET 等工业交换机 / 串口服务器）；最大未知：采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购"
+  {
+   "kind": "第三方（品牌经销商页）",
+   "claim": "地址 / 电话 / 邮箱",
+   "quote": "DANBIT A/S Værkstedsvej 39-41 4600 Køge Danmark Telefonnr. +45 56 66 20 20 E-mail: salg@danbit.dk",
+   "url": "https://www.iqtronic.com/where-to-buy/danbit/",
+   "date": "2026-10-20"
   },
-  "business_lines": [
-    "工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）"
-  ],
-  "products_seen": [
-    {
-      "brand": "PLANET",
-      "model": "ESW8G-M-SFP2",
-      "spec": "工业 8×GE PoE+ + 2×SFP 管理 DIN（8,770 SEK）→ Saga 同口型 $85.5 @30%（$78.9 @20%）",
-      "saga": "STI-288GPM",
-      "url": "https://danbit.dk",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "ESW8G-M-SFP2-PWM",
-      "spec": "壁挂 LCD 触屏 PoE 管理款（4,462 SEK）→ Saga DIN 款对位，无 LCD 需说明",
-      "saga": "STI-288GPM",
-      "url": "https://danbit.dk",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IFT-802T",
-      "spec": "工业 FE 媒体转换器：Saga 价格表有工业 MC 系列（型号另议），本轮不作 P1",
-      "saga": "—",
-      "url": "https://danbit.dk",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "POE-171S",
-      "spec": "PoE 分离器：Saga 无",
-      "saga": "—",
-      "url": "https://danbit.dk",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "TDS-712",
-      "spec": "串口服务器：Saga 无",
-      "saga": "—",
-      "url": "https://danbit.dk",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "TDS-715",
-      "spec": "串口服务器：Saga 无",
-      "saga": "—",
-      "url": "https://danbit.dk",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "ICS-2105A",
-      "spec": "光纤串口服务器：Saga 无",
-      "saga": "—",
-      "url": "https://danbit.dk",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IVS-H125P",
-      "spec": "视频服务器（EOL 清仓）：Saga 无",
-      "saga": "—",
-      "url": "https://danbit.dk",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IVS-2120",
-      "spec": "视频服务器（EOL）：Saga 无",
-      "saga": "—",
-      "url": "https://danbit.dk",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "CNV-SFP2.5G（PLANET 兼容）",
-      "spec": "SFP 模块：Saga 不卖",
-      "saga": "—",
-      "url": "https://danbit.dk",
-      "date": "2026-10-19"
-    }
-  ],
-  "channels": {
-    "role": "工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）",
-    "region": "丹麦"
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "瑞典姊妹公司联系方式",
+   "quote": "Binär Teknik AB Lugna Gaten 39 211 59 Malmö Sverige Ring oss: 042 14 10 85 Org. nr.: 559181-6201",
+   "url": "https://www.danbit.dk/en/contact-us",
+   "date": "2026-10-20"
   },
-  "signals": [
-    "北欧工业 IT 分销商已习惯把 PLANET 工业交换机换成自编货号 ESW 系列卖（文案仍留 PLANET 字样）→ 正是 Saga「中性包装 / 贴牌 EXW」的理想买家：同口型 STI 工业 8×GE PoE+ + 2×SFP 管理（$85.5 @30% OEM 档）可直接接 ESW8G-M-SFP2 位，价差空间大（其售价 8,770 SEK ≈ $930）",
-    "首触：工业 8×GE PoE+ + 2×SFP 管理 vs ESW8G-M-SFP2（8,770 SEK）；中性 / 贴牌 EXW",
-    "样机：1 台到 Køge 比对（PoE 预算 240W / ERPS / Web UI / 贴标样）"
-  ],
-  "risks": [
-    "采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购",
-    "Planet 首触邮件未发送（Elsa 账号待定）"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "其 ESW8G-M-SFP2（= PLANET IGS-10020HPT 文案）与 ESW8G-M-SFP2-PWM（= PLANET 壁挂 LCD PoE 管理款）均为工业 8×GE PoE+ + 2×SFP 管理位 → Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；贴牌场景按 OEM 档 30% = $85.5 EXW；自编货号贴牌转售 → OEM/ODM 口径 30%（沿用 Planet 档案 PB-089）；需求："
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "自编货号工业 PoE 管理交换机文案含 PLANET",
+   "quote": "8 portar Managed switch 8 x 10/100/1000Mbit RJ45. Fiber 2 x 100/1000Mbit SFP-kortplats, PoE+, Väggmonterbar, magneter, 48-57VDC … 4 462,00 SEK Fysiskt i lager Artikelnummer ESW8G-M-SFP2-PWM … ESW8G-M-SFP2-PWM är en industriell väggmonterad PoE Managed Switch med LCD-pekskärm med PLANET intelligenta PoE-funktioner",
+   "url": "https://binarteknik.se/sv/naetverksvaexlar/21308-8-portar-managed-switch-8-x-101001000mbit-rj45-fiber-2-x-1001000mbit-sfp-kortplats-poe-vaggmonterbar-magneter-48-57vdc.html",
+   "date": "2026-10-20"
   },
-  "email_hook": "You already sell PLANET industrial PoE managed switches under your own ESW item numbers — a Marvell-based 8×GE PoE+ + 2×SFP DIN unit shipped neutral or under your ESW code at EXW fits the same slot with room under your current SEK pricing. For your ESW8G-M-SFP2 slot, do customers mostly take the DIN-rail unit or the wall-mount LCD version — so I send the matching sample first?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：调研建档",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
-      "revive": "不动（Q-33 供应商渠道客户）",
-      "lane": "丹麦（欧洲全域主攻）",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；研究档 risks：采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2025-02-17 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入"
-    },
-    "situation": "丹麦 Køge 一家 1970 年起的工业 IT 分销商（瑞典有姊妹公司 Binär Teknik），把 PLANET 工业 PoE 管理交换机换上自家 ESW 货号卖，是典型的贴牌买家。类型：工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）。信号：danbit.dk：PLANET IFT-802T 媒体转换器、PLANET POE-171S 分离器、Planet TDS-712 串口服务器、Planet IVS-H125P / IVS-2120 视频服务器（EOL）、CNV-SFP2.5G「designed",
-    "need": "其 ESW8G-M-SFP2（= PLANET IGS-10020HPT 文案）与 ESW8G-M-SFP2-PWM（= PLANET 壁挂 LCD PoE 管理款）均为工业 8×GE PoE+ + 2×SFP 管理位 → Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；贴牌场景按 OEM 档 30% = $85.5 EXW；自编货号贴牌转",
-    "breakpoint": "采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "其 ESW8G-M-SFP2（= PLANET IGS-10020HPT 文案）与 ESW8G-M-SFP2-PWM（= PLANET 壁挂 LCD PoE 管理款）均为工业 8×GE PoE+ + 2×SFP 管理位 → Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；贴牌场景按 OEM 档 30% = $85.5 EXW；自编货号贴牌转",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-02-17",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
-        "quote": "24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 danbit.dk, salg@danbit.dk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-13",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 danbit.dk, salg@danbit.dk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "自编货号工业 8×GE PoE+ 管理 DIN 款（IGS-10020HPT 文案）",
+   "quote": "Referens: ESW8G-M-SFP2 8 770 SEK … ESW8G-M-SFP2 Industrial 8-Port Gigabit 802.3at PoE + Switch, är utrustad med robust IP30 metallhölje … felåterställningstiderna vara mindre än 50 ms … 48-55VDC / 5AMP (240W)",
+   "url": "https://binarteknik.se/sv/poe-power-over-ethernet/16996-8-portar-managed-switch-8-x-1001000mbit-rj45-fiber-2-x-10010002500-mbit-sfp-kortplats-poe-40-75c-12-48vdc.html",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "丹麦站同款（同目录）",
+   "quote": "8 ports Managed switch 8 x 10/100/1000Mbit RJ45. Fiber 2 x 100/1000Mbit SFP slot, PoE+, Vægmonteres, magneter, 48-57VDC … Op til 36 watt for hver PoE-port Total PoE effekt er 240Watt",
+   "url": "https://www.danbit.dk/da/switche/21308-8-ports-managed-switch-8-x-101001000mbit-rj45-fiber-2-x-1001000mbit-sfp-slot-poe-vaegmonteres-magneter-48-57vdc.html",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "PLANET 工业媒体转换器类目",
+   "quote": "Industriel - for DIN … PLANET IFT-802T Media Converter RJ45 to fiber, RJ45 10 / 100Mbit, 100Mbit fiber Multimode, SC",
+   "url": "https://danbit.dk/en/45-industriel-for-din",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "PLANET PoE 分离器 / SFP 兼容说明",
+   "quote": "PLANET 1 port PoE-171S splitterx50 Watt. Gigabit. Output voltage 12VDC,19VDC ｜ CNV-SFP2.5G mm … Transceiver modules are specially designed to work with Planet products with 2.5 g of SFP interface",
+   "url": "https://www.danbit.dk/en/57-splitter",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "PLANET 串口服务器（瑞典站）",
+   "quote": "Planet TDS-712 är en extern RS232-port via Internet och Ethernet. För PoE eller extern strömförsörjning … 1 590,00 SEK ｜ PLANET ICS-2105A er en 1 port seriel port server via fibernetværk RS232/422/485, SFP modul",
+   "url": "https://binarteknik.se/sv/seriel-port-rs232/9380-serial-device-server-med-rs232.html",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "第三方（企业信息）",
+   "claim": "法律实体 / VAT / 母公司",
+   "quote": "VAT No: DK78788216 … Company: Danbit A/S … Dansk Binær Teknik A/S (legal name) … Telephone: +45 56662020 … Subsidiary company to: PGJ Investments ApS (DK)",
+   "url": "https://www.largestcompanies.com/company/Danbit-AS-94160",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "第三方（瑞典行业名录）",
+   "claim": "Binär Teknik 邮箱",
+   "quote": "Binär Teknik AB Lugna gatan 39 211 59 Malmö Sweden Ring oss: 042 14 10 85 Maila oss: info@binarteknik.se",
+   "url": "https://alltomteknikindustrin.se/foretag/foretag-b/binar-teknik-ab/",
+   "date": "2026-10-20"
   }
+ ],
+ "kp": [
+  {
+   "name": "Peter Grubb Jensen",
+   "role": "Adm. direktør / 董事（krak.dk / ownr.dk）= 拍板人 / 收件人（salg@danbit.dk 点名）（第 109 批 官方登记核实 2026-10-28）",
+   "email": "salg@danbit.dk",
+   "source": "https://www.proff.dk/firma/danbit-as/solr%C3%B8d-strand/elektronik-og-telekommunikationsudstyr-engros/1AWPDKI10MZ"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-089，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "DANBIT A/S（Dansk Binær Teknik；CVR 78788216）",
+  "founded": "1985-09-26（活动 1970）（第 109 批 官方登记核实 2026-10-28）",
+  "hq": "Køge（Værkstedsvej 39-41, 4600 Køge）；瑞典姊妹公司 Binär Teknik AB（Malmö）, 丹麦",
+  "size": "",
+  "other": "Planet 渠道档案 PB-089（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：是（自编货号 ESW- 等贴牌转售 PLANET 等工业交换机 / 串口服务器）；最大未知：采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购；第 109 批：Køge 工业 IT / 网络分销商（7 人；FY2025-06 毛利 DKK 3.94M；把台系工业 PoE 换自家 ESW 货号卖 = 现成贴牌买家；瑞典壳 SB-1011）→ **贴标 OEM 30% 可谈 + 分销 20%，B，加厚一次（small）**（第 109 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "ESW8G-M-SFP2",
+   "spec": "工业 8×GE PoE+ + 2×SFP 管理 DIN（8,770 SEK）→ Saga 同口型 $85.5 @30%（$78.9 @20%）",
+   "saga": "STI-288GPM",
+   "url": "https://danbit.dk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "ESW8G-M-SFP2-PWM",
+   "spec": "壁挂 LCD 触屏 PoE 管理款（4,462 SEK）→ Saga DIN 款对位，无 LCD 需说明",
+   "saga": "STI-288GPM",
+   "url": "https://danbit.dk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IFT-802T",
+   "spec": "工业 FE 媒体转换器：Saga 价格表有工业 MC 系列（型号另议），本轮不作 P1",
+   "saga": "—",
+   "url": "https://danbit.dk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "POE-171S",
+   "spec": "PoE 分离器：Saga 无",
+   "saga": "—",
+   "url": "https://danbit.dk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "TDS-712",
+   "spec": "串口服务器：Saga 无",
+   "saga": "—",
+   "url": "https://danbit.dk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "TDS-715",
+   "spec": "串口服务器：Saga 无",
+   "saga": "—",
+   "url": "https://danbit.dk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "ICS-2105A",
+   "spec": "光纤串口服务器：Saga 无",
+   "saga": "—",
+   "url": "https://danbit.dk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IVS-H125P",
+   "spec": "视频服务器（EOL 清仓）：Saga 无",
+   "saga": "—",
+   "url": "https://danbit.dk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IVS-2120",
+   "spec": "视频服务器（EOL）：Saga 无",
+   "saga": "—",
+   "url": "https://danbit.dk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "CNV-SFP2.5G（PLANET 兼容）",
+   "spec": "SFP 模块：Saga 不卖",
+   "saga": "—",
+   "url": "https://danbit.dk",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）",
+  "region": "丹麦"
+ },
+ "signals": [
+  "北欧工业 IT 分销商已习惯把 PLANET 工业交换机换成自编货号 ESW 系列卖（文案仍留 PLANET 字样）→ 正是 Saga「中性包装 / 贴牌 EXW」的理想买家：同口型 STI 工业 8×GE PoE+ + 2×SFP 管理（$85.5 @30% OEM 档）可直接接 ESW8G-M-SFP2 位，价差空间大（其售价 8,770 SEK ≈ $930）",
+  "首触：工业 8×GE PoE+ + 2×SFP 管理 vs ESW8G-M-SFP2（8,770 SEK）；中性 / 贴牌 EXW",
+  "样机：1 台到 Køge 比对（PoE 预算 240W / ERPS / Web UI / 贴标样）"
+ ],
+ "risks": [
+  "采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购",
+  "Planet 首触邮件未发送（Elsa 账号待定）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "其 ESW8G-M-SFP2（= PLANET IGS-10020HPT 文案）与 ESW8G-M-SFP2-PWM（= PLANET 壁挂 LCD PoE 管理款）均为工业 8×GE PoE+ + 2×SFP 管理位 → Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；贴牌场景按 OEM 档 30% = $85.5 EXW；自编货号贴牌转售 → OEM/ODM 口径 30%（沿用 Planet 档案 PB-089）；需求："
+ },
+ "email_hook": "You already sell PLANET industrial PoE managed switches under your own ESW item numbers — a Marvell-based 8×GE PoE+ + 2×SFP DIN unit shipped neutral or under your ESW code at EXW fits the same slot with room under your current SEK pricing. For your ESW8G-M-SFP2 slot, do customers mostly take the DIN-rail unit or the wall-mount LCD version — so I send the matching sample first?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：调研建档",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "丹麦（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；研究档 risks：采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2025-02-17 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入"
+  },
+  "situation": "丹麦 Køge 一家 1970 年起的工业 IT 分销商（瑞典有姊妹公司 Binär Teknik），把 PLANET 工业 PoE 管理交换机换上自家 ESW 货号卖，是典型的贴牌买家。类型：工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）。信号：danbit.dk：PLANET IFT-802T 媒体转换器、PLANET POE-171S 分离器、Planet TDS-712 串口服务器、Planet IVS-H125P / IVS-2120 视频服务器（EOL）、CNV-SFP2.5G「designed",
+  "need": "其 ESW8G-M-SFP2（= PLANET IGS-10020HPT 文案）与 ESW8G-M-SFP2-PWM（= PLANET 壁挂 LCD PoE 管理款）均为工业 8×GE PoE+ + 2×SFP 管理位 → Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；贴牌场景按 OEM 档 30% = $85.5 EXW；自编货号贴牌转",
+  "breakpoint": "采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "其 ESW8G-M-SFP2（= PLANET IGS-10020HPT 文案）与 ESW8G-M-SFP2-PWM（= PLANET 壁挂 LCD PoE 管理款）均为工业 8×GE PoE+ + 2×SFP 管理位 → Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；贴牌场景按 OEM 档 30% = $85.5 EXW；自编货号贴牌转",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-02-17",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+    "quote": "24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 danbit.dk, salg@danbit.dk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-13",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 danbit.dk, salg@danbit.dk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

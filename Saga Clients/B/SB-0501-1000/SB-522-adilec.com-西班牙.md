@@ -81,6 +81,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（ES · 1 次检索：Iberinform（GUILERA SA；CIF A08851461；CALLE RAMON LLULL S/N 08750 MOLINS DE REI；CNAE 2931；BORME 05/11/2025 Modificaciones Estatutarias hoja 59776）+ infoempresa（constitución 22/07/1981）+ einforma（Capital Social 60.101,21 €；40 actos BORME；C/ Ramon Llull 8）+ guilera.com（Adilec = Guilera’s brand for fiber optic communication systems；fundó en 1953；GUILERA S.A. 1981；guilera@guilera.com；+34 936 68 17 94）+ lightmobilitycluster（ISO 9001 / 14001 / TS 16949），2026-10-28 查；https://www.iberinform.es/empresa/229493/guilera）：**
+
+- 法定名 / 登记号：GUILERA, S.A.（guilera.com；品牌 ADILEC = 光纤通信系统；巴塞罗那 Molins de Rei C/ Ramon Llull 8, 08750；CIF A08851461；Registro Mercantil de Barcelona hoja 59776）— 1953 年起（S.A. 1981-07-22）的汽车电子 / 工业电子制造商（CNAE 2931；ISO 9001 / 14001 / TS 16949），ADILEC 事业部设计生产视频 / 语音 / 数据 / 以太网光纤传输系统（MC、FS、VC、SFP 全部自有 logo；表内「质量高」）；股本 €60,101；adilec.com 已停放；KP compras@（采购部） · CIF A08851461 · 状态 **Active** · 成立 1981-07-22（活动 1953） · S.A.（私有；股本 €60,101）
+- 行业码 / 经营范围：汽车 / 工业电子制造 + 光纤通信系统自有品牌 ADILEC（CNAE 2931）
+- 注册地址：C/ Ramon Llull 8, 08750 Molins de Rei (Barcelona)
+- 规模档：中小（制造商；人数未取）
+- 账目：—（2024 年报已存）；—
+- 高管：（采购部）— compras@guilera.com = 收件人
+- 高管：（未具名）— ADILEC product manager（点名）
+- 控制人 / 股东：未取
+- 曾用名：Guilera Especialidades Industriales（1953）
+- **这意味着什么：**
+  - **自有品牌 ADILEC 的光传输设备「制造商」（MC / FS / VC / SFP 全贴自家 logo，研究档判断外壳为国产代工）→ 贴标 OEM 30% 正中目标，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STC-110XGE 一页纸 + 「under the ADILEC label」切口；只报 OEM 档
+  - 收件人 compras@ 点名 ADILEC product manager；发信窗口 Thu 12–14 CET；西语一句引子；汽车主业不碰（不谈 E-mark）
+- 备注：贴标 30% 目标；B BIG；加厚一次；坐实（CIF + 成立日）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,15 +126,17 @@ updated: 2026-10-28
 - **【官网快照】adilec.com 停放**
   > Adilec.com is for sale | HugeDomains
   > 来源：https://www.hugedomains.com/domain_profile.cfm?d=adilec.com（抓取 2026-10-21）
-- **KP**：（采购部）（）compras@guilera.com 〔用户表〕
+- **KP**：（采购部）（采购部（compras@）= 收件人（点名 ADILEC product manager）（第 109 批 官方登记核实 2026-10-28））compras@guilera.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | GUILERA, S.A.（CIF A08851461；Registro Mercantil de Barcelona hoja 59776） |
+| 成立 | 1981-07-22（活动 1953）（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 西班牙 |
-| 其他 | 官网 adilec.com，语言 en，快照状态 parked_or_empty；角色判定来源：用户表 |
+| 其他 | 官网 adilec.com，语言 en，快照状态 parked_or_empty；角色判定来源：用户表；第 109 批：巴塞罗那 Molins de Rei 汽车 / 工业电子制造商（ISO 9001 / 14001 / TS 16949），自有品牌 ADILEC 光纤传输系统（MC / FS / VC / SFP 全贴自家 logo）→ **贴标 OEM 30% 正中目标，B BIG，加厚一次（「under the ADILEC label」切口）**；汽车主业不碰（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤传输设备（自有品牌 Guilera：MC / FS / VC / SFP）
 - **触达通道（公开）**：role: 西班牙光纤传输品牌商（自有标 MC/FS/VC）；region: 西班牙；contact: guilera@guilera.com、compras@guilera.com

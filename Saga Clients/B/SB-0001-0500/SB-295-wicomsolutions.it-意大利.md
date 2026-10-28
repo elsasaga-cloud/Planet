@@ -76,6 +76,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 109 批（IT · 1 次检索：ufficiocamerale（WI-COM SOLUTIONS S.R.L.；P.IVA 07628770963；VIA LEONARDO DA VINCI 11 20813 BOVISIO MASCIAGO；Rea 1880777；Iscrizione 30/11/2011；Fatturato € 3.727.563 2024；Dipendenti 3；Utile € 1.441.268；Capitale € 20.000；ATECO 46502）+ reportaziende（2025 fatturato €3,7M −0,3 %）+ LinkedIn（2011；2–10）+ wicomsolutions.it 页脚（C.F. / P. IVA 07628770963；info@）+ m2mforum（rappresentante per l’Italia di primarie società estere），2026-10-28 查；https://www.ufficiocamerale.it/2764/wi-com-solutions-srl）：**
+
+- 法定名 / 登记号：WI-COM SOLUTIONS S.R.L.（wicomsolutions.it；Monza e Brianza Bovisio Masciago Via Leonardo da Vinci 11, 20813；P.IVA / CF 07628770963；REA MB-1880777）— 2011-11-30 登记的 RF / 无线 / 音频元器件代理分销商（天线 DAS / Small Cell / 专网 / RBS、同轴 / 数据 / 工业 / 军用连接、电池、光子器件；Helios / Hilinks / Gamma Nu 意大利代理；市场电信 / 汽车 / 工业 / 军工；switch & MC 栏目规格 EN 50155 / EN 50121-4 / IEC 60255 = 轨交 / 电力级）；股本 €20,000；3 人；2024 营收 €3.73M、净利 €1.44M；KP Alessandro Padovani · P.IVA / CF 07628770963；REA MB-1880777 · 状态 **Active** · 成立 2011-11-30 · S.r.l.（私有；股本 €20,000）
+- 行业码 / 经营范围：RF / 天线 / 连接 / 电池 元器件代理分销（ATECO 46.50.2）
+- 注册地址：Via Leonardo da Vinci 11, 20813 Bovisio Masciago (MB)
+- 规模档：小微（3 人；€3.7M）
+- 账目：2024 营收 €3,727,563；净利 €1,441,268；—
+- 高管：Alessandro Padovani — 研究档 KP = 收件人
+- 高管：（未具名）— amministratore（拍板人未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **3 人高毛利的 RF 元器件代理商（交换机栏目是轨交 / 电力级规格，我方无 EN 50155）→ 代理型 small，一页纸一次只给非轨交工业线（STI-054GP / STI-144GP / STI-154GP 作专网 / DAS 机柜配套）；无回声 → 不动**；军工 / 轨交不碰、不提
+  - 收件人 Alessandro 直呼；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：代理型 small；一页纸一次（非轨交）；坐实（P.IVA + REA + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,15 +133,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS MC switch**
   > 工业FS MC switch 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Alessandro Padovani（）info@wicomsolutions.it 〔用户表〕
+- **KP**：Alessandro Padovani（研究档 KP Alessandro Padovani = 收件人；amministratore 未取（第 109 批 官方登记核实 2026-10-28））info@wicomsolutions.it 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | WI-COM SOLUTIONS S.R.L.（P.IVA / CF 07628770963；REA MB-1880777） |
+| 成立 | 2011-11-30（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 wicomsolutions.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 wicomsolutions.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 109 批：Bovisio Masciago RF / 天线 / 连接元器件代理分销（3 人；2024 营收 €3.73M、净利 €1.44M；交换机栏目为 EN 50155 / IEC 60255 轨交 / 电力级）→ **代理型 small，一页纸一次只给非轨交工业线；无回声 → 不动**；军工 / 轨交不提（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：天线 / 电池 / 通信部件分销；switch / media converter 栏目
 - **触达通道（公开）**：role: 通信部件分销商（意大利，工业 FS/MC 栏目）；region: 意大利；contact: info@wicomsolutions.it
@@ -224,7 +241,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Alessandro Padovani | — | info@wicomsolutions.it | 调研核实（公开页） | 用户表 |
+| Alessandro Padovani | 研究档 KP Alessandro Padovani = 收件人；amministratore 未取（第 109 批 官方登记核实 2026-10-28） | info@wicomsolutions.it | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

@@ -18,10 +18,16 @@
  "kp": [
   {
    "name": "Hugo Hernàndez",
-   "role": "联系人（用户表）",
+   "role": "研究档 KP Hugo Hernàndez（曾 1 次回复）= 收件人（第 109 批 官方登记核实 2026-10-28）",
    "email": "info@suministros-industriales.es",
    "phone": "+34 93 590 94 12",
    "source": "Clients/S 09.08.xlsx"
+  },
+  {
+   "name": "Silvia Pascual Fernández",
+   "role": "Administradora única（BORME 2025-06-19）= 拍板人（抄）（第 109 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.iberinform.es/empresa/1753516/suministros-industriales-mp4"
   }
  ],
  "grade_override": "B",
@@ -33,10 +39,11 @@
   "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
  },
  "company_facts": {
-  "legal_name": "Suministros Industriales MP4, S.L.",
+  "legal_name": "SUMINISTROS INDUSTRIALES MP4 SL（CIF B63629968）",
   "hq": "Sabadell (Barcelona), España",
   "size": "小型（未见人数）",
-  "other": "产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络类目；联系人 Hugo Hernàndez；S 重点名单，1 次回复，兴趣「价格」"
+  "other": "产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络类目；联系人 Hugo Hernàndez；S 重点名单，1 次回复，兴趣「价格」；第 109 批：Sabadell 工业用品供应商（自动化 / 条导；6 人；股本 €3,460；主业无网络类目）→ **采购型 25% small，一页纸一次（STI 配电柜一口价）；再无回声 → 不动**（第 109 批 官方登记核实 2026-10-28）",
+  "founded": "2004-09-28（第 109 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业自动化元器件与机柜供应（MRO）",

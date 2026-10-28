@@ -73,6 +73,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 109 批（RO · 1 次检索：targetare.ro（TEAM TELECOM SRL；CUI 14306256；J2001009771405；înființare 21 noiembrie 2001；CAEN 4650；cifră de afaceri 15,968,419 RON 2024；profit 1,519,519 RON）+ termene.ro（J40/9771/2001；8 angajați；Activă fiscal）+ risco.ro（22 Nov 2001；turnover 15.968.419 RON 2024）+ kompass（capital 2,000 RON；VAT RO14306256）+ teamtelecom.ro/en/contact-en（str. Copilului 6-12 Domenii Park sector 1），2026-10-28 查；https://www.risco.ro/en/verifica-firma/team-telecom-cui-14306256）：**
+
+- 法定名 / 登记号：TEAM TELECOM SRL（teamtelecom.ro；布加勒斯特 Sector 1 str. Copilului nr. 6-12, tronson II, Intrarea E, et. 1, Ansamblul Domenii Park, 012178；CUI RO14306256；J40/9771/2001）— 2001-11-21 成立的电信设备分销与集成商（光纤 / 结构化布线 / 门禁 / 19" 机柜 / Alcatel-Lucent 交换与电话；PLANET 工业交换机页；表内「大口 FS / MC / 机架 / data center」）；CAEN 4650（年报 6110）；股本 RON 2,000；8 人；2024 营业额 RON 15.97M（≈€3.2M）、净利 RON 1.52M；administrator 未取 · CUI RO14306256；J40/9771/2001（EUID ROONRC.J2001009771405） · 状态 **Activă** · 成立 2001-11-21 · SRL（私有；股本 RON 2,000）
+- 行业码 / 经营范围：电信 / 网络设备分销 + 布线 / 门禁 / 机柜 集成（CAEN 4650 / 6110）
+- 注册地址：str. Copilului nr. 6-12, tronson II, Intrarea E, et. 1, Sector 1, 012178 București
+- 规模档：小型（8 人；≈€3.2M）
+- 账目：2024 营业额 RON 15,968,419；净利 RON 1,519,519；—
+- 高管：（未具名）— administrator（拍板人未取）；收件人 office@teamtelecom.ro（点名 director comercial）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **€3.2M / 8 人、人均产出高的布加勒斯特电信分销集成商（目录已有台系工业交换机 + 机架 / DC 线）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 1:1 + STC-2224GP / STC-424XGGPM-280W 机房线）；有回声再加厚**；稿内不点名 Planet / Alcatel
+  - 表内未跟进 → 首触；发信窗口 Thu 12–14 EET；罗语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（CUI + J + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,8 +126,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | TEAM TELECOM SRL（CUI RO14306256；J40/9771/2001） |
+| 成立 | 2001-11-21（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 罗马尼亚 |
-| 其他 | 官网 teamtelecom.ro，语言 ro-RO，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 teamtelecom.ro，语言 ro-RO，快照状态 ok；角色判定来源：官网文案；第 109 批：布加勒斯特电信设备分销与集成商（8 人；2024 营业额 RON 15.97M ≈ €3.2M、净利 RON 1.52M；台系工业交换机页 + 机架 / DC）→ **分销 20% small，一页纸一次（STI 1:1 + STC-2224GP / STC-424XGGPM-280W）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信/IT 设备分销与集成
 - **触达通道（公开）**：role: 电信设备分销/集成商（罗马尼亚，PLANET 工业线在售）；region: 罗马尼亚；contact: team@teamtelecom.ro

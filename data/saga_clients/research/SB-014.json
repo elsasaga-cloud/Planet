@@ -25,7 +25,7 @@
  "kp": [
   {
    "name": "Vicente Jimenez",
-   "role": "联系人（用户表）",
+   "role": "用户表 KP（intecseg.com；WA 已加；20 次 0 回复）— 公司同一性未证实 → 不动（第 109 批 官方登记核实 2026-10-28）",
    "email": "vicente.jimenez@intecseg.com",
    "phone": "+34 616 913 800（WhatsApp 已加）",
    "source": "Clients/A/DONE/其他优质欧洲客户.xlsx"
@@ -40,9 +40,10 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Intec Seguridad（ITS, S.L. / S.B.T.；intecseguridad.com，用户表域 intecseg.com）",
+  "legal_name": "Intec Seguridad（「ITS, S.L. - S.B.T.」）— 候选法人 INTEC SEGURIDAD MENORCA SL（CIF B57518151；Ciutadella de Menorca）；域名 intecseg.com 与该法人同一性未证实 → 部分坐实",
   "hq": "Menorca（另有 Mallorca Campus），Baleares, España",
-  "other": "「100% 梅诺卡」持牌安防公司：DGP/Guardia Civil 登记号 3451；ISO 9001（SGS，Eurocert 2025）；业务：报警、CCTV、保险柜、消防、报警接收中心联动；参与 red.es 云方案资助计划"
+  "other": "「100% 梅诺卡」持牌安防公司：DGP/Guardia Civil 登记号 3451；ISO 9001（SGS，Eurocert 2025）；业务：报警、CCTV、保险柜、消防、报警接收中心联动；参与 red.es 云方案资助计划；第 109 批：候选法人 = 梅诺卡岛微型安防安装商（警察登记 3451；0–10 人；CNAE 4321 / 8010）→ **不动（未证实 + 20 次 0 回复）**；Vicente 在 WA 主动开口再谈预付款小单（第 109 批 官方登记核实 2026-10-28）",
+  "founded": "2007-08-10（候选法人）（第 109 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "报警 + 报警接收中心（CRA）联动",

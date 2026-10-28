@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 109 批（IT · 1 次检索：armadi-rack.it/chi_siamo + assistenza（M.D.W. srl；R.I./C.F./P.I. IT02766841205；Camera di Commercio di Bologna REA 465866；Sede legale Piazza Minghetti 4/D Bologna；Sede operativa Via Edmondo De Amicis 7 Casalecchio di Reno）+ reteimprese（Luciani Massimiliano；REA 465866；progettano e producono carpenterie metalliche per elettronica），2026-10-28 查；https://www.armadi-rack.it/chi_siamo）：**
+
+- 法定名 / 登记号：Armadi-Rack.it（电商与品牌；运营主体 M.D.W. srl，P.IVA / CF 02766841205，REA BO-465866；法定 博洛尼亚 Piazza Minghetti 4/D, 40124；运营 Casalecchio di Reno Via Edmondo De Amicis 7, 40033）— 19 寸机柜 / 子架 / 电子外壳 / 电气柜意大利制造 + 网店（栏目 PoE 交换机、工业交换机；表内 Digitus / Utepo / Linkcreative）；KP Massimiliano Luciani（业主）、Alfredo Marmone；表内「可以尝试多跟进一下」 · P.IVA / CF 02766841205；REA BO-465866（M.D.W. srl） · 状态 **Active** · 成立 未取 · S.r.l.（Luciani 家族）
+- 行业码 / 经营范围：19 寸机柜 / 电子外壳 制造 + 网店（含 PoE / 工业交换机栏目）
+- 注册地址：Piazza Minghetti 4/D, 40124 Bologna（运营 Via Edmondo De Amicis 7, 40033 Casalecchio di Reno）
+- 规模档：小微
+- 账目：—；—
+- 高管：Massimiliano Luciani — 业主 / 研究档 KP = 拍板人 / 收件人
+- 高管：Alfredo Marmone — 研究档 KP（抄）
+- 控制人 / 股东：Luciani 家族
+- **这意味着什么：**
+  - **机柜厂自营网店（交换机栏目卖国产贴牌货）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 1:1 对照其在售 Digitus / Utepo；MOQ 1）；有回声再加厚**；稿内不点名
+  - 收件人 Massimiliano 直呼、抄 Alfredo；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（P.IVA + REA 站脚）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,16 +138,18 @@ updated: 2026-10-28
 - **【用户表】Digitus Utepo 工业 FS；Linkcreative MC**
   > Digitus Upeto的工业FS Linkcreative的MC；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Massimiliano Luciani（）info@armadi-rack.it 〔用户表〕
-- **KP**：Alfredo Marmone（） 〔用户表〕
+- **KP**：Massimiliano Luciani（业主（reteimprese 口径 Luciani Massimiliano）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））info@armadi-rack.it 〔用户表〕
+- **KP**：Alfredo Marmone（研究档 KP = 收件人（抄）（第 109 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Armadi-Rack.it（品牌 / 网店）— 运营主体 M.D.W. srl（P.IVA / CF 02766841205；REA BO-465866） |
+| 成立 | 未取（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 armadi-rack.it，语言 it，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 armadi-rack.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 109 批：博洛尼亚 Casalecchio di Reno 19 寸机柜 / 电子外壳制造 + 网店（交换机栏目卖 Digitus / Utepo 贴牌货）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 1:1）**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：19 寸机柜 / 子架 / 外壳制造；网络配件网店（PoE / 工业交换机 / MC）
 - **触达通道（公开）**：role: 机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）；region: 意大利；contact: info@armadi-rack.it、ordini@armadi-rack.it
@@ -232,8 +249,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Massimiliano Luciani | — | info@armadi-rack.it | 调研核实（公开页） | 用户表 |
-| Alfredo Marmone | — | — | 调研核实（公开页） | 用户表 |
+| Massimiliano Luciani | 业主（reteimprese 口径 Luciani Massimiliano）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28） | info@armadi-rack.it | 调研核实（公开页） | 用户表 |
+| Alfredo Marmone | 研究档 KP = 收件人（抄）（第 109 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

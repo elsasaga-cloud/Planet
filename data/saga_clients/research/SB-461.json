@@ -40,7 +40,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Franck Lemery",
+   "role": "Jednatel（2025-05-12 起；Legrand 派驻；另 Emmanuel Regent / Yriex Dominique Roullac）— 不直接发；收件人 = product manager 网络 / 电脑配件（第 109 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://rejstrik.penize.cz/19014104-emos-spol-s-r-o"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -49,11 +56,11 @@
   "level": "B 级加厚 v1（登记 + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "EMOS spol. s r.o.（IČO 19014104；Krajský soud v Ostravě C 1167）",
-  "founded": "1991",
+  "legal_name": "EMOS spol. s r.o.（IČO 19014104；KS Ostrava C 1167；唯一股东 Legrand France S.A. 自 2024-01-01）",
+  "founded": "1991-07-18（第 109 批 官方登记核实 2026-10-28）",
   "hq": "Lipnická 2844, 750 02 Přerov, Czechia（+420 581 261 111；emos@emos.cz）",
   "size": "集团约 450 人（2022）；维基 401 人",
-  "other": "Legrand 100% 持有（2022 反垄断批准）；品牌 EMOS；26 国分销；GP 电池独家分销"
+  "other": "Legrand 100% 持有（2022 反垄断批准）；品牌 EMOS；26 国分销；GP 电池独家分销；第 109 批：Přerov 自有品牌消费电子 / 电工产品公司（≈400 人；集团营收 CZK 2.3bn；2022 并入 Legrand）→ **贴标 OEM 30% 低命中，B，一页纸一次（非管理 PoE 走网络配件类目）；无回声 → 不动**（第 109 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "EMOS 品牌消费电子与电工产品（照明、电池、天线、门铃、延长线等）",

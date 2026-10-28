@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 109 批（HU · 1 次检索：opten（Erstech Technika Kft.；Adószám 13118145-2-13；2375 Tatárszentgyörgy Kinizsi u. 13；4321 Villanyszerelés；2003；27 975 ezer Ft 2025）+ partnercontrol（Alapítás 2003.09.29；Jegyzett tőke 8 000 000 HUF；árbevétel 27 975 000 HUF 2025）+ ceginfo（Cégjegyzékszám 13 09 108843）+ erstechtechnika.hu（kamera- riasztó- és klímarendszerek karbantartása；info@erstechtechnika.hu），2026-10-28 查；https://ceginfo.hu/ceg-adatlap/erstech-technika-kereskedelmi-es-szolgaltato-kft-1309108843.html）：**
+
+- 法定名 / 登记号：Erstech Technika Kereskedelmi és Szolgáltató Kft.（erstechtechnika.hu；Pest 县 Tatárszentgyörgy Kinizsi u. 13, 2375（Dabas 附近）；adószám 13118145-2-13；cégjegyzékszám 13-09-108843）— 2003-09-29 成立的小型电气安装 + 安防（摄像 / 报警 / 空调系统维护）承包商（TEÁOR 4321）；jegyzett tőke HUF 8M；2025 营收 HUF 27.975M（≈€70k）；MD Janos Hogye（ISAF 2025 到访；对升压 5 口与 2 光 10 电机型有兴趣；之后 6 次推送无回） · Adószám 13118145-2-13；Cégjegyzékszám 13-09-108843 · 状态 **Active** · 成立 2003-09-29 · Kft.（私有；HUF 8M）
+- 行业码 / 经营范围：电气安装 + 安防 / 空调系统维护（TEÁOR 4321）
+- 注册地址：Kinizsi u. 13, 2375 Tatárszentgyörgy
+- 规模档：小微（≈€70k 营收）
+- 账目：2025 营收 HUF 27,975k（≈€70k）；—
+- 高管：Janos Hogye（Hőgye János）— Ügyvezető = 拍板人 / 收件人（ISAF 2025 到访）
+- 控制人 / 股东：Hőgye 家族（推定）
+- **这意味着什么：**
+  - **年营收 €7 万的匈牙利小安装商（展会上点过 5 口升压 + 2 光 10 电）→ 集成 25% small，一页纸一次（STI-054GP / STC-228GP / STC-2216GP 按其点过的两款给一口价，MOQ 1）；再无回声 → 不动**
+  - 收件人 János 直呼；发信窗口 Thu 12–14 CET；匈牙利语一句引子；稿内引 ISAF 2025 见面
+- 备注：集成 25% small；一页纸一次；坐实（adószám + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,7 +134,7 @@ updated: 2026-10-28
 - **【用户表】升压 5 口、8 口、2 光 10 电、L2/L3 提问；6 次推送 0 回复**
   > 对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Janos Hogye（Managing Director）jhogye@erstech.hu +36 70 708 7960（用户记录）〔用户 Clients 表（ISAF 2025）〕
+- **KP**：Janos Hogye（Ügyvezető（Hőgye János；ISAF 2025 到访）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））jhogye@erstech.hu +36 70 708 7960（用户记录）〔用户 Clients 表（ISAF 2025）〕
 - **调研后定级**：B（原自动 A）——微型安装商（年营收 ≈7 万欧元）、展后 6 次推送 0 回复；匈牙利非主攻区。需求真实（升压 5 口/2 光 10 电）但体量只够零星小单 → 慢跟。
 - 备注：重启用 WA/一次性报价：STI-244GP 类小口数 PoE + 2 光 10 电管理型（核价）。注意 erstech.hu 与 erstechtechnika.hu 域混用，发信用其名片邮箱。
 
@@ -128,10 +142,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Erstech Technika Kft. |
-| 成立 | 2003 |
+| 法定名称 | Erstech Technika Kereskedelmi és Szolgáltató Kft.（adószám 13118145-2-13；cégjegyzékszám 13-09-108843） |
+| 成立 | 2003-09-29（第 109 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Tatárszentgyörgy, Hungary（+36 70 708 7930） |
-| 其他 | 电气安装（TEÁOR 4321）+ 摄像/报警/空调维护；域名 erstech.hu 另属土方公司（邮箱域混用） |
+| 其他 | 电气安装（TEÁOR 4321）+ 摄像/报警/空调维护；域名 erstech.hu 另属土方公司（邮箱域混用）；第 109 批：Tatárszentgyörgy 电气安装 + 安防维护小承包商（2025 营收 HUF 27.98M ≈ €70k；jegyzett tőke HUF 8M）→ **集成 25% small，一页纸一次（按其点过的 5 口升压 + 2 光 10 电一口价）；再无回声 → 不动**（第 109 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气安装；摄像/报警/空调系统安装维护
 - **触达通道（公开）**：网站: https://erstechtechnika.hu/；电话: +36 70 708 7930（公开）
@@ -211,7 +225,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Janos Hogye | Managing Director | jhogye@erstech.hu / +36 70 708 7960（用户记录） | 调研核实（公开页） | 用户 Clients 表（ISAF 2025） |
+| Janos Hogye | Ügyvezető（Hőgye János；ISAF 2025 到访）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28） | jhogye@erstech.hu / +36 70 708 7960（用户记录） | 调研核实（公开页） | 用户 Clients 表（ISAF 2025） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
