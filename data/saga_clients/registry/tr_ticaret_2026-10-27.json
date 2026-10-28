@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 117
+  "count": 130
  },
  "rows": {
   "SA-086": {
@@ -3803,6 +3803,413 @@
    ],
    "notes": "分销 20%；一页纸；坐实（法定名）。",
    "code": "SB-139"
+  },
+  "SB-140": {
+   "batch": 106,
+   "name": "AG Bilgisayar（ag-bilgisayar.com；穆拉省博德鲁姆 Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29）— 博德鲁姆小型 IT / 安防 / 门禁 / 停车闸机服务商（官网 2020 版、联系邮箱仍为建站临时域 → 维护弱）；法定形式 / MERSİS 未取 → 部分坐实；KP Aycan Çam（用户表）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网首页（AG Bilgisayar - Bodrum Güvenlik Kamera Sistemleri；+90 546 609 99 06；地址同上；Copyrights 2020）+ turgutreisrehberi 名录（Ag Bilgisayar；Bilgisayar Destek ve Hizmetleri；48400 Bodrum/Muğla）；无法定形式 / 税号信息",
+   "url": "https://ag-bilgisayar.com/",
+   "number": "未取（个体 / 小型推定）",
+   "status": "Active（官网在线，维护弱）",
+   "incorporated": "未取（自述 10+ 年）",
+   "company_type": "未取（小型安装商）",
+   "sic": [
+    "IP / 模拟监控、报警、门禁考勤、停车闸机、网络 / 服务器安装（博德鲁姆本地）"
+   ],
+   "address": "Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29, 48400 Bodrum / Muğla",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "Aycan Çam — 研究档 KP（info@ag-bilgisayar.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**度假区小安装商 → 集成商 25% small：一页纸（STC-028GP / STC-228GP 配监控 + 门禁）一次后不动**",
+    "发信窗口 Thu 10–12 TRT；英文稿 + 一句土耳其语引子"
+   ],
+   "notes": "集成商 25% small；一页纸后不动；部分坐实。",
+   "code": "SB-140"
+  },
+  "SB-153": {
+   "batch": 106,
+   "name": "Sinerjik（sinerjik.net；TR；ISAF 名片 Ufuk Gökalp）— 1 次检索仅命中词典释义（sinerjik = 协同的），无任何同名公司 → 未坐实；ISAF 需求为 PoE 分离器（1 进 2 出），非 Saga 品类",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索未命中（ekşi sözlük / TDK 词典 / 学术 PDF 均无关）→ 未坐实，按规程不补查",
+   "url": "",
+   "number": "未取",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未知",
+   "sic": [
+    "未知"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "Ufuk Gökalp — ISAF 名片（ufuk@sinerjik.net）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主体未坐实 + 需求品类（PoE 分离器）我们不做 → 不动**"
+   ],
+   "notes": "未坐实；不动。",
+   "code": "SB-153"
+  },
+  "SB-274": {
+   "batch": 106,
+   "name": "Fiberix İletişim Hizmetleri Ltd. Şti.（fiberix.com.tr；加济安泰普 Şehitkamil）— BTK 授权基础设施与互联网服务商、RIPE NCC 本地互联网注册机构（LIR；AS205768 于 2017-06-08 登记；185.207.56.0/22 共 1,024 IPv4；土耳其 eyeball 排名 #107）；招聘 10 名现场销售（扩张期）；MERSİS 未取但 RIPE / BTK / Google Play 开发者三方法定名一致 → 坐实；KP Zafer Yılmaz（RIPE 管理联系人）+ Karasu（用户表）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网 İletişim（Ünvan Fiberix İletişim Hizmetleri Ltd. Şti.；Sarıgüllük Mah. Zübeyde Hanım Bulvarı No:74/A Şehitkamil / Gaziantep；BTK tarafından Alt yapı ve İnternet Servis sağlayıcı olarak yetkilendirilmiştir）+ RIPE NCC 会员名录（FIBERIX ILETISIM HIZMETLERI LTD. STI.；27060 Gaziantep）+ bgp.tools（AS205768 registered 2017-06-08；1 IPv4 prefix；#107 eyeballs TR）+ Google Play 开发者（FIBERIX ILETISIM HIZMETLERI LIMITED SIRKETI；Gazi Mah. Zübeyde Hanım Bulvarı No:74-A；+90 850 333 27 00；info@ / destek@）+ eleman.net 招聘（Satış Temsilcisi ×10）",
+   "url": "https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/",
+   "number": "RIPE LIR tr.fiberixinternet；AS205768；MERSİS 未取",
+   "status": "Active",
+   "incorporated": "2017 前后（AS 2017-06-08）",
+   "company_type": "Ltd. Şti.（私有）",
+   "sic": [
+    "地方光纤 ISP / 基础设施运营商（BTK 授权；FTTH 接入）"
+   ],
+   "address": "Zübeyde Hanım Bulvarı No:74/A, Şehitkamil, 27060 Gaziantep",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（推定 20–50 人；在招 10 销售）",
+   "officers": [
+    "Zafer Yılmaz — RIPE 管理联系人（网络负责人推定）= 收件人（zafery@）",
+    "Karasu — 用户表联系人（karasu@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**地方 FTTH 运营商 → 采购型 20%（运营商自用），B，加厚一次（接入侧光口汇聚 STC-228GP / STC-2224GP + 10G 上联 STC-110XGE / STH 25G 汇聚）**；运营商买的是机型价与长期供货，切口「a second-source access switch line priced for ISP volumes」",
+    "收件人 zafery@ 直呼 Zafer Bey，抄 karasu@；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "采购型 20%；B；加厚一次；坐实（RIPE / BTK）。",
+   "code": "SB-274"
+  },
+  "SB-300": {
+   "batch": 106,
+   "name": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（camsanordu.com；安卡拉总部 YDA Center + 奥尔杜 Altınordu 工厂；Vergi No 2280750226）— 1984 年建厂的土耳其 / 中东 / 巴尔干首家 MDF 厂、2011 年分立；2024-10-09 获海关 YYS（经认证经营者）证书；董事会副主席 Sedat Aksakallı；员工 ≈780；2018 年竞争委员会 MDF 行业调查对象之一；研究档 KP 邮箱前缀 sclcule.o 姓名未核",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：贸易部中安纳托利亚区域局新闻（Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.；1984；106. YYS 2024-10-09；Yönetim Kurulu Başkan Vekili Sedat AKSAKALLI）+ 官网 KVKK 文本（PK.34-35 Altınordu/Ordu；Kızılırmak Mah. Dumlupınar Bulvarı YDA Center A Blok No:9A İç Kapı No:685 Çankaya/Ankara）+ OAİB 2025 名单 PDF（Vergi No 2280750226；ÇAMSAN ORDU AĞAÇ SANAYİ VE TİCARET A.Ş）+ Odoo 客户页（1984；土耳其首家 / 欧洲第四家 MDF）+ hukukihaber（2018 Rekabet Kurulu 调查 12 家 MDF 企业之一）",
+   "url": "https://ortaanadolu.ticaret.gov.tr/haberler/camsan-ordu-agac-sanayi-ve-ticaret-a-s-ye-106-yys-verildi",
+   "number": "Vergi No 2280750226；YYS（经认证经营者）证书 2024-10-09",
+   "status": "Active",
+   "incorporated": "1984（建厂）；2011 分立为 Çamsan Ordu",
+   "company_type": "A.Ş.（私有大型制造商）",
+   "sic": [
+    "MDF / 强化地板制造（终端用户；工厂网络为 IT 部门采购）"
+   ],
+   "address": "总部 Kızılırmak Mah. Dumlupınar Bulvarı YDA Center A Blok No:9A/685, Çankaya / Ankara；工厂 Altınordu / Ordu",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "大型（≈780 人）",
+   "officers": [
+    "Sedat Aksakallı — 董事会副主席（贸易部新闻）= 拍板层（不直接写）",
+    "（姓名待核）— 研究档 KP sclcule.o@camsanordu.com = 收件人（IT / 采购推定）"
+   ],
+   "psc": "未取（家族 / 私有）",
+   "charges": "",
+   "prev_names": [
+    "Çamsan Ağaç Sanayi ve Ticaret A.Ş.（1984–2011 母体）"
+   ],
+   "lines": [
+    "**大型 MDF 厂终端用户 → 项目 25% 低概率（厂区工业环网：STI-288DGGPM / STI-488DGGPM / STI-0240GE；一般经本地集成商采购）：一页纸（工业线卡）一次后不动**",
+    "收件人邮箱前缀 sclcule.o 姓名未核 → 稿内不猜名，用「to the IT / plant network team」；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "终端用户；项目 25% 低概率；一页纸后不动；坐实（Vergi No + 贸易部新闻）。",
+   "code": "SB-300"
+  },
+  "SB-302": {
+   "batch": 106,
+   "name": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.（antalyaturkuaz.com；安塔利亚 Muratpaşa Altındağ Mah. 166. Sok. Doğan Apt No:24/C）— 安防 / 网络 / 火灾报警 / 网络安全工程公司（自述 25+ 年经验；11–50 口径；旧址 Teomanpaşa Cad. 已停用）；MERSİS 未取 → 部分坐实；KP Gökhan Naktar（用户表 naktar@）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网首页（Antalya Turkuaz Bilişim；Altındağ Mah. 166. Sokak Doğan Apt No:24/C Muratpaşa Antalya）+ antalyayoltarifi 名录（Antalya Turkuaz Bilişim Teknolojileri Ltd.Şti.；旧址 Teomanpaşa Cad. Ertuğrul Sitesi B Blok No:24/B）+ ZoomInfo（11–50；安防 / 火灾 / 网络 / 网络安全）+ Yandex 地图（旧址条目「Kurum faaliyette değil」= 旧址停用，非公司注销）",
+   "url": "http://www.antalyaturkuaz.com/",
+   "number": "MERSİS 未取",
+   "status": "Active（官网在线；旧址停用）",
+   "incorporated": "未取（自述 25+ 年）",
+   "company_type": "Ltd. Şti.（私有）",
+   "sic": [
+    "安防工程（AI 分析 / 人脸 / 车牌 / 热成像）+ 企业网络基础设施（光纤熔接 / 布线 / Wi-Fi）+ 火灾报警 + 网络安全"
+   ],
+   "address": "Altındağ Mah. 166. Sok. Doğan Apt No:24/C, Muratpaşa, Antalya",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 口径）",
+   "officers": [
+    "Gökhan Naktar — 研究档 KP（naktar@antalyaturkuaz.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安防 + 网络双线集成商 → 集成商 25% small：一页纸（STC-228GP / STC-2224GP 配 AI 摄像机项目；STI-144GP 户外）一次；有回声再加厚**",
+    "收件人 naktar@ 直呼 Gökhan Bey；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "集成商 25% small；一页纸；部分坐实。",
+   "code": "SB-302"
+  },
+  "SB-374": {
+   "batch": 106,
+   "name": "3S Güvenlik Sistemleri（3s.com.tr；伊斯坦布尔 Sultangazi Esentepe Mah. 2403/1 Sok. No:11；bilgi@3S.com.tr；444 0 152）— ISAF 名片 Savaş Tulgar 为「3S Teknoloji Savunma ve Yapı Sanayi Ticaret A.Ş.」董事会主席（Sultangazi Esentepe 同址设立；股本 5 万 TL；经营范围建筑承包 + 安防 / 国防技术）；MERSİS 未取 → 部分坐实；ISAF 需求「工业级交换机」",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：3s.com.tr 首页（3S Güvenlik Sistemleri；bilgi@3S.com.tr；444 0 152；Esentepe Mah. 2403/1 sokak no 11 Sultangazi / İstanbul）+ emlakkulisi 公司设立公告（3S Teknoloji Savunma ve Yapı Sanayi Ticaret Anonim Şirketi，Savaş Tulgar Yönetim Kurulu Başkanlığı，50 bin TL sermaye，25 Kasım，Sultangazi Esentepe Mahallesi；年份未取）；同名 3-S Mühendislik（Maltepe 润滑油）/ 3S Teknik Danışmanlık A.Ş.（Maltepe 工业设备）均 ≠ 本户",
+   "url": "https://3s.com.tr/",
+   "number": "MERSİS 未取（A.Ş. 设立公告见 emlakkulisi）",
+   "status": "Active",
+   "incorporated": "未取（A.Ş. 11-25 设立，年份未取）",
+   "company_type": "A.Ş.（小型；股本 5 万 TL）",
+   "sic": [
+    "安防系统 + 建筑承包 + 国防技术（经营范围）"
+   ],
+   "address": "Esentepe Mah. 2403/1 Sok. No:11, Sultangazi / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "Savaş Tulgar — Yönetim Kurulu Başkanı（3S Teknoloji Savunma ve Yapı A.Ş.）= ISAF 名片 = 收件人本人（savas@3s.com.tr）"
+   ],
+   "psc": "Savaş Tulgar",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板本人要工业级交换机 → 集成商 25% small：一页纸（STI-054GP / STI-144GP / STI-288DGGPM 工业线卡 + 价）一次后不动**；其经营范围含「Savunma（国防）」→ **守界：只报民用工业 / 安防场景，不碰军工项目**",
+    "收件人 savas@ 直呼 Savaş Bey；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "集成商 25% small；一页纸后不动；守界（国防不碰）；部分坐实。",
+   "code": "SB-374"
+  },
+  "SB-377": {
+   "batch": 106,
+   "name": "PROVES BİLGİ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ（proves.com.tr；伊兹密尔 Bayraklı 设立 → Bornova Egemenlik Mah. 6188 Sok. No:51-2G → 现 Buca Şirinkapı Mah. 1058/6 Sk. No:5）— 2020-02-14 设立的弱电 / IT 系统集成商（Hanwha Vision 案例：代尼兹利 Pamukkale 市政 150 台 Q 系列 + 3 NVR）；创始人 Serdar Karasu（= 研究档 KP）；MERSİS / 税号未取（find.com.tr 数字字段为模板占位，不采）→ 部分坐实；ZoomInfo「334 人」为错配，取小",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：find.com.tr（PROVES BİLGİ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ；Kuruluş 14 Şubat 2020 Cuma；Mansuroğlu Mah. 286/1 Sok. No:15/15 Bayraklı；税号 / MERSİS 字段为 1234567890 占位 → 不采）+ 官网首页 / İletişim（Proves Bilgi Teknolojileri A.Ş；Bornova Egemenlik Mah. 6188 Sok. No:51-2G；Buca 1058/6 Sk. No:5 D:1；bilgi@；+90 232 202 42 40）+ Lusha（A.Ş.；Zayıf Akım Sistemleri；Founded 2020）+ Serdar Karasu LinkedIn（Hanwha Vision Pamukkale 市政 150 摄像机案例）+ ZoomInfo（Founder；2020–present）",
+   "url": "https://www.find.com.tr/Company/provesbilgiteknolojilerisanayiveticaretanonimsirketi",
+   "number": "MERSİS 未取（A.Ş.）",
+   "status": "Active",
+   "incorporated": "2020-02-14",
+   "company_type": "A.Ş.（多股东；私有）",
+   "sic": [
+    "弱电 / IT 系统集成（CCTV Hanwha、网络基础设施、服务器 / 备份、网络安全）"
+   ],
+   "address": "Şirinkapı Mah. 1058/6 Sk. No:5 D:1, Buca / İzmir（登记 Bayraklı → Bornova 迁址）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（推定 5–20 人）",
+   "officers": [
+    "Serdar Karasu — 创始人 / 负责人 = 研究档 KP = 收件人（bilgi@）"
+   ],
+   "psc": "Serdar Karasu",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**做市政级摄像机项目的 SI → 集成商 25%，B，加厚一次（small：STC-2224GP 24 口 300 W / STC-4424GCPM 配 150 台级摄像机项目 + STI-144GP 户外）**；稿内不点名 Hanwha",
+    "收件人 bilgi@ 点名 Serdar Bey；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "集成商 25%；B；加厚一次（small）；部分坐实（A.Ş. + 设立日期）。",
+   "code": "SB-377"
+  },
+  "SB-388": {
+   "batch": 106,
+   "name": "FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ（fhguvenlik.com；伊斯坦布尔 Beşiktaş Sinanpaşa Mah. Süleyman Seba Cad. No:6/4 + Perpa B Blok Kat:11 No:1730 技术办公室）— 2025-02-13 新设的弱电 / 安防集成商（NACE 631108；团队自述 15 年以上经验）；KP Hasti F. Göller（用户表 hasti@）；坐实",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：find.com.tr（FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ；LİMİTED ŞİRKET；Kuruluş 13 Şubat 2025 Perşembe；NACE 631108；Sinanpaşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4 Beşiktaş 34022）+ 官网（FH Güvenlik, 2025 yılında İstanbul’da kurulmuş；Merkez Beşiktaş；Teknik Ofis Perpa Ticaret Merkezi B Blok Kat:11 No:1730 Şişli；网络基础设施 / CCTV / 报警 / 自动化）",
+   "url": "https://www.find.com.tr/Company/fhguvenliksistemlerivebilisimsanayiticaretlimitedsirketi",
+   "number": "MERSİS 未取（Ltd. Şti.；NACE 631108）",
+   "status": "Active",
+   "incorporated": "2025-02-13",
+   "company_type": "Ltd. Şti.（新设；私有）",
+   "sic": [
+    "弱电 / 安防系统集成（CCTV、火灾报警、报警、自动化、网络基础设施）"
+   ],
+   "address": "Sinanpaşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4, Beşiktaş, 34022 İstanbul（技术办公室 Perpa B Blok K:11 No:1730）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（新设）",
+   "officers": [
+    "Hasti F. Göller — 研究档 KP（hasti@fhguvenlik.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**2025 新设小集成商（Perpa 技术办公室）→ 集成商 25% small：一页纸（STC-028GP / STC-228GP 配 CCTV）一次后不动**",
+    "收件人 hasti@；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "集成商 25% small；一页纸后不动；坐实（设立日期 + 法定名）。",
+   "code": "SB-388"
+  },
+  "SB-392": {
+   "batch": 106,
+   "name": "MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ（Makrosis；makrosisas.com.tr；伊斯坦布尔 Şişli Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 K:7 D:26）— 2023-11-13 设立的单一股东 A.Ş.；i-PRO（原 Panasonic Security）土耳其 Premium 分销商（Edge AI 摄像机 / NVR / 火灾探测 / 网络设备）；11–50 人；管理者 Engin Ertürk；研究档 KP Mustafa Demirel（m.demirel@）；坐实（设立公告）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：find.com.tr（MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ；TEK PAY SAHİPLİ ANONİM ŞİRKET；Kuruluş 13 Kasım 2023 Pazartesi；Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 İç Kapı No:26 Şişli；经营范围含电子安防设备进出口 / 分销；股本字段为模板占位不采）+ 官网 Hakkımızda / Contact（Makro Sistem Dış Tic. A.Ş.；i-PRO Türkiye Premium Distribütörü；info@makrosisas.com.tr；+90 212 272 47 92）+ ZoomInfo（11–50；Engin Ertürk Yönetici；Sinan Tüten IT）+ kariyer.net 招聘（2023-12 Satış Elemanı）",
+   "url": "https://www.find.com.tr/Company/makrosistemdisticaretanonimsirketi",
+   "number": "MERSİS 未取（A.Ş. 设立公告 2023-11-13）",
+   "status": "Active",
+   "incorporated": "2023-11-13",
+   "company_type": "A.Ş.（单一股东；私有）",
+   "sic": [
+    "安防设备进口分销（i-PRO / Panasonic Security 土耳其 Premium 分销商；网络设备配套）"
+   ],
+   "address": "Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26, Şişli / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Engin Ertürk — Yönetici（管理者）= 拍板人（抄 info@）",
+    "Mustafa Demirel — 研究档 KP（m.demirel@）= 收件人"
+   ],
+   "psc": "单一股东（姓名未取）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**i-PRO Premium 分销商（高端摄像机线缺配套 PoE 交换机）→ 分销 20%，B BIG，加厚一次（STC-228GP / STC-2224GP / STC-4424GCPM 配 i-PRO 项目 + 1:1 规格对照）；升 A 次候选**；稿内不点名 i-PRO / Panasonic",
+    "收件人 m.demirel@ 直呼 Mustafa Bey，抄 info@ 点名 Engin Bey；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次；升 A 次候选；坐实。",
+   "code": "SB-392"
+  },
+  "SB-413": {
+   "batch": 106,
+   "name": "LTE Elektronik Sanayi ve Ticaret Ltd. Şti.（lte.com.tr / iot.com.tr / m2mmarket.com.tr；关联 EBCO Electronic 香港；安卡拉 Çankaya Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10）— 约 2010 年成立的蜂窝 / GNSS / RF / LoRa IoT 模块与网关分销商（Ebyte 土耳其分销、RAKwireless 合作伙伴；面向土耳其与中东电子制造商 / 设计中心；1–10 人；提供 PCB 组装 / 原型服务）；MERSİS 未取 → 部分坐实；KP Enes（姓待核；ebco 邮箱）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网 lte.com.tr（LTE Elektronik Sanayi ve Ticaret Ltd Şti；Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10 Çankaya Ankara；Our companies m2mmarket.com.tr / EBCO Electronic · Hong Kong / iot.com.tr；Ebyte Turkey Distributor）+ RAKwireless 合作伙伴页（LTE Elektronik San.Tic. Ltd. Sti.；15 年经验）+ contactout（Founded 2010；1–10 人）+ automa.net（PCB 组装 / 原型 / 生产支持）+ iot.com.tr Contact（+90 312 443 03 04）",
+   "url": "https://www.lte.com.tr/en/",
+   "number": "MERSİS 未取",
+   "status": "Active",
+   "incorporated": "约 2010",
+   "company_type": "Ltd. Şti.（私有；关联香港 EBCO Electronic）",
+   "sic": [
+    "IoT 模块 / 网关 / 天线 / 连接器 分销 + 设计支持（元器件型分销，非网络设备）"
+   ],
+   "address": "Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10, Çankaya / Ankara",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（1–10 人）",
+   "officers": [
+    "Enes（姓待核）— 研究档 KP（enes@ebcoelectronic.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**元器件型 IoT 分销商（LoRa 网关 / 工业终端客户群）→ 分销 20% 低契合：一页纸（STI 工业线卡：STI-054GP / STI-144GP 配其 LoRa 网关 / 工控客户）一次后不动**",
+    "收件人 enes@；香港 EBCO 一线可中文（Simon 定，默认否）；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "分销 20% 低契合；一页纸后不动；部分坐实。",
+   "code": "SB-413"
+  },
+  "SB-921": {
+   "batch": 106,
+   "name": "Dimas Teknoloji ve Güvenlik（TR；无域名，Gmail；ISAF 名片 Mustafa Yıldız，不会英文，要光收发器价格）— 1 次检索未命中任何同名公司（结果均为同名他人）→ 未坐实；需求（SFP）非 Saga 品类",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索未命中（ZoomInfo / LinkedIn 同名人名、BİGİS 名录等均无关）→ 未坐实，按规程不补查",
+   "url": "",
+   "number": "未取",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未知",
+   "sic": [
+    "未知（名片：技术与安防）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "Mustafa Yıldız — ISAF 名片（dimasteknoloji@gmail.com；+90 530 934 12 80）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 + 需求（SFP）不做 + 不会英文 → 不动**（WhatsApp 客户不入群发）"
+   ],
+   "notes": "未坐实；不动。",
+   "code": "SB-921"
+  },
+  "SB-808": {
+   "batch": 106,
+   "name": "Deponet Elektronik Mamulleri Sanayi Pazarlama A.Ş.（deponet.com.tr；伊斯坦布尔 Kadıköy Kozyatağı Sok. Parlarbaşoğlu Apt. No:28B + 安卡拉 Beştepe Via Tower 分部）— 1998-03-10 设立的网络产品进口分销商（面向经销商；Ruijie 2017 / 2018 全球「最佳增值分销商」、Maipu、Allied Telesis、Teltonika、Leviton、Ruckus、Aten、**Planet**；自有品牌 **Nets**（netsnetwork.com 联系方即 Deponet））；11–50 人；技术服务经理 Hasan Kara（2017 起）；表内无跟进记录；坐实（EMIS 设立日期）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网 Hakkımızda（Deponet Elektronik Mamulleri Sanayi Pazarlama A.Ş.；1998 yılında kurulan；bayilere yönelik；Ruijie / Maipu / Allied Telesis / Teltonika / Nets / QuWireless / Formrack / Dptek / Acuteq / AEM / Noyafa / Leviton；2017 Ruijie En İyi Katma Değerli Distribütör）+ EMIS（Incorporation Date March 10, 1998；Kozyatağı Kadıköy 34742）+ 官网产品目录（厂商列表含 Planet、Ruckus Wireless、Aten；Yönetilebilir Layer 3 PoE Switch 分类）+ ZoomInfo（Hasan Kara Teknik Servis Müdürü 2017–present；11–50）+ netsnetwork.com İletişim（= Deponet Elektronik Mamulleri A.Ş.）+ 官网 İletişim（istanbul@deponet.com.tr；+90 216 384 36 37；安卡拉分部）",
+   "url": "https://deponet.com.tr/hakkimizda/",
+   "number": "MERSİS 未取（A.Ş.；EMIS 1998-03-10）",
+   "status": "Active",
+   "incorporated": "1998-03-10",
+   "company_type": "A.Ş.（私有；两地办公）",
+   "sic": [
+    "网络设备进口分销（经销商渠道；Ruijie / Maipu / Allied Telesis / Planet / Teltonika / Leviton）+ 自有品牌 Nets"
+   ],
+   "address": "Kozyatağı Mah. Kozyatağı Sok. Parlarbaşoğlu Apt. No:28B, 34742 Kadıköy / İstanbul（安卡拉 Beştepe Mah. Nergis Sok. No:7 Via Tower No:44）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Hasan Kara — Teknik Servis Müdürü（2017 起）= 技术把关人（抄）",
+    "（未具名）— 产品 / 采购经理 = 收件人（istanbul@ 点名 satın alma / ürün müdürü）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已卖 Planet + Ruijie 的渠道分销商 + 自有品牌 Nets → 贴标 OEM 30% 可谈（Nets 标 PoE / 工业线）+ 分销 20%（Planet 价位替代），B BIG，加厚一次；升 A 候选（回信即 A）**；稿内不点名 Planet / Ruijie",
+    "收件人 istanbul@ 点名「ürün müdürü / satın alma」，抄 Hasan Kara；切口「a second PoE / industrial line under your Nets label」；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；升 A 候选；坐实。",
+   "code": "SB-808"
+  },
+  "SB-225": {
+   "batch": 106,
+   "name": "CESS Güvenlik Sistemleri（cessguvenlik.com；伊斯坦布尔；2018 起 CCTV / 报警 / 火灾 / 门禁 / 有线无线网络基础设施安装）— 用户表公司名「CESS Govalik」= CESS Güvenlik 对上；ISAF 名片 Şahin Öztürk 的域名 shnrise.com 无任何检索结果、与 CESS 的关系未能证实（同名 Şahin Teknoloji Kocaeli / SHN Teknoloji 均 ≠）→ 部分坐实；需求为光收发器（非 Saga 品类）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：cessguvenlik.com Hakkımızda（CESS Güvenlik Sistemleri, 2018 yılından bu yana；CCTV / hırsız alarmı / yangın ihbar / geçiş kontrol / biometrik / kablolu ve kablosuz network altyapı / ses sistemleri；İstanbul Tekel bayileri 摄像机强制新闻）；shnrise.com 未命中；shngroup.net（Kocaeli Şahin Teknoloji 2008）/ shn.com.tr（SHN Teknoloji）为同名他家不采",
+   "url": "https://www.cessguvenlik.com/hakkimizda/",
+   "number": "MERSİS 未取",
+   "status": "Active（官网在线）",
+   "incorporated": "2018",
+   "company_type": "未取（小型安装商）",
+   "sic": [
+    "安防 / 弱电 / 网络基础设施安装（伊斯坦布尔小型）"
+   ],
+   "address": "İstanbul（具体地址未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "Şahin Öztürk — ISAF 名片（sahin@shnrise.com；与 CESS 关系未证实）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**小安装商 + 需求是 SFP（不做）→ 一页纸（PoE 配套 STC-028GP / STC-228GP，顺带说明光模块不在线上）一次后不动**",
+    "收件人 sahin@shnrise.com；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "集成商 small；一页纸后不动；部分坐实。",
+   "code": "SB-225"
   }
  }
 }
