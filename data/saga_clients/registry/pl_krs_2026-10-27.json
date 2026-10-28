@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 30
+  "count": 34
  },
  "rows": {
   "SA-023": {
@@ -1016,6 +1016,137 @@
    ],
    "notes": "SB-906 已并线至此。",
    "code": "SB-445"
+  },
+  "SB-1004": {
+   "batch": 97,
+   "name": "Arpeo Sp. z o.o.（arpeo.pl；Bielsko-Biała）— 电缆穿墙密封 / 线缆导向 / 电工配件网店，2020 新公司",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：arpeo.pl/polityka-prywatnosci（Arpeo Sp. z o.o.；ul. prof. dr. Mieczysława Michałowicza 12, 43-300 Bielsko-Biała；Sąd Rejonowy Bielsko-Biała VIII Wydz. KRS 0000854041；NIP 5472220160；REGON 386724612）+ imsig（2020-08-07 登记；PKD 46.90.Z；aktywna）+ gowork（资本 5,000 zł；Zarząd Artur Łykowski + Radosław Herman）+ infoveriti（股东 Artur Łykowski 1976 生 33 udziały / Paweł Mierzwa 1990 生 33 udziały）+ arpeo.pl（arpeo@arpeo.pl；站内工业以太网交换机 ESN 页）",
+   "url": "https://www.imsig.pl/krs/0000854041",
+   "number": "KRS 0000854041（NIP 5472220160；REGON 386724612）",
+   "status": "Aktywna",
+   "incorporated": "2020-08-07",
+   "company_type": "Sp. z o.o.（资本 5,000 zł；三名小股东）",
+   "sic": [
+    "46.90.Z 电工配件批发网店（穿墙密封 / 金属软管 / 接地夹 / 工业信号灯 + 工业交换机页）"
+   ],
+   "address": "ul. prof. dr. Mieczysława Michałowicza 12, 43-300 Bielsko-Biała",
+   "accounts": "—（微型）",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Artur Łykowski — Członek Zarządu / 股东（1976 生）",
+    "Radosław Herman — Członek Zarządu",
+    "Paweł Mierzwa — 股东（1990 生）"
+   ],
+   "psc": "Łykowski / Mierzwa / 第三人",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "资本 5,000 zł 的微型配件网店、站内已有工业交换机页（表内「工业电源 5 8 16 电口」）→ **工业非管理 STI 小口数一条线，分销 20% 一页纸即止**，写 arpeo@ 点名 Artur Łykowski",
+    "发信窗口 Thu 12–14 CET；不加厚"
+   ],
+   "notes": "",
+   "code": "SB-1004"
+  },
+  "SB-441": {
+   "batch": 97,
+   "name": "„METAL UNION” Sp. z o.o.（metalunion.pl；Częstochowa）— 冷弯精密钢型材制造商 = 成单终端用户（€50 光模块）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：metalunion.pl/kontakt（Metal Union sp. z o.o.；ul. Żyzna 11F, 42-200 Częstochowa；NIP 573-10-21-083；REGON 150090573；Sąd Rejonowy Częstochowa XVII Wydz. KRS 0000138529）+ krs-pobierz（2002-11-15 登记；最近变更 2026-06-30；主业 24.33.Z 冷弯成型制品）+ bizraport（1995-04-26 开业；资本 1,000,500 zł；净利 91 tys zł；「wartość firmy」50 mln 量级）+ aleo（PKD 24.33.Z / 25.12.Z / 25.61.Z 等）+ pkt.pl（1994 创立）+ 官网（1996 起轧辊成型精密型材：卷帘 / 窗帘轨 / 推拉门 / 中空玻璃间隔条）",
+   "url": "https://www.metalunion.pl/kontakt",
+   "number": "KRS 0000138529（NIP 5731021083；REGON 150090573）",
+   "status": "Aktywna（2026-06-30 有变更）",
+   "incorporated": "1995-04-26（KRS 2002-11-15）",
+   "company_type": "Sp. z o.o.（资本 1,000,500 zł）",
+   "sic": [
+    "24.33.Z 冷弯精密钢型材制造（卷帘 / 窗帘 / 推拉门型材、中空玻璃间隔条）"
+   ],
+   "address": "ul. Żyzna 11F, 42-200 Częstochowa",
+   "accounts": "净利 91 tys zł（bizraport 最近期）",
+   "accounts_due": "—",
+   "size_band": "中型（制造业；人数未取）",
+   "officers": [
+    "管理层未取（rejestr.io 摘要未展开）；研究档：onet 企业邮箱、WhatsApp 加不上"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档谜底**：这是一家钢型材厂的 IT 部门买了 2 个光模块 + 1 个 MC（€50）= 终端用户、非渠道 → **B 保留但不加厚；若发只写一页纸「厂区监控 / 车间网络用商用 PoE + MC」给 IT**",
+    "发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "终端用户；不追。",
+   "code": "SB-441"
+  },
+  "SB-942": {
+   "batch": 97,
+   "name": "DMTrade Mikołaj Tomaszewski（dmtrade.pl；Kościan）— 电子 / CCTV / 智能家居网店 + 批发，Cudy 波兰官方分销（个体工商户）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：dmtrade.pl/pl/contact（DMTrade Mikołaj Tomaszewski；NIP 6981681757；REGON 300138031；Wiśniowa 36, 64-000 Kościan；sklep@dmtrade.pl；BDO 000006055）+ targeo / krs-online（CEIDG 个体；PKD 47.91.Z；2005 起）+ dmtrade.pl 文章（「DMTrade jako oficjalny dystrybutor na Polskę produktów firmy Cudy」）+ b2b.dmtrade.pl（批发端：TV-SAT / DVB-T / 报警 / CCTV / LAN）+ aplikuj（jednostka fizyczna）",
+   "url": "https://www.dmtrade.pl/pl/contact.html",
+   "number": "CEIDG（NIP 6981681757；REGON 300138031）",
+   "status": "Aktywna",
+   "incorporated": "2005",
+   "company_type": "Jednoosobowa działalność gospodarcza（Mikołaj Tomaszewski）",
+   "sic": [
+    "47.91.Z 电子 / RTV / CCTV / 智能家居网店 + B2B 批发（Cudy 官方分销；Spacetronik 等）"
+   ],
+   "address": "ul. Wiśniowa 36, 64-000 Kościan",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（网店 + 批发）",
+   "officers": [
+    "Mikołaj Tomaszewski — 业主（CEIDG）"
+   ],
+   "psc": "Mikołaj Tomaszewski",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "表内「宇航的工业 FS，买的 Cudy 的牌子」= 已经在买深圳品牌 → **分销 20%：商用 PoE + 工业小口数对标 Cudy 价格直接给到位**，一页纸写业主",
+    "与 SB-092 Spacetronik（A 候选）有供货关系（站内卖 Spacetronik 电动桌）→ 若 Spacetronik 成线，DMTrade 可作其下游、不单独加厚；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "",
+   "code": "SB-942"
+  },
+  "SB-784": {
+   "batch": 97,
+   "name": "BCS Sp. z o.o.（原 NSS Sp. z o.o.，2024-10-14 更名；bcs.pl；Warszawa）— 波兰 CCTV 自有品牌 BCS（2008 起）的品牌所有人",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：bcs.pl/gb/content/24-change-of-company-name（2024-10-14 起「NSS Sp. z o.o.」更名「BCS Sp. z o.o.」，NIP / 地址 / 账户不变）+ imsig（NSS SP. Z O.O.；KRS 0000092488；REGON 017161046；NIP 5213124674；2002-02-21 登记；PKD 46.52.Z；ul. Modularna 11, 02-238 Warszawa）+ rejestr.io（Prezes Zarządu Artur Stępowski；资本 50 tys zł）+ nsssecurity.com.pl/o-nas（1998 起进口分销美国报警设备；2008 推出自有 CCTV 品牌 BCS）+ Northdata（LEI 259400J1GBGK8VAOD039；2003 年曾名 N.S.S. Trebor sp. z o.o.）+ 研究档（KP Maciej Sobecki = Project Manager @bcs.pl、Michał Skalecki @bcs.pl；站内 poe 106 / switch 85）",
+   "url": "https://rejestr.io/krs/92488/bcs",
+   "number": "KRS 0000092488（NIP 5213124674；REGON 017161046；LEI 259400J1GBGK8VAOD039）",
+   "status": "Aktywna（2024-10-14 更名）",
+   "incorporated": "2002-02-21（业务 1998）",
+   "company_type": "Sp. z o.o.（资本 50 tys zł）",
+   "sic": [
+    "46.52.Z 安防 / CCTV 进口分销 + 自有品牌 BCS（BCS ECO / LINE / PRO / 含 PoE 交换机）"
+   ],
+   "address": "ul. Modularna 11, 02-238 Warszawa",
+   "accounts": "—（KRS 财报未展开）",
+   "accounts_due": "—",
+   "size_band": "中型（波兰 CCTV 知名品牌；人数未取）",
+   "officers": [
+    "Artur Stępowski — Prezes Zarządu（拍板人）",
+    "Maciej Sobecki — Project Manager（= 研究档 KP m.sobecki@bcs.pl = 产品口）",
+    "Michał Skalecki — 研究档 KP m.skalecki@bcs.pl"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "NSS Sp. z o.o.（2002–2024）",
+    "N.S.S. Trebor sp. z o.o.（2003 前）"
+   ],
+   "lines": [
+    "**研究档 KP 邮箱是 @bcs.pl = 品牌所有人本尊（非 sklep-bcs.pl 经销店）**；BCS 自有标 PoE 交换机 106 处 = 华南贴牌 → **OEM 30% 首选（PL）、B BIG**：商用 PoE 全系贴 BCS 标，写 Project Manager Maciej Sobecki、点名 Prezes",
+    "一个问题：BCS 标 PoE 现供应商交期 / 年量？发信窗口 Thu 12–14 CET；**升 A 候选（回信即 A）**"
+   ],
+   "notes": "OEM 首选；A 候选。",
+   "code": "SB-784"
   }
  }
 }

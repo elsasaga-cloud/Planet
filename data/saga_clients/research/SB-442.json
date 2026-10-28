@@ -40,10 +40,17 @@
  "kp": [
   {
    "name": "Furkan Kalkan",
-   "role": "Technical Manager（用户表）",
+   "role": "研究档 KP（用户表；职务未取）= 收件人，抄 optima@ 点名「satın alma / proje」（第 97 批 官方登记核实 2026-10-28）",
    "email": "furkan@optima.tc（用户表）",
    "phone": "+90 507 463 0566（用户表）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "İ. Tamer Ülgen",
+   "role": "创始人 / CEO（机械工程师；2000-12 Ostim 创业）= 拍板人（仅记档）（第 97 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.optima-engineering.com/en/corporate/about-optima"
   }
  ],
  "grade_override": null,
@@ -54,10 +61,12 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Optima Mühendislik（Optima Engineering）",
-  "hq": "Başkent Organize Sanayi Bölgesi 19. Cadde No:62, Malıköy 06909 Sincan / Ankara（+90 312 815 15 00）；İstanbul Perpa A Blok K:8 No:701",
+  "legal_name": "Optima Mühendislik A.Ş.（原 Ltd. Şti.；MERSİS 未取）",
+  "hq": "Başkent Organize Sanayi Bölgesi 19. Cadde No:62, Malıköy, 06909 Sincan / Ankara",
   "size": "制造商（人数待核）；沙特设厂",
-  "other": "产品：路障、升降柱、滑动门、道闸、破胎器、闸机、LPR 车牌识别、停车道闸"
+  "other": "产品：路障、升降柱、滑动门、道闸、破胎器、闸机、LPR 车牌识别、停车道闸；第 97 批：路障 / 升降柱 / 闸机 / 车牌识别制造商、出口中东 → PoE 交换机为系统配套（外采）→ 工业小口数 + 商用 PoE 贴 Optima 标 = OEM 30% 小（第 97 批 官方登记核实 2026-10-28）",
+  "founded": "2000-12-05（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "100 人（EMIS 2026）"
  },
  "business_lines": [
   "车辆出入口安防设备制造（路障、升降柱、道闸、闸机）",

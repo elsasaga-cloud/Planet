@@ -47,14 +47,16 @@
    "title": "（职务待核）",
    "email": "nathan@wire.tech",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Managing Director / 创始人 / Director（Companies House 11576417；1981-04 生；前 RAF / 皇家海军陆战队）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）"
   },
   {
-   "name": "James",
+   "name": "James Edward Brooks",
    "title": "（姓氏/职务待核）",
    "email": "james@wire.tech",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director（2021-12-21 起；1993-04 生）= 研究档 KP「James」本人 = 抄送（第 97 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -65,8 +67,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 wire.tech，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "Unit 5 Cirencester Business Estate, Esland Place, Love Lane, Cirencester GL7 1YG",
+  "other": "官网 wire.tech，语言 en，快照状态 ok；角色判定来源：用户表；第 97 批：数据中心互连自有品牌（光模块 / DAC / 线缆，Saga 不供）+ Nuvias 独家渠道 → 只做 MC / 光口小交换机贴 Wire 标 OEM 30% 一条线；2026-01 控股变更（刚被收编）→ 不加厚（第 97 批 官方登记核实 2026-10-28）",
+  "legal_name": "WIRE TECHNOLOGIES LIMITED（Companies House 11576417；PSC 2026-01-26 起 Granity Point Group Ltd）",
+  "founded": "2018-09-19（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "6–11 人；营业额 <£1M（微型）"
  },
  "business_lines": [
   "光模块 / DAC / 光纤线缆（自有品牌）",

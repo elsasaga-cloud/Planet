@@ -32,7 +32,8 @@
    "title": "Sales",
    "email": "sales@lanmus.com",
    "phone": "+1 281 995 9001",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "公域 —— **同行（深圳代工贴牌品牌壳，渠道在 UAE / 非洲）：不发**（第 97 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -43,11 +44,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Lanmus Networks（待核）",
-  "founded": "",
-  "hq": "Houston, TX, USA",
+  "legal_name": "Lanmus Networks（美国实体未坐实；TX 地址为共享办公；OUI 登记名 Lanmus Networks Ltd 2024-10-14）",
+  "founded": "≈2024（第 97 批 官方登记核实 2026-10-28）",
+  "hq": "6725 S Fry Rd, Ste 700 #108, Katy, TX 77494（虚拟地址）",
   "size": "小型品牌商（贴牌）",
-  "other": "商用 FS 疑由中国同行代工"
+  "other": "商用 FS 疑由中国同行代工；第 97 批：自称「independently developed by LANMUS」、由 SPOLLEX 分销至 UAE / GCC / 非洲 = 同货源贴牌同行 → 不发价格表、B 不动（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "微型"
  },
  "business_lines": [
   "交换机品牌（贴牌采购）"

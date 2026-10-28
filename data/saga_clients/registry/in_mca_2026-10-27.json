@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 10
+  "updated": "2026-10-28",
+  "count": 11
  },
  "rows": {
   "SA-073": {
@@ -353,6 +353,38 @@
    "notes": "研究档 KP Varun 角色补 Director & CEO；新增 Raj Kumar Gupta（上市体）。",
    "fetched": "2026-10-27",
    "code": "SB-189"
+  },
+  "SB-744": {
+   "batch": 97,
+   "name": "COMMANDO Networks Private Limited（commandonetworks.com；Navi Mumbai，印度）— 自有品牌网络硬件（深圳 / 香港 / 迪拜办公室）= 同行；美国地址为注册代理",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：zaubacorp（COMMANDO NETWORKS PRIVATE LIMITED；CIN U74999MH2015PTC261514；2015-12-30 注册；Registrar Mumbai；实收资本 Rs 100,000；董事 Vazir Ahmed Akhtar Siddiqui + Umair Ahmed Siddiqui）+ commandonetworks.com/about_us（「Indian manufacturer headquartered in Navi Mumbai」）+ /contact（印度 Office 212-213, Bldg 2(A-3), Millennium Business Park, Mahape, Navi Mumbai 400710；美国 COMMANDO Networks Inc. 1007 N Orange St Fl 4, Wilmington DE 19801 = 注册代理地址；迪拜 LLC；深圳华强北 Limited；香港 Limited）+ D&B（Key Principal Vazir Ahmed Akhtar Siddiqui）+ IndiaMART（51–100 人）",
+   "url": "https://www.zaubacorp.com/COMMANDO-NETWORKS-PRIVATE-LIMITED-U74999MH2015PTC261514",
+   "number": "印度 CIN U74999MH2015PTC261514（美国 Inc. 仅注册代理地址）",
+   "status": "Active",
+   "incorporated": "2015-12-30",
+   "company_type": "Private Limited（印度；Siddiqui 家族）",
+   "sic": [
+    "自有品牌交换机 / 路由 / 无线 / MC / SFP / PoE 注入器（深圳采购贴牌，170+ 国商标）"
+   ],
+   "address": "Office 212-213, Building No. 2(A-3), Millennium Business Park, MIDC, Mahape, Navi Mumbai 400710, India",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（51–100 人）",
+   "officers": [
+    "Vazir Ahmed Akhtar Siddiqui — Director / 老板",
+    "Umair Ahmed Siddiqui — Director"
+   ],
+   "psc": "Siddiqui 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**国别更正：美国 → 印度（Navi Mumbai）**；自设深圳华强北办公室直接采购贴牌 = **同行品牌商、没有中间位置 → B 不动、不发**",
+    "记档价值：威尔明顿 1007 N Orange St 是注册代理楼（见过多次），遇到即查母国"
+   ],
+   "notes": "country_fix 印度；不再查。",
+   "code": "SB-744"
   }
  }
 }

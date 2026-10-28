@@ -44,7 +44,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Kenneth G (Ken) Rivera",
+   "role": "President / CEO（BBB / SAM / AZ UTRACS 联系人）= 老板 = 收件人（邮箱未公开 → 官网表单 / info@）（第 97 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.bbb.org/us/ca/chino/profile/low-voltage-contractors/jm-fiber-optics-inc-1126-89069206"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -53,11 +61,12 @@
   "level": "B 级加厚 v1（官网 + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "JM Fiber Optics, Inc.",
-  "founded": "1992（Bloomberg 登记 1993-02-16）",
-  "hq": "13941 Ramona Ave, Suite A, Chino, CA 91710, USA（+1 909-628-3445；info@jmfiberoptics.com）",
+  "legal_name": "JM Fiber Optics, Inc.（加州 Corporation；MBE / SBA 8(a)；SAM 在册）",
+  "founded": "1992（业务）/ 1993-02-16（公司）（第 97 批 官方登记核实 2026-10-28）",
+  "hq": "13941 Ramona Ave, Suite A, Chino, CA 91710",
   "size": "11–50（LinkedIn）/ 8（Bloomberg）；营收 $3.02M（D&B 模型）",
-  "other": "GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训"
+  "other": "GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训；第 97 批：微型政府 / 交通类光纤集成商 → 只谈商业项目一条线，小项目集成商 25%，一页纸写老板；会问 TAA（禁词，不配合）（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "4–9 人；$1–3M"
  },
  "business_lines": [
   "光纤网络设计、施工、熔接、测试与机架安装",

@@ -1,159 +1,160 @@
 {
-  "code": "SB-1031",
-  "name_official": "Ralakde Ltd / Ralakde Automation（Findcontrols，Stoke-on-Trent, UK；findcontrols.com · ralakde.co.uk）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "公司注册",
-      "claim": "法人与成立",
-      "quote": "RALAKDE LTD Registered office address: Unit 5a Victoria Road, Stoke-On-Trent, England, ST4 2HS Company status: Active … Incorporated on: 2 September 2015",
-      "url": "https://find-and-update.company-information.service.gov.uk/company/09757591",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "业务与网点",
-      "quote": "We are an Industrial Supplies and Repairs company in UK. We are expert in repairing and sourcing PCB, PLC, Inverters, Drives, PCB, CNC, HMI, Power Supplies … sales@ralakde.com … +44 1782 563377",
-      "url": "https://findcontrols.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "全球网点",
-      "quote": "Global Presence United Kingdom Stoke On Trent … United States Nashua, NH … Germany Waldsassen … Czech Republic Stará Voda … India Siliguri … © 2025 Ralakde Limited … Founded 2015",
-      "url": "https://findcontrols.co.uk/pages/manufacturer",
-      "date": "2025-03-23"
-    },
-    {
-      "kind": "名录",
-      "claim": "董事履历",
-      "quote": "Deepak Gupta … 2015 -now Founder @ Ralakde Group … 2015 -2016 PLC PRODUCTION TECH ENGINEER @ Radwell International UK Ltd",
-      "url": "https://rocketreach.co/deepak-gupta-email_879243",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业产品 trading；质量一般；WhatsApp 已加",
-      "quote": "处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Deepak Gupta",
-      "role": "Director / Founder（Companies House 公开）",
-      "email": "dgupta@ralakde.co.uk（用户表）",
-      "phone": "+44 7887 913748（用户表，WhatsApp 已加）",
-      "source": "https://open.endole.co.uk/insight/company/09757591-ralakde-ltd"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（公司注册 + 官网核对）"
+ "code": "SB-1031",
+ "name_official": "Ralakde Ltd / Ralakde Automation（Findcontrols，Stoke-on-Trent, UK；findcontrols.com · ralakde.co.uk）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "公司注册",
+   "claim": "法人与成立",
+   "quote": "RALAKDE LTD Registered office address: Unit 5a Victoria Road, Stoke-On-Trent, England, ST4 2HS Company status: Active … Incorporated on: 2 September 2015",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09757591",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Ralakde Ltd（Companies House 09757591）；Ralakde Automation Ltd（11435782）",
-    "founded": "2015-09-02",
-    "hq": "Unit 5a Victoria Road, Stoke-on-Trent ST4 2HS（注册）；Unit 56 Winpenny Road, Newcastle-under-Lyme ST5 7RH（+44 1782 563377；sales@ralakde.com）",
-    "size": "小型（多国小网点）",
-    "other": "工业自动化备件贸易 + 维修；网点 US/DE/CZ/IN"
+  {
+   "kind": "官网",
+   "claim": "业务与网点",
+   "quote": "We are an Industrial Supplies and Repairs company in UK. We are expert in repairing and sourcing PCB, PLC, Inverters, Drives, PCB, CNC, HMI, Power Supplies … sales@ralakde.com … +44 1782 563377",
+   "url": "https://findcontrols.com/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业自动化备件（PLC/变频/驱动/HMI/电源）贸易",
-    "工业电子维修服务"
-  ],
-  "channels": {
-    "网站": "https://findcontrols.com/ · https://findcontrols.co.uk/",
-    "电话": "+44 1782 563377（公开）",
-    "邮箱（公开）": "sales@ralakde.com / sales@findcontrols.co.uk"
+  {
+   "kind": "官网",
+   "claim": "全球网点",
+   "quote": "Global Presence United Kingdom Stoke On Trent … United States Nashua, NH … Germany Waldsassen … Czech Republic Stará Voda … India Siliguri … © 2025 Ralakde Limited … Founded 2015",
+   "url": "https://findcontrols.co.uk/pages/manufacturer",
+   "date": "2025-03-23"
   },
-  "signals": [
-    "自动化备件目录可加 DIN 导轨工业交换机（4/8 口 PoE）作配套 SKU；多国网点 = 小批多次"
-  ],
-  "risks": [
-    "贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STI-144GP",
-    "tier": 20,
-    "why": "分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供"
+  {
+   "kind": "名录",
+   "claim": "董事履历",
+   "quote": "Deepak Gupta … 2015 -now Founder @ Ralakde Group … 2015 -2016 PLC PRODUCTION TECH ENGINEER @ Radwell International UK Ltd",
+   "url": "https://rocketreach.co/deepak-gupta-email_879243",
+   "date": "2026-10-21"
   },
-  "email_hook": "For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 deepakg158@gmail.com, dgupta@ralakde.co.uk；主题多为「CCTV poe switch」）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "UK 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 1；用户表：「处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加」；研究档 risks：贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@luxritesecurity.com）本户见于 2025-03-30 名单；同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入"
-    },
-    "situation": "英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。",
-    "need": "分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供",
-    "breakpoint": "贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进",
-    "saga_now": {
-      "p1": "STI-144GP",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?"
-    },
-    "facts": [
-      {
-        "date": "2024-06-22",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "CCTV poe switch",
-        "why": "1 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-06-22（1 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-03-30",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@luxritesecurity.com，UK-安防分销（一轮） 批次）",
-        "quote": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 deepakg158@gmail.com, dgupta@ralakde.co.uk, ralakde.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 deepakg158@gmail.com, dgupta@ralakde.co.uk, ralakde.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "工业产品 trading；质量一般；WhatsApp 已加",
+   "quote": "处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Deepak Gupta",
+   "role": "Director / PSC 75%+（Companies House 09757591；1992-06 生）= **老板 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）",
+   "email": "dgupta@ralakde.co.uk（用户表）",
+   "phone": "+44 7887 913748（用户表，WhatsApp 已加）",
+   "source": "https://open.endole.co.uk/insight/company/09757591-ralakde-ltd"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（公司注册 + 官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "RALAKDE LTD（Companies House 09757591；关联 Ralakde Automation Ltd 11435782 / Ralakde Holdings Limited 16830812（2025-11-04 新设））",
+  "founded": "2015-09-02（第 97 批 官方登记核实 2026-10-28）",
+  "hq": "Unit 5a Victoria Road, Stoke-On-Trent ST4 2HS",
+  "size": "小型（多国小网点）",
+  "other": "工业自动化备件贸易 + 维修；网点 US/DE/CZ/IN；第 97 批：工业自动化备件贸易 + 维修（SIC 33120 / 33140 / 33200 / 47421），2025-11 新设控股 = 重组中 → 分销 20% 一页纸即止（工业 STI 系列），不加厚（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "微型（1 名股东）"
+ },
+ "business_lines": [
+  "工业自动化备件（PLC/变频/驱动/HMI/电源）贸易",
+  "工业电子维修服务"
+ ],
+ "channels": {
+  "网站": "https://findcontrols.com/ · https://findcontrols.co.uk/",
+  "电话": "+44 1782 563377（公开）",
+  "邮箱（公开）": "sales@ralakde.com / sales@findcontrols.co.uk"
+ },
+ "signals": [
+  "自动化备件目录可加 DIN 导轨工业交换机（4/8 口 PoE）作配套 SKU；多国网点 = 小批多次"
+ ],
+ "risks": [
+  "贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供"
+ },
+ "email_hook": "For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 deepakg158@gmail.com, dgupta@ralakde.co.uk；主题多为「CCTV poe switch」）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "UK 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加」；研究档 risks：贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@luxritesecurity.com）本户见于 2025-03-30 名单；同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入"
+  },
+  "situation": "英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。",
+  "need": "分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供",
+  "breakpoint": "贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?"
+  },
+  "facts": [
+   {
+    "date": "2024-06-22",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "CCTV poe switch",
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-06-22（1 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-03-30",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@luxritesecurity.com，UK-安防分销（一轮） 批次）",
+    "quote": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 deepakg158@gmail.com, dgupta@ralakde.co.uk, ralakde.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 deepakg158@gmail.com, dgupta@ralakde.co.uk, ralakde.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

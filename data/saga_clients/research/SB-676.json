@@ -37,7 +37,15 @@
    "title": "",
    "email": "info@pctedarik.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "公域 = 收件人，点名 İslam Çalık（第 97 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "İslam Çalık",
+   "role": "Key Principal（D&B）= 负责人；n11 店铺登记人 Ali Çalık（şahıs MERSİS 2250094824）（第 97 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.dnb.com/business-directory/company-profiles.pc_tedarik_ithalat_ihracat_yazilim_ticaret_limited_sirketi.6bf2c05e296f4bae217c29a0a17f5285.html"
   }
  ],
  "grade_override": null,
@@ -48,11 +56,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "PC Tedarik（待核）",
-  "founded": "",
-  "hq": "Türkiye",
+  "legal_name": "PC Tedarik İthalat İhracat Yazılım Ticaret Ltd. Şti.（MERSİS 未取；关联 şahıs 登记 Ali Çalık）",
+  "founded": "未取（第 97 批 官方登记核实 2026-10-28）",
+  "hq": "Çınardere Mah. Ankara Cad. No:43A, 34892 Pendik / İstanbul",
   "size": "中小型 IT 批发网店",
-  "other": "OEM 词频 25（自有标？）"
+  "other": "OEM 词频 25（自有标？）；第 97 批：硬盘 / 安防 / 电脑批发网店 + 注册商标 UNİMAX → 贴标 OEM 30% 一句试探 + 分销 20% 为底，价格直接给到位（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "1–50 人"
  },
  "business_lines": [
   "IT / 安防产品批发网店"

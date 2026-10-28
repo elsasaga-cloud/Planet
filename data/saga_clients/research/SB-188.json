@@ -47,14 +47,14 @@
  "kp": [
   {
    "name": "Marco Bohne",
-   "role": "Geschäftsführer（官网联系页公开）",
+   "role": "Geschäftsführer（HRB 19446 Stendal；由 ppa. 升任）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）",
    "email": "bohne@saf-slk.de",
    "phone": "+49 34741 9886-0",
    "source": "https://saf-slk.de/kontakt/"
   },
   {
    "name": "Anika Duschka",
-   "role": "Vertretungsberechtigte ppa.（官网联系页公开）",
+   "role": "ppa.（Impressum 授权代表）= 研究档 KP = 抄送（第 97 批 官方登记核实 2026-10-28）",
    "email": "duschka@saf-slk.de",
    "phone": "+49 34741 9886-0",
    "source": "https://saf-slk.de/kontakt/"
@@ -75,11 +75,13 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Schaltanlagenbau Förderstedt GmbH",
+  "legal_name": "Schaltanlagenbau Förderstedt GmbH（Amtsgericht Stendal HRB 19446；资本 €25,000）",
   "registry": "HRB 19446（Amtsgericht Stendal）· USt-ID DE 289 406 638",
-  "hq": "Ascherslebener Straße 18d, 06467 Seeland OT Hoym, Deutschland（+49 34741 9886-0；info@saf-slk.de）",
+  "hq": "Ascherslebener Straße 18d, 06467 Seeland OT Hoym（旧址 Güsten）",
   "size": "24 人（wer-zu-wem）；营收 ≤€10M",
-  "other": "培训企业（电子/工业电工学徒）；柜体设计与制造 + 现场安装与电缆敷设"
+  "other": "培训企业（电子/工业电工学徒）；柜体设计与制造 + 现场安装与电缆敷设；第 97 批：低压开关柜 / 控制柜制造商，柜内 DIN 导轨工业交换机外采配套 → 工业 PoE 小口数一条线，集成商 25%，直接写 GF（第 97 批 官方登记核实 2026-10-28）",
+  "founded": "2013-04-17（登记 2013-06-03）（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "10–24 人；≤€10M"
  },
  "business_lines": [
   "低压/中压开关柜与配电柜定制制造",

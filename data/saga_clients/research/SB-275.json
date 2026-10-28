@@ -67,7 +67,15 @@
    "date": "2026-10-20"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Yusuf Ölçer",
+   "role": "联系人 / 疑似业主（haber15 企业名录；satis@gelecekbt.com）= 收件人（第 97 批 官方登记核实 2026-10-28）",
+   "email": "satis@gelecekbt.com",
+   "phone": "",
+   "source": "https://www.haber15.com.tr/firmalar/gelecekbt-bilgi-teknolojileri.html"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -76,11 +84,12 @@
   "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-054，W 批次调研 2026-10-19/20）"
  },
  "company_facts": {
-  "legal_name": "GelecekBT Bilgi Teknolojileri",
-  "founded": "",
-  "hq": "Istanbul（Şişli，Perpa Ticaret Merkezi）, 土耳其",
+  "legal_name": "GelecekBT Bilgi Teknolojileri（法律形式 / MERSİS 未取；Perpa 店铺型）",
+  "founded": "2004-10-13（第 97 批 官方登记核实 2026-10-28）",
+  "hq": "Perpa Ticaret Merkezi A Blok Kat:13 No:1990, Okmeydanı, 34384 Şişli / İstanbul",
   "size": "",
-  "other": "Planet 渠道档案 PB-054（2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json）；自有品牌：疑似（待首触核实）：独家分销的 CLR Networks 为其工业 PoE 类目主力（品牌计数 CLR Networks 44 / Planet 3 / 3Onedata 3），有独立品牌站 clrnetworks.com（英文、无公司信息），型号命名（CLR-IES-G82P / G824P / 4361P / M12S-5008P）为中国 ODM 通用命名 → 大概率为其自控贴牌线；最大未知：CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效；**第 92 批核实：gelecekbt.com 与 Telkolink（SB-100）同一老板 Yusuf Ölçer（LinkedIn「Gelecekbt.com General Manager」+ telkolink.com 联系页）→ 本户并线到 SB-100，不单独发信**；外部库 XB-C0688 同样并线（第 92 批 官方登记核实 2026-10-28）"
+  "other": "Planet 渠道档案 PB-054（2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json）；自有品牌：疑似（待首触核实）：独家分销的 CLR Networks 为其工业 PoE 类目主力（品牌计数 CLR Networks 44 / Planet 3 / 3Onedata 3），有独立品牌站 clrnetworks.com（英文、无公司信息），型号命名（CLR-IES-G82P / G824P / 4361P / M12S-5008P）为中国 ODM 通用命名 → 大概率为其自控贴牌线；最大未知：CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效；**第 92 批核实：gelecekbt.com 与 Telkolink（SB-100）同一老板 Yusuf Ölçer（LinkedIn「Gelecekbt.com General Manager」+ telkolink.com 联系页）→ 本户并线到 SB-100，不单独发信**；外部库 XB-C0688 同样并线（第 92 批 官方登记核实 2026-10-28）；第 97 批：自有品牌 Telkolink（「Telkolink, GelecekBT’ye aittir」）+ CLR Networks 独家 + 分销 3Onedata / TG-NET 华南货 → 贴标 OEM 30% 一句试探 + 分销 20% 为底，价格敏感（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "2–10 人"
  },
  "business_lines": [
   "分销商/经销（2004 年起；以太网交换机、PoE 与工业交换机、SFP、光纤/视频转换器、CCTV、工业串口通信、结构化布线；CLR Networks 土耳其独家分销 + ONET / Telkolink / Netkablo 分销；2–10 人）"

@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 33
+  "count": 37
  },
  "rows": {
   "SA-008": {
@@ -1143,6 +1143,138 @@
    ],
    "notes": "人数 / 营收未取（AG 非上市）。",
    "code": "SB-840"
+  },
+  "SB-188": {
+   "batch": 97,
+   "name": "Schaltanlagenbau Förderstedt GmbH（saf-slk.de；Seeland OT Hoym，Sachsen-Anhalt）— 低压开关柜 / 控制柜制造商，GF = 研究档 KP",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：saf-slk.de/impressum（Schaltanlagenbau Förderstedt GmbH；Ascherslebener Straße 18d, 06467 Hoym；Amtsgericht Stendal HRB 19446；USt DE289406638；GF Marco Bohne；ppa. Anika Duschka；Handlungsbevollmächtigter Christopher Roder-Rosenov）+ webvalid / implisense（2013-04-17 成立、2013-06-03 登记；资本 €25,000；经营范围：低压开关与控制设备的规划、制造、安装；原址 Güsten → Seeland）+ Northdata（Ralf Otto / Martin Dziersan 已退出 GF；Marco Bohne 由 ppa. 升 GF）+ Kompass（10–19 人）+ Creditreform（1 名股东）",
+   "url": "https://saf-slk.de/impressum/",
+   "number": "Amtsgericht Stendal HRB 19446",
+   "status": "Active",
+   "incorporated": "2013-04-17（登记 2013-06-03）",
+   "company_type": "GmbH（资本 €25,000；单一股东）",
+   "sic": [
+    "27.12 低压 / 中压开关柜、控制柜定制制造 + 能源管理（培训企业）"
+   ],
+   "address": "Ascherslebener Straße 18d, 06467 Seeland OT Hoym（研究档旧址 Neue Anlage 2, 39439 Güsten）",
+   "accounts": "—（小型 GmbH）",
+   "accounts_due": "—",
+   "size_band": "小型（10–24 人；≤€10M）",
+   "officers": [
+    "Marco Bohne — Geschäftsführer（= 研究档 KP bohne@ 本人 = 拍板人）",
+    "Anika Duschka — ppa.（= 研究档 KP duschka@）",
+    "Christopher Roder-Rosenov — Handlungsbevollmächtigter"
+   ],
+   "psc": "单一股东（姓名未取）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP 就是 GF + 授权代表两人**；开关柜里要装 DIN 导轨工业交换机（外采配套）→ **工业 PoE 小口数一条线（STI-054GP / STI-144GP / STI-288DGGPM），集成商 25%**，一页纸直接写 GF",
+    "地址更正：Güsten → Seeland OT Hoym（Impressum 2025）；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "",
+   "code": "SB-188"
+  },
+  "SB-683": {
+   "batch": 97,
+   "name": "Spectra GmbH & Co. KG（spectra.de；Reutlingen）— 工业 PC 制造商 + ORing 工业交换机分销，三位股东 GF 之一 = 研究档 KP",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：Creditreform（Spectra GmbH & Co. KG；Amtsgericht Stuttgart HRA 726688；最近变更 2025-08-06）+ industrie-pc.de/Impressum（phG Spectra Verwaltungs-GmbH HRB 738432 Stuttgart；GF Jürgen Rauscher, Klaus Rottmayr）+ companyhouse.de（GF Harald Lang 2011-08-16 起 / Klaus Rottmayr；资本 €500,000；KG 2011-08-16 登记）+ Die Deutsche Wirtschaft（90 人；€23M 估；**Inhaber Lang / Rauscher / Rottmayr**；Mahdenstr. 3, 72768 Reutlingen）+ wer-zu-wem（100 人；€10–50M；1982 创立）+ IHK Reutlingen 2025-08（收购 ICP Deutschland GmbH）+ PresseControl 2025-05（收购 Compmall）+ 站点 Winterthur / Linz",
+   "url": "https://firmeneintrag.creditreform.de/72768/7270311204/SPECTRA_GMBH_CO_KG",
+   "number": "Amtsgericht Stuttgart HRA 726688（Komplementärin Spectra Verwaltungs-GmbH HRB 738432）",
+   "status": "Active（2025 两起并购）",
+   "incorporated": "1982（创立）/ 2011-08-16（KG 登记）",
+   "company_type": "GmbH & Co. KG（股东 = 三位 GF）",
+   "sic": [
+    "26.20 工业 PC / 面板 PC / 机架系统自产 + 工业自动化组件分销（含 ORing 工业交换机）"
+   ],
+   "address": "Mahdenstr. 3, 72768 Reutlingen（分部 Winterthur CH / Linz AT）",
+   "accounts": "€10–50M 营收档（wer-zu-wem）",
+   "accounts_due": "—",
+   "size_band": "中型（90–100 人）",
+   "officers": [
+    "Jürgen Rauscher — Geschäftsführer / 股东（= 研究档 KP juergen.rauscher@ 本人 = 拍板人）",
+    "Harald Lang — Geschäftsführer / 股东",
+    "Klaus Rottmayr — Geschäftsführer / 股东",
+    "Harald Behnstedt + Albin Markwardt — Business Development（2025 并购而来）"
+   ],
+   "psc": "Lang / Rauscher / Rottmayr",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP = 三位老板之一**；在售 ORing 工业交换机（台湾货）→ **工业 PoE 自有标 Spectra = OEM 30% 目标 / 分销 20% 为底**（STI 系列对标 ORing 价格差一截），B BIG",
+    "2025 连并两家工业 PC 公司 = 扩品类期 → 一页纸写 Rauscher、抄 vertrieb@ 点名「Produktmanagement Netzwerk」；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "B BIG。",
+   "code": "SB-683"
+  },
+  "SB-171": {
+   "batch": 97,
+   "name": "COMTEK NETWORK SYSTEMS GmbH（comtek-de.com；Mörfelden-Walldorf）— 英国 Comtek（Deeside）德国子公司：网络设备翻新 / 维修 / 二手 = 非品类",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：Northdata（COMTEK NETWORK SYSTEMS GmbH；Amtsgericht Darmstadt HRB 100142（原 Offenbach HRB 40700）；2003-11-11 登记于 Dreieich；2020-02-27 迁 Mörfelden-Walldorf；资本 €25,000；GF Askar Sheibani）+ fusionbase（经营范围：网络设备销售、维修、维护；Nordendstraße 2, 64546 Mörfelden-Walldorf）+ comtek-de.com（USt DE813812023）+ 母公司 Comtek Network Systems (UK) Ltd 05929974（Deeside；1989 Askar Sheibani 创立；PSC Askar + Christine Sheibani；Sales Director Philip Bartlett）",
+   "url": "https://www.northdata.com/COMTEK+NETWORK+SYSTEMS+GmbH,+M%C3%B6rfelden-Walldorf/Amtsgericht+Darmstadt+HRB+100142",
+   "number": "Amtsgericht Darmstadt HRB 100142（母公司 Companies House 05929974）",
+   "status": "Active",
+   "incorporated": "2003-11-11",
+   "company_type": "GmbH（英国 Comtek 集团子公司）",
+   "sic": [
+    "95.12 / 46.52 电信 / 网络设备维修、翻新、二手采购与销售（Cisco 等原厂件）"
+   ],
+   "address": "Nordendstraße 2, 64546 Mörfelden-Walldorf",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（德国分部；集团 Deeside 为主）",
+   "officers": [
+    "Askar Sheibani — Geschäftsführer / 集团 CEO（1951 生；Deeside）",
+    "Philip John Bartlett — 集团 Sales Director（1977 生）",
+    "Christine Sheibani — 集团 HR Director / PSC"
+   ],
+   "psc": "Askar + Christine Sheibani（经英国母公司）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "翻新 / 二手原厂件商 = **不买新品白牌 → 非品类，B 不动、不发**（研究档已写「翻新、维修与二手采购」，本批坐实法人）"
+   ],
+   "notes": "不再查。",
+   "code": "SB-171"
+  },
+  "SB-794": {
+   "batch": 97,
+   "name": "Wiesemann & Theis GmbH（wut.de；Wuppertal）— 1979 起的 Web-IO / Com-Server 制造商（W&T），50 人，二代接班",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：wut.de Impressum（Wiesemann & Theis GmbH；Porschestr. 12, 42279 Wuppertal；GF Tobias Theis (M.Eng.)；Amtsgericht Wuppertal HRB 6377；USt DE121008340）+ wut.de 新闻（2024 年初 Rüdiger Theis 近 40 年后把 GF 交给儿子 Tobias Theis；1979 由 Reinhard Wiesemann + Rüdiger Theis 创立；50 人）+ Creditreform（HRB 6377；1 GF + 2 Prokurist；3 名股东；2024-01-05 公告 GF 变更）+ wer-zu-wem（53 人；€10–50M）+ Kompass（资本 €250,001）+ wut.de 联系人 PDF（产品经理 Frank Thiel / Marc Lüppken / Jan Gerdes）",
+   "url": "https://www.wut.de/e-wwwww-im-inde-000.php",
+   "number": "Amtsgericht Wuppertal HRB 6377",
+   "status": "Active",
+   "incorporated": "1979",
+   "company_type": "GmbH（资本 €250,001；Theis 家族 3 名股东）",
+   "sic": [
+    "26.20 网络 I/O（Web-IO）/ Com-Server / USB-Server / 串口转换 / 光纤接口 / 网络技术自研自产（Wuppertal 本地生产）"
+   ],
+   "address": "Porschestr. 12, 42279 Wuppertal",
+   "accounts": "€10–50M 营收档",
+   "accounts_due": "—",
+   "size_band": "小型（50–53 人）",
+   "officers": [
+    "Tobias Theis — Geschäftsführer（2024-01 起；二代）",
+    "Rüdiger Theis — 创始人 / 品牌大使（已卸任 GF）",
+    "Frank Thiel / Marc Lüppken / Jan Gerdes — Produktmanager（公开邮箱 f.thiel@ / m.lueppken@ / j.gerdes@）"
+   ],
+   "psc": "Theis 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**准同行**：自研自产网络 I/O 与接口器件、「made in Wuppertal」为卖点，目录里的交换机是补位转售 → 对华南货接受度低 → **只给产品经理一页纸（工业 / 商用 PoE 补位，MC / 光口），不加厚、不投第 2 封**",
+    "研究档无 KP → 收件人 Jan Gerdes（SPE / 网络方向产品经理）；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "低概率。",
+   "code": "SB-794"
   }
  }
 }

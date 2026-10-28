@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 35
+  "count": 39
  },
  "rows": {
   "SA-015": {
@@ -1227,6 +1227,136 @@
    ],
    "notes": "下轮若顺手：CH 按「SIMPLE TECHNOLOGY (UK)」直查一次。",
    "code": "SB-782"
+  },
+  "SB-1031": {
+   "batch": 97,
+   "name": "RALAKDE LTD（findcontrols.com / ralakde.co.uk；Stoke-on-Trent）— 工业自动化备件贸易与维修，一人 PSC",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 09757591（RALAKDE LTD；2015-09-02 注册；Unit 5a Victoria Road, Stoke-On-Trent ST4 2HS；Active；SIC 33120 / 33140 / 33200 / 47421；最近账目至 2025-07-31；下期 2026-07-31 应 2027-04-30 递交）+ officers（Deepak Gupta，1992-06 生，Director 2019-11-06 起，印度籍 / 英国居住；曾 2015–2018 任董事）+ PSC（Deepak Gupta 75%+）+ 关联：RALAKDE AUTOMATION LTD 11435782（2018-06-27；账目应 2026-03-31 → 是否逾期待核）、RALAKDE HOLDINGS LIMITED 16830812（2025-11-04 新设控股）、RALAKDE AUTOMOTIVE LTD 12121820（已注销）+ Endole（1 名股东）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09757591",
+   "number": "Companies House 09757591（关联 11435782 / 16830812）",
+   "status": "Active（2025-11 新设控股公司 = 重组中）",
+   "incorporated": "2015-09-02",
+   "company_type": "Private limited company（Deepak Gupta 一人 PSC）",
+   "sic": [
+    "33120 机械维修 / 33140 电气设备维修 / 33200 工业设备安装 / 47421 手机零售（工业自动化备件贸易 + 维修）"
+   ],
+   "address": "Unit 5a Victoria Road, Stoke-On-Trent ST4 2HS",
+   "accounts": "微型 / 小型（2025-07-31 期已递交）",
+   "accounts_due": "2027-04-30（2026-07-31 期）",
+   "size_band": "微型（1 名股东；人数未取）",
+   "officers": [
+    "Deepak Gupta — Director / PSC 75%+（= 研究档 KP dgupta@ 本人 = 老板）"
+   ],
+   "psc": "Deepak Gupta",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "备件贸易（停产 PLC / 驱动件）→ 交换机只是顺带 → **分销 20% 一页纸即止（工业 DIN 导轨 STI 系列），不加厚**；老板本人是 KP，直接写",
+    "发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "",
+   "code": "SB-1031"
+  },
+  "SB-975": {
+   "batch": 97,
+   "name": "CCTV GLOBAL LONDON LTD（cctv-global.co.uk / cctv-store.co.uk；Chobham, Surrey）— Hikvision / HiLook / Ajax 授权分销，两位创始董事",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 08411023（CCTV GLOBAL LONDON LTD；2013-02-20 注册；Alpha 319, Building K, Chobham Business Centre, Chertsey Road, Chobham, Woking GU24 8JB；Active；2 officers / 0 resignations）+ officers（Iain Robert McNeil，1972-04 生，Director 2013-02-20 起；Gonçalo Filipe Dos Santos Silva，1983-10 生，葡萄牙籍，Director 2013-02-20 起；两人均 PSC）+ LinkedIn（Iain McNeil = Co-founder，负责开发 / 管理 / 运营）+ cctv-global.co.uk（Hikvision / HiLook / AJAX 授权分销，供英国与爱尔兰）+ cctv-store.co.uk 隐私政策（数据控制人 Iain McNeil）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08411023",
+   "number": "Companies House 08411023",
+   "status": "Active",
+   "incorporated": "2013-02-20",
+   "company_type": "Private limited company（两位创始人 PSC）",
+   "sic": [
+    "46.52 CCTV / 报警 / 对讲 / 门禁分销（Hikvision / HiLook / Ajax / EZVIZ；站内 Ruijie 交换机）"
+   ],
+   "address": "Alpha 319, Building K, Chobham Business Centre, Chertsey Road, Chobham, Woking, Surrey GU24 8JB",
+   "accounts": "—（小型）",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Iain Robert McNeil — Co-founder / Director / PSC（= 研究档 KP imcneil@ 本人）",
+    "Gonçalo Filipe Dos Santos Silva — Co-founder / Director / PSC"
+   ],
+   "psc": "McNeil + Santos Silva",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP = 联合创始人本人**；现卖 Ruijie 交换机配 Hikvision → **分销 20%：商用 PoE（STC-028GP / STC-228GP / STC-2224GP）对标 Ruijie 价格直接给到位**，一页纸",
+    "发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "",
+   "code": "SB-975"
+  },
+  "SB-154": {
+   "batch": 97,
+   "name": "WIRE TECHNOLOGIES LIMITED（wire.tech；Cirencester）— 数据中心互连产品自有品牌（光模块 / DAC / 线缆），2026-01 并入 Granity Point Group",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 11576417（WIRE TECHNOLOGIES LIMITED；2018-09-19 注册；Unit 5 Cirencester Business Estate, Esland Place, Love Lane, Cirencester GL7 1YG；Active；2 officers）+ officers（Nathan Brian Barrowclough，1981-04 生，Director 2018-09-19 起；James Edward Brooks，1993-04 生，Director 2021-12-21 起）+ filing history（**2026-01-26 PSC 由 Barrowclough 变更为 Granity Point Group Ltd**）+ Endole（微型：营业额 <£1M、<10 人；2025-09 递交账目）+ Tracxn（2024-09-30 6 人）+ LinkedIn（11–50 人；「UK based manufacturer of data transmission products」；MD Nathan Barrowclough，前 RAF / 皇家海军陆战队）+ Nuvias 2022（英国独家分销）+ BASEC 客户页",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11576417",
+   "number": "Companies House 11576417（PSC Granity Point Group Ltd，2026-01-26 起）",
+   "status": "Active",
+   "incorporated": "2018-09-19",
+   "company_type": "Private limited company（控股 Granity Point Group）",
+   "sic": [
+    "47910 网络互连产品自有品牌（光模块 / DAC / AOC / MPO / CAT 线 / MC / PDU）设计制造 + 渠道分销（Nuvias）"
+   ],
+   "address": "Unit 5 Cirencester Business Estate, Esland Place, Love Lane, Cirencester, Gloucestershire GL7 1YG",
+   "accounts": "微型（营业额 <£1M）",
+   "accounts_due": "—",
+   "size_band": "微型（6–11 人）",
+   "officers": [
+    "Nathan Brian Barrowclough — Managing Director / 创始人（= 研究档 KP nathan@ 本人）",
+    "James Edward Brooks — Director（= 研究档 KP「James」james@ 本人）"
+   ],
+   "psc": "Granity Point Group Ltd（2026-01-26 起；此前 Barrowclough）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**两位研究档 KP = 两位董事本人**；自有品牌 + 走 Nuvias 渠道 → **MC / 光口小交换机贴 Wire 标 = OEM 30% 一条线（STC-110XGE / 光口型号），不碰其光模块 / DAC 主业（Saga 不供）**",
+    "2026-01 控股变更 = 刚被收编 / 重组 → 一页纸写 Nathan、抄 James，不加厚；发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "",
+   "code": "SB-154"
+  },
+  "SB-255": {
+   "batch": 97,
+   "name": "SWITCHTEC LIMITED（switchtec.com；Stone, Staffordshire）— 1982 起的工业电气 / 电子元器件分销，Lester 家族，7,000+ 现货 SKU",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 01613368（SWITCHTEC LIMITED；1982-02-12 注册；Brooms Road, Stone Business Park, Stone ST15 0SH；Active；SIC 46520；最近账目至 2025-12-31；下期 2026-12-31 应 2027-09-30 递交；11 officers / 3 resignations）+ officers / companycheck（Jeremy Alan Lester 1977-03 生 Director 2003-11-07 起 = MD；Janet Lester 1947-09 生 Director + Secretary 1991 起；Julia Mary Johnson；Emma Jane Lester；Daniel Adam Kelsall（Technical Sales）；John Plows 1997 起；**Nick Neil Morgan = Sales Director，2024-06-14 起**；创始人 Alan Lester 2020-04-26 退任）+ 关联 SWITCHTEC COMPONENTS LIMITED 02612994 / SWITCHTEC ELECTRONICS LIMITED 05541783（同址）+ Business Live 2022（40 周年；家族经营）+ Stone Town Council 2026-05（J. Lester 申请厂房钢结构扩建）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01613368",
+   "number": "Companies House 01613368（关联 02612994 / 05541783）",
+   "status": "Active（2026-05 申请扩建）",
+   "incorporated": "1982-02-12",
+   "company_type": "Private limited company（Lester 家族）",
+   "sic": [
+    "46520 工业电气 / 电子元器件批发（7,000+ 现货；无最小订量）"
+   ],
+   "address": "Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH",
+   "accounts": "小型（2025-12-31 期已递交）",
+   "accounts_due": "2027-09-30（2026-12-31 期）",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Jeremy Alan Lester — Managing Director / Director（= 研究档 KP；sales@ 公域）",
+    "Nick Neil Morgan — Sales Director（2024-06-14 起）",
+    "Daniel Adam Kelsall — Director / Technical Sales",
+    "Janet Lester — Director / Company Secretary（创始人之妻）",
+    "Julia Mary Johnson / Emma Jane Lester — Directors（家族）"
+   ],
+   "psc": "Lester 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "工业元器件目录商（DIN 导轨 / 机柜配套）→ **工业 DIN 导轨 PoE 一条线（STI-054GP / STI-144GP / STI-288DGGPM），分销 20%**，一页纸写 MD Jeremy Lester、抄 Sales Director Nick Morgan",
+    "2026 扩建 = 扩品类窗口；发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "",
+   "code": "SB-255"
   }
  }
 }

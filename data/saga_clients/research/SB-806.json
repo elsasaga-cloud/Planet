@@ -43,7 +43,8 @@
    "title": "Vice President, Operations（表内 Paul S）",
    "email": "psanborn@general-data.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Vice President Operations（explorium）= **运营 / 采购口 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 datageneral.co，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "4354 Ferguson Drive, Cincinnati, OH 45245",
+  "other": "官网 datageneral.co，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 97 批：标签 / 条码 / 网络集成商，已有自有 DG 标 PoE 交换机（DG-S1930K 系列 = 华南贴牌）→ OEM 30% 首选、B BIG，写 VP Operations 价格直接给到位（第 97 批 官方登记核实 2026-10-28）",
+  "legal_name": "General Data Company, Inc.（俄亥俄；SoS 号未取；Tracxn 记法人 1999-12-31）",
+  "founded": "1981（Pete Wenzel）（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "231–275 人；$37–104M（第三方区间）"
  },
  "business_lines": [
   "企业无线 / 交换机 / 云管理（自有品牌 DG）"

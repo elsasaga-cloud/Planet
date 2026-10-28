@@ -39,7 +39,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Askar Sheibani",
+   "role": "Geschäftsführer / 集团 CEO（1989 Deeside 创立 Comtek）—— 非品类（翻新 / 二手）：不发（第 97 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.northdata.com/COMTEK+NETWORK+SYSTEMS+GmbH,+M%C3%B6rfelden-Walldorf/Amtsgericht+Darmstadt+HRB+100142"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -48,10 +56,12 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Comtek Network Systems GmbH（Comtek Netzwerksysteme GmbH）",
-  "hq": "Nordendstraße 2, 64546 Mörfelden-Walldorf, Deutschland（+49 6105 303 9607；info@comtek-de.com）",
+  "legal_name": "COMTEK NETWORK SYSTEMS GmbH（Amtsgericht Darmstadt HRB 100142，原 Offenbach HRB 40700；母公司 Comtek Network Systems (UK) Ltd 05929974）",
+  "hq": "Nordendstraße 2, 64546 Mörfelden-Walldorf",
   "size": "1–10（ContactOut，德国站）",
-  "other": "业务：电信与网络系统采购、维修、翻新；库存为翻新 Cisco 交换机、IP 话机、二手网络硬件；母公司 Comtek Network Systems Ltd（Deeside, Wales, 1989）"
+  "other": "业务：电信与网络系统采购、维修、翻新；库存为翻新 Cisco 交换机、IP 话机、二手网络硬件；母公司 Comtek Network Systems Ltd（Deeside, Wales, 1989）；第 97 批：网络设备翻新 / 维修 / 二手商 = 不买新品白牌 → 非品类，B 不动、不发（第 97 批 官方登记核实 2026-10-28）",
+  "founded": "2003-11-11（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "小型（德国分部）"
  },
  "business_lines": [
   "翻新 Cisco 交换机/IP 话机销售",

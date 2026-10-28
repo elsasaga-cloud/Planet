@@ -45,14 +45,16 @@
    "title": "General Manager",
    "email": "mithat.yucel@technopc.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Yönetim Kurulu Başkanı / 分管产品管理（官网组织架构页；1998 Yücel Elektronik 联合创始人）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Murat Yücel",
    "title": "Managing Partner",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "创始合伙人 / 销售市场执行合伙人（Coşkun Murat Yücel；D&B Key Principal）= 抄送（第 97 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -63,8 +65,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 technopc.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Ataşehir / İstanbul（详细地址未取）",
+  "other": "官网 technopc.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案；第 97 批：本土 PC / 工业 PC / NVR 品牌，表内「工业 PoE 买的 Ewind 的」= 已在深圳买工业 PoE 贴标 → OEM 30% 首选，对标 Ewind 报价；升 A 候选（回信即 A）（第 97 批 官方登记核实 2026-10-28）",
+  "legal_name": "Technopc Teknoloji San. ve Tic. A.Ş.（ETBİS 登记 A.Ş.；MERSİS 未取）",
+  "founded": "1998（Yücel Elektronik）/ 2006（Technopc 品牌）（第 97 批 官方登记核实 2026-10-28）",
+  "staff": "51–200 人"
  },
  "business_lines": [
   "安防 NVR / IPC / 网络产品（自有品牌 Technopc）"
