@@ -1,0 +1,121 @@
+# -*- coding: utf-8 -*-
+"""第 118 批（T29-U111，2026-10-28）第 3 段 13 户（PK 第 5–17 户）—— 官方登记核实写入 registry（PK 路径：SECP / NTN 1 查不出；官网 + jamals / businesslist / lookup.pk 名录 + 海关进口记录（tendata / volza）→ 坐实 仅限「法定名 + 地址 + 进口记录」三合一，其余 部分坐实）。"""
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from registry_store import put
+B = 118
+F = '2026-10-28'
+PK = '— 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（PTA 不声称；进口清关 / 关税全由买方）'
+
+put('SB-1101', key='other', batch=B, name='Waseem Shah（powerlogic1965@gmail；无公司名 / 域名；**0 查**）— 要目录、2025-02 对 2 光 2 电 mini 回「need info to promote」= 想代推；身份不明', iso='PK', fetched=F,
+    source='0 查（gmail + 无公司名）；2026-10-28', url='', number='0 查', status='身份不明', incorporated='—', company_type='个人',
+    sic=['身份不明（巴基斯坦）'], address='未取', accounts='—', accounts_due='—', size_band='个人',
+    officers=['Waseem Shah — 表内联系人（研究档 KP；powerlogic1965@gmail.com）'], psc='—', charges='', prev_names=[],
+    lines=['**身份不清 + 想白拿资料代推 → 不动（B 保留；报出公司名 / 网站再核）**'],
+    notes='不动（身份不清）；0 查。')
+put('SB-109', key='other', batch=B, name='International Technology Exchanger (ITE)（ite.net.pk；**2004 年创立；卡拉奇 The Forum, Suite 611, 6th Floor, Clifton, Karachi 75600；021-3459 8598；另 M1-A Falak Naz Center, Shahrah-e-Faisal（FB）+ 拉合尔 Johar Town 办公室；Faisal Javed = Director（ZoomInfo）；SECP / NTN 1 查未得 → 部分坐实**）— IT 方案商（Cisco / Juniper / Fortinet / HPE / Dell 伙伴；企业 / 工业 / 政府；卡拉奇 / 拉合尔 / 伊斯兰堡）；2025-04 反问「有 1 GE + 4 FE 路由器吗」（Saga 无）', iso='PK', fetched=F,
+    source='PK · 1 次检索：ite.net.pk（Founded in 2004；Trusted by Corporate, Industrial & Government sectors；Karachi, Lahore & Islamabad；partnerships with Cisco, Juniper, Fortinet, HPE & Dell；The Forum, Suite 611, 6th Floor, Clifton, Karachi 75600；021-34598598）+ zoominfo（Faisal Javed Director at International Technology Exchanger；Block g4/737 Khokhar Chowk Johar Town, Lahore）+ facebook（M1-A, Falak Naz Center, Main Shahra-e-Faisal, Karachi）；SECP 未得；2026-10-28',
+    url='https://ite.net.pk/',
+    number='未取（SECP / NTN 1 查未得）', status='营业中（官网 + 企业库）', incorporated='2004', company_type='未取（Pvt Ltd 推定）',
+    sic=['IT 方案 / 设备供应（Clifton, Karachi；三城）'],
+    address='The Forum, Suite 611, 6th Floor, Clifton, Karachi 75600, Pakistan', accounts='未取', accounts_due='—', size_band='小型',
+    officers=['Faisal Javed — Director（研究档 KP；faisal@ite.net.pk；+92 21 3459 8598）= 拍板人 / 收件人'], psc='未取', charges='', prev_names=[],
+    lines=['**20 年 SI、Director 本人回信（问路由器）→ 集成商 25% B，一页纸一次（切口：路由器不做明说；接入 STC-4424GCPM $165（L2+ Marvell）/ STC-2224GP $86 / STC-228GP $33 一口价 + MOQ 1 + 付费样机；英文，Faisal 直呼）' + PK + '**；再无回声 → 不动',
+           '守界：政府项目不主动提；不点名 Cisco 替代'],
+    notes='集成商 25%；一页纸一次（预付 100%）；部分坐实（官网 + 企业库：成立年 + 地址 + 电话 + Director；SECP 号未取）。')
+put('SB-1108', key='other', batch=B, name='SUNMARS Enterprises（sunmarsent.com；**M-2, Mezzanine Floor, Raza Arcade, Main Shahrah-e-Faisal（近 Days Inn）, PECHS Block 7 & 8, Karachi 75400；+92 321 275 5707 / 021 3454 4758 / 0300 077 0770；CEO Ghulam Mohiuddin = 表内 Ghulam Mohuied Din ✓；2006 年起；Honeywell 经销；SECP / NTN 1 查未得 → 部分坐实**）— 消防 / 安防系统集成（FACP / 气体探测 / 气体灭火 / PA / CCTV-IP / 门禁 / 停车 / 排队 / BMS）；1–10 人；营销 Aasma Nasir；2024-03 回「问我是谁」后发目录、无下文；无邮箱（仅 WA）', iso='PK', fetched=F,
+    source='PK · 1 次检索：sunmars.enic.pk（SUNMARS Enterprises；Fire Alarm & Gas Detection System alongwith CCTV；M-2, Mezzanine Floor, Raza Arcade, Main Sharah-e-Faisal；0092-300-0770770）+ lookup.pk/87420（Mezzanine Floor 2, Raza Arcade, Block 7 & 8, PECHS, Karachi；+92-321-2755707；Managed By Mr. Ghulam Mohiuddin - CEO；Y.O.E 2006）+ businessbook.pk（92-21-34544758；honeywell distributor；sunmarsent.com）；SECP 未得；2026-10-28',
+    url='https://www.lookup.pk/87420/sunmars-enterprises',
+    number='未取（SECP / NTN 1 查未得）', status='营业中（名录 + 社媒）', incorporated='2006', company_type='Enterprises（独资 / 合伙口径）',
+    sic=['消防 / 安防系统集成（PECHS, Karachi）'],
+    address='M-2, Mezzanine Floor, Raza Arcade, Main Shahrah-e-Faisal, PECHS, Karachi 75400, Pakistan', accounts='未取', accounts_due='—', size_band='微型（1–10）',
+    officers=['Ghulam Mohiuddin — CEO（研究档 KP；+92 321 275 5707；名录 Managed By 吻合）', 'Aasma Nasir — Marketing（研究档 KP；+92 305 222 1659）'], psc='Ghulam Mohiuddin', charges='', prev_names=[],
+    lines=['**微型消防集成商 + 无邮箱 + 目录已发无下文 → 不动（B 保留；WA 来询按集成商 25% 报 STC-028GP / STC-228GP 摄像机 PoE，预付 100%）**'],
+    notes='不动（微型 + 无邮箱）；部分坐实（名录三源：地址 + 电话 + CEO + 成立年；SECP 号未取）。')
+put('SB-1116', key='other', batch=B, name='LITECH Pakistan (Private) Limited（litech.com.pk；**2018 年设立（母公司 Litech Sdn Bhd 马来西亚 1999）；总部 Office No. 01, Ground Floor, Layallpur Regency Plaza, 949-Mall Road, New Civil Lines, Faisalabad 38850；+92 41 262 6672 / +92 310 092 4444（= KP 手机 ✓）；费萨拉巴德 5.25 英亩光缆制造基地；办公室 伊斯兰堡 / 费萨拉巴德 / 拉合尔 / 卡拉奇；客户 PTCL / Wateen / Zong / Mobilink + Huawei / ZTE 承包商；D&B 收录；SECP 号 1 查未得 → 部分坐实**）— 光缆 / 光纤器材制造 + 分销 + 项目承包；**2024-03-09 主动 RFQ（接入 / 汇聚交换机 + 路由器，华为型号为参照，要技术符合性声明，称多项目在管线、想长期合作）→ 我方欠答**；KP Hassan Ijaz Cheema（Manager Business Development）', iso='PK', fetched=F,
+    source='PK · 1 次检索：litech.com.pk/about-litech（Established in 1999, Litech Sdn Bhd；In 2018 LITECH Pakistan Private Limited was established；PTCL, Wateen Telecom, Zong, Mobilink；Huawei, ZTE；5.25 acres Faisalabad manufacturing；Islamabad, Faisalabad, Lahore and Karachi；(+92) 41 262 6672；(+92) 310 0924444；Office No. 01, Ground Floor, Layallpur Regency Plaza, 949-Mall Road, New Civil Lines, Faisalabad）+ dnb（LITECH PAKISTAN (PRIVATE) LIMITED；Faisalabad, Punjab 38850）+ zoominfo；SECP 号未得；2026-10-28',
+    url='https://litech.com.pk/about-litech/',
+    number='未取（(Private) Limited；SECP 号 1 查未得）', status='营业中（官网 + D&B）', incorporated='2018', company_type='(Private) Limited（马来西亚 Litech Sdn Bhd 子公司）',
+    sic=['光缆制造 + 电信器材分销 + 项目承包（Faisalabad；四城）'],
+    address='Office No. 01, Ground Floor, Layallpur Regency Plaza, 949-Mall Road, New Civil Lines, Faisalabad 38850, Pakistan', accounts='未取', accounts_due='—', size_band='中小（制造 + 四地办公室）',
+    officers=['Hassan Ijaz Cheema — Manager Business Development（研究档 KP；hassancheema@litech.com.pk；+92 310 092 4444 = 官网电话）= 收件人'], psc='Litech Sdn Bhd（母公司）', charges='', prev_names=[],
+    lines=['**主动 RFQ + 多项目 + 制造商 + 我方欠答 → 集成商 25% B（升 A 候选 ★），一页纸 + 补答（切口：接入 = STC-4424GCPM $165（L2+ Marvell）/ 汇聚 10G = STH-2C24XF-HSI $1,500（CENTEC；24 光 10G）；路由器不做明说；技术符合性逐条按我方实际规格答、不套华为型号；MOQ 1 + 付费样机；英文，Hassan 直呼；opener 引 2024-03-09 他的 RFQ 主题）' + PK + '**；回信 → 加厚 + 升 A',
+           '守界：电信运营商 / 承包商项目按单核；PTA 不声称'],
+    notes='集成商 25%（升 A 候选 ★）；一页纸 + 补答 2024-03 RFQ（预付 100%）；部分坐实（官网 + D&B：法定名 + 总部 + 电话 + 成立年；SECP 号未取）。')
+put('SB-114', key='other', batch=B, name='Swift Solution & Services（swift.net.pk；**伊斯兰堡；业主 Abdul Mateen Awan（领英 + ICCI 会员名录）；2003 年成立；登记号 1 查未得 → 部分坐实**）— 电信 / 网络 / 广播方案商（视频会议、数据通信、生物识别、RFID、无线电广播、IP 电话；客户含政府 / 广播 / 国防 / 教育 → 守界按单核）；表内兴趣「1 光 8 ST」、2024-05 要商用交换机价目', iso='PK', fetched=F,
+    source='PK · 1 次检索：linkedin.com/in/abdul-mateen-awan-050a5a93（Swift Solution & Services；Islāmābād）+ 研究档 icci.pk/listing/swift-solution-services（Proprietor Abdul Mateen Awan；+92 333 512 0078）；登记号未得；2026-10-28',
+    url='https://www.icci.pk/listing/swift-solution-services/',
+    number='未取（独资；登记号 1 查未得）', status='营业中（商会名录 + 领英）', incorporated='2003', company_type='独资（Proprietor 口径）',
+    sic=['电信 / 网络 / 广播方案（Islamabad）'],
+    address='Islamabad, Pakistan（门牌未取）', accounts='未取', accounts_due='—', size_band='小型',
+    officers=['Abdul Mateen Awan — Proprietor（研究档 KP；mateen@swift.net.pk；+92 333 512 0078）= 拍板人 / 收件人'], psc='Abdul Mateen Awan', charges='', prev_names=[],
+    lines=['**业主本人要过价目、需求明确（1 光 8 电）→ 集成商 25% B，一页纸一次（切口：STC-228GP $33（8 电 + 2 SFP）/ STI-288DGGPM $137（工业管理）+ STC-2224GP $86 一口价 + MOQ 1 + 付费样机；英文，Mateen 直呼；opener 引 2024-05 他要价目）' + PK + '**；再无回声 → 不动',
+           '守界：国防 / 政府 / 广播项目按单核，不主动提；PTA 不声称'],
+    notes='集成商 25%；一页纸一次（预付 100%）；部分坐实（商会名录 + 领英：业主 + 成立年；登记号未取）。')
+put('SB-120', key='other', batch=B, name='Pronet (Pvt) Ltd（pronet-tech.net；**1996 年起；约 200 人；卡拉奇 Horizon Tower, Plot Commercial 2/6, Block 3, Clifton；+92 21 3582 2401-4；伊斯兰堡 3rd Floor, Redco Plaza, Jinnah Avenue, Blue Area；拉合尔；迪拜采购联络（LinkQuest）；Avaya 巴基斯坦独家 Diamond 伙伴（2015 起）、Fortinet Expert；SECP 号 1 查未得 → 部分坐实**）— IT 基础设施 / 网络安全 / 数据中心 / 联络中心集成商（金融 / 企业客户）；表内 Muhammad Azhar Yousfani 2024-01 要「商用 FE/GE 收发器 5–7 USD」目标价、此后「有需求会说」×3', iso='PK', fetched=F,
+    source='PK · 1 次检索：pronet-tech.net/about-us（Pronet began in 1996 … 200-strong team with offices in Karachi, Lahore and Islamabad, supported by a Dubai-based procurement and technology liaison；Sole Diamond Business Partner for Avaya in Pakistan since 2015；Expert Partnership status with Fortinet；Horizon Tower, Plot# Commercial 2/6, Block No.3, Clifton, Karachi；(+92-21)35822401-4）+ /contact-us（Islamabad 3rd Floor, Redco Plaza, Jinnah Avenue, Blue Area）；SECP 号未得；2026-10-28',
+    url='https://pronet-tech.net/about-us/',
+    number='未取（(Pvt) Ltd；SECP 号 1 查未得）', status='营业中（官网 2025 更新）', incorporated='1996', company_type='(Pvt) Ltd',
+    sic=['IT 基础设施 / 安全 / 数据中心集成（Clifton, Karachi；三城 + 迪拜）'],
+    address='Horizon Tower, Plot Commercial 2/6, Block 3, Clifton, Karachi, Pakistan', accounts='未取', accounts_due='—', size_band='中型（约 200 人，自述）',
+    officers=['Muhammad Azhar Yousfani — 表内联系人（研究档 KP；ayousfani@pronet-tech.net；+92 302 261 0124；职务未核）'], psc='未取', charges='', prev_names=[],
+    lines=['**200 人级集成商但需求 = 5–7 USD 低端收发器（Saga 无）+ 三次「有需求会说」→ 不动（B 保留；企业接入 / 数据中心需求来询按集成商 25% 报 STC-4424GCPM / STH 线，预付 100%）**',
+           '守界：金融 / 关键基础设施项目不主动提'],
+    notes='不动（需求不对位 + 婉拒式回复）；部分坐实（官网：成立年 + 规模 + 三城地址 + 电话；SECP 号未取）。')
+put('SB-204', key='other', batch=B, name='AAA Group（aaagroup.pk；**1 查仅得同名异域：aaa-group.com.pk（拉合尔 209J DHA Rahbar；建筑 / 贸易 / 学院）与「AAA Group Head Office Karachi」（Korangi Industrial Area C-117, Sector 31-A）— 域名 / 页脚 / 负责人均无法对上 → 未坐实**）— 联系人 Nadeem Shar Din（企业邮箱 + WA）；2023-04 要 4 口光猫（ONU，Saga 无）、其后「will check」×2、主动发新年贺卡；21 次推送 2 次实质回复', iso='PK', fetched=F,
+    source='PK · 1 次检索：aaa-group.com.pk（AAA Group of Companies；209J DHA Rahbar Lahore；0322-413 2000；Construction / Trading / Science Academy）+ pakistanplaces（AAA Group Head Office Karachi；C-117, Sector 31-A Korangi Industrial Area）— 均非 aaagroup.pk，不采信；2026-10-28',
+    url='',
+    number='未坐实（同名异域）', status='未坐实', incorporated='未取', company_type='未取',
+    sic=['未坐实（巴基斯坦；联系人企业邮箱 aaagroup.pk）'],
+    address='未取', accounts='未取', accounts_due='—', size_band='未取',
+    officers=['Nadeem Shar Din — 表内联系人（研究档 KP；nadeem.sd@aaagroup.pk；+92 300 402 5659 WA 已加；职务未核）'], psc='未取', charges='', prev_names=[],
+    lines=['**需求（ONU）不在 Saga 产品线 + 实体未坐实 → 不动（B 保留；关系在（贺卡），交换机需求来询即按集成商 25% 报，预付 100%）**'],
+    notes='不动（需求不对位）；未坐实（同名异域，1 查止）。')
+put('SB-299', key='other', batch=B, name='AyeZee Group（ayezeegroup.com；**363 Rehman Abad Stop, Main Murree Road, Rawalpindi（ZoomInfo 员工地址）+ Gulberg Greens Expressway Service Road, Bhatti Society, Islamabad 44000（黄页；+92 51 232 6001；子品牌 OAKTEQ 软件）；1999 创立 / 2009 登记合伙（自述）；NTN 1 查未得 → 部分坐实**）— 电信 + 电源方案供应商（PCM / PDH / MC、整流器 / UPS、管理 / 非管理交换机、Cisco / Huawei 路由、Juniper / Fortinet 防火墙、太阳能、安防；设 sales.dubai@）；表内「做项目的」；KP Syed（WA 已加，无邮箱）', iso='PK', fetched=F,
+    source='PK · 1 次检索：zoominfo（AyeZee Group；363 Rehman Abad Stop Main Muree Rawalpindi Rd, Islamabad Gpo 44000；telecom and power solutions；over 17 years）+ yellowpages.net（AYEZEE GROUP OAKTEQ；Gulberg Greens Expressway Service Road Bhatti Society, Islamabad；+92 512326001；ayezeegroup.com）；NTN 未得；2026-10-28',
+    url='https://www.yellowpages.net/phone_92-512326001_software-company_Islamabad_PKEN81132.html',
+    number='未取（合伙企业；NTN 1 查未得）', status='营业中（企业库 + 黄页）', incorporated='1999 / 2009（自述）', company_type='合伙企业（自述）',
+    sic=['电信 / 电源 / IT 设备供应 + 项目（Rawalpindi–Islamabad）'],
+    address='363 Rehman Abad Stop, Main Murree Road, Rawalpindi / Gulberg Greens, Islamabad, Pakistan', accounts='未取', accounts_due='—', size_band='小型（10 人 RocketReach；领英 51–200 存疑）',
+    officers=['Syed — 表内联系人（研究档 KP；+92 300 850 5900 WA 已加；无邮箱；职务未核）'], psc='未取', charges='', prev_names=[],
+    lines=['**项目型设备供应商、在售管理 / 非管理交换机、只有 WA → 集成商 25% B small，一页纸一次（WA 发链接：STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 + 工业 STI-288DGGPM $137 一口价 + MOQ 1 + 付费样机；英文）' + PK + '**；再无回声 → 不动',
+           '守界：PCM / PDH / MC / 电源不碰；不点名 Cisco / Huawei 替代'],
+    notes='集成商 25% small；一页纸一次（WA；预付 100%）；部分坐实（企业库 + 黄页：两地地址 + 电话；NTN 未取）。')
+put('SB-518', key='other', batch=B, name='Info Systems Lahore（Malik Yousaf Mahmood；仅手机 +92 336 166 5953；无邮箱 / 域名；**0 查**）— 2023 年光模块帖下留电话，要 2G/4FE、2 光 8 管理 PoE 价格；2025-09 对 2.5G「稍后谈」', iso='PK', fetched=F,
+    source='0 查（无域名 / 邮箱，公司名泛称）；2026-10-28', url='', number='0 查', status='未核', incorporated='—', company_type='个体 / 小商户（推定）',
+    sic=['IT 小商户（Lahore）'], address='未取（Lahore）', accounts='—', accounts_due='—', size_band='个人',
+    officers=['Malik Yousaf Mahmood — 经营者（研究档 KP；+92 336 166 5953；无邮箱）'], psc='—', charges='', prev_names=[],
+    lines=['**个体 + 无邮箱 + 2.5G 等口径（SB-263）→ 不动（B 保留；WA 来询即按分销 20% 报，预付 100%）**'],
+    notes='不动（个体 + 2.5G 待口径）；0 查。')
+put('SB-824', key='other', batch=B, name='SYNCHCOM (Pvt) Ltd（synchsoft.com.pk / synchcom.com.pk；**2004 年成立；693 Rehman Baba Road, Sector I-8/4, Islamabad 44000（名录 + KP 广告署名）/ House 915, Street 90, I-8/4（海关记录）；+92 335 522 5522；Muhammad Babar +92 321 528 0052 = 广告署名 ✓；海关进口记录至 2026-05（HS 8517.69 / 8517.62 网络通信设备、8534 PCB）→ 坐实（名录 + 海关三合一）**）— 电信 / 光纤器材贸易 + IT（SDH / PMUX / 光 modem / ODF / 跳线 / 无线路由 / G.SHDSL；站内 PoE 词频 19）；需求 USB 转千兆 MC（Saga 无）；价格敏感；WA 4 次无实质回复', iso='PK', fetched=F,
+    source='PK · 1 次检索：businesslist.pk/company/243438（SYNCHCOM Private Limited；established in 2004；693, Rehman Baba Road, Sector I-8/4, Islamabad；+923355225522；synchcom.com.pk）+ citybase 分类广告（+92-321-5280052 Skype muhammad.babar294 SYNCHCOM (PVT) LTD 693 Rahman Baba Road）+ tendata（SYNCHCOM PVT LTD.；HO NO 915, ST NO 90, SECTOR I-8/4；most recent trade date 07 May 2026；HS 85176990, 85176260, 85340000）；SECP 号未得；2026-10-28',
+    url='https://www.businesslist.pk/company/243438/synchcom-private-limited',
+    number='未取（(Pvt) Ltd；SECP 号 1 查未得；海关进口记录在）', status='营业中（2026-05 仍在进口）', incorporated='2004', company_type='(Pvt) Ltd',
+    sic=['电信 / 光纤器材贸易 + 进口（I-8/4, Islamabad）'],
+    address='693 Rehman Baba Road, Sector I-8/4, Islamabad 44000, Pakistan', accounts='未取', accounts_due='—', size_band='小型',
+    officers=['Muhammad Babar — 表内联系人（研究档 KP；bob@synchsoft.com.pk；+92 321 528 0052；广告署名吻合）'], psc='未取', charges='', prev_names=[],
+    lines=['**真实进口商但需求 = USB 千兆 MC（Saga 无）+ 价格敏感 + WA 4×0 → 不动（B 保留；交换机来询按分销 20% 报，预付 100%）**'],
+    notes='不动（需求不对位 + 4×0）；坐实（名录 + KP 署名 + 海关进口记录；SECP 号未取）。')
+put('SB-869', key='other', batch=B, name='FUTURIST (PVT) LTD.（futurist.com.pk；**House 898, Street 27, I-10/4, Islamabad（黄页；051-444 6394）/ House 524, Ground Floor, Double Road, I-10/4（海关记录 2025-09）；2011 年成立；CEO Aqeel Abbas；海关：Volza 128 票进口（47 家供应商，中国 + 美国）、Tendata 2025-09「11 家中国供应商」→ 坐实（法定名 + 地址 + 进口记录三合一）**）— 网络工程承包 + 通信 / 电测 / 电源 / 安防设备经销（黄页 20+ 类目：测试仪、线缆、CCTV、太阳能、UPS、光纤、机柜、RF 连接器；Yokogawa / OPNET / Furukawa 关联）；多次问 2 光 8 电管理 PoE、2 光 4 小壳、mini 工业机价格、工业电源「可搭配工业交换机」；最初要光猫（Saga 无）；KP Tajamal Ishaq（Manager）', iso='PK', fetched=F,
+    source='PK · 1 次检索：jamals.com/futurist-pvt-ltd./61581（FUTURIST (PVT) LTD.；House #898, Street #27, I-10/4, Islamabad；051-4446394；Electrical Test Equipment … Computer Networking … Fibre Optics）+ tendata（FUTURIST PVT. LTD.；HOUSE NO. 524, GROUND FLOOR, DOUBLE ROAD, I-10/4, ISLAMABAD 44000；15 Sep 2025 importing from 11 suppliers across China）；SECP 号未得；2026-10-28',
+    url='https://www.jamals.com/futurist-pvt-ltd./61581?preview=1',
+    number='未取（(Pvt) Ltd；SECP 号 1 查未得；海关进口记录在）', status='营业中（2025-09 仍在进口）', incorporated='2011', company_type='(Pvt) Ltd',
+    sic=['网络工程承包 + 通信 / 电测 / 电源设备经销 + 进口（I-10/4, Islamabad）'],
+    address='House 898, Street 27, I-10/4, Islamabad, Pakistan（海关地址 House 524, Double Road, I-10/4）', accounts='未取', accounts_due='—', size_band='小型',
+    officers=['Tajamal Ishaq — Manager（研究档 KP；tajamal@futurist.com.pk；+92 333 519 9946）= 收件人', 'Aqeel Abbas — CEO（研究档 KP；邮箱未取）= 抄送抬头'], psc='Aqeel Abbas（推定）', charges='', prev_names=[],
+    lines=['**真实进口商（128 票）+ 多次主动问价（工业管理 PoE / 小壳 / mini）→ 分销 20% B，一页纸一次（切口：STI-288DGGPM $137（2 光 8 电管理 PoE）/ STI-154GP（小壳 4+1+1）/ STI-054GP mini + 工业电源搭配说明 + 一口价 + MOQ 1 + 付费样机；光猫不做明说；英文，Tajamal 直呼、抬头抄 CEO Aqeel）' + PK + '**；回信 → 加厚',
+           '守界：电测 / 电源 / 光缆不碰；PTA 不声称'],
+    notes='分销 20%；一页纸一次（预付 100%）；坐实（黄页 + 海关进口记录：法定名 + 地址 + 成立年；SECP 号未取）。')
+put('SB-872', key='other', batch=B, name='Ahmad Awan（israr_awan@hotmail；个人 / 小公司买家；WA 已加；**0 查**）— 2021 问 E1 光 modem（Saga 无）、自述用以太网光纤收发器；2023 问价格更新、对 bypass 图回「有用」（Saga 无 bypass）；22 次推送 3 次实质回复', iso='PK', fetched=F,
+    source='0 查（hotmail + 无公司名）；2026-10-28', url='', number='0 查', status='互动中（3 次实质回复）', incorporated='—', company_type='个人 / 小买家',
+    sic=['小型买家（巴基斯坦）'], address='未取', accounts='—', accounts_due='—', size_band='个人',
+    officers=['Ahmad Awan — 买家本人（研究档 KP；israr_awan@hotmail.com；+92 321 507 5737 WA 已加）'], psc='—', charges='', prev_names=[],
+    lines=['**需求（E1 modem / bypass / MC）全不在 Saga 产品线 + 个人买家 → 不动（B 保留；WA 来询按分销 20% 报 STI-154GP 替代 MC 场景，预付 100%）**'],
+    notes='不动（需求不对位 + 个人）；0 查。')
+put('SB-830', key='other', batch=B, name='Usman（巴基斯坦个人联系人；无邮箱 / 公司；**0 查**）— 2023-11 对看门狗系列（5 口）想测样但不付样品费，此后无进展', iso='PK', fetched=F,
+    source='0 查（无邮箱 / 公司名）；2026-10-28', url='', number='0 查', status='无进展', incorporated='—', company_type='个人',
+    sic=['个人（巴基斯坦）'], address='未取', accounts='—', accounts_due='—', size_band='个人',
+    officers=['Usman — 个人联系人（研究档无邮箱）'], psc='—', charges='', prev_names=[],
+    lines=['**个人 + 要免费样 + 无邮箱 → 不动（B 保留；付费样机口径不变）**'],
+    notes='不动（个人 + 免费样）；0 查。')
+print('b118 第 3 段 13 written')
