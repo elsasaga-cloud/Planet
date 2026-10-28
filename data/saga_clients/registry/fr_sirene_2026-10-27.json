@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 15
+  "count": 16
  },
  "rows": {
   "SA-011": {
@@ -498,6 +498,36 @@
    ],
    "notes": "贴标 30% small；一页纸一次；坐实（SIREN + RCS + 迁址公告）。",
    "code": "SB-558"
+  },
+  "SB-989": {
+   "batch": 112,
+   "name": "Julien Desbrosses（个人；无域名 / 无邮箱入库；自建站询盘「5 电口」交换机；WhatsApp 已加；无跟进）— 无可检索法人 → 0 次检索",
+   "iso": "FR",
+   "fetched": "2026-10-28",
+   "source": "FR · 0 次检索（仅人名 + WA；无公司 / 域名 / 邮箱可查）；按个人户处理；2026-10-28",
+   "url": "",
+   "number": "未取（个人）",
+   "status": "—",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "个人询盘（法国）"
+   ],
+   "address": "法国（具体未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "Julien Desbrosses — 本人（WA）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个人 5 口交换机询盘 → 不进发送包；Simon 在 WA 顺手回一口价（STC-028GP 单台零售 + 预付款）即可；registry 不动**"
+   ],
+   "notes": "未坐实（个人，0 查）→ 不动（WA 维系）。",
+   "code": "SB-989"
   }
  }
 }

@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 56
+  "count": 58
  },
  "rows": {
   "SA-070": {
@@ -1804,6 +1804,70 @@
    ],
    "notes": "集成 25% small；加厚一次；坐实（P.IVA + REA + 营收 + 所有权变更）。",
    "code": "SB-462"
+  },
+  "SB-238": {
+   "batch": 112,
+   "name": "DIGIMAX SRL（digimax.it；Via dei Laghi 31, 36077 Altavilla Vicentina (VI)；P.IVA / CF 00916230246；REA VI-237542；PEC digimax.amministrazione@pec.it；SDI ZRUT8VN；单一股东，受 M2 NEXT HOLDING SRL（Gruppo Giovannini）管理协调）— 1996-05-27 登记的工业电源 / LED 驱动 / 工业 PC 与显示器增值分销商（**意大利首家 Mean Well 分销商**，2,000+ 现货；Snappy / P-Duke / Eaglerise；在售 Maiwe 工业交换机）；93 名雇员（2026）；2025 营收 €61.3M、净利 €4.02M；KP Matteo Tirapelle（Operations Manager，m.tirapelle@）、Flavio Zordan（IT Manager）；仅 1 封自动回复",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（DIGIMAX SRL；P.IVA 00916230246；VIA DEI LAGHI 31 ALTAVILLA VICENTINA；Rea 237542；Fatturato € 61.280.498 (2025)；Dipendenti 93 (2026)；Iscrizione 27/05/1996；Utile € 4.021.740）+ aziende.it（ATECO 46.50.2 dal 1996；ricavi 2025 €61,280,498）+ digimax.it/en/9meanwell（first MEAN WELL distributor in Italy；P.IVA IT00916230246；Single-member company subject to direction and coordination of M2 NEXT HOLDING SRL）+ gruppogiovannini.it（brand partner Mean Well, Snappy, Eaglerise, Dalcnet…）+ fortronic（distributore ufficiale Meanwell；2000+ prodotti a stock）；2026-10-28",
+   "url": "https://www.ufficiocamerale.it/2543/digimax-srl",
+   "number": "P.IVA 00916230246 / REA VI-237542",
+   "status": "Attiva",
+   "incorporated": "1996-05-27",
+   "company_type": "S.r.l.（socio unico；M2 NEXT HOLDING）",
+   "sic": [
+    "工业电源 / LED 驱动 / 工业 PC 增值分销（维琴察）"
+   ],
+   "address": "Via dei Laghi 31, 36077 Altavilla Vicentina (VI)",
+   "accounts": "2025 营收 €61,280,498 / 净利 €4,021,740",
+   "accounts_due": "—",
+   "size_band": "中型（93 人）",
+   "officers": [
+    "Matteo Tirapelle — Operations Manager（研究档 KP；m.tirapelle@）= 收件人",
+    "Flavio Zordan — IT Manager（研究档 KP）= 抄",
+    "（Amministratore 未取；Gruppo Giovannini）"
+   ],
+   "psc": "M2 NEXT HOLDING SRL（Gruppo Giovannini）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€61M 工业电源分销巨头、已上架中系工业交换机 → 分销 20%，B BIG，加厚一次（切口：工业 PoE STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 作现有工业交换机线的第二价位（同为 DIN 导轨 + 24/48V 电源配套场景）+ 3 年保 + IT DAP 小起订；意语引子，Matteo 直呼，一问工业网络产品经理）；回信 → 次候选升 A**",
+    "稿内不点名 Mean Well / Maiwe；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20%；B BIG 加厚一次；坐实（P.IVA + REA + 营收 + 集团）。",
+   "code": "SB-238"
+  },
+  "SB-809": {
+   "batch": 112,
+   "name": "ECONNET S.R.L.（econnet.it；Via dei Lapidari 20/B, 40129 Bologna；P.IVA / CF 02965231208；REA BO-0481011）— 2009-09-15 登记的网络 / 网络安全 / 统一通信增值分销商（Stormshield / G DATA / Bitdefender / Logpoint、Fanvil / Yeastar / Yealink、**Edge-Core / IgniteNet 交换机**、WeDoInnov 意大利官方分销；面向经销商与系统集成商）；2–10 人（LinkedIn）；2025 净利 €212.5k（营收未取）；仅 marketing@；表内「商业 PoE 丰润达的」；未发过信",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（ECONNET S.R.L.；P.IVA 02965231208；VIA DEI LAPIDARI 20/B BOLOGNA；Iscrizione 15/09/2009；46501；Utile € 212.506 (2025)）+ econnet.it 页脚（REA BO-0481011；Stormshield, Edge-Core, Ignitenet, Switch, Industrial, IOT）+ wedoinnov.it/distributore（Econnet SRL distributore ufficiale Italia；REA BO-0481011）+ LinkedIn（2–10 dipendenti；2009；Value added distribution）+ contactout（Networking Micronet / Planet 历史线）；2026-10-28",
+   "url": "https://www.ufficiocamerale.it/7185/econnet-srl",
+   "number": "P.IVA 02965231208 / REA BO-0481011",
+   "status": "Attiva",
+   "incorporated": "2009-09-15",
+   "company_type": "S.r.l.",
+   "sic": [
+    "网络 / 安全 / UC 增值分销（博洛尼亚）"
+   ],
+   "address": "Via dei Lapidari 20/B, 40129 Bologna (BO)",
+   "accounts": "2025 净利 €212,506（营收未取）",
+   "accounts_due": "—",
+   "size_band": "小型（2–10 人）",
+   "officers": [
+    "（Amministratore 未取）— 收件人 marketing@econnet.it，一问网络产品经理"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**小而专的 VAD、已分销白牌 / 台系交换机线 → 分销 20%，B 加厚 small 一次（切口：经销商渠道的第二价位 PoE STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP，并提 STH 数据中心交换机作白牌机架线；IT DAP 小起订；意语引子）；回信 → 次候选**",
+    "稿内不点名 Edge-Core / Micronet；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20%；加厚 small 一次；坐实（P.IVA + REA + 成立日）。",
+   "code": "SB-809"
   }
  }
 }
