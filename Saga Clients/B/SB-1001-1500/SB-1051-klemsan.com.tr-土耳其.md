@@ -78,6 +78,24 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 99 批（TR · 1 次检索：EMIS（Klemsan Elektrik Elektronik A.S.；成立 1974-07-20；Kızılüzüm Mah. Kemalpaşa Kızılüzüm Cad. No 15, 35730 Kemalpaşa / İzmir）+ Bloomberg（0996344D:TI；1974；noncurrent-carrying wiring devices）+ LinkedIn（201–500 人；1974；Özel Şirket）+ ENOSAD / SASAD 会员页（KLEMSAN Elektrik Elektronik San. ve Tic. A.Ş.；Yetkili İlke Kider）+ 2024-09 50 周年报道（Yönetim Kurulu Başkanı Kadir Ferahlı；450 人晚宴）+ 官网 History（1974 年 100% 国内资本创立；Pınarbaşı 第二工厂）+ D&B（Key Principal Dilek Geçer），2026-10-28 查；https://www.emis.com/php/company-profile/TR/Klemsan_Elektrik_Elektronik_AS_en_3358804.html）：**
+
+- 法定名 / 登记号：KLEMSAN Elektrik Elektronik Sanayi ve Ticaret A.Ş.（klemsan.com.tr；İzmir Kemalpaşa）— 1974 年成立的接线端子 / 电气连接件制造商（201–500 人；100% 本土资本；IoT / 电子产品线；表内「从 VOLKTEK 买工业交换机」） · A.Ş.（İzmir 商会；MERSİS 号未取） · 状态 **Active（2024 50 周年；2026 官网更新）** · 成立 1974-07-20 · Anonim Şirket（私有；100% 本土资本）
+- 行业码 / 经营范围：接线端子（klemens）、线槽、电子产品（电源 / 继电器）、标识、IoT、连接器、工具 —— 自产 + 出口
+- 注册地址：Kızılüzüm Mah. Kemalpaşa Kızılüzüm Cad. No 15, 35730 Kemalpaşa / İzmir（总部工厂）；İzmir Pınarbaşı 第二工厂
+- 规模档：大型（201–500 人；SASAD 国防工业协会会员）
+- 账目：—；—
+- 高管：Kadir Ferahlı — Yönetim Kurulu Başkanı（董事长）
+- 高管：A. Savaş Yalçın — Kemalpaşa 工厂总经理（EMO 刊物）
+- 高管：Dilek Geçer — Key Principal（D&B）
+- 高管：İlke Kider — ENOSAD 联络人
+- 控制人 / 股东：Ferahlı 家族（推定）
+- **这意味着什么：**
+  - **第 99 批 TR 最大户**：50 年老牌电气连接件制造商，自有 IoT / 电子产品线，表内「从 VOLKTEK（台湾工业交换机 ODM）买工业交换机」= **现成的 OEM 30% 需求（Klemsan 标导轨工业交换机）→ OEM 30% 首选，B BIG，升 A 候选**
+  - 对口：STI-054GP / STI-144GP / STI-288DGGPM（导轨、宽温、Marvell 管理型）对标 VOLKTEK 同规格 → 价格差 + 3 年保修 + MOQ 1 是切口；不提 VOLKTEK 名字
+  - 收件人：研究档无 KP → 写 IoT / 电子产品线产品经理（technicalsupport@klemsan.com.tr 为官网唯一公开邮箱，可作起点）；发信窗口 Thu 10–12 TRT；**加厚**（规格 + 对比价一页）
+- 备注：OEM 30% 首选；B BIG；升 A 候选；加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,14 +123,18 @@ updated: 2026-10-28
 - **【用户表】从 Volktek 买工业交换机**
   > 从VOLKTEK 买工业交换机
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Kadir Ferahlı（Yönetim Kurulu Başkanı（董事长；2024-09 50 周年致辞）= 拍板人；收件走 IoT / 电子产品线产品经理（technicalsupport@klemsan.com.tr 为唯一公开邮箱起点）（第 99 批 官方登记核实 2026-10-28）） 〔https://www.iyigunler.net/klemsan-sektordeki-50nci-yasini-kutladi/355283/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 klemsan.com.tr，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | KLEMSAN Elektrik Elektronik Sanayi ve Ticaret A.Ş.（İzmir；Bloomberg 0996344D:TI；SASAD / ENOSAD 会员） |
+| 成立 | 1974-07-20（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Kızılüzüm Mah. Kemalpaşa Kızılüzüm Cad. No 15, 35730 Kemalpaşa / İzmir（+ Pınarbaşı 第二工厂） |
+| 人数 | 201–500 人（450 人晚宴） |
+| 其他 | 官网 klemsan.com.tr，语言 ?，快照状态 http_error；角色判定来源：待核；第 99 批：**第 99 批 TR 最大户**：50 年接线端子 / 电气连接件制造商，自有 IoT / 电子线，表内「从 VOLKTEK 买工业交换机」= 现成 OEM 30% 需求（Klemsan 标导轨工业交换机）→ **OEM 30% 首选，B BIG，升 A 候选，加厚**（STI-054GP / STI-144GP / STI-288DGGPM 对标 VOLKTEK 同规格 + 3 年保修 + MOQ 1；不点名 VOLKTEK）；工厂总经理 A. Savaş Yalçın（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：接线端子 / 电气元件制造（自有品牌 Klemsan）；工业交换机（贴牌线）
 - **触达通道（公开）**：role: 电气元件制造商（土耳其，自有标工业交换机现 Volktek）；region: 土耳其；contact: info@klemsan.com.tr
@@ -160,7 +182,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@klemsan.com.tr | 用户表原值 | Clients/ 表 |
+| Kadir Ferahlı | Yönetim Kurulu Başkanı（董事长；2024-09 50 周年致辞）= 拍板人；收件走 IoT / 电子产品线产品经理（technicalsupport@klemsan.com.tr 为唯一公开邮箱起点）（第 99 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.iyigunler.net/klemsan-sektordeki-50nci-yasini-kutladi/355283/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -196,7 +218,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：土耳其主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-280GE 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -213,7 +235,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

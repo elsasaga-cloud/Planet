@@ -81,6 +81,23 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 99 批（DE · 1 次检索：Impressum（SPHINX Computer Vertriebs-GmbH, Heinrich-Lanz-Straße 14, 69514 Laudenbach；GF Hubert Engelhardt；Registergericht Mannheim HRB 431843；USt-ID DE 113585714）+ openregister.de（成立 1989-07-06；GF Hubert Engelhardt 2005-11-18 起（70 岁）；Einzelprokura Markus Brenner 2005 起（63）、Stefanie Engelhardt 2012 起（66）；原资本 300,000 DEM）+ handelsregister.ai（1989-04-25 登记；GF 为 Diplom-Volkswirt，Hemsbach；单独代表，免 §181）+ Creditreform（1 名股东；3 名管理者）+ implisense（股本 €155,000）+ 官网 Über（1989 成立；「führender Distributor von Industrieautomationsprodukten in Europa」；总部与主仓 Laudenbach；自称 19 个欧洲站点），2026-10-28 查；https://shop.sphinxcomputer.de/Quick-Links/Impressum/）：**
+
+- 法定名 / 登记号：SPHINX Computer Vertriebs-GmbH（sphinxcomputer.de；Laudenbach bei Weinheim）— 工业通信 / 数据通信分销商（MOXA、Advantech、Perle、Adder、Opengear、Raritan 等；1989） · HRB 431843（Amtsgericht Mannheim） · 状态 **Active（2020-01 章程修订）** · 成立 1989-04-25 · GmbH（单一股东；家族：Engelhardt）
+- 行业码 / 经营范围：工业通信 / 数据通信分销：MOXA（工业交换机 / 串口服务器）、Advantech、Perle、Adder、Multitech、Barix、Opengear、Raritan、Server Technology、VXL
+- 注册地址：Heinrich-Lanz-Straße 14, 69514 Laudenbach（Rhein-Neckar）
+- 规模档：小型（股本 €155k；人数未取）
+- 账目：—；—
+- 高管：Hubert Engelhardt — Geschäftsführer（2005 起；Diplom-Volkswirt；70 岁）
+- 高管：Markus Brenner — Einzelprokura（2005 起）= 研究档 KP markus.brenner@
+- 高管：Stefanie Engelhardt — Einzelprokura（2012 起）
+- 控制人 / 股东：Hubert Engelhardt（单一股东，推定）
+- **这意味着什么：**
+  - **研究档 KP Markus Brenner 坐实 = 2005 起单独代理权 Prokurist**（相当于总经理级别）→ 收件人正确
+  - 但主业是 **MOXA 等品牌工业交换机的正规分销** → 品牌忠诚度高，Saga 只能做「预算线 / 第二来源」→ **分销 20% 低概率，一页纸即止**：STI-054GP / STI-144GP / STI-288DGGPM 对标 MOXA EDS 系列价差（不点名 MOXA）
+  - GF 70 岁 + 女儿 Prokura = 传承期，决策保守；发信窗口 Thu 12–14 CET；不加厚
+- 备注：分销 20% 低概率；KP 坐实；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,16 +124,18 @@ updated: 2026-10-28
 - **【用户表】卖几个有名牌子的；工业 FS MC；卖研华等很多牌子**
   > 兴趣：卖几个有名牌子的;工业FS MC 卖研华等很多牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Markus Brenner（）markus.brenner@sphinxcomputer.de +49 6201 75437〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Markus Brenner（Einzelprokura（2005-11-18 起单独代理权 Prokurist；openregister）= **坐实 = 收件人**；GF Hubert Engelhardt（70 岁，单一股东）；Prokura Stefanie Engelhardt（2012）（第 99 批 官方登记核实 2026-10-28））markus.brenner@sphinxcomputer.de +49 6201 75437〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SPHINX Computer Vertriebs GmbH |
-| 成立 | 1981（待核） |
-| 总部/地址 | Laudenbach, Germany（+49 6201） |
+| 法定名称 | SPHINX Computer Vertriebs-GmbH（Amtsgericht Mannheim HRB 431843；股本 €155,000；USt-ID DE 113585714） |
+| 成立 | 1989-04-25（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Heinrich-Lanz-Straße 14, 69514 Laudenbach |
+| 人数 | 小型（股本 €155k；人数未取） |
+| 其他 | 第 99 批：MOXA / Advantech / Perle 等工业通信正规分销商 → 品牌忠诚高 → 分销 20% 低概率，一页纸「预算线 / 第二来源」（STI-054GP / STI-144GP / STI-288DGGPM；不点名 MOXA）；GF 70 岁传承期（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化 / 网络 / IoT 分销
 - **触达通道（公开）**：role: 工业分销商；region: 德国
@@ -177,7 +196,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Markus Brenner | — | markus.brenner@sphinxcomputer.de / +49 6201 75437 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Markus Brenner | Einzelprokura（2005-11-18 起单独代理权 Prokurist；openregister）= **坐实 = 收件人**；GF Hubert Engelhardt（70 岁，单一股东）；Prokura Stefanie Engelhardt（2012）（第 99 批 官方登记核实 2026-10-28） | markus.brenner@sphinxcomputer.de / +49 6201 75437 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 

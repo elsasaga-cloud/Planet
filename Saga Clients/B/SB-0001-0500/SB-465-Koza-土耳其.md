@@ -91,6 +91,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 99 批（TR · 1 次检索：官网 İletişim / Hakkımızda（Koza Güvenlik Elektronik Sistemleri San. Tic. Ltd. Şti.；Perpa Ticaret Merkezi A Blok No 808-810-940 Şişli；Koza Plaza Arel Aralığı No 8 Okmeydanı；2005 年成立；「kendi tescilli markaları + distribütörlük」）+ kobitek 会员页（2005）+ LinkedIn（11–50 人；2005）+ Teletek Electronics 官方 Distributors 页（KOZA GÜVENLİK … LTD. ŞTİ. = 土耳其分销商）+ greentechguvenlik.com.tr Grup Şirketlerimiz（Koza = 集团公司；2010 起全国经销网）+ ISAF Exclusive 2019（Kodicom IP / HD 摄像机、Teletek 报警 / 消防）+ 官网页题「Teletek Electronics Distribütörü & Dahua Türkiye Dağıtıcısı」，2026-10-28 查；https://www.kozaguvenlik.com.tr/hakkimizda）：**
+
+- 法定名 / 登记号：Koza Güvenlik Elektronik Sistemleri San. Tic. Ltd. Şti.（kozaguvenlik.com.tr；İstanbul Perpa A Blok + Koza Plaza Okmeydanı）— Teletek（保加利亚）报警 / 消防、Kodicom、Dahua 分销商 + 自有注册品牌（Greentech Güvenlik 集团成员） · Ltd. Şti.（İstanbul；MERSİS 号未取） · 状态 **Active（官网 © 2005–2025；Teletek 2026-03 分销商名单在列）** · 成立 2005 · Limited Şirket（Greentech Güvenlik 集团成员）
+- 行业码 / 经营范围：电子安防分销：Teletek 报警 / 消防（独家）、Kodicom IP 摄像机、Dahua 二级分销、智能家居；自有注册品牌（摄像机 / 配件）；全国经销网
+- 注册地址：Halil Rıfat Paşa Mah. Yüzer Havuz Sok. Perpa Ticaret Merkezi A Blok Kat 8 No 808-810-940, 34384 Şişli / İstanbul；Koza Plaza, Arel Aralığı No 8, Okmeydanı
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：未取（研究档无 KP；info@）
+- 控制人 / 股东：Greentech Güvenlik 集团（推定）
+- **这意味着什么：**
+  - **Perpa 安防分销商 + 自有注册品牌 + 全国经销网 → 分销 20% 为主、贴标 small 为辅**：Teletek / Kodicom 系统配套的 PoE 交换机（HRUI STC-028GP $28 / STC-228GP $33 / STC-2216GP）
+  - 收件人 info@kozaguvenlik.com.tr 点名「satın alma」；发信窗口 Thu 10–12 TRT；一页纸即止
+- 备注：分销 20% + 贴标 small；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,15 +152,18 @@ updated: 2026-10-28
 - **【官网快照】Koza 安防经销渠道**
   > Koza Güvenlik Sistemleri; Teletek Hırsız Alarmı & Yangın Alarmı, IP Kamera, AHD Kamera, NVR Kayıt Cihazı, AHD Kayıt Cihazı, Akıllı Ev Sistemi Bayi Satış Kanalı
   > 来源：https://kozaguvenlik.com.tr/（抓取 2026-10-21）
-- **KP**：Deniz Aydin（）deniz@kozaguvenlik.com.tr 〔用户表〕
+- **KP**：Deniz Aydin（研究档联系人（职务未核）= 收件人，抄 info@ 点名「satın alma」（第 99 批 官方登记核实 2026-10-28））deniz@kozaguvenlik.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 kozaguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Koza Güvenlik Elektronik Sistemleri San. Tic. Ltd. Şti.（İstanbul；Greentech Güvenlik 集团成员；Teletek 土耳其官方分销商） |
+| 成立 | 2005（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Perpa Ticaret Merkezi A Blok Kat 8 No 808-810-940, 34384 Şişli / İstanbul（+ Koza Plaza, Arel Aralığı No 8, Okmeydanı） |
+| 人数 | 11–50 人 |
+| 其他 | 官网 kozaguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 99 批：Teletek（BG）报警 / 消防独家 + Kodicom + Dahua 二级分销 + 自有注册品牌 + 全国经销网 → 分销 20% 为主、贴标 small 为辅（STC-028GP / STC-228GP / STC-2216GP）；一页纸（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防经销（报警 / 摄像机 / NVR / 智能家居 / 考勤）
 
@@ -242,7 +259,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Deniz Aydin | — | deniz@kozaguvenlik.com.tr | 调研核实（公开页） | 用户表 |
+| Deniz Aydin | 研究档联系人（职务未核）= 收件人，抄 info@ 点名「satın alma」（第 99 批 官方登记核实 2026-10-28） | deniz@kozaguvenlik.com.tr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

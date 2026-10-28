@@ -92,6 +92,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 99 批（TR · 1 次检索：官网 Hakkımızda / İletişim（Longline Bilişim Teknolojileri Ltd Şti；Kartaltepe Mah. Hakan Sok. Longline Plaza No 18, 34040 Bayrampaşa / İstanbul；info@longline.com.tr；2020-10-26 迁入自有大楼，与集团公司同楼）+ LinkedIn（11–50 人；2000 年成立）+ Crunchbase（Legal Name Longline Bilişim Teknolojileri Ltd. Şti.；Longline SFP Transceiver）+ makinaturkiye（Limited Şirketi；2000；注册资本 50,000,001–500,000,000 TL 档；合作伙伴 Romania / China / Dubai / USA）+ ZoomInfo（22 人）+ longlinenetwork.com İletişim（同址；0212 321 75 14），2026-10-28 查；https://longline.com.tr/en/products/）：**
+
+- 法定名 / 登记号：Longline Bilişim Teknolojileri Ltd. Şti.（longline.com.tr / longlinenetwork.com；İstanbul Bayrampaşa「Longline Plaza」）— 自有品牌 Longline（SFP 光模块 / 内存 / SSD / 网卡 / 光纤跳线 / 媒体转换器）+ 网络 / 服务器配件分销（800+ 经销伙伴；罗马尼亚 / 中国 / 迪拜 / 美国办事处） · Ltd. Şti.（İstanbul；MERSİS 号未取） · 状态 **Active（官网 2025 更新）** · 成立 2000 · Limited Şirket（私有集团；自有大楼）
+- 行业码 / 经营范围：自有品牌 Longline：SFP / 光模块、内存、SSD、网卡、媒体转换器、光纤跳线（自称生产 = 贴标 / 组装）；网络 / 服务器配件分销（800+ 土耳其经销伙伴；电信 / 公共部门客户）
+- 注册地址：Kartaltepe Mah. Hakan Sok. Longline Plaza No 18, 34040 Bayrampaşa / İstanbul；旧址 Yeniköy Park Sok. No 29
+- 规模档：小型（11–50 人；注册资本 ≥50M TL）
+- 账目：—；—
+- 高管：未取（研究档无 KP；info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 + 800 经销伙伴 + 中国办事处** → 已在华直采光模块 / 配件；交换机 329 页在售（研究档）但未见 Longline 标交换机 → **贴标 OEM 30% 目标（Longline 标 L2+ 管理型 / PoE 交换机补齐产品线）**，B BIG，升 A 候选（回信即 A）
+  - 对口：STC-228GP / STC-2224GP（PoE）+ STI-0240GE / STH-2C24XF-HSI（电信 / 公共部门投标用 Marvell L2+/L3）；卖点 = 与其 SFP 自有标配套 + 3 年保修；不提其中国办事处
+  - 收件人 info@longline.com.tr 点名「ürün müdürü / purchasing」；发信窗口 Thu 10–12 TRT；**加厚**（一页规格 + 贴标流程）
+- 备注：自有标 OEM 30% 目标；B BIG；升 A 候选；加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,16 +134,18 @@ updated: 2026-10-28
 - **【用户表】SFP MC（主要）；10GMC 是 E-link 的**
   > 兴趣：SFP MC（主要） 10GMC 是E-link的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（未具名）（）info@longlinenetwork.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（未具名）（公域（Longline 集团；收件人点名「ürün müdürü / satın alma」；2020-10 迁入自有 Longline Plaza）（第 99 批 官方登记核实 2026-10-28））info@longlinenetwork.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Longline Network（待核） |
-| 总部/地址 | Türkiye |
-| 其他 | 已售 E-link 10G MC |
+| 法定名称 | Longline Bilişim Teknolojileri Ltd. Şti.（İstanbul Bayrampaşa；注册资本 50M–500M TL 档；自有品牌 Longline） |
+| 成立 | 2000（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Kartaltepe Mah. Hakan Sok. Longline Plaza No 18, 34040 Bayrampaşa / İstanbul（+ 罗马尼亚 / 中国 / 迪拜 / 美国办事处） |
+| 人数 | 11–50 人（22） |
+| 其他 | 已售 E-link 10G MC；第 99 批：自有品牌（SFP / 内存 / SSD / 网卡 / MC / 跳线）+ 800 经销伙伴 + 中国办事处 → **贴标 OEM 30% 目标：Longline 标 L2+ 管理型 / PoE 交换机补齐产品线；B BIG，升 A 候选，加厚**（STC-228GP / STC-2224GP / STI-0240GE / STH-2C24XF-HSI；与其自有标 SFP 配套）；不提其中国办事处（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：SFP / MC / 网卡销售
 - **触达通道（公开）**：role: 经销商（已售中国同行）；region: 土耳其

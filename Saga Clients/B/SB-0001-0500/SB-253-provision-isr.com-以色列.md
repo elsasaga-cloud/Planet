@@ -1,6 +1,6 @@
 # provision-isr.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-253`　|　优先级 ★★　|　状态：已推送 10 次·未回复
+> **评级 B**　|　以色列　|　档案编号 `SB-253`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
 > **类型**：CCTV 品牌商（PoE 配套，深圳有办事处）（推断）　|　**历史关系**：推送 10 次（2025-02-20 → 2025-10-22）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,8 +9,9 @@ code: SB-253
 rating: B
 rating_auto: B
 score: 49
-country: 美国
-region: 北美
+country: 以色列
+country_table: 美国  # 表内原填；调研纠正为 以色列（research JSON country_fix）
+region: 中东
 website: provision-isr.com
 type: CCTV 品牌商（PoE 配套，深圳有办事处）
 tier_tags: ["A优质名单(US)", "AI评估(US)"]
@@ -25,7 +26,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,18 +87,34 @@ updated: 2026-10-27
 - `provision-isr.com` → 主机商 cPanel 类邮箱（MX：mx10.antispam.mailspamprotection.com、mx20.antispam.mailspamprotection.com、mx30.antispam.mailspamprotection.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `provisionisr.com` → Microsoft 365（MX：provisionisr-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（以色列 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
+- 窗口内无该国法定假日
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+- 【宗教】03-23：普珥节 Purim（非法定，但很多公司放半天）
+
+**公司底数 · 第 99 批（US→IL · 1 次检索：官网 Contact / Privacy（11 Atir Yeda Street, Kfar Sava 4464310, Israel；+972 9 741 7511；America = ILS Cargo, 11459 NW 122nd Street, Medley FL 33178 物流）+ Tracxn / Crunchbase（2007 年成立；Kfar Saba；51–100 / 51–200 人；AI 视频监控制造商）+ LinkedIn Provision-ISR USA（Dallas, Texas；specialties 含 switches）+ RocketReach（Provision-ISR USA；2472 Southwell Rd, Dallas TX 75229；≈$22M；11 人）+ protectfind 2024-06（摄像机由深圳 TVT 贴牌生产，软件以色列开发），2026-10-28 查；https://provision-isr.com/about-us/）：**
+
+- 法定名 / 登记号：Provision-ISR（provision-isr.com / provisionisr.com；以色列 Kfar Saba 总部 + Provision-ISR USA Dallas TX + Medley FL 物流）— 以色列 CCTV 品牌商（TVT 贴牌；深圳宝安办公室）（国别更正 US → IL） · 以色列公司号 / 美国实体名未取（1 次即停） · 状态 **Active（官网 2026-10 更新；40+ 国）** · 成立 2007 · 以色列私有公司 + 美国销售子公司（Dallas）
+- 行业码 / 经营范围：CCTV 品牌（IP / AHD 摄像机、NVR / DVR、AI 分析、自有标 PoE 交换机）面向安装商；中档市场；40+ 国分销
+- 注册地址：11 Atir Yeda St, Kfar Saba 4442510, Israel（研发 / 市场总部）；2472 Southwell Rd, Dallas, TX 75229（USA）；Medley, FL（物流）；深圳宝安办公室（表内）
+- 规模档：中型（51–200 人；≈$22M 美国口径）
+- 账目：—；—
+- 高管：Leonardo Severi — Technical & Presale Manager = 研究档 KP（sales@provisionisr.com）
+- 高管：创办人 / 董事未取
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **国别更正**：用户表归 US，实为以色列品牌（美国只是 Dallas 销售公司 + 佛州物流）→ country_fix 以色列；发信窗口按以色列 Sun–Thu 10–12 IST（或美国分部 Wed 08–10 CT）
+  - 品牌商 + 深圳宝安办公室 + 摄像机由 TVT 贴牌 → 交换机大概率也从 TVT / 华南同源 → **OEM 30% 低概率**：唯一缝隙是「Marvell 管理型 L2+ PoE（STC-424XGGPM-280W）替代其现有非管理公模」+ 3 年保修；Simon 表内「可以尝试多跟进一下」→ 加厚一次但不抱期望
+  - 收件人 Leonardo Severi（技术 / 售前经理 = 选型人）抄 sales@；10 次群发无回复 → 换主题「managed PoE for NVR backbones」；不提 TVT / 不提竞品
+- 备注：国别更正 IL；品牌商已直采；OEM 30% 低概率。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | provision-isr.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 以色列 | 事实（用户表）|
 | 网站/域名 | provision-isr.com / provisionisr.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | CCTV 品牌商（PoE 配套，深圳有办事处） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 / Leonardo Severi / Technical & Presale Manager | 事实（用户表） |
@@ -130,15 +147,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE CCTV 宝安有办公室**
   > 商业PoE CCTV 宝安有办公室；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Leonardo Severi（）sales@provisionisr.com 〔用户表〕
+- **KP**：Leonardo Severi（Technical & Presale Manager（选型人）= 收件人（第 99 批 官方登记核实 2026-10-28））sales@provisionisr.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 provision-isr.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Provision-ISR（以色列 Kfar Saba 私有公司；美国销售子公司 Provision-ISR USA, Dallas TX；公司号未取） |
+| 成立 | 2007（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 11 Atir Yeda St, Kfar Saba 4442510, Israel（+ 2472 Southwell Rd, Dallas TX 75229；Medley FL 物流；深圳宝安办公室） |
+| 人数 | 51–200 人；USA 11 人 ≈$22M |
+| 其他 | 官网 provision-isr.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 99 批：**国别更正 US → 以色列**；CCTV 品牌商，摄像机由深圳 TVT 贴牌 + 宝安办公室 → 自有标 PoE 交换机已同源直采 → OEM 30% 低概率；Simon「可以尝试多跟进一下」→ 一页纸 Marvell 管理型 L2+ PoE（STC-424XGGPM-280W）差异化，写 Leonardo Severi 抄 sales@；发信窗口 Sun–Thu 10–12 IST；不提 TVT（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / PoE（自有品牌 Provision-ISR）
 - **触达通道（公开）**：role: CCTV 品牌商（PoE 配套，深圳有办事处）；region: 美国；contact: sales@provisionisr.com
@@ -221,7 +241,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Leonardo Severi | — | sales@provisionisr.com | 调研核实（公开页） | 用户表 |
+| Leonardo Severi | Technical & Presale Manager（选型人）= 收件人（第 99 批 官方登记核实 2026-10-28） | sales@provisionisr.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -256,8 +276,8 @@ updated: 2026-10-27
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
-- **W**：已推送 10 次无回复，邮件通道疲劳
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
+- **W**：已推送 10 次无回复，邮件通道疲劳；中东：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -314,12 +334,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

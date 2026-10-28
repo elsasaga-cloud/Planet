@@ -83,6 +83,24 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 99 批（DE · 1 次检索：Impressum（BR Network Solutions GmbH, Emmericher Str. 261, 47533 Kleve；Amtsgericht Kleve HRB 3402；GF Wilfried van den Beek, Barthel Robitzsch；USt-ID DE 813 479 263）+ handelsregister.ai（登记 2002-05-28；GF 二人 2004 起；Prokura Gerome Ramakers / Kyra Kubina 2024 起；股东 van den Beek 50% / Robitzsch 50%，各 165k €）+ Northdata（2004-02 登记，原 Sitz Emmerich am Rhein，资本 45k → 65k €）+ Kompass（WZ08 46520 电子元件与电信设备批发；10–19 人）+ 官网 Markenseite（inhabergeführt；20+ 年；合作 3M / Corning / CommScope / Prysmian / KTI Networks / MICROSENS；3M Volition Master Distributor；延续原 Quante AG 机柜产品线），2026-10-28 查；https://www.br-network-shop.de/content/2-impressum）：**
+
+- 法定名 / 登记号：BR Network Solutions GmbH（br-network-shop.de / br-network.de；Kleve）— 数据网络 / 电信 / 监控技术专业批发商（Fachgroßhandel）+ 自有品牌「BR Network」（自配线缆 / 机柜；3M Volition 主分销） · HRB 3402（Amtsgericht Kleve） · 状态 **Active（AGB 2025-09；2024 新增两名 Prokura）** · 成立 2002-05-28（Northdata 2004-02-19 迁址登记） · GmbH（两位创办人各 50%）
+- 行业码 / 经营范围：WZ08 46520 电子元件与电信设备批发：数据网络布线 / 电信 / 监控系统（Fachgroßhandel）；自有品牌 BR Network（自配线缆、机柜、工具）；KTI Networks / MICROSENS 交换机在售
+- 注册地址：Emmericher Straße 261, 47533 Kleve（下莱茵，荷兰边境）
+- 规模档：小型（10–19 人；股本 330k €）
+- 账目：—（小型 GmbH，Bundesanzeiger 简式）；—
+- 高管：Wilfried van den Beek — Geschäftsführer（2004 起；50%）
+- 高管：Barthel Robitzsch — Geschäftsführer（2004 起；50%；网站内容负责人）
+- 高管：Gerome Ramakers — Prokura（2024）
+- 高管：Kyra Kubina — Prokura（2024）
+- 控制人 / 股东：van den Beek 50% / Robitzsch 50%
+- **这意味着什么：**
+  - **老板直营专业批发 + 自有标「BR Network」+ 已卖 KTI / MICROSENS 交换机** → 分销 20% 为主、贴标 small 为辅（BR Network 标 PoE 交换机补齐其机柜 + 布线套餐）
+  - 对口：HRUI STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 对标其 KTI 同级；2024 新任两名 Prokura = 接班梯队，适合「新供应商」议题
+  - 收件人：Barthel Robitzsch（GF，网站负责人）；info@br-network.de；发信窗口 Thu 12–14 CET；一页纸
+- 备注：分销 20% + 贴标 small；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,15 +126,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS MC 周边产品；销售平台**
   > 兴趣：工业FS MC 周边产品 销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（未具名）（）info@br-network.de +49 2821 97016 0〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（未具名）（公域（点名 GF Barthel Robitzsch —— 网站内容负责人；另一 GF Wilfried van den Beek；2024 新任 Prokura Gerome Ramakers / Kyra Kubina）（第 99 批 官方登记核实 2026-10-28））info@br-network.de +49 2821 97016 0〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | BR Network Solutions GmbH |
-| 总部/地址 | Kleve, Germany（+49 2821） |
+| 法定名称 | BR Network Solutions GmbH（Amtsgericht Kleve HRB 3402；USt-ID DE 813 479 263；股东 van den Beek 50% / Robitzsch 50%） |
+| 成立 | 2002-05-28（2004-02 迁址登记）（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Emmericher Straße 261, 47533 Kleve |
+| 人数 | 10–19 人；股本 330k € |
+| 其他 | 第 99 批：老板直营专业批发（WZ 46520）+ 自有标「BR Network」+ 3M Volition 主分销 + 已卖 KTI / MICROSENS 交换机 → 分销 20% 为主、贴标 small 为辅（STC-028GP / STC-228GP / STC-2224GP 对标 KTI）；一页纸（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / 电信 / 监控技术批发
 - **触达通道（公开）**：role: 批发商；region: 德国

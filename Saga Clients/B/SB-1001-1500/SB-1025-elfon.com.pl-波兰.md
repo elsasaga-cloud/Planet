@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,6 +72,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 99 批（PL · 1 次检索：官网 Polityka / Regulamin / Kontakt（KRS 0000700362；NIP 6792955142；BDO 000010168；ul. Półłanki 27A, 30-740 Kraków，2026-02-01 自 Ruciana 3 迁入；普通合伙人 KRS 0000583435 NIP 6793117911；「polski producent domofonów, wideodomofonów IP/SIP」）+ bizraport（ELFON BIS Sp. z o.o. Sp. K.；登记 2017-10-23；开业 2007-10-12；spółka komandytowa）+ rejestr.io（ELFON MIĘKINA KRS 0000700362 REGON 120559355；ELFON BIS Sp. z o.o. KRS 0000583435 Prezes Marek Andrzej Miękina 2015-10-29 起，资本 5 tys. zł）+ elfon-sklep.pl（ELFON Miękina Sp.K.），2026-10-28 查；https://rejestr.io/krs/700362/elfon-miekina）：**
+
+- 法定名 / 登记号：ELFON Miękina Sp. K.（原 ELFON BIS Sp. z o.o. Sp. K.；elfon.com.pl；Kraków）— 波兰楼宇对讲 / IP-SIP 可视对讲制造商（2007 起；普通合伙人 ELFON BIS Sp. z o.o.，Prezes Marek Miękina） · KRS 0000700362 · NIP 6792955142 · REGON 120559355（GP：KRS 0000583435） · 状态 **Active（2026-02 迁新址；招聘区域销售经理）** · 成立 2007-10-12（开业）/ 2017-10-23（现 sp. k. 登记） · Spółka komandytowa（普通合伙人 ELFON BIS Sp. z o.o.；Miękina 家族）
+- 行业码 / 经营范围：楼宇对讲制造：数字 / 模拟 / 两线制对讲、ELFON Optima、IP/SIP 可视对讲、电源 / 继电器（多户住宅 + 独栋）；分销可视对讲、CO / 燃气探测器
+- 注册地址：ul. Półłanki 27A, 30-740 Kraków（2026-02 起）；旧址 ul. Ruciana 3 / ul. Pana Tadeusza 4
+- 规模档：小型（人数未取；自有生产 + 区域销售网）
+- 账目：—；—
+- 高管：Marek Andrzej Miękina — Prezes Zarządu（普通合伙人 ELFON BIS Sp. z o.o.）= 实控人
+- 控制人 / 股东：Marek Miękina（推定）
+- 曾用名：ELFON BIS Sp. z o.o. Sp. K.
+- **这意味着什么：**
+  - **本土制造商 + IP/SIP 对讲产品线** → IP 对讲必配 PoE 交换机 → **贴标 small（OEM 30%）/ 配套 25%**：ELFON 标 STC-028GP（8+2，对讲 + 门口机供电）/ STI-054GP（楼道配电箱导轨）随其 IP 系统成套卖给安装商
+  - 收件人 Marek Miękina（实控人）抄 biuro@；发信窗口 Thu 12–14 CET；一页纸 + 一张配套图即可（不加厚）
+- 备注：贴标 small / 配套 25%；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -104,14 +119,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE**
   > 商业POE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Marek Andrzej Miękina（Prezes Zarządu（普通合伙人 ELFON BIS Sp. z o.o.，2015-10-29 起）= 实控人 = 收件人（抄 biuro@elfon.com.pl）（第 99 批 官方登记核实 2026-10-28））biuro@elfon.com.pl 〔https://rejestr.io/krs/700362/elfon-miekina〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 elfon.com.pl，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | ELFON Miękina Sp. K.（原 ELFON BIS Sp. z o.o. Sp. K.；KRS 0000700362；NIP 6792955142；REGON 120559355；GP ELFON BIS Sp. z o.o. KRS 0000583435） |
+| 成立 | 2007-10-12（开业）/ 2017-10-23（现登记）（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Półłanki 27A, 30-740 Kraków（2026-02-01 起；旧址 Ruciana 3） |
+| 人数 | 小型（未取；自有生产 + 区域销售） |
+| 其他 | 官网 elfon.com.pl，语言 ?，快照状态 ok；角色判定来源：官网文案；第 99 批：波兰楼宇对讲 / IP-SIP 可视对讲制造商 → IP 对讲必配 PoE → 贴标 small（OEM 30%）/ 配套 25%：ELFON 标 STC-028GP / STI-054GP 随其 IP 系统成套；一页纸 + 配套图（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：楼宇对讲 / 可视对讲制造（波兰，自有品牌 ELFON）
 - **触达通道（公开）**：role: 楼宇对讲制造商（波兰，自有品牌，PoE 为配套）；region: 波兰；contact: zamowienia@elfon.com.pl
@@ -178,7 +197,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | zamowienia@elfon.com.pl | 用户表原值 | Clients/ 表 |
+| Marek Andrzej Miękina | Prezes Zarządu（普通合伙人 ELFON BIS Sp. z o.o.，2015-10-29 起）= 实控人 = 收件人（抄 biuro@elfon.com.pl）（第 99 批 官方登记核实 2026-10-28） | biuro@elfon.com.pl | 调研核实（公开页） | https://rejestr.io/krs/700362/elfon-miekina |
 
 - **通道建议**：企业邮箱可直发
 
@@ -213,7 +232,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -230,7 +249,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -246,7 +265,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Marek,
 
 Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches that power your IP intercom and video-door systems, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; budget 4/8-PoE unmanaged) in ELFON packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with Optima IP kits?
 
@@ -271,12 +290,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

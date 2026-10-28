@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,6 +82,25 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 99 批（US · 1 次检索：CB Insights（AvaLAN Networks；2004；2021-04-19 被 Dover Fueling Solutions 收购；融资 $2.03M）+ LeadIQ（Dover (NYSE: DOV) 2021-04-20 完成收购 AvaLAN Wireless Systems Incorporated）+ LinkedIn（11–50 人；127 Jetplex Circle, Madison AL 35758；2004）+ ContactOut（Matt Nelson = CEO and President 2008 起 → Sr. Director & GM (Dover Fueling Solutions) 2021 起 → MD & GM AvaLAN + Bulloch Technologies 2024-02 起）+ NIST MEP 2026-01（总部 Huntsville AL，远程办公室 AZ / CO / 加拿大）+ PRWeb 2020-05（AvaLAN 与 Volume Inc. 合作托管网络服务；Volume Inc. = 燃油中心托管网络 + 批发网络设备），2026-10-28 查；https://www.cbinsights.com/company/avalan-wireless）：**
+
+- 法定名 / 登记号：AvaLAN Wireless Systems Incorporated（AvaLAN Networks；avalan.com；Madison / Huntsville, AL）— 加油站 / EMV 工业无线与以太网方案（2021-04 起为 Dover Fueling Solutions 子公司）+ 合作商 Volume Inc.（燃油中心托管网络批发） · Alabama / 原加州公司号未取；母公司 Dover Corporation NYSE: DOV · 状态 **Active（Dover Fueling Solutions 业务单元）** · 成立 2004（硅谷起家；2008 迁 Alabama） · Incorporated（Dover 全资子公司，2021-04 起）
+- 行业码 / 经营范围：加油站前庭 / EMV 安全工业无线与以太网（自有 AW24PTPOE 等 PoE / 无线桥接产品；FIPS 140-2）；数字标牌 / 零售 POS 网络边缘
+- 注册地址：127 Jetplex Circle, Madison, AL 35758 / Huntsville, AL；远程办公室 AZ / CO / 加拿大
+- 规模档：小型（11–50 人；Dover 子公司）
+- 账目：—（并入 Dover）；—
+- 高管：Matt (Matthew S.) Nelson — Managing Director & GM（原 CEO / President，2008 起）
+- 高管：Steve Merrick — CFO（收购前）
+- 高管：Cindy Powers — Director = 研究档 KP cindy.powers@
+- 高管：John W — Product Manager, Volume Inc. = 研究档 KP sales@volumeinc.com
+- 控制人 / 股东：Dover Fueling Solutions（Dover Corporation）
+- 曾用名：AvaLAN Wireless Systems, Inc.（硅谷，2004）
+- **这意味着什么：**
+  - **已是 Dover（NYSE: DOV）子公司** → 采购走集团供应商准入（PCI / 质量体系文件多），自有标 AW24PTPOE 等 PoE 产品有现成代工 → **OEM 30% 低概率、周期长**；B 不升
+  - 更现实的一条线 = **Volume Inc.（KP John W，Product Manager）= 燃油中心网络设备批发商 → 分销 20%**：对标其在售的 8 / 16 口 PoE 报 HRUI STC-028GP / STC-2216GP + 工业 STI-054GP（加油机内「为什么需要以太网交换机」博客 = 刚需场景）
+  - 收件人：Volume Inc. sales@ 点名 John W 为主，AvaLAN Cindy Powers 抄；发信窗口 Wed 08–10 CT；一页纸
+- 备注：Dover 子公司；OEM 低概率；Volume Inc. 分销 20% 一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,16 +143,20 @@ updated: 2026-10-27
 - **【用户表】工业 switch**
   > 工业switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Cindy Powers（）cindy.powers@avalan.com 〔用户表〕
-- **KP**：John W（）sales@volumeinc.com 〔用户表〕
+- **KP**：Cindy Powers（Director（AvaLAN，Dover Fueling Solutions 业务单元）= 抄送（第 99 批 官方登记核实 2026-10-28））cindy.powers@avalan.com 〔用户表〕
+- **KP**：John W（Product Manager, Volume Inc.（燃油中心托管网络 + 网络设备批发；AvaLAN 2020 起合作商）= **主收件人（分销 20% 线）**（第 99 批 官方登记核实 2026-10-28））sales@volumeinc.com 〔用户表〕
+- **KP**：Matt Nelson（Managing Director & GM（原 CEO / President 2008 起；2021-04 Dover 收购后任 Sr. Director & GM；2024-02 起兼管 Bulloch Technologies）= 拍板人（集团流程）（第 99 批 官方登记核实 2026-10-28）） 〔https://www.cbinsights.com/company/avalan-wireless〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 avalan.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | AvaLAN Wireless Systems Incorporated（AvaLAN Networks；2021-04-19 起 Dover Fueling Solutions / Dover Corporation NYSE: DOV 全资） |
+| 成立 | 2004（硅谷）→ 2008 迁 Alabama（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 127 Jetplex Circle, Madison, AL 35758 / Huntsville, AL |
+| 人数 | 11–50 人 |
+| 其他 | 官网 avalan.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 99 批：Dover 子公司 → 自有标 AW24PTPOE 等 PoE 已有代工 + 集团供应商准入 → OEM 30% 低概率；现实线 = Volume Inc. 分销 20%（STC-028GP / STC-2216GP + 工业 STI-054GP 给加油机 / 前庭）；一页纸（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业无线 / 以太网方案（加油站 EMV，自有品牌 AvaLAN）
 - **触达通道（公开）**：role: 加油站/工业无线方案商（美国，自有标工业 PoE）；region: 美国；contact: sales@volumeinc.com、cindy.powers@avalan.com
@@ -232,8 +255,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Cindy Powers | — | cindy.powers@avalan.com | 调研核实（公开页） | 用户表 |
-| John W | — | sales@volumeinc.com | 调研核实（公开页） | 用户表 |
+| Cindy Powers | Director（AvaLAN，Dover Fueling Solutions 业务单元）= 抄送（第 99 批 官方登记核实 2026-10-28） | cindy.powers@avalan.com | 调研核实（公开页） | 用户表 |
+| John W | Product Manager, Volume Inc.（燃油中心托管网络 + 网络设备批发；AvaLAN 2020 起合作商）= **主收件人（分销 20% 线）**（第 99 批 官方登记核实 2026-10-28） | sales@volumeinc.com | 调研核实（公开页） | 用户表 |
+| Matt Nelson | Managing Director & GM（原 CEO / President 2008 起；2021-04 Dover 收购后任 Sr. Director & GM；2024-02 起兼管 Bulloch Technologies）= 拍板人（集团流程）（第 99 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.cbinsights.com/company/avalan-wireless |
 
 - **通道建议**：邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -327,12 +351,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -4728,7 +4728,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 3,
    "summary": true
   },
   "SB-102": {
@@ -4882,7 +4882,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1026": {
@@ -5520,7 +5520,7 @@
    "p1": "STI-280GE",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1052": {
@@ -5630,7 +5630,7 @@
    "p1": "STI-280GE",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1057": {
@@ -5850,7 +5850,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1066": {
@@ -6664,7 +6664,7 @@
    "p1": "STC-204GP",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-110": {
@@ -10695,8 +10695,8 @@
   },
   "SB-253": {
    "grade": "B",
-   "iso": "US",
-   "country": "美国",
+   "iso": "IL",
+   "country": "以色列",
    "facts": 4,
    "in": 0,
    "out": 2,
@@ -16740,7 +16740,7 @@
    "p1": "STI-154GP",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-528": {
@@ -22240,7 +22240,7 @@
    "p1": "STI-054GP",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-778": {

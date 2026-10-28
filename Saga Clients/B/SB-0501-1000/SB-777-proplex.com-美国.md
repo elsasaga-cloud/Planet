@@ -82,6 +82,23 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 99 批（US · 1 次检索：tmb.com Company Profile（1983 年成立，演出制作一站式供应；办公室 Los Angeles / London / New York / Toronto / Beijing）+ LinkedIn（TMB；1984；51–200 人；HQ San Fernando CA；65 Commerce Rd Carlstadt NJ；Marupe LV）+ proplex.com Contact（527 Park Avenue, San Fernando CA 91340；21 Armstrong Way Southall UB2 4SD；Meaford Ontario；Beijing）+ LSi / PLSN 2020-05（Colin Waters = 创办人 / CEO，前巡演技术员）+ PLASA 2025-06（Colin Waters, Chief Executive；ProPlex CodeClock）+ MapQuest（TMB Production Supplies & Services；品牌 ProCable / ProPlex / ProPin / ProFibre / ProPower），2026-10-28 查；https://tmb.com/about/company-profile/）：**
+
+- 法定名 / 登记号：TMB（ProPlex 品牌；tmb.com / proplex.com；San Fernando, CA 总部 + Carlstadt NJ / London / Toronto / Beijing / Riga）— 演出 / 舞台技术增值分销商兼自有品牌（ProPlex GBS 交换机、ProCable 等） · CA 实体法定名 / SoS 号未取（公开名 TMB / TMB Production Supplies & Services；1 次即停） · 状态 **Active（2025 PLASA 活跃）** · 成立 1983 · 私有（创办人 Colin Waters 持有；加州）
+- 行业码 / 经营范围：演出 / 舞台 / 建筑照明技术增值分销（租赁公司、经销商、制造商）；自有品牌：ProPlex（Ethernet / DMX 数据分发、GBS 网络交换机）、ProCable / ProPin / ProFibre / ProPower（线缆与连接器）
+- 注册地址：527 Park Avenue, San Fernando, CA 91340（总部）；65 Commerce Road, Carlstadt, NJ 07072；21 Armstrong Way, Southall UB2 4SD（英国）；Meaford, Ontario；北京办事处；Marupe（拉脱维亚）
+- 规模档：中型（51–200 人）
+- 账目：—；—
+- 高管：Colin Waters — Co-founder / CEO（Chief Executive）
+- 高管：Tim Obermann — European Sales Manager（2018 起）
+- 控制人 / 股东：Colin Waters（推定）
+- 曾用名：TMB Production Supplies & Services
+- **这意味着什么：**
+  - **自有标交换机品牌商（ProPlex GBS：5 口 PoE 导轨、6 口便携 PoE、5 口千兆 PoE）= OEM 30% 目标**，但表内已注明「北京有办事处」= 自己在中国采购 → 卖点不是价格而是「Marvell 管理型 + 工业温宽 + 3 年保修 + MOQ 1 试产」
+  - 对口型号：导轨 5 口 PoE → STI-054GP（4 PoE + 1 GE）/ STI-144GP（4+1 SFP）；便携 / 机柜 → STC-028GP（8+2）；演出行业要 IGMP / RSTP 快速收敛（Art-Net / sACN 多播）→ 信里点 IGMP snooping
+  - 10 次群发无回复 → 第二次触达换主题「DIN-rail PoE for touring racks」写 sales@tmb.com 点名产品经理（研究档无 KP）；发信窗口 Wed 08–10 PT；一页纸即止，不加厚（细分行业，复利有限）
+- 备注：自有标 OEM 30% 目标；北京办事处 = 已直采；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,14 +131,18 @@ updated: 2026-10-28
 - **【用户表】北京有办事处**
   > switch 外壳有一些特别 周边产品较多 北京有办事处
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Colin Waters（Co-founder / CEO（1983 创办，前巡演技术员；PLASA 2025 仍为 Chief Executive）= 拍板人；收件走 sales@tmb.com 点名 ProPlex 产品经理（第 99 批 官方登记核实 2026-10-28）） 〔https://tmb.com/about/company-profile/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 proplex.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | TMB（TMB Production Supplies & Services；品牌 ProPlex / ProCable / ProPin / ProFibre / ProPower；加州法定名 / SoS 号未取） |
+| 成立 | 1983（LinkedIn 1984）（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 527 Park Avenue, San Fernando, CA 91340（+ Carlstadt NJ / Southall UB2 / Meaford ON / 北京 / Marupe LV） |
+| 人数 | 51–200 人 |
+| 其他 | 官网 proplex.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 99 批：自有标 ProPlex GBS PoE 交换机（导轨 5 口 / 便携 6 口）= OEM 30% 目标，但北京办事处 = 已直采 → 一页纸，卖 Marvell 管理型 + IGMP（Art-Net / sACN 多播）+ 3 年保修 + MOQ 1；B BIG；不加厚（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：AV / 娱乐行业数据分发（自有品牌 ProPlex，GBS 交换机）
 - **触达通道（公开）**：role: AV/娱乐数据分发品牌商（美国，GBS 交换机线）；region: 美国；contact: sales@tmb.com
@@ -212,7 +233,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@tmb.com | 用户表原值 | Clients/ 表 |
+| Colin Waters | Co-founder / CEO（1983 创办，前巡演技术员；PLASA 2025 仍为 Chief Executive）= 拍板人；收件走 sales@tmb.com 点名 ProPlex 产品经理（第 99 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://tmb.com/about/company-profile/ |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -280,7 +301,7 @@ updated: 2026-10-28
 **主题**：STI-054GP - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Colin,
 
 Some time ago you had a product mail from us - "24 Port Fiber Switch" on 22 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the GBS DIN-rail PoE switches in your range, we can be a second ODM source (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
 

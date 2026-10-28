@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -96,6 +96,27 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 99 批（US · 1 次检索：官网（KBC Networks 32409 Calle Perfecto, San Juan Capistrano CA 92675；Rugged Industrial Network Switches：managed / unmanaged / PoE / PoE+ / PoE++，2–24 口，全 SFP，IP40，-40~+75 °C，无风扇）+ ZoomInfo / Datanyze（KBC Networks Ltd；2008；51–200 / 102 人；$30.2M；CEO Jonathan Crockett）+ Crunchbase（Dartford, Kent 总部；Founder & Managing Partner Ramesh Koya；CCO Luis Angulo）+ MapQuest / ProcessRegister（旧址 25691 Atlantic Ocean Dr Ste B3, Lake Forest CA；Jon Epperson 销售经理）+ LinkedIn David Schulman（VP Business Development 2010-09 起）+ Security Sales 旧闻（Lake Forest 时期发布 ESUL8 / PoE 工业交换机），2026-10-28 查；https://www.kbcnetworks.com/products/column-1/network-switches）：**
+
+- 法定名 / 登记号：KBC Networks（kbcnetworks.com；San Juan Capistrano / Lake Forest, CA + KBC Networks Ltd, Dartford, UK）— 加固工业传输 / 电源方案品牌商（自有标工业 PoE 交换机 2–24 口；≈$30M） · CA 实体 / 英国 KBC Networks Ltd 的 CH 号未取（1 次即停） · 状态 **Active（官网 2026-10 更新）** · 成立 2008（美国口径）/ 2010（英国口径） · 私有品牌商（美英双总部）
+- 行业码 / 经营范围：加固工业网络交换机（自有标，2–24 口 PoE / SFP，IP40）、无线以太网、ThruLink 硬件 VPN、eCopper 同轴 / UTP IP 传输、太阳能 / UPS 电源（安防、ITS、工业控制）
+- 注册地址：32409 Calle Perfecto, San Juan Capistrano, CA 92675（美国）；Dartford, Kent（英国 KBC Networks Ltd）；旧址 Lake Forest CA
+- 规模档：中型（51–200 人；≈$30M）
+- 账目：—；—
+- 高管：Jonathan Crockett — CEO
+- 高管：Ramesh Koya — Founder & Managing Partner
+- 高管：Luis Angulo — CCO
+- 高管：David Schulman — VP Business Development（2010 起）= 研究档 KP（info@）
+- 高管：Steve Kuntz — President（研究档 KP skuntz@）
+- 高管：Craig Kennedy — 研究档 KP
+- 控制人 / 股东：Ramesh Koya（推定）
+- **这意味着什么：**
+  - **定性：品牌商而非同行** —— KBC 卖给安防 / ITS 集成商的是贴 KBC 标的加固交换机（规格 2–24 口 PoE / 全 SFP / IP40 / -40~75 °C = 华南工业公模同款）→ 他们是 **OEM 30% 目标（B BIG）**，Simon 表内「优质公司」一致
+  - 对口型号：STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM（Marvell 管理型工业 PoE）；卖点 = Marvell L2+ + 3 年保修 + MOQ 1 + 已有 ITS 客户也不要 TS2（不提）
+  - 收件人：Steve Kuntz（President）主送、David Schulman（VP BD）抄；美英双总部 → 英国 Dartford 也可 Thu 12–14 GMT 再发一次；**升 A 候选**（回信即 A）
+  - 风险：已有稳定亚洲代工 → 首信只谈「第二供应商 / 管理型升级」，不谈替换
+- 备注：B BIG；OEM 30% 目标；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,8 +159,8 @@ updated: 2026-10-27
 - **【用户表】工业 FS MC 机架 SFP VC；优质公司**
   > 工业FS MC 机架 SFP VC；优质公司
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：David Schulman（）info@kbcnetworks.com 〔用户表〕
-- **KP**：Steve Kuntz（）skuntz@kbcnetworks.com 〔用户表〕
+- **KP**：David Schulman（VP Business Development（2010-09 起，LinkedIn）= 抄送（第 99 批 官方登记核实 2026-10-28））info@kbcnetworks.com 〔用户表〕
+- **KP**：Steve Kuntz（President = **拍板人 = 主收件人**（第 99 批 官方登记核实 2026-10-28））skuntz@kbcnetworks.com 〔用户表〕
 - **KP**：Craig Kennedy（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -147,8 +168,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 kbcnetworks.com，语言 en-gb，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | KBC Networks（美国 San Juan Capistrano CA 实体 + 英国 KBC Networks Ltd, Dartford；CEO Jonathan Crockett；Founder & Managing Partner Ramesh Koya；CCO Luis Angulo） |
+| 成立 | 2008（美国口径）/ 2010（英国口径）（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 32409 Calle Perfecto, San Juan Capistrano, CA 92675（旧址 25691 Atlantic Ocean Dr, Lake Forest）；Dartford, Kent UK |
+| 人数 | 51–200 人（67–102）；≈$30M |
+| 其他 | 官网 kbcnetworks.com，语言 en-gb，快照状态 ok；角色判定来源：官网文案；第 99 批：**定性 = 品牌商而非同行**：KBC 标加固工业交换机（2–24 口 PoE / 全 SFP / IP40 / -40~75 °C）卖给安防 / ITS 集成商 = 华南工业公模规格 → **OEM 30% 目标（B BIG），升 A 候选**；对口 STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM；首信只谈「第二供应商 / 管理型升级」；美英双总部可各发一次（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：无线以太网 / 移动监控 / 硬件 VPN；加固工业交换机 / MC / 电源（自有品牌）
 - **触达通道（公开）**：role: 工业传输方案品牌商（自有标加固交换机线，OEM 采购）；region: 美国；contact: info@kbcnetworks.com、skuntz@kbcnetworks.com
@@ -249,8 +273,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| David Schulman | — | info@kbcnetworks.com | 调研核实（公开页） | 用户表 |
-| Steve Kuntz | — | skuntz@kbcnetworks.com | 调研核实（公开页） | 用户表 |
+| David Schulman | VP Business Development（2010-09 起，LinkedIn）= 抄送（第 99 批 官方登记核实 2026-10-28） | info@kbcnetworks.com | 调研核实（公开页） | 用户表 |
+| Steve Kuntz | President = **拍板人 = 主收件人**（第 99 批 官方登记核实 2026-10-28） | skuntz@kbcnetworks.com | 调研核实（公开页） | 用户表 |
 | Craig Kennedy | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -345,12 +369,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

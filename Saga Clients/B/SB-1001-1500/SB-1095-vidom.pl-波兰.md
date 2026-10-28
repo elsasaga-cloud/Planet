@@ -79,6 +79,19 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 99 批（PL · 1 次检索「Vidom sp. z o.o. KRS NIP vidom.pl」→ 仅命中 vidom.com.pl 的 VIDOM Systemy Zabezpieczeń sp. z o.o.（KRS 0001021691；Mińsk Mazowiecki；Grązka 家族）与其关联公司 —— 域名不同、业务（安防集成）不同于研究档 vidom.pl（LED / Grenton 智能家居网店，邮箱 grenton@）→ 视为同名他户，按规程停；研究档：表内「PoE switch 国内的」「质量一般」，2026-10-28 查；）：**
+
+- 法定名 / 登记号：VIDOM（vidom.pl；LED 照明 + Grenton 智能家居网店，PoE / CCTV / WiFi 为配套）— 官方登记 1 次未命中（检索命中的 VIDOM Systemy Zabezpieczeń sp. z o.o. Mińsk Mazowiecki = vidom.com.pl 同名他户，不采）→ 未坐实 · 未坐实（vidom.pl 运营主体 NIP / KRS 未取） · 状态 **未核（站点在线 2026-10-21）** · 成立 未取 · 未取
+- 行业码 / 经营范围：LED 照明 / Grenton 智能家居网店（PoE 交换机、CCTV、WiFi 为配套类目）
+- 注册地址：未取
+- 规模档：未取（疑微型网店）
+- 账目：—；—
+- 高管：未取（研究档无 KP；grenton@ 邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实 + 同名陷阱**（vidom.pl ≠ vidom.com.pl）；智能家居网店对 PoE 只是配套且表内「质量一般」→ **一页纸即止**：STC-028GP $28 单品；不加厚、下轮不追
+- 备注：未坐实；同名他户不采；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,8 +130,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 vidom.pl，语言 pl，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | 未坐实（vidom.pl 运营主体未取；检索命中的 VIDOM Systemy Zabezpieczeń sp. z o.o. KRS 0001021691 Mińsk Mazowiecki = vidom.com.pl 同名他户，不采） |
+| 成立 | 未取（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 未取 |
+| 人数 | 未取（疑微型网店） |
+| 其他 | 官网 vidom.pl，语言 pl，快照状态 ok；角色判定来源：官网文案；第 99 批：**未坐实 + 同名陷阱**；LED / Grenton 智能家居网店，PoE 只是配套且表内「质量一般」→ 一页纸即止（STC-028GP）；不加厚（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：LED 照明 / 智能家居网店
 - **触达通道（公开）**：role: LED/智能家居网店（波兰，PoE 为配套）；region: 波兰；contact: grenton@vidom.pl

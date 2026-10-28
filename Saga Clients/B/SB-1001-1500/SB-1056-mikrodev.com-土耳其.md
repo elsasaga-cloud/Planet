@@ -81,6 +81,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 99 批（TR · 1 次检索：官网（2006 年 İstanbul 成立，2011 起商业化生产；PLC / RTU / 网关 / HMI / SCADA；「headquarters in UK, manufacturing in Turkey, branch in South Africa」）+ Kariyer.net（Mikrodev Bilişim Yazılım Elektronik San. ve Tic. Ltd. Şti.；2011 起在 Gebze 高等技术大学校园生产；首家本土 RTU 制造商）+ IoT Tech Expo（20 工程师 + 16 技术员；TÜBİTAK 自贸区；163 型号；土耳其 14 家经销商 + 海外 3 家）+ turkishexporter（2011 注册 MİKRODEV 商标）+ ContactOut / Apollo（Habil Sekibağ = Managing Director；Erdem Öztürk = Deputy MD；Kocaeli；16 人口径）+ EtherCAT 会员页，2026-10-28 查；https://www.mikrodev.com/about/）：**
+
+- 法定名 / 登记号：Mikrodev Bilişim Yazılım Elektronik San. ve Tic. Ltd. Şti.（mikrodev.com；İstanbul 注册，Gebze TÜBİTAK 自贸区生产；英国 / 南非分支）— 本土 PLC / RTU / 网关 / 工业路由器制造商（自有品牌 MIKRODEV，2011 注册商标） · Ltd. Şti.（İstanbul / Kocaeli；MERSİS 号未取） · 状态 **Active（官网 2025-09 更新）** · 成立 2006 · Limited Şirket（私有；UK 分支 Mikrodev Ltd 自称总部）
+- 行业码 / 经营范围：工业自动化硬件：PLC、RTU、协议转换器、网关、工业路由器（2G/LTE/Wi-Fi）、HMI、SCADA 软件 —— 自研自产（TÜBİTAK 支持）
+- 注册地址：TÜBİTAK MAM Teknoloji Serbest Bölgesi, Gebze / Kocaeli（生产）；İstanbul（注册）；英国 / 南非分支
+- 规模档：小型（16–36 人）
+- 账目：—；—
+- 高管：Habil Sekibağ — Managing Director（创办人）
+- 高管：Erdem Öztürk — Deputy Managing Director
+- 控制人 / 股东：Habil Sekibağ（推定）
+- **这意味着什么：**
+  - **准同行（工业路由器 / 网关自产）但不做交换机** → 与 comtime（SB-833）同型：**贴标 small（OEM 30%）**：MIKRODEV 标导轨工业交换机（STI-054GP / STI-144GP）补齐其 PLC / RTU 柜内组网，走其土耳其 14 家经销商
+  - 收件人 Habil Sekibağ（MD 本人）；发信窗口 Thu 10–12 TRT；一页纸即止；英国 / 南非分支可作第二落点（不另发）
+- 备注：准同行；贴标 small；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,14 +128,18 @@ updated: 2026-10-28
 - **【用户表】工业以太网 串口**
   > 工业以太网 串口
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Habil Sekibağ（Managing Director（创办人；ContactOut / Apollo）= 收件人；Deputy MD Erdem Öztürk（第 99 批 官方登记核实 2026-10-28）） 〔https://www.mikrodev.com/about/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 mikrodev.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Mikrodev Bilişim Yazılım Elektronik San. ve Tic. Ltd. Şti.（İstanbul 注册；Gebze TÜBİTAK 自贸区生产；UK 分支 Mikrodev Ltd 自称总部；南非分支） |
+| 成立 | 2006（2011 起商业化生产；MİKRODEV 商标 2011）（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | TÜBİTAK MAM Teknoloji Serbest Bölgesi, Gebze / Kocaeli |
+| 人数 | 16–36 人（20 工程师 + 16 技术员） |
+| 其他 | 官网 mikrodev.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 99 批：本土 PLC / RTU / 网关 / 工业路由器自产（准同行）但不做交换机 → 贴标 small：MIKRODEV 标 STI-054GP / STI-144GP 补齐柜内组网，走其 14 家土耳其经销商；一页纸（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：PLC / RTU / 远程 I/O / 工业网关制造（自有品牌 Mikrodev）
 - **触达通道（公开）**：role: 工业控制与通信产品制造商（土耳其，可补工业交换机品类）；region: 土耳其；contact: info@mikrodev.com
@@ -182,7 +201,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@mikrodev.com | 用户表原值 | Clients/ 表 |
+| Habil Sekibağ | Managing Director（创办人；ContactOut / Apollo）= 收件人；Deputy MD Erdem Öztürk（第 99 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.mikrodev.com/about/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -218,7 +237,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：土耳其主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-280GE 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -235,7 +254,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

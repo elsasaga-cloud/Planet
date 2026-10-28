@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 99 批（GB · 1 次检索：videobits.co.uk 页脚（Leading Light Technologies Ltd；Registered in England & Wales Reg No. 06496207；Reg Office Tower House, Lucy Tower Street, Lincoln LN1 1XW）+ About（「VideoBits is the online store for L2tek」；广播 / ProAV 硬件；小批量 / 样品；英国现货）+ ZoomInfo（<25 人；<$5M；Telecommunication Equipment）+ X 账号（2017-10 上线），2026-10-28 查；https://videobits.co.uk/about/）：**
+
+- 法定名 / 登记号：VideoBits（videobits.co.uk）= L2tek 的网店，运营主体 Leading Light Technologies Ltd（Lincoln）— 广播 / ProAV 零配件电商（光模块、BNC / SDI / HDMI 延长器、小批量现货） · 06496207（Leading Light Technologies Ltd；CH 页未开，页脚自述） · 状态 **Active（站点 2025-07）** · 成立 2008（06496207 号段推定；未开 CH） · Private limited company（L2tek 品牌 / VideoBits 网店）
+- 行业码 / 经营范围：广播 / ProAV 硬件电商：光模块（SMPTE 视频 SFP / QSFP）、BNC / 光纤线缆、SDI / HDMI 延长器、视频流系统；小批量
+- 注册地址：Tower House, Lucy Tower Street, Lincoln LN1 1XW（注册处）
+- 规模档：微型（<25 人）
+- 账目：—；—
+- 高管：未取（研究档无 KP；CH 页未开）
+- 控制人 / 股东：未取
+- 曾用名：L2tek（母品牌）
+- **这意味着什么：**
+  - **广播 / ProAV 小批量电商**，主营光模块 / 线缆（Saga 不做光模块）→ 唯一切口是 **AV-over-IP 的 PoE 交换机（IGMP / 多播）**：STC-2224GP / STC-424XGGPM-280W → 分销 20% small，一页纸即止
+  - 发信窗口 Thu 12–14 GMT；不加厚
+- 备注：分销 20% small；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,8 +127,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 videobits.co.uk，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | Leading Light Technologies Ltd（Reg No. 06496207；品牌 L2tek；网店 VideoBits） |
+| 成立 | 2008（号段推定；CH 未开）（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Tower House, Lucy Tower Street, Lincoln LN1 1XW（注册处） |
+| 人数 | <25 人；<$5M |
+| 其他 | 官网 videobits.co.uk，语言 ?，快照状态 ok；角色判定来源：待核；第 99 批：广播 / ProAV 光模块 / 线缆小批量电商（Saga 不做光模块）→ 只剩 AV-over-IP PoE 交换机（IGMP）切口：STC-2224GP / STC-424XGGPM-280W → 分销 20% small，一页纸（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：MC / SFP / 交换机经销（英国）
 - **触达通道（公开）**：role: 网络产品经销（英国，站点待核）；region: 英国；contact: sales@videobits.co.uk

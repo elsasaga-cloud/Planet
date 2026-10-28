@@ -81,6 +81,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 99 批（GB · 1 次检索：Companies House（ZXTECH LTD 12495813；成立 2020-03-03；Berkeley Square House, Berkeley Square, Mayfair, London W1J 6BD；Active；1 名董事）+ Endole（Micro；营业额 <£1M；董事 / PSC Timothy Mak，1980-01 生；2 名股东）+ opengovuk（PSC 75–100% 股权与表决权）+ Northdata（资本 £1.00）+ zxtechuk.com 页脚（FCA 授权号 940104）+ 2020-12 迁址（自 Lansdowne House），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/12495813）：**
+
+- 法定名 / 登记号：ZXTECH LTD（zxtech.co / zxtechuk.com；注册地 Mayfair 虚拟办公室）— 英国家用安防摄像系统品牌（PoE NVR 套装；经 domar.com 销售；FCA 消费信贷授权） · 12495813 · 状态 **Active（账目至 2025-12-31）** · 成立 2020-03-03 · Private limited company（Micro；资本 £1）
+- 行业码 / 经营范围：家用 CCTV 品牌电商（5MP / 4K / 12MP IP 与模拟套装、PoE 摄像机、配套 6 口 PoE 小交换机）；直销 + domar.com
+- 注册地址：Berkeley Square House, Berkeley Square, Mayfair, London W1J 6BD（虚拟办公室；实际仓储未取）
+- 规模档：微型（1 董事）
+- 账目：Micro（营业额 <£1M）；—
+- 高管：Timothy Mak — Director / PSC（75–100%）
+- 控制人 / 股东：Timothy Mak
+- **这意味着什么：**
+  - **定性：不是同行**，是消费级 CCTV 自有标卖家（Amazon / 自营站套装）；配套 PoE 交换机已随套装从华南采购 → 守界（消费级）+ 微型 → **一页纸即止、不加厚**：若要试探只报 HRUI STC-028GP $28（4/8 口 PoE）贴 Zxtech 标 MOQ
+  - 发信窗口 Thu 12–14 GMT；收件人 Timothy Mak（董事本人）
+- 备注：消费级自有标；微型；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,14 +127,18 @@ updated: 2026-10-28
 - **【用户表】CCTV 为主，有 PoE switch（domar 渠道）**
   > CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Timothy Mak（Director / PSC（75–100%；1980-01 生）= 唯一决策人（第 99 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/12495813〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 zxtech.co，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | ZXTECH LTD（Companies House 12495813；Micro；资本 £1；FCA 940104） |
+| 成立 | 2020-03-03（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Berkeley Square House, Berkeley Square, Mayfair, London W1J 6BD（虚拟办公室） |
+| 人数 | 微型（1 董事；营业额 <£1M） |
+| 其他 | 官网 zxtech.co，语言 en，快照状态 ok；角色判定来源：用户表；第 99 批：**定性 = 不是同行**，消费级 CCTV 自有标卖家（PoE NVR 套装，配套 PoE 小交换机随套装华南采购）→ 守界（消费级）+ 微型 → 一页纸即止（STC-028GP 贴标 MOQ）；不加厚（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：家用安防摄像系统（自有品牌 Zxtech）；配套 PoE 交换机（自有标）
 
@@ -184,7 +202,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@zxtech.co | 用户表原值 | Clients/ 表 |
+| Timothy Mak | Director / PSC（75–100%；1980-01 生）= 唯一决策人（第 99 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/12495813 |
 
 - **通道建议**：企业邮箱可直发
 

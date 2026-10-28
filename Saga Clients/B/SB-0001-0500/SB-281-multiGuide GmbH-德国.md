@@ -77,6 +77,24 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 99 批（DE · 1 次检索：Impressum（Multiguide GmbH, Linienstraße 1, 82041 Oberhaching；GF Dr. Roland Kraus；Amtsgericht München HRB 194714；USt-ID DE279778200）+ Northdata（HRB 194714；2011-10-12 登记；资本 €25,000 → €26,596；经营范围「Entwicklung, Produktion, Vertrieb und Wartung von Verkehrssystemen」）+ companyhouse.de（成立 2011-10-17；Prokura Marion Schmitz / Javier Ferre Torres / Annika Heinz）+ firmenwissen（4 名管理者；最近变更 2021-03）+ XING（Dr. Roland Kraus 2012 起 GF；2007–2011 Leiter Urban Parking Siemens AG）+ LinkedIn（11–50 人；Javier Ferre Torres = Produkt Manager Parkleitsystem；Kraus = Geschäftsführender Gesellschafter），2026-10-28 查；https://www.multiguide.com/Impressum/）：**
+
+- 法定名 / 登记号：multiGuide GmbH（multiguide.com；Oberhaching bei München）— 停车引导系统（Parkleitsystem：传感器 / 显示 / 软件）开发与制造商（2011；GF 兼股东 Dr. Roland Kraus，前 Siemens 全球停车业务负责人） · HRB 194714（Amtsgericht München） · 状态 **Active（2025-08 最近变更）** · 成立 2011-10-17 · GmbH（GF 兼股东 Dr. Roland Kraus）
+- 行业码 / 经营范围：停车引导系统（单车位传感器、LED 显示、控制器、软件；停车场 / 商场 / 机场）— 开发 / 生产 / 安装 / 维护
+- 注册地址：Linienstraße 1, 82041 Oberhaching（慕尼黑南）
+- 规模档：小型（11–50 人）
+- 账目：—（小型 GmbH）；—
+- 高管：Dr. Roland Kraus — Geschäftsführender Gesellschafter（2012 起）
+- 高管：Javier Ferre Torres — Prokura / Produkt Manager Parkleitsystem = 研究档 KP javier.ferre@
+- 高管：Marion Schmitz — Prokura
+- 高管：Annika Heinz — Prokura
+- 控制人 / 股东：Dr. Roland Kraus
+- **这意味着什么：**
+  - **研究档 KP Javier Ferre 坐实 = Prokurist + 停车引导产品经理**（选型人）
+  - 系统商自用 + 项目配套 → **集成商 25%**：停车场是 PoE 交换机典型场景（传感器 / 摄像机 / 显示屏供电，地下车库宽温）→ STI-054GP / STI-144GP（导轨）+ STC-2224GP（机房）；卖点 = 工业温宽 + 3 年保修 + 小批量
+  - 收件人 Javier Ferre Torres；发信窗口 Thu 12–14 CET；一页纸即止（单一行业、量随项目）
+- 备注：集成商 25%；KP 坐实；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,15 +127,18 @@ updated: 2026-10-28
 - **【用户表】1 光 2 电商业 switch RFQ**
   > 1光2 商业switch / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Javier Ferre（）javier.ferre@multiguide.com 〔用户表〕
+- **KP**：Javier Ferre Torres（Prokura + Produkt Manager Parkleitsystem（companyhouse.de / LinkedIn）= **坐实 = 选型人 = 收件人**；GF 兼股东 Dr. Roland Kraus（前 Siemens 全球停车业务负责人）（第 99 批 官方登记核实 2026-10-28））javier.ferre@multiguide.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 multiguide.com，语言 de，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | multiGuide GmbH（Amtsgericht München HRB 194714；资本 €26,596；USt-ID DE279778200） |
+| 成立 | 2011-10-17（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Linienstraße 1, 82041 Oberhaching |
+| 人数 | 11–50 人 |
+| 其他 | 官网 multiguide.com，语言 de，快照状态 ok；角色判定来源：待核；第 99 批：停车引导系统开发 / 制造 / 安装商 → 集成商 25%（地下车库传感器 / 摄像机 / 显示屏 PoE：STI-054GP / STI-144GP 导轨 + STC-2224GP 机房）；一页纸（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：停车引导系统（自有品牌 multiGuide）
 - **触达通道（公开）**：role: 停车引导系统制造商（德国，交换机为系统配套）；region: 德国；contact: javier.ferre@multiguide.com
@@ -174,7 +195,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Javier Ferre | — | javier.ferre@multiguide.com | 调研核实（公开页） | 用户表 |
+| Javier Ferre Torres | Prokura + Produkt Manager Parkleitsystem（companyhouse.de / LinkedIn）= **坐实 = 选型人 = 收件人**；GF 兼股东 Dr. Roland Kraus（前 Siemens 全球停车业务负责人）（第 99 批 官方登记核实 2026-10-28） | javier.ferre@multiguide.com | 调研核实（公开页） | 用户表 |
+| Javier Ferre | — | javier.ferre@multiguide.com / +491743096801 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

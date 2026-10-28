@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,6 +77,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 99 批（GB · 1 次检索：Companies House（ITM COMPONENTS LIMITED 03129914；成立 1995-11-23；10 Whittle Road, Ferndown Industrial Estate, Wimborne BH21 7RU；Active；账目至 2024-05-31，小型豁免；2024-10-28 Ian Flemming 辞任董事 / 秘书 / PSC；2024-09 新章程）+ datalog（董事 Michael John Cook 1997 起；营业额 <£6.5M；<50 人）+ Endole（Michael John Cook 85 岁；1 名股东 / PSC；7 人；现金 £671.87K，同比 −46%；关联 ITM Direct Ltd）+ checkthecompany（1991 起营业；分销 L-Com / NTI / Extron / Ophit / VPI / Gefen / Acces IO / Aten / Austin Hughes / EKS / Hetec / Ingke / Newnex）+ firmbase（7 人），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/03129914）：**
+
+- 法定名 / 登记号：ITM Components Limited（itm-components.co.uk；Wimborne, Dorset）— 连接 / KVM / AV 延长小众分销商（L-Com、NTI、Extron、Aten、Austin Hughes 等；1991 起；7 人） · 03129914 · 状态 **Active（2024-10 股权集中至 Michael John Cook）** · 成立 1995-11-23（1991 起营业） · Private limited company（单一股东）
+- 行业码 / 经营范围：电子连接 / KVM / AV 延长 / 工控卡分销（L-Com、NTI、Extron、Aten、Austin Hughes 等；定制线缆）
+- 注册地址：10 Whittle Road, Ferndown Industrial Estate, Wimborne, Dorset BH21 7RU
+- 规模档：微型（7 人）
+- 账目：小型豁免（营业额 <£6.5M）；现金 £672K（2025-05）；2026-02-28（2025 账目）
+- 高管：Michael John Cook — Director / PSC（1997 起；1940-12 生）
+- 高管：Ian Flemming — 前董事 / 秘书（1999–2024-10-28 辞任）
+- 高管：Neil Stratford / Philip Savill — 研究档 KP（职务未核）
+- 控制人 / 股东：Michael John Cook（2024-10 起唯一）
+- **这意味着什么：**
+  - **微型、85 岁单一股东、合伙人 2024-10 退出、现金减半** → 复利低 → **分销 20% small，一页纸即止**：Aten / NTI 客群配套的 STC-028GP / STC-228GP
+  - 收件人：研究档 Neil Stratford / Philip Savill（销售）；发信窗口 Thu 12–14 GMT；不加厚、下轮不追
+- 备注：分销 20% small；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,16 +137,18 @@ updated: 2026-10-27
 - **【第三方（NTI 经销商页）】具名联系人 / 电话**
   > ITM Components Ltd 10 Whittle Road Ferndown Industrial Estate Wimborne, Dorset, BH21 7RU UK Tel: +44 (0) 1202-872-771 … Contact: Neil Stratford or Philip Savill
   > 来源：https://www.networktechinc.com/intl_form.html?varname=ITMCBH217RU（抓取 2026-10-20）
-- **KP**：Neil Stratford / Philip Savill（） +44 (0)1202 872771〔https://www.networktechinc.com/intl_form.html?varname=ITMCBH217RU〕
+- **KP**：Neil Stratford / Philip Savill（研究档销售联系人（CH 无此二人）= 收件人；Director / PSC Michael John Cook（85 岁，2024-10 起唯一股东）（第 99 批 官方登记核实 2026-10-28）） +44 (0)1202 872771〔https://www.networktechinc.com/intl_form.html?varname=ITMCBH217RU〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-087，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ITM Components Ltd |
-| 总部/地址 | Wimborne, Dorset（10 Whittle Road, Ferndown Industrial Estate, BH21 7RU）, 英国 |
-| 其他 | Planet 渠道档案 PB-087（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：否；最大未知：Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）；交换机年量；是否要求 UKCA / 英式电源线 |
+| 法定名称 | ITM Components Limited（Companies House 03129914；小型豁免账目） |
+| 成立 | 1995-11-23（1991 起营业）（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 10 Whittle Road, Ferndown Industrial Estate, Wimborne, Dorset BH21 7RU |
+| 人数 | 7 人；营业额 <£6.5M；现金 £672K（−46%） |
+| 其他 | Planet 渠道档案 PB-087（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：否；最大未知：Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）；交换机年量；是否要求 UKCA / 英式电源线；第 99 批：L-Com / NTI / Extron / Aten 小众分销；合伙人 Ian Flemming 2024-10 退出 → 复利低 → 分销 20% small，一页纸（STC-028GP / STC-228GP）；下轮不追（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：连接件 / Pro-AV / KVM 专业分销商（1991 年起；L-Com、NTI、Extron、Kramer、Aten、Gefen、EKS 等品牌分销；Shopify 商城；PLANET 交换机 / Long Reach PoE 为其网络类目主体）
 
@@ -210,7 +228,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Neil Stratford / Philip Savill | — | +44 (0)1202 872771 | 调研核实（公开页） | https://www.networktechinc.com/intl_form.html?varname=ITMCBH217RU |
+| Neil Stratford / Philip Savill | 研究档销售联系人（CH 无此二人）= 收件人；Director / PSC Michael John Cook（85 岁，2024-10 起唯一股东）（第 99 批 官方登记核实 2026-10-28） | +44 (0)1202 872771 | 调研核实（公开页） | https://www.networktechinc.com/intl_form.html?varname=ITMCBH217RU |
 
 - **通道建议**：企业邮箱可直发
 
@@ -303,12 +321,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

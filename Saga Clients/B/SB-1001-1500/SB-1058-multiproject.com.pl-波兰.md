@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,6 +77,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 99 批（PL · 1 次检索：multiproject.com.pl 页脚（Multiproject Hurtownia Teletechniczna；NIP 5842509422（584 = Gdańsk 税务局号段）；biuro@multiproject.com.pl；具名 Damian Lis 535 840 740 damian.lis@ / Sławomir Janusch 535 840 640 slawek.janusch@）；同名 Multiprojekt（Białystok / Kraków / Wrocław / Szczecin / Radom 多家 sp. z o.o.）均为他户，不采；CEIDG 未查（1 次即停），2026-10-28 查；https://www.multiproject.com.pl/）：**
+
+- 法定名 / 登记号：PHU Multiproject（Multiproject Hurtownia Teletechniczna；multiproject.com.pl；Gdańsk）— 弱电 / 安防 / 电子全品类 B2B 批发电商（PLANET 工业 PoE 在售；NIP 5842509422） · NIP 5842509422（法律形式未核；「PHU」= 个体商号 Przedsiębiorstwo Handlowo-Usługowe 推定） · 状态 **部分坐实（NIP 已核；站点在线）** · 成立 未取 · 推定 JDG / PHU（个体经营）
+- 行业码 / 经营范围：弱电批发：CCTV / SSWiN / PPOŻ、双绞线 / 网络配件（PLANET IGS-624HPT / GSD-1002M / GSW-4800 在售）、汽车 / 家用电子全品类 B2B 电商
+- 注册地址：Gdańsk（门牌未取）
+- 规模档：微型 / 小型（两位具名销售）
+- 账目：—；—
+- 高管：Damian Lis — 销售（研究档 KP）
+- 高管：Sławomir Janusch — 销售（研究档 KP）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **PLANET 工业 PoE 在售但两款缺货** = 现成替代切口 → **分销 20% small**：STI-288DGGPM $137 对标 PLANET IGS-624HPT（1 350 zł 净 ≈ $335）、STC-110XGE / STC-228GP 对标 GSD / GSW 系列
+  - 收件人 Damian Lis（具名销售）；发信窗口 Thu 12–14 CET；一页纸即止（全品类批发，弱电只是一类）
+- 备注：分销 20% small；PLANET 替代切口；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,17 +124,19 @@ updated: 2026-10-27
 - **【官网（搜索快照）】同类目在售竞品（Pulsar PoE 交换机）→ 安防批发定位**
   > Switch PoE Pulsar SG108-B 10xGE 8xPoE zasil. bufor … ilość portów: 10 portów (8xPoE + 2xUPLINK) … IEEE 802.3af/at, 52VDC / 30W/port (PoE+)
   > 来源：https://www.multiproject.com.pl/switch-poe-pulsar-sg108-b-10xge-8xpoe-zasil-bufor-p-19286.html（抓取 2026-10-20）
-- **KP**：Damian Lis（）damian.lis@multiproject.com.pl +48 535 840 740〔https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html〕
-- **KP**：Sławomir Janusch（）slawek.janusch@multiproject.com.pl 〔https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html〕
+- **KP**：Damian Lis（具名销售（商品页侧栏）= 主收件人（第 99 批 官方登记核实 2026-10-28））damian.lis@multiproject.com.pl +48 535 840 740〔https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html〕
+- **KP**：Sławomir Janusch（具名销售 = 抄送（第 99 批 官方登记核实 2026-10-28））slawek.janusch@multiproject.com.pl 〔https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-097，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | PHU Multiproject |
-| 总部/地址 | Gdańsk, 波兰 |
-| 其他 | Planet 渠道档案 PB-097（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否；最大未知：PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档 |
+| 法定名称 | PHU Multiproject（Multiproject Hurtownia Teletechniczna；NIP 5842509422；法律形式未核，推定个体 PHU；同名 Multiprojekt sp. z o.o. 多家为他户） |
+| 成立 | 未取（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Gdańsk（门牌未取） |
+| 人数 | 微型 / 小型（两位具名销售） |
+| 其他 | Planet 渠道档案 PB-097（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否；最大未知：PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档；第 99 批：部分坐实（NIP 已核）；PLANET IGS-624HPT / GSW-4800 在售但缺货 = 替代切口 → 分销 20% small：STI-288DGGPM $137 对标 IGS-624HPT（1 350 zł 净）；一页纸（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）
 
@@ -188,8 +205,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Damian Lis | — | damian.lis@multiproject.com.pl / +48 535 840 740 | 调研核实（公开页） | https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html |
-| Sławomir Janusch | — | slawek.janusch@multiproject.com.pl | 调研核实（公开页） | https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html |
+| Damian Lis | 具名销售（商品页侧栏）= 主收件人（第 99 批 官方登记核实 2026-10-28） | damian.lis@multiproject.com.pl / +48 535 840 740 | 调研核实（公开页） | https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html |
+| Sławomir Janusch | 具名销售 = 抄送（第 99 批 官方登记核实 2026-10-28） | slawek.janusch@multiproject.com.pl | 调研核实（公开页） | https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html |
 
 - **通道建议**：企业邮箱可直发
 
@@ -282,12 +299,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

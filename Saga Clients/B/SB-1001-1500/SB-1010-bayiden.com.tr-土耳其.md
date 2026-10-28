@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 99 批（TR · 1 次检索：bayiden.com.tr 首页 / Hakkımızda（Gevhernesibe Mah. Anıt Cad. No 5, Kocasinan / Kayseri 38280；0850 441 1 352；info@bayiden.com.tr；「Arkamızda 12 Volt Elektronik’in teknik laboratuvar gücü」）+ bayiden.tr 预告页（「Bayiden Bilgi Teknolojileri ve E-Ticaret’in bir iştiraki」；Merkez Kayseri）；ETBİS 命中的 BAYDEN TEKNOLOJİ SAN. VE TİC. LTD. ŞTİ.（İstanbul Başakşehir）为同名他户，不采，2026-10-28 查；https://www.bayiden.com.tr/ic/hakkimizda）：**
+
+- 法定名 / 登记号：Bayiden Bilgi Teknolojileri ve E-Ticaret（bayiden.com.tr「Teknolojinin Bayisi」；Kayseri）— 微型电子 / 安防 B2B 电商平台（背后 12 Volt Elektronik 技术实验室） · MERSİS / 法律后缀未取（公开名 Bayiden Bilgi Teknolojileri ve E-Ticaret；1 次即停） · 状态 **Active（站点在线，2026）** · 成立 未取（站点新；12 Volt Elektronik 为母体） · 推定 Ltd. Şti.（Kayseri）
+- 行业码 / 经营范围：电子元件 / 安防摄像机 / 网络配件 B2B-B2C 电商（Kayseri）
+- 注册地址：Gevhernesibe Mah. Anıt Caddesi No 5, Kocasinan / Kayseri 38280
+- 规模档：微型（电商平台；人数未取）
+- 账目：—；—
+- 高管：未取（研究档无 KP）
+- 控制人 / 股东：12 Volt Elektronik（推定母体）
+- **这意味着什么：**
+  - **微型 Kayseri 电商平台**（内陆二线城市，非 İstanbul 渠道）→ 单量小、无复利 → **一页纸即止**：HRUI STC-028GP $28 / STC-228GP $33 对标其在售 PoE 交换机价位；收件 info@
+  - 发信窗口 Thu 10–12 TRT；不加厚、下轮不追
+- 备注：微型电商；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,8 +133,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 bayiden.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Bayiden Bilgi Teknolojileri ve E-Ticaret（bayiden.com.tr；法律后缀 / MERSİS 未取；母体 12 Volt Elektronik；ETBİS 命中的 BAYDEN TEKNOLOJİ LTD. ŞTİ. İstanbul 为同名他户） |
+| 成立 | 未取（站点新）（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Gevhernesibe Mah. Anıt Cad. No 5, Kocasinan / Kayseri 38280 |
+| 人数 | 微型（未取） |
+| 其他 | 官网 bayiden.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 99 批：Kayseri 微型电子 / 安防电商 → 一页纸即止（STC-028GP $28 / STC-228GP $33）；收件 info@；不加厚（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电子综合网店（音响 / 安防 / 电脑 / LED / 元件）
 

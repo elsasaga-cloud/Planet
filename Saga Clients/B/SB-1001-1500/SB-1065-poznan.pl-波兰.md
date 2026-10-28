@@ -82,6 +82,23 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 99 批（PL · 1 次检索：shopdelta.eu About Us（Trading Company DELTA-OPTI MATYSIAK SPÓŁKA KOMANDYTOWA, ul. Graniczna 10, 60-713 Poznań；NIP PL 7792602869；REGON 544106600；Design & Manufacturing Company Przedsiębiorstwo Wielobranżowe DELTA Arkadiusz Matysiak NIP 779-000-84-58）+ rejestr.io（KRS 0001225221；sp. z o.o.；2026-03-02 登记；资本 100 tys. zł；Prezes Arkadiusz Jerzy Matysiak、Wiceprezes Monika Małgorzata Matysiak、Członek Arkadiusz Tomasz Topolski）+ krs-pobierz（2026-03-02 注册，2026-03-25 最近变更）+ X @delta_opti（批发 + 零售：监控、报警、Smart Home、电气 / 网络配件、电源）+ shopdelta.eu 数据表页脚（delta-opti@delta.poznan.pl），2026-10-28 查；https://rejestr.io/krs/1225221/delta-opti-monika-matysiak）：**
+
+- 法定名 / 登记号：DELTA-OPTI Monika Matysiak sp. z o.o.（原 DELTA-OPTI MATYSIAK sp. k.；delta.poznan.pl / shopdelta.eu；Poznań）— CCTV / 天线 / WLAN 批发 + 零售 + 自产机械配件（桅杆 / 支架）；多语种出口网店 · KRS 0001225221 · NIP 7792602869 · REGON 544106600 · 状态 **Active（2026-03 由 sp. k. 转为 sp. z o.o.）** · 成立 sp. k. 期未取 → 2026-03-02 sp. z o.o. 登记 · Spółka z o.o.（Matysiak 家族；资本 100k zł）+ 关联个体制造企业 P.W. DELTA Arkadiusz Matysiak
+- 行业码 / 经营范围：CCTV（模拟 / AHD / CVI / TVI / IP）、录像机、光纤、放大器、天线 / SAT、WLAN、网络配件批发与零售；自产机械配件（桅杆、烟囱 / 墙面抱箍、支架、夹具）
+- 注册地址：ul. Graniczna 10, 60-713 Poznań
+- 规模档：小型（人数未取；多语种出口网店 + 自产车间）
+- 账目：—（新主体首年）；—
+- 高管：Arkadiusz Jerzy Matysiak — Prezes Zarządu（兼 P.W. DELTA 业主）
+- 高管：Monika Małgorzata Matysiak — Wiceprezes Zarządu
+- 高管：Arkadiusz Tomasz Topolski — Członek Zarządu
+- 控制人 / 股东：Matysiak 家族
+- 曾用名：DELTA-OPTI MATYSIAK SPÓŁKA KOMANDYTOWA
+- **这意味着什么：**
+  - **家族批发商 + 自产配件 + 多语种出口网店（shopdelta.eu）** → 分销 20%（B BIG 候选）：PoE 交换机是其 CCTV 套餐刚需 → HRUI STC-028GP $28 / STC-228GP $33 / STC-2216GP + 工业 STI-054GP（户外天线 / 桅杆场景）
+  - 2026-03 刚改制为 sp. z o.o. = 扩张 / 传承节点，适合「新供应商」议题；收件人 Prezes Arkadiusz Matysiak（delta-opti@delta.poznan.pl）；发信窗口 Thu 12–14 CET；**加厚一次**（规格 + 三档价）
+- 备注：分销 20%；B BIG 候选；加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,14 +128,18 @@ updated: 2026-10-28
 - **【用户表】SFP VC MC 周边 PoE 工业品**
   > SFP VC MC 很多周边产品 / MC PoE 工业品 VC；Oferty 销售平台 / 质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Arkadiusz Jerzy Matysiak（Prezes Zarządu（兼 P.W. DELTA 业主）= **拍板人 = 收件人**（delta-opti@delta.poznan.pl）；Wiceprezes Monika Małgorzata Matysiak；Członek Zarządu Arkadiusz Tomasz Topolski（第 99 批 官方登记核实 2026-10-28））delta-opti@delta.poznan.pl 〔https://rejestr.io/krs/1225221/delta-opti-monika-matysiak〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 poznan.pl，语言 pl，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | DELTA-OPTI Monika Matysiak sp. z o.o.（KRS 0001225221；NIP 7792602869；REGON 544106600；原 DELTA-OPTI MATYSIAK sp. k.；关联 P.W. DELTA Arkadiusz Matysiak NIP 779-000-84-58） |
+| 成立 | sp. k. 期未取；2026-03-02 改制 sp. z o.o.（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Graniczna 10, 60-713 Poznań |
+| 人数 | 小型（未取）；资本 100k zł |
+| 其他 | 官网 poznan.pl，语言 pl，快照状态 ok；角色判定来源：待核；第 99 批：家族 CCTV / 天线 / WLAN 批发 + 自产桅杆支架 + 多语种出口网店 shopdelta.eu → **分销 20%，B BIG 候选，加厚一次**（STC-028GP / STC-228GP / STC-2216GP + STI-054GP 户外）；2026-03 改制 = 扩张节点（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 网络产品分销与网店（波兰）
 - **触达通道（公开）**：role: 安防/网络产品分销商兼网店（波兰）；region: 波兰；contact: info@delta.poznan.pl、oferty@delta.poznan.pl
@@ -181,6 +202,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Arkadiusz Jerzy Matysiak | Prezes Zarządu（兼 P.W. DELTA 业主）= **拍板人 = 收件人**（delta-opti@delta.poznan.pl）；Wiceprezes Monika Małgorzata Matysiak；Członek Zarządu Arkadiusz Tomasz Topolski（第 99 批 官方登记核实 2026-10-28） | delta-opti@delta.poznan.pl | 调研核实（公开页） | https://rejestr.io/krs/1225221/delta-opti-monika-matysiak |
 | Oferty | — | info@delta.poznan.pl / oferty@delta.poznan.pl | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

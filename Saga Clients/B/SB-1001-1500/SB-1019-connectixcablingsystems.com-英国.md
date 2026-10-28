@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,6 +75,27 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 99 批（GB · 1 次检索：Companies House（CONNECTIX LIMITED 02814569；成立 1993-05-04；500 Avenue West, Skyline 120, Great Notley, Braintree CM77 7AA；Active；董事 Kevin Arthur Hancock 1993 起、Timothy Roland Brown / Mark Hancock / Steven John Hancock 1998-12-01 起；秘书 Sarah Jane Hancock）+ Endole（Medium；137 人；营业额 £46.32M；Kevin Hancock = MD / PSC，1968-01 生）+ LinkedIn（51–200；1993；Structured Cabling / Data Centres / Cabinets / Networking Equipment）+ The Manufacturer 2026-03-16（MD Kevin Hancock：将关闭 4 家英国工厂，生产迁往印度或中国；1999 Daily Mail 奖）+ ContactOut（Tim Dickens = Director of Brands），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/02814569）：**
+
+- 法定名 / 登记号：Connectix Limited（Connectix Cabling Systems；connectix.co.uk；Braintree, Essex）— 英国结构化布线 / 机柜 / 光纤连接制造商（1993；137 人；营业额 £46.3M；Hancock 家族；2026-03 宣布关闭 4 家英国工厂、生产外移印度 / 中国） · 02814569 · 状态 **Active（2026-03 重组：生产外移）** · 成立 1993-05-04 · Private limited company（Hancock 家族控股）
+- 行业码 / 经营范围：结构化布线（Cat 5e–7、OM/OS 光纤）、机柜 / 机箱、光纤连接件、FTTx / 数据中心 / 广播 / 恶劣环境 / 智能家居 — 自有品牌 Connectix，英国研发 + 生产（外移中）
+- 注册地址：500 Avenue West, Skyline 120, Great Notley, Braintree, Essex CM77 7AA
+- 规模档：中型（137 人；£46M）
+- 账目：营业额 £46.32M；137 人（Endole 最新）；—
+- 高管：Kevin Arthur Hancock — Managing Director / PSC（创办人，1993 起）
+- 高管：Timothy Roland Brown — Marketing & Development Director（1998 起）
+- 高管：Mark Hancock — Director（1998 起）
+- 高管：Steven John Hancock — Director（1998 起）
+- 高管：Sarah Jane Hancock — Company Secretary
+- 高管：Tim Dickens — Director of Brands
+- 高管：Matthew Craig — 研究档 KP matt.craig@（职务未核）
+- 控制人 / 股东：Kevin Arthur Hancock
+- **这意味着什么：**
+  - **第 99 批 GB 最大户、OEM 30% 首选**：自有品牌 Connectix 涵盖「Networking Equipment」，£46M 规模，2026-03 公开宣布把生产外移到印度 / 中国 = **正在找亚洲供应商的窗口期** → Connectix 标 PoE / 管理型交换机补齐其布线 + 机柜套餐；**B BIG，升 A 候选（回信即 A）**
+  - 对口：STC-228GP / STC-2224GP / STI-0240GE / STC-424XGGPM-280W（数据中心 / 园区）+ STI 系列（恶劣环境线）；卖点 = Marvell 管理型 + 3 年保修 + 小批量贴标 + 已服务欧洲品牌（不点名）
+  - 收件人：Tim Dickens（Director of Brands）主送，Timothy Brown（Marketing & Development Director）抄，研究档 Matthew Craig 保留；**不提**其关厂新闻；发信窗口 Thu 12–14 GMT；**加厚**（一页规格 + 贴标流程 + 三档价）
+- 备注：OEM 30% 首选；B BIG；升 A 候选；加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -102,15 +123,20 @@ updated: 2026-10-27
 - **【用户表】Networking / Startech**
   > Networking / Startech；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Matthew Craig（）matt.craig@connectix.co.uk 〔用户表〕
+- **KP**：Matthew Craig（研究档联系人（职务未核；CH 无此人）= 保留抄送（第 99 批 官方登记核实 2026-10-28））matt.craig@connectix.co.uk 〔用户表〕
+- **KP**：Tim Dickens（Director of Brands（ContactOut）= **主收件人**（自有品牌 Connectix 的产品线负责人）（第 99 批 官方登记核实 2026-10-28）） 〔https://contactout.com/company/connectix-cabling-systems-1071899〕
+- **KP**：Timothy Roland Brown（Marketing & Development Director（董事，1998-12-01 起）= 抄送；MD / PSC Kevin Arthur Hancock（创办人）（第 99 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/02814569/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 connectixcablingsystems.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Connectix Limited（Companies House 02814569；品牌 Connectix Cabling Systems；Hancock 家族控股） |
+| 成立 | 1993-05-04（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 500 Avenue West, Skyline 120, Great Notley, Braintree, Essex CM77 7AA |
+| 人数 | 137 人；营业额 £46.32M |
+| 其他 | 官网 connectixcablingsystems.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 99 批：**第 99 批 GB 最大户、OEM 30% 首选**：自有品牌含 Networking Equipment；2026-03-16 MD 公开宣布关闭 4 家英国工厂、生产外移印度 / 中国 = 正在找亚洲供应商 → Connectix 标 PoE / 管理型交换机（STC-228GP / STC-2224GP / STI-0240GE / STC-424XGGPM-280W + STI 恶劣环境线）；**B BIG，升 A 候选，加厚**；信中不提关厂新闻（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：结构化布线系统（自有品牌 Connectix）
 - **触达通道（公开）**：role: 结构化布线品牌商（英国，有源为副线）；region: 英国；contact: sales@connectix.co.uk、matt.craig@connectix.co.uk
@@ -182,7 +208,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Matthew Craig | — | matt.craig@connectix.co.uk | 调研核实（公开页） | 用户表 |
+| Matthew Craig | 研究档联系人（职务未核；CH 无此人）= 保留抄送（第 99 批 官方登记核实 2026-10-28） | matt.craig@connectix.co.uk | 调研核实（公开页） | 用户表 |
+| Tim Dickens | Director of Brands（ContactOut）= **主收件人**（自有品牌 Connectix 的产品线负责人）（第 99 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://contactout.com/company/connectix-cabling-systems-1071899 |
+| Timothy Roland Brown | Marketing & Development Director（董事，1998-12-01 起）= 抄送；MD / PSC Kevin Arthur Hancock（创办人）（第 99 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/02814569/officers |
 
 - **通道建议**：企业邮箱可直发
 
@@ -277,12 +305,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

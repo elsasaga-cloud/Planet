@@ -82,6 +82,24 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 99 批（DE · 1 次检索：Impressum（ICO Innovative Computer GmbH；GF Oliver Schröder, Alexander Solzer；Amtsgericht Montabaur HRB 20217；USt-ID DE 246038247）+ Northdata（HRB 20217；资本 €500,000；曾用名 DRJ GmbH）+ implisense（登记 2005-01-15；2023 资产负债表 €5.03M）+ cylex（2006-03-03 登记；Zuckmayerstr. 15, 65582 Diez）+ wer-zu-wem（120 人；营收档 €10–50M；1982 Klaus Jeschke 创立）+ LinkedIn / 官网（1991 由 Klaus Jeschke Hard- und Software 转为 GmbH；「Distributor und Importeur von Computer- und Kommunikations-Komponenten」；DIN EN ISO 9001:2015；自有装配）+ Wiley 2025（120+ 员工、8 学徒；20,000 客户；2022/23 营收 ≈€20M），2026-10-28 查；https://www.ico.de/impressum）：**
+
+- 法定名 / 登记号：ICO Innovative Computer GmbH（ico.de；Diez, Rheinland-Pfalz）— 1982 年起家的 IT 分销商 / 进口商 + 自产工业 PC / 服务器 / POS（120 人；≈€20M；ISO 9001；20,000 客户，60% 经销商 / 40% 工业客户） · HRB 20217（Amtsgericht Montabaur） · 状态 **Active** · 成立 1982（个体）→ 1991 GmbH → 2005/2006 现登记（原 DRJ GmbH 壳） · GmbH（资本 €500,000；私有）
+- 行业码 / 经营范围：IT 分销与进口（服务器、存储、工业 PC、面板 PC、嵌入式、条码 / MDE、POS 组件、医疗 PC）；自有装配 / 系统集成（Systemhaus）
+- 注册地址：Zuckmayerstraße 15, 65582 Diez
+- 规模档：中型（120 人）
+- 账目：2023 资产负债表 €5.03M；营收 ≈€20M（2022/23）；—
+- 高管：Oliver Schröder — Geschäftsführer
+- 高管：Alexander Solzer — Geschäftsführer
+- 高管：Klaus Jeschke — 创办人（1982）
+- 控制人 / 股东：未取（私有）
+- 曾用名：DRJ GmbH（壳名）；Klaus Jeschke Hard- und Software（1982–1991）
+- **这意味着什么：**
+  - **第 99 批 DE 最大户**：自称「Distributor und Importeur」+ 20,000 客户（60% 经销商）+ 自有工业 PC 装配 → **分销 20% 首选（B BIG，升 A 候选）**；进口经验 = 《背景信息》目标顺位第二
+  - 对口：工业 PC / 嵌入式客群 → STI-054GP / STI-288DGGPM 工业 PoE；POS / Systemhaus 客群 → STC-228GP / STC-2224GP / STI-0240GE；卖点 = 直接进口价 + 3 年保修 + MOQ 1 试单
+  - 收件人：vertrieb@ico.de 点名「Produktmanagement Netzwerk / Einkauf」，抄 GF Oliver Schröder；发信窗口 Thu 12–14 CET；**加厚**（一页规格 + 三档价）
+- 备注：分销 20% 首选；B BIG；升 A 候选；加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,17 +126,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS antaria 的 很多牌子的**
   > 兴趣：工业FS antaria的 很多牌子的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（销售）（）vertrieb@ico.de 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（销售）（公域（点名「Produktmanagement Netzwerk / Einkauf」，抄 GF Oliver Schröder；另一 GF Alexander Solzer）（第 99 批 官方登记核实 2026-10-28））vertrieb@ico.de 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ICO Innovative Computer GmbH |
-| 成立 | 1982（待核） |
-| 总部/地址 | Diez, Germany |
-| 其他 | Antaira（美 / 台）工业交换机在售 |
+| 法定名称 | ICO Innovative Computer GmbH（Amtsgericht Montabaur HRB 20217；资本 €500,000；USt-ID DE 246038247；曾用壳名 DRJ GmbH） |
+| 成立 | 1982（Klaus Jeschke 个体）→ 1991 GmbH → 2005/2006 现登记（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Zuckmayerstraße 15, 65582 Diez |
+| 人数 | 120 人；≈€20M（2022/23）；2023 资产 €5.03M |
+| 其他 | Antaira（美 / 台）工业交换机在售；第 99 批：**第 99 批 DE 最大户**：自称「Distributor und Importeur」+ 20,000 客户（60% 经销商 / 40% 工业）+ 自有工业 PC / 服务器装配 + ISO 9001 → **分销 20% 首选，B BIG，升 A 候选，加厚**（工业线 STI-054GP / STI-288DGGPM；Systemhaus 线 STC-228GP / STC-2224GP / STI-0240GE）（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：服务器 / 工控机 / 工业网络分销
 - **触达通道（公开）**：role: 系统商 / 分销；region: 德国

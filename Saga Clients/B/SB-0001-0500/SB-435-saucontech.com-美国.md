@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,6 +84,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 99 批（US · 1 次检索：Buzzfile（Saucon Technologies, Inc.；Year Founded 1997；State of Inc Pennsylvania；Manufacturing / Importing / Exporting；≈$9.9M；42 人；CEO Bill French）+ Govcb / SAM（SAUCON TECHNOLOGIES INC；1997；Small Business / Small Disadvantaged Business）+ Cummins 2023-10（Bill French = CEO and Founder）+ ZoomInfo（$15.4M 口径；CFO William Bouffard；Owner Satish Balu 列名）+ PRNewswire 2019-01（500+ 客户、10,000+ 辆巴士，北美 + 英国），2026-10-28 查；https://www.buzzfile.com/business/Saucon-Technologies,-Inc.-484-241-2500）：**
+
+- 法定名 / 登记号：Saucon Technologies, Inc.（saucontech.com / saucontds.com；Bethlehem, PA）— 客运巴士车载远程信息处理（telematics）方案商（1997；SAM 在册） · 宾州公司（PA DOS 号未取；SAM 在册） · 状态 **Active（2026-07 新产品发布）** · 成立 1997 · Inc.（宾夕法尼亚；私有；创办人 CEO）
+- 行业码 / 经营范围：客运 / 长途巴士车载 telematics：GPS 车队、车载视频监控、电子驾驶日志、乘客 Wi-Fi、Cummins 远程诊断（硬件 + SaaS）
+- 注册地址：Bethlehem, PA 18020（7,100 sq ft 设施）
+- 规模档：小型（28–42 人；$10–15M）
+- 账目：—；—
+- 高管：Bill (William) French — CEO & Founder / President = 研究档 KP bfrench@ 本人
+- 高管：William (Bill) Bouffard — CFO / Managing Director
+- 高管：Satish Balu — Owner（ZoomInfo 列名，待核）
+- 控制人 / 股东：Bill French（推定）
+- **这意味着什么：**
+  - **研究档 KP 坐实 = 创办人 CEO 本人**（展会联系人）→ 直达拍板人
+  - 但产品是**车载**（巴士上的视频 / Wi-Fi 网关）→ 需要 E-mark / 车规宽压 → Saga 无 E-mark、不做车载 → **守界边缘，一页纸即止**：只提「车场 / 调度中心侧」的商业 PoE（STC-228GP / STC-2224GP 给车库摄像与 Wi-Fi 回传），不提车上
+  - 发信窗口 Wed 08–10 ET；不加厚
+- 备注：KP = 创办人 CEO；车载守界 → 一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,17 +145,18 @@ updated: 2026-10-27
 - **【用户表】问了技术问题；9 次跟进 0 回复**
   > 问了一些技术问题
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Bill French（（用户表联系人；职务待核））bfrench@saucontech.com（用户表） +1 484-241-2515（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Bill French（CEO & Founder / President（1997 创办；Cummins 2023 新闻稿、Buzzfile、D&B 一致）= **拍板人本人 = 收件人**（第 99 批 官方登记核实 2026-10-28））bfrench@saucontech.com（用户表） +1 484-241-2515（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Saucon Technologies, Inc. |
-| 成立 | 1997 |
-| 总部/地址 | 2455 Baglyos Circle, Bethlehem, PA 18020, USA（+1 888-872-8206；TDSinfo@saucontech.com） |
-| 其他 | 500+ 客户、10,000+ 巴士；车载视频、乘客 WiFi、IoT；北美 + 英国 |
+| 法定名称 | Saucon Technologies, Inc.（宾夕法尼亚；SAM 在册 Small Business / SDB） |
+| 成立 | 1997（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Bethlehem, PA 18020 |
+| 人数 | 28–42 人；$10–15M |
+| 其他 | 500+ 客户、10,000+ 巴士；车载视频、乘客 WiFi、IoT；北美 + 英国；第 99 批：客运巴士车载 telematics（车载视频 / 乘客 Wi-Fi）→ 车规 / E-mark 守界 → 只谈车场 / 调度中心侧商业 PoE（STC-228GP / STC-2224GP）；一页纸；CFO William Bouffard（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：巴士/长途车远程信息处理（GPS、ELD、诊断）；车载视频监控与乘客 WiFi 硬件套件；Vision AI 与移动应用
 - **触达通道（公开）**：网站: https://www.saucontds.com/；电话: +1 888-872-8206（公开）；邮箱（公开）: TDSinfo@saucontech.com；LinkedIn: https://www.linkedin.com/company/saucon-technologies
@@ -231,7 +249,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Bill French | （用户表联系人；职务待核） | bfrench@saucontech.com（用户表） / +1 484-241-2515（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Bill French | CEO & Founder / President（1997 创办；Cummins 2023 新闻稿、Buzzfile、D&B 一致）= **拍板人本人 = 收件人**（第 99 批 官方登记核实 2026-10-28） | bfrench@saucontech.com（用户表） / +1 484-241-2515（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | William French | — | bfrench@saucontech.com / billf1@saucontech.com | 用户表原值 | Clients/ 表 |
 | Bill | — | bfrench@saucontech.com / billf1@saucontech.com | 用户表原值 | Clients/ 表 |
 
@@ -327,12 +345,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 42）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 42）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

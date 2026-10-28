@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,6 +83,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 99 批（US · 1 次检索未命中（返回 Plymouth MA 的 bizsysconsulting.com、SE 美国 BSC Solutions、Business Systems Consulting LLC 会计所三家同名他户）→ 按规程停；以下仅研究档自述：1997 年起；2–10 人；Ubiquiti / MikroTik / Cambium / PLANET 分销；在售 PLANET GS-4210-24P4C（$522）、IGS 系列；自有品牌 Lysora；联系人 Joseph Barros，2026-10-28 查；）：**
+
+- 法定名 / 登记号：Business Systems Consulting（bizsyscon.com；圣路易斯郊区）— 微型 WISP / 网络分销商，自有品牌 Lysora（官方登记 1 次未命中 → 未坐实） · 未坐实（MO SoS 未查；域名 bizsyscon.com 搜索引擎无直接命中） · 状态 **未核** · 成立 1997（自述） · 未核（推定 LLC / Inc.，密苏里）
+- 行业码 / 经营范围：WISP / 网络设备分销（Ubiquiti / MikroTik / Cambium / PLANET）；自有品牌 Lysora
+- 注册地址：圣路易斯郊区（研究档；门牌未核）
+- 规模档：微型（2–10 人）
+- 账目：—；—
+- 高管：Joseph Barros — 研究档 KP（职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实**：同名企业太多、域名无直接命中 → 不再花检索；研究档「自有品牌 Lysora + 在售 PLANET 工业 PoE」仍成立 → **贴标试探 small（OEM 30%）**：Lysora 标 STI-288DGGPM 对标 PLANET IGS 系列（-40%）
+  - 微型 2–10 人 → 单量小；一页纸写 Joseph Barros；下轮不追
+- 备注：未坐实；贴标试探 small；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,9 +130,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Business Systems Connection Inc. |
-| 总部/地址 | Fenton, MO, 美国 |
-| 其他 | Planet 渠道档案 PB-022（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Lysora）；最大未知：Mikrotik 侧是否已首触及结果；Lysora 现有 ODM |
+| 法定名称 | Business Systems Consulting（bizsyscon.com；密苏里；法律形式未核 —— 同名企业多，1 次检索未命中） |
+| 成立 | 1997（自述）（第 99 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 圣路易斯郊区（门牌未核） |
+| 人数 | 2–10 人 |
+| 其他 | Planet 渠道档案 PB-022（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Lysora）；最大未知：Mikrotik 侧是否已首触及结果；Lysora 现有 ODM；第 99 批：**未坐实**；研究档「自有品牌 Lysora + 在售 PLANET GS-4210-24P4C / IGS」仍成立 → 贴标试探 small：Lysora 标 STI-288DGGPM 对标 PLANET IGS；一页纸；下轮不追（第 99 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora
 
@@ -292,12 +308,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
