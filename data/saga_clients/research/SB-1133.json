@@ -52,7 +52,8 @@
    "title": "Geschäftsführer；Impressum 具名；无公开个人邮箱 → 不写",
    "email": "",
    "phone": "+49 202 75805-0",
-   "source": "https://www.netram.de/Impressum"
+   "source": "https://www.netram.de/Impressum",
+   "role": "Geschäftsführer（*1968，自 2005；HRB 19078 Wuppertal）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": "B",
@@ -63,11 +64,12 @@
   "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-095，W 批次调研 2026-10-19/20）"
  },
  "company_facts": {
-  "legal_name": "Netram Memory GmbH",
-  "founded": "",
-  "hq": "Wuppertal（Dohlenweg 6, 42115 Wuppertal, NRW）, 德国",
+  "legal_name": "Netram Memory GmbH（HRB 19078 Amtsgericht Wuppertal；EUID DER1608.HRB19078；资本 €25,000）",
+  "founded": "2005-03-08（登记 2005-04-14）（第 100 批 官方登记核实 2026-10-28）",
+  "hq": "Dohlenweg 6, 42115 Wuppertal",
   "size": "",
-  "other": "Planet 渠道档案 PB-095（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（NETRAM 为自编货号 / 兼容光模块品牌）；最大未知：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存"
+  "other": "Planet 渠道档案 PB-095（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（NETRAM 为自编货号 / 兼容光模块品牌）；最大未知：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存；第 100 批：内存 / 光模块 / 网络配件微型电商 → 只切「配光模块一起卖的交换机」STC-110XGE（8×2.5G + 2×10G）+ STC-228GP → 分销 20%，小户，一页纸（第 100 批 官方登记核实 2026-10-28）",
+  "staff": "2–10 人"
  },
  "business_lines": [
   "IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）"

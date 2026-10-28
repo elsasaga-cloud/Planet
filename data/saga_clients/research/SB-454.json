@@ -46,8 +46,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "波兰",
-  "other": "官网 leoptics.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案"
+  "hq": "ul. Rewolucji 1905 r. 18/63, 90-207 Łódź（CEIDG）",
+  "other": "官网 leoptics.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案；第 100 批：光模块 / CWDM 网店（Saga 不做光模块）→ 只切 10G 上联 STC-110XGE + STC-228GP → 分销 20%，微型，一页纸；表内「German brand link」无证据不采（第 100 批 官方登记核实 2026-10-28）",
+  "legal_name": "Leoptics（leoptics.pl；CEIDG 同名命中「Leoptics Maja Matyjewicz」Łódź NIP 7251850432 / REGON 364507458，经营者对应待核 → 部分坐实；Warszawa TELEOPTICS Sp. z o.o. 为他户）",
+  "founded": "2018-10-07（CEIDG）（第 100 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "光纤测试设备 / 光学仪器（自有型号 LEO-）",

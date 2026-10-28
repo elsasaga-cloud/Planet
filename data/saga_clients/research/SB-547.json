@@ -45,7 +45,8 @@
    "title": "GM",
    "email": "marek.niewczas@netinet.pl",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Prezes Zarządu（自 2002-03-07；KRS 0000096977；股东 10%，配偶 Agnieszka Niewczas 65%）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -56,8 +57,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "波兰",
-  "other": "官网 netinet.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案"
+  "hq": "ul. Arkuszowa 18, 01-934 Warszawa",
+  "other": "官网 netinet.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案；第 100 批：Intellinet / Manhattan 品牌波兰运营型分销（测试 / 上市 / 营销 / 保修全包）+ 老板本人收件 → 分销 20% 或 Netinet 自有标 OEM 30%（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W）；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28）",
+  "legal_name": "NETINET Sp. z o.o.（KRS 0000096977；NIP 1181481416；REGON 016121659；资本 50,000 zł；前 IC Intracom Polska 项目）",
+  "founded": "2002-03-07（经营自 1999）（第 100 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT / 网络方案分销（波兰）"

@@ -43,14 +43,16 @@
    "title": "Sales Manager",
    "email": "richard@fastercable.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Sales Manager（FasterCable, Las Vegas）= 收件人（第 100 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Juliette O",
    "title": "V. President",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director, Operations（研究档写 V. President；姓 Ozols）= 抄送（第 100 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -61,8 +63,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "3325 W Ali Baba Ln, Ste 619, Las Vegas, NV 89118",
+  "other": "官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 100 批：线缆配件经销 + 自有标工业交换机型号（EISW8-100T 等）→ 贴标 small（STI-054GP / STI-144GP）；一页纸（第 100 批 官方登记核实 2026-10-28）",
+  "legal_name": "FasterCable（fastercable.com；内华达实体名 / SoS 号未取 → 部分坐实；宾州 Faster Cables LLC 为同名他户）",
+  "staff": "5 人（第 100 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "线缆 / 网络配件",

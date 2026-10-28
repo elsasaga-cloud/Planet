@@ -45,7 +45,8 @@
    "title": "Managing Director",
    "email": "frank.menne@octogate.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Geschäftsführer（vertretungsberechtigt；Impressum + HRB 9944 Paderborn；创办人系，源自 HSM-Menne GmbH）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -56,8 +57,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 octogate.de，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Friedrich-List-Str. 87, 33100 Paderborn",
+  "other": "官网 octogate.de，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 100 批：**自有硬件品牌（OctoGate 防火墙 / Schulfirewall 学校整包）+ 已直采 FS.com 交换机 + GF 本人收件 → 贴标 OEM 30% 目标**：OctoGate 标 STC-228GP / STC-2224GP / STC-4424GCPM + STC-110XGE 上联；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28）",
+  "legal_name": "OctoGate IT Security Systems GmbH（HRB 9944 Amtsgericht Paderborn；USt-ID DE275066387；资本 €25,000）",
+  "founded": "2010-10-07（登记 2010-11-19）（第 100 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "防火墙 / 安全一体机",

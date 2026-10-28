@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 45
+  "count": 49
  },
  "rows": {
   "SA-008": {
@@ -1563,6 +1563,133 @@
    ],
    "notes": "集成商 25%；KP 坐实；一页纸。",
    "code": "SB-281"
+  },
+  "SB-1133": {
+   "batch": 100,
+   "name": "Netram Memory GmbH（netram.de；Wuppertal）— 2005 年起的内存 / 光模块 / 网络配件小型分销商（HRB 19078 Wuppertal；GF Jürgen Hübner；2–10 人）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：Northdata（Netram Memory GmbH；Amtsgericht Wuppertal HRB 19078；EUID DER1608.HRB19078；Dohlenweg 6, 42115 Wuppertal；2005-04-14 登记；Geschäftsführer Jürgen Hübner；资本 €25,000；经营范围 Vertrieb elektronischer Bauelemente）+ registercheck（Aktiv；成立 2005-03-08；GF Jürgen Hübner *1968，自 2005-04-13）+ Kompass（NACE 4651 批发；CEO Jürgen Hübner）+ Implisense（+49 202 758050；info@netram.de）+ LinkedIn（Netram GmbH；2–10 人）",
+   "url": "https://www.northdata.com/Netram%20Memory%20GmbH,%20Wuppertal/HRB%2019078",
+   "number": "HRB 19078（Amtsgericht Wuppertal）· EUID DER1608.HRB19078",
+   "status": "Aktiv",
+   "incorporated": "2005-03-08（登记 2005-04-14）",
+   "company_type": "GmbH（资本 €25,000；私有）",
+   "sic": [
+    "NACE 46.51 — 电脑 / 外设批发（兼容内存模块、光模块 / DAC、网络配件电商）"
+   ],
+   "address": "Dohlenweg 6, 42115 Wuppertal",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Jürgen Hübner — Geschäftsführer（*1968，自 2005）= 研究档 KP 本人"
+   ],
+   "psc": "Jürgen Hübner（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP 坐实 = GF 本人**；光模块 / 内存配件电商，Saga 不做光模块 → 只能切「配光模块一起卖的交换机」：STC-110XGE（$65，8×2.5G + 2×10G SFP+）+ STC-228GP → **分销 20%，小户，一页纸**",
+    "表内 1 次跟进无回复 → 第二次触达换主题「a 10G uplink switch for your transceiver customers」；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "KP = GF 本人；分销 20%；小户；一页纸。",
+   "code": "SB-1133"
+  },
+  "SB-1053": {
+   "batch": 100,
+   "name": "ServiceNet EDV-Vertrieb GmbH（店名 lichtleiterkabel.com；Niederkassel）— 1996 年起的 LWL 光缆定制 / 网络布线 B2B 电商（CEO Andreas Bude；域名持有方 Traffictime Handels- & Marketing GmbH / Holger Sockel）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网首页（「Seit 1996 … Netzwerkverkabelung, Glasfaserkabel, Komponenten (aktive und passive)」）+ wlw（lichtleiterkabel.com by ServiceNet EDV-Vertrieb GmbH；Provinzialstraße 40, 53859 Niederkassel；Distributor / Wholesaler；CEO Andreas Bude；1996）+ connektar 2018-12-13（Lichtleiterkabel.de 域名由 Traffictime Handels- & Marketing GmbH（Grafschaft；GF Holger Sockel）取得；「Betrieben wird der Shop durch die ServiceNet EDV Vertriebs GmbH」）；HRB 号未取（1 次检索）",
+   "url": "https://www.wlw.com/en/company/lichtleiterkabelcom-by-servicenet-edv-vertrieb-gmbh-1805537",
+   "number": "GmbH（Niederkassel；HRB 号未取）",
+   "status": "Active（站点 2026-01 更新）",
+   "incorporated": "1996",
+   "company_type": "GmbH（私有；CEO Andreas Bude）",
+   "sic": [
+    "LWL 光缆定制 / 网络布线（跳线 / 安装线）/ 有源无源组件 B2B 电商"
+   ],
+   "address": "Provinzialstraße 40, 53859 Niederkassel",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（人数未取）",
+   "officers": [
+    "Andreas Bude — CEO / Geschäftsführer（wlw）",
+    "Holger Sockel — 域名方 Traffictime GmbH GF（非本户经营者）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**光缆电商顺带卖有源件** → 交换机只是配角 → **分销 20%，小户，一页纸**：STI-144GP / STI-288DGGPM（光口工业，配其 LWL 定制线）+ STC-228GP",
+    "研究档无 KP；收件人 Andreas Bude（CEO）；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20%；小户；一页纸；研究档补 KP Andreas Bude。",
+   "code": "SB-1053"
+  },
+  "SB-260": {
+   "batch": 100,
+   "name": "HK GmbH（hk-systeme.de；Langenfeld）— 25 年以上的消防报警 / 语音疏散 / 电声报警系统集成商（HRB 105842 Düsseldorf；GF Dipl.-Ing. Johannes Brüls）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（HK GmbH；Albert-Einstein-Str. 5, 40764 Langenfeld；Tel 02173-39959310；Handelsregister Amtsgericht Düsseldorf HRB 105842；USt-ID DE236 356 997；Geschäftsführer Dipl. Ing. Johannes Brüls；dispo@ / buero@hk-systeme.de；「Seit über 25 Jahren … Brandmeldeanlagen, Sprachalarmierung oder Elektroakustische Alarmanlagen」）+ registercheck（HK GmbH, Langenfeld；同址同邮）；Paderborn 的 HKS Systeme GmbH（HRB 571828）与 HK.SYSTEMS AG 为同名他户，不采",
+   "url": "https://hk-systeme.de/de/pages/impressum",
+   "number": "HRB 105842（Amtsgericht Düsseldorf）· USt-ID DE236356997",
+   "status": "Aktiv",
+   "incorporated": "未取（经营 25 年以上）",
+   "company_type": "GmbH（私有）",
+   "sic": [
+    "消防报警（BMA）、语音报警（SAA）、电声报警系统（ENS）设计安装维保 —— 弱电集成商"
+   ],
+   "address": "Albert-Einstein-Str. 5, 40764 Langenfeld",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（人数未取）",
+   "officers": [
+    "Johannes Brüls（Dipl.-Ing.）— Geschäftsführer",
+    "Lukas Gierlirg — 研究档 KP lg@（职务未核）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**消防 / 语音疏散集成商** → IP 广播 / 语音报警网络要 PoE 交换机，但量小、认证重（EN 54 体系外设备仅作传输）→ **集成商 25%，小户，一页纸**：STC-228GP / STC-2224GP（给 IP 音频终端供电）",
+    "研究档站点 http_error → 收件人 Lukas Gierlirg lg@（在 Impressum 域下，可信）；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "集成商 25%；小户；一页纸。",
+   "code": "SB-260"
+  },
+  "SB-488": {
+   "batch": 100,
+   "name": "OctoGate IT Security Systems GmbH（octogate.de / schulfirewall.de / kitawall.de；Paderborn）— 2010 年起的防火墙 / 校园网络安全设备厂商（HRB 9944 Paderborn；GF Frank Menne；11–50 人；源自 2001 年 HSM-Menne 的 OctoGate 防火墙；表内「FS.com 买家，着重跟」）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（OctoGate IT Security Systems GmbH；Friedrich-List-Str. 87（旧 42）, 33100 Paderborn；+49 5251 18040-0；Vertretungsberechtigter Geschäftsführer Frank Menne；Amtsgericht Paderborn HRB 9944；USt-ID DE 275 066 387）+ Northdata（HRB 9944；EUID DER2809.HRB9944；MD Frank Menne, Jürgen Weiß；资本 €25,000；2010-11-23 登记；商标 OctoGate）+ Implisense（成立 2010-10-07；€25,000）+ LinkedIn（11–50 人；2010；IT Security / Firewall / IT Infrastruktur / WLAN / Digitalisierung）+ Regio Manager（源自 HSM-Menne GmbH / HSM IT-Services；2001 首台 OctoGate 防火墙；面向 KMU 与学校）+ 官网 Über uns（2010 从 HSM 拆分成立）",
+   "url": "https://www.northdata.com/OctoGate%20IT%20Security%20Systems%20GmbH,%20Paderborn/HRB%209944",
+   "number": "HRB 9944（Amtsgericht Paderborn）· USt-ID DE275066387",
+   "status": "Aktiv（2026-08 站点更新）",
+   "incorporated": "2010-10-07（登记 2010-11-19）",
+   "company_type": "GmbH（资本 €25,000；私有；GF Frank Menne）",
+   "sic": [
+    "IT 安全设备制造 / 软件开发：OctoGate 防火墙、Schulfirewall（学校）、Kitawall（幼儿园）、WLAN、云管理；通过系统集成商与教育机构交付"
+   ],
+   "address": "Friedrich-List-Str. 87, 33100 Paderborn",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Frank Menne — Geschäftsführer（创办人系；= 研究档 KP 本人）",
+    "Jürgen Weiß — 曾任 MD（Northdata）"
+   ],
+   "psc": "Frank Menne（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有硬件品牌（OctoGate 防火墙 / 学校整包）+ 已从华南（FS.com）直采交换机 + GF 本人在收件 → 贴标 OEM 30% 目标**：OctoGate 标 STC-228GP / STC-2224GP / STC-4424GCPM（学校 PoE 接入，配其防火墙整包）+ STC-110XGE（10G 上联）；B BIG，**加厚**（贴标流程 + 三档价 + 学校场景一页纸）",
+    "表内「着重跟」且 1 次跟进无回复 → 第二次触达换主题「PoE access switches to ship with Schulfirewall — your label」；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）"
+   ],
+   "notes": "贴标 OEM 30% 目标；KP = GF 本人；B BIG；加厚；升 A 候选。",
+   "code": "SB-488"
   }
  }
 }

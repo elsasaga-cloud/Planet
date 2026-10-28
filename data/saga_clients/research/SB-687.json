@@ -28,11 +28,12 @@
  ],
  "kp": [
   {
-   "name": "Veli",
+   "name": "Veli Uysal",
    "title": "（表内邮箱，姓氏职务待核）",
    "email": "veli@telkotim.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Genel Müdür（总经理；Anadolu Ajansı 2022-04-19 采访署名）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -43,8 +44,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 telkotim.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Çamlıca Mah. Anadolu Bulvarı Timko İşyerleri No 20 c-4, Yenimahalle / Ankara（非 İstanbul）",
+  "other": "官网 telkotim.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：光纤 / 网络基础设施分销（TTAF / HCS 光缆，D-Link / Ruijie 交换机）→ 分销 20%：STC-228GP / STC-2224GP + STI-144GP / STI-288DGGPM 配其光缆项目；加厚一次（第 100 批 官方登记核实 2026-10-28）",
+  "legal_name": "Telkotim Bilişim Teknolojileri Tic. Ltd. Şti.（Ankara；MERSİS 号未取）",
+  "founded": "2008（第 100 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "光纤 / 网络产品分销网店"

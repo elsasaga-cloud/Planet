@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 76
+  "count": 82
  },
  "rows": {
   "SA-002": {
@@ -2582,6 +2582,209 @@
    ],
    "notes": "B BIG；OEM 30% 目标；升 A 候选。",
    "code": "SB-541"
+  },
+  "SB-741": {
+   "batch": 100,
+   "name": "Canary Communications, Inc.（canarycom.com；San Jose, CA）— 1987 年起的以太网连接 / 光纤媒体转换器 / 数据二极管自有品牌商（1–10 人；经分销商 / OEM / VAR 销售；表内「从 VOLKTEK 买 MC」「可以尝试多跟进一下」）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：bizprofile.net（CA SoS 登记：Canary Communications, Inc.；General Corporation；Document Number 1418771；Filed 1987-09-25；Active，SoS / FTB / Agent 均 Good Standing；CEO Vinh Quang Tran（San Jose）；CFO & Director James McSeaton（Santa Clara）；Secretary & Director Roland Yamaguchi；类型 ELECTRONIC COMPUTER NETWORKING）+ Bloomberg（0060361D:US；成立 1987-09-25；6040 Hellyer Ave Suite 150, San Jose CA 95138）+ ZoomInfo（1–10 人；<$5M；Jim McSeaton Director, Sales）+ opengovus SAM（UEI WVRYXAA7DEK9；2001 注册，2026-02-12 激活至 2027-02-10；业务起始 1988-08-09）+ Crunchbase（设计制造以太网连接、媒体转换与数据安全二极管；经 distributors / OEMs / VARs / dealers 销售）+ 官网 About / Contact（1987；首个紧凑多 AUI 口收发器；info@canarycom.com）",
+   "url": "https://www.bizprofile.net/ca/san-jose/canary-communications-inc",
+   "number": "CA SoS 1418771（General Corporation）；SAM UEI WVRYXAA7DEK9",
+   "status": "Active（Good Standing；SAM 2026-02 续期）",
+   "incorporated": "1987-09-25",
+   "company_type": "加州公司（私有；CEO Vinh Quang Tran）",
+   "sic": [
+    "以太网物理层连接产品自有品牌：光纤 / 铜媒体转换器（FE / GE、CWDM、LFS）、串口服务器、桥接转换器、模块化机箱、单向数据二极管（物理安全）"
+   ],
+   "address": "6040 Hellyer Avenue, Suite 150, San Jose, CA 95138-1040（旧址 5884 Eden Park Place）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（1–10 人；<$5M）",
+   "officers": [
+    "Vinh Quang Tran — Chief Executive Officer",
+    "James (Jim) McSeaton — CFO / Director / Director of Sales",
+    "Roland Yamaguchi — Secretary / Director",
+    "Charles McKee — Account Executive = 研究档 KP cmckee@"
+   ],
+   "psc": "三位高管（推定股东）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有标 MC 品牌商、经 OEM / VAR 渠道销售、SAM 在册政府供应商** → 表内「从 VOLKTEK 买 MC」= 已有台系代工 → **贴标 OEM 30% 目标 small**：Canary 标 STI-054GP / STI-144GP（工业 PoE 补其 MC 线）+ STC-110XGE；Simon「可以尝试多跟进一下」→ 加厚一次（规格 + 对比价）但预期小（1–10 人）",
+    "收件人：Charles McKee（AE）主送、Jim McSeaton（Director of Sales / CFO）抄；10 次群发无回复 → 换主题「industrial PoE to pair with your converters」；发信窗口 Wed 08–10 PT",
+    "政府 / 军工客户 → 不提 TAA / NDAA、不提军用"
+   ],
+   "notes": "自有标贴标 small；KP 老板层坐实；加厚一次。",
+   "code": "SB-741"
+  },
+  "SB-743": {
+   "batch": 100,
+   "name": "Cleerline Technology Group, LLC（cleerline.com / clrtec.com；Missoula, MT）— SSF 专利光纤品牌（2012，D’Addario & Co 关联企业；主理人 Ryan Prentice = President / Partner）；兼售工业交换机 / 10G MC / SFP",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：USITT / Worship Facility 新闻稿（Cleerline Technology Group 2012 年由 Robert D’Addario、Ryan Prentice、Rick Sant 作为 D’Addario & Co 关联企业创立；总部 Missoula, Montana）+ old.cleerline.com About（2009 Planet Waves 与 Custom Install Supply 合作；2012 合并成立；Prentice / Sant 来自西北太平洋集成商）+ D&B（Cleerline Technology Group, LLC；Key Principal Ryan Prentice）+ RocketReach（15 人；8404 Elway Dr Ste 2B, Missoula MT 59808）+ LinkedIn（11–50 人）+ Datanyze（Rick Sant Managing Partner；Ryan Prentice Partner）+ 2024-12 / 2025-12 / 2026-05 新闻（Ryan Prentice = President）",
+   "url": "https://www.usitt.org/news/cleerline-introduces-ultra-compact-high-density-fiber-trunks",
+   "number": "LLC（蒙大拿；SoS 号未取）",
+   "status": "Active（2026-05 / 2026-07 新品发布）",
+   "incorporated": "2012（前身 Custom Install Supply 2000 年代中）",
+   "company_type": "LLC（D’Addario 家族 + Prentice + Sant 合伙）",
+   "sic": [
+    "专利 SSF（玻璃-玻璃-聚合物）光纤线缆、预端接 / 跳线 / 配线、熔接盒、安装工具（AV 集成、数据中心、演出）",
+    "周边：工业交换机、10G 媒体转换器、串口光纤转换器（2025-05 新品）、SFP"
+   ],
+   "address": "8404 Elway Drive, Suite 2B, Missoula, MT 59808",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人；15）",
+   "officers": [
+    "Ryan Prentice — President / Partner = 研究档 KP ryan@ 本人",
+    "Rick Sant — Managing Partner",
+    "Robert D’Addario — Principal（D’Addario & Co）",
+    "Gina D’Addario — PR Manager"
+   ],
+   "psc": "D’Addario / Prentice / Sant",
+   "charges": "",
+   "prev_names": [
+    "Custom Install Supply（Missoula）",
+    "Planet Waves Custom Installation"
+   ],
+   "lines": [
+    "**研究档 KP Ryan Prentice 坐实 = President / 合伙人本人**（拍板人）；D’Addario 集团背书 = 付款与规模无忧",
+    "自有标光纤品牌 + 已卖工业交换机 / 10G MC / SFP 周边（表内 MC 供应商为「光路」）→ **贴标 OEM 30% 目标（Cleerline 标 10G 上联交换机 STC-110XGE / 工业 STI-144GP 配其光纤）**；B；18 次群发无回复 → 第二次触达换主题「a switch line to match SSF」",
+    "发信窗口 Wed 08–10 MT；加厚一次（一页规格 + 贴标流程）"
+   ],
+   "notes": "KP = President 本人；贴标 OEM 30% 目标；加厚一次。",
+   "code": "SB-743"
+  },
+  "SB-754": {
+   "batch": 100,
+   "name": "FasterCable（fastercable.com；Las Vegas, NV）— 电气 / 通信线缆与配件经销（Hellermann Tyton / Lutze 等；自有 EISW8-100T / EISW16-100T 百兆工业交换机）；Ozols 家族经营 5 人（≠ 宾州 Faster Cables LLC）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：ZoomInfo（Fastercable；3325 W Ali Baba Ln Ste 619, Las Vegas NV 89118；(702) 456-8900；5 人；Juliette Ozols = Director, Operations；Richard Ozols = Sales Manager；电气 / 通信线缆、VFD 线缆、端子、断路器；经销商批量价）；检索同时命中 **Faster Cables LLC（宾州 Union City，业主 Gabriel Hershberger，fastercables.com）= 同名他户，不采**；NV SoS 法定名未取（1 次即停）",
+   "url": "https://www.zoominfo.com/pic/fastercable/104466062",
+   "number": "部分坐实（NV 实体名 / SoS 号未取）",
+   "status": "Active（站点在线）",
+   "incorporated": "未取",
+   "company_type": "推定 NV 公司 / LLC（Ozols 家族）",
+   "sic": [
+    "电气 / 通信线缆与配件经销（plenum、VFD、Cat 线、端子、断路器、线管理）",
+    "自有标百兆工业以太网交换机 EISW8-100T / EISW16-100T"
+   ],
+   "address": "3325 W Ali Baba Ln, Ste 619, Las Vegas, NV 89118",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（5 人）",
+   "officers": [
+    "Juliette Ozols — Director, Operations = 研究档「Juliette O（V. President）」",
+    "Richard Ozols — Sales Manager = 研究档 KP richard@"
+   ],
+   "psc": "Ozols 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型家族经销 + 自有标百兆工业交换机** → 贴标 small：千兆升级 STI-054GP / STI-288DGGPM 贴 EISW 系列后继；一页纸即止",
+    "收件人 Richard Ozols；发信窗口 Wed 08–10 PT；不加厚；**不要与宾州 Faster Cables LLC 混淆**"
+   ],
+   "notes": "部分坐实；贴标 small；一页纸。",
+   "code": "SB-754"
+  },
+  "SB-783": {
+   "batch": 100,
+   "name": "S.I. Tech, Inc.（sitech-bitdriver.com；Batavia, IL）— 1984 年起光纤调制解调器 / 复用器 / 中继器制造商（收购 Belden 光纤系统部 1984、Honeywell 光纤复用器部 1988；品牌 Bit-Driver / Fiber Cluster；ISO 9001:2015；2–10 人；业主 Ramesh Sheth）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 Company（创办人曾管理 Belden 光纤新业务；1984-03 作为 Illinois Corporation 开业并收购 Belden 光纤系统部；1988-01 收购 Honeywell 光纤复用器部）+ BBB（S I Tech；Business Incorporated 1983-09-22；Started 1984-03-01；Corporation；Ramesh Sheth, Owner）+ ZoomInfo / explorium（Ramesh Sheth = President；1–10 人；<$5M）+ RocketReach（5 人；1101 N. Raddant Road, Batavia IL 60510）+ IndustryNet（品牌 Bit-Driver / Fiber Cluster / S.I. Tech；ISO 9001:2015）+ CB Insights（航空航天 / 国防 / 国土安全 / 工业）+ LinkedIn（2–10 人；1984）",
+   "url": "https://www.bbb.org/us/il/batavia/profile/fiber-optics/s-i-tech-0654-88092127",
+   "number": "Illinois Corporation（1983-09-22；IL SoS 文件号未取）",
+   "status": "Active（BBB 档案；站点在线）",
+   "incorporated": "1983-09-22（开业 1984-03-01）",
+   "company_type": "Corporation（业主 Ramesh Sheth）",
+   "sic": [
+    "光纤调制解调器、复用器、光中继、集线器、线缆组件（LAN / WAN / 工业 / 航空航天 / 国防）；Bit-Driver 网店兼售 MC / 工业交换机 / 串口设备"
+   ],
+   "address": "1101 N. Raddant Road, Batavia, IL 60510-4214（汇款 P.O. Box 609, Geneva IL）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人；<$5M）",
+   "officers": [
+    "Ramesh Sheth — President / Owner = 研究档 KP「Ramesh S」sales@ 本人"
+   ],
+   "psc": "Ramesh Sheth",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP 坐实 = 业主 / 总裁本人**（sales@ 即老板）；40 年老店、ISO 9001",
+    "自产光纤调制解调器 + Bit-Driver 网店卖 MC / 工业交换机 / 串口 → **贴标 small（OEM 30%）**：Bit-Driver 标 STI-054GP / STI-144GP / STC-110XGE；Simon「可以尝试多跟进一下」→ 一页纸 + 对比价一次",
+    "客户含国防 / 航空航天 → 信里**不提军用、不提 TAA**；发信窗口 Wed 08–10 CT"
+   ],
+   "notes": "KP = 业主本人；贴标 small；一页纸。",
+   "code": "SB-783"
+  },
+  "SB-559": {
+   "batch": 100,
+   "name": "VIPA ControlsAmerica（vipausa.com；Alpharetta, GA）— 德国 VIPA GmbH（YASKAWA 旗下）PLC / I/O / HMI 的北美销售与服务公司（1998；8 人；President & CEO Thomas Kosse；表内「工业 FS 自己的 logo」）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 / LinkedIn（VIPA ControlsAmerica；980 Birmingham Rd Ste 721 / 825, Alpharetta GA 30004；「North American arm of VIPA GmbH of Germany (a Yaskawa company)」；Established 1998；面向 OEM / 终端用户 / 系统集成商）+ ContactOut（1998；Thomas Kosse = President & CEO）+ RocketReach（8 人）+ 官网 About（VIPA GmbH 1985 Wolfgang Seel 创立；2012 YASKAWA Europe 收购多数股权；2019 法律合并入 Yaskawa Europe GmbH）；GA 实体法定名 / LLC 号未取（1 次即停）",
+   "url": "https://www.linkedin.com/company/vipa-controls-america",
+   "number": "GA 实体名 / SoS 号未取（公开名 VIPA ControlsAmerica）",
+   "status": "Active（站点在线；墨西哥线 ventas@）",
+   "incorporated": "1998",
+   "company_type": "私有（美国独立销售公司；President & CEO Thomas Kosse；与 Yaskawa 关系为品牌授权 / 代理，未核股权）",
+   "sic": [
+    "VIPA（Yaskawa）PLC / 远程 I/O / HMI / PROFIBUS 连接器北美销售、服务与支持；Siemens STEP7 兼容；GermanAutomation® 站"
+   ],
+   "address": "980 Birmingham Rd. Ste 721 / 825, Alpharetta, GA 30004",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（8 人）",
+   "officers": [
+    "Thomas Kosse — President & CEO（研究档无 KP）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "VIPA Controls America"
+   ],
+   "lines": [
+    "**PLC 分销商卖自有 logo 工业交换机** = 柜内配套品，量随 PLC 项目 → **贴标 small（OEM 30%）**：STI-054GP / STI-144GP / STI-288DGGPM（导轨、宽温、PROFINET 环境常见需求 = 管理型 + 快速环网）",
+    "收件人 Thomas Kosse（President & CEO；info@vipausa.com 点名）；18 次群发无回复 → 换主题「DIN-rail managed PoE for PLC panels」；发信窗口 Wed 08–10 ET；一页纸"
+   ],
+   "notes": "贴标 small；一页纸。",
+   "code": "SB-559"
+  },
+  "SB-061": {
+   "batch": 100,
+   "name": "Megatel Industries Corporation（megatelindustries.com；North Wales, PA）— 1991/1994 起的数据通信 / 光纤产品批发商、出口商兼 OEM 品牌商（IFS / IGS / IMC / FMC 系列 = CTC Union / ONV 贴牌；DoD 供应商 CAGE IRRG5；3 人；总裁 Zack Yu）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 About（Founded in 1994, Megatel Industries corp.；批发 / 出口至亚洲、欧洲、非洲、加勒比、南美；664 Wagner Court, North Wales PA 19454；sales@）+ Buzzfile（Megatel Industries Corporation；Zack Yu = President；3 人；≈$0.42M；经营约 34 年；亚裔业主）+ D&B（Founded 1991；Incorporated PA；$1M；3 人）+ RocketReach（$2M；DoD 供应商 CAGE Code IRRG5；客户含联邦 / 州 / 市政府、军方、学校、出口贸易公司、批发商）+ Govcb / MapQuest（旧址 6 Crimson Drive, Norristown PA 19401）+ ZoomInfo（Zack Yu Sales Manager）",
+   "url": "https://www.megatelindustries.com/info.html",
+   "number": "PA Corporation（PA DOS 号未取；CAGE IRRG5）",
+   "status": "Active（站点在线）",
+   "incorporated": "1991（D&B）/ 1994（自述）",
+   "company_type": "Corporation（宾夕法尼亚；业主 Zack Yu）",
+   "sic": [
+    "数据通信 / 光纤设备批发与出口 + 自有 logo：工业以太网 / PoE 交换机与转换器（IFS / IGS / IMC / ITP / IPSW / FMC）、EN50155 工业 PoE+ 管理型交换机、SFP、CWDM、T1/E1 / SDH 转换、工业电源"
+   ],
+   "address": "664 Wagner Court, North Wales, PA 19454（旧址 6 Crimson Dr, Norristown PA 19401）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（3 人；$0.4–2M）",
+   "officers": [
+    "Zack Yu — President / Sales Manager = 研究档 KP zack@ 本人（业主）"
+   ],
+   "psc": "Zack Yu",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP 坐实 = 业主 / 总裁本人**；微型（3 人）但自有 logo 全线工业交换机 + 政府 / 军方 + 出口客户 → **贴标 small（OEM 30%）**：Megatel 标 STI-054GP / STI-288DGGPM / STI-488DGGPM 对标其 CTC Union 贴牌款（表内其 8 口千兆管理 PoE 标 $1,800 → 我方 $147 级有巨大空间）",
+    "华人老板（Zack Yu）→ 可中文直联（Q 默认 no，先英文）；发信窗口 Wed 08–10 ET；一页纸 + 对比价；不提军用 / TAA"
+   ],
+   "notes": "KP = 业主本人；贴标 small；一页纸。",
+   "code": "SB-061"
   }
  }
 }

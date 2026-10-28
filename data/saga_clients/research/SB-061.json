@@ -35,7 +35,7 @@
  "kp": [
   {
    "name": "Zack Yu",
-   "role": "来信署名人（职务未在邮件署名里出现）",
+   "role": "President / Sales Manager（Megatel Industries Corporation 业主；D&B / Buzzfile）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）",
    "email": "zack@megatelindustries.com",
    "phone": "",
    "source": "S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补）"
@@ -50,10 +50,12 @@
   "level": "B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先）"
  },
  "company_facts": {
-  "legal_name": "Megatel Industries（美国）",
-  "hq": "美国",
+  "legal_name": "Megatel Industries Corporation（PA Corporation；PA DOS 号未取；CAGE IRRG5）",
+  "hq": "664 Wagner Court, North Wales, PA 19454",
   "size": "小型（待补证）",
-  "other": "自有 logo 工业以太网线：IFS/IGS/IMC/ITP/IPSW/FMC 系列（多为 CTC Union 贴牌，亦有 ONV）；标价高（IGS-803SM-8PH24 标 $1,800 售 $699；IPSW-G04-1GE1SFP 售 $145；IMC-1000MS-PHE12 售 $345）；S 重点名单，22 次推送 0 回复"
+  "other": "自有 logo 工业以太网线：IFS/IGS/IMC/ITP/IPSW/FMC 系列（多为 CTC Union 贴牌，亦有 ONV）；标价高（IGS-803SM-8PH24 标 $1,800 售 $699；IPSW-G04-1GE1SFP 售 $145；IMC-1000MS-PHE12 售 $345）；S 重点名单，22 次推送 0 回复；第 100 批：数据通信 / 光纤批发出口商兼 OEM 品牌商（3 人）→ 贴标 small（STC-228GP / STI-144GP）；政府 CAGE 客户不提；一页纸（第 100 批 官方登记核实 2026-10-28）",
+  "founded": "1991（D&B）/ 1994（自述）（第 100 批 官方登记核实 2026-10-28）",
+  "staff": "3 人；$0.4–2M"
  },
  "business_lines": [
   "自有品牌工业以太网交换机/介质转换器网店（OEM 采购）"

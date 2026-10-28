@@ -45,7 +45,13 @@
    "title": "Account Executive",
    "email": "cmckee@canarycom.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档联系人（职务未核；非登记高管）= 收件人（第 100 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Vinh Quang Tran",
+   "role": "Chief Executive Officer（CA SoS 1418771 Statement of Information）= 拍板人（抄送 / 点名）（第 100 批 官方登记核实 2026-10-28）",
+   "email": ""
   }
  ],
  "grade_override": null,
@@ -56,8 +62,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 canarycom.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "6040 Hellyer Avenue, Suite 150, San Jose, CA 95138",
+  "other": "官网 canarycom.com，语言 ?，快照状态 ok；角色判定来源：待核；第 100 批：自有品牌媒体转换器 / 数据二极管商（表内从 VOLKTEK 买 MC）→ 自有标 PoE / 光口交换机贴标 small（STI-144GP / STC-228GP）；军方 / 政府客户不提；加厚一次（第 100 批 官方登记核实 2026-10-28）",
+  "legal_name": "Canary Communications, Inc.（California General Corporation；CA SoS 1418771；SAM UEI WVRYXAA7DEK9）",
+  "founded": "1987-09-25（第 100 批 官方登记核实 2026-10-28）",
+  "staff": "1–10 人；<$5M"
  },
  "business_lines": [
   "光纤 MC / 交换机（自有品牌 Canary）"

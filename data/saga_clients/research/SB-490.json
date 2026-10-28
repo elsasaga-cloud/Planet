@@ -32,7 +32,8 @@
    "title": "Project Manager",
    "email": "salih.yildirim@radioteknoloji.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Project Manager（研究档；选型人）= 收件人（第 100 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Abdurrahman Pehlivanoglu",
@@ -50,8 +51,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 radioteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Ataköy 7-8-9-10. Kısım Mah. Çobançeşme E-5 Yan Yol Cad. Avrupa Residence No 8/1 A Blok D10, Bakırköy / İstanbul",
+  "other": "官网 radioteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：户外宽带无线（PtP / PtMP / LTE）分销 + 集成（KGYS / 港口 / 机场 / 市政；客户含 TSK → 信里不提军用）→ 集成商 25%：STI-054GP / STI-144GP / STI-288DGGPM 杆位 PoE；一页纸 + 杆位配置图（第 100 批 官方登记核实 2026-10-28）",
+  "legal_name": "Radio Teknoloji Hizmetleri A.Ş.（İstanbul Bakırköy；MERSİS 号未取）",
+  "founded": "2015（第 100 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "无线电系统 / 数据传输基础设施方案"

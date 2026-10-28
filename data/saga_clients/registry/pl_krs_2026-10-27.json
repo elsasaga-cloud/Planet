@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 42
+  "count": 46
  },
  "rows": {
   "SA-023": {
@@ -1416,6 +1416,134 @@
    ],
    "notes": "贴标 small / 配套 25%；一页纸。",
    "code": "SB-1025"
+  },
+  "SB-1047": {
+   "batch": 100,
+   "name": "KAMSYS Piotr Błoński（kamsys.pl；Legionowo）— 2010 年起的监控 / 报警 / 门禁 / 对讲网店兼安装商（CEIDG 个体；持 MSWiA 安防许可；零售 + 批发）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：GoWork / krs-online（KAMSYS PIOTR BŁOŃSKI；NIP 8231551721；REGON 142179316；Indywidualna działalność gospodarcza；开业 2010-01-14；ul. Wileńska 27, 05-120 Legionowo）+ 官网 Kontakt / O firmie（同 NIP / REGON；+48 22 774 07 86；CCTV / SSWiN / SKD / RCP / 对讲 / 自动门；「Sprzedaż detaliczna i hurtowa」；MSWiA 许可）+ Marketplanet（Network infrastructure devices / Telecommunications equipment 品类）",
+   "url": "https://www.gowork.pl/kamsys-piotr-blonski,22633776/dane-kontaktowe-firmy",
+   "number": "NIP 8231551721 · REGON 142179316（CEIDG）",
+   "status": "Active（站点在线；VAT 在册）",
+   "incorporated": "2010-01-14",
+   "company_type": "Jednoosobowa działalność gospodarcza（个体）",
+   "sic": [
+    "安防系统（CCTV / 报警 / 门禁 / 考勤 / 对讲）网店 + 设计安装 + 批发；蓄电池 / 电工配件"
+   ],
+   "address": "ul. Wileńska 27, 05-120 Legionowo（mazowieckie）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（个体）",
+   "officers": [
+    "Piotr Błoński — 业主（CEIDG）= 收件人（研究档无 KP）"
+   ],
+   "psc": "Piotr Błoński",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体安防网店 + 安装** → **集成商 25%，小户，一页纸**：STC-028GP / STC-228GP（IP 监控 4–8 路）；MOQ 1 + DAP 华沙运费",
+    "收件人 Piotr Błoński（业主）；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "集成商 25%；小户；一页纸；研究档补 KP Piotr Błoński。",
+   "code": "SB-1047"
+  },
+  "SB-1124": {
+   "batch": 100,
+   "name": "FONEX K.T.M. Borowscy Sp. j.（fonex.pl / fonex.com.pl；Częstochowa）— 2008 年起的报警 / 监控 / 安防批发商 + 网店 + 安装（KRS 0000317918；Borowski 家族普通合伙；PKD 46.52 电子电信设备批发）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：官网 Kontakt（FONEX K.T.M. Borowscy SP.J.；ul. Wręczycka 13/15, 42-202 Częstochowa；NIP 9492100567；KRS 0000317918；REGON 241058180；BDO 000427576；34 3 525 111；sklep@fonex.pl）+ krs-pobierz（Spółka jawna；aktywna；登记 2008-11-18；最近 KRS 变更 2026-04-17；主营 Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego）+ rejestr.io / aleo（同号）+ fonex.com.pl（安装业务；info@fonex.pl）+ 规程 Regulamin（Sąd Rejonowy w Częstochowie XVII Wydział KRS）",
+   "url": "https://rejestr.io/krs/317918",
+   "number": "KRS 0000317918 · NIP 9492100567 · REGON 241058180 · BDO 000427576",
+   "status": "Aktywna（KRS 变更 2026-04-17）",
+   "incorporated": "2008-11-18",
+   "company_type": "Spółka jawna（普通合伙；Borowscy）",
+   "sic": [
+    "PKD 46.52.Z — 电子 / 电信设备批发（报警 SATEL、CCTV、门禁、对讲；网店 + 安装）"
+   ],
+   "address": "ul. Wręczycka 13/15, 42-202 Częstochowa（śląskie）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（人数未取；区域批发）",
+   "officers": [
+    "Borowscy（合伙人；姓名未取）= 收件人 sklep@ / info@（研究档无 KP）"
+   ],
+   "psc": "Borowski 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**区域安防批发 + 网店** → **分销 20%，小户，一页纸**：STC-028GP / STC-228GP / STC-2216GP（对标其在售 PoE 交换机价）",
+    "收件人 sklep@fonex.pl（点名 właściciel / zakupy）；表内无跟进 → 首信即一页纸；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20%；小户；一页纸。",
+   "code": "SB-1124"
+  },
+  "SB-547": {
+   "batch": 100,
+   "name": "NETINET Sp. z o.o.（netinet.pl；Warszawa）— 1999 年起（KRS 2002）的波兰 IT 分销商，Intellinet / Manhattan 品牌波兰运营方（前 IC Intracom Polska）；Prezes Marek Niewczas（= 研究档 KP「着重跟」）；资本 50,000 zł",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：rejestr.io（NETINET SPÓŁKA Z O.O.；KRS 0000096977；NIP 1181481416；Prezes Zarządu Marek Rafał Niewczas 自 2002-03-07；Członek Zarządu Agnieszka Maria Niewczas 自 2007-04-11；资本 50 tys. zł）+ krs-pobierz（REGON 016121659；ul. Arkuszowa 18, 01-934 Warszawa；登记 2002-03-07；最近变更 2026-07-16；主营电脑 / 外设 / 软件批发）+ bizraport（股东 Agnieszka Niewczas 65% 自 2017-01-20；Marek Niewczas 10%；prokurent Kamil Niewczas / Kazimierz Sojka；wspólnik Stefan Radzimiński）+ aleo（Marek Niewczas 54 岁）+ 官网 O firmie（「polskim dystrybutorem produktów IT działającym od ponad 30 lat」；IC Intracom Polska 项目结束后转为独立 Netinet，仍经波兰 IT 分销龙头承接 Intellinet / Manhattan 合同；全程包办测试 / 上市 / 营销 / 分销 / 保修）",
+   "url": "https://rejestr.io/krs/96977/netinet",
+   "number": "KRS 0000096977 · NIP 1181481416 · REGON 016121659",
+   "status": "Aktywna（KRS 变更 2026-07-16）",
+   "incorporated": "2002-03-07（经营自 1999）",
+   "company_type": "Spółka z o.o.（资本 50,000 zł；Niewczas 家族控股）",
+   "sic": [
+    "PKD 46.51.Z — 电脑 / 外设 / 软件批发（Intellinet 网络 / Manhattan 配件品牌的波兰运营：测试、上市、营销、分销、保修）"
+   ],
+   "address": "ul. Arkuszowa 18, 01-934 Warszawa",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（人数未取；品牌运营型分销）",
+   "officers": [
+    "Marek Rafał Niewczas — Prezes Zarządu（自 2002；= 研究档 KP 本人）",
+    "Agnieszka Maria Niewczas — Członek Zarządu / 股东 65%",
+    "Kamil Niewczas / Kazimierz Sojka — prokurent"
+   ],
+   "psc": "Agnieszka Niewczas 65% / Marek Niewczas 10%",
+   "charges": "",
+   "prev_names": [
+    "（前身 IC Intracom Polska 项目）"
+   ],
+   "lines": [
+    "**品牌运营型分销（替品牌方做全套上市 / 保修）+ 老板本人收件** → 既可 **分销 20%**（Intellinet 之外补 Marvell 网管 PoE 线），也可谈 **自有标 OEM 30%**（Netinet 标 STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W）；B BIG，**加厚**，升 A 候选（回信即 A）",
+    "表内「着重跟」1 次跟进无回复 → 第二次触达换主题「a managed PoE line beside Intellinet — your label or ours」；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% / 自有标 OEM 30%；KP = Prezes 本人；B BIG；加厚；升 A 候选。",
+   "code": "SB-547"
+  },
+  "SB-454": {
+   "batch": 100,
+   "name": "Leoptics（leoptics.pl；Łódź）— 光模块 / CWDM / 网络交换机波兰网店（WordPress；SPEED-CWDM 系列资料 2017）；**CEIDG 命中「Leoptics Maja Matyjewicz」（Łódź，NIP 7251850432，2018 起）但与站点经营者的对应未另核 → 部分坐实**",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：OWG / CEIDG（Leoptics Maja Matyjewicz；NIP 7251850432；REGON 364507458；AKTYWNY；VAT czynny；自 2018-10-07；ul. Rewolucji 1905 r. 18/63, 90-207 Łódź）—— 同名命中但站点 Impressum 未取；Warszawa 的 TELEOPTICS Sp. z o.o.（KRS 0000165777，Fujikura 熔接机）为他户，不采；站点事实沿用研究档（leoptics.pl 「przełączniki sieciowe」品类、SPEED-CWDM 资料）",
+   "url": "https://www.owg.pl/ceidg/leoptics_maja_matyjewicz_9,74,725185,7251850432",
+   "number": "部分坐实（CEIDG NIP 7251850432 · REGON 364507458；经营者对应待核）",
+   "status": "Active（CEIDG 在册；站点快照 ok）",
+   "incorporated": "2018-10-07（CEIDG）",
+   "company_type": "Jednoosobowa działalność gospodarcza（个体，推定）",
+   "sic": [
+    "光模块 / CWDM / DAC、网络交换机等光通信配件网店"
+   ],
+   "address": "ul. Rewolucji 1905 r. 18/63, 90-207 Łódź（CEIDG）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（个体）",
+   "officers": [
+    "Maja Matyjewicz — 业主（CEIDG；对应待核）；研究档无 KP"
+   ],
+   "psc": "Maja Matyjewicz（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**光模块网店（Saga 不做光模块）** → 只能切 10G 上联交换机 → **分销 20%，微型，一页纸**：STC-110XGE（$65）+ STC-228GP；表内「German brand link」未见证据 → 不采",
+    "收件人：站点联系邮箱（研究档）；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 CET；下轮补项：站点 Regulamin 法人名"
+   ],
+   "notes": "分销 20%；微型；一页纸；部分坐实（经营者待核）。",
+   "code": "SB-454"
   }
  }
 }

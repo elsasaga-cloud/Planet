@@ -42,11 +42,12 @@
  ],
  "kp": [
   {
-   "name": "Sahil Karwat",
+   "name": "Sahil Karwar",
    "title": "Director",
    "email": "info@trksolutions.co.uk",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director / PSC 75–100%（Companies House 12948953；研究档拼写 Karwat → 更正 Karwar）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -57,8 +58,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 trksolutions.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "Premier Business Centre, 47-49 Park Royal Road, London NW10 7LQ（商务中心）",
+  "other": "官网 trksolutions.co.uk，语言 en，快照状态 ok；角色判定来源：用户表；第 100 批：CCTV / 门禁 / 报警微型安装商 → 集成商 25%，小户，一页纸：STC-028GP / STC-228GP / STC-2224GP；MOQ 1（第 100 批 官方登记核实 2026-10-28）",
+  "legal_name": "TRK SOLUTIONS LTD（Companies House 12948953；VAT 437821090；SIC 43210 + 61100；同名 07147856 为他户）",
+  "founded": "2020-10-14（第 100 批 官方登记核实 2026-10-28）",
+  "staff": "<10 人；Micro"
  },
  "business_lines": [
   "CCTV / 门禁 / 火灾报警 / ANPR 安装（英国）"
