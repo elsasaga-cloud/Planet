@@ -1,11 +1,11 @@
 {
  "code": "XB-C0099",
  "name": "Megateh（欧洲/保加利亚）",
- "round": "W3-R06",
+ "round": "W3-R12",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Megateh（保加利亚安防批发）",
- "type_final": "Megateh（保加利亚安防批发）",
+ "summary": "跨欧线上安防供应商（MEGATEH.eu / Expresstime OÜ，Tallinn 爱沙尼亚；2008 起；30,000+ 订单；经销商折扣）",
+ "type_final": "跨欧线上安防供应商（MEGATEH.eu / Expresstime OÜ，Tallinn 爱沙尼亚；2008 起；30,000+ 订单；经销商折扣）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "https://megateh.eu/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "About：MEGATEH.eu is an Estonian company…Operating under Expresstime OÜ since 2008…over 30,000 orders…sales@megateh.eu",
+   "quote": "MEGATEH.eu is an Estonian company specialising in the supply of video surveillance (CCTV) and modern security equipment across Europe and worldwide",
+   "url": "https://www.megateh.eu/about-us"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "实为爱沙尼亚公司（来源库误标 BG）；品牌货线上供应，非选品型分销 → B 不动；sales@megateh.eu 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

@@ -1,12 +1,12 @@
 {
  "code": "XB-C0789",
  "name": "ELECTRICAL COMPONENTS HOLLAND",
- "round": "W3-R06",
+ "round": "W3-R12",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "ECH（荷兰元器件分销）",
- "type_final": "ECH（荷兰元器件分销）",
- "size": "未量化",
+ "summary": "电气元器件独立分销（Electrical Components Holland B.V.，Papendrecht；2018 起；5–9 人）",
+ "type_final": "电气元器件独立分销（Electrical Components Holland B.V.，Papendrecht；2018 起；5–9 人）",
+ "size": "电气元器件独立分销（Electrical Components Holland B.V.，Papendrecht；2018 起；5–9 人）",
  "brands_seen": [],
  "saga_line": "—",
  "fit": "",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "https://europages/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：ECH is an independent distributor of electrical components…；联系页 sales@echolland.com；europages 5–9 人",
+   "quote": "ECH is an independent distributor of electrical components with a global network of reliable suppliers",
+   "url": "https://echolland.com/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "元器件线，邮箱待补 → B 不动",
+ "grade_reason_final": "元器件渠道，与交换机无关 → B 不动；sales@echolland.com 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

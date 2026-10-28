@@ -1,11 +1,11 @@
 {
  "code": "XB-C0307",
  "name": "MB Vision Ltd / cctvspot.co.uk",
- "round": "W3-R06",
+ "round": "W3-R12",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "MB Vision / cctvspot（Hikvision+Dahua 授权经销）",
- "type_final": "MB Vision / cctvspot（Hikvision+Dahua 授权经销）",
+ "summary": "线上 CCTV 进口零售（MB Vision Ltd.，Plovdiv；2012 起；Hikvision/Dahua 授权；cctvspot.co.uk 面向英国）",
+ "type_final": "线上 CCTV 进口零售（MB Vision Ltd.，Plovdiv；2012 起；Hikvision/Dahua 授权；cctvspot.co.uk 面向英国）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "https://cctvspot.co.uk/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "cctvspot.co.uk Terms：MB Vision Ltd. with VAT reg BG202150972…contact us at cctv.mbvision @ gmail.com…sales @ uk.mbvision.net",
+   "quote": "Since our inception in 2012, MB Vision Ltd. has been a leading importer and distributor of high-quality CCTV equipment",
+   "url": "https://cctvspot.co.uk/terms"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "线上零售为主，官方邮箱为 gmail + sales@uk.mbvision.net → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

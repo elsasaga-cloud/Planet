@@ -1,15 +1,15 @@
 {
  "code": "XB-C0345",
  "name": "Atu TECH Romania",
- "round": "W3-R06",
+ "round": "W3-R12",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Atu Tech（罗马尼亚安防分销）",
- "type_final": "Atu Tech（罗马尼亚安防分销）",
+ "summary": "安防进口 + 网店 + 安装（Atu Tech SRL，Sibiu；2011 起；București 代表处；自称全线直接进口）",
+ "type_final": "安防进口 + 网店 + 安装（Atu Tech SRL，Sibiu；2011 起；București 代表处；自称全线直接进口）",
  "size": "未量化",
  "brands_seen": [],
- "saga_line": "—",
- "fit": "",
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "直接进口商，兼做安装与零售",
  "evidence": [
   {
    "kind": "来源库官网/名录核对",
@@ -17,26 +17,36 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "Trustpilot 公司自述：Importator direct pentru toata gama de produse din domeniul sistemelor de securitate；ghidul.ro：office@a2t.ro / bucuresti@a2t.ro",
+   "quote": "Importator direct pentru toata gama de produse din domeniul sistemelor de securitate",
+   "url": "https://www.trustpilot.com/review/a2t.ro"
   }
  ],
  "contacts": {
-  "email": "",
-  "email_status": "缺",
+  "email": "office@a2t.ro",
+  "email_status": "来源库公开邮箱",
   "kp": []
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
- "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_final": "A",
+ "grade_reason_final": "RO（欧洲）、直接进口、邮箱已补 → 升 A 首触（轻，排 2027-01-28 周四）",
  "next_move": {
-  "action": "不动",
-  "angle": "",
-  "model": "",
-  "price": "",
-  "window": "",
-  "when": "不动"
+  "action": "首触",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "RO 周四 12–14",
+  "when": "2027-01-28"
  },
  "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
- "deep": false,
- "draft_en": null
+ "draft_en": {
+  "subject": "L2+ PoE and industrial switches for your reseller channel",
+  "body": "Hi,\n\nSaga Telecom supplies network distributors with Marvell-based L2+ PoE switches and Centec-based L3 10G/25G/100G switches, under our label or the distributor's own, CE. Two lines that usually interest MikroTik and WISP channels:\n\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).\n- STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWho on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
 }

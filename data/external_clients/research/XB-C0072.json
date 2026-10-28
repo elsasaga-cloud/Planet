@@ -1,11 +1,11 @@
 {
  "code": "XB-C0072",
  "name": "Quantix（波兰）",
- "round": "W3-R06",
+ "round": "W3-R12",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Quantix（波兰网络设备供应商）",
- "type_final": "Quantix（波兰网络设备供应商）",
+ "summary": "中国 GPU 服务器/交换机厂商的波兰 SEO 页（Quantix Intelligent Computing Co., Ltd.，Shenzhen；2017 起）",
+ "type_final": "中国 GPU 服务器/交换机厂商的波兰 SEO 页（Quantix Intelligent Computing Co., Ltd.，Shenzhen；2017 起）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "https://quantixgpu.com/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Quantix Intelligent Computing Co., Ltd.…based in China…our main engineering team is based in Shenzhen",
+   "quote": "While our main engineering team is based in Shenzhen, we partner with several system integrators in Warsaw and Krakow",
+   "url": "https://www.quantixgpu.com/local/network-switch-manufacturers-supplier-in-the-poland-market/"
   }
  ],
  "contacts": {
@@ -26,8 +33,8 @@
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
- "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_final": "C",
+ "grade_reason_final": "非波兰公司、同行厂商 → C 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

@@ -1,11 +1,11 @@
 {
  "code": "XB-C0007",
  "name": "DSE (Torino)",
- "round": "W3-R06",
+ "round": "W3-R12",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "DSE（意大利安防分销/零售）",
- "type_final": "DSE（意大利安防分销/零售）",
+ "summary": "自有品牌小厂商（DSE s.r.l.，San Mauro Torinese；1998 起；2 名员工、2024 营收 €689k；ONVIF 会员）",
+ "type_final": "自有品牌小厂商（DSE s.r.l.，San Mauro Torinese；1998 起；2 名员工、2024 营收 €689k；ONVIF 会员）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "https://dsecctv.com/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "ufficiocamerale：Fatturato € 688.745,00 (2024)…Dipendenti 2；dsecctv.com 联系页 Product information info@dsecctv.com",
+   "quote": "DSE è un costruttore di prodotti per la videosorveglianza",
+   "url": "https://www.dsecctv.com/contattarci.htm"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "同行自有品牌、规模极小 → B 不动；info@dsecctv.com 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

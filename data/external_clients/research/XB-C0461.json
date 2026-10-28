@@ -1,11 +1,11 @@
 {
  "code": "XB-C0461",
  "name": "2B Security ApS",
- "round": "W3-R06",
+ "round": "W3-R12",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "2B Security Systems（丹麦 CCTV 部件制造/分销）",
- "type_final": "2B Security Systems（丹麦 CCTV 部件制造/分销）",
+ "summary": "PTZ 云台制造商（2B Security Systems ApS，Roskilde；1997 起；2 名员工）",
+ "type_final": "PTZ 云台制造商（2B Security Systems ApS，Roskilde；1997 起；2 名员工）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "https://2bsecurity.com/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "About：European manufacturer and worldwide distributor of surveillance equipment like PTZ systems…；proff.dk：Antal ansatte 2",
+   "quote": "2B Security Systems ApS is establised in 1997…The company is a European manufacturer and worldwide distributor",
+   "url": "https://www.2bsecurity.com/about-us/"
   }
  ],
  "contacts": {
@@ -26,8 +33,8 @@
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
- "grade_final": "B",
- "grade_reason_final": "制造商属性，邮箱待补 → B 不动",
+ "grade_final": "C",
+ "grade_reason_final": "制造商且仅 2 人 → C 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

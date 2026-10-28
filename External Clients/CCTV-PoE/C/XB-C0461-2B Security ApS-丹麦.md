@@ -1,9 +1,10 @@
 # XB-C0461 · 2B Security ApS · 丹麦
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-58-part2.md`:37（其分级 B类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-58-part2.md`:37（其分级 B类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R12 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
+- 研究后改级：XB → **XC**（W3-R12，制造商且仅 2 人 → C 不动）；编号不变
 - 标记：profile批次文件、国别多说法:DK、多处出现×2、缺联系
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
 - 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
@@ -58,12 +59,12 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R12，2026-10-28）
 
-- **结论：XB** — 制造商属性，邮箱待补 → B 不动
+- **结论：XC** — 制造商且仅 2 人 → C 不动
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：2B Security Systems（丹麦 CCTV 部件制造/分销）
-- 是什么人：2B Security Systems（丹麦 CCTV 部件制造/分销）；规模：未量化
+- 一句话：PTZ 云台制造商（2B Security Systems ApS，Roskilde；1997 起；2 名员工）
+- 是什么人：PTZ 云台制造商（2B Security Systems ApS，Roskilde；1997 起；2 名员工）；规模：未量化
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -74,5 +75,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 13年丹麦公司, CCTV组件(云台/护罩/镜头)欧洲制造+全球分销, 大型监控系统设计 |  | https://2bsecurity.com/ | 2026-09-28 |
+| 本轮网查 | About：European manufacturer and worldwide distributor of surveillance equipment like PTZ systems…；proff.dk：Antal ansatte 2 | 2B Security Systems ApS is establised in 1997…The company is a European manufacturer and worldwide distributor | https://www.2bsecurity.com/about-us/ | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

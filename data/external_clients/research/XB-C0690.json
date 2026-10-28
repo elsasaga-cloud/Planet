@@ -1,15 +1,15 @@
 {
  "code": "XB-C0690",
  "name": "Rovision/Cristal SRL",
- "round": "W3-R06",
+ "round": "W3-R12",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Rovision / Cristal（罗马尼亚安防分销）",
- "type_final": "Rovision / Cristal（罗马尼亚安防分销）",
+ "summary": "安防进口分销 + 自有品牌（SC Cristal SRL / Rovision，Bacău；1992 起；Dahua/Hikvision 授权分销；自有品牌 Rovision；B2B App）",
+ "type_final": "安防进口分销 + 自有品牌（SC Cristal SRL / Rovision，Bacău；1992 起；Dahua/Hikvision 授权分销；自有品牌 Rovision；B2B App）",
  "size": "未量化",
  "brands_seen": [],
- "saga_line": "—",
- "fit": "",
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "自有品牌 Rovision → 自有标签 PoE 线的 OEM 候选",
  "evidence": [
   {
    "kind": "来源库官网/名录核对",
@@ -17,26 +17,36 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网「Despre noi」：importator de 7 ani…Distribuitor autorizat…Dahua și Hikvision；品牌页：Rovision…importul si distributia…instalatorilor sau revanzatorilor；联系页 vanzari@rovision.ro",
+   "quote": "Cristal SRL Bacau infiintata in anul 1992 are ca obiect principal de activitate importul si distributia de camere supraveghere video",
+   "url": "https://rovision.ro/brand/rovision/"
   }
  ],
  "contacts": {
-  "email": "",
-  "email_status": "缺",
+  "email": "vanzari@rovision.ro",
+  "email_status": "来源库公开邮箱",
   "kp": []
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
- "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_final": "A",
+ "grade_reason_final": "RO（欧洲）、进口 + 自有品牌、邮箱已补 → 升 A 首触，用自有标签问句（排 2027-01-28 周四）",
  "next_move": {
-  "action": "不动",
-  "angle": "",
-  "model": "",
-  "price": "",
-  "window": "",
-  "when": "不动"
+  "action": "首触",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "RO 周四 12–14",
+  "when": "2027-01-28"
  },
  "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
- "deep": false,
- "draft_en": null
+ "draft_en": {
+  "subject": "L2+ PoE and industrial switches for your reseller channel",
+  "body": "Hi,\n\nSaga Telecom supplies network distributors with Marvell-based L2+ PoE switches and Centec-based L3 10G/25G/100G switches, under our label or the distributor's own, CE. Two lines that usually interest MikroTik and WISP channels:\n\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).\n- STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a PoE switch line under your own label be of interest, and if so, which port count should we sample first?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
 }
