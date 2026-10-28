@@ -32,7 +32,8 @@
    "title": "Sales & Marketing Manager",
    "email": "sergio.fe@inscapedata.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "研究档 KP（PoEsuperstore 网店销售口）= 收件人（第 96 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Juan Moncada",
@@ -40,6 +41,13 @@
    "email": "juan.moncada@inscapedata.com",
    "phone": "",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "David D Lin",
+   "role": "Founder / CEO / CTO / 加州登记代理人（CA SoS 2438912）= 老板（华人；台北关联公司 Inscape International）= 抄送公域（第 96 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.cacompanyregistry.com/Agent/DAVID+D+LIN/"
   }
  ],
  "grade_override": null,
@@ -50,11 +58,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Inscape Data Corporation",
-  "founded": "2004",
-  "hq": "San Jose, CA, USA",
+  "legal_name": "Inscape Data Corporation（California SoS 2438912）",
+  "founded": "2004-02-11（第 96 批 官方登记核实 2026-10-28）",
+  "hq": "2012 Hartog Court, San Jose, CA 95131",
   "size": "中小型品牌商 + 电商",
-  "other": "PoEsuperstore.com"
+  "other": "PoEsuperstore.com；第 96 批：自产户外 IP68 PoE 交换机（守界不碰）+ PoEsuperstore 室内商用 PoE 网店 → 只做室内线分销 20% / 贴标 30% 试探；老板华人 + 台湾货源 → 低概率、不加厚（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "10–19 人"
  },
  "business_lines": [
   "室外 / 工业 PoE 交换机（自有品牌）",

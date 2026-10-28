@@ -46,8 +46,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 idome.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "23 Minterne Avenue, Southall UB2 4HW（门店 32 King Street, Southall UB2 4DB）",
+  "other": "官网 idome.uk，语言 en，快照状态 ok；角色判定来源：用户表；第 96 批：2022 新注册微型 CCTV 网店 / eBay 批发，Trustpilot 2.2 分；账目 2025-10-31 期应 2026-07-31 递交（是否逾期待核）→ 分销 20% 一页纸、先款后货、不投第 2 封（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "IDOME LIMITED（Companies House 14430734）",
+  "founded": "2022-10-19（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "微型"
  },
  "business_lines": [
   "CCTV / 报警 / 门禁网店（自有标摄像机）",

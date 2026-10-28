@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Canada · Corporations Canada / Ontario 登记（OpenCorporates 摘要）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 9
+  "updated": "2026-10-28",
+  "count": 10
  },
  "rows": {
   "SA-087": {
@@ -307,6 +307,40 @@
    "notes": "KP Lavigueur 现职存疑（LinkedIn Genetec）。",
    "fetched": "2026-10-27",
    "code": "SB-399"
+  },
+  "SB-1078": {
+   "batch": 96,
+   "name": "Solimedia Technology Inc.（solimedia.net；Vancouver BC）— 实为加拿大 BC 公司（MikroTik / Grandstream 分销，Soliton 集团）",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：solimedia.net/about（「privately held Canadian corporation registered in British Columbia」；foundingDate 2011-09-01；329-470 Granville Street, Vancouver BC V6C 1V5）+ 旧站 about-us（Soliton 集团成员：新加坡 / 台湾 / 北美；分销 MikroTik / Ubiquiti / Grandstream / Atcom / RF elements；服务 1,000+ ISP / SI）+ LinkedIn 人物页（Nader Kashani = Founding Director，2012-01 起）+ D&B（Key Principal Nader Kashani）+ prospeo（1–10 人）+ Yelp（Established 2011；业主 Nader G.）",
+   "url": "https://solimedia.net/about/",
+   "number": "BC 登记号未取（BC Registry 付费 / JS）",
+   "status": "Active（官网 2026-03 更新）",
+   "incorporated": "2011-09-01",
+   "company_type": "BC corporation（私有；Soliton 集团成员）",
+   "sic": [
+    "517 网络设备在线 B2B 分销（MikroTik VAR + Grandstream + Optcore 光模块；Soliton 集团自有产品）"
+   ],
+   "address": "329-470 Granville Street, Vancouver, BC V6C 1V5",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（1–10 人）",
+   "officers": [
+    "Nader Kashani — Founding Director / 老板（邮箱未公开 → sales@）",
+    "Esfandiar K. — Sales Operations Manager",
+    "Al G Kashani — 家族成员（LinkedIn）"
+   ],
+   "psc": "Nader Kashani（推定；Soliton 集团关联）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**国别更正：美国 → 加拿大（温哥华）**；MikroTik VAR 型网店 → 分销 20%：补 MikroTik 没有的商用 PoE（STC-028GP / STC-2224GP），写老板 Nader Kashani",
+    "「Soliton 集团自有产品」= 已有亚洲货源（新加坡 / 台湾）→ 贴牌低概率，只做品牌分销一条线",
+    "发信窗口 Wed 08–10 PT；一页纸即止"
+   ],
+   "notes": "country_fix 加拿大；BC 登记号未取。",
+   "code": "SB-1078"
   }
  }
 }

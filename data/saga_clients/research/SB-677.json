@@ -29,7 +29,15 @@
    "title": "（职务待核）",
    "email": "cenk@perkotek.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（全名 / 职务未取）= 收件人，抄 info@ 点名「ürün yönetimi / satın alma」（第 96 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Selçuk Erdoğan",
+   "role": "Firma Yetkilisi（teketekhaber 企业名录 2021；登记负责人）= 仅记档（第 96 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://teketekhaber.com/firmarehberi/perkotek-teknoloji-dis-tic-a-s"
   }
  ],
  "grade_override": null,
@@ -40,8 +48,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 perkotek.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Mahmutbey Mah. Ordu Cad. Perkotek Plaza No:29, 34218 Bağcılar / İstanbul",
+  "other": "官网 perkotek.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 96 批：门禁 / 考勤终端制造商、出口 65 国 → PoE 交换机为项目配套（外采）→ 配套贴标 OEM 30% 小口数一条线，B（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "Perkotek Teknoloji Dış Tic. A.Ş.（EMIS 2016-06-01 注册；旧实体 Biometrik PERKOTEK … Ltd. Şti.；MERSİS 未取）",
+  "founded": "2016-06-01（A.Ş.）；品牌 1995（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "68–200 人；3,000+ 经销商；出口 65 国"
  },
  "business_lines": [
   "指纹 / 人脸识别考勤、闸机、道闸（自有品牌 Perkotek）"

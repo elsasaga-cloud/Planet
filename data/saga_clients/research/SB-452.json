@@ -31,7 +31,15 @@
    "title": "Director / Technical",
    "email": "paul@esp-uk.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "ESG & Sustainability Director（LinkedIn）= **误对口（不管采购）→ 不发给他**（第 96 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "ESP 产品管理（公域）",
+   "role": "Elite Security Products Limited 产品 / 采购公域（Scolmore 集团，Redditch）= 收件人；National Sales Manager Ben Mackrill 仅记档（第 96 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/02769392"
   }
  ],
  "grade_override": null,
@@ -42,8 +50,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 espuk.com，语言 ?，快照状态 timeout；角色判定来源：用户表"
+  "hq": "Unit 7 Target Park, Shawbank Road, Lakeside, Redditch B98 8YN",
+  "other": "官网 espuk.com，语言 ?，快照状态 timeout；角色判定来源：用户表；第 96 批：自有品牌 ESP CCTV 走电工批发渠道 → PoE 配套贴标 OEM 30% 理论成立，采购在 Scolmore 集团产品部 → B BIG 一页纸；研究档 KP 为 ESG 总监 = 误归属（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "ELITE SECURITY PRODUCTS LIMITED（Companies House 02769392；母公司 Scolmore (International) Limited 02513009，Tamworth）",
+  "founded": "1992-12-01（1996 更名 ESP；2011 起 Scolmore 集团）（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "集团 51–200 人"
  },
  "business_lines": [
   "安防产品品牌（自有品牌 ESP）"

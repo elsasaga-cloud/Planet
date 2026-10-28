@@ -45,7 +45,8 @@
    "title": "Project Manager",
    "email": "abdullahaydin@gmtcontrol.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Project Manager（LinkedIn；嵌入式硬件背景）= 技术口 = 收件人，抄 gmt@ 点名「ürün yönetimi」（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -56,8 +57,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 gmtcontrol.com，语言 tr-TR，快照状态 ok；角色判定来源：用户表"
+  "hq": "Çubuklu Mah. Boğaziçi Cad. Boğaziçi Plaza No:6/B, 34805 Beykoz / İstanbul",
+  "other": "官网 gmtcontrol.com，语言 tr-TR，快照状态 ok；角色判定来源：用户表；第 96 批：土耳其首家国产 PLC 制造商（GMTCNT），目录含工业通讯产品但不自产交换机 → 工业以太网 / DIN 导轨 PoE 贴 GMTCNT 标 = OEM 30% 正解（STI-054GP / STI-144GP / STI-288DGGPM）（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "GMT Endüstriyel Elektronik San. ve Tic. A.Ş.（原 Ltd. Şti.；MERSİS 未取）",
+  "founded": "2014（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "40–100 人；$8M 级（第三方）"
  },
  "business_lines": [
   "PLC / HMI / 驱动 / 电源（自有品牌 GMTCNT）",

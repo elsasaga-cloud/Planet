@@ -48,7 +48,8 @@
    "title": "Teknik Sorumlu（技术负责人）",
    "email": "hasan.basarir@nfsteknoloji.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Teknik Destek Uzmanı（官网 teknikdestek 页）= **技术支持，非采购** → 收件人加 info@ 点名「satın alma」（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -59,8 +60,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 nfsteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Aydınevler Mah. Öncel Sok. Meda Marmara Sit. No:1-13A, 34854 Maltepe / İstanbul",
+  "other": "官网 nfsteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 96 批：7 人项目型安防分销（Pelco / Hanwha / TDSI）→ 分销 20% 一页纸，商用 PoE 配项目，不加厚（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "NFS Teknoloji ve Otomasyon Sistemleri San. ve Tic. Ltd. Şti.（EMIS；MERSİS 未取）",
+  "founded": "2006-11-09（5 名工程师合伙）（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "7 人；$4M 级（第三方）"
  },
  "business_lines": [
   "安防产品分销（Hanwha / Pelco / ONIONE / SURENIX）"

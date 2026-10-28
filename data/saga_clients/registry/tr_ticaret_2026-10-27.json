@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 46
+  "count": 52
  },
  "rows": {
   "SA-086": {
@@ -1507,6 +1507,207 @@
    ],
    "notes": "side leads：ZTech / Starlink Güvenlik（土耳其本土品牌，进口方 Zerginar Dış Ticaret）、Toptan Sarf（Bahçelievler）、Securitech A.Ş.（2018，Muammer Korkmaz）—— 不在库，仅记。",
    "code": "SB-718"
+  },
+  "SB-422": {
+   "batch": 96,
+   "name": "EFB Elektronik Ltd. Şti.（efb-elektronik.com.tr；Şişli / İstanbul）— 德国 EFB-Elektronik（TKH 集团）土耳其子公司",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：perpa.tv（1988 德国创立，2007 起在土耳其；Şişli Mavi Plaza 600 m² 仓 + 360 m² 办公；结构化布线 / 数据中心制造商；2021 收购 Commend 土耳其业务）+ bthaber 2017（Genel Müdür Tuğrul Akarsu 访谈；与荷兰 TKH 合并后外拓，首选土耳其 / 俄罗斯 / 迪拜）+ LinkedIn（Tuğrul Akarsu = General Manager，Boğaziçi 大学）+ efb-elektronik.com.tr/Iletisim（Halide Edip Adıvar Mah. Sultan Sok. Mavi Plaza No:22 D:11/22A 34381 Şişli）+ efb-elektronik.de（母公司 EFB-Elektronik GmbH，Bielefeld，HRB 33008；TKH Group N.V.；330 人；自有品牌 INFRALAN）",
+   "url": "https://www.efb-elektronik.com.tr/Iletisim",
+   "number": "MERSİS / 商会号未取（母公司 Amtsgericht Bielefeld HRB 33008）",
+   "status": "Active",
+   "incorporated": "2007（土耳其）",
+   "company_type": "Ltd. Şti.（EFB-Elektronik GmbH / TKH Group 子公司）",
+   "sic": [
+    "46.52 结构化布线 / 数据中心产品分销（集团自产铜缆 / 光纤 / 配件）+ Commend 对讲"
+   ],
+   "address": "Halide Edip Adıvar Mah. Sultan Sok. Mavi Plaza No:22 D:11/22A, 34381 Şişli / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（土耳其分公司；集团 330 人 / TKH 5,500 人）",
+   "officers": [
+    "Tuğrul Akarsu — Genel Müdür（= 研究档 KP 本人）"
+   ],
+   "psc": "EFB-Elektronik GmbH → TKH Group N.V.",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**集团子公司：交换机 / PoE 贴牌决策在 Bielefeld（EFB 德国已有自有 INFRALAN 配件线）→ 贴牌不在伊斯坦布尔谈 → B BIG**",
+    "但土耳其 GM 本人是研究档 KP、且分公司做项目配套 → 分销 20% 一页纸：商用 PoE 配布线项目（本地备货 / 小批量），TRY 不报、USD 报",
+    "发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "",
+   "code": "SB-422"
+  },
+  "SB-453": {
+   "batch": 96,
+   "name": "GMT Endüstriyel Elektronik San. ve Tic. A.Ş.（gmtcontrol.com；Beykoz / İstanbul）— 土耳其首家国产 PLC 制造商 GMTCNT",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：gmtcontrol.com/en/about-us（GMT Endüstriyel Elektronik San. ve Tic. A.Ş.；2014 创立；土耳其第一家工业 PLC 制造商；100% 自有设计 / 本土生产；GMTCNT 注册商标；PLC / HMI / 变频 / 伺服 / 电源 / 工业通讯产品）+ /contact（Çubuklu Mah. Boğaziçi Cad. Boğaziçi Plaza No:6/B 34805 Beykoz；gmt@gmtcontrol.com）+ LinkedIn（51–200 人；2014；Abdullah Aydın = Project Manager）+ RocketReach（40 人；$7.9M 第三方估）+ KVKK 文本（数据控制人 A.Ş.）",
+   "url": "https://gmtcontrol.com/en/about-us/",
+   "number": "MERSİS 未取（Ltd. Şti. → A.Ş.）",
+   "status": "Active（官网 2026 更新）",
+   "incorporated": "2014",
+   "company_type": "Anonim Şirketi（原 Ltd. Şti.）",
+   "sic": [
+    "26.51 工业 PLC / HMI / 变频 / 伺服 / 工业通讯产品设计制造（GMTCNT 品牌）"
+   ],
+   "address": "Çubuklu Mah. Boğaziçi Cad. Boğaziçi Plaza No:6/B, 34805 Beykoz / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（40–100 人；$8M 级第三方估）",
+   "officers": [
+    "Abdullah Aydın — Project Manager（研究档 KP；嵌入式硬件背景）",
+    "Muhammet Yasin Aktepe — İstanbul Anadolu 区域经理",
+    "Ahmet Ulusan — 区域销售经理"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "GMT Endüstriyel Elektronik San. ve Tic. Ltd. Şti."
+   ],
+   "lines": [
+    "**自产 PLC、产品目录含「工业通讯产品」但不自产交换机 → 工业以太网 / DIN 导轨 PoE 贴 GMTCNT 标 = OEM 30% 正解**（STI-054GP / STI-144GP / STI-288DGGPM）",
+    "研究档 KP 是项目经理（技术），贴牌拍板在产品 / 采购 → 写 Abdullah Aydın + 抄 gmt@ 点名「ürün yönetimi」",
+    "发信窗口 Thu 10–12 TRT；一个问题：现有工业交换机配套来源 / 年量？"
+   ],
+   "notes": "",
+   "code": "SB-453"
+  },
+  "SB-282": {
+   "batch": 96,
+   "name": "NFS Teknoloji ve Otomasyon Sistemleri San. ve Tic. Ltd. Şti.（nfsteknoloji.com；Maltepe / İstanbul）— 安防分销（Pelco / Hanwha / TDSI）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：EMIS（Nfs Teknoloji Ve Otomasyon Sistemleri San. Ve Tic. Ltd. Sti.；2006-11-09 注册；Aydınevler Mah. Öncel Sok. No:1-13A Maltepe 34854）+ nfsteknoloji.com（面向系统集成商的安防分销；Pelco / Samsung（Hanwha）/ TDSI / Identiv 代理；5 名工程师 2006 创办）+ /teknikdestek（Hasan Başarır = Teknik Destek Uzmanı，hasan.basarir@）+ RocketReach / contactout（7 人；$4M 第三方估；旧址 Ümraniye Şerifali）+ Wise TV 2016（Sargut 受访）",
+   "url": "https://www.emis.com/php/company-profile/TR/Nfs_Teknoloji_Ve_Otomasyon_Sistemleri_San_Ve_Tic_Ltd_Sti_en_3340497.html",
+   "number": "MERSİS 未取",
+   "status": "Active（官网在线）",
+   "incorporated": "2006-11-09",
+   "company_type": "Ltd. Şti.（5 名工程师合伙）",
+   "sic": [
+    "46.52 电子安防 / 门禁产品进口分销（面向 SI 项目）"
+   ],
+   "address": "Aydınevler Mah. Öncel Sok. Meda Marmara Sit. No:1-13A, 34854 Maltepe / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（7 人）",
+   "officers": [
+    "Hasan Başarır — Teknik Destek Uzmanı（研究档 KP；**技术支持，非采购**）",
+    "「Sargut」— 2016 受访负责人（全名未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "7 人项目型安防分销 → 分销 20%：商用 PoE 配 Pelco / Hanwha 项目，一页纸",
+    "研究档 KP 是技术支持 → 收件人加 info@ 点名「satın alma」；不加厚",
+    "发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "",
+   "code": "SB-282"
+  },
+  "SB-646": {
+   "batch": 96,
+   "name": "Art Sistem Bilgisayar ve Güvenlik Teknolojileri（artsistem.com；Küçükçekmece / İstanbul）— 5,000+ 经销商的 IT / 安防批发，自有品牌 Artes",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：artsistem.com/hakkimizda（2004-09-04 创立；22+ 年；135 品牌；5,000+ 注册经销商；3 分公司 İstanbul / Ankara / Gaziantep；2006 Artes 自有品牌；2009 迁 Bahçelievler 3,000 m²）+ /baskanin-mesaji（Genel Müdür Serkan Kekik；info@artsistem.com）+ gesider.org「Ayın CEO’su」（Serkan Kekik 2004 创办 Art Sistem Bilgisayar ve Güvenlik Teknolojileri Ltd. Şti.）+ 地址页（Gültepe Mah. Florya Kavşağı E-5 Yanyol Cad. 1. Bilge Sok. No:1 Art Sistem Plaza 34295 Küçükçekmece）+ LinkedIn（51–200 人）+ signalhire（100–200 人；$10–50M 第三方估）+ 新闻（TP-Link VIGI 土耳其独家分销）+ /oem 页（OEM 摄像机 / Ruijie）",
+   "url": "https://www.artsistem.com/hakkimizda",
+   "number": "MERSİS 未取（Ltd. Şti.；LinkedIn 写 A.Ş. 待核）",
+   "status": "Active",
+   "incorporated": "2004-09-04",
+   "company_type": "Ltd. Şti.（创始人 Serkan Kekik）",
+   "sic": [
+    "46.51 / 46.52 IT 硬件 + 安防 + 网络批发（B2B pcbayi.com；自有品牌 Artes；OEM 摄像机）"
+   ],
+   "address": "Gültepe Mah. Florya Kavşağı E-5 Yanyol Cad. 1. Bilge Sok. No:1 Art Sistem Plaza, 34295 Küçükçekmece / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（100–200 人；$10–50M 第三方估）",
+   "officers": [
+    "Serkan Kekik — 创始人 / Genel Müdür（研究档 KP「Serkan K.」serkank@ = 大概率本人）"
+   ],
+   "psc": "Serkan Kekik（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**土耳其四主战场里的大户：5,000+ 经销商 + 自有品牌 Artes + 已做 OEM 摄像机 → B BIG；贴标 OEM 30% 为目标（商用 PoE 贴 Artes 标），分销 20% 为底**",
+    "研究档 KP serkank@ 与总经理 Serkan Kekik 同名同姓 → 极可能老板直联：一页纸写老板，价格直接给到位，一个问题：Artes 标 PoE 年量？",
+    "发信窗口 Thu 10–12 TRT；**升 A 候选**（待开信 / 回信）"
+   ],
+   "notes": "A 候选：若回信即 A。",
+   "code": "SB-646"
+  },
+  "SB-651": {
+   "batch": 96,
+   "name": "Biges Güvenli Hayat Teknolojileri Elektronik A.Ş.（biges.com；Şişli / İstanbul）— 1998 起的安防技术公司，自有 biges 品牌 + 研发",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：LinkedIn（1998 创立；51–200 人；Şişli；20+ 年多项技术首次引入土耳其）+ kariyer.net（Famas Plaza, Piyalepaşa Blv. Şişli；100–149 人）+ RocketReach（77 人；$23.5M 第三方估；Famas Plaza B Blok No 77）+ manuzone（Biges Güvenli Hayat Teknolojileri Elektronik Anonim Şirketi；品牌 biges）+ GitHub biges（arge@biges.com；域名已验证）+ contactout（84 人）",
+   "url": "https://tr.linkedin.com/company/biges-as",
+   "number": "MERSİS 未取",
+   "status": "Active（2026 仍在招聘）",
+   "incorporated": "1998",
+   "company_type": "Anonim Şirketi",
+   "sic": [
+    "26.30 / 46.52 安防 / 门禁 / 可视对讲 / 移动安防系统自有品牌 + 研发 + 分销"
+   ],
+   "address": "Piyalepaşa Bulvarı No:77 Famas Plaza B Blok, 34384 Şişli / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（77–149 人；$20M 级第三方估）",
+   "officers": [
+    "Erdal Gökşen — 研究档 KP（职务未取）",
+    "Erhan Özel — contactout 列示"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "自有 biges 品牌 + 自建研发（GitHub arge@）→ 系统里的 PoE 交换机大概率外采贴标 → **OEM 30%**（STC-028GP / STC-228GP / STC-2224GP 贴 biges 标）",
+    "研究档 KP 职务未取 → 发信抄 arge@ / info@ 点名「ürün yönetimi」",
+    "发信窗口 Thu 10–12 TRT；B BIG"
+   ],
+   "notes": "KP 职务待核。",
+   "code": "SB-651"
+  },
+  "SB-677": {
+   "batch": 96,
+   "name": "Perkotek Teknoloji Dış Tic. A.Ş.（perkotek.com；Bağcılar / İstanbul）— 门禁 / 考勤制造商，3,000 经销商、出口 65 国",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：perkotek.com/firma-profili（1995 起；门禁 / 考勤 / 安防 / 自动化；总部 İstanbul；3,000+ 经销与服务网点；出口 65 国多在欧洲）+ EMIS（Perkotek Teknoloji Dis Ticaret A.S.；2016-06-01 注册）+ perkotek.net/iletisim（Perkotek Plaza, Mahmutbey Mah. Ordu Cad. No:29 Bağcılar；旧实体 Biometrik PERKOTEK … Ltd. Şti.）+ D&B（PERKOTEK TEKNOLOJI DIS TICARET ANONIM SIRKETI）+ teketekhaber（Firma Yetkilisi Selçuk Erdoğan）+ exportpages（68 人；ISO9001 / CE；Manufacturer）+ LinkedIn（51–200 人）",
+   "url": "https://www.perkotek.com/firma-profili",
+   "number": "MERSİS 未取",
+   "status": "Active",
+   "incorporated": "2016-06-01（A.Ş.；品牌 1995 / Ltd. 2000）",
+   "company_type": "Anonim Şirketi（Dış Ticaret）",
+   "sic": [
+    "26.30 门禁 / 考勤 / 生物识别终端 / 旋转闸设计制造 + 出口"
+   ],
+   "address": "Mahmutbey Mah. Ordu Cad. Perkotek Plaza No:29, 34218 Bağcılar / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（68–200 人）",
+   "officers": [
+    "Selçuk Erdoğan — Firma Yetkilisi（登记负责人，2021）",
+    "「Cenk」— 研究档 KP cenk@（全名 / 职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "Biometrik PERKOTEK Personel Devam Kontrol Teknolojileri ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti."
+   ],
+   "lines": [
+    "门禁 / 考勤终端制造商、出口 65 国 → PoE 交换机是其项目配套（外采）→ **配套贴标 OEM 30% 小口数一条线**（STC-028GP / STC-228GP 贴 Perkotek 标随终端出口）",
+    "研究档 KP 全名未取 → 写 cenk@ 并抄 info@ 点名「ürün yönetimi / satın alma」",
+    "发信窗口 Thu 10–12 TRT；B"
+   ],
+   "notes": "",
+   "code": "SB-677"
   }
  }
 }

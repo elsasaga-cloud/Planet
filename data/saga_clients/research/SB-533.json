@@ -43,7 +43,8 @@
    "title": "Managing Director",
    "email": "re@eks-engel.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Geschäftsführer / Inhaber（1994 接班；HRA 8091 Siegen 代表）= 老板 —— **同行（自产工业以太网交换机）：不发**（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 eks-engel.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Schützenstr. 2, 57482 Wenden",
+  "other": "官网 eks-engel.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 96 批：光纤 / 工业以太网交换机制造商 = 同行 → 不发价格表、B 不动；2026-09-01 Michael Matthesius 接管销售 / 产品管理，2027 国际扩张 —— 若其要外采商用 PoE 补线，对口是他（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "eks Engel FOS GmbH & Co. KG（Amtsgericht Siegen HRA 8091；Komplementärin eks Engel Verwaltungs GmbH HRB 8256；LEI 529900CLZQKLQC1QA289）",
+  "founded": "1931（创立）/ 2007-01-31（KG 登记）（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "36 人；<€10M"
  },
  "business_lines": [
   "光纤系统 / 工业交换机 / MC / VC（自有品牌 eks Engel）"

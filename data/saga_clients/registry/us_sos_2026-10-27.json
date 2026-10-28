@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 55
+  "count": 59
  },
  "rows": {
   "SA-002": {
@@ -1862,6 +1862,140 @@
    ],
    "notes": "不再查。",
    "code": "SB-544"
+  },
+  "SB-391": {
+   "batch": 96,
+   "name": "Inscape Data Corporation（inscapedata.com / PoEsuperstore.com；San Jose CA）— 户外 PoE 交换机 / 无线自有品牌制造商（台湾 Inscape International 同门）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：cacompanyregistry（INSCAPE DATA CORPORATION；CA 公司号 2438912；2004-02-11 注册；Active；2012 Hartog Court, San Jose CA 95131；Agent David D Lin）+ LinkedIn（2004-02 创立；11–50 人；San Jose；户外 Gigabit PoE 交换机 / 无线 / IP 视频制造商）+ Silicon Review 2023（创始人 David D Lin = CEO / CTO）+ 2006 通讯（Inscape International Co., Ltd 台北 = 关联公司）+ Enterprise Viewpoint 2025（LinkPower 户外 PoE 自 2009）+ Manta（10–19 人；Principal David D Lin）",
+   "url": "https://www.cacompanyregistry.com/Agent/DAVID+D+LIN/",
+   "number": "California SoS 2438912",
+   "status": "Active",
+   "incorporated": "2004-02-11",
+   "company_type": "Corporation（加州；创始人持有；台北关联公司 Inscape International）",
+   "sic": [
+    "户外 IP68 PoE 交换机（LinkPower）/ 无线桥接 / IP 视频自有品牌制造 + PoEsuperstore 网店（商用 PoE 转售）"
+   ],
+   "address": "2012 Hartog Court, San Jose, CA 95131（旧址 1611 South Main Street, Milpitas）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（10–19 人）",
+   "officers": [
+    "David D Lin — Founder / CEO / CTO / 登记代理人（老板；华人姓名）",
+    "Sergio F. / Juan Moncada — 研究档 KP（PoEsuperstore 销售口）"
+   ],
+   "psc": "David D Lin（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "户外 IP68 PoE 是其自产主线（Saga 守界 IP67 不碰）；**PoEsuperstore 网店卖的室内商用 PoE 才是切口 → 分销 20% / 贴标 OEM 30% 一条线**",
+    "老板 David D Lin 华人 + 台北关联公司 = 已有亚洲货源 → 低概率；研究档 KP 是网店销售，若发只写一页纸",
+    "发信窗口 Wed 08–10 PT；不加厚"
+   ],
+   "notes": "",
+   "code": "SB-391"
+  },
+  "SB-549": {
+   "batch": 96,
+   "name": "PoEWit Technologies Inc.（poewit.com；Fort Lauderdale FL）— 前 Pakedge 创始人的 PoE 智能家居品牌",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：LinkedIn 公司页（Fort Lauderdale；11–50 人；Founded 2018；电器 / 电子制造）+ LinkedIn 人物页（Dusan Jankov = Co-Founder & Co-CEO，2018-02 起；此前 Pakedge Device & Software 联合创始人 / CTO 2003–2018）+ CEPro 2021-03（Victor Pak + Dusan Jankov + Steve Latham 自筹创办；云管理 PoE 照明 / UPS / 墙面开关；Pakedge 2016 被 Control4 收购）+ poewit.com（两位创始人 40+ 年定制电子渠道经验）+ ZoomInfo（3301 S Andrews Ave Ste 5, Fort Lauderdale FL 33316；<$5M）+ FCC 授权码 2A24W（PoEWit Technologies Inc，Dusan Jankov）+ portal.poewit.com/contactus（sales@poewit.com）",
+   "url": "https://www.linkedin.com/company/poewit",
+   "number": "FL 登记号未取（Sunbiz ✗；FCC Grantee 2A24W）",
+   "status": "Active（CEDIA 2025 展商）",
+   "incorporated": "2018-02",
+   "company_type": "Inc.（佛州；创始人自筹）",
+   "sic": [
+    "PoE 智能家居 / 商用照明、UPS、PoE 交换机自有品牌（定制安装渠道 CEDIA）"
+   ],
+   "address": "3301 S Andrews Ave, Suite 5, Fort Lauderdale, FL 33316",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人；<$5M）",
+   "officers": [
+    "Dusan Jankov — Co-Founder / Co-CEO（= 研究档 KP dusan@poewit.com 本人 = 拍板人）",
+    "Victor Pak — Co-Founder / Co-CEO（2020 起）",
+    "Steve Latham — 联合创始人（2021 报道）"
+   ],
+   "psc": "Pak + Jankov（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP 就是联合创始人 / Co-CEO**，且产品线本身就是「PoE 供电一切」→ PoE 交换机是其系统心脏、必然外采贴标 → **OEM 30% 首选**：STC-028GP / STC-228GP / STC-2224GP 贴 PoEWit 标，强调 802.3bt 大功率与中性包装",
+    "警惕：其交换机走自家云管理 → 若要求云固件 = 工厂级 ODM（Saga 不做）；先谈「标准管理型 PoE + 他们的云盒旁挂」",
+    "创始人曾把 Pakedge 卖给 Control4 = 懂代工、懂谈判 → 价格直接给到位，一个问题：现用 PoE 交换机的功率预算 / 交期？发信窗口 Wed 08–10 ET"
+   ],
+   "notes": "Sunbiz ✗；FL 登记号未取。",
+   "code": "SB-549"
+  },
+  "SB-099": {
+   "batch": 96,
+   "name": "Rocstor, Inc.（rocstor.com；San Fernando CA）— 存储 / 网络配件自有品牌，老板 = 研究档 KP",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：bizapedia（ROCSTOR, INC.；2002-03-07 成立；登记代理人 David Ghadoushi）+ SAM 镜像 opengovus（Rocstor, Inc.；12979 Arroyo St 2nd Floor, San Fernando CA 91340；S Corporation；Manufacturer of Goods；高管 David Ghadoushi / Sharon Hannon）+ rocstor.com/about（2000 年创立；存储 / 加密 / 认证）+ rocstor.com/contact（12979 Arroyo St, 2F）+ YouTube 简介（1,500+ SKU 含网络交换机 / 机柜 / 充电车）+ RocketReach（President David Ghadoushi；5 人；$6M 第三方估）+ allbiz（约 20 人；$3M 级）",
+   "url": "https://opengovus.com/sam-entity/K79NXW8ZGNK4",
+   "number": "CA 公司（SoS 号未取；SAM UEI K79NXW8ZGNK4）",
+   "status": "Active（SAM 在册）",
+   "incorporated": "2002-03-07（业务 2000）",
+   "company_type": "S Corporation（加州；创始人持有）",
+   "sic": [
+    "加密存储 / 扩展坞 / 机柜 / 网络交换机自有品牌（Rocstor）+ 政府采购（SAM）"
+   ],
+   "address": "12979 Arroyo St, 2F, San Fernando, CA 91340",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（5–20 人；$3–6M 第三方估）",
+   "officers": [
+    "David Ghadoushi — President / CEO / 登记代理人（= 研究档 KP david@rocstor.com 本人 = 老板）",
+    "Sharon Hannon — SAM 登记高管"
+   ],
+   "psc": "David Ghadoushi（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板本人就是研究档 KP**，自有品牌已含网络交换机（贴标）→ **OEM 30%**：商用 PoE 全系贴 Rocstor 标，一页纸直接写老板",
+    "SAM 在册 = 做政府单 → 会问 NDAA / TAA（我方禁词，不配合）→ 只谈商用 / 教育渠道一条线，不碰政府标",
+    "发信窗口 Wed 08–10 PT"
+   ],
+   "notes": "CA SoS 号未取（bizfile JS）。",
+   "code": "SB-099"
+  },
+  "SB-1001": {
+   "batch": 96,
+   "name": "Altelix LLC（altelix.com；Boca Raton FL）— NEMA 防水机箱 / 天线制造商",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：FL 镜像 bisprofiles / flcompanyregistry / bizprofile（ALTELIX LLC；文件号 L16000173253；FEI 81-3917803；2016-09-15 成立；Active；1201 Clint Moore Road, Boca Raton FL 33487；1 名管理人）+ altelix.com/about-us（工程师创办 / 经营；20+ 年 NEMA 机箱经验；Boca Raton 工程 / 制造 / 配送中心）+ LinkedIn（11–50 人；2016）+ Datanyze / Manta（CEO / President Peter Roth；20 人；$3.6M）+ PitchBook（20 人；PPP 贷款 $237K）+ 新闻稿（Press Contact Eric Raskin）",
+   "url": "https://bisprofiles.com/fl/altelix-l16000173253",
+   "number": "Florida L16000173253（FEI 81-3917803）",
+   "status": "Active",
+   "incorporated": "2016-09-15",
+   "company_type": "Florida Limited Liability Company",
+   "sic": [
+    "334220 防水 NEMA 机箱 / 天线 / 线缆组件设计制造 + 配套 PoE / 工业交换机转售"
+   ],
+   "address": "1201 Clint Moore Road, Boca Raton, FL 33487",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–20 人；$3.6–10M 第三方估）",
+   "officers": [
+    "Peter Roth — President / CEO（老板）",
+    "Kenneth Burgner / Ryan Sheehan — 研究档 KP（职务未取）",
+    "Eric Raskin — 新闻联络 / 销售"
+   ],
+   "psc": "Peter Roth（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "机箱厂的交换机都是外采配套（机箱内 DIN 导轨工业 PoE）→ **工业 PoE 小口数一条线**：STI-054GP / STI-144GP 配其 NEMA 机箱套装，分销 20% 或贴标 OEM 30% 皆可",
+    "研究档 KP 两位职务未取，老板 Peter Roth 邮箱未公开 → 先写研究档 KP、抄 sales@",
+    "发信窗口 Wed 08–10 ET；不加厚"
+   ],
+   "notes": "",
+   "code": "SB-1001"
   }
  }
 }

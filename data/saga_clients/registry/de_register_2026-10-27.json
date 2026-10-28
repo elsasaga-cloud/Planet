@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 29
+  "count": 33
  },
  "rows": {
   "SA-008": {
@@ -1008,6 +1008,141 @@
    ],
    "notes": "不加厚。",
    "code": "SB-369"
+  },
+  "SB-533": {
+   "batch": 96,
+   "name": "eks Engel FOS GmbH & Co. KG（eks-engel.de；Wenden）— 光纤 / 工业以太网交换机制造商 = 同行",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：eks-engel.de/en/legal-notice（Amtsgericht Siegen HRA 8091；Komplementärin eks Engel Verwaltungs GmbH HRB 8256；代表 Ralph Engel + Susanne Engel；USt DE252905712）+ wer-zu-wem（Schützenstr. 2, 57482 Wenden；36 人；<€10M；1931 创立；家族企业，Ralph Engel = GF & Inhaber）+ implisense（KG 2007-01-31 登记）+ Northdata（LEI 529900CLZQKLQC1QA289）+ eks 博客（1994 Ralph Engel 接班；工业以太网光口交换机自研）+ elektro.net 2026-10（**2026-09-01 Michael Matthesius 接管销售 / 市场 / 产品管理**；2027 起拓展国际项目业务）",
+   "url": "https://www.eks-engel.de/en/legal-notice/",
+   "number": "Amtsgericht Siegen HRA 8091（Komplementärin HRB 8256；LEI 529900CLZQKLQC1QA289）",
+   "status": "Active",
+   "incorporated": "1931（创立）/ 2007-01-31（KG 登记）",
+   "company_type": "GmbH & Co. KG（Engel 家族）",
+   "sic": [
+    "26 光纤传输 / 工业以太网交换机 / 现场总线转换器设计制造（Ex 防爆认证）"
+   ],
+   "address": "Schützenstr. 2, 57482 Wenden",
+   "accounts": "—（KG）",
+   "accounts_due": "—",
+   "size_band": "小型（36 人；<€10M）",
+   "officers": [
+    "Ralph Engel — Geschäftsführer / Inhaber（= 研究档 KP re@eks-engel.de 本人）",
+    "Susanne Engel — ppa. / HR（家族）",
+    "Guido Viedenz — ppa. Finance & Controlling",
+    "Michael Matthesius — 销售 / 市场 / 产品管理负责人（2026-09-01 起）"
+   ],
+   "psc": "Engel 家族",
+   "charges": "",
+   "prev_names": [
+    "EKS Engel GmbH & Co. KG"
+   ],
+   "lines": [
+    "**自研自产工业以太网交换机 = 同行** → 守界：不发价格表、不加厚、B 不动（研究档 KP 就是老板，更不能发）",
+    "记档价值：2026-09 新产品管理负责人 + 2027 国际扩张 = 若其日后要「商用 PoE 补线外采」，对口是 Michael Matthesius —— 等他来"
+   ],
+   "notes": "不再查。",
+   "code": "SB-533"
+  },
+  "SB-022": {
+   "batch": 96,
+   "name": "Desk Sicherheit GmbH（desk-sicherheit.de；Karlsruhe）— 微型安保 / 安防技术公司，GF = 研究档 KP",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：shop.desk-sicherheit.de/impressum（DESK SICHERHEIT GmbH；Roonstraße 25, 76137 Karlsruhe；HRB 717686 Mannheim；代表 Daniel Rupp；USt DE291361315）+ webvalid / Northdata（2013-06-28 成立 UG → 2022-12-28 改 GmbH，资本 €25,000；GF Daniel Salim Rupp 唯一；2017-02 Hamit Calik 退出；经营范围：安保服务 / 渗透测试 / IT / 安防技术 / 无人机研发）+ XING（Daniel Rupp CEO 2013-10 起；前联邦国防军）+ desk-sicherheit.de 新闻（dr@desk-sicherheit.de 公开）",
+   "url": "https://www.northdata.com/Desk%20Sicherheit%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20717686",
+   "number": "Amtsgericht Mannheim HRB 717686",
+   "status": "Active",
+   "incorporated": "2013-06-28（UG）/ 2022-12 GmbH",
+   "company_type": "GmbH（资本 €25,000；一人 GF）",
+   "sic": [
+    "80 安保服务 + 安防技术 / 反无人机 / 渗透测试 + 网店"
+   ],
+   "address": "Roonstraße 25, 76137 Karlsruhe",
+   "accounts": "—（微型）",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Daniel Salim Rupp — Geschäftsführer / 创始人（= 研究档 KP dr@ 本人）"
+   ],
+   "psc": "Daniel Salim Rupp（推定）",
+   "charges": "",
+   "prev_names": [
+    "Desk Sicherheit UG (haftungsbeschränkt)"
+   ],
+   "lines": [
+    "一人 GmbH、安保服务为主 + 网店 → 小项目集成商 25%，商用 PoE 配监控项目，一页纸即止",
+    "反无人机 / 渗透测试 = 偏军警客户 → 守界提醒：只谈商用安防",
+    "发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "",
+   "code": "SB-022"
+  },
+  "SB-828": {
+   "batch": 96,
+   "name": "LMP Lux Media Plan（luxmediaplan.de；Wiesbaden）— 广电微型相机 / 光纤组件，个体企业",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：luxmediaplan.de/contact（LMP Lux Media Plan，Sabine Lux，Platter Strasse 168a, 65193 Wiesbaden；Sabine Lux = Management，Friedel Lux = Technical Managing Director；USt DE113809490；WEEE DE81050004）+ /about-lmp（1986 起；广电 / 医疗 / 航空 / 安防定制数字视频）+ contactout（Friedel Lux = Unternehmensinhaber / technischer Leiter）+ Broadcast Bridge（Cerberus HD1200 微型 HD 相机、光纤连接）+ cylex（Sabine Lux 个体企业，1986 起）",
+   "url": "https://www.luxmediaplan.de/contact/",
+   "number": "个体企业（无 HRB；USt DE113809490）",
+   "status": "Active",
+   "incorporated": "1986",
+   "company_type": "Einzelunternehmen（Sabine Lux 名下；Friedel Lux 技术负责人）",
+   "sic": [
+    "广电微型 HD 相机 / 色彩校正 / 光纤传输组件研发（定制）"
+   ],
+   "address": "Platter Strasse 168a, 65193 Wiesbaden",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（夫妻企业）",
+   "officers": [
+    "Friedel Lux — Technical Managing Director / Unternehmensinhaber（= 研究档 KP）",
+    "Sabine Lux — Management / 登记业主"
+   ],
+   "psc": "Lux 夫妇",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "广电定制微型（非品类）→ 只剩 MC / 光口小交换机一条线，一页纸即止，不投第 2 封",
+    "发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "不加厚。",
+   "code": "SB-828"
+  },
+  "SB-840": {
+   "batch": 96,
+   "name": "INTOS ELECTRONIC AG（inline-info.com；Gießen）— InLine® 品牌所有者（4,500+ SKU IT 配件含交换机）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：inline-info.com/Rechtliches/Impressum（InLine® = INTOS ELECTRONIC AG 商标；Siemensstraße 11, D-35394 Gießen；HRB 4020 AG Gießen；USt DE813446966；Vorstand Wolfgang Isenberg；Aufsichtsrat 主席 RA Jens-Oliver Müller）+ intos.de/Hersteller/InLine（4,500+ 产品；绿白包装；线上 + 专业零售）",
+   "url": "https://www.inline-info.com/Rechtliches/Impressum/",
+   "number": "Amtsgericht Gießen HRB 4020",
+   "status": "Active",
+   "incorporated": "未取（AG）",
+   "company_type": "Aktiengesellschaft（非上市；Vorstand 一人）",
+   "sic": [
+    "4651 IT / 多媒体配件制造 + 分销（自有品牌 InLine：线缆 / KVM / 网络交换机 / PoE）"
+   ],
+   "address": "Siemensstraße 11, 35394 Gießen",
+   "accounts": "—（未取）",
+   "accounts_due": "—",
+   "size_band": "中型（4,500 SKU；人数未取）",
+   "officers": [
+    "Wolfgang Isenberg — Vorstand（拍板人）",
+    "Jens-Oliver Müller — Aufsichtsratsvorsitzender"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 InLine 已含网络交换机 / PoE（亚洲代工）→ OEM 30%**：商用 PoE 全系贴 InLine 标，写 Produktmanagement Netzwerk（公域）+ 点名 Vorstand",
+    "4,500 SKU 的配件 AG = 典型「多品类贴牌买家」，会比价 → B BIG，一页纸 + 价格直接给到位",
+    "发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "人数 / 营收未取（AG 非上市）。",
+   "code": "SB-840"
   }
  }
 }

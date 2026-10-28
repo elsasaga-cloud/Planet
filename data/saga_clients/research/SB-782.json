@@ -54,7 +54,8 @@
    "title": "Purchase",
    "email": "nigilm@simpleuk.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未取；4 人公司）= 收件人（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -65,8 +66,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 simpleuk.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Warrington（电话区号 01925）",
+  "other": "官网 simpleuk.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 96 批：微型配件商、法定实体一次未坐实 → 分销 20% 一页纸即止、不加厚（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "Simple Technology (UK) Ltd.（第三方；Companies House 同名候选 11667603 / 04652365 均为已解散他司 → 法定实体待核）",
+  "founded": "1991（第三方）（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "4 人"
  },
  "business_lines": [
   "兼容光模块 / DAC / AOC（自有品牌 T Optics）",

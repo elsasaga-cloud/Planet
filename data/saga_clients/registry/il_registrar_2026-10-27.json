@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "ישראל · רשם החברות（名錄摘要）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 3
+  "updated": "2026-10-28",
+  "count": 4
  },
  "rows": {
   "SB-696": {
@@ -106,6 +106,39 @@
    "notes": "研究档 KP「Daniel」补姓 Zaichik + CEO。",
    "fetched": "2026-10-27",
    "code": "SB-711"
+  },
+  "SB-1073": {
+   "batch": 96,
+   "name": "SensoGuard Ltd.（sensoguard.com；Shoham / Modi'in，以色列）— 地震波周界安防，国防承包商 → 守界",
+   "iso": "IL",
+   "fetched": "2026-10-28",
+   "source": "IL · 1 次检索：sensoguard.com/about（2012 年创立；以色列国防军 / 全球军方地震安防承包商；CEO Tomer Levy（前 Rafael 20 年）；COO Ronen Amitai；总部 HaHaruv St, Modi'in Region Industrial Park, Shoham）+ contactout（SensoGuard Ltd.；Product Manager Ido Oriane = 研究档 KP；11–50 人）+ Tracxn（10 人）+ Frost & Sullivan 2021（以色列国防部承包商；20+ 国）+ Justia 专利（SENSOGUARD LTD.，发明人 Tomer Levy）",
+   "url": "https://sensoguard.com/about",
+   "number": "以色列 ח.פ. 未取（israeli-companies 按名需二查，守界不追）",
+   "status": "Active",
+   "incorporated": "2012",
+   "company_type": "Ltd.（以色列）",
+   "sic": [
+    "地埋地震波周界探测系统（军方 / 国防部 / 关键基础设施）"
+   ],
+   "address": "1 HaHaruv St, Modi'in Region Industrial Park, Shoham, Israel",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（10–13 人；$6M 级第三方估）",
+   "officers": [
+    "Tomer Levy — CEO / CTO / 联合创始人（研究档 KP tomer@）",
+    "Ronen Amitai — COO / 联合创始人",
+    "Ido Oriane — Product Manager（研究档 KP ido@）"
+   ],
+   "psc": "创始人（未取）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**国别更正：美国 → 以色列**；主业 = 军方 / 国防部地震安防 → **守界（军工 PASS）→ B 不动、不发**",
+    "记档价值：知道它为什么不回信（国防承包商不会向无认证小贸易商采购）"
+   ],
+   "notes": "country_fix 以色列；不再查。",
+   "code": "SB-1073"
   }
  }
 }

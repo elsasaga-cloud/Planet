@@ -43,7 +43,8 @@
    "title": "（表内联系人）",
    "email": "a.tugrul@efb-elektronik.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Genel Müdür（EFB Elektronik Türkiye；bthaber 2017 访谈 / LinkedIn）= **土耳其分公司拍板人 = 研究档 KP 本人**；贴牌归 Bielefeld 总部（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 efb-elektronik.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Halide Edip Adıvar Mah. Sultan Sok. Mavi Plaza No:22 D:11/22A, 34381 Şişli / İstanbul",
+  "other": "官网 efb-elektronik.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案；第 96 批：集团子公司，交换机贴牌决策在德国 → B BIG；但 GM 本人是 KP 且做项目配套 → 分销 20% 一页纸（USD 报价、小批量本地备货）（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "EFB Elektronik Ltd. Şti.（EFB-Elektronik GmbH, Bielefeld HRB 33008 → TKH Group N.V. 子公司；MERSİS 未取）",
+  "founded": "2007（土耳其）；集团 1988（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "小型（分公司）；集团 330 人"
  },
  "business_lines": [
   "布线 / 传输网络 / 安防产品（自有品牌 EFB）"

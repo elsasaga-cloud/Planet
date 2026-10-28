@@ -37,7 +37,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Wolfgang Isenberg",
+   "role": "Vorstand（INTOS ELECTRONIC AG，HRB 4020 Gießen；Impressum）= 拍板人（邮箱未公开 → service@inline-info.com 点名 Produktmanagement Netzwerk）（第 96 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.inline-info.com/Rechtliches/Impressum/"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -46,8 +54,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 inline-info.com，语言 de-DE，快照状态 ok；角色判定来源：用户表"
+  "hq": "Siemensstraße 11, 35394 Gießen",
+  "other": "官网 inline-info.com，语言 de-DE，快照状态 ok；角色判定来源：用户表；第 96 批：自有品牌 InLine 已含网络交换机 / PoE（亚洲代工）→ OEM 30%，B BIG；多品类贴牌买家会比价 → 价格直接给到位（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "INTOS ELECTRONIC AG（Amtsgericht Gießen HRB 4020；InLine® 为其商标）",
+  "founded": "未取（AG）（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "中型（4,500+ SKU；人数未取）"
  },
  "business_lines": [
   "IT / 多媒体配件（自有品牌 InLine）"

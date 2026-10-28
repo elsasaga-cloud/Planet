@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 25
+  "count": 30
  },
  "rows": {
   "SA-023": {
@@ -844,6 +844,178 @@
    ],
    "notes": "GROUP 成立日按 KRS 0000947226 号段推定 2021–2022；未取精确日。",
    "code": "SB-1085"
+  },
+  "SB-420": {
+   "batch": 96,
+   "name": "CDR Prosta Spółka Akcyjna（cdr.pl；Żory）— 电子 / 网络批发，自有 CDR 标 PoE 配件；ATTE 另有其人",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：cdr.pl/kontakt（CDR Prosta Spółka Akcyjna；ul. Produkcyjna 14, 44-240 Żory；NIP 651-17-17-587；KRS 0001049574；REGON 360676767）+ rejestr.io/krs/1049574（P.S.A.；2023-08-01 登记；资本 10.1 tys zł；最近变更 2026-05-08；PKD 46 批发）+ bizraport（前身 CDR Sp. z o.o. Sp.k. KRS 0000541514，同一 NIP；资产 57 mln zł 量级）+ 网店（ATTE / CDR / MikroTik / OEM / TP-Link / Ubiquiti PoE 分类）；**ATTE 是独立公司**：ATTE Power Sp. z o.o. KRS 0001013262（前 KRS 0000780402；NIP 6812075764；Myślenice；营收 12.6 mln zł；「波兰第一家 CCTV PoE 交换机制造商」）",
+   "url": "https://rejestr.io/krs/1049574/cdr",
+   "number": "KRS 0001049574（NIP 6511717587；REGON 360676767；前身 KRS 0000541514）",
+   "status": "Aktywna",
+   "incorporated": "2023-08-01（P.S.A.；前身 Sp. z o.o. Sp.k. 2015）",
+   "company_type": "Prosta spółka akcyjna（简式股份公司）",
+   "sic": [
+    "46.52.Z 电子 / 电信设备批发（CCTV / 网络 / PoE 配件；自有 CDR 标 PoE 适配器 + ATTE 等波兰品牌分销）"
+   ],
+   "address": "ul. Produkcyjna 14, 44-240 Żory",
+   "accounts": "—（KRS 财报未展开）",
+   "accounts_due": "—",
+   "size_band": "小型（前身资产 57 mln zł 量级，待核）",
+   "officers": [
+    "董事会未取（rejestr.io 摘要未展开）",
+    "Magdalena Milej — 研究档 KP（销售）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "CDR Sp. z o.o. Sp.k.（KRS 0000541514）"
+   ],
+   "lines": [
+    "**研究档写「关联 ATTE」有误**：ATTE Power 是独立的波兰 PoE 交换机制造商（Myślenice，同行、不在库），CDR 只是其分销商 → CDR = 分销 20%",
+    "已有自有 CDR 标 PoE 适配器 → 贴标 OEM 30% 试探一句：商用 PoE 交换机贴 CDR 标",
+    "发信窗口 Thu 12–14 CET；写 Magdalena Milej，一页纸"
+   ],
+   "notes": "ATTE Power = 侧线同行（不入库）。",
+   "code": "SB-420"
+  },
+  "SB-1021": {
+   "batch": 96,
+   "name": "Cyberbajt Tadeusz Nowak（cyberbajt.pl；Zamość）— 波兰最早一批 MikroTik 分销商，个体工商户",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：cyberbajt.pl/page/29（Cyberbajt Tadeusz Nowak；ul. Młyńska 27, 22-400 Zamość；NIP 9221003243；REGON 950190918）+ CEIDG 镜像 aleo / panoramafirm（PKD 46.51.Z；个体工商户；Zamość）+ cyberbajt.pl/en（最早的 MikroTik 分销商之一；自有天线 + CBF 光纤品牌；B2B 网店）+ 研究档（Michał Błaszczyk = 销售）",
+   "url": "https://www.cyberbajt.pl/page/29",
+   "number": "CEIDG（NIP 9221003243；REGON 950190918）",
+   "status": "Aktywna",
+   "incorporated": "未取（CEIDG 起始日未展开）",
+   "company_type": "Jednoosobowa działalność gospodarcza（个体工商户 Tadeusz Nowak）",
+   "sic": [
+    "46.51.Z 网络设备批发（MikroTik / Ubiquiti / 自有天线 / CBF 光纤）"
+   ],
+   "address": "ul. Młyńska 27, 22-400 Zamość（研究档写 Płock 有误）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Tadeusz Nowak — 业主",
+    "Michał Błaszczyk — 销售（研究档 KP）"
+   ],
+   "psc": "Tadeusz Nowak",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**地址更正：Płock → Zamość**；MikroTik 池 → 分销 20%：补 MikroTik 没有的商用 PoE（STC-028GP / STC-228GP / STC-2224GP）",
+    "已有自有天线 / CBF 光纤品牌 → 贴标 OEM 30% 一句试探",
+    "发信窗口 Thu 12–14 CET；写 Michał Błaszczyk"
+   ],
+   "notes": "",
+   "code": "SB-1021"
+  },
+  "SB-178": {
+   "batch": 96,
+   "name": "Allnet Sp. z o.o. Sp.k.（wisp.pl；Bełk k. Rybnika）— MikroTik 增值分销 + Ubiquiti 经销，家族企业",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：wisp.pl/info（Allnet Sp. z o.o. Sp.k.；ul. Dębowa 2A, 44-237 Bełk；NIP 6423156422；KRS 0000379258；REGON 241888846）+ bizraport（KRS 0000379258 Gliwice X Wydział；2011-02-28 登记；营收 32.1 mln zł / 资产 11 mln zł 量级；复合体 Allnet Sp. z o.o.）+ aleo（股东 Artur Łukasz Mikołajewicz + Marcelina Anna Mikołajewicz；5–10 人；网店 2003 起）+ ui.com 经销商页（Bełk）",
+   "url": "https://wisp.pl/info/",
+   "number": "KRS 0000379258（NIP 6423156422；REGON 241888846）",
+   "status": "Aktywna",
+   "incorporated": "2011-02-28（网店 2003 起）",
+   "company_type": "Sp. z o.o. Sp.k.（Mikołajewicz 家族）",
+   "sic": [
+    "46.52.Z 无线 / 网络设备批发（MikroTik VAD + Ubiquiti + 配件）"
+   ],
+   "address": "ul. Dębowa 2A, 44-237 Bełk（Czerwionka-Leszczyny，k. Rybnika）",
+   "accounts": "营收 ≈ 32 mln zł 量级（第三方，待核）",
+   "accounts_due": "—",
+   "size_band": "小型（5–10 人；营收偏大 = 走量批发）",
+   "officers": [
+    "Artur Łukasz Mikołajewicz — 股东 / 实际负责人（研究档 KP）",
+    "Marcelina Anna Mikołajewicz — 股东"
+   ],
+   "psc": "Mikołajewicz 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "5–10 人做 32 mln zł = 纯走量 MikroTik / Ubiquiti 批发 → 分销 20%：只给价格到位的商用 PoE 一页纸（STC-028GP $28 / STC-2224GP $86 量级），不加厚",
+    "发信窗口 Thu 12–14 CET；写 Artur Mikołajewicz"
+   ],
+   "notes": "",
+   "code": "SB-178"
+  },
+  "SB-428": {
+   "batch": 96,
+   "name": "INTER-COMP.PL KOWALSKI sp. z o.o.（media-konwertery.pl；Koronowo）— 2025 新公司化的父子网店",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：media-konwertery.pl Dane rejestrowe（INTER-COMP.PL KOWALSKI sp. z o.o.；ul. Dworcowa 36a/9, 86-010 Koronowo；KRS 0001157117；NIP 5543033437；REGON 540999936）+ rejestr.io/krs/1157117（2025-02-25 登记；资本 50 tys zł；Prezes Marek Stefan Kowalski；股东 Tomasz Kowalski 450 udziałów（2025-05-22 起）+ Marek 50）+ imsig（PKD 47.41.Z）+ 前身 CEIDG Inter-Comp.Pl Marek Kowalski（NIP 9670386414；2003 起）",
+   "url": "https://rejestr.io/krs/1157117/inter-comp-pl-kowalski",
+   "number": "KRS 0001157117（NIP 5543033437；REGON 540999936）",
+   "status": "Aktywna",
+   "incorporated": "2025-02-25（前身 CEIDG 2003）",
+   "company_type": "Sp. z o.o.（资本 50 tys zł；Kowalski 父子）",
+   "sic": [
+    "47.41.Z 网络设备 / 光纤收发器网店零售"
+   ],
+   "address": "ul. Dworcowa 36a/9, 86-010 Koronowo",
+   "accounts": "—（新公司）",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Marek Stefan Kowalski — Prezes Zarządu（研究档 KP；10%）",
+    "Tomasz Kowalski — 股东 90%（2025-05-22 起 = 接班人）"
+   ],
+   "psc": "Tomasz Kowalski（90%）",
+   "charges": "",
+   "prev_names": [
+    "Inter-Comp.Pl Marek Kowalski（CEIDG）"
+   ],
+   "lines": [
+    "微型网店，MC / 光口交换机一条线 → 分销 20% 一页纸即止（STC-110XGE 等光口型号）",
+    "2025 起儿子持股 90% → 收件人写 Marek、抄公域，让接班人看到",
+    "发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "不加厚。",
+   "code": "SB-428"
+  },
+  "SB-445": {
+   "batch": 96,
+   "name": "A-LAN TECHNOLOGIE POPIOŁEK, PIŁAT SPÓŁKA KOMANDYTOWA（a-lan.pl / aicom；Kraków）— 波兰综合布线龙头，2025 营收 86.7 mln zł",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次抓取 rejestr.io/krs/654397（KRS 0000654397；NIP 6782913975；REGON 356808516；Dobrego Pasterza 36A, 31-416 Kraków；sp. k. 2016-12-22 登记（前身更早）；数据截至 2026-09-30 第 37 次登记；komplementariusze Jerzy Piłat + Adam Popiołek（2026-09-30 起均可单独代表）；komandytariusz Iwona Popiołek（2020-02-19 起）；受益所有人含 Adam Popiołek；VAT czynny；**2025 财报：营收 86.7 mln zł / 资产 61.5 mln / 净利 8.9 mln**；主业批发 46 + 生产 26/27；自述波兰布线系统市场领导者、全国巡回会议）",
+   "url": "https://rejestr.io/krs/654397/aicom",
+   "number": "KRS 0000654397（NIP 6782913975；REGON 356808516）",
+   "status": "Aktywna（2026-09-30 更名 / 代表权变更）",
+   "incorporated": "2016-12-22（sp. k.）",
+   "company_type": "Spółka komandytowa（Popiołek / Piłat 家族）",
+   "sic": [
+    "46.52.Z 布线系统 / 网络设备批发 + 26/27 生产（自有品牌 A-LANTEC 等）"
+   ],
+   "address": "ul. Dobrego Pasterza 36A, 31-416 Kraków",
+   "accounts": "2025：营收 86.7 mln zł / 净利 8.9 mln / 资产 61.5 mln（rejestr.io 摘要）",
+   "accounts_due": "—",
+   "size_band": "中型（布线龙头）",
+   "officers": [
+    "Adam Popiołek — komplementariusz / 受益所有人（2026-09-30 起单独代表）",
+    "Jerzy Piłat — komplementariusz（单独代表）",
+    "Iwona Popiołek — komandytariusz",
+    "Marcin Buczak — 研究档 KP（marcin.buczak@a-lan.pl）"
+   ],
+   "psc": "Adam Popiołek + Jerzy Piłat",
+   "charges": "",
+   "prev_names": [
+    "A-LAN Technologie Sp. z o.o. Sp.k.（第 95 批 SB-906 并线至此）"
+   ],
+   "lines": [
+    "**补项完成（第 95 批遗留）**：自有品牌布线龙头、2025 净利 8.9 mln zł → **B BIG；分销 20% 起、贴标 OEM 30% 为目标**（商用 PoE 贴 A-LANTEC 标，配其布线项目）",
+    "2026-09-30 刚变更合伙人 / 代表权 → 近期决策层在动，写 Marcin Buczak 一页纸 + 点名产品管理，不提财报",
+    "发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "SB-906 已并线至此。",
+   "code": "SB-445"
   }
  }
 }

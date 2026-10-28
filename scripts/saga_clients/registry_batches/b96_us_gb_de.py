@@ -1,0 +1,165 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""第 96 批 · US 6 户 + GB 4 户 + DE 4 户（T29-U90，2026-10-28）：web_search depth 1 各一次（一户一查，1 次未命中即停）。可重复运行（put 按 code 合并）。
+选户 = 规程 §3「第 96 批」名单（B 档未建底数，按「自有 logo」+「打开次数」排序）。"""
+import os, sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
+from registry_store import put
+F = '2026-10-28'
+B = 96
+CH = 'https://find-and-update.company-information.service.gov.uk/company/'
+
+# ---------------- US 6（其中 2 户国别更正）----------------
+put('SB-1078', key='ca', batch=B, name='Solimedia Technology Inc.（solimedia.net；Vancouver BC）— 实为加拿大 BC 公司（MikroTik / Grandstream 分销，Soliton 集团）', iso='CA', fetched=F,
+    source='CA · 1 次检索：solimedia.net/about（「privately held Canadian corporation registered in British Columbia」；foundingDate 2011-09-01；329-470 Granville Street, Vancouver BC V6C 1V5）+ 旧站 about-us（Soliton 集团成员：新加坡 / 台湾 / 北美；分销 MikroTik / Ubiquiti / Grandstream / Atcom / RF elements；服务 1,000+ ISP / SI）+ LinkedIn 人物页（Nader Kashani = Founding Director，2012-01 起）+ D&B（Key Principal Nader Kashani）+ prospeo（1–10 人）+ Yelp（Established 2011；业主 Nader G.）',
+    url='https://solimedia.net/about/',
+    number='BC 登记号未取（BC Registry 付费 / JS）', status='Active（官网 2026-03 更新）', incorporated='2011-09-01', company_type='BC corporation（私有；Soliton 集团成员）',
+    sic=['517 网络设备在线 B2B 分销（MikroTik VAR + Grandstream + Optcore 光模块；Soliton 集团自有产品）'],
+    address='329-470 Granville Street, Vancouver, BC V6C 1V5', accounts='—', accounts_due='—', size_band='微型（1–10 人）',
+    officers=['Nader Kashani — Founding Director / 老板（邮箱未公开 → sales@）', 'Esfandiar K. — Sales Operations Manager', 'Al G Kashani — 家族成员（LinkedIn）'], psc='Nader Kashani（推定；Soliton 集团关联）', charges='', prev_names=[],
+    lines=['**国别更正：美国 → 加拿大（温哥华）**；MikroTik VAR 型网店 → 分销 20%：补 MikroTik 没有的商用 PoE（STC-028GP / STC-2224GP），写老板 Nader Kashani',
+           '「Soliton 集团自有产品」= 已有亚洲货源（新加坡 / 台湾）→ 贴牌低概率，只做品牌分销一条线',
+           '发信窗口 Wed 08–10 PT；一页纸即止'],
+    notes='country_fix 加拿大；BC 登记号未取。')
+put('SB-391', key='us', batch=B, name='Inscape Data Corporation（inscapedata.com / PoEsuperstore.com；San Jose CA）— 户外 PoE 交换机 / 无线自有品牌制造商（台湾 Inscape International 同门）', iso='US', fetched=F,
+    source='US · 1 次检索：cacompanyregistry（INSCAPE DATA CORPORATION；CA 公司号 2438912；2004-02-11 注册；Active；2012 Hartog Court, San Jose CA 95131；Agent David D Lin）+ LinkedIn（2004-02 创立；11–50 人；San Jose；户外 Gigabit PoE 交换机 / 无线 / IP 视频制造商）+ Silicon Review 2023（创始人 David D Lin = CEO / CTO）+ 2006 通讯（Inscape International Co., Ltd 台北 = 关联公司）+ Enterprise Viewpoint 2025（LinkPower 户外 PoE 自 2009）+ Manta（10–19 人；Principal David D Lin）',
+    url='https://www.cacompanyregistry.com/Agent/DAVID+D+LIN/',
+    number='California SoS 2438912', status='Active', incorporated='2004-02-11', company_type='Corporation（加州；创始人持有；台北关联公司 Inscape International）',
+    sic=['户外 IP68 PoE 交换机（LinkPower）/ 无线桥接 / IP 视频自有品牌制造 + PoEsuperstore 网店（商用 PoE 转售）'],
+    address='2012 Hartog Court, San Jose, CA 95131（旧址 1611 South Main Street, Milpitas）', accounts='—', accounts_due='—', size_band='小型（10–19 人）',
+    officers=['David D Lin — Founder / CEO / CTO / 登记代理人（老板；华人姓名）', 'Sergio F. / Juan Moncada — 研究档 KP（PoEsuperstore 销售口）'], psc='David D Lin（推定）', charges='', prev_names=[],
+    lines=['户外 IP68 PoE 是其自产主线（Saga 守界 IP67 不碰）；**PoEsuperstore 网店卖的室内商用 PoE 才是切口 → 分销 20% / 贴标 OEM 30% 一条线**',
+           '老板 David D Lin 华人 + 台北关联公司 = 已有亚洲货源 → 低概率；研究档 KP 是网店销售，若发只写一页纸',
+           '发信窗口 Wed 08–10 PT；不加厚'],
+    notes='')
+put('SB-549', key='us', batch=B, name='PoEWit Technologies Inc.（poewit.com；Fort Lauderdale FL）— 前 Pakedge 创始人的 PoE 智能家居品牌', iso='US', fetched=F,
+    source='US · 1 次检索：LinkedIn 公司页（Fort Lauderdale；11–50 人；Founded 2018；电器 / 电子制造）+ LinkedIn 人物页（Dusan Jankov = Co-Founder & Co-CEO，2018-02 起；此前 Pakedge Device & Software 联合创始人 / CTO 2003–2018）+ CEPro 2021-03（Victor Pak + Dusan Jankov + Steve Latham 自筹创办；云管理 PoE 照明 / UPS / 墙面开关；Pakedge 2016 被 Control4 收购）+ poewit.com（两位创始人 40+ 年定制电子渠道经验）+ ZoomInfo（3301 S Andrews Ave Ste 5, Fort Lauderdale FL 33316；<$5M）+ FCC 授权码 2A24W（PoEWit Technologies Inc，Dusan Jankov）+ portal.poewit.com/contactus（sales@poewit.com）',
+    url='https://www.linkedin.com/company/poewit',
+    number='FL 登记号未取（Sunbiz ✗；FCC Grantee 2A24W）', status='Active（CEDIA 2025 展商）', incorporated='2018-02', company_type='Inc.（佛州；创始人自筹）',
+    sic=['PoE 智能家居 / 商用照明、UPS、PoE 交换机自有品牌（定制安装渠道 CEDIA）'],
+    address='3301 S Andrews Ave, Suite 5, Fort Lauderdale, FL 33316', accounts='—', accounts_due='—', size_band='小型（11–50 人；<$5M）',
+    officers=['Dusan Jankov — Co-Founder / Co-CEO（= 研究档 KP dusan@poewit.com 本人 = 拍板人）', 'Victor Pak — Co-Founder / Co-CEO（2020 起）', 'Steve Latham — 联合创始人（2021 报道）'], psc='Pak + Jankov（推定）', charges='', prev_names=[],
+    lines=['**研究档 KP 就是联合创始人 / Co-CEO**，且产品线本身就是「PoE 供电一切」→ PoE 交换机是其系统心脏、必然外采贴标 → **OEM 30% 首选**：STC-028GP / STC-228GP / STC-2224GP 贴 PoEWit 标，强调 802.3bt 大功率与中性包装',
+           '警惕：其交换机走自家云管理 → 若要求云固件 = 工厂级 ODM（Saga 不做）；先谈「标准管理型 PoE + 他们的云盒旁挂」',
+           '创始人曾把 Pakedge 卖给 Control4 = 懂代工、懂谈判 → 价格直接给到位，一个问题：现用 PoE 交换机的功率预算 / 交期？发信窗口 Wed 08–10 ET'],
+    notes='Sunbiz ✗；FL 登记号未取。')
+put('SB-099', key='us', batch=B, name='Rocstor, Inc.（rocstor.com；San Fernando CA）— 存储 / 网络配件自有品牌，老板 = 研究档 KP', iso='US', fetched=F,
+    source='US · 1 次检索：bizapedia（ROCSTOR, INC.；2002-03-07 成立；登记代理人 David Ghadoushi）+ SAM 镜像 opengovus（Rocstor, Inc.；12979 Arroyo St 2nd Floor, San Fernando CA 91340；S Corporation；Manufacturer of Goods；高管 David Ghadoushi / Sharon Hannon）+ rocstor.com/about（2000 年创立；存储 / 加密 / 认证）+ rocstor.com/contact（12979 Arroyo St, 2F）+ YouTube 简介（1,500+ SKU 含网络交换机 / 机柜 / 充电车）+ RocketReach（President David Ghadoushi；5 人；$6M 第三方估）+ allbiz（约 20 人；$3M 级）',
+    url='https://opengovus.com/sam-entity/K79NXW8ZGNK4',
+    number='CA 公司（SoS 号未取；SAM UEI K79NXW8ZGNK4）', status='Active（SAM 在册）', incorporated='2002-03-07（业务 2000）', company_type='S Corporation（加州；创始人持有）',
+    sic=['加密存储 / 扩展坞 / 机柜 / 网络交换机自有品牌（Rocstor）+ 政府采购（SAM）'],
+    address='12979 Arroyo St, 2F, San Fernando, CA 91340', accounts='—', accounts_due='—', size_band='小型（5–20 人；$3–6M 第三方估）',
+    officers=['David Ghadoushi — President / CEO / 登记代理人（= 研究档 KP david@rocstor.com 本人 = 老板）', 'Sharon Hannon — SAM 登记高管'], psc='David Ghadoushi（推定）', charges='', prev_names=[],
+    lines=['**老板本人就是研究档 KP**，自有品牌已含网络交换机（贴标）→ **OEM 30%**：商用 PoE 全系贴 Rocstor 标，一页纸直接写老板',
+           'SAM 在册 = 做政府单 → 会问 NDAA / TAA（我方禁词，不配合）→ 只谈商用 / 教育渠道一条线，不碰政府标',
+           '发信窗口 Wed 08–10 PT'],
+    notes='CA SoS 号未取（bizfile JS）。')
+put('SB-1001', key='us', batch=B, name='Altelix LLC（altelix.com；Boca Raton FL）— NEMA 防水机箱 / 天线制造商', iso='US', fetched=F,
+    source='US · 1 次检索：FL 镜像 bisprofiles / flcompanyregistry / bizprofile（ALTELIX LLC；文件号 L16000173253；FEI 81-3917803；2016-09-15 成立；Active；1201 Clint Moore Road, Boca Raton FL 33487；1 名管理人）+ altelix.com/about-us（工程师创办 / 经营；20+ 年 NEMA 机箱经验；Boca Raton 工程 / 制造 / 配送中心）+ LinkedIn（11–50 人；2016）+ Datanyze / Manta（CEO / President Peter Roth；20 人；$3.6M）+ PitchBook（20 人；PPP 贷款 $237K）+ 新闻稿（Press Contact Eric Raskin）',
+    url='https://bisprofiles.com/fl/altelix-l16000173253',
+    number='Florida L16000173253（FEI 81-3917803）', status='Active', incorporated='2016-09-15', company_type='Florida Limited Liability Company',
+    sic=['334220 防水 NEMA 机箱 / 天线 / 线缆组件设计制造 + 配套 PoE / 工业交换机转售'],
+    address='1201 Clint Moore Road, Boca Raton, FL 33487', accounts='—', accounts_due='—', size_band='小型（11–20 人；$3.6–10M 第三方估）',
+    officers=['Peter Roth — President / CEO（老板）', 'Kenneth Burgner / Ryan Sheehan — 研究档 KP（职务未取）', 'Eric Raskin — 新闻联络 / 销售'], psc='Peter Roth（推定）', charges='', prev_names=[],
+    lines=['机箱厂的交换机都是外采配套（机箱内 DIN 导轨工业 PoE）→ **工业 PoE 小口数一条线**：STI-054GP / STI-144GP 配其 NEMA 机箱套装，分销 20% 或贴标 OEM 30% 皆可',
+           '研究档 KP 两位职务未取，老板 Peter Roth 邮箱未公开 → 先写研究档 KP、抄 sales@',
+           '发信窗口 Wed 08–10 ET；不加厚'],
+    notes='')
+put('SB-1073', key='il', batch=B, name='SensoGuard Ltd.（sensoguard.com；Shoham / Modi\'in，以色列）— 地震波周界安防，国防承包商 → 守界', iso='IL', fetched=F,
+    source='IL · 1 次检索：sensoguard.com/about（2012 年创立；以色列国防军 / 全球军方地震安防承包商；CEO Tomer Levy（前 Rafael 20 年）；COO Ronen Amitai；总部 HaHaruv St, Modi\'in Region Industrial Park, Shoham）+ contactout（SensoGuard Ltd.；Product Manager Ido Oriane = 研究档 KP；11–50 人）+ Tracxn（10 人）+ Frost & Sullivan 2021（以色列国防部承包商；20+ 国）+ Justia 专利（SENSOGUARD LTD.，发明人 Tomer Levy）',
+    url='https://sensoguard.com/about',
+    number='以色列 ח.פ. 未取（israeli-companies 按名需二查，守界不追）', status='Active', incorporated='2012', company_type='Ltd.（以色列）',
+    sic=['地埋地震波周界探测系统（军方 / 国防部 / 关键基础设施）'],
+    address='1 HaHaruv St, Modi\'in Region Industrial Park, Shoham, Israel', accounts='—', accounts_due='—', size_band='小型（10–13 人；$6M 级第三方估）',
+    officers=['Tomer Levy — CEO / CTO / 联合创始人（研究档 KP tomer@）', 'Ronen Amitai — COO / 联合创始人', 'Ido Oriane — Product Manager（研究档 KP ido@）'], psc='创始人（未取）', charges='', prev_names=[],
+    lines=['**国别更正：美国 → 以色列**；主业 = 军方 / 国防部地震安防 → **守界（军工 PASS）→ B 不动、不发**',
+           '记档价值：知道它为什么不回信（国防承包商不会向无认证小贸易商采购）'],
+    notes='country_fix 以色列；不再查。')
+
+# ---------------- GB 4 ----------------
+put('SB-091', key='gb', batch=B, name='Borer Data Systems Ltd（fingerprint-access-control.com / borer.co.uk；Winnersh, Berkshire）— PoE 生物识别门禁制造商', iso='GB', fetched=F,
+    source='GB · 1 次检索：fingerprint-access-control.com（Borer Data Systems Ltd；英国 PoE 生物识别门禁开发制造商，40+ 年；4 Winnersh Fields, Gazelle Close, Winnersh RG41 5QS；info@borer.co.uk）+ borer.co.uk（门禁读头 / 控制器 / 软件制造）；Companies House 号本次未取（搜索结果被同名泛词淹没，1 次即停）',
+    url='https://www.fingerprint-access-control.com/',
+    number='Companies House 号未取（下轮可按「BORER DATA SYSTEMS LIMITED」直查）', status='Active（官网 2026-07 更新）', incorporated='≈1980s（自述 40+ 年）', company_type='Private limited company（推定）',
+    sic=['PoE 供电生物识别 / 智能卡门禁系统设计制造（IP 架构，PoE 300 m）'],
+    address='4 Winnersh Fields, Gazelle Close, Winnersh, Berkshire RG41 5QS', accounts='—（未取）', accounts_due='—', size_band='小型（未取）',
+    officers=['未取（Companies House 待查）'], psc='未取', charges='', prev_names=[],
+    lines=['门禁系统全靠 PoE 供电 → 项目里必配 PoE 交换机（外采）→ **配套一条线：商用 PoE（STC-028GP / STC-2224GP）+ 工业小口数，分销 20% 或贴标 OEM 30%**',
+           '域名 fingerprint-access-control.com 是其 SEO 站，正主 = Borer Data Systems → 写 info@borer.co.uk 点名「产品经理」',
+           '发信窗口 Thu 12–14 GMT；一页纸即止'],
+    notes='CH 号待补（一次直查）。')
+put('SB-452', key='gb', batch=B, name='ELITE SECURITY PRODUCTS LIMITED（espuk.com；Redditch）— ESP，Scolmore 集团（2011 起）', iso='GB', fetched=F,
+    source='GB · 1 次检索：Companies House 02769392（1992-12-01 注册；Unit 7 Target Park, Shawbank Road, Lakeside, Redditch B98 8YN；Active；18 officers / 15 resignations）+ espuk.com/about（2011 起 Scolmore 集团成员，独立运营；消防 / 安防产品）+ Electricals Informed（Scolmore International 与时任 MD Andy Clements 合资收购 ESP）+ Professional Electrician 2022（1992 Electronics Line UK → 1996 ESP；2009 迁 Redditch）+ LinkedIn（**Paul Panini = ESG & Sustainability Director**；National Sales Manager Ben Mackrill）+ Scolmore International Limited 02513009（Tamworth；51–200 人；1989）',
+    url=CH + '02769392',
+    number='Companies House 02769392（母公司 Scolmore (International) Limited 02513009）', status='Active', incorporated='1992-12-01', company_type='Private limited company（Scolmore 集团）',
+    sic=['46 消防 / 安防产品（CCTV / 门禁 / 可视对讲 / 应急照明）设计分销（自有品牌 ESP，面向电工批发渠道）'],
+    address='Unit 7 Target Park, Shawbank Road, Lakeside, Redditch, Worcestershire B98 8YN', accounts='—（集团合并）', accounts_due='—', size_band='中型（集团 51–200 人）',
+    officers=['Paul Panini — ESG & Sustainability Director（= 研究档 KP；**不管采购**）', 'Andy Clements — Managing Director（2011 合资时；现任待核）', 'Ben Mackrill — National Sales Manager'], psc='Scolmore (International) Limited', charges='', prev_names=['Electronics Line UK（1992–1996）'],
+    lines=['自有品牌 ESP CCTV 走电工批发渠道 → **PoE 交换机配套贴标 OEM 30% 在理论上成立，但采购在 Scolmore 集团产品部（Tamworth）→ B BIG，一页纸给 ESP 产品经理**',
+           '**研究档 KP Paul Panini 是 ESG / 可持续发展总监 = 误对口**，不发给他；收件人改 ESP 产品 / 采购公域',
+           '发信窗口 Thu 12–14 GMT'],
+    notes='')
+put('SB-763', key='gb', batch=B, name='IDOME LIMITED（idome.uk；Southall, London）— 微型 CCTV 网店 / eBay 批发', iso='GB', fetched=F,
+    source='GB · 1 次检索：Companies House 14430734（IDOME LIMITED；2022-10-19 注册；23 Minterne Avenue, Southall UB2 4HW；Active；账目至 2025-10-31 应于 2026-07-31 递交）+ idome.uk/about_us（CCTV / 智能家居安防批发零售 + 安装；32 King Street / Barge Drive, Southall）+ Trustpilot 2.2 分 + eBay 店 iDOME SECURITY SOLUTIONS',
+    url=CH + '14430734',
+    number='Companies House 14430734', status='Active（账目 2025-10-31 期应 2026-07-31 递交 —— 是否逾期待核）', incorporated='2022-10-19', company_type='Private limited company（微型）',
+    sic=['47 CCTV / 报警 / 智能锁网店 + eBay 批发 + 安装'],
+    address='23 Minterne Avenue, Southall UB2 4HW（门店 32 King Street, Southall UB2 4DB）', accounts='微型（Micro-entity）', accounts_due='2026-07-31（2025-10-31 期）', size_band='微型',
+    officers=['董事未取（Companies House officers 页未抓）'], psc='未取', charges='', prev_names=[],
+    lines=['2022 年新注册微型网店、Trustpilot 2.2 分 → 分销 20% 只给一页纸，先款后货，不投第 2 封',
+           '发信窗口 Thu 12–14 GMT'],
+    notes='officers 未取；不加厚。')
+put('SB-782', key='gb', batch=B, name='Simple Technology (UK) Ltd.（simpleuk.com；Warrington）— 1 次检索法定实体未坐实', iso='GB', fetched=F,
+    source='GB · 1 次检索：RocketReach（Simple Technology (UK) Ltd.；simpleuk.com；Founded 1991；4 人；电话 01925 = Warrington）；Companies House 同名候选均不符：SIMPLEUK LTD 11667603（2018 邮购，2020 解散）/ SIMPLE LTD 11570887（2020 解散）/ SIMPLE UK LIMITED 04652365（Cheltenham，2013 解散）→ 法定名待核，1 次即停',
+    url='https://rocketreach.co/simple-technology-uk-ltd-profile_b5e08191f42e68f6',
+    number='未坐实（候选 CH 号均不符）', status='官网在线（研究档快照 ok）', incorporated='1991（第三方）', company_type='Ltd.（推定）',
+    sic=['计算机硬件 / 配件零售（Simple 品牌）'], address='Warrington（电话区号）', accounts='—', accounts_due='—', size_band='微型（4 人）',
+    officers=['Nigil Manning — 研究档 KP（职务未取）'], psc='未取', charges='', prev_names=[],
+    lines=['微型配件商、法定实体一次未坐实 → 标「底数待核」，分销 20% 一页纸即止，不加厚'],
+    notes='下轮若顺手：CH 按「SIMPLE TECHNOLOGY (UK)」直查一次。')
+
+# ---------------- DE 4 ----------------
+put('SB-533', key='de', batch=B, name='eks Engel FOS GmbH & Co. KG（eks-engel.de；Wenden）— 光纤 / 工业以太网交换机制造商 = 同行', iso='DE', fetched=F,
+    source='DE · 1 次检索：eks-engel.de/en/legal-notice（Amtsgericht Siegen HRA 8091；Komplementärin eks Engel Verwaltungs GmbH HRB 8256；代表 Ralph Engel + Susanne Engel；USt DE252905712）+ wer-zu-wem（Schützenstr. 2, 57482 Wenden；36 人；<€10M；1931 创立；家族企业，Ralph Engel = GF & Inhaber）+ implisense（KG 2007-01-31 登记）+ Northdata（LEI 529900CLZQKLQC1QA289）+ eks 博客（1994 Ralph Engel 接班；工业以太网光口交换机自研）+ elektro.net 2026-10（**2026-09-01 Michael Matthesius 接管销售 / 市场 / 产品管理**；2027 起拓展国际项目业务）',
+    url='https://www.eks-engel.de/en/legal-notice/',
+    number='Amtsgericht Siegen HRA 8091（Komplementärin HRB 8256；LEI 529900CLZQKLQC1QA289）', status='Active', incorporated='1931（创立）/ 2007-01-31（KG 登记）', company_type='GmbH & Co. KG（Engel 家族）',
+    sic=['26 光纤传输 / 工业以太网交换机 / 现场总线转换器设计制造（Ex 防爆认证）'],
+    address='Schützenstr. 2, 57482 Wenden', accounts='—（KG）', accounts_due='—', size_band='小型（36 人；<€10M）',
+    officers=['Ralph Engel — Geschäftsführer / Inhaber（= 研究档 KP re@eks-engel.de 本人）', 'Susanne Engel — ppa. / HR（家族）', 'Guido Viedenz — ppa. Finance & Controlling', 'Michael Matthesius — 销售 / 市场 / 产品管理负责人（2026-09-01 起）'], psc='Engel 家族', charges='', prev_names=['EKS Engel GmbH & Co. KG'],
+    lines=['**自研自产工业以太网交换机 = 同行** → 守界：不发价格表、不加厚、B 不动（研究档 KP 就是老板，更不能发）',
+           '记档价值：2026-09 新产品管理负责人 + 2027 国际扩张 = 若其日后要「商用 PoE 补线外采」，对口是 Michael Matthesius —— 等他来'],
+    notes='不再查。')
+put('SB-022', key='de', batch=B, name='Desk Sicherheit GmbH（desk-sicherheit.de；Karlsruhe）— 微型安保 / 安防技术公司，GF = 研究档 KP', iso='DE', fetched=F,
+    source='DE · 1 次检索：shop.desk-sicherheit.de/impressum（DESK SICHERHEIT GmbH；Roonstraße 25, 76137 Karlsruhe；HRB 717686 Mannheim；代表 Daniel Rupp；USt DE291361315）+ webvalid / Northdata（2013-06-28 成立 UG → 2022-12-28 改 GmbH，资本 €25,000；GF Daniel Salim Rupp 唯一；2017-02 Hamit Calik 退出；经营范围：安保服务 / 渗透测试 / IT / 安防技术 / 无人机研发）+ XING（Daniel Rupp CEO 2013-10 起；前联邦国防军）+ desk-sicherheit.de 新闻（dr@desk-sicherheit.de 公开）',
+    url='https://www.northdata.com/Desk%20Sicherheit%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20717686',
+    number='Amtsgericht Mannheim HRB 717686', status='Active', incorporated='2013-06-28（UG）/ 2022-12 GmbH', company_type='GmbH（资本 €25,000；一人 GF）',
+    sic=['80 安保服务 + 安防技术 / 反无人机 / 渗透测试 + 网店'],
+    address='Roonstraße 25, 76137 Karlsruhe', accounts='—（微型）', accounts_due='—', size_band='微型',
+    officers=['Daniel Salim Rupp — Geschäftsführer / 创始人（= 研究档 KP dr@ 本人）'], psc='Daniel Salim Rupp（推定）', charges='', prev_names=['Desk Sicherheit UG (haftungsbeschränkt)'],
+    lines=['一人 GmbH、安保服务为主 + 网店 → 小项目集成商 25%，商用 PoE 配监控项目，一页纸即止',
+           '反无人机 / 渗透测试 = 偏军警客户 → 守界提醒：只谈商用安防',
+           '发信窗口 Thu 12–14 CET'],
+    notes='')
+put('SB-828', key='de', batch=B, name='LMP Lux Media Plan（luxmediaplan.de；Wiesbaden）— 广电微型相机 / 光纤组件，个体企业', iso='DE', fetched=F,
+    source='DE · 1 次检索：luxmediaplan.de/contact（LMP Lux Media Plan，Sabine Lux，Platter Strasse 168a, 65193 Wiesbaden；Sabine Lux = Management，Friedel Lux = Technical Managing Director；USt DE113809490；WEEE DE81050004）+ /about-lmp（1986 起；广电 / 医疗 / 航空 / 安防定制数字视频）+ contactout（Friedel Lux = Unternehmensinhaber / technischer Leiter）+ Broadcast Bridge（Cerberus HD1200 微型 HD 相机、光纤连接）+ cylex（Sabine Lux 个体企业，1986 起）',
+    url='https://www.luxmediaplan.de/contact/',
+    number='个体企业（无 HRB；USt DE113809490）', status='Active', incorporated='1986', company_type='Einzelunternehmen（Sabine Lux 名下；Friedel Lux 技术负责人）',
+    sic=['广电微型 HD 相机 / 色彩校正 / 光纤传输组件研发（定制）'],
+    address='Platter Strasse 168a, 65193 Wiesbaden', accounts='—', accounts_due='—', size_band='微型（夫妻企业）',
+    officers=['Friedel Lux — Technical Managing Director / Unternehmensinhaber（= 研究档 KP）', 'Sabine Lux — Management / 登记业主'], psc='Lux 夫妇', charges='', prev_names=[],
+    lines=['广电定制微型（非品类）→ 只剩 MC / 光口小交换机一条线，一页纸即止，不投第 2 封',
+           '发信窗口 Thu 12–14 CET'],
+    notes='不加厚。')
+put('SB-840', key='de', batch=B, name='INTOS ELECTRONIC AG（inline-info.com；Gießen）— InLine® 品牌所有者（4,500+ SKU IT 配件含交换机）', iso='DE', fetched=F,
+    source='DE · 1 次检索：inline-info.com/Rechtliches/Impressum（InLine® = INTOS ELECTRONIC AG 商标；Siemensstraße 11, D-35394 Gießen；HRB 4020 AG Gießen；USt DE813446966；Vorstand Wolfgang Isenberg；Aufsichtsrat 主席 RA Jens-Oliver Müller）+ intos.de/Hersteller/InLine（4,500+ 产品；绿白包装；线上 + 专业零售）',
+    url='https://www.inline-info.com/Rechtliches/Impressum/',
+    number='Amtsgericht Gießen HRB 4020', status='Active', incorporated='未取（AG）', company_type='Aktiengesellschaft（非上市；Vorstand 一人）',
+    sic=['4651 IT / 多媒体配件制造 + 分销（自有品牌 InLine：线缆 / KVM / 网络交换机 / PoE）'],
+    address='Siemensstraße 11, 35394 Gießen', accounts='—（未取）', accounts_due='—', size_band='中型（4,500 SKU；人数未取）',
+    officers=['Wolfgang Isenberg — Vorstand（拍板人）', 'Jens-Oliver Müller — Aufsichtsratsvorsitzender'], psc='未取', charges='', prev_names=[],
+    lines=['**自有品牌 InLine 已含网络交换机 / PoE（亚洲代工）→ OEM 30%**：商用 PoE 全系贴 InLine 标，写 Produktmanagement Netzwerk（公域）+ 点名 Vorstand',
+           '4,500 SKU 的配件 AG = 典型「多品类贴牌买家」，会比价 → B BIG，一页纸 + 价格直接给到位',
+           '发信窗口 Thu 12–14 CET'],
+    notes='人数 / 营收未取（AG 非上市）。')
+
+print('b96_us_gb_de ok')

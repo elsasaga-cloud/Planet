@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 31
+  "count": 35
  },
  "rows": {
   "SA-015": {
@@ -1098,6 +1098,135 @@
    ],
    "notes": "不再查。",
    "code": "SB-372"
+  },
+  "SB-091": {
+   "batch": 96,
+   "name": "Borer Data Systems Ltd（fingerprint-access-control.com / borer.co.uk；Winnersh, Berkshire）— PoE 生物识别门禁制造商",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：fingerprint-access-control.com（Borer Data Systems Ltd；英国 PoE 生物识别门禁开发制造商，40+ 年；4 Winnersh Fields, Gazelle Close, Winnersh RG41 5QS；info@borer.co.uk）+ borer.co.uk（门禁读头 / 控制器 / 软件制造）；Companies House 号本次未取（搜索结果被同名泛词淹没，1 次即停）",
+   "url": "https://www.fingerprint-access-control.com/",
+   "number": "Companies House 号未取（下轮可按「BORER DATA SYSTEMS LIMITED」直查）",
+   "status": "Active（官网 2026-07 更新）",
+   "incorporated": "≈1980s（自述 40+ 年）",
+   "company_type": "Private limited company（推定）",
+   "sic": [
+    "PoE 供电生物识别 / 智能卡门禁系统设计制造（IP 架构，PoE 300 m）"
+   ],
+   "address": "4 Winnersh Fields, Gazelle Close, Winnersh, Berkshire RG41 5QS",
+   "accounts": "—（未取）",
+   "accounts_due": "—",
+   "size_band": "小型（未取）",
+   "officers": [
+    "未取（Companies House 待查）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "门禁系统全靠 PoE 供电 → 项目里必配 PoE 交换机（外采）→ **配套一条线：商用 PoE（STC-028GP / STC-2224GP）+ 工业小口数，分销 20% 或贴标 OEM 30%**",
+    "域名 fingerprint-access-control.com 是其 SEO 站，正主 = Borer Data Systems → 写 info@borer.co.uk 点名「产品经理」",
+    "发信窗口 Thu 12–14 GMT；一页纸即止"
+   ],
+   "notes": "CH 号待补（一次直查）。",
+   "code": "SB-091"
+  },
+  "SB-452": {
+   "batch": 96,
+   "name": "ELITE SECURITY PRODUCTS LIMITED（espuk.com；Redditch）— ESP，Scolmore 集团（2011 起）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 02769392（1992-12-01 注册；Unit 7 Target Park, Shawbank Road, Lakeside, Redditch B98 8YN；Active；18 officers / 15 resignations）+ espuk.com/about（2011 起 Scolmore 集团成员，独立运营；消防 / 安防产品）+ Electricals Informed（Scolmore International 与时任 MD Andy Clements 合资收购 ESP）+ Professional Electrician 2022（1992 Electronics Line UK → 1996 ESP；2009 迁 Redditch）+ LinkedIn（**Paul Panini = ESG & Sustainability Director**；National Sales Manager Ben Mackrill）+ Scolmore International Limited 02513009（Tamworth；51–200 人；1989）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/02769392",
+   "number": "Companies House 02769392（母公司 Scolmore (International) Limited 02513009）",
+   "status": "Active",
+   "incorporated": "1992-12-01",
+   "company_type": "Private limited company（Scolmore 集团）",
+   "sic": [
+    "46 消防 / 安防产品（CCTV / 门禁 / 可视对讲 / 应急照明）设计分销（自有品牌 ESP，面向电工批发渠道）"
+   ],
+   "address": "Unit 7 Target Park, Shawbank Road, Lakeside, Redditch, Worcestershire B98 8YN",
+   "accounts": "—（集团合并）",
+   "accounts_due": "—",
+   "size_band": "中型（集团 51–200 人）",
+   "officers": [
+    "Paul Panini — ESG & Sustainability Director（= 研究档 KP；**不管采购**）",
+    "Andy Clements — Managing Director（2011 合资时；现任待核）",
+    "Ben Mackrill — National Sales Manager"
+   ],
+   "psc": "Scolmore (International) Limited",
+   "charges": "",
+   "prev_names": [
+    "Electronics Line UK（1992–1996）"
+   ],
+   "lines": [
+    "自有品牌 ESP CCTV 走电工批发渠道 → **PoE 交换机配套贴标 OEM 30% 在理论上成立，但采购在 Scolmore 集团产品部（Tamworth）→ B BIG，一页纸给 ESP 产品经理**",
+    "**研究档 KP Paul Panini 是 ESG / 可持续发展总监 = 误对口**，不发给他；收件人改 ESP 产品 / 采购公域",
+    "发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "",
+   "code": "SB-452"
+  },
+  "SB-763": {
+   "batch": 96,
+   "name": "IDOME LIMITED（idome.uk；Southall, London）— 微型 CCTV 网店 / eBay 批发",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 14430734（IDOME LIMITED；2022-10-19 注册；23 Minterne Avenue, Southall UB2 4HW；Active；账目至 2025-10-31 应于 2026-07-31 递交）+ idome.uk/about_us（CCTV / 智能家居安防批发零售 + 安装；32 King Street / Barge Drive, Southall）+ Trustpilot 2.2 分 + eBay 店 iDOME SECURITY SOLUTIONS",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14430734",
+   "number": "Companies House 14430734",
+   "status": "Active（账目 2025-10-31 期应 2026-07-31 递交 —— 是否逾期待核）",
+   "incorporated": "2022-10-19",
+   "company_type": "Private limited company（微型）",
+   "sic": [
+    "47 CCTV / 报警 / 智能锁网店 + eBay 批发 + 安装"
+   ],
+   "address": "23 Minterne Avenue, Southall UB2 4HW（门店 32 King Street, Southall UB2 4DB）",
+   "accounts": "微型（Micro-entity）",
+   "accounts_due": "2026-07-31（2025-10-31 期）",
+   "size_band": "微型",
+   "officers": [
+    "董事未取（Companies House officers 页未抓）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "2022 年新注册微型网店、Trustpilot 2.2 分 → 分销 20% 只给一页纸，先款后货，不投第 2 封",
+    "发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "officers 未取；不加厚。",
+   "code": "SB-763"
+  },
+  "SB-782": {
+   "batch": 96,
+   "name": "Simple Technology (UK) Ltd.（simpleuk.com；Warrington）— 1 次检索法定实体未坐实",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：RocketReach（Simple Technology (UK) Ltd.；simpleuk.com；Founded 1991；4 人；电话 01925 = Warrington）；Companies House 同名候选均不符：SIMPLEUK LTD 11667603（2018 邮购，2020 解散）/ SIMPLE LTD 11570887（2020 解散）/ SIMPLE UK LIMITED 04652365（Cheltenham，2013 解散）→ 法定名待核，1 次即停",
+   "url": "https://rocketreach.co/simple-technology-uk-ltd-profile_b5e08191f42e68f6",
+   "number": "未坐实（候选 CH 号均不符）",
+   "status": "官网在线（研究档快照 ok）",
+   "incorporated": "1991（第三方）",
+   "company_type": "Ltd.（推定）",
+   "sic": [
+    "计算机硬件 / 配件零售（Simple 品牌）"
+   ],
+   "address": "Warrington（电话区号）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（4 人）",
+   "officers": [
+    "Nigil Manning — 研究档 KP（职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "微型配件商、法定实体一次未坐实 → 标「底数待核」，分销 20% 一页纸即止，不加厚"
+   ],
+   "notes": "下轮若顺手：CH 按「SIMPLE TECHNOLOGY (UK)」直查一次。",
+   "code": "SB-782"
   }
  }
 }

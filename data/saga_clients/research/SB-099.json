@@ -43,7 +43,8 @@
    "title": "President",
    "email": "david@rocstor.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President / CEO / 加州登记代理人 / SAM 登记高管 = **老板 = 研究档 KP 本人**（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 rocstor.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "12979 Arroyo St, 2F, San Fernando, CA 91340",
+  "other": "官网 rocstor.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 96 批：自有品牌 1,500 SKU 已含网络交换机 → OEM 30% 直接写老板；SAM 政府供应商会问 NDAA / TAA（禁词）→ 只谈商用 / 教育渠道（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "Rocstor, Inc.（加州 S Corporation；SAM UEI K79NXW8ZGNK4；CA SoS 号未取）",
+  "founded": "2002-03-07（业务 2000）（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "5–20 人；$3–6M（第三方）"
  },
  "business_lines": [
   "存储 / 机柜 / 配件（自有品牌 Rocstor）",

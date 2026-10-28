@@ -43,7 +43,8 @@
    "title": "（职务待核）",
    "email": "marcin.buczak@a-lan.pl",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP = 收件人（点名产品管理）；合伙人 Adam Popiołek / Jerzy Piłat 单独代表（2026-09-30 起）（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "波兰",
-  "other": "官网 aicom.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
+  "hq": "ul. Dobrego Pasterza 36A, 31-416 Kraków",
+  "other": "官网 aicom.pl，语言 pl，快照状态 ok；角色判定来源：官网文案；第 96 批（补第 95 批遗留）：波兰布线龙头、自有品牌 → B BIG；分销 20% 起、贴标 OEM 30% 为目标；SB-906 Avizio 已并线至此；2026-09-30 合伙人 / 代表权刚变更 → 一页纸不提财报（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "A-LAN TECHNOLOGIE POPIOŁEK, PIŁAT SPÓŁKA KOMANDYTOWA（KRS 0000654397；NIP 6782913975；REGON 356808516）",
+  "founded": "2016-12-22（sp. k.；前身更早）（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "中型；2025 营收 86.7 mln zł / 净利 8.9 mln / 资产 61.5 mln（rejestr.io）"
  },
  "business_lines": [
   "CCTV IP 系统 / LAN 布线（自有品牌 A-LAN）",

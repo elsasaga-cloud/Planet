@@ -33,7 +33,8 @@
    "title": "（职务待核）",
    "email": "erdal.goksen@biges.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未取）= 收件人，抄 arge@ / info@ 点名「ürün yönetimi」（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -44,8 +45,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 biges.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Piyalepaşa Bulvarı No:77 Famas Plaza B Blok, 34384 Şişli / İstanbul",
+  "other": "官网 biges.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 96 批：自有 biges 品牌 + 自建研发（GitHub arge@）→ 系统内 PoE 交换机外采贴标 → OEM 30%，B BIG（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "Biges Güvenli Hayat Teknolojileri Elektronik A.Ş.（MERSİS 未取）",
+  "founded": "1998（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "77–149 人；$20M 级（第三方）"
  },
  "business_lines": [
   "安防摄像 / 报警 / 报警监控（自有品牌 VGuard / Bullwark）"

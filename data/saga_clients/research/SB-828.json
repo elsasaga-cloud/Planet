@@ -43,7 +43,8 @@
    "title": "（负责人）",
    "email": "friedel@luxmediaplan.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Technical Managing Director / Unternehmensinhaber（官网 contact；登记业主为 Sabine Lux）= 收件人（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 luxmediaplan.de，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "Platter Strasse 168a, 65193 Wiesbaden",
+  "other": "官网 luxmediaplan.de，语言 ?，快照状态 ok；角色判定来源：待核；第 96 批：广电定制微型相机 / 光纤组件 = 非品类 → 只剩 MC / 光口小交换机一条线，一页纸即止、不投第 2 封（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "LMP Lux Media Plan（Einzelunternehmen Sabine Lux；USt DE113809490；无 HRB）",
+  "founded": "1986（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "微型（夫妻企业）"
  },
  "business_lines": [
   "广播 / 影视光纤传输设备（自有品牌 LMP）"

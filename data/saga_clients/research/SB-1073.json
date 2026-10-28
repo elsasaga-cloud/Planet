@@ -29,14 +29,16 @@
    "title": "Product Manager",
    "email": "ido@sensoguard.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Product Manager —— 守界：不发（第 96 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Tomer Levy",
    "title": "CEO & CTO",
    "email": "tomer@sensoguard.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO / CTO / 联合创始人（前 Rafael 20 年）—— 守界：不发（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -47,8 +49,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 sensoguard.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "1 HaHaruv St, Modi'in Region Industrial Park, Shoham, Israel",
+  "other": "官网 sensoguard.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 96 批：国别更正美国 → 以色列；以色列国防军 / 国防部地震波周界承包商 = 军工守界 → B 不动、不发（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "SensoGuard Ltd.（以色列；ח.פ. 未取）",
+  "founded": "2012（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "10–13 人"
  },
  "business_lines": [
   "地震波周界安防系统（自有品牌 SensoGuard）"
@@ -129,5 +134,6 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "以色列"
 }

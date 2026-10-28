@@ -30,11 +30,12 @@
  ],
  "kp": [
   {
-   "name": "Serkan K.",
+   "name": "Serkan Kekik",
    "title": "（表内联系人）",
    "email": "serkank@artsistem.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "创始人 / Genel Müdür（2004-09-04 创办；gesider「Ayın CEO’su」；官网总经理致辞）= **老板 = 研究档 KP「Serkan K.」大概率本人**（第 96 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -45,11 +46,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Art Sistem Bilgisayar A.Ş.（待核）",
-  "founded": "约 2003",
-  "hq": "Türkiye",
+  "legal_name": "Art Sistem Bilgisayar ve Güvenlik Teknolojileri Ltd. Şti.（LinkedIn 写 A.Ş. 待核；MERSİS 未取）",
+  "founded": "2004-09-04（第 96 批 官方登记核实 2026-10-28）",
+  "hq": "Gültepe Mah. Florya Kavşağı E-5 Yanyol Cad. 1. Bilge Sok. No:1 Art Sistem Plaza, 34295 Küçükçekmece / İstanbul",
   "size": "大型分销（135 品牌 / 5,000 经销商）",
-  "other": "OEM 词频 9"
+  "other": "OEM 词频 9；第 96 批：土耳其大户 —— 5,000+ 经销商 + 自有品牌 Artes（2006 起）+ 已做 OEM 摄像机 + TP-Link VIGI 独家 → B BIG；贴标 OEM 30% 为目标、分销 20% 为底；老板直联 → **升 A 候选（回信即 A）**（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "100–200 人；$10–50M 级（第三方）；5,000+ 经销商；3 分公司"
  },
  "business_lines": [
   "IT / 安防 / 网络全国分销"

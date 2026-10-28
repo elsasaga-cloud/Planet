@@ -33,7 +33,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Borer Data Systems — 产品经理（公域）",
+   "role": "info@borer.co.uk 点名「Product Manager」= 收件人（fingerprint-access-control.com 为其 SEO 站）（第 96 批 官方登记核实 2026-10-28）",
+   "email": "info@borer.co.uk",
+   "phone": "",
+   "source": "https://www.fingerprint-access-control.com/"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -42,8 +50,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 fingerprint-access-control.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "4 Winnersh Fields, Gazelle Close, Winnersh, Berkshire RG41 5QS",
+  "other": "官网 fingerprint-access-control.com，语言 ?，快照状态 ok；角色判定来源：待核；第 96 批：PoE 生物识别门禁制造商，项目必配 PoE 交换机（外采）→ 配套一条线分销 20% / 贴标 30%，一页纸（第 96 批 官方登记核实 2026-10-28）",
+  "legal_name": "Borer Data Systems Ltd（Companies House 号本次未取 → 待补）",
+  "founded": "≈1980s（自述 40+ 年）（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "小型（未取）"
  },
  "business_lines": [
   "门禁 / 指纹门禁系统制造（英国，自有品牌）"

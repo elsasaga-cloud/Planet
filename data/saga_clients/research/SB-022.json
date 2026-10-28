@@ -45,15 +45,15 @@
  ],
  "kp": [
   {
-   "name": "Daniel Rupp",
-   "role": "CEO",
+   "name": "Daniel Salim Rupp",
+   "role": "Geschäftsführer / 创始人（HRB 717686 Mannheim 唯一 GF；前联邦国防军）= 老板 = 收件人（第 96 批 官方登记核实 2026-10-28）",
    "email": "dr@desk-sicherheit.de",
    "phone": "",
    "source": "用户 Clients 表"
   },
   {
    "name": "Daniel Salim Rupp",
-   "role": "CEO / Geschäftsführer（Impressum + 新闻稿公开）",
+   "role": "Geschäftsführer / 创始人（HRB 717686 Mannheim 唯一 GF；前联邦国防军）= 老板 = 收件人（第 96 批 官方登记核实 2026-10-28）",
    "email": "dr@desk-sicherheit.de（官网新闻稿公开）",
    "phone": "+49 721 1812642-0 / +49 173 1590372（官网新闻稿公开）",
    "source": "https://desk-sicherheit.de/news/physische-penetrationstest"
@@ -68,11 +68,12 @@
   "level": "B 级加厚 v1（Impressum + 登记核对）"
  },
  "company_facts": {
-  "legal_name": "DESK Sicherheit GmbH（HRB 717686 Amtsgericht Mannheim；USt-ID DE291361315）",
-  "founded": "2017-02-22（UG）→ 2022-12 GmbH",
-  "hq": "Roonstraße 25, 76137 Karlsruhe, Germany（+49 721 82101964；info@desk-sicherheit.de）",
+  "legal_name": "Desk Sicherheit GmbH（Amtsgericht Mannheim HRB 717686；2013 UG → 2022-12 GmbH，资本 €25,000）",
+  "founded": "2013-06-28（第 96 批 官方登记核实 2026-10-28）",
+  "hq": "Roonstraße 25, 76137 Karlsruhe",
   "size": "小型（注册资本 €25k；人数待核）",
-  "other": "CEO Daniel Salim Rupp（2013 起）；业务含反无人机、渗透测试；网店"
+  "other": "CEO Daniel Salim Rupp（2013 起）；业务含反无人机、渗透测试；网店；第 96 批：一人 GmbH 安保服务 + 安防网店 → 小项目集成商 25% 一页纸；反无人机 / 渗透测试偏军警 → 只谈商用安防（第 96 批 官方登记核实 2026-10-28）",
+  "staff": "微型"
  },
  "business_lines": [
   "安保勤务（Sicherheitsdienst）",
