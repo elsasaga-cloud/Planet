@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 15
+  "count": 19
  },
  "rows": {
   "SA-070": {
@@ -498,6 +498,132 @@
    ],
    "notes": "分销 20%；B；加厚一次（small）；坐实（P.IVA + REA + 营收）。",
    "code": "SB-425"
+  },
+  "SB-1055": {
+   "batch": 108,
+   "name": "MARCOM S.r.l.（marcomweb.it / shop.marcomweb.it；维罗纳 Bassone Via della Metallurgia 11, 37139；P.IVA 03718740230；Registro Imprese di Verona）— 2001 年起的工业自动化通信分销商（现场总线 / PLC / SCADA 软件、Moxa 工业交换机、工业路由器 2G–5G、LoRaWAN / Sigfox；网店自编 ISE 系列工业交换机 SKU）；股本 €20,000；11–50 人；表内「工业 FS 很多牌子」；群发 5 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：marcomweb.it 首页 / Company info（MARCOM S.r.l.；via della Metallurgia 11 37139 Verona；P.IVA 03718740230；Paid in capital 20.000 €；Register of Enterprises of Verona）+ shop.marcomweb.it Meet Us（VAT 03718740230；SDI M5UXCR1；PEC amministrazione@pec.marcomweb.it；Share Capital €20.000）+ LinkedIn（2001；11–50；Telecomunicazioni）+ 网店品类（Switch industriale PoE；ISE2005 / ISE5308F-S；marchio Moxa）",
+   "url": "https://www.marcomweb.it/en/company-info.html",
+   "number": "P.IVA / CF 03718740230（REA 未取）",
+   "status": "Active",
+   "incorporated": "2001",
+   "company_type": "S.r.l.（私有；股本 €20,000）",
+   "sic": [
+    "工业自动化 / 工业通信设备分销 + 自动化软件（Moxa 工业交换机、工业路由器、LoRaWAN）"
+   ],
+   "address": "Via della Metallurgia 11, 37139 Verona (VR)",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 口径）",
+   "officers": [
+    "（未具名）— 收件人 info@marcomweb.it / 网店 commerciale（点名 ufficio acquisti）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**卖 Moxa 的工业通信分销商，网店自编 ISE 系列工业交换机 SKU → 分销 20% + 小批量贴标可谈，B，加厚一次（small）**：STI-054GP / STI-144GP / STI-288DGGPM / STI-0240GE 一页纸 1:1 对照 Moxa EDS 口数价位；稿内不点名 Moxa",
+    "收件人 info@ 点名 ufficio acquisti；5 次打开无回复 → 二次触达换切口「a second-price industrial line beside your premium brand」；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20% + 贴标可谈；B；加厚一次（small）；坐实（P.IVA 官网 + 注册处名）。",
+   "code": "SB-1055"
+  },
+  "SB-1063": {
+   "batch": 108,
+   "name": "HARDWARE SOLUTIONS S.R.L.（hardwaresolutions.it / pc-industriali.it；摩德纳 Fiorano Modenese Via Ghiarola Vecchia 32, 41042；P.IVA 02974270361；REA MO-347206）— 2005-02-22 登记的工业 PC / HMI 集成分销商（Advantech Integrator Partner + Key account、APLEX 官方分销；Box PC、机架、工业平板、EN 50155 整机）；2024 营收 €8.09M、净利 €1.40M；10 人；表内「工业 FS 研华的」；群发 5 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（HARDWARE SOLUTIONS S.R.L.；P.IVA 02974270361；VIA GHIAROLA VECCHIA 32 41042 FIORANO MODENESE (MO)；Rea 347206；Data Iscrizione 22/02/2005；Fatturato € 8.090.684 2024；Dipendenti 10 2026；Utile € 1.396.504；ATECO 332003）+ companyreports（REA MO 347206）+ 官网 Contatti / Partner（Advantech Integrator Partner；distributore ufficiale APLEX）+ LinkedIn（2005；11–50）",
+   "url": "https://www.ufficiocamerale.it/9547/hardware-solutions-srl",
+   "number": "P.IVA / CF 02974270361；REA MO-347206",
+   "status": "Active",
+   "incorporated": "2005-02-22",
+   "company_type": "S.r.l.（私有）",
+   "sic": [
+    "工业 PC / HMI / 嵌入式 集成分销（ATECO 33.20.03）"
+   ],
+   "address": "Via Ghiarola Vecchia 32, 41042 Fiorano Modenese (MO)",
+   "accounts": "2024 营收 €8,090,684；净利 €1,396,504",
+   "accounts_due": "—",
+   "size_band": "小型（10 人；人均 €800k）",
+   "officers": [
+    "（未具名）— 收件人 info@hardwaresolutions.it（点名 ufficio acquisti / responsabile networking）"
+   ],
+   "psc": "创始合伙人（未取）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**高毛利的工业 PC 集成分销商（研华渠道），工业交换机是其整机配套件 → 采购型 25% + 分销 20%，B，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 配 IPC 机柜）；有回声再加厚**；稿内不点名 Advantech",
+    "收件人 info@ 点名 ufficio acquisti；5 次打开无回复 → 二次触达换切口「DIN-rail switches that ship with your IPC racks」；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "采购型 25% + 分销 20%；B；一页纸一次；坐实（P.IVA + REA + 营收）。",
+   "code": "SB-1063"
+  },
+  "SB-525": {
+   "batch": 108,
+   "name": "Atlantis-Land（atlantis-land.com；意大利网络 / 安防品牌 Atlantis，商用 PoE 现由 ONV 代工，「好多人卖他们的」；KP Massimo Liddo（Director）/ Daniela Sdanga（Buyer）；Simon「可以尝试多跟进一下」）— 官网 unreachable + 1 次检索（ufficiocamerale 口径）只命中 Atlantis S.r.l. 罗马 / 布雷西亚同名异主 → **未坐实**（法人名 / P.IVA / 经营状态待补证）；群发 13 次无回复 3 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索「Atlantis-Land S.r.l. partita IVA REA」→ 仅 ATLANTIS S.R.L. 13438111000（Roma，家具中介）/ 04262260989（Brescia，软件）= 同名异主，不取；官网不可达；查不到即停",
+   "url": "https://www.atlantis-land.com/",
+   "number": "未取（未坐实）",
+   "status": "未核（官网不可达）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "网络 / 安防自有品牌（商用 PoE 由 ONV 代工）— 口径来自研究档"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Massimo Liddo — Director（研究档 KP，info@）",
+    "Daniela Sdanga — Buyer（研究档 KP，mdl@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**品牌商本是贴标目标，但官网不可达 + 13 次无回复 + 法人未坐实 → 不动；若官网恢复 / Simon 点名，再补核法人并发一页纸（STC-028GP / STC-228GP / STC-2224GP 对照其 ONV 代工机型）**",
+    "不进发送包；记入「待补证」"
+   ],
+   "notes": "未坐实；不动（待官网恢复）。",
+   "code": "SB-525"
+  },
+  "SB-1018": {
+   "batch": 108,
+   "name": "COEL DISTRIBUTION SRL（coeldistribution.it；蒙扎-布里安扎 Muggiò Via Fratelli Bandiera 9/A, 20835（原 Sesto San Giovanni）；P.IVA / CF 11989650152；REA MB-2629252（旧 MI-1521836）；1994 / 1997 起）— 布线 / 网络 / 电信 / 连接产品分销商（面向安装商与集成商；品牌 Planet Networking / Prysmian / R&M / Rosenberger / Trend Networks；目录内 PLANET IGS-801T / IGS-1020PTF 工业交换机）；11–50 人；研究档营收 €9.4M（2023）；KP a.fallerini（姓名待核）；群发 3 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：coeldistribution.it 页脚 / Contattaci（Coel Distribution srl；Via Fratelli Bandiera 9A 20835 Muggiò (MB)；C.F. e P.IVA 11989650152；+39 039 578 831；info@）+ aziende.it（SOCIETA’ A RESPONSABILITA’ LIMITATA；ATECO 46.64.2 dal 1997；REA MI-1521836）+ fatturatoitalia（REA MB 2629252；ATECO 46.69.2）+ ufficiocamerale（P.IVA 11989650152；MUGGIO’）+ LinkedIn（Dal 1994；11–50）+ 目录页 Planet Networking / IGS-801T / IGS-1020PTF",
+   "url": "https://www.aziende.it/coel-distribution-srl",
+   "number": "P.IVA / CF 11989650152；REA MB-2629252",
+   "status": "Active",
+   "incorporated": "1994（活动）/ 1997（登记）",
+   "company_type": "S.r.l.（私有）",
+   "sic": [
+    "结构化布线 / 网络 / 电信 / 连接产品分销（面向安装商、集成商；Planet 分销）"
+   ],
+   "address": "Via Fratelli Bandiera 9/A, 20835 Muggiò (MB)",
+   "accounts": "研究档：2023 营收 €9.4M",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "（a.fallerini，姓名待核）— 研究档联系人 = 收件人",
+    "（未具名）— ufficio acquisti（抄 info@ 点名）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**米兰北郊 €9.4M 的布线 + 网络分销商，目录已有台系工业小交换机自有货号 → 分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP（1:1 对照 IGS-801T / IGS-1020PTF）+ STC-028GP / STC-228GP / STC-2224GP 一页纸；稿内不点名 Planet",
+    "收件人 a.fallerini@ + 抄 info@ 点名 ufficio acquisti；3 次打开无回复 → 二次触达换切口「a second industrial line next to your Taiwanese brand」；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次；坐实（P.IVA + REA）。",
+   "code": "SB-1018"
   }
  }
 }

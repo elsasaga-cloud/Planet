@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 3
+  "count": 5
  },
  "rows": {
   "SA-011": {
@@ -108,6 +108,70 @@
    ],
    "notes": "贴标 30% 目标 + 分销 20%；B BIG；加厚一次；升 A 次候选；坐实（SIREN）。",
    "code": "SB-358"
+  },
+  "SB-534": {
+   "batch": 108,
+   "name": "ELFCAM SARL（elfcams.com；蒂埃 Thiais 6-8 rue du Travy, 94320（2025-06 起；前 Villejuif / Sartrouville / Meudon）；SIREN 844 111 856 RCS Créteil；TVA FR36844111856）— 2018-11-20 成立的光纤 / 网络设备电商（FTTx / 数据中心光缆、SFP、Cat6A–Cat8、PoE 交换机、10G 交换机、Starlink 配件；「Prix vente directe usine」自有品牌直销）；股本 €20,000；3–5 人；Gérant Xia LIU（1988 年生，华人）；研究档 KP Franck Dupont（contact@）；群发 3 次打开",
+   "iso": "FR",
+   "fetched": "2026-10-28",
+   "source": "FR · 1 次检索：annuaire-entreprises.data.gouv.fr（ELFCAM；SIREN 844 111 856；siège 6-8 RUE DU TRAVY 94320 THIAIS，création 01/06/2025；NAF 47.91B）+ pappers（Création 20/11/2018；Effectif 3–5 2023；Dirigeant Liu Xia）+ societe.com（SARL；Xia LIU Gérant depuis 2018-12-04，né en 1988）+ lefigaro（capital 20.000 €；构成公告 Gérant M. LIU Xia；TVA FR36844111856）+ rubypayeur（activité e-commerce vidéosurveillance / télécom）",
+   "url": "https://www.pappers.fr/entreprise/elfcam-844111856",
+   "number": "SIREN 844 111 856；TVA FR36844111856",
+   "status": "Active",
+   "incorporated": "2018-11-20",
+   "company_type": "SARL（华人业主；股本 €20,000）",
+   "sic": [
+    "光纤 / 网络设备电商（自有品牌「工厂直销」）"
+   ],
+   "address": "6-8 rue du Travy, 94320 Thiais",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（3–5 人）",
+   "officers": [
+    "Xia Liu（刘霞，译名待核）— Gérant / 业主（2018 起）= 拍板人",
+    "Franck Dupont — 研究档 KP（contact@elfcams.com）= 收件人"
+   ],
+   "psc": "Xia Liu",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**华人自营的光纤 / 网络电商，自称工厂直销（大概率已有国内货源）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-110XGE 对照其 /poe-switch、/10g-switch 品类）；有回声再加厚**；华人业主 → 中文直联 Simon 定（默认否）",
+    "收件人 contact@ 直呼 Franck，抄 Xia Liu；3 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；法语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（SIREN）；华人业主。",
+   "code": "SB-534"
+  },
+  "SB-765": {
+   "batch": 108,
+   "name": "IMPORT NETWORK VIDEO TECHNOLOGY – INV-TECHNOLOGIE SAS（Dynavision；inv-technology.com；上科西嘉 Borgo Rainbow Strada Vecchia, 20290；SIREN 808 965 941；TVA FR30808965941）— 2015-01 成立的科西嘉视频监控 / 门禁进口批发商，**自有品牌 DYNAVISION（按其工程师规格由中国 / 韩国合作厂代工近 10 年）**，在售 PoE 交换机 / 分离器 / 注入器；股本 €5,000；3–5 人；2025 营收 €760k；Président Alexandre Noireaux（1966 年生）；研究档 KP Maxence Noireaux（Technical Manager，家族）；群发 3 次打开",
+   "iso": "FR",
+   "fetched": "2026-10-28",
+   "source": "FR · 1 次检索：manageo（IMPORT NETWORK VIDEO TECHNOLOGY - INV-TECHNOLOGIE；SIREN 808 965 941；SIRET 00038；TVA FR30808965941；Capital 5 000 €；Dirigeant Alexandre NOIREAUX；3 à 5 salariés；CA 760 070 € 2025；SAS；Borgo；créée janvier 2015）+ societe.com（Président depuis 22 janvier 2015，né en 1966）+ lefigaro（Rainbow Strada Vecchia 20290 Borgo）+ LinkedIn Alexandre Noireaux（DYNAVISION 代工于中国与韩国合作厂；premier importateur / grossiste en Corse）",
+   "url": "https://www.societe.com/societe/import-network-video-technology-inv-technologie-808965941.html",
+   "number": "SIREN 808 965 941；TVA FR30808965941",
+   "status": "Active",
+   "incorporated": "2015-01-22",
+   "company_type": "SAS（Noireaux 家族；股本 €5,000）",
+   "sic": [
+    "视频监控 / 门禁 进口批发 + 自有品牌 Dynavision（中韩代工）"
+   ],
+   "address": "Rainbow Strada Vecchia, 20290 Borgo（Haute-Corse）",
+   "accounts": "2025 营收 €760,070",
+   "accounts_due": "—",
+   "size_band": "小微（3–5 人）",
+   "officers": [
+    "Alexandre Noireaux — Président / 创始人（2015 起）= 拍板人（抄送）",
+    "Maxence Noireaux — Technical Manager（研究档 KP，maxence@）= 收件人"
+   ],
+   "psc": "Noireaux 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已在中国代工自有品牌的科西嘉批发商 → 贴标 OEM 30% 正中目标（Dynavision 标 PoE 交换机配其摄像机），B，加厚一次（small，年收 €760k）**：STC-028GP / STC-228GP / STC-2224GP 一页纸 + 1:1 对照其在售 RG-ES2xx 类；只报 OEM 档；稿内不点名 Ruijie",
+    "收件人 maxence@ 直呼 Maxence，抄 Alexandre；3 次打开无回复 → 二次触达换切口「a second OEM source for your Dynavision switches」；发信窗口 Thu 12–14 CET；法语一句引子"
+   ],
+   "notes": "贴标 30% 目标；B；加厚一次（small）；坐实（SIREN + 营收）。",
+   "code": "SB-765"
   }
  }
 }

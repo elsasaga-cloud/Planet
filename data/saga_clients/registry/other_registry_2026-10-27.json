@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 53
+  "count": 61
  },
  "rows": {
   "SA-061": {
@@ -1665,6 +1665,257 @@
    ],
    "notes": "集成 25%；B BIG；加厚一次；升 A 次候选；坐实（МБ + ПИБ）。",
    "code": "SB-048"
+  },
+  "SB-1088": {
+   "batch": 108,
+   "name": "TIPTEH d.o.o., zastopanje in distribucija（tipteh.si / tipteh.com；卢布尔雅那 Ulica Ivana Roba 23, 1000；matična 5935652000；DŠ SI53509382）— 1996-03-15 登记的工业自动化分销集团（代理 30+ 制造商：Hirschmann 工业交换机 / Secomea / Axiomtek / Robox 等；子公司 SI / HR / BA / RS / MK，集团 140+ 人；斯洛文尼亚本体 30 人、营收 €9.42M、权益 €7.76M）；直通 Damijan Jager；表内「工业 FS 很多牌子」；群发 5 次打开",
+   "iso": "SI",
+   "fetched": "2026-10-28",
+   "source": "SI · 1 次检索：bizi.si（TIPTEH d.o.o., zastopanje in distribucija；Ulica Ivana Roba 23 Ljubljana；Davčna SI53509382；Matična 5935652000；Datum vpisa 15. 3. 1996；info@tipteh.si）+ ebonitete（direktor Damijan Jager；G46.190）+ companywall.si（Aktivna；15.03.1996；direktor Jager Damijan）+ sloexport（30 employees；Medium-sized；Income 9.416.401 €；Total equity 7.760.498 €；Tradition since 1996）+ b2b.tipteh.com（30+ manufacturers；60+ workers；subsidiaries SI / HR / BA / RS / MK）+ tipteh.com 30 周年（140+ zaposlenimi）",
+   "url": "https://www.bizi.si/TIPTEH-D-O-O/",
+   "number": "Matična številka 5935652000；DŠ SI53509382",
+   "status": "Aktivna",
+   "incorporated": "1996-03-15",
+   "company_type": "d.o.o.（私有；东南欧 5 国子公司）",
+   "sic": [
+    "工业自动化元件 / 系统分销（代理 30+ 品牌；含工业以太网）"
+   ],
+   "address": "Ulica Ivana Roba 23, 1000 Ljubljana",
+   "accounts": "营收 €9,416,401；权益 €7,760,498（sloexport）",
+   "accounts_due": "—",
+   "size_band": "中型（SI 30 人；集团 140+）",
+   "officers": [
+    "Damijan Jager — Direktor = 拍板人 / 收件人（info@tipteh.si 点名）",
+    "工业计算机与以太网技术支持部（TIS 专线）— 技术接口"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**东南欧 5 国的工业自动化分销集团，工业交换机现卖 Hirschmann（高价）→ STI 做「第二价位」：分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE 一页纸 + 1:1 对照 Hirschmann SPIDER / GREYHOUND 口数；稿内不点名 Hirschmann",
+    "收件人 info@ 点名 Damijan Jager，并点「工业以太网技术支持」部门；5 次打开无回复 → 二次触达换切口「a value industrial line for the Balkans subsidiaries」；发信窗口 Thu 12–14 CET；斯语一句引子"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次；坐实（matična + 财务）。",
+   "code": "SB-1088"
+  },
+  "SB-318": {
+   "batch": 108,
+   "name": "Verdelon（verdelon.com；研究档记瑞典；「Industrial-Grade Networking Hardware」自有品牌工业以太网 / PoE 交换机（L2 管理 8 / 16 / 24 / 44 口 PoE）、MC、SFP、48 V 电源；表内「Elink 的」= 贴标国产）— 1 次检索（allabolag / bolagsverket 口径）未命中任何瑞典法人 → **未坐实**（法人名 / org.nr / 所在国均待补证）；表内未跟进；群发 5 次打开",
+   "iso": "SE",
+   "fetched": "2026-10-28",
+   "source": "SE · 1 次检索「Verdelon AB organisationsnummer verdelon.com allabolag」→ 仅返回 Verdion AB / Svenska Verde AB 等同名异主（≠），无 Verdelon 法人记录；查不到即停",
+   "url": "https://verdelon.com/",
+   "number": "未取（未坐实）",
+   "status": "未核",
+   "incorporated": "未取",
+   "company_type": "未取（品牌名，法人待补证）",
+   "sic": [
+    "自有品牌工业网络硬件（贴标国产工业 PoE 交换机）— 口径来自研究档"
+   ],
+   "address": "未取（研究档：瑞典）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "（未具名）— 收件人 官网表单 / info@（点名 purchasing / product manager）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**贴标型自有品牌（现贴 Elink）= 贴标 OEM 30% 的正中目标，但法人未坐实 → 先一页纸一次（STI-288DGGPM / STI-244DGGPM / STI-488DGGPM / STC-424XGGPM-280W 1:1 对照其 8 / 16 / 24 / 44 口 PoE）；回声后再补核法人并加厚**",
+    "5 次打开无回复 → 二次触达换切口「second OEM source for your industrial PoE family」；发信窗口 Thu 12–14 CET；稿内不点名 Elink"
+   ],
+   "notes": "贴标 30% 目标（未坐实）；一页纸一次；回声后补核。",
+   "code": "SB-318"
+  },
+  "SB-397": {
+   "batch": 108,
+   "name": "NETIKS DOO BEOGRAD（netiks.rs；贝尔格莱德 Zvezdara Bulevar Kralja Aleksandra 193（门店 Bregalnička 9a）；матични број 17326163；ПИБ 101720299）— 2001-07-24 登记的网络 / 通信设备 B2B 商店 + 工程（光纤配件 361、**自有「NT」光模块品牌 SFP/SFP+/XFP/QSFP+/GPON**、TP-Link Omada、MikroTik、Grandstream、PoE 设备；шифра 2620）；董事 Pavle Pulek；44 人（2025）；表内「有 DCN 的」；群发 5 次打开",
+   "iso": "RS",
+   "fetched": "2026-10-28",
+   "source": "RS · 1 次检索：companywall.rs（PRIVREDNO DRUŠTVO NETIKS DOO BEOGRAD (ZVEZDARA)；Bulevar Kralja Aleksandra 193 11050 Beograd；Aktivan；PIB 101720299；MB 17326163；Datum osnivanja 24.7.2001；2620）+ netiks.ls.rs / kompanije.net（Zakonski zastupnik Pavle Pulek - Direktor）+ EMIS（established July 24, 2001；44 (2025) employees）+ netiks.rs Kontakt（Bregalnička 9a；info@netiks.rs；+381 11 340-96-96 30 linija）+ privredni-imenik（PIB / MB 同）",
+   "url": "https://www.companywall.rs/firma/netiks-doo-beograd/MMouX76q",
+   "number": "Матични број 17326163；ПИБ 101720299",
+   "status": "Aktivan",
+   "incorporated": "2001-07-24",
+   "company_type": "d.o.o.（私有）",
+   "sic": [
+    "网络 / 通信设备 B2B 销售 + 网络工程（自有 NT 光模块标；шифра 2620）"
+   ],
+   "address": "Bulevar Kralja Aleksandra 193, 11050 Beograd（门店 Bregalnička 9a）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中小（44 人）",
+   "officers": [
+    "Pavle Pulek — Direktor（法定代表）= 拍板人 / 收件人（info@netiks.rs 点名）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**44 人、已经自贴 NT 标光模块的网络设备商 → 贴标 OEM 30% 可谈（NT 标 PoE / L2 交换机）+ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W 一页纸 + 1:1 对照其在售 TP-Link / MikroTik 价位；稿内不点名 DCN / TP-Link",
+    "收件人 info@ 点名 Pavle Pulek；5 次打开无回复 → 二次触达换切口「switches under your NT label, same as your optics」；发信窗口 Thu 12–14 CET；塞语一句引子"
+   ],
+   "notes": "贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；坐实（МБ + ПИБ）。",
+   "code": "SB-397"
+  },
+  "SB-907": {
+   "batch": 108,
+   "name": "B.E.S.D. Benelux B.V.（besd.nl；韦尔特 Weert „De Kempen“ Oude Graaf 3b, 6002 NL（原 Deurne）；KvK 50025619）— 1989 年起的工业自动化嵌入式系统 + 数据通信产品进口分销商（串口 / 光纤 / 无线 / 以太网转换器与交换机、PC/104、EN 50155 整机；姊妹站 EKS 光纤）；2–10 人（≈3）；PI Nederland 会员；表内「几个有名牌子的工业 FS；bypass 基本研华」；1 次跟进无回复；群发 5 次打开",
+   "iso": "NL",
+   "fetched": "2026-10-28",
+   "source": "NL · 1 次检索：besd.nl（B.E.S.D Benelux B.V.；Oude Graaf 3b 6002NL Weert；founded 1989；more than 30 years；Member of PI Nederland）+ creditsafe（KvK-nummer 50025619）+ eks-glasvezel.nl（K: 50025619；原址 Wilhelminahof 7-8 Deurne）+ industrievandaag（importeur en distributeur embedded systemen en datacommunicatie；sales@besd.nl；+31 493 316 554）+ LinkedIn（2–10；1989）+ RocketReach（3 人）",
+   "url": "https://www.besd.nl/en/company-details-about-besd",
+   "number": "KvK 50025619",
+   "status": "Active",
+   "incorporated": "1989",
+   "company_type": "B.V.（私有；小微）",
+   "sic": [
+    "工业自动化嵌入式系统 + 数据通信产品进口分销（Benelux）"
+   ],
+   "address": "Oude Graaf 3b, 6002 NL Weert",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（2–10 人）",
+   "officers": [
+    "（未具名）— 收件人 sales@besd.nl（点名 inkoop / productmanager Ethernet）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**3 人工业通信进口分销商（研华式产品线）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM / STI-0240GE）；有回声再加厚**",
+    "收件人 sales@ 点名 inkoop；1 次跟进 + 5 次打开无回复 → 二次触达换切口「an industrial switch line for your Benelux catalogue」；发信窗口 Thu 12–14 CET；荷语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（KvK）。",
+   "code": "SB-907"
+  },
+  "SB-107": {
+   "batch": 108,
+   "name": "GLM GROUP LTD（glm.ge；第比利斯 Didube Akaki Tsereteli Ave. 140）— 安防与电信系统方案商 + 电商（消防报警、CCTV / NVR、门禁、Wi-Fi、PoE；在售 ONV PoE 交换机并有自编号 GLMH1064PL = 贴标雏形）；格鲁吉亚 ს/კ（识别码）未取 → 部分坐实；群发 3 次打开",
+   "iso": "GE",
+   "fetched": "2026-10-28",
+   "source": "GE · 1 次检索：glm.ge（GLM Group - Solutions for Security and Telecommunications Systems；Tbilisi, Akaki-Tsereteli Ave.140；0322 05 08 28；© 2021-2026 GLM GROUP LTD.）+ yell.ge（GLM GROUP LTD；Didube, 140 Akaki Tsereteli Ave.；Security systems / Building management system）；companyinfo.ge / br.geostat.ge 未命中同名（GLG Group 400097300 ≠）",
+   "url": "https://glm.ge/en/",
+   "number": "ს/კ 未取（GLM GROUP LTD 站脚）",
+   "status": "Active（站点 2026）",
+   "incorporated": "未取",
+   "company_type": "შპს / LTD（私有）",
+   "sic": [
+    "安防 / 电信系统方案 + 电商（CCTV、门禁、PoE 设备）"
+   ],
+   "address": "Akaki Tsereteli Ave. 140, Tbilisi（Didube）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "（未具名）— 收件人 info@glm.ge（点名 procurement / 技术负责人）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已给 ONV 交换机打自编号的格鲁吉亚安防电商 → 贴标 OEM 30% 可谈（GLM 标 PoE）+ 分销 20%，B，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 1:1 对照 ONV-H1064PSD 类）；有回声再加厚**；稿内不点名 ONV",
+    "3 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 GET（UTC+4）；俄语 / 英语双语一句引子"
+   ],
+   "notes": "贴标 30% 可谈 + 分销 20%；B；一页纸一次；部分坐实。",
+   "code": "SB-107"
+  },
+  "SB-721": {
+   "batch": 108,
+   "name": "Wood Communications Limited（woodcomm.ie；都柏林 Unit L7 Ballymount Industrial Estate, Ballymount Drive, Dublin 12, D12 FV07；CRO 226087；PRL IE01544W）— 1924 年起、2007-11 MBO 后爱尔兰本土持有的网络 / 布线 / 数据中心 / 安防分销商（Planet Technology 为其交换机品牌之一；面向集成商与数据中心；全岛 + 欧陆）；MD Keith Mahony（2005 起董事）、Sales Director Derek Finlay、FD Pat Kennedy；11–50 人（≈16）；群发 3 次打开",
+   "iso": "IE",
+   "fetched": "2026-10-28",
+   "source": "IE · 1 次检索：solocheck.ie / vision-net.ie（Wood Communications Limited；CRO 226087；B10 董事变更 2024–2026；Mr Mahony director since 2005）+ woodcomm.ie About / Planet 页（Founded in 1924；Irish owned and managed；Head Office L7 Ballymount Industrial Estate Dublin D12 FV07；PRL number IE01544W；sales@woodcomm.ie；+353 1 426 4000）+ electric.ie 百年报道（2007-11 MBO；Keith Mahony MD、Derek Finlay Sales Director、Pat Kennedy FD）+ irishtrade（Keith Mahony Managing Director）",
+   "url": "https://www.solocheck.ie/Irish-Company/Wood-Communications-Limited-226087",
+   "number": "CRO 226087",
+   "status": "Normal",
+   "incorporated": "1924（活动）；公司号 226087",
+   "company_type": "Limited（管理层持有）",
+   "sic": [
+    "网络 / 布线 / 数据中心 / IP CCTV 产品分销 + 培训（Planet 分销）"
+   ],
+   "address": "Unit L7, Ballymount Industrial Estate, Ballymount Drive, Dublin 12, D12 FV07",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Keith Mahony — Managing Director（2007 MBO 核心）= 拍板人",
+    "Derek Finlay — Sales Director = 收件人（sales@ 点名）",
+    "Pat Kennedy — Financial Director"
+   ],
+   "psc": "管理层（Mahony / Finlay / Kennedy）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**爱尔兰老牌网络分销商（台系交换机为其品牌之一）→ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W + STI-054GP / STI-144GP 一页纸 + 1:1 对照 GSD-804P 类；稿内不点名 Planet；**UKCA 不适用（IE = CE）**",
+    "收件人 sales@ 点名 Derek Finlay，抄 Keith Mahony；3 次打开无回复 → 二次触达换切口「a second switch line for your trade counter」；发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次；坐实（CRO）。",
+   "code": "SB-721"
+  },
+  "SB-779": {
+   "batch": 108,
+   "name": "Shop4power.nl（又名 Shop4networks.nl；eenmanszaak 个体；韦耶 Wijhe Duisterendijk 5a, 8131 RA；KvK 63967588；BTW NL001646847B50）— 荷比 UPS / 电池 / 网络设备网店，「Planet-specialist」自备库存（PLANET 工业 / 商用交换机多款现货 + E-Link 交换机线）；表内 3 次打开",
+   "iso": "NL",
+   "fetched": "2026-10-28",
+   "source": "NL · 1 次检索：shop4power.nl Bedrijf / Voorwaarden（Duisterendijk 5a Wijhe；KvK 63967588；BTW NL001646847B50；Planet-specialist）+ compadex / transfirm（Shop4power.nl Eenmanszaak，h.o.d.n. Shop4networks.nl；KvK 63967588；vestiging 000032833652；8131 RA Wijhe）+ Over ons（dé Planet Specialist van Nederland & België；hoge eigen voorraad）",
+   "url": "https://shop4power.nl/bedrijf/",
+   "number": "KvK 63967588",
+   "status": "Active",
+   "incorporated": "未取（KvK 639… ≈2015）",
+   "company_type": "Eenmanszaak（个体）",
+   "sic": [
+    "UPS / 电池 / 网络设备网店（Planet 专营 + E-Link）"
+   ],
+   "address": "Duisterendijk 5a, 8131 RA Wijhe",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "个体（1–2 人）",
+   "officers": [
+    "（业主，未具名）— 收件人 info@shop4power.nl"
+   ],
+   "psc": "业主本人",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一人 Planet 专营网店，已同时卖国产 E-Link → 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP / STI-144GP 1:1 对照其 IGS-624HPT 类）；有回声再加厚**；MOQ 1 + 15 天有效价对网店友好",
+    "3 次打开无回复 → 二次触达换切口「a value line beside your Planet shelf」；发信窗口 Thu 12–14 CET；荷语一句引子；稿内不点名 Planet / E-Link"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（KvK 个体）。",
+   "code": "SB-779"
+  },
+  "SB-654": {
+   "batch": 108,
+   "name": "DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L.（DAVANTEL；davantel.com；巴塞罗那 C/ Pardo 8 bajos, 08027；CIF B63615553）— 2004-10-15 成立的电信接入 / 传输方案分销商（面向运营商、工程公司、公用事业与大企业；分销 Teltonika Networks、**Fiberroad、Kyland**、Gigalight、Elproma、Raisecom、Loop Telecom；网店 shop.davantel.com）；2–10 人；CTO Jose Salvador Collado（研究档 KP）；表内「外购 10G MC、工业 FS 管理型」；群发 2 次打开",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：davantel.com 首页 / Aviso legal（DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L.；CIF B63615553；C/Pardo 8 bajos 08027 Barcelona；+34 93 3408712；info@davantel.com）+ davantel.es Contacto（foundingDate 2004-10-15；NIF B63615553）+ Iberinform（CIF B63615553；Sociedad Limitada；CALLE PARDO 6, 8 BJ；marca DAVANTEL）+ LinkedIn（2–10；2004；distribuidores de Teltonika, Fiberroad, Kyland, Gigalight, Elproma, Raisecom y Loop Telecom）",
+   "url": "https://www.iberinform.es/empresa/2029783/desarrollos-avanzados-en-telecomunicaciones",
+   "number": "CIF B63615553",
+   "status": "Active",
+   "incorporated": "2004-10-15",
+   "company_type": "S.L.（私有；小微）",
+   "sic": [
+    "电信接入 / 传输设备分销 + 方案（运营商 / 工程公司 / 公用事业）"
+   ],
+   "address": "C/ Pardo 8 bajos, 08027 Barcelona",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（2–10 人）",
+   "officers": [
+    "Jose Salvador Collado — CTO（研究档 KP，jrsalvador@）= 收件人 / 技术拍板"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已分销两家中国工业交换机品牌的巴塞罗那方案商 → 分销 20%，B，加厚一次（small）**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE + STC-110XGE 一页纸 + 1:1 对照其在售工业管理型 FS 口数；稿内不点名 Fiberroad / Kyland / Teltonika",
+    "收件人 jrsalvador@ 直呼 Jose（CTO）；2 次打开无回复 → 二次触达换切口「a third industrial source with Marvell L2+ management」；发信窗口 Thu 12–14 CET；西语一句引子"
+   ],
+   "notes": "分销 20%；B；加厚一次（small）；坐实（CIF）。",
+   "code": "SB-654"
   }
  }
 }

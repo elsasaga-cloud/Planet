@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 9
+  "count": 11
  },
  "rows": {
   "SA-089": {
@@ -307,6 +307,68 @@
    ],
    "notes": "集成 25% small；一页纸一次 → 不动；坐实（IČO）。",
    "code": "SB-012"
+  },
+  "SB-855": {
+   "batch": 108,
+   "name": "NEXTLAN s. r. o.（nextlan.cz；赫鲁迪姆 Chrudim Tovární 1112, 537 01；IČO 25924826；DIČ CZ25924826；C 14968 KS Hradec Králové）— 1999-08-03 登记的网络 / 电信 VAD（Axis、Fluke Networks、IMC Networks、Lantech、SNMPc；B2C 子站 fluketestery.cz / netcam.cz / mediakonvertory.cz）；6–25 人；研究档：nextlan.cz 快照曾显示会计站 dgaccounting.cz（域名易主？经营状态待核）；群发 19 次无回复 3 次打开",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：rejstrik.penize.cz（NEXTLAN s. r. o.；IČO 25924826；Datum vzniku a zápisu 3. 8. 1999；Tovární 1112 Chrudim；C 14968/KSHK；DIČ CZ25924826）+ channeltrends（Specializovaný distributor；Axis / FLUKE / IMC / Microtest / SMC；sales@nextlan.cz；25 zaměstnanců）+ edb.cz（Lantech / Verax；6–25 zaměstnanců；obrat 10–50 mil. Kč）+ nextlan.cz 首页（Value Added Distributor … kamerové systémy, měřicí přístroje）",
+   "url": "https://rejstrik.penize.cz/25924826-nextlan-s-r-o",
+   "number": "IČO 25924826；DIČ CZ25924826；C 14968 KSHK",
+   "status": "Active（登记）；经营活跃度待核（研究档域名异常）",
+   "incorporated": "1999-08-03",
+   "company_type": "s.r.o.（私有）",
+   "sic": [
+    "网络 / 电信 增值分销（测试仪、摄像机、介质转换器、工业交换机 Lantech）"
+   ],
+   "address": "Tovární 1112, 537 01 Chrudim",
+   "accounts": "营业额 10–50 mil. Kč（edb 口径）",
+   "accounts_due": "—",
+   "size_band": "小型（6–25 人）",
+   "officers": [
+    "（未具名）— sales@nextlan.cz"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**19 次群发无回复 + 域名曾易主 → 不动；法人仍在册，若 Simon 点名可发一页纸（STI 1:1 对照 Lantech 口数）**",
+    "不进发送包；稿内不点名 Lantech / Axis"
+   ],
+   "notes": "坐实（IČO）；不动（19 次无回复 + 活跃度存疑）。",
+   "code": "SB-855"
+  },
+  "SB-1097": {
+   "batch": 108,
+   "name": "YATUN, s.r.o.（yatun.cz；布拉格 10 Strašnice V Olšinách 2300/75, 100 00（展厅 Slapská 2115/1；办公 Litevská 8）；IČO 28176791；DIČ CZ28176791）— 2007-10-30 登记的智能家居 / 楼宇自动化 / AV 控制 / 安防 专业分销商（Control4、Fibaro、Ekinex、MDT KNX 等捷克 + 斯洛伐克独家代理；面向电气安装商，自研软件 + 培训）；jednatel Martin Wokoun；11–50（LinkedIn）/ 2（ifirmy 口径）；表内「商业 PoE 在卖别人的牌子」；群发 2 次打开",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：finmag（YATUN, s.r.o.；IČO 28176791；DIČ CZ28176791；vznik 2007；V olšinách 2300/75 Praha-Strašnice；Jednatel Martin Wokoun od 31.10.2007）+ yatun.cz Kontakty（Fakturační údaje IČ 28176791）+ zivefirmy（Martin Wokoun jednatel）+ ifirmy（založení 30.10.2007）+ LinkedIn（výhradní zástupci Control4 / Fibaro / Ekinex / Amina pro ČR a SR；2007；11–50）",
+   "url": "https://www.finmag.cz/obchodni-rejstrik/28176791-yatun-s-r-o",
+   "number": "IČO 28176791；DIČ CZ28176791",
+   "status": "Active",
+   "incorporated": "2007-10-30",
+   "company_type": "s.r.o.（私有）",
+   "sic": [
+    "智能家居 / 楼宇自动化 / AV 控制 / 安防 专业分销（Control4 独家）"
+   ],
+   "address": "V Olšinách 2300/75, 100 00 Praha 10 – Strašnice",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（2–50 口径不一）",
+   "officers": [
+    "Martin Wokoun — Jednatel（2007 起）= 拍板人 / 收件人（obchod@yatun.cz 点名）"
+   ],
+   "psc": "Martin Wokoun（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**智能家居安装商渠道的独家分销商（Control4 系统需 PoE 交换机配套）→ 分销 20%，B，加厚一次（small）**：STC-028GP / STC-228GP / STC-2224GP（机柜静音 / 住宅 AV 场景）一页纸；稿内不点名 Planet",
+    "收件人 obchod@ 点名 Martin Wokoun；2 次打开无回复 → 二次触达换切口「PoE switches sized for smart-home racks」；发信窗口 Thu 12–14 CET；捷克语一句引子"
+   ],
+   "notes": "分销 20%；B；加厚一次（small）；坐实（IČO）。",
+   "code": "SB-1097"
   }
  }
 }
