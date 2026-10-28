@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 21
+  "count": 22
  },
  "rows": {
   "SA-089": {
@@ -692,6 +692,37 @@
    ],
    "notes": "分销 20% small；一页纸一次；坐实（经营者 IČO + 卷号；成立日未取）。",
    "code": "SB-977"
+  },
+  "SB-535": {
+   "batch": 111,
+   "name": "ESCAD Trade s.r.o.（escadtrade.cz；U Továren 770/1b, 102 00 Praha 10 – Hostivař；IČO 60487283；DIČ CZ60487283；C 27175 Městský soud v Praze；数据箱 5k6pvea）— 1994-03-29 登记（业务 1993）的 CCTV 进口批发商 + 网店（Milesight 授权供应商、Grundig、Axis、Hikvision、Dahua、PLANET、TP-Link；批发仓；24 个月保；可借测）；表内「卖几个有名牌子的 MILESIGHT」；群发 19 次无回复",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：firmy.euro.cz（ESCAD Trade s.r.o.；Městský soud v Praze 29. 3. 1994；C 27175；IČO 60487283；s.r.o.）+ rejstrik.penize.cz（vznik 29. 3. 1994）+ zivefirmy（IČ 60487283；DIČ CZ60487283；DS 5k6pvea）+ escadtrade.cz/o-nas（od roku 1993 dovoz a prodej kamerových systémů；velkoobchodní sklad；záruka 24 měsíců）+ escadtrade.cz 首页（Autorizovaný dodavatel IP kamer Milesight；Grundig）+ podnikatel.cz（NACE 261 / 46190 / 46900）；2026-10-28",
+   "url": "https://firmy.euro.cz/subjekt-escad-trade-s-r-o-60487283",
+   "number": "IČO 60487283",
+   "status": "Aktivní",
+   "incorporated": "1994-03-29",
+   "company_type": "s.r.o.",
+   "sic": [
+    "CCTV 进口批发 + 网店（布拉格）"
+   ],
+   "address": "U Továren 770/1b, 102 00 Praha 10 – Hostivař",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（jednatel 未取）— 收件人 obchod@escadtrade.cz"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**30 年 CCTV 批发商（已售台系 PLANET + Milesight）→ 分销 20% small，一页纸一次（切口：STC-028GP / STC-228GP / STC-2224GP 配 Milesight 级摄像机的第二价位 PoE + 捷克 DAP 小起订；捷语引子）；有回声再加厚**",
+    "稿内不点名 Milesight / PLANET / Axis；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（IČO + 卷号 + 成立日）；jednatel 未取。",
+   "code": "SB-535"
   }
  }
 }

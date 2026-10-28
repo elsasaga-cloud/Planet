@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 49
+  "count": 55
  },
  "rows": {
   "SA-070": {
@@ -1587,6 +1587,191 @@
    ],
    "notes": "集成 25% small；一页纸一次；坐实（P.IVA + REA + 营收 + 规模）。",
    "code": "SB-554"
+  },
+  "SB-726": {
+   "batch": 111,
+   "name": "ELETTRONICA E SICUREZZA SRL（原 Elettronica e Sicurezza snc di D. Ferrari & C.；elettronicaesicurezza.it；Via Francesco Foscari 27/29, 36016 Thiene (VI)（另址 Via Padre Massimiliano Kolbe 39 / Via Marco Corner 1/A）；P.IVA / CF 03518240241；REA VI-331657；股本 €20,000）— 2009-02-12 登记的安防设备批发分销商（TVCC / 防盗 / 消防 / 门禁 / 对讲 / 网络；Tiandy 合作伙伴）；4 名雇员（2026）；2024 营收 €1.35M（+32.4%）、净利 €96k；KP Fortunato Riccardo（会中文）；群发 14 次无回复",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（ELETTRONICA E SICUREZZA SRL；P.IVA 03518240241；VIA FRANCESCO FOSCARI 27/29 THIENE；REA 331657；PEC info@pec.elettronicaesicurezza.it；Fatturato € 1.345.334 (2024)；Dipendenti 4 (2026)；Iscrizione 12/02/2009；Utile € 96.273；URL 旧名 snc-di-d-ferrari-c）+ atoka（ricavi 1.3M +32.4%；sede Via Padre Massimiliano Kolbe 39；4 dipendenti；16 anni）+ elettronicaesicurezza.it 页脚（C.S. 20000,00 i.v.；0445 823720）+ it.tiandy.com 合作伙伴页（Via Massimiliano Kolbe 39；0445 344591；commerciale@）；2026-10-28",
+   "url": "https://www.ufficiocamerale.it/2006/elettronica-e-sicurezza-snc-di-d-ferrari-c",
+   "number": "P.IVA 03518240241 / REA VI-331657",
+   "status": "Attiva",
+   "incorporated": "2009-02-12",
+   "company_type": "S.r.l.（原 s.n.c.）",
+   "sic": [
+    "安防设备 批发分销（Thiene）"
+   ],
+   "address": "Via Francesco Foscari 27/29, 36016 Thiene (VI)",
+   "accounts": "2024 营收 €1,345,334 / 净利 €96,273（+32.4%）",
+   "accounts_due": "—",
+   "size_band": "小型（4 人）",
+   "officers": [
+    "Fortunato Riccardo — 研究档 KP（info@；表内「会说中文」）= 收件人",
+    "D. Ferrari — 原 snc 合伙人（旧名；现职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "Elettronica e Sicurezza snc di D. Ferrari & C.（推定自 ufficiocamerale URL）"
+   ],
+   "lines": [
+    "**小型安防批发商（增长 32%、曾询 PoE 延长器）→ 分销 20% small，一页纸一次（切口：STC-028GP / STC-228GP / STC-2224GP 配摄像机 + 对讲套件一口价 + MOQ 1；意语引子，info@ 点名 Riccardo）；有回声再加厚**",
+    "中文直联：Simon 定，默认否（表内「会说中文」）；稿内不点名 Tiandy；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（P.IVA + REA + 营收）。",
+   "code": "SB-726"
+  },
+  "SB-146": {
+   "batch": 111,
+   "name": "EXSYS ITALIA - S.R.L.（exsys.it；Via Belvedere 45/B, 22100 Como；P.IVA / CF 02375220130；REA CO-257326）— 1998-04-15 成立（登记 1998-09-03）的 EXSYS 品牌（德国 / 瑞士总部）意大利公司：自有品牌 PCI / PCIe 接口卡（600+ 型号）、工业 HUB、PoE 交换机，「100% made in Taiwan」，走经销 / 装机 / 子分销渠道（意大利 + 地中海）；1 名雇员；2025 营收 €233k、净利 €8.8k；表内「switch 自己的 logo PoE；用的 E-link 的设备」；群发 15 次无回复；官网 http_error",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（EXSYS ITALIA - S.R.L.；P.IVA 02375220130；VIA BELVEDERE 45/B COMO；REA 257326；Fatturato € 233.294 (2025)；Dipendenti 1 (2026)；Iscrizione 03/09/1998；Utile € 8.840）+ fatturatoitalia（Anno Fondazione 15/04/1998；costo personale € 20.600）+ exsys.it 首页（oltre 600 modelli di schede；100% made in Taiwan；garanzia 24 mesi）+ exsys.it/negozio/about-us（1998；sede storica Germania / Svizzera；rivenditori / installatori / assemblatori / sub distributori；fascia mediterranea）；2026-10-28",
+   "url": "https://www.ufficiocamerale.it/7762/exsys-italia-srl",
+   "number": "P.IVA 02375220130 / REA CO-257326",
+   "status": "Attiva",
+   "incorporated": "1998-04-15",
+   "company_type": "S.r.l.",
+   "sic": [
+    "自有品牌 接口卡 / 工业 HUB / PoE 交换机（台湾代工）分销"
+   ],
+   "address": "Via Belvedere 45/B, 22100 Como (CO)",
+   "accounts": "2025 营收 €233,294 / 净利 €8,840",
+   "accounts_due": "—",
+   "size_band": "微型（1 人）",
+   "officers": [
+    "（未取）— 收件人 exsys@exsys.it"
+   ],
+   "psc": "EXSYS 集团（德 / 瑞；推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 EXSYS 已贴标 PoE 交换机（台湾代工）、1 人微型 → 贴标 30% small，一页纸一次（切口：EXSYS 标 STC-028GP / STC-228GP / STI-054GP 作台系代工的第二价位 + 小 MOQ；意语引子）；再无回声 → 不动**",
+    "稿内不点名 E-link；发信窗口 Thu 12–14 CET；旁线索 EXSYS 德国 / 瑞士总部另立户评估"
+   ],
+   "notes": "贴标 30% small；一页纸一次；坐实（P.IVA + REA + 营收）。",
+   "code": "SB-146"
+  },
+  "SB-234": {
+   "batch": 111,
+   "name": "Benzotronic di Benzoni Mauro（impresa individuale；benzotronic.it；Viale Antonio Gramsci 76 / Via Bassano del Grappa 68, 48121 Ravenna；P.IVA 01414660397；CF BNZMRA64R13H199Y）— 1998 年创立的专业电子 / 通信 / 安防门店 + 网店（Ajax / Pyronix；面向本地个人与小企业）；3 名雇员；业主 Mauro Benzoni；表内「商业 PoE ONV 的」；群发 13 次无回复；官网 http_error",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：benzotronic.it/privacy-policy（Benzotronic di Benzoni Mauro；Via Bassano del Grappa 68 / Viale Antonio Gramsci 76 Ravenna；P.IVA 01414660397）+ informazione-aziende（CF BNZMRA64R13H199Y；IMPRESA INDIVIDUALE；47.59.3）+ misterimprese（1995；3 dipendenti；Responsabile Mauro Benzoni）+ benzotronic.it/custom/chi-siamo（nasce nel 1998 come negozio di elettronica）；2026-10-28",
+   "url": "https://www.benzotronic.it/privacy-policy/",
+   "number": "P.IVA 01414660397",
+   "status": "Attiva",
+   "incorporated": "1998（个体）",
+   "company_type": "Impresa individuale",
+   "sic": [
+    "电子 / 安防 门店 + 网店（拉文纳）"
+   ],
+   "address": "Viale Antonio Gramsci 76, 48121 Ravenna (RA)",
+   "accounts": "—（个体，无公开账）",
+   "accounts_due": "—",
+   "size_band": "微型（3 人）",
+   "officers": [
+    "Mauro Benzoni — Titolare = 拍板人"
+   ],
+   "psc": "Mauro Benzoni",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体电子门店（本地零售为主；13 次无打开）→ 按「一人网店」规则 不动（主动询盘走零售价 / 预付款）**"
+   ],
+   "notes": "不动（个体门店）；坐实（P.IVA + CF + 业主）。",
+   "code": "SB-234"
+  },
+  "SB-237": {
+   "batch": 111,
+   "name": "Dales srl（D'ales S.r.l.；站点 dalessandris.it「D'Alessandris Group」；Corso Giacomo Matteotti 78, 73054 Presicce-Acquarica (LE)；P.IVA 04273690752）— 2010 年成立的暖通 / 锅炉 / 光伏 / 电气材料 / 五金批发零售商（集团 1970 起；18 名雇员）；网店兼售 Shelly 等智能家居 / 少量 CCTV；≠ 同名 D'ALESSANDRIS S.R.L. Supino (FR) 02452850601（不动产）；表内「商业 PoE Hisource 的，主要是 CCTV」；群发 13 次无回复",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：dalessandris.it 页脚（Dales srl；Corso Giacomo Matteotti n°78 73054 Presicce-Acquarica (LE)；P.I. 04273690752；D'Alessandris Group 52 anni）+ misterimprese（D'ales S.r.l. Acquarica del Capo；P.IVA 04273690752；2010；18 dipendenti；ferramenta）+ web.tiscali.it/dalessandris（1970 Giovanni D'Alessandris；termoidraulica）+ ufficiocamerale（D'ALESSANDRIS S.R.L. Supino 02452850601 = 不动产公司，≠）；2026-10-28",
+   "url": "https://www.dalessandris.it/",
+   "number": "P.IVA 04273690752",
+   "status": "Attiva",
+   "incorporated": "2010",
+   "company_type": "S.r.l.",
+   "sic": [
+    "暖通 / 光伏 / 电气材料 / 五金 批发零售"
+   ],
+   "address": "Corso Giacomo Matteotti 78, 73054 Presicce-Acquarica (LE)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（18 人）",
+   "officers": [
+    "（未取；D'Alessandris 家族）— 收件人 info@dalessandris.it"
+   ],
+   "psc": "D'Alessandris 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**暖通 / 光伏 / 五金商（网络仅附带类目）→ 非目标行业 → 不动**"
+   ],
+   "notes": "不动（非目标行业）；坐实（P.IVA 页脚 + 名录）。",
+   "code": "SB-237"
+  },
+  "SB-526": {
+   "batch": 111,
+   "name": "automationstore.it（经营主体未坐实；自动化产品网店；快照为验证等待页；仅 info@）— 1 次检索未命中（结果为同名无关 A.I. AUTOMAZIONE INDUSTRIALE S.R.L. 03059890966 Nerviano / AUTOMAZIONI INDUSTRIALI S.R.L. 02053790248 Schio，均无 automationstore.it 关联证据）；群发 23 次无回复",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale 同名命中（A.I. AUTOMAZIONE INDUSTRIALE S.R.L. 03059890966 aisrl.it €13.2M / AUTOMAZIONI INDUSTRIALI S.R.L. 02053790248 金属结构；均 ≠ automationstore.it，无关联证据）；1 查即停；2026-10-28",
+   "url": "https://www.automationstore.it/",
+   "number": "未取",
+   "status": "未取",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "自动化产品 网店"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "（无 KP）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 + 无 KP + 23 次无打开 + 站点验证墙 → 不动（B 保留）**"
+   ],
+   "notes": "未坐实（1 查即停）→ 不动；同名 ≠ 已记。",
+   "code": "SB-526"
+  },
+  "SB-747": {
+   "batch": 111,
+   "name": "Digitclik di Princic Iztok（impresa individuale；digitclik.it / digitclik.com；34170 Gorizia（斯洛文尼亚语区，站点「Stran v izdelavi」建设中）；P.IVA 未取全）— 一人网络 / 工业 FS 网店（vat-validation 条目「Digitclik DI Princic Iztok, 34170 Gorizia」）；≠ 斯洛文尼亚 DIGITKLIK d.o.o. Trzin 2106817000；表内「像是国内的工商业 switch」；群发 23 次无回复",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：vat-validation.com（Digitclik DI Princic Iztok；34170 Gorizia；Friuli-Venezia Giulia；P.IVA 数字未在摘要显示）+ vat-search（旧名 Demetz Princic）+ bizi.si（DIGITKLIK d.o.o. Trzin SI61365645 = 斯洛文尼亚他家，≠）；1 查即停；2026-10-28",
+   "url": "https://vat-validation.com/YH.v_Digitclik+DI+Princic+Iztok",
+   "number": "P.IVA 未取全",
+   "status": "未取",
+   "incorporated": "未取",
+   "company_type": "Impresa individuale",
+   "sic": [
+    "网络产品 一人网店（戈里齐亚）"
+   ],
+   "address": "34170 Gorizia (GO)",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（1 人）",
+   "officers": [
+    "Iztok Princic — Titolare"
+   ],
+   "psc": "Iztok Princic",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一人网店 + 站点建设中 + 23 次无打开 → 不动**"
+   ],
+   "notes": "部分坐实（业主 + 城市；P.IVA 未取全）→ 不动。",
+   "code": "SB-747"
   }
  }
 }

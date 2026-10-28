@@ -4,7 +4,7 @@
   "source": "Lithuania · Registrų centras / Sodra 公开数据（rekvizitai.vz.lt）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 9
+  "count": 11
  },
  "rows": {
   "SB-789": {
@@ -295,6 +295,69 @@
    ],
    "notes": "部分坐实（网站代码）；微型网店 → 不动。",
    "code": "SB-491"
+  },
+  "SB-778": {
+   "batch": 111,
+   "name": "UAB „Enzas“（商号 Pyramid.lt / Pyramid Electronics；pyramid.lt / pyramid-electronics.com；Ukmergės g. 219-1, LT-07152 Vilnius + 门店 Akropolis Ozo g. 25；įmonės kodas 303005607；PVM LT100009310917）— 2013-02-21 成立的监控 / 安防 / 对讲 / 门禁 / 网络设备网店 + 门店（Hikvision / Dahua / Ajax；**自有品牌 Pyramid 摄像机 PYR-SH200X 系列**；EN / RU / LT 服务；1 名自然人股东）；Direktorius Arūnas Ramonas（= 研究档 KP）；9–10 名雇员；KP Mattheos Dimitras（Business Manager）；表内「卖 Longse 的」；群发 24 次无回复",
+   "iso": "LT",
+   "fetched": "2026-10-28",
+   "source": "LT · 1 次检索：pyramid.lt/en/about-pyramid/contacts（UAB Enzas；Company code 303005607；VAT LT100009310917；Ukmergės street 219 Vilnius；shop Akropolis Ozo 25；EN, RU, LT）+ info.lt（Direktorius Arūnas Ramonas；Registracijos data 2013.02.21；10 darbuotojų）+ kaina24（9 darbuotojai）+ rekvizitai.vz.lt/en/company/enzas（founded 2013-02-21；1 shareholder individual；video surveillance systems）+ varle.lt 卖家页（UAB \"Enzas\" 303005607；品牌 Pyramid PYR-SH200XF 摄像机）；2026-10-28",
+   "url": "https://rekvizitai.vz.lt/en/company/enzas/",
+   "number": "įmonės kodas 303005607",
+   "status": "Veikianti",
+   "incorporated": "2013-02-21",
+   "company_type": "UAB",
+   "sic": [
+    "安防 / 监控 网店 + 门店（自有品牌 Pyramid 摄像机）"
+   ],
+   "address": "Ukmergės g. 219-1, LT-07152 Vilnius",
+   "accounts": "未取（rekvizitai 可取，未展开）",
+   "accounts_due": "—",
+   "size_band": "小型（9–10 人）",
+   "officers": [
+    "Arūnas Ramonas — Direktorius（info.lt / rekvizitai）= 拍板人 / 收件人（研究档 KP arunas@）",
+    "Mattheos Dimitras — Business Manager（研究档 KP）= 收件人（抄）"
+   ],
+   "psc": "1 名自然人股东（推定 Ramonas）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已有自有品牌 Pyramid 摄像机 → 贴标 30% small，一页纸一次（切口：Pyramid 品牌 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP 配自家摄像机套件，中性包装 + 自编货号；英 / 俄文引子，Arūnas 直呼）；有回声再加厚**",
+    "稿内不点名 Longse / Hikvision / Dahua；发信窗口 Thu 12–14 EET"
+   ],
+   "notes": "贴标 30% small；一页纸一次；坐实（kodas + PVM + Direktorius）。",
+   "code": "SB-778"
+  },
+  "SB-247": {
+   "batch": 111,
+   "name": "jpg.lt（经营主体未坐实；立陶宛语监控 / 安防网店：IP 摄像机、Dahua PoE、16 口 PoE、Ajax、Teltonika、车牌识别；仅 info@jpg.lt）— 1 次检索未命中法人（rekvizitai 关键词页仅返回 Enzas / BK grupė 等他家）；研究档国别「意大利」有误，entities iso LT 正确；群发 21 次无回复",
+   "iso": "LT",
+   "fetched": "2026-10-28",
+   "source": "LT · 1 次检索：rekvizitai.vz.lt 关键词搜索（jpg.lt 未出现；命中 Enzas 303005607 / Vaizdo stebėjimo sprendimai 304730989 / BK grupė 210599550 = 他家）+ jpg.lt 首页（LAN ir PoE įranga；AJAX；Numerių atpažinimo sistema；无页脚法人信息）；1 查即停；2026-10-28",
+   "url": "https://jpg.lt/",
+   "number": "未取",
+   "status": "未取",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "监控 / 安防 网店（立陶宛）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "（无 KP）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 + 无 KP + 21 次无打开 → 不动（B 保留；主动询盘预付款）**",
+    "研究档国别需改 LT（entities 已为 LT）"
+   ],
+   "notes": "未坐实（1 查即停）→ 不动。",
+   "code": "SB-247"
   }
  }
 }
