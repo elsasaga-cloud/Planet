@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 105
+  "count": 113
  },
  "rows": {
   "SA-002": {
@@ -3581,6 +3581,275 @@
    ],
    "notes": "不动（芯片供应商；误记）；country_fix 美国。",
    "code": "SB-753"
+  },
+  "SB-209": {
+   "batch": 104,
+   "name": "DENWA TECHNOLOGY CORP（Denwa IP；denwaip.com；Miami / Pembroke Pines, Florida）— 2002 年起（GlobalThink 起家）的统一通信 / IP 电话自有品牌商（IP-PBX、软交换、IP 话机、视频会议、WebRTC；「Switching your Life」自有标 PoE 交换机）；美国 + 阿根廷 + 智利办公室，经官方分销网络覆盖美洲；FL Sunbiz **P11000054719**（另 DENWAIP TECH LLC L21000046981）；51–200 人；**KP Juan Jose Michel = Product Manager**；群发 11 次无回复",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 Company（DENWA TECHNOLOGY CORP. founded in 2002 based on GlobalThink；1995 起 IP 电话经验，NASA VoIP 部署；2003 首款 GBILL；销售办公室 1000 N.W. 57th Court Suite 1040, Miami, FL 33126；+1 305 587 2453；sales@denwaip.com）+ Sunbiz 实体名单（DENWA TECHNOLOGY CORP P11000054719 Active；DENWAIP TECH LLC L21000046981 Active；DENWA HOLDINGS, INC. P99000030761 INACT）+ LinkedIn（Denwa IP；Telecommunications；51–200；HQ 1931 NW 150th Ave, Pembroke Pines, FL 33028；2002）+ Google Play 开发者（Denwa Technology Corp；1000 NW 57th Ct Ste 1040 Miami；lmartinez@denwaip.com）+ Tracxn / CB Insights",
+   "url": "https://www.denwaip.com/en/company.php",
+   "number": "FL Sunbiz P11000054719（DENWA TECHNOLOGY CORP）· 另 DENWAIP TECH LLC L21000046981",
+   "status": "Active",
+   "incorporated": "2002（公司起源）；FL 登记 2011",
+   "company_type": "Florida Profit Corporation（私有；美 / 阿根廷 / 智利）",
+   "sic": [
+    "统一通信自有品牌（IP-PBX、软交换、IP 话机、视频、WebRTC）+ 配套自有标 PoE 交换机，经美洲官方分销网络销售"
+   ],
+   "address": "1000 NW 57th Court Suite 1040, Miami, FL 33126（销售）；1931 NW 150th Ave, Pembroke Pines, FL 33028（LinkedIn 总部）",
+   "accounts": "第三方 $7M–$50M+ 分歧大（不采）",
+   "accounts_due": "—",
+   "size_band": "中型（51–200 人）",
+   "officers": [
+    "Juan Jose Michel — Product Manager = 研究档 KP 本人 = 选型人",
+    "L. Martinez — 开发者账户联系人（lmartinez@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "GlobalThink（2002）"
+   ],
+   "lines": [
+    "**自有品牌 UC 厂商，PoE 交换机已挂自家标（表内「商业 PoE 自己的 logo」）→ 贴标 OEM 30% 目标，B BIG**：Denwa 标 STC-028GP / STC-228GP / STC-2224GP（话机配套 PoE）+ STC-4424GCPM；11 次群发无回复 → 二次触达换成产品经理一对一「a second-source PoE line under the Denwa label — CE/FCC, 3-year option, MOQ 1, DAP Miami」；加厚一次",
+    "收件人 juanjomichel@ 点名 Product Manager；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）"
+   ],
+   "notes": "贴标 OEM 30% 目标；B BIG；加厚一次；升 A 候选；11 次无回复。",
+   "code": "SB-209"
+  },
+  "SB-775": {
+   "batch": 104,
+   "name": "Patton Electronics Co.（Patton LLC；patton.com；Gaithersburg, Maryland）— 1984 年 Patton 兄弟创立的美国网络 / 通信设备制造商（VoIP 网关、UC、SmartNode、工业以太网与光纤延长、SFP；「US Manufactured」；ISO 9001；200+ 分销商覆盖 170 国）；马里兰 C 型公司；SAM UEI CETFWF46TQ69；President & CEO Robert R.「Bobby」Patton，EVP Burton A. Patton（共同创办人 / 所有人）；170–350 人；研究档 KP Jennefer Staub（Account Manager）/ Gary Portellas / Jerry Roznovsky",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：Patton 官方 Corporate Profile PDF（Established 1984；Registered Maryland “C” Corporation；Robert R. Patton President；Burton A. Patton EVP Sales/Marketing；Bruce E. Patton VP Finance；总部 Gaithersburg；200+ 分销商；ISO 9001）+ opengovus SAM（PATTON ELECTRONICS CO；7622 Rickenbacker Dr, Gaithersburg, MD 20879-4773；UEI CETFWF46TQ69；业务始于 1984-01-01；officers Burton A. Patton EVP、Jennefer Staub ACCOUNT MANAGER、Natalie Parnell Inside Sales Manager）+ Crunchbase（Bobby Patton 2009-01 任 CEO）+ Zippia（350 人）/ LinkedIn Bobby Patton（170+ 人；出口 30+ 国）+ Thomasnet（Manufacturer；Bobby Patton Pres & CEO；Burt Patton EVP）+ Bloomberg",
+   "url": "https://opengovus.com/sam-entity/CETFWF46TQ69",
+   "number": "Maryland C Corporation（SDAT 号未取）· SAM UEI CETFWF46TQ69",
+   "status": "Active（SAM 在册；2026 站点）",
+   "incorporated": "1984",
+   "company_type": "Corporation（Patton 家族私有）",
+   "sic": [
+    "网络 / 通信设备设计制造（VoIP 网关、UC、IoT、工业以太网、光纤延长、SFP、串口）+ 全球分销渠道"
+   ],
+   "address": "7622 Rickenbacker Drive, Gaithersburg, MD 20879",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（170–350 人）",
+   "officers": [
+    "Robert R. \"Bobby\" Patton — President & CEO（2009 起；共同创办人）",
+    "Burton A. Patton — EVP / 共同创办人 / 所有人",
+    "Jennefer Staub — Account Manager = 研究档 KP（销售侧，非采购）",
+    "Joachim Wlotzka — VP Engineering"
+   ],
+   "psc": "Patton 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**同行制造商（自有工业以太网线，部分外采）→ 贴标 OEM 30% 低中概率**：切口 = 「a managed L2+ PoE / 10G uplink line to complement your industrial Ethernet portfolio」STC-2224GP / STC-4424GCPM / STI-288DGGPM；**不提 TAA / US-made / 政府**；一页纸给产品管理，不加厚",
+    "收件人改 product management（研究档 KP 为销售侧，不是对口）；表内 3 KP 均销售 → 首信一页纸；发信窗口 Wed 08–10 ET"
+   ],
+   "notes": "贴标 OEM 30% 低中概率（同行制造商）；一页纸。",
+   "code": "SB-775"
+  },
+  "SB-810": {
+   "batch": 104,
+   "name": "ENS Security（原 EasternCCTV；enssecurity.com；Plainview, New York）— 2000 年 College Point NY 起家的美国安防批发商 + 自有贴标厂（「Wholesale distributor of OEM surveillance products」：摄像机 / NVR / PoE 交换机均贴 ENS 标，表内 PoE 疑 Ewind 代工）；11 个网点（NY / CA / TX / IL / FL + 加拿大 Markham）；Founder & CEO Kevin Zhou；51–200 人（≈146），$34.1M；法定实体名与 NY DOS 号未取 → 部分坐实；KP Marcela Garza；群发 15 次无回复",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 About / Careers（2000 年 College Point NY 首店；2010 City of Industry；2011 Plainview；2014–15 Panorama City / Houston；50 Commercial St. Plainview, NY 11803；「Wholesale distributor of OEM surveillance and security products」「design, development, manufacturing and distribution」）+ Crunchbase（Founder & CEO Kevin Zhou；2000；sales@；+1 516-870-3779）+ LinkedIn（51–200；Plainview NY；2000；Partnership）+ RocketReach（$34.1M；146 人）+ Indeed（新增 Markham, Ontario 分部）+ Lensa（11 个网点）+ Yelp（was EasternCCTV）",
+   "url": "https://enssecurity.com/about-us/",
+   "number": "NY 实体（法定名 / DOS 号未取 → 部分坐实）",
+   "status": "Active（2026 站点更新）",
+   "incorporated": "2000",
+   "company_type": "私有（Partnership / Corporation 未核；华裔创办人 Kevin Zhou）",
+   "sic": [
+    "安防产品批发分销 + 自有贴标（CCTV 摄像机、DVR/NVR、PoE 交换机、报警、对讲；面向安装商，项目支持）；11 个网点"
+   ],
+   "address": "50 Commercial St., Plainview, NY 11803（总部）；分部 College Point NY / City of Industry CA / Panorama City CA / Houston TX / IL / FL / Markham ON",
+   "accounts": "第三方 $34.1M（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "中型（51–200 人）",
+   "officers": [
+    "Kevin Zhou — Founder & CEO = 拍板人",
+    "Marcela Garza — 研究档 KP（分部销售 / 采购？职务未核）",
+    "Xianjie Xiong — 管理层（Glassdoor）"
+   ],
+   "psc": "Kevin Zhou（推定）",
+   "charges": "",
+   "prev_names": [
+    "EasternCCTV（2000–）"
+   ],
+   "lines": [
+    "**全线贴标批发商（PoE 交换机现由同行代工）→ 贴标 OEM 30% 目标，B BIG**：ENS 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM（第二货源 + 管理型升级）；15 次群发无回复 → 二次触达必须换路径：产品 / 采购总监点名 + 华裔创办人（**中文直联与否由 Simon 定，默认否**）；加厚一次",
+    "收件人 marcela.g@ 点名 + 抄 purchasing；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）"
+   ],
+   "notes": "贴标 OEM 30% 目标；B BIG；加厚一次；升 A 候选；部分坐实；15 次无回复。",
+   "code": "SB-810"
+  },
+  "SB-981": {
+   "batch": 104,
+   "name": "L-com, LLC（L-com Global Connectivity；l-com.com；North Andover, Massachusetts）— 1982 年 Alfred F. Contarino Sr. 创立（根源 1949 ALCO Electronics）、1983-01-02 登记的有线 / 无线连接产品制造分销商（线缆组件、连接器、天线、机箱、浪涌、**自有标工业以太网交换机 / PoE 注入器**；5 万 SKU 当日发货；ISO 9001:2015）；**2016 起为 Infinite Electronics 品牌（PE 控股；Infinite Electronics International, Inc. UEI NYEMFJ7MMJB5 / CAGE 43321）**；201–500 人；KP Steve Smith（Product Manager）/ Mary Kleinfelter",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：BBB（L-com；Business Started 1982-01-01；Incorporated 1983-01-02；LLC；Alternate Names L-com Global Connectivity / L-com, LLC；Manager Lester Smock；400 人）+ Infinite Electronics 品牌页（Founded 1982；wired and wireless connectivity）+ PitchBook（1982；201 人；Buyout/LBO；母公司 Infinite Electronics；50 High Street, West Mill, 3rd Floor Suite 30, North Andover, MA 01845）+ PRWeb 40 周年（1982 成立；1949 ALCO 根源；1984 转连接产品；MA / FL / 中国 工厂）+ HigherGov（Infinite Electronics International, Inc.；UEI NYEMFJ7MMJB5；CAGE 43321；DE 公司；North Andover）+ LinkedIn（201–500）",
+   "url": "https://www.bbb.org/us/ma/north-andover/profile/wholesale-computers/l-com-0021-10171",
+   "number": "L-com, LLC（MA；SoS 号未取）；母体 Infinite Electronics International, Inc.（DE；UEI NYEMFJ7MMJB5 · CAGE 43321）",
+   "status": "Active",
+   "incorporated": "1983-01-02（1982 创立）",
+   "company_type": "LLC（Infinite Electronics / PE 控股品牌）",
+   "sic": [
+    "有线 / 无线连接产品制造与分销（线缆组件、连接器、适配器、天线、机箱、浪涌、工业以太网 / PoE 自有标）；5 万 SKU 当日发货；MA / FL / 中国 工厂"
+   ],
+   "address": "50 High Street, West Mill, 3rd Floor Suite 30, North Andover, MA 01845",
+   "accounts": "第三方 $5–25M（L-com 单品牌；集团更大）",
+   "accounts_due": "—",
+   "size_band": "大型（201–500 人；集团）",
+   "officers": [
+    "Steve Smith — Product Manager = 研究档 KP = 选型对口",
+    "Mary Kleinfelter — 研究档 KP（职务未核）",
+    "Lester Smock — Manager（BBB）"
+   ],
+   "psc": "Infinite Electronics（Warburg Pincus 系 PE）",
+   "charges": "",
+   "prev_names": [
+    "ALCO Electronics（1949，根源）"
+   ],
+   "lines": [
+    "**自有标工业以太网 / PoE 线（亚洲外采）+ 产品经理为 KP → 贴标 OEM 30% 目标，B BIG**：L-com 标 STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM + STC-228GP；供应商准入资料包（CE/FCC/RoHS、保修 3 年、MOQ 1）；加厚一次",
+    "收件人 ssmith@ 点名 Product Manager Steve Smith，抄 mkleinfelter@；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）"
+   ],
+   "notes": "贴标 OEM 30% 目标；B BIG；加厚一次；升 A 候选。",
+   "code": "SB-981"
+  },
+  "SB-835": {
+   "batch": 104,
+   "name": "FiberOptic Supply（fiberopticsupply.com；Denver, Colorado）— 1997-04 起（BBB 登记 1998-04-02；Corporation）的通信级光纤产品分销商（光缆、组件、配线管理、熔接耗材、OSP、测试仪、工具；MC / SFP 有源分类）；Owner / President Bryan Hogan（2001 起）；2–10 人；CO SoS 号未取 → 部分坐实；表内 2 次跟进无回复",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 About（1997-04 成为丹佛地区首家专注通信级光纤产品的分销商；团队 Bryan Hogan President / Eddie Holub Sales-Web / Greg Charlton Sales）+ BBB（2171 S Trenton Way Ste 223, Denver, CO 80231-5359；Business Started 1998-04-02；Type of Entity Corporation；Owner Mr. Bryan Hogan；27 年）+ LinkedIn（2–10；Denver；1997；Bryan Hogan Owner）+ ZoomInfo（(303) 743-0916）；同名 Fiber Optic Supply, Inc.（fosupply.com）= 他家，不采",
+   "url": "https://fiberopticsupply.com/about-us/",
+   "number": "CO Corporation（SoS 号未取 → 部分坐实）",
+   "status": "Active（站点在线；BBB 在册）",
+   "incorporated": "1997-04（BBB 1998-04-02）",
+   "company_type": "Corporation（私有；Bryan Hogan）",
+   "sic": [
+    "光纤产品分销（光缆、组件、配线管理、耗材、熔接材料、OSP、测试仪、工具；MC / SFP 有源配套）"
+   ],
+   "address": "2171 S Trenton Way, Suite 223, Denver, CO 80231",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Bryan Hogan — Owner / President（2001 起）= 拍板人 / 收件人",
+    "Eddie Holub — Sales / Web",
+    "Greg Charlton — Sales"
+   ],
+   "psc": "Bryan Hogan",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型光纤分销网店（卖别人的 MC）→ 分销 20% small**：STI-144GP / STC-110XGE / STC-228GP（光口交换机作 MC 替代）；一页纸；2 次无回复 → 一次后 `不动`",
+    "收件人 sales@ 点名 Owner Bryan Hogan；发信窗口 Wed 08–10 MT"
+   ],
+   "notes": "分销 20% small；一页纸后不动；部分坐实。",
+   "code": "SB-835"
+  },
+  "SB-673": {
+   "batch": 104,
+   "name": "NODAC TECHNOLOGY, INC.（nodactechnology.com；Doral / Miami, Florida + Pompano Beach）— 2005-03-10 登记（业务 2001 起）的安防与弱电分销商（Hikvision / Dahua / Uniview / ZKTeco / TVT / Ruijie / TP-Link / Wi-Tek 分销；覆盖美国、拉美、加勒比；经销商与项目登记计划）；FL Sunbiz **P05000037533**，FEI 20-2538531；President / Owner Oscar Cortes；11–50 人，<$5M；研究档无 KP",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：bisprofiles / Sunbiz（NODAC TECHNOLOGY, INC.；Domestic for Profit；Filed Number P05000037533；FEI 202538531；Date of Incorporation 2005-03-10；Active；Doral FL）+ 官网 About（Since 2001；美国 / 拉美 / 加勒比；Hikvision / ZKTeco / Ruijie / TP-Link / Wi-Tek / Dahua / Keri / Uniview / TVT Distributor；2236 NW 82 Av, Miami FL 33122；1301 W Copans Rd #A-3 Pompano Beach；+1 305-471-0422；WhatsApp +1 786 377-4190）+ ZoomInfo（Oscar Cortes President；11–50；<$5M；2001）+ Manta（20–49 人；Owner Oscar Cortes）",
+   "url": "https://bisprofiles.com/fl/nodac-technology-p05000037533",
+   "number": "FL Sunbiz P05000037533 · FEI 20-2538531",
+   "status": "Active",
+   "incorporated": "2005-03-10（业务 2001 起）",
+   "company_type": "Florida Profit Corporation（私有；Oscar Cortes）",
+   "sic": [
+    "安防 / 弱电产品分销（CCTV、门禁、网络、对讲、报警、音频、VoIP、GPS / IoT SIM；中国品牌为主），面向美国 + 拉美 + 加勒比经销商与集成商"
+   ],
+   "address": "2236 NW 82nd Ave, Doral (Miami), FL 33122；1301 W Copans Rd #A-3, Pompano Beach, FL",
+   "accounts": "第三方 <$5M（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Oscar Cortes — President / Owner = 拍板人 / 收件人"
+   ],
+   "psc": "Oscar Cortes（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**中国品牌（含 Ruijie / TP-Link / Wi-Tek 交换机）分销商，面向拉美 → 价格敏感、懂中国直采 → 分销 20%**：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（对标 Wi-Tek / TP-Link 价位，Marvell L2+ 为差异）；一页纸 + 价格对照；不加厚",
+    "收件人 info@ 点名 President Oscar Cortes；表内未跟进 → 首信一页纸（西语市场，英文稿即可）；发信窗口 Wed 08–10 ET"
+   ],
+   "notes": "分销 20%（拉美渠道、价格敏感）；一页纸。",
+   "code": "SB-673"
+  },
+  "SB-682": {
+   "batch": 104,
+   "name": "Server Blink LLC（serverblink.com；Louisville, Kentucky — 登记地址为邮箱套房 PMB 5001）— 2022 年成立的 IT 硬件网店（PC / 服务器配件、网络设备代发；站内 Zyxel 多千兆 / 10G 型号；接受政府 / 国防采购单）；Owner Muhammad Amir；2–10 人（≈4），$1.9M；KY SoS 号未取 → 部分坐实；研究档无 KP",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 Contact / 博客（Server Blink LLC；2024-07-24 登记地址由 7301 Fegenbush Ln 201-5001 迁至 2210 Goldsmith Lane Ste 126-5001, Louisville, KY 40218；博文署名 Muhammad Amir - Owner）+ D&B（2210 Goldsmith Ln Ste 126 **PMB** 5001 = 邮箱）+ LinkedIn（2–10；Louisville；2022）+ Datanyze（4 人；$1.9M；2022）+ 官网开户页（接受 Fortune 1000 / 政府 / 国防 PO）+ Trustpilot（Account Manager Steve Warner）",
+   "url": "https://www.serverblink.com/blog/serverblinks-registered-address-has-changed/",
+   "number": "KY LLC（SoS 号未取 → 部分坐实）",
+   "status": "Active（2026 评论活跃）",
+   "incorporated": "2022",
+   "company_type": "LLC（私有；Owner Muhammad Amir；邮箱地址经营）",
+   "sic": [
+    "IT 硬件电商 / 代发（PC、服务器配件、存储、网络设备、电源），面向企业 / 政府 / 教育"
+   ],
+   "address": "2210 Goldsmith Lane, Ste 126-5001 (PMB), Louisville, KY 40218",
+   "accounts": "第三方 $1.9M（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "微型（≈4 人）",
+   "officers": [
+    "Muhammad Amir — Owner",
+    "Steve Warner — Account Manager"
+   ],
+   "psc": "Muhammad Amir",
+   "charges": "",
+   "prev_names": [
+    "旧址 7301 Fegenbush Ln #201-5001, Louisville, KY 40228"
+   ],
+   "lines": [
+    "**2022 年邮箱地址代发网店（无仓、项目制转卖）→ 采购型 small**：一页纸即止（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W 作其 Zyxel 多千兆 / 10G 类目的价位替代）；无回复 → `不动`；**不提政府 / 国防**",
+    "收件人 sales@ 点名 Owner Muhammad Amir；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 ET"
+   ],
+   "notes": "采购型 small；一页纸后不动；部分坐实。",
+   "code": "SB-682"
+  },
+  "SB-473": {
+   "batch": 104,
+   "name": "BTU Research / INTEPO（bturesearch.com → intepo.com）— 现以「INTEPO Sovereign Infrastructure」定位：面向 AI 推理的去中心化自治边缘基础设施平台（IP68 密封、对流散热节点；「mission intelligence」国防色彩；原 UPS PoE 交换机 / 注入器）；KP Michael Kanarellis；**1 次检索未命中法人登记 → 未坐实**",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：仅命中 intepo.com 首页（INTEPO Sovereign Infrastructure；页面标题仍为「UPS POE Switches and UPS POE Injectors」；IP68 hermetically sealed、convection-cooled；Sentinel / Hermes 框架；2026-05 更新）；BTU Research LLC / Intepo 法人、州、地址、官员均未命中 → 未坐实（规则：1 次未命中即停）",
+   "url": "https://intepo.com/",
+   "number": "未取（未坐实）",
+   "status": "未取（站点 2026-05 在线）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "AI 边缘基础设施平台（IP68 密封节点、自治治理）；历史产品 UPS PoE 交换机 / 注入器"
+   ],
+   "address": "未取（研究档：美国）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取（推定微型）",
+   "officers": [
+    "Michael Kanarellis — 研究档 KP（职务未核）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "BTU Research（UPS PoE 产品）"
+   ],
+   "lines": [
+    "**IP68 密封 + 国防色彩的自研平台（Saga 不做 IP67/IP68、不碰军工）→ `不动`**；未坐实，不补查",
+    "不发信"
+   ],
+   "notes": "不动（IP68 / 国防守界）；未坐实。",
+   "code": "SB-473"
   }
  }
 }

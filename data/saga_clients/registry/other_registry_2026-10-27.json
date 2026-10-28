@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 43
+  "count": 44
  },
  "rows": {
   "SA-061": {
@@ -1348,6 +1348,37 @@
    ],
    "notes": "country_fix 爱沙尼亚；登记号未取（爱沙尼亚 e-Business Register 付费 / 需名）。",
    "code": "SB-370"
+  },
+  "SB-1032": {
+   "batch": 104,
+   "name": "Foppex Ltd.（foppex.com；**尼科西亚 Strovolos，塞浦路斯 — 研究档「美国」误，country_fix 塞浦路斯**）— 2010-04 由 Akçaba Communications 股东在塞浦路斯共和国注册的光纤产品制造 / 分销商（塞浦路斯首家光纤尾纤 / 跳线工厂；光收发器、光纤 MC、配线、测试仪；电话 / VoIP / 网络 / 安防方案）；表内「有 Planet 的工业 FS」；研究档无 KP",
+   "iso": "CY",
+   "fetched": "2026-10-28",
+   "source": "CY · 1 次检索：官网 About（Foppex Ltd is registered in the Republic of Cyprus by shareholders of Akçaba Communications in April 2010；光纤尾纤 / 跳线 / 连接器 / 配线架 / 终端盒营销）+ Our Brand（2010 年塞浦路斯首家光纤尾纤跳线制造设施；Akçaba Communications 子公司）+ 官网页脚（Foppex Ltd.；Thiseos 7, Strovolos, P.C. 2042, Nicosia, Cyprus；+357 22 030250；info@foppex.com）+ 产品页（10/100/1000M 光纤 MC、1.25G SFP / 10G SFP+ / 40G QSFP+ 自有标）；fiber-catalog 页的「123 6th St. Melbourne, FL」为模板占位符，非地址；塞浦路斯公司注册号（HE）未取",
+   "url": "https://foppex.com/about/",
+   "number": "塞浦路斯 Ltd.（HE 号未取 → 部分坐实）；母体 Akçaba Communications",
+   "status": "Active（2025 站点更新）",
+   "incorporated": "2010-04",
+   "company_type": "Private Limited Company（塞浦路斯；Akçaba 股东）",
+   "sic": [
+    "光纤产品制造与分销（尾纤 / 跳线自产；光收发器、光纤 MC、配线、测试仪、工具自有标 Foppex）+ 电话 / VoIP / 网络 / 安防方案"
+   ],
+   "address": "Thiseos 7, Strovolos, 2042 Nicosia, Cyprus",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（推定 10–30 人）",
+   "officers": [
+    "无具名（info@）"
+   ],
+   "psc": "Akçaba Communications 股东",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**塞浦路斯（欧盟）光纤自有标 + 在卖 Planet 工业交换机 → 贴标 small / 分销 20%**：Foppex 标 STI-144GP / STI-054GP / STC-110XGE / STC-228GP（光纤 MC 替代 + Planet 工业线的价位替代，不点名 Planet）；一页纸 + 贴标条款；不加厚",
+    "收件人 info@ 点名 purchasing / product；表内未跟进 → 首信一页纸；发信窗口 Thu 12–14 EET（欧盟稿 CE/RoHS，不用 UKCA/FCC）；国家改塞浦路斯"
+   ],
+   "notes": "贴标 small / 分销 20%；country_fix 塞浦路斯；一页纸；部分坐实。",
+   "code": "SB-1032"
   }
  }
 }
