@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 214
+  "count": 227
  },
  "rows": {
   "SA-061": {
@@ -6794,6 +6794,412 @@
    ],
    "notes": "贴标 OEM 30%（升 A 候选；DC 交换机客户）；一页纸一次（回声再加厚）；坐实（統編 + 代表人 + 設立日 + 地址 + 遷址史）。",
    "code": "SB-249"
+  },
+  "SB-500": {
+   "batch": 116,
+   "name": "CET Electric Technology Pte. Ltd.（cetsingapore.com；**UEN 201523201G；注册 2015-05-15；Exempt Private Company Limited By Shares；曾用名 Ceiec Electric Technology Singapore（= 中电 CET 集团新加坡分支）**；7 Mandai Link #05-33 Mandai Connection, Singapore 728653（2024-12 自 1 Corporation Drive #09-02 迁入）；电话 +65 6677 7279；SSIC 工程服务（2025-07 由工程设计咨询变更）；年报 2026-07-23 已报）— **数字电力监测 / 电能表 / 电能质量分析仪 + BMS 集成（Modbus / BACnet），配串口网关 PMC-1308（双以太网 10/100）**；表内「工业 FS 自己的 logo」；无 KP（contact@）；15 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：recordowl（CET ELECTRIC TECHNOLOGY PTE. LTD.；UEN 201523201G；Live Company；Incorporated 15 May 2015；Exempt Private Company Limited By Shares；Formerly known as Ceiec Electric Technology Singapore；Registered address 1 CORPORATION DRIVE #09-02 MANDAI CONNECTION 619775；2024-12-01 Postal Code → 728653；2025-07-08 SSIC ENGINEERING DESIGN AND CONSULTANCY → ENGINEERING SERVICES；Annual return filed 23 Jul 2026）+ cetsingapore.com/about（manufacturer behind digital power monitors, energy meters and power-quality analysers；partner EcoXplore；7, Mandai Link, #05-33, Mandai Connection 728653；(+65) 6677 7279；PMC-1308 serial gateway）；2026-10-28",
+   "url": "https://recordowl.com/company/cet-electric-technology-pte-ltd",
+   "number": "UEN 201523201G",
+   "status": "Live Company",
+   "incorporated": "2015-05-15",
+   "company_type": "Exempt Private Company Limited By Shares",
+   "sic": [
+    "71129 → 工程服务（电力监测 / 电能表；中电 CET 集团分支）"
+   ],
+   "address": "7 Mandai Link #05-33 Mandai Connection, Singapore 728653",
+   "accounts": "年报 2026-07-23 已报（数字未取）",
+   "accounts_due": "—",
+   "size_band": "小型（集团分支）",
+   "officers": [
+    "（研究档无 KP：contact@cetsingapore.com）"
+   ],
+   "psc": "CET 集团（深圳中电技术，推定）",
+   "charges": "",
+   "prev_names": [
+    "Ceiec Electric Technology Singapore"
+   ],
+   "lines": [
+    "**中资电力计量集团的新加坡分支：工业交换机由集团内部配套、15 次 0 回复、电力计量属守界边缘 → 不动（B 保留）**",
+    "守界：电力 / 变电站场景不碰"
+   ],
+   "notes": "不动（中资集团分支 + 15×0 + 守界边缘）；坐实（UEN + 注册日 + 类型 + 曾用名 + 地址 + 年报）。",
+   "code": "SB-500"
+  },
+  "SB-506": {
+   "batch": 116,
+   "name": "Fibertek Pte Ltd（fibertek-ap.com；**sgpbusiness 索引：FIBERTEK PTE LTD，3015A Ubi Road 1（与 Velocity Technology Industries / Fiberlan 同楼）；UEN 1 查未得 → 部分坐实**）— **自有品牌：工业 FS、多功能 VC、SFP、MC、光猫、小壳系列周边（表内「看着像国内的外壳」= 已直接从国内拿货）**；官网超时；无 KP（sales@）；17 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：sgpbusiness 同址索引（AP MOG GLOBAL PTE. LTD. / FIBERLAN PTE LTD 页内「FIBERTEK PTE LTD 3015A UBI ROAD 1」）；UEN / 注册日 未得（按 1 查纪律停）；2026-10-28",
+   "url": "https://www.sgpbusiness.com/company/Fiberlan-Pte-Ltd",
+   "number": "未取（UEN 1 查未得；实体名 FIBERTEK PTE LTD 已见）",
+   "status": "未取（官网超时）",
+   "incorporated": "未取",
+   "company_type": "Pte Ltd",
+   "sic": [
+    "光通信 / 网络周边 自有品牌（国内拿货）（Ubi）"
+   ],
+   "address": "3015A Ubi Road 1, Singapore（楼层未取）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "（研究档无 KP：sales@fibertek-ap.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已直接从国内拿货的小品牌、SFP / 光猫为主、无 KP、17 次 0 回复、主体未坐实 → 不动（B 保留）**"
+   ],
+   "notes": "不动（17×0 + 无 KP + 未坐实 + 已有国内货源）；部分坐实（索引实体名 + 地址）。",
+   "code": "SB-506"
+  },
+  "SB-708": {
+   "batch": 116,
+   "name": "Hyconext（hyconext.com；**Singapore HQ 128 Tanjong Pagar Road, Singapore 088535；美国办公室 1170 Centre Dr #F, City of Industry, CA 91789；法人名 / UEN 未取 → 部分坐实**）— **自有品牌 PoE / 以太网 / 数据中心交换机 + 光模块（面向 WISP / 运营商 / SMB；主推 2.5G NextWav 系列 HC8MT1XP_P+ / HC5MT1XP_P+ / HC16MT6XP-UP-PRO）；全球招分销商（= 自己是品牌方，机器外购）**；无 KP（sales@）；14 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：hyconext.com/18-l2-unmanaged-poe-switches（Singapore HQ: 128 Tanjong Pagar Road, Singapore, 088535；United States: 1170 Centre Dr #F, City of Industry, CA 91789；sales@ / support@；HC8MT1XP_P+ 8×2.5G + 1 SFP+ 120W；HC5FT_P+）+ hyconext.com/become-a-distributor（actively seeking partners worldwide as official distributors；NextWav / NextWav Lite 2.5G PoE；WISP, network operators, SMBs）+ facebook（Hyconext, Singapore；PoE switches and data center solutions for WISP operators）；UEN 未得；2026-10-28",
+   "url": "https://hyconext.com/become-a-distributor",
+   "number": "未取（法人名 / UEN 未得）",
+   "status": "营业中（官网 + 招商页在线）",
+   "incorporated": "未取",
+   "company_type": "未取（品牌）",
+   "sic": [
+    "PoE / 2.5G 交换机 品牌（外购贴牌；SG HQ + 美国办公室）"
+   ],
+   "address": "128 Tanjong Pagar Road, Singapore 088535",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（研究档无 KP：sales@hyconext.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**纯品牌方（机器外购、全球招分销）→ 贴标 OEM 30% B，一页纸一次（切口：其 1G 线的对位 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + 管理机 STC-4424GCPM（Marvell）+ 10G 上联 STC-110XGE + Hyconext 标 / 自编货号 / 中性包装 / 付费样机；2.5G 一句「另议」（待 SB-263 口径）；英文，收 sales@）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动",
+    "守界：主体未坐实 → 只做预付；不点名其现供应商；IMDA 不声称"
+   ],
+   "notes": "贴标 OEM 30%；一页纸一次；部分坐实（官网 HQ + 美国办公室；法人 / UEN 未取）。",
+   "code": "SB-708"
+  },
+  "SB-330": {
+   "batch": 116,
+   "name": "Omni-Comm Pte Ltd（omnicomm.com.sg；表内 omninet.com.vn 为其越南侧默认页；**UEN 198803797H；注册 1988-10-20；Exempt Private Company Limited By Shares；Live**；623 Aljunied Road #06-08 Aljunied Industrial Complex, Singapore 389835；电话 +65 6319 9000 / 9009）— **电信 / 网络设备分销 + IT 服务（云通信、IP 电话、托管安全；酒店 / 医疗 / 教育 / 政府 / SMB），覆盖新加坡 + 中南半岛（越南）**；1–10 人（Crunchbase）/ ZoomInfo 营收 $17.4M（夸大口径）；表内「从国内买模块；Switch 自己的 logo」；KP Victor Tan（Operations Manager）/ Chuong（越南侧）；8 次跟进无回复；**iso SG 正确，不做 country_fix**",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：sgpbusiness（OMNI-COMM PTE LTD；UEN 198803797H；20 Oct 1988；Live Company；Exempt Private Company Limited By Shares；623 ALJUNIED ROAD #06-08 ALJUNIED INDUSTRIAL COMPLEX SINGAPORE 389835；www.omnicomm.com.sg；+65-63199000；.SG 域名注册人 omnicomm.com.sg）+ crunchbase（distributor for telecommunications equipment in Singapore and other regions；1-10；+65 6319 9009；helpdesk@omnicomm.com.sg）+ zoominfo（Established in 1988；distributor of communication and networking equipment + IT services in Singapore and the Indo-China region；revenue $17.4 Million）；2026-10-28",
+   "url": "https://www.sgpbusiness.com/company/Omni-comm-Pte-Ltd",
+   "number": "UEN 198803797H",
+   "status": "Live Company",
+   "incorporated": "1988-10-20",
+   "company_type": "Exempt Private Company Limited By Shares",
+   "sic": [
+    "电信 / 网络设备分销 + IT 服务（新加坡 + 越南）"
+   ],
+   "address": "623 Aljunied Road #06-08 Aljunied Industrial Complex, Singapore 389835",
+   "accounts": "未取（EPC 免审计）",
+   "accounts_due": "—",
+   "size_band": "小型（1–10 人）",
+   "officers": [
+    "Victor Tan — Operations Manager（研究档 KP；victor@omnicomm.com.sg）= 收件人",
+    "Chuong — 越南侧联系人（chuong@omnicomm.com.sg）= 抄送"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**38 年老分销商、已贴自己 logo 的交换机 + 覆盖越南 → 贴标 OEM 30% B（升 A 候选），一页纸一次（切口：对位其现有贴标线的 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM 阶梯价 + Omni-Comm 标 / 自编货号 / 中性包装 + 越南直发 FOB 深圳（买方清关）+ 付费样机；光模块明说不做；英文，Victor 直呼、抄 Chuong）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；回信 → 加厚 + 升 A",
+    "守界：IMDA 不声称；越南侧 DAP 买方清关；ZoomInfo 营收不引用"
+   ],
+   "notes": "贴标 OEM 30%（升 A 候选）；一页纸一次（回声再加厚）；坐实（UEN + 注册日 + 类型 + 地址 + 域名注册人）。",
+   "code": "SB-330"
+  },
+  "SB-776": {
+   "batch": 116,
+   "name": "FIDA INT'L (S) PTE LTD = PROLiNK 品牌（prolink2u.com；**UEN 199101937H；1991 年起**；16 Kallang Place #06-01/04, Singapore 339156；电话 +65 6357 0668；年报 2026-07-20 已报；51–100 人（Crunchbase））— **数字生活品牌：网络与通信（路由 / 交换机 / PoE）、电源 / UPS / 太阳能、配件、智能家居；新加坡网络安全标签 Level 1；中东分站 PROLink.ME**；表内「商业 PoE 自己的 logo」「质量一般」；KP Karen Kwek（2024-11 休假自动回复；代理 Goh Wan Lin）/ Shijie Leong（2025-01 自动回复）= 地址有效；表内未实质跟进",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：recordowl（FIDA INT'L (S) PTE LTD；UEN 199101937H；Registered address 16 KALLANG PLACE #06-01/04 SINGAPORE 339156；+65 6357 0668；support@prolink2u.com；Annual return filed 20 Jul 2026；PROLiNK established in 1991 in Singapore, networking equipment, power products and peripherals）+ crunchbase（Prolink；Legal Name FIDA INTERNATIONAL (S) PTE LTD；51-100；Consumer Electronics / Manufacturing / Smart Home）+ facebook PROLink.ME（PROLiNK هي علامة تجارية لشركة Fida International (S) Pte Ltd）；2026-10-28",
+   "url": "https://recordowl.com/company/fida-int-l-s-pte-ltd",
+   "number": "UEN 199101937H",
+   "status": "Live（年报 2026-07-20 已报）",
+   "incorporated": "1991",
+   "company_type": "Pte Ltd",
+   "sic": [
+    "消费 / SMB 网络 + 电源 品牌 PROLiNK（Kallang）"
+   ],
+   "address": "16 Kallang Place #06-01/04, Singapore 339156",
+   "accounts": "年报 2026-07-20 已报（数字未取）",
+   "accounts_due": "—",
+   "size_band": "中小（51–100 人）",
+   "officers": [
+    "Karen Kwek — 研究档 KP（karen_kwek@prolink2u.com；2024-11 休假自动回复）= 收件人",
+    "Goh Wan Lin — Karen 代理人（wanlin_goh@prolink2u.com）= 抄送",
+    "Shijie Leong — 研究档联系人（2025-01 自动回复）= 抄送"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**35 年本土品牌、PoE 自己 logo、三个收件地址均活（自动回复）但从未真正跟进 → 贴标 OEM 30% B（升 A 候选），一页纸一次（切口：SMB PoE 非管理阶梯 STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP + PROLiNK 标 / 彩盒 / 自编货号 / 付费样机 + 中东分站可直发 DAP；英文，Karen 直呼、抄 Wan Lin + Shijie；opener 引 2024-11 自动回复）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；回信 → 加厚 + 升 A",
+    "守界：IMDA / 网络安全标签 不声称、由其自办；不评价其现货质量"
+   ],
+   "notes": "贴标 OEM 30%（升 A 候选）；一页纸一次（回声再加厚）；坐实（UEN + 地址 + 电话 + 年报 + 品牌归属）。",
+   "code": "SB-776"
+  },
+  "SB-1050": {
+   "batch": 116,
+   "name": "Keydence Systems Pte. Ltd.（keydence.com；**UEN 201019151W；注册 2010-09-09；Local Company；Live**；7030 Ang Mo Kio Avenue 5 #01-62 Northstar @ AMK, Singapore 569880；电话 +65 6459 0780；SSIC 61011 有线电信网络运营 + 30110 船舶（船上安装维护））— **安防系统服务商：CCTV / 门禁 / 电气与网络布线 / 通信 / 护士呼叫；自有 KDS- 型号 DVR；博客「CCTV cameras with PoE switch」**；KP Lawrence；8 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：sg.ltddir（KEYDENCE SYSTEMS PTE. LTD.；UEN 201019151W；UEN Issue Date 2010-09-09；Local Company；Live Company；7030 ANG MO KIO AVENUE 5, #01-62, NORTHSTAR @ AMK, Singapore 569880；SSIC 61011 WIRED TELECOMMUNICATIONS NETWORK OPERATION；30110 BUILDING AND REPAIRING OF SHIPS (INSTALLATION, MAINTENANCE, SERVICING ONBOARD VESSELS)）+ bizapore（cctv with alarm；Phone 6459 0780；Filing Number 201019151W）+ singapore-sme（CCTV Camera, Door Access & Network Cabling Systems）；2026-10-28",
+   "url": "https://sg.ltddir.com/companies/keydence-systems-pte-ltd/",
+   "number": "UEN 201019151W",
+   "status": "Live Company",
+   "incorporated": "2010-09-09",
+   "company_type": "Pte. Ltd.（Local Company）",
+   "sic": [
+    "61011 有线电信网络运营",
+    "30110 船上安装维护（CCTV / 门禁 / 布线 集成）"
+   ],
+   "address": "7030 Ang Mo Kio Avenue 5 #01-62 Northstar @ AMK, Singapore 569880",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Lawrence — 研究档 KP（lawrence@keydence.com；姓氏待核）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**CCTV / 门禁集成商（含船上安装）→ 集成商 25% B small，一页纸一次（切口：CCTV 配套 PoE STC-028GP / STC-228GP / STC-2216GP 一口价 + 长距 PoE 250 m 模式 + 付费样机；船用认证不声称；英文，Lawrence 直呼）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动",
+    "守界：船舶 / 海事认证不碰、IMDA 不声称"
+   ],
+   "notes": "集成商 25% small；一页纸一次；坐实（UEN + 注册日 + 地址 + 电话 + SSIC）。",
+   "code": "SB-1050"
+  },
+  "SB-1035": {
+   "batch": 116,
+   "name": "GPON Network（gponnetwork.com；**自称 HEAD OFFICE 1660 South Highway 100, St Louis Park, MN 55416 USA + SINGAPORE OFFICE 400 Orchard Road #06-03, Singapore 238875（两处均为商务中心 / 虚拟地址特征）；Director Mycal Ho（新加坡；hotmail 并用）；RocketReach 9 人 / 营收 $2M（口径不实）；法人名 / UEN 未取 → 身份不清**）— **网络设备供应链 / 价格参考站（Cisco / Huawei / Juniper 参考价、WDM 方案、云基础设施）**；表内「需要工业 FS / WDM SFP Switch」「之前联系过」「可以多跟进一下」；8 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：gponnetwork.com/contact-us（HEAD OFFICE 1660 SOUTH HIGHWAY 100 ST LOUIS PARK, MN 55416, USA TEL (952) 851 5555；SINGAPORE OFFICE 400 ORCHARD ROAD #06-03 SINGAPORE 238875 TEL (65) 8729 1383；SG@GPONNETWORK.COM）+ rocketreach（GPON Network；Revenue $2 million；Employees 9；Mycal Ho Director GPON Network Singapore；Luis Delgado Tapia GPON Network Peru）；UEN 未得；2026-10-28",
+   "url": "https://gponnetwork.com/contact-us/",
+   "number": "未取（法人名 / UEN 未得；身份不清）",
+   "status": "营业中（官网在线）",
+   "incorporated": "自称 2000 年起",
+   "company_type": "未取",
+   "sic": [
+    "网络设备供应链 / 参考价站（SG + US 虚拟地址）"
+   ],
+   "address": "400 Orchard Road #06-03, Singapore 238875（商务中心）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（9 人自述）",
+   "officers": [
+    "Mycal Ho — Director（研究档 KP；info@gponnetwork.com）= 收件人"
+   ],
+   "psc": "Mycal Ho（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**身份不清的供应链 / 价格站，但 Simon 表内「可以多跟进一下」→ 分销 20% B small，一页纸一次、只做预付（切口：工业 FS STI-154GP / STI-288DGGPM / STI-0240GE 一口价 + 付费样机；WDM / SFP 明说不做；英文，Mycal 直呼）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动",
+    "守界：主体未坐实 → 预付 100%、不赊；不转介光模块来源"
+   ],
+   "notes": "分销 20% small；一页纸一次（预付）；未坐实（虚拟地址 + 无 UEN；身份不清）。",
+   "code": "SB-1035"
+  },
+  "SB-697": {
+   "batch": 116,
+   "name": "Allied Asia Resources Pte. Ltd.（alliedasia.com.sg；55 Serangoon North Ave 4 #01-18, Singapore 555859；**2012 年成立；5–10 人；年营收 US$1–2.5M；商标 ATZ ×4（= SB-346 atz.com.sg 自有品牌 → 并线）**；Alibaba 认证「Manufacturer / Trading / Distributor」；国内市场 90% / 东南亚 10%；UEN 1 查未得 → 部分坐实）— **音视频 / IT 连接方案网店：线缆、光纤、MC、SFP、PoE 注入器、KVM、HDMI**；表内「VC / MC（PoE / 10G）/ 14 槽机架 / PoE 设备，没工业级的」「商业 PoE ONV 的」；KP Danny Lee / Kelvin Tan（Sales Engineer）；8 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：zoominfo（Allied Asia Resources Pte Ltd；55 Serangoon North Ave 4 01-18, Central Singapore 555859；www.alliedasia.com.sg；USB / KVM / HDMI / networking accessories）+ alliedasia.trustpass.alibaba.com（ALLIED ASIA RESOURCES PTE. LTD.；Manufacturer, Trading Company, Distributor/Wholesaler；Total Employees 5-10；Total Annual Revenue US$1 Million - US$2.5 Million；Year Established 2012；Trademarks(4) ATZ；Domestic Market 90% / Southeast Asia 10%）+ alliedasia.com.sg/product-category/cables（ATZ ST6.35MM-xxM 等 ATZ 品牌货号）；UEN 未得；2026-10-28",
+   "url": "https://alliedasia.trustpass.alibaba.com/company_profile.html",
+   "number": "未取（UEN 1 查未得；法人名 ALLIED ASIA RESOURCES PTE. LTD. 已得）",
+   "status": "营业中（网店在线）",
+   "incorporated": "2012",
+   "company_type": "Pte. Ltd.",
+   "sic": [
+    "AV / IT 连接方案 网店 + 自有品牌 ATZ（Serangoon North）"
+   ],
+   "address": "55 Serangoon North Ave 4 #01-18, Singapore 555859",
+   "accounts": "自述年营收 US$1–2.5M",
+   "accounts_due": "—",
+   "size_band": "小型（5–10 人）",
+   "officers": [
+    "Danny Lee — 研究档 KP（danny@alliedasia.com.sg）= 收件人",
+    "Kelvin Tan — Sales Engineer（kelvin.tan@alliedasia.com.sg）= 抄送"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 ATZ 的小型连接方案商、PoE 现用 ONV 贴标 → 贴标 OEM 30% B small，一页纸一次（切口：对位其 ATZ PoE 线的 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP 阶梯价 + ATZ 标 / 自编货号 / 中性包装 + 10G MC 只有 STC-110XGE + 付费样机；14 槽机架 / SFP 明说不做；英文，Danny 直呼、抄 Kelvin）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动",
+    "守界：不点名 ONV；UEN 未取 → 只做预付；与 SB-346 一线"
+   ],
+   "notes": "贴标 OEM 30% small；一页纸一次；部分坐实（ZoomInfo + Alibaba：法人名 + 地址 + 成立年 + 规模 + 商标；UEN 未取）；SB-346 并线至此。",
+   "code": "SB-697"
+  },
+  "SB-797": {
+   "batch": 116,
+   "name": "Excel Engineering (SG) Pte. Ltd.（excelengineeringsg.net 不可达；**UEN 201332361M；注册 2013-12-02；实缴资本 S$1,000；2 名高管 / 股东；注册地址 100 Peck Seah Street #08-14 PS100, Singapore 079333 = 虚拟办公地址**；电话 6898 4451；SSIC 71129 工程设计咨询 + 46900 杂货批发；无抵押）— 表内「MC」；KP David Voo（电话 9697 0621）；7 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：recordowl（EXCEL ENGINEERING (SG) PTE. LTD.；Registration Number 201332361M；Registered Address 100 PECK SEAH STREET #08-14 PS100 SINGAPORE 079333 Virtual Business Address；Live Company；incorporated 02 December 2013；paid up capital $1,000；2 officers / owners / shareholders；Contact Number 6898 4451；Primary SSIC 71129 ENGINEERING DESIGN AND CONSULTANCY ACTIVITIES N.E.C.；Secondary 46900 WHOLESALE TRADE OF A VARIETY OF GOODS；Number of Charges 0）；2026-10-28",
+   "url": "https://recordowl.com/company/excel-engineering-sg-pte-ltd",
+   "number": "UEN 201332361M",
+   "status": "Live Company",
+   "incorporated": "2013-12-02",
+   "company_type": "Pte. Ltd.（实缴 S$1,000）",
+   "sic": [
+    "71129 工程设计咨询",
+    "46900 杂货批发"
+   ],
+   "address": "100 Peck Seah Street #08-14 PS100, Singapore 079333（虚拟办公地址）",
+   "accounts": "实缴资本 S$1,000",
+   "accounts_due": "—",
+   "size_band": "微型（2 人）",
+   "officers": [
+    "David Voo — 研究档 KP（sales@excelengineeringsg.net；9697 0621）"
+   ],
+   "psc": "2 名股东（姓名未取）",
+   "charges": "0",
+   "prev_names": [],
+   "lines": [
+    "**微型（实缴 S$1,000、虚拟地址、官网失效）+ 需求只有 MC（Saga 仅 STC-110XGE）+ 7 次 0 回复 → 不动（B 保留）**"
+   ],
+   "notes": "不动（微型 + 虚拟地址 + 需求不对位）；坐实（UEN + 注册日 + 实缴 + 地址 + SSIC）。",
+   "code": "SB-797"
+  },
+  "SB-945": {
+   "batch": 116,
+   "name": "Grep Tech（Pte Ltd；grep.sg；**2012 年由 Robin Luo 创办（Founder / CEO / Managing Director = KP）**；新加坡；1–10 人；UEN 未取（GREP ADVISORY PTE. LTD. 202411162K ≠）→ 部分坐实）— **SMS 营销 / 短信网关与本地企业生产力软件商（行业外）**；表内「工业 FS」；官网 http_error；15 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：tracxn（Grep Tech；unfunded company based in Singapore；founded in 2012 by Robin Luo；SMS marketing and gateway solution provider；board 1 member Robin Luo 14y 1m）+ crunchbase（Grep Tech；www.grep.sg；1-10；Information Technology / Software；Robin Luo Founder, CEO & Managing Director robin@grep.sg；LinkedIn grep-tech-pte-ltd）+ sg.ltddir（GREP ADVISORY PTE. LTD. 202411162K 2024-03-20 Ubi Ave 1 ≠ 同名他企）；UEN 未得；2026-10-28",
+   "url": "https://www.crunchbase.com/organization/grep-tech",
+   "number": "未取（UEN 未得；LinkedIn 法人名 Grep Tech Pte Ltd）",
+   "status": "营业中（企业库在；官网报错）",
+   "incorporated": "2012",
+   "company_type": "Pte Ltd（推定）",
+   "sic": [
+    "SMS 网关 / 企业软件（行业外）"
+   ],
+   "address": "未取（新加坡）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（1–10 人）",
+   "officers": [
+    "Robin Luo — Founder / CEO / Managing Director（研究档 KP；robin@grep.sg）"
+   ],
+   "psc": "Robin Luo",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**软件 / 短信网关公司（行业外）+ 15 次 0 回复 + 官网报错 → 不动（B 保留）**"
+   ],
+   "notes": "不动（行业外 + 15×0）；部分坐实（企业库：创办人 = KP + 成立年；UEN 未取）。",
+   "code": "SB-945"
+  },
+  "SB-346": {
+   "batch": 116,
+   "name": "ATZ（atz.com.sg；官网 http_error）= **Allied Asia Resources Pte. Ltd.（SB-697）的自有商标（Alibaba 认证页 Trademarks(4) ATZ；alliedasia.com.sg 货号前缀 ATZ）→ 并线至 SB-697**；表内「商业 PoE ONV 的，也有其他外壳」；无 KP（info@ / sales@）；14 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 对照 SB-697 检索结果：alliedasia.trustpass.alibaba.com（ALLIED ASIA RESOURCES PTE. LTD.；Trademarks(4) ATZ, ATZ, ATZ, ATZ）+ alliedasia.com.sg/product-category/cables（ATZ ST6.35MM-xxM 等货号）；未另起检索；2026-10-28",
+   "url": "https://alliedasia.trustpass.alibaba.com/company_profile.html",
+   "number": "= Allied Asia Resources Pte. Ltd.（UEN 未取，见 SB-697）",
+   "status": "并线 → SB-697",
+   "incorporated": "—（商标）",
+   "company_type": "商标 / 品牌站（非独立法人）",
+   "sic": [
+    "Allied Asia 自有品牌 ATZ（PoE / 连接件）"
+   ],
+   "address": "55 Serangoon North Ave 4 #01-18, Singapore 555859（同 SB-697）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "—",
+   "officers": [
+    "（拍板人 = SB-697 Danny Lee / Kelvin Tan）"
+   ],
+   "psc": "Allied Asia Resources Pte. Ltd.",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**同一公司的品牌站 → 并线 SB-697，本行不单发**"
+   ],
+   "notes": "并线 SB-697；坐实（商标归属 + 货号前缀）。",
+   "code": "SB-346"
+  },
+  "SB-719": {
+   "batch": 116,
+   "name": "Trioms Technology Pte Ltd（trioms.com；**Reg / GST No. 201131509H（官网页脚）**；200 Jalan Sultan #03-11 Textile Centre, Singapore 199018（旧址 10 Anson Road #17-22 International Plaza 079903）；电话 +65 9021 9589）— **科学 / 海洋 / 气象仪器多品牌分销（JW Fishers 水下搜索、Kestrel 气象、Boltek 雷电、KC Denmark 采样、Fosco、General Standards 板卡）；站内「Fiber optic and network products」仅一款 10/100 工业 MC（AOA）**；无 KP（sales@）；14 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：trioms.com（Trioms Technology Pte Ltd；Reg/GST NO : 201131509H；200 Jalan Sultan #03-11, Textile Centre Singapore 199018；sales@trioms.com；+6590219589；Brands Boltek / Davis / Fosco / General standards / Jw fishers / KC denmark / Kestrel / Skyscan；categories Fiber optic and network products / Ocean Monitoring / Weather Monitoring）+ generalstandards.com/partners（Trioms Technology Private Limited；10 Anson Road #17-22 International Plaza 079903；Distributors in Singapore）；2026-10-28",
+   "url": "https://www.trioms.com/",
+   "number": "UEN 201131509H（官网 Reg / GST）",
+   "status": "营业中（官网在线）",
+   "incorporated": "2011（UEN 年份）",
+   "company_type": "Pte Ltd",
+   "sic": [
+    "科学 / 海洋 / 气象仪器 分销（非目标行业）"
+   ],
+   "address": "200 Jalan Sultan #03-11 Textile Centre, Singapore 199018",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（手机为总机）",
+   "officers": [
+    "（研究档无 KP：sales@trioms.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**仪器分销商、网络只是一款 MC 的点缀（非目标行业）+ 14 次 0 回复 → 不动（B 保留）**"
+   ],
+   "notes": "不动（非目标行业 + 14×0）；坐实（官网 UEN + 地址 + 旧址）。",
+   "code": "SB-719"
+  },
+  "SB-937": {
+   "batch": 116,
+   "name": "Anewtech Systems Pte Ltd（anewtech.net；**UEN 199903145E（1999 年号段；ltddir 记 UEN 签发 2008-09-11）；Live；实缴资本 S$1,262,500；7 项抵押登记；5 名高管**；62 Ubi Road 1 #04-14 Oxley Bizhub 2, Singapore 408734；电话 +65 6292 0801；SSIC 26209 计算机及外设制造；马来西亚（雪兰莪）+ 越南（胡志明市）办公室）— **工业计算机集成商 / 分销商（Advantech / IEI / Supermicro / Winmate / Elo / Digi / AsRock Industrial / Balluff / Innodisk；工业交换机 = ORing）**；表内「主要是 ORing 的工业系列」；无 KP（sales@）；15 次跟进无回复",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：recordowl（ANEWTECH SYSTEMS PTE LTD；Registration Number 199903145E；62 UBI ROAD 1 #04-14 OXLEY BIZHUB 2 SINGAPORE 408734；Live Company；6292 0801；Founded in 1999；Primary SSIC 26209 MANUFACTURE OF COMPUTERS AND PERIPHERAL EQUIPMENT N.E.C.；Paid-Up Capital $1,262,500；Number of Charges 7）+ sg.ltddir（UEN Issue Date 2008-09-11；Number of officers 5）+ anewtech.net/contact-us（Singapore / Malaysia (Selangor) / Vietnam HCMC；brands … ORing Singapore …；Industrial Ethernet Switch / Ethernet I/O Module）；2026-10-28",
+   "url": "https://recordowl.com/company/anewtech-systems-pte-ltd",
+   "number": "UEN 199903145E",
+   "status": "Live Company",
+   "incorporated": "1999（UEN 签发记录 2008-09-11）",
+   "company_type": "Pte Ltd",
+   "sic": [
+    "26209 工业计算机集成 / 分销（SG + MY + VN）；工业交换机在供 ORing"
+   ],
+   "address": "62 Ubi Road 1 #04-14 Oxley Bizhub 2, Singapore 408734",
+   "accounts": "实缴 S$1,262,500；抵押 7 项（银行融资迹象）",
+   "accounts_due": "—",
+   "size_band": "中小（三国办公室）",
+   "officers": [
+    "（研究档无 KP：sales@anewtech.com.sg；5 名高管姓名未取）"
+   ],
+   "psc": "未取",
+   "charges": "7",
+   "prev_names": [],
+   "lines": [
+    "**真实进口商（三国办公室、实缴 S$1.26M）、工业交换机现供台系品牌 → 分销 20% B，一页纸一次（切口：宽温工业线 STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE 一口价作其成本型补位 + 3 年保 + MOQ 1 + 付费样机；EN 50155 明说不做；英文，收 sales@）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动",
+    "守界：不点名 ORing；抵押 7 项 → 只做预付；IMDA 不声称"
+   ],
+   "notes": "分销 20%；一页纸一次；坐实（UEN + 地址 + 实缴 + 抵押数 + 高管数 + SSIC）。",
+   "code": "SB-937"
   }
  }
 }
