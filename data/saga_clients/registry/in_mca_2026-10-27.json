@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 11
+  "count": 17
  },
  "rows": {
   "SA-073": {
@@ -385,6 +385,203 @@
    ],
    "notes": "country_fix 印度；不再查。",
    "code": "SB-744"
+  },
+  "SB-652": {
+   "batch": 114,
+   "name": "Comxus（comxus.com；印度工业网络 OEM 品牌：自有品牌加固交换机 CX-NPA-4GS2I-L2 / 8GS4I-L2 / 16GS2I-L2 / 8GS40I-L3 / CX-ND-0GSF24S20-L3，-40~+85 °C，L2 / L3 管理 + PoE；自述「India-based manufacturing」+ TEC 认证叙事；行业油气 / 交通 / 制造 / 智慧城市）— **法定名 / CIN 未取**（1 查未见页脚 CIN；同名 Comus Electronics Chennai ≠）；KP Umesh Palanpuri（Deputy GM；umesh.palanpuri@）；8 封 1 次打开 0 回；表内「现由 Hasivo 代工」",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：comxus.com（rugged switches；L2/L3 managed；-40°C to +85°C）+ comxus.com/what-is-tec-certification（Comxus is an Indian industrial networking OEM … India-based manufacturing）+ about.me/comxus（industrial-grade Ethernet switches, PoE switches, media converters）+ zaubacorp（无 Comxus 命中；Comus Electronics & Technologies India Pvt Ltd CIN U32109TN2004PTC053620 Chennai 继电器 ≠）；CIN 未取；2026-10-28",
+   "url": "https://comxus.com/",
+   "number": "未取（CIN）",
+   "status": "Active",
+   "incorporated": "未取",
+   "company_type": "未取（Pvt. Ltd. 推定）",
+   "sic": [
+    "工业网络 OEM 品牌（印度）"
+   ],
+   "address": "未取（印度）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Umesh Palanpuri — Deputy GM（研究档 KP umesh.palanpuri@）= 收件人 / 拍板人（抄 info@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌工业交换机全线、现中系代工 → 贴标 OEM 30% B，加厚一次（切口：Comxus 标 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 作第二代工源（整机 / SKD 皆可谈）+ 中性包装 / 自编货号 + 3 年保；英文，Umesh 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选",
+    "守界：对方有 TEC 认证叙事 → 稿内不声称 TEC / BIS，只给 CE / FCC / RoHS；不点名 Hasivo；法定名 / CIN 未取 → 部分坐实"
+   ],
+   "notes": "贴标 30%；B 加厚一次；部分坐实（品牌 + 产品线 + KP；CIN 未取）。",
+   "code": "SB-652"
+  },
+  "SB-914": {
+   "batch": 114,
+   "name": "MRO-TEK Realty Limited → UMIYA BUILDCON LIMITED（2026 更名；RoC 已同意再更名为「MRO-TEK Networks Limited」）；CIN L28112KA1984PLC005873（BSE 532376，1984-02-10 / 12-10 注册）；GSTIN 29AAACM9875E1Z1；No. 6, New BEL Road, Chikkamaranahalli, Bangalore 560054；工厂 Konnappana Agrahara, Bangalore 560100）— 1984 年起的印度网络 / 电信 / 安防 OEM（「designed, manufactured and certified in India」；工业交换机 CORNUS-82P / 84P、L3 LAVENDER-84X）；**产品板块营收 FY2025-26 ₹3,267 lakhs（≈$3.9M，+80%）**；Chairman & MD Aniruddha Mehta；KP Arun Raj（AVP Solution Sales）、Satish；14 封 1 次打开 0 回；表内「MC / 工业 FS / 普通 FS / 周边，从 Ra… 采购」",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：zaubacorp（MRO-TEK REALTY LIMITED CIN L28112KA1984PLC005873；Public company incorporated 10 Dec 1984；ROC Bangalore；paid up Rs. 93,423,000；Active）+ bseindia 年报 2025-26（UMIYA BUILDCON LIMITED (Formerly known as MRO-TEK Realty Limited)；GSTIN 29AAACM9875E1Z1；No.6 New BEL Road；Factory Konnappana Agrahara；Product segment revenue Rs. 3267.28 Lakhs FY2025-26 vs 1820.04；RoC no objection to name “MRO-TEK Networks Limited” 2026-07-09）+ bseindia 2024（Aniruddha Mehta Chairman & Managing Director DIN 00720504）；2026-10-28",
+   "url": "https://www.zaubacorp.com/company/MRO-TEK-REALTY-LIMITED/L28112KA1984PLC005873",
+   "number": "CIN L28112KA1984PLC005873 / GSTIN 29AAACM9875E1Z1",
+   "status": "Active（BSE 上市）",
+   "incorporated": "1984-12-10",
+   "company_type": "Public Limited（上市）",
+   "sic": [
+    "网络 / 电信 / 安防 OEM 制造（班加罗尔）"
+   ],
+   "address": "No. 6, New BEL Road, Chikkamaranahalli, Bangalore 560054",
+   "accounts": "产品板块 ₹3,267 lakhs（FY2025-26）",
+   "accounts_due": "—",
+   "size_band": "中型（上市；集团含房地产板块）",
+   "officers": [
+    "Aniruddha Mehta — Chairman & Managing Director（DIN 00720504）= 拍板人",
+    "Arun Raj — AVP Solution Sales（研究档 KP）= 收件人",
+    "Satish — 研究档 KP = 抄"
+   ],
+   "psc": "Mehta 家族（推定；上市公司）",
+   "charges": "",
+   "prev_names": [
+    "MRO-TEK Limited",
+    "MRO-TEK Realty Limited",
+    "UMIYA BUILDCON LIMITED（2026）"
+   ],
+   "lines": [
+    "**上市 Make-in-India OEM 品牌、外采 ODM 整机 / SKD、产品板块高速增长 → 贴标 / 配套 30% B BIG，加厚一次（切口：CORNUS / LAVENDER 类工业与接入交换机的 SKD / 板级 + 整机第二来源 STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM + STC-4424GCPM / STC-424XGGPM-280W + 中性包装；英文，Arun 直呼 + Satish 抄，一问本地化（SKD）比例要求）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选升 A",
+    "守界：对方「certified in India」叙事（BIS / TEC）→ 稿内不声称印度认证；不点名其现供应商"
+   ],
+   "notes": "贴标 / 配套 30%；B BIG 加厚一次；坐实（CIN + GSTIN + 年报 + 董事长）。",
+   "code": "SB-914"
+  },
+  "SB-684": {
+   "batch": 114,
+   "name": "Technics Infosolutions Pvt. Ltd.（technics-india.com / technicsonline.com；CIN U72900DL2013PTC252728（2013-05-25 注册；业务 1990 起）；4648/21, Sedhumal Building, Daryaganj, New Delhi 110002；销售办公 4731/21 Dayanand Road）— 新德里工业自动化分销商（**Advantech Premier Channel Partner 证书 IN250001（2025）**、Kyland；客户 AREVA / Rockwell / Indian Railways / ABB / Maruti；Delhi Metro 采购单）；11–50 人；年营业额 ₹10–25 Cr；KP Om (O.P.) Sharma（opsharma@；1996–；研究档名「Prakash」）、联系人 Kapil Gupta；表内询价「IM-FS240GM 250 pcs」；5 封 0 打开",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：zaubacorp（TECHNICS INFOSOLUTIONS PRIVATE LIMITED CIN U72900DL2013PTC252728；info@technicsonline.com；4648/21 SEDHUMAL BUILDING DARYA GANJ NEW DELHI 110002；Active）+ tracxn（incorporated May 25, 2013；ROC Delhi）+ advantech.com/partners（established 1990；Advantech 15 years；clients AREVA, ROCKWELL, INDIAN RAILWAYS, ABB）+ Advantech 证书 IN250001（Premier Channel Partner 2025）+ zoominfo（Om Sharma 1996–；11-50）+ mytat（Kapil Gupta；Turnover Rs. 10-25 Crore）；2026-10-28",
+   "url": "https://www.zaubacorp.com/company/TECHNICS-INFOSOLUTIONS-PRIVATE-LIMITED/U72900DL2013PTC252728",
+   "number": "CIN U72900DL2013PTC252728",
+   "status": "Active",
+   "incorporated": "2013-05-25（业务 1990）",
+   "company_type": "Private Limited",
+   "sic": [
+    "工业自动化 分销（新德里）"
+   ],
+   "address": "4648/21, Sedhumal Building, Daryaganj, New Delhi 110002",
+   "accounts": "₹10–25 Cr（自报）",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Om (O.P.) Sharma — 研究档 KP（opsharma@；1996–；职务待核）= 收件人",
+    "Kapil Gupta — 联系人（mytat）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业自动化分销 + 250 台具体询价 → 分销 20% B BIG，加厚一次（切口：接上「IM-FS240GM 250 pcs」询价 → 对应 STI-244GP（4 PoE 非管理）/ STI-0240GE 报 250 台阶梯价 + 付费样机 2 台 + FOB 深圳；英文，Om Sharma 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选升 A",
+    "守界：客户含 Indian Railways / Delhi Metro → 只谈非轨交项目线；不点名 Advantech / Kyland；研究档 KP 名「Prakash」更正为 Om (O.P.) Sharma"
+   ],
+   "notes": "分销 20%；B BIG 加厚一次；坐实（CIN + 地址 + Advantech 证书 + KP 任期）。",
+   "code": "SB-684"
+  },
+  "SB-304": {
+   "batch": 114,
+   "name": "AADONA Communication Pvt. Ltd.（aadona.com；CIN U72900CT2018PTC008600（2018-06-18；RoC Chhattisgarh）；注册地 07, SBI Colony, Mahoba Bazar, Raipur 492099；总部 1st Floor, Phoenix Tech Tower, Plot 14/46, IDA Uppal, Hyderabad 500039）— Start-up India / DPIIT 登记的「Made in India」网络品牌（交换机 / 服务器 / NAS / CCTV / 无线 / 机柜；MII Class I / II；纯渠道品牌，面向 SI）；董事 Pinaki Chatterjee（研究档 CEO；ceo@）/ Shivani Chattirajee / Soma Chatterjee；实缴 ₹23.04 lakh；营收 <₹10 Cr（FY2025）；11–50 人；KP Govind Madhav；5 封 0 打开",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：indiafilings（AADONA COMMUNICATION PRIVATE LIMITED CIN U72900CT2018PTC008600；RoC-Chhattisgarh；Date of Incorporation 18-06-2018；Registered Address 07 SBI Colony Mahoba Bazar Raipur 492099；Email pinaki.chatterjee@aadona.com；Directors Soma Chatterjee / Pinaki Chatterjee / Shivani Chattirajee；Paid up 23,04,360；Active）+ tracxn（revenue <₹10 Cr FY2025）+ aadona.com（founded 2018 under Start-up India；HQ Phoenix Tech Tower IDA Uppal Hyderabad；MII Class I / II）+ LinkedIn（11-50；Hyderabad）；2026-10-28",
+   "url": "https://www.indiafilings.com/search/aadona-communication-private-limited-cin-U72900CT2018PTC008600",
+   "number": "CIN U72900CT2018PTC008600",
+   "status": "Active",
+   "incorporated": "2018-06-18",
+   "company_type": "Private Limited",
+   "sic": [
+    "网络 / 安防 自有品牌（海得拉巴 / 赖布尔）"
+   ],
+   "address": "1st Floor, Phoenix Tech Tower, Plot 14/46, IDA Uppal, Hyderabad 500039（注册地 Raipur）",
+   "accounts": "<₹10 Cr（FY2025）",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Pinaki Chatterjee — Director / CEO（研究档 KP ceo@）= 拍板人 / 收件人",
+    "Govind Madhav — 研究档 KP = 抄",
+    "Shivani Chattirajee / Soma Chatterjee — Directors"
+   ],
+   "psc": "Chatterjee 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**纯渠道自有品牌（MII 叙事、全线外采）→ 贴标 OEM 30% B，加厚一次（切口：AADONA 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP 整机或 SKD（配合 MII Class II 本地化）+ 中性包装 / 自编货号；英文，Pinaki 直呼 + Govind 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选",
+    "守界：MII Class I / II 为印度政府采购分类 → 稿内不声称、不替对方判断本地含量；不提政府项目"
+   ],
+   "notes": "贴标 30%；B 加厚一次；坐实（CIN + 董事 + 两地址）。",
+   "code": "SB-304"
+  },
+  "SB-305": {
+   "batch": 114,
+   "name": "Bits and Byte IT Consulting Pvt. Ltd.（bits&BYTE；bitsandbyte.net；CIN U72900KA2015PTC145953（2015-05-20；RoC Bangalore）；#52, 2nd Floor, Vittal Mallya Road, Bangalore 560001）— 班加罗尔网络与数字集成商（SD-WAN / NaaS / 云 / 网络安全 / 数据中心）；董事 Ramachandra Raju（Co-Founder；研究档 KP）/ Prakash Uppunda Rao；Executive Director Ankit Arora（2025-11 入职；研究档 KP）；56–57 人；营收 ₹10–50 Cr（FY2025）；曾问环网收敛 <20 ms、2 光 10 电非 PoE、4 光 10 电 10G、bypass、100G；6 封 0 打开",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：zaubacorp（BITS AND BYTE IT CONSULTING PRIVATE LIMITED CIN U72900KA2015PTC145953；incorporated 20 May 2015；ROC Bangalore）+ tracxn（No. 52 Vittal Mallya Road；directors Prakash Uppunda Rao / Ramachandra Raju；revenue ₹10–50 Cr FY2025；57 employees）+ bitsandbyte.net（legalName Bits And BYTE IT Consulting Pvt. Ltd.；#52 2nd Floor Vittal Mallya Road）+ LinkedIn（Ankit Arora Executive Director；51-200）+ rocketreach（56 employees）；2026-10-28",
+   "url": "https://www.zaubacorp.com/company/BITS-AND-BYTE-IT-CONSULTING-PRIVATE-LIMITED/U72900KA2015PTC145953",
+   "number": "CIN U72900KA2015PTC145953",
+   "status": "Active",
+   "incorporated": "2015-05-20",
+   "company_type": "Private Limited",
+   "sic": [
+    "网络 / 数字 系统集成（班加罗尔）"
+   ],
+   "address": "#52, 2nd Floor, Vittal Mallya Road, Bangalore 560001",
+   "accounts": "₹10–50 Cr（FY2025）",
+   "accounts_due": "—",
+   "size_band": "中小型（≈57 人）",
+   "officers": [
+    "Ramachandra Raju (R) — Co-Founder / Director（研究档 KP）= 拍板人",
+    "Ankit Arora — Executive Director（2025-11–；研究档 KP）= 收件人",
+    "Prakash Uppunda Rao — Co-Founder / Director"
+   ],
+   "psc": "Raju / Rao",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**有具体技术提问的集成商（环网 / 10G / bypass / 100G）→ 集成 25% B BIG，加厚一次（切口：逐条回答其问题：工业环网 STI-288DGGPM / STI-488DGGPM（收敛指标按规格书据实写，不编）、2 光 10 电非 PoE STI-0240GE、10G 上行 STC-424XGGPM-280W、100G 用 STH-32C-HSI；bypass 功能如无则明说无；英文，Ankit 直呼 + Ramachandra 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选升 A"
+   ],
+   "notes": "集成 25%；B BIG 加厚一次；坐实（CIN + 地址 + 董事 + 规模）。",
+   "code": "SB-305"
+  },
+  "SB-308": {
+   "batch": 114,
+   "name": "Alcon Wireless Private Limited（AlconLink；alconlink.com；CIN U64200OR2010PTC011564（2010-02-03；RoC Odisha）；Plot C-3, 1st Floor, Jayadurga Nagar, Bomikhal, Bhubaneswar 751006；办公 Delhi（Nehru Place）/ Mumbai / Kolkata）— 2010 年从台湾 Alcon Telecommunication 独立出来的印度 IP 监控品牌（网络摄像机 / NVR / AI / 热成像 / ANPR + **自有 logo PoE 交换机与工业交换机** + WIS 无线；印度 3 家进口商 + 16 家分销 + 200 家 SI；中东 / 尼泊尔 / 不丹）；**董事 Pratap Kumar Baral = 研究档 KP（pratap@）**、Anusuya Patra；关联 WIS Networks Digital Technologies India Pvt Ltd（2017）；最近 AGM 2022-09-30（申报滞后）；4 封 0 打开",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：indiafilings（ALCON WIRELESS PRIVATE LIMITED CIN U64200OR2010PTC011564；Incorporation 03-02-2010；PLOT NO. C-3 1ST FLOOR JAYADURGA NAGAR BOMIKHAL BHUBANESWAR 751006；Email pratap@alconlink.com；Director PRATAP KUMAR BARAL；Last AGM 30-09-2022）+ zaubacorp（Directors Pratap Kumar Baral / Anusuya Patra）+ alconlink.com（migrated from Alcon Telecommunication-Taiwan 2010；PoE Switches；3 importers 16+ distributors 200+ SI）+ alconlink.com/contact（Delhi / Mumbai / Kolkata / Odisha corp. off.）+ indiafilings（WIS NETWORKS DIGITAL TECHNOLOGIES INDIA PVT LTD 2017 pratap.alconlink@gmail.com）；2026-10-28",
+   "url": "https://www.indiafilings.com/search/alcon-wireless-private-limited-cin-U64200OR2010PTC011564",
+   "number": "CIN U64200OR2010PTC011564",
+   "status": "Active（AGM 申报滞后至 2022）",
+   "incorporated": "2010-02-03",
+   "company_type": "Private Limited",
+   "sic": [
+    "IP 监控 品牌 + 自有 logo PoE / 工业交换机（布巴内斯瓦尔 + 德里 / 孟买 / 加尔各答）"
+   ],
+   "address": "Plot C-3, 1st Floor, Jayadurga Nagar, Bomikhal, Bhubaneswar 751006, Odisha",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（渠道 200+ SI）",
+   "officers": [
+    "Pratap Kumar Baral — Director（研究档 KP pratap@；+91 97788 02333）= 拍板人 / 收件人",
+    "Anusuya Patra — Director"
+   ],
+   "psc": "Baral（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有 logo PoE / 工业交换机 + 全国渠道、董事本人即 KP → 贴标 OEM 30% B，加厚 small 一次（切口：AlconLink 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP 第二代工源 + 中性包装 / 自编货号 + 小 MOQ；英文，Pratap 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选",
+    "AGM 申报滞后（2022）→ 付款只做 T/T 预付；稿内不点名其台湾前身"
+   ],
+   "notes": "贴标 30%；加厚 small 一次；坐实（CIN + 董事 = KP + 地址）。",
+   "code": "SB-308"
   }
  }
 }
