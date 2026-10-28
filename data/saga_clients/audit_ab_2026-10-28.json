@@ -2489,7 +2489,7 @@
    "p1": "STI-288DGGPM-2BT",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-020": {
@@ -2775,7 +2775,7 @@
    "p1": "HRUI/Realtek 整机 ODM（研究档）",
    "tier": 30,
    "signals": 1,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-033": {
@@ -3897,7 +3897,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-084": {
@@ -3919,7 +3919,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-085": {
@@ -3963,7 +3963,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 1,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-087": {
@@ -3985,7 +3985,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-088": {
@@ -4007,7 +4007,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 1,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-089": {
@@ -10629,7 +10629,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-250": {
@@ -14787,7 +14787,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-439": {
@@ -20595,7 +20595,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-703": {
@@ -22223,7 +22223,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-777": {
@@ -23609,7 +23609,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-840": {
@@ -25149,7 +25149,7 @@
    "p1": "STH-2C24XF-SFI",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-910": {
@@ -25677,7 +25677,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-934": {
@@ -25963,7 +25963,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-947": {
@@ -26117,7 +26117,7 @@
    "p1": "STC-424XGGM",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-954": {

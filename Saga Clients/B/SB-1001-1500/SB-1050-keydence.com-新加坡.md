@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 法定假日：11-08 Diwali；11-09 Diwali (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 116 批（SG · 1 次检索：sg.ltddir（KEYDENCE SYSTEMS PTE. LTD.；UEN 201019151W；UEN Issue Date 2010-09-09；Local Company；Live Company；7030 ANG MO KIO AVENUE 5, #01-62, NORTHSTAR @ AMK, Singapore 569880；SSIC 61011 WIRED TELECOMMUNICATIONS NETWORK OPERATION；30110 BUILDING AND REPAIRING OF SHIPS (INSTALLATION, MAINTENANCE, SERVICING ONBOARD VESSELS)）+ bizapore（cctv with alarm；Phone 6459 0780；Filing Number 201019151W）+ singapore-sme（CCTV Camera, Door Access & Network Cabling Systems）；2026-10-28，2026-10-28 查；https://sg.ltddir.com/companies/keydence-systems-pte-ltd/）：**
+
+- 法定名 / 登记号：Keydence Systems Pte. Ltd.（keydence.com；**UEN 201019151W；注册 2010-09-09；Local Company；Live**；7030 Ang Mo Kio Avenue 5 #01-62 Northstar @ AMK, Singapore 569880；电话 +65 6459 0780；SSIC 61011 有线电信网络运营 + 30110 船舶（船上安装维护））— **安防系统服务商：CCTV / 门禁 / 电气与网络布线 / 通信 / 护士呼叫；自有 KDS- 型号 DVR；博客「CCTV cameras with PoE switch」**；KP Lawrence；8 次跟进无回复 · UEN 201019151W · 状态 **Live Company** · 成立 2010-09-09 · Pte. Ltd.（Local Company）
+- 行业码 / 经营范围：61011 有线电信网络运营；30110 船上安装维护（CCTV / 门禁 / 布线 集成）
+- 注册地址：7030 Ang Mo Kio Avenue 5 #01-62 Northstar @ AMK, Singapore 569880
+- 规模档：小型
+- 账目：未取；—
+- 高管：Lawrence — 研究档 KP（lawrence@keydence.com；姓氏待核）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **CCTV / 门禁集成商（含船上安装）→ 集成商 25% B small，一页纸一次（切口：CCTV 配套 PoE STC-028GP / STC-228GP / STC-2216GP 一口价 + 长距 PoE 250 m 模式 + 付费样机；船用认证不声称；英文，Lawrence 直呼）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动
+  - 守界：船舶 / 海事认证不碰、IMDA 不声称
+- 备注：集成商 25% small；一页纸一次；坐实（UEN + 注册日 + 地址 + 电话 + SSIC）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,15 +135,17 @@ updated: 2026-10-28
 - **【用户表】监控 警报 布线 网络**
   > 监控摄像 警报 光纤布线 网络
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Lawrence（）lawrence@keydence.com 〔用户表〕
+- **KP**：Lawrence（Keydence Systems Pte. Ltd.（UEN 201019151W）研究档 KP（姓氏待核）= 收件人 — 一頁紙一次：集成商 25% small，CCTV 配套 PoE STC-028GP / 228GP / 2216GP 一口價 + 長距 PoE 250 m 模式 + 付費樣機；船用認證不聲稱— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28））lawrence@keydence.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 keydence.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Keydence Systems Pte. Ltd.（UEN 201019151W；Local Company；Live；SSIC 61011 + 30110 船上安裝維護） |
+| 成立 | 2010-09-09（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 7030 Ang Mo Kio Avenue 5 #01-62 Northstar @ AMK, Singapore 569880（+65 6459 0780）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 keydence.com，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：CCTV / 門禁 / 布線集成商（含船上安裝）→ **集成商 25% B small，一頁紙一次**；再無回聲 → 不動；守界：船舶 / 海事認證不碰；坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统 / 电气与网络布线（新加坡）
 - **触达通道（公开）**：role: 安防/布线集成商（新加坡）；region: 新加坡；contact: lawrence@keydence.com
@@ -225,7 +241,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Lawrence | — | lawrence@keydence.com | 调研核实（公开页） | 用户表 |
+| Lawrence | Keydence Systems Pte. Ltd.（UEN 201019151W）研究档 KP（姓氏待核）= 收件人 — 一頁紙一次：集成商 25% small，CCTV 配套 PoE STC-028GP / 228GP / 2216GP 一口價 + 長距 PoE 250 m 模式 + 付費樣機；船用認證不聲稱— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28） | lawrence@keydence.com | 调研核实（公开页） | 用户表 |
 | Lawrance | — | lawrence@keydence.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

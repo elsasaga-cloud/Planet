@@ -76,6 +76,20 @@ updated: 2026-10-28
 
 - 法定假日：11-08 Diwali；11-09 Diwali (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 116 批（SG · 1 次检索：gponnetwork.com/contact-us（HEAD OFFICE 1660 SOUTH HIGHWAY 100 ST LOUIS PARK, MN 55416, USA TEL (952) 851 5555；SINGAPORE OFFICE 400 ORCHARD ROAD #06-03 SINGAPORE 238875 TEL (65) 8729 1383；SG@GPONNETWORK.COM）+ rocketreach（GPON Network；Revenue $2 million；Employees 9；Mycal Ho Director GPON Network Singapore；Luis Delgado Tapia GPON Network Peru）；UEN 未得；2026-10-28，2026-10-28 查；https://gponnetwork.com/contact-us/）：**
+
+- 法定名 / 登记号：GPON Network（gponnetwork.com；**自称 HEAD OFFICE 1660 South Highway 100, St Louis Park, MN 55416 USA + SINGAPORE OFFICE 400 Orchard Road #06-03, Singapore 238875（两处均为商务中心 / 虚拟地址特征）；Director Mycal Ho（新加坡；hotmail 并用）；RocketReach 9 人 / 营收 $2M（口径不实）；法人名 / UEN 未取 → 身份不清**）— **网络设备供应链 / 价格参考站（Cisco / Huawei / Juniper 参考价、WDM 方案、云基础设施）**；表内「需要工业 FS / WDM SFP Switch」「之前联系过」「可以多跟进一下」；8 次跟进无回复 · 未取（法人名 / UEN 未得；身份不清） · 状态 **营业中（官网在线）** · 成立 自称 2000 年起 · 未取
+- 行业码 / 经营范围：网络设备供应链 / 参考价站（SG + US 虚拟地址）
+- 注册地址：400 Orchard Road #06-03, Singapore 238875（商务中心）
+- 规模档：微型（9 人自述）
+- 账目：未取；—
+- 高管：Mycal Ho — Director（研究档 KP；info@gponnetwork.com）= 收件人
+- 控制人 / 股东：Mycal Ho（推定）
+- **这意味着什么：**
+  - **身份不清的供应链 / 价格站，但 Simon 表内「可以多跟进一下」→ 分销 20% B small，一页纸一次、只做预付（切口：工业 FS STI-154GP / STI-288DGGPM / STI-0240GE 一口价 + 付费样机；WDM / SFP 明说不做；英文，Mycal 直呼）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动
+  - 守界：主体未坐实 → 预付 100%、不赊；不转介光模块来源
+- 备注：分销 20% small；一页纸一次（预付）；未坐实（虚拟地址 + 无 UEN；身份不清）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,15 +133,17 @@ updated: 2026-10-28
 - **【用户表】需要工业 FS / WDM SFP；之前联系过**
   > 需要工业FS / WDM SFP Switch等；之前联系过；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mycal Ho（）info@gponnetwork.com 〔用户表〕
+- **KP**：Mycal Ho（Director, GPON Network（RocketReach；新加坡；hotmail 並用）= 收件人 — 一頁紙一次、只做預付：分銷 20% small，工業 FS STI-154GP / STI-288DGGPM / STI-0240GE 一口價 + 付費樣機；WDM / SFP 明說不做— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28））info@gponnetwork.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 gponnetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | GPON Network（法人名 / UEN 未取；自稱 HEAD OFFICE 1660 South Highway 100, St Louis Park, MN 55416 USA + SINGAPORE OFFICE 400 Orchard Road #06-03 — 兩處皆商務中心特徵 → 身份不清） |
+| 成立 | 自稱 2000 年起（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 400 Orchard Road #06-03, Singapore 238875（商務中心；+65 8729 1383）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 gponnetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：身份不清的供應鏈 / 參考價站，但 Simon 表內「可以多跟進一下」→ **分銷 20% B small，一頁紙一次（預付 100%、不賒）**；再無回聲 → 不動；未坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备供应链（品牌设备 / WDM）
 - **触达通道（公开）**：role: 网络设备供应链/经纪商（新加坡，之前联系过）；region: 新加坡；contact: info@gponnetwork.com
@@ -218,7 +234,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mycal Ho | — | info@gponnetwork.com | 调研核实（公开页） | 用户表 |
+| Mycal Ho | Director, GPON Network（RocketReach；新加坡；hotmail 並用）= 收件人 — 一頁紙一次、只做預付：分銷 20% small，工業 FS STI-154GP / STI-288DGGPM / STI-0240GE 一口價 + 付費樣機；WDM / SFP 明說不做— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28） | info@gponnetwork.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

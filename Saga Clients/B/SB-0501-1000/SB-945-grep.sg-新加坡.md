@@ -84,6 +84,19 @@ updated: 2026-10-28
 
 - 法定假日：11-08 Diwali；11-09 Diwali (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 116 批（SG · 1 次检索：tracxn（Grep Tech；unfunded company based in Singapore；founded in 2012 by Robin Luo；SMS marketing and gateway solution provider；board 1 member Robin Luo 14y 1m）+ crunchbase（Grep Tech；www.grep.sg；1-10；Information Technology / Software；Robin Luo Founder, CEO & Managing Director robin@grep.sg；LinkedIn grep-tech-pte-ltd）+ sg.ltddir（GREP ADVISORY PTE. LTD. 202411162K 2024-03-20 Ubi Ave 1 ≠ 同名他企）；UEN 未得；2026-10-28，2026-10-28 查；https://www.crunchbase.com/organization/grep-tech）：**
+
+- 法定名 / 登记号：Grep Tech（Pte Ltd；grep.sg；**2012 年由 Robin Luo 创办（Founder / CEO / Managing Director = KP）**；新加坡；1–10 人；UEN 未取（GREP ADVISORY PTE. LTD. 202411162K ≠）→ 部分坐实）— **SMS 营销 / 短信网关与本地企业生产力软件商（行业外）**；表内「工业 FS」；官网 http_error；15 次跟进无回复 · 未取（UEN 未得；LinkedIn 法人名 Grep Tech Pte Ltd） · 状态 **营业中（企业库在；官网报错）** · 成立 2012 · Pte Ltd（推定）
+- 行业码 / 经营范围：SMS 网关 / 企业软件（行业外）
+- 注册地址：未取（新加坡）
+- 规模档：微型（1–10 人）
+- 账目：未取；—
+- 高管：Robin Luo — Founder / CEO / Managing Director（研究档 KP；robin@grep.sg）
+- 控制人 / 股东：Robin Luo
+- **这意味着什么：**
+  - **软件 / 短信网关公司（行业外）+ 15 次 0 回复 + 官网报错 → 不动（B 保留）**
+- 备注：不动（行业外 + 15×0）；部分坐实（企业库：创办人 = KP + 成立年；UEN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,15 +133,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS**
   > 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Robin Luo（）robin@grep.sg 〔用户表〕
+- **KP**：Robin Luo（Founder / CEO / Managing Director, Grep Tech（Crunchbase / Tracxn；2012 創辦；SMS 網關 / 軟體 = 行業外）— 15 次 0 回覆，不動（第 116 批 官方登记核实 2026-10-28））robin@grep.sg 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 grep.sg，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Grep Tech Pte Ltd（LinkedIn 法人名；UEN 未取；GREP ADVISORY PTE. LTD. 202411162K ≠） |
+| 成立 | 2012（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 未取（新加坡）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 grep.sg，语言 ?，快照状态 http_error；角色判定来源：待核；第 116 批：SMS 網關 / 企業軟體公司（行業外）+ 15 次 0 回覆 + 官網報錯 → **不動（B 保留）**；部分坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核，新加坡）
 - **触达通道（公开）**：role: IT/工业网络公司（新加坡）；region: 新加坡；contact: info@grep.sg、robin@grep.sg
@@ -222,7 +237,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Robin Luo | — | robin@grep.sg | 调研核实（公开页） | 用户表 |
+| Robin Luo | Founder / CEO / Managing Director, Grep Tech（Crunchbase / Tracxn；2012 創辦；SMS 網關 / 軟體 = 行業外）— 15 次 0 回覆，不動（第 116 批 官方登记核实 2026-10-28） | robin@grep.sg | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

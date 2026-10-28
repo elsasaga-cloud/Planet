@@ -77,6 +77,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 116 批（TW · 2 次检索：第 1 次「KTI Networks 光紅建聖 …」误中 光紅建聖 EZconn 97119975（≠）；第 2 次 computerhope（KTI Networks founded in 1983 in Taiwan；developer, manufacturer and marketer；Houston TX office）+ ktisoutheurope.com/contact（TAIPEI Headquarters 15F-7, No. 79, Sec. 1, Hsin Tai Wu Rd., Hsi-chih；+886 2 2698 38 78；kti@ktinet.com.tw）+ cablesplususa（KTI Networks brand；R&D, manufacturing, marketing；North America, Europe, Japan；KGS-0840 / KGS-0865 industrial switches）；統編 未得；2026-10-28，2026-10-28 查；http://www.ktisoutheurope.com/en/contact/）：**
+
+- 法定名 / 登记号：KTI Networks Inc.（ktinet.com.tw；**1983 年成立**；總部 15F-7, No. 79, Sec. 1, Hsin Tai Wu Rd., Xizhi, New Taipei；美國 Houston 分公司 + KTI South Europe）— **自有品牌網路產品開發 / 製造 / 行銷（光纖乙太網路、交換機、MC、PoE、工業 KGS / KGC 系列；主銷北美 / 歐洲 / 日本）**；統編 未取 → 部分坐实；表内「工業 FS / MC / SFP 自己的牌子，有人賣他們的」；無 KP（kti@）；9 次跟進無回覆 · 未取（統一編號 两查未得） · 状态 **营业中（官网 + 海外分支在线）** · 成立 1983 · 股份有限公司（推定）
+- 行业码 / 经营范围：自有品牌 網路 / 工業交換機 製造 + 外銷（新北汐止）— 同行
+- 注册地址：15F-7, No. 79, Sec. 1, Hsin Tai Wu Rd., Xizhi Dist., New Taipei City
+- 规模档：中小（海外分支）
+- 账目：未取；—
+- 高管：（研究档无 KP：kti@ktinet.com.tw）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自研自產品牌廠（1983 起、北美 / 歐洲 / 日本自有通路）= 同行，無 OEM 訊號 + 9 次 0 回覆 → 不動（B 保留）**
+- 备注：不动（同行）；部分坐实（官网 + 海外站：总部地址 + 成立年；統編未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,8 +128,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 台湾 |
-| 其他 | 官网 ktinet.com.tw，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | KTI Networks Inc.（統一編號 未取；1983 年成立；Houston 分公司 + KTI South Europe） |
+| 成立 | 1983（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 15F-7, No. 79, Sec. 1, Hsin Tai Wu Rd., Xizhi Dist., New Taipei City（+886 2 2698 3878）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 ktinet.com.tw，语言 en-US，快照状态 ok；角色判定来源：用户表；第 116 批：自研自產品牌廠（北美 / 歐洲 / 日本自有通路）= **同行，無 OEM 訊號 + 9 次 0 回覆 → 不動（B 保留）**；部分坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业交换机 / 媒体转换器（自有品牌 KTI）
 - **触达通道（公开）**：role: 台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）；region: 台湾；contact: kti@ktinet.com.tw

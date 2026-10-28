@@ -89,6 +89,20 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 116 批（SG · 1 次检索：hyconext.com/18-l2-unmanaged-poe-switches（Singapore HQ: 128 Tanjong Pagar Road, Singapore, 088535；United States: 1170 Centre Dr #F, City of Industry, CA 91789；sales@ / support@；HC8MT1XP_P+ 8×2.5G + 1 SFP+ 120W；HC5FT_P+）+ hyconext.com/become-a-distributor（actively seeking partners worldwide as official distributors；NextWav / NextWav Lite 2.5G PoE；WISP, network operators, SMBs）+ facebook（Hyconext, Singapore；PoE switches and data center solutions for WISP operators）；UEN 未得；2026-10-28，2026-10-28 查；https://hyconext.com/become-a-distributor）：**
+
+- 法定名 / 登记号：Hyconext（hyconext.com；**Singapore HQ 128 Tanjong Pagar Road, Singapore 088535；美国办公室 1170 Centre Dr #F, City of Industry, CA 91789；法人名 / UEN 未取 → 部分坐实**）— **自有品牌 PoE / 以太网 / 数据中心交换机 + 光模块（面向 WISP / 运营商 / SMB；主推 2.5G NextWav 系列 HC8MT1XP_P+ / HC5MT1XP_P+ / HC16MT6XP-UP-PRO）；全球招分销商（= 自己是品牌方，机器外购）**；无 KP（sales@）；14 次跟进无回复 · 未取（法人名 / UEN 未得） · 状态 **营业中（官网 + 招商页在线）** · 成立 未取 · 未取（品牌）
+- 行业码 / 经营范围：PoE / 2.5G 交换机 品牌（外购贴牌；SG HQ + 美国办公室）
+- 注册地址：128 Tanjong Pagar Road, Singapore 088535
+- 规模档：小型
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@hyconext.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **纯品牌方（机器外购、全球招分销）→ 贴标 OEM 30% B，一页纸一次（切口：其 1G 线的对位 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + 管理机 STC-4424GCPM（Marvell）+ 10G 上联 STC-110XGE + Hyconext 标 / 自编货号 / 中性包装 / 付费样机；2.5G 一句「另议」（待 SB-263 口径）；英文，收 sales@）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动
+  - 守界：主体未坐实 → 只做预付；不点名其现供应商；IMDA 不声称
+- 备注：贴标 OEM 30%；一页纸一次；部分坐实（官网 HQ + 美国办公室；法人 / UEN 未取）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $12 ← 「might also like Mounting Bracket 107*44*28mm, Compatible with Hyconext HC8MT2XP_UP Series PoE Switches, Easy Installation, 424310744020 $12」（https://hyconext.com/）
@@ -144,8 +158,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 hyconext.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Hyconext（法人名 / UEN 未取；Singapore HQ + 美國 City of Industry, CA 辦公室） |
+| 成立 | 未取（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 128 Tanjong Pagar Road, Singapore 088535（美國 1170 Centre Dr #F, City of Industry, CA 91789）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 hyconext.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：純品牌方（PoE / 2.5G NextWav / DC 交換機 外購，全球招分銷）→ **貼標 OEM 30% B，一頁紙一次**（1G 線 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM + STC-110XGE + Hyconext 標；2.5G 一句「另議」待 SB-263 口徑；收 sales@）；再無回聲 → 不動；部分坐实 → 只做預付— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：PoE / 多千兆 / 数据中心交换机（自有品牌）；光模块
 

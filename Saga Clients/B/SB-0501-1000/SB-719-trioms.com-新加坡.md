@@ -79,6 +79,19 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 116 批（SG · 1 次检索：trioms.com（Trioms Technology Pte Ltd；Reg/GST NO : 201131509H；200 Jalan Sultan #03-11, Textile Centre Singapore 199018；sales@trioms.com；+6590219589；Brands Boltek / Davis / Fosco / General standards / Jw fishers / KC denmark / Kestrel / Skyscan；categories Fiber optic and network products / Ocean Monitoring / Weather Monitoring）+ generalstandards.com/partners（Trioms Technology Private Limited；10 Anson Road #17-22 International Plaza 079903；Distributors in Singapore）；2026-10-28，2026-10-28 查；https://www.trioms.com/）：**
+
+- 法定名 / 登记号：Trioms Technology Pte Ltd（trioms.com；**Reg / GST No. 201131509H（官网页脚）**；200 Jalan Sultan #03-11 Textile Centre, Singapore 199018（旧址 10 Anson Road #17-22 International Plaza 079903）；电话 +65 9021 9589）— **科学 / 海洋 / 气象仪器多品牌分销（JW Fishers 水下搜索、Kestrel 气象、Boltek 雷电、KC Denmark 采样、Fosco、General Standards 板卡）；站内「Fiber optic and network products」仅一款 10/100 工业 MC（AOA）**；无 KP（sales@）；14 次跟进无回复 · UEN 201131509H（官网 Reg / GST） · 状态 **营业中（官网在线）** · 成立 2011（UEN 年份） · Pte Ltd
+- 行业码 / 经营范围：科学 / 海洋 / 气象仪器 分销（非目标行业）
+- 注册地址：200 Jalan Sultan #03-11 Textile Centre, Singapore 199018
+- 规模档：微型（手机为总机）
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@trioms.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **仪器分销商、网络只是一款 MC 的点缀（非目标行业）+ 14 次 0 回复 → 不动（B 保留）**
+- 备注：不动（非目标行业 + 14×0）；坐实（官网 UEN + 地址 + 旧址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,8 +141,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 trioms.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Trioms Technology Pte Ltd（UEN 201131509H，官網 Reg / GST；General Standards 新加坡分銷商） |
+| 成立 | 2011（UEN 年份）（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 200 Jalan Sultan #03-11 Textile Centre, Singapore 199018（+65 9021 9589；舊址 10 Anson Road #17-22 International Plaza）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 trioms.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 116 批：科學 / 海洋 / 氣象儀器多品牌分銷（JW Fishers / Kestrel / Boltek），網路只是一款 AOA 工業 MC 的點綴（非目標行業）+ 14 次 0 回覆 → **不動（B 保留）**；坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：仪器 / 技术产品分销（新加坡）
 - **触达通道（公开）**：role: 仪器/技术产品分销商（新加坡，工业 MC 单品）；region: 新加坡；contact: sales@trioms.com

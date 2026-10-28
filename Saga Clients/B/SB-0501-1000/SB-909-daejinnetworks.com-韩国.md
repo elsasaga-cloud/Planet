@@ -76,6 +76,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 116 批（KR · 1 次检索：daejinnetworks.com/en（Disruptive & Reliable Network Solution Provider；Company established in March 2021；Centec network switch solutions + Hisilicon optic transceivers；SDN solution；Parts turnkey with Daejin Semiconductor；CEO Lee Soo-bong；Date of establishment January 18, 2021；Room 1207, 278, Cherry Blossom-ro, Geumcheon-gu, Seoul 08511 SJ Technoville；TEL 1588-9809 / 02-3397-3610）+ daejinnetworks.com/ethernert-switch（Centec V580 / V530-TAP / V680 / V550 / V550-TAP / V530 / V680-TAP / V580-TAP；E550 / E580 Series Routing Switches）；2026-10-28，2026-10-28 查；https://www.daejinnetworks.com/en）：**
+
+- 法定名 / 登记号：대진네트웍스 Daejin Networks（daejinnetworks.com；**设立 2021-01-18（站内另称 2021-03）；CEO 이수봉 Lee Soo-bong**；Room 1207, 278 Beotkkot-ro（벚꽃로）, Geumcheon-gu, Seoul 08511（SJ Technoville, 가산동）；电话 1588-9809 / 02-3397-3610）— **Centec 交换机（V530 / V550 / V580 / V680 + TAP 版、E550 / E580 路由交换机 CTC7148）+ HiSilicon 光模块 韩国分销、SDN 开发、Tibit PON、Vision AI / NVIDIA Jetson；与 대진반도체 Daejin Semiconductor 协同的零件 turnkey**；사업자등록번호 未取 → 部分坐实；表内 info / sales 邮箱均退信 · 未取（사업자등록번호 未得） · 状态 **营业中（官网在线）** · 成立 2021-01-18 · 주식회사（推定）
+- 行业码 / 经营范围：Centec 交换机 / 光模块 韩国分销 + SDN 开发（首尔衿川）— CENTEC 原厂渠道
+- 注册地址：서울 금천구 벚꽃로 278, SJ테크노빌 1207호 (가산동) 08511
+- 规模档：小型（2021 新设）
+- 账目：未取；—
+- 高管：이수봉 Lee Soo-bong — CEO
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Centec 原厂韩国渠道（直拿 V/E 系列）= Saga STH（CENTEC 平台）的同线竞对 + 邮箱全退信 → 不动（B 保留；地址失效）**
+  - 守界：不向 Centec 渠道报 STH 价格
+- 备注：不动（Centec 直供渠道 + 地址失效）；部分坐实（官网 CEO + 设立日 + 地址；号码未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,14 +132,17 @@ updated: 2026-10-28
 - **【用户表】CENTEC Switch；邮箱退信**
   > CENTEC Switch；质量高 INFO SALES都不行
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：이수봉 Lee Soo-bong（CEO（官網；设立 2021-01-18）— 不動，不發（info / sales 均退信 = 地址失效）（第 116 批 官方登记核实 2026-10-28）） 〔https://www.daejinnetworks.com/en〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 韩国 |
-| 其他 | 官网 daejinnetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | 대진네트웍스 Daejin Networks（사업자등록번호 未取；대진반도체 Daejin Semiconductor 關聯） |
+| 成立 | 2021-01-18（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 서울 금천구 벚꽃로 278, SJ테크노빌 1207호 08511（1588-9809）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 daejinnetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案；第 116 批：Centec 交換機（V/E 系列）+ HiSilicon 光模塊 韓國分銷 = **CENTEC 原廠渠道 同線競對 + 郵箱全退信 → 不動（B 保留；地址失效）**；守界：不向 Centec 渠道報 STH 價（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络方案（Vision AI / 光传输 / TAP 交换机 / PON / VPN 路由）；以太网交换机（CENTEC 平台）
 
@@ -185,6 +202,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| 이수봉 Lee Soo-bong | CEO（官網；设立 2021-01-18）— 不動，不發（info / sales 均退信 = 地址失效）（第 116 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.daejinnetworks.com/en |
 | INFO SALES | — | — | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：无邮箱：只能电话 / WhatsApp / 官网表单

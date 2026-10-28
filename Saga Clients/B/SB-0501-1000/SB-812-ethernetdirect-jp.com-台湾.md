@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 116 批（TW · 1 次检索：ethernetdirect-tw.com/aboutus（Ethernet Direct is a leading solution provider of industrial networking；In North America, Ethernet Direct operates with a GSA approved company；sales team in New York, logistic operations in California；Ethernet Direct, Moxa and Belden brands Hirschmann & GarrettCom are premium industrial Ethernet switches, they only differ in price；5 years warranty；up to 28 ports 1GbE；PoE++）+ press/jun-2020（Ethernet Direct Corporation, California；Cobra series 95W PoE++）+ press/jun-2015（CME-822E / CUE-822 / CUE-411 / CUE-413）；台灣統編 未得；2026-10-28，2026-10-28 查；https://www.ethernetdirect-tw.com/aboutus.html）：**
+
+- 法定名 / 登记号：Ethernet Direct Corporation（ethernetdirect-tw.com / ethernetdirect-jp.com；**北美 GSA 核准公司：紐約銷售 + 加州物流；台灣站 + 日文站；統編 / 台灣實體 未取**）— **工業乙太網路品牌（Cobra 系列工業 PoE / PoE++ 95W 管理 / 非管理交換機、注入器、分離器；5 年保；自稱與 Moxa / Hirschmann 同級只差價格）**；無 KP（sales@ethernetdirect-tw.com）；6 次跟進無回覆 · 未取（台灣統編 / 美國實體 未得） · 状态 **营业中（官网在线）** · 成立 ≥2005（「over a decade」2015 年自述） · Corporation（美國）+ 台灣站
+- 行业码 / 经营范围：工業乙太網路品牌（Cobra 系列；北美 GSA）
+- 注册地址：未取（台灣聯絡站；美國 NY 銷售 / CA 物流）
+- 规模档：小型
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@ethernetdirect-tw.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工業品牌商（推定 ODM 外購、北美通路）→ 貼標 OEM 30% B small，一頁紙一次（切口：Cobra 線的成本型補位 STI-154GP / STI-288DGGPM / STI-488DGGPM（宽温、PoE+）+ 自編貨號 / 中性包裝 / 付費樣機；GSA / NDAA 明說無法聲稱；英文，收 sales@）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動
+  - 守界：不提 GSA / NDAA / TAA；主體未坐實 → 只做預付；稿内不比 Moxa / Hirschmann
+- 备注：贴标 OEM 30% small；一页纸一次；未坐实（官网自述；統編 / 实体未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,8 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 台湾 |
-| 其他 | 官网 ethernetdirect-jp.com，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Ethernet Direct Corporation（美國 NY 銷售 / CA 物流；GSA 核准公司；台灣站 ethernetdirect-tw.com；統編 / 實體 未取） |
+| 成立 | ≥2005（2015 自述「over a decade」）（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 未取（台灣聯絡站；美國 NY / CA）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 ethernetdirect-jp.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 116 批：工業品牌商（Cobra 系列；推定 ODM 外購、北美通路）→ **貼標 OEM 30% B small，一頁紙一次**（STI-154GP / 288DGGPM / 488DGGPM 寬溫 PoE+ + 自編貨號 + 付費樣機；GSA / NDAA 明說無法聲稱；收 sales@）；再無回聲 → 不動；未坐实 → 只做預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业以太网交换机（Cobra 系列）/ 工业无线 / 机架交换机
 - **触达通道（公开）**：role: 台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）；region: 台湾；contact: sales@ethernetdirect-tw.com

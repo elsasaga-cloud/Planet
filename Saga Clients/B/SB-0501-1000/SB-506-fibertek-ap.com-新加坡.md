@@ -82,6 +82,19 @@ updated: 2026-10-28
 
 - 法定假日：11-08 Diwali；11-09 Diwali (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 116 批（SG · 1 次检索：sgpbusiness 同址索引（AP MOG GLOBAL PTE. LTD. / FIBERLAN PTE LTD 页内「FIBERTEK PTE LTD 3015A UBI ROAD 1」）；UEN / 注册日 未得（按 1 查纪律停）；2026-10-28，2026-10-28 查；https://www.sgpbusiness.com/company/Fiberlan-Pte-Ltd）：**
+
+- 法定名 / 登记号：Fibertek Pte Ltd（fibertek-ap.com；**sgpbusiness 索引：FIBERTEK PTE LTD，3015A Ubi Road 1（与 Velocity Technology Industries / Fiberlan 同楼）；UEN 1 查未得 → 部分坐实**）— **自有品牌：工业 FS、多功能 VC、SFP、MC、光猫、小壳系列周边（表内「看着像国内的外壳」= 已直接从国内拿货）**；官网超时；无 KP（sales@）；17 次跟进无回复 · 未取（UEN 1 查未得；实体名 FIBERTEK PTE LTD 已见） · 状态 **未取（官网超时）** · 成立 未取 · Pte Ltd
+- 行业码 / 经营范围：光通信 / 网络周边 自有品牌（国内拿货）（Ubi）
+- 注册地址：3015A Ubi Road 1, Singapore（楼层未取）
+- 规模档：未取
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@fibertek-ap.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已直接从国内拿货的小品牌、SFP / 光猫为主、无 KP、17 次 0 回复、主体未坐实 → 不动（B 保留）**
+- 备注：不动（17×0 + 无 KP + 未坐实 + 已有国内货源）；部分坐实（索引实体名 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,8 +137,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 fibertek-ap.com，语言 ?，快照状态 timeout；角色判定来源：用户表 |
+| 法定名称 | Fibertek Pte Ltd（sgpbusiness 同址索引 FIBERTEK PTE LTD；UEN 1 查未得） |
+| 成立 | 未取（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 3015A Ubi Road 1, Singapore（樓層未取；與 Velocity Technology Industries / Fiberlan 同樓）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 fibertek-ap.com，语言 ?，快照状态 timeout；角色判定来源：用户表；第 116 批：已直接從國內拿貨的小品牌（SFP / 光貓為主）、無 KP、17 次 0 回覆、主體未坐實 → **不動（B 保留）**；部分坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业 FS / VC / MC / SFP / 光猫（自有品牌 Fibertek）
 - **触达通道（公开）**：role: 光网络产品自有品牌商（新加坡，疑似国内货源）；region: 新加坡；contact: sales@fibertek-ap.com

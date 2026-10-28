@@ -93,6 +93,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 116 批（TW · 1 次检索：ilucoltd.com/sitemap（iLu CO., LTD. 譯麓有限公司；No.105, Lujiang St., Luzhou Dist., New Taipei City 24748；TEL +886282863598 ext 101；FAX +886228483036；admin@ilucoltd.com；President Angus Tseng angus@ilucoltd.com；Striewitzweg 6E, 14514 Teltow, Brandenburg；Australia: Hungsway Hung Cheng F109, 27 Mars Road, Lane Cove NSW 2066）+ ilucoltd.com/equipment（Ethernet Tester Loopback 產線治具）+ zoominfo（Angus Tseng President at iLu）；統編 未得；2026-10-28，2026-10-28 查；https://www.ilucoltd.com/sitemap/）：**
+
+- 法定名 / 登记号：譯麓有限公司 iLu CO., LTD.（ilucoltd.com；No. 105, Lujiang St., Luzhou Dist., New Taipei City 24748；電話 +886-2-8286-3598 ext 101；**President Angus Tseng（= KP）**；德國 Teltow 聯絡點 + 澳洲 Hungsway（Hung Cheng, Lane Cove NSW）；統編 未取 → 部分坐實）— **貿易公司（SFP+ DAC、乙太網測試治具 Loopback、網路變壓器 / FPCB、LevelOne、塑膠 / IT 廢料 等雜項）；表內「PoE / SFP / bypass 模組 / 大口 FS，基本都是海思的」**；**Styven Tseng 2024-10-25 來信「flat Gigabit 8-p PoE web smart or L2?」（SB-1112 占位行 = 同一來信 → 併線至此）** · 未取（統一編號 未得；中文名 譯麓有限公司 已得） · 状态 **营业中（官网在线）** · 成立 未取 · 有限公司
+- 行业码 / 经营范围：網通零組件 / 測試治具 / 雜項 貿易（新北蘆洲）
+- 注册地址：新北市蘆洲區鹿江街105號 / No. 105, Lujiang St., Luzhou Dist., New Taipei City 24748
+- 规模档：微型（總裁親答）
+- 账目：未取；—
+- 高管：Angus Tseng — President（研究档 KP；angus@ilucoltd.com）= 收件人
+- 高管：Styven Tseng — 2024-10-25 來信人（styvent@gmail.com；SB-1112 併線）= 抄送
+- 高管：Hung Cheng — 澳洲 Hungsway 聯絡人
+- 控制人 / 股东：Angus Tseng（推定）
+- **这意味着什么：**
+  - **小型貿易商、總裁與家人親自問 8 口扁平 PoE web smart / L2 → 分銷 20% B small，一頁紙一次（切口：直接答 2024-10 之問：8 口 PoE 非管理 STC-028GP / STC-228GP 一口價，8 口管理型按主表現有型號報（無則明說）；SFP / bypass 模組 不做；付費樣機、MOQ 1；英文，Angus 直呼、抄 Styven）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動
+  - 守界：統編 未取 → 只做預付；海思機型不比較
+- 备注：分销 20% small；一页纸一次；部分坐实（官网：中文名 + 地址 + 總裁；統編未取）；SB-1112 併線至此。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,16 +142,19 @@ updated: 2026-10-28
 - **【用户表】PoE SFP bypass 大口 FS；海思的**
   > POE SFP Bypass模块 大口FS / 基本都是海思的；之前联系过；邮件中有详细的联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Angus Tseng（）angus@ilucoltd.com 〔用户表〕
-- **KP**：Styven Tseng（2024-10-25 来信「Do you have flat Gigabit 8-p PoE web smart or L2?」（私人邮箱 styvent@gmail.com 在签名里））styven@ilucoltd.com WhatsApp +886 933 819 962（2024-10-25 签名）〔S 邮箱 2024-10-25 来信表头 + 签名〕
+- **KP**：Angus Tseng（President, iLu Co., Ltd. 譯麓有限公司（官網）= 拍板人 / 收件人 — 一頁紙一次：分銷 20% small，直接答 2024-10 之問：8 口 PoE 非管理 STC-028GP / STC-228GP 一口價，8 口管理型按主表現有型號報；SFP / bypass 模組不做；付費樣機、MOQ 1、預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））angus@ilucoltd.com 〔用户表〕
+- **KP**：Styven Tseng（2024-10-25 來信人（來信地址 styvent@gmail.com；= SB-1112 占位行 同一來信，已併線）= 抄送（第 116 批 官方登记核实 2026-10-28））styven@ilucoltd.com WhatsApp +886 933 819 962（2024-10-25 签名）〔S 邮箱 2024-10-25 来信表头 + 签名〕
+- **KP**：Hung Cheng（澳洲 Hungsway 聯絡人（官網 sitemap；Lane Cove NSW）— 備用（第 116 批 官方登记核实 2026-10-28）） 〔https://www.ilucoltd.com/sitemap/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 台湾 |
-| 其他 | 官网 ilucoltd.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | 譯麓有限公司 iLu CO., LTD.（統一編號 未取；德國 Teltow 聯絡點 + 澳洲 Hungsway） |
+| 成立 | 未取（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 新北市蘆洲區鹿江街105號 / No. 105, Lujiang St., Luzhou Dist., New Taipei City 24748（+886-2-8286-3598 ext 101）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 ilucoltd.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 116 批：小型貿易商、總裁與家人親自問 8 口扁平 PoE → **分銷 20% B small，一頁紙一次**；再無回聲 → 不動；SB-1112 併線至此；部分坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络连接件 / 设备 / 塑料杂项贸易
 - **触达通道（公开）**：role: 台湾贸易公司（多品类，网络产品为其一）；region: 台湾；contact: angus@ilucoltd.com、admin@ilucoltd.com
@@ -213,8 +232,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Angus Tseng | — | angus@ilucoltd.com | 调研核实（公开页） | 用户表 |
-| Styven Tseng | 2024-10-25 来信「Do you have flat Gigabit 8-p PoE web smart or L2?」（私人邮箱 styvent@gmail.com 在签名里） | styven@ilucoltd.com / WhatsApp +886 933 819 962（2024-10-25 签名） | 调研核实（公开页） | S 邮箱 2024-10-25 来信表头 + 签名 |
+| Angus Tseng | President, iLu Co., Ltd. 譯麓有限公司（官網）= 拍板人 / 收件人 — 一頁紙一次：分銷 20% small，直接答 2024-10 之問：8 口 PoE 非管理 STC-028GP / STC-228GP 一口價，8 口管理型按主表現有型號報；SFP / bypass 模組不做；付費樣機、MOQ 1、預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28） | angus@ilucoltd.com | 调研核实（公开页） | 用户表 |
+| Styven Tseng | 2024-10-25 來信人（來信地址 styvent@gmail.com；= SB-1112 占位行 同一來信，已併線）= 抄送（第 116 批 官方登记核实 2026-10-28） | styven@ilucoltd.com / WhatsApp +886 933 819 962（2024-10-25 签名） | 调研核实（公开页） | S 邮箱 2024-10-25 来信表头 + 签名 |
+| Hung Cheng | 澳洲 Hungsway 聯絡人（官網 sitemap；Lane Cove NSW）— 備用（第 116 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.ilucoltd.com/sitemap/ |
 
 - **通道建议**：企业邮箱可直发
 

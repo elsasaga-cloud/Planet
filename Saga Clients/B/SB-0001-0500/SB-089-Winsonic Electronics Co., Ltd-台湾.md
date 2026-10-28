@@ -85,6 +85,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 116 批（TW · 1 次检索：「"Winsonic Electronics" 統一編號 … ewinsonic.com」→ 命中 伍仕電子股份有限公司 27966146（台北內湖；湯偉成）/ 文聲電子工業 04348572（三重）/ 威強電（維基）均無 Winsonic 英文名對應 → 未坐實（按 1 查紀律停）；2026-10-28，2026-10-28 查；https://www.ewinsonic.com/）：**
+
+- 法定名 / 登记号：Winsonic Electronics Co., Ltd.（ewinsonic.com；台灣工業面板 PC / 無風扇工控機 / 工業顯示器製造商；**統編 / 登記主體 1 查未得 → 未坐實**（檢索命中 伍仕電子 27966146 / 文聲電子 04348572 均無法對上 Winsonic 英文名））— 站內「Industrial Switch」網路 / 邊緣連接品類為配套；**表內 Rex 在用 UniPoE（優力普）工業 FS**，2025-11 對升壓 PoE 回 INFO（升壓 Saga 無） · 未取（統一編號 1 查未得） · 状态 **营业中（官网在线）** · 成立 未取 · Co., Ltd.（推定 股份有限公司）
+- 行业码 / 经营范围：工業面板 PC / 工控機 製造；工業交換機 配套 外購（UniPoE）
+- 注册地址：未取
+- 规模档：未取
+- 账目：未取；—
+- 高管：Rex Lin — 採購 / 產品（研究档 KP；rex.lin@ewinsonic.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工控機廠、工業交換機外購（現供 UniPoE 深圳）→ 貼標 OEM 30% B small，一頁紙一次（切口：對位 UniPoE 工業 FS 的 STI-154GP / STI-288DGGPM / STI-0240GE（寬溫、PoE+）+ Winsonic 標 / 自編貨號 / 付費樣機；升壓 PoE 明說不做；英文，Rex 直呼）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動
+  - 守界：主體未坐實 → 只做預付；不點名 UniPoE；BSMI 不聲稱
+- 备注：贴标 OEM 30% small；一页纸一次；未坐实（1 查未得；官网 + 表内）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,17 +125,17 @@ updated: 2026-10-28
 - **【用户表】在用 UniPoE 的工业 FS；2025-11 升压→INFO**
   > 兴趣：在用UniPoE的工业FS;工业FS 优力普的；回复：INFO
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rex Lin（）rex.lin@ewinsonic.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Rex Lin（採購 / 產品（表內：在用 UniPoE 工業 FS；2025-11 對升壓 PoE 回 INFO）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位 UniPoE 的 STI-154GP / STI-288DGGPM / STI-0240GE + Winsonic 標 + 付費樣機；升壓 PoE 明說不做；只做預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））rex.lin@ewinsonic.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：台系工控 OEM））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Winsonic Electronics Co., Ltd. |
-| 成立 | （待核） |
-| 总部/地址 | 台湾 |
-| 其他 | sales@ewinsonic.com |
+| 法定名称 | Winsonic Electronics Co., Ltd.（統一編號 1 查未得 → 未坐實；命中 伍仕電子 27966146 / 文聲電子 04348572 均不對應） |
+| 成立 | 未取（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 未取（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | sales@ewinsonic.com；第 116 批：工業面板 PC / 工控機廠、工業交換機外購（現供 UniPoE 深圳）→ **貼標 OEM 30% B small，一頁紙一次**；再無回聲 → 不動；未坐实 → 預付；不點名 UniPoE（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业面板 PC / 无风扇 PC / 工业显示；配套工业交换机（外购贴牌，现 UniPoE）
 - **触达通道（公开）**：role: 工控制造商（配套外购）；region: 全球
@@ -219,7 +233,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rex Lin | — | rex.lin@ewinsonic.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Rex Lin | 採購 / 產品（表內：在用 UniPoE 工業 FS；2025-11 對升壓 PoE 回 INFO）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位 UniPoE 的 STI-154GP / STI-288DGGPM / STI-0240GE + Winsonic 標 + 付費樣機；升壓 PoE 明說不做；只做預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28） | rex.lin@ewinsonic.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Rex | — | rex.lin@ewinsonic.com / sales@ewinsonic.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

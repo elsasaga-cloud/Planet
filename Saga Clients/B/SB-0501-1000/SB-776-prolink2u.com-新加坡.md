@@ -74,6 +74,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 116 批（SG · 1 次检索：recordowl（FIDA INT'L (S) PTE LTD；UEN 199101937H；Registered address 16 KALLANG PLACE #06-01/04 SINGAPORE 339156；+65 6357 0668；support@prolink2u.com；Annual return filed 20 Jul 2026；PROLiNK established in 1991 in Singapore, networking equipment, power products and peripherals）+ crunchbase（Prolink；Legal Name FIDA INTERNATIONAL (S) PTE LTD；51-100；Consumer Electronics / Manufacturing / Smart Home）+ facebook PROLink.ME（PROLiNK هي علامة تجارية لشركة Fida International (S) Pte Ltd）；2026-10-28，2026-10-28 查；https://recordowl.com/company/fida-int-l-s-pte-ltd）：**
+
+- 法定名 / 登记号：FIDA INT'L (S) PTE LTD = PROLiNK 品牌（prolink2u.com；**UEN 199101937H；1991 年起**；16 Kallang Place #06-01/04, Singapore 339156；电话 +65 6357 0668；年报 2026-07-20 已报；51–100 人（Crunchbase））— **数字生活品牌：网络与通信（路由 / 交换机 / PoE）、电源 / UPS / 太阳能、配件、智能家居；新加坡网络安全标签 Level 1；中东分站 PROLink.ME**；表内「商业 PoE 自己的 logo」「质量一般」；KP Karen Kwek（2024-11 休假自动回复；代理 Goh Wan Lin）/ Shijie Leong（2025-01 自动回复）= 地址有效；表内未实质跟进 · UEN 199101937H · 状态 **Live（年报 2026-07-20 已报）** · 成立 1991 · Pte Ltd
+- 行业码 / 经营范围：消费 / SMB 网络 + 电源 品牌 PROLiNK（Kallang）
+- 注册地址：16 Kallang Place #06-01/04, Singapore 339156
+- 规模档：中小（51–100 人）
+- 账目：年报 2026-07-20 已报（数字未取）；—
+- 高管：Karen Kwek — 研究档 KP（karen_kwek@prolink2u.com；2024-11 休假自动回复）= 收件人
+- 高管：Goh Wan Lin — Karen 代理人（wanlin_goh@prolink2u.com）= 抄送
+- 高管：Shijie Leong — 研究档联系人（2025-01 自动回复）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **35 年本土品牌、PoE 自己 logo、三个收件地址均活（自动回复）但从未真正跟进 → 贴标 OEM 30% B（升 A 候选），一页纸一次（切口：SMB PoE 非管理阶梯 STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP + PROLiNK 标 / 彩盒 / 自编货号 / 付费样机 + 中东分站可直发 DAP；英文，Karen 直呼、抄 Wan Lin + Shijie；opener 引 2024-11 自动回复）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；回信 → 加厚 + 升 A
+  - 守界：IMDA / 网络安全标签 不声称、由其自办；不评价其现货质量
+- 备注：贴标 OEM 30%（升 A 候选）；一页纸一次（回声再加厚）；坐实（UEN + 地址 + 电话 + 年报 + 品牌归属）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,16 +122,19 @@ updated: 2026-10-28
 - **【用户表】商业 PoE 自己的 logo**
   > 商业POE 自己的logo；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Karen Kwek（收件人（2024-11-02 休假自动回复；代理人 Goh Wan Lin wanlin_goh@prolink2u.com））karen_kwek@prolink2u.com 〔S 邮箱 2024-11 自动回复表头〕
-- **KP**：Shijie Leong（收件人（2025-01-21 陪产假自动回复；无人工回复））shijie_leong@prolink2u.com 〔S 邮箱 2025-01 自动回复表头〕
+- **KP**：Karen Kwek（PROLiNK（Fida Int'l (S) Pte Ltd，UEN 199101937H）研究档 KP = 收件人 — 一頁紙一次：貼標 OEM 30%，SMB PoE 非管理階梯 STC-028GP / 228GP / 2216GP / 2224GP + PROLiNK 標 / 彩盒 / 自編貨號 / 付費樣機 + 中東分站可直發 DAP；opener 引 2024-11 自動回覆；回信 → 加厚 + 升 A— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28））karen_kwek@prolink2u.com 〔S 邮箱 2024-11 自动回复表头〕
+- **KP**：Shijie Leong（研究档联系人（2025-01 自動回覆 = 地址有效）= 抄送（第 116 批 官方登记核实 2026-10-28））shijie_leong@prolink2u.com 〔S 邮箱 2025-01 自动回复表头〕
+- **KP**：Goh Wan Lin（Karen Kwek 休假代理人（2024-11-02 自動回覆）= 抄送（第 116 批 官方登记核实 2026-10-28））wanlin_goh@prolink2u.com 〔S 郵箱 2024-11 自動回覆表頭〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 prolink2u.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | FIDA INT'L (S) PTE LTD = PROLiNK 品牌（UEN 199101937H；年報 2026-07-20 已報；中東分站 PROLink.ME） |
+| 成立 | 1991（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 16 Kallang Place #06-01/04, Singapore 339156（+65 6357 0668）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 prolink2u.com，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：35 年本土品牌、PoE 自己 logo、三個收件地址均活但從未真正跟進 → **貼標 OEM 30% B（升 A 候選），一頁紙一次**；守界：IMDA / 網安標籤 不聲稱、不評價其現貨質量；坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：消费电子 / 网络通信 / 电源（自有品牌 Prolink）
 - **触达通道（公开）**：role: 消费/SMB 电子品牌商（新加坡，自有标 PoE）；region: 新加坡；contact: sales@prolink2u.com
@@ -186,8 +205,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Karen Kwek | 收件人（2024-11-02 休假自动回复；代理人 Goh Wan Lin wanlin_goh@prolink2u.com） | karen_kwek@prolink2u.com | 调研核实（公开页） | S 邮箱 2024-11 自动回复表头 |
-| Shijie Leong | 收件人（2025-01-21 陪产假自动回复；无人工回复） | shijie_leong@prolink2u.com | 调研核实（公开页） | S 邮箱 2025-01 自动回复表头 |
+| Karen Kwek | PROLiNK（Fida Int'l (S) Pte Ltd，UEN 199101937H）研究档 KP = 收件人 — 一頁紙一次：貼標 OEM 30%，SMB PoE 非管理階梯 STC-028GP / 228GP / 2216GP / 2224GP + PROLiNK 標 / 彩盒 / 自編貨號 / 付費樣機 + 中東分站可直發 DAP；opener 引 2024-11 自動回覆；回信 → 加厚 + 升 A— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28） | karen_kwek@prolink2u.com | 调研核实（公开页） | S 邮箱 2024-11 自动回复表头 |
+| Shijie Leong | 研究档联系人（2025-01 自動回覆 = 地址有效）= 抄送（第 116 批 官方登记核实 2026-10-28） | shijie_leong@prolink2u.com | 调研核实（公开页） | S 邮箱 2025-01 自动回复表头 |
+| Goh Wan Lin | Karen Kwek 休假代理人（2024-11-02 自動回覆）= 抄送（第 116 批 官方登记核实 2026-10-28） | wanlin_goh@prolink2u.com | 调研核实（公开页） | S 郵箱 2024-11 自動回覆表頭 |
 
 - **通道建议**：企业邮箱可直发
 

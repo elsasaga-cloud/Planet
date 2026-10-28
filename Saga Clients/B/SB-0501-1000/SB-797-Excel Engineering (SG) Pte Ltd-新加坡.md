@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 - 法定假日：11-08 Diwali；11-09 Diwali (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 116 批（SG · 1 次检索：recordowl（EXCEL ENGINEERING (SG) PTE. LTD.；Registration Number 201332361M；Registered Address 100 PECK SEAH STREET #08-14 PS100 SINGAPORE 079333 Virtual Business Address；Live Company；incorporated 02 December 2013；paid up capital $1,000；2 officers / owners / shareholders；Contact Number 6898 4451；Primary SSIC 71129 ENGINEERING DESIGN AND CONSULTANCY ACTIVITIES N.E.C.；Secondary 46900 WHOLESALE TRADE OF A VARIETY OF GOODS；Number of Charges 0）；2026-10-28，2026-10-28 查；https://recordowl.com/company/excel-engineering-sg-pte-ltd）：**
+
+- 法定名 / 登记号：Excel Engineering (SG) Pte. Ltd.（excelengineeringsg.net 不可达；**UEN 201332361M；注册 2013-12-02；实缴资本 S$1,000；2 名高管 / 股东；注册地址 100 Peck Seah Street #08-14 PS100, Singapore 079333 = 虚拟办公地址**；电话 6898 4451；SSIC 71129 工程设计咨询 + 46900 杂货批发；无抵押）— 表内「MC」；KP David Voo（电话 9697 0621）；7 次跟进无回复 · UEN 201332361M · 状态 **Live Company** · 成立 2013-12-02 · Pte. Ltd.（实缴 S$1,000）
+- 行业码 / 经营范围：71129 工程设计咨询；46900 杂货批发
+- 注册地址：100 Peck Seah Street #08-14 PS100, Singapore 079333（虚拟办公地址）
+- 规模档：微型（2 人）
+- 账目：实缴资本 S$1,000；—
+- 高管：David Voo — 研究档 KP（sales@excelengineeringsg.net；9697 0621）
+- 控制人 / 股东：2 名股东（姓名未取）
+- 抵押 / 诉讼 / 担保：0
+- **这意味着什么：**
+  - **微型（实缴 S$1,000、虚拟地址、官网失效）+ 需求只有 MC（Saga 仅 STC-110XGE）+ 7 次 0 回复 → 不动（B 保留）**
+- 备注：不动（微型 + 虚拟地址 + 需求不对位）；坐实（UEN + 注册日 + 实缴 + 地址 + SSIC）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -101,15 +115,17 @@ updated: 2026-10-28
 - **【用户表】MC**
   > MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：David Voo（）sales@excelengineeringsg.net 〔用户表〕
+- **KP**：David Voo（研究档 KP（9697 0621）— 微型（實繳 S$1,000、虛擬地址、官網失效）+ 需求只有 MC → 不動（第 116 批 官方登记核实 2026-10-28））sales@excelengineeringsg.net 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 excelengineeringsg.net，语言 ?，快照状态 unreachable；角色判定来源：用户表 |
+| 法定名称 | Excel Engineering (SG) Pte. Ltd.（UEN 201332361M；Live；實繳資本 S$1,000；2 名高管 / 股東；SSIC 71129 + 46900；無抵押） |
+| 成立 | 2013-12-02（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 100 Peck Seah Street #08-14 PS100, Singapore 079333（虛擬辦公地址；6898 4451）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 excelengineeringsg.net，语言 ?，快照状态 unreachable；角色判定来源：用户表；第 116 批：微型 + 虛擬地址 + 需求只有 MC（Saga 僅 STC-110XGE）+ 7 次 0 回覆 → **不動（B 保留）**；坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工程（新加坡）
 - **触达通道（公开）**：role: 工程公司（新加坡，MC 需求）；region: 新加坡；contact: sales@excelengineeringsg.net
@@ -188,7 +204,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| David Voo | — | sales@excelengineeringsg.net | 调研核实（公开页） | 用户表 |
+| David Voo | 研究档 KP（9697 0621）— 微型（實繳 S$1,000、虛擬地址、官網失效）+ 需求只有 MC → 不動（第 116 批 官方登记核实 2026-10-28） | sales@excelengineeringsg.net | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

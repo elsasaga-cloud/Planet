@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 116 批（TW · 1 次检索：ampliz（Netsys - National Enhance Technology Corporation；9F, No. 208, Sec. 3, Tatung Rd., Hsi Chih Dist., New Taipei City 221；+886266162880；Founded 1999；11-50；VDSL2 Media Converters / HPNA / IP DSLAMS / Network Extenders；established in June 1999）+ contactout（{first}@netsys.com.tw；Iris Kao Executive Secretary；Jason Kung Account Manager；Stone Yu / Ann Huang / Grace Chang / Rosa Lai Sales）+ netsys.com.tw NV-202 手冊（Copyright National Enhance Technology Corp.）；統編 未得；2026-10-28，2026-10-28 查；https://www.ampliz.com/company/netsys-national-enhance-technology-corporation/89689431）：**
+
+- 法定名 / 登记号：National Enhance Technology Corp.（Netsys；netsys.com.tw；**1999-06 成立**；9F, No. 208, Sec. 3, Datong Rd., Xizhi Dist., New Taipei 221；電話 +886-2-6616-2880）— **VDSL2 / HPNA LAN 延長器、MC、IP DSLAM、工業方案、10G SFP+ 品牌廠（自有品牌，有人賣他們的）**；11–50 人；統編 未取 → 部分坐实；無 KP（sales@；ContactOut 列 Iris Kao 執秘 / Jason Kung AM / Stone Yu 等業務）；9 次跟進無回覆 · 未取（統一編號 未得） · 状态 **营业中（官网在线）** · 成立 1999-06 · 股份有限公司（Corp.）
+- 行业码 / 经营范围：LAN 延長器 / MC / DSLAM 品牌廠（新北汐止）
+- 注册地址：9F, No. 208, Sec. 3, Datong Rd., Xizhi Dist., New Taipei City 221
+- 规模档：小型（11–50 人）
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@netsys.com.tw；ContactOut 業務名單 Jason Kung AM / Iris Kao 執秘，邮箱格式 first@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **延長器 / MC 為主業的品牌廠，交換機非核心（推定外購）→ 貼標 OEM 30% B small，一頁紙一次（切口：補其 NM 系列之外的 PoE / 工業交換機：STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM + Netsys 標 / 自編貨號 / MOQ 1 / 付費樣機；MC / 延長器明說不做；英文，收 sales@）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動
+  - 守界：統編 未取 → 部分坐实、只做預付；BSMI 不聲稱
+- 备注：贴标 OEM 30% small；一页纸一次；部分坐实（企业库 + 官网：地址 + 成立年 + 规模；統編未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,8 +129,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 台湾 |
-| 其他 | 官网 netsys.com.tw，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | National Enhance Technology Corp.（Netsys；統一編號 未取） |
+| 成立 | 1999-06（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 9F, No. 208, Sec. 3, Datong Rd., Xizhi Dist., New Taipei City 221（+886-2-6616-2880）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 netsys.com.tw，语言 ?，快照状态 ok；角色判定来源：用户表；第 116 批：VDSL2 延長器 / MC 品牌廠、交換機非核心（推定外購）→ **貼標 OEM 30% B small，一頁紙一次**（STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM + Netsys 標；MC / 延長器明說不做；收 sales@，ContactOut 業務名單 Jason Kung AM 可補）；再無回聲 → 不動；部分坐实— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：LAN 延长器 / 工业 MC / 10G SFP+（自有品牌 Netsys）
 - **触达通道（公开）**：role: 台湾网络设备厂商（自有 Netsys 品牌，台湾厂商口径）；region: 台湾；contact: sales@netsys.com.tw

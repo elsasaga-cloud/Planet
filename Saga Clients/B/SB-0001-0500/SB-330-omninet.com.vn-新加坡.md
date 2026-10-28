@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 法定假日：11-08 Diwali；11-09 Diwali (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 116 批（SG · 1 次检索：sgpbusiness（OMNI-COMM PTE LTD；UEN 198803797H；20 Oct 1988；Live Company；Exempt Private Company Limited By Shares；623 ALJUNIED ROAD #06-08 ALJUNIED INDUSTRIAL COMPLEX SINGAPORE 389835；www.omnicomm.com.sg；+65-63199000；.SG 域名注册人 omnicomm.com.sg）+ crunchbase（distributor for telecommunications equipment in Singapore and other regions；1-10；+65 6319 9009；helpdesk@omnicomm.com.sg）+ zoominfo（Established in 1988；distributor of communication and networking equipment + IT services in Singapore and the Indo-China region；revenue $17.4 Million）；2026-10-28，2026-10-28 查；https://www.sgpbusiness.com/company/Omni-comm-Pte-Ltd）：**
+
+- 法定名 / 登记号：Omni-Comm Pte Ltd（omnicomm.com.sg；表内 omninet.com.vn 为其越南侧默认页；**UEN 198803797H；注册 1988-10-20；Exempt Private Company Limited By Shares；Live**；623 Aljunied Road #06-08 Aljunied Industrial Complex, Singapore 389835；电话 +65 6319 9000 / 9009）— **电信 / 网络设备分销 + IT 服务（云通信、IP 电话、托管安全；酒店 / 医疗 / 教育 / 政府 / SMB），覆盖新加坡 + 中南半岛（越南）**；1–10 人（Crunchbase）/ ZoomInfo 营收 $17.4M（夸大口径）；表内「从国内买模块；Switch 自己的 logo」；KP Victor Tan（Operations Manager）/ Chuong（越南侧）；8 次跟进无回复；**iso SG 正确，不做 country_fix** · UEN 198803797H · 状态 **Live Company** · 成立 1988-10-20 · Exempt Private Company Limited By Shares
+- 行业码 / 经营范围：电信 / 网络设备分销 + IT 服务（新加坡 + 越南）
+- 注册地址：623 Aljunied Road #06-08 Aljunied Industrial Complex, Singapore 389835
+- 规模档：小型（1–10 人）
+- 账目：未取（EPC 免审计）；—
+- 高管：Victor Tan — Operations Manager（研究档 KP；victor@omnicomm.com.sg）= 收件人
+- 高管：Chuong — 越南侧联系人（chuong@omnicomm.com.sg）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **38 年老分销商、已贴自己 logo 的交换机 + 覆盖越南 → 贴标 OEM 30% B（升 A 候选），一页纸一次（切口：对位其现有贴标线的 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM 阶梯价 + Omni-Comm 标 / 自编货号 / 中性包装 + 越南直发 FOB 深圳（买方清关）+ 付费样机；光模块明说不做；英文，Victor 直呼、抄 Chuong）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；回信 → 加厚 + 升 A
+  - 守界：IMDA 不声称；越南侧 DAP 买方清关；ZoomInfo 营收不引用
+- 备注：贴标 OEM 30%（升 A 候选）；一页纸一次（回声再加厚）；坐实（UEN + 注册日 + 类型 + 地址 + 域名注册人）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,16 +132,18 @@ updated: 2026-10-28
 - **【用户表】从国内买模块；Switch 自己的 logo**
   > 从国内买模块 Switch 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Victor Tan（）victor@omnicomm.com.sg 〔用户表〕
-- **KP**：Chuong（）chuong@omnicomm.com.sg 〔用户表〕
+- **KP**：Victor Tan（Operations Manager, Omni-Comm Pte Ltd（UEN 198803797H；1988 年起分銷 + 越南）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位其現有貼標線 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM 階梯 + Omni-Comm 標 / 自編貨號 + 越南直發 FOB 深圳（買方清關）+ 付費樣機；光模塊明說不做；回信 → 加厚 + 升 A— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28））victor@omnicomm.com.sg 〔用户表〕
+- **KP**：Chuong（越南側聯絡人（omninet.com.vn 為其越南側默認頁）= 抄送（第 116 批 官方登记核实 2026-10-28））chuong@omnicomm.com.sg 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 omninet.com.vn，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Omni-Comm Pte Ltd（UEN 198803797H；Exempt Private Company Limited By Shares；Live；.SG 域名註冊人 omnicomm.com.sg） |
+| 成立 | 1988-10-20（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 623 Aljunied Road #06-08 Aljunied Industrial Complex, Singapore 389835（+65 6319 9000）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 omninet.com.vn，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：38 年老分銷商、已貼自己 logo 的交換機 + 覆蓋越南 → **貼標 OEM 30% B（升 A 候選），一頁紙一次**；iso SG 正確（HQ 新加坡），不做 country_fix；坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品（自有品牌，模块国内采购）
 - **触达通道（公开）**：role: 网络品牌商（新加坡/越南，自有标 Switch；官网待核）；region: 新加坡；contact: chuong@omnicomm.com.sg、victor@omnicomm.com.sg
@@ -213,8 +230,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Victor Tan | — | victor@omnicomm.com.sg | 调研核实（公开页） | 用户表 |
-| Chuong | — | chuong@omnicomm.com.sg | 调研核实（公开页） | 用户表 |
+| Victor Tan | Operations Manager, Omni-Comm Pte Ltd（UEN 198803797H；1988 年起分銷 + 越南）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位其現有貼標線 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM 階梯 + Omni-Comm 標 / 自編貨號 + 越南直發 FOB 深圳（買方清關）+ 付費樣機；光模塊明說不做；回信 → 加厚 + 升 A— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28） | victor@omnicomm.com.sg | 调研核实（公开页） | 用户表 |
+| Chuong | 越南側聯絡人（omninet.com.vn 為其越南側默認頁）= 抄送（第 116 批 官方登记核实 2026-10-28） | chuong@omnicomm.com.sg | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

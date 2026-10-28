@@ -82,6 +82,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不单独发（并入 SB-088）」，不排发信，略。
 
+**公司底数 · 第 116 批（TW · 1 次检索：acelink.com.tw（Since its establishment in 1986；EW-7896DBE BE19000 WiFi 7 PoE AP；EW-7822UBE；Copyright Acelink Technology Co., Ltd.）+ zoominfo（Acelink Technology 501-1,000 employees；HQ Neihu Dist. No.278 Xinhu 1st Rd, Taipei；Eunice Lu ODM Sales Division）+ wikidevi（Acelink EW-7822UBE Realtek RTL8912AU）；對照 SB-088 訊舟 登記地址 臺北市內湖區新湖一路278號；統編 未單獨得；2026-10-28，2026-10-28 查；https://www.acelink.com.tw/）：**
+
+- 法定名 / 登记号：Acelink Technology Co., Ltd.（acelink.com.tw；**HQ No. 278, Xinhu 1st Rd., Neihu Dist., Taipei = 訊舟 EDIMAX（SB-088）登記地址；「Since its establishment in 1986」= 訊舟設立年；型號 EW-78xx = EDIMAX 編碼 → 訊舟集團 ODM 分部 / 關係企業**；ZoomInfo 501–1,000 人（集團口徑）；ODM Sales Division Eunice Lu）— **Wi-Fi 7 / 6 AP、HaLow、工業 4G 閘道、AIoT 智慧城市 ODM；表內「商業 PoE，PoE 配件較多」**；無 KP（contact@）；7 次跟進無回覆；統編 未單獨取 → 部分坐實；**併線至 SB-088** · 未取（推定隸屬 訊舟科技 22164580 集團） · 状态 **營業中（官網在線）** · 成立 1986（集團口徑） · Co., Ltd.（訊舟集團 ODM 分部 推定）
+- 行业码 / 经营范围：Wi-Fi / AIoT ODM（訊舟集團，台北內湖）
+- 注册地址：No. 278, Xinhu 1st Rd., Neihu Dist., Taipei City（同 SB-088）
+- 规模档：大型（集團 501–1,000）
+- 账目：—（集團）；—
+- 高管：Eunice Lu — ODM Sales Division（ZoomInfo）
+- 高管：（contact@acelink.com.tw）
+- 控制人 / 股东：訊舟科技（推定）
+- **这意味着什么：**
+  - **訊舟集團 ODM 分部 → 併線 SB-088，一線一稿（由 Jesse Chen 線走），本行不單發**
+- 备注：并线 SB-088；部分坐实（同址 + 同設立年 + 同型號編碼；統編未單獨取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,8 +134,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 台湾 |
-| 其他 | 官网 acelink.com.tw，语言 zh-Hant-TW，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Acelink Technology Co., Ltd.（統編 未單獨取；HQ No. 278, Xinhu 1st Rd., Neihu = 訊舟 EDIMAX 22164580 登記地址；「since 1986」= 訊舟設立年；EW-78xx 型號 = EDIMAX 編碼 → 訊舟集團 ODM 分部 / 關係企業） |
+| 成立 | 1986（集團口徑）（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | No. 278, Xinhu 1st Rd., Neihu Dist., Taipei City（同 SB-088）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 acelink.com.tw，语言 zh-Hant-TW，快照状态 ok；角色判定来源：官网文案；第 116 批：**訊舟集團 ODM 分部 → 併線 SB-088，一線一稿（Jesse Chen 線），本行不單發**；部分坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：WiFi 7 / 智慧工厂 / AIoT 网络方案（ODM）
 - **触达通道（公开）**：role: 台湾网络 ODM/品牌商（台湾厂商口径二供）；region: 台湾；contact: contact@acelink.com.tw

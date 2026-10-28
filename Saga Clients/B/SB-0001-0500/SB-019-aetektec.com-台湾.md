@@ -79,6 +79,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 116 批（TW · 1 次检索：aetektec.com NDAA/TAA 聲明 PDF（AETEK Inc.；6F, No. 192-1, Lien-Cheng Rd., Chung-Ho Dist., New Taipei City 235；Tel +886-2-8245-2822；NDAA & TAA Compliant Product List：Managed PoE Switch C50 / C60 / C70 / D51 / H60 / H80 Series 等）+ asmag.com.tw（高譽科技股份有限公司 AETEK Inc.；新北市五股區五工三路106巷3號；聯絡人 李慧玉；PoE 供電器 60W / 90W）+ zoominfo（AETEK 11-50 employees；Jone Chen Product Manager；Rita Huang）；統編 未得；2026-10-28，2026-10-28 查；https://www.aetektec.com/Document/Download/dbd0c9ef-c308-4de4-b579-12306817e51b）：**
+
+- 法定名 / 登记号：高譽科技股份有限公司 AETEK Inc.（aetektec.com；6F, No. 192-1, Lien-Cheng Rd., Zhonghe Dist., New Taipei City 235（舊址 五股區五工三路106巷3號）；電話 +886-2-8245-2822；asmag 聯絡人 李慧玉）— **PoE 專業品牌（天花板嵌入式管理型 PoE 交換機專利、L2 PRO PoE、EPoX 延長、PoE 供電器 / 分離器 / 浪湧、戶外備援 PoE 機櫃；NDAA / TAA 合規產品表；Hanwha / Axis 生態）**；11–50 人；**與 SB-138 Volktek 同址（連城路192號）→ 姊妹品牌**；統編 未取 → 部分坐实；KP John (Jone) Chen = Product Manager：有時需要便宜方案可找 Saga、可能他們出軟體 Saga 出硬體、推了 2 光 10 電；8 次跟進無實質回覆 · 未取（統一編號 未得） · 状态 **营业中（官网在线）** · 成立 未取 · 股份有限公司
+- 行业码 / 经营范围：PoE 專業品牌（交換機 / 延長 / 供電 / 機櫃）（新北中和；Volktek 姊妹）
+- 注册地址：6F, No. 192-1, Lien-Cheng Rd., Zhonghe Dist., New Taipei City 235
+- 规模档：小型（11–50 人）
+- 账目：未取；—
+- 高管：Jone (John) Chen — Product Manager（研究档 KP；jone.chen@aetektec.com）= 收件人
+- 高管：李慧玉 — asmag 聯絡人
+- 控制人 / 股东：Volktek 集團（推定）
+- **这意味着什么：**
+  - **PoE 品牌、PM 本人說過「便宜方案可找 Saga / 他們軟體 + Saga 硬體」→ 貼標 OEM 30% B，一頁紙一次（切口：對位「2 光 10 電」的 STC-228GP（8 PoE + 2 GE + 2 SFP）/ STC-2216GP + 管理機 STC-4424GCPM（Marvell）一口價 + AETEK 標 / 自編貨號 / 中性包裝 + 付費樣機；NDAA / TAA 明說無法聲稱；英文，John 直呼）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；回信 → 加厚
+  - 守界：不提 NDAA / TAA / UL；與 Volktek（SB-138）同集團 → 兩戶一線、不重複報價；統編 未取 → 部分坐实
+- 备注：贴标 OEM 30%；一页纸一次（回声再加厚）；部分坐实（官网文件地址 + 电话 + 行业站中文名 + ZoomInfo KP 职务；統編未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,17 +120,18 @@ updated: 2026-10-28
 - **【用户表】Simon 之前联系过，面谈：有时需要便宜方案可以找我们拿；可能他们提供软件让我们提供硬件；推了 2 光 10 电；有很多 BT 产品及配件，可能有机会下单**
   > 兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：John Chen（）jone.chen@aetektec.com +886 2 8245 2822〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jone (John) Chen（Product Manager（ZoomInfo）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位其「2 光 10 電」的 STC-228GP / STC-2216GP + 管理機 STC-4424GCPM 一口價 + AETEK 標 + 付費樣機；NDAA / TAA 明說無法聲稱— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））jone.chen@aetektec.com +886 2 8245 2822〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：李慧玉（asmag 供應商頁聯絡人（高譽科技）— 備用（第 116 批 官方登记核实 2026-10-28）） 〔asmag.com.tw 供應商 高譽科技股份有限公司〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：台系品牌 ODM））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | AETEK Inc. |
-| 成立 | （待核） |
-| 总部/地址 | 新北市，台湾 |
-| 其他 | VNS Technologies（SB-298）为其阿联酋伙伴 |
+| 法定名称 | 高譽科技股份有限公司 AETEK Inc.（統一編號 未取） |
+| 成立 | 未取（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 6F, No. 192-1, Lien-Cheng Rd., Zhonghe Dist., New Taipei City 235（+886-2-8245-2822；舊址 五股區五工三路106巷3號）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | VNS Technologies（SB-298）为其阿联酋伙伴；第 116 批：PoE 專業品牌、PM 曾言「便宜方案可找 Saga / 他們軟體 + Saga 硬體」→ **貼標 OEM 30% B，一頁紙一次**；與 Volktek（SB-138，連城路192號）同集團推定 → 兩戶一線、不重複報價；守界：不提 NDAA / TAA / UL；部分坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：PoE 交换机 / 延长 / 注入 / 备援（自有品牌）；监控配套
 - **触达通道（公开）**：role: 台系品牌商（低价 SKU 外购 / 软硬分工 ODM）；region: 全球（安防渠道）
@@ -209,7 +225,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| John Chen | — | jone.chen@aetektec.com / +886 2 8245 2822 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Jone (John) Chen | Product Manager（ZoomInfo）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位其「2 光 10 電」的 STC-228GP / STC-2216GP + 管理機 STC-4424GCPM 一口價 + AETEK 標 + 付費樣機；NDAA / TAA 明說無法聲稱— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28） | jone.chen@aetektec.com / +886 2 8245 2822 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| 李慧玉 | asmag 供應商頁聯絡人（高譽科技）— 備用（第 116 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | asmag.com.tw 供應商 高譽科技股份有限公司 |
 | John | — | jone.chen@aetektec.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -278,7 +295,7 @@ updated: 2026-10-28
 **主题**：STI-288DGGPM-2BT - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hi John,
+Hi Jone,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details.
 

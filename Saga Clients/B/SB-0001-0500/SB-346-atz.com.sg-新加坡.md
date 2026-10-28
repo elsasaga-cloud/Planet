@@ -86,6 +86,19 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 116 批（SG · 对照 SB-697 检索结果：alliedasia.trustpass.alibaba.com（ALLIED ASIA RESOURCES PTE. LTD.；Trademarks(4) ATZ, ATZ, ATZ, ATZ）+ alliedasia.com.sg/product-category/cables（ATZ ST6.35MM-xxM 等货号）；未另起检索；2026-10-28，2026-10-28 查；https://alliedasia.trustpass.alibaba.com/company_profile.html）：**
+
+- 法定名 / 登记号：ATZ（atz.com.sg；官网 http_error）= **Allied Asia Resources Pte. Ltd.（SB-697）的自有商标（Alibaba 认证页 Trademarks(4) ATZ；alliedasia.com.sg 货号前缀 ATZ）→ 并线至 SB-697**；表内「商业 PoE ONV 的，也有其他外壳」；无 KP（info@ / sales@）；14 次跟进无回复 · = Allied Asia Resources Pte. Ltd.（UEN 未取，见 SB-697） · 状态 **并线 → SB-697** · 成立 —（商标） · 商标 / 品牌站（非独立法人）
+- 行业码 / 经营范围：Allied Asia 自有品牌 ATZ（PoE / 连接件）
+- 注册地址：55 Serangoon North Ave 4 #01-18, Singapore 555859（同 SB-697）
+- 规模档：—
+- 账目：—；—
+- 高管：（拍板人 = SB-697 Danny Lee / Kelvin Tan）
+- 控制人 / 股东：Allied Asia Resources Pte. Ltd.
+- **这意味着什么：**
+  - **同一公司的品牌站 → 并线 SB-697，本行不单发**
+- 备注：并线 SB-697；坐实（商标归属 + 货号前缀）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,8 +142,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 atz.com.sg，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | ATZ（atz.com.sg）= Allied Asia Resources Pte. Ltd.（SB-697）的自有商標（Alibaba 認證頁 Trademarks(4) ATZ；alliedasia.com.sg 貨號前綴 ATZ） |
+| 成立 | —（商標）（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 55 Serangoon North Ave 4 #01-18, Singapore 555859（同 SB-697）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 atz.com.sg，语言 ?，快照状态 http_error；角色判定来源：待核；第 116 批：**同一公司的品牌站 → 併線 SB-697，本行不單發**；坐实（商標歸屬）（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / 安防产品经销（新加坡）
 - **触达通道（公开）**：role: 网络/安防经销商（新加坡，PoE 现 ONV）；region: 新加坡；contact: info@atz.com.sg、sales@atz.com.sg

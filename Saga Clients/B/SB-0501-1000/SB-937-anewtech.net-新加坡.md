@@ -89,6 +89,21 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 116 批（SG · 1 次检索：recordowl（ANEWTECH SYSTEMS PTE LTD；Registration Number 199903145E；62 UBI ROAD 1 #04-14 OXLEY BIZHUB 2 SINGAPORE 408734；Live Company；6292 0801；Founded in 1999；Primary SSIC 26209 MANUFACTURE OF COMPUTERS AND PERIPHERAL EQUIPMENT N.E.C.；Paid-Up Capital $1,262,500；Number of Charges 7）+ sg.ltddir（UEN Issue Date 2008-09-11；Number of officers 5）+ anewtech.net/contact-us（Singapore / Malaysia (Selangor) / Vietnam HCMC；brands … ORing Singapore …；Industrial Ethernet Switch / Ethernet I/O Module）；2026-10-28，2026-10-28 查；https://recordowl.com/company/anewtech-systems-pte-ltd）：**
+
+- 法定名 / 登记号：Anewtech Systems Pte Ltd（anewtech.net；**UEN 199903145E（1999 年号段；ltddir 记 UEN 签发 2008-09-11）；Live；实缴资本 S$1,262,500；7 项抵押登记；5 名高管**；62 Ubi Road 1 #04-14 Oxley Bizhub 2, Singapore 408734；电话 +65 6292 0801；SSIC 26209 计算机及外设制造；马来西亚（雪兰莪）+ 越南（胡志明市）办公室）— **工业计算机集成商 / 分销商（Advantech / IEI / Supermicro / Winmate / Elo / Digi / AsRock Industrial / Balluff / Innodisk；工业交换机 = ORing）**；表内「主要是 ORing 的工业系列」；无 KP（sales@）；15 次跟进无回复 · UEN 199903145E · 状态 **Live Company** · 成立 1999（UEN 签发记录 2008-09-11） · Pte Ltd
+- 行业码 / 经营范围：26209 工业计算机集成 / 分销（SG + MY + VN）；工业交换机在供 ORing
+- 注册地址：62 Ubi Road 1 #04-14 Oxley Bizhub 2, Singapore 408734
+- 规模档：中小（三国办公室）
+- 账目：实缴 S$1,262,500；抵押 7 项（银行融资迹象）；—
+- 高管：（研究档无 KP：sales@anewtech.com.sg；5 名高管姓名未取）
+- 控制人 / 股东：未取
+- 抵押 / 诉讼 / 担保：7
+- **这意味着什么：**
+  - **真实进口商（三国办公室、实缴 S$1.26M）、工业交换机现供台系品牌 → 分销 20% B，一页纸一次（切口：宽温工业线 STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE 一口价作其成本型补位 + 3 年保 + MOQ 1 + 付费样机；EN 50155 明说不做；英文，收 sales@）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动
+  - 守界：不点名 ORing；抵押 7 项 → 只做预付；IMDA 不声称
+- 备注：分销 20%；一页纸一次；坐实（UEN + 地址 + 实缴 + 抵押数 + 高管数 + SSIC）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,8 +153,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 anewtech.net，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Anewtech Systems Pte Ltd（UEN 199903145E；Live；實繳資本 S$1,262,500；抵押 7 項；5 名高管；SSIC 26209；MY 雪蘭莪 + VN 胡志明市 辦公室） |
+| 成立 | 1999（UEN 簽發記錄 2008-09-11）（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 62 Ubi Road 1 #04-14 Oxley Bizhub 2, Singapore 408734（+65 6292 0801）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 anewtech.net，语言 en，快照状态 ok；角色判定来源：官网文案；第 116 批：工業計算機集成商 / 分銷商（Advantech / IEI / Supermicro …；工業交換機在供 ORing）= 真實進口商 → **分銷 20% B，一頁紙一次**（寬溫工業線 STI-154GP / 288DGGPM / 488DGGPM / 0240GE 一口價 + 3 年保 + MOQ 1 + 付費樣機；EN 50155 明說不做；收 sales@）；再無回聲 → 不動；守界：不點名 ORing；抵押 7 項 → 只做預付；坐实— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业 PC / 服务器 / 加固电脑 / 机器视觉分销
 - **触达通道（公开）**：role: 工业计算与自动化分销商（新加坡，ORing 工业线）；region: 新加坡；contact: sales@anewtech.com.sg

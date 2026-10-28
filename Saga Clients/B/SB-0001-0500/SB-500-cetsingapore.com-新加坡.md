@@ -85,6 +85,21 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 116 批（SG · 1 次检索：recordowl（CET ELECTRIC TECHNOLOGY PTE. LTD.；UEN 201523201G；Live Company；Incorporated 15 May 2015；Exempt Private Company Limited By Shares；Formerly known as Ceiec Electric Technology Singapore；Registered address 1 CORPORATION DRIVE #09-02 MANDAI CONNECTION 619775；2024-12-01 Postal Code → 728653；2025-07-08 SSIC ENGINEERING DESIGN AND CONSULTANCY → ENGINEERING SERVICES；Annual return filed 23 Jul 2026）+ cetsingapore.com/about（manufacturer behind digital power monitors, energy meters and power-quality analysers；partner EcoXplore；7, Mandai Link, #05-33, Mandai Connection 728653；(+65) 6677 7279；PMC-1308 serial gateway）；2026-10-28，2026-10-28 查；https://recordowl.com/company/cet-electric-technology-pte-ltd）：**
+
+- 法定名 / 登记号：CET Electric Technology Pte. Ltd.（cetsingapore.com；**UEN 201523201G；注册 2015-05-15；Exempt Private Company Limited By Shares；曾用名 Ceiec Electric Technology Singapore（= 中电 CET 集团新加坡分支）**；7 Mandai Link #05-33 Mandai Connection, Singapore 728653（2024-12 自 1 Corporation Drive #09-02 迁入）；电话 +65 6677 7279；SSIC 工程服务（2025-07 由工程设计咨询变更）；年报 2026-07-23 已报）— **数字电力监测 / 电能表 / 电能质量分析仪 + BMS 集成（Modbus / BACnet），配串口网关 PMC-1308（双以太网 10/100）**；表内「工业 FS 自己的 logo」；无 KP（contact@）；15 次跟进无回复 · UEN 201523201G · 状态 **Live Company** · 成立 2015-05-15 · Exempt Private Company Limited By Shares
+- 行业码 / 经营范围：71129 → 工程服务（电力监测 / 电能表；中电 CET 集团分支）
+- 注册地址：7 Mandai Link #05-33 Mandai Connection, Singapore 728653
+- 规模档：小型（集团分支）
+- 账目：年报 2026-07-23 已报（数字未取）；—
+- 高管：（研究档无 KP：contact@cetsingapore.com）
+- 控制人 / 股东：CET 集团（深圳中电技术，推定）
+- 曾用名：Ceiec Electric Technology Singapore
+- **这意味着什么：**
+  - **中资电力计量集团的新加坡分支：工业交换机由集团内部配套、15 次 0 回复、电力计量属守界边缘 → 不动（B 保留）**
+  - 守界：电力 / 变电站场景不碰
+- 备注：不动（中资集团分支 + 15×0 + 守界边缘）；坐实（UEN + 注册日 + 类型 + 曾用名 + 地址 + 年报）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,8 +144,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 cetsingapore.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | CET Electric Technology Pte. Ltd.（UEN 201523201G；Exempt Private Company Limited By Shares；曾用名 Ceiec Electric Technology Singapore = 中電 CET 集團分支；年報 2026-07-23 已報） |
+| 成立 | 2015-05-15（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 7 Mandai Link #05-33 Mandai Connection, Singapore 728653（+65 6677 7279；2024-12 自 1 Corporation Drive #09-02 遷入）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 cetsingapore.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 116 批：中資電力計量集團的新加坡分支（電能表 / 電能質量 / 串口網關 PMC-1308），工業交換機由集團內部配套、15 次 0 回覆、電力計量屬守界邊緣 → **不動（B 保留）**；坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业交换机（自有品牌 CET）
 - **触达通道（公开）**：role: 工业网络品牌商（新加坡，自有标；官网待核）；region: 新加坡；contact: contact@cetsingapore.com

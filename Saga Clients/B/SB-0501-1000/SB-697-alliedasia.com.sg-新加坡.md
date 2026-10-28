@@ -76,6 +76,21 @@ updated: 2026-10-28
 
 - 法定假日：11-08 Diwali；11-09 Diwali (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 116 批（SG · 1 次检索：zoominfo（Allied Asia Resources Pte Ltd；55 Serangoon North Ave 4 01-18, Central Singapore 555859；www.alliedasia.com.sg；USB / KVM / HDMI / networking accessories）+ alliedasia.trustpass.alibaba.com（ALLIED ASIA RESOURCES PTE. LTD.；Manufacturer, Trading Company, Distributor/Wholesaler；Total Employees 5-10；Total Annual Revenue US$1 Million - US$2.5 Million；Year Established 2012；Trademarks(4) ATZ；Domestic Market 90% / Southeast Asia 10%）+ alliedasia.com.sg/product-category/cables（ATZ ST6.35MM-xxM 等 ATZ 品牌货号）；UEN 未得；2026-10-28，2026-10-28 查；https://alliedasia.trustpass.alibaba.com/company_profile.html）：**
+
+- 法定名 / 登记号：Allied Asia Resources Pte. Ltd.（alliedasia.com.sg；55 Serangoon North Ave 4 #01-18, Singapore 555859；**2012 年成立；5–10 人；年营收 US$1–2.5M；商标 ATZ ×4（= SB-346 atz.com.sg 自有品牌 → 并线）**；Alibaba 认证「Manufacturer / Trading / Distributor」；国内市场 90% / 东南亚 10%；UEN 1 查未得 → 部分坐实）— **音视频 / IT 连接方案网店：线缆、光纤、MC、SFP、PoE 注入器、KVM、HDMI**；表内「VC / MC（PoE / 10G）/ 14 槽机架 / PoE 设备，没工业级的」「商业 PoE ONV 的」；KP Danny Lee / Kelvin Tan（Sales Engineer）；8 次跟进无回复 · 未取（UEN 1 查未得；法人名 ALLIED ASIA RESOURCES PTE. LTD. 已得） · 状态 **营业中（网店在线）** · 成立 2012 · Pte. Ltd.
+- 行业码 / 经营范围：AV / IT 连接方案 网店 + 自有品牌 ATZ（Serangoon North）
+- 注册地址：55 Serangoon North Ave 4 #01-18, Singapore 555859
+- 规模档：小型（5–10 人）
+- 账目：自述年营收 US$1–2.5M；—
+- 高管：Danny Lee — 研究档 KP（danny@alliedasia.com.sg）= 收件人
+- 高管：Kelvin Tan — Sales Engineer（kelvin.tan@alliedasia.com.sg）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 ATZ 的小型连接方案商、PoE 现用 ONV 贴标 → 贴标 OEM 30% B small，一页纸一次（切口：对位其 ATZ PoE 线的 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP 阶梯价 + ATZ 标 / 自编货号 / 中性包装 + 10G MC 只有 STC-110XGE + 付费样机；14 槽机架 / SFP 明说不做；英文，Danny 直呼、抄 Kelvin）— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（IMDA 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动
+  - 守界：不点名 ONV；UEN 未取 → 只做预付；与 SB-346 一线
+- 备注：贴标 OEM 30% small；一页纸一次；部分坐实（ZoomInfo + Alibaba：法人名 + 地址 + 成立年 + 规模 + 商标；UEN 未取）；SB-346 并线至此。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,16 +133,18 @@ updated: 2026-10-28
 - **【用户表】VC / MC / 14 槽机架 / PoE，没工业级**
   > VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Danny Lee（）danny@alliedasia.com.sg 〔用户表〕
-- **KP**：Kelvin Tan（） 〔用户表〕
+- **KP**：Danny Lee（Allied Asia Resources Pte. Ltd.（自有品牌 ATZ = SB-346）研究档 KP = 收件人 — 一頁紙一次：貼標 OEM 30% small，對位其 ATZ PoE 線的 STC-028GP / 228GP / 2216GP / 2224GP 階梯 + ATZ 標 / 自編貨號 / 中性包裝 + 10G MC 只有 STC-110XGE + 付費樣機；14 槽機架 / SFP 明說不做；不點名 ONV— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28））danny@alliedasia.com.sg 〔用户表〕
+- **KP**：Kelvin Tan（Sales Engineer（研究档；kelvin.tan@alliedasia.com.sg 見 entities）= 抄送（第 116 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新加坡 |
-| 其他 | 官网 alliedasia.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Allied Asia Resources Pte. Ltd.（UEN 1 查未得；Alibaba 認證 Manufacturer / Trading / Distributor；商標 ATZ ×4；國內市場 90% / 東南亞 10%） |
+| 成立 | 2012（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 55 Serangoon North Ave 4 #01-18, Singapore 555859（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 alliedasia.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：自有品牌 ATZ 的小型連接方案商、PoE 現用 ONV 貼標 → **貼標 OEM 30% B small，一頁紙一次**；再無回聲 → 不動；UEN 未取 → 只做預付；SB-346 併線至此；部分坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：线缆 / 光纤 / MC / SFP / PoE 配件网店
 - **触达通道（公开）**：role: 连接产品网店/分销（新加坡，无工业级需求）；region: 新加坡；contact: info@alliedasia.com.sg、danny@alliedasia.com.sg
@@ -219,8 +236,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Danny Lee | — | danny@alliedasia.com.sg | 调研核实（公开页） | 用户表 |
-| Kelvin Tan | — | — | 调研核实（公开页） | 用户表 |
+| Danny Lee | Allied Asia Resources Pte. Ltd.（自有品牌 ATZ = SB-346）研究档 KP = 收件人 — 一頁紙一次：貼標 OEM 30% small，對位其 ATZ PoE 線的 STC-028GP / 228GP / 2216GP / 2224GP 階梯 + ATZ 標 / 自編貨號 / 中性包裝 + 10G MC 只有 STC-110XGE + 付費樣機；14 槽機架 / SFP 明說不做；不點名 ONV— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28） | danny@alliedasia.com.sg | 调研核实（公开页） | 用户表 |
+| Kelvin Tan | Sales Engineer（研究档；kelvin.tan@alliedasia.com.sg 見 entities）= 抄送（第 116 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

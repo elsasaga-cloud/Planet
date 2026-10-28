@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 116 批（TW · 1 次检索：prismwifi.com/zh/company（"PRISM" 是由普羅通信在 2022 年所推出的無線網路品牌；普羅通信成立於 1999 年；企業級 Wi-Fi 6 與 Wi-Fi 6E；PrismX 控制器；系統整合供應商 / 機場 / 零售 / 酒店 / 政府）+ fierce-network（PRISM is a total new brand of BROWAN COMMUNICATIONS INC., an enterprise wireless equipment provider founded in 2002；PrismX Controller；Wi-Fi 6/6E Mesh）+ x.com/prismwifi（Taiwan）；統編 / 地址 未得；2026-10-28，2026-10-28 查；https://www.prismwifi.com/zh/company/）：**
+
+- 法定名 / 登记号：PRISM Wi-Fi = **普羅通信 Browan Communications Inc. 2022 年推出的企業無線品牌**（prismwifi.com；普羅通信成立 1999（另稱 2002）；新竹（推定，未取址））— **企業級 Wi-Fi 6 / 6E / 7 AP + PrismX 控制器 / 雲平台 + 智能 Mesh；自有 PoE 交換機 MS8P8 / MS12P8 / MS18P16 / MS28P24 / MS52P48（配套，推定外購貼標）**；統編 未取 → 部分坐实；無 KP（sales@）；僅 2 次跟進無回覆 · 未取（普羅通信 統一編號 未得） · 状态 **营业中（品牌站在线）** · 成立 1999 / 2002（普羅通信）；品牌 2022 · 股份有限公司（推定）
+- 行业码 / 经营范围：企業 Wi-Fi 品牌 + 配套 PoE 交換機（台灣）
+- 注册地址：未取（普羅通信：新竹，推定）
+- 规模档：未取
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@prismwifi.com）
+- 控制人 / 股东：普羅通信 Browan（推定）
+- **这意味着什么：**
+  - **Wi-Fi 品牌、PoE 交換機為配套（MS 系列推定外購）→ 貼標 OEM 30% B，一頁紙一次（切口：對位其 MS8P8 / MS12P8 / MS18P16 / MS28P24 / MS52P48 全系的 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM / STC-448XGGPM 階梯價 + PRISM 標 / 自編貨號 / 中性包裝 + 付費樣機；英文，收 sales@）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；回信 → 加厚
+  - 守界：不點名其現供應商；統編 未取 → 部分坐实、只做預付；BSMI 不聲稱
+- 备注：贴标 OEM 30%；一页纸一次（回声再加厚）；部分坐实（品牌站 + 媒體：母公司 + 成立年；統編 / 地址未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,8 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 台湾 |
-| 其他 | 官网 prismwifi.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | PRISM = 普羅通信 Browan Communications Inc. 2022 年推出的企業無線品牌（統編 未取） |
+| 成立 | 1999 / 2002（普羅通信）；品牌 2022（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 未取（台灣；普羅通信 新竹 推定）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 prismwifi.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：Wi-Fi 品牌、PoE 交換機 MS8P8 / MS12P8 / MS18P16 / MS28P24 / MS52P48 為配套（推定外購）→ **貼標 OEM 30% B，一頁紙一次**（對位 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM / 448XGGPM 階梯 + PRISM 標 + 付費樣機；收 sales@）；回信 → 加厚；部分坐实— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业 Wi-Fi AP / 控制器 / 云平台；配套 PoE 交换机（MS 系列）
 

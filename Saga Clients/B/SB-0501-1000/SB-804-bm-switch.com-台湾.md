@@ -76,6 +76,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 116 批（TW · 1 次检索：bm-switch.com/about-us（This website is operated by Bare Metal Switch, a division of Netberg Ltd.；ODM partners；HW-agnostic Linux-based network OS on top of high-quality ODM switch；Principal business address: 10F, No. 111-3, Xiyuan Road, Zhongli District, Taoyuan City, 320；Tel +886-3-2609203；Wire Transfer Account name Netberg Ltd.；E.Sun Commercial Bank）；2026-10-28，2026-10-28 查；https://bm-switch.com/about-us/）：**
+
+- 法定名 / 登记号：Bare Metal Switch（bm-switch.com）= **網脈有限公司 Netberg Ltd.（SB-249）旗下網店分部**（about-us：「operated by Bare Metal Switch, a division of Netberg Ltd.」；Principal business address 10F, No. 111-3, Xiyuan Road, Zhongli District, Taoyuan City 320；電話 +886-3-260-9203；電匯戶名 Netberg Ltd. 玉山銀行）— **裸金屬交換機 1G–400G / 網路 OS / 光模組 / 配件 網店（PayPal / 電匯）；表內「高速交換機 Marvell 的」**；無 KP（sales@）；6 次跟進無回覆 → **併線至 SB-249** · = 網脈有限公司 統一編號 42648064（見 SB-249） · 状态 **營業中（網店在線）** · 成立 —（分部） · Netberg Ltd. 分部（非獨立法人）
+- 行业码 / 经营范围：裸金屬交換機 網店（Netberg 分部，桃園中壢）
+- 注册地址：桃園市中壢區西園路111之3號10樓（同 SB-249）
+- 规模档：—
+- 账目：—；—
+- 高管：（sales@bm-switch.com；拍板人 = SB-249 Alexander Ustyuzhanin）
+- 控制人 / 股东：Netberg Ltd.
+- **这意味着什么：**
+  - **同一法人的網店分部 → 併線 SB-249，本行不單發**
+- 备注：并线 SB-249；坐实（官网自述分部 + 同址 + 同電話 + 電匯戶名）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $ 4,000 ← 「00 48x10G + 6x40G Netberg Aurora 420 (Broadcom Trident2) Bare Metal Switch NBA420-xxx $ 4,000」（https://bm-switch.com/shop/）
@@ -120,8 +133,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 台湾 |
-| 其他 | 官网 bm-switch.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Bare Metal Switch（bm-switch.com）= 網脈有限公司 Netberg Ltd.（統編 42648064；SB-249）旗下網店分部（官網 about-us 自述；電匯戶名 Netberg Ltd. 玉山銀行） |
+| 成立 | —（分部）（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 10F, No. 111-3, Xiyuan Rd., Zhongli Dist., Taoyuan City 320（+886-3-260-9203；同 SB-249）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 bm-switch.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：**同一法人的網店分部 → 併線 SB-249，本行不單發**；坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：裸金属交换机 / 光模块网店
 - **触达通道（公开）**：role: 裸金属交换机网店（台湾，数据中心向）；region: 台湾；contact: sales@bm-switch.com

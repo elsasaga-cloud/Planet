@@ -55019,11 +55019,18 @@
 ],
 "kp": [
 {
-"name": "John Chen",
+"name": "Jone (John) Chen",
 "title": "（表内联系人）",
 "email": "jone.chen@aetektec.com",
 "phone": "+886 2 8245 2822",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Product Manager（ZoomInfo）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位其「2 光 10 電」的 STC-228GP / STC-2216GP + 管理機 STC-4424GCPM 一口價 + AETEK 標 + 付費樣機；NDAA / TAA 明說無法聲稱— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "李慧玉",
+"email": "",
+"role": "asmag 供應商頁聯絡人（高譽科技）— 備用（第 116 批 官方登记核实 2026-10-28）",
+"source": "asmag.com.tw 供應商 高譽科技股份有限公司"
 }
 ],
 "grade_override": null,
@@ -55034,11 +55041,11 @@
 "level": "B 级加厚 v1（官网快照核对：台系品牌 ODM）"
 },
 "company_facts": {
-"legal_name": "AETEK Inc.",
-"founded": "（待核）",
-"hq": "新北市，台湾",
-"size": "中小型 PoE 品牌商",
-"other": "VNS Technologies（SB-298）为其阿联酋伙伴"
+"legal_name": "高譽科技股份有限公司 AETEK Inc.（統一編號 未取）",
+"founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+"hq": "6F, No. 192-1, Lien-Cheng Rd., Zhonghe Dist., New Taipei City 235（+886-2-8245-2822；舊址 五股區五工三路106巷3號）（第 116 批 官方登记核实 2026-10-28）",
+"size": "11–50 人（第 116 批 官方登记核实 2026-10-28）",
+"other": "VNS Technologies（SB-298）为其阿联酋伙伴；第 116 批：PoE 專業品牌、PM 曾言「便宜方案可找 Saga / 他們軟體 + Saga 硬體」→ **貼標 OEM 30% B，一頁紙一次**；與 Volktek（SB-138，連城路192號）同集團推定 → 兩戶一線、不重複報價；守界：不提 NDAA / TAA / UL；部分坐实（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "PoE 交换机 / 延长 / 注入 / 备援（自有品牌）",
@@ -60508,7 +60515,14 @@
 "title": "GM",
 "email": "gooleebiz@gmail.com",
 "phone": "+82 10 4301 9595",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "GM, Piolink, Inc.（KOSDAQ 170790；119-81-41089；414 人）— 同行上市交換機廠；ODM / 代工線僅經 Simon 微信直聯，不進群發（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "조영철 Cho Young-chul",
+"email": "",
+"role": "대표이사（bizno + 官網；上市公司代表）— 不發（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://www.piolink.com/kr/company/Company-Overview.php"
 }
 ],
 "grade_override": "B",
@@ -60520,11 +60534,11 @@
 "level": "B 级加厚 v1（官网快照：同行 ODM）"
 },
 "company_facts": {
-"legal_name": "PIOLINK, Inc.",
-"founded": "2000（上市公司，待核）",
-"hq": "Seoul, Korea（+82 2 2025 6900）",
-"size": "中型上市公司",
-"other": "表内邮箱 cdma092@piolink.con 为笔误（.com）"
+"legal_name": "주식회사 파이오링크 Piolink, Inc.（사업자등록번호 119-81-41089；법인등록번호 110111-2035578；KOSDAQ 170790 2013-08）",
+"founded": "2000-07-26（第 116 批 官方登记核实 2026-10-28）",
+"hq": "서울 금천구 가산디지털2로 98, IT캐슬 1동 401호 08506（02-2025-6900）（第 116 批 官方登记核实 2026-10-28）",
+"size": "414 人；國內 ADC 第一；日本分公司（第 116 批 官方登记核实 2026-10-28）",
+"other": "表内邮箱 cdma092@piolink.con 为笔误（.com）；第 116 批：上市 ADC / TiFRONT 安全交換機廠 = **同行，不動群發**；其所要（Realtek 高端方案 / 24 光口 ODM）由 Simon 微信單獨定；守界：不給成本結構、不轉介供應商（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "ADC / 负载均衡",
@@ -76566,14 +76580,16 @@
 "title": "CEO",
 "email": "godinus@neowine.com",
 "phone": "+82 31 620 1250",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "CEO / 대표이사（= 登記代表 이효승 Lee Hyo-seung，jobkorea；设立 2002-06-04；20 人；매출 ≈25억）= 拍板人 / 收件人 — 一頁紙一次：分銷 20%、非獨家、MOQ 1、48 口付費樣機（STC-448XGGPM）、英文— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 116 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Dexter Kim",
 "title": "Director",
 "email": "dexter@neowine.com",
 "phone": "+82 10 8911 3702",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Director（研究档）= 抄送（第 116 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": "B",
@@ -76585,11 +76601,11 @@
 "level": "B 级加厚 v1（官网快照：行业外）"
 },
 "company_facts": {
-"legal_name": "Neowine Co., Ltd.",
-"founded": "2002",
-"hq": "韩国（京畿道，+82 31）",
-"size": "中小型 fabless",
-"other": "SECON 2023 相邻展位"
+"legal_name": "㈜네오와인 Neowine Co., Ltd.（사업자등록번호 未取；벤처；ISO 9001 / 14001）",
+"founded": "2002-06-04（第 116 批 官方登记核实 2026-10-28）",
+"hq": "경기 성남시 분당구 판교역로 182, 한국반도체산업협회 4층（第 116 批 官方登记核实 2026-10-28）",
+"size": "20 人；자본금 5억；매출 ≈25억원（第 116 批 官方登记核实 2026-10-28）",
+"other": "SECON 2023 相邻展位；第 116 批：Fabless 安全芯片商（行業外），CEO 本人想做代理 → **分銷 20% B small，一頁紙一次**；再無回聲 → 不動；部分坐实（求職站）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "防复制芯片 ALPU / IoT 安全芯片 / AI IP"
@@ -81246,7 +81262,14 @@
 "title": "（采购 / 产品，表内联系人）",
 "email": "ginahsu@meritlilin.com.tw",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "採購 / 產品（表內：周邊要貼 LILIN logo）= 收件人 — 一頁紙一次：貼標 OEM 30%，攝影機配套 PoE 階梯 STC-028GP / 228GP / 2216GP / 2224GP + 工業 STI-154GP + LILIN 標 / 自編貨號 / 付費樣機；MC 只有 STC-110XGE、SFP 不做— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "許正忠",
+"email": "",
+"role": "代表人 / 董事長（twincn；統編 36165005；家族董監 許家雄 / 許家銘 / 許瑞文）— 拍板人，不直發（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://twincn.com/item.aspx?no=36165005"
 }
 ],
 "grade_override": null,
@@ -81257,11 +81280,11 @@
 "level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
 },
 "company_facts": {
-"legal_name": "Merit LILIN Ent. Co., Ltd.",
-"founded": "1980（待核）",
-"hq": "台北",
-"size": "中型品牌商",
-"other": "sales@meritlilin.com.tw"
+"legal_name": "利凌企業股份有限公司 MERIT LILIN ENT. CO., LTD.（統一編號 36165005；資本總額 NT$120,000,000；工廠登記 99618299 同址）",
+"founded": "1983-09-01（第 116 批 官方登记核实 2026-10-28）",
+"hq": "新北市五股區五工六路20號（02-2298-8988）（第 116 批 官方登记核实 2026-10-28）",
+"size": "中小（家族企業；自有工廠）（第 116 批 官方登记核实 2026-10-28）",
+"other": "sales@meritlilin.com.tw；第 116 批：攝影機品牌、KP 明說周邊貼 LILIN logo → **貼標 OEM 30% B，一頁紙一次**；回信 → 加厚；坐实（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IP 摄像机 / NVR / 边缘 AI",
@@ -81724,7 +81747,14 @@
 "title": "（表内联系人）",
 "email": "robin@ad-net.com.tw",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "研究档 KP（2025-09 回「M12 Switch??」）= 收件人 — 一頁紙一次：貼標 OEM 30%，非 M12 工業線 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-228GP / 2224GP + AD-NET 標；M12 / E1 / GEPON / 光模組 明說不做— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "羅惠玲",
+"email": "",
+"role": "代表人 / 唯一董事（twincn；統編 27843840）— 拍板人（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://www.twincn.com/item.aspx?no=27843840"
 }
 ],
 "grade_override": null,
@@ -81735,11 +81765,11 @@
 "level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
 },
 "company_facts": {
-"legal_name": "AD-NET Technology Co., Ltd.",
-"founded": "（待核）",
-"hq": "台湾",
-"size": "中小型品牌商",
-"other": "info@ad-net.com.tw"
+"legal_name": "艾德科技有限公司 AD-NET TECHNOLOGY CO., LTD.（統一編號 27843840；商標 AD-NET 及圖 01258240 至 2027-04-15）",
+"founded": "2005-07-14（第 116 批 官方登记核实 2026-10-28）",
+"hq": "苗栗縣苗栗市福星里國華路210號（037-269585）（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（有限公司）（第 116 批 官方登记核实 2026-10-28）",
+"other": "info@ad-net.com.tw；第 116 批：自有商標、深圳拿貨的小型品牌商 → **貼標 OEM 30% B small，一頁紙一次**；再無回聲 → 不動；只做預付；坐实（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤媒体转换 / E1 / SDH",
@@ -82678,14 +82708,22 @@
 "title": "（表内联系人）",
 "email": "garychen@tailyn.com.tw",
 "phone": "+886 3 322 2201",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "研究档 KP（2025-07 對 Alarm 回 INFO）— 上櫃同行（自產 + ODM），不動群發（第 116 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Jill",
 "title": "（表内联系人）",
 "email": "jill@tailyn.com.tw",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "研究档联系人 — 不動（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "陳俊廷",
+"email": "",
+"role": "董事長 / 總經理（twincn；上櫃 5353；統編 12278439）— 不發（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://twincn.com/item.aspx?no=12278439"
 }
 ],
 "grade_override": null,
@@ -82696,11 +82734,11 @@
 "level": "B 级加厚 v1（官网快照：台系制造商 ODM）"
 },
 "company_facts": {
-"legal_name": "Tailyn Technologies, Inc.（台林電通）",
-"founded": "约 1985",
-"hq": "桃园，台湾",
-"size": "中型制造商（自有工厂）",
-"other": "ODM 能力；铁路 / 电力认证产品线"
+"legal_name": "台林電通股份有限公司 Tailyn Technologies, Inc.（統一編號 12278439；TPEx 5353；資本總額 NT$1.25B / 實收 NT$750M；工廠同址）",
+"founded": "1980-04-10（第 116 批 官方登记核实 2026-10-28）",
+"hq": "桃園市蘆竹區內厝里榮安路10號（03-322-2201）（第 116 批 官方登记核实 2026-10-28）",
+"size": "中型（上櫃）（第 116 批 官方登记核实 2026-10-28）",
+"other": "ODM 能力；铁路 / 电力认证产品线；第 116 批：上櫃、自研自產工業 / 商用交換器並承接 ODM = **同行，不動群發（B 保留）**；若其主動詢 OEM 再按 30% 檔單議；坐实（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业以太网 / PoE 交换机（含 EN50155 铁路）",
@@ -83087,7 +83125,14 @@
 "title": "PM",
 "email": "kent.wang@assmann.com.tw",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "PM, ASSMANN Electronic Asia（德國 DIGITUS 亞洲採購辦；2025-12 回「I/O modules」）= 收件人 — 一頁紙一次：貼標 OEM 30%，DIGITUS PoE 線對位 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM + STC-110XGE 一口價 + DIGITUS 標 / 彩盒 / CE / RoHS / REACH 文件；串口 / HDMI / I/O 模組 明說不做；回信 → 加厚 + 升 A— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Matthias Christian Listl",
+"email": "",
+"role": "代表人 / 董事（twincn；統編 53733622；董事另 漆曉燕）— 拍板人，不直發（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://twincn.com/item.aspx?no=53733622"
 }
 ],
 "grade_override": null,
@@ -83098,11 +83143,11 @@
 "level": "B 级加厚 v1（快照空页 + 表内：品牌采购办 OEM）"
 },
 "company_facts": {
-"legal_name": "ASSMANN Asia Co., Ltd.（待核）",
-"founded": "",
-"hq": "台湾（ASSMANN Electronic GmbH 亚洲办）",
-"size": "跨国品牌亚洲采购办",
-"other": "DIGITUS 网络 / 连接产品品牌"
+"legal_name": "阿斯門亞洲有限公司 ASSMANN ELECTRONIC ASIA CO. LTD.（統一編號 53733622；資本額 NT$5,000,000；母公司 ASSMANN Electronic GmbH, Lüdenscheid；寧波 / 東莞 / 香港 辦公室）",
+"founded": "2012-01-31（第 116 批 官方登记核实 2026-10-28）",
+"hq": "臺北市內湖區新湖一路77號7樓（02-2793-4088）（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（採購辦；集團 歐洲 10 國）（第 116 批 官方登记核实 2026-10-28）",
+"other": "DIGITUS 网络 / 连接产品品牌；第 116 批：德國 DIGITUS 的亞洲貼牌採購辦 = 歐洲主戰場的源頭採購 → **貼標 OEM 30% B（升 A 候選），一頁紙一次**；守界：UKCA 只對 GB 提、不點名現供應商；坐实（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "DIGITUS 品牌网络 / 连接 / 机柜产品（亚洲贴牌采购）"
@@ -83440,14 +83485,22 @@
 "title": "（采购 / PM，表内联系人）",
 "email": "jessechen@edimax.com.tw",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "採購 / PM（2025-07 對 16 電回 INFO）= 收件人 — 一頁紙一次：貼標 OEM 30%，只給工業線 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + 16 口 PoE STC-2216GP 一口價 + EDIMAX 標 / 自編貨號 / 付費樣機；SFP / 無線 明說不做；守界：同行 不給成本結構— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Bruce Yang",
 "title": "（表内联系人）",
 "email": "bruceyang@edimax.com.tw",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "研究档联系人 = 抄送（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "任冠生",
+"email": "",
+"role": "董事長（twfile；上市 3047；統編 22164580；2026-03 代表人變更為 潘良榮）— 不發（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://www.twfile.com/item.aspx?no=22164580&sn=2461840"
 }
 ],
 "grade_override": null,
@@ -83458,11 +83511,11 @@
 "level": "B 级加厚 v1（快照超时 + 表内：台系品牌 OEM）"
 },
 "company_facts": {
-"legal_name": "EDIMAX Technology Co., Ltd.（訊舟科技）",
-"founded": "1986",
-"hq": "新北市，台湾",
-"size": "上市品牌商",
-"other": "工业 / SMB 交换机线外购贴牌"
+"legal_name": "訊舟科技股份有限公司 EDIMAX TECHNOLOGY CO., LTD.（統一編號 22164580；TWSE 3047；資本總額 NT$3B / 實收 NT$2,246,491,080；ODM 分部 Acelink Technology = SB-800 同址）",
+"founded": "1986-06-28（第 116 批 官方登记核实 2026-10-28）",
+"hq": "臺北市內湖區新湖一路278號（02-7739-6888；舊址 新北五股 五權三路3號）（第 116 批 官方登记核实 2026-10-28）",
+"size": "大型（上市；集團 501–1,000）（第 116 批 官方登记核实 2026-10-28）",
+"other": "工业 / SMB 交换机线外购贴牌；第 116 批：上市網路品牌（同行）但工業 / PoE 線外購、採購 PM 已回 INFO → **以採購方計：貼標 OEM 30% B，一頁紙一次**；再無回聲 → 不動；與 SB-800 一線；坐实（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "SMB / 消费网络（路由、交换、无线）",
@@ -83847,7 +83900,8 @@
 "title": "（采购 / 产品，表内联系人）",
 "email": "rex.lin@ewinsonic.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "採購 / 產品（表內：在用 UniPoE 工業 FS；2025-11 對升壓 PoE 回 INFO）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位 UniPoE 的 STI-154GP / STI-288DGGPM / STI-0240GE + Winsonic 標 + 付費樣機；升壓 PoE 明說不做；只做預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -83858,11 +83912,11 @@
 "level": "B 级加厚 v1（官网快照：台系工控 OEM）"
 },
 "company_facts": {
-"legal_name": "Winsonic Electronics Co., Ltd.",
-"founded": "（待核）",
-"hq": "台湾",
-"size": "中型工控制造商",
-"other": "sales@ewinsonic.com"
+"legal_name": "Winsonic Electronics Co., Ltd.（統一編號 1 查未得 → 未坐實；命中 伍仕電子 27966146 / 文聲電子 04348572 均不對應）",
+"founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+"hq": "未取（第 116 批 官方登记核实 2026-10-28）",
+"size": "未取（第 116 批 官方登记核实 2026-10-28）",
+"other": "sales@ewinsonic.com；第 116 批：工業面板 PC / 工控機廠、工業交換機外購（現供 UniPoE 深圳）→ **貼標 OEM 30% B small，一頁紙一次**；再無回聲 → 不動；未坐实 → 預付；不點名 UniPoE（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业面板 PC / 无风扇 PC / 工业显示",
@@ -98966,7 +99020,8 @@
 "title": "（职务待核）",
 "email": "info@gponnetwork.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director, GPON Network（RocketReach；新加坡；hotmail 並用）= 收件人 — 一頁紙一次、只做預付：分銷 20% small，工業 FS STI-154GP / STI-288DGGPM / STI-0240GE 一口價 + 付費樣機；WDM / SFP 明說不做— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -98977,8 +99032,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 gponnetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "400 Orchard Road #06-03, Singapore 238875（商務中心；+65 8729 1383）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 gponnetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：身份不清的供應鏈 / 參考價站，但 Simon 表內「可以多跟進一下」→ **分銷 20% B small，一頁紙一次（預付 100%、不賒）**；再無回聲 → 不動；未坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "GPON Network（法人名 / UEN 未取；自稱 HEAD OFFICE 1660 South Highway 100, St Louis Park, MN 55416 USA + SINGAPORE OFFICE 400 Orchard Road #06-03 — 兩處皆商務中心特徵 → 身份不清）",
+"founded": "自稱 2000 年起（第 116 批 官方登记核实 2026-10-28）",
+"size": "微型（9 人自述；營收 $2M 口徑不實）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络设备供应链（品牌设备 / WDM）"
@@ -103625,7 +103683,8 @@
 "title": "（姓氏/职务待核）",
 "email": "lawrence@keydence.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Keydence Systems Pte. Ltd.（UEN 201019151W）研究档 KP（姓氏待核）= 收件人 — 一頁紙一次：集成商 25% small，CCTV 配套 PoE STC-028GP / 228GP / 2216GP 一口價 + 長距 PoE 250 m 模式 + 付費樣機；船用認證不聲稱— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -103636,8 +103695,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 keydence.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "7030 Ang Mo Kio Avenue 5 #01-62 Northstar @ AMK, Singapore 569880（+65 6459 0780）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 keydence.com，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：CCTV / 門禁 / 布線集成商（含船上安裝）→ **集成商 25% B small，一頁紙一次**；再無回聲 → 不動；守界：船舶 / 海事認證不碰；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Keydence Systems Pte. Ltd.（UEN 201019151W；Local Company；Live；SSIC 61011 + 30110 船上安裝維護）",
+"founded": "2010-09-09（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防系统 / 电气与网络布线（新加坡）"
@@ -123400,11 +123462,11 @@
 "level": "无域名 · 仅表内信息（占位行）"
 },
 "company_facts": {
-"legal_name": "（未知）",
-"founded": "",
-"hq": "台湾",
-"size": "",
-"other": "占位行，无联系方式"
+"legal_name": "（占位行）= SB-839 譯麓 iLu 的 Styven Tseng 2024-10-25 來信（逐字相同）→ 併線 SB-839",
+"founded": "—（第 116 批 官方登记核实 2026-10-28）",
+"hq": "—（第 116 批 官方登记核实 2026-10-28）",
+"size": "—（第 116 批 官方登记核实 2026-10-28）",
+"other": "占位行，无联系方式；第 116 批：**併線 SB-839，本行不動、不單發**；0 查（第 116 批 官方登记核实 2026-10-28）"
 },
 "channels": {
 "role": "（未知）",
@@ -140959,14 +141021,16 @@
 "title": "业务专员",
 "email": "karen.hua@volktek.com",
 "phone": "+886 2 8242 1000",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "業務專員（皮凱太）= 收件人 — 一頁紙一次：貼標 OEM 30%，只給其自產線之外的成本型工業管理機 STI-288DGGPM / STI-488DGGPM / STI-0240GE + 自編貨號 / 中性包裝 / 付費樣機；bypass 明說沒有— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Joseph Pi",
 "title": "（表内联系人）",
 "email": "joseph.pi@volktek.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "研究档联系人 = 抄送（第 116 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -140977,11 +141041,11 @@
 "level": "B 级加厚 v1（官网快照核对：台系制造商 OEM，已送样）"
 },
 "company_facts": {
-"legal_name": "Volktek Corporation",
-"founded": "1994",
-"hq": "4F, 192 Liancheng Rd., Zhonghe, New Taipei 23553, Taiwan",
-"size": "中型制造商（自有工厂）",
-"other": "已收 Saga bypass 样品"
+"legal_name": "定揚科技股份有限公司 Volktek Corp.（統一編號 未取；1994 年成立）",
+"founded": "1994（第 116 批 官方登记核实 2026-10-28）",
+"hq": "新北市中和區連城路192號4樓（總部）/ 苗栗縣竹南鎮國泰路17-1號（廠）（第 116 批 官方登记核实 2026-10-28）",
+"size": "51–200 人；自有 SMT / DIP 產線（第 116 批 官方登记核实 2026-10-28）",
+"other": "已收 Saga bypass 样品；第 116 批：台系工業交換機品牌廠（同行）但明確想 OEM 工業 L2/L3 → **以 OEM 採購方計：貼標 OEM 30% B，一頁紙一次**；與 AETEK（SB-019，連城路192-1號）姊妹品牌 → 兩戶一線；守界：不給成本結構；統編未取 → 只做預付（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业以太网 / PoE 交换机（L2/L3，自产）",
@@ -184774,7 +184838,14 @@
 "title": "Director",
 "email": "au@netbergtw.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director, Netberg Ltd. 網脈有限公司（登記代表人另為 約理師；已回覆 1 次）= 收件人 — 一頁紙一次：貼標 OEM 30%，CENTEC 平台 STH-2C24XF-HSI $1,500 / STH-8C48DX-HSI $4,800 / STH-32C-HSI $6,000 作其 Broadcom 線之外的成本型補位 + Netberg 標 + 付費樣機；NOS 只答「可提供軟體清單」不聲稱 SONiC / ONIE；opener 引其上次回覆；回信 → 加厚 + 升 A— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "約理師",
+"email": "",
+"role": "代表人 / 董事 / 經理人（twincn；統編 42648064；外籍）— 不直發（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://twincn.com/item.aspx?no=42648064"
 }
 ],
 "grade_override": null,
@@ -184785,8 +184856,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 netbergtw.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+"hq": "桃園市中壢區西園路111之3號10樓（03-260-9203；2022-12 自 臺北市信義區光復南路419號5樓之1 遷入）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 netbergtw.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 116 批：不自產、靠 ODM 夥伴出白牌 DC 交換機的方案商（Broadcom 線）= DC 交換機客戶（Simon 優先類）→ **貼標 OEM 30% B（升 A 候選），一頁紙一次**；守界：不談 Broadcom 對標、不報成本結構；只做預付；與 SB-804 一線；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "網脈有限公司 NETBERG LTD.（統一編號 42648064；國貿局 2015-10-12；網店分部 Bare Metal Switch = SB-804）",
+"founded": "2015-10-02（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（有限公司）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "数据中心以太网交换机 / 全可编程交换机 / 开放 NOS",
@@ -213300,14 +213374,16 @@
 "title": "Operations Manager",
 "email": "victor@omnicomm.com.sg",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Operations Manager, Omni-Comm Pte Ltd（UEN 198803797H；1988 年起分銷 + 越南）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位其現有貼標線 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM 階梯 + Omni-Comm 標 / 自編貨號 + 越南直發 FOB 深圳（買方清關）+ 付費樣機；光模塊明說不做；回信 → 加厚 + 升 A— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Chuong",
 "title": "（姓名/职务待核）",
 "email": "chuong@omnicomm.com.sg",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "越南側聯絡人（omninet.com.vn 為其越南側默認頁）= 抄送（第 116 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -213318,8 +213394,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 omninet.com.vn，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "623 Aljunied Road #06-08 Aljunied Industrial Complex, Singapore 389835（+65 6319 9000）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 omninet.com.vn，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：38 年老分銷商、已貼自己 logo 的交換機 + 覆蓋越南 → **貼標 OEM 30% B（升 A 候選），一頁紙一次**；iso SG 正確（HQ 新加坡），不做 country_fix；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Omni-Comm Pte Ltd（UEN 198803797H；Exempt Private Company Limited By Shares；Live；.SG 域名註冊人 omnicomm.com.sg）",
+"founded": "1988-10-20（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（1–10 人；ZoomInfo 營收 $17.4M 不引用）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络产品（自有品牌，模块国内采购）"
@@ -220623,8 +220702,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 atz.com.sg，语言 ?，快照状态 http_error；角色判定来源：待核"
+"hq": "55 Serangoon North Ave 4 #01-18, Singapore 555859（同 SB-697）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 atz.com.sg，语言 ?，快照状态 http_error；角色判定来源：待核；第 116 批：**同一公司的品牌站 → 併線 SB-697，本行不單發**；坐实（商標歸屬）（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "ATZ（atz.com.sg）= Allied Asia Resources Pte. Ltd.（SB-697）的自有商標（Alibaba 認證頁 Trademarks(4) ATZ；alliedasia.com.sg 貨號前綴 ATZ）",
+"founded": "—（商標）（第 116 批 官方登记核实 2026-10-28）",
+"size": "—（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络 / 安防产品经销（新加坡）"
@@ -256990,7 +257072,14 @@
 "title": "（表内联系人）",
 "email": "micro-chang@ctcu.com.tw",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（已有回覆）— 自研自產同行，不動群發；若詢 ODM 補位由 Simon 單議（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "張靖駭",
+"email": "",
+"role": "代表人 / 董事長（twincn；統編 84297462）— 不發（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://twincn.com/item.aspx?no=84297462"
 }
 ],
 "grade_override": null,
@@ -257001,8 +257090,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 ctcu.com.tw，语言 zh-TW，快照状态 ok；角色判定来源：官网文案"
+"hq": "臺北市內湖區洲子街60、62號8、9樓（02-2659-1021）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 ctcu.com.tw，语言 zh-TW，快照状态 ok；角色判定来源：官网文案；第 116 批：1993 年起自研自產 L2/L3 / 工業交換機 = **同行，不動群發（B 保留）**；守界：不談 2.5G 口徑、不給成本結構；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "主向位科技股份有限公司 CTC UNION TECHNOLOGIES CO., LTD.（統一編號 84297462；資本總額 NT$600M / 實收 NT$322,139,660；曾興櫃 1926，2012-07 暫停發行）",
+"founded": "1993-07-19（第 116 批 官方登记核实 2026-10-28）",
+"size": "中型（全球經銷網）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "L2/L3 管理交换机 / 工业交换机 / MC / TDM / PoE 供电器（自产）"
@@ -279944,8 +280036,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 cetsingapore.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+"hq": "7 Mandai Link #05-33 Mandai Connection, Singapore 728653（+65 6677 7279；2024-12 自 1 Corporation Drive #09-02 遷入）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 cetsingapore.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 116 批：中資電力計量集團的新加坡分支（電能表 / 電能質量 / 串口網關 PMC-1308），工業交換機由集團內部配套、15 次 0 回覆、電力計量屬守界邊緣 → **不動（B 保留）**；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "CET Electric Technology Pte. Ltd.（UEN 201523201G；Exempt Private Company Limited By Shares；曾用名 Ceiec Electric Technology Singapore = 中電 CET 集團分支；年報 2026-07-23 已報）",
+"founded": "2015-05-15（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（集團分支）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业交换机（自有品牌 CET）"
@@ -282661,8 +282756,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 fibertek-ap.com，语言 ?，快照状态 timeout；角色判定来源：用户表"
+"hq": "3015A Ubi Road 1, Singapore（樓層未取；與 Velocity Technology Industries / Fiberlan 同樓）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 fibertek-ap.com，语言 ?，快照状态 timeout；角色判定来源：用户表；第 116 批：已直接從國內拿貨的小品牌（SFP / 光貓為主）、無 KP、17 次 0 回覆、主體未坐實 → **不動（B 保留）**；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Fibertek Pte Ltd（sgpbusiness 同址索引 FIBERTEK PTE LTD；UEN 1 查未得）",
+"founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+"size": "未取（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业 FS / VC / MC / SFP / 光猫（自有品牌 Fibertek）"
@@ -350550,14 +350648,16 @@
 "title": "（表内联系人）",
 "email": "danny@alliedasia.com.sg",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Allied Asia Resources Pte. Ltd.（自有品牌 ATZ = SB-346）研究档 KP = 收件人 — 一頁紙一次：貼標 OEM 30% small，對位其 ATZ PoE 線的 STC-028GP / 228GP / 2216GP / 2224GP 階梯 + ATZ 標 / 自編貨號 / 中性包裝 + 10G MC 只有 STC-110XGE + 付費樣機；14 槽機架 / SFP 明說不做；不點名 ONV— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Kelvin Tan",
 "title": "Sales Engineer",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Sales Engineer（研究档；kelvin.tan@alliedasia.com.sg 見 entities）= 抄送（第 116 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -350568,8 +350668,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 alliedasia.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "55 Serangoon North Ave 4 #01-18, Singapore 555859（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 alliedasia.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：自有品牌 ATZ 的小型連接方案商、PoE 現用 ONV 貼標 → **貼標 OEM 30% B small，一頁紙一次**；再無回聲 → 不動；UEN 未取 → 只做預付；SB-346 併線至此；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Allied Asia Resources Pte. Ltd.（UEN 1 查未得；Alibaba 認證 Manufacturer / Trading / Distributor；商標 ATZ ×4；國內市場 90% / 東南亞 10%）",
+"founded": "2012（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（5–10 人；自述年營收 US$1–2.5M）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "线缆 / 光纤 / MC / SFP / PoE 配件网店"
@@ -352891,7 +352994,14 @@
 "title": "（表内联系人）",
 "email": "koichi_ito@ctsystem.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（已加微信）— 上櫃同行，不動群發；有需求對方會來（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "陳友信",
+"email": "",
+"role": "董事長 / 總經理（twincn；上櫃 3672；統編 16744506）— 不發（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://twincn.com/item.aspx?no=16744506"
 }
 ],
 "grade_override": null,
@@ -352902,8 +353012,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 ctsystem.com，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+"hq": "新北市汐止區新台五路一段79號18F-6（廠 16F-6 生產中；02-2698-9661）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 ctsystem.com，语言 en-GB，快照状态 ok；角色判定来源：用户表；第 116 批：上櫃自研自產光通訊 / 工業 PoE 交換機廠 = **同行，8 次 0 回覆 → 不動群發（B 保留）**；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "康聯訊科技股份有限公司 Connection Technology Systems Inc.（CTS；統一編號 16744506；TPEx 3672；資本額 NT$407,903,750）",
+"founded": "1998-10-06（第 116 批 官方登记核实 2026-10-28）",
+"size": "中型（上櫃；法人股東 環隆科技 / 世譽先進）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤通信产品（MC / 工业交换机 / PoE）自研自产",
@@ -355088,8 +355201,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 hyconext.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "128 Tanjong Pagar Road, Singapore 088535（美國 1170 Centre Dr #F, City of Industry, CA 91789）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 hyconext.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：純品牌方（PoE / 2.5G NextWav / DC 交換機 外購，全球招分銷）→ **貼標 OEM 30% B，一頁紙一次**（1G 線 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM + STC-110XGE + Hyconext 標；2.5G 一句「另議」待 SB-263 口徑；收 sales@）；再無回聲 → 不動；部分坐实 → 只做預付— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Hyconext（法人名 / UEN 未取；Singapore HQ + 美國 City of Industry, CA 辦公室）",
+"founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "PoE / 多千兆 / 数据中心交换机（自有品牌）",
@@ -355718,8 +355834,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 ktinet.com.tw，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "15F-7, No. 79, Sec. 1, Hsin Tai Wu Rd., Xizhi Dist., New Taipei City（+886 2 2698 3878）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 ktinet.com.tw，语言 en-US，快照状态 ok；角色判定来源：用户表；第 116 批：自研自產品牌廠（北美 / 歐洲 / 日本自有通路）= **同行，無 OEM 訊號 + 9 次 0 回覆 → 不動（B 保留）**；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "KTI Networks Inc.（統一編號 未取；1983 年成立；Houston 分公司 + KTI South Europe）",
+"founded": "1983（第 116 批 官方登记核实 2026-10-28）",
+"size": "中小（海外分支）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业交换机 / 媒体转换器（自有品牌 KTI）"
@@ -357420,8 +357539,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 netsys.com.tw，语言 ?，快照状态 ok；角色判定来源：用户表"
+"hq": "9F, No. 208, Sec. 3, Datong Rd., Xizhi Dist., New Taipei City 221（+886-2-6616-2880）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 netsys.com.tw，语言 ?，快照状态 ok；角色判定来源：用户表；第 116 批：VDSL2 延長器 / MC 品牌廠、交換機非核心（推定外購）→ **貼標 OEM 30% B small，一頁紙一次**（STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM + Netsys 標；MC / 延長器明說不做；收 sales@，ContactOut 業務名單 Jason Kung AM 可補）；再無回聲 → 不動；部分坐实— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "National Enhance Technology Corp.（Netsys；統一編號 未取）",
+"founded": "1999-06（第 116 批 官方登记核实 2026-10-28）",
+"size": "11–50 人（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "LAN 延长器 / 工业 MC / 10G SFP+（自有品牌 Netsys）"
@@ -358891,8 +359013,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 trioms.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "200 Jalan Sultan #03-11 Textile Centre, Singapore 199018（+65 9021 9589；舊址 10 Anson Road #17-22 International Plaza）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 trioms.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 116 批：科學 / 海洋 / 氣象儀器多品牌分銷（JW Fishers / Kestrel / Boltek），網路只是一款 AOA 工業 MC 的點綴（非目標行業）+ 14 次 0 回覆 → **不動（B 保留）**；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Trioms Technology Pte Ltd（UEN 201131509H，官網 Reg / GST；General Standards 新加坡分銷商）",
+"founded": "2011（UEN 年份）（第 116 批 官方登记核实 2026-10-28）",
+"size": "微型（手機為總機）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "仪器 / 技术产品分销（新加坡）"
@@ -381124,17 +381249,23 @@
 "kp": [
 {
 "name": "Karen Kwek",
-"role": "收件人（2024-11-02 休假自动回复；代理人 Goh Wan Lin wanlin_goh@prolink2u.com）",
+"role": "PROLiNK（Fida Int'l (S) Pte Ltd，UEN 199101937H）研究档 KP = 收件人 — 一頁紙一次：貼標 OEM 30%，SMB PoE 非管理階梯 STC-028GP / 228GP / 2216GP / 2224GP + PROLiNK 標 / 彩盒 / 自編貨號 / 付費樣機 + 中東分站可直發 DAP；opener 引 2024-11 自動回覆；回信 → 加厚 + 升 A— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）",
 "email": "karen_kwek@prolink2u.com",
 "phone": "",
 "source": "S 邮箱 2024-11 自动回复表头"
 },
 {
 "name": "Shijie Leong",
-"role": "收件人（2025-01-21 陪产假自动回复；无人工回复）",
+"role": "研究档联系人（2025-01 自動回覆 = 地址有效）= 抄送（第 116 批 官方登记核实 2026-10-28）",
 "email": "shijie_leong@prolink2u.com",
 "phone": "",
 "source": "S 邮箱 2025-01 自动回复表头"
+},
+{
+"name": "Goh Wan Lin",
+"email": "wanlin_goh@prolink2u.com",
+"role": "Karen Kwek 休假代理人（2024-11-02 自動回覆）= 抄送（第 116 批 官方登记核实 2026-10-28）",
+"source": "S 郵箱 2024-11 自動回覆表頭"
 }
 ],
 "grade_override": null,
@@ -381145,8 +381276,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 prolink2u.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "16 Kallang Place #06-01/04, Singapore 339156（+65 6357 0668）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 prolink2u.com，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：35 年本土品牌、PoE 自己 logo、三個收件地址均活但從未真正跟進 → **貼標 OEM 30% B（升 A 候選），一頁紙一次**；守界：IMDA / 網安標籤 不聲稱、不評價其現貨質量；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "FIDA INT'L (S) PTE LTD = PROLiNK 品牌（UEN 199101937H；年報 2026-07-20 已報；中東分站 PROLink.ME）",
+"founded": "1991（第 116 批 官方登记核实 2026-10-28）",
+"size": "中小（51–100 人）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "消费电子 / 网络通信 / 电源（自有品牌 Prolink）"
@@ -389919,7 +390053,8 @@
 "title": "（职务待核）",
 "email": "sales@excelengineeringsg.net",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（9697 0621）— 微型（實繳 S$1,000、虛擬地址、官網失效）+ 需求只有 MC → 不動（第 116 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -389930,8 +390065,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 excelengineeringsg.net，语言 ?，快照状态 unreachable；角色判定来源：用户表"
+"hq": "100 Peck Seah Street #08-14 PS100, Singapore 079333（虛擬辦公地址；6898 4451）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 excelengineeringsg.net，语言 ?，快照状态 unreachable；角色判定来源：用户表；第 116 批：微型 + 虛擬地址 + 需求只有 MC（Saga 僅 STC-110XGE）+ 7 次 0 回覆 → **不動（B 保留）**；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Excel Engineering (SG) Pte. Ltd.（UEN 201332361M；Live；實繳資本 S$1,000；2 名高管 / 股東；SSIC 71129 + 46900；無抵押）",
+"founded": "2013-12-02（第 116 批 官方登记核实 2026-10-28）",
+"size": "微型（2 人）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工程（新加坡）"
@@ -390721,8 +390859,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 acelink.com.tw，语言 zh-Hant-TW，快照状态 ok；角色判定来源：官网文案"
+"hq": "No. 278, Xinhu 1st Rd., Neihu Dist., Taipei City（同 SB-088）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 acelink.com.tw，语言 zh-Hant-TW，快照状态 ok；角色判定来源：官网文案；第 116 批：**訊舟集團 ODM 分部 → 併線 SB-088，一線一稿（Jesse Chen 線），本行不單發**；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Acelink Technology Co., Ltd.（統編 未單獨取；HQ No. 278, Xinhu 1st Rd., Neihu = 訊舟 EDIMAX 22164580 登記地址；「since 1986」= 訊舟設立年；EW-78xx 型號 = EDIMAX 編碼 → 訊舟集團 ODM 分部 / 關係企業）",
+"founded": "1986（集團口徑）（第 116 批 官方登记核实 2026-10-28）",
+"size": "大型（集團 501–1,000；ODM Sales Division Eunice Lu）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "WiFi 7 / 智慧工厂 / AIoT 网络方案（ODM）"
@@ -391736,8 +391877,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 bm-switch.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "10F, No. 111-3, Xiyuan Rd., Zhongli Dist., Taoyuan City 320（+886-3-260-9203；同 SB-249）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 bm-switch.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：**同一法人的網店分部 → 併線 SB-249，本行不單發**；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Bare Metal Switch（bm-switch.com）= 網脈有限公司 Netberg Ltd.（統編 42648064；SB-249）旗下網店分部（官網 about-us 自述；電匯戶名 Netberg Ltd. 玉山銀行）",
+"founded": "—（分部）（第 116 批 官方登记核实 2026-10-28）",
+"size": "—（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "裸金属交换机 / 光模块网店"
@@ -393881,8 +394025,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 ethernetdirect-jp.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"hq": "未取（台灣聯絡站；美國 NY / CA）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 ethernetdirect-jp.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 116 批：工業品牌商（Cobra 系列；推定 ODM 外購、北美通路）→ **貼標 OEM 30% B small，一頁紙一次**（STI-154GP / 288DGGPM / 488DGGPM 寬溫 PoE+ + 自編貨號 + 付費樣機；GSA / NDAA 明說無法聲稱；收 sales@）；再無回聲 → 不動；未坐实 → 只做預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Ethernet Direct Corporation（美國 NY 銷售 / CA 物流；GSA 核准公司；台灣站 ethernetdirect-tw.com；統編 / 實體 未取）",
+"founded": "≥2005（2015 自述「over a decade」）（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业以太网交换机（Cobra 系列）/ 工业无线 / 机架交换机"
@@ -396369,8 +396516,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 prismwifi.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "未取（台灣；普羅通信 新竹 推定）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 prismwifi.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：Wi-Fi 品牌、PoE 交換機 MS8P8 / MS12P8 / MS18P16 / MS28P24 / MS52P48 為配套（推定外購）→ **貼標 OEM 30% B，一頁紙一次**（對位 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM / 448XGGPM 階梯 + PRISM 標 + 付費樣機；收 sales@）；回信 → 加厚；部分坐实— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "PRISM = 普羅通信 Browan Communications Inc. 2022 年推出的企業無線品牌（統編 未取）",
+"founded": "1999 / 2002（普羅通信）；品牌 2022（第 116 批 官方登记核实 2026-10-28）",
+"size": "未取（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "企业 Wi-Fi AP / 控制器 / 云平台",
@@ -403443,14 +403593,21 @@
 "title": "President",
 "email": "angus@ilucoltd.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "President, iLu Co., Ltd. 譯麓有限公司（官網）= 拍板人 / 收件人 — 一頁紙一次：分銷 20% small，直接答 2024-10 之問：8 口 PoE 非管理 STC-028GP / STC-228GP 一口價，8 口管理型按主表現有型號報；SFP / bypass 模組不做；付費樣機、MOQ 1、預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Styven Tseng",
-"role": "2024-10-25 来信「Do you have flat Gigabit 8-p PoE web smart or L2?」（私人邮箱 styvent@gmail.com 在签名里）",
+"role": "2024-10-25 來信人（來信地址 styvent@gmail.com；= SB-1112 占位行 同一來信，已併線）= 抄送（第 116 批 官方登记核实 2026-10-28）",
 "email": "styven@ilucoltd.com",
 "phone": "WhatsApp +886 933 819 962（2024-10-25 签名）",
 "source": "S 邮箱 2024-10-25 来信表头 + 签名"
+},
+{
+"name": "Hung Cheng",
+"email": "",
+"role": "澳洲 Hungsway 聯絡人（官網 sitemap；Lane Cove NSW）— 備用（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://www.ilucoltd.com/sitemap/"
 }
 ],
 "grade_override": null,
@@ -403461,8 +403618,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 ilucoltd.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "新北市蘆洲區鹿江街105號 / No. 105, Lujiang St., Luzhou Dist., New Taipei City 24748（+886-2-8286-3598 ext 101）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 ilucoltd.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 116 批：小型貿易商、總裁與家人親自問 8 口扁平 PoE → **分銷 20% B small，一頁紙一次**；再無回聲 → 不動；SB-1112 併線至此；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "譯麓有限公司 iLu CO., LTD.（統一編號 未取；德國 Teltow 聯絡點 + 澳洲 Hungsway）",
+"founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+"size": "微型（總裁親答）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络连接件 / 设备 / 塑料杂项贸易"
@@ -427848,7 +428008,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "이수봉 Lee Soo-bong",
+"email": "",
+"role": "CEO（官網；设立 2021-01-18）— 不動，不發（info / sales 均退信 = 地址失效）（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://www.daejinnetworks.com/en"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -427857,8 +428024,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "韩国",
-"other": "官网 daejinnetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案"
+"hq": "서울 금천구 벚꽃로 278, SJ테크노빌 1207호 08511（1588-9809）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 daejinnetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案；第 116 批：Centec 交換機（V/E 系列）+ HiSilicon 光模塊 韓國分銷 = **CENTEC 原廠渠道 同線競對 + 郵箱全退信 → 不動（B 保留；地址失效）**；守界：不向 Centec 渠道報 STH 價（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "대진네트웍스 Daejin Networks（사업자등록번호 未取；대진반도체 Daejin Semiconductor 關聯）",
+"founded": "2021-01-18（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（2021 新設）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络方案（Vision AI / 光传输 / TAP 交换机 / PON / VPN 路由）",
@@ -437832,7 +438002,14 @@
 "title": "（表内联系人）",
 "email": "john.lai@airlive.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP — 19 次 0 回覆，不動（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "蔡伯坤",
+"email": "",
+"role": "代表人 / 董事長（twincn；統編 53110625；2020-05 起）— 不發（第 116 批 官方登记核实 2026-10-28）",
+"source": "https://www.twincn.com/item.aspx?no=53110625"
 }
 ],
 "grade_override": null,
@@ -437843,8 +438020,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 airlive.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "新北市新店區寶橋路235巷120號7樓（02-8912-1060）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 airlive.com，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：2020 年由投資公司殼承接的 AirLive 品牌（外購貼牌推定）、19 次 0 回覆 → **不動（B 保留）**；若其來詢 OEM 按 30% 檔；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "鑫志股份有限公司 AirLive Technology Corporation（統一編號 53110625；資本額 NT$27,000,000；2020-09-28 由 鑫立投資股份有限公司 更名）",
+"founded": "2010-11-22（AirLive 品牌承接 2020）（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "Wi-Fi 6 Mesh / 企业无线",
@@ -439700,8 +439880,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 anewtech.net，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "62 Ubi Road 1 #04-14 Oxley Bizhub 2, Singapore 408734（+65 6292 0801）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 anewtech.net，语言 en，快照状态 ok；角色判定来源：官网文案；第 116 批：工業計算機集成商 / 分銷商（Advantech / IEI / Supermicro …；工業交換機在供 ORing）= 真實進口商 → **分銷 20% B，一頁紙一次**（寬溫工業線 STI-154GP / 288DGGPM / 488DGGPM / 0240GE 一口價 + 3 年保 + MOQ 1 + 付費樣機；EN 50155 明說不做；收 sales@）；再無回聲 → 不動；守界：不點名 ORing；抵押 7 項 → 只做預付；坐实— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Anewtech Systems Pte Ltd（UEN 199903145E；Live；實繳資本 S$1,262,500；抵押 7 項；5 名高管；SSIC 26209；MY 雪蘭莪 + VN 胡志明市 辦公室）",
+"founded": "1999（UEN 簽發記錄 2008-09-11）（第 116 批 官方登记核实 2026-10-28）",
+"size": "中小（三國辦公室）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业 PC / 服务器 / 加固电脑 / 机器视觉分销"
@@ -442914,7 +443097,8 @@
 "title": "Managing Director",
 "email": "robin@grep.sg",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Founder / CEO / Managing Director, Grep Tech（Crunchbase / Tracxn；2012 創辦；SMS 網關 / 軟體 = 行業外）— 15 次 0 回覆，不動（第 116 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -442925,8 +443109,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新加坡",
-"other": "官网 grep.sg，语言 ?，快照状态 http_error；角色判定来源：待核"
+"hq": "未取（新加坡）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 grep.sg，语言 ?，快照状态 http_error；角色判定来源：待核；第 116 批：SMS 網關 / 企業軟體公司（行業外）+ 15 次 0 回覆 + 官網報錯 → **不動（B 保留）**；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "Grep Tech Pte Ltd（LinkedIn 法人名；UEN 未取；GREP ADVISORY PTE. LTD. 202411162K ≠）",
+"founded": "2012（第 116 批 官方登记核实 2026-10-28）",
+"size": "微型（1–10 人）（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "（待核，新加坡）"
@@ -443366,7 +443553,14 @@
 "title": "（表内联系人）",
 "email": "kenlee@intrising.com.tw",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "官網聯絡信箱持有人（疑 = 代表人 李金璋）— 同行，不動（第 116 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "李金璋",
+"email": "",
+"role": "代表人（twfile；統編 53116727）— 不發（第 116 批 官方登记核实 2026-10-28）",
+"source": "twfile.com 嚮樂科技股份有限公司 53116727"
 }
 ],
 "grade_override": null,
@@ -443377,8 +443571,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 intrising.com.tw，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "臺北市南港區園區街3號14樓之6（02-2790-6867）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 intrising.com.tw，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：自研工業 L3 / IEC 61850 / TSN 交換機品牌 = **同行，19 次 0 回覆 → 不動（B 保留）**；坐实（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "嚮樂科技股份有限公司 INTRISING NETWORKS, INC.（統一編號 53116727；國貿局 2015-06-02；ISO 9001:2015）",
+"founded": "≤2015（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业 L2/L3 交换机（IEC 61850-3、PTP）",
@@ -443854,8 +444051,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 ison-tech.com，语言 zxx，快照状态 ok；角色判定来源：用户表"
+"hq": "桃園市（詳址未取）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 ison-tech.com，语言 zxx，快照状态 ok；角色判定来源：用户表；第 116 批：工業網路品牌「Industrial Solution Over Network」、站內含 Edgecore 機型 ECS4150-54P = 外購貼牌 → **貼標 OEM 30% B，一頁紙一次**（STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-2224GP / 4424GCPM + ISON 標；電力 61850 / 鐵路 EN 50155 明說不做；收 sales@）；回信 → 加厚；坐实— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "ISON Technology Co., Ltd.（統一編號 24728059；實收資本額 NT$40,619,030；Active）",
+"founded": "2015（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业网络（交换机 / MC / 无线）",
@@ -446314,7 +446514,8 @@
 "title": "（表内联系人）",
 "email": "arthur@mse.com.tw",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP = 收件人 — 一頁紙一次：貼標 OEM 30%，補其 PoE 交換機線 STC-028GP / STC-228GP / STC-2224GP + 工業 STI-154GP / STI-288DGGPM + MSE 標 + 付費樣機；EN 50155 / EN 60945 / IP67 明說不做— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -446325,8 +446526,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "台湾",
-"other": "官网 mse.com.tw，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "未取（+886-2-2293-0159 → 新北五股 / 新莊一帶；英國 +44 7522 399644）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 mse.com.tw，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：PoE 注入器 / 分離器 / 24VAC / DIN / 太陽能 PoE 自產（Made in Taiwan），交換機為配套線（推定外購）→ **貼標 OEM 30% B small，一頁紙一次**；再無回聲 → 不動；坐实（頁腳統編）（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "名翔電子有限公司 MSTronic Co., Ltd.（統一編號 23804228；品牌 MSE）",
+"founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+"size": "小型（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "PoE 分离器 / 注入器 / 开关电源制造（OEM/ODM）",
@@ -446847,7 +447051,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "조주철 Cho Ju-cheol",
+"email": "",
+"role": "대표 / 拍板人（jobkorea；support@ 無具名 KP）— 不動，不發（第 116 批 官方登记核实 2026-10-28）",
+"source": "jobkorea.co.kr/recruit/co_read/c/nemon0701"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -446856,8 +447067,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "韩国",
-"other": "官网 nemon.co.kr，语言 ?，快照状态 ok；角色判定来源：待核"
+"hq": "경기 수원시 영통구 법조로 25, 광교SK뷰레이크타워 A동 2514호（2019-12 自城南遷入）（第 116 批 官方登记核实 2026-10-28）",
+"other": "官网 nemon.co.kr，语言 ?，快照状态 ok；角色判定来源：待核；第 116 批：bypass / TAP 網安交換機專營（Saga 無此線）+ 微型 + 無 KP + 23 次 0 回覆 → **不動（B 保留）**；部分坐实（求職站）（第 116 批 官方登记核实 2026-10-28）",
+"legal_name": "(주)네몬 Nemon Co., Ltd.（사업자등록번호 未取；벤처 2017-06 / 기업부설연구소 2017-11）",
+"founded": "2016-07-01（第 116 批 官方登记核实 2026-10-28）",
+"size": "4–6 人；자본금 5,000만（第 116 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "（待核，韩国）"

@@ -79,6 +79,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 116 批（TW · 1 次检索：twincn（阿斯門亞洲有限公司 ASSMANN ELECTRONIC ASIA CO. LTD.；統編 53733622；電話 02-27934088；臺北市內湖區新湖一路77號7樓；代表人 Matthias Christian LISTL；董監事 Matthias Christian LISTL, 漆曉燕；設立日期 101年01月31日；2012-01 初設 負責人 STEPHAN ASSMANN 董事長 (ASSMANN BETEILIGUNGSVERWALTUNGS GMBH) 資本額 5,000,000；國貿局 20120201 / 20230505；核准設立 / 營業中）+ assmann.com/en/contact/subsidiaries（Taiwan 7F, No. 77 Xinhu 1st Road；Ningbo / Dongguan / Hong Kong offices；contact@assmann-asia.com）；2026-10-28，2026-10-28 查；https://twincn.com/item.aspx?no=53733622）：**
+
+- 法定名 / 登记号：阿斯門亞洲有限公司 ASSMANN ELECTRONIC ASIA CO. LTD.（assmann.com.tw / assmann-asia.com；**統一編號 53733622；設立 2012-01-31；代表人 Matthias Christian LISTL（董事另 漆曉燕）**；臺北市內湖區新湖一路77號7樓；電話 02-2793-4088；資本額 NT$5,000,000；**德國 ASSMANN Electronic GmbH（Lüdenscheid；DIGITUS 品牌）亞洲子公司 / 採購辦，另設 寧波 / 東莞 / 香港 辦公室**）— **DIGITUS 網路 / 線材 / 機櫃 / PoE 交換機 全線亞洲貼牌採購**；KP Kent Wang（PM）：展會接觸 串口 / HDMI-to-RJ45，興趣 MC / HDMI / SFP / PoE / 串口，2025-12 對 Alarm 回「I/O modules」（Saga 無） · 統一編號 53733622 · 状态 **核准設立 / 營業中** · 成立 2012-01-31 · 有限公司（德商子公司）
+- 行业码 / 经营范围：德國 DIGITUS 品牌 亞洲採購 / 品管辦公室（台北內湖 + 寧波 / 東莞 / 香港）
+- 注册地址：臺北市內湖區新湖一路77號7樓 / 7F, No. 77, Xinhu 1st Rd., Neihu Dist., Taipei City 114757
+- 规模档：小型（採購辦）
+- 账目：資本額 NT$5M（集團子公司）；—
+- 高管：Matthias Christian LISTL — 代表人 / 董事
+- 高管：漆曉燕 — 董事
+- 高管：Kent Wang — PM（研究档 KP；kent.wang@assmann.com.tw）= 收件人
+- 控制人 / 股东：ASSMANN Beteiligungsverwaltungs GmbH（德國）
+- **这意味着什么：**
+  - **德國 DIGITUS 的亞洲貼牌採購辦（歐洲主戰場的源頭採購）→ 貼標 OEM 30% B（升 A 候選）；一頁紙一次（切口：DIGITUS 現有 PoE 交換機線的對位 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM（Marvell 管理機）+ 10G STC-110XGE 一口價 + DIGITUS 標 / 自編貨號 / 彩盒 / CE / RoHS / REACH 文件；串口 / HDMI / I/O 模組 明說不做；英文，Kent 直呼）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；回信 → 加厚 + 升 A
+  - 守界：UKCA 只對 GB 銷售提；不點名 DIGITUS 現供應商；BSMI 不聲稱
+- 备注：贴标 OEM 30%（升 A 候选）；一页纸一次（回声再加厚）；坐实（統編 + 代表人 + 設立日 + 地址 + 資本額 + 母公司）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,16 +122,18 @@ updated: 2026-10-28
 - **【用户表】兴趣 MC HDMI SFP POE serials；展会：串口和 HDMI to RJ45；2025-12 Alarm→I/O modules**
   > 兴趣：MC HDMI SFP POE serials 展会：串口和HDMI to Rj45；回复：I/O modules
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Kent Wang（）kent.wang@assmann.com.tw 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Kent Wang（PM, ASSMANN Electronic Asia（德國 DIGITUS 亞洲採購辦；2025-12 回「I/O modules」）= 收件人 — 一頁紙一次：貼標 OEM 30%，DIGITUS PoE 線對位 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM + STC-110XGE 一口價 + DIGITUS 標 / 彩盒 / CE / RoHS / REACH 文件；串口 / HDMI / I/O 模組 明說不做；回信 → 加厚 + 升 A— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））kent.wang@assmann.com.tw 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Matthias Christian Listl（代表人 / 董事（twincn；統編 53733622；董事另 漆曉燕）— 拍板人，不直發（第 116 批 官方登记核实 2026-10-28）） 〔https://twincn.com/item.aspx?no=53733622〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内：品牌采购办 OEM））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ASSMANN Asia Co., Ltd.（待核） |
-| 总部/地址 | 台湾（ASSMANN Electronic GmbH 亚洲办） |
-| 其他 | DIGITUS 网络 / 连接产品品牌 |
+| 法定名称 | 阿斯門亞洲有限公司 ASSMANN ELECTRONIC ASIA CO. LTD.（統一編號 53733622；資本額 NT$5,000,000；母公司 ASSMANN Electronic GmbH, Lüdenscheid；寧波 / 東莞 / 香港 辦公室） |
+| 成立 | 2012-01-31（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 臺北市內湖區新湖一路77號7樓（02-2793-4088）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | DIGITUS 网络 / 连接产品品牌；第 116 批：德國 DIGITUS 的亞洲貼牌採購辦 = 歐洲主戰場的源頭採購 → **貼標 OEM 30% B（升 A 候選），一頁紙一次**；守界：UKCA 只對 GB 提、不點名現供應商；坐实（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：DIGITUS 品牌网络 / 连接 / 机柜产品（亚洲贴牌采购）
 - **触达通道（公开）**：role: 品牌商采购办（OEM 30%）；region: 欧洲销售（台湾采购）
@@ -195,7 +213,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kent Wang | — | kent.wang@assmann.com.tw | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Kent Wang | PM, ASSMANN Electronic Asia（德國 DIGITUS 亞洲採購辦；2025-12 回「I/O modules」）= 收件人 — 一頁紙一次：貼標 OEM 30%，DIGITUS PoE 線對位 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM + STC-110XGE 一口價 + DIGITUS 標 / 彩盒 / CE / RoHS / REACH 文件；串口 / HDMI / I/O 模組 明說不做；回信 → 加厚 + 升 A— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28） | kent.wang@assmann.com.tw | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Matthias Christian Listl | 代表人 / 董事（twincn；統編 53733622；董事另 漆曉燕）— 拍板人，不直發（第 116 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://twincn.com/item.aspx?no=53733622 |
 | Kent, PM | — | kent.wang@assmann.com.tw | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

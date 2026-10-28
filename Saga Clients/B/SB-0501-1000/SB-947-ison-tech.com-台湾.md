@@ -89,6 +89,20 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 116 批（TW · 1 次检索：findit.org.tw（ISON TECHNOLOGY CO., LTD.；Founded 2015；Unified Business No. 24728059；Active；Total Paid-in Capital 40,619,030 NT$；Taoyuan City；Industrial Switch / Industrial PoE / Converter / Serial / Commercial Switch / Accessories / Industrial Wireless；Factory Automation, Power Utility, ITS, IP Surveillance, Railway, Oil & Gas）+ x.com/ISON92493620（Taipei；Patented product）+ LinkedIn（New Taipei City）；2026-10-28，2026-10-28 查；https://findit.org.tw/en/Startup/TTcwMWw3akJoUW5pZTFLbS95cnBBZz09/Basic）：**
+
+- 法定名 / 登记号：ISON Technology Co., Ltd.（ison-tech.com；**統一編號 24728059；2015 年成立；桃園市；實收資本額 NT$40,619,030**）— **工業網路品牌「Industrial Solution Over Network」：工業交換機 / 工業 PoE / 轉換器 / 串口 / 商用交換機 / 工業無線 + 自動化系統規劃（FA / 電力 / ITS / 監控 / 鐵路 / 油氣）；站內型號 IS-RH709 / IS-DF208T / ECS4150-54P（= Edgecore 機型 → 外購貼牌）**；無 KP（sales@）；19 次跟進無回覆 · 統一編號 24728059 · 状态 **Active** · 成立 2015 · 股份有限公司
+- 行业码 / 经营范围：工業網路品牌（外購貼牌）+ 自動化系統規劃（桃園）
+- 注册地址：桃園市（詳址未取）
+- 规模档：小型
+- 账目：實收資本額 NT$40.6M；—
+- 高管：（研究档无 KP：sales@ison-tech.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工業網路品牌商、站內含 Edgecore 機型 = 外購貼牌 → 貼標 OEM 30% B，一頁紙一次（切口：工業 PoE / 管理機 STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE + 商用 STC-2224GP / STC-4424GCPM + ISON 標 / 自編貨號 / 中性包裝 / 付費樣機；電力 61850 / 鐵路 EN 50155 明說不做；英文，收 sales@）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；回信 → 加厚
+  - 守界：鐵路 / 電力 / 油氣防爆不碰；不點名 Edgecore；BSMI 不聲稱
+- 备注：贴标 OEM 30%；一页纸一次（回声再加厚）；坐实（FINDIT 統編 + 成立年 + 資本額 + 市）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,8 +141,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 台湾 |
-| 其他 | 官网 ison-tech.com，语言 zxx，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | ISON Technology Co., Ltd.（統一編號 24728059；實收資本額 NT$40,619,030；Active） |
+| 成立 | 2015（第 116 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 桃園市（詳址未取）（第 116 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 ison-tech.com，语言 zxx，快照状态 ok；角色判定来源：用户表；第 116 批：工業網路品牌「Industrial Solution Over Network」、站內含 Edgecore 機型 ECS4150-54P = 外購貼牌 → **貼標 OEM 30% B，一頁紙一次**（STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-2224GP / 4424GCPM + ISON 標；電力 61850 / 鐵路 EN 50155 明說不做；收 sales@）；回信 → 加厚；坐实— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络（交换机 / MC / 无线）；自动化应用网络规划设计
 
