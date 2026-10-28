@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +91,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 106 批（US · 1 次检索：datalog（WA SoS 登记：VIZMA TECHNOLOGY, LLC；USWA602984088；founded 2010-01-11；Active；Registered Agent VAL ZAKHAROV 222 E 26TH ST STE 105 TACOMA WA 98421；trade names CCTVROOM / VIZMA 2010-01-21）+ Manta（Vizma Technology LLC dba CCTVRoom；family owned；2–4 employees；SIC 7382）+ ZoomInfo（15+ 年；residential / commercial / industrial / DIY）+ D&B（Lakewood WA 旧址；2 人），2026-10-28 查；http://www.datalog.co.uk/browse/detail.php/CompanyNumber/USWA602984088/CompanyName/VIZMA+TECHNOLOGY,+LLC）：**
+
+- 法定名 / 登记号：VIZMA TECHNOLOGY, LLC（d/b/a CCTVROOM / VIZMA / S-VIDIA；华盛顿州 Tacoma；WA UBI 602984088）— 2010-01-11 成立的家族 CCTV 网店 + 安装商（住宅 / 商业 / 工业 / DIY；2–4 人；业主兼注册代理人 Val Zakharov）；表内「MC / SFP / 工业 FS 都有但不多；用 Utepo 工业 FS」；群发 18 次无回复 · WA UBI 602984088 · 状态 **Active** · 成立 2010-01-11 · LLC（家族私有）
+- 行业码 / 经营范围：CCTV 网店 + 安装（SIC 7382 安防系统服务）
+- 注册地址：222 E 26th St, Ste 105, Tacoma, WA 98421
+- 规模档：小微（2–4 人）
+- 账目：—；—
+- 高管：Val Zakharov — 业主 / 注册代理人 = 收件人（info@ / sales@）
+- 控制人 / 股东：Val Zakharov
+- **这意味着什么：**
+  - **家族 CCTV 小店（用 Utepo 工业 FS）→ 集成商 25% small，一页纸（STI-054GP / STI-144GP 替代其工业 FS + STC-028GP）一次后不动**；18 次无回复，二次触达必换切口且仅一次
+  - 收件人 Val Zakharov；稿内不点名 Utepo；发信窗口 Wed 08–10 PT
+- 备注：集成商 25% small；一页纸一次后不动；坐实（WA UBI）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,14 +148,17 @@ updated: 2026-10-27
 - **【用户表】Utepo 工业 FS；产品不多**
   > MC SFP 工业FS 都有 但是产品不多；优普托的工业FS；VIZMA Technology LLC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Val Zakharov（业主 / 注册代理人（WA SoS）= 收件人（第 106 批 官方登记核实 2026-10-28）） 〔http://www.datalog.co.uk/browse/detail.php/CompanyNumber/USWA602984088/CompanyName/VIZMA+TECHNOLOGY,+LLC〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | VIZMA TECHNOLOGY, LLC（d/b/a CCTVROOM / VIZMA / S-VIDIA；WA UBI 602984088；Active） |
+| 成立 | 2010-01-11（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 cctvroom.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 cctvroom.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 106 批：Tacoma WA 家族 CCTV 网店 + 安装（2–4 人；用 Utepo 工业 FS）→ **集成商 25% small；一页纸（STI-054GP / STI-144GP 替代工业 FS）一次后不动**；18 次无回复（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频安防方案（住宅 / 商业 / 工业）
 - **触达通道（公开）**：role: 安防集成/网店（美国，Utepo 工业 FS 在售）；region: 美国；contact: info@cctvroom.com
@@ -243,7 +260,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@cctvroom.com | 用户表原值 | Clients/ 表 |
+| Val Zakharov | 业主 / 注册代理人（WA SoS）= 收件人（第 106 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | http://www.datalog.co.uk/browse/detail.php/CompanyNumber/USWA602984088/CompanyName/VIZMA+TECHNOLOGY,+LLC |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -337,12 +354,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

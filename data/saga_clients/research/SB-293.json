@@ -39,11 +39,18 @@
  ],
  "kp": [
   {
-   "name": "Jonathan Byrd",
+   "name": "Jonathan (Jon) Byrd",
    "title": "Technical Manager",
    "email": "jon@virtualprotective.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Technical Manager（Google Play 开发者联系人）= 收件人（第 106 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Louis Byrd",
+   "role": "President / 注册代理人（TX SoS）= 拍板人（抄送）（第 106 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://opencorporates.com/companies/us_tx/0802032860"
   }
  ],
  "grade_override": null,
@@ -55,7 +62,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 virtualprotective.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 virtualprotective.com，语言 en，快照状态 ok；角色判定来源：用户表；第 106 批：New Braunfels TX 工地 / 物业移动太阳能监控塔租赁 + 远程监控（SPP-2SP；≈8 人）→ **采购型 small；一页纸（塔内小型工业 PoE STI-054GP / STI-144GP）一次后不动**；其 NDAA 口径我方稿内不碰（第 106 批 官方登记核实 2026-10-28）",
+  "legal_name": "VIRTUAL PROTECTIVE LLC（TX SoS 0802032860；In Existence；TX 安保执照 B19488）",
+  "founded": "2014-07-24（第 106 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "建筑工地安防摄像与监控服务（德州）"

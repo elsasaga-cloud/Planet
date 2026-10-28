@@ -48,7 +48,8 @@
    "title": "（Shopify 询盘联系人）",
    "email": "charles@softwareeffect.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "业主（2 人公司）= 收件人本人（第 106 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -60,7 +61,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 softwareeffect.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 softwareeffect.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 106 批：Newnan GA 2 人网络支持工具站（Red Hat / Nagios / Juniper）→ **采购型 small；一页纸（回 MIB 可提供 + STC-228GP 价）一次后不动**（第 106 批 官方登记核实 2026-10-28）",
+  "legal_name": "Software Effect Enterprises, Inc（seei.biz；GA；控制号未取 → 部分坐实）",
+  "founded": "未取（第 106 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络支持专用产品经销 / 技术博客"

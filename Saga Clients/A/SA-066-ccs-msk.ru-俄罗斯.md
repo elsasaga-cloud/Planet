@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,6 +87,20 @@ updated: 2026-10-27
 - 【宗教】01-07：东正教圣诞
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 106 批（RU · 1 次检索：官网 О компании（официальный партнёр MICROSENS и LENOVO, дистрибьютор SUMITOMO；более чем десятилетняя история；активное / пассивное сетевое оборудование, промышленный Ethernet, FTTO / Smart Office, кабели）+ Контакты（107589 Москва ул. Красноярская д.1 корп.1；(495) 926-86-95；sales@ccs-msk.ru）+ Каталог（BROCADE / Lenovo / MICROSENS / LR-LINK / SUMITOMO / 100G QSFP28 / трансиверы）+ Zoon（Торговая компания CCS；Пн-пт 10–18）；Контур.Фокус / rusprofile 同名 ООО «ССС» 为他家，不采，2026-10-28 查；https://www.ccs-msk.ru/about）：**
+
+- 法定名 / 登记号：CCS（ccs-msk.ru；莫斯科 107589 ул. Красноярская д.1 корп.1）— 十余年的 IT / 电信设备分销商：MICROSENS（德国工业交换机 / FTTO 微型交换机）与 LENOVO 官方合作伙伴、日本 SUMITOMO 分销商；在售 Brocade、LR-LINK、光模块 / AOC / DAC / SAS·Infiniband 线缆、SpaceWire；法定名（ООО 名称 / ИНН）官网未列、1 次检索未命中（同名 ООО «ССС» ИНН 7708393591 / 7814529565、ООО «Сложные облачные системы» ccs.msk.ru ИНН 7713417625 均 ≠）→ 部分坐实；2026 最新回复（A） · ИНН / ОГРН 未取（官网未列法定名） · 状态 **Active（官网在线；2026 有回复）** · 成立 未取（自述 10+ 年） · ООО（推定）
+- 行业码 / 经营范围：IT / 电信设备分销（工业以太网 Microsens、服务器 Lenovo、光纤 Sumitomo、光模块 / 线缆；自有 / 白牌 SFP 目录）
+- 注册地址：107589, г. Москва, ул. Красноярская д.1, корп. 1
+- 规模档：小型（推定 10–30 人）
+- 账目：—；—
+- 高管：（见 Clients 表回复签名）— 收件人 sales@ccs-msk.ru
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **卖德系高价工业交换机（Microsens）的分销商 → Saga STI 工业线是天然的「第二价位」：分销 20%，A 维持；加厚（STI-288DGGPM / STI-488DGGPM / STI-0240GE 1:1 对照 Microsens 价位；FTTO 场景用 STC-028GP / STI-054GP）**；稿内不点名 Microsens
+  - **俄罗斯收款路径待核（Simon 定：第三国 / 人民币 / 代理）**；法定名下一封回信顺手问「реквизиты для счёта」；发信窗口 Thu 10–12 MSK；英文 + 一句俄语引子
+- 备注：A 维持；分销 20%；加厚；部分坐实（官网地址 + 合作资质）；收款路径待核。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,9 +148,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | CCS（ccs-msk.ru） |
+| 法定名称 | CCS（ccs-msk.ru；107589 Москва ул. Красноярская д.1 корп.1；ООО 法定名 / ИНН 官网未列 → 部分坐实；同名 ООО «ССС» 7708393591 / 7814529565、ООО «Сложные облачные системы» 7713417625 ≠） |
+| 成立 | 未取（自述 10+ 年）（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 107589, Москва, ул. Красноярская, д.1, корп.1（(495) 926-86-95 / (963) 763-88-43；sales@ccs-msk.ru） |
-| 其他 | MICROSENS（德）与 LENOVO 官方合作伙伴、住友电工分销商；供应有源/无源网络设备、服务器/存储、工业以太网、FTTO / Smart Office、SAS/SATA/Infiniband/SpaceWire 线缆与定制；在售 Microsens 工业机：Entry Line MS655200X（5/8×GE + SFP，-40~75℃，继电器）、Profi Line MS650869M-B（7×FE + 1×GE + 2×1000 SX/LX，铁路/能源）、FiberGuard MS650090 光纤保护开关；注：Microsens 俄罗斯独家工业线分销为 2TEST，CCS 为「官方伙伴」 |
+| 其他 | MICROSENS（德）与 LENOVO 官方合作伙伴、住友电工分销商；供应有源/无源网络设备、服务器/存储、工业以太网、FTTO / Smart Office、SAS/SATA/Infiniband/SpaceWire 线缆与定制；在售 Microsens 工业机：Entry Line MS655200X（5/8×GE + SFP，-40~75℃，继电器）、Profi Line MS650869M-B（7×FE + 1×GE + 2×1000 SX/LX，铁路/能源）、FiberGuard MS650090 光纤保护开关；注：Microsens 俄罗斯独家工业线分销为 2TEST，CCS 为「官方伙伴」；第 106 批：MICROSENS / LENOVO 官方合作伙伴 + SUMITOMO 分销商（工业以太网 / FTTO / 光模块 / 线缆）→ **A 维持；分销 20%；加厚（STI 工业线 1:1 对照 Microsens 价位）**；俄罗斯收款路径待核（Simon 定）；回信时问 реквизиты 补法定名（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业网络 + 工业以太网分销（Microsens 等）；服务器/存储（Lenovo）；光纤/铜缆与定制线缆（Sumitomo、Tyco）；Microsens 光纤/工业以太网/FTTO 供应；Lenovo 服务器存储、住友光纤；数据中心线缆（SAS/Infiniband/DAC）与定制线
 
@@ -300,12 +315,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-11**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 65）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 65）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

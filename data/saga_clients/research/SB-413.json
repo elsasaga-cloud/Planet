@@ -45,7 +45,7 @@
  "kp": [
   {
    "name": "Enes（姓待核）",
-   "role": "（自建站询盘人）",
+   "role": "研究档 KP（用户表；EBCO 邮箱）= 收件人（第 106 批 官方登记核实 2026-10-28）",
    "email": "enes@ebcoelectronic.com（用户表）",
    "phone": "—（WhatsApp 已加；已转 Ady 跟进）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -59,10 +59,11 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "LTE Elektronik San. Tic. Ltd. Şti.（TR）；EBCO Electronics (HK) Co., Limited（HK）",
+  "legal_name": "LTE Elektronik Sanayi ve Ticaret Ltd. Şti.（安卡拉 Çankaya Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10；关联 EBCO Electronic 香港 / m2mmarket / iot.com.tr；MERSİS 未取 → 部分坐实）",
   "hq": "Mustafa Kemal Mah. 2131. Sk. No:32/2, 06510 Çankaya / Ankara（+90 312 443 03 04；info@lte.com.tr）；HK: Unit 1213, 12/F Wing On Plaza, 62 Mody Road, TST East",
   "size": "小型（多地办事处）",
-  "other": "IoT/蜂窝模块分销 + PCB 供应；深圳办事处 = 熟悉中国采购"
+  "other": "IoT/蜂窝模块分销 + PCB 供应；深圳办事处 = 熟悉中国采购；第 106 批：IoT 模块 / 网关 / 天线元器件分销（Ebyte 土耳其分销；RAKwireless 合作伙伴；1–10 人）→ **分销 20% 低契合；一页纸（STI 工业线卡配其 LoRa 网关客户）一次后不动**（第 106 批 官方登记核实 2026-10-28）",
+  "founded": "约 2010（第 106 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IoT/蜂窝/GNSS/LoRa 模块与天线分销（Telit、Locosys、Tibbo、RAK）",

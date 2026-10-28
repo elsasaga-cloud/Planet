@@ -79,6 +79,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 106 批（TR · 1 次检索：官网首页（Antalya Turkuaz Bilişim；Altındağ Mah. 166. Sokak Doğan Apt No:24/C Muratpaşa Antalya）+ antalyayoltarifi 名录（Antalya Turkuaz Bilişim Teknolojileri Ltd.Şti.；旧址 Teomanpaşa Cad. Ertuğrul Sitesi B Blok No:24/B）+ ZoomInfo（11–50；安防 / 火灾 / 网络 / 网络安全）+ Yandex 地图（旧址条目「Kurum faaliyette değil」= 旧址停用，非公司注销），2026-10-28 查；http://www.antalyaturkuaz.com/）：**
+
+- 法定名 / 登记号：Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.（antalyaturkuaz.com；安塔利亚 Muratpaşa Altındağ Mah. 166. Sok. Doğan Apt No:24/C）— 安防 / 网络 / 火灾报警 / 网络安全工程公司（自述 25+ 年经验；11–50 口径；旧址 Teomanpaşa Cad. 已停用）；MERSİS 未取 → 部分坐实；KP Gökhan Naktar（用户表 naktar@） · MERSİS 未取 · 状态 **Active（官网在线；旧址停用）** · 成立 未取（自述 25+ 年） · Ltd. Şti.（私有）
+- 行业码 / 经营范围：安防工程（AI 分析 / 人脸 / 车牌 / 热成像）+ 企业网络基础设施（光纤熔接 / 布线 / Wi-Fi）+ 火灾报警 + 网络安全
+- 注册地址：Altındağ Mah. 166. Sok. Doğan Apt No:24/C, Muratpaşa, Antalya
+- 规模档：小型（11–50 口径）
+- 账目：—；—
+- 高管：Gökhan Naktar — 研究档 KP（naktar@antalyaturkuaz.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安防 + 网络双线集成商 → 集成商 25% small：一页纸（STC-228GP / STC-2224GP 配 AI 摄像机项目；STI-144GP 户外）一次；有回声再加厚**
+  - 收件人 naktar@ 直呼 Gökhan Bey；发信窗口 Thu 10–12 TRT
+- 备注：集成商 25% small；一页纸；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,16 +121,17 @@ updated: 2026-10-28
 - **【用户表】ISAF：不会英语，拿彩页**
   > 不会说英语， 拿了彩页 / Gokhan naktar
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Gökhan Naktar（（ISAF 名片；职务待核））naktar@antalyaturkuaz.com（用户表） +90 242 345 36 91（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Gökhan Naktar（研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28））naktar@antalyaturkuaz.com（用户表） +90 242 345 36 91（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti. |
+| 法定名称 | Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.（Muratpaşa Altındağ Mah. 166. Sok. Doğan Apt No:24/C；MERSİS 未取 → 部分坐实） |
+| 成立 | 未取（自述 25+ 年）（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Altındağ Mah. 166. Sokak Doğan Apt. No:24/C, Muratpaşa / Antalya（+90 242 345 36 91；turkuaz@antalyaturkuaz.com） |
-| 其他 | 安防工程 + 网络基础设施 + B2B 分销门户；守界：火灾报警主系统不供 |
+| 其他 | 安防工程 + 网络基础设施 + B2B 分销门户；守界：火灾报警主系统不供；第 106 批：安防 + 网络双线集成商（11–50 口径；旧址 Teomanpaşa 停用非注销）→ **集成商 25% small；一页纸（STC-228GP / STC-2224GP 配 AI 摄像机项目）**（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：AI 安防工程（人脸/车牌/热成像）；企业网络基础设施（光纤、布线、Wi-Fi）；B2B 产品分销（b2b 门户）
 - **触达通道（公开）**：网站: http://www.antalyaturkuaz.com/ · https://b2b.antalyaturkuaz.com/；电话: +90 242 345 36 91（公开）；邮箱（公开）: turkuaz@antalyaturkuaz.com
@@ -167,7 +182,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gökhan Naktar | （ISAF 名片；职务待核） | naktar@antalyaturkuaz.com（用户表） / +90 242 345 36 91（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Gökhan Naktar | 研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28） | naktar@antalyaturkuaz.com（用户表） / +90 242 345 36 91（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Gokhan naktar | — | naktar@antalyaturkuaz.com / +02423453691 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

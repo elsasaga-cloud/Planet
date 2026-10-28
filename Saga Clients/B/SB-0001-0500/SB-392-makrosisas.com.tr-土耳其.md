@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 106 批（TR · 1 次检索：find.com.tr（MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ；TEK PAY SAHİPLİ ANONİM ŞİRKET；Kuruluş 13 Kasım 2023 Pazartesi；Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 İç Kapı No:26 Şişli；经营范围含电子安防设备进出口 / 分销；股本字段为模板占位不采）+ 官网 Hakkımızda / Contact（Makro Sistem Dış Tic. A.Ş.；i-PRO Türkiye Premium Distribütörü；info@makrosisas.com.tr；+90 212 272 47 92）+ ZoomInfo（11–50；Engin Ertürk Yönetici；Sinan Tüten IT）+ kariyer.net 招聘（2023-12 Satış Elemanı），2026-10-28 查；https://www.find.com.tr/Company/makrosistemdisticaretanonimsirketi）：**
+
+- 法定名 / 登记号：MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ（Makrosis；makrosisas.com.tr；伊斯坦布尔 Şişli Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 K:7 D:26）— 2023-11-13 设立的单一股东 A.Ş.；i-PRO（原 Panasonic Security）土耳其 Premium 分销商（Edge AI 摄像机 / NVR / 火灾探测 / 网络设备）；11–50 人；管理者 Engin Ertürk；研究档 KP Mustafa Demirel（m.demirel@）；坐实（设立公告） · MERSİS 未取（A.Ş. 设立公告 2023-11-13） · 状态 **Active** · 成立 2023-11-13 · A.Ş.（单一股东；私有）
+- 行业码 / 经营范围：安防设备进口分销（i-PRO / Panasonic Security 土耳其 Premium 分销商；网络设备配套）
+- 注册地址：Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26, Şişli / İstanbul
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Engin Ertürk — Yönetici（管理者）= 拍板人（抄 info@）
+- 高管：Mustafa Demirel — 研究档 KP（m.demirel@）= 收件人
+- 控制人 / 股东：单一股东（姓名未取）
+- **这意味着什么：**
+  - **i-PRO Premium 分销商（高端摄像机线缺配套 PoE 交换机）→ 分销 20%，B BIG，加厚一次（STC-228GP / STC-2224GP / STC-4424GCPM 配 i-PRO 项目 + 1:1 规格对照）；升 A 次候选**；稿内不点名 i-PRO / Panasonic
+  - 收件人 m.demirel@ 直呼 Mustafa Bey，抄 info@ 点名 Engin Bey；发信窗口 Thu 10–12 TRT
+- 备注：分销 20%；B BIG；加厚一次；升 A 次候选；坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,16 +124,18 @@ updated: 2026-10-28
 - **【用户表】ISAF 互动：工程需工业交换机；报价 $130/$150；要 DDP**
   > 有一些工程需要用工业级交换机， 报了2光10电带网管带POE 130USD, 12光12电带网管 150USD 要双清包税的运输方式 拍了合照
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mustafa Demirel（（ISAF 名片；职务待核））m.demirel@makrosisas.com.tr（用户表） +90 212 272 47 92（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Mustafa Demirel（研究档 KP（用户表）= 收件人（抄 info@ 点名 Engin Ertürk）（第 106 批 官方登记核实 2026-10-28））m.demirel@makrosisas.com.tr（用户表） +90 212 272 47 92（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Engin Ertürk（Yönetici（管理者；ZoomInfo）= 拍板人（第 106 批 官方登记核实 2026-10-28）） 〔https://www.zoominfo.com/pic/makro-sistem/1340413263〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Makro Sistem（Makrosis A.Ş.） |
+| 法定名称 | MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ（单一股东 A.Ş.；Şişli Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 K:7 D:26；MERSİS 未取） |
+| 成立 | 2023-11-13（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26, 34387 Şişli / İstanbul（+90 212 272 47 92；info@makrosisas.com.tr） |
-| 其他 | i-PRO / Panasonic Security 土耳其 Premium 分销商；Edge AI 摄像机、NVR、消防探测、网络设备 |
+| 其他 | i-PRO / Panasonic Security 土耳其 Premium 分销商；Edge AI 摄像机、NVR、消防探测、网络设备；第 106 批：i-PRO（原 Panasonic Security）土耳其 Premium 分销商（11–50 人）→ **分销 20%，B BIG，加厚一次（PoE 交换机配 i-PRO 项目 + 1:1 规格对照）；升 A 次候选**；稿内不点名 i-PRO（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：i-PRO（Panasonic）安防摄像/NVR 分销；工程项目配套（网络设备、消防探测——守界：消防主系统不供）
 - **触达通道（公开）**：网站: https://makrosisas.com.tr/；电话: +90 212 272 47 92（公开）；邮箱（公开）: info@makrosisas.com.tr
@@ -176,7 +193,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mustafa Demirel | （ISAF 名片；职务待核） | m.demirel@makrosisas.com.tr（用户表） / +90 212 272 47 92（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mustafa Demirel | 研究档 KP（用户表）= 收件人（抄 info@ 点名 Engin Ertürk）（第 106 批 官方登记核实 2026-10-28） | m.demirel@makrosisas.com.tr（用户表） / +90 212 272 47 92（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Engin Ertürk | Yönetici（管理者；ZoomInfo）= 拍板人（第 106 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.zoominfo.com/pic/makro-sistem/1340413263 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

@@ -35,10 +35,16 @@
  "kp": [
   {
    "name": "Mustafa Demirel",
-   "role": "（ISAF 名片；职务待核）",
+   "role": "研究档 KP（用户表）= 收件人（抄 info@ 点名 Engin Ertürk）（第 106 批 官方登记核实 2026-10-28）",
    "email": "m.demirel@makrosisas.com.tr（用户表）",
    "phone": "+90 212 272 47 92（公司）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Engin Ertürk",
+   "role": "Yönetici（管理者；ZoomInfo）= 拍板人（第 106 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.zoominfo.com/pic/makro-sistem/1340413263"
   }
  ],
  "grade_override": null,
@@ -49,10 +55,11 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Makro Sistem（Makrosis A.Ş.）",
+  "legal_name": "MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ（单一股东 A.Ş.；Şişli Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 K:7 D:26；MERSİS 未取）",
   "hq": "Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26, 34387 Şişli / İstanbul（+90 212 272 47 92；info@makrosisas.com.tr）",
   "size": "11–50（ZoomInfo）；营收口径 $9.1M",
-  "other": "i-PRO / Panasonic Security 土耳其 Premium 分销商；Edge AI 摄像机、NVR、消防探测、网络设备"
+  "other": "i-PRO / Panasonic Security 土耳其 Premium 分销商；Edge AI 摄像机、NVR、消防探测、网络设备；第 106 批：i-PRO（原 Panasonic Security）土耳其 Premium 分销商（11–50 人）→ **分销 20%，B BIG，加厚一次（PoE 交换机配 i-PRO 项目 + 1:1 规格对照）；升 A 次候选**；稿内不点名 i-PRO（第 106 批 官方登记核实 2026-10-28）",
+  "founded": "2023-11-13（第 106 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "i-PRO（Panasonic）安防摄像/NVR 分销",

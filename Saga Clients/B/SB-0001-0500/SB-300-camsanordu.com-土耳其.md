@@ -80,6 +80,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 106 批（TR · 1 次检索：贸易部中安纳托利亚区域局新闻（Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.；1984；106. YYS 2024-10-09；Yönetim Kurulu Başkan Vekili Sedat AKSAKALLI）+ 官网 KVKK 文本（PK.34-35 Altınordu/Ordu；Kızılırmak Mah. Dumlupınar Bulvarı YDA Center A Blok No:9A İç Kapı No:685 Çankaya/Ankara）+ OAİB 2025 名单 PDF（Vergi No 2280750226；ÇAMSAN ORDU AĞAÇ SANAYİ VE TİCARET A.Ş）+ Odoo 客户页（1984；土耳其首家 / 欧洲第四家 MDF）+ hukukihaber（2018 Rekabet Kurulu 调查 12 家 MDF 企业之一），2026-10-28 查；https://ortaanadolu.ticaret.gov.tr/haberler/camsan-ordu-agac-sanayi-ve-ticaret-a-s-ye-106-yys-verildi）：**
+
+- 法定名 / 登记号：Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（camsanordu.com；安卡拉总部 YDA Center + 奥尔杜 Altınordu 工厂；Vergi No 2280750226）— 1984 年建厂的土耳其 / 中东 / 巴尔干首家 MDF 厂、2011 年分立；2024-10-09 获海关 YYS（经认证经营者）证书；董事会副主席 Sedat Aksakallı；员工 ≈780；2018 年竞争委员会 MDF 行业调查对象之一；研究档 KP 邮箱前缀 sclcule.o 姓名未核 · Vergi No 2280750226；YYS（经认证经营者）证书 2024-10-09 · 状态 **Active** · 成立 1984（建厂）；2011 分立为 Çamsan Ordu · A.Ş.（私有大型制造商）
+- 行业码 / 经营范围：MDF / 强化地板制造（终端用户；工厂网络为 IT 部门采购）
+- 注册地址：总部 Kızılırmak Mah. Dumlupınar Bulvarı YDA Center A Blok No:9A/685, Çankaya / Ankara；工厂 Altınordu / Ordu
+- 规模档：大型（≈780 人）
+- 账目：—；—
+- 高管：Sedat Aksakallı — 董事会副主席（贸易部新闻）= 拍板层（不直接写）
+- 高管：（姓名待核）— 研究档 KP sclcule.o@camsanordu.com = 收件人（IT / 采购推定）
+- 控制人 / 股东：未取（家族 / 私有）
+- 曾用名：Çamsan Ağaç Sanayi ve Ticaret A.Ş.（1984–2011 母体）
+- **这意味着什么：**
+  - **大型 MDF 厂终端用户 → 项目 25% 低概率（厂区工业环网：STI-288DGGPM / STI-488DGGPM / STI-0240GE；一般经本地集成商采购）：一页纸（工业线卡）一次后不动**
+  - 收件人邮箱前缀 sclcule.o 姓名未核 → 稿内不猜名，用「to the IT / plant network team」；发信窗口 Thu 10–12 TRT
+- 备注：终端用户；项目 25% 低概率；一页纸后不动；坐实（Vergi No + 贸易部新闻）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,10 +134,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş. |
-| 成立 | 1984（工厂）/ 2011-02-25（现法人） |
+| 法定名称 | Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（Vergi No 2280750226；安卡拉 YDA Center 总部 + 奥尔杜工厂；YYS 经认证经营者 2024-10-09；董事会副主席 Sedat Aksakallı） |
+| 成立 | 1984（建厂）；2011 分立（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Kızılırmak Mah. Dumlupınar Bul. A Blok No:9A İç Kapı 685 (YDA Center K:17) Çankaya / Ankara；工厂 Uzunisa Kökenli Köyü, Ordu（+90 452 225 53 00） |
-| 其他 | MDF、MDFLAM、强化地板；MDF3 投资 7,000 万欧元（2019）；参股 Kolçam 刨花板厂 |
+| 其他 | MDF、MDFLAM、强化地板；MDF3 投资 7,000 万欧元（2019）；参股 Kolçam 刨花板厂；第 106 批：MDF / 强化地板大厂（≈780 人）= 终端用户 → **项目 25% 低概率；一页纸（厂区工业环网 STI-288DGGPM / STI-488DGGPM / STI-0240GE）一次后不动**；KP 邮箱前缀 sclcule.o 姓名未核，稿内不猜名（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：MDF / 层压板 / 强化地板制造与出口
 - **触达通道（公开）**：网站: https://camsanordu.com/；电话: +90 312 446 92 92（总部，公开）；邮箱（公开）: info@camsanordu.com

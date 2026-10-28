@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -78,6 +78,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 106 批（US · 1 次检索：scamadviser / scam-detector（域名注册组织 HSSL Systems Integrator LLC；James Dubois；99 Wall St 553 New York NY 10005）+ LinkedIn 公司页（HSSL Technologies；HSSL Systems Integrator；Founded 2018；NY + Irvine）+ hsslcorp.com About / Contact（authorised distributor for hundreds of manufacturers；Irvine CA 340 Culver Drive）+ hssl.ng 隐私政策（Americas 主体 HSSL Systems Integrator LLC；UK Branch Kemp House 160 City Road）+ RocketReach（12 人）+ Alignable（HSSL Systems Integrator LLC New York）；NY DOS 号未取，2026-10-28 查；https://www.linkedin.com/company/hsslus）：**
+
+- 法定名 / 登记号：HSSL Technologies = HSSL Systems Integrator LLC（hssl.us / hsslcorp.com；纽约 99 Wall St Suite 553 虚拟办公室 + 加州 Irvine 邮箱地址）— 2018 年起的目录型企业 IT 硬件经销 / 报价站（自称 6,000+ 厂商 / 3M+ 产品；BigCommerce 网店；关联 hssl.ng 尼日利亚 + 英国 Kemp House 虚拟办公室）；业主 James Dubois；LinkedIn 201–500 口径与 RocketReach 12 人矛盾，取小；NY LLC 号未取 → 部分坐实；表内「卖 Edgecore 的」；群发 7 次无回复 · NY LLC（DOS 号未取） · 状态 **Active（网店在线）** · 成立 2018 · LLC（私有；目录型）
+- 行业码 / 经营范围：企业 IT 硬件目录经销 / 报价站（网络 / 数据中心 / 存储 / 安防）
+- 注册地址：99 Wall St, Suite 553, New York, NY 10005（虚拟办公室）；340 Culver Drive, Irvine, CA 92604（邮箱）
+- 规模档：小微（≈12 人口径；虚拟办公室）
+- 账目：—；—
+- 高管：James Dubois — 业主（域名注册人）= 收件人（info@hssl.us）
+- 控制人 / 股东：James Dubois
+- **这意味着什么：**
+  - **虚拟办公室的目录型经销（卖 Edgecore 等）→ 分销 20% 低概率：一页纸（STH 10G/25G/100G 与 STC 价位表）一次后不动**；成交条件 100% 前 T/T，不做账期
+  - 收件人 info@ 点名 James Dubois；稿内不点名 Edgecore；7 次无回复；发信窗口 Wed 08–10 ET
+- 备注：分销 20% 低概率；一页纸后不动；部分坐实；付款 100% 前 T/T。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,14 +125,17 @@ updated: 2026-10-27
 - **【用户表】卖 Edgecore 的，Marvell**
   > 卖Edgecore的 他们用到是marvell
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：James Dubois（业主（域名注册人；HSSL Systems Integrator LLC）= 收件人（info@hssl.us）（第 106 批 官方登记核实 2026-10-28）） 〔https://www.scamadviser.com/check-website/hssl.us〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | HSSL Systems Integrator LLC（d/b/a HSSL Technologies；NY 99 Wall St Suite 553 虚拟办公室 + Irvine CA 邮箱；NY DOS 号未取 → 部分坐实；关联 hssl.ng 尼日利亚 + 英国 Kemp House） |
+| 成立 | 2018（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 hssl.us，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 hssl.us，语言 en，快照状态 ok；角色判定来源：官网文案；第 106 批：目录型企业 IT 硬件经销 / 报价站（自称 6,000+ 厂商；≈12 人口径）→ **分销 20% 低概率；一页纸一次后不动；成交 100% 前 T/T**（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业 IT 硬件目录经销
 - **触达通道（公开）**：role: 企业 IT 目录经销商（美国，Edgecore 等）；region: 美国；contact: sales@hssl.us
@@ -205,7 +222,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@hssl.us | 用户表原值 | Clients/ 表 |
+| James Dubois | 业主（域名注册人；HSSL Systems Integrator LLC）= 收件人（info@hssl.us）（第 106 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.scamadviser.com/check-website/hssl.us |
 
 - **通道建议**：企业邮箱可直发
 
@@ -241,7 +258,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-424XGGM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -258,7 +275,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -274,7 +291,7 @@ updated: 2026-10-27
 **主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi James,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Edgecore and Cisco lines in your catalogue, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots for budget requests — do you get asked for a lower-cost access switch often enough to list one?
 
@@ -299,12 +316,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -39,7 +39,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Val Zakharov",
+   "role": "业主 / 注册代理人（WA SoS）= 收件人（第 106 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "http://www.datalog.co.uk/browse/detail.php/CompanyNumber/USWA602984088/CompanyName/VIZMA+TECHNOLOGY,+LLC"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -49,7 +56,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 cctvroom.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 cctvroom.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 106 批：Tacoma WA 家族 CCTV 网店 + 安装（2–4 人；用 Utepo 工业 FS）→ **集成商 25% small；一页纸（STI-054GP / STI-144GP 替代工业 FS）一次后不动**；18 次无回复（第 106 批 官方登记核实 2026-10-28）",
+  "legal_name": "VIZMA TECHNOLOGY, LLC（d/b/a CCTVROOM / VIZMA / S-VIDIA；WA UBI 602984088；Active）",
+  "founded": "2010-01-11（第 106 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "视频安防方案（住宅 / 商业 / 工业）"

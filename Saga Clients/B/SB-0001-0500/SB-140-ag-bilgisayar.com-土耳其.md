@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 106 批（TR · 1 次检索：官网首页（AG Bilgisayar - Bodrum Güvenlik Kamera Sistemleri；+90 546 609 99 06；地址同上；Copyrights 2020）+ turgutreisrehberi 名录（Ag Bilgisayar；Bilgisayar Destek ve Hizmetleri；48400 Bodrum/Muğla）；无法定形式 / 税号信息，2026-10-28 查；https://ag-bilgisayar.com/）：**
+
+- 法定名 / 登记号：AG Bilgisayar（ag-bilgisayar.com；穆拉省博德鲁姆 Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29）— 博德鲁姆小型 IT / 安防 / 门禁 / 停车闸机服务商（官网 2020 版、联系邮箱仍为建站临时域 → 维护弱）；法定形式 / MERSİS 未取 → 部分坐实；KP Aycan Çam（用户表） · 未取（个体 / 小型推定） · 状态 **Active（官网在线，维护弱）** · 成立 未取（自述 10+ 年） · 未取（小型安装商）
+- 行业码 / 经营范围：IP / 模拟监控、报警、门禁考勤、停车闸机、网络 / 服务器安装（博德鲁姆本地）
+- 注册地址：Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29, 48400 Bodrum / Muğla
+- 规模档：小微
+- 账目：—；—
+- 高管：Aycan Çam — 研究档 KP（info@ag-bilgisayar.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **度假区小安装商 → 集成商 25% small：一页纸（STC-028GP / STC-228GP 配监控 + 门禁）一次后不动**
+  - 发信窗口 Thu 10–12 TRT；英文稿 + 一句土耳其语引子
+- 备注：集成商 25% small；一页纸后不动；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,16 +122,17 @@ updated: 2026-10-28
 - **【用户表】ISAF 互动：2 光 8 PoE 管理 bypass，千兆**
   > 要bypass, 问了千兆2光8带POE带管理带bypass价格 不需要10G  拿了彩页
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Aycan Çam（（ISAF 名片；职务待核））info@ag-bilgisayar.com（用户表） +90 546 609 99 06（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Aycan Çam（研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28））info@ag-bilgisayar.com（用户表） +90 546 609 99 06（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | AG Bilgisayar（A&G Bilgisayar） |
+| 法定名称 | AG Bilgisayar（博德鲁姆 Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29；法定形式 / MERSİS 未取 → 部分坐实） |
+| 成立 | 未取（自述 10+ 年）（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29, 48400 Bodrum / Muğla（+90 546 609 99 06） |
-| 其他 | IT 服务 + 安防安装 + 闸机自动化；网站联系邮箱为建站占位（info@box5376.temp.domains） |
+| 其他 | IT 服务 + 安防安装 + 闸机自动化；网站联系邮箱为建站占位（info@box5376.temp.domains）；第 106 批：度假区小型 IT / 安防 / 门禁 / 闸机安装商（官网 2020 版维护弱）→ **集成商 25% small；一页纸一次后不动**（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：监控/报警/门禁安装（Bodrum 本地）；停车闸机/道闸自动化；PC/服务器供应与维修
 - **触达通道（公开）**：网站: https://ag-bilgisayar.com/；电话: +90 546 609 99 06（公开）；Facebook: https://www.facebook.com/Agbilgisayar/
@@ -175,7 +190,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Aycan Çam | （ISAF 名片；职务待核） | info@ag-bilgisayar.com（用户表） / +90 546 609 99 06（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Aycan Çam | 研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28） | info@ag-bilgisayar.com（用户表） / +90 546 609 99 06（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Aycan CAM | — | info@ag-bilgisayar.com / +02529991260 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

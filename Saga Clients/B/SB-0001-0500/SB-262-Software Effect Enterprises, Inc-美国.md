@@ -78,6 +78,20 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 106 批（US · 1 次检索：官网 seei.biz（Software Effect Enterprises, Inc；Specialized Products For Network Support；Red Hat / Centos / Cacti / Nagios / Juniper）+ ZoomInfo（PO Box 1514 Newnan GA 30264；2 employees；(678) 854-0250）+ peoplefinders（Charles Deling，Newnan GA；Workplaces Software Effect Enterprises, Inc）；GA SoS 控制号未取，2026-10-28 查；https://www.seei.biz/）：**
+
+- 法定名 / 登记号：Software Effect Enterprises, Inc（seei.biz / softwareeffect.com；佐治亚 Newnan）— 2 人数据中心 / 网络支持工具小公司（Red Hat / CentOS / Cacti / Nagios / Juniper；站内发交换机操作文章）；业主 Charles H. Deling（= 研究档 KP charles@）；Shopify 询盘「4 光 8 电管理型交换机 MIB」；GA 公司号未取 → 部分坐实 · GA Corporation（控制号未取） · 状态 **Active（官网在线）** · 成立 未取 · Inc（个人公司）
+- 行业码 / 经营范围：网络支持工具 / 技术站（2 人）
+- 注册地址：PO Box 1514, Newnan, GA 30264
+- 规模档：小微（2 人）
+- 账目：—；—
+- 高管：Charles H. Deling — 业主 = 收件人本人
+- 控制人 / 股东：Charles H. Deling
+- **这意味着什么：**
+  - **2 人技术站，要的是 MIB 资料 → 采购型 small：一页纸（回 MIB 可提供 + STC-228GP 8 电 2 光 2 SFP 管理型价）一次后不动**
+  - 收件人 charles@ 直呼 Charles；发信窗口 Wed 08–10 ET
+- 备注：采购型 small；一页纸后不动；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,15 +125,17 @@ updated: 2026-10-28
 - **【用户表】4 光 8 管理 MIB 资料询盘**
   > 4光8管理MIB资料 / from: Shopify
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Charles H. Deling（）charles@softwareeffect.com 〔用户表〕
+- **KP**：Charles H. Deling（业主（2 人公司）= 收件人本人（第 106 批 官方登记核实 2026-10-28））charles@softwareeffect.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Software Effect Enterprises, Inc（seei.biz；GA；控制号未取 → 部分坐实） |
+| 成立 | 未取（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 softwareeffect.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 softwareeffect.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 106 批：Newnan GA 2 人网络支持工具站（Red Hat / Nagios / Juniper）→ **采购型 small；一页纸（回 MIB 可提供 + STC-228GP 价）一次后不动**（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络支持专用产品经销 / 技术博客
 - **触达通道（公开）**：role: 网络支持产品小型经销商（美国，已询 MIB 资料）；region: 美国；contact: charles@softwareeffect.com
@@ -175,7 +191,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Charles H. Deling | — | charles@softwareeffect.com | 调研核实（公开页） | 用户表 |
+| Charles H. Deling | 业主（2 人公司）= 收件人本人（第 106 批 官方登记核实 2026-10-28） | charles@softwareeffect.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

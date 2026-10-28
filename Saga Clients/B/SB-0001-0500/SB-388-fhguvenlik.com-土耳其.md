@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 106 批（TR · 1 次检索：find.com.tr（FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ；LİMİTED ŞİRKET；Kuruluş 13 Şubat 2025 Perşembe；NACE 631108；Sinanpaşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4 Beşiktaş 34022）+ 官网（FH Güvenlik, 2025 yılında İstanbul’da kurulmuş；Merkez Beşiktaş；Teknik Ofis Perpa Ticaret Merkezi B Blok Kat:11 No:1730 Şişli；网络基础设施 / CCTV / 报警 / 自动化），2026-10-28 查；https://www.find.com.tr/Company/fhguvenliksistemlerivebilisimsanayiticaretlimitedsirketi）：**
+
+- 法定名 / 登记号：FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ（fhguvenlik.com；伊斯坦布尔 Beşiktaş Sinanpaşa Mah. Süleyman Seba Cad. No:6/4 + Perpa B Blok Kat:11 No:1730 技术办公室）— 2025-02-13 新设的弱电 / 安防集成商（NACE 631108；团队自述 15 年以上经验）；KP Hasti F. Göller（用户表 hasti@）；坐实 · MERSİS 未取（Ltd. Şti.；NACE 631108） · 状态 **Active** · 成立 2025-02-13 · Ltd. Şti.（新设；私有）
+- 行业码 / 经营范围：弱电 / 安防系统集成（CCTV、火灾报警、报警、自动化、网络基础设施）
+- 注册地址：Sinanpaşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4, Beşiktaş, 34022 İstanbul（技术办公室 Perpa B Blok K:11 No:1730）
+- 规模档：小微（新设）
+- 账目：—；—
+- 高管：Hasti F. Göller — 研究档 KP（hasti@fhguvenlik.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **2025 新设小集成商（Perpa 技术办公室）→ 集成商 25% small：一页纸（STC-028GP / STC-228GP 配 CCTV）一次后不动**
+  - 收件人 hasti@；发信窗口 Thu 10–12 TRT
+- 备注：集成商 25% small；一页纸后不动；坐实（设立日期 + 法定名）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,17 +122,17 @@ updated: 2026-10-28
 - **【用户表】ISAF：工业级交换机**
   > 工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hasti F. Göller（（ISAF 名片；职务待核））hasti@fhguvenlik.com（用户表） +90 534 594 63 61（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Hasti F. Göller（研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28））hasti@fhguvenlik.com（用户表） +90 534 594 63 61（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | FH Güvenlik Sistemleri ve Bilişim Sanayi Ticaret Limited Şirketi |
-| 成立 | 2025-02-13（登记） |
+| 法定名称 | FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ（Beşiktaş Sinanpaşa Mah. Süleyman Seba Cad. No:6/4；Perpa B Blok K:11 No:1730 技术办公室；NACE 631108） |
+| 成立 | 2025-02-13（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Sinan Paşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4, Beşiktaş / İstanbul；技术办公室 Perpa Ticaret Merkezi B Blok Kat:11 No:1730 Şişli（0534 594 63 61 / 0534 484 98 11；info@fhguvenlik.com） |
-| 其他 | 弱电 + 安防 + 火灾报警集成 |
+| 其他 | 弱电 + 安防 + 火灾报警集成；第 106 批：2025 新设弱电 / 安防小集成商 → **集成商 25% small；一页纸一次后不动**（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 安防工程（模拟/AHD/IP）；火灾报警与报警系统（守界）；弱电/自动化集成
 - **触达通道（公开）**：网站: https://fhguvenlik.com/；电话: +90 534 594 63 61 / +90 534 484 98 11（公开）；邮箱（公开）: info@fhguvenlik.com
@@ -174,7 +188,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hasti F. Göller | （ISAF 名片；职务待核） | hasti@fhguvenlik.com（用户表） / +90 534 594 63 61（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Hasti F. Göller | 研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28） | hasti@fhguvenlik.com（用户表） / +90 534 594 63 61（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Hasti F. GOLLER | Sales Manager | hasti@fhguvenlik.com / +05354531488 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

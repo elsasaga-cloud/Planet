@@ -78,6 +78,20 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 106 批（US · 1 次检索未命中（sparkzont 印度 CIN 页 + Companies House 06696569 均为同名他家，不采）→ 未坐实，按规程不补查，2026-10-28 查；）：**
+
+- 法定名 / 登记号：MicroFast Technologies / MRDS Distributers（mrdsdistributers.com；美国；酒店 / 办公 CCTV·PBX·布线 方案商）— 1 次检索仅命中印度 MICROFAST TECHNOLOGIES PRIVATE LIMITED（CIN U72900TG2018PTC125645）与英国 MICROFAST TECHNOLOGIES LTD（06696569）两家同名他家，美国主体未命中 → 未坐实；阿里巴巴询盘「同轴转网 EoC」（非 Saga 品类）；KP Manishkumar Patel；表内未跟进 · 未取 · 状态 **未知** · 成立 未取 · 未知
+- 行业码 / 经营范围：酒店 / 办公 CCTV·PBX·综合布线 方案（自述）
+- 注册地址：未取
+- 规模档：未知
+- 账目：—；—
+- 高管：Manishkumar Patel — 研究档 KP（sales@mrdsdistributers.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **主体未坐实 + 询盘品类（EoC）我们不做 → 不动**；若其回信再问公司全称
+  - 同名陷阱：MicroFast Technologies Pvt Ltd（印度）/ Microfast Technologies Ltd（英国）均 ≠ 本户
+- 备注：未坐实；不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,8 +131,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MicroFast Technologies / MRDS Distributers（未坐实：1 次检索仅命中印度 CIN U72900TG2018PTC125645 与英国 06696569 同名他家） |
+| 成立 | 未取（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 microfasttech.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 microfasttech.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 106 批：酒店 / 办公 CCTV·PBX·布线方案商自述；阿里询盘 EoC（非 Saga 品类）→ **不动**；未坐实不补查（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / PBX / 布线 / IT 基础设施集成（美国）
 - **触达通道（公开）**：role: 安防/IT 集成商（美国，EoC 询盘）；region: 美国；contact: sales@mrdsdistributers.com

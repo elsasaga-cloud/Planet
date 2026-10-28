@@ -43,14 +43,16 @@
    "title": "CEO",
    "email": "annie@galaxysecurity.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO（2006 起；LinkedIn / 官网署名）= 拍板人 / 收件人本人（第 106 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Sven Liang",
    "title": "Branch Manager",
    "email": "info@galaxysecurity.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Branch Manager（研究档）（第 106 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -62,7 +64,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 galaxysecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 galaxysecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 106 批：**加拿大安大略 Markham（研究档误记美国 → country_fix）**；北美 CCTV 自有品牌商 / 批发（面向 dealers & installers；Uniview Canada 合作伙伴；25–50 人；Markham + Mississauga）→ **贴标 OEM 30% 可谈（Galaxy 标 PoE 交换机配其摄像机套装）+ 分销 20%，B BIG，加厚一次；升 A 次候选**；华裔 CEO → 中文直联 Simon 定（默认否）（第 106 批 官方登记核实 2026-10-28）",
+  "legal_name": "Galaxy Security Corporation（Galaxy Security Inc. / Smart Vision Direct；安大略公司号未取 → 部分坐实）",
+  "founded": "2006（第 106 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "CCTV / 对讲 / 门禁安防网店（美国）"
@@ -126,5 +130,6 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "加拿大"
 }

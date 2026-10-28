@@ -40,7 +40,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "James Dubois",
+   "role": "业主（域名注册人；HSSL Systems Integrator LLC）= 收件人（info@hssl.us）（第 106 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.scamadviser.com/check-website/hssl.us"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -50,7 +57,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 hssl.us，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 hssl.us，语言 en，快照状态 ok；角色判定来源：官网文案；第 106 批：目录型企业 IT 硬件经销 / 报价站（自称 6,000+ 厂商；≈12 人口径）→ **分销 20% 低概率；一页纸一次后不动；成交 100% 前 T/T**（第 106 批 官方登记核实 2026-10-28）",
+  "legal_name": "HSSL Systems Integrator LLC（d/b/a HSSL Technologies；NY 99 Wall St Suite 553 虚拟办公室 + Irvine CA 邮箱；NY DOS 号未取 → 部分坐实；关联 hssl.ng 尼日利亚 + 英国 Kemp House）",
+  "founded": "2018（第 106 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "企业 IT 硬件目录经销"

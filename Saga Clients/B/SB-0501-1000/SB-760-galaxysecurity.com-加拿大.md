@@ -1,6 +1,6 @@
 # galaxysecurity.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-760`　|　优先级 ★★　|　状态：已推送 19 次·未回复
+> **评级 B**　|　加拿大　|　档案编号 `SB-760`　|　优先级 ★★　|　状态：已推送 19 次·未回复
 >
 > **类型**：安防网店/分销（美国）（推断）　|　**历史关系**：推送 19 次（2024-05-03 → 2025-10-31）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-760
 rating: B
 rating_auto: B
 score: 32
-country: 美国
+country: 加拿大
+country_table: 美国  # 表内原填；调研纠正为 加拿大（research JSON country_fix）
 region: 北美
 website: galaxysecurity.com
 type: 安防网店/分销（美国）
@@ -25,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,12 +83,28 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 106 批（US→CA · 1 次检索：官网 About（leading manufacturer of Security Cameras Systems (CCTV) in North America, headquartered in Markham, Canada；Motto 署名 Annie Chen, Chief Executive Officer；7755 Warden Ave Unit 1 Markham ON L3R 0N3；info@；1-866-946-8998）+ LinkedIn 公司页（Founded 2006；Markham ON + Mississauga 1200 Aerowood Dr；51–200 口径）+ PitchBook（25 人）+ prospeo（21–50；Founded 2006；CEO Annie Chen）+ Uniview Canada 合作伙伴页 + Annie Chen LinkedIn（CEO Jun 2006–present）；安大略公司登记号未取，2026-10-28 查；https://www.galaxysecurity.com/pages/about-us）：**
+
+- 法定名 / 登记号：Galaxy Security Corporation（galaxysecurity.com；**加拿大安大略 Markham**，非美国）— 2006 年成立的北美 CCTV 自有品牌商 / 批发商（自称 manufacturer；面向 dealers & installers；Uniview Canada 合作伙伴；25–50 人；Markham 总部 + Mississauga 仓）；CEO Annie Chen（2006 起；= 研究档 KP annie@）；安大略公司号未取 → 部分坐实；群发 19 次无回复 · 安大略公司（登记号未取） · 状态 **Active** · 成立 2006 · Corporation（私有）
+- 行业码 / 经营范围：CCTV / IP 摄像机 / 对讲 / 门禁自有品牌批发（dealers & installers）；Uniview 加拿大合作伙伴
+- 注册地址：7755 Warden Ave, Unit 1, Markham, ON L3R 0N3, Canada（+ 1200 Aerowood Dr, Mississauga）
+- 规模档：中小（25–50 人）
+- 账目：—；—
+- 高管：Annie Chen — CEO（2006 起）= 拍板人 / 收件人（annie@）
+- 高管：Sven Liang — Branch Manager（研究档；info@）
+- 控制人 / 股东：Annie Chen
+- 曾用名：Smart Vision Direct（关联商号）
+- **这意味着什么：**
+  - **自有品牌 CCTV 批发商（卖给安装商）→ 贴标 OEM 30% 可谈（Galaxy 标 PoE 交换机配其摄像机套装）+ 分销 20%，B BIG，加厚一次；升 A 次候选**
+  - **国别更正：加拿大安大略（研究档误记美国）**；收件人 annie@（CEO 本人）+ 抄 info@；19 次无回复 → 二次触达换切口「PoE switch under your own label for your dealer kits」；发信窗口 Wed 08–10 ET；华裔 CEO → 中文直联 Simon 定（默认否）
+- 备注：贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；升 A 次候选；country_fix 加拿大；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | galaxysecurity.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | galaxysecurity.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 安防网店/分销（美国） | 推断（据兴趣/备注关键词） |
 | 联系人 | Annie Chen / CEO / Sven Liang / Branch Manager | 事实（用户表） |
@@ -124,16 +141,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE 店铺形式**
   > 商业PoE 店铺形式的 卖的有点杂
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Annie Chen（）annie@galaxysecurity.com 〔用户表〕
-- **KP**：Sven Liang（）info@galaxysecurity.com 〔用户表〕
+- **KP**：Annie Chen（CEO（2006 起；LinkedIn / 官网署名）= 拍板人 / 收件人本人（第 106 批 官方登记核实 2026-10-28））annie@galaxysecurity.com 〔用户表〕
+- **KP**：Sven Liang（Branch Manager（研究档）（第 106 批 官方登记核实 2026-10-28））info@galaxysecurity.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Galaxy Security Corporation（Galaxy Security Inc. / Smart Vision Direct；安大略公司号未取 → 部分坐实） |
+| 成立 | 2006（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 galaxysecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 galaxysecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 106 批：**加拿大安大略 Markham（研究档误记美国 → country_fix）**；北美 CCTV 自有品牌商 / 批发（面向 dealers & installers；Uniview Canada 合作伙伴；25–50 人；Markham + Mississauga）→ **贴标 OEM 30% 可谈（Galaxy 标 PoE 交换机配其摄像机套装）+ 分销 20%，B BIG，加厚一次；升 A 次候选**；华裔 CEO → 中文直联 Simon 定（默认否）（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 对讲 / 门禁安防网店（美国）
 - **触达通道（公开）**：role: 安防网店/分销（美国）；region: 美国；contact: info@galaxysecurity.com、annie@galaxysecurity.com
@@ -231,8 +250,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Annie Chen | — | annie@galaxysecurity.com | 调研核实（公开页） | 用户表 |
-| Sven Liang | — | info@galaxysecurity.com | 调研核实（公开页） | 用户表 |
+| Annie Chen | CEO（2006 起；LinkedIn / 官网署名）= 拍板人 / 收件人本人（第 106 批 官方登记核实 2026-10-28） | annie@galaxysecurity.com | 调研核实（公开页） | 用户表 |
+| Sven Liang | Branch Manager（研究档）（第 106 批 官方登记核实 2026-10-28） | info@galaxysecurity.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -325,12 +344,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

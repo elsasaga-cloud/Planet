@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -80,6 +80,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 106 批（US · 1 次检索：Yelp 自述（Established in 2003；started as online-only ecommerce website under the name Ez-Toyz.com … transitioned into our branded Platinum CCTV™ name … opened our showroom facility in Naperville）+ LinkedIn 公司页（Warrenville IL；2–10 人；Founded 2003；30W270 Butterfield Rd #101）+ RocketReach（6 人；Paul Cutrano Director of Field Operations；Scott Davidson Account Manager）+ ZoomInfo（Paul Cutrano 2019–present；前 AT&T 技师）+ BBB / 官网 Contact（630-225-0693）；IL SoS 主体名 / 号未取，2026-10-28 查；https://www.linkedin.com/company/platinumcctv）：**
+
+- 法定名 / 登记号：Platinum CCTV（platinumcctv.com；伊利诺伊 Warrenville；自有品牌 Platinum CCTV™）— 2003 年以网店 Ez-Toyz.com 起家、后转自有品牌并在 Naperville / Warrenville 开展厅的商用监控方案商（选型式而非套装；车牌 / 热成像 / 仓库监控；≈6 人）；KP Paul Cutrano 现场运营总监（2019 起；= 研究档 KP paul@）+ Scott Davidson 客户经理；法定主体名 / IL 号未取 → 部分坐实；Simon「可以尝试多跟进一下」；群发 10 次无回复 · IL 主体（号未取） · 状态 **Active** · 成立 2003 · 私有小公司（法定形式未取）
+- 行业码 / 经营范围：商用监控系统选型 / 安装 / 展厅（自有品牌 Platinum CCTV™）
+- 注册地址：30W270 Butterfield Rd #101, Warrenville, IL 60555
+- 规模档：小微（≈6 人）
+- 账目：—；—
+- 高管：Paul Cutrano — Director of Field Operations（2019 起）= 研究档 KP = 收件人
+- 高管：Scott Davidson — Account Manager
+- 控制人 / 股东：未取
+- 曾用名：Ez-Toyz.com（2003 起网店名）
+- **这意味着什么：**
+  - **自有标 CCTV 小方案商 + Simon 点名多跟 → 集成商 25%（商用 PoE：STC-028GP / STC-228GP / STC-2224GP）+ 小批量贴标 30% 可提，B，加厚一次（small）**
+  - 收件人 paul@ 直呼 Paul；10 次无回复 → 二次触达换切口「PoE switch matched to your camera counts, not a kit」；发信窗口 Wed 08–10 CT
+- 备注：集成商 25%；B；加厚一次（small）；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,15 +132,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE 较多外壳**
   > 商业PoE 较多外壳；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Paul Cutrano（）paul@platinumcctv.com 〔用户表〕
+- **KP**：Paul Cutrano（Director of Field Operations（2019 起；前 AT&T 技师）= 收件人（第 106 批 官方登记核实 2026-10-28））paul@platinumcctv.com 〔用户表〕
+- **KP**：Scott Davidson（Account Manager（RocketReach）（第 106 批 官方登记核实 2026-10-28）） 〔https://rocketreach.co/platinum-cctv-management_b46d69c0fc5c87a1〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Platinum CCTV（Warrenville IL；自有品牌 Platinum CCTV™；法定主体名 / IL 号未取 → 部分坐实） |
+| 成立 | 2003（Ez-Toyz.com 网店起家）（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 platinumcctv.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 platinumcctv.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 106 批：商用监控选型 / 安装 / 展厅（≈6 人；自有标）+ Simon「可以尝试多跟进一下」→ **集成商 25% + 小批量贴标 30% 可提，B，加厚一次（small）**；10 次无回复 → 换切口（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 网店 / 安装（美国）
 - **触达通道（公开）**：role: CCTV 网店/安装商（美国）；region: 美国；contact: sales@platinumcctv.com、paul@platinumcctv.com
@@ -211,7 +230,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Paul Cutrano | — | paul@platinumcctv.com | 调研核实（公开页） | 用户表 |
+| Paul Cutrano | Director of Field Operations（2019 起；前 AT&T 技师）= 收件人（第 106 批 官方登记核实 2026-10-28） | paul@platinumcctv.com | 调研核实（公开页） | 用户表 |
+| Scott Davidson | Account Manager（RocketReach）（第 106 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rocketreach.co/platinum-cctv-management_b46d69c0fc5c87a1 |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -305,12 +325,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

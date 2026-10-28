@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 106 批（TR · 1 次检索：官网 İletişim（Ünvan Fiberix İletişim Hizmetleri Ltd. Şti.；Sarıgüllük Mah. Zübeyde Hanım Bulvarı No:74/A Şehitkamil / Gaziantep；BTK tarafından Alt yapı ve İnternet Servis sağlayıcı olarak yetkilendirilmiştir）+ RIPE NCC 会员名录（FIBERIX ILETISIM HIZMETLERI LTD. STI.；27060 Gaziantep）+ bgp.tools（AS205768 registered 2017-06-08；1 IPv4 prefix；#107 eyeballs TR）+ Google Play 开发者（FIBERIX ILETISIM HIZMETLERI LIMITED SIRKETI；Gazi Mah. Zübeyde Hanım Bulvarı No:74-A；+90 850 333 27 00；info@ / destek@）+ eleman.net 招聘（Satış Temsilcisi ×10），2026-10-28 查；https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/）：**
+
+- 法定名 / 登记号：Fiberix İletişim Hizmetleri Ltd. Şti.（fiberix.com.tr；加济安泰普 Şehitkamil）— BTK 授权基础设施与互联网服务商、RIPE NCC 本地互联网注册机构（LIR；AS205768 于 2017-06-08 登记；185.207.56.0/22 共 1,024 IPv4；土耳其 eyeball 排名 #107）；招聘 10 名现场销售（扩张期）；MERSİS 未取但 RIPE / BTK / Google Play 开发者三方法定名一致 → 坐实；KP Zafer Yılmaz（RIPE 管理联系人）+ Karasu（用户表） · RIPE LIR tr.fiberixinternet；AS205768；MERSİS 未取 · 状态 **Active** · 成立 2017 前后（AS 2017-06-08） · Ltd. Şti.（私有）
+- 行业码 / 经营范围：地方光纤 ISP / 基础设施运营商（BTK 授权；FTTH 接入）
+- 注册地址：Zübeyde Hanım Bulvarı No:74/A, Şehitkamil, 27060 Gaziantep
+- 规模档：小型（推定 20–50 人；在招 10 销售）
+- 账目：—；—
+- 高管：Zafer Yılmaz — RIPE 管理联系人（网络负责人推定）= 收件人（zafery@）
+- 高管：Karasu — 用户表联系人（karasu@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **地方 FTTH 运营商 → 采购型 20%（运营商自用），B，加厚一次（接入侧光口汇聚 STC-228GP / STC-2224GP + 10G 上联 STC-110XGE / STH 25G 汇聚）**；运营商买的是机型价与长期供货，切口「a second-source access switch line priced for ISP volumes」
+  - 收件人 zafery@ 直呼 Zafer Bey，抄 karasu@；发信窗口 Thu 10–12 TRT
+- 备注：采购型 20%；B；加厚一次；坐实（RIPE / BTK）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,17 +126,18 @@ updated: 2026-10-28
 - **【用户表】ISAF 互动：商业交换机 + SFP；广州伙伴；PoE 不常用**
   > 在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Karasu（（ISAF 名片；职务待核））karasu@fiberix.com.tr（用户表） +90 554 154 0100（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Zafer Yılmaz（RIPE 技术/管理联系人（公开））zafery@fiberix.com.tr（RIPE 公开） +90 342 215 16 93〔https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/〕
+- **KP**：Karasu（用户表联系人（抄送）（第 106 批 官方登记核实 2026-10-28））karasu@fiberix.com.tr（用户表） +90 554 154 0100（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Zafer Yılmaz（RIPE 管理联系人（网络负责人推定）= 收件人（第 106 批 官方登记核实 2026-10-28））zafery@fiberix.com.tr（RIPE 公开） +90 342 215 16 93〔https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + RIPE 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Fiberix İletişim Hizmetleri Ltd. Şti. |
+| 法定名称 | Fiberix İletişim Hizmetleri Ltd. Şti.（BTK 授权基础设施 / ISP；RIPE LIR tr.fiberixinternet；AS205768；MERSİS 未取） |
+| 成立 | AS 2017-06-08（公司约 2017）（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Gazi Mah. Zübeyde Hanım Bulvarı No:74/A, Şehitkamil 27001 Gaziantep（+90 850 333 27 00；info@fiberix.com.tr） |
-| 其他 | BTK 授权 ISP；家庭光纤宽带；手机 App |
+| 其他 | BTK 授权 ISP；家庭光纤宽带；手机 App；第 106 批：加济安泰普地方 FTTH 运营商（1,024 IPv4；TR eyeball #107；在招 10 销售）→ **采购型 20%，B，加厚一次（接入汇聚 STC-228GP / STC-2224GP + 10G 上联 STC-110XGE / STH 25G）**（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：本地光纤宽带 ISP（Gaziantep）
 - **触达通道（公开）**：网站: https://www.fiberix.com.tr/；电话: +90 850 333 27 00（公开）；邮箱（公开）: info@fiberix.com.tr；zafery@fiberix.com.tr（RIPE 公开）
@@ -173,8 +189,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Karasu | （ISAF 名片；职务待核） | karasu@fiberix.com.tr（用户表） / +90 554 154 0100（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Zafer Yılmaz | RIPE 技术/管理联系人（公开） | zafery@fiberix.com.tr（RIPE 公开） / +90 342 215 16 93 | 调研核实（公开页） | https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/ |
+| Karasu | 用户表联系人（抄送）（第 106 批 官方登记核实 2026-10-28） | karasu@fiberix.com.tr（用户表） / +90 554 154 0100（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Zafer Yılmaz | RIPE 管理联系人（网络负责人推定）= 收件人（第 106 批 官方登记核实 2026-10-28） | zafery@fiberix.com.tr（RIPE 公开） / +90 342 215 16 93 | 调研核实（公开页） | https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/ |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

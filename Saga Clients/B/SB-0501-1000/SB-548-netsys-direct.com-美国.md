@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,6 +83,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 106 批（US · 1 次检索：官网 About（Netsys-America (d/b/a www.netsys-direct.com), a Limited Liability Company headquartered in Millersville, Maryland … Authorized Representative for Netsys Products & Services in the United States, Canada, Central America, South America and the Caribbean）+ Customer Service（8338 Veterans Highway Suite 205A Millersville MD 21108；1-877-638-7971；info@netsys-america.com）+ Crunchbase（Legal Name Netsys-America, LLC；原 Derwood MD）+ RocketReach（PO Box 5719 Derwood；营收口径 $5M 不采）+ 新闻稿（NL-230FKIT 等新品）；MD SDAT 登记号未取，2026-10-28 查；https://www.netsys-direct.com/pages/about-us）：**
+
+- 法定名 / 登记号：Netsys-America, LLC（d/b/a netsys-direct.com；马里兰 Millersville）— 台湾 Netsys 网通产品在美 / 加 / 中南美 / 加勒比的授权代表（Shopify 直销：VDSL2 / G.hn / EoC 以太网延长器、PoE 延长器；自有 NV 系列 = Netsys 产品）；MD SDAT 号未取 → 部分坐实；群发 9 次无回复 · MD LLC（SDAT 号未取） · 状态 **Active（网店在线）** · 成立 未取 · LLC（私有；小型）
+- 行业码 / 经营范围：网络延长设备代理 / 网店（台湾 Netsys 美洲授权代表；DSL / G.hn / EoC / PoE 延长器）
+- 注册地址：8338 Veterans Highway, Suite 205A, Millersville, MD 21108（旧址 Derwood / Bowie MD）
+- 规模档：小微（推定 <5 人）
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@netsys-america.com
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **同行品牌代理（卖台湾 Netsys 的延长器）→ PoE 交换机是它的相邻缺口：分销 20% small，一页纸（STC-028GP / STC-228GP 配其 PoE 延长器）一次后不动**
+  - 9 次群发无回复；稿内不点名 Netsys；发信窗口 Wed 08–10 ET
+- 备注：分销 20% small；一页纸后不动；部分坐实（LLC 名 + 地址官网自述）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $275 ← 「Ethernet Over Phone Line or Cat5/6 (NV-202GEKIT) (6) In stock Regular price $275」（https://netsys-direct.com/）
@@ -138,8 +152,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Netsys-America, LLC（d/b/a netsys-direct.com；MD LLC，SDAT 号未取 → 部分坐实） |
+| 成立 | 未取（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 netsys-direct.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 netsys-direct.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 106 批：Millersville MD；台湾 Netsys 网通产品美 / 加 / 中南美授权代表（Shopify 直销 DSL / G.hn / EoC / PoE 延长器）→ **同行代理，PoE 交换机为相邻缺口：分销 20% small，一页纸后不动**（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：以太网延长（VDSL2 / G.hn / PoE 延长器）；工业交换机（补充线）
 - **触达通道（公开）**：role: 以太网延长设备品牌（美国销售公司，台系 NetSys 线）；region: 美国；contact: sales@netsys-america.com
@@ -327,12 +343,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

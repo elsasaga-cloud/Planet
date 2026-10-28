@@ -40,14 +40,14 @@
  "kp": [
   {
    "name": "Karasu",
-   "role": "（ISAF 名片；职务待核）",
+   "role": "用户表联系人（抄送）（第 106 批 官方登记核实 2026-10-28）",
    "email": "karasu@fiberix.com.tr（用户表）",
    "phone": "+90 554 154 0100（用户表，WhatsApp 已加）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   },
   {
    "name": "Zafer Yılmaz",
-   "role": "RIPE 技术/管理联系人（公开）",
+   "role": "RIPE 管理联系人（网络负责人推定）= 收件人（第 106 批 官方登记核实 2026-10-28）",
    "email": "zafery@fiberix.com.tr（RIPE 公开）",
    "phone": "+90 342 215 16 93",
    "source": "https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/"
@@ -61,10 +61,11 @@
   "level": "B 级加厚 v1（官网 + RIPE 核对）"
  },
  "company_facts": {
-  "legal_name": "Fiberix İletişim Hizmetleri Ltd. Şti.",
+  "legal_name": "Fiberix İletişim Hizmetleri Ltd. Şti.（BTK 授权基础设施 / ISP；RIPE LIR tr.fiberixinternet；AS205768；MERSİS 未取）",
   "hq": "Gazi Mah. Zübeyde Hanım Bulvarı No:74/A, Şehitkamil 27001 Gaziantep（+90 850 333 27 00；info@fiberix.com.tr）",
   "size": "1–20（selling.com）～51–200（ZoomInfo）；AS205768 1,024 IPv4",
-  "other": "BTK 授权 ISP；家庭光纤宽带；手机 App"
+  "other": "BTK 授权 ISP；家庭光纤宽带；手机 App；第 106 批：加济安泰普地方 FTTH 运营商（1,024 IPv4；TR eyeball #107；在招 10 销售）→ **采购型 20%，B，加厚一次（接入汇聚 STC-228GP / STC-2224GP + 10G 上联 STC-110XGE / STH 25G）**（第 106 批 官方登记核实 2026-10-28）",
+  "founded": "AS 2017-06-08（公司约 2017）（第 106 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "本地光纤宽带 ISP（Gaziantep）"

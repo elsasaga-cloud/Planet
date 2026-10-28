@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 106 批（TR · 1 次检索：官网 lte.com.tr（LTE Elektronik Sanayi ve Ticaret Ltd Şti；Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10 Çankaya Ankara；Our companies m2mmarket.com.tr / EBCO Electronic · Hong Kong / iot.com.tr；Ebyte Turkey Distributor）+ RAKwireless 合作伙伴页（LTE Elektronik San.Tic. Ltd. Sti.；15 年经验）+ contactout（Founded 2010；1–10 人）+ automa.net（PCB 组装 / 原型 / 生产支持）+ iot.com.tr Contact（+90 312 443 03 04），2026-10-28 查；https://www.lte.com.tr/en/）：**
+
+- 法定名 / 登记号：LTE Elektronik Sanayi ve Ticaret Ltd. Şti.（lte.com.tr / iot.com.tr / m2mmarket.com.tr；关联 EBCO Electronic 香港；安卡拉 Çankaya Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10）— 约 2010 年成立的蜂窝 / GNSS / RF / LoRa IoT 模块与网关分销商（Ebyte 土耳其分销、RAKwireless 合作伙伴；面向土耳其与中东电子制造商 / 设计中心；1–10 人；提供 PCB 组装 / 原型服务）；MERSİS 未取 → 部分坐实；KP Enes（姓待核；ebco 邮箱） · MERSİS 未取 · 状态 **Active** · 成立 约 2010 · Ltd. Şti.（私有；关联香港 EBCO Electronic）
+- 行业码 / 经营范围：IoT 模块 / 网关 / 天线 / 连接器 分销 + 设计支持（元器件型分销，非网络设备）
+- 注册地址：Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10, Çankaya / Ankara
+- 规模档：小微（1–10 人）
+- 账目：—；—
+- 高管：Enes（姓待核）— 研究档 KP（enes@ebcoelectronic.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **元器件型 IoT 分销商（LoRa 网关 / 工业终端客户群）→ 分销 20% 低契合：一页纸（STI 工业线卡：STI-054GP / STI-144GP 配其 LoRa 网关 / 工控客户）一次后不动**
+  - 收件人 enes@；香港 EBCO 一线可中文（Simon 定，默认否）；发信窗口 Thu 10–12 TRT
+- 备注：分销 20% 低契合；一页纸后不动；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,16 +126,17 @@ updated: 2026-10-28
 - **【用户表】自建站询盘 I/O 模块；转 Ady**
   > I/O模块 / from: 自建站 已转给Ady跟进
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Enes（姓待核）（（自建站询盘人））enes@ebcoelectronic.com（用户表） —（WhatsApp 已加；已转 Ady 跟进）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Enes（姓待核）（研究档 KP（用户表；EBCO 邮箱）= 收件人（第 106 批 官方登记核实 2026-10-28））enes@ebcoelectronic.com（用户表） —（WhatsApp 已加；已转 Ady 跟进）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | LTE Elektronik San. Tic. Ltd. Şti.（TR）；EBCO Electronics (HK) Co., Limited（HK） |
+| 法定名称 | LTE Elektronik Sanayi ve Ticaret Ltd. Şti.（安卡拉 Çankaya Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10；关联 EBCO Electronic 香港 / m2mmarket / iot.com.tr；MERSİS 未取 → 部分坐实） |
+| 成立 | 约 2010（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Mustafa Kemal Mah. 2131. Sk. No:32/2, 06510 Çankaya / Ankara（+90 312 443 03 04；info@lte.com.tr）；HK: Unit 1213, 12/F Wing On Plaza, 62 Mody Road, TST East |
-| 其他 | IoT/蜂窝模块分销 + PCB 供应；深圳办事处 = 熟悉中国采购 |
+| 其他 | IoT/蜂窝模块分销 + PCB 供应；深圳办事处 = 熟悉中国采购；第 106 批：IoT 模块 / 网关 / 天线元器件分销（Ebyte 土耳其分销；RAKwireless 合作伙伴；1–10 人）→ **分销 20% 低契合；一页纸（STI 工业线卡配其 LoRa 网关客户）一次后不动**（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IoT/蜂窝/GNSS/LoRa 模块与天线分销（Telit、Locosys、Tibbo、RAK）；PCB 与电子料采购（EBCO HK/深圳）
 - **触达通道（公开）**：网站: http://www.ebcoelectronic.com/ · lte.com.tr；电话: +90 312 443 03 04（公开）；邮箱（公开）: info@lte.com.tr / info@ebcoelectronic.com
@@ -181,7 +196,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Enes（姓待核） | （自建站询盘人） | enes@ebcoelectronic.com（用户表） / —（WhatsApp 已加；已转 Ady 跟进） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Enes（姓待核） | 研究档 KP（用户表；EBCO 邮箱）= 收件人（第 106 批 官方登记核实 2026-10-28） | enes@ebcoelectronic.com（用户表） / —（WhatsApp 已加；已转 Ady 跟进） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

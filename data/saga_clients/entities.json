@@ -2112,9 +2112,10 @@
 "level": "深挖 v1（受限：无公开网页）"
 },
 "company_facts": {
-"legal_name": "Boecek Sec（用户表原值；法定名称待补证）",
+"legal_name": "Boecek Sec（boecek.de；未坐实：域名无公开页；同名 boeck GmbH Leipheim HRB 15558 / Sicherheitstechnik Bock Berlin ≠）",
 "hq": "德国（用户表）",
-"other": "boecek.de 2026-10-21 返回 HTTP 500；搜索引擎无该域名/公司的公开页面——属无公开网页的小型安防/网络安装商"
+"other": "boecek.de 2026-10-21 返回 HTTP 500；搜索引擎无该域名/公司的公开页面——属无公开网页的小型安防/网络安装商；第 106 批：**A 维持（样品订单 + 具体型号问价为 Simon 一手证据）**；主体改由 Simon 侧样品订单发票抬头 / 收货地址 / VAT 号补，或下一封跟进顺手要「公司全称 + 送货地址 + VAT」（第 106 批 官方登记核实 2026-10-28）",
+"founded": "未取（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "（用户表推断）安防/网络安装：买 5 电口工业样品 + 工业电源，问 2.5G 机型，要机架式工业管理型（CLI）"
@@ -2224,7 +2225,8 @@
 "body": "Hello,\n\nOur record says you took the 5-port industrial switch samples from us together with the DIN power supply, and asked about two 2.5G models; the product mails you had since were general ones, and nobody had a reason to answer them. This one is specific.\n\nThe two units that normally follow the 5-port: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (web GUI, VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $82.2 USD EXW (MOQ 1, 15-day validity); DIN-rail 4 x Gigabit PoE+ + 1 x SFP unmanaged - STI-144GP - $35.5. Both EXW, so the freight and import side stays transparent on your end.\n\nOne question: is the rack-mount managed industrial switch you mentioned still on your list - and for which cabinet, 19-inch with how many ports?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
-}
+},
+"kp": []
 }
 },
 {
@@ -34704,9 +34706,10 @@
 "level": "深挖 v2（官网 Microsens 目录核对）"
 },
 "company_facts": {
-"legal_name": "CCS（ccs-msk.ru）",
+"legal_name": "CCS（ccs-msk.ru；107589 Москва ул. Красноярская д.1 корп.1；ООО 法定名 / ИНН 官网未列 → 部分坐实；同名 ООО «ССС» 7708393591 / 7814529565、ООО «Сложные облачные системы» 7713417625 ≠）",
 "hq": "107589, Москва, ул. Красноярская, д.1, корп.1（(495) 926-86-95 / (963) 763-88-43；sales@ccs-msk.ru）",
-"other": "MICROSENS（德）与 LENOVO 官方合作伙伴、住友电工分销商；供应有源/无源网络设备、服务器/存储、工业以太网、FTTO / Smart Office、SAS/SATA/Infiniband/SpaceWire 线缆与定制；在售 Microsens 工业机：Entry Line MS655200X（5/8×GE + SFP，-40~75℃，继电器）、Profi Line MS650869M-B（7×FE + 1×GE + 2×1000 SX/LX，铁路/能源）、FiberGuard MS650090 光纤保护开关；注：Microsens 俄罗斯独家工业线分销为 2TEST，CCS 为「官方伙伴」"
+"other": "MICROSENS（德）与 LENOVO 官方合作伙伴、住友电工分销商；供应有源/无源网络设备、服务器/存储、工业以太网、FTTO / Smart Office、SAS/SATA/Infiniband/SpaceWire 线缆与定制；在售 Microsens 工业机：Entry Line MS655200X（5/8×GE + SFP，-40~75℃，继电器）、Profi Line MS650869M-B（7×FE + 1×GE + 2×1000 SX/LX，铁路/能源）、FiberGuard MS650090 光纤保护开关；注：Microsens 俄罗斯独家工业线分销为 2TEST，CCS 为「官方伙伴」；第 106 批：MICROSENS / LENOVO 官方合作伙伴 + SUMITOMO 分销商（工业以太网 / FTTO / 光模块 / 线缆）→ **A 维持；分销 20%；加厚（STI 工业线 1:1 对照 Microsens 价位）**；俄罗斯收款路径待核（Simon 定）；回信时问 реквизиты 补法定名（第 106 批 官方登记核实 2026-10-28）",
+"founded": "未取（自述 10+ 年）（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "企业网络 + 工业以太网分销（Microsens 等）",
@@ -36275,9 +36278,10 @@
 "level": "深挖 v2（官网目录核对）"
 },
 "company_facts": {
-"legal_name": "ООО «BPTEHNO»（bptehno.ru，莫斯科）",
+"legal_name": "ООО «БИЗНЕС ПАРТНЕР»（官网安防页 + 2017 行业新闻署名）/ ООО «БПТЕХНО»（品牌页）二选一；bptehno.ru；Москва；ИНН 未取 → 部分坐实",
 "hq": "莫斯科（+7 926 527-42-98 / +7 495 740-32-53；info@bptehno.ru）",
-"other": "向俄罗斯及独联体供应全球厂商的光纤传输系统：SDI/HDMI/KVM 光端机、电话/E1 光传输、RF/GPS 光发射、蜂窝信号光纤收发、IPTV 头端、长距离昼夜监控系统「Зоркий 2–6」（5–50 km）；**网络交换目录**：ETX-1 Ethernet 分界交换机、2 光 8 UTP 百兆 PoE、4 口 PoE、8 口 SFP 光交换机、16+1 光管理型、工业 LNK-IMC208G（8×GE + 2×1000Base-FX SFP/SC/FC/ST 可选）；供货条款：莫斯科交货、DHL/UPS/TNT 国际物流、自有报关部、5 年保、欧洲证书（俄证按需）"
+"other": "向俄罗斯及独联体供应全球厂商的光纤传输系统：SDI/HDMI/KVM 光端机、电话/E1 光传输、RF/GPS 光发射、蜂窝信号光纤收发、IPTV 头端、长距离昼夜监控系统「Зоркий 2–6」（5–50 km）；**网络交换目录**：ETX-1 Ethernet 分界交换机、2 光 8 UTP 百兆 PoE、4 口 PoE、8 口 SFP 光交换机、16+1 光管理型、工业 LNK-IMC208G（8×GE + 2×1000Base-FX SFP/SC/FC/ST 可选）；供货条款：莫斯科交货、DHL/UPS/TNT 国际物流、自有报关部、5 年保、欧洲证书（俄证按需）；第 106 批：俄罗斯 + 独联体光纤传输系统分销商（代理「Optic」俄方设计 / 中国制造、Raycom 周界探测、华泰光端机）→ **A 维持；贴标 OEM 30% 可谈（BPTEHNO / Optic 标工业 PoE 与光口机）+ 分销 20%；加厚**；收款路径待核；回信时问 реквизиты 定法定名（第 106 批 官方登记核实 2026-10-28）",
+"founded": "未取（2017 已在业）（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤传输 / 视频光端机 分销",
@@ -141071,7 +141075,7 @@
 "kp": [
 {
 "name": "Aycan Çam",
-"role": "（ISAF 名片；职务待核）",
+"role": "研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28）",
 "email": "info@ag-bilgisayar.com（用户表）",
 "phone": "+90 546 609 99 06（公司）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -141085,10 +141089,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "AG Bilgisayar（A&G Bilgisayar）",
+"legal_name": "AG Bilgisayar（博德鲁姆 Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29；法定形式 / MERSİS 未取 → 部分坐实）",
 "hq": "Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29, 48400 Bodrum / Muğla（+90 546 609 99 06）",
 "size": "微型（1–5 人估计）",
-"other": "IT 服务 + 安防安装 + 闸机自动化；网站联系邮箱为建站占位（info@box5376.temp.domains）"
+"other": "IT 服务 + 安防安装 + 闸机自动化；网站联系邮箱为建站占位（info@box5376.temp.domains）；第 106 批：度假区小型 IT / 安防 / 门禁 / 闸机安装商（官网 2020 版维护弱）→ **集成商 25% small；一页纸一次后不动**（第 106 批 官方登记核实 2026-10-28）",
+"founded": "未取（自述 10+ 年）（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "监控/报警/门禁安装（Bodrum 本地）",
@@ -146670,10 +146675,11 @@
 "level": "官网未检索到 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Sinerjik（待核）",
+"legal_name": "Sinerjik（sinerjik.net；未坐实：1 次检索仅命中词典释义）",
 "hq": "Türkiye（待核）",
 "size": "待核",
-"other": "—"
+"other": "—；第 106 批：ISAF 需求 PoE 分离器（非 Saga 品类）→ **不动**（第 106 批 官方登记核实 2026-10-28）",
+"founded": "未取（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "（待核）安防/网络安装"
@@ -174875,7 +174881,7 @@
 "kp": [
 {
 "name": "Şahin Öztürk",
-"role": "（ISAF 名片；职务待核）",
+"role": "ISAF 名片（域名 shnrise.com 与 CESS 关系未证实）= 收件人（第 106 批 官方登记核实 2026-10-28）",
 "email": "sahin@shnrise.com（用户表）",
 "phone": "—",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -174889,10 +174895,11 @@
 "level": "官网未检索到 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "CESS Güvenlik（待核）",
+"legal_name": "CESS Güvenlik Sistemleri（cessguvenlik.com；İstanbul；MERSİS 未取 → 部分坐实；KP 域名 shnrise.com 无检索结果）",
 "hq": "Türkiye（待核）",
 "size": "待核",
-"other": "域名 shnrise.com 与公司名不一致"
+"other": "域名 shnrise.com 与公司名不一致；第 106 批：小型安防 / 弱电 / 网络安装商；ISAF 需求 SFP（不做）→ **一页纸（PoE 配套 + 说明光模块不在线上）一次后不动**；同名 Şahin Teknoloji Kocaeli / SHN Teknoloji ≠（第 106 批 官方登记核实 2026-10-28）",
+"founded": "2018（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防（推测）"
@@ -185515,7 +185522,14 @@
 "title": "Director of Field Operations",
 "email": "paul@platinumcctv.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director of Field Operations（2019 起；前 AT&T 技师）= 收件人（第 106 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Scott Davidson",
+"role": "Account Manager（RocketReach）（第 106 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://rocketreach.co/platinum-cctv-management_b46d69c0fc5c87a1"
 }
 ],
 "grade_override": null,
@@ -185527,7 +185541,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 platinumcctv.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+"other": "官网 platinumcctv.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 106 批：商用监控选型 / 安装 / 展厅（≈6 人；自有标）+ Simon「可以尝试多跟进一下」→ **集成商 25% + 小批量贴标 30% 可提，B，加厚一次（small）**；10 次无回复 → 换切口（第 106 批 官方登记核实 2026-10-28）",
+"legal_name": "Platinum CCTV（Warrenville IL；自有品牌 Platinum CCTV™；法定主体名 / IL 号未取 → 部分坐实）",
+"founded": "2003（Ez-Toyz.com 网店起家）（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV 网店 / 安装（美国）"
@@ -189542,7 +189558,8 @@
 "title": "（Shopify 询盘联系人）",
 "email": "charles@softwareeffect.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "业主（2 人公司）= 收件人本人（第 106 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -189554,7 +189571,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 softwareeffect.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"other": "官网 softwareeffect.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 106 批：Newnan GA 2 人网络支持工具站（Red Hat / Nagios / Juniper）→ **采购型 small；一页纸（回 MIB 可提供 + STC-228GP 价）一次后不动**（第 106 批 官方登记核实 2026-10-28）",
+"legal_name": "Software Effect Enterprises, Inc（seei.biz；GA；控制号未取 → 部分坐实）",
+"founded": "未取（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络支持专用产品经销 / 技术博客"
@@ -193216,14 +193235,14 @@
 "kp": [
 {
 "name": "Karasu",
-"role": "（ISAF 名片；职务待核）",
+"role": "用户表联系人（抄送）（第 106 批 官方登记核实 2026-10-28）",
 "email": "karasu@fiberix.com.tr（用户表）",
 "phone": "+90 554 154 0100（用户表，WhatsApp 已加）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
 },
 {
 "name": "Zafer Yılmaz",
-"role": "RIPE 技术/管理联系人（公开）",
+"role": "RIPE 管理联系人（网络负责人推定）= 收件人（第 106 批 官方登记核实 2026-10-28）",
 "email": "zafery@fiberix.com.tr（RIPE 公开）",
 "phone": "+90 342 215 16 93",
 "source": "https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/"
@@ -193237,10 +193256,11 @@
 "level": "B 级加厚 v1（官网 + RIPE 核对）"
 },
 "company_facts": {
-"legal_name": "Fiberix İletişim Hizmetleri Ltd. Şti.",
+"legal_name": "Fiberix İletişim Hizmetleri Ltd. Şti.（BTK 授权基础设施 / ISP；RIPE LIR tr.fiberixinternet；AS205768；MERSİS 未取）",
 "hq": "Gazi Mah. Zübeyde Hanım Bulvarı No:74/A, Şehitkamil 27001 Gaziantep（+90 850 333 27 00；info@fiberix.com.tr）",
 "size": "1–20（selling.com）～51–200（ZoomInfo）；AS205768 1,024 IPv4",
-"other": "BTK 授权 ISP；家庭光纤宽带；手机 App"
+"other": "BTK 授权 ISP；家庭光纤宽带；手机 App；第 106 批：加济安泰普地方 FTTH 运营商（1,024 IPv4；TR eyeball #107；在招 10 销售）→ **采购型 20%，B，加厚一次（接入汇聚 STC-228GP / STC-2224GP + 10G 上联 STC-110XGE / STH 25G）**（第 106 批 官方登记核实 2026-10-28）",
+"founded": "AS 2017-06-08（公司约 2017）（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "本地光纤宽带 ISP（Gaziantep）"
@@ -199410,11 +199430,18 @@
 ],
 "kp": [
 {
-"name": "Jonathan Byrd",
+"name": "Jonathan (Jon) Byrd",
 "title": "Technical Manager",
 "email": "jon@virtualprotective.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Technical Manager（Google Play 开发者联系人）= 收件人（第 106 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Louis Byrd",
+"role": "President / 注册代理人（TX SoS）= 拍板人（抄送）（第 106 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://opencorporates.com/companies/us_tx/0802032860"
 }
 ],
 "grade_override": null,
@@ -199426,7 +199453,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 virtualprotective.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"other": "官网 virtualprotective.com，语言 en，快照状态 ok；角色判定来源：用户表；第 106 批：New Braunfels TX 工地 / 物业移动太阳能监控塔租赁 + 远程监控（SPP-2SP；≈8 人）→ **采购型 small；一页纸（塔内小型工业 PoE STI-054GP / STI-144GP）一次后不动**；其 NDAA 口径我方稿内不碰（第 106 批 官方登记核实 2026-10-28）",
+"legal_name": "VIRTUAL PROTECTIVE LLC（TX SoS 0802032860；In Existence；TX 安保执照 B19488）",
+"founded": "2014-07-24（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "建筑工地安防摄像与监控服务（德州）"
@@ -202147,11 +202176,11 @@
 "level": "B 级加厚 v1（官网 + 名录核对）"
 },
 "company_facts": {
-"legal_name": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.",
-"founded": "1984（工厂）/ 2011-02-25（现法人）",
+"legal_name": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（Vergi No 2280750226；安卡拉 YDA Center 总部 + 奥尔杜工厂；YYS 经认证经营者 2024-10-09；董事会副主席 Sedat Aksakallı）",
+"founded": "1984（建厂）；2011 分立（第 106 批 官方登记核实 2026-10-28）",
 "hq": "Kızılırmak Mah. Dumlupınar Bul. A Blok No:9A İç Kapı 685 (YDA Center K:17) Çankaya / Ankara；工厂 Uzunisa Kökenli Köyü, Ordu（+90 452 225 53 00）",
 "size": "780 人（EMIS 2026）；501–1,000（LinkedIn）",
-"other": "MDF、MDFLAM、强化地板；MDF3 投资 7,000 万欧元（2019）；参股 Kolçam 刨花板厂"
+"other": "MDF、MDFLAM、强化地板；MDF3 投资 7,000 万欧元（2019）；参股 Kolçam 刨花板厂；第 106 批：MDF / 强化地板大厂（≈780 人）= 终端用户 → **项目 25% 低概率；一页纸（厂区工业环网 STI-288DGGPM / STI-488DGGPM / STI-0240GE）一次后不动**；KP 邮箱前缀 sclcule.o 姓名未核，稿内不猜名（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "MDF / 层压板 / 强化地板制造与出口"
@@ -202644,7 +202673,7 @@
 "kp": [
 {
 "name": "Gökhan Naktar",
-"role": "（ISAF 名片；职务待核）",
+"role": "研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28）",
 "email": "naktar@antalyaturkuaz.com（用户表）",
 "phone": "+90 242 345 36 91（公司）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -202658,10 +202687,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.",
+"legal_name": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.（Muratpaşa Altındağ Mah. 166. Sok. Doğan Apt No:24/C；MERSİS 未取 → 部分坐实）",
 "hq": "Altındağ Mah. 166. Sokak Doğan Apt. No:24/C, Muratpaşa / Antalya（+90 242 345 36 91；turkuaz@antalyaturkuaz.com）",
 "size": "11–50（ZoomInfo）；营收 <$5M",
-"other": "安防工程 + 网络基础设施 + B2B 分销门户；守界：火灾报警主系统不供"
+"other": "安防工程 + 网络基础设施 + B2B 分销门户；守界：火灾报警主系统不供；第 106 批：安防 + 网络双线集成商（11–50 口径；旧址 Teomanpaşa 停用非注销）→ **集成商 25% small；一页纸（STC-228GP / STC-2224GP 配 AI 摄像机项目）**（第 106 批 官方登记核实 2026-10-28）",
+"founded": "未取（自述 25+ 年）（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "AI 安防工程（人脸/车牌/热成像）",
@@ -232748,7 +232778,7 @@
 "kp": [
 {
 "name": "Savaş Tulgar",
-"role": "（ISAF 名片；职务待核）",
+"role": "Yönetim Kurulu Başkanı（3S Teknoloji Savunma ve Yapı Sanayi Ticaret A.Ş. 设立公告）= 收件人本人（第 106 批 官方登记核实 2026-10-28）",
 "email": "savas@3s.com.tr（用户表）",
 "phone": "—",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -232762,10 +232792,11 @@
 "level": "官网未检索到 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "3S（待核）",
+"legal_name": "3S Güvenlik Sistemleri（3s.com.tr；Sultangazi Esentepe Mah. 2403/1 Sok. No:11）/ 3S Teknoloji Savunma ve Yapı Sanayi Ticaret A.Ş.（股本 5 万 TL；同址；MERSİS 未取 → 部分坐实）",
 "hq": "Türkiye（待核）",
 "size": "待核",
-"other": "—"
+"other": "—；第 106 批：老板本人 ISAF 要工业级交换机 → **集成商 25% small；一页纸（STI 工业线卡 + 价）一次后不动；守界：经营范围含国防，只报民用工业 / 安防场景**；同名 3-S Mühendislik / 3S Teknik ≠（第 106 批 官方登记核实 2026-10-28）",
+"founded": "A.Ş. 11-25 设立（年份未取）（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "（待核）"
@@ -233808,7 +233839,7 @@
 "kp": [
 {
 "name": "Serdar Karasu",
-"role": "Founder（LinkedIn/ZoomInfo 公开）",
+"role": "创始人 / 负责人（ZoomInfo Founder；LinkedIn）= 收件人本人（第 106 批 官方登记核实 2026-10-28）",
 "email": "bilgi@proves.com.tr（用户表）",
 "phone": "—",
 "source": "https://www.zoominfo.com/p/Serdar-Karasu/8496040136"
@@ -233822,11 +233853,11 @@
 "level": "B 级加厚 v1（名录 + LinkedIn 核对）"
 },
 "company_facts": {
-"legal_name": "Proves Bilgi Teknolojileri",
-"founded": "2020-02",
+"legal_name": "PROVES BİLGİ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ（find.com.tr；Bayraklı 设立 → Bornova → Buca；MERSİS 未取 → 部分坐实）",
+"founded": "2020-02-14（第 106 批 官方登记核实 2026-10-28）",
 "hq": "Bayraklı / İzmir（ZoomInfo 地址 286/1 Sok. No:15）",
 "size": "小型集成商（ZoomInfo「334 人」疑为错误数据，待核）",
-"other": "Hanwha Vision 合作集成商；YouTube 频道 @provesbilgiteknolojileri"
+"other": "Hanwha Vision 合作集成商；YouTube 频道 @provesbilgiteknolojileri；第 106 批：弱电 / IT SI（Hanwha Vision 案例：Pamukkale 市政 150 摄像机）→ **集成商 25%，B，加厚一次（small：STC-2224GP / STC-4424GCPM + STI-144GP）**；ZoomInfo 334 人为错配（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT 基础设施与网络安全集成",
@@ -237970,7 +238001,7 @@
 "kp": [
 {
 "name": "Hasti F. Göller",
-"role": "（ISAF 名片；职务待核）",
+"role": "研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28）",
 "email": "hasti@fhguvenlik.com（用户表）",
 "phone": "+90 534 594 63 61（公司）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -237984,11 +238015,11 @@
 "level": "B 级加厚 v1（官网 + 登记核对）"
 },
 "company_facts": {
-"legal_name": "FH Güvenlik Sistemleri ve Bilişim Sanayi Ticaret Limited Şirketi",
-"founded": "2025-02-13（登记）",
+"legal_name": "FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ（Beşiktaş Sinanpaşa Mah. Süleyman Seba Cad. No:6/4；Perpa B Blok K:11 No:1730 技术办公室；NACE 631108）",
+"founded": "2025-02-13（第 106 批 官方登记核实 2026-10-28）",
 "hq": "Sinan Paşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4, Beşiktaş / İstanbul；技术办公室 Perpa Ticaret Merkezi B Blok Kat:11 No:1730 Şişli（0534 594 63 61 / 0534 484 98 11；info@fhguvenlik.com）",
 "size": "小型（新设公司）",
-"other": "弱电 + 安防 + 火灾报警集成"
+"other": "弱电 + 安防 + 火灾报警集成；第 106 批：2025 新设弱电 / 安防小集成商 → **集成商 25% small；一页纸一次后不动**（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV 安防工程（模拟/AHD/IP）",
@@ -239471,10 +239502,16 @@
 "kp": [
 {
 "name": "Mustafa Demirel",
-"role": "（ISAF 名片；职务待核）",
+"role": "研究档 KP（用户表）= 收件人（抄 info@ 点名 Engin Ertürk）（第 106 批 官方登记核实 2026-10-28）",
 "email": "m.demirel@makrosisas.com.tr（用户表）",
 "phone": "+90 212 272 47 92（公司）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Engin Ertürk",
+"role": "Yönetici（管理者；ZoomInfo）= 拍板人（第 106 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.zoominfo.com/pic/makro-sistem/1340413263"
 }
 ],
 "grade_override": null,
@@ -239485,10 +239522,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Makro Sistem（Makrosis A.Ş.）",
+"legal_name": "MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ（单一股东 A.Ş.；Şişli Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 K:7 D:26；MERSİS 未取）",
 "hq": "Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26, 34387 Şişli / İstanbul（+90 212 272 47 92；info@makrosisas.com.tr）",
 "size": "11–50（ZoomInfo）；营收口径 $9.1M",
-"other": "i-PRO / Panasonic Security 土耳其 Premium 分销商；Edge AI 摄像机、NVR、消防探测、网络设备"
+"other": "i-PRO / Panasonic Security 土耳其 Premium 分销商；Edge AI 摄像机、NVR、消防探测、网络设备；第 106 批：i-PRO（原 Panasonic Security）土耳其 Premium 分销商（11–50 人）→ **分销 20%，B BIG，加厚一次（PoE 交换机配 i-PRO 项目 + 1:1 规格对照）；升 A 次候选**；稿内不点名 i-PRO（第 106 批 官方登记核实 2026-10-28）",
+"founded": "2023-11-13（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "i-PRO（Panasonic）安防摄像/NVR 分销",
@@ -247868,7 +247906,7 @@
 "kp": [
 {
 "name": "Enes（姓待核）",
-"role": "（自建站询盘人）",
+"role": "研究档 KP（用户表；EBCO 邮箱）= 收件人（第 106 批 官方登记核实 2026-10-28）",
 "email": "enes@ebcoelectronic.com（用户表）",
 "phone": "—（WhatsApp 已加；已转 Ady 跟进）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -247882,10 +247920,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "LTE Elektronik San. Tic. Ltd. Şti.（TR）；EBCO Electronics (HK) Co., Limited（HK）",
+"legal_name": "LTE Elektronik Sanayi ve Ticaret Ltd. Şti.（安卡拉 Çankaya Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10；关联 EBCO Electronic 香港 / m2mmarket / iot.com.tr；MERSİS 未取 → 部分坐实）",
 "hq": "Mustafa Kemal Mah. 2131. Sk. No:32/2, 06510 Çankaya / Ankara（+90 312 443 03 04；info@lte.com.tr）；HK: Unit 1213, 12/F Wing On Plaza, 62 Mody Road, TST East",
 "size": "小型（多地办事处）",
-"other": "IoT/蜂窝模块分销 + PCB 供应；深圳办事处 = 熟悉中国采购"
+"other": "IoT/蜂窝模块分销 + PCB 供应；深圳办事处 = 熟悉中国采购；第 106 批：IoT 模块 / 网关 / 天线元器件分销（Ebyte 土耳其分销；RAKwireless 合作伙伴；1–10 人）→ **分销 20% 低契合；一页纸（STI 工业线卡配其 LoRa 网关客户）一次后不动**（第 106 批 官方登记核实 2026-10-28）",
+"founded": "约 2010（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IoT/蜂窝/GNSS/LoRa 模块与天线分销（Telit、Locosys、Tibbo、RAK）",
@@ -267364,7 +267403,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 microfasttech.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 microfasttech.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 106 批：酒店 / 办公 CCTV·PBX·布线方案商自述；阿里询盘 EoC（非 Saga 品类）→ **不动**；未坐实不补查（第 106 批 官方登记核实 2026-10-28）",
+"legal_name": "MicroFast Technologies / MRDS Distributers（未坐实：1 次检索仅命中印度 CIN U72900TG2018PTC125645 与英国 06696569 同名他家）",
+"founded": "未取（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV / PBX / 布线 / IT 基础设施集成（美国）"
@@ -271311,7 +271352,9 @@
 "level": "B 级加厚 v1（检索无果 · 待核）"
 },
 "company_facts": {
-"other": "无法核实（域名未被收录）；仅有用户表信息"
+"other": "无法核实（域名未被收录）；仅有用户表信息；第 106 批：业务未知 → **不动**；曾 1 次实质回复，若再回信先问公司全称与业务（第 106 批 官方登记核实 2026-10-28）",
+"legal_name": "eminnovate.com（未坐实：1 次检索仅命中印度浦那 Eminnovate eminnovate.co 同名他家）",
+"founded": "未取（第 106 批 官方登记核实 2026-10-28）"
 },
 "signals": [
 "1 次实质回复但仅 2 次跟进 → 线索新鲜度未知"
@@ -300339,7 +300382,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 netsys-direct.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 netsys-direct.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 106 批：Millersville MD；台湾 Netsys 网通产品美 / 加 / 中南美授权代表（Shopify 直销 DSL / G.hn / EoC / PoE 延长器）→ **同行代理，PoE 交换机为相邻缺口：分销 20% small，一页纸后不动**（第 106 批 官方登记核实 2026-10-28）",
+"legal_name": "Netsys-America, LLC（d/b/a netsys-direct.com；MD LLC，SDAT 号未取 → 部分坐实）",
+"founded": "未取（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "以太网延长（VDSL2 / G.hn / PoE 延长器）",
@@ -338428,7 +338473,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "James Dubois",
+"role": "业主（域名注册人；HSSL Systems Integrator LLC）= 收件人（info@hssl.us）（第 106 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.scamadviser.com/check-website/hssl.us"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -338438,7 +338490,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 hssl.us，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 hssl.us，语言 en，快照状态 ok；角色判定来源：官网文案；第 106 批：目录型企业 IT 硬件经销 / 报价站（自称 6,000+ 厂商；≈12 人口径）→ **分销 20% 低概率；一页纸一次后不动；成交 100% 前 T/T**（第 106 批 官方登记核实 2026-10-28）",
+"legal_name": "HSSL Systems Integrator LLC（d/b/a HSSL Technologies；NY 99 Wall St Suite 553 虚拟办公室 + Irvine CA 邮箱；NY DOS 号未取 → 部分坐实；关联 hssl.ng 尼日利亚 + 英国 Kemp House）",
+"founded": "2018（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "企业 IT 硬件目录经销"
@@ -365232,7 +365286,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Val Zakharov",
+"role": "业主 / 注册代理人（WA SoS）= 收件人（第 106 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "http://www.datalog.co.uk/browse/detail.php/CompanyNumber/USWA602984088/CompanyName/VIZMA+TECHNOLOGY,+LLC"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -365242,7 +365303,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 cctvroom.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 cctvroom.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 106 批：Tacoma WA 家族 CCTV 网店 + 安装（2–4 人；用 Utepo 工业 FS）→ **集成商 25% small；一页纸（STI-054GP / STI-144GP 替代工业 FS）一次后不动**；18 次无回复（第 106 批 官方登记核实 2026-10-28）",
+"legal_name": "VIZMA TECHNOLOGY, LLC（d/b/a CCTVROOM / VIZMA / S-VIDIA；WA UBI 602984088；Active）",
+"founded": "2010-01-11（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频安防方案（住宅 / 商业 / 工业）"
@@ -372300,8 +372363,8 @@
 "name": "galaxysecurity.com",
 "name_src": "domain",
 "names": [],
-"country": "美国",
-"iso": "US",
+"country": "加拿大",
+"iso": "CA",
 "region": "北美",
 "other_countries": [],
 "domains": [
@@ -372699,14 +372762,16 @@
 "title": "CEO",
 "email": "annie@galaxysecurity.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "CEO（2006 起；LinkedIn / 官网署名）= 拍板人 / 收件人本人（第 106 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Sven Liang",
 "title": "Branch Manager",
 "email": "info@galaxysecurity.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Branch Manager（研究档）（第 106 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -372718,7 +372783,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 galaxysecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 galaxysecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 106 批：**加拿大安大略 Markham（研究档误记美国 → country_fix）**；北美 CCTV 自有品牌商 / 批发（面向 dealers & installers；Uniview Canada 合作伙伴；25–50 人；Markham + Mississauga）→ **贴标 OEM 30% 可谈（Galaxy 标 PoE 交换机配其摄像机套装）+ 分销 20%，B BIG，加厚一次；升 A 次候选**；华裔 CEO → 中文直联 Simon 定（默认否）（第 106 批 官方登记核实 2026-10-28）",
+"legal_name": "Galaxy Security Corporation（Galaxy Security Inc. / Smart Vision Direct；安大略公司号未取 → 部分坐实）",
+"founded": "2006（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV / 对讲 / 门禁安防网店（美国）"
@@ -372782,8 +372849,10 @@
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "加拿大"
+},
+"country_table": "美国"
 },
 {
 "name": "getscw.com",
@@ -391255,7 +391324,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Hasan Kara",
+"role": "Teknik Servis Müdürü（2017 起；ZoomInfo）= 技术把关人（抄送）（第 106 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.zoominfo.com/p/Hasan-Kara/-1038805985"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -391265,7 +391341,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 deponet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 deponet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 106 批：网络产品进口分销商（Ruijie 2017 / 2018 全球最佳 VAD、Maipu、Allied Telesis、Teltonika、Leviton、Planet）+ **自有品牌 Nets** → **贴标 OEM 30% 可谈（Nets 标 PoE / 工业线）+ 分销 20%（Planet 价位替代），B BIG，加厚一次；升 A 候选（回信即 A）**；收件人 istanbul@ 点名 ürün müdürü / satın alma；稿内不点名 Planet / Ruijie（第 106 批 官方登记核实 2026-10-28）",
+"legal_name": "Deponet Elektronik Mamulleri Sanayi Pazarlama A.Ş.（EMIS 1998-03-10；Kadıköy Kozyatağı Sok. Parlarbaşoğlu Apt. No:28B + 安卡拉 Via Tower 分部；MERSİS 未取）",
+"founded": "1998-03-10（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络技术产品分销"
@@ -430677,10 +430755,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Dimas Teknoloji ve Güvenlik（待核）",
+"legal_name": "Dimas Teknoloji ve Güvenlik（Gmail；未坐实：1 次检索仅命中同名他人）",
 "hq": "Türkiye（待核）",
 "size": "微型安防/技术店（推测）",
-"other": "仅 Gmail；不会英文"
+"other": "仅 Gmail；不会英文；第 106 批：ISAF 需求 SFP（非 Saga 品类）+ 不会英文 → **不动**（第 106 批 官方登记核实 2026-10-28）",
+"founded": "未取（第 106 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防/技术安装（推测）"

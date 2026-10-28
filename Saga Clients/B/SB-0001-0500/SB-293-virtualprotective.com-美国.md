@@ -78,6 +78,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 106 批（US · 1 次检索：OpenCorporates（VIRTUAL PROTECTIVE LLC；TX 0802032860；Incorporation 2014-07-24；In Existence；Agent LOUIS BYRD 4215 Richmond Spring Branch TX；Officers LOUIS BYRD president / director）+ 官网首页 / Contact（Virtual Protective LLC；License # B19488；244 FM 306 Ste 120-604 New Braunfels TX 78130；info@；830-542-2241）+ buzzfile（Spring Branch TX；≈8 人；Louis Byrd Prin）+ Google Play 开发者（jon@virtualprotective.com；New Braunfels）+ 官网 Solar Pole（7+ 年；SPP-2SP），2026-10-28 查；https://opencorporates.com/companies/us_tx/0802032860）：**
+
+- 法定名 / 登记号：VIRTUAL PROTECTIVE LLC（virtualprotective.com；德州 New Braunfels / Spring Branch；TX SoS 0802032860）— 2014-07-24 成立的工地 / 物业移动太阳能监控塔租赁 + 远程监控公司（SPP-2SP 太阳能杆机；≈8 人；TX 安保执照 B19488）；President Louis Byrd；研究档 KP Jonathan（Jon）Byrd 技术经理 = 收件人；Shopify 订单 90W PoE Injector（外购品） · TX SoS 0802032860 · 状态 **In Existence** · 成立 2014-07-24 · LLC（家族私有）
+- 行业码 / 经营范围：工地 / 物业移动太阳能监控塔租赁 + 远程视频监控（SIC 7382）
+- 注册地址：244 FM 306, Ste. 120-604, New Braunfels, TX 78130（登记代理 4215 Richmond Ave, Spring Branch, TX 78070）
+- 规模档：小微（≈8 人）
+- 账目：—；—
+- 高管：Louis Byrd — President / 注册代理人 = 拍板人
+- 高管：Jonathan (Jon) Byrd — Technical Manager = 研究档 KP = 收件人
+- 控制人 / 股东：Louis Byrd
+- **这意味着什么：**
+  - **自建太阳能监控塔的小运营商 → 采购型 small：一页纸（塔内小型工业 PoE：STI-054GP 4 PoE+1 GE / STI-144GP 4+1 SFP；宽温 DC 供电）一次后不动**；其「USA built / NDAA」是它自家口径，我方稿内不碰 NDAA
+  - 收件人 jon@ 直呼 Jon，抄 Louis；发信窗口 Wed 08–10 CT
+- 备注：采购型 small；一页纸后不动；坐实（TX SoS）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,15 +125,18 @@ updated: 2026-10-28
 - **【用户表】90W PoE Injector Shopify**
   > 90W PoE Injector外购品 / from: Shopify
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jonathan Byrd（）jon@virtualprotective.com 〔用户表〕
+- **KP**：Jonathan (Jon) Byrd（Technical Manager（Google Play 开发者联系人）= 收件人（第 106 批 官方登记核实 2026-10-28））jon@virtualprotective.com 〔用户表〕
+- **KP**：Louis Byrd（President / 注册代理人（TX SoS）= 拍板人（抄送）（第 106 批 官方登记核实 2026-10-28）） 〔https://opencorporates.com/companies/us_tx/0802032860〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | VIRTUAL PROTECTIVE LLC（TX SoS 0802032860；In Existence；TX 安保执照 B19488） |
+| 成立 | 2014-07-24（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 virtualprotective.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 virtualprotective.com，语言 en，快照状态 ok；角色判定来源：用户表；第 106 批：New Braunfels TX 工地 / 物业移动太阳能监控塔租赁 + 远程监控（SPP-2SP；≈8 人）→ **采购型 small；一页纸（塔内小型工业 PoE STI-054GP / STI-144GP）一次后不动**；其 NDAA 口径我方稿内不碰（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：建筑工地安防摄像与监控服务（德州）
 - **触达通道（公开）**：role: 工地安防监控服务商（美国，自建设备）；region: 美国；contact: jon@virtualprotective.com
@@ -175,7 +193,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jonathan Byrd | — | jon@virtualprotective.com | 调研核实（公开页） | 用户表 |
+| Jonathan (Jon) Byrd | Technical Manager（Google Play 开发者联系人）= 收件人（第 106 批 官方登记核实 2026-10-28） | jon@virtualprotective.com | 调研核实（公开页） | 用户表 |
+| Louis Byrd | President / 注册代理人（TX SoS）= 拍板人（抄送）（第 106 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://opencorporates.com/companies/us_tx/0802032860 |
+| Jonathan Byrd – Technical Manager | — | jon@virtualprotective.com / +8305837426 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

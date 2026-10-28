@@ -19,7 +19,7 @@
  "kp": [
   {
    "name": "Şahin Öztürk",
-   "role": "（ISAF 名片；职务待核）",
+   "role": "ISAF 名片（域名 shnrise.com 与 CESS 关系未证实）= 收件人（第 106 批 官方登记核实 2026-10-28）",
    "email": "sahin@shnrise.com（用户表）",
    "phone": "—",
    "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -33,10 +33,11 @@
   "level": "官网未检索到 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "CESS Güvenlik（待核）",
+  "legal_name": "CESS Güvenlik Sistemleri（cessguvenlik.com；İstanbul；MERSİS 未取 → 部分坐实；KP 域名 shnrise.com 无检索结果）",
   "hq": "Türkiye（待核）",
   "size": "待核",
-  "other": "域名 shnrise.com 与公司名不一致"
+  "other": "域名 shnrise.com 与公司名不一致；第 106 批：小型安防 / 弱电 / 网络安装商；ISAF 需求 SFP（不做）→ **一页纸（PoE 配套 + 说明光模块不在线上）一次后不动**；同名 Şahin Teknoloji Kocaeli / SHN Teknoloji ≠（第 106 批 官方登记核实 2026-10-28）",
+  "founded": "2018（第 106 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防（推测）"

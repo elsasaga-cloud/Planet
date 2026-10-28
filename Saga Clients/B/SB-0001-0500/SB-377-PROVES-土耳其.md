@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 106 批（TR · 1 次检索：find.com.tr（PROVES BİLGİ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ；Kuruluş 14 Şubat 2020 Cuma；Mansuroğlu Mah. 286/1 Sok. No:15/15 Bayraklı；税号 / MERSİS 字段为 1234567890 占位 → 不采）+ 官网首页 / İletişim（Proves Bilgi Teknolojileri A.Ş；Bornova Egemenlik Mah. 6188 Sok. No:51-2G；Buca 1058/6 Sk. No:5 D:1；bilgi@；+90 232 202 42 40）+ Lusha（A.Ş.；Zayıf Akım Sistemleri；Founded 2020）+ Serdar Karasu LinkedIn（Hanwha Vision Pamukkale 市政 150 摄像机案例）+ ZoomInfo（Founder；2020–present），2026-10-28 查；https://www.find.com.tr/Company/provesbilgiteknolojilerisanayiveticaretanonimsirketi）：**
+
+- 法定名 / 登记号：PROVES BİLGİ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ（proves.com.tr；伊兹密尔 Bayraklı 设立 → Bornova Egemenlik Mah. 6188 Sok. No:51-2G → 现 Buca Şirinkapı Mah. 1058/6 Sk. No:5）— 2020-02-14 设立的弱电 / IT 系统集成商（Hanwha Vision 案例：代尼兹利 Pamukkale 市政 150 台 Q 系列 + 3 NVR）；创始人 Serdar Karasu（= 研究档 KP）；MERSİS / 税号未取（find.com.tr 数字字段为模板占位，不采）→ 部分坐实；ZoomInfo「334 人」为错配，取小 · MERSİS 未取（A.Ş.） · 状态 **Active** · 成立 2020-02-14 · A.Ş.（多股东；私有）
+- 行业码 / 经营范围：弱电 / IT 系统集成（CCTV Hanwha、网络基础设施、服务器 / 备份、网络安全）
+- 注册地址：Şirinkapı Mah. 1058/6 Sk. No:5 D:1, Buca / İzmir（登记 Bayraklı → Bornova 迁址）
+- 规模档：小型（推定 5–20 人）
+- 账目：—；—
+- 高管：Serdar Karasu — 创始人 / 负责人 = 研究档 KP = 收件人（bilgi@）
+- 控制人 / 股东：Serdar Karasu
+- **这意味着什么：**
+  - **做市政级摄像机项目的 SI → 集成商 25%，B，加厚一次（small：STC-2224GP 24 口 300 W / STC-4424GCPM 配 150 台级摄像机项目 + STI-144GP 户外）**；稿内不点名 Hanwha
+  - 收件人 bilgi@ 点名 Serdar Bey；发信窗口 Thu 10–12 TRT
+- 备注：集成商 25%；B；加厚一次（small）；部分坐实（A.Ş. + 设立日期）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,17 +126,17 @@ updated: 2026-10-28
 - **【用户表】ISAF：要工业级交换机报价单**
   > 要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Serdar Karasu（Founder（LinkedIn/ZoomInfo 公开））bilgi@proves.com.tr（用户表） —〔https://www.zoominfo.com/p/Serdar-Karasu/8496040136〕
+- **KP**：Serdar Karasu（创始人 / 负责人（ZoomInfo Founder；LinkedIn）= 收件人本人（第 106 批 官方登记核实 2026-10-28））bilgi@proves.com.tr（用户表） —〔https://www.zoominfo.com/p/Serdar-Karasu/8496040136〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + LinkedIn 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Proves Bilgi Teknolojileri |
-| 成立 | 2020-02 |
+| 法定名称 | PROVES BİLGİ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ（find.com.tr；Bayraklı 设立 → Bornova → Buca；MERSİS 未取 → 部分坐实） |
+| 成立 | 2020-02-14（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Bayraklı / İzmir（ZoomInfo 地址 286/1 Sok. No:15） |
-| 其他 | Hanwha Vision 合作集成商；YouTube 频道 @provesbilgiteknolojileri |
+| 其他 | Hanwha Vision 合作集成商；YouTube 频道 @provesbilgiteknolojileri；第 106 批：弱电 / IT SI（Hanwha Vision 案例：Pamukkale 市政 150 摄像机）→ **集成商 25%，B，加厚一次（small：STC-2224GP / STC-4424GCPM + STI-144GP）**；ZoomInfo 334 人为错配（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 基础设施与网络安全集成；视频监控项目（Hanwha Vision）
 - **触达通道（公开）**：网站: https://www.proves.com.tr/；邮箱: bilgi@proves.com.tr（用户表）；LinkedIn: https://www.linkedin.com/in/serdar-karasu-ba433b1a4/
@@ -176,7 +190,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Serdar Karasu | Founder（LinkedIn/ZoomInfo 公开） | bilgi@proves.com.tr（用户表） / — | 调研核实（公开页） | https://www.zoominfo.com/p/Serdar-Karasu/8496040136 |
+| Serdar Karasu | 创始人 / 负责人（ZoomInfo Founder；LinkedIn）= 收件人本人（第 106 批 官方登记核实 2026-10-28） | bilgi@proves.com.tr（用户表） / — | 调研核实（公开页） | https://www.zoominfo.com/p/Serdar-Karasu/8496040136 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

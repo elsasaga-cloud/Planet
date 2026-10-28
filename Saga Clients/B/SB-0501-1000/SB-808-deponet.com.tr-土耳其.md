@@ -78,6 +78,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 106 批（TR · 1 次检索：官网 Hakkımızda（Deponet Elektronik Mamulleri Sanayi Pazarlama A.Ş.；1998 yılında kurulan；bayilere yönelik；Ruijie / Maipu / Allied Telesis / Teltonika / Nets / QuWireless / Formrack / Dptek / Acuteq / AEM / Noyafa / Leviton；2017 Ruijie En İyi Katma Değerli Distribütör）+ EMIS（Incorporation Date March 10, 1998；Kozyatağı Kadıköy 34742）+ 官网产品目录（厂商列表含 Planet、Ruckus Wireless、Aten；Yönetilebilir Layer 3 PoE Switch 分类）+ ZoomInfo（Hasan Kara Teknik Servis Müdürü 2017–present；11–50）+ netsnetwork.com İletişim（= Deponet Elektronik Mamulleri A.Ş.）+ 官网 İletişim（istanbul@deponet.com.tr；+90 216 384 36 37；安卡拉分部），2026-10-28 查；https://deponet.com.tr/hakkimizda/）：**
+
+- 法定名 / 登记号：Deponet Elektronik Mamulleri Sanayi Pazarlama A.Ş.（deponet.com.tr；伊斯坦布尔 Kadıköy Kozyatağı Sok. Parlarbaşoğlu Apt. No:28B + 安卡拉 Beştepe Via Tower 分部）— 1998-03-10 设立的网络产品进口分销商（面向经销商；Ruijie 2017 / 2018 全球「最佳增值分销商」、Maipu、Allied Telesis、Teltonika、Leviton、Ruckus、Aten、**Planet**；自有品牌 **Nets**（netsnetwork.com 联系方即 Deponet））；11–50 人；技术服务经理 Hasan Kara（2017 起）；表内无跟进记录；坐实（EMIS 设立日期） · MERSİS 未取（A.Ş.；EMIS 1998-03-10） · 状态 **Active** · 成立 1998-03-10 · A.Ş.（私有；两地办公）
+- 行业码 / 经营范围：网络设备进口分销（经销商渠道；Ruijie / Maipu / Allied Telesis / Planet / Teltonika / Leviton）+ 自有品牌 Nets
+- 注册地址：Kozyatağı Mah. Kozyatağı Sok. Parlarbaşoğlu Apt. No:28B, 34742 Kadıköy / İstanbul（安卡拉 Beştepe Mah. Nergis Sok. No:7 Via Tower No:44）
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Hasan Kara — Teknik Servis Müdürü（2017 起）= 技术把关人（抄）
+- 高管：（未具名）— 产品 / 采购经理 = 收件人（istanbul@ 点名 satın alma / ürün müdürü）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已卖 Planet + Ruijie 的渠道分销商 + 自有品牌 Nets → 贴标 OEM 30% 可谈（Nets 标 PoE / 工业线）+ 分销 20%（Planet 价位替代），B BIG，加厚一次；升 A 候选（回信即 A）**；稿内不点名 Planet / Ruijie
+  - 收件人 istanbul@ 点名「ürün müdürü / satın alma」，抄 Hasan Kara；切口「a second PoE / industrial line under your Nets label」；发信窗口 Thu 10–12 TRT
+- 备注：贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；升 A 候选；坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,14 +120,17 @@ updated: 2026-10-28
 - **【官网快照】Deponet 首页**
   > Deponet Elektronik Mamulleri A.Ş. ; Network Teknoloji Ürünleri ; Bilişim Sektöründeki Deponuz ; maipu-urunlerinin-tanitim-toplantisi
   > 来源：https://deponet.com.tr/（抓取 2026-10-21）
+- **KP**：Hasan Kara（Teknik Servis Müdürü（2017 起；ZoomInfo）= 技术把关人（抄送）（第 106 批 官方登记核实 2026-10-28）） 〔https://www.zoominfo.com/p/Hasan-Kara/-1038805985〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Deponet Elektronik Mamulleri Sanayi Pazarlama A.Ş.（EMIS 1998-03-10；Kadıköy Kozyatağı Sok. Parlarbaşoğlu Apt. No:28B + 安卡拉 Via Tower 分部；MERSİS 未取） |
+| 成立 | 1998-03-10（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 deponet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 deponet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 106 批：网络产品进口分销商（Ruijie 2017 / 2018 全球最佳 VAD、Maipu、Allied Telesis、Teltonika、Leviton、Planet）+ **自有品牌 Nets** → **贴标 OEM 30% 可谈（Nets 标 PoE / 工业线）+ 分销 20%（Planet 价位替代），B BIG，加厚一次；升 A 候选（回信即 A）**；收件人 istanbul@ 点名 ürün müdürü / satın alma；稿内不点名 Planet / Ruijie（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络技术产品分销
 - **触达通道（公开）**：role: 网络产品分销商（土耳其，多品牌）；region: 土耳其；contact: info@deponet.com.tr
@@ -172,7 +190,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@deponet.com.tr | 用户表原值 | Clients/ 表 |
+| Hasan Kara | Teknik Servis Müdürü（2017 起；ZoomInfo）= 技术把关人（抄送）（第 106 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.zoominfo.com/p/Hasan-Kara/-1038805985 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -207,7 +225,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；土耳其主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -224,7 +242,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

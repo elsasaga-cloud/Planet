@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,6 +75,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 106 批（TR · 1 次检索：cessguvenlik.com Hakkımızda（CESS Güvenlik Sistemleri, 2018 yılından bu yana；CCTV / hırsız alarmı / yangın ihbar / geçiş kontrol / biometrik / kablolu ve kablosuz network altyapı / ses sistemleri；İstanbul Tekel bayileri 摄像机强制新闻）；shnrise.com 未命中；shngroup.net（Kocaeli Şahin Teknoloji 2008）/ shn.com.tr（SHN Teknoloji）为同名他家不采，2026-10-28 查；https://www.cessguvenlik.com/hakkimizda/）：**
+
+- 法定名 / 登记号：CESS Güvenlik Sistemleri（cessguvenlik.com；伊斯坦布尔；2018 起 CCTV / 报警 / 火灾 / 门禁 / 有线无线网络基础设施安装）— 用户表公司名「CESS Govalik」= CESS Güvenlik 对上；ISAF 名片 Şahin Öztürk 的域名 shnrise.com 无任何检索结果、与 CESS 的关系未能证实（同名 Şahin Teknoloji Kocaeli / SHN Teknoloji 均 ≠）→ 部分坐实；需求为光收发器（非 Saga 品类） · MERSİS 未取 · 状态 **Active（官网在线）** · 成立 2018 · 未取（小型安装商）
+- 行业码 / 经营范围：安防 / 弱电 / 网络基础设施安装（伊斯坦布尔小型）
+- 注册地址：İstanbul（具体地址未取）
+- 规模档：小微
+- 账目：—；—
+- 高管：Şahin Öztürk — ISAF 名片（sahin@shnrise.com；与 CESS 关系未证实）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **小安装商 + 需求是 SFP（不做）→ 一页纸（PoE 配套 STC-028GP / STC-228GP，顺带说明光模块不在线上）一次后不动**
+  - 收件人 sahin@shnrise.com；发信窗口 Thu 10–12 TRT
+- 备注：集成商 small；一页纸后不动；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -97,16 +111,17 @@ updated: 2026-10-27
 - **【用户表】ISAF：最主要问了收发器**
   > 最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Şahin Öztürk（（ISAF 名片；职务待核））sahin@shnrise.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Şahin Öztürk（ISAF 名片（域名 shnrise.com 与 CESS 关系未证实）= 收件人（第 106 批 官方登记核实 2026-10-28））sahin@shnrise.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 官网未检索到 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | CESS Güvenlik（待核） |
+| 法定名称 | CESS Güvenlik Sistemleri（cessguvenlik.com；İstanbul；MERSİS 未取 → 部分坐实；KP 域名 shnrise.com 无检索结果） |
+| 成立 | 2018（第 106 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Türkiye（待核） |
-| 其他 | 域名 shnrise.com 与公司名不一致 |
+| 其他 | 域名 shnrise.com 与公司名不一致；第 106 批：小型安防 / 弱电 / 网络安装商；ISAF 需求 SFP（不做）→ **一页纸（PoE 配套 + 说明光模块不在线上）一次后不动**；同名 Şahin Teknoloji Kocaeli / SHN Teknoloji ≠（第 106 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防（推测）
 - **触达通道（公开）**：邮箱: sahin@shnrise.com（用户表）
@@ -157,7 +172,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Şahin Öztürk | （ISAF 名片；职务待核） | sahin@shnrise.com（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Şahin Öztürk | ISAF 名片（域名 shnrise.com 与 CESS 关系未证实）= 收件人（第 106 批 官方登记核实 2026-10-28） | sahin@shnrise.com（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | SAHIN OZTURK | CEO | sahin@shnrise.com / +08508406801 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -239,12 +254,12 @@ updated: 2026-10-27
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
