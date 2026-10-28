@@ -1,7 +1,7 @@
-# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
-destek@artsistem.com · Bayi Başvurusu · B2B Giriş · TR EN
+destek@artsistem.com · Bayi Başvurusu · B2B Giriş
 Kurumsal Markalar Ürün Kategorileri Çözümler Araçlar E-Hizmetler Haberler İletişim
 B2B Giriş
 Bilgisayar
@@ -47,7 +47,7 @@ Uranium
 2010 · PSU, kasa
 Sensei
 2010 · Çevre birimi
-135 markanın tamamı A'dan Z'ye.
+137 markanın tamamı A'dan Z'ye.
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Dell 2025 · En Çok Ciro Yapan Ara Dağıtıcı Türkiye'nin Lider Teknoloji Dağıtıcısı
@@ -60,10 +60,10 @@ Stokta
 Yeni Geldi Pny Pny Spark Dgxspark-Founedit-EU GB10 Blackwell GPU 128GB DDR5 NVIDIA Dgx OS Yapay Zeka Bilgisayar
 Stokta · Yeni eklendi
 Ürünü İncele
-Öne Çıkan Marka Lenovo
-1.872 ürün
-Lenovo Ürünleri
-Son Haber Dell AI Factory, GTC Berlin'de Yeni Rack'lerle Büyüyor
+Öne Çıkan Marka Seagate
+660 ürün
+Seagate Ürünleri
+Son Haber Dell AI Data Platform'a Semantik Katman Geldi
 27 Ekim 2026
 Haberi Oku
 22 +
@@ -74,6 +74,12 @@ Dağıtılan Marka
 Kayıtlı Bayi
 3 Şube
 İstanbul · Ankara · Gaziantep
+Duyurular
+Bayilere Özel Duyurular
+Kampanyalar, yeni ürünler, etkinlikler — bayi ağımıza özel açıklamalar.
+Tüm Duyurular
+Duyuru 27 Eki 2026 Sektörde Fark Yaratan Başarımızla Ödüle Layık Görüldük
+Art Sistem, Logitech iş ortaklığında 'Türkiye Genelinde En Yaygın Satan Ara Dağıtıcı' ödülüne layık görüldü. 50+ ürün çeşidiyle gurur verici başarı.
 Ürün Kategorileri
 Öne Çıkan Kategoriler
 30.000'i aşkın ürün; hepsi tek B2B portal üzerinden. Stok durumu, fiyat ve teknik dokümanlar bayi panelinden anlık.
@@ -83,9 +89,9 @@ Bilgisayar Parçaları
 Güvenlik Ürünleri
 889 ürün
 Ağ Ürünleri
-746 ürün
+747 ürün
 Baskı Çözümleri
-107 ürün
+105 ürün
 Barkod Ürünleri
 102 ürün
 Enerji & UPS
@@ -101,10 +107,10 @@ Seagate
 2 TB Seagate 3.5 SkyHawk SATA 5900RPM 256MB 7/24 Guvenlik ST2000VX017 (3 Yıl Resmi Dist Garantili)
 Hikvision
 Hikvision DS-2CD1041G2-LIUF 4MP 2.8MM 20 Metre Smart Hybrid Light İnsan Algilama Dahili Mikrofon Bullet IP Kamera
-Tiwox
-Tiwox TP-7610 18.5" I7 10.NESİL(10710) 128GB NWME SSD 8GB DDR4 RAM 1366X768 Dokunmatik POS PC
 Leaderhub
 Leaderhub AD8 32GB 1TB SSD RYZEN7 H255 Wi-Fi Bt W11 Pro Mini PC
+Tiwox
+Tiwox TP-7610 18.5" I7 10.NESİL(10710) 128GB NWME SSD 8GB DDR4 RAM 1366X768 Dokunmatik POS PC
 Ruijie
 Ruijie Reyee RG-EST100-E 2.4GHZ 300MBPS 500 Metre Ptp 70 Derece Dış Ortam 2 Li Set Access Point(Adaptörlü)
 Xprinter
@@ -139,7 +145,7 @@ Logitech
 TP-Link
 Dahua
 SanDisk
-Twinmos
+Brother
 Microsoft
 Epson
 Intel
@@ -184,7 +190,7 @@ Detaylar
 Gaziantep
 Bölge Şubesi
 Mücahitler Mahallesi 52075 Nolu Sokak N:8A Nur Apartmanı
-Şehitkamil / Gaziantep
+27090 Şehitkamil / Gaziantep
 📞 (0212) 552 52 42
 Detaylar
 Güncel
@@ -193,16 +199,16 @@ Haberler ve Duyurular
 Tüm Haberler
 Marka Duyurusu
 27 Ekim 2026
-Dell AI Factory, GTC Berlin'de Yeni Rack'lerle Büyüyor
-Dell, NVIDIA GTC Berlin'de Vera CPU ve Groq 3 LPU tabanlı yeni PowerEdge rack'leriyle AI Factory portföyünü genişletti.
+Dell AI Data Platform'a Semantik Katman Geldi
+Dell, AI Data Platform'u semantik katman, cuDF GPU hızlandırma ve 500 kiracılı PowerScale desteğiyle güçlendirdi.
+Duyuru
+27 Ekim 2026
+Sektörde Fark Yaratan Başarımızla Ödüle Layık Görüldük
+Art Sistem, Logitech iş ortaklığında 'Türkiye Genelinde En Yaygın Satan Ara Dağıtıcı' ödülüne layık görüldü. 50+ ürün çeşidiyle gurur verici başarı.
 İnceleme
-26 Ekim 2026
-AMD FSR 4.1, RDNA 2 Kartlarda Test Edildi
-AMD'nin FSR 4.1 güncellemesi RDNA 2 ekran kartlarına geldi. Hardware Unboxed testlerinde performans ve görüntü kalitesi karşılaştırıldı.
-Marka Duyurusu
-26 Ekim 2026
-Intel, Crescent Island GPU D-Series'i tanıttı
-Intel, OCP Global Summit'te Crescent Island adını verdiği Xe3P tabanlı GPU D-Series'i duyurdu; 480GB belleğe kadar çıkıyor.
+27 Ekim 2026
+RX 9070 XT, 50+ Oyunda 7900 XTX'i Nasıl Geçti?
+Hardware Unboxed, Radeon RX 9070 XT ile 7900 XTX'i 50'den fazla oyunda karşılaştırdı. İşte öne çıkan sonuçlar.
 5.000+ Bayinin Arasına Katılın
 Bayi başvurunuzu üç adımda tamamlayın — 48 saat içinde geri dönüş.
 Bayi Başvurusu Bayilik Evrakları
@@ -216,4 +222,4 @@ Bayi
 Bayi Başvurusu Evraklar B2B Portal (pcbayi.com) Garanti Sorgulama SSS Destek Talep Et
 Yasal
 KVKK Gizlilik Bildirimi Çerez Politikası Kullanım Şartları
-© 2026 Art Sistem · Tüm Hakları Saklıdır
+© 2026 Art Sistem · Tüm Hakları Saklıdır Art Sistem Bilgisayar ve Güvenlik Teknolojileri Ltd. Şti. · MERSİS: 0085030634800001

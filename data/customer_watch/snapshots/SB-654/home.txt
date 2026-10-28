@@ -1,4 +1,4 @@
-# SB-654 davantel.com · home · https://www.davantel.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-654 davantel.com · home · https://www.davantel.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Soluciones avanzadas para telecomunicaciones corporativas - Davantel
 Saltar al contenido
 Menú
@@ -540,6 +540,7 @@ Productos
 Routers Teltonika
 Routers Robustel
 Industrial edge computing gateways
+Gateways LoRaWAN
 Tarjetas SIM IoT prepago
 Trackers Teltonika
 Casos de Uso

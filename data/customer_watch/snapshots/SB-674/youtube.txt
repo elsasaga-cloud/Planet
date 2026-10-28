@@ -1,4 +1,4 @@
-# SB-674 noxel.pl · youtube · https://www.youtube.com/@technicznynoxel · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-674 noxel.pl · youtube · https://www.youtube.com/@technicznynoxel · fetched 2026-10-28T08:44:48Z · HTTP 200
 2024-07-07T10:06:13+00:00	Kamera obrotowa z autotrackingiem HiLook. Omówienie, Obraz i Konfiguracja.	https://www.youtube.com/watch?v=H6Hpw7-FH6k
 2024-06-30T20:57:56+00:00	Zarządzanie kamerami w rejestratorze z wbudowanym switchem POE.	https://www.youtube.com/watch?v=oU04pUmAgds
 2024-02-05T11:00:11+00:00	Jak przedłużyć kabel do kamery ? 3 proste sposoby.	https://www.youtube.com/watch?v=EBsRe6xLI0Y

@@ -1,7 +1,7 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-10-28T08:44:48Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
-destek@artsistem.com · Bayi Başvurusu · B2B Giriş · TR EN
+destek@artsistem.com · Bayi Başvurusu · B2B Giriş
 Kurumsal Markalar Ürün Kategorileri Çözümler Araçlar E-Hizmetler Haberler İletişim
 B2B Giriş
 Bilgisayar
@@ -47,11 +47,20 @@ Uranium
 2010 · PSU, kasa
 Sensei
 2010 · Çevre birimi
-135 markanın tamamı A'dan Z'ye.
+137 markanın tamamı A'dan Z'ye.
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 41 içerik).
+Sektörden güncel haberler ve analizler ( 44 içerik).
+Marka Duyurusu Dell AI Data Platform'a Semantik Katman Geldi
+Dell, AI Data Platform'u semantik katman, cuDF GPU hızlandırma ve 500 kiracılı PowerScale desteğiyle güçlendirdi.
+27 Ekim 2026
+Duyuru duyuru Sektörde Fark Yaratan Başarımızla Ödüle Layık Görüldük
+Art Sistem, Logitech iş ortaklığında 'Türkiye Genelinde En Yaygın Satan Ara Dağıtıcı' ödülüne layık görüldü. 50+ ürün çeşidiyle gurur verici başarı.
+27 Ekim 2026
+İnceleme RX 9070 XT, 50+ Oyunda 7900 XTX'i Nasıl Geçti?
+Hardware Unboxed, Radeon RX 9070 XT ile 7900 XTX'i 50'den fazla oyunda karşılaştırdı. İşte öne çıkan sonuçlar.
+27 Ekim 2026
 Marka Duyurusu Dell AI Factory, GTC Berlin'de Yeni Rack'lerle Büyüyor
 Dell, NVIDIA GTC Berlin'de Vera CPU ve Groq 3 LPU tabanlı yeni PowerEdge rack'leriyle AI Factory portföyünü genişletti.
 27 Ekim 2026
@@ -133,15 +142,6 @@ Samsung, Galaxy S25 serisi için Android 17 altyapısına dayanan One UI 9'u tes
 Marka Duyurusu Intel Arc GPU Serisinin Geleceği Netleşiyor
 Intel, Arc GPU serisini sürdüreceğini açıkladı. Battlemage mimarisiyle yeni nesil ekran kartları yolda; şirket ayrık GPU pazarından çekilmiyor.
 08 Haziran 2026
-Ürün Lansmanı TP-Link'ten İlk Wi-Fi 8 Router: Archer 8 Ekimde Geliyor
-TP-Link, Wi-Fi 8 standardını destekleyen ilk router modeli Archer 8'i ekim ayında piyasaya sürüyor. Yeni nesil standart, Wi-Fi 7'ye kıyasla daha kararlı bağlantı ve düşük gecikme vaat ediyor.
-30 Mayıs 2026
-Sektör Haberi HP: Müşterilerin Yüzde 30'u Hâlâ Windows 10'da
-HP, müşteri tabanının yüzde 30'unun hâlâ Windows 10 kullandığını açıkladı. Destek süresi dolan sistem, kurumsal geçiş baskısını artırıyor.
-30 Mayıs 2026
-İnceleme Dell PowerStore Elite: Kurumsal Depolamada Yeni Çıta
-Dell PowerStore Elite, PCIe Gen 5, DDR5 bellek ve PowerStore OS 5.0 ile kurumsal depolama pazarında yeni bir performans standardı belirliyor.
-30 Mayıs 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp
 Kurumsal
@@ -152,4 +152,4 @@ Bayi
 Bayi Başvurusu Evraklar B2B Portal (pcbayi.com) Garanti Sorgulama SSS Destek Talep Et
 Yasal
 KVKK Gizlilik Bildirimi Çerez Politikası Kullanım Şartları
-© 2026 Art Sistem · Tüm Hakları Saklıdır
+© 2026 Art Sistem · Tüm Hakları Saklıdır Art Sistem Bilgisayar ve Güvenlik Teknolojileri Ltd. Şti. · MERSİS: 0085030634800001

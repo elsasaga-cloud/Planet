@@ -1,4 +1,4 @@
-# SB-1064 portdepo.ru · home · https://portdepo.ru/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+# SB-1064 portdepo.ru · home · https://portdepo.ru/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Беспроводное Wi-Fi оборудование Ubiquiti, MikroTik в России
 РЕГИСТРИРУЙСЯ И ПОЛУЧИ СКИДКУ СЕЙЧАС
 ×
@@ -263,7 +263,7 @@ WI-FI 6 РОУТЕРЫ 1
 Модель: U7-Outdoor
 Точка доступа Ubiquiti UniFi U7 Outdoor (U7-Outdoor)
 Ubiquiti U7 Outdoor — Точка доступа Wi‑Fi 7 (UniFi)ОбзорU7 Outdoor — это мощная уличная точка доступа Wi‑Fi 7 от Ubiquiti Inc., созданная для развёрты..
-27100 руб.
+28300 руб.
 Купить сейчас ">
 Купить сейчас
 По запросу ">
@@ -274,7 +274,7 @@ Ubiquiti U7 Outdoor — Точка доступа Wi‑Fi 7 (UniFi)ОбзорU7 
 Новый
 Модель: UVC-G6-Pro-360-W
 Видеокамера Ubiquiti UniFi Protect G6 Pro 360 (UVC-G6-Pro-360-W)
-Камера G6 Pro 360 оснащена 12-мегапиксельным сенсором формата 1/1.6", обеспечивающим чёткое панорамное изображение на 360°. Она подходит для использов..
+Ubiquiti UniFi Protect G6 Pro 360, белая (UVC-G6-Pro-360-W) — всепогодная вандалозащищённая панорамная 12MP PoE+ камера с обзором 360° и Multi-TOPS AI..
 77200 руб.
 В корзину ">
 В корзину
@@ -292,8 +292,8 @@ Ubiquiti Cloud Gateway Ultra (UCG-Ultra) — Компактный мульти-W
 Быстрый просмотр
 Модель: RB760iGS
 MikroTik hEX S (RB760iGS)
-hEX S - это пятипортовый маршрутизатор с портами Gigabit Ethernet , где беспроводная связь не требуется. По сравнению с hEX, у hEX S появился пор..
-8500 руб.
+MikroTik hEX S (RB760iGS) — компактный проводной маршрутизатор с 5×GbE, SFP, PoE-out и RouterOS L4ОбзорMikroTik hEX S (RB760iGS) — это компактный пров..
+8400 руб.
 В корзину ">
 В корзину
 В закладки
@@ -303,7 +303,7 @@ hEX S - это пятипортовый маршрутизатор с порта
 Модель: UNAS-4-W
 UniFi UNAS 4 White (UNAS-4-W)
 Ubiquiti UniFi UNAS 4 — Сетевое хранилище (NAS) с 4 отсеками для дисков и ускорением NVMeОбзорUNAS 4 — это настольное сетевое хранилище (NAS) от Ubiqu..
-57800 руб.
+60000 руб.
 В корзину ">
 В корзину
 В закладки
@@ -313,8 +313,10 @@ Ubiquiti UniFi UNAS 4 — Сетевое хранилище (NAS) с 4 отсе�
 Радиомост Ubiquiti AirFiber 5U (AF-5U)
 Ubiquiti airFiber 5U — Радиорелейная станция PtPОбзорairFiber 5U — это высокопроизводительная радиорелейная станция для соединений «точка-точка» (PtP)..
 198900 руб.
-В корзину ">
-В корзину
+Купить сейчас ">
+Купить сейчас
+По запросу ">
+По запросу
 В закладки
 В сравнение
 Быстрый просмотр
@@ -332,7 +334,7 @@ Ubiquiti AF60-XG — Радиомост PtP 60 ГГц с резервным ка
 Модель: U7-Pro-XG-B
 Точка доступа Ubiquiti UniFi U7 Pro XG Black (U7-Pro-XG-B)
 Ubiquiti UniFi U7-Pro-XG — Потолочная 6-потоковая точка доступа Wi‑Fi 7 (10/5/2.5/1 GbE)ОбзорU7‑Pro‑XG — это потолочная 6-потоковая точка доступа Wi‑F..
-28500 руб.
+29600 руб.
 Купить сейчас ">
 Купить сейчас
 По запросу ">
@@ -342,7 +344,7 @@ Ubiquiti UniFi U7-Pro-XG — Потолочная 6-потоковая точк�
 Быстрый просмотр
 Модель: RD-5G31-AC
 Антенна Ubiquiti RocketDish 5G-31 AC (RD-5G31-AC)
-Ubiquiti RD-5G31-AC — Параболическая антенна MIMO 2×2ОбзорRD-5G31-AC — мощная параболическая MIMO 2×2 антенна, работающая в частотном диапазоне 5..
+Ubiquiti airMAX AC RocketDish 5 ГГц 31 дБи (RD-5G31-AC) — параболическая антенна для радиомостовОбзорUbiquiti RD-5G31-AC — это параболическая антенна ..
 42200 руб.
 В корзину ">
 В корзину
@@ -351,7 +353,7 @@ Ubiquiti RD-5G31-AC — Параболическая антенна MIMO 2×2О�
 Быстрый просмотр
 Модель: USW-WAN
 Коммутатор Ubiquiti UniFi WAN Switch (USW-WAN)
-Ubiquiti USW-WAN — это 10-гигабитный WAN-коммутатор, разработанный для сетей высокой доступности. Он объединяет подключение двух облачных шлюзов UniFi..
+Ubiquiti UniFi Switch WAN (USW-WAN) — модуль для резервирования WAN с 3 портами 10G SFP+ и двумя блоками питанияОбзорUbiquiti UniFi Switch WAN (USW-WA..
 36800 руб.
 В корзину ">
 В корзину
@@ -360,7 +362,7 @@ Ubiquiti USW-WAN — это 10-гигабитный WAN-коммутатор, р
 Быстрый просмотр
 Модель: CRS504-4XQ-IN
 Mikrotik CRS504-4XQ-IN (CRS504-4XQ-IN)
-MikroTik CRS504-4XQ-IN: Высокоскоростной коммутатор для современных инфраструктурКоммутатор MikroTik CRS504-4XQ-IN разработан специально для центров о..
+MikroTik CRS504-4XQ-IN — компактный 100-гигабитный коммутатор Cloud Router Switch с 4×QSFP28 и многоуровневым резервированием питанияОбзорMikroTik CRS..
 78500 руб.
 В корзину ">
 В корзину
@@ -379,7 +381,7 @@ Ubiquiti UniFi Dream Router 7 (UDR7) — Настольный 10G Cloud Gateway 
 Быстрый просмотр
 Модель: CSS610-8P-2S+IN
 MikroTik CSS610-8P-2S+IN (CSS610-8P-2S+IN)
-CSS610-8P-2S+IN — один из самых универсальных переключателей на рынке. Он идеально подходит для самых разнообразных конфигураций: от домашних сетей и ..
+MikroTik CSS610-8P-2S+IN — компактный PoE-коммутатор Cloud Smart Switch с 8×GbE PoE-out, 2×SFP+ 10G и SwOS LiteОбзорMikroTik CSS610-8P-2S+IN — это ком..
 23700 руб.
 В корзину ">
 В корзину
@@ -389,7 +391,7 @@ CSS610-8P-2S+IN — один из самых универсальных пере
 Модель: U7-Lite
 Точка доступа Ubiquiti UniFi U7 Lite (U7-Lite)
 Ubiquiti UniFi U7 Lite — Точка доступа Wi‑Fi 7 (UniFi)ОбзорUniFi U7 Lite — это новейшая точка доступа от Ubiquiti Inc., разработанная для дома, малого..
-12800 руб.
+12600 руб.
 В корзину ">
 В корзину
 В закладки
@@ -407,7 +409,7 @@ Ubiquiti UniFi Dream Machine Pro (UDM-Pro) — Корпоративное сет
 Модель: U7-Pro-Outdoor
 Точка доступа UBIQUITI UniFi U7 Pro Outdoor (U7-Pro-Outdoor)
 Ubiquiti U7-Pro-Outdoor — Всепогодная точка доступа Wi‑Fi 7 (UniFi)ОбзорU7-Pro-Outdoor — высокопроизводительная всепогодная точка доступа Wi‑Fi 7 от U..
-38200 руб.
+38900 руб.
 Купить сейчас ">
 Купить сейчас
 По запросу ">
@@ -417,7 +419,7 @@ Ubiquiti U7-Pro-Outdoor — Всепогодная точка доступа Wi�
 Быстрый просмотр
 Модель: RBDisc-5nD
 MikroTik DISC Lite5 (RBDisc-5nD)
-MikroTik DISC Lite5 (модель RBDisc-5nD) — это Wi-Fi точка доступа на 5 ГГц, которую используют для создания Wi-Fi мостов до&n..
+MikroTik DISC Lite5 (RBDisc-5nD) — уличная точка доступа/клиент 5 ГГц с встроенной антенной 21 дБи и RouterOS L3ОбзорMikroTik DISC Lite5 (RBDisc-5nD) ..
 11600 руб.
 В корзину ">
 В корзину
@@ -428,7 +430,7 @@ MikroTik DISC Lite5 (модель RBDisc-5nD) — это Wi-Fi точка дос
 Модель: U7-Pro
 Точка доступа Ubiquiti UniFi U7 Pro (U7-Pro)
 Точка доступа Ubiquiti UniFi U7 Pro (U7-Pro)Ubiquiti UniFi U7 Pro — Точка доступа Wi‑Fi 7 (UniFi)ОбзорUniFi U7 Pro — это высокопроизводительная потоло..
-23900 руб.
+23700 руб.
 В корзину ">
 В корзину
 В закладки
@@ -459,7 +461,7 @@ MikroTik ROSE Data Server (RDS2216-2XG-4S+4XS-2XQ)
 Бестселлер
 Радиомост Ubiquiti PowerBeam M2-400 (PBE-M2-400)
 Ubiquiti PowerBeam M2-400 — Беспроводной мост PtP/PtMPОбзорUbiquiti PowerBeam M2 — это устройство беспроводного моста 2,4 ГГц, 18 дБи с пропускной спо..
-9100 руб.
+9500 руб.
 В корзину ">
 В корзину
 В закладки
@@ -478,14 +480,14 @@ Ubiquiti U6 Professional (U6-Pro) — Высокопроизводительна
 Бестселлер
 Радиомост Ubiquiti LiteBeam 5AC Gen2 (LBE-5AC-Gen2)
 Ubiquiti LiteBeam 5ac Gen2 — Клиентское устройство airMAX acОбзорLiteBeam 5ac Gen2 (LBE-5AC-Gen2) — сверхлёгкое CPE-устройство airMAX ac с доступной ц..
-10000 руб.
+10400 руб.
 В корзину ">
 В корзину
 В закладки
 В сравнение
 Быстрый просмотр
 Коммутатор Ubiquiti UniFi Switch Lite 8 PoE (USW-Lite-8-POE)
-UniFi Switch Lite 8 PoE - это полностью управляемый коммутатор Layer 2 с восемью портами Gigabit Ethernet для ваших устройств RJ45 Ethernet. Четыре по..
+Ubiquiti UniFi Switch Lite 8 PoE (USW-Lite-8-POE) — Управляемый L2-коммутатор с 8 портами Gigabit и 4 портами PoE+ОбзорUbiquiti UniFi Switch Lite 8 Po..
 14900 руб.
 В корзину ">
 В корзину
@@ -519,5 +521,4 @@ PowerBeam 5AC GEN2 — Беспроводная точка доступа Ubiqui
 В закладки
 В сравнение
 Быстрый просмотр
-Маршрутизатор Ubiquiti UniFi Dream Machine (UDM)
-Ubiquiti UniFi Dream Machine (UDM) — 
+Маршрутизатор Ubiq

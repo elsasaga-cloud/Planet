@@ -1,4 +1,4 @@
-# SA-040 success-network.co.th · home · https://www.success-network.co.th/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SA-040 success-network.co.th · home · https://www.success-network.co.th/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Success Network and Communication ศูนย์อุปกรณ์เน็ตเวิร์คระบบไอที
 Skip to content
 หน้าแรก
@@ -177,7 +177,7 @@ Network
 Computer & Data
 Telecomm
 (สามารถเลือกได้มากกว่า 1 ข้อ)
-งบประมาณที่คุณตั้งไว้ กรอกเบอร์ติดต่อและสอบถามข้อมูลสินค้าเพิ่มเติมได้ที่นี่ อีเมลติดต่อ
+สกุล อีเมลติดต่อ งบประมาณที่คุณตั้งไว้
 แบรนด์สินค้าที่คุณสนใจ TVT
 IR (Scene)
 Uni-Ubi
@@ -218,9 +218,9 @@ Product
 การเลือกใช้อุปกรณ์ IR หรือ Infrared ให้เหมาะสมตามสถานการณ์ต่างๆ
 Anviz Core Technology
 Software (VMS) สำหรับกล้องวงจรปิด กับ Server ทำอะไรได้บ้าง
-ภาพเข้าร่วมงานประชุมวิชาการ “การบริหารจัดการวิกฤตด้านความมั่นคงปลอดภัยต่อโครงสร้างพื้นฐานสำคัญ
 NMS (Network Management System) เครื่องมือดูแลสุขภาพระบบเครือข่าย
-การสร้าง/พัฒนา AI อย่าง ChatGPT อาจทำให้แรงงานกว่า 300 ล้านคนต้องตกงาน
+ภาพเข้าร่วมงานประชุมวิชาการ “การบริหารจัดการวิกฤตด้านความมั่นคงปลอดภัยต่อโครงสร้างพื้นฐานสำคัญ
+ระบบการจัดการพลังงานทดแทน (Renewables Management System)
 ช่องทางติดต่อ
 Success Network and Communication Co.,Ltd
 @success_network

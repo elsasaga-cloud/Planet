@@ -1,4 +1,4 @@
-# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 CCTV Cameras, Alarm Systems and Security Kits | Setik - Setik.biz
 
 Menu
@@ -363,9 +363,10 @@ SERVICES
 BRAND PRICELISTS
 Download OFFICIAL PRICELISTS of our brands!
 PROMO SETIK
-IMOU LIFE | PROMOTIONS
-Discover all the official IMOU promotions available on our e-commerce store:
-Wi-Fi cameras, video surveillance kits, smart home solutions and much mo...
+DAHUA | PROMOTIONS
+DAHUA SDT SERIES | EXTRA 10% AND QUANTITY DISCOUNTS
+CODE: DAHUA-EXTRA-10
+...
 FIND AN INSTALLER
 Looking for an installer
 near you?
@@ -391,7 +392,10 @@ VIEW PRICE
 from
 35,09 €
 -10%
-Available from 30 October 2026
+
+IN STOCK: 20
+Pieces
+*}
 BEST PRICE
 LH5541UHS-B2 - iiyama 55 inch 4k UHD IPS Monitor - Media Player - LAN
 The iiyama ProLite LH5541UHS-B2 55" 4K UHD monitor is designed for 24/7 digital signage applications, combining reliability, visual quality and versatility. The IPS panel ensures brilliant colours and wide viewing angles, ideal for public, corporate and retail environments. The integrated USB media player allows standalone content playback without the use of external devices. It supports LAN and RS232 control for centralised management, and can be installed in both landscape and portrait orientation. Stylish and robust, it is the perfect solution for high-impact digital communications.
@@ -462,7 +466,7 @@ from
 38,72 €
 -57%
 
-IN STOCK: 119
+IN STOCK: 118
 Pieces
 *}
 IN PROMOTION
@@ -484,12 +488,9 @@ Soluzioni per casa, uffici, negozi, aziende e grandi infrastrutture
 Spedizioni rapide in tutta Europa e catalogo multilingua
 Popular Brands
 PROMO SETIK
-HIKVISION | SPECIAL OFFERS
-```
-LOWEST PRICE IN EUROPE
-Hikvision DS-KIS604-S | The smart video intercom for your home
-```
-S...
+AJAX SYSTEMS | PROMOTIONS
+Discover all the official AJAX Systems promotions available on our e-commerce site:
+alarm control panels, motion sensors, magnetic contacts, sirens, ...
 FIND AN INSTALLER
 Looking for an installer
 near you?
@@ -531,4 +532,4 @@ Compare Now ( 0 )‎
 Some text in the modal.
 Chiudi
 Aggiunta al Carrello
-This site uses cook
+This site uses cookies. By continuing to browse the 

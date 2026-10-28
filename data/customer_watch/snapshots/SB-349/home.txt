@@ -1,4 +1,4 @@
-# SB-349 dualcomm.com · home · https://www.dualcomm.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-349 dualcomm.com · home · https://www.dualcomm.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Network Taps for Capturing and Monitoring Network Traffic
 – Dualcomm
 Skip to content
@@ -76,7 +76,7 @@ $209.95
 Sale price
 $209.95
 Sale
-Dual-Mode Failsafe 10/100/1000Base-T Network TAP
+Dual-Mode Failsafe 10/100/1000Base-T Network TAP / Bypass Switch
 Regular price
 $1,099.00
 Sale price

@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -72,6 +72,7 @@ Svitavy
 Otevřeno do
 Šenov u Nového Jičína
 Otevřeno do
+30. 10. od 11 hod. ZAVŘENO
 Tišnov
 Otevřeno do
 Trutnov
@@ -393,6 +394,9 @@ O partnerství
 Elektromobilita
 Nabíjecí stanice
 Příslušenství k nabíjecím stanicím
+Vybraní výrobci
+Pečlivě vybíráme výrobce, kteří splňují naše nároky na kvalitu, spolehlivost a inovace.
+O partnerství
 Fotovoltaické systémy
 Akční nabídka FVE
 Fotovoltaické panely FVE
@@ -430,6 +434,9 @@ Optimizéry a rozpojovače
 Automatické hasicí zařízení
 Nářadí pro FVE
 Přístroje pro fotovoltaiku
+Vybraní výrobci
+Pečlivě vybíráme výrobce, kteří splňují naše nároky na kvalitu, spolehlivost a inovace.
+O partnerství
 Hromosvody a uzemnění
 FeZn
 Držáky FeZn
@@ -586,17 +593,4 @@ Ekvitermní regulace
 Regulace tlaku - manostaty
 Regulace teploty - termostaty
 Regulace vlhkosti
-Čidla tlaku
-Další kategorie
-Čidla teploty
-Čidla vlhkosti
-Čidla kvality vzduchu
-Průtok a hladina
-Ostatní regulace a snímače
-Servopohony MaR
-Pro směšovací ventily
-Pro kulové kohouty
-Pro mezipřírubové klapky
-Pro zdvihové ventily
-Termické a termostatické pohony
-Ostatní servop
+Čidla tla

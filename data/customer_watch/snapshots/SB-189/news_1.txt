@@ -1,4 +1,4 @@
-# SB-189 vintronsmartvision.com · news_1 · https://www.vintronsmartvision.com/blog.html · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-189 vintronsmartvision.com · news_1 · https://www.vintronsmartvision.com/blog.html · fetched 2026-10-28T08:44:48Z · HTTP 200
 Vintron CCTV Blog | Industry Insights
 MENU
 lead@vintronsmartvision.com
@@ -105,6 +105,12 @@ Blog
 HOME
 Blog
 Latest from Our Blog
+27
+Oct
+IP PBX SYSTEM
+IP PBX System: One Server for Calls, Paging and Intercom
+Think about how calls move through a school office, a factory or a hospital. The front desk picks up, transfers to a dep......
+Read More →
 20
 Oct
 POE SWITCH BUYING GUIDE
@@ -156,7 +162,7 @@ Read More →
 25
 Aug
 For System Integrators & School Administrators
-Securing Schools and Campuses in 2026: Implementation Challenges and Why AI-Powered Safe School Solutions Are the Answer
+Securing Schools and campuses in 2026: Implementation Challenges and Why AI-Powered Safe School Solutions Are the Answer
 School security carries a weight no other commercial installation does — the client isn’t protecting invento......
 Read More →
 18
@@ -355,10 +361,4 @@ OLD IP PRODUCTS
 1-8 Port POE Switch
 1-8 Port
 1-4 Port: 180m Distance PoE Switch
-4 CHANNEL CCTV CAMERA POWER SUPPLY
-8 CHANNEL CCTV CAMERA POWER SUPPLY
-16 CHANNEL CCTV CAMERA POWER SUPPLY
-2.4MP TVI Outdoor Weatherproof Camera
-5MP TVI Outdoor Weatherproof Camera
-2.4MP TVI Indoor Camera
-5MP TVI Indoor C
+4 C

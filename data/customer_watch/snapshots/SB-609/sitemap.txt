@@ -1,4 +1,4 @@
-# SB-609 ablelink.co.th · sitemap · https://ablelink.co.th/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-609 ablelink.co.th · sitemap · https://ablelink.co.th/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
 	https://ablelink.co.th/
 	https://ablelink.co.th/about/
 	https://ablelink.co.th/contact/
@@ -6,6 +6,9 @@
 	https://ablelink.co.th/news/
 	https://ablelink.co.th/search/
 	https://ablelink.co.th/category/
+	https://ablelink.co.th/products/fo-sm30s80/
+	https://ablelink.co.th/products/fo-sm30s60/
+	https://ablelink.co.th/products/d100-bt-key-tuya-app/
 	https://ablelink.co.th/products/f-ml-oda9-96-l-dj/
 	https://ablelink.co.th/products/f-ml-oda9-48-l-dj/
 	https://ablelink.co.th/products/f-ml-oda9-24-l-dj/
@@ -234,7 +237,4 @@
 	https://ablelink.co.th/products/p-sc-350-24/
 	https://ablelink.co.th/products/p-sc-350-12/
 	https://ablelink.co.th/products/p-sc-120-24/
-	https://ablelink.co.th/products/p-sc-120-12/
-	https://ablelink.co.th/products/p-sc-35-24/
-	https://ablelink.co.th/products/p-sc-35-12/
-	https://ablelink.
+	https://

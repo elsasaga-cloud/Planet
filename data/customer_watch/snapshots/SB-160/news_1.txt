@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -173,7 +173,7 @@ X
 Blog
 RISES IN COPPER PRICES
 / June 28, 2021
-Views: 764
+Views: 765
 Featured post
 We all know the rise in copper prices has made it difficult for SME to compete with larger corporations. Having received feedback from our clients, we’ve had an extensive look
 Read More
@@ -184,12 +184,12 @@ Tight-buffered cable was considered best for indoor applications whilst loose-tu
 Read More
 AWG CONVERSION GUIDE
 / September 20, 2021
-Views: 599
+Views: 601
 American Wire Gauge or AWG is the US standard measure for the diameter of cable electrical conductors. This AWG chart is based on the number of dies originally required to
 Read More
 HOW ARE TWISTED PAIR CABLES TERMINATED?
 / September 13, 2021
-Views: 1,911
+Views: 1,912
 The process of terminating twisted pair cable may seem simple on the surface, however, issues involving unproperly terminated solutions can arise, specially within today’s High-Performance LANs. With so many ways
 Read More
 A GUIDE TO LAN CABLE
@@ -199,7 +199,7 @@ Despite the many advancements in fibre optic cable and newer builds taking advan
 Read More
 USES OF OPTICAL DISTRIBUTION FRAME (ODF)
 / August 30, 2021
-Views: 5,950
+Views: 5,951
 With fibre optic installations becoming increasingly more popular, the management of optical transmissions has networks has become more difficult. As discussed in our previous blog, many factors need to be
 Read More
 BANDWIDTH IN CABLES
@@ -209,7 +209,7 @@ Bandwidth in cables refers to the range of frequencies used to transfer informat
 Read More
 CABLE ATTENUATION EXPLAINED
 / August 16, 2021
-Views: 1,208
+Views: 1,210
 When attenuation is used by networking professionals it refers to loss of signal strength due to [x] factors. This can be either internal or external. Below we will see what
 Read More
 WI-FI VS ETHERNET – WHICH IS FASTER?
@@ -219,12 +219,12 @@ As technology develops we are seeing a rise in wireless connectivity. Most citie
 Read More
 RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?
 / August 2, 2021
-Views: 15,182
+Views: 15,184
 Since the old days of analogue telephones and faxes, cables and connectors have been an integral part of a network communication. By now, everyone has seen an RJ45 connector, it’s
 Read More
 WHY ARE CABLES BRAIDED?
 / July 26, 2021
-Views: 1,320
+Views: 1,321
 When ordering a cable you may be tempted to consider whether or not to have it braided. Cables are braided for either of these reasons: To electrostatically screen the cable
 Read More
 CABLE BENDING RADIUS- SHOULD I BE CONCERNED?

@@ -1,4 +1,4 @@
-# SB-432 qubix.it · home · https://qubix.it/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-432 qubix.it · home · https://qubix.it/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 QUBIX – Networking Solution
 ×
 Area riservata: login
@@ -202,10 +202,10 @@ A PAVIMENTO
 E PARETE
 OTTICA
 APPARATI ATTIVI
-È USCITO IL NUOVO
-CATALOGO DATA CENTER
+SCOPRI LE PAGINE DEDICATE ALLE
+SOLUZIONI DATA CENTER
 DI QUBIX
-Scaricalo subito
+Clicca qui
 ABBIAMO OTTENUTO LA
 MEDAGLIA DI BRONZO
 PER LA SOSTENIBILITÀ
@@ -449,4 +449,4 @@ Monomodale 9/125 G657A2 (3)
 Monomodale 9/125 (3)
 Multimodali 50/125 OM3 (3)
 Multimodali 50/125 OM4 (3)
-Per interno/esterno
+Per interno

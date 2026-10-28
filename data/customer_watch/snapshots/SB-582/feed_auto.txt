@@ -1,4 +1,4 @@
-# SB-582 smartintercom.eu · feed_auto · https://smartintercom.eu/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-582 smartintercom.eu · feed_auto · https://smartintercom.eu/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Mon, 29 Jan 2018 13:35:16 +0000	Akuvox IT83R	https://smartintercom.eu/it83r/
 Mon, 29 Jan 2018 13:31:29 +0000	Akuvox R20A	https://smartintercom.eu/r20a/
 Mon, 29 Jan 2018 13:31:20 +0000	Akuvox C313S	https://smartintercom.eu/c313s/

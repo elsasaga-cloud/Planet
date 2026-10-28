@@ -1,4 +1,4 @@
-# SB-714 netsecurity.com.au · home · https://www.netsecurity.com.au/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-714 netsecurity.com.au · home · https://www.netsecurity.com.au/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 NetDigital Security | Marleston, South Australia - Electronic Security Distributor
 Login
 Register
@@ -416,6 +416,7 @@ New Products
 Promos
 About
 Contact
+Hikvision AcuSeek Promo
 Shop Now
 ACCESS CONTROL
 Access Controllers & Kits
@@ -809,17 +810,17 @@ WELLER
 Tools - Power
 ULTRA SURVEILLANCE
 Featured Products
-HIKVISION, Detector, Dual element PIR, Blue Wave technology, Auto sensitivity, Digital temperature compensation, 15 x 15m coverage,
-DS-PD2-P15E
+BOSCH, Radion Series, Wireless detector, PIR, 12 x 12m coverage, 2.3 - 2.7m mount height, Pet friendly up to 13kg, Integrated RF transmitter, 433MHz, Suits B810, RF120, RF3212E, STR2, STR3 Receivers
+RFPR-12
+More Info
+BOSCH, Radion Series, Wireless reed switch, For doors/windows/dry contact devices, Integrated magnet, Supervised sensor loop, 433MHz, Suits B810, RF3212E, STR2, STR3 Receivers, Includes 1x CR123A
+RFUN
 More Info
 HIKVISION, Detector, Dual element PIR, Blue Wave technology, Auto sensitivity, IFT, Digital temperature compensation, 18m x 10 degrees coverage,
 DS-PD2-P18CE
 More Info
 BOSCH, Radion Series, Wireless panic button keyfob transmitter, 1 button duress, User only, 433MHz, Suits B810, RF120, RF121, RF3212E, STR2, STR3 Receivers, Includes 1× CR2032 battery
 RFPB-SB
-More Info
-BOSCH, Radion Series, Wireless reed switch, For doors/windows/dry contact devices, Integrated magnet, Supervised sensor loop, 433MHz, Suits B810, RF3212E, STR2, STR3 Receivers, Includes 1x CR123A
-RFUN
 More Info
 Shop Now
 Featured Products

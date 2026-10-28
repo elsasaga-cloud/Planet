@@ -1,4 +1,4 @@
-# SB-659 entpa.com.tr · sitemap · https://entpa.com.tr/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-659 entpa.com.tr · sitemap · https://entpa.com.tr/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
 2013-04-19T16:48:12+02:00	http://www.entpa.com.tr/index.asp
 2013-04-17T15:00:22+02:00	http://www.entpa.com.tr/banka_hb.asp
 2013-04-17T15:02:56+02:00	http://www.entpa.com.tr/brosurindir_tr.asp

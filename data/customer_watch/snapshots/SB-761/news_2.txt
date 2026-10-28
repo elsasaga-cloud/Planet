@@ -1,4 +1,4 @@
-# SB-761 getscw.com · news_2 · https://www.getscw.com/knowledge-base/the-ban · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-761 getscw.com · news_2 · https://www.getscw.com/knowledge-base/the-ban · fetched 2026-10-28T08:44:48Z · HTTP 200
 Which Security Cameras are NDAA Compliant? | SCW
 On-Demand Demo
 Sales: 828-483-4237 Support: 828-352-2242 Get A Quote
@@ -12,7 +12,7 @@ Partners
 My Account
 Cart
 Contact Us
-1-866-414-2725
+866-414-2553
 Products
 Services
 Industries
@@ -77,4 +77,4 @@ This makes it illegal to import new models from these companies into the United 
 Whereas the NDAA specifically named HIkvision and Dahua, the FCC import ban does not name any specific brands, but instead included the broader description of what constituted "FOREIGN ADVERSARY TECHNOLOGY" as phrased in the Sanctions ruling by the Secretary of Commerce. This certainly means that the import ban includes Dahua, Hikvision, Huawei, ZTE, and Hytera, but also makes it highly likely to also include Raysharp. Update: Raysharp was added to the Sanctions list on October 30th 2024.
 Whereas previous legislation specified China, in particular, the FCC ruling even broadens the definition of "FOREIGN ADVERSARY," to include any hostile nation:
 the term “foreign adversary” means any foreign government or foreign non-government person engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or security and safety of United States persons;..
-The FCC also requested comments from the community 
+The FCC also requested comments from the community ab

@@ -1,4 +1,4 @@
-# SA-036 svn-video.ru · news_2 · https://svn-video.ru/shopblog/news · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SA-036 svn-video.ru · news_2 · https://svn-video.ru/shopblog/news · fetched 2026-10-28T08:44:48Z · HTTP 200
 Новости
 Меню
 0 ₽
@@ -146,7 +146,7 @@ RJ-45
 0
 1 Сентября, 2019
 Наш YOUTUBE канал
-392
+394
 0
 Отличная новость!
 29 Декабря, 2018
@@ -158,11 +158,11 @@ AHD Камеры на 5Мп
 0
 Камера «Рыбий глаз»
 13 Мая, 2017
-1575
+1578
 0
 FreeIP Pro
 3 Апреля, 2017
-560
+561
 0
 Регистраторы на 32 AHD и 64 IP камеры
 17 Марта, 2017

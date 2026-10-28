@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,8 +40,8 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2727)
-Wszystkie 2727
+Urządzenia (2726)
+Wszystkie 2726
 Switche 1013
 Access Pointy 187
 Routery WiFi 389
@@ -59,15 +59,15 @@ Telefony i bramki VoIP 22
 Akcesoria dedykowane 23
 Modemy LTE/5G 8
 Lokalizatory GPS 9
-Teltonika 119
+Teltonika 118
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5054)
-Wszystkie 5054
+Światłowody (5055)
+Wszystkie 5055
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1023
 Patchcordy światłowodowe 1328
 Pigtaile światłowodowe 118
-Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 356
+Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 357
 Adaptery światłowodowe 126
 Budowa sieci optotelekomunikacyjnej 353
 Spawarki światłowodowe i akcesoria 50
@@ -178,8 +178,8 @@ Moduły SFP / QSFP MikroTik 26
 Zasilanie MikroTik 30
 Licencje MikroTik 6
 Usługi MikroTik 5
-Ubiquiti (505)
-Wszystkie 505
+Ubiquiti (506)
+Wszystkie 506
 UniFi Cloud Gateways 12
 UniFi rozwiązania Wi-Fi 36
 UniFi switche 9
@@ -188,7 +188,7 @@ UniFi monitoring 114
 UniFi Door Access 52
 Unifi VoIP 0
 UniFi nowe integracje 7
-UniFi akcesoria 105
+UniFi akcesoria 106
 UISP systemy bezprzewodowe 60 GHz 6
 UISP systemy bezprzewodowe 64
 UISP rozwiązania światłowodowe 12
@@ -254,13 +254,13 @@ Licencje 12
 Pamięci RAM 6
 Dyski twarde 63
 Dyski sieciowe NAS 147
-Inteligentny dom (472)
-Wszystkie 472
+Inteligentny dom (473)
+Wszystkie 473
 Dzwonki i wideodzwonki Smart 9
 Monitoring Smart 82
 Sterowanie ogrzewaniem 12
 Kontrolery i przekaźniki Smart 106
-Czujniki Smart 47
+Czujniki Smart 48
 Oświetlenie Smart 174
 Gniazda Smart Plug 28
 Huby i bramki Smart 14
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-Hikvision DS-2CD2T46G2H-IS2U/SL 2.8mm EF PL kamera IP bullet 4 MP AcuSense
-861.77 zł netto
+Hikvision DS-2CD2043G2-LI2U(2.8mm) kamera IP bullet 4 MP AcuSense
+652.03 zł netto
 Do koszyka
-Hikvision DS-2CD2T46G2H-4I 2.8 mm kamera IP 4 MP IR 80 m
+Hikvision DS-2CD2043G2-LI(2.8mm) kamera IP bullet 4 MP AcuSense
+617.47 zł netto
+Do koszyka
+Hikvision DS-2CD20123G2-LIUY/SL(2.8mm) kamera IP bullet 12 MP
+967.72 zł netto
+Do koszyka
+Hikvision DS-2CD2T86G2H-2I(2.8mm)(eF) – kamera IP bullet 8 MP IR
+1167.14 zł netto
+Do koszyka
+Hikvision DS-2CD2T46G3-IZS2UY/SL(2.8/4mm) kamera IP bullet 4 MP
+872.93 zł netto
+Do koszyka
+Hikvision DS-2CD2T46G3-4IZY(2.8/4mm)(BLACK) kamera IP bullet 4 MP z obiektywem zmiennoogniskowym
+878.62 zł netto
+Do koszyka
+Hikvision DS-2CD2T46G3-4IZY(2.8/4mm) kamera IP bullet 4 MP z obiektywem zmiennoogniskowym
 837.31 zł netto
 Do koszyka
-Hikvision DS-2CD2T166G3-IS2UY/SL(2.8)eFO-STDBLACK – kamera IP bullet 16 MP z aktywnym odstraszaniem
-1454.58 zł netto
-Do koszyka
-MEAN WELL HLG-150H-12A zasilacz LED 12 V 150 W
-208.03 zł netto
-Do koszyka
-Mean Well HLG-120H-24A zasilacz LED 24 V 120 W 5 A
-190.5 zł netto
-Do koszyka
-Mean Well HLG-120H-12B zasilacz LED 12 V 120 W z ściemnianiem
-211 zł netto
-Do koszyka
-Mean Well HLG-120H-12A zasilacz LED 12 V 120 W 10 A
-206.04 zł netto
-Do koszyka
-Western Digital WD Red Pro WD202KFGX 20 TB SATA 3,5 cala NAS
-5082.49 zł netto
+Huawei eKitEngine S110-16T2S – niezarządzalny switch Gigabit z 2x SFP
+405.64 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

@@ -1,4 +1,4 @@
-# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Ajax Multi-transmitter
 Trade Register
 Products
@@ -22,6 +22,7 @@ Akuvox Intercoms | Access
 Professional Services
 Akubela Smart Home Automation
 KNX Partner - Smart Home Automation
+Web Relays
 LTS CCTV & Intercoms
 Active-Guard
 Anti-Corrosion IP Camera - LTS Platinum
@@ -451,5 +452,4 @@ Fix the Hub 2 and MultiTransmitter in place of, or alongside, the old panel.
 Terminate Existing Wiring
 Land each zone's existing cable onto the MultiTransmitter's terminal block.
 4
-Add Wireless Accessories
-Pair t
+Add Wireless Accesso

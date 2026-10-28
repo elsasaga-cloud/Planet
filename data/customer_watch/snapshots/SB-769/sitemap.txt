@@ -1,4 +1,4 @@
-# SB-769 konturm.ru · sitemap · https://konturm.ru/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-769 konturm.ru · sitemap · https://konturm.ru/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
 	http://www.konturm.ru/index.php?id=now
 	http://www.konturm.ru/index.php?id=engl
 	http://www.konturm.ru/index.php?id=engl2

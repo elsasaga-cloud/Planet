@@ -1,4 +1,4 @@
-# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Systemy alarmowe i monitoringu CCTV | Sklep iVolta.pl Logowanie
 ×
 22 295 06 06
@@ -54,28 +54,28 @@ W sklepie iVolta.pl znajdziesz bogatą ofertę rozwiązań z zakresu systemów a
 Współpracujemy z instalatorami, inwestorami oraz biurami projektowymi, aby dobierać systemy zabezpieczeń najlepiej dopasowane do Twoich potrzeb. Bogata oferta produktowa oraz rozbudowany magazyn gwarantują szeroki wybór rozwiązań z zakresu systemów alarmowych i monitoringu. Zapewnimy Ci również doradztwo oraz pomoc w zakupach. Nasz zespół to ponad 70 osób w centrali firmy w Warszawie oraz 10 oddziałach regionalnych, dbających o wysoki poziom obsługi na terenie całej Polski. Bezstresowy zwrot zakupionego towaru w ciągu 14 dni oraz własny dział serwisowy to gwarancja Twojej satysfakcji na każdym etapie realizacji zamówienia. Zapraszamy do zakupów.
 Nowości
 zobacz wszystkie
-Kontaktron magnetyczny, antracyt, NC MINI-V10-AN YOTOGI
-15,99 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Kamera IP turret 4Mpix IR+LED30m ColorHunter IPC3614SB-ADF28KMC-I1 UNIVIEW
 1 820,40 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Moduł podstawowy z 20 czujnikami – odstęp 2,5 m TORSUS COMPACT 50 DEA
-11 463,60 zł brutto
-Dostępność: Na zamówienie
-Dodaj do koszyka
-Centrala alarmowa,Grade2, możl. podł. PERFECTA-RF PERFECTA 16 LTE SATEL
-564,57 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Kamera IP 12Mpix AcuSense IP67, IR+LED 40m 2.8mm DS-2CD20123G2-LIUY/SL(2.8mm) HIKVISION
 2 196,78 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
+Centrala alarmowa,Grade2, możl. podł. PERFECTA-RF PERFECTA 16 LTE SATEL
+564,57 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
 Zestaw sys. alarm.: PRF16LTE, ANT-LTE-I, OPU-4 P PERFECTA 16 LTE SET-A SATEL
 662,97 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Autonomiczna czujka dymu SDA-250 SATEL
+120,54 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Kontaktron magnetyczny, antracyt, NO/NC SMV-30-AN YOTOGI
+40,59 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Akademia zabezpieczeń – szkolenia
@@ -87,15 +87,11 @@ Sprawdź
 Szkolenie warsztatowe ROGER - System kontroli dostępu i automatyki budynkowej RACS 5 - Gdańsk
 16.11.2026, Gdańsk
 Sprawdź
-Szkolenie CCTV Uniview - Szczecin
-20.11.2026, Szczecin
+Oferta i możliwości systemu domofonowego Uniview
+17.11.2026, -
 Sprawdź
 Promocje
 zobacz wszystkie
-Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
-1 665,42 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Przycisk wyjścia podtynkowy YPW6DPL YOTOGI
 134,07 zł brutto
 Dostępność: Dostępny
@@ -104,44 +100,48 @@ Stacja wewnętrzna 2-Wire, ekran 7 ", biała DS-KH6320-WTE2-W HIKVISION
 613,77 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
+Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
+1 665,42 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
 Wyprzedaże
 zobacz wszystkie
-Wzmacniacz DSP PLENA MATRIX 220W, 4 kanały, OUTLET PLM-4P220 BOSCH
-5 535,00 zł brutto
+Programator do programu300,PCRS-232+USBsieć RS-485 IPC/301LR-PC CAME
+1 843,77 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Terminal rozpoznawania twarzy, pomiar temperatury YTT-301 YOTOGI
 1 105,77 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Programator do programu300,PCRS-232+USBsieć RS-485 IPC/301LR-PC CAME
-1 843,77 zł brutto
+Wzmacniacz DSP PLENA MATRIX 220W, 4 kanały, OUTLET PLM-4P220 BOSCH
+5 535,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 W zestawie taniej
 zobacz wszystkie
-Zestaw do monitoringu ZZUNV_4 UNIVIEW
-769,99 zł brutto
+Zestaw wideodomofonowy jednorodzinny+ latarka ZZ_GUARDO_LT9 ORNO
+1 843,77 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_45 TAVIO
+819,00 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
-Gotowy zestaw do monitoringu Tavio ZZTAVIO_40 TAVIO
-509,00 zł brutto
+Zestaw 10 x MC 270 ZZ_10x_MC 270 ALARMTECH
+769,98 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw wideodomofonowy Genway ZZF-S7V11-2W/B GENWAY
-1 999,00 zł brutto
-Dostępność: Na zamówienie
-Dodaj do koszyka
-ROP do obszarów zagrożonych eksplozją DM1103B-EX BOSCH
-836,40 zł brutto
+Zestaw 2xZW600R i 2xTZ600 ZZ_2xZW600R_2xTZ600 YOTOGI
+785,97 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Gotowy zestaw do monitoringu Tavio ZZTAVIO_42 TAVIO
-349,00 zł brutto
+Zestaw 10 x MC 470 ZZ_10x_MC 470 ALARMTECH
+821,64 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Gotowy zestaw do monitoringu Tavio ZZTAVIO_44 TAVIO
-309,00 zł brutto
+Zestaw 2xZW600R i 2xTL600 ZZ_2xZW600R_2xTL600 YOTOGI
+682,65 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Zostań naszym
@@ -251,4 +251,4 @@ Niniejszym informujemy, iż pobranie faktury korygującej w formie elektroniczne
 Nie zgadzam się Tak potwierdzam
 Drogi Użytkowniku!
 ×
-Dziękujemy za udział 
+Dziękujemy za udział w promocji. Twój kod zostan

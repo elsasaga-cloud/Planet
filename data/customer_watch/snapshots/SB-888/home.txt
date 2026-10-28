@@ -1,4 +1,4 @@
-# SB-888 stordis.com · home · https://stordis.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-888 stordis.com · home · https://stordis.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 STORDIS - Network People · Open By Design
 Test SONiC Download GNS3 VM
 Test OcNOS® Download VM
@@ -169,11 +169,11 @@ Service Provider
 Enterprise Network
 Best Selling Products
 Hot 1.2K+ sold
-Pre-order
+Select options
 Compare
 Edgecore Networks DCS203 (AS7326-56X) | 25G Cloud & Data Center Switch
 Edgecore DCS203, 48 x 25G SFP28, 8 x 100G QSFP28 Cloud & Data Center ONIE Switch, Broadcom Trident3-X7, Intel® Xeon® D1518 CPU, 2 x AC or 2 x DC PSU, F-Front-to-Back or B-Back-to-Front
-Pre-order
+Select options
 Hot 1.2K+ sold
 Select options
 Compare
@@ -384,4 +384,4 @@ Networks we've built, results that speak for themselves
 Real deployments, real teams, real outcomes. See how operators across Europe run production networks on open technology.
 Customer stories
 Flow Swiss runs one of Switzerland’s leading public clouds — serving Uber, Spotify, Bitcoin Suisse, and other demanding customers from three geo-redundant Swiss data centers. STORDIS delivered the full open networking stack — 48 Edgecore switches, Enterprise SONiC, leaf-and-spine architecture with 100Gbps uplinks — backed by the engineering partnership that turns deployment into long-term collaboration.
-IP Nexia, a Belgian service provider serving 1,000+ enterprise customers across VoIP, connectivity, and cloud services, needed to retire end-of-life backbone hardware and break free from vendor lock-in. Together with Deca Consulting as network architecture partner and Edgecore as the hardware foundation, STORDIS helped 
+IP Nexia, a Belgian service provider serving 1,000+ enterprise customers across VoIP, connectivity, and cloud services, needed to retire end-of-life backbone hardware and break free from vendor lock-in. Together with Deca Consulting as network architecture partner and Edgecore as the hardware foundation, STORD

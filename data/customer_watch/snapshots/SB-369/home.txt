@@ -1,4 +1,4 @@
-# SB-369 wieland-electric.com · home · https://www.wieland-electric.com/en/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-369 wieland-electric.com · home · https://www.wieland-electric.com/en/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Wieland Electric: Pioneer for electrical connection technology WEBSITE SETTINGS
 We use cookies on our website. Some of them are essential, while others help us improve this site and your experience. You can update your settings at any time.
 Privacy Policy
@@ -77,6 +77,7 @@ Retrofit Training
 Machinery Directive Training
 Webinars Upcoming Webinars
 Webinar Recordings
+Webinar Series Machinery Safety Meets Cybersecurity
 Whitepaper Whitepaper
 Discover our collection of whitepapers: Choose your topic and deepen your knowledge in the fields of electrical installation systems and functional safety systems. Enjoy browsing!
 Inhouse Trainings Inhouse Trainings
@@ -126,7 +127,7 @@ CE-Process Back CE-Process Research Risk Assessment Safety Concept Safety Engine
 Software & Apps Back Software & Apps Building Solutions Designer BIM Building Solutions Configurator (BSC) samos® PLAN6 gesis® PLAN selos PLAN Terminal Block Configurator wipos PLAN
 Infoportal Product Security (PSIRT) Downloads
 Training Back Training Seminars Back Seminars Seminars Back Seminars Machinery Safety Expert Training Electrical Safety Engineer Training Electrical Engineering Refresher Course Sistema Training Functional Safety Training Retrofit Training Machinery Directive Training
-Webinars Back Webinars Upcoming Webinars Webinar Recordings
+Webinars Back Webinars Upcoming Webinars Webinar Recordings Webinar Series Back Webinar Series Machinery Safety Meets Cybersecurity
 Whitepaper Inhouse Trainings
 Company Back Company About us Back About us Why Wieland History Code of Conduct Social Commitment
 Purchasing & Quality Back Purchasing & Quality Quality Purchasing Lead-free Products Copper Surcharge
@@ -172,4 +173,4 @@ OUR OFFER - TAILORED TO ELECTRICAL PLANNERS
 We understand the significant responsibility you carry and aim to assist you in managing this task more effortlessly. Therefore, we provide you with modern planning tools and product configurators , proven applications for all types of buildings and requirements, as well as a wide range of training opportunities and professional services tailored to electrical planners .
 Offers for Electrical Planners
 WIELAND – INVENTOR OF THE SAFE ELECTRICAL CONNECTION TECHNOLOGY
-Wieland Electric is a medium-sized family business in the electrical and electronics industry based in Bamberg. Since our foundation in 1910, we have been among the pioneers of electrical connection technology. Today we are the world market leader for pluggable installations in functional buildi
+Wieland Electric is a medium-sized family business in the electrical and electronics industry based in Bamberg. Since our foundation in 1910, we have been among the pioneer

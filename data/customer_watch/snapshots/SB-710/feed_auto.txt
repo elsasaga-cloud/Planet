@@ -1,7 +1,7 @@
-# SB-710 ktinet.com.tw · feed_auto · https://www.ktinet.com.tw/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
-Tue, 13 Jan 2026 14:17:35 +0000	KSD-103 benefits & application	https://www.ktinet.com.tw/ksd-103-benefits-application-2/
+# SB-710 ktinet.com.tw · feed_auto · https://www.ktinet.com.tw/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Tue, 13 Jan 2026 14:17:35 +0000	KSC-200 benefits & application	https://www.ktinet.com.tw/ksc-200-benefits-application-2/
 Tue, 13 Jan 2026 14:17:35 +0000	KSD-541 benefits & application	https://www.ktinet.com.tw/ksd-541-benefits-application-2/
+Tue, 13 Jan 2026 14:17:35 +0000	KSD-103 benefits & application	https://www.ktinet.com.tw/ksd-103-benefits-application-2/
 Wed, 27 Oct 2021 14:25:57 +0000	KPOE-800 benefits & application	https://www.ktinet.com.tw/kpoe-800-benefits-application/
 Wed, 27 Oct 2021 10:26:01 +0000	KPOE-800 benefits & application	https://www.ktinet.com.tw/kpoe-800-benefits-application-2/
 Wed, 27 Oct 2021 10:26:01 +0000	KPOE-800 benefits & application	https://www.ktinet.com.tw/kpoe-800-benefits-application-2-2/

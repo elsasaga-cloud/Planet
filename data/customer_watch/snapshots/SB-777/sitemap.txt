@@ -1,5 +1,5 @@
-# SB-777 proplex.com · sitemap · https://www.proplex.com/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
-2026-08-07	https://www.proplex.com/proplex
+# SB-777 proplex.com · sitemap · https://www.proplex.com/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+2026-10-27	https://www.proplex.com/proplex
 2025-07-10	https://www.proplex.com/news
 2025-07-10	https://www.proplex.com/news/tmb-proplex-partners-with-backup-tech
 2025-07-10	https://www.proplex.com/news/codeclock-award-winner
@@ -84,7 +84,7 @@
 2023-09-19	https://www.proplex.com/thank-you
 2026-05-19	https://www.proplex.com/gbs-ez-lan-unity-18
 2026-10-08	https://www.proplex.com/codecommander
-2026-06-30	https://www.proplex.com/ltc-devices
+2026-10-27	https://www.proplex.com/ltc-devices
 2026-05-22	https://www.proplex.com/snakepit-panel
 2026-05-22	https://www.proplex.com/sneaksnakebox
 2026-05-22	https://www.proplex.com/sneak-snake-break-inbreak-out
@@ -98,4 +98,4 @@
 2026-05-19	https://www.proplex.com/crmx-din
 2026-07-23	https://www.proplex.com/codebridge-plus
 2026-03-05	https://www.proplex.com/ims-universe-drives
-2026-10-26	https://www.proplex.com/codebridge-micro
+2026-10-27	https://www.proplex.com/codebridge-micro

@@ -1,4 +1,4 @@
-# SB-032 PIOLINK · home · https://www.piolink.com/en/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-032 PIOLINK · home · https://www.piolink.com/en/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 PIOLINK - Optimizing Your Cloud Data Center
 Skip to main content
 Skip to main menu
@@ -90,12 +90,12 @@ Forwarding
 PIOLINK NEWS
 Stay up to date with the latest from PIOLINK
 View all
+[Notice] PHP Engine Vulnerabilities (CVE-2026-109618 / CVE-2026-109619): Product Impact and Recomme…
+2026-10-28
 PIOLINK Presents Korea-Style SOC Operations Strategy to the Philippines' National Cyber Security Ce…
 2026-08-26
 ISEC 2026: PIOLINK's Security Strategy for Cyber Resilience
 2026-08-24
-PIOLINK Posts First-Half Revenue of KRW 28.6 Billion, Up 7% Year on Year
-2026-08-14
 24x7 Technical Support
 Network and security specialists
 always secure your business

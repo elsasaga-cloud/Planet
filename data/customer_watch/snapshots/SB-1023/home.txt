@@ -1,4 +1,4 @@
-# SB-1023 dipol.pt · home · https://www.dipol.pt/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-1023 dipol.pt · home · https://www.dipol.pt/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL
 Esse website utiliza cookies
 Usamos cookies , o que torna nossa loja fiável e adaptada a si. Os cookies permitem que combine o conteúdo e a promoção com seus interesses.
@@ -465,12 +465,12 @@ Cursos
 Log in
 Inscrever-se | Sou Empresa Profissional
 Ajuda
+Máquinas de Soldar Signal Fire
+Qual o modelo ideal para si?
+Descobrir mais
 Sinal Pro
 Multiswitches Signal Pro
 nova linha de multiswitches
-Descobrir mais
-Máquinas de Soldar Signal Fire
-Qual o modelo ideal para si?
 Descobrir mais
 Produtos recomendados
 Novos Produtos Novos itens
@@ -545,71 +545,70 @@ Disco rígido Hikvision DS60HKVS-VX1 de 3,5", 6 TB
 €359.37
 €292.17 s/IVA
 Ver todos
-Código: E8748
+Código: L54024
 Ao carrinho
 Visualização
-Mastro de lastro não invasivo ZB-1100/50+RAM6/415*265
-€148.83
-Preço mais baixo anterior: €148.83
-€142.88
-€116.16 s/IVA
-Código: L5550
+Caixa de Distribuição de Fibra Ótica: GP62DW-3 (24 emendas, 6 adaptadores SC duplex)
+€23.23
+Preço mais baixo anterior: €23.23
+€22.08
+€17.95 s/IVA
+Código: L56036
 Ao carrinho
 Visualização
-Emenda Mecânica de Fibra Ótica: ULTIMODE FAST-MS1 [5 unid.]
-€9.73
-Preço mais baixo anterior: €9.73
-€9.24
-€7.51 s/IVA
-Código: L58816
+Caixa Junção Fibra Óptica: GPJ09-9401 (36 emendas, 2 entradas, 2 saídas)
+€46.10
+Preço mais baixo anterior: €46.10
+€43.80
+€35.61 s/IVA
+Código: L5810
 Ao carrinho
 Visualização
-Clivador de fibra ótica, ferramenta multifuncional Signal Fire MC-16
-€217.44
-Preço mais baixo anterior: €173.95
-€163.09
-€132.59 s/IVA
-Código: M18961
+Medidor de Potência Ótica (VFL, LED, testador RJ45) ULTIMODE OPM-20T-V01
+€57.71
+Preço mais baixo anterior: €43.28
+€40.39
+€32.84 s/IVA
+Código: L5939
 Ao carrinho
 Visualização
-Switch PoE Etrix EW-11 (extensor) (1 x 802.3at WE PoE, 1 x 802.3at WY PoE, 10/100Mbps)
-€13.06
-Preço mais baixo anterior: €13.06
-€12.41
-€10.09 s/IVA
-Código: M18962
+Localizador Visual de Falhas VFL (LED, testador RJ45) ULTIMODE VFL-V3-15
+€29.40
+Preço mais baixo anterior: €22.05
+€20.58
+€16.73 s/IVA
+Código: N29984
 Ao carrinho
 Visualização
-Switch PoE Etrix EW-12 (extensor) (1 x 802.3at WE PoE, 2 x 802.3at WY PoE, 10/100Mbps)
-€15.25
-Preço mais baixo anterior: €15.25
-€14.49
-€11.78 s/IVA
-Código: N299704
+Switch PoE: ULTIPOWER 0154afat (5xRJ45, incl. 4xPoE 802.3af/at, 1xSFP)
+€108.90
+Preço mais baixo anterior: €108.90
+€103.46
+€84.11 s/IVA
+Código: N299851
 Ao carrinho
 Visualização
-Switch PoE Industrial: ULTIPOWER 192SFP 802.3af/at (8xPoE FE, 2xSFP 1000M, estendido, VLAN, PoE Auto Check, Hi-PoE)
-€295.84
-Preço mais baixo anterior: €295.84
-€281.04
-€228.49 s/IVA
-Código: R81011
+Switch PoE: ULTIPOWER PRO0208afat (120W, 10xRJ45, 8xPoE 802.3af/at, PoE Auto Check)
+€108.90
+Preço mais baixo anterior: €108.90
+€103.46
+€84.11 s/IVA
+Código: R10206
 Ao carrinho
 Visualização
-Amplificador de Antena de Mastro: TERRA, AB011T (26 dB, 5V/12VDC)
-€44.58
-Preço mais baixo anterior: €44.58
-€43.23
-€35.15 s/IVA
-Código: R81080
+Medidor de Sinal DVB-T/T2 (HEVC 10 bits)/C/J.83B/ISDB-T e DVB-S/S2 AS07STCA-4K com analisador de espectro e certificado de calibração
+€1851.30
+Preço mais baixo anterior: €1481.04
+€1388.47
+€1128.84 s/IVA
+Código: R86702
 Ao carrinho
 Visualização
-Amplificador de Antena de Mastro: TERRA MA080T FM-VHF-UHF
-€44.58
-Preço mais baixo anterior: €44.58
-€43.23
-€35.15 s/IVA
+Modulador ST-7992 2xHDMI – 2×COFDM (DVB-T)/2×QAM (DVB-C) – canal duplo
+€504.57
+Preço mais baixo anterior: €504.57
+€479.34
+€389.71 s/IVA
 Ver todos
 Na última Revisão Semanal
-Testes de campo da tecnologia 6G. Conectividade na banda dos 7 GHz testada fora do laboratório.
-
+Testes de campo da 

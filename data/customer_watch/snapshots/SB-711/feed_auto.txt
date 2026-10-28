@@ -1,4 +1,4 @@
-# SB-711 madalix.co.il · feed_auto · https://www.madalix.co.il/blog-feed.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-711 madalix.co.il · feed_auto · https://www.madalix.co.il/blog-feed.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
 Sun, 30 Jul 2023 04:29:20 GMT	What is Optical Bonding? A Guide to Industrial Displays	https://www.madalix.co.il/post/what-is-optical-bonding-a-guide-to-industrial-displays
 Tue, 31 May 2022 21:00:00 GMT	mSATA, mPCIe, M.2 Expansion Slot Fully Explained	https://www.madalix.co.il/post/msata-mpcie-m-2-expansion-slot-fully-explained
 Wed, 09 Mar 2022 22:00:00 GMT	The Differences Between Industrial PCs and PLCs	https://www.madalix.co.il/post/the-differences-between-industrial-pcs-and-plcs

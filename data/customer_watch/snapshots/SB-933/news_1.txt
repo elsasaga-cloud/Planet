@@ -1,4 +1,4 @@
-# SB-933 airlive.com · news_1 · https://www.airlive.com/news.php · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-933 airlive.com · news_1 · https://www.airlive.com/news.php · fetched 2026-10-28T08:44:48Z · HTTP 200
 wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution - News 鑫志科技
 Open Navigation Search
 AirCloud
@@ -51,12 +51,12 @@ AirCore Windows Updates
 Press Review and Award
 Event
 EDM
-AirCore Windows 2.19.7
-2026/10/19
+AirCore Windows 2.19.8
+2026/10/28
 AirCore Windows Updates
-2.19.7 ships two real-machine-reproduced fixes, plus the accumulated backlog of VN parity work that was already sitting on the shipping branch.
+2.19.8 ships five real fixes and two localization follow-ups, plus the accumulated backlog of work already merged and reviewed on the shipping branch.
 Fixed
-- Clip Player could crash silently the first time it ever played a real clip with real detection da
+- Clicking Dashboard or Site Management could switch the sidebar highlight but leave the con
 Social
 Facebook
 Youtube

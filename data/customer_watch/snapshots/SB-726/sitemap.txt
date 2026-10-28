@@ -1,4 +1,4 @@
-# SB-726 Elettronica E Sicurezza · sitemap · https://www.elettronicaesicurezza.it/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-726 Elettronica E Sicurezza · sitemap · https://www.elettronicaesicurezza.it/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
 	https://www.elettronicaesicurezza.it/
 	https://www.elettronicaesicurezza.it/prodotti.1.16.uw
 	https://www.elettronicaesicurezza.it/contatti
@@ -47,6 +47,7 @@
 	https://www.elettronicaesicurezza.it/cavi-sensibili.1.16.217.sp.uw
 	https://www.elettronicaesicurezza.it/pulsanti-convenzionali.1.16.219.sp.uw
 	https://www.elettronicaesicurezza.it/rilevatori-convenzionali.1.16.220.sp.uw
+	https://www.elettronicaesicurezza.it/via-radio-incendio.1.16.226.sp.uw
 	https://www.elettronicaesicurezza.it/licenze-video-analisi.1.16.229.sp.uw
 	https://www.elettronicaesicurezza.it/accessori-moduli-convenzionali.1.16.239.sp.uw
 	https://www.elettronicaesicurezza.it/centrali-kit.1.16.241.sp.uw
@@ -127,21 +128,21 @@
 	https://www.elettronicaesicurezza.it/elite.1.16.351.sp.uw
 	https://www.elettronicaesicurezza.it/tornelli.1.16.352.sp.uw
 	https://www.elettronicaesicurezza.it/videoconferenze.1.16.354.sp.uw
-	https://www.elettronicaesicurezza.it/radar-volumetrici-per-esterno-adv_aisgdtectlens-plastica-frontale-di-ricambio-per-sensori-gjd360.1.16.297.gp.4455.uw
 	https://www.elettronicaesicurezza.it/radar-volumetrici-per-esterno-adv_gjd103-sensore-quad-pir-da-esterno-20m.1.16.297.gp.372.uw
 	https://www.elettronicaesicurezza.it/effetto-tenda-barriere-per-esterno-adv_gjd140-sensore-dt-a-tenda-da-esterno-12mt-anti-mask-bianco.1.16.296.gp.373.uw
 	https://www.elettronicaesicurezza.it/effetto-tenda-barriere-per-esterno-adv_gjd141-sensore-dt-a-tenda-da-esterno-12mt-anti-mask-bianco.1.16.296.gp.374.uw
 	https://www.elettronicaesicurezza.it/radar-volumetrici-per-esterno-adv_gjd360-sensore-volum-dt-da-esterno-30m-altezza-install-da-1-5-a-6m-ip55.1.16.297.gp.376.uw
 	https://www.elettronicaesicurezza.it/sensori-via-radio-adv_gjd630-sensore-pir-da-esterno-30m-radio.1.16.299.gp.379.uw
+	https://www.elettronicaesicurezza.it/box-alimentatori-13-8v-aja_06v-psu-hub2-alimentatore-6v-per-sistemi-hub2-e-rex2.1.16.159.gp.6111.uw
+	https://www.elettronicaesicurezza.it/box-alimentatori-13-8v-aja_12v-psu-hub-alimentatore-12v-per-sistemi-hub-e-rex.1.16.159.gp.5996.uw
+	https://www.elettronicaesicurezza.it/box-alimentatori-13-8v-aja_12v-psu-hub2-alimentatore-12v-per-sistemi-hub2-e-rex2.1.16.159.gp.4126.uw
 	https://www.elettronicaesicurezza.it/telecomandi-tastiere-via-radio-aja_brandplate-w-pannello-frontale-personalizzabile-per-streetsiren-doubledeck.1.16.300.gp.6159.uw
+	https://www.elettronicaesicurezza.it/telecomandi-tastiere-via-radio-aja_button-b-pulsante-antipanico-e-di-soccorso-colore-nero.1.16.300.gp.5710.uw
+	https://www.elettronicaesicurezza.it/telecomandi-tastiere-via-radio-aja_button-s-b-pulsante-antipanico-e-di-soccorso-superior-colore-nero.1.16.300.gp.7796.uw
+	https://www.elettronicaesicurezza.it/telecomandi-tastiere-via-radio-aja_button-s-w-pulsante-antipanico-e-di-soccorso-superior-colore-bianco.1.16.300.gp.7784.uw
 	https://www.elettronicaesicurezza.it/telecomandi-tastiere-via-radio-aja_button-w-pulsante-antipanico-e-di-soccorso-colore-bianco.1.16.300.gp.4116.uw
+	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_combiprotect-b-rivelatore-di-movimento-pir-e-rottura-vetri-via-radio-colore-nero.1.16.299.gp.5713.uw
+	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_combiprotect-f-w-rivelatore-di-movimento-pir-e-rottura-vetri-filare-via-bus-colore-bianco.1.16.299.gp.6162.uw
 	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_combiprotect-w-rivelatore-di-movimento-pir-e-rottura-vetri-via-radio-colore-bianco.1.16.299.gp.383.uw
-	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_curtain-outdoor-w-sensore-effetto-tenda-da-esterno-copertura-8-12-metri-bianco.1.16.299.gp.7550.uw
-	https://www.elettronicaesicurezza.it/dome-ip-aja_domecam-mini-5-w-micro-dome-ip-5mp-2-8mm-ir15mt-h-265-h-264-true-wdr-ip65-audio-mic-micro-sd-fino-a-256gb-riconoscimento-ai-12v-poe-15w.1.16.316.gp.7543.uw
-	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_doorprotect-b-contatto-magnetico-via-radio-con-1-ingresso-ausiliario-colore-nero.1.16.299.gp.4119.uw
-	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_doorprotect-plus-b-contatto-magnetico-radio-con-ingresso-contaimpulsi-colore-nero.1.16.299.gp.5580.uw
-	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_doorprotect-plus-w-contatto-magnetico-radio-con-ingresso-contaimpulsi-colore-bianco.1.16.299.gp.4120.uw
-	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_doorprotect-w-contatto-magnetico-via-radio-con-1-ingresso-ausiliario-colore-bianco.1.16.299.gp.384.uw
-	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_dualcurtain-outdoor-rilevatore-di-movimento-a-tenda-doppio-fascio-da-esterno-15mt-per-lato-via-radio.1.16.299.gp.4734.uw
-	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_fireprotect2-rb-hs-w-rilevatore-antincendio-wireless-con-sensore-di-fumo-temperatura-colore-bianco.1.16.299.gp.7545.uw
-	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_glassprotect-piccolo-rilevatore-wireless-di-rottur
+	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_curtain-outdoor-mini-w-sensore-tenda-dt-da-esterno-5m-100-vert-15-orizz-antimask-pet-immune-per-porta-finestra-altezza-install-da-1-a-5m-ip55-colore-bianco.1.16.299.gp.8242.uw
+	https://www.elettronicaesicurezza.it/sensori-via-radio-aja_curtain-outdoor-w-sensore-effetto-tenda-da-esterno-copertur

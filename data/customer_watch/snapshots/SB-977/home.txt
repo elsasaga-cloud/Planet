@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Eltrox.cz | Zabezpečovací systémy a chytrá domácnost
 Používáme cookies, abychom Vám umožnili pohodlné prohlížení webu a díky analýze provozu webu neustále zlepšovali jeho funkce, výkon a použitelnost. Více informací
 Nastavení
@@ -106,17 +106,19 @@ Detektory ,
 Zvukové signalizace, indikátory ,
 Zařízení na dálkové ovládání
 Sady
-Automatizace domácnosti Elektrické příslušenství
-Elektrické rozvaděče a příslušenství ,
-Jisticí a spínací přístroje ,
-Elektrické kabely, příslušenství ,
-Senzory domácího osvětlení ,
-Bezdrátové domovní zvonky ,
-Wattmetry, měřiče spotřeby energie ,
-Prodlužovací šňůry a přepěťové ochrany ,
-Časovače a spínače ,
-Elektrické zásuvky, vypínače a stmívače ,
-Nábytkové zásuvky
+Automatizace domácnosti Videovrátné, domovní telefony a přístupové systémy
+Sestavy videotelefonů ,
+Monitory pro videotelefony ,
+Venkovní panely pro videotelefony ,
+Příslušenství pro videotelefony ,
+Telefony ,
+Drátové videotelefony ,
+Řízení přístupu ,
+Digitální a elektronická kukátka na dveře ,
+Elektromagnetické zámky, závory a příslušenství ,
+Domácí interkomové systémy ,
+IP videotelefony ,
+Videozvončeky
 Automatické brány FAV
 Garážová vrata ,
 Posuvné brány ,
@@ -124,36 +126,6 @@ Křídlové brány ,
 Fotobuňky ,
 Výstražná světla pro pohony bran ,
 Dálkové ovladače
-Domácí interkomové systémy
-Příslušenství pro domácí interkomy ,
-Bezdrátové interkomy ,
-Drátové interkomy ,
-Interkomy bez sluchátek ,
-Venkovní panely pro interkomy ,
-Jednotlivé telefony pro domácí interkomy ,
-Interkomy a elektrické stávky ,
-Sestavy
-Řízení přístupu
-Příslušenství ,
-Centra řízení přístupu ,
-13,56MHz bezdotykové čtečky ,
-Bezdotykové čtečky EM 125kHz ,
-Elektronické kódové zámky, klávesnice ,
-Řídicí jednotky přístupu ,
-Kontejnery pro systémy řízení přístupu ,
-Licenční programy a příslušenství ,
-Systémy pro záznam času a řízení přístupu ,
-Bezdotykové transpondéry ,
-Zámky a elektrické zámky pro systémy řízení přístupu
-IP a digitální videotelefony, telefony s kamerou
-Příslušenství pro videovstupní systémy ,
-Videotelefony ,
-Venkovní panely ,
-Uniphony pro video interkomy ,
-IP videotelefony ,
-Drátové videotelefony ,
-Videovizory, kamerové interkomy ,
-Interkomy a elektrické úderníky pro videovstupní systémy
 Inteligentní dům
 Centrála ,
 Senzory ,
@@ -165,7 +137,6 @@ Inteligentní vytápění ,
 Zestavy ,
 Příslušenství ,
 Motory pro rolety a žaluzie
-Fotovoltaika
 Osvětlení
 Svítidla ,
 LED osvětlení ,
@@ -174,13 +145,25 @@ Světelné zdroje ,
 Příslušenství osvětlení ,
 Lampy ,
 Plafondy
+Elektrické příslušenství
+Elektrické rozvaděče a příslušenství ,
+Jisticí a spínací přístroje ,
+Elektrické kabely, příslušenství ,
+Senzory domácího osvětlení ,
+Bezdrátové domovní zvonky ,
+Wattmetry, měřiče spotřeby energie ,
+Prodlužovací šňůry a přepěťové ochrany ,
+Časovače a spínače ,
+Elektrické zásuvky, vypínače a stmívače ,
+Nábytkové zásuvky
+Nabíječky pro elektromobily
 Klimatizace
 Vakuové vývěvy ,
 Měděné potrubí ,
 Příslušenství ,
 Nástroje ,
 Vzduchové clony
-Nabíječky pro elektromobily
+Fotovoltaika
 Ukládání energie
 TV a multimédia LED televizory
 Interaktivní tabule
@@ -472,4 +455,19 @@ Pre vás Baterky
 Externá koaxiálna kabeláž
 OSTATNÉ ELEKTRICKÉ PRÍSLUŠENSTVO
 Senzor automatizácie budovy Iné
-Sieťové zariadenia A
+Sieťové zariadenia ADSL smerovače
+Elektrické príslušenstvo Zásuvky
+Automatizácia budov Dotknite sa a inteligentný panel
+Pozemné antény
+Senzory automatizácie budov Senzory teploty
+Pre vás Lesné kamery
+Ovládanie prístupu a kľučka dverí RCP
+Nástroje Krimpovacie stroje
+Sieťové zariadenia Rádiové karty PCI
+Pre domáce infračervené ohrievače
+Pre domáce fritézy
+Napájanie UPS
+Napájanie z batérie
+Zásuvky, zástrčky, montážne príslušenstvo Elektrické krabice na povrchovú montáž
+Relé pre automatizáciu budov
+Výkonné zariadenie automatizácie budov Binárny vstupný/výstu

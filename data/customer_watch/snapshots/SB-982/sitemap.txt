@@ -1,4 +1,4 @@
-# SB-982 mcss.co.kr · sitemap · https://www.mcss.co.kr/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-982 mcss.co.kr · sitemap · https://www.mcss.co.kr/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
 	https://www.mcss.co.kr/index
 	https://www.mcss.co.kr/18
 	https://www.mcss.co.kr/intro

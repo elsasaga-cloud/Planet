@@ -1,4 +1,4 @@
-# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-10-28T08:44:48Z · HTTP 200
 Píšeme, radíme, inspirujeme a testujeme | EMOS
 Přeskočit na hlavní obsah
 Přeskočit na záhlaví
@@ -33,7 +33,7 @@ Váhy
 Termostaty a detektory
 (48)
 Zabezpečení domu
-(82)
+(81)
 Domovní zvonky
 (47)
 Antény a VF technika
@@ -59,7 +59,7 @@ Novinky
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart
-(129)
+(128)
 Jaro / léto
 (176)
 Hledat
@@ -73,6 +73,10 @@ Aplikace
 Rady & návody
 Recenze
 Píšeme, radíme, inspirujeme a testujeme
+Inspirace
+Podzimní šero je tady? Vraťte svým pokojovkám slunce
+Publikováno 10. 2. 2026
+Jakmile se dny zkrátí a sluníčka začne ubývat, naše domácí džungle to vycítí jako první. Listy ztrácí šťávu, bylinky na okně se smutně natahují za posledními paprsky a vy trnete, v jaké kondici nakonec letošní zimu přežijí. Přesně proto jsou tu naše LED pěstební lampy – spolehlivý životabudič pro chladné měsíce.
 Rady & návody
 PREMIUM CONNECT: Vytvořte si vánoční osvětlení podle svých představ
 Publikováno 6. 10. 2026
@@ -93,10 +97,6 @@ Rady & návody
 Energie na cesty: Jak vybrat powerbanku, nabíječku a adaptér
 Publikováno 11. 8. 2026
 Telefon, hodinky, sluchátka, notebook. A k tomu foťák nebo akční kamera. Elektronika na cestách vyžaduje neustálý přísun energie. Abyste netahali zbytečná kila navíc a nezůstali v půlce dne s vybitým telefonem, stačí vám tři správně vybrané věci: powerbanka, víceportová nabíječka a funkční cestovní adaptér. Tady je návod, jak je vybrat.
-Inspirace
-Zavlažování nemusí být dřina. Jak na zelenou zahradu bez námahy?
-Publikováno 26. 6. 2026
-Udržet zelenou zahradu i během letních veder a sucha nemusí znamenat hodiny strávené zálivkou a nošením konví s vodou. Klíčem k úspoře času, vody a peněz je automatizace – například pomocí chytrých zavlažovacích hodin EMOS GoSmart.
 Předchozí
 1
 2

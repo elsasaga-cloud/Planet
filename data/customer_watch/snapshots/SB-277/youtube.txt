@@ -1,9 +1,9 @@
-# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-10-28T08:44:48Z · HTTP 200
+2026-10-27T22:02:02+00:00	Certificación oficial MikroTik MTCRE en Madrid | 28 y 29 de octubre	https://www.youtube.com/shorts/67Y3LDqSkrM
 2026-10-22T16:00:40+00:00	Webinar Grandstream: videoporteros IP y control de accesos | 6 de noviembre	https://www.youtube.com/shorts/qW58jZvEOtU
 2026-10-13T16:00:09+00:00	Certifícate con Grandstream en Madrid | GCPNS 25-27 noviembre | Instant Byte	https://www.youtube.com/shorts/auS6Kl9e7fk
 2026-10-12T21:30:04+00:00	Grandstream GWN7072: router Wi-Fi 7 tribanda con 10 GbE, mesh y VPN	https://www.youtube.com/watch?v=aDGsjLFOK78
 2026-10-07T16:00:07+00:00	¿Tienes un proyecto Wireless Enterprise? Expertos en Instant Byte #Shorts	https://www.youtube.com/shorts/rl6BpwaMCbo
-2026-10-05T07:00:28+00:00	Certificación oficial MikroTik MTCRE en Madrid | 28 y 29 de octubre	https://www.youtube.com/shorts/yBC0Sa9VMDo
 2026-09-24T10:32:26+00:00	Webinar Grandstream: Novedades y Lanzamientos 2026	https://www.youtube.com/watch?v=DPmGsL-wVmQ
 2026-09-09T20:37:25+00:00	NETGEAR Pro AV: la red detrás del AV sobre IP	https://www.youtube.com/shorts/VNjCO1swv_4
 2026-09-07T16:56:20+00:00	SolidRACK 5 Mini de MikroTik: rack compacto de 10 pulgadas y 5U #Shorts	https://www.youtube.com/shorts/_FEQJjuOo9s

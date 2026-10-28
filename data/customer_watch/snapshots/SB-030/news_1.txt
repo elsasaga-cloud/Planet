@@ -1,5 +1,10 @@
-# SB-030 Medias-Com'S · news_1 · https://medias-coms.ch/fr/?Itemid=115 · fetched 2026-10-27T08:02:45Z · HTTP 404
-Erreur: 404 Composant introuvable
-404
-Composant introuvable
-Page d'accueil
+# SB-030 Medias-Com'S · news_1 · https://medias-coms.ch/fr/?Itemid=115 · fetched 2026-10-28T08:44:48Z · HTTP 404
+Object not found!
+The requested URL was not found on this server.
+If you entered the URL manually please check your
+spelling and try again.
+If you think this is a server error, please contact
+the webmaster .
+Error 404
+medias-coms.ch
+Apache

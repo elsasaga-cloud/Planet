@@ -1,4 +1,4 @@
-# SB-959 silarius.com · home · https://silarius.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-959 silarius.com · home · https://silarius.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Security Cameras, Surveillance, IT and Access Control Superstore – Silarius
 Skip to content
 Plan my system Free
@@ -274,6 +274,8 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
+Buying guides
+Hikvision alternatives Dahua alternatives Best NVR for your cameras How many cameras a warehouse needs Turret vs dome vs bullet
 Network Network
 Network Switches
 Firewalls & Routers
@@ -306,6 +308,8 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
+Buying guides
+Hikvision alternatives Dahua alternatives Best NVR for your cameras How many cameras a warehouse needs Turret vs dome vs bullet
 Computers Computers
 Laptops
 Mobile Workstations
@@ -330,6 +334,8 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
+Buying guides
+Hikvision alternatives Dahua alternatives Best NVR for your cameras How many cameras a warehouse needs Turret vs dome vs bullet
 Audio Audio
 Speakers
 Subwoofers
@@ -352,6 +358,8 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
+Buying guides
+Hikvision alternatives Dahua alternatives Best NVR for your cameras How many cameras a warehouse needs Turret vs dome vs bullet
 Video Video
 TVs
 Commercial Displays & Digital Signage
@@ -376,6 +384,8 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
+Buying guides
+Hikvision alternatives Dahua alternatives Best NVR for your cameras How many cameras a warehouse needs Turret vs dome vs bullet
 Marine Marine
 Marine Surveillance
 Marine Cameras
@@ -404,6 +414,8 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
+Buying guides
+Hikvision alternatives Dahua alternatives Best NVR for your cameras How many cameras a warehouse needs Turret vs dome vs bullet
 Automotive Automotive
 Automotive Cameras
 Automotive Stereo
@@ -419,6 +431,8 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
+Buying guides
+Hikvision alternatives Dahua alternatives Best NVR for your cameras How many cameras a warehouse needs Turret vs dome vs bullet
 Access Control Access Control
 Card Readers & Biometrics
 Electric Strikes
@@ -449,6 +463,8 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
+Buying guides
+Hikvision alternatives Dahua alternatives Best NVR for your cameras How many cameras a warehouse needs Turret vs dome vs bullet
 Automation Automation
 Lighting
 Silarius Home Edition
@@ -470,6 +486,8 @@ Chat with us
 Silarius Pro Series
 NDAA-compliant cameras and AI NVRs, built in-house.
 Shop the range
+Buying guides
+Hikvision alternatives Dahua alternatives Best NVR for your cameras How many cameras a warehouse needs Turret vs dome vs bullet
 Fire & Life Safety Fire & Life Safety
 Smoke, Heat & Duct Detectors
 Horns, Strobes & Speakers
@@ -477,55 +495,4 @@ Pull Stations & Protective Covers
 Fire Alarm Panels & Power
 Smoke & CO Alarms
 Gas & Flame Detection
-Also in Fire & Life Safety
-Modules & Relays
-Voice Evacuation & Mass Notification
-Fire Alarm Communicators
-Sprinkler Monitoring & Suppression
-Emergency Lighting & Exit Signs
-Detector Testing & Maintenance
-Fire Alarm Cable
-Fire Alarm Accessories
-Shop all Fire & Life Safety
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Brands
-Silarius
-Hanwha
-Axis
-HID
-APC
-Middle Atlantic
-All 730+ brands →
-Services Services
-Services & Installations
-Built by our own trained installers
-Managed IT Services
-A fully outsourced IT department
-IT Consulting
-IT experts for any job
-Cybersecurity Solutions
-Protection from network to inbox
-VoIP Solutions
-White-glove installation and support
-Telecom Carrier Services
-A liaison between you and your carrier
-Mobility Solutions
-IoT solutions to keep you connected
-Milestone Systems Pricing
-Compare VMS plans and licensing
-Clearance Clearance
-Contact Us Contact Us
-Contact Us
-Talk to someone who knows the catalogue
-Spec a system, chase an order, or get a quote for a multi-site deployment.
-Send us a message
-Chat Chat with a specialist
-Email info@silarius.com
-Hours Mon–Fri, 8am–4pm
-Quotes Volume and multi-site pricing on request
-
+A

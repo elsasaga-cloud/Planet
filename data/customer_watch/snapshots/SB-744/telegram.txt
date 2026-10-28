@@ -1,4 +1,4 @@
-# SB-744 commandonetworks.com · telegram · https://t.me/s/commandonetworks · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-744 commandonetworks.com · telegram · https://t.me/s/commandonetworks · fetched 2026-10-28T08:44:48Z · HTTP 200
 COMMANDO Networks – Telegram
 COMMANDO Networks
 @commandonetworks
@@ -19,7 +19,7 @@ COMMANDO Networks
 COMMANDO Networks
 Channel name was changed to « COMMANDO Networks »
 COMMANDO Networks
-71 views
+72 views
 COMMANDO Networks
 COMMANDO AIRY WIRELESS 🛜
 Powerful. Stable. Longer Wireless Transmission.
@@ -188,7 +188,7 @@ HIGHLIGHTS:
 • 12V Passive PoE and 12V DC Dual Power Input
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB300-1K
-22 views
+23 views
 COMMANDO Networks
 AIRY-WB900-3K
 COMMANDO AirY 900Mbps, 5.8GHz, 12dBi, 802.11ac Wave 2, P2P/P2MP, 3KM Wireless Bridge
@@ -204,7 +204,7 @@ HIGHLIGHTS:
 • 12~48V Passive PoE and 12V DC Dual Power Input
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900-3K
-29 views
+30 views
 COMMANDO Networks
 AIRY-WB900-5K
 COMMANDO AirY 900Mbps, 5.8GHz, 15dBi, 802.11ac Wave 2, P2P/P2MP, 5KM Wireless Bridge
@@ -220,7 +220,7 @@ HIGHLIGHTS:
 • 12~48V Passive PoE and 12V DC Dual Power Input
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900-5K
-43 views
+44 views
 COMMANDO Networks
 AIRY-WB900P-5K
 COMMANDO AirY 900Mbps, 5.8GHz, 14dBi, 802.11ac Wave 2, P2P/P2MP, PoE, Disp, 5KM Wireless Bridge
@@ -236,7 +236,7 @@ HIGHLIGHTS:
 • IPv4/IPv6, LLDP, Cloud Management, and Remote Management (HTTP, Telnet, SSH, SNMP)
 • IP67-Rated Outdoor Design with TVS, ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900P-5K
-58 views
+59 views
 COMMANDO Networks
 AIRY-WB900-8K
 COMMANDO AirY 900Mbps, 5.8GHz, 18dBi, 802.11ac Wave 2, P2P/P2MP, 8KM Wireless Bridge
@@ -280,7 +280,7 @@ Partner Locator:
 https://www.commandonetworks.com/partners/partner_locator
 Catalog:
 https://www.commandonetworks.com/catalog
-49 views
+50 views
 COMMANDO Networks
 ENTERPRISE SWITCHES 🏁
 _COMMANDO Core/Backbone Fiber Routing Switches w/ 10G 40G & 100G — for high performance heavy duty networking._

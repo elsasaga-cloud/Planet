@@ -1,4 +1,4 @@
-# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-10-28T08:44:48Z · HTTP 200
 News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
 Skip to main content
 To top
@@ -118,6 +118,9 @@ Sale and delivery conditions
 Data protection policy
 For Slovakia and Czech Republic
 NEWS AND ARTICLES
+Fiber-Optic Spools for Drones and UGVs
+Reliable communication is one of the fundamental challenges in remotely operated systems. Drones, unmanned ground vehicles (UGVs) and robotic platforms typically depend on radio-frequency (RF) links to transmit video, sensor data and control signals.
+Read more
 VIAVI DAS Fiber optic sensing – Intelligent border protection
 Protecting national borders requires reliable monitoring across large, remote and often difficult-to-access areas. Traditional surveillance cameras and physical patrols can have limitations in these environments. Distributed fiber optic sensing provides an additional layer of security by detecting activity along extensive sections of protected infrastructure.
 Read more
@@ -215,6 +218,4 @@ Rough maritime environments require products with uncompromising quality. Wet an
 Read more
 Robust fiber optics solutions for industrial use
 Industrial environments place great demands on equipment. Both mechanical stress and large temperature variations can make standard materials unsuitable.
-Read more
-Rugged fiber optic solutions for defense and harsh environments
-Reliable communication is critical in defense, offshore, industrial and field applications. In these environments, fiber optic systems must withstand repeated handling, moisture, dust, temperature variations and mechanical stress
+Rea

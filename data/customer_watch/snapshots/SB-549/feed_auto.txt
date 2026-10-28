@@ -1,4 +1,4 @@
-# SB-549 poewit.com · feed_auto · https://poewit.com/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-549 poewit.com · feed_auto · https://poewit.com/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Fri, 04 Sep 2026 15:36:10 +0000	CEDIA- When Did We Become a Home & Garden Show?	https://poewit.com/cedia-when-did-we-become-a-home-garden-show/
 Wed, 08 Jul 2026 16:29:30 +0000	Detection was the easy part. Response is the business.	https://poewit.com/detection-was-the-easy-part-response-is-the-business/
 Thu, 18 Jun 2026 23:14:06 +0000	Everything Moved to IP. Why Didn’t Lighting?	https://poewit.com/everything-moved-to-ip-why-didnt-lighting/

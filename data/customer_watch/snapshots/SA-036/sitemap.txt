@@ -1,4 +1,4 @@
-# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-10-28T08:44:48Z · HTTP 200
 	https://svn-video.ru/wi-fi-oborudovanie/kabel-utp-4pr-24awg-cat5e-305m
 	https://svn-video.ru/konnektery-razemy/soedinitel-rca-papa--rca-papa-
 	https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612
@@ -22,6 +22,7 @@
 	https://svn-video.ru/ip-camery/svn-500sbc25fc
 	https://svn-video.ru/ip-camery/svn-500sl20fc
 	https://svn-video.ru/ip-camery/kupolnaya-kamera-ip-svn-500sl20kpoe-2-8mm-5mp
+	https://svn-video.ru/ip-camery/ulichnaya-kamera-ip-svn-800mb405hpoe-2-7-13-5mm-8mp
 	https://svn-video.ru/ip-camery/svn-800mbb60h
 	https://svn-video.ru/ip-camery/svn-800sba20mpoe
 	https://svn-video.ru/ip-camery/svn-800sbc25fc
@@ -30,7 +31,6 @@
 	https://svn-video.ru/ip-camery/ulichnaya-povorotnaya-kamera-ai-ip-svn-am5hs500ip
 	https://svn-video.ru/ip-camery/svn-as30ip3cm
 	https://svn-video.ru/ip-camery/svn-as30ip4cm
-	https://svn-video.ru/ip-camery/svn-as30ip5cm
 	https://svn-video.ru/ip-camery/svn-as30ip6s
 	https://svn-video.ru/ip-camery/kupolnye/svn-as30ip8cm
 	https://svn-video.ru/ip-camery/svn-as30ip8s
@@ -50,9 +50,6 @@
 	https://svn-video.ru/ip-camery/svn-khjsl200
 	https://svn-video.ru/ip-camery/svn-nb25ip3cm
 	https://svn-video.ru/ahd-camery/svn-pl20htc200f
-	https://svn-video.ru/ip-camery/svn-pl25ip3cm
-	https://svn-video.ru/ip-camery/kupolnye/svn-pl25ip4cm
-	https://svn-video.ru/ip-camery/svn-pl25ip5cm
 	https://svn-video.ru/ip-camery/kupolnye/svn-pl25ip5s
 	https://svn-video.ru/ip-camery/kupolnye/svn-pl25ip8cm
 	https://svn-video.ru/ip-camery/svn-pl25ip8s
@@ -230,4 +227,6 @@
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-500sbc3
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-800mbaf3
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-200sba3
-	https://svn-video.ru/gotovye-komplekt
+	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-300r4xm
+	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-200pl4
+	h

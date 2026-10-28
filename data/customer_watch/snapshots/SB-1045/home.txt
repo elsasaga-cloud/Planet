@@ -1,4 +1,4 @@
-# SB-1045 itm-components.co.uk · home · https://itm-components.co.uk/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-1045 itm-components.co.uk · home · https://itm-components.co.uk/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 ITM Components | The Pro AV, KVM and Connectivity Experts
 Skip to content
 Email ITM Components
@@ -411,6 +411,7 @@ I/O and Serial Communication Board
 I/O Board
 I/O Card
 I/O Expander
+Inductive Proximity Sensor
 Injector
 Input Board
 Input Card
@@ -851,4 +852,4 @@ Downloads
 Other Models
 Industrial Medium Enterprise Environment Monitoring System for Low/High Temperature Envir...
 View full details
-ENVIROMUX-5DB-IND Industrial Medium Enterprise En
+ENVIROMUX-5DB-IND Indu

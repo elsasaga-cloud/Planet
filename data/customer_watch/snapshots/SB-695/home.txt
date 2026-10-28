@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,6 +429,22 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
+Switch Ethernet não Gerenciável 5 Portas Gigabit com PoE, Trilho DIN LRI-SW-5P
+R$ 549,00
+R$
+532 , 53
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Switch Industrial 8 Portas Gigabit Gerenciável L2+ e 4 Portas SFP com Alimentação Redundante LRI-SW-8G4S1C
+R$ 1.959,00
+R$
+1.900 , 23
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 Switch Ethernet Industrial Gerenciável 16 Portas Gigabit Rj45 + 4 Portas SFP - LRI-SW-16G4S1C
 R$ 3.168,00
 R$
@@ -437,53 +453,41 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Fonte de Alimentação Chaveada Industrial para Trilho DIN de 120W, 48V - LRI-PS12048
-R$ 396,00
+-50%
+LRI-PS6548 - Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 48V
+R$ 255,00
+R$ 127,50
 R$
-384 , 12
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-RS-25 Fonte CA CC 25W Miniatura Alta Eficiência MeanWell
-R$ 109,49
-R$
-106 , 21
-à vista
-com desconto Pix - Vindi
-Ver opções
-Switch Ethernet Industrial Gerenciável 8 Portas Gigabit Rj45 + 2 Portas SFP - LRI-SWI-8G2S1C
-R$ 1.458,00
-R$
-1.414 , 26
+123 , 68
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
 Lançamentos
-NPB-240 Carregador de Bateria Estágios Ácido Chumbo Li-ion MeanWell
-R$ 620,40
-R$
-601 , 79
-à vista
-com desconto Pix - Vindi
-Ver opções
-Sensor de Temperatura e Umidade IP54 TSH331
+Detector de Tensão CA TSV101
 Sob consulta
 Saiba mais
 Pedir cotação
-1-Wire Sensor de Corrente Isolado TSC201
-Sob consulta
-Saiba mais
-Pedir cotação
-Sensor de Luz Ambiente TSL200 Interface 1-Wire
-R$ 735,95
+Sensor de Umidade e Temperatura TSH300v3 Modbus RTU RS-485
+R$ 875,73
 R$
-713 , 87
+849 , 46
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
+Módulo S0 Contador de Pulsos com Interface Modbus RTU TDI340
+R$ 1.080,91
+R$
+1.048 , 48
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Módulo de Saída Analógica TCW280
+Sob consulta
+Saiba mais
+Pedir cotação
 Depoimentos
 Nome: Manoel
 Avaliação: Positivo
@@ -546,5 +550,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 0.765 secs - 27-10-2026  - node: commerce-web4-bot-lw - store
+Load time: 1.42 secs - 28-10-2026  - node: commerce-web4-bot-lw - store
 ×

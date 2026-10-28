@@ -1,9 +1,8 @@
-# SB-189 vintronsmartvision.com · sitemap · https://vintronsmartvision.com/sitemap.xml · fetched 2026-10-26T07:56:19Z · HTTP 200
+# SB-189 vintronsmartvision.com · sitemap · https://vintronsmartvision.com/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
 	https://www.vintronsmartvision.com/
 	https://www.vintronsmartvision.com/about-us.html
 	https://www.vintronsmartvision.com/manufacturing-facility.html
 	https://www.vintronsmartvision.com/certifications.html
-	https://www.vintronsmartvision.com/ip-camera
 	https://www.vintronsmartvision.com/3-4-5-mp-warmlight-camera
 	https://www.vintronsmartvision.com/4-0mp-ip-h-265-camera
 	https://www.vintronsmartvision.com/5-0mp-ip-h-265-camera
@@ -45,8 +44,6 @@
 	https://www.vintronsmartvision.com/blog.html
 	https://www.vintronsmartvision.com/contact.html
 	https://www.vintronsmartvision.com/become-gem-pertner.html
-	https://www.vintronsmartvision.com/ahd-old-product
-	https://www.vintronsmartvision.com/ip-old-product
 	https://www.vintronsmartvision.com/ip-camera/4-0mp-ip-h-265-camera/4-0mp-ip-h-265-outdoor-weatherproof-varifocal-camera
 	https://www.vintronsmartvision.com/ip-camera/4-0mp-ip-h-265-camera/4-0mp-ip-h-265-outdoor-weatherproof-big-array-camera
 	https://www.vintronsmartvision.com/ip-camera/4-0mp-ip-h-265-camera/4-0mp-ip-h-265-outdoor-weatherproof-premium-camera
@@ -109,12 +106,12 @@
 	https://www.vintronsmartvision.com/dvr-series/2mp-dvr/2mp-16ch-1audio-1hdd-dvr
 	https://www.vintronsmartvision.com/blog/cctv-for-banks-and-hotels-in-2026-implementation-challenges-in-high-compliance-high-footfall-environments
 	https://www.vintronsmartvision.com/blog/vertical-specific-cctv-requirements-in-2026-warehouses-factories-and-retail-chains
-	https://www.vintronsmartvision.com/blog/securing-schools-and-campuses-in-2026-implementation-challenges-and-why-ai-powered-safe-school-solutions-are-the-answer
+	https://www.vintronsmartvision.com/blog/securing-schools-and-canduses-in-2026-implementation-challenges-and-why-ai-powered-safe-school-solutions-are-the-answer
 	https://www.vintronsmartvision.com/blog/residential-cctv-in-2026-implementation-challenges-for-homes-apartments-and-housing-societies
 	https://www.vintronsmartvision.com/blog/cctv-for-public-places-in-2026-implementation-challenges-in-railway-stations-markets-and-transport-hubs
 	https://www.vintronsmartvision.com/blog/fleet-and-vehicle-surveillance-in-2026-implementation-challenges-for-logistics-and-transport-companies
 	https://www.vintronsmartvision.com/blog/securing-india-s-solar-power-boom-cctv-implementation-challenges-for-solar-farms-and-renewable-energy-sites
-	https://www.vintronsmartvision.com/blog/beyond-the-logos-what-vintron-s-certifications-actually-mean-for-your-business-in-2026
+	https://www.vintronsmartvision.com/blog/beyond-the-logos-what-vintron-rsquo-s-certifications-actually-mean-for-your-business-in-2026
 	https://www.vintronsmartvision.com/blog/official-communication-from-the-management-vintron-smartvision-private-limited
 	https://www.vintronsmartvision.com/blog/how-to-offer-preventive-cctv-maintenance-contracts-to-your-commercial-clients-and-create-recurring-revenue
 	https://www.vintronsmartvision.com/blog/the-real-cost-of-selling-imported-cctv-vs-indian-manufactured-in-2026-a-landed-cost-and-margin-breakdown-for-dealers
@@ -126,3 +123,5 @@
 	https://www.vintronsmartvision.com/blog/why-system-integrators-are-switching-to-indian-cctv-manufacturers-after-the-2026-chinese-brand-ban
 	https://www.vintronsmartvision.com/blog/how-to-scope-and-quote-a-cctv-project-for-commercial-clients-a-practical-guide-for-system-integrators
 	https://www.vintronsmartvision.com/blog/how-to-build-a-profitable-cctv-distribution-business-in-india-why-partnering-with-an-indian-manufacturer-beats-importing
+	https://www.vintronsmartvision.com/blog/poe-switch-buying-guide-4-port-vs-8-port-and-what-250-m-really-means
+	https://www.vintronsmartvision.com/blog/industrial-media-converter-how-it-works-and-how-to-choose-one

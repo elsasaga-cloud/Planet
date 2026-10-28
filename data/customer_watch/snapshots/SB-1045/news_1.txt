@@ -1,4 +1,4 @@
-# SB-1045 itm-components.co.uk · news_1 · https://itm-components.co.uk/blogs/news · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-1045 itm-components.co.uk · news_1 · https://itm-components.co.uk/blogs/news · fetched 2026-10-28T08:44:48Z · HTTP 200
 News | ITM Components Blog
 Skip to content
 Email ITM Components
@@ -411,6 +411,7 @@ I/O and Serial Communication Board
 I/O Board
 I/O Card
 I/O Expander
+Inductive Proximity Sensor
 Injector
 Input Board
 Input Card
@@ -791,4 +792,4 @@ Integration-friendly features, such as 60 watt USB-C charging and audio de-embed
 Read now
 April 8, 2026
 L-com IP68 ODVA Adapters exceed ODVA requirements for harsh environment
-L-com's IP68 ODVA Adapters stand as a testament to reliability, boasting an IP68 rating that ensures unyieldi
+L-com's IP68 ODVA Adapters stand as a testament to reliability, boasting an IP68 r

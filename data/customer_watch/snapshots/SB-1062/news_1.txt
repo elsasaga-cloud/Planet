@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-28T08:44:48Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,10 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1772 result(s)
+1773 result(s)
+How Specialty Turf and Robotics Launched Its Autonomous Mowing Business With Odoo
+Oct 27, 2026
+Customer Reviews
 Real-time data, native integration, and smart reporting to elevate modern retail businesses
 Oct 27, 2026
 Business Hacks
@@ -219,9 +222,6 @@ Odoo News
 SIBI: More Order and Traceability to Manage the Sale and Repair of Pumping Equipment with Odoo
 Oct 21, 2026
 Customer Reviews
-How Harvey Cheese Built a Future-Ready Business
-Oct 21, 2026
-Success Stories
 1
 2
 3

@@ -1,4 +1,4 @@
-# SB-813 ifocusshop.com · feed_auto · https://ifocusshop.com/feed/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-813 ifocusshop.com · feed_auto · https://ifocusshop.com/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Mon, 31 Aug 2026 16:16:56 +0000	อุปกรณ์ Network มีอะไรบ้าง? รู้จักทุกชิ้นก่อนสร้างระบบเน็ตเวิร์ก	https://ifocusshop.com/network-equipment/
 Mon, 31 Aug 2026 15:56:22 +0000	การเดินสายแลนในบ้านควรทำอย่างไร ราคาเท่าไร เปรียบเทียบกับราคาจ้างช่าง	https://ifocusshop.com/lan-cabling-at-hom/
 Sat, 08 Aug 2026 06:56:36 +0000	เจาะปัญหากล้องวงจรปิดไม่บันทึกภาพ สาเหตุหลักและวิธีแก้ไขด้วยตัวเอง	https://ifocusshop.com/cctv-not-recording-causes/

@@ -1,4 +1,4 @@
-# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 YLI Control Acces
 HOME
 PRODUSE
@@ -150,21 +150,21 @@ suport
 Customer Service
 Formular Retur/Service
 contact
-FLM16-CASE - Carcasa din plastic, montaj aparent, pentru butoane cu diametru filet M16
-BSW-90 - Controler de acces pentru selectarea modului de functionare a amortizoarelor electrice seria SDO
+QK-M1000BKIT(V2)+ - Kit automatizare porti culisante, controler digital QK-CE24AQ, max. 1000kg, 24Vcc
+G3-TT - Gateway Bluetooth–LAN pentru incuietori inteligente TTLock, conexiune Ethernet RJ45
+BXB-E30DZE-BL - Corp bariera de acces auto cu servomotor BRUSHLESS pe 24Vcc, viteza reglabila 1,5–6 secunde, brat de pana la 6 metri
+FLM16-FJ-4-E-RDGN - Buton de iesire, contact NO-COM, LED rosu/verde, montaj Ø16 mm, actionare prin apasare, IP67
+YMP-180 - Electromagnet aplicat de 180 kgf, IP68, rezistent la medii saline
+CCA3-2-2PLUS - Centrala de control acces IP pentru 2 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
+S535(BRAK.F.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535
 CAB4-PS5-gy(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, negru-gri, cu pini magnetici pentru fixare controler
 BXB-S45CB01VF-H-wh-L - Corp bariera cu servomotor 24V, ciclu de utilizare industrial intensiv 100%, brat maxim 4.5m, 1-4 SECUNDE, MTBF 6 milioane
-S535 - Video interfon IP SIP, post de apel cu ecran touchscreen de 5”, Linux, BLE 5.0, recunoaștere facială, NFC, cod QR
-PB-19-NONC(LED)-RDGN - Buton de iesire, contacte NO/NC, LED rosu/verde, filet M19, actionare prin apasare
+YMP-180-S - Electromagnet aplicat de 180 kgf, IP68, monitorizare NO-COM, rezistent la medii saline
 GL-QM6-219 - Bolard auto hidraulic din Inox cu diametru de 219mm si inaltime utila de 600mm cu iluminare LED, IP68
-BSW-52 - Controler de acces cu buton iesire, pentru selectarea modului de functionare a amortizoarelor electrice seria SDO
-YMP-300 - Electromagnet aplicat de 300 kgf, IP68, rezistent la medii saline
-YMP-180 - Electromagnet aplicat de 180 kgf, IP68, rezistent la medii saline
-FLM19-CASE - Carcasa din plastic, montaj aparent, pentru butoane cu diametru filet M19
-S535(BRAK.F.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535
-G3-TT - Gateway Bluetooth–LAN pentru incuietori inteligente TTLock, conexiune Ethernet RJ45
-CCA3-2-2PLUS - Centrala de control acces IP pentru 2 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
-FL1M-08FW-3-GN - Indicator LED verde, 12–24 Vcc, filet M8, IP65
+CAB4-PS5-wh(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, alb, cu pini magnetici pentru fixare controler
+S535 - Video interfon IP SIP, post de apel cu ecran touchscreen de 5”, Linux, BLE 5.0, recunoaștere facială, NFC, cod QR
+BMPB-Z311-900 - Poarta batanta bidirectionala cu servomotor brushless, senzori deschidere automata, calea de trecere de 900mm
+INBIO-2-2PRO-PLUS - Centrala biometrica de control acces IP pentru 2 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
 Noutati
 Supraveghere video Dahua
 YLI CONTROL ACCES anunță cu plăcere parteneriatul de distribuție cu Zhejiang Dahua Technology Co., Ltd. (Dahua Technology), unul din liderii mondiali furnizor de serv....

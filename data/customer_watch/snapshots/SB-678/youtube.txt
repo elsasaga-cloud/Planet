@@ -1,4 +1,5 @@
-# SB-678 qntmnet.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCE6kjBkYI6dwzp5i_QLQbMQ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-678 qntmnet.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCE6kjBkYI6dwzp5i_QLQbMQ · fetched 2026-10-28T08:44:48Z · HTTP 200
+2026-10-27T10:14:58+00:00	24 hours. Different demands. One network keeping everything connected.	https://www.youtube.com/watch?v=3Hzr9mAEfE8
 2026-10-19T13:13:35+00:00	Installation is only the beginning.	https://www.youtube.com/shorts/R1RTr6qaatE
 2026-10-15T05:30:01+00:00	Compliance proof shouldn’t take hours.	https://www.youtube.com/shorts/R-W3SaPK1eU
 2026-10-12T10:47:32+00:00	The network didn’t change.Your visibility did.	https://www.youtube.com/shorts/gBY_VGFhiLQ
@@ -13,4 +14,3 @@
 2026-06-12T13:16:21+00:00	Who’s Really Connected to Your Network? | Total Access Control with QAM & QSMP	https://www.youtube.com/shorts/_x_xKd7eu1E
 2026-05-26T12:38:42+00:00	QSMP	https://www.youtube.com/shorts/ghMPKv7oNsU
 2026-05-26T11:47:00+00:00	The Scalability Trap: Why Growth Starts Feeling Like a Burden	https://www.youtube.com/shorts/THkwiV01HsA
-2026-01-30T04:30:02+00:00	Quantum QAM is your digital security guard. #QuantumNetworks #SecureNetworks #SeamlessConnectivity	https://www.youtube.com/shorts/3LvQQBdLp9g

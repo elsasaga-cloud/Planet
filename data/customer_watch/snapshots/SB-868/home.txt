@@ -1,4 +1,4 @@
-# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Fiberden
 Whatsapp
 1
@@ -137,6 +137,11 @@ Yeni gelen ürünleri bu alanda görebilirsiniz.
 % 0
 yeni
 fiberden
+FİBERDEN PROFESYONEL FİBER OPTİK SET (ÇANTA HEDİYELİ)
+18.054,00 TL KDV
+% 0
+yeni
+fiberden
 FİBERDEN FİBER OPTİK MULTİ TOOLS SET
 8.274,75 TL KDV
 % 0
@@ -225,6 +230,11 @@ PLC Splitter Kaset Tipi-1/32-SC/APC
 % 0
 Yeni
 fiberden
+FİBERDEN PROFESYONEL FİBER OPTİK SET (ÇANTA HEDİYELİ)
+18.054,00 TL KDV
+% 0
+Yeni
+fiberden
 FİBERDEN FİBER OPTİK MULTİ TOOLS SET
 8.274,75 TL KDV
 % 0
@@ -258,6 +268,9 @@ DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/8 SPLİTTER UYUMLU (BEYAZ)
 fiberden
 FİBERDEN KASET TİPİ 2 * 1/4 SPLİTTER APC
 387,16 TL KDV
+fiberden
+MİNİ SPLİTTER 1/2 APC (YEŞİL)
+188,06 TL KDV
 % 0
 V-SOL
 GPON ONT 1 GE V2801SG (XPON)
@@ -527,11 +540,11 @@ Fiber Drop Kablo Bina İçi 1 Core 1x1 2.0mmX3.0mm
 % 0
 fiberden
 Fiber Optik Pigtail SC APC
-28,59 TL KDV
+32,10 TL KDV
 % 0
 fiberden
 Fiber Optik Pigtail SC UPC
-28,59 TL KDV
+32,10 TL KDV
 % 0
 fiberden
 Fiber Optik Patchcord SC UPC (Simplex)
@@ -553,14 +566,6 @@ Fiber Patch kablo SC/UPC (Duplex)
 fiberden
 Fiber Patch kablo SC To LC (Duplex)
 139,92 TL KDV
-% 0
-fiberden
-Fiber Patch kablo LC To LC (Duplex)
-139,92 TL KDV
-% 0
-fiberden
-Fiber Adaptör SC/UPC (Simplex)
-10,53 TL KDV
 Güvenli̇ Alişveri̇ş
 256Bit SSL Sertifikası ile Güvenli Alışveriş
 Orijinal Ürün

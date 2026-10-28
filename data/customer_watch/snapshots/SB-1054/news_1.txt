@@ -1,4 +1,4 @@
-# SB-1054 luxritesecurity.com · news_1 · https://www.luxritesecurity.com/blog/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-1054 luxritesecurity.com · news_1 · https://www.luxritesecurity.com/blog/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 News
 Contact Us
 +44 1438 909168
@@ -84,6 +84,11 @@ Video Intercom Training
 Home > News
 Next Page
 News
+CCTV Selection & Positioning Guide: Which Camera Should You Install (and Where)?
+26 October 2026
+Choosing the right CCTV camera comes down to matching the environment and distance to the correct camera housing and mounting height. Standard Turret and Bullet cameras installed at ~3m serve as the primary solution for perimeter monitoring and AI analytics, while Motorised Lens and DUO Panoramic cameras offer targeted zooming for narrow passages and 180° coverage for wide spaces. High-risk, accessible areas call for Vandal-Resistant Domes, whereas large sites benefit from elevated PTZs with intelligent alarm tracking and dynamic Mini PTZs. Finally, variable-range ANPR units require distance-based height tuning, and Video Doorbells protect immediate entryways at head height.
+Posted in News
+Read more...
 Understanding SPRO Security Cameras: Economy, Active Deterrent Lite & Pro Explained
 16 September 2026
 Unlike generic competitor cameras that flood the entire area with light whenever any motion is detected within their field of view, SPRO cameras use precise boundary-based triggers to ensure light and sound are activated only when a real threat is detected.
@@ -129,15 +134,11 @@ SPRO 2-Wire 2MP Intercom Kit: The Professional Choice for Seamless Retrofits Rel
 Upgrading an old audio-only intercom shouldn't mean ripping up floorboards or running new Cat5e cables throughout a property. For installers looking to bring modern video security to existing buildings, the SPRO 2-Wire Intercom Kit (DHVDPKIT04-S) is the ultimate problem-solver. It delivers high-definition video and remote control using the two wires already in the wall.
 Posted in News
 Read more...
-Ajax EN54 Fire Hub Jeweller: A Smarter, Wireless Fire Alarm Control Panel for Modern Installations
-25 February 2026
-In environments where safety and reliability are paramount, upgrading to a fire alarm solution that delivers clarity, control and compliance can make all the difference. Meet the Ajax EN54 Fire Hub Jeweller  a fully wireless, EN54-certified fire alarm control and indicating panel (CIE) designed to elevate commercial fire safety systems with intuitive operation, robust performance and seamless integration.
-Posted in News
-Read more...
 Next Page
-Page 1 of 4 (37 Posts)
+Page 1 of 4 (38 Posts)
 News Archives
 All Results
+October 2026
 September 2026
 August 2026
 July 2026
@@ -167,6 +168,8 @@ March 2022
 January 2022
 December 2021
 Recent Posts
+26/10/2026
+CCTV Selection & Positioning Guide: Which Camera Should You Install (and Where)?
 16/09/2026
 Understanding SPRO Security Cameras: Economy, Active Deterrent Lite & Pro Explained
 20/08/2026
@@ -194,8 +197,6 @@ Effortless CCTV Network Separation with Ruijie Reyee
 What Are PIDS (Perimeter Intrusion Detection Systems)?
 13/12/2024
 RG-EST310 V2 - The Solution for Modern Surveillance Demands
-02/09/2024
-SPRO's Active Deterrence LITE Cameras
 Home
 About us
 Request a Trade Account

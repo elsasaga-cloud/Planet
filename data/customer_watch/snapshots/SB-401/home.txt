@@ -1,4 +1,4 @@
-# SB-401 securasound.co.uk · home · https://securasound.co.uk/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-401 securasound.co.uk · home · https://securasound.co.uk/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Welcome to Securasound | Securasound Limited
 Access Control
 CCTV Systems
@@ -105,7 +105,7 @@ Bell Boxes/Sounders
 Cables
 Detection Devices
 ERA Wireless
-Golmar Alarm
+Golmar Wireless Alarm System
 Kits
 Other Wired Devices
 Panels/Keypads
@@ -189,8 +189,10 @@ was £1,424.80
 £979.55
 Superlock 2.0 Code Gate Lock | RapidReset | Double-Sided Keypad
 £288.29
+Special Offer
 Golmar Safe Wireless Alarm Kit
-£330.24
+was £330.24
+£299.99
 Kaba Simplex 7106 Mechanical Digital Door Lock with Rim Nightlatch | No Batteries | Weather Resistant
 £139.04
 AEM20001/KIT Deedlock Slimline Unmonitored Magnet & Z/L Brk

@@ -1,9 +1,9 @@
-# SB-889 teamon.com.tr · news_1 · https://teamon.com.tr/haberler · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-889 teamon.com.tr · news_1 · https://teamon.com.tr/haberler · fetched 2026-10-28T08:44:48Z · HTTP 200
 ﻿
 Haberler
 TeamOn ile teknoloji elinizde!
-49.92,
-55.72
+49.96,
+55.58
 Ana Sayfa
 Ürünler
 Kategoriler

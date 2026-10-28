@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,37 +146,38 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
-Unmanaged
-Media Converter 10/100/1000Base-T Lx 60Km
+Adattatori per inserti RJ45
+Adattattore Per Frutto Serie Axolute Bianco 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-Bretelle Multimodali Zip Duplex 50/125 OM3
-Bretella Fibra OM3 ST-SC 3 m | 4Net
+Loose Dielettrico MDPE OS2 G.652.D
+24 Fo 9/125 Loose Dielettrico Guaina Pe
 Esegui l'accesso per visualizzare i prezzi
 +
-Unmanaged
-4Net 4N-IG082F: switch industriale Gigabit 8 porte + 2 SFP, guida DIN
-Esegui l'accesso per visualizzare i prezzi
-+
-1 GB
-Modulo Mini Gbic Lx – 120Km
-Esegui l'accesso per visualizzare i prezzi
-+
-1 GB
-Transceiver Fibra Sfp (10Km) Wdm Tx-1310 (-40 To 75 C)
-Esegui l'accesso per visualizzare i prezzi
-+
-L2+
-PLANET IGS-12040MT v3: switch gestito 8 Gigabit + 4 SFP fino a 2,5G
+Bretelle Monomodali Zip Duplex 9/125 OS2
+Bretella Fibra OS2 LC-SC 5m | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
 Esaurito
-Loose Dielettrico LSZH OM2
-Cavo fibra ottica 24 FO 50/125 OM2 Loose Dielettrico Interno/Esterno | 4Net CF50CL24LSM2
+Loose Armato Metallico LSZH OM3
+4Net Cavo fibra ottica OM3 24 fibre loose armato LSZH Eca | CF50A24LSM3
 Esegui l'accesso per visualizzare i prezzi
 +
-Antenne e Cavi
-10G Sfp+ Directly-Attached Copper Cavo Da 2M
+Esaurito
+Armadi 800x800
+Armadio Rack a Pavimento 32U 800×800 Porta in Vetro RAL 9004 | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Ventole e Cassetti di ventilazione
+Gruppo 2 Ventole a Tetto per Armadio a Pavimento
+Esegui l'accesso per visualizzare i prezzi
++
+Bretelle Monomodali Zip Duplex 9/125 OS2
+Bretella Fibra OS2 LC-LC 20m | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Lunga Distanza
+Long Reach Ethernet Extender 1-Porta 10/100Tx Over Coaxial
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Armadi rack da esterno IP55 e IP66: come scegliere la protezione giusta

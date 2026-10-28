@@ -1,4 +1,4 @@
-# SB-978 eurobyte.co.za · home · https://www.eurobyte.co.za/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-978 eurobyte.co.za · home · https://www.eurobyte.co.za/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Eurobyte: Home of Premium Technology Solutions | Eurobyte
 #{text}
 OK
@@ -128,8 +128,8 @@ EG400 Series
 EG700 Series
 Switches
 Cattex Switches
-16 Port
 24 Port
+16 Port
 4 Port
 8 Port
 Huawei Switches
@@ -149,10 +149,10 @@ Ruijie Switches
 24 Port
 48 Port
 5 Port
-8 Port
-POE Injectors
 4 Port
+8 Port
 Modular Switches
+POE Injectors
 Uniview Switches
 16 Port
 24Port
@@ -177,8 +177,8 @@ Reyee Bridges
 Airmetro Series
 Wireless Bridges
 Reyee Home Routers
-Wifi 4
 Wifi 5
+Wifi 4
 Wifi 6
 Firewalls
 IT HARDWARE

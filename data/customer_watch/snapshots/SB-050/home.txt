@@ -1,5 +1,40 @@
-# SB-050 PT. ANUGERAH · home · https://pt-aag.co.id/ · fetched 2026-10-27T08:02:45Z · HTTP 500
-Requirements Not Met
-Your PHP installation appears to be missing the MySQL extension which is required by WordPress.
-Please check that the mysqli PHP extension is installed and enabled.
-If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress support forums .
+# SB-050 PT. ANUGERAH · home · https://pt-aag.co.id/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+PT. Anugerah Artha Guna – Konsultan IT – Aplikasi – Jaringan
+Skip to content
+PT. Anugerah Artha Guna
+Konsultan IT – Aplikasi – Jaringan
+Menu
+About
+PRODUK KAMERA XACTI
+WEB MEETING CAMERA
+BODYWORN CAMERA
+WEARABLE CAMERA
+FORECO FOR FORCLIFT
+DOBORECCO FOR EXCAVATOR
+Product
+Customer
+Tutorial
+Gerakan Rakyat
+Contact Us
+Scroll down to content
+About
+Introduction,
+PT. Anugerah Artha Guna (AAG) was founded in 2010. At the beginning of the establishment of AAG, we entered into a work contract with PT. Polymatech Indonesia to provide maintenance support for all computer devices and servers there.
+Over time and experience, we have gradually obtained orders from various companies and industries, both in Jakarta and in the industrial areas in Bekasi, Karawang, and Cikampek.
+For office and industrial applications, we are currently focusing on developing ERP (Enterprise Resource Planning) applications using ERP adri ODOO (Open Demand Open Object).
+The ODOO ERP that we will use depends on the Client’s request, it can use the free ODOO Community ERP or use the paid ODOO Enterprise ERP.
+In addition to application problems, we are also experts in installing computer networks and building data centers.
+Both Application and Computer Network design, as well as Data center construction will be adjusted to the budget owned by prospective customers.
+Do not hesitate to contact us for further discussion via our email link at marketing@pt-aag.co.id or via our WhatsApp number at +62 851-8282-8360 or the whatsapp link at https://wa.me/6285182828360
+Depok, October 7, 2024
+PT. Anugerah Artha Guna
+Ir. Nur Gunawan Sastranegara, M. Eng.
+Director
+List Of Legality,
+01. AKTA No.09 on 26 JULY 2022 by Notaris DEWI MAYA RACHMANDANI SOBARI, S.H., M.Kn.
+02. List of Company Number AHU-0150119.AH.01.11.Tahun 2022 Tgl.03 Agustus 2022 (Keputusan Menteri Hukum dan Hak Asasi Manusia Republik Indonesia).
+03. NPWP : 31.220.423.3-412.000 registered on 13 August 2010
+04. PKP registered on 13 August 2010
+05. Nomor Induk Berusaha (NIB) : 1508220058179
+Kode KBLI : 62019 ( Aktivitas Pemrograman Komputer Lainnya ); 62012 ( Aktivitas Pengembangan Aplikasi Perdagangan Melalui Internet – E-Commerce ); 62090 ( Aktivitas Teknologi Informasi dan Jasa Komputer Lainnya ); 62024 ( Aktivitas Konsultasi dan Perancangan Internet of Things – IoT ); 62021 ( Aktivitas Konsultasi Keamanan Informasi ); 62029 ( Aktivitas Konsultasi Komputer dan Manajemen Fasilitas Komputer Lainnya ).
+Proudly powered by WordPress

@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3963)
+Svi proizvodi (3962)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -321,13 +321,13 @@ Failover kutije (3)
 PoE svičevi
 PoE komponente
 USB telefoni i gejtveji (4)
-Ethernet svičevi (619)
+Ethernet svičevi (618)
 Neupravljivi svičevi (79)
 24 porta (1)
 8 portova (8)
 16 portova (1)
 6-8 portova (7)
-Upravljivi svičevi (152)
+Upravljivi svičevi (151)
 8 portova
 16 portova (1)
 24 porta
@@ -510,9 +510,9 @@ Izdavanje opreme je do h
 NETIKS d.o.o. Bregalnička 9a
 11000 Beograd
 Kursna lista
-EUR = 126
-USD = 118
-odnos USD/EUR 0.937
+EUR = 118
+USD = 107
+odnos USD/EUR 0.907
 Dinar
 Euro
 US Dollar

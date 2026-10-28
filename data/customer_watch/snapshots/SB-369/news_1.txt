@@ -1,4 +1,4 @@
-# SB-369 wieland-electric.com · news_1 · https://www.wieland-electric.com/en/company/news/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-369 wieland-electric.com · news_1 · https://www.wieland-electric.com/en/company/news/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Press & Public Relations | Wieland Electric WEBSITE SETTINGS
 We use cookies on our website. Some of them are essential, while others help us improve this site and your experience. You can update your settings at any time.
 Privacy Policy
@@ -77,6 +77,7 @@ Retrofit Training
 Machinery Directive Training
 Webinars Upcoming Webinars
 Webinar Recordings
+Webinar Series Machinery Safety Meets Cybersecurity
 Whitepaper Whitepaper
 Discover our collection of whitepapers: Choose your topic and deepen your knowledge in the fields of electrical installation systems and functional safety systems. Enjoy browsing!
 Inhouse Trainings Inhouse Trainings
@@ -126,7 +127,7 @@ CE-Process Back CE-Process Research Risk Assessment Safety Concept Safety Engine
 Software & Apps Back Software & Apps Building Solutions Designer BIM Building Solutions Configurator (BSC) samos® PLAN6 gesis® PLAN selos PLAN Terminal Block Configurator wipos PLAN
 Infoportal Product Security (PSIRT) Downloads
 Training Back Training Seminars Back Seminars Seminars Back Seminars Machinery Safety Expert Training Electrical Safety Engineer Training Electrical Engineering Refresher Course Sistema Training Functional Safety Training Retrofit Training Machinery Directive Training
-Webinars Back Webinars Upcoming Webinars Webinar Recordings
+Webinars Back Webinars Upcoming Webinars Webinar Recordings Webinar Series Back Webinar Series Machinery Safety Meets Cybersecurity
 Whitepaper Inhouse Trainings
 Company Back Company About us Back About us Why Wieland History Code of Conduct Social Commitment
 Purchasing & Quality Back Purchasing & Quality Quality Purchasing Lead-free Products Copper Surcharge
@@ -224,7 +225,4 @@ IMMEDIATE SAFETY
 28.02.2023
 WITH WIELAND PLUG TO THE SAFE BALCONY POWER PLANT
 21.02.2023
-READY FOR THE FUTURE OF MODULAR CONSTRUCTION
-16.02.2023
-SUSTAINABLE AND SMART ELECTRICAL INSTALLATION WITH PLUG & PLAY
-31.01.
+R

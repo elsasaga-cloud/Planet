@@ -1,4 +1,4 @@
-# SB-418 atel.com.pl · home · https://www.atel.com.pl/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-418 atel.com.pl · home · https://www.atel.com.pl/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 ﻿
 Atel Electronics - Import i dystrybucja
 Ta strona wykorzystuje pliki cookies w celu świadczenia usług, dostosowania serwisu do preferencji użytkowników oraz w celach statystycznych i reklamowych.
@@ -7,94 +7,94 @@ Kontynuując, przyjmujemy Twoją zgodę na wdrażanie plików cookies i ich zapi
 MENU
 dostarczamy nowoczesne technologie
 tel.: 77 455 60 76 | cust@atel.com.pl
-Wtorek, 27 października
+Środa, 28 października
 [ Zaloguj się ]
-Patchcordy światłowodowe, pigtaile, adaptery, złącza, tłumiki - WAVE OPTICS
-Ekonomiczne Kamery Termowizyjne
-Kabel UTP i FTP, Skrętka, kat. 5e, 6, 6a, 7 - WAVE CABLES
+Przewody koncentryczne H155, RG174, RG213, RG58, RG59, RG6
 Urządzenia zgodne z normą kolejową EN50155
 VUTLAN - Monitoring parametrów środowiskowych Serwerowni
-Konsole LCD KVM, Przełączniki KVM - kat.5, IP - WaveKVM
-PATCHCORDY, miedziane i światłowodowe
-Listwy zasilające, 4-9 gniazd, do szaf rack 10 i 19"
+Patchcordy światłowodowe, pigtaile, adaptery, złącza, tłumiki - WAVE OPTICS
 SFP, SFP+, SFP28, QSFP+, QSFP28, GBIC
+Konsole LCD KVM, Przełączniki KVM - kat.5, IP - WaveKVM
+Listwy zasilające, 4-9 gniazd, do szaf rack 10 i 19"
 Sieci Przemysłowe - ORing Industrial Networking
-Przewody koncentryczne H155, RG174, RG213, RG58, RG59, RG6
+Ekonomiczne Kamery Termowizyjne
 Termometr bezdotykowy, bezdotykowy pomiar temperatury ciała
-#03564
-3,88 PLN
-Patchcord UTP-K6a; 0,25 m; żółty; LSOH/LSZH, ultra flex / Patchcordy
-#04124
+Kabel UTP i FTP, Skrętka, kat. 5e, 6, 6a, 7 - WAVE CABLES
+PATCHCORDY, miedziane i światłowodowe
+#04120
 28,00 PLN
-Patchcord LSH/APC-LSH/APC, SM, 9/125, simpleks, włókno G652D, 5 m / Patchcordy światłowodowe
-#09787
-8 590,00 PLN
-Edge-corE ECS4650-54P, Switch zarządzalny, 48x 10/100/1000 RJ-45 PoE, 6x 25G SFP28, 19" / Switche
-#03560
-5,58 PLN
-Patchcord UTP-K6a; 1,5 m; czarny; LSOH/LSZH, ultra flex / Patchcordy
-4,72 PLN
-#03549
-Patchcord UTP-K6a; 1,0 m; niebieski; LSOH/LSZH, ultra flex
-54,20 PLN
-#03151
-Przyłącze 5m do czujników Vutlan 6P4C AWG24
+Patchcord LSH/UPC-LSH/UPC, SM, 9/125, simpleks, włókno G652D, 5 m / Patchcordy światłowodowe
+#03149
+2 630,00 PLN
+Vutlan VT608G, Kontroler IP 19" 1U 8x230V; 2x analog; 2x wejścia bezpotencjałowe; 1x CAN / Monitoring Serwerowni
+#09772
+750,00 PLN
+Switch zarządzalny, 8x 2,5G, 1x slot 10G SFP+, PoE++, 19" (TP-Link ES210XPP-M2) / Switche
+#03310
+10,60 PLN
+Patchcord SC/UPC-LC/UPC, MM, 50/125, dupleks, włókno OM2, 0,5 m / Patchcordy światłowodowe
+5,90 PLN
+#03322
+Patchcord SC/APC-SC/APC, SM, 9/125, simpleks, włókno G657A1, 0,5 m
 508,00 PLN
 #09768
 Gigabitowy bezprzewodowy most 5Ghz (TP-Link Flex Bridge 5)
-9,90 PLN
-#03553
-Patchcord UTP-K6a; 5,0 m; niebieski; LSOH/LSZH, ultra flex
-6,00 PLN
-#03323
-Patchcord SC/APC-SC/APC, SM, 9/125, simpleks, włókno G657A1, 1 m
-4,17 PLN
-#03558
-Patchcord UTP-K6a; 0,5 m; czarny; LSOH/LSZH, ultra flex
+2 520,00 PLN
+#03141
+Vutlan VT825GG, Kontroler IP 19" 1U; 8x analog; 16x wejść bezpotencjałowych; 1x CAN
+477,00 PLN
+#09756
+Bezprzewodowy router 4G+ Cat6, standard AX1500, 1500Mb/s (TP-Link Archer MX700)
+7,60 PLN
+#03326
+Patchcord SC/APC-SC/APC, SM, 9/125, simpleks, włókno G657A1, 5 m
+16,90 PLN
+#04115
+Patchcord LSH/APC-SC/UPC, SM, 9/125, simpleks, włókno G652D, 2 m
 więcej nowości »
-#09728
-1 800,00 PLN
-1 770,00 PLN
-4 Mpx Kamera sieciowa zewnętrzna typu turret (TP-Link InSight S445S(2.8mm)) / Smart home
-#09262
-387,00 PLN
-381,00 PLN
-TP-Link Mercusys Halo H80X(2-pack), Router Mesh Halo H80X 2-pack, Wi-Fi 6, AX3000 / 802.11ax (WiFi 6)
-#09470
-988,00 PLN
-971,00 PLN
-TP-Link SG2210XMP-M2, Switch zarządzalny, 8x 2,5G, 2x slot 10G SFP+, PoE+, 19" / Switche
+#09458
+929,00 PLN
+913,00 PLN
+Bezprzewodowy gigabitowy router VPN Omada, standard AX, 3000Mbps, 5x 10/100/1000 RJ-45, 1x slot SFP, desktop (TP-Link ER706W-4G) / Routery
+#09587
+102,00 PLN
+100,00 PLN
+TP-Link Archer TX35U Plus, Dwupasmowa bezprzewodowa karta AX1800 USB 3.0 / 802.11ax (WiFi 6)
+#09681
+326,00 PLN
+321,00 PLN
+Bezprzewodowa zewnętrzna kamera Wi-Fi z panelem słonecznym (TP-Link Tapo C610 Kit) / Smart home
+#09570
+131,00 PLN
+129,00 PLN
+TP-Link SM5110LSB-10, Moduł SFP+ 1x 10 Gbps LC SM, 10 km, WDM TX: 1270 nm / Moduły SFP, SFP28, QSFP, GBIC
+#09609
+405,00 PLN
+398,00 PLN
+TP-Link Mercusys Halo H85X(2-pack), Router Mesh Halo H85X 2-pack, Wi-Fi 6, AX3000 / 802.11ax (WiFi 6)
+405,00 PLN 398,00 PLN
+#09609
+Router Mesh Halo H85X 2-pack, Wi-Fi 6, AX3000 (TP-Link Mercusys Halo H85X(2-pack))
+26,40 PLN 25,90 PLN
+#09333
+Bezprzewodowa żarówka punktowa LED Smart ze ściemniaczem (TP-Link Tapo L610)
+102,00 PLN 100,00 PLN
+#09079
+Bezprzewodowy router dwupasmowy Dual-band AC1200, standard AC, 1200Mb/s (TP-Link Archer C54)
+590,00 PLN 302,00 PLN
 #03153
-590,00 PLN
-302,00 PLN
-Bezprzewodowy czujnik dymu, temperatury i wilgotności LoRaWAN (Vutlan LR560) / Monitoring Serwerowni
-#09151
-1 280,00 PLN
-1 260,00 PLN
-TP-Link TL-SG3452, Switch zarządzalny, 48x 10/100/1000 RJ-45, 4x slot SFP, 19" / Switche
-1 280,00 PLN 1 260,00 PLN
-#09151
-Switch zarządzalny, 48x 10/100/1000 RJ-45, 4x slot SFP, 19" (TP-Link TL-SG3452)
-83,30 PLN 81,90 PLN
-#07019
-Bezprzewodowy N Access Point (TP-Link TL-WA801N)
-415,00 PLN 409,00 PLN
-#09457
-Gigabitowy router VPN SafeStream, 5x 10/100/1000 RJ-45, 1x slot SFP, desktop (TP-Link ER7406)
-359,00 PLN 353,00 PLN
-#09592
-Switch inteligentny, 24x 10/100/1000 RJ-45, 11,6" z uchwytami na 19" (TP-Link ES224G)
-573,00 PLN 563,00 PLN
-#09263
-Router Mesh Halo H80X 3-pack, Wi-Fi 6, AX3000 (TP-Link Mercusys Halo H80X(3-pack))
-161,00 PLN 158,00 PLN
-#09486
-Konwerter 1G/2.5G/5G/10Gbps RJ-45/slot SFP+ (TP-Link MC420L)
+Bezprzewodowy czujnik dymu, temperatury i wilgotności LoRaWAN (Vutlan LR560)
+131,00 PLN 129,00 PLN
+#09264
+Wzmacniacz sygnału bezprzewodowego, AC1900, 1900Mb/s (TP-Link Mercusys ME50G)
+934,00 PLN 918,00 PLN
+#09472
+Switch inteligentny, 24x 10/100/1000 RJ-45, 4x SFP, PoE+, 19" (TP-Link SG2428LP)
 więcej obniżek »
 Wyprzedaż produktów poserwisowych i poekspozycyjnych OUTLET
 Informujemy Państwa o wyprzedaży pełnosprawnych produktów poserwisowych i poekspozycyjnych. Teraz mogą Państwo nabyć, w wyjątkowo atrakcyjnej cenie , produkty nie odbiegające funkcjonalnością od ich nowych odpowiedników. Szczegółów na temat towarów poserwisowych udzielą Państwu pracownicy Działu Handlowego. więcej»
 Produkty firm:
-ORING NETWORKING
+WAVE OPTICS
 NAJPOPULARNIEJSZE
 Mastech MS6818 - Profesjonalny lokalizator przewodów, rur, metalu / Lokalizatory i detektory
 MASTECH
@@ -114,8 +114,7 @@ WAVE CABLES
 Fluke Networks PRO 3000 - Szukacz par przewodów / Szukacze par przewodów
 FLUKE NETWORKS
 Wtyk RJ-45, rj45, 8p8c, kat5e, na przewód okrągły, drut, UTP / Złącza modularne męskie, osłony
-Adapter światłowodowy SC/APC duplex, jednomodowy / Adaptery światłowodowe
-WAVE OPTICS
+Kabel światłowodowy jednomodowy, światłowód, 4x9/125, G652D, LSOH/LSZH / Kable światłowodowe
 O firmie
 Atel Electronics
 Partnerzy handlowi
@@ -177,7 +176,7 @@ WAVE INDUSTRIAL
 WAVE KVM
 WAVE OPTICS
 TAGI:
-lsa , pigtail , LSOH , szafa serwerowa , keystone , miernik uniwersalny , miernik elektryczny , M12 , przewód utp , zaciskarka do konektorów , zaciskarka rj45 , oring switch , szafy serwerowe , miernik cęgowy , multimetr , LoRa , sfp wdm , szafy teleinformatyczne , pirometr , szafa rack , utp 5e , kabel skrętka , patchcord 6a , kamery termowizyjne , patch cord utp , EN50155 , switch , SFP+ , przewód koncentryczny , szafa rack 19 , ZigBee , kabel utp kat 6 , zaciskarka bnc , IEC 61850-3 , przełącznik kvm , utp kabel , kabel utp , kabel koncentryczny , 8p8c , miernik jakości powietrza , multimetry , SFP28 , switch przemysłowy , switch poe , kabel antenowy , patchcord , skrętka utp , keystone , kabel światłowodowy , opaski kablowe , Smart Grid , PoE , rejestrator temperatury , utp lsoh , FTTH , LSZH , switch zarządzalny , patchpanel , skrętka kat 6 , anteny lte , mierniki cęgowe , slot SFP , UniFi , SFP , PoE plus , patch panel , True RMS , przewody koncentryczne , kabel ftp , IEC 62443-4-2 , switch M12 , detektor przewodów
+szafa serwerowa , switch , zaciskarka do konektorów , szafa rack 19 , miernik cęgowy , sfp wdm , kabel światłowodowy , keystone , IEC 62443-4-2 , patch cord utp , patch panel , 8p8c , ZigBee , kabel koncentryczny , keystone , switch M12 , multimetry , switch poe , slot SFP , przełącznik kvm , LSOH , zaciskarka bnc , szafa rack , lsa , LoRa , SFP28 , miernik uniwersalny , szafy teleinformatyczne , M12 , Smart Grid , kabel skrętka , skrętka utp , kabel ftp , kabel utp kat 6 , przewody koncentryczne , pirometr , PoE , UniFi , zaciskarka rj45 , skrętka kat 6 , FTTH , patchpanel , patchcord , utp 5e , kabel utp , PoE plus , IEC 61850-3 , szafy serwerowe , kabel antenowy , opaski kablowe , przewód koncentryczny , EN50155 , miernik elektryczny , utp lsoh , switch przemysłowy , rejestrator temperatury , SFP+ , pigtail , multimetr , przewód utp , miernik jakości powietrza , switch zarządzalny , SFP , anteny lte , utp kabel , LSZH , mierniki cęgowe , kamery termowizyjne , oring switch , True RMS , patchcord 6a , detektor przewodów
 ©2026 Atel Electronics
 Zasady sprzedaży Reklamacje Ochrona środowiska Polityka dotycząca plików cookies Polityka prywatności
 Siedziba zgodnie z KRS: ATEL ELECTRONICS Spółka z ograniczoną odpowiedzialnością, ul. Oleska 121, 45-231 Opole; Kapitał zakładowy: 50.000,00; KRS 0001010225; Sąd Rejonowy w Opolu, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego; REGON: 524050890; NIP: 7543356130

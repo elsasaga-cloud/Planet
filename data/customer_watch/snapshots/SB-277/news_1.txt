@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,16 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+UniFi Long-Range PoE: alimentación y datos hasta 800 metros para instalaciones remotas
+28 de octubre de 2026
+Conoce
+El Long-Range Switch 8 PoE y el Outdoor Long-Range Endpoint de Ubiquiti amplían el alcance de la conectividad cableada y PoE para cámaras, control de accesos y dispositivos IoT remotos.
+Read More
+MikroTik CLAIRÉ y CLAIRÉ Lite: calidad del aire interior con Matter over Thread
+28 de octubre de 2026
+Conoce
+MikroTik presenta CLAIRÉ y CLAIRÉ Lite, monitores de calidad del aire interior con CO₂, VOC, temperatura y humedad (y partículas PM2.5/PM10 en el modelo completo), pantalla en color de 2" y Matter over Thread para automatizar la ventilación en local.
+Read More
 Grandstream GWN7672WM: Wi-Fi 7 tribanda de pared con uplink de 5 GbE
 27 de octubre de 2026
 Conoce
@@ -62,16 +72,6 @@ UniFi Industrial: switches DIN sin ventilador y U7 Industrial IP67 para entornos
 15 de octubre de 2026
 Conoce
 Ubiquiti completa su familia UniFi Industrial con tres switches DIN rail redundantes y el U7 Industrial, un punto de acceso IP67 con antena direccional, cobertura 360° y aislador RF, todo gestionado desde UniFi.
-Read More
-DAP-E3620: Wi-Fi 7 empresarial a medida del proyecto y del presupuesto
-14 de octubre de 2026
-Conoce
-El D-Link DAP-E3620 ofrece Wi-Fi 7 BE3600 de doble banda, 2,5 GbE PoE y opciones de gestión para redes profesionales. Analizamos cuándo esa configuración encaja y cuándo conviene valorar 6 GHz.
-Read More
-UniFi Network 11: más visibilidad, SD-WAN y dispositivos Matter en una sola red
-14 de octubre de 2026
-Conoce
-Ubiquiti renueva la telemetría de UniFi Network 11 con más de un 30 % de mejora en escalabilidad, tráfico en tiempo real, WiFi WAN en modelos compatibles, nuevas políticas SD-WAN y visibilidad de dispositivos Matter.
 Read More
 Paginación de entradas
 1
@@ -629,5 +629,4 @@ comunicación
 comunicacion bidireccional
 comunicación empresas
 comunicacion unificada
-comunicacion unificada grandstream
-comunicaciones
+comunic

@@ -1,4 +1,4 @@
-# SB-803 bestpc.bg · home · https://bestpc.bg/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-803 bestpc.bg · home · https://bestpc.bg/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Магазин за лаптопи, компютри и компоненти - BestPC.BG
 Бисквитки
 Използваме бисквитки
@@ -271,43 +271,39 @@ LED Аксесоари
 Мрежи — изграждане и поддръжка
 Към офертата
 Към продукта
-Интерфейс: Безжична Bluetooth
-Производител: CORSAIR
-ПРОМОЦИЯ
-149 90 € 167.99 €
-ПРОМО CORSAIR SABRE V2 PRO MG Wireless Black Магнезиева, 30000 DPI, 2.4GHz, 8KHz Купи сега
-Към продукта
-ASRock
 Сокет: AM5
-Слотове: 4 бр. х DDR5
-Чипсет: AMD A620
-СУПЕР ЦЕНА
-114 90 € 151.08 €
-ПРОМО ASROCK A620AM PRO RS WIFI mATX AM5 DDR5 Купи сега
+Физически ядра: 6 бр.
+Честота: 5.10 Ghz
+Логически ядра: 12 бр.
+Кеш памет: 38 MB
+ИЗГОДНО
+209 90 € 260.96 €
+ПРОМО AMD Ryzen 5 7600 (AM5) Processor with Wraith Stealth Cooler and Radeon Graphics Купи сега
 Към продукта
-СУПЕР ЦЕНА
-499 00 € 539.93 €
-ПРОМО Триместно канапе BERGEN - оранжев SJ Купи сега
+Мощност: 1000 VA / 600 W
+Тип: Line-interactive
+СПЕЦИАЛНА ЦЕНА
+89 90 € 99.60 €
+ПРОМО NJOY Keen 1000 USB, 1000VA / 600W, Line-interctive, 4x Schuko, 1x USB Type B Купи сега
+Към продукта
+ПРОМОЦИЯ
+234 90 € 275.88 €
+ПРОМО SIMAGIC GT1-SR Кръгъл волан, пера за превключване, кожа, QR70, 4 бутона, черен Купи сега
 Към продукта
 НАМАЛЕНИЕ
-144 90 € 171.73 €
-ПРОМО Sencor SES 4910SS, 20 bar, 1350 W, с контейнер за мляко Купи сега
+194 90 € 219.85 €
+ПРОМО PHILIPS Airfryer Series 3000 7.2l Rapid Air Plus LED Dislpay black Купи сега
 Към продукта
-AMD Ryzen 5 5600X
-Брой ядра: 6 бр.
-RAM: 16 GB VideoRAM: 8 GB
-NVIDIA GeForce RTX 5050
-: 1000 GB
-СУПЕР ЦЕНА
-1299 90 € 1500.00 €
-ПРОМО Геймърски компютър BPC Canvas 5 2026 Ryzen 5 5600X, 16GB DDR4, 1TB SSD NVME, GeForce RTX 5050 8GB GDDR6 Купи сега
+СПЕЦИАЛНА ЦЕНА
+18 90 € 19.99 €
+ПРОМО Moon M603,10 W, работи с калъфи с дебелина до 3 мм, 1 м кабел, IP67 Купи сега
 Към продукта
-NVidia GeForce RTX 5050
-RAM: 8 GB
-DirectX: 12.0 Ultimate
-ПРОМОЦИЯ
-419 90 € 450.60 €
-ПРОМО MSI RTX5050 8G GAMING OC Купи сега
+Цвят: Черен
+Свързване: Bluetooth
+Дизайн: Over-Ear - покриващи ухо
+СПЕЦИАЛНА ЦЕНА
+38 90 € 55.16 €
+ПРОМО Геймърски CANYON headset EGO GH-16 3in1 2.4Ghz+BT Черни Купи сега
 Промоции
 Лаптопи
 Компютри
@@ -317,42 +313,42 @@ DirectX: 12.0 Ultimate
 Телевизори
 Периферия
 ПРОМО ПРОДУКТИ
-Dahua HAC-HFW1200CM-IL-A-0360B-S6, 2MP Bullet, 3.6 мм, IR до 20 м
-46.90 €
-36 .90 €
-Dahua HAC-HDW1231TLMQ-A-0280B, HD-CVI, 2 Mpx Full HD, Turret, до 30 м
-56.90 €
-44 .90 €
-Lemontti Crystal Aurora връзка за телефон, 30 см, Златиста
-9.40 €
-5 .90 €
-Инвертор KEMOT URZ3407B 12/220V, 1200W, чиста синусоида, UPS функция
-388.60 €
-250 .90 €
-Клетка за смартфон Levenhuk Kelvin RIG20
-90.90 €
-74 .90 €
-Инвертор KEMOT URZ3429, 24/220V, 1800W, UPS функция
-452.50 €
-289 .90 €
-Инвертор KEMOT URZ3406, 12VDC-220VAC, 700W, UPS функция
-237.80 €
-159 .90 €
-Геймърски компютър BPC AURA 5 2026 Ryzen 5 7500F, 32GB DDR5, 1TB SSD NVME, Asrock Intel Arc B570 Challenger 10GB GDDR6
-2149.00 €
-1749 .90 €
-Геймърски компютър BPC Predator 3 2025 i3-14100F, 16GB DDR5, 1TB SSD NVME, RTX 3050 6GB GDDR6
-1500.50 €
-1249 .90 €
-Aкумулаторна батерия Long WP12-12A F2, 12V 12Ah, 151 x 93 x 98 мм
-36.40 €
-30 .27 €
 Кресло GRETA - оранжев PO
 313.90 €
 249 .90 €
-Dahua F3D-IL-0280B - 3MP Wi-Fi Bullet, 2.8 мм, IR до 30 м
+Геймърски компютър BPC Spark 5 2026 Ryzen 5 5600GT, 16GB DDR4, 1TB SSD NVME, Intel Arc B570 Challenger 10GB GDDR6
+1850.00 €
+1349 .90 €
+KEMOT URZ3427 PROsinus, 24VDC-220VAC, 1050W, UPS функция
+294.00 €
+224 .90 €
+Инвертор KEMOT URZ3406, 12VDC-220VAC, 700W, UPS функция
+237.80 €
+159 .90 €
+Непрекъсваемо токозахранващо устройство UPS Hikvision DS-UPS600-R, Off-line, 600VA, 300W, Shuko
+59.90 €
+49 .90 €
+Аналоговa камерa Dahua HAC-HDW1200TLM-IL-A-0280B-S6 , 2MP, 2.8 мм, до 20 м, черна
 48.90 €
-39 .90 €
+38 .90 €
+Dahua HAC-HDW1231TLMQ-A-0280B, HD-CVI, 2 Mpx Full HD, Turret, до 30 м
+56.90 €
+44 .90 €
+Геймърски компютър BPC Frostbite 2025 Ryzen 5 5500, 16GB DDR4, 1TB SSD NVME, RTX 5050 8GB GDDR6
+1500.40 €
+1249 .90 €
+Инвертор KEMOT URZ3405, 12VDC-220VAC, 500W, UPS функция
+183.10 €
+123 .10 €
+Dahua P3AS-PV-0400B Picco, 3MP WiFi IP PTZ, AI SMD Plus, IR + LED осветление, двупосочно аудио, microSD 256GB, IP66
+59.90 €
+49 .90 €
+Тягов акумулатор Long CWP150-12N 12V 150Ah, Оловно-Карбонов, 483х170х240 mm
+384.00 €
+318 .48 €
+TP-Link TL-WR941ND, 450 Mbps, WiFi-4 - 802.11b/g/n, 2.4 Ghz, 5 db
+39.00 €
+17 .00 €
 Експресна доставка
 1-2 работни дни за цялата страна
 Право на връщане
@@ -368,22 +364,22 @@ Dahua F3D-IL-0280B - 3MP Wi-Fi Bullet, 2.8 мм, IR до 30 м
 Имейл адрес
 Абониране
 НАЙ-ПРОДАВАНИ
-Apple iPhone 17 Pro, 6.3", 12GB 256GB, Оранжев
-1419 .00 €
+Уред за отвиване и навиване на кабели с тегло до 300 кг. Runpotec XB 300
+121 .90 €
+Панорамна TP-Link Tapo C520WS, Pan-Tilt, WiFi, ден-нощ до 30м., Micro SD, outdoor
+56 .90 €
+Ruijie RG-EST100-E, 300N, WiFi Bridge, 2x Fast Ethernet (10/100), 500m, 2 броя
+40 .90 €
 Акумулаторна батерия Long U1-36NE, 12V 36Ah, за UPS, 131x159x197 mm
 87 .38 €
-TP-LINK CPE610, 300Mbps, 5GHz, 27dBm, 23dBi антена, външен монтаж
-64 .90 €
-NJOY Keen 800, 800VA/480W, Line Interactive, 2x Schuko
-55 .90 €
-LED микроскоп за смартфон Levenhuk Kelvin TMC10
+Apple iPhone 17 Pro, 512GB, 12 GB RAM, 48 MP камера, 18 MP предна камера, IP68, 6.3 inch, оранжев
+1699 .00 €
+FTP Cat5e 24AWG CCA STANDARD кашон 305м
 43 .90 €
-Тягов акумулатор Long CWP115-12N 12V 115Ah, Оловно-Карбонов, 338x170x212 мм
-237 .19 €
-Детски стол Carmen 6012 T - розов
-44 .90 €
-HIKVISION DS-2CD1343G2-LIU, IP ONVIF, 4 Mpx, Turret, IR+LED до 30 м, микрофон
-111 .90 €
+IPTV приемник Infomir MAG 540w3 (Set-Top-Box) - медиен плейър
+99 .70 €
+RUNPOTEC X-BOARD – XB 500, Уред за размотаване на кабели с тегло до 800 кг.
+250 .90 €
 ПО КАТЕГОРИИ
 ЛАПТОПИ
 лаптопи, нетбуци и ултрабуци:
@@ -498,16 +494,3 @@ Pazaruvaj - Надежден помощник за покупки
 Сервиз (обща част)
 Профилактика и почистване на лаптопи
 Гаранционен сервиз
-Извънгаранционен сервиз
-Услуги
-Изкупуване на лаптопи и компютри
-Абонаментна поддръжка
-Ценова листа на услугите
-Друга информация
-За контакти
-За фирмата
-Общи условия
-Гаранционни условия
-Настройки за бисквитки
-© Copyright BestPC.BG 2001 - 2026
-Всички права запазени | Новатех ЕООД | 

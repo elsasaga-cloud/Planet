@@ -1,4 +1,4 @@
-# SB-748 dnaelektro.cz · home · https://www.dnaelektro.cz/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-748 dnaelektro.cz · home · https://www.dnaelektro.cz/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Úvodní stránka | DNA Elektro
 Dostupnost zboží
 Doprava
@@ -11,7 +11,11 @@ Zobrazit menu Aktivní součástky Optoelektronika
 Polovodiče
 Příslušenství pro součástky
 Senzory
-Auto a volný čas Auto a cyklistika
+Automatizace Automatizace
+Dopravní technika
+Pneumatická technika a hydraulika Allfluid
+Vývojářské sady
+Domácnost a volný čas Auto a cyklistika
 Domácnost & Kuchyně
 Dům & zahrada
 Fitness & Zdraví
@@ -24,10 +28,6 @@ Modelářství
 Modely železnic
 Péče o tělo a wellness
 Radiostanice
-Automatizace Automatizace
-Dopravní technika
-Pneumatická technika a hydraulika Allfluid
-Vývojářské sady
 Elektromechanika Akustické součástky
 Desky plošných spojů
 Magnetismus
@@ -35,15 +35,27 @@ Pojistky
 Relé
 Rozvaděče, rozvodnice a krabičky
 Spínače a tlačítka
+IT a kancelářská technika Kancelářské potřeby
+Monitory & Příslušenství
+Notebooky
+Paměťová média
+PC komponenty
+PC příslušenství
+Počítače
+Sítě
+Software
+Storage servery
+Tablety a čtečky e-knih
+Tiskárny, skenery
 Konektory a kabely Kabely a vedení
 Konektory
-Měření a napájení Akumulátory a baterie
+Měřicí technika a napájecí zdroje Akumulátory a baterie
 Měřicí přístroje
 Meteostanice
 Nabíječky
 Síťové zdroje
 Váhy
-Multimédia Audio
+Multimédia a telekomunikace Audio
 Foto a video
 Herní konzole a gaming
 Kabely a adaptéry
@@ -55,7 +67,7 @@ Tablety a čtečky e-knih
 Telefony
 TV a video
 TV přijímače
-Nářadí a dílna Čisticí nástroje, úklid budov
+Nářadí a dílenské vybavení Čisticí nástroje, úklid budov
 Elektrické nářadí
 Hydraulické nářadí
 Lepidla, lepicí pásky a suché zipy
@@ -79,19 +91,7 @@ Krystaly
 Potenciometry
 Rezistory
 VF a EMC součástky
-PC a kancelář Kancelářské potřeby
-Monitory & Příslušenství
-Notebooky
-Paměťová média
-PC komponenty
-PC příslušenství
-Počítače
-Sítě
-Software
-Storage servery
-Tablety a čtečky e-knih
-Tiskárny, skenery
-Dům & Smart Living Bezpečnostní technika
+Technika budov a Smart Living Bezpečnostní technika
 Elektroinstalace
 Koupelna a sanita
 Osvětlení
@@ -102,7 +102,7 @@ Stavební materiály
 Voda
 Vytápění, vzduchotechnika a klimatizace
 Zahradní jezírka a akvaristika
-Vývojové sady Arduino
+Vývojové a vzdělávací sady Arduino
 Stavebnice a moduly
 Vývojové moduly a nástroje
 Vzdělávání a odborná příprava

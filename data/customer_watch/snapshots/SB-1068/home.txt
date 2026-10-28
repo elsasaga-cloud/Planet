@@ -1,4 +1,4 @@
-# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Komponenty sieciowe, systemy UPS, kamery IP - rbline.pl
 Masz pytania? Zadzwoń
 77 555 91 30 / 796 224 537 (Pon - Pt - 8-16)
@@ -431,7 +431,7 @@ LovingCool
 A700-WHITE
 153,26 zł
 Dostawa:
-do poniedziałku, 02.11
+do wtorku, 03.11
 2 szt.
 Maksymalna dostępna ilość: 2 szt. Większą ilość możemy sprowadzić na zapytanie.
 Typ obudowy: Middle Tower ; Panel boczny: Szkło hartowane ; Standard płyty głównej: ATX, microATX, Mini-ITX ; Maksymalna długość karty graficznej: 380 mm ; Maksymalna wysokość chłodzenia CPU: 168 mm ; Maksymalna liczba wentylatorów: 10 szt. - 120 mm ; Wymiary zewnętrzne obudowy: 425 x 285 x 420 mm ;
@@ -444,7 +444,7 @@ LovingCool
 A700-BLACK
 138,01 zł
 Dostawa:
-do poniedziałku, 02.11
+do wtorku, 03.11
 2 szt.
 Maksymalna dostępna ilość: 2 szt. Większą ilość możemy sprowadzić na zapytanie.
 Typ obudowy: Middle Tower ; Panel boczny: Szkło hartowane ; Standard płyty głównej: ATX, microATX, Mini-ITX ; Maksymalna długość karty graficznej: 380 mm ; Maksymalna wysokość chłodzenia CPU: 168 mm ; Maksymalna liczba wentylatorów: 10 szt. - 120 mm ; Wymiary zewnętrzne obudowy: 425 x 285 x 420 mm ;
@@ -457,7 +457,7 @@ LovingCool
 A400-BLACK
 230,00 zł
 Dostawa:
-do poniedziałku, 02.11
+do wtorku, 03.11
 2 szt.
 Maksymalna dostępna ilość: 2 szt. Większą ilość możemy sprowadzić na zapytanie.
 Typ obudowy: Middle Tower ; Panel boczny: Szkło hartowane ; Standard płyty głównej: E-ATX, ATX, microATX, Mini-ITX ; Maksymalna długość karty graficznej: 420 mm ; Maksymalna wysokość chłodzenia CPU: 155 mm ; Maksymalna liczba wentylatorów: 10 szt. - 120 mm ; Wymiary zewnętrzne obudowy: 443 x 277 x 426 mm ;
@@ -465,4 +465,6 @@ Dodaj
 Nowy
 Ostatnie sztuki w magazynie
 Produkty
-OBUDOWA KOMPUTEROWA A10-WHITE MIDDLE TOWER LOVINGCO
+OBUDOWA KOMPUTEROWA A10-WHITE MIDDLE TOWER LOVINGCOOL
+LovingCool
+A10-

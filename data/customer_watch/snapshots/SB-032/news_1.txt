@@ -1,4 +1,4 @@
-# SB-032 PIOLINK · news_1 · https://www.piolink.com/en/company/News.php · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-032 PIOLINK · news_1 · https://www.piolink.com/en/company/News.php · fetched 2026-10-28T08:44:48Z · HTTP 200
 PIOLINK - News
 Skip to main content
 Skip to main menu
@@ -86,6 +86,10 @@ No.
 분류
 제목
 작성일
+201
+[Notice] PHP Engine Vulnerabilities (CVE-2026-109618 / CVE-2026-109619): Product Impact and Recommended Actions
+2026-10-28
+Notice
 200
 PIOLINK Presents Korea-Style SOC Operations Strategy to the Philippines' National Cyber Security Center Shifting from detection-centric to resilience-centric operations — a next-generation SOC model built around embedded AI
 2026-08-26
@@ -141,10 +145,6 @@ Press Releases
 187
 PIOLINK Participated in K-Global@Vietnam 2025
 2025-06-23
-Press Releases
-186
-PIOLINK Hosts Cybersecurity Strategy Seminar for Kyrgyz Government Officials
-2025-05-26
 Press Releases
 1 2 3 4 5 6 7 8 9 10
 Share this page

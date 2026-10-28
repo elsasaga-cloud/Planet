@@ -1,4 +1,4 @@
-# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Industrial Automation & Data Communication Distributor | eWorld
 Easy World Automation L.L.C
 Partners 0
@@ -43,7 +43,7 @@ MRX-Q4064 Series 6
 PM-7500 Module Series 8
 PT-G7828 Series 7
 PWR (Power Modules) Series 0
-PoE Switches 0
+PoE Switches 2
 EDS-4000/G4000 Series 44
 EDS-G205A Series 0
 EDS-G512E Series 4
@@ -58,7 +58,7 @@ RKS/RM-G4000 Series 39
 SDS-3000/G3000 Series 20
 TN-4000/G4000 Series 35
 TN-5000 Series 52
-TN-G6500 Series 2
+TN-G6500 Series 0
 EN 50155 Ethernet Switches 88
 TN-4000 Series 0
 TN-4500A Series 24
@@ -67,7 +67,6 @@ TN-5000 Series 59
 TN-5300A Series 6
 TN-5305 Series 2
 TN-5308 Series 16
-TN-5500A Series 28
 TN-5524-8PoE Series 2
 TN-5816A Series 2
 TN-5818A Series 2
@@ -86,7 +85,6 @@ ICS-G7848A Series 1
 ICS-G7850A Series 1
 ICS-G7852A Series 1
 IKS-6700A Series 0
-IKS-6726A Series 6
 IKS-G6000A Series 12
 IM Module Series 0
 IM-6700A Series 12
@@ -111,39 +109,21 @@ Ethernet Embedded Modules 8
 Two-wire Ethernet Switches (SPE/APL) 0
 TWS-3010-APL Series 1
 TWS-3010-SPE Series 1
-DIN-Rail Ethernet Switches 169
-EDS-608 Series 2
-EDS-611 Series 2
-EDS-616 Series 2
-EDS-619 Series 2
+DIN-Rail Ethernet Switches 113
 EDS-728 Series 1
 EDS-828 Series 3
-EDS-G308 Series 4
-EDS-G4012 Series 8
-EDS-G4014 Series 4
 EDS-P308 Series 10
 EDS-P506A-4PoE Series 8
-EDS-P510 Series 2
-MDS-G4012 Series 2
-MDS-G4012-4XGS Series 1
-MDS-G4012-L3 Series 2
 MDS-G4012-L3-4XGS Series 1
-MDS-G4020 Series 2
-MDS-G4020-4XGS Series 1
 MDS-G4020-L3 Series 2
 MDS-G4020-L3-4XGS Series 1
-MDS-G4028 Series 2
-MDS-G4028-4XGS Series 1
-MDS-G4028-L3 Series 2
-MDS-G4028-L3-4XGS Series 1
+MDS-G4028-L3 Series 0
+MDS-G4028-L3-4XGS Series 0
 PT-508 Series 15
 PT-510 Series 21
 PT-G503 Series 2
 PT-G510 Series 12
 TN-5305 Series 2
-TN-5308 Series 16
-TSN-G5004 Series 1
-TSN-G5008 Series 1
 IEC 61850-3 Ethernet Switches 127
 PT-508 Series 15
 PT-510 Series 21
@@ -178,9 +158,18 @@ Cellular Compact Gateways and Modems 9
 Cellular Gateways 6
 Cellular Modems 3
 Industrial Cellular Routers and Gateways 34
+Zigbee Converters 4
 Industrial Cellular Gateways 22
 Industrial Cellular Routers 12
-Zigbee Converters 4
+Ethernet Media Converters 0
+Ethernet-to-Fiber Media Converters 0
+CSM-(G)200 Series 4
+CSM-400 Series 10
+IMC-101(G) Series 18
+IMC-21 Series 15
+IMC-P Series 14
+PTC-101 Series 16
+TRC-190/2190 Series 4
 Secure Remote Access 11
 Moxa Remote Connect Suite 38
 Network Security Appliance 40
@@ -431,132 +420,131 @@ SDR Series 3
 48 VDC 0
 HDR Series 4
 SDR Series 4
-NEXCOM 0
-Intelligent Digital Security 0
-3D Camera 4
-ANPR/LPR 0
-High Speed 1
-Mid Range 2
-Short Range 2
-IP Camera 0
-Box Camera 4
-Indoor Dome Camera 7
-IR Bullet Camera 4
-Mobile Camera 4
-Outdoor Dome Camera 2
-NVR Hardware Platform 0
-Mobile NVR 3
-Rack NVR 3
-Slim NVR 3
-Tower NVR 2
-Panoramic Camera 0
-Intelligent Platform & Services 0
-Appliance Solutions 0
-Central Management Appliance 1
-Media Player Appliance 3
-Digital Signage Player 0
-High-performance Player 7
-Multi-display Player 3
-OPS Player 8
-SDM Player 1
-Value Player 13
-Embedded Computing 3
-3.5'' / 5.25'' SBC 8
-Computer-on-Module 13
-Mini-ITX MB 8
-Starter Kits 1
-Embedded Touch Computer 4
-Fanless Edge Computing System 4
-Industrial Rackmount Computer 0
-Industrial Motherboard 6
-PBOX Rackmount System 6
-PICMG 1.0/1.3 BackPlane 18
-PICMG 1.0/1.3 SBC 7
-Intelligent Kiosk Solution 3
-Interactive Signage Solution Packs 1
-Kiosk Panel PC 7
-Marine Computer 6
-Fanless Computer 12
-Panel PC 3
-Open Frame Panel PC 8
-Passenger Information Panel PC 0
-All-in-one Panel PC 1
-Display 1
-POS 0
-High Performance POS Terminal 3
-Mid-Range POS Terminal 6
-POS Box PC 1
-Touch POS Monitor 1
-Video Wall Signage Solutions 1
-IoT Automation Solutions 0
-Industrial Fanless Computer 0
-Atom Compact 14
-Atom Power 8
-Core-i Performance 26
-Front Access Core-i 2
-Industrial Wireless Solutions 0
-Industrial Wi-Fi 3
-Outdoor Wi-Fi 6
-Remote Network Management 0
-Industry Firewall Solution 3
-IoT Solutions 0
-IoT Gateway 7
-IoT Solution Pack 0
-IoT Studio 0
-IWSN Gateway 6
-Machine Automation 0
-CNC Controller 4
-EtherCAT Motion Controller 8
-EtherCAT Slave Module 6
-EtherCAT-based Robot Solutions 3
-Machine Automation Controller 2
-Panel PC 0
-Applied Panel PC/ Monitor 11
-Human Machine Interface 6
-Industrial Panel PC/ Monitor 13
-Teach Pendant 2
-PC-based Factory Automation 0
-Automation Industrial Computer 11
-Automation Softlogic Controller 10
-Automation Starter Kit 0
-miniPCIe Module - COM 3
-miniPCIe Module - I/O 1
-miniPCIe Module - LAN 4
-miniPCIe Module - Fieldbus 5
-Tray Rackmount 1
-Software Solution 0
-Medical & Healthcare Informatics 0
-HealthCare & Medical 1
-IoT Gateway 2
-Software Package 0
-Video Conference System 0
-Mobile Computing Solutions 1
-Edge AI Telematics Solution 9
-NVIDIA Solution 16
-In-Vehicle Networking 0
-Poe Switch 2
-Mobile NVR 0
-Train NVR w/ VMS Software 1
-Vehicle NVR w/ VMS Software 1
-Modular Vehicle Computer System 0
-First Response Vehicles 3
-Public Transit / Public Works 1
-Security 6
-Railway Computer 0
-Passenger Information System 5
-Security 14
-Security w/ VMS Software 1
-Vehicle Mount Computer 0
-Fleet Management 4
-Port management 8
-Public Transit 1
-Warehouse Management 5
-Vehicle Mount Display 0
-10‌" 1
-7" 2
-8" 3
-Vehicle Telematics Computer 2
-Core™ Power Efficient 3
-First Response Vehicle 11
-Fleet Management 3
-Public Transit / Public Works 
+PROXIM 0
+Point-to-Multipoint 9
+Crosspoint 10100 Series 6
+Edge 1055 Series 2
+Edge Multipoint 1025 Series 3
+Edge Multipoint 1035 Series 1
+Edge Multipoint 1066 CPE Series 1
+Multipoint 10200 CPE/CPA Series 4
+Tsunami 800 Series 0
+Tsunami MP-820 Series 12
+Tsunami MP-825-CPE Series 2
+Tsunami MP-826-CPE Series 1
+Tsunami MP-835-CPE Series 2
+Tsunami 8260 Series 3
+Tsunami MP-10100 CPE-CPA Series 16
+Tsunami MP-10100 Series 12
+Tsunami MP-10100L Series 12
+Tsunami MP-10100S Series 8
+Tsunami MP-10250-BSX Series 4
+Point-to-Point 6
+Edge Quickbridge 1025 Series 1
+Edge Quickbridge 1035 Series 1
+Edge Quickbridge 1066 LNK Series 1
+Quickbridge® 10250 BeamX Series 2
+Stratum™ X1 1
+Stratum™ X3 5
+Stratum™ X5 4
+Tsunami 10100S Series 2
+Tsunami 800 Series 0
+Tsunami QB-820 Series 4
+Tsunami QB-826 Series 1
+Tsunami QB-830 Series 4
+Tsunami 10100 Series 6
+Tsunami 10100L Series 4
+Tsunami 10100-LNK Series 4
+Tsunami GX-810 Series 5
+Tsunami GX-824 Series 8
+Wireless LAN Access 0
+ORiNOCO AP-8100 1
+ORiNOCO AP-9100 1
+ORiNOCO AP-9200R 2
+ORiNOCO AP-9100R 1
+ORiNOCO QB-9100 2
+ORiNOCO USB-9100 1
+Network Controller 0
+SIEMENS 0
+SCALANCE 0
+Accessories 2
+SCALANCE M - Industrial Routers 0
+Mobile Wireless Antennas 0
+Mobile Wireless Routers 0
+Wired Routers 0
+SCALANCE S - Industrial Security Appliances 0
+Industrial Firewall Appliances 0
+Industrial VPN Appliances 0
+SCALANCE W - Industrial Wireless LAN 0
+Antennas and Accessories 0
+Demanding Solutions 0
+Easy, Compact Solutions 0
+High-Performance Solutions (Wi-Fi 6 & more) 0
+SCALANCE X - Industrial Ethernet Switches 0
+Compact Switch Modules (CSM) 2
+CSM 1277 Unmanaged 2
+CSM 377 Unmanaged 1
+SCALANCE X for Process Automation 0
+SCALANCE X-000 Compact Switches 13
+SCALANCE X-100 Unmanaged Switches and Media Converters 16
+SCALANCE X-200 Managed Gigabit Switches 17
+SCALANCE X-300 Rack Mounted Ethernet Switches 0
+SCALANCE X-400 Managed Layer 2 Switches 0
+SCALANCE X-500 Managed Layer 3 Switches 0
+RUGGEDCOM 0
+Accessories 27
+Layer 2 switches 0
+Layer 2 Compact Switches 17
+Layer 2 Rack-mount Switches 8
+Layer 3 Switches and Routers 7
+Media Converters and Serial Servers 11
+Software 5
+Wireless 8
+REALWEAR 0
+Accessories 41
+HMT Platform 5
+BRIDGEWAVE 0
+Microwave 0
+Navigator 2
+Millimeter Wave 0
+80GHz 5
+BRODERSEN 0
+RTU32M - Modular PLC/RTU 0
+Concept 0
+Power Supplies 0
+Communication 0
+Modules 0
+Redundancy 0
+Backplanes 0
+Programming 0
+HMI 0
+Driver 0
+Certificates 0
+Security 0
+Download 0
+RTU32N - Compact PLC/RTU 0
+Modules 0
+Power Supplies 0
+Communication 0
+Backplanes 0
+Programming 0
+Concept 0
+Drivers 0
+Certificates 0
+Security 0
+HMI 0
+PULS 0
+Power Supplies 0
+1-phase Power Supplies 0
+AS-Interface® Power Supply 4
+DeviceNet Power Supply 2
+DIN-rail Power Supplies for 1-phase Systems 92
+Power Supply with Integrated Decoupling Function 9
+Power Over Ethernet 2
+3-phase Power Supplies 0
+AS-Interface® Power Supply 1
+DIN-rail Power Supplies for 3-phase Systems 25
+DC/DC Converter or PS with DC Input 0
+AS-Interface® Power Supply 1
+DC/DC Converter 15
+DeviceNet Power

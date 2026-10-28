@@ -1,4 +1,4 @@
-# SB-157 dci.jp · feed_auto · https://dci.jp/feed · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-157 dci.jp · feed_auto · https://dci.jp/feed · fetched 2026-10-28T08:44:48Z · HTTP 200
 Mon, 05 Oct 2026 07:50:03 +0000	COMNEXT 第4回［次世代］通信技術＆ソリューション展に出展します	https://dci.jp/news/comnext-%e7%ac%ac4%e5%9b%9e%ef%bc%bb%e6%ac%a1%e4%b8%96%e4%bb%a3%ef%bc%bd%e9%80%9a%e4%bf%a1%e6%8a%80%e8%a1%93%ef%bc%86%e3%82%bd%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e5%b1%95%e3%81%ab
 Mon, 31 Aug 2026 01:48:52 +0000	【重要】Yahoo!ショッピングのストア閉店のお知らせ	https://dci.jp/news/%e3%80%90%e9%87%8d%e8%a6%81%e3%80%91yahoo%e3%82%b7%e3%83%a7%e3%83%83%e3%83%94%e3%83%b3%e3%82%b0%e3%81%ae%e3%82%b9%e3%83%88%e3%82%a2%e9%96%89%e5%ba%97%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b
 Thu, 18 Jun 2026 08:02:26 +0000	7月開催展示会【JANOG58】【ケーブル技術ショー2026】に出展します。	https://dci.jp/news/exhibition072026

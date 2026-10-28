@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,44 +41,47 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Triton 19" stojanový rack 27U/800x800 prosklené dveře, šedý
-11 110 Kč bez DPH
-13 443 Kč s DPH
-Triton 19" stojanový rack 45U/800x800 prosklené dveře, šedý
-15 180 Kč bez DPH
-18 368 Kč s DPH
-Hikvision IP bullet kamera DS-2CD2T43G2-4LI(4mm), 4Mpx, 4mm, 80m LED/IR, AcuSense
-Teltonika Security S32GM, Hybridní zabezpečovací ústředna s 2G/LTE Cat 1, 32 zón
-2 547 Kč bez DPH
-3 082 Kč s DPH
-Lexar Micro SDXC 256GB BLUE PLUS
-1 508 Kč bez DPH
-1 825 Kč s DPH
-Triton 19" dvojdílný rack 6U/295mm prosklené dveře, černý
-3 260 Kč bez DPH
-3 945 Kč s DPH
-Hikvision IP dome hybrid kamera DS-2CD2183G2-LIS2U(2.8mm), 8Mpx, 2.8mm, AcuSense
-SanDisk Extreme PRO Micro SDXC 64GB + SD adaptér
-836 Kč bez DPH
-1 012 Kč s DPH
-Triton optická vana pro 8x ST konektor RAC-FO-X01-C1, 1U, 10", šedá
-195 Kč bez DPH
-236 Kč s DPH
-Ubiquiti UniFi patch kabel, 1m, Cat5e, černý, 24 pack
-1 910 Kč bez DPH
-2 311 Kč s DPH
-Samsung 990 NVMe SSD, M.2, 2TB
-9 107 Kč bez DPH
-11 019 Kč s DPH
-Triton 19" stojanový rack 27U/600x1000 prosklené dveře, šedý
-11 350 Kč bez DPH
-13 734 Kč s DPH
-Kingston Micro SDXC Canvas Select Plus Gen3 128B + SD adaptér
-645 Kč bez DPH
-781 Kč s DPH
-Ubiquiti UACC-Adapter-PoE-24-12W, Gigabitový PoE Injektor, 24V/0.5A (12W), 5 pack
-839 Kč bez DPH
-1 015 Kč s DPH
+Hiksemi Micro SDXC 64GB + SD adaptér
+Teltonika Security LT4, Dálkové ovládání
+430 Kč bez DPH
+521 Kč s DPH
+TP-Link ER603WP-4G Omada 4G+ Outdoor Gateway
+3 694 Kč bez DPH
+4 470 Kč s DPH
+Triton plastový vyvazovací háček pro kabely 35 x 30mm, černý
+32 Kč bez DPH
+38 Kč s DPH
+Triton ventilační jednotka s termostatem RAC-CH-X05-X3, 230V/90W, 6 ventilátorů, šedá
+4 850 Kč bez DPH
+5 869 Kč s DPH
+MEAN WELL LRS-150-15 Průmyslový zdroj, 150W, 15V
+554 Kč bez DPH
+670 Kč s DPH
+Conexpro optický patch cord, LCupc/SCapc, Simplex, Singlemode 9/125, 5m
+88 Kč bez DPH
+106 Kč s DPH
+Hikvision IP dome hybrid kamera DS-2CD2783G2-LIZS2U(2.8-12mm), 8Mpx, 2.8-12mm, AcuSense
+Teltonika TeltoCharge HomeWizard P1 Dongle
+1 119 Kč bez DPH
+1 354 Kč s DPH
+Triton 19" stojanový rack 27U/600x800 prosklené dveře, šedý
+10 140 Kč bez DPH
+12 269 Kč s DPH
+Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý, 10 pack
+809 Kč bez DPH
+979 Kč s DPH
+Lexar High Endurance Micro SDXC 128GB
+1 397 Kč bez DPH
+1 690 Kč s DPH
+Triton 19" stojanový rack 22U/600x900 prosklené dveře, šedý
+9 957 Kč bez DPH
+12 048 Kč s DPH
+Triton průchozí panel s kartáčem, 1U, 19", černý
+220 Kč bez DPH
+266 Kč s DPH
+Triton 19" stojanový rack 22U/600x800 prosklené dveře, šedý
+9 213 Kč bez DPH
+11 148 Kč s DPH
 Aktuality
 Představujeme Teltonika Security
 26.10.2026

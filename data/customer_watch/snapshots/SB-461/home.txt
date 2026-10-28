@@ -1,4 +1,4 @@
-# SB-461 EMOS · home · https://www.emos.cz/ · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-461 EMOS · home · https://www.emos.cz/ · fetched 2026-10-28T08:44:48Z · HTTP 200
 EMOS - drobné elektro pro vás | Nakupujte výhodně | EMOS
 Přeskočit na hlavní obsah
 Přeskočit na záhlaví
@@ -33,7 +33,7 @@ Váhy
 Termostaty a detektory
 (48)
 Zabezpečení domu
-(82)
+(81)
 Domovní zvonky
 (47)
 Antény a VF technika
@@ -59,7 +59,7 @@ Novinky
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart
-(129)
+(128)
 Jaro / léto
 (176)
 Hledat
@@ -90,7 +90,7 @@ Váhy
 Termostaty a detektory
 (48)
 Zabezpečení domu
-(82)
+(81)
 Domovní zvonky
 (47)
 Antény a VF technika
@@ -118,7 +118,7 @@ Novinky
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart
-(129)
+(128)
 Jaro / léto
 (176)
 Žárovky
@@ -140,7 +140,7 @@ Váhy
 Termostaty a detektory
 (48)
 Zabezpečení domu
-(82)
+(81)
 Domovní zvonky
 (47)
 Antény a VF technika
@@ -166,20 +166,20 @@ Novinky
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart
-(129)
+(128)
 Jaro / léto
 (176)
 Zobrazit další kategorie
 Píšeme, radíme, inspirujeme a testujeme
+Inspirace
+Podzimní šero je tady? Vraťte svým pokojovkám slunce
+Jakmile se dny zkrátí a sluníčka začne ubývat, naše domácí džungle to vycítí jako první. Listy ztrácí šťávu, bylinky na okně se smutně natahují za posledními paprsky a vy trnete, v jaké kondici nakonec letošní zimu přežijí. Přesně proto jsou tu naše LED pěstební lampy – spolehlivý životabudič pro chladné měsíce.
 Rady & návody
 PREMIUM CONNECT: Vytvořte si vánoční osvětlení podle svých představ
 Běžné vánoční osvětlení nádherně okrášlí váš dům, restauraci či provozovnu, často ale má své limity. Pokud plánujete výzdobu rozlehlejší zahrady, fasády nebo terasy, sáhněte po modulárním řešení EMOS PREMIUM CONNECT. Jednotlivé komponenty si snadno nakombinujete přesně svých požadavků a dispozic exteriéru nebo firemního prostoru.
 Inspirace
 EMOS GoSmart – chytrá domácnost pro každého
 Představte si chytrou domácnost jako stavebnici. Nemusíte hned měnit celou elektroinstalaci ani přesně vědět, jak má výsledný systém vypadat. Začnete jedním zařízením, vyzkoušíte si jeho možnosti a postupně přidáváte další. Právě v tom spočívá jedna z hlavních výhod systému EMOS GoSmart.
-Rady & návody
-Přehřátý buben, horká zásuvka, požár. Kde doma zbytečně riskujete s elektřinou?
-Problémy s elektřinou nevznikají jen v rozvaděči. Často začínají přímo v zásuvce nebo prodlužovacím kabelu, do kterého zapojíte přímotop, výkonné nářadí či zahradní techniku. Několik špatných návyků může způsobit přehřátí kontaktů a poškození izolace, aniž by jistič včas zareagoval. Podívejte se, kde možná doma zbytečně riskujete.
 Pokračovat na náš blog
 Aktuality
 EMOS byl oceněn

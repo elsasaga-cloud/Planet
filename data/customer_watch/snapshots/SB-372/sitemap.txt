@@ -1,4 +1,4 @@
-# SB-372 很多UK公司在卖他们的产品 · sitemap · https://amgsystems.com/sitemap.xml · fetched 2026-10-27T08:02:45Z · HTTP 200
+# SB-372 很多UK公司在卖他们的产品 · sitemap · https://amgsystems.com/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
 	https://amgsystems.com/about
 	https://amgsystems.com/about/about-us
 	https://amgsystems.com/about/news
@@ -77,13 +77,13 @@
 	https://amgsystems.com/markets/critical-infrastructure
 	https://amgsystems.com/case-studies
 	https://amgsystems.com/case-studies/case-studies
+	https://amgsystems.com/case-studies/case-studies/daemon-and-amg-systems-provide-video-surveillance-network-for-new-iport-rail-terminal
 	https://amgsystems.com/case-studies/case-studies/amg-systems-and-juniper-networks-help-deliver-belfast-busways-monitoring-upgrade
 	https://amgsystems.com/case-studies/case-studies/amg-help-digitise-cardiffs-traffic-monitoring-cctv-network
 	https://amgsystems.com/case-studies/case-studies/borough-of-barnet-public-cctv-at-its-best
 	https://amgsystems.com/case-studies/case-studies/amg-supports-security-upgrade-at-fustat-garden
 	https://amgsystems.com/case-studies/case-studies/amg-powering-security-connectivity-at-the-avenues-riyadh
 	https://amgsystems.com/case-studies/case-studies/a-new-chapter-for-egypts-tourism-journey
-	https://amgsystems.com/case-studies/case-studies/daemon-and-amg-systems-provide-video-surveillance-network-for-new-iport-rail-terminal
 	https://amgsystems.com/support
 	https://amgsystems.com/support/technical-support
 	https://amgsystems.com/support/technical-support/remote-assistance
