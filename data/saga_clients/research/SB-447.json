@@ -1,253 +1,260 @@
 {
-  "code": "SB-447",
-  "name_official": "Automation Systems and Solution（Delhi）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（automationsystem.in，快照 2026-10-21）",
-  "summary": "德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "ONV",
-    "Teltonika"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "品类：工业网络设备、GSM/GPRS、数据采集、机器安全、网络交换机、SMPS；型号 IND-D-M-FG-0402-N / 0404 / 0802 / 1004；关键词 industrial 72 / switch 55 / automation 43；Delhi-110092；+91 98107 69077",
-      "quote": "Industrial Network Devices GSM/GPRS Modems Industrial Data Acquisition Machine safety… Network Switches… models IND-D-M-FG-0402-N, IND-D-M-FG-0404-N, IND-D-M-FG-0802-N, IND-D-M-FG-1004-N",
-      "url": "https://automationsystem.in/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "从 ONV 买 几个台湾品牌；2025-04 群发 2 光 4 PoE→ds",
-      "quote": "兴趣：从ONV买 几个台湾品牌；回复：ds",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Azad Khan",
-      "title": "（表内联系人）",
-      "email": "infoautomation18@gmail.com",
-      "phone": "+91 99584 28786",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对）"
+ "code": "SB-447",
+ "name_official": "Automation Systems and Solution（Delhi）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（automationsystem.in，快照 2026-10-21）",
+ "summary": "德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ONV",
+  "Teltonika"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "品类：工业网络设备、GSM/GPRS、数据采集、机器安全、网络交换机、SMPS；型号 IND-D-M-FG-0402-N / 0404 / 0802 / 1004；关键词 industrial 72 / switch 55 / automation 43；Delhi-110092；+91 98107 69077",
+   "quote": "Industrial Network Devices GSM/GPRS Modems Industrial Data Acquisition Machine safety… Network Switches… models IND-D-M-FG-0402-N, IND-D-M-FG-0404-N, IND-D-M-FG-0802-N, IND-D-M-FG-1004-N",
+   "url": "https://automationsystem.in/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Automation Systems and Solution",
-    "founded": "（待核）",
-    "hq": "Delhi 110092, India",
-    "size": "小型工业分销",
-    "other": "自有编号工业交换机（IND-D-M-FG-xxxx）"
-  },
-  "business_lines": [
-    "工业自动化元器件分销",
-    "工业以太网交换机（ONV + 台湾品牌 + 自编号）",
-    "GSM 调制解调器 / 数据采集"
-  ],
-  "products_seen": [
-    {
-      "brand": "（自编号）",
-      "model": "IND-D-M-FG-0402-N / 0404-N / 0802-N / 1004-N",
-      "spec": "DIN 管理型工业交换机 4+2 / 4+4 / 8+2 / 10+4（推断）",
-      "saga": "Saga STI-244GP / STI-288GP / STI-4168… 对位",
-      "url": "https://automationsystem.in/all-switch.php",
-      "date": "2026-10-21"
-    }
-  ],
-  "channels": {
-    "role": "工业分销商（已从中国同行 ONV 采购）",
-    "region": "印度（德里）"
-  },
-  "signals": [
-    "已从 ONV 进口同类 → 可同规格替换",
-    "要了 2 光 4 PoE DS（2025-04）"
-  ],
-  "risks": [
-    "ONV 价格基准低；印度 BIS"
-  ],
-  "saga_fit": {
-    "p1": "STI-244GP",
-    "tier": 20,
-    "why": "其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。"
-  },
-  "email_hook": "Azad — Elsa quoted the STI-244GP at $35 in April 2025 (today $45 USD EXW, managed STI-244GPM $64.6); is it for a specific automation site, or stock next to your ONV units?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）；补核（第 73 批）：Elsa 04-10 已回规格书 + STI-244GP $35、04-22 追问样机，之后无回 → 回过一次后读而不回；Elsa 1:1 去信 9 轮 2025-05-12→2026-08-04（To 仅本户 infoautomation18@gmail.com；头 msg 19fcaee9199ad8c7 核对无 Bcc，称呼「Hi, Azad」= 个性化逐月 1:1 名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-10 Re:「Industrial PoE Switch」、2025-04-22 Re:「Industrial PoE Switch」；此前经 锚 support@sislinfotech.com 的 Bcc 收到 1 轮（2025-04-10→2025-04-10）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 11 条）；Elsa 群发 BCC 已触达 2025-04-10「Industrial PoE Switch」（稿内无价，第 74 批(p) 已读稿），印度-5 工业/仪控（锚 sislinfotech；2025-04-10 起月轮，10 轮） 批次 To support@sislinfotech.com，0 回（第 74 批 Bcc 头核对 msg 1961e48a695e465f）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "一封规格书 + 价（STI-244GP $49.5 / STI-244GPM $77 列表价）",
-      "lane": "IN 次级（点名）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 13；用户表：「兴趣：从ONV买 几个台湾品牌；回复：ds」；研究档 risks：ONV 价格基准低；印度 BIS；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To support@sislinfotech.com）本户见于 2025-04-10 名单"
-    },
-    "situation": "德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。",
-    "need": "其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。",
-    "breakpoint": "ONV 价格基准低；印度 BIS",
-    "saga_now": {
-      "p1": "STI-244GP",
-      "tier": 20,
-      "price": "自家实报 STI-244GP $35/pc（Elsa 2025-04-10，老汇率）→ 信稿写 $45 并点明 FX 7.2→6.7；按主表（研究档 saga_fit）；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45（非管理工业线成本表陈旧，档位价 $35.2 不可靠）；STI-244GPM 列表价 $77 → 20% 档 $64.6；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-21 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-21；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（顺手）",
-      "channel": "Elsa 邮箱回原线程",
-      "action": "首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-12→2026-08-04，客户回过信（2025-04-10、2025-04-22）），此前还经锚 Bcc 触达（第 74 批(m)）；再触一问（规格书 Elsa 04-10 已发，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-      "one_question": "Azad — Elsa quoted the STI-244GP at $35 in April 2025 (today $45 USD EXW, managed STI-244GPM $64.6); is it for a specific automation site, or stock next to your ONV units?"
-    },
-    "facts": [
-      {
-        "date": "2024-12-31",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "10G media converter、Web managed switch",
-        "why": "13 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-31（13 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-04-10",
-        "dir": "来",
-        "who": "Azad Khan（Automation Systems and Solution）",
-        "quote": "Thanks First, we need datasheet",
-        "why": "要 2 光 4 电工业 PoE（120W）规格书",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2025-04-10",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "1, Price: 35usd/pc STI-244GP: industrial PoE Switch 2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged… -40℃ to 75℃, Din mounted, Without SFP Transceiver, without power adapter 2, Please see attached datasheet（附 STI-244GP.pdf）",
-        "why": "Elsa 当天回了规格书 + $35 实价；之前信稿「datasheet never reached you properly」写反了",
-        "k": "gmail_e 1961f90afa90cc6c"
-      },
-      {
-        "date": "2025-04-10",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To support@sislinfotech.com，印度-5 工业/仪控（锚 sislinfotech；2025-04-10 起月轮，10 轮） 批次）",
-        "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 infoautomation18@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2025-04-22",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "Any feedback about our product and offer? Do you need some samples for testing?",
-        "why": "追问样机，之后 Azad 无回",
-        "k": "gmail_e 1965c7cf423f243a"
-      },
-      {
-        "date": "2025-05-12",
-        "dir": "out",
-        "who": "Elsa → infoautomation18@gmail.com",
-        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "196c2f8ae874b707"
-      },
-      {
-        "date": "2025-06-21",
-        "dir": "out",
-        "who": "Elsa → infoautomation18@gmail.com",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "1979133774d69cd2"
-      },
-      {
-        "date": "2025-10-02",
-        "dir": "out",
-        "who": "Elsa → infoautomation18@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "199a3149933955ed"
-      },
-      {
-        "date": "2025-12-04",
-        "dir": "out",
-        "who": "Elsa → infoautomation18@gmail.com",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19ae78452119288a"
-      },
-      {
-        "date": "2025-12-29",
-        "dir": "out",
-        "who": "Elsa → infoautomation18@gmail.com",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19b684439e637db6"
-      },
-      {
-        "date": "2026-03-02",
-        "dir": "out",
-        "who": "Elsa → infoautomation18@gmail.com",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19cace4774eda79d"
-      },
-      {
-        "date": "2026-04-03",
-        "dir": "out",
-        "who": "Elsa → infoautomation18@gmail.com",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19d51805c8bc23d4"
-      },
-      {
-        "date": "2026-05-11",
-        "dir": "out",
-        "who": "Elsa → infoautomation18@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19e1532043bfa92d"
-      },
-      {
-        "date": "2026-08-04",
-        "dir": "out",
-        "who": "Elsa → infoautomation18@gmail.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19fcaee9199ad8c7"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：从ONV买 几个台湾品牌；回复：ds",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "（已核 2026-10-24，第 73 批）Elsa 2025-04-10 已回 STI-244GP 规格书 + $35/pc，04-22 追问样机，之后无回",
-      "（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条一来二去（04-10 要规格书 → 当天回价 → 无下文），不是 WhatsApp"
-    ],
-    "draft_en": {
-      "subject": "2× SFP + 4× PoE industrial switch — April quote, update",
-      "body": "Hi Azad,\n\nIn April 2025 Elsa sent you the STI-244GP datasheet (2× gigabit SFP + 4× gigabit PoE af/at, DIN-rail, -40 to +75 °C, unmanaged) at $35 per unit and asked whether you wanted samples; we did not hear back. Today the same unit is $45 USD EXW (2026-10-17 snapshot, valid 15 days — the RMB has moved from 7.2 to 6.7 since that quote); the managed version STI-244GPM is $64.6.\n\nOne question: is this for a specific automation site (how many cabinets), or for your general stock next to the ONV units you buy today?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "从 ONV 买 几个台湾品牌；2025-04 群发 2 光 4 PoE→ds",
+   "quote": "兴趣：从ONV买 几个台湾品牌；回复：ds",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Azad Khan",
+   "title": "（表内联系人）",
+   "email": "infoautomation18@gmail.com",
+   "phone": "+91 99584 28786",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "GST 登记人 / 合伙经营 Automation Systems & Solution（indiamart）= 收件人；2025-04 对 2 光 4 PoE 回复要 DS（第 114 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "R.K. (Rakesh Kumar) Sharma",
+   "role": "CEO Automation Systems & Solution（indiamart / tatanexarc）（第 114 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.indiamart.com/automation-systems-solution/profile.html"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Automation Systems & Solution（个体经营；GSTIN 07AOCPK7395A1Z0；T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj, Delhi 110092；2007 起；≤10 人；₹0–40 lakh 自报；Teltonika / Procon / Banner / Shavison / Citel 授权分销）",
+  "founded": "2007（第 114 批 官方登记核实 2026-10-28）",
+  "hq": "Delhi 110092, India",
+  "size": "小型工业分销",
+  "other": "自有编号工业交换机（IND-D-M-FG-xxxx）；第 114 批：个体但工业网络专营（自有编号工业交换机 IND-D-M-FG-0402-N + 授权进口商）、主动要 DS → **分销 20% small，一页纸一次（补发 2 光 4 PoE 对位 STI-154GP / STI-144GP 规格书 + 一口价 + MOQ 1 + 付费样机；Azad 直呼）**；再无回声 → 不动（个体规则例外：工业专营）（第 114 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "工业自动化元器件分销",
+  "工业以太网交换机（ONV + 台湾品牌 + 自编号）",
+  "GSM 调制解调器 / 数据采集"
+ ],
+ "products_seen": [
+  {
+   "brand": "（自编号）",
+   "model": "IND-D-M-FG-0402-N / 0404-N / 0802-N / 1004-N",
+   "spec": "DIN 管理型工业交换机 4+2 / 4+4 / 8+2 / 10+4（推断）",
+   "saga": "Saga STI-244GP / STI-288GP / STI-4168… 对位",
+   "url": "https://automationsystem.in/all-switch.php",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "工业分销商（已从中国同行 ONV 采购）",
+  "region": "印度（德里）"
+ },
+ "signals": [
+  "已从 ONV 进口同类 → 可同规格替换",
+  "要了 2 光 4 PoE DS（2025-04）"
+ ],
+ "risks": [
+  "ONV 价格基准低；印度 BIS"
+ ],
+ "saga_fit": {
+  "p1": "STI-244GP",
+  "tier": 20,
+  "why": "其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。"
+ },
+ "email_hook": "Azad — Elsa quoted the STI-244GP at $35 in April 2025 (today $45 USD EXW, managed STI-244GPM $64.6); is it for a specific automation site, or stock next to your ONV units?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）；补核（第 73 批）：Elsa 04-10 已回规格书 + STI-244GP $35、04-22 追问样机，之后无回 → 回过一次后读而不回；Elsa 1:1 去信 9 轮 2025-05-12→2026-08-04（To 仅本户 infoautomation18@gmail.com；头 msg 19fcaee9199ad8c7 核对无 Bcc，称呼「Hi, Azad」= 个性化逐月 1:1 名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-10 Re:「Industrial PoE Switch」、2025-04-22 Re:「Industrial PoE Switch」；此前经 锚 support@sislinfotech.com 的 Bcc 收到 1 轮（2025-04-10→2025-04-10）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 11 条）；Elsa 群发 BCC 已触达 2025-04-10「Industrial PoE Switch」（稿内无价，第 74 批(p) 已读稿），印度-5 工业/仪控（锚 sislinfotech；2025-04-10 起月轮，10 轮） 批次 To support@sislinfotech.com，0 回（第 74 批 Bcc 头核对 msg 1961e48a695e465f）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "一封规格书 + 价（STI-244GP $49.5 / STI-244GPM $77 列表价）",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 13；用户表：「兴趣：从ONV买 几个台湾品牌；回复：ds」；研究档 risks：ONV 价格基准低；印度 BIS；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To support@sislinfotech.com）本户见于 2025-04-10 名单"
+  },
+  "situation": "德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。",
+  "need": "其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。",
+  "breakpoint": "ONV 价格基准低；印度 BIS",
+  "saga_now": {
+   "p1": "STI-244GP",
+   "tier": 20,
+   "price": "自家实报 STI-244GP $35/pc（Elsa 2025-04-10，老汇率）→ 信稿写 $45 并点明 FX 7.2→6.7；按主表（研究档 saga_fit）；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45（非管理工业线成本表陈旧，档位价 $35.2 不可靠）；STI-244GPM 列表价 $77 → 20% 档 $64.6；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-21 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-21；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（顺手）",
+   "channel": "Elsa 邮箱回原线程",
+   "action": "首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-12→2026-08-04，客户回过信（2025-04-10、2025-04-22）），此前还经锚 Bcc 触达（第 74 批(m)）；再触一问（规格书 Elsa 04-10 已发，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+   "one_question": "Azad — Elsa quoted the STI-244GP at $35 in April 2025 (today $45 USD EXW, managed STI-244GPM $64.6); is it for a specific automation site, or stock next to your ONV units?"
+  },
+  "facts": [
+   {
+    "date": "2024-12-31",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "10G media converter、Web managed switch",
+    "why": "13 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-31（13 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-04-10",
+    "dir": "来",
+    "who": "Azad Khan（Automation Systems and Solution）",
+    "quote": "Thanks First, we need datasheet",
+    "why": "要 2 光 4 电工业 PoE（120W）规格书",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-04-10",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "1, Price: 35usd/pc STI-244GP: industrial PoE Switch 2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged… -40℃ to 75℃, Din mounted, Without SFP Transceiver, without power adapter 2, Please see attached datasheet（附 STI-244GP.pdf）",
+    "why": "Elsa 当天回了规格书 + $35 实价；之前信稿「datasheet never reached you properly」写反了",
+    "k": "gmail_e 1961f90afa90cc6c"
+   },
+   {
+    "date": "2025-04-10",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To support@sislinfotech.com，印度-5 工业/仪控（锚 sislinfotech；2025-04-10 起月轮，10 轮） 批次）",
+    "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 infoautomation18@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-04-22",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Any feedback about our product and offer? Do you need some samples for testing?",
+    "why": "追问样机，之后 Azad 无回",
+    "k": "gmail_e 1965c7cf423f243a"
+   },
+   {
+    "date": "2025-05-12",
+    "dir": "out",
+    "who": "Elsa → infoautomation18@gmail.com",
+    "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "196c2f8ae874b707"
+   },
+   {
+    "date": "2025-06-21",
+    "dir": "out",
+    "who": "Elsa → infoautomation18@gmail.com",
+    "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "1979133774d69cd2"
+   },
+   {
+    "date": "2025-10-02",
+    "dir": "out",
+    "who": "Elsa → infoautomation18@gmail.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "199a3149933955ed"
+   },
+   {
+    "date": "2025-12-04",
+    "dir": "out",
+    "who": "Elsa → infoautomation18@gmail.com",
+    "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19ae78452119288a"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "who": "Elsa → infoautomation18@gmail.com",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b684439e637db6"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "who": "Elsa → infoautomation18@gmail.com",
+    "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19cace4774eda79d"
+   },
+   {
+    "date": "2026-04-03",
+    "dir": "out",
+    "who": "Elsa → infoautomation18@gmail.com",
+    "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19d51805c8bc23d4"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "who": "Elsa → infoautomation18@gmail.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19e1532043bfa92d"
+   },
+   {
+    "date": "2026-08-04",
+    "dir": "out",
+    "who": "Elsa → infoautomation18@gmail.com",
+    "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:infoautomation18@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19fcaee9199ad8c7"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：从ONV买 几个台湾品牌；回复：ds",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）Elsa 2025-04-10 已回 STI-244GP 规格书 + $35/pc，04-22 追问样机，之后无回",
+   "（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条一来二去（04-10 要规格书 → 当天回价 → 无下文），不是 WhatsApp"
+  ],
+  "draft_en": {
+   "subject": "2× SFP + 4× PoE industrial switch — April quote, update",
+   "body": "Hi Azad,\n\nIn April 2025 Elsa sent you the STI-244GP datasheet (2× gigabit SFP + 4× gigabit PoE af/at, DIN-rail, -40 to +75 °C, unmanaged) at $35 per unit and asked whether you wanted samples; we did not hear back. Today the same unit is $45 USD EXW (2026-10-17 snapshot, valid 15 days — the RMB has moved from 7.2 to 6.7 since that quote); the managed version STI-244GPM is $64.6.\n\nOne question: is this for a specific automation site (how many cabinets), or for your general stock next to the ONV units you buy today?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-25"
+ }
 }

@@ -47,7 +47,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Тамилин Андрей Леонидович",
+   "role": "Генеральный директор ООО «ЭЛПРО»（spark）— 非目标行业，不动（第 114 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "http://www.spark-interfax.ru/smolenskaya-oblast-smolensk/ooo-elpro-inn-6732103213-ogrn-1156733004284-fbafa7c5a275492a9403f62b6ea5648a"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -57,7 +64,9 @@
  },
  "company_facts": {
   "hq": "俄罗斯",
-  "other": "官网 smol-electro.ru，语言 ru，快照状态 ok；角色判定来源：待核"
+  "other": "官网 smol-electro.ru，语言 ru，快照状态 ok；角色判定来源：待核；第 114 批：主业电加热元件（ТЭН）制造 + 电气材料供应，PoE 仅站内附带类目 → **不动（非目标行业；B 保留）**（第 114 批 官方登记核实 2026-10-28）",
+  "legal_name": "ООО «ЭЛПРО»（ИНН 6732103213；ОГРН 1156733004284；214019 Смоленск, ул. Крупской, д. 66, оф. 1；2015）",
+  "founded": "2015（第 114 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电加热器制造 / 电气产品经销（俄罗斯）"

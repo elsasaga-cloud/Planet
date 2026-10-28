@@ -43,7 +43,8 @@
    "title": "（职务待核）",
    "email": "sucheytaa@grypen.in",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Grypen Technologies 研究档 KP（职务待核）= 收件人（抄 info@grypen.in）（第 114 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +56,9 @@
  },
  "company_facts": {
   "hq": "印度",
-  "other": "官网 grypen.in，语言 zxx，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 grypen.in，语言 zxx，快照状态 ok；角色判定来源：官网文案；第 114 批：小型集成商 + 「商业交换机」询盘 → **集成 25% small，一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM 三档一口价 + MOQ 1；Shubham 直呼 + info@ 抄）**；再无回声 → 不动；CIN 未取 → 部分坐实；只做预付（第 114 批 官方登记核实 2026-10-28）",
+  "legal_name": "Grypen Technologies Private Limited（grypen.in；Plot 467/A, Mahipalpur, New Delhi 110037；IT & C 系统集成 + 咨询 / 培训；CIN 未取）",
+  "founded": "未取（第 114 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT / 安防业务方案集成（印度）"

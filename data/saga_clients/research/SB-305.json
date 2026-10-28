@@ -1,181 +1,189 @@
 {
-  "code": "SB-305",
-  "name_official": "Bits&Byte Consulting Pvt Ltd（班加罗尔）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（bitsandbyte.net，快照 2026-10-21）",
-  "summary": "班加罗尔工程型云 / 网络安全 / 网络与托管服务商（+91 95133 70890），Director Ramachandra R、Executive Director Ankit Arora（BTON 带来）：问环网收敛 <20 ms、2 光 10 电非 PoE 价格、4 光 10 电 10G、bypass 接线图、100G–400G 模块芯片方案、WDM；无跟进记录。技术型买家。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "工程型云、网络安全、网络与托管服务；contact@bitsandbyte.net；+91 95133 70890",
-      "quote": "Engineering-led cloud, cybersecurity, networking and managed services.",
-      "url": "https://bitsandbyte.net/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "问 Ring 时间能否小于 20ms；2 光 10 电不要 PoE 价格；4 光 10 电 10G 光；对 bypass 有兴趣看了接线图；问 100G/200G/400G 模块芯片方案",
-      "quote": "兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ramachandra R",
-      "title": "Director",
-      "email": "ramachandra.r@bitsandbyte.net",
-      "phone": "+91 94484 58595",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Ankit Arora",
-      "title": "Executive Director",
-      "email": "ankit@bitsandbyte.net",
-      "phone": "+91 96206 18247",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照 + 表内：技术型买家）"
+ "code": "SB-305",
+ "name_official": "Bits&Byte Consulting Pvt Ltd（班加罗尔）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bitsandbyte.net，快照 2026-10-21）",
+ "summary": "班加罗尔工程型云 / 网络安全 / 网络与托管服务商（+91 95133 70890），Director Ramachandra R、Executive Director Ankit Arora（BTON 带来）：问环网收敛 <20 ms、2 光 10 电非 PoE 价格、4 光 10 电 10G、bypass 接线图、100G–400G 模块芯片方案、WDM；无跟进记录。技术型买家。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工程型云、网络安全、网络与托管服务；contact@bitsandbyte.net；+91 95133 70890",
+   "quote": "Engineering-led cloud, cybersecurity, networking and managed services.",
+   "url": "https://bitsandbyte.net/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Bits&Byte Consulting Pvt Ltd",
-    "founded": "（待核）",
-    "hq": "Bengaluru, India",
-    "size": "中小型工程服务商",
-    "other": "与 BTON（百通）有合作"
-  },
-  "business_lines": [
-    "网络 / 云 / 安全工程与托管服务"
-  ],
-  "channels": {
-    "role": "工程型集成商",
-    "region": "印度（班加罗尔）"
-  },
-  "signals": [
-    "技术问题具体（ERPS <20 ms、bypass、10G 工业）→ 真实项目评估",
-    "两位董事级联系人"
-  ],
-  "risks": [
-    "100G–400G 模块需求 Saga 无",
-    "BTON 竞争在先"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GM",
-    "tier": 25,
-    "why": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。"
-  },
-  "email_hook": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 ankit@bitsandbyte.net, ramachandra.r@bitsandbyte.net；主题多为「24 Port PoE Managed Switch、90W PoE Managed Switch」）；Elsa 1:1 去信 6 轮 2025-05-07→2026-03-02（To 仅本户 ramachandra.r@bitsandbyte.net；头 msg 19cae0fd83cbc938 核对无 Bcc，称呼「Hi, Ramachandra」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete，直收 6 条、无 Re: 行）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "IN 次级（点名）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 6；用户表：「兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100」；研究档 risks：100G–400G 模块需求 Saga 无"
-    },
-    "situation": "班加罗尔工程型云 / 网络安全 / 网络与托管服务商（+91 95133 70890），Director Ramachandra R、Executive Director Ankit Arora（BTON 带来）：问环网收敛 <20 ms、2 光 10 电非 PoE 价格、4 光 10 电 10G、bypass 接线图、100G–400G 模块芯片方案、WDM；无跟进记录。技术型买家。",
-    "need": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。",
-    "breakpoint": "100G–400G 模块需求 Saga 无",
-    "saga_now": {
-      "p1": "STI-280GM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-06 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-22 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-22；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-14 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-14；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
-      "why": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 已 1:1 去信 6 轮（2025-05-07→2026-03-02，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?"
-    },
-    "facts": [
-      {
-        "date": "2025-05-07",
-        "dir": "out",
-        "who": "Elsa → ramachandra.r@bitsandbyte.net",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "196a94b32bb948af"
-      },
-      {
-        "date": "2025-06-22",
-        "dir": "out",
-        "who": "Elsa → ramachandra.r@bitsandbyte.net",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/6 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "197964872d94d146"
-      },
-      {
-        "date": "2025-10-14",
-        "dir": "out",
-        "who": "Elsa → ramachandra.r@bitsandbyte.net",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/6 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "199e19718a61ba8f"
-      },
-      {
-        "date": "2025-12-08",
-        "dir": "out",
-        "who": "Elsa → ramachandra.r@bitsandbyte.net",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19afd42bb117dcdb"
-      },
-      {
-        "date": "2026-01-08",
-        "dir": "out",
-        "who": "Elsa → ramachandra.r@bitsandbyte.net",
-        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/6 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19b9c7a01c569e09"
-      },
-      {
-        "date": "2026-03-02",
-        "dir": "out",
-        "who": "Elsa → ramachandra.r@bitsandbyte.net",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19cae0fd83cbc938"
-      },
-      {
-        "date": "2026-09-23",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "24 Port PoE Managed Switch、90W PoE Managed Switch",
-        "why": "6 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-23（6 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "问 Ring 时间能否小于 20ms；2 光 10 电不要 PoE 价格；4 光 10 电 10G 光；对 bypass 有兴趣看了接线图；问 100G/200G/400G 模块芯片方案",
+   "quote": "兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ramachandra Raju (R)",
+   "title": "Director",
+   "email": "ramachandra.r@bitsandbyte.net",
+   "phone": "+91 94484 58595",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Co-Founder / Director（MCA 董事；tracxn）= 拍板人（第 114 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Ankit Arora",
+   "title": "Executive Director",
+   "email": "ankit@bitsandbyte.net",
+   "phone": "+91 96206 18247",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Executive Director – Global Sales and Alliances（2025-11–；LinkedIn）= 收件人（第 114 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Prakash Uppunda Rao",
+   "role": "Co-Founder / Director（MCA 董事）（第 114 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.zaubacorp.com/company/BITS-AND-BYTE-IT-CONSULTING-PRIVATE-LIMITED/U72900KA2015PTC145953"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内：技术型买家）"
+ },
+ "company_facts": {
+  "legal_name": "Bits and Byte IT Consulting Private Limited（bits&BYTE；CIN U72900KA2015PTC145953；#52, 2nd Floor, Vittal Mallya Road, Bangalore 560001；≈57 人；₹10–50 Cr FY2025；研究档「Bits&Byte Consulting Pvt Ltd」更正）",
+  "founded": "2015-05-20（第 114 批 官方登记核实 2026-10-28）",
+  "hq": "Bengaluru, India",
+  "size": "中小型工程服务商",
+  "other": "与 BTON（百通）有合作；第 114 批：班加罗尔网络与数字集成商，曾问环网 <20 ms / 2 光 10 电非 PoE / 10G / bypass / 100G → **集成 25% B BIG，加厚一次（逐条答复：STI-288DGGPM / STI-488DGGPM 环网（收敛按规格书据实）、STI-0240GE、STC-424XGGPM-280W 10G 上行、STH-32C-HSI 100G；bypass 如无明说无；Ankit 直呼 + Ramachandra 抄）**；回信 → 次候选升 A（第 114 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "网络 / 云 / 安全工程与托管服务"
+ ],
+ "channels": {
+  "role": "工程型集成商",
+  "region": "印度（班加罗尔）"
+ },
+ "signals": [
+  "技术问题具体（ERPS <20 ms、bypass、10G 工业）→ 真实项目评估",
+  "两位董事级联系人"
+ ],
+ "risks": [
+  "100G–400G 模块需求 Saga 无",
+  "BTON 竞争在先"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GM",
+  "tier": 25,
+  "why": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。"
+ },
+ "email_hook": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 ankit@bitsandbyte.net, ramachandra.r@bitsandbyte.net；主题多为「24 Port PoE Managed Switch、90W PoE Managed Switch」）；Elsa 1:1 去信 6 轮 2025-05-07→2026-03-02（To 仅本户 ramachandra.r@bitsandbyte.net；头 msg 19cae0fd83cbc938 核对无 Bcc，称呼「Hi, Ramachandra」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete，直收 6 条、无 Re: 行）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100」；研究档 risks：100G–400G 模块需求 Saga 无"
+  },
+  "situation": "班加罗尔工程型云 / 网络安全 / 网络与托管服务商（+91 95133 70890），Director Ramachandra R、Executive Director Ankit Arora（BTON 带来）：问环网收敛 <20 ms、2 光 10 电非 PoE 价格、4 光 10 电 10G、bypass 接线图、100G–400G 模块芯片方案、WDM；无跟进记录。技术型买家。",
+  "need": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。",
+  "breakpoint": "100G–400G 模块需求 Saga 无",
+  "saga_now": {
+   "p1": "STI-280GM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-06 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-22 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-22；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-14 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-14；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+   "why": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：Elsa 已 1:1 去信 6 轮（2025-05-07→2026-03-02，0 回）（第 74 批(n)）；观察打开",
+   "one_question": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?"
+  },
+  "facts": [
+   {
+    "date": "2025-05-07",
+    "dir": "out",
+    "who": "Elsa → ramachandra.r@bitsandbyte.net",
+    "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "196a94b32bb948af"
+   },
+   {
+    "date": "2025-06-22",
+    "dir": "out",
+    "who": "Elsa → ramachandra.r@bitsandbyte.net",
+    "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/6 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "197964872d94d146"
+   },
+   {
+    "date": "2025-10-14",
+    "dir": "out",
+    "who": "Elsa → ramachandra.r@bitsandbyte.net",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/6 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "199e19718a61ba8f"
+   },
+   {
+    "date": "2025-12-08",
+    "dir": "out",
+    "who": "Elsa → ramachandra.r@bitsandbyte.net",
+    "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19afd42bb117dcdb"
+   },
+   {
+    "date": "2026-01-08",
+    "dir": "out",
+    "who": "Elsa → ramachandra.r@bitsandbyte.net",
+    "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/6 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19b9c7a01c569e09"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "who": "Elsa → ramachandra.r@bitsandbyte.net",
+    "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19cae0fd83cbc938"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch、90W PoE Managed Switch",
+    "why": "6 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-23（6 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -47,7 +47,14 @@
    "title": "Founder & CEO",
    "email": "ravi@apolloinfoways.in",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Founder / CEO / Director Apollo Infoways Private Limited（MCA 董事 2014-02-03–）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Ivy Prakash",
+   "role": "Director（MCA；2014-02-03–）（第 114 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.zaubacorp.com/APOLLO-INFOWAYS-PRIVATE-LIMITED-U72900DL2014PTC264342"
   }
  ],
  "grade_override": null,
@@ -59,7 +66,9 @@
  },
  "company_facts": {
   "hq": "印度",
-  "other": "官网 apolloinfoways.in，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 apolloinfoways.in，语言 en，快照状态 ok；角色判定来源：官网文案；第 114 批：安防 + 网络 OEM 品牌，自有型号交换机全线，现用丰润达商用 PoE + AOA 工业 → **贴标 OEM 30% B BIG，加厚一次（Q-33 口径：只推 SmartByte / Marvell 管理线 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业 STI-144GP / STI-288DGGPM 作 WatchDog 标第二源 + 中性包装；不报与丰润达同款；Ravi 直呼）**；回信 → 次候选升 A；不点名丰润达 / AOA（第 114 批 官方登记核实 2026-10-28）",
+  "legal_name": "Apollo Infoways Private Limited（WatchDog；CIN U72900DL2014PTC264342；注册地 E-703, Plot 60, Mayur Dhwaj Apartment, I.P. Extension, New Delhi 110092；运营 Noida；实缴 ₹10 lakh；₹10–50 Cr FY2025；11–50 人）",
+  "founded": "2014-02-03（第 114 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "企业网络 / 数据中心 / 安全（自有品牌 WatchDog）"

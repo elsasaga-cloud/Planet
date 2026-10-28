@@ -1,188 +1,196 @@
 {
-  "code": "SB-343",
-  "name_official": "Zekko Tech Private Limited（孟买）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（zekko.co.in，快照 2026-10-21）",
-  "summary": "印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "定位：企业、电信 IT 与自动化；关键词 telecom 27 / industrial 22 / automation 18；sales@zekko.co.in；+91 91360 07767",
-      "quote": "Zekko Tech Private Limited - An Enterprise, Telecom IT & Automation…",
-      "url": "https://zekko.co.in/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业级 / SFP",
-      "quote": "兴趣：工业级/SFP",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Yashraj Sharma",
-      "title": "Manager",
-      "email": "yashraj@zekko.co.in",
-      "phone": "+91 75060 52047",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Santosh Singh",
-      "title": "Manager",
-      "email": "santosh@zekko.co.in",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照 + 表内）"
+ "code": "SB-343",
+ "name_official": "Zekko Tech Private Limited（孟买）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（zekko.co.in，快照 2026-10-21）",
+ "summary": "印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "定位：企业、电信 IT 与自动化；关键词 telecom 27 / industrial 22 / automation 18；sales@zekko.co.in；+91 91360 07767",
+   "quote": "Zekko Tech Private Limited - An Enterprise, Telecom IT & Automation…",
+   "url": "https://zekko.co.in/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Zekko Tech Private Limited",
-    "founded": "",
-    "hq": "Mumbai, India",
-    "size": "小型方案商",
-    "other": ""
-  },
-  "business_lines": [
-    "企业 / 电信 IT 方案",
-    "工业自动化网络"
-  ],
-  "channels": {
-    "role": "方案商 / 集成",
-    "region": "印度（孟买）"
-  },
-  "risks": [
-    "SFP 需求 Saga 无；印度 BIS"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 25,
-    "why": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。"
-  },
-  "email_hook": "Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it.",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 sales@zekko.co.in, santosh@zekko.co.in；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 7 轮 2025-05-06→2026-04-01（To 仅本户 sales@zekko.co.in；头 msg 19d47e9d5e3f4388 核对无 Bcc，称呼「Hi, Mr.Maju」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete，直收 7 条、无 Re: 行）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "IN 次级（点名）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 6；用户表：「兴趣：工业级/SFP」；研究档 risks：SFP 需求 Saga 无；印度 BIS"
-    },
-    "situation": "印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。",
-    "need": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。",
-    "breakpoint": "SFP 需求 Saga 无；印度 BIS",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-14 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-15 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-15；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
-      "why": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-05-06→2026-04-01，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it."
-    },
-    "facts": [
-      {
-        "date": "2025-05-06",
-        "dir": "out",
-        "who": "Elsa → sales@zekko.co.in",
-        "quote": "Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "196a4ee4158cfe31"
-      },
-      {
-        "date": "2025-06-22",
-        "dir": "out",
-        "who": "Elsa → sales@zekko.co.in",
-        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19795b8b7797fa46"
-      },
-      {
-        "date": "2025-10-15",
-        "dir": "out",
-        "who": "Elsa → sales@zekko.co.in",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "199e6399f38fdb84"
-      },
-      {
-        "date": "2025-12-09",
-        "dir": "out",
-        "who": "Elsa → sales@zekko.co.in",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19b01b1fa6964c6c"
-      },
-      {
-        "date": "2026-01-08",
-        "dir": "out",
-        "who": "Elsa → sales@zekko.co.in",
-        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19b9cfa2cba17d93"
-      },
-      {
-        "date": "2026-03-03",
-        "dir": "out",
-        "who": "Elsa → sales@zekko.co.in",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19cb2113c6bc99a9"
-      },
-      {
-        "date": "2026-04-01",
-        "dir": "out",
-        "who": "Elsa → sales@zekko.co.in",
-        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19d47e9d5e3f4388"
-      },
-      {
-        "date": "2026-09-24",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
-        "why": "6 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-24（6 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：工业级/SFP",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业级 / SFP",
+   "quote": "兴趣：工业级/SFP",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Yashraj Sharma",
+   "title": "Manager",
+   "email": "yashraj@zekko.co.in",
+   "phone": "+91 75060 52047",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Manager（研究档）= 收件人（第 114 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Santosh Singh",
+   "title": "Manager",
+   "email": "santosh@zekko.co.in",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Manager（研究档；与前董事 Seema Santosh Singh 关联待证）= 抄（第 114 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Chandrasekaran Iyer",
+   "role": "Whole-Time Director（MCA；DIN 06879733）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Zekko Tech Private Limited（CIN U74999MH2016PTC285972；Unit 122, 1st Floor, C-56/1, Turbhe Industrial Park, TTC Industrial Area, Turbhe MIDC, Navi Mumbai 400705；4 人；实缴 ₹1 lakh；未清抵押 ₹2.25 Cr）",
+  "founded": "2016-09-16（第 114 批 官方登记核实 2026-10-28）",
+  "hq": "Mumbai, India",
+  "size": "小型方案商",
+  "other": "第 114 批：4 人微型方案商、WA 已加无实质回复 → **集成 25% small，一页纸一次（工业 PoE STI-054GP / STI-144GP + STC-228GP 一口价 + MOQ 1；光模块不做；Yashraj 直呼）**；再无回声 → 不动（第 114 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "企业 / 电信 IT 方案",
+  "工业自动化网络"
+ ],
+ "channels": {
+  "role": "方案商 / 集成",
+  "region": "印度（孟买）"
+ },
+ "risks": [
+  "SFP 需求 Saga 无；印度 BIS"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。"
+ },
+ "email_hook": "Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 sales@zekko.co.in, santosh@zekko.co.in；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 7 轮 2025-05-06→2026-04-01（To 仅本户 sales@zekko.co.in；头 msg 19d47e9d5e3f4388 核对无 Bcc，称呼「Hi, Mr.Maju」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete，直收 7 条、无 Re: 行）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「兴趣：工业级/SFP」；研究档 risks：SFP 需求 Saga 无；印度 BIS"
+  },
+  "situation": "印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。",
+  "need": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。",
+  "breakpoint": "SFP 需求 Saga 无；印度 BIS",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-14 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-15 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-15；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+   "why": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-05-06→2026-04-01，0 回）（第 74 批(n)）；观察打开",
+   "one_question": "Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it."
+  },
+  "facts": [
+   {
+    "date": "2025-05-06",
+    "dir": "out",
+    "who": "Elsa → sales@zekko.co.in",
+    "quote": "Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "196a4ee4158cfe31"
+   },
+   {
+    "date": "2025-06-22",
+    "dir": "out",
+    "who": "Elsa → sales@zekko.co.in",
+    "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19795b8b7797fa46"
+   },
+   {
+    "date": "2025-10-15",
+    "dir": "out",
+    "who": "Elsa → sales@zekko.co.in",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "199e6399f38fdb84"
+   },
+   {
+    "date": "2025-12-09",
+    "dir": "out",
+    "who": "Elsa → sales@zekko.co.in",
+    "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19b01b1fa6964c6c"
+   },
+   {
+    "date": "2026-01-08",
+    "dir": "out",
+    "who": "Elsa → sales@zekko.co.in",
+    "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19b9cfa2cba17d93"
+   },
+   {
+    "date": "2026-03-03",
+    "dir": "out",
+    "who": "Elsa → sales@zekko.co.in",
+    "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19cb2113c6bc99a9"
+   },
+   {
+    "date": "2026-04-01",
+    "dir": "out",
+    "who": "Elsa → sales@zekko.co.in",
+    "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19d47e9d5e3f4388"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
+    "why": "6 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-24（6 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业级/SFP",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

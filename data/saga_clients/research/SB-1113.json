@@ -46,7 +46,7 @@
  "kp": [
   {
    "name": "Rishi Kumar Bansal",
-   "role": "单据联系人",
+   "role": "Proprietor / CEO Fastball（GST 07AJJPR5445G1ZX）— 成单 1 次后 gg（第 114 批 官方登记核实 2026-10-28）",
    "email": "office@fastball.in",
    "phone": "",
    "source": "PI.zip 单据"
@@ -194,5 +194,10 @@
    "body": "Hi Rishi,\n\nOne question: the FBC-204GP listed under Fastball on IndiaMART - is that our STC-204GP (4 x Gigabit PoE+ + 2 x Gigabit uplinks, 65 W) that you are selling on? If yes, the current price is $24.2 USD EXW at distributor tier (MOQ 1, 15-day validity), and I will keep you on the price updates; if no, I will not write again about it. BIS stays on your side.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "company_facts": {
+  "legal_name": "Fastball（Fastball Telecom & Networking；个体经营 Rishi Kumar Bansal；GSTIN 07AJJPR5445G1ZX；A-47/A, Gali No. 4, Main Shukra Bazar Road, Ashok Nagar, Delhi 110093；≤10 人；Signal Fire 熔接机印度独家进口）",
+  "founded": "2016（GST 2021）（第 114 批 官方登记核实 2026-10-28）",
+  "other": "第 114 批：个体 FTTH 工具 / 光配线分销，成单 1 次（STSC20231009002）后已凉 → **不动（B 保留；复购自来按老价 + T/T）**（第 114 批 官方登记核实 2026-10-28）"
  }
 }

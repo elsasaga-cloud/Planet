@@ -29,7 +29,14 @@
    "title": "switch@netstar.in",
    "email": "switch@netstar.in",
    "phone": "+91 96876 88966",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "NETSTAR 交换机采购职能箱（WA 13 次无实质回复）= 收件人（第 114 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Dharmesh Patel",
+   "role": "Manager Infonet Technologies / NETSTAR（tradeindia）= 候选具名收件人（第 114 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.tradeindia.com/products/netstar-outdoor-reverse-poe-switch-with-fiber-uplink-port-single-fiber-sc-rpoe-switch-with-fiber-uplink-10-100mbps-7128379.html"
   }
  ],
  "grade_override": null,
@@ -40,11 +47,11 @@
   "level": "B 级加厚 v1（官网快照核对）"
  },
  "company_facts": {
-  "legal_name": "Netstar（待核）",
-  "founded": "",
+  "legal_name": "Infonet Technologies（NETSTAR 品牌；合伙企业；GSTIN 24AAGFI3821H1ZN；IEC AAGFI3821H；Shop 19, Limbani Complex, Ambli Bopal Road, Ahmedabad 380058；11–25 人；₹5–10 Cr）",
+  "founded": "1995（第 114 批 官方登记核实 2026-10-28）",
   "hq": "Ahmedabad, Gujarat, India",
   "size": "小型 ISP 产品供应商（自有编号产品）",
-  "other": "反向 PoE / 室外 PoE 产品线"
+  "other": "反向 PoE / 室外 PoE 产品线；第 114 批：ISP / WISP 反向 / 无源 PoE 自有品牌（Saga 无此线）→ **贴标 30% small，一页纸一次（NETSTAR 标标准 802.3af/at PoE STC-028GP / STC-228GP + 小 MOQ + 中性包装；反向 PoE / 注入器明说不做）**；再无回声 → 不动（第 114 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "ISP/WISP 产品（反向 PoE、PoE 配件、交换机）",
