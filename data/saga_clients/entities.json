@@ -84094,9 +84094,9 @@
 },
 "company_facts": {
 "hq": "Schwetzinger Str. 103, 68766 Hockenheim",
-"other": "官网 adlerss.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 93 批：自有品牌 IP / 热成像相机制造商 → 交换机是系统部件 → OEM 30%：工业 PoE / 光口交换机贴 Adler 标配太阳能独立站；边境 / 政府项目制 → 量不稳；军用整机不碰（第 93 批 官方登记核实 2026-10-28）",
-"legal_name": "Adler ELREHA GmbH t/a Adler Security Systems（Hockenheim；HRB 1 次未取 → 下轮 Northdata 直链；约旦 Elreha 集团子公司 + 美国 Adler Systems LLC, St Petersburg FL）",
-"founded": "2012 / 2013（第 93 批 官方登记核实 2026-10-28）",
+"other": "官网 adlerss.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 93 批：自有品牌 IP / 热成像相机制造商 → 交换机是系统部件 → OEM 30%：工业 PoE / 光口交换机贴 Adler 标配太阳能独立站；边境 / 政府项目制 → 量不稳；军用整机不碰（第 93 批 官方登记核实 2026-10-28）；第 94 批：Northdata 直页补齐 HRB；股东含深圳人士 = 已有华南直采 / 合资渠道 → OEM 30% 判断降为低概率，一页纸即止；2025-11-28 新股东名单 = 股权在动（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "Adler Elreha GmbH（Amtsgericht Mannheim **HRB 724419**；EUID DEB8535.HRB724419；资本 €25,000；股东 EL RE HA Elektronische Regelungen GmbH（HRB 420487，Hamadeh 家族）等；GF Sachir Kamel Ajlouni（Clearwater FL）；Zhongjian Wei（深圳）曾任 GF / 持股）",
+"founded": "2016-03-15（登记；合同 2015-12-02）（第 94 批 官方登记核实 2026-10-28）",
 "staff": "小型（11–50 人）"
 },
 "business_lines": [
@@ -87065,14 +87065,16 @@
 "title": "（职务待核）",
 "email": "paguilera@nexxtsolutions.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（职务未取；Nexxt 产品 / 采购部在迈阿密）= 首收件人（第 94 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Luis Garcia",
 "title": "（职务待核）",
 "email": "lgarcia@nexxtsolutions.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（职务未取）= 抄送（第 94 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -87083,8 +87085,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 nexxtsolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"hq": "3505 NW 107th Ave, Miami (Doral), FL 33178",
+"other": "官网 nexxtsolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 94 批：Intcomex 自有品牌 = 典型贴牌商用 PoE 买家 → OEM 30%，但集团采购比价、量大 → B BIG；市场在拉美，买家在美国（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "Nexxt Solutions（Intcomex, Inc.（Delaware）旗下自有品牌 / 事业部；FL 实体号未取）",
+"founded": "2006（品牌；母公司 Intcomex 1988/89 Shalom 父子创立）（第 94 批 官方登记核实 2026-10-28）",
+"staff": "Nexxt 51–500 人；Intcomex 集团 ≈2,600 人（第三方）"
 },
 "business_lines": [
 "网络连接 / 基础设施品牌（Nexxt）"
@@ -101805,8 +101810,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 ivolta.pl，语言 pl，快照状态 ok；角色判定来源：用户表"
+"hq": "ul. Jutrzenki 94, 02-230 Warszawa",
+"other": "官网 ivolta.pl，语言 pl，快照状态 ok；角色判定来源：用户表；第 94 批：Satel / Hikvision / Dahua 授权分销 = 波兰安防分销 Top 级 → B BIG，分销 20% 上架 SmartByte，不谈贴标；已有 PoE 供应（Utepo 等）→ 只谈第二供应 + 现货期；zarząd 未取（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "VOLTA Sp. z o.o.（ivolta.pl 为其网店品牌；KRS 0000023698 · NIP 5211367444 · REGON 010829096；资本 1,020,000 PLN；BDO 000051577）",
+"founded": "2001-06-28（KRS；业务 1986 起）（第 94 批 官方登记核实 2026-10-28）",
+"staff": "70+ 人、华沙总部 + 10 分部；营收 2025 90.85 mln zł（2024 83.30 / 2023 83.19）；资产 30.4 mln"
 },
 "business_lines": [
 "报警 / CCTV 网店"
@@ -123241,7 +123249,7 @@
 "kp": [
 {
 "name": "Christopher Fikes",
-"role": "Owner / Founder（2007-01 起；Crunchbase / Tracxn）= **老板 = 联系人**；本职 Evadale ISD（德州学区）Director of IT（2018-08 起）—— FikesMedia 是他的一人 MikroTik 咨询 / 集成公司，客户 = 学区 + 市政；GitHub 开源作者 → 技术人，别催样，给 API / SNMP / CLI 文档（第 88 批 官方登记核实 2026-10-27）",
+"role": "Owner（2007–；同时任 Evadale ISD 信息技术主任 2018– + 兼职教授）= 一人副业老板（第 94 批 官方登记核实 2026-10-28）",
 "email": "cfikes@fikesmedia.com",
 "phone": "409.877.4220",
 "source": "S 邮箱签名"
@@ -123320,11 +123328,12 @@
 "as_of": "2026-10-24"
 },
 "company_facts": {
-"legal_name": "FikesMedia（FikesMedia LLC，ZoomInfo；TX SoS 编号未取；105 George St, Silsbee TX 77656；另 109 Pinecrest Dr）",
-"founded": "2007（官网 about / Tracxn）（第 88 批 官方登记核实 2026-10-27）",
-"staff": "1–10 人（Tracxn 2024-07）；未融资；业主兼职（第 88 批 官方登记核实 2026-10-27）",
+"legal_name": "FikesMedia LLC（德州；TX 登记号未取；镜像显示旧登记 inactive）",
+"founded": "2007（第 94 批 官方登记核实 2026-10-28）",
+"staff": "1 人（副业）",
 "size": "微型（一人公司）（第 88 批 官方登记核实 2026-10-27）",
-"hq": "Silsbee, Texas（休斯敦东北 Hardin 县）（第 88 批 官方登记核实 2026-10-27）"
+"hq": "105 George St, Silsbee, TX 77656",
+"other": "第 94 批：MikroTik 转售副业、老板全职在学区 → 分销 20% 一页纸，不投第 2 封；若回信问的是学区项目（第 94 批 官方登记核实 2026-10-28）"
 }
 }
 },
@@ -145011,7 +145020,7 @@
 "founded": "",
 "hq": "USA",
 "size": "小型品牌商",
-"other": "ONV 代工贴标；第 93 批：底数 1 次检索未命中（同名陷阱极多；疑似 nexxusnetworks.com「智能 PoE 制造商 17 年」但域名不同，未证同一）→ 下轮一次直查后不再追（第 93 批 官方登记核实 2026-10-28）"
+"other": "ONV 代工贴标；第 93 批：底数 1 次检索未命中（同名陷阱极多；疑似 nexxusnetworks.com「智能 PoE 制造商 17 年」但域名不同，未证同一）→ 下轮一次直查后不再追（第 93 批 官方登记核实 2026-10-28）；第 94 批：nexxus.cc 一次直查 → 站活（2025-03 更新）、自有标「3-Port Gigabit PoE Switch」+ 交换 / Wi-Fi / UC / 防火墙 / 存储方案商；与 nexxusnetworks.com 不是同一家；站无 Impressum → 永久「底数不可查」，OEM 30% 一页纸照发（第 94 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络交换机（自有标）"
@@ -145994,10 +146003,11 @@
 "level": "B 级加厚 v1（官网目录核对）"
 },
 "company_facts": {
-"legal_name": "Pulsar（pulsar.pl；法人全称待核）",
-"hq": "波兰（Siechnice/Wrocław 区域，待核）",
+"legal_name": "Pulsar（pulsar.pl；Siechnice；法定主体名 / KRS 未取 —— 同名陷阱：PULSAR Sp. z o.o. KRS 0000262594（卡托维兹，营收 76 万 zł）是另一家）",
+"hq": "Siechnice（Wrocław 附近）",
 "size": "制造商（规模待核）",
-"other": "产品：缓冲电源（DING2/DRC/DRS/PSB）、变压器、PoE 交换机（商用+工业 DIN）；按 IEEE 802.3af/at/bt"
+"other": "产品：缓冲电源（DING2/DRC/DRS/PSB）、变压器、PoE 交换机（商用+工业 DIN）；按 IEEE 802.3af/at/bt；第 94 批：自产安防电源 + PoE 交换机（S64 / S108 / SG32 / ISFG108）= **同行** → 守界：不发价格表、不加厚、B 不动（第 94 批 官方登记核实 2026-10-28）",
+"staff": "中型（8,000 m² 厂区）"
 },
 "business_lines": [
 "缓冲/开关电源与变压器制造（自有品牌）",
@@ -165839,14 +165849,16 @@
 "title": "Leiter Technik（2024-10 任命）= 技术选型人（第 86 批 官方登记核实 2026-10-27）",
 "email": "mail@barox.de",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Head of Engineering（barox.ch 团队页；+41 56 511 10 41）= 产品 / 工程口 —— 研究档「revive 只有找到产品 / 采购负责人」对应的人；但 barox 为同行（自有品牌视频交换机制造商），默认不动（第 94 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Rudolf Rohr",
 "title": "Mitgründer / Geschäftsführer（AG CEO 2005 起；GmbH 共同 GF）/ geschäftsführender Gesellschafter = 老板 = 联系人；barox Kommunikation AG 1998-09-01 Baden（CH），GmbH 2003 Lörrach（HRB 413457 Freiburg，€25,000）（第 86 批 官方登记核实 2026-10-27）",
 "email": "rohr.rudolf@barox.ch",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Geschäftsführer / 创始人（1998-09-01 与 Angelo Banfi 共同创立；barox Kommunikation AG CEO；GmbH HRB 413457 Freiburg / 3457 Lörrach）= 老板（第 94 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Luis Coello",
@@ -165864,10 +165876,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表",
+"hq": "Weiler Strasse 7, 79540 Lörrach（母公司 Im Grund 15, CH-5405 Baden-Dättwil）",
+"other": "官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表；第 94 批：GF Angelo Banfi + Rudolf Rohr；LEI 549300UCXE39G2ZNV027；自有品牌视频 / 安防交换机 + MC 制造商 = **同行** → 守界：不发价格表、不加厚（2024 问价后拒样 + 退信已证）（第 94 批 官方登记核实 2026-10-28）",
 "legal_name": "Barox Kommunikation GmbH（Lörrach；HRB 413457 Freiburg / Impressum HRB 3457 Lörrach；USt-ID DE228975346；100% 子公司 of barox Kommunikation AG，CH-400.3.019.774-7，Baden-Dättwil）",
-"staff": "估 20–50（两国三址）（第 86 批 官方登记核实 2026-10-27）"
+"staff": "≈15 人（barox.ch 团队页 2026-07；两地 Baden-Dättwil / Lörrach）",
+"founded": "1998-09-01（AG）；GmbH 登记日未取（第 94 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频/安防网络交换机（自有品牌）",
@@ -166716,8 +166729,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 ccontrols.de，语言 de，快照状态 ok；角色判定来源：用户表"
+"hq": "Fuggerstraße 1 B, 04158 Leipzig",
+"other": "官网 ccontrols.de，语言 de，快照状态 ok；角色判定来源：用户表；第 94 批：GF George M. Thomas = 美国母公司创始人；自有品牌工业交换机 / MC（CTRLink）+ BACnet 路由器制造商 = **同行** → 守界：不发价格表、不加厚、B 不动（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "Contemporary Controls GmbH（Amtsgericht Leipzig HRB 24731；曾 Stendal HRB 214009；USt DE220664517；美国 Contemporary Controls Systems, Inc.（Downers Grove IL）100% 子公司）",
+"founded": "2006-10（Eisleben 登记；2009-02 迁 Leipzig）（第 94 批 官方登记核实 2026-10-28）",
+"staff": "德国分部 ≤20 人（母公司 ≈100）"
 },
 "business_lines": [
 "楼宇自动化（BACnet 路由/网关）",
@@ -167096,7 +167112,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Ahmad Ebrahimi",
+"role": "Dipl.-Ing.；Geschäftsführer / 创始人（1992）/ 所有者（HRB 45788 B Charlottenburg；GF 登记 2004-10-14–）= 老板；Azar Bayegi Geschäftsführerin 2020-02-06–（采购在台北分公司，邮箱未取 → info@delock.de）（第 94 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://www.delock.de/impressum/index.html"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -167105,8 +167129,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 delock.com，语言 fi，快照状态 ok；角色判定来源：用户表"
+"hq": "Beeskowdamm 13/15, 14167 Berlin（台北分公司 2005 起）",
+"other": "官网 delock.com，语言 fi，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌 Delock IT 配件 / MC / SFP 进口分销 25 国、台北采购 → B BIG、OEM 30% 低概率；一页纸 MC + 小口数 PoE 即止（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "TRAGANT Handels- und Beteiligungsgesellschaft mbH（Delock / Navilock 品牌；AG Charlottenburg HRB 45788 B；LEI 391200S2D0IEA0LPEV63；USt DE156330245）",
+"founded": "1992（创立）/ 2004-10-14（现登记）（第 94 批 官方登记核实 2026-10-28）",
+"staff": "67–84 人；营收 €26M（2017）/ €10–50M；资产负债表 €28.4M（2023）"
 },
 "business_lines": [
 "IT 配件（自有品牌 Delock：MC / 交换机 / SFP / PoE 周边）"
@@ -192392,8 +192419,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 eretekne.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+"hq": "19 Mayıs Mah. Güven Sk. No:4/2, Şişli, İstanbul",
+"other": "官网 eretekne.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 94 批：Erete = Edge-Core（Accton）+ Etherwan + Fluke 土耳其分销商（卖竞品）；B2B 负责人 Pınar Kabil（创始合伙人）；只跟 SB-867 一线，不加厚（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "Erete Bilgi Sistemleri Dış Tic. ve San. Ltd. Şti.（eretekne.com = Erete 的 B2B 网店；VKN 3540201016 Mecidiyeköy V.D.）= **与 SB-867 Erete 同一法人 → 并线 SB-867**",
+"founded": "2001-12（Erete）（第 94 批 官方登记核实 2026-10-28）",
+"staff": "小型（同 SB-867）"
 },
 "business_lines": [
 "安防传输 / 工业网络产品分销（土耳其）"
@@ -209529,7 +209559,7 @@
 "legal_name": "D&N Elektrik Mühendislik（待核）",
 "hq": "Türkiye（城市待核）",
 "size": "待核（小型承包商）",
-"other": "消防安全系统 + 电气工程；仅 Gmail 联系；第 91 批检索未命中（「D&N Elektrik Mühendislik」Doğan Tanrıkulu：1 次检索仅同名无关）→ Gmail 个体户，不再检索（第 91 批 官方登记核实 2026-10-27）"
+"other": "消防安全系统 + 电气工程；仅 Gmail 联系；第 91 批检索未命中（「D&N Elektrik Mühendislik」Doğan Tanrıkulu：1 次检索仅同名无关）→ Gmail 个体户，不再检索（第 91 批 官方登记核实 2026-10-27）；第 94 批：底数 1 次检索未命中（gmail 名片户；同名陷阱：美国 D&N Electric、安卡拉 Doğan Mühendislik）→ 标「底数不可查（名片户）」，不再查（第 94 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电气工程承包",
@@ -217225,7 +217255,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Stephanie Lorraine Kirton",
+"role": "Director / Finance Director（2023-11-23 任；Companies House 04863038）= 现任董事中任期最长者；另两位董事 Louis Max Fitzsimmons / Edwyn Owen Thomas 2025-06-29 新任 = 换手期（邮箱未公开 → sales@ 点名）（第 94 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://find-and-update.company-information.service.gov.uk/company/04863038/officers"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -217234,11 +217272,12 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "SURE24 Ltd（姐妹 SURE Transport / SURE Solutions）",
-"founded": "1992（SURE24）/ 1990（SURE Solutions 口径）",
-"hq": "Bingham, Nottinghamshire, UK（+44 1949 836990；sales@sure24.co.uk）",
+"legal_name": "SURE24 LIMITED（Companies House 04863038；曾名 BATTANCO LIMITED → 2003-11-11；SIC 32990）",
+"founded": "2003-08-11（SURE Group 1992 起）（第 94 批 官方登记核实 2026-10-28）",
+"hq": "Sure House, 2 Moorbridge Court, Moorbridge Road East, Bingham, Nottinghamshire, NG13 8GG",
 "size": "11–50（LinkedIn）",
-"other": "Go-Ahead 5,000 辆巴士合同；SUREMDVR 自有品牌（E-mark）；产线前装 + 后装；车队追踪云"
+"other": "Go-Ahead 5,000 辆巴士合同；SUREMDVR 自有品牌（E-mark）；产线前装 + 后装；车队追踪云；第 94 批：隐蔽 / 警用 CCTV 设计制造分销；2023–2025 董事会整体换血 = 进门时机；只推商用 PoE + 工业小口数，先款后货（第 94 批 官方登记核实 2026-10-28）",
+"staff": "29 人；总资产 £2.11M / 负债 £1.33M（Endole；Small）"
 },
 "business_lines": [
 "巴士/长途车/货车/警用车载 CCTV 与 MDVR（自有品牌 SUREMDVR）",
@@ -222006,14 +222045,16 @@
 "title": "Product Manager",
 "email": "sales@enetusa.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "销售公域（研究档）（第 94 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Jason Barrette",
 "title": "CEO",
 "email": "jason@enetusa.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "President（growjo；原 ENET Components VP Sales）= 拍板层（2023-12 后归 NSI 集团）（第 94 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Aaron S",
@@ -222031,8 +222072,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 enetusa.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "75 Argonaut, Suite B, Aliso Viejo, CA 92656",
+"other": "官网 enetusa.com，语言 en，快照状态 ok；角色判定来源：用户表；第 94 批：主品类 SFP / DAC / 内存（Saga 不供）；研究档「MC 自己的 logo」→ 只剩 MC 贴标一条线 OEM 30%，且已并入 NSI 集团采购 → 低概率，一页纸即止（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "ENET Solutions, Inc.（加州；2023-12-12 起为 NSI Industries, LLC（Huntersville NC）子公司 / 品牌；曾名 ENET Components, Inc.）",
+"founded": "2003（Chris Brock 创立）（第 94 批 官方登记核实 2026-10-28）",
+"staff": "27–30+ 人；$10M 级"
 },
 "business_lines": [
 "OEM 兼容光模块 / DAC / AOC / 线缆（自有品牌 ENET）"
@@ -245462,14 +245506,23 @@
 "title": "V.P. Product Development",
 "email": "sales@xblue.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "VP Product Development（NENA 登记联系人）= 产品 / 选型人 = 首收件人（第 94 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Larry Steinmetz",
 "title": "President",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Founder & President（2005 创立；Crunchbase / contactout）= 老板 = 抄送（第 94 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Paul Lynch",
+"role": "Vice President, Product Development（contactout / ZoomInfo）= 产品口（与 Paul Falanga 并列）（第 94 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://contactout.com/company/XBLUE-Networks-51822"
 }
 ],
 "grade_override": null,
@@ -245480,8 +245533,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 xblue.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "20801 N. 19th Ave, Suite 2 & 3, Phoenix, AZ 85027（旧址 Lenexa KS）",
+"other": "官网 xblue.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 94 批：自有品牌小企业电话系统经零售 / 电商销售；研究档「PoE = ONV 去 logo」= 已贴标 → OEM 30%：8 口 PoE 电话机配套，注明中性包装 + FCC（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "XBLUE Networks, LLC（Crunchbase 法定名；AZ 登记号未取）",
+"founded": "2005（第 94 批 官方登记核实 2026-10-28）",
+"staff": "11–14 人；$2M 级（第三方）"
 },
 "business_lines": [
 "中小企业电话系统（自有品牌 XBLUE）"
@@ -309237,7 +309293,7 @@
 "legal_name": "Marbim（待核；「bim」常为 Bilişim 缩写）",
 "hq": "Türkiye（待核）",
 "size": "待核",
-"other": "仅 WhatsApp 渠道；第 91 批检索未命中（marbim.com.tr：1 次检索仅 Merbim / Narbim / Marmara Bilişim 等近名，无法定名 / VKN）→ 不写回登记；仅 WhatsApp 线（第 91 批 官方登记核实 2026-10-27）"
+"other": "仅 WhatsApp 渠道；第 91 批检索未命中（marbim.com.tr：1 次检索仅 Merbim / Narbim / Marmara Bilişim 等近名，无法定名 / VKN）→ 不写回登记；仅 WhatsApp 线（第 91 批 官方登记核实 2026-10-27）；第 94 批：底数 1 次检索未命中（名片户、仅 WhatsApp）→ 标「底数不可查（名片户）」，不再查（第 94 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "（待核）IT/安防"
@@ -312370,8 +312426,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 vidos.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表"
+"hq": "ul. Sokołowska 44, 05-806 Sokołów k/Warszawy",
+"other": "官网 vidos.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌视频对讲 / 门禁「Producent」+ 已有自标 PoE → OEM 30%：4 / 8 口 PoE 贴 Vidos 标；zarząd 未取；同名陷阱 vidos-domofony.pl（KRS 0000857651）/ vidos-sklep.pl（PPHU HERZ）为经销商（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "VIDOS Sp. z o.o.（KRS 0000857683 · NIP 5342626018 · REGON 386943260；资本 5,000 zł；前身 Reguły 主体 NIP 7281209711）",
+"founded": "2020-09-03（KRS；品牌业务更早）（第 94 批 官方登记核实 2026-10-28）",
+"staff": "小型（未取）"
 },
 "business_lines": [
 "可视对讲 / 密码锁 / 门禁自动化（自有品牌 VIDOS）",
@@ -334925,8 +334984,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 coredata.com.tr，语言 en，快照状态 ok；角色判定来源：待核"
+"hq": "Hamidiye Mah. Alp Sk. C Blok Apt. No:4/C/2, Kağıthane, İstanbul",
+"other": "官网 coredata.com.tr，语言 en，快照状态 ok；角色判定来源：待核；第 94 批：原 Plesk 默认页已换正式站（2026）但无人名 / 产品页 → 身份只到「伊斯坦布尔小电信 / 集成商」；写 satis@coredata.com.tr 一封分销 20%，不加厚（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "Coredata Telekom A.Ş.（MERSİS / 商会号未取）",
+"founded": "未取（第 94 批 官方登记核实 2026-10-28）",
+"staff": "微型–小型（未取）"
 },
 "business_lines": [
 "（待核）"
@@ -357939,7 +358001,8 @@
 "title": "Managing Director",
 "email": "justin@comms-express.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director / Managing Director（2019-03-01 任；1972-03 生；Companies House 04359914；兼 Comms Capital Holdings Ltd 董事 = 控股方）= **老板 = 拍板人 = 研究档 KP 本人**（第 94 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -357950,8 +358013,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "英国",
-"other": "官网 comms-express.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+"hq": "7 Grafton Place, Dukes Park Industrial Estate, Chelmsford, Essex, CM2 6TG",
+"other": "官网 comms-express.com，语言 ?，快照状态 http_error；角色判定来源：用户表；第 94 批：£20M IT / 网络电商平台、MD 本人即 KP → 分销 20%：上架 SmartByte 品牌（不谈贴标），价格先行；发信 Thu 12–14 GMT（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "COMMS EXPRESS LIMITED（Companies House 04359914；SIC 46510；VAT 787 391279；Comms Capital Holdings Ltd 100% 控股（2020-07 MBO 结构））",
+"founded": "2002-01-24（第 94 批 官方登记核实 2026-10-28）",
+"staff": "22–40 人；turnover £20.7m（Pomanda）"
 },
 "business_lines": [
 "网络 / 布线产品电商（英国）"
@@ -372536,7 +372602,8 @@
 "title": "IoT Solution Architect",
 "email": "scotty.thibodeaux@groundcontrol.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "IoT Solution Architect（美国路易斯安那 Scott；RocketReach）= 美方技术，不管采购（第 94 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -372547,8 +372614,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "英国",
-"other": "官网 groundcontrol.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "Unit D2, Churcham Business Park, Churcham, Gloucestershire, GL2 8AX",
+"other": "官网 groundcontrol.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 94 批：卫星 IoT 设备商，PoE 只是配套（注入器 / 小交换机）→ 非品类 + 2025-10 集团化 → 不再补查、不再发（B 不动）（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "Ground Control Technologies UK Ltd（formerly Wireless Innovation Ltd；控股 Ground Control Technologies Holdings Ltd 10888253；美国 Ground Control Systems, Las Vegas NV）— 2025-10 起为法国 CLS Group（CNES 子公司）全资",
+"founded": "2002（三家合并：美国 Ground Control 2000 + Wireless Innovation + Rock Seven）（第 94 批 官方登记核实 2026-10-28）",
+"staff": "中型（集团 ≈100+；母公司 CLS 1,100 人）"
 },
 "business_lines": [
 "卫星 IoT / 追踪设备（自有品牌 Ground Control）"
@@ -403395,7 +403465,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Karin Scheer",
+"role": "Geschäftsführerin（einzelvertretungsberechtigt；*1984 Braunsbedra；AG Leipzig HRB 37030）= 老板 = 唯一联系人（qcone@ueberwachung.tv，Impressum 公域）（第 94 批 官方登记核实 2026-10-28）",
+"email": "qcone@ueberwachung.tv",
+"phone": "",
+"source": "https://firmeneintrag.creditreform.de/04357/8190890687/QUALICAM_GMBH"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -403404,8 +403482,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 qualicam.de，语言 de，快照状态 ok；角色判定来源：用户表"
+"hq": "Volbedingstraße 2, 04357 Leipzig（经营地 Braunsbedra）",
+"other": "官网 qualicam.de，语言 de，快照状态 ok；角色判定来源：用户表；第 94 批：一人 GmbH 安防网店 + 自产防盗气体装置，PoE 只是相机套装配件 → 分销 20% 小量，一封即止（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "Qualicam GmbH Sicherheitstechnik + Reizgasanlagen（AG Leipzig HRB 37030；USt DE298501143；WEEE DE 27008620；前身 Qualicom）",
+"founded": "2015-01-15（GmbH；业务 2000 起、2012 起自产刺激气体报警装置）（第 94 批 官方登记核实 2026-10-28）",
+"staff": "微型（1 GF；≤5 人）"
 },
 "business_lines": [
 "视频监控 / 安防技术网店与项目"
@@ -407537,11 +407618,12 @@
 ],
 "kp": [
 {
-"name": "Martin Omond Tong",
+"name": "Martin Omond-Tong",
 "title": "（负责人）",
 "email": "martin@o-tc.co.uk",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "创办人（2012；Eplan 电气设计咨询；董事身份推定）= 老板；Pamela Omond-Tong Director 2015-05-15 任（Companies House 08154404）（第 94 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -407552,8 +407634,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "英国",
-"other": "官网 o-tc.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "4 Wentworth Way, Woodhall Spa, Lincolnshire, LN10 6PG",
+"other": "官网 o-tc.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案；第 94 批：两人电气设计咨询、买工业 MC 配自动化项目；自述已有中国 / 台湾 IoT 伙伴 → 小项目集成商 25%，量极小，不投第 2 封（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "OMOND-TONG CONSULTANCY LTD（Companies House 08154404；t/a O-TC Ltd）",
+"founded": "2012-07-24（第 94 批 官方登记核实 2026-10-28）",
+"staff": "微型（夫妻公司）"
 },
 "business_lines": [
 "Eplan 电气设计 / 自动化咨询（英国）"
@@ -423864,7 +423949,7 @@
 },
 "company_facts": {
 "hq": "波兰",
-"other": "官网 avizio.pl，语言 ?，快照状态 ok；角色判定来源：用户表"
+"other": "官网 avizio.pl，语言 ?，快照状态 ok；角色判定来源：用户表；第 94 批：底数 1 次检索未命中；侧证 lan-cctv.pl（AICOM 网店）页脚「AICOM · KRS 0000654397 · NIP 6782913975」→ Avizio 疑为 SB-445 AICOM（Kraków）自有品牌（推定）→ 下轮一次直查 avizio.pl Impressum 即可定并线（第 94 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防系统（自有标工业 PoE 交换机）"
@@ -442805,7 +442890,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Cody Gordon",
+"role": "President / Founder / Member（Montana SoS C1022717 登记代理人；BBB Member）= 老板 = 拍板人（邮箱未公开 → 官网表单 / sales@ 点名）（第 94 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://opencorporates.com/companies/us_mt/C1022717"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -442814,8 +442907,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 montavue.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "5707 W Harrier Dr, Missoula, MT 59808",
+"other": "官网 montavue.com，语言 en，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌相机 / NVR + 只有一款自标工业 PoE → OEM 30% 首选：商用 PoE 全系贴 Montavue 标；研究档曾记 Lacey WA 为误，实为 Missoula MT（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "Montavue LLC（Montana Domestic LLC；SoS C1022717；Active Good Standing；商标 MONTAVUE 2017-05-17）",
+"founded": "2016-09-19（BBB）/ 2017（品牌）（第 94 批 官方登记核实 2026-10-28）",
+"staff": "9–16 人；$5M 级（第三方）"
 },
 "business_lines": [
 "安防摄像系统（自有品牌，DTC）",
@@ -446207,7 +446303,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Ben（姓未取）",
+"role": "Google Play 开发者账户联系人 ben@silarius.com（职务未取；疑为老板）= 收件人（第 94 批 官方登记核实 2026-10-28）",
+"email": "ben@silarius.com",
+"phone": "",
+"source": "https://play.google.com/store/apps/details?id=com.silarius.app"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -446216,8 +446320,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 silarius.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "1033 US Highway 46, Suite 204, Clifton, NJ 07013（登记地 155 Water St, Brooklyn, NY 11201）",
+"other": "官网 silarius.com，语言 en，快照状态 ok；角色判定来源：用户表；第 94 批：23 万 SKU 代销网店 + 自有品牌 Silarius 打「NDAA 合规」旗号（我方禁词，不配合）→ 只做商用 PoE 贴标一条线 OEM 30%；微型（第 94 批 官方登记核实 2026-10-28）",
+"legal_name": "Silarius LLC（New York LLC；登记号未取；BBB 成立 2019-03-25）",
+"founded": "2019-03-25（LLC）；业务自称 2008（第 94 批 官方登记核实 2026-10-28）",
+"staff": "2–10 人"
 },
 "business_lines": [
 "安防 / IT / AV 电商（B2B）",

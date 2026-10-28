@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -78,6 +78,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 94 批（TR · 1 次检索「"D&N Elektrik" Mühendislik Doğan Tanrıkulu」：返回 Doğan Mühendislik（安卡拉 1991）、D&T Group、美国 D&N Electric（亚特兰大 / 圣迭戈）等同名他户，无命中，2026-10-28 查；）：**
+
+- 法定名 / 登记号：D&N Elektrik Mühendislik（Doğan Tanrıkulu；gmail）— 1 次未命中 · 未取 · 状态 **未命中** · 成立 — · —（疑个体 / 小 Ltd.）
+- 行业码 / 经营范围：（研究档）电气工程承包
+- 注册地址：Türkiye（城市未取）
+- 规模档：—
+- 账目：—；—
+- 高管：Doğan Tanrıkulu — 研究档 KP（gmail）
+- **这意味着什么：**
+  - **一次未命中 → 停**；gmail 名片户、同名陷阱多（美国 D&N Electric）
+  - 研究档维持；不再查
+- 备注：第 94 批 1 次未命中；标「底数不可查（名片户）」。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,7 +122,7 @@ updated: 2026-10-27
 |---|---|
 | 法定名称 | D&N Elektrik Mühendislik（待核） |
 | 总部/地址 | Türkiye（城市待核） |
-| 其他 | 消防安全系统 + 电气工程；仅 Gmail 联系；第 91 批检索未命中（「D&N Elektrik Mühendislik」Doğan Tanrıkulu：1 次检索仅同名无关）→ Gmail 个体户，不再检索（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | 消防安全系统 + 电气工程；仅 Gmail 联系；第 91 批检索未命中（「D&N Elektrik Mühendislik」Doğan Tanrıkulu：1 次检索仅同名无关）→ Gmail 个体户，不再检索（第 91 批 官方登记核实 2026-10-27）；第 94 批：底数 1 次检索未命中（gmail 名片户；同名陷阱：美国 D&N Electric、安卡拉 Doğan Mühendislik）→ 标「底数不可查（名片户）」，不再查（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气工程承包；消防安全系统（守界：主系统不供）
 - **触达通道（公开）**：电话: +90 541 549 04 37（用户表，WhatsApp 已加）
@@ -226,12 +239,12 @@ Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yö
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 45）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 45）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

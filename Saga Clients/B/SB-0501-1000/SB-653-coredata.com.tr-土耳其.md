@@ -88,6 +88,19 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 94 批（TR · 1 次检索：coredata.com.tr 首页 / iletişim / hakkımızda（Coredata Telekom A.Ş；Hamidiye Mah. Alp Sk. C Blok Apt. No:4/C/2 Kağıthane / İstanbul；info@ / satis@coredata.com.tr；+90 212 999 01 03；愿景页空泛；「2026 Tüm Hakları Saklıdır」）；MERSİS / 商会号未出现，2026-10-28 查；http://coredata.com.tr/iletisim）：**
+
+- 法定名 / 登记号：Coredata Telekom A.Ş.（coredata.com.tr；Kağıthane İstanbul） · MERSİS / 商会号未取（1 次检索未出现） · 状态 **Active（官网 2026 在线；此前 Plesk 默认页已换成正式站）** · 成立 未取 · A.Ş.
+- 行业码 / 经营范围：电信服务 / 网络集成（自述「Telekom」）
+- 注册地址：Hamidiye Mah. Alp Sk. C Blok Apt. No:4/C/2, Kağıthane, İstanbul
+- 规模档：微型–小型（人数未取）
+- 账目：—；—
+- **这意味着什么：**
+  - **站活了（原 Plesk 默认页）但内容空泛，无人名、无产品页** → 身份只到「伊斯坦布尔小电信 / 集成商」
+  - 研究档无 KP → 写 satis@coredata.com.tr 一封（分销 20% 一页纸），不加厚
+  - A.Ş. 形式但无披露 → 不作 BIG 判断；年度复核即可
+- 备注：法人号未取；不再追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,8 +136,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 coredata.com.tr，语言 en，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | Coredata Telekom A.Ş.（MERSİS / 商会号未取） |
+| 成立 | 未取（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Hamidiye Mah. Alp Sk. C Blok Apt. No:4/C/2, Kağıthane, İstanbul |
+| 人数 | 微型–小型（未取） |
+| 其他 | 官网 coredata.com.tr，语言 en，快照状态 ok；角色判定来源：待核；第 94 批：原 Plesk 默认页已换正式站（2026）但无人名 / 产品页 → 身份只到「伊斯坦布尔小电信 / 集成商」；写 satis@coredata.com.tr 一封分销 20%，不加厚（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核）
 - **触达通道（公开）**：role: IT 公司（土耳其，待核）；region: 土耳其；contact: info@coredata.com.tr、satis@coredata.com.tr

@@ -81,6 +81,23 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 94 批（DE · 1 次检索：delock.de Impressum（Tragant Handels- und Beteiligungs GmbH, Beeskowdamm 13/15, 14167 Berlin；GF Dipl.-Ing. Ahmad Ebrahimi + Azar Bayegi；HRB 45788 AG Berlin-Charlottenburg；USt DE 156 330 245）+ Northdata（HRB 45788 B；LEI 391200S2D0IEA0LPEV63；Gegenstand 进出口贸易 / 软件 / 参股）+ openregister（登记 2004-10-14；资本 400,000 DM；Ebrahimi GF 2004-10-14–，Bayegi GF 2020-02-06–）+ wer-zu-wem（1992 创立；84 人；营收 10–50 Mio €；所有者 Ahmad Ebrahimi）+ implisense（67 人 2023；资产负债表 €28.4M 2023）+ IT-Business 2018（2017 营收 €26M / 80 人；2005 起台北分公司；25 国分销）+ PresseBox 2026-09（34 周年），2026-10-28 查；https://www.northdata.com/TRAGANT%20Handels-%20und%20Beteiligungsgesellschaft%20mbH,%20Berlin/Amtsgericht%20Charlottenburg%20(Berlin)%20HRB%2045788%20B）：**
+
+- 法定名 / 登记号：TRAGANT Handels- und Beteiligungsgesellschaft mbH（Delock / Navilock；Berlin） · HRB 45788 B（Amtsgericht Charlottenburg）；LEI 391200S2D0IEA0LPEV63 · 状态 **Active** · 成立 1992（创立）/ 2004-10-14（现登记） · GmbH（创始人 Ahmad Ebrahimi 所有）
+- 行业码 / 经营范围：IT 配件 / 连接 / 网络自有品牌 Delock + Navilock 进口分销（25 国；台北采购分公司）
+- 注册地址：Beeskowdamm 13/15, 14167 Berlin
+- 规模档：中型（67–84 人；€10–50M）
+- 账目：资产负债表 €28.4M（2023）；营收 €26M（2017）；—
+- 高管：Dipl.-Ing. Ahmad Ebrahimi — Geschäftsführer / 创始人 / 所有者
+- 高管：Azar Bayegi — Geschäftsführerin（2020-02-06 任）
+- 控制人 / 股东：Ahmad Ebrahimi（所有者）
+- 曾用名：Tragant Computer（旧称）
+- **这意味着什么：**
+  - **自有品牌 Delock（MC / SFP / 配件）、台北采购分公司自 2005** → 采购在台北、走台湾 / 大陆 ODM 比价 → **B BIG，OEM 30% 概率低**
+  - 研究档「工业品少、周边多」→ 若写，只写一页纸 MC + 小口数 PoE 贴标，发 info@delock.de 抄台北采购（邮箱未取）
+  - 不投入第 2 封；年度复核即可
+- 备注：第三方人数 / 营收只作区间。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,14 +141,18 @@ updated: 2026-10-28
 - **【用户表】自己的 logo MC FS SFP，工业品少**
   > 自己的logo MC FS SFP 工业品少 很多是周边产品；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ahmad Ebrahimi（Dipl.-Ing.；Geschäftsführer / 创始人（1992）/ 所有者（HRB 45788 B Charlottenburg；GF 登记 2004-10-14–）= 老板；Azar Bayegi Geschäftsführerin 2020-02-06–（采购在台北分公司，邮箱未取 → info@delock.de）（第 94 批 官方登记核实 2026-10-28）） 〔https://www.delock.de/impressum/index.html〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 delock.com，语言 fi，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | TRAGANT Handels- und Beteiligungsgesellschaft mbH（Delock / Navilock 品牌；AG Charlottenburg HRB 45788 B；LEI 391200S2D0IEA0LPEV63；USt DE156330245） |
+| 成立 | 1992（创立）/ 2004-10-14（现登记）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Beeskowdamm 13/15, 14167 Berlin（台北分公司 2005 起） |
+| 人数 | 67–84 人；营收 €26M（2017）/ €10–50M；资产负债表 €28.4M（2023） |
+| 其他 | 官网 delock.com，语言 fi，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌 Delock IT 配件 / MC / SFP 进口分销 25 国、台北采购 → B BIG、OEM 30% 低概率；一页纸 MC + 小口数 PoE 即止（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 配件（自有品牌 Delock：MC / 交换机 / SFP / PoE 周边）
 
@@ -233,7 +254,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@delock.de | 用户表原值 | Clients/ 表 |
+| Ahmad Ebrahimi | Dipl.-Ing.；Geschäftsführer / 创始人（1992）/ 所有者（HRB 45788 B Charlottenburg；GF 登记 2004-10-14–）= 老板；Azar Bayegi Geschäftsführerin 2020-02-06–（采购在台北分公司，邮箱未取 → info@delock.de）（第 94 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.delock.de/impressum/index.html |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -301,7 +322,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Ahmad,
 
 Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 24 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the Delock PoE switches and media converters, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 4/8-port PoE, gigabit MC) from small lots in your retail packaging, CE/RoHS — which Delock PoE SKU do you reorder most often?
 

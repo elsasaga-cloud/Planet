@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,6 +82,19 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 94 批（PL · 1 次检索：pulsar.pl（产品：工业 PoE 交换机 DIN、PoE 交换机 S64 / S108 / SG32 / ISFG108、PoE 供电系统 SWS、EN54 消防电源；「生产、仓库等 8000 m²」）+ tim.pl / eltrox.pl（Pulsar 自有品牌 PoE 交换机在售）；bizraport「PULSAR SP. Z O.O. KRS 0000262594 NIP 9542567297（营收 763 tys. zł）」= **同名他户**（卡托维兹小公司，不是 pulsar.pl），2026-10-28 查；https://www.pulsar.pl/PL_1026_o-firmie）：**
+
+- 法定名 / 登记号：Pulsar（pulsar.pl；Siechnice）— 电源 + PoE 交换机制造商 = 同行；同名陷阱 · 法定主体号未取（pulsar.pl 的法人名 1 次检索未出现；KRS 0000262594 是同名他户） · 状态 **Active（官网 / 渠道在售）** · 成立 未取 · 未取（制造商）
+- 行业码 / 经营范围：安防电源 / 蓄电池机箱 / PoE 交换机 / PoE 供电系统 制造（自有品牌 Pulsar）
+- 注册地址：Siechnice（Wrocław 附近；街道未取）
+- 规模档：中型（8,000 m² 厂区）
+- 账目：—；—
+- **这意味着什么：**
+  - **自产 PoE 交换机（S108 / ISFG108）= 同行** → 守界：不发价格表、不加厚；B 不动
+  - 同名陷阱：bizraport 的 PULSAR Sp. z o.o.（KRS 0000262594）营收 76 万 zł 是另一家，不能写进任何材料
+  - 若他们要外采 ODM 也是工厂级 → Saga 不碰
+- 备注：第 94 批：定性同行 → 不动；法人号不再追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,9 +146,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Pulsar（pulsar.pl；法人全称待核） |
-| 总部/地址 | 波兰（Siechnice/Wrocław 区域，待核） |
-| 其他 | 产品：缓冲电源（DING2/DRC/DRS/PSB）、变压器、PoE 交换机（商用+工业 DIN）；按 IEEE 802.3af/at/bt |
+| 法定名称 | Pulsar（pulsar.pl；Siechnice；法定主体名 / KRS 未取 —— 同名陷阱：PULSAR Sp. z o.o. KRS 0000262594（卡托维兹，营收 76 万 zł）是另一家） |
+| 总部/地址 | Siechnice（Wrocław 附近） |
+| 人数 | 中型（8,000 m² 厂区） |
+| 其他 | 产品：缓冲电源（DING2/DRC/DRS/PSB）、变压器、PoE 交换机（商用+工业 DIN）；按 IEEE 802.3af/at/bt；第 94 批：自产安防电源 + PoE 交换机（S64 / S108 / SG32 / ISFG108）= **同行** → 守界：不发价格表、不加厚、B 不动（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：缓冲/开关电源与变压器制造（自有品牌）；PoE 交换机（商用 8/16 口；工业 DIN；bt 60W）；PoE 缓冲供电系统（SWB-120）
 
@@ -343,12 +357,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

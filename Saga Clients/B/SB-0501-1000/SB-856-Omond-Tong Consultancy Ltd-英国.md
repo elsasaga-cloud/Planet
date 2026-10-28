@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -90,6 +90,22 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 94 批（GB · 1 次检索：Companies House 总览（08154404；4 Wentworth Way, Woodhall Spa LN10 6PG；Active；Incorporated 2012-07-24）+ 官员页片段（Pamela Omond-Tong Director 2015-05-15 任）+ o-tc.co.uk（2012 年创立；Eplan P8 电气设计 / 西门子自动化 / IoT；「与中国台湾 IoT 伙伴开发产品」；DPO Pam Omond-Tong pam@o-tc.co.uk；旧址 Swallow Barn Sotby / Catch Acres Authorpe），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/08154404）：**
+
+- 法定名 / 登记号：OMOND-TONG CONSULTANCY LTD（08154404；Woodhall Spa, Lincolnshire） · 08154404 · 状态 **Active** · 成立 2012-07-24 · Private limited Company
+- 行业码 / 经营范围：电气设计咨询（Eplan）/ 自动化集成（SIC 未抓）
+- 注册地址：4 Wentworth Way, Woodhall Spa, Lincolnshire, LN10 6PG（住宅地址）
+- 规模档：微型（夫妻公司）
+- 账目：未取（微型推定）；未取
+- 高管：Martin Omond-Tong — 研究档 KP / 创办人（董事身份推定，officers 页未全抓）
+- 高管：Pamela Omond-Tong — Director（2015-05-15 任）
+- 控制人 / 股东：Omond-Tong 夫妇（推定）
+- **这意味着什么：**
+  - **两人电气设计咨询公司，买工业 MC 是给自动化项目配套** → 小项目集成商 25%，量极小；B 不动
+  - 他们自述已有「中国 / 台湾 IoT 伙伴」→ 有直采渠道，Saga 价值只在工业 PoE 现货 + 英文技术支持
+  - 不投第 2 封
+- 备注：officers 页未全抓（省 fetch）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,15 +149,18 @@ updated: 2026-10-27
 - **【用户表】24V 百兆工业 MC ×2**
   > 2个 24V百兆工业MC FC/SC；44-1507-311002 加不上
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Martin Omond Tong（）martin@o-tc.co.uk 〔用户表〕
+- **KP**：Martin Omond-Tong（创办人（2012；Eplan 电气设计咨询；董事身份推定）= 老板；Pamela Omond-Tong Director 2015-05-15 任（Companies House 08154404）（第 94 批 官方登记核实 2026-10-28））martin@o-tc.co.uk 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 o-tc.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | OMOND-TONG CONSULTANCY LTD（Companies House 08154404；t/a O-TC Ltd） |
+| 成立 | 2012-07-24（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 4 Wentworth Way, Woodhall Spa, Lincolnshire, LN10 6PG |
+| 人数 | 微型（夫妻公司） |
+| 其他 | 官网 o-tc.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案；第 94 批：两人电气设计咨询、买工业 MC 配自动化项目；自述已有中国 / 台湾 IoT 伙伴 → 小项目集成商 25%，量极小，不投第 2 封（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Eplan 电气设计 / 自动化咨询（英国）
 - **触达通道（公开）**：role: 电气设计/自动化咨询（英国，工业 MC 小量询盘）；region: 英国；contact: martin@o-tc.co.uk
@@ -243,7 +262,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Martin Omond Tong | — | martin@o-tc.co.uk | 调研核实（公开页） | 用户表 |
+| Martin Omond-Tong | 创办人（2012；Eplan 电气设计咨询；董事身份推定）= 老板；Pamela Omond-Tong Director 2015-05-15 任（Companies House 08154404）（第 94 批 官方登记核实 2026-10-28） | martin@o-tc.co.uk | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -337,12 +356,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

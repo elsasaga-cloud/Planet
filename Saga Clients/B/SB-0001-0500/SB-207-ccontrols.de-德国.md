@@ -79,6 +79,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 94 批（DE · 1 次检索：ccontrols.de Impressum（Contemporary Controls GmbH, Fuggerstraße 1 B, 04158 Leipzig；GF George M. Thomas；Amtsgericht Leipzig HRB 24731；USt DE 220 664 517）+ Northdata（HRB 24731；曾 Stendal HRB 214009 / Lutherstadt Eisleben；2009-02 迁 Leipzig；资本 €50,000；Gegenstand 工业自动化系统开发制造销售）+ kompany（GF Thomas, George Michael, Downers Grove, Illinois/USA）+ ccontrols.com 公司史（BASrouter / BASremote；美国 Downers Grove IL 总部），2026-10-28 查；https://www.northdata.de/Contemporary+Controls+GmbH,+Leipzig/HRB+24731）：**
+
+- 法定名 / 登记号：Contemporary Controls GmbH（ccontrols.de；Leipzig）— 美国 Contemporary Controls 欧洲子公司 = 同行 · HRB 24731（Amtsgericht Leipzig）；曾 HRB 214009（Stendal） · 状态 **Active** · 成立 2006-10（Eisleben 登记；2009-02 迁 Leipzig） · GmbH（美国 Contemporary Controls Systems, Inc. 子公司）
+- 行业码 / 经营范围：楼宇 / 工业自动化网络产品：BACnet 路由器、工业以太网交换机（CTRLink）、MC 自有品牌
+- 注册地址：Fuggerstraße 1 B, 04158 Leipzig
+- 规模档：小型（德国分部 ≤20 人；美国母公司 ≈100 人）
+- 账目：未取（GmbH 微型披露）；—
+- 高管：George M. Thomas — Geschäftsführer（= 美国母公司创始人 / 总裁，Downers Grove IL）
+- 控制人 / 股东：Contemporary Controls Systems, Inc.（USA）100%
+- **这意味着什么：**
+  - **自有品牌工业交换机 / MC 制造商（CTRLink）= 同行** → 研究档「工业 FS MC PoE 自己的 logo」是他们自己的产品线，不是贴牌需求 → **守界：不发价格表、不加厚**
+  - 唯一可能：ODM 代工（他们的交换机也是亚洲代工）→ 需 OEM 工厂级能力，Saga 不是 → 不碰
+  - B 不动；记「同行」
+- 备注：第 94 批：定性同行 → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,8 +142,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 ccontrols.de，语言 de，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Contemporary Controls GmbH（Amtsgericht Leipzig HRB 24731；曾 Stendal HRB 214009；USt DE220664517；美国 Contemporary Controls Systems, Inc.（Downers Grove IL）100% 子公司） |
+| 成立 | 2006-10（Eisleben 登记；2009-02 迁 Leipzig）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Fuggerstraße 1 B, 04158 Leipzig |
+| 人数 | 德国分部 ≤20 人（母公司 ≈100） |
+| 其他 | 官网 ccontrols.de，语言 de，快照状态 ok；角色判定来源：用户表；第 94 批：GF George M. Thomas = 美国母公司创始人；自有品牌工业交换机 / MC（CTRLink）+ BACnet 路由器制造商 = **同行** → 守界：不发价格表、不加厚、B 不动（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：楼宇自动化（BACnet 路由/网关）；CTRLink 工业交换机 / PoE 注入（自有品牌）
 

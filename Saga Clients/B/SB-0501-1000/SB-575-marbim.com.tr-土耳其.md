@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -78,6 +78,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 94 批（TR · 1 次检索「Marbim marbim.com.tr bilişim güvenlik PoE switch」：返回全是通用 PoE 文章 / 他户（Atlantis Grup、Netser、Turkbim、Rima、Poe Güvenlik Batman…），无 Marbim 任何页面，2026-10-28 查；）：**
+
+- 法定名 / 登记号：Marbim（marbim.com.tr）— 1 次未命中 · 未取 · 状态 **未命中** · 成立 — · —
+- 行业码 / 经营范围：（研究档）安防 / 网络零售，仅 WhatsApp 联系
+- 注册地址：Türkiye（城市未取）
+- 规模档：—
+- 账目：—；—
+- 高管：Ecevit — 研究档 KP（仅 WhatsApp）
+- **这意味着什么：**
+  - **一次未命中 → 按规程停**；名片户（WhatsApp only）本就不走邮件群发，底数价值低
+  - 不再查；研究档维持
+- 备注：第 94 批 1 次未命中；标「底数不可查（名片户）」。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,7 +122,7 @@ updated: 2026-10-27
 |---|---|
 | 法定名称 | Marbim（待核；「bim」常为 Bilişim 缩写） |
 | 总部/地址 | Türkiye（待核） |
-| 其他 | 仅 WhatsApp 渠道；第 91 批检索未命中（marbim.com.tr：1 次检索仅 Merbim / Narbim / Marmara Bilişim 等近名，无法定名 / VKN）→ 不写回登记；仅 WhatsApp 线（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | 仅 WhatsApp 渠道；第 91 批检索未命中（marbim.com.tr：1 次检索仅 Merbim / Narbim / Marmara Bilişim 等近名，无法定名 / VKN）→ 不写回登记；仅 WhatsApp 线（第 91 批 官方登记核实 2026-10-27）；第 94 批：底数 1 次检索未命中（名片户、仅 WhatsApp）→ 标「底数不可查（名片户）」，不再查（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核）IT/安防
 - **触达通道（公开）**：网站: http://marbim.com.tr/（未核）；WhatsApp: Ady 已加（号码在 Ady 手机）
@@ -242,12 +255,12 @@ Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modeli
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

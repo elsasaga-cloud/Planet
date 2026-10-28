@@ -77,20 +77,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
-**公司底数 · 第 93 批（DE · 1 次检索：adlerss.com/contact（Adler ELREHA GmbH, Schwetzinger Str. 103, 68766 Hockenheim；美国 Adler Systems LLC, St Petersburg FL）+ about（自研 IP 相机，美 / 德 / 台 / 中设施）+ aeconline（2012 年并入约旦 Elreha 家族，联系人 Hashim Sholy，电话 +962）+ LinkedIn（2013 / 11–50 人）+ signalhire（Zain Sana Ullah = Operations Engineer）；HRB 号 1 次未取，2026-10-28 查；https://adlerss.com/contact/）：**
+**公司底数 · 第 94 批（DE · 第 94 批补项 Northdata 直页 fetch_page 2026-10-28（northdata.de/Adler+ELREHA+GmbH,+Hockenheim）：Adler Elreha GmbH；Amtsgericht Mannheim HRB 724419；EUID DEB8535.HRB724419；Schwetzinger Str. 103, D-68766 Hockenheim；Gegenstand「Die Herstellung und der Handel elektronischer Überwachungssysteme」；Gesellschaftsvertrag 2015-12-02；Eintragung 2016-03-15；Kapital €25,000；GF Sachir Kamel Ajlouni（Clearwater）；股东网络：EL RE HA Elektronische Regelungen GmbH（HRB 420487 Hockenheim；Hamadeh 家族）为股东（Liste der Gesellschafter 2025-11-28）、Zhongjian Wei（ShenZhen）曾任 GF / 持股、Hamadeh Beteiligungs-GmbH / Hamadeh Grundstücks-GmbH & Co. KG 关联，2026-10-28 查；https://www.northdata.de/Adler+ELREHA+GmbH,+Hockenheim）：**
 
-- 法定名 / 登记号：Adler ELREHA GmbH / Adler Security Systems（adlerss.com；Hockenheim）— 约旦 Elreha 集团 · HRB 未取（Mannheim 法院；下轮 Northdata 直链「Adler ELREHA GmbH, Hockenheim」） · 状态 **Aktiv（官网 2026 在线）** · 成立 2012 / 2013 · GmbH（约旦 Elreha 集团子公司 + 美国 LLC）
-- 行业码 / 经营范围：IP / 热成像相机制造（自有品牌 Adler）；边境 / 市政 / 太阳能独立监控系统
+- 法定名 / 登记号：Adler Elreha GmbH（HRB 724419 Mannheim；Hockenheim）— Northdata 直页补项 · HRB 724419（Amtsgericht Mannheim） · 状态 **Active（2025-11-28 新股东名单）** · 成立 2016-03-15（合同 2015-12-02） · GmbH（资本 €25,000）
+- 行业码 / 经营范围：电子监控系统制造与贸易
 - 注册地址：Schwetzinger Str. 103, 68766 Hockenheim
-- 规模档：小型（11–50 人）
-- 账目：未取；—
-- 高管：Hashim Sholy — 集团联系人（Elreha，约旦）
-- 高管：Zain (Sana) Ullah — Operations Engineer（研究档 KP zain@adlerss.com）
+- 规模档：微型–小型
+- 账目：未取（微型披露）；—
+- 高管：Sachir Kamel Ajlouni — Geschäftsführer（Clearwater, FL/US）
+- 高管：Zhongjian Wei（深圳）— 前 GF / 股东（30%，Northdata 网络图）
+- 控制人 / 股东：EL RE HA Elektronische Regelungen GmbH（Hamadeh 家族）+ Ajlouni + Wei（比例以 2025-11 名单为准，Premium 未看）
 - **这意味着什么：**
-  - **相机制造商（自有品牌）→ 交换机是系统部件**（研究档「ONV 工业 FS」）→ OEM 30% 线：工业 PoE / 光口交换机贴 Adler 标配太阳能独立站
-  - 边境 / 政府项目为主 → 项目制、量不稳；军用 / 边防整机不碰（守界），只供通用交换机
-  - KP 是运营工程师（非采购）→ 技术切入：宽温、PoE 预算、SFP 兼容；DE 复盘 3 月补 HRB
-- 备注：HRB 1 次未取 → 下轮 Northdata 直链一次。
+  - **股东里有深圳人士（Zhongjian Wei，曾任 GF）= 已有华南直采 / 合资渠道** → 第 93 批 OEM 30% 判断降为「低概率」；一封一页纸即可，不加厚
+  - 母体 EL RE HA（Hockenheim 电子控制器制造）+ 房地产 / 参股公司 = 家族集团，Adler 是其安防贴牌线
+  - 年度复核 Northdata 股东名单（2025-11 刚更新 = 股权在动）
+- 备注：第 93 批 HRB 未取 → 第 94 批 Northdata 直页补齐。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -136,11 +137,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Adler ELREHA GmbH t/a Adler Security Systems（Hockenheim；HRB 1 次未取 → 下轮 Northdata 直链；约旦 Elreha 集团子公司 + 美国 Adler Systems LLC, St Petersburg FL） |
-| 成立 | 2012 / 2013（第 93 批 官方登记核实 2026-10-28） |
+| 法定名称 | Adler Elreha GmbH（Amtsgericht Mannheim **HRB 724419**；EUID DEB8535.HRB724419；资本 €25,000；股东 EL RE HA Elektronische Regelungen GmbH（HRB 420487，Hamadeh 家族）等；GF Sachir Kamel Ajlouni（Clearwater FL）；Zhongjian Wei（深圳）曾任 GF / 持股） |
+| 成立 | 2016-03-15（登记；合同 2015-12-02）（第 94 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Schwetzinger Str. 103, 68766 Hockenheim |
 | 人数 | 小型（11–50 人） |
-| 其他 | 官网 adlerss.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 93 批：自有品牌 IP / 热成像相机制造商 → 交换机是系统部件 → OEM 30%：工业 PoE / 光口交换机贴 Adler 标配太阳能独立站；边境 / 政府项目制 → 量不稳；军用整机不碰（第 93 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 adlerss.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 93 批：自有品牌 IP / 热成像相机制造商 → 交换机是系统部件 → OEM 30%：工业 PoE / 光口交换机贴 Adler 标配太阳能独立站；边境 / 政府项目制 → 量不稳；军用整机不碰（第 93 批 官方登记核实 2026-10-28）；第 94 批：Northdata 直页补齐 HRB；股东含深圳人士 = 已有华南直采 / 合资渠道 → OEM 30% 判断降为低概率，一页纸即止；2025-11-28 新股东名单 = 股权在动（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核，德国）
 - **触达通道（公开）**：role: 安防/网络安装商（德国，工业 FS 现 ONV）；region: 德国；contact: info@adlerss.com、zain@adlerss.com

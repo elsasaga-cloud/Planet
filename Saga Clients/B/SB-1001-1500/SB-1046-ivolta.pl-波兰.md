@@ -79,6 +79,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 94 批（PL · 1 次检索：bizraport（VOLTA SP. Z O.O.；KRS 0000023698；NIP 5211367444；REGON 010829096；登记 2001-06-28；资本 1,020,000 PLN；营收 2025 90.85 mln zł / 2024 83.30 / 2023 83.19；资产 30.4 mln）+ ivolta.pl/contact（ul. Jutrzenki 94, 02-230 Warszawa；BDO 000051577）+ en.ivolta.pl（25 年；Satel / Hikvision / Dahua 授权分销；70+ 人；华沙总部 + 10 分部）+ LinkedIn（51–200 人；1986 起），2026-10-28 查；https://www.bizraport.pl/krs/0000023698/volta-spolka-z-ograniczona-odpowiedzialnoscia）：**
+
+- 法定名 / 登记号：VOLTA Sp. z o.o.（ivolta.pl / volta.com.pl；Warszawa）— Satel / Hikvision / Dahua 授权分销 · KRS 0000023698 / NIP 5211367444 / REGON 010829096 · 状态 **AKTYWNA** · 成立 2001-06-28（KRS；业务 1986 起） · Spółka z o.o.（资本 1,020,000 PLN）
+- 行业码 / 经营范围：电子安防系统批发（CCTV / 报警 / 门禁 / 消防；PKD 46.xx）
+- 注册地址：ul. Jutrzenki 94, 02-230 Warszawa
+- 规模档：中型（70+ 人；≈€21M 营收）
+- 账目：营收 90.85 mln zł（2025）；83.30（2024）；83.19（2023）；资产 30.4 mln zł；—
+- 高管：（zarząd 未取 — 片段无人名）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **波兰安防分销 Top 级（€21M、10 分部、Hikvision / Dahua / Satel 授权）= B BIG** → 分销 20% 线，走品牌 SmartByte 上架，不谈贴标
+  - 研究档「PoE 很多摄像头、很多牌子、有 Utepo」→ 已有 PoE 供应（Utepo 等）→ 开场只谈「第二供应 + 现货期」，一个问题：现用 PoE 交期？
+  - zarząd 未取 → 写采购 / 产品经理公域邮箱；年度复核营收
+- 备注：zarząd 未取（省 1 次 rejestr.io）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,8 +133,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 ivolta.pl，语言 pl，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | VOLTA Sp. z o.o.（ivolta.pl 为其网店品牌；KRS 0000023698 · NIP 5211367444 · REGON 010829096；资本 1,020,000 PLN；BDO 000051577） |
+| 成立 | 2001-06-28（KRS；业务 1986 起）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Jutrzenki 94, 02-230 Warszawa |
+| 人数 | 70+ 人、华沙总部 + 10 分部；营收 2025 90.85 mln zł（2024 83.30 / 2023 83.19）；资产 30.4 mln |
+| 其他 | 官网 ivolta.pl，语言 pl，快照状态 ok；角色判定来源：用户表；第 94 批：Satel / Hikvision / Dahua 授权分销 = 波兰安防分销 Top 级 → B BIG，分销 20% 上架 SmartByte，不谈贴标；已有 PoE 供应（Utepo 等）→ 只谈第二供应 + 现货期；zarząd 未取（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：报警 / CCTV 网店
 - **触达通道（公开）**：role: 安防网店（波兰，Utepo 在售）；region: 波兰；contact: kontakt@ivolta.pl

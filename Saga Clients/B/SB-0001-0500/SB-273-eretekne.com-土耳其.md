@@ -89,6 +89,23 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 94 批（TR · 1 次检索：eretekne.com/sayfa/hakkimizda（Erete Bilgi Sistemleri Ltd. Şti. 2001-12 创立；创始合伙人 Pınar Kabil / Murat Soyak / Timur Yıldız；Edge-Core（Accton）土耳其分销、Etherwan 工业交换机分销、Fluke Networks 分销；XPS 工业交换机）+ /iletisim（Firma Adı Eretekne | Erete B2B Sitesi；Yetkili Kişi Pınar Kabil；19 Mayıs Mah. Güven Sk. No:4/2 Şişli İstanbul；Vergi No 3540201016 Mecidiyeköy V.D.；IBAN 户名 ERETE BILGI SISTEMLERİ DIŞ. TIC. ve SAN. LTD.ŞTİ）+ erete.com.tr 公告（B2B 平台 = eretekne.com），2026-10-28 查；https://www.eretekne.com/iletisim）：**
+
+- 法定名 / 登记号：Eretekne（eretekne.com）= Erete Bilgi Sistemleri Dış Tic. ve San. Ltd. Şti. 的 B2B 站 → 并线 SB-867 · VKN 3540201016（Mecidiyeköy V.D.） · 状态 **Active（B2B 站 2025 公告在线）** · 成立 2001-12（Erete） · Ltd. Şti.（同 SB-867 Erete 一个法人）
+- 行业码 / 经营范围：网络布线 + 有源设备分销（Edge-Core / Etherwan / XPS / Fluke）B2B 平台
+- 注册地址：19 Mayıs Mah. Güven Sk. No:4/2, Şişli, İstanbul
+- 规模档：小型（同 SB-867）
+- 账目：—；—
+- 高管：Pınar Kabil — 创始合伙人 / B2B 站负责人（Yetkili Kişi）
+- 高管：Murat Soyak — 创始合伙人（研究档 SB-867 KP）
+- 高管：Timur Yıldız — 创始合伙人
+- 控制人 / 股东：三位创始合伙人（推定）
+- **这意味着什么：**
+  - **SB-273 = SB-867 Erete 的 B2B 网店，一个法人（VKN 3540201016）→ 并线 SB-867，只跟一线**
+  - 他们是 **Edge-Core（Accton）与 Etherwan 的土耳其分销商** = 卖竞品；对 Saga 只有「补位 / 低价线」价值：XPS / Etherwan 之外的商用 PoE 走 SmartByte 分销 20%
+  - 写 Murat Soyak（已有）抄 Pınar Kabil；一封信，不加厚
+- 备注：并线：SB-273 → SB-867（第 94 批）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -139,8 +156,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 eretekne.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Erete Bilgi Sistemleri Dış Tic. ve San. Ltd. Şti.（eretekne.com = Erete 的 B2B 网店；VKN 3540201016 Mecidiyeköy V.D.）= **与 SB-867 Erete 同一法人 → 并线 SB-867** |
+| 成立 | 2001-12（Erete）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 19 Mayıs Mah. Güven Sk. No:4/2, Şişli, İstanbul |
+| 人数 | 小型（同 SB-867） |
+| 其他 | 官网 eretekne.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 94 批：Erete = Edge-Core（Accton）+ Etherwan + Fluke 土耳其分销商（卖竞品）；B2B 负责人 Pınar Kabil（创始合伙人）；只跟 SB-867 一线，不加厚（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防传输 / 工业网络产品分销（土耳其）
 - **触达通道（公开）**：role: 安防传输产品分销商（土耳其，XPS/ONV/Voscom）；region: 土耳其；contact: info@eretekne.com

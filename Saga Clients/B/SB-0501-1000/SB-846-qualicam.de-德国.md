@@ -78,6 +78,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 94 批（DE · 1 次检索：Creditreform（Qualicam GmbH, Leipzig；Amtsgericht Leipzig HRB 37030；1 GF；最后变更 2021-12-15）+ cylex / aktiveabwehr.de Impressum（Volbedingstraße 2, 04357 Leipzig；资本 €25,000；qcone@ueberwachung.tv；USt DE 298 501 143；WEEE DE 27008620）+ firmenwissen 公告 2020-04-08（GF Scheer, Karin, Braunsbedra, *1984，einzelvertretungsberechtigt；旧址 Berliner Straße 69 Leipzig）+ blog.qualicam.de（GF Karin Scheer）+ buyingselling（源自 Qualicom；2000 起安防；2012 起自产刺激气体报警装置），2026-10-28 查；https://firmeneintrag.creditreform.de/04357/8190890687/QUALICAM_GMBH）：**
+
+- 法定名 / 登记号：Qualicam GmbH Sicherheitstechnik + Reizgasanlagen（qualicam.de；Leipzig / Braunsbedra） · HRB 37030（Amtsgericht Leipzig） · 状态 **Active（最后登记变更 2021-12）** · 成立 2015-01-15（companyhouse.de 记；业务 2000 起） · GmbH
+- 行业码 / 经营范围：视频监控 / 报警 / 刺激气体防盗装置 网店 + 自产（QC-Houseguard）
+- 注册地址：Volbedingstraße 2, 04357 Leipzig（经营地 Braunsbedra）
+- 规模档：微型（1 GF；≤5 人）
+- 账目：未取（微型）；—
+- 高管：Karin Scheer — Geschäftsführerin（einzelvertretungsberechtigt；*1984）
+- 控制人 / 股东：Karin Scheer（推定）
+- 曾用名：Qualicom Videoüberwachung und Reizgasanlagen（前身）
+- **这意味着什么：**
+  - **一人 GmbH 安防网店 + 自产防盗气体装置** → PoE 只是相机套装配件 → 分销 20% 小量；B 不动
+  - 写 qcone@ueberwachung.tv（Impressum 公域）一封即可，不加厚
+  - 年度复核 HRB 状态
+- 备注：第 94 批：微型 → 不加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,14 +137,18 @@ updated: 2026-10-28
 - **【用户表】主要是安防**
   > 主要是安防
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Karin Scheer（Geschäftsführerin（einzelvertretungsberechtigt；*1984 Braunsbedra；AG Leipzig HRB 37030）= 老板 = 唯一联系人（qcone@ueberwachung.tv，Impressum 公域）（第 94 批 官方登记核实 2026-10-28））qcone@ueberwachung.tv 〔https://firmeneintrag.creditreform.de/04357/8190890687/QUALICAM_GMBH〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 qualicam.de，语言 de，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Qualicam GmbH Sicherheitstechnik + Reizgasanlagen（AG Leipzig HRB 37030；USt DE298501143；WEEE DE 27008620；前身 Qualicom） |
+| 成立 | 2015-01-15（GmbH；业务 2000 起、2012 起自产刺激气体报警装置）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Volbedingstraße 2, 04357 Leipzig（经营地 Braunsbedra） |
+| 人数 | 微型（1 GF；≤5 人） |
+| 其他 | 官网 qualicam.de，语言 de，快照状态 ok；角色判定来源：用户表；第 94 批：一人 GmbH 安防网店 + 自产防盗气体装置，PoE 只是相机套装配件 → 分销 20% 小量，一封即止（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频监控 / 安防技术网店与项目
 - **触达通道（公开）**：role: CCTV 网店/安装（德国，Hikvision 为主）；region: 德国；contact: qcall@ueberwachung.tv
@@ -222,7 +242,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | qcall@ueberwachung.tv | 用户表原值 | Clients/ 表 |
+| Karin Scheer | Geschäftsführerin（einzelvertretungsberechtigt；*1984 Braunsbedra；AG Leipzig HRB 37030）= 老板 = 唯一联系人（qcone@ueberwachung.tv，Impressum 公域）（第 94 批 官方登记核实 2026-10-28） | qcone@ueberwachung.tv | 调研核实（公开页） | https://firmeneintrag.creditreform.de/04357/8190890687/QUALICAM_GMBH |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -258,7 +278,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；已推送 8 次无回复，邮件通道疲劳
+- **W**：已推送 8 次无回复，邮件通道疲劳
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -275,7 +295,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -291,7 +311,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Karin,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches you sell and install with Hikvision NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your projects use most?
 

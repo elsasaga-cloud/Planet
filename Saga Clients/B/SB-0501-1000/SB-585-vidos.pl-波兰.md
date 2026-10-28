@@ -79,6 +79,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 94 批（PL · 1 次检索：aleo / gowork / aplikuj（VIDOS SPÓŁKA Z O.O.；KRS 0000857683；NIP 5342626018；REGON 386943260；ul. Sokołowska 44, 05-806 Sokołów；资本 5,000 zł；KRS 登记 2020-09-03；状态 AKTYWNA；PKD 批发）+ vidos.pl/contact（Vidos LLC 同址；旧 2018 页 Reguły Al. Jerozolimskie 311、NIP 728-120-97-11 = 前身个体 / 旧主体）+ 产品页（视频对讲 / 门禁 / 门控自动化 / CCTV 自有品牌「Producent」；客户为安防专业公司）；同名陷阱：vidos-domofony.pl（KRS 0000857651 另一法人）、PPHU HERZ vidos-sklep.pl（经销商），2026-10-28 查；https://aleo.com/int/company/vidos-sp-z-oo-sokolow）：**
+
+- 法定名 / 登记号：VIDOS Sp. z o.o.（vidos.pl；Sokołów k/Warszawy） · KRS 0000857683 / NIP 5342626018 / REGON 386943260 · 状态 **AKTYWNA** · 成立 2020-09-03（KRS；品牌业务更早，前身 Reguły 主体 NIP 7281209711） · Spółka z o.o.（资本 5,000 zł）
+- 行业码 / 经营范围：视频对讲 / 门禁 / 门控自动化 自有品牌（亚洲代工）批发给安防安装商
+- 注册地址：ul. Sokołowska 44, 05-806 Sokołów k/Warszawy
+- 规模档：小型（人数未取；有招聘页）
+- 账目：未取（rejestr.io 未单独取）；—
+- 高管：（zarząd 未取 — 1 次检索片段无人名）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌对讲 + 已有自标 PoE 交换机（研究档）= 现成贴牌买家** → **OEM 30%：4 / 8 口 PoE（对讲 / 门口机供电）STC-028GP / STI-054GP 贴 Vidos 标**
+  - 2020 新法人 + 5,000 zł 资本 = 重组后的轻资产贸易主体 → 先款后货；研究档无 KP → 写 公域邮箱 + 要采购负责人
+  - 同名陷阱：vidos-domofony.pl / vidos-sklep.pl 都是别的法人（经销商），别混
+- 备注：zarząd / 财务未取（省 1 次 rejestr.io）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,8 +132,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 vidos.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | VIDOS Sp. z o.o.（KRS 0000857683 · NIP 5342626018 · REGON 386943260；资本 5,000 zł；前身 Reguły 主体 NIP 7281209711） |
+| 成立 | 2020-09-03（KRS；品牌业务更早）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Sokołowska 44, 05-806 Sokołów k/Warszawy |
+| 人数 | 小型（未取） |
+| 其他 | 官网 vidos.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌视频对讲 / 门禁「Producent」+ 已有自标 PoE → OEM 30%：4 / 8 口 PoE 贴 Vidos 标；zarząd 未取；同名陷阱 vidos-domofony.pl（KRS 0000857651）/ vidos-sklep.pl（PPHU HERZ）为经销商（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：可视对讲 / 密码锁 / 门禁自动化（自有品牌 VIDOS）；CCTV
 - **触达通道（公开）**：role: 对讲/门禁品牌商（波兰，自有标 PoE）；region: 波兰；contact: biuro@vidos.pl

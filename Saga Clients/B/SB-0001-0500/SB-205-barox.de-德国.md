@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -94,22 +94,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
-**公司底数 · 第 86 批（Deutschland / Schweiz · Handelsregister（Northdata 登记摘要 HRB 413457 Freiburg）+ 官网 Impressum / AGB（HRB 3457 AG Lörrach、CH-400.3.019.774-7、USt-ID）+ 官网 Geschichte + 2024-10 任命新闻稿 + theorg，2026-10-27 查；https://www.northdata.com/Barox%20Kommunikation%20GmbH,%20L%C3%B6rrach/Amtsgericht%20Freiburg%20HRB%20413457）：**
+**公司底数 · 第 94 批（DE · 1 次检索：barox.ch Impressum（Barox Kommunikation GmbH, Weiler Strasse 7, D-79540 Lörrach；GF Angelo Banfi + Rudolf Rohr；HRB 3457 Amtsgericht Lörrach；USt DE 228975346）+ Northdata（Amtsgericht Freiburg HRB 413457；LEI 549300UCXE39G2ZNV027；资本 €25,000）+ AGB（母公司 barox Kommunikation AG, Im Grund 15, CH-5405 Baden-Dättwil；CH-400.3.019.774-7；MWST CHE-104.727.047）+ barox.ch 团队页（≈15 人；Jeneeben Jesujeevagan 工程负责人；Daniel Kühnelt 系统工程师 Lörrach）+ 公司页（1998-09-01 Banfi + Rohr 创立；视频 / 安防网络交换机 + MC 自有品牌），2026-10-28 查；https://www.northdata.com/Barox%20Kommunikation%20GmbH,%20L%C3%B6rrach/Amtsgericht%20Freiburg%20HRB%20413457）：**
 
-- 法定名 / 登记号：Barox Kommunikation GmbH（Lörrach；母公司 barox Kommunikation AG，瑞士 Baden） · DE：Amtsgericht Freiburg HRB 413457（Impressum 旧号 HRB 3457 AG Lörrach）· USt-ID DE228975346 · 德国税号 1108809963；CH 母公司：Handelsregister CH-400.3.019.774-7 · MWST CHE-104.727.047 · 状态 **Aktiv（2025-10 25 周年新闻；2026-02 官网更新）** · 成立 GmbH 2003（Lörrach 子公司）；AG 1998-09-01（Baden，ABB 园区） · GmbH · Stammkapital €25,000 · 100% 子公司 of barox Kommunikation AG（瑞士）· 创始人 Banfi + Rohr 持股（geschäftsführender Gesellschafter）
-- 行业码 / 经营范围：视频 / 安防网络专用交换机、媒体转换器、IP 延长器的设计 + 销售（瑞士品牌，产品自研外包生产）；覆盖德语区；2014 增设 Stade-Hamburg 办事处
-- 注册地址：Weiler Strasse 7, D-79540 Lörrach；母公司 Im Grund 15, CH-5405 Baden-Dättwil
-- 规模档：中小（估 20–50 人，两国三址）
-- 账目：小型 GmbH 不披露营收；AG 瑞士不公开；德国年报次年 12 月前
-- 高管：Rudolf ROHR — Mitgründer / Geschäftsführer（AG CEO 2005 起；GmbH 共同 GF）/ geschäftsführender Gesellschafter = 老板 = 研究档 KP rohr.rudolf@barox.ch → **老板 = 联系人**
-- 高管：Angelo BANFI — Mitgründer / Geschäftsführer（AG + GmbH）
-- 高管：Jeneeben JESUJEEVAGAN — Leiter Technik（技术负责人，2024-10 任命）= 研究档 KP mail@barox.de → 技术选型人
-- 控制人 / 股东：Banfi + Rohr（创始合伙人，比例未公开）
+- 法定名 / 登记号：Barox Kommunikation GmbH（barox.de；Lörrach）— 瑞士 barox Kommunikation AG 德国子公司 = 同行 · HRB 413457（Amtsgericht Freiburg；旧 HRB 3457 Lörrach）；LEI 549300UCXE39G2ZNV027 · 状态 **Active** · 成立 未取（母公司 1998-09-01） · GmbH（瑞士 barox Kommunikation AG 子公司）
+- 行业码 / 经营范围：视频 / 安防专用网络交换机、MC、PoE 自有品牌制造（barox）
+- 注册地址：Weiler Strasse 7, 79540 Lörrach
+- 规模档：小型（集团 ≈15 人）
+- 账目：未取；—
+- 高管：Angelo Banfi — Geschäftsführer / 创始人
+- 高管：Rudolf Rohr — Geschäftsführer / 创始人（研究档 KP）
+- 高管：Jeneeben Jesujeevagan — Head of Engineering（研究档 KP）
+- 控制人 / 股东：barox Kommunikation AG（Banfi / Rohr 家族；VR 主席 Jürg Ingwar Michel）
 - **这意味着什么：**
-  - **老板 Rudolf Rohr 本人 + 技术负责人 Jeneeben 都在研究档 KP 里**：barox 是「自有品牌视频交换机」的瑞士品牌商（自研、外包生产）—— 正是 OEM 30% 线的教科书客户；Rohr 2009 年上过上海交大 EMBE，懂中国供应链、会直接比价 → 报价一步到位 + 阶梯；切入点：他们目录里的 PoE++ / 工业导轨 / 2.5G 上行款的第二货源（STI-288DGGPM-2BT、STI-480XGGM）
-  - 技术门槛：视频网络专用（组播 / IGMP / 环网 / 动态路由）→ 必须给 Marvell 管理型 + 固件可定制说明，先样机（付费）后谈量；CE / RoHS / REACH 文件齐
-  - 瑞士母公司结算：T/T 30/70，欧元或瑞郎；DAP Lörrach 走 Saga 百运网线（德国境内）
-  - 收件人：技术 Jeneeben 做评估、Rohr 拍板 → 一信两收
+  - **barox = 自有品牌视频交换机制造商 = 同行**（研究档「自己的 logo 白色外壳」是他们的产品）→ **守界：不发价格表、不加厚**
+  - 唯一通道是 ODM（他们的硬件为亚洲代工）→ 需工厂级 → Saga 不碰；B 不动
+  - 15 人瑞士 / 德国两地 → 若日后他们主动来询，才谈
+- 备注：第 94 批：定性同行 → 不动。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -154,8 +154,8 @@ updated: 2026-10-27
 - **【用户表】工业 FS MC PoE 自己的 logo，很多人在卖**
   > 工业FS MC POE 自己的logo；很多人在卖他们的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jeneeben Jesujeevagan（）mail@barox.de 〔用户表〕
-- **KP**：Rudolf Rohr（）rohr.rudolf@barox.ch 〔用户表〕
+- **KP**：Jeneeben Jesujeevagan（Head of Engineering（barox.ch 团队页；+41 56 511 10 41）= 产品 / 工程口 —— 研究档「revive 只有找到产品 / 采购负责人」对应的人；但 barox 为同行（自有品牌视频交换机制造商），默认不动（第 94 批 官方登记核实 2026-10-28））mail@barox.de 〔用户表〕
+- **KP**：Rudolf Rohr（Geschäftsführer / 创始人（1998-09-01 与 Angelo Banfi 共同创立；barox Kommunikation AG CEO；GmbH HRB 413457 Freiburg / 3457 Lörrach）= 老板（第 94 批 官方登记核实 2026-10-28））rohr.rudolf@barox.ch 〔用户表〕
 - **KP**：Luis Coello（来信署名人（职务未在邮件署名里出现）；地址 2025-03-12 永久退信（550 5.4.1）→ 已离职/停用）luis.coello@barox.de 〔S/A 邮箱来信 2024-05-02 → 05-03 来信 3 封（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -164,9 +164,10 @@ updated: 2026-10-27
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | Barox Kommunikation GmbH（Lörrach；HRB 413457 Freiburg / Impressum HRB 3457 Lörrach；USt-ID DE228975346；100% 子公司 of barox Kommunikation AG，CH-400.3.019.774-7，Baden-Dättwil） |
-| 总部/地址 | 德国 |
-| 人数 | 估 20–50（两国三址）（第 86 批 官方登记核实 2026-10-27） |
-| 其他 | 官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表 |
+| 成立 | 1998-09-01（AG）；GmbH 登记日未取（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Weiler Strasse 7, 79540 Lörrach（母公司 Im Grund 15, CH-5405 Baden-Dättwil） |
+| 人数 | ≈15 人（barox.ch 团队页 2026-07；两地 Baden-Dättwil / Lörrach） |
+| 其他 | 官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表；第 94 批：GF Angelo Banfi + Rudolf Rohr；LEI 549300UCXE39G2ZNV027；自有品牌视频 / 安防交换机 + MC 制造商 = **同行** → 守界：不发价格表、不加厚（2024 问价后拒样 + 退信已证）（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频/安防网络交换机（自有品牌）；MC / IP 延长器
 - **触达通道（公开）**：role: 视频网络交换机品牌商（德/瑞，自有 logo，OEM 采购）；region: 德国；contact: mail@barox.de、rohr.rudolf@barox.ch
@@ -268,8 +269,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jeneeben Jesujeevagan | — | mail@barox.de | 调研核实（公开页） | 用户表 |
-| Rudolf Rohr | — | rohr.rudolf@barox.ch | 调研核实（公开页） | 用户表 |
+| Jeneeben Jesujeevagan | Head of Engineering（barox.ch 团队页；+41 56 511 10 41）= 产品 / 工程口 —— 研究档「revive 只有找到产品 / 采购负责人」对应的人；但 barox 为同行（自有品牌视频交换机制造商），默认不动（第 94 批 官方登记核实 2026-10-28） | mail@barox.de | 调研核实（公开页） | 用户表 |
+| Rudolf Rohr | Geschäftsführer / 创始人（1998-09-01 与 Angelo Banfi 共同创立；barox Kommunikation AG CEO；GmbH HRB 413457 Freiburg / 3457 Lörrach）= 老板（第 94 批 官方登记核实 2026-10-28） | rohr.rudolf@barox.ch | 调研核实（公开页） | 用户表 |
 | Luis Coello | 来信署名人（职务未在邮件署名里出现）；地址 2025-03-12 永久退信（550 5.4.1）→ 已离职/停用 | luis.coello@barox.de | 调研核实（公开页） | S/A 邮箱来信 2024-05-02 → 05-03 来信 3 封（第 72 批从邮件表头补） |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -363,12 +364,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

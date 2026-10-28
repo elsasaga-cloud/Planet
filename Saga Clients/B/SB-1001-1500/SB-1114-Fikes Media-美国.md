@@ -80,20 +80,20 @@ updated: 2026-10-28
 
 - 法定假日：11-11 Veterans Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
-**公司底数 · 第 88 批（US · 公司官网 about / contact + Tracxn（2007 创立，创始人 Christopher Fikes，1–10 人）+ Crunchbase 人物页 + ZoomInfo；TX SoS 登记未取，2026-10-27 查；https://www.fikesmedia.com/about）：**
+**公司底数 · 第 94 批（US · 1 次检索：Tracxn（2007 年 Christopher Fikes 创立；Silsbee；未融资）+ fikesmedia.com/about（2007；「与老朋友 Mikrotik 的新合作」）+ /contact（105 George St, Silsbee TX 77656；旧址 109 Pinecrest Dr）+ Crunchbase 人物页（Christopher Fikes：Evadale ISD 信息技术主任 2018– + FikesMedia Owner 2007–）+ bizstanding（Fikesmedia.Com, Member Christopher Fikes / Principal, inactive），2026-10-28 查；https://www.fikesmedia.com/about）：**
 
-- 法定名 / 登记号：FikesMedia（FikesMedia LLC，ZoomInfo） · TX SoS 编号未取（LLC，Silsbee TX） · 状态 **在营（官网 © 2025；2026-10-03 来信）** · 成立 2007-01（Crunchbase：Owner Jan 2007 至今） · LLC · 一人公司（业主 Christopher Fikes 同时任 Evadale ISD 信息技术主管，2018-08 起）
-- 行业码 / 经营范围：网络咨询 / 数据中心 / VoIP / **MikroTik 咨询与合作伙伴**；客户 = 德州地方政府、K-12 / 高校、企业；曾转售 UniFi / EdgeMax / Dell EMC / HPE Aruba / pfSense；GitHub 开源工具（Proxmox、AD 同步、校园门禁）
-- 注册地址：105 George St, Silsbee, TX 77656（另 109 Pinecrest Dr）
-- 规模档：微型（1–10 人；业主兼职学区 IT 主管）
-- 账目：私企无公开财报；Tracxn 1–10 人、未融资；TX 特许税报告 5-15
-- 高管：Christopher FIKES — Owner / Founder（2007）= 研究档 KP（2026-10-03 来信「This actually does have my interest… customization… API for controller integration」）→ **老板 = 联系人**；本职 Evadale ISD Director of IT
+- 法定名 / 登记号：FikesMedia LLC（fikesmedia.com；Silsbee TX） · TX 登记号未取（TX SoS 付费；bizstanding 镜像显示旧登记 inactive） · 状态 **官网在线（2026）；登记状态存疑（镜像 inactive）** · 成立 2007 · LLC（德州）
+- 行业码 / 经营范围：MikroTik 转售 + IT 服务（副业）
+- 注册地址：105 George St, Silsbee, TX 77656
+- 规模档：微型（1 人；老板另有全职 = 学区 IT 主任 + 兼职教授）
+- 账目：—；—
+- 高管：Christopher Fikes — Owner（研究档 KP；同时任 Evadale ISD Director of IT）
 - 控制人 / 股东：Christopher Fikes 100%（推定）
 - **这意味着什么：**
-  - **老板 = 联系人：Chris Fikes 是一人 MikroTik 咨询 / 集成商（客户 = 德州学区 + 市政），本职是学区 IT 主管；他 2026-10-03 来信问定制程度与控制器 API，Simon 10-04 长回 + 10-19 催样都没回** → 他要的是「能被他的控制器 / 脚本接管」的交换机：下一封由 Alan 以工程口吻答具体项 —— SNMP / CLI / RESTCONF 或 Web API 有无、固件可否定制、能否提供 MIB；**别再催样**，先把技术问答给足（他是技术人）；GitHub 开源作者 → 给文档链接比给价表管用
-  - 学区 / 市政采购走 TX 州合同 / 报价单（无联邦 TAA 问题，但 E-Rate 项目有 FCC 禁购清单 —— Marvell / CENTEC 白牌不在清单）；一人公司 100% 预付、MOQ 1、DAP 德州走 Saga 百运网线；US 周三 08–10 发信（CST）
-  - 复查：每年看官网 services 是否仍列 MikroTik（= 仍在做集成）
-- 备注：研究档 founded 可回填 2007；legal_name FikesMedia LLC（ZoomInfo，待 TX SoS 核）。
+  - **一人副业（老板全职在学区）** → 量极小；分销 20% 线只给一页纸，不投第 2 封
+  - 唯一价值：他管一个学区的网络 → 若他回信，问的是「学区项目用 PoE 交换机」而不是经销
+  - 德州登记可能已失效（镜像 inactive）→ 不作为可靠底数；不动 B
+- 备注：TX SoS 付费未查；不再追。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -126,7 +126,7 @@ updated: 2026-10-28
 - **【email】Simon 追问样品，未回**
   > Any feedback about our product information? Maybe arrange 2 samples for testing?
   > 来源：data/gmail_s/messages/2026/2026-10.jsonl（抓取 2026-10-19）
-- **KP**：Christopher Fikes（Owner / Founder（2007-01 起；Crunchbase / Tracxn）= **老板 = 联系人**；本职 Evadale ISD（德州学区）Director of IT（2018-08 起）—— FikesMedia 是他的一人 MikroTik 咨询 / 集成公司，客户 = 学区 + 市政；GitHub 开源作者 → 技术人，别催样，给 API / SNMP / CLI 文档（第 88 批 官方登记核实 2026-10-27））cfikes@fikesmedia.com 409.877.4220〔S 邮箱签名〕
+- **KP**：Christopher Fikes（Owner（2007–；同时任 Evadale ISD 信息技术主任 2018– + 兼职教授）= 一人副业老板（第 94 批 官方登记核实 2026-10-28））cfikes@fikesmedia.com 409.877.4220〔S 邮箱签名〕
 - **调研后定级**：B（原自动 B）——具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B
 - 备注：API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。
 
@@ -172,7 +172,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Christopher Fikes | Owner / Founder（2007-01 起；Crunchbase / Tracxn）= **老板 = 联系人**；本职 Evadale ISD（德州学区）Director of IT（2018-08 起）—— FikesMedia 是他的一人 MikroTik 咨询 / 集成公司，客户 = 学区 + 市政；GitHub 开源作者 → 技术人，别催样，给 API / SNMP / CLI 文档（第 88 批 官方登记核实 2026-10-27） | cfikes@fikesmedia.com / 409.877.4220 | 调研核实（公开页） | S 邮箱签名 |
+| Christopher Fikes | Owner（2007–；同时任 Evadale ISD 信息技术主任 2018– + 兼职教授）= 一人副业老板（第 94 批 官方登记核实 2026-10-28） | cfikes@fikesmedia.com / 409.877.4220 | 调研核实（公开页） | S 邮箱签名 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

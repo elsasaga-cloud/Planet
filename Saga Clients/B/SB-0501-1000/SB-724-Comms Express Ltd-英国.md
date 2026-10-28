@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,6 +87,22 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 94 批（GB · 1 次检索：Companies House 总览 / officers 片段（04359914；7 Grafton Place, Dukes Park Industrial Estate, Chelmsford CM2 6TG；Active；Incorporated 2002-01-24；Justin Ellis Director 2019-03-01 任，1972-03 生；Secretary Michelle Lorraine Wilkin 2019-04-02）+ Pomanda（SIC 46510；最大股东 comms capital holdings ltd 100%；turnover £20.7m；Justin Ellis 同时任 Comms Capital Holdings Ltd 董事 2020-07–）+ Endole（18 管理 / 14 销售）+ RocketReach（22 人；Justin Ellis MD 2020–）+ comms-express.com/about（登记号 / VAT 787 391279）+ 博客 2024-01（22 周年，MD Justin Ellis），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/04359914/officers）：**
+
+- 法定名 / 登记号：COMMS EXPRESS LIMITED（04359914；Chelmsford, Essex） · 04359914 · 状态 **Active** · 成立 2002-01-24 · Private limited Company（2020-07 起 Comms Capital Holdings Ltd 100% 控股 = MBO 结构）
+- 行业码 / 经营范围：46510 Wholesale of computers, peripheral equipment and software（IT / 网络电商平台）
+- 注册地址：7 Grafton Place, Dukes Park Industrial Estate, Chelmsford, Essex, CM2 6TG
+- 规模档：中小型（22–40 人；£20M 级）
+- 账目：Turnover £20.7m（Pomanda）；未取
+- 高管：Justin Ellis — Director / Managing Director（2019-03-01 任；研究档 KP）
+- 高管：Michelle Lorraine Wilkin — Company Secretary（2019-04-02 任）
+- 控制人 / 股东：Comms Capital Holdings Ltd 100%（Justin Ellis 为其董事）
+- **这意味着什么：**
+  - **£20M 电商平台、MD 本人即研究档 KP** → 分销 20% 线：上架品牌（SmartByte）而非贴标；一页纸写 Justin Ellis，开场「平台现有 PoE 交换机品类补一条价格带」
+  - 2019 换手（新董事会）+ 2020 控股公司 = 现管理层持股 → 决策快；但平台靠多品牌比价 → 价格先行
+  - 发信窗口 Thu 12–14 GMT；年度复核账目
+- 备注：accounts_due / PSC 页未抓（Pomanda 已给控股方）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,15 +139,18 @@ updated: 2026-10-27
 - **【用户表】Switch 光纤配件 销售平台**
   > Switch 光纤配件 销售平台；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Justin Ellis（）justin@comms-express.com 〔用户表〕
+- **KP**：Justin Ellis（Director / Managing Director（2019-03-01 任；1972-03 生；Companies House 04359914；兼 Comms Capital Holdings Ltd 董事 = 控股方）= **老板 = 拍板人 = 研究档 KP 本人**（第 94 批 官方登记核实 2026-10-28））justin@comms-express.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 comms-express.com，语言 ?，快照状态 http_error；角色判定来源：用户表 |
+| 法定名称 | COMMS EXPRESS LIMITED（Companies House 04359914；SIC 46510；VAT 787 391279；Comms Capital Holdings Ltd 100% 控股（2020-07 MBO 结构）） |
+| 成立 | 2002-01-24（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 7 Grafton Place, Dukes Park Industrial Estate, Chelmsford, Essex, CM2 6TG |
+| 人数 | 22–40 人；turnover £20.7m（Pomanda） |
+| 其他 | 官网 comms-express.com，语言 ?，快照状态 http_error；角色判定来源：用户表；第 94 批：£20M IT / 网络电商平台、MD 本人即 KP → 分销 20%：上架 SmartByte 品牌（不谈贴标），价格先行；发信 Thu 12–14 GMT（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / 布线产品电商（英国）
 - **触达通道（公开）**：role: 网络产品电商（英国）；region: 英国；contact: info@comms-express.com、justin@comms-express.com
@@ -226,7 +245,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Justin Ellis | — | justin@comms-express.com | 调研核实（公开页） | 用户表 |
+| Justin Ellis | Director / Managing Director（2019-03-01 任；1972-03 生；Companies House 04359914；兼 Comms Capital Holdings Ltd 董事 = 控股方）= **老板 = 拍板人 = 研究档 KP 本人**（第 94 批 官方登记核实 2026-10-28） | justin@comms-express.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -320,12 +339,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

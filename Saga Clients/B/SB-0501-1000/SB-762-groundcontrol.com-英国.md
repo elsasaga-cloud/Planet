@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,22 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 94 批（GB · 1 次检索：Iridium 合作伙伴页（Ground Control Technologies UK Ltd（formerly Wireless Innovation Ltd），Unit D2 Churcham Business Park, Churcham GL2 8AX；美国 Ground Control Systems, 4650 Polaris Ave Las Vegas；原 Rock Seven Mobile Services Ltd, Whiteley PO15 7FN）+ CLS 公告 2025-10-07/08（CLS（CNES 子公司）收购 Ground Control；35 处 / 1,100 人集团）+ groundcontrol.com 公司史（2002；三家合并：美国 Ground Control（2000 Atascadero CA）+ Wireless Innovation + Rock Seven；4,500 客户 / 120 国）+ Endole（Ground Control Technologies Holdings Ltd 10888253，2017-07-28）+ RocketReach（Scotty Thibodeaux = IoT Solution Architect，Scott LA, US），2026-10-28 查；https://www.cls.fr/en/acquisition-ground-control/）：**
+
+- 法定名 / 登记号：Ground Control Technologies UK Ltd（groundcontrol.com；Churcham, Gloucestershire）— 2025-10 起属法国 CLS · Holdings 10888253（Ground Control Technologies Holdings Ltd）；运营公司号未取 · 状态 **Active（2025-10 被 CLS 收购）** · 成立 2017-07-28（Holdings；Wireless Innovation 更早） · Private limited（集团；2025-10 起为 CLS Group 子公司）
+- 行业码 / 经营范围：卫星 IoT 设备 / 追踪器设计制造 + 卫星空中时间服务
+- 注册地址：Unit D2, Churcham Business Park, Churcham, Gloucestershire, GL2 8AX
+- 规模档：中型（集团 ≈100+ 人；母公司 CLS 1,100 人）
+- 账目：—（集团）；—
+- 高管：Scotty Thibodeaux — IoT Solution Architect（美国路易斯安那；研究档 KP = 美方技术，不是采购）
+- 控制人 / 股东：CLS Group（Toulouse，CNES + CNP 控股）
+- 曾用名：Wireless Innovation Ltd；Rock Seven Mobile Services Ltd
+- **这意味着什么：**
+  - **卫星 IoT 设备商，PoE 只是配套（注入器 / 小交换机）→ 不是我们的品类；研究档 KP 是美国技术架构师，不管采购**
+  - 2025-10 被法国 CLS 收购 → 采购进集团 → **不再补查、不再发**（标「同行 / 非品类」B 不动）
+  - 国别：登记 GB，KP 在美国 → 研究档国别保留 GB，不改
+- 备注：第 94 批：定性「非品类 + 集团化」→ 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -135,15 +151,18 @@ updated: 2026-10-27
 - **【用户表】PoE 配件 Elink**
   > PoE配件 Elink的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Scotty Thibodeaux（）scotty.thibodeaux@groundcontrol.com 〔用户表〕
+- **KP**：Scotty Thibodeaux（IoT Solution Architect（美国路易斯安那 Scott；RocketReach）= 美方技术，不管采购（第 94 批 官方登记核实 2026-10-28））scotty.thibodeaux@groundcontrol.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 groundcontrol.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Ground Control Technologies UK Ltd（formerly Wireless Innovation Ltd；控股 Ground Control Technologies Holdings Ltd 10888253；美国 Ground Control Systems, Las Vegas NV）— 2025-10 起为法国 CLS Group（CNES 子公司）全资 |
+| 成立 | 2002（三家合并：美国 Ground Control 2000 + Wireless Innovation + Rock Seven）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit D2, Churcham Business Park, Churcham, Gloucestershire, GL2 8AX |
+| 人数 | 中型（集团 ≈100+；母公司 CLS 1,100 人） |
+| 其他 | 官网 groundcontrol.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 94 批：卫星 IoT 设备商，PoE 只是配套（注入器 / 小交换机）→ 非品类 + 2025-10 集团化 → 不再补查、不再发（B 不动）（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：卫星 IoT / 追踪设备（自有品牌 Ground Control）
 - **触达通道（公开）**：role: 卫星 IoT 设备制造商（英国，PoE 配件为配套）；region: 英国；contact: hello@groundcontrol.com、scotty.thibodeaux@groundcontrol.com
@@ -246,7 +265,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Scotty Thibodeaux | — | scotty.thibodeaux@groundcontrol.com | 调研核实（公开页） | 用户表 |
+| Scotty Thibodeaux | IoT Solution Architect（美国路易斯安那 Scott；RocketReach）= 美方技术，不管采购（第 94 批 官方登记核实 2026-10-28） | scotty.thibodeaux@groundcontrol.com | 调研核实（公开页） | 用户表 |
 | Scotty T | — | hello@groundcontrol.com / scotty.thibodeaux@groundcontrol.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -341,12 +360,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

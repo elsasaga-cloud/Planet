@@ -86,6 +86,23 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 94 批（US · 1 次检索：LinkedIn 公司页（Computer Hardware Manufacturing；201–500 人；Miami FL；Founded 2006；3505 NW 107 Ave）+ ZoomInfo / Datanyze（同址；2006；51–200 / 69 人；$26.4M 第三方估）+ Intcomex 公司史（1988/89 Shalom 父子创立；Delaware 公司；拉美 / 加勒比 IT 分销；40,000+ 客户 / 45 国；2,600 人；曾 2007 申请上市），2026-10-28 查；https://www.linkedin.com/company/nexxt-solutions）：**
+
+- 法定名 / 登记号：Nexxt Solutions（nexxtsolutions.com；Miami FL）— Intcomex 集团自有品牌 · FL / DE 登记号未取（Sunbiz ✗） · 状态 **Active（LinkedIn / 官网在线）** · 成立 2006（品牌；母公司 Intcomex 1988） · Intcomex, Inc.（Delaware）旗下自有品牌 / 事业部（独立法人与否未取）
+- 行业码 / 经营范围：网络 / 连接 / 电源自有品牌（Nexxt：交换机、PoE、路由、配线、UPS），母公司 IT 分销（NAICS 423430）
+- 注册地址：3505 NW 107th Ave, Miami (Doral), FL 33178
+- 规模档：大型集团内品牌（Nexxt 51–500 人；Intcomex ≈2,600 人 / 数亿美元级）
+- 账目：—（私有）；—
+- 高管：Paula Aguilera / Luis Garcia — 研究档 KP（职务未取）
+- 高管：Michael Shalom — Intcomex CEO（集团层，不写）
+- 高管：Anthony (Thony) Shalom — Intcomex Chairman / 创始人
+- 控制人 / 股东：Intcomex, Inc.（Shalom 家族 + 机构股东）
+- **这意味着什么：**
+  - **Intcomex 的自有品牌 = 典型「贴牌商用 PoE」买家**（研究档「一部分贴牌的商业 PoE」）→ **OEM 30%**；但采购在迈阿密产品部、量大且走招标式比价 → B BIG，别指望一封信
+  - 研究档 KP Paula Aguilera / Luis Garcia 继续写，开场点「Nexxt 现有 PoE 交换机系列」+ 一页纸 STC-028GP / STC-2224GP 贴标报价，一个问题：现用 ODM 交期？
+  - 市场是拉美 / 加勒比（不在 Saga 主战场）但买家在美国 → 发信窗口 Wed 08–10 ET；年度复核
+- 备注：FL 实体号未取（Sunbiz ✗）；第三方营收只作区间。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,16 +144,19 @@ updated: 2026-10-28
 - **【用户表】贴牌商用 PoE**
   > 一部分贴牌的商业PoE 其他周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Paula Aguilera（）paguilera@nexxtsolutions.com 〔用户表〕
-- **KP**：Luis Garcia（）lgarcia@nexxtsolutions.com 〔用户表〕
+- **KP**：Paula Aguilera（研究档 KP（职务未取；Nexxt 产品 / 采购部在迈阿密）= 首收件人（第 94 批 官方登记核实 2026-10-28））paguilera@nexxtsolutions.com 〔用户表〕
+- **KP**：Luis Garcia（研究档 KP（职务未取）= 抄送（第 94 批 官方登记核实 2026-10-28））lgarcia@nexxtsolutions.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 nexxtsolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Nexxt Solutions（Intcomex, Inc.（Delaware）旗下自有品牌 / 事业部；FL 实体号未取） |
+| 成立 | 2006（品牌；母公司 Intcomex 1988/89 Shalom 父子创立）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 3505 NW 107th Ave, Miami (Doral), FL 33178 |
+| 人数 | Nexxt 51–500 人；Intcomex 集团 ≈2,600 人（第三方） |
+| 其他 | 官网 nexxtsolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 94 批：Intcomex 自有品牌 = 典型贴牌商用 PoE 买家 → OEM 30%，但集团采购比价、量大 → B BIG；市场在拉美，买家在美国（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络连接 / 基础设施品牌（Nexxt）
 - **触达通道（公开）**：role: 网络品牌商（美国/拉美，贴牌商用 PoE）；region: 美国；contact: paguilera@nexxtsolutions.com、lgarcia@nexxtsolutions.com
@@ -215,8 +235,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Paula Aguilera | — | paguilera@nexxtsolutions.com | 调研核实（公开页） | 用户表 |
-| Luis Garcia | — | lgarcia@nexxtsolutions.com | 调研核实（公开页） | 用户表 |
+| Paula Aguilera | 研究档 KP（职务未取；Nexxt 产品 / 采购部在迈阿密）= 首收件人（第 94 批 官方登记核实 2026-10-28） | paguilera@nexxtsolutions.com | 调研核实（公开页） | 用户表 |
+| Luis Garcia | 研究档 KP（职务未取）= 抄送（第 94 批 官方登记核实 2026-10-28） | lgarcia@nexxtsolutions.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

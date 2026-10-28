@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -79,6 +79,19 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 94 批（PL · 1 次检索「Avizio avizio.pl firma KRS」：无 Avizio 法人页；侧证：lan-cctv.pl 站内搜索「avizio」页脚显示「AICOM · NIP 6782913975 · REGON 356808516 · KRS 0000654397」（lan-cctv.pl = AICOM 的网店）→ Avizio 疑为 AICOM Sp. z o.o.（Kraków；SB-445）自有品牌（推定，未经 Impressum 直证），2026-10-28 查；https://www.lan-cctv.pl/wyszukiwanie,list,0,0?search=avizio）：**
+
+- 法定名 / 登记号：Avizio（avizio.pl）— 1 次未命中（侧证：疑为 SB-445 AICOM 的自有品牌） · （疑）AICOM KRS 0000654397 / NIP 6782913975 · 状态 **未命中（品牌站无法人页）** · 成立 — · —（疑为 AICOM 品牌）
+- 行业码 / 经营范围：（研究档）工业 FS 刷自有标、安防为主
+- 注册地址：（疑）Kraków
+- 规模档：—
+- 账目：—；—
+- **这意味着什么：**
+  - **一次未命中 → 停**；但侧证指向 Avizio = SB-445 AICOM 自有品牌 → **下轮一次直查 avizio.pl Impressum 即可定「并线 SB-445」**
+  - 若并线成立：SB-445 研究档「在用国内的、8 次无回复」+ 自有品牌 = OEM 30% 对象但已冷 → 不加投入
+  - 暂不改研究档归属
+- 备注：第 94 批 1 次未命中 + 侧证推定；下轮 1 次直查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,7 +128,7 @@ updated: 2026-10-27
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 波兰 |
-| 其他 | 官网 avizio.pl，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 avizio.pl，语言 ?，快照状态 ok；角色判定来源：用户表；第 94 批：底数 1 次检索未命中；侧证 lan-cctv.pl（AICOM 网店）页脚「AICOM · KRS 0000654397 · NIP 6782913975」→ Avizio 疑为 SB-445 AICOM（Kraków）自有品牌（推定）→ 下轮一次直查 avizio.pl Impressum 即可定并线（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统（自有标工业 PoE 交换机）
 - **触达通道（公开）**：role: 安防方案商/自有标（波兰，N-net 工业 FS 贴标；官网待核）；region: 波兰；contact: inquiries@avizio.pl
@@ -267,12 +280,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

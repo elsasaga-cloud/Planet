@@ -97,6 +97,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 94 批（US · 1 次检索：OpenCorporates MT C1022717（Domestic LLC；Active Good Standing；Agent Cody Gordon，5707 W Harrier Dr Missoula）+ BBB（Business Started 2016-09-19；LLC；Cody Gordon, Member）+ Justia 商标 MONTAVUE（2017-05-17 申请）+ montavue.com/about（2017 年 Cody Gordon 创立，此前转售他牌）+ LinkedIn（11–50 人；Founded 2015）+ RocketReach（9 人；$5.1M 估），2026-10-28 查；https://opencorporates.com/companies/us_mt/C1022717）：**
+
+- 法定名 / 登记号：Montavue LLC（montavue.com；Missoula MT） · Montana SoS C1022717 · 状态 **Active Good Standing** · 成立 2016-09-19（BBB）/ 品牌 2017 · Domestic Limited Liability Company（Montana）
+- 行业码 / 经营范围：自有品牌安防相机 / NVR 网店 + 经销商计划（Montavue Partners）
+- 注册地址：5707 W Harrier Dr, Missoula, MT 59808
+- 规模档：小型（9–16 人；$5M 级第三方估）
+- 账目：—；—
+- 高管：Cody Gordon — President / Founder / Member（老板）
+- 控制人 / 股东：Cody Gordon（推定）
+- **这意味着什么：**
+  - **自有品牌 + 只有一款自标工业 PoE（研究档）= 正好缺商用 PoE 全系** → **OEM 30% 首选户**：STC-028GP / STC-228GP / STC-2224GP 贴 Montavue 标，一页纸直接写老板 Cody Gordon
+  - 蒙大拿 16 人老板公司 → 回信即拍板；Partners 经销计划说明他们有自己的渠道 = 复购面
+  - 发信窗口 Wed 08–10 MT；年度复核 OpenCorporates 状态
+- 备注：研究档曾记 Lacey WA（错，实为 Missoula MT）→ 以登记为准。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $609 ← 「00 Montavue Nexus 8MP 4K Smart Light Turret PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD $609」（https://montavue.com/）
@@ -136,14 +151,18 @@ updated: 2026-10-28
 - **【用户表】PoE switch 自己的 logo，一款工业级**
   > POE switch 自己的logo 就这一款工业级的 摄像头，安防
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Cody Gordon（President / Founder / Member（Montana SoS C1022717 登记代理人；BBB Member）= 老板 = 拍板人（邮箱未公开 → 官网表单 / sales@ 点名）（第 94 批 官方登记核实 2026-10-28）） 〔https://opencorporates.com/companies/us_mt/C1022717〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 montavue.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Montavue LLC（Montana Domestic LLC；SoS C1022717；Active Good Standing；商标 MONTAVUE 2017-05-17） |
+| 成立 | 2016-09-19（BBB）/ 2017（品牌）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 5707 W Harrier Dr, Missoula, MT 59808 |
+| 人数 | 9–16 人；$5M 级（第三方） |
+| 其他 | 官网 montavue.com，语言 en，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌相机 / NVR + 只有一款自标工业 PoE → OEM 30% 首选：商用 PoE 全系贴 Montavue 标；研究档曾记 Lacey WA 为误，实为 Missoula MT（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防摄像系统（自有品牌，DTC）；配套 PoE 交换机（自有 logo）
 - **触达通道（公开）**：role: 美国安防摄像系统 DTC 品牌（自有 logo PoE，OEM 采购）；region: 美国；contact: admin@montavue.com
@@ -220,7 +239,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | admin@montavue.com | 用户表原值 | Clients/ 表 |
+| Cody Gordon | President / Founder / Member（Montana SoS C1022717 登记代理人；BBB Member）= 老板 = 拍板人（邮箱未公开 → 官网表单 / sales@ 点名）（第 94 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://opencorporates.com/companies/us_mt/C1022717 |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -255,7 +274,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；已推送 13 次无回复，邮件通道疲劳
+- **W**：已推送 13 次无回复，邮件通道疲劳
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -272,7 +291,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

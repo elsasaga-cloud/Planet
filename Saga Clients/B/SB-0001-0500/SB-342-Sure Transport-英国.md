@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +91,24 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 94 批（GB · Companies House 总览（web_search 片段）+ officers 页 fetch_page 2026-10-28：Sure House, 2 Moorbridge Court, Moorbridge Road East, Bingham NG13 8GG；Active；Incorporated 2003-08-11；SIC 32990；曾用名 BATTANCO LIMITED（2003-08-11 → 2003-11-11）；officers 17 / 15 resignations；现任董事 Louis Max Fitzsimmons（2025-06-29 任）、Edwyn Owen Thomas（2025-06-29 任）、Stephanie Lorraine Kirton（Finance Director，2023-11-23 任）；2017–2024 董事 Bailey / Baxendale / Crowch / Howell 已全部辞任；Endole：29 人、总资产 £2.11M、负债 £1.33M、Small；sure24.co.uk：SURE Group 1992 起，隐蔽侦察 / 警用安防设计制造分销，2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/04863038/officers）：**
+
+- 法定名 / 登记号：SURE24 LIMITED（04863038；Bingham, Nottinghamshire） · 04863038 · 状态 **Active** · 成立 2003-08-11 · Private limited Company
+- 行业码 / 经营范围：32990 Other manufacturing n.e.c.（隐蔽 CCTV / 警用追踪设备设计制造 + 分销）
+- 注册地址：Sure House, 2 Moorbridge Court, Moorbridge Road East, Bingham, Nottinghamshire, NG13 8GG
+- 规模档：小型（29 人）
+- 账目：Small（Endole：总资产 £2.11M；现金 £136K；负债 £1.33M）；未取（总览页未抓）
+- 高管：Louis Max Fitzsimmons — Director（2025-06-29 任）
+- 高管：Edwyn Owen Thomas — Director（2025-06-29 任；ACSP 身份核验 2025-11）
+- 高管：Stephanie Lorraine Kirton — Director / Finance Director（2023-11-23 任）
+- 控制人 / 股东：未取（PSC 页未抓）
+- 曾用名：BATTANCO LIMITED（→ 2003-11-11）
+- **这意味着什么：**
+  - **2023–2025 董事会整体换血（旧董事全辞、2025-06 新进两位）= 换手 / 重组期 = 进门时机**；研究档无 KP → 写 sales@ 并点名新董事（不写私人邮箱）
+  - 主业警用 / 隐蔽监控 = 政府采购、偏「守界」边缘（非军品，可做）→ 只推商用 PoE + 工业小口数，不谈项目
+  - 负债 > 现金、Small 账目 → 先款后货（T/T 50/50）；年度复核
+- 备注：PSC / accounts_due 未抓（省 fetch）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,16 +154,18 @@ updated: 2026-10-27
 - **【用户表】需求 5/8 口、偶尔 PoE；看了 E-mark 证书；18 次跟进 0 回复**
   > 需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Stephanie Lorraine Kirton（Director / Finance Director（2023-11-23 任；Companies House 04863038）= 现任董事中任期最长者；另两位董事 Louis Max Fitzsimmons / Edwyn Owen Thomas 2025-06-29 新任 = 换手期（邮箱未公开 → sales@ 点名）（第 94 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/04863038/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SURE24 Ltd（姐妹 SURE Transport / SURE Solutions） |
-| 成立 | 1992（SURE24）/ 1990（SURE Solutions 口径） |
-| 总部/地址 | Bingham, Nottinghamshire, UK（+44 1949 836990；sales@sure24.co.uk） |
-| 其他 | Go-Ahead 5,000 辆巴士合同；SUREMDVR 自有品牌（E-mark）；产线前装 + 后装；车队追踪云 |
+| 法定名称 | SURE24 LIMITED（Companies House 04863038；曾名 BATTANCO LIMITED → 2003-11-11；SIC 32990） |
+| 成立 | 2003-08-11（SURE Group 1992 起）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Sure House, 2 Moorbridge Court, Moorbridge Road East, Bingham, Nottinghamshire, NG13 8GG |
+| 人数 | 29 人；总资产 £2.11M / 负债 £1.33M（Endole；Small） |
+| 其他 | Go-Ahead 5,000 辆巴士合同；SUREMDVR 自有品牌（E-mark）；产线前装 + 后装；车队追踪云；第 94 批：隐蔽 / 警用 CCTV 设计制造分销；2023–2025 董事会整体换血 = 进门时机；只推商用 PoE + 工业小口数，先款后货（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：巴士/长途车/货车/警用车载 CCTV 与 MDVR（自有品牌 SUREMDVR）；车队追踪与 CCTV 健康云；安装与维护网络（全国汽车电工）
 
@@ -252,6 +272,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Stephanie Lorraine Kirton | Director / Finance Director（2023-11-23 任；Companies House 04863038）= 现任董事中任期最长者；另两位董事 Louis Max Fitzsimmons / Edwyn Owen Thomas 2025-06-29 新任 = 换手期（邮箱未公开 → sales@ 点名）（第 94 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/04863038/officers |
 | Callum Wilson | — | sales@sure24.co.uk / callum@sure24.co.uk | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -346,12 +367,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

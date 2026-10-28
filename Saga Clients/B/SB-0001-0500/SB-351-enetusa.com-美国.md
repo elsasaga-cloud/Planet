@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,6 +88,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 94 批（US · 1 次检索：LinkedIn（ENET Solutions, Inc.；2003；11–50 人；Irvine CA）+ contactout / RocketReach（75 Argonaut Suite B, Aliso Viejo CA 92656；27 人；$10.8M 估）+ svconline / ewweb / nsiindustries.com 2023-12-12（NSI Industries（Huntersville NC）收购 ENET Solutions；2003 年 Chris Brock 创立；30+ 人；10,000+ 兼容收发器 / AOC / DAC / 内存 / MC / NIC / 线缆），2026-10-28 查；https://www.ewweb.com/news/mergers-acquisitions/article/21279116/nsi-buys-enet-solutions-to-bolster-vdv-position）：**
+
+- 法定名 / 登记号：ENET Solutions, Inc.（enetusa.com；Aliso Viejo CA）— 2023-12 起属 NSI Industries · CA 登记号未取（CA SoS JS） · 状态 **Active（NSI 旗下品牌）** · 成立 2003 · Inc.（加州；2023-12 起为 NSI Industries 子公司 / 品牌）
+- 行业码 / 经营范围：OEM 兼容光收发器 / DAC / AOC / 内存 / MC / 线缆 自有品牌 ENET（美国本土编程测试）
+- 注册地址：75 Argonaut, Suite B, Aliso Viejo, CA 92656
+- 规模档：小型（27–30+ 人；$10M 级）；母公司 NSI 为 PE 控股的电气产品集团
+- 账目：—；—
+- 高管：Chris Brock — 创始人（收购后职务未取）
+- 高管：Jason Barrette — President（growjo 记）
+- 控制人 / 股东：NSI Industries, LLC（Huntersville NC）100%
+- 曾用名：ENET Components, Inc.（旧名 / 关联）
+- **这意味着什么：**
+  - **主品类 SFP / DAC / 内存（Saga 不供）**；研究档「MC 自己的 logo」→ 只剩 **MC 贴标一条线（OEM 30%）**，且 2023-12 被 NSI 收购后采购并入集团 → 概率低
+  - 不投入：一页纸 MC 报价即可，不写第 2 封；若回信再谈
+  - 同名注意：ENET 与 eNet Components 为同一家的前后名
+- 备注：CA 登记号未取；不再追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,8 +147,8 @@ updated: 2026-10-27
 - **【用户表】MC cabling 自己的 logo**
   > MC cabling 自己的logo；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Gordon Judson（）sales@enetusa.com 〔用户表〕
-- **KP**：Jason Barrette（）jason@enetusa.com 〔用户表〕
+- **KP**：Gordon Judson（销售公域（研究档）（第 94 批 官方登记核实 2026-10-28））sales@enetusa.com 〔用户表〕
+- **KP**：Jason Barrette（President（growjo；原 ENET Components VP Sales）= 拍板层（2023-12 后归 NSI 集团）（第 94 批 官方登记核实 2026-10-28））jason@enetusa.com 〔用户表〕
 - **KP**：Aaron S（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -139,8 +156,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 enetusa.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | ENET Solutions, Inc.（加州；2023-12-12 起为 NSI Industries, LLC（Huntersville NC）子公司 / 品牌；曾名 ENET Components, Inc.） |
+| 成立 | 2003（Chris Brock 创立）（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 75 Argonaut, Suite B, Aliso Viejo, CA 92656 |
+| 人数 | 27–30+ 人；$10M 级 |
+| 其他 | 官网 enetusa.com，语言 en，快照状态 ok；角色判定来源：用户表；第 94 批：主品类 SFP / DAC / 内存（Saga 不供）；研究档「MC 自己的 logo」→ 只剩 MC 贴标一条线 OEM 30%，且已并入 NSI 集团采购 → 低概率，一页纸即止（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：OEM 兼容光模块 / DAC / AOC / 线缆（自有品牌 ENET）
 - **触达通道（公开）**：role: 光模块/线缆品牌商（美国，MC 为副线）；region: 美国；contact: sales@enetusa.com、jason@enetusa.com
@@ -236,8 +256,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gordon Judson | — | sales@enetusa.com | 调研核实（公开页） | 用户表 |
-| Jason Barrette | — | jason@enetusa.com | 调研核实（公开页） | 用户表 |
+| Gordon Judson | 销售公域（研究档）（第 94 批 官方登记核实 2026-10-28） | sales@enetusa.com | 调研核实（公开页） | 用户表 |
+| Jason Barrette | President（growjo；原 ENET Components VP Sales）= 拍板层（2023-12 后归 NSI 集团）（第 94 批 官方登记核实 2026-10-28） | jason@enetusa.com | 调研核实（公开页） | 用户表 |
 | Aaron S | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -332,12 +352,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

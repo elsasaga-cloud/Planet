@@ -93,22 +93,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
-**公司底数 · 第 93 批（GB · securitytec.co.uk/about-us 页脚（Company Number 05585047）+ Companies House officers 页（05585047）；同名陷阱 SECURITYTEC LTD 10186386（Manchester，2017-02 注销），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/05585047/officers）：**
+**公司底数 · 第 94 批（GB · Companies House 总览页 fetch_page 2026-10-28：Registered office 132 Riddlesdown Road, Purley, Surrey, CR8 1DE；Active；Private limited；Incorporated 2005-10-06；Last accounts to 2025-10-31；Next accounts to 2026-10-31 due 2027-07-31；Confirmation statement last 2026-10-05（next due 2027-10-19）；SIC 46520；Previous name FIRST SECURITY TEC LIMITED（2005-10-06 → 2017-03-02），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/05585047）：**
 
-- 法定名 / 登记号：SECURITYTEC LIMITED（securitytec.co.uk；Coulsdon, Surrey） · 05585047 · 状态 **Active** · 成立 2005-10-06 · Private limited company
-- 行业码 / 经营范围：80200 安防系统服务（Hikvision 授权批发 HIK00006690；CCTV / 门禁 / 对讲 / 报警 + 自有标 PoE 交换机网店）
-- 注册地址：Units 2 & 3 Redlands Centre, Redlands, Ullswater Industrial Estate, Coulsdon CR5 2HT（020 8660 5888）
-- 规模档：微型（0–9 人，Kompass）
-- 账目：有 charges 页（抵押 / 贷款记录存在，未展开）；未取
-- 高管：Graham David Smith — Director（1959-09 生，2005-10-06 起）= 研究档 KP graham@securitytec.co.uk = 老板
-- 高管：Katie Ann Smith — Secretary（2005-12-01 起；家族）
-- 控制人 / 股东：未取（officers 页未含 PSC；两 Smith 大概率 100%）
-- 抵押 / 诉讼 / 担保：存在（页面有 Charges 标签）
+- 法定名 / 登记号：SECURITYTEC LIMITED（05585047；Purley, Surrey）— 总览页补项 · 05585047 · 状态 **Active（账目 2025-10 + 确认声明 2026-10 均按时）** · 成立 2005-10-06 · Private limited Company
+- 行业码 / 经营范围：46520 Wholesale of electronic and telecommunications equipment and parts
+- 注册地址：132 Riddlesdown Road, Purley, Surrey, CR8 1DE（住宅地址）
+- 规模档：微型（住宅地址、单董事）
+- 账目：Last accounts to 2025-10-31（微型）；2027-07-31（to 2026-10-31）
+- 高管：Graham David Smith — Director（第 93 批）
+- 控制人 / 股东：Graham David Smith（第 93 批记）
+- 曾用名：FIRST SECURITY TEC LIMITED（→ 2017-03-02）
 - **这意味着什么：**
-  - **夫妻店 20 年、老板 Graham Smith 本人 = 研究档 KP**；自有标 PoE 交换机已在网店（NTP3-GSW0802S）→ **OEM 30%：8/16 口 PoE 贴 Securitytec 标**替换现款
-  - Hikvision 授权批发 → 相机线不碰；只谈交换机
-  - GB 复盘：accounts_due 下轮补（overview 页）
-- 备注：第 93 批 GB 首户；PSC / accounts 下轮一次补齐。
+  - **合规在册、按时申报 20 年** → 老实的一人批发商；OEM 30% 判断（第 93 批）不变
+  - 住宅地址 = 无库房 → 小批量 / 代发为主，报价写 MOQ 1 + 4–7 工作日
+  - 年度复核：2027-07 看账目是否按时
+- 备注：第 94 批补项：总览页已取，PSC 页不再单独取。
 
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 

@@ -81,6 +81,20 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 94 批（US · 1 次检索：BBB（Silarius LLC；155 Water St Brooklyn NY 11201；Founding 2019-03-25）+ buzzfile（Silarius LLC；2019；5 人；$0.86M 估）+ silarius.com（「NJ 团队自 2008 年起服务」；1033 US Highway 46 Ste 204, Clifton NJ 07013；230,000+ 产品；自有品牌 Silarius 相机 / NVR「NDAA Section 889 compliant」）+ LinkedIn（2–10 人；Founded 2008）+ Google Play 开发者（ben@silarius.com），2026-10-28 查；https://www.bbb.org/us/ny/brooklyn/profile/information-technology-services/silarius-llc-0121-87158748）：**
+
+- 法定名 / 登记号：Silarius LLC（silarius.com；Brooklyn NY / Clifton NJ） · NY LLC 登记号未取（NY DOS 为 JS 页） · 状态 **Active（官网 / App 在线）** · 成立 2019-03-25（LLC；业务自称 2008） · LLC（New York）
+- 行业码 / 经营范围：IT / AV / 安防设备网店（23 万 SKU 代销）+ 自有品牌 Silarius 相机 / NVR + 云监控服务
+- 注册地址：1033 US Highway 46, Suite 204, Clifton, NJ 07013（登记地 Brooklyn NY）
+- 规模档：微型（2–10 人）
+- 账目：—；—
+- 高管：Ben（ben@silarius.com）— 开发者账户联系人（职务未取；疑为老板）
+- **这意味着什么：**
+  - **自有品牌打「NDAA 合规」旗号** → 我方不能也不要配合这个话术（禁词）；研究档「工业 FS 自己的 logo」→ 只做 **商用 PoE 贴标一条线（OEM 30%）**，不提合规
+  - 23 万 SKU 代销网店 = 比价平台，自有品牌才是入口；写 ben@silarius.com（公域出现）
+  - 微型 → B 维持；不投第 2 封
+- 备注：NY 登记号未取；不再追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,14 +128,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS 自有 logo**
   > 工业FS 自己的logo 摄像头 其他一些周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ben（姓未取）（Google Play 开发者账户联系人 ben@silarius.com（职务未取；疑为老板）= 收件人（第 94 批 官方登记核实 2026-10-28））ben@silarius.com 〔https://play.google.com/store/apps/details?id=com.silarius.app〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 silarius.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Silarius LLC（New York LLC；登记号未取；BBB 成立 2019-03-25） |
+| 成立 | 2019-03-25（LLC）；业务自称 2008（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1033 US Highway 46, Suite 204, Clifton, NJ 07013（登记地 155 Water St, Brooklyn, NY 11201） |
+| 人数 | 2–10 人 |
+| 其他 | 官网 silarius.com，语言 en，快照状态 ok；角色判定来源：用户表；第 94 批：23 万 SKU 代销网店 + 自有品牌 Silarius 打「NDAA 合规」旗号（我方禁词，不配合）→ 只做商用 PoE 贴标一条线 OEM 30%；微型（第 94 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / IT / AV 电商（B2B）；自有品牌（摄像机 / NVR / 交换机，NDAA 合规）
 - **触达通道（公开）**：role: 电商超市 + 自有品牌（OEM 采购）；region: 美国；contact: info@silarius.com
@@ -196,7 +214,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@silarius.com | 用户表原值 | Clients/ 表 |
+| Ben（姓未取） | Google Play 开发者账户联系人 ben@silarius.com（职务未取；疑为老板）= 收件人（第 94 批 官方登记核实 2026-10-28） | ben@silarius.com | 调研核实（公开页） | https://play.google.com/store/apps/details?id=com.silarius.app |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -232,7 +250,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；已推送 13 次无回复，邮件通道疲劳
+- **W**：已推送 13 次无回复，邮件通道疲劳
 - **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -249,7 +267,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认 |
