@@ -81,6 +81,22 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 97 批（US · 1 次检索：general-data.com/about（总部 4354 Ferguson Drive, Cincinnati OH 45245；三处园区：标签制造 / 软件 / 服务维修）+ LinkedIn（1981；201–500 人；私有；标签制造 + 条码数据采集 + 系统集成（现场勘测 / 网络安装）+ 打印机服务）+ Label & Narrow Web 2020（1981 Pete Wenzel 车库创业；1993 三方合并至 Clermont County）+ Tracxn（法人 GENERAL DATA COMPANY INC.，2024-12-31 275 人）+ D&B（营收 $36.8M 模型值）+ RocketReach / ZoomInfo（$104M 第三方估，取范围）+ explorium（Paul Sanborn = Vice President Operations），2026-10-28 查；https://www.general-data.com/about）：**
+
+- 法定名 / 登记号：General Data Company, Inc.（general-data.com / datageneral.co；Cincinnati, OH）— 标签 / 条码 / 网络集成商，自有 DG 标交换机，201–500 人 · Ohio 公司（SoS 号未取） · 状态 **Active** · 成立 1981（Tracxn 记法人 1999-12-31） · Inc.（私有；创始人 / 合伙人）
+- 行业码 / 经营范围：322220 标签制造 + 423430 条码 / 数据采集设备分销集成 + 网络安装（自有品牌 DG 交换机 DG-S1930K 系列 = 贴牌）
+- 注册地址：4354 Ferguson Drive, Cincinnati, OH 45245
+- 规模档：中型（231–275 人；$37–104M 第三方区间）
+- 账目：—；—
+- 高管：Paul Sanborn — Vice President Operations（= 研究档 KP psanborn@ 本人 = 运营 / 采购口）
+- 高管：Kathy Muczynski — CIO（ZoomInfo）
+- 高管：Pete Wenzel — 创始人（1981）
+- 控制人 / 股东：创始人 / 合伙人（未取）
+- **这意味着什么：**
+  - **研究档 KP = 运营副总裁本人**，且已有自有 DG 标 PoE 交换机（DG-S1930K-8GP2S-120W 等 = 华南贴牌）→ **OEM 30% 首选，B BIG**：商用 PoE 全系贴 DG 标（STC-028GP / STC-228GP / STC-2224GP），价格直接给到位
+  - 一个问题：DG 标交换机现供应商交期 / 年量？发信窗口 Wed 08–10 ET
+- 备注：OEM 首选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,15 +129,18 @@ updated: 2026-10-28
 - **【用户表】常规 switch 较多**
   > 常规Switch较多
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Paul Sanborn（）psanborn@general-data.com 〔用户表〕
+- **KP**：Paul Sanborn（Vice President Operations（explorium）= **运营 / 采购口 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28））psanborn@general-data.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 datageneral.co，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | General Data Company, Inc.（俄亥俄；SoS 号未取；Tracxn 记法人 1999-12-31） |
+| 成立 | 1981（Pete Wenzel）（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 4354 Ferguson Drive, Cincinnati, OH 45245 |
+| 人数 | 231–275 人；$37–104M（第三方区间） |
+| 其他 | 官网 datageneral.co，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 97 批：标签 / 条码 / 网络集成商，已有自有 DG 标 PoE 交换机（DG-S1930K 系列 = 华南贴牌）→ OEM 30% 首选、B BIG，写 VP Operations 价格直接给到位（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业无线 / 交换机 / 云管理（自有品牌 DG）
 
@@ -197,7 +216,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Paul Sanborn | — | psanborn@general-data.com | 调研核实（公开页） | 用户表 |
+| Paul Sanborn | Vice President Operations（explorium）= **运营 / 采购口 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28） | psanborn@general-data.com | 调研核实（公开页） | 用户表 |
 | Paul S | — | psanborn@general-data.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

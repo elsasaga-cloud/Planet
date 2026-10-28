@@ -88968,7 +88968,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Artur Łykowski",
+"role": "Członek Zarządu / 股东（KRS 0000854041；1976 生）= 收件人（arpeo@arpeo.pl 点名）；另一董事 Radosław Herman，股东 Paweł Mierzwa（第 97 批 官方登记核实 2026-10-28）",
+"email": "arpeo@arpeo.pl",
+"phone": "",
+"source": "https://www.imsig.pl/krs/0000854041"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -88977,8 +88985,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 arpeo.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案"
+"hq": "ul. prof. dr. Mieczysława Michałowicza 12, 43-300 Bielsko-Biała",
+"other": "官网 arpeo.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案；第 97 批：电工配件微型网店（站内工业交换机页）→ 工业非管理 STI 小口数一条线，分销 20% 一页纸即止（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "Arpeo Sp. z o.o.（KRS 0000854041；NIP 5472220160；REGON 386724612；资本 5,000 zł）",
+"founded": "2020-08-07（第 97 批 官方登记核实 2026-10-28）",
+"staff": "微型"
 },
 "business_lines": [
 "电缆穿墙 / 线缆导向 / 电工附件（波兰）",
@@ -97527,7 +97538,7 @@
 "kp": [
 {
 "name": "Deepak Gupta",
-"role": "Director / Founder（Companies House 公开）",
+"role": "Director / PSC 75%+（Companies House 09757591；1992-06 生）= **老板 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）",
 "email": "dgupta@ralakde.co.uk（用户表）",
 "phone": "+44 7887 913748（用户表，WhatsApp 已加）",
 "source": "https://open.endole.co.uk/insight/company/09757591-ralakde-ltd"
@@ -97541,11 +97552,12 @@
 "level": "B 级加厚 v1（公司注册 + 官网核对）"
 },
 "company_facts": {
-"legal_name": "Ralakde Ltd（Companies House 09757591）；Ralakde Automation Ltd（11435782）",
-"founded": "2015-09-02",
-"hq": "Unit 5a Victoria Road, Stoke-on-Trent ST4 2HS（注册）；Unit 56 Winpenny Road, Newcastle-under-Lyme ST5 7RH（+44 1782 563377；sales@ralakde.com）",
+"legal_name": "RALAKDE LTD（Companies House 09757591；关联 Ralakde Automation Ltd 11435782 / Ralakde Holdings Limited 16830812（2025-11-04 新设））",
+"founded": "2015-09-02（第 97 批 官方登记核实 2026-10-28）",
+"hq": "Unit 5a Victoria Road, Stoke-On-Trent ST4 2HS",
 "size": "小型（多国小网点）",
-"other": "工业自动化备件贸易 + 维修；网点 US/DE/CZ/IN"
+"other": "工业自动化备件贸易 + 维修；网点 US/DE/CZ/IN；第 97 批：工业自动化备件贸易 + 维修（SIC 33120 / 33140 / 33200 / 47421），2025-11 新设控股 = 重组中 → 分销 20% 一页纸即止（工业 STI 系列），不加厚（第 97 批 官方登记核实 2026-10-28）",
+"staff": "微型（1 名股东）"
 },
 "business_lines": [
 "工业自动化备件（PLC/变频/驱动/HMI/电源）贸易",
@@ -102312,7 +102324,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Christy Fagan",
+"role": "Manager, Operations（ZoomInfo / CT Northwest 团队页）= 收件人（info@kargor.com 点名）（第 97 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://www.ct-northwest.com/about/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -102321,8 +102341,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 kargor.com，语言 en，快照状态 ok；角色判定来源：待核"
+"hq": "3540 Brooks Avenue NE, Building 2, Salem, OR 97301",
+"other": "官网 kargor.com，语言 en，快照状态 ok；角色判定来源：待核；第 97 批：kargor.com 重定向之谜 = 改以 CT Northwest 做交通 ITS；交通机柜要 NEMA TS2 → Saga 证书不对口 → 一页纸即止、不加厚（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "Kar-Gor, Inc.（俄勒冈；现以 CT Northwest 品牌经营；OR 登记号未取）",
+"founded": "1986-02-14（第 97 批 官方登记核实 2026-10-28）",
+"staff": "11–50 人；<$5M"
 },
 "business_lines": [
 "（待核）"
@@ -146793,14 +146816,16 @@
 "title": "（职务待核）",
 "email": "nathan@wire.tech",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Managing Director / 创始人 / Director（Companies House 11576417；1981-04 生；前 RAF / 皇家海军陆战队）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）"
 },
 {
-"name": "James",
+"name": "James Edward Brooks",
 "title": "（姓氏/职务待核）",
 "email": "james@wire.tech",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director（2021-12-21 起；1993-04 生）= 研究档 KP「James」本人 = 抄送（第 97 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -146811,8 +146836,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "英国",
-"other": "官网 wire.tech，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "Unit 5 Cirencester Business Estate, Esland Place, Love Lane, Cirencester GL7 1YG",
+"other": "官网 wire.tech，语言 en，快照状态 ok；角色判定来源：用户表；第 97 批：数据中心互连自有品牌（光模块 / DAC / 线缆，Saga 不供）+ Nuvias 独家渠道 → 只做 MC / 光口小交换机贴 Wire 标 OEM 30% 一条线；2026-01 控股变更（刚被收编）→ 不加厚（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "WIRE TECHNOLOGIES LIMITED（Companies House 11576417；PSC 2026-01-26 起 Granity Point Group Ltd）",
+"founded": "2018-09-19（第 97 批 官方登记核实 2026-10-28）",
+"staff": "6–11 人；营业额 <£1M（微型）"
 },
 "business_lines": [
 "光模块 / DAC / 光纤线缆（自有品牌）",
@@ -152965,7 +152993,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Askar Sheibani",
+"role": "Geschäftsführer / 集团 CEO（1989 Deeside 创立 Comtek）—— 非品类（翻新 / 二手）：不发（第 97 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://www.northdata.com/COMTEK+NETWORK+SYSTEMS+GmbH,+M%C3%B6rfelden-Walldorf/Amtsgericht+Darmstadt+HRB+100142"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -152974,10 +153010,12 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Comtek Network Systems GmbH（Comtek Netzwerksysteme GmbH）",
-"hq": "Nordendstraße 2, 64546 Mörfelden-Walldorf, Deutschland（+49 6105 303 9607；info@comtek-de.com）",
+"legal_name": "COMTEK NETWORK SYSTEMS GmbH（Amtsgericht Darmstadt HRB 100142，原 Offenbach HRB 40700；母公司 Comtek Network Systems (UK) Ltd 05929974）",
+"hq": "Nordendstraße 2, 64546 Mörfelden-Walldorf",
 "size": "1–10（ContactOut，德国站）",
-"other": "业务：电信与网络系统采购、维修、翻新；库存为翻新 Cisco 交换机、IP 话机、二手网络硬件；母公司 Comtek Network Systems Ltd（Deeside, Wales, 1989）"
+"other": "业务：电信与网络系统采购、维修、翻新；库存为翻新 Cisco 交换机、IP 话机、二手网络硬件；母公司 Comtek Network Systems Ltd（Deeside, Wales, 1989）；第 97 批：网络设备翻新 / 维修 / 二手商 = 不买新品白牌 → 非品类，B 不动、不发（第 97 批 官方登记核实 2026-10-28）",
+"founded": "2003-11-11（第 97 批 官方登记核实 2026-10-28）",
+"staff": "小型（德国分部）"
 },
 "business_lines": [
 "翻新 Cisco 交换机/IP 话机销售",
@@ -159138,14 +159176,14 @@
 "kp": [
 {
 "name": "Marco Bohne",
-"role": "Geschäftsführer（官网联系页公开）",
+"role": "Geschäftsführer（HRB 19446 Stendal；由 ppa. 升任）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）",
 "email": "bohne@saf-slk.de",
 "phone": "+49 34741 9886-0",
 "source": "https://saf-slk.de/kontakt/"
 },
 {
 "name": "Anika Duschka",
-"role": "Vertretungsberechtigte ppa.（官网联系页公开）",
+"role": "ppa.（Impressum 授权代表）= 研究档 KP = 抄送（第 97 批 官方登记核实 2026-10-28）",
 "email": "duschka@saf-slk.de",
 "phone": "+49 34741 9886-0",
 "source": "https://saf-slk.de/kontakt/"
@@ -159166,11 +159204,13 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Schaltanlagenbau Förderstedt GmbH",
+"legal_name": "Schaltanlagenbau Förderstedt GmbH（Amtsgericht Stendal HRB 19446；资本 €25,000）",
 "registry": "HRB 19446（Amtsgericht Stendal）· USt-ID DE 289 406 638",
-"hq": "Ascherslebener Straße 18d, 06467 Seeland OT Hoym, Deutschland（+49 34741 9886-0；info@saf-slk.de）",
+"hq": "Ascherslebener Straße 18d, 06467 Seeland OT Hoym（旧址 Güsten）",
 "size": "24 人（wer-zu-wem）；营收 ≤€10M",
-"other": "培训企业（电子/工业电工学徒）；柜体设计与制造 + 现场安装与电缆敷设"
+"other": "培训企业（电子/工业电工学徒）；柜体设计与制造 + 现场安装与电缆敷设；第 97 批：低压开关柜 / 控制柜制造商，柜内 DIN 导轨工业交换机外采配套 → 工业 PoE 小口数一条线，集成商 25%，直接写 GF（第 97 批 官方登记核实 2026-10-28）",
+"founded": "2013-04-17（登记 2013-06-03）（第 97 批 官方登记核实 2026-10-28）",
+"staff": "10–24 人；≤€10M"
 },
 "business_lines": [
 "低压/中压开关柜与配电柜定制制造",
@@ -186514,7 +186554,7 @@
 "kp": [
 {
 "name": "Jeremy Lester",
-"role": "CEO（行业媒体公开）",
+"role": "Managing Director / Director（Companies House 01613368；2003-11-07 起；1977-03 生；创始人 Alan Lester 之子）= **拍板人**（sales@ 公域）（第 97 批 官方登记核实 2026-10-28）",
 "email": "sales@switchtec.com（公司公开）",
 "phone": "+44 1785 818600",
 "source": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years"
@@ -186525,6 +186565,13 @@
 "email": "—（未公开）",
 "phone": "+44 1785 818600",
 "source": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches"
+},
+{
+"name": "Nick Neil Morgan",
+"role": "Sales Director / Director（2024-06-14 起；1979-03 生）= 抄送（邮箱未公开 → sales@ 点名）（第 97 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://find-and-update.company-information.service.gov.uk/company/01613368/officers"
 }
 ],
 "grade_override": null,
@@ -186535,11 +186582,12 @@
 "level": "B 级加厚 v1（官网 + Companies House 核对）"
 },
 "company_facts": {
-"legal_name": "Switchtec Limited（Companies House 01613368，1982-02-12）",
-"founded": "1982",
-"hq": "Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH, UK（+44 1785 818600；sales@switchtec.com）",
+"legal_name": "SWITCHTEC LIMITED（Companies House 01613368；关联 Switchtec Components Ltd 02612994 / Switchtec Electronics Ltd 05541783）",
+"founded": "1982-02-12（第 97 批 官方登记核实 2026-10-28）",
+"hq": "Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH",
 "size": "11–50（LinkedIn）；7,000+ 现货品类",
-"other": "CEO Jeremy Lester（创办人 Alan Lester 之子）；2024/25 新任南区销售经理 Mark Stevens；Kyland 英国渠道"
+"other": "CEO Jeremy Lester（创办人 Alan Lester 之子）；2024/25 新任南区销售经理 Mark Stevens；Kyland 英国渠道；第 97 批：Lester 家族工业元器件目录商（7,000+ SKU，无 MOQ），2026-05 申请扩建 = 扩品类窗口 → 工业 DIN 导轨 PoE 一条线，分销 20%；研究档 Mark Stevens（Southern Area Sales Manager）非董事、官方记录自然无 → 仅作抄送（第 97 批 官方登记核实 2026-10-28）",
+"staff": "11–50 人"
 },
 "business_lines": [
 "工业电气/电子元器件分销（继电器、定时器、接触器、电源、传感器）",
@@ -190799,7 +190847,8 @@
 "title": "CEO",
 "email": "info@bulutlarbilisim.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "CEO（研究档）—— 法人一次未坐实、官网失效 → 先不发；若试只发 STH 一页纸，无回即 C（第 97 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -190810,8 +190859,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 bulutlarbilisim.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+"hq": "土耳其（城市未取）",
+"other": "官网 bulutlarbilisim.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 97 批：检索结果均为 Bulutistan / Bulut Bilişim 他司 → 未坐实；询盘为 100G/25G 核心（CENTEC 线）；表内「质量可能一般」不逆（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "Bulutlar Bilişim（未坐实；1 次检索无同名命中）",
+"founded": "未取（第 97 批 官方登记核实 2026-10-28）",
+"staff": "微型（推定）"
 },
 "business_lines": [
 "IT 方案（土耳其）"
@@ -193152,7 +193204,15 @@
 "date": "2026-10-20"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Yusuf Ölçer",
+"role": "联系人 / 疑似业主（haber15 企业名录；satis@gelecekbt.com）= 收件人（第 97 批 官方登记核实 2026-10-28）",
+"email": "satis@gelecekbt.com",
+"phone": "",
+"source": "https://www.haber15.com.tr/firmalar/gelecekbt-bilgi-teknolojileri.html"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -193161,11 +193221,12 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-054，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "GelecekBT Bilgi Teknolojileri",
-"founded": "",
-"hq": "Istanbul（Şişli，Perpa Ticaret Merkezi）, 土耳其",
+"legal_name": "GelecekBT Bilgi Teknolojileri（法律形式 / MERSİS 未取；Perpa 店铺型）",
+"founded": "2004-10-13（第 97 批 官方登记核实 2026-10-28）",
+"hq": "Perpa Ticaret Merkezi A Blok Kat:13 No:1990, Okmeydanı, 34384 Şişli / İstanbul",
 "size": "",
-"other": "Planet 渠道档案 PB-054（2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json）；自有品牌：疑似（待首触核实）：独家分销的 CLR Networks 为其工业 PoE 类目主力（品牌计数 CLR Networks 44 / Planet 3 / 3Onedata 3），有独立品牌站 clrnetworks.com（英文、无公司信息），型号命名（CLR-IES-G82P / G824P / 4361P / M12S-5008P）为中国 ODM 通用命名 → 大概率为其自控贴牌线；最大未知：CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效；**第 92 批核实：gelecekbt.com 与 Telkolink（SB-100）同一老板 Yusuf Ölçer（LinkedIn「Gelecekbt.com General Manager」+ telkolink.com 联系页）→ 本户并线到 SB-100，不单独发信**；外部库 XB-C0688 同样并线（第 92 批 官方登记核实 2026-10-28）"
+"other": "Planet 渠道档案 PB-054（2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json）；自有品牌：疑似（待首触核实）：独家分销的 CLR Networks 为其工业 PoE 类目主力（品牌计数 CLR Networks 44 / Planet 3 / 3Onedata 3），有独立品牌站 clrnetworks.com（英文、无公司信息），型号命名（CLR-IES-G82P / G824P / 4361P / M12S-5008P）为中国 ODM 通用命名 → 大概率为其自控贴牌线；最大未知：CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效；**第 92 批核实：gelecekbt.com 与 Telkolink（SB-100）同一老板 Yusuf Ölçer（LinkedIn「Gelecekbt.com General Manager」+ telkolink.com 联系页）→ 本户并线到 SB-100，不单独发信**；外部库 XB-C0688 同样并线（第 92 批 官方登记核实 2026-10-28）；第 97 批：自有品牌 Telkolink（「Telkolink, GelecekBT’ye aittir」）+ CLR Networks 独家 + 分销 3Onedata / TG-NET 华南货 → 贴标 OEM 30% 一句试探 + 分销 20% 为底，价格敏感（第 97 批 官方登记核实 2026-10-28）",
+"staff": "2–10 人"
 },
 "business_lines": [
 "分销商/经销（2004 年起；以太网交换机、PoE 与工业交换机、SFP、光纤/视频转换器、CCTV、工业串口通信、结构化布线；CLR Networks 土耳其独家分销 + ONET / Telkolink / Netkablo 分销；2–10 人）"
@@ -194209,7 +194270,8 @@
 "title": "Sales",
 "email": "sales@lanmus.com",
 "phone": "+1 281 995 9001",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "公域 —— **同行（深圳代工贴牌品牌壳，渠道在 UAE / 非洲）：不发**（第 97 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -194220,11 +194282,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Lanmus Networks（待核）",
-"founded": "",
-"hq": "Houston, TX, USA",
+"legal_name": "Lanmus Networks（美国实体未坐实；TX 地址为共享办公；OUI 登记名 Lanmus Networks Ltd 2024-10-14）",
+"founded": "≈2024（第 97 批 官方登记核实 2026-10-28）",
+"hq": "6725 S Fry Rd, Ste 700 #108, Katy, TX 77494（虚拟地址）",
 "size": "小型品牌商（贴牌）",
-"other": "商用 FS 疑由中国同行代工"
+"other": "商用 FS 疑由中国同行代工；第 97 批：自称「independently developed by LANMUS」、由 SPOLLEX 分销至 UAE / GCC / 非洲 = 同货源贴牌同行 → 不发价格表、B 不动（第 97 批 官方登记核实 2026-10-28）",
+"staff": "微型"
 },
 "business_lines": [
 "交换机品牌（贴牌采购）"
@@ -257240,9 +257303,12 @@
 "level": "无域名 · 仅表内信息（已成交）"
 },
 "company_facts": {
-"legal_name": "Metal Union（表内；未能核实法人）",
-"hq": "波兰（+48 34 区号）",
-"size": "微型/小型"
+"legal_name": "„METAL UNION” Sp. z o.o.（KRS 0000138529；NIP 5731021083；REGON 150090573；资本 1,000,500 zł）",
+"hq": "ul. Żyzna 11F, 42-200 Częstochowa",
+"size": "微型/小型",
+"founded": "1995-04-26（KRS 2002-11-15）（第 97 批 官方登记核实 2026-10-28）",
+"staff": "中型制造业（人数未取）；净利 91 tys zł（bizraport）",
+"other": "第 97 批：谜底 = 冷弯钢型材厂的 IT 部门买了 €50 光模块 + MC → 终端用户非渠道 → B 保留不加厚；若发只写一页纸「厂区监控 / 车间网络」（第 97 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "金属加工（据名称推断）",
@@ -257561,10 +257627,17 @@
 "kp": [
 {
 "name": "Furkan Kalkan",
-"role": "Technical Manager（用户表）",
+"role": "研究档 KP（用户表；职务未取）= 收件人，抄 optima@ 点名「satın alma / proje」（第 97 批 官方登记核实 2026-10-28）",
 "email": "furkan@optima.tc（用户表）",
 "phone": "+90 507 463 0566（用户表）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "İ. Tamer Ülgen",
+"role": "创始人 / CEO（机械工程师；2000-12 Ostim 创业）= 拍板人（仅记档）（第 97 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://www.optima-engineering.com/en/corporate/about-optima"
 }
 ],
 "grade_override": null,
@@ -257575,10 +257648,12 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Optima Mühendislik（Optima Engineering）",
-"hq": "Başkent Organize Sanayi Bölgesi 19. Cadde No:62, Malıköy 06909 Sincan / Ankara（+90 312 815 15 00）；İstanbul Perpa A Blok K:8 No:701",
+"legal_name": "Optima Mühendislik A.Ş.（原 Ltd. Şti.；MERSİS 未取）",
+"hq": "Başkent Organize Sanayi Bölgesi 19. Cadde No:62, Malıköy, 06909 Sincan / Ankara",
 "size": "制造商（人数待核）；沙特设厂",
-"other": "产品：路障、升降柱、滑动门、道闸、破胎器、闸机、LPR 车牌识别、停车道闸"
+"other": "产品：路障、升降柱、滑动门、道闸、破胎器、闸机、LPR 车牌识别、停车道闸；第 97 批：路障 / 升降柱 / 闸机 / 车牌识别制造商、出口中东 → PoE 交换机为系统配套（外采）→ 工业小口数 + 商用 PoE 贴 Optima 标 = OEM 30% 小（第 97 批 官方登记核实 2026-10-28）",
+"founded": "2000-12-05（第 97 批 官方登记核实 2026-10-28）",
+"staff": "100 人（EMIS 2026）"
 },
 "business_lines": [
 "车辆出入口安防设备制造（路障、升降柱、道闸、闸机）",
@@ -314979,7 +315054,8 @@
 "title": "（表内邮箱，姓名职务待核）",
 "email": "ssahin@fotech.com.tr",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（全名 / 职务未取）= 收件人，抄 info@（第 97 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -314990,8 +315066,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 fotech.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"hq": "Ataşehir Bulvarı 38. Ada Ata 3/3 Plaza Kat:5 No:51-52, 34758 Ataşehir / İstanbul",
+"other": "官网 fotech.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 97 批：欧美高端品牌独家分销 + 集成（Fluke Networks / Black Box / EXFO）→ 对华南货兴趣低 → 集成商 25% 一页纸即止、不加厚（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "Fotech Fiber Optik Teknolojik Hizmetler San. ve Tic. Ltd. Şti.（EMIS；MERSİS 未取）",
+"founded": "1989-06-23（Final Elektrik → 1994 Fotech）（第 97 批 官方登记核实 2026-10-28）",
+"staff": "29 人（EMIS 2026）"
 },
 "business_lines": [
 "IT 产品分销（光纤测试 / 数据中心 / 网络 / AV）"
@@ -341729,7 +341808,15 @@
 "title": "",
 "email": "info@pctedarik.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "公域 = 收件人，点名 İslam Çalık（第 97 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "İslam Çalık",
+"role": "Key Principal（D&B）= 负责人；n11 店铺登记人 Ali Çalık（şahıs MERSİS 2250094824）（第 97 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://www.dnb.com/business-directory/company-profiles.pc_tedarik_ithalat_ihracat_yazilim_ticaret_limited_sirketi.6bf2c05e296f4bae217c29a0a17f5285.html"
 }
 ],
 "grade_override": null,
@@ -341740,11 +341827,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "PC Tedarik（待核）",
-"founded": "",
-"hq": "Türkiye",
+"legal_name": "PC Tedarik İthalat İhracat Yazılım Ticaret Ltd. Şti.（MERSİS 未取；关联 şahıs 登记 Ali Çalık）",
+"founded": "未取（第 97 批 官方登记核实 2026-10-28）",
+"hq": "Çınardere Mah. Ankara Cad. No:43A, 34892 Pendik / İstanbul",
 "size": "中小型 IT 批发网店",
-"other": "OEM 词频 25（自有标？）"
+"other": "OEM 词频 25（自有标？）；第 97 批：硬盘 / 安防 / 电脑批发网店 + 注册商标 UNİMAX → 贴标 OEM 30% 一句试探 + 分销 20% 为底，价格直接给到位（第 97 批 官方登记核实 2026-10-28）",
+"staff": "1–50 人"
 },
 "business_lines": [
 "IT / 安防产品批发网店"
@@ -343973,7 +344061,8 @@
 "title": "Managing Director",
 "email": "juergen.rauscher@spectra.de",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Geschäftsführer / 股东（Komplementärin Spectra Verwaltungs-GmbH HRB 738432；Inhaber Lang / Rauscher / Rottmayr）= **三位老板之一 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -343984,8 +344073,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 spectra.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
+"hq": "Mahdenstr. 3, 72768 Reutlingen（分部 Winterthur / Linz）",
+"other": "官网 spectra.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案；第 97 批：工业 PC 制造商 + ORing 工业交换机分销，2025 连并 Compmall / ICP Deutschland（扩品类期）→ 工业 PoE 自有标 Spectra = OEM 30% 目标 / 分销 20% 为底，B BIG（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "Spectra GmbH & Co. KG（Amtsgericht Stuttgart HRA 726688；Komplementärin HRB 738432；资本 €500,000）",
+"founded": "1982（创立）/ 2011-08-16（KG 登记）（第 97 批 官方登记核实 2026-10-28）",
+"staff": "90–100 人；€10–50M"
 },
 "business_lines": [
 "工业 PC（面板 / Box / 机架）制造",
@@ -354345,18 +354437,20 @@
 ],
 "kp": [
 {
-"name": "Alex M",
+"name": "Alex Moskos",
 "title": "President",
 "email": "alexm@maplesystems.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "President（theorg；前 VP Operations）= **拍板人 = 研究档 KP「Alex M」大概率本人**（第 97 批 官方登记核实 2026-10-28）"
 },
 {
-"name": "Diane C",
+"name": "Diane Callahan",
 "title": "Director of Sales and GTM Operations",
 "email": "dianec@maplesystems.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director of Sales & GTM Operations（theorg / ZoomInfo）= 研究档 KP「Diane C」本人 = 抄送（第 97 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -354367,8 +354461,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 maplesystems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "808 134th St SW, Suite 120, Everett, WA 98204",
+"other": "官网 maplesystems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 97 批：HMI / PLC 制造商、官网已设工业网络交换机品类（外采转售）→ 工业 PoE 贴 Maple 标 = OEM 30% 首选（STI-054GP / STI-144GP / STI-288DGGPM）；CEO Larry St Peter / Governor Daunne O’Farrell 仅记档（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "Maple Systems, Inc.（Washington UBI 600490742；WA Profit Corporation；2014 起员工持股）",
+"founded": "1983-05-25（第 97 批 官方登记核实 2026-10-28）",
+"staff": "44–60 人；$7–10M（第三方）"
 },
 "business_lines": [
 "HMI / PLC / 工业面板 PC（自有品牌）",
@@ -364983,9 +365080,9 @@
 "name": "commandonetworks.com",
 "name_src": "domain",
 "names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
+"country": "印度",
+"iso": "IN",
+"region": "南亚",
 "other_countries": [],
 "domains": [
 "commandonetworks.com"
@@ -365219,7 +365316,8 @@
 "title": "",
 "email": "info@commandonetworks.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "公域 —— **同行（印度品牌商，自设深圳 / 香港 / 迪拜办公室直接采购贴牌）：不发**（第 97 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -365230,11 +365328,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "COMMANDO Networks（待核）",
-"founded": "",
-"hq": "USA（北京 / 深圳办事处）",
+"legal_name": "COMMANDO Networks Private Limited（印度 CIN U74999MH2015PTC261514；美国 COMMANDO Networks Inc. 仅注册代理地址 1007 N Orange St, Wilmington DE）",
+"founded": "2015-12-30（第 97 批 官方登记核实 2026-10-28）",
+"hq": "Office 212-213, Building No. 2(A-3), Millennium Business Park, MIDC, Mahape, Navi Mumbai 400710, India",
 "size": "中小型品牌商",
-"other": "中国办事处直采"
+"other": "中国办事处直采；第 97 批：国别更正美国 → 印度；董事 Vazir Ahmed Akhtar Siddiqui + Umair Ahmed Siddiqui；自有品牌 170+ 国商标、深圳华强北办公室 → 同行不动（第 97 批 官方登记核实 2026-10-28）",
+"staff": "51–100 人"
 },
 "business_lines": [
 "网络硬件（自有品牌全线）"
@@ -365314,8 +365413,10 @@
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "印度"
+},
+"country_table": "美国"
 },
 {
 "name": "comtrol.co.uk",
@@ -382760,7 +382861,8 @@
 "title": "Project Manager",
 "email": "m.sobecki@bcs.pl",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Project Manager（@bcs.pl = 品牌所有人 BCS Sp. z o.o. 本尊，非 sklep-bcs.pl 经销店）= 产品口 = 收件人（第 97 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Michał Skalecki",
@@ -382768,6 +382870,13 @@
 "email": "m.skalecki@bcs.pl",
 "phone": "",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Artur Stępowski",
+"role": "Prezes Zarządu（rejestr.io KRS 0000092488）= 拍板人（点名）（第 97 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://rejestr.io/krs/92488/bcs"
 }
 ],
 "grade_override": null,
@@ -382778,11 +382887,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "BCS（NSS Sp. z o.o.，待核）",
-"founded": "",
-"hq": "Poland",
+"legal_name": "BCS Sp. z o.o.（原 NSS Sp. z o.o.，2024-10-14 更名；KRS 0000092488；NIP 5213124674；REGON 017161046；LEI 259400J1GBGK8VAOD039）",
+"founded": "2002-02-21（业务 1998；BCS 品牌 2008）（第 97 批 官方登记核实 2026-10-28）",
+"hq": "ul. Modularna 11, 02-238 Warszawa",
 "size": "中型安防品牌 + 分销",
-"other": "BCS 为波兰自有安防品牌（Dahua 代工）；E-link PoE 在售"
+"other": "BCS 为波兰自有安防品牌（Dahua 代工）；E-link PoE 在售；第 97 批：BCS 自有标 PoE 交换机（站内 106 处）= 华南贴牌 → OEM 30% 首选（PL）、B BIG；升 A 候选（回信即 A）（第 97 批 官方登记核实 2026-10-28）",
+"staff": "中型（波兰 CCTV 知名品牌；人数未取）"
 },
 "business_lines": [
 "BCS 品牌 CCTV 分销",
@@ -386708,7 +386818,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Jan Gerdes",
+"role": "Produktmanager（Single Pair Ethernet / logic.hub / PC-Karten；wut.de 联系人 PDF 公开 j.gerdes@wut.de）= 收件人（准同行，一页纸即止）（第 97 批 官方登记核实 2026-10-28）",
+"email": "j.gerdes@wut.de",
+"phone": "",
+"source": "https://www.wut.de/e-wwwww-co-inde-000.pdf?p=1"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -386717,8 +386835,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 wut.de，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "Porschestr. 12, 42279 Wuppertal",
+"other": "官网 wut.de，语言 en，快照状态 ok；角色判定来源：官网文案；第 97 批：Web-IO / Com-Server 自研自产「made in Wuppertal」= 准同行，目录交换机为补位转售 → 只给产品经理一页纸、不加厚、不投第 2 封；GF Tobias Theis（2024-01 二代接班）仅记档（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "Wiesemann & Theis GmbH（Amtsgericht Wuppertal HRB 6377；资本 €250,001）",
+"founded": "1979（Reinhard Wiesemann + Rüdiger Theis）（第 97 批 官方登记核实 2026-10-28）",
+"staff": "50–53 人；€10–50M"
 },
 "business_lines": [
 "工业接口（串口转以太网 / USB / 光纤）",
@@ -389851,7 +389972,8 @@
 "title": "Vice President, Operations（表内 Paul S）",
 "email": "psanborn@general-data.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Vice President Operations（explorium）= **运营 / 采购口 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -389862,8 +389984,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 datageneral.co，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "4354 Ferguson Drive, Cincinnati, OH 45245",
+"other": "官网 datageneral.co，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 97 批：标签 / 条码 / 网络集成商，已有自有 DG 标 PoE 交换机（DG-S1930K 系列 = 华南贴牌）→ OEM 30% 首选、B BIG，写 VP Operations 价格直接给到位（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "General Data Company, Inc.（俄亥俄；SoS 号未取；Tracxn 记法人 1999-12-31）",
+"founded": "1981（Pete Wenzel）（第 97 批 官方登记核实 2026-10-28）",
+"staff": "231–275 人；$37–104M（第三方区间）"
 },
 "business_lines": [
 "企业无线 / 交换机 / 云管理（自有品牌 DG）"
@@ -406407,7 +406532,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Kenneth G (Ken) Rivera",
+"role": "President / CEO（BBB / SAM / AZ UTRACS 联系人）= 老板 = 收件人（邮箱未公开 → 官网表单 / info@）（第 97 批 官方登记核实 2026-10-28）",
+"email": "",
+"phone": "",
+"source": "https://www.bbb.org/us/ca/chino/profile/low-voltage-contractors/jm-fiber-optics-inc-1126-89069206"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -406416,11 +406549,12 @@
 "level": "B 级加厚 v1（官网 + 名录核对）"
 },
 "company_facts": {
-"legal_name": "JM Fiber Optics, Inc.",
-"founded": "1992（Bloomberg 登记 1993-02-16）",
-"hq": "13941 Ramona Ave, Suite A, Chino, CA 91710, USA（+1 909-628-3445；info@jmfiberoptics.com）",
+"legal_name": "JM Fiber Optics, Inc.（加州 Corporation；MBE / SBA 8(a)；SAM 在册）",
+"founded": "1992（业务）/ 1993-02-16（公司）（第 97 批 官方登记核实 2026-10-28）",
+"hq": "13941 Ramona Ave, Suite A, Chino, CA 91710",
 "size": "11–50（LinkedIn）/ 8（Bloomberg）；营收 $3.02M（D&B 模型）",
-"other": "GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训"
+"other": "GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训；第 97 批：微型政府 / 交通类光纤集成商 → 只谈商业项目一条线，小项目集成商 25%，一页纸写老板；会问 TAA（禁词，不配合）（第 97 批 官方登记核实 2026-10-28）",
+"staff": "4–9 人；$1–3M"
 },
 "business_lines": [
 "光纤网络设计、施工、熔接、测试与机架安装",
@@ -418910,14 +419044,16 @@
 "title": "General Manager",
 "email": "mithat.yucel@technopc.com.tr",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Yönetim Kurulu Başkanı / 分管产品管理（官网组织架构页；1998 Yücel Elektronik 联合创始人）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Murat Yücel",
 "title": "Managing Partner",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "创始合伙人 / 销售市场执行合伙人（Coşkun Murat Yücel；D&B Key Principal）= 抄送（第 97 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -418928,8 +419064,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 technopc.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案"
+"hq": "Ataşehir / İstanbul（详细地址未取）",
+"other": "官网 technopc.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案；第 97 批：本土 PC / 工业 PC / NVR 品牌，表内「工业 PoE 买的 Ewind 的」= 已在深圳买工业 PoE 贴标 → OEM 30% 首选，对标 Ewind 报价；升 A 候选（回信即 A）（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "Technopc Teknoloji San. ve Tic. A.Ş.（ETBİS 登记 A.Ş.；MERSİS 未取）",
+"founded": "1998（Yücel Elektronik）/ 2006（Technopc 品牌）（第 97 批 官方登记核实 2026-10-28）",
+"staff": "51–200 人"
 },
 "business_lines": [
 "安防 NVR / IPC / 网络产品（自有品牌 Technopc）"
@@ -438878,7 +439017,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Mikołaj Tomaszewski",
+"role": "业主（CEIDG；sklep@dmtrade.pl）= 收件人（第 97 批 官方登记核实 2026-10-28）",
+"email": "sklep@dmtrade.pl",
+"phone": "",
+"source": "https://www.dmtrade.pl/pl/contact.html"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -438887,8 +439034,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 dmtrade.pl，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "ul. Wiśniowa 36, 64-000 Kościan",
+"other": "官网 dmtrade.pl，语言 en，快照状态 ok；角色判定来源：官网文案；第 97 批：Cudy 波兰官方分销 + 卖 Spacetronik（SB-092）→ 分销 20% 对标 Cudy 价格直接给到位；若 Spacetronik 成线则作其下游、不单独加厚（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "DMTrade Mikołaj Tomaszewski（CEIDG；NIP 6981681757；REGON 300138031）",
+"founded": "2005（第 97 批 官方登记核实 2026-10-28）",
+"staff": "小型（网店 + B2B 批发）"
 },
 "business_lines": [
 "TV-SAT / CCTV / 智能家居 / 办公电子网店"
@@ -452980,7 +453130,8 @@
 "title": "Director",
 "email": "imcneil@cctv-global.co.uk",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Co-founder / Director / PSC（Companies House 08411023；1972-04 生）= **老板之一 = 研究档 KP 本人**；另一董事 / PSC Gonçalo Filipe Dos Santos Silva（1983-10 生）（第 97 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -452991,8 +453142,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "英国",
-"other": "官网 cctv-global.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "Alpha 319, Building K, Chobham Business Centre, Chertsey Road, Chobham, Woking, Surrey GU24 8JB",
+"other": "官网 cctv-global.co.uk，语言 en，快照状态 ok；角色判定来源：用户表；第 97 批：Hikvision / HiLook / Ajax 授权分销，现卖 Ruijie 交换机 → 分销 20%：商用 PoE 对标 Ruijie 价格直接给到位，一页纸写联合创始人（第 97 批 官方登记核实 2026-10-28）",
+"legal_name": "CCTV GLOBAL LONDON LTD（Companies House 08411023）",
+"founded": "2013-02-20（第 97 批 官方登记核实 2026-10-28）",
+"staff": "小型"
 },
 "business_lines": [
 "CCTV / 门禁 / 报警分销（Hikvision、HiLook、Ajax、EZVIZ）"

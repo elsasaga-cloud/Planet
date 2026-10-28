@@ -90,6 +90,25 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 97 批（US · 1 次检索：opengovwa（MAPLE SYSTEMS, INC.；WA UBI 600490742；Wa Profit Corporation；1983-05-25 注册；Active；808 134th St SW Ste 120, Everett WA 98204；Governors Daunne O’Farrell / Larry St Peter）+ BBB（1983-05-01 开业；President Larry St Peter；EVP Sarah Davis）+ theorg（President Alex Moskos；Director of Sales & GTM Diane Callahan；Director of Engineering Mena Youssef）+ ZoomInfo（CEO Larry St.Peter；VP Manufacturing Andre Zins）+ maplesystems.com/faq（1983 创始人经营 → **2014 起员工持股**）+ RocketReach（60 人；$7.4M）+ LinkedIn（11–50 人；Inc. 5000 六次），2026-10-28 查；https://opengovwa.com/corporation/600490742）：**
+
+- 法定名 / 登记号：Maple Systems, Inc.（maplesystems.com；Everett, WA）— 1983 年起的 HMI / PLC 制造商，2014 起员工持股 · Washington UBI 600490742 · 状态 **Active** · 成立 1983-05-25 · WA Profit Corporation（员工持股 ESOP，2014 起）
+- 行业码 / 经营范围：334513 HMI / HMI+PLC / 工业面板 PC / IIoT 网关设计制造 + 工业网络交换机品类转售（面向 OEM / SI / 分销）
+- 注册地址：808 134th St SW, Suite 120, Everett, WA 98204
+- 规模档：小型（44–60 人；$7–10M 第三方估）
+- 账目：—；—
+- 高管：Alex Moskos — President（theorg）= **研究档 KP「Alex M」alexm@ 大概率本人**
+- 高管：Diane Callahan — Director of Sales & GTM Operations = **研究档 KP「Diane C」dianec@ 本人**
+- 高管：Larry St Peter — CEO / Governor（创始人一代）
+- 高管：Daunne O’Farrell — VP Finance / Governor
+- 高管：Andre Zins — VP Manufacturing
+- 控制人 / 股东：员工持股（ESOP）
+- **这意味着什么：**
+  - **研究档两位 KP = 总裁 + 销售总监本人**；官网已设「Industrial Network Switches」品类（外采转售）→ **工业 PoE 贴 Maple 标 = OEM 30% 正解**（STI-054GP / STI-144GP / STI-288DGGPM 配其 HMI 套装），分销 20% 为底
+  - 员工持股公司决策偏稳 → 一页纸写 Alex Moskos、抄 Diane Callahan，一个问题：现有工业交换机品类的来源 / 年量？
+  - 发信窗口 Wed 08–10 PT
+- 备注：OEM 首选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,16 +141,19 @@ updated: 2026-10-28
 - **【用户表】电口工业 FS**
   > 电口 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Alex M（）alexm@maplesystems.com 〔用户表〕
-- **KP**：Diane C（）dianec@maplesystems.com 〔用户表〕
+- **KP**：Alex Moskos（President（theorg；前 VP Operations）= **拍板人 = 研究档 KP「Alex M」大概率本人**（第 97 批 官方登记核实 2026-10-28））alexm@maplesystems.com 〔用户表〕
+- **KP**：Diane Callahan（Director of Sales & GTM Operations（theorg / ZoomInfo）= 研究档 KP「Diane C」本人 = 抄送（第 97 批 官方登记核实 2026-10-28））dianec@maplesystems.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 maplesystems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Maple Systems, Inc.（Washington UBI 600490742；WA Profit Corporation；2014 起员工持股） |
+| 成立 | 1983-05-25（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 808 134th St SW, Suite 120, Everett, WA 98204 |
+| 人数 | 44–60 人；$7–10M（第三方） |
+| 其他 | 官网 maplesystems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 97 批：HMI / PLC 制造商、官网已设工业网络交换机品类（外采转售）→ 工业 PoE 贴 Maple 标 = OEM 30% 首选（STI-054GP / STI-144GP / STI-288DGGPM）；CEO Larry St Peter / Governor Daunne O’Farrell 仅记档（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：HMI / PLC / 工业面板 PC（自有品牌）；工业网络交换机（配套品类）；SCADA 软件
 - **触达通道（公开）**：role: 工业自动化品牌商（HMI/PLC 自有品牌，交换机为配套 OEM 采购）；region: 美国；contact: alexm@maplesystems.com、dianec@maplesystems.com
@@ -208,8 +230,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Alex M | — | alexm@maplesystems.com | 调研核实（公开页） | 用户表 |
-| Diane C | — | dianec@maplesystems.com | 调研核实（公开页） | 用户表 |
+| Alex Moskos | President（theorg；前 VP Operations）= **拍板人 = 研究档 KP「Alex M」大概率本人**（第 97 批 官方登记核实 2026-10-28） | alexm@maplesystems.com | 调研核实（公开页） | 用户表 |
+| Diane Callahan | Director of Sales & GTM Operations（theorg / ZoomInfo）= 研究档 KP「Diane C」本人 = 抄送（第 97 批 官方登记核实 2026-10-28） | dianec@maplesystems.com | 调研核实（公开页） | 用户表 |
+| Alex M | — | alexm@maplesystems.com / dianec@maplesystems.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 

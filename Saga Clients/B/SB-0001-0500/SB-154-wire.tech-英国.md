@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -81,6 +81,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 97 批（GB · 1 次检索：Companies House 11576417（WIRE TECHNOLOGIES LIMITED；2018-09-19 注册；Unit 5 Cirencester Business Estate, Esland Place, Love Lane, Cirencester GL7 1YG；Active；2 officers）+ officers（Nathan Brian Barrowclough，1981-04 生，Director 2018-09-19 起；James Edward Brooks，1993-04 生，Director 2021-12-21 起）+ filing history（**2026-01-26 PSC 由 Barrowclough 变更为 Granity Point Group Ltd**）+ Endole（微型：营业额 <£1M、<10 人；2025-09 递交账目）+ Tracxn（2024-09-30 6 人）+ LinkedIn（11–50 人；「UK based manufacturer of data transmission products」；MD Nathan Barrowclough，前 RAF / 皇家海军陆战队）+ Nuvias 2022（英国独家分销）+ BASEC 客户页，2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/11576417）：**
+
+- 法定名 / 登记号：WIRE TECHNOLOGIES LIMITED（wire.tech；Cirencester）— 数据中心互连产品自有品牌（光模块 / DAC / 线缆），2026-01 并入 Granity Point Group · Companies House 11576417（PSC Granity Point Group Ltd，2026-01-26 起） · 状态 **Active** · 成立 2018-09-19 · Private limited company（控股 Granity Point Group）
+- 行业码 / 经营范围：47910 网络互连产品自有品牌（光模块 / DAC / AOC / MPO / CAT 线 / MC / PDU）设计制造 + 渠道分销（Nuvias）
+- 注册地址：Unit 5 Cirencester Business Estate, Esland Place, Love Lane, Cirencester, Gloucestershire GL7 1YG
+- 规模档：微型（6–11 人）
+- 账目：微型（营业额 <£1M）；—
+- 高管：Nathan Brian Barrowclough — Managing Director / 创始人（= 研究档 KP nathan@ 本人）
+- 高管：James Edward Brooks — Director（= 研究档 KP「James」james@ 本人）
+- 控制人 / 股东：Granity Point Group Ltd（2026-01-26 起；此前 Barrowclough）
+- **这意味着什么：**
+  - **两位研究档 KP = 两位董事本人**；自有品牌 + 走 Nuvias 渠道 → **MC / 光口小交换机贴 Wire 标 = OEM 30% 一条线（STC-110XGE / 光口型号），不碰其光模块 / DAC 主业（Saga 不供）**
+  - 2026-01 控股变更 = 刚被收编 / 重组 → 一页纸写 Nathan、抄 James，不加厚；发信窗口 Thu 12–14 GMT
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,16 +138,19 @@ updated: 2026-10-27
 - **【用户表】MC 多外壳 12 机架 自己的 logo SFP**
   > MC 有光路的外壳 12机架 好几种外壳 自己的logo SFP
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Nathan Barrowclough（）nathan@wire.tech 〔用户表〕
-- **KP**：James（）james@wire.tech 〔用户表〕
+- **KP**：Nathan Barrowclough（Managing Director / 创始人 / Director（Companies House 11576417；1981-04 生；前 RAF / 皇家海军陆战队）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28））nathan@wire.tech 〔用户表〕
+- **KP**：James Edward Brooks（Director（2021-12-21 起；1993-04 生）= 研究档 KP「James」本人 = 抄送（第 97 批 官方登记核实 2026-10-28））james@wire.tech 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 wire.tech，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | WIRE TECHNOLOGIES LIMITED（Companies House 11576417；PSC 2026-01-26 起 Granity Point Group Ltd） |
+| 成立 | 2018-09-19（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 5 Cirencester Business Estate, Esland Place, Love Lane, Cirencester GL7 1YG |
+| 人数 | 6–11 人；营业额 <£1M（微型） |
+| 其他 | 官网 wire.tech，语言 en，快照状态 ok；角色判定来源：用户表；第 97 批：数据中心互连自有品牌（光模块 / DAC / 线缆，Saga 不供）+ Nuvias 独家渠道 → 只做 MC / 光口小交换机贴 Wire 标 OEM 30% 一条线；2026-01 控股变更（刚被收编）→ 不加厚（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光模块 / DAC / 光纤线缆（自有品牌）；MC / PDU / 扩展坞
 - **触达通道（公开）**：role: 网络配件品牌商（英国，自有标 MC/光模块）；region: 英国；contact: nathan@wire.tech、james@wire.tech
@@ -239,8 +256,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nathan Barrowclough | — | nathan@wire.tech | 调研核实（公开页） | 用户表 |
-| James | — | james@wire.tech | 调研核实（公开页） | 用户表 |
+| Nathan Barrowclough | Managing Director / 创始人 / Director（Companies House 11576417；1981-04 生；前 RAF / 皇家海军陆战队）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28） | nathan@wire.tech | 调研核实（公开页） | 用户表 |
+| James Edward Brooks | Director（2021-12-21 起；1993-04 生）= 研究档 KP「James」本人 = 抄送（第 97 批 官方登记核实 2026-10-28） | james@wire.tech | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -334,12 +351,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

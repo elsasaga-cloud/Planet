@@ -87,6 +87,19 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 97 批（PL · 1 次检索：dmtrade.pl/pl/contact（DMTrade Mikołaj Tomaszewski；NIP 6981681757；REGON 300138031；Wiśniowa 36, 64-000 Kościan；sklep@dmtrade.pl；BDO 000006055）+ targeo / krs-online（CEIDG 个体；PKD 47.91.Z；2005 起）+ dmtrade.pl 文章（「DMTrade jako oficjalny dystrybutor na Polskę produktów firmy Cudy」）+ b2b.dmtrade.pl（批发端：TV-SAT / DVB-T / 报警 / CCTV / LAN）+ aplikuj（jednostka fizyczna），2026-10-28 查；https://www.dmtrade.pl/pl/contact.html）：**
+
+- 法定名 / 登记号：DMTrade Mikołaj Tomaszewski（dmtrade.pl；Kościan）— 电子 / CCTV / 智能家居网店 + 批发，Cudy 波兰官方分销（个体工商户） · CEIDG（NIP 6981681757；REGON 300138031） · 状态 **Aktywna** · 成立 2005 · Jednoosobowa działalność gospodarcza（Mikołaj Tomaszewski）
+- 行业码 / 经营范围：47.91.Z 电子 / RTV / CCTV / 智能家居网店 + B2B 批发（Cudy 官方分销；Spacetronik 等）
+- 注册地址：ul. Wiśniowa 36, 64-000 Kościan
+- 规模档：小型（网店 + 批发）
+- 账目：—；—
+- 高管：Mikołaj Tomaszewski — 业主（CEIDG）
+- 控制人 / 股东：Mikołaj Tomaszewski
+- **这意味着什么：**
+  - 表内「宇航的工业 FS，买的 Cudy 的牌子」= 已经在买深圳品牌 → **分销 20%：商用 PoE + 工业小口数对标 Cudy 价格直接给到位**，一页纸写业主
+  - 与 SB-092 Spacetronik（A 候选）有供货关系（站内卖 Spacetronik 电动桌）→ 若 Spacetronik 成线，DMTrade 可作其下游、不单独加厚；发信窗口 Thu 12–14 CET
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,14 +133,18 @@ updated: 2026-10-28
 - **【用户表】宇航工业 FS、Cudy**
   > 宇航的工业FS 买的Cudy的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mikołaj Tomaszewski（业主（CEIDG；sklep@dmtrade.pl）= 收件人（第 97 批 官方登记核实 2026-10-28））sklep@dmtrade.pl 〔https://www.dmtrade.pl/pl/contact.html〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 dmtrade.pl，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | DMTrade Mikołaj Tomaszewski（CEIDG；NIP 6981681757；REGON 300138031） |
+| 成立 | 2005（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Wiśniowa 36, 64-000 Kościan |
+| 人数 | 小型（网店 + B2B 批发） |
+| 其他 | 官网 dmtrade.pl，语言 en，快照状态 ok；角色判定来源：官网文案；第 97 批：Cudy 波兰官方分销 + 卖 Spacetronik（SB-092）→ 分销 20% 对标 Cudy 价格直接给到位；若 Spacetronik 成线则作其下游、不单独加厚（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：TV-SAT / CCTV / 智能家居 / 办公电子网店
 - **触达通道（公开）**：role: 电子产品电商（波兰，多品类）；region: 波兰；contact: sklep@dmtrade.pl
@@ -201,7 +218,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sklep@dmtrade.pl | 用户表原值 | Clients/ 表 |
+| Mikołaj Tomaszewski | 业主（CEIDG；sklep@dmtrade.pl）= 收件人（第 97 批 官方登记核实 2026-10-28） | sklep@dmtrade.pl | 调研核实（公开页） | https://www.dmtrade.pl/pl/contact.html |
 
 - **通道建议**：企业邮箱可直发
 
@@ -268,7 +285,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Mikołaj,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. Next to the Cudy networking range on DMTrade, we can supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and a DIN-rail 8-port industrial model from small lots, CE/RoHS — would a PoE switch SKU under your CCTV category be worth a listing test?
 

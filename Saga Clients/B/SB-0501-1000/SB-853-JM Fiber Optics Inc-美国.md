@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +91,19 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 97 批（US · 1 次检索：BBB（JM Fiber Optics, Inc.；Corporation；本地开业 1999-12-14；管理人 Kenneth G Rivera, President；BBB 档案 2014-06-03）+ Bloomberg（foundingDate 1993-02-16；13941 Ramona Ave Suite A, Chino CA 91710）+ GovCB / SAM 镜像（联系人 KENNETH G RIVERA, PRESIDENT/CEO）+ LinkedIn（1992 成立；11–50 人；Ken R. = President & CEO；2026 为 Transitvue 做公交站 LED 显示试点）+ RocketReach（4 人；$1M）+ Blue Book（5–9 人；MWBE）+ AZ UTRACS（亚利桑那交通局供应商；主要联系人 Kenneth Rivera），2026-10-28 查；https://www.bbb.org/us/ca/chino/profile/low-voltage-contractors/jm-fiber-optics-inc-1126-89069206）：**
+
+- 法定名 / 登记号：JM Fiber Optics, Inc.（jmfiberoptics.com；Chino, CA）— 光纤 / 无线网络工程与集成商（MBE / GSA） · CA 公司（SoS 号未取；SAM 在册） · 状态 **Active** · 成立 1992（业务）/ 1993-02-16（公司） · Corporation（加州；少数族裔企业 MBE / SBA 8(a)）
+- 行业码 / 经营范围：238210 光纤 / 无线通信网络工程、安装、测试、认证培训（商业 + 政府 / 交通）
+- 注册地址：13941 Ramona Ave, Suite A, Chino, CA 91710
+- 规模档：微型（4–9 人；$1–3M）
+- 账目：—；—
+- 高管：Kenneth G (Ken) Rivera — President / CEO（老板；邮箱未公开）
+- 控制人 / 股东：Kenneth G Rivera（推定）
+- **这意味着什么：**
+  - 微型政府 / 交通类集成商（GSA、交通局供应商）→ 会问 TAA / NDAA（禁词）→ **只谈商业项目一条线，小项目集成商 25%**，一页纸写老板 Ken Rivera（官网表单 / info@）
+  - 发信窗口 Wed 08–10 PT；不加厚
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,16 +138,18 @@ updated: 2026-10-27
 - **【用户表】18 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Kenneth G (Ken) Rivera（President / CEO（BBB / SAM / AZ UTRACS 联系人）= 老板 = 收件人（邮箱未公开 → 官网表单 / info@）（第 97 批 官方登记核实 2026-10-28）） 〔https://www.bbb.org/us/ca/chino/profile/low-voltage-contractors/jm-fiber-optics-inc-1126-89069206〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | JM Fiber Optics, Inc. |
-| 成立 | 1992（Bloomberg 登记 1993-02-16） |
-| 总部/地址 | 13941 Ramona Ave, Suite A, Chino, CA 91710, USA（+1 909-628-3445；info@jmfiberoptics.com） |
-| 其他 | GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训 |
+| 法定名称 | JM Fiber Optics, Inc.（加州 Corporation；MBE / SBA 8(a)；SAM 在册） |
+| 成立 | 1992（业务）/ 1993-02-16（公司）（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 13941 Ramona Ave, Suite A, Chino, CA 91710 |
+| 人数 | 4–9 人；$1–3M |
+| 其他 | GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训；第 97 批：微型政府 / 交通类光纤集成商 → 只谈商业项目一条线，小项目集成商 25%，一页纸写老板；会问 TAA（禁词，不配合）（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤网络设计、施工、熔接、测试与机架安装；CCTV/周界/隧道入侵检测集成（守界：交通/军方项目不供）；光纤技师培训（ETA 认证）；政府采购（GSA / DoD）——守界
 - **触达通道（公开）**：网站: https://jmfiberoptics.com/；电话: +1 909-628-3445 / 1-888-343-4237（官网公开）；邮箱（公开）: info@jmfiberoptics.com；LinkedIn: https://www.linkedin.com/company/jm-fiber-optics-inc
@@ -236,6 +251,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Kenneth G (Ken) Rivera | President / CEO（BBB / SAM / AZ UTRACS 联系人）= 老板 = 收件人（邮箱未公开 → 官网表单 / info@）（第 97 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.bbb.org/us/ca/chino/profile/low-voltage-contractors/jm-fiber-optics-inc-1126-89069206 |
 | Fred Eckardt | — | feckardt@jmfiberoptics.com / +9096283445 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -329,12 +345,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

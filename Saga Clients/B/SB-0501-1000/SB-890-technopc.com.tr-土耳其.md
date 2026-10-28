@@ -89,6 +89,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 97 批（TR · 1 次检索：technopc.com.tr/organizasyon-yapisi（**Mithat Yücel = Yönetim Kurulu Başkanı**，1970 生，1998 Yücel Elektronik 联合创始人，2005 主导创建 Technopc 品牌，分管行政 / 财务 / **产品管理**；Murat Yücel = 创始合伙人 / 销售市场执行合伙人，1974 生）+ SAHA İstanbul（TECHNOPC TEKNOLOJİ SAN. VE TİC. A.Ş.；品牌 2006 由 Yücel Electronics 创立；迷你 PC / 工业 PC / AIO）+ LinkedIn（51–200 人；1998；Ataşehir）+ D&B（Key Principal Coşkun Murat Yücel）+ Crunchbase（51–100 人）+ ETBİS（Anonim Şirket；KEP technopc@hs01.kep.tr）+ AA 2021（公共部门国产硬件方案），2026-10-28 查；https://technopc.com.tr/organizasyon-yapisi）：**
+
+- 法定名 / 登记号：Technopc Teknoloji San. ve Tic. A.Ş.（technopc.com.tr；Ataşehir / İstanbul）— 土耳其本土 PC / 工业 PC / NVR 品牌（1998 Yücel Elektronik 起家） · MERSİS 未取（ETBİS 登记 A.Ş.） · 状态 **Active** · 成立 1998（Yücel Elektronik）/ 2006（Technopc 品牌） · Anonim Şirketi（Yücel 兄弟）
+- 行业码 / 经营范围：26.20 迷你 PC / 工业 PC / 面板 PC / NVR-NAS / 加固终端自有品牌制造（本土生产商证书）
+- 注册地址：Ataşehir / İstanbul（İstanbul Genel Müdürlüğü；详细地址未取）
+- 规模档：中型（51–200 人）
+- 账目：—；—
+- 高管：Mithat Yücel — Yönetim Kurulu Başkanı / 产品管理（= 研究档 KP mithat.yucel@ 本人 = 拍板人）
+- 高管：Coşkun Murat Yücel — 创始合伙人 / 销售市场（研究档 KP Murat Yücel）
+- 控制人 / 股东：Yücel 兄弟
+- 曾用名：Yücel Elektronik（1998）
+- **这意味着什么：**
+  - **表内「工业 PoE，买的 Ewind 的」+ KP = 董事长兼管产品 → 他们已经在深圳买工业 PoE 贴 Technopc 标，只是没买我们的 → OEM 30% 首选**：工业 PoE（STI-054GP / STI-144GP / STI-288DGGPM）+ 商用 PoE 配其 NVR，对标 Ewind 报价直接给到位
+  - 一个问题：现用工业 PoE 的型号 / 年量 / 交期痛点？发信窗口 Thu 10–12 TRT；**升 A 候选（回信即 A）**
+- 备注：OEM 首选；A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,16 +152,19 @@ updated: 2026-10-28
 - **【用户表】工业 PoE 买的 Ewind**
   > 工业POE / 工业POE 买的ewind的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mithat Yücel（）mithat.yucel@technopc.com.tr 〔用户表〕
-- **KP**：Murat Yücel（） 〔用户表〕
+- **KP**：Mithat Yücel（Yönetim Kurulu Başkanı / 分管产品管理（官网组织架构页；1998 Yücel Elektronik 联合创始人）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28））mithat.yucel@technopc.com.tr 〔用户表〕
+- **KP**：Murat Yücel（创始合伙人 / 销售市场执行合伙人（Coşkun Murat Yücel；D&B Key Principal）= 抄送（第 97 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 technopc.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Technopc Teknoloji San. ve Tic. A.Ş.（ETBİS 登记 A.Ş.；MERSİS 未取） |
+| 成立 | 1998（Yücel Elektronik）/ 2006（Technopc 品牌）（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Ataşehir / İstanbul（详细地址未取） |
+| 人数 | 51–200 人 |
+| 其他 | 官网 technopc.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案；第 97 批：本土 PC / 工业 PC / NVR 品牌，表内「工业 PoE 买的 Ewind 的」= 已在深圳买工业 PoE 贴标 → OEM 30% 首选，对标 Ewind 报价；升 A 候选（回信即 A）（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 NVR / IPC / 网络产品（自有品牌 Technopc）
 - **触达通道（公开）**：role: 土耳其安防/网络品牌商（工业 PoE 现 Ewind）；region: 土耳其；contact: info@technopc.com.tr、mithat.yucel@technopc.com.tr
@@ -239,8 +258,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mithat Yücel | — | mithat.yucel@technopc.com.tr | 调研核实（公开页） | 用户表 |
-| Murat Yücel | — | — | 调研核实（公开页） | 用户表 |
+| Mithat Yücel | Yönetim Kurulu Başkanı / 分管产品管理（官网组织架构页；1998 Yücel Elektronik 联合创始人）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28） | mithat.yucel@technopc.com.tr | 调研核实（公开页） | 用户表 |
+| Murat Yücel | 创始合伙人 / 销售市场执行合伙人（Coşkun Murat Yücel；D&B Key Principal）= 抄送（第 97 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 | Mithat Yuecel | — | info@technopc.com.tr / mithat.yucel@technopc.com.tr | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

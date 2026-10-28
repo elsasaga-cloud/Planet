@@ -4376,7 +4376,7 @@
    "p1": "STI-080GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1005": {
@@ -5432,7 +5432,7 @@
    "p1": "STI-280GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1049": {
@@ -8908,7 +8908,7 @@
    "p1": "STC-424XGGM",
    "tier": 20,
    "signals": 1,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-172": {
@@ -10756,7 +10756,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 1,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-256": {
@@ -11196,7 +11196,7 @@
    "p1": "STI-288DGGPM",
    "tier": 20,
    "signals": 3,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-276": {
@@ -14870,7 +14870,7 @@
    "p1": "STI-144GP",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-443": {
@@ -20018,7 +20018,7 @@
    "p1": "STC-424DGGPM-280W",
    "tier": 20,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-677": {
@@ -21497,8 +21497,8 @@
   },
   "SB-744": {
    "grade": "B",
-   "iso": "US",
-   "country": "美国",
+   "iso": "IN",
+   "country": "印度",
    "facts": 3,
    "in": 0,
    "out": 2,
@@ -22394,7 +22394,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-785": {
@@ -22614,7 +22614,7 @@
    "p1": "STI-280GE",
    "tier": 30,
    "signals": 3,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-795": {
@@ -23912,7 +23912,7 @@
    "p1": "STC-4168XGGCM",
    "tier": 25,
    "signals": 1,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-854": {
@@ -25870,7 +25870,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 3,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-943": {

@@ -79,6 +79,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 97 批（TR · 1 次检索：gelecekbt.com/hakkimizda（2004-10-13 伊斯坦布尔创立；Perpa Ticaret Merkezi A Blok Kat:13 No:1990 Şişli；satis@gelecekbt.com；CLR Networks 土耳其独家分销；以太网交换机 / SFP / 工业通信 / SDH-PDH / CCTV / 布线）+ perpa.com.tr 名录（CLR Networks / ONET / Telkolink / Netkablo 分销；bayi@）+ telkolink.com（「Telkolink, GelecekBT’ye aittir」= 自有品牌）+ LinkedIn（2–10 人；2004）+ haber15 名录（联系人 Yusuf Ölçer）+ perpahaber（品牌矩阵含 Advantech / 3Onedata / TG-NET / Dahua / Netgear），2026-10-28 查；https://gelecekbt.com/hakkimizda）：**
+
+- 法定名 / 登记号：GelecekBT Bilgi Teknolojileri（gelecekbt.com；Perpa / İstanbul）— 2004 起的网络 / 工业通信分销，自有品牌 Telkolink + CLR Networks 独家 · MERSİS / 法律形式未取（Perpa 名录无 Ltd. 后缀 → 可能为 şahıs 企业） · 状态 **Active（官网 2026 更新）** · 成立 2004-10-13 · 未取（şahıs / Ltd. Şti. 待核）
+- 行业码 / 经营范围：46.52 网络 / 工业通信 / CCTV / 布线分销（Perpa 商贸中心店铺 + B2B）
+- 注册地址：Perpa Ticaret Merkezi A Blok Kat:13 No:1990, Okmeydanı, 34384 Şişli / İstanbul
+- 规模档：微型（2–10 人）
+- 账目：—；—
+- 高管：Yusuf Ölçer — 联系人 / 疑似业主（haber15 名录）
+- 高管：销售公域 satis@gelecekbt.com
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - 表内「卖 PLANET 工业件」+ 自有品牌 Telkolink + 分销 3Onedata / TG-NET（都是华南货）→ **贴标 OEM 30% 一句试探（Telkolink 标工业 / 商用 PoE）+ 分销 20% 为底**，Perpa 店铺型微商、价格敏感
+  - 发信窗口 Thu 10–12 TRT；写 satis@ 点名 Yusuf Ölçer，一页纸
+- 备注：法律形式待核（一次）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -140,15 +155,18 @@ updated: 2026-10-28
 - **【第三方（品牌站）】【W10 补证】CLR Networks 有独立品牌站（无公司信息）**
   > CLR Networks 8 ports RJ45 10/100/1000M PoE and 2 SFP (1G) slots Fiber Optic Industrial Ethernet Switch Home > Products > Industrial POE Products > CLR-IES-G82P
   > 来源：http://www.clrnetworks.com/products/CLR-IES-G82P_main.html（抓取 2026-10-20）
+- **KP**：Yusuf Ölçer（联系人 / 疑似业主（haber15 企业名录；satis@gelecekbt.com）= 收件人（第 97 批 官方登记核实 2026-10-28））satis@gelecekbt.com 〔https://www.haber15.com.tr/firmalar/gelecekbt-bilgi-teknolojileri.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-054，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | GelecekBT Bilgi Teknolojileri |
-| 总部/地址 | Istanbul（Şişli，Perpa Ticaret Merkezi）, 土耳其 |
-| 其他 | Planet 渠道档案 PB-054（2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json）；自有品牌：疑似（待首触核实）：独家分销的 CLR Networks 为其工业 PoE 类目主力（品牌计数 CLR Networks 44 / Planet 3 / 3Onedata 3），有独立品牌站 clrnetworks.com（英文、无公司信息），型号命名（CLR-IES-G82P / G824P / 4361P / M12S-5008P）为中国 ODM 通用命名 → 大概率为其自控贴牌线；最大未知：CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效；**第 92 批核实：gelecekbt.com 与 Telkolink（SB-100）同一老板 Yusuf Ölçer（LinkedIn「Gelecekbt.com General Manager」+ telkolink.com 联系页）→ 本户并线到 SB-100，不单独发信**；外部库 XB-C0688 同样并线（第 92 批 官方登记核实 2026-10-28） |
+| 法定名称 | GelecekBT Bilgi Teknolojileri（法律形式 / MERSİS 未取；Perpa 店铺型） |
+| 成立 | 2004-10-13（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Perpa Ticaret Merkezi A Blok Kat:13 No:1990, Okmeydanı, 34384 Şişli / İstanbul |
+| 人数 | 2–10 人 |
+| 其他 | Planet 渠道档案 PB-054（2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json）；自有品牌：疑似（待首触核实）：独家分销的 CLR Networks 为其工业 PoE 类目主力（品牌计数 CLR Networks 44 / Planet 3 / 3Onedata 3），有独立品牌站 clrnetworks.com（英文、无公司信息），型号命名（CLR-IES-G82P / G824P / 4361P / M12S-5008P）为中国 ODM 通用命名 → 大概率为其自控贴牌线；最大未知：CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效；**第 92 批核实：gelecekbt.com 与 Telkolink（SB-100）同一老板 Yusuf Ölçer（LinkedIn「Gelecekbt.com General Manager」+ telkolink.com 联系页）→ 本户并线到 SB-100，不单独发信**；外部库 XB-C0688 同样并线（第 92 批 官方登记核实 2026-10-28）；第 97 批：自有品牌 Telkolink（「Telkolink, GelecekBT’ye aittir」）+ CLR Networks 独家 + 分销 3Onedata / TG-NET 华南货 → 贴标 OEM 30% 一句试探 + 分销 20% 为底，价格敏感（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商/经销（2004 年起；以太网交换机、PoE 与工业交换机、SFP、光纤/视频转换器、CCTV、工业串口通信、结构化布线；CLR Networks 土耳其独家分销 + ONET / Telkolink / Netkablo 分销；2–10 人）
 
@@ -250,7 +268,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Yusuf Ölçer | — | bayi@gelecekbt.com / furkan@gelecekbt.com | 用户表原值 | Clients/ 表 |
+| Yusuf Ölçer | 联系人 / 疑似业主（haber15 企业名录；satis@gelecekbt.com）= 收件人（第 97 批 官方登记核实 2026-10-28） | satis@gelecekbt.com | 调研核实（公开页） | https://www.haber15.com.tr/firmalar/gelecekbt-bilgi-teknolojileri.html |
 | Furkan Aydin | — | bayi@gelecekbt.com / furkan@gelecekbt.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

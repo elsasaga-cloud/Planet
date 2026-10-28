@@ -82,6 +82,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 97 批（TR · 1 次检索：pctedarik.com 页脚（PC TEDARİK İTHALAT İHRACAT YAZILIM TİCARET LTD.ŞTİ.；Çınardere Mh. Ankara Cd. No:43A 34892 Pendik；info@pctedarik.com）+ D&B（Key Principal Islam Calik；Çınardere Mah. Akseki Sok. No:1/1 Pendik）+ n11 店铺（Şirket Ünvanı ali çalık；İşletme Adı PCTEDARİK；**Tescilli Marka UNİMAX**；MERSİS 2250094824（şahıs 登记）；Vergi No 16820709238）+ Glassdoor（1–50 人）+ X（Pendik；硬盘批发起家），2026-10-28 查；https://pctedarik.com/11/KVKK）：**
+
+- 法定名 / 登记号：PC Tedarik İthalat İhracat Yazılım Ticaret Ltd. Şti.（pctedarik.com；Pendik / İstanbul）— IT / 安防批发网店，自有品牌 UNİMAX · Ltd. Şti.（MERSİS 未取；n11 登记的 şahıs MERSİS 2250094824 为关联个体户 ali çalık） · 状态 **Active（网店 2026）** · 成立 未取 · Ltd. Şti.（Çalık 家族；另有 şahıs 登记）
+- 行业码 / 经营范围：46.51 / 47.91 硬盘 / 安防摄像机 / 电脑批发网店（Ruijie / TP-Link / Hikvision / Dahua）+ 自有品牌 UNİMAX
+- 注册地址：Çınardere Mah. Ankara Cad. No:43A, 34892 Pendik / İstanbul
+- 规模档：微型（1–50 人）
+- 账目：—；—
+- 高管：İslam Çalık — Key Principal（D&B）
+- 高管：Ali Çalık — n11 店铺登记人（şahıs）
+- 控制人 / 股东：Çalık 家族（推定）
+- **这意味着什么：**
+  - 已有注册商标 UNİMAX（站内 oem 25 处）→ **贴标 OEM 30% 一句试探（商用 PoE 贴 UNİMAX 标）+ 分销 20% 为底**；走量网店价格敏感 → 价格直接给到位
+  - 发信窗口 Thu 10–12 TRT；写 info@ 点名 İslam Çalık
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,16 +123,19 @@ updated: 2026-10-28
 - **【用户表】无兴趣描述**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（未具名）（）info@pctedarik.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（未具名）（公域 = 收件人，点名 İslam Çalık（第 97 批 官方登记核实 2026-10-28））info@pctedarik.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：İslam Çalık（Key Principal（D&B）= 负责人；n11 店铺登记人 Ali Çalık（şahıs MERSİS 2250094824）（第 97 批 官方登记核实 2026-10-28）） 〔https://www.dnb.com/business-directory/company-profiles.pc_tedarik_ithalat_ihracat_yazilim_ticaret_limited_sirketi.6bf2c05e296f4bae217c29a0a17f5285.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | PC Tedarik（待核） |
-| 总部/地址 | Türkiye |
-| 其他 | OEM 词频 25（自有标？） |
+| 法定名称 | PC Tedarik İthalat İhracat Yazılım Ticaret Ltd. Şti.（MERSİS 未取；关联 şahıs 登记 Ali Çalık） |
+| 成立 | 未取（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Çınardere Mah. Ankara Cad. No:43A, 34892 Pendik / İstanbul |
+| 人数 | 1–50 人 |
+| 其他 | OEM 词频 25（自有标？）；第 97 批：硬盘 / 安防 / 电脑批发网店 + 注册商标 UNİMAX → 贴标 OEM 30% 一句试探 + 分销 20% 为底，价格直接给到位（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 安防产品批发网店
 - **触达通道（公开）**：role: 批发网店；region: 土耳其
@@ -192,7 +209,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@pctedarik.com | 用户表原值 | Clients/ 表 |
+| İslam Çalık | Key Principal（D&B）= 负责人；n11 店铺登记人 Ali Çalık（şahıs MERSİS 2250094824）（第 97 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.dnb.com/business-directory/company-profiles.pc_tedarik_ithalat_ihracat_yazilim_ticaret_limited_sirketi.6bf2c05e296f4bae217c29a0a17f5285.html |
 
 - **通道建议**：企业邮箱可直发
 
@@ -228,7 +245,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：土耳其主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -245,7 +262,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -262,7 +279,7 @@ updated: 2026-10-28
 **主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi İslam,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the toptan güvenlik kamerası channel, a 24-PoE + 4-uplink L2+ (Marvell, 280 W) at $135 EXW and 8-PoE at $81, neutral carton or your own label; which size moves most with your Hikvision/Dahua kits?
 

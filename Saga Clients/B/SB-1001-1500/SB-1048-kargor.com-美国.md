@@ -95,6 +95,23 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 97 批（US · 1 次检索：Bloomberg（KAR-Gor Inc；3540 Brooks Avenue NE Building 2, Salem OR 97301；foundingDate 1986-02-14）+ ZoomInfo（Kar-Gor；1986；11–50 人；<$5M；Christy Fagan = Manager, Operations）+ ct-northwest.com/about（CT Northwest：交通行业先进产品与服务，「building on more than 20 years of experience as Kar-Gor Inc」；团队 Christy Fagan / Tim Hoferer；PO Box 54 Tillamook OR；info@kargor.com）+ Concrete Bid Network（Kimberly Weltz 联系人），2026-10-28 查；https://www.ct-northwest.com/about/）：**
+
+- 法定名 / 登记号：Kar-Gor, Inc.（kargor.com → 现以 CT Northwest 名义经营；Salem, Oregon）— 智能交通（ITS）产品与服务商 · Oregon 登记号未取（OR SoS 可查，本次 1 次即停） · 状态 **Active（kargor.com 重定向至 CT Northwest）** · 成立 1986-02-14 · Inc.（俄勒冈；私有）
+- 行业码 / 经营范围：智能交通系统（ITS）/ 交通信号机柜配套产品与服务（Kar-Gor → CT Northwest 品牌）
+- 注册地址：3540 Brooks Avenue NE, Building 2, Salem, OR 97301（通信 PO Box 54, Tillamook OR 97141）
+- 规模档：小型（11–50 人；<$5M）
+- 账目：—；—
+- 高管：Christy Fagan — Manager, Operations（ZoomInfo / 官网团队页）
+- 高管：Tim Hoferer — 团队（职务未取）
+- 高管：Kimberly Weltz — 投标联系人
+- 控制人 / 股东：未取
+- 曾用名：Kar-Gor Inc.（现用 CT Northwest 品牌）
+- **这意味着什么：**
+  - 研究档「kargor.com 快照为重定向页」解谜：公司改以 CT Northwest 品牌做交通 ITS → 交通机柜用工业交换机要 NEMA TS2 / 温宽 → **Saga 工业线证书不对口（守界边缘）→ 一页纸即止、不加厚**
+  - 表内「工业 FS」= 他们问过工业光纤交换机；若发只写 STI 系列 + 明确不做 TS2 认证，收件人 info@kargor.com 点名 Operations Manager
+- 备注：低概率；下轮不追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,14 +140,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS**
   > 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Christy Fagan（Manager, Operations（ZoomInfo / CT Northwest 团队页）= 收件人（info@kargor.com 点名）（第 97 批 官方登记核实 2026-10-28）） 〔https://www.ct-northwest.com/about/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 kargor.com，语言 en，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | Kar-Gor, Inc.（俄勒冈；现以 CT Northwest 品牌经营；OR 登记号未取） |
+| 成立 | 1986-02-14（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 3540 Brooks Avenue NE, Building 2, Salem, OR 97301 |
+| 人数 | 11–50 人；<$5M |
+| 其他 | 官网 kargor.com，语言 en，快照状态 ok；角色判定来源：待核；第 97 批：kargor.com 重定向之谜 = 改以 CT Northwest 做交通 ITS；交通机柜要 NEMA TS2 → Saga 证书不对口 → 一页纸即止、不加厚（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核）
 - **触达通道（公开）**：role: 工业 FS 需求方（美国，站点待核）；region: 美国；contact: info@kargor.com
@@ -195,7 +216,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@kargor.com | 用户表原值 | Clients/ 表 |
+| Christy Fagan | Manager, Operations（ZoomInfo / CT Northwest 团队页）= 收件人（info@kargor.com 点名）（第 97 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.ct-northwest.com/about/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -231,7 +252,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-280GE 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -248,7 +269,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认 |
@@ -264,7 +285,7 @@ updated: 2026-10-28
 **主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Christy,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches you source, we supply DIN-rail 8-GE + 2 SFP managed (Marvell platform) and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
 

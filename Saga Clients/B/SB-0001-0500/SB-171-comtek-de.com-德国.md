@@ -82,6 +82,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 97 批（DE · 1 次检索：Northdata（COMTEK NETWORK SYSTEMS GmbH；Amtsgericht Darmstadt HRB 100142（原 Offenbach HRB 40700）；2003-11-11 登记于 Dreieich；2020-02-27 迁 Mörfelden-Walldorf；资本 €25,000；GF Askar Sheibani）+ fusionbase（经营范围：网络设备销售、维修、维护；Nordendstraße 2, 64546 Mörfelden-Walldorf）+ comtek-de.com（USt DE813812023）+ 母公司 Comtek Network Systems (UK) Ltd 05929974（Deeside；1989 Askar Sheibani 创立；PSC Askar + Christine Sheibani；Sales Director Philip Bartlett），2026-10-28 查；https://www.northdata.com/COMTEK+NETWORK+SYSTEMS+GmbH,+M%C3%B6rfelden-Walldorf/Amtsgericht+Darmstadt+HRB+100142）：**
+
+- 法定名 / 登记号：COMTEK NETWORK SYSTEMS GmbH（comtek-de.com；Mörfelden-Walldorf）— 英国 Comtek（Deeside）德国子公司：网络设备翻新 / 维修 / 二手 = 非品类 · Amtsgericht Darmstadt HRB 100142（母公司 Companies House 05929974） · 状态 **Active** · 成立 2003-11-11 · GmbH（英国 Comtek 集团子公司）
+- 行业码 / 经营范围：95.12 / 46.52 电信 / 网络设备维修、翻新、二手采购与销售（Cisco 等原厂件）
+- 注册地址：Nordendstraße 2, 64546 Mörfelden-Walldorf
+- 规模档：小型（德国分部；集团 Deeside 为主）
+- 账目：—；—
+- 高管：Askar Sheibani — Geschäftsführer / 集团 CEO（1951 生；Deeside）
+- 高管：Philip John Bartlett — 集团 Sales Director（1977 生）
+- 高管：Christine Sheibani — 集团 HR Director / PSC
+- 控制人 / 股东：Askar + Christine Sheibani（经英国母公司）
+- **这意味着什么：**
+  - 翻新 / 二手原厂件商 = **不买新品白牌 → 非品类，B 不动、不发**（研究档已写「翻新、维修与二手采购」，本批坐实法人）
+- 备注：不再查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,15 +129,18 @@ updated: 2026-10-28
 - **【用户表】1 次实质回复；15 次跟进**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Askar Sheibani（Geschäftsführer / 集团 CEO（1989 Deeside 创立 Comtek）—— 非品类（翻新 / 二手）：不发（第 97 批 官方登记核实 2026-10-28）） 〔https://www.northdata.com/COMTEK+NETWORK+SYSTEMS+GmbH,+M%C3%B6rfelden-Walldorf/Amtsgericht+Darmstadt+HRB+100142〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Comtek Network Systems GmbH（Comtek Netzwerksysteme GmbH） |
-| 总部/地址 | Nordendstraße 2, 64546 Mörfelden-Walldorf, Deutschland（+49 6105 303 9607；info@comtek-de.com） |
-| 其他 | 业务：电信与网络系统采购、维修、翻新；库存为翻新 Cisco 交换机、IP 话机、二手网络硬件；母公司 Comtek Network Systems Ltd（Deeside, Wales, 1989） |
+| 法定名称 | COMTEK NETWORK SYSTEMS GmbH（Amtsgericht Darmstadt HRB 100142，原 Offenbach HRB 40700；母公司 Comtek Network Systems (UK) Ltd 05929974） |
+| 成立 | 2003-11-11（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Nordendstraße 2, 64546 Mörfelden-Walldorf |
+| 人数 | 小型（德国分部） |
+| 其他 | 业务：电信与网络系统采购、维修、翻新；库存为翻新 Cisco 交换机、IP 话机、二手网络硬件；母公司 Comtek Network Systems Ltd（Deeside, Wales, 1989）；第 97 批：网络设备翻新 / 维修 / 二手商 = 不买新品白牌 → 非品类，B 不动、不发（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：翻新 Cisco 交换机/IP 话机销售；电信设备维修（Telecom Repair）；OEM 备件采购供应
 
@@ -214,6 +232,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Askar Sheibani | Geschäftsführer / 集团 CEO（1989 Deeside 创立 Comtek）—— 非品类（翻新 / 二手）：不发（第 97 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.northdata.com/COMTEK+NETWORK+SYSTEMS+GmbH,+M%C3%B6rfelden-Walldorf/Amtsgericht+Darmstadt+HRB+100142 |
 | Kushagra Bhardwaj | — | kushagra.bhardwaj@comtek-de.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -283,7 +302,7 @@ updated: 2026-10-28
 **主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Kushagra,
+Hi Askar,
 
 Picking up our earlier exchange about PoE / industrial switches. Next to the refurbished Catalyst access switches you stock, a new 24-port gigabit L2+ switch with 4×10G uplinks at $127.4 EXW can fill orders when refurbished units are out of stock; would a datasheet be useful?
 

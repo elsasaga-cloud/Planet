@@ -80,6 +80,23 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 97 批（DE · 1 次检索：Creditreform（Spectra GmbH & Co. KG；Amtsgericht Stuttgart HRA 726688；最近变更 2025-08-06）+ industrie-pc.de/Impressum（phG Spectra Verwaltungs-GmbH HRB 738432 Stuttgart；GF Jürgen Rauscher, Klaus Rottmayr）+ companyhouse.de（GF Harald Lang 2011-08-16 起 / Klaus Rottmayr；资本 €500,000；KG 2011-08-16 登记）+ Die Deutsche Wirtschaft（90 人；€23M 估；**Inhaber Lang / Rauscher / Rottmayr**；Mahdenstr. 3, 72768 Reutlingen）+ wer-zu-wem（100 人；€10–50M；1982 创立）+ IHK Reutlingen 2025-08（收购 ICP Deutschland GmbH）+ PresseControl 2025-05（收购 Compmall）+ 站点 Winterthur / Linz，2026-10-28 查；https://firmeneintrag.creditreform.de/72768/7270311204/SPECTRA_GMBH_CO_KG）：**
+
+- 法定名 / 登记号：Spectra GmbH & Co. KG（spectra.de；Reutlingen）— 工业 PC 制造商 + ORing 工业交换机分销，三位股东 GF 之一 = 研究档 KP · Amtsgericht Stuttgart HRA 726688（Komplementärin Spectra Verwaltungs-GmbH HRB 738432） · 状态 **Active（2025 两起并购）** · 成立 1982（创立）/ 2011-08-16（KG 登记） · GmbH & Co. KG（股东 = 三位 GF）
+- 行业码 / 经营范围：26.20 工业 PC / 面板 PC / 机架系统自产 + 工业自动化组件分销（含 ORing 工业交换机）
+- 注册地址：Mahdenstr. 3, 72768 Reutlingen（分部 Winterthur CH / Linz AT）
+- 规模档：中型（90–100 人）
+- 账目：€10–50M 营收档（wer-zu-wem）；—
+- 高管：Jürgen Rauscher — Geschäftsführer / 股东（= 研究档 KP juergen.rauscher@ 本人 = 拍板人）
+- 高管：Harald Lang — Geschäftsführer / 股东
+- 高管：Klaus Rottmayr — Geschäftsführer / 股东
+- 高管：Harald Behnstedt + Albin Markwardt — Business Development（2025 并购而来）
+- 控制人 / 股东：Lang / Rauscher / Rottmayr
+- **这意味着什么：**
+  - **研究档 KP = 三位老板之一**；在售 ORing 工业交换机（台湾货）→ **工业 PoE 自有标 Spectra = OEM 30% 目标 / 分销 20% 为底**（STI 系列对标 ORing 价格差一截），B BIG
+  - 2025 连并两家工业 PC 公司 = 扩品类期 → 一页纸写 Rauscher、抄 vertrieb@ 点名「Produktmanagement Netzwerk」；发信窗口 Thu 12–14 CET
+- 备注：B BIG。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,15 +140,18 @@ updated: 2026-10-28
 - **【用户表】ICP DAS / ORing 工业 FS，5/8 电口**
   > icpdas的工业FS / bypass Oring的 / 工业5 8电口；基本都是Oring的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Juergen Rauscher（）juergen.rauscher@spectra.de 〔用户表〕
+- **KP**：Juergen Rauscher（Geschäftsführer / 股东（Komplementärin Spectra Verwaltungs-GmbH HRB 738432；Inhaber Lang / Rauscher / Rottmayr）= **三位老板之一 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28））juergen.rauscher@spectra.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 spectra.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Spectra GmbH & Co. KG（Amtsgericht Stuttgart HRA 726688；Komplementärin HRB 738432；资本 €500,000） |
+| 成立 | 1982（创立）/ 2011-08-16（KG 登记）（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Mahdenstr. 3, 72768 Reutlingen（分部 Winterthur / Linz） |
+| 人数 | 90–100 人；€10–50M |
+| 其他 | 官网 spectra.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案；第 97 批：工业 PC 制造商 + ORing 工业交换机分销，2025 连并 Compmall / ICP Deutschland（扩品类期）→ 工业 PoE 自有标 Spectra = OEM 30% 目标 / 分销 20% 为底，B BIG（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业 PC（面板 / Box / 机架）制造；工业自动化组件分销（ORing / ICP DAS / Schneider）
 
@@ -230,7 +250,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Juergen Rauscher | — | juergen.rauscher@spectra.de | 调研核实（公开页） | 用户表 |
+| Juergen Rauscher | Geschäftsführer / 股东（Komplementärin Spectra Verwaltungs-GmbH HRB 738432；Inhaber Lang / Rauscher / Rottmayr）= **三位老板之一 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28） | juergen.rauscher@spectra.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

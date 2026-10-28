@@ -82,6 +82,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 97 批（TR · 1 次检索：EMIS（Fotech Fiber Optik Teknolojik Hizmetler San. Ve Tic. Ltd. Sti.；1989-06-23 注册；员工 29（2026）；Ataşehir Bulvarı 38. Ada Ata 3/3 Plaza Kat 5 No.51-52, 34758 Ataşehir）+ fotech.com.tr/en/history（1989 「Final Elektrik」创立 → 1994 更名 Fotech 进入光纤 / 电信）+ /en/contact（info@fotech.com.tr；eticaret@；技术中心 Yedpa Ticaret Merkezi）+ LinkedIn（11–50 人）+ 官网新闻（2021-05 Fluke Networks 分销商；Black Box 土耳其授权分销；Tallysman 分销商页），2026-10-28 查；https://www.emis.com/php/company-profile/TR/Fotech_Fiber_Optik_Teknolojik_Hizmetler_San_Ve_Tic_Ltd_Sti_en_3313643.html）：**
+
+- 法定名 / 登记号：Fotech Fiber Optik Teknolojik Hizmetler San. ve Tic. Ltd. Şti.（fotech.com.tr；Ataşehir / İstanbul）— 1989 起的系统集成 + 测试测量分销（Fluke Networks / Black Box / EXFO） · MERSİS 未取 · 状态 **Active** · 成立 1989-06-23 · Ltd. Şti.
+- 行业码 / 经营范围：62.09 / 46.52 网络系统集成 + 数据中心 + 弱电 + 测试测量 / 同步设备独家分销（欧美日加品牌）
+- 注册地址：Ataşehir Bulvarı 38. Ada Ata 3/3 Plaza Kat:5 No:51-52, 34758 Ataşehir / İstanbul
+- 规模档：小型（29 人）
+- 账目：—；—
+- 高管：「ssahin」— 研究档 KP（ssahin@fotech.com.tr；全名 / 职务未取）
+- 高管：管理层未取
+- 控制人 / 股东：未取
+- 曾用名：Final Elektrik（1989–1994）
+- **这意味着什么：**
+  - 定位 = 欧美高端品牌独家分销 + 集成（Black Box 本身卖交换机）→ 对华南货兴趣低 → **集成商 25% 一页纸即止（商用 PoE 配项目），不加厚**
+  - 发信窗口 Thu 10–12 TRT；写 ssahin@ 抄 info@
+- 备注：低概率。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,15 +132,18 @@ updated: 2026-10-28
 - **【用户表】CTS 工业品，Black Box MC**
   > 台湾CTS的工业品 黑盒的MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（ssahin）（）ssahin@fotech.com.tr 〔用户表〕
+- **KP**：（ssahin）（研究档 KP（全名 / 职务未取）= 收件人，抄 info@（第 97 批 官方登记核实 2026-10-28））ssahin@fotech.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 fotech.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Fotech Fiber Optik Teknolojik Hizmetler San. ve Tic. Ltd. Şti.（EMIS；MERSİS 未取） |
+| 成立 | 1989-06-23（Final Elektrik → 1994 Fotech）（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Ataşehir Bulvarı 38. Ada Ata 3/3 Plaza Kat:5 No:51-52, 34758 Ataşehir / İstanbul |
+| 人数 | 29 人（EMIS 2026） |
+| 其他 | 官网 fotech.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 97 批：欧美高端品牌独家分销 + 集成（Fluke Networks / Black Box / EXFO）→ 对华南货兴趣低 → 集成商 25% 一页纸即止、不加厚（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 产品分销（光纤测试 / 数据中心 / 网络 / AV）
 - **触达通道（公开）**：role: IT 产品增值分销商（土耳其，CTS 工业 / Black Box MC）；region: 土耳其；contact: ssahin@fotech.com.tr、info@fotech.com.tr

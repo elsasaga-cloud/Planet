@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 6
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,6 +88,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 97 批（PL · 1 次检索：bcs.pl/gb/content/24-change-of-company-name（2024-10-14 起「NSS Sp. z o.o.」更名「BCS Sp. z o.o.」，NIP / 地址 / 账户不变）+ imsig（NSS SP. Z O.O.；KRS 0000092488；REGON 017161046；NIP 5213124674；2002-02-21 登记；PKD 46.52.Z；ul. Modularna 11, 02-238 Warszawa）+ rejestr.io（Prezes Zarządu Artur Stępowski；资本 50 tys zł）+ nsssecurity.com.pl/o-nas（1998 起进口分销美国报警设备；2008 推出自有 CCTV 品牌 BCS）+ Northdata（LEI 259400J1GBGK8VAOD039；2003 年曾名 N.S.S. Trebor sp. z o.o.）+ 研究档（KP Maciej Sobecki = Project Manager @bcs.pl、Michał Skalecki @bcs.pl；站内 poe 106 / switch 85），2026-10-28 查；https://rejestr.io/krs/92488/bcs）：**
+
+- 法定名 / 登记号：BCS Sp. z o.o.（原 NSS Sp. z o.o.，2024-10-14 更名；bcs.pl；Warszawa）— 波兰 CCTV 自有品牌 BCS（2008 起）的品牌所有人 · KRS 0000092488（NIP 5213124674；REGON 017161046；LEI 259400J1GBGK8VAOD039） · 状态 **Aktywna（2024-10-14 更名）** · 成立 2002-02-21（业务 1998） · Sp. z o.o.（资本 50 tys zł）
+- 行业码 / 经营范围：46.52.Z 安防 / CCTV 进口分销 + 自有品牌 BCS（BCS ECO / LINE / PRO / 含 PoE 交换机）
+- 注册地址：ul. Modularna 11, 02-238 Warszawa
+- 规模档：中型（波兰 CCTV 知名品牌；人数未取）
+- 账目：—（KRS 财报未展开）；—
+- 高管：Artur Stępowski — Prezes Zarządu（拍板人）
+- 高管：Maciej Sobecki — Project Manager（= 研究档 KP m.sobecki@bcs.pl = 产品口）
+- 高管：Michał Skalecki — 研究档 KP m.skalecki@bcs.pl
+- 控制人 / 股东：未取
+- 曾用名：NSS Sp. z o.o.（2002–2024）；N.S.S. Trebor sp. z o.o.（2003 前）
+- **这意味着什么：**
+  - **研究档 KP 邮箱是 @bcs.pl = 品牌所有人本尊（非 sklep-bcs.pl 经销店）**；BCS 自有标 PoE 交换机 106 处 = 华南贴牌 → **OEM 30% 首选（PL）、B BIG**：商用 PoE 全系贴 BCS 标，写 Project Manager Maciej Sobecki、点名 Prezes
+  - 一个问题：BCS 标 PoE 现供应商交期 / 年量？发信窗口 Thu 12–14 CET；**升 A 候选（回信即 A）**
+- 备注：OEM 首选；A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,17 +147,20 @@ updated: 2026-10-27
 - **【用户表】工商业 switch；PoE switch 有 Elink 的；CVI FS 工业 FS；可以着重跟一下**
   > 兴趣：MC Switch等;工商业switch 有Elink的;PoE switch 有Elink的 后边链接;CVI FS 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Maciej Sobecki（）m.sobecki@bcs.pl 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Maciej Sobecki（Project Manager（@bcs.pl = 品牌所有人 BCS Sp. z o.o. 本尊，非 sklep-bcs.pl 经销店）= 产品口 = 收件人（第 97 批 官方登记核实 2026-10-28））m.sobecki@bcs.pl 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Michał Skalecki（）m.skalecki@bcs.pl 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Artur Stępowski（Prezes Zarządu（rejestr.io KRS 0000092488）= 拍板人（点名）（第 97 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/92488/bcs〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | BCS（NSS Sp. z o.o.，待核） |
-| 总部/地址 | Poland |
-| 其他 | BCS 为波兰自有安防品牌（Dahua 代工）；E-link PoE 在售 |
+| 法定名称 | BCS Sp. z o.o.（原 NSS Sp. z o.o.，2024-10-14 更名；KRS 0000092488；NIP 5213124674；REGON 017161046；LEI 259400J1GBGK8VAOD039） |
+| 成立 | 2002-02-21（业务 1998；BCS 品牌 2008）（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Modularna 11, 02-238 Warszawa |
+| 人数 | 中型（波兰 CCTV 知名品牌；人数未取） |
+| 其他 | BCS 为波兰自有安防品牌（Dahua 代工）；E-link PoE 在售；第 97 批：BCS 自有标 PoE 交换机（站内 106 处）= 华南贴牌 → OEM 30% 首选（PL）、B BIG；升 A 候选（回信即 A）（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：BCS 品牌 CCTV 分销；PoE / 工业交换机（E-link）
 - **触达通道（公开）**：role: 安防品牌商 + 分销（OEM 采购）；region: 波兰
@@ -248,8 +268,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Maciej Sobecki | — | m.sobecki@bcs.pl | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Maciej Sobecki | Project Manager（@bcs.pl = 品牌所有人 BCS Sp. z o.o. 本尊，非 sklep-bcs.pl 经销店）= 产品口 = 收件人（第 97 批 官方登记核实 2026-10-28） | m.sobecki@bcs.pl | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Michał Skalecki | — | m.skalecki@bcs.pl | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Artur Stępowski | Prezes Zarządu（rejestr.io KRS 0000092488）= 拍板人（点名）（第 97 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejestr.io/krs/92488/bcs |
 | Jakub Zaczek | — | biuro@sklep-bcs.pl / info@bcs.pl | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -347,12 +368,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 6 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 6 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

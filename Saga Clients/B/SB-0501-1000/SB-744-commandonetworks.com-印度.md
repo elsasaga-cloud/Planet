@@ -1,7 +1,7 @@
 # commandonetworks.com
 **官方名称（调研核实）**：COMMANDO Networks（美国）
 
-> **评级 B**　|　美国　|　档案编号 `SB-744`　|　优先级 ★★　|　状态：已推送 9 次·未回复
+> **评级 B**　|　印度　|　档案编号 `SB-744`　|　优先级 ★★　|　状态：已推送 9 次·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 9 次（2025-02-25 → 2025-10-23）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,8 +11,9 @@ rating: B
 rating_auto: B
 name_official: "COMMANDO Networks（美国）"
 score: 32
-country: 美国
-region: 北美
+country: 印度
+country_table: 美国  # 表内原填；调研纠正为 印度（research JSON country_fix）
+region: 南亚
 website: commandonetworks.com
 type: 经销/集成（类型待核）
 tier_tags: ["A优质名单(US)"]
@@ -78,17 +79,32 @@ updated: 2026-10-28
 
 - `commandonetworks.com` → 主机商 cPanel 类邮箱（MX：mail.commandonetworks.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
-- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+- 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
+
+**公司底数 · 第 97 批（IN · 1 次检索：zaubacorp（COMMANDO NETWORKS PRIVATE LIMITED；CIN U74999MH2015PTC261514；2015-12-30 注册；Registrar Mumbai；实收资本 Rs 100,000；董事 Vazir Ahmed Akhtar Siddiqui + Umair Ahmed Siddiqui）+ commandonetworks.com/about_us（「Indian manufacturer headquartered in Navi Mumbai」）+ /contact（印度 Office 212-213, Bldg 2(A-3), Millennium Business Park, Mahape, Navi Mumbai 400710；美国 COMMANDO Networks Inc. 1007 N Orange St Fl 4, Wilmington DE 19801 = 注册代理地址；迪拜 LLC；深圳华强北 Limited；香港 Limited）+ D&B（Key Principal Vazir Ahmed Akhtar Siddiqui）+ IndiaMART（51–100 人），2026-10-28 查；https://www.zaubacorp.com/COMMANDO-NETWORKS-PRIVATE-LIMITED-U74999MH2015PTC261514）：**
+
+- 法定名 / 登记号：COMMANDO Networks Private Limited（commandonetworks.com；Navi Mumbai，印度）— 自有品牌网络硬件（深圳 / 香港 / 迪拜办公室）= 同行；美国地址为注册代理 · 印度 CIN U74999MH2015PTC261514（美国 Inc. 仅注册代理地址） · 状态 **Active** · 成立 2015-12-30 · Private Limited（印度；Siddiqui 家族）
+- 行业码 / 经营范围：自有品牌交换机 / 路由 / 无线 / MC / SFP / PoE 注入器（深圳采购贴牌，170+ 国商标）
+- 注册地址：Office 212-213, Building No. 2(A-3), Millennium Business Park, MIDC, Mahape, Navi Mumbai 400710, India
+- 规模档：小型（51–100 人）
+- 账目：—；—
+- 高管：Vazir Ahmed Akhtar Siddiqui — Director / 老板
+- 高管：Umair Ahmed Siddiqui — Director
+- 控制人 / 股东：Siddiqui 家族
+- **这意味着什么：**
+  - **国别更正：美国 → 印度（Navi Mumbai）**；自设深圳华强北办公室直接采购贴牌 = **同行品牌商、没有中间位置 → B 不动、不发**
+  - 记档价值：威尔明顿 1007 N Orange St 是注册代理楼（见过多次），遇到即查母国
+- 备注：country_fix 印度；不再查。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | commandonetworks.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 印度 | 事实（用户表）|
 | 网站/域名 | commandonetworks.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 | 事实（用户表） |
@@ -109,16 +125,18 @@ updated: 2026-10-28
 - **【用户表】Cisco switch MC SFP 工业 FS；北京 深圳有办事处；可以尝试多跟进一下**
   > 兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（未具名）（）info@commandonetworks.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（未具名）（公域 —— **同行（印度品牌商，自设深圳 / 香港 / 迪拜办公室直接采购贴牌）：不发**（第 97 批 官方登记核实 2026-10-28））info@commandonetworks.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | COMMANDO Networks（待核） |
-| 总部/地址 | USA（北京 / 深圳办事处） |
-| 其他 | 中国办事处直采 |
+| 法定名称 | COMMANDO Networks Private Limited（印度 CIN U74999MH2015PTC261514；美国 COMMANDO Networks Inc. 仅注册代理地址 1007 N Orange St, Wilmington DE） |
+| 成立 | 2015-12-30（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Office 212-213, Building No. 2(A-3), Millennium Business Park, MIDC, Mahape, Navi Mumbai 400710, India |
+| 人数 | 51–100 人 |
+| 其他 | 中国办事处直采；第 97 批：国别更正美国 → 印度；董事 Vazir Ahmed Akhtar Siddiqui + Umair Ahmed Siddiqui；自有品牌 170+ 国商标、深圳华强北办公室 → 同行不动（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络硬件（自有品牌全线）
 - **触达通道（公开）**：role: 品牌商（OEM 直采）；region: 美国
@@ -252,8 +270,8 @@ updated: 2026-10-28
 
 ## SWOT
 
-- **S**：北美主攻区，复购与口碑可外溢
-- **W**：已推送 9 次无回复，邮件通道疲劳
+- **S**：名单内已有联系记录，不是零起点
+- **W**：已推送 9 次无回复，邮件通道疲劳；南亚：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STI-288GPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 Cisco：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 

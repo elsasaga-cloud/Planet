@@ -84,6 +84,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 97 批（TR · 1 次检索：optima-engineering.com/en/corporate/about-optima（2000-12 Ostim Ankara 创立；foundingDate 2000-12；founder / CEO İ. Tamer Ülgen；NACE 28.99.90；路障 / 升降柱 / 破胎器 / 闸机 / 道闸 / 滑动门驱动；2014 投资激励购 9,000 m² 地块、2015 夏建成 Başkent OSB 工厂）+ EMIS（Optima Muhendislik A.S.；2000-12-05 注册；员工 100（2026））+ TİM（2000 年机械工程师 Tamer Ülgen 在 Ostim 100 m² 创业；2017 起 18,000 m² 工厂；OAİB 会员）+ D&B（OPTIMA MUHENDISLIK ANONIM SIRKETI；No:62 Malıköy Başkent OSB 19. Cad.）+ 官网新闻（安卡拉增长最快企业奖），2026-10-28 查；https://www.optima-engineering.com/en/corporate/about-optima）：**
+
+- 法定名 / 登记号：Optima Mühendislik A.Ş.（optima-engineering.com / optima.tc；Başkent OSB, Sincan / Ankara）— 路障 / 升降柱 / 闸机制造商，100 人 · MERSİS 未取（Ltd. Şti. → A.Ş.） · 状态 **Active** · 成立 2000-12-05 · Anonim Şirketi（创始人 Tamer Ülgen）
+- 行业码 / 经营范围：28.99 物理安防机械（路障 / 升降柱 / 闸机 / 道闸 / 车牌识别停车系统）设计制造 + 出口中东
+- 注册地址：Başkent Organize Sanayi Bölgesi 19. Cadde No:62, Malıköy, 06909 Sincan / Ankara
+- 规模档：中型（100 人；EMIS 2026）
+- 账目：—；—
+- 高管：İ. Tamer Ülgen — 创始人 / CEO（机械工程师）
+- 高管：Furkan Kalkan — 研究档 KP（用户表 furkan@optima.tc；职务未取）
+- 控制人 / 股东：Tamer Ülgen（推定）
+- 曾用名：Optima Mühendislik Ltd. Şti.
+- **这意味着什么：**
+  - 车牌识别 / 停车道闸系统里要配 PoE 交换机（外采）→ **配套一条线：工业小口数 STI-054GP / STI-144GP（户外机柜）+ 商用 STC-028GP，贴 Optima 标随系统出口 = OEM 30% 小**
+  - 研究档 KP 职务未取 → 写 furkan@ 抄 optima@ 点名「satın alma / proje」；发信窗口 Thu 10–12 TRT
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,16 +144,19 @@ updated: 2026-10-28
 - **【用户表】ISAF 互动：IP 摄像、PoE 兴趣、来深圳采购**
   > 只处理IP camera，基本不处理analog video,对POE switch有兴趣 会来深圳买产品但不是参展，邀请了他参观公司
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Furkan Kalkan（Technical Manager（用户表））furkan@optima.tc（用户表） +90 507 463 0566（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Furkan Kalkan（研究档 KP（用户表；职务未取）= 收件人，抄 optima@ 点名「satın alma / proje」（第 97 批 官方登记核实 2026-10-28））furkan@optima.tc（用户表） +90 507 463 0566（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：İ. Tamer Ülgen（创始人 / CEO（机械工程师；2000-12 Ostim 创业）= 拍板人（仅记档）（第 97 批 官方登记核实 2026-10-28）） 〔https://www.optima-engineering.com/en/corporate/about-optima〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Optima Mühendislik（Optima Engineering） |
-| 总部/地址 | Başkent Organize Sanayi Bölgesi 19. Cadde No:62, Malıköy 06909 Sincan / Ankara（+90 312 815 15 00）；İstanbul Perpa A Blok K:8 No:701 |
-| 其他 | 产品：路障、升降柱、滑动门、道闸、破胎器、闸机、LPR 车牌识别、停车道闸 |
+| 法定名称 | Optima Mühendislik A.Ş.（原 Ltd. Şti.；MERSİS 未取） |
+| 成立 | 2000-12-05（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Başkent Organize Sanayi Bölgesi 19. Cadde No:62, Malıköy, 06909 Sincan / Ankara |
+| 人数 | 100 人（EMIS 2026） |
+| 其他 | 产品：路障、升降柱、滑动门、道闸、破胎器、闸机、LPR 车牌识别、停车道闸；第 97 批：路障 / 升降柱 / 闸机 / 车牌识别制造商、出口中东 → PoE 交换机为系统配套（外采）→ 工业小口数 + 商用 PoE 贴 Optima 标 = OEM 30% 小（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：车辆出入口安防设备制造（路障、升降柱、道闸、闸机）；车牌识别/停车系统（IP 摄像 + 控制柜）
 - **触达通道（公开）**：网站: https://www.optima-engineering.com/；电话: +90 312 815 15 00（公开）；邮箱（公开）: optima@optima.tc / info@optima-engineering.com；Instagram: https://www.instagram.com/optima_turkiye/
@@ -230,7 +248,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Furkan Kalkan | Technical Manager（用户表） | furkan@optima.tc（用户表） / +90 507 463 0566（用户表） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Furkan Kalkan | 研究档 KP（用户表；职务未取）= 收件人，抄 optima@ 点名「satın alma / proje」（第 97 批 官方登记核实 2026-10-28） | furkan@optima.tc（用户表） / +90 507 463 0566（用户表） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| İ. Tamer Ülgen | 创始人 / CEO（机械工程师；2000-12 Ostim 创业）= 拍板人（仅记档）（第 97 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.optima-engineering.com/en/corporate/about-optima |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

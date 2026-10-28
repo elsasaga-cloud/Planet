@@ -81,6 +81,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 97 批（DE · 1 次检索：saf-slk.de/impressum（Schaltanlagenbau Förderstedt GmbH；Ascherslebener Straße 18d, 06467 Hoym；Amtsgericht Stendal HRB 19446；USt DE289406638；GF Marco Bohne；ppa. Anika Duschka；Handlungsbevollmächtigter Christopher Roder-Rosenov）+ webvalid / implisense（2013-04-17 成立、2013-06-03 登记；资本 €25,000；经营范围：低压开关与控制设备的规划、制造、安装；原址 Güsten → Seeland）+ Northdata（Ralf Otto / Martin Dziersan 已退出 GF；Marco Bohne 由 ppa. 升 GF）+ Kompass（10–19 人）+ Creditreform（1 名股东），2026-10-28 查；https://saf-slk.de/impressum/）：**
+
+- 法定名 / 登记号：Schaltanlagenbau Förderstedt GmbH（saf-slk.de；Seeland OT Hoym，Sachsen-Anhalt）— 低压开关柜 / 控制柜制造商，GF = 研究档 KP · Amtsgericht Stendal HRB 19446 · 状态 **Active** · 成立 2013-04-17（登记 2013-06-03） · GmbH（资本 €25,000；单一股东）
+- 行业码 / 经营范围：27.12 低压 / 中压开关柜、控制柜定制制造 + 能源管理（培训企业）
+- 注册地址：Ascherslebener Straße 18d, 06467 Seeland OT Hoym（研究档旧址 Neue Anlage 2, 39439 Güsten）
+- 规模档：小型（10–24 人；≤€10M）
+- 账目：—（小型 GmbH）；—
+- 高管：Marco Bohne — Geschäftsführer（= 研究档 KP bohne@ 本人 = 拍板人）
+- 高管：Anika Duschka — ppa.（= 研究档 KP duschka@）
+- 高管：Christopher Roder-Rosenov — Handlungsbevollmächtigter
+- 控制人 / 股东：单一股东（姓名未取）
+- **这意味着什么：**
+  - **研究档 KP 就是 GF + 授权代表两人**；开关柜里要装 DIN 导轨工业交换机（外采配套）→ **工业 PoE 小口数一条线（STI-054GP / STI-144GP / STI-288DGGPM），集成商 25%**，一页纸直接写 GF
+  - 地址更正：Güsten → Seeland OT Hoym（Impressum 2025）；发信窗口 Thu 12–14 CET
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,8 +140,8 @@ updated: 2026-10-28
 - **【用户表】WhatsApp 已加；7 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marco Bohne（Geschäftsführer（官网联系页公开））bohne@saf-slk.de +49 34741 9886-0〔https://saf-slk.de/kontakt/〕
-- **KP**：Anika Duschka（Vertretungsberechtigte ppa.（官网联系页公开））duschka@saf-slk.de +49 34741 9886-0〔https://saf-slk.de/kontakt/〕
+- **KP**：Marco Bohne（Geschäftsführer（HRB 19446 Stendal；由 ppa. 升任）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28））bohne@saf-slk.de +49 34741 9886-0〔https://saf-slk.de/kontakt/〕
+- **KP**：Anika Duschka（ppa.（Impressum 授权代表）= 研究档 KP = 抄送（第 97 批 官方登记核实 2026-10-28））duschka@saf-slk.de +49 34741 9886-0〔https://saf-slk.de/kontakt/〕
 - **KP**：Christopher Roder-Rosenov（Kalkulation / Handlungsbevollmächtigter（报价/采购口径；官网公开））roder-rosenov@saf-slk.de +49 34741 9886-0〔https://saf-slk.de/kontakt/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -134,10 +149,12 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Schaltanlagenbau Förderstedt GmbH |
-| 总部/地址 | Ascherslebener Straße 18d, 06467 Seeland OT Hoym, Deutschland（+49 34741 9886-0；info@saf-slk.de） |
+| 法定名称 | Schaltanlagenbau Förderstedt GmbH（Amtsgericht Stendal HRB 19446；资本 €25,000） |
+| 成立 | 2013-04-17（登记 2013-06-03）（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Ascherslebener Straße 18d, 06467 Seeland OT Hoym（旧址 Güsten） |
+| 人数 | 10–24 人；≤€10M |
 | 注册/税号 | HRB 19446（Amtsgericht Stendal）· USt-ID DE 289 406 638 |
-| 其他 | 培训企业（电子/工业电工学徒）；柜体设计与制造 + 现场安装与电缆敷设 |
+| 其他 | 培训企业（电子/工业电工学徒）；柜体设计与制造 + 现场安装与电缆敷设；第 97 批：低压开关柜 / 控制柜制造商，柜内 DIN 导轨工业交换机外采配套 → 工业 PoE 小口数一条线，集成商 25%，直接写 GF（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：低压/中压开关柜与配电柜定制制造；能源管理与监控（故障、熔断、差流、温度）；PV 直流汇流 / 消防急停系统；公用事业户外配电柜；保护测试（NA/QU 保护、断路器、继电器、电池、网络分析）
 - **触达通道（公开）**：网站: https://saf-slk.de/；电话: +49 34741 9886-0（官网公开）；邮箱（公开）: info@saf-slk.de
@@ -223,8 +240,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marco Bohne | Geschäftsführer（官网联系页公开） | bohne@saf-slk.de / +49 34741 9886-0 | 调研核实（公开页） | https://saf-slk.de/kontakt/ |
-| Anika Duschka | Vertretungsberechtigte ppa.（官网联系页公开） | duschka@saf-slk.de / +49 34741 9886-0 | 调研核实（公开页） | https://saf-slk.de/kontakt/ |
+| Marco Bohne | Geschäftsführer（HRB 19446 Stendal；由 ppa. 升任）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28） | bohne@saf-slk.de / +49 34741 9886-0 | 调研核实（公开页） | https://saf-slk.de/kontakt/ |
+| Anika Duschka | ppa.（Impressum 授权代表）= 研究档 KP = 抄送（第 97 批 官方登记核实 2026-10-28） | duschka@saf-slk.de / +49 34741 9886-0 | 调研核实（公开页） | https://saf-slk.de/kontakt/ |
 | Christopher Roder-Rosenov | Kalkulation / Handlungsbevollmächtigter（报价/采购口径；官网公开） | roder-rosenov@saf-slk.de / +49 34741 9886-0 | 调研核实（公开页） | https://saf-slk.de/kontakt/ |
 | Tobias Ratey | — | ratey@saf-slk.de / +017646582908 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 

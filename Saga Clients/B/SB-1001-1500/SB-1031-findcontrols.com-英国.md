@@ -87,6 +87,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 97 批（GB · 1 次检索：Companies House 09757591（RALAKDE LTD；2015-09-02 注册；Unit 5a Victoria Road, Stoke-On-Trent ST4 2HS；Active；SIC 33120 / 33140 / 33200 / 47421；最近账目至 2025-07-31；下期 2026-07-31 应 2027-04-30 递交）+ officers（Deepak Gupta，1992-06 生，Director 2019-11-06 起，印度籍 / 英国居住；曾 2015–2018 任董事）+ PSC（Deepak Gupta 75%+）+ 关联：RALAKDE AUTOMATION LTD 11435782（2018-06-27；账目应 2026-03-31 → 是否逾期待核）、RALAKDE HOLDINGS LIMITED 16830812（2025-11-04 新设控股）、RALAKDE AUTOMOTIVE LTD 12121820（已注销）+ Endole（1 名股东），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/09757591）：**
+
+- 法定名 / 登记号：RALAKDE LTD（findcontrols.com / ralakde.co.uk；Stoke-on-Trent）— 工业自动化备件贸易与维修，一人 PSC · Companies House 09757591（关联 11435782 / 16830812） · 状态 **Active（2025-11 新设控股公司 = 重组中）** · 成立 2015-09-02 · Private limited company（Deepak Gupta 一人 PSC）
+- 行业码 / 经营范围：33120 机械维修 / 33140 电气设备维修 / 33200 工业设备安装 / 47421 手机零售（工业自动化备件贸易 + 维修）
+- 注册地址：Unit 5a Victoria Road, Stoke-On-Trent ST4 2HS
+- 规模档：微型（1 名股东；人数未取）
+- 账目：微型 / 小型（2025-07-31 期已递交）；2027-04-30（2026-07-31 期）
+- 高管：Deepak Gupta — Director / PSC 75%+（= 研究档 KP dgupta@ 本人 = 老板）
+- 控制人 / 股东：Deepak Gupta
+- **这意味着什么：**
+  - 备件贸易（停产 PLC / 驱动件）→ 交换机只是顺带 → **分销 20% 一页纸即止（工业 DIN 导轨 STI 系列），不加厚**；老板本人是 KP，直接写
+  - 发信窗口 Thu 12–14 GMT
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,17 +134,18 @@ updated: 2026-10-28
 - **【用户表】工业产品 trading；质量一般；WhatsApp 已加**
   > 处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Deepak Gupta（Director / Founder（Companies House 公开））dgupta@ralakde.co.uk（用户表） +44 7887 913748（用户表，WhatsApp 已加）〔https://open.endole.co.uk/insight/company/09757591-ralakde-ltd〕
+- **KP**：Deepak Gupta（Director / PSC 75%+（Companies House 09757591；1992-06 生）= **老板 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28））dgupta@ralakde.co.uk（用户表） +44 7887 913748（用户表，WhatsApp 已加）〔https://open.endole.co.uk/insight/company/09757591-ralakde-ltd〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（公司注册 + 官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Ralakde Ltd（Companies House 09757591）；Ralakde Automation Ltd（11435782） |
-| 成立 | 2015-09-02 |
-| 总部/地址 | Unit 5a Victoria Road, Stoke-on-Trent ST4 2HS（注册）；Unit 56 Winpenny Road, Newcastle-under-Lyme ST5 7RH（+44 1782 563377；sales@ralakde.com） |
-| 其他 | 工业自动化备件贸易 + 维修；网点 US/DE/CZ/IN |
+| 法定名称 | RALAKDE LTD（Companies House 09757591；关联 Ralakde Automation Ltd 11435782 / Ralakde Holdings Limited 16830812（2025-11-04 新设）） |
+| 成立 | 2015-09-02（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 5a Victoria Road, Stoke-On-Trent ST4 2HS |
+| 人数 | 微型（1 名股东） |
+| 其他 | 工业自动化备件贸易 + 维修；网点 US/DE/CZ/IN；第 97 批：工业自动化备件贸易 + 维修（SIC 33120 / 33140 / 33200 / 47421），2025-11 新设控股 = 重组中 → 分销 20% 一页纸即止（工业 STI 系列），不加厚（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化备件（PLC/变频/驱动/HMI/电源）贸易；工业电子维修服务
 - **触达通道（公开）**：网站: https://findcontrols.com/ · https://findcontrols.co.uk/；电话: +44 1782 563377（公开）；邮箱（公开）: sales@ralakde.com / sales@findcontrols.co.uk
@@ -206,7 +220,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Deepak Gupta | Director / Founder（Companies House 公开） | dgupta@ralakde.co.uk（用户表） / +44 7887 913748（用户表，WhatsApp 已加） | 调研核实（公开页） | https://open.endole.co.uk/insight/company/09757591-ralakde-ltd |
+| Deepak Gupta | Director / PSC 75%+（Companies House 09757591；1992-06 生）= **老板 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28） | dgupta@ralakde.co.uk（用户表） / +44 7887 913748（用户表，WhatsApp 已加） | 调研核实（公开页） | https://open.endole.co.uk/insight/company/09757591-ralakde-ltd |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

@@ -82,6 +82,20 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 97 批（US · 1 次检索：lanmus.com（6725 S Fry Rd, Ste 700 #108, Katy TX 77494 = 共享办公；+1 281 / +1 315 两个电话；「manufactured by LANMUS and distributed by SPOLLEX … throughout the UAE, GCC, Africa, Kenya, and Nepal」；LM-4804XFMGP-L3「independently developed by LANMUS」；LM-2404XMGP-IL3「Availability in UAE」）+ maclookup（Lanmus Networks Ltd 于 2024-10-14 登记 MA-M OUI B0:47:5E）；德州 SoS 未见同名实体（1 次即停），2026-10-28 查；https://lanmus.com/about-lanmus-networks/）：**
+
+- 法定名 / 登记号：Lanmus Networks（lanmus.com；Katy, TX 虚拟办公地址）— 自有品牌交换机壳公司（中东 / 非洲渠道，MAC OUI 2024-10）= 同行 · 美国实体未坐实（TX SoS 无同名；OUI 登记名「Lanmus Networks Ltd」） · 状态 **官网在线（2026-09 更新）** · 成立 ≈2024（OUI 2024-10-14） · 品牌壳（美国地址为共享办公；渠道在 UAE / 非洲）
+- 行业码 / 经营范围：自有品牌管理 / 非管理 / 工业 PoE 交换机（深圳代工贴牌）面向中东 / 非洲分销
+- 注册地址：6725 S Fry Rd, Ste 700 #108, Katy, TX 77494（虚拟地址）
+- 规模档：微型
+- 账目：—；—
+- 高管：未取（官网无人名）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **同行**：这就是一个 2024 年新起的深圳代工贴牌交换机品牌（美国地址做门面、货卖 UAE / 非洲）→ 不发价格表、B 不动
+  - 记档价值：型号命名 LM-2404XSMGP-L2 / LM-4804XFMGP-L3 与华南公模一致 → 同货源，没有我们的位置
+- 备注：不再查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,16 +132,18 @@ updated: 2026-10-28
 - **【用户表】商业 FS 似乎用的长飞的；质量不错**
   > 兴趣：商业FS 似乎用的长飞的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（销售）（）sales@lanmus.com +1 281 995 9001〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（销售）（公域 —— **同行（深圳代工贴牌品牌壳，渠道在 UAE / 非洲）：不发**（第 97 批 官方登记核实 2026-10-28））sales@lanmus.com +1 281 995 9001〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Lanmus Networks（待核） |
-| 总部/地址 | Houston, TX, USA |
-| 其他 | 商用 FS 疑由中国同行代工 |
+| 法定名称 | Lanmus Networks（美国实体未坐实；TX 地址为共享办公；OUI 登记名 Lanmus Networks Ltd 2024-10-14） |
+| 成立 | ≈2024（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 6725 S Fry Rd, Ste 700 #108, Katy, TX 77494（虚拟地址） |
+| 人数 | 微型 |
+| 其他 | 商用 FS 疑由中国同行代工；第 97 批：自称「independently developed by LANMUS」、由 SPOLLEX 分销至 UAE / GCC / 非洲 = 同货源贴牌同行 → 不发价格表、B 不动（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：交换机品牌（贴牌采购）
 - **触达通道（公开）**：role: 品牌商（OEM 采购）；region: 美国

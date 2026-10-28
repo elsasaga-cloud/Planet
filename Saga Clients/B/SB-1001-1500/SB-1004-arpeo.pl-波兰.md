@@ -87,6 +87,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 97 批（PL · 1 次检索：arpeo.pl/polityka-prywatnosci（Arpeo Sp. z o.o.；ul. prof. dr. Mieczysława Michałowicza 12, 43-300 Bielsko-Biała；Sąd Rejonowy Bielsko-Biała VIII Wydz. KRS 0000854041；NIP 5472220160；REGON 386724612）+ imsig（2020-08-07 登记；PKD 46.90.Z；aktywna）+ gowork（资本 5,000 zł；Zarząd Artur Łykowski + Radosław Herman）+ infoveriti（股东 Artur Łykowski 1976 生 33 udziały / Paweł Mierzwa 1990 生 33 udziały）+ arpeo.pl（arpeo@arpeo.pl；站内工业以太网交换机 ESN 页），2026-10-28 查；https://www.imsig.pl/krs/0000854041）：**
+
+- 法定名 / 登记号：Arpeo Sp. z o.o.（arpeo.pl；Bielsko-Biała）— 电缆穿墙密封 / 线缆导向 / 电工配件网店，2020 新公司 · KRS 0000854041（NIP 5472220160；REGON 386724612） · 状态 **Aktywna** · 成立 2020-08-07 · Sp. z o.o.（资本 5,000 zł；三名小股东）
+- 行业码 / 经营范围：46.90.Z 电工配件批发网店（穿墙密封 / 金属软管 / 接地夹 / 工业信号灯 + 工业交换机页）
+- 注册地址：ul. prof. dr. Mieczysława Michałowicza 12, 43-300 Bielsko-Biała
+- 规模档：微型
+- 账目：—（微型）；—
+- 高管：Artur Łykowski — Członek Zarządu / 股东（1976 生）
+- 高管：Radosław Herman — Członek Zarządu
+- 高管：Paweł Mierzwa — 股东（1990 生）
+- 控制人 / 股东：Łykowski / Mierzwa / 第三人
+- **这意味着什么：**
+  - 资本 5,000 zł 的微型配件网店、站内已有工业交换机页（表内「工业电源 5 8 16 电口」）→ **工业非管理 STI 小口数一条线，分销 20% 一页纸即止**，写 arpeo@ 点名 Artur Łykowski
+  - 发信窗口 Thu 12–14 CET；不加厚
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,14 +137,18 @@ updated: 2026-10-28
 - **【用户表】工业电源 5 8 16 电口**
   > 工业电源 5 8 16电口；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Artur Łykowski（Członek Zarządu / 股东（KRS 0000854041；1976 生）= 收件人（arpeo@arpeo.pl 点名）；另一董事 Radosław Herman，股东 Paweł Mierzwa（第 97 批 官方登记核实 2026-10-28））arpeo@arpeo.pl 〔https://www.imsig.pl/krs/0000854041〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 arpeo.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Arpeo Sp. z o.o.（KRS 0000854041；NIP 5472220160；REGON 386724612；资本 5,000 zł） |
+| 成立 | 2020-08-07（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. prof. dr. Mieczysława Michałowicza 12, 43-300 Bielsko-Biała |
+| 人数 | 微型 |
+| 其他 | 官网 arpeo.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案；第 97 批：电工配件微型网店（站内工业交换机页）→ 工业非管理 STI 小口数一条线，分销 20% 一页纸即止（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电缆穿墙 / 线缆导向 / 电工附件（波兰）；工业以太网交换机 ESN（副线）
 - **触达通道（公开）**：role: 电工/线缆附件分销商（波兰，工业交换机为副线）；region: 波兰；contact: arpeo@arpeo.pl
@@ -201,7 +220,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | arpeo@arpeo.pl | 用户表原值 | Clients/ 表 |
+| Artur Łykowski | Członek Zarządu / 股东（KRS 0000854041；1976 生）= 收件人（arpeo@arpeo.pl 点名）；另一董事 Radosław Herman，股东 Paweł Mierzwa（第 97 批 官方登记核实 2026-10-28） | arpeo@arpeo.pl | 调研核实（公开页） | https://www.imsig.pl/krs/0000854041 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -269,7 +288,7 @@ updated: 2026-10-28
 **主题**：STI-080GE - industrial DIN-rail 8-port Gigabit switch (neutral label)
 
 ```text
-Hello,
+Hi Artur,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the ESN industrial Ethernet switch line in your catalogue, we supply DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
 

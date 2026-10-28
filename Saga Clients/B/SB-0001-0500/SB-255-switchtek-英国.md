@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,6 +86,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 97 批（GB · 1 次检索：Companies House 01613368（SWITCHTEC LIMITED；1982-02-12 注册；Brooms Road, Stone Business Park, Stone ST15 0SH；Active；SIC 46520；最近账目至 2025-12-31；下期 2026-12-31 应 2027-09-30 递交；11 officers / 3 resignations）+ officers / companycheck（Jeremy Alan Lester 1977-03 生 Director 2003-11-07 起 = MD；Janet Lester 1947-09 生 Director + Secretary 1991 起；Julia Mary Johnson；Emma Jane Lester；Daniel Adam Kelsall（Technical Sales）；John Plows 1997 起；**Nick Neil Morgan = Sales Director，2024-06-14 起**；创始人 Alan Lester 2020-04-26 退任）+ 关联 SWITCHTEC COMPONENTS LIMITED 02612994 / SWITCHTEC ELECTRONICS LIMITED 05541783（同址）+ Business Live 2022（40 周年；家族经营）+ Stone Town Council 2026-05（J. Lester 申请厂房钢结构扩建），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/01613368）：**
+
+- 法定名 / 登记号：SWITCHTEC LIMITED（switchtec.com；Stone, Staffordshire）— 1982 起的工业电气 / 电子元器件分销，Lester 家族，7,000+ 现货 SKU · Companies House 01613368（关联 02612994 / 05541783） · 状态 **Active（2026-05 申请扩建）** · 成立 1982-02-12 · Private limited company（Lester 家族）
+- 行业码 / 经营范围：46520 工业电气 / 电子元器件批发（7,000+ 现货；无最小订量）
+- 注册地址：Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH
+- 规模档：小型（11–50 人）
+- 账目：小型（2025-12-31 期已递交）；2027-09-30（2026-12-31 期）
+- 高管：Jeremy Alan Lester — Managing Director / Director（= 研究档 KP；sales@ 公域）
+- 高管：Nick Neil Morgan — Sales Director（2024-06-14 起）
+- 高管：Daniel Adam Kelsall — Director / Technical Sales
+- 高管：Janet Lester — Director / Company Secretary（创始人之妻）
+- 高管：Julia Mary Johnson / Emma Jane Lester — Directors（家族）
+- 控制人 / 股东：Lester 家族
+- **这意味着什么：**
+  - 工业元器件目录商（DIN 导轨 / 机柜配套）→ **工业 DIN 导轨 PoE 一条线（STI-054GP / STI-144GP / STI-288DGGPM），分销 20%**，一页纸写 MD Jeremy Lester、抄 Sales Director Nick Morgan
+  - 2026 扩建 = 扩品类窗口；发信窗口 Thu 12–14 GMT
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,18 +151,20 @@ updated: 2026-10-27
 - **【用户表】17 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jeremy Lester（CEO（行业媒体公开））sales@switchtec.com（公司公开） +44 1785 818600〔https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years〕
+- **KP**：Jeremy Lester（Managing Director / Director（Companies House 01613368；2003-11-07 起；1977-03 生；创始人 Alan Lester 之子）= **拍板人**（sales@ 公域）（第 97 批 官方登记核实 2026-10-28））sales@switchtec.com（公司公开） +44 1785 818600〔https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years〕
 - **KP**：Mark Stevens（Southern Area Sales Manager（官网新闻公开））—（未公开） +44 1785 818600〔https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches〕
+- **KP**：Nick Neil Morgan（Sales Director / Director（2024-06-14 起；1979-03 生）= 抄送（邮箱未公开 → sales@ 点名）（第 97 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/01613368/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Switchtec Limited（Companies House 01613368，1982-02-12） |
-| 成立 | 1982 |
-| 总部/地址 | Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH, UK（+44 1785 818600；sales@switchtec.com） |
-| 其他 | CEO Jeremy Lester（创办人 Alan Lester 之子）；2024/25 新任南区销售经理 Mark Stevens；Kyland 英国渠道 |
+| 法定名称 | SWITCHTEC LIMITED（Companies House 01613368；关联 Switchtec Components Ltd 02612994 / Switchtec Electronics Ltd 05541783） |
+| 成立 | 1982-02-12（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH |
+| 人数 | 11–50 人 |
+| 其他 | CEO Jeremy Lester（创办人 Alan Lester 之子）；2024/25 新任南区销售经理 Mark Stevens；Kyland 英国渠道；第 97 批：Lester 家族工业元器件目录商（7,000+ SKU，无 MOQ），2026-05 申请扩建 = 扩品类窗口 → 工业 DIN 导轨 PoE 一条线，分销 20%；研究档 Mark Stevens（Southern Area Sales Manager）非董事、官方记录自然无 → 仅作抄送（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业电气/电子元器件分销（继电器、定时器、接触器、电源、传感器）；工业以太网交换机（Kyland：非管理 Opal、管理型、EN50155）；现场技术选型支持（销售工程师）
 
@@ -257,8 +276,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jeremy Lester | CEO（行业媒体公开） | sales@switchtec.com（公司公开） / +44 1785 818600 | 调研核实（公开页） | https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years |
+| Jeremy Lester | Managing Director / Director（Companies House 01613368；2003-11-07 起；1977-03 生；创始人 Alan Lester 之子）= **拍板人**（sales@ 公域）（第 97 批 官方登记核实 2026-10-28） | sales@switchtec.com（公司公开） / +44 1785 818600 | 调研核实（公开页） | https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years |
 | Mark Stevens | Southern Area Sales Manager（官网新闻公开） | —（未公开） / +44 1785 818600 | 调研核实（公开页） | https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches |
+| Nick Neil Morgan | Sales Director / Director（2024-06-14 起；1979-03 生）= 抄送（邮箱未公开 → sales@ 点名）（第 97 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/01613368/officers |
 | Dan Kelsall | — | dan@switchtec.co.uk / sales@switchtec.co.uk / +4401785818600 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -354,12 +374,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -79,6 +79,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 97 批（DE · 1 次检索：wut.de Impressum（Wiesemann & Theis GmbH；Porschestr. 12, 42279 Wuppertal；GF Tobias Theis (M.Eng.)；Amtsgericht Wuppertal HRB 6377；USt DE121008340）+ wut.de 新闻（2024 年初 Rüdiger Theis 近 40 年后把 GF 交给儿子 Tobias Theis；1979 由 Reinhard Wiesemann + Rüdiger Theis 创立；50 人）+ Creditreform（HRB 6377；1 GF + 2 Prokurist；3 名股东；2024-01-05 公告 GF 变更）+ wer-zu-wem（53 人；€10–50M）+ Kompass（资本 €250,001）+ wut.de 联系人 PDF（产品经理 Frank Thiel / Marc Lüppken / Jan Gerdes），2026-10-28 查；https://www.wut.de/e-wwwww-im-inde-000.php）：**
+
+- 法定名 / 登记号：Wiesemann & Theis GmbH（wut.de；Wuppertal）— 1979 起的 Web-IO / Com-Server 制造商（W&T），50 人，二代接班 · Amtsgericht Wuppertal HRB 6377 · 状态 **Active** · 成立 1979 · GmbH（资本 €250,001；Theis 家族 3 名股东）
+- 行业码 / 经营范围：26.20 网络 I/O（Web-IO）/ Com-Server / USB-Server / 串口转换 / 光纤接口 / 网络技术自研自产（Wuppertal 本地生产）
+- 注册地址：Porschestr. 12, 42279 Wuppertal
+- 规模档：小型（50–53 人）
+- 账目：€10–50M 营收档；—
+- 高管：Tobias Theis — Geschäftsführer（2024-01 起；二代）
+- 高管：Rüdiger Theis — 创始人 / 品牌大使（已卸任 GF）
+- 高管：Frank Thiel / Marc Lüppken / Jan Gerdes — Produktmanager（公开邮箱 f.thiel@ / m.lueppken@ / j.gerdes@）
+- 控制人 / 股东：Theis 家族
+- **这意味着什么：**
+  - **准同行**：自研自产网络 I/O 与接口器件、「made in Wuppertal」为卖点，目录里的交换机是补位转售 → 对华南货接受度低 → **只给产品经理一页纸（工业 / 商用 PoE 补位，MC / 光口），不加厚、不投第 2 封**
+  - 研究档无 KP → 收件人 Jan Gerdes（SPE / 网络方向产品经理）；发信窗口 Thu 12–14 CET
+- 备注：低概率。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,14 +127,18 @@ updated: 2026-10-28
 - **【用户表】switch 主要是工业通讯，可着重跟**
   > Switch 主要是工业通讯；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Jan Gerdes（Produktmanager（Single Pair Ethernet / logic.hub / PC-Karten；wut.de 联系人 PDF 公开 j.gerdes@wut.de）= 收件人（准同行，一页纸即止）（第 97 批 官方登记核实 2026-10-28））j.gerdes@wut.de 〔https://www.wut.de/e-wwwww-co-inde-000.pdf?p=1〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 wut.de，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Wiesemann & Theis GmbH（Amtsgericht Wuppertal HRB 6377；资本 €250,001） |
+| 成立 | 1979（Reinhard Wiesemann + Rüdiger Theis）（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Porschestr. 12, 42279 Wuppertal |
+| 人数 | 50–53 人；€10–50M |
+| 其他 | 官网 wut.de，语言 en，快照状态 ok；角色判定来源：官网文案；第 97 批：Web-IO / Com-Server 自研自产「made in Wuppertal」= 准同行，目录交换机为补位转售 → 只给产品经理一页纸、不加厚、不投第 2 封；GF Tobias Theis（2024-01 二代接班）仅记档（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业接口（串口转以太网 / USB / 光纤）；Web-IO / 网络温度计；Networking（工业交换机）
 - **触达通道（公开）**：role: 德国工业接口制造商（配套工业交换机线，OEM 采购）；region: 德国；contact: info@wut.de
@@ -205,7 +225,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@wut.de | 用户表原值 | Clients/ 表 |
+| Jan Gerdes | Produktmanager（Single Pair Ethernet / logic.hub / PC-Karten；wut.de 联系人 PDF 公开 j.gerdes@wut.de）= 收件人（准同行，一页纸即止）（第 97 批 官方登记核实 2026-10-28） | j.gerdes@wut.de | 调研核实（公开页） | https://www.wut.de/e-wwwww-co-inde-000.pdf?p=1 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -273,7 +293,7 @@ updated: 2026-10-28
 **主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Jan,
 
 Some time ago you had a product mail from us - "16 Port Ethernet Switch" on 21 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
 

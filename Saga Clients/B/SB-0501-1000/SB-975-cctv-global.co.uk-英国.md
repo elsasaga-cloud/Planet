@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +91,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 97 批（GB · 1 次检索：Companies House 08411023（CCTV GLOBAL LONDON LTD；2013-02-20 注册；Alpha 319, Building K, Chobham Business Centre, Chertsey Road, Chobham, Woking GU24 8JB；Active；2 officers / 0 resignations）+ officers（Iain Robert McNeil，1972-04 生，Director 2013-02-20 起；Gonçalo Filipe Dos Santos Silva，1983-10 生，葡萄牙籍，Director 2013-02-20 起；两人均 PSC）+ LinkedIn（Iain McNeil = Co-founder，负责开发 / 管理 / 运营）+ cctv-global.co.uk（Hikvision / HiLook / AJAX 授权分销，供英国与爱尔兰）+ cctv-store.co.uk 隐私政策（数据控制人 Iain McNeil），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/08411023）：**
+
+- 法定名 / 登记号：CCTV GLOBAL LONDON LTD（cctv-global.co.uk / cctv-store.co.uk；Chobham, Surrey）— Hikvision / HiLook / Ajax 授权分销，两位创始董事 · Companies House 08411023 · 状态 **Active** · 成立 2013-02-20 · Private limited company（两位创始人 PSC）
+- 行业码 / 经营范围：46.52 CCTV / 报警 / 对讲 / 门禁分销（Hikvision / HiLook / Ajax / EZVIZ；站内 Ruijie 交换机）
+- 注册地址：Alpha 319, Building K, Chobham Business Centre, Chertsey Road, Chobham, Woking, Surrey GU24 8JB
+- 规模档：小型
+- 账目：—（小型）；—
+- 高管：Iain Robert McNeil — Co-founder / Director / PSC（= 研究档 KP imcneil@ 本人）
+- 高管：Gonçalo Filipe Dos Santos Silva — Co-founder / Director / PSC
+- 控制人 / 股东：McNeil + Santos Silva
+- **这意味着什么：**
+  - **研究档 KP = 联合创始人本人**；现卖 Ruijie 交换机配 Hikvision → **分销 20%：商用 PoE（STC-028GP / STC-228GP / STC-2224GP）对标 Ruijie 价格直接给到位**，一页纸
+  - 发信窗口 Thu 12–14 GMT
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,15 +148,18 @@ updated: 2026-10-27
 - **【用户表】主要 CCTV，卖 Longse**
   > 主要是CCTV类产品 卖Longse的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Iain McNeil（）imcneil@cctv-global.co.uk 〔用户表〕
+- **KP**：Iain McNeil（Co-founder / Director / PSC（Companies House 08411023；1972-04 生）= **老板之一 = 研究档 KP 本人**；另一董事 / PSC Gonçalo Filipe Dos Santos Silva（1983-10 生）（第 97 批 官方登记核实 2026-10-28））imcneil@cctv-global.co.uk 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 cctv-global.co.uk，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | CCTV GLOBAL LONDON LTD（Companies House 08411023） |
+| 成立 | 2013-02-20（第 97 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Alpha 319, Building K, Chobham Business Centre, Chertsey Road, Chobham, Woking, Surrey GU24 8JB |
+| 人数 | 小型 |
+| 其他 | 官网 cctv-global.co.uk，语言 en，快照状态 ok；角色判定来源：用户表；第 97 批：Hikvision / HiLook / Ajax 授权分销，现卖 Ruijie 交换机 → 分销 20%：商用 PoE 对标 Ruijie 价格直接给到位，一页纸写联合创始人（第 97 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 门禁 / 报警分销（Hikvision、HiLook、Ajax、EZVIZ）
 
@@ -242,7 +259,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Iain McNeil | — | imcneil@cctv-global.co.uk | 调研核实（公开页） | 用户表 |
+| Iain McNeil | Co-founder / Director / PSC（Companies House 08411023；1972-04 生）= **老板之一 = 研究档 KP 本人**；另一董事 / PSC Gonçalo Filipe Dos Santos Silva（1983-10 生）（第 97 批 官方登记核实 2026-10-28） | imcneil@cctv-global.co.uk | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -335,12 +352,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
