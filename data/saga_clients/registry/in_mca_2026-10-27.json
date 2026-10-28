@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 43
+  "count": 48
  },
  "rows": {
   "SA-073": {
@@ -1403,6 +1403,151 @@
    ],
    "notes": "集成 25% small；一页纸一次；部分坐实（站点地址；CIN 未取）。",
    "code": "SB-632"
+  },
+  "SB-635": {
+   "batch": 115,
+   "name": "LMD Hitech India Private Limited（radiantgroup.org 表内域名不可达；**CIN U29240HR2013PTC048422（2013-02-27；RoC Delhi）**；Plot No. 620, Sector 8, IMT Manesar, Haryana 122052；注册邮箱 sales1@hitech-eng.in）— **特种机械 / 矿山建筑机械制造（NIC 29240）**，非网络行业；董事 **Dinesh Sharma（= KP）**/ Chanchal Sharma；法定资本 ₹5 lakh / 实缴 ₹1 lakh；最近报表 2023-03-31；WA 已加无实质回复",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：zaubacorp（LMD HITECH INDIA PRIVATE LIMITED CIN U29240HR2013PTC048422；incorporated 27 February 2013；ROC Delhi；Active；Manufacture of special purpose machinery / machinery for mining, quarrying and construction；Authorised ₹500,000 / Paid up ₹100,000；directors DINESH SHARMA DIN 02249388 (2013-02-27) / CHANCHAL SHARMA DIN 02283323 (2016-09-30)；Plot No 620 Sector 8 IMT Manesar 122052；balance sheet last filed 31 March 2023）+ tofler（Gurgaon；Company Email Sales1@hitech-eng.in）；2026-10-28",
+   "url": "https://www.zaubacorp.com/company/LMD-HITECH-INDIA-PRIVATE-LIMITED/U29240HR2013PTC048422",
+   "number": "CIN U29240HR2013PTC048422",
+   "status": "Active",
+   "incorporated": "2013-02-27",
+   "company_type": "Private Limited",
+   "sic": [
+    "特种机械 / 矿山建筑机械 制造（马内萨尔）"
+   ],
+   "address": "Plot No. 620, Sector 8, IMT Manesar, Haryana 122052",
+   "accounts": "实缴 ₹1 lakh；报表至 2023-03-31",
+   "accounts_due": "—",
+   "size_band": "微型（实缴 ₹1 lakh）",
+   "officers": [
+    "Dinesh Sharma — Director（DIN 02249388；研究档 KP）",
+    "Chanchal Sharma — Director（DIN 02283323）"
+   ],
+   "psc": "Sharma 夫妇（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**机械制造商、无网络业务、域名不可达 + WA 无回复 → 非目标行业，不动（B 保留）**"
+   ],
+   "notes": "不动（非目标行业 + 微型 + 无回声）；坐实（CIN + 董事 = KP + 地址）。",
+   "code": "SB-635"
+  },
+  "SB-640": {
+   "batch": 115,
+   "name": "Technoverse Business Solutions（technoversebs.com；**个体经营；GSTIN 27CWEPK3302H2ZS（2023-11-07）**；2nd Floor, 202, Shiv Sambhav CHS, Savarkar Road, Kalyan, Dombivli, Thane 421201, Maharashtra）— 孟买都市圈 IT 硬件 / 网络产品经销（Ubiquiti / Cisco / TP-Link / Aruba / Juniper / Netgear；IndiaMART 列 断路器 / PLC 柜 / 光模块 / 路由器 / 交换机）；营业额 ₹0–40 lakh；KP Suyash Mishra（WA 已加无实质回复）",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：indiamart（Technoverse Business Solutions；Dombivli, Thane；GST 27CWEPK3302H2ZS；GST Registration Date 07-11-2023；Service Provider and Others；0 - 40 L；2 ND Floor 202 Shiv Sambhav CHS Savarkar Road Kalyan Dombivli Thane-421201）+ crunchbase（supplies switches, routers and wireless products；Mumbai；11-50 虚高）+ salezshark（name@technoversebs.com；421201）；2026-10-28",
+   "url": "https://www.indiamart.com/company/70154489/",
+   "number": "GSTIN 27CWEPK3302H2ZS",
+   "status": "Active",
+   "incorporated": "2023（GST 2023-11-07）",
+   "company_type": "Proprietorship（个体）",
+   "sic": [
+    "IT 硬件 / 网络产品 经销（东比夫利 / 孟买）"
+   ],
+   "address": "2nd Floor, 202, Shiv Sambhav CHS, Savarkar Road, Kalyan, Dombivli, Thane 421201",
+   "accounts": "₹0–40 lakh（自报）",
+   "accounts_due": "—",
+   "size_band": "个体 / 微型",
+   "officers": [
+    "Suyash Mishra — 研究档 KP（sales@technoversebs.com）"
+   ],
+   "psc": "未取（GST 登记人未公开）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**2023 年新设个体经销、WA 无回复 → 不动（B 保留；自来询盘按一口价 + T/T 预付）**"
+   ],
+   "notes": "不动（个体 + 新设 + 无回声）；坐实（GSTIN + 地址）。",
+   "code": "SB-640"
+  },
+  "SB-1106": {
+   "batch": 115,
+   "name": "Ruhan Farook（印度个人联系人；无邮箱、无公司、无域名；2024-02 对无线 IP / 24 光 combo 回复「catalog」后 16 次跟进无实质进展）— **0 查（个人，无可检索主体）**",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 0 查：个人姓名 + 无公司 / 域名 / 邮箱 → 不具备检索主体（第 115 批规则：个人 1 查即停、无线索则 0 查）；2026-10-28",
+   "url": "",
+   "number": "未取",
+   "status": "个人",
+   "incorporated": "未取",
+   "company_type": "个人",
+   "sic": [
+    "个人联系人（印度）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个人、无主体、16 次无进展 → 不动**"
+   ],
+   "notes": "不动（个人 + 0 查）；未坐实。",
+   "code": "SB-1106"
+  },
+  "SB-1107": {
+   "batch": 115,
+   "name": "Surya Namberdar（印度个人联系人；无邮箱、无公司、无域名；2023-09 收商用 PoE 价目后要「印度货币价格」，此后无实质进展）— **0 查（个人，无可检索主体）**",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 0 查：个人姓名 + 无公司 / 域名 / 邮箱 → 不具备检索主体（第 115 批规则：个人 1 查即停、无线索则 0 查）；2026-10-28",
+   "url": "",
+   "number": "未取",
+   "status": "个人",
+   "incorporated": "未取",
+   "company_type": "个人",
+   "sic": [
+    "个人联系人（印度）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个人、无主体、只问卢比价 → 不动（Saga 只报 USD）**"
+   ],
+   "notes": "不动（个人 + 0 查）；未坐实。",
+   "code": "SB-1107"
+  },
+  "SB-595": {
+   "batch": 115,
+   "name": "（表内 mpcl.in；chetan@mpcl.in 群发退信）— **1 次检索只命中同名 MPCL Industries Limited（mpcl.co.in；CIN U26959DL1993PLC219546；德里电气设备 / 广播集团，≠ 表内域名）**；mpcl.in 主体无公开记录 → 未坐实；用户表来源「买过商业 PoE（从同行进口）」非 Saga 成交",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：「mpcl.in India company Chetan MPCL networking PoE switch importer」→ tracxn / zoominfo / emis 仅 MPCL INDUSTRIES LIMITED（mpcl.co.in；CIN U26959DL1993PLC219546；Pitampura Delhi；电气设备制造）≠ mpcl.in；1 查即停；2026-10-28",
+   "url": "",
+   "number": "未取",
+   "status": "主体不明",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "主体不明（印度）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**域名无主体、邮箱退信、非 Saga 成交 → 不动（地址失效；同名 MPCL Industries 不并线）**"
+   ],
+   "notes": "不动（地址失效 + 未坐实）；未坐实（同名陷阱）。",
+   "code": "SB-595"
   }
  }
 }
