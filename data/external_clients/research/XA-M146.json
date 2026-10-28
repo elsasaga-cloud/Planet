@@ -1,0 +1,52 @@
+{
+ "code": "XA-M146",
+ "name": "Oļegs Žakovs / NetPro",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "= XA-M145 NetPro SIA（同人）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "= XA-M145 NetPro SIA（同人）",
+ "size": "= XA-M145 NetPro SIA（同人）",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCWE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★ 拉脱维亚唯一认证顾问（稀缺）；15+ 年 MikroTik 经验；专长含 802.1x 端口认证 + RADIUS（→ 交换机接入层安全是他的活）、CAPsMAN、RoMON、The Dude 监控、PtP/PtMP 远距离无线、各类 VPN 隧道、流量管理、安全策略设计 【2026-09-28 R50 A级提炼】来源等级：official-directory（沿用既有轮次官方名录记录）。持 MTCNA、MTCWE；★ 拉脱维亚唯一",
+   "quote": "",
+   "url": "https://netpro.lv/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-04 发 oleg@netpro.lv「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-04"
+  }
+ ],
+ "contacts": {
+  "email": "oleg@netpro.lv",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "同公司并线 → C",
+ "next_move": {
+  "action": "并线",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

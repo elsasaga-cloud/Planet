@@ -1,6 +1,6 @@
 # XA-M496 · Connect Data · 法国
 
-> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-254`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 mikrotik-info `A-254`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05c 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -83,7 +83,43 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W2-R05c，2026-10-27）
+
+- **结论：XA** — FR 进口分销商、未触达 → A 首触（优先）
+- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 一句话：电信/网络进口分销（Connect Data – Sintel，Bièvres 91；1981 起，约 20 人，年销约 1,500 万欧，面向运营商/集成商/转售商；Perle/Teltonika/Ruckus 等，含一家台系交换机品牌）；Marvell Prestera 接入层切入
+- 是什么人：电信/网络进口分销（Connect Data – Sintel，Bièvres 91；1981 起，约 20 人，年销约 1,500 万欧，面向运营商/集成商/转售商；Perle/Teltonika/Ruckus 等，含一家台系交换机品牌）；规模：电信/网络进口分销（Connect Data – Sintel，Bièvres 91；1981 起，约 20 人，年销约 1,500 万欧，面向运营商/集成商/转售商；Perle/Teltonika/Ruckus 等，含一家台系交换机品牌）
+- 在卖/在用：Perle Systems（工业 PoE 交换机、媒体转换、串口设备联网）
+- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 进口分销，交换机品类现成
+- 找得到人吗：sales@connectdata.fr（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：首触** — 分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI；型号 STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM；价 USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 FR 周四 12–14；建议 2026-12-03
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | Perle 授权分销商。 【2026-09-27 A240–A259联络核验】来源等级：official-obfuscated。官网contact正文Demande de devis显示sales[at]connectdata.fr，mailto给完整sales@connectdata.fr，两者一致不是猜测。Bièvres Burospace21/+33160137010匹配，Sintel为同页品牌关联，不自动合并。页面夹Cloudf |  | https://connectdata.fr/ | 2026-09-27 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: PoE switch line for your reseller channel - distributor pricing
+
+Hi,
+
+Saga Telecom supplies network and security distributors with PoE and industrial switches, under our label or the distributor's own, CE.
+
+Three PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:
+
+- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.
+- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.
+- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).
+
+Who on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：本轮 web_search：connectdata.fr/societe「importation et distribution de solutions pour les Infrastructures Réseaux」「une vingtaine de personnes … CA d'environ 15 millions」。 轻卡：本轮未外查，沿用来源库官网/名录核对。

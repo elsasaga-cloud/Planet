@@ -1,0 +1,51 @@
+{
+ "code": "XA-M110",
+ "name": "Allnet.Greece",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "ALLNET 集团希腊分公司（Allnet.Greece，邮箱在 allnet-italia.it）；ALLNET 集团希腊站（德/法/意/丹/希 = 5 国）",
+ "type_final": "ALLNET 集团希腊分公司（Allnet.Greece，邮箱在 allnet-italia.it）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Master）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Argyroupoli",
+   "quote": "",
+   "url": "https://allnet-italia.it/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-08 发 networking@allnet-italia.it「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-08"
+  }
+ ],
+ "contacts": {
+  "email": "ioanna@allnet-italia.it",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-08 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "自有 ALLNET 品牌同行集团 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

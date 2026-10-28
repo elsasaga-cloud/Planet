@@ -1,0 +1,44 @@
+{
+ "code": "XA-M159",
+ "name": "（摩尔多瓦）MikroTik 集中管理软件开发者",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "个人软件开发者（mail.ru，无站点）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "个人软件开发者（mail.ru，无站点）",
+ "size": "个人软件开发者（mail.ru，无站点）",
+ "brands_seen": [
+  "MikroTik 认证顾问 含 Security Engineer 方向"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★★ 自研软件产品：集中化设备备份、集中软件升级、流量控制、版本变更比对等，一套软件搞定 → 做 MikroTik 生态工具的，会非常看重设备的 API/SNMP/可管理性，且他自己就是渠道；同时承接有线无线网络、控制器与流量优先级、防火墙、CAPsMAN、OSPF 项目，并有 MikroTik 安全工程师资质（安全审计）",
+   "quote": "",
+   "url": "https://—（无公开站点）/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "Vovcik81@mail.ru",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "个人 → C",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -104,9 +104,9 @@ def dist2_intro(iso):
             % (cert(iso), dist2_block(iso)))
 
 
-def j(J, code, g, act, slot=None, typ='', fit='', reason='', lead='Hi,', q='', to=None, kp=None, notes='', kind=None, angle='', force_first=False, hits_domain=None):
+def j(J, code, g, act, slot=None, typ='', fit='', reason='', lead='Hi,', q='', to=None, kp=None, notes='', kind=None, angle='', force_first=False, hits_domain=None, touch=None):
     J[code] = dict(g=g, act=act, slot=slot, typ=typ, fit=fit, reason=reason, lead=lead, q=q, to=to, kp=kp or [], notes=notes, kind=kind, angle=angle,
-                   force_first=force_first, hits_domain=hits_domain)
+                   force_first=force_first, hits_domain=hits_domain, touch=touch)
 
 
 CONS = '顾问/培训/小集成商，非渠道 → B（不进第二封）'
@@ -157,7 +157,7 @@ def run(J, R, expect=None):
                     saga_line='SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE' if jj['g'] == 'A' else '—',
                     fit=jj['fit'], evidence=evidence,
                     contacts={'email': email, 'email_status': '来源库公开邮箱' if email else '缺', 'kp': jj['kp']},
-                    touch_status=touch, saga_overlap='无', grade_final=jj['g'], grade_reason_final=jj['reason'], next_move=nm,
+                    touch_status=jj.get('touch') or touch, saga_overlap='无', grade_final=jj['g'], grade_reason_final=jj['reason'], next_move=nm,
                     notes=(jj['notes'] + ' ' if jj['notes'] else '') + ('' if '复核' in jj['notes'] else LIGHT))
         if act in ('第二封', '首触'):
             assert email, code

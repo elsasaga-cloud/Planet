@@ -1,0 +1,53 @@
+{
+ "code": "XA-M505",
+ "name": "Infinite Technology",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "Perle 授权分销/集成（Infinite Technology）；Marvell Prestera 接入层切入",
+ "type_final": "Perle 授权分销/集成（Infinite Technology）",
+ "size": "未量化",
+ "brands_seen": [
+  "Perle Systems（工业 PoE 交换机",
+  "媒体转换",
+  "串口设备联网）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Perle 授权分销商。 【2026-09-27 A210–A239联络核验】来源等级：official。官网联系页Sales显示文字与mailto一致。Enquiries显示info@但mailto为help@infinitetechnology.ie，保留冲突不擅选；主用sales。Dublin +35312939000、Unit E3 Centre Point Business Park一致，不把地图供应商信息当联系邮箱。 证据：",
+   "quote": "",
+   "url": "https://infinitetechnology.ie/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-01 发 sales@infinitetechnology.ie「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-01"
+  }
+ ],
+ "contacts": {
+  "email": "sales@infinitetechnology.ie",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "未核实规模、10-01 已发未回 → B 待核",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

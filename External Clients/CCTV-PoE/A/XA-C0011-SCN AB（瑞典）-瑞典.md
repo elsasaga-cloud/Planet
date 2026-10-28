@@ -1,6 +1,6 @@
 # XA-C0011 · SCN AB（瑞典） · 瑞典
 
-> **初判 XA 长期跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-8.md`:82 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-8.md`:82 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05a 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
@@ -64,7 +64,38 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W2-R05a，2026-10-27）
+
+- **结论：XA** — SE 工业分销、未触达 → A 首触
+- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 一句话：Moxa 官方分销（SCN AB / switches.shop）
+- 是什么人：Moxa 官方分销（SCN AB / switches.shop）；规模：未量化
+- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 工业交换机专类
+- 找得到人吗：moxa@switches.shop（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：首触** — 工业 DIN 轨 PoE 首触；型号 STI-288DGGPM；价 USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 SE 周四 12–14；建议 2026-11-26
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | C类 — Moxa官方分销 |  | https://switches.shop/ | 2026-09-28 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: DIN-rail industrial PoE switches - second source for your line card
+
+Hi,
+
+Saga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point, CE.
+
+STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.
+
+Would a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to your Moxa range?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

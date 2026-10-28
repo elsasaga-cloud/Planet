@@ -1,0 +1,45 @@
+{
+ "code": "XA-M207",
+ "name": "ACC Distribution UAB",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "波罗的海最大 IT 广线分销（ACC Distribution UAB，Kaunas）；ACC Distribution 波罗的海集团（爱沙尼亚+立陶宛）",
+ "type_final": "波罗的海最大 IT 广线分销（ACC Distribution UAB，Kaunas）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Master",
+  "VAD）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Kaunas",
+   "quote": "",
+   "url": "https://accdistribution.eu/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "info@accdistribution.lt",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "大型广线/集团分销，决策链长 → B 慢慢跟进",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

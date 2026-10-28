@@ -1,6 +1,6 @@
 # XA-M049 · Sarlin Oy Ab · 芬兰
 
-> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-055`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 mikrotik-info `A-055`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05a 2026-10-27）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -84,7 +84,40 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W2-R05a，2026-10-27）
+
+- **结论：XA** — FI 工业分销 → 维持 A（轻卡，规模偏大）
+- 活着吗：来源库 2026-09-22 核对在线；本轮未复查
+- 一句话：工业技术贸易集团（Sarlin Oy Ab，1932 起家族企业；压缩空气/能源/自动化；N-Tron/Red Lion 渠道）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商，价差 5 倍
+- 是什么人：工业技术贸易集团（Sarlin Oy Ab，1932 起家族企业；压缩空气/能源/自动化；N-Tron/Red Lion 渠道）；规模：未量化
+- 在卖/在用：N-Tron、Red Lion
+- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 工业自动化分销
+- 找得到人吗：mikko.ylilammi@sarlin.com（来源库公开邮箱）；KP：Mikko Ylilammi（来源库实名邮箱（S 箱 9-28 收件人），官网员工目录）
+- 已触达：S 箱 2026-09-28 群发「24 Port PoE Managed Switch」→ 已发未回
+- 与 Saga Clients：无
+- **下一动作：第二封** — STI 工业 L2+ PoE（MikroTik 无此品类）；型号 STI-288DGGPM；价 USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 FI 周四 12–14；建议 2026-11-26
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 芬兰工业分销；【2026-09-22 补】1932 年创立的芬兰家族企业，做压缩空气、能源、工业自动化与数字化。官网公开完整员工邮箱目录，格式 firstname.lastname@sarlin.com。 |  | https://sarlin.com/ | 2026-09-22 |
+| S 箱群发记录 | S 箱 2026-09-28 发 mikko.ylilammi@sarlin.com「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-09-28 |
+
+草稿（英文，第二封；Simon 发，Agent 不发）：
+
+```text
+Subject: A second-source DIN-rail PoE switch for your industrial customers
+
+Hi Mikko,
+
+I wrote on 28 September about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.
+
+STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.
+
+Would a lower-priced DIN-rail PoE switch be worth a test unit as a second source for your automation customers?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

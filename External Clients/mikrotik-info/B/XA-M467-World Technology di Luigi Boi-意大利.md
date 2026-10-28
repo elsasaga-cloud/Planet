@@ -1,0 +1,97 @@
+# XA-M467 · World Technology di Luigi Boi · 意大利
+
+> **现判 XB 慢慢跟进** ｜ 来源 mikrotik-info `A-344`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05b 2026-10-27）→ 下一动作 不动
+
+## 1. 初判与理由
+- 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
+- 研究后改级：XA → **XB**（W2-R05b，小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进）；编号不变
+- 标记：S箱已群发
+- 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
+- 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
+
+## 2. 基本事实（来源库口径，未经本库复核）
+| 项 | 内容 |
+|---|---|
+| 公司 | World Technology di Luigi Boi |
+| 国家 / 城市 | 意大利 / Cagliari |
+| ISO | IT |
+| 网站 | —（无公开站点） |
+| 类型 / 角色 | 集成商/代理（Allied Telesis） |
+| 在卖品牌（反向信号） | Allied Telesis（Marvell Prestera 接入层） |
+| 自有品牌 | 否 |
+| 切入点（来源库） | Marvell Prestera 接入层切入 |
+| 组织 / 模式（来源库推断） | 个体顾问（无官网） / 顾问项目制 |
+| 他们首推（仅参考，不照搬） | STC-424XGGPM-280W |
+| 来源库优先级 / 状态 | ★★★ / 01-已跟进一轮（用户报告；具体日期/收件人未逐户记录） |
+| 来源库之来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
+| 来源库备注 | 伙伴等级：Resell。 【2026-09-27 A340–A359联络核验】来源等级：public-register。无官网。2024年市镇公开招标文件（Comune di Palau采购透明度附件）供应方名单同列worldtechnology@tiscali.it与worldtechnology@pec.it；工商/商录显示主体为World Technology di Luigi Boi（Impresa Individuale，P.IVA 03196380921，Via Montenero 15, 09122 Cagliari，2008-09-04注册，ATECO 47401），PEC worldtechnology@pec.it；电话070 2346452（黄页与MePA供货商卡）。邮箱来自公开招投标文件（非官网正文），仅为该主体公开登记渠道，触达前需人工复核。 证据：[1](https://trasparenza.palau.it/AttiVisualizzatore/download/allegato/2810179?fId=2810188) [2](https://www.ufficiocamerale.it/7178/world-technology-di-luigi-boi) [3](https://www.paginegialle.it/cagliari-ca/informatica/world-technology-luigi-boi) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-344 |
+| 来源库评级依据 | 【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注） |
+| 来源库人工定级 | A |
+| 来源文件 | `profile/A/A-344-World Technology di Luigi Boi-意大利.md` @ elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)（更新 2026-10-12） |
+
+来源库「基本事实」表（原样）：
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | World Technology di Luigi Boi（CSV 原样；登记名以调研为准） | 事实 |
+| 国家/城市 | 意大利 / Cagliari | 事实 |
+| 网站 | —（无公开站点） | 事实 |
+| 类型 | 集成商/代理（Allied Telesis） | 事实（CSV 名录口径） |
+| 反向信号（资质/品牌） | Allied Telesis（Marvell Prestera 接入层） | 事实（名录/自报口径） |
+| 组织性质 | 个体顾问（无官网） | 【推断】 |
+| 商业模式 | 顾问项目制 | 【推断】 |
+| 团队规模 | 一人/微型 | 【推断】 |
+| 决策链 | 短（本人即决策） | 【推断】 |
+
+## 3. 联系方式
+- 邮箱：worldtechnology@tiscali.it（首选）
+- 邮箱：worldtechnology@pec.it（公开）
+- 邮箱：供应方名单同列worldtechnology@tiscali.it与worldtechnology（公开）
+- 来源库入口字段：worldtechnology@tiscali.it（2024年市镇公开招标文件；无官网）；worldtechnology@pec.it（PEC）；070 2346452；World Technology di Luigi Boi，Via Montenero 15, 09122 Cagliari
+
+来源库「联系方式」段原文：
+
+> - **邮箱**：worldtechnology@tiscali.it
+>   - 状态：既有/公开
+> - **电话**：070 2346452
+> - 来源等级：public-register（R41–R48 联系方式台账口径）
+> - **原始联系字段**：worldtechnology@tiscali.it（2024年市镇公开招标文件；无官网）；worldtechnology@pec.it（PEC）；070 2346452；World Technology di Luigi Boi，Via Montenero 15, 09122 Cagliari
+> - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+>   - **Luigi Boi**(Titolare(个体户业主;商号具名))— amministrazionicomunali/virgilio 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.amministrazionicomunali.it/sardegna/cagliari/world-technology-di-luigi-boi〕
+
+## 4. 关键人（KP）
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 | 性质 |
+|---|---|---|---|---|---|
+| Luigi Boi | Titolare(个体户业主;商号具名) | amministrazionicomunali/virgilio 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.amministrazionicomunali.it/sardegna/cagliari/world-technology-di-luigi-boi | 实名 |
+
+## 5. 证据与来源 URL（来源库）
+- https://www.amministrazionicomunali.it/sardegna/cagliari/world-technology-di-luigi-boi
+
+## 6. 已知触达
+- Saga S 箱群发：「24 Port PoE Managed Switch」→ worldtechnology@tiscali.it，首次 2026-10-04，最后 2026-10-04，去信 1，来信 0（对账源 `data/gmail_s/2026-09_10群发名单_未入库.csv`；来信含自动回复，需人工看）
+
+## 7. 我方产品线提示
+- SmartByte 商用管理型（Marvell）为主 + Saga STI 工业系列补位（MikroTik/Allied/工业品牌渠道，缺的是性价比管理型与工业 PoE）
+- 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
+- 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
+
+## 8. 研究卡（第 2 步，W2-R05b，2026-10-27）
+
+- **结论：XB** — 小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进
+- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 一句话：IT 集成商/VAR（World Technology（无官网，tiscali 邮箱））；Marvell Prestera 接入层切入
+- 是什么人：IT 集成商/VAR（World Technology（无官网，tiscali 邮箱））；规模：未量化
+- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
+- 对口哪条线：—
+- 找得到人吗：worldtechnology@tiscali.it（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回
+- 与 Saga Clients：无
+- **下一动作：不动**；建议 不动
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 伙伴等级：Resell。 【2026-09-27 A340–A359联络核验】来源等级：public-register。无官网。2024年市镇公开招标文件（Comune di Palau采购透明度附件）供应方名单同列worldtechnology@tiscali.it与worldtechnology@pec.it；工商/商录显示主体为World Technology di Luigi Boi（Impresa Individuale，P. |  | https://tiscali.it/ | 2026-09-27 |
+| S 箱群发记录 | S 箱 2026-10-04 发 worldtechnology@tiscali.it「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-04 |
+
+- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

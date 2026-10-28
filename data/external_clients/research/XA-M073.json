@@ -1,0 +1,52 @@
+{
+ "code": "XA-M073",
+ "name": "Riva.Ltd",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "网络公司（Riva Ltd，Burgas）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
+ "type_final": "网络公司（Riva Ltd，Burgas）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Master",
+  "VAD）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Burgas",
+   "quote": "",
+   "url": "https://riva.bg/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-08 发 riva@riva.bg「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-08"
+  }
+ ],
+ "contacts": {
+  "email": "riva@riva.bg",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-08 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小市场小店、未核实 → B 慢慢跟进",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

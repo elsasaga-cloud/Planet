@@ -1,0 +1,51 @@
+{
+ "code": "XA-M114",
+ "name": "E-WIRELESS",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "= XA-M113 Cableworks（同集团同电话 e-Wireless）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
+ "type_final": "= XA-M113 Cableworks（同集团同电话 e-Wireless）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Master）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Argyroupoli 【2026-09-28 R53 B段复筛达标升级】官网核对：e-Wireless（希腊，与 Cableworks 同集团/同电话）为有线无线网络专营网店，MikroTik。原 B-120 → 现 A-473，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.e-wireless.gr/)；批次：batch/contact_research_2026-09-28_",
+   "quote": "",
+   "url": "https://e-wireless.gr/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-06 发 info@e-wireless.gr「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-06"
+  }
+ ],
+ "contacts": {
+  "email": "info@e-wireless.gr",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-06 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "同集团并线 → C",
+ "next_move": {
+  "action": "并线",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

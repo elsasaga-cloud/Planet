@@ -1,0 +1,51 @@
+{
+ "code": "XA-M490",
+ "name": "LEXIS S.A.",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "IT 集成商（LEXIS S.A.）；Marvell Prestera 接入层切入",
+ "type_final": "IT 集成商（LEXIS S.A.）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【2026-09-27 A340–A359联络核验】来源等级：official-company。官网Contact Us页给lexis@lexis.gr、+30 210 6777007、401 Kleisthenous str., 15344 Gerakas，以及塞萨洛尼基分公司thes@lexis.gr / 0030 2310 329350-1；产品页（UPS）重复同一邮箱电话；自述语音/数据/视频通信与UPS系统，1986年成立。本",
+   "quote": "",
+   "url": "https://lexis.gr/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-04 发 lexis@lexis.gr「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-04"
+  }
+ ],
+ "contacts": {
+  "email": "lexis@lexis.gr",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

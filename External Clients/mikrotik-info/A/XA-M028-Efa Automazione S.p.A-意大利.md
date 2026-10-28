@@ -1,6 +1,6 @@
 # XA-M028 · Efa Automazione S.p.A. · 意大利
 
-> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-039`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 mikrotik-info `A-039`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05b 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -68,7 +68,39 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W2-R05b，2026-10-27）
+
+- **结论：XA** — IT 工业通信分销、未触达 → A 首触
+- 活着吗：来源库 2026-09-22 核对在线；本轮未复查
+- 一句话：工业通信分销（EFA Automazione S.p.A.，Cernusco sul Naviglio；1988 起，约 34 人，HMS/N-Tron/eWON 意大利分销，Relatech 集团）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商，价差 5 倍
+- 是什么人：工业通信分销（EFA Automazione S.p.A.，Cernusco sul Naviglio；1988 起，约 34 人，HMS/N-Tron/eWON 意大利分销，Relatech 集团）；规模：工业通信分销（EFA Automazione S.p.A.，Cernusco sul Naviglio；1988 起，约 34 人，HMS/N-Tron/eWON 意大利分销，Relatech 集团）
+- 在卖/在用：N-Tron、Red Lion
+- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 工业交换机品类现成（N-Tron）
+- 找得到人吗：vendite@efa.it（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：首触** — 工业 DIN 轨 PoE 首触；型号 STI-288DGGPM；价 USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 IT 周四 12–14；建议 2026-11-26
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 米兰工业区；【2026-09-22 补】Via Isola Guarnieri 13, 20063 Cernusco sul Naviglio (MI)，另设 Villafranca di Verona 分部；定位工业数字化转型方案商。 |  | https://efa.it/ | 2026-09-22 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: DIN-rail industrial PoE switches - second source for your line card
+
+Hi,
+
+Saga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point, CE.
+
+STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.
+
+Would a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to the industrial switches you carry?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：本轮 web_search：efa.it/marchio/n-tron；contactout 34 人；集团归属不入文案。 轻卡：本轮未外查，沿用来源库官网/名录核对。

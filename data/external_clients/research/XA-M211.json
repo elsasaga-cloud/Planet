@@ -1,0 +1,55 @@
+{
+ "code": "XA-M211",
+ "name": "TELESYSTEM",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "MikroTik 分销（TELESYSTEM，Bacău / București / Iași）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
+ "type_final": "MikroTik 分销（TELESYSTEM，Bacău / București / Iași）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Master",
+  "VAD）"
+ ],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "MikroTik 渠道，三地门店",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Bacău / București / Iași",
+   "quote": "",
+   "url": "https://telesystem.ro/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-09 发 comenzi@telesystem.ro「Confirmare de primire」，去 1 来 1",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-09"
+  }
+ ],
+ "contacts": {
+  "email": "comenzi@telesystem.ro",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-09 群发「24 Port PoE Managed Switch」→ 来信为自动回执「Confirmare de primire」→ 视同已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "RO MikroTik 分销 → 维持 A",
+ "next_move": {
+  "action": "第二封",
+  "angle": "STI 工业 L2+ PoE（MikroTik 无此品类）",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "RO 周四 12–14",
+  "when": "2026-12-10"
+ },
+ "notes": "来信核对：threads 显示 2 分钟后回「Confirmare de primire」，机器回执。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
+  "body": "Hi,\n\nI wrote on 9 October about our 24-port PoE L2+ switch ('Confirmare de primire'); this is a different angle, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nDo your reseller customers ask for DIN-rail PoE switches, or is that a category you have not needed to stock?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

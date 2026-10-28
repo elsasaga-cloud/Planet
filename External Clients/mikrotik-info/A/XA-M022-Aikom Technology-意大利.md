@@ -1,6 +1,6 @@
 # XA-M022 · Aikom Technology · 意大利
 
-> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-032`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 mikrotik-info `A-032`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05b 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -77,7 +77,43 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W2-R05b，2026-10-27）
+
+- **结论：XA** — IT VAD、交换机品类现成、未触达 → A 首触（优先）
+- 活着吗：来源库 2026-09-22 核对在线；本轮未复查
+- 一句话：增值分销 VAD（Aikom Technology S.r.l.，Riccione + Milano；2006 起，Teltonika Gold，另代理一家台系交换机品牌含工业线，B2B 电商 go.aikomtech.com）；同时是 Teltonika 金牌 + ComNet 分销 → 多品牌工业 IoT 分销
+- 是什么人：增值分销 VAD（Aikom Technology S.r.l.，Riccione + Milano；2006 起，Teltonika Gold，另代理一家台系交换机品牌含工业线，B2B 电商 go.aikomtech.com）；规模：未量化
+- 在卖/在用：Teltonika、ComNet
+- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 交换机/工业交换机品类现成，VAD 规模对口
+- 找得到人吗：info@aikomtech.com（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：首触** — 分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI；型号 STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM；价 USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 IT 周四 12–14；建议 2026-11-26
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 意大利 T1，宜主攻；【2026-09-22 补】PLANET（台厂工业/商用交换机）授权分销渠道。；【2026-09-22 补】Aikom Technology S.r.l.，Viale Lambrusco 1, 47838 Riccione (RN)；Teltonika Networks 意大利 GOLD 分销商，增值分销定位。 |  | https://aikomtech.com/ | 2026-09-22 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: PoE switch line for your reseller channel - distributor pricing
+
+Hi,
+
+Saga Telecom supplies network and security distributors with PoE and industrial switches, under our label or the distributor's own, CE.
+
+Three PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:
+
+- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.
+- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.
+- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).
+
+Who on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：本轮 web_search：aikomtech.com 「value-added distributor」「GOLD Teltonika Networks distributor for Italy」；品牌页含 LAN Switch 与 Industrial Switch（台系同行品牌，文案不点名）。 轻卡：本轮未外查，沿用来源库官网/名录核对。

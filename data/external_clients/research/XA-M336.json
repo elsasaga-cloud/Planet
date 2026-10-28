@@ -1,0 +1,53 @@
+{
+ "code": "XA-M336",
+ "name": "MikroTik Trening Srbija",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "培训机构（MikroTik Trening Srbija）；MikroTik 生态切入",
+ "type_final": "培训机构（MikroTik Trening Srbija）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证",
+  "持 MikroTik 培训伙伴（开 MTCNA",
+  "MTCRE 等）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "塞尔维亚本地 MikroTik 培训机构（贝尔格莱德），开 MTCNA/MTCRE/MTCSE/MTCWE/MTCTCE。有可直接用的邮箱。 【2026-09-28 R50 A级提炼】来源等级：official-directory（沿用既有轮次官方名录记录）。持 MTCNA、MTCRE、MTCSE、MTCTCE、MTCWE；塞尔维亚本地 MikroTik 培训机构（贝尔格莱德），开 MTCNA/MTCRE/MTCSE/MTCWE/MTC",
+   "quote": "",
+   "url": "https://mikrotiktrening.rs/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-05 发 office@mikrotiktrening.rs「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-05"
+  }
+ ],
+ "contacts": {
+  "email": "office@mikrotiktrening.rs",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-05 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

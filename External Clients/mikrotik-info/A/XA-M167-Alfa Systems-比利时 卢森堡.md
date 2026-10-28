@@ -1,6 +1,6 @@
 # XA-M167 · Alfa Systems · 比利时/卢森堡
 
-> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-503`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 mikrotik-info `A-503`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05a 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -69,7 +69,39 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W2-R05a，2026-10-27）
+
+- **结论：XA** — BE 工业分销、未触达 → A 首触
+- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 一句话：工业网络分销（Alfa Systems，Hombeek；Antaira 授权，覆盖卢森堡）；工业/轨道同规格 1/3 价第二供应源
+- 是什么人：工业网络分销（Alfa Systems，Hombeek；Antaira 授权，覆盖卢森堡）；规模：未量化
+- 在卖/在用：Antaira
+- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 工业交换机品类现成
+- 找得到人吗：info@alfasys.be（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：首触** — 工业 DIN 轨 PoE 首触；型号 STI-288DGGPM；价 USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 BE 周四 12–14；建议 2026-11-26
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | Hombeek，同时覆盖卢森堡 【范围外】不在本次目标区域（欧洲+美加）内，暂不触达，留档备用 【2026-09-28 R53 B段复筛达标升级】官网核对：Alfa Systems 自述 «The most complete source for network cabling»（比利时/卢森堡）；类目含 Antaira Industrial Networking（10/100Mbps Unmanaged／Unmanaged POE+／ |  | https://alfasystems.be/ | 2026-09-28 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: DIN-rail industrial PoE switches - second source for your line card
+
+Hi,
+
+Saga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point, CE.
+
+STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.
+
+Would a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to the industrial brands you carry?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

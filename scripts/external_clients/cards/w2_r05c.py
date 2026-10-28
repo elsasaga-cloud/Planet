@@ -60,9 +60,10 @@ j('XA-M499', 'A', '首触', 'W49', '工业网络官方分销（Sphinx France / S
   q='Would a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to your Moxa range?')
 # ===== 西班牙 24 =====
 j('XA-C0005', 'B', '不动', typ='全球安防分销西班牙分公司（ADI Global Spain；订单邮箱）', reason=BIG)
-for c, t in (('XA-M057', '酒店 WiFi SaaS/顾问（Hotelinking）'), ('XA-M058', '顾问（Hecnys）'), ('XA-M059', '顾问公司（Celenet）'), ('XA-M274', '顾问（adrnet）'), ('XA-M277', '顾问/讲师（Lanpixel）'),
+for c, t in (('XA-M057', '酒店 WiFi SaaS/顾问（Hotelinking）'), ('XA-M058', '顾问（Hecnys）'), ('XA-M059', '顾问公司（Celenet）'), ('XA-M277', '顾问/讲师（Lanpixel）'),
              ('XA-M280', '小集成商（Perpi.tech）'), ('XA-M282', '顾问（IT Consultores）'), ('XA-M283', '顾问（Dualcom）'), ('XA-M284', '顾问（Codisats）'), ('XA-M287', '顾问（Ibersystems）'), ('XA-M288', '顾问/讲师（Strato Networks）')):
     j(c, 'B', '不动', typ=t, reason=CONS)
+j('XA-M274', 'B', '不动', typ='个人顾问（Adrián González Notario / adrnet.site）', reason=CONS + '；10-10 真人回复仅一句「How do you get this email?」（质疑邮件来源）→ 剔出群发，不再发', touch='S 箱 2026-10-10 群发「24 Port PoE Managed Switch」→ 当日真人回复「How do you get this email?」→ 我方欠答；按规则剔出群发', notes='S 箱 2026-10-10 06:20 发 $180 群发，08:16 收到真人回复「How do you get this email?」；我方未答。按规则 婉拒/质疑者剔出群发。')
 j('XA-M278', 'C', '不动', typ='个人顾问（仅 gmail，无站点）', reason='个人、无公司 → C')
 j('XA-M289', 'C', '不动', typ='个人讲师（cursos-mikrotik.com，仅 hotmail）', reason='个人、无公司 → C')
 j('XA-M275', 'A', '首触', 'W49', '无线/网络专营网店 + 分销（CiudadWireless，Madrid）', 'MikroTik 渠道', 'ES MikroTik 渠道、未触达 → A 首触', kind='dist',

@@ -1,6 +1,6 @@
 # XA-M142 · WISP STORE SRLS · 意大利
 
-> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-490`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 mikrotik-info `A-490`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05b 2026-10-27）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -73,7 +73,40 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W2-R05b，2026-10-27）
+
+- **结论：XA** — IT WISP 渠道 → 维持 A（轻卡，小）
+- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 一句话：WISP 网店（WISP STORE SRLS，Fisciano SA；Ubiquiti/MikroTik/TP-Link 经销）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口
+- 是什么人：WISP 网店（WISP STORE SRLS，Fisciano SA；Ubiquiti/MikroTik/TP-Link 经销）；规模：未量化
+- 在卖/在用：MikroTik（Reseller）
+- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — WISP 渠道
+- 找得到人吗：info@wisp.store（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 2026-10-06 群发「24 Port PoE Managed Switch」→ 已发未回
+- 与 Saga Clients：无
+- **下一动作：第二封** — STI 工业 L2+ PoE（MikroTik 无此品类）；型号 STI-288DGGPM；价 USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 IT 周四 12–14；建议 2026-11-26
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | Fisciano (SA) 【2026-09-28 R53 B段复筛达标升级】官网核对：wisp.store（意大利，Ubiquiti/MikroTik/TP-Link/Tenda/Netis 经销商）畅销榜含 Ubiquiti UniFi Switch Lite 8 PoE（USW-Lite-8-PoE-EU，4×802.3af/at PoE 口）、UDM-SE、U6-Pro、MikroTik CCR2116 等。原 B-174 → |  | https://wisp.store/ | 2026-09-28 |
+| S 箱群发记录 | S 箱 2026-10-06 发 info@wisp.store「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-06 |
+
+草稿（英文，第二封；Simon 发，Agent 不发）：
+
+```text
+Subject: Industrial DIN-rail PoE switches - the category MikroTik does not cover
+
+Hi,
+
+I wrote on 6 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.
+
+STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.
+
+Would a DIN-rail PoE switch be worth listing for your WISP customers, or is that outside what they ask for?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

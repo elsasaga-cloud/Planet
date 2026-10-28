@@ -1,0 +1,51 @@
+{
+ "code": "XA-M206",
+ "name": "KosProd",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "技术产品商店（KosProd，Fushë Kosovë）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
+ "type_final": "技术产品商店（KosProd，Fushë Kosovë）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Master）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Fushë Kosovë 【2026-09-28 R53 B段复筛达标升级】官网核对：KosProd（科索沃，自述 «Dycan i Produkteve Teknologjike» 技术产品专卖）设 Router & Switch（35 件） 大类，MikroTik 类目 134 件（子类含 Switches - Mikrotik、Ethernet Routers - Mikrotik、Accessories、PoE Adapters",
+   "quote": "",
+   "url": "https://kosprod.com/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-06 发 order@kosprod.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-06"
+  }
+ ],
+ "contacts": {
+  "email": "order@kosprod.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-06 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "区域外围、小 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

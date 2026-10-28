@@ -1,0 +1,45 @@
+{
+ "code": "XA-M011",
+ "name": "Charalampos Marinakis / SystemCon",
+ "round": "W2-R05d",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "集成商/顾问（Systemcon）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "集成商/顾问（Systemcon）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCINE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★ 公司同时交付硬件与软件网络系统（从小型企业到企业级），并提供安装/配置/支持/管理的认证专业服务；核心服务：网络设计、Routing、Switching、防火墙安全、HotSpot 与用户管理、VPN、负载均衡与故障切换、高可用、流量整形与 QoS、无线、SLA 支持服务",
+   "quote": "",
+   "url": "https://systemcon.gr/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "info@systemcon.gr",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}
