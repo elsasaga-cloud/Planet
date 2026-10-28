@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 187
+  "count": 201
  },
  "rows": {
   "SA-061": {
@@ -5938,6 +5938,442 @@
    ],
    "notes": "不动（35 次 0 回复）；部分坐实（官网代表 + 设立日 + 地址；号码未取）。",
    "code": "SB-637"
+  },
+  "SB-953": {
+   "batch": 116,
+   "name": "(주)네몬 Nemon Co., Ltd.（nemon.co.kr；**设立 2016-07-01；대표 조주철 Cho Ju-cheol**；경기 수원시 영통구 법조로 25, 광교SK뷰레이크타워 A동 2514호（2019-12 自城南迁入））— **网络安全设备（bypass / TAP 类）开发 + 生产；벤처（2017-06）+ 企业附设研究所（2017-11）**；4–6 人；资本금 5,000만；사업자등록번호 未取 → 部分坐实；表内「bypass 大口 FS」；无 KP（support@）；23 次跟进无回复",
+   "iso": "KR",
+   "fetched": "2026-10-28",
+   "source": "KR · 2 次检索：第 1 次「네몬 Nemon nemon.co.kr … 사업자등록번호」落空（주식회사 네모 404-81-41274 / 네모온 ≠）；第 2 次 saramin（(주)네몬；사원수 6명；경기 수원시 영통구 법조로 25, A동 2514호 광교에스케이뷰레이크타워；네트워크 보안장비 선도 업체；2016년 7월 창업）+ jobkorea（㈜네몬；사원수 4명；벤처기업；설립일 2016.07.01；자본금 5,000만원；대표자 조주철；네트웍 보안시스템 개발 및 생산；2017.06 벤처기업인증；2017.11 기업부설연구소；2019.12 본점이전 성남 → 수원）；2026-10-28",
+   "url": "https://www.jobkorea.co.kr/recruit/co_read/c/nemon0701",
+   "number": "未取（사업자등록번호 两查未得）",
+   "status": "营业中（求职站 2025 档在）",
+   "incorporated": "2016-07-01",
+   "company_type": "주식회사（벤처）",
+   "sic": [
+    "网络安全设备（bypass / TAP）研发生产（水原）"
+   ],
+   "address": "경기 수원시 영통구 법조로 25, 광교에스케이뷰레이크타워 A동 2514호 (하동)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（4–6 人）",
+   "officers": [
+    "조주철 Cho Ju-cheol — 대표（拍板人）"
+   ],
+   "psc": "조주철（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**bypass 专营（Saga 无此线）+ 微型 + 无 KP + 23 次 0 回复 → 不动（B 保留）**"
+   ],
+   "notes": "不动（需求不对位 + 微型 + 无回声）；部分坐实（求职站：代表 + 设立日 + 地址；号码未取）。",
+   "code": "SB-953"
+  },
+  "SB-032": {
+   "batch": 116,
+   "name": "주식회사 파이오링크 Piolink, Inc.（piolink.com；**KOSDAQ 170790（2013-08 上市）；사업자등록번호 119-81-41089 / 법인등록번호 110111-2035578；设立 2000-07-26**；서울 금천구 가산디지털2로 98, IT캐슬 1동 401호 08506；电话 02-2025-6900）— **ADC（韩国第一）/ WAF / TiFRONT 安全交换机 + 骨干交换机 / 云管理网络 / 安全管制服务 厂商**；代表이사 **조영철 Cho Young-chul**；**414 人**；日本分公司；KP Tae Gu (Jayden) Lee（GM；Gmail）：想要 Realtek 高端芯片方案、2025-02 对 24 光口机「加微信谈」= **同行（交换机厂）**，只可能走 ODM / 代工补充线",
+   "iso": "KR",
+   "fetched": "2026-10-28",
+   "source": "KR · 1 次检索：bizno（주식회사 파이오링크 Piolink, Inc.；통신판매업 2024-서울금천-1671；등록일 2000-08-16；대표 조영철；jy.choi@piolink.com；사업자등록번호 119-81-41089；법인등록번호 110111-2035578；종업원 414명；서울특별시 금천구 가산디지털2로 98, 1동 401호 아이티캐슬）+ piolink.com 회사소개（설립일 2000년 7월 26일；대표이사 조영철；해외지사 일본；국내 1위 ADC；KOSDAQ 170790 2013.08；2010.04 TiFRONT 보안스위치；2016.12 TiFRONT 백본스위치）+ thevc（상장 KOSDAQ:170790；대표 조영철）；2026-10-28",
+   "url": "https://www.piolink.com/kr/company/Company-Overview.php",
+   "number": "사업자등록번호 119-81-41089 / 법인등록번호 110111-2035578 / KOSDAQ 170790",
+   "status": "上市 / 계속사업자",
+   "incorporated": "2000-07-26",
+   "company_type": "주식회사（KOSDAQ 上市）",
+   "sic": [
+    "ADC / 安全交换机 / 云网络 厂商（首尔衿川）— 同行"
+   ],
+   "address": "서울특별시 금천구 가산디지털2로 98, 아이티캐슬 1동 401호 (가산동) 08506",
+   "accounts": "上市公司（DART 可查；未取数）",
+   "accounts_due": "—",
+   "size_band": "中型（414 人）",
+   "officers": [
+    "조영철 Cho Young-chul — 대표이사",
+    "Tae Gu (Jayden) Lee — GM（研究档 KP；Gmail；已索微信）"
+   ],
+   "psc": "上市分散",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上市交换机厂 = 同行；其要的是 Realtek 高端芯片方案 / 24 光口 ODM，不是渠道采购 → 不动群发（B 保留）；ODM / 代工线由 Simon 微信直联后单独定，不进稿件**",
+    "守界：不向同行提供 SmartByte 成本结构、不转介供应商"
+   ],
+   "notes": "不动（同行；ODM 线 Simon 单独决定）；坐实（사업자등록번호 + 법인등록번호 + 上市代码 + 代表 + 规模）。",
+   "code": "SB-032"
+  },
+  "SB-070": {
+   "batch": 116,
+   "name": "㈜네오와인 Neowine Co., Ltd.（neowine.com；**设立 2002-06-04；대표 이효승 Lee Hyo-seung（= KP John H. Lee 李孝乘，CEO）**；경기 성남시 분당구 판교역로 182, 한국반도체산업협회 4층）— **Fabless ASIC 设计 / 销售（防复制芯片 ALPU、DORCA 加解密 / 密钥芯片、IoT 安全、AI 判读）；벤처；ISO 9001 / 14001（2006）**；20 人；资本금 5억；**营收 ≈25억원（≈$1.8M）**；사업자등록번호 未取 → 部分坐实；SECON 2023 隔壁展位，CEO 想做 Saga 代理但不懂网络；2025-01 对 48 口索样",
+   "iso": "KR",
+   "fetched": "2026-10-28",
+   "source": "KR · 1 次检索：jobkorea（㈜네오와인；사원수 20명；벤처기업；설립일 2002.06.04；자본금 5억원；매출액 25억；대표자 이효승；DORCA, ALPU, 복제 방지 반도체, ASIC, USB 보안 인증, SoC；경기 성남시 분당구 판교역로 182 한국반도체산업협회 4층；2014 년 기준 346 개 회사에 1100 만개 반도체 판매）+ mk.co.kr 2006（네오와인 대표 이효승；2002 설립；ALPU；ISO9001/14001）；2026-10-28",
+   "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/neowine",
+   "number": "未取（사업자등록번호 未得）",
+   "status": "营业中",
+   "incorporated": "2002-06-04",
+   "company_type": "주식회사（벤처）",
+   "sic": [
+    "Fabless 安全芯片 设计（城南板桥）— 行业外"
+   ],
+   "address": "경기 성남시 분당구 판교역로 182, 한국반도체산업협회 4층 (삼평동)",
+   "accounts": "매출 ≈25억원；자본금 5억",
+   "accounts_due": "—",
+   "size_band": "小型（20 人）",
+   "officers": [
+    "이효승 Lee Hyo-seung（John H. Lee）— 대표이사 / CEO（研究档 KP；godinus@neowine.com）= 拍板人 / 收件人",
+    "Dexter Kim — Director（研究档 KP；dexter@neowine.com）= 抄送"
+   ],
+   "psc": "이효승（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**芯片公司 CEO 本人想做代理、无网络渠道 → 分销 20% B small，一页纸一次（切口：直接给「代理」规则：非独家、20% 档、MOQ 1、付费样机（48 口 = STC-448XGGPM 一口价）、T/T 预付、不做技术支持代工；英文，John 直呼、抄 Dexter）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；再无回声 → 不动（行业外）",
+    "守界：不承诺独家 / 不签代理协议；KC 不声称；사업자등록번호 未取 → 部分坐实"
+   ],
+   "notes": "分销 20% small（行业外）；一页纸一次；部分坐实（求职站：代表 = KP + 设立日 + 地址 + 规模；号码未取）。",
+   "code": "SB-070"
+  },
+  "SB-909": {
+   "batch": 116,
+   "name": "대진네트웍스 Daejin Networks（daejinnetworks.com；**设立 2021-01-18（站内另称 2021-03）；CEO 이수봉 Lee Soo-bong**；Room 1207, 278 Beotkkot-ro（벚꽃로）, Geumcheon-gu, Seoul 08511（SJ Technoville, 가산동）；电话 1588-9809 / 02-3397-3610）— **Centec 交换机（V530 / V550 / V580 / V680 + TAP 版、E550 / E580 路由交换机 CTC7148）+ HiSilicon 光模块 韩国分销、SDN 开发、Tibit PON、Vision AI / NVIDIA Jetson；与 대진반도체 Daejin Semiconductor 协同的零件 turnkey**；사업자등록번호 未取 → 部分坐实；表内 info / sales 邮箱均退信",
+   "iso": "KR",
+   "fetched": "2026-10-28",
+   "source": "KR · 1 次检索：daejinnetworks.com/en（Disruptive & Reliable Network Solution Provider；Company established in March 2021；Centec network switch solutions + Hisilicon optic transceivers；SDN solution；Parts turnkey with Daejin Semiconductor；CEO Lee Soo-bong；Date of establishment January 18, 2021；Room 1207, 278, Cherry Blossom-ro, Geumcheon-gu, Seoul 08511 SJ Technoville；TEL 1588-9809 / 02-3397-3610）+ daejinnetworks.com/ethernert-switch（Centec V580 / V530-TAP / V680 / V550 / V550-TAP / V530 / V680-TAP / V580-TAP；E550 / E580 Series Routing Switches）；2026-10-28",
+   "url": "https://www.daejinnetworks.com/en",
+   "number": "未取（사업자등록번호 未得）",
+   "status": "营业中（官网在线）",
+   "incorporated": "2021-01-18",
+   "company_type": "주식회사（推定）",
+   "sic": [
+    "Centec 交换机 / 光模块 韩国分销 + SDN 开发（首尔衿川）— CENTEC 原厂渠道"
+   ],
+   "address": "서울 금천구 벚꽃로 278, SJ테크노빌 1207호 (가산동) 08511",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（2021 新设）",
+   "officers": [
+    "이수봉 Lee Soo-bong — CEO"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Centec 原厂韩国渠道（直拿 V/E 系列）= Saga STH（CENTEC 平台）的同线竞对 + 邮箱全退信 → 不动（B 保留；地址失效）**",
+    "守界：不向 Centec 渠道报 STH 价格"
+   ],
+   "notes": "不动（Centec 直供渠道 + 地址失效）；部分坐实（官网 CEO + 设立日 + 地址；号码未取）。",
+   "code": "SB-909"
+  },
+  "SB-138": {
+   "batch": 116,
+   "name": "定揚科技股份有限公司 Volktek Corp.（volktek.com；**1994 年成立**；台灣新北市中和區連城路192號4樓（總部）+ 苗栗縣竹南鎮國泰路17-1號（廠）；51–200 人）— **光乙太網路轉換器 / 工業交換機 / PoE 製造商（自有 SMT / DIP 產線；電信 / FTTH / 校園骨幹 / 工控 / ITS）**；統編 未取 → 部分坐实；KP Karen Hua（皮凱太，業務專員）/ Joseph Pi：**想 OEM 工業 L2/L3 管理型**、對 bypass 有興趣（已送樣）；8 次跟進無實質回覆；**与 SB-019 AETEK 同址（連城路192-1號）→ 姊妹品牌**",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 2 次检索：第 1 次「Volktek 鉅康科技 …」误中 鉅康科技 NETVOX 96856329（台南，≠）；第 2 次 cake.me（Volktek 定揚科技股份有限公司；成立於1994年；台灣網路通訊轉換器之領導廠商；光乙太網路為核心；51 ~ 200；台灣新北市中和區連城路192號四樓；電信 / 建商 FTTH / 政府校園 / 工控 / ITS）+ zoominfo（Volktek Corp；17-1 Guotai Rd, Zhunan, Miaoli 35057；51-200 employees；switches, media converters, PoE injectors；Established 1994）；統編 未得；2026-10-28",
+   "url": "https://www.cake.me/companies/volktek",
+   "number": "未取（統一編號 两查未得）",
+   "status": "营业中（官网 + 招聘在线）",
+   "incorporated": "1994",
+   "company_type": "股份有限公司",
+   "sic": [
+    "光乙太網路 / 工業交換機 / PoE 製造（新北中和 + 苗栗竹南廠）"
+   ],
+   "address": "新北市中和區連城路192號4樓（總部）/ 苗栗縣竹南鎮國泰路17-1號（廠）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中小（51–200 人）",
+   "officers": [
+    "Karen Hua（皮凱太）— 業務專員（研究档 KP；karen.hua@volktek.com）= 收件人",
+    "Joseph Pi — 研究档联系人（joseph.pi@volktek.com）= 抄送"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**台系工業交換機品牌廠（同行）但明確表達想 OEM 工業 L2/L3 管理型 → 以 OEM 採購方計：貼標 OEM 30% B，一頁紙一次（切口：只給其自產線之外的成本型工業管理機 STI-288DGGPM / STI-488DGGPM / STI-0240GE（Marvell 平台明寫）+ 自編貨號 / 中性包裝 / 付費樣機；bypass 明說沒有；英文，Karen 直呼、抄 Joseph）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動（同行）",
+    "守界：不向同行報 SmartByte 成本結構、不提供應商；統編 未取 → 部分坐实、只做預付"
+   ],
+   "notes": "贴标 OEM 30%（同行例外：明确 OEM 需求）；一页纸一次；部分坐实（招聘站 + ZoomInfo：地址 + 成立年 + 规模；統編未取）。",
+   "code": "SB-138"
+  },
+  "SB-710": {
+   "batch": 116,
+   "name": "KTI Networks Inc.（ktinet.com.tw；**1983 年成立**；總部 15F-7, No. 79, Sec. 1, Hsin Tai Wu Rd., Xizhi, New Taipei；美國 Houston 分公司 + KTI South Europe）— **自有品牌網路產品開發 / 製造 / 行銷（光纖乙太網路、交換機、MC、PoE、工業 KGS / KGC 系列；主銷北美 / 歐洲 / 日本）**；統編 未取 → 部分坐实；表内「工業 FS / MC / SFP 自己的牌子，有人賣他們的」；無 KP（kti@）；9 次跟進無回覆",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 2 次检索：第 1 次「KTI Networks 光紅建聖 …」误中 光紅建聖 EZconn 97119975（≠）；第 2 次 computerhope（KTI Networks founded in 1983 in Taiwan；developer, manufacturer and marketer；Houston TX office）+ ktisoutheurope.com/contact（TAIPEI Headquarters 15F-7, No. 79, Sec. 1, Hsin Tai Wu Rd., Hsi-chih；+886 2 2698 38 78；kti@ktinet.com.tw）+ cablesplususa（KTI Networks brand；R&D, manufacturing, marketing；North America, Europe, Japan；KGS-0840 / KGS-0865 industrial switches）；統編 未得；2026-10-28",
+   "url": "http://www.ktisoutheurope.com/en/contact/",
+   "number": "未取（統一編號 两查未得）",
+   "status": "营业中（官网 + 海外分支在线）",
+   "incorporated": "1983",
+   "company_type": "股份有限公司（推定）",
+   "sic": [
+    "自有品牌 網路 / 工業交換機 製造 + 外銷（新北汐止）— 同行"
+   ],
+   "address": "15F-7, No. 79, Sec. 1, Hsin Tai Wu Rd., Xizhi Dist., New Taipei City",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中小（海外分支）",
+   "officers": [
+    "（研究档无 KP：kti@ktinet.com.tw）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自研自產品牌廠（1983 起、北美 / 歐洲 / 日本自有通路）= 同行，無 OEM 訊號 + 9 次 0 回覆 → 不動（B 保留）**"
+   ],
+   "notes": "不动（同行）；部分坐实（官网 + 海外站：总部地址 + 成立年；統編未取）。",
+   "code": "SB-710"
+  },
+  "SB-820": {
+   "batch": 116,
+   "name": "PRISM Wi-Fi = **普羅通信 Browan Communications Inc. 2022 年推出的企業無線品牌**（prismwifi.com；普羅通信成立 1999（另稱 2002）；新竹（推定，未取址））— **企業級 Wi-Fi 6 / 6E / 7 AP + PrismX 控制器 / 雲平台 + 智能 Mesh；自有 PoE 交換機 MS8P8 / MS12P8 / MS18P16 / MS28P24 / MS52P48（配套，推定外購貼標）**；統編 未取 → 部分坐实；無 KP（sales@）；僅 2 次跟進無回覆",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：prismwifi.com/zh/company（\"PRISM\" 是由普羅通信在 2022 年所推出的無線網路品牌；普羅通信成立於 1999 年；企業級 Wi-Fi 6 與 Wi-Fi 6E；PrismX 控制器；系統整合供應商 / 機場 / 零售 / 酒店 / 政府）+ fierce-network（PRISM is a total new brand of BROWAN COMMUNICATIONS INC., an enterprise wireless equipment provider founded in 2002；PrismX Controller；Wi-Fi 6/6E Mesh）+ x.com/prismwifi（Taiwan）；統編 / 地址 未得；2026-10-28",
+   "url": "https://www.prismwifi.com/zh/company/",
+   "number": "未取（普羅通信 統一編號 未得）",
+   "status": "营业中（品牌站在线）",
+   "incorporated": "1999 / 2002（普羅通信）；品牌 2022",
+   "company_type": "股份有限公司（推定）",
+   "sic": [
+    "企業 Wi-Fi 品牌 + 配套 PoE 交換機（台灣）"
+   ],
+   "address": "未取（普羅通信：新竹，推定）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "（研究档无 KP：sales@prismwifi.com）"
+   ],
+   "psc": "普羅通信 Browan（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Wi-Fi 品牌、PoE 交換機為配套（MS 系列推定外購）→ 貼標 OEM 30% B，一頁紙一次（切口：對位其 MS8P8 / MS12P8 / MS18P16 / MS28P24 / MS52P48 全系的 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM / STC-448XGGPM 階梯價 + PRISM 標 / 自編貨號 / 中性包裝 + 付費樣機；英文，收 sales@）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；回信 → 加厚",
+    "守界：不點名其現供應商；統編 未取 → 部分坐实、只做預付；BSMI 不聲稱"
+   ],
+   "notes": "贴标 OEM 30%；一页纸一次（回声再加厚）；部分坐实（品牌站 + 媒體：母公司 + 成立年；統編 / 地址未取）。",
+   "code": "SB-820"
+  },
+  "SB-946": {
+   "batch": 116,
+   "name": "嚮樂科技股份有限公司 INTRISING NETWORKS, INC.（intrising.com.tw；**統一編號 53116727；國貿局登記 2015-06-02；代表人 李金璋**；臺北市南港區園區街3號14樓之6；電話 02-2790-6867）— **工業 L3 / IEC 61850-3 變電站 / TSN 10G / PTP 時間 / AV-over-IP 交換機自研（ISO 9001:2015 設計 / 開發 / 生產）**；政府標案（台灣中油 2023）；KP Ken Lee（kenlee@ = 官網聯絡信箱；與代表人 李金璋 疑同人）；19 次跟進無回覆",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：twfile（嚮樂科技股份有限公司 INTRISING NETWORKS, INC.；統編 53116727；代表人 李金璋；02-27906867；臺北市南港區園區街3號14樓之6；國貿局原始登記 20150602 / 核發 20240614；政府標案 台灣中油 壓縮機控制系統配件 廠牌 Intrising 112/08/11 160,000）+ intrising.com.tw（IEC 61850-3；Industrial L3；PTP；T Series 10G TSN；ISO 9001:2015 Afnor；kenlee@intrising.com.tw）；2026-10-28",
+   "url": "https://www.twfile.com/%E5%9A%AE%E6%A8%82%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/53116727",
+   "number": "統一編號 53116727",
+   "status": "核准設立 / 營業中",
+   "incorporated": "≤2015（國貿局 2015-06-02）",
+   "company_type": "股份有限公司",
+   "sic": [
+    "工業 L3 / 變電站 / TSN 交換機 自研（台北南港）— 同行"
+   ],
+   "address": "臺北市南港區園區街3號14樓之6",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "李金璋 — 代表人（KP Ken Lee kenlee@ 疑同人）"
+   ],
+   "psc": "李金璋（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自研工業 L3 / 61850 交換機品牌 = 同行，功能層高於 Saga 工業線，19 次 0 回覆 → 不動（B 保留）**"
+   ],
+   "notes": "不动（同行）；坐实（統編 + 代表人 + 地址 + 國貿局登記）。",
+   "code": "SB-946"
+  },
+  "SB-715": {
+   "batch": 116,
+   "name": "National Enhance Technology Corp.（Netsys；netsys.com.tw；**1999-06 成立**；9F, No. 208, Sec. 3, Datong Rd., Xizhi Dist., New Taipei 221；電話 +886-2-6616-2880）— **VDSL2 / HPNA LAN 延長器、MC、IP DSLAM、工業方案、10G SFP+ 品牌廠（自有品牌，有人賣他們的）**；11–50 人；統編 未取 → 部分坐实；無 KP（sales@；ContactOut 列 Iris Kao 執秘 / Jason Kung AM / Stone Yu 等業務）；9 次跟進無回覆",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：ampliz（Netsys - National Enhance Technology Corporation；9F, No. 208, Sec. 3, Tatung Rd., Hsi Chih Dist., New Taipei City 221；+886266162880；Founded 1999；11-50；VDSL2 Media Converters / HPNA / IP DSLAMS / Network Extenders；established in June 1999）+ contactout（{first}@netsys.com.tw；Iris Kao Executive Secretary；Jason Kung Account Manager；Stone Yu / Ann Huang / Grace Chang / Rosa Lai Sales）+ netsys.com.tw NV-202 手冊（Copyright National Enhance Technology Corp.）；統編 未得；2026-10-28",
+   "url": "https://www.ampliz.com/company/netsys-national-enhance-technology-corporation/89689431",
+   "number": "未取（統一編號 未得）",
+   "status": "营业中（官网在线）",
+   "incorporated": "1999-06",
+   "company_type": "股份有限公司（Corp.）",
+   "sic": [
+    "LAN 延長器 / MC / DSLAM 品牌廠（新北汐止）"
+   ],
+   "address": "9F, No. 208, Sec. 3, Datong Rd., Xizhi Dist., New Taipei City 221",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "（研究档无 KP：sales@netsys.com.tw；ContactOut 業務名單 Jason Kung AM / Iris Kao 執秘，邮箱格式 first@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**延長器 / MC 為主業的品牌廠，交換機非核心（推定外購）→ 貼標 OEM 30% B small，一頁紙一次（切口：補其 NM 系列之外的 PoE / 工業交換機：STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM + Netsys 標 / 自編貨號 / MOQ 1 / 付費樣機；MC / 延長器明說不做；英文，收 sales@）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動",
+    "守界：統編 未取 → 部分坐实、只做預付；BSMI 不聲稱"
+   ],
+   "notes": "贴标 OEM 30% small；一页纸一次；部分坐实（企业库 + 官网：地址 + 成立年 + 规模；統編未取）。",
+   "code": "SB-715"
+  },
+  "SB-947": {
+   "batch": 116,
+   "name": "ISON Technology Co., Ltd.（ison-tech.com；**統一編號 24728059；2015 年成立；桃園市；實收資本額 NT$40,619,030**）— **工業網路品牌「Industrial Solution Over Network」：工業交換機 / 工業 PoE / 轉換器 / 串口 / 商用交換機 / 工業無線 + 自動化系統規劃（FA / 電力 / ITS / 監控 / 鐵路 / 油氣）；站內型號 IS-RH709 / IS-DF208T / ECS4150-54P（= Edgecore 機型 → 外購貼牌）**；無 KP（sales@）；19 次跟進無回覆",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：findit.org.tw（ISON TECHNOLOGY CO., LTD.；Founded 2015；Unified Business No. 24728059；Active；Total Paid-in Capital 40,619,030 NT$；Taoyuan City；Industrial Switch / Industrial PoE / Converter / Serial / Commercial Switch / Accessories / Industrial Wireless；Factory Automation, Power Utility, ITS, IP Surveillance, Railway, Oil & Gas）+ x.com/ISON92493620（Taipei；Patented product）+ LinkedIn（New Taipei City）；2026-10-28",
+   "url": "https://findit.org.tw/en/Startup/TTcwMWw3akJoUW5pZTFLbS95cnBBZz09/Basic",
+   "number": "統一編號 24728059",
+   "status": "Active",
+   "incorporated": "2015",
+   "company_type": "股份有限公司",
+   "sic": [
+    "工業網路品牌（外購貼牌）+ 自動化系統規劃（桃園）"
+   ],
+   "address": "桃園市（詳址未取）",
+   "accounts": "實收資本額 NT$40.6M",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（研究档无 KP：sales@ison-tech.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工業網路品牌商、站內含 Edgecore 機型 = 外購貼牌 → 貼標 OEM 30% B，一頁紙一次（切口：工業 PoE / 管理機 STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE + 商用 STC-2224GP / STC-4424GCPM + ISON 標 / 自編貨號 / 中性包裝 / 付費樣機；電力 61850 / 鐵路 EN 50155 明說不做；英文，收 sales@）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；回信 → 加厚",
+    "守界：鐵路 / 電力 / 油氣防爆不碰；不點名 Edgecore；BSMI 不聲稱"
+   ],
+   "notes": "贴标 OEM 30%；一页纸一次（回声再加厚）；坐实（FINDIT 統編 + 成立年 + 資本額 + 市）。",
+   "code": "SB-947"
+  },
+  "SB-019": {
+   "batch": 116,
+   "name": "高譽科技股份有限公司 AETEK Inc.（aetektec.com；6F, No. 192-1, Lien-Cheng Rd., Zhonghe Dist., New Taipei City 235（舊址 五股區五工三路106巷3號）；電話 +886-2-8245-2822；asmag 聯絡人 李慧玉）— **PoE 專業品牌（天花板嵌入式管理型 PoE 交換機專利、L2 PRO PoE、EPoX 延長、PoE 供電器 / 分離器 / 浪湧、戶外備援 PoE 機櫃；NDAA / TAA 合規產品表；Hanwha / Axis 生態）**；11–50 人；**與 SB-138 Volktek 同址（連城路192號）→ 姊妹品牌**；統編 未取 → 部分坐实；KP John (Jone) Chen = Product Manager：有時需要便宜方案可找 Saga、可能他們出軟體 Saga 出硬體、推了 2 光 10 電；8 次跟進無實質回覆",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：aetektec.com NDAA/TAA 聲明 PDF（AETEK Inc.；6F, No. 192-1, Lien-Cheng Rd., Chung-Ho Dist., New Taipei City 235；Tel +886-2-8245-2822；NDAA & TAA Compliant Product List：Managed PoE Switch C50 / C60 / C70 / D51 / H60 / H80 Series 等）+ asmag.com.tw（高譽科技股份有限公司 AETEK Inc.；新北市五股區五工三路106巷3號；聯絡人 李慧玉；PoE 供電器 60W / 90W）+ zoominfo（AETEK 11-50 employees；Jone Chen Product Manager；Rita Huang）；統編 未得；2026-10-28",
+   "url": "https://www.aetektec.com/Document/Download/dbd0c9ef-c308-4de4-b579-12306817e51b",
+   "number": "未取（統一編號 未得）",
+   "status": "营业中（官网在线）",
+   "incorporated": "未取",
+   "company_type": "股份有限公司",
+   "sic": [
+    "PoE 專業品牌（交換機 / 延長 / 供電 / 機櫃）（新北中和；Volktek 姊妹）"
+   ],
+   "address": "6F, No. 192-1, Lien-Cheng Rd., Zhonghe Dist., New Taipei City 235",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Jone (John) Chen — Product Manager（研究档 KP；jone.chen@aetektec.com）= 收件人",
+    "李慧玉 — asmag 聯絡人"
+   ],
+   "psc": "Volktek 集團（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**PoE 品牌、PM 本人說過「便宜方案可找 Saga / 他們軟體 + Saga 硬體」→ 貼標 OEM 30% B，一頁紙一次（切口：對位「2 光 10 電」的 STC-228GP（8 PoE + 2 GE + 2 SFP）/ STC-2216GP + 管理機 STC-4424GCPM（Marvell）一口價 + AETEK 標 / 自編貨號 / 中性包裝 + 付費樣機；NDAA / TAA 明說無法聲稱；英文，John 直呼）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；回信 → 加厚",
+    "守界：不提 NDAA / TAA / UL；與 Volktek（SB-138）同集團 → 兩戶一線、不重複報價；統編 未取 → 部分坐实"
+   ],
+   "notes": "贴标 OEM 30%；一页纸一次（回声再加厚）；部分坐实（官网文件地址 + 电话 + 行业站中文名 + ZoomInfo KP 职务；統編未取）。",
+   "code": "SB-019"
+  },
+  "SB-702": {
+   "batch": 116,
+   "name": "康聯訊科技股份有限公司 Connection Technology Systems Inc.（CTS；ctsystem.com；**上櫃 TPEx 3672；統一編號 16744506；設立 1998-10-06；董事長 / 總經理 陳友信**；新北市汐止區新台五路一段79號18F-6（廠 16F-6，生產中）；電話 02-2698-9661；資本額 NT$407,903,750；法人股東 環隆科技 / 世譽先進）— **光通訊 / 工業 PoE 管理交換機自研自產（IPS-3110 / SRS-3106-4BT / EPS-5112-8BT / EPS-3128）；瑞典 / 奧地利辦事處**；KP Koichi Ito（已加微信）；8 次跟進無回覆",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：twincn（康聯訊科技股份有限公司 Connection Technology Systems Inc.；統編 16744506；上櫃 3672 康聯訊 (CTS)；代表人 陳友信；02-26989661；新北市汐止區新台五路1段79號18樓之6；設立日期 087年10月06日；登記工廠 汐止廠 16樓之6 生產中；資本額 407,903,750；國貿局 19981020；董事長 / 總經理 陳友信；發言人 簡慧瑩 財務長）+ ctsystem.com 107 年度年報 PDF；2026-10-28",
+   "url": "https://twincn.com/item.aspx?no=16744506",
+   "number": "統一編號 16744506 / TPEx 3672",
+   "status": "上櫃 / 核准設立 / 營業中",
+   "incorporated": "1998-10-06",
+   "company_type": "股份有限公司（上櫃）",
+   "sic": [
+    "光通訊 / 工業 PoE 交換機 自研自產（新北汐止）— 同行"
+   ],
+   "address": "新北市汐止區新台五路一段79號18樓之6",
+   "accounts": "資本額 NT$407.9M（上櫃，公開資訊觀測站可查）",
+   "accounts_due": "—",
+   "size_band": "中型（上櫃）",
+   "officers": [
+    "陳友信 — 董事長 / 總經理",
+    "Koichi Ito — 研究档 KP（koichi_ito@ctsystem.com；已加微信）",
+    "簡慧瑩 — 財務長 / 發言人"
+   ],
+   "psc": "環隆科技 / 世譽先進 等法人股東",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上櫃自研自產光通訊 / PoE 交換機廠 = 同行，無 OEM 訊號 + 8 次 0 回覆 → 不動群發（B 保留；微信在 Simon 手上，有需求對方會來）**"
+   ],
+   "notes": "不动（同行 上櫃）；坐实（統編 + 上櫃代號 + 代表人 + 地址 + 設立日 + 資本額）。",
+   "code": "SB-702"
+  },
+  "SB-812": {
+   "batch": 116,
+   "name": "Ethernet Direct Corporation（ethernetdirect-tw.com / ethernetdirect-jp.com；**北美 GSA 核准公司：紐約銷售 + 加州物流；台灣站 + 日文站；統編 / 台灣實體 未取**）— **工業乙太網路品牌（Cobra 系列工業 PoE / PoE++ 95W 管理 / 非管理交換機、注入器、分離器；5 年保；自稱與 Moxa / Hirschmann 同級只差價格）**；無 KP（sales@ethernetdirect-tw.com）；6 次跟進無回覆",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：ethernetdirect-tw.com/aboutus（Ethernet Direct is a leading solution provider of industrial networking；In North America, Ethernet Direct operates with a GSA approved company；sales team in New York, logistic operations in California；Ethernet Direct, Moxa and Belden brands Hirschmann & GarrettCom are premium industrial Ethernet switches, they only differ in price；5 years warranty；up to 28 ports 1GbE；PoE++）+ press/jun-2020（Ethernet Direct Corporation, California；Cobra series 95W PoE++）+ press/jun-2015（CME-822E / CUE-822 / CUE-411 / CUE-413）；台灣統編 未得；2026-10-28",
+   "url": "https://www.ethernetdirect-tw.com/aboutus.html",
+   "number": "未取（台灣統編 / 美國實體 未得）",
+   "status": "营业中（官网在线）",
+   "incorporated": "≥2005（「over a decade」2015 年自述）",
+   "company_type": "Corporation（美國）+ 台灣站",
+   "sic": [
+    "工業乙太網路品牌（Cobra 系列；北美 GSA）"
+   ],
+   "address": "未取（台灣聯絡站；美國 NY 銷售 / CA 物流）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（研究档无 KP：sales@ethernetdirect-tw.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工業品牌商（推定 ODM 外購、北美通路）→ 貼標 OEM 30% B small，一頁紙一次（切口：Cobra 線的成本型補位 STI-154GP / STI-288DGGPM / STI-488DGGPM（宽温、PoE+）+ 自編貨號 / 中性包裝 / 付費樣機；GSA / NDAA 明說無法聲稱；英文，收 sales@）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動",
+    "守界：不提 GSA / NDAA / TAA；主體未坐實 → 只做預付；稿内不比 Moxa / Hirschmann"
+   ],
+   "notes": "贴标 OEM 30% small；一页纸一次；未坐实（官网自述；統編 / 实体未取）。",
+   "code": "SB-812"
+  },
+  "SB-952": {
+   "batch": 116,
+   "name": "名翔電子有限公司 MSTronic Co., Ltd.（mse.com.tw；**統一編號 23804228**；電話 +886-2-2293-0159（新北）+ 英國 +44 7522 399644）— **PoE 注入器 / 分離器 / 24VAC PoE / DIN PoE / 太陽能 PoE / 浪湧 / DC UPS 製造商（Country of Origin Taiwan；「offering the most PoE solutions in the world」；OEM / ODM；EN 50155 / EN 60945 / UL 497B 站內）；PoE 交換機為配套線**；KP Arthur（arthur@）；表内「商業 + 工業 PoE + 配件，自己的 logo，工業白色外殼」；19 次跟進無回覆",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：mse.com.tw 頁腳（名翔電子有限公司 | 統一編號: 23804228；+886-2-2293-0159；+44 (0)7522 399644；PoE Switch, PoE Injector, PoE Repeater；1U Rackmount PoE / 10G PoE / IP66/IP67/M12 / EN60945/EN50155 / AC PoE；24VAC PoE Injector / Splitter MIT-98G / MIT-24G / MIT-28G；Country of Origin: Taiwan；Brand Name: MSE）；2026-10-28",
+   "url": "https://www.mse.com.tw/en/product-c157118/24VAC-PoE.html",
+   "number": "統一編號 23804228",
+   "status": "营业中（官网在线）",
+   "incorporated": "未取",
+   "company_type": "有限公司",
+   "sic": [
+    "PoE 供電配件 製造（注入器 / 分離器 / 浪湧）（新北）"
+   ],
+   "address": "未取（電話 02-2293 → 新北五股 / 新莊一帶）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Arthur — 研究档 KP（arthur@mse.com.tw）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**PoE 配件自產、交換機為配套線（推定外購）→ 貼標 OEM 30% B small，一頁紙一次（切口：補其 PoE 交換機線 STC-028GP / STC-228GP / STC-2224GP（PoE+ 30 W / 口）+ 工業 STI-154GP / STI-288DGGPM + MSE 標 / 自編貨號 / 中性包裝 / 付費樣機；EN 50155 / EN 60945 / IP67 明說不做；英文，Arthur 直呼）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動",
+    "守界：不提 UL；不做注入器 / 分離器；BSMI 不聲稱"
+   ],
+   "notes": "贴标 OEM 30% small；一页纸一次；坐实（页脚 統編 + 公司中文名 + 电话；地址未取）。",
+   "code": "SB-952"
   }
  }
 }
