@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,6 +88,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 105 批（TR · 1 次检索：官网首页（Emek Mahallesi Bişkek Caddesi 8. Cadde No:32/4 Emek – Ankara；+90 (312) 806 35 29；info@teamon.com.tr）+ Hakkımızda（Teamon İletişim Teknolojileri；sistem entegratörü kimliği；anahtar teslim çözümler）+ 产品页（Intracom IC-IMW AP-E 等）；法定名 / MERSİS 未命中；同名 Team Bilgi Teknolojileri（Kadıköy 1999）为他家，不采，2026-10-28 查；https://teamon.com.tr/hakkimizda）：**
+
+- 法定名 / 登记号：TeamOn Teknoloji Çözümleri（Teamon İletişim Teknolojileri；teamon.com.tr；**安卡拉 Emek**）— 系统集成商 / IT 经销商（在售 PLANET、Allied Telesis、Netgear、Ruijie、Teltonika、D-Link、TP-Link、Intracom；交钥匙 ICT 方案与维护）；法定形式 / MERSİS 未取 → 部分坐实；研究档 KP info@；群发 2 次无回复 · 未取（商号 TeamOn Teknoloji Çözümleri；法定形式 / MERSİS 未取 → 部分坐实） · 状态 **Active（站点在线）** · 成立 未取 · 未取（疑 Ltd.）
+- 行业码 / 经营范围：ICT 系统集成与设备经销（网络 / 无线 / 安防；多品牌含 PLANET）
+- 注册地址：Emek Mah. Bişkek Cad. 8. Cadde No:32/4, Emek / Ankara
+- 规模档：小型（推定 5–20 人）
+- 账目：—；—
+- 高管：无具名（info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已卖 PLANET 的安卡拉集成商 → 分销 20% / 集成商 25% small，一页纸即止**：STC-228GP / STC-2224GP / STI-288DGGPM（PLANET 价位替代，不点名）；不加厚；无回复 → `不动`
+  - 收件人 info@ 点名 satın alma / proje müdürü；发信窗口 Thu 10–12 TRT；城市 = 安卡拉
+- 备注：分销 20% / 集成商 small；一页纸；部分坐实；城市 = 安卡拉。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,16 +142,17 @@ updated: 2026-10-27
 - **【用户表】switch；主要是几个有名的牌子**
   > 兴趣：switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（未具名）（）info@teamon.com.tr +90 312 806 35 29〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（未具名）（info@（点名 satın alma / proje müdürü）（第 105 批 官方登记核实 2026-10-28））info@teamon.com.tr +90 312 806 35 29〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | TeamOn Teknoloji Çözümleri |
+| 法定名称 | TeamOn Teknoloji Çözümleri / Teamon İletişim Teknolojileri（**安卡拉 Emek**；法定形式 / MERSİS 未取 → 部分坐实） |
+| 成立 | 未取（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Ankara, Türkiye |
-| 其他 | PLANET 在售 |
+| 其他 | PLANET 在售；第 105 批：安卡拉 ICT 系统集成商 / 多品牌经销（在售 PLANET、Allied Telesis、Netgear、Ruijie 等）→ **分销 20% / 集成商 small；一页纸（PLANET 价位替代，不点名）后不动**（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 方案 / 网络设备经销
 - **触达通道（公开）**：role: 经销商（PLANET 在售）；region: 土耳其
@@ -318,12 +333,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

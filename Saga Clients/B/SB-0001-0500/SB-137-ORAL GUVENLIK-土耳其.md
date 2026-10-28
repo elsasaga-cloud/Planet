@@ -82,6 +82,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 105 批（TR · 1 次检索：oralcompanies.com（Oral Companies 1982 起 KKTC；旗下 Oral Güvenlik Sistemleri / Oral Alüminyum / Oral Çelik Yapı / Oral Fotoğrafçılık / Lider Çerçeve / Alvino Tekstil）+ aeroleads（Oral Güvenlik Sistemleri；2008；6 人；Metin Oral Business Owner；Muhammad Azeem Manager）+ Facebook（Nicosia, Cyprus）+ RocketReach（6 人；Mevlüt Önal 技术员）+ ilan.kktc.com（Lefkoşa 招聘）；KKTC 登记号未取，2026-10-28 查；https://www.oralcompanies.com/）：**
+
+- 法定名 / 登记号：Oral Güvenlik Sistemleri（Oral Companies 旗下；oralguvenlik.com；**北塞浦路斯（KKTC）尼科西亚 — 表内归土耳其，货物经土耳其走**）— Oral Companies（1982 起；钢门 / 铝幕墙 / 钢结构 / 纺织 / 摄影）2008 年设立的安防零售 / 安装单元（Hikvision NVR / 摄像机、Ttec 机柜网店）；≈6 人；业主 Metin Oral；经理 Muhammad Azeem；KKTC 公司登记不可达 → 部分坐实；表内 1 次跟进无回复 · 未取（KKTC 公司登记不可达 → 部分坐实）；母体 Oral Companies · 状态 **Active（站点 / 招聘在线）** · 成立 2008（安防单元）；集团 1982 · 家族集团子单元（Metin Oral）
+- 行业码 / 经营范围：电子安防零售 / 安装（CCTV Hikvision、报警、机柜网店；KKTC 市场）
+- 注册地址：Lefkoşa（尼科西亚），KKTC（门牌未取；+90 392 228 33 30）
+- 规模档：小微（≈6 人）
+- 账目：—；—
+- 高管：Metin Oral — Business Owner（Oral Companies）= 拍板人
+- 高管：Muhammad Azeem (Ullah) — Manager = 研究档 KP = 收件人（info@）
+- 控制人 / 股东：Metin Oral
+- **这意味着什么：**
+  - **KKTC 小型安装商（Hikvision 配套）→ 集成商 25% small，一页纸即止**：STC-028GP / STC-228GP（摄像机 PoE）；不加厚；无回复 → `不动`
+  - 收件人 info@ 点名 Muhammad Azeem；发信窗口 Thu 10–12（KKTC 与 TRT 同时区）；稿内 CE / RoHS，物流经土耳其（DAP 伊斯坦布尔或 FOB 深圳）
+- 备注：集成商 25% small；一页纸；部分坐实；地点 = 北塞浦路斯（表内 TR，不改 country_fix）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,18 +129,18 @@ updated: 2026-10-28
 - **【用户表】ISAF 互动：报价 $150/$90，嫌贵；收发器**
   > 问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Muhammad Azeem (Ullah)（Manager（名录公开））info@oralguvenlik.com（用户表） +90 392 228 33 30〔https://aeroleads.com/c/oralguvenliksistemleri〕
-- **KP**：Metin Oral（Business Owner（名录公开））— —〔https://aeroleads.com/c/oralguvenliksistemleri〕
+- **KP**：Muhammad Azeem (Ullah)（Manager = 收件人本人（第 105 批 官方登记核实 2026-10-28））info@oralguvenlik.com（用户表） +90 392 228 33 30〔https://aeroleads.com/c/oralguvenliksistemleri〕
+- **KP**：Metin Oral（Business Owner（Oral Companies，1982 起）= 拍板人（第 105 批 官方登记核实 2026-10-28））— —〔https://aeroleads.com/c/oralguvenliksistemleri〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Oral Güvenlik Sistemleri（Oral Companies） |
-| 成立 | 2008 |
+| 法定名称 | Oral Güvenlik Sistemleri（Oral Companies 旗下；**北塞浦路斯 KKTC 尼科西亚**；KKTC 登记不可达 → 部分坐实） |
+| 成立 | 2008（安防单元）；集团 1982（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Lefkoşa (Nicosia), KKTC（+90 392 228 33 30；info@oralguvenlik.com） |
-| 其他 | Hikvision 零售；Ttec 机柜；SambaPOS 经销；网店 |
+| 其他 | Hikvision 零售；Ttec 机柜；SambaPOS 经销；网店；第 105 批：KKTC 小型安防零售 / 安装（Hikvision；≈6 人）→ **集成商 25% small；一页纸后不动**；表内 TR 不改 country_fix，物流经土耳其（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防摄像/NVR 零售与安装（Hikvision）；POS/IT 配件
 - **触达通道（公开）**：网店: https://www.oralguvenlik.com/；电话: +90 392 228 33 30（公开）；邮箱（公开）: info@oralguvenlik.com
@@ -180,8 +195,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Muhammad Azeem (Ullah) | Manager（名录公开） | info@oralguvenlik.com（用户表） / +90 392 228 33 30 | 调研核实（公开页） | https://aeroleads.com/c/oralguvenliksistemleri |
-| Metin Oral | Business Owner（名录公开） | — / — | 调研核实（公开页） | https://aeroleads.com/c/oralguvenliksistemleri |
+| Muhammad Azeem (Ullah) | Manager = 收件人本人（第 105 批 官方登记核实 2026-10-28） | info@oralguvenlik.com（用户表） / +90 392 228 33 30 | 调研核实（公开页） | https://aeroleads.com/c/oralguvenliksistemleri |
+| Metin Oral | Business Owner（Oral Companies，1982 起）= 拍板人（第 105 批 官方登记核实 2026-10-28） | — / — | 调研核实（公开页） | https://aeroleads.com/c/oralguvenliksistemleri |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

@@ -6290,7 +6290,7 @@
    "p1": "STC-424XGGM",
    "tier": 25,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1084": {
@@ -8292,7 +8292,7 @@
    "p1": "STC-448XGGMO",
    "tier": 25,
    "signals": 1,
-   "kp": 0,
+   "kp": 2,
    "summary": true
   },
   "SB-144": {
@@ -12978,7 +12978,7 @@
    "p1": "STC-424XGGM",
    "tier": 25,
    "signals": 1,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-357": {
@@ -17070,7 +17070,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-543": {
@@ -22636,7 +22636,7 @@
    "p1": "STI-080GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-796": {
@@ -22768,7 +22768,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 3,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-802": {

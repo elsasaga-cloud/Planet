@@ -75,6 +75,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 105 批（DE · 1 次检索：官网 AGB（BWsystems – Hans-Georg Werner；Vertreten durch Hans-Georg Werner；Pritstabelstraße 52A 12557 Berlin；ebay@bwsystems.de；USt-ID DE137120780）+ meinestadt 名录（Hans-Georg Werner BW-Systems；Pritstabelstr. 52a；030 65880749；service@bwsystems.de；软件开发 / IT 咨询 / 培训）+ Das Örtliche / Telefonbuch（同址；Software）+ haendlerschutz（Onlineshops；Computer, Tablets & Netzwerk）；个体经营无 HRB，2026-10-28 查；http://www.bwsystems.de/agb.htm）：**
+
+- 法定名 / 登记号：BWsystems – Hans-Georg Werner（bwsystems.de；柏林 Köpenick）— 个体经营（Einzelunternehmen，无 HRB）：IT 服务 / 软件 / 网络设备 eBay 网店（USt-ID DE137120780）；表内阿里巴巴 RFQ「2+8 千兆商业 PoE」；KP Hans-Georg Werner = 业主本人；表内未跟进 · Einzelunternehmen（无 HRB）；USt-ID DE137120780 · 状态 **Active（名录在线）** · 成立 未取 · 个体经营（Hans-Georg Werner）
+- 行业码 / 经营范围：IT 服务 / 软件 / 网络设备网店（eBay）
+- 注册地址：Pritstabelstraße 52A, 12557 Berlin（Köpenick）
+- 规模档：小微（1 人）
+- 账目：—；—
+- 高管：Hans-Georg Werner — Inhaber = 研究档 KP = 收件人（service@）
+- 控制人 / 股东：Hans-Georg Werner
+- 曾用名：BW-Systems
+- **这意味着什么：**
+  - **一人 IT 店，阿里 RFQ 2+8 PoE → 采购型 small，一页纸（直接报 STC-228GP $33 / STC-028GP $28）后不动**
+  - 收件人 service@ 直呼 Herr Werner；发信窗口 Thu 12–14 CET
+- 备注：采购型 small；一页纸（报价）后不动；坐实（USt-ID）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -101,15 +116,17 @@ updated: 2026-10-28
 - **【用户表】2+8 千兆商业 PoE RFQ**
   > 2+8千兆商业PoE / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hans Georg Werner（）service@bwsystems.de 〔用户表〕
+- **KP**：Hans-Georg Werner（Inhaber（Einzelunternehmen；USt-ID DE137120780）= 收件人本人（第 105 批 官方登记核实 2026-10-28））service@bwsystems.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | BWsystems – Hans-Georg Werner（柏林 Köpenick Pritstabelstraße 52A；个体经营，无 HRB；USt-ID DE137120780） |
+| 成立 | 未取（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 bwsystems.de，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 bwsystems.de，语言 ?，快照状态 http_error；角色判定来源：待核；第 105 批：一人 IT 店 / eBay 网店（阿里 RFQ 2+8 PoE）→ **采购型 small；一页纸直接报 STC-228GP / STC-028GP 后不动**（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：系统集成（德国，待核）
 - **触达通道（公开）**：role: 系统集成商（德国，2+8 PoE RFQ）；region: 德国；contact: service@bwsystems.de
@@ -159,7 +176,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hans Georg Werner | — | service@bwsystems.de | 调研核实（公开页） | 用户表 |
+| Hans-Georg Werner | Inhaber（Einzelunternehmen；USt-ID DE137120780）= 收件人本人（第 105 批 官方登记核实 2026-10-28） | service@bwsystems.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

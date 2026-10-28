@@ -79,6 +79,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 105 批（TR · 1 次检索：官网 İletişim（Firma Adı NRL Teknoloji İletişim San. ve Tic. Ltd. Şti；Yıldırım Mah. Havai Sokak No:4/B Bayrampaşa İstanbul；(0212) 875 1522；info@fiberden.com；Tuna Vergi Dairesi；Vergi Numarası 6320974310）+ 产品页页脚（同法定名同址）+ YouTube @Fiberden（2021 起）；MERSİS 未取，2026-10-28 查；http://www.fiberden.com/iletisim）：**
+
+- 法定名 / 登记号：NRL Teknoloji İletişim San. ve Tic. Ltd. Şti.（品牌站 Fiberden；fiberden.com；伊斯坦布尔 Bayrampaşa）— 光纤产品网店（光缆 / 尾纤 / 配线、V-SOL ONT / OLT、PoE 交换机、SFP、媒体转换器；YouTube 自装光纤教程）；Vergi No 6320974310（Tuna VD）；研究档无 KP；表内 2 次跟进无回复 · Vergi No 6320974310（Tuna VD）；Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · 状态 **Active（网店在营）** · 成立 未取 · Limited Şirket（私有）
+- 行业码 / 经营范围：光纤与接入网产品电商 / 批发（光缆、无源配线、V-SOL ONT/OLT、PoE 交换机、SFP、MC）
+- 注册地址：Yıldırım Mah. Havai Sok. No:4/B, Bayrampaşa / İstanbul
+- 规模档：小微（推定 <10 人）
+- 账目：—；—
+- 高管：无具名（info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **光纤网店（PoE / MC 已有类目）→ 分销 20% small，一页纸即止**：STC-028GP / STC-228GP / STI-144GP / STC-110XGE（配 ONT / 光纤工程的 PoE + 光口小机）；不加厚；2 次无回复 → 二次触达一次后 `不动`
+  - 收件人 info@ 点名 satın alma；发信窗口 Thu 10–12 TRT
+- 备注：分销 20% small；一页纸；坐实（Vergi No）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,8 +146,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | NRL Teknoloji İletişim San. ve Tic. Ltd. Şti.（品牌站 Fiberden；İstanbul Bayrampaşa；Vergi No 6320974310 Tuna VD；MERSİS 未取） |
+| 成立 | 未取（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 fiberden.com，语言 tr-TR，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 fiberden.com，语言 tr-TR，快照状态 ok；角色判定来源：待核；第 105 批：光纤产品网店（光缆 / 配线 / V-SOL ONT·OLT / PoE / SFP / MC）→ **分销 20% small；一页纸；2 次无回复 → 二次一次后不动**（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤 / FTTH 产品网店
 - **触达通道（公开）**：role: 光纤产品网店（土耳其，FTTH 为主）；region: 土耳其；contact: info@fiberden.com

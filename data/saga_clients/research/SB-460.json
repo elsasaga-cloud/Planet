@@ -29,7 +29,8 @@
    "title": "CEO",
    "email": "mk@4g-gmbh.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Geschäftsführer（2023-06 起，单独代表；Münster HRB 15069 在册）= 收件人本人（第 105 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -41,7 +42,9 @@
  },
  "company_facts": {
   "hq": "德国",
-  "other": "官网 4g-gmbh.de，语言 ?，快照状态 unreachable；角色判定来源：用户表"
+  "other": "官网 4g-gmbh.de，语言 ?，快照状态 unreachable；角色判定来源：用户表；第 105 批：电驱动技术开发 / 生产小厂（Shopify 光旁路配件已成交零星，「珊姐跟进了」）→ **采购型 small；复购一页纸后不动；成单客户只记档监控不群发**（第 105 批 官方登记核实 2026-10-28）",
+  "legal_name": "4G GmbH（Amtsgericht Münster HRB 15069；Sendenhorst Industrieweg 19；股本 €63,000；原 Westhoff Engineering GmbH）",
+  "founded": "2014-07-04（第 105 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT / 网络（德国，待核）"

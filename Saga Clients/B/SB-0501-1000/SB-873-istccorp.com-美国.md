@@ -79,6 +79,20 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 105 批（US · 1 次检索：opengovus SAM（Istc · International Security and Trading Corp.；UEI ZR9SDV9PUY65；business started 1995-03-27；8880 Nw 18th Terrace Doral FL 33172-2642）+ Bloomberg（International Security and Trading Corp；founding 1995-02-27）+ LinkedIn（ISTC Corp.；51–200；Miami；1995；安防 / 网络 / 布线）+ 官网 BDCOM 页（ISTC has the distribution for all of Latin America and the Caribbean）+ 官网 Contact（Miami HQ 8880 NW 18th Terrace Doral；+1 305 594 4141；marketing@；拉美各办公室）+ Ventas de Seguridad（1995 成立；25+ 国）+ RocketReach（$41.8M；168 人）；FL Sunbiz 文件号未取，2026-10-28 查；https://opengovus.com/sam-entity/ZR9SDV9PUY65）：**
+
+- 法定名 / 登记号：International Security and Trading Corp.（ISTC Corp.；istccorp.com；Doral / Miami, Florida；SAM UEI ZR9SDV9PUY65；业务 1995-02-27 起）— 拉美与加勒比电子安防区域分销商（迈阿密总部 + 墨西哥城 / 蒙特雷 / 哥斯达黎加 / 巴拿马 / 哥伦比亚 / 阿根廷 / 智利 / 圣保罗 8 处办公室；**BDCOM 全拉美与加勒比分销**；火灾、CCTV、门禁、布线、网络）；51–200 人（≈168），$25–50M 口径；研究档无 KP；表内「全线产品」「BDCOM」1 次跟进无回复 · SAM UEI ZR9SDV9PUY65；FL Corporation（Sunbiz 号未取） · 状态 **Active（SAM 在册；2026 站点更新）** · 成立 1995-02-27 · Corporation（私有；区域分销集团）
+- 行业码 / 经营范围：电子安防 / 网络产品区域分销（拉美 + 加勒比 25+ 国；BDCOM 交换机 / GPON 独家分销；火灾 / CCTV / 门禁 / 布线）
+- 注册地址：8880 NW 18th Terrace, Doral, FL 33172
+- 规模档：中型（51–200 人）
+- 账目：第三方 $25–50M（仅作区间）；—
+- 高管：无具名（研究档无 KP；marketing@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **BDCOM 拉美独家分销商（同价位中国品牌已在其线卡）→ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM / STC-448XGGPM（Marvell L2+ 差异 + 3 年保 + 持续供货，做 BDCOM 旁的第二来源）；一页纸 + 全线价格卡；稿内不点名 BDCOM
+  - 收件人 marketing@ 点名 product / purchasing manager；1 次无回复 → 二次触达换切口「a second-source switch line for your LatAm channel」；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）
+- 备注：分销 20%；B BIG；加厚一次；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,8 +133,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | International Security and Trading Corp.（ISTC Corp.；SAM UEI ZR9SDV9PUY65；FL Sunbiz 号未取） |
+| 成立 | 1995-02-27（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 istccorp.com，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 istccorp.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 105 批：Doral FL 拉美 / 加勒比安防区域分销商（8 处办公室；BDCOM 全拉美独家分销；≈168 人；$25–50M）→ **分销 20%，B BIG，加厚一次（BDCOM 旁第二来源）；升 A 候选（回信即 A）**；稿内不点名 BDCOM（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备分销（BDCOM，美洲）
 - **触达通道（公开）**：role: BDCOM 美洲分销商（美国/拉美）；region: 美国；contact: marketing@istccorp.com

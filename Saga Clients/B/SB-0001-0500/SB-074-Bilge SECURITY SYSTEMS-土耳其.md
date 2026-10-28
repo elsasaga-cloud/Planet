@@ -82,6 +82,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 105 批（TR · 1 次检索：官网 About / İletişim（Bilge Security and Technology；established 2003；HQ İstanbul，Ankara / İzmir 分支；Örnek Mah. Dr. Suphi Ezgi Sok. No:6 Ataşehir；+90 216 291 12 12；satis@bilgeguvenlik.com）+ bilgetech.com（Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.；2004 起；CCTV / 弱电 / 布线 / 交通管理）+ EMIS（Bilge Guvenlik Sistemleri Ve Teknoloji Anonim Sirketi；Incorporation 2018-02-08；34704）+ LinkedIn（11–50；2004）+ RocketReach（前身 Bilge Elektronik Güvenlik ve Bilgisayar Sistemleri Tic. Ltd. Şti.；1998；$5.7M；9 人）+ D&B（法定名同址）；MERSİS 未取，2026-10-28 查；https://www.bilgeguvenlik.com/en/about）：**
+
+- 法定名 / 登记号：Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.（Bilge Security；bilgeguvenlik.com / bilgetech.com；伊斯坦布尔 Ataşehir）— 2003/2004 年起的电子安防系统集成商（CCTV、弱电、结构化布线、交通管理系统；安卡拉 / 伊兹密尔分支）；A.Ş. 2018-02-08 登记（EMIS），前身 Bilge Elektronik Güvenlik ve Bilgisayar Sistemleri Tic. Ltd. Şti.（1998）；11–50 人；ISAF 2025 现场索要 PoE 交换机（不懂英文，WA 已加） · A.Ş.（İstanbul 商事登记 2018-02-08；MERSİS 未取）；前身 Ltd. Şti. 1998 · 状态 **Active（2026 EMIS 更新）** · 成立 2018-02-08（A.Ş.）；业务 2003/2004 起；前身 1998 · Anonim Şirket（私有）
+- 行业码 / 经营范围：电子安防系统集成（CCTV、弱电、结构化布线、交通管理系统；全国项目）
+- 注册地址：Örnek Mah. Dr. Suphi Ezgi Sok. No:6, 34704 Ataşehir / İstanbul（另 Ankara / İzmir）
+- 规模档：小型（11–50 人）
+- 账目：第三方 $5.7M（仅作区间）；—
+- 高管：无具名（ISAF 名片联系人见 Clients 表；satis@）
+- 控制人 / 股东：未取
+- 曾用名：Bilge Elektronik Güvenlik ve Bilgisayar Sistemleri Tic. Ltd. Şti.（1998–2018）
+- **这意味着什么：**
+  - **ISAF 面对面要 PoE 的集成商 → 集成商 25%，B，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STI-288DGGPM（CCTV / 交通项目 PoE，含工业款）；WA 土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图 + 价一次（研究档既定），邮件英文一页纸抄 satis@
+  - 收件人 = ISAF 名片人（WA）+ satis@；发信窗口 Thu 10–12 TRT；交通管理（道路，非轨交）不在守界内但稿内不提 NEMA
+- 备注：集成商 25%；加厚一次（ISAF 面对面）；坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,9 +129,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Bilge Güvenlik Sistemleri（Bilge Security Systems，bilgeguvenlik.com） |
+| 法定名称 | Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.（İstanbul Ataşehir Örnek Mah. Dr. Suphi Ezgi Sok. No:6；A.Ş. 2018-02-08 登记；前身 Bilge Elektronik Güvenlik ve Bilgisayar Sistemleri Tic. Ltd. Şti. 1998；MERSİS 未取） |
+| 成立 | 2003/2004（业务）；A.Ş. 2018-02-08（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | ISAF 2025 现场：不懂英文，取彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进 |
+| 其他 | ISAF 2025 现场：不懂英文，取彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进；第 105 批：电子安防系统集成商（CCTV / 弱电 / 布线 / 道路交通管理；安卡拉 / 伊兹密尔分支；11–50 人；$5.7M 口径）→ **集成商 25%，B，加厚一次（ISAF 面对面要 PoE）**；WA 土耳其语模板一次 + 英文一页纸抄 satis@bilgeguvenlik.com（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统安装与经销（土耳其）
 - **触达通道（公开）**：网站: bilgeguvenlik.com；WhatsApp: 已加

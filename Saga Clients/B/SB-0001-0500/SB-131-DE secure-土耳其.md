@@ -81,6 +81,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 105 批（TR · 1 次检索：desecuretechnology.com Hakkımızda（Desecure grubunun güvenlik teknolojileri şirketi；5188 号法规分设法人；Genel Müdürlük Vadistanbul Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No:89 Sarıyer 34396；Operasyon ve Teknoloji Merkezi Desecure Plaza Topraklık Mah. İzmir Bulvarı No:17 Pamukkale 20150 Denizli；444 76 49；bilgi@；1,400+ 人 9 地点；AİM 2007）+ desecure.com.tr（同址；区域局）+ LinkedIn（Desecure Özel Güvenlik；1,001–5,000；Denizli；2008）+ Patron Rehberi 2026-10-27（100% 本土资本安防技术集成商；AI / 视频分析 / 移动安防）+ Foreks 2026-10-27（EIF 2026 安塔利亚 11-05～07 参展；Desecure Technology / Özel Güvenlik / DEOSGB 同台）+ Mersin Time（Desecure Özel Güvenlik Hizmetler A.Ş.；35 省），2026-10-28 查；https://desecuretechnology.com/kurumsal/hakkimizda/）：**
+
+- 法定名 / 登记号：Desecure Technology（Desecure 集团安防技术公司；desecuretechnology.com；总部伊斯坦布尔 Vadistanbul，运营与技术中心代尼兹利 Desecure Plaza）— 集团 2008 年起（保安公司 Desecure Özel Güvenlik Hizmetler A.Ş. 1,001–5,000 人；35 省；集团 1,400+ 人 9 地点）；技术公司为关键设施装摄像 / 雷达 / 传感器 + 7/24 报警监控中心（2007 起，内政部许可）、太阳能移动安防塔、AI 视频分析；100% 本土资本；技术公司法定名 / MERSİS 未取 → 部分坐实；研究档 KP Serdar Türker；表内 1 次跟进无回复 · 技术公司法定名 / MERSİS 未取（部分坐实）；集团保安公司 Desecure Özel Güvenlik Hizmetler A.Ş. · 状态 **Active（2026-10 新闻）** · 成立 集团 2008（AİM 2007）；技术公司未取 · A.Ş.（推定；集团子公司，100% 本土资本）
+- 行业码 / 经营范围：安防技术集成与远程监控（关键设施 CCTV / 雷达 / 传感器、太阳能移动安防塔、AI 视频分析、7/24 报警监控中心；能源 / 风电光伏储能 / 工业 / 港口）
+- 注册地址：Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No:89, 34396 Sarıyer / İstanbul；技术中心 Desecure Plaza, Topraklık Mah. İzmir Bulvarı No:17, 20150 Pamukkale / Denizli
+- 规模档：中型（技术公司 ≈60 工程 / 软件；集团 1,400+）
+- 账目：—；—
+- 高管：Serdar Türker — 研究档 KP（用户表；职务未核）= 收件人
+- 高管：集团保安公司 GM 助理 Sait Uygur（新闻；非对口）
+- 控制人 / 股东：Desecure 集团
+- **这意味着什么：**
+  - **自建监控塔 / 关键设施集成（户外、太阳能供电 → 工业 PoE 刚需）→ 集成商 25%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM（户外塔与变电 / 光伏场站 PoE，非 IP67 声明）+ STC-2224GP（监控中心）；一页纸 + 工业线卡
+  - 收件人 serdar.turker@ 点名 + 抄 bilgi@desecuretechnology.com；1 次无回复 → 二次触达换切口「industrial PoE for solar-powered towers」；发信窗口 Thu 10–12 TRT；EIF 2026（11-05～07 安塔利亚）只记档；升 A 次候选
+- 备注：集成商 25%；B BIG；加厚一次；升 A 次候选；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,17 +127,17 @@ updated: 2026-10-28
 - **【用户表】ISAF 互动：工业 8 口 PoE 30 W；含 20% 关税报价**
   > 想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Serdar Türker（（ISAF 名片；职务待核））serdar.turker@desecure.com.tr（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Serdar Türker（研究档 KP（用户表；职务未核）= 收件人（抄 bilgi@desecuretechnology.com）（第 105 批 官方登记核实 2026-10-28））serdar.turker@desecure.com.tr（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Desecure Technology（Desecure 集团） |
-| 成立 | 2008（集团） |
+| 法定名称 | Desecure Technology（Desecure 集团安防技术公司；总部 Vadistanbul Sarıyer İstanbul，技术中心 Desecure Plaza Pamukkale Denizli；技术公司法定名 / MERSİS 未取 → 部分坐实；集团保安公司 Desecure Özel Güvenlik Hizmetler A.Ş.） |
+| 成立 | 集团 2008（报警监控中心 2007）（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No:89, Sarıyer İstanbul；运营技术中心 Desecure Plaza, Topraklık Mah. İzmir Bulvarı No:17, Pamukkale Denizli（444 76 49；bilgi@desecuretechnology.com） |
-| 其他 | 自研太阳能移动安防系统（无电无网场地）、AI 视频分析、热成像、远程监控；客户 RES/GES/BESS、工业、港口 |
+| 其他 | 自研太阳能移动安防系统（无电无网场地）、AI 视频分析、热成像、远程监控；客户 RES/GES/BESS、工业、港口；第 105 批：关键设施安防集成 + 7/24 监控中心 + 太阳能移动安防塔（能源 / 光伏 / 港口；集团 1,400+ 人 9 地点；技术公司 ≈60 工程 / 软件）→ **集成商 25%，B BIG，加厚一次（户外工业 PoE：STI-054GP / 144GP / 288DGGPM / 488DGGPM）；升 A 次候选**；EIF 2026 安塔利亚 11-05～07 只记档（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：私人保安服务（大体量）；Desecure Technology：移动安防塔、远程监控、CCTV/门禁集成（自研硬件集成）
 - **触达通道（公开）**：网站: https://desecuretechnology.com/ · https://desecure.com.tr/；电话: 444 76 49（公开）；邮箱（公开）: bilgi@desecuretechnology.com
@@ -181,7 +196,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Serdar Türker | （ISAF 名片；职务待核） | serdar.turker@desecure.com.tr（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Serdar Türker | 研究档 KP（用户表；职务未核）= 收件人（抄 bilgi@desecuretechnology.com）（第 105 批 官方登记核实 2026-10-28） | serdar.turker@desecure.com.tr（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Serdar TURKER | 信息技术经理 | serdar.turker@desecure.com.tr / +905057862919 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

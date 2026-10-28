@@ -37,7 +37,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Kevin Moran",
+   "role": "President & CEO（ThinkinQ 合资 CEO）= 拍板人 / 收件人（经 info@）（第 105 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.inknowvation.com/sbir/companies/system-fabric-works-inc"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -47,7 +54,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 systemfabricworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 systemfabricworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 105 批：Cedar Park TX HPC / RDMA 集成商（InfiniBand、BeeGFS；2–10 人）→ **集成商 25% 低概率；一页纸（STH 25G/100G 管理网 / 存储网）**（第 105 批 官方登记核实 2026-10-28）",
+  "legal_name": "System Fabric Works Inc（TX；SoS 号未取 → 部分坐实）",
+  "founded": "2002-04-01（第 105 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "HPC 服务器 / 存储 / 网络集成"

@@ -43,7 +43,8 @@
    "title": "（负责人）",
    "email": "justin@kyber-e.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核；主体未坐实）（第 105 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +56,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 kyber-e.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 kyber-e.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 105 批：工程套件 / 工具小厂（表内「5 电口」零星；8 次无回复）→ **不动**；未坐实不补查（第 105 批 官方登记核实 2026-10-28）",
+  "legal_name": "Kyber Electronics（未坐实：1 次检索仅命中首页）",
+  "founded": "未取（第 105 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工程套件 / 工具（美国）"

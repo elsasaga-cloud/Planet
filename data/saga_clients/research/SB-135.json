@@ -19,7 +19,7 @@
  "kp": [
   {
    "name": "Ramazan Daş",
-   "role": "（ISAF 名片；职务待核）",
+   "role": "ISAF 名片联系人（不会英文）= 收件人（第 105 批 官方登记核实 2026-10-28）",
    "email": "info@labormuhendislik.com.tr（用户表）",
    "phone": "—",
    "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -33,10 +33,11 @@
   "level": "官网未检索到 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "Labor Mühendislik（待核）",
+  "legal_name": "Labor Mühendislik（域名无搜索结果；1 次检索未命中任何同名实体 → 未坐实）",
   "hq": "Türkiye（城市待核）",
   "size": "待核（工程公司）",
-  "other": "仅 info@ 邮箱；不会英文"
+  "other": "仅 info@ 邮箱；不会英文；第 105 批：ISAF 明确需求（工业 PoE + 价格表）但主体未坐实 → **零星小单；一页纸（工业线价格卡）一次后不动**（第 105 批 官方登记核实 2026-10-28）",
+  "founded": "未取（第 105 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工程承包（Mühendislik；细分待核）"

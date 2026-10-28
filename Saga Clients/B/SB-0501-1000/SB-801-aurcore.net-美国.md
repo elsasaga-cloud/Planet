@@ -80,6 +80,23 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 105 批（US · 1 次检索：bizprofile（Aurcore Technology Inc.；General Corporation；incorporated 2024-08-20；CA SoS 文件号 6354007；25691 Atlantic Ocean Drive Unit B10 Lake Forest CA 92630）+ 官网 About（HQ Lake Forest CA；Taiwan manufacturing base；2024-08 成立）+ 官网新闻 / BusinessWire 2026-03-17（AES8000 400G / AES9000 800G，Marvell Prestera / Teralynx；CEO MC Leo；PalC SONiC；新址 20472 Crescent Bay Dr #102）+ GITEX 参展页（AURCORE TECHNOLOGY INC.；AIS4001P 8×GE PoE+ 4×10G SFP+ 工业交换机）+ udger（IEEE OUI 登记 AURCORE TECHNOLOGY INC.）+ signalhire（10–50 人；2024），2026-10-28 查；https://www.bizprofile.net/ca/lake-forest/aurcore-technology-inc）：**
+
+- 法定名 / 登记号：Aurcore Technology Inc.（aurcore.net；Lake Forest, California）— 2024-08-20 在加州登记（SoS 文件号 6354007）的开放架构网络设备品牌商（台湾生产基地；AES8000 400G / AES9000 800G 用 Marvell Prestera / Teralynx；AIS4001P 等工业 PoE；SONiC 伙伴 PalC）；CEO MC Leo；10–50 人；研究档 KP Kyle Yu / Bryan W（VP）；表内「DC switch、常规 switch」 · CA SoS 6354007（General Corporation；2024-08-20）；IEEE OUI 在册 · 状态 **Active** · 成立 2024-08-20 · Corporation（私有；台湾生产基地）
+- 行业码 / 经营范围：开放架构网络设备品牌商（AI 数据中心 400G/800G、企业 L2+/L3、工业 PoE 交换机；自有 OUI）
+- 注册地址：20472 Crescent Bay Dr #102, Lake Forest, CA 92630（登记地址 25691 Atlantic Ocean Drive Unit B10）
+- 规模档：小型（10–50 人；2024 新创）
+- 账目：—；—
+- 高管：MC Leo — CEO（新闻稿）
+- 高管：Bryan W — VP = 研究档 KP（bryan@）
+- 高管：Kyle Yu — 研究档 KP（kyle.yu@；职务未核）
+- 控制人 / 股东：未取
+- 曾用名：AurCore Networks（2025-09 发布稿用名）
+- **这意味着什么：**
+  - **自有 OUI + 台湾生产的同行品牌商 → 贴标 低概率；一页纸后不动**：若其企业 / 工业线缺位可补 STI-288DGGPM / STC-448XGGPM 作白牌（30%），不强求
+  - 收件人 bryan@ 点名 VP；发信窗口 Wed 08–10 PT；不点名其竞品
+- 备注：同行品牌商；贴标低概率；一页纸后不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,15 +130,18 @@ updated: 2026-10-28
   > DC Switch 常规的Switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Kyle Yu（）kyle.yu@aurcore.net 〔用户表〕
-- **KP**：Bryan W（）bryan@aurcore.net 〔用户表〕
+- **KP**：Bryan W（VP（研究档）= 收件人（第 105 批 官方登记核实 2026-10-28））bryan@aurcore.net 〔用户表〕
+- **KP**：MC Leo（CEO（2026-03 新闻稿）= 拍板人（第 105 批 官方登记核实 2026-10-28）） 〔https://www.aurcore.net/news/5/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Aurcore Technology Inc.（CA SoS 6354007；General Corporation；IEEE OUI 在册） |
+| 成立 | 2024-08-20（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 aurcore.net，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 aurcore.net，语言 en，快照状态 ok；角色判定来源：官网文案；第 105 批：Lake Forest CA 开放架构网络品牌商（台湾生产基地；Marvell Prestera / Teralynx 400G/800G；AIS4001P 工业 PoE）→ **同行品牌商，贴标低概率；一页纸后不动**（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：AI / 数据中心以太网（400G）；企业交换机（AES）/ 工业 PoE（AIS）
 
@@ -202,7 +222,8 @@ updated: 2026-10-28
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Kyle Yu | — | kyle.yu@aurcore.net | 调研核实（公开页） | 用户表 |
-| Bryan W | — | bryan@aurcore.net | 调研核实（公开页） | 用户表 |
+| Bryan W | VP（研究档）= 收件人（第 105 批 官方登记核实 2026-10-28） | bryan@aurcore.net | 调研核实（公开页） | 用户表 |
+| MC Leo | CEO（2026-03 新闻稿）= 拍板人（第 105 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.aurcore.net/news/5/ |
 | Bryan W VP | — | bryan@aurcore.net / kyle.yu@aurcore.net | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

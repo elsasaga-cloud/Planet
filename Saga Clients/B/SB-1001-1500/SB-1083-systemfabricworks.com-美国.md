@@ -80,6 +80,22 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 105 批（US · 1 次检索：官网 About（established 2002；高性能系统与网络方案）+ LinkedIn（2–10 人；Cedar Park TX；2002；HPC / BeeGFS / Lustre / RDMA）+ Bloomberg（System Fabric Works Inc；founding 2002-04-01；1320 Arrow Point Dr Suite 501 Cedar Park TX 78613）+ RocketReach（1460 E Whitestone Blvd Suite 160 Cedar Park；7 人；$986K）+ inknowvation（Kevin Moran President & CEO；Bill Boas VP BD；Paul Grun Chief Scientist）+ 2023-11 新闻稿（ThinkParQ 合资 ThinkinQ，Kevin Moran 任 CEO）；TX SoS 文件号未取，2026-10-28 查；https://www.systemfabricworks.com/about/）：**
+
+- 法定名 / 登记号：System Fabric Works Inc（systemfabricworks.com；Cedar Park / Austin, Texas）— 2002-04-01 成立的 HPC / RDMA 系统集成商（InfiniBand、BeeGFS / Lustre 并行文件系统、服务器 / 存储 / 网络方案；与 ThinkParQ 合资 ThinkinQ 2023）；President & CEO Kevin Moran；2–10 人（≈7，$0.99M）；研究档无 KP；表内「Marvell 方案」未跟进 · TX Corporation（SoS 文件号未取 → 部分坐实） · 状态 **Active（2025-12 站点更新）** · 成立 2002-04-01 · Corporation（私有）
+- 行业码 / 经营范围：HPC / AI 基础设施集成（InfiniBand / RDMA 网络、并行文件系统、服务器与存储方案、软件开发）
+- 注册地址：1460 E Whitestone Blvd Suite 160, Cedar Park, TX 78613
+- 规模档：小微（2–10 人）
+- 账目：第三方 <$1M（仅作区间）；—
+- 高管：Kevin Moran — President & CEO = 拍板人 / 收件人（经 info@）
+- 高管：Bill Boas — VP Business Development
+- 高管：Paul Grun — Chief Scientist
+- 控制人 / 股东：Kevin Moran（推定）
+- **这意味着什么：**
+  - **HPC 集成商（InfiniBand 为主，以太网侧用 RoCE）→ 集成商 25% 低概率，一页纸即止**：STH-32C-HSI / STH-2C24XF-HSI（集群管理网 / 存储以太网 25G/100G）；表内未跟进 → 首信一页纸；不加厚
+  - 收件人 info@ 点名 Kevin Moran；发信窗口 Wed 08–10 CT
+- 备注：集成商 25% 低概率（HPC）；一页纸；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,14 +128,17 @@ updated: 2026-10-28
 - **【用户表】Marvell 方案**
   > Marvell方案
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Kevin Moran（President & CEO（ThinkinQ 合资 CEO）= 拍板人 / 收件人（经 info@）（第 105 批 官方登记核实 2026-10-28）） 〔https://www.inknowvation.com/sbir/companies/system-fabric-works-inc〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | System Fabric Works Inc（TX；SoS 号未取 → 部分坐实） |
+| 成立 | 2002-04-01（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 systemfabricworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 systemfabricworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 105 批：Cedar Park TX HPC / RDMA 集成商（InfiniBand、BeeGFS；2–10 人）→ **集成商 25% 低概率；一页纸（STH 25G/100G 管理网 / 存储网）**（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：HPC 服务器 / 存储 / 网络集成
 - **触达通道（公开）**：role: HPC 系统集成商（美国，品类边缘）；region: 美国；contact: sales@systemfabricworks.com
@@ -190,7 +209,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@systemfabricworks.com | 用户表原值 | Clients/ 表 |
+| Kevin Moran | President & CEO（ThinkinQ 合资 CEO）= 拍板人 / 收件人（经 info@）（第 105 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.inknowvation.com/sbir/companies/system-fabric-works-inc |
 
 - **通道建议**：企业邮箱可直发
 
@@ -226,7 +245,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-424XGGM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -243,7 +262,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ Marvell |
 | 采购量/预算 | ❓ 未确认 |
@@ -259,7 +278,7 @@ updated: 2026-10-28
 **主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Kevin,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the management and out-of-band networks in the HPC clusters you integrate, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches and CENTEC-based 10G/25G aggregation models from single units, FCC/CE/RoHS, EXW USD — is there a 1G management-switch position you currently fill with a branded product?
 

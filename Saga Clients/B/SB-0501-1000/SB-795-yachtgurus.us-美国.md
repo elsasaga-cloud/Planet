@@ -79,6 +79,20 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 105 批（US · 1 次检索：Sunbiz（YACHT GURUS, INCORPORATED；Florida Profit Corporation；P17000038904；FEI 82-1410191；Date Filed 2017-05-01；Active；1521 Alton Rd #613 Miami Beach FL 33139；RA Sammet, Addison）+ BBB（Yacht Gurus, Incorporated；Business Started 2017-05-01；Corporation；Addison Sammet President；1521 Alton Rd PMB 613）+ 官网 Contact（Authorized reseller and Drop Shipped；954-348-4894；Ft Lauderdale 第二地址）+ ZoomInfo（<$5M），2026-10-28 查；https://www.bizprofile.net/fl/miami-beach/yacht-gurus-incorporated）：**
+
+- 法定名 / 登记号：Yacht Gurus, Incorporated（yachtgurus.us；Miami Beach, Florida；Sunbiz P17000038904 · FEI 82-1410191 · 2017-05-01 Active）— 游艇 / 船艇服务与用品网店（授权转售 + 直发 drop-ship；登记地址为邮箱 PMB 613）；President Addison Sammet；<$5M；研究档无 KP；群发 10 次无回复 · FL Sunbiz P17000038904（FEI 82-1410191） · 状态 **Active** · 成立 2017-05-01 · Florida Profit Corporation（私有；Addison Sammet）
+- 行业码 / 经营范围：游艇 / 船艇服务与用品零售（授权转售、直发；少量网络 / 无线产品）
+- 注册地址：1521 Alton Rd PMB 613, Miami Beach, FL 33139（邮箱地址）；104 SW 23rd St #13, Fort Lauderdale, FL 33315
+- 规模档：小微（<10 人）
+- 账目：第三方 <$5M；—
+- 高管：Addison Sammet — President / 登记代理人
+- 控制人 / 股东：Addison Sammet
+- **这意味着什么：**
+  - **船艇用品直发网店（交换机仅零星转售；10 次无回复）→ 不动**
+  - 如其主动来询船用 PoE：STI-054GP / STI-144GP（非 IP67 声明）
+- 备注：不动（直发网店；10 次无回复）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,14 +126,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS 细分特种行业**
   > 工业FS；细分特种行业公司
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Addison Sammet（President / 登记代理人（第 105 批 官方登记核实 2026-10-28）） 〔https://www.bizprofile.net/fl/miami-beach/yacht-gurus-incorporated〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Yacht Gurus, Incorporated（FL Sunbiz P17000038904；FEI 82-1410191；登记地址为邮箱 PMB 613） |
+| 成立 | 2017-05-01（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 yachtgurus.us，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 yachtgurus.us，语言 en，快照状态 ok；角色判定来源：官网文案；第 105 批：Miami Beach 游艇用品直发网店（交换机零星转售；10 次无回复）→ **不动**（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：船艇 / 游艇用品网店（美国）
 - **触达通道（公开）**：role: 船艇用品网店（美国，工业 FS 为边缘品类）；region: 美国；contact: info@yachtgurus.us
@@ -214,7 +231,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@yachtgurus.us | 用户表原值 | Clients/ 表 |
+| Addison Sammet | President / 登记代理人（第 105 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.bizprofile.net/fl/miami-beach/yacht-gurus-incorporated |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -282,7 +299,7 @@ updated: 2026-10-28
 **主题**：STI-080GE - industrial DIN-rail 8-port Gigabit switch (neutral label)
 
 ```text
-Hello,
+Hi Addison,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?
 

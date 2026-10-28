@@ -50,7 +50,14 @@
    "title": "VP",
    "email": "bryan@aurcore.net",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "VP（研究档）= 收件人（第 105 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "MC Leo",
+   "role": "CEO（2026-03 新闻稿）= 拍板人（第 105 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.aurcore.net/news/5/"
   }
  ],
  "grade_override": null,
@@ -62,7 +69,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 aurcore.net，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 aurcore.net，语言 en，快照状态 ok；角色判定来源：官网文案；第 105 批：Lake Forest CA 开放架构网络品牌商（台湾生产基地；Marvell Prestera / Teralynx 400G/800G；AIS4001P 工业 PoE）→ **同行品牌商，贴标低概率；一页纸后不动**（第 105 批 官方登记核实 2026-10-28）",
+  "legal_name": "Aurcore Technology Inc.（CA SoS 6354007；General Corporation；IEEE OUI 在册）",
+  "founded": "2024-08-20（第 105 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "AI / 数据中心以太网（400G）",

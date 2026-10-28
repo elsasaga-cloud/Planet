@@ -96,6 +96,24 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 105 批（US · 1 次检索：Sunbiz（BROADSTAR COMMERCIAL COMMUNICATIONS LLC；L14000110165；FEI 47-1348982；Date Filed 2014-07-11；Active ／ 旧 BROADSTAR COMMUNICATIONS, LLC M03000000083 DE 外州 2003-01-08 INACTIVE，邮寄地址 3965 Investment Lane Suite A-5 West Palm Beach）+ LinkedIn（51–200；West Palm Beach；1994；CEO Tyler Bell）+ 官网（AON 专属光纤；5 Gig；2 Gig 为常见 bulk 档 52 社区中 24 个；Douglas Bell President & Owner of The BroadStar Companies）+ CB Insights（Tyler Bell CEO 引述 IP Infusion 白盒部署）+ RocketReach（$18.9M；63 人；3965 Investment Ln）+ D&B（Key Principal Douglas Bell），2026-10-28 查；https://www.broadstar.com/about-us/）：**
+
+- 法定名 / 登记号：BroadStar Commercial Communications LLC（BroadStar；broadstar.com；West Palm Beach, Florida；Sunbiz L14000110165 · FEI 47-1348982 · 2014-07-11 Active）— 1994 年起家的社区型「bulk」光纤 ISP / IPTV / VoIP 运营商（AON 每户专属光纤到机房，最高 5 Gig；52 个社区；用 IP Infusion OcNOS 白盒）；CEO Tyler Bell、Owner Douglas Bell；51–200 人（≈63），$18.9M 口径；研究档无 KP；表内未跟进 · FL Sunbiz L14000110165（FEI 47-1348982）；旧实体 M03000000083（已注销） · 状态 **Active** · 成立 2014-07-11（品牌 1994 起） · Florida LLC（Bell 家族私有）
+- 行业码 / 经营范围：社区型光纤 ISP / IPTV / VoIP 运营商（HOA / 公寓 / 养老社区 bulk 合约；AON FTTH 自建自营）
+- 注册地址：3965 Investment Ln, West Palm Beach, FL 33404
+- 规模档：中型（51–200 人）
+- 账目：第三方 $18.9M（仅作区间）；—
+- 高管：Tyler Bell — CEO = 拍板人
+- 高管：Douglas Bell — President & Owner（The BroadStar Companies）
+- 高管：Howard Bernstein — CFO
+- 高管：Maz Khan — Director of Sales（非采购）
+- 控制人 / 股东：Bell 家族
+- 曾用名：Broadstar Communications, LLC（2003–2014 DE 实体）
+- **这意味着什么：**
+  - **AON 运营商（每户一纤到机房 → 大量 SFP 口汇聚 / 接入交换机）→ 采购型 20%，B BIG，一页纸 + 光口机型卡**：STC-4424GCPM（24 口 Combo / SFP 接入）/ STC-448XGGPM（10G 上联）/ STH-2C24XF-HSI（25G 汇聚）；现用 IP Infusion 白盒 → 强调 1:1 规格对照 + 持续供货；加厚一次
+  - 收件人 info@ 点名 network engineering / procurement，抄 CEO Tyler Bell；发信窗口 Wed 08–10 ET；升 A 次候选（回信即谈项目）
+- 备注：采购型 20%（运营商）；B BIG；加厚一次；升 A 次候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -140,16 +158,18 @@ updated: 2026-10-28
 - **【用户表】WhatsApp 已加；23 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Tyler Bell（CEO = 拍板人（抄送）（第 105 批 官方登记核实 2026-10-28）） 〔https://www.linkedin.com/company/broadstar-communications〕
+- **KP**：Douglas Bell（President & Owner（The BroadStar Companies）（第 105 批 官方登记核实 2026-10-28）） 〔https://www.broadstar.com/douglas-bell/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | BroadStar, Inc. |
-| 成立 | 1994 |
+| 法定名称 | BroadStar Commercial Communications LLC（FL Sunbiz L14000110165；FEI 47-1348982；旧 Broadstar Communications, LLC M03000000083 已注销） |
+| 成立 | 2014-07-11（品牌 1994 起）（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 3965 Investment Ln, West Palm Beach, FL 33404, USA（561-472-5022；customerservice@broadstar.com） |
-| 其他 | AON FTTH：每户专属光纤对；bulk 合同由 HOA 统一付费；52 个社区（2026-09 官网口径） |
+| 其他 | AON FTTH：每户专属光纤对；bulk 合同由 HOA 统一付费；52 个社区（2026-09 官网口径）；第 105 批：West Palm Beach FL 社区型 AON 光纤 ISP（52 社区；5 Gig；IP Infusion 白盒；$18.9M / 63 人）→ **采购型 20%，B BIG，加厚一次（光口接入 / 10G 上联 / 25G 汇聚）；升 A 次候选**（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：社区 bulk 光纤互联网（AON FTTH，最高 5 Gig）；IPTV（200+ 频道，云 DVR）；VoIP
 - **触达通道（公开）**：网站: https://www.broadstar.com/；电话: 561-472-5022（官网公开）；邮箱（公开）: customerservice@broadstar.com；LinkedIn: https://www.linkedin.com/company/broadstar-communications
@@ -251,6 +271,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Tyler Bell | CEO = 拍板人（抄送）（第 105 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.linkedin.com/company/broadstar-communications |
+| Douglas Bell | President & Owner（The BroadStar Companies）（第 105 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.broadstar.com/douglas-bell/ |
 | Russell Bell | — | russb@broadstar.com / hreid@broadstar.com / +19545517950 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -320,7 +342,7 @@ updated: 2026-10-28
 **主题**：STC-448XGGMO - 48-port SFP L3 fibre switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Russell,
+Hi Tyler,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For an AON build where every unit gets its own fibre pair, a 48-port all-SFP L3 switch with 4×10G SFP+ uplinks at $654 EXW per unit changes the per-community cost; one question: do your community headends require UL-listed switches, or is FCC sufficient?
 

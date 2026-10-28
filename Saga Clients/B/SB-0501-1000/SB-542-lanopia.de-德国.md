@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -81,6 +81,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 105 批（DE · 1 次检索：companyhouse.de（LANOPIA GmbH；Euphemiaweg 20 A 85250 Altomünster；HRB 143448 Amtsgericht München；Gegründet 2002；Geschäftsführung Paul Antony Ochmann（2004-09-27 起）/ Martina Ochmann（2002-07-04 起），均 alleinvertretungsberechtigt；VAD 光纤 / 铜缆网络技术）+ unternehmen24（Gründung 05.07.2002；Kapital 25.000 EUR；info@；+49 8254 4869944）+ 官网 Company / Contact / Location（2002 起 VAD；Gewerbepark 23 85250 Altomünster）+ Omnitron 分销名录（LanOpia Germany；DACH；martina.ochmann@lanopia.de）+ D&B（Key Principal Martina Ochmann），2026-10-28 查；https://www.companyhouse.de/LANOPIA-GmbH-Altomuenster）：**
+
+- 法定名 / 登记号：LANOPIA GmbH（lanopia.de；巴伐利亚 Altomünster；Amtsgericht München HRB 143448）— 2002-07-05 成立的光纤 / 铜缆网络技术增值分销商（Omnitron Systems DACH 分销商；媒体转换器、交换机、复用器、光模块；站内 poe 247 / switch 233 / industrial 126 / MC 45）；GF Martina Ochmann（2002 起）+ Paul Antony Ochmann（2004 起）；股本 €25,000；表内「MC 工业 FS；卖 Omnitron？可以着重跟一下」；群发 8 次无回复 · HRB 143448（Amtsgericht München） · 状态 **Active** · 成立 2002-07-05 · GmbH（Ochmann 家族私有；股本 €25,000）
+- 行业码 / 经营范围：光纤 / 铜缆网络技术增值分销（媒体转换器、交换机、复用器、光模块；Omnitron DACH 分销；接入与传输）
+- 注册地址：Gewerbepark 23, 85250 Altomünster（登记地址 Euphemiaweg 20a）
+- 规模档：小微（家族 VAD；推定 <10 人）
+- 账目：—；—
+- 高管：Martina Ochmann — Geschäftsführerin（2002 起；Omnitron 名录联系人）= 收件人
+- 高管：Paul Antony Ochmann — Geschäftsführer（2004 起）= 拍板人
+- 控制人 / 股东：Ochmann 家族
+- **这意味着什么：**
+  - **MC / 工业 / PoE 三类目齐全的 DACH 小 VAD，Simon「着重跟一下」→ 分销 20%，B BIG，加厚一次**：STI-144GP / STI-154GP / STI-288DGGPM（工业 PoE 光口，配其 Omnitron MC 线卖）+ STC-228GP / STC-2224GP / STC-110XGE；一页纸 + 工业线卡 + 1:1 规格对照；稿内不点名 Omnitron
+  - 收件人 martina.ochmann@（公开名录）直呼 Frau Ochmann，抄 info@；8 次群发无回复 → 二次触达换切口「an industrial PoE line next to your media converters」；发信窗口 Thu 12–14 CET；升 A 次候选
+- 备注：分销 20%；B BIG；加厚一次；升 A 次候选；HRB 已取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,16 +132,18 @@ updated: 2026-10-27
 - **【用户表】MC 工业 FS；卖 Omnitron 这个牌子？；可以着重跟一下**
   > 兴趣：MC 工业FS 卖Omnitron这个牌子？？
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（未具名）（）info@lanopia.de 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Martina Ochmann（Geschäftsführerin（2002 起；Omnitron 名录联系人 martina.ochmann@）= 收件人（第 105 批 官方登记核实 2026-10-28））info@lanopia.de 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Paul Antony Ochmann（Geschäftsführer（2004 起，单独代表）= 拍板人（第 105 批 官方登记核实 2026-10-28）） 〔https://www.companyhouse.de/LANOPIA-GmbH-Altomuenster〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Lanopia GmbH（待核） |
+| 法定名称 | LANOPIA GmbH（Amtsgericht München HRB 143448；Altomünster Gewerbepark 23；股本 €25,000；Ochmann 家族） |
+| 成立 | 2002-07-05（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Germany |
-| 其他 | Omnitron（美）MC 在售 |
+| 其他 | Omnitron（美）MC 在售；第 105 批：光纤 / 铜缆网络技术 DACH 增值分销商（Omnitron Systems 分销；MC / 交换机 / 复用器 / 光模块）→ **分销 20%，B BIG，加厚一次（工业 PoE 光口配其 MC 线）；升 A 次候选**；8 次无回复 → 二次触达换切口；稿内不点名 Omnitron（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤 / 铜缆网络产品增值分销
 - **触达通道（公开）**：role: 增值分销商；region: 德国
@@ -218,7 +235,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@lanopia.de | 用户表原值 | Clients/ 表 |
+| Martina Ochmann | Geschäftsführerin（2002 起；Omnitron 名录联系人 martina.ochmann@）= 收件人（第 105 批 官方登记核实 2026-10-28） | info@lanopia.de | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Paul Antony Ochmann | Geschäftsführer（2004 起，单独代表）= 拍板人（第 105 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.companyhouse.de/LANOPIA-GmbH-Altomuenster |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -287,7 +305,7 @@ updated: 2026-10-27
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Martina,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the industrial media-converter and switch range beside Omnitron: DIN gigabit MC at $22 and Marvell managed 8-PoE + 2-SFP at $79 EXW, CE/RoHS; who is the right product contact at Lanopia?
 
@@ -312,12 +330,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

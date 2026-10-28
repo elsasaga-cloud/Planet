@@ -25,11 +25,12 @@
  ],
  "kp": [
   {
-   "name": "Hans Georg Werner",
+   "name": "Hans-Georg Werner",
    "title": "（职务待核）",
    "email": "service@bwsystems.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Inhaber（Einzelunternehmen；USt-ID DE137120780）= 收件人本人（第 105 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -41,7 +42,9 @@
  },
  "company_facts": {
   "hq": "德国",
-  "other": "官网 bwsystems.de，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "other": "官网 bwsystems.de，语言 ?，快照状态 http_error；角色判定来源：待核；第 105 批：一人 IT 店 / eBay 网店（阿里 RFQ 2+8 PoE）→ **采购型 small；一页纸直接报 STC-228GP / STC-028GP 后不动**（第 105 批 官方登记核实 2026-10-28）",
+  "legal_name": "BWsystems – Hans-Georg Werner（柏林 Köpenick Pritstabelstraße 52A；个体经营，无 HRB；USt-ID DE137120780）",
+  "founded": "未取（第 105 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "系统集成（德国，待核）"

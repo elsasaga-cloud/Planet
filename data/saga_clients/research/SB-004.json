@@ -26,10 +26,11 @@
   "level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
  },
  "company_facts": {
-  "legal_name": "FiberHome North America（用户备注「烽火美国分公司」；网页未核实）",
+  "legal_name": "FiberHome North America（推定 FiberHome Telecom USA, Inc. Santa Clara CA / FiberHome Telecommunications Technologies Inc. Arlington VA；美国实体号未取 → 部分坐实）；母体烽火通信 SSE 600498",
   "hq": "美国",
   "size": "母公司大型；分公司规模未核",
-  "other": "兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送"
+  "other": "兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送；第 105 批：烽火北美分支（当年兴趣 SFP 收发器 — Saga 不做光模块；母体 2020-05 入美国实体清单，只记档不入稿）→ **机会型采购 低概率；一页纸只讲交换机线后不动**；若 Simon 确认其北美独立采购且需求持续可改回 A（第 105 批 官方登记核实 2026-10-28）",
+  "founded": "母体 1999-12-25（第 105 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电信设备（母公司）",
@@ -120,5 +121,6 @@
    "body": "Hi Gary,\n\nPicking up where the transceiver sample nearly closed: straight answer first - we do not carry SFP transceivers any more, so I will not quote modules we cannot support. What we do build, and what your lab may still need next to the optics you source elsewhere: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity), FCC/CE/RoHS; your 10G SR/LR modules plug in as they are. The product mails you had since (most recently \"Updated Ethernet Switches Links\" on 9 March 2026) were general ones.\n\nOne question: is there still a lab or demo need for a 10G-uplink switch on your side, or has that moved in-group?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "kp": []
 }

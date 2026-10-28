@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -94,6 +94,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 105 批（US · 1 次检索：D&B / MapQuest（FIBERHOME TELECOM USA, INC.；4677 Old Ironsides Dr Ste 430 Santa Clara CA 95054）+ TIA 会员页（FiberHome Telecommunications Technologies Inc.；1201 Wilson Boulevard Floor 9 Arlington VA 22209）+ Wikipedia / Baidu（FiberHome Telecommunication Technologies Co., Ltd.；武汉；SSE 600498；1999-12-25 成立；注册资本 12.89 亿元）+ Lightwave 2020-05-29（美国商务部 BIS 将 Fiberhome Technologies Group 列入实体清单）；fhn-na.com 域名与上述实体的对应关系未直接命中 → 部分坐实，2026-10-28 查；https://www.dnb.com/business-directory/company-profiles/fiberhome-telecom-usa-inc.15c31d87946a2911a35da281a64d5dcc）：**
+
+- 法定名 / 登记号：FiberHome North America（fhn-na.com；研究档「烽火美国分公司」；美国实体推定 FiberHome Telecom USA, Inc.（Santa Clara, California）/ FiberHome Telecommunications Technologies Inc.（Arlington, Virginia；TIA 会员））— 母体烽火通信（武汉；SSE 600498；1999-12-25；2020-05 入美国实体清单）北美分支；表内兴趣 SFP 收发器、「差点成样品单」、1 次实质回复、19 次推送；研究档无 KP · 美国实体（CA / VA 登记号未取 → 部分坐实）；母体 SSE 600498 · 状态 **Active（母体上市）** · 成立 母体 1999-12-25；美国实体未取 · 外资子公司（中国国企集团 CICT 旗下上市公司北美分支）
+- 行业码 / 经营范围：电信设备（光网络 / 光模块 / 接入设备）制造集团的北美销售与采购窗口
+- 注册地址：4677 Old Ironsides Dr Ste 430, Santa Clara, CA 95054（推定）/ 1201 Wilson Blvd Fl 9, Arlington, VA 22209
+- 规模档：集团子公司（北美团队小）
+- 账目：—；—
+- 高管：无具名（研究档无 KP）
+- 控制人 / 股东：烽火通信（国有控股）
+- **这意味着什么：**
+  - **国内大厂北美分部，当年兴趣是 SFP 收发器（Saga 不做光模块）→ 机会型采购，低概率；一页纸只讲交换机线**：STC-110XGE / STI-0240GE / STC-448XGGPM（实验室 / 小项目补位）；不加厚；无回复 → `不动`
+  - 收件人沿用表内邮箱（公开）；2020 起实体清单身份只记档不入稿；发信窗口 Wed 08–10 PT；若 Simon 确认其北美独立采购且需求持续可改回 A（研究档备注）
+- 备注：机会型采购 低概率；一页纸；部分坐实；母体实体清单身份只记档。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,9 +140,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | FiberHome North America（用户备注「烽火美国分公司」；网页未核实） |
+| 法定名称 | FiberHome North America（推定 FiberHome Telecom USA, Inc. Santa Clara CA / FiberHome Telecommunications Technologies Inc. Arlington VA；美国实体号未取 → 部分坐实）；母体烽火通信 SSE 600498 |
+| 成立 | 母体 1999-12-25（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送 |
+| 其他 | 兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送；第 105 批：烽火北美分支（当年兴趣 SFP 收发器 — Saga 不做光模块；母体 2020-05 入美国实体清单，只记档不入稿）→ **机会型采购 低概率；一页纸只讲交换机线后不动**；若 Simon 确认其北美独立采购且需求持续可改回 A（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信设备（母公司）；北美项目/实验室采购（推断）
 - **触达通道（公开）**：网站: fhn-na.com（未核实）
@@ -324,12 +339,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 23）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 23）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

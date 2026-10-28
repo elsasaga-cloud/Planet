@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 105 批（TR · 1 次检索：官网页脚（Acusense Teknolojileri；Merdivenköy Mah. Dikyol Sok. No.2 Business İstanbul Plaza B Blok İç Kapı No:179 Kadıköy；0216 888 29 34 / 0542 839 68 98；info@）+ hikvisionsatis.com.tr 法律页（同址同主体）+ bayifi 名录（Acusense Teknoloji ve Güvenlik Sistemleri Ltd Şti；TOPTANCI İstanbul；Hikvision、Paradox；Alarm / CCTV / 车牌识别）；MERSİS 未取，2026-10-28 查；https://bayifi.com/marka/hikvision）：**
+
+- 法定名 / 登记号：Acusense Teknoloji ve Güvenlik Sistemleri Ltd. Şti.（acusenseteknoloji.com / hikvisionsatis.com.tr；伊斯坦布尔 Kadıköy Merdivenköy）— Hikvision 安防产品批发 / 项目供应商（bayifi 名录「TOPTANCI」；Hikvision + Paradox；IP 摄像机、NVR、PTZ、热成像、X 光机、门禁、对讲、网络产品）；研究档 KP Ümit Çelik；表内 1 次跟进无回复 · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · 状态 **Active（2026 站点更新）** · 成立 未取 · Limited Şirket（私有）
+- 行业码 / 经营范围：Hikvision / Paradox 安防产品批发与项目供应（两个电商站 + 项目报价）
+- 注册地址：Merdivenköy Mah. Dikyol Sok. No:2 Business İstanbul Plaza B Blok No:179, Kadıköy / İstanbul
+- 规模档：小型（推定 5–20 人）
+- 账目：—；—
+- 高管：Ümit Çelik — 研究档 KP（用户表；职务未核）= 收件人（info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Hikvision 批发商（PoE 现卖 Hikvision 自家）→ 分销 20%，一页纸（摄像机配套 PoE 第二线）**：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（对标 Hikvision DS-3E 价）；不加厚
+  - 收件人 info@ 点名 Ümit Çelik；1 次无回复 → 二次触达换切口「a PoE line beside your camera range」；发信窗口 Thu 10–12 TRT；稿内不点名 Hikvision
+- 备注：分销 20%；一页纸；坐实（法定名）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,16 +120,17 @@ updated: 2026-10-28
 - **【用户表】ISAF：不会英文；找工业 PoE**
   > 不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ümit Çelik（（ISAF 名片；职务待核））info@acusenseteknoloji.com（用户表） +90 542 839 68 98（公司 GSM，公开）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ümit Çelik（研究档 KP（用户表；职务未核）= 收件人（第 105 批 官方登记核实 2026-10-28））info@acusenseteknoloji.com（用户表） +90 542 839 68 98（公司 GSM，公开）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（电商站核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Acusense Teknoloji（待核法人） |
+| 法定名称 | Acusense Teknoloji ve Güvenlik Sistemleri Ltd. Şti.（İstanbul Kadıköy Merdivenköy Business İstanbul Plaza B Blok No:179；bayifi 名录 TOPTANCI；MERSİS 未取） |
+| 成立 | 未取（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | İstanbul（亚洲侧，0216）（+90 216 888 29 34；info@acusenseteknoloji.com） |
-| 其他 | Hikvision 全线（含 AcuSense/DeepinView 项目机型） |
+| 其他 | Hikvision 全线（含 AcuSense/DeepinView 项目机型）；第 105 批：Hikvision / Paradox 安防批发与项目供应（acusenseteknoloji.com + hikvisionsatis.com.tr）→ **分销 20%；一页纸（摄像机配套 PoE 第二线）**；稿内不点名 Hikvision（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Hikvision 摄像/NVR 电商与项目供货
 - **触达通道（公开）**：电商: https://www.acusenseteknoloji.com/；电话: +90 216 888 29 34 / +90 542 839 68 98（公开）；邮箱（公开）: info@acusenseteknoloji.com
@@ -173,7 +188,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ümit Çelik | （ISAF 名片；职务待核） | info@acusenseteknoloji.com（用户表） / +90 542 839 68 98（公司 GSM，公开） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ümit Çelik | 研究档 KP（用户表；职务未核）= 收件人（第 105 批 官方登记核实 2026-10-28） | info@acusenseteknoloji.com（用户表） / +90 542 839 68 98（公司 GSM，公开） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Umit Celik | — | info@acusenseteknoloji.com / +05428396833 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

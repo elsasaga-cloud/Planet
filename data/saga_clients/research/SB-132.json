@@ -46,14 +46,14 @@
  "kp": [
   {
    "name": "Ercan Erinç",
-   "role": "（ISAF 名片；职务待核）",
+   "role": "研究档 KP（用户表；职务未核）= 收件人（抄 GM）（第 105 批 官方登记核实 2026-10-28）",
    "email": "ercan@fasttr.com（用户表）",
    "phone": "+90 216 574 94 34（公司）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   },
   {
    "name": "Şener Üstbaş",
-   "role": "General Manager（LinkedIn 公开）",
+   "role": "Genel Müdür（General Manager；LinkedIn / RocketReach）= 拍板人（第 105 批 官方登记核实 2026-10-28）",
    "email": "—",
    "phone": "—",
    "source": "https://www.linkedin.com/in/senerustbas/"
@@ -67,11 +67,11 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Fabrika Aygıtları Sistem Teknolojisi A.Ş.（F.A.S.T.）",
-  "founded": "1994",
+  "legal_name": "Fabrika Aygıtları Sistem Teknolojisi A.Ş.（F.A.S.T.；İstanbul Ticaret Sicil 358519；FAST Plaza Küçükbakkalköy Mah. Dereyolu Sok. No:4 Ataşehir 34750）",
+  "founded": "1994（第 105 批 官方登记核实 2026-10-28）",
   "hq": "Küçükbakkalköy Mah. Dereyolu Sok. No:4, 34750 Ataşehir / İstanbul（+90 216 574 94 34；satis@fasttr.com）",
   "size": "约 30 人（官网）；11–50（Crunchbase）",
-  "other": "分销 Meanwell/Shihlin/Renu/RASCH/Texcomputer；16 区域经销网"
+  "other": "分销 Meanwell/Shihlin/Renu/RASCH/Texcomputer；16 区域经销网；第 105 批：工厂自动化分销商（Meanwell / Shihlin / Renu / Texcomputer / Siboni；16 区域经销网；≈30 人）+ **自有注册品牌 RASCH**（PLC / HMI / 温控）→ **贴标 OEM 30% 可谈（RASCH 标导轨工业 PoE）+ 分销 20%，B BIG，加厚一次；升 A 候选（回信即 A）**（第 105 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工厂自动化元器件分销（PLC、HMI、变频、电源）",

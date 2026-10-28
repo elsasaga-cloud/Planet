@@ -86,6 +86,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 105 批（US · 1 次检索：ca.ltddir（INFINICORE INCORPORATED；Corporation ID 3278330；ACTIVE；incorporated 2010-01-20；871 Coleman Avenue Ste 208 San Jose；agent Yonghong Tian）+ 官网 Company / Contact（Founded 2010 Silicon Valley；1754 Technology Dr STE 210 San Jose CA 95110；info@；FlowDirector / FlowMagic / 01Layer；全球分销商）+ Crunchbase（Legal Name Infinicore Incorporated；Active）+ D&B（3 人；Manuel Echenique 联系人）+ Netberg 新闻稿（InfiniCORE 软件跑在 Netberg Aurora X2 白盒上）+ RocketReach（$6M 口径），2026-10-28 查；https://ca.ltddir.com/INFINICORE/）：**
+
+- 法定名 / 登记号：Infinicore Incorporated（InfiniCORE；infinicoreinc.com；San Jose, California；CA Corporation ID 3278330 · 2010-01-20 Active；登记代理人 Yonghong Tian）— 网络分流器 / 包探针 / 流量生成与录制厂商（FlowDirector 1G–400G、FlowMagic、FSN、01Layer 软件平台；基于 Netberg 等白盒硬件）；3 人口径；研究档无 KP；表内「加拿大」误 → 已 country_fix 美国 · CA Corporation ID 3278330（2010-01-20） · 状态 **Active** · 成立 2010-01-20 · Corporation（私有；创始人华裔推定 — Yonghong Tian 为登记代理人）
+- 行业码 / 经营范围：网络可视化 / 包探针 / 流量生成与录制软硬件（白盒交换机 + 自研 01Layer 软件；企业与政府关键基础设施）
+- 注册地址：1754 Technology Dr STE 210, San Jose, CA 95110（登记地址 871 Coleman Ave Ste 208）
+- 规模档：小微（3 人口径）
+- 账目：第三方 $0.28M–$6M（口径相差大，不采）；—
+- 高管：Yonghong Tian — 登记代理人（创始人推定）
+- 高管：Manuel Echenique — 联系人（D&B）
+- 控制人 / 股东：Yonghong Tian（推定）
+- **这意味着什么：**
+  - **白盒包探针软件商（硬件外采 Netberg 等）→ 采购型 / 可谈 STH 平台供货，低概率；一页纸后不动**：STH-32C-HSI / STH-2C24XF-HSI 作其 01Layer 平台候选硬件（需其移植 → 门槛高）
+  - 收件人 info@ 点名 hardware platform / sourcing；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 PT；华裔创始人中文直联 Simon 定（默认否）
+- 备注：采购型低概率（白盒平台）；一页纸后不动；country_fix 美国已存在。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,16 +132,17 @@ updated: 2026-10-28
 - **【用户表】登记国别「加拿大」（有误，实为美国）；WhatsApp 已加；8 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Yonghong Tian（登记代理人（创始人推定；华裔）（第 105 批 官方登记核实 2026-10-28）） 〔https://ca.ltddir.com/INFINICORE/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「加拿大」更正为「美国」（country_fix，依据见加厚块）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 · 国别更正））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Infinicore Incorporated（InfiniCORE, Inc.） |
-| 成立 | 2010 |
+| 法定名称 | Infinicore Incorporated（CA Corporation ID 3278330；Active） |
+| 成立 | 2010-01-20（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 1754 Technology Dr, STE 210, San Jose, CA 95110, USA（+1 408-320-2427；info@infinicoreinc.com） |
-| 其他 | 产品：FlowDirector（1G/10G/25G/40G/100G/200G/400G 分流/聚合）、FlowMagic、FSN、InfiniLOAD；客户：企业与政府级关键基础设施 |
+| 其他 | 产品：FlowDirector（1G/10G/25G/40G/100G/200G/400G 分流/聚合）、FlowMagic、FSN、InfiniLOAD；客户：企业与政府级关键基础设施；第 105 批：San Jose 白盒包探针 / 流量生成软硬件商（硬件外采 Netberg 等；3 人口径）→ **采购型 / STH 平台供货 低概率；一页纸后不动**；中文直联 Simon 定（默认否）（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络可视化 / 分流器（NPB）；流量捕获、回放、分析与测试系统
 - **触达通道（公开）**：网站: https://infinicoreinc.com/；电话: +1 408-320-2427（官网公开）；邮箱（公开）: info@infinicoreinc.com
@@ -214,6 +230,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Yonghong Tian | 登记代理人（创始人推定；华裔）（第 105 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://ca.ltddir.com/INFINICORE/ |
 | David Chen | — | info@infinicoreinc.com / dchen@infinicoreinc.com / +14086270001 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -283,7 +300,7 @@ updated: 2026-10-28
 **主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hi David,
+Hi Yonghong,
 
 Some time ago you had a product mail from us - "L3 Managed Switch" on 28 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.
 

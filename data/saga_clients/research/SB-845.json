@@ -32,18 +32,20 @@
  ],
  "kp": [
   {
-   "name": "Kyle Desouza",
+   "name": "Kyle DeSousa",
    "title": "Managing Partner",
    "email": "sales@osbornsalessolutions.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Managing Partner（LA；登记代理人；研究档拼作 Desouza）= 收件人（kyle@）（第 105 批 官方登记核实 2026-10-28）"
   },
   {
-   "name": "William O",
+   "name": "William Osborn",
    "title": "President",
    "email": "bill@osbornsalessolutions.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President（Gig Harbor WA；36 年电气 / 通信行业）= 拍板人（第 105 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +57,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 osbornsalessolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 osbornsalessolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 105 批：美西数据通信 / 企业网制造商销售代表公司（2026-01 起承接南加州代表权；2–10 人）→ **渠道代理型（不买货、拿佣金）；Simon「多跟进一下」→ 一页纸改「line card 增补」切口**；Q-33 不碰其终端（第 105 批 官方登记核实 2026-10-28）",
+  "legal_name": "Osborn Sales Solutions LLC（CA LLC，Ladera Ranch 登记 / Gig Harbor WA 办公；SoS 号未取 → 部分坐实）",
+  "founded": "2013（第 105 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "制造商销售代表（工业网络 / 通信 / 安防）"

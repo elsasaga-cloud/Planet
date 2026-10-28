@@ -48429,10 +48429,11 @@
 "level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
 },
 "company_facts": {
-"legal_name": "FiberHome North America（用户备注「烽火美国分公司」；网页未核实）",
+"legal_name": "FiberHome North America（推定 FiberHome Telecom USA, Inc. Santa Clara CA / FiberHome Telecommunications Technologies Inc. Arlington VA；美国实体号未取 → 部分坐实）；母体烽火通信 SSE 600498",
 "hq": "美国",
 "size": "母公司大型；分公司规模未核",
-"other": "兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送"
+"other": "兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送；第 105 批：烽火北美分支（当年兴趣 SFP 收发器 — Saga 不做光模块；母体 2020-05 入美国实体清单，只记档不入稿）→ **机会型采购 低概率；一页纸只讲交换机线后不动**；若 Simon 确认其北美独立采购且需求持续可改回 A（第 105 批 官方登记核实 2026-10-28）",
+"founded": "母体 1999-12-25（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电信设备（母公司）",
@@ -48523,7 +48524,8 @@
 "body": "Hi Gary,\n\nPicking up where the transceiver sample nearly closed: straight answer first - we do not carry SFP transceivers any more, so I will not quote modules we cannot support. What we do build, and what your lab may still need next to the optics you source elsewhere: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity), FCC/CE/RoHS; your 10G SR/LR modules plug in as they are. The product mails you had since (most recently \"Updated Ethernet Switches Links\" on 9 March 2026) were general ones.\n\nOne question: is there still a lab or demo need for a 10G-uplink switch on your side, or has that moved in-group?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
-}
+},
+"kp": []
 }
 },
 {
@@ -77716,10 +77718,11 @@
 "level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
 },
 "company_facts": {
-"legal_name": "Bilge Güvenlik Sistemleri（Bilge Security Systems，bilgeguvenlik.com）",
+"legal_name": "Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.（İstanbul Ataşehir Örnek Mah. Dr. Suphi Ezgi Sok. No:6；A.Ş. 2018-02-08 登记；前身 Bilge Elektronik Güvenlik ve Bilgisayar Sistemleri Tic. Ltd. Şti. 1998；MERSİS 未取）",
 "hq": "土耳其",
 "size": "小型安防安装/经销",
-"other": "ISAF 2025 现场：不懂英文，取彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进"
+"other": "ISAF 2025 现场：不懂英文，取彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进；第 105 批：电子安防系统集成商（CCTV / 弱电 / 布线 / 道路交通管理；安卡拉 / 伊兹密尔分支；11–50 人；$5.7M 口径）→ **集成商 25%，B，加厚一次（ISAF 面对面要 PoE）**；WA 土耳其语模板一次 + 英文一页纸抄 satis@bilgeguvenlik.com（第 105 批 官方登记核实 2026-10-28）",
+"founded": "2003/2004（业务）；A.Ş. 2018-02-08（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防系统安装与经销（土耳其）"
@@ -79607,7 +79610,7 @@
 "kp": [
 {
 "name": "Ahmet Can",
-"role": "店主",
+"role": "店主（ASKON Konya 会员；Armiya 经销商）= 收件人本人（第 105 批 官方登记核实 2026-10-28）",
 "email": "acan@cansisteknoloji.com",
 "phone": "+90 541 541 0010（WA）/ +90 332 447 4226",
 "source": "官网 + 行业目录 + 用户 Clients 表"
@@ -79629,10 +79632,11 @@
 "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
 },
 "company_facts": {
-"legal_name": "Can-Sis Güvenlik ve Bilgisayar Sistemleri（Cansis Teknoloji）",
+"legal_name": "Cansis Teknoloji / Can-Sis Güvenlik ve Bilgisayar Sistemleri（科尼亚 Çumra İzzetbey Mah. Hıdır Sok. No:7/A；个体工商推定 → 部分坐实）",
 "hq": "Çumra / Konya, Türkiye",
 "size": "微型（店主 Ahmet Can）",
-"other": "安防摄像/报警 + 电脑维修销售店；Armiya Teknoloji 经销商；ISAF 2025 问 12 光 12 电 PoE 网管，已报 $150；WA 已加"
+"other": "安防摄像/报警 + 电脑维修销售店；Armiya Teknoloji 经销商；ISAF 2025 问 12 光 12 电 PoE 网管，已报 $150；WA 已加；第 105 批：Çumra 小型安防 / 电脑店（ISAF 问 12 光 12 电 PoE 网管，已报 $150）→ **零星小单；WA 一次性跟进报价有效期后不动**（第 105 批 官方登记核实 2026-10-28）",
+"founded": "未取（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防摄像与报警安装（科尼亚）",
@@ -80673,10 +80677,11 @@
 "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
 },
 "company_facts": {
-"legal_name": "Voltech Elektronik",
+"legal_name": "Voltech Elektronik（Silivri；官网为占位页；法定名 / 地址 / 登记均未取 → 未坐实）",
 "hq": "Silivri / İstanbul, Türkiye",
 "size": "微型（官网建设中）",
-"other": "摄像系统、报警、电脑、电话交换机、电气电子服务；ISAF 2025 取彩页，找工业级 PoE 网管交换机；WA 已加（+90 551 375 12 25）"
+"other": "摄像系统、报警、电脑、电话交换机、电气电子服务；ISAF 2025 取彩页，找工业级 PoE 网管交换机；WA 已加（+90 551 375 12 25）；第 105 批：Silivri 小型电子 / 安防服务商（ISAF 找工业 PoE 网管）→ **零星小单；WA 一次（STI-288DGGPM 图 + 价）后不动**；未坐实不补查（第 105 批 官方登记核实 2026-10-28）",
+"founded": "未取（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防/电气电子服务（Silivri）"
@@ -113465,7 +113470,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Kevin Moran",
+"role": "President & CEO（ThinkinQ 合资 CEO）= 拍板人 / 收件人（经 info@）（第 105 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.inknowvation.com/sbir/companies/system-fabric-works-inc"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -113475,7 +113487,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 systemfabricworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"other": "官网 systemfabricworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 105 批：Cedar Park TX HPC / RDMA 集成商（InfiniBand、BeeGFS；2–10 人）→ **集成商 25% 低概率；一页纸（STH 25G/100G 管理网 / 存储网）**（第 105 批 官方登记核实 2026-10-28）",
+"legal_name": "System Fabric Works Inc（TX；SoS 号未取 → 部分坐实）",
+"founded": "2002-04-01（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "HPC 服务器 / 存储 / 网络集成"
@@ -138362,7 +138376,7 @@
 "kp": [
 {
 "name": "Serdar Türker",
-"role": "（ISAF 名片；职务待核）",
+"role": "研究档 KP（用户表；职务未核）= 收件人（抄 bilgi@desecuretechnology.com）（第 105 批 官方登记核实 2026-10-28）",
 "email": "serdar.turker@desecure.com.tr（用户表）",
 "phone": "—",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -138376,11 +138390,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Desecure Technology（Desecure 集团）",
-"founded": "2008（集团）",
+"legal_name": "Desecure Technology（Desecure 集团安防技术公司；总部 Vadistanbul Sarıyer İstanbul，技术中心 Desecure Plaza Pamukkale Denizli；技术公司法定名 / MERSİS 未取 → 部分坐实；集团保安公司 Desecure Özel Güvenlik Hizmetler A.Ş.）",
+"founded": "集团 2008（报警监控中心 2007）（第 105 批 官方登记核实 2026-10-28）",
 "hq": "Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No:89, Sarıyer İstanbul；运营技术中心 Desecure Plaza, Topraklık Mah. İzmir Bulvarı No:17, Pamukkale Denizli（444 76 49；bilgi@desecuretechnology.com）",
 "size": "集团保安人员 1,001–5,000；技术团队 60+",
-"other": "自研太阳能移动安防系统（无电无网场地）、AI 视频分析、热成像、远程监控；客户 RES/GES/BESS、工业、港口"
+"other": "自研太阳能移动安防系统（无电无网场地）、AI 视频分析、热成像、远程监控；客户 RES/GES/BESS、工业、港口；第 105 批：关键设施安防集成 + 7/24 监控中心 + 太阳能移动安防塔（能源 / 光伏 / 港口；集团 1,400+ 人 9 地点；技术公司 ≈60 工程 / 软件）→ **集成商 25%，B BIG，加厚一次（户外工业 PoE：STI-054GP / 144GP / 288DGGPM / 488DGGPM）；升 A 次候选**；EIF 2026 安塔利亚 11-05～07 只记档（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "私人保安服务（大体量）",
@@ -138640,14 +138654,14 @@
 "kp": [
 {
 "name": "Ercan Erinç",
-"role": "（ISAF 名片；职务待核）",
+"role": "研究档 KP（用户表；职务未核）= 收件人（抄 GM）（第 105 批 官方登记核实 2026-10-28）",
 "email": "ercan@fasttr.com（用户表）",
 "phone": "+90 216 574 94 34（公司）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
 },
 {
 "name": "Şener Üstbaş",
-"role": "General Manager（LinkedIn 公开）",
+"role": "Genel Müdür（General Manager；LinkedIn / RocketReach）= 拍板人（第 105 批 官方登记核实 2026-10-28）",
 "email": "—",
 "phone": "—",
 "source": "https://www.linkedin.com/in/senerustbas/"
@@ -138661,11 +138675,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Fabrika Aygıtları Sistem Teknolojisi A.Ş.（F.A.S.T.）",
-"founded": "1994",
+"legal_name": "Fabrika Aygıtları Sistem Teknolojisi A.Ş.（F.A.S.T.；İstanbul Ticaret Sicil 358519；FAST Plaza Küçükbakkalköy Mah. Dereyolu Sok. No:4 Ataşehir 34750）",
+"founded": "1994（第 105 批 官方登记核实 2026-10-28）",
 "hq": "Küçükbakkalköy Mah. Dereyolu Sok. No:4, 34750 Ataşehir / İstanbul（+90 216 574 94 34；satis@fasttr.com）",
 "size": "约 30 人（官网）；11–50（Crunchbase）",
-"other": "分销 Meanwell/Shihlin/Renu/RASCH/Texcomputer；16 区域经销网"
+"other": "分销 Meanwell/Shihlin/Renu/RASCH/Texcomputer；16 区域经销网；第 105 批：工厂自动化分销商（Meanwell / Shihlin / Renu / Texcomputer / Siboni；16 区域经销网；≈30 人）+ **自有注册品牌 RASCH**（PLC / HMI / 温控）→ **贴标 OEM 30% 可谈（RASCH 标导轨工业 PoE）+ 分销 20%，B BIG，加厚一次；升 A 候选（回信即 A）**（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工厂自动化元器件分销（PLC、HMI、变频、电源）",
@@ -139721,7 +139735,7 @@
 "kp": [
 {
 "name": "Ramazan Daş",
-"role": "（ISAF 名片；职务待核）",
+"role": "ISAF 名片联系人（不会英文）= 收件人（第 105 批 官方登记核实 2026-10-28）",
 "email": "info@labormuhendislik.com.tr（用户表）",
 "phone": "—",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -139735,10 +139749,11 @@
 "level": "官网未检索到 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Labor Mühendislik（待核）",
+"legal_name": "Labor Mühendislik（域名无搜索结果；1 次检索未命中任何同名实体 → 未坐实）",
 "hq": "Türkiye（城市待核）",
 "size": "待核（工程公司）",
-"other": "仅 info@ 邮箱；不会英文"
+"other": "仅 info@ 邮箱；不会英文；第 105 批：ISAF 明确需求（工业 PoE + 价格表）但主体未坐实 → **零星小单；一页纸（工业线价格卡）一次后不动**（第 105 批 官方登记核实 2026-10-28）",
+"founded": "未取（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工程承包（Mühendislik；细分待核）"
@@ -140208,14 +140223,14 @@
 "kp": [
 {
 "name": "Muhammad Azeem (Ullah)",
-"role": "Manager（名录公开）",
+"role": "Manager = 收件人本人（第 105 批 官方登记核实 2026-10-28）",
 "email": "info@oralguvenlik.com（用户表）",
 "phone": "+90 392 228 33 30",
 "source": "https://aeroleads.com/c/oralguvenliksistemleri"
 },
 {
 "name": "Metin Oral",
-"role": "Business Owner（名录公开）",
+"role": "Business Owner（Oral Companies，1982 起）= 拍板人（第 105 批 官方登记核实 2026-10-28）",
 "email": "—",
 "phone": "—",
 "source": "https://aeroleads.com/c/oralguvenliksistemleri"
@@ -140229,11 +140244,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "Oral Güvenlik Sistemleri（Oral Companies）",
-"founded": "2008",
+"legal_name": "Oral Güvenlik Sistemleri（Oral Companies 旗下；**北塞浦路斯 KKTC 尼科西亚**；KKTC 登记不可达 → 部分坐实）",
+"founded": "2008（安防单元）；集团 1982（第 105 批 官方登记核实 2026-10-28）",
 "hq": "Lefkoşa (Nicosia), KKTC（+90 392 228 33 30；info@oralguvenlik.com）",
 "size": "约 6 人（AeroLeads/RocketReach）",
-"other": "Hikvision 零售；Ttec 机柜；SambaPOS 经销；网店"
+"other": "Hikvision 零售；Ttec 机柜；SambaPOS 经销；网店；第 105 批：KKTC 小型安防零售 / 安装（Hikvision；≈6 人）→ **集成商 25% small；一页纸后不动**；表内 TR 不改 country_fix，物流经土耳其（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防摄像/NVR 零售与安装（Hikvision）",
@@ -140799,7 +140814,7 @@
 "kp": [
 {
 "name": "Ümit Çelik",
-"role": "（ISAF 名片；职务待核）",
+"role": "研究档 KP（用户表；职务未核）= 收件人（第 105 批 官方登记核实 2026-10-28）",
 "email": "info@acusenseteknoloji.com（用户表）",
 "phone": "+90 542 839 68 98（公司 GSM，公开）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -140813,10 +140828,11 @@
 "level": "B 级加厚 v1（电商站核对）"
 },
 "company_facts": {
-"legal_name": "Acusense Teknoloji（待核法人）",
+"legal_name": "Acusense Teknoloji ve Güvenlik Sistemleri Ltd. Şti.（İstanbul Kadıköy Merdivenköy Business İstanbul Plaza B Blok No:179；bayifi 名录 TOPTANCI；MERSİS 未取）",
 "hq": "İstanbul（亚洲侧，0216）（+90 216 888 29 34；info@acusenseteknoloji.com）",
 "size": "小型电商/项目商",
-"other": "Hikvision 全线（含 AcuSense/DeepinView 项目机型）"
+"other": "Hikvision 全线（含 AcuSense/DeepinView 项目机型）；第 105 批：Hikvision / Paradox 安防批发与项目供应（acusenseteknoloji.com + hikvisionsatis.com.tr）→ **分销 20%；一页纸（摄像机配套 PoE 第二线）**；稿内不点名 Hikvision（第 105 批 官方登记核实 2026-10-28）",
+"founded": "未取（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "Hikvision 摄像/NVR 电商与项目供货"
@@ -142430,7 +142446,20 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Tyler Bell",
+"role": "CEO = 拍板人（抄送）（第 105 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.linkedin.com/company/broadstar-communications"
+},
+{
+"name": "Douglas Bell",
+"role": "President & Owner（The BroadStar Companies）（第 105 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.broadstar.com/douglas-bell/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -142439,11 +142468,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "BroadStar, Inc.",
-"founded": "1994",
+"legal_name": "BroadStar Commercial Communications LLC（FL Sunbiz L14000110165；FEI 47-1348982；旧 Broadstar Communications, LLC M03000000083 已注销）",
+"founded": "2014-07-11（品牌 1994 起）（第 105 批 官方登记核实 2026-10-28）",
 "hq": "3965 Investment Ln, West Palm Beach, FL 33404, USA（561-472-5022；customerservice@broadstar.com）",
 "size": "51–200（LinkedIn）；$18.9M（ZoomInfo）",
-"other": "AON FTTH：每户专属光纤对；bulk 合同由 HOA 统一付费；52 个社区（2026-09 官网口径）"
+"other": "AON FTTH：每户专属光纤对；bulk 合同由 HOA 统一付费；52 个社区（2026-09 官网口径）；第 105 批：West Palm Beach FL 社区型 AON 光纤 ISP（52 社区；5 Gig；IP Infusion 白盒；$18.9M / 63 人）→ **采购型 20%，B BIG，加厚一次（光口接入 / 10G 上联 / 25G 汇聚）；升 A 次候选**（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "社区 bulk 光纤互联网（AON FTTH，最高 5 Gig）",
@@ -209091,11 +209120,12 @@
 ],
 "kp": [
 {
-"name": "Hans Georg Werner",
+"name": "Hans-Georg Werner",
 "title": "（职务待核）",
 "email": "service@bwsystems.de",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Inhaber（Einzelunternehmen；USt-ID DE137120780）= 收件人本人（第 105 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -209107,7 +209137,9 @@
 },
 "company_facts": {
 "hq": "德国",
-"other": "官网 bwsystems.de，语言 ?，快照状态 http_error；角色判定来源：待核"
+"other": "官网 bwsystems.de，语言 ?，快照状态 http_error；角色判定来源：待核；第 105 批：一人 IT 店 / eBay 网店（阿里 RFQ 2+8 PoE）→ **采购型 small；一页纸直接报 STC-228GP / STC-028GP 后不动**（第 105 批 官方登记核实 2026-10-28）",
+"legal_name": "BWsystems – Hans-Georg Werner（柏林 Köpenick Pritstabelstraße 52A；个体经营，无 HRB；USt-ID DE137120780）",
+"founded": "未取（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "系统集成（德国，待核）"
@@ -224927,7 +224959,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Yonghong Tian",
+"role": "登记代理人（创始人推定；华裔）（第 105 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://ca.ltddir.com/INFINICORE/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「加拿大」更正为「美国」（country_fix，依据见加厚块）",
@@ -224936,11 +224975,11 @@
 "level": "B 级加厚 v1（官网核对 · 国别更正）"
 },
 "company_facts": {
-"legal_name": "Infinicore Incorporated（InfiniCORE, Inc.）",
-"founded": "2010",
+"legal_name": "Infinicore Incorporated（CA Corporation ID 3278330；Active）",
+"founded": "2010-01-20（第 105 批 官方登记核实 2026-10-28）",
 "hq": "1754 Technology Dr, STE 210, San Jose, CA 95110, USA（+1 408-320-2427；info@infinicoreinc.com）",
 "size": "3 人（D&B）～小团队；$6M（RocketReach 口径，不一致）",
-"other": "产品：FlowDirector（1G/10G/25G/40G/100G/200G/400G 分流/聚合）、FlowMagic、FSN、InfiniLOAD；客户：企业与政府级关键基础设施"
+"other": "产品：FlowDirector（1G/10G/25G/40G/100G/200G/400G 分流/聚合）、FlowMagic、FSN、InfiniLOAD；客户：企业与政府级关键基础设施；第 105 批：San Jose 白盒包探针 / 流量生成软硬件商（硬件外采 Netberg 等；3 人口径）→ **采购型 / STH 平台供货 低概率；一页纸后不动**；中文直联 Simon 定（默认否）（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络可视化 / 分流器（NPB）",
@@ -265457,7 +265496,8 @@
 "title": "CEO",
 "email": "mk@4g-gmbh.de",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Geschäftsführer（2023-06 起，单独代表；Münster HRB 15069 在册）= 收件人本人（第 105 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -265469,7 +265509,9 @@
 },
 "company_facts": {
 "hq": "德国",
-"other": "官网 4g-gmbh.de，语言 ?，快照状态 unreachable；角色判定来源：用户表"
+"other": "官网 4g-gmbh.de，语言 ?，快照状态 unreachable；角色判定来源：用户表；第 105 批：电驱动技术开发 / 生产小厂（Shopify 光旁路配件已成交零星，「珊姐跟进了」）→ **采购型 small；复购一页纸后不动；成单客户只记档监控不群发**（第 105 批 官方登记核实 2026-10-28）",
+"legal_name": "4G GmbH（Amtsgericht Münster HRB 15069；Sendenhorst Industrieweg 19；股本 €63,000；原 Westhoff Engineering GmbH）",
+"founded": "2014-07-04（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT / 网络（德国，待核）"
@@ -287403,7 +287445,8 @@
 "title": "（负责人）",
 "email": "justin@kyber-e.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（职务未核；主体未坐实）（第 105 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -287415,7 +287458,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 kyber-e.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 kyber-e.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 105 批：工程套件 / 工具小厂（表内「5 电口」零星；8 次无回复）→ **不动**；未坐实不补查（第 105 批 官方登记核实 2026-10-28）",
+"legal_name": "Kyber Electronics（未坐实：1 次检索仅命中首页）",
+"founded": "未取（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工程套件 / 工具（美国）"
@@ -297303,11 +297348,18 @@
 ],
 "kp": [
 {
-"name": "（未具名）",
+"name": "Martina Ochmann",
 "title": "",
 "email": "info@lanopia.de",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Geschäftsführerin（2002 起；Omnitron 名录联系人 martina.ochmann@）= 收件人（第 105 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Paul Antony Ochmann",
+"role": "Geschäftsführer（2004 起，单独代表）= 拍板人（第 105 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.companyhouse.de/LANOPIA-GmbH-Altomuenster"
 }
 ],
 "grade_override": null,
@@ -297318,11 +297370,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Lanopia GmbH（待核）",
-"founded": "",
+"legal_name": "LANOPIA GmbH（Amtsgericht München HRB 143448；Altomünster Gewerbepark 23；股本 €25,000；Ochmann 家族）",
+"founded": "2002-07-05（第 105 批 官方登记核实 2026-10-28）",
 "hq": "Germany",
 "size": "中小型 VAD",
-"other": "Omnitron（美）MC 在售"
+"other": "Omnitron（美）MC 在售；第 105 批：光纤 / 铜缆网络技术 DACH 增值分销商（Omnitron Systems 分销；MC / 交换机 / 复用器 / 光模块）→ **分销 20%，B BIG，加厚一次（工业 PoE 光口配其 MC 线）；升 A 次候选**；8 次无回复 → 二次触达换切口；稿内不点名 Omnitron（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤 / 铜缆网络产品增值分销"
@@ -371284,14 +371336,16 @@
 "title": "Director of Product Management",
 "email": "fsigal@flyteccomputers.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Director of Product Management = 选品对口 / 收件人本人（第 105 批 官方登记核实 2026-10-28）"
 },
 {
-"name": "Bruno Rocha",
+"name": "Bruno T. Rocha",
 "title": "Chief Executive Officer",
 "email": "bruno@flyteccomputers.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "CEO（2021 起；2009 入职销售工程师）= 拍板人（抄送）（第 105 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -371302,11 +371356,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Flytec Computers Inc.",
-"founded": "（待核）",
+"legal_name": "FLYTEC COMPUTERS INC（FL Sunbiz P07000099060；Active）",
+"founded": "2007（第 105 批 官方登记核实 2026-10-28）",
 "hq": "Miami, FL, USA",
 "size": "中型分销（美国 + 拉美）",
-"other": "已售 Hisource（中国同行）PoE"
+"other": "已售 Hisource（中国同行）PoE；第 105 批：Doral FL 有线 / 无线 / 光纤 / VoIP 主分销商（Ubiquiti Master Distributor、MikroTik 官方；美加拉美；$19.1M / 73 人）→ **分销 20%，B BIG，加厚一次；升 A 次候选**；18 次群发无回复 → 二次触达必换切口（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "无线 / 光纤 / VoIP 设备分销"
@@ -387954,7 +388008,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Addison Sammet",
+"role": "President / 登记代理人（第 105 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.bizprofile.net/fl/miami-beach/yacht-gurus-incorporated"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -387964,7 +388025,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 yachtgurus.us，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 yachtgurus.us，语言 en，快照状态 ok；角色判定来源：官网文案；第 105 批：Miami Beach 游艇用品直发网店（交换机零星转售；10 次无回复）→ **不动**（第 105 批 官方登记核实 2026-10-28）",
+"legal_name": "Yacht Gurus, Incorporated（FL Sunbiz P17000038904；FEI 82-1410191；登记地址为邮箱 PMB 613）",
+"founded": "2017-05-01（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "船艇 / 游艇用品网店（美国）"
@@ -389562,7 +389625,14 @@
 "title": "VP",
 "email": "bryan@aurcore.net",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "VP（研究档）= 收件人（第 105 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "MC Leo",
+"role": "CEO（2026-03 新闻稿）= 拍板人（第 105 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.aurcore.net/news/5/"
 }
 ],
 "grade_override": null,
@@ -389574,7 +389644,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 aurcore.net，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 aurcore.net，语言 en，快照状态 ok；角色判定来源：官网文案；第 105 批：Lake Forest CA 开放架构网络品牌商（台湾生产基地；Marvell Prestera / Teralynx 400G/800G；AIS4001P 工业 PoE）→ **同行品牌商，贴标低概率；一页纸后不动**（第 105 批 官方登记核实 2026-10-28）",
+"legal_name": "Aurcore Technology Inc.（CA SoS 6354007；General Corporation；IEEE OUI 在册）",
+"founded": "2024-08-20（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "AI / 数据中心以太网（400G）",
@@ -404283,18 +404355,20 @@
 ],
 "kp": [
 {
-"name": "Kyle Desouza",
+"name": "Kyle DeSousa",
 "title": "Managing Partner",
 "email": "sales@osbornsalessolutions.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Managing Partner（LA；登记代理人；研究档拼作 Desouza）= 收件人（kyle@）（第 105 批 官方登记核实 2026-10-28）"
 },
 {
-"name": "William O",
+"name": "William Osborn",
 "title": "President",
 "email": "bill@osbornsalessolutions.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "President（Gig Harbor WA；36 年电气 / 通信行业）= 拍板人（第 105 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -404306,7 +404380,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 osbornsalessolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"other": "官网 osbornsalessolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 105 批：美西数据通信 / 企业网制造商销售代表公司（2026-01 起承接南加州代表权；2–10 人）→ **渠道代理型（不买货、拿佣金）；Simon「多跟进一下」→ 一页纸改「line card 增补」切口**；Q-33 不碰其终端（第 105 批 官方登记核实 2026-10-28）",
+"legal_name": "Osborn Sales Solutions LLC（CA LLC，Ladera Ranch 登记 / Gig Harbor WA 办公；SoS 号未取 → 部分坐实）",
+"founded": "2013（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "制造商销售代表（工业网络 / 通信 / 安防）"
@@ -412787,7 +412863,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 fiberden.com，语言 tr-TR，快照状态 ok；角色判定来源：待核"
+"other": "官网 fiberden.com，语言 tr-TR，快照状态 ok；角色判定来源：待核；第 105 批：光纤产品网店（光缆 / 配线 / V-SOL ONT·OLT / PoE / SFP / MC）→ **分销 20% small；一页纸；2 次无回复 → 二次一次后不动**（第 105 批 官方登记核实 2026-10-28）",
+"legal_name": "NRL Teknoloji İletişim San. ve Tic. Ltd. Şti.（品牌站 Fiberden；İstanbul Bayrampaşa；Vergi No 6320974310 Tuna VD；MERSİS 未取）",
+"founded": "未取（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤 / FTTH 产品网店"
@@ -414523,7 +414601,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 istccorp.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 istccorp.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 105 批：Doral FL 拉美 / 加勒比安防区域分销商（8 处办公室；BDCOM 全拉美独家分销；≈168 人；$25–50M）→ **分销 20%，B BIG，加厚一次（BDCOM 旁第二来源）；升 A 候选（回信即 A）**；稿内不点名 BDCOM（第 105 批 官方登记核实 2026-10-28）",
+"legal_name": "International Security and Trading Corp.（ISTC Corp.；SAM UEI ZR9SDV9PUY65；FL Sunbiz 号未取）",
+"founded": "1995-02-27（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络设备分销（BDCOM，美洲）"
@@ -419584,7 +419664,8 @@
 "title": "",
 "email": "info@teamon.com.tr",
 "phone": "+90 312 806 35 29",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "info@（点名 satın alma / proje müdürü）（第 105 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -419595,11 +419676,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "TeamOn Teknoloji Çözümleri",
-"founded": "",
+"legal_name": "TeamOn Teknoloji Çözümleri / Teamon İletişim Teknolojileri（**安卡拉 Emek**；法定形式 / MERSİS 未取 → 部分坐实）",
+"founded": "未取（第 105 批 官方登记核实 2026-10-28）",
 "hq": "Ankara, Türkiye",
 "size": "小型 IT 方案 / 经销",
-"other": "PLANET 在售"
+"other": "PLANET 在售；第 105 批：安卡拉 ICT 系统集成商 / 多品牌经销（在售 PLANET、Allied Telesis、Netgear、Ruijie 等）→ **分销 20% / 集成商 small；一页纸（PLANET 价位替代，不点名）后不动**（第 105 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT 方案 / 网络设备经销"

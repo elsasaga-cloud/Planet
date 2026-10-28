@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 105 批（TR · 1 次检索：ASKON Konya 会员页（CANSİS TEKNOLOJİ；AHMET CAN；İzzetbey Mh. 72424 Sk. No:7-A Çumra Konya；acan@cansisteknoloji.com；电子能源与信息行业）+ 官网（Cansis Bilgisayar；İzzetbey, Hıdır Sk., 42500 Çumra/Konya；0332 447 42 26）+ Armiya 新闻（Çumra Bayimiz Cansis Teknoloji；firma sahibi Ahmet CAN；2026-03）+ guvenliksistemleri.net（CAN-SİS GÜVENLİK VE BİLGİSAYAR SİSTEMLERİ；AHMET CAN）+ LinkedIn Ahmet Can；法定形式未见 → 个体推定，2026-10-28 查；https://www.askonkonya.org.tr/Firma/TR/171）：**
+
+- 法定名 / 登记号：Cansis Teknoloji（Can-Sis Güvenlik ve Bilgisayar Sistemleri；cansisteknoloji.com；科尼亚 Çumra）— 店主 Ahmet Can 的小型安防摄像 / 报警 + 电脑维修销售店（Armiya Teknoloji 经销商；ASKON 科尼亚会员）；个体工商推定；ISAF 2025 现场问 12 光 12 电 PoE 网管，已报 $150；WA 已加无互动 · 未取（个体工商推定；MERSİS 未取 → 部分坐实） · 状态 **Active（2026-03 经销商会议）** · 成立 未取 · 个体 / 小店（Ahmet Can）
+- 行业码 / 经营范围：安防摄像 / 报警安装与电脑维修零售（Armiya 经销）
+- 注册地址：İzzetbey Mah. Hıdır Sok. No:7/A, 42500 Çumra / Konya
+- 规模档：小微（1–5 人）
+- 账目：—；—
+- 高管：Ahmet Can — 店主 = 研究档 KP = 收件人（acan@）
+- 控制人 / 股东：Ahmet Can
+- **这意味着什么：**
+  - **小店零星需求（12 光 12 电 PoE 网管已报 $150）→ 零星小单 small，WA 一次性跟进报价有效期后不动**；成交按零星小单处理
+  - 收件人 acan@ / WA；发信窗口 Thu 10–12 TRT
+- 备注：零星小单；WA 一次后不动；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,7 +125,7 @@ updated: 2026-10-28
 - **【行业目录】店主 Ahmet Can，电话 0541 541 0010（与用户记录一致）**
   > CAN-SİS GÜVENLİK VE BİLGİSAYAR SİSTEMLERİ AHMET CAN 03324474226 05415410010
   > 来源：https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-firmalari/（抓取 2026-10-21）
-- **KP**：Ahmet Can（店主）acan@cansisteknoloji.com +90 541 541 0010（WA）/ +90 332 447 4226〔官网 + 行业目录 + 用户 Clients 表〕
+- **KP**：Ahmet Can（店主（ASKON Konya 会员；Armiya 经销商）= 收件人本人（第 105 批 官方登记核实 2026-10-28））acan@cansisteknoloji.com +90 541 541 0010（WA）/ +90 332 447 4226〔官网 + 行业目录 + 用户 Clients 表〕
 - **KP**：Ahmet Can（店主（行业目录公开））—（见官网） 0541 541 0010〔https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi〕
 - **调研后定级**：B（原自动 A）——微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。
 - 备注：WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。
@@ -120,9 +134,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Can-Sis Güvenlik ve Bilgisayar Sistemleri（Cansis Teknoloji） |
+| 法定名称 | Cansis Teknoloji / Can-Sis Güvenlik ve Bilgisayar Sistemleri（科尼亚 Çumra İzzetbey Mah. Hıdır Sok. No:7/A；个体工商推定 → 部分坐实） |
+| 成立 | 未取（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Çumra / Konya, Türkiye |
-| 其他 | 安防摄像/报警 + 电脑维修销售店；Armiya Teknoloji 经销商；ISAF 2025 问 12 光 12 电 PoE 网管，已报 $150；WA 已加 |
+| 其他 | 安防摄像/报警 + 电脑维修销售店；Armiya Teknoloji 经销商；ISAF 2025 问 12 光 12 电 PoE 网管，已报 $150；WA 已加；第 105 批：Çumra 小型安防 / 电脑店（ISAF 问 12 光 12 电 PoE 网管，已报 $150）→ **零星小单；WA 一次性跟进报价有效期后不动**（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防摄像与报警安装（科尼亚）；电脑维修与销售
 - **触达通道（公开）**：网站: http://www.cansisteknoloji.com；Facebook: https://www.facebook.com/cansisteknoloji/；WhatsApp: 已加
@@ -172,7 +187,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ahmet Can | 店主 | acan@cansisteknoloji.com / +90 541 541 0010（WA）/ +90 332 447 4226 | 调研核实（公开页） | 官网 + 行业目录 + 用户 Clients 表 |
+| Ahmet Can | 店主（ASKON Konya 会员；Armiya 经销商）= 收件人本人（第 105 批 官方登记核实 2026-10-28） | acan@cansisteknoloji.com / +90 541 541 0010（WA）/ +90 332 447 4226 | 调研核实（公开页） | 官网 + 行业目录 + 用户 Clients 表 |
 | Ahmet Can | 店主（行业目录公开） | —（见官网） / 0541 541 0010 | 调研核实（公开页） | https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 105 批（TR · 1 次检索：无命中（结果为 Labor Dış Ticaret Mühendislik Ltd. Şti Sivas 2023 建筑 / 其他 Mühendislik 公司，均非本户；同名 labor.com.tr 为实验室耗材公司）→ 未坐实（规则：1 次未命中即停）；仅表内信息，2026-10-28 查；（无可用 URL；表内 info@labormuhendislik.com.tr））：**
+
+- 法定名 / 登记号：Labor Mühendislik（labormuhendislik.com.tr；土耳其）— ISAF 2025 记录：Ramazan Daş（不会英文）要工业级 PoE 交换机、索要价格表；**域名在搜索引擎无结果，1 次检索未命中任何同名实体（Sivas「Labor Dış Ticaret Mühendislik Ltd. Şti」为建筑业，不采）→ 未坐实**；无后续跟进 · 未取（未坐实） · 状态 **未取** · 成立 未取 · 未取
+- 行业码 / 经营范围：工程 / 弱电（ISAF 现场需求：工业 PoE 交换机）
+- 注册地址：未取（研究档：土耳其）
+- 规模档：未取（推定小微）
+- 账目：—；—
+- 高管：Ramazan Daş — ISAF 名片 = 研究档 KP = 收件人（info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **ISAF 明确需求（工业 PoE + 价格表）但主体未坐实 → 零星小单：一页纸（工业线 STI-054GP / STI-144GP / STI-288DGGPM 价格卡）一次后不动**
+  - 收件人 info@ 点名 Ramazan Daş；土耳其语 WA 模板可并用；发信窗口 Thu 10–12 TRT
+- 备注：零星小单；一页纸后不动；未坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -102,16 +116,17 @@ updated: 2026-10-28
 - **【用户表】ISAF：不会英文；工业 PoE；要价格表**
   > 不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ramazan Daş（（ISAF 名片；职务待核））info@labormuhendislik.com.tr（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ramazan Daş（ISAF 名片联系人（不会英文）= 收件人（第 105 批 官方登记核实 2026-10-28））info@labormuhendislik.com.tr（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 官网未检索到 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Labor Mühendislik（待核） |
+| 法定名称 | Labor Mühendislik（域名无搜索结果；1 次检索未命中任何同名实体 → 未坐实） |
+| 成立 | 未取（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Türkiye（城市待核） |
-| 其他 | 仅 info@ 邮箱；不会英文 |
+| 其他 | 仅 info@ 邮箱；不会英文；第 105 批：ISAF 明确需求（工业 PoE + 价格表）但主体未坐实 → **零星小单；一页纸（工业线价格卡）一次后不动**（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工程承包（Mühendislik；细分待核）
 - **触达通道（公开）**：邮箱: info@labormuhendislik.com.tr（用户表）
@@ -167,7 +182,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ramazan Daş | （ISAF 名片；职务待核） | info@labormuhendislik.com.tr（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ramazan Daş | ISAF 名片联系人（不会英文）= 收件人（第 105 批 官方登记核实 2026-10-28） | info@labormuhendislik.com.tr（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Ramazan DAS | — | info@labormuhendislik.com.tr / +05337437407 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

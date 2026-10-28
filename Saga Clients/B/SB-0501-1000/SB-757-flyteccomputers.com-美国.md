@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +91,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 105 批（US · 1 次检索：Sunbiz 名录（FLYTEC COMPUTERS INC；P07000099060；Active）+ LinkedIn 公司页（Computer Hardware；11–50；Doral；2007；Ubiquiti / MikroTik / Cambium / Mimosa / Fanvil）+ LinkedIn Bruno T. Rocha（CEO of Flytec Computers；Miami）+ RocketReach（CEO 2021-01 起；此前销售经理 / 销售工程师 2009 起；$19.1M；73 人；3655 NW 115th Ave Doral FL 33178）+ 官网 Press / UniFi Enterprise（Ubiquiti Master Distributor；MikroTik 官方分销；20+ 年；美 / 加 / 拉美 / 加勒比）+ Trustpilot（elite master distributor for Ubiquiti），2026-10-28 查；https://search.sunbiz.org/Inquiry/corporationsearch/SearchResults?inquiryType=EntityName&searchTerm=FLYTEC+COMPUTERS+INC）：**
+
+- 法定名 / 登记号：FLYTEC COMPUTERS INC（flyteccomputers.com；Doral / Miami, Florida；Sunbiz P07000099060 Active）— 2007 年成立的有线 / 无线 / 光纤与 VoIP 设备主分销商（**Ubiquiti Master Distributor**、MikroTik 官方分销、Fanvil、Tycon、Halny、Iuron；美 / 加 / 拉美 / 加勒比）；CEO Bruno T. Rocha（2021 起）、产品管理总监 Freddy Sigal（= 研究档 KP）；11–50 人（≈73），$19.1M 口径；表内「PoE switch，Hisource 的」；群发 18 次无回复 · FL Sunbiz P07000099060 · 状态 **Active** · 成立 2007 · Florida Profit Corporation（私有）
+- 行业码 / 经营范围：网络 / 无线 / 光纤 / VoIP 设备主分销（Ubiquiti Master Distributor、MikroTik、Fanvil、Halny、Iuron；美加拉美出口）
+- 注册地址：3655 NW 115th Ave, Doral / Miami, FL 33178
+- 规模档：中型（11–50 自报；≈73 口径）
+- 账目：第三方 $19.1M（仅作区间）；—
+- 高管：Bruno T. Rocha — CEO（2021 起）= 拍板人
+- 高管：Freddy Sigal — Director of Product Management = 研究档 KP = 选品对口 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Ubiquiti / MikroTik 主分销商，已直采中国 PoE（表内 Hisource）→ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM / STC-448XGGPM（填其 MikroTik / UniFi 之间的 Marvell L2+ 价位空档；3 年保 STI 线作卖点）；一页纸 + 价格卡；稿内不点名其品牌
+  - 收件人 fsigal@ 直呼 Freddy，抄 bruno@；18 次群发无回复 → 二次触达必换切口「a managed PoE line between your two main brands」；发信窗口 Wed 08–10 ET；升 A 次候选
+- 备注：分销 20%；B BIG；加厚一次；升 A 次候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,18 +142,18 @@ updated: 2026-10-27
 - **【用户表】PoE switch；hisource 的**
   > 兴趣：PoE switch hisource的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Freddy Sigal（）fsigal@flyteccomputers.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Bruno Rocha（）bruno@flyteccomputers.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Freddy Sigal（Director of Product Management = 选品对口 / 收件人本人（第 105 批 官方登记核实 2026-10-28））fsigal@flyteccomputers.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Bruno T. Rocha（CEO（2021 起；2009 入职销售工程师）= 拍板人（抄送）（第 105 批 官方登记核实 2026-10-28））bruno@flyteccomputers.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Flytec Computers Inc. |
-| 成立 | （待核） |
+| 法定名称 | FLYTEC COMPUTERS INC（FL Sunbiz P07000099060；Active） |
+| 成立 | 2007（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Miami, FL, USA |
-| 其他 | 已售 Hisource（中国同行）PoE |
+| 其他 | 已售 Hisource（中国同行）PoE；第 105 批：Doral FL 有线 / 无线 / 光纤 / VoIP 主分销商（Ubiquiti Master Distributor、MikroTik 官方；美加拉美；$19.1M / 73 人）→ **分销 20%，B BIG，加厚一次；升 A 次候选**；18 次群发无回复 → 二次触达必换切口（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：无线 / 光纤 / VoIP 设备分销
 - **触达通道（公开）**：role: 分销商（已售中国同行）；region: 美国 / 拉美
@@ -244,8 +259,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Freddy Sigal | — | fsigal@flyteccomputers.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Bruno Rocha | — | bruno@flyteccomputers.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Freddy Sigal | Director of Product Management = 选品对口 / 收件人本人（第 105 批 官方登记核实 2026-10-28） | fsigal@flyteccomputers.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Bruno T. Rocha | CEO（2021 起；2009 入职销售工程师）= 拍板人（抄送）（第 105 批 官方登记核实 2026-10-28） | bruno@flyteccomputers.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | hisource | — | mkt@flyteccomputers.com / fsigal@flyteccomputers.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -339,12 +354,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -44,7 +44,20 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Tyler Bell",
+   "role": "CEO = 拍板人（抄送）（第 105 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.linkedin.com/company/broadstar-communications"
+  },
+  {
+   "name": "Douglas Bell",
+   "role": "President & Owner（The BroadStar Companies）（第 105 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.broadstar.com/douglas-bell/"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -53,11 +66,11 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "BroadStar, Inc.",
-  "founded": "1994",
+  "legal_name": "BroadStar Commercial Communications LLC（FL Sunbiz L14000110165；FEI 47-1348982；旧 Broadstar Communications, LLC M03000000083 已注销）",
+  "founded": "2014-07-11（品牌 1994 起）（第 105 批 官方登记核实 2026-10-28）",
   "hq": "3965 Investment Ln, West Palm Beach, FL 33404, USA（561-472-5022；customerservice@broadstar.com）",
   "size": "51–200（LinkedIn）；$18.9M（ZoomInfo）",
-  "other": "AON FTTH：每户专属光纤对；bulk 合同由 HOA 统一付费；52 个社区（2026-09 官网口径）"
+  "other": "AON FTTH：每户专属光纤对；bulk 合同由 HOA 统一付费；52 个社区（2026-09 官网口径）；第 105 批：West Palm Beach FL 社区型 AON 光纤 ISP（52 社区；5 Gig；IP Infusion 白盒；$18.9M / 63 人）→ **采购型 20%，B BIG，加厚一次（光口接入 / 10G 上联 / 25G 汇聚）；升 A 次候选**（第 105 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "社区 bulk 光纤互联网（AON FTTH，最高 5 Gig）",

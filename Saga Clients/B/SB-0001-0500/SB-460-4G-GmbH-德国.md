@@ -75,6 +75,23 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 105 批（DE · 1 次检索：webvalid（4G GmbH Sendenhorst；Handelsregister Münster HRB 15069；Gründung 04.07.2014；Gegenstand Entwicklung, Produktion und Vertrieb von elektrischer Antriebstechnik；2023-06-21 Bestellt zum Geschäftsführer Kleiböhmer, Michael Heinrich Wilhelm, Adelsdorf，einzelvertretungsberechtigt；Geschäftsanschrift Industrieweg 19 48324 Sendenhorst）+ Northdata（4G GmbH / 原 Westhoff Engineering GmbH；HRB 15069；MD Michael Kleiböhmer）+ online-handelsregister（Kapital 63.000 EUR；Gesellschaftsvertrag 2014-07-04；首任 GF Jörg Westhoff）；同名 4G GmbH Würzburg HRB 16332 为他家，不采，2026-10-28 查；https://www.northdata.com/4G%20GmbH,%20Sendenhorst/Amtsgericht%20M%C3%BCnster%20HRB%2015069）：**
+
+- 法定名 / 登记号：4G GmbH（4g-gmbh.de；北威州 Sendenhorst；Amtsgericht Münster HRB 15069）— 2014-07-04 以 Westhoff Engineering GmbH 成立、2015 更名 4G GmbH 的电驱动技术开发 / 生产 / 销售公司（股本 €63,000）；GF Michael Heinrich Wilhelm Kleiböhmer（2023-06 起；= 研究档 KP mk@）；表内 Shopify 订单 OM-FBS-22-SLC（光旁路 / 光开关类配件）「珊姐跟进了」→ 已成交零星小单 · HRB 15069（Amtsgericht Münster） · 状态 **Active** · 成立 2014-07-04（Westhoff Engineering GmbH）；2015 更名 4G GmbH · GmbH（私有；股本 €63,000）
+- 行业码 / 经营范围：电驱动技术开发 / 生产 / 销售（工程型小厂；网络 / 光配件为研发采购）
+- 注册地址：Industrieweg 19, 48324 Sendenhorst（NRW）
+- 规模档：小型（推定 5–20 人）
+- 账目：—；—
+- 高管：Michael Heinrich Wilhelm Kleiböhmer — Geschäftsführer（2023-06 起，单独代表）= 研究档 KP = 收件人
+- 高管：Andre Borgmann — 前 GF（2023-06 卸任）
+- 高管：Jörg Westhoff — 创始 GF（2014–2023）
+- 控制人 / 股东：未取
+- 曾用名：Westhoff Engineering GmbH（2014–2015）
+- **这意味着什么：**
+  - **已成交零星（Shopify 光旁路配件）的工程小厂 → 采购型 small，复购一页纸（研发 / 测试台 PoE 与 10G：STC-228GP / STC-110XGE）后不动**；按成单客户规则只记档监控，不群发
+  - 收件人 mk@ 直呼 Herr Kleiböhmer；切口「your earlier order with us」（仅当 S-box / Shopify 记录能证实，否则不提）；发信窗口 Thu 12–14 CET
+- 备注：采购型 small；已成交零星；复购一页纸后不动；HRB 已取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -101,15 +118,17 @@ updated: 2026-10-28
 - **【用户表】Shopify 订单 OM-FBS-22-SLC**
   > OM-FBS-22-SLC / from: Shopify 珊姐跟进了
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Michael Kleiböhmer（）mk@4g-gmbh.de 〔用户表〕
+- **KP**：Michael Kleiböhmer（Geschäftsführer（2023-06 起，单独代表；Münster HRB 15069 在册）= 收件人本人（第 105 批 官方登记核实 2026-10-28））mk@4g-gmbh.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | 4G GmbH（Amtsgericht Münster HRB 15069；Sendenhorst Industrieweg 19；股本 €63,000；原 Westhoff Engineering GmbH） |
+| 成立 | 2014-07-04（第 105 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 4g-gmbh.de，语言 ?，快照状态 unreachable；角色判定来源：用户表 |
+| 其他 | 官网 4g-gmbh.de，语言 ?，快照状态 unreachable；角色判定来源：用户表；第 105 批：电驱动技术开发 / 生产小厂（Shopify 光旁路配件已成交零星，「珊姐跟进了」）→ **采购型 small；复购一页纸后不动；成单客户只记档监控不群发**（第 105 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 网络（德国，待核）
 - **触达通道（公开）**：role: IT/网络公司（德国，Shopify 成交客户）；region: 德国；contact: mk@4g-gmbh.de
@@ -158,7 +177,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Michael Kleiböhmer | — | mk@4g-gmbh.de | 调研核实（公开页） | 用户表 |
+| Michael Kleiböhmer | Geschäftsführer（2023-06 起，单独代表；Münster HRB 15069 在册）= 收件人本人（第 105 批 官方登记核实 2026-10-28） | mk@4g-gmbh.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
