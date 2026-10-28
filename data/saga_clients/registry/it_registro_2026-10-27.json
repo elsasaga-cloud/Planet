@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 38
+  "count": 44
  },
  "rows": {
   "SA-070": {
@@ -1231,6 +1231,197 @@
    ],
    "notes": "分销 20% small；一页纸一次（换切口）；坐实（P.IVA + REA + 财务）。",
    "code": "SB-269"
+  },
+  "SB-272": {
+   "batch": 110,
+   "name": "ELECTRONIK HOUSE S.r.l.s.（società a responsabilità limitata semplificata；electronikhouse.it；摩德纳 Strada Cognento 142, 41126 Modena；P.IVA / CF 03568370369；REA MO-399124）— 2014-05-02 登记的电子 / 电信设备小店（ATECO 46.50.2；线上 + 门店）；股本 **€900**；3 人（2026）；2024 营收 €216.5k、净利 €4.5k；仅 info@；表内未跟进",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（ELECTRONIK HOUSE SOCIETA’ A RESPONSABILITA’ LIMITATA SEMPLIFICATA；STRADA COGNENTO 142 41126 MODENA；Rea 399124；Fatturato € 216.513 2024；Dipendenti 3；Iscrizione 02/05/2014；Utile € 4.541；Capitale € 900）+ fatturatoitalia（P.IVA 03568370369；REA MO 399124；ATECO 46.52.09；Fatturato 2023 € 243.676）+ electronikhouse.it/dove-siamo（Electronik House srl；Strada Cognento 142；info@electronikhouse.it）",
+   "url": "https://www.ufficiocamerale.it/8065/electronik-house-societa-a-responsabilita-limitata-semplificata",
+   "number": "P.IVA / CF 03568370369；REA MO-399124",
+   "status": "Active",
+   "incorporated": "2014-05-02",
+   "company_type": "S.r.l.s.（股本 €900）",
+   "sic": [
+    "电子 / 电信设备 小店（ATECO 46.50.2）"
+   ],
+   "address": "Strada Cognento 142, 41126 Modena (MO)",
+   "accounts": "2024 营收 €216,513；净利 €4,541",
+   "accounts_due": "—",
+   "size_band": "小微（3 人）",
+   "officers": [
+    "（未具名）— amministratore（未取；研究档仅 info@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€900 股本、3 人、年营收 €22 万的电子小店（无 KP）→ 按「一人网店」规则 不动**"
+   ],
+   "notes": "坐实（P.IVA + REA + 财务）；微型小店 → 不动。",
+   "code": "SB-272"
+  },
+  "SB-287": {
+   "batch": 110,
+   "name": "S. & A. S.R.L.（商号 S&A；sea-srl.it；总部 Varese Gallarate Via Cappuccini 58, 21013；分部 Legnano / Milano / Bologna / Asti；P.IVA / CF 01887850129；REA VA-214291）— 安防电子产品批发分销商（防盗 / 消防 / 视频监控 / 门禁；TVT / Ajax / Bentel / Bosch / Hochiki / Optex / Dnake / Tedee 等）；股本 €100,000 i.v.；ATECO 46.47.30；Reg. AEE IT26030000018416；KP Mauro Brunazzo（CEO）、Sandro Succi；Milano 商务负责人 Marcello Gariboldi；表内 4 次跟进无回复",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：sea-srl.it 页脚（S. & A. S.R.L.；P.Iva/CF 01887850129；Rea VA-214291；C.s. € 100.000,00 i.v.；Ateco 46.47.30；Reg. A.E.E. IT26030000018416；partner TVT Ajax Bentel Bosch Hochiki）+ sea-srl.it/contatti/sedi（Sede centrale Gallarate Via Cappuccini 58；Legnano Via Saronnese 16；Milano Viale Vigliani 13 Responsabile Commerciale Marcello Gariboldi；Bologna Via Panigale 57；Asti Via Pisa 10）；营收数字未取（同名 SEA S.r.l. 多家 ≠）",
+   "url": "https://www.sea-srl.it/contatti/sedi",
+   "number": "P.IVA / CF 01887850129；REA VA-214291",
+   "status": "Active",
+   "incorporated": "—（未取）",
+   "company_type": "S.r.l.（股本 €100,000）",
+   "sic": [
+    "安防电子 批发分销（5 个网点）"
+   ],
+   "address": "Via Cappuccini 58, 21013 Gallarate (VA)",
+   "accounts": "未取（5 网点）",
+   "accounts_due": "—",
+   "size_band": "小型–中型（5 网点）",
+   "officers": [
+    "Mauro Brunazzo — CEO（研究档 KP mauro.brunazzo@）= 拍板人 / 收件人",
+    "Sandro Succi — 研究档 KP",
+    "Marcello Gariboldi — Responsabile Commerciale Milano（官网）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**5 个网点的伦巴第安防分销商（4 次无回）→ 分销 20%，B BIG，加厚一次（换切口：安装商柜台「配套 PoE」SKU：STC-028GP / STC-228GP / STC-2224GP 配 TVT / Ajax 套件 + 意大利 DAP 小起订）**；稿内不点名品牌",
+    "收件人 Mauro 直呼、抄 Marcello（Milano）；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次（换切口）；坐实（P.IVA + REA 页脚；营收未取）。",
+   "code": "SB-287"
+  },
+  "SB-289": {
+   "batch": 110,
+   "name": "SISTEMI AVANZATI ELETTRONICI S.R.L.（商号 SisAv；sisav.it；比耶拉 Cossato Via Guglielmo Marconi 11/D, 13836 (BI)；P.IVA / CF 01925460022；REA BI-174039）— 1998 年成立的工业 / 国防 / 医疗专业电子硬件分销与系统集成商（工业 PC、数据采集、数据记录仪；2016 起 SisAv Medicale 事业部）；11–50 人；2024 营收 €4.33M；KP Chiara Beriachetto、Ilaria Cianciola；表内 4 次跟进无回复",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（SISTEMI AVANZATI ELETTRONICI SRL；P.IVA 01925460022；VIA GUGLIELMO MARCONI 11/D 13836 COSSATO；Rea 174039；Fatturato € 4.329.902 2024）+ sisav.it/azienda（Sistemi Avanzati Elettronici S.r.l.；REA BI 174039；industria / difesa / sanità）+ biopmed（since 1998；process automation；defence sector；2016 SisAv Medicale）+ LinkedIn（11–50；1998）",
+   "url": "https://www.ufficiocamerale.it/4975/sistemi-avanzati-elettronici-srl",
+   "number": "P.IVA / CF 01925460022；REA BI-174039",
+   "status": "Active",
+   "incorporated": "1998",
+   "company_type": "S.r.l.（私有）",
+   "sic": [
+    "工业 / 国防 / 医疗 电子硬件分销 + 集成"
+   ],
+   "address": "Via Guglielmo Marconi 11/D, 13836 Cossato (BI)",
+   "accounts": "2024 营收 €4,329,902",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Chiara Beriachetto — 研究档 KP（c.beriachetto@）= 收件人",
+    "Ilaria Cianciola — 研究档 KP"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€4.3M 工业 / 国防 / 医疗电子分销商 → 守界：只做工业自动化线（绝不提国防 / 医疗认证）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作数据采集现场网络的第二价位）；有回声再加厚**",
+    "收件人 Chiara 直呼；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次（仅工业线）；坐实（P.IVA + REA + 财务）。",
+   "code": "SB-289"
+  },
+  "SB-290": {
+   "batch": 110,
+   "name": "SOLPAKUTEC INDUSTRY DP（impresa individuale = Dominik Prieth 个体户，CF PRTDNK95S07I729O，1995 年生；solpakutec.com；南蒂罗尔 Schlanders / Silandro Gewerbegebiet / Zona Produttiva 21, 39028 (BZ)；P.IVA 03085880213；REA BZ-230913）— 工业 PC / 移动终端 / 工业显示器 / 工业通信（ICP DAS 等）的一人分销商（德语区）；ATECO 46.51；KP Dominik Prieth（d.prieth@）；表内 4 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：solpakutec.com/en/imprint（Legal seat SOLPAKUTEC INDUSTRY DP Gewerbegebiet 21 39028 Schlanders；P. IVA IT 03085880213；Str Nr. PRTDNK95S07I729O；PEC prieth.dominik@pec.it）+ informazione-aziende（Forma Giuridica IMPRESA INDIVIDUALE；Codice Fiscale PRTDNK95S07I729O；46.50.1）+ reportaziende（REA BZ230913；Ditta Individuale；Silandro）+ LinkedIn Dominik Prieth（Solpakutec，Meran）",
+   "url": "https://solpakutec.com/en/imprint/",
+   "number": "P.IVA 03085880213；REA BZ-230913；CF PRTDNK95S07I729O",
+   "status": "Active",
+   "incorporated": "—（≈2019；未取）",
+   "company_type": "Impresa individuale（Dominik Prieth）",
+   "sic": [
+    "工业 PC / 工业通信 一人分销（ATECO 46.51）"
+   ],
+   "address": "Gewerbegebiet / Zona Produttiva 21, 39028 Schlanders / Silandro (BZ)",
+   "accounts": "—（个体户）",
+   "accounts_due": "—",
+   "size_band": "小微（1 人）",
+   "officers": [
+    "Dominik Prieth — Titolare / Inhaber（研究档 KP d.prieth@）= 拍板人 / 收件人"
+   ],
+   "psc": "Dominik Prieth 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**南蒂罗尔一人工业分销（打开 4 次）→ 分销 20% small，一页纸一次（德语引子；STI-054GP / STI-144GP / STI-154GP 作台系工业交换机第二价位 + MOQ 1 + 预付款）；再无回声 → 不动**",
+    "收件人 Dominik 直呼；发信窗口 Thu 12–14 CET；稿内不点名 ICP DAS"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（P.IVA + REA + 个体户）。",
+   "code": "SB-290"
+  },
+  "SB-417": {
+   "batch": 110,
+   "name": "ALIDEX NETWORKS S.R.L.（商号 ALIDEX Italia；alidex.it；研究档法定名「ALIDEX S.r.l.」应更正；洛迪 Codogno Piazza Novello 22, 26845 (LO)；P.IVA 10924650962；ATECO 46.52.09）— 约 2019 年成立的南欧工业网络分销商（ORing 工业交换机 / 无线 / 光纤转换器 / 串口服务器 / Network TAP；「近 8,000 个货号」；意大利 + 西班牙两地 = Alidex Iberia alidex.es → SB-832 并线）；微型：**1 名雇员、股本 €2,000**、最近营收 €388k（+22.8%）；仅 info@；表内未跟进",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：alidex.it 页脚（© 2025 ALIDEX - ALIDEX NETWORKS SRL - P. IVA IT10924650962；Sedi in Italia e Spagna；Alidex Iberia）+ alidex.it/produttori（ORing；quasi 8.000 articoli）+ atoka（Alidex Networks Srl；Piazza Novello 22 26845 Codogno (LO)；46.52.09；RICAVI 388.0 K €；+22.8 %；DIPENDENTI 1；ANZIANITÀ 6 anni；capitale 2.0 K €；microimpresa）+ alidex.es/fabricantes（Alidex Iberia）",
+   "url": "https://atoka.io/public/it/azienda/alidex-networks-srl/facc00f3dde8",
+   "number": "P.IVA / CF 10924650962",
+   "status": "Active",
+   "incorporated": "≈2019（「6 anni」）",
+   "company_type": "S.r.l.（微型；股本 €2,000）",
+   "sic": [
+    "工业网络产品 分销（ORing 南欧）"
+   ],
+   "address": "Piazza Novello 22, 26845 Codogno (LO)",
+   "accounts": "最近营收 €388k（+22.8%）；1 人",
+   "accounts_due": "—",
+   "size_band": "小微（1 人）",
+   "officers": [
+    "（未具名）— amministratore（未取；研究档仅 info@alidex.it）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**台系工业品牌的一人南欧分销（IT + ES 同一业务）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作「第二价位」+ MOQ 1）；SB-832（西班牙站）并线于此，不另发**",
+    "收件人 info@alidex.it；发信窗口 Thu 12–14 CET；稿内不点名 ORing"
+   ],
+   "notes": "分销 20% small；一页纸一次；SB-832 并线；坐实（P.IVA + 规模）；法定名更正 ALIDEX NETWORKS S.R.L.。",
+   "code": "SB-417"
+  },
+  "SB-437": {
+   "batch": 110,
+   "name": "TPOLE S.R.L.（tpole.it；帕维亚 Portalbera Via Alcide De Gasperi 4, 27040 (PV)；**现行实体 P.IVA / CF 02978370183、REA PV-330560，2025-01-10 登记，股本 €50,000；前身同名 TPOLE S.R.L. P.IVA 02545250967、REA 218088，2005-05-02 登记，股本 €26,000**）— 1995 年由 Pietro Milani（CEO；= 研究档 KP）创立的工业 / 嵌入式 PC 增值分销商（自动机械 / 医疗 / 轨交 / 工业；工业交换机为台系）；15 人（2025）；前身 2022 营收 €9.47M、净利 €2.0M；2025 营收 €8.76M、净利 €665k；研究档另有 Lorenzo Bruno（info@）；表内 4 次跟进无回复",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale/5622（TPOLE S.R.L.；P.IVA 02978370183；VIA ALCIDE DE GASPERI 4 27040 PORTALBERA；Rea 330560；Dipendenti 15 2025；Iscrizione 10/01/2025；Capitale € 50.000）+ ufficiocamerale/5672（前身 TPOLE S.R.L. 02545250967；Rea 218088；Fatturato € 9.468.968 2022；Utile € 1.998.764；Iscrizione 02/05/2005）+ tpole.it/en/services 页脚（REA 330560 - P.IVA 02978370183 - Cap. Sociale € 50.000）+ reportaziende（Fatturato € 8,76 Mln 2025；Utile € 665 K）+ affaritaliani 2025-11（fondata nel 1995 da Pietro Milani）",
+   "url": "https://www.ufficiocamerale.it/5622/tpole-srl",
+   "number": "P.IVA / CF 02978370183；REA PV-330560（前身 02545250967 / REA 218088）",
+   "status": "Active（2025-01 新实体承接）",
+   "incorporated": "2025-01-10（前身 2005-05-02；业务 1995）",
+   "company_type": "S.r.l.（Pietro Milani）",
+   "sic": [
+    "工业 / 嵌入式 PC 增值分销（ATECO 46.51）"
+   ],
+   "address": "Via Alcide De Gasperi 4, 27040 Portalbera (PV)",
+   "accounts": "2025 营收 €8.76M；净利 €665k；15 人（前身 2022 €9.47M）",
+   "accounts_due": "—",
+   "size_band": "小型（15 人；€8.8M）",
+   "officers": [
+    "Pietro Milani — Fondatore / CEO（研究档 KP pietro.milani@）= 拍板人 / 收件人",
+    "Lorenzo Bruno — 研究档 KP（info@）"
+   ],
+   "psc": "Pietro Milani（推定）",
+   "charges": "",
+   "prev_names": [
+    "TPOLE S.R.L.（P.IVA 02545250967，2005–2025）"
+   ],
+   "lines": [
+    "**€8.8M 工业 PC 分销商（台系工业交换机；4 次无回；2025 换新实体）→ 分销 20%，B BIG，加厚一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 作工业交换机「第二价位 + 3 年保」；只提自动机械 / 工业，不提轨交 / 医疗）**；次候选升 A",
+    "收件人 Pietro 直呼；发信窗口 Thu 12–14 CET；意语一句引子；稿内不点名 Volktek"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次（换切口；守界非轨交）；坐实（新旧 P.IVA + 财务）。",
+   "code": "SB-437"
   }
  }
 }

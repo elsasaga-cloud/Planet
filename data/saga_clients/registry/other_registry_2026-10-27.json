@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 104
+  "count": 110
  },
  "rows": {
   "SA-061": {
@@ -3302,6 +3302,206 @@
    ],
    "notes": "分销 20% small；一页纸一次（换切口）；坐实（UID + 董事会）；旁线索 VIDEOR / eneo。",
    "code": "SB-265"
+  },
+  "SB-277": {
+   "batch": 110,
+   "name": "INSTANT BYTE SL（instantbyte.com；马德里 Leganés C/ Julio Palacios 10, Naves 1–4, Pol. Ind., 28914；CIF B83680082；RM Madrid）— 2003-07-15 成立的西班牙 / 葡萄牙无线 / VoIP / 视频监控 / GPON 增值批发商（Ubiquiti / MikroTik / TP-Link / Grandstream / Yealink / Cambium / Huawei 等；「超过 1.2 万 SKU」）；36 名雇员（2024）；自述年营业额 >€20–22M（infojobs / ASLAN 2026）；KP Juan Prieto（CEO）、Eduardo Valle（comercial@）；表内 4 次群发无回复",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：einforma（INSTANT BYTE SL；CIF B83680082；fundada 15/07/2003；CALLE JULIO PALACIOS 10 NAV 2 28914 LEGANES；objeto fabricación importación exportación y venta de productos informáticos y de telecomunicaciones）+ empresite（36 trabajadores 2024）+ iberinform（CNAE 4650；www.instantbyte.com）+ infojobs（35 empleados；superamos los 20 millones de euros de facturación anual）+ aslan.es 2026-10（facturación superior a los 22 millones）+ instantbyte.com 页脚（C/ Julio Palacios 10 naves 1-4 28914 Leganés；CIF B83680082）",
+   "url": "https://www.einforma.com/informacion-empresa/instant-byte",
+   "number": "CIF B83680082",
+   "status": "Activa",
+   "incorporated": "2003-07-15",
+   "company_type": "S.L.（私有）",
+   "sic": [
+    "无线 / VoIP / CCTV / GPON 增值批发（CNAE 4650 / 4652）"
+   ],
+   "address": "C/ Julio Palacios 10, Naves 1–4, Pol. Ind., 28914 Leganés (Madrid)",
+   "accounts": "自述年营业额 >€20–22M；36 人",
+   "accounts_due": "—",
+   "size_band": "中型（36 人；>€20M）",
+   "officers": [
+    "Juan Prieto — CEO（研究档 KP ejprieto@）= 拍板人 / 收件人",
+    "Eduardo Valle — Comercial（研究档 KP comercial@）= 收件人（抄）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€20M+、36 人的马德里网络批发商（4 次无回）→ 分销 20%，B BIG，加厚一次（换切口：MikroTik / TP-Link 价位带之间的「第二 PoE 货源」+ 西语引子 + 伊比利亚 DAP 小起订）**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP 一页纸；次候选升 A",
+    "收件人 Juan 直呼、抄 Eduardo；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次（换切口）；坐实（CIF + 人数）。",
+   "code": "SB-277"
+  },
+  "SB-292": {
+   "batch": 110,
+   "name": "Tesla Networks BV（原 BVBA；teslanetworks.be / .com；安特卫普省 Heist-op-den-Berg (Itegem) Pannenhuisstraat (ITE) 2, 2222；BE 0830.294.165；RPR Antwerpen afd. Mechelen；原址 Herentals Diamantstraat 8）— 2010-10-06 注册（业务自 1999）的无线 + 工业网络集成 / 咨询商（公共交通 / 能源 / 工业 / 智慧城市 / IIoT；车载 ITxPT / 5G 项目 De Lijn 公交 / 有轨电车 = 台系工业品牌渠道）；1–5 人（LinkedIn 2–10）；CEO Bart Pen（= 研究档 KP）；Joris Laeremans（Sales & Marketing）、Thomas Pen（Marketing & Admin）；研究档另有 Ashwin Taeye（info@）；表内 4 次跟进无回复",
+   "iso": "BE",
+   "fetched": "2026-10-28",
+   "source": "BE · 1 次检索：companyweb（Tesla Networks BV；BE 0830.294.165；Pannenhuisstraat(ITE) 2 2222 Heist-op-den-Berg；Established 06-10-2010；Active）+ staatsbladmonitor（Besloten Vennootschap；Normale toestand；原 BVBA Diamantstraat 8 Herentals）+ 100procentlokaal（OND. NR. BE0830294165；RPR Antwerpen afdeling Mechelen）+ bsearch（Personeel 1-5）+ LinkedIn（Founded 1999；2–10；Bart Pen CEO；Joris Laeremans；Thomas Pen）+ Bart Pen LinkedIn 2025-09（De Lijn onboard IP architecture；industrial 5G；ITxPT）",
+   "url": "https://www.companyweb.be/en/0830294165/tesla-networks",
+   "number": "BE 0830.294.165",
+   "status": "Actief（Normale toestand）",
+   "incorporated": "2010-10-06（业务 1999）",
+   "company_type": "BV（私有）",
+   "sic": [
+    "无线 + 工业网络 集成 / 咨询（公共交通 / 能源 / 工业）"
+   ],
+   "address": "Pannenhuisstraat (ITE) 2, 2222 Heist-op-den-Berg",
+   "accounts": "—（1–5 人）",
+   "accounts_due": "—",
+   "size_band": "小微（1–5 人）",
+   "officers": [
+    "Bart Pen — CEO（研究档 KP bart@teslanetworks.com）= 拍板人 / 收件人",
+    "Joris Laeremans — Sales & Marketing Manager（LinkedIn）",
+    "Thomas Pen — Marketing & Administrative Manager（LinkedIn）",
+    "Ashwin Taeye — 研究档 KP（info@）"
+   ],
+   "psc": "Pen 家族（推定）",
+   "charges": "",
+   "prev_names": [
+    "Tesla Networks BVBA"
+   ],
+   "lines": [
+    "**车载 / 公交（EN 50155 / ITxPT）为主业 → 守界：绝不提轨交 / 车载；只做能源 / 工业 / 智慧城市固定场景 → 集成 25% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 固定机柜场景 + MOQ 1）；再无回声 → 不动**",
+    "收件人 Bart 直呼；发信窗口 Thu 12–14 CET；荷语一句引子；稿内不点名 ORing"
+   ],
+   "notes": "集成 25% small；一页纸一次（非车载）；坐实（BE 号 + 人员）。",
+   "code": "SB-292"
+  },
+  "SB-297": {
+   "batch": 110,
+   "name": "Gorgos Cristian（个人 Gmail indexcristi@gmail.com；摩尔多瓦；无公司名 / 无网站）— 1 次检索未找到任何以其名义登记的 SRL / IDNO（同姓 GORGOS DORIN「DORGOR FRUCT」SRL 2025、GORGOS SIMION「KODY SYSTEMS」SRL 2021 ≠ 目标）；研究档仅联系人 + 「比较杂」",
+   "iso": "MD",
+   "fetched": "2026-10-28",
+   "source": "MD · 1 次检索（规则：Gmail 联系人 1 查即停）：asp.gov.md 国家登记公报 2025-05 / 2021-09 仅见同姓 Gorgos Dorin / Gorgos Simion 的无关 SRL；achizitii.md / camere.md 无关 → 未坐实",
+   "url": "https://www.asp.gov.md/sites/default/files/date-deschise/date-statistice/2025/rsud/buletinul-electronic/Buletinul-Electronic-05-2025.pdf",
+   "number": "—（未找到）",
+   "status": "未坐实",
+   "incorporated": "—",
+   "company_type": "个人 / 未知",
+   "sic": [
+    "未知（Gmail 联系人）"
+   ],
+   "address": "摩尔多瓦（未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "Gorgos Cristian — 研究档 KP（indexcristi@gmail.com）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Gmail 个人联系人、查无实体 → 不动（不进发送包；主动询盘则全额预付）**"
+   ],
+   "notes": "未坐实（1 查即停）→ 不动。",
+   "code": "SB-297"
+  },
+  "SB-434": {
+   "batch": 110,
+   "name": "S CONNECT S.L.（S-Connect；Sociedad limitada unipersonal；s-connect.es；巴塞罗那 C/ Villarroel 216, 4º 3ª, 08036 + 马德里办公室 Centro de Transporte de Madrid Of. 601-B；CIF B64872484；RM Barcelona）— 2008-05-07 成立（2003 起为西班牙办事处）的工业通信 / 工业 IoT 增值分销商，**德国 SPHINX Computer Vertriebs GmbH 集团（法兰克福；1989；DE / AT / DK / FR / ES / CH / UK）西班牙子公司**（Moxa 等；「1.2 万货号」；本地库存）；2–10 人；KP Nicolas Calvez（Inside Sales / Industrial IoT Solutions Specialist）；Pablo Kessler de la Maza、Alex Navarro Caraballo（销售 / 技术）；表内 4 次跟进无回复",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：einforma（S CONNECT S.L.；CIF B64872484；Fecha Constitución 07/05/2008；CNAE 4652；domicilio anterior Calle Berlin 7 Barcelona）+ empresite（Sociedad limitada unipersonal）+ s-connect.es/quienes-somos（fundada 2008 Barcelona filial española del grupo SPHINX Computer Vertriebs GmbH；1989 Frankfurt）+ s-connect.es（C/ Villarroel 216 4º 3 08036 Barcelona；Madrid Of. 601-B）+ LinkedIn（2–10；Nicolas CALVEZ Industrial IoT Solutions Specialist；Pablo Kessler；Alex Navarro）+ blog（Nicolas Calvez Inside Sales）",
+   "url": "https://www.einforma.com/informacion-empresa/s-connect",
+   "number": "CIF B64872484",
+   "status": "Activa",
+   "incorporated": "2008-05-07（办事处 2003）",
+   "company_type": "S.L.U.（SPHINX Computer Vertriebs GmbH 全资）",
+   "sic": [
+    "工业通信 / 工业 IoT 增值分销（CNAE 4652）"
+   ],
+   "address": "C/ Villarroel 216, 4º 3ª, 08036 Barcelona",
+   "accounts": "—（2–10 人）",
+   "accounts_due": "—",
+   "size_band": "小微（2–10 人）",
+   "officers": [
+    "Nicolas Calvez — Inside Sales / Industrial IoT Solutions Specialist（研究档 KP nicolas@）= 收件人",
+    "Pablo Kessler de la Maza — Sales & Technical Support（LinkedIn）",
+    "Alex Navarro Caraballo — Embedded PC & Industrial Communication Specialist（LinkedIn）",
+    "（集团）SPHINX Computer Vertriebs GmbH — 母公司（采购决策可能在法兰克福）"
+   ],
+   "psc": "SPHINX Computer Vertriebs GmbH 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**德国 SPHINX 集团的西班牙工业通信分销子公司（台系品牌为主；4 次无回）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作「第二价位 + 短交期」；西语引子）；有回声再加厚**",
+    "**旁线索（DE 池核对）：SPHINX Computer Vertriebs GmbH（法兰克福）— 7 国工业通信分销集团；集团采购可能统一，另立户评估**",
+    "收件人 Nicolas 直呼；发信窗口 Thu 12–14 CET；稿内不点名 Moxa"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（CIF + 集团）；旁线索 SPHINX。",
+   "code": "SB-434"
+  },
+  "SB-436": {
+   "batch": 110,
+   "name": "Steplock access AB（steplockaccess.se；达拉纳 Falun Rissgårdsvägen 8, 791 77；org.nr 559105-9992；VAT SE559105999201）— 2017-03-23 注册的门禁 / 通行系统自有品牌商（StepLock）；**Steab Förvaltning AB 集团**（6 家公司、84 人、SEK 448M）子公司；5 名雇员；FY2025-06 营业额 SEK 18.2M（≈€1.6M；2021 以来 +469%）、EBIT −SEK 7.2M（投入期）；VD Fredrik Skoog；董事长 David Stendal；研究档 KP「Peter」（peter@；姓未取）；表内 4 次跟进无回复",
+   "iso": "SE",
+   "fetched": "2026-10-28",
+   "source": "SE · 1 次检索：allabolag（Steplock access AB；Org.nr 559105-9992；Rissgårdsvägen 8 791 77 Falun；Del av Steab Förvaltning AB；Registreringsdatum 2017-03-23；Antal anställda 5；Omsättning 2025 18 160 tkr；Resultat efter finansnetto −7 497）+ bolagsfakta（Extern VD Fredrik Skoog；styrelseordförande David Stendal）+ ratsit（koncern Steab Förvaltning AB 6 företag 84 anställda 448,0 MSEK）+ hitta（VD Carl Fredrik Valter Skoog；Moms SE559105999201；EBIT −7 235 tkr 2025-06）",
+   "url": "https://www.allabolag.se/foretag/steplock-access-ab/falun/elektronik-och-telekommunikationsutrustning/2KGRTI0I63IFR",
+   "number": "Org.nr 559105-9992；VAT SE559105999201",
+   "status": "Aktiv",
+   "incorporated": "2017-03-23",
+   "company_type": "AB（Steab Förvaltning AB 集团）",
+   "sic": [
+    "门禁 / 通行系统 自有品牌（StepLock）"
+   ],
+   "address": "Rissgårdsvägen 8, 791 77 Falun",
+   "accounts": "FY2025-06 营业额 SEK 18,160k；EBIT −SEK 7,235k；5 人",
+   "accounts_due": "—",
+   "size_band": "小微（5 人；集团 84 人）",
+   "officers": [
+    "Fredrik Skoog — VD（extern；allabolag / hitta）= 拍板人（抄）",
+    "David Stendal — Styrelseordförande",
+    "Peter（姓未取）— 研究档 KP（peter@steplockaccess.se）= 收件人"
+   ],
+   "psc": "Steab Förvaltning AB",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌门禁系统商（高增长、亏损投入期；集团 SEK 448M）→ 贴标 / 配套 30% small，一页纸一次（STC-028GP / STI-054GP / STI-144GP 作门禁控制器 + 读卡终端的 PoE 配套，可贴 StepLock 标）；有回声再加厚**",
+    "收件人 Peter 直呼、抄 Fredrik；发信窗口 Thu 12–14 CET；瑞典语一句引子"
+   ],
+   "notes": "贴标 / 配套 30% small；一页纸一次；坐实（org.nr + 财务 + 集团）。",
+   "code": "SB-436"
+  },
+  "SB-444": {
+   "batch": 110,
+   "name": "Tritonsystems spol. s r.o.（triton.eu / tritonsystems.eu；品牌 ParkIS / Arena；布拉迪斯拉发 Petržalka Topoľčianska 25, 851 05（办公 Kopčianska 9, 851 01）；IČO 48060658；DIČ 2120052044；IČ DPH SK2120052044；OR OS Bratislava I, Sro 102834/B）— 2015-03-10 成立的停车 / 票务 / 门禁系统**制造商与运营商**（集团自 1992 年起，关联老公司 T R I T O N spol. s r.o. IČO 31323642 同址；「斯洛伐克最大停车系统制造商之一」）；所有人 / 法定代表 Mgr. Boris Lupták、Ing. Stanislav Lupták（= 研究档 KP）；KP Michal Chvála（michal.chvala@triton.eu）；表内 4 次跟进无回复",
+   "iso": "SK",
+   "fetched": "2026-10-28",
+   "source": "SK · 1 次检索：triton.eu/sk/kontakt（Tritonsystems s.r.o. Kopčianska 9 851 01 Bratislava；IČO: 31323642 IČ DPH SK2020350244 — 该号实为老公司 T R I T O N spol. s r.o.）+ foaf.sk（Tritonsystems spol. s r.o. vznikla 10.03.2015；štatutár Mgr. Boris Lupták, Ing. Stanislav Lupták；IČO 48060658；DIČ 2120052044；Sro 102834/B；Topoľčianska 25）+ orsr.sk（Sro 102834/B；IČO 48 060 658；Topoľčianska 25 851 05）+ finstat（IČ DPH SK2120052044 od 1.10.2015）+ tritonsystems.eu/sk/about-us（najväčším slovenským výrobcom parkovacích a prístupových systémov；od 1992）+ azet（T R I T O N spol. s r. o. IČO 31323642）",
+   "url": "https://www.finstat.sk/48060658",
+   "number": "IČO 48060658；IČ DPH SK2120052044（关联 T R I T O N spol. s r.o. IČO 31323642）",
+   "status": "Aktívna",
+   "incorporated": "2015-03-10（集团 1992）",
+   "company_type": "spol. s r.o.（Lupták 家族）",
+   "sic": [
+    "停车 / 票务 / 门禁系统 制造 + 运营（自有品牌 ParkIS）"
+   ],
+   "address": "Topoľčianska 25, 851 05 Bratislava（办公 Kopčianska 9, 851 01）",
+   "accounts": "未取（finstat 需登录）",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Stanislav Lupták（Ing.）— 所有人 / Konateľ（研究档 KP）= 拍板人（抄）",
+    "Boris Lupták（Mgr.）— 所有人 / Konateľ",
+    "Michal Chvála — 研究档 KP（michal.chvala@triton.eu）= 收件人",
+    "Mirka Arpášová — 采购 / 行政（123dopyt 登记邮箱）"
+   ],
+   "psc": "Boris Lupták + Stanislav Lupták",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌停车 / 门禁系统制造商（4 次无回）→ 贴标 / 配套 30% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP 作停车终端 + 车牌相机 的户外机柜 PoE 配套，可贴 ParkIS 标 + 3 年保）；有回声再加厚**",
+    "收件人 Michal 直呼、抄 Stanislav；发信窗口 Thu 12–14 CET；斯洛伐克语一句引子"
+   ],
+   "notes": "贴标 / 配套 30% small；一页纸一次（换切口）；坐实（IČO + 所有人）。",
+   "code": "SB-444"
   }
  }
 }

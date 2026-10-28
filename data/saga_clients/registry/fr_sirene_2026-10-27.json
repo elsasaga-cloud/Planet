@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 10
+  "count": 11
  },
  "rows": {
   "SA-011": {
@@ -337,6 +337,40 @@
    ],
    "notes": "集成 25% small；一页纸一次；坐实（SIREN + Président）。",
    "code": "SB-025"
+  },
+  "SB-439": {
+   "batch": 110,
+   "name": "E.V. EXXELL VISION SAS（商号 EXXELL VISION；exxell.fr / exxellfix.fr；上塞纳 Boulogne-Billancourt 204 Allée du Forum, 92100；SIREN 493 179 089；RCS Nanterre；SIRET 493 179 089 00039；TVA FR62493179089；NAF 4649Z）— 2006-11-20 成立（登记 2008-10-08）的安防设备进口 / 分销 / 安装（外包）商；资本 €15,000；6–9 名雇员（2022）；最后公开营收 €727,539（2011）；SARL → SAS（公告 2025-01-06）；**Président Jean-Edmond Rozowykwiat（2025-12-04 起；研究档称 Jeannie Rozowykwiat 2024-10 起任 Présidente → 已被替换）**；表内未跟进",
+   "iso": "FR",
+   "fetched": "2026-10-28",
+   "source": "FR · 1 次确认检索：societe.com（EXXELL VISION；SIREN 493 179 089；SIRET 493 179 089 00039；TVA FR62493179089；création 08 octobre 2008；NAF 4649Z；SAS；204 ALLEE DU FORUM 92100 BOULOGNE-BILLANCOURT；Dirigeant Jean-Edmond ROZOWYKWIAT；capital 15000 €）+ pappers（E.V. EXXELL VISION；Effectif 6 à 9 2022；Création 20/11/2006；Jean-Edmond Président depuis le 04/12/2025）+ annonces-legales 2025-01-06（Transformation SARL en SAS）+ verif（CA 727 539 € 2011）",
+   "url": "https://www.pappers.fr/entreprise/ev-exxell-vision-493179089",
+   "number": "SIREN 493 179 089（RCS Nanterre）；TVA FR62493179089",
+   "status": "Active",
+   "incorporated": "2006-11-20",
+   "company_type": "SAS（原 SARL；资本 €15,000）",
+   "sic": [
+    "安防设备 进口 / 分销 / 安装外包（NAF 4649Z）"
+   ],
+   "address": "204 Allée du Forum, 92100 Boulogne-Billancourt",
+   "accounts": "最后公开营收 €727,539（2011）；6–9 人（2022）",
+   "accounts_due": "—",
+   "size_band": "小微（6–9 人）",
+   "officers": [
+    "Jean-Edmond Rozowykwiat — Président（2025-12-04 起；pappers）= 拍板人",
+    "Jeannie Rozowykwiat (Levy) — 原 Présidente（2024-10 → 2025-12；研究档）；收件人 commercial@exxell.fr"
+   ],
+   "psc": "Rozowykwiat 家族（推定）",
+   "charges": "",
+   "prev_names": [
+    "EXXELL VISION SARL"
+   ],
+   "lines": [
+    "**巴黎近郊微型安防分销 / 安装商（无回声史）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配监控套件 + MOQ 1；法语引子）；再无回声 → 不动**",
+    "收件人 commercial@（Jean-Edmond 抬头）；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（SIREN + 官员更新）。",
+   "code": "SB-439"
   }
  }
 }
