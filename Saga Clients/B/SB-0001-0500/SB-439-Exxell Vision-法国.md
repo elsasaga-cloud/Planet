@@ -86,6 +86,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（FR · 1 次确认检索：societe.com（EXXELL VISION；SIREN 493 179 089；SIRET 493 179 089 00039；TVA FR62493179089；création 08 octobre 2008；NAF 4649Z；SAS；204 ALLEE DU FORUM 92100 BOULOGNE-BILLANCOURT；Dirigeant Jean-Edmond ROZOWYKWIAT；capital 15000 €）+ pappers（E.V. EXXELL VISION；Effectif 6 à 9 2022；Création 20/11/2006；Jean-Edmond Président depuis le 04/12/2025）+ annonces-legales 2025-01-06（Transformation SARL en SAS）+ verif（CA 727 539 € 2011），2026-10-28 查；https://www.pappers.fr/entreprise/ev-exxell-vision-493179089）：**
+
+- 法定名 / 登记号：E.V. EXXELL VISION SAS（商号 EXXELL VISION；exxell.fr / exxellfix.fr；上塞纳 Boulogne-Billancourt 204 Allée du Forum, 92100；SIREN 493 179 089；RCS Nanterre；SIRET 493 179 089 00039；TVA FR62493179089；NAF 4649Z）— 2006-11-20 成立（登记 2008-10-08）的安防设备进口 / 分销 / 安装（外包）商；资本 €15,000；6–9 名雇员（2022）；最后公开营收 €727,539（2011）；SARL → SAS（公告 2025-01-06）；**Président Jean-Edmond Rozowykwiat（2025-12-04 起；研究档称 Jeannie Rozowykwiat 2024-10 起任 Présidente → 已被替换）**；表内未跟进 · SIREN 493 179 089（RCS Nanterre）；TVA FR62493179089 · 状态 **Active** · 成立 2006-11-20 · SAS（原 SARL；资本 €15,000）
+- 行业码 / 经营范围：安防设备 进口 / 分销 / 安装外包（NAF 4649Z）
+- 注册地址：204 Allée du Forum, 92100 Boulogne-Billancourt
+- 规模档：小微（6–9 人）
+- 账目：最后公开营收 €727,539（2011）；6–9 人（2022）；—
+- 高管：Jean-Edmond Rozowykwiat — Président（2025-12-04 起；pappers）= 拍板人
+- 高管：Jeannie Rozowykwiat (Levy) — 原 Présidente（2024-10 → 2025-12；研究档）；收件人 commercial@exxell.fr
+- 控制人 / 股东：Rozowykwiat 家族（推定）
+- 曾用名：EXXELL VISION SARL
+- **这意味着什么：**
+  - **巴黎近郊微型安防分销 / 安装商（无回声史）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配监控套件 + MOQ 1；法语引子）；再无回声 → 不动**
+  - 收件人 commercial@（Jean-Edmond 抬头）；发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸一次；坐实（SIREN + 官员更新）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,18 +146,18 @@ updated: 2026-10-28
 - **【用户表】WhatsApp 已加；8 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jeannie Rozowykwiat (Levy)（Présidente（2024-10 起；登记公开））commercial@exxell.fr（公司公开） +33 1 83 83 50 00〔https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479〕
-- **KP**：Jean-Edmond Rozowykwiat（Président / 原 Gérant（2008–2025；登记公开））—（未公开） +33 1 83 83 50 00〔https://www.societe.com/societe/exxell-vision-493179089.html〕
+- **KP**：Jeannie Rozowykwiat (Levy)（原 Présidente（2024-10 → 2025-12；pappers：2025-12-04 起 Président 为 Jean-Edmond）；收件人 commercial@exxell.fr（第 110 批 官方登记核实 2026-10-28））commercial@exxell.fr（公司公开） +33 1 83 83 50 00〔https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479〕
+- **KP**：Jean-Edmond Rozowykwiat（Président（2025-12-04 起；pappers / societe.com）= 拍板人（第 110 批 官方登记核实 2026-10-28））—（未公开） +33 1 83 83 50 00〔https://www.societe.com/societe/exxell-vision-493179089.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | EXXELL VISION（SAS，原 SARL；RCS Nanterre 493 179 089；资本 €15,000） |
-| 成立 | 2006-11-20 |
+| 法定名称 | E.V. EXXELL VISION SAS（商号 EXXELL VISION；SIREN 493 179 089；RCS Nanterre；TVA FR62493179089；原 SARL，SAS 公告 2025-01-06） |
+| 成立 | 2006-11-20（登记 2008-10-08）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 204 Allée du Forum, 92100 Boulogne-Billancourt, France（01 83 83 50 00；hotline@exxell.fr / commercial@exxell.fr） |
-| 其他 | 业务：视频监控、报警（入侵+火灾）、门禁、网络、电气；中大型视频系统集成见长；2010 年起集成收银系统；2019 迁至 92 |
+| 其他 | 业务：视频监控、报警（入侵+火灾）、门禁、网络、电气；中大型视频系统集成见长；2010 年起集成收银系统；2019 迁至 92；第 110 批：Boulogne-Billancourt 安防设备进口 / 分销 / 安装外包商（资本 €15k；6–9 人；最后公开营收 €727k 2011）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP 配监控套件 + MOQ 1；法语引子）；再无回声 → 不动**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频监控集成（中大型系统）；入侵/火灾报警、门禁（守界：火灾主系统不供）；IT 网络与电气；面向商铺的分销
 - **触达通道（公开）**：网站: https://exxell.fr/；电话: +33 1 83 83 50 00（官网公开）；邮箱（公开）: commercial@exxell.fr / hotline@exxell.fr；LinkedIn: https://fr.linkedin.com/company/exxell-vision
@@ -232,8 +248,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jeannie Rozowykwiat (Levy) | Présidente（2024-10 起；登记公开） | commercial@exxell.fr（公司公开） / +33 1 83 83 50 00 | 调研核实（公开页） | https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479 |
-| Jean-Edmond Rozowykwiat | Président / 原 Gérant（2008–2025；登记公开） | —（未公开） / +33 1 83 83 50 00 | 调研核实（公开页） | https://www.societe.com/societe/exxell-vision-493179089.html |
+| Jeannie Rozowykwiat (Levy) | 原 Présidente（2024-10 → 2025-12；pappers：2025-12-04 起 Président 为 Jean-Edmond）；收件人 commercial@exxell.fr（第 110 批 官方登记核实 2026-10-28） | commercial@exxell.fr（公司公开） / +33 1 83 83 50 00 | 调研核实（公开页） | https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479 |
+| Jean-Edmond Rozowykwiat | Président（2025-12-04 起；pappers / societe.com）= 拍板人（第 110 批 官方登记核实 2026-10-28） | —（未公开） / +33 1 83 83 50 00 | 调研核实（公开页） | https://www.societe.com/societe/exxell-vision-493179089.html |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

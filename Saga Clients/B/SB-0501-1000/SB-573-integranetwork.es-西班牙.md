@@ -77,6 +77,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（ES · 1 次检索：empresite（Integra Network And Embedded Systems Sl；CIF B84961267；Sociedad limitada unipersonal；constitución 22-1-2007；julian.clemente@integra-nes.es；www.integranetwork.es）+ einforma（NIF B84961267；creada 22/01/2007；objeto servicio integral de análisis de sistemas y distribución comercial de material informático industrial；domicilio anterior Calle de la Siega 3 Velilla de San Antonio）+ iberinform（BORME 23/04/2024；C/ FUNDICION 4-BIS NAVE 57 RIVAS-VACIAMADRID）+ integranetwork.es（C/ Fundición Nº4 Bis Nave 57 28522；sectores industrial ferroviario tráfico telecomunicaciones audiovisual defensa；Switches industriales），2026-10-28 查；https://www.iberinform.es/empresa/2274551/integra-network-and-embedded-systems）：**
+
+- 法定名 / 登记号：INTEGRA NETWORK AND EMBEDDED SYSTEMS SL（Sociedad limitada unipersonal；商号 Integra Network；integranetwork.es / 邮箱域 integra-nes.es；马德里 Rivas-Vaciamadrid C/ Fundición 4 Bis, Nave 57, 28522；CIF B84961267；RM Madrid hoja 425407）— 2007-01-22 成立的工业计算 / 嵌入式 / 工业网络方案商（分销 + 设计 + 制造；行业：工业 / 轨交 / 交通 / 电信 / AV / 国防；IEC 61850 机柜 PC、工业交换机）；原址 Velilla de San Antonio；KP Lola Lucena（lola.lucena@）；empresite 联系人 julian.clemente@；表内 4 次跟进无回复 · CIF B84961267 · 状态 **Activa** · 成立 2007-01-22 · S.L.U.
+- 行业码 / 经营范围：工业计算 / 嵌入式 / 工业网络 分销 + 设计制造
+- 注册地址：C/ Fundición 4 Bis, Nave 57, 28522 Rivas-Vaciamadrid (Madrid)
+- 规模档：小型
+- 账目：未取（小型）；—
+- 高管：Lola Lucena — 研究档 KP（lola.lucena@integra-nes.es）= 收件人
+- 高管：Julián Clemente — 登记联系人（empresite；职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **轨交 / 国防在列 → 守界：只做工业 / 能源 / 交通固定机柜线 → 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作「第二价位」；西语引子）；有回声再加厚**
+  - 收件人 Lola 直呼；发信窗口 Thu 12–14 CET；稿内不点名 Lantech / 不提 IEC 61850 / EN 50155
+- 备注：分销 20% small；一页纸一次（仅工业线）；坐实（CIF + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,15 +125,17 @@ updated: 2026-10-28
 - **【用户表】在用 Lantech 的；AI 40% A**
   > 在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Lola Lucena（）lola.lucena@integra-nes.es 〔用户表〕
+- **KP**：Lola Lucena（研究档 KP = 收件人（工业线）（第 110 批 官方登记核实 2026-10-28））lola.lucena@integra-nes.es 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | INTEGRA NETWORK AND EMBEDDED SYSTEMS SL（S.L.U.；商号 Integra Network；CIF B84961267；RM Madrid hoja 425407） |
+| 成立 | 2007-01-22（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 西班牙 |
-| 其他 | 官网 integranetwork.es，语言 es，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 integranetwork.es，语言 es，快照状态 ok；角色判定来源：用户表；第 110 批：Rivas-Vaciamadrid 工业计算 / 嵌入式 / 工业网络方案商（工业 / 轨交 / 交通 / 电信 / AV / 国防）→ **守界：只做工业 / 能源 / 交通固定机柜线 → 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 第二价位；西语引子）**；不提 IEC 61850 / EN 50155；稿内不点名 Lantech（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业计算与网络方案（分销 / 设计 / 制造）；工业交换机（Lantech）/ 面板 PC
 
@@ -205,7 +222,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Lola Lucena | — | lola.lucena@integra-nes.es | 调研核实（公开页） | 用户表 |
+| Lola Lucena | 研究档 KP = 收件人（工业线）（第 110 批 官方登记核实 2026-10-28） | lola.lucena@integra-nes.es | 调研核实（公开页） | 用户表 |
 | Lola Medina | — | info@integra-nes.es / lola.lucena@integra-nes.es | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

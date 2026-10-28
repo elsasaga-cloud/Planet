@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（IT · 1 次检索：spesaelettrica.it 页脚（SPESA ELETTRICA S.C.A.R.L.；Viale Milanofiori Strada 4 Palazzo A5 20057 Assago；P.IVA e CF 08699710961；REA MI-2042985；Capitale € 89.000）+ Chi siamo（Fondata nel 2014；distributori e produttori da cui si rifornisce；70 marchi；100.000 articoli；spedizioni solo in Italia）+ ufficiocamerale（Iscrizione 28/07/2014；Fatturato € 774.244 2025；Dipendenti 0；ATECO 47129；Utile € 20.245），2026-10-28 查；https://www.ufficiocamerale.it/4930/spesa-elettrica-societa-consortile-a-responsabilita-limitata）：**
+
+- 法定名 / 登记号：SPESA ELETTRICA S.C.A.R.L.（società consortile；spesaelettrica.it；米兰 Assago Viale Milanofiori Strada 4, Palazzo A5, 20057；P.IVA / CF 08699710961；REA MI-2042985）— 2014-07-28 登记的电气材料网店联合体（由多家电气批发商共同持有：70+ 品牌、100,000 SKU、「300 个仓库」、仅意大利境内发货；表内「switch」= 电气开关语境）；股本 €89,000；**0 名雇员**；2025 营收 €774k；ATECO 47.12.9；表内未跟进 · P.IVA / CF 08699710961；REA MI-2042985 · 状态 **Active** · 成立 2014-07-28 · S.c.a r.l.（电气批发商联合体）
+- 行业码 / 经营范围：电气材料 网店平台（联合体；无自有采购 / 雇员）
+- 注册地址：Viale Milanofiori Strada 4, Palazzo A5, 20057 Assago (MI)
+- 规模档：平台（0 雇员）
+- 账目：2025 营收 €774k；净利 €20k；—
+- 高管：（未具名）— amministratore（联合体代表；未取）
+- 控制人 / 股东：成员电气批发商（未取）
+- **这意味着什么：**
+  - **0 雇员的电气材料网店联合体（采购在成员批发商手里，「switch」= 电气开关）→ 不动**
+  - 若要碰电气批发渠道 → 另找其成员批发商（单独立户）
+- 备注：坐实（P.IVA + REA）；非目标（平台 / 电气开关）→ 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,8 +131,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SPESA ELETTRICA S.C.A.R.L.（società consortile；P.IVA / CF 08699710961；REA MI-2042985） |
+| 成立 | 2014-07-28（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 spesaelettrica.it，语言 it，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 spesaelettrica.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 110 批：Assago (MI) 电气材料网店联合体（多家电气批发商共有；0 雇员；2025 营收 €774k；仅意大利境内发货；「switch」= 电气开关）→ **不动（平台 / 非目标）**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气材料分销（多品牌、多仓库）
 - **触达通道（公开）**：role: 电气材料分销商（意大利，多仓）；region: 意大利；contact: info@spesaelettrica.it

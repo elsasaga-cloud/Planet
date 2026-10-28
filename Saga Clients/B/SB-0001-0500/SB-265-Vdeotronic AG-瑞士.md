@@ -75,6 +75,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（CH · 1 次检索：help.ch（Videotronic AG Regensdorf；UID CHE-107.888.942；HR-Eintragung 03.08.1976；Kapital 316’000 CHF；CH-020.3.927.830-8；Moosäckerstrasse 73 8105）+ business-monitor（Christos Sgouros President；Dominik Mizdrak / Sascha Dyroff board；Simon David Schnetzler signatory）+ ranq（Employees 1 to 10；last change April 10 2026）+ videotronic.ch（Seit 2026 gehört Videotronic mehrheitlich zur VIDEOR E. Hartig GmbH）+ git-sicherheit 2026-03-26（Videor Mehrheitsbeteiligung）+ Impressum（Firmenbuch CHE-107.888.942），2026-10-28 查；https://business-monitor.ch/en/companies/197640-videotronic-ag）：**
+
+- 法定名 / 登记号：Videotronic AG（videotronic.ch；苏黎世州 Regensdorf Moosäckerstrasse 73, 8105；UID CHE-107.888.942；CH-020.3.927.830-8）— 1976-08-03 登记的视频安防 / 门禁 / 门口通信方案分销与集成商；股本 CHF 316,000；1–10 人；Verwaltungsratspräsident / Geschäftsführer Christos Sgouros（= 研究档 KP）；**2026 起由德国 VIDEOR E. Hartig GmbH（Rödermark；自有品牌 eneo 的大型 CCTV 分销商）控股**，董事 Dominik Mizdrak（Videor GF）、Sascha Dyroff；表内 6 次跟进无回复；≠ Videotronic (Schweiz) AG CHE-106.761.351 Oberuzwil · UID CHE-107.888.942；CH-020.3.927.830-8 · 状态 **Aktiv（2026 起 VIDEOR 控股）** · 成立 1976-08-03 · AG（VIDEOR E. Hartig GmbH 多数股权）
+- 行业码 / 经营范围：视频安防 / 门禁 / 对讲 分销与集成（瑞士）
+- 注册地址：Moosäckerstrasse 73, 8105 Regensdorf (ZH)
+- 规模档：小微（1–10 人）
+- 账目：—；—
+- 高管：Christos Sgouros — VR-Präsident / Geschäftsführer（研究档 KP c.sgouros@）= 拍板人 / 收件人
+- 高管：Dominik Mizdrak — Verwaltungsrat（VIDEOR Geschäftsführer）
+- 高管：Sascha Dyroff — Verwaltungsrat
+- 控制人 / 股东：VIDEOR E. Hartig GmbH（多数）
+- **这意味着什么：**
+  - **刚被德国 VIDEOR（自有品牌 eneo）控股的瑞士小分销商（6 次无回）→ 分销 20% small，一页纸一次（换切口：并入 Videor 后供应商重审；STC-028GP / STC-228GP / STI-054GP；DAP 瑞士买方清关）；再无回声 → 不动**
+  - **旁线索（DE 池核对）：VIDEOR E. Hartig GmbH，Rödermark，自有品牌 eneo（含 PoE 交换机）→ 贴标 30% 目标候选，另立户 / 查 DE 池是否已有**
+- 备注：分销 20% small；一页纸一次（换切口）；坐实（UID + 董事会）；旁线索 VIDEOR / eneo。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,15 +133,18 @@ updated: 2026-10-28
 - **【用户表】找 switch**
   > 找switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Christos Sgouros（）c.sgouros@videotronic.ch 〔用户表〕
+- **KP**：Christos Sgouros（Verwaltungsratspräsident / Geschäftsführer（business-monitor.ch）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））c.sgouros@videotronic.ch 〔用户表〕
+- **KP**：Dominik Mizdrak（Verwaltungsrat（VIDEOR E. Hartig GmbH Geschäftsführer；2026 起控股方）— 仅记录（第 110 批 官方登记核实 2026-10-28）） 〔https://business-monitor.ch/en/companies/197640-videotronic-ag〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Videotronic AG（UID CHE-107.888.942；CH-020.3.927.830-8）≠ Videotronic (Schweiz) AG CHE-106.761.351 |
+| 成立 | 1976-08-03（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 瑞士 |
-| 其他 | 官网 videotronic.ch，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 videotronic.ch，语言 de，快照状态 ok；角色判定来源：官网文案；第 110 批：Regensdorf (ZH) 视频安防 / 门禁分销集成商（股本 CHF 316k；1–10 人；**2026 起德国 VIDEOR E. Hartig GmbH（自有品牌 eneo）多数控股**；6 次无回）→ **分销 20% small，一页纸一次（换切口：并入 Videor 后供应商重审；STC-028GP / STC-228GP / STI-054GP；DAP 瑞士）；再无回声 → 不动**；旁线索 VIDEOR / eneo → DE 池另立户（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频安防 / 门禁 / 门口通信方案（瑞士）
 - **触达通道（公开）**：role: 视频安防/门禁方案商（瑞士）；region: 瑞士；contact: c.sgouros@videotronic.ch
@@ -216,7 +235,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Christos Sgouros | — | c.sgouros@videotronic.ch | 调研核实（公开页） | 用户表 |
+| Christos Sgouros | Verwaltungsratspräsident / Geschäftsführer（business-monitor.ch）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | c.sgouros@videotronic.ch | 调研核实（公开页） | 用户表 |
+| Dominik Mizdrak | Verwaltungsrat（VIDEOR E. Hartig GmbH Geschäftsführer；2026 起控股方）— 仅记录（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://business-monitor.ch/en/companies/197640-videotronic-ag |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

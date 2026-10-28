@@ -75,6 +75,21 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Ohi Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（CY · 1 次检索：cyprusregistry.com（A.K. ART 2 SOFT LIMITED；HE 147954；Private；Registration 30/04/04；Active；ΘΩΜΑΣ ΘΩΜΑ Director；JANET BERGEMAN THOMAS Director / Secretary）+ companiesregistry.cy（status Reminder letter sent；Καπαδοκίας 8Α Κάτω Λακατάμια）+ i-cyprus（Annual Return 20/12/2020）+ findbiz.gr（NACE 4650；Thomas Thoma；info@art2soft.eu）+ art2soft.eu（founded 2006；Ubiquiti；Leoforos Archiepiskopou Makariou III 28 Lakatameia 2324）+ facebook / youtube（Official Distributors Ubiquiti MikroTik Ruijie TP-Link Business Yeastar Fanvil），2026-10-28 查；https://cyprusregistry.com/companies/HE/147954）：**
+
+- 法定名 / 登记号：A.K. ART 2 SOFT LIMITED（商号 ART2SOFT / cy-wireless.com；art2soft.eu；尼科西亚 Lakatameia：登记处 Kapadokias 8A, Kato Lakatamia 2325；办公 Leoforos Archiepiskopou Makariou III 28, 2324；HE 147954）— 2004-04-30 注册（业务 2006 起）的塞浦路斯网络 / 无线 / VoIP 分销商（Ubiquiti / MikroTik / Ruijie / TP-Link Business / RF Elements / Yeastar / Fanvil 官方分销；「500+ 经销商」；NACE 4650）；董事 Thomas Thoma（Θωμάς Θωμά；Managing Director；= 研究档 KP）、Janet Bergeman Thomas（董事 / 秘书）；登记状态「Reminder letter sent」（年报 2020 后待补）；表内 4 次跟进无回复 · HE 147954 · 状态 **Active（Reminder letter sent）** · 成立 2004-04-30（业务 2006） · Private Limited（Thoma 夫妇）
+- 行业码 / 经营范围：网络 / 无线 / VoIP 分销（塞浦路斯）
+- 注册地址：Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia（登记 Kapadokias 8A, Kato Lakatamia 2325）
+- 规模档：小型
+- 账目：未取；年报 2020 后待补
+- 高管：Thomas Thoma — Director / Managing Director（研究档 KP thomas.thoma@art2soft.eu）= 拍板人 / 收件人
+- 高管：Janet Bergeman Thomas — Director / Secretary
+- 控制人 / 股东：Thomas Thoma + Janet Bergeman Thomas（推定）
+- **这意味着什么：**
+  - **塞浦路斯 MikroTik / Ubiquiti 系分销商（500+ 经销商；4 次无回）→ 分销 20% small，一页纸一次（换切口：MikroTik / TP-Link 价位带之间的 PoE 第二货源 STC-028GP / STC-228GP / STC-2224GP + 塞浦路斯 DAP 小起订）；有回声再加厚**
+  - 收件人 Thomas 直呼；发信窗口 Thu 12–14 EET；希腊语一句引子
+- 备注：分销 20% small；一页纸一次（换切口）；坐实（HE 号 + 董事）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +120,18 @@ updated: 2026-10-28
 - **【官网快照】ART2SOFT 经销网络**
   > A.K. ART2SOFT LTD – Your wireless partner ; We serve over 500 resellers all over Cyprus
   > 来源：https://art2soft.eu/（抓取 2026-10-21）
-- **KP**：Thomas Thoma（）thomas.thoma@art2soft.eu 〔用户表〕
+- **KP**：Thomas Thoma（Director / Managing Director（cyprusregistry：ΘΩΜΑΣ ΘΩΜΑ；rocketreach）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））thomas.thoma@art2soft.eu 〔用户表〕
+- **KP**：Janet Bergeman Thomas（Director / Secretary（cyprusregistry）（第 110 批 官方登记核实 2026-10-28）） 〔https://cyprusregistry.com/companies/HE/147954〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | A.K. ART 2 SOFT LIMITED（商号 ART2SOFT / cy-wireless.com；HE 147954） |
+| 成立 | 2004-04-30（业务 2006）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 塞浦路斯 |
-| 其他 | 官网 art2soft.eu，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 art2soft.eu，语言 en-US，快照状态 ok；角色判定来源：用户表；第 110 批：尼科西亚 Lakatameia 网络 / 无线 / VoIP 分销商（Ubiquiti / MikroTik / Ruijie / TP-Link Business / Yeastar 官方分销；500+ 经销商；登记状态 Reminder letter sent，年报 2020 后待补）→ **分销 20% small，一页纸一次（换切口：MikroTik / TP-Link 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP + 塞浦路斯 DAP）；有回声再加厚**；希腊语引子（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：无线网络产品分销
 - **触达通道（公开）**：role: 无线产品分销商（塞浦路斯，500+ 经销商）；region: 塞浦路斯；contact: thomas.thoma@art2soft.eu
@@ -199,7 +217,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Thomas Thoma | — | thomas.thoma@art2soft.eu | 调研核实（公开页） | 用户表 |
+| Thomas Thoma | Director / Managing Director（cyprusregistry：ΘΩΜΑΣ ΘΩΜΑ；rocketreach）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | thomas.thoma@art2soft.eu | 调研核实（公开页） | 用户表 |
+| Janet Bergeman Thomas | Director / Secretary（cyprusregistry）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://cyprusregistry.com/companies/HE/147954 |
 | Thomas | — | thomas.thoma@art2soft.eu | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

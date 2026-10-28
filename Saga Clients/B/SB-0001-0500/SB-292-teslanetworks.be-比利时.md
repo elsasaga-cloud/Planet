@@ -84,6 +84,24 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（BE · 1 次检索：companyweb（Tesla Networks BV；BE 0830.294.165；Pannenhuisstraat(ITE) 2 2222 Heist-op-den-Berg；Established 06-10-2010；Active）+ staatsbladmonitor（Besloten Vennootschap；Normale toestand；原 BVBA Diamantstraat 8 Herentals）+ 100procentlokaal（OND. NR. BE0830294165；RPR Antwerpen afdeling Mechelen）+ bsearch（Personeel 1-5）+ LinkedIn（Founded 1999；2–10；Bart Pen CEO；Joris Laeremans；Thomas Pen）+ Bart Pen LinkedIn 2025-09（De Lijn onboard IP architecture；industrial 5G；ITxPT），2026-10-28 查；https://www.companyweb.be/en/0830294165/tesla-networks）：**
+
+- 法定名 / 登记号：Tesla Networks BV（原 BVBA；teslanetworks.be / .com；安特卫普省 Heist-op-den-Berg (Itegem) Pannenhuisstraat (ITE) 2, 2222；BE 0830.294.165；RPR Antwerpen afd. Mechelen；原址 Herentals Diamantstraat 8）— 2010-10-06 注册（业务自 1999）的无线 + 工业网络集成 / 咨询商（公共交通 / 能源 / 工业 / 智慧城市 / IIoT；车载 ITxPT / 5G 项目 De Lijn 公交 / 有轨电车 = 台系工业品牌渠道）；1–5 人（LinkedIn 2–10）；CEO Bart Pen（= 研究档 KP）；Joris Laeremans（Sales & Marketing）、Thomas Pen（Marketing & Admin）；研究档另有 Ashwin Taeye（info@）；表内 4 次跟进无回复 · BE 0830.294.165 · 状态 **Actief（Normale toestand）** · 成立 2010-10-06（业务 1999） · BV（私有）
+- 行业码 / 经营范围：无线 + 工业网络 集成 / 咨询（公共交通 / 能源 / 工业）
+- 注册地址：Pannenhuisstraat (ITE) 2, 2222 Heist-op-den-Berg
+- 规模档：小微（1–5 人）
+- 账目：—（1–5 人）；—
+- 高管：Bart Pen — CEO（研究档 KP bart@teslanetworks.com）= 拍板人 / 收件人
+- 高管：Joris Laeremans — Sales & Marketing Manager（LinkedIn）
+- 高管：Thomas Pen — Marketing & Administrative Manager（LinkedIn）
+- 高管：Ashwin Taeye — 研究档 KP（info@）
+- 控制人 / 股东：Pen 家族（推定）
+- 曾用名：Tesla Networks BVBA
+- **这意味着什么：**
+  - **车载 / 公交（EN 50155 / ITxPT）为主业 → 守界：绝不提轨交 / 车载；只做能源 / 工业 / 智慧城市固定场景 → 集成 25% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 固定机柜场景 + MOQ 1）；再无回声 → 不动**
+  - 收件人 Bart 直呼；发信窗口 Thu 12–14 CET；荷语一句引子；稿内不点名 ORing
+- 备注：集成 25% small；一页纸一次（非车载）；坐实（BE 号 + 人员）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,16 +145,19 @@ updated: 2026-10-28
 - **【用户表】主要是 ORing 工业系列**
   > 主要是Oring的工业系列
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ashwin Taeye（）info@teslanetworks.be 〔用户表〕
-- **KP**：Bart Pen（）bart@teslanetworks.com 〔用户表〕
+- **KP**：Ashwin Taeye（研究档 KP Ashwin Taeye（info@）（第 110 批 官方登记核实 2026-10-28））info@teslanetworks.be 〔用户表〕
+- **KP**：Bart Pen（CEO（LinkedIn）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））bart@teslanetworks.com 〔用户表〕
+- **KP**：Joris Laeremans（Sales & Marketing Manager（LinkedIn）（第 110 批 官方登记核实 2026-10-28）） 〔https://be.linkedin.com/company/tesla-networks〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Tesla Networks BV（原 BVBA；BE 0830.294.165；RPR Antwerpen afd. Mechelen） |
+| 成立 | 2010-10-06（业务 1999）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 比利时 |
-| 其他 | 官网 teslanetworks.be，语言 nl，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 teslanetworks.be，语言 nl，快照状态 ok；角色判定来源：官网文案；第 110 批：Heist-op-den-Berg 无线 + 工业网络集成 / 咨询商（1–5 人；公交 / 有轨电车车载 ITxPT / 5G 项目为主 = 台系品牌渠道）→ **守界：绝不提轨交 / 车载；只做能源 / 工业 / 智慧城市固定场景 → 集成 25% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM + MOQ 1；荷语引子）；再无回声 → 不动**；稿内不点名 ORing（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：天线 / 工业网络设备分销（比利时）
 - **触达通道（公开）**：role: 工业网络/天线分销商（比利时，ORing 为主）；region: 比利时；contact: info@teslanetworks.be、bart@teslanetworks.com
@@ -229,8 +250,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ashwin Taeye | — | info@teslanetworks.be | 调研核实（公开页） | 用户表 |
-| Bart Pen | — | bart@teslanetworks.com | 调研核实（公开页） | 用户表 |
+| Ashwin Taeye | 研究档 KP Ashwin Taeye（info@）（第 110 批 官方登记核实 2026-10-28） | info@teslanetworks.be | 调研核实（公开页） | 用户表 |
+| Bart Pen | CEO（LinkedIn）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | bart@teslanetworks.com | 调研核实（公开页） | 用户表 |
+| Joris Laeremans | Sales & Marketing Manager（LinkedIn）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://be.linkedin.com/company/tesla-networks |
 
 - **通道建议**：企业邮箱可直发
 

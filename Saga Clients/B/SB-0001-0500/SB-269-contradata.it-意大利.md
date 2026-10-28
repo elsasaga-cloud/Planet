@@ -75,6 +75,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（IT · 1 次检索：contradata.it 页脚 / Partners（Contradata Milano S.r.l.；Via Solferino 12 20900 Monza；CAPITALE SOCIALE 78000 €；REA 0987346；C.F. e P.IVA IT04099800155）+ companyreports（sede Via Lorenzo Mascheroni 14 Milano；REA MI 987346；fatturato 2024 3.691.160 €；utile 34.156 €；10–15 dipendenti）+ fatturatoaziende（−22.5 % vs 2023）+ pmilombarde（Fondata nel 1978）+ LinkedIn（11–50；1978），2026-10-28 查；https://www.contradata.it/contatti/）：**
+
+- 法定名 / 登记号：Contradata Milano S.r.l.（contradata.it；运营 Monza Via Solferino 12, 20900；法定 Milano Via Lorenzo Mascheroni 14；P.IVA / CF 04099800155；REA MI-987346）— 1978 年成立的工业 PC / 嵌入式 / 工业以太网分销商（面向 OEM 与系统集成商；Panel PC、SBC、工业 SSD、工业交换机）；股本 €78,000；10–15 人；2024 营收 €3.69M（−22.5%）、净利 €34k；KP Alessandro Damian（General Manager）、Tiziano Cerato（Sales Engineer）；表内 4 次跟进无回复 · P.IVA / CF 04099800155；REA MI-987346 · 状态 **Active** · 成立 1978 · S.r.l.（私有；股本 €78,000）
+- 行业码 / 经营范围：工业 PC / 嵌入式 / 工业以太网 分销（ATECO 26.2）
+- 注册地址：Via Solferino 12, 20900 Monza (MB)（法定 Via Lorenzo Mascheroni 14, Milano）
+- 规模档：小型（10–15 人）
+- 账目：2024 营收 €3,691,160；净利 €34,156；—
+- 高管：Alessandro Damian — General Manager（研究档 KP adamian@）= 拍板人 / 收件人
+- 高管：Tiziano Cerato — Sales Engineer（研究档 KP info@）= 收件人（抄）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **1978 年起的工业 PC 分销商（工业交换机为台系；营收 −22%；4 次无回）→ 分销 20% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作台系第二价位 + 交期）；有回声再加厚**
+  - 收件人 Alessandro 直呼、抄 Tiziano；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20% small；一页纸一次（换切口）；坐实（P.IVA + REA + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,16 +128,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS 台湾牌子**
   > 工业FS 几个台湾牌子的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Alessandro Damian（）adamian@contradata.it 〔用户表〕
-- **KP**：Tiziano Cerato（）info@contradata.it 〔用户表〕
+- **KP**：Alessandro Damian（General Manager（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））adamian@contradata.it 〔用户表〕
+- **KP**：Tiziano Cerato（Sales Engineer（研究档）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28））info@contradata.it 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Contradata Milano S.r.l.（P.IVA / CF 04099800155；REA MI-987346） |
+| 成立 | 1978（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 contradata.it，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 contradata.it，语言 ?，快照状态 ok；角色判定来源：待核；第 110 批：Monza 工业 PC / 嵌入式 / 工业以太网分销商（股本 €78k；10–15 人；2024 营收 €3.69M −22.5%）→ **分销 20% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作台系第二价位 + 交期）；有回声再加厚**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业计算 / 嵌入式 / 工业网络分销（意大利）
 - **触达通道（公开）**：role: 工业网络/嵌入式分销商（意大利，台湾品牌为主）；region: 意大利；contact: info@contradata.it、adamian@contradata.it
@@ -201,8 +218,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Alessandro Damian | — | adamian@contradata.it | 调研核实（公开页） | 用户表 |
-| Tiziano Cerato | — | info@contradata.it | 调研核实（公开页） | 用户表 |
+| Alessandro Damian | General Manager（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | adamian@contradata.it | 调研核实（公开页） | 用户表 |
+| Tiziano Cerato | Sales Engineer（研究档）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28） | info@contradata.it | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

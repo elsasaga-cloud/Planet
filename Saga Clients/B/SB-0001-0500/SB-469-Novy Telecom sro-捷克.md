@@ -73,6 +73,20 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（CZ · 1 次检索：novytel.cz（Supply of machinery from Asia and China；About；Our Contacts Praha 2 Legerova 1820/39 PSČ 12000；info@novytel.cz）+ tracxn（incorporated Oct 30 2008；CIN 28481968；Active）+ podnikatel.cz / finmag（IČO 28481968；Legerova 1820/39 Praha Nové Město）+ chytryrejstrik（zprostředkování a dodávky zboží z Asie, zejména z Číny；OEM/ODM；kontrola kvality）+ volza（1,004 shipments to 14 buyers incl. Ukraine）+ marketinsidedata（export USD 770.44k 2024），2026-10-28 查；https://www.podnikatel.cz/rejstrik/novy-telecom-s-r-o-28481968/）：**
+
+- 法定名 / 登记号：Novy Telecom s.r.o.（novytel.cz；布拉格 2 Nové Město Legerova 1820/39, 120 00；IČO 28481968）— 2008-10-30 成立的亚洲 / 中国货源采购代理与进出口商（「Supply of machinery from Asia and China」：农机 / 配件 / OEM-ODM 寻源 / 质检 / 物流；2024 出口额 ≈US$0.77M，1,004 票主要发往乌克兰）；KP Miloš Holec（procurement@）；表内未跟进 · IČO 28481968 · 状态 **Aktivní** · 成立 2008-10-30 · s.r.o.（私有）
+- 行业码 / 经营范围：采购代理 / 进出口（中国货源 → 乌克兰等）
+- 注册地址：Legerova 1820/39, 120 00 Praha 2 – Nové Město
+- 规模档：小微
+- 账目：2024 出口 ≈US$770k；—
+- 高管：Miloš Holec — 研究档 KP（procurement@novytel.cz）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **采购代理 / 转口商（主营农机，出口乌克兰）→ 按规则「采购代理 不动」**
+  - 若其以终端客户名义询价 → 只做预付款、不给渠道价
+- 备注：坐实（IČO）；采购代理 → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +119,17 @@ updated: 2026-10-28
 - **【用户表】VC 类产品 RFQ**
   > VC类产品 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Miloš Holec（）procurement@novytel.cz 〔用户表〕
+- **KP**：Miloš Holec（研究档 KP（procurement@）— 公司为中国货源采购代理 / 转口商（第 110 批 官方登记核实 2026-10-28））procurement@novytel.cz 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Novy Telecom s.r.o.（IČO 28481968） |
+| 成立 | 2008-10-30（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 novytel.cz，语言 en-GB，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 novytel.cz，语言 en-GB，快照状态 ok；角色判定来源：用户表；第 110 批：布拉格 2 亚洲 / 中国货源采购代理与进出口商（主营农机；2024 出口 ≈US$770k，1,004 票主要发乌克兰）→ **采购代理 → 不动（询价只做预付款、不给渠道价）**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：进出口贸易服务（捷克）
 - **触达通道（公开）**：role: 进出口贸易中介（捷克，VC RFQ）；region: 捷克；contact: procurement@novytel.cz
@@ -166,7 +182,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Miloš Holec | — | procurement@novytel.cz | 调研核实（公开页） | 用户表 |
+| Miloš Holec | 研究档 KP（procurement@）— 公司为中国货源采购代理 / 转口商（第 110 批 官方登记核实 2026-10-28） | procurement@novytel.cz | 调研核实（公开页） | 用户表 |
 | Milos Holec | — | procurement@novytel.cz / +4207712087562025 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

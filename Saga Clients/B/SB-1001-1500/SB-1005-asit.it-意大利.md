@@ -86,6 +86,23 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（IT · 1 次检索：asit.it 首页（Asit SpA；P. Iva 06221270017；Sede Via Goretta 90/F 10079 Mappano (TO)；Capitale Sociale €250.000；42 Dipendenti；5 sedi；35 brand）+ aziende.it（ricavi 2025 41.833.533 €；Iscrizione 12/05/1992；Via Massena 44 Torino）+ asit.it/nuove-nomine 2024-06（Joris Ganz Presidente e AD；Jacopo Ganz AD；Cristina Ganz Consigliera）+ techcompany360 2019（nato nel 1984；Valentino Ganz / Marco Gabriele / Joris Ganz）+ sieconline 2026-05（5 uffici Torino Milano Vicenza Roma Catania），2026-10-28 查；https://www.aziende.it/asit-s-p-a）：**
+
+- 法定名 / 登记号：ASIT S.p.A.（asit.it；运营总部 都灵 Mappano Via Goretta 90/F, 10079；法定 Torino Via Andrea Massena 44, 10128；P.IVA / CF 06221270017；Registro AEE IT22010000013576）— 1984 年起（登记 1992-05-12）的意大利专业 ICT 分销商（布线 / 网络 / 安全 / UCC / 专业 AV / 视频监控；35+ 品牌、1,500 活跃客户、5 分公司 Torino / Milano / Vicenza / Roma / Catania + 2 代理、5,000 m² 仓）；股本 €250,000；42 人；2025 营收 €41.8M；Presidente e AD Joris Ganz；AD Jacopo Ganz（= 研究档 KP）；VP Sales Marco Gabriele（= 研究档 KP）；创始人 Valentino Ganz；群发 4 次无回复 · P.IVA / CF 06221270017 · 状态 **Active** · 成立 1992-05-12（活动 1984） · S.p.A.（Ganz 家族）
+- 行业码 / 经营范围：专业 ICT 分销（布线 / 网络 / 安全 / UCC / AV / CCTV）（ATECO 46.50.2）
+- 注册地址：Via Goretta 90/F, 10079 Mappano (TO)（法定 Via Andrea Massena 44, 10128 Torino）
+- 规模档：中型（42 人；€41.8M）
+- 账目：2025 营收 €41,833,533；—
+- 高管：Jacopo Ganz — Amministratore Delegato（研究档 KP jacopo.ganz@）= 拍板人 / 收件人
+- 高管：Marco Gabriele — Vice President Sales（研究档 KP marco.gabriele@）= 收件人（抄）
+- 高管：Joris Ganz — Presidente e AD
+- 高管：Valentino Ganz — 创始人
+- 控制人 / 股东：Ganz 家族
+- **这意味着什么：**
+  - **€42M、5 分公司的都灵 ICT 分销商（4 次群发无回）→ 分销 20%，B BIG，加厚一次（换切口：安装商渠道「第二价位」+ 意大利 DAP 小起订）**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP / STI-144GP 一页纸；次候选升 A
+  - 收件人 Jacopo 直呼、抄 Marco；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20%；B BIG；加厚一次（换切口）；坐实（P.IVA + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,16 +139,19 @@ updated: 2026-10-28
 - **【用户表】CCTV 分销商**
   > 兴趣：CCTV 分销商
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jacopo Ganz（）jacopo.ganz@asit.it 〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Marco Gabriele（）marco.gabriele@asit.it 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jacopo Ganz（Amministratore Delegato（asit.it 2024-06 任命公告）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））jacopo.ganz@asit.it 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Marco Gabriele（Vice President Sales（techcompany360 / rocketreach）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28））marco.gabriele@asit.it 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Joris Ganz（Presidente e Amministratore Delegato（asit.it 2024-06）（第 110 批 官方登记核实 2026-10-28）） 〔https://www.asit.it/nuove-nomine-asit-s-p-a/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ASIT S.r.l.（待核） |
+| 法定名称 | ASIT S.p.A.（P.IVA / CF 06221270017；Registro AEE IT22010000013576） |
+| 成立 | 1992-05-12（活动 1984）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Italy |
+| 其他 | 第 110 批：都灵 Mappano 专业 ICT 分销商（布线 / 网络 / 安全 / UCC / AV / CCTV；35+ 品牌；1,500 活跃客户；5 分公司 + 2 代理；42 人；2025 营收 €41.8M；股本 €250k）→ **分销 20%，B BIG，加厚一次（换切口：安装商渠道第二价位 + 意大利 DAP 小起订；STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP / STI-144GP）；次候选升 A**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 网络设备分销（电商）
 - **触达通道（公开）**：role: 分销商；region: 意大利
@@ -222,8 +242,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jacopo Ganz | — | jacopo.ganz@asit.it | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Marco Gabriele | — | marco.gabriele@asit.it | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Jacopo Ganz | Amministratore Delegato（asit.it 2024-06 任命公告）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | jacopo.ganz@asit.it | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Marco Gabriele | Vice President Sales（techcompany360 / rocketreach）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28） | marco.gabriele@asit.it | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Joris Ganz | Presidente e Amministratore Delegato（asit.it 2024-06）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.asit.it/nuove-nomine-asit-s-p-a/ |
 
 - **通道建议**：企业邮箱可直发
 

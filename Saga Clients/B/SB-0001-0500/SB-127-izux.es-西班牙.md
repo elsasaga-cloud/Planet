@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（ES · 1 次检索：iberinform（IZUX INGENIERIA Y SEGURIDAD SL；CIF B98126444；CALLE JOSE CHABAS BORDEHORE 3 BLQ 4 3 21 46019 VALENCIA；CNAE 4650；BORME 23/03/2009）+ infonif（25/02/2009；Administrador único VIDAL GIMERA IGOR）+ axesor（constitución 25/02/2009；1–10 empleados；ventas 1–250.000 €）+ LinkedIn（2–10；Igor Vidal Guimerá GERENTE）+ izux.es（Distribuidor mayorista CCTV Hikvision Dahua Uniview Ajax），2026-10-28 查；https://www.iberinform.es/empresa/3694807/izux-ingenieria-y-seguridad）：**
+
+- 法定名 / 登记号：IZUX INGENIERIA Y SEGURIDAD SL（izux.es；瓦伦西亚 C/ José Chabás Bordehore 3, Bl. 4, 3º 21, 46019；CIF B98126444；RM Valencia H V-133381）— 2009-02-25 成立的安防批发网店（Hikvision / Dahua / Uniview / Ajax / 门禁考勤 / 酒店锁 / 可视门铃）；微型（1–10 人；销售 ≤€250k）；Administrador único / Gerente Igor Vidal Guimerá（= 研究档 KP Igor Guimerá）；表内「商用 PoE，CCTV 为主」 · CIF B98126444 · 状态 **Activa** · 成立 2009-02-25 · S.L.（Igor Vidal Guimerá）
+- 行业码 / 经营范围：安防产品 批发网店（CNAE 4650）
+- 注册地址：C/ José Chabás Bordehore 3, Bl. 4, 3º 21, 46019 Valencia
+- 规模档：小微（2–10 人）
+- 账目：—（微型）；—
+- 高管：Igor Vidal Guimerá — Administrador único / Gerente（研究档 KP Igor Guimerá，comercial@izux.es）= 拍板人 / 收件人
+- 控制人 / 股东：Igor Vidal Guimerá（推定）
+- **这意味着什么：**
+  - **瓦伦西亚微型 CCTV 批发网店 → 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配 Hikvision / Dahua 套件一口价 + MOQ 1）；再无回声 → 不动**
+  - 收件人 Igor 直呼；发信窗口 Thu 12–14 CET；西语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（CIF + 管理人）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -104,16 +118,17 @@ updated: 2026-10-28
 - **【用户表】商业 POE CCTV 为主 很多配件 有 ONV 的；网站上有 WA 按钮**
   > 兴趣：商业POE CCTV为主 很多配件 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Igor Guimerá（）comercial@izux.es +34 963 320 337〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Igor Guimerá（Administrador único / Gerente（infonif：VIDAL GIMERA IGOR；LinkedIn Igor Vidal Guimerá）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））comercial@izux.es +34 963 320 337〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | IZUX（待核） |
+| 法定名称 | IZUX INGENIERIA Y SEGURIDAD SL（CIF B98126444；RM Valencia H V-133381） |
+| 成立 | 2009-02-25（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Valencia, Spain |
-| 其他 | 已售 ONV 商用 PoE |
+| 其他 | 已售 ONV 商用 PoE；第 110 批：瓦伦西亚微型 CCTV / 门禁 / 酒店锁批发网店（1–10 人；销售 ≤€250k）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP 配 Hikvision / Dahua 套件一口价 + MOQ 1；西语引子）；再无回声 → 不动**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防电商
 - **触达通道（公开）**：role: 电商（已售 ONV）；region: 西班牙
@@ -211,7 +226,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Igor Guimerá | — | comercial@izux.es / +34 963 320 337 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Igor Guimerá | Administrador único / Gerente（infonif：VIDAL GIMERA IGOR；LinkedIn Igor Vidal Guimerá）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | comercial@izux.es / +34 963 320 337 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Igor Guimera | — | comercial@izux.es | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

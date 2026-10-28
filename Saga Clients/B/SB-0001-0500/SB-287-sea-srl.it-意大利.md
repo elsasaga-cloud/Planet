@@ -77,6 +77,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（IT · 1 次检索：sea-srl.it 页脚（S. & A. S.R.L.；P.Iva/CF 01887850129；Rea VA-214291；C.s. € 100.000,00 i.v.；Ateco 46.47.30；Reg. A.E.E. IT26030000018416；partner TVT Ajax Bentel Bosch Hochiki）+ sea-srl.it/contatti/sedi（Sede centrale Gallarate Via Cappuccini 58；Legnano Via Saronnese 16；Milano Viale Vigliani 13 Responsabile Commerciale Marcello Gariboldi；Bologna Via Panigale 57；Asti Via Pisa 10）；营收数字未取（同名 SEA S.r.l. 多家 ≠），2026-10-28 查；https://www.sea-srl.it/contatti/sedi）：**
+
+- 法定名 / 登记号：S. & A. S.R.L.（商号 S&A；sea-srl.it；总部 Varese Gallarate Via Cappuccini 58, 21013；分部 Legnano / Milano / Bologna / Asti；P.IVA / CF 01887850129；REA VA-214291）— 安防电子产品批发分销商（防盗 / 消防 / 视频监控 / 门禁；TVT / Ajax / Bentel / Bosch / Hochiki / Optex / Dnake / Tedee 等）；股本 €100,000 i.v.；ATECO 46.47.30；Reg. AEE IT26030000018416；KP Mauro Brunazzo（CEO）、Sandro Succi；Milano 商务负责人 Marcello Gariboldi；表内 4 次跟进无回复 · P.IVA / CF 01887850129；REA VA-214291 · 状态 **Active** · 成立 —（未取） · S.r.l.（股本 €100,000）
+- 行业码 / 经营范围：安防电子 批发分销（5 个网点）
+- 注册地址：Via Cappuccini 58, 21013 Gallarate (VA)
+- 规模档：小型–中型（5 网点）
+- 账目：未取（5 网点）；—
+- 高管：Mauro Brunazzo — CEO（研究档 KP mauro.brunazzo@）= 拍板人 / 收件人
+- 高管：Sandro Succi — 研究档 KP
+- 高管：Marcello Gariboldi — Responsabile Commerciale Milano（官网）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **5 个网点的伦巴第安防分销商（4 次无回）→ 分销 20%，B BIG，加厚一次（换切口：安装商柜台「配套 PoE」SKU：STC-028GP / STC-228GP / STC-2224GP 配 TVT / Ajax 套件 + 意大利 DAP 小起订）**；稿内不点名品牌
+  - 收件人 Mauro 直呼、抄 Marcello（Milano）；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20%；B BIG；加厚一次（换切口）；坐实（P.IVA + REA 页脚；营收未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,16 +136,19 @@ updated: 2026-10-28
 - **【用户表】商业 PoE**
   > 商业PoE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mauro Brunazzo（）mauro.brunazzo@sea-srl.it 〔用户表〕
+- **KP**：Mauro Brunazzo（CEO（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））mauro.brunazzo@sea-srl.it 〔用户表〕
 - **KP**：Sandro Succi（） 〔用户表〕
+- **KP**：Marcello Gariboldi（Responsabile Commerciale Milano（sea-srl.it Sedi）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28））milano@sea-srl.it 〔https://www.sea-srl.it/contatti/sedi〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | S. & A. S.R.L.（商号 S&A；P.IVA / CF 01887850129；REA VA-214291；股本 €100,000） |
+| 成立 | —（未取）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 sea-srl.it，语言 it，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 sea-srl.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 110 批：Gallarate (VA) 安防电子批发分销商（Legnano / Milano / Bologna / Asti 5 网点；TVT / Ajax / Bentel / Bosch / Hochiki）→ **分销 20%，B BIG，加厚一次（换切口：安装商柜台配套 PoE SKU：STC-028GP / STC-228GP / STC-2224GP + 意大利 DAP 小起订）**；营收未取（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防电子批发（入侵 / 消防 / CCTV / 门禁 / 对讲）
 - **触达通道（公开）**：role: 安防电子批发商（意大利）；region: 意大利；contact: customer.service@sea-srl.it、mauro.brunazzo@sea-srl.it
@@ -211,8 +230,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mauro Brunazzo | — | mauro.brunazzo@sea-srl.it | 调研核实（公开页） | 用户表 |
+| Mauro Brunazzo | CEO（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | mauro.brunazzo@sea-srl.it | 调研核实（公开页） | 用户表 |
 | Sandro Succi | — | — | 调研核实（公开页） | 用户表 |
+| Marcello Gariboldi | Responsabile Commerciale Milano（sea-srl.it Sedi）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28） | milano@sea-srl.it | 调研核实（公开页） | https://www.sea-srl.it/contatti/sedi |
 
 - **通道建议**：企业邮箱可直发
 

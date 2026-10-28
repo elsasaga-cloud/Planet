@@ -76,6 +76,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（HU · 1 次检索：frekvent.com/kapcsolat + impresszum（Frekvent Forklift Kft.；Jánoshalma 6440；Adószám 12678859-2-03；Cégjegyzékszám 03-09-109129；Kecskeméti Törvényszék Cégbírósága）+ frekvent.com/blog（2023. július 12-től új neve Frekvent Forklift Kft.；前 Phoenix Forklift Kft.）+ ceginformacio.hu（Full name Frekvent Forklift Korlátolt Felelősségű Társaság；6440 Jánoshalma Kisszállási út 11；Main activity 4672；establishment 19/06/2001；capital 3 000 000 HUF；Net revenue 1 079 947 010 HUF 2025）+ targoncavilla.com（Frekvent Forklift Kft.；villa@frekvent.com），2026-10-28 查；https://www.ceginformacio.hu/cr9310989059_EN）：**
+
+- 法定名 / 登记号：Frekvent Forklift Kft.（原 PHOENIX FORKLIFT Kft.，2023-07-12 更名；frekvent.com / targoncavilla.com / targoncaalkatresz.com；Bács-Kiskun Jánoshalma Kisszállási út 11, 6440；adószám 12678859-2-03；cégjegyzékszám 03-09-109129 Kecskeméti Törvényszék）— 2001-06-19 成立的叉车配件 / 二手叉车 / 建筑机械 / 拖拉机配件批发商与网店（TEÁOR 4672；2021 起 Magento 网店）；jegyzett tőke HUF 3M；2025 净营收 HUF 1.08bn（≈€2.7M）；表内「工业 FS」= 误判（叉车配件）；表内未跟进 · Adószám 12678859-2-03；Cégjegyzékszám 03-09-109129 · 状态 **Active** · 成立 2001-06-19 · Kft.（私有；HUF 3M）
+- 行业码 / 经营范围：叉车 / 建筑机械 / 拖拉机 配件批发 + 网店（TEÁOR 4672）
+- 注册地址：Kisszállási út 11, 6440 Jánoshalma
+- 规模档：小型（≈€2.7M）
+- 账目：2025 净营收 HUF 1,079,947k；—
+- 高管：（未具名）— ügyvezető（未取）
+- 控制人 / 股东：未取
+- 曾用名：PHOENIX FORKLIFT Kft.
+- **这意味着什么：**
+  - **叉车配件商（表内「工业 FS」为误判）→ 非目标行业 → 不动**
+- 备注：坐实（adószám + 财务）；非目标行业 → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,8 +122,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Frekvent Forklift Kft.（原 PHOENIX FORKLIFT Kft.；adószám 12678859-2-03；cégjegyzékszám 03-09-109129） |
+| 成立 | 2001-06-19（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 匈牙利 |
-| 其他 | 官网 targoncavilla.com，语言 ?，快照状态 timeout；角色判定来源：待核 |
+| 其他 | 官网 targoncavilla.com，语言 ?，快照状态 timeout；角色判定来源：待核；第 110 批：Jánoshalma 叉车 / 建筑机械配件批发 + 网店（2025 净营收 HUF 1.08bn ≈ €2.7M）；表内「工业 FS」为误判 → **非目标行业 → 不动**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核，匈牙利）
 - **触达通道（公开）**：role: 工业设备供应商（匈牙利，待核）；region: 匈牙利；contact: villa@frekvent.com

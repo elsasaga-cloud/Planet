@@ -76,6 +76,19 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（LT · 1 次检索：rekvizitai.vz.lt 搜索页「it darbai」条目（Itegra, MB；Partizanų g. 21B-11, LT-49478 Kaunas；Veiklos sritys: elektros instaliacijos darbai; apsaugos sistemos patalpoms; telekomunikacijos, ryšio priemonės; vaizdo stebėjimo sistemos）；未进入详情页 → 代码未取（1 查即停），2026-10-28 查；https://rekvizitai.vz.lt/paieskos-frazes/it+darbai/）：**
+
+- 法定名 / 登记号：Itegra, MB（mažoji bendrija 小型合伙；itegra.lt；考纳斯 Partizanų g. 21B-11, LT-49478）— rekvizitai.lt 目录：电气安装、楼宇安防系统、电信 / 通信设备、视频监控（微型安装商）；**įmonės kodas 未取**（检索结果仅目录条目）；研究档无 KP、国家误写「意大利」（entities iso LT 正确）；表内未跟进 · —（MB；代码未取） · 状态 **部分坐实** · 成立 — · MB（小型合伙）
+- 行业码 / 经营范围：电气 / 安防 / 监控 安装（微型）
+- 注册地址：Partizanų g. 21B-11, LT-49478 Kaunas
+- 规模档：小微
+- 账目：—；—
+- 高管：（未具名）— 研究档无 KP
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **考纳斯微型安装合伙（无 KP、无回声史）→ 不动**
+- 备注：部分坐实（目录条目）；微型无 KP → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,8 +138,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Itegra, MB（mažoji bendrija；Partizanų g. 21B-11, LT-49478 Kaunas；įmonės kodas 未取） |
+| 成立 | —（未取）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 itegra.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 itegra.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 110 批：考纳斯微型电气 / 安防 / 监控安装合伙（rekvizitai 目录条目；无 KP；研究档国别「意大利」有误，entities iso LT 正确，不改）→ **不动**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 视频监控 / 消防 / 智能家居安装（立陶宛）
 - **触达通道（公开）**：role: 安防安装商（立陶宛，PoE 现 Utepo）；region: 立陶宛；contact: pagalba@itegra.lt

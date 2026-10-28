@@ -76,6 +76,23 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（SK · 1 次检索：triton.eu/sk/kontakt（Tritonsystems s.r.o. Kopčianska 9 851 01 Bratislava；IČO: 31323642 IČ DPH SK2020350244 — 该号实为老公司 T R I T O N spol. s r.o.）+ foaf.sk（Tritonsystems spol. s r.o. vznikla 10.03.2015；štatutár Mgr. Boris Lupták, Ing. Stanislav Lupták；IČO 48060658；DIČ 2120052044；Sro 102834/B；Topoľčianska 25）+ orsr.sk（Sro 102834/B；IČO 48 060 658；Topoľčianska 25 851 05）+ finstat（IČ DPH SK2120052044 od 1.10.2015）+ tritonsystems.eu/sk/about-us（najväčším slovenským výrobcom parkovacích a prístupových systémov；od 1992）+ azet（T R I T O N spol. s r. o. IČO 31323642），2026-10-28 查；https://www.finstat.sk/48060658）：**
+
+- 法定名 / 登记号：Tritonsystems spol. s r.o.（triton.eu / tritonsystems.eu；品牌 ParkIS / Arena；布拉迪斯拉发 Petržalka Topoľčianska 25, 851 05（办公 Kopčianska 9, 851 01）；IČO 48060658；DIČ 2120052044；IČ DPH SK2120052044；OR OS Bratislava I, Sro 102834/B）— 2015-03-10 成立的停车 / 票务 / 门禁系统**制造商与运营商**（集团自 1992 年起，关联老公司 T R I T O N spol. s r.o. IČO 31323642 同址；「斯洛伐克最大停车系统制造商之一」）；所有人 / 法定代表 Mgr. Boris Lupták、Ing. Stanislav Lupták（= 研究档 KP）；KP Michal Chvála（michal.chvala@triton.eu）；表内 4 次跟进无回复 · IČO 48060658；IČ DPH SK2120052044（关联 T R I T O N spol. s r.o. IČO 31323642） · 状态 **Aktívna** · 成立 2015-03-10（集团 1992） · spol. s r.o.（Lupták 家族）
+- 行业码 / 经营范围：停车 / 票务 / 门禁系统 制造 + 运营（自有品牌 ParkIS）
+- 注册地址：Topoľčianska 25, 851 05 Bratislava（办公 Kopčianska 9, 851 01）
+- 规模档：小型
+- 账目：未取（finstat 需登录）；—
+- 高管：Stanislav Lupták（Ing.）— 所有人 / Konateľ（研究档 KP）= 拍板人（抄）
+- 高管：Boris Lupták（Mgr.）— 所有人 / Konateľ
+- 高管：Michal Chvála — 研究档 KP（michal.chvala@triton.eu）= 收件人
+- 高管：Mirka Arpášová — 采购 / 行政（123dopyt 登记邮箱）
+- 控制人 / 股东：Boris Lupták + Stanislav Lupták
+- **这意味着什么：**
+  - **自有品牌停车 / 门禁系统制造商（4 次无回）→ 贴标 / 配套 30% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP 作停车终端 + 车牌相机 的户外机柜 PoE 配套，可贴 ParkIS 标 + 3 年保）；有回声再加厚**
+  - 收件人 Michal 直呼、抄 Stanislav；发信窗口 Thu 12–14 CET；斯洛伐克语一句引子
+- 备注：贴标 / 配套 30% small；一页纸一次（换切口）；坐实（IČO + 所有人）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,16 +138,19 @@ updated: 2026-10-28
 - **【用户表】2 光 8 PoE 管理 Vitesse**
   > 2光8PoE管理Vitesse / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Michal Chvála（）michal.chvala@triton.eu 〔用户表〕
-- **KP**：Stanislav Lupták（） 〔用户表〕
+- **KP**：Michal Chvála（研究档 KP = 收件人（第 110 批 官方登记核实 2026-10-28））michal.chvala@triton.eu 〔用户表〕
+- **KP**：Stanislav Lupták（Konateľ / 所有人（foaf.sk / orsr.sk；Ing.）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28）） 〔用户表〕
+- **KP**：Boris Lupták（Konateľ / 所有人（foaf.sk；Mgr.）（第 110 批 官方登记核实 2026-10-28）） 〔https://foaf.sk/firmy/436789〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Tritonsystems spol. s r.o.（IČO 48060658；DIČ 2120052044；IČ DPH SK2120052044；OR OS Bratislava I Sro 102834/B；关联老公司 T R I T O N spol. s r.o. IČO 31323642 同址） |
+| 成立 | 2015-03-10（集团 1992）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 斯洛伐克 |
-| 其他 | 官网 tritonsystems.eu，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 tritonsystems.eu，语言 ?，快照状态 ok；角色判定来源：官网文案；第 110 批：布拉迪斯拉发 停车 / 票务 / 门禁系统制造商 + 运营商（自有品牌 ParkIS / Arena；「斯洛伐克最大停车系统制造商之一」；Lupták 家族）→ **贴标 / 配套 30% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP 作停车终端 + 车牌相机户外机柜 PoE 配套，可贴 ParkIS 标 + 3 年保）；有回声再加厚**；斯洛伐克语引子（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：智能停车与缴费系统（ParkIS）
 - **触达通道（公开）**：role: 停车系统开发商（斯洛伐克，PoE 为系统配套）；region: 斯洛伐克；contact: michal.chvala@triton.eu
@@ -217,8 +237,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Michal Chvála | — | michal.chvala@triton.eu | 调研核实（公开页） | 用户表 |
-| Stanislav Lupták | — | — | 调研核实（公开页） | 用户表 |
+| Michal Chvála | 研究档 KP = 收件人（第 110 批 官方登记核实 2026-10-28） | michal.chvala@triton.eu | 调研核实（公开页） | 用户表 |
+| Stanislav Lupták | Konateľ / 所有人（foaf.sk / orsr.sk；Ing.）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
+| Boris Lupták | Konateľ / 所有人（foaf.sk；Mgr.）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://foaf.sk/firmy/436789 |
 
 - **通道建议**：企业邮箱可直发
 

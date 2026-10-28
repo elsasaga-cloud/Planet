@@ -76,6 +76,19 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（LT · 1 次检索：raskpreke.lt/en/privacy-policy-2（E-shop Rass-security systems；Company code 305706724；VAT number LT100013849613；Panerių g. 64 LT-03160 Vilnius；info@raskpreke.lt）；rekvizitai 详情未进入（1 查即停），2026-10-28 查；https://www.raskpreke.lt/en/privacy-policy-2）：**
+
+- 法定名 / 登记号：Rass-security systems（raskpreke.lt 网店「Rask Prekę」；维尔纽斯 Panerių g. 64, LT-03160；įmonės kodas 305706724；PVM LT100013849613）— 安防系统网店（法人形式 MB / UAB 未取；代码段提示 ≈2021 成立）；研究档无 KP、国家误写「意大利」（entities iso LT 正确）；表内未跟进 · Įmonės kodas 305706724；PVM LT100013849613 · 状态 **部分坐实（法人形式未取）** · 成立 ≈2021（代码段推定） · MB / UAB（未取）
+- 行业码 / 经营范围：安防系统 网店
+- 注册地址：Panerių g. 64, LT-03160 Vilnius
+- 规模档：小微
+- 账目：—；—
+- 高管：（未具名）— 研究档无 KP；info@raskpreke.lt
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **微型安防网店（无 KP）→ 按「一人网店」规则 不动**
+- 备注：部分坐实（网站代码）；微型网店 → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,8 +138,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Rass-security systems（raskpreke.lt 网店；įmonės kodas 305706724；PVM LT100013849613；法人形式未取） |
+| 成立 | ≈2021（代码段推定）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 raskpreke.lt，语言 lt-LT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 raskpreke.lt，语言 lt-LT，快照状态 ok；角色判定来源：官网文案；第 110 批：维尔纽斯 Panerių g. 64 微型安防网店（无 KP；研究档国别「意大利」有误，entities iso LT 正确，不改）→ **按「一人网店」规则 不动**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统 / 电工产品网店
 - **触达通道（公开）**：role: 安防/电工网店（立陶宛，Utepo 在售）；region: 立陶宛；contact: info@raskpreke.lt

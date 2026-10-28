@@ -77,6 +77,25 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（ES · 1 次检索：einforma（SMART TECH IBD GLOBAL SOLUTIONS SLU；NIF B63904445；Denominación Antigua IPTECNO VIDEOVIGILANCIA SL；RM Barcelona；objeto comercio de equipos y sistemas de seguridad）+ ibdglobal.com/aviso-legal（Titular SMART TECH IBD GLOBAL SOLUTIONS S.L.；NIF B63904445；Calle del Besos 12 Pol Ind Can Buscarons de Baix）+ BORME-C-2021-3504（fusión por absorción 15/05/2021；Joan Ojeda Flores Administrador Solidario；Jordi Bassa Jansana Administrador）+ cuadernosdeseguridad 2020-04（más de un centenar de empleados；España y Portugal）+ intelexvision 2026-04（leading European security distributor），2026-10-28 查；https://www.einforma.com/informacion-empresa/iptecno-videovigilancia）：**
+
+- 法定名 / 登记号：SMART TECH IBD GLOBAL SOLUTIONS S.L.U.（原名 IPTECNO VIDEOVIGILANCIA SL；商号 IBD Global / IPTecno；ibdglobal.com；巴塞罗那 Montornès del Vallès Calle del Besòs 12, Pol. Ind. Can Buscarons de Baix；原址 Granollers Pla Ramassar 52 Nave 19；CIF B63904445；RM Barcelona）— 2020-04 由 BC Diid 与 IPTecno 合并而成的伊比利亚安防分销集团（2021-05 吸收合并 DIID Logística、Distribución de Sistemas de Seguridad BC España、IPTecno Seguridad；「百余名雇员」、西 / 葡多地物流基地；IndigoVision / IntelexVision 等）；管理层 Ignacio Barandiarán、Ricardo Costa、Jordi Bassa（Administrador；= 研究档 KP）、Joan Ojeda（Administrador solidario）；表内 4 次跟进无回复 · CIF B63904445 · 状态 **Activa** · 成立 —（IPTecno 前身；2020 合并） · S.L.U.（IBD Global 集团）
+- 行业码 / 经营范围：安防解决方案 分销（西 / 葡；100+ 人）
+- 注册地址：Calle del Besòs 12, Pol. Ind. Can Buscarons de Baix, Montornès del Vallès (Barcelona)
+- 规模档：中型（100+ 人）
+- 账目：未取（100+ 人）；—
+- 高管：Jordi Bassa Jansana — Administrador（BORME 2021；研究档 KP jordi@iptecno.com）= 拍板人 / 收件人
+- 高管：Joan Ojeda Flores — Administrador solidario（BORME 2021）
+- 高管：Ignacio Barandiarán — 管理层（BC Diid 方）
+- 高管：Ricardo Costa — 管理层（葡萄牙方）
+- 高管：Joan Balaguer — 研究档 KP
+- 控制人 / 股东：未取（合并集团）
+- 曾用名：IPTECNO VIDEOVIGILANCIA SL
+- **这意味着什么：**
+  - **伊比利亚 100+ 人安防分销集团、KP 即 Administrador（4 次无回）→ 分销 20%，B BIG，加厚一次（换切口：项目型安防分销的「工程配套 PoE」线：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP；西 / 葡两国 DAP）**；**回信即 A 候选**
+  - 收件人 Jordi 直呼；发信窗口 Thu 12–14 CET；加泰 / 西语一句引子；稿内不点名 IndigoVision
+- 备注：分销 20%；B BIG；加厚一次（换切口）；回信即 A；坐实（CIF + BORME 合并）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,16 +129,19 @@ updated: 2026-10-28
 - **【用户表】有 Utepo 的**
   > 有Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jordi Bassa（）jordi@iptecno.com 〔用户表〕
-- **KP**：Joan Balaguer（） 〔用户表〕
+- **KP**：Jordi Bassa（Administrador（BORME-C-2021-3504：Jordi Bassa Jansana）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））jordi@iptecno.com 〔用户表〕
+- **KP**：Joan Balaguer（研究档 KP（职务未取）（第 110 批 官方登记核实 2026-10-28）） 〔用户表〕
+- **KP**：Joan Ojeda Flores（Administrador solidario（BORME 2021）（第 110 批 官方登记核实 2026-10-28）） 〔https://www.boe.es/diario_borme/txt.php?id=BORME-C-2021-3504〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SMART TECH IBD GLOBAL SOLUTIONS S.L.U.（原名 IPTECNO VIDEOVIGILANCIA SL；商号 IBD Global / IPTecno；CIF B63904445；RM Barcelona） |
+| 成立 | —（2020-04 BC Diid + IPTecno 合并；2021-05 吸收合并）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 西班牙 |
-| 其他 | 官网 ibdglobal.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+| 其他 | 官网 ibdglobal.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述；第 110 批：Montornès del Vallès 伊比利亚安防分销集团（100+ 人；西 / 葡多地物流基地；IndigoVision / IntelexVision）→ **分销 20%，B BIG，加厚一次（换切口：项目型安防分销的工程配套 PoE：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP；西 / 葡两国 DAP）；回信即 A 候选**；稿内不点名 IndigoVision（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：专业安防分销（视频监控 / 入侵 / 门禁 / 消防）
 
@@ -217,8 +239,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jordi Bassa | — | jordi@iptecno.com | 调研核实（公开页） | 用户表 |
-| Joan Balaguer | — | — | 调研核实（公开页） | 用户表 |
+| Jordi Bassa | Administrador（BORME-C-2021-3504：Jordi Bassa Jansana）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | jordi@iptecno.com | 调研核实（公开页） | 用户表 |
+| Joan Balaguer | 研究档 KP（职务未取）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
+| Joan Ojeda Flores | Administrador solidario（BORME 2021）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.boe.es/diario_borme/txt.php?id=BORME-C-2021-3504 |
 
 - **通道建议**：企业邮箱可直发
 

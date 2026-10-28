@@ -56104,7 +56104,7 @@
 "kp": [
 {
 "name": "Eric Piaget",
-"role": "V.P. Sales EMEA & India（用户表）",
+"role": "外部顾问 / 欧洲销售（LinkedIn：CEO EPA-Technologies SAS，Consultant chez Loop Telecom；法国 Vaucresson）— 公司为台湾上市同行制造商（第 110 批 官方登记核实 2026-10-28）",
 "email": "eric-piaget@looptelecom.com",
 "phone": "+33 6 6767 1045",
 "source": "Clients/A/Taiwan.xlsx"
@@ -56119,10 +56119,11 @@
 "level": "B 级加厚 v1（基于首轮调研整理 + 身份判断）"
 },
 "company_facts": {
-"legal_name": "Loop Telecommunication International, Inc.（Loop Telecom；台湾上市 3025）",
+"legal_name": "星通資訊股份有限公司 Loop Telecommunication International, Inc.（統一編號 22099863；TWSE 3025；新竹科学园区新安路 8 号）",
 "hq": "台湾新竹；EMEA & India 销售 VP Eric Piaget 驻法国",
 "size": "上市公司",
-"other": "自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）"
+"other": "自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）；第 110 批：台湾上市电信 / 工业以太网设备制造商（董事长兼总经理葉茂林；实收资本 NT$567M；表内 FR 仅为其欧洲顾问所在地，不 country_fix）→ **同行 → 不动（不进任何发送包）**（第 110 批 官方登记核实 2026-10-28）",
+"founded": "1991-12-03（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电信接入与传输设备制造（自有品牌 Loop）",
@@ -78115,7 +78116,7 @@
 "kp": [
 {
 "name": "Christos Karydis",
-"role": "GM（用户表）",
+"role": "合伙人（Karydis 家族 Ο.Ε.）（第 110 批 官方登记核实 2026-10-28）",
 "email": "info@gmka.gr（用户表）",
 "phone": "+30 694 720 5247（用户表）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -78130,11 +78131,11 @@
 "level": "B 级加厚 v1（官网核对）"
 },
 "company_facts": {
-"legal_name": "ΓΕΜΚΑ Καρύδη Αφοί Ο.Ε.（GEMKA – Karydis Bros OE）",
-"founded": "1928",
+"legal_name": "ΓΕΜΚΑ – Καρύδη Αφοί Ο.Ε.（GEMKA – Karydis Bros O.E.；Ομόρρυθμη Εταιρεία；ΑΦΜ 094019245 / ΓΕΜΗ 001037501000 据 11888.gr 但地址不符 → 待证）",
+"founded": "1928（Ο.Ε. 登记日期未取）（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Αγ. Παντελεήμονος 8, 122 41 Αιγάλεω (Egaleo), Athens, Greece（+30 210 3243 000）",
 "size": "2–10（LinkedIn）",
-"other": "钥匙/锁具/保险箱/门禁批发；Salto 等电子门禁；展厅 + 培训室"
+"other": "钥匙/锁具/保险箱/门禁批发；Salto 等电子门禁；展厅 + 培训室；第 110 批：Αιγάλεω 百年钥匙 / 锁具 / 电子锁 / 保险柜进口批发商（2–10 人；门禁仅副线）→ **非目标行业 → 不动**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "钥匙、开齿机、锁芯、保险箱批发",
@@ -79361,7 +79362,7 @@
 "kp": [
 {
 "name": "Arno Freudenreich",
-"role": "Associé-gérant（商业登记公开）",
+"role": "Associé-gérant / 100% 所有人（moneyhouse：200 份 CHF 100，单独签字）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）",
 "email": "afcn@sitis.ch（用户表）",
 "phone": "+41 22 510 21 51",
 "source": "https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431"
@@ -79376,11 +79377,11 @@
 "level": "B 级加厚 v1（登记核对）"
 },
 "company_facts": {
-"legal_name": "SITIS Sàrl（CHE-150.026.203）",
-"founded": "2012-01-04",
+"legal_name": "SITIS Sàrl（UID CHE-150.026.203；CH-660.0.018.012-4）",
+"founded": "2012-01-04（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Rue Rousseau 15, 1201 Genève, Switzerland（+41 22 510 21 51）",
 "size": "1–10；资本 CHF 20,000",
-"other": "合伙经理 Arno Freudenreich；IT/电信/安防三线服务"
+"other": "合伙经理 Arno Freudenreich；IT/电信/安防三线服务；第 110 批：日内瓦 Rue Rousseau 15 一人 IT / 电信 / 安防服务商（股本 CHF 20k；打开 5 次）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP + MOQ 1 + DAP 瑞士买方清关；法语引子）**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT 支持与托管",
@@ -89386,14 +89387,22 @@
 "title": "Owner & CEO",
 "email": "jacopo.ganz@asit.it",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Amministratore Delegato（asit.it 2024-06 任命公告）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Marco Gabriele",
 "title": "VP Sales",
 "email": "marco.gabriele@asit.it",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Vice President Sales（techcompany360 / rocketreach）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Joris Ganz",
+"role": "Presidente e Amministratore Delegato（asit.it 2024-06）（第 110 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.asit.it/nuove-nomine-asit-s-p-a/"
 }
 ],
 "grade_override": null,
@@ -89404,11 +89413,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "ASIT S.r.l.（待核）",
-"founded": "",
+"legal_name": "ASIT S.p.A.（P.IVA / CF 06221270017；Registro AEE IT22010000013576）",
+"founded": "1992-05-12（活动 1984）（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Italy",
 "size": "中小型分销 / 电商",
-"other": ""
+"other": "第 110 批：都灵 Mappano 专业 ICT 分销商（布线 / 网络 / 安全 / UCC / AV / CCTV；35+ 品牌；1,500 活跃客户；5 分公司 + 2 代理；42 人；2025 营收 €41.8M；股本 €250k）→ **分销 20%，B BIG，加厚一次（换切口：安装商渠道第二价位 + 意大利 DAP 小起订；STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP / STI-144GP）；次候选升 A**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV / 网络设备分销（电商）"
@@ -111783,7 +111792,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 spesaelettrica.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 spesaelettrica.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 110 批：Assago (MI) 电气材料网店联合体（多家电气批发商共有；0 雇员；2025 营收 €774k；仅意大利境内发货；「switch」= 电气开关）→ **不动（平台 / 非目标）**（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "SPESA ELETTRICA S.C.A.R.L.（società consortile；P.IVA / CF 08699710961；REA MI-2042985）",
+"founded": "2014-07-28（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电气材料分销（多品牌、多仓库）"
@@ -113920,7 +113931,9 @@
 },
 "company_facts": {
 "hq": "匈牙利",
-"other": "官网 targoncavilla.com，语言 ?，快照状态 timeout；角色判定来源：待核"
+"other": "官网 targoncavilla.com，语言 ?，快照状态 timeout；角色判定来源：待核；第 110 批：Jánoshalma 叉车 / 建筑机械配件批发 + 网店（2025 净营收 HUF 1.08bn ≈ €2.7M）；表内「工业 FS」为误判 → **非目标行业 → 不动**（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "Frekvent Forklift Kft.（原 PHOENIX FORKLIFT Kft.；adószám 12678859-2-03；cégjegyzékszám 03-09-109129）",
+"founded": "2001-06-19（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "（待核，匈牙利）"
@@ -114621,7 +114634,9 @@
 },
 "company_facts": {
 "hq": "罗马尼亚",
-"other": "官网 tehnoelectric.ro，语言 ?，快照状态 http_error；角色判定来源：待核"
+"other": "官网 tehnoelectric.ro，语言 ?，快照状态 http_error；角色判定来源：待核；第 110 批：Oradea 电子元器件 / 电气 / 自动化直接进口网店（11 人；2024 下滑）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP 一口价 + MOQ 1；罗语引子）**；收件人 office@（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "TEHNO ELECTRIC SRL（CUI RO16179086；J05/330/2004）≠ 同名 TEHNOELECTRIC SRL 16855137",
+"founded": "2004-02-25（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "综合电子网店 / 销售平台（罗马尼亚）"
@@ -136719,11 +136734,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Cablewindow（待核）",
-"founded": "",
+"legal_name": "CABLEWINDOW SL（原名 HAI NUO SRL；商号 CABLE WINDOW；CIF B83027185）",
+"founded": "2001-06-15（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Spain",
 "size": "小型网店 / 分销",
-"other": "已售中国同行 UTEPO"
+"other": "已售中国同行 UTEPO；第 110 批：马德里 Pol. Ind. 网络 / 安防线缆设备进口网店（股本 €3,065；2–6 人；年销 ≈€0.5M；原名提示华人背景）→ **分销 20% small，一页纸一次（英文稿；中文直联 Simon 定，默认否）；再无回声 → 不动**；稿内不点名 Utepo（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络 / 安防设备网店"
@@ -137040,7 +137055,8 @@
 "title": "Manager",
 "email": "comercial@izux.es",
 "phone": "+34 963 320 337",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Administrador único / Gerente（infonif：VIDAL GIMERA IGOR；LinkedIn Igor Vidal Guimerá）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -137051,11 +137067,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "IZUX（待核）",
-"founded": "",
+"legal_name": "IZUX INGENIERIA Y SEGURIDAD SL（CIF B98126444；RM Valencia H V-133381）",
+"founded": "2009-02-25（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Valencia, Spain",
 "size": "中小型安防电商",
-"other": "已售 ONV 商用 PoE"
+"other": "已售 ONV 商用 PoE；第 110 批：瓦伦西亚微型 CCTV / 门禁 / 酒店锁批发网店（1–10 人；销售 ≤€250k）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP 配 Hikvision / Dahua 套件一口价 + MOQ 1；西语引子）；再无回声 → 不动**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防电商"
@@ -138375,7 +138391,7 @@
 "kp": [
 {
 "name": "Bogdan（姓未公开）",
-"role": "联系人（用户表）",
+"role": "业主（推定；1 人公司）= 收件人（第 110 批 官方登记核实 2026-10-28）",
 "email": "bogdan@omnisecurity.ro",
 "phone": "+40 723 64 94 49（公司公开号）",
 "source": "用户表 + https://www.omnisecurity.ro/"
@@ -138389,11 +138405,11 @@
 "level": "B 级加厚 v1（官网 + 注册核对）"
 },
 "company_facts": {
-"legal_name": "BONMAG INTERNATIONAL SRL",
+"legal_name": "BONMAG INTERNATIONAL S.R.L.（品牌 OmniSecurity；CUI 37299107；J15/334/2017）",
 "registry": "CUI 37299107 · J15/334/2017（EUID ROONRC.J15/334/2017）",
-"founded": "2017",
+"founded": "2017-03-29（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Voinești, Dâmbovița, România",
-"other": "2024 年 Voinești 镇 CAEN 4690（非专业批发）利润榜第一（小镇口径）；官网自述团队有安防系统与技术背景，供应商培训/技术支持渠道完整"
+"other": "2024 年 Voinești 镇 CAEN 4690（非专业批发）利润榜第一（小镇口径）；官网自述团队有安防系统与技术背景，供应商培训/技术支持渠道完整；第 110 批：Dâmbovița Voinești 一人安防 / 自动化安装商（2025 销售 €100.8k；SICAP 小额公采）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP 一口价 + MOQ 1 + 预付款；罗语引子）；再无回声 → 不动**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IP 视频监控安装（Full HD / 3K / 4K / 5K）",
@@ -147625,7 +147641,7 @@
 "kp": [
 {
 "name": "J.-Y. Guibreteau（邮箱推断；全名待核）",
-"role": "用户表联系人（WhatsApp 为主通道）",
+"role": "研究档推断 J.-Y. Guibreteau（Gmail）；可能 = Jean-Yves Guibreteau，CG SYSTEMES SAS（SIREN 939 650 495）DG 2025-02 起 — 待证（第 110 批 官方登记核实 2026-10-28）",
 "email": "jyguibreteau@gmail.com",
 "phone": "",
 "source": "用户表 / entities 邮箱"
@@ -147639,9 +147655,11 @@
 "level": "无域名 · 仅表内信息（已成交）"
 },
 "company_facts": {
-"legal_name": "JguyTech（表内；未能核实）",
+"legal_name": "（未坐实）JguyTech — 1 次检索查无法人；可能线索 CG SYSTEMES SAS 939 650 495 待证",
 "hq": "法国",
-"size": "微型/个体"
+"size": "微型/个体",
+"founded": "—（第 110 批 官方登记核实 2026-10-28）",
+"other": "第 110 批：Gmail 个人、曾买 1 件样品（OM4301）；研究档出现 faiveleytransport.com（轨交供应商）域名 → 若属实为轨交背景（守界）→ **不动（B 保留；再询盘走零售价 / 预付款）**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "弱电/网络延长安装（推断）"
@@ -162674,6 +162692,18 @@
 "email": "andrius@bkgrupe.lt",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Andrius Dapkevičius",
+"role": "Vadovas / 总经理（rekvizitai.vz.lt）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://rekvizitai.vz.lt/en/company/bk_grupe/"
+},
+{
+"name": "Justas Kudirka",
+"role": "Elektroninės prekybos vadovas / 电商负责人（bkgrupe.lt）（第 110 批 官方登记核实 2026-10-28）",
+"email": "justas@bkgrupe.lt",
+"source": "https://bkgrupe.lt/kontaktai"
 }
 ],
 "grade_override": null,
@@ -162685,7 +162715,9 @@
 },
 "company_facts": {
 "hq": "立陶宛",
-"other": "官网 bkgrupe.lt，语言 ?，快照状态 http_error；角色判定来源：待核"
+"other": "官网 bkgrupe.lt，语言 ?，快照状态 http_error；角色判定来源：待核；第 110 批：考纳斯 波罗的海三国 + 波兰安防系统分销商（管理中心塔林；95 人；销售收入 €41.9M；股本 €67,320；电商部）→ **分销 20%，B BIG，加厚一次（换切口：四国渠道第二 PoE 货源 + 电商 SKU；STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP）；次候选升 A**；稿内不点名 Utepo（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "BK grupė, UAB（Uždaroji akcinė bendrovė Baltijos kontaktų grupė；įmonės kodas 210599550；PVM LT105995515）",
+"founded": "1994-03-07（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "（待核，立陶宛）"
@@ -177051,7 +177083,8 @@
 "title": "Vice President",
 "email": "fabio@ad-in.net",
 "phone": "+39 039 682 9636",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Vice President（研究档；LinkedIn）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -177062,11 +177095,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Advanced Innovations S.r.l.",
-"founded": "集团 1979",
+"legal_name": "ADVANCED INNOVATIONS S.R.L.（P.IVA / CF 04994260968；REA MB-1789621）",
+"founded": "2005-10-26（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Monza, Italy（+39 039）",
 "size": "中型安防分销",
-"other": "UTEPO 意大利官方分销"
+"other": "UTEPO 意大利官方分销；第 110 批：Usmate Velate (MB) IP 监控进口分销商（1979 安防制造集团旗下；2016 起 UTEPO 意大利独家、2017 起 Uniview；6 人；2024 营收 €1.13M 自 2021 €2.04M 腰斩、亏损 −€66k）→ **分销 20% small，一页纸一次（1:1 对照其独家品牌在售型号，只给毛利切口：STC-028GP / STC-228GP / STC-2224GP / STI-054GP）；有回声再加厚**；稿内绝不点名 UTEPO / Uniview（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "Uniview 监控分销",
@@ -188890,7 +188923,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Sébastien Dourte",
+"role": "创办人 / Gérant（LinkedIn Dourte；companyweb 10.2 FTE）= 拍板人（收件人 info@dourte.be 待核）（第 110 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.companyweb.be/en/0684917295/dourte"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -188899,11 +188939,11 @@
 "level": "B 级加厚 v1（官网 + 登记核对）"
 },
 "company_facts": {
-"legal_name": "Dourte SRL（BE 0684.917.295；商号 Dourte Elektriciteit）",
-"founded": "2017-11-22（LinkedIn 称 2010 起业）",
+"legal_name": "Dourte SRL / BV（商号 Dourte Elektriciteit；BE 0684.917.295）",
+"founded": "2017-11-16（业务 2010）（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Buitenplas 1 unit 15, 1601 Ruisbroek, Belgium（info@dourte.be）",
 "size": "10.2 FTE（2025 年报）；LinkedIn 11–50",
-"other": "FPS Interior 认可（报警/摄像）；Nacebel 43211 电气安装；2024 年入 Anderlecht 市政采购名单"
+"other": "FPS Interior 认可（报警/摄像）；Nacebel 43211 电气安装；2024 年入 Anderlecht 市政采购名单；第 110 批：Ruisbroek (Sint-Pieters-Leeuw) 电气 + 安防安装商（10.2 FTE 2025；毛利 €598k；净利 €8.5k）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 配 CCTV / 门禁 + MOQ 1；法 / 荷引子）；再无回声 → 不动**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频安防 / 门禁 / 入侵探测集成",
@@ -190694,7 +190734,14 @@
 "title": "（职务待核）",
 "email": "c.sgouros@videotronic.ch",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Verwaltungsratspräsident / Geschäftsführer（business-monitor.ch）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Dominik Mizdrak",
+"role": "Verwaltungsrat（VIDEOR E. Hartig GmbH Geschäftsführer；2026 起控股方）— 仅记录（第 110 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://business-monitor.ch/en/companies/197640-videotronic-ag"
 }
 ],
 "grade_override": null,
@@ -190706,7 +190753,9 @@
 },
 "company_facts": {
 "hq": "瑞士",
-"other": "官网 videotronic.ch，语言 de，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 videotronic.ch，语言 de，快照状态 ok；角色判定来源：官网文案；第 110 批：Regensdorf (ZH) 视频安防 / 门禁分销集成商（股本 CHF 316k；1–10 人；**2026 起德国 VIDEOR E. Hartig GmbH（自有品牌 eneo）多数控股**；6 次无回）→ **分销 20% small，一页纸一次（换切口：并入 Videor 后供应商重审；STC-028GP / STC-228GP / STI-054GP；DAP 瑞士）；再无回声 → 不动**；旁线索 VIDEOR / eneo → DE 池另立户（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "Videotronic AG（UID CHE-107.888.942；CH-020.3.927.830-8）≠ Videotronic (Schweiz) AG CHE-106.761.351",
+"founded": "1976-08-03（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频安防 / 门禁 / 门口通信方案（瑞士）"
@@ -191015,7 +191064,8 @@
 "title": "Chief Executive Officer",
 "email": "milan@axilogi.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "CEO（研究档）— 2026-01-19 起不再是登记代表人；2026-03-10 法院登记 opatrovník → 法人状态异常（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -191027,7 +191077,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 axilogi.com，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"other": "官网 axilogi.com，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 110 批：比尔森 IT / 安防网店（股本 CZK 2M；jednatel = DC Europe system a.s.；代表人 Harmáček 2026-01 注销、2026-03 法院指定监护人 Mgr. Martin Svoboda）→ **法人状态异常 → 不动（B 保留，不进发送包；主动询盘只做全额预付）**（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "Axilogi s.r.o.（IČO 10964703；DIČ CZ10964703；C 123877 KS Plzeň；网站自称 C 47636 → 不一致）",
+"founded": "2021-06-23（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT / 安防 / 工业电源网店"
@@ -191840,14 +191892,16 @@
 "title": "General Manager",
 "email": "adamian@contradata.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "General Manager（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Tiziano Cerato",
 "title": "Sales Engineer",
 "email": "info@contradata.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Sales Engineer（研究档）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -191859,7 +191913,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 contradata.it，语言 ?，快照状态 ok；角色判定来源：待核"
+"other": "官网 contradata.it，语言 ?，快照状态 ok；角色判定来源：待核；第 110 批：Monza 工业 PC / 嵌入式 / 工业以太网分销商（股本 €78k；10–15 人；2024 营收 €3.69M −22.5%）→ **分销 20% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作台系第二价位 + 交期）；有回声再加厚**（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "Contradata Milano S.r.l.（P.IVA / CF 04099800155；REA MI-987346）",
+"founded": "1978（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业计算 / 嵌入式 / 工业网络分销（意大利）"
@@ -192951,11 +193007,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Electronik House（待核）",
-"founded": "",
+"legal_name": "ELECTRONIK HOUSE S.r.l.s.（P.IVA / CF 03568370369；REA MO-399124）",
+"founded": "2014-05-02（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Italy",
 "size": "小型元件网店",
-"other": "已售 Digitus 工业 FS / 中国 MC"
+"other": "已售 Digitus 工业 FS / 中国 MC；第 110 批：摩德纳电子小店（股本 €900；3 人；2024 营收 €216.5k；仅 info@）→ **按「一人网店」规则 不动**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电子元件 / 网络网店"
@@ -194617,14 +194673,16 @@
 "title": "CEO",
 "email": "ejprieto@instantbyte.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "CEO（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Eduardo Valle",
 "title": "Technical Manager",
 "email": "comercial@instantbyte.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Comercial（研究档 Eduardo Valle）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -194635,11 +194693,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Instant Byte S.L.",
-"founded": "",
+"legal_name": "INSTANT BYTE SL（CIF B83680082；RM Madrid）",
+"founded": "2003-07-15（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Spain（马德里，待核）",
 "size": "中小型批发商",
-"other": ""
+"other": "第 110 批：Leganés (Madrid) 无线 / VoIP / CCTV / GPON 增值批发商（36 人；自述年营业额 >€20–22M；1.2 万 SKU）→ **分销 20%，B BIG，加厚一次（换切口：MikroTik / TP-Link 价位带之间的第二 PoE 货源 + 伊比利亚 DAP；STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP）；次候选升 A**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络 / 安防 / VoIP 批发"
@@ -197781,7 +197839,8 @@
 "title": "CEO",
 "email": "mauro.brunazzo@sea-srl.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "CEO（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Sandro Succi",
@@ -197789,6 +197848,12 @@
 "email": "",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Marcello Gariboldi",
+"role": "Responsabile Commerciale Milano（sea-srl.it Sedi）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28）",
+"email": "milano@sea-srl.it",
+"source": "https://www.sea-srl.it/contatti/sedi"
 }
 ],
 "grade_override": null,
@@ -197800,7 +197865,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 sea-srl.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 sea-srl.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 110 批：Gallarate (VA) 安防电子批发分销商（Legnano / Milano / Bologna / Asti 5 网点；TVT / Ajax / Bentel / Bosch / Hochiki）→ **分销 20%，B BIG，加厚一次（换切口：安装商柜台配套 PoE SKU：STC-028GP / STC-228GP / STC-2224GP + 意大利 DAP 小起订）**；营收未取（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "S. & A. S.R.L.（商号 S&A；P.IVA / CF 01887850129；REA VA-214291；股本 €100,000）",
+"founded": "—（未取）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防电子批发（入侵 / 消防 / CCTV / 门禁 / 对讲）"
@@ -198484,7 +198551,8 @@
 "title": "Account & Technical Manager",
 "email": "c.beriachetto@sisav.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP = 收件人（工业线）（第 110 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Ilaria Cianciola",
@@ -198503,7 +198571,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 sisav.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 sisav.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 110 批：Cossato (BI) 工业 / 国防 / 医疗电子硬件分销 + 集成（11–50 人；2024 营收 €4.33M）→ **守界：只做工业自动化线 → 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作数据采集现场网络第二价位）；绝不提国防 / 医疗**（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "SISTEMI AVANZATI ELETTRONICI S.R.L.（商号 SisAv；P.IVA / CF 01925460022；REA BI-174039）",
+"founded": "1998（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业与过程自动化产品（工业 PC / 面板 PC / 现场总线 / 网络）"
@@ -198837,7 +198907,8 @@
 "title": "Founder",
 "email": "d.prieth@solpakutec.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Titolare / Inhaber（impresa individuale；CF PRTDNK95S07I729O）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -198849,7 +198920,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 solpakutec.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"other": "官网 solpakutec.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 110 批：南蒂罗尔 Schlanders 一人工业 PC / 工业通信分销（打开 4 次）→ **分销 20% small，一页纸一次（德语引子；STI-054GP / STI-144GP / STI-154GP 作台系第二价位 + MOQ 1 + 预付款）；再无回声 → 不动**；稿内不点名 ICP DAS（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "SOLPAKUTEC INDUSTRY DP（Dominik Prieth 个体户；P.IVA 03085880213；REA BZ-230913）",
+"founded": "—（≈2019；未取）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业定制软硬件方案"
@@ -199501,14 +199574,22 @@
 "title": "Project Manager",
 "email": "info@teslanetworks.be",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP Ashwin Taeye（info@）（第 110 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Bart Pen",
 "title": "CEO",
 "email": "bart@teslanetworks.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "CEO（LinkedIn）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Joris Laeremans",
+"role": "Sales & Marketing Manager（LinkedIn）（第 110 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://be.linkedin.com/company/tesla-networks"
 }
 ],
 "grade_override": null,
@@ -199520,7 +199601,9 @@
 },
 "company_facts": {
 "hq": "比利时",
-"other": "官网 teslanetworks.be，语言 nl，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 teslanetworks.be，语言 nl，快照状态 ok；角色判定来源：官网文案；第 110 批：Heist-op-den-Berg 无线 + 工业网络集成 / 咨询商（1–5 人；公交 / 有轨电车车载 ITxPT / 5G 项目为主 = 台系品牌渠道）→ **守界：绝不提轨交 / 车载；只做能源 / 工业 / 智慧城市固定场景 → 集成 25% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM + MOQ 1；荷语引子）；再无回声 → 不动**；稿内不点名 ORing（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "Tesla Networks BV（原 BVBA；BE 0830.294.165；RPR Antwerpen afd. Mechelen）",
+"founded": "2010-10-06（业务 1999）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "天线 / 工业网络设备分销（比利时）"
@@ -201288,11 +201371,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "（待核）",
-"founded": "",
+"legal_name": "（未坐实）Gorgos Cristian — Gmail 个人联系人，1 次检索查无摩尔多瓦法人",
+"founded": "—（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Chișinău, Ion Creangă 66, Moldova",
 "size": "小型安装商",
-"other": "阿里国际站老客户（2013）"
+"other": "阿里国际站老客户（2013）；第 110 批：同姓 Gorgos Dorin / Gorgos Simion 的无关 SRL ≠ 目标 → **不动（不进发送包；主动询盘全额预付）**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防 / CCTV 安装"
@@ -249625,11 +249708,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "ALIDEX S.r.l.",
-"founded": "",
+"legal_name": "ALIDEX NETWORKS S.R.L.（商号 ALIDEX Italia / Alidex Iberia；P.IVA / CF 10924650962；研究档「ALIDEX S.r.l.」更正）",
+"founded": "≈2019（「6 anni」）（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Italy",
 "size": "中小型工业网络分销（意 + 西）",
-"other": "同一公司：SB-832 alidex.es"
+"other": "同一公司：SB-832 alidex.es；第 110 批：Codogno (LO) 南欧工业网络分销商（ORing 等；近 8,000 货号；**1 名雇员、股本 €2,000、营收 €388k**；意 + 西两地 = alidex.es → SB-832 并线于此）→ **分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 第二价位 + MOQ 1）**；稿内不点名 ORing；收件人 info@alidex.it（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业网络 / IoT / OT 安全分销"
@@ -255151,7 +255234,14 @@
 "title": "Industrial IoT Solutions Specialist",
 "email": "nicolas@s-connect.es",
 "phone": "+34 910 421 886",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Inside Sales / Industrial IoT Solutions Specialist（LinkedIn / blog）= 收件人（第 110 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Pablo Kessler de la Maza",
+"role": "Sales and Technical Support Industrial IoT Solutions（LinkedIn）（第 110 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.linkedin.com/company/s-connect-s.l./"
 }
 ],
 "grade_override": null,
@@ -255162,11 +255252,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "S-Connect（待核）",
-"founded": "",
+"legal_name": "S CONNECT S.L.（S-Connect；S.L.U.；CIF B64872484；RM Barcelona；SPHINX Computer Vertriebs GmbH 全资子公司）",
+"founded": "2008-05-07（办事处 2003）（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Madrid, Spain",
 "size": "中小型工业 IoT 分销",
-"other": "工业交换机目录深"
+"other": "工业交换机目录深；第 110 批：巴塞罗那 + 马德里 工业通信 / 工业 IoT 增值分销（德国 SPHINX 集团 7 国；Moxa 等；2–10 人；本地库存）→ **分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 第二价位 + 短交期；西语引子）；有回声再加厚**；旁线索 SPHINX Computer Vertriebs GmbH（法兰克福）→ DE 池另立户；稿内不点名 Moxa（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业网络 / IoT 分销（Moxa、Advantech）"
@@ -255871,7 +255961,14 @@
 "title": "（职务待核）",
 "email": "peter@steplockaccess.se",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（姓未取）= 收件人（第 110 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Fredrik Skoog",
+"role": "VD（extern；allabolag / hitta：Carl Fredrik Valter Skoog）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.allabolag.se/foretag/steplock-access-ab/falun/elektronik-och-telekommunikationsutrustning/2KGRTI0I63IFR"
 }
 ],
 "grade_override": null,
@@ -255883,7 +255980,9 @@
 },
 "company_facts": {
 "hq": "瑞典",
-"other": "官网 steplockaccess.se，语言 en，快照状态 ok；角色判定来源：待核"
+"other": "官网 steplockaccess.se，语言 en，快照状态 ok；角色判定来源：待核；第 110 批：Falun 门禁 / 通行系统自有品牌商（5 人；FY2025-06 营业额 SEK 18.2M ≈ €1.6M，+469% 自 2021；EBIT −SEK 7.2M 投入期；集团 6 公司 84 人 SEK 448M）→ **贴标 / 配套 30% small，一页纸一次（STC-028GP / STI-054GP / STI-144GP 作门禁控制器 PoE 配套，可贴 StepLock 标）；有回声再加厚**；瑞典语引子（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "Steplock access AB（org.nr 559105-9992；VAT SE559105999201；Steab Förvaltning AB 集团）",
+"founded": "2017-03-23（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "门禁 / 锁具系统（瑞典）"
@@ -256195,14 +256294,16 @@
 "title": "Purchase and Logistics",
 "email": "info@tpole.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP Lorenzo Bruno（info@）（第 110 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Pietro Milani",
 "title": "CEO & Founder",
 "email": "pietro.milani@tpole.it",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Fondatore / CEO（affaritaliani 2025-11；rocketreach）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -256214,7 +256315,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 tpole.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 tpole.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 110 批：Portalbera (PV) 工业 / 嵌入式 PC 增值分销商（15 人；2025 营收 €8.76M、净利 €665k；前身 2022 €9.47M；工业交换机台系）→ **分销 20%，B BIG，加厚一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 第二价位 + 3 年保；只提自动机械 / 工业，不提轨交 / 医疗）；次候选升 A**；稿内不点名 Volktek（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "TPOLE S.R.L.（现行 P.IVA / CF 02978370183，REA PV-330560，2025-01-10 登记，股本 €50,000；前身同名 P.IVA 02545250967 / REA 218088，2005-05-02）",
+"founded": "2025-01-10（前身 2005-05-02；业务 1995）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业 PC / 嵌入式 / HMI / 工业网络分销"
@@ -256967,14 +257070,14 @@
 "kp": [
 {
 "name": "Jeannie Rozowykwiat (Levy)",
-"role": "Présidente（2024-10 起；登记公开）",
+"role": "原 Présidente（2024-10 → 2025-12；pappers：2025-12-04 起 Président 为 Jean-Edmond）；收件人 commercial@exxell.fr（第 110 批 官方登记核实 2026-10-28）",
 "email": "commercial@exxell.fr（公司公开）",
 "phone": "+33 1 83 83 50 00",
 "source": "https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479"
 },
 {
 "name": "Jean-Edmond Rozowykwiat",
-"role": "Président / 原 Gérant（2008–2025；登记公开）",
+"role": "Président（2025-12-04 起；pappers / societe.com）= 拍板人（第 110 批 官方登记核实 2026-10-28）",
 "email": "—（未公开）",
 "phone": "+33 1 83 83 50 00",
 "source": "https://www.societe.com/societe/exxell-vision-493179089.html"
@@ -256988,11 +257091,11 @@
 "level": "B 级加厚 v1（官网 + 登记核对）"
 },
 "company_facts": {
-"legal_name": "EXXELL VISION（SAS，原 SARL；RCS Nanterre 493 179 089；资本 €15,000）",
-"founded": "2006-11-20",
+"legal_name": "E.V. EXXELL VISION SAS（商号 EXXELL VISION；SIREN 493 179 089；RCS Nanterre；TVA FR62493179089；原 SARL，SAS 公告 2025-01-06）",
+"founded": "2006-11-20（登记 2008-10-08）（第 110 批 官方登记核实 2026-10-28）",
 "hq": "204 Allée du Forum, 92100 Boulogne-Billancourt, France（01 83 83 50 00；hotline@exxell.fr / commercial@exxell.fr）",
 "size": "10–19（manageo）/ 11–50（LinkedIn）",
-"other": "业务：视频监控、报警（入侵+火灾）、门禁、网络、电气；中大型视频系统集成见长；2010 年起集成收银系统；2019 迁至 92"
+"other": "业务：视频监控、报警（入侵+火灾）、门禁、网络、电气；中大型视频系统集成见长；2010 年起集成收银系统；2019 迁至 92；第 110 批：Boulogne-Billancourt 安防设备进口 / 分销 / 安装外包商（资本 €15k；6–9 人；最后公开营收 €727k 2011）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP 配监控套件 + MOQ 1；法语引子）；再无回声 → 不动**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频监控集成（中大型系统）",
@@ -259302,14 +259405,22 @@
 "title": "（职务待核）",
 "email": "michal.chvala@triton.eu",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP = 收件人（第 110 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Stanislav Lupták",
 "title": "（职务待核）",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Konateľ / 所有人（foaf.sk / orsr.sk；Ing.）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Boris Lupták",
+"role": "Konateľ / 所有人（foaf.sk；Mgr.）（第 110 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://foaf.sk/firmy/436789"
 }
 ],
 "grade_override": null,
@@ -259321,7 +259432,9 @@
 },
 "company_facts": {
 "hq": "斯洛伐克",
-"other": "官网 tritonsystems.eu，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 tritonsystems.eu，语言 ?，快照状态 ok；角色判定来源：官网文案；第 110 批：布拉迪斯拉发 停车 / 票务 / 门禁系统制造商 + 运营商（自有品牌 ParkIS / Arena；「斯洛伐克最大停车系统制造商之一」；Lupták 家族）→ **贴标 / 配套 30% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP 作停车终端 + 车牌相机户外机柜 PoE 配套，可贴 ParkIS 标 + 3 年保）；有回声再加厚**；斯洛伐克语引子（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "Tritonsystems spol. s r.o.（IČO 48060658；DIČ 2120052044；IČ DPH SK2120052044；OR OS Bratislava I Sro 102834/B；关联老公司 T R I T O N spol. s r.o. IČO 31323642 同址）",
+"founded": "2015-03-10（集团 1992）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "智能停车与缴费系统（ParkIS）"
@@ -268528,7 +268641,8 @@
 "title": "（采购）",
 "email": "procurement@novytel.cz",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（procurement@）— 公司为中国货源采购代理 / 转口商（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -268540,7 +268654,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 novytel.cz，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+"other": "官网 novytel.cz，语言 en-GB，快照状态 ok；角色判定来源：用户表；第 110 批：布拉格 2 亚洲 / 中国货源采购代理与进出口商（主营农机；2024 出口 ≈US$770k，1,004 票主要发乌克兰）→ **采购代理 → 不动（询价只做预付款、不给渠道价）**（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "Novy Telecom s.r.o.（IČO 28481968）",
+"founded": "2008-10-30（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "进出口贸易服务（捷克）"
@@ -273022,7 +273138,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 itegra.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 itegra.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 110 批：考纳斯微型电气 / 安防 / 监控安装合伙（rekvizitai 目录条目；无 KP；研究档国别「意大利」有误，entities iso LT 正确，不改）→ **不动**（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "Itegra, MB（mažoji bendrija；Partizanų g. 21B-11, LT-49478 Kaunas；įmonės kodas 未取）",
+"founded": "—（未取）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防 / 视频监控 / 消防 / 智能家居安装（立陶宛）"
@@ -276281,7 +276399,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 raskpreke.lt，语言 lt-LT，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 raskpreke.lt，语言 lt-LT，快照状态 ok；角色判定来源：官网文案；第 110 批：维尔纽斯 Panerių g. 64 微型安防网店（无 KP；研究档国别「意大利」有误，entities iso LT 正确，不改）→ **按「一人网店」规则 不动**（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "Rass-security systems（raskpreke.lt 网店；įmonės kodas 305706724；PVM LT100013849613；法人形式未取）",
+"founded": "≈2021（代码段推定）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防系统 / 电工产品网店"
@@ -310145,7 +310265,8 @@
 "title": "（表内：Lola Medina；以邮箱为准待核）",
 "email": "lola.lucena@integra-nes.es",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP = 收件人（工业线）（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -310157,7 +310278,9 @@
 },
 "company_facts": {
 "hq": "西班牙",
-"other": "官网 integranetwork.es，语言 es，快照状态 ok；角色判定来源：用户表"
+"other": "官网 integranetwork.es，语言 es，快照状态 ok；角色判定来源：用户表；第 110 批：Rivas-Vaciamadrid 工业计算 / 嵌入式 / 工业网络方案商（工业 / 轨交 / 交通 / 电信 / AV / 国防）→ **守界：只做工业 / 能源 / 交通固定机柜线 → 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 第二价位；西语引子）**；不提 IEC 61850 / EN 50155；稿内不点名 Lantech（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "INTEGRA NETWORK AND EMBEDDED SYSTEMS SL（S.L.U.；商号 Integra Network；CIF B84961267；RM Madrid hoja 425407）",
+"founded": "2007-01-22（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业计算与网络方案（分销 / 设计 / 制造）",
@@ -310854,7 +310977,8 @@
 "title": "（表内联系人）",
 "email": "info@matrix.es",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP Daniel Cortes（info@）= 收件人（第 110 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Jose Miguel",
@@ -310873,7 +310997,9 @@
 },
 "company_facts": {
 "hq": "西班牙",
-"other": "官网 matrix.es，语言 es-ES，快照状态 ok；角色判定来源：用户表"
+"other": "官网 matrix.es，语言 es-ES，快照状态 ok；角色判定来源：用户表；第 110 批：马德里 工业电子 / IoT 元器件与模块分销商（60 人；销售额 €6–30M 区间；Madrid / Barcelona / Durango / Valencia / Sevilla + Lisboa / 法国 / 印度 办事处）→ **分销 20%，B BIG，加厚一次（换切口：面向其集成商 / 制造商客户的工业 PoE 配套 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + Webdyn 网关项目；西语引子）；次候选升 A**（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "MATRIX ELECTRONICA SL（S.L.U.；CIF B79611794；RM Madrid；Administrador único / 所有人 FLEXITRON SL = Flexitron Group；自有 IoT 品牌 Webdyn）",
+"founded": "1990-10-18（活动 1991）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IoT 方案 / 电子模块与设备供应",
@@ -316462,14 +316588,22 @@
 "title": "Owner",
 "email": "jordi@iptecno.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Administrador（BORME-C-2021-3504：Jordi Bassa Jansana）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Joan Balaguer",
 "title": "Projects & Solutions Director",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（职务未取）（第 110 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Joan Ojeda Flores",
+"role": "Administrador solidario（BORME 2021）（第 110 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.boe.es/diario_borme/txt.php?id=BORME-C-2021-3504"
 }
 ],
 "grade_override": null,
@@ -316481,7 +316615,9 @@
 },
 "company_facts": {
 "hq": "西班牙",
-"other": "官网 ibdglobal.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述"
+"other": "官网 ibdglobal.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述；第 110 批：Montornès del Vallès 伊比利亚安防分销集团（100+ 人；西 / 葡多地物流基地；IndigoVision / IntelexVision）→ **分销 20%，B BIG，加厚一次（换切口：项目型安防分销的工程配套 PoE：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP；西 / 葡两国 DAP）；回信即 A 候选**；稿内不点名 IndigoVision（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "SMART TECH IBD GLOBAL SOLUTIONS S.L.U.（原名 IPTECNO VIDEOVIGILANCIA SL；商号 IBD Global / IPTecno；CIF B63904445；RM Barcelona）",
+"founded": "—（2020-04 BC Diid + IPTecno 合并；2021-05 吸收合并）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "专业安防分销（视频监控 / 入侵 / 门禁 / 消防）"
@@ -319424,7 +319560,8 @@
 "title": "Product & Technical Manager",
 "email": "rjorge@visus.pt",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP = 收件人（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -319436,7 +319573,9 @@
 },
 "company_facts": {
 "hq": "葡萄牙",
-"other": "官网 visus.pt，语言 en-gb，快照状态 ok；角色判定来源：用户表"
+"other": "官网 visus.pt，语言 en-gb，快照状态 ok；角色判定来源：用户表；第 110 批：里斯本 CCTV-IP / 网络 / 电信设备进口分销商（只走经销伙伴网络；Vivotek / DrayTek）→ **分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP / STC-2224GP 配 IP 摄像机套件 + 葡语引子 + 葡萄牙 DAP）；有回声再加厚**；稿内不点名 Vivotek / DrayTek（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "OPTIVISUS, LDA（商号 Visus；原名 CENTRO DE OPTOMETRIA OPTIVISUS, LDA；NIPC 502 752 980）",
+"founded": "1991-01（业务 1989）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电信 / 视频监控分销（葡萄牙）"
@@ -334139,7 +334278,14 @@
 "title": "（表内联系人）",
 "email": "thomas.thoma@art2soft.eu",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director / Managing Director（cyprusregistry：ΘΩΜΑΣ ΘΩΜΑ；rocketreach）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Janet Bergeman Thomas",
+"role": "Director / Secretary（cyprusregistry）（第 110 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://cyprusregistry.com/companies/HE/147954"
 }
 ],
 "grade_override": null,
@@ -334151,7 +334297,9 @@
 },
 "company_facts": {
 "hq": "塞浦路斯",
-"other": "官网 art2soft.eu，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"other": "官网 art2soft.eu，语言 en-US，快照状态 ok；角色判定来源：用户表；第 110 批：尼科西亚 Lakatameia 网络 / 无线 / VoIP 分销商（Ubiquiti / MikroTik / Ruijie / TP-Link Business / Yeastar 官方分销；500+ 经销商；登记状态 Reminder letter sent，年报 2020 后待补）→ **分销 20% small，一页纸一次（换切口：MikroTik / TP-Link 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP + 塞浦路斯 DAP）；有回声再加厚**；希腊语引子（第 110 批 官方登记核实 2026-10-28）",
+"legal_name": "A.K. ART 2 SOFT LIMITED（商号 ART2SOFT / cy-wireless.com；HE 147954）",
+"founded": "2004-04-30（业务 2006）（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "无线网络产品分销"
@@ -400013,11 +400161,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "ALIDEX S.r.l.（西班牙分支）",
-"founded": "",
+"legal_name": "Alidex Iberia（alidex.es）= SB-417 ALIDEX NETWORKS S.R.L.（P.IVA 10924650962）的西班牙站；无独立西班牙法人（研究档 garmasl.com = Garma Electrónica, S.L. B20178372 无关）",
+"founded": "—（见 SB-417）（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Spain（分支）",
 "size": "分支",
-"other": "主档案 SB-417"
+"other": "主档案 SB-417；第 110 批：**并线 SB-417，不另发**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业网络分销（西班牙）"
@@ -444477,7 +444625,8 @@
 "title": "（表内联系人）",
 "email": "giorgi@line-net.ge",
 "phone": "+995 555 999 562",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "研究档 KP；WhatsApp 20 次未回（第 110 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -444488,11 +444637,11 @@
 "level": "B 级加厚 v1（快照空页 + 表内）"
 },
 "company_facts": {
-"legal_name": "LineNet（待核）",
-"founded": "",
+"legal_name": "Linenet LLC（შპს；识别码 / VAT 404486757；NAPR）",
+"founded": "2015-02-05（第 110 批 官方登记核实 2026-10-28）",
 "hq": "Georgia",
 "size": "小型",
-"other": "展会接触"
+"other": "展会接触；第 110 批：第比利斯 网络 / 安防 / 消防系统设计与安装商（bia.ge）→ **已触达、20 次 0 回复 → 不动（B 保留；主动询盘预付款）**（第 110 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络设备 / 工程（推断）"

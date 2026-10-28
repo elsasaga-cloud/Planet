@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 37299107；J15/334/2017；VOINEȘTI Str. ALDESCU Nr. 624 DÂMBOVIȚA；cifra de afaceri 333,896 RON 2024；profit 174,404 RON；1 angajat）+ risco.ro（March 29 2017；Main CAEN 4321；NACE 2025 4690；Sales 2025 100.816 euro；net profit 30.659；1 employee）+ sicap.ai（DA37570300 camere video, switch, cabluri），2026-10-28 查；https://www.risco.ro/en/verifica-firma/bonmag-international-cui-37299107）：**
+
+- 法定名 / 登记号：BONMAG INTERNATIONAL S.R.L.（品牌 OmniSecurity；omnisecurity.ro；登博维察 Dâmbovița Voinești Str. Aldescu nr. 624；CUI 37299107；J15/334/2017）— 2017-03-29 成立的一人安防 / 自动化安装商（IP 监控、门禁考勤、道闸、对讲、弱电；SICAP 小额公共采购）；CAEN 4321（年报 4690）；1 名雇员；2025 销售 €100.8k、净利 €30.7k；KP Bogdan（bogdan@） · CUI 37299107；J15/334/2017 · 状态 **Activă** · 成立 2017-03-29 · SRL（一人）
+- 行业码 / 经营范围：安防 / 自动化 安装（一人；CAEN 4321 / 4690）
+- 注册地址：Str. Aldescu nr. 624, Voinești (Dâmbovița)
+- 规模档：小微（1 人）
+- 账目：2025 销售 €100,816；净利 €30,659；—
+- 高管：Bogdan（姓未公开）— 研究档 KP（bogdan@omnisecurity.ro）= 业主（推定）/ 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **一人安装商（打开 5 次；年销 €10 万）→ 集成 25% small，一页纸一次（STC-028GP / STC-228GP 一口价 + MOQ 1 + 预付款）；再无回声 → 不动**
+  - 收件人 Bogdan 直呼；发信窗口 Thu 12–14 EET；罗语一句引子
+- 备注：集成 25% small；一页纸一次；坐实（CUI + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,18 +134,18 @@ updated: 2026-10-28
 - **【用户表】A 优质名单（其他欧洲）；2 次实质回复 + WhatsApp；21 次跟进**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Bogdan（姓未公开）（联系人（用户表））bogdan@omnisecurity.ro +40 723 64 94 49（公司公开号）〔用户表 + https://www.omnisecurity.ro/〕
+- **KP**：Bogdan（姓未公开）（业主（推定；1 人公司）= 收件人（第 110 批 官方登记核实 2026-10-28））bogdan@omnisecurity.ro +40 723 64 94 49（公司公开号）〔用户表 + https://www.omnisecurity.ro/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 注册核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | BONMAG INTERNATIONAL SRL |
-| 成立 | 2017 |
+| 法定名称 | BONMAG INTERNATIONAL S.R.L.（品牌 OmniSecurity；CUI 37299107；J15/334/2017） |
+| 成立 | 2017-03-29（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Voinești, Dâmbovița, România |
 | 注册/税号 | CUI 37299107 · J15/334/2017（EUID ROONRC.J15/334/2017） |
-| 其他 | 2024 年 Voinești 镇 CAEN 4690（非专业批发）利润榜第一（小镇口径）；官网自述团队有安防系统与技术背景，供应商培训/技术支持渠道完整 |
+| 其他 | 2024 年 Voinești 镇 CAEN 4690（非专业批发）利润榜第一（小镇口径）；官网自述团队有安防系统与技术背景，供应商培训/技术支持渠道完整；第 110 批：Dâmbovița Voinești 一人安防 / 自动化安装商（2025 销售 €100.8k；SICAP 小额公采）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP 一口价 + MOQ 1 + 预付款；罗语引子）；再无回声 → 不动**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IP 视频监控安装（Full HD / 3K / 4K / 5K）；门禁考勤、道闸与门自动化、对讲；电气（中低压）与通信/弱电安装
 - **触达通道（公开）**：网站: https://www.omnisecurity.ro/；电话: +40 723 64 94 49（官网公开）；邮箱（公开）: contact@omnisecurity.ro
@@ -220,7 +234,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Bogdan（姓未公开） | 联系人（用户表） | bogdan@omnisecurity.ro / +40 723 64 94 49（公司公开号） | 调研核实（公开页） | 用户表 + https://www.omnisecurity.ro/ |
+| Bogdan（姓未公开） | 业主（推定；1 人公司）= 收件人（第 110 批 官方登记核实 2026-10-28） | bogdan@omnisecurity.ro / +40 723 64 94 49（公司公开号） | 调研核实（公开页） | 用户表 + https://www.omnisecurity.ro/ |
 | Bogdan Marinescu | — | bogdan@omnisecurity.ro / +40723649449 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

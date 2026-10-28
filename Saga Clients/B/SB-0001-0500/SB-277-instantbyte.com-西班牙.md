@@ -85,6 +85,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（ES · 1 次检索：einforma（INSTANT BYTE SL；CIF B83680082；fundada 15/07/2003；CALLE JULIO PALACIOS 10 NAV 2 28914 LEGANES；objeto fabricación importación exportación y venta de productos informáticos y de telecomunicaciones）+ empresite（36 trabajadores 2024）+ iberinform（CNAE 4650；www.instantbyte.com）+ infojobs（35 empleados；superamos los 20 millones de euros de facturación anual）+ aslan.es 2026-10（facturación superior a los 22 millones）+ instantbyte.com 页脚（C/ Julio Palacios 10 naves 1-4 28914 Leganés；CIF B83680082），2026-10-28 查；https://www.einforma.com/informacion-empresa/instant-byte）：**
+
+- 法定名 / 登记号：INSTANT BYTE SL（instantbyte.com；马德里 Leganés C/ Julio Palacios 10, Naves 1–4, Pol. Ind., 28914；CIF B83680082；RM Madrid）— 2003-07-15 成立的西班牙 / 葡萄牙无线 / VoIP / 视频监控 / GPON 增值批发商（Ubiquiti / MikroTik / TP-Link / Grandstream / Yealink / Cambium / Huawei 等；「超过 1.2 万 SKU」）；36 名雇员（2024）；自述年营业额 >€20–22M（infojobs / ASLAN 2026）；KP Juan Prieto（CEO）、Eduardo Valle（comercial@）；表内 4 次群发无回复 · CIF B83680082 · 状态 **Activa** · 成立 2003-07-15 · S.L.（私有）
+- 行业码 / 经营范围：无线 / VoIP / CCTV / GPON 增值批发（CNAE 4650 / 4652）
+- 注册地址：C/ Julio Palacios 10, Naves 1–4, Pol. Ind., 28914 Leganés (Madrid)
+- 规模档：中型（36 人；>€20M）
+- 账目：自述年营业额 >€20–22M；36 人；—
+- 高管：Juan Prieto — CEO（研究档 KP ejprieto@）= 拍板人 / 收件人
+- 高管：Eduardo Valle — Comercial（研究档 KP comercial@）= 收件人（抄）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **€20M+、36 人的马德里网络批发商（4 次无回）→ 分销 20%，B BIG，加厚一次（换切口：MikroTik / TP-Link 价位带之间的「第二 PoE 货源」+ 西语引子 + 伊比利亚 DAP 小起订）**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP 一页纸；次候选升 A
+  - 收件人 Juan 直呼、抄 Eduardo；发信窗口 Thu 12–14 CET
+- 备注：分销 20%；B BIG；加厚一次（换切口）；坐实（CIF + 人数）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,16 +126,18 @@ updated: 2026-10-28
 - **【用户表】安防为主；有中科的；销售平台**
   > 兴趣：安防为主 有中科的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Juan Prieto（）ejprieto@instantbyte.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Eduardo Valle（）comercial@instantbyte.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Juan Prieto（CEO（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））ejprieto@instantbyte.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Eduardo Valle（Comercial（研究档 Eduardo Valle）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28））comercial@instantbyte.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Instant Byte S.L. |
+| 法定名称 | INSTANT BYTE SL（CIF B83680082；RM Madrid） |
+| 成立 | 2003-07-15（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Spain（马德里，待核） |
+| 其他 | 第 110 批：Leganés (Madrid) 无线 / VoIP / CCTV / GPON 增值批发商（36 人；自述年营业额 >€20–22M；1.2 万 SKU）→ **分销 20%，B BIG，加厚一次（换切口：MikroTik / TP-Link 价位带之间的第二 PoE 货源 + 伊比利亚 DAP；STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP）；次候选升 A**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / 安防 / VoIP 批发
 - **触达通道（公开）**：role: 批发分销商；region: 西班牙
@@ -216,8 +233,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Juan Prieto | — | ejprieto@instantbyte.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Eduardo Valle | — | comercial@instantbyte.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Juan Prieto | CEO（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | ejprieto@instantbyte.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Eduardo Valle | Comercial（研究档 Eduardo Valle）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28） | comercial@instantbyte.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 

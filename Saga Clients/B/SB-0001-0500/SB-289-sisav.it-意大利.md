@@ -84,6 +84,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（IT · 1 次检索：ufficiocamerale（SISTEMI AVANZATI ELETTRONICI SRL；P.IVA 01925460022；VIA GUGLIELMO MARCONI 11/D 13836 COSSATO；Rea 174039；Fatturato € 4.329.902 2024）+ sisav.it/azienda（Sistemi Avanzati Elettronici S.r.l.；REA BI 174039；industria / difesa / sanità）+ biopmed（since 1998；process automation；defence sector；2016 SisAv Medicale）+ LinkedIn（11–50；1998），2026-10-28 查；https://www.ufficiocamerale.it/4975/sistemi-avanzati-elettronici-srl）：**
+
+- 法定名 / 登记号：SISTEMI AVANZATI ELETTRONICI S.R.L.（商号 SisAv；sisav.it；比耶拉 Cossato Via Guglielmo Marconi 11/D, 13836 (BI)；P.IVA / CF 01925460022；REA BI-174039）— 1998 年成立的工业 / 国防 / 医疗专业电子硬件分销与系统集成商（工业 PC、数据采集、数据记录仪；2016 起 SisAv Medicale 事业部）；11–50 人；2024 营收 €4.33M；KP Chiara Beriachetto、Ilaria Cianciola；表内 4 次跟进无回复 · P.IVA / CF 01925460022；REA BI-174039 · 状态 **Active** · 成立 1998 · S.r.l.（私有）
+- 行业码 / 经营范围：工业 / 国防 / 医疗 电子硬件分销 + 集成
+- 注册地址：Via Guglielmo Marconi 11/D, 13836 Cossato (BI)
+- 规模档：小型（11–50 人）
+- 账目：2024 营收 €4,329,902；—
+- 高管：Chiara Beriachetto — 研究档 KP（c.beriachetto@）= 收件人
+- 高管：Ilaria Cianciola — 研究档 KP
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **€4.3M 工业 / 国防 / 医疗电子分销商 → 守界：只做工业自动化线（绝不提国防 / 医疗认证）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作数据采集现场网络的第二价位）；有回声再加厚**
+  - 收件人 Chiara 直呼；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20% small；一页纸一次（仅工业线）；坐实（P.IVA + REA + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,7 +141,7 @@ updated: 2026-10-28
 - **【用户表】switch / MC**
   > switch MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Chiara Beriachetto（）c.beriachetto@sisav.it 〔用户表〕
+- **KP**：Chiara Beriachetto（研究档 KP = 收件人（工业线）（第 110 批 官方登记核实 2026-10-28））c.beriachetto@sisav.it 〔用户表〕
 - **KP**：Ilaria Cianciola（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -134,8 +149,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SISTEMI AVANZATI ELETTRONICI S.R.L.（商号 SisAv；P.IVA / CF 01925460022；REA BI-174039） |
+| 成立 | 1998（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 sisav.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 sisav.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 110 批：Cossato (BI) 工业 / 国防 / 医疗电子硬件分销 + 集成（11–50 人；2024 营收 €4.33M）→ **守界：只做工业自动化线 → 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作数据采集现场网络第二价位）；绝不提国防 / 医疗**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业与过程自动化产品（工业 PC / 面板 PC / 现场总线 / 网络）
 - **触达通道（公开）**：role: 工业自动化产品分销商（意大利）；region: 意大利；contact: info@sisav.it、c.beriachetto@sisav.it
@@ -234,7 +251,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Chiara Beriachetto | — | c.beriachetto@sisav.it | 调研核实（公开页） | 用户表 |
+| Chiara Beriachetto | 研究档 KP = 收件人（工业线）（第 110 批 官方登记核实 2026-10-28） | c.beriachetto@sisav.it | 调研核实（公开页） | 用户表 |
 | Ilaria Cianciola | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发

@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（RO · 1 次检索：targetare.ro（TEHNO ELECTRIC SRL；CUI 16179086；J2004000330051；înființare 25 februarie 2004；website tehnoelectric.ro）+ risco.ro（Main CAEN 4650；NACE 2025 4651；February 25 2004）+ emis（ORADEA；incorporated February 25 2004；11 employees 2025；2024 net sales −8.74 %）+ tehnoelectric.ro/contact（Str. Louis Pasteur nr.63 Oradea 410154；office@tehnoelectric.ro；Importator direct）；同名 TEHNOELECTRIC SRL 16855137 CAEN 4321 ≠，2026-10-28 查；https://www.risco.ro/en/verifica-firma/tehno-electric-cui-16179086）：**
+
+- 法定名 / 登记号：TEHNO ELECTRIC SRL（tehnoelectric.ro；奥拉迪亚 Oradea Str. Louis Pasteur nr. 63, 410154 (Bihor)；CUI RO16179086；J05/330/2004（EUID ROONRC.J2004000330051））— 2004-02-25 成立的电子元器件 / 电气 / 配件 / 自动化直接进口商兼网店（PoE 注入器等「比较杂」）；CAEN 4650（年报 4651）；11 人（2025）；2024 净销售额 −8.7%；**≠ 同名 TEHNOELECTRIC SRL（CUI 16855137，电气安装）**；表内未跟进 · CUI RO16179086；J05/330/2004 · 状态 **Activă** · 成立 2004-02-25 · SRL（私有）
+- 行业码 / 经营范围：电子元器件 / 电气 / 自动化 直接进口 + 网店（CAEN 4650 / 4651）
+- 注册地址：Str. Louis Pasteur nr. 63, 410154 Oradea (Bihor)
+- 规模档：小型（11 人）
+- 账目：—（11 人；2024 下滑）；—
+- 高管：（未具名）— administrator（未取）；收件人 office@tehnoelectric.ro
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **11 人元器件直接进口网店（PoE 注入器杂牌）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP 一口价 + MOQ 1；罗语引子）；有回声再加厚**
+  - 表内未跟进 → 首触 office@；发信窗口 Thu 12–14 EET
+- 备注：分销 20% small；一页纸一次；坐实（CUI + J）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,8 +121,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | TEHNO ELECTRIC SRL（CUI RO16179086；J05/330/2004）≠ 同名 TEHNOELECTRIC SRL 16855137 |
+| 成立 | 2004-02-25（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 罗马尼亚 |
-| 其他 | 官网 tehnoelectric.ro，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 tehnoelectric.ro，语言 ?，快照状态 http_error；角色判定来源：待核；第 110 批：Oradea 电子元器件 / 电气 / 自动化直接进口网店（11 人；2024 下滑）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP 一口价 + MOQ 1；罗语引子）**；收件人 office@（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：综合电子网店 / 销售平台（罗马尼亚）
 - **触达通道（公开）**：role: 综合电子网店（罗马尼亚，平台型）；region: 罗马尼亚；contact: office@tehnoelectric.ro

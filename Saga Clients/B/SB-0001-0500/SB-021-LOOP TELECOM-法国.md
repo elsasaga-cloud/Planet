@@ -85,6 +85,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 110 批（TW · 1 次检索（规则：同行制造商 1 查即停）：twincn（星通資訊股份有限公司；統一編號 22099863；上市 3025；代表人 葉茂林；新竹科學園區新安路8號7樓；原始登記 19920421）+ info.technews（核准設立 1991-12-03；資本總額 1,280,000,000；實收 567,364,400；www.looptelecom.com）+ 2023 Annual Report（Chairman / President Yeh Maw-Lin；Establishment December 3 1991；6F No.8 Xin’an Road）+ LinkedIn Loop Telecom International（Eric PIAGET eric-piaget@looptelecom.com；Henri Hovine）+ Eric Piaget LinkedIn（CEO EPA-Technologies SAS；Consultant chez Loop Telecom；Vaucresson），2026-10-28 查；https://twincn.com/item.aspx?no=22099863）：**
+
+- 法定名 / 登记号：星通資訊股份有限公司 Loop Telecommunication International, Inc.（looptelecom.com；台湾新竹科学园区新安路 8 号 6–7 楼 300092；統一編號 22099863；TWSE 3025「星通」，2001-02-01 上市）— 1991-12-03 成立的电信 / 工业以太网设备**制造商**（SDH / PDH / 工业交换机 / 路由器；董事长兼总经理葉茂林 Yeh Maw-Lin；资本总额 NT$1.28bn、实收 NT$567M）；研究档 KP Eric Piaget = 法国 Vaucresson 的外部顾问（EPA-Technologies SAS CEO，「Consultant chez Loop Telecom」，WhatsApp +33）→ 表内 FR 实为其欧洲销售顾问所在地；Henri Hovine 亦为欧洲销售代表；表内未跟进 · 統一編號 22099863；TWSE 3025 · 状态 **營業中（上市）** · 成立 1991-12-03 · 股份有限公司（上市）
+- 行业码 / 经营范围：电信 / 工业以太网设备 制造（同行）
+- 注册地址：7F, No. 8, Xin’an Rd., Hsinchu Science Park, Hsinchu 300092, Taiwan
+- 规模档：中型（上市制造商）
+- 账目：实收资本 NT$567M（上市公司年报公开）；—
+- 高管：葉茂林 Yeh Maw-Lin — Chairman / President
+- 高管：Eric Piaget — 外部顾问 / 欧洲销售（研究档 KP；EPA-Technologies SAS，法国）
+- 高管：Henri Hovine — 欧洲销售代表（LinkedIn）
+- 控制人 / 股东：上市公司
+- **这意味着什么：**
+  - **台湾上市的同行交换机制造商（KP 只是其法国销售顾问）→ 同行 → 不动（不进任何发送包；不 country_fix，仅注明）**
+- 备注：坐实（統編 + 上市代码）；同行制造商 → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,16 +128,17 @@ updated: 2026-10-28
 - **【官网】自研工业/铁路交换机线（与 Saga 产品重叠）**
   > Loop-IP6828 Industrial Rack-Mount L2/L3 Managed Gigabit Ethernet PoE/PoE+ Switch … Rugged industrial design for -40~75°C harsh environment operation
   > 来源：https://www.looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/Railway-EN50121-4-Switch-L2-L3/Loop_IP6828__Industrial_Rack_Mount__L2_L3_Managed_Gigabit_Ethernet_PoE_PoE__Switch（抓取 2026-10-21）
-- **KP**：Eric Piaget（V.P. Sales EMEA & India（用户表））eric-piaget@looptelecom.com +33 6 6767 1045〔Clients/A/Taiwan.xlsx〕
+- **KP**：Eric Piaget（外部顾问 / 欧洲销售（LinkedIn：CEO EPA-Technologies SAS，Consultant chez Loop Telecom；法国 Vaucresson）— 公司为台湾上市同行制造商（第 110 批 官方登记核实 2026-10-28））eric-piaget@looptelecom.com +33 6 6767 1045〔Clients/A/Taiwan.xlsx〕
 - **调研后定级**：B（原自动 A）——台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 身份判断））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Loop Telecommunication International, Inc.（Loop Telecom；台湾上市 3025） |
+| 法定名称 | 星通資訊股份有限公司 Loop Telecommunication International, Inc.（統一編號 22099863；TWSE 3025；新竹科学园区新安路 8 号） |
+| 成立 | 1991-12-03（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 台湾新竹；EMEA & India 销售 VP Eric Piaget 驻法国 |
-| 其他 | 自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830） |
+| 其他 | 自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）；第 110 批：台湾上市电信 / 工业以太网设备制造商（董事长兼总经理葉茂林；实收资本 NT$567M；表内 FR 仅为其欧洲顾问所在地，不 country_fix）→ **同行 → 不动（不进任何发送包）**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信接入与传输设备制造（自有品牌 Loop）；工业/铁路以太网交换机（自研，与 Saga 重叠）
 - **触达通道（公开）**：网站: https://www.looptelecom.com/；联系人: Eric Piaget, V.P. Sales EMEA & India（用户表）
@@ -233,7 +249,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Eric Piaget | V.P. Sales EMEA & India（用户表） | eric-piaget@looptelecom.com / +33 6 6767 1045 | 调研核实（公开页） | Clients/A/Taiwan.xlsx |
+| Eric Piaget | 外部顾问 / 欧洲销售（LinkedIn：CEO EPA-Technologies SAS，Consultant chez Loop Telecom；法国 Vaucresson）— 公司为台湾上市同行制造商（第 110 批 官方登记核实 2026-10-28） | eric-piaget@looptelecom.com / +33 6 6767 1045 | 调研核实（公开页） | Clients/A/Taiwan.xlsx |
 | Sandy | — | eric-piaget@looptelecom.com / sandy_tsaih@looptelecom.com / +330667671045 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

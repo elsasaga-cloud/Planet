@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（BE · 1 次确认检索：companyweb（Dourte SRL；BE0684917295；Established 22-11-2017；Small 10,2 FTE 2025；Commercial name Dourte Elektriciteit；Gross margin € 598,414 2025；Profit € 8,499；Employees 10.2 / 8.3 / 7.3 / 6.3）+ trendstop（BE 0684.917.295；Buitenplas 1 Boîte 15 1601 RUISBROEK；16-11-17；Nacebel 43211 Travaux d’installation électrotechnique）+ LinkedIn（Security Systems Services；11–50；Lembeek；Founded 2010；CCTV ACCESS CONTROL FIRE DETECTION），2026-10-28 查；https://www.companyweb.be/en/0684917295/dourte）：**
+
+- 法定名 / 登记号：Dourte SRL / BV（商号 Dourte Elektriciteit；dourte.be；佛兰芒布拉班特 Sint-Pieters-Leeuw (Ruisbroek) Buitenplas 1 bus 15, 1601；BE 0684.917.295）— 2017-11-16 注册（LinkedIn 称 2010 起；原 Lembeek）的电气 + 安防安装商（电气、CCTV、门禁、火灾探测；Nacebel 43211）；10.2 FTE（2025，自 2022 的 6.3 稳步增长）；2025 毛利 €598k、净利 €8.5k（2023–2024 亏损）；创办人 Sébastien Dourte（研究档）；研究档无 KP 邮箱；表内未跟进 · BE 0684.917.295 · 状态 **Actief** · 成立 2017-11-16（业务 2010） · SRL / BV（私有）
+- 行业码 / 经营范围：电气 + 安防 安装（Nacebel 43211）
+- 注册地址：Buitenplas 1 bus 15, 1601 Ruisbroek (Sint-Pieters-Leeuw)
+- 规模档：小型（10 FTE）
+- 账目：2025 毛利 €598,414；净利 €8,499；10.2 FTE；—
+- 高管：Sébastien Dourte — 创办人 / Gérant（研究档；邮箱未取）= 拍板人
+- 高管：收件人 info@dourte.be（推定；待核）
+- 控制人 / 股东：Sébastien Dourte（推定）
+- **这意味着什么：**
+  - **10 人电气 + 安防安装商（增长中）→ 集成 25% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 配 CCTV / 门禁 + MOQ 1；法 / 荷双语一句引子）；再无回声 → 不动**
+  - 收件人 info@（Sébastien 抬头）；发信窗口 Thu 12–14 CET
+- 备注：集成 25% small；一页纸一次；坐实（BE 号 + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,16 +134,17 @@ updated: 2026-10-28
 - **【用户表】展会互动；WhatsApp 已加；6 次跟进 0 回复**
   > 看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Sébastien Dourte（创办人 / Gérant（LinkedIn Dourte；companyweb 10.2 FTE）= 拍板人（收件人 info@dourte.be 待核）（第 110 批 官方登记核实 2026-10-28）） 〔https://www.companyweb.be/en/0684917295/dourte〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Dourte SRL（BE 0684.917.295；商号 Dourte Elektriciteit） |
-| 成立 | 2017-11-22（LinkedIn 称 2010 起业） |
+| 法定名称 | Dourte SRL / BV（商号 Dourte Elektriciteit；BE 0684.917.295） |
+| 成立 | 2017-11-16（业务 2010）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Buitenplas 1 unit 15, 1601 Ruisbroek, Belgium（info@dourte.be） |
-| 其他 | FPS Interior 认可（报警/摄像）；Nacebel 43211 电气安装；2024 年入 Anderlecht 市政采购名单 |
+| 其他 | FPS Interior 认可（报警/摄像）；Nacebel 43211 电气安装；2024 年入 Anderlecht 市政采购名单；第 110 批：Ruisbroek (Sint-Pieters-Leeuw) 电气 + 安防安装商（10.2 FTE 2025；毛利 €598k；净利 €8.5k）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 配 CCTV / 门禁 + MOQ 1；法 / 荷引子）；再无回声 → 不动**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频安防 / 门禁 / 入侵探测集成；火灾探测（守界：主系统不供）；停车管理、对讲、可再生能源
 - **触达通道（公开）**：网站: https://dourte.be/en/；邮箱（公开）: info@dourte.be；LinkedIn: https://be.linkedin.com/company/dourte-sebastien
@@ -206,6 +222,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Sébastien Dourte | 创办人 / Gérant（LinkedIn Dourte；companyweb 10.2 FTE）= 拍板人（收件人 info@dourte.be 待核）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.companyweb.be/en/0684917295/dourte |
 | Lisart Gregory | — | gli@dourte.be / info@dourte.be / +3223313123 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -274,7 +291,7 @@ updated: 2026-10-28
 **主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hi Lisart,
+Hi Sébastien,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $137.5 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
 

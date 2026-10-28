@@ -74,6 +74,22 @@ updated: 2026-10-28
 
 - 法定假日：10-31 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（SE · 1 次检索：allabolag（Steplock access AB；Org.nr 559105-9992；Rissgårdsvägen 8 791 77 Falun；Del av Steab Förvaltning AB；Registreringsdatum 2017-03-23；Antal anställda 5；Omsättning 2025 18 160 tkr；Resultat efter finansnetto −7 497）+ bolagsfakta（Extern VD Fredrik Skoog；styrelseordförande David Stendal）+ ratsit（koncern Steab Förvaltning AB 6 företag 84 anställda 448,0 MSEK）+ hitta（VD Carl Fredrik Valter Skoog；Moms SE559105999201；EBIT −7 235 tkr 2025-06），2026-10-28 查；https://www.allabolag.se/foretag/steplock-access-ab/falun/elektronik-och-telekommunikationsutrustning/2KGRTI0I63IFR）：**
+
+- 法定名 / 登记号：Steplock access AB（steplockaccess.se；达拉纳 Falun Rissgårdsvägen 8, 791 77；org.nr 559105-9992；VAT SE559105999201）— 2017-03-23 注册的门禁 / 通行系统自有品牌商（StepLock）；**Steab Förvaltning AB 集团**（6 家公司、84 人、SEK 448M）子公司；5 名雇员；FY2025-06 营业额 SEK 18.2M（≈€1.6M；2021 以来 +469%）、EBIT −SEK 7.2M（投入期）；VD Fredrik Skoog；董事长 David Stendal；研究档 KP「Peter」（peter@；姓未取）；表内 4 次跟进无回复 · Org.nr 559105-9992；VAT SE559105999201 · 状态 **Aktiv** · 成立 2017-03-23 · AB（Steab Förvaltning AB 集团）
+- 行业码 / 经营范围：门禁 / 通行系统 自有品牌（StepLock）
+- 注册地址：Rissgårdsvägen 8, 791 77 Falun
+- 规模档：小微（5 人；集团 84 人）
+- 账目：FY2025-06 营业额 SEK 18,160k；EBIT −SEK 7,235k；5 人；—
+- 高管：Fredrik Skoog — VD（extern；allabolag / hitta）= 拍板人（抄）
+- 高管：David Stendal — Styrelseordförande
+- 高管：Peter（姓未取）— 研究档 KP（peter@steplockaccess.se）= 收件人
+- 控制人 / 股东：Steab Förvaltning AB
+- **这意味着什么：**
+  - **自有品牌门禁系统商（高增长、亏损投入期；集团 SEK 448M）→ 贴标 / 配套 30% small，一页纸一次（STC-028GP / STI-054GP / STI-144GP 作门禁控制器 + 读卡终端的 PoE 配套，可贴 StepLock 标）；有回声再加厚**
+  - 收件人 Peter 直呼、抄 Fredrik；发信窗口 Thu 12–14 CET；瑞典语一句引子
+- 备注：贴标 / 配套 30% small；一页纸一次；坐实（org.nr + 财务 + 集团）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -102,15 +118,18 @@ updated: 2026-10-28
 - **【用户表】云管理 PoE 演示网管界面**
   > 云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Peter（）peter@steplockaccess.se 〔用户表〕
+- **KP**：Peter（研究档 KP（姓未取）= 收件人（第 110 批 官方登记核实 2026-10-28））peter@steplockaccess.se 〔用户表〕
+- **KP**：Fredrik Skoog（VD（extern；allabolag / hitta：Carl Fredrik Valter Skoog）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28）） 〔https://www.allabolag.se/foretag/steplock-access-ab/falun/elektronik-och-telekommunikationsutrustning/2KGRTI0I63IFR〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Steplock access AB（org.nr 559105-9992；VAT SE559105999201；Steab Förvaltning AB 集团） |
+| 成立 | 2017-03-23（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 瑞典 |
-| 其他 | 官网 steplockaccess.se，语言 en，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 steplockaccess.se，语言 en，快照状态 ok；角色判定来源：待核；第 110 批：Falun 门禁 / 通行系统自有品牌商（5 人；FY2025-06 营业额 SEK 18.2M ≈ €1.6M，+469% 自 2021；EBIT −SEK 7.2M 投入期；集团 6 公司 84 人 SEK 448M）→ **贴标 / 配套 30% small，一页纸一次（STC-028GP / STI-054GP / STI-144GP 作门禁控制器 PoE 配套，可贴 StepLock 标）；有回声再加厚**；瑞典语引子（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：门禁 / 锁具系统（瑞典）
 - **触达通道（公开）**：role: 门禁系统公司（瑞典，网管 PoE 配套）；region: 瑞典；contact: peter@steplockaccess.se
@@ -184,7 +203,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Peter | — | peter@steplockaccess.se | 调研核实（公开页） | 用户表 |
+| Peter | 研究档 KP（姓未取）= 收件人（第 110 批 官方登记核实 2026-10-28） | peter@steplockaccess.se | 调研核实（公开页） | 用户表 |
+| Fredrik Skoog | VD（extern；allabolag / hitta：Carl Fredrik Valter Skoog）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.allabolag.se/foretag/steplock-access-ab/falun/elektronik-och-telekommunikationsutrustning/2KGRTI0I63IFR |
 
 - **通道建议**：企业邮箱可直发
 

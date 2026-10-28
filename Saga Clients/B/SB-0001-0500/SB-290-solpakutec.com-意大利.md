@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（IT · 1 次检索：solpakutec.com/en/imprint（Legal seat SOLPAKUTEC INDUSTRY DP Gewerbegebiet 21 39028 Schlanders；P. IVA IT 03085880213；Str Nr. PRTDNK95S07I729O；PEC prieth.dominik@pec.it）+ informazione-aziende（Forma Giuridica IMPRESA INDIVIDUALE；Codice Fiscale PRTDNK95S07I729O；46.50.1）+ reportaziende（REA BZ230913；Ditta Individuale；Silandro）+ LinkedIn Dominik Prieth（Solpakutec，Meran），2026-10-28 查；https://solpakutec.com/en/imprint/）：**
+
+- 法定名 / 登记号：SOLPAKUTEC INDUSTRY DP（impresa individuale = Dominik Prieth 个体户，CF PRTDNK95S07I729O，1995 年生；solpakutec.com；南蒂罗尔 Schlanders / Silandro Gewerbegebiet / Zona Produttiva 21, 39028 (BZ)；P.IVA 03085880213；REA BZ-230913）— 工业 PC / 移动终端 / 工业显示器 / 工业通信（ICP DAS 等）的一人分销商（德语区）；ATECO 46.51；KP Dominik Prieth（d.prieth@）；表内 4 次打开 · P.IVA 03085880213；REA BZ-230913；CF PRTDNK95S07I729O · 状态 **Active** · 成立 —（≈2019；未取） · Impresa individuale（Dominik Prieth）
+- 行业码 / 经营范围：工业 PC / 工业通信 一人分销（ATECO 46.51）
+- 注册地址：Gewerbegebiet / Zona Produttiva 21, 39028 Schlanders / Silandro (BZ)
+- 规模档：小微（1 人）
+- 账目：—（个体户）；—
+- 高管：Dominik Prieth — Titolare / Inhaber（研究档 KP d.prieth@）= 拍板人 / 收件人
+- 控制人 / 股东：Dominik Prieth 100%
+- **这意味着什么：**
+  - **南蒂罗尔一人工业分销（打开 4 次）→ 分销 20% small，一页纸一次（德语引子；STI-054GP / STI-144GP / STI-154GP 作台系工业交换机第二价位 + MOQ 1 + 预付款）；再无回声 → 不动**
+  - 收件人 Dominik 直呼；发信窗口 Thu 12–14 CET；稿内不点名 ICP DAS
+- 备注：分销 20% small；一页纸一次；坐实（P.IVA + REA + 个体户）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,15 +135,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS（ICP DAS）**
   > 工业FS（ISPDAS这个牌子的）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Dominik Prieth（）d.prieth@solpakutec.com 〔用户表〕
+- **KP**：Dominik Prieth（Titolare / Inhaber（impresa individuale；CF PRTDNK95S07I729O）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））d.prieth@solpakutec.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SOLPAKUTEC INDUSTRY DP（Dominik Prieth 个体户；P.IVA 03085880213；REA BZ-230913） |
+| 成立 | —（≈2019；未取）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 solpakutec.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 solpakutec.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 110 批：南蒂罗尔 Schlanders 一人工业 PC / 工业通信分销（打开 4 次）→ **分销 20% small，一页纸一次（德语引子；STI-054GP / STI-144GP / STI-154GP 作台系第二价位 + MOQ 1 + 预付款）；再无回声 → 不动**；稿内不点名 ICP DAS（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业定制软硬件方案
 
@@ -231,7 +247,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Dominik Prieth | — | d.prieth@solpakutec.com | 调研核实（公开页） | 用户表 |
+| Dominik Prieth | Titolare / Inhaber（impresa individuale；CF PRTDNK95S07I729O）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | d.prieth@solpakutec.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

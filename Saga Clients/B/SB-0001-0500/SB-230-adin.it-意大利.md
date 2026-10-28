@@ -90,6 +90,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（IT · 1 次检索：ufficiocamerale（ADVANCED INNOVATIONS S.R.L.；P.IVA 04994260968；VIA DELL’ARTIGIANATO 32 F 20865 USMATE VELATE；Rea 1789621；Fatturato € 1.134.277 2024；Dipendenti 6；Iscrizione 26/10/2005；Utile € -65.984）+ reportaziende（Fatturato 2021–2024 2.04 / 2.04 / 1.86 / 1.13 M€）+ smartbuildingitalia 2018（dal 2016 distributore esclusivo italiano UTEPO；dal 2017 Uniview；Anrecson；AXXON）+ adin.it/en（distributore ufficiale UNIVIEW e UTEPO；gruppo fondato nel 1979）+ LinkedIn（2005；11–50），2026-10-28 查；https://www.ufficiocamerale.it/4361/advanced-innovations-srl）：**
+
+- 法定名 / 登记号：ADVANCED INNOVATIONS S.R.L.（ad-in.net / adin.it；Monza e Brianza Usmate Velate Via dell’Artigianato 32/F, 20865；P.IVA / CF 04994260968；REA MB-1789621）— 2005-10-26 登记的 IP 视频监控进口分销商（1979 年安防制造集团旗下；**2016 起 UTEPO 意大利独家分销、2017 起 Uniview 分销、Anrecson 显示器、Axxon 软件**；培训课程）；6 人；2024 营收 €1.13M（2021 €2.04M → 持续下滑）、亏损 −€66k；KP Fabio Cavalleri（Vice President） · P.IVA / CF 04994260968；REA MB-1789621 · 状态 **Active** · 成立 2005-10-26 · S.r.l.（安防制造集团旗下）
+- 行业码 / 经营范围：IP 视频监控 / PoE 网络产品 进口分销（ATECO 46.52）
+- 注册地址：Via dell’Artigianato 32/F, 20865 Usmate Velate (MB)
+- 规模档：小微（6 人；下滑中）
+- 账目：2024 营收 €1,134,277；净利 −€65,984；—
+- 高管：Fabio Cavalleri — Vice President（研究档 KP fabio@ad-in.net）= 拍板人 / 收件人
+- 高管：（未具名）— amministratore（集团；未取）
+- 控制人 / 股东：安防制造集团（1979；未取）
+- **这意味着什么：**
+  - **国产 PoE 品牌的意大利独家分销商（营收 3 年腰斩、亏损 → 需要毛利 / 第二货源）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP / STI-054GP 1:1 对照其独家品牌在售型号；只给毛利切口）；有回声再加厚**；稿内绝不点名 UTEPO / Uniview
+  - 收件人 Fabio 直呼；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（P.IVA + REA + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,17 +141,17 @@ updated: 2026-10-28
 - **【用户表】MC 工业 FS 机架式 PoE SFP；MC 是统一外壳；Upeto 工业 FS；可以尝试多跟进一下**
   > 兴趣：MC 工业FS 机架式 PoE SFP MC是统一外壳 Upeto工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Fabio Cavalleri（）fabio@ad-in.net +39 039 682 9636〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Fabio Cavalleri（Vice President（研究档；LinkedIn）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））fabio@ad-in.net +39 039 682 9636〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Advanced Innovations S.r.l. |
-| 成立 | 集团 1979 |
+| 法定名称 | ADVANCED INNOVATIONS S.R.L.（P.IVA / CF 04994260968；REA MB-1789621） |
+| 成立 | 2005-10-26（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Monza, Italy（+39 039） |
-| 其他 | UTEPO 意大利官方分销 |
+| 其他 | UTEPO 意大利官方分销；第 110 批：Usmate Velate (MB) IP 监控进口分销商（1979 安防制造集团旗下；2016 起 UTEPO 意大利独家、2017 起 Uniview；6 人；2024 营收 €1.13M 自 2021 €2.04M 腰斩、亏损 −€66k）→ **分销 20% small，一页纸一次（1:1 对照其独家品牌在售型号，只给毛利切口：STC-028GP / STC-228GP / STC-2224GP / STI-054GP）；有回声再加厚**；稿内绝不点名 UTEPO / Uniview（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Uniview 监控分销；UTEPO 交换机 / MC 分销
 - **触达通道（公开）**：role: 安防分销商（UTEPO 渠道）；region: 意大利
@@ -245,7 +260,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Fabio Cavalleri | — | fabio@ad-in.net / +39 039 682 9636 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Fabio Cavalleri | Vice President（研究档；LinkedIn）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | fabio@ad-in.net / +39 039 682 9636 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

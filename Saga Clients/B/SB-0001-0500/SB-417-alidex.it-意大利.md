@@ -80,6 +80,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（IT · 1 次检索：alidex.it 页脚（© 2025 ALIDEX - ALIDEX NETWORKS SRL - P. IVA IT10924650962；Sedi in Italia e Spagna；Alidex Iberia）+ alidex.it/produttori（ORing；quasi 8.000 articoli）+ atoka（Alidex Networks Srl；Piazza Novello 22 26845 Codogno (LO)；46.52.09；RICAVI 388.0 K €；+22.8 %；DIPENDENTI 1；ANZIANITÀ 6 anni；capitale 2.0 K €；microimpresa）+ alidex.es/fabricantes（Alidex Iberia），2026-10-28 查；https://atoka.io/public/it/azienda/alidex-networks-srl/facc00f3dde8）：**
+
+- 法定名 / 登记号：ALIDEX NETWORKS S.R.L.（商号 ALIDEX Italia；alidex.it；研究档法定名「ALIDEX S.r.l.」应更正；洛迪 Codogno Piazza Novello 22, 26845 (LO)；P.IVA 10924650962；ATECO 46.52.09）— 约 2019 年成立的南欧工业网络分销商（ORing 工业交换机 / 无线 / 光纤转换器 / 串口服务器 / Network TAP；「近 8,000 个货号」；意大利 + 西班牙两地 = Alidex Iberia alidex.es → SB-832 并线）；微型：**1 名雇员、股本 €2,000**、最近营收 €388k（+22.8%）；仅 info@；表内未跟进 · P.IVA / CF 10924650962 · 状态 **Active** · 成立 ≈2019（「6 anni」） · S.r.l.（微型；股本 €2,000）
+- 行业码 / 经营范围：工业网络产品 分销（ORing 南欧）
+- 注册地址：Piazza Novello 22, 26845 Codogno (LO)
+- 规模档：小微（1 人）
+- 账目：最近营收 €388k（+22.8%）；1 人；—
+- 高管：（未具名）— amministratore（未取；研究档仅 info@alidex.it）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **台系工业品牌的一人南欧分销（IT + ES 同一业务）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作「第二价位」+ MOQ 1）；SB-832（西班牙站）并线于此，不另发**
+  - 收件人 info@alidex.it；发信窗口 Thu 12–14 CET；稿内不点名 ORing
+- 备注：分销 20% small；一页纸一次；SB-832 并线；坐实（P.IVA + 规模）；法定名更正 ALIDEX NETWORKS S.R.L.。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,9 +137,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ALIDEX S.r.l. |
+| 法定名称 | ALIDEX NETWORKS S.R.L.（商号 ALIDEX Italia / Alidex Iberia；P.IVA / CF 10924650962；研究档「ALIDEX S.r.l.」更正） |
+| 成立 | ≈2019（「6 anni」）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Italy |
-| 其他 | 同一公司：SB-832 alidex.es |
+| 其他 | 同一公司：SB-832 alidex.es；第 110 批：Codogno (LO) 南欧工业网络分销商（ORing 等；近 8,000 货号；**1 名雇员、股本 €2,000、营收 €388k**；意 + 西两地 = alidex.es → SB-832 并线于此）→ **分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 第二价位 + MOQ 1）**；稿内不点名 ORing；收件人 info@alidex.it（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络 / IoT / OT 安全分销
 - **触达通道（公开）**：role: 工业分销商（台系品牌）；region: 意大利 + 西班牙

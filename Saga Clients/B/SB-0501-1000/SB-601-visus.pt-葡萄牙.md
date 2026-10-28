@@ -76,6 +76,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（PT · 1 次检索：visus.pt/politica-de-privacidade（OptiVisus, Lda.；mercado das TIC desde 1989；sede Rua Capitão Ramires 17-A R/C Esq. 1000-084 Lisboa；NIPC 502 752 980）+ einforma.pt（OPTIVISUS, LDA ATIVA；designação anterior CENTRO DE OPTOMETRIA OPTIVISUS LDA；CAE 46660；constituição janeiro 1991）+ visus.pt/sobre-nos（importação distribuição CCTV-IP Networking；Visus BBS）+ visus.pt/onde-comprar（não vende ao público；rede de parceiros）+ contactos（Oscar Monteiro Torres 4），2026-10-28 查；https://www.einforma.pt/servlet/app/portal/ENTP/prod/ETIQUETA_EMPRESA_SITE/nif/502752980/website/www.visus.pt/）：**
+
+- 法定名 / 登记号：OPTIVISUS, LDA（商号 Visus / OptiVisus；原名 CENTRO DE OPTOMETRIA OPTIVISUS, LDA；visus.pt；里斯本 Rua Capitão Ramires 17-A, R/C Esq., 1000-084（联系地址 Rua Oscar Monteiro Torres 4, 1000-219 Lisboa）；NIPC 502 752 980）— 1991-01 成立（业务 1989；90 年代葡萄牙最大 BBS 起家）的 CCTV-IP / 网络 / 电信设备进口分销商（只经合作伙伴网络销售；Vivotek / DrayTek 等）；CAE 46660；KP Rui Jorge（rjorge@）；表内 4 次跟进无回复 · NIPC 502 752 980 · 状态 **Ativa** · 成立 1991-01 · Lda.（私有）
+- 行业码 / 经营范围：CCTV-IP / 网络 / 电信设备 进口分销（CAE 46660）
+- 注册地址：Rua Capitão Ramires 17-A, R/C Esq., 1000-084 Lisboa
+- 规模档：小型
+- 账目：未取（小型）；—
+- 高管：Rui Jorge — 研究档 KP（rjorge@visus.pt）= 收件人
+- 控制人 / 股东：未取
+- 曾用名：CENTRO DE OPTOMETRIA OPTIVISUS, LDA
+- **这意味着什么：**
+  - **里斯本老牌 CCTV / 网络分销商（只走经销网络；4 次无回）→ 分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP / STC-2224GP 配 IP 摄像机套件 + 葡语引子 + 葡萄牙 DAP）；有回声再加厚**
+  - 收件人 Rui 直呼；发信窗口 Thu 12–14 WET；稿内不点名 Vivotek / DrayTek
+- 备注：分销 20% small；一页纸一次（换切口）；坐实（NIPC + 官网）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,15 +134,17 @@ updated: 2026-10-28
 - **【用户表】CCTV 为主 有 Utepo 的**
   > CCTV为主 有Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rui Jorge（）rjorge@visus.pt 〔用户表〕
+- **KP**：Rui Jorge（研究档 KP = 收件人（第 110 批 官方登记核实 2026-10-28））rjorge@visus.pt 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | OPTIVISUS, LDA（商号 Visus；原名 CENTRO DE OPTOMETRIA OPTIVISUS, LDA；NIPC 502 752 980） |
+| 成立 | 1991-01（业务 1989）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 葡萄牙 |
-| 其他 | 官网 visus.pt，语言 en-gb，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 visus.pt，语言 en-gb，快照状态 ok；角色判定来源：用户表；第 110 批：里斯本 CCTV-IP / 网络 / 电信设备进口分销商（只走经销伙伴网络；Vivotek / DrayTek）→ **分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP / STC-2224GP 配 IP 摄像机套件 + 葡语引子 + 葡萄牙 DAP）；有回声再加厚**；稿内不点名 Vivotek / DrayTek（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信 / 视频监控分销（葡萄牙）
 - **触达通道（公开）**：role: 电信/CCTV 分销商（葡萄牙，Utepo 在售）；region: 葡萄牙；contact: encomendas@visus.pt、rjorge@visus.pt
@@ -219,7 +236,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rui Jorge | — | rjorge@visus.pt | 调研核实（公开页） | 用户表 |
+| Rui Jorge | 研究档 KP = 收件人（第 110 批 官方登记核实 2026-10-28） | rjorge@visus.pt | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

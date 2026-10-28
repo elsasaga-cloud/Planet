@@ -79,6 +79,19 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（IT · 1 次检索：ufficiocamerale（ELECTRONIK HOUSE SOCIETA’ A RESPONSABILITA’ LIMITATA SEMPLIFICATA；STRADA COGNENTO 142 41126 MODENA；Rea 399124；Fatturato € 216.513 2024；Dipendenti 3；Iscrizione 02/05/2014；Utile € 4.541；Capitale € 900）+ fatturatoitalia（P.IVA 03568370369；REA MO 399124；ATECO 46.52.09；Fatturato 2023 € 243.676）+ electronikhouse.it/dove-siamo（Electronik House srl；Strada Cognento 142；info@electronikhouse.it），2026-10-28 查；https://www.ufficiocamerale.it/8065/electronik-house-societa-a-responsabilita-limitata-semplificata）：**
+
+- 法定名 / 登记号：ELECTRONIK HOUSE S.r.l.s.（società a responsabilità limitata semplificata；electronikhouse.it；摩德纳 Strada Cognento 142, 41126 Modena；P.IVA / CF 03568370369；REA MO-399124）— 2014-05-02 登记的电子 / 电信设备小店（ATECO 46.50.2；线上 + 门店）；股本 **€900**；3 人（2026）；2024 营收 €216.5k、净利 €4.5k；仅 info@；表内未跟进 · P.IVA / CF 03568370369；REA MO-399124 · 状态 **Active** · 成立 2014-05-02 · S.r.l.s.（股本 €900）
+- 行业码 / 经营范围：电子 / 电信设备 小店（ATECO 46.50.2）
+- 注册地址：Strada Cognento 142, 41126 Modena (MO)
+- 规模档：小微（3 人）
+- 账目：2024 营收 €216,513；净利 €4,541；—
+- 高管：（未具名）— amministratore（未取；研究档仅 info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **€900 股本、3 人、年营收 €22 万的电子小店（无 KP）→ 按「一人网店」规则 不动**
+- 备注：坐实（P.IVA + REA + 财务）；微型小店 → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,9 +135,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Electronik House（待核） |
+| 法定名称 | ELECTRONIK HOUSE S.r.l.s.（P.IVA / CF 03568370369；REA MO-399124） |
+| 成立 | 2014-05-02（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Italy |
-| 其他 | 已售 Digitus 工业 FS / 中国 MC |
+| 其他 | 已售 Digitus 工业 FS / 中国 MC；第 110 批：摩德纳电子小店（股本 €900；3 人；2024 营收 €216.5k；仅 info@）→ **按「一人网店」规则 不动**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电子元件 / 网络网店
 - **触达通道（公开）**：role: 网店 / 经销；region: 意大利

@@ -78,6 +78,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（MD · 1 次检索（规则：Gmail 联系人 1 查即停）：asp.gov.md 国家登记公报 2025-05 / 2021-09 仅见同姓 Gorgos Dorin / Gorgos Simion 的无关 SRL；achizitii.md / camere.md 无关 → 未坐实，2026-10-28 查；https://www.asp.gov.md/sites/default/files/date-deschise/date-statistice/2025/rsud/buletinul-electronic/Buletinul-Electronic-05-2025.pdf）：**
+
+- 法定名 / 登记号：Gorgos Cristian（个人 Gmail indexcristi@gmail.com；摩尔多瓦；无公司名 / 无网站）— 1 次检索未找到任何以其名义登记的 SRL / IDNO（同姓 GORGOS DORIN「DORGOR FRUCT」SRL 2025、GORGOS SIMION「KODY SYSTEMS」SRL 2021 ≠ 目标）；研究档仅联系人 + 「比较杂」 · —（未找到） · 状态 **未坐实** · 成立 — · 个人 / 未知
+- 行业码 / 经营范围：未知（Gmail 联系人）
+- 注册地址：摩尔多瓦（未取）
+- 规模档：未知
+- 账目：—；—
+- 高管：Gorgos Cristian — 研究档 KP（indexcristi@gmail.com）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **Gmail 个人联系人、查无实体 → 不动（不进发送包；主动询盘则全额预付）**
+- 备注：未坐实（1 查即停）→ 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,9 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （待核） |
+| 法定名称 | （未坐实）Gorgos Cristian — Gmail 个人联系人，1 次检索查无摩尔多瓦法人 |
+| 成立 | —（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Chișinău, Ion Creangă 66, Moldova |
-| 其他 | 阿里国际站老客户（2013） |
+| 其他 | 阿里国际站老客户（2013）；第 110 批：同姓 Gorgos Dorin / Gorgos Simion 的无关 SRL ≠ 目标 → **不动（不进发送包；主动询盘全额预付）**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / CCTV 安装
 - **触达通道（公开）**：role: 安防安装商（50–100 台级批量）；region: 摩尔多瓦

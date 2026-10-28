@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（CH · 1 次检索：moneyhouse（SITIS Sàrl；Genève；entry 04.01.2012；CH-660.0.018.012-4；UID CHE-150.026.203；Capital CHF 20’000；Associé-gérant Freudenreich Arno de Wohlen bei Bern à Bernex pour 200 parts de CHF 100 signature individuelle；but informatique, télécommunications et sécurité）+ kompass（Rue Rousseau 15 1201 Genève；Arno Freudenreich gérant；effectif non déclaré）+ opencorporates（Rue Rousseau 15），2026-10-28 查；https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431）：**
+
+- 法定名 / 登记号：SITIS Sàrl（sitis.ch；日内瓦 Rue Rousseau 15, 1201；UID CHE-150.026.203；CH-660.0.018.012-4）— 2012-01-04 登记的小型 IT / 电信 / 安防销售与服务公司（IT 支持、布线、VoIP / 云 PBX、混合视频监控服务器、防盗 / 火警）；股本 CHF 20,000；associé-gérant Arno Freudenreich（200 份 = 100%；单独签字；= 研究档 KP）；雇员未申报；表内 5 次打开 · UID CHE-150.026.203；CH-660.0.018.012-4 · 状态 **Aktiv** · 成立 2012-01-04 · Sàrl（Arno Freudenreich 100%）
+- 行业码 / 经营范围：IT / 电信 / 安防 销售与服务（微型）
+- 注册地址：Rue Rousseau 15, 1201 Genève
+- 规模档：小微（1–4 人）
+- 账目：—；—
+- 高管：Arno Freudenreich — Associé-gérant / 100% 所有人（研究档 KP afcn@sitis.ch）= 拍板人 / 收件人
+- 控制人 / 股东：Arno Freudenreich 100%
+- **这意味着什么：**
+  - **日内瓦一人 IT / 安防服务商（打开 5 次）→ 集成 25% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 一口价 + MOQ 1 + DAP 瑞士买方清关）；再无回声 → 不动**
+  - 收件人 Arno 直呼；发信窗口 Thu 12–14 CET；法语一句引子
+- 备注：集成 25% small；一页纸一次；坐实（UID + 所有人）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,7 +134,7 @@ updated: 2026-10-28
 - **【用户表】只看 M12；6 次推送 0 回复**
   > 看了M12交换机，没做其他沟通，拿了彩页
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Arno Freudenreich（Associé-gérant（商业登记公开））afcn@sitis.ch（用户表） +41 22 510 21 51〔https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431〕
+- **KP**：Arno Freudenreich（Associé-gérant / 100% 所有人（moneyhouse：200 份 CHF 100，单独签字）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））afcn@sitis.ch（用户表） +41 22 510 21 51〔https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431〕
 - **调研后定级**：B（原自动 A）——兴趣点为 M12 接口（轨道/车载类，Saga 不做 EN50155/M12 线），无其他需求、无回复 → B 待机。
 - 备注：不主动投入。
 
@@ -128,10 +142,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SITIS Sàrl（CHE-150.026.203） |
-| 成立 | 2012-01-04 |
+| 法定名称 | SITIS Sàrl（UID CHE-150.026.203；CH-660.0.018.012-4） |
+| 成立 | 2012-01-04（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Rue Rousseau 15, 1201 Genève, Switzerland（+41 22 510 21 51） |
-| 其他 | 合伙经理 Arno Freudenreich；IT/电信/安防三线服务 |
+| 其他 | 合伙经理 Arno Freudenreich；IT/电信/安防三线服务；第 110 批：日内瓦 Rue Rousseau 15 一人 IT / 电信 / 安防服务商（股本 CHF 20k；打开 5 次）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP + MOQ 1 + DAP 瑞士买方清关；法语引子）**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 支持与托管；布线、VoIP / 云 PBX；视频监控、防盗、火灾探测安装
 - **触达通道（公开）**：网站: https://www.sitis.ch/fr/index.html；电话: +41 22 510 21 51（公开）
@@ -213,7 +227,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arno Freudenreich | Associé-gérant（商业登记公开） | afcn@sitis.ch（用户表） / +41 22 510 21 51 | 调研核实（公开页） | https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431 |
+| Arno Freudenreich | Associé-gérant / 100% 所有人（moneyhouse：200 份 CHF 100，单独签字）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | afcn@sitis.ch（用户表） / +41 22 510 21 51 | 调研核实（公开页） | https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431 |
 
 - **通道建议**：企业邮箱可直发
 

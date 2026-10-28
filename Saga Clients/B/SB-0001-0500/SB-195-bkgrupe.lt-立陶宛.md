@@ -74,6 +74,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（LT · 1 次检索：rekvizitai.vz.lt（BK grupė, UAB；Registration code 210599550；VAT LT105995515；Share capital 67 320 €；Manager Andrius Dapkevičius；Pramonės pr. 4D LT-51329 Kaunas；LEI）+ bkgrupe.lt/kontaktai（Įmonės kodas 210599550；Justas Kudirka Elektroninės prekybos vadovas；Andrius Daubaras Padalinio prekybos vadovas andrius.d@；Vilnius Domantas Gedžius / Justinas Daubara）+ okredo（95 darbuotojai 2026-07-02）+ infocloud（Pardavimo pajamos 41 889 642 Eur）+ 1551.lt（įkurta 1994；Lietuva Latvija Estija Lenkija；centras Taline）+ scoris（Registration 1994-03-07），2026-10-28 查；https://rekvizitai.vz.lt/en/company/bk_grupe/）：**
+
+- 法定名 / 登记号：BK grupė, UAB（Uždaroji akcinė bendrovė Baltijos kontaktų grupė；bkgrupe.lt；考纳斯 Pramonės pr. 4D, LT-51329；įmonės kodas 210599550；PVM LT105995515；LEI 529900OT8O55VWSU5596）— 1994-03-07 登记的波罗的海三国 + 波兰安防系统分销商（管理中心在塔林；Kaunas / Vilnius / Šiauliai 等分部；电商部）；股本 €67,320；95 名雇员（SODRA 2026-07）；销售收入 €41.9M；vadovas Andrius Dapkevičius；KP Andrius Daubaras = Padalinio prekybos vadovas（分部销售负责人）；表内 4 次跟进无回复 · Įmonės kodas 210599550；PVM LT105995515 · 状态 **Veikiantis** · 成立 1994-03-07 · UAB（私有）
+- 行业码 / 经营范围：安防系统 分销（LT / LV / EE / PL）+ 电商
+- 注册地址：Pramonės pr. 4D, LT-51329 Kaunas
+- 规模档：中型（95 人；€41.9M）
+- 账目：销售收入 €41,889,642；95 人；—
+- 高管：Andrius Daubaras — Padalinio prekybos vadovas（研究档 KP andrius.d@；官网 Kontaktai）= 收件人
+- 高管：Andrius Dapkevičius — Vadovas（rekvizitai）= 拍板人（抄）
+- 高管：Justas Kudirka — Elektroninės prekybos vadovas（电商）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **€42M / 95 人的波罗的海安防分销商（在售国产 PoE；4 次无回）→ 分销 20%，B BIG，加厚一次（换切口：波罗的海 + 波兰四国渠道第二货源 + 电商部 SKU）**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP 一页纸；次候选升 A；稿内不点名 Utepo
+  - 收件人 Andrius Daubaras 直呼、抄 Andrius Dapkevičius；发信窗口 Thu 12–14 EET；立陶宛语一句引子
+- 备注：分销 20%；B BIG；加厚一次（换切口）；坐实（kodas + 财务 + 人数）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,14 +128,18 @@ updated: 2026-10-28
   > 有Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Andrius Daubaras（）andrius@bkgrupe.lt 〔用户表〕
+- **KP**：Andrius Dapkevičius（Vadovas / 总经理（rekvizitai.vz.lt）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28）） 〔https://rekvizitai.vz.lt/en/company/bk_grupe/〕
+- **KP**：Justas Kudirka（Elektroninės prekybos vadovas / 电商负责人（bkgrupe.lt）（第 110 批 官方登记核实 2026-10-28））justas@bkgrupe.lt 〔https://bkgrupe.lt/kontaktai〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | BK grupė, UAB（Uždaroji akcinė bendrovė Baltijos kontaktų grupė；įmonės kodas 210599550；PVM LT105995515） |
+| 成立 | 1994-03-07（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 立陶宛 |
-| 其他 | 官网 bkgrupe.lt，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 bkgrupe.lt，语言 ?，快照状态 http_error；角色判定来源：待核；第 110 批：考纳斯 波罗的海三国 + 波兰安防系统分销商（管理中心塔林；95 人；销售收入 €41.9M；股本 €67,320；电商部）→ **分销 20%，B BIG，加厚一次（换切口：四国渠道第二 PoE 货源 + 电商 SKU；STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP）；次候选升 A**；稿内不点名 Utepo（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核，立陶宛）
 - **触达通道（公开）**：role: 安防/网络集成商（立陶宛，Utepo 在用）；region: 立陶宛；contact: andrius@bkgrupe.lt
@@ -200,6 +220,8 @@ updated: 2026-10-28
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Andrius Daubaras | — | andrius@bkgrupe.lt | 调研核实（公开页） | 用户表 |
+| Andrius Dapkevičius | Vadovas / 总经理（rekvizitai.vz.lt）= 拍板人（抄）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rekvizitai.vz.lt/en/company/bk_grupe/ |
+| Justas Kudirka | Elektroninės prekybos vadovas / 电商负责人（bkgrupe.lt）（第 110 批 官方登记核实 2026-10-28） | justas@bkgrupe.lt | 调研核实（公开页） | https://bkgrupe.lt/kontaktai |
 
 - **通道建议**：企业邮箱可直发
 

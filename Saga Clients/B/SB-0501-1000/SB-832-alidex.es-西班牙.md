@@ -78,6 +78,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（ES · 1 次检索：alidex.es/fabricantes（Alidex Iberia；Distribuidor de Soluciones Tecnológicas en el Sur Europa；Sedes en España e Italia；ORing）+ alidex.it 页脚（ALIDEX NETWORKS SRL P. IVA IT10924650962）+ garmasl.com/aviso-legal（Garma Electrónica, S.L. CIF B20178372 Donostia ≠ Alidex）；无西班牙 CIF，2026-10-28 查；https://www.alidex.es/fabricantes）：**
+
+- 法定名 / 登记号：Alidex Iberia（alidex.es；「Sedes en España e Italia」）— **= SB-417 ALIDEX NETWORKS S.R.L.（P.IVA 10924650962，Codogno）的西班牙站 / 品牌**；1 次检索未找到独立西班牙法人（alidex.es 无 aviso legal CIF；研究档出现的 garmasl.com = Garma Electrónica, S.L. CIF B20178372 San Sebastián 为无关电子分销商）；仅 info@alidex.es；表内未跟进 · —（无独立西班牙法人；母体 P.IVA 10924650962 见 SB-417） · 状态 **并线 SB-417** · 成立 — · 品牌 / 网站（意大利法人）
+- 行业码 / 经营范围：工业网络产品 分销（南欧；= SB-417）
+- 注册地址：—（西班牙站；法人在 Codogno (LO), Italy）
+- 规模档：见 SB-417
+- 账目：见 SB-417；—
+- 高管：（未具名）— info@alidex.es（= SB-417 同一业务）
+- 控制人 / 股东：见 SB-417
+- **这意味着什么：**
+  - **与 SB-417 同一家 1 人分销商的西班牙站 → 并线 SB-417，不另发**
+- 备注：部分坐实（无独立法人）→ 并线 SB-417。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,9 +124,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ALIDEX S.r.l.（西班牙分支） |
+| 法定名称 | Alidex Iberia（alidex.es）= SB-417 ALIDEX NETWORKS S.R.L.（P.IVA 10924650962）的西班牙站；无独立西班牙法人（研究档 garmasl.com = Garma Electrónica, S.L. B20178372 无关） |
+| 成立 | —（见 SB-417）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Spain（分支） |
-| 其他 | 主档案 SB-417 |
+| 其他 | 主档案 SB-417；第 110 批：**并线 SB-417，不另发**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络分销（西班牙）
 - **触达通道（公开）**：role: 工业分销商分支；region: 西班牙

@@ -83,6 +83,21 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（CZ · 1 次检索：finmag（Axilogi s.r.o.；IČO 10964703；DIČ CZ10964703；Daimlerova 1161/6 Plzeň - Skvrňany；jednatel DC Europe system a.s. 06532802；při výkonu funkce zastupuje Ing. Milan Harmáček zapsáno 2. 6. 2025；19. 1. 2026 vymazán；10. 3. 2026 zapsán opatrovník Mgr. Martin Svoboda；základní kapitál 2 000 000 Kč 23. 6. 2021）+ ov.gov.cz（Oddíl C vložka 123877；Datum zápisu 23.6.2021；Milan Harmáček nar. 30.12.1975）+ axilogi.com/kontakty（KS v Plzni oddíl C vložka 47636）+ rocketreach（Milan Harmacek CEO），2026-10-28 查；https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o）：**
+
+- 法定名 / 登记号：Axilogi s.r.o.（axilogi.com；比尔森 Plzeň – Skvrňany Daimlerova 1161/6, 301 00；IČO 10964703；DIČ CZ10964703）— 2021-06-23 成立的 IT / 安防网店与分销（Mean Well / WD / Ubiquiti / Hikvision / MikroTik / TP-Link）；股本 CZK 2M；法人 jednatel = DC Europe system a.s.（IČO 06532802，代表人 Ing. Milan Harmáček = 研究档 KP CEO）；**2026-01-19 Harmáček 从代表人中注销、2026-03-10 法院登记 opatrovník（监护人）Mgr. Martin Svoboda；网站自称 KS Plzeň C 47636 与 ARES 卷号 C 123877 不一致 → 法人状态异常**；群发 4 次无回复 · IČO 10964703；DIČ CZ10964703；C 123877（网站称 C 47636 → 不一致） · 状态 **Aktivní（统法机关缺位；2026-03 法院指定 opatrovník）** · 成立 2021-06-23 · s.r.o.（jednatel = DC Europe system a.s.）
+- 行业码 / 经营范围：IT / 安防 网店与分销
+- 注册地址：Daimlerova 1161/6, 301 00 Plzeň – Skvrňany
+- 规模档：小微
+- 账目：—；—
+- 高管：Milan Harmáček（Ing.）— 研究档 KP CEO（milan@）；2026-01 起不再是登记代表人
+- 高管：Mgr. Martin Svoboda — Opatrovník（法院 2026-03-10）
+- 控制人 / 股东：DC Europe system a.s.（Harmáček 股东）
+- **这意味着什么：**
+  - **法人状态异常（代表人注销 + 法院监护人 + 卷号不一致）→ 信用风险 → 不动（B 保留，不进发送包）**
+  - 若 Milan 主动询盘 → 只做全额预付款
+- 备注：部分坐实（卷号不一致）；法人状态异常 → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,15 +131,17 @@ updated: 2026-10-28
 - **【用户表】很多牌子的**
   > 很多品牌子的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Milan Harmacek（）milan@axilogi.com 〔用户表〕
+- **KP**：Milan Harmacek（CEO（研究档）— 2026-01-19 起不再是登记代表人；2026-03-10 法院登记 opatrovník → 法人状态异常（第 110 批 官方登记核实 2026-10-28））milan@axilogi.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Axilogi s.r.o.（IČO 10964703；DIČ CZ10964703；C 123877 KS Plzeň；网站自称 C 47636 → 不一致） |
+| 成立 | 2021-06-23（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 axilogi.com，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+| 其他 | 官网 axilogi.com，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 110 批：比尔森 IT / 安防网店（股本 CZK 2M；jednatel = DC Europe system a.s.；代表人 Harmáček 2026-01 注销、2026-03 法院指定监护人 Mgr. Martin Svoboda）→ **法人状态异常 → 不动（B 保留，不进发送包；主动询盘只做全额预付）**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 安防 / 工业电源网店
 - **触达通道（公开）**：role: IT/安防多品牌网店（捷克）；region: 捷克；contact: sales@axilogi.cz、milan@axilogi.com
@@ -216,7 +233,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Milan Harmacek | — | milan@axilogi.com | 调研核实（公开页） | 用户表 |
+| Milan Harmacek | CEO（研究档）— 2026-01-19 起不再是登记代表人；2026-03-10 法院登记 opatrovník → 法人状态异常（第 110 批 官方登记核实 2026-10-28） | milan@axilogi.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

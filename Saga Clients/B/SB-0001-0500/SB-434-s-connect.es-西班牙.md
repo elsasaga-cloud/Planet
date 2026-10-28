@@ -79,6 +79,24 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（ES · 1 次检索：einforma（S CONNECT S.L.；CIF B64872484；Fecha Constitución 07/05/2008；CNAE 4652；domicilio anterior Calle Berlin 7 Barcelona）+ empresite（Sociedad limitada unipersonal）+ s-connect.es/quienes-somos（fundada 2008 Barcelona filial española del grupo SPHINX Computer Vertriebs GmbH；1989 Frankfurt）+ s-connect.es（C/ Villarroel 216 4º 3 08036 Barcelona；Madrid Of. 601-B）+ LinkedIn（2–10；Nicolas CALVEZ Industrial IoT Solutions Specialist；Pablo Kessler；Alex Navarro）+ blog（Nicolas Calvez Inside Sales），2026-10-28 查；https://www.einforma.com/informacion-empresa/s-connect）：**
+
+- 法定名 / 登记号：S CONNECT S.L.（S-Connect；Sociedad limitada unipersonal；s-connect.es；巴塞罗那 C/ Villarroel 216, 4º 3ª, 08036 + 马德里办公室 Centro de Transporte de Madrid Of. 601-B；CIF B64872484；RM Barcelona）— 2008-05-07 成立（2003 起为西班牙办事处）的工业通信 / 工业 IoT 增值分销商，**德国 SPHINX Computer Vertriebs GmbH 集团（法兰克福；1989；DE / AT / DK / FR / ES / CH / UK）西班牙子公司**（Moxa 等；「1.2 万货号」；本地库存）；2–10 人；KP Nicolas Calvez（Inside Sales / Industrial IoT Solutions Specialist）；Pablo Kessler de la Maza、Alex Navarro Caraballo（销售 / 技术）；表内 4 次跟进无回复 · CIF B64872484 · 状态 **Activa** · 成立 2008-05-07（办事处 2003） · S.L.U.（SPHINX Computer Vertriebs GmbH 全资）
+- 行业码 / 经营范围：工业通信 / 工业 IoT 增值分销（CNAE 4652）
+- 注册地址：C/ Villarroel 216, 4º 3ª, 08036 Barcelona
+- 规模档：小微（2–10 人）
+- 账目：—（2–10 人）；—
+- 高管：Nicolas Calvez — Inside Sales / Industrial IoT Solutions Specialist（研究档 KP nicolas@）= 收件人
+- 高管：Pablo Kessler de la Maza — Sales & Technical Support（LinkedIn）
+- 高管：Alex Navarro Caraballo — Embedded PC & Industrial Communication Specialist（LinkedIn）
+- 高管：（集团）SPHINX Computer Vertriebs GmbH — 母公司（采购决策可能在法兰克福）
+- 控制人 / 股东：SPHINX Computer Vertriebs GmbH 100%
+- **这意味着什么：**
+  - **德国 SPHINX 集团的西班牙工业通信分销子公司（台系品牌为主；4 次无回）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作「第二价位 + 短交期」；西语引子）；有回声再加厚**
+  - **旁线索（DE 池核对）：SPHINX Computer Vertriebs GmbH（法兰克福）— 7 国工业通信分销集团；集团采购可能统一，另立户评估**
+  - 收件人 Nicolas 直呼；发信窗口 Thu 12–14 CET；稿内不点名 Moxa
+- 备注：分销 20% small；一页纸一次；坐实（CIF + 集团）；旁线索 SPHINX。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,16 +123,18 @@ updated: 2026-10-28
 - **【用户表】很多台湾品牌的；很多牌子的**
   > 兴趣：很多台湾品牌的;很多牌子的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Nicolas Calvez（）nicolas@s-connect.es +34 910 421 886〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Nicolas Calvez（Inside Sales / Industrial IoT Solutions Specialist（LinkedIn / blog）= 收件人（第 110 批 官方登记核实 2026-10-28））nicolas@s-connect.es +34 910 421 886〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Pablo Kessler de la Maza（Sales and Technical Support Industrial IoT Solutions（LinkedIn）（第 110 批 官方登记核实 2026-10-28）） 〔https://www.linkedin.com/company/s-connect-s.l./〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | S-Connect（待核） |
+| 法定名称 | S CONNECT S.L.（S-Connect；S.L.U.；CIF B64872484；RM Barcelona；SPHINX Computer Vertriebs GmbH 全资子公司） |
+| 成立 | 2008-05-07（办事处 2003）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Madrid, Spain |
-| 其他 | 工业交换机目录深 |
+| 其他 | 工业交换机目录深；第 110 批：巴塞罗那 + 马德里 工业通信 / 工业 IoT 增值分销（德国 SPHINX 集团 7 国；Moxa 等；2–10 人；本地库存）→ **分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 第二价位 + 短交期；西语引子）；有回声再加厚**；旁线索 SPHINX Computer Vertriebs GmbH（法兰克福）→ DE 池另立户；稿内不点名 Moxa（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络 / IoT 分销（Moxa、Advantech）
 - **触达通道（公开）**：role: 工业分销商；region: 西班牙
@@ -197,7 +217,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nicolas Calvez | — | nicolas@s-connect.es / +34 910 421 886 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Nicolas Calvez | Inside Sales / Industrial IoT Solutions Specialist（LinkedIn / blog）= 收件人（第 110 批 官方登记核实 2026-10-28） | nicolas@s-connect.es / +34 910 421 886 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Pablo Kessler de la Maza | Sales and Technical Support Industrial IoT Solutions（LinkedIn）（第 110 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.linkedin.com/company/s-connect-s.l./ |
 
 - **通道建议**：企业邮箱可直发
 

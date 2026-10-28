@@ -79,6 +79,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（IT · 1 次检索：ufficiocamerale/5622（TPOLE S.R.L.；P.IVA 02978370183；VIA ALCIDE DE GASPERI 4 27040 PORTALBERA；Rea 330560；Dipendenti 15 2025；Iscrizione 10/01/2025；Capitale € 50.000）+ ufficiocamerale/5672（前身 TPOLE S.R.L. 02545250967；Rea 218088；Fatturato € 9.468.968 2022；Utile € 1.998.764；Iscrizione 02/05/2005）+ tpole.it/en/services 页脚（REA 330560 - P.IVA 02978370183 - Cap. Sociale € 50.000）+ reportaziende（Fatturato € 8,76 Mln 2025；Utile € 665 K）+ affaritaliani 2025-11（fondata nel 1995 da Pietro Milani），2026-10-28 查；https://www.ufficiocamerale.it/5622/tpole-srl）：**
+
+- 法定名 / 登记号：TPOLE S.R.L.（tpole.it；帕维亚 Portalbera Via Alcide De Gasperi 4, 27040 (PV)；**现行实体 P.IVA / CF 02978370183、REA PV-330560，2025-01-10 登记，股本 €50,000；前身同名 TPOLE S.R.L. P.IVA 02545250967、REA 218088，2005-05-02 登记，股本 €26,000**）— 1995 年由 Pietro Milani（CEO；= 研究档 KP）创立的工业 / 嵌入式 PC 增值分销商（自动机械 / 医疗 / 轨交 / 工业；工业交换机为台系）；15 人（2025）；前身 2022 营收 €9.47M、净利 €2.0M；2025 营收 €8.76M、净利 €665k；研究档另有 Lorenzo Bruno（info@）；表内 4 次跟进无回复 · P.IVA / CF 02978370183；REA PV-330560（前身 02545250967 / REA 218088） · 状态 **Active（2025-01 新实体承接）** · 成立 2025-01-10（前身 2005-05-02；业务 1995） · S.r.l.（Pietro Milani）
+- 行业码 / 经营范围：工业 / 嵌入式 PC 增值分销（ATECO 46.51）
+- 注册地址：Via Alcide De Gasperi 4, 27040 Portalbera (PV)
+- 规模档：小型（15 人；€8.8M）
+- 账目：2025 营收 €8.76M；净利 €665k；15 人（前身 2022 €9.47M）；—
+- 高管：Pietro Milani — Fondatore / CEO（研究档 KP pietro.milani@）= 拍板人 / 收件人
+- 高管：Lorenzo Bruno — 研究档 KP（info@）
+- 控制人 / 股东：Pietro Milani（推定）
+- 曾用名：TPOLE S.R.L.（P.IVA 02545250967，2005–2025）
+- **这意味着什么：**
+  - **€8.8M 工业 PC 分销商（台系工业交换机；4 次无回；2025 换新实体）→ 分销 20%，B BIG，加厚一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 作工业交换机「第二价位 + 3 年保」；只提自动机械 / 工业，不提轨交 / 医疗）**；次候选升 A
+  - 收件人 Pietro 直呼；发信窗口 Thu 12–14 CET；意语一句引子；稿内不点名 Volktek
+- 备注：分销 20%；B BIG；加厚一次（换切口；守界非轨交）；坐实（新旧 P.IVA + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,16 +138,18 @@ updated: 2026-10-28
 - **【用户表】主要是 Volktek 的工业 FS / MC**
   > 主要是volktek的 / 工业FS 工业MC 少部分产品；卖台湾volktek牌子；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Lorenzo Bruno（）info@tpole.it 〔用户表〕
-- **KP**：Pietro Milani（）pietro.milani@tpole.it 〔用户表〕
+- **KP**：Lorenzo Bruno（研究档 KP Lorenzo Bruno（info@）（第 110 批 官方登记核实 2026-10-28））info@tpole.it 〔用户表〕
+- **KP**：Pietro Milani（Fondatore / CEO（affaritaliani 2025-11；rocketreach）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））pietro.milani@tpole.it 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | TPOLE S.R.L.（现行 P.IVA / CF 02978370183，REA PV-330560，2025-01-10 登记，股本 €50,000；前身同名 P.IVA 02545250967 / REA 218088，2005-05-02） |
+| 成立 | 2025-01-10（前身 2005-05-02；业务 1995）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 tpole.it，语言 it，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 tpole.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 110 批：Portalbera (PV) 工业 / 嵌入式 PC 增值分销商（15 人；2025 营收 €8.76M、净利 €665k；前身 2022 €9.47M；工业交换机台系）→ **分销 20%，B BIG，加厚一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 第二价位 + 3 年保；只提自动机械 / 工业，不提轨交 / 医疗）；次候选升 A**；稿内不点名 Volktek（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业 PC / 嵌入式 / HMI / 工业网络分销
 - **触达通道（公开）**：role: 工业 PC 方案分销商（意大利，Volktek 工业 FS/MC）；region: 意大利；contact: info@tpole.it、pietro.milani@tpole.it
@@ -223,8 +241,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Lorenzo Bruno | — | info@tpole.it | 调研核实（公开页） | 用户表 |
-| Pietro Milani | — | pietro.milani@tpole.it | 调研核实（公开页） | 用户表 |
+| Lorenzo Bruno | 研究档 KP Lorenzo Bruno（info@）（第 110 批 官方登记核实 2026-10-28） | info@tpole.it | 调研核实（公开页） | 用户表 |
+| Pietro Milani | Fondatore / CEO（affaritaliani 2025-11；rocketreach）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28） | pietro.milani@tpole.it | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

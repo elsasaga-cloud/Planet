@@ -76,6 +76,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（ES · 1 次检索：iberinform（MATRIX ELECTRONICA SL；CIF B79611794；CALLE ALEJANDRO SANCHEZ 109 28019 MADRID；CNAE 2630；marca MATRIX）+ informa（creación 18/10/1990；Entre 50 y 250 trabajadores；Ventas Entre 6 y 30 millones €；60 empleados 2025）+ empresia（59 empleados 2023；Administrador único FLEXITRON SL；auditor GROSCLAUDE & PARTNERS）+ datoscif（Propietario FLEXITRON SL）+ matrix.es/en/about-matrix（Matrix, part of Flexitron Group；since 1991；offices Madrid Barcelona Durango Valencia Seville Lisbon France India；Webdyn IoT brand）+ legal-notice（B79611794），2026-10-28 查；https://www.iberinform.es/empresa/1059395/matrix-electronica）：**
+
+- 法定名 / 登记号：MATRIX ELECTRONICA SL（Sociedad limitada unipersonal；matrix.es；马德里 Calle Alejandro Sánchez 109, 28019；CIF B79611794；RM Madrid）— 1990-10-18 成立（活动 1991）的工业电子 / IoT 元器件与模块分销商（面向开发者 / 集成商 / 制造商；**Flexitron 集团成员，Administrador único FLEXITRON SL；自有 IoT 品牌 Webdyn**；办事处 Madrid / Barcelona / Durango / Valencia / Sevilla + Lisboa / 法国 / 印度）；59–60 名雇员（2023–2025）；销售额区间 €6–30M；CNAE 2630；KP Daniel Cortes（info@）、Jose Miguel；表内 4 次跟进无回复 · CIF B79611794 · 状态 **Activa** · 成立 1990-10-18 · S.L.U.（FLEXITRON SL 全资）
+- 行业码 / 经营范围：工业电子 / IoT 元器件与模块 分销（CNAE 2630）
+- 注册地址：Calle Alejandro Sánchez 109, 28019 Madrid
+- 规模档：中型（60 人）
+- 账目：销售额 €6–30M 区间；60 人；—
+- 高管：Daniel Cortes — 研究档 KP（info@matrix.es）= 收件人
+- 高管：Jose Miguel — 研究档 KP
+- 高管：（集团）FLEXITRON SL — Administrador único / 所有人
+- 控制人 / 股东：FLEXITRON SL（Flexitron Group）
+- **这意味着什么：**
+  - **60 人、7 个办事处、Flexitron 集团的工业电子分销商（4 次无回）→ 分销 20%，B BIG，加厚一次（换切口：面向其集成商 / 制造商客户的工业 PoE 模块化配套 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + 可配 Webdyn 网关项目；西语引子）**；次候选升 A
+  - 收件人 Daniel 直呼；发信窗口 Thu 12–14 CET
+- 备注：分销 20%；B BIG；加厚一次（换切口）；坐实（CIF + 规模 + 集团）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,7 +124,7 @@ updated: 2026-10-28
 - **【用户表】几个小有名气的牌子；AI 41% A**
   > 几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Daniel Cortes（）info@matrix.es 〔用户表〕
+- **KP**：Daniel Cortes（研究档 KP Daniel Cortes（info@）= 收件人（第 110 批 官方登记核实 2026-10-28））info@matrix.es 〔用户表〕
 - **KP**：Jose Miguel（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -116,8 +132,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MATRIX ELECTRONICA SL（S.L.U.；CIF B79611794；RM Madrid；Administrador único / 所有人 FLEXITRON SL = Flexitron Group；自有 IoT 品牌 Webdyn） |
+| 成立 | 1990-10-18（活动 1991）（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 西班牙 |
-| 其他 | 官网 matrix.es，语言 es-ES，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 matrix.es，语言 es-ES，快照状态 ok；角色判定来源：用户表；第 110 批：马德里 工业电子 / IoT 元器件与模块分销商（60 人；销售额 €6–30M 区间；Madrid / Barcelona / Durango / Valencia / Sevilla + Lisboa / 法国 / 印度 办事处）→ **分销 20%，B BIG，加厚一次（换切口：面向其集成商 / 制造商客户的工业 PoE 配套 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + Webdyn 网关项目；西语引子）；次候选升 A**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IoT 方案 / 电子模块与设备供应；工业网络（串口服务器等）/ 嵌入式计算
 - **触达通道（公开）**：role: 工业电子/IoT 组件供应商（西班牙，面向集成商）；region: 西班牙；contact: info@matrix.es
@@ -194,7 +212,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Daniel Cortes | — | info@matrix.es | 调研核实（公开页） | 用户表 |
+| Daniel Cortes | 研究档 KP Daniel Cortes（info@）= 收件人（第 110 批 官方登记核实 2026-10-28） | info@matrix.es | 调研核实（公开页） | 用户表 |
 | Jose Miguel | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发

@@ -77,6 +77,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（FR · 1 次检索（规则：Gmail 联系人 1 查即停）：pappers CG SYSTEMES 939650495（GUIBRETEAU Jean-Yves Directeur général 40 ans 05/1986 depuis le 10/02/2025；CHAPERON Pierre-Antoine Président）+ societe.com GUIBRETEAU 837855048（SCCV 4110D Vertou ≠）→ 未坐实，2026-10-28 查；https://www.pappers.fr/entreprise/cg-systemes-939650495）：**
+
+- 法定名 / 登记号：JguyTech（表内名；Gmail jyguibreteau@gmail.com；研究档推断 J.-Y. Guibreteau；曾下 1 笔样品单 OM4301）— 1 次检索未找到任何「JguyTech」法人；**可能线索（未证）**：Jean-Yves Guibreteau（1986 年 5 月生）自 2025-02-10 起任 CG SYSTEMES SAS（SIREN 939 650 495）Directeur général（pappers）；同姓 GUIBRETEAU SCCV 837 855 048（房地产，已注销）/ Gregory Guibreteau ≠；研究档出现 faiveleytransport.com（轨交供应商）域名 → 若属实为轨交背景（守界） · —（未找到；可能 CG SYSTEMES SIREN 939 650 495 待证） · 状态 **未坐实** · 成立 — · 个人 / 未知
+- 行业码 / 经营范围：未知（Gmail 联系人；1 笔样品单）
+- 注册地址：法国（未取）
+- 规模档：未知
+- 账目：—；—
+- 高管：J.-Y. Guibreteau（推断）— 研究档 KP（jyguibreteau@gmail.com）
+- 高管：Jean-Yves Guibreteau — CG SYSTEMES SAS DG（2025-02 起；是否同一人待证）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **Gmail 个人、查无实体、曾买 1 件样品 → 不动（B 保留；再询盘走 Shopify 零售价 / 预付款）**
+  - 若回信自报 CG Systèmes → 补证后按集成 25% small 一页纸
+- 备注：未坐实（1 查即停）→ 不动；可能线索 CG SYSTEMES 待证。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -99,15 +114,17 @@ updated: 2026-10-28
 - **【用户表】OM4301 网络延长器 1 对成样品单（成交）**
   > OM4301网络延长器 1对 成样品单
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：J.-Y. Guibreteau（邮箱推断；全名待核）（用户表联系人（WhatsApp 为主通道））jyguibreteau@gmail.com 〔用户表 / entities 邮箱〕
+- **KP**：J.-Y. Guibreteau（邮箱推断；全名待核）（研究档推断 J.-Y. Guibreteau（Gmail）；可能 = Jean-Yves Guibreteau，CG SYSTEMES SAS（SIREN 939 650 495）DG 2025-02 起 — 待证（第 110 批 官方登记核实 2026-10-28））jyguibreteau@gmail.com 〔用户表 / entities 邮箱〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息（已成交））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | JguyTech（表内；未能核实） |
+| 法定名称 | （未坐实）JguyTech — 1 次检索查无法人；可能线索 CG SYSTEMES SAS 939 650 495 待证 |
+| 成立 | —（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 法国 |
+| 其他 | 第 110 批：Gmail 个人、曾买 1 件样品（OM4301）；研究档出现 faiveleytransport.com（轨交供应商）域名 → 若属实为轨交背景（守界）→ **不动（B 保留；再询盘走零售价 / 预付款）**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：弱电/网络延长安装（推断）
 - **触达通道（公开）**：邮箱: （表内 Gmail）
@@ -135,7 +152,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| J.-Y. Guibreteau（邮箱推断；全名待核） | 用户表联系人（WhatsApp 为主通道） | jyguibreteau@gmail.com | 调研核实（公开页） | 用户表 / entities 邮箱 |
+| J.-Y. Guibreteau（邮箱推断；全名待核） | 研究档推断 J.-Y. Guibreteau（Gmail）；可能 = Jean-Yves Guibreteau，CG SYSTEMES SAS（SIREN 939 650 495）DG 2025-02 起 — 待证（第 110 批 官方登记核实 2026-10-28） | jyguibreteau@gmail.com | 调研核实（公开页） | 用户表 / entities 邮箱 |
 | Mr.Guibreteau | — | jyguibreteau@gmail.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）

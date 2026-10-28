@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 110 批（ES · 1 次检索：empresite（Cablewindow Sl.；CIF B83027185；2 trabajadores 2025；www.cablewindow.com）+ einforma（Denominación Antigua HAI NUO SRL；constitución 15/06/2001；Capital 3.065 €；domicilio anterior Calle Torres Miranda 21）+ iberinform / empresia（CALLE LAGUNA DEL MARQUESADO 12 NAVE 11 28021 MADRID；6 empleados 2024；ventas 0.5M €；CNAE 4652）+ cablewindow.es（Calle Laguna del Marquesado 12 Nave 11；info@cablewindow.com），2026-10-28 查；https://www.iberinform.es/empresa/1173988/cablewindow）：**
+
+- 法定名 / 登记号：CABLEWINDOW SL（原名 HAI NUO SRL；商号 CABLE WINDOW；cablewindow.com / cablewindow.es；马德里 Calle Laguna del Marquesado 12, Nave 11, Pol. Ind., 28021；CIF B83027185）— 2001-06-15 成立的网络 / 安防线缆与设备进口网店（Utepo 交换机等；原名 HAI NUO 提示华人背景）；股本 €3,065；2–6 名雇员；年销售 ≈€0.5M；仅 info@；群发 5 次无回复 · CIF B83027185 · 状态 **Activa** · 成立 2001-06-15 · S.L.（微型；原 HAI NUO SRL）
+- 行业码 / 经营范围：网络 / 安防线缆与设备 进口网店（CNAE 4652）
+- 注册地址：Calle Laguna del Marquesado 12, Nave 11, 28021 Madrid
+- 规模档：小微（2–6 人）
+- 账目：年销售 ≈€0.5M；—
+- 高管：（未具名）— Administrador único（原 HAI NUO；推定华人业主）；收件人 info@cablewindow.com
+- 控制人 / 股东：未取
+- 曾用名：HAI NUO SRL
+- **这意味着什么：**
+  - **微型华人背景进口网店（卖国产 PoE；5 次无回）→ 分销 20% small，一页纸一次（英文稿；中文直联 Simon 定，默认否）；再无回声 → 不动**
+  - 收件人 info@；发信窗口 Thu 12–14 CET；稿内不点名 Utepo
+- 备注：分销 20% small；一页纸一次；坐实（CIF + 曾用名）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,9 +126,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Cablewindow（待核） |
+| 法定名称 | CABLEWINDOW SL（原名 HAI NUO SRL；商号 CABLE WINDOW；CIF B83027185） |
+| 成立 | 2001-06-15（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Spain |
-| 其他 | 已售中国同行 UTEPO |
+| 其他 | 已售中国同行 UTEPO；第 110 批：马德里 Pol. Ind. 网络 / 安防线缆设备进口网店（股本 €3,065；2–6 人；年销 ≈€0.5M；原名提示华人背景）→ **分销 20% small，一页纸一次（英文稿；中文直联 Simon 定，默认否）；再无回声 → 不动**；稿内不点名 Utepo（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / 安防设备网店
 - **触达通道（公开）**：role: 网店 / 分销（已售 UTEPO）；region: 西班牙

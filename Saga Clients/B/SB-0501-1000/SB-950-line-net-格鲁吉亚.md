@@ -77,6 +77,19 @@ updated: 2026-10-28
 
 - 法定假日：11-23 Saint George's Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 110 批（GE · 1 次检索：bia.ge/en/Company/95980（Linenet；LLC；VAT Number 404486757；Registration Date 05/02/2015；LEPL National Agency of Public Registry；Legal Address 0112 Tbilisi Tamar Mepe Ave. 13 Apt. 3；Status Operating；office 0194 Bakhtrioni str. 30；products video surveillance and security systems；fire-alarm installation；computer networks projection and installation；https://www.line-net.ge），2026-10-28 查；https://www.bia.ge/en/Company/95980）：**
+
+- 法定名 / 登记号：Linenet LLC（შპს；line-net.ge；第比利斯 法定 Tamar Mepe Ave. 13, Apt. 3, 0112 Didube-Chugureti；办公 Bakhtrioni str. 30, 0194 Vake-Saburtalo；识别码 / VAT 404486757）— 2015-02-05 在 NAPR 注册的网络 / 安防 / 消防系统设计与安装商（计算机网络设计安装、视频监控、门禁、火灾报警、电气工程）；KP Giorgi Beselia（giorgi@；WhatsApp 20 次未回）；表内「比较杂」 · 识别码 404486757 · 状态 **Operating** · 成立 2015-02-05 · LLC（შპს）
+- 行业码 / 经营范围：网络 / 安防 / 消防 系统设计与安装
+- 注册地址：Tamar Mepe Ave. 13, Apt. 3, 0112 Tbilisi（办公 Bakhtrioni str. 30, 0194）
+- 规模档：小微
+- 账目：—；—
+- 高管：Giorgi Beselia — 研究档 KP（giorgi@line-net.ge；WhatsApp 20 次未回）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安装商、WhatsApp 20 次 0 回复 → 已触达无回 → 不动（B 保留；主动询盘则预付款）**
+- 备注：坐实（识别码 + NAPR 日期）；多次 0 回复 → 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,16 +130,17 @@ updated: 2026-10-28
 - **【用户表】展会：先说的交换机 然后说 everything；2025-05 4 8 16 口工业 PoE→price 嫌贵**
   > 兴趣：展会：先说的交换机 然后说everything；回复：price 嫌贵
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Giorgi Beselia（）giorgi@line-net.ge +995 555 999 562〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Giorgi Beselia（研究档 KP；WhatsApp 20 次未回（第 110 批 官方登记核实 2026-10-28））giorgi@line-net.ge +995 555 999 562〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | LineNet（待核） |
+| 法定名称 | Linenet LLC（შპს；识别码 / VAT 404486757；NAPR） |
+| 成立 | 2015-02-05（第 110 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Georgia |
-| 其他 | 展会接触 |
+| 其他 | 展会接触；第 110 批：第比利斯 网络 / 安防 / 消防系统设计与安装商（bia.ge）→ **已触达、20 次 0 回复 → 不动（B 保留；主动询盘预付款）**（第 110 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备 / 工程（推断）
 - **触达通道（公开）**：role: 经销 / 工程；region: 格鲁吉亚
@@ -208,7 +222,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Giorgi Beselia | — | giorgi@line-net.ge / +995 555 999 562 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Giorgi Beselia | 研究档 KP；WhatsApp 20 次未回（第 110 批 官方登记核实 2026-10-28） | giorgi@line-net.ge / +995 555 999 562 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Giorgi Beselia | — | giorgi@line-net.ge / +995555999562 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
