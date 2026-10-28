@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 14
+  "count": 17
  },
  "rows": {
   "SA-023": {
@@ -485,6 +485,104 @@
    ],
    "notes": "",
    "code": "SB-250"
+  },
+  "SB-664": {
+   "batch": 93,
+   "name": "JM elektronik Sp. z o.o.（jm.pl；KRS 0000416117；Gliwice）— 元器件 / 自动化分销（ICP DAS）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：bizraport / rejestr.io（KRS 0000416117；NIP 6312645365；REGON 242895943；登记 2012-04-03；资本 1,000,000 zł；营收 2025 58.5 mln zł / 2024 58.2 / 2023 64.1；利润 236 tys. zł；资产 32.4 mln zł；PKD 46.90.Z）+ rejestrkrs（Prezes Sławomir Jarosław Pieszczek；Wiceprezes Teresa Jadwiga Suchoń）+ automatykab2b（2009 起 ICP DAS 授权分销）+ jm.pl 公司数据页（D-U-N-S 422187464）",
+   "url": "https://rejestr.io/krs/416117/jm-elektronik",
+   "number": "KRS 0000416117 / NIP 6312645365 / REGON 242895943",
+   "status": "Aktywna（2025 年报已提交 2026-06）",
+   "incorporated": "2012-04-03（Sp. z o.o.；业务更早）",
+   "company_type": "Sp. z o.o.（资本 1,000,000 zł）",
+   "sic": [
+    "46.90.Z 非专业化批发（电子元器件 + 工业自动化 ICP DAS；B2B 门户）"
+   ],
+   "address": "ul. Karolinki 58, 44-100 Gliwice",
+   "accounts": "2025：营收 58.5 mln zł、利润 0.24 mln、资产 32.4 mln（低利润率元器件分销）",
+   "accounts_due": "2026-07（PL 惯例）",
+   "size_band": "中型（营收 ≈58 mln zł ≈ $14M）",
+   "officers": [
+    "Sławomir Jarosław Pieszczek — Prezes Zarządu",
+    "Teresa Jadwiga Suchoń — Wiceprezes Zarządu"
+   ],
+   "psc": "未取（rejestr.io 受益人页未读）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**元器件广线分销（58 mln zł）、工业交换机走 ICP DAS（台湾）** → 大 broadline → B BIG：分销 20% 线、STI 工业 DIN 轨作第二货源，一页纸即可",
+    "利润率 0.4% → 对价格极敏感、对账期有要求 → T/T 预付会被拒，量不大时不值得让步",
+    "PL 复盘 7 月：2026 年报 + 是否仍挂 ICP DAS"
+   ],
+   "notes": "研究档「inhand 的 试试跟进」→ 工业路由 / 交换机兴趣确认；B 维持。",
+   "code": "SB-664"
+  },
+  "SB-1098": {
+   "batch": 93,
+   "name": "Zintronic Sp. z o.o.（zintronic.pl；KRS 0000690689；Białystok）— 自有品牌相机",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：rejestr.io / krs-pobierz / imsig（KRS 0000690689；NIP 9662114233；REGON 368007675；登记 2017-08-11；资本 5,000 zł；PKD 26.40.Z 消费电子生产；受益人 Marek Ziniewicz 4/5 股 + Dominika Talarczyk 1/5；最近 KRS 变更 2026-03-16 RDF）+ zintronic.pl 规则页（biuro@zintronic.pl；85 677 70 55）",
+   "url": "https://rejestr.io/krs/690689/zintronic",
+   "number": "KRS 0000690689 / NIP 9662114233 / REGON 368007675",
+   "status": "Aktywna（2025 年报 RDF 2026-03）",
+   "incorporated": "2017-08-11",
+   "company_type": "Sp. z o.o.（资本 5,000 zł）",
+   "sic": [
+    "26.40.Z 消费电子生产（自有品牌 Zintronic 相机 / 录像机 / 套装；网店）"
+   ],
+   "address": "ul. Karola Modzelewskiego 2, 15-535 Białystok",
+   "accounts": "RDF 已提交（金额未读）",
+   "accounts_due": "2026-07",
+   "size_band": "微型–小型（估 5–15 人）",
+   "officers": [
+    "Marek Ziniewicz — Prezes Zarządu / 80% 股东 = 老板",
+    "Dominika Talarczyk — 20% 股东"
+   ],
+   "psc": "Marek Ziniewicz 80% / Dominika Talarczyk 20%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌（PKD 生产类）+ 现供 Hasivo（深圳）PoE 交换机** → **OEM 30%：Zintronic 标 PoE 交换机一对一替代 Hasivo**（研究档「商业 PoE hasivo 的」）",
+    "老板 Marek Ziniewicz 80% → 一人拍板；写 biuro@ 点名 Prezes",
+    "资本 5,000 zł 微型 → MOQ 1 箱、T/T 预付；PL 复盘 7 月"
+   ],
+   "notes": "建议：PL 第二 OEM 候选（Spacetronik 之后）。",
+   "code": "SB-1098"
+  },
+  "SB-270": {
+   "batch": 93,
+   "name": "FHU DAMIX Damian Marciniak（damixsat.pl；Kościan）— 个体 SAT/RTV 网店",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：damixsat.pl o-firmie / regulamin / polityka（FHU DAMIX，CEIDG 个体；ul. Balcera 40, 64-000 Kościan；NIP 698-162-04-19；REGON 386854875；2006 起）+ yellowpages / firmagodnazaufania（DAMIX Damian Marciniak；旧 NIP 6981560781 / REGON 300273697）+ 首页「akcesoria Spacetronik」",
+   "url": "https://www.damixsat.pl/webpage/o-firmie.html",
+   "number": "NIP 6981620419 / REGON 386854875（CEIDG 个体；另见旧登记 NIP 6981560781）",
+   "status": "Aktywna（官网 2026-10 更新）",
+   "incorporated": "2006",
+   "company_type": "个体工商（CEIDG；FHU）",
+   "sic": [
+    "卫星 / RTV / 电脑配件网店 + 门店；Spacetronik 配件经销"
+   ],
+   "address": "ul. Balcera 40, 64-000 Kościan（wielkopolskie）",
+   "accounts": "—（个体）",
+   "accounts_due": "—",
+   "size_band": "微型（1–3 人）",
+   "officers": [
+    "Damian Marciniak — 业主"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体网店、交换机只是配件** → 不再投入，分销 20% 一页纸也不必单发；`when=不动`",
+    "它卖 Spacetronik（SB-092）配件 → 若 Spacetronik 做成 OEM，这类店会自动跟着卖",
+    "B 维持"
+   ],
+   "notes": "底数完整即可。",
+   "code": "SB-270"
   }
  }
 }

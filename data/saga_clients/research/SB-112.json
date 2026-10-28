@@ -45,14 +45,16 @@
    "title": "Vice President",
    "email": "damian@opax.pl",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "**误归属**：opax.pl = 波兰 Przytkowice 纸箱印刷厂 OPAX Sp. z o.o. Sp.k.（KRS 0000593709）的董事 Damian Brózda，与土耳其 Opax 无关 → 不发（第 93 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Aleksandar Radonic",
    "title": "COO",
    "email": "satis@opax.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Satış（销售；研究档）= 本户唯一有效收件人（第 93 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -63,8 +65,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 opax.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "İstanbul（街道地址未取）",
+  "other": "官网 opax.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 93 批：自有品牌报警（OPAX-W 系列 GSM / WiFi）+ 相机进出口 → OEM 30%：PoE 交换机贴 OPAX 标配报警 + 相机套装；研究档首 KP damian@opax.pl 误归属已标（第 93 批 官方登记核实 2026-10-28）",
+  "legal_name": "Opax Güvenlik Sistemleri Dış Tic. Ltd. Şti.（全名「Opax Mühendislik Kamera Alarm ve Güvenlik Sistemleri … Dış Ticaret Pazarlama Limited Şirketi」；页脚 Opax İthalat Dış Ticaret Ltd. Şti.）",
+  "founded": "2004（自述；页脚 2007 起）（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "小型（估 10–30 人）"
  },
  "business_lines": [
   "报警 / 无线火灾报警 / 摄像机与网络产品（自有品牌 OPAX）"

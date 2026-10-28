@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 21
+  "count": 25
  },
  "rows": {
   "SA-015": {
@@ -758,6 +758,139 @@
    ],
    "notes": "",
    "code": "SB-740"
+  },
+  "SB-017": {
+   "batch": 93,
+   "name": "SECURITYTEC LIMITED（securitytec.co.uk；Coulsdon, Surrey）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · securitytec.co.uk/about-us 页脚（Company Number 05585047）+ Companies House officers 页（05585047）；同名陷阱 SECURITYTEC LTD 10186386（Manchester，2017-02 注销）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05585047/officers",
+   "number": "05585047",
+   "status": "Active",
+   "incorporated": "2005-10-06",
+   "company_type": "Private limited company",
+   "sic": [
+    "80200 安防系统服务（Hikvision 授权批发 HIK00006690；CCTV / 门禁 / 对讲 / 报警 + 自有标 PoE 交换机网店）"
+   ],
+   "address": "Units 2 & 3 Redlands Centre, Redlands, Ullswater Industrial Estate, Coulsdon CR5 2HT（020 8660 5888）",
+   "accounts": "有 charges 页（抵押 / 贷款记录存在，未展开）",
+   "accounts_due": "未取",
+   "size_band": "微型（0–9 人，Kompass）",
+   "officers": [
+    "Graham David Smith — Director（1959-09 生，2005-10-06 起）= 研究档 KP graham@securitytec.co.uk = 老板",
+    "Katie Ann Smith — Secretary（2005-12-01 起；家族）"
+   ],
+   "psc": "未取（officers 页未含 PSC；两 Smith 大概率 100%）",
+   "charges": "存在（页面有 Charges 标签）",
+   "prev_names": [],
+   "lines": [
+    "**夫妻店 20 年、老板 Graham Smith 本人 = 研究档 KP**；自有标 PoE 交换机已在网店（NTP3-GSW0802S）→ **OEM 30%：8/16 口 PoE 贴 Securitytec 标**替换现款",
+    "Hikvision 授权批发 → 相机线不碰；只谈交换机",
+    "GB 复盘：accounts_due 下轮补（overview 页）"
+   ],
+   "notes": "第 93 批 GB 首户；PSC / accounts 下轮一次补齐。",
+   "code": "SB-017"
+  },
+  "SB-041": {
+   "batch": 93,
+   "name": "TELCAM FIRE & SECURITY LTD（12383574；London W7）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · Companies House officers 页（12383574）：2 officers / 1 resignation",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12383574/officers",
+   "number": "12383574",
+   "status": "Active",
+   "incorporated": "2020-01-02",
+   "company_type": "Private limited company",
+   "sic": [
+    "安防安装（Texecom 报警、门禁、CCTV、火灾报警 — 火灾主系统守界不供）"
+   ],
+   "address": "5 Broadway Buildings, Boston Road, London W7 3TT",
+   "accounts": "未取",
+   "accounts_due": "未取",
+   "size_band": "微型（1–5 人）",
+   "officers": [
+    "John Dhunay — Director（1969-05 生，2020-01-02 起，在任）",
+    "Rajinder Singh Dhunay — Director（2020-01-02 起，**2026-02-23 辞任**）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "Telcam Security Services Ltd（研究档）"
+   ],
+   "lines": [
+    "**Dhunay 家族安装商，2026-02 一名董事退出 → 现为一人公司** → 小项目集成商（目标客户序列末位），分销 20% 线一页纸即可",
+    "火灾报警是其主业之一 → 守界：只谈 CCTV 配套 PoE，不碰火灾",
+    "B 维持、年度复核"
+   ],
+   "notes": "无需再查。",
+   "code": "SB-041"
+  },
+  "SB-063": {
+   "batch": 93,
+   "name": "AVESTA (MANCHESTER) LTD（07964960；HiLook 授权分销）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · Companies House officers 页（07964960）：3 officers / 2 resignations；页面含 Charges 标签",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07964960/officers",
+   "number": "07964960",
+   "status": "Active",
+   "incorporated": "2012-02-24",
+   "company_type": "Private limited company",
+   "sic": [
+    "安防产品分销（HiLook UK 授权分销；64 Waterloo Road, Manchester）"
+   ],
+   "address": "64 Waterloo Road, Manchester（研究档）；董事通讯地址 6 Hasper Avenue, Manchester M20 1AX",
+   "accounts": "未取",
+   "accounts_due": "未取",
+   "size_band": "微型（1–9 人）",
+   "officers": [
+    "Javid Aria — Director（1982-09 生，英国籍，2013-11-11 起在任）= 老板",
+    "Farima Aria — Director（阿富汗籍，2012-02-24 → 2013-12-12 辞任；家族）"
+   ],
+   "psc": "未取",
+   "charges": "存在（Charges 标签）",
+   "prev_names": [],
+   "lines": [
+    "**一人公司（Javid Aria）、HiLook（海康子品牌）授权分销** → 相机线是海康的，PoE 交换机可换 → 分销 20% 线：8/16 口 PoE 一页纸",
+    "有 charges（抵押）→ 现金紧、看价格；T/T 50/50 坚持",
+    "B 维持、年度复核"
+   ],
+   "notes": "无需再查。",
+   "code": "SB-063"
+  },
+  "SB-076": {
+   "batch": 93,
+   "name": "IST SURVEILLANCE LTD（11228236；London N5）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · Companies House officers 页（11228236）：1 officer / 0 resignations",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11228236/officers",
+   "number": "11228236",
+   "status": "Active",
+   "incorporated": "2018-02-27",
+   "company_type": "Private limited company",
+   "sic": [
+    "82990 其他商业支持服务（研究档）；监控安装 / 转售"
+   ],
+   "address": "Office 408, Screenworks, 22 Highbury Grove, London N5 2ER",
+   "accounts": "账目截至 2025-04-30 应于 2026-01-31 前提交（研究档）",
+   "accounts_due": "2026-01-31（上期）",
+   "size_band": "微型（1 人）",
+   "officers": [
+    "Senay Huseyin Bozaci — Director（1980-01 生，英国籍，2018-02-27 起，唯一董事）"
+   ],
+   "psc": "未取（唯一董事 → 大概率 100%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一人公司、17 次推送 0 回复** → 底数已清：不再投入，`when=不动`",
+    "若日后回信：唯一董事 Bozaci 即拍板人",
+    "B 维持"
+   ],
+   "notes": "17 次推送 0 回复 → 不动；本行只为底数完整。",
+   "code": "SB-076"
   }
  }
 }

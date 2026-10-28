@@ -59,6 +59,13 @@
    "email": "",
    "phone": "",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "John Dhunay",
+   "role": "Director（2020-01-02 起；1969-05 生；Companies House 12383574；唯一在任 —— Rajinder Singh Dhunay 2026-02-23 辞任）= 老板（第 93 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/12383574/officers"
   }
  ],
  "grade_override": "B",
@@ -70,10 +77,12 @@
   "level": "B 级加厚 v1（官网 + Companies House 核对）"
  },
  "company_facts": {
-  "legal_name": "Telcam Fire & Security Ltd（12383574，2020-01-02；曾名 Telcam Security Services Ltd）；运营主体 Tel-Cam Security System Ltd（04066468，2000-09-06）",
-  "hq": "5 Broadway Buildings, Boston Road, Hanwell, London W7 3TT（020 8840 2111；WhatsApp 07388 351670；safety@telcam.co.uk）",
+  "legal_name": "TELCAM FIRE & SECURITY LTD（Companies House 12383574；曾名 Telcam Security Services Ltd）",
+  "hq": "5 Broadway Buildings, Boston Road, London W7 3TT",
   "size": "11–50（LinkedIn）；2,500+ 客户（自述）",
-  "other": "Texecom 入侵报警安装；门禁、CCTV、火灾报警（守界：火灾主系统不供）、保险柜、闸门；2026-02 一名董事辞任"
+  "other": "Texecom 入侵报警安装；门禁、CCTV、火灾报警（守界：火灾主系统不供）、保险柜、闸门；2026-02 一名董事辞任；第 93 批：Dhunay 家族安装商，2026-02 一董事退出 → 一人公司；火灾报警守界不碰，只谈 CCTV 配套 PoE；小项目集成商序列末位（第 93 批 官方登记核实 2026-10-28）",
+  "founded": "2020-01-02（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "微型（1–5 人）"
  },
  "business_lines": [
   "入侵报警 / 门禁 / 专项 CCTV 安装与维护",

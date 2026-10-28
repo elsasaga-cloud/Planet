@@ -40,7 +40,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Raif Gündüz",
+   "role": "Genel Müdür（Perpa 名录）= 老板 = 拍板人（邮箱未公开 → info@rfteknoloji.com.tr 点名）（第 93 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.perpaonline.com/tr/firma.aspx?fid=2654"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -49,8 +57,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 rfteknoloji.com.tr，语言 tr-tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Tevfik Bey Mah. Şehit Adem Tamrak Sk. No:2/5, Sefaköy / Küçükçekmece / İstanbul",
+  "other": "官网 rfteknoloji.com.tr，语言 tr-tr，快照状态 ok；角色判定来源：官网文案；第 93 批：工业无线（CalAmp 代理）+ 3onedata 工业交换机分销 → 已有深圳工业货源 → 分销 20%：STI DIN 轨 PoE 作第二货源一页纸（第 93 批 官方登记核实 2026-10-28）",
+  "legal_name": "RF Teknoloji Makine ve Otomasyon San. Tic. Ltd. Şti.",
+  "founded": "2012（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "微型（估 3–10 人）"
  },
  "business_lines": [
   "RF 数据电台 / 工业蜂窝路由（CalAmp）",

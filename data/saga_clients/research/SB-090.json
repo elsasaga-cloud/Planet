@@ -27,11 +27,12 @@
  ],
  "kp": [
   {
-   "name": "Zain Ullah",
+   "name": "Zain (Sana) Ullah",
    "title": "Operations Engineer",
    "email": "zain@adlerss.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Operations Engineer（signalhire）= 技术口（非采购）→ 技术切入：宽温 / PoE 预算 / SFP 兼容（第 93 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -42,8 +43,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 adlerss.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "Schwetzinger Str. 103, 68766 Hockenheim",
+  "other": "官网 adlerss.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 93 批：自有品牌 IP / 热成像相机制造商 → 交换机是系统部件 → OEM 30%：工业 PoE / 光口交换机贴 Adler 标配太阳能独立站；边境 / 政府项目制 → 量不稳；军用整机不碰（第 93 批 官方登记核实 2026-10-28）",
+  "legal_name": "Adler ELREHA GmbH t/a Adler Security Systems（Hockenheim；HRB 1 次未取 → 下轮 Northdata 直链；约旦 Elreha 集团子公司 + 美国 Adler Systems LLC, St Petersburg FL）",
+  "founded": "2012 / 2013（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "小型（11–50 人）"
  },
  "business_lines": [
   "（待核，德国）"

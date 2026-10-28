@@ -45,7 +45,15 @@
    "title": "Sales Director",
    "email": "ben.larue@getscw.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未取；31–50 人公司有采购岗）（第 93 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Matthew Nederlanden",
+   "role": "CEO / President / 创始人（2009 接手；INC 5000；BBB / SAM 登记负责人）= 拍板人，抄送（第 93 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.bbb.org/us/nc/asheville/profile/security-cameras/security-camera-warehouse-inc-0473-92005262"
   }
  ],
  "grade_override": null,
@@ -56,8 +64,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 getscw.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "11 Richland St, Asheville, NC 28806",
+  "other": "官网 getscw.com，语言 en，快照状态 ok；角色判定来源：用户表；第 93 批：自有品牌 SCW + 联邦（海军）供应商 = NDAA 敏感 → 政府线不碰、只走商用线 OEM 30%（SCW 标 PoE 配自家相机）；卖点写保修 + 固件长期供应（第 93 批 官方登记核实 2026-10-28）",
+  "legal_name": "Security Camera Warehouse, Inc.（SCW；北卡 S Corporation；SAM UEI RR46YDVKTNJ1 / CAGE 6ELB6）",
+  "founded": "2009-09-01（业务）/ 2010-10-05（SAM）/ 2016-07-26（公司）（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "31–50 人（BBB 33）"
  },
  "business_lines": [
   "商用安防摄像机 / NVR / 门禁（自有品牌 SCW）",

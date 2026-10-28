@@ -59,7 +59,7 @@
  "kp": [
   {
    "name": "Mathias Gottensträter",
-   "role": "CEO / Owner",
+   "role": "Inhaber / CEO（个体工商 Gewerbebetrieb；Creditreform：1 Inhaber、Außenhandel / Import）= 老板 = 联系人（第 93 批 官方登记核实 2026-10-28）",
    "email": "communication@voipdistri.com",
    "phone": "+49 5201 730030",
    "source": "用户 Clients 表 + Impressum"
@@ -74,11 +74,12 @@
   "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
  },
  "company_facts": {
-  "legal_name": "VoIPDistri.com – Voice over IP Distribution（Inh. Mathias Gottensträter）",
-  "founded": "2003",
-  "hq": "Halle (Westfalen), Germany（+49 5201 730030）",
+  "legal_name": "Mathias Gottensträter VoIPDistri.com（Einzelunternehmen；无 HRB；USt-IdNr. DE814065254）",
+  "founded": "≈2003–2010（VoIPphones.de 编辑后创业）（第 93 批 官方登记核实 2026-10-28）",
+  "hq": "Im Hagen 3, 33790 Halle (Westfalen)",
   "size": "小型（业主经营）",
-  "other": "网店 voip.world / shop.voipdistri.com；Teltonika/Yealink/Grandstream 等官方分销；已售 E-link 工业交换机"
+  "other": "网店 voip.world / shop.voipdistri.com；Teltonika/Yealink/Grandstream 等官方分销；已售 E-link 工业交换机；第 93 批：一人 VoIP 增值分销、自营进口 → 分销 20%：工业 M12 / DIN 轨 PoE 作第二货源；T/T 预付坚持（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "微型（1 人 + 兼职）"
  },
  "business_lines": [
   "VoIP 话机/系统网店分销（Akuvox、Yealink、Grandstream、Fanvil 等）",

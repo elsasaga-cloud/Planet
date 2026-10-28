@@ -29,7 +29,8 @@
    "title": "CEO",
    "email": "jalasad@it2ss.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO / President（兼 VastMed LLC CEO；Alasad 家族多元集团老板）= 拍板人（第 93 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -40,8 +41,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 it2ss.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "807 S. Great Southwest Pkwy, Grand Prairie, TX 75051",
+  "other": "官网 it2ss.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 93 批：医疗 / 电商 / 建筑 / 安防 IT / 中美跨境多元集团 → 有进口经验、老板直联；安防只是一条线，量小 → 分销 20% 工业 PoE 一页纸（第 93 批 官方登记核实 2026-10-28）",
+  "legal_name": "ITSS Inc.（it2ss.com；Grand Prairie, TX；德州登记号未取）—— 同名陷阱：ITSS Inc. Goldsboro NC（itss.us）/ 瑞士 ITSS（银行软件）",
+  "founded": "2003（自述）（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "微型（安防 / IT 线 ≤10 人）"
  },
  "business_lines": [
   "IT 方案 / 贸易（美国）"

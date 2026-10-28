@@ -43,7 +43,8 @@
    "title": "Sales",
    "email": "mark@fibermailbox.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未取；8–15 人老店，回信即拍板层）（第 93 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 fiberopticcableshop.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "136 South Second Street, Richmond, CA 94804",
+  "other": "官网 fiberopticcableshop.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 93 批：50 年老店、自产光纤组件 + 自有标 MC / 机架 / 交换机 → OEM 30% 只做 MC + 机架 MC 机箱 + 光口小交换机；主品类 SFP / 光缆不供（第 93 批 官方登记核实 2026-10-28）",
+  "legal_name": "Fiber Optic Cable Shop（dba；Sales@FiberMailbox.com；加州法定名 / 登记号未取）",
+  "founded": "1976（自述；三次 INC 500）（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "8–15 人（ZoomInfo 8 / photonics 15；15,000 sq ft）"
  },
  "business_lines": [
   "光纤跳线 / 适配器 / MC / SFP 网店（自有标）"

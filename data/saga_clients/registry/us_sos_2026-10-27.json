@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 40
+  "count": 45
  },
  "rows": {
   "SA-002": {
@@ -1360,6 +1360,172 @@
    ],
    "notes": "第三方 11–50 人数疑虚高；按微型处理（100% 预付）。",
    "code": "SB-362"
+  },
+  "SB-150": {
+   "batch": 93,
+   "name": "Nexxus（nexxus.cc）— 1 次未命中",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索「Nexxus nexxus.cc industrial Ethernet switch」：返回全是同名他户（墨西哥工业地产 Nexxus、马萨诸塞软件 The Nexxus Group、Nexius 电信、护发品牌 Nexxus）；唯一同品类线索 nexxusnetworks.com（「第一家智能 PoE 制造商，17 年」，2024-04）域名不同、未证同一",
+   "url": "https://nexxusnetworks.com/home-2/",
+   "number": "未取",
+   "status": "未命中（域 nexxus.cc 无法与任何登记主体对上）",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "（研究档）ONV 工业 FS 贴自有标"
+   ],
+   "address": "USA（州 / 城市未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "—",
+   "officers": [],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一次检索未命中 → 按规程停**；nexxus.cc 与 nexxusnetworks.com 是否同一家待下轮一次直查（Impressum / WHOIS 镜像）",
+    "同名陷阱极多（护发品牌 / 地产 / 软件 / 电信），任何第三方「Nexxus」营收 / 人数都不可用",
+    "不影响跟进：研究档已有「工业 FS 贴标」兴趣 → 仍按 OEM 30% 一页纸等回信"
+   ],
+   "notes": "第 93 批 1 次未命中；下轮若再 1 次不中则永久标「底数不可查」。",
+   "code": "SB-150"
+  },
+  "SB-353": {
+   "batch": 93,
+   "name": "Fiber Optic Cable Shop（fiberopticcableshop.com / FiberMailbox.com；Richmond CA）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：fiberopticcableshop.com 首页 + about（1976 年起、三次 INC 500、Richmond CA 地址、Sales@FiberMailbox.com）+ photonics.com 公司页（1976 / 15 人 / 15,000 sq ft / 私有）+ ZoomInfo（8 人；Gerry Schumacher、Paul Fletcher）",
+   "url": "https://www.fiberopticcableshop.com/about-fiber-optic-cable-shop.html",
+   "number": "加州登记号未取（CA SoS 为 JS 页）",
+   "status": "Active（官网在售、2024-11 快照）",
+   "incorporated": "1976（业务起点；法人类型未取）",
+   "company_type": "私有公司（dba Fiber Optic Cable Shop；法定名未取）",
+   "sic": [
+    "光纤跳线 / 配线 / MC / 光纤交换机制造 + 网店零售（SIC 33/335）"
+   ],
+   "address": "136 South Second Street, Richmond, CA 94804（800-777-6269 / 510-234-9090）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型–小型（8–15 人；营收 <$5M 第三方区间）",
+   "officers": [
+    "Mark W（研究档 KP，mark@fibermailbox.com）— 职务未取",
+    "Gerry Schumacher / Paul Fletcher — ZoomInfo 列为主要员工（职务未取）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**50 年老店、自产光纤组件 + 自有标 MC / 机架 / 交换机**（研究档「14 槽机架 MC 自己的标」）→ **OEM 30%：MC + 机架式 MC 机箱 + 小口数光纤口交换机**贴他们的标；主品类 SFP / 光缆 Saga 不供，只做交换机 / MC 一条线",
+    "8–15 人、老板型公司 → 回信即拍板；写 mark@（研究档已有）抄 Sales@FiberMailbox.com",
+    "加州实体 → 发信窗口 Wed 08–10 PT；年度复核看官网是否仍更新"
+   ],
+   "notes": "法定名 / 州登记号未取（CA SoS JS）；不再追。",
+   "code": "SB-353"
+  },
+  "SB-730": {
+   "batch": 93,
+   "name": "ITSS Inc.（it2ss.com；Grand Prairie TX）— Alasad 家族多元集团",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：it2ss.com 首页（2003 年创立；医疗 / 电商 / 建筑 / 安防 IT / 中美跨境多元集团；807 S. Great Southwest Pkwy, Grand Prairie TX 75051；+1 916 238 6844）+ RocketReach VastMed LLC（Jehad Alasad CEO/President，Mahmoud Alasad COO，Grand Prairie）；同名陷阱：ITSS Inc. Goldsboro NC（itss.us，2002）、瑞士 ITSS（银行软件）",
+   "url": "http://it2ss.com/",
+   "number": "TX 登记号未取（TX SoS 付费）",
+   "status": "Active（官网 2026 在线）",
+   "incorporated": "2003（自述）",
+   "company_type": "Inc.（德州公司，法定全名未取）",
+   "sic": [
+    "多元控股：医疗耗材（VastMed）、电商、建筑、安防 / IT、中美跨境贸易"
+   ],
+   "address": "807 S. Great Southwest Pkwy, Grand Prairie, TX 75051",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（安防 / IT 线 ≤10 人；VastMed 9 人）",
+   "officers": [
+    "Jehad Alasad — CEO / President（研究档 KP jalasad@it2ss.com；兼 VastMed LLC CEO）= 老板",
+    "Mahmoud Alasad — COO（VastMed；家族成员）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板直联（Jehad Alasad 本人）+ 自述「中美跨境供应链」= 有进口经验** → 分销 20% 线：工业 PoE 交换机小批量（研究档「PoE 工业级」），一页纸 + 现货期",
+    "多元集团、安防只是一条线 → 量小、不稳定；别投入超过 2 封信",
+    "同名陷阱：北卡 ITSS Inc.（itss.us）与瑞士 ITSS 都不是；第三方「1,072 人」数据是瑞士那家，不可用"
+   ],
+   "notes": "德州登记号未取（TX SoS 付费）；不再追。",
+   "code": "SB-730"
+  },
+  "SB-756": {
+   "batch": 93,
+   "name": "FluxLight, Inc.（fluxlight.com；Irving / Dallas TX）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：fluxlight.com/about-us（2003 年 Irving TX 创立；光互连产品：收发器 / MC / 跳线；25,000+ 订单）+ BBB（Business Started 2004-12-15；Incorporated 2007-08-17；Corporation；Anthony Farinholt CEO & Director，Denise Farinholt Director）+ RocketReach / LinkedIn（6 人；Tony Farinholt Owner & President，Dominic Farinholt VP，Denise Farinholt CFO，Mark Mulvaney Dir. Ops）",
+   "url": "https://www.bbb.org/us/tx/irving/profile/fiber-optics/fluxlight-inc-0875-90796041",
+   "number": "TX 登记号未取（BBB 记 Incorporated 2007-08-17）",
+   "status": "Active（BBB 档案 + 官网在线）",
+   "incorporated": "2007-08-17（公司；业务始于 2003 / 2004-12）",
+   "company_type": "Corporation（德州）",
+   "sic": [
+    "光收发器 / MC / 跳线 自有品牌（FluxLight）制造 + 直销"
+   ],
+   "address": "2035 Royal Ln Suite 280, Dallas, TX 75229（BBB 记 Irving）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（6 人；营收 $1M 第三方估）",
+   "officers": [
+    "Anthony (Tony) Farinholt — Owner & President / CEO & Director",
+    "Denise Farinholt — CFO / Director（家族）",
+    "Dominic Farinholt — Vice President（家族）",
+    "Mark Mulvaney — Director of Operations"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Farinholt 家族 6 人公司、自有品牌 FluxLight（主品类 SFP，Saga 不供）**；研究档「MC + 机架 自己的 logo」→ 只剩 **OEM 30%：MC / 机架式 MC 机箱 + 光口小交换机**一条线",
+    "写 Tony Farinholt（老板）或 Mark Mulvaney（运营）；研究档无邮箱 → 先用官网表单 / sales@ 公域，不编邮箱",
+    "微型 → B 档维持；年度复核即可"
+   ],
+   "notes": "第三方营收（$1M / $5–10M）互相矛盾，只记「微型」。",
+   "code": "SB-756"
+  },
+  "SB-761": {
+   "batch": 93,
+   "name": "Security Camera Warehouse, Inc.（SCW；getscw.com；Asheville NC）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：BBB（Business Started 2009-09-01；Incorporated 2016-07-26；Corporation；Matthew Nederlanden President，Micah Shearer Secretary，Christopher M. Craig；33 人）+ HigherGov / GovTribe（UEI RR46YDVKTNJ1，CAGE 6ELB6，S 公司，2011-06 起联邦供应商，海军为主）+ Inc.com（INC 5000，2010 创立）+ getscw.com/about（15 年、Asheville）+ Capital at Play 2019（Nederlanden 从营销顾问接手跑路创始人的公司）",
+   "url": "https://www.bbb.org/us/nc/asheville/profile/security-cameras/security-camera-warehouse-inc-0473-92005262",
+   "number": "UEI RR46YDVKTNJ1 / CAGE 6ELB6（SAM 联邦登记）",
+   "status": "Active（SAM 在册、INC 5000）",
+   "incorporated": "2016-07-26（公司；业务始于 2009-09 / 2010-10）",
+   "company_type": "S Corporation（北卡）",
+   "sic": [
+    "NAICS 561621 安防系统服务：自有品牌 SCW 相机 / NVR + Survail VSaaS + 安装；联邦（海军）供应商"
+   ],
+   "address": "11 Richland St, Asheville, NC 28806（828-483-4237）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（31–50 人；第三方营收 ≈$7.7M 区间）",
+   "officers": [
+    "Matthew Nederlanden — CEO / President / 创始人（2009 接手）",
+    "Micah Shearer — Secretary",
+    "Christopher M. Craig — 管理层（BBB）",
+    "Benjamin Larue — 研究档 KP ben.larue@getscw.com（职务未取）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 SCW + 联邦（海军）供应商 = 对 NDAA 敏感**：政府线我们进不去（Saga 不做任何 NDAA / TAA 声明），**只能走商用线 OEM 30%：SCW 标 PoE 交换机**配自家相机套装",
+    "31–50 人、INC 5000 成长型 → 有采购岗（研究档 KP Larue）；信里只谈商用客户用的 8/16/24 口 PoE，不碰联邦",
+    "Nederlanden 是营销出身的老板，看重软件 / 服务 → 卖点写「保修 + 固件长期供应」而非价格"
+   ],
+   "notes": "INC 5000 / 联邦供应商 = 公开可核；营收只记区间。",
+   "code": "SB-761"
   }
  }
 }

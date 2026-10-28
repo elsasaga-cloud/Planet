@@ -39,7 +39,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Semih Sengir",
+   "role": "电商店铺登记人（n11 / PttAVM：个体 Proses Bilgisayar）= 老板（第 93 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.n11.com/magaza/lemaxguvenlik"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -48,8 +56,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 lemaxguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Üsküdar Cad. 127C, Kartal / İstanbul",
+  "other": "官网 lemaxguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 93 批：微型网店、相机套装贴 Lemax 标、价格敏感 → 分销 20% 一页纸后不再投入（第 93 批 官方登记核实 2026-10-28）",
+  "legal_name": "Lemax Güvenlik ve Bilişim Sistemleri Toptan Satış Paz. İç ve Dış Tic. Ltd. Şti.（+ 个体 Semih Sengir 双主体）",
+  "founded": "2007–2012（自述四个版本）（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "微型（1–5 人）"
  },
  "business_lines": [
   "安防摄像机套装网店"

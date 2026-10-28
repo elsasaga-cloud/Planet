@@ -40,7 +40,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Fadime Maden",
+   "role": "Purchasing Manager（采购经理；RocketReach）= **对口收件人**（邮箱未公开 → info@ 点名；GM Hakan Kasap 抄送；董事会成员 Kerim Yeşilyurt）（第 93 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://rocketreach.co/han-elektronik-profile_b40780acfc251b05"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -49,8 +57,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 hanelektronik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Mehmet Akif Mah. Bahariye Cad. 1904 Sk. No:15/A, Küçükçekmece / İstanbul 34307",
+  "other": "官网 hanelektronik.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 93 批：A.Ş.、自有品牌含交换机、专职采购经理 → OEM 30% 首选：Han 标 PoE 一对一替代现深圳货（研究档「hisource」）；bayi 网络 = 他们自己是分销（Q-33 其 bayi 不碰）；回信即 A 候选（第 93 批 官方登记核实 2026-10-28）",
+  "legal_name": "Han Elektronik Bilgisayar ve Güvenlik Sistemleri San. Tic. A.Ş.（EMIS）",
+  "founded": "2003-06-25（EMIS；LinkedIn 2000）（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "20–52 人（集团自述 Han Grup 40 人）"
  },
  "business_lines": [
   "安防方案（摄像机 / NVR / 太阳能 Wi-Fi 摄像机）",

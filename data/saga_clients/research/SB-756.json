@@ -47,7 +47,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Anthony (Tony) Farinholt",
+   "role": "Owner & President / CEO & Director（BBB；家族公司：Denise Farinholt CFO、Dominic Farinholt VP；Mark Mulvaney Dir. Ops）= 老板 = 联系人（邮箱未公开，走官网表单 / sales@）（第 93 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.bbb.org/us/tx/irving/profile/fiber-optics/fluxlight-inc-0875-90796041"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -56,8 +64,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 fluxlight.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "2035 Royal Ln Suite 280, Dallas, TX 75229（Irving）",
+  "other": "官网 fluxlight.com，语言 en，快照状态 ok；角色判定来源：用户表；第 93 批：自有品牌 FluxLight 光收发器 / MC → OEM 30% 只剩 MC / 机架 MC 机箱 + 光口小交换机一条线；微型（第 93 批 官方登记核实 2026-10-28）",
+  "legal_name": "FluxLight, Inc.（德州 Corporation；BBB：Incorporated 2007-08-17）",
+  "founded": "2003 / 2004-12-15（业务）；2007-08-17（公司）（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "6 人（家族）"
  },
  "business_lines": [
   "兼容光模块 / DAC / MC（自有品牌 FluxLight）"

@@ -55,14 +55,14 @@
  "kp": [
   {
    "name": "Carsten Simons",
-   "role": "Geschäftsführer（行业媒体公开）",
+   "role": "Geschäftsführer（2021-03 登记单独代表权；创始人型）= 老板（第 93 批 官方登记核实 2026-10-28）",
    "email": "info@liveye.com（公司公开）",
    "phone": "—",
    "source": "https://git-sicherheit.de/de/business-partner/liveye-gmbh/"
   },
   {
    "name": "Markus Diederichs",
-   "role": "Geschäftsführer（2025-10 起；行业媒体公开）",
+   "role": "Geschäftsführer（**2025-09 起**，与 Carsten Simons 共同；前 BDO Cyber Security；主推「自研 / 德国制造 / 主权」；HRB 44506 Wittlich）= 新拍板人（第 93 批 官方登记核实 2026-10-28）",
    "email": "—（未公开）",
    "phone": "—",
    "source": "https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung"
@@ -77,11 +77,12 @@
   "level": "B 级加厚 v1（官网 + 行业媒体核对）"
  },
  "company_facts": {
-  "legal_name": "LivEye GmbH",
-  "founded": "2018（品牌）/ 2019（GmbH）",
-  "hq": "Europa-Allee 56b（另见 27），54343 Föhren, Germany（info@liveye.com）；生产基地 Badem（2024）",
+  "legal_name": "LivEye GmbH（AG Wittlich HRB 44506；USt DE321392908；D-U-N-S 315185493；控股 LivEye Beteiligungs GmbH HRB 46290）",
+  "founded": "2018（Indeed）（第 93 批 官方登记核实 2026-10-28）",
+  "hq": "Europa-Allee 56b, 54343 Föhren",
   "size": "约 95 人（GIT）～130+（自述 2025）；51–200（LinkedIn）；营收估 €3.5M（旧口径）",
-  "other": "Nord Holding 持股 70%（2022-09）；ISO 14001；协会 BHE/BDSW/ASW/VDBUM；NSTR 订阅制长期安装"
+  "other": "Nord Holding 持股 70%（2022-09）；ISO 14001；协会 BHE/BDSW/ASW/VDBUM；NSTR 订阅制长期安装；第 93 批：移动监控塔制造商 → PoE 交换机是塔内部件 → OEM / 部件 30%：工业小口数宽温 PoE（付费样机验证）；新 GF 主打「摆脱全球供应链」→ 卖点写长期供货 + 固件 + 3 年保修，不提产地（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "≈95 人、5 地点（DACH + 波兰）；营收 €4–21M 区间"
  },
  "business_lines": [
   "移动视频监控塔研发制造（PRO 2.0、PRO SOLAR、ONE+、LIGHT+、FALCON、DOCU）",

@@ -23,7 +23,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Senay Huseyin Bozaci",
+   "role": "Director（2018-02-27 起；1980-01 生；Companies House 11228236；唯一董事）= 拍板人（17 次推送 0 回复 → 不动）（第 93 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/11228236/officers"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -32,10 +40,12 @@
   "level": "B 级加厚 v1（Companies House 核对 · 官网不可见）"
  },
  "company_facts": {
-  "legal_name": "IST Surveillance Ltd（Companies House 11228236，2018-02-27；SIC 82990）",
-  "hq": "Office 408, Screenworks, 22 Highbury Grove, London N5 2ER, UK",
+  "legal_name": "IST SURVEILLANCE LTD（Companies House 11228236）",
+  "hq": "Office 408, Screenworks, 22 Highbury Grove, London N5 2ER",
   "size": "微型（共享办公地址）",
-  "other": "账目截至 2025-04-30 应于 2026-01-31 前提交"
+  "other": "账目截至 2025-04-30 应于 2026-01-31 前提交；第 93 批：一人公司、17 次推送 0 回复 → 底数已清，不再投入（第 93 批 官方登记核实 2026-10-28）",
+  "founded": "2018-02-27（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "微型（1 人）"
  },
  "business_lines": [
   "监控/安防服务（细节不可核）"

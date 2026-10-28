@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 37
+  "count": 41
  },
  "rows": {
   "SA-086": {
@@ -1219,6 +1219,138 @@
    ],
    "notes": "",
    "code": "SB-866"
+  },
+  "SB-112": {
+   "batch": 93,
+   "name": "Opax Güvenlik Sistemleri Dış Tic. Ltd. Şti.（opax.com；İstanbul）— 研究档 KP damian@opax.pl 误归属",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：opax.com 用户协议页（法定全名「Opax Mühendislik Kamera Alarm ve Güvenlik Sistemleri … Dış Ticaret Pazarlama Limited Şirketi」/「OPAX GÜVENLİK SİSTEMLERİ DIŞ TİC. LTD. ŞTİ.」）+ 页脚「Opax İthalat Dış Ticaret Ltd. Şti. 2007-2022」+ YouTube 自述 2004 年创立（OPAX-W20 GSM/WiFi 报警）；**opax.pl = 波兰 Przytkowice 纸箱印刷厂 OPAX Sp. z o.o. Sp.k.（KRS 0000593709），Damian Brózda 是其董事会成员 → 与土耳其 Opax 无关**",
+   "url": "https://www.opax.com/kullanici/hesap.aspx",
+   "number": "Mersis / VKN 未取",
+   "status": "Aktif（官网在线）",
+   "incorporated": "2004（自述；页脚 2007 起）",
+   "company_type": "Limited Şirket",
+   "sic": [
+    "报警系统自有品牌 OPAX（GPRS / GSM / WiFi 无线报警）+ 相机 / 安防进出口"
+   ],
+   "address": "İstanbul（街道地址未取；客服 0 444 9890）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（估 10–30 人）",
+   "officers": [
+    "Aleksandar Radonic — satis@opax.com（研究档 KP，销售）",
+    "**Damian Brózda / damian@opax.pl — 误归属：波兰纸箱厂 OPAX 的董事，删除**"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**国别 TR 正确；研究档第一 KP 是波兰同名包装厂的人 → 误归属，改写 satis@opax.com**",
+    "自有品牌报警商（OPAX-W 系列）→ PoE 交换机只是配套（研究档「商业 PoE 用洪瑞的」）→ **OEM 30%：8/16 口 PoE 贴 OPAX 标**配报警 + 相机套装",
+    "老板姓名未公开 → 写 satış / satın alma；季度复核域名即可"
+   ],
+   "notes": "kp 修正通过 patches/batch93_kp.py 落地（Damian Brózda 标 误归属）。",
+   "code": "SB-112"
+  },
+  "SB-276": {
+   "batch": 93,
+   "name": "Han Elektronik Bilgisayar ve Güvenlik Sistemleri San. Tic. A.Ş.（hanelektronik.com；Küçükçekmece / İstanbul）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：EMIS（法定全名；成立 2003-06-25；20 人 2026；Mehmet Akif Mah. 1904 Sk. No:15-15/A Küçükçekmece 34307）+ hanelektronik.com/iletisim（HAN ELEKTRONİK A.Ş. 地址）+ bayimiz-olun（「Han Grup 40 人、百万美元营收」）+ RocketReach（Hakan Kasap G.Müdür；Fadime Maden Purchasing Manager）+ LinkedIn（2000 / 51–200；Kerim Yeşilyurt 董事会成员）",
+   "url": "https://www.emis.com/php/company-profile/TR/Han_Elektronik_Bilgisayar_Ve_Guvenlik_Sistemleri_Sanayi_Ticaret_AS_en_3355230.html",
+   "number": "Mersis / VKN 未取",
+   "status": "Aktif（官网 / LinkedIn 活跃；444 1 426）",
+   "incorporated": "2003-06-25（EMIS；LinkedIn 记 2000）",
+   "company_type": "Anonim Şirket",
+   "sic": [
+    "安防批发 + 自有品牌（相机 / 录像机 / 交换机 / 无线 / 火灾报警 / IoT）；经销商网络（bayi）"
+   ],
+   "address": "Mehmet Akif Mah. Bahariye Cad. (Basın Ekspres Yolu) 1904 Sk. No:15/A, Küçükçekmece / İstanbul 34307",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（20–52 人；集团自述 40 人）",
+   "officers": [
+    "Hakan Kasap — Genel Müdür",
+    "Fadime Maden — Purchasing Manager（采购经理）= 对口",
+    "Kerim Yeşilyurt — Yönetim Kurulu Üyesi（董事会成员）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**A.Ş.、40 人、自有品牌含交换机、有专职采购经理（Fadime Maden）** → **OEM 30% 首选：Han 标 PoE 交换机**（研究档「商业 PoE 看着是 hisource 的」= 现为深圳同类货 → 一对一替代）",
+    "本批 TR 最厚一户；写 Fadime Maden（采购）抄 Hakan Kasap（GM）；邮箱未公开 → 先 info@ 点名收件人，不编邮箱",
+    "经销商网络（bayi）= 他们自己是分销 → 不要再把他们的 bayi 当客户（Q-33 不碰）"
+   ],
+   "notes": "建议：若回信即可列为 A 候选（Simon 定）。",
+   "code": "SB-276"
+  },
+  "SB-285": {
+   "batch": 93,
+   "name": "RF Teknoloji Makine ve Otomasyon San. Tic. Ltd. Şti.（rfteknoloji.com.tr；Sefaköy / Küçükçekmece）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：rfteknoloji.com.tr kurumsal（2012 年成立；法定全名 + 发票地址 Tevfik Bey Mah. Şehit Adem Tamrak Sk. No:2/5 Sefaköy）+ perpaonline（Genel Müdür Raif Gündüz）+ 官网产品页（CalAmp 代表、3onedata 工业交换机、Wlink 路由）+ firmadan（0212 210 95 65）",
+   "url": "https://www.rfteknoloji.com.tr/kurumsal",
+   "number": "Mersis / VKN 未取",
+   "status": "Aktif（官网在线）",
+   "incorporated": "2012",
+   "company_type": "Limited Şirket",
+   "sic": [
+    "无线数据通信（RF / GSM 数据调制解调器、CalAmp 代理）+ 工业以太网交换机分销（3onedata）"
+   ],
+   "address": "Tevfik Bey Mah. Şehit Adem Tamrak Sk. No:2/5, Sefaköy / Küçükçekmece / İstanbul 34295",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（估 3–10 人）",
+   "officers": [
+    "Raif Gündüz — Genel Müdür（Perpa 名录）",
+    "Orhan Özdemir — 官网内容负责人（职务未取）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业无线 + 3onedata（深圳三旺）工业交换机分销** → 已有深圳工业货源，比价激烈 → 分销 20% 线：STI 工业 DIN 轨 PoE 作第二货源，一页纸即可",
+    "GM Raif Gündüz = 老板 = 拍板；微型公司，量小",
+    "季度复核：看官网是否仍挂 3onedata；若换牌子即是窗口"
+   ],
+   "notes": "同行分销（3onedata）但非制造商 → 不守界降级，B 维持。",
+   "code": "SB-285"
+  },
+  "SB-875": {
+   "batch": 93,
+   "name": "Lemax Güvenlik ve Bilişim Sistemleri Toptan Satış Paz. İç ve Dış Tic. Ltd. Şti.（lemaxguvenlik.com；Kartal / İstanbul）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：lemaxguvenlik.com 产品页（法定全名 Ltd. Şti.）+ hakkımızda（2010 起；另页写 2007 / 2008 / 2012，自述不一致）+ n11 / PttAVM 店铺信息（个体「Semih Sengir / Proses Bilgisayar」为电商主体）+ Yandex（Kartal Üsküdar Cad. 127C；0216 473 72 77）",
+   "url": "https://www.lemaxguvenlik.com/sayfa/hakkimizda/1",
+   "number": "Mersis / VKN 未取（电商主体为个体工商户，个人税号不记）",
+   "status": "Aktif（官网 2026-05 博客更新）",
+   "incorporated": "2007–2012（自述不一致）",
+   "company_type": "Limited Şirket + 个体（Semih Sengir）双主体",
+   "sic": [
+    "安防相机批发 / 零售（网店 + 门店）；自有标 Lemax PRO HD 套装；太阳能小系统"
+   ],
+   "address": "Üsküdar Cad. 127C, Kartal / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（1–5 人）",
+   "officers": [
+    "Semih Sengir — 电商店铺登记人（n11 / PttAVM）= 老板"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型网店、个体 + Ltd. 双主体、相机套装贴 Lemax 标** → 量极小、价格敏感（研究档「现供新桥」）→ 分销 20% 线一页纸，不再投入",
+    "老板 Semih Sengir 直联即可；B 维持，年度复核",
+    "自述成立年份四个版本 → 以 Ltd. 法定名为准，不写年份给客户"
+   ],
+   "notes": "个人税号 / MERSİS（个体）属个人数据，不入库。",
+   "code": "SB-875"
   }
  }
 }

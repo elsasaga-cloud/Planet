@@ -1,182 +1,191 @@
 {
-  "code": "SB-063",
-  "name_official": "Avesta (Manchester) Ltd（Co. 07964960；avestatek.co.uk，HiLook UK Authorised Distributor）",
-  "website_status": "在线（网店）",
-  "summary": "曼彻斯特的安防设备批发商/网店（64 Waterloo Road, Manchester；+44 333 344 0789；sales@avestatek.co.uk）：HiLook 英国授权分销商，在售 Hikvision/HiLook 摄像机、录像机、报警、门铃、PoE 交换机与线缆；已有自有编码的白牌 PoE 交换机（HA-POES806：4 PoE + 2 上联 60W，£19 ex VAT）及 HiLook NS-0109P-60（8 FE PoE + 1 GE + 1 SFP，60W）、HiLook 4 口 PoE £28。用户记录：只对非管理商用 PoE 有兴趣、问 2 光 24 电（混速/全千兆、extend 250 m、可 OEM）、计划来深圳；之后 17 次推送 0 回复。",
-  "type": "贸易商/分销",
-  "size": "待补证",
-  "brands_seen": [
-    "Hikvision",
-    "HiLook",
-    "HA（自有编码）"
-  ],
-  "evidence": [
-    {
-      "kind": "用户记录",
-      "claim": "只对非管理 PoE 商业有兴趣；计划来深圳；问 2 光 24 电；可 OEM；0 回复 / 17 次",
-      "quote": "只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司 问了2光24电的特点…3，可以OEM，价格好 客户说会发需求以及想知道的信息（MOQ/规格等）（用户 Clients 表摘录）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "网店",
-      "claim": "HiLook 授权分销与在售 PoE 交换机",
-      "quote": "HiLook 8 Port Fast Ethernet Unmanaged POE Switch NS-0109P-60 … 8 x 100 Mbps PoE ports, 1 x 1000 Mbps RJ45 port, and 1 x 1000 Mbps SFP port … 60 W PoE power budget … HiLook UK Authorised Distributor | Avesta Manchester Ltd",
-      "url": "https://avestatek.co.uk/product/hilook-8-port-fast-ethernet-unmanaged-poe-switch-ns-0109p-60/",
-      "date": "2025-04-30"
-    },
-    {
-      "kind": "网店",
-      "claim": "自有编码白牌 PoE 交换机",
-      "quote": "4 x 100 Mbps PoE ports and 2 x 10/100 Mbps UPLINK RJ45 … 60-Watts PoE Budget … SKU: HA-POES806 £19.00 £24.00 Exc. VAT",
-      "url": "https://avestatek.co.uk/product-category/offers/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "名录",
-      "claim": "法人与业务",
-      "quote": "Avesta (manchester) … 07964960 … Wholesale distributor of CCTV and security equipment, supplying Hikvision and HiLook cameras, DVR/NVR recorders, alarm systems, video doorbells, PoE switches, cables, brackets, and related surveillance accessories through an online store.",
-      "url": "https://firmbase.co/resources/industry-lists/it-distribution-companies-in-the-uk-manchester",
-      "date": "2026-05-28"
-    },
-    {
-      "kind": "Facebook",
-      "claim": "地址与联系方式",
-      "quote": "Avesta (Manchester) LTD is a wholesale supplier of security equipment based in Manchester … 64 Waterloo Road, Manchester, United Kingdom +44 333 344 0789 +44 7413 040743 sales@avestatek.co.uk",
-      "url": "https://www.facebook.com/AvestaManchesterLTD/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "+44 7455 243224",
-      "source": "用户 Clients 表"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。",
-  "notes": "重启用 WhatsApp/电话（有手机号），直接给 2 光 24 电非管理 PoE 的 MOQ 1、OEM 30% 价与交期。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（网店目录核对）"
+ "code": "SB-063",
+ "name_official": "Avesta (Manchester) Ltd（Co. 07964960；avestatek.co.uk，HiLook UK Authorised Distributor）",
+ "website_status": "在线（网店）",
+ "summary": "曼彻斯特的安防设备批发商/网店（64 Waterloo Road, Manchester；+44 333 344 0789；sales@avestatek.co.uk）：HiLook 英国授权分销商，在售 Hikvision/HiLook 摄像机、录像机、报警、门铃、PoE 交换机与线缆；已有自有编码的白牌 PoE 交换机（HA-POES806：4 PoE + 2 上联 60W，£19 ex VAT）及 HiLook NS-0109P-60（8 FE PoE + 1 GE + 1 SFP，60W）、HiLook 4 口 PoE £28。用户记录：只对非管理商用 PoE 有兴趣、问 2 光 24 电（混速/全千兆、extend 250 m、可 OEM）、计划来深圳；之后 17 次推送 0 回复。",
+ "type": "贸易商/分销",
+ "size": "待补证",
+ "brands_seen": [
+  "Hikvision",
+  "HiLook",
+  "HA（自有编码）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "只对非管理 PoE 商业有兴趣；计划来深圳；问 2 光 24 电；可 OEM；0 回复 / 17 次",
+   "quote": "只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司 问了2光24电的特点…3，可以OEM，价格好 客户说会发需求以及想知道的信息（MOQ/规格等）（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Avesta (Manchester) Ltd（Companies House 07964960）",
-    "hq": "64 Waterloo Road, Manchester, UK（+44 333 344 0789 / +44 7413 040743；sales@avestatek.co.uk）",
-    "size": "小型批发商（网店 + 门店）",
-    "other": "HiLook UK Authorised Distributor；Facebook 7 评 66% 推荐"
+  {
+   "kind": "网店",
+   "claim": "HiLook 授权分销与在售 PoE 交换机",
+   "quote": "HiLook 8 Port Fast Ethernet Unmanaged POE Switch NS-0109P-60 … 8 x 100 Mbps PoE ports, 1 x 1000 Mbps RJ45 port, and 1 x 1000 Mbps SFP port … 60 W PoE power budget … HiLook UK Authorised Distributor | Avesta Manchester Ltd",
+   "url": "https://avestatek.co.uk/product/hilook-8-port-fast-ethernet-unmanaged-poe-switch-ns-0109p-60/",
+   "date": "2025-04-30"
   },
-  "business_lines": [
-    "Hikvision/HiLook CCTV 批发与网店",
-    "PoE 交换机、线缆、支架等配件（含自有编码 HA- 白牌）"
-  ],
-  "products_seen": [
-    {
-      "brand": "HiLook",
-      "model": "NS-0109P-60",
-      "spec": "8×FE PoE + 1 GE RJ45 + 1 SFP，60W，extend 250 m",
-      "url": "https://avestatek.co.uk/product/hilook-8-port-fast-ethernet-unmanaged-poe-switch-ns-0109p-60/",
-      "date": "2025-04-30",
-      "saga": "STC-028GP（8 GE PoE 非管理，Saga 列表 $24.2）"
-    },
-    {
-      "brand": "HiLook",
-      "model": "4 Port FE Unmanaged PoE",
-      "spec": "4×FE PoE + 1 上联，35W，£28 ex VAT",
-      "url": "https://avestatek.co.uk/product/hilook-4-port-fast-ethernet-unmanaged-poe-switch/",
-      "date": "2026-10-21",
-      "saga": "STC-024GP（4 GE PoE + 2 上联，$18.7）"
-    },
-    {
-      "brand": "HA（自有编码）",
-      "model": "HA-POES806",
-      "spec": "4×FE PoE + 2×FE 上联，60W，£19（原 £24）ex VAT",
-      "url": "https://avestatek.co.uk/product-category/offers/",
-      "date": "2026-10-21",
-      "saga": "STC-024FP（$9.9）/ STC-024GP"
-    }
-  ],
-  "channels": {
-    "网店": "https://avestatek.co.uk/",
-    "电话": "+44 333 344 0789（公开）",
-    "邮箱（公开）": "sales@avestatek.co.uk",
-    "Facebook": "https://www.facebook.com/AvestaManchesterLTD/"
+  {
+   "kind": "网店",
+   "claim": "自有编码白牌 PoE 交换机",
+   "quote": "4 x 100 Mbps PoE ports and 2 x 10/100 Mbps UPLINK RJ45 … 60-Watts PoE Budget … SKU: HA-POES806 £19.00 £24.00 Exc. VAT",
+   "url": "https://avestatek.co.uk/product-category/offers/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "已在卖自有编码白牌 PoE（HA-POES806）→ 具备 OEM 采购习惯；明确问 2 光 24 电非管理 → Saga Realtek 线 STC-2024GP（2 SFP + 24 GE PoE 300W，列表 $93.5）正对"
-  ],
-  "risks": [
-    "价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供"
-  ],
-  "saga_fit": {
-    "p1": "STC-2024GP",
-    "tier": 20,
-    "why": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈"
+  {
+   "kind": "名录",
+   "claim": "法人与业务",
+   "quote": "Avesta (manchester) … 07964960 … Wholesale distributor of CCTV and security equipment, supplying Hikvision and HiLook cameras, DVR/NVR recorders, alarm systems, video doorbells, PoE switches, cables, brackets, and related surveillance accessories through an online store.",
+   "url": "https://firmbase.co/resources/industry-lists/it-distribution-companies-in-the-uk-manchester",
+   "date": "2026-05-28"
   },
-  "email_hook": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 hamid@avestatek.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）",
-      "type": "贸易商/分销",
-      "sieve": "1~2（1 次打开）",
-      "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "UK 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；研究档 risks：价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）2025-03-30→2026-09-04 共 11 轮群发（Marvell Alleycat5 Solution、90W PoE Managed Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "曼彻斯特的安防设备批发商/网店（64 Waterloo Road, Manchester；+44 333 344 0789；sales@avestatek.co.uk）：HiLook 英国授权分销商，在售 Hikvision/HiLook 摄像机、录像机、报警、门铃、PoE 交换机与线缆；已有自有编码的白牌 PoE 交换机（HA-POES806：4 PoE + 2 上联 60W，£19 ex VAT）及 HiLook NS-0109P-60（8 FE PoE + 1 GE + 1 SFP，60W）、HiLook 4 口 PoE £28。用户记录：只对非管理商用 PoE 有兴趣、问 2 光 24 电（混速/全千兆、extend 250 m、可 OEM）、计划来深圳；之后 17 次推送 0 回复。",
-    "need": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈",
-    "breakpoint": "价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供",
-    "saga_now": {
-      "p1": "STC-2024GP",
-      "tier": 20,
-      "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$25.1；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-12 $300（48 Port PoE Managed Switch）、2025-09-02 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈。已打开的主题（1/27 封有打开记录）：「8 Port Industrial PoE Switch」(2025-02-03) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；250 m extend 未核不写；HRUI 型号不写 Marvell）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?"
-    },
-    "facts": [
-      {
-        "date": "2025-03-30",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 avestatek.co.uk, sales@avestatek.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-21",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "27 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-08-21（27 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-09-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 avestatek.co.uk, sales@avestatek.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "The 24-port unmanaged PoE with 2 SFP you asked about - $93.5, with the HA-coded label",
-      "body": "Hi Hamid,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the 24-port unmanaged PoE with 2 SFP you asked about, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS/UKCA: 24 x Gigabit PoE+ (300 W) + 2 x Gigabit + 2 x SFP, unmanaged - model STC-2024GP - $93.5 USD; 8 x Gigabit PoE+ + 2 x Gigabit - STC-028GP - $25.1; the HA-POES806 position, 4 x PoE+ + 2 x Gigabit, 60 W - STC-024GP - $22.3. HA-coded label is free; colour box from 200 sets.\n\nOne question: shall I send the HA-coded label mock-up with the formal quote, and which of the three first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "Facebook",
+   "claim": "地址与联系方式",
+   "quote": "Avesta (Manchester) LTD is a wholesale supplier of security equipment based in Manchester … 64 Waterloo Road, Manchester, United Kingdom +44 333 344 0789 +44 7413 040743 sales@avestatek.co.uk",
+   "url": "https://www.facebook.com/AvestaManchesterLTD/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+44 7455 243224",
+   "source": "用户 Clients 表"
+  },
+  {
+   "name": "Javid Aria",
+   "role": "Director（2013-11-11 起；1982-09 生；英国籍；Companies House 07964960；唯一在任）= 老板 = 联系人（第 93 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/07964960/officers"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。",
+ "notes": "重启用 WhatsApp/电话（有手机号），直接给 2 光 24 电非管理 PoE 的 MOQ 1、OEM 30% 价与交期。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（网店目录核对）"
+ },
+ "company_facts": {
+  "legal_name": "AVESTA (MANCHESTER) LTD（Companies House 07964960）",
+  "hq": "64 Waterloo Road, Manchester",
+  "size": "小型批发商（网店 + 门店）",
+  "other": "HiLook UK Authorised Distributor；Facebook 7 评 66% 推荐；第 93 批：一人公司、HiLook（海康子品牌）授权分销、有 charges（抵押）→ 分销 20% 8/16 口 PoE 一页纸；T/T 50/50 坚持（第 93 批 官方登记核实 2026-10-28）",
+  "founded": "2012-02-24（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "微型（1–9 人）"
+ },
+ "business_lines": [
+  "Hikvision/HiLook CCTV 批发与网店",
+  "PoE 交换机、线缆、支架等配件（含自有编码 HA- 白牌）"
+ ],
+ "products_seen": [
+  {
+   "brand": "HiLook",
+   "model": "NS-0109P-60",
+   "spec": "8×FE PoE + 1 GE RJ45 + 1 SFP，60W，extend 250 m",
+   "url": "https://avestatek.co.uk/product/hilook-8-port-fast-ethernet-unmanaged-poe-switch-ns-0109p-60/",
+   "date": "2025-04-30",
+   "saga": "STC-028GP（8 GE PoE 非管理，Saga 列表 $24.2）"
+  },
+  {
+   "brand": "HiLook",
+   "model": "4 Port FE Unmanaged PoE",
+   "spec": "4×FE PoE + 1 上联，35W，£28 ex VAT",
+   "url": "https://avestatek.co.uk/product/hilook-4-port-fast-ethernet-unmanaged-poe-switch/",
+   "date": "2026-10-21",
+   "saga": "STC-024GP（4 GE PoE + 2 上联，$18.7）"
+  },
+  {
+   "brand": "HA（自有编码）",
+   "model": "HA-POES806",
+   "spec": "4×FE PoE + 2×FE 上联，60W，£19（原 £24）ex VAT",
+   "url": "https://avestatek.co.uk/product-category/offers/",
+   "date": "2026-10-21",
+   "saga": "STC-024FP（$9.9）/ STC-024GP"
+  }
+ ],
+ "channels": {
+  "网店": "https://avestatek.co.uk/",
+  "电话": "+44 333 344 0789（公开）",
+  "邮箱（公开）": "sales@avestatek.co.uk",
+  "Facebook": "https://www.facebook.com/AvestaManchesterLTD/"
+ },
+ "signals": [
+  "已在卖自有编码白牌 PoE（HA-POES806）→ 具备 OEM 采购习惯；明确问 2 光 24 电非管理 → Saga Realtek 线 STC-2024GP（2 SFP + 24 GE PoE 300W，列表 $93.5）正对"
+ ],
+ "risks": [
+  "价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供"
+ ],
+ "saga_fit": {
+  "p1": "STC-2024GP",
+  "tier": 20,
+  "why": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈"
+ },
+ "email_hook": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 hamid@avestatek.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）",
+   "type": "贸易商/分销",
+   "sieve": "1~2（1 次打开）",
+   "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；研究档 risks：价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）2025-03-30→2026-09-04 共 11 轮群发（Marvell Alleycat5 Solution、90W PoE Managed Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+  },
+  "situation": "曼彻斯特的安防设备批发商/网店（64 Waterloo Road, Manchester；+44 333 344 0789；sales@avestatek.co.uk）：HiLook 英国授权分销商，在售 Hikvision/HiLook 摄像机、录像机、报警、门铃、PoE 交换机与线缆；已有自有编码的白牌 PoE 交换机（HA-POES806：4 PoE + 2 上联 60W，£19 ex VAT）及 HiLook NS-0109P-60（8 FE PoE + 1 GE + 1 SFP，60W）、HiLook 4 口 PoE £28。用户记录：只对非管理商用 PoE 有兴趣、问 2 光 24 电（混速/全千兆、extend 250 m、可 OEM）、计划来深圳；之后 17 次推送 0 回复。",
+  "need": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈",
+  "breakpoint": "价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供",
+  "saga_now": {
+   "p1": "STC-2024GP",
+   "tier": 20,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$25.1；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-12 $300（48 Port PoE Managed Switch）、2025-09-02 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈。已打开的主题（1/27 封有打开记录）：「8 Port Industrial PoE Switch」(2025-02-03) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；250 m extend 未核不写；HRUI 型号不写 Marvell）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?"
+  },
+  "facts": [
+   {
+    "date": "2025-03-30",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 avestatek.co.uk, sales@avestatek.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "27 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-08-21（27 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 avestatek.co.uk, sales@avestatek.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "The 24-port unmanaged PoE with 2 SFP you asked about - $93.5, with the HA-coded label",
+   "body": "Hi Hamid,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the 24-port unmanaged PoE with 2 SFP you asked about, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS/UKCA: 24 x Gigabit PoE+ (300 W) + 2 x Gigabit + 2 x SFP, unmanaged - model STC-2024GP - $93.5 USD; 8 x Gigabit PoE+ + 2 x Gigabit - STC-028GP - $25.1; the HA-POES806 position, 4 x PoE+ + 2 x Gigabit, 60 W - STC-024GP - $22.3. HA-coded label is free; colour box from 200 sets.\n\nOne question: shall I send the HA-coded label mock-up with the formal quote, and which of the three first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-25"
+ }
 }

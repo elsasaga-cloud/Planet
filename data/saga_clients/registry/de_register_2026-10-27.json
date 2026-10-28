@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 19
+  "count": 23
  },
  "rows": {
   "SA-008": {
@@ -673,6 +673,138 @@
    ],
    "notes": "推定匹配；回信后用邮件签名 / Impressum 核 HRB。",
    "code": "SB-698"
+  },
+  "SB-027": {
+   "batch": 93,
+   "name": "Mathias Gottensträter VoIPDistri.com（voipdistri.com；Halle (Westf.)）— 个体工商",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：firmenwissen / Creditreform（Rechtsform Gewerbebetrieb，1 Inhaber，Außenhandel / Import，WZ 47；Im Hagen 3, 33790 Halle）+ aihitdata（VAT DE814065254；CEO Mathias Gottensträter）+ XING（Unternehmer VoIP Distribution；MG-MediaStudio GF）+ 官网 B2B 门槛「Gewerbeschein oder Handelsregister notwendig」",
+   "url": "https://www.firmenwissen.de/az/firmeneintrag/33790/4010155801/MATHIAS_GOTTENSTRAETER_VOIPDISTRI_COM.html",
+   "number": "无 HRB（个体工商 Gewerbebetrieb）；USt-IdNr. DE814065254",
+   "status": "Aktiv（官网 / 电商在线，2020 起 Kleinanzeigen Pro）",
+   "incorporated": "≈2003–2010（VoIPphones.de 编辑 2003–2010 后创业）",
+   "company_type": "Einzelunternehmen（个体）",
+   "sic": [
+    "VoIP / 网络产品增值分销（B2B 门槛）+ 工业通信（Teltonika、M12 交换机）；进口"
+   ],
+   "address": "Im Hagen 3, 33790 Halle (Westfalen)（+49 5201 730030）",
+   "accounts": "—（个体无公示）",
+   "accounts_due": "—",
+   "size_band": "微型（1 人 + 兼职）",
+   "officers": [
+    "Mathias Gottensträter — Inhaber / CEO（研究档 KP communication@voipdistri.com）= 老板"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一人 VoIP 分销、自营进口（Creditreform 标 Außenhandel/Import）** → 有进口经验、决策快 → 分销 20% 线：工业 M12 / DIN 轨 PoE（研究档「Elink 工业交换机、M12」）作第二货源",
+    "个体 → 量小、信用线短 → T/T 预付坚持",
+    "DE 复盘 3 月：看域名与 Kleinanzeigen 是否仍活跃"
+   ],
+   "notes": "无 HRB 可查，底数到此为止。",
+   "code": "SB-027"
+  },
+  "SB-077": {
+   "batch": 93,
+   "name": "LivEye GmbH（HRB 44506 Wittlich；Föhren）— 移动视频监控塔制造商",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：liveye.com Impressum（HRB 44506 Amtsgericht Wittlich；USt DE321392908；GF Carsten Simons）+ online-handelsregister（2021-03-12 Simons 单独代表权）+ Creditreform（2025-09-25 新任 GF Markus Diederichs；关联 LivEye Beteiligungs GmbH HRB 46290）+ GIT-Sicherheit（≈95 人、5 地点 DACH + 波兰）+ Indeed（2018 创立；营收 €4.25–21.5M 区间）",
+   "url": "https://www.liveye.uk/impressum-en/",
+   "number": "HRB 44506（Amtsgericht Wittlich）；USt-IdNr. DE321392908；D-U-N-S 315185493",
+   "status": "Aktiv",
+   "incorporated": "2018（Indeed；HRB 登记年份未取）",
+   "company_type": "GmbH（控股 LivEye Beteiligungs GmbH HRB 46290）",
+   "sic": [
+    "移动 / 临时视频监控塔自研自产（NSTR 订阅模式）；安防服务"
+   ],
+   "address": "Europa-Allee 56b, 54343 Föhren（+49 6502 4034722）",
+   "accounts": "Bundesanzeiger 未取",
+   "accounts_due": "—",
+   "size_band": "中型（≈95 人；营收 €4–21M 区间）",
+   "officers": [
+    "Carsten Simons — Geschäftsführer（创始人型 GF；研究档 KP info@）",
+    "Markus Diederichs — Geschäftsführer（**2025-09 起**；前 BDO Cyber Security；主推「自研 / 德国制造 / 主权」）",
+    "Marc Thurn — 曾任 GF（2022 Impressum，现已不列）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**产品公司（监控塔）→ PoE 交换机是塔内部件** → OEM / 部件采购 30% 线：工业级小口数 PoE（宽温、DIN）配塔；量稳定但要样机验证（付费样品）",
+    "**2025-09 新 GF 主打「Souveränität made in Germany / 摆脱全球供应链」** → 对中国部件更挑 → 卖点写长期供货 + 固件 + 3 年保修，不提产地",
+    "DE 复盘 3 月：Bundesanzeiger 2025 账目 + 是否再换 GF"
+   ],
+   "notes": "95 人 = 本批 DE 最大户；B 维持，等回信再升。",
+   "code": "SB-077"
+  },
+  "SB-090": {
+   "batch": 93,
+   "name": "Adler ELREHA GmbH / Adler Security Systems（adlerss.com；Hockenheim）— 约旦 Elreha 集团",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：adlerss.com/contact（Adler ELREHA GmbH, Schwetzinger Str. 103, 68766 Hockenheim；美国 Adler Systems LLC, St Petersburg FL）+ about（自研 IP 相机，美 / 德 / 台 / 中设施）+ aeconline（2012 年并入约旦 Elreha 家族，联系人 Hashim Sholy，电话 +962）+ LinkedIn（2013 / 11–50 人）+ signalhire（Zain Sana Ullah = Operations Engineer）；HRB 号 1 次未取",
+   "url": "https://adlerss.com/contact/",
+   "number": "HRB 未取（Mannheim 法院；下轮 Northdata 直链「Adler ELREHA GmbH, Hockenheim」）",
+   "status": "Aktiv（官网 2026 在线）",
+   "incorporated": "2012 / 2013",
+   "company_type": "GmbH（约旦 Elreha 集团子公司 + 美国 LLC）",
+   "sic": [
+    "IP / 热成像相机制造（自有品牌 Adler）；边境 / 市政 / 太阳能独立监控系统"
+   ],
+   "address": "Schwetzinger Str. 103, 68766 Hockenheim",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Hashim Sholy — 集团联系人（Elreha，约旦）",
+    "Zain (Sana) Ullah — Operations Engineer（研究档 KP zain@adlerss.com）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**相机制造商（自有品牌）→ 交换机是系统部件**（研究档「ONV 工业 FS」）→ OEM 30% 线：工业 PoE / 光口交换机贴 Adler 标配太阳能独立站",
+    "边境 / 政府项目为主 → 项目制、量不稳；军用 / 边防整机不碰（守界），只供通用交换机",
+    "KP 是运营工程师（非采购）→ 技术切入：宽温、PoE 预算、SFP 兼容；DE 复盘 3 月补 HRB"
+   ],
+   "notes": "HRB 1 次未取 → 下轮 Northdata 直链一次。",
+   "code": "SB-090"
+  },
+  "SB-242": {
+   "batch": 93,
+   "name": "Grothe GmbH（HRB 6442 Siegburg；Hennef）— 意大利 Urmet 集团德国子公司",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：Northdata（HRB 6442 Siegburg；2002-04-23 登记；资本 €1.5M；LEI 529900VY9SISWY0OKP81；2 GF + 2 ppa）+ implisense（2001-08-27 成立；VAT DE813326876；70 人 2023；资产 €9.38M 2023）+ wer-zu-wem / DDW / protector（1892 Köln 创立，1998 迁 Hennef，2001 起属 Urmet；GF Andreas Rosen；70–71 人；营收 €13–21M）",
+   "url": "https://www.northdata.com/Grothe%20GmbH,%20Hennef/Amtsgericht%20Siegburg%20HRB%206442",
+   "number": "HRB 6442（Amtsgericht Siegburg）；LEI 529900VY9SISWY0OKP81；USt-IdNr. DE813326876",
+   "status": "Aktiv",
+   "incorporated": "2001-08-27（GmbH；品牌 1892）",
+   "company_type": "GmbH（意大利 Urmet S.p.A. 集团，€270–470M）",
+   "sic": [
+    "楼宇 / 安防技术制造与分销（门铃 / 对讲 / 2 线 IP / 报警 / CCTV）"
+   ],
+   "address": "Löhestr. 22, 53773 Hennef (Sieg)（02242-8890-0）",
+   "accounts": "Bundesanzeiger：资产 €9.38M（2023）；9 份年报在档",
+   "accounts_due": "—",
+   "size_band": "中型（70 人；营收 €13–21M）",
+   "officers": [
+    "Andreas Rosen — Geschäftsführer（**= 研究档 KP arosen@grothe.de**）",
+    "第二 GF + 2 名 ppa（姓名未取）"
+   ],
+   "psc": "Urmet（意大利）100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP 就是 GF 本人（Andreas Rosen）** → 一封信直达拍板人；但 **Urmet 集团子公司 → CCTV / 网络件可能集团统采（意大利）** → 只能试 OEM 30%：Grothe 标 PoE 交换机配其 IP 对讲 / CCTV 线",
+    "130 年品牌、70 人、€1.5M 资本 → 稳定、付款好；量取决于集团是否放权",
+    "DE 复盘 3 月：Bundesanzeiger 2024 账目 + GF 是否变动"
+   ],
+   "notes": "集团子公司 → 不算守界（非同行制造交换机）；B 维持。",
+   "code": "SB-242"
   }
  }
 }

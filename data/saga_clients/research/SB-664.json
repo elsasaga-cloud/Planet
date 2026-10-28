@@ -42,7 +42,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Sławomir Jarosław Pieszczek",
+   "role": "Prezes Zarządu（KRS 0000416117；Wiceprezes Teresa Jadwiga Suchoń）= 拍板人（元器件广线分销，写 jm@jm.pl 点名采购 / 产品经理）（第 93 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://rejestr.io/krs/416117/jm-elektronik"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -51,8 +59,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "波兰",
-  "other": "官网 jm.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
+  "hq": "ul. Karolinki 58, 44-100 Gliwice",
+  "other": "官网 jm.pl，语言 pl，快照状态 ok；角色判定来源：官网文案；第 93 批：元器件广线分销 + ICP DAS（台湾）工业自动化 2009 起授权 → B BIG：分销 20%、STI 工业 DIN 轨作第二货源；利润率 0.4% → 价格 / 账期极敏感（第 93 批 官方登记核实 2026-10-28）",
+  "legal_name": "JM elektronik Sp. z o.o.（KRS 0000416117 · NIP 6312645365 · REGON 242895943；资本 1,000,000 zł；D-U-N-S 422187464）",
+  "founded": "2012-04-03（Sp. z o.o.）（第 93 批 官方登记核实 2026-10-28）",
+  "staff": "中型；营收 2025 58.5 mln zł（2024 58.2 / 2023 64.1）、利润 0.24 mln、资产 32.4 mln"
  },
  "business_lines": [
   "工业计算机 / 自动化 / 元件 / LoRaWAN 分销"
