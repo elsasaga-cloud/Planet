@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 149
+  "count": 152
  },
  "rows": {
   "SA-061": {
@@ -4741,6 +4741,96 @@
    ],
    "notes": "未坐实（1 查即停）→ 不动。",
    "code": "SB-224"
+  },
+  "SB-786": {
+   "batch": 112,
+   "name": "S. Stamenov（个人 / 小安装商；Gmail sstamenov91@；保加利亚 +359 89；WhatsApp 已加，答「最近没啥需要」后 19 次跟进无果）— 无公司名 / 域名可查 → 0 次检索",
+   "iso": "BG",
+   "fetched": "2026-10-28",
+   "source": "BG · 0 次检索（仅 Gmail + 名字缩写 + 手机号；无法人线索）；按个人户处理；2026-10-28",
+   "url": "",
+   "number": "未取（个人）",
+   "status": "—",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "个人 / 小安装商（保加利亚）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "S. Stamenov — 本人（WA）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个人 Gmail 户、明示无需求 + 19 次无果 → 不动（B 保留；主动询盘预付款）**"
+   ],
+   "notes": "未坐实（个人，0 查）→ 不动。",
+   "code": "SB-786"
+  },
+  "SB-803": {
+   "batch": 112,
+   "name": "НОВАТЕХ ЕООД（BestPC.BG；bestpc.bg；София 1582, ж.к. Дружба-2, бл. 304, търговска зала 1；ЕИК 175202821；ДДС BG175202821）— 2001 年起（公司「14+ 年」）的电脑 / 笔记本 / 组件门店 + 网店 + 维修（兼做监控门禁与网络布线；TP-Link / Ubiquiti / MikroTik / PLANET 在售）；仅 store@；未发过信",
+   "iso": "BG",
+   "fetched": "2026-10-28",
+   "source": "BG · 1 次检索：bestpc.bg/bg/info/obshti-uslovia（собственост на фирма Новатех ЕООД；ЕИК 175202821；ДДС BG175202821；гр. София ПК 1582 жк. Дружба-2 бл.304 търговска зала 1）+ bestpc.bg/bg/info/bestpc-company-info（повече от 14 години；BG175202821）+ pazaruvaj.com（основан 2001）+ bestpc.bg 首页（асемблиране и продажба на компютри；видеонаблюдение и контрол на достъп；мрежи）；2026-10-28",
+   "url": "https://bestpc.bg/bg/info/obshti-uslovia",
+   "number": "ЕИК 175202821",
+   "status": "Активен（推定）",
+   "incorporated": "≈2001（ЕИК 1752… 号段 ≈2007 登记）",
+   "company_type": "ЕООД",
+   "sic": [
+    "电脑 / 组件 门店 + 网店 + 维修（索非亚）"
+   ],
+   "address": "ж.к. Дружба-2, бл. 304, търговска зала 1, 1582 София",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "（无 KP；store@bestpc.bg）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**电脑综合门店 / 网店（网络仅附带类目、无 KP）→ 不动（综合网店规则；B 保留）**"
+   ],
+   "notes": "不动（综合网店）；坐实（ЕИК + ДДС + 地址）。",
+   "code": "SB-803"
+  },
+  "SB-901": {
+   "batch": 112,
+   "name": "「Hersnet Ltd」（匈牙利；邮箱 antennatechnika…；手机 +36 20 946 6366）— 1 次检索：companywall.hu 显示 **info@hersnet.hu + 电话 20/9466366 挂在 Aura Trans Kft.（Budapest, Rákóczi út 22；2009 年登记；web hersnet.hu/auratrans）名下** → Hersnet 疑为 Aura Trans Kft. 的商号 / 关联站（电话一致，待证）；无 Hersnet 独立法人；需求 HDMI KVM 延长器（Saga 不做）；WA 1 次回复后 20 次跟进无果",
+   "iso": "HU",
+   "fetched": "2026-10-28",
+   "source": "HU · 1 次检索：companywall.hu Aura Trans Kft.（Rákóczi út 22 Budapest；2009；tel 01/2679704 20/9466366 20/9675389；E-mail info@hersnet.hu；web www.hersnet.hu/auratrans）= 与研究档手机号 36-20-94 66366 一致；opten / nemzeticegtar 无 Hersnet Kft 命中（HIRNET Kft. 11055640-2-04 Békéscsaba / HS-NET Kft. Soponya = 同音他家，≠）；2026-10-28",
+   "url": "https://www.companywall.hu/v%C3%A1llalat/aura-trans-kft/MM9wgtCC",
+   "number": "未取（Aura Trans Kft. 税号未取）",
+   "status": "未取",
+   "incorporated": "2009（Aura Trans Kft.）",
+   "company_type": "Kft.（待证）",
+   "sic": [
+    "天线 / 弱电 技术（布达佩斯，待证）"
+   ],
+   "address": "Rákóczi út 22, Budapest（Aura Trans Kft.，待证）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "（无 KP；WA 联系人未具名）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**需求为 HDMI KVM 延长器（非 Saga 品类）+ 微型 + 20 次无果 → 不动**"
+   ],
+   "notes": "部分坐实（电话对上 Aura Trans Kft.，法人待证）→ 不动（非目标品类）。",
+   "code": "SB-901"
   }
  }
 }

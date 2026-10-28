@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 133
+  "count": 136
  },
  "rows": {
   "SA-002": {
@@ -4494,6 +4494,102 @@
    ],
    "notes": "贴标 30% 目标；B BIG；加厚一次；升 A 候选；country_fix 美国；部分坐实。",
    "code": "SB-449"
+  },
+  "SB-354": {
+   "batch": 112,
+   "name": "RLH Industries, Inc.（商号 Fiber Optic Link；fiberopticlink.com / rlhfiber.com；936 N. Main Street, Orange, CA 92867, USA）— 1988 年创立的加固型光纤通信设备品牌商 / 制造商（工业 MC、工业以太网交换机（含 PoE 管理 / 非管理）、光纤隔离 / Power over Fiber、机柜、电源；面向公用事业 / 交通 / 能源 / 政府 / 工业）；ThomasNet 估 1–9 人、$1–4.9M；**研究档国别 CA 有误 → 美国加州（714 区号）→ country_fix US**；KP Gary Gunning、Albert Gregory（EVP）、Cesar Ordaz（Purchasing Agent）；27 封 1 次打开 0 回；表内「自己的牌子，标价很高」「很有实力」",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：fiberopticlink.com 首页 / About（RLH Industries, Inc. 936 N. Main Street Orange, CA 92867；since 1988；designs, engineers, manufactures；Industrial Ethernet Switches / PoE Managed / Unmanaged；Local (714) 532-1672）+ rlhfiber.com（sister site）+ thomasnet（Fiber Optic Link Orange CA；1-9 employees；$1M–$4.9M；established 1988；Manufacturer / Distributor）+ entelec 2020 产品手册；California SoS 实体号未取；2026-10-28",
+   "url": "https://www.fiberopticlink.com/contact-us/about-rlh/",
+   "number": "未取（CA SoS 实体号）",
+   "status": "Active（经营中）",
+   "incorporated": "1988",
+   "company_type": "Inc.（加州）",
+   "sic": [
+    "加固型光纤通信设备 品牌商（橙县）"
+   ],
+   "address": "936 N. Main Street, Orange, CA 92867, USA",
+   "accounts": "估 $1–4.9M（ThomasNet）",
+   "accounts_due": "—",
+   "size_band": "小型（估 1–9 人；自报规模更大）",
+   "officers": [
+    "Albert Gregory — Executive Vice President（研究档 KP；agregory@）= 拍板人",
+    "Cesar Ordaz — Purchasing Agent（研究档 KP；cordaz@）= 收件人",
+    "Gary Gunning — 研究档 KP（ggunning@；职务待核）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌工业 MC / 交换机、定价高、有采购专员 → 贴标 OEM 30% 目标，B，加厚一次（切口：RLH 标工业 PoE / 非 PoE 交换机 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 作第二代工源 + 中性包装 / 自编货号 + 3 年保 + FCC / CE；英文，Cesar 直发 + Albert 抄）；回信 → 次候选升 A**",
+    "**country_fix US**（发信窗口 US Wed 08–10 PT；稿内 FCC 必有、UKCA 不提）；守界：不提政府 / 军用项目线"
+   ],
+   "notes": "贴标 30%；B 加厚一次；部分坐实（法定名 + 址；SoS 号未取）；country_fix US。",
+   "code": "SB-354"
+  },
+  "SB-096": {
+   "batch": 112,
+   "name": "Oviss Labs Inc.（商号 OVISS CCTV；ovisscctv.com；46259 Warm Springs Blvd, Fremont, CA 94539, USA）— 2004 年起（Oviss Labs 2015 建站）的湾区商用监控系统托管安装商 / 品牌（「managed commercial security camera systems 99% uptime」；加油站 / 酒店 / 连锁餐饮客户；POS / 报警 / 支付系统）；11–50 人（LinkedIn）；收入 <$5M；**研究档国别 CA 有误 → 美国加州 → country_fix US**；表内「商业 PoE 自己的 logo，主要是 CCTV」；仅 hello@；20 封 1 次打开 0 回",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：ovisscctv.com（46259 Warm Springs Blvd Fremont CA 94539；(510) 962-8900；CEO 自述 16 年安防经验）+ crunchbase（Legal Name Oviss Labs Inc.；Fremont；hello@ovisscctv.com；11-50）+ pressable 2020-03-21（Oviss Labs Inc announced the launch of OVISSCCTV.com）+ dandb（Founded 2004；Incorporated）+ LinkedIn Oviss Labs Inc.（Fremont CA；11-50；2004）；California SoS 实体号未取；2026-10-28",
+   "url": "https://www.crunchbase.com/organization/oviss",
+   "number": "未取（CA SoS 实体号）",
+   "status": "Active",
+   "incorporated": "2004（业务）",
+   "company_type": "Inc.（加州）",
+   "sic": [
+    "商用 CCTV 托管安装 / 品牌（弗里蒙特）"
+   ],
+   "address": "46259 Warm Springs Blvd, Fremont, CA 94539, USA",
+   "accounts": "<$5M（zoominfo 估）",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "（CEO 未具名；hello@ovisscctv.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有标商用 PoE 配套 CCTV 安装 → 贴标 30% small，一页纸一次（切口：OVISS 标 STC-028GP / STC-228GP / STC-2224GP 配托管摄像机系统 + 中性包装 + FCC + 小 MOQ；英文，hello@ 一问采购 / 运营负责人）；有回声再加厚**",
+    "**country_fix US**（发信窗口 US Wed 08–10 PT）"
+   ],
+   "notes": "贴标 30% small；一页纸一次；部分坐实（法定名 + 址；SoS 号未取）；country_fix US。",
+   "code": "SB-096"
+  },
+  "SB-233": {
+   "batch": 112,
+   "name": "AVYCON（法定名待取：Avycon Inc.；avycon.com；16682 Millikan Ave., Irvine, CA 92606, USA）— 2012 年创立的北美视频监控品牌（IP 摄像机 / NVR / 网络产品 190+ 款；经销商渠道、项目注册、站内自述 NDAA / TAA 定位（我方稿内不得引用））；17–50 人；营收估 $6.1M；**研究档国别 CA 有误 → 美国加州 → country_fix US**；KP John L（President；john@）、Jorge Del Valle（Technical Support Manager）；表内「商业 PoE 工业 FS 周边产品，有 ONV 的」「质量高」；29 封 0 打开",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：avyconaivo.com/contact（AVYCON HQ 16682 Millikan Ave. Irvine CA 92606；+1 (949) 752-7606；info@）+ rocketreach（Founded 2012；17 employees；$6.1M）+ leadiq（NAICS 56162；11-50）+ zoominfo（Jorge Del Valle Manager Technical Support Team）+ LinkedIn（Irvine；51-200 自报）+ AVYCON Product Guide 26（190+ products；cameras / recorders / networking）；California SoS 实体号未取；2026-10-28",
+   "url": "https://avyconaivo.com/page/?pid=contactus",
+   "number": "未取（CA SoS 实体号）",
+   "status": "Active",
+   "incorporated": "2012",
+   "company_type": "Inc.（加州，待取）",
+   "sic": [
+    "视频监控 品牌商（尔湾）"
+   ],
+   "address": "16682 Millikan Ave., Irvine, CA 92606, USA",
+   "accounts": "估 $6.1M（RocketReach）",
+   "accounts_due": "—",
+   "size_band": "小型（17–50 人）",
+   "officers": [
+    "John L — President（研究档 KP；john@avycon.com）= 拍板人 / 收件人",
+    "Jorge Del Valle — Technical Support Team Manager（zoominfo；研究档 KP Jorge D）= 抄"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 CCTV 含网络产品线（PoE 现中系）→ 贴标 OEM 30% 目标，B，加厚 small 一次（切口：AVYCON 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 作第二代工源 + 中性包装 / 自编货号 + FCC + 小 MOQ；英文，John 直呼）；回信 → 次候选**",
+    "**country_fix US**（发信窗口 US Wed 08–10 PT）；稿内绝不提 NDAA / TAA（禁词）"
+   ],
+   "notes": "贴标 30%；加厚 small 一次；部分坐实（址 + 规模；法定名 / SoS 号未取）；country_fix US。",
+   "code": "SB-233"
   }
  }
 }
