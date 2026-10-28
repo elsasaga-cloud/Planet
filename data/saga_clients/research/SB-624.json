@@ -23,7 +23,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Robert Clark",
+   "email": "",
+   "role": "所有人（域名 whois：Freenet Warehouse Pty Ltd）— 不动，不发（第 118 批 官方登记核实 2026-10-28）",
+   "source": "scamadviser.com/check-website/ubwh.com.au"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -32,8 +39,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 ubwh.com.au，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "3 Barker Place, Bicton WA 6157（02 8412 8312）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 ubwh.com.au，语言 ?，快照状态 http_error；角色判定来源：待核；第 118 批：Ubiquiti 专营进口网店（「lowest possible price」囤货）+ 无 KP + 6×0 → **不动（B 保留）**；坐实（网店自列 ABN + 地址；法人名 whois）（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "Freenet Warehouse Pty Ltd（ABN 79 153 180 888；经营 UBWH Australia / netonix.com.au）",
+  "founded": "未取（ABN 153 段 ≈ 2011）（第 118 批 官方登记核实 2026-10-28）",
+  "size": "微型（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "多品牌网店（澳大利亚）"

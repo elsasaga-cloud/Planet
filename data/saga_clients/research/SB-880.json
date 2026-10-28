@@ -48,8 +48,9 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案；第 91 批检索未命中（netsolutionstore.com.au：1 次检索仅无关 Net Solutions / Netsol；ABR 常用词检索易截断）→ 下轮试 ABR「net solution store」（第 91 批 官方登记核实 2026-10-27）"
+  "hq": "未取（澳洲）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案；第 91 批检索未命中（netsolutionstore.com.au：1 次检索仅无关 Net Solutions / Netsol；ABR 常用词检索易截断）→ 下轮试 ABR「net solution store」（第 91 批 官方登记核实 2026-10-27）；第 118 批：单一原厂（Extreme）专营网店 + 无 KP + 7×0 → **不动（B 保留）**；部分坐实（页脚母公司名）（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "NetSolutionStore.com.au = Virtual Graffiti Australia Pty Limited 分部（ABN 1 查未得；Extreme Networks 授权经销）"
  },
  "business_lines": [
   "Extreme Networks 产品专营"

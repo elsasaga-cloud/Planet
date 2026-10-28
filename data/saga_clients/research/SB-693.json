@@ -43,7 +43,8 @@
    "title": "Head of Department Procurement",
    "email": "mehar.asad786@gmail.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Head of Procurement Department（ZoomInfo「Muhammad Asad」职务吻合；gmail；阿里巴巴 RFQ 5 电口）= 收件人 — 一页纸一次：集成商 25% B small、直接答 5 口 = STI-054GP（4 PoE + 1 GE）+ 桌面 STC-028GP $28 + 设施管理量用 STC-2216GP / 2224GP、MOQ 1 + 付费样机 + DAP 迪拜 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 118 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "阿联酋",
-  "other": "官网 binhilal.ae，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Bin Hilal Holding Head Office, 9th Street, Umm Ramool, Rashidiya, Dubai（+971 521 77 1075）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 binhilal.ae，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 118 批：多元集团（安防 / 消防 / 设施管理 / 贸易 / 建筑；Honeywell / Dahua 经销），集团采购部负责人本人发过 RFQ 且从未跟进 → **集成商 25% B small，一页纸一次**；再无回声 → 不动；部分坐实（官网 + ZoomInfo + D&B）；gmail KP → 预付 100%；能源 / 公用板块不主动提（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "Bin Hilal Holdings（集团；法人 Bin Hilal Group Corporate Management LLC / Bin Hilal Enterprises L.L.C. / BinHilal Trading；牌照号 1 查未得）",
+  "founded": "2005（集团）（第 118 批 官方登记核实 2026-10-28）",
+  "size": "中型（201–500，ZoomInfo 口径）（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "多元化集团（安防 / 能源 / 贸易 / 建筑，阿联酋）"

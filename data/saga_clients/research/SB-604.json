@@ -43,7 +43,8 @@
    "title": "（负责人）",
    "email": "preston@burnsprecisionag.com.au",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "负责人（研究档；阿里巴巴询盘 升压 5 口）— 不动，不发（标准 48 V PoE 需求再按分销 20% 报）（第 118 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 burnsprecisionag.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "22 Main Street, Gooloogong NSW 2805（02 6344 8246）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 burnsprecisionag.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 118 批：精准农业硬件经销（Arag / AgLeader / CHCNAV；自产 KestrelEye 农机摄像头；网站有 Network Switches 页），需求 = 升压 PoE（Saga 无）+ 乡镇微型 → **不动（B 保留）**；部分坐实（官网 + agtechfinder）（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "Burns Precision Ag（法人 / ABN 1 查未得；NSW 安防 Master Licence 000104216）",
+  "founded": "2017-06（第 118 批 官方登记核实 2026-10-28）",
+  "size": "微型（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "精准农业设备（澳大利亚）"

@@ -34,8 +34,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 krysma.com.au，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "Unit 6, 26 Rushdale St, Knoxfield VIC 3180（03 8806 8356）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 krysma.com.au，语言 ?，快照状态 http_error；角色判定来源：待核；第 118 批：消费 + 工业连接产品（AOA 周边为主）+ 无 KP + 24×0 → **不动（B 保留）**；部分坐实（官网 contact：商号 + 母体 + 地址）（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "Krysma – Beyond Connectivity = Uniqmac Technologies 的商号（法人 / ABN 1 查未得）",
+  "size": "微型（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业网络配件经销（澳大利亚）"

@@ -43,14 +43,16 @@
    "title": "Product Manager",
    "email": "todd.cuneo@eltech.com.au",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Product Manager（研究档；21 次跟进无回复）= 收件人 — 一页纸一次（最后一次）：贴标 OEM 30% B、Eltech 标 / 中性包装 STC-028GP / STC-228GP / STC-2216GP + 导轨 STI-054GP / STI-154GP（配电柜场景）、MOQ 1 起贴标试单 + 付费样机 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Jolyn Soo",
    "title": "Engineering Manager",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Engineering Manager（研究档；邮箱未取）= 抬头抄送（第 118 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -61,8 +63,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 eltech.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表"
+  "hq": "31 Jersey Road, Bayswater VIC 3153（1800 007 458）；墨尔本 / 悉尼 / 布里斯班三仓（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 eltech.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表；第 118 批：独立进口 + 电气配件批发分销（工业电缆 / 箱体 / KIKBLOX 配电 / 面板配件），自有 logo 已上过交换机 → **贴标 OEM 30% B，一页纸一次（最后一次）**；21×0 在先 → 再无回声即不动；部分坐实（企业库 + 名录）（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "Eltech Australia Pty Ltd（ABN 1 查未得）",
+  "founded": "1995（墨尔本）（第 118 批 官方登记核实 2026-10-28）",
+  "size": "中小（11–78 人，口径不一；$5.7M RocketReach）（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电气批发（配电 / 自动化 / 线缆）",

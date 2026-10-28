@@ -48,14 +48,16 @@
    "title": "General Manager",
    "email": "marcus@psaproducts.com.au",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "General Manager（研究档；2022 调价函署名 marcus@；21 次跟进无回复；Simon「可以多跟进一下」）= 拍板人 / 收件人 — 一页纸一次（最后一次）：贴标 OEM 30% B、PSA / Panacom 标 PoE STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP（摄像机 250 m 延长模式）+ 管理 STC-4424GCPM、MOQ 1 起贴标 + 付费样机 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Vince Bruzzese",
    "title": "Business Development Manager",
    "email": "enquiry@psaproducts.com.au",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Business Development Manager（研究档）= 抄送（第 118 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -66,8 +68,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 psaproducts.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
+  "hq": "PSA House, 17 Millicent Street, Burwood VIC 3125（03 9888 9889）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 psaproducts.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案；第 118 批：澳洲安防批发分销商（自有品牌 PSA Centrii / Lifesaver / Panacom / Homeguard + HiLook 代理；电气批发渠道 Rexel），GM 为 KP → **贴标 OEM 30% B，一页纸一次（最后一次）**；21×0 在先 → 再无回声即不动；坐实（三源一致 ABN + 地址）；对位 HiLook 不点名（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "PSA Products Pty Ltd（ABN 99 076 468 703）",
+  "founded": "未取（ABN 076 段 ≈ 1996–1997）（第 118 批 官方登记核实 2026-10-28）",
+  "size": "中小（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防系统批发分销（澳大利亚）"

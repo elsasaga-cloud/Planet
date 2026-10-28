@@ -32,8 +32,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 oemarket.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "8 Princes Street, Bexley NSW 2207 / 10 Fishburns Rd, Galston NSW（+61 2 9899 1412）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 oemarket.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 118 批：光电子 / 光纤产品网店 + 自研设计制造（MC / 收发器 / 激光二极管 / 无源 / 测试仪；全球 30+ 国科研电信客户）→ 产品不对位 + 无 KP → **不动（B 保留）**；坐实（官网 about 自列 ABN + 法人名）（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "Bitline System Pty Ltd（ABN 48 093 949 921；经营 oeMarket.com）",
+  "founded": "未取（ABN 093 段 ≈ 2000）（第 118 批 官方登记核实 2026-10-28）",
+  "size": "微型（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络配件网店（澳大利亚）"

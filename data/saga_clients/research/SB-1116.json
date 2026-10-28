@@ -20,7 +20,7 @@
  "kp": [
   {
    "name": "Hassan Ijaz Cheema",
-   "role": "Manager Business Development",
+   "role": "Manager Business Development（S 邮箱签名；+92 310 092 4444 = 官网电话；2024-03-09 主动 RFQ 接入 / 汇聚交换机 + 路由器，我方欠答）= 收件人 — 一页纸 + 补答：集成商 25% B（升 A 候选 ★）、接入 STC-4424GCPM $165（L2+ Marvell）/ 汇聚 10G STH-2C24XF-HSI $1,500（CENTEC）、路由器不做明说、技术符合性按我方实际规格逐条答不套华为型号、MOQ 1 + 付费样机、opener 引其 2024-03-09 RFQ 主题 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28）",
    "email": "hassancheema@litech.com.pk",
    "phone": "+92 310 092 4444 / +92 51 8744109",
    "source": "S 邮箱签名"
@@ -81,5 +81,12 @@
    "body": "Hassan,\n\nAn overdue reply to the switch RFQ you sent in March 2024 — it was missed on our side, my apologies.\n\nWhat we can cover: access switches (24/48× GbE + 4× 10G SFP+, L2+/L3, Marvell AC5) and 10G/25G/100G aggregation on CENTEC silicon. Routers we do not make.\n\nOne question: is that project, or a successor, still open? If yes, send the current port-count and quantity and you will have EXW prices within one working day; our 24× GbE + 4× 10G L2+ lists at USD 143 EXW (snapshot 2026-10-17, valid 15 days).\n\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "company_facts": {
+  "legal_name": "LITECH Pakistan (Private) Limited（D&B 收录；SECP 号 1 查未得；母公司 Litech Sdn Bhd 马来西亚 1999）",
+  "founded": "2018（第 118 批 官方登记核实 2026-10-28）",
+  "hq": "Office No. 01, Ground Floor, Layallpur Regency Plaza, 949-Mall Road, New Civil Lines, Faisalabad 38850（+92 41 262 6672）；5.25 英亩光缆制造基地；办公室 伊斯兰堡 / 费萨拉巴德 / 拉合尔 / 卡拉奇（第 118 批 官方登记核实 2026-10-28）",
+  "size": "中小（制造 + 四地办公室）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "第 118 批：光缆 / 光纤器材制造 + 分销 + 项目承包（客户 PTCL / Wateen / Zong / Mobilink + Huawei / ZTE 承包商），主动 RFQ + 多项目 + 我方欠答 → **集成商 25% B，一页纸 + 补答；升 A 候选 ★**；回信 → 加厚 + 升 A；部分坐实（官网 + D&B）；技术符合性声明由 Simon 定稿（第 118 批 官方登记核实 2026-10-28）"
  }
 }

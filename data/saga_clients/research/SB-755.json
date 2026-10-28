@@ -1,133 +1,135 @@
 {
-  "code": "SB-755",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（fibresales.com.au，快照 2026-10-21）",
-  "summary": "澳大利亚 Fibresales（官网重定向，内容未抓到；表内「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS」「质量一般」）；表内未跟进。",
-  "type": "光纤配件品牌商（澳大利亚，自有标 MC）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：You are being redirected...",
-      "quote": "",
-      "url": "https://fibresales.com.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC SFP 自己的牌子",
-      "quote": "MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS；质量一般",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-755",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（fibresales.com.au，快照 2026-10-21）",
+ "summary": "澳大利亚 Fibresales（官网重定向，内容未抓到；表内「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS」「质量一般」）；表内未跟进。",
+ "type": "光纤配件品牌商（澳大利亚，自有标 MC）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：You are being redirected...",
+   "quote": "",
+   "url": "https://fibresales.com.au/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "澳大利亚",
-    "other": "官网 fibresales.com.au，语言 ?，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "光纤配件 / MC（自有品牌）"
-  ],
-  "channels": {
-    "role": "光纤配件品牌商（澳大利亚，自有标 MC）",
-    "region": "澳大利亚",
-    "contact": "sales@fibresales.com.au"
-  },
-  "signals": [
-    "表内：MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS；质量一般",
-    "快照：You are being redirected..."
-  ],
-  "risks": [
-    "非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 30,
-    "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供"
-  },
-  "email_hook": "For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 sales@fibresales.com.au；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）；Elsa 群发 To 直收 10 轮 2025-04-13→2026-08-28（本户是「澳大利亚（锚 fibresales.com.au；2025-04-13 起月轮，10 轮）」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-08-28「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a045b847fd024f7）",
-      "type": "光纤配件品牌商（澳大利亚，自有标 MC）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "澳大利亚 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS」；研究档 risks：非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@fibresales.com.au）本户见于 2026-08-28 名单；该批次最早 2025-04-13 起共 10 轮，更早轮次 Bcc 未读"
-    },
-    "situation": "澳大利亚 Fibresales（官网重定向，内容未抓到；表内「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS」「质量一般」）；表内未跟进。",
-    "need": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供",
-    "breakpoint": "非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-28；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供。已打开的主题（1/9 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-02) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 10 轮（2025-04-13→2026-08-28，0 回）（第 74 批(m)）；观察打开",
-      "one_question": "For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?"
-    },
-    "facts": [
-      {
-        "date": "2025-02-26",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "8 Port Industrial PoE Switch、48 Port PoE Managed Switch",
-        "why": "9 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2025-02-26（9 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-08-28",
-        "dir": "去",
-        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
-        "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ sales@fibresales.com.au（截至 2026-10-24 无回复）",
-        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
-        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
-      },
-      {
-        "date": "2026-08-28",
-        "dir": "out",
-        "who": "Elsa → sales@fibresales.com.au",
-        "quote": "24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
-        "k": "elsa_bcc",
-        "msg_id": "1a045b847fd024f7"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "MC SFP 自己的牌子",
+   "quote": "MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "Melbourne VIC（03-9761-7925；门牌未取）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 fibresales.com.au，语言 ?，快照状态 ok；角色判定来源：用户表；第 118 批：光纤配件 / MC / SFP 网店（自有牌 Yamasaki MC；「质量一般」）→ 产品不对位（Saga 仅 STC-110XGE）+ 无 KP + 从未跟进 → **不动（B 保留）**；部分坐实（社媒 + 电话）（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "Fibresales（法人 / ABN 1 查未得）",
+  "size": "微型（第 118 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "光纤配件 / MC（自有品牌）"
+ ],
+ "channels": {
+  "role": "光纤配件品牌商（澳大利亚，自有标 MC）",
+  "region": "澳大利亚",
+  "contact": "sales@fibresales.com.au"
+ },
+ "signals": [
+  "表内：MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS；质量一般",
+  "快照：You are being redirected..."
+ ],
+ "risks": [
+  "非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供"
+ },
+ "email_hook": "For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 sales@fibresales.com.au；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）；Elsa 群发 To 直收 10 轮 2025-04-13→2026-08-28（本户是「澳大利亚（锚 fibresales.com.au；2025-04-13 起月轮，10 轮）」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-08-28「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a045b847fd024f7）",
+   "type": "光纤配件品牌商（澳大利亚，自有标 MC）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS」；研究档 risks：非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@fibresales.com.au）本户见于 2026-08-28 名单；该批次最早 2025-04-13 起共 10 轮，更早轮次 Bcc 未读"
+  },
+  "situation": "澳大利亚 Fibresales（官网重定向，内容未抓到；表内「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS」「质量一般」）；表内未跟进。",
+  "need": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供",
+  "breakpoint": "非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-28；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供。已打开的主题（1/9 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-02) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 10 轮（2025-04-13→2026-08-28，0 回）（第 74 批(m)）；观察打开",
+   "one_question": "For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?"
+  },
+  "facts": [
+   {
+    "date": "2025-02-26",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "8 Port Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "9 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2025-02-26（9 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-08-28",
+    "dir": "去",
+    "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+    "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ sales@fibresales.com.au（截至 2026-10-24 无回复）",
+    "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+    "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+   },
+   {
+    "date": "2026-08-28",
+    "dir": "out",
+    "who": "Elsa → sales@fibresales.com.au",
+    "quote": "24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
+    "k": "elsa_bcc",
+    "msg_id": "1a045b847fd024f7"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

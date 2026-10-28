@@ -29,7 +29,8 @@
    "title": "（职务待核）",
    "email": "gireeshk70@gmail.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "领英线索（gmail；职务待核）— 并入 SB-878 Magnus Infotech Trading LLC 备用联系人，不另发（第 118 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -40,8 +41,9 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "阿联酋",
-  "other": "无官网快照；角色判定来源：用户表"
+  "hq": "= SB-878：Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai（第 118 批 官方登记核实 2026-10-28）",
+  "other": "无官网快照；角色判定来源：用户表；第 118 批：无域名 + gmail → 0 查；公司名 = SB-878 法定名 → **并线 → SB-878（一页纸发 Saleem Shaikh MD；Gireesh 作备用联系人）**（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "= SB-878 Magnus Infotech Trading LLC（Magnus Gulf）— 并线"
  },
  "business_lines": [
   "工业交换机分销（阿联酋，待核）"

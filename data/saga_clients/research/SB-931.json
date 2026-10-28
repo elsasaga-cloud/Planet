@@ -43,7 +43,8 @@
    "title": "CEO",
    "email": "wayne@wave1.com.au",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO（研究档；备用 wayneand4305@icloud.com；22 次跟进无回复；Simon「可以多跟进一下」）= 拍板人 / 收件人 — 一页纸一次（最后一次）：集成商 25% B、基站 / 塔架侧宽温 PoE STI-154GP / STI-288DGGPM（802.3at 给 PoE 电台 / 摄像机供电）+ 机房 STC-4424GCPM 一口价、无源 PoE 电台不兼容明说、3 年保 + MOQ 1 + 付费样机 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 wave1.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
+  "hq": "19 Laser Drive, Rowville VIC 3178（+61 3 9212 7200）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 wave1.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案；第 118 批：41 年无线 / 微波通信集成商（许可微波、楼宇间无线、塔架 / 拖车、安装），CEO 为 KP → **集成商 25% B，一页纸一次（最后一次）**；22×0 在先 → 再无回声即不动；坐实（creditorwatch：ABN + ACN + 注册日 + 类型 + GST）；微波 / 射频不碰（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "Wave1 Pty Ltd（ABN 74 006 395 026 / ACN 006 395 026；Australian Proprietary Company, Limited by Shares；Active；GST 2000-07-01 起）",
+  "founded": "1985-04-01（ASIC）；ABN 2000-02-09（第 118 批 官方登记核实 2026-10-28）",
+  "size": "小型（11–50）（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "无线微波通信 / 基础设施集成（澳大利亚）"

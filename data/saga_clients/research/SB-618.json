@@ -47,14 +47,16 @@
    "title": "Manager",
    "email": "craigk@jeatech.com.au",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Manager（研究档；7 次跟进无回复）= 收件人 — 一页纸一次：分销 20% B、对位其在售 10 口工业 PoE 的 STI-288DGGPM $137 / STI-488DGGPM $147 + STI-154GP、宽温 3 年保 + 备库存 MOQ 1 起 + 付费样机、路由 / HMI 不做明说 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Tony Ioannidis",
    "title": "Operations Manager",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Operations Manager（研究档）= 抄送（第 118 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -65,8 +67,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 jeatech.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Unit 1, 72 Bayfield Road East, Bayswater North VIC 3153（(03) 8736 0330；旧址 Unit 36, 41-49 Norcal Rd, Nunawading）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "官网 jeatech.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案；第 118 批：澳新工业电子外设专业分销（Robustel / Teltonika / Milesight 路由、工业面板 PC、ORing IDGPS-C1042GP 在售；备库存 + 自修）→ **分销 20% B，一页纸一次**；回信 → 加厚；部分坐实（名录 + ithistory：成立年 + 地址）（第 118 批 官方登记核实 2026-10-28）",
+  "legal_name": "JEA Technologies Pty Ltd（ABN 1 查未得）",
+  "founded": "2003（第 118 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业蜂窝路由 / 面板 PC / 电子纸 / HMI 分销",

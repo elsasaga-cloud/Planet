@@ -35,7 +35,8 @@
    "title": "Sales",
    "email": "sales@austec.net",
    "phone": "+61 1300 663 442",
-   "source": "https://www.austec.net/"
+   "source": "https://www.austec.net/",
+   "role": "公用销售箱（无具名 KP；11 次跟进无实质回复；Simon「有兴趣」）= 收件人（Attn: Sales Manager）— 一页纸一次：分销 20% B、对位其在售工业 PoE 的 STI-154GP / STI-288DGGPM / STI-488DGGPM 宽温 + 3 年保 + MOQ 1 + 付费样机、给求助电话 / 摄像机供电的 802.3at 口 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -46,11 +47,11 @@
   "level": "B 级加厚 v1（官网快照核对：ONV 替换）"
  },
  "company_facts": {
-  "legal_name": "Austec Communications Pty Ltd（待核）",
-  "founded": "（待核）",
-  "hq": "1025A Pumicestone Road, Toorbul QLD 4510, Australia",
-  "size": "小型通信分销 / 电商",
-  "other": "紧急求助电话自有系列 Teltek"
+  "legal_name": "Austec.net Pty Ltd / Austec Communications（ABN 1 查未得）",
+  "founded": "未取（自述 30+ 年）（第 118 批 官方登记核实 2026-10-28）",
+  "hq": "1025A Pumicestone Road, Toorbul QLD 4510（1300 663 442）（第 118 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 118 批 官方登记核实 2026-10-28）",
+  "other": "紧急求助电话自有系列 Teltek；第 118 批：偏远 / 恶劣环境通信方案商（自研自产防风雨紧急电话 + 分销 Dahua / Teltonika / Cambium / ONV 工业 PoE；客户 公路 / 铁路 / 矿山 / 电站 / 警消）→ **分销 20% B，一页纸一次**；11×0 在先 → 再无回声即不动；部分坐实（官网 contact：法定名 + 地址）；铁路 / 电站 / 警消项目不主动提，不点名 ONV（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "CCTV / 网络交换机 / 工业路由分销",

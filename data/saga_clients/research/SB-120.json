@@ -32,7 +32,8 @@
    "title": "（表内联系人）",
    "email": "ayousfani@pronet-tech.net",
    "phone": "+92 302 261 0124",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "表内联系人（职务未核；2024-01 要 5–7 USD 商用收发器目标价；「有需求会说」×3）— 不动，不发（企业接入 / 数据中心需求来询按集成商 25% 报）（第 118 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -43,11 +44,11 @@
   "level": "B 级加厚 v1（官网快照核对）"
  },
  "company_facts": {
-  "legal_name": "Pronet (Private) Limited",
-  "founded": "",
-  "hq": "Horizon Tower, Clifton Block 3, Karachi, Pakistan",
-  "size": "中小型集成商",
-  "other": "+92-21-35822401-4；迪拜关联公司 LinkQuest"
+  "legal_name": "Pronet (Pvt) Ltd（表内 Pronet Connectivity (Pvt) Ltd.；SECP 号 1 查未得）",
+  "founded": "1996（第 118 批 官方登记核实 2026-10-28）",
+  "hq": "Horizon Tower, Plot Commercial 2/6, Block 3, Clifton, Karachi（+92 21 3582 2401-4）；伊斯兰堡 3rd Floor, Redco Plaza, Jinnah Avenue, Blue Area；拉合尔；迪拜采购联络（第 118 批 官方登记核实 2026-10-28）",
+  "size": "中型（约 200 人，自述）（第 118 批 官方登记核实 2026-10-28）",
+  "other": "+92-21-35822401-4；迪拜关联公司 LinkQuest；第 118 批：IT 基础设施 / 安全 / 数据中心 / 联络中心集成商（Avaya 巴基斯坦独家 Diamond、Fortinet Expert；金融 / 企业客户），需求 = 低端收发器 + 婉拒式回复 → **不动（B 保留）**；部分坐实（官网）；金融 / 关键基础设施项目不主动提（第 118 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "企业网络 / 数据中心",
