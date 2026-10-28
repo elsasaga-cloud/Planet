@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 76
+  "count": 84
  },
  "rows": {
   "SA-061": {
@@ -2392,6 +2392,275 @@
    ],
    "notes": "未坐实；不动（官网不可达 + 12 次无回复）。",
    "code": "SB-944"
+  },
+  "SB-1070": {
+   "batch": 109,
+   "name": "SafeGuard Sverige AB（safeguard.se；Norsborg Fågelviksvägen 9, 145 53（Botkyrka）；org.nr 559523-7867）— 2025-03-18 新登记的安防安装商（企业报警、摄像监控、门禁、卷帘；SNI 80090 / 43342）；股本 SEK 25k；1 名雇员；董事 Isa Ataseven（2004 年生）、替补 Eugen Ataseven；**前身 SafeGuard Sweden AB（556848-7226，2011 起）已于 2025 破产（Hälsinglands tingsrätt）**；研究档 KP Amanda Andén / Sara；表内国别「波兰」有误 → 瑞典",
+   "iso": "SE",
+   "fetched": "2026-10-28",
+   "source": "SE · 1 次检索：allabolag（SafeGuard Sverige AB；Org.nr 559523-7867；Fågelviksvägen 9 145 53 Norsborg；Registreringsdatum 2025-03-18；1 anställd；Aktiekapital 25 Tkr；Ledamot Isa Ataseven f 2004）+ bolagsfakta（Styrelsesuppleant Eugen Ataseven；Botkyrka）+ safeguard.se Integritetspolicy（SafeGuard Sverige AB；Org.nr 559523-7867）+ konkurslistan（SafeGuard Sweden AB 5568487226 konkurs 2025；Stensätravägen 13）+ LinkedIn（Safeguard Sweden AB grundades 2011）",
+   "url": "https://www.allabolag.se/foretag/safeguard-sverige-ab/norsborg/bevakningsf%C3%B6retag/2KJ9D63I5YCZJ",
+   "number": "Org.nr 559523-7867",
+   "status": "Aktiv（2025 新设；前身破产）",
+   "incorporated": "2025-03-18（前身 2011-04-05）",
+   "company_type": "Aktiebolag（Ataseven 家族；股本 SEK 25k）",
+   "sic": [
+    "安防系统安装（报警 / CCTV / 门禁 / 卷帘）+ 电气 / 建筑"
+   ],
+   "address": "Fågelviksvägen 9, 145 53 Norsborg",
+   "accounts": "—（新设）",
+   "accounts_due": "—",
+   "size_band": "小微（1 人）",
+   "officers": [
+    "Isa Ataseven — Styrelseledamot（2004 年生）",
+    "Eugen Ataseven — Styrelsesuppleant",
+    "Amanda Andén / Sara — 研究档 KP（sara@safeguard.se）"
+   ],
+   "psc": "Ataseven 家族",
+   "charges": "",
+   "prev_names": [
+    "SafeGuard Sweden AB（556848-7226；2025 破产）"
+   ],
+   "lines": [
+    "**前身 2025 年破产、新壳 1 人 + 20 岁董事 → 信用风险，不动（B 保留但不进发送包）**",
+    "国别更正为瑞典（研究档「波兰」有误；iso 已为 SE 则不动）；若日后询盘 → 只做预付款小单"
+   ],
+   "notes": "坐实（org.nr）；不动（前身破产 + 新壳）。",
+   "code": "SB-1070"
+  },
+  "SB-1129": {
+   "batch": 109,
+   "name": "REDCORP SA/NV（redcorp.com；布鲁塞尔 Saint-Gilles Rue Emile Féron 168, 1060；BCE / TVA BE 0448.875.715（2021-10 起；吸收原 Redcorp 0437.509.887，1989-05-18 创立））— 1989 年由三位创始人创立的比利时 B2B IT 硬件 / 软件供应商兼电商（独立商户、企业、机构；每年数千订单；PLANET 品牌页以工业 IGS 系列为主、十余款带价）；营业额 €31.97M；≈49 人；创始人 Ronald Reich / Dino Reich；董事 Edward Reich、Daniel Lipski；NACE 46500",
+   "iso": "BE",
+   "fetched": "2026-10-28",
+   "source": "BE · 1 次检索：trendstop（Redcorp NV；BE 0448.875.715；Emile Feronstraat 168 1060 Brussel；turnover 31,968,008 euros；establishment 11/12/1992）+ pappers.be（REDCORP 0448.875.715 Active；Commerce de gros d’équipements de l’information et de la communication；dirigeants Edward Reich / Daniel Lipski / Ronald Reich Management and Consulting；société absorbée Redcorp 0437.509.887 constituée 18 mai 1989）+ redcorp.com About / FAQ（Ronald Reich FOUNDER ronald@；Dino Reich FOUNDER dino@；REDCORP SA/NV；VAT BE 0448 875 715 depuis le 1er octobre 2021）+ LinkedIn（1989；11–50）+ rocketreach（49 employees）",
+   "url": "https://www.pappers.be/fr/company/redcorp-0448.875.715",
+   "number": "BCE / TVA BE 0448.875.715（原 0437.509.887）",
+   "status": "Active",
+   "incorporated": "1989-05-18（原法人）/ 1992-12-11（现法人）",
+   "company_type": "SA / NV（Reich 家族）",
+   "sic": [
+    "B2B IT 硬件 / 软件供应 + 电商（NACE 46500）"
+   ],
+   "address": "Rue Emile Féron 168, 1060 Saint-Gilles (Bruxelles)",
+   "accounts": "营业额 €31,968,008",
+   "accounts_due": "—",
+   "size_band": "中小（≈49 人；€32M）",
+   "officers": [
+    "Ronald Reich — Founder（ronald@redcorp.com）= 拍板人 / 收件人",
+    "Dino Reich — Founder（dino@redcorp.com）= 收件人（抄）",
+    "Edward Reich — Bestuurder（2018 起）；Daniel Lipski — 董事"
+   ],
+   "psc": "Reich 家族（Ronald Reich Management and Consulting）",
+   "charges": "",
+   "prev_names": [
+    "Redcorp SA 0437.509.887（2021 并入）"
+   ],
+   "lines": [
+    "**€32M 的布鲁塞尔 B2B IT 电商，目录已有台系工业交换机 → 分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM（1:1 对照 IGS 系列）+ STC-028GP / STC-228GP / STC-2224GP 一页纸；稿内不点名 Planet",
+    "收件人 ronald@ 直呼 Ronald，抄 dino@；发信窗口 Thu 12–14 CET；法语 / 荷语一句引子"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次；坐实（BCE + 营业额）。",
+   "code": "SB-1129"
+  },
+  "SB-1130": {
+   "batch": 109,
+   "name": "CNSTECH / CNS Tech（cnstech.gr；雅典 Peristeri Andritsainis 15, 12135）— 2013 年正式成立（2007 起副业）的小型 IT 托管 / CCTV / 门禁 / 对讲 / 网络布线安装商兼小网店（在售 Comfast PoE 交换机）；负责人 Panagiotis Lichas（Λίχας Παναγιώτης）+ Akis Lichas（Engineer）；ΑΦΜ / ΓΕΜΗ 未取 → 部分坐实；两箱 26 封：2026-05-21 Panagiotis 回信（已有回声）",
+   "iso": "GR",
+   "fetched": "2026-10-28",
+   "source": "GR · 1 次检索：cnstech.gr 首页 / About / Contact（CNSTECH；Andritsainis 15 Peristeri 12135；legalName Cnstech；από το 2013；info@cnstech.gr；210 5713048）+ Team 页（ιδρύθηκε επίσημα το 2013；side project από το 2007）+ ananas.gr 名录（Υπεύθυνος ΛΙΧΑΣ ΠΑΝΑΓΙΩΤΗΣ；Ανδριτσαίνης 15 ΠΕΡΙΣΤΕΡΙ）；ΑΦΜ / ΓΕΜΗ 1 次检索未命中",
+   "url": "https://www.cnstech.gr/about-us/",
+   "number": "ΑΦΜ / ΓΕΜΗ 未取（部分坐实）",
+   "status": "Active",
+   "incorporated": "2013（活动 2007）",
+   "company_type": "未取（推定个人企业 / Ο.Ε.）",
+   "sic": [
+    "IT 托管 / CCTV / 门禁 / 网络布线 安装 + 小网店"
+   ],
+   "address": "Andritsainis 15, 12135 Peristeri (Attica)",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（2–5 人）",
+   "officers": [
+    "Panagiotis Lichas（Λίχας Παναγιώτης）— 负责人 / 业主 = 拍板人（2026-05-21 回信署名）",
+    "Akis Lichas — Engineer（研究档 KP，info@）= 收件人"
+   ],
+   "psc": "Lichas 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已回过信的雅典小安装商（在售国产 PoE）→ 集成 25% small，一页纸一次（STC-028GP / STC-228GP 对照其在售 Comfast 价位，MOQ 1）；成单再加厚**",
+    "收件人 info@ 直呼 Akis，抄 Panagiotis；发信窗口 Thu 12–14 EET；希腊语一句引子；稿内不点名 Comfast"
+   ],
+   "notes": "集成 25% small；一页纸一次；部分坐实（ΑΦΜ 未取）。",
+   "code": "SB-1130"
+  },
+  "SB-522": {
+   "batch": 109,
+   "name": "GUILERA, S.A.（guilera.com；品牌 ADILEC = 光纤通信系统；巴塞罗那 Molins de Rei C/ Ramon Llull 8, 08750；CIF A08851461；Registro Mercantil de Barcelona hoja 59776）— 1953 年起（S.A. 1981-07-22）的汽车电子 / 工业电子制造商（CNAE 2931；ISO 9001 / 14001 / TS 16949），ADILEC 事业部设计生产视频 / 语音 / 数据 / 以太网光纤传输系统（MC、FS、VC、SFP 全部自有 logo；表内「质量高」）；股本 €60,101；adilec.com 已停放；KP compras@（采购部）",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：Iberinform（GUILERA SA；CIF A08851461；CALLE RAMON LLULL S/N 08750 MOLINS DE REI；CNAE 2931；BORME 05/11/2025 Modificaciones Estatutarias hoja 59776）+ infoempresa（constitución 22/07/1981）+ einforma（Capital Social 60.101,21 €；40 actos BORME；C/ Ramon Llull 8）+ guilera.com（Adilec = Guilera’s brand for fiber optic communication systems；fundó en 1953；GUILERA S.A. 1981；guilera@guilera.com；+34 936 68 17 94）+ lightmobilitycluster（ISO 9001 / 14001 / TS 16949）",
+   "url": "https://www.iberinform.es/empresa/229493/guilera",
+   "number": "CIF A08851461",
+   "status": "Active",
+   "incorporated": "1981-07-22（活动 1953）",
+   "company_type": "S.A.（私有；股本 €60,101）",
+   "sic": [
+    "汽车 / 工业电子制造 + 光纤通信系统自有品牌 ADILEC（CNAE 2931）"
+   ],
+   "address": "C/ Ramon Llull 8, 08750 Molins de Rei (Barcelona)",
+   "accounts": "—（2024 年报已存）",
+   "accounts_due": "—",
+   "size_band": "中小（制造商；人数未取）",
+   "officers": [
+    "（采购部）— compras@guilera.com = 收件人",
+    "（未具名）— ADILEC product manager（点名）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "Guilera Especialidades Industriales（1953）"
+   ],
+   "lines": [
+    "**自有品牌 ADILEC 的光传输设备「制造商」（MC / FS / VC / SFP 全贴自家 logo，研究档判断外壳为国产代工）→ 贴标 OEM 30% 正中目标，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STC-110XGE 一页纸 + 「under the ADILEC label」切口；只报 OEM 档",
+    "收件人 compras@ 点名 ADILEC product manager；发信窗口 Thu 12–14 CET；西语一句引子；汽车主业不碰（不谈 E-mark）"
+   ],
+   "notes": "贴标 30% 目标；B BIG；加厚一次；坐实（CIF + 成立日）。",
+   "code": "SB-522"
+  },
+  "SB-1008": {
+   "batch": 109,
+   "name": "Avstek Oy（avstek.fi；海门林纳 Hämeenlinna Vanajantie 10a, 13110（注册地 Janakkala；PL 21, 14201 Turenki）；Y-tunnus 2721676-8）— 2015-10-30 成立的小型安防 / 电气安装承包商兼网店（Tukes S3 电气承包 + 安保业许可；网店 PoE 交换机 4 款全为 PLANET 备库）；toimitusjohtaja Jari Haaparanta（董事；Tanja Haaparanta 替补 = 家族）；1–4 人；表内未跟进",
+   "iso": "FI",
+   "fetched": "2026-10-28",
+   "source": "FI · 1 次检索：kauppalehti（Avstek Oy；Y-tunnus 2721676-8；Toimiala 80200；Toimitusjohtaja Haaparanta Jari Lasse Olavi）+ finder.fi（Vanajantie 10 A 13110 Hämeenlinna；PL 21 Turenki；1–4 henkilöä；perustettu 2015；kotipaikka Janakkala）+ vainu（Perustettu 30.10.2015；hallitus Jari / Tanja Haaparanta）+ avstek.fi Yritysesittely（Sähköurakoitsija Tukes S3；Turvallisuusalan elinkeinolupa）",
+   "url": "https://www.finder.fi/Turvaj%C3%A4rjestelm%C3%A4t/Avstek+Oy/H%C3%A4meenlinna/yhteystiedot/3101598",
+   "number": "Y-tunnus 2721676-8",
+   "status": "Aktiivinen",
+   "incorporated": "2015-10-30",
+   "company_type": "Oy（Haaparanta 家族）",
+   "sic": [
+    "安防 / 电气安装承包 + 安防 / 网络产品网店（TOL 80200）"
+   ],
+   "address": "Vanajantie 10a, 13110 Hämeenlinna",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（1–4 人）",
+   "officers": [
+    "Jari Haaparanta — Toimitusjohtaja / 董事 = 拍板人 / 收件人（info@avstek.fi 点名）"
+   ],
+   "psc": "Haaparanta 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**1–4 人的芬兰安装商兼网店（PoE 类目全是台系）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 1:1 对照；MOQ 1）；有回声再加厚**；稿内不点名 Planet",
+    "表内未跟进 → 首触；收件人 info@ 点名 Jari；发信窗口 Thu 12–14 EET；芬兰语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（Y-tunnus）。",
+   "code": "SB-1008"
+  },
+  "SB-1011": {
+   "batch": 109,
+   "name": "Binär Teknik Scandinavia AB（binarteknik.se；马尔默 Lugna Gatan 39, 211 59；org.nr 559181-6201；VAT SE559181620101）— 2018-11-26 登记（2019-01-24 现名；前身 Svensk Binär Teknik AB 556517-3753，1995/1996 起）的丹麦 Danbit A/S 瑞典销售壳（0 雇员；发货与维修均在丹麦 Køge；2025 营收 SEK 1.28M、利润 SEK 393k）；董事 Kirsten Anette Hansen Petersen、替补 Peter Grubb Jensen（= Danbit 管理层）；表内「Antaira、Planet 的工业 FS / MC / SFP」",
+   "iso": "SE",
+   "fetched": "2026-10-28",
+   "source": "SE · 1 次检索：allabolag（Binär Teknik Scandinavia AB；Org.nr 559181-6201；Lugna Gatan 39 Malmö；Registreringsdatum 2018-11-26；0 anställda；Kirsten Anette Hansen Petersen）+ bolagsfakta（omsättning 1 277 KSEK 2025；resultat 393 KSEK；Styrelsesuppleant Peter Grubb Jensen；VAT SE559181620101）+ riksdelen（Svensk Binär Teknik AB 556517-3753；1996 起；leveranser från Køge）+ binarteknik.se Kontakta oss（Org. nr 559181-6201）+ krafman（现名 2019-01-24；aktiekapital 50 000）",
+   "url": "https://www.allabolag.se/5591816201/binar-teknik-scandinavia-ab",
+   "number": "Org.nr 559181-6201",
+   "status": "Aktiv",
+   "incorporated": "2018-11-26（前身 1995-09-25）",
+   "company_type": "Aktiebolag（Danbit A/S 管理层持有；0 雇员）",
+   "sic": [
+    "工业电子 / 网络产品 分销（瑞典销售壳；库存在丹麦）"
+   ],
+   "address": "Lugna Gatan 39, 211 59 Malmö",
+   "accounts": "2025 营收 SEK 1,277k；利润 SEK 393k",
+   "accounts_due": "—",
+   "size_band": "壳（0 雇员）",
+   "officers": [
+    "Kirsten Anette Hansen Petersen — Styrelseledamot（Danbit 董事）",
+    "Peter Grubb Jensen — Styrelsesuppleant（= Danbit adm. direktør）"
+   ],
+   "psc": "Danbit A/S 管理层",
+   "charges": "",
+   "prev_names": [
+    "Svensk Binär Teknik AB（556517-3753）"
+   ],
+   "lines": [
+    "**丹麦 Danbit 的瑞典销售壳 → 并线 SB-1022 Danbit A/S（同一拍板人 Peter Grubb Jensen），不单独发**",
+    "发送包只走 SB-1022；此户 B 保留"
+   ],
+   "notes": "坐实（org.nr）；并线 SB-1022。",
+   "code": "SB-1011"
+  },
+  "SB-1022": {
+   "batch": 109,
+   "name": "DANBIT A/S（Dansk Binær Teknik；danbit.dk / danbit.com；克厄 Køge Værkstedsvej 39, 4600（注册地 Birkevej 4, 2680 Solrød Strand）；CVR 78788216）— 1970 年起（A/S 1985-09-26）的工业 IT / 网络专业分销商（工业 PC、网络、PoE、光纤、自动化；**把 PLANET 工业 PoE 管理交换机换上自家 ESW 货号卖 = 贴牌买家**；瑞典销售壳 Binär Teknik SB-1011）；股本 DKK 500k；adm. direktør Peter Grubb Jensen；董事长 Birgith Elsa Grubb Jensen；董事 Kirsten Anette Hansen Petersen；7 人；FY2025-06 毛利 DKK 3.94M、净利 1.73M、权益 7.76M",
+   "iso": "DK",
+   "fetched": "2026-10-28",
+   "source": "DK · 1 次检索：krak.dk（DANBIT A/S；Aktieselskab；Registreringsdato 26.09.1985；CVR 78788216；Selskabskapital 500000；Adm. Direktør Peter Grubb Jensen；Bestyrelsesformand Birgith Elsa Grubb Jensen；Bestyrelsesmedlem Kirsten Anette Hansen Petersen；Antal ansatte 7；Bruttofortjeneste 3 935 tkr）+ proff.dk（DANSK BINÆR TEKNIK A/S CVRP 1003198485 Del af DANBIT A/S；Regnskab 2025-06 Årets resultat 1.727；Egenkapital 7.757）+ ownr.dk（Stiftet 26.09.1985；AKTIV；SALG@DANBIT.DK；Birkevej 4 Solrød Strand）+ danbit.dk/en（Værkstedsvej 39 4600 Køge；CVR 78788216）+ erhvervplus（Årets resultat 2020–2024 −142 / 9,149 / 2,258 / 1,942 / 3,115 tDKK）",
+   "url": "https://www.proff.dk/firma/danbit-as/solr%C3%B8d-strand/elektronik-og-telekommunikationsudstyr-engros/1AWPDKI10MZ",
+   "number": "CVR 78788216",
+   "status": "Aktiv",
+   "incorporated": "1985-09-26（活动 1970）",
+   "company_type": "A/S（Grubb Jensen 家族；股本 DKK 500k）",
+   "sic": [
+    "工业 IT / 网络 / 自动化产品分销（丹麦 + 瑞典）"
+   ],
+   "address": "Værkstedsvej 39, 4600 Køge",
+   "accounts": "FY2025-06 毛利 DKK 3,935k；净利 DKK 1,727k；权益 DKK 7,757k",
+   "accounts_due": "—",
+   "size_band": "小微（7 人）",
+   "officers": [
+    "Peter Grubb Jensen — Adm. direktør / 董事 = 拍板人 / 收件人（salg@danbit.dk 点名）",
+    "Birgith Elsa Grubb Jensen — Bestyrelsesformand",
+    "Kirsten Anette Hansen Petersen — Bestyrelsesmedlem"
+   ],
+   "psc": "Grubb Jensen 家族",
+   "charges": "",
+   "prev_names": [
+    "Dansk Binær Teknik A/S"
+   ],
+   "lines": [
+    "**已把台系工业交换机换成自家 ESW 货号卖的丹麦分销商 = 现成贴牌买家 → 贴标 OEM 30% 可谈 + 分销 20%，B，加厚一次（small，7 人）**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE 一页纸 + 1:1 对照其 ESW 货号；只报 OEM 档；稿内不点名 Planet / Antaira",
+    "收件人 salg@ 点名 Peter Grubb Jensen；并线 SB-1011（瑞典壳）；发信窗口 Thu 12–14 CET；丹麦语一句引子"
+   ],
+   "notes": "贴标 30% 可谈 + 分销 20%；B；加厚一次（small）；坐实（CVR + 财务）；并线 SB-1011。",
+   "code": "SB-1022"
+  },
+  "SB-1052": {
+   "batch": 109,
+   "name": "LAN Számítástechnikai Szolgáltató Kft.（LAN Kft.；lan.hu；布达佩斯 XV. Kolozsvár u. 7, 1155；adószám 10678994-2-42；cégjegyzékszám 01-09-162407 Fővárosi Cégbíróság）— 1991 / 1992-05-04 成立的网络 / 布线 / 机柜 / UPS 分销商兼电商 + 系统集成 + 网络施工 + 自有「生产」部门（Digitus、X-Tech 机柜、PowerWalker UPS；有源类目以 PLANET 工业交换机为主并自编货号）；ügyvezető Hegedűs József；所有人 Fejes András Béláné；20–49 人；TEÁOR 4650",
+   "iso": "HU",
+   "fetched": "2026-10-28",
+   "source": "HU · 1 次检索：lan.hu Kapcsolat / ÁSZF（Cégjegyzékszám 01-09-162407 Fővárosi Cégbíróság；Adószám 10678994-2-42；1155 Budapest Kolozsvár utca 7；Hegedűs József Ügyvezető；sales@lan.hu；部门：Iroda / Kereskedelem / Webshop / Rendszerintegráció / Hálózatépítés / Gyártás）+ companywall.hu（LAN Számítástechnikai Szolgáltató Kft.；Alapítás 1992.05.04；Tulajdonos Fejes András Béláné；Ügyvezető Hegedűs József）+ nemzeticegtar（létszám 20–49 fő；alapítás 1991；TEÁOR 4650）+ ceginfo / opten",
+   "url": "https://www.companywall.hu/v%C3%A1llalat/lan-kft/MMHpGT00",
+   "number": "Adószám 10678994-2-42；Cégjegyzékszám 01-09-162407",
+   "status": "Active",
+   "incorporated": "1992-05-04（活动 1991）",
+   "company_type": "Kft.（私有；所有人 Fejes András Béláné）",
+   "sic": [
+    "网络 / 布线 / 机柜 / UPS 分销 + 电商 + 系统集成 + 网络施工（TEÁOR 4650）"
+   ],
+   "address": "Kolozsvár u. 7, 1155 Budapest",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（20–49 人）",
+   "officers": [
+    "Hegedűs József — Ügyvezető = 拍板人 / 收件人（sales@lan.hu 点名）",
+    "Fejes András Béláné — Tulajdonos（所有人）",
+    "Fejes Éva — Gazdasági vezető"
+   ],
+   "psc": "Fejes 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**20–49 人、自编货号卖台系工业交换机的布达佩斯分销商 → 分销 20% + 贴标可谈，B，加厚一次（small）**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + STC-028GP / STC-228GP / STC-2224GP 一页纸 + 1:1 对照其自编货号；稿内不点名 Planet",
+    "收件人 sales@ 点名 Hegedűs József；发信窗口 Thu 12–14 CET；匈牙利语一句引子"
+   ],
+   "notes": "分销 20% + 贴标可谈；B；加厚一次（small）；坐实（adószám + cégjegyzékszám）。",
+   "code": "SB-1052"
   }
  }
 }

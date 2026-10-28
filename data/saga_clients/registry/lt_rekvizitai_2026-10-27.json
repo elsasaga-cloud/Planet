@@ -4,7 +4,7 @@
   "source": "Lithuania · Registrų centras / Sodra 公开数据（rekvizitai.vz.lt）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 5
+  "count": 6
  },
  "rows": {
   "SB-789": {
@@ -168,6 +168,40 @@
    ],
    "notes": "分销 20% small；一页纸一次；坐实（kodas 站脚 + rekvizitai）。",
    "code": "SB-1060"
+  },
+  "SB-998": {
+   "batch": 109,
+   "name": "AKIS Technologies, UAB（原 UAB TIPAS；akistechnologies.com；维尔纽斯 M. K. Čiurlionio g. 82, LT-03100；įmonės kodas 120113138；PVM LT201131314）— 1990-12-14 登记的排队管理 / 停车 / 卡车流量 / 交通管理系统与电子标识制造商（「立陶宛唯一排队系统制造商」；数字标牌、互动自助机、LAN-RS485 控制器、云平台）；direktorius Vladislavas Grod；komercijos direktorius Vilius Ivanauskas；16–18 人；2025 营收 €861k；股本 €2,915；6 名自然人股东；表内「工业 FS」；表内未跟进",
+   "iso": "LT",
+   "fetched": "2026-10-28",
+   "source": "LT · 1 次检索：rekvizitai.vz.lt（AKIS Technologies, UAB；Registration code 120113138；VAT LT201131314；Share capital 2 915 €；Manager Vladislavas Grod direktorius；M. K. Čiurlionio g. 82 Vilnius）+ okredo（registracijos data 1990-12-14；EVRK 62.20）+ tax.lt（2025 pajamos 861 tūkst. €；pelnas 6 tūkst. €；savininkai 6 fiziniai asmenys）+ geltoni / imones.lt（darbuotojai 18 / 16；Vilius Ivanauskas Komercijos direktorius）+ chamber.lt（vieninteliai eilių valdymo sistemų gamintojai Lietuvoje）",
+   "url": "https://rekvizitai.vz.lt/en/company/tipas/",
+   "number": "Įmonės kodas 120113138；PVM LT201131314",
+   "status": "Veikiantis",
+   "incorporated": "1990-12-14",
+   "company_type": "UAB（6 名自然人股东）",
+   "sic": [
+    "排队 / 停车 / 交通管理系统与电子标识 制造（自研软硬件）"
+   ],
+   "address": "M. K. Čiurlionio g. 82, LT-03100 Vilnius",
+   "accounts": "2025 营收 €861k；税前利润 €6k",
+   "accounts_due": "—",
+   "size_band": "小型（16–18 人）",
+   "officers": [
+    "Vladislavas Grod — Direktorius = 拍板人",
+    "Vilius Ivanauskas — Komercijos direktorius = 收件人（info@ 点名）"
+   ],
+   "psc": "6 名自然人（未取）",
+   "charges": "",
+   "prev_names": [
+    "UAB TIPAS"
+   ],
+   "lines": [
+    "**自研交通 / 停车 / 排队系统的小厂（机柜里要工业交换机）→ 采购型 25% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP 配路侧 / 停车场柜）；有回声再加厚**；不谈 EN 50155 / 轨交",
+    "表内未跟进 → 首触；收件人 info@ 点名 Vilius Ivanauskas；发信窗口 Thu 12–14 EET；立陶宛语一句引子"
+   ],
+   "notes": "采购型 25% small；一页纸一次；坐实（kodas + 财务）。",
+   "code": "SB-998"
   }
  }
 }

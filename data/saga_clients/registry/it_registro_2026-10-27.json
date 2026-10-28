@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 23
+  "count": 27
  },
  "rows": {
   "SA-070": {
@@ -748,6 +748,131 @@
    ],
    "notes": "贴标可谈 small + 分销 20%；B；一页纸一次；坐实（P.IVA + REA）。",
    "code": "SB-1071"
+  },
+  "SB-996": {
+   "batch": 109,
+   "name": "ADJ（品牌；进口与分销主体 IoT Tecnologie s.r.l.，P.IVA / CF 04446661219；adj.it；罗马 San Cesareo Via della Faeta 1, 00030）— 2006 年起的意大利 IT / 电子自有品牌（PC、笔记本、一体机、耳机、UPS、外设、扩展坞；「设计在意大利、与中国合作厂生产」；意大利 100+ ADJ Zone、比利时 70+ 经销；表内「商业 PoE」「质量一般」）；11–50 人；表内未跟进",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：adj.it 页脚（© 2025 ADJ；P.IVA e CF 04446661219；I prodotti ADJ sono Importati e distribuiti da IoT Tecnologie s.r.l.；info@adj.it）+ Chi siamo（nasce nel 2006；partner produttivi in Cina；100+ ADJ Zone；70+ rivenditori in Belgio）+ LinkedIn（11–50；San Cesareo；2006）+ Trustpilot（via della Faeta 1 00030 San Cesareo）",
+   "url": "https://www.adj.it/chi-siamo/",
+   "number": "P.IVA / CF 04446661219（IoT Tecnologie s.r.l.；REA 未取）",
+   "status": "Active",
+   "incorporated": "品牌 2006",
+   "company_type": "S.r.l.（品牌运营主体 IoT Tecnologie s.r.l.）",
+   "sic": [
+    "IT / 消费电子 自有品牌进口分销（中国代工）"
+   ],
+   "address": "Via della Faeta 1, 00030 San Cesareo (RM)",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "（未具名）— 收件人 info@adj.it（点名 product manager networking / ufficio acquisti）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已在中国代工自有品牌的意大利 IT 品牌（目录有商用 PoE）→ 贴标 OEM 30% 可谈（ADJ 标 PoE / 桌面交换机），B，一页纸一次（OEM 切口：STC-028GP / STC-228GP / STC-2224GP）；有回声再加厚**；只报 OEM 档",
+    "表内未跟进 → 首触；发信窗口 Thu 12–14 CET；意语一句引子；稿内不点名其现有代工厂"
+   ],
+   "notes": "贴标 30% 可谈；B；一页纸一次；坐实（P.IVA 站脚 + 运营主体）。",
+   "code": "SB-996"
+  },
+  "SB-997": {
+   "batch": 109,
+   "name": "Agmultivision s.r.l.（Unipersonale；agmultivision.it / shop.agmultivision.it；米兰 Segrate Via Calabria 15, 20054；P.IVA 04302850963；REA MI-1739481）— 2004 年起的专业视频 / 通信 / 多媒体 / 互动技术增值分销商（投影、视频会议、大屏、数字标牌、控制室、VR、光纤延长器；Peerless-AV 意大利分销；MePA 公共采购供应商）；股本 €30,000（曾 €52,500）；11–50 人；表内「switch」「质量一般」；表内未跟进",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：agmultivision.it 页脚 / Contattaci（Agmultivision s.r.l. - Unipersonale；Via Calabria 15 20054 Segrate (MI)；P.Iva IT04302850963；REA MI-1739481；Capitale Sociale € 30.000,00 i.v.；PEC agmultivision@pec.it；info@agmultivision.it）+ reportaziende（ATECO 46.50.10）+ amministrazionicomunali MePA（AGMULTIVISION UNIPERSONALE；Prodotti multimediali, audio-visivi）+ LinkedIn（2004；11–50）+ displaydaily 2018（Peerless-AV distributor）",
+   "url": "https://www.agmultivision.it/en/contact-us/",
+   "number": "P.IVA / CF 04302850963；REA MI-1739481",
+   "status": "Active",
+   "incorporated": "2004",
+   "company_type": "S.r.l. Unipersonale（私有）",
+   "sic": [
+    "专业 AV / 多媒体 / 互动技术 增值分销（ATECO 46.50.10）"
+   ],
+   "address": "Via Calabria 15, 20054 Segrate (MI)",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "（未具名）— 收件人 info@agmultivision.it（点名 product manager networking）"
+   ],
+   "psc": "单一股东（未取）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**专业 AV 增值分销商（AV-over-IP / 数字标牌项目要管理型 PoE 交换机）→ 分销 20% small，一页纸一次（STC-228GP / STC-2224GP / STC-424XGGPM-280W：IGMP / QoS 管理型）；有回声再加厚**",
+    "表内未跟进 → 首触；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（P.IVA + REA）。",
+   "code": "SB-997"
+  },
+  "SB-431": {
+   "batch": 109,
+   "name": "PROTEKNA S.R.L.（protekna.com / protekna.it；维罗纳 Villafranca di Verona – Dossobuono Via A. Volta 4/E, 37062；P.IVA 03451940237；REA VR-337644）— 2004-11-19 成立、2005-01-03 登记的工业自动化元件分销商（Mitsubishi Electric、Moxa、Murrelektronik、Hilscher、Grafos、Mean Well、Molex 意大利经销）；股本 €10,000；6 人；2024 营收 €2.41M（2022 €3.07M → 下滑）、净利 €186k；KP Stefano Turrina；表内「switch 11」",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（PROTEKNA S.R.L.；P.IVA 03451940237；VIA ARNALDO PORTA 4/E 37069 VILLAFRANCA DI VERONA；Rea 337644；Data Iscrizione 03/01/2005；Fatturato € 2.408.572 2024；Dipendenti 6；Utile € 186.153；Capitale € 10.000）+ aziende.money.it（Ricavi 2022–2024 3.07M / 2.91M / 2.41M；sede VIA A VOLTA 4E 37062）+ protekna.com 页脚 / contacts（P.iva 03451940237；REA VR-337644；Via A.Volta 4/E Dossobuono；reseller of mitsubishi electric moxa murrelektronik hilscher grafos meanwell）+ reportaziende（costituzione 19/11/2004）",
+   "url": "https://www.ufficiocamerale.it/5650/protekna-srl",
+   "number": "P.IVA / CF 03451940237；REA VR-337644",
+   "status": "Active",
+   "incorporated": "2005-01-03（成立 2004-11-19）",
+   "company_type": "S.r.l.（私有；股本 €10,000）",
+   "sic": [
+    "工业自动化元件分销（PLC / 工业通信 / 连接 / 电源）"
+   ],
+   "address": "Via A. Volta 4/E, 37062 Dossobuono – Villafranca di Verona (VR)",
+   "accounts": "2024 营收 €2,408,572；净利 €186,153",
+   "accounts_due": "—",
+   "size_band": "小微（6 人）",
+   "officers": [
+    "Stefano Turrina — 研究档 KP（stefano.turrina@protekna.it）= 收件人",
+    "（未具名）— amministratore（拍板人未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**卖 Moxa 的 6 人工业自动化分销商（营收下滑中，需要毛利）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作 Moxa EDS 第二价位）；有回声再加厚**；稿内不点名 Moxa",
+    "收件人 stefano.turrina@ 直呼 Stefano；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（P.IVA + REA + 营收）。",
+   "code": "SB-431"
+  },
+  "SB-816": {
+   "batch": 109,
+   "name": "LORWEN（品牌 2013 起；运营主体 LAPOTECH S.R.L.S.，P.IVA 05082330654；lorwen.it；萨莱诺 Sarno 法定 Via Starzella 16 / Via Prima Starzella 6，仓 Via Roma 60, 84087）— 自有品牌视频监控（LW- 系列 4K NVR / XVR、IP / AHD 摄像机、Wi-Fi 套件、5 口千兆 PoE 交换机、54 V 电源、PoE 分离器；「设计与元件在意大利决定」= 中国代工），经意大利多家经销商分销；表内「switch 看着像丰润达的」；表内无邮",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：lorwen.it Condizioni / 页脚（LAPOTECH S.R.L.S.；Via Starzella 16 84087 Sarno (SA)；Partita IVA 05082330654；proprietaria del sito）+ Chi siamo（marchio LORWEN 2013；distribuito da Lapotech srl；design deciso in Italia）+ Contatti（LORWEN c/o Lapotech SRLS；Via Roma 60 Sarno；info@ / assistenza@lorwen.it；081 941283）+ eBay 卖家信息（Lapotech Srl；Via Prima Starzella 6 Sarno；IT 05082330654）",
+   "url": "https://lorwen.it/chi-siamo/",
+   "number": "P.IVA 05082330654（LAPOTECH S.R.L.S.；REA 未取）",
+   "status": "Active",
+   "incorporated": "品牌 2013",
+   "company_type": "S.r.l.s.（简易有限公司；小微）",
+   "sic": [
+    "自有品牌视频监控 + PoE 配件（中国代工；意大利经销网）"
+   ],
+   "address": "Via Starzella 16, 84087 Sarno (SA)（仓 Via Roma 60）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "（未具名）— 收件人 info@lorwen.it（点名 titolare / responsabile prodotto）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 LW- 已贴国产 PoE 交换机的小品牌商 → 贴标 OEM 30% 可谈（small），B，一页纸一次（STC-028GP / STC-228GP 对照其 5 口 PoE；只报 OEM 档）；有回声再加厚**",
+    "表内无邮 → 首触 info@；发信窗口 Thu 12–14 CET；意语一句引子；稿内不点名丰润达"
+   ],
+   "notes": "贴标 30% 可谈 small；B；一页纸一次；坐实（P.IVA 站脚）。",
+   "code": "SB-816"
   }
  }
 }

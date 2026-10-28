@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 7
+  "count": 8
  },
  "rows": {
   "SA-011": {
@@ -237,6 +237,38 @@
    ],
    "notes": "贴标 30% 目标 + 分销 20%；B BIG；加厚一次；坐实（SIREN + 更名公告）。",
    "code": "SB-1016"
+  },
+  "SB-764": {
+   "batch": 109,
+   "name": "IFOTEC SAS（ifotec.com；伊泽尔 Voiron ZAC de Champfeuillet, 8 route des Bois, 38500；SIREN 421 531 708；TVA FR25421531708；LEI 969500A8ZSNBM6U30P48）— 1999-01-02 成立的光纤信号传输设备**制造商**（INet 系列安全工业交换机 INet4+ / INet6 / INet6X 10G，「entièrement conçu et fabriqué dans notre usine à Voiron」= 法国自产；街道机柜 / 关键基础设施网络安全）；股本 €113,335；20–49 人；Président Gilles Billet（1953 年生）、DG Yves-Gaël Billet（1983 年生，家族）；研究档 KP G. Billet（gbillet@）；表内「工业」",
+   "iso": "FR",
+   "fetched": "2026-10-28",
+   "source": "FR · 1 次检索：pappers（IFOTEC；SIREN 421 531 708；ZAC DE CHAMPFEUILLET 8 ROUTE DES BOIS 38500 VOIRON；Fabrication d’équipements de communication；Effectif 20–49 2022；Création 02/01/1999；BILLET Gilles Président；BILLET Yves-Gael DG；LEI）+ societe.com（capital 113 335 €；NAF 2630Z；Président Gilles BILLET né 1953；DG Yves-Gaël BILLET né 1983）+ ifotec.com（INet6X entièrement conçu et fabriqué dans notre usine à Voiron；INet4+ PoE managed）",
+   "url": "https://www.pappers.fr/entreprise/ifotec-421531708",
+   "number": "SIREN 421 531 708；TVA FR25421531708",
+   "status": "Active",
+   "incorporated": "1999-01-02",
+   "company_type": "SAS（Billet 家族；股本 €113,335）",
+   "sic": [
+    "光纤信号传输 / 安全工业交换机 制造（法国自产；NAF 26.30Z）"
+   ],
+   "address": "ZAC de Champfeuillet, 8 route des Bois, 38500 Voiron",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（20–49 人）",
+   "officers": [
+    "Gilles Billet — Président / 创始人（研究档 KP gbillet@）",
+    "Yves-Gaël Billet — Directeur général（2024 起；家族）"
+   ],
+   "psc": "Billet 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自研自产工业交换机的法国厂（Made in France 为卖点）= 同行制造商 → 不动**",
+    "若日后出现「低价商用线 / 配件」询盘再按 OEM 30% 对待"
+   ],
+   "notes": "坐实（SIREN）；同行制造商 → 不动。",
+   "code": "SB-764"
   }
  }
 }
