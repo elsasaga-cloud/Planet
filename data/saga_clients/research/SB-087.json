@@ -31,7 +31,14 @@
    "title": "PM",
    "email": "kent.wang@assmann.com.tw",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "PM, ASSMANN Electronic Asia（德國 DIGITUS 亞洲採購辦；2025-12 回「I/O modules」）= 收件人 — 一頁紙一次：貼標 OEM 30%，DIGITUS PoE 線對位 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM + STC-110XGE 一口價 + DIGITUS 標 / 彩盒 / CE / RoHS / REACH 文件；串口 / HDMI / I/O 模組 明說不做；回信 → 加厚 + 升 A— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Matthias Christian Listl",
+   "email": "",
+   "role": "代表人 / 董事（twincn；統編 53733622；董事另 漆曉燕）— 拍板人，不直發（第 116 批 官方登记核实 2026-10-28）",
+   "source": "https://twincn.com/item.aspx?no=53733622"
   }
  ],
  "grade_override": null,
@@ -42,11 +49,11 @@
   "level": "B 级加厚 v1（快照空页 + 表内：品牌采购办 OEM）"
  },
  "company_facts": {
-  "legal_name": "ASSMANN Asia Co., Ltd.（待核）",
-  "founded": "",
-  "hq": "台湾（ASSMANN Electronic GmbH 亚洲办）",
-  "size": "跨国品牌亚洲采购办",
-  "other": "DIGITUS 网络 / 连接产品品牌"
+  "legal_name": "阿斯門亞洲有限公司 ASSMANN ELECTRONIC ASIA CO. LTD.（統一編號 53733622；資本額 NT$5,000,000；母公司 ASSMANN Electronic GmbH, Lüdenscheid；寧波 / 東莞 / 香港 辦公室）",
+  "founded": "2012-01-31（第 116 批 官方登记核实 2026-10-28）",
+  "hq": "臺北市內湖區新湖一路77號7樓（02-2793-4088）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（採購辦；集團 歐洲 10 國）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "DIGITUS 网络 / 连接产品品牌；第 116 批：德國 DIGITUS 的亞洲貼牌採購辦 = 歐洲主戰場的源頭採購 → **貼標 OEM 30% B（升 A 候選），一頁紙一次**；守界：UKCA 只對 GB 提、不點名現供應商；坐实（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "DIGITUS 品牌网络 / 连接 / 机柜产品（亚洲贴牌采购）"

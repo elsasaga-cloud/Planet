@@ -28,11 +28,18 @@
  ],
  "kp": [
   {
-   "name": "John Chen",
+   "name": "Jone (John) Chen",
    "title": "（表内联系人）",
    "email": "jone.chen@aetektec.com",
    "phone": "+886 2 8245 2822",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Product Manager（ZoomInfo）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位其「2 光 10 電」的 STC-228GP / STC-2216GP + 管理機 STC-4424GCPM 一口價 + AETEK 標 + 付費樣機；NDAA / TAA 明說無法聲稱— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "李慧玉",
+   "email": "",
+   "role": "asmag 供應商頁聯絡人（高譽科技）— 備用（第 116 批 官方登记核实 2026-10-28）",
+   "source": "asmag.com.tw 供應商 高譽科技股份有限公司"
   }
  ],
  "grade_override": null,
@@ -43,11 +50,11 @@
   "level": "B 级加厚 v1（官网快照核对：台系品牌 ODM）"
  },
  "company_facts": {
-  "legal_name": "AETEK Inc.",
-  "founded": "（待核）",
-  "hq": "新北市，台湾",
-  "size": "中小型 PoE 品牌商",
-  "other": "VNS Technologies（SB-298）为其阿联酋伙伴"
+  "legal_name": "高譽科技股份有限公司 AETEK Inc.（統一編號 未取）",
+  "founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+  "hq": "6F, No. 192-1, Lien-Cheng Rd., Zhonghe Dist., New Taipei City 235（+886-2-8245-2822；舊址 五股區五工三路106巷3號）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "11–50 人（第 116 批 官方登记核实 2026-10-28）",
+  "other": "VNS Technologies（SB-298）为其阿联酋伙伴；第 116 批：PoE 專業品牌、PM 曾言「便宜方案可找 Saga / 他們軟體 + Saga 硬體」→ **貼標 OEM 30% B，一頁紙一次**；與 Volktek（SB-138，連城路192號）同集團推定 → 兩戶一線、不重複報價；守界：不提 NDAA / TAA / UL；部分坐实（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "PoE 交换机 / 延长 / 注入 / 备援（自有品牌）",

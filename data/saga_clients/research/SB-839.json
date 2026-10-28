@@ -1,231 +1,241 @@
 {
-  "code": "SB-839",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（ilucoltd.com，快照 2026-10-21）",
-  "summary": "台湾 iLu Co., Ltd.（贸易公司：SFP+ DAC、以太网测试仪、网络变压器/FPCB、LevelOne、润滑油/塑料/IT 废料等杂项；表内「PoE / SFP / bypass 模块 / 大口 FS，基本都是海思的」「之前联系过，邮件中有详细的联系信息」；KP Angus Tseng（President，angus@））；表内无跟进记录。",
-  "type": "台湾贸易公司（多品类，网络产品为其一）",
-  "size": "",
-  "brands_seen": [
-    "LevelOne"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDP；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap",
-      "url": "https://www.ilucoltd.com/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "POE SFP Bypass模块 大口FS；基本都是海思的；邮件中有详细的联系信息",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "iLu 首页",
-      "quote": "Welcome to iLu CO., LTD. ; Connectivity and Component, Equipment, Plastic and Miscellaneous ; SFP+ DAC Cable Ethernet Tester",
-      "url": "https://www.ilucoltd.com/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "PoE SFP bypass 大口 FS；海思的",
-      "quote": "POE SFP Bypass模块 大口FS / 基本都是海思的；之前联系过；邮件中有详细的联系信息",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Angus Tseng",
-      "title": "President",
-      "email": "angus@ilucoltd.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Styven Tseng",
-      "role": "2024-10-25 来信「Do you have flat Gigabit 8-p PoE web smart or L2?」（私人邮箱 styvent@gmail.com 在签名里）",
-      "email": "styven@ilucoltd.com",
-      "phone": "WhatsApp +886 933 819 962（2024-10-25 签名）",
-      "source": "S 邮箱 2024-10-25 来信表头 + 签名"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-839",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ilucoltd.com，快照 2026-10-21）",
+ "summary": "台湾 iLu Co., Ltd.（贸易公司：SFP+ DAC、以太网测试仪、网络变压器/FPCB、LevelOne、润滑油/塑料/IT 废料等杂项；表内「PoE / SFP / bypass 模块 / 大口 FS，基本都是海思的」「之前联系过，邮件中有详细的联系信息」；KP Angus Tseng（President，angus@））；表内无跟进记录。",
+ "type": "台湾贸易公司（多品类，网络产品为其一）",
+ "size": "",
+ "brands_seen": [
+  "LevelOne"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDP；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap",
+   "url": "https://www.ilucoltd.com/en/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "台湾",
-    "other": "官网 ilucoltd.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "POE SFP Bypass模块 大口FS；基本都是海思的；邮件中有详细的联系信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络连接件 / 设备 / 塑料杂项贸易"
-  ],
-  "channels": {
-    "role": "台湾贸易公司（多品类，网络产品为其一）",
-    "region": "台湾",
-    "contact": "angus@ilucoltd.com、admin@ilucoltd.com"
+  {
+   "kind": "官网快照",
+   "claim": "iLu 首页",
+   "quote": "Welcome to iLu CO., LTD. ; Connectivity and Component, Equipment, Plastic and Miscellaneous ; SFP+ DAC Cable Ethernet Tester",
+   "url": "https://www.ilucoltd.com/en/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap；首页 Connectivity and Component, Equipment, Plastic and Miscellaneous",
-    "表内：POE SFP Bypass 模块 大口 FS / 基本都是海思的；邮件中有详细的联系信息；KP Angus Tseng / President"
-  ],
-  "risks": [
-    "贸易中间商（多品类杂货，偏好海思低价）：Marvell 方案价差难以成交；非主攻区（T5，台湾）",
-    "表内「之前联系过」：往来邮件在 Gmail（待核）；无跟进记录"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 20,
-    "why": "询大口 FS（偏好海思低价方案）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 Marvell 位；PoE 位 STC-424DGGPM-280W；bypass → SmartByte LT-IS6312GP（注明）；SFP/DAC 不供"
-  },
-  "email_hook": "Angus, following our earlier exchange: for the larger-port switches you source, we can quote Marvell-based 24-GE + 4×10G L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD, with datasheets and SNMP MIBs — which port count and PoE budget is your current enquiry for?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（2024-10-25 Styven 问「flat 8-port PoE web smart or L2?」→ 无此款）；Elsa 群发 BCC 已触达 10 轮 2025-04-11→2026-09-07（锚 To info@baycom.com.tw 10 轮 2025-04-11→2026-09-07；本户在 Bcc；主题 10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 全程 complete：命中 10 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
-      "type": "台湾贸易公司（iLu）",
-      "sieve": "1",
-      "stop": "无此款",
-      "revive": "不动",
-      "lane": "TW",
-      "cadence": "不动",
-      "evidence": "k=b795aff546929794；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
-    },
-    "situation": "—",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "已打开的主题（2/4 封有打开记录）：「Re: 2.5G Web Managed Switch」(2024-10-25)、「Re: 2.5G Web Managed Switch」(2024-11-15) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-10-25",
-        "dir": "来",
-        "who": "styven@ilucoltd.com",
-        "quote": "Hello, Simon Do you have flat Gigabit 8-p PoE web smart or L2? Regard Styven Tseng styven@ilucoltd.com styvent@gmail.com iLu CO., Ltd. No.105, Lujiang",
-        "why": "来信原文（主题「Re: 2.5G Web Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "b795aff546929794"
-      },
-      {
-        "date": "2024-10-25",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "Sorry to tell that it is not available on our product list. We just have regular type, web managed or standard L2 managed. Please see attached 2 products for your reference.（答 Styven「flat Gigabit 8-p PoE web smart or L2?」）",
-        "why": "台湾 iLu 要「扁平（flat）」8 口 PoE 机壳——Saga 无此外形，如实拒绝；此后无往来",
-        "k": "gmail_s 0bee126717d66cdf"
-      },
-      {
-        "date": "2025-04-11",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
-        "quote": "90W PoE Managed Switch（Elsa 群发第 1/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "196236f02747ebaa"
-      },
-      {
-        "date": "2025-05-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1969b2ade8723c68"
-      },
-      {
-        "date": "2025-06-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 3/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1973eadb1e66cef5"
-      },
-      {
-        "date": "2025-07-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 4/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "197d3757750bf10f"
-      },
-      {
-        "date": "2025-08-07",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 5/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "198828f833f15c69"
-      },
-      {
-        "date": "2025-10-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "199b26b4bdd00f08"
-      },
-      {
-        "date": "2025-11-17",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 7/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19a8fcf029d8e6d9"
-      },
-      {
-        "date": "2026-02-03",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
-        "quote": "OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19c21e67f4271ab3"
-      },
-      {
-        "date": "2026-04-27",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
-        "quote": "Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19dcd2c365531072"
-      },
-      {
-        "date": "2026-09-07",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1a07a5843eabee23"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "PoE SFP bypass 大口 FS；海思的",
+   "quote": "POE SFP Bypass模块 大口FS / 基本都是海思的；之前联系过；邮件中有详细的联系信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Angus Tseng",
+   "title": "President",
+   "email": "angus@ilucoltd.com",
+   "phone": "",
+   "source": "用户表",
+   "role": "President, iLu Co., Ltd. 譯麓有限公司（官網）= 拍板人 / 收件人 — 一頁紙一次：分銷 20% small，直接答 2024-10 之問：8 口 PoE 非管理 STC-028GP / STC-228GP 一口價，8 口管理型按主表現有型號報；SFP / bypass 模組不做；付費樣機、MOQ 1、預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Styven Tseng",
+   "role": "2024-10-25 來信人（來信地址 styvent@gmail.com；= SB-1112 占位行 同一來信，已併線）= 抄送（第 116 批 官方登记核实 2026-10-28）",
+   "email": "styven@ilucoltd.com",
+   "phone": "WhatsApp +886 933 819 962（2024-10-25 签名）",
+   "source": "S 邮箱 2024-10-25 来信表头 + 签名"
+  },
+  {
+   "name": "Hung Cheng",
+   "email": "",
+   "role": "澳洲 Hungsway 聯絡人（官網 sitemap；Lane Cove NSW）— 備用（第 116 批 官方登记核实 2026-10-28）",
+   "source": "https://www.ilucoltd.com/sitemap/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "新北市蘆洲區鹿江街105號 / No. 105, Lujiang St., Luzhou Dist., New Taipei City 24748（+886-2-8286-3598 ext 101）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 ilucoltd.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 116 批：小型貿易商、總裁與家人親自問 8 口扁平 PoE → **分銷 20% B small，一頁紙一次**；再無回聲 → 不動；SB-1112 併線至此；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "譯麓有限公司 iLu CO., LTD.（統一編號 未取；德國 Teltow 聯絡點 + 澳洲 Hungsway）",
+  "founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+  "size": "微型（總裁親答）（第 116 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "网络连接件 / 设备 / 塑料杂项贸易"
+ ],
+ "channels": {
+  "role": "台湾贸易公司（多品类，网络产品为其一）",
+  "region": "台湾",
+  "contact": "angus@ilucoltd.com、admin@ilucoltd.com"
+ },
+ "signals": [
+  "官网：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap；首页 Connectivity and Component, Equipment, Plastic and Miscellaneous",
+  "表内：POE SFP Bypass 模块 大口 FS / 基本都是海思的；邮件中有详细的联系信息；KP Angus Tseng / President"
+ ],
+ "risks": [
+  "贸易中间商（多品类杂货，偏好海思低价）：Marvell 方案价差难以成交；非主攻区（T5，台湾）",
+  "表内「之前联系过」：往来邮件在 Gmail（待核）；无跟进记录"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 20,
+  "why": "询大口 FS（偏好海思低价方案）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 Marvell 位；PoE 位 STC-424DGGPM-280W；bypass → SmartByte LT-IS6312GP（注明）；SFP/DAC 不供"
+ },
+ "email_hook": "Angus, following our earlier exchange: for the larger-port switches you source, we can quote Marvell-based 24-GE + 4×10G L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD, with datasheets and SNMP MIBs — which port count and PoE budget is your current enquiry for?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-10-25 Styven 问「flat 8-port PoE web smart or L2?」→ 无此款）；Elsa 群发 BCC 已触达 10 轮 2025-04-11→2026-09-07（锚 To info@baycom.com.tw 10 轮 2025-04-11→2026-09-07；本户在 Bcc；主题 10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 全程 complete：命中 10 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
+   "type": "台湾贸易公司（iLu）",
+   "sieve": "1",
+   "stop": "无此款",
+   "revive": "不动",
+   "lane": "TW",
+   "cadence": "不动",
+   "evidence": "k=b795aff546929794；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "已打开的主题（2/4 封有打开记录）：「Re: 2.5G Web Managed Switch」(2024-10-25)、「Re: 2.5G Web Managed Switch」(2024-11-15) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-10-25",
+    "dir": "来",
+    "who": "styven@ilucoltd.com",
+    "quote": "Hello, Simon Do you have flat Gigabit 8-p PoE web smart or L2? Regard Styven Tseng styven@ilucoltd.com styvent@gmail.com iLu CO., Ltd. No.105, Lujiang",
+    "why": "来信原文（主题「Re: 2.5G Web Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "b795aff546929794"
+   },
+   {
+    "date": "2024-10-25",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Sorry to tell that it is not available on our product list. We just have regular type, web managed or standard L2 managed. Please see attached 2 products for your reference.（答 Styven「flat Gigabit 8-p PoE web smart or L2?」）",
+    "why": "台湾 iLu 要「扁平（flat）」8 口 PoE 机壳——Saga 无此外形，如实拒绝；此后无往来",
+    "k": "gmail_s 0bee126717d66cdf"
+   },
+   {
+    "date": "2025-04-11",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+    "quote": "90W PoE Managed Switch（Elsa 群发第 1/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "196236f02747ebaa"
+   },
+   {
+    "date": "2025-05-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+    "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "1969b2ade8723c68"
+   },
+   {
+    "date": "2025-06-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+    "quote": "16 Port Ethernet Switch（Elsa 群发第 3/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "1973eadb1e66cef5"
+   },
+   {
+    "date": "2025-07-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+    "quote": "Industrial PoE Switch（Elsa 群发第 4/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "197d3757750bf10f"
+   },
+   {
+    "date": "2025-08-07",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+    "quote": "8 Port Industrial PoE Switch（Elsa 群发第 5/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "198828f833f15c69"
+   },
+   {
+    "date": "2025-10-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+    "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "199b26b4bdd00f08"
+   },
+   {
+    "date": "2025-11-17",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+    "quote": "Industrial PoE Switch（Elsa 群发第 7/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19a8fcf029d8e6d9"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+    "quote": "OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19c21e67f4271ab3"
+   },
+   {
+    "date": "2026-04-27",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+    "quote": "Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19dcd2c365531072"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+    "quote": "24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "1a07a5843eabee23"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

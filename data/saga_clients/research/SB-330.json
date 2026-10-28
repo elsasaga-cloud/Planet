@@ -36,14 +36,16 @@
    "title": "Operations Manager",
    "email": "victor@omnicomm.com.sg",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Operations Manager, Omni-Comm Pte Ltd（UEN 198803797H；1988 年起分銷 + 越南）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位其現有貼標線 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM 階梯 + Omni-Comm 標 / 自編貨號 + 越南直發 FOB 深圳（買方清關）+ 付費樣機；光模塊明說不做；回信 → 加厚 + 升 A— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Chuong",
    "title": "（姓名/职务待核）",
    "email": "chuong@omnicomm.com.sg",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "越南側聯絡人（omninet.com.vn 為其越南側默認頁）= 抄送（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +56,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 omninet.com.vn，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "623 Aljunied Road #06-08 Aljunied Industrial Complex, Singapore 389835（+65 6319 9000）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 omninet.com.vn，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：38 年老分銷商、已貼自己 logo 的交換機 + 覆蓋越南 → **貼標 OEM 30% B（升 A 候選），一頁紙一次**；iso SG 正確（HQ 新加坡），不做 country_fix；坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Omni-Comm Pte Ltd（UEN 198803797H；Exempt Private Company Limited By Shares；Live；.SG 域名註冊人 omnicomm.com.sg）",
+  "founded": "1988-10-20（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（1–10 人；ZoomInfo 營收 $17.4M 不引用）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络产品（自有品牌，模块国内采购）"

@@ -44,7 +44,14 @@
    "title": "GM",
    "email": "gooleebiz@gmail.com",
    "phone": "+82 10 4301 9595",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "GM, Piolink, Inc.（KOSDAQ 170790；119-81-41089；414 人）— 同行上市交換機廠；ODM / 代工線僅經 Simon 微信直聯，不進群發（第 116 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "조영철 Cho Young-chul",
+   "email": "",
+   "role": "대표이사（bizno + 官網；上市公司代表）— 不發（第 116 批 官方登记核实 2026-10-28）",
+   "source": "https://www.piolink.com/kr/company/Company-Overview.php"
   }
  ],
  "grade_override": "B",
@@ -56,11 +63,11 @@
   "level": "B 级加厚 v1（官网快照：同行 ODM）"
  },
  "company_facts": {
-  "legal_name": "PIOLINK, Inc.",
-  "founded": "2000（上市公司，待核）",
-  "hq": "Seoul, Korea（+82 2 2025 6900）",
-  "size": "中型上市公司",
-  "other": "表内邮箱 cdma092@piolink.con 为笔误（.com）"
+  "legal_name": "주식회사 파이오링크 Piolink, Inc.（사업자등록번호 119-81-41089；법인등록번호 110111-2035578；KOSDAQ 170790 2013-08）",
+  "founded": "2000-07-26（第 116 批 官方登记核实 2026-10-28）",
+  "hq": "서울 금천구 가산디지털2로 98, IT캐슬 1동 401호 08506（02-2025-6900）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "414 人；國內 ADC 第一；日本分公司（第 116 批 官方登记核实 2026-10-28）",
+  "other": "表内邮箱 cdma092@piolink.con 为笔误（.com）；第 116 批：上市 ADC / TiFRONT 安全交換機廠 = **同行，不動群發**；其所要（Realtek 高端方案 / 24 光口 ODM）由 Simon 微信單獨定；守界：不給成本結構、不轉介供應商（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "ADC / 负载均衡",

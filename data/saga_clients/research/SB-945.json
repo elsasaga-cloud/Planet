@@ -29,7 +29,8 @@
    "title": "Managing Director",
    "email": "robin@grep.sg",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Founder / CEO / Managing Director, Grep Tech（Crunchbase / Tracxn；2012 創辦；SMS 網關 / 軟體 = 行業外）— 15 次 0 回覆，不動（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -40,8 +41,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 grep.sg，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "未取（新加坡）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 grep.sg，语言 ?，快照状态 http_error；角色判定来源：待核；第 116 批：SMS 網關 / 企業軟體公司（行業外）+ 15 次 0 回覆 + 官網報錯 → **不動（B 保留）**；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Grep Tech Pte Ltd（LinkedIn 法人名；UEN 未取；GREP ADVISORY PTE. LTD. 202411162K ≠）",
+  "founded": "2012（第 116 批 官方登记核实 2026-10-28）",
+  "size": "微型（1–10 人）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "（待核，新加坡）"

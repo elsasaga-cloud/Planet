@@ -29,7 +29,8 @@
    "title": "（职务待核）",
    "email": "sales@excelengineeringsg.net",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（9697 0621）— 微型（實繳 S$1,000、虛擬地址、官網失效）+ 需求只有 MC → 不動（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -40,8 +41,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 excelengineeringsg.net，语言 ?，快照状态 unreachable；角色判定来源：用户表"
+  "hq": "100 Peck Seah Street #08-14 PS100, Singapore 079333（虛擬辦公地址；6898 4451）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 excelengineeringsg.net，语言 ?，快照状态 unreachable；角色判定来源：用户表；第 116 批：微型 + 虛擬地址 + 需求只有 MC（Saga 僅 STC-110XGE）+ 7 次 0 回覆 → **不動（B 保留）**；坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Excel Engineering (SG) Pte. Ltd.（UEN 201332361M；Live；實繳資本 S$1,000；2 名高管 / 股東；SSIC 71129 + 46900；無抵押）",
+  "founded": "2013-12-02（第 116 批 官方登记核实 2026-10-28）",
+  "size": "微型（2 人）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工程（新加坡）"

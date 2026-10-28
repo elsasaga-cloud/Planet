@@ -1,92 +1,92 @@
 {
-  "code": "SB-1112",
-  "name_official": "（未具名台湾联系人，Taiwan.xlsx 占位行）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名、无邮箱",
-  "summary": "Taiwan.xlsx 中无公司名 / 邮箱的回复行：2024-10 对 2.5G 群发反问「flat Gigabit 8-p PoE web smart or L2?」；身份不可核（表内 Q：SB-1111/1333 占位行身份待用户确认）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "2024-10 群发 18 口 2.5G→flat Gigabit 8-p PoE web smart or L2?",
-      "quote": "回复：flat Gigabit 8-p PoE web smart or L2?",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息（占位行）"
-  },
-  "company_facts": {
-    "legal_name": "（未知）",
-    "founded": "",
-    "hq": "台湾",
-    "size": "",
-    "other": "占位行，无联系方式"
-  },
-  "channels": {
-    "role": "（未知）",
-    "region": "台湾"
-  },
-  "risks": [
-    "无联系方式；身份待用户在 Taiwan.xlsx 核对"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "其问的 8 口 PoE web smart / L2 → STC-28DGGPM（L2+）；台系口径 OEM 30%。"
-  },
-  "email_hook": "（无邮箱；待用户补联系方式）",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：flat Gigabit 8-p PoE web smart or L2?」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "台湾 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「回复：flat Gigabit 8-p PoE web smart or L2?」；研究档 risks：无联系方式；身份待用户在 Taiwan.xlsx 核对"
-    },
-    "situation": "Taiwan.xlsx 中无公司名 / 邮箱的回复行：2024-10 对 2.5G 群发反问「flat Gigabit 8-p PoE web smart or L2?」；身份不可核（表内 Q：SB-1111/1333 占位行身份待用户确认）。",
-    "need": "其问的 8 口 PoE web smart / L2 → STC-28DGGPM（L2+）；台系口径 OEM 30%。",
-    "breakpoint": "无联系方式；身份待用户在 Taiwan.xlsx 核对",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "其问的 8 口 PoE web smart / L2 → STC-28DGGPM（L2+）；台系口径 OEM 30%。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "回复：flat Gigabit 8-p PoE web smart or L2?",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-1112",
+ "name_official": "（未具名台湾联系人，Taiwan.xlsx 占位行）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名、无邮箱",
+ "summary": "Taiwan.xlsx 中无公司名 / 邮箱的回复行：2024-10 对 2.5G 群发反问「flat Gigabit 8-p PoE web smart or L2?」；身份不可核（表内 Q：SB-1111/1333 占位行身份待用户确认）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "2024-10 群发 18 口 2.5G→flat Gigabit 8-p PoE web smart or L2?",
+   "quote": "回复：flat Gigabit 8-p PoE web smart or L2?",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（占位行）"
+ },
+ "company_facts": {
+  "legal_name": "（占位行）= SB-839 譯麓 iLu 的 Styven Tseng 2024-10-25 來信（逐字相同）→ 併線 SB-839",
+  "founded": "—（第 116 批 官方登记核实 2026-10-28）",
+  "hq": "—（第 116 批 官方登记核实 2026-10-28）",
+  "size": "—（第 116 批 官方登记核实 2026-10-28）",
+  "other": "占位行，无联系方式；第 116 批：**併線 SB-839，本行不動、不單發**；0 查（第 116 批 官方登记核实 2026-10-28）"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "台湾"
+ },
+ "risks": [
+  "无联系方式；身份待用户在 Taiwan.xlsx 核对"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "其问的 8 口 PoE web smart / L2 → STC-28DGGPM（L2+）；台系口径 OEM 30%。"
+ },
+ "email_hook": "（无邮箱；待用户补联系方式）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：flat Gigabit 8-p PoE web smart or L2?」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "台湾 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「回复：flat Gigabit 8-p PoE web smart or L2?」；研究档 risks：无联系方式；身份待用户在 Taiwan.xlsx 核对"
+  },
+  "situation": "Taiwan.xlsx 中无公司名 / 邮箱的回复行：2024-10 对 2.5G 群发反问「flat Gigabit 8-p PoE web smart or L2?」；身份不可核（表内 Q：SB-1111/1333 占位行身份待用户确认）。",
+  "need": "其问的 8 口 PoE web smart / L2 → STC-28DGGPM（L2+）；台系口径 OEM 30%。",
+  "breakpoint": "无联系方式；身份待用户在 Taiwan.xlsx 核对",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其问的 8 口 PoE web smart / L2 → STC-28DGGPM（L2+）；台系口径 OEM 30%。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "回复：flat Gigabit 8-p PoE web smart or L2?",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

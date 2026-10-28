@@ -42,14 +42,16 @@
    "title": "CEO",
    "email": "godinus@neowine.com",
    "phone": "+82 31 620 1250",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "CEO / 대표이사（= 登記代表 이효승 Lee Hyo-seung，jobkorea；设立 2002-06-04；20 人；매출 ≈25억）= 拍板人 / 收件人 — 一頁紙一次：分銷 20%、非獨家、MOQ 1、48 口付費樣機（STC-448XGGPM）、英文— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 116 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Dexter Kim",
    "title": "Director",
    "email": "dexter@neowine.com",
    "phone": "+82 10 8911 3702",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Director（研究档）= 抄送（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": "B",
@@ -61,11 +63,11 @@
   "level": "B 级加厚 v1（官网快照：行业外）"
  },
  "company_facts": {
-  "legal_name": "Neowine Co., Ltd.",
-  "founded": "2002",
-  "hq": "韩国（京畿道，+82 31）",
-  "size": "中小型 fabless",
-  "other": "SECON 2023 相邻展位"
+  "legal_name": "㈜네오와인 Neowine Co., Ltd.（사업자등록번호 未取；벤처；ISO 9001 / 14001）",
+  "founded": "2002-06-04（第 116 批 官方登记核实 2026-10-28）",
+  "hq": "경기 성남시 분당구 판교역로 182, 한국반도체산업협회 4층（第 116 批 官方登记核实 2026-10-28）",
+  "size": "20 人；자본금 5억；매출 ≈25억원（第 116 批 官方登记核实 2026-10-28）",
+  "other": "SECON 2023 相邻展位；第 116 批：Fabless 安全芯片商（行業外），CEO 本人想做代理 → **分銷 20% B small，一頁紙一次**；再無回聲 → 不動；部分坐实（求職站）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "防复制芯片 ALPU / IoT 安全芯片 / AI IP"

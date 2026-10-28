@@ -29,14 +29,16 @@
    "title": "业务专员",
    "email": "karen.hua@volktek.com",
    "phone": "+886 2 8242 1000",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "業務專員（皮凱太）= 收件人 — 一頁紙一次：貼標 OEM 30%，只給其自產線之外的成本型工業管理機 STI-288DGGPM / STI-488DGGPM / STI-0240GE + 自編貨號 / 中性包裝 / 付費樣機；bypass 明說沒有— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Joseph Pi",
    "title": "（表内联系人）",
    "email": "joseph.pi@volktek.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "研究档联系人 = 抄送（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -47,11 +49,11 @@
   "level": "B 级加厚 v1（官网快照核对：台系制造商 OEM，已送样）"
  },
  "company_facts": {
-  "legal_name": "Volktek Corporation",
-  "founded": "1994",
-  "hq": "4F, 192 Liancheng Rd., Zhonghe, New Taipei 23553, Taiwan",
-  "size": "中型制造商（自有工厂）",
-  "other": "已收 Saga bypass 样品"
+  "legal_name": "定揚科技股份有限公司 Volktek Corp.（統一編號 未取；1994 年成立）",
+  "founded": "1994（第 116 批 官方登记核实 2026-10-28）",
+  "hq": "新北市中和區連城路192號4樓（總部）/ 苗栗縣竹南鎮國泰路17-1號（廠）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "51–200 人；自有 SMT / DIP 產線（第 116 批 官方登记核实 2026-10-28）",
+  "other": "已收 Saga bypass 样品；第 116 批：台系工業交換機品牌廠（同行）但明確想 OEM 工業 L2/L3 → **以 OEM 採購方計：貼標 OEM 30% B，一頁紙一次**；與 AETEK（SB-019，連城路192-1號）姊妹品牌 → 兩戶一線；守界：不給成本結構；統編未取 → 只做預付（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业以太网 / PoE 交换机（L2/L3，自产）",

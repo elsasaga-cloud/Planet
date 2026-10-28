@@ -47,7 +47,8 @@
    "title": "（职务待核）",
    "email": "info@gponnetwork.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director, GPON Network（RocketReach；新加坡；hotmail 並用）= 收件人 — 一頁紙一次、只做預付：分銷 20% small，工業 FS STI-154GP / STI-288DGGPM / STI-0240GE 一口價 + 付費樣機；WDM / SFP 明說不做— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -58,8 +59,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 gponnetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "400 Orchard Road #06-03, Singapore 238875（商務中心；+65 8729 1383）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 gponnetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：身份不清的供應鏈 / 參考價站，但 Simon 表內「可以多跟進一下」→ **分銷 20% B small，一頁紙一次（預付 100%、不賒）**；再無回聲 → 不動；未坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "GPON Network（法人名 / UEN 未取；自稱 HEAD OFFICE 1660 South Highway 100, St Louis Park, MN 55416 USA + SINGAPORE OFFICE 400 Orchard Road #06-03 — 兩處皆商務中心特徵 → 身份不清）",
+  "founded": "自稱 2000 年起（第 116 批 官方登记核实 2026-10-28）",
+  "size": "微型（9 人自述；營收 $2M 口徑不實）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络设备供应链（品牌设备 / WDM）"

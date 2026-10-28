@@ -46,8 +46,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 hyconext.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "128 Tanjong Pagar Road, Singapore 088535（美國 1170 Centre Dr #F, City of Industry, CA 91789）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 hyconext.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：純品牌方（PoE / 2.5G NextWav / DC 交換機 外購，全球招分銷）→ **貼標 OEM 30% B，一頁紙一次**（1G 線 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM + STC-110XGE + Hyconext 標；2.5G 一句「另議」待 SB-263 口徑；收 sales@）；再無回聲 → 不動；部分坐实 → 只做預付— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Hyconext（法人名 / UEN 未取；Singapore HQ + 美國 City of Industry, CA 辦公室）",
+  "founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "PoE / 多千兆 / 数据中心交换机（自有品牌）",

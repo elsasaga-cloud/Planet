@@ -29,7 +29,14 @@
    "title": "（表内联系人）",
    "email": "robin@ad-net.com.tw",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "研究档 KP（2025-09 回「M12 Switch??」）= 收件人 — 一頁紙一次：貼標 OEM 30%，非 M12 工業線 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-228GP / 2224GP + AD-NET 標；M12 / E1 / GEPON / 光模組 明說不做— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "羅惠玲",
+   "email": "",
+   "role": "代表人 / 唯一董事（twincn；統編 27843840）— 拍板人（第 116 批 官方登记核实 2026-10-28）",
+   "source": "https://www.twincn.com/item.aspx?no=27843840"
   }
  ],
  "grade_override": null,
@@ -40,11 +47,11 @@
   "level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
  },
  "company_facts": {
-  "legal_name": "AD-NET Technology Co., Ltd.",
-  "founded": "（待核）",
-  "hq": "台湾",
-  "size": "中小型品牌商",
-  "other": "info@ad-net.com.tw"
+  "legal_name": "艾德科技有限公司 AD-NET TECHNOLOGY CO., LTD.（統一編號 27843840；商標 AD-NET 及圖 01258240 至 2027-04-15）",
+  "founded": "2005-07-14（第 116 批 官方登记核实 2026-10-28）",
+  "hq": "苗栗縣苗栗市福星里國華路210號（037-269585）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（有限公司）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "info@ad-net.com.tw；第 116 批：自有商標、深圳拿貨的小型品牌商 → **貼標 OEM 30% B small，一頁紙一次**；再無回聲 → 不動；只做預付；坐实（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "光纤媒体转换 / E1 / SDH",

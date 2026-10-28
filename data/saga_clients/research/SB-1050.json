@@ -43,7 +43,8 @@
    "title": "（姓氏/职务待核）",
    "email": "lawrence@keydence.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Keydence Systems Pte. Ltd.（UEN 201019151W）研究档 KP（姓氏待核）= 收件人 — 一頁紙一次：集成商 25% small，CCTV 配套 PoE STC-028GP / 228GP / 2216GP 一口價 + 長距 PoE 250 m 模式 + 付費樣機；船用認證不聲稱— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 keydence.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "7030 Ang Mo Kio Avenue 5 #01-62 Northstar @ AMK, Singapore 569880（+65 6459 0780）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 keydence.com，语言 en，快照状态 ok；角色判定来源：用户表；第 116 批：CCTV / 門禁 / 布線集成商（含船上安裝）→ **集成商 25% B small，一頁紙一次**；再無回聲 → 不動；守界：船舶 / 海事認證不碰；坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Keydence Systems Pte. Ltd.（UEN 201019151W；Local Company；Live；SSIC 61011 + 30110 船上安裝維護）",
+  "founded": "2010-09-09（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防系统 / 电气与网络布线（新加坡）"

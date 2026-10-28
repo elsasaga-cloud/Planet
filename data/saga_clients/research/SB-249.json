@@ -43,7 +43,14 @@
    "title": "Director",
    "email": "au@netbergtw.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director, Netberg Ltd. 網脈有限公司（登記代表人另為 約理師；已回覆 1 次）= 收件人 — 一頁紙一次：貼標 OEM 30%，CENTEC 平台 STH-2C24XF-HSI $1,500 / STH-8C48DX-HSI $4,800 / STH-32C-HSI $6,000 作其 Broadcom 線之外的成本型補位 + Netberg 標 + 付費樣機；NOS 只答「可提供軟體清單」不聲稱 SONiC / ONIE；opener 引其上次回覆；回信 → 加厚 + 升 A— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "約理師",
+   "email": "",
+   "role": "代表人 / 董事 / 經理人（twincn；統編 42648064；外籍）— 不直發（第 116 批 官方登记核实 2026-10-28）",
+   "source": "https://twincn.com/item.aspx?no=42648064"
   }
  ],
  "grade_override": null,
@@ -54,8 +61,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "台湾",
-  "other": "官网 netbergtw.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "桃園市中壢區西園路111之3號10樓（03-260-9203；2022-12 自 臺北市信義區光復南路419號5樓之1 遷入）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 netbergtw.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 116 批：不自產、靠 ODM 夥伴出白牌 DC 交換機的方案商（Broadcom 線）= DC 交換機客戶（Simon 優先類）→ **貼標 OEM 30% B（升 A 候選），一頁紙一次**；守界：不談 Broadcom 對標、不報成本結構；只做預付；與 SB-804 一線；坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "網脈有限公司 NETBERG LTD.（統一編號 42648064；國貿局 2015-10-12；網店分部 Bare Metal Switch = SB-804）",
+  "founded": "2015-10-02（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（有限公司）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "数据中心以太网交换机 / 全可编程交换机 / 开放 NOS",

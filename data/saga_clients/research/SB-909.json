@@ -37,7 +37,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "이수봉 Lee Soo-bong",
+   "email": "",
+   "role": "CEO（官網；设立 2021-01-18）— 不動，不發（info / sales 均退信 = 地址失效）（第 116 批 官方登记核实 2026-10-28）",
+   "source": "https://www.daejinnetworks.com/en"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -46,8 +53,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "韩国",
-  "other": "官网 daejinnetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  "hq": "서울 금천구 벚꽃로 278, SJ테크노빌 1207호 08511（1588-9809）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 daejinnetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案；第 116 批：Centec 交換機（V/E 系列）+ HiSilicon 光模塊 韓國分銷 = **CENTEC 原廠渠道 同線競對 + 郵箱全退信 → 不動（B 保留；地址失效）**；守界：不向 Centec 渠道報 STH 價（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "대진네트웍스 Daejin Networks（사업자등록번호 未取；대진반도체 Daejin Semiconductor 關聯）",
+  "founded": "2021-01-18（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（2021 新設）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络方案（Vision AI / 光传输 / TAP 交换机 / PON / VPN 路由）",

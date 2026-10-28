@@ -46,8 +46,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "台湾",
-  "other": "官网 ison-tech.com，语言 zxx，快照状态 ok；角色判定来源：用户表"
+  "hq": "桃園市（詳址未取）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 ison-tech.com，语言 zxx，快照状态 ok；角色判定来源：用户表；第 116 批：工業網路品牌「Industrial Solution Over Network」、站內含 Edgecore 機型 ECS4150-54P = 外購貼牌 → **貼標 OEM 30% B，一頁紙一次**（STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-2224GP / 4424GCPM + ISON 標；電力 61850 / 鐵路 EN 50155 明說不做；收 sales@）；回信 → 加厚；坐实— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "ISON Technology Co., Ltd.（統一編號 24728059；實收資本額 NT$40,619,030；Active）",
+  "founded": "2015（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业网络（交换机 / MC / 无线）",

@@ -48,8 +48,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "台湾",
-  "other": "官网 bm-switch.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "10F, No. 111-3, Xiyuan Rd., Zhongli Dist., Taoyuan City 320（+886-3-260-9203；同 SB-249）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 bm-switch.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：**同一法人的網店分部 → 併線 SB-249，本行不單發**；坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Bare Metal Switch（bm-switch.com）= 網脈有限公司 Netberg Ltd.（統編 42648064；SB-249）旗下網店分部（官網 about-us 自述；電匯戶名 Netberg Ltd. 玉山銀行）",
+  "founded": "—（分部）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "—（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "裸金属交换机 / 光模块网店"

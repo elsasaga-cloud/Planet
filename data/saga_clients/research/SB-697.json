@@ -43,14 +43,16 @@
    "title": "（表内联系人）",
    "email": "danny@alliedasia.com.sg",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Allied Asia Resources Pte. Ltd.（自有品牌 ATZ = SB-346）研究档 KP = 收件人 — 一頁紙一次：貼標 OEM 30% small，對位其 ATZ PoE 線的 STC-028GP / 228GP / 2216GP / 2224GP 階梯 + ATZ 標 / 自編貨號 / 中性包裝 + 10G MC 只有 STC-110XGE + 付費樣機；14 槽機架 / SFP 明說不做；不點名 ONV— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Kelvin Tan",
    "title": "Sales Engineer",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Sales Engineer（研究档；kelvin.tan@alliedasia.com.sg 見 entities）= 抄送（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -61,8 +63,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 alliedasia.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "55 Serangoon North Ave 4 #01-18, Singapore 555859（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 alliedasia.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 116 批：自有品牌 ATZ 的小型連接方案商、PoE 現用 ONV 貼標 → **貼標 OEM 30% B small，一頁紙一次**；再無回聲 → 不動；UEN 未取 → 只做預付；SB-346 併線至此；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Allied Asia Resources Pte. Ltd.（UEN 1 查未得；Alibaba 認證 Manufacturer / Trading / Distributor；商標 ATZ ×4；國內市場 90% / 東南亞 10%）",
+  "founded": "2012（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（5–10 人；自述年營收 US$1–2.5M）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "线缆 / 光纤 / MC / SFP / PoE 配件网店"

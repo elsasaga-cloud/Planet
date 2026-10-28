@@ -46,8 +46,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "台湾",
-  "other": "官网 acelink.com.tw，语言 zh-Hant-TW，快照状态 ok；角色判定来源：官网文案"
+  "hq": "No. 278, Xinhu 1st Rd., Neihu Dist., Taipei City（同 SB-088）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 acelink.com.tw，语言 zh-Hant-TW，快照状态 ok；角色判定来源：官网文案；第 116 批：**訊舟集團 ODM 分部 → 併線 SB-088，一線一稿（Jesse Chen 線），本行不單發**；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Acelink Technology Co., Ltd.（統編 未單獨取；HQ No. 278, Xinhu 1st Rd., Neihu = 訊舟 EDIMAX 22164580 登記地址；「since 1986」= 訊舟設立年；EW-78xx 型號 = EDIMAX 編碼 → 訊舟集團 ODM 分部 / 關係企業）",
+  "founded": "1986（集團口徑）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "大型（集團 501–1,000；ODM Sales Division Eunice Lu）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "WiFi 7 / 智慧工厂 / AIoT 网络方案（ODM）"

@@ -49,8 +49,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 anewtech.net，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "62 Ubi Road 1 #04-14 Oxley Bizhub 2, Singapore 408734（+65 6292 0801）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 anewtech.net，语言 en，快照状态 ok；角色判定来源：官网文案；第 116 批：工業計算機集成商 / 分銷商（Advantech / IEI / Supermicro …；工業交換機在供 ORing）= 真實進口商 → **分銷 20% B，一頁紙一次**（寬溫工業線 STI-154GP / 288DGGPM / 488DGGPM / 0240GE 一口價 + 3 年保 + MOQ 1 + 付費樣機；EN 50155 明說不做；收 sales@）；再無回聲 → 不動；守界：不點名 ORing；抵押 7 項 → 只做預付；坐实— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Anewtech Systems Pte Ltd（UEN 199903145E；Live；實繳資本 S$1,262,500；抵押 7 項；5 名高管；SSIC 26209；MY 雪蘭莪 + VN 胡志明市 辦公室）",
+  "founded": "1999（UEN 簽發記錄 2008-09-11）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "中小（三國辦公室）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业 PC / 服务器 / 加固电脑 / 机器视觉分销"

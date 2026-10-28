@@ -31,7 +31,8 @@
    "title": "（采购 / 产品，表内联系人）",
    "email": "rex.lin@ewinsonic.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "採購 / 產品（表內：在用 UniPoE 工業 FS；2025-11 對升壓 PoE 回 INFO）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位 UniPoE 的 STI-154GP / STI-288DGGPM / STI-0240GE + Winsonic 標 + 付費樣機；升壓 PoE 明說不做；只做預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -42,11 +43,11 @@
   "level": "B 级加厚 v1（官网快照：台系工控 OEM）"
  },
  "company_facts": {
-  "legal_name": "Winsonic Electronics Co., Ltd.",
-  "founded": "（待核）",
-  "hq": "台湾",
-  "size": "中型工控制造商",
-  "other": "sales@ewinsonic.com"
+  "legal_name": "Winsonic Electronics Co., Ltd.（統一編號 1 查未得 → 未坐實；命中 伍仕電子 27966146 / 文聲電子 04348572 均不對應）",
+  "founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+  "hq": "未取（第 116 批 官方登记核实 2026-10-28）",
+  "size": "未取（第 116 批 官方登记核实 2026-10-28）",
+  "other": "sales@ewinsonic.com；第 116 批：工業面板 PC / 工控機廠、工業交換機外購（現供 UniPoE 深圳）→ **貼標 OEM 30% B small，一頁紙一次**；再無回聲 → 不動；未坐实 → 預付；不點名 UniPoE（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业面板 PC / 无风扇 PC / 工业显示",

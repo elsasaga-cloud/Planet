@@ -32,8 +32,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 fibertek-ap.com，语言 ?，快照状态 timeout；角色判定来源：用户表"
+  "hq": "3015A Ubi Road 1, Singapore（樓層未取；與 Velocity Technology Industries / Fiberlan 同樓）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 fibertek-ap.com，语言 ?，快照状态 timeout；角色判定来源：用户表；第 116 批：已直接從國內拿貨的小品牌（SFP / 光貓為主）、無 KP、17 次 0 回覆、主體未坐實 → **不動（B 保留）**；部分坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Fibertek Pte Ltd（sgpbusiness 同址索引 FIBERTEK PTE LTD；UEN 1 查未得）",
+  "founded": "未取（第 116 批 官方登记核实 2026-10-28）",
+  "size": "未取（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业 FS / VC / MC / SFP / 光猫（自有品牌 Fibertek）"

@@ -46,8 +46,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "台湾",
-  "other": "官网 netsys.com.tw，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "9F, No. 208, Sec. 3, Datong Rd., Xizhi Dist., New Taipei City 221（+886-2-6616-2880）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 netsys.com.tw，语言 ?，快照状态 ok；角色判定来源：用户表；第 116 批：VDSL2 延長器 / MC 品牌廠、交換機非核心（推定外購）→ **貼標 OEM 30% B small，一頁紙一次**（STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM + Netsys 標；MC / 延長器明說不做；收 sales@，ContactOut 業務名單 Jason Kung AM 可補）；再無回聲 → 不動；部分坐实— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "National Enhance Technology Corp.（Netsys；統一編號 未取）",
+  "founded": "1999-06（第 116 批 官方登记核实 2026-10-28）",
+  "size": "11–50 人（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "LAN 延长器 / 工业 MC / 10G SFP+（自有品牌 Netsys）"

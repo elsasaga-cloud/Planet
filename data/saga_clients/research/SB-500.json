@@ -39,8 +39,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 cetsingapore.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "7 Mandai Link #05-33 Mandai Connection, Singapore 728653（+65 6677 7279；2024-12 自 1 Corporation Drive #09-02 遷入）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 cetsingapore.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 116 批：中資電力計量集團的新加坡分支（電能表 / 電能質量 / 串口網關 PMC-1308），工業交換機由集團內部配套、15 次 0 回覆、電力計量屬守界邊緣 → **不動（B 保留）**；坐实（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "CET Electric Technology Pte. Ltd.（UEN 201523201G；Exempt Private Company Limited By Shares；曾用名 Ceiec Electric Technology Singapore = 中電 CET 集團分支；年報 2026-07-23 已報）",
+  "founded": "2015-05-15（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（集團分支）（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业交换机（自有品牌 CET）"

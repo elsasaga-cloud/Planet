@@ -46,8 +46,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "台湾",
-  "other": "官网 ethernetdirect-jp.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "未取（台灣聯絡站；美國 NY / CA）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 ethernetdirect-jp.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 116 批：工業品牌商（Cobra 系列；推定 ODM 外購、北美通路）→ **貼標 OEM 30% B small，一頁紙一次**（STI-154GP / 288DGGPM / 488DGGPM 寬溫 PoE+ + 自編貨號 + 付費樣機；GSA / NDAA 明說無法聲稱；收 sales@）；再無回聲 → 不動；未坐实 → 只做預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "Ethernet Direct Corporation（美國 NY 銷售 / CA 物流；GSA 核准公司；台灣站 ethernetdirect-tw.com；統編 / 實體 未取）",
+  "founded": "≥2005（2015 自述「over a decade」）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业以太网交换机（Cobra 系列）/ 工业无线 / 机架交换机"

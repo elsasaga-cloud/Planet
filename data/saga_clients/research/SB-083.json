@@ -29,7 +29,14 @@
    "title": "（采购 / 产品，表内联系人）",
    "email": "ginahsu@meritlilin.com.tw",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "採購 / 產品（表內：周邊要貼 LILIN logo）= 收件人 — 一頁紙一次：貼標 OEM 30%，攝影機配套 PoE 階梯 STC-028GP / 228GP / 2216GP / 2224GP + 工業 STI-154GP + LILIN 標 / 自編貨號 / 付費樣機；MC 只有 STC-110XGE、SFP 不做— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "許正忠",
+   "email": "",
+   "role": "代表人 / 董事長（twincn；統編 36165005；家族董監 許家雄 / 許家銘 / 許瑞文）— 拍板人，不直發（第 116 批 官方登记核实 2026-10-28）",
+   "source": "https://twincn.com/item.aspx?no=36165005"
   }
  ],
  "grade_override": null,
@@ -40,11 +47,11 @@
   "level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
  },
  "company_facts": {
-  "legal_name": "Merit LILIN Ent. Co., Ltd.",
-  "founded": "1980（待核）",
-  "hq": "台北",
-  "size": "中型品牌商",
-  "other": "sales@meritlilin.com.tw"
+  "legal_name": "利凌企業股份有限公司 MERIT LILIN ENT. CO., LTD.（統一編號 36165005；資本總額 NT$120,000,000；工廠登記 99618299 同址）",
+  "founded": "1983-09-01（第 116 批 官方登记核实 2026-10-28）",
+  "hq": "新北市五股區五工六路20號（02-2298-8988）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "中小（家族企業；自有工廠）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "sales@meritlilin.com.tw；第 116 批：攝影機品牌、KP 明說周邊貼 LILIN logo → **貼標 OEM 30% B，一頁紙一次**；回信 → 加厚；坐实（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IP 摄像机 / NVR / 边缘 AI",

@@ -34,8 +34,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 atz.com.sg，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "55 Serangoon North Ave 4 #01-18, Singapore 555859（同 SB-697）（第 116 批 官方登记核实 2026-10-28）",
+  "other": "官网 atz.com.sg，语言 ?，快照状态 http_error；角色判定来源：待核；第 116 批：**同一公司的品牌站 → 併線 SB-697，本行不單發**；坐实（商標歸屬）（第 116 批 官方登记核实 2026-10-28）",
+  "legal_name": "ATZ（atz.com.sg）= Allied Asia Resources Pte. Ltd.（SB-697）的自有商標（Alibaba 認證頁 Trademarks(4) ATZ；alliedasia.com.sg 貨號前綴 ATZ）",
+  "founded": "—（商標）（第 116 批 官方登记核实 2026-10-28）",
+  "size": "—（第 116 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络 / 安防产品经销（新加坡）"
