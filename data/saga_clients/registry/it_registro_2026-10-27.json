@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 6
+  "updated": "2026-10-28",
+  "count": 8
  },
  "rows": {
   "SA-070": {
@@ -211,6 +211,72 @@
    "notes": "研究档 facts 回填 legal / founded / staff / hq。",
    "fetched": "2026-10-27",
    "code": "SB-271"
+  },
+  "SB-1000": {
+   "batch": 107,
+   "name": "Alpha Elettronica S.r.l.（alphaelettronica.com；帕尔马 Collecchio Strada Antolini 2/A；P.IVA 01511860346；REA PR-159233）— 1975 年由 Mauro Salsi 创立的电源 / 变压器设计制造商 + 电子电气配件分销商（自有 Alpha Elettronica 品牌；品类含 networking / switch、工业适配器、安防网络交换机；2015 新总部）；股本 €46,500；11–50 人（≈21）；表内「商业 PoE 为主，质量一般」；无跟进；群发 8 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：官网页脚（Alpha Elettronica S.r.l.；Strada Antolini 2/A 43044 Collecchio (PR)；P.IVA/CF IT01511860346；R.E.A. PR-159233；Reg.Impr PR-15711）+ 条款页（Registro Imprese di Parma REA 159233；P.IVA 01511860346）+ visurissima（ATECO 279009 其他电气设备制造；Capitale € 46.500 i.v.；SDI KRRH6B9）+ Storia（1975 创始人 Mauro Salsi；2015 新总部）+ LinkedIn（11–50；1975）+ Contatti（commerciale@ / ordini@ / info@；0521 804427）",
+   "url": "https://www.alphaelettronica.com/en/",
+   "number": "P.IVA / CF 01511860346；REA PR-159233",
+   "status": "Active",
+   "incorporated": "1975",
+   "company_type": "S.r.l.（家族私有；股本 €46,500）",
+   "sic": [
+    "电源 / 变压器制造（ATECO 27.90）+ 电子电气配件分销（自有品牌；含网络 / PoE 交换机品类）"
+   ],
+   "address": "Strada Antolini 2/A, 43044 Collecchio (PR)",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（≈21 人）",
+   "officers": [
+    "Mauro Salsi — 创始人（1975）= 拍板层",
+    "（未具名）— 收件人 commerciale@alphaelettronica.com（点名 ufficio acquisti）"
+   ],
+   "psc": "Salsi 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌电源厂 + 配件分销（已卖商用 PoE）→ 贴标 OEM 30% 可谈（Alpha 标 PoE 交换机，与其电源线同渠道）+ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP + 工业 STI 线一页纸",
+    "收件人 commerciale@ 点名 ufficio acquisti；8 次打开无回复 → 二次触达换切口「PoE switch under your own label, same channel as your adapters」；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；坐实（P.IVA + REA）。",
+   "code": "SB-1000"
+  },
+  "SB-448": {
+   "batch": 107,
+   "name": "BETTINI S.R.L.（bettinivideo.com；注册地 Via Marco Ulpio Traiano 16 Milano，运营 / 研发 / 生产 Via E. H. Grieg 23 Saronno (VA)；P.IVA / CF 11883080159；REA MI-1506925）— 1996-09-23 由 Walter 与 Massimo Bettini 兄弟创立的意大利视频监控方案商 / 制造商（2004 收购 GAMS 品牌、2007 并入 Initel 生产分支；GAMS 录像 / 视频分析「意大利设计制造」；分部 Firenze / Roma / Bologna；在售 ComNet 交换机 + 据表内「用 ONV 的直接带标卖」）；股本 €119,000；营收 €8.94M（2025）；42 人（2026）；AD Walter Bettini；Simon「可以尝试多跟进一下」；群发 6 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：官网页脚（Bettini S.r.l.；Milan Register of Companies no. 11883080159；R.E.A. MI-1506925；Capital 119,000.00 Euro；AEE IT15090000009003；Via E. H. Grieg 23 Saronno；info@；+39 0289651000）+ ufficiocamerale（BETTINI S.R.L.；P.IVA 11883080159；Via Marco Ulpio Traiano 16 Milano；Data Iscrizione 23/09/1996；Fatturato € 8.944.233 2025；Dipendenti 42 2026；Utile € 44.374；ATECO 26）+ 官网访谈（Walter Bettini AD；1996 与兄弟 Massimo 创立；2004 GAMS；2007 Initel）+ secsolution（25 周年；Rho 起家；分部 Roma / Firenze / Bologna）+ LinkedIn（51–200 口径）",
+   "url": "https://www.ufficiocamerale.it/9537/bettini-srl",
+   "number": "P.IVA / CF 11883080159；REA MI-1506925",
+   "status": "Active",
+   "incorporated": "1996-09-23",
+   "company_type": "S.r.l.（Bettini 家族私有；股本 €119,000）",
+   "sic": [
+    "视频监控系统制造 / 分销（自有 GAMS 品牌 NVR / 视频分析；ATECO 26；面向安装商；3 分部）"
+   ],
+   "address": "运营 Via E. H. Grieg 23, 21047 Saronno (VA)；注册 Via Marco Ulpio Traiano 16, 20149 Milano",
+   "accounts": "2025 营收 €8,944,233；净利 €44,374",
+   "accounts_due": "—",
+   "size_band": "中小（42 人）",
+   "officers": [
+    "Walter Bettini — Amministratore Delegato / 联合创始人 = 拍板人",
+    "Massimo Bettini — 联合创始人",
+    "Marco Contu — 研究档 KP（info@）= 收件人",
+    "Giuseppe Costantini — 研究档 KP"
+   ],
+   "psc": "Bettini 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已经把中国 PoE 交换机贴 GAMS 标卖的意大利方案商（营收 €8.9M、42 人、3 分部）→ 贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选（回信即 A）**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI 工业线一页纸 + 1:1 对照其现贴标机型；稿内不点名 ONV / ComNet",
+    "收件人 info@ 点名 Marco Contu，抄 Walter Bettini（AD）；6 次打开无回复 → 二次触达换切口「a second OEM source for your GAMS-branded switches」；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "贴标 30% 目标；B BIG；加厚一次；升 A 候选；坐实（P.IVA + REA + 营收）。",
+   "code": "SB-448"
   }
  }
 }

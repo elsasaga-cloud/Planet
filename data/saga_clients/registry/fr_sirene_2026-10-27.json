@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 2
+  "updated": "2026-10-28",
+  "count": 3
  },
  "rows": {
   "SA-011": {
@@ -76,6 +76,38 @@
    "fetched": "2026-10-27",
    "code": "SB-910",
    "_src": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）"
+  },
+  "SB-358": {
+   "batch": 107,
+   "name": "KYOLIS SAS（kyolis.com；总部 2 rue de la Renaissance 92160 Antony，研发 / 工厂 / 售后 1 rue de la Banque 73000 Chambéry（2023 起投产）；SIREN 519 722 698 RCS Nanterre；TVA FR00519722698）— 2010-01 由 Stéphane Manuse 与 Thomas Eleaume 创立的法国光纤 / 同轴以太网传输设备与工业交换机品牌商（自有 logo；「法国制造」）；股本 €100,000；6–9 人（2022）；Président Thomas Eleaume（2011 起）、DG Stéphane Manuse（2024-06 起）；pappers 标注 1 项登记程序（性质未查）；群发 6 次打开",
+   "iso": "FR",
+   "fetched": "2026-10-28",
+   "source": "FR · 1 次检索：societe.com（KYOLIS；SIREN 519 722 698；SIRET 519 722 698 00023；TVA FR00519722698；création 22/01/2010；NAF 4669B；SAS；2 rue de la Renaissance 92160 Antony；Président Thomas ELEAUME depuis 2011-08-06；DG Stéphane MANUSE depuis 2024-06-28）+ pappers（Effectif 6–9 salariés 2022；Capital 100 000；1 procédure enregistrée）+ infonet（RCS Nanterre；Active）+ 官网 Notre histoire（Créée en 2010 … fabrication française；atelier Chambéry fin 2022，production 2023；siège Antony）+ lefigaro 公告（capital 100.000 €；AG 2024-05-16 任命 DG）",
+   "url": "https://www.societe.com/societe/kyolis-519722698.html",
+   "number": "SIREN 519 722 698（RCS Nanterre）；TVA FR00519722698",
+   "status": "Active",
+   "incorporated": "2010-01-22（RCS）",
+   "company_type": "SAS（私有；股本 €100,000）",
+   "sic": [
+    "光纤 / 同轴以太网传输设备、工业交换机 品牌商（自有 logo；部分法国组装）"
+   ],
+   "address": "2 rue de la Renaissance, 92160 Antony（工厂 1 rue de la Banque, 73000 Chambéry）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（6–9 人）",
+   "officers": [
+    "Thomas Eleaume — Président（2011 起）= 拍板人（研究档 KP）",
+    "Stéphane Manuse — Directeur général / 技术（2024-06 起）= 收件人（stephane.manuse@）"
+   ],
+   "psc": "Eleaume / Manuse（创始人）",
+   "charges": "pappers：1 项登记程序（性质未查）",
+   "prev_names": [],
+   "lines": [
+    "**自有 logo 的法国小品牌商（工业 MC / FS / SFP / EoC）→ 贴标 OEM 30% 目标（Kyolis 标导轨工业 PoE / 光口机，补其自产线以外的 SKU）+ 分销 20%，B BIG，加厚一次；升 A 次候选**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 一页纸 + 1:1 规格对照；稿内不说「made in France 替代」",
+    "收件人 stephane.manuse@ 直呼 Stéphane，抄 Thomas Eleaume；6 次打开无回复 → 二次触达换切口「fill your catalogue gaps under your own label」；发信窗口 Thu 12–14 CET；法语一句引子"
+   ],
+   "notes": "贴标 30% 目标 + 分销 20%；B BIG；加厚一次；升 A 次候选；坐实（SIREN）。",
+   "code": "SB-358"
   }
  }
 }

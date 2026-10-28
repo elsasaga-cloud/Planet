@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 132
+  "count": 133
  },
  "rows": {
   "SA-002": {
@@ -4461,6 +4461,39 @@
    ],
    "notes": "分销 20% 低概率；一页纸后不动；部分坐实；付款 100% 前 T/T。",
    "code": "SB-662"
+  },
+  "SB-449": {
+   "batch": 107,
+   "name": "BV Security = BV USA LLC（bvsecurity.com；**美国伊利诺伊 Elk Grove Village 1951 Landmeier Rd**，研究档误记意大利）— 2009 年起的 PoE 交换机 / 注入器 / 摄像机 / 监控硬盘批发商，自称 OEM/ODM manufacturer，**自有品牌 BV-Tech**（POE-SW802G、SW802-DIN 等 Amazon 热销 264+ 评价）；GeoVision 授权经销；Managing Member Chien Chang Lu，Co-Managing Director / Owner Lisa Tsai；7–11 人；$5.3M 口径；IL LLC 号未取 → 部分坐实；研究档 KP Zehua W（support@）；群发 6 次打开",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "IT→US · 1 次检索：官网产品页 schema（BV USA LLC alternateName BV Security；1951 Landmeier Road Elk Grove Village IL 60007；sales@bvsecurity.com；+1 877-985-5888）+ About Us（BV Security is an OEM/ODM manufacturer located in the Northwest Suburbs of Chicago … authorized re-seller of GeoVision）+ LinkedIn（BV USA LLC；Founded 2009；11–50；POE Switch and IP Camera）+ buzzfile（BV USA LLC；Chien Chang Lu Managing Member；(847) 619-2288）+ ZoomInfo（Lisa Tsai Co-Managing Director and Owner；$5.3M）+ RocketReach（7 人；Founded 2009）；IL SoS 文件号未取",
+   "url": "https://bvsecurity.com/pages/about-us",
+   "number": "IL LLC（文件号未取）",
+   "status": "Active",
+   "incorporated": "2009",
+   "company_type": "LLC（华裔家族私有）",
+   "sic": [
+    "PoE 交换机 / 注入器 / 摄像机 / 监控硬盘 批发 + 自有品牌 BV-Tech（亚马逊 + 自营店）+ 安装服务"
+   ],
+   "address": "1951 Landmeier Rd, Elk Grove Village, IL 60007",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（7–11 人）",
+   "officers": [
+    "Chien Chang Lu — Managing Member = 拍板人",
+    "Lisa Tsai — Co-Managing Director / Owner = 拍板人",
+    "Zehua W — 研究档 KP（support@）= 技术 / 客服，改投 sales@ 点名 Lisa Tsai"
+   ],
+   "psc": "Lu / Tsai",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**国别更正：美国伊利诺伊（研究档误记意大利 → country_fix 美国）**；**自有 BV-Tech 标 PoE 交换机批发商 = 贴标 OEM 30% 目标（它的 SW802G 类机型正是 STC-028GP / STC-228GP 的贴标对象）+ 工业 DIN 线（STI-054GP / STI-144GP），B BIG，加厚一次；升 A 候选（回信即 A）**；亚马逊渠道 → 价格敏感，报 OEM 30% 档不报分销档",
+    "收件人改 sales@ 点名 Lisa Tsai / Chien Chang Lu；华裔业主 → 中文直联 Simon 定（默认否）；6 次打开无回复 → 二次触达换切口「second OEM source for your BV-Tech line」；发信窗口 Wed 08–10 CT；其 NDAA 博客口径我方不碰"
+   ],
+   "notes": "贴标 30% 目标；B BIG；加厚一次；升 A 候选；country_fix 美国；部分坐实。",
+   "code": "SB-449"
   }
  }
 }

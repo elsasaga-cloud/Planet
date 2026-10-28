@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 46
+  "count": 49
  },
  "rows": {
   "SA-061": {
@@ -1441,6 +1441,102 @@
    ],
    "notes": "A 维持；贴标 30% 可谈 + 分销 20%；加厚；部分坐实（法定名二选一）；收款路径待核。",
    "code": "SA-069"
+  },
+  "SB-073": {
+   "batch": 107,
+   "name": "A.N.B. RIMEX SA（AnB-Rimex；anb-rimex.be；比利时列日 Herstal Parc Industriel des Hauts-Sarts；BCE 0424.592.259）— 1983-07-26 成立的安防 / 楼宇自动化设备制造商 + 分销商（NACE 2630 通信设备制造 + 4652 电子 / 电信设备批发；自有 TriCom 报警主机、TriCare AI；分销 CCTV / 门禁 / 火灾探测；2018 首家 INCERT 认证 CCTV）；股本 €75,000；12.7 FTE；董事兼日常管理 Philippe Stas（2022 起）+ Aida Consult（常任代表）；研究档 KP Ibrahim Tiryaki（it@）；群发 8 次打开",
+   "iso": "BE",
+   "fetched": "2026-10-28",
+   "source": "BE · 1 次检索：companyweb（BE 0424.592.259；Rue de l’Abbaye 89 4040 Herstal；Established 26-07-1983；12.7 FTE；SA）+ b2bhint（Capital 75.000 EUR；NACE 2630 / 4652 / 4669；Dirigeants Stas Philippe Administrateur + Personne chargée de la gestion journalière depuis 2022；Aida Consult Administrateur / Représentant permanent）+ pappers.be（NV；BTW BE0424592259；75 000 €）+ INCERT 证书页（ANB Rimex；BE0424592259；info@anb-rimex.be；04 229 37 97）+ LinkedIn（12 员工）",
+   "url": "https://www.companyweb.be/en/0424592259/a-n-b-rimex",
+   "number": "BCE / TVA BE 0424.592.259（établissement 2.023.133.651）",
+   "status": "Active（situation normale）",
+   "incorporated": "1983-07-26",
+   "company_type": "SA / NV（私有；股本 €75,000）",
+   "sic": [
+    "安防 / 楼宇自动化设备制造（报警主机）+ 安防设备批发（CCTV / 门禁 / 火灾探测）"
+   ],
+   "address": "Rue de l’Abbaye 89, 4040 Herstal（Liège）",
+   "accounts": "2025 年报已交",
+   "accounts_due": "—",
+   "size_band": "小型（12.7 FTE）",
+   "officers": [
+    "Philippe Stas — Administrateur + 日常管理负责人（2022 起）= 拍板人",
+    "Aida Consult（常任代表）— Administrateur",
+    "Ibrahim Tiryaki — 研究档 KP（it@anb-rimex.be）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自产报警主机 + 分销 CCTV 的比利时小厂 → 贴标 OEM 30% 可谈（AnB 标 PoE 交换机进其 CCTV 套装）+ 分销 20%，B，加厚一次（small）**：STC-028GP / STC-228GP / STC-2224GP 一页纸 + 1:1 对照",
+    "收件人 it@ 直呼 Ibrahim，抄 info@ 点名 Philippe Stas；8 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；法语一句引子 + 英文正文"
+   ],
+   "notes": "贴标 30% 可谈 + 分销 20%；B；加厚一次（small）；坐实（BCE）。",
+   "code": "SB-073"
+  },
+  "SB-1033": {
+   "batch": 107,
+   "name": "Garma Electrónica S.L.（garmasl.com；西班牙圣塞巴斯蒂安 Calle Oyarzun 1 Bajo, 20013 Donostia）— 20+ 年工业仪表与过程控制分销商（Red Lion / N-Tron 工业交换机 NT5000、FEMA 面板表、Scaime 称重、Helmholz 网络、Finetek 液位）；CIF 未取 → 部分坐实；表内「Red Lion Switch、I/O module」；无跟进；群发 8 次打开",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：官网 Home / Contact（Garma Electrónica S.L.；Calle Oyarzun 1 Bajo 20013 Donostia-San Sebastián；info@garmasl.com；943 29 11 02；With over 20 years；Download Red Lion Ntron Networking / N-Tron Series NT5000 / Red Lion FlexEdge / Scaime / Helmholz）+ FEMA 分销页 + Finetek 项目页（Zamakona 船厂）；CIF / Registro Mercantil 未取",
+   "url": "https://www.garmasl.com/en/",
+   "number": "CIF 未取（S.L.）",
+   "status": "Active",
+   "incorporated": "未取（自述 20+ 年）",
+   "company_type": "S.L.（私有；小型）",
+   "sic": [
+    "工业仪表 / 过程控制 / 工业网络分销（Red Lion / N-Tron 代理）"
+   ],
+   "address": "Calle Oyarzun 1 Bajo, 20013 Donostia-San Sebastián（Gipuzkoa）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（推定 <10 人）",
+   "officers": [
+    "（未具名）— 收件人 info@garmasl.com（点名 compras / responsable de redes industriales）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**卖 N-Tron（高价美系工业交换机）的仪表分销商 → STI 工业线是「第二价位」：分销 20% small，一页纸（STI-054GP / STI-144GP / STI-288DGGPM 1:1 对照 NT5000 价位）一次；有回声再加厚**；稿内不点名 Red Lion / N-Tron",
+    "8 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；西语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸；部分坐实。",
+   "code": "SB-1033"
+  },
+  "SB-101": {
+   "batch": 107,
+   "name": "АВИКАМ ЕООД / Avicam Ltd.（avicam-bg.com；索菲亚 ул. Братя Миладинови 60 门店，注册地 №57 ет.5 ап.16；ЕИК 175335234；ДДС BG175335234 2007-09-12）— 品牌 2001 起、法人 2007 年登记的视频监控 / 安防设备进口分销 + 设计安装商（RaySharp 保加利亚官方代表；自有 AVICAM 品牌线缆配件；Viber 销售）；管理者 Георги Атанасов Колев（与 Атанас Георгиев Колев 各 50%，父子推定）；2 名员工（2021）、营业额 €160k（2020）→ 小微；群发 8 次打开",
+   "iso": "BG",
+   "fetched": "2026-10-28",
+   "source": "BG · 1 次检索：papagal.bg（Авикам ЕООД；ЕИК 175335234；Активен；ДДС BG175335234 от 12.09.2007；Дата на регистрация 2007；Седалище София р-н Възраждане, Братя Миладинови 57, ет. 5, ап. 16；Управител Георги Атанасов Колев；Съдружници Атанас Георгиев Колев 50% / Георги Атанасов Колев 50%；Оборот 160 546 € 2020；2 служители 2021）+ 官网（АВИКАМ ООД … над 15 годишен опит；Братя Миладинови 60；sales@avicam-bg.com；+359 2 8327084）+ 品牌页（AVICAM е бранд на АВИКАМ ООД, основана през 2001）+ econ.bg / jobs.bg（ЕИК 175335234）",
+   "url": "https://papagal.bg/eik/175335234/8e85",
+   "number": "ЕИК 175335234；ДДС BG175335234",
+   "status": "Активен",
+   "incorporated": "2007（法人）；品牌 2001",
+   "company_type": "ЕООД / ООД（家族；注册资本 ≈€2,556）",
+   "sic": [
+    "视频监控 / 安防设备进口分销 + 设计安装（自有 AVICAM 配件品牌）"
+   ],
+   "address": "ул. Братя Миладинови 60, 1202 София（注册地 №57, ет. 5, ап. 16）",
+   "accounts": "2020 营业额 €160,546",
+   "accounts_due": "—",
+   "size_band": "小微（2 人）",
+   "officers": [
+    "Георги Атанасов Колев（Georgi Kolev）— Управител / 50% 股东 = 拍板人 / 收件人（sales@）",
+    "Атанас Георгиев Колев — 50% 股东"
+   ],
+   "psc": "Колев 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**2 人家族安防分销（自有 AVICAM 配件标）→ 分销 20% small；一页纸（STC-028GP / STC-228GP 配其 RaySharp 套装）一次；小批量贴标可一句带过**",
+    "收件人 sales@ 点名 Georgi Kolev；8 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 EET"
+   ],
+   "notes": "分销 20% small；一页纸；坐实（ЕИК）。",
+   "code": "SB-101"
   }
  }
 }

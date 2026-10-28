@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Lithuania · Registrų centras / Sodra 公开数据（rekvizitai.vz.lt）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 1
+  "updated": "2026-10-28",
+  "count": 2
  },
  "rows": {
   "SB-789": {
@@ -38,6 +38,41 @@
    "notes": "研究档 legal_name 空 → 回填；KP 加 Narkovičius（Direktorius）。",
    "fetched": "2026-10-27",
    "code": "SB-789"
+  },
+  "SB-1066": {
+   "batch": 107,
+   "name": "UAB „Elseta“（原 UAB „PRAMONINIS RYŠYS“ 2013–2018；elseta.com；pramoninisrysys.lt 为其工业通信网店；维尔纽斯 L. Zamenhofo g. 5；įmonės kodas 300564737；PVM LT100003358919）— 2006-05-02 登记、Aedilis 研发部拆分而来的工业 / 变电站自动化制造商（Mini RTU、数据集中器、WCCLite、The-Vinci 云；面向配电网 / 新能源 / 产线）；股本 €173,760；≈22 人；负责人 Matas Doviltis；表内「Beijer 工业 FS，质量一般」；群发 8 次打开",
+   "iso": "LT",
+   "fetched": "2026-10-28",
+   "source": "LT · 1 次检索：rekvizitai.vz.lt（Elseta, UAB；code 300564737；founded 2006-05-02；VAT LT100003358919；Share capital 173 760 €；Manager Matas Doviltis；L. Zamenhofo g. 5 LT-06332 Vilnius；4 shareholders；2018-03-16 更名自 UAB PRAMONINIS RYŠYS；2013-01-18 由 UAB ELSETA 改为 PRAMONINIS RYŠYS）+ info.lt（22 darbuotojai；www.pramoninisrysys.lt）+ elseta.com Contacts（Company Code 300564737）+ 公司自述（First established as Aedilis R&D department in 2011, separate company 2017；RTU for secondary substations）",
+   "url": "https://rekvizitai.vz.lt/en/company/elseta/",
+   "number": "įmonės kodas 300564737；PVM LT100003358919",
+   "status": "Active",
+   "incorporated": "2006-05-02",
+   "company_type": "UAB（4 名股东；股本 €173,760）",
+   "sic": [
+    "工业 / 变电站自动化设备制造（RTU、数据集中器）+ 工业通信设备网店（pramoninisrysys.lt）"
+   ],
+   "address": "Liudviko Zamenhofo g. 5, LT-06332 Vilnius",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（≈22 人）",
+   "officers": [
+    "Matas Doviltis — 负责人（vadovas）= 拍板人",
+    "（未具名）— 收件人 info@elseta.com / 网店邮箱（点名 pirkimai / 采购）"
+   ],
+   "psc": "4 名股东（未取）",
+   "charges": "",
+   "prev_names": [
+    "UAB „PRAMONINIS RYŠYS“（2013–2018）",
+    "UAB „ELSETA“（2006–2013）"
+   ],
+   "lines": [
+    "**自产 RTU 的工业自动化厂 + 工业通信网店 → 采购型 25%（RTU 柜内 / 变电站二次侧配工业交换机）+ 网店分销 20%，B，加厚一次（small）**：STI-054GP / STI-144GP / STI-288DGGPM / STI-0240GE 一页纸；**守界：不提 IEC 61850 认证，只讲宽温 / 导轨 / 冗余供电**",
+    "收件人 info@ 点名 Matas Doviltis；8 次打开无回复 → 二次触达换切口「DIN-rail switches sized for RTU cabinets」；发信窗口 Thu 12–14 EET"
+   ],
+   "notes": "采购型 25% + 分销 20%；B；加厚一次（small）；坐实（įmonės kodas）。",
+   "code": "SB-1066"
   }
  }
 }
