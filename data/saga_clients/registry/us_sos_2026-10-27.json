@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 104
+  "count": 105
  },
  "rows": {
   "SA-002": {
@@ -3550,6 +3550,37 @@
    ],
    "notes": "分销 20% 低概率（Belden 集团）；一页纸。",
    "code": "SB-1096"
+  },
+  "SB-753": {
+   "batch": 103,
+   "name": "profichip USA, Inc.（profichipusa.com；Alpharetta, Georgia — **国家应为美国，研究档「德国」待核 → country_fix 美国**）— 德国 profichip GmbH（Herzogenaurach；2012 起属 Yaskawa Europe GmbH）的美国销售公司（工业通信 ASIC：PROFIBUS / PROFINET / EtherCAT 控制器、ANTAIOS 实时以太网芯片、开发板）；1 人（第三方）；2009 起；研究档「3 旺工业 FS」与 eu.com 域名为误记",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网首页 / Contact（profichip USA, Inc.；980 Birmingham Rd. #721, Alpharetta, GA 30004；+1 678 880-6910；info@profichipusa.com；库存自 Alpharetta 总部发货）+ 官网 About（profichip 为 Herzogenaurach 私有公司）+ LinkedIn profichip（2012 起属 Yaskawa Europe GmbH；Alpharetta Deerfield Pkwy 办公点）+ RocketReach（profichip USA, Inc.；2009；1 人；$6M 存疑）+ ZoomInfo（Alpharetta GA；ASIC 供应商）+ germanautomation.com（profichip 现为 Yaskawa 公司）；GA SoS 号未取",
+   "url": "https://profichipusa.com/",
+   "number": "GA 公司（SoS 号未取）；母体 profichip GmbH（Yaskawa Europe）",
+   "status": "Active（站点在线）",
+   "incorporated": "2009（第三方）",
+   "company_type": "Corporation（Yaskawa 体系关联销售公司）",
+   "sic": [
+    "工业通信 ASIC / 嵌入式芯片与开发板销售（PROFIBUS、PROFINET、EtherCAT、Mechatrolink）"
+   ],
+   "address": "980 Birmingham Rd. #721, Alpharetta, GA 30004（邮箱套房）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "一人（美国销售点）",
+   "officers": [
+    "无具名（info@）"
+   ],
+   "psc": "profichip GmbH / Yaskawa Europe GmbH",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**芯片供应商的 1 人美国销售点（上游同行，不买交换机；表内条目系误记）→ `不动`**；国家改美国，研究档域名 eu.com 误记一并注明",
+    "不发信"
+   ],
+   "notes": "不动（芯片供应商；误记）；country_fix 美国。",
+   "code": "SB-753"
   }
  }
 }

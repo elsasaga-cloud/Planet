@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 59
+  "count": 60
  },
  "rows": {
   "SA-015": {
@@ -2028,6 +2028,39 @@
    ],
    "notes": "分销 20% small；一页纸；国别更正 BG。",
    "code": "SB-805"
+  },
+  "SB-401": {
+   "batch": 103,
+   "name": "SECURASOUND LIMITED（securasound.co.uk；Whitchurch, Shropshire）— 1987-03-17 成立的面向安装商的微型安防设备分销商（CCTV、门禁、门口对讲「Soul」2 线套件；医疗 / 教育 / 住宅）；CH **02111547**；MD / PSC Philip Anthony John Wainwright（b. 1946-06）+ Susan Olga Wainwright（Director / Secretary）；**研究档 KP Jason Wainwright = General Manager（家族二代）**；2–10 人，营收 <£1M；VAT 453682634",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House（SECURASOUND LIMITED 02111547；Private limited Company；Incorporated 1987-03-17；Active；Registered office Thornlea, 165 Wrexham Road, Whitchurch, Shropshire SY13 1JG；Officers Philip Anthony John Wainwright Director b. 1946-06 / Susan Olga Wainwright Director & Secretary b. 1948-06，均 1992-06-14 前任职）+ companycheck（SIC 80200；3 officers）+ Endole（Micro；turnover <£1M；PSC Philip A. J. Wainwright；2 shareholders）+ 官网 About（1987 年由现任 MD Philip Wainwright 创办；Company Number 2111547；VAT 453682634；通信寄 Trading Address）+ LinkedIn（security equipment distributor；The Hollies, Chester Road, Whitchurch SY13 1LZ；2–10；Jason Wainwright — General Manager）+ Kompass（0–9 人；MD Philip Wainwright）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/02111547",
+   "number": "CH 02111547 · VAT 453682634",
+   "status": "Active",
+   "incorporated": "1987-03-17",
+   "company_type": "Private limited company（Wainwright 家族）",
+   "sic": [
+    "80200 Security systems service activities（实际：面向安装商的 CCTV / 门禁 / 对讲设备分销；Kompass 另列 26400）"
+   ],
+   "address": "Reg: Thornlea, 165 Wrexham Road, Whitchurch, Shropshire SY13 1JG；Trading: The Hollies, Chester Road, Whitchurch SY13 1LZ",
+   "accounts": "Micro（turnover <£1M）",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Philip Anthony John Wainwright — Director / Managing Director / PSC（b. 1946-06；创办人）",
+    "Susan Olga Wainwright — Director / Company Secretary（b. 1948-06）",
+    "Jason Wainwright — General Manager = **研究档 KP 本人**（家族二代，实际经营）"
+   ],
+   "psc": "Philip Anthony John Wainwright",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型安装商分销（CCTV + ONV PoE 在售）→ 分销 20% small**：STC-028GP / STC-228GP / STC-2216GP（对标其在售 ONV PoE 价；UKCA/CE）；一页纸；不加厚",
+    "收件人 jason@ 点名 General Manager Jason Wainwright；表内「可以多跟进一下」→ 二次触达换切口「a second PoE line beside your current one, DAP UK, MOQ 1」；发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "分销 20% small；一页纸；KP = GM 本人。",
+   "code": "SB-401"
   }
  }
 }
