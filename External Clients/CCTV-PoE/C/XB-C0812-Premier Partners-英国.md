@@ -45,7 +45,7 @@
 ## 8. 研究卡（第 2 步，W3-R10，2026-10-28）
 
 - **结论：XC** — 来源库误把展会赞助计划当公司 → C 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：非公司（「Premier Partners」= International Security Expo 的赞助商计划名，名下为 Smiths Detection/Abloy/Hirsch 等展商）
 - 是什么人：非公司（「Premier Partners」= International Security Expo 的赞助商计划名，名下为 Smiths Detection/Abloy/Hirsch 等展商）；规模：未量化
 - 对口哪条线：—
@@ -60,4 +60,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | ISE 官网：Our Premier Partners Programme is for companies with stands over 48sqm | Our Premier Partners Programme is for companies with stands over 48sqm | https://www.internationalsecurityexpo.com/premier-partners | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

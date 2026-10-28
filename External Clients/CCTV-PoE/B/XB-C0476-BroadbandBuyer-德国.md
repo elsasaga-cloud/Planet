@@ -44,7 +44,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XB** — 来源库误标 DE，实为英国；品牌货电商、自营选品空间小 → B 不动；公开邮箱为客服 we.care@broadbandbuyer.com（Trustpilot），采购邮箱未见
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：网络设备电商（broadbandbuyer.com / Essanet Ltd，Milton Keynes；2002 起；11,000+ SKU；行业账户；自称英国分销伙伴）
 - 是什么人：网络设备电商（broadbandbuyer.com / Essanet Ltd，Milton Keynes；2002 起；11,000+ SKU；行业账户；自称英国分销伙伴）；规模：未量化
 - 对口哪条线：—
@@ -59,4 +59,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | About：Since 2002, broadbandbuyer.com has helped trade installers, resellers, and IT professionals…trusted UK distribution partner；Contact 页 Essanet Ltd 21 Kelvin Drive Milton Keynes | If you're a trade installer, reseller, or IT specialist looking for a trusted UK distribution partner, we're here to help | https://www.broadbandbuyer.com/about/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

@@ -52,7 +52,7 @@
 ## 8. 研究卡（第 2 步，W3-R11，2026-10-28）
 
 - **结论：XB** — 目录电商、面向经销商和个人，非专业渠道 → B 不动；serviceclient@topbiz.fr 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：IT 电商批发（Topbiz.fr / Actuelburo 集团，Narrosse 朗德省；2005 起；28,000 SKU；B2B + B2C）
 - 是什么人：IT 电商批发（Topbiz.fr / Actuelburo 集团，Narrosse 朗德省；2005 起；28,000 SKU；B2B + B2C）；规模：未量化
 - 对口哪条线：—
@@ -67,4 +67,4 @@
 | 来源库官网/名录核对 | 2005年起法国IT批发, 24/48h发货 |  |  | 2026-09-28 |
 | 本轮网查 | 官网：Grossiste informatique depuis près de 20 ans…28 370 références…serviceclient@topbiz.fr | Topbiz.fr fournit les revendeurs, les entreprises et les particuliers depuis les Landes | https://www.topbiz.fr/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

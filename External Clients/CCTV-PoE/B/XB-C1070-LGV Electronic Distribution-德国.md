@@ -61,7 +61,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XB** — 元器件线，无交换机品类；邮箱 info@lorenzgroup.com 已记，留 B
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：电子元器件分销（LGV Electronic Distribution und Vertriebs GmbH，Flörsheim；1952 起；连接器/焊接/ESD/标识）
 - 是什么人：电子元器件分销（LGV Electronic Distribution und Vertriebs GmbH，Flörsheim；1952 起；连接器/焊接/ESD/标识）；规模：未量化
 - 对口哪条线：—
@@ -76,4 +76,4 @@
 | 来源库官网/名录核对 | A类 — 1952年起,20-49员工,全球交付,欧洲领先分销 |  |  | 2026-09-28 |
 | 本轮网查 | 官网 info@lorenzgroup.com；wlw：Bauteile-Distributor | ist Bauteile-Distributor und Beschaffungs- und Logistik-Dienstleister | https://www.wlw.de/de/firma/lgv-electronic-distribution-und-ver-576147 | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

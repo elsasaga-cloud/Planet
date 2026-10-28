@@ -109,7 +109,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XB** — 巨头（BIG）：自有品牌 TERRA 由成熟 ODM 体系供货，小贸易商难切入，不再补查 → B 不动；邮箱未记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）
 - 是什么人：德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）；规模：德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）
 - 对口哪条线：—
@@ -124,4 +124,4 @@
 | 来源库官网/名录核对 | Vollsortiment IT分销商 + 制造商（TERRA品牌） |  | https://wortmann.de/ | 2026-09-28 |
 | 本轮网查 | Kurzprofil：über 1 Milliarde € Umsatz in 2025…Hersteller, Distributor und Cloud Service Anbieter…ungefähr 800 Mitarbeitern über 16.000 Fachhändler | Als Hersteller, Distributor und Cloud Service Anbieter bedienen wir mit ungefähr 800 Mitarbeitern über 16.000 Fachhändler und Systemhäuser in ganz Europa | https://www.wortmann.de/de-de/content/unternehmen-kurzprofil.aspx | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

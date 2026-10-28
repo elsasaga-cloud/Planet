@@ -62,7 +62,7 @@
 ## 8. 研究卡（第 2 步，W3-R07，2026-10-28）
 
 - **结论：XA** — GB 安防批发、邮箱已补 → 升 A 首触（排 2027-01-21 周四）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：消防安防批发（ISET UK Fire & Security Distribution Ltd，Nottingham；Hikvision 授权批发；仅对贸易客户）
 - 是什么人：消防安防批发（ISET UK Fire & Security Distribution Ltd，Nottingham；Hikvision 授权批发；仅对贸易客户）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — Hikvision 批发，PoE 配套
@@ -98,4 +98,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

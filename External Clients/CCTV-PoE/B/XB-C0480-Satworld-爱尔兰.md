@@ -44,7 +44,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XB** — 以卫星电视器材为主、零售门店型 → B 不动；sales@satworld.ie 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：卫星/地面/CCTV 器材商（Satworld，Dublin 12；零售 + 行业账户，面向安装商/集成商/批发）
 - 是什么人：卫星/地面/CCTV 器材商（Satworld，Dublin 12；零售 + 行业账户，面向安装商/集成商/批发）；规模：未量化
 - 对口哪条线：—
@@ -59,4 +59,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | Crunchbase：Trade accounts support installers, system integrators, wholesalers, and retail businesses…sales@satworld.ie | Irelands Premier Satellite, Terrestrial, CCTV Supplier | https://www.satworld.ie/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

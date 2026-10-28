@@ -80,7 +80,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — DE 进口分销、邮箱已补 → 升 A 首触
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：网络产品进口分销（KTI Distribution GmbH，Bielefeld；1996 起；台湾 KTI Networks 介质转换器/交换机/光模块德语区进口商；也做 OEM/ODM；总经理 Paul Peter Kaiser）
 - 是什么人：网络产品进口分销（KTI Distribution GmbH，Bielefeld；1996 起；台湾 KTI Networks 介质转换器/交换机/光模块德语区进口商；也做 OEM/ODM；总经理 Paul Peter Kaiser）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 直接从厂商进口交换机 → 对自有标签/第二来源有经验
@@ -116,4 +116,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

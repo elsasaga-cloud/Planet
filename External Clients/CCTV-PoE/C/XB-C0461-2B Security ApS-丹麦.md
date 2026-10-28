@@ -62,7 +62,7 @@
 ## 8. 研究卡（第 2 步，W3-R12，2026-10-28）
 
 - **结论：XC** — 制造商且仅 2 人 → C 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：PTZ 云台制造商（2B Security Systems ApS，Roskilde；1997 起；2 名员工）
 - 是什么人：PTZ 云台制造商（2B Security Systems ApS，Roskilde；1997 起；2 名员工）；规模：未量化
 - 对口哪条线：—
@@ -77,4 +77,4 @@
 | 来源库官网/名录核对 | 13年丹麦公司, CCTV组件(云台/护罩/镜头)欧洲制造+全球分销, 大型监控系统设计 |  | https://2bsecurity.com/ | 2026-09-28 |
 | 本轮网查 | About：European manufacturer and worldwide distributor of surveillance equipment like PTZ systems…；proff.dk：Antal ansatte 2 | 2B Security Systems ApS is establised in 1997…The company is a European manufacturer and worldwide distributor | https://www.2bsecurity.com/about-us/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

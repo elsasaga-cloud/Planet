@@ -129,7 +129,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — DE PoE 专营分销、邮箱已补 → 升 A 首触（轻）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：PoE 专营分销（PoE Partner = viveroo GmbH 业务部，Salzkotten；2021 起；PoE Texas 欧洲官方分销；PoE 交换机/注入器网店 B2B）
 - 是什么人：PoE 专营分销（PoE Partner = viveroo GmbH 业务部，Salzkotten；2021 起；PoE Texas 欧洲官方分销；PoE 交换机/注入器网店 B2B）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — PoE 专营，已有一条美系 PoE 线，可加第二条
@@ -165,4 +165,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

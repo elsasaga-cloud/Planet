@@ -48,7 +48,7 @@
 ## 8. 研究卡（第 2 步，W3-R10，2026-10-28）
 
 - **结论：XB** — 主营火灾报警，非网络渠道 → B 不动；info@fire-distribution.de 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：消防报警分销（HON Security and Fire Distribution GmbH，Leverkusen；Esser/Notifier/Morley 授权分销）
 - 是什么人：消防报警分销（HON Security and Fire Distribution GmbH，Leverkusen；Esser/Notifier/Morley 授权分销）；规模：未量化
 - 对口哪条线：—
@@ -63,4 +63,4 @@
 | 来源库官网/名录核对 | B类安防/消防分销 |  |  | 2026-09-28 |
 | 本轮网查 | Facebook：einer der größten autorisierten Distributoren für Esser Brandmeldetechnik in Deutschland；Impressum info@fire-distribution.de，GF Sven Kniesche | Wir sind einer der größten autorisierten Distributoren für Esser Brandmeldetechnik in Deutschland | https://fire-distribution.de/impressum/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

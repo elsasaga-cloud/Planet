@@ -52,7 +52,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XC** — 微型多业务代理 → C 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：数字营销 + 电信 + 安防小代理（YOQO SAS，Dijon/Paris；2022 起；资本 €5k）
 - 是什么人：数字营销 + 电信 + 安防小代理（YOQO SAS，Dijon/Paris；2022 起；资本 €5k）；规模：未量化
 - 对口哪条线：—
@@ -67,4 +67,4 @@
 | 来源库官网/名录核对 | 安防设备分销 |  |  | 2026-09-28 |
 | 本轮网查 | yoqo.fr：YOQO accompagne les TPE et PME…Digital & acquisition…Télécom…Sécurité；Politique：SAS au capital de 5000€ | YOQO – SAS au capital de 5000€ – RCS Paris | https://yoqo.fr/politique-de-confidentialite/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

@@ -45,7 +45,7 @@
 ## 8. 研究卡（第 2 步，W3-R08，2026-10-28）
 
 - **结论：XA** — TR 主战场、纯分销、邮箱已补 → 升 A 首触（排 2027-01-14 周四）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防纯分销（Y3K Güvenlik Teknolojileri A.Ş.，Istanbul Beykoz；2005 起；2011 起 Securitas 集团；35 个国际品牌土耳其分销；进口 + 备货 + 分销 CCTV/门禁）
 - 是什么人：安防纯分销（Y3K Güvenlik Teknolojileri A.Ş.，Istanbul Beykoz；2005 起；2011 起 Securitas 集团；35 个国际品牌土耳其分销；进口 + 备货 + 分销 CCTV/门禁）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 纯分销进口商，35 品牌 → 可纳入新 PoE 线
@@ -81,4 +81,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

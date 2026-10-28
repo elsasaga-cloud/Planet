@@ -62,7 +62,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — DE 进口分销、工业线对口、邮箱已补 → 升 A 首触
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：计算机/通信部件进口分销（ICO Innovative Computer GmbH，Diez；1991 起，约 120 人；2020 起 Antaira 分销，工业以太网交换机品类）
 - 是什么人：计算机/通信部件进口分销（ICO Innovative Computer GmbH，Diez；1991 起，约 120 人；2020 起 Antaira 分销，工业以太网交换机品类）；规模：计算机/通信部件进口分销（ICO Innovative Computer GmbH，Diez；1991 起，约 120 人；2020 起 Antaira 分销，工业以太网交换机品类）
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 进口商 + 工业交换机品类现成
@@ -94,4 +94,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

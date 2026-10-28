@@ -50,7 +50,7 @@
 ## 8. 研究卡（第 2 步，W3-R09，2026-10-28）
 
 - **结论：XA** — TR 主战场、进口 + 分销、邮箱已补 → 升 A 首触（排 2027-01-14 周四）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防进口分销（Okisan Güvenlik Teknolojileri A.Ş.，Istanbul Okmeydanı；1993 起；Tiandy 独家 + Dahua 土耳其分销；5,000+ 经销商；Ankara/İzmir 分部）
 - 是什么人：安防进口分销（Okisan Güvenlik Teknolojileri A.Ş.，Istanbul Okmeydanı；1993 起；Tiandy 独家 + Dahua 土耳其分销；5,000+ 经销商；Ankara/İzmir 分部）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 土耳其头部安防进口商，经销网大，PoE 交换机是其配套品类
@@ -86,4 +86,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

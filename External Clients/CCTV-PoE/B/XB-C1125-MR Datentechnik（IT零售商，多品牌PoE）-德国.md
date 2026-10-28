@@ -69,7 +69,7 @@
 ## 8. 研究卡（第 2 步，W3-R10，2026-10-28）
 
 - **结论：XB** — 大型系统集成商，采购链长 → B 不动；info@mr-daten.de / shop@mr-daten.de 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：IT 系统集成商 + 网店（MR Datentechnik Vertriebs- und Service GmbH，Nürnberg；1994 起；250–499 人）
 - 是什么人：IT 系统集成商 + 网店（MR Datentechnik Vertriebs- und Service GmbH，Nürnberg；1994 起；250–499 人）；规模：IT 系统集成商 + 网店（MR Datentechnik Vertriebs- und Service GmbH，Nürnberg；1994 起；250–499 人）
 - 对口哪条线：—
@@ -84,4 +84,4 @@
 | 来源库官网/名录核对 | IT零售商/分销商 |  | https://mr-daten-shop.de/ | 2026-09-28 |
 | 本轮网查 | unternehmen24：Gründung 08.12.1994…Mitarbeiter 250-499；官网 Kontakt info@mr-daten.de；网店 Impressum shop@mr-daten.de | MR Datentechnik Vertriebs- und Service GmbH Emmericher Strasse 13 90411 Nürnberg | https://www.mr-daten-shop.de/de/impressum | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

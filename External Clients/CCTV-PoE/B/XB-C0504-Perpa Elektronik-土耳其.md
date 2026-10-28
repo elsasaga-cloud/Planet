@@ -44,7 +44,7 @@
 ## 8. 研究卡（第 2 步，W3-R09，2026-10-28）
 
 - **结论：XB** — 小型零售店铺，非渠道；info@perpaelektronik.com 已记 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：Perpa 小店（Perpa Elektronik / İnteractive Bilişim Elektronik Ltd.，Perpa B 座；照明 + 电子）
 - 是什么人：Perpa 小店（Perpa Elektronik / İnteractive Bilişim Elektronik Ltd.，Perpa B 座；照明 + 电子）；规模：未量化
 - 对口哪条线：—
@@ -59,4 +59,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | Perpa 名录：Perpa Elektronik…AYDINLATMA…info@perpaelektronik.com.tr；官网 info@perpaelektronik.com | Firma Resmi Adı : İNTERACTİVE BİLİŞİM ELEKTRONİK REKLAM VE BİLGİ TEKNOLOJİLERİ SANAYİ TİCARET LİMITED ŞİRKETİ | https://www.perpaelektronik.com/bize-ulasin/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

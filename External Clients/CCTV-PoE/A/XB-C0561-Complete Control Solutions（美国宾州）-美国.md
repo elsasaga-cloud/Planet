@@ -63,7 +63,7 @@
 ## 8. 研究卡（第 2 步，W3-R07，2026-10-28）
 
 - **结论：XA** — US 小型工业分销、邮箱已补 → 升 A 首触（轻，排 2027-01-13 周三）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：工业自动化服务 + 分销（Complete Control Solutions LLC，Lebanon PA；2010 起；约 8 人；2026 起 Antaira 授权分销、Invertek 分销；服务宾州/中大西洋工业客户；合伙人 Dan Kaiser）
 - 是什么人：工业自动化服务 + 分销（Complete Control Solutions LLC，Lebanon PA；2010 起；约 8 人；2026 起 Antaira 授权分销、Invertek 分销；服务宾州/中大西洋工业客户；合伙人 Dan Kaiser）；规模：工业自动化服务 + 分销（Complete Control Solutions LLC，Lebanon PA；2010 起；约 8 人；2026 起 Antaira 授权分销、Invertek 分销；服务宾州/中大西洋工业客户；合伙人 Dan Kaiser）
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 刚开始做工业以太网分销 → 第二来源切入窗口
@@ -95,4 +95,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

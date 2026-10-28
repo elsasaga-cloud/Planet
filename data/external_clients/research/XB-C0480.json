@@ -3,7 +3,7 @@
  "name": "Satworld",
  "round": "W3-R13",
  "researched_at": "2026-10-28",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "alive": "本轮 web_search 复核在线（2026-10-28）",
  "summary": "卫星/地面/CCTV 器材商（Satworld，Dublin 12；零售 + 行业账户，面向安装商/集成商/批发）",
  "type_final": "卫星/地面/CCTV 器材商（Satworld，Dublin 12；零售 + 行业账户，面向安装商/集成商/批发）",
  "size": "未量化",
@@ -43,7 +43,7 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。",
  "deep": false,
  "draft_en": null
 }

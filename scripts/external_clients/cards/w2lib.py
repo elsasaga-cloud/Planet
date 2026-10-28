@@ -153,7 +153,7 @@ def run(J, R, expect=None):
         else:
             nm = {'action': act, 'angle': '', 'model': '', 'price': '', 'window': '', 'when': '不动' if act == '不动' else ''}
         card = dict(code=code, name=r['name'], round=R, researched_at=D,
-                    alive='本轮 web_search 复核在线（2026-10-27）' if '复核' in jj['notes'] else '来源库 %s 核对在线；本轮未复查' % sdate,
+                    alive=('本轮 web_search 复核在线（%s）' % D) if ('复核' in jj['notes'] or jj['ev']) else '来源库 %s 核对在线；本轮未复查' % sdate,
                     summary=jj['typ'] + ('；' + clean(r.get('entry_point'), 160) if r.get('entry_point') else ''),
                     type_final=jj['typ'], size='未量化' if '人' not in jj['typ'] else jj['typ'],
                     brands_seen=[b.strip() for b in re.split(r'[+/,，、]', r.get('signals') or '') if b.strip()][:8],
@@ -161,7 +161,7 @@ def run(J, R, expect=None):
                     fit=jj['fit'], evidence=evidence,
                     contacts={'email': email, 'email_status': '来源库公开邮箱' if email else '缺', 'kp': jj['kp']},
                     touch_status=jj.get('touch') or touch, saga_overlap='无', grade_final=jj['g'], grade_reason_final=jj['reason'], next_move=nm,
-                    notes=(jj['notes'] + ' ' if jj['notes'] else '') + ('' if '复核' in jj['notes'] else LIGHT))
+                    notes=(jj['notes'] + ' ' if jj['notes'] else '') + (('本轮网查复核（%s，证据见 §8「本轮网查」条）。' % D) if (jj['ev'] and '复核' not in jj['notes']) else ('' if '复核' in jj['notes'] else LIGHT)))
         if act in ('第二封', '首触'):
             assert email, code
             if act == '第二封':

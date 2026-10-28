@@ -45,7 +45,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XC** — 消费电子维修零售 → C 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：手机/平板维修零售店（Cian's Tech World，Cavan；2017 起；2–10 人）
 - 是什么人：手机/平板维修零售店（Cian's Tech World，Cavan；2017 起；2–10 人）；规模：手机/平板维修零售店（Cian's Tech World，Cavan；2017 起；2–10 人）
 - 对口哪条线：—
@@ -60,4 +60,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | LinkedIn：Industry Retail…2-10 employees…Specialties Tablet Sales & Repairs, Smartphones Sales & Repairs | Specialties: Tablet Sales & Repairs, Smartphones Sales & Repairs, Laptop Sales & Repairs | https://ie.linkedin.com/company/cianstechworld | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

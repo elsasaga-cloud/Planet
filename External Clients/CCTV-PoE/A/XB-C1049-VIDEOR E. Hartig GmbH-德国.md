@@ -62,7 +62,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — DE 中大型安防分销、自有品牌、邮箱已补 → 升 A 首触（优先）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：视频安防分销（VIDEOR E. Hartig GmbH，Rödermark；1975 起；51–200 人；DACH 领先视频安防分销；自有品牌 eneo；Hanwha 分销；销售总监 Michael Schwamborn）
 - 是什么人：视频安防分销（VIDEOR E. Hartig GmbH，Rödermark；1975 起；51–200 人；DACH 领先视频安防分销；自有品牌 eneo；Hanwha 分销；销售总监 Michael Schwamborn）；规模：视频安防分销（VIDEOR E. Hartig GmbH，Rödermark；1975 起；51–200 人；DACH 领先视频安防分销；自有品牌 eneo；Hanwha 分销；销售总监 Michael Schwamborn）
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 有自有品牌 eneo → 自有标签 PoE 交换机正对口
@@ -98,4 +98,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

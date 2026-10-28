@@ -65,7 +65,7 @@
 ## 8. 研究卡（第 2 步，W3-R10，2026-10-28）
 
 - **结论：XB** — 制造商自营分销（只走 Dallmeier 全线）→ B 不动；info@d-components.com 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：厂商自有 VAD（Dallmeier Components GmbH，Hamburg；Dallmeier 集团；18 人）
 - 是什么人：厂商自有 VAD（Dallmeier Components GmbH，Hamburg；Dallmeier 集团；18 人）；规模：厂商自有 VAD（Dallmeier Components GmbH，Hamburg；Dallmeier 集团；18 人）
 - 对口哪条线：—
@@ -80,4 +80,4 @@
 | 来源库官网/名录核对 | A类 — 30+年DACH视频安防分销+barox PoE交换机 |  |  | 2026-09-28 |
 | 本轮网查 | Dallmeier 新闻稿：specialist installers in Germany…purchase components from…Dallmeier directly from the company's own distributor Dallmeier Components；Impressum info@d-components.com | Dallmeier establishes own distribution in Germany | https://www.dallmeier.com/about-us/press-center/distribution-dallmeier-components | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

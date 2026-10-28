@@ -58,7 +58,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — NL 安防批发、邮箱已补 → 升 A 首触
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防批发（Dero Security Products B.V.，Eindhoven；55 年；Dahua/Ajax/Provision-ISR/CDVI 分销；已卖 Planet Technologies 与 NETGEAR 交换机）
 - 是什么人：安防批发（Dero Security Products B.V.，Eindhoven；55 年；Dahua/Ajax/Provision-ISR/CDVI 分销；已卖 Planet Technologies 与 NETGEAR 交换机）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 已有交换机品类（Planet/NETGEAR）→ 低价第二线对口
@@ -94,4 +94,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

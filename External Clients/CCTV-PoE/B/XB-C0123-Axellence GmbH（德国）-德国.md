@@ -62,7 +62,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XB** — 是厂商销售代表而非交换机分销商，不是采购方；记录 Centec 欧洲代表身份供内部参考；info@axellence.eu
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：电子元器件厂商代表（Axellence GmbH，Olching；2000 起；2–10 人；代理 Centec 芯片/白盒方案等）
 - 是什么人：电子元器件厂商代表（Axellence GmbH，Olching；2000 起；2–10 人；代理 Centec 芯片/白盒方案等）；规模：电子元器件厂商代表（Axellence GmbH，Olching；2000 起；2–10 人；代理 Centec 芯片/白盒方案等）
 - 对口哪条线：—
@@ -77,4 +77,4 @@
 | 来源库官网/名录核对 | C类 — CENTEC欧洲分销 |  | https://axellence.de/ | 2026-09-28 |
 | 本轮网查 | 官网产品页列 Centec 芯片与白盒；LinkedIn：manufacturer’s representative，2–10 人 | Pan-European Manufacturer’s Representation connecting innovative Suppliers to innovative Users | https://www.linkedin.com/company/axellence-gmbh | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

@@ -73,7 +73,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XB** — 元器件渠道，与交换机无关，不再补查 → B 不动；info@atlantikelektronik.com 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：半导体授权分销 + ODM 方案（Atlantik Elektronik GmbH，Planegg/München；1977 起；40+ 年）
 - 是什么人：半导体授权分销 + ODM 方案（Atlantik Elektronik GmbH，Planegg/München；1977 起；40+ 年）；规模：未量化
 - 对口哪条线：—
@@ -88,4 +88,4 @@
 | 来源库官网/名录核对 | C类 — Lantronix PoE分销 |  | https://openpr.com/ | 2026-09-28 |
 | 本轮网查 | 官网 Contact：Headquarter Munich Fraunhoferstraße 11a 82152 Planegg…info@atlantikelektronik.com；Distribution…40 years of experience | Atlantik Elektronik has been Germany's distributor and ODM solution provider for innovative semiconductor products and technologies for over 40 years | https://www.atlantikelektronik.com/en | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

@@ -51,7 +51,7 @@
 ## 8. 研究卡（第 2 步，W3-R09，2026-10-28）
 
 - **结论：XB** — 制造商 / 集团子公司，非分销渠道 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防制造商（Synchronic，Franqueville-Saint-Pierre；1988 起；76 人；银行安防；Urmet 集团）
 - 是什么人：安防制造商（Synchronic，Franqueville-Saint-Pierre；1988 起；76 人；银行安防；Urmet 集团）；规模：安防制造商（Synchronic，Franqueville-Saint-Pierre；1988 起；76 人；银行安防；Urmet 集团）
 - 对口哪条线：—
@@ -66,4 +66,4 @@
 | 来源库官网/名录核对 | 1988年, 法国安防制造/集成/分销 |  |  | 2026-09-28 |
 | 本轮网查 | Urmet 公告：Le Groupe URMET France annonce le rachat de la société SYNCHRONIC；ugap：76 salariés、CA €17.5M | SYNCHRONIC développe et fabrique des solutions destinées à tous types de sites | https://www.urmet.fr/actualites/synchronic-rejoint-le-groupe-urmet-france-pour-renforcer-le-pole-tertiaire.html | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

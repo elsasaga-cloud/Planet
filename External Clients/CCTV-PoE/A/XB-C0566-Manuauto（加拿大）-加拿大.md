@@ -63,7 +63,7 @@
 ## 8. 研究卡（第 2 步，W3-R07，2026-10-28）
 
 - **结论：XA** — CA 工业分销、邮箱已补 → 升 A 首触（排 2027-01-13 周三）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：工业自动化/网络分销（Manufacturers Automation Inc. / ManuAuto，St. Jacobs + Concord ON；40 年+；Moxa 加拿大最大备货分销、Robustel/Weidmüller/Proxim；MTSC 认证工程师）
 - 是什么人：工业自动化/网络分销（Manufacturers Automation Inc. / ManuAuto，St. Jacobs + Concord ON；40 年+；Moxa 加拿大最大备货分销、Robustel/Weidmüller/Proxim；MTSC 认证工程师）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — Moxa 加拿大主分销 → 工业线低价第二来源
@@ -95,4 +95,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

@@ -60,7 +60,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XB** — 小型 VAD、无公开销售邮箱（仅表单）、以 Cambium 云管为主 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：增值分销（Cyber Distribution Ltd，Basingstoke；2018 起；2–10 人；Cambium/Barracuda/Securly；教育网络）
 - 是什么人：增值分销（Cyber Distribution Ltd，Basingstoke；2018 起；2–10 人；Cambium/Barracuda/Securly；教育网络）；规模：增值分销（Cyber Distribution Ltd，Basingstoke；2018 起；2–10 人；Cambium/Barracuda/Securly；教育网络）
 - 对口哪条线：—
@@ -75,4 +75,4 @@
 | 来源库官网/名录核对 | C类 — Cambium分销 |  | https://cyberdistribution.co.uk/ | 2026-09-28 |
 | 本轮网查 | LinkedIn 2–10 人、2018 成立；联系页仅表单 | We are a value added distributor bringing innovative network connectivity, security and e-safety solutions to the UK market | https://cyberdistribution.co.uk/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

@@ -52,7 +52,7 @@
 ## 8. 研究卡（第 2 步，W3-R11，2026-10-28）
 
 - **结论：XB** — 零售集团的 B2B 窗口，不做进口选品 → B 不动；contact@grosbill-pro.com 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：零售商 B2B 分部（GrosBill Pro，Paris；GrosBill 连锁的企业客户部门）
 - 是什么人：零售商 B2B 分部（GrosBill Pro，Paris；GrosBill 连锁的企业客户部门）；规模：未量化
 - 对口哪条线：—
@@ -67,4 +67,4 @@
 | 来源库官网/名录核对 | 1998年起B2B IT分销, PoE交换机+视频监控IP |  |  | 2026-09-28 |
 | 本轮网查 | pro.grosbill.com：Par e-mail contact@grosbill-pro.com；grosbill-pro.com 多家门店 | GrosBill Pro : matériel informatique pour les entreprises | https://pro.grosbill.com/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

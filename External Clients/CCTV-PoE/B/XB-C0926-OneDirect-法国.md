@@ -52,7 +52,7 @@
 ## 8. 研究卡（第 2 步，W3-R09，2026-10-28）
 
 - **结论：XB** — 跨国目录电商，采购链长 → B 不动；hello@onedirect.fr 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：企业通信设备电商分销集团（Onedirect，Saint-Estève/Perpignan；1999 起；51–200 人；8 国）
 - 是什么人：企业通信设备电商分销集团（Onedirect，Saint-Estève/Perpignan；1999 起；51–200 人；8 国）；规模：企业通信设备电商分销集团（Onedirect，Saint-Estève/Perpignan；1999 起；51–200 人；8 国）
 - 对口哪条线：—
@@ -67,4 +67,4 @@
 | 来源库官网/名录核对 | 企业通信/网络设备分销, D-Link/Zyxel PoE |  |  | 2026-09-28 |
 | 本轮网查 | 官网「Qui sommes-nous」：LE GROUPE ONEDIRECT EST PRÉSENT DANS 8 PAYS…hello@onedirect.fr；LinkedIn 51–200 人、1999 起 | LE GROUPE ONEDIRECT EST PRÉSENT DANS 8 PAYS | https://www.onedirect.fr/qui-sommes-nous | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

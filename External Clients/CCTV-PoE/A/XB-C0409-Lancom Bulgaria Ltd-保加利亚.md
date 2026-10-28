@@ -67,7 +67,7 @@
 ## 8. 研究卡（第 2 步，W3-R12，2026-10-28）
 
 - **结论：XA** — BG（欧洲）、网络分销 + 自有品牌、邮箱已补 → 升 A 首触，用自有标签问句（排 2027-01-21 周四）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：IT 批发分销（Lancom Bulgaria Ltd.，Sofia；2004 起；11–50 人；ZTE/Ubiquiti/MikroTik/TP-Link/Zyxel 分销 + 自有品牌 SeaMAX 线缆/配件；IDG 2014 保加利亚前 5 分销）
 - 是什么人：IT 批发分销（Lancom Bulgaria Ltd.，Sofia；2004 起；11–50 人；ZTE/Ubiquiti/MikroTik/TP-Link/Zyxel 分销 + 自有品牌 SeaMAX 线缆/配件；IDG 2014 保加利亚前 5 分销）；规模：IT 批发分销（Lancom Bulgaria Ltd.，Sofia；2004 起；11–50 人；ZTE/Ubiquiti/MikroTik/TP-Link/Zyxel 分销 + 自有品牌 SeaMAX 线缆/配件；IDG 2014 保加利亚前 5 分销）
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 网络分销 + 自有品牌 → 可加一条自有标签 PoE 线
@@ -100,4 +100,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

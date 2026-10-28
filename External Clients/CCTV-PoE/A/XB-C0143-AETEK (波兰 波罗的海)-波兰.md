@@ -138,7 +138,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — PL 次级市场、安防分销、邮箱已补 → 升 A 首触（轻，排 2027-W02）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防增值分销（CCTV Baltic Sp. z o.o.，Warsaw；波兰 + 波罗的海三国；i-PRO/AETEK/CredoID/PACOM 高端分销；面向集成商）
 - 是什么人：安防增值分销（CCTV Baltic Sp. z o.o.，Warsaw；波兰 + 波罗的海三国；i-PRO/AETEK/CredoID/PACOM 高端分销；面向集成商）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 已卖 AETEK（台系安防 PoE 交换机）→ 低价第二线对口
@@ -174,4 +174,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

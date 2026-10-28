@@ -52,7 +52,7 @@
 ## 8. 研究卡（第 2 步，W3-R10，2026-10-28）
 
 - **结论：XA** — US 主战场、自有品牌线、邮箱已补 → 升 A 首触，用自有标签问句（排 2027-01-20 周三）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防系统直供商（CCTV Camera Pros LLC，Lantana/Boynton Beach FL；退伍军人企业；自有 Viewtron 线；在售 PoE 交换机）
 - 是什么人：安防系统直供商（CCTV Camera Pros LLC，Lantana/Boynton Beach FL；退伍军人企业；自有 Viewtron 线；在售 PoE 交换机）；规模：安防系统直供商（CCTV Camera Pros LLC，Lantana/Boynton Beach FL；退伍军人企业；自有 Viewtron 线；在售 PoE 交换机）
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 美国线上直供 + 自有品牌，PoE 交换机已在卖
@@ -85,4 +85,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

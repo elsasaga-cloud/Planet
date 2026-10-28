@@ -44,7 +44,7 @@
 ## 8. 研究卡（第 2 步，W3-R08，2026-10-28）
 
 - **结论：XB** — 以集成/项目为主；bilgi@rimaelektronik.com 已记 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：IT/安防集成 + Digifort 分销（Rima Elektronik，Istanbul Florya；2000 起；销售 Erhan Türkay）
 - 是什么人：IT/安防集成 + Digifort 分销（Rima Elektronik，Istanbul Florya；2000 起；销售 Erhan Türkay）；规模：未量化
 - 对口哪条线：—
@@ -59,4 +59,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | 官网：uçtan uca entegre bilişim hizmetleri…2000 yılında kurulmuştur；bilgi@rimaelektronik.com | Rima Elektronik Bilişim ve Güvenlik Sistemleri…2000 yılında kurulmuştur | https://www.rimaelektronik.com/iletisim | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

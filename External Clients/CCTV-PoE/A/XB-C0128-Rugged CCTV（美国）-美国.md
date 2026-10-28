@@ -65,7 +65,7 @@
 ## 8. 研究卡（第 2 步，W3-R07，2026-10-28）
 
 - **结论：XA** — US 自有品牌 + 分销、邮箱已补 → 升 A 首触（排 2027-01-13 周三）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防摄像机制造 + 分销（Rugged Cams / Rugged CCTV，Kemp TX；1993 起；11–50 人；自有品牌 RuggedCams；也卖高功率 PoE 交换机；店主 Allen Spears）
 - 是什么人：安防摄像机制造 + 分销（Rugged Cams / Rugged CCTV，Kemp TX；1993 起；11–50 人；自有品牌 RuggedCams；也卖高功率 PoE 交换机；店主 Allen Spears）；规模：安防摄像机制造 + 分销（Rugged Cams / Rugged CCTV，Kemp TX；1993 起；11–50 人；自有品牌 RuggedCams；也卖高功率 PoE 交换机；店主 Allen Spears）
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 自有品牌商，PoE 交换机是其配套品类 → 自有标签对口
@@ -101,4 +101,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

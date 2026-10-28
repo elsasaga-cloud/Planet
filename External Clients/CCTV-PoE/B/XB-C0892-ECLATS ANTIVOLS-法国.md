@@ -51,7 +51,7 @@
 ## 8. 研究卡（第 2 步，W3-R07，2026-10-28）
 
 - **结论：XB** — 定位「法国/欧洲制造」与中国货源相悖；contact@eclats-antivols.fr 已记 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防设备分销/网店（Eclats Antivols，Toulouse centre de gros；1989 起；自述产品均为法国/欧洲制造）
 - 是什么人：安防设备分销/网店（Eclats Antivols，Toulouse centre de gros；1989 起；自述产品均为法国/欧洲制造）；规模：未量化
 - 对口哪条线：—
@@ -66,4 +66,4 @@
 | 来源库官网/名录核对 | 法国第1电子安防分销(自称), 全品类 |  |  | 2026-09-28 |
 | 本轮网查 | rfqmatch 简介：All equipment offered is manufactured in France and Europe；infonet 列 contact@eclats-antivols.fr | All equipment offered is manufactured in France and Europe, ensuring superior quality | https://www.rfqmatch.com/listing/b1e7300e-d3c5-41e1-8e49-7fb6aa43af77 | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

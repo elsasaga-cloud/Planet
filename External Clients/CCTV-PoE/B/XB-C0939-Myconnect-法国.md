@@ -71,7 +71,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XB** — 集成商 → B 不动；contact@myconnect.fr 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：弱电/安防集成商（SAS MYCONNECT，Mudaison 34；2014 起；资本 €100k；1,500 个站点）
 - 是什么人：弱电/安防集成商（SAS MYCONNECT，Mudaison 34；2014 起；资本 €100k；1,500 个站点）；规模：未量化
 - 对口哪条线：—
@@ -86,4 +86,4 @@
 | 来源库官网/名录核对 | 网络/安防设备分销 |  |  | 2026-09-28 |
 | 本轮网查 | 官网：Intégrateur national sur le marché des courants faibles et solutions de sécurités…1500 sites；Mentions：SAS MYCONNECT 资本 100.000 €…contact@myconnect.fr | Intégrateur national sur le marché des courants faibles et solutions de sécurités pour les entreprises | https://myconnect.fr/contact/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

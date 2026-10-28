@@ -61,7 +61,7 @@
 ## 8. 研究卡（第 2 步，W3-R10，2026-10-28）
 
 - **结论：XB** — 「德国制造」定位与我方相悖 + 个体网店；info@it-made-in-germany.de 已记 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：「IT made in Germany」网店（Brauns IT，Berlin 个体；Teltonika/Ubiquiti）
 - 是什么人：「IT made in Germany」网店（Brauns IT，Berlin 个体；Teltonika/Ubiquiti）；规模：未量化
 - 对口哪条线：—
@@ -76,4 +76,4 @@
 | 来源库官网/名录核对 | B类 — Teltonika/Ubiquiti网络设备在线商店 |  |  | 2026-09-28 |
 | 本轮网查 | Impressum：IT made in Germany ｜ Brauns IT Inh. Torsten Brauns…info@it-made-in-germany.de；Unternehmen 页：deutsche Hard- und Software…bündeln | Wir haben es uns zur Aufgabe gemacht, deutsche Hard- und Software auf it-made-in-germany.de zu bündeln | https://it-made-in-germany.de/impressum/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

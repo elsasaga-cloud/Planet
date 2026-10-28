@@ -44,7 +44,7 @@
 ## 8. 研究卡（第 2 步，W3-R11，2026-10-28）
 
 - **结论：XB** — 来源名「Toptan Güvenlik」为通用词，身份不唯一；info@guvenliktoptancim.com 已记待确认 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：Perpa 安防批发店（最接近匹配：Güvenlik Toptancım，Perpa A 座 5 层 419；或 İzmir Balçova 的 Toptan Güvenlik Sistemleri = Besta 分店）
 - 是什么人：Perpa 安防批发店（最接近匹配：Güvenlik Toptancım，Perpa A 座 5 层 419；或 İzmir Balçova 的 Toptan Güvenlik Sistemleri = Besta 分店）；规模：未量化
 - 对口哪条线：—
@@ -59,4 +59,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | perpahaber：Güvenlik Toptancım Perpa İletişim…A Blok Kat: 5 No: 419…info@guvenliktoptancim.com；toptanguvenlik.com 地址与 Besta İzmir 分店一致 | Halil Rıfat Paşa Mahallesi Perpa Ticaret Merkezi A Blok Kat: 5 No: 419 Şişli İstanbul | https://www.perpahaber.com/guvenlik-toptancim/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

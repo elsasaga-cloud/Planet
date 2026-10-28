@@ -103,7 +103,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — GB 安防批发、邮箱已补 → 升 A 首触（轻，排 2027-W02）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防批发（Netview CCTV Ltd，Leicester；Hikvision/HiLook/Ruijie 授权批发；柜台 + 网店；面向安装商）
 - 是什么人：安防批发（Netview CCTV Ltd，Leicester；Hikvision/HiLook/Ruijie 授权批发；柜台 + 网店；面向安装商）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 安防批发，已卖网络品类（Ruijie）
@@ -139,4 +139,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

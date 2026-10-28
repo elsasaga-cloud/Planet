@@ -63,7 +63,7 @@
 ## 8. 研究卡（第 2 步，W3-R12，2026-10-28）
 
 - **结论：XB** — 线上零售为主，官方邮箱为 gmail + sales@uk.mbvision.net → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：线上 CCTV 进口零售（MB Vision Ltd.，Plovdiv；2012 起；Hikvision/Dahua 授权；cctvspot.co.uk 面向英国）
 - 是什么人：线上 CCTV 进口零售（MB Vision Ltd.，Plovdiv；2012 起；Hikvision/Dahua 授权；cctvspot.co.uk 面向英国）；规模：未量化
 - 对口哪条线：—
@@ -78,4 +78,4 @@
 | 来源库官网/名录核对 | Hikvision + Dahua 授权经销商 |  | https://cctvspot.co.uk/ | 2026-09-28 |
 | 本轮网查 | cctvspot.co.uk Terms：MB Vision Ltd. with VAT reg BG202150972…contact us at cctv.mbvision @ gmail.com…sales @ uk.mbvision.net | Since our inception in 2012, MB Vision Ltd. has been a leading importer and distributor of high-quality CCTV equipment | https://cctvspot.co.uk/terms | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

@@ -49,7 +49,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — PL 分销 + 自有品牌、邮箱已补 → 升 A 首触（排 2027-W03）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：网络分销 + 自有品牌（A-LAN Technologie，Kraków；AICOM 分销 + 布线/视频监控制造合并而成；自有品牌 ALANTEC/AVIZIO/Q-LANTEC/WireArte；出口销售 Paweł Puźniak）
 - 是什么人：网络分销 + 自有品牌（A-LAN Technologie，Kraków；AICOM 分销 + 布线/视频监控制造合并而成；自有品牌 ALANTEC/AVIZIO/Q-LANTEC/WireArte；出口销售 Paweł Puźniak）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 自有品牌多（含 AVIZIO 视频监控）→ 自有标签交换机对口
@@ -85,4 +85,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

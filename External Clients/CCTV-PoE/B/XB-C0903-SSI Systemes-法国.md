@@ -51,7 +51,7 @@
 ## 8. 研究卡（第 2 步，W3-R07，2026-10-28）
 
 - **结论：XB** — 对口但无公开邮箱（官网仅表单与电话）→ B 不动，下一轮 LinkedIn 补
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防电子批发 + 集成（SSI Systèmes，Oissel/Rouen；Groupe GTC France；Hikvision/EATON 伙伴；仅电话/表单）
 - 是什么人：安防电子批发 + 集成（SSI Systèmes，Oissel/Rouen；Groupe GTC France；Hikvision/EATON 伙伴；仅电话/表单）；规模：未量化
 - 对口哪条线：—
@@ -66,4 +66,4 @@
 | 来源库官网/名录核对 | 鲁昂, 安防电子设计/分销/集成 |  |  | 2026-09-28 |
 | 本轮网查 | 官网：Grossiste Distributeur Concepteur Intégrateur de systèmes électroniques de Sécurité；联系方式仅 02 35 03 04 50 + 表单 | Grossiste Distributeur de systèmes électroniques de Sécurité - Sûreté, nous accompagnons les installateurs sur leurs projets courant faible | https://www.ssi-systemes.fr/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

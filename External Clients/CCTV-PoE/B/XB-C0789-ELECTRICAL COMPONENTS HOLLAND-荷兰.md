@@ -55,7 +55,7 @@
 ## 8. 研究卡（第 2 步，W3-R12，2026-10-28）
 
 - **结论：XB** — 元器件渠道，与交换机无关 → B 不动；sales@echolland.com 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：电气元器件独立分销（Electrical Components Holland B.V.，Papendrecht；2018 起；5–9 人）
 - 是什么人：电气元器件独立分销（Electrical Components Holland B.V.，Papendrecht；2018 起；5–9 人）；规模：电气元器件独立分销（Electrical Components Holland B.V.，Papendrecht；2018 起；5–9 人）
 - 对口哪条线：—
@@ -70,4 +70,4 @@
 | 来源库官网/名录核对 | 荷兰电子元件独立分销, 5+年经验, 全球配送 |  | https://europages/ | 2026-09-28 |
 | 本轮网查 | 官网：ECH is an independent distributor of electrical components…；联系页 sales@echolland.com；europages 5–9 人 | ECH is an independent distributor of electrical components with a global network of reliable suppliers | https://echolland.com/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

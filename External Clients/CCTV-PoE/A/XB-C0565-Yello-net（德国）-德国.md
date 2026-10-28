@@ -61,7 +61,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — DE 工业网络 VAD、KP 实名 → 升 A 首触（优先）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：商用 + 工业网络 VAD（YELLO Netcom GmbH，Rheine；Moxa 与 Hirschmann 分销，10,000+ SKU；工业销售总监 Marco Syma）
 - 是什么人：商用 + 工业网络 VAD（YELLO Netcom GmbH，Rheine；Moxa 与 Hirschmann 分销，10,000+ SKU；工业销售总监 Marco Syma）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 工业网络 VAD，品类现成，KP 实名
@@ -93,4 +93,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

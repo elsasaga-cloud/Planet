@@ -62,7 +62,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — 国别修正 DK→LV；波罗的海分销、邮箱已补 → 升 A 首触（轻）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：网络设备分销/网店（EURO DK SIA = Getic，Liepāja 拉脱维亚；2007 起；14 人、约 $7M；MikroTik 2011 起/Ubiquiti/Teltonika/Ruijie/Milesight/Hikvision 官方分销）
 - 是什么人：网络设备分销/网店（EURO DK SIA = Getic，Liepāja 拉脱维亚；2007 起；14 人、约 $7M；MikroTik 2011 起/Ubiquiti/Teltonika/Ruijie/Milesight/Hikvision 官方分销）；规模：网络设备分销/网店（EURO DK SIA = Getic，Liepāja 拉脱维亚；2007 起；14 人、约 $7M；MikroTik 2011 起/Ubiquiti/Teltonika/Ruijie/Milesight/Hikvision 官方分销）
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 多品牌网络分销，已卖中国品牌（Ruijie/Milesight）
@@ -95,4 +95,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

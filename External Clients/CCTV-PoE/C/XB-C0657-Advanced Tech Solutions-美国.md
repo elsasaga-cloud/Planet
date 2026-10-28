@@ -52,7 +52,7 @@
 ## 8. 研究卡（第 2 步，W3-R10，2026-10-28）
 
 - **结论：XC** — 来源库条目无域名、无法唯一定位 → C 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：无法定位（「Advanced Tech Solutions」同名公司多家：加州 IT 采购 Adtecsol、南达科他 MSP、洛杉矶 Advanced Tech Supply 等）
 - 是什么人：无法定位（「Advanced Tech Solutions」同名公司多家：加州 IT 采购 Adtecsol、南达科他 MSP、洛杉矶 Advanced Tech Supply 等）；规模：未量化
 - 对口哪条线：—
@@ -67,4 +67,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | web_search 2026-10-28：同名至少 5 家，无一与 PoE/CCTV 渠道明确对应 |  | https://adtecsol.com/contact-us | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

@@ -51,7 +51,7 @@
 ## 8. 研究卡（第 2 步，W3-R08，2026-10-28）
 
 - **结论：XB** — 安装商而非分销；contact@francealarme.net 已记 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防安装/维保（France Alarme，Saint-Étienne）
 - 是什么人：安防安装/维保（France Alarme，Saint-Étienne）；规模：未量化
 - 对口哪条线：—
@@ -66,4 +66,4 @@
 | 来源库官网/名录核对 | 安防系统分销(安装商专用), SSI/入侵/门禁/视频 |  |  | 2026-09-28 |
 | 本轮网查 | Facebook：Nous installons et maintenons les systèmes…contact@francealarme.net | Nous sommes experts en systèmes de sécurité électronique. Nous installons et maintenons | https://www.facebook.com/francealarmeRhoneAlpesAuvergne/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

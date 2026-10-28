@@ -61,7 +61,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XB** — AV 分销，其交换机需求绑定 NETGEAR AV 系列；邮箱 info@videlco.eu 已记，留 B
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：专业音视频分销（VIDELCO Europe GmbH，Ratingen；NETGEAR 分销；AV-over-IP）
 - 是什么人：专业音视频分销（VIDELCO Europe GmbH，Ratingen；NETGEAR 分销；AV-over-IP）；规模：未量化
 - 对口哪条线：—
@@ -76,4 +76,4 @@
 | 来源库官网/名录核对 | A类 — 专业音视频+网络分销(Ethernet Switches/PoE/WLAN) |  |  | 2026-09-28 |
 | 本轮网查 | 官网：VIDELCO Europe ist Distributor für NETGEAR；info@videlco.eu | VIDELCO Europe ist Distributor für NETGEAR | https://videlco.eu/netgear | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

@@ -3,7 +3,7 @@
  "name": "HON Security (#548)",
  "round": "W3-R10",
  "researched_at": "2026-10-28",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "alive": "本轮 web_search 复核在线（2026-10-28）",
  "summary": "消防报警分销（HON Security and Fire Distribution GmbH，Leverkusen；Esser/Notifier/Morley 授权分销）",
  "type_final": "消防报警分销（HON Security and Fire Distribution GmbH，Leverkusen；Esser/Notifier/Morley 授权分销）",
  "size": "未量化",
@@ -43,7 +43,7 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。",
  "deep": false,
  "draft_en": null
 }

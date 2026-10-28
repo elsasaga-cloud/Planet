@@ -84,7 +84,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XB** — 主营无线路由/LoRaWAN/天线，交换机非其品类；国别修正 DE→FR；邮箱已补（info@ebds.eu），留 B 备用
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：无线/IoT/天线分销（EBDS Wireless & Antennas，Montbonnot/Grenoble，法国；2013 起，10–19 人）
 - 是什么人：无线/IoT/天线分销（EBDS Wireless & Antennas，Montbonnot/Grenoble，法国；2013 起，10–19 人）；规模：无线/IoT/天线分销（EBDS Wireless & Antennas，Montbonnot/Grenoble，法国；2013 起，10–19 人）
 - 对口哪条线：—
@@ -99,4 +99,4 @@
 | 来源库官网/名录核对 | 工业/IoT分销商 |  | https://ebds.eu/ | 2026-09-28 |
 | 本轮网查 | 官网页脚 info@ebds.eu；Grenoble；10–19 人 | EBDS distribue des solutions sans-fil et est expert des antennes | https://www.ebds.eu/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

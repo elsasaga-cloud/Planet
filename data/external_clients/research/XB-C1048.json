@@ -3,7 +3,7 @@
  "name": "Börsig GmbH",
  "round": "W3-R13",
  "researched_at": "2026-10-28",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "alive": "本轮 web_search 复核在线（2026-10-28）",
  "summary": "电子元器件分销（Börsig GmbH Electronic-Distributor，Neckarsulm；40 年；连接器/无源件 + 线缆组件）",
  "type_final": "电子元器件分销（Börsig GmbH Electronic-Distributor，Neckarsulm；40 年；连接器/无源件 + 线缆组件）",
  "size": "未量化",
@@ -43,7 +43,7 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。",
  "deep": false,
  "draft_en": null
 }

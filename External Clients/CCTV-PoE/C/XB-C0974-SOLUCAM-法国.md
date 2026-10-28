@@ -62,7 +62,7 @@
 ## 8. 研究卡（第 2 步，W3-R11，2026-10-28）
 
 - **结论：XC** — 1–2 人安装商 → C 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安装商（SOLUCAM SARL，Roncq 59；2012 起；1–2 人）
 - 是什么人：安装商（SOLUCAM SARL，Roncq 59；2012 起；1–2 人）；规模：安装商（SOLUCAM SARL，Roncq 59；2012 起；1–2 人）
 - 对口哪条线：—
@@ -77,4 +77,4 @@
 | 来源库官网/名录核对 | B类 — 专业视频监控分销+安装 |  |  | 2026-09-28 |
 | 本轮网查 | societe.com：Active 1 à 2 salariés…Travaux d'installation électrique…Julien VERCAMER；官网 contact@solucam.fr | ACTIVITÉ (NAF / APE): Travaux d'installation électrique dans tous locaux - 4321A | https://www.societe.com/societe/solucam-750773186.html | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

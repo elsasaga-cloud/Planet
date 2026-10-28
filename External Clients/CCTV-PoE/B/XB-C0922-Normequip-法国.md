@@ -52,7 +52,7 @@
 ## 8. 研究卡（第 2 步，W3-R08，2026-10-28）
 
 - **结论：XB** — 主营消防/城市设施，视频监控只是一个品类；contact@normequip.com 已记 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：消防/合规设备 B2B 网店批发（Normequip，Canéjan/Bordeaux；1998 起；3–9 人；进口商）
 - 是什么人：消防/合规设备 B2B 网店批发（Normequip，Canéjan/Bordeaux；1998 起；3–9 人；进口商）；规模：消防/合规设备 B2B 网店批发（Normequip，Canéjan/Bordeaux；1998 起；3–9 人；进口商）
 - 对口哪条线：—
@@ -67,4 +67,4 @@
 | 来源库官网/名录核对 | 20年+安防产品批发, 波尔多地区领导者 |  |  | 2026-09-28 |
 | 本轮网查 | europages：Créée en 1998，Salariés 5-9，Distributeur；官网 contact@normequip.com | leader de la distribution de produits de sécurité incendie sur internet | https://www.normequip.com/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

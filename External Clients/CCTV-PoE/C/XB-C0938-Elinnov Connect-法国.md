@@ -53,7 +53,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XC** — 初创微型、资本 €1,000 → C 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：微型电气/AV 批发（ELINNOV CONNECT SAS，Le Havre；2022 起；资本 €1,000）
 - 是什么人：微型电气/AV 批发（ELINNOV CONNECT SAS，Le Havre；2022 起；资本 €1,000）；规模：未量化
 - 对口哪条线：—
@@ -68,4 +68,4 @@
 | 来源库官网/名录核对 | 电气/安防分销, 住宅/工业/商业 |  |  | 2026-09-28 |
 | 本轮网查 | societe.com：DATE DE CREATION 17 mars 2022…Commerce de gros de matériel électrique；societeinfo：Capital social 1 000 € | Capital social 1 000 € | https://societeinfo.com/app/recherche/societe/911466563 | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

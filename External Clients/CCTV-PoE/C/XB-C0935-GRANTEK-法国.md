@@ -53,7 +53,7 @@
 ## 8. 研究卡（第 2 步，W3-R11，2026-10-28）
 
 - **结论：XC** — 1–2 人的 B2C 网店 → C 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：小型网店（GRANTEK / camerasurveillance.net，Paris；2008 起；1–2 人；面向个人与小商户）
 - 是什么人：小型网店（GRANTEK / camerasurveillance.net，Paris；2008 起；1–2 人；面向个人与小商户）；规模：小型网店（GRANTEK / camerasurveillance.net，Paris；2008 起；1–2 人；面向个人与小商户）
 - 对口哪条线：—
@@ -68,4 +68,4 @@
 | 来源库官网/名录核对 | 视频监控批发, 国际分销 |  |  | 2026-09-28 |
 | 本轮网查 | pappers：Vente à distance sur catalogue général；Effectif Entre 1 et 2 salariés；Dirigeant Granovskiy Oleg | Effectif : Entre 1 et 2 salariés (donnée 2022) | https://www.pappers.fr/entreprise/grantek-504203332 | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

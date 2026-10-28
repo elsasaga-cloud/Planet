@@ -44,7 +44,7 @@
 ## 8. 研究卡（第 2 步，W3-R09，2026-10-28）
 
 - **结论：XB** — 二手/翻新 + 企业大牌为主，非我方渠道；info@trunk.tr 已记 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：服务器/网络新机 + 翻新供应商（TRUNK Bilişim Teknolojileri Ltd.，Istanbul Ataşehir；Cisco/Juniper/HPE/Ubiquiti/Ruijie）
 - 是什么人：服务器/网络新机 + 翻新供应商（TRUNK Bilişim Teknolojileri Ltd.，Istanbul Ataşehir；Cisco/Juniper/HPE/Ubiquiti/Ruijie）；规模：未量化
 - 对口哪条线：—
@@ -59,4 +59,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | 官网：Sıfır ve ikinci el network ekipmanları tedariki…info@trunk.tr | Cisco, Juniper, HPE, Extreme, Ubiquiti ve Ruijie switch, router, access point ve SFP modülleri. Sıfır ve ikinci el network ekipmanları tedariki | https://www.trunk.tr/cozumler/sifir-ikinci-el-network-ekipmanlari/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

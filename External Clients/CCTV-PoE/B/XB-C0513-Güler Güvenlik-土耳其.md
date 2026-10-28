@@ -44,7 +44,7 @@
 ## 8. 研究卡（第 2 步，W3-R11，2026-10-28）
 
 - **结论：XB** — 区域经销兼安装，规模小 → B 不动；info@gulerguvenlik.com.tr 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防经销/安装（Güler Güvenlik Teknoloji，İzmir Karşıyaka；Ruijie Reyee 经销）
 - 是什么人：安防经销/安装（Güler Güvenlik Teknoloji，İzmir Karşıyaka；Ruijie Reyee 经销）；规模：未量化
 - 对口哪条线：—
@@ -59,4 +59,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | 官网 İletişim：info@gulerguvenlik.com.tr；guvenlikonline：Cevdet Bilsay Cad. No:92/E Karşıyaka/İZMİR | Güler Güvenlik Teknoloji ® Profesyonel Çözümler | https://www.gulerguvenlik.com/iletisim | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

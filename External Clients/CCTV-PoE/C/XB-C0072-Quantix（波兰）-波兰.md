@@ -81,7 +81,7 @@
 ## 8. 研究卡（第 2 步，W3-R12，2026-10-28）
 
 - **结论：XC** — 非波兰公司、同行厂商 → C 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：中国 GPU 服务器/交换机厂商的波兰 SEO 页（Quantix Intelligent Computing Co., Ltd.，Shenzhen；2017 起）
 - 是什么人：中国 GPU 服务器/交换机厂商的波兰 SEO 页（Quantix Intelligent Computing Co., Ltd.，Shenzhen；2017 起）；规模：未量化
 - 对口哪条线：—
@@ -96,4 +96,4 @@
 | 来源库官网/名录核对 | C类 — 网络设备供应商 |  | https://quantixgpu.com/ | 2026-09-28 |
 | 本轮网查 | 官网：Quantix Intelligent Computing Co., Ltd.…based in China…our main engineering team is based in Shenzhen | While our main engineering team is based in Shenzhen, we partner with several system integrators in Warsaw and Krakow | https://www.quantixgpu.com/local/network-switch-manufacturers-supplier-in-the-poland-market/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

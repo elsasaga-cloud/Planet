@@ -60,7 +60,7 @@
 ## 8. 研究卡（第 2 步，W3-R07，2026-10-28）
 
 - **结论：XB** — 联邦采购渠道（需 TAA 等资质）与 Saga 条件不符；info@zd-techsolutions.com 已记 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：IT 服务 + GSA 联邦经销（ZDAAS LLC，Glen Burnie MD；女性所有小企业；软件/人力 + 线缆/摄像机/交换机转售）
 - 是什么人：IT 服务 + GSA 联邦经销（ZDAAS LLC，Glen Burnie MD；女性所有小企业；软件/人力 + 线缆/摄像机/交换机转售）；规模：IT 服务 + GSA 联邦经销（ZDAAS LLC，Glen Burnie MD；女性所有小企业；软件/人力 + 线缆/摄像机/交换机转售）
 - 对口哪条线：—
@@ -75,4 +75,4 @@
 | 来源库官网/名录核对 | C类 — 工业PoE分销 |  |  | 2026-09-28 |
 | 本轮网查 | GSA eLibrary 列 ZDAAS LLC 合同 47QTCA18D008G；Thomasnet：distributor of cables, amplifiers, cameras…switches, routers | Permanent and temporary industrial staffing, software…Also distributor of cables, amplifiers, cameras, computers | https://www.thomasnet.com/company/zdaas-llc-30917176/profile | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

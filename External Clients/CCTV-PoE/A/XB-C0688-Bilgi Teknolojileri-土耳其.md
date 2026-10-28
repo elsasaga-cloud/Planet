@@ -49,7 +49,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XA** — 来源名仅「Bilgi Teknolojileri」，按 Perpa + PoE 品类判定为 GelecekBT（身份待其回信确认）；TR 四主之一、邮箱已补 → 升 A 首触，用自有标签问句（排 2027-01-21 周四）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：Perpa 网络/安防分销 + 自有标签（GelecekBT Bilgi Teknolojileri，Perpa A Blok K:13 No:1990 Şişli；CLR Networks 分销；自有 GBT- 编号 PoE 延长器等）
 - 是什么人：Perpa 网络/安防分销 + 自有标签（GelecekBT Bilgi Teknolojileri，Perpa A Blok K:13 No:1990 Şişli；CLR Networks 分销；自有 GBT- 编号 PoE 延长器等）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 土耳其核心市场，Perpa 渠道 + 已有自有标签 PoE 配件 → 自有标签 PoE 交换机的 OEM 候选
@@ -82,4 +82,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

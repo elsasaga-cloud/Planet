@@ -82,7 +82,7 @@
 ## 8. 研究卡（第 2 步，W3-R12，2026-10-28）
 
 - **结论：XB** — 实为爱沙尼亚公司（来源库误标 BG）；品牌货线上供应，非选品型分销 → B 不动；sales@megateh.eu 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：跨欧线上安防供应商（MEGATEH.eu / Expresstime OÜ，Tallinn 爱沙尼亚；2008 起；30,000+ 订单；经销商折扣）
 - 是什么人：跨欧线上安防供应商（MEGATEH.eu / Expresstime OÜ，Tallinn 爱沙尼亚；2008 起；30,000+ 订单；经销商折扣）；规模：未量化
 - 对口哪条线：—
@@ -97,4 +97,4 @@
 | 来源库官网/名录核对 | C类 — Dahua对讲分销 |  | https://megateh.eu/ | 2026-09-28 |
 | 本轮网查 | About：MEGATEH.eu is an Estonian company…Operating under Expresstime OÜ since 2008…over 30,000 orders…sales@megateh.eu | MEGATEH.eu is an Estonian company specialising in the supply of video surveillance (CCTV) and modern security equipment across Europe and worldwide | https://www.megateh.eu/about-us | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

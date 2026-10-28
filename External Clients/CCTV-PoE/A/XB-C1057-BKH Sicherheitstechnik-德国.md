@@ -62,7 +62,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XA** — DE 安防分销、KP 实名 → 升 A 首触
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安防分销（BKH Sicherheitstechnik GmbH & Co. KG，Ludwigshafen；AVS/CARDIN/SAFIRE SMART/Provision-ISR 分销；B2B 网店；总经理 Patrick Kane）
 - 是什么人：安防分销（BKH Sicherheitstechnik GmbH & Co. KG，Ludwigshafen；AVS/CARDIN/SAFIRE SMART/Provision-ISR 分销；B2B 网店；总经理 Patrick Kane）；规模：未量化
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 视频安防分销，KP 实名公开
@@ -98,4 +98,4 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

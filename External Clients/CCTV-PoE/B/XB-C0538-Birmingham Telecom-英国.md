@@ -44,7 +44,7 @@
 ## 8. 研究卡（第 2 步，W3-R07，2026-10-28）
 
 - **结论：XB** — MSP/电信服务商，不是分销；info@birminghamtelecom.co.uk 已记 → B 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：企业电信/IT 服务商（Birmingham Telecommunications Ltd，Coleshill；2006 起；11–50 人；3CX/托管话音/宽带/Ubiquiti 安装）
 - 是什么人：企业电信/IT 服务商（Birmingham Telecommunications Ltd，Coleshill；2006 起；11–50 人；3CX/托管话音/宽带/Ubiquiti 安装）；规模：企业电信/IT 服务商（Birmingham Telecommunications Ltd，Coleshill；2006 起；11–50 人；3CX/托管话音/宽带/Ubiquiti 安装）
 - 对口哪条线：—
@@ -59,4 +59,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | LinkedIn：Hosted Telephony Specialists - 3CX Platinum Partner…Ubiquiti WiFI Installation；11–50 人 | Hosted Telephony Specialists - 3CX Platinum Partner - SIP Trunking Integrator | https://uk.linkedin.com/company/birmingham-telecommunications-limited | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

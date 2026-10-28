@@ -85,7 +85,7 @@
 ## 8. 研究卡（第 2 步，W3-R12，2026-10-28）
 
 - **结论：XB** — 同行自有品牌、规模极小 → B 不动；info@dsecctv.com 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：自有品牌小厂商（DSE s.r.l.，San Mauro Torinese；1998 起；2 名员工、2024 营收 €689k；ONVIF 会员）
 - 是什么人：自有品牌小厂商（DSE s.r.l.，San Mauro Torinese；1998 起；2 名员工、2024 营收 €689k；ONVIF 会员）；规模：未量化
 - 对口哪条线：—
@@ -100,4 +100,4 @@
 | 来源库官网/名录核对 | CCTV PoE交换机/摄像头零售分销 |  | https://dsecctv.com/ | 2026-09-28 |
 | 本轮网查 | ufficiocamerale：Fatturato € 688.745,00 (2024)…Dipendenti 2；dsecctv.com 联系页 Product information info@dsecctv.com | DSE è un costruttore di prodotti per la videosorveglianza | https://www.dsecctv.com/contattarci.htm | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

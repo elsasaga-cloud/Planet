@@ -61,7 +61,7 @@
 ## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
 
 - **结论：XB** — 主营元器件/连接技术，交换机非其主线；邮箱 info@werner-electronic.de 已记，留 B
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：电子元器件专业批发（WERNER ELECTRONIC / Werner GmbH，Kreischa bei Dresden；1991 起；HARTING/Phoenix Contact/LAPP 分销）
 - 是什么人：电子元器件专业批发（WERNER ELECTRONIC / Werner GmbH，Kreischa bei Dresden；1991 起；HARTING/Phoenix Contact/LAPP 分销）；规模：未量化
 - 对口哪条线：—
@@ -76,4 +76,4 @@
 | 来源库官网/名录核对 | A类 — 35+年Fachgroßhandel,40K+产品,HARTING/Phoenix Contact分销 |  |  | 2026-09-28 |
 | 本轮网查 | Impressum：info@werner-electronic.de；Silicon Saxony 会员页自述元器件专业批发 | Spezial-Fachgroßhandel für elektronische Bauelemente | https://silicon-saxony.de/mitglieder/werner-gmbh/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

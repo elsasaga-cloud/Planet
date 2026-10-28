@@ -61,7 +61,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XB** — 元器件渠道，与交换机无关，不再补查 → B 不动；info@boersig.com / export@boersig.com 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：电子元器件分销（Börsig GmbH Electronic-Distributor，Neckarsulm；40 年；连接器/无源件 + 线缆组件）
 - 是什么人：电子元器件分销（Börsig GmbH Electronic-Distributor，Neckarsulm；40 年；连接器/无源件 + 线缆组件）；规模：未量化
 - 对口哪条线：—
@@ -76,4 +76,4 @@
 | 来源库官网/名录核对 | B类 — 1969年起电子分销,Phoenix Contact工业交换机 |  |  | 2026-09-28 |
 | 本轮网查 | 官网 Contact：Börsig GmbH Electronic-Distributor Siegmund-Loewe-Strasse 5 74172 Neckarsulm…info@boersig.com…Export sales export@boersig.com | Börsig GmbH Neckarsulm seit 40 Jahren Electronic Distributor für elektromechanische und passive Bauelemente | https://www.boersig.com/en/contact/your-connection-to-us | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

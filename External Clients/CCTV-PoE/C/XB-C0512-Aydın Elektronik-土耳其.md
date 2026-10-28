@@ -45,7 +45,7 @@
 ## 8. 研究卡（第 2 步，W3-R09，2026-10-28）
 
 - **结论：XC** — 安装商 + 免费邮箱 → C 不动
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：安装商（Aydın Elektronik Güvenlik Sistemleri，Ankara Ulus；仅 hotmail 邮箱）
 - 是什么人：安装商（Aydın Elektronik Güvenlik Sistemleri，Ankara Ulus；仅 hotmail 邮箱）；规模：未量化
 - 对口哪条线：—
@@ -60,4 +60,4 @@
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
 | 本轮网查 | 官网联系页：ayd_guvenlik@hotmail.com；Kale Mahallesi…Ulus Altındağ / Ankara | Mail Adresimiz ayd_guvenlik@hotmail.com | https://ankarakamerasistemleri.com.tr/iletisim/ | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

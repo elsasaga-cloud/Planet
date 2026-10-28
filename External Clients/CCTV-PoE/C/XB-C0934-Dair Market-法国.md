@@ -53,7 +53,7 @@
 ## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
 - **结论：XC** — 一人公司 → C 不动；dair.market@free.fr 已记
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
 - 一句话：微型 IT 维修 + 安防分销（DAIR MARKET EURL，Rezé/Nantes；2011 起；官方 0 名员工；dair-secur.fr 目录）
 - 是什么人：微型 IT 维修 + 安防分销（DAIR MARKET EURL，Rezé/Nantes；2011 起；官方 0 名员工；dair-secur.fr 目录）；规模：未量化
 - 对口哪条线：—
@@ -68,4 +68,4 @@
 | 来源库官网/名录核对 | 安防分销, 多品牌, 在线目录 |  |  | 2026-09-28 |
 | 本轮网查 | pappers：Effectif 0 salarié (donnée 2026)…Dirigeant Bouffet Olivier；europages 自述 distributeur spécialisé en équipements de sécurité | Effectif : 0 salarié (donnée 2026) | https://www.pappers.fr/entreprise/dair-market-533437950 | 2026-10-28 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。
