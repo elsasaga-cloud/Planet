@@ -29,6 +29,18 @@
    "email": "",
    "phone": "",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Christophe Denis Cordonier",
+   "role": "董事 / 签字权（moneyhouse）= 拍板人（推定 Clients 表「Director Manager」）（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971"
+  },
+  {
+   "name": "Philippe Bonvin",
+   "role": "董事 / 签字权（moneyhouse）（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971"
   }
  ],
  "grade_override": "B",
@@ -40,9 +52,10 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Medias-Com'S SA",
+  "legal_name": "MEDIAS-COM'S SA（UID CHE-394.326.893；CH-626.3.019.073-4；HR Valais；Place du Village 18, 1978 Lens）",
   "hq": "Place du Village 18, Case postale 47, 1978 Lens (Valais), Suisse",
-  "other": "瓦莱州媒体与传播公司：自研**数字化公交候车亭**（城市家具 + 数字信息屏：班次、旅游/地方资讯），以及传播服务（网站、SEO、社媒、品牌设计、App、视频）——交换机需求来自候车亭/户外信息屏的网络接入（户外柜、宽温）"
+  "other": "瓦莱州媒体与传播公司：自研**数字化公交候车亭**（城市家具 + 数字信息屏：班次、旅游/地方资讯），以及传播服务（网站、SEO、社媒、品牌设计、App、视频）——交换机需求来自候车亭/户外信息屏的网络接入（户外柜、宽温）；第 111 批：媒体 / 传播 + 电信转售微型公司（2020 样品单 IM-MC110FE ×2 / IM-FP144FE ×2 后无跟进）→ **集成 25% small，一页纸一次（回访 2020 样品 + 工业 MC / STI-054GP 现价一口价 + CH DAP 买方清关；法语引子，Cordonier 直呼）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+  "founded": "2018-11-02（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "数字化公交候车亭（户外数字标牌 + 网络）",

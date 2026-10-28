@@ -26,7 +26,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Robert Bugnet",
+   "role": "Président（pappers / verif；全名 Robert Gérard José Bugnet）= 拍板人 / 收件人（ventes@ 点名）（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.pappers.fr/entreprise/gmi-databox-320290190"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -36,7 +43,9 @@
  },
  "company_facts": {
   "hq": "法国",
-  "other": "官网 gmidatabox.fr，语言 ?，快照状态 timeout；角色判定来源：待核"
+  "other": "官网 gmidatabox.fr，语言 ?，快照状态 timeout；角色判定来源：待核；第 111 批：Mennecy (91) 老牌工业通信 / 数据中心增值分销商（6–9 人；CA 2025 €1.59M）→ **分销 20% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作第二价位 + 3 年保 + FR DAP；法语引子）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "GMI DATABOX SAS（原 SARL；SIREN 320 290 190；RCS Évry；TVA FR28320290190）",
+  "founded": "1980-11-18（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业网络产品分销（法国）"

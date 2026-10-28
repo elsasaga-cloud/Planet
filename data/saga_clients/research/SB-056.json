@@ -43,6 +43,12 @@
    "email": "",
    "phone": "+372 515 1032（WA）",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Dmitri Simonov",
+   "role": "受益人（inforegister，2018-09-20 起）= WA 联系人（推定）（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU"
   }
  ],
  "grade_override": "B",
@@ -54,9 +60,10 @@
   "level": "B 级加厚 v1（名录 + 业务站核对）"
  },
  "company_facts": {
-  "legal_name": "Network Business Solutions OÜ（Infojuht 名录：计算机及外设批发；站点 fiber.ee / www.nbs.ee）",
+  "legal_name": "NETWORK BUSINESS SOLUTIONS OÜ（registrikood 11338038；原 Osaühing Angelmont；Vesse tn 9a, Tallinn）",
   "hq": "Tallinn（服务楼宇位于 Lasnamäe 区：Paekaare 68/72/74、Punane 1 等）, Eesti",
-  "other": "**小型住宅光纤 ISP + 数据中心/主机托管 + 域名注册商（.ee/.eu/.lv/.fi 认证）**：公寓楼光纤入户 18 €/月（2026-10 提速 200→250 Mbit/s）、24 € 档 400→500 Mbit/s、4G SIM 无限流量 12.40 €；网络建设「最高 10 Gbit/s」；2026-08/10 持续有新楼接入公告——楼栋接入交换机为持续性需求"
+  "other": "**小型住宅光纤 ISP + 数据中心/主机托管 + 域名注册商（.ee/.eu/.lv/.fi 认证）**：公寓楼光纤入户 18 €/月（2026-10 提速 200→250 Mbit/s）、24 € 档 400→500 Mbit/s、4G SIM 无限流量 12.40 €；网络建设「最高 10 Gbit/s」；2026-08/10 持续有新楼接入公告——楼栋接入交换机为持续性需求；第 111 批：**法人休眠（VAT EE101131030 已于 2023-05-15 注销；2024 Q1 0 雇员 / 0 国税；2024 预测营业额 ≈ €0；资产 €46k；2 条法院记录）→ 不动（WA 闲聊不转商机；主动询盘预付款）**（第 111 批 官方登记核实 2026-10-28）",
+  "founded": "2007-01-09（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "住宅楼光纤宽带（Tallinn Lasnamäe）",

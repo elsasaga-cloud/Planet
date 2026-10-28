@@ -39,14 +39,22 @@
    "title": "Managing Director",
    "email": "petra@ezy.hr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Managing Director（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "David Dolenec",
    "title": "Product Manager",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Product Manager（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Branko Novosel",
+   "role": "Direktor i član uprave（ezy.hr 法律信息 / companywall）= 拍板人（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.ezy.hr/kontakti"
   }
  ],
  "grade_override": null,
@@ -58,7 +66,9 @@
  },
  "company_facts": {
   "hq": "克罗地亚",
-  "other": "官网 ezy.hr，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 ezy.hr，语言 ?，快照状态 ok；角色判定来源：用户表；第 111 批：克罗地亚两城 IT 分销商（收入 ≈€6.68M；在售台系 PoE；做 MikroTik / Ubiquiti 培训）→ **分销 20%，B BIG，加厚一次（台系 / MikroTik 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP；HR DAP 小起订）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "EZY Infotech d.o.o.（全称 … za trgovinu；OIB 79541484681；MBS 070061024；Čakovec + Zagreb）",
+  "founded": "2002-05-16（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT 设备分销（网络 / 光纤 / 无线 / PC 组件）"

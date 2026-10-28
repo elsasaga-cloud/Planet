@@ -42,7 +42,9 @@
  },
  "company_facts": {
   "hq": "葡萄牙",
-  "other": "官网 cctvcamara.pt，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 cctvcamara.pt，语言 ?，快照状态 ok；角色判定来源：用户表；第 111 批：中国 CCTV 厂家的葡萄牙门店（同行分支；24 次无打开）→ **不动**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "cctvcamara.pt（CCTVCÂMARA；Lisboa；自称 Vividview Interconnected Technology Co., Ltd. 葡萄牙分支；NIPC 未取；仅 Gmail + WhatsApp）",
+  "founded": "未取（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "CCTV 网店（葡萄牙）"

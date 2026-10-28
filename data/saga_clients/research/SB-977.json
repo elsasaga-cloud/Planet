@@ -44,7 +44,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Martin Kundrik",
+   "role": "eltrox.cz 站点联系人（schema；职务未取）= 收件人（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.eltrox.cz/"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -54,7 +61,9 @@
  },
  "company_facts": {
   "hq": "捷克",
-  "other": "官网 eltrox.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "other": "官网 eltrox.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 111 批：SK 法人运营的 CZ / SK 安防网店（已上架白牌 PoE）→ **分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP / STC-2224GP 作摄像机套件 PoE SKU + 比价 + SK DAP；捷 / 斯语引子）；有回声再加厚**；iso 保持 CZ（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "eltrox.cz — 经营者 E-commerce Group, s.r.o.（斯洛伐克 Bardejov；IČO 47589175；IČ DPH SK2024000066；OR Okresný súd Prešov）≠ Eltrox s.r.o. Ostrava 29382289",
+  "founded": "未取（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防系统 / 智能家居网店"

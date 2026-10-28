@@ -41,7 +41,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Jan Hofman",
+   "role": "jednatel（abctech.cz 法律信息）= 拍板人（info@ / obchod@ 点名）（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.abctech.cz/"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -51,7 +58,9 @@
  },
  "company_facts": {
   "hq": "捷克",
-  "other": "官网 abctech.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "other": "官网 abctech.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述；第 111 批：Česká Skalice / Hradec Králové 网络渠道网店（提供批发合作）→ **分销 20% small，一页纸一次（换切口：主流品牌价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP + CZ DAP 小起订；捷语引子，点名 Jan Hofman）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "ABCtech s.r.o.（IČO 27546624；DIČ CZ27546624；C 25333 KS Hradec Králové）",
+  "founded": "2008-08-28（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "计算机与电子产品网店（网络 / 光伏配件）"

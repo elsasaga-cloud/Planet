@@ -40,17 +40,23 @@
  "kp": [
   {
    "name": "Alban S. Beqiri",
-   "role": "CEO（LinkedIn 公开）",
+   "role": "CEO（LinkedIn / D&B；2013-09 起）= 拍板人 / 收件人；研究档邮箱域名 storm.ict.com 有误 → storm-ict.com（具体地址待核，先发 info@storm-ict.com 抄）（第 111 批 官方登记核实 2026-10-28）",
    "email": "alban.beqiri@storm.ict.com（用户表；域名疑误，应为 storm-ict.com——待核）",
    "phone": "+383 38 732 732（公司）；+383 49 637 000（用户表，WA 加不上）",
    "source": "https://www.linkedin.com/in/albanbeqiri/"
   },
   {
    "name": "Vegim Zhitija",
-   "role": "CTO（名录公开）",
+   "role": "CTO（名录）（第 111 批 官方登记核实 2026-10-28）",
    "email": "—",
    "phone": "—",
    "source": "https://www.zoominfo.com/c/storm-ict-llc/430375477"
+  },
+  {
+   "name": "Elion Rexhepi",
+   "role": "Sales Manager（RocketReach）（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://rocketreach.co/storm-ict-llc-profile_b556e312f9d4c813"
   }
  ],
  "grade_override": null,
@@ -61,11 +67,11 @@
   "level": "B 级加厚 v1（官网 + LinkedIn 核对）"
  },
  "company_facts": {
-  "legal_name": "STORM ICT L.L.C.",
-  "founded": "2013",
+  "legal_name": "STORM ICT L.L.C.（Prishtinë；Storm Group（HR）成员；ARBK 商业编号未取；NCAGE A08RH）",
+  "founded": "2013-09（第 111 批 官方登记核实 2026-10-28）",
   "hq": "Rruga Tahir Zajmi (KOSOVATEX), pn, 10000 Prishtinë, Kosovo（+383 38 732 731；info@storm-ict.com）",
   "size": "11–50（LinkedIn）；6（RocketReach）",
-  "other": "Storm Group（克罗地亚）成员；北马其顿办公室（2020）"
+  "other": "Storm Group（克罗地亚）成员；北马其顿办公室（2020）；第 111 批：科索沃 + 北马其顿 ICT 集成商（ISO 9001 / 27001；Cisco 系项目；6–50 人）；现场说用工业管理型 PoE、拿了彩页、未发过信 → **集成 25% small，一页纸一次（会面回访 + STI-288DGGPM / STI-488DGGPM / STI-054GP 作第二价位 + XK 非欧盟 DAP 买方清关 + 预付款；英文）；回信 → 加厚**（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "有源/无源网络基础设施集成",

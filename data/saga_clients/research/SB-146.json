@@ -35,7 +35,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 exsys.it，语言 ?，快照状态 http_error；角色判定来源：用户表"
+  "other": "官网 exsys.it，语言 ?，快照状态 http_error；角色判定来源：用户表；第 111 批：自有品牌 EXSYS 接口卡 / 工业 HUB / PoE 交换机（台湾代工）的意大利公司（1 人；2025 营收 €233k）→ **贴标 30% small，一页纸一次（EXSYS 标 STC-028GP / STC-228GP / STI-054GP 作台系代工的第二价位 + 小 MOQ；意语引子）；再无回声 → 不动**；收件人 exsys@exsys.it（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "EXSYS ITALIA - S.R.L.（P.IVA / CF 02375220130；REA CO-257326；Como）— EXSYS 品牌德国 / 瑞士总部另立户",
+  "founded": "1998-04-15（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "接口 / 网络配件（品牌 EXSYS）"

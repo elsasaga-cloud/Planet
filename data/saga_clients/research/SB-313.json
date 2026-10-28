@@ -45,14 +45,16 @@
    "title": "Head of Product Management",
    "email": "ekvtime@intellcom.net",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Head of Product Management（研究档）= 收件人（第 111 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Samson Khaduri",
    "title": "Head of Procurement",
    "email": "soso@intellcom.net",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Head of Procurement（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -64,7 +66,9 @@
  },
  "company_facts": {
   "hq": "格鲁吉亚",
-  "other": "官网 intellcom.net，语言 ka，快照状态 ok；角色判定来源：待核"
+  "other": "官网 intellcom.net，语言 ka，快照状态 ok；角色判定来源：待核；第 111 批：格鲁吉亚 IT / 安防 / 供电分销商（**Ubiquiti 官方分销、Uniview 合作伙伴**；11–50 人；2025-06 工单一次）→ **分销 20%，B BIG，加厚一次（主流品牌价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP；GE DAP 买方清关 + 预付款；英 / 俄文）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "შპს ინტელკომ ჯგუფი / Intellcom Group LLC（识别码 202441189；NAPR 2008-02-22；42 Tereverko St., Tbilisi）≠ INTELCOM GROUP 406099546",
+  "founded": "2008-02-22（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "供电 / UPS / 电池",

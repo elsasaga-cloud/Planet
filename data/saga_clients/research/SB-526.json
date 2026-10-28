@@ -40,7 +40,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 automationstore.it，语言 en，快照状态 ok；角色判定来源：待核"
+  "other": "官网 automationstore.it，语言 en，快照状态 ok；角色判定来源：待核；第 111 批：自动化产品网店（站点验证墙；仅 info@；23 次无打开）→ **未坐实 → 不动（B 保留）**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "automationstore.it（经营主体未坐实；1 查即停；同名 A.I. AUTOMAZIONE INDUSTRIALE S.R.L. 03059890966 / AUTOMAZIONI INDUSTRIALI S.R.L. 02053790248 均无关联证据）",
+  "founded": "未取（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "自动化产品网店（意大利）"

@@ -31,7 +31,8 @@
    "title": "",
    "email": "info@bositaly.it",
    "phone": "+39 0444 868678",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "公司公开信箱（KP 未取；Borinato 家族推定）= 收件人，一问产品负责人（第 111 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -42,11 +43,11 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Bos Italy S.r.l.",
-  "founded": "",
+  "legal_name": "BOS ITALY S.R.L.（原 Borinato Security S.r.l.；P.IVA / CF 03576140242；REA VI-336327；socio unico）",
+  "founded": "2009-11-02（第 111 批 官方登记核实 2026-10-28）",
   "hq": "Vicenza, Italy（+39 0444）",
   "size": "小型分销",
-  "other": "已售 Hasivo 工业 FS"
+  "other": "已售 Hasivo 工业 FS；第 111 批：Val Liona (VI) 自有品牌 BOS 摄像机（ONVIF 会员）+ 自有 poe / switch 类目、走分销商渠道（8 人；2024 营收 €2.54M）→ **贴标 OEM 30% 目标，B，加厚 small 一次（BOS 标 PoE 整线 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP；中性包装 + 自编货号 + 3 年保）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络 / 安防分销"

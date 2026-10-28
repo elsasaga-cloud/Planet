@@ -29,7 +29,8 @@
    "title": "（职务待核）",
    "email": "virginie@uniformatic.fr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务待核）= 收件人；2025-12 总部迁里昂后先确认邮箱仍有效（第 111 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -41,7 +42,9 @@
  },
  "company_facts": {
   "hq": "法国",
-  "other": "官网 uniformatic.fr，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "other": "官网 uniformatic.fr，语言 ?，快照状态 http_error；角色判定来源：待核；第 111 批：IT / 网络配件批发商（10–19 人；自有品牌 Uniformatic 线缆 / 电源 + 代理台系工业交换机；2025-12-01 总部自 Neuilly-sur-Marne 迁 Rillieux-la-Pape）→ **贴标 30% small，一页纸一次（Uniformatic 标 DIN 导轨 PoE STI-054GP / STI-144GP / STI-154GP 作现有工业线的第二价位 + 自编货号 + 小 MOQ；法语引子）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "UNIFORMATIC SAS（SIREN 333 998 623；TVA FR43333998623；RCS Lyon（原 Bobigny）；资本 €200,000；associée unique）",
+  "founded": "1985-11-18（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业电源 / 网络产品经销（法国）"

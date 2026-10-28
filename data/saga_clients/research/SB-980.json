@@ -49,7 +49,9 @@
  },
  "company_facts": {
   "hq": "荷兰",
-  "other": "官网 ipvoiceshop.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 ipvoiceshop.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案；第 111 批：微型 VoIP 服务商（网店维护中；15 次无打开）→ **集成 25% small，一页纸一次（IP 话机部署的 PoE 配套 STC-028GP / STC-228GP + MOQ 1；荷语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "IP Voice Group Services B.V.（网店 ipvoiceshop.nl；Zeewolde；KvK 61046655）≠ KommaGo B.V. / voipshop.nl",
+  "founded": "≈2014（业务 2011）（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "VoIP / IP 话机网店（荷兰）"

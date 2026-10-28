@@ -25,9 +25,11 @@
   "level": "无域名 · 仅表内信息（已成交）"
  },
  "company_facts": {
-  "legal_name": "未具名（个人邮箱）",
+  "legal_name": "Tomasz Głuszek（个人；Gmail；爱尔兰 +353 83；无 CRO 法人；LinkedIn 同名「AT Networks, Ireland」待证）",
   "hq": "爱尔兰（+353 83）",
-  "size": "个人/微型"
+  "size": "个人/微型",
+  "founded": "—（第 111 批 官方登记核实 2026-10-28）",
+  "other": "第 111 批：个人安装商、2 个工业 90W PoE 注入器样品已成交、WA 活跃 → **不进发送包（个人 / Gmail）；Simon 在 WA 顺手维系（STI-054GP 整机一口价）；registry 不动**（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "弱电/安防安装（推断）"

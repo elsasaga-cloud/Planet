@@ -39,7 +39,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "K. Kassabow",
+   "role": "CEO / 业主（研究档展会记录；kkassabow@kassabasystems.com）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）",
+   "email": "kkassabow@kassabasystems.com",
+   "source": "https://papagal.bg/eik/131403477/a657"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -48,11 +55,11 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Кассаба Системс ЕООД（Kassaba Systems Ltd.）",
-  "founded": "2004",
+  "legal_name": "КАССАБА СИСТЕМС ООД（Kassaba Systems Ltd.；原 ЕООД；ЕИК 131403477；ДДС BG131403477 自 2006-09-15；София 1309）",
+  "founded": "2005-03-25（第 111 批 官方登记核实 2026-10-28）",
   "hq": "жк. Разсадника, ул. Коньовица 4, София, България（+359 2 820 2610；office@kassabasystems.com）",
   "size": "1–10（Crunchbase）",
-  "other": "保加利亚三大监控元件进口商之一（自述）；APEXIS 独家代理（2012）；Facebook 69 评 92% 推荐"
+  "other": "保加利亚三大监控元件进口商之一（自述）；APEXIS 独家代理（2012）；Facebook 69 评 92% 推荐；第 111 批：微型 CCTV 直接进口商 + 安装商（6 人；2020 营业额 €627k；展会见过 CEO）→ **分销 20% small，一页纸一次（提展会会面 + STC-028GP / STC-228GP 配套件一口价 + MOQ 1 + BG DAP；保语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "视频监控设备进口与分销（网店）",

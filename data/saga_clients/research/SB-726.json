@@ -45,7 +45,8 @@
    "title": "（表内联系人，会中文）",
    "email": "info@elettronicaesicurezza.it",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（info@；表内「会说中文」）= 收件人（第 111 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -57,7 +58,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 elettronicaesicurezza.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 elettronicaesicurezza.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 111 批：安防设备批发分销商（4 人；2024 营收 €1.35M +32%）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 配摄像机 + 对讲套件一口价 + MOQ 1；意语引子，点名 Riccardo）；有回声再加厚**；中文直联由 Simon 定（默认否）（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "ELETTRONICA E SICUREZZA SRL（原 … snc di D. Ferrari & C.；P.IVA / CF 03518240241；REA VI-331657；Thiene (VI)）",
+  "founded": "2009-02-12（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防系统分销（CCTV / 对讲 / PoE 配件）"

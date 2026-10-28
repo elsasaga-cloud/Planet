@@ -43,7 +43,8 @@
    "title": "（职务待核）",
    "email": "dponjavic@gmail.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（Gmail；职务待核）= 收件人（office@kbvdatacom.rs 抄，一问职务 / 公司邮箱）（第 111 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +56,9 @@
  },
  "company_facts": {
   "hq": "塞尔维亚",
-  "other": "官网 kbvdatacom.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 kbvdatacom.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案；第 111 批：电信 / 能源 / 交通基建设计与建设工程商（APR「大型」；190 人；持铁路电信施工许可 I141E3 → **守界：只谈电信 / 能源 / 安防线，绝不提铁路**；阿里 RTS 旁路模块小单）→ **集成 25%，B BIG，加厚一次（光纤接入 / 安防 / 电力站点的工业 PoE STI-054GP / STI-144GP / STI-288DGGPM + 旁路回访 + RS 非欧盟 DAP；英文 / 塞语）；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "Društvo za informacione tehnologije i telekomunikacije KBV DATACOM d.o.o. Beograd（PIB 106983968；MB 20718749；Zorana Žunkovića 17, Beograd）",
+  "founded": "2011-03-11（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电信网络设计 / 建设 / 安防 / 电力系统（塞尔维亚）"

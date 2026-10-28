@@ -47,14 +47,16 @@
    "title": "General Manager",
    "email": "arunas@pyramid.lt",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Direktorius（info.lt / rekvizitai）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Mattheos Dimitras",
    "title": "Business Manager",
    "email": "info@pyramid-electronics.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Business Manager（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -66,7 +68,9 @@
  },
  "company_facts": {
   "hq": "立陶宛",
-  "other": "官网 pyramid.lt，语言 lt-LT，快照状态 ok；角色判定来源：待核"
+  "other": "官网 pyramid.lt，语言 lt-LT，快照状态 ok；角色判定来源：待核；第 111 批：监控 / 安防网店 + 门店（9–10 人；**自有品牌 Pyramid 摄像机 PYR-SH200X**；EN / RU / LT）→ **贴标 30% small，一页纸一次（Pyramid 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP 配自家摄像机套件，中性包装 + 自编货号；英 / 俄文引子，Arūnas 直呼）；有回声再加厚**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "UAB „Enzas“（商号 Pyramid.lt / Pyramid Electronics；įmonės kodas 303005607；PVM LT100009310917；Vilnius）",
+  "founded": "2013-02-21（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防设备网店（摄像机 / 报警 / 对讲 / 网络）"

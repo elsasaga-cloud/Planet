@@ -1,131 +1,133 @@
 {
-  "code": "SB-234",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（http_error）",
-  "summary": "意大利 Benzotronic（benzotronic.it；表内「商业 PoE ONV 的」「可以尝试多跟进一下」；官网 http_error）；群发 13 次无回复。",
-  "type": "安防/电子经销商（意大利，PoE 现 ONV）",
-  "size": "",
-  "brands_seen": [
-    "ONV"
-  ],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业PoE ONV的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业 PoE ONV",
-      "quote": "商业PoE ONV的；可以尝试多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-234",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "意大利 Benzotronic（benzotronic.it；表内「商业 PoE ONV 的」「可以尝试多跟进一下」；官网 http_error）；群发 13 次无回复。",
+ "type": "安防/电子经销商（意大利，PoE 现 ONV）",
+ "size": "",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业PoE ONV的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "意大利",
-    "other": "官网 benzotronic.it，语言 ?，快照状态 http_error；角色判定来源：待核"
-  },
-  "business_lines": [
-    "安防 / 电子产品经销（意大利）"
-  ],
-  "channels": {
-    "role": "安防/电子经销商（意大利，PoE 现 ONV）",
-    "region": "意大利",
-    "contact": "info@benzotronic.it"
-  },
-  "signals": [
-    "表内：商业 PoE ONV 的；可以尝试多跟进一下",
-    "快照：http_error"
-  ],
-  "risks": [
-    "现供 ONV 价格基准低；官网 http_error；13 次无回复，仅 info@"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
-  },
-  "email_hook": "For the PoE switches you currently source from ONV, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE SKU do you reorder most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 info@benzotronic.it；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 1 封（2025-02-19「Mini Industrial PoE Switch」；To 仅本户 info@benzotronic.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@benzotronic.it` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "安防/电子经销商（意大利，PoE 现 ONV）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "意大利（欧洲全域主攻）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 20；用户表：「商业PoE ONV的」；研究档 risks：现供 ONV 价格基准低；官网 http_error；13 次无回复，仅 info@"
-    },
-    "situation": "意大利 Benzotronic（benzotronic.it；表内「商业 PoE ONV 的」「可以尝试多跟进一下」；官网 http_error）；群发 13 次无回复。",
-    "need": "PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
-    "breakpoint": "现供 ONV 价格基准低；官网 http_error；13 次无回复，仅 info@",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-08 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
-      "why": "PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "For the PoE switches you currently source from ONV, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE SKU do you reorder most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-02-19",
-        "dir": "out",
-        "who": "Elsa → info@benzotronic.it",
-        "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "1951d54020ebb30d"
-      },
-      {
-        "date": "2026-09-16",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
-        "why": "20 封 / 0 次打开 / 0 回｜首封 2024-07-12 → 末封 2026-09-16（20 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "商业PoE ONV的",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2026-09-16",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "16 Port Industrial PoE Switch",
-        "why": "本日去信真实主题（邮箱索引 4523662126c865c2；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-        "k": "4523662126c865c2"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "The PoE switches you source from ONV - neutral-brand equivalents from small lots",
-      "body": "Hello Benzotronic team,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nFor the PoE switches you currently source from ONV, neutral-brand equivalents at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5.\n\nOne question: which PoE SKU do you reorder most from ONV? Send the model number and I quote its exact equivalent.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE ONV",
+   "quote": "商业PoE ONV的；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 benzotronic.it，语言 ?，快照状态 http_error；角色判定来源：待核；第 111 批：个体电子 / 安防门店 + 网店（3 人；本地零售为主；13 次无打开）→ **不动（一人网店规则）**；业主 Mauro Benzoni（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "Benzotronic di Benzoni Mauro（impresa individuale；P.IVA 01414660397；CF BNZMRA64R13H199Y；Ravenna）",
+  "founded": "1998（个体）（第 111 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "安防 / 电子产品经销（意大利）"
+ ],
+ "channels": {
+  "role": "安防/电子经销商（意大利，PoE 现 ONV）",
+  "region": "意大利",
+  "contact": "info@benzotronic.it"
+ },
+ "signals": [
+  "表内：商业 PoE ONV 的；可以尝试多跟进一下",
+  "快照：http_error"
+ ],
+ "risks": [
+  "现供 ONV 价格基准低；官网 http_error；13 次无回复，仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
+ },
+ "email_hook": "For the PoE switches you currently source from ONV, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE SKU do you reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 info@benzotronic.it；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 1 封（2025-02-19「Mini Industrial PoE Switch」；To 仅本户 info@benzotronic.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@benzotronic.it` 仅此 1 条，complete）（第 74 批(m)）",
+   "type": "安防/电子经销商（意大利，PoE 现 ONV）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 20；用户表：「商业PoE ONV的」；研究档 risks：现供 ONV 价格基准低；官网 http_error；13 次无回复，仅 info@"
+  },
+  "situation": "意大利 Benzotronic（benzotronic.it；表内「商业 PoE ONV 的」「可以尝试多跟进一下」；官网 http_error）；群发 13 次无回复。",
+  "need": "PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
+  "breakpoint": "现供 ONV 价格基准低；官网 http_error；13 次无回复，仅 info@",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-08 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
+   "why": "PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the PoE switches you currently source from ONV, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE SKU do you reorder most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-02-19",
+    "dir": "out",
+    "who": "Elsa → info@benzotronic.it",
+    "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1951d54020ebb30d"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "20 封 / 0 次打开 / 0 回｜首封 2024-07-12 → 末封 2026-09-16（20 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业PoE ONV的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 4523662126c865c2；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "4523662126c865c2"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "The PoE switches you source from ONV - neutral-brand equivalents from small lots",
+   "body": "Hello Benzotronic team,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nFor the PoE switches you currently source from ONV, neutral-brand equivalents at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5.\n\nOne question: which PoE SKU do you reorder most from ONV? Send the model number and I quote its exact equivalent.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

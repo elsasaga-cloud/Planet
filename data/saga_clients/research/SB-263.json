@@ -43,7 +43,8 @@
    "title": "（职务待核）",
    "email": "orders@tecside.be",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "founder / sales（tecsideshop.be；giovanni@tecside.be 优于 orders@）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +56,9 @@
  },
  "company_facts": {
   "hq": "比利时",
-  "other": "官网 tecside.be，语言 nl-BE，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 tecside.be，语言 nl-BE，快照状态 ok；角色判定来源：官网文案；第 111 批：定制 LED 照明 + 视听安装微型公司（2.2 FTE；阿里 RFQ 8× 2.5G + 4× 10G SFP+）→ **集成 25% small，一页纸一次（直接回应 RFQ：主表若有 2.5G 多千兆型号则报之，否则 STC-2224GP / STC-4424GCPM + 10G 上联说明 + MOQ 1；荷语引子）；回信 → 加厚**；发信前核主表 2.5G 型号（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "Tecside BV（BE 0795.233.912；Kolonel Begaultlaan 11, 3012 Leuven；前身 TECside Comm.V 0567.983.696 2014–2023）",
+  "founded": "2022-12-22（前身 2014-11-20）（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "LED 照明 / 视听安装 / 自动化（比利时）"

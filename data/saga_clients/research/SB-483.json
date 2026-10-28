@@ -45,7 +45,14 @@
    "title": "Customer and Logistics Coordinator",
    "email": "amm@melbye.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Customer and Logistics Coordinator（研究档；非决策）= 请转产品 / 采购负责人（第 111 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Hege Nordahl",
+   "role": "Daglig leder / Styrets leder（proff / 1881）= 拍板人（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.proff.no/"
   }
  ],
  "grade_override": null,
@@ -57,7 +64,9 @@
  },
  "company_facts": {
   "hq": "挪威",
-  "other": "官网 melbyefiber.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 melbyefiber.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 111 批：自有品牌光纤 / 基础设施产品商（48–74 人；营业额 NOK 342M；2025 税前 NOK 30.5M；te@ 已退信）→ **贴标 / 配套 30% 目标，B BIG，加厚一次（光纤到边缘的配套 PoE / 工业交换机 STC-028GP / STC-228GP / STI-054GP / STI-144GP / STI-288DGGPM，可贴 Melbye 标；NO 非欧盟 DAP 买方清关）；收件人改产品 / 采购负责人；回信 → 次候选升 A**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "MELBYE AS（商号 Melbye Skandinavia Norge AS；org.nr 941 009 697；Melbye Group AS 100%；Skedsmokorset）",
+  "founded": "1986-05-26（集团 1907）（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "光纤方案（光缆 / 配线 / MC / 工业网络配套）"

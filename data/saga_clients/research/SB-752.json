@@ -43,14 +43,28 @@
    "title": "（职务待核）",
    "email": "i.horackova@enika.cz",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档收件人（职务待核）（第 111 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "P. Gottwald",
    "title": "（姓名/职务待核）",
    "email": "p.gottwald@enika.cz",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档收件人（姓名 / 职务待核）（第 111 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Lukáš Majkuth",
+   "role": "generální ředitel + prokurista（enika.eu 公告，2025-04-15 起）= 拍板人（邮箱未取，抄请转）（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.enika.eu/"
+  },
+  {
+   "name": "Jiří Vávra",
+   "role": "Ing.；jednatel（OR，2007-12-20 起）（第 111 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://rejstrik.penize.cz/28218167-enika-cz-s-r-o"
   }
  ],
  "grade_override": null,
@@ -62,7 +76,9 @@
  },
  "company_facts": {
   "hq": "捷克",
-  "other": "官网 enika.cz，语言 en，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 enika.cz，语言 en，快照状态 ok；角色判定来源：用户表；第 111 批：无线控制技术制造商 + 电气元件 / 照明分销商（20,000+ 品项；网络为边缘品类；8 次无打开）→ **分销 20% small，一页纸一次（照明控制 / 楼宇项目的 PoE 供电 STC-028GP / STI-054GP 一口价 + MOQ 1；捷语引子）；再无回声 → 不动**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "ENIKA.CZ s.r.o.（IČO 28218167；DIČ CZ28218167；C 49375 KS Hradec Králové；Nová Paka；前身 ENIKA spol. s r.o. 15055761）",
+  "founded": "2007-12-20（前身 1994）（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "无线技术制造（自有）",

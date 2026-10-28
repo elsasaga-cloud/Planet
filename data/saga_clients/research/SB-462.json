@@ -46,7 +46,8 @@
    "title": "CEO and founder",
    "email": "a.giacobazzi@eter.it",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO & founder；2024-08 起唯一所有人（secsolution：Marcello Canali 售股）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -58,7 +59,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 eter.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 eter.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 111 批：门禁 / 考勤 / 消防探测分销 + 集成商（12 人；2024 营收 €3.95M，2019 起连年增长）；CEO 本人曾索 bypass + 接线图资料 → **集成 25% small，加厚一次（门禁 / 消防网络的 PoE 供电 STC-028GP / STI-054GP / STI-144GP + 旁路需求回访，直发 Andrea 一问；意语引子）；回信 → 次候选**（第 111 批 官方登记核实 2026-10-28）",
+  "legal_name": "ETER BIOMETRIC TECHNOLOGIES SRL（P.IVA / CF 02089510354；REA RE-250476；Rubiera (RE)；单一股东）",
+  "founded": "2004-02-11（登记 2004-07-15）（第 111 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "门禁 / 考勤 / 火灾探测 / HR 系统集成（意大利）"
