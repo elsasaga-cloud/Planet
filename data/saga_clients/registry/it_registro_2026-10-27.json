@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 12
+  "count": 15
  },
  "rows": {
   "SA-070": {
@@ -401,6 +401,103 @@
    ],
    "notes": "分销 20% small；一页纸一次 → 不动；坐实（P.IVA 个体）。",
    "code": "SB-908"
+  },
+  "SB-159": {
+   "batch": 107,
+   "name": "EL.MO. S.p.A.（a socio unico；elmospa.com；帕多瓦 Campodarsego Via Pontarola 70, 35011；P.IVA / CF 00605640283；REA PD-126325）— 1976 年登记（REA 1976-02-06）的意大利专业安防系统制造商（入侵报警 EN 50131、门禁、CCTV、无线；经销商 / 安装商网络）；股本 €3,000,000；2025 营收 €30.57M、净利 €1.49M；79 人；表内「CCTV 帧田交换机」「可以尝试多跟进一下」；研究档 KP Agostino Avolio（Technical / Commercial Agent）、Mauro Felice；群发 5 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（EL.MO. S.P.A.；P.IVA 00605640283；VIA PONTAROLA 70 35011 CAMPODARSEGO (PD)；Rea 126325；Data Iscrizione 01/01/1976；Fatturato € 30.569.956 2025；Dipendenti 79 2026；Utile € 1.491.081；Capitale € 3.000.000；ATECO 261）+ abbrevia（REA PD126325 registrazione 06/02/1976；S.p.A.）+ aziende.it（2024 € 30.66M；2022 € 24.18M）+ elmospa.com 页脚（Capitale Sociale € 3.000.000 i.v.；Registro Imprese di Padova 00605640283；+39 049 9203333）+ 隐私页（S.P.A. a socio unico）",
+   "url": "https://www.ufficiocamerale.it/2756/elmo-spa",
+   "number": "P.IVA / CF 00605640283；REA PD-126325",
+   "status": "Active",
+   "incorporated": "1976",
+   "company_type": "S.p.A. a socio unico（股本 €3,000,000）",
+   "sic": [
+    "专业安防系统制造（入侵 / 门禁 / CCTV / 无线；ATECO 26.1）— 经销商 / 安装商渠道"
+   ],
+   "address": "Via Pontarola 70, 35011 Campodarsego (PD)",
+   "accounts": "2025 营收 €30,569,956；净利 €1,491,081",
+   "accounts_due": "—",
+   "size_band": "中型（79 人）",
+   "officers": [
+    "（未具名）— 拍板层：Direzione Acquisti / Product Management（S.p.A. a socio unico，单一股东）",
+    "Agostino Avolio — Technical / Commercial Agent（研究档 KP，agostino.avolio@）= 收件人（代理，非采购）",
+    "Mauro Felice — 研究档 KP"
+   ],
+   "psc": "单一股东（未取）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€30M / 79 人的安防制造商，CCTV 线已配中国交换机 → 贴标 OEM 30% 目标（EL.MO. 标 PoE 交换机进其 CCTV 目录），B BIG，加厚一次；升 A 候选（回信即 A）**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-154GP 一页纸 + 1:1 对照其目录在售机型",
+    "研究档 KP Avolio 是技术 / 商务代理，非采购 → 投 Avolio 的同时抄 info@ 点名 Ufficio Acquisti / Product Manager CCTV；5 次打开无回复 → 二次触达换切口「a second OEM source for the switches in your CCTV catalogue」；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "贴标 30% 目标；B BIG；加厚一次；升 A 候选；坐实（P.IVA + REA + 营收）。",
+   "code": "SB-159"
+  },
+  "SB-197": {
+   "batch": 107,
+   "name": "Intellisystem Technologies S.r.l.（intellisystem.it；锡拉库萨 Via Augusto Murri 1, 96100 Siracusa；P.IVA / CF 01424300893）— 2000 年起（S.r.l. 2003）由 Cristian Randieri 博士创立的工业网络 / 监控 / 自动化 / 远程控制方案商（在售 3onedata 工业交换机；ATECO 26.20）；2–5 人、营收 <€0.25M 口径（impresaitalia）；President & CEO Cristian Randieri；研究档 KP「Walter Randieri Engineer」「Clelia Randieri Sales Manager」疑为误归属（官网：Clelia Rizza 创始董事）；群发 6 次 5 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：intellisystem.it Contacts（Intellisystem Technologies S.r.l.；P.IVA e C.F. IT01424300893；Via Augusto Murri N°1 96100 Siracusa；+39 0931-1756256）+ reportaziende（Sede legale Via Augusto Murri 1 Siracusa；ATECO 26.20.00）+ impresaitalia（Classe di fatturato 0–0,25 Ml；dipendenti 2–5；P.IVA 01424300893）+ About Us（President & CEO Cristian Randieri PhD；Clelia Rizza Founding Board Member；Roberta Cassarino Communication Manager）+ Crunchbase（established 2000 as engineering office；CEO & Founder since 2003-03-22）；REA 未取",
+   "url": "https://www.intellisystem.it/en/intellisystem-contact/",
+   "number": "P.IVA / CF 01424300893（REA 未取）",
+   "status": "Active",
+   "incorporated": "2000（事务所）/ 2003（S.r.l.）",
+   "company_type": "S.r.l.（创始人持有）",
+   "sic": [
+    "工业网络 / 监控 / 自动化方案 + 研发（在售 3onedata 工业交换机；ATECO 26.20）"
+   ],
+   "address": "Via Augusto Murri 1, 96100 Siracusa",
+   "accounts": "营收 <€0.25M（口径）",
+   "accounts_due": "—",
+   "size_band": "小微（2–5 人）",
+   "officers": [
+    "Cristian Randieri — President & CEO / 创始人 = 拍板人 / 收件人（randieri@intellisystem.it；研究档写作 Walter Randieri 疑为误归属 → 同一邮箱）",
+    "Clelia Rizza — Founding Board Member（研究档写作 Clelia Randieri）"
+   ],
+   "psc": "Randieri",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**2–5 人工业方案商（卖 3onedata）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 1:1 对照 3onedata 同口数）；无回声 → 不动**；稿内不点名 3onedata",
+    "收件人 randieri@ 直呼 Cristian（CEO）；5 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次 → 不动；坐实（P.IVA + 官网）；KP 名修正 Cristian Randieri。",
+   "code": "SB-197"
+  },
+  "SB-425": {
+   "batch": 107,
+   "name": "GSG INTERNATIONAL S.R.L.（gsginternational.com；米兰 Trezzano sul Naviglio Piazza San Lorenzo 48（运营 Via C. Colombo 23）；P.IVA 12178170150；REA MI-1537545）— 1997-06-12 登记的安防市场增值分销商（视频监控 / 门禁 / 网络；品牌 barox / ComNet / Lantech / Nedap；姊妹制造商 Euklis srl（2017，创始人同为 Antonmarco Catania）的 NVR / 人脸识别；Nettosecurity 奥特莱斯）；股本 €53,700；2024 营收 €2.37M、净利 €308（极薄）；7 人；Chairman Antonmarco Catania（1997 创始）、CEO Ludovico Paveri Fontana（2017 起，前 CTO；研究档 KP）；群发 5 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（GSG INTERNATIONAL S.R.L.；Rea 1537545；Data Iscrizione 12/06/1997；Fatturato € 2.374.984 2024；Dipendenti 7 2026；Utile € 308；ATECO 46502）+ fatturatoitalia（P.IVA 12178170150；REA MI 1537545；Piazza San Lorenzo 48 Trezzano sul Naviglio）+ gsginternational.com 页脚（P.IVA 12178170150；Cap. Sociale € 53.700,00；REA 1537545）+ Team（Antonmarco Catania Chairman，1997 创 GSG、2017 创 Euklis srl；Ludovico Paveri Fontana）+ 2017 新闻稿（Paveri Fontana 任 AD）+ Nedap 合作稿（CEO）",
+   "url": "https://www.ufficiocamerale.it/1127/gsg-international-srl",
+   "number": "P.IVA / CF 12178170150；REA MI-1537545",
+   "status": "Active",
+   "incorporated": "1997-06-12",
+   "company_type": "S.r.l.（私有；股本 €53,700）",
+   "sic": [
+    "安防市场增值分销（视频监控 / 门禁 / 网络；ATECO 46.52）+ 控制室服务"
+   ],
+   "address": "Piazza San Lorenzo 48, 20090 Trezzano sul Naviglio (MI)",
+   "accounts": "2024 营收 €2,374,984；净利 €308",
+   "accounts_due": "—",
+   "size_band": "小型（7 人）",
+   "officers": [
+    "Ludovico Paveri Fontana — Amministratore Delegato / CEO（2017 起；研究档 KP，ludovico.paveri@）= 拍板人 / 收件人",
+    "Antonmarco Catania — Chairman / 创始人（兼 Euklis srl）"
+   ],
+   "psc": "Catania（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**卖 barox / ComNet / Lantech 的增值分销商（CEO 直达）→ 分销 20%，B，加厚一次（small）；姊妹厂 Euklis 的贴标 30% 一句带过**：STC-2224GP / STC-4424GCPM / STI-288DGGPM / STI-488DGGPM 一页纸 + 1:1 对照其在售工业机型；净利极薄 → 强调毛利空间",
+    "收件人 ludovico.paveri@ 直呼 Ludovico；5 次打开无回复 → 二次触达换切口「a margin line beside your premium switch brands」；发信窗口 Thu 12–14 CET；稿内不点名 barox / ComNet / Lantech"
+   ],
+   "notes": "分销 20%；B；加厚一次（small）；坐实（P.IVA + REA + 营收）。",
+   "code": "SB-425"
   }
  }
 }
