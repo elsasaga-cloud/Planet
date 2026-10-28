@@ -1,0 +1,49 @@
+{
+ "code": "XA-E004",
+ "name": "Vinnergi AB",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "大型技术咨询公司（Vinnergi AB）",
+ "type_final": "大型技术咨询公司（Vinnergi AB）",
+ "size": "未量化",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "- https://www.edge-core.com/where-to-buy/emea-reseller/（2026-10-18 检索，官方渠道名录）；批次：batch/contact_research_2026-10-18_R1_官方渠道全量.json",
+   "quote": "",
+   "url": "https://vinnergi.se/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-19 发 pierre.wallgren@vinnergi.se「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-19"
+  }
+ ],
+ "contacts": {
+  "email": "info@vinnergi.se",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-19 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "大、不对口 → C",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

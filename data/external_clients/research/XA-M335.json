@@ -1,0 +1,52 @@
+{
+ "code": "XA-M335",
+ "name": "SDC B.V.",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "= XA-M267 SDC Group（SDC B.V. 同公司）；MikroTik 生态切入",
+ "type_final": "= XA-M267 SDC Group（SDC B.V. 同公司）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证",
+  "持 MikroTik 培训伙伴（官方课程表在列）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "荷兰培训伙伴，官方课程表在列。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。官网 MikroTik 品牌页明确列出销售邮箱，另有 info@sdc.nl。Doetinchem NL。 来源：[2](https://sdc.nl/brands/MikroTik)",
+   "quote": "",
+   "url": "https://sdc.nl/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-29 发 info@sdc.nl「24 Port PoE Managed Switch」，去 2 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-03"
+  }
+ ],
+ "contacts": {
+  "email": "verkoop@sdc.nl",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-29 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "同公司并线 → C",
+ "next_move": {
+  "action": "并线",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

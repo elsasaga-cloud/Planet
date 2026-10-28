@@ -1,0 +1,52 @@
+{
+ "code": "XA-M063",
+ "name": "Joost Van De Weijer",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-23 核对在线；本轮未复查",
+ "summary": "顾问（IP Techniek）；MikroTik 生态切入",
+ "type_final": "顾问（IP Techniek）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问",
+  "持 MTCRE MTCWE MTCTCE MTCINE MTCSWE MTCEWE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。持 MTCSWE 交换认证。 【2026-09-27 A260–A279联络核验】来源等级：official-company。IP Techniek官网首页正文给出Bladel地址、电话与sales@iptechniek.nl；LinkedIn显示Joost Van De Weijer任职IPtechniek.nl、所在地",
+   "quote": "",
+   "url": "https://iptechniek.nl/",
+   "date": "2026-09-23"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-01 发 sales@iptechniek.nl「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-01"
+  }
+ ],
+ "contacts": {
+  "email": "sales@iptechniek.nl",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,52 @@
+{
+ "code": "XA-M038",
+ "name": "Axbyte",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "= XA-M194 AxByte（Leo 为其官方讲师）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "= XA-M194 AxByte（Leo 为其官方讲师）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 公司内 2 人：Leo（瑞典 MikroTik 讲师）",
+  "Fredrik Hellgren（MTCSWE）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★★ Leo 自述 做了 21 年 MikroTik，是瑞典（SE）MikroTik RouterOS 官方讲师，全领域覆盖：防火墙、流量管理、switching、VLAN、CAPsMAN、IPv6、OSPF/OSPFv3/iBGP/eBGP、脚本、有线无线设计、认证培训 → 瑞典最强的个人影响力节点",
+   "quote": "",
+   "url": "https://axbyte.se/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-28 发 support@axbyte.se「(#0760910) 24 Port PoE Managed Switch」，去 1 来 1",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "leo@axbyte.se",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-28 群发「(#0760910) 24 Port PoE Managed Switch」→ 来信（(#0760910) 24 Port PoE Managed Switch），待核",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "同公司并线 → C",
+ "next_move": {
+  "action": "并线",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

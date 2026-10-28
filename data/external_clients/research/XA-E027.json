@@ -1,0 +1,42 @@
+{
+ "code": "XA-E027",
+ "name": "FiberUnlimited B.V.",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "本轮 web_search 复核在线（2026-10-27）",
+ "summary": "塑料光纤（POF）楼宇网络方案商/厂商（FiberUnlimited，Amersfoort，11–50 人；Edgecore 转售伙伴）",
+ "type_final": "塑料光纤（POF）楼宇网络方案商/厂商（FiberUnlimited，Amersfoort，11–50 人；Edgecore 转售伙伴）",
+ "size": "塑料光纤（POF）楼宇网络方案商/厂商（FiberUnlimited，Amersfoort，11–50 人；Edgecore 转售伙伴）",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "- https://www.edge-core.com/where-to-buy/emea-reseller/（2026-10-18 检索，官方渠道名录）；批次：batch/contact_research_2026-10-18_R1_官方渠道全量.json",
+   "quote": "",
+   "url": "https://fiberunlimited.com/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "info@fiberunlimited.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "自有 POF 产品的方案商，非分销 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "本轮 web_search 复核：fiberunlimited.com「Halonex® network… reseller partner of EdgeCore」。 ",
+ "deep": false,
+ "draft_en": null
+}

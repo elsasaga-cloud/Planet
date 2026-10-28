@@ -1,0 +1,56 @@
+{
+ "code": "XA-M263",
+ "name": "Michiel Visser / Connection Services",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "顾问（Connection Services，占位站）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "顾问（Connection Services，占位站）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCRE",
+  "MTCWE",
+  "MTCINE",
+  "MTCIPv6E",
+  "MTCSE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "含 MTCINE（ISP 互联）+ MTCWE（无线） 【2026-09-28 R49 复筛补录】来源等级：official-company。站点仅占位页；与 A-271 同名同人，保留不合并：connectionservices.nl 现仅单页 IPv6 连通性测试占位（含 he.net 徽章），无公司介绍/产品/服务正文；原入口 +31 6 29047127 / michiel@connectionservices.nl 保留 结论",
+   "quote": "",
+   "url": "https://connectionservices.nl/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-05 发 michiel@connectionservices.nl「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-05"
+  }
+ ],
+ "contacts": {
+  "email": "michiel@connectionservices.nl",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-05 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

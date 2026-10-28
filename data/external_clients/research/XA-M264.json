@@ -1,0 +1,51 @@
+{
+ "code": "XA-M264",
+ "name": "MikroTrain（荷兰 MikroTik 培训）",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "培训机构（MikroTrain，Zwolle）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "培训机构（MikroTrain，Zwolle）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 认证讲师（教 MTCNA→MTCINE 全部课程）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★ 荷兰 MikroTik 培训机构，教全部等级课程；也接项目支持、WiFi 测试、站点勘测、安全评估 【2026-09-28 R50 去重提示】与 A-259 （同邮箱 info@mikrotrain.nl；同域名 mikrotrain.nl） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-443 【2026-0",
+   "quote": "",
+   "url": "https://mikrotrain.nl/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-01 发 info@mikrotrain.nl「24 Port PoE Managed Switch」，去 2 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-05"
+  }
+ ],
+ "contacts": {
+  "email": "info@mikrotrain.nl",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

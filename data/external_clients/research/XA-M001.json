@@ -1,0 +1,53 @@
+{
+ "code": "XA-M001",
+ "name": "Puma Solutions ApS",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "MikroTik 分销 + 认证顾问（Puma Solutions ApS，ISP 网络 1998 起）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
+ "type_final": "MikroTik 分销 + 认证顾问（Puma Solutions ApS，ISP 网络 1998 起）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Reseller）"
+ ],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "MikroTik 渠道 + 工程",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "同时是 MikroTik 认证顾问（MTCNA+MTCRE，Stefan Andersen，stefan@pumait.dk / +45 60 709 009）：1998 年起做 ISP 网络，实战派；还设计更大的运营技术栈——仓库自动化 warehouse automation、门禁 access control、CCTV 视频监控 → 这三项全是 PoE 供电场景，交换机需求最硬。分销商身份 + 集成项目能力 + 工业/PoE 场景",
+   "quote": "",
+   "url": "https://pumait.dk/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "stefan@pumait.dk",
+  "email_status": "来源库公开邮箱",
+  "kp": [
+   {
+    "name": "Stefan Andersen",
+    "role": "MikroTik 认证顾问（MTCNA+MTCRE）",
+    "source": "来源库"
+   }
+  ]
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "DK MikroTik 分销、未触达、KP 实名 → A 首触",
+ "next_move": {
+  "action": "首触",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "DK 周四 12–14",
+  "when": "2026-11-26"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "L2+ PoE and industrial switches for your reseller channel",
+  "body": "Hi Stefan,\n\nSaga Telecom supplies network distributors with Marvell-based L2+ PoE switches and Centec-based L3 10G/25G/100G switches, under our label or the distributor's own, CE. Two lines that usually interest MikroTik and WISP channels:\n\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).\n- STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould either line be relevant for the ISPs you supply, or is switching outside what Puma stocks?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

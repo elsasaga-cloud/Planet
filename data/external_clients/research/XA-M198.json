@@ -1,0 +1,45 @@
+{
+ "code": "XA-M198",
+ "name": "OEM Automatic AB",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-29 核对在线；本轮未复查",
+ "summary": "OEM Automatic 集团总部（瑞典上市集团）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍；北欧工业零部件大分销、自有品牌 → OEM 最优先",
+ "type_final": "OEM Automatic 集团总部（瑞典上市集团）",
+ "size": "未量化",
+ "brands_seen": [
+  "N-Tron",
+  "Red Lion"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "波兰分公司已在名单第73行，有真实联系人：+48 22 863 27 22 / info@oemautomatic.pl（Antaira 授权）→ 从华沙打进去一次覆盖 SE/PL/CZ 【关联】同集团另一实体：OEM AUTOMATIC Sp. z o.o.（波兰）（oemautomatic.pl）【2026-09-29 R59 资产池审核降级】★★★→★★:OEM Automatic 瑞典壳,仅官网联系页;集团主档保留但触达面限于官",
+   "quote": "",
+   "url": "https://oemautomatic.se/",
+   "date": "2026-09-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@oemautomatic.pl",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "集团型技术分销，统一从华沙入口 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

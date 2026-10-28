@@ -1,0 +1,51 @@
+{
+ "code": "XA-M261",
+ "name": "Maurice van der Grijspaarde / GPE Networks",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "= XA-M062 GPE Networks（同人同邮箱）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "= XA-M062 GPE Networks（同人同邮箱）",
+ "size": "= XA-M062 GPE Networks（同人同邮箱）",
+ "brands_seen": [
+  "MikroTik 认证顾问 10 证全拿"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★ 10 证全拿；2015 年起专职 MikroTik，专做复杂场景方案 【2026-09-28 R50 去重提示】与 A-260 （同邮箱 info@gpe-networks.com；同域名 gpe-networks.com） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-440",
+   "quote": "",
+   "url": "https://gpe-networks.com/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-01 发 info@gpe-networks.com「24 Port PoE Managed Switch」，去 2 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-10"
+  }
+ ],
+ "contacts": {
+  "email": "info@gpe-networks.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "重复 → C 并线",
+ "next_move": {
+  "action": "并线",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

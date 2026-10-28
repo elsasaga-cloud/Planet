@@ -1,0 +1,52 @@
+{
+ "code": "XA-M325",
+ "name": "BRS Networks AB",
+ "round": "W2-R05a",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "光纤网络方案商（BRS Networks，SE/DK/DE）；Marvell 接入层生态切入",
+ "type_final": "光纤网络方案商（BRS Networks，SE/DK/DE）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）",
+  "Fortinet"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "光纤网络方案商，业务覆盖瑞典、丹麦、德国 —— 北欧+德语区三地经营。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。公司 Facebook 公开邮箱、Visby 地址和电话相符。邮箱公开列出，未做投递测试。 来源：[3](https://www.facebook.com/brsnetworks/)",
+   "quote": "",
+   "url": "https://brsnetworks.se/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-29 发 info@brsnetworks.se「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@brsnetworks.se",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-29 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "方案商非渠道 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}
