@@ -95,6 +95,22 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 96 批（US · 1 次检索：bizapedia（ROCSTOR, INC.；2002-03-07 成立；登记代理人 David Ghadoushi）+ SAM 镜像 opengovus（Rocstor, Inc.；12979 Arroyo St 2nd Floor, San Fernando CA 91340；S Corporation；Manufacturer of Goods；高管 David Ghadoushi / Sharon Hannon）+ rocstor.com/about（2000 年创立；存储 / 加密 / 认证）+ rocstor.com/contact（12979 Arroyo St, 2F）+ YouTube 简介（1,500+ SKU 含网络交换机 / 机柜 / 充电车）+ RocketReach（President David Ghadoushi；5 人；$6M 第三方估）+ allbiz（约 20 人；$3M 级），2026-10-28 查；https://opengovus.com/sam-entity/K79NXW8ZGNK4）：**
+
+- 法定名 / 登记号：Rocstor, Inc.（rocstor.com；San Fernando CA）— 存储 / 网络配件自有品牌，老板 = 研究档 KP · CA 公司（SoS 号未取；SAM UEI K79NXW8ZGNK4） · 状态 **Active（SAM 在册）** · 成立 2002-03-07（业务 2000） · S Corporation（加州；创始人持有）
+- 行业码 / 经营范围：加密存储 / 扩展坞 / 机柜 / 网络交换机自有品牌（Rocstor）+ 政府采购（SAM）
+- 注册地址：12979 Arroyo St, 2F, San Fernando, CA 91340
+- 规模档：小型（5–20 人；$3–6M 第三方估）
+- 账目：—；—
+- 高管：David Ghadoushi — President / CEO / 登记代理人（= 研究档 KP david@rocstor.com 本人 = 老板）
+- 高管：Sharon Hannon — SAM 登记高管
+- 控制人 / 股东：David Ghadoushi（推定）
+- **这意味着什么：**
+  - **老板本人就是研究档 KP**，自有品牌已含网络交换机（贴标）→ **OEM 30%**：商用 PoE 全系贴 Rocstor 标，一页纸直接写老板
+  - SAM 在册 = 做政府单 → 会问 NDAA / TAA（我方禁词，不配合）→ 只谈商用 / 教育渠道一条线，不碰政府标
+  - 发信窗口 Wed 08–10 PT
+- 备注：CA SoS 号未取（bizfile JS）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -137,15 +153,18 @@ updated: 2026-10-28
 - **【用户表】一部分贴牌的商业 PoE**
   > 一部分贴牌的商业PoE 其他周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：David Ghadoushi（）david@rocstor.com 〔用户表〕
+- **KP**：David Ghadoushi（President / CEO / 加州登记代理人 / SAM 登记高管 = **老板 = 研究档 KP 本人**（第 96 批 官方登记核实 2026-10-28））david@rocstor.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 rocstor.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Rocstor, Inc.（加州 S Corporation；SAM UEI K79NXW8ZGNK4；CA SoS 号未取） |
+| 成立 | 2002-03-07（业务 2000）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 12979 Arroyo St, 2F, San Fernando, CA 91340 |
+| 人数 | 5–20 人；$3–6M（第三方） |
+| 其他 | 官网 rocstor.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 96 批：自有品牌 1,500 SKU 已含网络交换机 → OEM 30% 直接写老板；SAM 政府供应商会问 NDAA / TAA（禁词）→ 只谈商用 / 教育渠道（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：存储 / 机柜 / 配件（自有品牌 Rocstor）；贴标商用 PoE（副线）
 - **触达通道（公开）**：role: 美国 IT 配件品牌（部分贴标 PoE，OEM 采购）；region: 美国；contact: info@rocstor.com、david@rocstor.com
@@ -236,7 +255,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| David Ghadoushi | — | david@rocstor.com | 调研核实（公开页） | 用户表 |
+| David Ghadoushi | President / CEO / 加州登记代理人 / SAM 登记高管 = **老板 = 研究档 KP 本人**（第 96 批 官方登记核实 2026-10-28） | david@rocstor.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

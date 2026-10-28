@@ -1,6 +1,6 @@
 # sensoguard.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-1073`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　以色列　|　档案编号 `SB-1073`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：周界安防系统商（美国，民用项目口径）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,8 +9,9 @@ code: SB-1073
 rating: B
 rating_auto: B
 score: 25
-country: 美国
-region: 北美
+country: 以色列
+country_table: 美国  # 表内原填；调研纠正为 以色列（research JSON country_fix）
+region: 中东
 website: sensoguard.com
 type: 周界安防系统商（美国，民用项目口径）
 tier_tags: ["AI评估(US)"]
@@ -75,17 +76,32 @@ updated: 2026-10-28
 
 - `sensoguard.com` → Microsoft 365（MX：sensoguard-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（以色列 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
-- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+- 窗口内无该国法定假日
+
+**公司底数 · 第 96 批（IL · 1 次检索：sensoguard.com/about（2012 年创立；以色列国防军 / 全球军方地震安防承包商；CEO Tomer Levy（前 Rafael 20 年）；COO Ronen Amitai；总部 HaHaruv St, Modi'in Region Industrial Park, Shoham）+ contactout（SensoGuard Ltd.；Product Manager Ido Oriane = 研究档 KP；11–50 人）+ Tracxn（10 人）+ Frost & Sullivan 2021（以色列国防部承包商；20+ 国）+ Justia 专利（SENSOGUARD LTD.，发明人 Tomer Levy），2026-10-28 查；https://sensoguard.com/about）：**
+
+- 法定名 / 登记号：SensoGuard Ltd.（sensoguard.com；Shoham / Modi'in，以色列）— 地震波周界安防，国防承包商 → 守界 · 以色列 ח.פ. 未取（israeli-companies 按名需二查，守界不追） · 状态 **Active** · 成立 2012 · Ltd.（以色列）
+- 行业码 / 经营范围：地埋地震波周界探测系统（军方 / 国防部 / 关键基础设施）
+- 注册地址：1 HaHaruv St, Modi'in Region Industrial Park, Shoham, Israel
+- 规模档：小型（10–13 人；$6M 级第三方估）
+- 账目：—；—
+- 高管：Tomer Levy — CEO / CTO / 联合创始人（研究档 KP tomer@）
+- 高管：Ronen Amitai — COO / 联合创始人
+- 高管：Ido Oriane — Product Manager（研究档 KP ido@）
+- 控制人 / 股东：创始人（未取）
+- **这意味着什么：**
+  - **国别更正：美国 → 以色列**；主业 = 军方 / 国防部地震安防 → **守界（军工 PASS）→ B 不动、不发**
+  - 记档价值：知道它为什么不回信（国防承包商不会向无认证小贸易商采购）
+- 备注：country_fix 以色列；不再查。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | sensoguard.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 以色列 | 事实（用户表）|
 | 网站/域名 | sensoguard.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 周界安防系统商（美国，民用项目口径） | 推断（据兴趣/备注关键词） |
 | 联系人 | Tomer Levy  CEO & CTO / Ido Oriane Product Manager | 事实（用户表） |
@@ -106,16 +122,19 @@ updated: 2026-10-28
 - **【官网快照】SensoGuard 定位**
   > Underground Seismic Perimeter Security | SensoGuard ; SensoGuard is a technology-focused company specializing in innovative seismic security systems solutions ; From Borders to Private Properties ; Solar Farm ; Remote Sites
   > 来源：https://sensoguard.com/（抓取 2026-10-21）
-- **KP**：Ido Oriane（）ido@sensoguard.com 〔用户表〕
-- **KP**：Tomer Levy（）tomer@sensoguard.com 〔用户表〕
+- **KP**：Ido Oriane（Product Manager —— 守界：不发（第 96 批 官方登记核实 2026-10-28））ido@sensoguard.com 〔用户表〕
+- **KP**：Tomer Levy（CEO / CTO / 联合创始人（前 Rafael 20 年）—— 守界：不发（第 96 批 官方登记核实 2026-10-28））tomer@sensoguard.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 sensoguard.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | SensoGuard Ltd.（以色列；ח.פ. 未取） |
+| 成立 | 2012（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1 HaHaruv St, Modi'in Region Industrial Park, Shoham, Israel |
+| 人数 | 10–13 人 |
+| 其他 | 官网 sensoguard.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 96 批：国别更正美国 → 以色列；以色列国防军 / 国防部地震波周界承包商 = 军工守界 → B 不动、不发（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：地震波周界安防系统（自有品牌 SensoGuard）
 - **触达通道（公开）**：role: 周界安防系统商（美国，民用项目口径）；region: 美国；contact: tomer@sensoguard.com、ido@sensoguard.com
@@ -193,8 +212,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ido Oriane | — | ido@sensoguard.com | 调研核实（公开页） | 用户表 |
-| Tomer Levy | — | tomer@sensoguard.com | 调研核实（公开页） | 用户表 |
+| Ido Oriane | Product Manager —— 守界：不发（第 96 批 官方登记核实 2026-10-28） | ido@sensoguard.com | 调研核实（公开页） | 用户表 |
+| Tomer Levy | CEO / CTO / 联合创始人（前 Rafael 20 年）—— 守界：不发（第 96 批 官方登记核实 2026-10-28） | tomer@sensoguard.com | 调研核实（公开页） | 用户表 |
 | Tomer Levy  CEO & CTO | — | tomer@sensoguard.com / ido@sensoguard.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -230,8 +249,8 @@ updated: 2026-10-28
 
 ## SWOT
 
-- **S**：北美主攻区，复购与口碑可外溢
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
+- **S**：名单内已有联系记录，不是零起点
+- **W**：中东：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STI-154GP 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 

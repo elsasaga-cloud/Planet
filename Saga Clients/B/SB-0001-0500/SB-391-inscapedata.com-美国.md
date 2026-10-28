@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -92,6 +92,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 96 批（US · 1 次检索：cacompanyregistry（INSCAPE DATA CORPORATION；CA 公司号 2438912；2004-02-11 注册；Active；2012 Hartog Court, San Jose CA 95131；Agent David D Lin）+ LinkedIn（2004-02 创立；11–50 人；San Jose；户外 Gigabit PoE 交换机 / 无线 / IP 视频制造商）+ Silicon Review 2023（创始人 David D Lin = CEO / CTO）+ 2006 通讯（Inscape International Co., Ltd 台北 = 关联公司）+ Enterprise Viewpoint 2025（LinkPower 户外 PoE 自 2009）+ Manta（10–19 人；Principal David D Lin），2026-10-28 查；https://www.cacompanyregistry.com/Agent/DAVID+D+LIN/）：**
+
+- 法定名 / 登记号：Inscape Data Corporation（inscapedata.com / PoEsuperstore.com；San Jose CA）— 户外 PoE 交换机 / 无线自有品牌制造商（台湾 Inscape International 同门） · California SoS 2438912 · 状态 **Active** · 成立 2004-02-11 · Corporation（加州；创始人持有；台北关联公司 Inscape International）
+- 行业码 / 经营范围：户外 IP68 PoE 交换机（LinkPower）/ 无线桥接 / IP 视频自有品牌制造 + PoEsuperstore 网店（商用 PoE 转售）
+- 注册地址：2012 Hartog Court, San Jose, CA 95131（旧址 1611 South Main Street, Milpitas）
+- 规模档：小型（10–19 人）
+- 账目：—；—
+- 高管：David D Lin — Founder / CEO / CTO / 登记代理人（老板；华人姓名）
+- 高管：Sergio F. / Juan Moncada — 研究档 KP（PoEsuperstore 销售口）
+- 控制人 / 股东：David D Lin（推定）
+- **这意味着什么：**
+  - 户外 IP68 PoE 是其自产主线（Saga 守界 IP67 不碰）；**PoEsuperstore 网店卖的室内商用 PoE 才是切口 → 分销 20% / 贴标 OEM 30% 一条线**
+  - 老板 David D Lin 华人 + 台北关联公司 = 已有亚洲货源 → 低概率；研究档 KP 是网店销售，若发只写一页纸
+  - 发信窗口 Wed 08–10 PT；不加厚
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,18 +143,20 @@ updated: 2026-10-27
 - **【用户表】工业 FS MC PoE 配件 SFP 10G 大口；店铺 PoEsuperstore.com**
   > 兴趣：工业FS MC PoE配件 SFP 10G大口 他们的店铺 https://www.PoEsuperstore.com/
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Sergio F.（）sergio.fe@inscapedata.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Sergio F.（研究档 KP（PoEsuperstore 网店销售口）= 收件人（第 96 批 官方登记核实 2026-10-28））sergio.fe@inscapedata.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Juan Moncada（）juan.moncada@inscapedata.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：David D Lin（Founder / CEO / CTO / 加州登记代理人（CA SoS 2438912）= 老板（华人；台北关联公司 Inscape International）= 抄送公域（第 96 批 官方登记核实 2026-10-28）） 〔https://www.cacompanyregistry.com/Agent/DAVID+D+LIN/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Inscape Data Corporation |
-| 成立 | 2004 |
-| 总部/地址 | San Jose, CA, USA |
-| 其他 | PoEsuperstore.com |
+| 法定名称 | Inscape Data Corporation（California SoS 2438912） |
+| 成立 | 2004-02-11（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 2012 Hartog Court, San Jose, CA 95131 |
+| 人数 | 10–19 人 |
+| 其他 | PoEsuperstore.com；第 96 批：自产户外 IP68 PoE 交换机（守界不碰）+ PoEsuperstore 室内商用 PoE 网店 → 只做室内线分销 20% / 贴标 30% 试探；老板华人 + 台湾货源 → 低概率、不加厚（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：室外 / 工业 PoE 交换机（自有品牌）；PoE 配件 / SFP 电商
 - **触达通道（公开）**：role: 品牌商 + 电商（OEM 采购）；region: 美国
@@ -254,8 +271,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sergio F. | — | sergio.fe@inscapedata.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Sergio F. | 研究档 KP（PoEsuperstore 网店销售口）= 收件人（第 96 批 官方登记核实 2026-10-28） | sergio.fe@inscapedata.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Juan Moncada | — | juan.moncada@inscapedata.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| David D Lin | Founder / CEO / CTO / 加州登记代理人（CA SoS 2438912）= 老板（华人；台北关联公司 Inscape International）= 抄送公域（第 96 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.cacompanyregistry.com/Agent/DAVID+D+LIN/ |
 | Patricia G | — | juan.moncada@inscapedata.com / sales@inscapedata.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -350,12 +368,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

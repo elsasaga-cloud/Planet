@@ -89,6 +89,23 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 96 批（TR · 1 次检索：gmtcontrol.com/en/about-us（GMT Endüstriyel Elektronik San. ve Tic. A.Ş.；2014 创立；土耳其第一家工业 PLC 制造商；100% 自有设计 / 本土生产；GMTCNT 注册商标；PLC / HMI / 变频 / 伺服 / 电源 / 工业通讯产品）+ /contact（Çubuklu Mah. Boğaziçi Cad. Boğaziçi Plaza No:6/B 34805 Beykoz；gmt@gmtcontrol.com）+ LinkedIn（51–200 人；2014；Abdullah Aydın = Project Manager）+ RocketReach（40 人；$7.9M 第三方估）+ KVKK 文本（数据控制人 A.Ş.），2026-10-28 查；https://gmtcontrol.com/en/about-us/）：**
+
+- 法定名 / 登记号：GMT Endüstriyel Elektronik San. ve Tic. A.Ş.（gmtcontrol.com；Beykoz / İstanbul）— 土耳其首家国产 PLC 制造商 GMTCNT · MERSİS 未取（Ltd. Şti. → A.Ş.） · 状态 **Active（官网 2026 更新）** · 成立 2014 · Anonim Şirketi（原 Ltd. Şti.）
+- 行业码 / 经营范围：26.51 工业 PLC / HMI / 变频 / 伺服 / 工业通讯产品设计制造（GMTCNT 品牌）
+- 注册地址：Çubuklu Mah. Boğaziçi Cad. Boğaziçi Plaza No:6/B, 34805 Beykoz / İstanbul
+- 规模档：小型（40–100 人；$8M 级第三方估）
+- 账目：—；—
+- 高管：Abdullah Aydın — Project Manager（研究档 KP；嵌入式硬件背景）
+- 高管：Muhammet Yasin Aktepe — İstanbul Anadolu 区域经理
+- 高管：Ahmet Ulusan — 区域销售经理
+- 控制人 / 股东：未取
+- 曾用名：GMT Endüstriyel Elektronik San. ve Tic. Ltd. Şti.
+- **这意味着什么：**
+  - **自产 PLC、产品目录含「工业通讯产品」但不自产交换机 → 工业以太网 / DIN 导轨 PoE 贴 GMTCNT 标 = OEM 30% 正解**（STI-054GP / STI-144GP / STI-288DGGPM）
+  - 研究档 KP 是项目经理（技术），贴牌拍板在产品 / 采购 → 写 Abdullah Aydın + 抄 gmt@ 点名「ürün yönetimi」
+  - 发信窗口 Thu 10–12 TRT；一个问题：现有工业交换机配套来源 / 年量？
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,15 +153,18 @@ updated: 2026-10-28
 - **【用户表】自有 logo 工业 FS；Uotek 的**
   > 工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www.uotek.com/product-73.html
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Abdullah Aydın（）abdullahaydin@gmtcontrol.com 〔用户表〕
+- **KP**：Abdullah Aydın（Project Manager（LinkedIn；嵌入式硬件背景）= 技术口 = 收件人，抄 gmt@ 点名「ürün yönetimi」（第 96 批 官方登记核实 2026-10-28））abdullahaydin@gmtcontrol.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 gmtcontrol.com，语言 tr-TR，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | GMT Endüstriyel Elektronik San. ve Tic. A.Ş.（原 Ltd. Şti.；MERSİS 未取） |
+| 成立 | 2014（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Çubuklu Mah. Boğaziçi Cad. Boğaziçi Plaza No:6/B, 34805 Beykoz / İstanbul |
+| 人数 | 40–100 人；$8M 级（第三方） |
+| 其他 | 官网 gmtcontrol.com，语言 tr-TR，快照状态 ok；角色判定来源：用户表；第 96 批：土耳其首家国产 PLC 制造商（GMTCNT），目录含工业通讯产品但不自产交换机 → 工业以太网 / DIN 导轨 PoE 贴 GMTCNT 标 = OEM 30% 正解（STI-054GP / STI-144GP / STI-288DGGPM）（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：PLC / HMI / 驱动 / 电源（自有品牌 GMTCNT）；工业通信（自有标交换机，Uotek 代工）
 - **触达通道（公开）**：role: 土耳其 PLC 制造商（自有标工业 FS，现 Uotek）；region: 土耳其；contact: gmt@gmtcontrol.com、abdullahaydin@gmtcontrol.com
@@ -240,7 +260,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Abdullah Aydın | — | abdullahaydin@gmtcontrol.com | 调研核实（公开页） | 用户表 |
+| Abdullah Aydın | Project Manager（LinkedIn；嵌入式硬件背景）= 技术口 = 收件人，抄 gmt@ 点名「ürün yönetimi」（第 96 批 官方登记核实 2026-10-28） | abdullahaydin@gmtcontrol.com | 调研核实（公开页） | 用户表 |
 | Uotek | — | gmt@gmtcontrol.com / abdullahaydin@gmtcontrol.com | 用户表原值 | Clients/ 表 |
 | Abdullah Aydin | — | gmt@gmtcontrol.com / abdullahaydin@gmtcontrol.com | 用户表原值 | Clients/ 表 |
 

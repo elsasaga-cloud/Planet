@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -90,6 +90,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 96 批（GB · 1 次检索：Companies House 14430734（IDOME LIMITED；2022-10-19 注册；23 Minterne Avenue, Southall UB2 4HW；Active；账目至 2025-10-31 应于 2026-07-31 递交）+ idome.uk/about_us（CCTV / 智能家居安防批发零售 + 安装；32 King Street / Barge Drive, Southall）+ Trustpilot 2.2 分 + eBay 店 iDOME SECURITY SOLUTIONS，2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/14430734）：**
+
+- 法定名 / 登记号：IDOME LIMITED（idome.uk；Southall, London）— 微型 CCTV 网店 / eBay 批发 · Companies House 14430734 · 状态 **Active（账目 2025-10-31 期应 2026-07-31 递交 —— 是否逾期待核）** · 成立 2022-10-19 · Private limited company（微型）
+- 行业码 / 经营范围：47 CCTV / 报警 / 智能锁网店 + eBay 批发 + 安装
+- 注册地址：23 Minterne Avenue, Southall UB2 4HW（门店 32 King Street, Southall UB2 4DB）
+- 规模档：微型
+- 账目：微型（Micro-entity）；2026-07-31（2025-10-31 期）
+- 高管：董事未取（Companies House officers 页未抓）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - 2022 年新注册微型网店、Trustpilot 2.2 分 → 分销 20% 只给一页纸，先款后货，不投第 2 封
+  - 发信窗口 Thu 12–14 GMT
+- 备注：officers 未取；不加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,8 +152,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 idome.uk，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | IDOME LIMITED（Companies House 14430734） |
+| 成立 | 2022-10-19（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 23 Minterne Avenue, Southall UB2 4HW（门店 32 King Street, Southall UB2 4DB） |
+| 人数 | 微型 |
+| 其他 | 官网 idome.uk，语言 en，快照状态 ok；角色判定来源：用户表；第 96 批：2022 新注册微型 CCTV 网店 / eBay 批发，Trustpilot 2.2 分；账目 2025-10-31 期应 2026-07-31 递交（是否逾期待核）→ 分销 20% 一页纸、先款后货、不投第 2 封（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 报警 / 门禁网店（自有标摄像机）；配件：PoE 交换机 / 线缆
 
@@ -336,12 +353,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

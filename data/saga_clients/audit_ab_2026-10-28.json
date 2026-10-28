@@ -4068,7 +4068,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-092": {
@@ -4310,7 +4310,7 @@
    "p1": "STI-288GP",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-1002": {
@@ -6031,8 +6031,8 @@
   },
   "SB-1073": {
    "grade": "B",
-   "iso": "US",
-   "country": "美国",
+   "iso": "IL",
+   "country": "以色列",
    "facts": 3,
    "in": 0,
    "out": 3,
@@ -6141,8 +6141,8 @@
   },
   "SB-1078": {
    "grade": "B",
-   "iso": "US",
-   "country": "美国",
+   "iso": "CA",
+   "country": "加拿大",
    "facts": 5,
    "in": 0,
    "out": 5,
@@ -6158,7 +6158,7 @@
    "p1": "STI-288GPM",
    "tier": 20,
    "signals": 3,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1079": {
@@ -9062,7 +9062,7 @@
    "p1": "STI-280GE",
    "tier": 20,
    "signals": 3,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-179": {
@@ -13748,7 +13748,7 @@
    "p1": "STI-488XGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-392": {
@@ -15090,7 +15090,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-453": {
@@ -20040,7 +20040,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-678": {
@@ -23626,7 +23626,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-841": {

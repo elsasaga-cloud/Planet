@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,6 +84,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 96 批（PL · 1 次检索：media-konwertery.pl Dane rejestrowe（INTER-COMP.PL KOWALSKI sp. z o.o.；ul. Dworcowa 36a/9, 86-010 Koronowo；KRS 0001157117；NIP 5543033437；REGON 540999936）+ rejestr.io/krs/1157117（2025-02-25 登记；资本 50 tys zł；Prezes Marek Stefan Kowalski；股东 Tomasz Kowalski 450 udziałów（2025-05-22 起）+ Marek 50）+ imsig（PKD 47.41.Z）+ 前身 CEIDG Inter-Comp.Pl Marek Kowalski（NIP 9670386414；2003 起），2026-10-28 查；https://rejestr.io/krs/1157117/inter-comp-pl-kowalski）：**
+
+- 法定名 / 登记号：INTER-COMP.PL KOWALSKI sp. z o.o.（media-konwertery.pl；Koronowo）— 2025 新公司化的父子网店 · KRS 0001157117（NIP 5543033437；REGON 540999936） · 状态 **Aktywna** · 成立 2025-02-25（前身 CEIDG 2003） · Sp. z o.o.（资本 50 tys zł；Kowalski 父子）
+- 行业码 / 经营范围：47.41.Z 网络设备 / 光纤收发器网店零售
+- 注册地址：ul. Dworcowa 36a/9, 86-010 Koronowo
+- 规模档：微型
+- 账目：—（新公司）；—
+- 高管：Marek Stefan Kowalski — Prezes Zarządu（研究档 KP；10%）
+- 高管：Tomasz Kowalski — 股东 90%（2025-05-22 起 = 接班人）
+- 控制人 / 股东：Tomasz Kowalski（90%）
+- 曾用名：Inter-Comp.Pl Marek Kowalski（CEIDG）
+- **这意味着什么：**
+  - 微型网店，MC / 光口交换机一条线 → 分销 20% 一页纸即止（STC-110XGE 等光口型号）
+  - 2025 起儿子持股 90% → 收件人写 Marek、抄公域，让接班人看到
+  - 发信窗口 Thu 12–14 CET
+- 备注：不加厚。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - 24,21 zł ← 「M2 (50/125um) duplex 2m 24,21 zł zoom Ilość: Kup teraz PLANET IGUP-1205AT (2x SFP, 1xRJ45 PoE 802」（https://media-konwertery.pl/）
@@ -127,16 +144,18 @@ updated: 2026-10-27
 - **【公司自述】法人与地址**
   > INTER-COMP.PL KOWALSKI sp. z o.o., ul. Pogodna 13, 86-010 Koronowo（页脚/联系页，检索摘要）
   > 来源：https://www.media-konwertery.pl/（抓取 2026-10-19）
-- **KP**：Marek Kowalski（） +48 52 511-88-33〔https://www.media-konwertery.pl/〕
+- **KP**：Marek Kowalski（Prezes Zarządu（KRS 0001157117；10%）= 收件人；儿子 Tomasz Kowalski 持股 90%（2025-05-22 起）= 接班人、抄公域（第 96 批 官方登记核实 2026-10-28）） +48 52 511-88-33〔https://www.media-konwertery.pl/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-017，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl) |
-| 总部/地址 | Koronowo, 波兰 |
-| 其他 | Planet 渠道档案 PB-017（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；是否经 FEN/ACTION 进货 |
+| 法定名称 | INTER-COMP.PL KOWALSKI sp. z o.o.（KRS 0001157117；NIP 5543033437；REGON 540999936；前身 CEIDG Inter-Comp.Pl Marek Kowalski 2003 起） |
+| 成立 | 2025-02-25（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Dworcowa 36a/9, 86-010 Koronowo |
+| 人数 | 微型 |
+| 其他 | Planet 渠道档案 PB-017（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；是否经 FEN/ACTION 进货；第 96 批：父子微型网店（MC / 光口）→ 分销 20% 一页纸即止（STC-110XGE 等光口型号）（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）
 
@@ -226,7 +245,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marek Kowalski | — | +48 52 511-88-33 | 调研核实（公开页） | https://www.media-konwertery.pl/ |
+| Marek Kowalski | Prezes Zarządu（KRS 0001157117；10%）= 收件人；儿子 Tomasz Kowalski 持股 90%（2025-05-22 起）= 接班人、抄公域（第 96 批 官方登记核实 2026-10-28） | +48 52 511-88-33 | 调研核实（公开页） | https://www.media-konwertery.pl/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -320,12 +339,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 42）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 42）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

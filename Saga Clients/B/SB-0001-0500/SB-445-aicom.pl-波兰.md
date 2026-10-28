@@ -79,6 +79,25 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 96 批（PL · 1 次抓取 rejestr.io/krs/654397（KRS 0000654397；NIP 6782913975；REGON 356808516；Dobrego Pasterza 36A, 31-416 Kraków；sp. k. 2016-12-22 登记（前身更早）；数据截至 2026-09-30 第 37 次登记；komplementariusze Jerzy Piłat + Adam Popiołek（2026-09-30 起均可单独代表）；komandytariusz Iwona Popiołek（2020-02-19 起）；受益所有人含 Adam Popiołek；VAT czynny；**2025 财报：营收 86.7 mln zł / 资产 61.5 mln / 净利 8.9 mln**；主业批发 46 + 生产 26/27；自述波兰布线系统市场领导者、全国巡回会议），2026-10-28 查；https://rejestr.io/krs/654397/aicom）：**
+
+- 法定名 / 登记号：A-LAN TECHNOLOGIE POPIOŁEK, PIŁAT SPÓŁKA KOMANDYTOWA（a-lan.pl / aicom；Kraków）— 波兰综合布线龙头，2025 营收 86.7 mln zł · KRS 0000654397（NIP 6782913975；REGON 356808516） · 状态 **Aktywna（2026-09-30 更名 / 代表权变更）** · 成立 2016-12-22（sp. k.） · Spółka komandytowa（Popiołek / Piłat 家族）
+- 行业码 / 经营范围：46.52.Z 布线系统 / 网络设备批发 + 26/27 生产（自有品牌 A-LANTEC 等）
+- 注册地址：ul. Dobrego Pasterza 36A, 31-416 Kraków
+- 规模档：中型（布线龙头）
+- 账目：2025：营收 86.7 mln zł / 净利 8.9 mln / 资产 61.5 mln（rejestr.io 摘要）；—
+- 高管：Adam Popiołek — komplementariusz / 受益所有人（2026-09-30 起单独代表）
+- 高管：Jerzy Piłat — komplementariusz（单独代表）
+- 高管：Iwona Popiołek — komandytariusz
+- 高管：Marcin Buczak — 研究档 KP（marcin.buczak@a-lan.pl）
+- 控制人 / 股东：Adam Popiołek + Jerzy Piłat
+- 曾用名：A-LAN Technologie Sp. z o.o. Sp.k.（第 95 批 SB-906 并线至此）
+- **这意味着什么：**
+  - **补项完成（第 95 批遗留）**：自有品牌布线龙头、2025 净利 8.9 mln zł → **B BIG；分销 20% 起、贴标 OEM 30% 为目标**（商用 PoE 贴 A-LANTEC 标，配其布线项目）
+  - 2026-09-30 刚变更合伙人 / 代表权 → 近期决策层在动，写 Marcin Buczak 一页纸 + 点名产品管理，不提财报
+  - 发信窗口 Thu 12–14 CET
+- 备注：SB-906 已并线至此。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,15 +140,18 @@ updated: 2026-10-28
 - **【用户表】在用国内的；着重跟**
   > 在用国内的；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marcin Buczak（）marcin.buczak@a-lan.pl 〔用户表〕
+- **KP**：Marcin Buczak（研究档 KP = 收件人（点名产品管理）；合伙人 Adam Popiołek / Jerzy Piłat 单独代表（2026-09-30 起）（第 96 批 官方登记核实 2026-10-28））marcin.buczak@a-lan.pl 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 aicom.pl，语言 pl，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | A-LAN TECHNOLOGIE POPIOŁEK, PIŁAT SPÓŁKA KOMANDYTOWA（KRS 0000654397；NIP 6782913975；REGON 356808516） |
+| 成立 | 2016-12-22（sp. k.；前身更早）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Dobrego Pasterza 36A, 31-416 Kraków |
+| 人数 | 中型；2025 营收 86.7 mln zł / 净利 8.9 mln / 资产 61.5 mln（rejestr.io） |
+| 其他 | 官网 aicom.pl，语言 pl，快照状态 ok；角色判定来源：官网文案；第 96 批（补第 95 批遗留）：波兰布线龙头、自有品牌 → B BIG；分销 20% 起、贴标 OEM 30% 为目标；SB-906 Avizio 已并线至此；2026-09-30 合伙人 / 代表权刚变更 → 一页纸不提财报（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV IP 系统 / LAN 布线（自有品牌 A-LAN）；在线批发平台 AICOM
 - **触达通道（公开）**：role: 布线/CCTV 自有品牌批发商（波兰，用户标「着重跟」）；region: 波兰；contact: marcin.buczak@a-lan.pl
@@ -222,7 +244,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marcin Buczak | — | marcin.buczak@a-lan.pl | 调研核实（公开页） | 用户表 |
+| Marcin Buczak | 研究档 KP = 收件人（点名产品管理）；合伙人 Adam Popiołek / Jerzy Piłat 单独代表（2026-09-30 起）（第 96 批 官方登记核实 2026-10-28） | marcin.buczak@a-lan.pl | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

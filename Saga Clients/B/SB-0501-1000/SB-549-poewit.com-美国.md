@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -81,6 +81,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 96 批（US · 1 次检索：LinkedIn 公司页（Fort Lauderdale；11–50 人；Founded 2018；电器 / 电子制造）+ LinkedIn 人物页（Dusan Jankov = Co-Founder & Co-CEO，2018-02 起；此前 Pakedge Device & Software 联合创始人 / CTO 2003–2018）+ CEPro 2021-03（Victor Pak + Dusan Jankov + Steve Latham 自筹创办；云管理 PoE 照明 / UPS / 墙面开关；Pakedge 2016 被 Control4 收购）+ poewit.com（两位创始人 40+ 年定制电子渠道经验）+ ZoomInfo（3301 S Andrews Ave Ste 5, Fort Lauderdale FL 33316；<$5M）+ FCC 授权码 2A24W（PoEWit Technologies Inc，Dusan Jankov）+ portal.poewit.com/contactus（sales@poewit.com），2026-10-28 查；https://www.linkedin.com/company/poewit）：**
+
+- 法定名 / 登记号：PoEWit Technologies Inc.（poewit.com；Fort Lauderdale FL）— 前 Pakedge 创始人的 PoE 智能家居品牌 · FL 登记号未取（Sunbiz ✗；FCC Grantee 2A24W） · 状态 **Active（CEDIA 2025 展商）** · 成立 2018-02 · Inc.（佛州；创始人自筹）
+- 行业码 / 经营范围：PoE 智能家居 / 商用照明、UPS、PoE 交换机自有品牌（定制安装渠道 CEDIA）
+- 注册地址：3301 S Andrews Ave, Suite 5, Fort Lauderdale, FL 33316
+- 规模档：小型（11–50 人；<$5M）
+- 账目：—；—
+- 高管：Dusan Jankov — Co-Founder / Co-CEO（= 研究档 KP dusan@poewit.com 本人 = 拍板人）
+- 高管：Victor Pak — Co-Founder / Co-CEO（2020 起）
+- 高管：Steve Latham — 联合创始人（2021 报道）
+- 控制人 / 股东：Pak + Jankov（推定）
+- **这意味着什么：**
+  - **研究档 KP 就是联合创始人 / Co-CEO**，且产品线本身就是「PoE 供电一切」→ PoE 交换机是其系统心脏、必然外采贴标 → **OEM 30% 首选**：STC-028GP / STC-228GP / STC-2224GP 贴 PoEWit 标，强调 802.3bt 大功率与中性包装
+  - 警惕：其交换机走自家云管理 → 若要求云固件 = 工厂级 ODM（Saga 不做）；先谈「标准管理型 PoE + 他们的云盒旁挂」
+  - 创始人曾把 Pakedge 卖给 Control4 = 懂代工、懂谈判 → 价格直接给到位，一个问题：现用 PoE 交换机的功率预算 / 交期？发信窗口 Wed 08–10 ET
+- 备注：Sunbiz ✗；FL 登记号未取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,15 +137,18 @@ updated: 2026-10-27
 - **【用户表】PoE injector SFP DAC 配件**
   > PoE实际应用 injector SFP DAC hi-net的PoE配件等；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Dusan Jankov（）dusan@poewit.com 〔用户表〕
+- **KP**：Dusan Jankov（Co-Founder / Co-CEO（2018-02 起；前 Pakedge 联合创始人 / CTO，2016 售予 Control4；FCC Grantee 2A24W 联系人）= **拍板人 = 研究档 KP 本人**（第 96 批 官方登记核实 2026-10-28））dusan@poewit.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 poewit.com，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | PoEWit Technologies Inc.（佛州；FL 登记号未取 Sunbiz ✗；FCC Grantee 2A24W） |
+| 成立 | 2018-02（Victor Pak + Dusan Jankov + Steve Latham 自筹）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 3301 S Andrews Ave, Suite 5, Fort Lauderdale, FL 33316 |
+| 人数 | 11–50 人；<$5M（第三方） |
+| 其他 | 官网 poewit.com，语言 ?，快照状态 ok；角色判定来源：待核；第 96 批：「PoE 供电一切」的定制安装品牌，交换机是系统心脏且外采贴标 → OEM 30% 首选（802.3bt 大功率 + 中性包装）；其云管理 = 他们的旁挂盒，不碰固件 ODM（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：PoE 交换机 / 注入器 / 配件（自有品牌 PoEWit）
 - **触达通道（公开）**：role: PoE 产品品牌商（美国，自有品牌）；region: 美国；contact: sales@poewit.com、dusan@poewit.com
@@ -212,7 +232,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Dusan Jankov | — | dusan@poewit.com | 调研核实（公开页） | 用户表 |
+| Dusan Jankov | Co-Founder / Co-CEO（2018-02 起；前 Pakedge 联合创始人 / CTO，2016 售予 Control4；FCC Grantee 2A24W 联系人）= **拍板人 = 研究档 KP 本人**（第 96 批 官方登记核实 2026-10-28） | dusan@poewit.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 11 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -305,12 +325,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

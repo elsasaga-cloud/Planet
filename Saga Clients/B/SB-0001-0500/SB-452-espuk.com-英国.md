@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 96 批（GB · 1 次检索：Companies House 02769392（1992-12-01 注册；Unit 7 Target Park, Shawbank Road, Lakeside, Redditch B98 8YN；Active；18 officers / 15 resignations）+ espuk.com/about（2011 起 Scolmore 集团成员，独立运营；消防 / 安防产品）+ Electricals Informed（Scolmore International 与时任 MD Andy Clements 合资收购 ESP）+ Professional Electrician 2022（1992 Electronics Line UK → 1996 ESP；2009 迁 Redditch）+ LinkedIn（**Paul Panini = ESG & Sustainability Director**；National Sales Manager Ben Mackrill）+ Scolmore International Limited 02513009（Tamworth；51–200 人；1989），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/02769392）：**
+
+- 法定名 / 登记号：ELITE SECURITY PRODUCTS LIMITED（espuk.com；Redditch）— ESP，Scolmore 集团（2011 起） · Companies House 02769392（母公司 Scolmore (International) Limited 02513009） · 状态 **Active** · 成立 1992-12-01 · Private limited company（Scolmore 集团）
+- 行业码 / 经营范围：46 消防 / 安防产品（CCTV / 门禁 / 可视对讲 / 应急照明）设计分销（自有品牌 ESP，面向电工批发渠道）
+- 注册地址：Unit 7 Target Park, Shawbank Road, Lakeside, Redditch, Worcestershire B98 8YN
+- 规模档：中型（集团 51–200 人）
+- 账目：—（集团合并）；—
+- 高管：Paul Panini — ESG & Sustainability Director（= 研究档 KP；**不管采购**）
+- 高管：Andy Clements — Managing Director（2011 合资时；现任待核）
+- 高管：Ben Mackrill — National Sales Manager
+- 控制人 / 股东：Scolmore (International) Limited
+- 曾用名：Electronics Line UK（1992–1996）
+- **这意味着什么：**
+  - 自有品牌 ESP CCTV 走电工批发渠道 → **PoE 交换机配套贴标 OEM 30% 在理论上成立，但采购在 Scolmore 集团产品部（Tamworth）→ B BIG，一页纸给 ESP 产品经理**
+  - **研究档 KP Paul Panini 是 ESG / 可持续发展总监 = 误对口**，不发给他；收件人改 ESP 产品 / 采购公域
+  - 发信窗口 Thu 12–14 GMT
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,15 +143,19 @@ updated: 2026-10-27
 - **【用户表】用的 Folksafe 产品**
   > 用的folksafe的产品 网站：主要是安防；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Paul Panini（）paul@esp-uk.com 〔用户表〕
+- **KP**：Paul Panini（ESG & Sustainability Director（LinkedIn）= **误对口（不管采购）→ 不发给他**（第 96 批 官方登记核实 2026-10-28））paul@esp-uk.com 〔用户表〕
+- **KP**：ESP 产品管理（公域）（Elite Security Products Limited 产品 / 采购公域（Scolmore 集团，Redditch）= 收件人；National Sales Manager Ben Mackrill 仅记档（第 96 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/02769392〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 espuk.com，语言 ?，快照状态 timeout；角色判定来源：用户表 |
+| 法定名称 | ELITE SECURITY PRODUCTS LIMITED（Companies House 02769392；母公司 Scolmore (International) Limited 02513009，Tamworth） |
+| 成立 | 1992-12-01（1996 更名 ESP；2011 起 Scolmore 集团）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 7 Target Park, Shawbank Road, Lakeside, Redditch B98 8YN |
+| 人数 | 集团 51–200 人 |
+| 其他 | 官网 espuk.com，语言 ?，快照状态 timeout；角色判定来源：用户表；第 96 批：自有品牌 ESP CCTV 走电工批发渠道 → PoE 配套贴标 OEM 30% 理论成立，采购在 Scolmore 集团产品部 → B BIG 一页纸；研究档 KP 为 ESG 总监 = 误归属（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防产品品牌（自有品牌 ESP）
 - **触达通道（公开）**：role: 安防品牌商（英国，PoE 现 Folksafe）；region: 英国；contact: info@espuk.com、paul@esp-uk.com
@@ -225,7 +246,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Paul Panini | — | paul@esp-uk.com | 调研核实（公开页） | 用户表 |
+| Paul Panini | ESG & Sustainability Director（LinkedIn）= **误对口（不管采购）→ 不发给他**（第 96 批 官方登记核实 2026-10-28） | paul@esp-uk.com | 调研核实（公开页） | 用户表 |
+| ESP 产品管理（公域） | Elite Security Products Limited 产品 / 采购公域（Scolmore 集团，Redditch）= 收件人；National Sales Manager Ben Mackrill 仅记档（第 96 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/02769392 |
 
 - **通道建议**：邮件已推送 12 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -319,12 +341,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -79,6 +79,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 96 批（TR · 1 次检索：perkotek.com/firma-profili（1995 起；门禁 / 考勤 / 安防 / 自动化；总部 İstanbul；3,000+ 经销与服务网点；出口 65 国多在欧洲）+ EMIS（Perkotek Teknoloji Dis Ticaret A.S.；2016-06-01 注册）+ perkotek.net/iletisim（Perkotek Plaza, Mahmutbey Mah. Ordu Cad. No:29 Bağcılar；旧实体 Biometrik PERKOTEK … Ltd. Şti.）+ D&B（PERKOTEK TEKNOLOJI DIS TICARET ANONIM SIRKETI）+ teketekhaber（Firma Yetkilisi Selçuk Erdoğan）+ exportpages（68 人；ISO9001 / CE；Manufacturer）+ LinkedIn（51–200 人），2026-10-28 查；https://www.perkotek.com/firma-profili）：**
+
+- 法定名 / 登记号：Perkotek Teknoloji Dış Tic. A.Ş.（perkotek.com；Bağcılar / İstanbul）— 门禁 / 考勤制造商，3,000 经销商、出口 65 国 · MERSİS 未取 · 状态 **Active** · 成立 2016-06-01（A.Ş.；品牌 1995 / Ltd. 2000） · Anonim Şirketi（Dış Ticaret）
+- 行业码 / 经营范围：26.30 门禁 / 考勤 / 生物识别终端 / 旋转闸设计制造 + 出口
+- 注册地址：Mahmutbey Mah. Ordu Cad. Perkotek Plaza No:29, 34218 Bağcılar / İstanbul
+- 规模档：中型（68–200 人）
+- 账目：—；—
+- 高管：Selçuk Erdoğan — Firma Yetkilisi（登记负责人，2021）
+- 高管：「Cenk」— 研究档 KP cenk@（全名 / 职务未取）
+- 控制人 / 股东：未取
+- 曾用名：Biometrik PERKOTEK Personel Devam Kontrol Teknolojileri ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.
+- **这意味着什么：**
+  - 门禁 / 考勤终端制造商、出口 65 国 → PoE 交换机是其项目配套（外采）→ **配套贴标 OEM 30% 小口数一条线**（STC-028GP / STC-228GP 贴 Perkotek 标随终端出口）
+  - 研究档 KP 全名未取 → 写 cenk@ 并抄 info@ 点名「ürün yönetimi / satın alma」
+  - 发信窗口 Thu 10–12 TRT；B
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,15 +122,19 @@ updated: 2026-10-28
 - **【官网快照】Perkotek 定位**
   > Perkotek Parmak İzi Okuma | X Ray Cihazı | Turnike Ve Otopark Bariyeri ; Parmak İzi Okuma Sistemi ; Personel Takip Sistemi ; Turnike Sistemi
   > 来源：https://www.perkotek.com/（抓取 2026-10-21）
-- **KP**：Cenk（）cenk@perkotek.com 〔用户表〕
+- **KP**：Cenk（研究档 KP（全名 / 职务未取）= 收件人，抄 info@ 点名「ürün yönetimi / satın alma」（第 96 批 官方登记核实 2026-10-28））cenk@perkotek.com 〔用户表〕
+- **KP**：Selçuk Erdoğan（Firma Yetkilisi（teketekhaber 企业名录 2021；登记负责人）= 仅记档（第 96 批 官方登记核实 2026-10-28）） 〔https://teketekhaber.com/firmarehberi/perkotek-teknoloji-dis-tic-a-s〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 perkotek.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Perkotek Teknoloji Dış Tic. A.Ş.（EMIS 2016-06-01 注册；旧实体 Biometrik PERKOTEK … Ltd. Şti.；MERSİS 未取） |
+| 成立 | 2016-06-01（A.Ş.）；品牌 1995（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Mahmutbey Mah. Ordu Cad. Perkotek Plaza No:29, 34218 Bağcılar / İstanbul |
+| 人数 | 68–200 人；3,000+ 经销商；出口 65 国 |
+| 其他 | 官网 perkotek.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 96 批：门禁 / 考勤终端制造商、出口 65 国 → PoE 交换机为项目配套（外采）→ 配套贴标 OEM 30% 小口数一条线，B（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：指纹 / 人脸识别考勤、闸机、道闸（自有品牌 Perkotek）
 - **触达通道（公开）**：role: 门禁/考勤系统品牌商（土耳其，PoE 为配套）；region: 土耳其；contact: cenk@perkotek.com
@@ -192,7 +212,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Cenk | — | cenk@perkotek.com | 调研核实（公开页） | 用户表 |
+| Cenk | 研究档 KP（全名 / 职务未取）= 收件人，抄 info@ 点名「ürün yönetimi / satın alma」（第 96 批 官方登记核实 2026-10-28） | cenk@perkotek.com | 调研核实（公开页） | 用户表 |
+| Selçuk Erdoğan | Firma Yetkilisi（teketekhaber 企业名录 2021；登记负责人）= 仅记档（第 96 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://teketekhaber.com/firmarehberi/perkotek-teknoloji-dis-tic-a-s |
 
 - **通道建议**：企业邮箱可直发
 

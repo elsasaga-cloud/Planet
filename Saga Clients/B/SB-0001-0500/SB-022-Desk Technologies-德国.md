@@ -81,6 +81,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 96 批（DE · 1 次检索：shop.desk-sicherheit.de/impressum（DESK SICHERHEIT GmbH；Roonstraße 25, 76137 Karlsruhe；HRB 717686 Mannheim；代表 Daniel Rupp；USt DE291361315）+ webvalid / Northdata（2013-06-28 成立 UG → 2022-12-28 改 GmbH，资本 €25,000；GF Daniel Salim Rupp 唯一；2017-02 Hamit Calik 退出；经营范围：安保服务 / 渗透测试 / IT / 安防技术 / 无人机研发）+ XING（Daniel Rupp CEO 2013-10 起；前联邦国防军）+ desk-sicherheit.de 新闻（dr@desk-sicherheit.de 公开），2026-10-28 查；https://www.northdata.com/Desk%20Sicherheit%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20717686）：**
+
+- 法定名 / 登记号：Desk Sicherheit GmbH（desk-sicherheit.de；Karlsruhe）— 微型安保 / 安防技术公司，GF = 研究档 KP · Amtsgericht Mannheim HRB 717686 · 状态 **Active** · 成立 2013-06-28（UG）/ 2022-12 GmbH · GmbH（资本 €25,000；一人 GF）
+- 行业码 / 经营范围：80 安保服务 + 安防技术 / 反无人机 / 渗透测试 + 网店
+- 注册地址：Roonstraße 25, 76137 Karlsruhe
+- 规模档：微型
+- 账目：—（微型）；—
+- 高管：Daniel Salim Rupp — Geschäftsführer / 创始人（= 研究档 KP dr@ 本人）
+- 控制人 / 股东：Daniel Salim Rupp（推定）
+- 曾用名：Desk Sicherheit UG (haftungsbeschränkt)
+- **这意味着什么：**
+  - 一人 GmbH、安保服务为主 + 网店 → 小项目集成商 25%，商用 PoE 配监控项目，一页纸即止
+  - 反无人机 / 渗透测试 = 偏军警客户 → 守界提醒：只谈商用安防
+  - 发信窗口 Thu 12–14 CET
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,8 +142,8 @@ updated: 2026-10-28
 - **【用户表】展会互动：警方项目、IP67、$80 报价、OEM、样品；7 次推送 0 回复**
   > 和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Daniel Rupp（CEO）dr@desk-sicherheit.de 〔用户 Clients 表〕
-- **KP**：Daniel Salim Rupp（CEO / Geschäftsführer（Impressum + 新闻稿公开））dr@desk-sicherheit.de（官网新闻稿公开） +49 721 1812642-0 / +49 173 1590372（官网新闻稿公开）〔https://desk-sicherheit.de/news/physische-penetrationstest〕
+- **KP**：Daniel Salim Rupp（Geschäftsführer / 创始人（HRB 717686 Mannheim 唯一 GF；前联邦国防军）= 老板 = 收件人（第 96 批 官方登记核实 2026-10-28））dr@desk-sicherheit.de 〔用户 Clients 表〕
+- **KP**：Daniel Salim Rupp（Geschäftsführer / 创始人（HRB 717686 Mannheim 唯一 GF；前联邦国防军）= 老板 = 收件人（第 96 批 官方登记核实 2026-10-28））dr@desk-sicherheit.de（官网新闻稿公开） +49 721 1812642-0 / +49 173 1590372（官网新闻稿公开）〔https://desk-sicherheit.de/news/physische-penetrationstest〕
 - **调研后定级**：B（原自动 A）——核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。
 - 备注：若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。
 
@@ -136,10 +151,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | DESK Sicherheit GmbH（HRB 717686 Amtsgericht Mannheim；USt-ID DE291361315） |
-| 成立 | 2017-02-22（UG）→ 2022-12 GmbH |
-| 总部/地址 | Roonstraße 25, 76137 Karlsruhe, Germany（+49 721 82101964；info@desk-sicherheit.de） |
-| 其他 | CEO Daniel Salim Rupp（2013 起）；业务含反无人机、渗透测试；网店 |
+| 法定名称 | Desk Sicherheit GmbH（Amtsgericht Mannheim HRB 717686；2013 UG → 2022-12 GmbH，资本 €25,000） |
+| 成立 | 2013-06-28（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Roonstraße 25, 76137 Karlsruhe |
+| 人数 | 微型 |
+| 其他 | CEO Daniel Salim Rupp（2013 起）；业务含反无人机、渗透测试；网店；第 96 批：一人 GmbH 安保服务 + 安防网店 → 小项目集成商 25% 一页纸；反无人机 / 渗透测试偏军警 → 只谈商用安防（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安保勤务（Sicherheitsdienst）；视频监控 / KI 视频分析 / 安防技术集成；无人机巡检与反无人机、物理渗透测试
 - **触达通道（公开）**：网站: https://desk-sicherheit.de/；电话: +49 721 1812642-0（新闻稿公开）；邮箱（公开）: info@desk-sicherheit.de；dr@desk-sicherheit.de（新闻稿公开 CEO 直邮）
@@ -234,8 +250,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Daniel Rupp | CEO | dr@desk-sicherheit.de | 调研核实（公开页） | 用户 Clients 表 |
-| Daniel Salim Rupp | CEO / Geschäftsführer（Impressum + 新闻稿公开） | dr@desk-sicherheit.de（官网新闻稿公开） / +49 721 1812642-0 / +49 173 1590372（官网新闻稿公开） | 调研核实（公开页） | https://desk-sicherheit.de/news/physische-penetrationstest |
+| Daniel Salim Rupp | Geschäftsführer / 创始人（HRB 717686 Mannheim 唯一 GF；前联邦国防军）= 老板 = 收件人（第 96 批 官方登记核实 2026-10-28） | dr@desk-sicherheit.de | 调研核实（公开页） | 用户 Clients 表 |
+| Daniel Salim Rupp | Geschäftsführer / 创始人（HRB 717686 Mannheim 唯一 GF；前联邦国防军）= 老板 = 收件人（第 96 批 官方登记核实 2026-10-28） | dr@desk-sicherheit.de（官网新闻稿公开） / +49 721 1812642-0 / +49 173 1590372（官网新闻稿公开） | 调研核实（公开页） | https://desk-sicherheit.de/news/physische-penetrationstest |
+| Daniel Rupp | — | dr@desk-sicherheit.de / +491731590372 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,6 +84,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 96 批（PL · 1 次检索：wisp.pl/info（Allnet Sp. z o.o. Sp.k.；ul. Dębowa 2A, 44-237 Bełk；NIP 6423156422；KRS 0000379258；REGON 241888846）+ bizraport（KRS 0000379258 Gliwice X Wydział；2011-02-28 登记；营收 32.1 mln zł / 资产 11 mln zł 量级；复合体 Allnet Sp. z o.o.）+ aleo（股东 Artur Łukasz Mikołajewicz + Marcelina Anna Mikołajewicz；5–10 人；网店 2003 起）+ ui.com 经销商页（Bełk），2026-10-28 查；https://wisp.pl/info/）：**
+
+- 法定名 / 登记号：Allnet Sp. z o.o. Sp.k.（wisp.pl；Bełk k. Rybnika）— MikroTik 增值分销 + Ubiquiti 经销，家族企业 · KRS 0000379258（NIP 6423156422；REGON 241888846） · 状态 **Aktywna** · 成立 2011-02-28（网店 2003 起） · Sp. z o.o. Sp.k.（Mikołajewicz 家族）
+- 行业码 / 经营范围：46.52.Z 无线 / 网络设备批发（MikroTik VAD + Ubiquiti + 配件）
+- 注册地址：ul. Dębowa 2A, 44-237 Bełk（Czerwionka-Leszczyny，k. Rybnika）
+- 规模档：小型（5–10 人；营收偏大 = 走量批发）
+- 账目：营收 ≈ 32 mln zł 量级（第三方，待核）；—
+- 高管：Artur Łukasz Mikołajewicz — 股东 / 实际负责人（研究档 KP）
+- 高管：Marcelina Anna Mikołajewicz — 股东
+- 控制人 / 股东：Mikołajewicz 家族
+- **这意味着什么：**
+  - 5–10 人做 32 mln zł = 纯走量 MikroTik / Ubiquiti 批发 → 分销 20%：只给价格到位的商用 PoE 一页纸（STC-028GP $28 / STC-2224GP $86 量级），不加厚
+  - 发信窗口 Thu 12–14 CET；写 Artur Mikołajewicz
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -135,15 +149,18 @@ updated: 2026-10-27
 - **【名录】体量**
   > Wielkość firmy: 2–10 pracowników; Siedziba Bełk; Data założenia 2008; Master Distributor & VAD
   > 来源：https://pl.linkedin.com/company/wisppl（抓取 2026-10-20）
+- **KP**：Artur Łukasz Mikołajewicz（股东 / 实际负责人（KRS 0000379258；aleo）= 老板 = 收件人（邮箱未公开 → 官网公域）（第 96 批 官方登记核实 2026-10-28）） 〔https://wisp.pl/info/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-065，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Allnet Sp. z o.o. Sp.k.（WISP.PL） |
-| 总部/地址 | Bełk（Rybnik 附近，ul. Dębowa 2A）, 波兰 |
-| 其他 | Planet 渠道档案 PB-065（2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json）；自有品牌：否；最大未知：Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 首触是否已发（本仓不发） |
+| 法定名称 | Allnet Sp. z o.o. Sp.k.（KRS 0000379258；NIP 6423156422；REGON 241888846） |
+| 成立 | 2011-02-28（网店 2003 起）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Dębowa 2A, 44-237 Bełk（k. Rybnika） |
+| 人数 | 5–10 人；营收 ≈ 32 mln zł 量级（第三方，待核） |
+| 其他 | Planet 渠道档案 PB-065（2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json）；自有品牌：否；最大未知：Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 首触是否已发（本仓不发）；第 96 批：MikroTik VAD + Ubiquiti 走量批发（5–10 人做 32 mln zł）→ 分销 20%：价格到位的商用 PoE 一页纸，不加厚（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）
 
@@ -242,6 +259,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Artur Łukasz Mikołajewicz | 股东 / 实际负责人（KRS 0000379258；aleo）= 老板 = 收件人（邮箱未公开 → 官网公域）（第 96 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://wisp.pl/info/ |
 | Artur Mikolajewicz | — | sklep@wisp.pl / artur@wisp.pl | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -337,12 +355,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

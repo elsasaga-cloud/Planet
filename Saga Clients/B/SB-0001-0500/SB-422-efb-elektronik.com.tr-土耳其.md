@@ -89,6 +89,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 96 批（TR · 1 次检索：perpa.tv（1988 德国创立，2007 起在土耳其；Şişli Mavi Plaza 600 m² 仓 + 360 m² 办公；结构化布线 / 数据中心制造商；2021 收购 Commend 土耳其业务）+ bthaber 2017（Genel Müdür Tuğrul Akarsu 访谈；与荷兰 TKH 合并后外拓，首选土耳其 / 俄罗斯 / 迪拜）+ LinkedIn（Tuğrul Akarsu = General Manager，Boğaziçi 大学）+ efb-elektronik.com.tr/Iletisim（Halide Edip Adıvar Mah. Sultan Sok. Mavi Plaza No:22 D:11/22A 34381 Şişli）+ efb-elektronik.de（母公司 EFB-Elektronik GmbH，Bielefeld，HRB 33008；TKH Group N.V.；330 人；自有品牌 INFRALAN），2026-10-28 查；https://www.efb-elektronik.com.tr/Iletisim）：**
+
+- 法定名 / 登记号：EFB Elektronik Ltd. Şti.（efb-elektronik.com.tr；Şişli / İstanbul）— 德国 EFB-Elektronik（TKH 集团）土耳其子公司 · MERSİS / 商会号未取（母公司 Amtsgericht Bielefeld HRB 33008） · 状态 **Active** · 成立 2007（土耳其） · Ltd. Şti.（EFB-Elektronik GmbH / TKH Group 子公司）
+- 行业码 / 经营范围：46.52 结构化布线 / 数据中心产品分销（集团自产铜缆 / 光纤 / 配件）+ Commend 对讲
+- 注册地址：Halide Edip Adıvar Mah. Sultan Sok. Mavi Plaza No:22 D:11/22A, 34381 Şişli / İstanbul
+- 规模档：小型（土耳其分公司；集团 330 人 / TKH 5,500 人）
+- 账目：—；—
+- 高管：Tuğrul Akarsu — Genel Müdür（= 研究档 KP 本人）
+- 控制人 / 股东：EFB-Elektronik GmbH → TKH Group N.V.
+- **这意味着什么：**
+  - **集团子公司：交换机 / PoE 贴牌决策在 Bielefeld（EFB 德国已有自有 INFRALAN 配件线）→ 贴牌不在伊斯坦布尔谈 → B BIG**
+  - 但土耳其 GM 本人是研究档 KP、且分公司做项目配套 → 分销 20% 一页纸：商用 PoE 配布线项目（本地备货 / 小批量），TRY 不报、USD 报
+  - 发信窗口 Thu 10–12 TRT
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,15 +136,18 @@ updated: 2026-10-28
 - **【用户表】MC 机架 SFP DAC FS 工业设备**
   > MC 机架 SFP DAC FS 工业设备
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Tuğrul Akarsu（）a.tugrul@efb-elektronik.com.tr 〔用户表〕
+- **KP**：Tuğrul Akarsu（Genel Müdür（EFB Elektronik Türkiye；bthaber 2017 访谈 / LinkedIn）= **土耳其分公司拍板人 = 研究档 KP 本人**；贴牌归 Bielefeld 总部（第 96 批 官方登记核实 2026-10-28））a.tugrul@efb-elektronik.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 efb-elektronik.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | EFB Elektronik Ltd. Şti.（EFB-Elektronik GmbH, Bielefeld HRB 33008 → TKH Group N.V. 子公司；MERSİS 未取） |
+| 成立 | 2007（土耳其）；集团 1988（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Halide Edip Adıvar Mah. Sultan Sok. Mavi Plaza No:22 D:11/22A, 34381 Şişli / İstanbul |
+| 人数 | 小型（分公司）；集团 330 人 |
+| 其他 | 官网 efb-elektronik.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案；第 96 批：集团子公司，交换机贴牌决策在德国 → B BIG；但 GM 本人是 KP 且做项目配套 → 分销 20% 一页纸（USD 报价、小批量本地备货）（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：布线 / 传输网络 / 安防产品（自有品牌 EFB）
 - **触达通道（公开）**：role: 德系布线/网络制造商土耳其公司（自有标网络产品，OEM 采购）；region: 土耳其；contact: a.tugrul@efb-elektronik.com.tr、info@efb-elektronik.com.tr
@@ -222,7 +239,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tuğrul Akarsu | — | a.tugrul@efb-elektronik.com.tr | 调研核实（公开页） | 用户表 |
+| Tuğrul Akarsu | Genel Müdür（EFB Elektronik Türkiye；bthaber 2017 访谈 / LinkedIn）= **土耳其分公司拍板人 = 研究档 KP 本人**；贴牌归 Bielefeld 总部（第 96 批 官方登记核实 2026-10-28） | a.tugrul@efb-elektronik.com.tr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

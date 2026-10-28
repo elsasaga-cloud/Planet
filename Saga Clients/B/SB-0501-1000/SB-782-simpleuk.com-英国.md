@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,19 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 96 批（GB · 1 次检索：RocketReach（Simple Technology (UK) Ltd.；simpleuk.com；Founded 1991；4 人；电话 01925 = Warrington）；Companies House 同名候选均不符：SIMPLEUK LTD 11667603（2018 邮购，2020 解散）/ SIMPLE LTD 11570887（2020 解散）/ SIMPLE UK LIMITED 04652365（Cheltenham，2013 解散）→ 法定名待核，1 次即停，2026-10-28 查；https://rocketreach.co/simple-technology-uk-ltd-profile_b5e08191f42e68f6）：**
+
+- 法定名 / 登记号：Simple Technology (UK) Ltd.（simpleuk.com；Warrington）— 1 次检索法定实体未坐实 · 未坐实（候选 CH 号均不符） · 状态 **官网在线（研究档快照 ok）** · 成立 1991（第三方） · Ltd.（推定）
+- 行业码 / 经营范围：计算机硬件 / 配件零售（Simple 品牌）
+- 注册地址：Warrington（电话区号）
+- 规模档：微型（4 人）
+- 账目：—；—
+- 高管：Nigil Manning — 研究档 KP（职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - 微型配件商、法定实体一次未坐实 → 标「底数待核」，分销 20% 一页纸即止，不加厚
+- 备注：下轮若顺手：CH 按「SIMPLE TECHNOLOGY (UK)」直查一次。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,15 +145,18 @@ updated: 2026-10-27
 - **【用户表】SFP DAC 无源产品，光路 10G MC**
   > SFP DAC 很多无源产品 光路的10G MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Nigil Manning（）nigilm@simpleuk.com 〔用户表〕
+- **KP**：Nigil Manning（研究档 KP（职务未取；4 人公司）= 收件人（第 96 批 官方登记核实 2026-10-28））nigilm@simpleuk.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 simpleuk.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Simple Technology (UK) Ltd.（第三方；Companies House 同名候选 11667603 / 04652365 均为已解散他司 → 法定实体待核） |
+| 成立 | 1991（第三方）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Warrington（电话区号 01925） |
+| 人数 | 4 人 |
+| 其他 | 官网 simpleuk.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 96 批：微型配件商、法定实体一次未坐实 → 分销 20% 一页纸即止、不加厚（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：兼容光模块 / DAC / AOC（自有品牌 T Optics）；MC / 桌面交换机（自有标）
 
@@ -254,7 +270,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nigil Manning | — | nigilm@simpleuk.com | 调研核实（公开页） | 用户表 |
+| Nigil Manning | 研究档 KP（职务未取；4 人公司）= 收件人（第 96 批 官方登记核实 2026-10-28） | nigilm@simpleuk.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -347,12 +363,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

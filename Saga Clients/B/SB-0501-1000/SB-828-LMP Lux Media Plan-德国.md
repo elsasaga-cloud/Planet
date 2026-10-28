@@ -77,6 +77,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 96 批（DE · 1 次检索：luxmediaplan.de/contact（LMP Lux Media Plan，Sabine Lux，Platter Strasse 168a, 65193 Wiesbaden；Sabine Lux = Management，Friedel Lux = Technical Managing Director；USt DE113809490；WEEE DE81050004）+ /about-lmp（1986 起；广电 / 医疗 / 航空 / 安防定制数字视频）+ contactout（Friedel Lux = Unternehmensinhaber / technischer Leiter）+ Broadcast Bridge（Cerberus HD1200 微型 HD 相机、光纤连接）+ cylex（Sabine Lux 个体企业，1986 起），2026-10-28 查；https://www.luxmediaplan.de/contact/）：**
+
+- 法定名 / 登记号：LMP Lux Media Plan（luxmediaplan.de；Wiesbaden）— 广电微型相机 / 光纤组件，个体企业 · 个体企业（无 HRB；USt DE113809490） · 状态 **Active** · 成立 1986 · Einzelunternehmen（Sabine Lux 名下；Friedel Lux 技术负责人）
+- 行业码 / 经营范围：广电微型 HD 相机 / 色彩校正 / 光纤传输组件研发（定制）
+- 注册地址：Platter Strasse 168a, 65193 Wiesbaden
+- 规模档：微型（夫妻企业）
+- 账目：—；—
+- 高管：Friedel Lux — Technical Managing Director / Unternehmensinhaber（= 研究档 KP）
+- 高管：Sabine Lux — Management / 登记业主
+- 控制人 / 股东：Lux 夫妇
+- **这意味着什么：**
+  - 广电定制微型（非品类）→ 只剩 MC / 光口小交换机一条线，一页纸即止，不投第 2 封
+  - 发信窗口 Thu 12–14 CET
+- 备注：不加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,15 +134,18 @@ updated: 2026-10-28
 - **【用户表】多功能**
   > 多功能
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Friedel Lux（）friedel@luxmediaplan.de 〔用户表〕
+- **KP**：Friedel Lux（Technical Managing Director / Unternehmensinhaber（官网 contact；登记业主为 Sabine Lux）= 收件人（第 96 批 官方登记核实 2026-10-28））friedel@luxmediaplan.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 luxmediaplan.de，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | LMP Lux Media Plan（Einzelunternehmen Sabine Lux；USt DE113809490；无 HRB） |
+| 成立 | 1986（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Platter Strasse 168a, 65193 Wiesbaden |
+| 人数 | 微型（夫妻企业） |
+| 其他 | 官网 luxmediaplan.de，语言 ?，快照状态 ok；角色判定来源：待核；第 96 批：广电定制微型相机 / 光纤组件 = 非品类 → 只剩 MC / 光口小交换机一条线，一页纸即止、不投第 2 封（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：广播 / 影视光纤传输设备（自有品牌 LMP）
 - **触达通道（公开）**：role: 广播光传输设备设计商（德国，交换机为配套）；region: 德国；contact: friedel@luxmediaplan.de
@@ -215,7 +233,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Friedel Lux | — | friedel@luxmediaplan.de | 调研核实（公开页） | 用户表 |
+| Friedel Lux | Technical Managing Director / Unternehmensinhaber（官网 contact；登记业主为 Sabine Lux）= 收件人（第 96 批 官方登记核实 2026-10-28） | friedel@luxmediaplan.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

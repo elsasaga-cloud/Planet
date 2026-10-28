@@ -81,6 +81,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 96 批（TR · 1 次检索：artsistem.com/hakkimizda（2004-09-04 创立；22+ 年；135 品牌；5,000+ 注册经销商；3 分公司 İstanbul / Ankara / Gaziantep；2006 Artes 自有品牌；2009 迁 Bahçelievler 3,000 m²）+ /baskanin-mesaji（Genel Müdür Serkan Kekik；info@artsistem.com）+ gesider.org「Ayın CEO’su」（Serkan Kekik 2004 创办 Art Sistem Bilgisayar ve Güvenlik Teknolojileri Ltd. Şti.）+ 地址页（Gültepe Mah. Florya Kavşağı E-5 Yanyol Cad. 1. Bilge Sok. No:1 Art Sistem Plaza 34295 Küçükçekmece）+ LinkedIn（51–200 人）+ signalhire（100–200 人；$10–50M 第三方估）+ 新闻（TP-Link VIGI 土耳其独家分销）+ /oem 页（OEM 摄像机 / Ruijie），2026-10-28 查；https://www.artsistem.com/hakkimizda）：**
+
+- 法定名 / 登记号：Art Sistem Bilgisayar ve Güvenlik Teknolojileri（artsistem.com；Küçükçekmece / İstanbul）— 5,000+ 经销商的 IT / 安防批发，自有品牌 Artes · MERSİS 未取（Ltd. Şti.；LinkedIn 写 A.Ş. 待核） · 状态 **Active** · 成立 2004-09-04 · Ltd. Şti.（创始人 Serkan Kekik）
+- 行业码 / 经营范围：46.51 / 46.52 IT 硬件 + 安防 + 网络批发（B2B pcbayi.com；自有品牌 Artes；OEM 摄像机）
+- 注册地址：Gültepe Mah. Florya Kavşağı E-5 Yanyol Cad. 1. Bilge Sok. No:1 Art Sistem Plaza, 34295 Küçükçekmece / İstanbul
+- 规模档：中型（100–200 人；$10–50M 第三方估）
+- 账目：—；—
+- 高管：Serkan Kekik — 创始人 / Genel Müdür（研究档 KP「Serkan K.」serkank@ = 大概率本人）
+- 控制人 / 股东：Serkan Kekik（推定）
+- **这意味着什么：**
+  - **土耳其四主战场里的大户：5,000+ 经销商 + 自有品牌 Artes + 已做 OEM 摄像机 → B BIG；贴标 OEM 30% 为目标（商用 PoE 贴 Artes 标），分销 20% 为底**
+  - 研究档 KP serkank@ 与总经理 Serkan Kekik 同名同姓 → 极可能老板直联：一页纸写老板，价格直接给到位，一个问题：Artes 标 PoE 年量？
+  - 发信窗口 Thu 10–12 TRT；**升 A 候选**（待开信 / 回信）
+- 备注：A 候选：若回信即 A。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,17 +123,18 @@ updated: 2026-10-28
 - **【用户表】无兴趣描述**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Serkan K.（）serkank@artsistem.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Serkan Kekik（创始人 / Genel Müdür（2004-09-04 创办；gesider「Ayın CEO’su」；官网总经理致辞）= **老板 = 研究档 KP「Serkan K.」大概率本人**（第 96 批 官方登记核实 2026-10-28））serkank@artsistem.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Art Sistem Bilgisayar A.Ş.（待核） |
-| 成立 | 约 2003 |
-| 总部/地址 | Türkiye |
-| 其他 | OEM 词频 9 |
+| 法定名称 | Art Sistem Bilgisayar ve Güvenlik Teknolojileri Ltd. Şti.（LinkedIn 写 A.Ş. 待核；MERSİS 未取） |
+| 成立 | 2004-09-04（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Gültepe Mah. Florya Kavşağı E-5 Yanyol Cad. 1. Bilge Sok. No:1 Art Sistem Plaza, 34295 Küçükçekmece / İstanbul |
+| 人数 | 100–200 人；$10–50M 级（第三方）；5,000+ 经销商；3 分公司 |
+| 其他 | OEM 词频 9；第 96 批：土耳其大户 —— 5,000+ 经销商 + 自有品牌 Artes（2006 起）+ 已做 OEM 摄像机 + TP-Link VIGI 独家 → B BIG；贴标 OEM 30% 为目标、分销 20% 为底；老板直联 → **升 A 候选（回信即 A）**（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 安防 / 网络全国分销
 - **触达通道（公开）**：role: 大型分销商；region: 土耳其
@@ -197,7 +213,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Serkan K. | — | serkank@artsistem.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Serkan Kekik | 创始人 / Genel Müdür（2004-09-04 创办；gesider「Ayın CEO’su」；官网总经理致辞）= **老板 = 研究档 KP「Serkan K.」大概率本人**（第 96 批 官方登记核实 2026-10-28） | serkank@artsistem.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 

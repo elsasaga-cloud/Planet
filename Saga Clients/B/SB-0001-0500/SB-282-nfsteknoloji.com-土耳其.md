@@ -89,6 +89,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 96 批（TR · 1 次检索：EMIS（Nfs Teknoloji Ve Otomasyon Sistemleri San. Ve Tic. Ltd. Sti.；2006-11-09 注册；Aydınevler Mah. Öncel Sok. No:1-13A Maltepe 34854）+ nfsteknoloji.com（面向系统集成商的安防分销；Pelco / Samsung（Hanwha）/ TDSI / Identiv 代理；5 名工程师 2006 创办）+ /teknikdestek（Hasan Başarır = Teknik Destek Uzmanı，hasan.basarir@）+ RocketReach / contactout（7 人；$4M 第三方估；旧址 Ümraniye Şerifali）+ Wise TV 2016（Sargut 受访），2026-10-28 查；https://www.emis.com/php/company-profile/TR/Nfs_Teknoloji_Ve_Otomasyon_Sistemleri_San_Ve_Tic_Ltd_Sti_en_3340497.html）：**
+
+- 法定名 / 登记号：NFS Teknoloji ve Otomasyon Sistemleri San. ve Tic. Ltd. Şti.（nfsteknoloji.com；Maltepe / İstanbul）— 安防分销（Pelco / Hanwha / TDSI） · MERSİS 未取 · 状态 **Active（官网在线）** · 成立 2006-11-09 · Ltd. Şti.（5 名工程师合伙）
+- 行业码 / 经营范围：46.52 电子安防 / 门禁产品进口分销（面向 SI 项目）
+- 注册地址：Aydınevler Mah. Öncel Sok. Meda Marmara Sit. No:1-13A, 34854 Maltepe / İstanbul
+- 规模档：微型（7 人）
+- 账目：—；—
+- 高管：Hasan Başarır — Teknik Destek Uzmanı（研究档 KP；**技术支持，非采购**）
+- 高管：「Sargut」— 2016 受访负责人（全名未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - 7 人项目型安防分销 → 分销 20%：商用 PoE 配 Pelco / Hanwha 项目，一页纸
+  - 研究档 KP 是技术支持 → 收件人加 info@ 点名「satın alma」；不加厚
+  - 发信窗口 Thu 10–12 TRT
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -139,15 +154,18 @@ updated: 2026-10-28
 - **【用户表】PoE 配件 Utepo 的**
   > POE配件 Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hasan Başarır（）hasan.basarir@nfsteknoloji.com 〔用户表〕
+- **KP**：Hasan Başarır（Teknik Destek Uzmanı（官网 teknikdestek 页）= **技术支持，非采购** → 收件人加 info@ 点名「satın alma」（第 96 批 官方登记核实 2026-10-28））hasan.basarir@nfsteknoloji.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 nfsteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | NFS Teknoloji ve Otomasyon Sistemleri San. ve Tic. Ltd. Şti.（EMIS；MERSİS 未取） |
+| 成立 | 2006-11-09（5 名工程师合伙）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Aydınevler Mah. Öncel Sok. Meda Marmara Sit. No:1-13A, 34854 Maltepe / İstanbul |
+| 人数 | 7 人；$4M 级（第三方） |
+| 其他 | 官网 nfsteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 96 批：7 人项目型安防分销（Pelco / Hanwha / TDSI）→ 分销 20% 一页纸，商用 PoE 配项目，不加厚（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防产品分销（Hanwha / Pelco / ONIONE / SURENIX）
 
@@ -245,7 +263,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hasan Başarır | — | hasan.basarir@nfsteknoloji.com | 调研核实（公开页） | 用户表 |
+| Hasan Başarır | Teknik Destek Uzmanı（官网 teknikdestek 页）= **技术支持，非采购** → 收件人加 info@ 点名「satın alma」（第 96 批 官方登记核实 2026-10-28） | hasan.basarir@nfsteknoloji.com | 调研核实（公开页） | 用户表 |
 | Hasan Basarir | — | info@nfsteknoloji.com / hasan.basarir@nfsteknoloji.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

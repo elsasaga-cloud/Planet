@@ -78,6 +78,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 96 批（DE · 1 次检索：inline-info.com/Rechtliches/Impressum（InLine® = INTOS ELECTRONIC AG 商标；Siemensstraße 11, D-35394 Gießen；HRB 4020 AG Gießen；USt DE813446966；Vorstand Wolfgang Isenberg；Aufsichtsrat 主席 RA Jens-Oliver Müller）+ intos.de/Hersteller/InLine（4,500+ 产品；绿白包装；线上 + 专业零售），2026-10-28 查；https://www.inline-info.com/Rechtliches/Impressum/）：**
+
+- 法定名 / 登记号：INTOS ELECTRONIC AG（inline-info.com；Gießen）— InLine® 品牌所有者（4,500+ SKU IT 配件含交换机） · Amtsgericht Gießen HRB 4020 · 状态 **Active** · 成立 未取（AG） · Aktiengesellschaft（非上市；Vorstand 一人）
+- 行业码 / 经营范围：4651 IT / 多媒体配件制造 + 分销（自有品牌 InLine：线缆 / KVM / 网络交换机 / PoE）
+- 注册地址：Siemensstraße 11, 35394 Gießen
+- 规模档：中型（4,500 SKU；人数未取）
+- 账目：—（未取）；—
+- 高管：Wolfgang Isenberg — Vorstand（拍板人）
+- 高管：Jens-Oliver Müller — Aufsichtsratsvorsitzender
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 InLine 已含网络交换机 / PoE（亚洲代工）→ OEM 30%**：商用 PoE 全系贴 InLine 标，写 Produktmanagement Netzwerk（公域）+ 点名 Vorstand
+  - 4,500 SKU 的配件 AG = 典型「多品类贴牌买家」，会比价 → B BIG，一页纸 + 价格直接给到位
+  - 发信窗口 Thu 12–14 CET
+- 备注：人数 / 营收未取（AG 非上市）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,14 +136,18 @@ updated: 2026-10-28
 - **【用户表】有人卖他们的；着重跟**
   > 有人卖他们的；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Wolfgang Isenberg（Vorstand（INTOS ELECTRONIC AG，HRB 4020 Gießen；Impressum）= 拍板人（邮箱未公开 → service@inline-info.com 点名 Produktmanagement Netzwerk）（第 96 批 官方登记核实 2026-10-28）） 〔https://www.inline-info.com/Rechtliches/Impressum/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 inline-info.com，语言 de-DE，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | INTOS ELECTRONIC AG（Amtsgericht Gießen HRB 4020；InLine® 为其商标） |
+| 成立 | 未取（AG）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Siemensstraße 11, 35394 Gießen |
+| 人数 | 中型（4,500+ SKU；人数未取） |
+| 其他 | 官网 inline-info.com，语言 de-DE，快照状态 ok；角色判定来源：用户表；第 96 批：自有品牌 InLine 已含网络交换机 / PoE（亚洲代工）→ OEM 30%，B BIG；多品类贴牌买家会比价 → 价格直接给到位（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 多媒体配件（自有品牌 InLine）
 - **触达通道（公开）**：role: 德国配件品牌商（InLine / Intos，OEM 采购，用户标「着重跟」）；region: 德国；contact: service@inline-info.com
@@ -215,7 +235,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | service@inline-info.com | 用户表原值 | Clients/ 表 |
+| Wolfgang Isenberg | Vorstand（INTOS ELECTRONIC AG，HRB 4020 Gießen；Impressum）= 拍板人（邮箱未公开 → service@inline-info.com 点名 Produktmanagement Netzwerk）（第 96 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.inline-info.com/Rechtliches/Impressum/ |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -283,7 +303,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Wolfgang,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the switches and PoE products carried under the InLine label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU in the InLine range sells most through your dealers?
 

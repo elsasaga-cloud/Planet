@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,6 +85,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 96 批（PL · 1 次检索：cyberbajt.pl/page/29（Cyberbajt Tadeusz Nowak；ul. Młyńska 27, 22-400 Zamość；NIP 9221003243；REGON 950190918）+ CEIDG 镜像 aleo / panoramafirm（PKD 46.51.Z；个体工商户；Zamość）+ cyberbajt.pl/en（最早的 MikroTik 分销商之一；自有天线 + CBF 光纤品牌；B2B 网店）+ 研究档（Michał Błaszczyk = 销售），2026-10-28 查；https://www.cyberbajt.pl/page/29）：**
+
+- 法定名 / 登记号：Cyberbajt Tadeusz Nowak（cyberbajt.pl；Zamość）— 波兰最早一批 MikroTik 分销商，个体工商户 · CEIDG（NIP 9221003243；REGON 950190918） · 状态 **Aktywna** · 成立 未取（CEIDG 起始日未展开） · Jednoosobowa działalność gospodarcza（个体工商户 Tadeusz Nowak）
+- 行业码 / 经营范围：46.51.Z 网络设备批发（MikroTik / Ubiquiti / 自有天线 / CBF 光纤）
+- 注册地址：ul. Młyńska 27, 22-400 Zamość（研究档写 Płock 有误）
+- 规模档：小型
+- 账目：—；—
+- 高管：Tadeusz Nowak — 业主
+- 高管：Michał Błaszczyk — 销售（研究档 KP）
+- 控制人 / 股东：Tadeusz Nowak
+- **这意味着什么：**
+  - **地址更正：Płock → Zamość**；MikroTik 池 → 分销 20%：补 MikroTik 没有的商用 PoE（STC-028GP / STC-228GP / STC-2224GP）
+  - 已有自有天线 / CBF 光纤品牌 → 贴标 OEM 30% 一句试探
+  - 发信窗口 Thu 12–14 CET；写 Michał Błaszczyk
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - 16 zł ← 「16 zł brutto dodaj do koszyka Do koszyka MikroTik GPeR gigabitowy wzmacniacz sygnału Ethernet / PoE (repeater) GPeR to gigabitowy wzmacniacz sygnału E」（https://www.cyberbajt.pl/grupa/362/adaptery-poe.html）
@@ -139,7 +154,7 @@ updated: 2026-10-27
 - **【名录】成立年份**
   > Od 2002 roku Cyberbajt z sukcesem działa … NIP: 9221003243 REGON: 950190918
   > 来源：https://www.krs-online.com.pl/firma/2602012-cyberbajt（抓取 2026-10-20）
-- **KP**：Michał Błaszczyk（）m.blaszczyk@cyberbajt.pl 600 601 602 / (84) 638 10 70〔https://www.cyberbajt.pl/handlowcy/〕
+- **KP**：Michał Błaszczyk（销售（研究档 KP）= 收件人；业主 Tadeusz Nowak（CEIDG）（第 96 批 官方登记核实 2026-10-28））m.blaszczyk@cyberbajt.pl 600 601 602 / (84) 638 10 70〔https://www.cyberbajt.pl/handlowcy/〕
 - **KP**：D. Jonik 等 5 位销售（）d.jonik@cyberbajt.pl 〔https://www.cyberbajt.pl/handlowcy/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -147,9 +162,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Cyberbajt Tadeusz Nowak（cyberbajt.pl） |
-| 总部/地址 | Zamość（ul. Młyńska 27）, 波兰 |
-| 其他 | Planet 渠道档案 PB-069（2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json）；自有品牌：是（CBF：光纤无源/有源组件 + Cyberbajt 天线）——但不涉及交换机；最大未知：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发） |
+| 法定名称 | Cyberbajt Tadeusz Nowak（CEIDG 个体工商户；NIP 9221003243；REGON 950190918） |
+| 成立 | 未取（CEIDG）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Młyńska 27, 22-400 Zamość（研究档 Płock 有误） |
+| 人数 | 小型 |
+| 其他 | Planet 渠道档案 PB-069（2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json）；自有品牌：是（CBF：光纤无源/有源组件 + Cyberbajt 天线）——但不涉及交换机；最大未知：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）；第 96 批：地址更正 Płock → Zamość；波兰最早一批 MikroTik 分销商 + 自有天线 / CBF 光纤品牌 → 分销 20%，贴标 30% 一句试探（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）
 
@@ -230,7 +247,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Michał Błaszczyk | — | m.blaszczyk@cyberbajt.pl / 600 601 602 / (84) 638 10 70 | 调研核实（公开页） | https://www.cyberbajt.pl/handlowcy/ |
+| Michał Błaszczyk | 销售（研究档 KP）= 收件人；业主 Tadeusz Nowak（CEIDG）（第 96 批 官方登记核实 2026-10-28） | m.blaszczyk@cyberbajt.pl / 600 601 602 / (84) 638 10 70 | 调研核实（公开页） | https://www.cyberbajt.pl/handlowcy/ |
 | D. Jonik 等 5 位销售 | — | d.jonik@cyberbajt.pl | 调研核实（公开页） | https://www.cyberbajt.pl/handlowcy/ |
 
 - **通道建议**：企业邮箱可直发
@@ -323,12 +340,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -89,6 +89,23 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 96 批（PL · 1 次检索：cdr.pl/kontakt（CDR Prosta Spółka Akcyjna；ul. Produkcyjna 14, 44-240 Żory；NIP 651-17-17-587；KRS 0001049574；REGON 360676767）+ rejestr.io/krs/1049574（P.S.A.；2023-08-01 登记；资本 10.1 tys zł；最近变更 2026-05-08；PKD 46 批发）+ bizraport（前身 CDR Sp. z o.o. Sp.k. KRS 0000541514，同一 NIP；资产 57 mln zł 量级）+ 网店（ATTE / CDR / MikroTik / OEM / TP-Link / Ubiquiti PoE 分类）；**ATTE 是独立公司**：ATTE Power Sp. z o.o. KRS 0001013262（前 KRS 0000780402；NIP 6812075764；Myślenice；营收 12.6 mln zł；「波兰第一家 CCTV PoE 交换机制造商」），2026-10-28 查；https://rejestr.io/krs/1049574/cdr）：**
+
+- 法定名 / 登记号：CDR Prosta Spółka Akcyjna（cdr.pl；Żory）— 电子 / 网络批发，自有 CDR 标 PoE 配件；ATTE 另有其人 · KRS 0001049574（NIP 6511717587；REGON 360676767；前身 KRS 0000541514） · 状态 **Aktywna** · 成立 2023-08-01（P.S.A.；前身 Sp. z o.o. Sp.k. 2015） · Prosta spółka akcyjna（简式股份公司）
+- 行业码 / 经营范围：46.52.Z 电子 / 电信设备批发（CCTV / 网络 / PoE 配件；自有 CDR 标 PoE 适配器 + ATTE 等波兰品牌分销）
+- 注册地址：ul. Produkcyjna 14, 44-240 Żory
+- 规模档：小型（前身资产 57 mln zł 量级，待核）
+- 账目：—（KRS 财报未展开）；—
+- 高管：董事会未取（rejestr.io 摘要未展开）
+- 高管：Magdalena Milej — 研究档 KP（销售）
+- 控制人 / 股东：未取
+- 曾用名：CDR Sp. z o.o. Sp.k.（KRS 0000541514）
+- **这意味着什么：**
+  - **研究档写「关联 ATTE」有误**：ATTE Power 是独立的波兰 PoE 交换机制造商（Myślenice，同行、不在库），CDR 只是其分销商 → CDR = 分销 20%
+  - 已有自有 CDR 标 PoE 适配器 → 贴标 OEM 30% 试探一句：商用 PoE 交换机贴 CDR 标
+  - 发信窗口 Thu 12–14 CET；写 Magdalena Milej，一页纸
+- 备注：ATTE Power = 侧线同行（不入库）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - 12,96 zł ← 「12,96 zł netto Aktualności D-Link M30 ISP Router Wi-Fi 6 AX3000 wyposażony w 5 portów 1G Ethernet Przejdź do produktu Huawei OptiXstar EG8145B7N」（https://cdr.pl/）
@@ -129,16 +146,18 @@ updated: 2026-10-28
 - **【用户表】有一些 switch；销售平台；质量一般**
   > 兴趣：有一些switch;销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Magdalena Milej（）magdalena@cdr.pl 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Magdalena Milej（研究档 KP（销售）= 收件人（第 96 批 官方登记核实 2026-10-28））magdalena@cdr.pl 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | CDR Sp. z o.o.（待核） |
-| 总部/地址 | Poland |
-| 其他 | 关联 ATTE（atte.pl，波兰 PoE 配件品牌） |
+| 法定名称 | CDR Prosta Spółka Akcyjna（KRS 0001049574；NIP 6511717587；REGON 360676767；前身 CDR Sp. z o.o. Sp.k. KRS 0000541514） |
+| 成立 | 2023-08-01（P.S.A.；前身 2015）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Produkcyjna 14, 44-240 Żory |
+| 人数 | 小型（前身资产 57 mln zł 量级，待核） |
+| 其他 | 关联 ATTE（atte.pl，波兰 PoE 配件品牌）；第 96 批：研究档「关联 ATTE」有误 —— ATTE Power Sp. z o.o.（KRS 0001013262，Myślenice）是独立的波兰 PoE 交换机制造商（同行、不入库），CDR 只是其分销商 → CDR 分销 20%；自有 CDR 标 PoE 适配器 → 贴标 30% 一句试探（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：ISP 网络设备分销 / 网店
 - **触达通道（公开）**：role: ISP 渠道分销商；region: 波兰
@@ -234,7 +253,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Magdalena Milej | — | magdalena@cdr.pl | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Magdalena Milej | 研究档 KP（销售）= 收件人（第 96 批 官方登记核实 2026-10-28） | magdalena@cdr.pl | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 

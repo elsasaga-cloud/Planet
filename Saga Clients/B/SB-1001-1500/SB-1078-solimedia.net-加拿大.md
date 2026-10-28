@@ -1,7 +1,7 @@
 # solimedia.net
 **官方名称（调研核实）**：Solimedia Technology Inc
 
-> **评级 B**　|　美国　|　档案编号 `SB-1078`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　加拿大　|　档案编号 `SB-1078`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:US　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "Solimedia Technology Inc"
 score: 25
-country: 美国
+country: 加拿大
+country_table: 美国  # 表内原填；调研纠正为 加拿大（research JSON country_fix）
 region: 北美
 website: solimedia.net
 type: 经销/集成（类型待核）
@@ -27,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,12 +88,29 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 96 批（CA · 1 次检索：solimedia.net/about（「privately held Canadian corporation registered in British Columbia」；foundingDate 2011-09-01；329-470 Granville Street, Vancouver BC V6C 1V5）+ 旧站 about-us（Soliton 集团成员：新加坡 / 台湾 / 北美；分销 MikroTik / Ubiquiti / Grandstream / Atcom / RF elements；服务 1,000+ ISP / SI）+ LinkedIn 人物页（Nader Kashani = Founding Director，2012-01 起）+ D&B（Key Principal Nader Kashani）+ prospeo（1–10 人）+ Yelp（Established 2011；业主 Nader G.），2026-10-28 查；https://solimedia.net/about/）：**
+
+- 法定名 / 登记号：Solimedia Technology Inc.（solimedia.net；Vancouver BC）— 实为加拿大 BC 公司（MikroTik / Grandstream 分销，Soliton 集团） · BC 登记号未取（BC Registry 付费 / JS） · 状态 **Active（官网 2026-03 更新）** · 成立 2011-09-01 · BC corporation（私有；Soliton 集团成员）
+- 行业码 / 经营范围：517 网络设备在线 B2B 分销（MikroTik VAR + Grandstream + Optcore 光模块；Soliton 集团自有产品）
+- 注册地址：329-470 Granville Street, Vancouver, BC V6C 1V5
+- 规模档：微型（1–10 人）
+- 账目：—；—
+- 高管：Nader Kashani — Founding Director / 老板（邮箱未公开 → sales@）
+- 高管：Esfandiar K. — Sales Operations Manager
+- 高管：Al G Kashani — 家族成员（LinkedIn）
+- 控制人 / 股东：Nader Kashani（推定；Soliton 集团关联）
+- **这意味着什么：**
+  - **国别更正：美国 → 加拿大（温哥华）**；MikroTik VAR 型网店 → 分销 20%：补 MikroTik 没有的商用 PoE（STC-028GP / STC-2224GP），写老板 Nader Kashani
+  - 「Soliton 集团自有产品」= 已有亚洲货源（新加坡 / 台湾）→ 贴牌低概率，只做品牌分销一条线
+  - 发信窗口 Wed 08–10 PT；一页纸即止
+- 备注：country_fix 加拿大；BC 登记号未取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | solimedia.net（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | solimedia.net | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
@@ -125,15 +143,18 @@ updated: 2026-10-27
 - **【官网】PLANET 品牌页已下线（工业类目 /product-category/data-switch/planet_industrial_switch/ 同为 404；/product/gsd-1603/ 301 → /product/gwn7802p-pro/）**
   > 404 Not Found
   > 来源：https://solimedia.net/brand/planet/（抓取 2026-10-20）
+- **KP**：Nader Kashani（Founding Director / 老板（LinkedIn 2012-01 起；D&B Key Principal；邮箱未公开 → sales@solimedia.net 点名）= 收件人（第 96 批 官方登记核实 2026-10-28）） 〔https://solimedia.net/about/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-078，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Solimedia Technology Inc |
-| 总部/地址 | Vancouver, BC（329-470 Granville Street, V6C 1V5）, 加拿大 |
-| 其他 | Planet 渠道档案 PB-078（2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json）；自有品牌：否；最大未知：PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无） |
+| 法定名称 | Solimedia Technology Inc.（加拿大 BC 省公司；Soliton 集团成员；BC 登记号未取） |
+| 成立 | 2011-09-01（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 329-470 Granville Street, Vancouver, BC V6C 1V5 |
+| 人数 | 1–10 人 |
+| 其他 | Planet 渠道档案 PB-078（2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json）；自有品牌：否；最大未知：PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）；第 96 批：国别更正美国 → 加拿大；MikroTik / Grandstream VAR 网店 + 集团自有亚洲货源 → 分销 20% 一页纸，补 MikroTik 没有的商用 PoE（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）
 
@@ -221,7 +242,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@solimedia.net | 用户表原值 | Clients/ 表 |
+| Nader Kashani | Founding Director / 老板（LinkedIn 2012-01 起；D&B Key Principal；邮箱未公开 → sales@solimedia.net 点名）= 收件人（第 96 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://solimedia.net/about/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -257,7 +278,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -274,7 +295,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -290,7 +311,7 @@ updated: 2026-10-27
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Nader,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific. Your switch line-up is moving from PLANET to Grandstream GWN — which leaves no industrial DIN-rail unit on the shelf now that the IGS-801M is gone; a neutral-packed Marvell-based industrial line at EXW fills exactly that slot. Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?
 
@@ -315,12 +336,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

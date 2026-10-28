@@ -79,6 +79,24 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 96 批（DE · 1 次检索：eks-engel.de/en/legal-notice（Amtsgericht Siegen HRA 8091；Komplementärin eks Engel Verwaltungs GmbH HRB 8256；代表 Ralph Engel + Susanne Engel；USt DE252905712）+ wer-zu-wem（Schützenstr. 2, 57482 Wenden；36 人；<€10M；1931 创立；家族企业，Ralph Engel = GF & Inhaber）+ implisense（KG 2007-01-31 登记）+ Northdata（LEI 529900CLZQKLQC1QA289）+ eks 博客（1994 Ralph Engel 接班；工业以太网光口交换机自研）+ elektro.net 2026-10（**2026-09-01 Michael Matthesius 接管销售 / 市场 / 产品管理**；2027 起拓展国际项目业务），2026-10-28 查；https://www.eks-engel.de/en/legal-notice/）：**
+
+- 法定名 / 登记号：eks Engel FOS GmbH & Co. KG（eks-engel.de；Wenden）— 光纤 / 工业以太网交换机制造商 = 同行 · Amtsgericht Siegen HRA 8091（Komplementärin HRB 8256；LEI 529900CLZQKLQC1QA289） · 状态 **Active** · 成立 1931（创立）/ 2007-01-31（KG 登记） · GmbH & Co. KG（Engel 家族）
+- 行业码 / 经营范围：26 光纤传输 / 工业以太网交换机 / 现场总线转换器设计制造（Ex 防爆认证）
+- 注册地址：Schützenstr. 2, 57482 Wenden
+- 规模档：小型（36 人；<€10M）
+- 账目：—（KG）；—
+- 高管：Ralph Engel — Geschäftsführer / Inhaber（= 研究档 KP re@eks-engel.de 本人）
+- 高管：Susanne Engel — ppa. / HR（家族）
+- 高管：Guido Viedenz — ppa. Finance & Controlling
+- 高管：Michael Matthesius — 销售 / 市场 / 产品管理负责人（2026-09-01 起）
+- 控制人 / 股东：Engel 家族
+- 曾用名：EKS Engel GmbH & Co. KG
+- **这意味着什么：**
+  - **自研自产工业以太网交换机 = 同行** → 守界：不发价格表、不加厚、B 不动（研究档 KP 就是老板，更不能发）
+  - 记档价值：2026-09 新产品管理负责人 + 2027 国际扩张 = 若其日后要「商用 PoE 补线外采」，对口是 Michael Matthesius —— 等他来
+- 备注：不再查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,15 +139,18 @@ updated: 2026-10-28
 - **【用户表】bypass 工业 FS MC 多功能 VC**
   > bypass 工业FS MC 多功能VC；有人在卖他们的产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ralph Engel（）re@eks-engel.de 〔用户表〕
+- **KP**：Ralph Engel（Geschäftsführer / Inhaber（1994 接班；HRA 8091 Siegen 代表）= 老板 —— **同行（自产工业以太网交换机）：不发**（第 96 批 官方登记核实 2026-10-28））re@eks-engel.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 eks-engel.de，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | eks Engel FOS GmbH & Co. KG（Amtsgericht Siegen HRA 8091；Komplementärin eks Engel Verwaltungs GmbH HRB 8256；LEI 529900CLZQKLQC1QA289） |
+| 成立 | 1931（创立）/ 2007-01-31（KG 登记）（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Schützenstr. 2, 57482 Wenden |
+| 人数 | 36 人；<€10M |
+| 其他 | 官网 eks-engel.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 96 批：光纤 / 工业以太网交换机制造商 = 同行 → 不发价格表、B 不动；2026-09-01 Michael Matthesius 接管销售 / 产品管理，2027 国际扩张 —— 若其要外采商用 PoE 补线，对口是他（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤系统 / 工业交换机 / MC / VC（自有品牌 eks Engel）
 
@@ -232,7 +253,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ralph Engel | — | re@eks-engel.de | 调研核实（公开页） | 用户表 |
+| Ralph Engel | Geschäftsführer / Inhaber（1994 接班；HRA 8091 Siegen 代表）= 老板 —— **同行（自产工业以太网交换机）：不发**（第 96 批 官方登记核实 2026-10-28） | re@eks-engel.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

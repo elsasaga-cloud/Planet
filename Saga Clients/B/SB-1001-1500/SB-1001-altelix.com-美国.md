@@ -93,6 +93,22 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 96 批（US · 1 次检索：FL 镜像 bisprofiles / flcompanyregistry / bizprofile（ALTELIX LLC；文件号 L16000173253；FEI 81-3917803；2016-09-15 成立；Active；1201 Clint Moore Road, Boca Raton FL 33487；1 名管理人）+ altelix.com/about-us（工程师创办 / 经营；20+ 年 NEMA 机箱经验；Boca Raton 工程 / 制造 / 配送中心）+ LinkedIn（11–50 人；2016）+ Datanyze / Manta（CEO / President Peter Roth；20 人；$3.6M）+ PitchBook（20 人；PPP 贷款 $237K）+ 新闻稿（Press Contact Eric Raskin），2026-10-28 查；https://bisprofiles.com/fl/altelix-l16000173253）：**
+
+- 法定名 / 登记号：Altelix LLC（altelix.com；Boca Raton FL）— NEMA 防水机箱 / 天线制造商 · Florida L16000173253（FEI 81-3917803） · 状态 **Active** · 成立 2016-09-15 · Florida Limited Liability Company
+- 行业码 / 经营范围：334220 防水 NEMA 机箱 / 天线 / 线缆组件设计制造 + 配套 PoE / 工业交换机转售
+- 注册地址：1201 Clint Moore Road, Boca Raton, FL 33487
+- 规模档：小型（11–20 人；$3.6–10M 第三方估）
+- 账目：—；—
+- 高管：Peter Roth — President / CEO（老板）
+- 高管：Kenneth Burgner / Ryan Sheehan — 研究档 KP（职务未取）
+- 高管：Eric Raskin — 新闻联络 / 销售
+- 控制人 / 股东：Peter Roth（推定）
+- **这意味着什么：**
+  - 机箱厂的交换机都是外采配套（机箱内 DIN 导轨工业 PoE）→ **工业 PoE 小口数一条线**：STI-054GP / STI-144GP 配其 NEMA 机箱套装，分销 20% 或贴标 OEM 30% 皆可
+  - 研究档 KP 两位职务未取，老板 Peter Roth 邮箱未公开 → 先写研究档 KP、抄 sales@
+  - 发信窗口 Wed 08–10 ET；不加厚
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,16 +136,20 @@ updated: 2026-10-28
 - **【官网快照】Altelix 定位**
   > Altelix designs and manufactures a wide range of weatherproof equipment enclosures and antennas for applications including Emergency Communications, Rapid Deployment and Wireless Communications
   > 来源：https://altelix.com/（抓取 2026-10-21）
-- **KP**：Kenneth Burgner（）ken.burgner@altelix.com 〔用户表〕
+- **KP**：Kenneth Burgner（研究档 KP（职务未取）= 收件人、抄 sales@（第 96 批 官方登记核实 2026-10-28））ken.burgner@altelix.com 〔用户表〕
 - **KP**：Ryan Sheehan（）ryan.sheehan@altelix.com 〔用户表〕
+- **KP**：Peter Roth（President / CEO（Datanyze / Manta；FL L16000173253 管理人）= 老板（邮箱未公开）（第 96 批 官方登记核实 2026-10-28）） 〔https://bisprofiles.com/fl/altelix-l16000173253〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 altelix.com，语言 en，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | Altelix LLC（Florida L16000173253；FEI 81-3917803） |
+| 成立 | 2016-09-15（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1201 Clint Moore Road, Boca Raton, FL 33487 |
+| 人数 | 11–20 人；$3.6–10M（第三方） |
+| 其他 | 官网 altelix.com，语言 en，快照状态 ok；角色判定来源：待核；第 96 批：NEMA 防水机箱 / 天线制造商，机箱内交换机外采配套 → 工业 PoE 小口数一条线（STI-054GP / STI-144GP），分销 20% 或贴标 30%（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：防水设备机箱 / 天线制造（自有品牌 Altelix）
 - **触达通道（公开）**：role: 户外机箱/天线制造商（美国，PoE 交换机为配套）；region: 美国；contact: ryan.sheehan@altelix.com、ken.burgner@altelix.com
@@ -198,8 +218,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kenneth Burgner | — | ken.burgner@altelix.com | 调研核实（公开页） | 用户表 |
+| Kenneth Burgner | 研究档 KP（职务未取）= 收件人、抄 sales@（第 96 批 官方登记核实 2026-10-28） | ken.burgner@altelix.com | 调研核实（公开页） | 用户表 |
 | Ryan Sheehan | — | ryan.sheehan@altelix.com | 调研核实（公开页） | 用户表 |
+| Peter Roth | President / CEO（Datanyze / Manta；FL L16000173253 管理人）= 老板（邮箱未公开）（第 96 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://bisprofiles.com/fl/altelix-l16000173253 |
 
 - **通道建议**：企业邮箱可直发
 

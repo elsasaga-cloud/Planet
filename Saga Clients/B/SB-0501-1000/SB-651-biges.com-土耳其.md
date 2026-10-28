@@ -79,6 +79,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 96 批（TR · 1 次检索：LinkedIn（1998 创立；51–200 人；Şişli；20+ 年多项技术首次引入土耳其）+ kariyer.net（Famas Plaza, Piyalepaşa Blv. Şişli；100–149 人）+ RocketReach（77 人；$23.5M 第三方估；Famas Plaza B Blok No 77）+ manuzone（Biges Güvenli Hayat Teknolojileri Elektronik Anonim Şirketi；品牌 biges）+ GitHub biges（arge@biges.com；域名已验证）+ contactout（84 人），2026-10-28 查；https://tr.linkedin.com/company/biges-as）：**
+
+- 法定名 / 登记号：Biges Güvenli Hayat Teknolojileri Elektronik A.Ş.（biges.com；Şişli / İstanbul）— 1998 起的安防技术公司，自有 biges 品牌 + 研发 · MERSİS 未取 · 状态 **Active（2026 仍在招聘）** · 成立 1998 · Anonim Şirketi
+- 行业码 / 经营范围：26.30 / 46.52 安防 / 门禁 / 可视对讲 / 移动安防系统自有品牌 + 研发 + 分销
+- 注册地址：Piyalepaşa Bulvarı No:77 Famas Plaza B Blok, 34384 Şişli / İstanbul
+- 规模档：中型（77–149 人；$20M 级第三方估）
+- 账目：—；—
+- 高管：Erdal Gökşen — 研究档 KP（职务未取）
+- 高管：Erhan Özel — contactout 列示
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - 自有 biges 品牌 + 自建研发（GitHub arge@）→ 系统里的 PoE 交换机大概率外采贴标 → **OEM 30%**（STC-028GP / STC-228GP / STC-2224GP 贴 biges 标）
+  - 研究档 KP 职务未取 → 发信抄 arge@ / info@ 点名「ürün yönetimi」
+  - 发信窗口 Thu 10–12 TRT；B BIG
+- 备注：KP 职务待核。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,15 +123,18 @@ updated: 2026-10-28
 - **【官网快照】Biges 定位**
   > Biges ; kamera güvenlik alarm sistemleri ve hırsız alarm sistemleri, alarm izleme hizmeti ; VGuard, Bul…
   > 来源：https://biges.com/（抓取 2026-10-21）
-- **KP**：Erdal Gökşen（）erdal.goksen@biges.com 〔用户表〕
+- **KP**：Erdal Gökşen（研究档 KP（职务未取）= 收件人，抄 arge@ / info@ 点名「ürün yönetimi」（第 96 批 官方登记核实 2026-10-28））erdal.goksen@biges.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 biges.com，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Biges Güvenli Hayat Teknolojileri Elektronik A.Ş.（MERSİS 未取） |
+| 成立 | 1998（第 96 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Piyalepaşa Bulvarı No:77 Famas Plaza B Blok, 34384 Şişli / İstanbul |
+| 人数 | 77–149 人；$20M 级（第三方） |
+| 其他 | 官网 biges.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 96 批：自有 biges 品牌 + 自建研发（GitHub arge@）→ 系统内 PoE 交换机外采贴标 → OEM 30%，B BIG（第 96 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防摄像 / 报警 / 报警监控（自有品牌 VGuard / Bullwark）
 - **触达通道（公开）**：role: 安防分销商（土耳其，自有品牌 VGuard/Bullwark）；region: 土耳其；contact: erdal.goksen@biges.com
@@ -183,7 +202,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Erdal Gökşen | — | erdal.goksen@biges.com | 调研核实（公开页） | 用户表 |
+| Erdal Gökşen | 研究档 KP（职务未取）= 收件人，抄 arge@ / info@ 点名「ürün yönetimi」（第 96 批 官方登记核实 2026-10-28） | erdal.goksen@biges.com | 调研核实（公开页） | 用户表 |
 | Erdal | — | erdal.goksen@biges.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
