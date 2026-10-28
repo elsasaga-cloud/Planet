@@ -83,6 +83,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 115 批（KR · 2 次检索：highlink.co.kr/about-us（주식회사 하이링크；빌딩/공장 자동화 네트워크 유무선 제품 개발 제조；대표이사 김윤섭；2.4/5GHz 산업용 무선랜 AP/CPE / 모드버스 게이트웨이 / 424/447MHz 무선 모뎀 6종）+ highlink.co.kr 首页 schema（경기도 광주시；464-865；01053957546；424/447MHz · 900MHz 무선 제품；RS232/422/485 시리얼 컨버터）+ highlink.co.kr/wifi-tdma（DIVA-IAP-AX；국립전파연구원 KC 인증；Qualcomm Atheros）；jobkorea 同名 하이링크솔루션（游戏软件）/ bizno 하이링크비즈마켓 ≠；사업자등록번호 两查未得；2026-10-28，2026-10-28 查；https://www.highlink.co.kr/about-us）：**
+
+- 法定名 / 登记号：주식회사 하이링크 Highlink Co., Ltd.（highlink.co.kr；**代表이사 김윤섭 Kim Yoon-seop**；경기도 광주시（464-865）；电话 010-5395-7546）— **楼宇 / 工厂自动化有线无线网络产品自研自产（DIVA 系列工业 Wi-Fi 6 AP / CPE（KC 특정소출력）、424/447 MHz / 900 MHz 工业 RF 调制解调器、串口转换器、I/O 模块、定制固件）+ 网络咨询 / 施工 / 维保**；栏目含 PoE 交换机 / 工业管理 / 非管理交换机（表内：有 Diva / Elink / **HRUI 洪瑞** 的）；사업자등록번호 未取 → 部分坐实；无具名 KP（support@）；23 次跟进无回复 · 未取（사업자등록번호 两查未得） · 状态 **营业中（官网在线）** · 成立 未取 · 주식회사
+- 行业码 / 经营范围：工业无线 / RF 调制解调器 自研自产 + 自动化网络集成（京畿广州）
+- 注册地址：경기도 광주시（邮编 464-865；详细地址未取）
+- 规模档：小型（联系电话为手机）
+- 账目：未取；—
+- 高管：김윤섭 Kim Yoon-seop — 대표이사（拍板人）
+- 高管：（研究档无具名 KP：support@highlink.co.kr → 收件 support@、称 Mr. Kim）
+- 控制人 / 股东：김윤섭（推定）
+- **这意味着什么：**
+  - **自研工业无线厂 + 在售 HRUI 商用 PoE（Q-33 口径：只推 Marvell 管理 / 工业线）→ 配套 OEM 30% B small，一页纸一次（切口：随其 DIVA 工业 AP 成套的工业 PoE：STI-154GP / STI-288DGGPM / STI-488DGGPM（宽温、DIN、3 年保）+ 商用管理 PoE 只给 STC-4424GCPM（Marvell）；贴 Highlink 标可谈；英文，收 support@ 称 Mr. Kim）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；再无回声 → 不动
+  - 守界：不碰其 HRUI 商用 PoE 现线、不比价；사업자등록번호 未取 → 部分坐实、只做预付；KC 不声称
+- 备注：配套 OEM 30% small（Q-33 口径）；一页纸一次；部分坐实（官网代表 + 市 + 电话；号码 / 详址未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,14 +141,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS 商业 PoE 大口；有 Elink 和 HRUI 的**
   > 工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；有Elink和洪瑞的；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：김윤섭 Kim Yoon-seop（대표이사 주식회사 하이링크 Highlink Co., Ltd.（highlink.co.kr/about-us）= 拍板人（研究档无具名 KP → 收件 support@ 称 Mr. Kim）（第 115 批 官方登记核实 2026-10-28）） 〔https://www.highlink.co.kr/about-us〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | 주식회사 하이링크 Highlink Co., Ltd.（경기도 광주시 464-865；工业无线 DIVA 系列 / RF 调制解调器自研自产；在售 HRUI 商用 PoE；사업자등록번호 两查未取） |
+| 成立 | 未取（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 韩国 |
-| 其他 | 官网 highlink.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 highlink.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案；第 115 批：自研工业无线厂 + HRUI 商用 PoE 在供（Q-33 口径：只推 Marvell 管理 / 工业线）→ **配套 OEM 30% B small，一页纸一次（工业 PoE STI-154GP / STI-288DGGPM / STI-488DGGPM + 商用只给 STC-4424GCPM；贴 Highlink 标可谈；收 support@ 称 Mr. Kim）**；再无回声 → 不动；部分坐实、只做预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业无线 / RF 调制解调器（自有品牌 DIVA）；工业与 PoE 交换机（Elink / HRUI 供货）
 - **触达通道（公开）**：role: 韩国工业无线方案商（交换机现含 HRUI → Q-33 口径）；region: 韩国；contact: support@highlink.co.kr
@@ -243,7 +261,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | support@highlink.co.kr | 用户表原值 | Clients/ 表 |
+| 김윤섭 Kim Yoon-seop | 대표이사 주식회사 하이링크 Highlink Co., Ltd.（highlink.co.kr/about-us）= 拍板人（研究档无具名 KP → 收件 support@ 称 Mr. Kim）（第 115 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.highlink.co.kr/about-us |
 
 - **通道建议**：邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

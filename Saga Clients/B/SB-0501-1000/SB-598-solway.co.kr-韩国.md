@@ -91,6 +91,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 115 批（KR · 2 次检索：「솔웨이 Solway solway.co.kr 네트워크 bypass 스위치 사업자등록번호 대표 김진수」→ bizno 주식회사 소울웨어 547-86-01588 / 솔내시스템(주) 121-81-30760 / 주식회사 한국에스웨이 106-86-30752 均 ≠；「"solway.co.kr" OR "Solway Co" Korea network bypass switch TAP」→ 仅 rocketreach Solway Group Asia Pacific（矿业投资）≠；2 查即停；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：（表内 solway.co.kr；jskim@solway.co.kr + Gmail；「bypass」；KP Jinsoo Kim）— **官网为防爬验证页；2 次检索均落空（bizno 소울웨어 / 솔내시스템 / 한국에스웨이、RocketReach Solway Group 矿业 均 ≠）→ 主体未坐实**；名单内未触达 · 未取 · 状态 **主体不明** · 成立 未取 · 未取
+- 行业码 / 经营范围：主体不明（韩国 bypass 需求）
+- 注册地址：未取
+- 规模档：未取
+- 账目：—；—
+- 高管：Jinsoo Kim — 研究档 KP（jskim@solway.co.kr）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **官网不可读 + 两查无主体 + 需求 bypass（Saga 无）→ 不动（B 保留；对方自来再核）**
+- 备注：不动（未坐实 + 官网不可达 + 需求不对位）；未坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,15 +133,17 @@ updated: 2026-10-28
 - **【用户表】bypass**
   > bypass
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jinsoo Kim（）jskim@solway.co.kr 〔用户表〕
+- **KP**：Jinsoo Kim（Solway 研究档 KP（主体未坐实；需求 bypass，Saga 无）（第 115 批 官方登记核实 2026-10-28））jskim@solway.co.kr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | 未坐实（solway.co.kr 官网为防爬验证页；2 查仅同名 소울웨어 / 솔내시스템 / 한국에스웨이 / Solway Group 矿业 ≠） |
+| 成立 | 未取（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 韩国 |
-| 其他 | 官网 solway.co.kr，语言 ko，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 solway.co.kr，语言 ko，快照状态 ok；角色判定来源：待核；第 115 批：官网不可读 + 两查无主体 + 需求 bypass（Saga 无）→ **不动（B 保留）**（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备（韩国，待核）
 - **触达通道（公开）**：role: 网络设备公司（韩国，bypass 需求）；region: 韩国；contact: jskim@solway.co.kr、jinsookim2982@gmail.com
@@ -199,7 +214,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jinsoo Kim | — | jskim@solway.co.kr | 调研核实（公开页） | 用户表 |
+| Jinsoo Kim | Solway 研究档 KP（主体未坐实；需求 bypass，Saga 无）（第 115 批 官方登记核实 2026-10-28） | jskim@solway.co.kr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

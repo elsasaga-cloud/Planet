@@ -88,6 +88,20 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 115 批（KR · 1 次检索：kofis.co.kr/ez/regis（상호 파이버베이스；대표 강민철；사업자번호 135-17-28243；경기 용인시 기흥구 영덕동 흥덕IT밸리 컴플레스동 516호；031-226-6314, 031-226-6339；통신판매번호 제2011-경기수원-2231호）+ fiberbase-net.com 공지（(주)파이버베이스 www.fiberbase.co.kr OTDR 제조 및 광 네트워크 솔루션 전문회사；강민철 대표이사；OTDR FISCAN9；휴대 접속 거치대 PSW-02；2016 동남아 / 중국 / 러시아 수출 계획）；2026-10-28，2026-10-28 查；http://kofis.co.kr/ez/regis.php）：**
+
+- 法定名 / 登记号：파이버베이스 Fiberbase（fiberbase.co.kr / fiberbase-net.com（(주)FB정보통신 DOTPIA）/ kofis.co.kr 光网络专门商城；**个人事业者登记 사업자번호 135-17-28243；통신판매 제2011-경기수원-2231호；대표 강민철 Kang Min-cheol（= KP Michael Kang 推定）**；경기 용인시 기흥구 영덕동 흥덕IT밸리 컴플렉스동 516호；电话 031-226-6314 / 6339）— **OTDR 制造（FISCAN9）+ 光网络方案（MC、PoE 交换机、机架、光猫；表内「MC 全买 Diva 牌」）**；后设 (주)파이버베이스 法人（号码未取）；23 次跟进无回复 · 사업자번호 135-17-28243（个人事业者；法人号未取） · 状态 **营业中（商城在线）** · 成立 ≤2011（通信贩卖 2011） · 个人事业者 → (주)파이버베이스（法人号未取）
+- 行业码 / 经营范围：OTDR 制造 + 光网络产品 分销（龙仁）
+- 注册地址：경기 용인시 기흥구 영덕동 흥덕IT밸리 컴플렉스동 516호
+- 规模档：小型
+- 账目：未取；—
+- 高管：강민철 Kang Min-cheol — 대표（研究档 KP Michael Kang 推定同人；michael_kang@fiberbase.co.kr）= 拍板人 / 收件人
+- 控制人 / 股东：강민철
+- **这意味着什么：**
+  - **光测试仪器自产 + 光网络分销（在用 Diva MC）、代表本人为 KP → 分销 20% B small，一页纸一次（切口：其 MC / 光配线之外的 PoE / 工业交换机补位：STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM + 贴 Fiberbase 标可谈 30%、MOQ 1、付费样机；MC / 光模块明说不做；英文，Michael Kang 直呼）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；再无回声 → 不动
+  - 守界：不点名 Diva；个人事业者档 → 只做预付；KC 不声称
+- 备注：分销 20% small；一页纸一次；坐实（商城页脚 사업자번호 + 代表 = KP 推定 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,15 +144,17 @@ updated: 2026-10-28
 - **【官网快照】Fiberbase 产品页**
   > fiberbase-net.com/default/product/sub2.php
   > 来源：https://fiberbase-net.com/default/product/sub2.php（抓取 2026-10-21）
-- **KP**：Michael Kang（）michael_kang@fiberbase.co.kr 〔用户表〕
+- **KP**：Michael Kang（대표 파이버베이스 Fiberbase（강민철 Kang Min-cheol；kofis.co.kr 页脚；推定同人）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28））michael_kang@fiberbase.co.kr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | 파이버베이스 Fiberbase（个人事业者 사업자번호 135-17-28243；통신판매 제2011-경기수원-2231호；경기 용인시 기흥구 영덕동 흥덕IT밸리 컴플렉스동 516호；后设 (주)파이버베이스 法人（号未取）；OTDR FISCAN9 制造 + 光网络分销；kofis.co.kr 商城） |
+| 成立 | ≤2011（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 韩国 |
-| 其他 | 官网 fiberbase.co.kr，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 fiberbase.co.kr，语言 ?，快照状态 ok；角色判定来源：待核；第 115 批：光测试仪器自产 + 光网络分销（在用 Diva MC）、代表本人为 KP → **分销 20% B small，一页纸一次（PoE / 工业交换机补位 STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM + 贴 Fiberbase 标可谈 30%、MOQ 1、付费样机；MC / 光模块明说不做；Michael Kang 直呼）**；再无回声 → 不动；个人事业者档 → 只做预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：MC / PoE 交换机 / 光猫分销（韩国）
 - **触达通道（公开）**：role: 光通信产品分销商（韩国，MC 现 Diva）；region: 韩国；contact: michael_kang@fiberbase.co.kr
@@ -236,7 +252,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Michael Kang | — | michael_kang@fiberbase.co.kr | 调研核实（公开页） | 用户表 |
+| Michael Kang | 대표 파이버베이스 Fiberbase（강민철 Kang Min-cheol；kofis.co.kr 页脚；推定同人）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28） | michael_kang@fiberbase.co.kr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

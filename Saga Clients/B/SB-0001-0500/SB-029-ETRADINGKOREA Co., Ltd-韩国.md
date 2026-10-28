@@ -86,6 +86,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 115 批（KR · 1 次检索：etradingkorea.com/sub/company/summary（(주)이트레이딩코리아；설립 2010년 9월 15일；대표이사 우성영；서울특별시 영등포구 영신로 220 KnK디지털타워 1413호；TEL 02-6672-0004~0008；제조 광모듈 산업용스위치；산업용 바이패스스위치 판매구축컨설팅；IT 장비/부품 수입대행 Global Outsourcing；공공조달 산업용 스위치 및 광모듈；파랑새 쇼핑몰；사업자등록번호 109-86-25355；기업은행 / 신한은행 계좌）+ rndcircle（(주)이트레이딩코리아；대표 우성영；사업자 번호 1098625355；2010.09.15；3명；10억~50억；자체 브랜드 ETK 고성능 이더넷 스위치와 산업용 네트워크 솔루션）；2026-10-28，2026-10-28 查；https://etradingkorea.com/sub/company/summary.asp）：**
+
+- 法定名 / 登记号：(주)이트레이딩코리아 ETRADINGKOREA Co., Ltd.（etradingkorea.com / .co.kr；**사업자등록번호 109-86-25355；设立 2010-09-15**；서울특별시 영등포구 영신로 220, KnK디지털타워 1413호；电话 02-6672-0004~0008）— **自有品牌 ETK 以太网 / 工业交换机 + 光模块 + 工业 bypass 交换机（制造 + 销售 + 咨询）、IT 设备 / 零件进口代行（Global Outsourcing）、公共采购（조달）供应商、파랑새 网店**；**대표이사 우성영 Woo Sung-young（= KP「Woosy」woosy777@naver.com）**；3 人；营收 10–50억 档；SECON 2023 接触；2025-06 对 Alarm 回复 INFO；另一联系人 Reesung Park（Gmail + 公司邮箱） · 사업자등록번호 109-86-25355 · 状态 **营业中** · 成立 2010-09-15 · 주식회사
+- 行业码 / 经营范围：自有品牌 ETK 交换机 / 光模块 + 进口代行 + 公共采购（首尔永登浦）
+- 注册地址：서울특별시 영등포구 영신로 220, KnK디지털타워 1413호 (영등포동8가)
+- 规模档：微型（3 人）
+- 账目：10–50억원 档；—
+- 高管：우성영 Woo Sung-young — 대표이사（研究档 KP Woosy；woosy777@naver.com）= 拍板人 / 收件人
+- 高管：Reesung Park（P.R. Sung）— 研究档联系人（reesung.park@etradingkorea.com）= 抄送
+- 控制人 / 股东：우성영（推定）
+- **这意味着什么：**
+  - **自有品牌 ETK + 自营进口代行 + 代表本人为 KP、2025-06 有回声 → 贴标 OEM 30% B，加厚一次（切口：ETK 标的 STI-288DGGPM / STI-488DGGPM / STI-0240GE（工业管理）+ STC-2224GP / STC-4424GCPM（商用管理 PoE）+ 自编货号 / 中性包装 / MOQ 1 / 付费样机；bypass 机型明说没有、光模块不做；英文，Woosy 直呼（公司邮箱 reesung.park@ 抄送、Naver 邮箱为其自用）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；回信 → 次候选
+  - 守界：公共采购（조달）项目不投标、KC 由其自办；3 人微型 → 只做预付
+- 备注：贴标 OEM 30%；B 加厚一次；坐实（官网 사업자등록번호 + 代表 = KP + 地址 + 设立日）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,8 +140,8 @@ updated: 2026-10-28
   > 回复：INFO
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Park Ree Sung（P.R. Sung）（（用户记录））（用户记录为 Gmail 个人邮箱） +82-2-6672-0008 / +82-10-6616-5491〔用户 Clients 表（Secon 2023）〕
-- **KP**：Woosy（）woosy777@naver.com +82 10 6616 5491〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Reesung Park（）reesung.park@etradingkorea.com +82 2 6672 0008〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Woosy（우성영 Woo Sung-young）（대표이사 (주)이트레이딩코리아 ETRADINGKOREA Co., Ltd.（etradingkorea.com 公司概要）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28））woosy777@naver.com +82 10 6616 5491〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Reesung Park（ETRADINGKOREA 研究档联系人（公司邮箱）= 抄送（第 115 批 官方登记核实 2026-10-28））reesung.park@etradingkorea.com +82 2 6672 0008〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。
 - 备注：重启角度：HRUI STH 工业 2.5G/10G L3 机型作为其 ETK 新 SKU 的 ODM 来源，由其自行取 KC 认证；铁路/电厂方案不接。
 
@@ -134,10 +149,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ETRADINGKOREA Co., Ltd. |
-| 成立 | （待核） |
+| 法定名称 | (주)이트레이딩코리아 ETRADINGKOREA Co., Ltd.（사업자등록번호 109-86-25355；서울 영등포구 영신로 220, KnK디지털타워 1413호；3 人；营收 10–50억 档；自有品牌 ETK 交换机 / 光模块 / 工业 bypass；进口代行；公共采购供应商；파랑새 网店） |
+| 成立 | 2010-09-15（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Seoul, Korea（+82 2 6672 0008） |
-| 其他 | 自有 ETK 系列交换机 |
+| 其他 | 自有 ETK 系列交换机；第 115 批：自有品牌 ETK + 自营进口 + 代表本人为 KP、2025-06 有回声 → **贴标 OEM 30% B，加厚一次（ETK 标 STI-288DGGPM / STI-488DGGPM / STI-0240GE + STC-2224GP / STC-4424GCPM + 自编货号 / 中性包装 / MOQ 1 / 付费样机；bypass / 光模块明说没有；Woosy 直呼、抄 reesung.park@）**；回信 → 次候选；微型 → 只做预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业网络分销（Cisco / Aruba / Fortinet / Juniper）；自有品牌 ETK 交换机 / 工业交换机 / 2.5G / 10G；CCTV 方案
 
@@ -239,8 +254,9 @@ updated: 2026-10-28
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Park Ree Sung（P.R. Sung） | （用户记录） | （用户记录为 Gmail 个人邮箱） / +82-2-6672-0008 / +82-10-6616-5491 | 调研核实（公开页） | 用户 Clients 表（Secon 2023） |
-| Woosy | — | woosy777@naver.com / +82 10 6616 5491 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Reesung Park | — | reesung.park@etradingkorea.com / +82 2 6672 0008 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Woosy（우성영 Woo Sung-young） | 대표이사 (주)이트레이딩코리아 ETRADINGKOREA Co., Ltd.（etradingkorea.com 公司概要）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28） | woosy777@naver.com / +82 10 6616 5491 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Reesung Park | ETRADINGKOREA 研究档联系人（公司邮箱）= 抄送（第 115 批 官方登记核实 2026-10-28） | reesung.park@etradingkorea.com / +82 2 6672 0008 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Woosy | Director of Technical Sales | woosy777@naver.com / reesung.park@gmail.com / +82266720008 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

@@ -79,6 +79,20 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 115 批（KR · 2 次检索：第 1 次「캔솔 Cansol … 사업자등록번호」落空（同名 코나솔 / 찬솔 ≠）；第 2 次 monadinc.co.kr/about/History（History of CANSOL；Founding of MONAD Inc.；Developed Industrial L2 Switch 1st / 2nd version；BMT passed by Korea Expressway Corporation；Sejong / Dongtan U-city / Ansan ITS / Gwangan Bridge installations；Founding of CANSOL Co., Ltd., split business role with MONAD；#1209 B-Dong Seongnam Central BIZ Tower 2Cha Sagimaggolro 99 Jungwon-Gu Seongnam 13201）+ cansol.co.kr/about（started as Monad focused on R&D；sister company Cansol sales & marketing；KJ Lee CEO of CANSOL Co., Ltd.）；2026-10-28，2026-10-28 查；http://www.monadinc.co.kr/about/History.html）：**
+
+- 法定名 / 登记号：CANSOL Co., Ltd.（cansol.co.kr；**MONAD Inc.（monadinc.co.kr）研发 + CANSOL 销售的姊妹对；#1209 B-Dong, Seongnam Central BIZ Tower 2차, 사기막골로 99, 중원구, 성남시 13201**）— **自研工业 L2 交换机（韩国道路公社 BMT 通过；世宗 / 东滩 U-City、ITS、高速公路、隧道、广安大桥项目）+ CCTV 远程清洗系统（专利）**；**CEO KJ Lee（= KP kjlee@）**；사업자등록번호 未取 → 部分坐实；11 次跟进无回复 · 未取（사업자등록번호 两查未得） · 状态 **营业中（官网 2025 在线）** · 成立 未取 · 주식회사 ×2（MONAD 研发 / CANSOL 销售）
+- 行业码 / 经营范围：工业 L2 交换机 自研 + ITS / 道路项目 集成（城南）
+- 注册地址：#1209 B-Dong, Seongnam Central BIZ Tower 2cha, Sagimakgol-ro 99, Jungwon-gu, Seongnam 13201
+- 规模档：小型（研发型）
+- 账目：未取；—
+- 高管：KJ Lee — CEO of CANSOL（研究档 KP kjlee@cansol.co.kr）= 拍板人 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自研工业交换机 + ITS 项目方、CEO 本人为 KP、曾问 bypass 工业机 → 贴标 / 配套 30% B small，一页纸一次（切口：bypass 机型明说没有；作其自研机之外的性价比配套：STI-288DGGPM / STI-488DGGPM / STI-0240GE 宽温 + 3 年保 + 自编货号；英文，KJ Lee 直呼）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；再无回声 → 不动（同行自研为主）
+  - 守界：道路 ITS 可谈、轨交不接；不引用其 BMT / 专利；사업자등록번호 未取 → 部分坐实、只做预付
+- 备注：贴标 / 配套 30% small；一页纸一次；部分坐实（官网沿革 + 地址 + CEO = KP；号码未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,15 +132,17 @@ updated: 2026-10-28
 - **【用户表】工业 switch bypass；Monad 自有品牌**
   > 工业switch bypass monadinc是他们自己的品牌；邮件中有详细联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Lee（）kjlee@cansol.co.kr 〔用户表〕
+- **KP**：KJ Lee（CEO, CANSOL Co., Ltd.（cansol.co.kr/about；MONAD Inc. 研发姊妹）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28））kjlee@cansol.co.kr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | CANSOL Co., Ltd.（销售）+ MONAD Inc.（研发；monadinc.co.kr）；#1209 B-Dong, Seongnam Central BIZ Tower 2차, 사기막골로 99, 중원구, 성남시 13201；사업자등록번호 两查未取 |
+| 成立 | 未取（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 韩国 |
-| 其他 | 官网 cansol.co.kr，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 cansol.co.kr，语言 ?，快照状态 ok；角色判定来源：用户表；第 115 批：自研工业 L2 交换机 + ITS / 道路项目方、CEO = KP、曾问 bypass → **贴标 / 配套 30% B small，一页纸一次（bypass 明说没有；STI-288DGGPM / STI-488DGGPM / STI-0240GE 宽温 + 3 年保 + 自编货号；KJ Lee 直呼）**；再无回声 → 不动；部分坐实、只做预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业交换机（自有品牌 Monad）
 - **触达通道（公开）**：role: 韩国工业网络品牌商（Monad，bypass 需求；官网待核）；region: 韩国；contact: kjlee@cansol.co.kr
@@ -209,7 +225,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Lee | — | kjlee@cansol.co.kr | 调研核实（公开页） | 用户表 |
+| KJ Lee | CEO, CANSOL Co., Ltd.（cansol.co.kr/about；MONAD Inc. 研发姊妹）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28） | kjlee@cansol.co.kr | 调研核实（公开页） | 用户表 |
+| Lee | — | kjlee@cansol.co.kr | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 11 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

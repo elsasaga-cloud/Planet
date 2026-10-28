@@ -94,6 +94,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 115 批（KR · 1 次检索：hcin4.com/default/01/02（(주)한창인포텍；대표이사 배성훈；설립일 2011년 09월 06일；직원수 10명；본사 서울시 용산구 청파로 40 삼구빌딩 1610호；02-3272-4000；이메일 jryoun74@hcin4.com；네트워크 스위치허브, RJ45 커넥터, DP케이블 제조 및 유통；사업자등록번호 106-86-81310）+ rfoint.com（R.FOINT MALL；법인명 (주)한창인포텍；대표자 배성훈；사업자 등록번호 106-86-81310；통신판매업 신고 00960；VOLKTEK 카테고리；우리은행 계좌）；2026-10-28，2026-10-28 查；https://hcin4.com/default/01/02.php）：**
+
+- 法定名 / 登记号：(주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com / rfoint.com R.FOINT MALL；**사업자등록번호 106-86-81310；设立 2011-09-06；통신판매업 00960**；서울시 용산구 청파로 40, 삼구빌딩 1610호 (04373)；电话 02-3272-4000；公司邮箱 jryoun74@hcin4.com = KP）— **网络交换机 / RJ45 连接器 / DP 线缆制造 + 分销（自有 logo 商用 FS；Volktek（台湾）代理专区；摄影器材批发）**；代表이사 **배성훈 Bae Seong-hoon**；10 人；KP Peter Youn（Director，会英文）/ Park；表内 2 次跟进无回复 · 사업자등록번호 106-86-81310 / 통신판매업 00960 · 状态 **营业中（官网 + 商城在线）** · 成立 2011-09-06 · 주식회사
+- 行业码 / 经营范围：网络交换机 / 连接器 / 线缆 制造 + 分销（首尔龙山）
+- 注册地址：서울시 용산구 청파로 40, 삼구빌딩 1610호 (04373)
+- 规模档：小型（10 人）
+- 账目：未取；—
+- 高管：배성훈 Bae Seong-hoon — 대표이사（拍板人）
+- 高管：Peter Youn — Director（研究档 KP；jryoun74@hcin4.com = 公司对外邮箱）= 收件人
+- 高管：Park — 研究档联系人（parkhj4003@hcin4.com）= 抄送
+- 控制人 / 股东：배성훈（推定）
+- **这意味着什么：**
+  - **自有 logo 商用 FS + 台系 Volktek 代理、Director 会英文、仅触达 2 次 → 贴标 OEM 30% B，加厚一次（切口：其自有 logo 线的管理 / PoE 升级：STC-228GP / STC-2224GP / STC-4424GCPM（Marvell 管理 PoE）+ 工业 STI-154GP / STI-288DGGPM 对位其台系线 + 自编货号 / 中性包装 / MOQ 1 / 付费样机；稿内不点名 Volktek；英文，Peter Youn 直呼、抄 Park）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；回信 → 次候选
+  - 守界：线缆 / 连接器明说不做；KC 不声称
+- 备注：贴标 OEM 30%；B 加厚一次；坐实（官网 사업자등록번호 + 代表 + 地址 + 设立日 + KP 邮箱 = 公司邮箱）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,16 +149,19 @@ updated: 2026-10-28
 - **【用户表】Volktek 的；自己的 logo 商业 FS**
   > Volktek的 / 会英文 POE switch / 自己的logo 主要是商业FS 别人在卖他们家的；attn: Peter Youn
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Peter Youn（）jryoun74@hcin4.com 〔用户表〕
-- **KP**：Park（）parkhj4003@hcin4.com 〔用户表〕
+- **KP**：Peter Youn（Director, (주)한창인포텍 HANCHANG Infotech（公司对外邮箱 = KP 邮箱；会英文）= 收件人；대표이사 배성훈 = 拍板人（第 115 批 官方登记核实 2026-10-28））jryoun74@hcin4.com 〔用户表〕
+- **KP**：Park（HANCHANG Infotech 研究档联系人 = 抄送（第 115 批 官方登记核实 2026-10-28））parkhj4003@hcin4.com 〔用户表〕
+- **KP**：배성훈 Bae Seong-hoon（대표이사 (주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com 회사개요）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔https://hcin4.com/default/01/02.php〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | (주)한창인포텍 HANCHANG Infotech Co., Ltd.（사업자등록번호 106-86-81310；통신판매업 00960；서울 용산구 청파로 40, 삼구빌딩 1610호；10 人；交换机 / RJ45 / DP 线缆制造 + 分销；Volktek 代理；R.FOINT MALL） |
+| 成立 | 2011-09-06（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 韩国 |
-| 其他 | 官网 hcin4.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 hcin4.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 115 批：自有 logo 商用 FS + Volktek 代理、Director 会英文、仅触达 2 次 → **贴标 OEM 30% B，加厚一次（管理 / PoE 升级 STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-154GP / STI-288DGGPM + 自编货号 / 中性包装 / MOQ 1 / 付费样机；不点名 Volktek；Peter Youn 直呼、抄 Park）**；回信 → 次候选— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品（自有品牌，Volktek 供货）
 - **触达通道（公开）**：role: 韩国网络品牌商（自有标商用 FS，现 Volktek）；region: 韩国；contact: jryoun74@hcin4.com、parkhj4003@hcin4.com
@@ -225,8 +244,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Peter Youn | — | jryoun74@hcin4.com | 调研核实（公开页） | 用户表 |
-| Park | — | parkhj4003@hcin4.com | 调研核实（公开页） | 用户表 |
+| Peter Youn | Director, (주)한창인포텍 HANCHANG Infotech（公司对外邮箱 = KP 邮箱；会英文）= 收件人；대표이사 배성훈 = 拍板人（第 115 批 官方登记核实 2026-10-28） | jryoun74@hcin4.com | 调研核实（公开页） | 用户表 |
+| Park | HANCHANG Infotech 研究档联系人 = 抄送（第 115 批 官方登记核实 2026-10-28） | parkhj4003@hcin4.com | 调研核实（公开页） | 用户表 |
+| 배성훈 Bae Seong-hoon | 대표이사 (주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com 회사개요）= 拍板人（第 115 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://hcin4.com/default/01/02.php |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

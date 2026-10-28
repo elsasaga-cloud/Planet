@@ -77,6 +77,19 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 115 批（IN · 1 次检索：indiamart（Technoverse Business Solutions；Dombivli, Thane；GST 27CWEPK3302H2ZS；GST Registration Date 07-11-2023；Service Provider and Others；0 - 40 L；2 ND Floor 202 Shiv Sambhav CHS Savarkar Road Kalyan Dombivli Thane-421201）+ crunchbase（supplies switches, routers and wireless products；Mumbai；11-50 虚高）+ salezshark（name@technoversebs.com；421201）；2026-10-28，2026-10-28 查；https://www.indiamart.com/company/70154489/）：**
+
+- 法定名 / 登记号：Technoverse Business Solutions（technoversebs.com；**个体经营；GSTIN 27CWEPK3302H2ZS（2023-11-07）**；2nd Floor, 202, Shiv Sambhav CHS, Savarkar Road, Kalyan, Dombivli, Thane 421201, Maharashtra）— 孟买都市圈 IT 硬件 / 网络产品经销（Ubiquiti / Cisco / TP-Link / Aruba / Juniper / Netgear；IndiaMART 列 断路器 / PLC 柜 / 光模块 / 路由器 / 交换机）；营业额 ₹0–40 lakh；KP Suyash Mishra（WA 已加无实质回复） · GSTIN 27CWEPK3302H2ZS · 状态 **Active** · 成立 2023（GST 2023-11-07） · Proprietorship（个体）
+- 行业码 / 经营范围：IT 硬件 / 网络产品 经销（东比夫利 / 孟买）
+- 注册地址：2nd Floor, 202, Shiv Sambhav CHS, Savarkar Road, Kalyan, Dombivli, Thane 421201
+- 规模档：个体 / 微型
+- 账目：₹0–40 lakh（自报）；—
+- 高管：Suyash Mishra — 研究档 KP（sales@technoversebs.com）
+- 控制人 / 股东：未取（GST 登记人未公开）
+- **这意味着什么：**
+  - **2023 年新设个体经销、WA 无回复 → 不动（B 保留；自来询盘按一口价 + T/T 预付）**
+- 备注：不动（个体 + 新设 + 无回声）；坐实（GSTIN + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,15 +116,17 @@ updated: 2026-10-28
 - **【用户表】询盘统计表来源，无兴趣描述**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Suyash Mishra（）sales@technoversebs.com +91 74001 75292〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Suyash Mishra（Technoverse Business Solutions 研究档 KP（个体经销；WA 已加无回复）（第 115 批 官方登记核实 2026-10-28））sales@technoversebs.com +91 74001 75292〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Technoverse Business Solutions |
+| 法定名称 | Technoverse Business Solutions（个体经营；GSTIN 27CWEPK3302H2ZS，2023-11-07；202, Shiv Sambhav CHS, Savarkar Road, Dombivli, Thane 421201；营业额 ₹0–40 lakh） |
+| 成立 | 2023（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Mumbai, India |
+| 其他 | 第 115 批：2023 年新设个体经销、WA 无回复 → **不动（B 保留；自来询盘按一口价 + T/T 预付）**（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 硬件 / 网络产品经销（多品牌）
 - **触达通道（公开）**：role: 经销商；region: 印度（孟买）
@@ -171,7 +186,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Suyash Mishra | — | sales@technoversebs.com / +91 74001 75292 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Suyash Mishra | Technoverse Business Solutions 研究档 KP（个体经销；WA 已加无回复）（第 115 批 官方登记核实 2026-10-28） | sales@technoversebs.com / +91 74001 75292 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

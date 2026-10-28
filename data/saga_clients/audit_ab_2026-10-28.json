@@ -9771,7 +9771,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-211": {
@@ -10123,7 +10123,7 @@
    "p1": "STH 系列 + STC-424XGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-227": {
@@ -12218,8 +12218,8 @@
   },
   "SB-322": {
    "grade": "B",
-   "iso": "KR",
-   "country": "韩国",
+   "iso": "TW",
+   "country": "台湾",
    "facts": 2,
    "in": 0,
    "out": 1,
@@ -12543,7 +12543,7 @@
    "p1": "STC-228GP",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-337": {
@@ -15711,7 +15711,7 @@
    "p1": "STI-111GP",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-481": {
@@ -15821,7 +15821,7 @@
    "p1": "STC-28GPM / STC-424XGGPM + ODM 一页",
    "tier": 30,
    "signals": 1,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-486": {
@@ -16195,7 +16195,7 @@
    "p1": "STC-424DGGPM-280W",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-503": {
@@ -16393,7 +16393,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-512": {
@@ -16943,7 +16943,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-537": {
@@ -17141,7 +17141,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-546": {
@@ -17317,7 +17317,7 @@
    "p1": "STI-288GP",
    "tier": 25,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-554": {
@@ -17405,7 +17405,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-558": {
@@ -19165,7 +19165,7 @@
    "p1": "STI-288GPM",
    "tier": 25,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-638": {
@@ -25457,7 +25457,7 @@
    "p1": "STI-280GE",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-924": {
@@ -25501,7 +25501,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-926": {
@@ -25589,7 +25589,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-930": {
@@ -26205,7 +26205,7 @@
    "p1": "STI-280GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-958": {
@@ -26293,7 +26293,7 @@
    "p1": "STI-280GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-962": {
@@ -26315,7 +26315,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-963": {
@@ -26337,7 +26337,7 @@
    "p1": "STI-110GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-964": {
@@ -26403,7 +26403,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-967": {
@@ -26447,7 +26447,7 @@
    "p1": "STI-110GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-969": {
@@ -26755,7 +26755,7 @@
    "p1": "STC-28DGGPM（8 PoE + 2 SFP L2+，OEM 30% 档）；STC-424XGGPM-280W（群发价 $180）；STI-288GPM（DIN 8 PoE + 2 SFP，$85.5）",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-983": {

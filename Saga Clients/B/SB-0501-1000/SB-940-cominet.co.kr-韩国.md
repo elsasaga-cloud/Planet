@@ -87,6 +87,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 115 批（KR · 2 次检索：第 1 次「코미넷 Cominet … 사업자등록번호」落空（컴네트 / 코멧네트워크 / 컴인텍 ≠）；第 2 次 cominet.tradekorea.com（COMINET. CORP.；President SONG, TAE-JIN；+82-31-776-2877；FAX +82-31-776-2870；190-1 Sangdaewon-dong Seongnam Si Jungwon-gu；Main Markets U.A.E., Iran, Malaysia, Saudi Arabia, Thailand；1-50 People）+ ec21（Cominet Corp.；Member Since 2000.11.06；A 606-2 Bundang Technopark Yatap-dong；Contact Kyungwoo Lee；Video Fiber Optic Link）；2026-10-28，2026-10-28 查；https://cominet.tradekorea.com/company.do）：**
+
+- 法定名 / 登记号：Cominet Corp.（cominet.co.kr；**President SONG, TAE-JIN（研究档 tcsong@ 推定同人，待核）**；190-1 Sangdaewon-dong, Jungwon-gu, Seongnam（旧址 분당테크노파크 A 606-2, 야탑동）；电话 +82-31-776-2877）— **光视频链路 / 光中继 / 光传输（OIRU-80S / OIRP-100S / OIRP-160S-FT）、CMS-7010 / CMS-5006 交换机、红外热像仪、KMC 摄像机**；主销 UAE / 伊朗 / 马来西亚 / 沙特 / 泰国；1–50 人；EC21 会员 2000 起（联系人 Kyungwoo Lee）；사업자등록번호 未取 → 部分坐实；23 次跟进无回复 · 未取（사업자등록번호 两查未得） · 状态 **营业中（B2B 平台在列）** · 成立 ≤2000 · 주식회사（Corp.）
+- 行业码 / 经营范围：光视频链路 / 光中继 / 交换机 制造 + 出口（城南）
+- 注册地址：190-1 Sangdaewon-dong, Jungwon-gu, Seongnam-si, Gyeonggi-do
+- 规模档：小型（1–50 人）
+- 账目：未取；—
+- 高管：송태진 Song Tae-jin — President（研究档 tcsong@cominet.co.kr 推定同人 → 收件人、称 Mr. Song）
+- 高管：Kyungwoo Lee — EC21 联系人（旧）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **光传输小厂、出口中东 / 东南亚、KP 推定为 President → 配套 25% B small，一页纸一次（切口：与其光链路 / 热像仪成套出口的 PoE 交换机 STC-228GP / STC-2224GP + 工业 STI-154GP / STI-288DGGPM + 贴 Cominet 标可谈 30%、MOQ 1、付费样机；英文，收 tcsong@ 称 Mr. Song）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；再无回声 → 不动
+  - 守界：伊朗转售不问不答、我方只交 FOB 深圳；사업자등록번호 未取 → 部分坐实、只做预付；KC 不声称
+- 备注：配套 25% small；一页纸一次；部分坐实（B2B 平台：President + 地址 + 电话；号码未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,15 +144,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS fiber solution**
   > 工业FS fiber solution；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（tcsong，姓名待核）（）tcsong@cominet.co.kr 〔用户表〕
+- **KP**：Song Tae-jin（송태진；推定同人）（President, Cominet Corp.（tradekorea 公司页）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28））tcsong@cominet.co.kr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Cominet Corp.（190-1 Sangdaewon-dong, Jungwon-gu, Seongnam；+82-31-776-2877；光视频链路 / 光中继 / 交换机 / 热像仪；主销 UAE / 伊朗 / 马来西亚 / 沙特 / 泰国；1–50 人；사업자등록번호 两查未取） |
+| 成立 | ≤2000（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 韩国 |
-| 其他 | 官网 cominet.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 cominet.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表；第 115 批：光传输小厂、出口中东 / 东南亚、KP 推定为 President → **配套 25% B small，一页纸一次（与光链路 / 热像仪成套出口的 STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM + 贴 Cominet 标可谈 30%、MOQ 1、付费样机；收 tcsong@ 称 Mr. Song）**；再无回声 → 不动；伊朗转售不问不答、只交 FOB 深圳；部分坐实、只做预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光中继 / 光传输；安防摄像 / 热像；交换机（CMS 系列）
 - **触达通道（公开）**：role: 韩国光传输/安防设备商（自有 CMS 系列交换机）；region: 韩国；contact: tcsong@cominet.co.kr
@@ -244,7 +261,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | tcsong@cominet.co.kr | 用户表原值 | Clients/ 表 |
+| Song Tae-jin（송태진；推定同人） | President, Cominet Corp.（tradekorea 公司页）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28） | tcsong@cominet.co.kr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

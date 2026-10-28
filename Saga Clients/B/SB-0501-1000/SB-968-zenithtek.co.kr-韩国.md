@@ -89,6 +89,21 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 115 批（KR · 1 次检索：zenithtek.co.kr 首页 / company/history / company/intro（(주)제니스텍；ADD 서울특별시 성동구 성수일로 4길 25 서울숲코오롱디지털타워 601~603호 04781；CEO 윤석열；TEL 02)2115-8850~3；사업자등록번호 206-81-71494；2002.06 설립；2003.02 Softing AG Distributor；2005.09 캐나다 Ruggedcom Distributor；2007.02 기업부설연구소 / 벤처기업 / 기술혁신형；2014.01 Xelas Energy Software；2015.01 Perle(Media Converter) 대리점；2017.01 Garland Technology 대리점；스마트 그리드, 전력 유틸리티, 산업 플랜트, 철강, 석유화학, 시멘트, 철도；Hardened Industrial Ethernet / NTP Time Server / Military Ethernet Mildef Techaya）；2026-10-28，2026-10-28 查；http://www.zenithtek.co.kr/kr/company/intro.php）：**
+
+- 法定名 / 登记号：(주)제니스텍 ZENITHTEK Co., Ltd.（zenithtek.co.kr；**사업자등록번호 206-81-71494；设立 2002-06**；서울특별시 성동구 성수일로4길 25, 서울숲코오롱디지털타워 601–603호 04781；电话 02-2115-8850~3）— **工业自动化 + 电力 IT 专业分销 / 集成（Ruggedcom 韩国分销 2005 起、Softing 2003、Perle 媒体转换器 2015、Garland Technology 2017、Xelas IEC 61850 软件 2014；NTP / PTP 时钟、PQ 电表、Mildef / Techaya 军用以太网）**；面向智能电网 / 电力公用 / 钢铁 / 石化 / 水泥 / 铁路；代表 **윤석열 Yoon Seok-yeol**；企业附设研究所 + 벤처 + 技术革新型（2007）；无具名 KP（zenithtek@）；23 次跟进无回复 · 사업자등록번호 206-81-71494 · 状态 **营业中（官网在线）** · 成立 2002-06 · 주식회사（벤처）
+- 行业码 / 经营范围：工业 / 电力 IT 网络产品 分销 + 集成（首尔圣水）
+- 注册地址：서울특별시 성동구 성수일로4길 25, 서울숲코오롱디지털타워 601·602·603호 (성수동2가) 04781
+- 规模档：小型（三间办公室；规模未取）
+- 账目：未取；—
+- 高管：윤석열 Yoon Seok-yeol — CEO（拍板人）
+- 高管：（研究档无具名 KP：zenithtek@zenithtek.co.kr → 收件 zenithtek@、称 Mr. Yoon）
+- 控制人 / 股东：윤석열（推定）
+- **这意味着什么：**
+  - **高端工业以太网（Ruggedcom）分销商、客户多在守界行业 → 分销 20% B small，一页纸一次（切口：只谈钢铁 / 石化 / 水泥等工厂非关键段的性价比工业线：STI-288DGGPM / STI-488DGGPM / STI-0240GE（宽温、冗余供电、3 年保）+ 付费样机；电力 IEC 61850 / 铁路 EN 50155 / 军用明说不做；稿内不点名 Ruggedcom；英文，收 zenithtek@ 称 Mr. Yoon）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；再无回声 → 不动
+  - 守界：电力公用 / 铁路 / 军用不碰；KC 不声称
+- 备注：分销 20% small；一页纸一次；坐实（官网 사업자등록번호 + CEO + 地址 + 沿革）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,14 +140,17 @@ updated: 2026-10-28
 - **【用户表】MC switch 等**
   > MC switch等；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：윤석열 Yoon Seok-yeol（CEO (주)제니스텍 ZENITHTEK Co., Ltd.（zenithtek.co.kr）= 拍板人（研究档无具名 KP → 收件 zenithtek@ 称 Mr. Yoon）（第 115 批 官方登记核实 2026-10-28）） 〔http://www.zenithtek.co.kr/kr/company/intro.php〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | (주)제니스텍 ZENITHTEK Co., Ltd.（사업자등록번호 206-81-71494；서울 성동구 성수일로4길 25, 서울숲코오롱디지털타워 601–603호；Ruggedcom 韩国分销 2005 起 / Softing / Perle / Garland / Xelas；电力 IT + 工业自动化） |
+| 成立 | 2002-06（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 韩国 |
-| 其他 | 官网 zenithtek.co.kr，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 zenithtek.co.kr，语言 ?，快照状态 http_error；角色判定来源：待核；第 115 批：高端工业以太网（Ruggedcom）分销商、客户多在守界行业 → **分销 20% B small，一页纸一次（只谈钢铁 / 石化 / 水泥等工厂非关键段：STI-288DGGPM / STI-488DGGPM / STI-0240GE + 付费样机；IEC 61850 / EN 50155 / 军用明说不做；不点名 Ruggedcom；收 zenithtek@ 称 Mr. Yoon）**；再无回声 → 不动— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核，韩国）
 - **触达通道（公开）**：role: 网络产品公司（韩国，待核）；region: 韩国；contact: zenithtek@zenithtek.co.kr
@@ -230,7 +248,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | zenithtek@zenithtek.co.kr | 用户表原值 | Clients/ 表 |
+| 윤석열 Yoon Seok-yeol | CEO (주)제니스텍 ZENITHTEK Co., Ltd.（zenithtek.co.kr）= 拍板人（研究档无具名 KP → 收件 zenithtek@ 称 Mr. Yoon）（第 115 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | http://www.zenithtek.co.kr/kr/company/intro.php |
 
 - **通道建议**：邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

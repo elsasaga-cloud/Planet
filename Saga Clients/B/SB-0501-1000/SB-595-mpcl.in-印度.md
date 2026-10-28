@@ -77,6 +77,18 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 115 批（IN · 1 次检索：「mpcl.in India company Chetan MPCL networking PoE switch importer」→ tracxn / zoominfo / emis 仅 MPCL INDUSTRIES LIMITED（mpcl.co.in；CIN U26959DL1993PLC219546；Pitampura Delhi；电气设备制造）≠ mpcl.in；1 查即停；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：（表内 mpcl.in；chetan@mpcl.in 群发退信）— **1 次检索只命中同名 MPCL Industries Limited（mpcl.co.in；CIN U26959DL1993PLC219546；德里电气设备 / 广播集团，≠ 表内域名）**；mpcl.in 主体无公开记录 → 未坐实；用户表来源「买过商业 PoE（从同行进口）」非 Saga 成交 · 未取 · 状态 **主体不明** · 成立 未取 · 未取
+- 行业码 / 经营范围：主体不明（印度）
+- 注册地址：未取
+- 规模档：未取
+- 账目：—；—
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **域名无主体、邮箱退信、非 Saga 成交 → 不动（地址失效；同名 MPCL Industries 不并线）**
+- 备注：不动（地址失效 + 未坐实）；未坐实（同名陷阱）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,9 +117,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | MPCL（全称待核） |
+| 法定名称 | 未坐实（mpcl.in 无公开主体；1 查仅命中同名 MPCL Industries Limited U26959DL1993PLC219546 mpcl.co.in 德里电气设备集团 ≠） |
+| 成立 | 未取（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | India |
-| 其他 | chetan@mpcl.in 退信 |
+| 其他 | chetan@mpcl.in 退信；第 115 批：域名无主体 + 邮箱退信 + 非 Saga 成交 → **不动（地址失效；同名不并线）**（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核）IT/安防产品
 - **触达通道（公开）**：网站: https://mpcl.in/（未核，需重找联系邮箱）；邮箱: chetan@mpcl.in（用户表；退信）

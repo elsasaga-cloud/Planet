@@ -85,6 +85,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 115 批（KR · 1 次检索：elimopt.co.kr 页脚（엘림광통신；경기도 수원시 권선구 산업로 155번길 234 2동 4층 고색동 산업3단지；사업자등록번호 123-81-89423；031-257-7157；elimopt@elimopt.co.kr；다수공급자(MAS)제품）+ jobkorea（엘림광통신㈜；사원수 13명；설립일 2003.06.23；자본금 8억원；매출액 45억；대표자 유영록；광전송 네트워크 개발 및 시공；한국수자원공사, 포항제철, 광양제철, 한국도로공사 연간 50억 규모）+ elimopt.co.kr KC 시험성적서 PDF（제조자 엘림광통신주식회사；Fiber Optic Managed Switch EL-G48E6TG-POE；접수 2024-11-07；대표 유영록；사업자등록번호 123-81-89423）；2026-10-28，2026-10-28 查；https://www.jobkorea.co.kr/recruit/co_read/c/elimopt）：**
+
+- 法定名 / 登记号：엘림광통신㈜ Elim Optical Communication Co., Ltd.（elimopt.co.kr；**사업자등록번호 123-81-89423；设立 2003-06-23**；경기도 수원시 권선구 산업로155번길 234, 2동 4층 (고색동, 산업3단지 / 더좋은생활)；电话 031-257-7157；elimopt@elimopt.co.kr）— **光传输网络开发 + 施工（光传输系统 / 以太网 / 影音数据；MAS 多数供应者政府采购品）；自有品牌 PoE 管理交换机 EL-G48E6TG-POE / G24E4G-POE / G16E2G-POE / G8E4G-POE / PG8E2G-BP（bypass），2024-11 以「제조자 엘림광통신」送 KC 测试**；代表 **유영록 Yoo Young-rok**；13 人；资本金 8억；**营收 ≈45억원（≈$3.2M）**；客户 K-water / 浦项 / 光阳 / 道路公社（年 50억 项目规模自报）；无具名 KP；23 次跟进无回复 · 사업자등록번호 123-81-89423 · 状态 **계속사업자（Active）** · 成立 2003-06-23 · 주식회사
+- 行业码 / 经营范围：光传输 / 自有品牌 PoE 交换机 + 信息通信施工（水原）
+- 注册地址：경기도 수원시 권선구 산업로155번길 234, 2동 4층 (고색동) 
+- 规模档：小型（13 人；≈$3M）
+- 账目：매출 ≈45억원；자본금 8억；—
+- 高管：유영록 Yoo Young-rok — 대표이사（拍板人）
+- 高管：（研究档无具名 KP：h0824@ / khs10623@elimopt.co.kr → 收件 elimopt@ + 两个人名邮箱）
+- 控制人 / 股东：유영록（推定）
+- **这意味着什么：**
+  - **自有品牌 PoE 管理交换机（以制造者名义送 KC）+ 政府 MAS 渠道 → 贴标 OEM 30% B，加厚一次（切口：对位其 EL-G48E6TG-POE / G24E4G-POE / G16E2G-POE / G8E4G-POE 全系的 STC-4424GCPM / STC-2224GP / STC-2216GP / STC-228GP 阶梯价 + 自编货号 / 中性包装 + 付费样机；bypass 机型明说没有；KC 由其自办、我方给 CE / FCC / RoHS 报告；英文，收 elimopt@ + 两人名邮箱、称 Mr. Yoo）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；回信 → 次候选
+  - 守界：不点名其 MAS / 政府项目；不声称 KC；无具名 KP → 先 info 线
+- 备注：贴标 OEM 30%；B 加厚一次；坐实（页脚 + KC 报告 사업자등록번호 + 代表 + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,14 +142,17 @@ updated: 2026-10-28
 - **【用户表】VC 大头 自己的 logo**
   > FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：유영록 Yoo Young-rok（대표이사 엘림광통신㈜ Elim Optical Communication Co., Ltd.（jobkorea / KC 시험성적서）= 拍板人（研究档无具名 KP → 收件 elimopt@ + h0824@ / khs10623@）（第 115 批 官方登记核实 2026-10-28））elimopt@elimopt.co.kr 〔https://www.jobkorea.co.kr/recruit/co_read/c/elimopt〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | 엘림광통신㈜ Elim Optical Communication Co., Ltd.（사업자등록번호 123-81-89423；경기도 수원시 권선구 산업로155번길 234, 2동 4층；13 人；자본금 8억；매출 ≈45억원；自有标 PoE 管理交换机 EL-G48E6TG-POE 等（2024-11 以制造者名义送 KC）；MAS 多数供应者） |
+| 成立 | 2003-06-23（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 韩国 |
-| 其他 | 官网 elimopt.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 elimopt.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表；第 115 批：自有品牌 PoE 管理交换机 + 政府 MAS 渠道 → **贴标 OEM 30% B，加厚一次（对位 EL-G48E6TG / G24E4G / G16E2G / G8E4G 全系的 STC-4424GCPM / STC-2224GP / STC-2216GP / STC-228GP 阶梯价 + 自编货号 / 中性包装 + 付费样机；bypass 明说没有；KC 由其自办、我方给 CE / FCC / RoHS 报告；收 elimopt@ 称 Mr. Yoo）**；回信 → 次候选— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备 / 光传输设备（自有品牌 Elim）
 
@@ -248,7 +266,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | h0824@elimopt.co.kr / khs10623@elimopt.co.kr | 用户表原值 | Clients/ 表 |
+| 유영록 Yoo Young-rok | 대표이사 엘림광통신㈜ Elim Optical Communication Co., Ltd.（jobkorea / KC 시험성적서）= 拍板人（研究档无具名 KP → 收件 elimopt@ + h0824@ / khs10623@）（第 115 批 官方登记核实 2026-10-28） | elimopt@elimopt.co.kr | 调研核实（公开页） | https://www.jobkorea.co.kr/recruit/co_read/c/elimopt |
 
 - **通道建议**：邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

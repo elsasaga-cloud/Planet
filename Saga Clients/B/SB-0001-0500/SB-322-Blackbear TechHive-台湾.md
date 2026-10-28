@@ -1,7 +1,7 @@
 # Blackbear TechHive
 **官方名称（调研核实）**：BlackBear TechHive（BlackBear Cyber Security）
 
-> **评级 B**　|　韩国　|　档案编号 `SB-322`　|　优先级 ★★　|　状态：已推送 33 次·未回复
+> **评级 B**　|　台湾　|　档案编号 `SB-322`　|　优先级 ★★　|　状态：已推送 33 次·未回复
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 33 次（2024-06-07 → 2025-11-04）　|　**所在清单**：A优质名单(KR)、表:Secon 2023、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "BlackBear TechHive（BlackBear Cyber Security）"
 score: 45
-country: 韩国
+country: 台湾
+country_table: 韩国  # 表内原填；调研纠正为 台湾（research JSON country_fix）
 region: 亚太
 website: blackbear-ics.com
 type: 品牌商/贴牌需求（OEM/ODM）
@@ -84,18 +85,33 @@ updated: 2026-10-28
 
 - `blackbear-ics.com` → 其他主机商邮箱（fwd1.porkbun.com）（MX：fwd1.porkbun.com、fwd2.porkbun.com）。主机商附带邮箱（fwd1.porkbun.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（韩国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（台湾 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：01-01 New Year's Day；02-06 The day preceding Korean New Year；02-07 Korean New Year；02-08 The second day of Korean New Year；02-09 Alternative holiday for Korean New Year；03-01 Independence Movement Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：01-01 Founding Day of the Republic of China；02-04 Chinese New Year's Eve；02-05 Chinese New Year's Eve；02-06 Chinese New Year；02-07 Chinese New Year；02-08 Chinese New Year；02-09 Chinese New Year (observed)；02-10 Chinese New Year (observed)；02-28 Peace Memorial Day；03-01 Peace Memorial Day (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数 · 第 115 批（KR→TW · 2 次检索：alarmbox.jp（ＢｌａｃｋＢｅａｒ ＴｅｃｈＨｉｖｅ Ｊａｐａｎ株式会社；法人番号 8010401158437；東京都港区六本木３丁目６番９号；設立 2021年3月）+ twincn（台灣黑熊網路安全股份有限公司 BlackBear(Taiwan) Industrial Networking Security Ltd.；統編 83305324；代表人 謝秋蓮；董監事 謝秋蓮, 蘇柏豪, 劉德豐；新竹縣竹北市東興里東興路一段146號；設立 109-11-26；國貿局登記 20201130；營業中）；2026-10-28，2026-10-28 查；https://www.twincn.com/item.aspx?no=83305324）：**
+
+- 法定名 / 登记号：BlackBear TechHive（blackbear-ics.com）= **台灣黑熊網路安全股份有限公司 BlackBear (Taiwan) Industrial Networking Security Ltd.（統編 83305324；設立 2020-11-26；新竹縣竹北市東興路一段146號 = Atop 四零四科技同址；代表人 謝秋蓮；董監事 蘇柏豪 / 劉德豐）+ 日本子公司 BlackBear TechHive Japan 株式会社（法人番号 8010401158437；2021-03；東京都港区六本木3-6-9）**— 工业单向网闸 / 数据二极管（DD9000 / BIG9000）厂商，Atop 关联；President Takashi Eki（易傑，日本人，+81；= KP）；SECON 2023 问 Saga 是否做 OEM/ODM；33 次跟进无实质回复；**表内 iso KR 系展会地，主体在台湾 → country_fix 台湾** · 統一編號 83305324（TW）/ 法人番号 8010401158437（JP） · 状态 **核准設立 / 營業中** · 成立 2020-11-26（TW）/ 2021-03（JP） · 股份有限公司 + 日本株式会社
+- 行业码 / 经营范围：工业网络安全 / 数据二极管 厂商（新竹竹北；Atop 关联）
+- 注册地址：No. 146, Sec. 1, Dongxing Rd., Zhubei City, Hsinchu County 30261, Taiwan（JP：東京都港区六本木3-6-9）
+- 规模档：小型（新设 2020）
+- 账目：未取；—
+- 高管：謝秋蓮 — 代表人（TW）
+- 高管：Takashi Eki（易傑）— President（研究档 KP；eki@blackbear-ics.com）
+- 控制人 / 股东：Atop 关联（同址；推定）
+- **这意味着什么：**
+  - **工业交换机厂 Atop 关联的网安硬件商、问的是 OEM/ODM 代工（Saga 不制造）、33 次 0 回复 → 同行集团 + 守界（关键基础设施安全）→ 不动（B 保留）**
+  - country_fix：KR → 台湾（主体統編 + 日本子公司；KP 在东京）
+- 备注：不动（同行集团 + 33 次 0 回复）；坐实（統編 + 法人番号 + 代表人）；country_fix 台湾。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | Blackbear TechHive | 事实（用户表） |
-| 国家 | 韩国 | 事实（用户表）|
+| 国家 | 台湾 | 事实（用户表）|
 | 网站/域名 | blackbear-ics.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
 | 联系人 | Takashi Eki 易傑 / President | 事实（用户表） |
@@ -126,17 +142,17 @@ updated: 2026-10-28
 - **【用户表】日本人会中文；POE switch；韩国有代理商；产品在台湾生产；问了是否有 OEM ODM**
   > 兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Takashi Eki（易傑）（）eki@blackbear-ics.com +81 90 8493 5120〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Takashi Eki（易傑）（President, BlackBear TechHive（日本子公司 BlackBear TechHive Japan 株式会社 法人番号 8010401158437；母体 台灣黑熊網路安全 統編 83305324，Atop 同址）— 同行集团，不动（第 115 批 官方登记核实 2026-10-28））eki@blackbear-ics.com +81 90 8493 5120〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：OEM 意向））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | BlackBear TechHive（待核：台湾 / 日本） |
-| 成立 | （待核） |
+| 法定名称 | 台灣黑熊網路安全股份有限公司 BlackBear (Taiwan) Industrial Networking Security Ltd.（統編 83305324；新竹縣竹北市東興路一段146號 = Atop 同址；代表人 謝秋蓮）+ BlackBear TechHive Japan 株式会社（法人番号 8010401158437；東京都港区六本木3-6-9） |
+| 成立 | 2020-11-26（TW）/ 2021-03（JP）（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 台湾（生产）/ 日本（+81 3 4530 3390） |
-| 其他 | Atop 代工关联 |
+| 其他 | Atop 代工关联；第 115 批：工业交换机厂 Atop 关联的网安硬件商、问的是 OEM/ODM 代工、33 次 0 回复 → **同行集团 + 守界，不动（B 保留）**；表内 iso KR 为展会地 → country_fix 台湾（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络安全设备（数据二极管 / 网闸）；配套 PoE / 工业交换机（OEM 采购）
 - **触达通道（公开）**：role: 设备品牌商（OEM/ODM 采购）；region: 日本 / 韩国 / 台湾 / 拉美
@@ -259,7 +275,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Takashi Eki（易傑） | — | eki@blackbear-ics.com / +81 90 8493 5120 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Takashi Eki（易傑） | President, BlackBear TechHive（日本子公司 BlackBear TechHive Japan 株式会社 法人番号 8010401158437；母体 台灣黑熊網路安全 統編 83305324，Atop 同址）— 同行集团，不动（第 115 批 官方登记核实 2026-10-28） | eki@blackbear-ics.com / +81 90 8493 5120 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 33 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

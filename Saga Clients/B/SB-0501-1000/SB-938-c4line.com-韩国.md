@@ -89,6 +89,22 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 115 批（KR · 1 次检索：rndcircle（씨포라인；2024년 설립 방송 및 무선 통신장비 제조；경기도 수원시 영통구 신원로 88 101동 908호 디지털엠파이어2；대표자명 김건；사업자 번호 6548603297；2024.07.25；임직원 3명；2024 매출 5.2억 / 영업이익 8,200만원；기가비트 트랜시버, 산업용 영상 전송 모뎀, 와이파이 익스텐더）+ rocketreach（C4Line Co.；worldwide OEM/ODM manufacturer for IP signal transmission products；Easy Coax；mainly export to European and North American companies；Founded 2004；101-908 Digital Empire2 88 Sinwon-ro Yeongtong-gu Suwon 16681；Sung Kim Managing Director；12 employees / $4M）；2026-10-28，2026-10-28 查；https://app.rndcircle.io/company/ff7eeaf0-d2d0-57d4-8694-11928e919843）：**
+
+- 法定名 / 登记号：씨포라인 C4Line（c4line.com；**现法人 씨포라인 사업자번호 654-86-03297（2024-07-25 新设；代表 김건 Kim Gun = KP Gun Kim）**；경기도 수원시 영통구 신원로 88, 디지털엠파이어2 101동 908호 16681）— **IP 信号传输设备 OEM/ODM 制造商（Easy Coax™ Ethernet over Coax / UTP / 2-Wire、工业视频传输调制解调器、Wi-Fi 延长器、千兆收发器；主销欧美品牌商）**；品牌 2004 起（Sung Kim President / MD）；**3 人；2024 营收 5.2억원（≈$0.37M）、营业利润 0.82억**；RocketReach 档 12 人 / $4M 偏高；23 次跟进无回复 · 사업자등록번호 654-86-03297（2024 新法人） · 状态 **营业中** · 成立 2024-07-25（品牌 2004） · 주식회사（新法人）
+- 行业码 / 经营范围：EoC / UTP / 2-Wire IP 传输设备 OEM/ODM 制造（水原）
+- 注册地址：경기도 수원시 영통구 신원로 88, 디지털엠파이어2 101동 908호 (신동) 16681
+- 规模档：微型（3 人）
+- 账目：2024 매출 5.2억원 / 영업이익 0.82억；—
+- 高管：김건 Kim Gun — 대표（研究档 KP Gun Kim, OEM/ODM Product Manager；shkim@c4line.com）= 拍板人 / 收件人
+- 高管：Sung Kim — President / MD（研究档 KP；info@c4line.com）= 抄送
+- 控制人 / 股东：김건（推定）
+- 曾用名：C4Line Co.（2004 起旧法人；2024-07 新设 씨포라인）
+- **这意味着什么：**
+  - **微型 OEM/ODM 传输设备厂（自产延长器、对欧美出口）、KP 已是代表 → 配套 25% B small，一页纸一次（切口：与其 Easy Coax 成套出口的 PoE 交换机 STC-028GP / STC-228GP（PoE+、CE / FCC / RoHS 报告齐）+ 可贴 C4Line 标 30% + MOQ 1 / 付费样机；英文，Gun Kim 直呼、抄 Sung Kim）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；再无回声 → 不动
+  - 守界：不提其 EoC 竞品、不做 ODM 定制；2024 新法人 + 微型 → 只做预付；KC 不声称
+- 备注：配套 25% small（贴标可 30%）；一页纸一次；坐实（新法人 사업자번호 + 代表 = KP + 地址 + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,16 +147,18 @@ updated: 2026-10-28
 - **【用户表】PoE 相关**
   > PoE相关；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Gun Kim（）shkim@c4line.com 〔用户表〕
-- **KP**：Sung Kim（）info@c4line.com 〔用户表〕
+- **KP**：Gun Kim（김건）（대표 씨포라인 C4Line（2024-07 新法人；rndcircle）/ OEM/ODM Product Manager = 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28））shkim@c4line.com 〔用户表〕
+- **KP**：Sung Kim（President / MD C4Line（rocketreach）= 抄送（第 115 批 官方登记核实 2026-10-28））info@c4line.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | 씨포라인 C4Line（사업자번호 654-86-03297，2024-07-25 新设；경기도 수원시 영통구 신원로 88, 디지털엠파이어2 101동 908호；3 人；2024 매출 5.2억원；品牌 2004 起；EoC / UTP / 2-Wire IP 传输设备 OEM/ODM，主销欧美） |
+| 成立 | 2024-07-25（品牌 2004）（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 韩国 |
-| 其他 | 官网 c4line.com，语言 ko-kr，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 c4line.com，语言 ko-kr，快照状态 ok；角色判定来源：待核；第 115 批：微型 OEM/ODM 传输设备厂、KP 已是代表 → **配套 25% B small，一页纸一次（与 Easy Coax 成套出口的 STC-028GP / STC-228GP + 贴标可谈 30% + MOQ 1 / 付费样机；Gun Kim 直呼、抄 Sung Kim）**；再无回声 → 不动；新法人 + 微型 → 只做预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IP 延长器 / EoC / 工业调制解调器（自有品牌 C4Line）
 - **触达通道（公开）**：role: IP 延长器制造商（韩国，PoE 交换机为配套）；region: 韩国；contact: info@c4line.com、shkim@c4line.com
@@ -252,8 +270,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gun Kim | — | shkim@c4line.com | 调研核实（公开页） | 用户表 |
-| Sung Kim | — | info@c4line.com | 调研核实（公开页） | 用户表 |
+| Gun Kim（김건） | 대표 씨포라인 C4Line（2024-07 新法人；rndcircle）/ OEM/ODM Product Manager = 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28） | shkim@c4line.com | 调研核实（公开页） | 用户表 |
+| Sung Kim | President / MD C4Line（rocketreach）= 抄送（第 115 批 官方登记核实 2026-10-28） | info@c4line.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

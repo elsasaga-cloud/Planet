@@ -88,6 +88,22 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 115 批（KR · 1 次检索：sequrinet.com/KR/Sequrinet/history（시큐리넷 회사연혁；2018.07 박상열 대표이사 정보 보호 유공 정부포상；2017.12 에스원 우수협력업체；2017.09 AI 딥러닝 지능형솔루션；2017.06 4K NVR/CAMERA；2012.04 VMSoft 자회사 설립；2012.03 NVR 출시；2011.07 IBK 수출 강소기업；2010.05 IP 카메라 출시；2008.11 삼천만불 수출의 탑；2008.03 ㈜아이티엑스시큐리티 상호변경；2007.10 이천만불 수출탑；2007.05 수원공장 설립；(주)DG-ITX 사업자등록번호 120-81-78820；통신판매업신고 제2016-서울금천-0029호；대표 박상열；02-2082-8500；서울특별시 금천구 가산디지털1로 212 코오롱디지털타워 애스턴 906호）；2026-10-28，2026-10-28 查；http://sequrinet.com/KR/Sequrinet/history.asp）：**
+
+- 法定名 / 登记号：SEQURINET = **(주)DG-ITX（前 ㈜아이티엑스시큐리티 ITX Security，2008-03 改名；sequrinet.com / sequrinet.us；사업자등록번호 120-81-78820；통신판매업 제2016-서울금천-0029호）**；서울특별시 금천구 가산디지털1로 212, 코오롱디지털타워 애스턴 906호；电话 02-2082-8500；代表 **박상열 Park Sang-yeol**（2018 情报保护日政府表彰）— **CCTV / NVR / VMS / IP 摄像机制造商（2007 水原工厂；2007 二千万 / 2008 三千万美元出口塔；2011 IBK 出口强小企业；2012 子公司 VMSoft；2017 AI 深度学习方案、4K NVR、에스원 S1 优秀协力企业）**；表内「工业 FS Utepo 的」；KP Eva Christensen（Team Leader，美国销售 ussales@）；21 次跟进无回复 · 사업자등록번호 120-81-78820 / 통신판매업 2016-서울금천-0029 · 状态 **营业中（官网在线）** · 成立 ≤2007（2008-03 改名 ITX Security → DG-ITX） · 주식회사
+- 行业码 / 经营范围：CCTV / NVR / VMS 制造 + 出口（首尔衿川；水原工厂）
+- 注册地址：서울특별시 금천구 가산디지털1로 212, 코오롱디지털타워 애스턴 906호
+- 规模档：中小（出口型制造）
+- 账目：未取（2008 出口 $30M 塔）；—
+- 高管：박상열 Park Sang-yeol — 대표이사（拍板人）
+- 高管：Eva Christensen — Team Leader, US sales（研究档 KP；ussales@sequrinet.com）= 收件人
+- 控制人 / 股东：未取
+- 曾用名：㈜아이티엑스시큐리티 ITX Security（→ 2008-03 (주)DG-ITX）
+- **这意味着什么：**
+  - **出口型 CCTV / NVR 品牌厂、在用台系工业 FS、KP 为美国销售线 → 配套 OEM 30% B，一页纸一次（切口：随其 NVR 套件出货的 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP + 工业 STI-154GP / STI-288DGGPM 贴 SEQURINET 标 + 中性包装 / 自编货号 / MOQ 1 / 付费样机；CE / FCC / RoHS 报告齐（其美国线可用）；英文，Eva 直呼）— 韩国常规：20 / 25 / 30 + T/T 预付 + FOB 深圳（KC 不声称、由买方自办）**；再无回声 → 不动
+  - 守界：不点名 Utepo；不提 NDAA；KC 不声称
+- 备注：配套 OEM 30%；一页纸一次；坐实（官网 사업자등록번호 + 代表 + 地址 + 沿革 + 前身）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,15 +147,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS Utepo**
   > 工业FS Utepo的；质量高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Eva Christensen（）ussales@sequrinet.com 〔用户表〕
+- **KP**：Eva Christensen（Team Leader, US sales, SEQURINET / (주)DG-ITX = 收件人；대표이사 박상열 = 拍板人（第 115 批 官方登记核实 2026-10-28））ussales@sequrinet.com 〔用户表〕
+- **KP**：박상열 Park Sang-yeol（대표이사 (주)DG-ITX（SEQURINET；前 ㈜아이티엑스시큐리티）（sequrinet.com 회사연혁）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔http://sequrinet.com/KR/Sequrinet/history.asp〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | (주)DG-ITX（SEQURINET；前 ㈜아이티엑스시큐리티 ITX Security，2008-03 改名；사업자등록번호 120-81-78820；통신판매업 제2016-서울금천-0029호；서울 금천구 가산디지털1로 212, 코오롱디지털타워 애스턴 906호；水原工厂 2007；2008 三千万美元出口塔；子公司 VMSoft；에스원 S1 协力企业） |
+| 成立 | ≤2007（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 韩国 |
-| 其他 | 官网 sequrinet.us，语言 ko，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 sequrinet.us，语言 ko，快照状态 ok；角色判定来源：官网文案；第 115 批：出口型 CCTV / NVR 品牌厂、在用台系工业 FS、KP 为美国销售线 → **配套 OEM 30% B，一页纸一次（随 NVR 套件出货的 STC-028GP / STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM 贴 SEQURINET 标 + 中性包装 / 自编货号 / MOQ 1 / 付费样机；CE / FCC / RoHS 报告齐；Eva 直呼）**；再无回声 → 不动；不点名 Utepo、不提 NDAA— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28） |
 
 - **业务线**：VMS / NVR 方案（韩国，美国销售）
 - **触达通道（公开）**：role: VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）；region: 韩国；contact: ussales@sequrinet.com
@@ -241,7 +260,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Eva Christensen | — | ussales@sequrinet.com | 调研核实（公开页） | 用户表 |
+| Eva Christensen | Team Leader, US sales, SEQURINET / (주)DG-ITX = 收件人；대표이사 박상열 = 拍板人（第 115 批 官方登记核实 2026-10-28） | ussales@sequrinet.com | 调研核实（公开页） | 用户表 |
+| 박상열 Park Sang-yeol | 대표이사 (주)DG-ITX（SEQURINET；前 ㈜아이티엑스시큐리티）（sequrinet.com 회사연혁）= 拍板人（第 115 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | http://sequrinet.com/KR/Sequrinet/history.asp |
 
 - **通道建议**：邮件已推送 21 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

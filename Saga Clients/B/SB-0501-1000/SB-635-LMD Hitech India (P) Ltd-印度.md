@@ -73,6 +73,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动（域名不可达；WhatsApp 已加」，不排发信，略。
 
+**公司底数 · 第 115 批（IN · 1 次检索：zaubacorp（LMD HITECH INDIA PRIVATE LIMITED CIN U29240HR2013PTC048422；incorporated 27 February 2013；ROC Delhi；Active；Manufacture of special purpose machinery / machinery for mining, quarrying and construction；Authorised ₹500,000 / Paid up ₹100,000；directors DINESH SHARMA DIN 02249388 (2013-02-27) / CHANCHAL SHARMA DIN 02283323 (2016-09-30)；Plot No 620 Sector 8 IMT Manesar 122052；balance sheet last filed 31 March 2023）+ tofler（Gurgaon；Company Email Sales1@hitech-eng.in）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/company/LMD-HITECH-INDIA-PRIVATE-LIMITED/U29240HR2013PTC048422）：**
+
+- 法定名 / 登记号：LMD Hitech India Private Limited（radiantgroup.org 表内域名不可达；**CIN U29240HR2013PTC048422（2013-02-27；RoC Delhi）**；Plot No. 620, Sector 8, IMT Manesar, Haryana 122052；注册邮箱 sales1@hitech-eng.in）— **特种机械 / 矿山建筑机械制造（NIC 29240）**，非网络行业；董事 **Dinesh Sharma（= KP）**/ Chanchal Sharma；法定资本 ₹5 lakh / 实缴 ₹1 lakh；最近报表 2023-03-31；WA 已加无实质回复 · CIN U29240HR2013PTC048422 · 状态 **Active** · 成立 2013-02-27 · Private Limited
+- 行业码 / 经营范围：特种机械 / 矿山建筑机械 制造（马内萨尔）
+- 注册地址：Plot No. 620, Sector 8, IMT Manesar, Haryana 122052
+- 规模档：微型（实缴 ₹1 lakh）
+- 账目：实缴 ₹1 lakh；报表至 2023-03-31；—
+- 高管：Dinesh Sharma — Director（DIN 02249388；研究档 KP）
+- 高管：Chanchal Sharma — Director（DIN 02283323）
+- 控制人 / 股东：Sharma 夫妇（推定）
+- **这意味着什么：**
+  - **机械制造商、无网络业务、域名不可达 + WA 无回复 → 非目标行业，不动（B 保留）**
+- 备注：不动（非目标行业 + 微型 + 无回声）；坐实（CIN + 董事 = KP + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -98,16 +112,17 @@ updated: 2026-10-28
 - **【用户表】询盘统计表来源，无兴趣描述**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Dinesh Sharma（）sales@radiantgroup.org +91 99711 40072〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Dinesh Sharma（Director, LMD Hitech India Pvt Ltd（DIN 02249388；zaubacorp）— 机械厂非目标，不动（第 115 批 官方登记核实 2026-10-28））sales@radiantgroup.org +91 99711 40072〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照不可达 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | LMD Hitech India (P) Ltd. |
+| 法定名称 | LMD Hitech India Private Limited（CIN U29240HR2013PTC048422；Plot No. 620, Sector 8, IMT Manesar, Haryana 122052；特种机械 / 矿山建筑机械制造；实缴 ₹1 lakh） |
+| 成立 | 2013-02-27（第 115 批 官方登记核实 2026-10-28） |
 | 总部/地址 | India（Delhi NCR，+91 99711） |
-| 其他 | 域名失效 |
+| 其他 | 域名失效；第 115 批：机械制造商、无网络业务、域名不可达 + WA 无回复 → **非目标行业，不动（B 保留）**（第 115 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：role: （未知）；region: 印度
 - **风险/边界**：域名失效；无需求
@@ -152,7 +167,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Dinesh Sharma | — | sales@radiantgroup.org / +91 99711 40072 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Dinesh Sharma | Director, LMD Hitech India Pvt Ltd（DIN 02249388；zaubacorp）— 机械厂非目标，不动（第 115 批 官方登记核实 2026-10-28） | sales@radiantgroup.org / +91 99711 40072 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
