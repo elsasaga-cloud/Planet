@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 22
+  "count": 23
  },
  "rows": {
   "SA-089": {
@@ -723,6 +723,42 @@
    ],
    "notes": "分销 20% small；一页纸一次；坐实（IČO + 卷号 + 成立日）；jednatel 未取。",
    "code": "SB-535"
+  },
+  "SB-752": {
+   "batch": 111,
+   "name": "ENIKA.CZ s.r.o.（enika.cz / enika.eu；Vlkov 33, 509 01 Nová Paka；IČO 28218167；DIČ CZ28218167；C 49375 Krajský soud v Hradci Králové；数据箱 pts4afb）— 2007-12-20 登记（前身 ENIKA spol. s r.o. IČO 15055761，1994 起；「30 年」）的捷克无线控制技术制造商 + 电气元件 / 照明分销商（20,000+ 品项；欧洲分销网）；jednatelé Ing. Jiří Vávra、Michal Geisler（各自独立代表）；2025-04-15 起 Lukáš Majkuth 任 generální ředitel + prokurista；KP Iva Horáčková / P. Gottwald（职务待核）；表内「电口，网页是项目类的」；群发 8 次无回复",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：rejstrik.penize.cz（ENIKA.CZ s.r.o.；IČO 28218167 zapsáno 20. 12. 2007；DIČ CZ28218167；jednatel Ing. Jiří Vávra / Michal Geisler；DS pts4afb）+ rejstrik-firem.kurzy.cz（同；enika@enika.cz）+ podnikatel.cz（sídlo Nová Paka 33 Vlkov）+ enika.eu（s účinností od 15. dubna 2025 Lukáš Majkuth novým generálním ředitelem a prokuristou；C 49375 Hradec Králové）+ rejstrik.penize.cz ENIKA spol. s r.o. 15055761（前身，1994）+ zivefirmy（český výrobce bezdrátových technologií；30 let）；2026-10-28",
+   "url": "https://rejstrik.penize.cz/28218167-enika-cz-s-r-o",
+   "number": "IČO 28218167",
+   "status": "Aktivní",
+   "incorporated": "2007-12-20（前身 1994）",
+   "company_type": "s.r.o.",
+   "sic": [
+    "无线控制技术制造 + 电气元件 / 照明 分销"
+   ],
+   "address": "Vlkov 33, 509 01 Nová Paka",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中小型（推定 50+）",
+   "officers": [
+    "Ing. Jiří Vávra — jednatel（2007-12-20 起）",
+    "Michal Geisler — jednatel（2007-12-20 起）",
+    "Lukáš Majkuth — generální ředitel + prokurista（2025-04-15 起）= 拍板人（邮箱未取）",
+    "Iva Horáčková / P. Gottwald — 研究档收件人（职务待核）"
+   ],
+   "psc": "Vávra / Geisler（推定）",
+   "charges": "",
+   "prev_names": [
+    "（前身）ENIKA spol. s r.o."
+   ],
+   "lines": [
+    "**电气 / 照明分销商、网络为边缘品类（8 次无打开）→ 分销 20% small，一页纸一次（切口：照明控制 / 楼宇项目的 PoE 供电 STC-028GP / STI-054GP 一口价 + MOQ 1；捷语引子，抄 Majkuth 请转）；再无回声 → 不动**",
+    "发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（IČO + 卷号 + jednatelé + 新总经理）。",
+   "code": "SB-752"
   }
  }
 }

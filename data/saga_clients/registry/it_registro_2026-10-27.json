@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 55
+  "count": 56
  },
  "rows": {
   "SA-070": {
@@ -1772,6 +1772,38 @@
    ],
    "notes": "部分坐实（业主 + 城市；P.IVA 未取全）→ 不动。",
    "code": "SB-747"
+  },
+  "SB-462": {
+   "batch": 111,
+   "name": "ETER BIOMETRIC TECHNOLOGIES SRL（eter.it；Rubiera (RE)；P.IVA / CF 02089510354；REA RE-250476；股本 €10,000；PEC eterbiometric@pec.it）— 2004 年登记（iscrizione 2004-02-11 / 07-15）的门禁 / 考勤 / 生物识别 / 消防探测分销 + 集成商（ATECO 46.51；Suprema 终端、Hochiki 探测器、HR 系统）；12 名雇员；2024 营收 €3.95M（+12.3%）、净利 €54k、EBITDA €154k；2024-08 老股东 Marcello Canali 将股份售予 Andrea Giacobazzi → **Giacobazzi 为唯一所有人 + CEO**（= 研究档 KP，a.giacobazzi@）；表内「介绍了 bypass 和接线图，让邮件发信息」；5 次跟进无回复（仅自动回复）",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（ETER BIOMETRIC TECHNOLOGIES SRL；Rea 250476；PEC eterbiometric@pec.it；Fatturato € 3.950.301 (2024)；Dipendenti 12 (2026)；Iscrizione 15/07/2004；Utile € 54.098；Capitale € 10.000；CamCom RE）+ fatturatoitalia（P.IVA 02089510354；RE 250476；46.51）+ aziende.money.it（ricavi 2022–2024 €3.46M → €3.55M → €3.97M 总额；EBITDA €154k）+ topaziende（2019–2024 €2.39M → €3.95M）+ secsolution.com 2024-08-13（Marcello Canali vende la sua quota ad Andrea Giacobazzi → titolare unico）+ aeroleads（a.giacobazzi@eter.it Owner）；2026-10-28",
+   "url": "https://www.ufficiocamerale.it/5541/eter-biometric-technologies-srl",
+   "number": "P.IVA 02089510354 / REA RE-250476",
+   "status": "Attiva",
+   "incorporated": "2004-02-11（登记 2004-07-15）",
+   "company_type": "S.r.l.（单一股东）",
+   "sic": [
+    "门禁 / 考勤 / 生物识别 / 消防探测 分销 + 集成（雷焦艾米利亚）"
+   ],
+   "address": "Rubiera (RE)（街道未取）",
+   "accounts": "2024 营收 €3,950,301 / 净利 €54,098（2019 €2.39M → 2024，连年增长）",
+   "accounts_due": "—",
+   "size_band": "小型（12 人）",
+   "officers": [
+    "Andrea Giacobazzi — CEO & founder，2024-08 起唯一所有人（secsolution；研究档 KP a.giacobazzi@）= 拍板人 / 收件人",
+    "Marcello Canali — 原股东（2024-08 退出）"
+   ],
+   "psc": "Andrea Giacobazzi（100%，2024-08 起）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**连年增长的门禁 / 消防集成商、CEO 本人曾要资料（bypass + 接线图）→ 集成 25% small，加厚一次（切口：门禁 / 考勤终端 + 消防网络的 PoE 供电 STC-028GP / STI-054GP / STI-144GP + 旁路需求回访，直发 Andrea、一问「bypass 还在议程上吗」；意语引子）；回信 → 次候选**",
+    "稿内不点名 Suprema / Hochiki；发信窗口 Thu 12–14 CET；5 封来信皆自动回复 → 此次换主题、直呼其名"
+   ],
+   "notes": "集成 25% small；加厚一次；坐实（P.IVA + REA + 营收 + 所有权变更）。",
+   "code": "SB-462"
   }
  }
 }

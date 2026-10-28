@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 128
+  "count": 138
  },
  "rows": {
   "SA-061": {
@@ -4079,6 +4079,325 @@
    ],
    "notes": "分销 20%；B BIG 加厚一次；坐实（识别码 + 登记日 + 分销资质）。",
    "code": "SB-313"
+  },
+  "SB-030": {
+   "batch": 111,
+   "name": "MEDIAS-COM'S SA（medias-coms.ch；Place du Village 18, 1978 Lens (VS)；UID CHE-394.326.893；CH-626.3.019.073-4；HR Valais）— 2018-11-02 登记的媒体 / 传播 + 电信转售小公司（网站 / 视频 / 4G 路由器 / 固话 / 电视订阅）；管理层 Christophe Denis Cordonier、Philippe Bonvin（董事）、Pascal Jacot（签字权）；2020 年群发成一笔样品单（IM-MC110FE ×2、IM-FP144FE ×2），之后无跟进；Clients 表 KP「Director Manager」未具名",
+   "iso": "CH",
+   "fetched": "2026-10-28",
+   "source": "CH · 1 次检索：moneyhouse.ch（MEDIAS-COM'S SA in Lens；active；Founded 2018；entry 02.11.2018；AG；HR VS；CH-626.3.019.073-4；UID CHE-394.326.893；sector Trading in IT and communications products；board Christophe Denis Cordonier, Philippe Bonvin；signatories Pascal Jacot, Cordonier, Bonvin；last change 11.08.2021；Place du Village 18 1978 Lens）+ medias-coms.ch/fr（communication + télécommunication：routeurs 4G LTE, abonnements, internet, téléphones）；2026-10-28",
+   "url": "https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971",
+   "number": "UID CHE-394.326.893 / CH-626.3.019.073-4",
+   "status": "Active",
+   "incorporated": "2018-11-02",
+   "company_type": "SA（AG）",
+   "sic": [
+    "媒体 / 传播服务 + 电信产品转售（瓦莱州）"
+   ],
+   "address": "Place du Village 18, 1978 Lens (VS)",
+   "accounts": "—（瑞士不公开）",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Christophe Denis Cordonier — 董事 / 签字权（moneyhouse）= 拍板人（推定「Director Manager」）",
+    "Philippe Bonvin — 董事 / 签字权",
+    "Pascal Jacot — 签字权"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**2020 样品单小客户（媒体公司兼电信转售，非主业）→ 集成 25% small，一页纸一次（切口：回访 2020 样品 + 工业 MC / STI-054GP 现价一口价 + CH DAP 买方清关；法语引子，Cordonier 直呼）；再无回声 → 不动**",
+    "发信窗口 Thu 12–14 CET；研究档 KP 需补名"
+   ],
+   "notes": "集成 25% small；一页纸一次（成单回访）；坐实（UID + HR 号 + 董事）。",
+   "code": "SB-030"
+  },
+  "SB-056": {
+   "batch": 111,
+   "name": "NETWORK BUSINESS SOLUTIONS OÜ（原 Osaühing Angelmont 2007-01-09 – 02-19；nbs.ee 停放；Vesse tn 9a, Lasnamäe, 11415 Tallinn；registrikood 11338038）— 2007-01-09 成立的计算机 / 外设批发公司（EMTAK 46511；资本 €2,550）；受益人 Dmitri Simonov（2018-09-20 起）；**增值税号 EE101131030 已于 2023-05-15 注销；2024 Q1 无登记雇员、无国税；2024 预测营业额 ≈ €0，资产负债 €46k → 休眠壳**；WA 3 次回复 / 19 次跟进为一般交流",
+   "iso": "EE",
+   "fetched": "2026-10-28",
+   "source": "EE · 1 次检索：e-krediidiinfo.ee（NETWORK BUSINESS SOLUTIONS OÜ；Registrikood 11338038；Vesse tn 9a Tallinn 11415；Asutatud 09.01.2007；Põhikapital 2 550 EUR；46511；Endised ärinimed OSAÜHING ANGELMONT 09.01.2007–19.02.2007）+ inforegister.ee（Prognooskäive 2024 ~ 0 EUR；Bilansimaht 46 467 EUR；2024 I kvartalis ei ole registreeritud töötajaid；KMKR EE101131030 02.04.2007 → lõpp 15.05.2023；Kasusaajad Dmitri Simonov 20.09.2018 – …；Kohtulahendid 2）+ 16366.ee（Magdaleena 3；5027651）；2026-10-28",
+   "url": "https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU",
+   "number": "registrikood 11338038",
+   "status": "Registrisse kantud（休眠：VAT 注销 2023-05-15，0 雇员）",
+   "incorporated": "2007-01-09",
+   "company_type": "OÜ",
+   "sic": [
+    "计算机 / 外设 批发（休眠）"
+   ],
+   "address": "Vesse tn 9a, Lasnamäe linnaosa, 11415 Tallinn",
+   "accounts": "2024 预测营业额 ≈ €0；资产 €46,467；年报 2020–2022",
+   "accounts_due": "—",
+   "size_band": "微型（0 雇员）",
+   "officers": [
+    "Dmitri Simonov — 受益人（2018-09-20 起）= WA 联系人（推定）"
+   ],
+   "psc": "Dmitri Simonov",
+   "charges": "",
+   "prev_names": [
+    "Osaühing Angelmont（2007-01 – 02）"
+   ],
+   "lines": [
+    "**法人休眠（VAT 注销 + 0 雇员 + 0 营收 + 2 条法院记录）→ 不动（WA 闲聊不转商机；主动询盘须预付款）**"
+   ],
+   "notes": "不动（法人休眠）；坐实（registrikood + VAT 注销 + 受益人）。",
+   "code": "SB-056"
+  },
+  "SB-121": {
+   "batch": 111,
+   "name": "STORM ICT L.L.C.（storm-ict.com；Rruga Tahir Zajmi (KOSOVATEX) pn, 10000 Prishtinë（登记址 Nazim Gafurri 203）；商业编号未取）— 2013-09 成立的科索沃 ICT 系统集成商，克罗地亚 Storm Group 成员，科索沃 + 北马其顿（2020 起）办公室；CEO Alban S. Beqiri（LinkedIn；20+ 年 IT / 金融）；Sales Manager Elion Rexhepi；ISO 9001 / 27001；Cisco 远程医疗项目；11–50 人（RocketReach 6 / 「$45M」为推算，不采）；NCAGE A08RH（2019）；表内「英文很好，平时用工业级交换机，PoE 用的多，带管理，拿了彩页」；WA 加不上",
+   "iso": "XK",
+   "fetched": "2026-10-28",
+   "source": "XK · 1 次检索：LinkedIn Alban S. Beqiri（CEO at STORM ICT LLC member of Storm Group；Sep 2013 – Present Kosovo；Sep 2020 – North Macedonia）+ dnb.com（STORM ICT L.L.C.；Rruga Tahir Zajmi pn 10000 PRISHTINE；Key Principal Alban Beqiri；+383-38-732732）+ info-clipper（NAZIM GAFURRI 203 PRISHTINE）+ cage.report（NCAGE A08RH；Nazim Gafurri 203；2019-04-08）+ storm-ict.com（ISO 9001 / 27001；Cisco telemedicine；info@storm-ict.com；+383 38 732 731/732）+ rocketreach（Elion Rexhepi Sales Manager；6 员工）+ LinkedIn 公司页（11–50；Storm Group Croatia；2013）；ARBK 商业编号未在结果中出现；2026-10-28",
+   "url": "https://www.storm-ict.com/",
+   "number": "未取（ARBK 商业编号）",
+   "status": "Active（经营中）",
+   "incorporated": "2013-09",
+   "company_type": "L.L.C.（SH.P.K.）",
+   "sic": [
+    "ICT 系统集成（有源 / 无源网络基础设施；科索沃 + 北马其顿）"
+   ],
+   "address": "Rruga Tahir Zajmi (KOSOVATEX) pn, 10000 Prishtinë（登记 Nazim Gafurri 203）",
+   "accounts": "—（无公开账）",
+   "accounts_due": "—",
+   "size_band": "小型（6–50 人）",
+   "officers": [
+    "Alban S. Beqiri — CEO（LinkedIn / D&B）= 拍板人 / 收件人（研究档邮箱域名 storm.ict.com 有误 → 应为 storm-ict.com，具体地址待核；先发 info@storm-ict.com 抄）",
+    "Elion Rexhepi — Sales Manager（RocketReach）",
+    "Vegim Zhitija — CTO（名录）"
+   ],
+   "psc": "Storm Group（克罗地亚；推定控股）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Cisco 系集成商、现场说用工业 PoE 带管理（拿了彩页；未发过信）→ 集成 25% small，一页纸一次（切口：会面回访 + 工业管理型 PoE STI-288DGGPM / STI-488DGGPM / STI-054GP 作 Cisco 之外的第二价位 + XK 非欧盟 DAP 买方清关 + 预付款；英文，Alban 直呼，info@ 抄）；回信 → 加厚**",
+    "稿内不点名 Cisco；研究档 KP 邮箱域名改 storm-ict.com（待核）；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "集成 25% small；一页纸一次；部分坐实（名称 + 址 + CEO；ARBK 编号未取）。",
+   "code": "SB-121"
+  },
+  "SB-263": {
+   "batch": 111,
+   "name": "Tecside BV（tecside.be / tecsideshop.be；Kolonel Begaultlaan 11, 3012 Leuven；ondernemingsnummer BE 0795.233.912）— 2022-12-22 设立（前身 TECside Comm.V 0567.983.696，2014-11-20 起，2023-06-30 关闭）的定制 LED 照明 + 专业视听安装商（餐饮 / 电视演播 / 零售 / 健身；DMX / DALI / KNX；自有 CNC 车间；LED 灯带按自家规格代工）；微型 2.2 FTE（2024 年报）；创始人 / 销售 Giovanni Desramault（giovanni@tecside.be；= 研究档 KP，orders@）；安装技师 Bert Hellemans；阿里巴巴 RFQ「4 光 8 电 10G 光 2.5G 网」；未发过信",
+   "iso": "BE",
+   "fetched": "2026-10-28",
+   "source": "BE · 1 次检索：companyweb.be（Tecside BV；BE 0795.233.912；Kolonel Begaultlaan 11 3012 Leuven；Established 22-12-2022；Last balance 2024；Micro 2,2 FTE；Specialised services in sound, image and lighting）+ pappers.be（TECside 0567.983.696 Gewone commanditaire vennootschap；Hoegaardsestraat 122；oprichting 20/11/2014；gesloten 30/06/2023）+ tecsideshop.be/contact（Giovanni Desramault founder - sales giovanni@tecside.be；Bert Hellemans installatie technieker）+ tecside.be（maatwerk LED；AV；DMX / DALI / KNX）；2026-10-28",
+   "url": "https://www.companyweb.be/en/0795233912/tecside",
+   "number": "BE 0795.233.912",
+   "status": "Actief",
+   "incorporated": "2022-12-22（前身 2014-11-20）",
+   "company_type": "BV",
+   "sic": [
+    "定制 LED 照明 + 视听安装（鲁汶）"
+   ],
+   "address": "Kolonel Begaultlaan 11, 3012 Leuven",
+   "accounts": "2024 年报已交（微型 2.2 FTE）",
+   "accounts_due": "—",
+   "size_band": "微型（2.2 FTE）",
+   "officers": [
+    "Giovanni Desramault — founder / sales（tecsideshop.be）= 拍板人 / 收件人（giovanni@tecside.be 优于 orders@）",
+    "Bert Hellemans — 安装技师"
+   ],
+   "psc": "Giovanni Desramault（推定）",
+   "charges": "",
+   "prev_names": [
+    "TECside Comm.V（0567.983.696，2014–2023）"
+   ],
+   "lines": [
+    "**微型 AV 安装商但有具体 RFQ（8× 2.5G + 4× 10G SFP+）→ 集成 25% small，一页纸一次（切口：直接回应 RFQ 规格——若主表有 2.5G 多千兆型号则报之，否则报 STC-2224GP / STC-4424GCPM + 10G 上联说明 + MOQ 1；荷语引子，Giovanni 直呼）；回信 → 加厚**",
+    "发信前核主表 2.5G 型号是否存在（无则不许编）；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "集成 25% small；一页纸一次（回 RFQ）；坐实（企业号 + 成立日 + 创始人）。",
+   "code": "SB-263"
+  },
+  "SB-638": {
+   "batch": 111,
+   "name": "ПТЧ УП «Опатов»（Производственно-торговое частное унитарное предприятие；opatov.by / opl-sfp.by；220084 Минск, ул. Франциска Скорины 52, корп. 1, пом. 78；УНП 190207304；ОКПО 37546484）— 2001 年成立的电信 / 工业自动化材料与设备供应商 + 系统集成商（ВОЛС 建设、测试认证、仪器租赁、跳线制作；Sumitomo 授权服务中心）；**自有商标 OPL / OPL-SFP**（光模块按与 Lanao Communication Technology 总协议代工，3–5 年保；OPL 管理型交换机 5–26 口；「仅对通过自家实验室测试、销售一年以上的产品授 OPL 标」）；KP Igor Dashchinski（Director，dia@opatov.ru）；阿里巴巴询盘 Bypass 模块；未发过信",
+   "iso": "BY",
+   "fetched": "2026-10-28",
+   "source": "BY · 1 次检索：opl-sfp.by/company（ПТЧ УП \"Опатов\"；УНП 190207304；ОКПО 37546484；Приорбанк）+ opl-sfp.by 首页 / contacts（220084 Минск ул. Франциска Скорины 52 корп. 1 пом. 78；info@opatov.by；Sumitomo / MlaxLink / Grandway / Dptek；OPL 3–5 лет гарантии）+ opatov.by/opl-sfp-brand（торговая марка OPL-SFP … по генеральному соглашению с Lanao Communication Technology Limited）+ opatov.by 首页（часть товаров производим под торговым знаком OPL）+ sfp.by/opl（основано в 2001；авторизованный сервисный центр Sumitomo）+ opl-sfp.by/catalog/switches/managed（управляемые коммутаторы OPL 5–26 портов；оптовые скидки）；egr.gov.by 未访问（通常不可达）；2026-10-28",
+   "url": "https://opl-sfp.by/company/",
+   "number": "УНП 190207304",
+   "status": "Действующее（站点活跃）",
+   "incorporated": "2001",
+   "company_type": "Частное унитарное предприятие（ПТЧ УП）",
+   "sic": [
+    "电信 / 工业自动化 材料设备供应 + 系统集成（自有品牌 OPL）"
+   ],
+   "address": "ул. Франциска Скорины 52, корп. 1, пом. 78, 220084 Минск",
+   "accounts": "—（白俄不公开）",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Igor Dashchinski — Director（研究档 KP；dia@opatov.ru）= 拍板人 / 收件人",
+    "（info@opatov.by 抄）"
+   ],
+   "psc": "未取（私营单一业主）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已有自有品牌 OPL 含管理型交换机（找中国代工多年）→ 贴标 30% 目标，B BIG，加厚一次（切口：OPL 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-288DGGPM 作第二代工源 + 旁路需求回访 + 中性包装 / 自编货号 + 预付款；俄文，Dashchinski 直呼）；回信 → 次候选升 A**",
+    "白俄收款 / 物流路径同 RU 议题（Simon 定）；稿内不点名 Lanao / Sumitomo / Ruijie；发信窗口 Thu 10–12 MSK"
+   ],
+   "notes": "贴标 30%；B BIG 加厚一次；坐实（УНП + ОКПО + 自有品牌证据）。",
+   "code": "SB-638"
+  },
+  "SB-768": {
+   "batch": 111,
+   "name": "Društvo za informacione tehnologije i telekomunikacije KBV DATACOM d.o.o. Beograd（kbvdatacom.rs；Zorana Žunkovića 17, sprat 1 i 2, 11102 Beograd (Savski Venac)（另 Milentija Popovića 9 Sava Centar / Vladimira Popovića 6）；PIB 106983968；MB 20718749）— 2011-03-11 成立的电信 / 能源 / 交通基础设施设计咨询与建设工程公司（APR 分类 6209；**「Veliko」大型企业；101–250 人（2026 报道 190 人）**；光纤基础设施、安防系统、电力系统；持 P150E3 设计 + I141E3 铁路电信网施工许可 → 铁路线不碰）；阿里巴巴 RTS 订单「Bypass 模块」；KP Dušan Ponjavić（Gmail；职务待核）；未发过信",
+   "iso": "RS",
+   "fetched": "2026-10-28",
+   "source": "RS · 1 次检索：companywall.rs（KBV DATACOM；ZORANA ŽUNKOVIĆA 17 sprat 1 i 2 11102 BEOGRAD；Aktivan；PIB 106983968；MB 20718749；osnivanje 11.3.2011；6209；Veličina Veliko）+ pretraga.pkspartner.rs（puno ime Društvo za informacione tehnologije i telekomunikacije KBV DATACOM d.o.o. Beograd；office@kbvdatacom.com；+381 11 4148220）+ poslovi.infostud（101–250 zaposlenih；projektovanje, konsalting, inženjering i izgradnja telekomunikacione, energetske i saobraćajne infrastrukture）+ biznis.rs 2026-06-25（190 zaposlenih）+ kbvdatacom.rs/sertifikati（Licenca I141E3 železničke；P150E3 projektovanje）；2026-10-28",
+   "url": "https://www.companywall.rs/firma/kbv-datacom-doo-beograd/MMu9ivZ0",
+   "number": "PIB 106983968 / MB 20718749",
+   "status": "Aktivan",
+   "incorporated": "2011-03-11",
+   "company_type": "d.o.o.",
+   "sic": [
+    "电信 / 能源 / 交通 基础设施 设计与建设工程（贝尔格莱德）"
+   ],
+   "address": "Zorana Žunkovića 17, sprat 1 i 2, 11102 Beograd (Savski Venac)",
+   "accounts": "未取（APR 分类「大型」）",
+   "accounts_due": "—",
+   "size_band": "大型（190 人）",
+   "officers": [
+    "Dušan Ponjavić — 研究档 KP（dponjavic@gmail.com；职务待核）= 收件人",
+    "（Direktor 未取；office@kbvdatacom.rs 抄）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**190 人电信基建工程商、已下过旁路模块小单（阿里 RTS）→ 集成 25%，B BIG，加厚一次（切口：光纤接入 / 安防 / 电力站点的工业 PoE STI-054GP / STI-144GP / STI-288DGGPM + 旁路模块回访 + RS 非欧盟 DAP 买方清关；英文 / 塞语引子，Dušan 直呼 + office@ 抄、一问其职务 / 公司邮箱）；回信 → 次候选升 A**",
+    "**守界：只谈电信 / 能源 / 安防线，绝不提铁路电信网（I141E3）**；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "集成 25%；B BIG 加厚一次（非轨交线）；坐实（PIB + MB + 规模）。",
+   "code": "SB-768"
+  },
+  "SB-1111": {
+   "batch": 111,
+   "name": "（未具名；《Clients/A/DONE/Spain 2.9.xlsx》第 42 行 No.41：公司 / 联系人 / 邮箱全空；仅 12 条 WhatsApp 记录 2023-12-25 → 2024-11-18，对方一次回复「问了一个别的东西」）— 无任何可检索身份 → 不检索",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 0 次检索（无名称 / 域名 / 邮箱 / 电话可查）；按「查无实体」处理；2026-10-28",
+   "url": "",
+   "number": "未取",
+   "status": "未取",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "身份不明（西班牙，WhatsApp 记录）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "（无）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**查无实体（仅 WA 历史、无号码入库）→ 不动；若 Simon WA 里能对出号码 / 公司名再立户**"
+   ],
+   "notes": "未坐实（无可查身份）→ 不动。",
+   "code": "SB-1111"
+  },
+  "SB-241": {
+   "batch": 111,
+   "name": "Tomasz Głuszek（个人；gluszek.tomasz@gmail.com；爱尔兰 +353 83；波兰裔安装商）— LinkedIn 有同名「Tomasz Gluszek — AT Networks, Ireland」（待证，未核为同一人）；无 CRO 法人；2010 年起用阿里国际站；购 2 个工业 90W PoE 注入器样品（已成交小客户）；WhatsApp 已加，3 次实质回复 / 5 次跟进",
+   "iso": "IE",
+   "fetched": "2026-10-28",
+   "source": "IE · 1 次检索（Gmail 户 1 查即停）：LinkedIn（Tomasz Gluszek — AT Networks · Ireland · 50 connections；是否同一人待证）+ companycheck.ie / CRO 结果均为无关法人（Electric Install Ireland Ltd 623184 ≠）；波兰 Bud-Inspekt Tomasz Głuszek Kielce NIP 9591718230 = 同名他人；2026-10-28",
+   "url": "",
+   "number": "未取（个人）",
+   "status": "—",
+   "incorporated": "—",
+   "company_type": "个人（无法人）",
+   "sic": [
+    "个人安装商（爱尔兰）"
+   ],
+   "address": "爱尔兰（具体未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "Tomasz Głuszek — 本人（WA）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个人安装商、样品单已成交、WA 活跃 → 不进发送包（Gmail / 个人）；由 Simon 在 WA 顺手维系即可（STI-054GP 整机一口价）；registry 不动**",
+    "旁线索：AT Networks（IE）若为其雇主可另立户（待证）"
+   ],
+   "notes": "未坐实（个人）→ 不动（WA 维系）。",
+   "code": "SB-241"
+  },
+  "SB-807": {
+   "batch": 111,
+   "name": "ООО «Датастрим ДЕП»（Datastream DEP；datastream.by；220113 Минск, ул. Мележа 1, комн. 1309（БЦ «Парус»）；УНП 100917214（登记证 2001-06-20，Мингорисполком）；ОКПО 373712285000）— 1993 年起的白俄电信 / 网络 / 监控 / 门禁设备综合分销商（**ZyXEL / ORing / VIVOTEK / QNAP / LANMASTER 等官方分销；面向集成商与合作伙伴；网店 + onliner 店**）；LinkedIn 51–200 人；研究档国别「保加利亚」有误（entities BY 正确）；仅 info@；未发过信",
+   "iso": "BY",
+   "fetched": "2026-10-28",
+   "source": "BY · 1 次检索：datastream.by/company（ООО «Датастрим ДЕП»；220113 Минск ул. Мележа д. 1 комн. 1309；УНП 100917214；ОКПО 373712285000；info@datastream.by）+ onliner 店铺页（Свидетельство о регистрации 100917214 от 20.06.2001 Минский городской исполнительный комитет）+ rabota.by（С 1993 года；официальные дистрибьюторы ведущих мировых производителей；интеграторам и партнёрам）+ 1info.by（ZyXEL, ORing, VIVOTEK, QNAP, TWT, LANMASTER, AVer）+ LinkedIn（51–200；Founded 1993）；egr.gov.by 未访问；2026-10-28",
+   "url": "https://datastream.by/company/",
+   "number": "УНП 100917214",
+   "status": "Действующее",
+   "incorporated": "2001-06-20（业务 1993 起）",
+   "company_type": "ООО",
+   "sic": [
+    "电信 / 网络 / 监控 设备 综合分销（明斯克）"
+   ],
+   "address": "ул. Мележа 1, комн. 1309, 220113 Минск",
+   "accounts": "—（白俄不公开）",
+   "accounts_due": "—",
+   "size_band": "中型（51–200 人）",
+   "officers": [
+    "（Директор 未取）— 收件人 info@datastream.by，一问采购负责人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**白俄头部网络分销商、已代理台系工业交换机品牌 → 分销 20%，B BIG，加厚一次（切口：工业 PoE STI-054GP / STI-144GP / STI-288DGGPM 作现有台系线的第二价位 + 商用 STC-028GP / STC-2224GP 配监控 + 预付款；俄文，info@ 一问采购负责人）；回信 → 次候选升 A**",
+    "白俄收款 / 物流路径同 RU 议题（Simon 定）；稿内不点名 ZyXEL / ORing / VIVOTEK；研究档国别需改 BY；发信窗口 Thu 10–12 MSK"
+   ],
+   "notes": "分销 20%；B BIG 加厚一次；坐实（УНП + 登记日 + 分销资质）。",
+   "code": "SB-807"
+  },
+  "SB-814": {
+   "batch": 111,
+   "name": "ЧСУП «Айстрим Плюс»（Частное сервисное унитарное предприятие；istream.by；220015 Минск, ул. Пономаренко 35, 5 эт.（曾 Притыцкого 62/2, оф. 506Б）；УНП 191523533；ОКПО 379687595000；登记 2011-02-15 Администрация Фрунзенского района г. Минска）— 家庭 / 办公视频监控 + 报警 + 门禁 + 局域网的销售 / 安装 / 维护小企业（Partizan 白俄官方经销商；站内 DK100-4FP2F PoE 交换机）；研究档国别「保加利亚」有误（entities BY 正确）；仅 info@；未发过信",
+   "iso": "BY",
+   "fetched": "2026-10-28",
+   "source": "BY · 1 次检索：istream.by/contact（Частное сервисное унитарное предприятие \"АЙСТРИМ ПЛЮС\"；220015 Минск ул. Пономаренко 35；УНП 191523533；ОКПО 379687595000；Белгазпромбанк）+ deal.by（ЧСУП «Айстрим Плюс»；УНП 191523533；Регистрационный орган Администрация Фрунзенского района г. Минска；Дата регистрации 15.02.2011；Притыцкого 62 корп. 2 оф. 506Б）+ istream.tam.by（подбор, продажа, монтаж и обслуживание охранных систем и видеонаблюдения；IT-услуги）+ istream.by/blog（официальный дилер Partizan 2020）；2026-10-28",
+   "url": "https://istream.by/contact/",
+   "number": "УНП 191523533",
+   "status": "Действующее",
+   "incorporated": "2011-02-15",
+   "company_type": "ЧСУП（私营服务单一制企业）",
+   "sic": [
+    "CCTV / 报警 / 门禁 销售安装（明斯克）"
+   ],
+   "address": "ул. Пономаренко 35, 220015 Минск",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "（无 KP；info@istream.by）"
+   ],
+   "psc": "未取（私营单一业主）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型 CCTV 安装商 + 无 KP + 白俄收款路径未定 → 不动（B 保留；主动询盘预付款）**",
+    "研究档国别需改 BY"
+   ],
+   "notes": "不动（微型无 KP）；坐实（УНП + 登记日）。",
+   "code": "SB-814"
   }
  }
 }
