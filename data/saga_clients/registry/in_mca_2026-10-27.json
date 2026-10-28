@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 17
+  "count": 30
  },
  "rows": {
   "SA-073": {
@@ -582,6 +582,423 @@
    ],
    "notes": "贴标 30%；加厚 small 一次；坐实（CIN + 董事 = KP + 地址）。",
    "code": "SB-308"
+  },
+  "SB-343": {
+   "batch": 114,
+   "name": "Zekko Tech Private Limited（zekko.co.in；CIN U74999MH2016PTC285972（2016-09-16；RoC Mumbai）；Unit 122, 1st Floor, C-56/1, Turbhe Industrial Park, TTC Industrial Area, Turbhe MIDC, Navi Mumbai 400705）— 企业 / 电信 IT 与自动化方案「开发 + 营销」公司（4 人；实缴 ₹1 lakh；未清抵押 ₹2.25 Cr）；Whole-Time Director Chandrasekaran Iyer、Directors Anjana Maju / Sivaraj Iyer Nagarajan（前董事 Seema Santosh Singh = KP Santosh Singh 关联）；KP Yashraj Sharma（Manager）；需求工业级 / SFP；WA 已加无实质回复",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：zaubacorp（ZEKKO TECH PRIVATE LIMITED CIN U74999MH2016PTC285972；incorporated 16 Sep 2016；ROC Mumbai；paid up Rs. 100,000；Turbhe Industrial Park Unit No. 122）+ thecompanycheck（Employing 4；Chandrasekaran Iyer Whole-Time Director；Sivaraj Iyer Nagarajan Additional Director；Anjana Maju Director；past director Seema Santosh Singh；₹2.25 Cr open charges；AGM 30 Sep 2024）+ zekko.co.in/about-us（Unit 122 Plot C-56/1 Turbhe MIDC Navi Mumbai 400705；+91 91360 07767；sales@zekko.co.in）；2026-10-28",
+   "url": "https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972",
+   "number": "CIN U74999MH2016PTC285972",
+   "status": "Active",
+   "incorporated": "2016-09-16",
+   "company_type": "Private Limited",
+   "sic": [
+    "电信 / IT / 自动化 方案商（新孟买）"
+   ],
+   "address": "Unit 122, 1st Floor, C-56/1, Turbhe Industrial Park, TTC Industrial Area, Turbhe MIDC, Navi Mumbai 400705",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（4 人）",
+   "officers": [
+    "Chandrasekaran Iyer — Whole-Time Director",
+    "Yashraj Sharma — Manager（研究档 KP）= 收件人",
+    "Santosh Singh — 研究档 KP（与前董事 Seema Santosh Singh 关联待证）"
+   ],
+   "psc": "Iyer / Maju（推定）",
+   "charges": "₹2.25 Cr 未清抵押",
+   "prev_names": [],
+   "lines": [
+    "**4 人微型方案商、WA 已加无实质回复 → 集成 25% small，一页纸一次（切口：工业 PoE STI-054GP / STI-144GP + STC-228GP 一口价 + MOQ 1；光模块明说不做；英文，Yashraj 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动"
+   ],
+   "notes": "集成 small；一页纸一次；坐实（CIN + 地址 + 董事 + 规模）。",
+   "code": "SB-343"
+  },
+  "SB-486": {
+   "batch": 114,
+   "name": "NextGen Automation Pvt. Ltd.（NGAPL；ngapl.in / ngapl.com；CIN U31200WB2002PTC094683（2002-05-24；RoC Kolkata）；PS PACE, Unit 102, 1/1A Mahendra Roy Lane, Kolkata 700046；注册地 Stephen Court, 18A Park Street, Kolkata 700071）— 大型工业电气与自动化集成商（钢铁 / 矿山新建与改造项目；合作 MRA / VAHLE / Ouster / Kymati / Siemens；≈75 人；66,865 sq ft 制造车间）；创始人 / MD Sanjiv Dua（IIT Delhi）、董事 Amit Jhunjhunwala / Somini Sen Dua；营收 ₹10–50 Cr（FY2025）；未清抵押 ₹29.43 Cr；KP Rajendra Khamkar（Operation Head）；阿里询盘「EHG6408 8 电口」（Atop 型号）；未触达",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：tracxn（NEXTGEN AUTOMATION PRIVATE LIMITED CIN U31200WB2002PTC094683；incorporated May 24, 2002；ROC Kolkata；1/1A Mahendra Roy Lane PS PACE Unit 102；revenue ₹10–50 Cr FY2025）+ zaubacorp（paid up Rs. 2,062,200；Directors Sanjiv Dua / Amit Jhunjhunwala / Somini Sen Dua；sanjiv.dua@ngapl.com）+ ngapl.in/about（incorporated 2002；founded and headed by Mr Sanjiv Dua IIT Delhi；almost seventy five people；manufacturing unit 66865 sq ft）+ thecompanycheck（Open Charges ₹29.43 Cr）+ ngapl.com/contact（Regd Office Stephen Court 18A Park Street）；2026-10-28",
+   "url": "https://www.zaubacorp.com/NEXTGEN-AUTOMATION-PRIVATE-LIMITED-U31200WB2002PTC094683",
+   "number": "CIN U31200WB2002PTC094683",
+   "status": "Active",
+   "incorporated": "2002-05-24",
+   "company_type": "Private Limited",
+   "sic": [
+    "工业电气 / 自动化 系统集成 + 控制柜制造（加尔各答）"
+   ],
+   "address": "PS PACE, Unit 102, 1st Floor, 1/1A Mahendra Roy Lane, Kolkata 700046",
+   "accounts": "₹10–50 Cr（FY2025）",
+   "accounts_due": "—",
+   "size_band": "中型（≈75 人）",
+   "officers": [
+    "Sanjiv Dua — Founder / Managing Director = 拍板人",
+    "Rajendra Khamkar — Operation Head（研究档 KP）= 收件人",
+    "Amit Jhunjhunwala / Somini Sen Dua — Directors"
+   ],
+   "psc": "Dua 家族（推定）",
+   "charges": "₹29.43 Cr 未清抵押（项目融资常态）",
+   "prev_names": [],
+   "lines": [
+    "**钢铁 / 矿山大型自动化集成商、已有 8 口工业交换机询盘 → 集成 25% B BIG，加厚一次（切口：接上「8 电口工业」询盘 → STI-280GE（8 GE 非管理）/ STI-288GPM（8 PoE + 2 SFP 管理）+ 环网 STI-288DGGPM，导轨 + 宽温 + 3 年保，付费样机 2 台；英文，Rajendra 直呼 + info@ 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选升 A",
+    "守界：不声称 IEC 61850 / 防爆；不点名 Atop / Siemens"
+   ],
+   "notes": "集成 25%；B BIG 加厚一次；坐实（CIN + 地址 + MD + 规模）。",
+   "code": "SB-486"
+  },
+  "SB-607": {
+   "batch": 114,
+   "name": "Jayani Technologies LLP（JTOPTICS®；jtoptics.com；LLPIN AAA-6913（2011-11-17；RoC Mumbai）；Office 23, 3rd Floor, Building A, Gami Industrial Park, TTC MIDC, Pawane, Navi Mumbai 400705）— 光模块 / DAC / AOC / MPO 自有品牌（1G–1.6T；数据中心 + 电信）；指定合伙人 Vijay Jankiprasad Gupta（Founder / CEO = KP）/ Nidhi Vijay Gupta（COO）；≈12 人（RocketReach；ZoomInfo 51–200 虚高）；**Simon 长期跟进：价格敏感（工业 MC $25 嫌贵）、称已与 BTON 合作 → 实质婉拒**",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：zaubacorp（JAYANI TECHNOLOGIES LLP LLPIN AAA-6913；incorporated 17 Nov 2011；ROC Mumbai；Designated Partners VIJAY JANKIPRASAD GUPTA / NIDHI VIJAY GUPTA；OFFICE NO 23 3RD FLOOR BUILDING A GAMI INDUSTRIAL PARK TTC MIDC PAWANE NAVI MUMBAI 400705）+ jtoptics.com/about-us（founded 2011 Mumbai；Vijay Gupta Founder and CEO；Big Impact Award 2023）+ rocketreach（12 employees；+91 86930 99309）；2026-10-28",
+   "url": "https://www.zaubacorp.com/company/JAYANI-TECHNOLOGIES-LLP/AAA-6913",
+   "number": "LLPIN AAA-6913",
+   "status": "Active",
+   "incorporated": "2011-11-17",
+   "company_type": "LLP",
+   "sic": [
+    "光模块 / 光连接 自有品牌（新孟买）"
+   ],
+   "address": "Office 23, 3rd Floor, Building A, Gami Industrial Park, TTC MIDC, Pawane, Navi Mumbai 400705",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（≈12 人）",
+   "officers": [
+    "Vijay Jankiprasad Gupta — Designated Partner / Founder & CEO（研究档 KP）",
+    "Nidhi Vijay Gupta — Designated Partner / COO"
+   ],
+   "psc": "Gupta 夫妇",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主业光模块（Saga 不做）、交换机 / MC 价格敏感且已选他家 → 不动（婉拒规则；B 保留，其上交换机需求时再看）**"
+   ],
+   "notes": "不动（实质婉拒 + 主业非目标）；坐实（LLPIN + 合伙人 = KP + 地址）。",
+   "code": "SB-607"
+  },
+  "SB-678": {
+   "batch": 114,
+   "name": "Quantum Networks（qntmnet.com；印度艾哈迈达巴德总部 + 新德里 / 班加罗尔 / 金奈 / 加尔各答 / 海得拉巴团队；关联 Quantum Networks SG Pte Ltd（新加坡））— 云管理全栈网络品牌（QN-S 交换机、工业 PoE QN-IS-225-8、AP / 控制器）；≈57 人；管理层 Edgar Dias（CRO）/ Dishen Majithia（COO）/ **Abhijit Potdar（Corporate VP = KP abhijit@）/ Vidur Batra（VP – System Engineering = KP）**；**印度法人名 / CIN 未取**（1 查仅见员工目录）；表内「国内的工业 switch」（现用中国产工业交换机）；未触达",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：signalhire（Quantum Networks SG Pte Ltd；Ahmedabad Gujarat；Vidur Batra Vice President - System Engineering；@qntmnet.com 60 employees）+ rocketreach（Quantum Networks employs 57；Edgar Dias CRO；Dishen Majithia COO；Abhijit Potdar Corporate Vice President New Delhi；Vidur Batra VP System Engineering Bengaluru；IT dept 9）；印度法人 / CIN 未见；1 查即停；2026-10-28",
+   "url": "https://rocketreach.co/quantum-networks-management_b40c3be3ffc352b3",
+   "number": "未取（CIN；新加坡关联 Quantum Networks SG Pte Ltd）",
+   "status": "Active",
+   "incorporated": "未取",
+   "company_type": "未取（Pvt. Ltd. 推定 + SG Pte Ltd）",
+   "sic": [
+    "云管理网络 自有品牌（艾哈迈达巴德）"
+   ],
+   "address": "Ahmedabad, Gujarat（具体地址未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中小型（≈57 人）",
+   "officers": [
+    "Abhijit Potdar — Corporate Vice President（研究档 KP abhijit@）= 拍板人",
+    "Vidur Batra — VP System Engineering（研究档 KP）= 收件人",
+    "Dishen Majithia — COO",
+    "Edgar Dias — CRO"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌（含工业 PoE 子线）、现用中国产工业交换机 → 贴标 OEM 30% B BIG，加厚一次（切口：只做其 QN-IS 工业线的第二代工源 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + 中性包装 / 自编货号 + 3 年保；云管理线不碰、稿内不声称云管理；英文，Vidur 直呼 + Abhijit 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选",
+    "法人 / CIN 未取 → 部分坐实；付款 T/T 预付"
+   ],
+   "notes": "贴标 30%；B BIG 加厚一次；部分坐实（品牌 + 团队 + KP；CIN 未取）。",
+   "code": "SB-678"
+  },
+  "SB-169": {
+   "batch": 114,
+   "name": "AGS Plus（agsplus.in 占位页；KP Vinod Tyagi +91 98105（德里号段）；sales@agsplus.in）+ 关联 Xexagon（xexagon.co.in；艾哈迈达巴德 Odhav；**个体 GST 24BWZPP0936L1ZR（2019-03-06）→ Xexagon Hi-Tech Private Limited CIN U28299GJ2025PTC160203（2025-03-12；Block A-209, Global Business Park, Odhav, Ahmedabad 382415；董事 Tusharkumar Rajeshbhai Patel / Nehaben Patel）**；工业自动化 / 防爆区产品代理 + 5 口非管理工业交换机；≤10 人；营业额 ₹5–25 Cr）— **两实体身份关系未清（德里 CCTV 经销 vs 艾哈迈达巴德自动化代理）**；表内：主 CCTV、用新桥商用 PoE、工业 FS 用 opstar；2025-06 对 24 PoE 回「price」",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：xexagon.co.in（Xexagon Odhav Ahmedabad；GST No. 24BWZPP0936L1ZR；Proprietorship；Upto 10 People；Annual Turnover 5 - 25 Cr；IEC BWZPP0936L；CEO Tusharkumar Rajeshbhai Patel；5 Port Unmanaged Industrial Ethernet Switch）+ indiafilings / tofler（XEXAGON HI-TECH PRIVATE LIMITED CIN U28299GJ2025PTC160203；12-03-2025；RoC-Ahmedabad；Block A-209 Global Business Park Odhav 382415；Nehaben Patel / Tusharkumar Rajeshbhai Patel）+ LinkedIn（XEXAGON industrial automation, hazardous area products；11-50）；AGS Plus 法人无命中；2026-10-28",
+   "url": "https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203",
+   "number": "Xexagon：GSTIN 24BWZPP0936L1ZR / CIN U28299GJ2025PTC160203；AGS Plus：未取",
+   "status": "Active（Xexagon）；AGS Plus 站点占位",
+   "incorporated": "Xexagon 2019（个体）→ 2025-03-12（Pvt Ltd）",
+   "company_type": "Proprietorship → Private Limited（Xexagon）；AGS Plus 未取",
+   "sic": [
+    "CCTV / 网络 经销（德里？）+ 工业自动化 代理（艾哈迈达巴德）"
+   ],
+   "address": "Xexagon：Block A-209, Global Business Park, S.P. Ring Road, Odhav, Ahmedabad 382415；AGS Plus：未取",
+   "accounts": "Xexagon ₹5–25 Cr（自报）",
+   "accounts_due": "—",
+   "size_band": "小型（≤10 人）",
+   "officers": [
+    "Vinod Tyagi — 研究档 KP（sales@agsplus.in；2025-06 回「price」）= 收件人",
+    "Gunjan — 研究档 KP（gunjan@xexagon.co.in）= 抄",
+    "Tusharkumar Rajeshbhai Patel — Xexagon CEO / Director"
+   ],
+   "psc": "Patel（Xexagon）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**曾对 24 口 PoE 问价（2025-06）→ 分销 20% small，一页纸一次（切口：直接给 STC-2224GP 24 PoE 一口价 + STC-228GP + 工业 STI-054GP，MOQ 1；英文，Vinod 直呼 + Gunjan 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动",
+    "身份：AGS Plus（德里）与 Xexagon（艾哈迈达巴德）关系未清 → 部分坐实；Xexagon 代理防爆区产品 → 稿内不碰防爆"
+   ],
+   "notes": "分销 20% small；一页纸一次；部分坐实（Xexagon 坐实；AGS Plus 查无）。",
+   "code": "SB-169"
+  },
+  "SB-641": {
+   "batch": 114,
+   "name": "Apollo Infoways Private Limited（WatchDog 品牌；apolloinfoways.in；CIN U72900DL2014PTC264342（2014-02-03；RoC Delhi）；注册地 E-703, Plot 60, Mayur Dhwaj Apartment, I.P. Extension, New Delhi 110092；运营 Noida）— 印度安防 + 网络 OEM 品牌（IP / AHD 摄像机、NVR、ANPR、人脸、4G 路由 + 自有型号交换机 WD6822-24X6H / WD6822-48X6H / WD5890、SFP / MC）；董事 **Ravi Prakash（Founder / CEO = KP ravi@）**/ Ivy Prakash；实缴 ₹10 lakh；营收 ₹10–50 Cr（FY2025）；11–50 人；表内「买丰润达的商业 PoE，工业 FS 是 AOA 的，8 PORT ROUTER」；未触达",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：tracxn（APOLLO INFOWAYS PRIVATE LIMITED is the legal entity of Watch Dog；CIN U72900DL2014PTC264342；directors Ivy Prakash / Ravi Prakash since Feb 03, 2014；paid up ₹10L；revenue ₹10–50 Cr FY2025；AGM Sep 30, 2024）+ thecompanycheck（E 703 P No 60 Mayur Dhwaj Apartment Indra Prastha Extn New Delhi 110092）+ theenterpriseworld（Ravi Prakash Founder / CEO；products IP camera, NVR, ANPR, networking SFP / MC / router / switch）+ facebook（Noida；fastest growing Indian OEM for Surveillance and Networking Products \"WatchDog\"）；2026-10-28",
+   "url": "https://www.zaubacorp.com/APOLLO-INFOWAYS-PRIVATE-LIMITED-U72900DL2014PTC264342",
+   "number": "CIN U72900DL2014PTC264342",
+   "status": "Active",
+   "incorporated": "2014-02-03",
+   "company_type": "Private Limited",
+   "sic": [
+    "安防 + 网络 OEM 品牌（新德里 / 诺伊达）"
+   ],
+   "address": "E-703, Plot 60, Mayur Dhwaj Apartment, I.P. Extension, New Delhi 110092（运营 Noida）",
+   "accounts": "₹10–50 Cr（FY2025）",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Ravi Prakash — Founder / CEO / Director（研究档 KP ravi@）= 拍板人 / 收件人",
+    "Ivy Prakash — Director"
+   ],
+   "psc": "Prakash 夫妇",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有型号交换机全线、现用丰润达商用 PoE + AOA 工业 → 贴标 OEM 30% B BIG，加厚一次（Q-33 HRUI 口径：只推 SmartByte / Marvell 管理线 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业 STI-144GP / STI-288DGGPM 作 WatchDog 标第二源 + 中性包装 / 自编货号；不报与丰润达同款非管理 PoE；英文，Ravi 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选升 A",
+    "稿内不点名丰润达 / AOA"
+   ],
+   "notes": "贴标 30%；B BIG 加厚一次；坐实（CIN + 董事 = KP + 地址 + 营收档）。",
+   "code": "SB-641"
+  },
+  "SB-655": {
+   "batch": 114,
+   "name": "DIGISOL Systems Limited（digisol.com；Smartlink Holdings Ltd（BSE 上市）100% 子公司；孟买总部，果阿 Verna 工厂）— 「Made in India」网络品牌（交换机 / FTTH-PON / MC / 布线 / 监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE；新多千兆 L2 / L3 PoE）；CEO Devendra Kamtekar；**Q2 FY26 营收 ₹6,327.58 lakh / 季（≈$7.5M；年化 ≈$30M）、PAT ₹268.43 lakh**；FY2024-25 年营收 ₹1,557（tracxn 口径，单位待核）；**CIN 未取**（1 查未见）；KP Ranjan Gupta（Dy. BDM）/ Nandini Singh；表内「工业 FS 来自 HRUI（洪瑞）」→ Q-33 口径；未触达",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：hdfcsky（Smartlink Holdings Q2FY26；100% owned subsidiary Digisol Systems Limited achieved ₹6,327.58 lakh revenue and ₹268.43 lakh PAT during the quarter；2025-11-06）+ owler（Digisol Systems limited CEO Devendra Kamtekar；Mumbai；Private Subsidiary of Smartlink Holdings Ltd.；est. 1993）+ tracxn（DIGISOL SYSTEMS LIMITED financials FY25 revenue 1557）；CIN 未见；1 查即停；2026-10-28",
+   "url": "https://www.owler.com/company/digisol",
+   "number": "未取（CIN；母公司 Smartlink Holdings Ltd 上市）",
+   "status": "Active",
+   "incorporated": "未取（品牌 1993 / 分拆后独立）",
+   "company_type": "Public Limited（非上市子公司）",
+   "sic": [
+    "网络 / 布线 / 监控 自有品牌 + 制造（孟买 / 果阿）"
+   ],
+   "address": "Mumbai（总部；具体地址未取）；工厂 Verna, Goa",
+   "accounts": "≈₹250 Cr / 年（按 Q2 FY26 年化；待核）",
+   "accounts_due": "—",
+   "size_band": "中型（上市集团子公司）",
+   "officers": [
+    "Devendra Kamtekar — CEO = 拍板人",
+    "Ranjan Gupta — Dy. Business Development Manager（研究档 KP）= 收件人",
+    "Nandini Singh — 研究档 KP = 抄"
+   ],
+   "psc": "Smartlink Holdings Ltd 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上市集团 Make-in-India 品牌、工业线现由 HRUI 供 → 贴标 OEM 30% B BIG，加厚一次（Q-33 HRUI 口径：只推 SmartByte / Marvell 管理线 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业管理 STI-288DGGPM / STI-488DGGPM（SKD / 板级可谈，配合其本地制造）+ 中性包装；不报与 HRUI 同款；英文，Ranjan 直呼 + Nandini 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选升 A",
+    "CIN 未取 → 部分坐实；稿内不点名 HRUI / 不声称 BIS / TEC"
+   ],
+   "notes": "贴标 30%；B BIG 加厚一次；部分坐实（法人名 + 上市母公司 + CEO + 营收；CIN 未取）。",
+   "code": "SB-655"
+  },
+  "SB-857": {
+   "batch": 114,
+   "name": "AirPro Technology India Limited（原 Airpro Technology India Private Limited，2025-04-28 转公众公司；airpro.in / airpronetworks.com；CIN U72900RJ2014PLC045127（2014-02-17；RoC Jaipur）；D-30, Gautam Marg, Nirman Nagar, Ajmer Road, Jaipur 302019）— 自有品牌有线 / 无线网络产品（WLAN AP / 控制器、PoE L2-L3 管理交换机 AP-ESG3024P 24 PoE 400 W、工业 AP-IGS9014P、注入器、光接入、4G CPE）；发起人 Pankaj Bhansali / **Deepak Jain（Director = KP deepak@airpro.in；表内「比较重要」）**/ Rajesh Hasmukh Vakharia / Roopali Bhansali；实缴 ₹1.89 Cr；营收 ₹10–50 Cr（FY2025）；**SME IPO 招股书（36 lakh 股；OFS Deepak Jain 2.6 lakh）**；未触达",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：tracxn（AIRPRO TECHNOLOGY INDIA LIMITED CIN U72900RJ2014PLC045127；paid up ₹1.89Cr；revenue ₹10–50 Cr FY2025；directors Deepak Jain / Rajesh Hasmukh Vakharia since Feb 17, 2014, Pankaj Bhansali since Sep 29, 2017）+ Draft Prospectus investors.airpronetworks.com（converted from Private Limited to Limited, fresh certificate April 28, 2025；promoters PANKAJ BHANSALI, DEEPAK JAIN, RAJESH HASMUKH VAKHARIA, ROOPALI BHANSALI；IPO 36,00,000 shares）+ zaubacorp（D-30 GAUTAM MARG NIRMAN NAGAR AJMER ROAD JAIPUR 302019）+ tofler（deepak@airpro.in）+ LinkedIn（AP-ESG3024P L2 Gigabit Managed PoE Switch）+ chittorgarh（OFS Deepak Jain 2,60,000）；2026-10-28",
+   "url": "https://www.zaubacorp.com/company/AIRPRO-TECHNOLOGY-INDIA-PRIVATE-LIMITED/U72900RJ2014PTC045127",
+   "number": "CIN U72900RJ2014PLC045127",
+   "status": "Active（SME IPO 进行中）",
+   "incorporated": "2014-02-17",
+   "company_type": "Public Limited（未上市 → IPO）",
+   "sic": [
+    "网络设备 自有品牌（斋浦尔 / 孟买）"
+   ],
+   "address": "D-30, Gautam Marg, Nirman Nagar, Ajmer Road, Jaipur 302019",
+   "accounts": "₹10–50 Cr（FY2025）",
+   "accounts_due": "—",
+   "size_band": "中小型（IPO 前）",
+   "officers": [
+    "Deepak Jain — Promoter / Director（研究档 KP deepak@airpro.in）= 拍板人 / 收件人",
+    "Pankaj Bhansali — Promoter / Director",
+    "Rajesh Hasmukh Vakharia — Promoter / Director"
+   ],
+   "psc": "Bhansali / Jain / Vakharia",
+   "charges": "",
+   "prev_names": [
+    "Airpro Technology India Private Limited（–2025-04）"
+   ],
+   "lines": [
+    "**自有品牌交换机全线 + IPO 扩张期 → 贴标 OEM 30% B BIG，加厚一次（切口：AirPro 标 Marvell 管理 L2 / L3 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业 STI-144GP / STI-288DGGPM 第二代工源 + 中性包装 / 自编货号 + MOQ 小；英文，Deepak 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选升 A",
+    "稿内不提其 IPO / 不引用招股书；gmail 备用地址不作主收件"
+   ],
+   "notes": "贴标 30%；B BIG 加厚一次；坐实（CIN + 发起人 = KP + 地址 + 营收档）。",
+   "code": "SB-857"
+  },
+  "SB-954": {
+   "batch": 114,
+   "name": "NETSTAR（netstar.in / starpoe.com；法人 **Infonet Technologies（合伙企业；GSTIN 24AAGFI3821H1ZN（2017-08-29）；IEC AAGFI3821H；1995 创立）**；Shop 19, Limbani Complex, Ambli Bopal Road, Ahmedabad 380058）— ISP / WISP 用反向 PoE / 无源 PoE / 室外 PoE 交换机与注入器自有品牌（NS-RP071P-OD / NS-8G-RP / RP-2U；IndiaMART / Amazon 在售）；11–25 人；营业额 ₹5–10 Cr；经理 Dharmesh Patel；switch@netstar.in（+91 96876 88966 WA 13 次无实质回复）；需求商用 PoE + 配件",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：netstar.in/home（Contact Us Infonet Technologies 19 Limbani Complex Ambli Bopal Road Ahmedabad-380058；NS-RP071P-OD；NS-8G-RP）+ indiamart（Infonet Technologies；GST 24AAGFI3821H1ZN；Year of Establishment 1995；Partnership Firm；11 To 25 People；5 - 10 Crore）+ starpoe.com/about-us（IEC AAGFI3821H；Banker ICICI）+ tradeindia（Manager Mr. Dharmesh Patel）+ amazon.in（Manufacturer Infonet Technologies；switch@netstar.in；+91 9687688966）；2026-10-28",
+   "url": "https://www.netstar.in/home/",
+   "number": "GSTIN 24AAGFI3821H1ZN / IEC AAGFI3821H",
+   "status": "Active",
+   "incorporated": "1995",
+   "company_type": "Partnership Firm",
+   "sic": [
+    "ISP / WISP PoE 设备 自有品牌（艾哈迈达巴德）"
+   ],
+   "address": "Shop 19, Limbani Complex, Ambli Bopal Road, Ambli Gam, Ahmedabad 380058",
+   "accounts": "₹5–10 Cr（自报）",
+   "accounts_due": "—",
+   "size_band": "小型（11–25 人）",
+   "officers": [
+    "Dharmesh Patel — Manager（tradeindia）= 候选收件人",
+    "（研究档 KP = switch@netstar.in 职能箱；WA 已加）"
+   ],
+   "psc": "未取（合伙人）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌但主打反向 / 无源 PoE（Saga 无此线）、WA 13 次无回 → 贴标 30% small，一页纸一次（切口：NETSTAR 标标准 802.3af/at PoE STC-028GP / STC-228GP + 室内千兆上行，小 MOQ + 中性包装；反向 PoE / 注入器明说不做；英文）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动"
+   ],
+   "notes": "贴标 30% small；一页纸一次；坐实（GSTIN + IEC + 地址 + 规模）。",
+   "code": "SB-954"
+  },
+  "SB-044": {
+   "batch": 114,
+   "name": "Win-Tech Alliance Ltd（**香港注册贸易商：Room 702B, 7/F, Valley Centre, 80-82 Morrison Hill Road, Wanchai, Hong Kong**；孟买操盘人 Harvinder Luthra +91 98199 91960 WA 已加；luthra@win-alliance.com；域名占位）— 对印度进口商的中国 / 香港元器件与成品供应商（海关记录 17 票：Radix Electrosystems / Greenglobe Fuel Solutions / Pushpam 等；锂电池、LCD、IP68 盒、秤）；**提出 5 / 8 口 2.5G 交换机 CKD 模式（散件进口、印度组装）**；2024 多次「暂时没需求」；HK 公司编号未取",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN / HK · 1 次检索：importgenius（Win-tech Alliance Ltd；Room 702b 7/f Valley Centre 80-82 Marrison Hill Road Wanchai Hong Kong；17 shipments；partners RADIX ELECTROSYSTEMS PVT LTD / GREENGLOBE FUEL SOLUTIONS / PUSHPAM；products Li-SOCl2 battery packs, 5\" TFT LCD, IP68 plastic box, hand weighing scale；2022–2024）；HK CR 编号未见；1 查即停；2026-10-28",
+   "url": "https://www.importgenius.com/india/suppliers/win-tech-alliance-ltd",
+   "number": "未取（HK 公司编号）",
+   "status": "Active（2024-09 仍有出货）",
+   "incorporated": "未取",
+   "company_type": "Limited（香港）",
+   "sic": [
+    "元器件 / 成品 进口代理（香港法人，孟买操盘）"
+   ],
+   "address": "Room 702B, 7/F, Valley Centre, 80-82 Morrison Hill Road, Wanchai, Hong Kong（操盘 Mumbai）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（贸易）",
+   "officers": [
+    "Harvinder Luthra — 负责人（研究档 KP；WA 已加）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**香港贸易商替印度组装厂找 2.5G CKD → 分销 20% small，一页纸一次（切口：2.5G 整机 / SKD 方案 + MOQ + 单价区间；**待 Simon 定 SmartByte 2.5G 型号口径（与 SB-263 同一待办）后再发**；英文，Harvinder 直呼；WA 同步）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；无 2.5G 口径或再无回声 → 不动",
+    "iso 保留 IN（操盘地）；法人为 HK → 部分坐实；报价 FOB 深圳 / 香港皆可"
+   ],
+   "notes": "分销 20% small；一页纸一次（待 2.5G 口径）；部分坐实（HK 地址 + 海关记录；编号未取）。",
+   "code": "SB-044"
+  },
+  "SB-064": {
+   "batch": 114,
+   "name": "Amity Technologies（amitytechnologies.co.in；**合伙企业，2009-05-04 成立（Udyam：Small 2022-23）**；Plot 279, 2nd Floor, Vivekananda Nagar, Kukatpally, Hyderabad 500072 + Plot 38, Meridian Enclave, Nizampet Road 500085；班加罗尔分部）— 加固 / 军规 COTS 计算机、显示器、服务器、**加固以太网交换机（AT16RES / AT3U24RES，-40~+85 °C，航空铝机箱，军用与工业关键任务）**；ISO 9001:2015；16–25 人；年销 $1–2.5M；无 KP（info@）；表内「工业 FS」0 跟进",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：amitytechnologies.co.in（Plot No. 279 2nd Floor Vivekananda Nagar Kukatpally Hyderabad 500072；+91 9866938833；Rugged Ethernet Switches -40°C to +85°C）+ about-us（Established in 2009；ISO 9001:2015；military & Industrial mission critical applications）+ thecompanycheck（Partnership Firm incorporated 04-May-2009；Udyam Small 2022-23）+ tradekey（16-25 employees；sales $1-2.5M）+ indiamart（AT3U24RES；AT16RES3U）；2026-10-28",
+   "url": "https://amitytechnologies.co.in/about-us/",
+   "number": "未取（合伙企业；Udyam 登记）",
+   "status": "Active",
+   "incorporated": "2009-05-04",
+   "company_type": "Partnership Firm",
+   "sic": [
+    "加固 / 军规 计算与网络设备 制造（海得拉巴）"
+   ],
+   "address": "Plot 279, 2nd Floor, Vivekananda Nagar, Kukatpally, Hyderabad 500072",
+   "accounts": "$1–2.5M（自报）",
+   "accounts_due": "—",
+   "size_band": "小型（16–25 人）",
+   "officers": [
+    "（无 KP；info@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主业军规加固设备（military mission-critical）+ 同行自制加固交换机 → 不动（守界：军用不碰；B 保留）**"
+   ],
+   "notes": "不动（守界 军用 + 同行）；坐实（合伙企业登记 + 地址 + 规模）。",
+   "code": "SB-064"
+  },
+  "SB-072": {
+   "batch": 114,
+   "name": "TECHNOSYS（technosys.co.in / technosysglobal.com；**个体经营 Randhir Kumar Singh；GSTIN 27AWZPS2792Q2ZY（2018-10-26）；2010-06-05 成立**；#104, Raven Home, Plot 36, Sector 21, Kamothe, Khandeshwar, Navi Mumbai 410209；门店 Shop 21, Haware Green Park, Sector 22）— 新孟买小型 IT 服务 / 网店（网站、云、照相馆、房产等杂项）；营业额 ₹0–40 lakh；经理 Ramarao Moorthy；表内「买过台湾 KONTEN 工业 FS；在用 EtherWAN 工业 FS / MC」；0 跟进",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：knowyourgst（TECHNOSYS GSTIN 27AWZPS2792Q2ZY；Proprietorship；RAVEN HOME 104 PLOT-36 SECTOR-21 KAMOTHE；Registration 26/10/2018）+ thecompanycheck（Proprietorship Firm incorporated 05-Jun-2010；repair and maintenance of computer）+ indiamart（GST Partner Name Randhir Kumar Singh；Annual Turnover 0 - 40 L；Ramarao Moorthy Manager）+ driveat（Mr Randhir Singh Proprietor；+91-9320207744）；2026-10-28",
+   "url": "https://www.knowyourgst.com/gst-number-search/technosys-27AWZPS2792Q2ZY/",
+   "number": "GSTIN 27AWZPS2792Q2ZY",
+   "status": "Active",
+   "incorporated": "2010-06-05",
+   "company_type": "Proprietorship（个体）",
+   "sic": [
+    "IT 服务 / 小网店（新孟买）"
+   ],
+   "address": "#104, Raven Home, Plot 36, Sector 21, Kamothe, Khandeshwar, Navi Mumbai 410209",
+   "accounts": "₹0–40 lakh（自报）",
+   "accounts_due": "—",
+   "size_band": "个体 / 微型",
+   "officers": [
+    "Randhir Kumar Singh — Proprietor",
+    "Ramarao Moorthy — Manager"
+   ],
+   "psc": "Singh",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体微型（营业额 <₹40 lakh）→ 不动（个体规则；B 保留；若其主动询工业 FS 再按 STI-288DGGPM 对位报价）**"
+   ],
+   "notes": "不动（个体 / 微型）；坐实（GSTIN + 业主 + 地址）。",
+   "code": "SB-072"
+  },
+  "SB-1104": {
+   "batch": 114,
+   "name": "Agility Elektrotekniks Private Limited（agility.net.in；CIN U31908UP2014PTC066111（2014-09-16；RoC Kanpur）；总部 A-10/64, Meerut Road Industrial Area, Site-III, Ghaziabad 201003（UP））— 继电器接口模块 / 线缆组件制造 + 工业自动化元件特许分销（库存 10 万 SKU）；12 人；实缴 ₹1.24 Cr；营收 ₹139 Cr（tracxn FY2025 口径，待核，疑为 ₹13.9 Cr）；**研究档 KP Atul Tiwari（Vadodara 区域销售代表 2021-04 → 2023/24）已离职，现任 Essen Deinki 区域销售经理 → 原联系线（agilitybaroda@gmail.com）失效**；2023 年曾要目录、对 bypass 宣传册回「有用」",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：tracxn（AGILITY ELEKTROTEKNIKS PRIVATE LIMITED CIN U31908UP2014PTC066111；12 employees Oct 2024；revenue Rs. 139Cr FY2025）+ zaubacorp（incorporated 16 Dec 2014；ROC Kanpur；paid up Rs. 12,436,660）+ falconebiz（Incorporated 16 September 2014；Ghaziabad）+ agility.net.in（Head Office A-10/64 Meerut Road Industrial Area Site-III Ghaziabad 201003）+ industrialautomationindia（relay interface modules, cable assemblies, franchised distributor）+ LinkedIn Atul Tiwari（Agility Elektrotekniks Regional Sales Representative Apr 2021–Apr 2024 Vadodara → Werner Electric → Essen Deinki Regional Sales Manager Sep 2024–）；2026-10-28",
+   "url": "https://www.zaubacorp.com/company/AGILITY-ELEKTROTEKNIKS-PRIVATE-LIMITED/U31908UP2014PTC066111",
+   "number": "CIN U31908UP2014PTC066111",
+   "status": "Active",
+   "incorporated": "2014-09-16",
+   "company_type": "Private Limited",
+   "sic": [
+    "工业自动化 元件 制造 + 分销（加济阿巴德；瓦多达拉分部）"
+   ],
+   "address": "A-10/64, Meerut Road Industrial Area, Site-III, Ghaziabad 201003, Uttar Pradesh",
+   "accounts": "₹139 Cr（tracxn；待核）",
+   "accounts_due": "—",
+   "size_band": "小型（12 人）",
+   "officers": [
+    "Atul Tiwari — 前 Regional Sales Representative（Vadodara；2021-04 → 2024-04；**已离职 → Essen Deinki**）",
+    "（总部拍板人未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**KP 已离职 + 仅 gmail 分部地址 → 地址失效；不动（B 保留；总部公开邮箱待补后可一页纸：bypass 系列 + STI-144GP / STI-288DGGPM 作其自动化元件配套）**"
+   ],
+   "notes": "不动（KP 离职 / 地址失效）；坐实（CIN + 总部地址 + 规模）。",
+   "code": "SB-1104"
   }
  }
 }
