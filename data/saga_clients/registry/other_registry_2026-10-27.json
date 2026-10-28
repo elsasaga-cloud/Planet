@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 201
+  "count": 214
  },
  "rows": {
   "SA-061": {
@@ -6374,6 +6374,426 @@
    ],
    "notes": "贴标 OEM 30% small；一页纸一次；坐实（页脚 統編 + 公司中文名 + 电话；地址未取）。",
    "code": "SB-952"
+  },
+  "SB-083": {
+   "batch": 116,
+   "name": "利凌企業股份有限公司 MERIT LILIN ENT. CO., LTD.（meritlilin.com；**統一編號 36165005；設立 1983-09-01（國貿局 1984-04-19）；代表人 許正忠**；新北市五股區五工六路20號；電話 02-2298-8988；資本總額 NT$120,000,000；**自有登記工廠（99618299，同址）**；董監 許正忠 / 許家雄 / 許家銘 / 許瑞文 = 家族企業）— **台灣 IP 攝影機 / NVR / 邊緣 AI 品牌（智慧交通 / 零售 / 工業）；PoE 為配套**；KP Gina Hsu（採購 / 產品）：**要 MC / PoE / 工業 FS 等周邊貼自己 logo**，2025-02 對 24 光 combo 回 INFO",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：twincn（利凌企業股份有限公司 MERIT LILIN ENT. CO., LTD.；統編 36165005；電話 02-2298-8988；新北市五股區五工六路20號；代表人 許正忠；董監事 許正忠, 許家雄, 許家銘, 許瑞文；設立日期 072年09月01日；國貿局 原始登記 19840419 / 核發 20221008；核准設立 / 營業中）+ opengovtw（資本總額 120,000,000；工廠登記 利凌企業股份有限公司 五工六路二０號 負責人 許正忠；最後核准變更 2016-12-28）+ aibee（工廠登記編號 99618299；官方網站 www.meritlilin.com）；2026-10-28",
+   "url": "https://twincn.com/item.aspx?no=36165005",
+   "number": "統一編號 36165005",
+   "status": "核准設立 / 營業中",
+   "incorporated": "1983-09-01",
+   "company_type": "股份有限公司（家族）",
+   "sic": [
+    "IP 攝影機 / NVR 品牌（自有工廠，新北五股）；PoE 配套 外購"
+   ],
+   "address": "新北市五股區五工六路20號 / No. 20, Wugong 6th Rd., Wugu Dist., New Taipei City 248021",
+   "accounts": "資本總額 NT$120M",
+   "accounts_due": "—",
+   "size_band": "中小",
+   "officers": [
+    "許正忠 — 代表人 / 董事長（拍板人）",
+    "Gina Hsu — 採購 / 產品（研究档 KP；ginahsu@meritlilin.com.tw）= 收件人",
+    "許家雄 / 許家銘 / 許瑞文 — 董監"
+   ],
+   "psc": "許氏家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**攝影機品牌、KP 明說周邊要貼 LILIN logo → 貼標 OEM 30% B，一頁紙一次（切口：攝影機配套 PoE 階梯 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + 工業 STI-154GP（LILIN 標 / 自編貨號 / 中性包裝 / MOQ 1 / 付費樣機）；MC 只有 STC-110XGE、SFP 不做 明說；英文，Gina 直呼）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；回信 → 加厚",
+    "守界：不提其攝影機業務之外的方案；BSMI 不聲稱"
+   ],
+   "notes": "贴标 OEM 30%；一页纸一次（回声再加厚）；坐实（統編 + 代表人 + 設立日 + 地址 + 資本額 + 工廠登記）。",
+   "code": "SB-083"
+  },
+  "SB-084": {
+   "batch": 116,
+   "name": "艾德科技有限公司 AD-NET TECHNOLOGY CO., LTD.（ad-net.com.tw；**統一編號 27843840；設立 2005-07-14；代表人 羅惠玲**；苗栗縣苗栗市福星里國華路210號；電話 037-269585；商標「AD-NET 及圖」01258240（2007-04-16 註冊，專用至 2027-04-15））— **光纖傳輸 / 工業通信品牌（MC、E1 / SDH / PDH、GEPON、視頻光端機、工業 PoE / 工業交換機、串口、光模組）；表內「自己的品牌，應該是從深圳拿的產品」**；有限公司（小型）；KP Robin：2025-09 對 2 光 16 管理回「M12 Switch??」（M12 Saga 無）",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：twincn（艾德科技有限公司 AD-NET TECHNOLOGY CO., LTD.；統編 27843840；電話 037-269585；傳真 037-265932；苗栗縣苗栗市福星里國華路210號 No. 210, Guohua Rd., Fuxing Vil., Miaoli City 36044；代表人 羅惠玲；董監事 羅惠玲；設立日期 094年07月14日；商標 AD-NET 及圖 註冊編號 01258240 申請案號 095034611 註冊日期 2007-4-16 專用期限 2027-4-15；核准設立 / 營業中）；2026-10-28",
+   "url": "https://www.twincn.com/item.aspx?no=27843840",
+   "number": "統一編號 27843840",
+   "status": "核准設立 / 營業中",
+   "incorporated": "2005-07-14",
+   "company_type": "有限公司",
+   "sic": [
+    "光纖傳輸 / 工業通信 品牌（外購貼牌，苗栗）"
+   ],
+   "address": "苗栗縣苗栗市福星里國華路210號 / No. 210, Guohua Rd., Fuxing Vil., Miaoli City 36044",
+   "accounts": "未取（有限公司）",
+   "accounts_due": "—",
+   "size_band": "小型（獨資董事）",
+   "officers": [
+    "羅惠玲 — 代表人 / 唯一董事（拍板人）",
+    "Robin — 研究档 KP（robin@ad-net.com.tw）= 收件人"
+   ],
+   "psc": "羅惠玲",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有商標、深圳拿貨的小型品牌商 → 貼標 OEM 30% B small，一頁紙一次（切口：非 M12 的工業線 STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE（RJ45 / SFP）+ 商用 PoE STC-228GP / STC-2224GP + AD-NET 標 / 自編貨號 / 中性包裝 / 付費樣機；M12 / E1 / GEPON / 光模組 明說不做；英文，Robin 直呼）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動",
+    "守界：有限公司小型 → 只做預付；BSMI 不聲稱"
+   ],
+   "notes": "贴标 OEM 30% small；一页纸一次；坐实（統編 + 代表人 + 設立日 + 地址 + 商標）。",
+   "code": "SB-084"
+  },
+  "SB-086": {
+   "batch": 116,
+   "name": "台林電通股份有限公司 Tailyn Technologies, Inc.（tailyn.com.tw；**上櫃 TPEx 5353；統一編號 12278439；設立 1980-04-10；董事長 / 總經理 陳俊廷**；桃園市蘆竹區內厝里榮安路10號；電話 03-322-2201；資本總額 NT$1,250,000,000 / 實收 750,000,000；**自有登記工廠（同址）**；發言人 陳建村 資深副總）— **專注工業應用產品研發與製造：工業 / 商用寬溫乙太網路交換器、工業 / 商用無線、工業電腦、電動車電子、半導體設備；含設計 / 製造 / 代工（ODM）**；KP Gary Chen / Jill / Dylin：興趣工業 FS，2025-07 對 Alarm 回 INFO",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：twincn（台林電通股份有限公司 Tailyn Technologies, Inc.；統編 12278439；上櫃 5353 台林 (Tailyn)；代表人 陳俊廷；電話 03-3222201；桃園市蘆竹區內厝里榮安路10號；設立日期 069年04月10日；董事長 陳俊廷 總經理 陳俊廷 發言人 陳建村 資深副總經理；核准設立 / 營業中）+ opengovtw（資本總額 1,250,000,000；實收 750,000,000；工廠登記 同址；舊名供應商 台林通信股份有限公司）+ ifa.ai（專注於與工業應用相關產品研發與製造…(1) 工業用及商業用寬溫等乙太網路交換器 (2) 工業級及商業級無線區域網路設備 (3) 工業用電腦；設計、製造、代工、銷售；invest@tailyn.com.tw）；2026-10-28",
+   "url": "https://twincn.com/item.aspx?no=12278439",
+   "number": "統一編號 12278439 / TPEx 5353",
+   "status": "上櫃 / 核准設立 / 營業中",
+   "incorporated": "1980-04-10",
+   "company_type": "股份有限公司（上櫃）",
+   "sic": [
+    "工業 / 商用乙太網路交換器 自研自產 + ODM（桃園蘆竹）— 同行"
+   ],
+   "address": "桃園市蘆竹區內厝里榮安路10號 / No. 10, Rungan Rd., Luzhu Dist., Taoyuan City",
+   "accounts": "資本總額 NT$1.25B / 實收 NT$750M（上櫃，公開資訊觀測站可查）",
+   "accounts_due": "—",
+   "size_band": "中型（上櫃）",
+   "officers": [
+    "陳俊廷 — 董事長 / 總經理",
+    "Gary Chen — 研究档 KP（garychen@tailyn.com.tw；+886 3 322 2201）",
+    "Jill / Dylin — 研究档联系人"
+   ],
+   "psc": "上櫃分散（陳氏家族董事多席）",
+   "charges": "",
+   "prev_names": [
+    "台林通信股份有限公司（政府採購舊名）"
+   ],
+   "lines": [
+    "**上櫃、自研自產工業交換器並承接 ODM = 同行；其對 Alarm 功能的 INFO 回覆屬技術探詢 → 不動群發（B 保留；若其主動詢 OEM 再按 30% 檔單議）**",
+    "守界：不向同行報 SmartByte 成本結構、不提供應商"
+   ],
+   "notes": "不动（同行 上櫃）；坐实（統編 + 上櫃代號 + 代表人 + 設立日 + 地址 + 資本額 + 工廠）。",
+   "code": "SB-086"
+  },
+  "SB-087": {
+   "batch": 116,
+   "name": "阿斯門亞洲有限公司 ASSMANN ELECTRONIC ASIA CO. LTD.（assmann.com.tw / assmann-asia.com；**統一編號 53733622；設立 2012-01-31；代表人 Matthias Christian LISTL（董事另 漆曉燕）**；臺北市內湖區新湖一路77號7樓；電話 02-2793-4088；資本額 NT$5,000,000；**德國 ASSMANN Electronic GmbH（Lüdenscheid；DIGITUS 品牌）亞洲子公司 / 採購辦，另設 寧波 / 東莞 / 香港 辦公室**）— **DIGITUS 網路 / 線材 / 機櫃 / PoE 交換機 全線亞洲貼牌採購**；KP Kent Wang（PM）：展會接觸 串口 / HDMI-to-RJ45，興趣 MC / HDMI / SFP / PoE / 串口，2025-12 對 Alarm 回「I/O modules」（Saga 無）",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：twincn（阿斯門亞洲有限公司 ASSMANN ELECTRONIC ASIA CO. LTD.；統編 53733622；電話 02-27934088；臺北市內湖區新湖一路77號7樓；代表人 Matthias Christian LISTL；董監事 Matthias Christian LISTL, 漆曉燕；設立日期 101年01月31日；2012-01 初設 負責人 STEPHAN ASSMANN 董事長 (ASSMANN BETEILIGUNGSVERWALTUNGS GMBH) 資本額 5,000,000；國貿局 20120201 / 20230505；核准設立 / 營業中）+ assmann.com/en/contact/subsidiaries（Taiwan 7F, No. 77 Xinhu 1st Road；Ningbo / Dongguan / Hong Kong offices；contact@assmann-asia.com）；2026-10-28",
+   "url": "https://twincn.com/item.aspx?no=53733622",
+   "number": "統一編號 53733622",
+   "status": "核准設立 / 營業中",
+   "incorporated": "2012-01-31",
+   "company_type": "有限公司（德商子公司）",
+   "sic": [
+    "德國 DIGITUS 品牌 亞洲採購 / 品管辦公室（台北內湖 + 寧波 / 東莞 / 香港）"
+   ],
+   "address": "臺北市內湖區新湖一路77號7樓 / 7F, No. 77, Xinhu 1st Rd., Neihu Dist., Taipei City 114757",
+   "accounts": "資本額 NT$5M（集團子公司）",
+   "accounts_due": "—",
+   "size_band": "小型（採購辦）",
+   "officers": [
+    "Matthias Christian LISTL — 代表人 / 董事",
+    "漆曉燕 — 董事",
+    "Kent Wang — PM（研究档 KP；kent.wang@assmann.com.tw）= 收件人"
+   ],
+   "psc": "ASSMANN Beteiligungsverwaltungs GmbH（德國）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**德國 DIGITUS 的亞洲貼牌採購辦（歐洲主戰場的源頭採購）→ 貼標 OEM 30% B（升 A 候選）；一頁紙一次（切口：DIGITUS 現有 PoE 交換機線的對位 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM（Marvell 管理機）+ 10G STC-110XGE 一口價 + DIGITUS 標 / 自編貨號 / 彩盒 / CE / RoHS / REACH 文件；串口 / HDMI / I/O 模組 明說不做；英文，Kent 直呼）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；回信 → 加厚 + 升 A",
+    "守界：UKCA 只對 GB 銷售提；不點名 DIGITUS 現供應商；BSMI 不聲稱"
+   ],
+   "notes": "贴标 OEM 30%（升 A 候选）；一页纸一次（回声再加厚）；坐实（統編 + 代表人 + 設立日 + 地址 + 資本額 + 母公司）。",
+   "code": "SB-087"
+  },
+  "SB-088": {
+   "batch": 116,
+   "name": "訊舟科技股份有限公司 EDIMAX TECHNOLOGY CO., LTD.（edimax.com；**上市 TWSE 3047；統一編號 22164580；設立 1986-06-28；代表人 任冠生（2026-03 變更為 潘良榮）**；臺北市內湖區新湖一路278號（舊址 新北五股 五權三路3號）；電話 02-7739-6888；資本總額 NT$3,000,000,000 / 實收 2,246,491,080）— **網路品牌（消費 / SMB / 工業網路、Wi-Fi、PoE、IP Cam；ODM 分部 = Acelink Technology（SB-800，同址同集團））**；KP Jesse Chen（採購 / PM）/ Bruce Yang：興趣工業 FS / SFP / 周邊，2025-07 對 16 電回 INFO",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：twfile（訊舟科技股份有限公司 EDIMAX TECHNOLOGY CO., LTD.；統編 22164580；上市 3047；電話 (02)7739-6888；臺北市內湖區新湖一路278號；代表人 任冠生；2026年3月 負責人 任冠生 變更為 潘良榮；實收資本額 2,246,491,080；舊址 新北市五股區五權三路3號）+ technews（核准設立日期 1986-06-28；資本總額 3,000,000,000；董事長 任冠生；董事 李翰紳 / 潘良榮 / 丁健興 / 侯景德；獨董 駱金生 / 林宇亮 / 曾建超）；2026-10-28",
+   "url": "https://www.twfile.com/item.aspx?no=22164580&sn=2461840",
+   "number": "統一編號 22164580 / TWSE 3047",
+   "status": "上市 / 核准設立",
+   "incorporated": "1986-06-28",
+   "company_type": "股份有限公司（上市）",
+   "sic": [
+    "網路品牌（Wi-Fi / 交換機 / IP Cam）+ ODM（台北內湖）— 工業交換機線 外購"
+   ],
+   "address": "臺北市內湖區新湖一路278號 / No. 278, Xinhu 1st Rd., Neihu Dist., Taipei City",
+   "accounts": "資本總額 NT$3B / 實收 NT$2.25B（上市，公開資訊觀測站可查）",
+   "accounts_due": "—",
+   "size_band": "大型（上市）",
+   "officers": [
+    "任冠生 — 董事長（2026-03 起代表人 潘良榮）",
+    "Jesse Chen — 採購 / PM（研究档 KP；jessechen@edimax.com.tw）= 收件人",
+    "Bruce Yang — 研究档联系人（bruceyang@edimax.com.tw）= 抄送"
+   ],
+   "psc": "上市分散（家華投資 法人董事）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上市網路品牌（同行）但工業 / PoE 線外購、採購 PM 對 16 口機回 INFO → 以採購方計：貼標 OEM 30% B，一頁紙一次（切口：只給工業線 STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE + 16 口 PoE STC-2216GP 一口價 + EDIMAX 標 / 自編貨號 / 付費樣機；SFP / 無線 明說不做；英文，Jesse 直呼、抄 Bruce）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動（同行）",
+    "守界：不向同行報 SmartByte 成本結構、不提供應商；與 Acelink（SB-800）同集團 → 一線"
+   ],
+   "notes": "贴标 OEM 30%（同行例外：採購 PM 已回 INFO）；一页纸一次；坐实（統編 + 上市代號 + 代表人 + 設立日 + 地址 + 資本額）。",
+   "code": "SB-088"
+  },
+  "SB-089": {
+   "batch": 116,
+   "name": "Winsonic Electronics Co., Ltd.（ewinsonic.com；台灣工業面板 PC / 無風扇工控機 / 工業顯示器製造商；**統編 / 登記主體 1 查未得 → 未坐實**（檢索命中 伍仕電子 27966146 / 文聲電子 04348572 均無法對上 Winsonic 英文名））— 站內「Industrial Switch」網路 / 邊緣連接品類為配套；**表內 Rex 在用 UniPoE（優力普）工業 FS**，2025-11 對升壓 PoE 回 INFO（升壓 Saga 無）",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：「\"Winsonic Electronics\" 統一編號 … ewinsonic.com」→ 命中 伍仕電子股份有限公司 27966146（台北內湖；湯偉成）/ 文聲電子工業 04348572（三重）/ 威強電（維基）均無 Winsonic 英文名對應 → 未坐實（按 1 查紀律停）；2026-10-28",
+   "url": "https://www.ewinsonic.com/",
+   "number": "未取（統一編號 1 查未得）",
+   "status": "营业中（官网在线）",
+   "incorporated": "未取",
+   "company_type": "Co., Ltd.（推定 股份有限公司）",
+   "sic": [
+    "工業面板 PC / 工控機 製造；工業交換機 配套 外購（UniPoE）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Rex Lin — 採購 / 產品（研究档 KP；rex.lin@ewinsonic.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工控機廠、工業交換機外購（現供 UniPoE 深圳）→ 貼標 OEM 30% B small，一頁紙一次（切口：對位 UniPoE 工業 FS 的 STI-154GP / STI-288DGGPM / STI-0240GE（寬溫、PoE+）+ Winsonic 標 / 自編貨號 / 付費樣機；升壓 PoE 明說不做；英文，Rex 直呼）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動",
+    "守界：主體未坐實 → 只做預付；不點名 UniPoE；BSMI 不聲稱"
+   ],
+   "notes": "贴标 OEM 30% small；一页纸一次；未坐实（1 查未得；官网 + 表内）。",
+   "code": "SB-089"
+  },
+  "SB-438": {
+   "batch": 116,
+   "name": "主向位科技股份有限公司 CTC UNION TECHNOLOGIES CO., LTD.（ctcu.com.tw；**統一編號 84297462；設立 1993-07-19；代表人 張靖駭**；臺北市內湖區洲子街60、62號8、9樓；電話 02-2659-1021；資本總額 NT$600,000,000 / 實收 322,139,660；曾興櫃（1926，2012-07 暫停發行）；董監 張靖駭 / 楊淑霞 / 黃俊銘 / 謝建德 / 張心齡 / 郭佳惠）— **網路通訊 / 電信產品自研自產（L2 / L3 管理交換機、TDM、MC、工業交換機、PoE 供電器；EN 50155 / IEC 61850-3 型；IGR-A804SM、QSW-4624CM 2.5G）**；表內「和公司產品線接近，可再調查」，已有回覆；KP Gary（micro-chang@）+ 總經理室 / 產品企劃處 群組信箱",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：twincn（主向位科技股份有限公司 CTC UNION TECHNOLOGIES CO., LTD.；統編 84297462；電話 02-2659-1021；臺北市內湖區洲子街60、62號8、9樓；代表人 張靖駭；董監事 張靖駭, 楊淑霞, 黃俊銘, 謝建德, 張心齡, 郭佳惠；設立日期 082年07月19日；登記資本額 600,000,000 實收 322,139,660；核准設立 / 營業中）+ web66（創立於民國82年7月；內湖科學園區；研發和製造網路通訊電信產品；全球經銷商通路）+ unlisted.com.tw（興櫃 1926 暫停發行 101.07.10；資本額 2.468 億；董事長 張靖駭）；2026-10-28",
+   "url": "https://twincn.com/item.aspx?no=84297462",
+   "number": "統一編號 84297462",
+   "status": "核准設立 / 營業中（曾興櫃 1926）",
+   "incorporated": "1993-07-19",
+   "company_type": "股份有限公司",
+   "sic": [
+    "網路通訊設備 自研自產（L2/L3 / 工業交換機 / MC / TDM）（台北內湖）— 同行"
+   ],
+   "address": "臺北市內湖區洲子街60、62號8、9樓 / 9F, No. 62, Zhouzi St., Neihu Dist., Taipei City 11493",
+   "accounts": "資本總額 NT$600M / 實收 NT$322M",
+   "accounts_due": "—",
+   "size_band": "中型",
+   "officers": [
+    "張靖駭 — 代表人 / 董事長",
+    "Gary — 研究档 KP（micro-chang@ctcu.com.tw）"
+   ],
+   "psc": "張靖駭（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**1993 年起自研自產 L2/L3 / 工業交換機、全球經銷網 = 同行；其回覆屬同業探詢 → 不動群發（B 保留；表內「可再調查」= 若其詢 ODM 補位，按 30% 檔由 Simon 單議）**",
+    "守界：不向同行報 SmartByte 成本結構、不提供應商、不談 2.5G 口徑"
+   ],
+   "notes": "不动（同行）；坐实（統編 + 代表人 + 設立日 + 地址 + 資本額 + 董監）。",
+   "code": "SB-438"
+  },
+  "SB-839": {
+   "batch": 116,
+   "name": "譯麓有限公司 iLu CO., LTD.（ilucoltd.com；No. 105, Lujiang St., Luzhou Dist., New Taipei City 24748；電話 +886-2-8286-3598 ext 101；**President Angus Tseng（= KP）**；德國 Teltow 聯絡點 + 澳洲 Hungsway（Hung Cheng, Lane Cove NSW）；統編 未取 → 部分坐實）— **貿易公司（SFP+ DAC、乙太網測試治具 Loopback、網路變壓器 / FPCB、LevelOne、塑膠 / IT 廢料 等雜項）；表內「PoE / SFP / bypass 模組 / 大口 FS，基本都是海思的」**；**Styven Tseng 2024-10-25 來信「flat Gigabit 8-p PoE web smart or L2?」（SB-1112 占位行 = 同一來信 → 併線至此）**",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：ilucoltd.com/sitemap（iLu CO., LTD. 譯麓有限公司；No.105, Lujiang St., Luzhou Dist., New Taipei City 24748；TEL +886282863598 ext 101；FAX +886228483036；admin@ilucoltd.com；President Angus Tseng angus@ilucoltd.com；Striewitzweg 6E, 14514 Teltow, Brandenburg；Australia: Hungsway Hung Cheng F109, 27 Mars Road, Lane Cove NSW 2066）+ ilucoltd.com/equipment（Ethernet Tester Loopback 產線治具）+ zoominfo（Angus Tseng President at iLu）；統編 未得；2026-10-28",
+   "url": "https://www.ilucoltd.com/sitemap/",
+   "number": "未取（統一編號 未得；中文名 譯麓有限公司 已得）",
+   "status": "营业中（官网在线）",
+   "incorporated": "未取",
+   "company_type": "有限公司",
+   "sic": [
+    "網通零組件 / 測試治具 / 雜項 貿易（新北蘆洲）"
+   ],
+   "address": "新北市蘆洲區鹿江街105號 / No. 105, Lujiang St., Luzhou Dist., New Taipei City 24748",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（總裁親答）",
+   "officers": [
+    "Angus Tseng — President（研究档 KP；angus@ilucoltd.com）= 收件人",
+    "Styven Tseng — 2024-10-25 來信人（styvent@gmail.com；SB-1112 併線）= 抄送",
+    "Hung Cheng — 澳洲 Hungsway 聯絡人"
+   ],
+   "psc": "Angus Tseng（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**小型貿易商、總裁與家人親自問 8 口扁平 PoE web smart / L2 → 分銷 20% B small，一頁紙一次（切口：直接答 2024-10 之問：8 口 PoE 非管理 STC-028GP / STC-228GP 一口價，8 口管理型按主表現有型號報（無則明說）；SFP / bypass 模組 不做；付費樣機、MOQ 1；英文，Angus 直呼、抄 Styven）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；再無回聲 → 不動",
+    "守界：統編 未取 → 只做預付；海思機型不比較"
+   ],
+   "notes": "分销 20% small；一页纸一次；部分坐实（官网：中文名 + 地址 + 總裁；統編未取）；SB-1112 併線至此。",
+   "code": "SB-839"
+  },
+  "SB-933": {
+   "batch": 116,
+   "name": "鑫志股份有限公司 AirLive Technology Corporation（airlive.com；**統一編號 53110625；設立 2010-11-22；代表人 蔡伯坤（2020-05-06 起）**；新北市新店區寶橋路235巷120號7樓；電話 02-8912-1060；資本額 NT$27,000,000（實收同）；**2020-09-28 由「鑫立投資股份有限公司」更名**；國貿局 2020-09-30）— **網路品牌 AirLive（Wi-Fi 6 Mesh / 管理交換機 / 5G / XGPON；工業 PoE IGM 系列）；表內「工業 FS / MC / SFP，自己的牌子」**；KP John Lai；19 次跟進無回覆",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：twincn（鑫志股份有限公司 AirLive Technology Corporation；統編 53110625；電話 02-89121060；新北市新店區寶橋路235巷120號7樓；代表人 蔡伯坤；董監事 蔡伯坤, 張瑞敏；設立日期 099年11月22日；國貿局 20200930 / 20241112；核准設立 / 營業中）+ alphaloan（成立 2010/11/22；資本額 27,000,000；2020/05/06 負責人變更為 蔡伯坤；2020/09/28 公司名稱變更為 鑫志股份有限公司）+ technews（董事長 蔡伯坤 1,550,000 股；監察人 張瑞敏；2016-11-21 舊名 鑫立投資股份有限公司 臺北市北投區大同街230號2樓 許雅純）；2026-10-28",
+   "url": "https://www.twincn.com/item.aspx?no=53110625",
+   "number": "統一編號 53110625",
+   "status": "核准設立 / 營業中",
+   "incorporated": "2010-11-22（AirLive 品牌承接 2020）",
+   "company_type": "股份有限公司",
+   "sic": [
+    "網路品牌 AirLive（Wi-Fi / 交換機 / PoE）（新北新店）— 外購貼牌 推定"
+   ],
+   "address": "新北市新店區寶橋路235巷120號7樓 / 7F, No. 120, Ln. 235, Baoqiao Rd., Xindian Dist., New Taipei City 231028",
+   "accounts": "資本額 NT$27M",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "蔡伯坤 — 代表人 / 董事長（1,550,000 股）",
+    "張瑞敏 — 監察人",
+    "John Lai — 研究档 KP（john.lai@airlive.com）"
+   ],
+   "psc": "蔡伯坤",
+   "charges": "",
+   "prev_names": [
+    "鑫立投資股份有限公司（2016–2020）"
+   ],
+   "lines": [
+    "**2020 年由投資公司殼承接的 AirLive 品牌（資本 NT$27M，外購貼牌推定），但 19 次 0 回覆 → 不動（B 保留；若其來詢 OEM 按 30% 檔）**",
+    "守界：BSMI 不聲稱；不點名其現供應商"
+   ],
+   "notes": "不动（19×0；品牌殼）；坐实（統編 + 代表人 + 設立日 + 地址 + 資本額 + 更名史）。",
+   "code": "SB-933"
+  },
+  "SB-1112": {
+   "batch": 116,
+   "name": "（未具名）Taiwan.xlsx 占位行 — 2024-10 對 2.5G 群發反問「flat Gigabit 8-p PoE web smart or L2?」；**與 SB-839 譯麓 iLu 研究档內 Styven Tseng 2024-10-25 來信逐字相同 → 同一來信，併線至 SB-839**；無公司名 / 無郵箱 → 0 查",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "0 查（無可檢索主體）；比對 data/saga_clients/research/SB-839.json kp[1] Styven Tseng 2024-10-25 來信文字 = SB-1112 summary 反問文字；2026-10-28",
+   "url": "",
+   "number": "0 查（占位行）",
+   "status": "併線 → SB-839",
+   "incorporated": "—",
+   "company_type": "—",
+   "sic": [
+    "占位行（併線）"
+   ],
+   "address": "—",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "—",
+   "officers": [
+    "Styven Tseng（styvent@gmail.com）— 見 SB-839"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**占位行 = SB-839 的 Styven Tseng 來信 → 併線 SB-839，本行不動、不單發**"
+   ],
+   "notes": "并线 SB-839；0 查。",
+   "code": "SB-1112"
+  },
+  "SB-804": {
+   "batch": 116,
+   "name": "Bare Metal Switch（bm-switch.com）= **網脈有限公司 Netberg Ltd.（SB-249）旗下網店分部**（about-us：「operated by Bare Metal Switch, a division of Netberg Ltd.」；Principal business address 10F, No. 111-3, Xiyuan Road, Zhongli District, Taoyuan City 320；電話 +886-3-260-9203；電匯戶名 Netberg Ltd. 玉山銀行）— **裸金屬交換機 1G–400G / 網路 OS / 光模組 / 配件 網店（PayPal / 電匯）；表內「高速交換機 Marvell 的」**；無 KP（sales@）；6 次跟進無回覆 → **併線至 SB-249**",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：bm-switch.com/about-us（This website is operated by Bare Metal Switch, a division of Netberg Ltd.；ODM partners；HW-agnostic Linux-based network OS on top of high-quality ODM switch；Principal business address: 10F, No. 111-3, Xiyuan Road, Zhongli District, Taoyuan City, 320；Tel +886-3-2609203；Wire Transfer Account name Netberg Ltd.；E.Sun Commercial Bank）；2026-10-28",
+   "url": "https://bm-switch.com/about-us/",
+   "number": "= 網脈有限公司 統一編號 42648064（見 SB-249）",
+   "status": "營業中（網店在線）",
+   "incorporated": "—（分部）",
+   "company_type": "Netberg Ltd. 分部（非獨立法人）",
+   "sic": [
+    "裸金屬交換機 網店（Netberg 分部，桃園中壢）"
+   ],
+   "address": "桃園市中壢區西園路111之3號10樓（同 SB-249）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "—",
+   "officers": [
+    "（sales@bm-switch.com；拍板人 = SB-249 Alexander Ustyuzhanin）"
+   ],
+   "psc": "Netberg Ltd.",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**同一法人的網店分部 → 併線 SB-249，本行不單發**"
+   ],
+   "notes": "并线 SB-249；坐实（官网自述分部 + 同址 + 同電話 + 電匯戶名）。",
+   "code": "SB-804"
+  },
+  "SB-800": {
+   "batch": 116,
+   "name": "Acelink Technology Co., Ltd.（acelink.com.tw；**HQ No. 278, Xinhu 1st Rd., Neihu Dist., Taipei = 訊舟 EDIMAX（SB-088）登記地址；「Since its establishment in 1986」= 訊舟設立年；型號 EW-78xx = EDIMAX 編碼 → 訊舟集團 ODM 分部 / 關係企業**；ZoomInfo 501–1,000 人（集團口徑）；ODM Sales Division Eunice Lu）— **Wi-Fi 7 / 6 AP、HaLow、工業 4G 閘道、AIoT 智慧城市 ODM；表內「商業 PoE，PoE 配件較多」**；無 KP（contact@）；7 次跟進無回覆；統編 未單獨取 → 部分坐實；**併線至 SB-088**",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：acelink.com.tw（Since its establishment in 1986；EW-7896DBE BE19000 WiFi 7 PoE AP；EW-7822UBE；Copyright Acelink Technology Co., Ltd.）+ zoominfo（Acelink Technology 501-1,000 employees；HQ Neihu Dist. No.278 Xinhu 1st Rd, Taipei；Eunice Lu ODM Sales Division）+ wikidevi（Acelink EW-7822UBE Realtek RTL8912AU）；對照 SB-088 訊舟 登記地址 臺北市內湖區新湖一路278號；統編 未單獨得；2026-10-28",
+   "url": "https://www.acelink.com.tw/",
+   "number": "未取（推定隸屬 訊舟科技 22164580 集團）",
+   "status": "營業中（官網在線）",
+   "incorporated": "1986（集團口徑）",
+   "company_type": "Co., Ltd.（訊舟集團 ODM 分部 推定）",
+   "sic": [
+    "Wi-Fi / AIoT ODM（訊舟集團，台北內湖）"
+   ],
+   "address": "No. 278, Xinhu 1st Rd., Neihu Dist., Taipei City（同 SB-088）",
+   "accounts": "—（集團）",
+   "accounts_due": "—",
+   "size_band": "大型（集團 501–1,000）",
+   "officers": [
+    "Eunice Lu — ODM Sales Division（ZoomInfo）",
+    "（contact@acelink.com.tw）"
+   ],
+   "psc": "訊舟科技（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**訊舟集團 ODM 分部 → 併線 SB-088，一線一稿（由 Jesse Chen 線走），本行不單發**"
+   ],
+   "notes": "并线 SB-088；部分坐实（同址 + 同設立年 + 同型號編碼；統編未單獨取）。",
+   "code": "SB-800"
+  },
+  "SB-249": {
+   "batch": 116,
+   "name": "網脈有限公司 NETBERG LTD.（netbergtw.com / bm-switch.com；**統一編號 42648064；設立 2015-10-02；代表人 / 經理人 約理師（外籍）**；桃園市中壢區西園路111之3號10樓（2022-12 自 臺北市信義區光復南路419號5樓之1 遷入）；電話 03-260-9203；國貿局 2015-10-12）— **資料中心乙太網路交換機 / 全可編程交換機 / 開放 NOS / 客製網路方案（Broadcom BCM56870 / 56771 平台、ODM 夥伴代工）+ 網店 Bare Metal Switch（SB-804 併線）**；表內「BDM 方案；基本都是資料中心交換機；Marvell BDM 晶片都有」，**已回覆 1 次**；KP Alexander Ustyuzhanin（Director）",
+   "iso": "TW",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索：twincn（網脈有限公司 NETBERG LTD.；統編 42648064；電話 03-2609203；桃園市中壢區西園路111之3號10樓 10F, No. 111-3, Xiyuan Rd., Zhongli Dist., Taoyuan City 320017；代表人 約理師；董監事 約理師；經理人 約理師；設立日期 104年10月02日；2022年12月 地址 臺北市信義區光復南路419號5樓之1 → 桃園中壢；國貿局 20151012 / 20230104；核准設立 / 營業中）+ bm-switch.com/about-us（division of Netberg Ltd.；ODM partners；Linux-based NOS）；2026-10-28",
+   "url": "https://twincn.com/item.aspx?no=42648064",
+   "number": "統一編號 42648064",
+   "status": "核准設立 / 營業中",
+   "incorporated": "2015-10-02",
+   "company_type": "有限公司（外籍負責人）",
+   "sic": [
+    "資料中心白牌交換機 / 開放 NOS 方案商（ODM 代工，桃園中壢）"
+   ],
+   "address": "桃園市中壢區西園路111之3號10樓 / 10F, No. 111-3, Xiyuan Rd., Zhongli Dist., Taoyuan City 320017",
+   "accounts": "未取（有限公司）",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "約理師 — 代表人 / 董事 / 經理人",
+    "Alexander Ustyuzhanin — Director（研究档 KP；au@netbergtw.com；已回覆）= 收件人"
+   ],
+   "psc": "約理師（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自己不生產、靠 ODM 夥伴出白牌 DC 交換機的方案商（Broadcom 線）= DC 交換機客戶（Simon 優先類）→ 貼標 OEM 30% B（升 A 候選），一頁紙一次（切口：CENTEC 平台 STH-2C24XF-HSI $1,500 / STH-8C48DX-HSI $4,800 / STH-32C-HSI $6,000 作其 Broadcom 線之外的成本型補位 + Netberg 標 / 自編貨號 + 付費樣機；NOS 相容性只答「可提供軟體清單」不聲稱 SONiC / ONIE；英文，Alexander 直呼，opener 引其上次回覆）— 台湾常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（BSMI 不声称、由买方自办）**；回信 → 加厚 + 升 A",
+    "守界：不談 Broadcom 對標、不報成本結構；有限公司小型 → 只做預付；與 SB-804 一線"
+   ],
+   "notes": "贴标 OEM 30%（升 A 候选；DC 交换机客户）；一页纸一次（回声再加厚）；坐实（統編 + 代表人 + 設立日 + 地址 + 遷址史）。",
+   "code": "SB-249"
   }
  }
 }
