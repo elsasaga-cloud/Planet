@@ -91,6 +91,22 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 103 批（US · 1 次检索：官网首页 / About（「established in 1971 and is part of the Belden group of companies (NYSE:BDC)」；Washington, PA）+ IPMA / Accu-Tech 历史（1971 Claysville PA 创立；1990 成为首家 Cable Design Technologies 公司 West Penn Wire/CDT；2004 CDT 与 Belden 合并后去掉 CDT）+ 官网新闻 2016（增值服务：定制标签、条码、logo、私标、特殊包装、套件）+ 50 周年博客（1971 家族经营起家；NSCA 创始成员）+ LinkedIn（1971；51–200）+ Manta（Washington PA 15301；$50–100M；100–249 人）+ ZoomInfo（$26.2M；Brian Prusinski — Director, Sales）+ ContactOut（决策人 Glenn Crouse、Mark Sams）；PA 实体号未取，2026-10-28 查；https://www.westpennwire.com/about.php）：**
+
+- 法定名 / 登记号：West Penn Wire（westpennwire.com；Washington, Pennsylvania）— 1971 年 Claysville PA 创立的低压线缆制造商（AV / 广播 / 安防 / 网络 / 工业；1990 CDT，**2004 起属 Belden 集团（NYSE: BDC）**）；100–249 人，第三方 $26–100M；提供定制标签 / 私标 / 套件；有源副线（MC / 交换机）；研究档无 KP · PA 实体（Belden Inc. 旗下；实体号未取） · 状态 **Active（Belden 子品牌）** · 成立 1971 · Belden Inc.（NYSE: BDC）集团成员（上市公司子公司）
+- 行业码 / 经营范围：低压线缆制造（AV、广播、安防、网络、工业；UTP / 同轴 / 光纤）+ 配件与信号管理；私标 / 定制套件服务
+- 注册地址：Washington, PA 15301（门牌未取）
+- 规模档：中型（100–249 人）
+- 账目：第三方 $26–100M（仅作区间）；—
+- 高管：Glenn Crouse / Mark Sams — 决策层（ContactOut，职务未核）
+- 高管：Brian Prusinski — Director, Sales
+- 控制人 / 股东：Belden Inc.
+- 曾用名：West Penn Wire/CDT（1990–2004）
+- **这意味着什么：**
+  - **Belden 子公司（集团自有 Hirschmann 工业交换机）→ 有源外采走集团采购，概率低** → **一页纸即止**：STC-228GP / STC-2224GP（AV / 安防线缆配套 PoE，表内「sigmax」在售类）；不加厚；回复即转供应商准入流程
+  - 收件人 sales@ 点名 product management（有源配件线）；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 ET
+- 备注：分销 20% 低概率（Belden 集团）；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,14 +139,17 @@ updated: 2026-10-28
 - **【用户表】无源为主 MC switch**
   > 无源器件为主 MC switch；sigmax的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Brian Prusinski（Director, Sales（ZoomInfo）= 收件人（经 sales@，点名 product management）（第 103 批 官方登记核实 2026-10-28）） 〔https://www.westpennwire.com/about.php〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | West Penn Wire（Belden Inc. 集团成员，NYSE: BDC；PA 实体号未取） |
+| 成立 | 1971（Claysville PA；1990 CDT；2004 Belden）（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 westpennwire.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 westpennwire.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 103 批：Washington PA 线缆制造商 + 私标服务；Belden 集团自有工业交换机品牌 → **分销 20% 低概率；一页纸即止**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤 / 低压线缆制造（美国）
 - **触达通道（公开）**：role: 线缆制造商（美国，MC/交换机为有源副线）；region: 美国；contact: info@westpennwire.com
@@ -187,6 +206,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Brian Prusinski | Director, Sales（ZoomInfo）= 收件人（经 sales@，点名 product management）（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.westpennwire.com/about.php |
 | sigmax | — | info@westpennwire.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

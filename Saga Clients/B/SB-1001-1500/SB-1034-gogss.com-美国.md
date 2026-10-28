@@ -79,6 +79,23 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 103 批（US · 1 次检索：官网 About（「GSS is a wholesaler of leading security technology products … offers generic and OEM labeled products designed specifically for distribution」；分部 GSS CA 15222 Stafford St, City of Industry, CA 91744；GSS NY 59-43 Fresh Meadow Lane, Fresh Meadows, NY 11365；Long Island 789 Old Country Road Unit 1, Westbury, NY 11590）+ Privacy Policy（版权主体 Allspec Security NY, Inc.，同址 Fresh Meadows）+ Crunchbase（Global Security Solution USA Inc.；sales@gogss.com；Stafford TX 为误标）+ LinkedIn（GSS；Wholesale；11–50；New York；2015；「factory direct stocking importer」；员工 Hong (Tina) Chen — Sales Manager GSS New York；Gary Greve — Owner；Roman K. — Head of R&D）+ 官网 Our Brands（BLUE|LINE IP、GREY|LINE 配件、POE SWITCH、电源）+ whois（gogss.com 2009-09-18 创建），2026-10-28 查；https://gogss.com/about-us/）：**
+
+- 法定名 / 登记号：GSS / GOGSS（gogss.com；Fresh Meadows, New York + City of Industry, CA + Westbury NY + Orange NJ）— 2015 年起的「工厂直采备货进口商」型安防批发商（Global Security Solution USA Inc. / 站点法律页写 Allspec Security NY, Inc.；自有 BLUE|LINE / GREY|LINE 品牌 NVR / 摄像机 / PoE 交换机，专为分销做通用与 OEM 贴标品）；11–50 人；Owner Gary Greve；**研究档 KP Tina = Hong (Tina) Chen，Sales Manager GSS New York**；NY DOS 号未取 → 部分坐实 · NY 公司（Global Security Solution USA Inc. / Allspec Security NY, Inc.；DOS 号未取 → 部分坐实） · 状态 **Active（站点 2025 版权）** · 成立 2015（LinkedIn；域名 2009） · Corporation（私有；Owner Gary Greve）
+- 行业码 / 经营范围：安防设备进口批发（工厂直采备货；自有通用 / OEM 贴标品牌 BLUE|LINE / GREY|LINE：NVR、摄像机、PoE 交换机、电源、线缆、支架、工具），多州分部
+- 注册地址：59-43 Fresh Meadow Lane, Fresh Meadows, NY 11365（NY 主）；15222 Stafford St, City of Industry, CA 91744；789 Old Country Road Unit 1, Westbury, NY 11590；50 S Center St Unit 8, Orange, NJ 07050
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Gary Greve — Owner
+- 高管：Hong (Tina) Chen — Sales Manager, GSS New York（IPVM 认证）= **研究档 KP tina@ 本人**
+- 高管：Roman K. — Head of R&D
+- 高管：Kai-Hsi Chao — Senior Software Architect
+- 控制人 / 股东：Gary Greve（推定）
+- **这意味着什么：**
+  - **自有贴标安防线（含 PoE 交换机）+ 工厂直采进口商 + 多州仓 → 贴标 OEM 30% 目标**：GSS 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（对标其在售 GREY|LINE PoE 交换机价）；B BIG，**加厚**；华裔销售经理收件 → 英文为主，可备中文直联（Simon 定）
+  - 表内未跟进 → 首信即贴标一页纸「a managed L2+ PoE line under your BLUE|LINE label — 3-year option, MOQ 1」；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）
+- 备注：贴标 OEM 30% 目标；KP = 销售经理本人；B BIG；加厚；升 A 候选；部分坐实（DOS 号）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +122,18 @@ updated: 2026-10-28
 - **【用户表】销售平台 有国内的外壳**
   > 比较多的外壳 有国内的 switch；销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Tina（）tina@gogss.com 〔用户表〕
+- **KP**：Hong (Tina) Chen（Sales Manager, GSS New York（IPVM 认证）= 收件人本人（第 103 批 官方登记核实 2026-10-28））tina@gogss.com 〔用户表〕
+- **KP**：Gary Greve（Owner = 拍板人（抄送路径经 Tina）（第 103 批 官方登记核实 2026-10-28）） 〔https://gogss.com/about-us/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Global Security Solution USA Inc.（Crunchbase）/ Allspec Security NY, Inc.（站点法律页）— GSS / GOGSS；NY DOS 号未取 → 部分坐实 |
+| 成立 | 2015（域名 2009）（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 gogss.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 gogss.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 103 批：Fresh Meadows NY 工厂直采备货进口商，自有 BLUE\|LINE / GREY\|LINE 贴标安防线（含 PoE 交换机），多州仓 → **贴标 OEM 30% 目标，B BIG，升 A 候选**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品网店 / 销售平台（美国）
 - **触达通道（公开）**：role: 网络产品网店（美国，平台型）；region: 美国；contact: tina@gogss.com
@@ -162,7 +182,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tina | — | tina@gogss.com | 调研核实（公开页） | 用户表 |
+| Hong (Tina) Chen | Sales Manager, GSS New York（IPVM 认证）= 收件人本人（第 103 批 官方登记核实 2026-10-28） | tina@gogss.com | 调研核实（公开页） | 用户表 |
+| Gary Greve | Owner = 拍板人（抄送路径经 Tina）（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://gogss.com/about-us/ |
 
 - **通道建议**：企业邮箱可直发
 

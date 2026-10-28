@@ -34,7 +34,8 @@
    "title": "（姓氏/职务待核）",
    "email": "murat@monkas.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核；安卡拉网店）= 收件人（第 103 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -45,8 +46,9 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 monkas.com.tr，语言 tr，快照状态 ok；角色判定来源：待核"
+  "hq": "安卡拉 Yenimahalle（Çamlıca Mah. Anadolu Blv. Timko 1 Sok. No:20 A-5）— 非伊斯坦布尔（第 103 批 官方登记核实 2026-10-28）",
+  "other": "官网 monkas.com.tr，语言 tr，快照状态 ok；角色判定来源：待核；第 103 批：安防网店 + 自行进口（海关记录 99 条）→ **采购型 small / 分销 20%；一页纸**（第 103 批 官方登记核实 2026-10-28）",
+  "legal_name": "Monkas Bilişim Teknolojileri A.Ş.（Ankara Yenimahalle；MERSİS 未取 → 部分坐实）"
  },
  "business_lines": [
   "安防 / 网络产品网店"

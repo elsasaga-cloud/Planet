@@ -79,6 +79,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 103 批（TR · 1 次检索：官网 Hakkımızda（1993 年起增值分销商；30 年；5,000+ 企业网络）+ 官网首页（İlk 500 Bilişim Şirketleri 2024：Genel 93. / İstanbul 75.）+ kariyer.net（法定名 VİTEL VERİ İLETİŞİMİ ve TELEKOMÜNİKASYON SİS. A.Ş.；1993-01-08 成立）+ LinkedIn（Bilgisayar Ağları Ürünleri；51–200；İstanbul；1993；Özel Şirket）+ ContactOut（19 Mayıs Mah. İnönü Cad. Yıldız Sok. STFA Blokları B7 Blok No:17/1, 34736 İstanbul；90 人）+ RocketReach（+90 216 464 50 00；$6.3M）+ Great Place To Work 认证页 + ManageEngine Partner 页（2006 起独家分销），2026-10-28 查；https://www.vitel.com.tr/hakkimizda/）：**
+
+- 法定名 / 登记号：Vitel Veri İletişimi ve Telekomünikasyon Sistemleri A.Ş.（Vitel A.Ş.；vitel.com.tr；伊斯坦布尔 Kadıköy）— 1993-01-08 成立的土耳其增值 IT 分销商（企业 / SMB / 工业网络、视频会议、软件、服务器存储、IoT；ManageEngine 土耳其独家分销 20 年；Yamaha、CrowdStrike；Bilişim 500（2024）总榜第 93）；51–200 人（≈90）；KP Gökhan Kanat · A.Ş.（İstanbul 商事登记；MERSİS 未取） · 状态 **Active（Bilişim 500 2024 在榜）** · 成立 1993-01-08 · Anonim Şirket（私有）
+- 行业码 / 经营范围：增值 IT 分销（企业 / SMB / 工业网络、视频会议、软件 ManageEngine、服务器存储、IoT）+ 培训与技术支持；经销商网络
+- 注册地址：19 Mayıs Mah. İnönü Cad. Yıldız Sok. STFA Blokları B7 Blok No:17/1, 34736 Kadıköy / İstanbul
+- 规模档：中型（51–200 人）
+- 账目：第三方 $4.8–6.3M（仅作区间，疑低估）；—
+- 高管：Gökhan Kanat — 研究档 KP（gokhan.kanat@；职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **30 年增值 IT 分销商，有「工业网络」线 → 分销 20%，B BIG（土耳其四主战场之一）**：STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W + STI-288DGGPM 作其网络线的价值档；一页纸 + 产品线卡，加厚一次（产品经理 / 新品牌引入路径）
+  - 收件人 gokhan.kanat@ 点名；表内 1 次跟进无回复 → 二次触达换切口「a value line under your networking portfolio, Turkey stock-free DAP」；发信窗口 Thu 10–12 TRT；升 A 候选（回信即 A）
+- 备注：分销 20%；B BIG；加厚一次；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -100,15 +114,17 @@ updated: 2026-10-28
 - **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
 - **是谁**：土耳其 Vitel（vitel.com.tr，IT/通信增值分销商（待核）；KP Gökhan Kanat；官网 http_error）；表内 1 次跟进无回复。
 - **类型**：IT/通信分销商（土耳其，待核）
-- **KP**：Gökhan Kanat（）gokhan.kanat@vitel.com.tr 〔用户表〕
+- **KP**：Gökhan Kanat（研究档 KP（职务未核；Vitel A.Ş.）= 收件人（第 103 批 官方登记核实 2026-10-28））gokhan.kanat@vitel.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Vitel Veri İletişimi ve Telekomünikasyon Sistemleri A.Ş.（Vitel A.Ş.；İstanbul Kadıköy） |
+| 成立 | 1993-01-08（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 vitel.com.tr，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 vitel.com.tr，语言 ?，快照状态 http_error；角色判定来源：待核；第 103 批：30 年增值 IT 分销商（51–200 人；Bilişim 500 2024 第 93；ManageEngine 独家）→ **分销 20%，B BIG，加厚一次；升 A 候选**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 通信分销（土耳其，待核）
 - **触达通道（公开）**：role: IT/通信分销商（土耳其，待核）；region: 土耳其；contact: gokhan.kanat@vitel.com.tr
@@ -175,7 +191,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gökhan Kanat | — | gokhan.kanat@vitel.com.tr | 调研核实（公开页） | 用户表 |
+| Gökhan Kanat | 研究档 KP（职务未核；Vitel A.Ş.）= 收件人（第 103 批 官方登记核实 2026-10-28） | gokhan.kanat@vitel.com.tr | 调研核实（公开页） | 用户表 |
 | Gokhan | — | gokhan.kanat@vitel.com.tr | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

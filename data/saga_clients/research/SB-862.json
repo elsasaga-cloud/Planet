@@ -49,7 +49,14 @@
    "title": "Satış ve Proje Direktörü（销售与项目总监）",
    "email": "mustafaengin@cebecigrup.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核）= 收件人；抄 Hakan Cebeci（第 103 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Hakan Cebeci",
+   "role": "负责人（HTK 集群联系人；推定 Genel Müdür）= 抄送（第 103 批 官方登记核实 2026-10-28）",
+   "email": "hakancebeci@cebecigrup.com",
+   "source": "https://www.htk.org.tr/companies/cebeci-teleteks-1"
   }
  ],
  "grade_override": null,
@@ -61,7 +68,9 @@
  },
  "company_facts": {
   "hq": "土耳其",
-  "other": "官网 cebecigrup.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 cebecigrup.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 103 批：光纤测试 / 接入设备分销 + 自有 Cifocs 品牌 → **分销 20%，可谈 Cifocs 贴标；加厚一次；升 A 次候选**（第 103 批 官方登记核实 2026-10-28）",
+  "legal_name": "Cebeci Teleteks San. ve Tic. Ltd. Şti.（İstanbul Şişli Okmeydanı；MERSİS 未取）",
+  "founded": "1995（Ltd.；1978 Cebeci Telefon 起家）（第 103 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "光纤 / 电信测试与接入设备分销",

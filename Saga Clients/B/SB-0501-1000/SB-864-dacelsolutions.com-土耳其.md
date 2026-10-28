@@ -80,6 +80,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 103 批（TR · 1 次检索：官网 Kurumsal（DAC-EL Mühendislik Ltd Şti 1995 奠基；工业 / 楼宇 / 交通自动化）+ 官网首页（Çözüm Ortakları：Aveva、Belden、Hirschmann、Macmon、American Fibertek、Banner、Lumberg、Wecon、Xecro、Autonics；Avrupa Yakası Merkez Oruçreis Mah. Tekstilkent Cd. A-08 No:10 AM/Z08-9 34235 Esenler；Anadolu Yakası Atatürk Mah. Erzincan Sok. No:6 Ataşehir）+ dacelsolutions.com Firma Profili（0212 210 76 46；info@dacel.com.tr）+ ContactOut（法定名 DACEL ELEKTRİK ELEKTRONİK MÜHENDİSLİK SİSTEMLERİ SAN VE TİC LTD ŞTİ；1995；32 人）+ 博客（2010-11 受邀 Belden Preferred Partner Programı）+ 2026-09 Robotik Otomasyon Çözümleri 参展，2026-10-28 查；https://www.dacel.com.tr/kurumsal）：**
+
+- 法定名 / 登记号：DAC-EL Elektrik Elektronik Mühendislik Sistemleri San. ve Tic. Ltd. Şti.（DACEL Mühendislik；dacel.com.tr / dacelsolutions.com；伊斯坦布尔 Esenler + Ataşehir）— 1995 年奠基的工业自动化产品分销 + 交钥匙集成商（Belden Preferred Partner 2010 起：Hirschmann / Belden / Macmon；Aveva、Banner、Lumberg、Wecon、Autonics、American Fibertek；弱电：CCTV、火灾探测）；≈32 人；KP Ibrahim Gokcen / Erkan Cirit · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · 状态 **Active（2026-09 参展）** · 成立 1995 · Limited Şirket（私有）
+- 行业码 / 经营范围：工业自动化产品分销与技术服务（PLC / HMI / SCADA / 驱动 / 工业网络 Hirschmann）+ 交钥匙自动化工程 + 弱电（CCTV、火灾探测、门禁）
+- 注册地址：Oruçreis Mah. Tekstilkent Cad. Tekstilkent Sanayi Sit. A-08 Apt. No:10 AM/Z08-9, 34235 Esenler / İstanbul（另 Ataşehir）
+- 规模档：小型（≈32 人）
+- 账目：第三方 $222K（明显低估，不采）；—
+- 高管：Ibrahim Gokcen — 研究档 KP（info@；职务未核）
+- 高管：Erkan Cirit — 研究档 KP（ecirit@；职务未核）
+- 高管：Ali Icoez — 研究档 KP（无邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Belden / Hirschmann 优选伙伴（工业线被占）+ 自己做弱电交钥匙 → 集成商 25%，弱电侧切入**：STC-028GP / STC-228GP / STC-2224GP（CCTV / 门禁项目 PoE）+ STI-054GP（非 Hirschmann 预算的边缘点位）；一页纸；不加厚
+  - 收件人 ecirit@ 点名 Erkan Cirit，抄 info@；表内无跟进 → 首信一页纸；发信窗口 Thu 10–12 TRT
+- 备注：集成商 25%（弱电侧）；一页纸；Hirschmann 伙伴。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,8 +143,8 @@ updated: 2026-10-28
 - **【用户表】工业 FS**
   > 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ibrahim Gokcen（）info@dacel.com.tr 〔用户表〕
-- **KP**：Erkan Cirit（）ecirit@dacel.com.tr 〔用户表〕
+- **KP**：Ibrahim Gokcen（研究档 KP（经 info@；职务未核）= 抄送（第 103 批 官方登记核实 2026-10-28））info@dacel.com.tr 〔用户表〕
+- **KP**：Erkan Cirit（研究档 KP（职务未核）= 收件人（第 103 批 官方登记核实 2026-10-28））ecirit@dacel.com.tr 〔用户表〕
 - **KP**：Ali Icoez（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -136,8 +152,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | DAC-EL Elektrik Elektronik Mühendislik Sistemleri San. ve Tic. Ltd. Şti.（DACEL Mühendislik；İstanbul Esenler + Ataşehir） |
+| 成立 | 1995（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 dacelsolutions.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 dacelsolutions.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 103 批：工业自动化分销 + 交钥匙集成（Belden Preferred Partner 2010 起 = Hirschmann 线被占）+ 弱电 → **集成商 25%，弱电侧切入；一页纸**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业控制与自动化产品销售/服务；弱电系统（消防 / CCTV / 门禁 / KNX / 广播）
 - **触达通道（公开）**：role: 工业自动化/弱电系统集成商（土耳其，Hirschmann 在用）；region: 土耳其；contact: info@dacel.com.tr、ecirit@dacel.com.tr
@@ -229,8 +247,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ibrahim Gokcen | — | info@dacel.com.tr | 调研核实（公开页） | 用户表 |
-| Erkan Cirit | — | ecirit@dacel.com.tr | 调研核实（公开页） | 用户表 |
+| Ibrahim Gokcen | 研究档 KP（经 info@；职务未核）= 抄送（第 103 批 官方登记核实 2026-10-28） | info@dacel.com.tr | 调研核实（公开页） | 用户表 |
+| Erkan Cirit | 研究档 KP（职务未核）= 收件人（第 103 批 官方登记核实 2026-10-28） | ecirit@dacel.com.tr | 调研核实（公开页） | 用户表 |
 | Ali Icoez | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发

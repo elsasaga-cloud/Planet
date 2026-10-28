@@ -45,7 +45,8 @@
    "title": "Project Manager",
    "email": "info@mfd.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Project Manager（MCS Factory Digitalization）= 收件人本人（第 103 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -57,7 +58,9 @@
  },
  "company_facts": {
   "hq": "土耳其",
-  "other": "官网 mfd.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 mfd.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表；第 103 批：4 人 Siemens 伙伴 SI（CodeMaster 平台）→ **集成商 25% small；一页纸即止**（第 103 批 官方登记核实 2026-10-28）",
+  "legal_name": "MCS Factory Digitalization Endüstriyel Bilişim Teknolojileri Ltd. Şti.（MFD；İstanbul Ümraniye）",
+  "founded": "2016（第 103 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工厂数字化 / 工业 4.0 / SCADA 集成（土耳其）"

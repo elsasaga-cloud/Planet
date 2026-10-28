@@ -82,6 +82,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 103 批（US · 1 次检索：官网 About / Terms（「Fiber Savvy is a division of CRN Solutions, LLC」；Master Terms 合同主体 CRN Solutions, LLC dba Fiber Savvy；29415 Hunco Way, Lake Elsinore, CA 92530；951-801-5780；sales@；Wildomar 2 万 → Lake Elsinore 3 万平方英尺仓）+ eBay 店 About（CRN Solutions 1996 成立，多个 DBA；少数族裔所有；BBB 认证；BICSI 会员）+ Yelp（Established 2009）+ photonics.com（Established 2010；20 人；30,000 sq ft）+ GoPhotonics（ISO 9001 / ISO 14001）+ ZoomInfo（11–50；<$5M；1996）+ LinkedIn 个人页（Marketing 2010 起 Wildomar）；CA SoS 号未取，2026-10-28 查；https://www.fibersavvy.com/pages/about-fiber-savvy）：**
+
+- 法定名 / 登记号：Fiber Savvy = CRN Solutions, LLC dba Fiber Savvy（fibersavvy.com；Lake Elsinore, California）— CRN Solutions 1996 年起、Fiber Savvy 商号 2009/2010 年起的光纤网络与连接产品分销电商（光缆裁切、跳线、配线、工具、MC / 交换机周边；自有 Fibersavvy 系列；3 万平方英尺仓；少数族裔所有；BICSI 会员；ISO 9001 / 14001）；11–50 人，<$5M；研究档无 KP · CA LLC（CRN Solutions, LLC；SoS 号未取） · 状态 **Active（站点在线）** · 成立 1996（CRN Solutions）；Fiber Savvy 商号 2009/2010 · Limited Liability Company（私有；少数族裔所有）
+- 行业码 / 经营范围：光纤网络与连接产品分销电商（光缆按长度裁切、跳线、配线架、连接器、工具；MC / 交换机周边；自有 Fibersavvy 系列）
+- 注册地址：29415 Hunco Way, Suite F, Lake Elsinore, CA 92530
+- 规模档：小型（16–20 人）
+- 账目：第三方 <$5M（仅作区间）；—
+- 高管：无具名（研究档无 KP；sales@；LinkedIn 仅「Marketing」）
+- 控制人 / 股东：未取
+- 曾用名：Wildomar, CA 旧址
+- **这意味着什么：**
+  - **光纤电商 + 自有 Fibersavvy 系列 + MC 周边多 → 分销 20%，可谈 Fibersavvy 标**：STI-144GP / STC-228GP / STC-2224GP / STC-110XGE（光口交换机替代 MC 组合）；一页纸 + 贴标条款，加厚一次
+  - 收件人 sales@ 点名 purchasing / owner；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 PT
+- 备注：分销 20% / 可谈贴标；加厚一次。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,8 +135,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | CRN Solutions, LLC dba Fiber Savvy（CA LLC；SoS 号未取） |
+| 成立 | 1996（CRN）；Fiber Savvy 商号 2009/2010（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 fibersavvy.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 fibersavvy.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 103 批：Lake Elsinore CA 光纤电商（3 万平方英尺仓；自有 Fibersavvy 系列；少数族裔所有；ISO 9001/14001）→ **分销 20%，可谈 Fibersavvy 贴标；加厚一次**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤线缆 / 配件网店
 - **触达通道（公开）**：role: 光纤配件网店（美国）；region: 美国；contact: sales@fibersavvy.com

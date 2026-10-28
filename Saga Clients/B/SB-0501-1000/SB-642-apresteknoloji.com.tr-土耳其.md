@@ -79,6 +79,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 103 批（TR · 1 次检索：官网 Hakkımızda（电子安防 + 信息技术产品向经销商供货；B2B 在线订货与收款；全球品牌土耳其分销）+ B2B Gizlilik / Satış Sözleşmesi（Firma Ünvanı APRES TEKNOLOJİ；Orhantepe Mah. Tekel Cad. No:32/C Kartal İSTANBUL；0850 305 25 99；info@；Bursa 分部 Hacı İlyas Mah. Celal Bayar Cad. No:46/A Osmangazi）+ LinkedIn İnanç Karabayır（Apres Teknoloji Genel Müdür；#BDCOM #WiFi6 #OutdoorAP #BelediyeProjeleri；Pendik）+ Yandex Maps（Apres Teknoloji Güvenlik Sistemleri；Çınardere Mah. Erenler Cad. 2A Pendik；+90 534 233 38 38），2026-10-28 查；https://www.apresteknoloji.com.tr/hakkimizda-s1）：**
+
+- 法定名 / 登记号：Apres Teknoloji（apresteknoloji.com.tr；伊斯坦布尔 Kartal + Pendik 门店 + 布尔萨 Osmangazi 分部）— 面向经销商网络的电子安防 + IT B2B 分销商（报警、火灾探测与灭火、结构化布线与网络、门禁、机柜；**BDCOM 分销**：Wi-Fi 6 / 室外 AP / 市政项目）；Genel Müdür İnanç Karabayır；法定商号后缀未见 → 部分坐实 · 商号 APRES TEKNOLOJİ（法定形式 / MERSİS 未取 → 部分坐实） · 状态 **Active（B2B 站点在线；LinkedIn 2025-10 活跃）** · 成立 未取 · 未取（合同主体仅写商号，疑个体 / Ltd.）
+- 行业码 / 经营范围：电子安防 + IT 产品 B2B 分销（报警、火灾、CCTV、结构化布线 / 网络、门禁、机柜；BDCOM 网络设备分销；经销商网络 + 市政 Wi-Fi 项目）
+- 注册地址：Orhantepe Mah. Tekel Cad. No:32/C, Kartal / İstanbul（门店 Çınardere Mah. Erenler Cad. 2A Pendik；分部 Hacı İlyas Mah. Celal Bayar Cad. No:46/A Osmangazi / Bursa）
+- 规模档：小型（推定 10–30 人）
+- 账目：—；—
+- 高管：İnanç Karabayır — Genel Müdür（LinkedIn，2K 关注）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **经销商网络 B2B 分销 + 已分销 BDCOM（中国品牌网络设备）→ 懂中国直采、价格敏感 → 分销 20%，可谈二线价位**：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（对标 BDCOM PoE 价）；一页纸 + 价格对照，加厚一次
+  - 收件人 info@ 点名 Genel Müdür İnanç Karabayır；表内 1 次跟进无回复 → 二次触达换切口「a second PoE line beside your current one, DAP Istanbul, MOQ 1」；发信窗口 Thu 10–12 TRT；升 A 次候选
+- 备注：分销 20%（BDCOM 同类经销；价格敏感）；加厚一次；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,14 +120,16 @@ updated: 2026-10-28
 - **【官网快照】Apres 快照**
   > Apres Teknoloji
   > 来源：https://apresteknoloji.com.tr/（抓取 2026-10-21）
+- **KP**：İnanç Karabayır（Genel Müdür（LinkedIn）= 收件人（经 info@）（第 103 批 官方登记核实 2026-10-28）） 〔https://tr.linkedin.com/in/inanç-karabayır-1a7475195〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | APRES TEKNOLOJİ（商号；法定形式 / MERSİS 未取 → 部分坐实；İstanbul Kartal + Pendik 门店 + Bursa 分部） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 apresteknoloji.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 apresteknoloji.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案；第 103 批：经销商网络 B2B 安防 + IT 分销，BDCOM 分销（懂中国直采）→ **分销 20%，可谈二线价位；加厚一次；升 A 次候选**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核）
 - **触达通道（公开）**：role: IT/技术公司（土耳其，待核）；region: 土耳其；contact: info@apresteknoloji.com.tr
@@ -179,7 +195,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@apresteknoloji.com.tr | 用户表原值 | Clients/ 表 |
+| İnanç Karabayır | Genel Müdür（LinkedIn）= 收件人（经 info@）（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://tr.linkedin.com/in/inanç-karabayır-1a7475195 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -214,7 +230,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：土耳其主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -231,7 +247,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -248,7 +264,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi İnanç,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does your business carry or install network switches, and if so which port count do your customers ask for most?
 

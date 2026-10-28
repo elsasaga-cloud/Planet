@@ -23,7 +23,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "İnanç Karabayır",
+   "role": "Genel Müdür（LinkedIn）= 收件人（经 info@）（第 103 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://tr.linkedin.com/in/inanç-karabayır-1a7475195"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -33,7 +40,8 @@
  },
  "company_facts": {
   "hq": "土耳其",
-  "other": "官网 apresteknoloji.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 apresteknoloji.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案；第 103 批：经销商网络 B2B 安防 + IT 分销，BDCOM 分销（懂中国直采）→ **分销 20%，可谈二线价位；加厚一次；升 A 次候选**（第 103 批 官方登记核实 2026-10-28）",
+  "legal_name": "APRES TEKNOLOJİ（商号；法定形式 / MERSİS 未取 → 部分坐实；İstanbul Kartal + Pendik 门店 + Bursa 分部）"
  },
  "business_lines": [
   "（待核）"

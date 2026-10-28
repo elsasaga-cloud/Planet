@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -96,6 +96,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 103 批（US · 1 次检索：intercreditreport / Sunbiz 摘录（FIBERTRONICS, INC.；Domestic for Profit；Document P09000049074；Date of Incorporation 2009-06-05；FEI 38-3801080；Status Active；Principal 2900 Dusa Dr., Melbourne, FL 32934；Larson Douglas P）+ 官网 About（2009 Melbourne FL 成立；TL 9000 / AS9100D / ISO 9001:2015；ITAR；BABA / TAA 选项；SBA 女性所有小企业）+ Florida Today 转载（创办人 Doug 与 Barbara Larson，车库起家 → North Drive 2.5 万平方英尺）+ LinkedIn（11–50；Melbourne FL；2009）+ Thomasnet（$1–4.9M；Manufacturer / Distributor；Est. 2009）+ Bloomberg（3735 Peacock Dr, Melbourne, FL 32904），2026-10-28 查；https://florida.intercreditreport.com/company/fibertronics-inc-p09000049074）：**
+
+- 法定名 / 登记号：Fibertronics, Inc.（fibertronics.com；Melbourne, Florida）— 2009-06-05 成立的美国定制光纤线缆组件制造商（MTP/MPO、MDC/MMC、FOFCA 柔性光路、MIL-SPEC；TL 9000 / ISO 9001 / AS9100D、ITAR；女性所有小企业；2.5 万平方英尺）；FL Sunbiz **P09000049074**；创办人 Doug & Barbara Larson；11–50 人，$1–4.9M；研究档无 KP · FL Sunbiz P09000049074 · FEI 38-3801080 · 状态 **Active** · 成立 2009-06-05 · Florida Profit Corporation（私有；Larson 家族；SBA 女性所有）
+- 行业码 / 经营范围：定制光纤线缆组件制造（MTP/MPO、MDC/MMC、FOFCA、MIL-SPEC；100% 光学测试）+ 光纤配件分销；国防 / ITAR 线 —— **守界，不提**
+- 注册地址：2900 Dusa Drive, Melbourne, FL 32934（Bloomberg 列 3735 Peacock Dr, Melbourne, FL 32904）
+- 规模档：小型（11–50 人）
+- 账目：第三方 $1–4.9M（仅作区间）；—
+- 高管：Douglas P. Larson — 创办人 / 登记负责人
+- 高管：Barbara Larson — 创办人 / 所有人（女性所有）
+- 控制人 / 股东：Larson 家族
+- **这意味着什么：**
+  - **光纤组件制造 + 配件分销（表内「线缆 MC switch VC」）→ 分销 20% small**：STI-144GP / STC-228GP / STC-110XGE 作其光纤分销目录的有源配套（MC 替代：光口交换机）；一页纸；**不提国防 / ITAR / TAA**
+  - 收件人 sales@ 点名 Owner Barbara Larson / purchasing；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 ET
+- 备注：分销 20% small；一页纸；国防守界。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,14 +143,17 @@ updated: 2026-10-27
 - **【用户表】主要是线缆 MC switch VC**
   > 主要是线缆 MC switch VC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Barbara Larson（创办人 / 所有人（SBA 女性所有；与 Douglas P. Larson 共同创办）= 收件人（经 sales@）（第 103 批 官方登记核实 2026-10-28）） 〔https://florida.intercreditreport.com/company/fibertronics-inc-p09000049074〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Fibertronics, Inc.（FL Sunbiz P09000049074；FEI 38-3801080；Active） |
+| 成立 | 2009-06-05（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 fibertronics.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 fibertronics.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 103 批：Melbourne FL 定制光纤组件制造商（AS9100D / TL 9000 / ISO 9001；ITAR 线守界不提）+ 光纤配件分销 → **分销 20% small**（光口交换机作 MC 替代）；一页纸（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：定制光纤线缆组件 / 配线；MC / 交换机 / VC 配套
 - **触达通道（公开）**：role: 光纤组件制造商（美国，MC/交换机为配套）；region: 美国；contact: sales@fibertronics.com
@@ -213,7 +231,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@fibertronics.com | 用户表原值 | Clients/ 表 |
+| Barbara Larson | 创办人 / 所有人（SBA 女性所有；与 Douglas P. Larson 共同创办）= 收件人（经 sales@）（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://florida.intercreditreport.com/company/fibertronics-inc-p09000049074 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -249,7 +267,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -266,7 +284,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -282,7 +300,7 @@ updated: 2026-10-27
 **主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
 
 ```text
-Hello,
+Hi Barbara,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside your fibre assemblies, we supply gigabit media converters and 8-GE + 2 SFP switches (industrial −40~75 °C or desktop, FCC/CE/RoHS, neutral packing) from small lots, EXW USD — which MC configuration do your telecom and industrial customers bundle most with cable orders?
 
@@ -307,12 +325,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

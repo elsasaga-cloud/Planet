@@ -46,7 +46,14 @@
    "title": "VP Productmanagement",
    "email": "foerster@pandacomdirekt.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Prokurist（总代理权人，companyhouse.de 登记）= 收件人本人（第 103 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Dirk Bachmann",
+   "role": "Geschäftsführer（2002 起；兼 Pan Dacom Networking AG Vorstandsvorsitzender）= 拍板人（第 103 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.companyhouse.de/Pan-Dacom-Direkt-GmbH-Dreieich"
   }
  ],
  "grade_override": null,
@@ -58,7 +65,9 @@
  },
  "company_facts": {
   "hq": "德国",
-  "other": "官网 pandacomdirekt.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 pandacomdirekt.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 103 批：自研传输设备 + 系统集成（控股 Pan Dacom Networking AG）→ **低概率；一页纸即止后不动**（第 103 批 官方登记核实 2026-10-28）",
+  "legal_name": "Pan Dacom Direkt GmbH（HRB 35050 Amtsgericht Offenbach am Main；USt-ID DE813529743；LEI 529900QZSNZ1ZE3HYA38）",
+  "founded": "2002-10-17（成立 2002-09-01）（第 103 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "WDM / 微波 / 传输网络方案"

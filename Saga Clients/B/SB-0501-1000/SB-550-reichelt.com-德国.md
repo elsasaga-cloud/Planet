@@ -78,6 +78,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 103 批（DE · 1 次检索：reicheltpedia / reichelt.com Impressum（reichelt elektronik GmbH；Geschäftsführer Ulf Timmermann；Elektronikring 1, 26452 Sande；Amtsgericht Oldenburg HRB 219874；USt-ID DE 259817039；WEEE DE 58715331）+ companyhouse.de（2023-08-31 新登记 GmbH，自 GmbH & Co. KG HRA 200654 改制；Kapital 3.000.000 €；Prokuristin Pia Sylvia Pakusa；最后变更 2026-02-25）+ Wikipedia（1969 成立；2010 Angelika Reichelt 售予 Dätwyler Holding；280 人 2021；176 Mio. € 2020；Sprecher der GF Ulf Timmermann）+ unternehmen24（100–249 人），2026-10-28 查；https://www.companyhouse.de/en/Reichelt-Elektronik-GmbH-Sande）：**
+
+- 法定名 / 登记号：reichelt elektronik GmbH（原 reichelt elektronik GmbH & Co. KG，2023-08 改制；reichelt.de；Sande, Friesland）— 1969 年创立的大型电子 / 技术产品目录电商（15 万+ SKU；B2B / B2C）；**2010 年起属瑞士 Dätwyler Holding（非家族企业）**；≈280 人（2021），营收 1.76 亿 €（2020）；HRB 219874 Oldenburg；GF Ulf Timmermann；群发 8 次无回复 · HRB 219874 Amtsgericht Oldenburg（原 HRA 200654）· USt-ID DE259817039 · 状态 **Active（2026-02 登记变更）** · 成立 1969（GmbH 2023-08-31 改制登记） · GmbH（Dätwyler Holding AG 子公司；股本 3,000,000 €）
+- 行业码 / 经营范围：电子元器件 / IT / 网络 / 工具 / 测量等 15 万+ SKU 目录电商（B2B / B2C；欧洲多国站点）
+- 注册地址：Elektronikring 1, 26452 Sande
+- 规模档：大型（100–280 人）
+- 账目：第三方 1.76 亿 €（2020；仅作区间）；—
+- 高管：Ulf Timmermann — Geschäftsführer（Sprecher）
+- 高管：Pia Sylvia Pakusa — Prokuristin
+- 控制人 / 股东：Dätwyler Holding AG（瑞士）
+- 曾用名：reichelt elektronik GmbH & Co. KG（HRA 200654 Oldenburg）；Verwaltungs-GmbH HRB 130281
+- **这意味着什么：**
+  - **大型目录电商，新品牌上架走 Produktmanagement / Einkauf 流程，群发 8 次无回复 → 分销 20% 低概率** → **一页纸即止**：切口 = 「a value managed PoE line for your Netzwerk category（对标其在售 TP-Link / Digitus 价）」STC-028GP / STC-228GP / STC-2224GP；提供 EAN / 数据表 / CE 文件包；不加厚
+  - 收件人改 Einkauf / Produktmanagement 入口（非 info@）；表内「可以着重跟一下」→ 二次触达一次；发信窗口 Thu 12–14 CET；非家族企业（研究档待修）
+- 备注：分销 20% 低概率（大目录商准入）；一页纸；Dätwyler 子公司。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,14 +137,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS 有宇航；着重跟**
   > 工业FS 有宇航的；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ulf Timmermann（Geschäftsführer（Sprecher）；收件人改 Einkauf / Produktmanagement 入口（第 103 批 官方登记核实 2026-10-28）） 〔https://www.companyhouse.de/en/Reichelt-Elektronik-GmbH-Sande〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | reichelt elektronik GmbH（HRB 219874 Amtsgericht Oldenburg；原 GmbH & Co. KG HRA 200654；USt-ID DE259817039；Dätwyler Holding AG 子公司） |
+| 成立 | 1969（GmbH 改制登记 2023-08-31）（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 reichelt.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 reichelt.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 103 批：15 万+ SKU 目录电商（≈280 人；1.76 亿 € 2020）；**非家族企业（2010 起 Dätwyler）**；8 次无回复 → **分销 20% 低概率；一页纸即止**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电子 / IT / 自动化产品目录电商（德国）
 - **触达通道（公开）**：role: 大型电子目录电商（德国，用户着重）；region: 德国；contact: info@reichelt.com
@@ -221,7 +240,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@reichelt.com | 用户表原值 | Clients/ 表 |
+| Ulf Timmermann | Geschäftsführer（Sprecher）；收件人改 Einkauf / Produktmanagement 入口（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.companyhouse.de/en/Reichelt-Elektronik-GmbH-Sande |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -290,7 +309,7 @@ updated: 2026-10-28
 **主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Ulf,
 
 Some time ago you had a product mail from us - "16 Port Ethernet Switch" on 24 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial Ethernet switch category at reichelt, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP managed and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS) neutral-brand or private-label from small lots, EXW USD — who handles listing new industrial networking suppliers?
 

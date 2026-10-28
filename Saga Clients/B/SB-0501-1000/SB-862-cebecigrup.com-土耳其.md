@@ -89,6 +89,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 103 批（TR · 1 次检索：magaza.cebecigrup.com Hakkımızda（1978 Cebeci Telefon 起步，1995 Cebeci Teleteks San. ve Tic. Ltd. Şti.）+ Mesafeli Satış Sözleşmesi（法定名 + Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:8 D:24 Okmeydanı 34384 Şişli / İstanbul）+ 银行账户页（户名 Cebeci Teleteks San. ve Tic. Ltd. Şti.）+ HTK（Haberleşme Teknolojileri Kümelenmesi）会员页（hakancebeci@cebecigrup.com；+90 212 320 08 88 / +90 532 377 42 42）+ globalpiyasa（Limited Şirket；11–50；Üretici）+ 官网 Cifocs 光纤 USB 转换器页，2026-10-28 查；https://magaza.cebecigrup.com/author/admin/）：**
+
+- 法定名 / 登记号：Cebeci Teleteks San. ve Tic. Ltd. Şti.（Cebeci Grup；cebecigrup.com；伊斯坦布尔 Şişli Okmeydanı）— 1978 年以 Cebeci Telefon 起家、1995 年改制 Ltd. 的光纤 / 电信测试与接入设备分销商（OTDR / 光功率计、熔接与配线、Greenlee 工具、**自有 Cifocs 光纤 USB 转换器**；HTK 通信技术集群成员；e-Mağaza）；11–50 人；Hakan Cebeci（hakancebeci@）；KP Mustafa Engin · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · 状态 **Active（2025 站点更新）** · 成立 1995（Ltd.；1978 起家） · Limited Şirket（私有；Cebeci 家族）
+- 行业码 / 经营范围：光纤 / 电信测试仪表与接入设备分销（OTDR、OPM、OLS、熔接、配线箱、Greenlee / Tempo 工具）+ 自有 Cifocs 品牌光纤转换器 + e-Mağaza B2B
+- 注册地址：Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:8 D:24, 34384 Okmeydanı, Şişli / İstanbul
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Hakan Cebeci — 负责人（HTK 联系人；推定 Genel Müdür）
+- 高管：Mustafa Engin — 研究档 KP（mustafaengin@；职务未核）
+- 控制人 / 股东：Cebeci 家族（推定）
+- 曾用名：Cebeci Telefon（1978）
+- **这意味着什么：**
+  - **光纤分销 + 自有 Cifocs 品牌 → 分销 20%，可谈 Cifocs 贴标**：STI-144GP / STC-228GP / STC-110XGE / STC-2224GP（光口交换机 / MC 替代，挂 Cifocs 标 OEM 30%）；一页纸 + 贴标条款，加厚一次
+  - 收件人 mustafaengin@ + 抄 hakancebeci@；表内无跟进 → 首信一页纸；发信窗口 Thu 10–12 TRT；升 A 次候选
+- 备注：分销 20% / Cifocs 贴标可谈；加厚一次。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,15 +152,18 @@ updated: 2026-10-28
 - **【用户表】ONV 工业 FS 工业串口**
   > ONV 工业FS 工业串口 有国内的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mustafa Engin（）mustafaengin@cebecigrup.com 〔用户表〕
+- **KP**：Mustafa Engin（研究档 KP（职务未核）= 收件人；抄 Hakan Cebeci（第 103 批 官方登记核实 2026-10-28））mustafaengin@cebecigrup.com 〔用户表〕
+- **KP**：Hakan Cebeci（负责人（HTK 集群联系人；推定 Genel Müdür）= 抄送（第 103 批 官方登记核实 2026-10-28））hakancebeci@cebecigrup.com 〔https://www.htk.org.tr/companies/cebeci-teleteks-1〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Cebeci Teleteks San. ve Tic. Ltd. Şti.（İstanbul Şişli Okmeydanı；MERSİS 未取） |
+| 成立 | 1995（Ltd.；1978 Cebeci Telefon 起家）（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 cebecigrup.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 cebecigrup.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 103 批：光纤测试 / 接入设备分销 + 自有 Cifocs 品牌 → **分销 20%，可谈 Cifocs 贴标；加厚一次；升 A 次候选**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤 / 电信测试与接入设备分销；CFC 标 PoE 交换机 / 工业 MC
 - **触达通道（公开）**：role: 光纤/电信设备分销商（土耳其，自有 CFC 标 PoE 线，现 ONV/国内）；region: 土耳其；contact: iletisim@cebecigrup.com、mustafaengin@cebecigrup.com
@@ -238,7 +257,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mustafa Engin | — | mustafaengin@cebecigrup.com | 调研核实（公开页） | 用户表 |
+| Mustafa Engin | 研究档 KP（职务未核）= 收件人；抄 Hakan Cebeci（第 103 批 官方登记核实 2026-10-28） | mustafaengin@cebecigrup.com | 调研核实（公开页） | 用户表 |
+| Hakan Cebeci | 负责人（HTK 集群联系人；推定 Genel Müdür）= 抄送（第 103 批 官方登记核实 2026-10-28） | hakancebeci@cebecigrup.com | 调研核实（公开页） | https://www.htk.org.tr/companies/cebeci-teleteks-1 |
 
 - **通道建议**：企业邮箱可直发
 

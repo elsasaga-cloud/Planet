@@ -77,6 +77,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 103 批（DE · 1 次检索：mgt.bayern Impressum（Münchner Glasfaser-Technik GmbH；Rudolf-Diesel-Straße 12, 82205 Gilching；+49 89 427509510；GF Richard Verhülsdonk, Matthias Sanderbeck, Christoph Gentz；Amtsgericht München HRB 244603）+ Northdata（HRB 244603；2018-11-08 登记；GF Sanderbeck / Verhülsdonk；Kapital 25.200 €）+ implisense（成立 2018-10-30；USt-ID DE322142460；small enterprise）+ Creditreform（2022-12-15 变更：Geschäftsanschrift Gilching；3 GF；3 Gesellschafter）+ companyhouse.de（章程目的；旧址 Ubostr. 21, 81245 München；关联 Münchner Elektro-Technik GmbH）+ LinkedIn（Construction；11–50；Gilching；2018；Richard Verhülsdonk Unternehmensinhaber und GF），2026-10-28 查；https://www.mgt.bayern/impressum-und-datenschutz）：**
+
+- 法定名 / 登记号：Münchner Glasfaser-Technik GmbH（mgt.bayern；Gilching bei München，2022-12 自 München Ubostr. 迁入）— 2018-10-30 成立的光纤 / 通信网络建设与运营公司（章程：Bau und Betrieb von Kommunikationsanlagen — Glasfaser、Netzwerktechnik、Kommunikationstechnik）；HRB 244603 München；GF Richard Verhülsdonk（Inhaber）/ Matthias Sanderbeck / Christoph Gentz；11–50 人；姊妹 Münchner Elektro-Technik GmbH、Glasfaser für Alle GmbH；表内 2 次跟进无回复 · HRB 244603 Amtsgericht München · USt-ID DE322142460 · 状态 **Active（2022-12 登记变更；站点在线）** · 成立 2018-10-30（登记 2018-11-08） · GmbH（私有；3 股东）
+- 行业码 / 经营范围：光纤 / 通信网络建设与运营（FTTH 施工、网络技术、通信技术）+ 电气（姊妹公司）
+- 注册地址：Rudolf-Diesel-Straße 12, 82205 Gilching（旧址 Ubostr. 21, 81245 München）
+- 规模档：小型（11–50 人）
+- 账目：股本 25,200 €（营收未取）；—
+- 高管：Richard Johannes Verhülsdonk — Geschäftsführer / Inhaber
+- 高管：Matthias Sanderbeck — Geschäftsführer
+- 高管：Christoph Gentz — Geschäftsführer
+- 控制人 / 股东：三位 GF（股东）
+- **这意味着什么：**
+  - **光纤施工承包商（FTTH 建设）→ 集成商 25% small，交换机为项目附带** → **一页纸即止**：STI-144GP / STC-228GP / STC-110XGE（光纤末端有源）；不加厚；2 次无回复 → 一次后 `不动`
+  - 收件人 info@ 点名 Inhaber Richard Verhülsdonk；发信窗口 Thu 12–14 CET；地址改 Gilching
+- 备注：集成商 25% small；一页纸后不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,14 +122,17 @@ updated: 2026-10-28
 - **【官网快照】MGT 定位**
   > Münchner Glasfaser-Technik GmbH ; Spezialisiertes Unternehmen in den Bereichen Informationstechnik, Telekommunikation und Elektrotechnik
   > 来源：https://www.mgt.bayern/（抓取 2026-10-21）
+- **KP**：Richard Verhülsdonk（Geschäftsführer / Inhaber = 收件人（经 info@）（第 103 批 官方登记核实 2026-10-28）） 〔https://www.mgt.bayern/impressum-und-datenschutz〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 mgt.bayern，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Münchner Glasfaser-Technik GmbH（HRB 244603 Amtsgericht München；USt-ID DE322142460） |
+| 成立 | 2018-10-30（第 103 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Gilching bei München（Rudolf-Diesel-Straße 12, 82205；2022-12 自 München Ubostr. 21 迁入）（第 103 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 mgt.bayern，语言 de，快照状态 ok；角色判定来源：官网文案；第 103 批：光纤 / 通信网络建设承包商（11–50 人；3 GF）→ **集成商 25% small；一页纸后不动**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 电信 / 电气安装（德国）
 - **触达通道（公开）**：role: IT/电信/电气安装商（德国）；region: 德国；contact: info@mgt.bayern
@@ -189,7 +208,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@mgt.bayern | 用户表原值 | Clients/ 表 |
+| Richard Verhülsdonk | Geschäftsführer / Inhaber = 收件人（经 info@）（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.mgt.bayern/impressum-und-datenschutz |
 
 - **通道建议**：企业邮箱可直发
 
@@ -224,7 +243,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -241,7 +260,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -257,7 +276,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Richard,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the access switches and media converters in your fibre and building-network installations, we supply Marvell-based 8-PoE + 2 SFP L2+, 24-PoE + 4 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which switch position do your Munich projects use most?
 

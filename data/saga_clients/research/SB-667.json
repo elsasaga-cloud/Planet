@@ -30,7 +30,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Richard Verhülsdonk",
+   "role": "Geschäftsführer / Inhaber = 收件人（经 info@）（第 103 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.mgt.bayern/impressum-und-datenschutz"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -39,8 +46,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 mgt.bayern，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Gilching bei München（Rudolf-Diesel-Straße 12, 82205；2022-12 自 München Ubostr. 21 迁入）（第 103 批 官方登记核实 2026-10-28）",
+  "other": "官网 mgt.bayern，语言 de，快照状态 ok；角色判定来源：官网文案；第 103 批：光纤 / 通信网络建设承包商（11–50 人；3 GF）→ **集成商 25% small；一页纸后不动**（第 103 批 官方登记核实 2026-10-28）",
+  "legal_name": "Münchner Glasfaser-Technik GmbH（HRB 244603 Amtsgericht München；USt-ID DE322142460）",
+  "founded": "2018-10-30（第 103 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT / 电信 / 电气安装（德国）"

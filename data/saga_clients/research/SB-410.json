@@ -48,8 +48,9 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 4sltd.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "伊兹密尔 Konak（Halkapınar Mah. 1203/5 Sok. İkiz Çarşı 2 Apt. No:3 B/B）（第 103 批 官方登记核实 2026-10-28）",
+  "other": "官网 4sltd.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 103 批：Red Lion Controls 官方分销 + Thor Guard 代理；国防参考（守界）→ **分销 20% 低概率；一页纸后不动**（第 103 批 官方登记核实 2026-10-28）",
+  "legal_name": "4S Elektrik Elektronik Telekomünikasyon İleri Teknoloji Ar-Ge Ltd. Şti.（Red Lion 名录：4s Elektrik Elektronik Telekominikasyon İth. İhr. Paz. Tic. Ltd. Şti.；İzmir Konak）"
  },
  "business_lines": [
   "电气 / 电子材料销售与代理（土耳其）"

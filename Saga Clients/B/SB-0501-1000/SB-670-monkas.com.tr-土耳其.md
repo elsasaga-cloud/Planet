@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 103 批（TR · 1 次检索：官网 İletişim（Monkas Bilişim Teknolojileri A.Ş.；Çamlıca Mah. Anadolu Blv. Timko 1 Sokak No:20 A-5 Yenimahalle / ANKARA；info@monkas.com.tr）+ whois（MONKAS BİLİŞİM TEKNOLOJİLERİ ANONİM ŞİRKETİ；çamlıca mah. anadolu bulvarı A blok 20A/5 Ankara）+ yenifirma.com.tr（同名同址）+ 纽佰德海关库（2022-06-20 收录；99 条进出口记录；采购商 2 / 供应商 2）+ Instagram（0553 840 49 87；Hilook 推广）+ Facebook 员工页（Monkas Satış Pazarlama），2026-10-28 查；https://monkas.com.tr/iletisim）：**
+
+- 法定名 / 登记号：Monkas Bilişim Teknolojileri A.Ş.（monkas.com.tr；**安卡拉 Yenimahalle**，非伊斯坦布尔）— 安防摄像机 / 网络设备网店与进口商（Hikvision / HiLook、Dahua、TP-Link、ZKTeco；海关库 2022 起 99 条进口记录）；KP Murat（murat@）；MERSİS / 税号未取 → 部分坐实 · A.Ş.（Ankara 商事登记；MERSİS / Vergi No 未取 → 部分坐实） · 状态 **Active（站点在线、Instagram 活跃）** · 成立 未取（域名 ≥2020） · Anonim Şirket（股份公司；私有）
+- 行业码 / 经营范围：安防摄像机 / NVR / 网络设备 / 门禁 零售批发网店（Hikvision / HiLook / Dahua / TP-Link / ZKTeco；Wi-Fi、光纤配件）+ 直接进口
+- 注册地址：Çamlıca Mah. Anadolu Blv. Timko 1 Sok. No:20 A-5 (Tekno Bilgisayar İş Merkezi), 06200 Yenimahalle / Ankara
+- 规模档：小微（推定 <10 人）
+- 账目：—；—
+- 高管：Murat — 研究档 KP（murat@；职务未核）
+- 高管：Hande Beyaz — Satış Pazarlama（Facebook）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安卡拉安防网店 + 自行进口（海关记录 99 条）→ 采购型 small，分销 20%**：STC-028GP / STC-228GP / STC-2216GP 作其 HiLook / Dahua 摄像机配套 PoE（对标 TP-Link 价）；一页纸；不加厚
+  - 收件人 murat@ 点名；表内 1 次跟进无回复 → 二次触达换切口「PoE 交换机配摄像机套餐」；发信窗口 Thu 10–12 TRT；城市改安卡拉（研究档地址待修）
+- 备注：采购型 small / 分销 20%；一页纸；城市 = 安卡拉。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,15 +123,16 @@ updated: 2026-10-28
 - **【官网快照】apronX 站点**
   > apronX ; Yeni Ürünler ; Fırsatı Kaçırma! ; NTC-5220 ; DVR-208G-K1
   > 来源：https://www.apronx.com.tr/（抓取 2026-10-21）
-- **KP**：Murat（）murat@monkas.com.tr 〔用户表〕
+- **KP**：Murat（研究档 KP（职务未核；安卡拉网店）= 收件人（第 103 批 官方登记核实 2026-10-28））murat@monkas.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 monkas.com.tr，语言 tr，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | Monkas Bilişim Teknolojileri A.Ş.（Ankara Yenimahalle；MERSİS 未取 → 部分坐实） |
+| 总部/地址 | 安卡拉 Yenimahalle（Çamlıca Mah. Anadolu Blv. Timko 1 Sok. No:20 A-5）— 非伊斯坦布尔（第 103 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 monkas.com.tr，语言 tr，快照状态 ok；角色判定来源：待核；第 103 批：安防网店 + 自行进口（海关记录 99 条）→ **采购型 small / 分销 20%；一页纸**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 网络产品网店
 - **触达通道（公开）**：role: 安防/网络网店（土耳其）；region: 土耳其；contact: murat@monkas.com.tr
@@ -187,7 +203,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Murat | — | murat@monkas.com.tr | 调研核实（公开页） | 用户表 |
+| Murat | 研究档 KP（职务未核；安卡拉网店）= 收件人（第 103 批 官方登记核实 2026-10-28） | murat@monkas.com.tr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

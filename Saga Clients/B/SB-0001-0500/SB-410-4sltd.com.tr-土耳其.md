@@ -83,6 +83,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 103 批（TR · 1 次检索：官网首页 / Hakkımızda（4S Elektrik Elektronik Telekominikasyon İleri Teknoloji Ar & Ge Ltd. Şti.；İzmir；Thorguard / Secty / Dinnteco / Redlion Türkiye Satış；Roketsan、Aselsan 参考）+ redlion.net Distributor Locator（4s Elektrik Elektronik Telekominikasyon İth. İhr. Paz. Tic. Ltd. Şti.；Halkapınar Mahallesi 1203/5 İkiz Çarşı 2 Apt. No:3 B/B, Konak, İzmir 35170；info@4sltd.com.tr；+90 532 218 09 65）+ 官网 Contact（+90 850 223 47 62 PBX；4steknolojiltd@gmail.com）+ Elektrikport 签约采访（Thor Guard 美国品牌代理），2026-10-28 查；https://tst.redlion.net/distributors/4s-elektrik-elektronik-telekominikasyon-th-hr-paz-tic-ltd-ti）：**
+
+- 法定名 / 登记号：4S Elektrik Elektronik Telekomünikasyon İleri Teknoloji Ar-Ge Ltd. Şti.（Red Lion 名录作「4s Elektrik Elektronik Telekominikasyon İth. İhr. Paz. Tic. Ltd. Şti.」；4sltd.com.tr；**伊兹密尔 Konak**）— **Red Lion Controls 官方分销** + Thor Guard 雷电预警 / Secty / Dinnteco / Meteorage / Joslyn Clark / K-Surge 土耳其销售；行业：矿业、石化、港口海事、可再生能源、机场、国防（Roketsan / Aselsan 参考 → 守界）；研究档无 KP · Ltd. Şti.（İzmir 商事登记；MERSİS 未取；两种商号写法） · 状态 **Active（Red Lion 官方名录 2024；站点在线）** · 成立 未取 · Limited Şirket（私有）
+- 行业码 / 经营范围：电气 / 电子材料销售与代理（Red Lion 工业自动化与网络、Thor Guard 雷电预警、浪涌保护、电机控制）；行业：矿业、石化、港口、能源、机场、国防
+- 注册地址：Halkapınar Mah. 1203/5 Sok. İkiz Çarşı 2 Apt. No:3 B/B, 35170 Konak / İzmir
+- 规模档：小微（推定 <10 人）
+- 账目：—；—
+- 高管：无具名（研究档无 KP；info@ / Gmail）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Red Lion 官方分销（工业交换机线被占）+ 国防参考 → 守界、低概率** → **分销 20% 一页纸即止**：STI-054GP / STI-144GP / STI-0240GE 作矿业 / 港口 / 能源客户的入门价位（不碰国防、不点名 Red Lion）；不加厚；无回复 → `不动`
+  - 收件人 info@ 点名 satış müdürü；表内无跟进 → 首信一页纸；发信窗口 Thu 10–12 TRT；城市 = 伊兹密尔
+- 备注：分销 20% 低概率（Red Lion + 国防守界）；一页纸后不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,8 +137,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 4sltd.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | 4S Elektrik Elektronik Telekomünikasyon İleri Teknoloji Ar-Ge Ltd. Şti.（Red Lion 名录：4s Elektrik Elektronik Telekominikasyon İth. İhr. Paz. Tic. Ltd. Şti.；İzmir Konak） |
+| 总部/地址 | 伊兹密尔 Konak（Halkapınar Mah. 1203/5 Sok. İkiz Çarşı 2 Apt. No:3 B/B）（第 103 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 4sltd.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 103 批：Red Lion Controls 官方分销 + Thor Guard 代理；国防参考（守界）→ **分销 20% 低概率；一页纸后不动**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气 / 电子材料销售与代理（土耳其）
 - **触达通道（公开）**：role: 电气/工业网络分销商（土耳其，Red Lion 代理）；region: 土耳其；contact: info@4sltd.com.tr、4steknolojiltd@gmail.com

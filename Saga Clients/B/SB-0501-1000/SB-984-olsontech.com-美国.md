@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,6 +88,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 103 批（US · 1 次检索：官网 company.html（「Antronix of California, (Olson Technology Division) is a privately held corporation」；CATV 头端产品经分销渠道；OEM 射频设备设计制造；总部 Sierra Village CA，Sonora 收发）+ ZoomInfo（Olson Technology, Inc. 1985-07 成立；Thomas Olson Owner-President；工程实验室 Greenback, Tennessee）+ LinkedIn（Olson Technology Division；11–50；Mi-Wuk Village CA；1984；Thomas Olson Owner-President 1985 起）+ leadiq / prospeo（24926 Highway 108, Mi-Wuk Village, CA 95346；SIC 3663；11–20 人）+ explorium（Sue Olson — Owner and Vice President）+ Crunchbase（Legal Name Olson Technology, Inc.）；CA SoS 号未取，2026-10-28 查；http://www.olsontech.com/company.html）：**
+
+- 法定名 / 登记号：Olson Technology, Inc.（现「Antronix of California（Olson Technology Division）」；olsontech.com；Sierra Village / Mi-Wuk Village, California）— 1985-07 成立的 CATV / FTTH / L-Band 光纤与射频头端设备设计制造商（LaserPlus 光发射机、EDFA、EdgePON、edgeswitch；OEM 射频设计）；Owner-President Thomas R. Olson（1961 年起从业）；11–50 人；群发 11 次无回复 · CA 公司（SoS 号未取）；现为 Antronix of California 的 Olson Technology Division · 状态 **Active（已并入 Antronix 体系）** · 成立 1985-07 · Corporation（私有；Olson 夫妇；Antronix 关联）
+- 行业码 / 经营范围：CATV / FTTH / L-Band 光纤与射频头端设备设计制造（光发射机、EDFA、PON、调制解调；OEM 射频设计）
+- 注册地址：24926 Highway 108, Mi-Wuk Village (Sierra Village), CA 95346（Sonora CA 收发；Greenback TN 工程）
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Thomas R. Olson — Owner-President（1985 起）
+- 高管：Sue Olson — Owner / Vice President
+- 高管：Jerry Thorne — 员工（LinkedIn）
+- 控制人 / 股东：Olson 夫妇 / Antronix
+- 曾用名：Olson Technology, Inc.（现 Antronix of California – Olson Technology Division）
+- **这意味着什么：**
+  - **自产光设备制造商，以太网交换机 / MC 为边角配套 + 群发 11 次无回复** → **贴标 small：一页纸最后一次后 `when=不动`**（edgeswitch 一类入门交换机可挂其标：STC-028GP / STC-228GP / STI-144GP）
+  - 收件人 sales@ 点名 Owner-President Thomas Olson；发信窗口 Wed 08–10 PT
+- 备注：贴标 small；一页纸一次后不动；11 次无回复。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,14 +137,17 @@ updated: 2026-10-27
 - **【用户表】MC WDM 模块 光产品**
   > MC WDM模块 光产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Thomas R. Olson（Owner-President（1985 起；现 Antronix of California – Olson Technology Division）= 收件人（经 sales@）（第 103 批 官方登记核实 2026-10-28）） 〔http://www.olsontech.com/company.html〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Olson Technology, Inc.（现 Antronix of California, Olson Technology Division；私有） |
+| 成立 | 1985-07（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 olsontech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 olsontech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 103 批：Mi-Wuk Village CA CATV / FTTH 光设备制造商，交换机为边角配套；群发 11 次无回复 → **贴标 small：一页纸最后一次后不动**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CATV / PON 光设备（EDFA、光发射机）；edgeswitch / MC
 - **触达通道（公开）**：role: CATV/PON 光设备商（美国，MC 为副线）；region: 美国；contact: sales@olsontech.com
@@ -219,7 +239,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@olsontech.com | 用户表原值 | Clients/ 表 |
+| Thomas R. Olson | Owner-President（1985 起；现 Antronix of California – Olson Technology Division）= 收件人（经 sales@）（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | http://www.olsontech.com/company.html |
 
 - **通道建议**：邮件已推送 11 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -255,7 +275,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；已推送 11 次无回复，邮件通道疲劳
+- **W**：已推送 11 次无回复，邮件通道疲劳
 - **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -272,7 +292,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -288,7 +308,7 @@ updated: 2026-10-27
 **主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
 
 ```text
-Hello,
+Hi Thomas,
 
 Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 28 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the media converters and edge switches you offer alongside your optical transmitters and EDFAs, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which Ethernet SKU do your integrator customers order most?
 
@@ -313,12 +333,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

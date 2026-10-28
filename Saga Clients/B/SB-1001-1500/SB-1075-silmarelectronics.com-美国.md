@@ -91,6 +91,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 103 批（US · 1 次检索：Sunbiz（SILMAR ELECTRONICS, INC.；Florida Profit Corporation；Document 275645；FEI 59-1028324；Date Filed 1963-11-13；ACTIVE；Principal 3405 NW 113th Court, Miami, FL 33178）+ intercreditreport（注册代理 Smith, Jorge E.；President / Director Jorge E. Smith；Chairman Carlos J. Smith）+ 官网 About（1963 Jorge M. Smith 创办；1968 转批发；1974 停安装专注批发；1986 Ft. Myers 首个外地网点；President and CEO Jorge Smith）+ Security Systems News 2023（60 周年；9 个网点；CEO Jorge Smith Jr.）+ LinkedIn（1963；51–200；Doral FL；Self-Owned）+ FMCSA SAFER（法定名 SILMAR ELECTRONICS INC；(305) 513-0484），2026-10-28 查；https://search.sunbiz.org/Inquiry/CorporationSearch/ByName）：**
+
+- 法定名 / 登记号：Silmar Electronics, Inc.（silmarelectronics.com；Miami / Doral, Florida）— 1963-11-13 成立的美国最大独立电子安防分销商之一（CCTV / IP / 门禁 / 消防 / 音视频 / 家庭自动化；9 个网点；古巴裔 Smith 家族二代）；FL Sunbiz **275645**；President & CEO Jorge E. Smith（Jr.），Chairman Carlos J. Smith；51–200 人；研究档仅 marketing@ · FL Sunbiz 275645 · FEI 59-1028324 · 状态 **ACTIVE** · 成立 1963-11-13 · Florida Profit Corporation（私有；Smith 家族）
+- 行业码 / 经营范围：电子安防 / 低压设备批发分销（CCTV、IP、门禁、消防、A/V、中央吸尘、家庭自动化；9 个网点，面向安装商）
+- 注册地址：3405 NW 113th Court, Miami (Doral), FL 33178
+- 规模档：中型（51–200 人；9 网点）
+- 账目：—；—
+- 高管：Jorge E. Smith — President & CEO / 注册代理（二代）
+- 高管：Carlos J. Smith — Chairman
+- 控制人 / 股东：Smith 家族
+- **这意味着什么：**
+  - **美国最大独立安防分销商之一（表内「PoE 分销」）→ 分销 20%，B BIG，低中概率但一旦入线量大**：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM（安装商渠道 PoE 全档）；一页纸 + 产品线卡 + 供应商准入资料，加厚一次
+  - 收件人改 purchasing / vendor 入口（marketing@ 非采购）点名 President & CEO Jorge Smith；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 ET；升 A 次候选
+- 备注：分销 20%；B BIG；加厚一次；大分销商准入。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,14 +132,17 @@ updated: 2026-10-28
 - **【用户表】CCTV 相关都卖 PoE 分销**
   > CCTV相关的都卖 POE分销
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Jorge E. Smith（President & CEO（二代；FL 注册代理）= 拍板人；收件人改 purchasing / vendor 入口（第 103 批 官方登记核实 2026-10-28）） 〔https://search.sunbiz.org/Inquiry/CorporationSearch/ByName〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Silmar Electronics, Inc.（FL Sunbiz 275645；FEI 59-1028324；ACTIVE） |
+| 成立 | 1963-11-13（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 silmarelectronics.com，语言 ?，快照状态 http_error；角色判定来源：用户表 |
+| 其他 | 官网 silmarelectronics.com，语言 ?，快照状态 http_error；角色判定来源：用户表；第 103 批：Miami / Doral FL 美国最大独立安防分销商之一（9 网点；51–200 人）→ **分销 20%，B BIG，加厚一次；升 A 次候选**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 安防产品分销（美国）
 - **触达通道（公开）**：role: 安防分销商（美国，PoE 分销）；region: 美国；contact: marketing@silmarelectronics.com
@@ -172,7 +190,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | marketing@silmarelectronics.com | 用户表原值 | Clients/ 表 |
+| Jorge E. Smith | President & CEO（二代；FL 注册代理）= 拍板人；收件人改 purchasing / vendor 入口（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://search.sunbiz.org/Inquiry/CorporationSearch/ByName |
 
 - **通道建议**：企业邮箱可直发
 
@@ -207,7 +225,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -224,7 +242,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

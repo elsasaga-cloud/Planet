@@ -81,6 +81,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 103 批（DE · 1 次检索：companyhouse.de（Pan Dacom Direkt GmbH；Dreieich Plaza 1B, 63303 Dreieich；HRB 35050 Amtsgericht Offenbach am Main；Eintragung 2002-10-17；Kapital 150.000 €；USt-ID DE813529743；GF Dirk Bachmann 2002-10-17 起；Prokuristen Jörg Elsässer、**Markus Förster**、Slavka Geuligova、Christina Jilly、Dr. Melanie Martina Stähler；最后变更 2026-03-10）+ Northdata（HRB 35050；LEI 529900QZSNZ1ZE3HYA38；2002-12-17 登记 GF Dirk Bachmann / Thomas Seel）+ implisense（成立 2002-09-01）+ pandacom.de Impressum（Pan Dacom Networking AG HRB 34647；Vorstand Dirk Bachmann / Thomas Klein）+ finanznachrichten 2022-01（Direkt GmbH 收购 Networking AG 多数股权），2026-10-28 查；https://www.companyhouse.de/Pan-Dacom-Direkt-GmbH-Dreieich）：**
+
+- 法定名 / 登记号：Pan Dacom Direkt GmbH（pandacomdirekt.de；Dreieich bei Frankfurt）— 2002 年成立的传输网络设备开发商 + 系统集成商（WDM SPEED-OTS-5000「Made in Germany」、微波、收发器、加密；2022-01 收购 Pan Dacom Networking AG 多数股权，合称「德国唯一自研软硬件的 IT 系统集成商」）；HRB 35050 Offenbach；GF Dirk Bachmann（2002 起）；**研究档 KP Markus Förster = Prokurist（总代理权人）** · HRB 35050 Amtsgericht Offenbach am Main · USt-ID DE813529743 · LEI 529900QZSNZ1ZE3HYA38 · 状态 **Active（2026-03 登记变更）** · 成立 2002-10-17（成立 2002-09-01） · GmbH（私有；控股 Pan Dacom Networking AG）
+- 行业码 / 经营范围：传输网络设备自研与销售（WDM、微波、光收发器、加密）+ 企业 / 运营商 / 数据中心网络系统集成（经 Networking AG）
+- 注册地址：Dreieich Plaza 1B, 63303 Dreieich
+- 规模档：中型（集团 ≈200+ 人；推定）
+- 账目：股本 150,000 €（营收未取）；—
+- 高管：Dirk Bachmann — Geschäftsführer（2002 起；兼 Networking AG Vorstandsvorsitzender）
+- 高管：Markus Förster — Prokurist = **研究档 KP 本人**
+- 高管：Jörg Elsässer / Slavka Geuligova / Christina Jilly / Dr. Melanie Stähler — Prokuristen
+- 控制人 / 股东：Dirk Bachmann 体系（推定）
+- **这意味着什么：**
+  - **自研传输设备 + 系统集成（同行色彩重；自带交换机线经 Networking AG）→ 低概率** → **一页纸即止，无回复 `不动`**：切口 = 「projects where a value L2+ PoE edge is needed beside your WDM/transport」STC-2224GP / STC-424XGGPM-280W；不加厚；不点名其产品
+  - 收件人 foerster@ 点名 Prokurist Markus Förster；表内无跟进 → 首信一页纸；发信窗口 Thu 12–14 CET
+- 备注：低概率（同行 / 系统集成）；一页纸后不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,15 +130,18 @@ updated: 2026-10-28
 - **【用户表】WDM SFP Switch 等**
   > Networking / WDM 讲解比较专业 / WDM SFP Switch等
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Markus Förster（）foerster@pandacomdirekt.de 〔用户表〕
+- **KP**：Markus Förster（Prokurist（总代理权人，companyhouse.de 登记）= 收件人本人（第 103 批 官方登记核实 2026-10-28））foerster@pandacomdirekt.de 〔用户表〕
+- **KP**：Dirk Bachmann（Geschäftsführer（2002 起；兼 Pan Dacom Networking AG Vorstandsvorsitzender）= 拍板人（第 103 批 官方登记核实 2026-10-28）） 〔https://www.companyhouse.de/Pan-Dacom-Direkt-GmbH-Dreieich〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Pan Dacom Direkt GmbH（HRB 35050 Amtsgericht Offenbach am Main；USt-ID DE813529743；LEI 529900QZSNZ1ZE3HYA38） |
+| 成立 | 2002-10-17（成立 2002-09-01）（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 pandacomdirekt.de，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 pandacomdirekt.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 103 批：自研传输设备 + 系统集成（控股 Pan Dacom Networking AG）→ **低概率；一页纸即止后不动**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：WDM / 微波 / 传输网络方案
 - **触达通道（公开）**：role: 传输网络系统商（德国，WDM 自研；交换机为配套）；region: 德国；contact: foerster@pandacomdirekt.de、foerster@pandacom.de
@@ -209,7 +228,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Markus Förster | — | foerster@pandacomdirekt.de | 调研核实（公开页） | 用户表 |
+| Markus Förster | Prokurist（总代理权人，companyhouse.de 登记）= 收件人本人（第 103 批 官方登记核实 2026-10-28） | foerster@pandacomdirekt.de | 调研核实（公开页） | 用户表 |
+| Dirk Bachmann | Geschäftsführer（2002 起；兼 Pan Dacom Networking AG Vorstandsvorsitzender）= 拍板人（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.companyhouse.de/Pan-Dacom-Direkt-GmbH-Dreieich |
 | Markus Foerster | — | foerster@pandacomdirekt.de / foerster@pandacom.de / +4915158023153 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

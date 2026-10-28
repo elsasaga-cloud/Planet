@@ -90,6 +90,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 103 批（TR · 1 次检索：官网首页（MCS Factory Digitalization Endüstriyel Bil.Tek.Ltd.Şti.；Armağanevler Mah. Mithatpaşa Cad. No:148/13 34760 Ümraniye - İstanbul；0216 505 0 701；info@mfd.com.tr；© 2026）+ CodeMaster 页（Siemens çözüm ortağı ve Endüstri 4.0 partneri）+ RocketReach（2016 成立；4 人；Mustafa Cimic — Project Manager；Nazım Ergül — Software and Automation Engineer）+ Facebook 页 + mfdstore.com（同法定名、同址）；同名 MFD Yazılım（Tuzla）/ MFD Akaryakıt / MFD İnşaat = 他家，不采，2026-10-28 查；http://www.mfd.com.tr/）：**
+
+- 法定名 / 登记号：MCS Factory Digitalization Endüstriyel Bilişim Teknolojileri Ltd. Şti.（MFD / MCS Otomasyon；mfd.com.tr / mfdstore.com；伊斯坦布尔 Ümraniye）— 2016 年成立的工厂数字化 / 工业 4.0 小型集成商（Siemens 解决方案伙伴：S7-1500 交钥匙、CodeMaster 生产效率平台、SCADA、RF200/300/600；MFD Store 网店）；≈4 人；**KP Mustafa Cimic = Project Manager** · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · 状态 **Active（2026 版权）** · 成立 2016 · Limited Şirket（私有）
+- 行业码 / 经营范围：工厂数字化 / 工业 4.0 系统集成（Siemens PLC / SCADA / MES 数据平台 CodeMaster、工业网络）+ 网店 MFD Store
+- 注册地址：Armağanevler Mah. Mithatpaşa Cad. No:148/13, 34760 Ümraniye / İstanbul
+- 规模档：小微（≈4 人）
+- 账目：第三方 $3M（仅作区间）；—
+- 高管：Mustafa Cimic — Project Manager = 研究档 KP 本人
+- 高管：Nazım Ergül — Software and Automation Engineer
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **4 人 Siemens 伙伴 SI（项目制、工业网络 Scalance 预算型）→ 集成商 25% small，一页纸即止**：STI-054GP / STI-144GP / STI-288DGGPM（Scalance 之外的边缘点位价位）；不加厚
+  - 收件人 info@ 点名 Project Manager Mustafa Cimic；表内无跟进 → 首信一页纸；发信窗口 Thu 10–12 TRT
+- 备注：集成商 25% small；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -137,15 +152,17 @@ updated: 2026-10-28
 - **【用户表】工业以太网 工业控制**
   > 工业以太网 工业控制
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mustafa Cimic（）info@mfd.com.tr 〔用户表〕
+- **KP**：Mustafa Cimic（Project Manager（MCS Factory Digitalization）= 收件人本人（第 103 批 官方登记核实 2026-10-28））info@mfd.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MCS Factory Digitalization Endüstriyel Bilişim Teknolojileri Ltd. Şti.（MFD；İstanbul Ümraniye） |
+| 成立 | 2016（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 mfd.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 mfd.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表；第 103 批：4 人 Siemens 伙伴 SI（CodeMaster 平台）→ **集成商 25% small；一页纸即止**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工厂数字化 / 工业 4.0 / SCADA 集成（土耳其）
 - **触达通道（公开）**：role: 工业自动化/数字化集成商（土耳其）；region: 土耳其；contact: info@mfd.com.tr
@@ -233,7 +250,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mustafa Cimic | — | info@mfd.com.tr | 调研核实（公开页） | 用户表 |
+| Mustafa Cimic | Project Manager（MCS Factory Digitalization）= 收件人本人（第 103 批 官方登记核实 2026-10-28） | info@mfd.com.tr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

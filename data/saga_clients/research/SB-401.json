@@ -45,7 +45,14 @@
    "title": "CEO",
    "email": "jason@securasound.co.uk",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "General Manager（家族二代；实际经营）= 收件人本人（第 103 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Philip Anthony John Wainwright",
+   "role": "Managing Director / Director / PSC（创办人；b. 1946-06）= 拍板人（第 103 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/02111547/officers"
   }
  ],
  "grade_override": null,
@@ -57,7 +64,9 @@
  },
  "company_facts": {
   "hq": "英国",
-  "other": "官网 securasound.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 securasound.co.uk，语言 en，快照状态 ok；角色判定来源：用户表；第 103 批：Whitchurch, Shropshire 微型安装商分销（2–10 人；<£1M）→ **分销 20% small；一页纸**（第 103 批 官方登记核实 2026-10-28）",
+  "legal_name": "SECURASOUND LIMITED（CH 02111547；VAT 453682634；Active；Micro）",
+  "founded": "1987-03-17（第 103 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "CCTV / 门禁 / 门口对讲分销（英国）"

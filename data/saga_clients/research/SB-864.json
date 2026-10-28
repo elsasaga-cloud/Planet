@@ -46,14 +46,16 @@
    "title": "Head of Purchasing and Logistics",
    "email": "info@dacel.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（经 info@；职务未核）= 抄送（第 103 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Erkan Cirit",
    "title": "Shareholder",
    "email": "ecirit@dacel.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核）= 收件人（第 103 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Ali Icoez",
@@ -72,7 +74,9 @@
  },
  "company_facts": {
   "hq": "土耳其",
-  "other": "官网 dacelsolutions.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 dacelsolutions.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 103 批：工业自动化分销 + 交钥匙集成（Belden Preferred Partner 2010 起 = Hirschmann 线被占）+ 弱电 → **集成商 25%，弱电侧切入；一页纸**（第 103 批 官方登记核实 2026-10-28）",
+  "legal_name": "DAC-EL Elektrik Elektronik Mühendislik Sistemleri San. ve Tic. Ltd. Şti.（DACEL Mühendislik；İstanbul Esenler + Ataşehir）",
+  "founded": "1995（第 103 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业控制与自动化产品销售/服务",

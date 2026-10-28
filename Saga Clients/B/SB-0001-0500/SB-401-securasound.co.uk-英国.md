@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,6 +84,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 103 批（GB · 1 次检索：Companies House（SECURASOUND LIMITED 02111547；Private limited Company；Incorporated 1987-03-17；Active；Registered office Thornlea, 165 Wrexham Road, Whitchurch, Shropshire SY13 1JG；Officers Philip Anthony John Wainwright Director b. 1946-06 / Susan Olga Wainwright Director & Secretary b. 1948-06，均 1992-06-14 前任职）+ companycheck（SIC 80200；3 officers）+ Endole（Micro；turnover <£1M；PSC Philip A. J. Wainwright；2 shareholders）+ 官网 About（1987 年由现任 MD Philip Wainwright 创办；Company Number 2111547；VAT 453682634；通信寄 Trading Address）+ LinkedIn（security equipment distributor；The Hollies, Chester Road, Whitchurch SY13 1LZ；2–10；Jason Wainwright — General Manager）+ Kompass（0–9 人；MD Philip Wainwright），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/02111547）：**
+
+- 法定名 / 登记号：SECURASOUND LIMITED（securasound.co.uk；Whitchurch, Shropshire）— 1987-03-17 成立的面向安装商的微型安防设备分销商（CCTV、门禁、门口对讲「Soul」2 线套件；医疗 / 教育 / 住宅）；CH **02111547**；MD / PSC Philip Anthony John Wainwright（b. 1946-06）+ Susan Olga Wainwright（Director / Secretary）；**研究档 KP Jason Wainwright = General Manager（家族二代）**；2–10 人，营收 <£1M；VAT 453682634 · CH 02111547 · VAT 453682634 · 状态 **Active** · 成立 1987-03-17 · Private limited company（Wainwright 家族）
+- 行业码 / 经营范围：80200 Security systems service activities（实际：面向安装商的 CCTV / 门禁 / 对讲设备分销；Kompass 另列 26400）
+- 注册地址：Reg: Thornlea, 165 Wrexham Road, Whitchurch, Shropshire SY13 1JG；Trading: The Hollies, Chester Road, Whitchurch SY13 1LZ
+- 规模档：微型（2–10 人）
+- 账目：Micro（turnover <£1M）；—
+- 高管：Philip Anthony John Wainwright — Director / Managing Director / PSC（b. 1946-06；创办人）
+- 高管：Susan Olga Wainwright — Director / Company Secretary（b. 1948-06）
+- 高管：Jason Wainwright — General Manager = **研究档 KP 本人**（家族二代，实际经营）
+- 控制人 / 股东：Philip Anthony John Wainwright
+- **这意味着什么：**
+  - **微型安装商分销（CCTV + ONV PoE 在售）→ 分销 20% small**：STC-028GP / STC-228GP / STC-2216GP（对标其在售 ONV PoE 价；UKCA/CE）；一页纸；不加厚
+  - 收件人 jason@ 点名 General Manager Jason Wainwright；表内「可以多跟进一下」→ 二次触达换切口「a second PoE line beside your current one, DAP UK, MOQ 1」；发信窗口 Thu 12–14 GMT
+- 备注：分销 20% small；一页纸；KP = GM 本人。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,15 +143,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE ONV 的**
   > 主要是CCTV类产品 有商业PoE ONV的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jason Wainwright（）jason@securasound.co.uk 〔用户表〕
+- **KP**：Jason Wainwright（General Manager（家族二代；实际经营）= 收件人本人（第 103 批 官方登记核实 2026-10-28））jason@securasound.co.uk 〔用户表〕
+- **KP**：Philip Anthony John Wainwright（Managing Director / Director / PSC（创办人；b. 1946-06）= 拍板人（第 103 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/02111547/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SECURASOUND LIMITED（CH 02111547；VAT 453682634；Active；Micro） |
+| 成立 | 1987-03-17（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 英国 |
-| 其他 | 官网 securasound.co.uk，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 securasound.co.uk，语言 en，快照状态 ok；角色判定来源：用户表；第 103 批：Whitchurch, Shropshire 微型安装商分销（2–10 人；<£1M）→ **分销 20% small；一页纸**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 门禁 / 门口对讲分销（英国）
 - **触达通道（公开）**：role: 安防分销商（英国，PoE 现 ONV）；region: 英国；contact: info@securasound.co.uk、jason@securasound.co.uk
@@ -235,7 +254,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jason Wainwright | — | jason@securasound.co.uk | 调研核实（公开页） | 用户表 |
+| Jason Wainwright | General Manager（家族二代；实际经营）= 收件人本人（第 103 批 官方登记核实 2026-10-28） | jason@securasound.co.uk | 调研核实（公开页） | 用户表 |
+| Philip Anthony John Wainwright | Managing Director / Director / PSC（创办人；b. 1946-06）= 拍板人（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/02111547/officers |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -328,12 +348,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

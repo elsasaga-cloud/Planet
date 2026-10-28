@@ -41,8 +41,9 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 eu.com，语言 en，快照状态 ok；角色判定来源：待核"
+  "hq": "美国 Alpharetta, GA（980 Birmingham Rd. #721）— 研究档「德国」与 eu.com 域名均为误记（第 103 批 官方登记核实 2026-10-28）",
+  "other": "官网 eu.com，语言 en，快照状态 ok；角色判定来源：待核；第 103 批：工业通信 ASIC 供应商的 1 人美国销售点（上游同行；表内「3 旺工业 FS」为误记）→ **不动，不发信**（第 103 批 官方登记核实 2026-10-28）",
+  "legal_name": "profichip USA, Inc.（Alpharetta, GA；母体 profichip GmbH Herzogenaurach，2012 起属 Yaskawa Europe GmbH；GA 号未取）"
  },
  "business_lines": [
   "工业网络产品分销（Profichip USA）"
@@ -115,5 +116,6 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "美国"
 }

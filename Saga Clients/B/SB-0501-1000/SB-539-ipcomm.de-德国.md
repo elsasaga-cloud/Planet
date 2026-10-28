@@ -79,6 +79,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 103 批（DE · 1 次检索：官网 Imprint（IPCOMM GmbH；Managing Director Artur Votteler；Walter-Bouhon-Straße 4, 90427 Nuremberg；+49 911 18 07 91-0；Amtsgericht Nürnberg HRB 31759；USt-IDNr. DE813859506）+ 官网 About Us（2004 年初成立；工业网关与网间通信方案；20 年）+ Northdata（2004-01-05 登记，GF Artur Votteler，Kapital 25.000 €，Sitz Erlangen → 2015-05 迁 Nürnberg）+ Creditsafe（HRB 31759 beim Amtsgericht Nürnberg）+ UCAIug IEC 61850 证书 #2059（ipConv Gateway）+ Smart Grid Forums 2023 展商，2026-10-28 查；https://www.ipcomm.de/article/Impressum/en/sheet.html）：**
+
+- 法定名 / 登记号：IPCOMM GmbH（ipcomm.de；纽伦堡 — 非 Ebermannstadt）— 2004-01 成立的工业协议网关 / 变电站通信产品开发商（ipConv 网关：IEC 61850 / IEC 60870-5-101/104 / DNP3 等协议转换；能源 / 水 / 燃气公用事业交钥匙方案；工作坊培训）；HRB 31759 Nürnberg；GF Artur Votteler；小型企业；群发 8 次无回复 · HRB 31759 Amtsgericht Nürnberg · USt-ID DE813859506 · 状态 **Active（2023 展会、2025 implisense 在册）** · 成立 2004-01-05 · GmbH（私有）
+- 行业码 / 经营范围：工业通信协议网关 / 协议转换器开发与销售（能源、水、燃气 SCADA 通信；IEC 61850 认证产品）+ 交钥匙通信方案 + 培训
+- 注册地址：Walter-Bouhon-Straße 4, 90427 Nürnberg
+- 规模档：小型（自称中型；推定 10–30 人）
+- 账目：股本 25,000 €（营收未取）；—
+- 高管：Artur Votteler — Geschäftsführer（2004 起）
+- 控制人 / 股东：Artur Votteler（推定）
+- 曾用名：Sitz Erlangen（2004–2015）
+- **这意味着什么：**
+  - **网关制造商，交钥匙方案里的交换机多为变电站级（IEC 61850-3 / IEC 61850 咱们不能声称）→ 守界 + 8 次无回复** → **一页纸即止后 `不动`**：仅提「non-substation edge / office side」STI-144GP / STC-228GP；不加厚
+  - 收件人 info@ 点名 GF Artur Votteler；表内「可以着重跟一下」但 8 次群发无回复 → 二次触达一次换切口；发信窗口 Thu 12–14 CET；城市改纽伦堡
+- 备注：低概率（IEC 61850 守界；8 次无回复）；一页纸后不动；城市 = 纽伦堡。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,14 +135,17 @@ updated: 2026-10-28
 - **【用户表】商业 PoE 工业 FS 比较专业；着重跟**
   > 商业POE 工业FS等 比较专业；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Artur Votteler（Geschäftsführer（2004 起）= 收件人（经 info@）（第 103 批 官方登记核实 2026-10-28）） 〔https://www.ipcomm.de/article/Impressum/en/sheet.html〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 ipcomm.de，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | IPCOMM GmbH（HRB 31759 Amtsgericht Nürnberg；USt-ID DE813859506） |
+| 成立 | 2004-01-05（第 103 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 纽伦堡（Walter-Bouhon-Straße 4, 90427 Nürnberg；2015 前 Erlangen）（第 103 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 ipcomm.de，语言 en，快照状态 ok；角色判定来源：官网文案；第 103 批：协议网关制造商（IEC 61850 方案 = 咱们守界）+ 8 次无回复 → **低概率；一页纸即止后不动**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：能源自动化协议网关 / SCADA 通信
 - **触达通道（公开）**：role: 能源自动化通信方案商（德国，仅民用口径）；region: 德国；contact: info@ipcomm.de
@@ -219,7 +237,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@ipcomm.de | 用户表原值 | Clients/ 表 |
+| Artur Votteler | Geschäftsführer（2004 起）= 收件人（经 info@）（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.ipcomm.de/article/Impressum/en/sheet.html |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -288,7 +306,7 @@ updated: 2026-10-28
 **主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Artur,
 
 Some time ago you had a product mail from us - "Industrial PoE Switch" on 24 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches you combine with your IEC 61850 and IEC 101/104 gateways in energy-automation cabinets, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units — which configuration do your substation projects use most?
 

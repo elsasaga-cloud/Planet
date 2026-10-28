@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 103 批（DE · 1 次检索：官网 Impressum（Dipl. Ing. (FH) Peter Götz；Mühlweg 6, 69253 Heiligkreuzsteinach；06220 / 922222；Peter@Goetz-Automation.de；Geschäftsführer Peter Götz；USt-ID DE 216 371 896；Kammer IHK Rhein-Neckar；Stundensatz 79 €/h）+ 官网 Leistungen1（「Götz Automation ist ein 1Mann Ing. Büro」）+ cylex（同址同人）；无 HRB（自由职业 / 个体，不登记），2026-10-28 查；http://www.goetz-automation.de/Impressum.htm）：**
+
+- 法定名 / 登记号：Götz Automation — Dipl.-Ing. (FH) Peter Götz（goetz-automation.de；Heiligkreuzsteinach, Baden-Württemberg）— **一人工程师事务所**（自述「1Mann Ing. Büro」：机器与工业设备自动化设计、SPS 编程、可视化、驱动技术；时薪 79 €）；USt-ID DE216371896；IHK Rhein-Neckar；站点 2007 年版；2008 年阿里巴巴 RFQ 10 台 · 个体 / 自由职业工程师（无 HRB）· USt-ID DE216371896 · 状态 **Active（站点在线；内容 2007 年版）** · 成立 未取 · Einzelunternehmen / Freiberufler（Dipl.-Ing. (FH) Peter Götz）
+- 行业码 / 经营范围：工业自动化工程服务（设计、SPS 编程、可视化、驱动技术、文档、调试）—— 一人事务所
+- 注册地址：Mühlweg 6, 69253 Heiligkreuzsteinach
+- 规模档：一人
+- 账目：—；—
+- 高管：Peter Götz — Inhaber / Dipl.-Ing. (FH) = 研究档 KP 本人
+- 控制人 / 股东：Peter Götz
+- **这意味着什么：**
+  - **一人工程师事务所，2008 年一次 10 台 RFQ 后无交集 → 采购型 micro → `不动`**（项目来了会自己找；不值 Simon 时间）
+  - 若其主动来询：STI-054GP / STI-144GP 单台报价即可（25%）
+- 备注：不动（一人事务所；2008 RFQ）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,15 +123,16 @@ updated: 2026-10-28
 - **【用户表】10 台升压 5 口 RFQ 2008**
   > 2008年使用国际站 / 10台升压5口 / from: 阿里巴巴RFQ；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Peter Goetz（）peter@goetz-automation.de 〔用户表〕
+- **KP**：Peter Goetz（Inhaber / Dipl.-Ing. (FH)（一人工程师事务所）（第 103 批 官方登记核实 2026-10-28））peter@goetz-automation.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Götz Automation — Dipl.-Ing. (FH) Peter Götz（Einzelunternehmen；无 HRB；USt-ID DE216371896；IHK Rhein-Neckar） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 goetz-automation.de，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 goetz-automation.de，语言 ?，快照状态 ok；角色判定来源：官网文案；第 103 批：自述「1Mann Ing. Büro」；2008 一次 10 台 RFQ 后无交集 → **不动**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：机器 / 工业设备自动化工程（德国）
 - **触达通道（公开）**：role: 自动化工程事务所（德国，机器网络配套）；region: 德国；contact: peter@goetz-automation.de
@@ -202,7 +217,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Peter Goetz | — | peter@goetz-automation.de | 调研核实（公开页） | 用户表 |
+| Peter Goetz | Inhaber / Dipl.-Ing. (FH)（一人工程师事务所）（第 103 批 官方登记核实 2026-10-28） | peter@goetz-automation.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

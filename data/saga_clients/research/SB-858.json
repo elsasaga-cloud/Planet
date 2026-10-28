@@ -32,7 +32,8 @@
    "title": "",
    "email": "info@areskom.com.tr",
    "phone": "+90 216 428 78 78",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "通用信箱（另有 satis@areskom.com.tr）= 收件人点名 satış müdürü（第 103 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -43,11 +44,11 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Areskom İletişim Ltd. Şti.",
-  "founded": "2004",
+  "legal_name": "Areskom İletişim Sistemleri Tic. Ltd. Şti.（İstanbul Üsküdar；MERSİS 未取）",
+  "founded": "2004（第 103 批 官方登记核实 2026-10-28）",
   "hq": "Istanbul (Anadolu), Türkiye",
   "size": "中小型工业通信分销",
-  "other": "Westermo 土耳其渠道"
+  "other": "Westermo 土耳其渠道；第 103 批：Westermo 土耳其官方分销 + 轨交展商（守界）→ **分销 20% 低概率；一页纸即止**（第 103 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业通信 / 控制产品分销"

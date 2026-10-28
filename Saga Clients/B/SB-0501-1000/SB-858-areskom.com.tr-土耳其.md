@@ -85,6 +85,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 103 批（TR · 1 次检索：官网首页 / Hakkımızda（Kuruluş Yılı 2004；Altunizade Mh. Kısıklı Cd. No:35/1 Kat 1 Üsküdar / İSTANBUL；+90 216 428 78 78；2004-2026 Areskom İletişim Sistemleri Tic.）+ areskom.com（Areskom Communication LTD；Ataşehir Ata 2-3 Plaza 地址；Value Added Distributor since 2004）+ westermo.com Where to buy（Türkiye Distributor：Areskom Iletisim Sistemleri）+ Eurasia Rail 2025 展商（与 Westermo 同展位）+ 2. Rail Industry Show 公告 + all.biz / alo118（旧址 Muhittin Üstündağ Cad. No:23 Koşuyolu Kadıköy；satis@areskom.com.tr），2026-10-28 查；https://areskom.com.tr/）：**
+
+- 法定名 / 登记号：Areskom İletişim Sistemleri Tic. Ltd. Şti.（areskom.com.tr / areskom.com；伊斯坦布尔 Üsküdar）— 2004 年成立的工业通信增值分销商（**Westermo 土耳其官方分销**、Teltonika、Etic Telecom、Acromag、Lanner、Atop、Sena、Welotec、Systembase、Tektelic；轨交展商）；仅 info@ / satis@ · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · 状态 **Active（2026 版权；Westermo 官方分销名录）** · 成立 2004 · Limited Şirket（私有）
+- 行业码 / 经营范围：工业通信 / 数据通信增值分销（工业以太网、远程接入、M2M / LTE 路由、IoT；Westermo 主线）；行业：轨交、工厂自动化、油气、能源
+- 注册地址：Altunizade Mah. Kısıklı Cad. No:35/1 Kat 1, Üsküdar / İstanbul（另 Ataşehir Ata 2-3 Plaza B2 Blok No:6/59）
+- 规模档：小型（推定 10–30 人）
+- 账目：—；—
+- 高管：无具名（仅 info@ / satis@）
+- 控制人 / 股东：未取
+- 曾用名：旧址 Koşuyolu, Kadıköy
+- **这意味着什么：**
+  - **Westermo 官方分销 + 轨交重心 → 工业线被占、轨交守界** → **分销 20% 低概率，一页纸即止**：STI-054GP / STI-144GP / STI-288DGGPM 作其工厂自动化 / 油气客户的入门价位（不碰轨交、不点名 Westermo）；不加厚
+  - 收件人 satis@ 点名 satış müdürü；表内「仅 info@」→ 首信一页纸；发信窗口 Thu 10–12 TRT
+- 备注：分销 20% 低概率（Westermo + 轨交守界）；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,17 +140,17 @@ updated: 2026-10-28
 - **【用户表】很多有名的牌子；工业 MC FS 工业控制**
   > 兴趣：很多有名的牌子 工业MC FS 工业控制
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（未具名）（）info@areskom.com.tr +90 216 428 78 78〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（未具名）（通用信箱（另有 satis@areskom.com.tr）= 收件人点名 satış müdürü（第 103 批 官方登记核实 2026-10-28））info@areskom.com.tr +90 216 428 78 78〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Areskom İletişim Ltd. Şti. |
-| 成立 | 2004 |
+| 法定名称 | Areskom İletişim Sistemleri Tic. Ltd. Şti.（İstanbul Üsküdar；MERSİS 未取） |
+| 成立 | 2004（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Istanbul (Anadolu), Türkiye |
-| 其他 | Westermo 土耳其渠道 |
+| 其他 | Westermo 土耳其渠道；第 103 批：Westermo 土耳其官方分销 + 轨交展商（守界）→ **分销 20% 低概率；一页纸即止**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业通信 / 控制产品分销
 - **触达通道（公开）**：role: 工业分销商；region: 土耳其

@@ -1,6 +1,6 @@
 # eu.com
 
-> **评级 B**　|　德国　|　档案编号 `SB-753`　|　优先级 ★★　|　状态：已推送 10 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-753`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
 > **类型**：工业网络分销商（美国/德国待核，现三旺）（推断）　|　**历史关系**：推送 10 次（2025-02-11 → 2025-10-27）　|　**所在清单**：A优质名单(DE)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,8 +9,9 @@ code: SB-753
 rating: B
 rating_auto: B
 score: 32
-country: 德国
-region: 欧洲
+country: 美国
+country_table: 德国  # 表内原填；调研纠正为 美国（research JSON country_fix）
+region: 北美
 website: eu.com
 type: 工业网络分销商（美国/德国待核，现三旺）
 tier_tags: ["A优质名单(DE)"]
@@ -74,16 +75,31 @@ updated: 2026-10-28
 - `eu.com` → 印度 / 亚洲主机商邮箱（MX：mx-01.emailme.com）。主机商附带邮箱（印度 / 亚洲主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `profichipusa.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、aspmx2.googlemail.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（德国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
-- 窗口内无该国法定假日
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
+**公司底数 · 第 103 批（US · 1 次检索：官网首页 / Contact（profichip USA, Inc.；980 Birmingham Rd. #721, Alpharetta, GA 30004；+1 678 880-6910；info@profichipusa.com；库存自 Alpharetta 总部发货）+ 官网 About（profichip 为 Herzogenaurach 私有公司）+ LinkedIn profichip（2012 起属 Yaskawa Europe GmbH；Alpharetta Deerfield Pkwy 办公点）+ RocketReach（profichip USA, Inc.；2009；1 人；$6M 存疑）+ ZoomInfo（Alpharetta GA；ASIC 供应商）+ germanautomation.com（profichip 现为 Yaskawa 公司）；GA SoS 号未取，2026-10-28 查；https://profichipusa.com/）：**
+
+- 法定名 / 登记号：profichip USA, Inc.（profichipusa.com；Alpharetta, Georgia — **国家应为美国，研究档「德国」待核 → country_fix 美国**）— 德国 profichip GmbH（Herzogenaurach；2012 起属 Yaskawa Europe GmbH）的美国销售公司（工业通信 ASIC：PROFIBUS / PROFINET / EtherCAT 控制器、ANTAIOS 实时以太网芯片、开发板）；1 人（第三方）；2009 起；研究档「3 旺工业 FS」与 eu.com 域名为误记 · GA 公司（SoS 号未取）；母体 profichip GmbH（Yaskawa Europe） · 状态 **Active（站点在线）** · 成立 2009（第三方） · Corporation（Yaskawa 体系关联销售公司）
+- 行业码 / 经营范围：工业通信 ASIC / 嵌入式芯片与开发板销售（PROFIBUS、PROFINET、EtherCAT、Mechatrolink）
+- 注册地址：980 Birmingham Rd. #721, Alpharetta, GA 30004（邮箱套房）
+- 规模档：一人（美国销售点）
+- 账目：—；—
+- 高管：无具名（info@）
+- 控制人 / 股东：profichip GmbH / Yaskawa Europe GmbH
+- **这意味着什么：**
+  - **芯片供应商的 1 人美国销售点（上游同行，不买交换机；表内条目系误记）→ `不动`**；国家改美国，研究档域名 eu.com 误记一并注明
+  - 不发信
+- 备注：不动（芯片供应商；误记）；country_fix 美国。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | eu.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 德国 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | eu.com / profichipusa.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 工业网络分销商（美国/德国待核，现三旺） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以着重跟一下 | 事实（用户表） |
@@ -114,8 +130,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 eu.com，语言 en，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | profichip USA, Inc.（Alpharetta, GA；母体 profichip GmbH Herzogenaurach，2012 起属 Yaskawa Europe GmbH；GA 号未取） |
+| 总部/地址 | 美国 Alpharetta, GA（980 Birmingham Rd. #721）— 研究档「德国」与 eu.com 域名均为误记（第 103 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 eu.com，语言 en，快照状态 ok；角色判定来源：待核；第 103 批：工业通信 ASIC 供应商的 1 人美国销售点（上游同行；表内「3 旺工业 FS」为误记）→ **不动，不发信**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络产品分销（Profichip USA）
 - **触达通道（公开）**：role: 工业网络分销商（美国/德国待核，现三旺）；region: 德国；contact: info@profichipusa.com
@@ -238,7 +255,7 @@ updated: 2026-10-28
 
 ## SWOT
 
-- **S**：欧洲主攻区，复购与口碑可外溢
+- **S**：北美主攻区，复购与口碑可外溢
 - **W**：已推送 10 次无回复，邮件通道疲劳
 - **O**：P1 STI-280GE 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差

@@ -77,6 +77,24 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 103 批（DE · 1 次检索：eneo-security.com Impressum（eneo ist eine eingetragene Marke der VIDEOR E. Hartig GmbH；Carl-Zeiss-Straße 8, 63322 Rödermark；GF Lars Hagenlocher, Dominik Mizdrak；+49 6074 888-0；Amtsgericht Offenbach HRB 32047）+ implisense（成立 1987-08-23；Kapital 870.000 €；USt-ID DE113592980；LEI 529900I9XJZT6A9R6M34）+ Creditreform（HRB 32047；2025-03-18 变更：Hagenlocher, Lars Alexander *1995 任 GF；4 Prokuristen + 2 GF；2 Gesellschafter；Außenhandel）+ videor.com Facts（1975 Ernst Hartig 创办）+ protector.de / prosecurity.de 2025-04（Hagenlocher 为创办人之孙、三代股东，原 Aufsichtsratsvorsitzender）+ op-online 2025-06（50 周年）+ Northdata（曾用名 Videor Technical E. Hartig GmbH），2026-10-28 查；https://eneo-security.com/de/impressum）：**
+
+- 法定名 / 登记号：VIDEOR E. Hartig GmbH（videor.com / eneo-security.com；Rödermark bei Frankfurt）— 1975 年 Ernst Hartig 创办、1987-08-23 登记 GmbH 的专业视频与安防技术分销商（**自有品牌 eneo**：摄像机、NVR、**PoE 交换机 —— 表内「UTEPO 的」= eneo 交换机现由 UTEPO 代工**；外贸型）；HRB 32047 Offenbach；股本 870,000 €；GF Dominik Mizdrak（2021 起）+ Lars Alexander Hagenlocher（2025-03 起；创办人之孙、三代股东）；4 名 Prokuristen；群发 9 次无回复 · HRB 32047 Amtsgericht Offenbach am Main · USt-ID DE113592980 · LEI 529900I9XJZT6A9R6M34 · 状态 **Active（2025-03 登记变更；2025-06 50 周年）** · 成立 1987-08-23（公司 1975 创办） · GmbH（家族三代持股；股本 870,000 €）
+- 行业码 / 经营范围：专业视频 / 安防技术分销（自有品牌 eneo：摄像机、录像机、PoE 交换机、配件；第三方品牌；欧洲多国销售）+ 解决方案部门
+- 注册地址：Carl-Zeiss-Straße 8, 63322 Rödermark
+- 规模档：中型（推定 100–200 人）
+- 账目：股本 870,000 €（营收未取；推定 50–100 M€ 级）；—
+- 高管：Dominik Mizdrak — Geschäftsführer（2021 起）
+- 高管：Lars Alexander Hagenlocher — Geschäftsführer / 三代股东（2025-03 起）
+- 高管：Ina Hauck — Aufsichtsratsvorsitzende（2024 文件）
+- 高管：4 名 Prokuristen（姓名未取）
+- 控制人 / 股东：Hartig / Hagenlocher 家族
+- 曾用名：Videor Technical E. Hartig GmbH
+- **这意味着什么：**
+  - **自有品牌 eneo 已在卖贴标 PoE 交换机（现代工方 UTEPO）→ 贴标 OEM 30% 首选目标，B BIG，加厚**：切口 = 「a second-source managed PoE line under the eneo label — Marvell L2+ STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W + unmanaged STC-028GP / STC-228GP，CE/RoHS，3-year option，MOQ 1」；不点名 UTEPO；9 次群发无回复 → 二次触达必须换成产品经理路径
+  - 收件人改 eneo Produktmanagement / Einkauf 入口点名 GF Dominik Mizdrak（经营侧）；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）
+- 备注：贴标 OEM 30% 首选（eneo 自有标，现 UTEPO 代工）；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,14 +132,18 @@ updated: 2026-10-28
 - **【用户表】Utepo 的；着重跟**
   > UTEPO的；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Dominik Mizdrak（Geschäftsführer（2021 起）= 经营侧拍板人；收件人改 eneo Produktmanagement / Einkauf 入口（第 103 批 官方登记核实 2026-10-28）） 〔https://eneo-security.com/de/impressum〕
+- **KP**：Lars Alexander Hagenlocher（Geschäftsführer / 三代股东（2025-03 起；创办人 Ernst Hartig 之孙）（第 103 批 官方登记核实 2026-10-28）） 〔https://eneo-security.com/de/impressum〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | VIDEOR E. Hartig GmbH（eneo 为其注册商标；HRB 32047 Amtsgericht Offenbach am Main；USt-ID DE113592980；LEI 529900I9XJZT6A9R6M34；股本 870,000 €） |
+| 成立 | 1987-08-23（公司 1975 创办）（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 eneo-security.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 eneo-security.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 103 批：专业视频 / 安防分销商，自有品牌 eneo 已卖贴标 PoE 交换机（现 UTEPO 代工，稿内不点名）→ **贴标 OEM 30% 首选目标，B BIG，加厚；升 A 候选**；9 次群发无回复 → 二次触达走产品经理路径（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 安防产品品牌（eneo，德国）
 - **触达通道（公开）**：role: CCTV 品牌商（德国，PoE 现 Utepo，用户着重）；region: 德国；contact: info@eneo-security.com
@@ -204,7 +226,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@eneo-security.com | 用户表原值 | Clients/ 表 |
+| Dominik Mizdrak | Geschäftsführer（2021 起）= 经营侧拍板人；收件人改 eneo Produktmanagement / Einkauf 入口（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://eneo-security.com/de/impressum |
+| Lars Alexander Hagenlocher | Geschäftsführer / 三代股东（2025-03 起；创办人 Ernst Hartig 之孙）（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://eneo-security.com/de/impressum |
 
 - **通道建议**：邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -273,7 +296,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Dominik,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches sold under the eneo label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled first?
 

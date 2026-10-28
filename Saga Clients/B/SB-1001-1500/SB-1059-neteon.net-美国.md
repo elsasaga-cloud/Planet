@@ -83,6 +83,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 103 批（US · 1 次检索：官网（24+ Years Partnership | Moxa Premier Distributor；Moxa Partner Excellence Award）+ ShopMoxa About（Neteon 子品牌；2002 起授权 Premier Moxa Partner）+ LinkedIn（2002；11–50；North Brunswick NJ；825 Georges Road Suite 3B；Brea CA 2913 Saturn Street Unit F）+ Bloomberg（foundingDate 2002-08-12）+ HigherGov（UEI X3SPD5JCJD67；CAGE 3DMQ6；East Brunswick NJ；2002-09 成立，2003-02 联邦注册）+ RocketReach / ZoomInfo（President Hubert Yu；$7.8M；16 人；1 Tower Center Blvd STE 1510, East Brunswick NJ 08816）+ D&B（Brea CA 92821）；NJ 登记号未取，2026-10-28 查；https://www.highergov.com/awardee/neteon-technologies-inc-12751592/）：**
+
+- 法定名 / 登记号：Neteon Technologies Inc（neteon.net / shopmoxa.neteon.net；North Brunswick / East Brunswick, New Jersey + Brea, California）— 2002-08 成立的工业网络 / 边缘计算分销商（**Moxa Premier Distributor 24 年、连续两届 Moxa Partner Excellence Award**；Cincoze、ASUS IoT）；President Hubert Yu；$7.8M、16 人；SAM UEI X3SPD5JCJD67，CAGE 3DMQ6；研究档无 KP · NJ 公司（登记号未取）· SAM UEI X3SPD5JCJD67 · CAGE 3DMQ6 · 状态 **Active（联邦供应商在册）** · 成立 2002-08-12 · Corporation（私有；President Hubert Yu）
+- 行业码 / 经营范围：工业网络 / IIoT / 边缘计算分销（Moxa 主线：串口服务器、工业交换机、协议网关、无线；Cincoze 面板 PC；ASUS IoT）+ 应用咨询与技术支持
+- 注册地址：825 Georges Road, Suite 3B, North Brunswick, NJ 08902（另 1 Tower Center Blvd STE 1510, East Brunswick, NJ 08816）；仓 2913 Saturn St Unit F, Brea, CA 92821
+- 规模档：小型（16 人）
+- 账目：第三方 $7.8M（仅作区间）；—
+- 高管：Hubert Yu — President = 拍板人（研究档无 KP）
+- 控制人 / 股东：Hubert Yu（推定）
+- 曾用名：ShopMoxa（子品牌）
+- **这意味着什么：**
+  - **深度绑定 Moxa 的首席分销 → 对咱们是「价值线补位」低概率** → **分销 20%，一页纸即止**：STI-054GP / STI-144GP / STI-288DGGPM / STI-0240GE 作其 Moxa 之下的入门价位线（不点名 Moxa）；不加厚
+  - 收件人 sales@ 点名 President Hubert Yu；表内无跟进 → 首信一页纸；发信窗口 Wed 08–10 ET
+- 备注：分销 20% 低概率（Moxa 绑定）；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,14 +131,17 @@ updated: 2026-10-28
 - **【用户表】串口 / 工业 FS，多有名牌子**
   > 串口 工业FS；在用很多有名的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Hubert Yu（President = 拍板人 / 收件人（经 sales@）（第 103 批 官方登记核实 2026-10-28）） 〔https://rocketreach.co/neteon-technologies-inc-profile〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Neteon Technologies Inc（NJ；SAM UEI X3SPD5JCJD67；CAGE 3DMQ6） |
+| 成立 | 2002-08-12（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 neteon.net，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 neteon.net，语言 en，快照状态 ok；角色判定来源：官网文案；第 103 批：North Brunswick NJ（非 CA）Moxa Premier Distributor 24 年 → **分销 20% 低概率（Moxa 绑定）；一页纸**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络（Moxa）分销；边缘 AI / 工业 PC（Cincoze、ASUS IoT）
 - **触达通道（公开）**：role: 工业网络与边缘计算分销商（Moxa 渠道）；region: 美国；contact: sales@neteon.net
@@ -185,7 +203,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@neteon.net | 用户表原值 | Clients/ 表 |
+| Hubert Yu | President = 拍板人 / 收件人（经 sales@）（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rocketreach.co/neteon-technologies-inc-profile |
 
 - **通道建议**：企业邮箱可直发
 

@@ -93,6 +93,26 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 103 批（US · 1 次检索：官网 Executive（Chip Yodzis — Executive Chairman，亦任控股公司 DOW Equity Holdings, Inc. 执行主席，1982 加入岳父 Phil Decker 的 DOW；John Yodzis — President and CEO，2008 加入，2013 主导由卫星电视单渠道转型）+ Tampa Bay Business Journal（$93.3M；98 人；8603 Adamo Dr., Tampa, FL 33619；私有）+ Strata-gee 2022（1959 成立 DOW Electronics；法定实体 **DEDC, Inc.** 官员：John J. Yodzis PCEO、Carolyn D. Yodzis SVP、John P. Yodzis EVP、Daniel T. Carr CFO/VP、Stephen O. Decker VP）+ 官网新闻 2021-03-01（DOW Electronics 更名 DOW Technologies）+ LinkedIn（1959；51–200；Tampa）+ theorg（Dave Elkin — SVP Sales & Product Management；Steve Decker — VP & General Counsel）；FL Sunbiz 文件号未取，2026-10-28 查；https://www.dowtechnologies.com/executive）：**
+
+- 法定名 / 登记号：DOW Technologies = DEDC, Inc.（控股 DOW Equity Holdings, Inc.；dowtechnologies.com；Tampa, Florida）— 1959 年创立（DOW Electronics，2021-03-01 更名）的独立家族技术分销商（定制集成 / AV、12V 车载、卫星电视、安防、网络；站内 Ubiquiti / Luxul / Intellinet PoE 交换机；面向集成商与独立零售商，提供培训与营销支持）；$93.3M、98 人；President & CEO John Yodzis，Executive Chairman Chip Yodzis；研究档无 KP · FL 公司 DEDC, Inc.（Sunbiz 文件号未取）；控股 DOW Equity Holdings, Inc. · 状态 **Active（2025 新聘报道）** · 成立 1959（DOW Electronics） · Corporation（私有；Yodzis / Decker 家族）
+- 行业码 / 经营范围：技术产品分销与物流（定制集成 AV、12V 车载、卫星电视 / 宽带、安防、网络、VoIP），面向集成商 / 独立零售商；多区域配送中心
+- 注册地址：8603 Adamo Drive, Tampa, FL 33619
+- 规模档：中型（98 人）
+- 账目：第三方 $93.3M（仅作区间）；—
+- 高管：John J. Yodzis — President & CEO（DEDC, Inc. PCEO）
+- 高管：Chip Yodzis — Executive Chairman（DOW Equity Holdings）
+- 高管：John P. Yodzis — EVP
+- 高管：Daniel T. Carr — CFO / VP
+- 高管：Dave Elkin — SVP Sales & Product Management = 供应商准入对口
+- 高管：Stephen O. Decker — VP & General Counsel
+- 控制人 / 股东：Yodzis / Decker 家族
+- 曾用名：DOW Electronics（1959–2021）
+- **这意味着什么：**
+  - **$93M 家族分销商（Ubiquiti / Luxul / Intellinet PoE 在售）→ 分销 20%，低中概率但体量大**：切口 = 「集成商渠道的价值型管理 PoE 线」STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W（对标 Luxul / Intellinet 价）；一页纸 + 产品线卡，加厚一次（供应商准入资料：CE/FCC/RoHS、保修、MOQ 1、美国 DAP）
+  - 收件人 info@ / vendor 入口点名 SVP Sales & Product Management Dave Elkin；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 ET
+- 备注：分销 20%（大分销商，低中概率）；加厚一次；Sunbiz 号下轮补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,14 +146,18 @@ updated: 2026-10-28
 - **【用户表】主要 CCTV，少量商业 PoE**
   > 主要是CCTV 少量商业POE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Dave Elkin（SVP Sales & Product Management = 供应商准入对口 / 收件人（第 103 批 官方登记核实 2026-10-28）） 〔https://www.dowtechnologies.com/executive〕
+- **KP**：John J. Yodzis（President & CEO（DEDC, Inc.）= 拍板人（二代）（第 103 批 官方登记核实 2026-10-28）） 〔https://www.dowtechnologies.com/executive〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | DEDC, Inc.（DBA DOW Technologies；控股 DOW Equity Holdings, Inc.；原 DOW Electronics，2021-03-01 更名） |
+| 成立 | 1959（第 103 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 dowtechnologies.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 dowtechnologies.com，语言 en，快照状态 ok；角色判定来源：用户表；第 103 批：Tampa FL 家族技术分销商（$93.3M / 98 人；Ubiquiti / Luxul / Intellinet PoE 在售）→ **分销 20%，B BIG，加厚一次；升 A 候选**（第 103 批 官方登记核实 2026-10-28） |
 
 - **业务线**：AV / 车载电子 / 安防 / 网络分销；面向集成商的培训 / 营销支持
 
@@ -195,7 +219,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@dowtechnologies.com | 用户表原值 | Clients/ 表 |
+| Dave Elkin | SVP Sales & Product Management = 供应商准入对口 / 收件人（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.dowtechnologies.com/executive |
+| John J. Yodzis | President & CEO（DEDC, Inc.）= 拍板人（二代）（第 103 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.dowtechnologies.com/executive |
 
 - **通道建议**：企业邮箱可直发
 
@@ -230,7 +255,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -247,7 +272,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
