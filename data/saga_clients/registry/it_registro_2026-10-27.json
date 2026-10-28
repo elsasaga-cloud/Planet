@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 21
+  "count": 23
  },
  "rows": {
   "SA-070": {
@@ -686,6 +686,68 @@
    ],
    "notes": "分销 20% small；一页纸一次；坐实（P.IVA + REA + 营收）。",
    "code": "SB-1074"
+  },
+  "SB-1036": {
+   "batch": 108,
+   "name": "Grin s.r.l.（grinsrl.it；塔兰托 Torricella C.da Mascolo s.n.c., 74020 (TA)；P.IVA 02710060738；REA 未取）— 电气 / 仪表工程承包商（配电柜设计制造、中低压线路、高压变电站电气仪表接线、灌装 / 包装线布线、光伏电站；4 个领域：配电柜 / 工业自动化 / 能源 / 可再生能源；客户 Terna、Peroni、Heineken、Sidel、Unilever、Siemens 等）；群发 2 次打开；表内「switch」「质量一般」",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：grinsrl.it（Grin srl C.da Mascolo s.n.c. 74020 Torricella (TA)；tel/fax +39 099 957 31 54；info@grinsrl.it；Partita IVA 02710060738；Electro-instrumental plants；Competences for 4 sectors；Partners Terna / Peroni / Heineken / Enea / Sidel / Unilever / Siemens）；REA / 营收未取（1 次检索无登记站命中）→ 部分坐实",
+   "url": "http://www.grinsrl.it/?page_id=7023&lang=en",
+   "number": "P.IVA 02710060738（REA 未取）",
+   "status": "Active（站点口径）",
+   "incorporated": "未取",
+   "company_type": "S.r.l.（私有）",
+   "sic": [
+    "电气 / 仪表工程承包 + 配电柜制造（工业、能源、光伏）"
+   ],
+   "address": "C.da Mascolo s.n.c., 74020 Torricella (TA)",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "（未具名）— 收件人 info@grinsrl.it（点名 ufficio tecnico / acquisti quadri）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**配电柜制造 + 工业电气承包商（柜内要工业交换机）→ 集成 25% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 配 PLC 柜）；有回声再加厚**；不谈 IEC 61850 / 变电站认证",
+    "2 次打开无回复 → 二次触达换切口「DIN-rail switches for your panel builds」；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "集成 25% small；一页纸一次；部分坐实（P.IVA 站脚）。",
+   "code": "SB-1036"
+  },
+  "SB-1071": {
+   "batch": 108,
+   "name": "SIELCO SISTEMI S.r.l.（sielcosistemi.com / scada-hmi.it；科莫 法定 Via Regina 24, 22073 Fino Mornasco (CO)；运营 Via Roma 24, 22070 Guanzate (CO)；P.IVA 02854460132；REA CO-282515）— 2004-12-07 成立的工业自动化软硬件厂商（Winlog SCADA/HMI 软件、IOlog Modbus I/O 模块与网关、PClog 无风扇面板 PC；网店兼售工业交换机 / 工业电源；面向系统集成商与方案商，全球）；2–10 人；Modbus 组织成员；群发 2 次打开",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：sielcosistemi.com Company（SIELCO SISTEMI srl；Via Roma 24 22070 Guanzate (CO)；P.IVA IT02854460132；Winlog / PClog / IOlog）+ fatturatoitalia（REA CO-282515；sede legale Via Regina 24 Fino Mornasco；ATECO 62.01；Fondazione 2004）+ registroaziende（Data di costituzione 07 Dicembre 2004；Dipendenti 0–9）+ reteimprese（Via Roma 24 Guanzate；+39 031899671）+ LinkedIn（2–10；2005）+ modbus.org 会员页",
+   "url": "https://www.sielcosistemi.com/en/company",
+   "number": "P.IVA / CF 02854460132；REA CO-282515",
+   "status": "Active",
+   "incorporated": "2004-12-07",
+   "company_type": "S.r.l.（私有；小微）",
+   "sic": [
+    "工业自动化软硬件（SCADA/HMI、Modbus I/O、面板 PC）+ 网店"
+   ],
+   "address": "Via Regina 24, 22073 Fino Mornasco (CO)（运营 Guanzate）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（2–10 人）",
+   "officers": [
+    "（未具名）— 收件人 info@sielcosistemi.com（点名 product manager hardware）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**有自有硬件品牌（IOlog / PClog）且网店在卖工业交换机的 SCADA 厂商 → 贴标可谈 small（Sielco 标 DIN 交换机配 IOlog）+ 分销 20%，B，一页纸一次（STI-054GP / STI-144GP / STI-154GP）；有回声再加厚**",
+    "2 次打开无回复 → 二次触达换切口「a DIN-rail switch under your IOlog family」；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "贴标可谈 small + 分销 20%；B；一页纸一次；坐实（P.IVA + REA）。",
+   "code": "SB-1071"
   }
  }
 }

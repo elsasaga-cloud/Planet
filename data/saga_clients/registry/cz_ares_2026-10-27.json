@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 11
+  "count": 12
  },
  "rows": {
   "SA-089": {
@@ -369,6 +369,37 @@
    ],
    "notes": "分销 20%；B；加厚一次（small）；坐实（IČO）。",
    "code": "SB-1097"
+  },
+  "SB-455": {
+   "batch": 108,
+   "name": "MaxLink（maxlink.cz / maxlink.eu；品牌 2006 年起；总部 Plzeň–Lobzy Cvokařská 1216/8, 312 00）— 面向 ISP 的网络元件与配件「制造商品牌」（WiFi 天线、尾纤、SFP/SFP+/DAC（含 H3C / Cisco 兼容）、无源 / 有源 PoE 注入器（含 10G bt）、PoE 面板、PoE 交换机、安装箱）；运营法人名 / IČO 1 次检索未取（仅品牌页 + 经销商页）→ 部分坐实；表内「whole」; 群发 ≥3 次",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：maxlink.cz About / 页脚（MaxLink brand 2006；specific solutions according to ISP requirements；own solution WiFi antennas → passive / active PoE injectors, PoE switches, patch panels, assembly boxes, SFP modules；Sídlo společnosti Cvokařská 1216/8 31200 Plzeň）+ maxlink.eu O nás（2018 = 12 let）；运营法人未在检索中出现（btcomp / ipopular 等为经销商）；查不到即停",
+   "url": "https://www.maxlink.cz/en/about",
+   "number": "未取（品牌；法人待补证）",
+   "status": "Active（站点 2026）",
+   "incorporated": "品牌 2006",
+   "company_type": "未取（私有）",
+   "sic": [
+    "ISP 网络配件自有品牌（天线 / SFP / PoE 注入器 / PoE 交换机）"
+   ],
+   "address": "Cvokařská 1216/8, 312 00 Plzeň–Lobzy",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "（未具名）— 收件人 官网表单 / info@maxlink.cz（点名 product manager PoE）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已自贴 MaxLink 标 PoE 交换机 / 注入器 / SFP 的捷克 ISP 配件品牌 → 贴标 OEM 30% 正中目标，B BIG，加厚一次（STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W + STI-054GP 1:1 对照其 PoE 交换机页）；只报 OEM 档；法人回声后补核**",
+    "群发无回复 → 二次触达换切口「a second OEM source for your MaxLink PoE switches」；发信窗口 Thu 12–14 CET；捷克语一句引子；稿内不点名 Ubiquiti / MikroTik"
+   ],
+   "notes": "贴标 30% 目标；B BIG；加厚一次；部分坐实（品牌 + 地址）。",
+   "code": "SB-455"
   }
  }
 }

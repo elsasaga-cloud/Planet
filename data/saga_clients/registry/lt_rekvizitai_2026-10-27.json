@@ -4,7 +4,7 @@
   "source": "Lithuania · Registrų centras / Sodra 公开数据（rekvizitai.vz.lt）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 4
+  "count": 5
  },
  "rows": {
   "SB-789": {
@@ -137,6 +137,37 @@
    ],
    "notes": "集成 25%；B；一页纸一次；坐实（kodas + 财务）。",
    "code": "SB-571"
+  },
+  "SB-1060": {
+   "batch": 108,
+   "name": "UAB Enzas（经营 norteh.com「NORTEH」多语言网店 EN/IT/DE/DK；维尔纽斯 Ukmergės g. 219, LT-07152；įmonės kodas 303005607；PVM LT100009310917）— CCTV 与安防设备网店（Hikvision / Dahua / Longse / Reolink / Ajax / Paradox；摄像机、套装、录像机、报警、对讲、网络设备、门禁）；群发 2 次打开",
+   "iso": "LT",
+   "fetched": "2026-10-28",
+   "source": "LT · 1 次检索：norteh.com 页脚 / 结构化数据（legalName UAB Enzas；Company code 303005607；VAT LT100009310917；Ukmergės g. 219, 07152 Vilnius；info@norteh.com；+370 663 77000）+ rekvizitai.vz.lt 搜索（Enzas, UAB；Ukmergės g. 219-1 Vilnius；vaizdo stebėjimo sistemos）",
+   "url": "https://www.norteh.com/",
+   "number": "Įmonės kodas 303005607；PVM LT100009310917",
+   "status": "Aktyvi",
+   "incorporated": "≈2013（kodas 3030…）",
+   "company_type": "UAB（私有；小微）",
+   "sic": [
+    "CCTV / 安防设备 网店（多语言，面向欧盟）"
+   ],
+   "address": "Ukmergės g. 219, LT-07152 Vilnius",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "（未具名）— 收件人 info@norteh.com"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**多语言 CCTV 网店 → 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配其摄像机套装）；有回声再加厚**；稿内不点名 Hikvision / Dahua",
+    "2 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 EET；立陶宛语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（kodas 站脚 + rekvizitai）。",
+   "code": "SB-1060"
   }
  }
 }
