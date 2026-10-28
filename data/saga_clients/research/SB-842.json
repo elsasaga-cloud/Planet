@@ -46,7 +46,8 @@
    "title": "Senior Manager",
    "email": "admin@kzn-gps.ru",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Senior Manager（研究档；admin@kzn-gps.ru；WA = 店铺电话 +7 917 391 05 85）= 收件人（第 113 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -58,7 +59,9 @@
  },
  "company_facts": {
   "hq": "俄罗斯",
-  "other": "官网 kzn-gps.ru，语言 ru，快照状态 ok；角色判定来源：待核"
+  "other": "官网 kzn-gps.ru，语言 ru，快照状态 ok；角色判定来源：待核；第 113 批：mik 系小网店（兼手机配件）→ **分销 20% small，一页纸一次（SmartByte 商用 STC-028GP / STC-228GP / STC-2224GP 作 mik 替代价位 + MOQ 1；俄 / 英文，Alexander 直呼）**— 稿件一律「预付款」，待 Simon 定 RU 收款 / 物流路径后再发；不点名 Ubiquiti / MikroTik（第 113 批 官方登记核实 2026-10-28）",
+  "legal_name": "New-LCD / KZN-GPS.ru — 法人 ООО «Фикс»（ИНН 1655262545；ОГРН 1131690005930；420088 Казань, ул. Ново-Азинская, д. 14А；业务 1999 / 网店 2008）",
+  "founded": "2013（ООО «Фикс»；业务 1999）（第 113 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络设备电商（交换机 / 路由 / 光模块 / PoE 电源 / FTTH）"

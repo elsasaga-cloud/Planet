@@ -23,7 +23,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Бабаев Рустам Азизбала оглы",
+   "role": "Генеральный директор / 100% 股东 ООО «Порт Депо»（2022–；rusprofile）= 拍板人 / 收件人（sales@ 点名）（第 113 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://portdepo.ru/legal-info"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -33,7 +40,9 @@
  },
  "company_facts": {
   "hq": "俄罗斯",
-  "other": "官网 portdepo.ru，语言 ?，快照状态 unreachable；角色判定来源：待核"
+  "other": "官网 portdepo.ru，语言 ?，快照状态 unreachable；角色判定来源：待核；第 113 批：mik 系分销 + 网店 → **分销 20% small，一页纸一次（SmartByte 商用 STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W 作 mik 替代价位 + STI-144GP；俄 / 英文，Бабаев 直呼）**— 稿件一律「预付款」，待 Simon 定 RU 收款 / 物流路径后再发；不点名 Ubiquiti / MikroTik（第 113 批 官方登记核实 2026-10-28）",
+  "legal_name": "ООО «Порт Депо»（PORTDEPO；ИНН 7720875009；ОГРН 1227700587927；法定 111394 Москва, ул. Перовская, д. 65, стр. 3；门店 115432 ул. Трофимова, д. 8；Ubiquiti / MikroTik / Aruba / Fortinet 分销；2025 纳税 9.7 млн ₽）",
+  "founded": "2022-09-19（第 113 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络产品经销（俄罗斯）"

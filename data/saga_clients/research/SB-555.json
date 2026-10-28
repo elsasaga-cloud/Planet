@@ -45,21 +45,24 @@
    "title": "（职务待核）",
    "email": "gabor.szabo@tacel.ca",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Tacel 研究档 KP（职务待核）= 抄（第 113 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Gil Marques",
    "title": "President",
    "email": "gil.marques@tacel.ca",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President（2015–；LinkedIn / zoominfo；gil.marques@）= 拍板人 / 收件人（第 113 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "George Soares",
    "title": "General Manager",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "General Manager（datanyze）（第 113 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -71,7 +74,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 tacel.ca，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 tacel.ca，语言 en，快照状态 ok；角色判定来源：官网文案；第 113 批：加拿大 ITS / 交通控制设备供应商兼交通机柜制造商（Sensys 加拿大独家分销）→ **配套 / 集成 25–30% B，加厚一次（机柜内 CCTV / 通信用工业交换机 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 第二来源 + 宽温 + 3 年保 + 加拿大 DAP；Gil 直呼 + Gabor 抄；一问非信号机网络是否可接受工业级 CE / FCC）**；守界：Saga 无 NEMA TS2 / 交通信号认证，稿内绝不声称；不点名 EtherWAN（第 113 批 官方登记核实 2026-10-28）",
+  "legal_name": "TACEL LTD.（联邦公司号 081582-9；CBCA 1979-02-14；1148 Bellamy Road North, Scarborough, ON M1H 1H2；分部 Anjou QC / AB / BC；ISO 9001:2015；11–50 人；估 $19.1M）",
+  "founded": "1979-02-14（第 113 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "交通管理 / 道路安全 / ITS 方案"

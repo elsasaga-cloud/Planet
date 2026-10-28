@@ -1,165 +1,166 @@
 {
-  "code": "SB-430",
-  "name_official": "Компания «МОДУЛЬ»（module-ltd.ru / pro-tek.pro，St. Petersburg, Russia；电信设备供应与集成）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Eltex（在售）",
-    "PLANET（在售）",
-    "TP-Link（在售）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "在售交换机品牌与型号",
-      "quote": "Ethernet-коммутатор доступа MES1124MB Артикул:Eltex MES1124 … MES2124P … MES3108F … 13\" 8-Port 100/1000Base-X SFP + 2-Port 10/100/1000Base-T L2/L4 Managed Metro Ethernet Switch (AC+2 DC, DIDO) Артикул:MGSD-10080F",
-      "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "业务与项目案例",
-      "quote": "Мы — надёжный поставщик телекоммуникационного оборудования для построения сетей связи: GPON, Ethernet-коммутаторы, VoIP-шлюзы, MSAN, Softswitch & IMS … ЛВС Академии легкой атлетики Санкт-Петербурга … ГУ МВД России по городу Санкт-Петербургу … ФГБУ «НМХЦ им. Н.И. Пирогова»",
-      "url": "https://module-ltd.ru/",
-      "date": "2024-06-04"
-    },
-    {
-      "kind": "用户表",
-      "claim": "SFP/MC/商用 Switch；TP-Link 为主；一邮箱退信",
-      "quote": "SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网核对）"
+ "code": "SB-430",
+ "name_official": "Компания «МОДУЛЬ»（module-ltd.ru / pro-tek.pro，St. Petersburg, Russia；电信设备供应与集成）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Eltex（在售）",
+  "PLANET（在售）",
+  "TP-Link（在售）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "在售交换机品牌与型号",
+   "quote": "Ethernet-коммутатор доступа MES1124MB Артикул:Eltex MES1124 … MES2124P … MES3108F … 13\" 8-Port 100/1000Base-X SFP + 2-Port 10/100/1000Base-T L2/L4 Managed Metro Ethernet Switch (AC+2 DC, DIDO) Артикул:MGSD-10080F",
+   "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ООО «Модуль»（全称待核）",
-    "hq": "Санкт-Петербург",
-    "size": "中小型",
-    "other": "供应 Eltex、PLANET；政府/医疗项目"
+  {
+   "kind": "官网",
+   "claim": "业务与项目案例",
+   "quote": "Мы — надёжный поставщик телекоммуникационного оборудования для построения сетей связи: GPON, Ethernet-коммутаторы, VoIP-шлюзы, MSAN, Softswitch & IMS … ЛВС Академии легкой атлетики Санкт-Петербурга … ГУ МВД России по городу Санкт-Петербургу … ФГБУ «НМХЦ им. Н.И. Пирогова»",
+   "url": "https://module-ltd.ru/",
+   "date": "2024-06-04"
   },
-  "business_lines": [
-    "电信设备供应（GPON、交换机、VoIP、MSAN）",
-    "局域网设计与安装项目"
-  ],
-  "products_seen": [
-    {
-      "brand": "PLANET",
-      "model": "MGSD-10080F",
-      "spec": "8×100/1000 SFP + 2×GE L2/L4 管理 Metro（AC+2 DC，DIDO）",
-      "saga": "无 8 SFP 同口型；近似 STC-28GPM（2 SFP + 8 GE，$62.2）",
-      "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Eltex",
-      "model": "MES2124P / MES1124M / MES3108F",
-      "spec": "接入/汇聚交换机（PoE 24 口等）",
-      "saga": "STC-424DGGPM-280W（$140.1）/ STC-424XGGM（$132.7）",
-      "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
-      "date": "2026-10-21"
-    }
-  ],
-  "channels": {
-    "网站": "https://module-ltd.ru/ · http://www.module-ltd.ru/products/ethernet_kommutatory/",
-    "邮箱": "info@module-ltd.ru / zakaz@pro-tek.pro（用户表；其一曾退信）"
-  },
-  "signals": [
-    "在售 PLANET + Eltex → 同口型低价线可补「预算项目」；CCTV networking 需求"
-  ],
-  "risks": [
-    "俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 25,
-    "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）"
-  },
-  "email_hook": "Здравствуйте, рядом с Eltex MES2124P и PLANET в вашем каталоге: 24 GbE PoE+ (280 Вт) + 4 SFP L2+ — 140,1 USD EXW, 2 SFP + 8 GbE PoE L2 — 62,2 USD, нейтральная упаковка, расчёт в CNY. Для каких объектов (ЛВС, видеонаблюдение) вам чаще нужен бюджетный вариант?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；另在俄罗斯-4（锚 soyuzsp.ru，13 轮）批 Bcc 名单里（2025-12-15 Booster PoE、2026-08-26 24-PoE 两头已读；第 74 批(l) msg 1a03cf9d14adefe7 / 19b20b39b421f4ce）；S/A 箱：S/A 邮箱均无往来；来源：用户表「SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch」",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过",
-      "revive": "不动（Q-33 供应商渠道客户）",
-      "lane": "RU 次级（Simon 2026-08 点名）",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等」；研究档 risks：俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；同批次（To sales@soyuzsp.ru）2025-12-15→2026-08-26 共 5 轮群发（Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-20 起共 13 轮，更早轮次 Bcc 未读"
-    },
-    "situation": "圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。",
-    "need": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）",
-    "breakpoint": "俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-21→2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-03-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
-        "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@module-ltd.ru, module-ltd.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2025-12-15",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次）",
-        "quote": "Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, ",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 pro-tek.pro, zakaz@pro-tek.pro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-21",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@module-ltd.ru, module-ltd.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-26",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 pro-tek.pro, zakaz@pro-tek.pro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "SFP/MC/商用 Switch；TP-Link 为主；一邮箱退信",
+   "quote": "SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "ООО «Протэк»（Protech；pro-tek.pro 页脚；ИНН 5404507902；ОГРН 1145476039840；Новосибирск, ул. Дуси Ковальчук, 378а, корп. 3, оф. 4）— **研究档法人「ООО «Модуль»（СПб；7802791198）」更正：为 Eltex 渠道同行 / 关联待证，≠ 本户法人**",
+  "hq": "Санкт-Петербург",
+  "size": "中小型",
+  "other": "供应 Eltex、PLANET；政府/医疗项目；第 113 批：运营商 / 政企电信设备供应商（Eltex 体系；案例含内务部 / 国家医疗中心）→ **分销 / 集成 20–25% small，一页纸一次（接入 / 汇聚 STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W 第二来源；俄 / 英文，info@ 一问采购）**— 稿件一律「预付款」，待 Simon 定 RU 收款 / 物流路径后再发；守界：不提政府项目；不点名 Eltex / PLANET（第 113 批 官方登记核实 2026-10-28）",
+  "founded": "2014-03-31（第 113 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "电信设备供应（GPON、交换机、VoIP、MSAN）",
+  "局域网设计与安装项目"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "MGSD-10080F",
+   "spec": "8×100/1000 SFP + 2×GE L2/L4 管理 Metro（AC+2 DC，DIDO）",
+   "saga": "无 8 SFP 同口型；近似 STC-28GPM（2 SFP + 8 GE，$62.2）",
+   "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Eltex",
+   "model": "MES2124P / MES1124M / MES3108F",
+   "spec": "接入/汇聚交换机（PoE 24 口等）",
+   "saga": "STC-424DGGPM-280W（$140.1）/ STC-424XGGM（$132.7）",
+   "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "网站": "https://module-ltd.ru/ · http://www.module-ltd.ru/products/ethernet_kommutatory/",
+  "邮箱": "info@module-ltd.ru / zakaz@pro-tek.pro（用户表；其一曾退信）"
+ },
+ "signals": [
+  "在售 PLANET + Eltex → 同口型低价线可补「预算项目」；CCTV networking 需求"
+ ],
+ "risks": [
+  "俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）"
+ },
+ "email_hook": "Здравствуйте, рядом с Eltex MES2124P и PLANET в вашем каталоге: 24 GbE PoE+ (280 Вт) + 4 SFP L2+ — 140,1 USD EXW, 2 SFP + 8 GbE PoE L2 — 62,2 USD, нейтральная упаковка, расчёт в CNY. Для каких объектов (ЛВС, видеонаблюдение) вам чаще нужен бюджетный вариант?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；另在俄罗斯-4（锚 soyuzsp.ru，13 轮）批 Bcc 名单里（2025-12-15 Booster PoE、2026-08-26 24-PoE 两头已读；第 74 批(l) msg 1a03cf9d14adefe7 / 19b20b39b421f4ce）；S/A 箱：S/A 邮箱均无往来；来源：用户表「SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch」",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等」；研究档 risks：俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；同批次（To sales@soyuzsp.ru）2025-12-15→2026-08-26 共 5 轮群发（Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-20 起共 13 轮，更早轮次 Bcc 未读"
+  },
+  "situation": "圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。",
+  "need": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）",
+  "breakpoint": "俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-21→2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-03-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+    "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@module-ltd.ru, module-ltd.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-12-15",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次）",
+    "quote": "Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, ",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 pro-tek.pro, zakaz@pro-tek.pro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@module-ltd.ru, module-ltd.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 pro-tek.pro, zakaz@pro-tek.pro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

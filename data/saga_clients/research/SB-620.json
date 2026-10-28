@@ -41,7 +41,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Радкевич Константин Станиславович",
+   "role": "Руководитель АО «Карма Групп»（zachestnyibiznes）= 拍板人（office@ 点名采购）（第 113 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.karma-group.ru/about/contacts/"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -51,7 +58,9 @@
  },
  "company_facts": {
   "hq": "俄罗斯",
-  "other": "官网 karma-group.ru，语言 ru，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 karma-group.ru，语言 ru，快照状态 ok；角色判定来源：官网文案；第 113 批：SI + 自有品牌服务器、数据中心项目 → **集成 25% small，一页纸一次（STC-4424GCPM / STC-424XGGPM-280W + STH-2C24XF-HSI / STH-8C48DX-HSI 作第二来源；俄 / 英文，office@ 点名采购）**— 稿件一律「预付款」，待 Simon 定 RU 收款 / 物流路径后再发；守界：政府客户线不提；不点名 DCN / Huawei / Cisco（第 113 批 官方登记核实 2026-10-28）",
+  "legal_name": "АО «Карма Групп»（ИНН 7727724175；ОГРН 1107746588454；115551 Москва, Шипиловский пр-д, д. 47, пом. 13Н；实际 2-й Рощинский пр., 8；自有品牌 KARMA 服务器 / ATLAS SAN）",
+  "founded": "2010-07-26（第 113 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT 系统集成 / 服务器与网络分销（俄罗斯）"

@@ -1,138 +1,147 @@
 {
-  "code": "SB-893",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（trassir.ru，快照 2026-10-21）",
-  "summary": "俄罗斯 TRASSIR（DSSL 旗下视频监控与智能视频分析平台品牌：面向企业/设计院/分销商，产品含网络与线缆设备、PoE 交换机（自有型号）；表内「自己的型号，商业 PoE」）；表内无跟进记录。",
-  "type": "俄罗斯视频监控平台品牌（自有型号 PoE，OEM 采购）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：TRASSIR - видеонаблюдение и интеллектуальная видеоаналитика для бизнеса / Внедрение модуле；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Компания TRASSIR - это полный спектр решений по видеонаблюдению и интеллектуальной видеоаналитики для любого бизнеса. У нас можно заказать внедрение видеоаналитики \"под ключ\". Предлагаем комплекс от простого видеонаблюдения до внедрения мод",
-      "url": "https://trassir.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "自己的型号 商业POE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "TRASSIR 视频监控与分析平台",
-      "quote": "Компания TRASSIR - это полный спектр решений по видеонаблюдению и интеллектуальной видеоаналитики для любого бизнеса.",
-      "url": "https://trassir.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "自己的型号 商业 PoE",
-      "quote": "自己的型号 商业POE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-893",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（trassir.ru，快照 2026-10-21）",
+ "summary": "俄罗斯 TRASSIR（DSSL 旗下视频监控与智能视频分析平台品牌：面向企业/设计院/分销商，产品含网络与线缆设备、PoE 交换机（自有型号）；表内「自己的型号，商业 PoE」）；表内无跟进记录。",
+ "type": "俄罗斯视频监控平台品牌（自有型号 PoE，OEM 采购）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：TRASSIR - видеонаблюдение и интеллектуальная видеоаналитика для бизнеса / Внедрение модуле；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Компания TRASSIR - это полный спектр решений по видеонаблюдению и интеллектуальной видеоаналитики для любого бизнеса. У нас можно заказать внедрение видеоаналитики \"под ключ\". Предлагаем комплекс от простого видеонаблюдения до внедрения мод",
+   "url": "https://trassir.ru/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "俄罗斯",
-    "other": "官网 trassir.ru，语言 ?，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "自己的型号 商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "视频监控平台 / 视频分析（自有品牌）",
-    "网络与线缆设备（自有型号 PoE）"
-  ],
-  "channels": {
-    "role": "俄罗斯视频监控平台品牌（自有型号 PoE，OEM 采购）",
-    "region": "俄罗斯",
-    "contact": "in@trassir.ru"
+  {
+   "kind": "官网快照",
+   "claim": "TRASSIR 视频监控与分析平台",
+   "quote": "Компания TRASSIR - это полный спектр решений по видеонаблюдению и интеллектуальной видеоаналитики для любого бизнеса.",
+   "url": "https://trassir.ru/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "目录 /products/setevoe_i_kabelnoe_oborudovanie/ethernet_poe/kommutatory_s_poe/",
-    "官网：полный спектр решений по видеонаблюдению и интеллектуальной видеоаналитики；栏目 ДЛЯ ДИСТРИБЬЮТОРОВ"
-  ],
-  "risks": [
-    "俄罗斯：结算/物流受限，非主攻区（T5）",
-    "大型平台品牌：现有 ODM 体系稳定；仅 in@ 公共邮箱，无具名 KP"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W"
-  },
-  "email_hook": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次 To sales@cmd-sec.ru，首见 2026-01-22，0 回（第 74 批 Bcc 头核对 msg 1a03d832440f86d9）；S/A 箱：S/A 邮箱均无往来；来源：用户表「自己的型号 商业POE」）",
-      "type": "俄罗斯视频监控平台品牌（自有型号 PoE，OEM 采购）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "RU 次级（Simon 2026-08 点名）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「自己的型号 商业POE」；研究档 risks：俄罗斯：结算/物流受限，非主攻区（T5）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cmd-sec.ru）2026-01-22→2026-08-26 共 5 轮群发（OEM Core Switching Solution、Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-21 起共 15 轮，更早轮次 Bcc 未读"
-    },
-    "situation": "俄罗斯 TRASSIR（DSSL 旗下视频监控与智能视频分析平台品牌：面向企业/设计院/分销商，产品含网络与线缆设备、PoE 交换机（自有型号）；表内「自己的型号，商业 PoE」）；表内无跟进记录。",
-    "need": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W",
-    "breakpoint": "俄罗斯：结算/物流受限，非主攻区（T5）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → in@trassir.ru",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-26「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-01-22",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次）",
-        "quote": "OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 in@trassir.ru, trassir.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-26",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 in@trassir.ru, trassir.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "自己的型号 商业POE",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": {
-      "subject": "Second ODM source for the TRASSIR-branded PoE switches",
-      "body": "Hello TRASSIR team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 26 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source in your housing from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $145.7. CE/RoHS files supplied; EAC stays on your side.\n\nOne question: which model do your distributors order most, so we quote its equivalent first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "自己的型号 商业 PoE",
+   "quote": "自己的型号 商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Олейник Игорь Валерьевич",
+   "role": "Генеральный директор / 100% 股东 ООО «ДССЛ»（2010–；rusprofile；集团 DSSL / TRASSIR）= 拍板人（in@trassir.ru 点名网络产品线采购）（第 113 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.rusprofile.ru/id/2917866"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "俄罗斯",
+  "other": "官网 trassir.ru，语言 ?，快照状态 ok；角色判定来源：用户表；第 113 批：俄罗斯头部安防平台商、自有型号 PoE 全线 → **贴标 OEM 30% B BIG，加厚一次（TRASSIR 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + Marvell 管理型 STC-424XGGPM-280W 第二代工源 + 中性包装 / 自编货号 + 俄文技术包；in@ 点名网络产品线采购）**— 稿件一律「预付款」，待 Simon 定 RU 收款 / 物流路径后再发；升 A 候选；守界：本土生产 / 政府项目叙事不触及（第 113 批 官方登记核实 2026-10-28）",
+  "legal_name": "DSSL 集团 / TRASSIR（ООО «ДССЛ» ИНН 7709423841 / ОГРН 1037709044460；ООО «ДССЛ-Первый» 7701081730 2025 营收 9 млрд ₽；НПП «Трассир» 2.1 млрд ₽；105082 Москва, ул. Бакунинская, д. 71, эт. 6；商标 TRASSIR / ACTIVECAM / NEUROSTATION）",
+  "founded": "2003-05-26（第 113 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "视频监控平台 / 视频分析（自有品牌）",
+  "网络与线缆设备（自有型号 PoE）"
+ ],
+ "channels": {
+  "role": "俄罗斯视频监控平台品牌（自有型号 PoE，OEM 采购）",
+  "region": "俄罗斯",
+  "contact": "in@trassir.ru"
+ },
+ "signals": [
+  "目录 /products/setevoe_i_kabelnoe_oborudovanie/ethernet_poe/kommutatory_s_poe/",
+  "官网：полный спектр решений по видеонаблюдению и интеллектуальной видеоаналитики；栏目 ДЛЯ ДИСТРИБЬЮТОРОВ"
+ ],
+ "risks": [
+  "俄罗斯：结算/物流受限，非主攻区（T5）",
+  "大型平台品牌：现有 ODM 体系稳定；仅 in@ 公共邮箱，无具名 KP"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W"
+ },
+ "email_hook": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次 To sales@cmd-sec.ru，首见 2026-01-22，0 回（第 74 批 Bcc 头核对 msg 1a03d832440f86d9）；S/A 箱：S/A 邮箱均无往来；来源：用户表「自己的型号 商业POE」）",
+   "type": "俄罗斯视频监控平台品牌（自有型号 PoE，OEM 采购）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「自己的型号 商业POE」；研究档 risks：俄罗斯：结算/物流受限，非主攻区（T5）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cmd-sec.ru）2026-01-22→2026-08-26 共 5 轮群发（OEM Core Switching Solution、Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-21 起共 15 轮，更早轮次 Bcc 未读"
+  },
+  "situation": "俄罗斯 TRASSIR（DSSL 旗下视频监控与智能视频分析平台品牌：面向企业/设计院/分销商，产品含网络与线缆设备、PoE 交换机（自有型号）；表内「自己的型号，商业 PoE」）；表内无跟进记录。",
+  "need": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W",
+  "breakpoint": "俄罗斯：结算/物流受限，非主攻区（T5）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → in@trassir.ru",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-26「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-01-22",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次）",
+    "quote": "OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 in@trassir.ru, trassir.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 in@trassir.ru, trassir.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "自己的型号 商业POE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "Second ODM source for the TRASSIR-branded PoE switches",
+   "body": "Hello TRASSIR team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 26 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source in your housing from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $145.7. CE/RoHS files supplied; EAC stays on your side.\n\nOne question: which model do your distributors order most, so we quote its equivalent first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-25"
+ }
 }

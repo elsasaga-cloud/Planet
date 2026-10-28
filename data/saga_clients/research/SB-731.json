@@ -33,10 +33,11 @@
   "level": "无域名 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "JTS Telecom（表内；未能核实）",
+  "legal_name": "未坐实（「JTS Telecom」Hotmail；1 查无对应加拿大法人；jts.net 德州 JTS / JTS Consulting Inc. / JTS Mechanical 均 ≠）",
   "hq": "加拿大",
   "size": "微型/个体",
-  "other": "第 91 批检索未命中（「JTS Telecom」加拿大：1 次检索仅 JTS Consulting 温哥华 / JTS Services 蒙特利尔 POS 等同名，均无法与 joejts@hotmail.com 对上）→ 不写回（第 91 批 官方登记核实 2026-10-27）"
+  "other": "第 91 批检索未命中（「JTS Telecom」加拿大：1 次检索仅 JTS Consulting 温哥华 / JTS Services 蒙特利尔 POS 等同名，均无法与 joejts@hotmail.com 对上）→ 不写回（第 91 批 官方登记核实 2026-10-27）；第 113 批：Hotmail 个体 + 查无实体 + 2025-11-21 已回「No」→ **不动（B 保留）**（第 113 批 官方登记核实 2026-10-28）",
+  "founded": "未取（第 113 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电信布线/承包（推断）",

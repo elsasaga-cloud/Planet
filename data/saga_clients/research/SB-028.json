@@ -51,10 +51,16 @@
  "kp": [
   {
    "name": "Anastasia Roshchupkina",
-   "role": "Purchasing",
+   "role": "Purchasing（研究档；roshchupkina@fibotelecom.ru）= 收件人（第 113 批 官方登记核实 2026-10-28）",
    "email": "roshchupkina@fibotelecom.ru",
    "phone": "",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Боровский Максим Вячеславович",
+   "role": "创始人 / 50% 股东 ООО «ФИБО»（2017–；tbank 变更记录）= 拍板人（邮箱未取）（第 113 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://fibotelecom.ru/contact/"
   }
  ],
  "grade_override": "B",
@@ -66,10 +72,11 @@
   "level": "B 级加厚 v1（网店核对）"
  },
  "company_facts": {
-  "legal_name": "FIBO-TELECOM（ООО，全称待核）",
+  "legal_name": "ООО «ФИБО»（原 ООО «Фибо-Телеком»，2024-08-20 更名；ИНН 7802617376；ОГРН 1177847130438；194214 Санкт-Петербург, пр. Энгельса, д. 71, лит. А, пом. 309；办公 Коломяжский пр., 33к2 + 莫斯科；注册资本 600 000 ₽）",
   "hq": "Россия（Москва/СПб 配送；8 800 550-22-45）",
   "size": "中小型分销商",
-  "other": "自有品牌 FIBO / FT-；DK 系列（Marvell 与 Realtek 两条线）"
+  "other": "自有品牌 FIBO / FT-；DK 系列（Marvell 与 Realtek 两条线）；第 113 批：**研究档类型「运营商 / 光传输采购（待补证）」更正为光通信分销 + 自有品牌 FIBO（兼容 SFP + PoE 交换机 FT-S118FP / FT-S1116FP）**；采购 KP 直达 → **贴标 OEM 30% B BIG，加厚一次（FIBO 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP 第二代工源 + 中性包装 / 自编货号 + 小 MOQ；俄 / 英文，Anastasia 直呼）**— 稿件一律「预付款」，待 Simon 定 RU 收款 / 物流路径后再发；升 A 候选（第 113 批 官方登记核实 2026-10-28）",
+  "founded": "2017-04-11（第 113 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "兼容 SFP / CWDM-DWDM 模块",

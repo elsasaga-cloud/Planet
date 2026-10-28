@@ -35,7 +35,9 @@
  },
  "company_facts": {
   "hq": "俄罗斯",
-  "other": "官网 unitech-shop.ru，语言 ?，快照状态 unreachable；角色判定来源：待核"
+  "other": "官网 unitech-shop.ru，语言 ?，快照状态 unreachable；角色判定来源：待核；第 113 批：法人未取 + 唯一邮箱 2024-10-09 永久退信 + 微型网店 → **不动（地址失效；B 保留）**；Q-33 HRUI 口径（若有新通道）= 只推 SmartByte / Marvell 管理 / 工业线（第 113 批 官方登记核实 2026-10-28）",
+  "legal_name": "Unitech-shop.ru（Раменское CCTV + PoE 网店 + 安装；法人未取；同名 ООО «Юнитек» 多家 ≠）",
+  "founded": "未取（第 113 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "PoE / 网络产品网店（俄罗斯）"

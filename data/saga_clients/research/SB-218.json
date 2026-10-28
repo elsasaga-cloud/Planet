@@ -31,14 +31,22 @@
    "title": "（表内联系人）",
    "email": "l.abrarova@nag.ru",
    "phone": "+7 926 352 1056",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "НАГ 研究档联系人（l.abrarova@）= 抄（第 113 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Anatoly Kovtun",
    "title": "市场调研专员",
    "email": "a.kovtun@nag.ru",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "市场调研专员（研究档；a.kovtun@）= 收件人（第 113 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Самоделко Дмитрий Георгиевич",
+   "role": "Генеральный директор ООО «НАГ»（2016-09-21–；rusprofile）= 拍板人（第 113 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.rusprofile.ru/id/3282107"
   }
  ],
  "grade_override": null,
@@ -49,11 +57,11 @@
   "level": "B 级加厚 v1（官网快照 + 表内：规格外 / 规模大）"
  },
  "company_facts": {
-  "legal_name": "ООО «НАГ»",
-  "founded": "2001（门户）",
+  "legal_name": "ООО «НАГ»（ИНН 6659099112；ОГРН 1046603130881；620110 Екатеринбург, ул. Краснолесья, стр. 12а, этаж 4；2021 营收 7.03 млрд ₽ / 利润 598 млн ₽；股东 Личный фонд «Гладиолус»；自有品牌 SNR）",
+  "founded": "2004-01-13（第 113 批 官方登记核实 2026-10-28）",
   "hq": "Екатеринбург, Россия",
   "size": "大型（自有品牌 SNR，全国分支）",
-  "other": "中国 ODM 采购；制裁风险"
+  "other": "中国 ODM 采购；制裁风险；第 113 批：自有品牌 SNR 量大、直采中国 ODM、曾回「? ?」→ **贴标 OEM 30% B BIG，加厚一次（SNR 标 Marvell 管理型 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业 STI 线 + STH 10G / 25G / 100G 第二代工源；俄文为主、参数表直给；Kovtun 直呼）**— 稿件一律「预付款」，待 Simon 定 RU 收款 / 物流路径后再发；升 A 候选；对方需求偏 DWDM / 400G 相干（Saga 不做）→ 稿内只谈交换机（第 113 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "运营商 / ISP 设备分销与自有品牌 SNR（交换机、光模块、DWDM）",
