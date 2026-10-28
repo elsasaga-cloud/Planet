@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 254
+  "count": 267
  },
  "rows": {
   "SA-061": {
@@ -8037,6 +8037,408 @@
    ],
    "notes": "贴标 OEM 30%；一页纸一次（最后一次；预付）；部分坐实（官网 contact 地址 + P.O. Box；牌照号未取）。",
    "code": "SB-918"
+  },
+  "SB-995": {
+   "batch": 117,
+   "name": "ACIX Middle East（acixme.com；**#217 Business Venue Building, Oud Metha, Dubai, P.O. Box 28474；牌照号 1 查未得 → 部分坐实**；表内国别误记沙特 → 实为迪拜）— **IT 与安防产品增值分销 / 供应商（面向经销商 / 集成商 / 安装商：门禁 / 考勤 / IP CCTV / VMS / 存储；15 年+；2026-05 新闻稿仍活跃；Utepo 在供）**；KP Dipesh Patel（Sales Director）/ Akkeef P（Operations Executive）；2 次跟进无回复",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：aiwa.ae（Acix Middle East；217, Business Venue Building, Oud Metha, Dubai；PO Box 28474；Value added distributor and supplier for IT & security products；resellers, system integrators, installers）+ openpr 2026-05-26（ACIX Middle East … over fifteen years；#217, Business Venue Building, Oud Metha；www.acixme.com）；牌照号未得；2026-10-28",
+   "url": "https://aiwa.ae/company/acix-middleeast",
+   "number": "未取（AE 牌照号 1 查未得）",
+   "status": "营业中（2026-05 新闻稿）",
+   "incorporated": "约 2010（「15 年+」）",
+   "company_type": "未取（迪拜本土公司推定）",
+   "sic": [
+    "IT / 安防产品 增值分销（门禁 / 考勤 / CCTV；Oud Metha）"
+   ],
+   "address": "#217 Business Venue Building, Oud Metha, Dubai, UAE (P.O. Box 28474)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Dipesh Patel — Sales Director（研究档 KP；dipesh.p@acixme.com）= 收件人",
+    "Akkeef P — Operations Executive（研究档 KP；sales@acixme.com）= 抄送"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安防渠道增值分销商（已进深圳 Utepo）、销售总监为 KP、只跟过 2 次 → 分销 20% B，一页纸一次（切口：给安装商渠道的 CCTV / 门禁 PoE 阶梯 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + 管理机 STC-4424GCPM 一口价 + MOQ 1 + 付费样机 + DAP 迪拜；英文，Dipesh 直呼、抄 sales@）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；回信 → 加厚",
+    "守界：牌照未核 → 预付 100%；不点名 Utepo；国别修正 沙特 → 阿联酋（research 已 AE）"
+   ],
+   "notes": "分销 20%；一页纸一次（预付）；部分坐实（名录 + 新闻稿：地址 + P.O. Box；牌照号未取）。",
+   "code": "SB-995"
+  },
+  "SB-421": {
+   "batch": 117,
+   "name": "Distributed Business Solutions Trading FZE（Distribolutions；distribolutions.com；**法定名 DISTRIBUTED BUSINESS SOLUTIONS FZE；SIT Tower, Nadd Hessa Street（Dubai Silicon Oasis），P.O. Box 341455（另一名录 341355）；+971 4 388 6508（= 表内 KP 电话）；Crunchbase 11–50 人；牌照号未得 → 部分坐实**）— ICT 基础设施与服务集成（路由交换 / 网络安全 / 网管 / 大数据；Ubiquiti）；2021 自建站询盘 10G 双纤 LC 10 km 模块、报价后要 100G → **需求 = 光模块（Q-32 缺口，Saga 无）**；KP Ajith Rajan",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：haiuae.com（Distributed Business Solutions Trading, Fze；www.distribolutions.com；SIT Tower, 1, Nadd Hessa Street；PO Box 341455）+ finditprice（DISTRIBUTED BUSINESS SOLUTIONS FZE POBOX 341355, DUBAI；971 4 388 6508）+ crunchbase（ICT infrastructure and services integration；Dubai；11-50）；牌照号未得；2026-10-28",
+   "url": "https://www.haiuae.com/company/distributed-business-solutions-trading-fze-dubai",
+   "number": "未取（FZE；牌照号 1 查未得）",
+   "status": "营业中（名录在）",
+   "incorporated": "未取",
+   "company_type": "FZE（自贸区独资；Dubai Silicon Oasis 推定）",
+   "sic": [
+    "ICT 基础设施 / 网络安全 集成（DSO）"
+   ],
+   "address": "SIT Tower, Nadd Hessa Street, Dubai Silicon Oasis, Dubai, UAE (P.O. Box 341455)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "Ajith Rajan — 表内联系人（研究档 KP；ajithpr@distribolutions.com；+971 4 388 6508）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**唯一需求是 10G / 100G 光模块（Saga 不做、Q-32 缺口）→ 不动（B 保留；交换机需求出现再按集成商 25%）**"
+   ],
+   "notes": "不动（需求不对位）；部分坐实（法定名 + 地址 + P.O. Box + 电话吻合）。",
+   "code": "SB-421"
+  },
+  "SB-325": {
+   "batch": 117,
+   "name": "Hamed Electronics LLC（hamedelectronics.com；**P.O. Box 379738, Deira, Dubai；04-228 1214；1985 年起；Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认可；牌照号未得 → 部分坐实**；同名 Mohammed Hamed Electronics Trading LLC（Abu Hail, Box 65146）≠）— **弱电系统集成（CCTV / SMATV / 门禁 / PA / 中央时钟 / 电话；供货 + 安装 + 调试；客户 酒店 / 教育 / 政府 / 医疗）**；1–10 人、营收 <$5M（ZoomInfo）；KP Anil P. Joseph（Project Manager；agrajan@eim.ae 归属待核）",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：hamedelectronics.com（HAMED ELECTRONICS LLC … LOW VOLTAGE SYSTEM INTEGRATION FROM YEAR 1985 AS A PART OF NASSER ABDULLATIF AHMED LOOTAH GROUP；Approved By Dubai Police；P. O. Box 379738, Deira Dubai；04-2281214；info@hamedelectronics.com）+ zoominfo（revenue <$5 Million；hospitality, education, government, healthcare）+ atninfo（Mohammed Hamed Electronics Trading LLC；Box 65146；Abu Hail — 同名异户）；牌照号未得；2026-10-28",
+   "url": "https://hamedelectronics.com/",
+   "number": "未取（LLC；牌照号 1 查未得）",
+   "status": "营业中（官网在）",
+   "incorporated": "1985",
+   "company_type": "LLC（Lootah 集团成员）",
+   "sic": [
+    "弱电系统集成（CCTV / SMATV / 门禁 / PA；Deira）"
+   ],
+   "address": "P.O. Box 379738, Deira, Dubai, UAE",
+   "accounts": "未取（营收 <$5M 口径）",
+   "accounts_due": "—",
+   "size_band": "微型（1–10 人）",
+   "officers": [
+    "Anil P. Joseph — Project Manager（研究档 KP；agrajan@eim.ae 待核；+971 50 452 6169）= 收件人",
+    "info@hamedelectronics.com = 抄送"
+   ],
+   "psc": "Lootah 集团（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**40 年本地集团弱电集成商、项目经理为 KP → 集成商 25% B small，一页纸一次（切口：酒店 / 校园弱电 PoE 阶梯 STC-2216GP / STC-2224GP / STC-4424GCPM（Marvell 管理）+ 工业 STI-154GP 一口价 + MOQ 1 + 付费样机 + DAP 迪拜；英文，Anil 直呼、抄 info@）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；再无回声 → 不动",
+    "守界：政府项目不主动提；邮箱域 eim.ae 待核 → 同发 info@；预付 100%"
+   ],
+   "notes": "集成商 25% small；一页纸一次（预付）；部分坐实（官网：P.O. Box + 电话 + 集团；牌照号未取）。",
+   "code": "SB-325"
+  },
+  "SB-878": {
+   "batch": 117,
+   "name": "Magnus Gulf = Magnus Infotech Trading LLC（magnusgulf.com；**Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai；+971 4 874 7373；牌照号未得 → 部分坐实**）— **B2B IT 增值分销（Cisco / Aruba / Ubiquiti / Netgear / D-Link / Teltonika / Vivotek；网络无线 / 安防 / UC / 服务器存储 / 网络安全；面向中东经销商与集成商；页面「PoE switch supplier in the UAE」）**；KP Saleem Shaikh（Managing Director）/ Vishnu Nagaraj（Product Specialist）",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：magnusgulf.com 博客页脚（Magnus Infotech Trading LLC；Al Tawhidi Building II - M4 - Al Mankhool Rd - Dubai；+971 4 874 7373；authorized distributor … B2B IT distribution company … bridge between global tech vendors and regional resellers or system integrators；Networking & Wireless, Security Surveillance, Unified Communication, Server & Storage）；牌照号未得；2026-10-28",
+   "url": "https://magnusgulf.com/what-is-a-network-access-controller-nac/",
+   "number": "未取（LLC；牌照号 1 查未得）",
+   "status": "营业中（官网 2026-04 更新）",
+   "incorporated": "未取",
+   "company_type": "LLC（Magnus Infotech Trading LLC）",
+   "sic": [
+    "IT 增值分销（网络 / 安防 / UC；Bur Dubai）"
+   ],
+   "address": "Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai, Dubai, UAE",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Saleem Shaikh — Managing Director（研究档 KP；saleem.a@magnusgulf.com）= 拍板人 / 收件人",
+    "Vishnu Nagaraj — Product Specialist（研究档 KP；vishnu.n@magnusgulf.com）= 抄送"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**真·多品牌增值分销商、总经理为 KP → 分销 20% B（升 A 候选），一页纸一次（切口：其品牌组合里的价格空档 = 价值档 PoE STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + Marvell 管理 STC-4424GCPM + 工业 STI-288DGGPM 一口价 + 中性包装 + MOQ 1 + 付费样机 + DAP 迪拜；英文，Saleem 直呼、抄 Vishnu）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；回信 → 加厚 + 升 A",
+    "守界：不比 Cisco / Aruba；牌照未核 → 预付 100%"
+   ],
+   "notes": "分销 20%（升 A 候选）；一页纸一次（回声再加厚）；部分坐实（官网法定名 + 地址 + 电话；牌照号未取）。",
+   "code": "SB-878"
+  },
+  "SB-400": {
+   "batch": 117,
+   "name": "Safa Networks FZE-LLC（safanetworks.com；**沙迦自贸区（FZE-LLC；沙迦）；分支 UAE / 沙特 / 印度；进口数据 = 从印度进硬盘 / 内存（IT 硬件贸易）；地址 / 牌照号未得 → 部分坐实**）— 「基础设施服务与 IT 方案」；官网仅通用文案（switches / APs）；无 KP（sales@）；7 次跟进无回复",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：safanetworks.com（presence in Saudi Arabia, UAE and India；Networking switches / Wireless Access Points 通用文案；Address SHARJAH UAE）+ tendata / 52wmb（SAFA NETWORKS FZE-LLC；buyer；hard disk / memory from Zaco Computers Pvt Ltd, Bombay air → Sharjah）；牌照号未得；2026-10-28",
+   "url": "https://safanetworks.com/",
+   "number": "未取（FZE-LLC；牌照号 1 查未得）",
+   "status": "营业中（官网在；内容空泛）",
+   "incorporated": "未取",
+   "company_type": "FZE-LLC（沙迦自贸区推定）",
+   "sic": [
+    "IT 硬件贸易 / 基础设施服务（沙迦）"
+   ],
+   "address": "未取（Sharjah, UAE）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "（研究档无 KP：sales@safanetworks.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**身份空泛（硬盘内存贸易 + 通用文案）+ 无 KP + 7 次 0 回复 → 不动（B 保留）**"
+   ],
+   "notes": "不动（身份不清 + 无 KP）；部分坐实（法定后缀 + 进口数据；地址 / 牌照未取）。",
+   "code": "SB-400"
+  },
+  "SB-495": {
+   "batch": 117,
+   "name": "Topnet Distribution FZCO（topnet.ae / topnetdistribution.com；**Warehouse Unit K-11, Dubai Airport Free Zone, P.O. Box 54791；+971 4 299 1162；集团：Topnet Distribution LLC（B205 Auto Centre, Al Khabaisi, Deira）+ Topnet Communications and Information Technology（沙特）；NTI 官方经销；牌照号未得 → 部分坐实**）— **ICT 分销（经 SI / 电信安装商 / VAR 落地项目）：工业光纤交换机（B+B）、MC、PoE、数据中心、ITS；表内「分销很多牌子（三旺、Nsgate）」**；**KP Kandasamy Ganesan = Managing Director（+971 55 652 2648）**/ Athira Babu（Sales Engineer）；2 次跟进无回复",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：topnetdistribution.com（Topnet Distribution FZCO；Warehouse Unit K-11, Dubai Airport Free Zone, PO Box 54791；Tel +971 4 299 1162；Our Group of Companies: Topnet Distribution LLC, B205, Auto Centre, B-Block, Plot # 367-0, Al Khabaisi, Deira；Topnet Communications and Information Technology, Saudi；Ganesan K +971 55 652 2648）+ networktechinc.com（NTI distributor；Contact K. Ganesan；ganesan@topnet.ae）；牌照号未得；2026-10-28",
+   "url": "https://www.topnetdistribution.com/contact-us/",
+   "number": "未取（FZCO；牌照号 1 查未得）",
+   "status": "营业中（官网在；3 法人集团）",
+   "incorporated": "未取",
+   "company_type": "FZCO（DAFZA）+ LLC（Deira）+ 沙特分支",
+   "sic": [
+    "ICT / 工业连接产品 分销（DAFZA）"
+   ],
+   "address": "Warehouse Unit K-11, Dubai Airport Free Zone, Dubai, UAE (P.O. Box 54791)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Kandasamy Ganesan — Managing Director（研究档 KP；ganesan@topnet.ae；+971 55 652 2648）= 拍板人 / 收件人",
+    "Athira Babu — Sales Engineer（研究档 KP；athira@topnet.ae）= 抄送"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已分销多个国内工业牌的 ICT 分销商、总经理为 KP、只跟过 2 次 → 分销 20% B（升 A 候选），一页纸一次（切口：对位其工业线的宽温 STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE + 10G MC STC-110XGE 一口价 + 3 年保 + 中性包装 + MOQ 1 + 付费样机 + DAP 迪拜 / 沙特转口自理；英文，Ganesan 直呼、抄 Athira）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；回信 → 加厚 + 升 A",
+    "守界：不点名三旺 / Nsgate / B+B；牌照未核 → 预付 100%"
+   ],
+   "notes": "分销 20%（升 A 候选）；一页纸一次（回声再加厚）；部分坐实（官网法定名 + DAFZA 地址 + P.O. Box + 集团结构；牌照号未取）。",
+   "code": "SB-495"
+  },
+  "SB-926": {
+   "batch": 117,
+   "name": "Osool Communications & Technical Systems（osoolct.com；**Villa Y1 Al Hamra near Al Jazeera Port, Ras Al Khaimah；+971 7 244 4355；手机 +971 50 686 8944（= KP）；protenders 列为分包商（Villa 2, Al Riffa, RAK）；牌照号未得 → 部分坐实**）— RAK 机电 + 弱电分包（CCTV / 结构化布线 / SMATV / 电话 / 家庭自动化 / 消防报警 / 水暖；有项目页）；KP Hossam Ayyad；需求 2 光 8 电 工业网管千兆 PoE；WhatsApp 23 次跟进无实质回复",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：osoolct.com/contact-us（Osool Communications & Technical Systems；Villa Y1 Al Hamra near Al Jazeera Port, Ras Al Khaimah；+971 72 444 355；+971 50 686 8944；info@osoolct.com；MEP + ELV）+ protenders（OSOOL COMMUNICATIONS；sub-contractor；Villa 2, Al Riffa, Ras Al Khaimah）；牌照号未得；2026-10-28",
+   "url": "https://osoolct.com/contact-us/",
+   "number": "未取（牌照号 1 查未得）",
+   "status": "营业中（官网 + 项目页）",
+   "incorporated": "未取",
+   "company_type": "未取（RAK 本土公司推定）",
+   "sic": [
+    "机电 / 弱电 分包（RAK）"
+   ],
+   "address": "Villa Y1 Al Hamra near Al Jazeera Port, Ras Al Khaimah, UAE",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Hossam Ayyad — 负责人 / 项目（研究档 KP；info@osoolct.com；+971 50 686 8944）"
+   ],
+   "psc": "Hossam Ayyad（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**需求曾具体（2 光 8 电工业网管 PoE = STI-288DGGPM）但 WA 23 次 0 实质 → 不动（B 保留；来询即报 STI-288DGGPM $137 预付）**"
+   ],
+   "notes": "不动（23×0）；部分坐实（官网地址 + 电话吻合；牌照号未取）。",
+   "code": "SB-926"
+  },
+  "SB-928": {
+   "batch": 117,
+   "name": "Seven Stars（sevenstarsuae.com；阿布扎比多元集团：Seven Stars Rent A Car / Auto Garage / Auto Spare Parts（Mussafah M40）/ Technology / Five Stars 运输 / 校车 / 学校；企业办公室 Hamdan Street, Abu Dhabi；**牌照号未得 → 部分坐实**）— IT 方案仅为集团旁支；**表内 KP Nibu Basheer「Director」，ZoomInfo 显示为 Seven Stars Auto Spare Parts 的 Client Relations Associate** → 身份待核；WA 23 次无实质回复",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：sevenstarsuae.com/locations（Seven Stars Rent A Car, Hamdan Street, Abu Dhabi；Corporate Office Nice Karak Refreshment bldg, Hamdan Street；Auto Garage / Auto Spare Parts Sector M40 Mussafah；Seven Stars Technology；Five Stars General / Passenger Transport；School Buses）+ zoominfo（Basheer Nibu；Client Relations Associate at Seven Stars Auto Spare Parts；2021–present）；牌照号未得；2026-10-28",
+   "url": "https://www.sevenstarsuae.com/locations",
+   "number": "未取（集团多牌照；1 查未得）",
+   "status": "营业中（官网在）",
+   "incorporated": "未取",
+   "company_type": "集团（租车 / 汽修 / 运输 / IT）",
+   "sic": [
+    "租车 / 汽修 / 运输 为主；IT 方案旁支（阿布扎比）"
+   ],
+   "address": "Corporate Office: Nice Karak Refreshment Bldg, Hamdan Street, Abu Dhabi, UAE",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中小（集团）",
+   "officers": [
+    "Nibu Basheer — 表内「Director」/ ZoomInfo「Client Relations Associate（汽配）」（研究档 KP；nibu@sevenstarsuae.com；+971 50 441 0530）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**非目标行业（汽车 / 运输集团，IT 为旁支）+ KP 身份不符 + WA 23 次 0 实质 → 不动（B 保留）**"
+   ],
+   "notes": "不动（非目标 + 身份不清 + 23×0）；部分坐实（官网集团地址；牌照号未取）。",
+   "code": "SB-928"
+  },
+  "SB-935": {
+   "batch": 117,
+   "name": "Al Shuaib Control Equipment LLC（alshuaibelectronics.com；**法定名 AL SHUAIB CONTROL EQUIPMENT L.L.C.；2005 年成立；P.O. Box 30453, Near Central Post Office, Ras Al Khaimah；CP Plus CCTV 经销；牌照号未得 → 部分坐实**）— RAK 弱电集成（CCTV 安装测试 / 家庭自动化 / 结构化布线 / 门禁 / BMS / PA / IPTV / SMATV / 对讲）；KP Vijith（Business Development）；需求 HDMI 延长器（Saga 无）+ 工业 FS；WA 22 次无实质回复",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：haiuae.com（Al Shuaib Control Equipment LLC；established in the year 2005；CCTV / SMATV / IPTV / PA / Door Entry / Intercom；30453, Near Central Post Office, Ras Al Khaimah）+ atninfo（Al Shuaib Control Equipment LLC；CP PLUS CCTV；P.O Box 30453；Structured Cabling）；牌照号未得；2026-10-28",
+   "url": "https://www.haiuae.com/company/al-shuaib-control-equipment-llc-security-control-equipment-systems-ras-al-khaimah",
+   "number": "未取（LLC；牌照号 1 查未得）",
+   "status": "营业中（名录在）",
+   "incorporated": "2005",
+   "company_type": "LLC",
+   "sic": [
+    "弱电集成（CCTV / 布线 / BMS；RAK）"
+   ],
+   "address": "P.O. Box 30453, Near Central Post Office, Ras Al Khaimah, UAE",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Vijith — Business Development（研究档 KP；vijith@alshuaib.ae；+971 55 236 1122）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主需求 HDMI 延长器（Saga 无）+ WA 22 次 0 实质 → 不动（B 保留；工业 FS 来询再报 STI 线预付）**"
+   ],
+   "notes": "不动（需求不对位 + 22×0）；部分坐实（法定名 + 成立年 + P.O. Box；牌照号未取）。",
+   "code": "SB-935"
+  },
+  "SB-581": {
+   "batch": 117,
+   "name": "Sheildify Security Equipment Trading LLC（Shieldify；sheildify.com；**2020 年成立；Khalifa BA Balila Building, 22B Street, Abu Hail, Dubai（名录）/ Tanvi Building Office 20, Port Saeed, Deira, P.O. Box 118467（官网 2025）；+971 58 554 2050；牌照号未得 → 部分坐实**）— 迪拜安防 / 医疗 / 消防 / 电池 UPS 设备网店（Hikvision / Dahua / Ubiquiti / D-Link / TP-Link / Teltonika / Hanwha / ZKTeco；交换机页 Dahua PFS）；无 KP（sales@）",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：townin.com（Sheildify Security Equipment Trading LLC；Khalifa BA Balila Building, 22B Street Abu Hail, Dubai, 39701；+971 58 554 2050；Established in 2020；Battery & UPS, Home Automation, Fire Safety, Medical, Lab Equipment, Smart Door Locks）+ sheildify.com 页脚 2025-07（Tanvi Building Office No 20, Ground Floor, Port Saeed, Deira Dubai；P.O. Box 118467）；牌照号未得；2026-10-28",
+   "url": "https://townin.com/Dubai/search/business/2264/Dubai/abu-hail/22b-street-abu-hail/sheildify-security-equipment-trading-llc",
+   "number": "未取（LLC；牌照号 1 查未得）",
+   "status": "营业中（官网 2025-07 更新）",
+   "incorporated": "2020",
+   "company_type": "LLC（Security Equipment Trading）",
+   "sic": [
+    "安防 / 医疗 / 消防设备 网店（Deira）"
+   ],
+   "address": "Tanvi Building Office 20, Port Saeed, Deira, Dubai, UAE (P.O. Box 118467)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "（研究档无 KP：sales@sheildify.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**2020 新设多品牌网店（原厂 PoE 随 CCTV 走）+ 无 KP → 不动（B 保留）**"
+   ],
+   "notes": "不动（网店 + 无 KP）；部分坐实（法定名 + 成立年 + 地址 + P.O. Box；牌照号未取）。",
+   "code": "SB-581"
+  },
+  "SB-298": {
+   "batch": 117,
+   "name": "VNS Technologies LLC（vnstech.com；**HQ Mina Zayed, Abu Dhabi, P.O. Box 51216；+971 2 666 7757；2009 年成立；11–50 人；区域办事处 迪拜 / 卡塔尔 / 印度 / 斯里兰卡；牌照号未得 → 部分坐实**）— **安防 / 网络 / 存储 增值分销（经 VAR / SI / 顾问 / 承包商；品牌 H3C / Huawei / AETEK / Network Optix / Rasilient / Irisity；2019 创新安防产品奖）**；**KP Abdul Gafoor = Executive Director：与 AETEK 合作 5 年，看过工业 2 光 8 管理 PoE 与商用 2 光 24 电、问 L2 还是 L3、说会来深圳**；此后 20 次跟进无实质回复",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：vnstech.com/contact-vns（Abu Dhabi – HQ；P.O. Box 51216；+971 2 666 7757；marketing@vnstech.com；Surveillance, ICT domain, and Airspace Safety and Security）+ linkedin/company/vns-tech（VNS Technologies … IT Distributor focused in Surveillance, Networking and Storage；Established 2009；regional offices Dubai, Qatar, India, Sri Lanka；HQ Abu Dhabi；11-50；Primary Mina Zayed, Abu Dhabi, P.O.Box 51216）+ vnstech.com（Welcome to VNS Technologies LLC）；牌照号未得；2026-10-28",
+   "url": "https://vnstech.com/contact-vns/",
+   "number": "未取（LLC；牌照号 1 查未得）",
+   "status": "营业中（官网 + LinkedIn 435 关注）",
+   "incorporated": "2009",
+   "company_type": "LLC（VNS Technologies LLC）",
+   "sic": [
+    "安防 / 网络 / 存储 增值分销（阿布扎比 Mina Zayed；4 国办事处）"
+   ],
+   "address": "Mina Zayed, Abu Dhabi, UAE (P.O. Box 51216)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "Abdul Gafoor — Executive Director（研究档 KP；gafoor@vnstech.com；+971 2 666 7757）= 拍板人 / 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**4 国增值分销商、执行董事本人看过具体型号并问 L2 / L3 → 分销 20% B（升 A 候选），一页纸一次（切口：直接答 L2 / L3：工业 2 光 8 电管理 = STI-288DGGPM（L2 管理）$137；商用 24 电 = STC-2224GP（非管理）$86 / STC-4424GCPM（L2+ 管理，Marvell）$165 一口价 + 中性包装 + MOQ 1 + 付费样机 + DAP 迪拜 / 阿布扎比；邀他来深圳时面谈（时间由 Simon 定）；opener 引他「L2 还是 L3」之问；英文，Gafoor 直呼）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；回信 → 加厚 + 升 A",
+    "守界：不评价 AETEK（另有 SB-138 / 019 Volktek–AETEK 一线，互不提及）；不比 H3C / Huawei；Airspace Safety（反无人机）类客户项目不碰；牌照未核 → 预付 100%"
+   ],
+   "notes": "分销 20%（升 A 候选）；一页纸一次（回声再加厚）；部分坐实（官网 + LinkedIn：法定名 + HQ + P.O. Box + 成立年；牌照号未取）。",
+   "code": "SB-298"
+  },
+  "SB-043": {
+   "batch": 117,
+   "name": "Euro Technology（eurotechnology.ae / eurotechnology.net；**阿布扎比 M4 Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd（Hazaa Bin Zaid Rd），P.O. Box 27709；+971 2 641 7222；另列 迪拜 Abu Hail-Deira 总部 + 孟买；牌照号未得 → 部分坐实**）— **安防系统集成（CCTV / 门禁 / 报警 / 门闸 / PA / 消防报警；Paradox / CAME / Deister / Virdi / CDVI 授权经销）**；约 9 人；客户自述含军方 / VVIP 宫殿 / 银行 / 医疗 / 政府；另有伊拉克业务；**WA 在线，41 次跟进中 4 次回复（索要资料）**；KP m.maarouf@（姓名职务待核）",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：yellowpages-uae.com（Euro Technology；M 4, Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd, Abu Dhabi；P.O Box 27709；02-6417222；PARADOX / DEISTER / CAME 授权）+ atninfo（Euro Technology Abu Dhabi；+971-2-6417222；Hazaa Bin Zaid Rd, Ruby Saloon Bldg；Box 27709；Locations: Dubai (Head-office) Abu Hail-Deira / Abu Dhabi Salam st. / India Mumbai）；牌照号未得；2026-10-28",
+   "url": "https://www.atninfo.com/co/euro-technology-abu-dhabi-26803",
+   "number": "未取（牌照号 1 查未得）",
+   "status": "营业中（名录 + WA 在线）",
+   "incorporated": "未取",
+   "company_type": "未取（阿布扎比本土公司推定）",
+   "sic": [
+    "安防系统集成（CCTV / 门禁 / 报警 / 门闸；阿布扎比）"
+   ],
+   "address": "M4 Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd (Hazaa Bin Zaid Rd), Abu Dhabi, UAE (P.O. Box 27709)",
+   "accounts": "未取（营收估 $7M 口径，不引用）",
+   "accounts_due": "—",
+   "size_band": "微型（约 9 人）",
+   "officers": [
+    "M. Maarouf — 研究档联系人（m.maarouf@eurotechnology.ae；姓名职务待核）= 收件人",
+    "info@eurotechnology.net = 抄送"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**唯一在 41 次里回过 4 次要资料的阿联酋安防集成商 → 集成商 25% B small，一页纸一次（切口：只给他要过的「资料」= 一页 CCTV PoE 阶梯 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP + 管理机 STC-4424GCPM 一口价 + 付费样机 + MOQ 1 + DAP 阿布扎比；WA 发链接；英文）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；再无回声 → 不动",
+    "守界：军方 / 宫殿 / 政府 / 伊拉克项目一律不提不接；只做商业 CCTV 场景；预付 100%"
+   ],
+   "notes": "集成商 25% small；一页纸一次（预付；守界）；部分坐实（名录：地址 + P.O. Box + 电话 + 授权品牌；牌照号未取）。",
+   "code": "SB-043"
+  },
+  "SB-136": {
+   "batch": 117,
+   "name": "Metalog International DMCC（metalogint.com；**DMCC 自贸区（JLT）注册公司；+971 4 886 xxxx；行业 = 能源（油气供应链；尼日利亚 Port Harcourt 有技术销售工程师）；牌照号未得 → 部分坐实**）— **表内 KP Pankaj Sharma = Assistant Marketing Manager（2015 起；非拍板）；Director Jaideep Paul**；询盘表来源、无具体兴趣；WA 无实质回复",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "AE · 1 次检索：rocketreach（Pankaj Sharma；Assistant Marketing Manager @ Metalog International DMCC；January 2015 – Present；Dubai；+971 4 886 XXXX / +971 55 791 XXXX）+ signalhire（Metalog International DMCC operates in the Energy industries；offices Dubai）+ rocketreach（Jaideep Paul；Director @ Metalog International DMCC；Stephen Uma-Oji Technical Sales Engineer, Port Harcourt NG）；牌照号未得；2026-10-28",
+   "url": "https://www.signalhire.com/companies/metalog-international-dmcc",
+   "number": "未取（DMCC 注册；牌照号 1 查未得）",
+   "status": "营业中（企业库在）",
+   "incorporated": "未取",
+   "company_type": "DMCC（自贸区公司）",
+   "sic": [
+    "能源 / 油气供应链 贸易（JLT；非目标行业）"
+   ],
+   "address": "DMCC, Jumeirah Lake Towers, Dubai, UAE（门牌未取）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Pankaj Sharma — Assistant Marketing Manager（研究档 KP；pankaj@metalogint.com；+971 55 791 7244）— 非拍板",
+    "Jaideep Paul — Director（rocketreach）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**非目标行业（油气供应链贸易）+ KP 非拍板 + 无具体兴趣 → 不动（B 保留）**"
+   ],
+   "notes": "不动（非目标行业）；部分坐实（企业库：DMCC 法定后缀 + 职务；牌照号 / 地址未取）。",
+   "code": "SB-136"
   }
  }
 }
