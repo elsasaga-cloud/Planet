@@ -1,15 +1,15 @@
 {
  "code": "XB-C0700",
  "name": "Okisan",
- "round": "W3-R06",
+ "round": "W3-R09",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Okisan",
- "type_final": "Okisan",
+ "summary": "安防进口分销（Okisan Güvenlik Teknolojileri A.Ş.，Istanbul Okmeydanı；1993 起；Tiandy 独家 + Dahua 土耳其分销；5,000+ 经销商；Ankara/İzmir 分部）",
+ "type_final": "安防进口分销（Okisan Güvenlik Teknolojileri A.Ş.，Istanbul Okmeydanı；1993 起；Tiandy 独家 + Dahua 土耳其分销；5,000+ 经销商；Ankara/İzmir 分部）",
  "size": "未量化",
  "brands_seen": [],
- "saga_line": "—",
- "fit": "",
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "土耳其头部安防进口商，经销网大，PoE 交换机是其配套品类",
  "evidence": [
   {
    "kind": "来源库官网/名录核对",
@@ -17,26 +17,42 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "LinkedIn：leading importing company…28 years…network consisted of more than 5,000 distributors；manuzone 列 info@okisan.com",
+   "quote": "Okisan Güvenlik Teknolojileri, is a leading importing company in the security industry for 28 years",
+   "url": "https://tr.linkedin.com/company/okisan-g%C3%BCvenlik-teknolojileri-a-%C5%9F-"
   }
  ],
  "contacts": {
-  "email": "",
-  "email_status": "缺",
-  "kp": []
+  "email": "info@okisan.com",
+  "email_status": "来源库公开邮箱",
+  "kp": [
+   {
+    "name": "Ekrem Özkara",
+    "role": "负责人（güvenliktedarik 名录）",
+    "source": "https://guvenliktedarik.com/brand/okisan-guvenlik-teknolojileri-a-s/"
+   }
+  ]
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
- "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_final": "A",
+ "grade_reason_final": "TR 主战场、进口 + 分销、邮箱已补 → 升 A 首触（排 2027-01-14 周四）",
  "next_move": {
-  "action": "不动",
-  "angle": "",
-  "model": "",
-  "price": "",
-  "window": "",
-  "when": "不动"
+  "action": "首触",
+  "angle": "分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI",
+  "model": "STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "TR 周四 12–14",
+  "when": "2027-01-14"
  },
  "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
- "deep": false,
- "draft_en": null
+ "draft_en": {
+  "subject": "PoE switch line for your reseller channel - distributor pricing",
+  "body": "Hi,\n\nSaga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWho on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
 }

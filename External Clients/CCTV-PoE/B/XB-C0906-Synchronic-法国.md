@@ -1,6 +1,6 @@
 # XB-C0906 · Synchronic · 法国
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:14546 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:14546 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R09 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
@@ -48,12 +48,12 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R09，2026-10-28）
 
-- **结论：XB** — 制造商属性强，邮箱待补 → B 不动
+- **结论：XB** — 制造商 / 集团子公司，非分销渠道 → B 不动
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：Synchronic（1988 起制造/集成/分销）
-- 是什么人：Synchronic（1988 起制造/集成/分销）；规模：未量化
+- 一句话：安防制造商（Synchronic，Franqueville-Saint-Pierre；1988 起；76 人；银行安防；Urmet 集团）
+- 是什么人：安防制造商（Synchronic，Franqueville-Saint-Pierre；1988 起；76 人；银行安防；Urmet 集团）；规模：安防制造商（Synchronic，Franqueville-Saint-Pierre；1988 起；76 人；银行安防；Urmet 集团）
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -64,5 +64,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 1988年, 法国安防制造/集成/分销 |  |  | 2026-09-28 |
+| 本轮网查 | Urmet 公告：Le Groupe URMET France annonce le rachat de la société SYNCHRONIC；ugap：76 salariés、CA €17.5M | SYNCHRONIC développe et fabrique des solutions destinées à tous types de sites | https://www.urmet.fr/actualites/synchronic-rejoint-le-groupe-urmet-france-pour-renforcer-le-pole-tertiaire.html | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

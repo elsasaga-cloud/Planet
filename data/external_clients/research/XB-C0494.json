@@ -1,11 +1,11 @@
 {
  "code": "XB-C0494",
  "name": "Trunk.tr",
- "round": "W3-R06",
+ "round": "W3-R09",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Trunk.tr",
- "type_final": "Trunk.tr",
+ "summary": "服务器/网络新机 + 翻新供应商（TRUNK Bilişim Teknolojileri Ltd.，Istanbul Ataşehir；Cisco/Juniper/HPE/Ubiquiti/Ruijie）",
+ "type_final": "服务器/网络新机 + 翻新供应商（TRUNK Bilişim Teknolojileri Ltd.，Istanbul Ataşehir；Cisco/Juniper/HPE/Ubiquiti/Ruijie）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Sıfır ve ikinci el network ekipmanları tedariki…info@trunk.tr",
+   "quote": "Cisco, Juniper, HPE, Extreme, Ubiquiti ve Ruijie switch, router, access point ve SFP modülleri. Sıfır ve ikinci el network ekipmanları tedariki",
+   "url": "https://www.trunk.tr/cozumler/sifir-ikinci-el-network-ekipmanlari/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "二手/翻新 + 企业大牌为主，非我方渠道；info@trunk.tr 已记 → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

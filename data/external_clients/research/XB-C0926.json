@@ -1,12 +1,12 @@
 {
  "code": "XB-C0926",
  "name": "OneDirect",
- "round": "W3-R06",
+ "round": "W3-R09",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "OneDirect（企业通信设备分销，D-Link/Zyxel）",
- "type_final": "OneDirect（企业通信设备分销，D-Link/Zyxel）",
- "size": "未量化",
+ "summary": "企业通信设备电商分销集团（Onedirect，Saint-Estève/Perpignan；1999 起；51–200 人；8 国）",
+ "type_final": "企业通信设备电商分销集团（Onedirect，Saint-Estève/Perpignan；1999 起；51–200 人；8 国）",
+ "size": "企业通信设备电商分销集团（Onedirect，Saint-Estève/Perpignan；1999 起；51–200 人；8 国）",
  "brands_seen": [],
  "saga_line": "—",
  "fit": "",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网「Qui sommes-nous」：LE GROUPE ONEDIRECT EST PRÉSENT DANS 8 PAYS…hello@onedirect.fr；LinkedIn 51–200 人、1999 起",
+   "quote": "LE GROUPE ONEDIRECT EST PRÉSENT DANS 8 PAYS",
+   "url": "https://www.onedirect.fr/qui-sommes-nous"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "目录型分销，邮箱待补 → B 不动",
+ "grade_reason_final": "跨国目录电商，采购链长 → B 不动；hello@onedirect.fr 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

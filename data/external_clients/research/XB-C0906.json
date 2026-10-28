@@ -1,12 +1,12 @@
 {
  "code": "XB-C0906",
  "name": "Synchronic",
- "round": "W3-R06",
+ "round": "W3-R09",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Synchronic（1988 起制造/集成/分销）",
- "type_final": "Synchronic（1988 起制造/集成/分销）",
- "size": "未量化",
+ "summary": "安防制造商（Synchronic，Franqueville-Saint-Pierre；1988 起；76 人；银行安防；Urmet 集团）",
+ "type_final": "安防制造商（Synchronic，Franqueville-Saint-Pierre；1988 起；76 人；银行安防；Urmet 集团）",
+ "size": "安防制造商（Synchronic，Franqueville-Saint-Pierre；1988 起；76 人；银行安防；Urmet 集团）",
  "brands_seen": [],
  "saga_line": "—",
  "fit": "",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "Urmet 公告：Le Groupe URMET France annonce le rachat de la société SYNCHRONIC；ugap：76 salariés、CA €17.5M",
+   "quote": "SYNCHRONIC développe et fabrique des solutions destinées à tous types de sites",
+   "url": "https://www.urmet.fr/actualites/synchronic-rejoint-le-groupe-urmet-france-pour-renforcer-le-pole-tertiaire.html"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "制造商属性强，邮箱待补 → B 不动",
+ "grade_reason_final": "制造商 / 集团子公司，非分销渠道 → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

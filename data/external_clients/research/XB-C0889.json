@@ -1,11 +1,11 @@
 {
  "code": "XB-C0889",
  "name": "Hexapro Sécurité",
- "round": "W3-R06",
+ "round": "W3-R09",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Hexapro Sécurité（Dahua/Ajax/Hikvision 官方经销）",
- "type_final": "Hexapro Sécurité（Dahua/Ajax/Hikvision 官方经销）",
+ "summary": "安防分销（Hexapro Sécurité，Chassieu/Lyon；Dahua/Ajax/Visonic/Hikvision 官方分销）",
+ "type_final": "安防分销（Hexapro Sécurité，Chassieu/Lyon；Dahua/Ajax/Visonic/Hikvision 官方分销）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网「Qui sommes-nous」：HEXAPRO, revendeur officiel Dahua France et Ajax systems…Tél: 04.72.51.28.28（无邮箱）",
+   "quote": "En tant que distributeur Dahua France mais aussi distributeur Ajax systems , Visonic France et Hikvision France",
+   "url": "https://www.hexapro-securite.fr/content/18-qui-sommes-nous-Hexapro-distributeur-Visonic-Dahua-Ajax-Alarmes-Hikvision"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "官网仅电话无邮箱 → 仍无公开邮箱 → B 不动（可下轮再试）",
  "next_move": {
   "action": "不动",
   "angle": "",

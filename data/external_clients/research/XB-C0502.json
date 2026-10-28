@@ -1,11 +1,11 @@
 {
  "code": "XB-C0502",
  "name": "Güvenlik Bayii",
- "round": "W3-R06",
+ "round": "W3-R09",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Güvenlik Bayii（Ankara 批发）",
- "type_final": "Güvenlik Bayii（Ankara 批发）",
+ "summary": "IP 摄像机批发网店（Güvenlikbayii Ltd. Şti.，Istanbul Küçükçekmece，非 Ankara）",
+ "type_final": "IP 摄像机批发网店（Güvenlikbayii Ltd. Şti.，Istanbul Küçükçekmece，非 Ankara）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Güvenlikbayii Ltd. Şti. Cumhuriyet Mah. İnönü Cd. No: 29 Küçükçekmece/İstanbul；邮箱显示为 [email protected]",
+   "quote": "Güvenlikbayii.com olarak ip güvenlik kamerası toptan satışı yapmaktayız",
+   "url": "https://www.guvenlikbayii.com/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "官网邮箱被遮蔽，仅电话/WhatsApp → 仍无公开邮箱 → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

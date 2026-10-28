@@ -1,6 +1,6 @@
 # XB-C0889 · Hexapro Sécurité · 法国
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:14516 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:14516 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R09 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
@@ -48,12 +48,12 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R09，2026-10-28）
 
-- **结论：XB** — 邮箱待补 → B 不动
+- **结论：XB** — 官网仅电话无邮箱 → 仍无公开邮箱 → B 不动（可下轮再试）
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：Hexapro Sécurité（Dahua/Ajax/Hikvision 官方经销）
-- 是什么人：Hexapro Sécurité（Dahua/Ajax/Hikvision 官方经销）；规模：未量化
+- 一句话：安防分销（Hexapro Sécurité，Chassieu/Lyon；Dahua/Ajax/Visonic/Hikvision 官方分销）
+- 是什么人：安防分销（Hexapro Sécurité，Chassieu/Lyon；Dahua/Ajax/Visonic/Hikvision 官方分销）；规模：未量化
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -64,5 +64,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Dahua/Ajax/Hikvision官方经销商 |  |  | 2026-09-28 |
+| 本轮网查 | 官网「Qui sommes-nous」：HEXAPRO, revendeur officiel Dahua France et Ajax systems…Tél: 04.72.51.28.28（无邮箱） | En tant que distributeur Dahua France mais aussi distributeur Ajax systems , Visonic France et Hikvision France | https://www.hexapro-securite.fr/content/18-qui-sommes-nous-Hexapro-distributeur-Visonic-Dahua-Ajax-Alarmes-Hikvision | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

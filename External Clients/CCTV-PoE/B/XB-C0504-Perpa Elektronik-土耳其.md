@@ -1,6 +1,6 @@
 # XB-C0504 · Perpa Elektronik · 土耳其
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-59-turkey.md`:21 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-59-turkey.md`:21 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R09 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
@@ -41,12 +41,12 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R09，2026-10-28）
 
-- **结论：XB** — 邮箱待补 → B 不动
+- **结论：XB** — 小型零售店铺，非渠道；info@perpaelektronik.com 已记 → B 不动
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：Perpa Elektronik
-- 是什么人：Perpa Elektronik；规模：未量化
+- 一句话：Perpa 小店（Perpa Elektronik / İnteractive Bilişim Elektronik Ltd.，Perpa B 座；照明 + 电子）
+- 是什么人：Perpa 小店（Perpa Elektronik / İnteractive Bilişim Elektronik Ltd.，Perpa B 座；照明 + 电子）；规模：未量化
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -57,5 +57,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
+| 本轮网查 | Perpa 名录：Perpa Elektronik…AYDINLATMA…info@perpaelektronik.com.tr；官网 info@perpaelektronik.com | Firma Resmi Adı : İNTERACTİVE BİLİŞİM ELEKTRONİK REKLAM VE BİLGİ TEKNOLOJİLERİ SANAYİ TİCARET LİMITED ŞİRKETİ | https://www.perpaelektronik.com/bize-ulasin/ | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
