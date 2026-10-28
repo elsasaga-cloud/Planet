@@ -6,7 +6,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from w2lib import j as _j, run, CONS, ATP
 
 J = {}
-SKIP_R07 = {'XB-C0128','XB-C0129','XB-C0561','XB-C0757','XB-C0534','XB-C0589','XB-C0144','XB-C0892','XB-C0903','XB-C0538','XB-C0508','XB-C0566'}  # R07 补查已覆盖，重跑本脚本不回退
+SKIP_R07 = {'XB-C0128','XB-C0129','XB-C0561','XB-C0757','XB-C0534','XB-C0589','XB-C0144','XB-C0892','XB-C0903','XB-C0538','XB-C0508','XB-C0566',
+            'XB-C0514','XB-C0510','XB-C0509','XB-C0894','XB-C0922','XB-C0977'}  # R07/R08 补查已覆盖，重跑本脚本不回退
 def j(code, *a, **k):
     if code in SKIP_R07: return
     _j(J, code, *a, **k)

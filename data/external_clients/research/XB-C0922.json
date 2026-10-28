@@ -1,12 +1,12 @@
 {
  "code": "XB-C0922",
  "name": "Normequip",
- "round": "W3-R06",
+ "round": "W3-R08",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Normequip（波尔多安防批发）",
- "type_final": "Normequip（波尔多安防批发）",
- "size": "未量化",
+ "summary": "消防/合规设备 B2B 网店批发（Normequip，Canéjan/Bordeaux；1998 起；3–9 人；进口商）",
+ "type_final": "消防/合规设备 B2B 网店批发（Normequip，Canéjan/Bordeaux；1998 起；3–9 人；进口商）",
+ "size": "消防/合规设备 B2B 网店批发（Normequip，Canéjan/Bordeaux；1998 起；3–9 人；进口商）",
  "brands_seen": [],
  "saga_line": "—",
  "fit": "",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "europages：Créée en 1998，Salariés 5-9，Distributeur；官网 contact@normequip.com",
+   "quote": "leader de la distribution de produits de sécurité incendie sur internet",
+   "url": "https://www.normequip.com/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "主营消防/城市设施，视频监控只是一个品类；contact@normequip.com 已记 → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

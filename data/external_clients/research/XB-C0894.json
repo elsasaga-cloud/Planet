@@ -1,11 +1,11 @@
 {
  "code": "XB-C0894",
  "name": "France Alarme",
- "round": "W3-R06",
+ "round": "W3-R08",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "France Alarme",
- "type_final": "France Alarme",
+ "summary": "安防安装/维保（France Alarme，Saint-Étienne）",
+ "type_final": "安防安装/维保（France Alarme，Saint-Étienne）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "Facebook：Nous installons et maintenons les systèmes…contact@francealarme.net",
+   "quote": "Nous sommes experts en systèmes de sécurité électronique. Nous installons et maintenons",
+   "url": "https://www.facebook.com/francealarmeRhoneAlpesAuvergne/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "安装商而非分销；contact@francealarme.net 已记 → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

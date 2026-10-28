@@ -1,9 +1,10 @@
 # XB-C0514 · CLR Networks · 土耳其
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-59-turkey.md`:57 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-59-turkey.md`:57 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R08 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
+- 研究后改级：XB → **XC**（W3-R08，同行品牌（中国厂商）→ C；其土耳其分销 GelecekBT 可作为新线索（下一轮考虑新增））；编号不变
 - 标记：profile批次文件、多处出现×2、缺联系
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
 - 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
@@ -49,12 +50,12 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R08，2026-10-28）
 
-- **结论：XB** — 邮箱待补（下一轮网查）→ B 不动
+- **结论：XC** — 同行品牌（中国厂商）→ C；其土耳其分销 GelecekBT 可作为新线索（下一轮考虑新增）
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：CLR Networks
-- 是什么人：CLR Networks；规模：未量化
+- 一句话：CLR Networks（深圳网络设备品牌；土耳其分销为 GelecekBT，satis@gelecekbt.com）
+- 是什么人：CLR Networks（深圳网络设备品牌；土耳其分销为 GelecekBT，satis@gelecekbt.com）；规模：未量化
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -65,5 +66,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
+| 本轮网查 | 官网联系页：Headquarters…Baoan District, Shenzhen；EMEA 联系 yusuf@clrnetworks.com；gelecekbt.com 为土耳其分销 | CLR Networks Türkiye Dağıtıcısı / Distribütörü GelecekBT’dir | http://www.clrnetworks.com/contact.html | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

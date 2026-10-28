@@ -1,11 +1,11 @@
 {
  "code": "XB-C0509",
  "name": "Rima Elektronik",
- "round": "W3-R06",
+ "round": "W3-R08",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Rima Elektronik",
- "type_final": "Rima Elektronik",
+ "summary": "IT/安防集成 + Digifort 分销（Rima Elektronik，Istanbul Florya；2000 起；销售 Erhan Türkay）",
+ "type_final": "IT/安防集成 + Digifort 分销（Rima Elektronik，Istanbul Florya；2000 起；销售 Erhan Türkay）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：uçtan uca entegre bilişim hizmetleri…2000 yılında kurulmuştur；bilgi@rimaelektronik.com",
+   "quote": "Rima Elektronik Bilişim ve Güvenlik Sistemleri…2000 yılında kurulmuştur",
+   "url": "https://www.rimaelektronik.com/iletisim"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "以集成/项目为主；bilgi@rimaelektronik.com 已记 → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",
