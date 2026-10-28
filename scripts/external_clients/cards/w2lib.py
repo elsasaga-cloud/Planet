@@ -51,7 +51,7 @@ def dist_intro(iso):
 
 def ind_intro(iso):
     return ("Saga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial "
-            "communication brands and want a second source at a lower price point, %s.\n\n%s" % (cert(iso), ind_block(iso)))
+            "communication brands and want a second source at a lower price point (%s certified).\n\n%s" % (cert(iso), ind_block(iso)))
 
 
 def date_en(iso_date):
@@ -100,8 +100,8 @@ def clean(s, n=220):
 
 
 def dist2_intro(iso):
-    return ("Saga Telecom supplies network and security distributors with PoE and industrial switches, under our label or the distributor's own, %s.\n\n%s"
-            % (cert(iso), dist2_block(iso)))
+    return ("Saga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; "
+            "we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\n%s" % dist2_block(iso))
 
 
 def j(J, code, g, act, slot=None, typ='', fit='', reason='', lead='Hi,', q='', to=None, kp=None, notes='', kind=None, angle='', force_first=False, hits_domain=None, touch=None):

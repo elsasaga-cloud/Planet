@@ -86,7 +86,7 @@ Subject: PoE switch line for your reseller channel - distributor pricing
 
 Hi,
 
-Saga Telecom supplies network and security distributors with PoE and industrial switches, under our label or the distributor's own, CE.
+Saga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.
 
 Three PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:
 
