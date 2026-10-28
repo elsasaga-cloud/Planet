@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 29
+  "count": 31
  },
  "rows": {
   "SA-015": {
@@ -1029,6 +1029,75 @@
    ],
    "notes": "accounts_due / PSC 页未抓（Pomanda 已给控股方）。",
    "code": "SB-724"
+  },
+  "SB-215": {
+   "batch": 95,
+   "name": "LINDY ELECTRONICS LIMITED（lindy.co.uk；Stockton-on-Tees）— LINDY-Elektronik GmbH（Mannheim）集团英国公司",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 02132710（1987-05-19 注册；Unit 103 Sadler Forster Way, Thornaby, Stockton-On-Tees TS17 9JY；Active；Small；1 项在押抵押）+ Endole（37 人；资产负债表 <£7.5M；4 officers / 3 股东 / 2 PSC；**Darren Neil Casey = Director / Secretary / PSC / Managing Director，1971-01 生**；Lesley Jean Gray；Jurgen Lindenberg 在册）+ lindy.com/global-locations（德国 LINDY-Elektronik GmbH, Markircher Str. 20/22, 68229 Mannheim = 总部；英国 Stockton 公司）+ LEI 529900RIHMCCKO7G8T48（Lindy-Elektronik GmbH；Mannheim；1964-10-20 登记）+ implisense（2023 年资产负债表 €16.1M）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/02132710",
+   "number": "Companies House 02132710（母公司 Lindy-Elektronik GmbH，Amtsgericht Mannheim；LEI 529900RIHMCCKO7G8T48）",
+   "status": "Active",
+   "incorporated": "1987-05-19（英国）；集团 1932 创立 / GmbH 1964 登记",
+   "company_type": "Private limited company（德国家族集团 Lindenberg 旗下）",
+   "sic": [
+    "46520 电信设备批发（自有品牌 LINDY 线缆 / KVM / 转换器 / 小交换机 / 工业交换机）"
+   ],
+   "address": "Unit 103 Sadler Forster Way, Teesside Industrial Estate, Thornaby, Stockton-On-Tees TS17 9JY",
+   "accounts": "Total Exemption Full；最近账目 2025-06-29 递交",
+   "accounts_due": "—",
+   "size_band": "英国公司小型（37 人）；集团中型（€16M 资产负债表 2023）",
+   "officers": [
+    "Darren Neil Casey — Managing Director / Director / Secretary / PSC（= 研究档 KP darren.casey@lindy.co.uk 本人）",
+    "Lesley Jean Gray — Officer",
+    "Jurgen Lindenberg — Director（集团家族）"
+   ],
+   "psc": "Darren Neil Casey + 集团（Lindenberg 家族）",
+   "charges": "1 项在押",
+   "charges_note": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP Darren Casey 就是英国公司 MD + PSC** → 英国渠道拍板人；但 LINDY 产品线由 Mannheim 总部 / 台北采购统一开发 → 英国 MD 能拍「本地库存 / 项目补货」，拍不了贴牌",
+    "自有品牌已含交换机 / 工业交换机（亚洲代工）= **OEM 30% 理论对口是 Mannheim 产品管理**，英国线只做分销 20%（SmartByte 品牌补其空白型号：2.5G / 10G 上联 PoE）",
+    "发信窗口 Thu 12–14 GMT；一页纸 + 一个问题：「英国仓现有 PoE 型号的交期痛点？」"
+   ],
+   "notes": "Mannheim HRB 号两说（LEI 页 HRB 786 / 第三方 HRB 712565）→ 未定，不作底数。",
+   "code": "SB-215"
+  },
+  "SB-372": {
+   "batch": 95,
+   "name": "AMG SYSTEMS LIMITED（amgsystems.com；Biggleswade）— 英国工业以太网交换机制造商 = 同行",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 02838846（1993-07-23 注册；3 Omega Centre, Stratton Business Park, Biggleswade SG18 8QB；Active；24 officers / 21 resignations）+ companycheck（现任董事：**Stephen Edwin Clarke 2019-08-09 任，1955-01 生**；Stephen Paul Kummik + Thomas Alexander Exley 2020-02-04 任）+ PSC 页（Edgenet Solutions Limited 11974182 持股 ≥75% + 任免权）+ 2019-08-12 TM01（Allen William Mabbitt 退任）+ Endole（Small；<50 人）+ amgsystems.com 数据表（AMG9HM2P 工业加固 PoE+ 管理型交换机自产）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/02838846",
+   "number": "Companies House 02838846",
+   "status": "Active",
+   "incorporated": "1993-07-23",
+   "company_type": "Private limited company（Edgenet Solutions Limited 11974182 控股 ≥75%，2019–2020 换手）",
+   "sic": [
+    "工业以太网 / 光纤传输设备设计制造（AMG 系列加固交换机、MC）"
+   ],
+   "address": "3 Omega Centre, Stratton Business Park, Biggleswade, Bedfordshire SG18 8QB",
+   "accounts": "Small（<50 人）",
+   "accounts_due": "—",
+   "size_band": "小型（<50 人）",
+   "officers": [
+    "Stephen Edwin Clarke — Director（2019-08-09 任；= 研究档 KP steve.clarke@amgsystems.com 本人）",
+    "Stephen Paul Kummik — Director（2020-02-04 任）",
+    "Thomas Alexander Exley — Director（2020-02-04 任）"
+   ],
+   "psc": "Edgenet Solutions Limited（11974182；≥75%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自产工业以太网交换机 = 同行** → 守界：不发价格表、不加厚、B 不动",
+    "研究档 KP Steve Clarke 是董事（2019-08 任，2019–2020 Edgenet 接盘后的管理层）→ 记档：若其日后找「商用 PoE 配套外采」才有戏，等他来",
+    "2019-08 / 2020-02 换手完成已 6 年 → 不是进门时机"
+   ],
+   "notes": "不再查。",
+   "code": "SB-372"
   }
  }
 }

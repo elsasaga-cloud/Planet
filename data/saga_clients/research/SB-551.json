@@ -29,7 +29,8 @@
    "title": "（姓氏/职务待核）",
    "email": "deepali@sanspot.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未取；SanSpot / OptoSpan 同一班人）= 收件人（第 95 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -40,8 +41,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 sanspot.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+  "hq": "125 Kennedy Dr, Suite 500, Hauppauge, NY 11788",
+  "other": "官网 sanspot.com，语言 ?，快照状态 http_error；角色判定来源：用户表；第 95 批：主品类光纤线缆 / 配线（Saga 不供）→ 只剩 MC + 光口小交换机贴标一条线 OEM 30%，一页纸即止（第 95 批 官方登记核实 2026-10-28）",
+  "legal_name": "SanSpot（品牌名；纽约法定实体未取，疑与 OptoSpan 同一公司）",
+  "founded": "2000（第三方）/ 域名 2003-06（第 95 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "布线 / 无源产品网店",

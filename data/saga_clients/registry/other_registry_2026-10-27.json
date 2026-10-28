@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 41
+  "updated": "2026-10-28",
+  "count": 43
  },
  "rows": {
   "SA-061": {
@@ -1283,6 +1283,71 @@
    "notes": "研究档 KP 无名 → 新增 Zaheer / Shaikh。",
    "fetched": "2026-10-27",
    "code": "SB-450"
+  },
+  "SB-528": {
+   "batch": 95,
+   "name": "CommFront Communications Pte. Ltd.（commfront.com）— 实为新加坡公司（美国地址为 Bethesda 虚拟办公室）",
+   "iso": "SG",
+   "fetched": "2026-10-28",
+   "source": "SG · 1 次检索：ACRA 镜像 sgpbusiness / recordowl / sgpgrid（COMMFRONT COMMUNICATIONS PTE. LTD.；UEN 201131527M；2011-10-22 注册；Exempt Private Company；实缴 S$50,100；1 Yishun Industrial Street 1 #05-31 A'Posh BizHub, Singapore 768160；主业 72102 电子研发；6 名高管 / 2 名股东）+ commfront.com/pages/contact-us（美国 3 Bethesda Metro Center Suite 700 Bethesda MD = 商务中心地址；新加坡 Yishun 地址；「since 2005」）+ ZoomInfo / Datanyze（新加坡；16 人；$4.4M 第三方估；2005）",
+   "url": "https://www.sgpbusiness.com/company/Commfront-Communications-Pte-Ltd",
+   "number": "ACRA UEN 201131527M",
+   "status": "Live Company",
+   "incorporated": "2011-10-22（业务自称 2005）",
+   "company_type": "Exempt Private Company Limited by Shares（新加坡）",
+   "sic": [
+    "72102 电子研发（自有品牌工业串口 / 光纤 / 以太网转换器 + 工业交换机，Shopify 网店直销）"
+   ],
+   "address": "1 Yishun Industrial Street 1, #05-31 A'Posh BizHub, Singapore 768160（美国通讯地址 Bethesda MD 20814）",
+   "accounts": "—（豁免私人公司）",
+   "accounts_due": "—",
+   "size_band": "小型（16 人；$4M 级第三方估）",
+   "officers": [
+    "高管 6 人（ACRA 镜像未列名；付费）"
+   ],
+   "psc": "2 名股东（未列名）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**国别更正：美国 → 新加坡**（美国地址只是商务中心）；自有品牌工业转换器 / 交换机制造兼网店 = **准同行**（华南代工为主）→ 不发价格表、B 不动",
+    "若要碰只有 OEM 30% 工业 PoE 一条线，但其货源本就在华南 → 低概率，不加厚",
+    "发信窗口若用 = 新加坡时区（与我同区）"
+   ],
+   "notes": "country_fix 新加坡；高管名单付费未取。",
+   "code": "SB-528"
+  },
+  "SB-370": {
+   "batch": 95,
+   "name": "Wildix（wildix.com）— 总部 Tallinn（Wildix OÜ，VAT EE101984698）/ 运营 Trento（Wildix S.r.l.）；英国 Coventry 办事处",
+   "iso": "EE",
+   "fetched": "2026-10-28",
+   "source": "EE/IT · 1 次检索：wildix.com/about（2005 年 Steve + Dimitri Osler 兄弟创立；Laeva tn. 2, 10111 Tallinn；VAT EE 101984698；100% 渠道）+ wildix.com/it/contatti（Wildix S.r.l. 运营地 Loc. le Basse 3, 38123 Trento）+ LinkedIn（HQ Tallinn；201–500 人；办事处 Trento / Paris / Coventry）+ dealroom（2023 年首轮外部融资 Livonia Partners 私募；2018 起持续盈利）+ Cavell 2025-11（360 人；ARR +36%）+ Wildix 2025-03 新闻稿（Dimitri Osler 任 CIO）",
+   "url": "https://www.wildix.com/about-wildix/",
+   "number": "爱沙尼亚商业登记号未取（VAT EE101984698）；意大利 Wildix S.r.l.（P.IVA 未取）",
+   "status": "Active",
+   "incorporated": "2005（Trento）",
+   "company_type": "OÜ（爱沙尼亚）+ S.r.l.（意大利）+ 多国子公司；私募 Livonia Partners 参股（2023）",
+   "sic": [
+    "UCaaS / VoIP 平台 + 自有品牌话机 / 网关 / PoE 交换机（W-PoE 系列，代工）"
+   ],
+   "address": "Laeva tn. 2, 10111 Tallinn, Estonia（运营：Loc. le Basse 3, 38123 Trento, Italy）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（360 人；百万级用户）",
+   "officers": [
+    "Steve Osler — CEO / Co-founder",
+    "Dimitri Osler — CIO / Co-founder（技术 / 产品）"
+   ],
+   "psc": "Osler 兄弟 + Livonia Partners",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**国别更正：英国 → 爱沙尼亚（总部）**；英国只是办事处；产品 / 采购在 Trento",
+    "自有品牌 PoE 交换机是话机配套（代工）→ 理论 OEM 30%，但 360 人集团 + 私募 → 只认工厂级 ODM → **B BIG，一页纸给 Trento 产品部即止**，不加厚",
+    "没有 KP → 若发只写 Trento 公域；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "country_fix 爱沙尼亚；登记号未取（爱沙尼亚 e-Business Register 付费 / 需名）。",
+   "code": "SB-370"
   }
  }
 }

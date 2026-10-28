@@ -46,14 +46,16 @@
    "title": "Director of Partner",
    "email": "jaime@alludolearning.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "**误归属**：alludolearning.com 与 Eagle Eye Networks 无关 → 不发（第 95 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Steve Roskowski",
    "title": "CTO",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "来源不明（研究档；与 een.com 无公开关联）→ 不发（第 95 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -64,8 +66,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 een.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "Austin, TX",
+  "other": "官网 een.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 95 批：云视频监控平台 = 守界（云管理）+ 2025-12 并入 Brivo 大集团 → B 不动、不发；KP 误归属已标（第 95 批 官方登记核实 2026-10-28）",
+  "legal_name": "Eagle Eye Networks, Inc.（Austin TX；2025-12 与 Brivo 合并，合并后以 Brivo 名义运营；登记号未取）",
+  "founded": "2012-07（Dean Drako）（第 95 批 官方登记核实 2026-10-28）",
+  "staff": "≈500 人（2023 487）"
  },
  "business_lines": [
   "云视频监控 VMS（自有品牌）",

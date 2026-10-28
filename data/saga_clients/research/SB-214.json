@@ -50,7 +50,8 @@
    "title": "（职务待核）",
    "email": "saeid.habibi@ddc-group.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "DDC 集团销售口（研究档）；**LevelOne = 同行品牌 + Peter 既有客户 → 不碰**（第 95 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Marcelo Pio",
@@ -68,8 +69,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 level1.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "Im Defdahl 10F, 44141 Dortmund",
+  "other": "官网 level1.com，语言 en，快照状态 ok；角色判定来源：用户表；第 95 批：LevelOne 台资同行品牌（台湾 / 中国代工）；研究档「Peter 的产品已经做进去了」= SmartByte 既有供应链一环 → Saga 不横插，B 不动、不发；价值仅为欧洲品牌加价参照（第 95 批 官方登记核实 2026-10-28）",
+  "legal_name": "Digital Data Communications GmbH（Amtsgericht Dortmund HRB 9821；USt DE124728154；GF Amanda (Shu-Wen) Chen；台北 DDC 集团）",
+  "founded": "1991-03-27（第 95 批 官方登记核实 2026-10-28）",
+  "staff": "60–100 人；股本 €5.5M"
  },
  "business_lines": [
   "网络产品品牌（LevelOne：工业/商用 PoE、管理交换机、MC）"

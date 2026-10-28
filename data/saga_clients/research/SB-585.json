@@ -37,7 +37,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Zhaoping Wei",
+   "role": "Prezes Zarządu / 80% 股东 / 实际受益人（rejestr.io KRS 0000857683；2020-09-03 起）= 老板 = 拍板人（华人；可中文直联 —— 由 Simon 决定；邮箱未公开 → 官网公域点名）（第 95 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://rejestr.io/krs/857683/vidos"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -46,11 +54,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "ul. Sokołowska 44, 05-806 Sokołów k/Warszawy",
-  "other": "官网 vidos.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌视频对讲 / 门禁「Producent」+ 已有自标 PoE → OEM 30%：4 / 8 口 PoE 贴 Vidos 标；zarząd 未取；同名陷阱 vidos-domofony.pl（KRS 0000857651）/ vidos-sklep.pl（PPHU HERZ）为经销商（第 94 批 官方登记核实 2026-10-28）",
-  "legal_name": "VIDOS Sp. z o.o.（KRS 0000857683 · NIP 5342626018 · REGON 386943260；资本 5,000 zł；前身 Reguły 主体 NIP 7281209711）",
-  "founded": "2020-09-03（KRS；品牌业务更早）（第 94 批 官方登记核实 2026-10-28）",
-  "staff": "小型（未取）"
+  "hq": "Sokołowska 44, Sokołów, 05-806 Komorów",
+  "other": "官网 vidos.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表；第 94 批：自有品牌视频对讲 / 门禁「Producent」+ 已有自标 PoE → OEM 30%：4 / 8 口 PoE 贴 Vidos 标；zarząd 未取；同名陷阱 vidos-domofony.pl（KRS 0000857651）/ vidos-sklep.pl（PPHU HERZ）为经销商（第 94 批 官方登记核实 2026-10-28）；第 95 批：老板华人 Zhaoping Wei、2025 营收 2,960 万 zł 盈利 → 自有品牌 PoE 必有国内货源 → OEM 30% 下调为「一对一替代」（交期 / Marvell 管理型才有戏）；收件人 = 老板本人（第 95 批 官方登记核实 2026-10-28）",
+  "legal_name": "VIDOS Sp. z o.o.（KRS 0000857683；NIP 5342626018；REGON 386943260；资本 5,000 zł；Zhaoping Wei 80% + Aneta Kaczmarczyk Wei 20%）",
+  "founded": "2020-09-03（第 95 批 官方登记核实 2026-10-28）",
+  "staff": "小型（2025 营收 29.6 mln zł、净利 2.5 mln zł；人数付费未取）"
  },
  "business_lines": [
   "可视对讲 / 密码锁 / 门禁自动化（自有品牌 VIDOS）",

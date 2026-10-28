@@ -42,7 +42,7 @@
  },
  "company_facts": {
   "hq": "波兰",
-  "other": "官网 avizio.pl，语言 ?，快照状态 ok；角色判定来源：用户表；第 94 批：底数 1 次检索未命中；侧证 lan-cctv.pl（AICOM 网店）页脚「AICOM · KRS 0000654397 · NIP 6782913975」→ Avizio 疑为 SB-445 AICOM（Kraków）自有品牌（推定）→ 下轮一次直查 avizio.pl Impressum 即可定并线（第 94 批 官方登记核实 2026-10-28）"
+  "other": "官网 avizio.pl，语言 ?，快照状态 ok；角色判定来源：用户表；第 94 批：底数 1 次检索未命中；侧证 lan-cctv.pl（AICOM 网店）页脚「AICOM · KRS 0000654397 · NIP 6782913975」→ Avizio 疑为 SB-445 AICOM（Kraków）自有品牌（推定）→ 下轮一次直查 avizio.pl Impressum 即可定并线（第 94 批 官方登记核实 2026-10-28）；第 95 批：avizio.pl 直查 → /kontakt 404、根域名 302 跳 a-lan.pl（A-LAN Technologie = AICOM 体系，品牌墙含 Avizio CCTV / Avizio Power；Ruijie Reyee 波兰授权分销）→ **并线 SB-445 坐实**，不再单独发 / 查（第 95 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防系统（自有标工业 PoE 交换机）"

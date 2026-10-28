@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 26
+  "count": 29
  },
  "rows": {
   "SA-008": {
@@ -905,6 +905,109 @@
    ],
    "notes": "第 94 批：微型 → 不加厚。",
    "code": "SB-846"
+  },
+  "SB-214": {
+   "batch": 95,
+   "name": "Digital Data Communications GmbH（level1.com / digital-data.de；Dortmund）— LevelOne 品牌 = 台资 DDC 集团欧洲公司（同行品牌）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：level1.com Imprint（GF Amanda (Shu-Wen) Chen；Amtsgericht Dortmund HRB 9821；USt DE 124728154）+ Northdata HRB 9821（Prokura Damian Nöthe / Johannes van Kempen；股本 €5,500,000；2010-12 商标 LEVEL ONE）+ implisense（1991-03-27 登记；Im Defdahl 10F, 44141 Dortmund；批发 4651）+ DDC 公司简介 PDF（1991 年 Dortmund 创立 IT 批发；60 人；研发 / 制造 / 分销网络 / 连接 / 安防产品；**生产在台湾 & 中国**；Soest 物流中心）+ non-plus-ultra（100 人）+ GITEX 2025 展商页（KAM Nico Riedl；BD Director Asia & ANZ Harry Yohannan）",
+   "url": "https://www.level1.com/level1_en/imprint",
+   "number": "Amtsgericht Dortmund HRB 9821",
+   "status": "Active",
+   "incorporated": "1991-03-27",
+   "company_type": "GmbH（股本 €5.5M；台北 Digital Data Communications 集团控股 — GF 为台籍）",
+   "sic": [
+    "4651 网络 / 外设批发 + 自有品牌 LevelOne（交换机 / PoE / 工业交换机 / 监控）设计分销"
+   ],
+   "address": "Im Defdahl 10F, 44141 Dortmund",
+   "accounts": "—（未取）",
+   "accounts_due": "—",
+   "size_band": "中型（60–100 人；€5.5M 股本）",
+   "officers": [
+    "Amanda (Shu-Wen) Chen — Geschäftsführerin（台籍，集团派驻）",
+    "Damian Nöthe — Prokurist",
+    "Johannes Elbert van Kempen — Prokurist",
+    "Saeid Habibi — 研究档 KP（ddc-group.com；销售口）"
+   ],
+   "psc": "台北 DDC 集团（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**LevelOne = 同行品牌（台资，产品自台湾 / 中国代工）**；研究档记「Peter 的产品已经做进去了」= **SmartByte 已是其供应链一环** → Saga 不能横插（供应商既有客户）→ B 不动、不发",
+    "价值只在情报：LevelOne 欧洲选型 / 价位 = SmartByte 在欧洲的「出厂→品牌」加价参照",
+    "研究档 KP Saeid Habibi 是销售（ddc-group.com）而非采购 → 即便日后碰也不是他"
+   ],
+   "notes": "Peter 既有客户 → 不碰；不再查。",
+   "code": "SB-214"
+  },
+  "SB-217": {
+   "batch": 95,
+   "name": "MICROSENS GmbH & Co. KG（microsens.com；Hamm）— 光纤 / 工业交换机制造商 = 同行",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：microsens.com/footer/imprint（HRA Hamm 1669；Komplementärin MICROSENS Beteiligungs GmbH HRB Hamm 1981；GF Dipl.-Ing. Frank Konrad + Dipl.-Kfm. Dirk Korn；USt DE170837673；Küferstr. 16, 59067 Hamm）+ Northdata HRA 1669 + companyhouse.de（1995-12-06 登记；资本 €1,000,000；制造业；最近变更 2026-09-02）+ wer-zu-wem（50–99 人；营收 €10–50M）+ Elektroniknet 2006（euromicron AG 收购 80%；创始人 Dr. Hocine Bezzaoui 1993 创立）+ Wikipedia euromicron（2020-06 破产清算 → Microsens 已脱离）",
+   "url": "https://www.microsens.com/footer/imprint",
+   "number": "Amtsgericht Hamm HRA 1669（Komplementärin HRB 1981）",
+   "status": "Active",
+   "incorporated": "1993（创立）/ 1995-12-06（KG 登记）",
+   "company_type": "GmbH & Co. KG（原 euromicron 集团 80%，euromicron 2020 破产后独立 / 易主）",
+   "sic": [
+    "26 光纤传输 / 工业以太网 / 楼宇微型交换机制造（自研自产，Hamm）"
+   ],
+   "address": "Küferstr. 16, 59067 Hamm",
+   "accounts": "—（KG 未公开）",
+   "accounts_due": "—",
+   "size_band": "中型（50–99 人；€10–50M）",
+   "officers": [
+    "Frank Konrad — Geschäftsführer",
+    "Dirk Korn — Geschäftsführer",
+    "Anke de Vries / Nailia Faut — 研究档 KP（microsens.de；市场 / 销售口）"
+   ],
+   "psc": "未取（euromicron 破产后股东变更未公开）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**德国本土光纤 / 工业交换机制造商 = 同行** → 守界：不发价格表、不加厚、B 不动",
+    "研究档 KP 两位是市场 / 销售口 → 即便有 ODM 需求也不是她们",
+    "记档价值：euromicron 2020 破产后的 Microsens 现股东未公开 → 若日后出现「外采商用 PoE 补线」信号再看"
+   ],
+   "notes": "不再查。",
+   "code": "SB-217"
+  },
+  "SB-369": {
+   "batch": 95,
+   "name": "Wieland Electric GmbH（wieland-electric.com；Bamberg）— 工业连接 / 自动化集团，wienet 工业交换机为代工自有品牌",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：wieland-electric.com/en/imprint（HRB 105 Amtsgericht Bamberg；GF Dr.-Ing. Börne Rensing + Dr. Christian Wahlers；Brennerstraße 10-14, 96052 Bamberg）+ openregister（Prokura 2025-06 Fabian Reuß；2026-03 Thilo Döring / Eik Stachowicz）+ online-handelsregister（1949-09-27 GmbH 登记；资本 €15,500,000）+ Northdata（LEI 5299001AC5UDXKZ6J390）+ Die Deutsche Wirtschaft（2,200 人；营收 €181.8M 2024）+ craft.co（2024：营收 €181.8M、净亏 €3.5M）+ unternehmen24（净利 2022 +€5.5M → 2023 −€16.1M → 2024 −€3.5M）+ Wikipedia（1910 创立；€223.2M 2022）",
+   "url": "https://www.wieland-electric.com/en/imprint/",
+   "number": "Amtsgericht Bamberg HRB 105（LEI 5299001AC5UDXKZ6J390）",
+   "status": "Active",
+   "incorporated": "1910（创立）/ 1949-09-27（GmbH）",
+   "company_type": "GmbH（股本 €15.5M；Wieland 家族集团）",
+   "sic": [
+    "27 工业连接器 / 安全继电器 / 楼宇电气安装系统制造 + wienet 工业交换机 / 路由（代工自有品牌）"
+   ],
+   "address": "Brennerstraße 10-14, 96052 Bamberg",
+   "accounts": "2024 营收 €181.8M、净亏 €3.5M（2023 净亏 €16.1M）",
+   "accounts_due": "—",
+   "size_band": "大型（2,200 人集团；€180–220M）",
+   "officers": [
+    "Dr.-Ing. Börne Rensing — Geschäftsführer（2021-02 起）",
+    "Dr. Christian Wahlers — Geschäftsführer（2021-07 起）",
+    "Prokura 多人（2025–2026 新增 3 人）"
+   ],
+   "psc": "Wieland 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**大型工业集团、wienet 交换机本就外采贴牌** → 理论 OEM 30%，但走集团采购 + 工厂级审核 → **B BIG**，一页纸工业 PoE 给产品管理即止，不加厚",
+    "2023–2024 连亏（−€16.1M / −€3.5M）+ 2025–2026 新增 3 名 Prokurist = 降本换血期 → 「更便宜的工业 PoE 代工」有听众，但 Saga 不是工厂 → 不要包装成制造商（守 Saga.md）",
+    "没有 KP → 若发只写 wienet 产品公域；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "不加厚。",
+   "code": "SB-369"
   }
  }
 }

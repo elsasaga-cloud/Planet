@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 50
+  "count": 55
  },
  "rows": {
   "SA-002": {
@@ -1694,6 +1694,174 @@
    ],
    "notes": "CA 登记号未取；不再追。",
    "code": "SB-351"
+  },
+  "SB-501": {
+   "batch": 95,
+   "name": "DITEK Corporation（diteksurgeprotection.com；Largo FL）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：diteksurgeprotection.com/about（1988 年海军退伍 Robert (Bob) McIntyre 创立；夫妻 Bob + Joanne；100+ 美国本土员工；女儿 Wendy Gattis = CEO、Melissa Lostraglio = VP Administration；Bob 任 Board Chairman）+ Thomasnet 新闻（2021-03-04 Wendy Gattis 升 CEO）+ Security Systems News 2023-05（107 人）+ LinkedIn（51–200 人；Founded 1988）+ RocketReach（1720 Starkey Road, Largo FL 33771；99 人；$19.9M 第三方估）+ DITEK 2024-Q1 社区稿（Dave Gattis = VP Engineering）",
+   "url": "https://www.diteksurgeprotection.com/about/",
+   "number": "FL 登记号未取（Sunbiz ✗）",
+   "status": "Active（官网 2026-09 更新；Thomasnet 在册）",
+   "incorporated": "1988",
+   "company_type": "Corporation（佛州；家族持有，第二代经营）",
+   "sic": [
+    "浪涌保护器制造（安防 / 消防 / 数据线路）+ 「network solutions」自有标 PoE / 工业交换机线（研究档：PoE 及配件、工业 FS 自有 logo）"
+   ],
+   "address": "1720 Starkey Road, Largo, FL 33771",
+   "accounts": "—（私有）",
+   "accounts_due": "—",
+   "size_band": "中型（100–120 人；$20M 级第三方估；50,000 sq ft 自有厂房）",
+   "officers": [
+    "Wendy Gattis — CEO（2021-03 起；创始人之女）",
+    "Dave Gattis — VP Engineering（产品 / 选型口）",
+    "Melissa Lostraglio — VP Administration",
+    "Robert (Bob) McIntyre — Founder / Chairman"
+   ],
+   "psc": "McIntyre / Gattis 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**美国本土浪涌保护制造商，交换机不是自产而是贴标外采（研究档「工业 FS 自己的 logo」）→ OEM 30%**：工业 PoE 小口数 + 商用 PoE 给其安防渠道配套；对口是 VP Engineering Dave Gattis（产品）而非销售",
+    "家族企业第二代、「坚持美国制造」是其对外叙事 → 发信**只讲部件级配套 + 中性包装 + FCC / CE**，不碰「产地」话题；先款后货、MOQ 1",
+    "主业与 Saga 不冲突（我们不做浪涌）→ 可提「互补」：他们的 PoE 浪涌保护 + 我们的 PoE 交换机同一张 BOM；发信窗口 Wed 08–10 ET"
+   ],
+   "notes": "FL 实体号未取（Sunbiz ✗）；第三方营收只作区间。",
+   "code": "SB-501"
+  },
+  "SB-551": {
+   "batch": 95,
+   "name": "SanSpot（sanspot.com；Hauppauge NY）— 光纤线缆 / 配线自有品牌，OptoSpan 同门",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：sanspot.com/about-sanspot（「10 年以上」；30,000 sq ft 纽约仓；经销 OptoSpan / Cisco / Brocade / Finisar 等；地址 125 Kennedy Dr. Suite 500, Hauppauge NY 11788）+ Crunchbase（Hauppauge；11–50 人；sameAs LinkedIn optospan）+ craft.co / salary.com（Founded 2000；旧址 50 Alexander Ct, Ronkonkoma NY 11779）+ WHOIS 镜像（域名 2003-06-15 注册，隐私代理）",
+   "url": "https://www.sanspot.com/about-sanspot",
+   "number": "NY 登记号未取（NY DOS 按法定名查，SanSpot 为品牌名；法定实体疑为 OptoSpan 同一公司）",
+   "status": "官网在线（2026）",
+   "incorporated": "2000（第三方）/ 域名 2003",
+   "company_type": "私有公司（纽约；法定名未取）",
+   "sic": [
+    "光纤跳线 / MPO / 铠装光缆 / 配线架自有品牌（SanSpot + OptoSpan）+ 网络设备转售"
+   ],
+   "address": "125 Kennedy Dr, Suite 500, Hauppauge, NY 11788",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Deepali（姓未取）— 研究档 KP deepali@sanspot.com（职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "主品类是光纤线缆 / 配线（Saga 不供）；研究档「MC 自有 logo」→ **只剩 MC + 光口小交换机一条线 OEM 30%**，一页纸即止",
+    "SanSpot 与 OptoSpan 同一班人（Crunchbase sameAs）→ 若回信，两牌一并谈；不投第 2 封",
+    "法定名未取（品牌名查不到 NY DOS）→ 底数到此为止"
+   ],
+   "notes": "NY DOS 需法定名；不再追。",
+   "code": "SB-551"
+  },
+  "SB-881": {
+   "batch": 95,
+   "name": "Nexlar Security, LLC（nexlar.com；Houston TX）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：BBB Houston（Nexlar Security, LLC；Business Started 2006-04-20；Incorporated 2007-10-08；LLC；Mr. Rodrigo Lima, Manager；A+）+ nexlar.com 新闻稿 2025-01（创始人 Rodrigo Lima，rod@nexlar.com 公开）+ nexlar.com 博客 2026-08（2825 Wilcrest Dr, Houston；德州执照 #B14634；1,000+ 商业客户）+ LinkedIn（11–50 人；Founded 2007）+ RocketReach（13 人）+ D&B（Key Principal Rod Lima）",
+   "url": "https://www.bbb.org/us/tx/houston/profile/security-systems-consultants/nexlar-security-llc-0915-90015595",
+   "number": "TX 登记号未取（TX SoS 付费；BBB 记 2007-10-08 成立）",
+   "status": "Active（BBB A+；官网 2026-08 更新）",
+   "incorporated": "2006-04-20（开业）/ 2007-10-08（LLC）",
+   "company_type": "Limited Liability Company（德州）",
+   "sic": [
+    "商用安防集成（监控 / 门禁 / 可视对讲 / 自动门 / 虚拟保安）"
+   ],
+   "address": "2825 Wilcrest Dr, Suite 170, Houston, TX 77042",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（13–49 人；<$5M 第三方估）",
+   "officers": [
+    "Rodrigo (Rod) Lima — Founder / Manager（老板；rod@nexlar.com 新闻稿公开）"
+   ],
+   "psc": "Rodrigo Lima（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "休斯顿安防集成商、老板 Rod Lima 邮箱公开 → **小项目集成商 25%**：商用 PoE（STC-028GP / STC-2224GP）配监控项目，直接写老板",
+    "研究档「自有 logo」= 项目贴牌（Alfred360 等自有产品名）→ 可提中性包装；量按项目走，不加厚",
+    "德州执照 B14634 = 正规持牌集成商；发信窗口 Wed 08–10 CT"
+   ],
+   "notes": "TX SoS 付费未查。",
+   "code": "SB-881"
+  },
+  "SB-211": {
+   "batch": 95,
+   "name": "Eagle Eye Networks, Inc.（een.com；Austin TX）— 2025-12 与 Brivo 合并",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：Wikipedia（2012 年 Dean Drako（Barracuda 创始人）创立；Austin；487 人（2023）；2023 年 SECOM 投资 $100M；**2025-12 与 Brivo 合并，合并后以 Brivo 名义运营，Drako 任 CEO**）+ Owler（Private Subsidiary of Brivo Systems, LLC）+ BusinessWire 2022-07（2012-07 注册；2,500+ 渠道伙伴；12 个数据中心；Amsterdam / Tokyo / Bangalore 办事处）+ ZoomInfo 2026-04（合并后高管变动：Steven Till 任 President）",
+   "url": "https://en.wikipedia.org/wiki/Eagle_Eye_Networks",
+   "number": "TX / DE 登记号未取",
+   "status": "Active（合并入 Brivo 2025-12）",
+   "incorporated": "2012-07",
+   "company_type": "Inc.（Delaware 推定）；现为 Brivo 集团一部分",
+   "sic": [
+    "云视频监控 VMS / 视频 API（SaaS；自有云桥接盒 + 配套交换机）"
+   ],
+   "address": "Austin, TX（总部；具体门牌未取）",
+   "accounts": "—（私有）",
+   "accounts_due": "—",
+   "size_band": "大型（≈500 人；SECOM / 私募股东）",
+   "officers": [
+    "Dean Drako — Founder / CEO（合并后 Brivo CEO；多数股东）",
+    "Steven Till — President（合并后，原 Brivo 创始人）"
+   ],
+   "psc": "Dean Drako（多数）+ SECOM（2023 投资）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**云管理视频监控平台 = 守界（Saga 不做云管理）+ 2025-12 并入 Brivo 大集团** → B 不动、不发",
+    "研究档 KP 邮箱 alludolearning.com 与 een.com 无关 = **误归属**（Jaime Becker / Steve Roskowski 不属该公司）→ 标注不发",
+    "若日后要碰，只有其云桥接盒配套的 PoE 交换机 ODM 一条线，需工厂级资质 → 不是 Saga 的菜"
+   ],
+   "notes": "KP 误归属已标；不再查。",
+   "code": "SB-211"
+  },
+  "SB-544": {
+   "batch": 95,
+   "name": "Mako Networks, Inc.（makonetworks.com；Elgin IL）— 云管理 PCI 网络设备商（2000 年奥克兰创立）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：makonetworks.com/about（2000 年 Chris Massam + Simon Gamble 创立；PCI DSS / SD-WAN / 云管理；美国总部 + 英 / 澳 / 新西兰）+ LinkedIn（Elgin IL；51–200 人；Founded 2000）+ Crunchbase（CEO Jason Kubasak；President Simon Gamble；CTO Chris Massam；CFO Mike Bryniarski）+ RocketReach（1355 North McLean Blvd, Elgin IL 60123；77 人；$18.5M 第三方估）+ theorg（Director of Procurement Andrzej Krupa；SVP Sales Todd Vojta = 研究档 KP）+ docs.makonetworks.com（原新西兰 YellowTuna Networks）",
+   "url": "https://makonetworks.com/about/",
+   "number": "IL / NZ 登记号未取",
+   "status": "Active",
+   "incorporated": "2000（新西兰 YellowTuna Networks）；美国总部 Elgin IL",
+   "company_type": "Inc.（美国）+ Mako Networks NZ Limited",
+   "sic": [
+    "云管理网络设备（Mako 系列防火墙 / 交换机 / LTE 失效切换）+ PCI DSS 合规管理服务（零售 / 加油站）"
+   ],
+   "address": "1355 North McLean Blvd, Elgin, IL 60123",
+   "accounts": "—（私有）",
+   "accounts_due": "—",
+   "size_band": "中型（75–77 人；$18.5M 第三方估）",
+   "officers": [
+    "Jason Kubasak — CEO",
+    "Simon Gamble — President / Co-founder",
+    "Chris Massam — CTO / Co-founder",
+    "Andrzej Krupa — Director of Procurement（采购口）",
+    "Todd Vojta — SVP Sales（研究档 KP = 销售，不管采购）"
+   ],
+   "psc": "创始人 + 投资人（未取）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**云管理网络 = 守界**（其交换机走自家云平台，需 ODM 固件配合）→ 不发价格表、B 不动",
+    "研究档 KP Todd Vojta 是 SVP Sales（卖方），采购口是 Director of Procurement Andrzej Krupa → 若日后碰，只写采购，且只有 ODM 工厂级才有戏 = 不是 Saga 的菜",
+    "记档价值：知道它是「同行里的平台商」，别再群发"
+   ],
+   "notes": "不再查。",
+   "code": "SB-544"
   }
  }
 }

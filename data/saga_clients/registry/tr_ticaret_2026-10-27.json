@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 45
+  "count": 46
  },
  "rows": {
   "SA-086": {
@@ -1477,6 +1477,36 @@
    ],
    "notes": "第 94 批 1 次未命中；标「底数不可查（名片户）」。",
    "code": "SB-323"
+  },
+  "SB-718": {
+   "batch": 95,
+   "name": "Düzgün Toptan Ticaret（teksarf.com；gmail 名片户）— 1 次检索未命中",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索「Düzgün Toptan Ticaret teksarf.com」→ 结果全是无关 toptan 安防批发站（ZTech / Toptan Sarf / NR Güvenlik 等）→ 未命中即停",
+   "url": "",
+   "number": "未取",
+   "status": "未取",
+   "incorporated": "未取",
+   "company_type": "未取（疑个体 / 家族批发）",
+   "sic": [
+    "安防耗材批发（研究档）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Düzgün 家族业主（姓名待核）"
+   ],
+   "psc": "",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "gmail 名片户、1 次未命中 → 标「底数不可查（名片户）」，不再查；B 不动"
+   ],
+   "notes": "side leads：ZTech / Starlink Güvenlik（土耳其本土品牌，进口方 Zerginar Dış Ticaret）、Toptan Sarf（Bahçelievler）、Securitech A.Ş.（2018，Muammer Korkmaz）—— 不在库，仅记。",
+   "code": "SB-718"
   }
  }
 }

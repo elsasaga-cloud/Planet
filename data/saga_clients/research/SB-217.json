@@ -31,14 +31,16 @@
    "title": "（表内联系人）",
    "email": "adevries@microsens.de",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "市场 / 销售口（研究档）；**同行 → 不发**（第 95 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Nailia Faut",
    "title": "（表内联系人）",
    "email": "nfaut@microsens.de",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "市场 / 销售口（研究档）；**同行 → 不发**（第 95 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -49,11 +51,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "MICROSENS GmbH & Co. KG",
-  "founded": "1993",
-  "hq": "Hamm, Germany",
+  "legal_name": "MICROSENS GmbH & Co. KG（Amtsgericht Hamm HRA 1669；Komplementärin MICROSENS Beteiligungs GmbH HRB 1981；GF Frank Konrad + Dirk Korn）",
+  "founded": "1993（创立）/ 1995-12-06（KG）（第 95 批 官方登记核实 2026-10-28）",
+  "hq": "Küferstr. 16, 59067 Hamm",
   "size": "中型制造商（euromicron 集团）",
-  "other": "白色外壳自有设计"
+  "other": "白色外壳自有设计；第 95 批：德国本土光纤 / 工业交换机制造商（原 euromicron 80%，euromicron 2020 破产后独立）= 同行 → 守界不发、B 不动（第 95 批 官方登记核实 2026-10-28）",
+  "staff": "50–99 人；€10–50M"
  },
  "business_lines": [
   "光纤交换机 / 智能楼宇 / 工业交换机（自有品牌）"

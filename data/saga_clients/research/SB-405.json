@@ -50,7 +50,8 @@
    "title": "（职务待核）",
    "email": "notek@ats.pl",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "业主 / 制造者（tinycontrol Marcin Nosek；CEIDG 2023-11-01；NIP 7961580284）= 拍板人 = 收件人（第 95 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -61,8 +62,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "波兰",
-  "other": "官网 tinycontrol.pl，语言 en，快照状态 ok；角色判定来源：待核"
+  "hq": "ul. Tadeusza Mazowieckiego 7G, 26-600 Radom",
+  "other": "官网 tinycontrol.pl，语言 en，快照状态 ok；角色判定来源：待核；第 95 批：自研 LAN 控制器 + 外采配套交换机（2 光 10 电）→ OEM 30% 微量，一页纸写业主（第 95 批 官方登记核实 2026-10-28）",
+  "legal_name": "tinycontrol Marcin Nosek（CEIDG；NIP 7961580284；REGON 526800704）",
+  "founded": "2023-11-01（现实体；品牌 / ATS 更早）（第 95 批 官方登记核实 2026-10-28）",
+  "staff": "微型"
  },
  "business_lines": [
   "LAN 控制器 / PoE 交换机（自有品牌 tinycontrol）"

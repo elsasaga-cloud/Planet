@@ -37,7 +37,22 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Dave Gattis",
+   "role": "VP Engineering（DITEK 2024-Q1 社区稿）= 产品 / 选型口 = 首收件人（邮箱未公开 → 官网表单 / sales@ 点名）（第 95 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.diteksurgeprotection.com/ditek-community-involvement-2024-q1/"
+  },
+  {
+   "name": "Wendy Gattis",
+   "role": "CEO（2021-03-04 起；创始人 Robert McIntyre 之女）= 拍板人 = 抄送（第 95 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.thomasnet.com/company/01182816/profile"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -46,8 +61,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 diteksurgeprotection.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "1720 Starkey Road, Largo, FL 33771",
+  "other": "官网 diteksurgeprotection.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 95 批：美国本土浪涌保护制造商 + 自有标 PoE / 工业交换机（外采贴标）→ OEM 30%，对口 VP Engineering；对外叙事「美国制造」→ 只谈部件配套 + 中性包装，不碰产地（第 95 批 官方登记核实 2026-10-28）",
+  "legal_name": "DITEK Corporation（佛州；FL 登记号未取 Sunbiz ✗）",
+  "founded": "1988（Robert McIntyre）（第 95 批 官方登记核实 2026-10-28）",
+  "staff": "100–120 人；$19.9M 级（第三方）"
  },
  "business_lines": [
   "电涌保护（商业 / 工业 / 住宅）",

@@ -46,8 +46,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 wieland-electric.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "Brennerstraße 10-14, 96052 Bamberg",
+  "other": "官网 wieland-electric.com，语言 en，快照状态 ok；角色判定来源：用户表；第 95 批：工业连接集团，wienet 交换机为代工自有品牌 → 理论 OEM 30% 但集团采购 + 工厂级审核 → B BIG 一页纸即止；2023–24 连亏 + 2025–26 新增 Prokurist = 降本期，但 Saga 不包装成制造商（第 95 批 官方登记核实 2026-10-28）",
+  "legal_name": "Wieland Electric GmbH（Amtsgericht Bamberg HRB 105；LEI 5299001AC5UDXKZ6J390；GF Dr.-Ing. Börne Rensing + Dr. Christian Wahlers）",
+  "founded": "1910（创立）/ 1949-09-27（GmbH）（第 95 批 官方登记核实 2026-10-28）",
+  "staff": "2,200 人（集团）；营收 €181.8M（2024）"
  },
  "business_lines": [
   "电气连接技术 / 可插拔安装技术",

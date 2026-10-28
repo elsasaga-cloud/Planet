@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 21
+  "count": 25
  },
  "rows": {
   "SA-023": {
@@ -585,97 +585,102 @@
    "code": "SB-270"
   },
   "SB-585": {
-   "batch": 94,
-   "name": "VIDOS Sp. z o.o.（vidos.pl；Sokołów k/Warszawy）",
+   "batch": 95,
+   "name": "VIDOS Sp. z o.o.（vidos.pl；Sokołów / Komorów）— 补项：zarząd + 2025 财报",
    "iso": "PL",
    "fetched": "2026-10-28",
-   "source": "PL · 1 次检索：aleo / gowork / aplikuj（VIDOS SPÓŁKA Z O.O.；KRS 0000857683；NIP 5342626018；REGON 386943260；ul. Sokołowska 44, 05-806 Sokołów；资本 5,000 zł；KRS 登记 2020-09-03；状态 AKTYWNA；PKD 批发）+ vidos.pl/contact（Vidos LLC 同址；旧 2018 页 Reguły Al. Jerozolimskie 311、NIP 728-120-97-11 = 前身个体 / 旧主体）+ 产品页（视频对讲 / 门禁 / 门控自动化 / CCTV 自有品牌「Producent」；客户为安防专业公司）；同名陷阱：vidos-domofony.pl（KRS 0000857651 另一法人）、PPHU HERZ vidos-sklep.pl（经销商）",
-   "url": "https://aleo.com/int/company/vidos-sp-z-oo-sokolow",
+   "source": "PL · rejestr.io 直页 KRS 0000857683（VIDOS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ；NIP 5342626018；REGON 386943260；Sokołowska 44, Sokołów, 05-806 Komorów；2020-09-03 登记；资本 5 tys. zł；**Prezes Zarządu Zhaoping Wei（80% 股东 / 实际受益人）+ Członek Zarządu Aneta Bogumiła Kaczmarczyk Wei（20%）**，两人均自 2020-09-03 起；2025 财报：营收 29.6 mln zł、成本 26.4 mln、净利 2.5 mln、资产 10.5 mln；主业 46 批发；最近登记 2026-07-17）",
+   "url": "https://rejestr.io/krs/857683/vidos",
    "number": "KRS 0000857683 / NIP 5342626018 / REGON 386943260",
-   "status": "AKTYWNA",
-   "incorporated": "2020-09-03（KRS；品牌业务更早，前身 Reguły 主体 NIP 7281209711）",
-   "company_type": "Spółka z o.o.（资本 5,000 zł）",
+   "status": "Active（VAT czynny）",
+   "incorporated": "2020-09-03",
+   "company_type": "Sp. z o.o.（资本 5,000 zł；华人老板 Zhaoping Wei 80% + 配偶 20%）",
    "sic": [
-    "视频对讲 / 门禁 / 门控自动化 自有品牌（亚洲代工）批发给安防安装商"
+    "46 批发（视频对讲 / 门禁 / CCTV 自有品牌 Vidos）"
    ],
-   "address": "ul. Sokołowska 44, 05-806 Sokołów k/Warszawy",
-   "accounts": "未取（rejestr.io 未单独取）",
-   "accounts_due": "—",
-   "size_band": "小型（人数未取；有招聘页）",
+   "address": "Sokołowska 44, Sokołów, 05-806 Komorów（华沙西郊）",
+   "accounts": "2025：营收 29.6 mln zł、净利 2.5 mln zł（利润率 8.4%）",
+   "accounts_due": "已递交 2025 年报",
+   "size_band": "小型（营收 ≈€7M；人数付费未取）",
    "officers": [
-    "（zarząd 未取 — 1 次检索片段无人名）"
+    "Zhaoping Wei — Prezes Zarządu / 80% 股东 / 实际受益人（华人老板）",
+    "Aneta Bogumiła Kaczmarczyk Wei — Członek Zarządu / 20%"
    ],
-   "psc": "未取",
+   "psc": "Zhaoping Wei 80% + Aneta Kaczmarczyk Wei 20%",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**自有品牌对讲 + 已有自标 PoE 交换机（研究档）= 现成贴牌买家** → **OEM 30%：4 / 8 口 PoE（对讲 / 门口机供电）STC-028GP / STI-054GP 贴 Vidos 标**",
-    "2020 新法人 + 5,000 zł 资本 = 重组后的轻资产贸易主体 → 先款后货；研究档无 KP → 写 公域邮箱 + 要采购负责人",
-    "同名陷阱：vidos-domofony.pl / vidos-sklep.pl 都是别的法人（经销商），别混"
+    "**老板是华人（Zhaoping Wei）、2020 年新法人、2025 年营收 2,960 万 zł 且盈利** → 自有品牌 PoE 必然已有国内货源 → OEM 30% 概率下调为「一对一替代」：只有比现供更稳的交期 / 更好的 Marvell 管理型才有戏",
+    "**可中文直联老板**（例外于常规英文信；由 Simon 决定）；收件人 = 老板本人而非公域 sales",
+    "2.5 mln 净利 + 资产 1,050 万 = 有现金、能先款后货；发信窗口 Thu 12–14 CET"
    ],
-   "notes": "zarząd / 财务未取（省 1 次 rejestr.io）。",
+   "notes": "第 94 批 aleo 摘要 + 本批 rejestr.io 直页合并；人数需付费。",
    "code": "SB-585"
   },
   "SB-906": {
-   "batch": 94,
-   "name": "Avizio（avizio.pl）— 1 次未命中（侧证：疑为 SB-445 AICOM 的自有品牌）",
+   "batch": 95,
+   "name": "Avizio（avizio.pl）= A-LAN Technologie / AICOM 自有 CCTV 品牌 → 并线 SB-445",
    "iso": "PL",
    "fetched": "2026-10-28",
-   "source": "PL · 1 次检索「Avizio avizio.pl firma KRS」：无 Avizio 法人页；侧证：lan-cctv.pl 站内搜索「avizio」页脚显示「AICOM · NIP 6782913975 · REGON 356808516 · KRS 0000654397」（lan-cctv.pl = AICOM 的网店）→ Avizio 疑为 AICOM Sp. z o.o.（Kraków；SB-445）自有品牌（推定，未经 Impressum 直证）",
-   "url": "https://www.lan-cctv.pl/wyszukiwanie,list,0,0?search=avizio",
-   "number": "（疑）AICOM KRS 0000654397 / NIP 6782913975",
-   "status": "未命中（品牌站无法人页）",
-   "incorporated": "—",
-   "company_type": "—（疑为 AICOM 品牌）",
+   "source": "PL · 直查 ×2：avizio.pl/kontakt → 404；avizio.pl 根域名 → 302 跳转 a-lan.pl（A-LAN Technologie：图片资源来自 aicom.pl；品牌墙 A-LANTEC / WireArte / Kerpen / **Avizio CCTV / Avizio Power** / Q-lantec；Ruijie Reyee 波兰授权分销；Forbes 2025 家族企业 50 强；NASK 校园 LAN 项目机柜）",
+   "url": "https://a-lan.pl/",
+   "number": "= SB-445 AICOM（KRS 0000654397）",
+   "status": "Active（a-lan.pl 2026 更新）",
+   "incorporated": "— 见 SB-445",
+   "company_type": "品牌（非独立法人）",
    "sic": [
-    "（研究档）工业 FS 刷自有标、安防为主"
+    "CCTV / 电源自有品牌（A-LAN 集团）"
    ],
-   "address": "（疑）Kraków",
+   "address": "= SB-445",
    "accounts": "—",
    "accounts_due": "—",
-   "size_band": "—",
-   "officers": [],
-   "psc": "",
+   "size_band": "= SB-445",
+   "officers": [
+    "= SB-445"
+   ],
+   "psc": "= SB-445",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**一次未命中 → 停**；但侧证指向 Avizio = SB-445 AICOM 自有品牌 → **下轮一次直查 avizio.pl Impressum 即可定「并线 SB-445」**",
-    "若并线成立：SB-445 研究档「在用国内的、8 次无回复」+ 自有品牌 = OEM 30% 对象但已冷 → 不加投入",
-    "暂不改研究档归属"
+    "**直查坐实：avizio.pl 直接跳到 a-lan.pl（A-LAN Technologie = AICOM 体系）→ SB-906 并线 SB-445，只跟一条线**",
+    "A-LAN 是 Ruijie Reyee 波兰授权分销 + 自有布线品牌 → 交换机货架有 Ruijie，Saga 只能补「自有品牌 Avizio PoE」贴标一条线 OEM 30%（走 SB-445）"
    ],
-   "notes": "第 94 批 1 次未命中 + 侧证推定；下轮 1 次直查。",
+   "notes": "并线 SB-445；不再单独查。",
    "code": "SB-906"
   },
   "SB-1046": {
-   "batch": 94,
-   "name": "VOLTA Sp. z o.o.（ivolta.pl / volta.com.pl；Warszawa）— Satel / Hikvision / Dahua 授权分销",
+   "batch": 95,
+   "name": "VOLTA Sp. z o.o.（ivolta.pl；Warszawa）— 补项：zarząd + 2025 年报要点",
    "iso": "PL",
    "fetched": "2026-10-28",
-   "source": "PL · 1 次检索：bizraport（VOLTA SP. Z O.O.；KRS 0000023698；NIP 5211367444；REGON 010829096；登记 2001-06-28；资本 1,020,000 PLN；营收 2025 90.85 mln zł / 2024 83.30 / 2023 83.19；资产 30.4 mln）+ ivolta.pl/contact（ul. Jutrzenki 94, 02-230 Warszawa；BDO 000051577）+ en.ivolta.pl（25 年；Satel / Hikvision / Dahua 授权分销；70+ 人；华沙总部 + 10 分部）+ LinkedIn（51–200 人；1986 起）",
-   "url": "https://www.bizraport.pl/krs/0000023698/volta-spolka-z-ograniczona-odpowiedzialnoscia",
+   "source": "PL · rejestr.io 直页 KRS 0000023698（VOLTA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ；NIP 5211367444；REGON 010829096；Jutrzenki 94, 02-230 Warszawa；2001-06-28 登记；资本 1 mln zł；**Prezes Konrad Ryszard Koperski（2008-07 起）**，Członek Anetta Maria Wójcik（2017-03）/ Dariusz Szewczyk（2019-07）；股东 Janusz Tadeusz Olesiewicz 50% + Konrad Olesiewicz 50%（父子；监事会 Konrad / Anna Olesiewicz + Piotr Stefańczyk）；2025 财报：营收 90.8 mln zł、成本 91.1 mln、**净亏 266.6 tys. zł**、资产 30.4 mln；年报要点：乌克兰战争 + 建筑业低迷拖累；2025 行动 = 成本 / 流程优化、组织调整、**「发展与国内外供应商的合作」**、开拓新市场；公共补助 2020 2.9 mln zł；最近登记 2026-07-09）",
+   "url": "https://rejestr.io/krs/23698/volta",
    "number": "KRS 0000023698 / NIP 5211367444 / REGON 010829096",
-   "status": "AKTYWNA",
-   "incorporated": "2001-06-28（KRS；业务 1986 起）",
-   "company_type": "Spółka z o.o.（资本 1,020,000 PLN）",
+   "status": "Active（VAT czynny）",
+   "incorporated": "2001-06-28",
+   "company_type": "Sp. z o.o.（资本 1 mln zł；Olesiewicz 父子各 50%；设监事会）",
    "sic": [
-    "电子安防系统批发（CCTV / 报警 / 门禁 / 消防；PKD 46.xx）"
+    "46 批发（安防 / 网络 / 自动化分销：Hikvision / Dahua / Satel 授权）+ 62 软件"
    ],
-   "address": "ul. Jutrzenki 94, 02-230 Warszawa",
-   "accounts": "营收 90.85 mln zł（2025）；83.30（2024）；83.19（2023）；资产 30.4 mln zł",
-   "accounts_due": "—",
-   "size_band": "中型（70+ 人；≈€21M 营收）",
+   "address": "Jutrzenki 94, 02-230 Warszawa",
+   "accounts": "2025：营收 90.8 mln zł、净亏 0.27 mln zł（2024 90.85 mln）",
+   "accounts_due": "已递交 2025 年报（经审计）",
+   "size_band": "中型（≈€21M；70+ 人）",
    "officers": [
-    "（zarząd 未取 — 片段无人名）"
+    "Konrad Ryszard Koperski — Prezes Zarządu（2008-07 起，职业经理人）",
+    "Anetta Maria Wójcik — Członek Zarządu（2017-03）",
+    "Dariusz Szewczyk — Członek Zarządu（2019-07）",
+    "Janusz / Konrad Olesiewicz — 股东各 50%（Konrad 兼监事会）"
    ],
-   "psc": "未取",
+   "psc": "Olesiewicz 父子 50/50",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**波兰安防分销 Top 级（€21M、10 分部、Hikvision / Dahua / Satel 授权）= B BIG** → 分销 20% 线，走品牌 SmartByte 上架，不谈贴标",
-    "研究档「PoE 很多摄像头、很多牌子、有 Utepo」→ 已有 PoE 供应（Utepo 等）→ 开场只谈「第二供应 + 现货期」，一个问题：现用 PoE 交期？",
-    "zarząd 未取 → 写采购 / 产品经理公域邮箱；年度复核营收"
+    "**2025 年报白纸黑字：营收持平、小亏、正在「发展与国内外供应商的合作」+ 开拓新市场** = 分销商在找新货源 / 新毛利 → **分销 20% 值得一封正式信**（写采购 / 产品经理公域，开场点「2025 年报提到拓展供应商」不可写 —— 守规：不向客户引用财报）→ 改为点「Hikvision / Dahua 配套 PoE 的毛利空间」",
+    "Prezes Koperski 是 2008 年起的职业经理人，股东 Olesiewicz 父子不管日常 → 收件人 = 采购口，不写股东",
+    "小亏不是风险（资产 3,040 万、经审计）；先款后货即可；发信窗口 Thu 12–14 CET"
    ],
-   "notes": "zarząd 未取（省 1 次 rejestr.io）。",
+   "notes": "第 94 批 bizraport + 本批 rejestr.io 直页合并。",
    "code": "SB-1046"
   },
   "SB-152": {
@@ -707,6 +712,138 @@
    ],
    "notes": "第 94 批：定性同行 → 不动；法人号不再追。",
    "code": "SB-152"
+  },
+  "SB-416": {
+   "batch": 95,
+   "name": "ABC VISION - SYSTEMY ZABEZPIECZEŃ Artur Bogucki（abcv.pl；Płock）— CEIDG 个体户",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：abcv.pl/dane-firmy + /pl/contact（ABC VISION - SYSTEMY ZABEZPIECZEŃ BOGUCKI ARTUR；NIP 7742987442；REGON 142729969；ul. 1 Maja 12/35, 09-402 Płock；批发报价 oferta@abcvision.pl；公共采购部 zamowieniapubliczne@）+ /pl/i/O-nas（2011 年起；CCTV / 报警 / 门禁 / 综合布线 / DVB-T 零售 + 批发；「Rzetelna Firma」）+ 隐私政策（管理者 Bogucki Artur Rafał）+ Ceneo 店铺页",
+   "url": "https://abcv.pl/dane-firmy",
+   "number": "NIP 7742987442 / REGON 142729969（CEIDG）",
+   "status": "Active（网店 2026 在线）",
+   "incorporated": "2011",
+   "company_type": "Jednoosobowa działalność gospodarcza（个体户）",
+   "sic": [
+    "4652 安防 / 网络设备零售 + 批发（网店 + 公共采购投标）"
+   ],
+   "address": "ul. 1 Maja 12/35, 09-402 Płock",
+   "accounts": "—（个体户）",
+   "accounts_due": "—",
+   "size_band": "微型（个体户）",
+   "officers": [
+    "Artur Rafał Bogucki — 业主"
+   ],
+   "psc": "Artur Bogucki 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "个体户网店 + 公共采购投标，研究档「现供 Hasivo」→ **分销 20% 小量**：一页纸 STC-028GP / STC-228GP 对标 Hasivo 价位，写业主 Artur Bogucki（oferta@ 批发口）",
+    "公共采购部 = 学校 / 市政项目用 PoE 交换机 → 可提 CE / RoHS 文件齐全（投标需要）",
+    "量小、不加厚；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "",
+   "code": "SB-416"
+  },
+  "SB-1068": {
+   "batch": 95,
+   "name": "RBLINE Bartosz Ryszka（rbline.pl；Opole）— Roline（Rotronic / Secomp）波兰独家代表，CEIDG 个体户",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：rbline.pl 首页 / kontakt（RBLINE Bartosz Ryszka；ul. Kępska 12, 45-130 Opole；NIP 7542138394；REGON 160340714；2010 年起；「Roline 品牌波兰独家代表」；近 2,000 SKU、95% 现货、10,000 托盘位自述）+ GoWork（个体户；2010-08-01 开业；关联 Rb-Com s.c. Roman Ryszka Bartosz Ryszka）+ zbrojenia.rbline.pl（国防工业 B2B 专页）+ baza-firm（Roline = 瑞士 ROTRONIC AG 品牌）",
+   "url": "https://rbline.pl/kontakt",
+   "number": "NIP 7542138394 / REGON 160340714（CEIDG）",
+   "status": "Active",
+   "incorporated": "2010-08-01",
+   "company_type": "Jednoosobowa działalność gospodarcza（个体户；关联 Rb-Com s.c. 父子合伙）",
+   "sic": [
+    "4651 网络组件 / UPS / IP 摄像机批发（Roline 独家 + 多品牌）"
+   ],
+   "address": "ul. Kępska 12, 45-130 Opole",
+   "accounts": "—（个体户）",
+   "accounts_due": "—",
+   "size_band": "小型（自述 10,000 托盘位仓；人数未取）",
+   "officers": [
+    "Bartosz Ryszka — 业主",
+    "Roman Ryszka — Rb-Com s.c. 合伙人（父）"
+   ],
+   "psc": "Bartosz Ryszka 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Roline（瑞士 Secomp / Rotronic 体系）波兰独家代表 → 其交换机货架已被 Roline 工业 / 商用交换机占住**；分销 20% 只能补 Roline 没有的型号（2.5G / 10G 上联 PoE、L3）",
+    "有国防工业 B2B 专页 → 守界提示：军工项目 PASS，只谈商用 / 工业通用",
+    "业主直联（biuro@ 公域）；一页纸即止，不加厚"
+   ],
+   "notes": "",
+   "code": "SB-1068"
+  },
+  "SB-405": {
+   "batch": 95,
+   "name": "tinycontrol Marcin Nosek（tinycontrol.pl；Radom）— LAN 控制器 / IoT 微型制造商，CEIDG 个体户",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：tinycontrol.pl/en/contact（Manufacturer: tinycontrol Marcin Nosek, Mazowieckiego 7G, 26-600 Radom；服务 mqtt.ats.pl）+ aleo.com（NIP 7961580284；REGON 526800704；个体户；**CEIDG 开业 2023-11-01**）+ sklep.tinycontrol.pl 隐私政策（Marcin Nosek 个体经营）+ Google Play 开发者（TINYCONTROL MARCIN NOSEK）+ 100mega / i4wifi（捷克分销其 LAN Controller）",
+   "url": "https://aleo.com/pl/firma/tinycontrol-marcin-nosek",
+   "number": "NIP 7961580284 / REGON 526800704（CEIDG）",
+   "status": "Active",
+   "incorporated": "2023-11-01（CEIDG 现实体；品牌 / ATS 更早）",
+   "company_type": "Jednoosobowa działalność gospodarcza（个体户）",
+   "sic": [
+    "26 LAN 控制器 / IoT 模块设计制造 + 网店（含 2 光 10 电交换机等外采配套）"
+   ],
+   "address": "ul. Tadeusza Mazowieckiego 7G, 26-600 Radom",
+   "accounts": "—（个体户）",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Marcin Nosek — 业主 / 制造者（= 研究档 KP notek@ats.pl 本人）"
+   ],
+   "psc": "Marcin Nosek 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "自研 LAN 控制器 + 外采配套交换机（研究档「2 光 10 电」）→ **OEM 30% 微量**：工业 / 商用小口数贴 tinycontrol 标，直接写业主 Marcin Nosek",
+    "2023-11 新实体 = 由 ATS 体系拆出来的个人品牌 → 量极小，一页纸即止",
+    "发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "",
+   "code": "SB-405"
+  },
+  "SB-1085": {
+   "batch": 95,
+   "name": "TAYAMA（tayama.pl；Katowice）— Prandota 家族三实体：TAYAMA Sp. z o.o. / TAYAMA Sp. z o.o. Sp.k. / TAYAMA GROUP Sp. z o.o.",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：rejestr.io KRS 0000430899（TAYAMA Sp. z o.o.；2012-08-24；NIP 6272733091；REGON 243016429；ul. Słoneczna 4, 40-135 Katowice；资本 15 tys. zł；**Prezes Maciej Prandota（2015-07 起）**；Henryk Tadeusz Prandota prokura 2016-12 起；最近登记 2026-05-05）+ imsig KRS 0000619990（TAYAMA Sp. z o.o. Sp.k.；2016-05-31；NIP 6342182846；46.52.Z 电子 / 电信设备批发）+ bizraport（Sp.k. 营收 1.9 / 3.1 mln zł 区间）+ tayama.pl（legalName TAYAMA GROUP Sp. z o.o.；NIP 6343005879）+ tayamagroup.pl/kontakt（KRS 0000947226；资本 100,000 zł）+ GoWork（GROUP：Prezes Maciej Prandota、Wiceprezes Mirosław Grzegorz Rydzek；关联 Tayama Polska Robert Prandota i Wspólnicy sp.j.；m.prandota@tayama.pl 公开）",
+   "url": "https://rejestr.io/krs/430899/tayama",
+   "number": "KRS 0000430899（Sp. z o.o.）/ 0000619990（Sp.k.）/ 0000947226（GROUP）",
+   "status": "Active（三实体）",
+   "incorporated": "2012-08-24 / 2016-05-31 / 2021–2022（GROUP）",
+   "company_type": "Sp. z o.o. + Sp.k. + GROUP Sp. z o.o.（Prandota 家族）",
+   "sic": [
+    "46.52.Z 电子 / 电信设备批发（自有品牌 Tayama CCTV 摄像机 / 录像机 / 电源 / PoE 机箱）"
+   ],
+   "address": "ul. Słoneczna 4, 40-135 Katowice",
+   "accounts": "Sp.k. 营收 1.9–3.1 mln zł（bizraport 区间）",
+   "accounts_due": "—",
+   "size_band": "小型（家族三实体；人数未取）",
+   "officers": [
+    "Maciej Prandota — Prezes Zarządu（Sp. z o.o. + GROUP）= 拍板人（m.prandota@tayama.pl 第三方目录公开）",
+    "Mirosław Grzegorz Rydzek — Wiceprezes（GROUP）",
+    "Henryk Tadeusz Prandota — Prokurent",
+    "Robert Prandota — sp.j. 合伙人"
+   ],
+   "psc": "Prandota 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 CCTV + 研究档「商用 PoE 比较多、外壳 / 机箱」= 已在贴牌** → **OEM 30%**：STC-028GP / STC-228GP / STC-2224GP 贴 Tayama 标，写 Prezes Maciej Prandota",
+    "家族三实体并存（2021–22 新设 GROUP）= 重组期，采购仍在 Maciej 手里 → 一个收件人即可",
+    "规模小（Sp.k. 1.9–3.1 mln zł）→ 先款后货、MOQ 1；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "GROUP 成立日按 KRS 0000947226 号段推定 2021–2022；未取精确日。",
+   "code": "SB-1085"
   }
  }
 }
