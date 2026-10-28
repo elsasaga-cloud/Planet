@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 5
+  "updated": "2026-10-28",
+  "count": 7
  },
  "rows": {
   "SA-089": {
@@ -182,6 +182,69 @@
    "notes": "研究档 KP 空 → 新增 Tomáš Pavlíček。",
    "fetched": "2026-10-27",
    "code": "SB-317"
+  },
+  "SB-036": {
+   "batch": 107,
+   "name": "Inthouse Systems s.r.o.（inthouse.eu；布拉格 Grafická 769/9, Smíchov, 150 00 Praha 5；IČO 05405947；C 263202 MSPH）— 2016-09-19 登记（品牌 2013 起）的楼宇自动化软件 / 云网关小公司（Inthouse App / Studio / Cloud + Inthouse Hub，接 Siemens 等楼控）；注册资本 2,000 Kč；jednatelé 兼实益所有人 Andrej Hraško（2016）+ Matej Snoha（2017，创始人），均为斯洛伐克人；约 4 人；群发 5 次打开",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：or.justice.cz（Inthouse Systems s.r.o.；IČO 054 05 947；C 263202 Městský soud v Praze；Den zápisu 19. září 2016；Grafická 769/9 Smíchov）+ rejstrik.penize.cz（Jednatel Andrej Hraško Bratislava od 19.9.2016；Jednatel Matej Snoha Banská Bystrica od 5.1.2017；每位 jednatel 单独代表）+ kurzy.cz（Z. kapitál 2 000 Kč）+ hlidacstatu（Skuteční majitelé Hraško + Snoha 2022-09-30）+ inthouse.eu Privacy（Inthouse Systems s.r.o. Grafická 769/9 … IČO 05405947）",
+   "url": "https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o",
+   "number": "IČO 05405947；C 263202 MSPH",
+   "status": "Active（1 aktivní živnost）",
+   "incorporated": "2016-09-19",
+   "company_type": "s.r.o.（两名斯洛伐克创始人持有；注册资本 2,000 Kč）",
+   "sic": [
+    "楼宇自动化软件 / 云网关（Inthouse Hub）"
+   ],
+   "address": "Grafická 769/9, Smíchov, 150 00 Praha 5",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（≈4 人）",
+   "officers": [
+    "Matej Snoha — jednatel / 创始人 = 拍板人 / 收件人",
+    "Andrej Hraško — jednatel / 实益所有人"
+   ],
+   "psc": "Hraško / Snoha",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**软件 / 网关公司，硬件采购量极小 → 采购型 25% 一页纸一次（STC-028GP 配 Hub 机柜）；无回声 → 不动**",
+    "收件人点名 Matej Snoha；5 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "采购型 25% tiny；一页纸一次 → 不动；坐实（IČO）。",
+   "code": "SB-036"
+  },
+  "SB-261": {
+   "batch": 107,
+   "name": "RecTec servis, s.r.o.（rectec.cz；布尔诺郊 Židlochovice Nádražní 92, 667 01；IČO 17957036；DIČ CZ17957036；C 132302 KS Brno）— 2023-01-23 登记的回收生产线（破碎 / 热解 / 精炼 / 清洗）与工业自动化供应商；注册资本 200,000 Kč；jednatel Viktor Fojt（研究档 KP；布尔诺）；100% 股东 CVFT s.r.o.；2023 阿里巴巴 RFQ「BIDI 千兆光模块」（Saga 不做光模块）；表内 6 次跟进无回复；群发 5 次打开",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：fakturujzdarma（RecTec servis, s.r.o.；IČO 17957036；DIČ CZ17957036；Spolehlivý plátce DPH；Nádražní 92 667 01 Židlochovice；Datum vzniku 23. ledna 2023；Základní kapitál 200 000 Kč；C 132302 Krajský soud v Brně；jednatel Viktor Fojt Absolonova 637/16 Brno；společník CVFT s.r.o. 100 %；ARES 2025-08-19）+ kurzy.cz / podnikatel.cz / finmag（同）",
+   "url": "https://rejstrik-firem.kurzy.cz/17957036/rectec-servis-sro/",
+   "number": "IČO 17957036；DIČ CZ17957036；C 132302 KS Brno",
+   "status": "Active（可靠增值税纳税人）",
+   "incorporated": "2023-01-23",
+   "company_type": "s.r.o.（CVFT s.r.o. 100%；注册资本 200,000 Kč）",
+   "sic": [
+    "回收生产线与工业自动化设备供应 / 服务"
+   ],
+   "address": "Nádražní 92, 667 01 Židlochovice（Brno-venkov）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（2023 新设）",
+   "officers": [
+    "Viktor Fojt — jednatel（研究档 KP，fojt@rectec.cz）= 拍板人 / 收件人"
+   ],
+   "psc": "CVFT s.r.o.（100%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**回收产线集成商，网络件只是配套（其 RFQ 是光模块，Saga 不做）→ 项目 25% 一页纸一次（STI-054GP / STI-144GP 产线控制柜用）；无回声 → 不动**",
+    "收件人直呼 Viktor；6 次跟进 + 5 次打开无回复 → 二次触达换切口「DIN-rail switches for your recycling line cabinets」；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "项目 25% small；一页纸一次 → 不动；坐实（IČO）。",
+   "code": "SB-261"
   }
  }
 }

@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 49
+  "count": 50
  },
  "rows": {
   "SA-061": {
@@ -1537,6 +1537,39 @@
    ],
    "notes": "分销 20% small；一页纸；坐实（ЕИК）。",
    "code": "SB-101"
+  },
+  "SB-326": {
+   "batch": 107,
+   "name": "PROXEET LIMITED（proxeet.com / portablepoe.com / chiprian.com；帕福斯 Neofytou Nikolaidi 61, Yiannis Court, Floor 2, Office 201, 8011 Pafos；ΗΕ 437925，2022-08-31 注册）— 面向 ISP 的网络设备品牌商（**自有 Chiprian 系列 L3 管理交换机 + iBlock 便携 PoE 注入器**；LinkedIn 11–50、2020 起）；董事 Aleksei Kizriakov + Andrei Tikhonov（Tikhonov 兼秘书，且为多家塞浦路斯公司秘书 = 公司服务商）→ 俄籍创始团队的塞浦路斯法人；研究档 KP Marina Shkarpetina（marketplace@，用户表 RFQ）；群发 5 次打开",
+   "iso": "CY",
+   "fetched": "2026-10-28",
+   "source": "CY · 1 次检索：i-cyprus（PROXEET LIMITED；ΗΕ 437925；Private Limited；Registration 31/08/2022；Active；Neofytou Nikolaidi 61 Yiannis Court Floor 2 Office 201 8011 Pafos）+ companiesregistry.cy（Directors ANTREI TYCHONOV + ALEKSEI KIZRIAKOV；Secretary Antrei Tychonov，related to ANDREY ST. TIKHONOV & CO LLC）+ proxeet.shop Support（Proxeet Ltd, Neofytou Nikolaidi 61 Paphos；+357 25100999；info@proxeet.com）+ LinkedIn（11–50；Founded 2020；Telecommunications）+ D&B 目录（Computer and Electronic Product Manufacturing, Paphos）",
+   "url": "https://i-cyprus.com/company/611007",
+   "number": "ΗΕ 437925",
+   "status": "Active（Registrar of Companies）",
+   "incorporated": "2022-08-31",
+   "company_type": "Private Limited（俄籍创始团队；秘书为公司服务商）",
+   "sic": [
+    "ISP 网络设备品牌商（自有 Chiprian L3 交换机 / iBlock PoE 注入器；网店 + marketplace）"
+   ],
+   "address": "Neofytou Nikolaidi 61, Yiannis Court, Floor 2, Office 201, 8011 Pafos",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 口径）",
+   "officers": [
+    "Aleksei Kizriakov — Director = 拍板人",
+    "Andrei Tikhonov — Director + Secretary（公司服务商，非业务人）",
+    "Marina Shkarpetina — Marketplace（研究档 KP，marketplace@proxeet.com；用户表 RFQ）= 收件人"
+   ],
+   "psc": "未取（俄籍创始团队推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有标 L3 交换机（Chiprian）的 ISP 设备品牌商 = 贴标 OEM 30% 目标，B BIG，加厚一次；升 A 次候选**：STC-424XGGPM-280W / STC-448XGGPM / STC-110XGE + STI 线一页纸 + 1:1 对照 Chiprian 在售机型；只报 OEM 档",
+    "收件人 marketplace@ 直呼 Marina（她发过 RFQ），抄 Aleksei Kizriakov；5 次打开无回复 → 二次触达接其 RFQ 旧题；发信窗口 Thu 12–14 EET；**塞浦路斯 EU 法人，收款走正常 T/T；不碰俄方背景话题**"
+   ],
+   "notes": "贴标 30% 目标；B BIG；加厚一次；升 A 次候选；坐实（ΗΕ）。",
+   "code": "SB-326"
   }
  }
 }

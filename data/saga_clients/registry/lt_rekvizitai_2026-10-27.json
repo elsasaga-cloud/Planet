@@ -4,7 +4,7 @@
   "source": "Lithuania · Registrų centras / Sodra 公开数据（rekvizitai.vz.lt）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 2
+  "count": 3
  },
  "rows": {
   "SB-789": {
@@ -73,6 +73,38 @@
    ],
    "notes": "采购型 25% + 分销 20%；B；加厚一次（small）；坐实（įmonės kodas）。",
    "code": "SB-1066"
+  },
+  "SB-198": {
+   "batch": 107,
+   "name": "Katalita, UAB（katalita.lt；考纳斯区 Neveronys Tvenkinio g. 10；įmonės kodas 134637695；PVM LT346376917）— 1995-12-18 登记的 ICT / 网络设备批发商（EVRK 465000；MikroTik / Ubiquiti（官方 reseller 名录）/ Teltonika / TP-Link / LigoWave / Mimosa / Extralink 分销 —「Extralink 是他们的品牌」存疑，Extralink 属 Batna24，Katalita 只是转售）；股本 €8,690；6–8 人；2025 营收 €6.86M、利润 €132k（人均极高 = 纯批发）；负责人 Donatas Zubenas；CFO Robertas Zubenas（研究档 KP，同姓 → 家族）；群发 4 次 6 次打开",
+   "iso": "LT",
+   "fetched": "2026-10-28",
+   "source": "LT · 1 次检索：rekvizitai.vz.lt（Katalita, UAB；code 134637695；founded 1995；VAT LT346376917；Share capital 8 690 €；Tvenkinio g. 10 Pabiržio k. LT-54477 Kauno r.；Sodra 2026-10-17 6 darbuotojai）+ 官网 Kontaktai（KATALITA UAB；Tvenkinio g. 10 Neveronių k.；kodas 134637695；PVM LT346376917；+370 603 03213；品牌 Mikrotik / Ubiquiti / Ligowave / TP-LINK / Mimosa / Teltonika / Xiaomi / Extralink）+ tax.lt（įregistruota 1995-12-18；2025 pajamos 6,86 mln. €；pelnas 132 tūkst. €；6 darbuotojai；465000 IRT įrangos didmeninė prekyba）+ imoniubaze / kaina24（Vadovas Donatas Zubenas；8 darbuotojai）+ ui.com Distributors（Katalita Resellers Lithuania）",
+   "url": "https://rekvizitai.vz.lt/en/company/katalita/",
+   "number": "įmonės kodas 134637695；PVM LT346376917",
+   "status": "Veikiantis / Active",
+   "incorporated": "1995-12-18",
+   "company_type": "UAB（Zubenas 家族私有；股本 €8,690）",
+   "sic": [
+    "ICT / 网络设备批发（EVRK 46.50；MikroTik / Ubiquiti / Teltonika 渠道；面向立陶宛 + 出口）"
+   ],
+   "address": "Tvenkinio g. 10, Neveronių k., LT-54478 Kauno r. sav.",
+   "accounts": "2025 营收 €6.86M；利润 €132k",
+   "accounts_due": "—",
+   "size_band": "小微（6–8 人；人均营收 ≈€1M）",
+   "officers": [
+    "Donatas Zubenas — Vadovas（负责人）= 拍板人",
+    "Robertas Zubenas — CFO（研究档 KP，robertas@katalita.lt）= 收件人"
+   ],
+   "psc": "Zubenas 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**MikroTik / Ubiquiti 渠道的纯批发商（6 人做 €6.9M）→ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W 一页纸 + 与其在售 TP-Link / MikroTik 价位 1:1；**不接 Extralink 话题**（非其品牌）；稿内不点名 MikroTik / Ubiquiti",
+    "收件人 robertas@ 直呼 Robertas，抄 Donatas Zubenas；6 次打开无回复 → 二次触达换切口「a PoE line at wholesale margin beside your MikroTik shelf」；发信窗口 Thu 12–14 EET"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次；坐实（įmonės kodas + 营收）。",
+   "code": "SB-198"
   }
  }
 }
