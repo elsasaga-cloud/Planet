@@ -1,6 +1,6 @@
 # XB-C1115 · Wortmann AG · 德国
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17339 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17339 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R13 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
@@ -106,12 +106,12 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
-- **结论：XB** — 大型广线/集团分销，决策链长 → B 慢慢跟进；邮箱待补
+- **结论：XB** — 巨头（BIG）：自有品牌 TERRA 由成熟 ODM 体系供货，小贸易商难切入，不再补查 → B 不动；邮箱未记
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：Wortmann AG（全线 IT 分销，331 款交换机在售）
-- 是什么人：Wortmann AG（全线 IT 分销，331 款交换机在售）；规模：未量化
+- 一句话：德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）
+- 是什么人：德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）；规模：德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -122,5 +122,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Vollsortiment IT分销商 + 制造商（TERRA品牌） |  | https://wortmann.de/ | 2026-09-28 |
+| 本轮网查 | Kurzprofil：über 1 Milliarde € Umsatz in 2025…Hersteller, Distributor und Cloud Service Anbieter…ungefähr 800 Mitarbeitern über 16.000 Fachhändler | Als Hersteller, Distributor und Cloud Service Anbieter bedienen wir mit ungefähr 800 Mitarbeitern über 16.000 Fachhändler und Systemhäuser in ganz Europa | https://www.wortmann.de/de-de/content/unternehmen-kurzprofil.aspx | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

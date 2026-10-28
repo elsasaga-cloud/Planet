@@ -1,11 +1,11 @@
 {
  "code": "XB-C0937",
  "name": "Satenco",
- "round": "W3-R06",
+ "round": "W3-R13",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Satenco",
- "type_final": "Satenco",
+ "summary": "电子/卫星/安防折扣电商（SATENCO SARL，Plaisance-du-Touch；2011 起；资本 €150k；Metro/Leroy Merlin/Boulanger 平台卖家）",
+ "type_final": "电子/卫星/安防折扣电商（SATENCO SARL，Plaisance-du-Touch；2011 起；资本 €150k；Metro/Leroy Merlin/Boulanger 平台卖家）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "Metro Marketplace 卖家页：SATENCO SARL…info@satenco.com…Représentants Michael WHARMBY；verif：SARL 2011 资本 150 000 EUR",
+   "quote": "Satenco est le spécialiste de la vente en ligne de matériel Satellite et Electronique, à prix discount",
+   "url": "https://www.metro.fr/marketplace/seller/56c306cb-539d-4ce9-b711-13d89fda3fef"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "卫星/安防批发，邮箱待补 → B 不动",
+ "grade_reason_final": "B2C 折扣电商 → B 不动；info@satenco.com 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

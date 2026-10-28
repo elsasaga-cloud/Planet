@@ -1,6 +1,6 @@
 # XB-C0476 · BroadbandBuyer · 德国
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-58-part3.md`:16 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `profile/new-customers-batch-58-part3.md`:16 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R13 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区，类型待核（来源库没写清是渠道还是终端）
@@ -41,12 +41,12 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
-- **结论：XB** — 网店，邮箱待补 → B 不动
+- **结论：XB** — 来源库误标 DE，实为英国；品牌货电商、自营选品空间小 → B 不动；公开邮箱为客服 we.care@broadbandbuyer.com（Trustpilot），采购邮箱未见
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：BroadbandBuyer（英国网络设备网店，误标 DE）
-- 是什么人：BroadbandBuyer（英国网络设备网店，误标 DE）；规模：未量化
+- 一句话：网络设备电商（broadbandbuyer.com / Essanet Ltd，Milton Keynes；2002 起；11,000+ SKU；行业账户；自称英国分销伙伴）
+- 是什么人：网络设备电商（broadbandbuyer.com / Essanet Ltd，Milton Keynes；2002 起；11,000+ SKU；行业账户；自称英国分销伙伴）；规模：未量化
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -57,5 +57,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
+| 本轮网查 | About：Since 2002, broadbandbuyer.com has helped trade installers, resellers, and IT professionals…trusted UK distribution partner；Contact 页 Essanet Ltd 21 Kelvin Drive Milton Keynes | If you're a trade installer, reseller, or IT specialist looking for a trusted UK distribution partner, we're here to help | https://www.broadbandbuyer.com/about/ | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

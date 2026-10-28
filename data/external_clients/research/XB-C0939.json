@@ -1,11 +1,11 @@
 {
  "code": "XB-C0939",
  "name": "Myconnect",
- "round": "W3-R06",
+ "round": "W3-R13",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Myconnect",
- "type_final": "Myconnect",
+ "summary": "弱电/安防集成商（SAS MYCONNECT，Mudaison 34；2014 起；资本 €100k；1,500 个站点）",
+ "type_final": "弱电/安防集成商（SAS MYCONNECT，Mudaison 34；2014 起；资本 €100k；1,500 个站点）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Intégrateur national sur le marché des courants faibles et solutions de sécurités…1500 sites；Mentions：SAS MYCONNECT 资本 100.000 €…contact@myconnect.fr",
+   "quote": "Intégrateur national sur le marché des courants faibles et solutions de sécurités pour les entreprises",
+   "url": "https://myconnect.fr/contact/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "集成商 → B 不动；contact@myconnect.fr 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

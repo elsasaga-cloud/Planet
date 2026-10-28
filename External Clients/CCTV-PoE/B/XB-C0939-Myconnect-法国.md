@@ -1,6 +1,6 @@
 # XB-C0939 · Myconnect · 法国
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:14582 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:14582 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R13 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
@@ -68,12 +68,12 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
-- **结论：XB** — 邮箱待补 → B 不动
+- **结论：XB** — 集成商 → B 不动；contact@myconnect.fr 已记
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：Myconnect
-- 是什么人：Myconnect；规模：未量化
+- 一句话：弱电/安防集成商（SAS MYCONNECT，Mudaison 34；2014 起；资本 €100k；1,500 个站点）
+- 是什么人：弱电/安防集成商（SAS MYCONNECT，Mudaison 34；2014 起；资本 €100k；1,500 个站点）；规模：未量化
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -84,5 +84,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 网络/安防设备分销 |  |  | 2026-09-28 |
+| 本轮网查 | 官网：Intégrateur national sur le marché des courants faibles et solutions de sécurités…1500 sites；Mentions：SAS MYCONNECT 资本 100.000 €…contact@myconnect.fr | Intégrateur national sur le marché des courants faibles et solutions de sécurités pour les entreprises | https://myconnect.fr/contact/ | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

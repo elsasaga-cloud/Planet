@@ -1,11 +1,11 @@
 {
  "code": "XB-C0938",
  "name": "Elinnov Connect",
- "round": "W3-R06",
+ "round": "W3-R13",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Elinnov Connect",
- "type_final": "Elinnov Connect",
+ "summary": "微型电气/AV 批发（ELINNOV CONNECT SAS，Le Havre；2022 起；资本 €1,000）",
+ "type_final": "微型电气/AV 批发（ELINNOV CONNECT SAS，Le Havre；2022 起；资本 €1,000）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "societe.com：DATE DE CREATION 17 mars 2022…Commerce de gros de matériel électrique；societeinfo：Capital social 1 000 €",
+   "quote": "Capital social 1 000 €",
+   "url": "https://societeinfo.com/app/recherche/societe/911466563"
   }
  ],
  "contacts": {
@@ -26,8 +33,8 @@
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
- "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_final": "C",
+ "grade_reason_final": "初创微型、资本 €1,000 → C 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

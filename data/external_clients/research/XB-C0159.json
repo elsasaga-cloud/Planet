@@ -1,11 +1,11 @@
 {
  "code": "XB-C0159",
  "name": "Atlantik Elektronik（德国）",
- "round": "W3-R06",
+ "round": "W3-R13",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "电子元器件分销（Atlantik Elektronik，Lantronix PoE 分销）",
- "type_final": "电子元器件分销（Atlantik Elektronik，Lantronix PoE 分销）",
+ "summary": "半导体授权分销 + ODM 方案（Atlantik Elektronik GmbH，Planegg/München；1977 起；40+ 年）",
+ "type_final": "半导体授权分销 + ODM 方案（Atlantik Elektronik GmbH，Planegg/München；1977 起；40+ 年）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "https://openpr.com/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网 Contact：Headquarter Munich Fraunhoferstraße 11a 82152 Planegg…info@atlantikelektronik.com；Distribution…40 years of experience",
+   "quote": "Atlantik Elektronik has been Germany's distributor and ODM solution provider for innovative semiconductor products and technologies for over 40 years",
+   "url": "https://www.atlantikelektronik.com/en"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "大型元器件分销，决策链长，邮箱待补 → B 不动",
+ "grade_reason_final": "元器件渠道，与交换机无关，不再补查 → B 不动；info@atlantikelektronik.com 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

@@ -1,11 +1,11 @@
 {
  "code": "XB-C0476",
  "name": "BroadbandBuyer",
- "round": "W3-R06",
+ "round": "W3-R13",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "BroadbandBuyer（英国网络设备网店，误标 DE）",
- "type_final": "BroadbandBuyer（英国网络设备网店，误标 DE）",
+ "summary": "网络设备电商（broadbandbuyer.com / Essanet Ltd，Milton Keynes；2002 起；11,000+ SKU；行业账户；自称英国分销伙伴）",
+ "type_final": "网络设备电商（broadbandbuyer.com / Essanet Ltd，Milton Keynes；2002 起；11,000+ SKU；行业账户；自称英国分销伙伴）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "About：Since 2002, broadbandbuyer.com has helped trade installers, resellers, and IT professionals…trusted UK distribution partner；Contact 页 Essanet Ltd 21 Kelvin Drive Milton Keynes",
+   "quote": "If you're a trade installer, reseller, or IT specialist looking for a trusted UK distribution partner, we're here to help",
+   "url": "https://www.broadbandbuyer.com/about/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "网店，邮箱待补 → B 不动",
+ "grade_reason_final": "来源库误标 DE，实为英国；品牌货电商、自营选品空间小 → B 不动；公开邮箱为客服 we.care@broadbandbuyer.com（Trustpilot），采购邮箱未见",
  "next_move": {
   "action": "不动",
   "angle": "",

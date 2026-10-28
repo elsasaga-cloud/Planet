@@ -1,11 +1,11 @@
 {
  "code": "XB-C0480",
  "name": "Satworld",
- "round": "W3-R06",
+ "round": "W3-R13",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Satworld（爱尔兰卫星/安防网店）",
- "type_final": "Satworld（爱尔兰卫星/安防网店）",
+ "summary": "卫星/地面/CCTV 器材商（Satworld，Dublin 12；零售 + 行业账户，面向安装商/集成商/批发）",
+ "type_final": "卫星/地面/CCTV 器材商（Satworld，Dublin 12；零售 + 行业账户，面向安装商/集成商/批发）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "Crunchbase：Trade accounts support installers, system integrators, wholesalers, and retail businesses…sales@satworld.ie",
+   "quote": "Irelands Premier Satellite, Terrestrial, CCTV Supplier",
+   "url": "https://www.satworld.ie/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "以卫星电视器材为主、零售门店型 → B 不动；sales@satworld.ie 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

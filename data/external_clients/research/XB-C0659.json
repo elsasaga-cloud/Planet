@@ -1,11 +1,11 @@
 {
  "code": "XB-C0659",
  "name": "Proline/infoMet",
- "round": "W3-R06",
+ "round": "W3-R13",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Proline / infoMet",
- "type_final": "Proline / infoMet",
+ "summary": "大型系统集成 + 研发（Proline Bilişim Sistemleri A.Ş.，İstanbul Ataşehir/Ümraniye；生物识别、城市安防、电子身份项目；「infoMet」未定位）",
+ "type_final": "大型系统集成 + 研发（Proline Bilişim Sistemleri A.Ş.，İstanbul Ataşehir/Ümraniye；生物识别、城市安防、电子身份项目；「infoMet」未定位）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Proline is a Turkish technology company and R&D centre…Secure Documents and Biometric Solutions…info@pro-line.com.tr；AUS Türkiye 会员页 CEO Serdal KARAKAŞ",
+   "quote": "Proline is a Turkish technology company and R&D centre that develops software and hardware products",
+   "url": "https://pro-line.com.tr/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "大型集成商/方案商（BIG），非分销渠道 → B 不动；info@pro-line.com.tr 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

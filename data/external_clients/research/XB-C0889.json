@@ -1,15 +1,15 @@
 {
  "code": "XB-C0889",
  "name": "Hexapro Sécurité",
- "round": "W3-R09",
+ "round": "W3-R13",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "安防分销（Hexapro Sécurité，Chassieu/Lyon；Dahua/Ajax/Visonic/Hikvision 官方分销）",
- "type_final": "安防分销（Hexapro Sécurité，Chassieu/Lyon；Dahua/Ajax/Visonic/Hikvision 官方分销）",
- "size": "未量化",
+ "summary": "安防进口分销（HEXAPRO Sécurité，Chassieu/Lyon；17 年；2–10 人；Dahua/Ajax/Visonic/Hikvision 分销，面向安装商）",
+ "type_final": "安防进口分销（HEXAPRO Sécurité，Chassieu/Lyon；17 年；2–10 人；Dahua/Ajax/Visonic/Hikvision 分销，面向安装商）",
+ "size": "安防进口分销（HEXAPRO Sécurité，Chassieu/Lyon；17 年；2–10 人；Dahua/Ajax/Visonic/Hikvision 分销，面向安装商）",
  "brands_seen": [],
- "saga_line": "—",
- "fit": "",
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "小型进口分销，里昂区域安装商渠道",
  "evidence": [
   {
    "kind": "来源库官网/名录核对",
@@ -21,29 +21,32 @@
   {
    "kind": "本轮网查",
    "date": "2026-10-28",
-   "claim": "官网「Qui sommes-nous」：HEXAPRO, revendeur officiel Dahua France et Ajax systems…Tél: 04.72.51.28.28（无邮箱）",
-   "quote": "En tant que distributeur Dahua France mais aussi distributeur Ajax systems , Visonic France et Hikvision France",
-   "url": "https://www.hexapro-securite.fr/content/18-qui-sommes-nous-Hexapro-distributeur-Visonic-Dahua-Ajax-Alarmes-Hikvision"
+   "claim": "LinkedIn：Importateur Distributeur en Matériel de Sécurité…17 ans…2-10 employés；infonet：contact@hexapro-securite.fr",
+   "quote": "Importateur Distributeur en Matériel de Sécurité | Fort de ses 17 ans d'expérience",
+   "url": "https://fr.linkedin.com/company/hexaprosecurite"
   }
  ],
  "contacts": {
-  "email": "",
-  "email_status": "缺",
+  "email": "contact@hexapro-securite.fr",
+  "email_status": "来源库公开邮箱",
   "kp": []
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
- "grade_final": "B",
- "grade_reason_final": "官网仅电话无邮箱 → 仍无公开邮箱 → B 不动（可下轮再试）",
+ "grade_final": "A",
+ "grade_reason_final": "FR 进口分销、邮箱已补 → 升 A 首触（轻，排 2027-01-28 周四）",
  "next_move": {
-  "action": "不动",
-  "angle": "",
-  "model": "",
-  "price": "",
-  "window": "",
-  "when": "不动"
+  "action": "首触",
+  "angle": "分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI",
+  "model": "STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "FR 周四 12–14",
+  "when": "2027-01-28"
  },
  "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
- "deep": false,
- "draft_en": null
+ "draft_en": {
+  "subject": "PoE switch line for your reseller channel - distributor pricing",
+  "body": "Hi,\n\nSaga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWho on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
 }

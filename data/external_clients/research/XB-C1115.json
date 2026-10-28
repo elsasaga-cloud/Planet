@@ -1,12 +1,12 @@
 {
  "code": "XB-C1115",
  "name": "Wortmann AG",
- "round": "W3-R06",
+ "round": "W3-R13",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Wortmann AG（全线 IT 分销，331 款交换机在售）",
- "type_final": "Wortmann AG（全线 IT 分销，331 款交换机在售）",
- "size": "未量化",
+ "summary": "德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）",
+ "type_final": "德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）",
+ "size": "德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）",
  "brands_seen": [],
  "saga_line": "—",
  "fit": "",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "https://wortmann.de/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "Kurzprofil：über 1 Milliarde € Umsatz in 2025…Hersteller, Distributor und Cloud Service Anbieter…ungefähr 800 Mitarbeitern über 16.000 Fachhändler",
+   "quote": "Als Hersteller, Distributor und Cloud Service Anbieter bedienen wir mit ungefähr 800 Mitarbeitern über 16.000 Fachhändler und Systemhäuser in ganz Europa",
+   "url": "https://www.wortmann.de/de-de/content/unternehmen-kurzprofil.aspx"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "大型广线/集团分销，决策链长 → B 慢慢跟进；邮箱待补",
+ "grade_reason_final": "巨头（BIG）：自有品牌 TERRA 由成熟 ODM 体系供货，小贸易商难切入，不再补查 → B 不动；邮箱未记",
  "next_move": {
   "action": "不动",
   "angle": "",

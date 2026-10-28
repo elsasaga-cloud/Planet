@@ -1,6 +1,6 @@
 # XB-C0659 · Proline/infoMet · 土耳其
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `smartbyte/03-SmartByte海外客户开发清单.md`:415（其分级 B类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `smartbyte/03-SmartByte海外客户开发清单.md`:415（其分级 B类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R13 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
@@ -48,12 +48,12 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
 
-- **结论：XB** — 邮箱待补 → B 不动
+- **结论：XB** — 大型集成商/方案商（BIG），非分销渠道 → B 不动；info@pro-line.com.tr 已记
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：Proline / infoMet
-- 是什么人：Proline / infoMet；规模：未量化
+- 一句话：大型系统集成 + 研发（Proline Bilişim Sistemleri A.Ş.，İstanbul Ataşehir/Ümraniye；生物识别、城市安防、电子身份项目；「infoMet」未定位）
+- 是什么人：大型系统集成 + 研发（Proline Bilişim Sistemleri A.Ş.，İstanbul Ataşehir/Ümraniye；生物识别、城市安防、电子身份项目；「infoMet」未定位）；规模：未量化
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -64,5 +64,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
+| 本轮网查 | 官网：Proline is a Turkish technology company and R&D centre…Secure Documents and Biometric Solutions…info@pro-line.com.tr；AUS Türkiye 会员页 CEO Serdal KARAKAŞ | Proline is a Turkish technology company and R&D centre that develops software and hardware products | https://pro-line.com.tr/ | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

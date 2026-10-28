@@ -1,11 +1,11 @@
 {
  "code": "XB-C1048",
  "name": "Börsig GmbH",
- "round": "W3-R06",
+ "round": "W3-R13",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Börsig GmbH（1969 起电子分销，Phoenix）",
- "type_final": "Börsig GmbH（1969 起电子分销，Phoenix）",
+ "summary": "电子元器件分销（Börsig GmbH Electronic-Distributor，Neckarsulm；40 年；连接器/无源件 + 线缆组件）",
+ "type_final": "电子元器件分销（Börsig GmbH Electronic-Distributor，Neckarsulm；40 年；连接器/无源件 + 线缆组件）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网 Contact：Börsig GmbH Electronic-Distributor Siegmund-Loewe-Strasse 5 74172 Neckarsulm…info@boersig.com…Export sales export@boersig.com",
+   "quote": "Börsig GmbH Neckarsulm seit 40 Jahren Electronic Distributor für elektromechanische und passive Bauelemente",
+   "url": "https://www.boersig.com/en/contact/your-connection-to-us"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "元器件线，邮箱待补 → B 不动",
+ "grade_reason_final": "元器件渠道，与交换机无关，不再补查 → B 不动；info@boersig.com / export@boersig.com 已记",
  "next_move": {
   "action": "不动",
   "angle": "",
