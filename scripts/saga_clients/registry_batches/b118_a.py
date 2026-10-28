@@ -1,0 +1,146 @@
+# -*- coding: utf-8 -*-
+"""第 118 批（T29-U111，2026-10-28）第 1 段 14 户（AE 收尾 5 + AU 第 1–9 户）—— 官方登记核实写入 registry（AU 路径首测：creditorwatch.com.au/credit/profile/<ABN> 直出 ABN / ACN / 注册日 / GST；官网页脚 ABN 亦可）。"""
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from registry_store import put
+B = 118
+F = '2026-10-28'
+AE = '— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）'
+AU = '— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（RCM 不声称、由买方自办；DAP 买方清关）'
+
+# ───────── AE 收尾 5 ─────────
+put('SB-190', key='other', batch=B, name='A Hamson Middle East FZE（ahamson.com；**迪拜办公室 920 Burjuman Business Towers, Dubai；集团 A Hamson Inc. 1985 年创立、总部多伦多；巴基斯坦 3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad（+92 51 281 8094）；IBM PartnerPlus 目录（SI / MSP / VAR）；FZE 牌照号 1 查未得 → 部分坐实**）— 企业 / 运营商网络集成（设计 / 建设 / 运维；Cisco 体系）；KP Tahmad（WA 已加）2024-04 询 Cisco GLC-LH-SMD 光模块 9 只（Saga 无）', iso='AE', fetched=F,
+    source='AE · 1 次检索（首查 0 结果、简化词重试 1 次）：ahamson.com/contact（MIDDLE EAST: Office 920 Burjuman Business Towers Dubai；Pakistan: 3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad；design, build, operate and support of customer networks）+ ibm.com/partnerplus/directory/company/9661（A HAMSON INC.；Islamabad 44000；+92 51 2818094；System Integrator / MSP / VAR）；FZE 牌照号未得；2026-10-28',
+    url='https://www.ahamson.com/contact.html',
+    number='未取（FZE；牌照号 1 查未得）', status='营业中（官网 + IBM 目录）', incorporated='集团 1985（多伦多）；FZE 未取', company_type='FZE（迪拜自贸区）；集团 A Hamson Inc.（加拿大）',
+    sic=['企业 / 运营商网络集成（Cisco 体系；迪拜 / 伊斯兰堡 / 多伦多）'],
+    address='920 Burjuman Business Towers, Dubai, UAE', accounts='未取', accounts_due='—', size_band='中小（实际 51–200 量级；LinkedIn 自报存疑）',
+    officers=['Tahmad — 表内联系人（研究档 KP；tahmad@ahamson.com；+971 55 144 9500 WA 已加；职务未核）'], psc='未取', charges='', prev_names=[],
+    lines=['**Cisco 体系集成商、唯一需求是 Cisco 光模块（Saga 不做）→ 不动（B 保留；交换机需求出现再按集成商 25% 预付）**'],
+    notes='不动（需求不对位 + 原厂体系）；部分坐实（官网 + IBM 目录：三地地址；FZE 牌照未取）。')
+put('SB-251', key='other', batch=B, name='Pixcom Technologies LLC（pixcom.ae；**P.O. Box 252173, Dubai；+971 4 580 6222；办公室 印度 HQ / 迪拜 / 香港 / 伦敦；牌照号 1 查未得 → 部分坐实**）— **数字标牌 / LED 显示 / 互动一体机 / 自制 kiosk 全案商（City Walk LED、迪拜智能警局合作方；集团含 Pixcom Industries / Prosign Systems，100–200+ 人级）**；表内 KP Khaleel Aboobacker（gmail，WA 已加）2024-03 回「multicast support switch」= 要支持组播的管理型小交换机（标牌 / 视频墙组播分发）', iso='AE', fetched=F,
+    source='AE · 1 次检索：pixcom.ae（PIXCOM TECHNOLOGIES LLC is a full-service solution provider of digital signage, LED Displays interactive kiosks, Media network solutions；Kiosk Manufacturing；P O Box 252173, Dubai；+971 4 580 6222；marketing@pixcom.ae）+ pixcom.ae/contact（India Pixcom HQ / Dubai / Hong Kong / London）；牌照号未得；2026-10-28',
+    url='https://pixcom.ae/contact/',
+    number='未取（LLC；牌照号 1 查未得）', status='营业中（官网在）', incorporated='2003 / 2004（自述）', company_type='LLC（Pixcom Technologies LLC；集团多法人）',
+    sic=['数字标牌 / LED / 互动 kiosk 全案 + 制造（迪拜）'],
+    address='P.O. Box 252173, Dubai, UAE（门牌未取）', accounts='未取', accounts_due='—', size_band='中小（100–200+ 级，自述）',
+    officers=['Khaleel Aboobacker — 表内联系人（研究档 KP；khaleel.abckrk@gmail.com；+971 50 671 7325 WA 已加；职务未核）= 收件人（WA 为主）'], psc='未取', charges='', prev_names=[],
+    lines=['**标牌全案商、KP 明确要「支持组播的交换机」→ 集成商 25% B small，一页纸一次（切口：直接答组播 = L2+ 管理 STC-4424GCPM（IGMP Snooping，Marvell）$165 + 小机位用 STI-288DGGPM（管理、IGMP）$137；非管理 STC 系列不做组播控制明说；MOQ 1、付费样机、DAP 迪拜；opener 引 2024-03 他的「multicast」一句；WA 发链接；英文）' + AE + '**；再无回声 → 不动',
+           '守界：gmail KP → 预付 100%；LED / 标牌产品不碰'],
+    notes='集成商 25% small；一页纸一次（预付；WA）；部分坐实（官网：法定名 + P.O. Box + 电话 + 四地办公室；牌照号未取）。')
+put('SB-578', key='other', batch=B, name='Niaar General Trading LLC（niaar.net；**2006 年成立；P.O. Box 183583；Office 109, Al Wasl Building, Al Wasl, Sheikh Zayed Road, Dubai；牌照号 1 查未得 → 部分坐实**）— 工业采购 / 供应平台（矿业 / 能源 / 制造 / 海事：ABB、Advantech、Schneider、Moxa、SKF、Goodyear …；项目驱动、比价）；KP Pouriya Najafabadi；2024-01 对 2 光 4「暂时没需求」；WA 23 次无回复', iso='AE', fetched=F,
+    source='AE · 1 次检索：yello.ae（Niaar General Trading LLC；established in 2006；Box No. 183583, Dubai；niaar.net）+ niaar.net 页脚 2026-06（Office 109, Al wasl Building, Al Wasl, Sheikh Zayed Road, Dubai；Mining Industry Solutions；lubrication / grease pumps 等工业品）；牌照号未得；2026-10-28',
+    url='https://www.yello.ae/company/80950/niaar-general-trading-llc',
+    number='未取（LLC；牌照号 1 查未得）', status='营业中（官网 2026 更新）', incorporated='2006', company_type='LLC（General Trading）',
+    sic=['工业品采购 / 供应平台（Sheikh Zayed Road）'],
+    address='Office 109, Al Wasl Building, Sheikh Zayed Road, Dubai, UAE (P.O. Box 183583)', accounts='未取', accounts_due='—', size_band='小型',
+    officers=['Pouriya Najafabadi — 负责人（研究档 KP；pouriya@niaar.net；+971 50 858 0255）'], psc='Pouriya Najafabadi（推定）', charges='', prev_names=[],
+    lines=['**比价型工业采购平台 + 明说「暂时没需求」+ WA 23 次 0 回复 → 不动（B 保留；项目来询按分销 20% 预付）**'],
+    notes='不动（比价平台 + 23×0）；部分坐实（名录 + 官网页脚；牌照号未取）。')
+put('SB-693', key='other', batch=B, name='Bin Hilal Group / Bin Hilal Holdings（**2005 年成立；总部 9th Street, Umm Ramool, Rashidiya, Dubai；集团法人 Bin Hilal Group Corporate Management LLC（14 St, Dubai；201–500 人 ZoomInfo）/ Bin Hilal Enterprises L.L.C.（bhe.ae；机械设备批发）/ BinHilal Trading（消防安全 / 应急灯 / 中央气体；Honeywell / Dahua 经销；沙迦 Hemayah 消防）；牌照号 1 查未得 → 部分坐实**）— 多元集团（安防 / 能源公用 / 贸易 / 建筑基建 / 设施管理）；**表内 KP Mehar Asad = ZoomInfo「Muhammad Asad, Head of Procurement Department」（gmail）**；阿里巴巴 RFQ「5 电口」；表内未跟进', iso='AE', fetched=F,
+    source='AE · 1 次检索：binhilaltrading.ae（A Part of the Bin Hilal Holdings；Fire Life Safety / Emergency Light / Central Gas；Honeywell, Dahua …；BIN HILAL HOLDING HEAD OFFICE, 9TH STREET, UMM RAMOOL RASHIDIYA, DUBAI；+971 521 77 1075）+ zoominfo（Bin Hilal Group Corporate Management LLC；14 St, Dubai；201-500；Muhammad Asad — Head of Procurement, Department；Bin Hilal Holdings established in 2005）+ dnb（BIN HILAL ENTERPRISES L.L.C.；bhe.ae；Machinery, Equipment, and Supplies Merchant Wholesalers）；牌照号未得；2026-10-28',
+    url='https://binhilaltrading.ae/',
+    number='未取（集团多 LLC；牌照号 1 查未得）', status='营业中（官网 + 企业库）', incorporated='2005（集团）', company_type='Holdings（多 LLC）',
+    sic=['设施管理 / 安防 / 消防 / 贸易 / 建筑 多元集团（Rashidiya）'],
+    address='Bin Hilal Holding Head Office, 9th Street, Umm Ramool, Rashidiya, Dubai, UAE', accounts='未取', accounts_due='—', size_band='中型（201–500，ZoomInfo 口径）',
+    officers=['Mehar / Muhammad Asad — Head of Procurement Department（研究档 KP；mehar.asad786@gmail.com；ZoomInfo 职务吻合）= 收件人'], psc='Bin Hilal 家族（推定）', charges='', prev_names=[],
+    lines=['**集团采购部负责人本人发过 RFQ（5 电口）、从未跟进 → 集成商 25% B small，一页纸一次（切口：直接答 5 口 = STI-054GP（4 PoE + 1 GE，导轨）+ 桌面 8 口 STC-028GP $28 一口价 + 设施管理项目量用 STC-2216GP / 2224GP + MOQ 1 + 付费样机 + DAP 迪拜；opener 引其阿里巴巴 RFQ；英文，Asad 直呼）' + AE + '**；再无回声 → 不动',
+           '守界：gmail KP + 牌照未核 → 预付 100%；能源 / 公用事业板块项目不主动提'],
+    notes='集成商 25% small；一页纸一次（预付）；部分坐实（官网 + 企业库：集团总部 + 法人名 + KP 职务；牌照号未取）。')
+put('SB-902', key='other', batch=B, name='Magnus Infotech Dubai（领英线索；Gireesh Kumar K，仅 gmail；**= SB-878 Magnus Infotech Trading LLC（Magnus Gulf）同一公司 → 并线 → SB-878**；0 查）', iso='AE', fetched=F,
+    source='0 查（无域名 + gmail；公司名 = SB-878 法定名 Magnus Infotech Trading LLC，第 117 批已坐实其地址 Al Tawhidi Building II, Al Mankhool Rd）；2026-10-28',
+    url='', number='并线 → SB-878', status='并线', incorporated='—', company_type='—',
+    sic=['IT 增值分销（= SB-878）'],
+    address='= SB-878：Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai', accounts='—', accounts_due='—', size_band='—',
+    officers=['Gireesh Kumar K — 领英线索（研究档 KP；gireeshk70@gmail.com；职务待核）— 并入 SB-878 备用联系人'], psc='—', charges='', prev_names=[],
+    lines=['**并线 → SB-878（一页纸发 Saleem Shaikh MD；Gireesh 作备用联系人，不另发）**'],
+    notes='并线 → SB-878；0 查。')
+
+# ───────── AU 第 1–9 户 ─────────
+put('SB-755', key='other', batch=B, name='Fibresales（fibresales.com.au；墨尔本东区 03-9761-7925；**法人 / ABN 1 查未得 → 部分坐实**）— 光纤产品网店（跳线 / 尾纤 / MC / SFP / 熔接工具；自有牌 Yamasaki MC）；表内「MC SFP 自己的牌子（周边）… 没有工业 FS … 质量一般」；无 KP（sales@）；表内未跟进', iso='AU', fetched=F,
+    source='AU · 1 次检索：fibresalesau.medium.com（FibreSales: Australia’s number 1 online supplier of patch cables, pigtails, media converters；Yamasaki media converter）+ slideserve 2016（fibresales.com.au；Call us at 03-9761-7925）；ABN 未得；2026-10-28',
+    url='https://fibresales.com.au/',
+    number='未取（ABN 1 查未得）', status='营业中（官网重定向 + 社媒）', incorporated='未取', company_type='未取（Pty Ltd 推定）',
+    sic=['光纤配件 / MC / SFP 网店（墨尔本）'],
+    address='未取（Melbourne VIC；03 区号）', accounts='未取', accounts_due='—', size_band='微型',
+    officers=['（研究档无 KP：sales@fibresales.com.au）'], psc='未取', charges='', prev_names=[],
+    lines=['**产品不对位（MC / SFP 网店；Saga 仅 STC-110XGE 一款 MC、无 SFP）+ 无 KP + 从未跟进 → 不动（B 保留）**'],
+    notes='不动（产品不对位 + 无 KP）；部分坐实（社媒 + 电话；ABN 未取）。')
+put('SB-523', key='other', batch=B, name='Aristel Networks Pty Ltd（aristel.com.au；**ABN 57 095 422 450；Unit 1, 25 Howleys Road, Notting Hill VIC 3168；03 8542 2308 / 1800 00 21 33；D&B 行业 电器电子产品批发**）— **电话 / 网络系统分销商（「Over 60k Systems Installed」；Yeastar Australia 总代、EnGenius、Durafon GSM；自有 AN42N 4 口 PoE 交换机 = 表内「商业 PoE，洪瑞（HRUI）的」→ Q-33 口径）**；KP Abraha Teklu（Technical Manager；sales@）；22 次跟进无回复', iso='AU', fetched=F,
+    source='AU · 1 次检索：yeastar.com.au/contact（Head Office: Aristel Networks Pty Ltd ABN: 57 095 422 450；Unit 1, 25 Howleys Road Notting Hill, VICTORIA 3168；Sales 1800 00 21 33；Support 03 8542 2308）+ dnb（ARISTEL NETWORKS PTY. LTD.；FY 1 25 HOWLEYS ROAD NOTTING HILL VIC 3168；Household Appliances and Electrical and Electronic Goods Merchant Wholesalers）+ zoominfo（+61 3 8542 2308）；2026-10-28',
+    url='https://yeastar.com.au/contact/',
+    number='ABN 57 095 422 450', status='营业中（ABN 在；官网在）', incorporated='未取（ABN 095 → 约 2000–2001 ACN 段）', company_type='Pty Ltd（Australian Private Company）',
+    sic=['电话 / 网络系统分销（Notting Hill VIC）'],
+    address='Unit 1, 25 Howleys Road, Notting Hill VIC 3168, Australia', accounts='未取', accounts_due='—', size_band='小型',
+    officers=['Abraha Teklu — Technical Manager（研究档 KP；sales@aristel.com.au）'], psc='未取', charges='', prev_names=[],
+    lines=['**HRUI 在供（Q-33 口径：只推 Marvell 管理 / 工业线）+ 22 次 0 回复 → 不动（B 保留；Q-33 口径确认后若 Simon 点名再发管理线一页纸）**'],
+    notes='不动（22×0 + Q-33 口径待定）；坐实（ABN + 地址 + 电话）。')
+put('SB-184', key='other', batch=B, name='Vernetzen Pty Ltd（vernetzen.com.au / vernetzen.com；**Unit 26, 23 Ashtan Place, Banyo QLD 4014（布里斯班）+ 欧洲 Richtistrasse 7, 8304 Wallisellen, Switzerland；(07) 4276 6665；ABN 1 查未得 → 部分坐实**）— **矿业 OT 网络专家（井下 / 露天：自有 Wi-Fi over Coax、光纤转 PoE 注入器 VP-CI-FCPI、工业双口 PoE+ 延长器 VP-CI-PEXT、Veto OT 工具、OT 咨询 / 托管 / 培训）；官网 2026-10 更新**；KP Luke King；需求 **4 光 8 电、4 光 16 电、10G 光 + BT 大功率**；WA 无实质回复；自有产品线 = 可贴 Vernetzen 标', iso='AU', fetched=F,
+    source='AU · 1 次检索：vernetzen.com/about-us 2026-10-08（The Global Specialists in Mining Network Management；ruggedised network solutions designed specifically for mining environments；Australia Unit 26, 23 Ashtan Place, Banyo QLD 4014；Europe Richtistrasse 7, 8304 Wallisellen, Switzerland；(07) 4276 6665；sales@vernetzen.com；Wi-Fi Over Coax / OT Network Consulting / Managed OT Services）；ABN 未得；2026-10-28',
+    url='https://www.vernetzen.com/about-us/',
+    number='未取（ABN 1 查未得）', status='营业中（官网 2026-10 更新）', incorporated='未取', company_type='Pty Ltd',
+    sic=['矿业 OT 网络方案 + 自有工业网络产品（Banyo QLD；瑞士分部）'],
+    address='Unit 26, 23 Ashtan Place, Banyo QLD 4014, Australia', accounts='未取', accounts_due='—', size_band='小型（两国办公室）',
+    officers=['Luke King — 负责人 / 技术（研究档 KP；luke@vernetzen.com.au；+61 422 049 988）= 拍板人 / 收件人'], psc='Luke King（推定）', charges='', prev_names=[],
+    lines=['**自有产品线 + 需求具体（4 光 8 电 / 4 光 16 电 / 10G + 大功率）→ 贴标 OEM 30% B，一页纸一次（切口：Vernetzen 标 / 中性包装：4 光 8 电 = STI-488DGGPM $147（宽温、管理）；4 光 16 电 主表无 → 明说以 STC-4424GCPM（24 电 + 4 光，Marvell 管理）替代；10G 光上联 + 大功率 = STC-424XGGPM-280W $198（商用机房级，非宽温，明说）；BT 90 W 不声称；付费样机 + MOQ 1 + 3 年保（STI）；英文，Luke 直呼，WA + 邮件）' + AU + '**；回信 → 加厚',
+           '守界：井下防爆（IECEx / ATEX）不做、不声称；只供地面 / 机房 / 井口侧'],
+    notes='贴标 OEM 30%；一页纸一次（回声再加厚）；部分坐实（官网：两国地址 + 电话；ABN 未取）。')
+put('SB-844', key='other', batch=B, name='oeMarket.com = Bitline System Pty Ltd（**ABN 48 093 949 921；悉尼：10 Fishburns Rd, Galston NSW（ZoomInfo）/ 8 Princes Street, Bexley NSW 2207（名录）；+61 2 9899 1412**）— 光电子 / 光纤产品网店 + 自研设计制造（MC、收发器、激光二极管、无源器件、测试仪、光子学设计工具；客户 科研院校 / 电信设备商，全球 30+ 国）；表内「MC 像公司之前的灰色外壳」；无 KP（info@）；表内未跟进', iso='AU', fetched=F,
+    source='AU · 1 次检索：oemarket.com/catalog/about_us.php（Oemarket.com is owned and operated by Bitline System Pty Ltd (ABN 48 093 949 921)；Sydney, New South Wales；designing and manufacturing fiber-optic products … photonics design tools）+ zoominfo（Bitline System；10 Fishburns Rd, Galston NSW；+61 298991412）+ electronicsonline.net.au（Bitline System Pty Ltd；8 Princes Street, Bexley NSW 2207；info@oemarket.com.au）；2026-10-28',
+    url='http://www.oemarket.com/catalog/about_us.php?currency=AUD',
+    number='ABN 48 093 949 921', status='营业中（ABN 在；官网间歇可达）', incorporated='未取（ABN 093 → 约 2000 ACN 段）', company_type='Pty Ltd',
+    sic=['光电子 / 光纤产品 网店 + 设计制造（悉尼）'],
+    address='8 Princes Street, Bexley NSW 2207 / 10 Fishburns Rd, Galston NSW, Australia', accounts='未取', accounts_due='—', size_band='微型',
+    officers=['（研究档无 KP：info@oemarket.com）'], psc='未取', charges='', prev_names=[],
+    lines=['**产品不对位（光子学 / 无源 / MC 网店；Saga 仅 STC-110XGE）+ 无 KP + 从未跟进 → 不动（B 保留）**'],
+    notes='不动（产品不对位 + 无 KP）；坐实（官网自列 ABN + 法人名 + 地址）。')
+put('SB-383', key='other', batch=B, name='Autech Control Group Pty Ltd（autechcontrol.com.au；**Unit 15, 104-106 Ferntree Gully Road, Oakleigh East VIC 3166；+61 3 9544 0733；ABN 1 查未得（页面所示 ABN 22 152 305 336 为名录运营方 Westwick-Farrow Media，≠）→ 部分坐实**）— **自动化 / 电气 / 仪表产品供应与支持（Schneider 电表、Horner HMI、COME-STAR 串口服务器、Advantech ECU 网关、Maiwe 5 口导轨工业交换机 在供）**；KP Zifei Li（Automation Products Manager；zli@）；4 次跟进无回复', iso='AU', fetched=F,
+    source='AU · 1 次检索：processonline.com.au（Autech Control Group Pty Ltd；Supply and support of Automation, Electrical and Instrumentation products and software；Unit 15, 104 Ferntree Gully Road, Oakleigh East Vic 3166；sales@autechcontrol.com.au）+ zaubee / facebook（15/104-106 Ferntree Gully Rd, Oakleigh East VIC 3166；+61 3 9544 0733；industrial/commercial automation and electrical product solutions）；ABN 未得；2026-10-28',
+    url='https://www.processonline.com.au/directories/autech-control-group-pty-ltd-1315942775',
+    number='未取（ABN 1 查未得）', status='营业中（名录 + 社媒）', incorporated='未取', company_type='Pty Ltd',
+    sic=['自动化 / 电气 / 仪表产品分销（Oakleigh East VIC）'],
+    address='Unit 15, 104-106 Ferntree Gully Road, Oakleigh East VIC 3166, Australia', accounts='未取', accounts_due='—', size_band='小型',
+    officers=['Zifei Li — Automation Products Manager（研究档 KP；zli@autechcontrol.com.au）= 收件人', 'sales@autechcontrol.com.au = 抄送'], psc='未取', charges='', prev_names=[],
+    lines=['**自动化产品分销、已直接用国内 Maiwe 导轨机、产品经理为 KP、只跟过 4 次 → 分销 20% B small，一页纸一次（切口：对位其 5 口导轨机的 STI-054GP（4 PoE + 1 GE）/ STI-154GP（4 PoE + 1 GE + 1 SFP）+ 管理 STI-288DGGPM 一口价 + 3 年保 + MOQ 1 + 付费样机；串口服务器 / 网关不做明说；英文稿、英文称呼，不走中文直联）' + AU + '**；再无回声 → 不动',
+           '守界：不点名 Maiwe；RCM 不声称'],
+    notes='分销 20% small；一页纸一次；部分坐实（名录 + 社媒：法定名 + 地址 + 电话；ABN 未取）。')
+put('SB-618', key='other', batch=B, name='JEA Technologies Pty Ltd（jeatech.com.au；**2003 年成立；Unit 1, 72 Bayfield Road East, Bayswater North VIC 3153（旧址 Unit 36, 41-49 Norcal Rd, Nunawading）；(03) 8736 0330；ABN 1 查未得 → 部分坐实**）— **澳新工业电子外设专业分销（工业 4G/5G 路由 Robustel / Teltonika / Milesight、工业面板 PC、电子纸、HMI、呼吸器；在售 ORing IDGPS-C1042GP = 表内「卖 ORing 的」；备库存 + 自修）**；KP Craig Kinder（Manager；craigk@）/ Tony Ioannidis（Operations Manager）；7 次跟进无回复', iso='AU', fetched=F,
+    source='AU · 1 次检索：australia247.info（Jea Technologies；1/72 Bayfield Rd E, Bayswater North VIC 3153；(03) 8736 0330；Robustel Industrial Routers & Modems）+ ithistory.org（JEA Technologies Pty Ltd was established in 2003 as a specialist distributor of electronic peripherals covering Australia and New Zealand；Unit 1, 72 Bayfield Road East）+ zoominfo（41-49 Norcal Rd Unit 36, Nunawading VIC 3131；+61 386720214）；ABN 未得；2026-10-28',
+    url='https://www.ithistory.org/db/companies/jea-technologies',
+    number='未取（ABN 1 查未得）', status='营业中（官网在）', incorporated='2003', company_type='Pty Ltd',
+    sic=['工业电子外设分销（澳新；Bayswater North VIC）'],
+    address='Unit 1, 72 Bayfield Road East, Bayswater North VIC 3153, Australia', accounts='未取', accounts_due='—', size_band='小型',
+    officers=['Craig Kinder — Manager（研究档 KP；craigk@jeatech.com.au）= 收件人', 'Tony Ioannidis — Operations Manager（研究档 KP；tony.ioannidis@jeatech.com.au）= 抄送'], psc='未取', charges='', prev_names=[],
+    lines=['**22 年澳新工业分销、已卖台系工业交换机、经理为 KP → 分销 20% B，一页纸一次（切口：对位其在售 10 口 PoE 工业机的 STI-288DGGPM $137 / STI-488DGGPM $147 + STI-154GP + 宽温 3 年保 + 备库存建议 MOQ 1 起 + 付费样机；路由 / HMI 不做明说；英文，Craig 直呼、抄 Tony）' + AU + '**；回信 → 加厚',
+           '守界：不点名 ORing / Robustel；RCM 不声称'],
+    notes='分销 20%；一页纸一次（回声再加厚）；部分坐实（名录 + 历史库：成立年 + 地址 + 电话；ABN 未取）。')
+put('SB-931', key='other', batch=B, name='Wave1 Pty Ltd（wave1.com.au；**ABN 74 006 395 026 / ACN 006 395 026；ASIC 注册 1985-04-01；ABN 生效 2000-02-09；GST 2000-07-01 起；Australian Private Company, Limited by Shares；Active**；19 Laser Drive, Rowville VIC 3178；+61 3 9212 7200；11–50 人）— **无线 / 微波通信集成商（许可微波系统、自协调许可短距链路、楼宇间无线、塔架 / 拖车基础设施、安装）**；KP Wayne Anderson（CEO）；表内「工业 FS」「可以多跟进一下」；22 次跟进无回复', iso='AU', fetched=F,
+    source='AU · 1 次检索：creditorwatch.com.au/credit/profile/74006395026（WAVE1 PTY LTD；ABN 74 006 395 026；ACN 006 395 026；first registered with ASIC 1985-04-01；ABN Registered Date 09-02-2000；Entity Status Active；Australian Private Company；GST from 01-07-2000；Rowville Victoria 3178）+ dnb（19 LASER DR ROWVILLE VIC 3178；+61-392127200）+ crunchbase（11-50；Licensed Microwave Systems）；2026-10-28',
+    url='https://creditorwatch.com.au/credit/profile/74006395026',
+    number='ABN 74 006 395 026 / ACN 006 395 026', status='Active（ASIC Registered；GST 登记）', incorporated='1985-04-01', company_type='Australian Proprietary Company, Limited by Shares',
+    sic=['无线 / 微波通信系统集成 + 安装（Rowville VIC）'],
+    address='19 Laser Drive, Rowville VIC 3178, Australia', accounts='未取', accounts_due='—', size_band='小型（11–50）',
+    officers=['Wayne Anderson — CEO（研究档 KP；wayne@wave1.com.au；备用 wayneand4305@icloud.com）= 拍板人 / 收件人'], psc='未取', charges='', prev_names=[],
+    lines=['**41 年无线集成商、CEO 为 KP、Simon「可以多跟进」→ 集成商 25% B，一页纸一次（最后一次：切口 = 基站 / 塔架侧宽温 PoE STI-154GP / STI-288DGGPM（802.3at，给 PoE 供电的无线电 / 摄像机）+ 机房侧 STC-4424GCPM 一口价 + 3 年保 + MOQ 1 + 付费样机；无源 PoE 电台不兼容明说；英文，Wayne 直呼，发 wave1 邮箱抄 icloud）' + AU + '**；22×0 在先 → 再无回声即不动',
+           '守界：微波 / 射频设备不碰；RCM 不声称'],
+    notes='集成商 25%；一页纸一次（最后一次）；坐实（ABN + ACN + 注册日 + 类型 + GST + 地址）。')
+put('SB-880', key='other', batch=B, name='NetSolutionStore.com.au = Virtual Graffiti Australia Pty Limited 的分部（**Extreme Networks 授权经销网店；页脚自列母公司；ABN 1 查未得 → 部分坐实**）— Extreme 专营（AP / 控制器 / NAC / 800 / S / K 系列交换机 / NAS / NVR）；无 KP（sales@）；7 次跟进无回复', iso='AU', fetched=F,
+    source='AU · 1 次检索：netsolutionstore.com.au 页脚（NetSolutionStore.com.au is a division of Virtual Graffiti Australia Pty Limited, an authorised Extreme Networks reseller；Copyright 2000-2022）；ABN 未得；2026-10-28',
+    url='https://www.netsolutionstore.com.au/',
+    number='未取（母公司 Virtual Graffiti Australia Pty Limited；ABN 1 查未得）', status='营业中（网店在）', incorporated='未取', company_type='Pty Limited（分部网店）',
+    sic=['Extreme Networks 专营网店（澳洲）'],
+    address='未取（澳洲）', accounts='未取', accounts_due='—', size_band='未取',
+    officers=['（研究档无 KP：sales@netsolutionstore.com.au）'], psc='Virtual Graffiti（母公司）', charges='', prev_names=[],
+    lines=['**单一原厂（Extreme）专营网店 + 无 KP + 7×0 → 不动（B 保留）**'],
+    notes='不动（原厂渠道 + 无 KP）；部分坐实（页脚母公司名；ABN 未取）。')
+put('SB-570', key='other', batch=B, name='CERTECH Pty Ltd（certech.com.au；**ABN 17 149 306 785 / ACN 149 306 785（ACN 149 段 ≈ 2011 注册）；总部 1/33 Heathcote Road, Moorebank NSW 2170；1300 144 111 / 02 8798 9965；约 50 人（名录口径）；自有 CERTECH 品牌布线 / 机柜「designed and manufactured specifically for Australia」+ 20 年布线质保**）— **数据 / AV / 安防 / 连接产品分销商（结构化布线、服务器机柜、PDU、网络硬件、HDMI / AV；网店 + 1300 热线；在售 Edimax 工业交换机 IGS-5654PLX / 5428PLC / 5218PLC / 1210P = 表内「Edimax 的」）**；KP Thomas Boer（Senior Network Solutions Specialist）/ Sophia Wong（Product & Brands Program Manager）', iso='AU', fetched=F,
+    source='AU · 1 次检索：certech.com.au 页脚（Head Office 1/33 Heathcote Road Moorebank NSW 2170；Freecall 1300 144 111；Ph 02 87989965；ABN 17 149 306 785；© 2026 CERTECH Pty Ltd；designed and manufactured specifically for Australia）+ certech.com.au/register（CERTECH Pty Ltd (ACN 149 306 785)）+ misterwhat-au（Certech Pty Ltd；Unit 2/12 Cunningham St Moorebank 旧址；ABN 17 149 306 785；Number of Employees 50；data, AV, security and connectivity distributor；20-year warranty）；2026-10-28',
+    url='https://www.certech.com.au/',
+    number='ABN 17 149 306 785 / ACN 149 306 785', status='营业中（官网 2026；ABN 在）', incorporated='约 2011（ACN 149 段推定）', company_type='Pty Ltd',
+    sic=['数据 / AV / 安防 / 连接产品分销 + 自有品牌布线机柜（Moorebank NSW）'],
+    address='1/33 Heathcote Road, Moorebank NSW 2170, Australia', accounts='未取', accounts_due='—', size_band='中小（约 50 人）',
+    officers=['Sophia Wong — Product & Brands Program Manager（研究档 KP；sophiaw@certech.com.au / info@）= 收件人（选品拍板）', 'Thomas Boer — Senior Network Solutions Specialist（研究档 KP；thomasb@certech.com.au）= 抄送'], psc='未取', charges='', prev_names=[],
+    lines=['**50 人级分销商、有自有品牌、品牌项目经理为 KP、已上架台系工业交换机 → 分销 20% B（升 A 候选），一页纸一次（切口：① 对位其 Edimax 工业线的 STI-288DGGPM / STI-488DGGPM / STI-0240GE + 商用 PoE STC-2216GP / 2224GP / 4424GCPM 一口价（分销 20%）；② 或 CERTECH 标 / 中性包装 贴标 30% 二选一；MOQ 1 + 付费样机 + 3 年保（STI）；英文，Sophia 直呼、抄 Thomas）' + AU + '**；回信 → 加厚 + 升 A',
+           '守界：不点名 Edimax；RCM 不声称；机柜 / 布线不碰'],
+    notes='分销 20%（升 A 候选；可转贴标 30%）；一页纸一次（回声再加厚）；坐实（官网自列 ABN / ACN + 地址 + 电话）。')
+print('b118 第 1 段 14 written')
