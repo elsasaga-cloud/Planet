@@ -30,6 +30,11 @@
    "email": "vertrieb@ubf.de",
    "phone": "+49 2305 9634 0",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Jürgen Fischer",
+   "role": "Geschäftsführer / Alleingesellschafter（HRB Dortmund 32518；2015 起注册地 Mühldorf a. Inn = AG Traunstein HRB 24719）= 拍板人（vertrieb@ 点名）（第 101 批 官方登记核实 2026-10-28）",
+   "email": ""
   }
  ],
  "grade_override": null,
@@ -40,11 +45,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "UBF EDV Handel und Beratung Jürgen Fischer GmbH",
-  "founded": "",
-  "hq": "Castrop-Rauxel, Germany（+49 2305）",
+  "legal_name": "UBF EDV Handel und Beratung Jürgen Fischer GmbH（HRB 32518 Dortmund；USt-ID DE125414228；ISO 9001:2015）",
+  "founded": "1981-06-25（公司合同）（第 101 批 官方登记核实 2026-10-28）",
+  "hq": "Römerstr. 37, 44579 Castrop-Rauxel（注册地 Mühldorf a. Inn）",
   "size": "中小型经销",
-  "other": ""
+  "other": "第 101 批：1981 年起的工业网络配件 B2B 电商 / 分销（Industrial Ethernet / PoE / SFP / 媒体转换器 / 串口）→ **分销 20% small**（STI-054GP / STI-144GP / STI-288DGGPM + STC-228GP）；一页纸（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "微型 / 小型（人数未取）"
  },
  "business_lines": [
   "网络配件 / 工业以太网 / IO 经销"

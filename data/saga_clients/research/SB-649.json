@@ -33,7 +33,8 @@
    "title": "（职务待核）",
    "email": "hakan.ozturk@basarimuhendislik.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核；LinkedIn 同名 ERC Sistem 者为他人，不采）= 收件人（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -44,8 +45,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 basarimuhendislik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "İnönü Mah. Kayışdağı Cad. No 128 Kat 1 D 2, 34755 Ataşehir / İstanbul",
+  "other": "官网 basarimuhendislik.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 101 批：能源自动化 / 电气工程集成 → **集成商 25%**（STI-054GP / STI-144GP / STI-288DGGPM 工业导轨）；轨交 EN 50155 守界不谈；一页纸（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "Başarı Mühendislik Otomasyon Elektrik Ltd. Şti.（İstanbul Ataşehir；EMIS 在册；MERSİS 号未取；联合创始人 Murat Tunçer）",
+  "founded": "2007-10-09（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "28–35 人；$4–5M"
  },
  "business_lines": [
   "能源监测 / 能源自动化 / SCADA & RTU",

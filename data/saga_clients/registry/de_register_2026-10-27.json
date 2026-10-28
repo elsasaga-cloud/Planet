@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 49
+  "count": 53
  },
  "rows": {
   "SA-008": {
@@ -1690,6 +1690,144 @@
    ],
    "notes": "贴标 OEM 30% 目标；KP = GF 本人；B BIG；加厚；升 A 候选。",
    "code": "SB-488"
+  },
+  "SB-556": {
+   "batch": 101,
+   "name": "UBF EDV Handel und Beratung Jürgen Fischer GmbH（ubf.de；Castrop-Rauxel，注册地 2015 迁 Mühldorf a. Inn）— 1981 年起的工业网络配件 B2B 电商 / 分销商（Industrial Ethernet、PoE、交换机、SFP、媒体转换器、串口 / 现场总线、LWL；ISO 9001:2015；GF 兼唯一股东 Jürgen Fischer）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（UBF EDV Handel und Beratung Jürgen Fischer GmbH；Römerstr. 37, 44579 Castrop-Rauxel；+49 2305 9634 0；vertrieb@ubf.de；Handelsregister HRB Dortmund Nr. 32518；W-IdNr DE421854265；USt-ID DE 125 414 228；WEEE DE 77813798；DIN EN ISO 9001:2015）+ firmendatenbanken（GmbH；HRB 32518 Dortmund；Geschäftsführung Jürgen Fischer；Gesellschafter Jürgen Fischer）+ Northdata（Dortmund HRB 32518 / Traunstein HRB 24719 / Dortmund HRB 18432；MD Jürgen Fischer；Capital 50,000 DEM；Change of headquarters）+ vivid 登记公告（Gesellschaftsvertrag 1981-06-25；2004 由 Herne 迁 Castrop-Rauxel；2015-10-20 Sitz 迁 Mühldorf a. Inn（Amtsgericht Traunstein HRB 24719））+ branchen-info（B2B Hersteller / Distributor / Großhandel mit Netzwerkkomponenten）",
+   "url": "https://www.northdata.com/UBF%20EDV%20Handel%20und%20Beratung%20J%C3%BCrgen%20Fischer%20GmbH,%20Castrop-Rauxel/Amtsgericht%20Dortmund%20HRB%2032518",
+   "number": "HRB 32518（Amtsgericht Dortmund；2015 起注册地 Mühldorf a. Inn = Amtsgericht Traunstein HRB 24719）· USt-ID DE125414228",
+   "status": "Aktiv（站点在线）",
+   "incorporated": "1981-06-25（公司合同）",
+   "company_type": "GmbH（资本 50,000 DEM；GF 兼唯一股东 Jürgen Fischer）",
+   "sic": [
+    "工业网络组件 B2B 电商 / 分销（Industrial Ethernet 交换机、PoE 供电器 / 交换机、SFP、媒体转换器、串口 RS-232/422/485 与现场总线、LWL 光缆 / 跳线、POF）"
+   ],
+   "address": "Römerstr. 37, 44579 Castrop-Rauxel（经营地；注册地 Mühldorf a. Inn）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（人数未取；一人公司推定）",
+   "officers": [
+    "Jürgen Fischer — Geschäftsführer / Alleingesellschafter = 拍板人（研究档无具名 KP，仅 vertrieb@）"
+   ],
+   "psc": "Jürgen Fischer",
+   "charges": "",
+   "prev_names": [
+    "UBF EDV Handel und Beratung Jürgen Firscher GmbH（登记笔误，2004 更正）"
+   ],
+   "lines": [
+    "**老牌工业网络电商 + 老板一人拍板** → **分销 20%，小户，一页纸**：STI-054GP / STI-144GP / STI-288DGGPM（导轨 PoE / 光口）+ STC-228GP；强调 MOQ 1 + 3 年 STI 保修 + 德国 DAP 运费",
+    "收件人 vertrieb@ 点名 Herrn Fischer；表内 1 次跟进无回复 → 第二次触达换主题「DIN-rail PoE switches for your industrial shop — 3-year warranty」；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20%；小户；一页纸；研究档补 KP Jürgen Fischer。",
+   "code": "SB-556"
+  },
+  "SB-472": {
+   "batch": 101,
+   "name": "BMAnetworks GmbH（bma-networks.com；Schwentinental bei Kiel + Hamburg-Bahrenfeld）— 2007 年起的企业 IT 系统集成商（网络 / 安全 / ADC 项目；DIERCK GROUP 成员，集团 260 人）；Amtsgericht Kiel HRB 4103；GF Alisa Ehrk / Wolfgang Ehrk；18 人，总资产 €4.5M（2024 账）；研究档 KP Mats Hansen = Head of Information Security（非采购）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（BMAnetworks GmbH；Albert-Einstein-Ring 5, 22761 Hamburg-Bahrenfeld；Vertretungsberechtigte Geschäftsführer Alisa Ehrk, Wolfgang Ehrk；Registergericht Amtsgericht Kiel HRB 4103；USt-IdNr DE167682158；DIERCK GROUP (Holding) Preetzer Chaussee 55, 24222 Schwentinental）+ Validatis（Sitz Schwentinental；HRB 4103；EUID DEX1517R.HRB4103；Jahresabschluss 2024（2026-02-18）：Bilanzsumme €4.5M +36 %，18 Mitarbeiter，Eigenkapital €1.7M）+ Northdata（HRB 4103 KI；LEI 529900FOV9RXV8MQPE96；2007-10-09 as Dierck Sicherheitstechnik GmbH）+ LinkedIn（2007；11–50；Systemintegrator IT-Networking / Security / ADC）+ Datanyze（Mats Hansen — Head of Information Security）+ Empack（DIERCK GROUP 260 人，140 年历史）",
+   "url": "https://bma-networks.com/impressum",
+   "number": "HRB 4103 KI（Amtsgericht Kiel）· LEI 529900FOV9RXV8MQPE96 · USt-ID DE167682158",
+   "status": "Aktiv（2024 账已公示 2026-02-18）",
+   "incorporated": "2007-10-09（原名 Dierck Sicherheitstechnik GmbH）",
+   "company_type": "GmbH（DIERCK GROUP 集团成员）",
+   "sic": [
+    "IT 系统集成：企业网络、IT 安全、应用交付（ADC）、咨询与实施（厂商认证工程师；全德客户）"
+   ],
+   "address": "Preetzer Chaussee 55, 24222 Schwentinental（总部）；Albert-Einstein-Ring 5, 22761 Hamburg（分部）",
+   "accounts": "2024 账：总资产 €4.5M，权益 €1.7M，18 人",
+   "accounts_due": "—",
+   "size_band": "小型（18 人；集团 260 人）",
+   "officers": [
+    "Alisa Ehrk — Geschäftsführerin",
+    "Wolfgang Ehrk — Geschäftsführer / 内容责任人",
+    "Mats Hansen — Head of Information Security = 研究档 KP mats.hansen@（**非采购 / 非网络选型人**）"
+   ],
+   "psc": "DIERCK GROUP (Holding)",
+   "charges": "",
+   "prev_names": [
+    "Dierck Sicherheitstechnik GmbH（2007）"
+   ],
+   "lines": [
+    "**企业级 SI（Cisco / F5 一类项目）+ 研究档 KP 是信息安全负责人** → Saga 产品对口度低 → **集成商 25% 低概率，一页纸即止**：STC-4424GCPM / STC-424XGGPM-280W（楼宇接入 PoE 替代款）+ STC-110XGE；不加厚",
+    "收件人改 info@ 点名「Einkauf / Netzwerk-Projektleitung」，Mats Hansen 抄送；表内 1 次跟进无回复 → 第二次触达一次后 `when=不动`；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "集成商 25% 低概率；一页纸；KP 非采购。",
+   "code": "SB-472"
+  },
+  "SB-493": {
+   "batch": 101,
+   "name": "Syserso Networks GmbH（syserso.com；Hannover）— ITTC Group 旗下电信网络 / VoIP 安全 / KRITIS 方案增值分销与集成商（Ribbon「Best Channel Performer 2026」；ISO 9001 / 45001 / 27001）；Amtsgericht Hannover HRB 217735；2019-01-29 成立为 Corning Services GmbH，2021-12 更名；资本 €260,000；**GF Naif Kiy = 研究档 KP 本人**（+ GF Michael Clever 2024-11 起）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（Syserso Networks GmbH – an ITTC Group Company；Ahrensburger Straße 8, 30659 Hannover；Geschäftsführer Naif Kiy, Michael Clever；Amtsgericht Hannover HRB 217735；USt-ID DE 216719491；+49 511 740192-0）+ registercheck（Aktiv；资本 €260,000；GF Michael Clever *1965 / Naif Kiy *1969，登记 2024-11-22）+ online-handelsregister（成立 2019-01-29；最后变更 2021-12-20）+ OpenCorporates（2021-11/12 由 Corning Services GmbH 更名 Syserso Networks GmbH；Naif Kiy / Timothy Leonard GF 2019 起；Prokurist Detlef Böse）+ companyhouse（Naif Kiy GF seit Jan 2019）+ Xing 新闻（Ribbon INSIGHTS EMEA 2026 Best Channel Performer；GF Naif Kiy、销售总监 Holger Kausch）+ ContactOut（VoIP 安全、KRITIS 运营商方案；ISO 9001 / 45001 / 27001）",
+   "url": "https://www.syserso.com/impressum/",
+   "number": "HRB 217735（Amtsgericht Hannover）· USt-ID DE216719491",
+   "status": "Aktiv（Creditreform 最后变更 2024-11-22）",
+   "incorporated": "2019-01-29（原 Corning Services GmbH；2021-12 更名）",
+   "company_type": "GmbH（资本 €260,000；ITTC Group 成员）",
+   "sic": [
+    "电信运营商 / 关键基础设施网络方案增值分销与集成（Ribbon 会话边界控制 / VoIP 安全、传输、接入）；全德区域销售处"
+   ],
+   "address": "Ahrensburger Straße 8, 30659 Hannover",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（人数未取；4 名登记管理人）",
+   "officers": [
+    "Naif Kiy — Geschäftsführer（*1969，2019 起）= **研究档 KP naif.kiy@ 本人**",
+    "Michael Clever — Geschäftsführer（*1965，2024-11 起）",
+    "Holger Kausch — Vertriebsleiter",
+    "Detlef Böse — Prokurist（2019）"
+   ],
+   "psc": "ITTC Group",
+   "charges": "",
+   "prev_names": [
+    "Corning Services GmbH（2019–2021）"
+   ],
+   "lines": [
+    "**运营商 / KRITIS 增值分销（Ribbon 线）+ GF 本人收件** → 可切「接入 / 汇聚以太网交换机作为其方案配套」→ **分销 20% 低中概率**：STC-424XGGPM-280W / STC-448XGGPM（机房汇聚）+ STC-110XGE + STH-2C24XF-HSI（25G ToR）；一页纸 + DC 线规格，不加厚",
+    "表内 1 次跟进无回复 → 第二次触达换主题「Ethernet access/ToR switches to complement your Ribbon deployments」；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% 低中概率；KP = GF 本人；一页纸。",
+   "code": "SB-493"
+  },
+  "SB-617": {
+   "batch": 101,
+   "name": "Industrial Personal Computer 2U GmbH（2024-11-15 前名 IPC2U GmbH；ipc2u.de / ipc2u.com；Langenhagen bei Hannover）— 25 年以上的工业电脑 / 嵌入式 / 面板 PC / 工业网络方案分销商兼系统集成商（EMEA；台湾采购口 +886；RuggON 等品牌分销）；Amtsgericht Hannover HRB 201075；**GF Arthur Barasch = 研究档 KP 本人**",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（Industrial Personal Computer 2U GmbH；Frankenring 6, D-30855 Langenhagen；+49 511 807 259-0；sales@ipc2u.de；USt-IdNr DE250846309；WEEE DE 353 065 04；台湾电话 +886 (2) 2930 1196）+ evsedo.de Impressum（Register AG Hannover HRB B201075；Geschäftsführer Arthur Barasch）+ Northdata（HRB 201075；LEI 5299004NVERIA0XMW716；2024-11-15 Name: Industrial Personal Computer 2U GmbH，此前 IPC2U GmbH；MD Arthur Barasch）+ companyhouse（Arthur Barasch, Berlin；alleinvertretungsberechtigt；另任 inektra GmbH / invara UG）+ 官网首页（「internationaler Anbieter und Systemintegrator für industrielle Computing-Lösungen mit mehr als 25 Jahren Erfahrung」；工业 PC / 嵌入式 / 面板 PC / 边缘服务器 / 19 英寸机架 / **industrielle Netzwerklösungen**；定制平台）+ openPR（IPC2U 成为 RuggON 德国分销商）",
+   "url": "https://www.northdata.com/Industrial%20Personal%20Computer%202U%20GmbH,%20Langenhagen/Amtsgericht%20Hannover%20HRB%20201075",
+   "number": "HRB 201075（Amtsgericht Hannover）· LEI 5299004NVERIA0XMW716 · USt-ID DE250846309",
+   "status": "Aktiv（Embedded World 2026 参展）",
+   "incorporated": "未取（经营 25 年以上；公司号 2010 年代）",
+   "company_type": "GmbH（GF Arthur Barasch，单独代表权）",
+   "sic": [
+    "工业电脑 / 嵌入式 / 面板 PC / 工业边缘服务器 / 19 英寸机架电脑分销与系统集成（整机装配、OS 预装、测试）",
+    "工业网络方案（交换机 / 网关 / IoT 网关）配套分销"
+   ],
+   "address": "Frankenring 6, 30855 Langenhagen",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（人数未取）",
+   "officers": [
+    "Arthur Barasch — Geschäftsführer（Berlin；单独代表）= **研究档 KP barasch@ 本人**"
+   ],
+   "psc": "Arthur Barasch（推定）",
+   "charges": "",
+   "prev_names": [
+    "IPC2U GmbH（— 2024-11）"
+   ],
+   "lines": [
+    "**工业 PC 分销 + 自带「工业网络方案」品类 + 台湾采购口 + GF 本人收件 → 分销 20%（可谈 IPC2U 标工业交换机 OEM 30%）**：STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE（导轨宽温，配其工业 PC 方案）；B BIG，**加厚**（对标台系工业交换机价 + 3 年保修 + MOQ 1）",
+    "表内 1 次跟进无回复 → 第二次触达换主题「DIN-rail managed switches as a second source beside your Taiwan line — your label possible」；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）"
+   ],
+   "notes": "分销 20% / 可谈贴标；KP = GF 本人；B BIG；加厚；升 A 候选。",
+   "code": "SB-617"
   }
  }
 }

@@ -47,7 +47,8 @@
    "title": "Managing Director",
    "email": "barasch@ipc2u.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Geschäftsführer（单独代表权；Berlin；Amtsgericht Hannover HRB 201075）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -58,8 +59,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 ipc2u.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Frankenring 6, 30855 Langenhagen",
+  "other": "官网 ipc2u.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 101 批：工业电脑 / 嵌入式分销 + 系统集成 + 自带工业网络方案品类 + 台湾采购口 + GF 本人收件 → **分销 20%（可谈 IPC2U 标 OEM 30%）**（STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE 配其工业 PC）；B BIG；加厚；升 A 候选（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "Industrial Personal Computer 2U GmbH（2024-11-15 前名 IPC2U GmbH；HRB 201075 Hannover；LEI 5299004NVERIA0XMW716；USt-ID DE250846309）",
+  "founded": "未取（经营 25 年以上）（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "小型（人数未取）"
  },
  "business_lines": [
   "工业计算机系统（Box PC / DIN 导轨 PC / 面板 PC）",

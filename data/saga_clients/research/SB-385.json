@@ -48,7 +48,8 @@
    "title": "Engineer",
    "email": "contact@dtsdigitalcctv.co.uk",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核）= 收件人；点名 Owner Derek Stephenson（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -59,8 +60,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 dtsdigitalcctv.co.uk，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "95–99 Dean Road, Scarborough, North Yorkshire YO12 7QS",
+  "other": "官网 dtsdigitalcctv.co.uk，语言 ?，快照状态 ok；角色判定来源：用户表；第 101 批：微型在线 CCTV 分销（Genie / ZIP / SPRO / Dahua 授权）→ **分销 20% small**（STC-028GP / STC-228GP / STC-2216GP）；一页纸；下轮补项：站点 Terms 法人名（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "DTS Digital（Scarborough；法人主体未取 → 未坐实；CH 06949184 DTS DIGITAL LIMITED Sheffield 2024-05 注销、董事 Southwell / Atherton 疑同名他户，不采）",
+  "founded": "2009（自述）（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "2–10 人（Owner Derek Stephenson）"
  },
  "business_lines": [
   "CCTV 分销（HD IP / 模拟 / NVR / 配件）"

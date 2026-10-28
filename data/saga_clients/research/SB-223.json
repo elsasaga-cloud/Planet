@@ -47,14 +47,16 @@
    "title": "General Manager",
    "email": "mohamed@2mtechnology.net",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核；疑为业主 / 负责人）= 收件人（第 101 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Jarga Jallow",
    "title": "IT Manager",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核）= 抄送（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -65,8 +67,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 2mtechnology.net，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "802 Greenview Dr, Grand Prairie, TX 75050",
+  "other": "官网 2mtechnology.net，语言 en-US，快照状态 ok；角色判定来源：用户表；第 101 批：自有标安防 / 热成像 + 德州安防持证集成 → **贴标 OEM 30% 目标 + 集成商 25%**（2M 标 STC-228GP / STC-2224GP / STC-4424GCPM）；加厚一次；SoS 文件号下轮补（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "2M Technology Inc.（2M Solutions Inc. 并存；TX SoS 文件号未取；Texas Security License B15309）",
+  "founded": "2004（自述）/ 2012（LinkedIn）（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人（20）"
  },
  "business_lines": [
   "高风险环境安防（防爆摄像机 / 安检 / 周界）",

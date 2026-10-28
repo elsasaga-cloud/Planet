@@ -31,7 +31,8 @@
    "title": "President",
    "email": "andrea@lanshack.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "President / Director of Sales（Atcom Services, Inc. dba LANshack.com）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -42,11 +43,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Tecra Tools, Inc. (LANshack)",
-  "founded": "（待核）",
-  "hq": "USA（宾州 / 新泽西，待核）",
+  "legal_name": "Atcom Services, Inc. dba LANshack.com（研究档原写 Tecra Tools, Inc. = 误，Tecra Tools 为同业他户；NJ 登记号未取）",
+  "founded": "1993（Atcom）/ 1997（LANshack.com）（第 101 批 官方登记核实 2026-10-28）",
+  "hq": "155 Meadow Rd, Suite 100, Clark, NJ 07066",
   "size": "中小型制造 + 电商",
-  "other": "在售 E-wind MC / 交换机"
+  "other": "在售 E-wind MC / 交换机；第 101 批：结构化布线 / 光纤跳线制造 + 数据网络配件电商 + 总裁本人收件 → **分销 20% 首选 US**（STC-228GP / STC-2224GP / STC-4424GCPM / STI-144GP 配其光纤跳线）；B BIG；加厚；升 A 候选；法定名更正（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人（22）；$4.4M"
  },
  "business_lines": [
   "光纤 / 铜缆组件制造",

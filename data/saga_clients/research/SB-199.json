@@ -42,11 +42,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Kore Konect（待核）",
-  "founded": "",
-  "hq": "Poland",
+  "legal_name": "Kore Konect Sp. z o.o.（KRS 0000898338；NIP 5213927829；REGON 388906180；资本 5,000 zł；PKD 32.99.Z；Warszawa 的 KORE Sp. z o.o. 为同名他户）",
+  "founded": "2021-05-05（第 101 批 官方登记核实 2026-10-28）",
+  "hq": "ul. Bartycka 22B/21A, 00-716 Warszawa（住宅楼）",
   "size": "小型经销",
-  "other": "已售 E-wind"
+  "other": "已售 E-wind；第 101 批：自有品牌布线 / 机柜 / 交换机 / UPS「制造商」实为壳型外采贴牌（面向中东经销）→ **贴标 small + 预付条款**（Kore Konect 标 STC-028GP / STC-228GP / STI-054GP，T/T 100% 预付、MOQ 1、不赊）；一页纸；不加厚（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "微型（资本 5,000 zł；人数未取）"
  },
  "business_lines": [
   "网络设备经销"

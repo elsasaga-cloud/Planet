@@ -31,7 +31,8 @@
    "title": "（职务待核）",
    "email": "mujde.balikcioglu@arttelekom.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Dış Ticaret Müdürü（外贸 / 进口经理；Art Telekom 家族企业成员）= **进口决策人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -42,8 +43,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 arttelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Mutlukent Mah. Angora Bulvarı Fesleğen Sok. No 7, Beysukent / Çankaya, Ankara 06800",
+  "other": "官网 arttelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 101 批：电信 / 网络系统集成 + 进口分销（管理层 Hasan / Murat Balıkçıoğlu，销售总监 Tarkan Erdoğan）→ **集成商 25% + 分销 20%**（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W / STI-288DGGPM）；B BIG；加厚；升 A 候选（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "Art Telekom San. Tic. Ltd. Şti.（LinkedIn / EMIS 写 ART TELEKOM A.Ş.；Ankara Çankaya；MERSİS 号未取；关联 TECOM Mühendislik）",
+  "founded": "1980（自述）/ 2002-06-26（EMIS 现主体）（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "IP 电话 / 统一通信 / 呼叫中心 / 安防项目（土耳其）"

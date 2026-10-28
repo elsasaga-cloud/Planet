@@ -31,7 +31,8 @@
    "title": "Purchasing and Logistics Manager",
    "email": "scott.abraham@dvs.co.uk",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核；DVS LTD）= 收件人；点名 Commercial Director Gavin Dunleavy / Head of Sales Josh Whitehead（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -42,8 +43,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 dvs.co.uk，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "Unit 3, Neptune Point, Vanguard Way, Cardiff CF24 5PG",
+  "other": "官网 dvs.co.uk，语言 ?，快照状态 http_error；角色判定来源：待核；第 101 批：Hikvision 英国主分销（上市集团旗下，供应商准入正式）→ **分销 20% 低概率但体量大**（非 Hikvision 网络侧：STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W 作 PoE 交换机第二货源）；一页纸即止；不加厚（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "DVS LTD（Companies House 04963144；注册地 c/o Midwich Limited, Diss；PSC Cooper Projects Limited 10121998 → Midwich plc 2022-01 多数股权；MD Tim Goodson；董事 Dunleavy / Fenby / Lowe / Councell）",
+  "founded": "2003-11-13（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "中型（第三方 100+ 人；集团并表）"
  },
  "business_lines": [
   "CCTV / 安防产品分销（英国）"

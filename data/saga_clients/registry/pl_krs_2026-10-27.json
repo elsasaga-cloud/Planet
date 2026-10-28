@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 46
+  "count": 50
  },
  "rows": {
   "SA-023": {
@@ -1544,6 +1544,130 @@
    ],
    "notes": "分销 20%；微型；一页纸；部分坐实（经营者待核）。",
    "code": "SB-454"
+  },
+  "SB-199": {
+   "batch": 101,
+   "name": "Kore Konect Sp. z o.o.（korekonect.com；Warszawa Bartycka 22B/21A）— 2021-05-05 注册的结构化布线 / 机柜 / 交换机 / UPS「品牌制造商」（自称 manufacturer；产品线含 PoE / 工业 PoE 交换机、媒体转换器、SFP）；资本仅 5,000 zł、注册地为住宅楼；中东经销页（gabs-me.com）→ 疑为外资贸易型自有品牌公司",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：krs-pobierz（KORE KONECT SPÓŁKA Z O.O.；KRS 0000898338；NIP 5213927829；REGON 388906180；aktywna；资本 5,000 zł；ul. Bartycka 22B/21A, 00-716 Warszawa；登记 2021-05-05；最近变更 2024-08-13；主营 PKD 32.99 其他制造）+ 官网（Kore Konect；结构化布线铜缆 / 光纤、服务器机柜 7U–47U、Ethernet / PoE / Industrial PoE Switches、Media Converter、SFP、UPS、控制电缆；BARTYCKA 22B M21A；info@korekonect.com）+ gabs-me.com（中东经销页：「Polish based manufacturer of … Network Switches and UPS」）；Warszawa 的 KORE Sp. z o.o.（广告公司，KRS 0000206537）与 Szczecin 的 Kore Poland 为同名他户，不采",
+   "url": "https://krs-pobierz.pl/kore-konect-spolka-z-ograniczona-odpowiedzialnoscia-i7120353",
+   "number": "KRS 0000898338 · NIP 5213927829 · REGON 388906180",
+   "status": "Aktywna（KRS 变更 2024-08-13）",
+   "incorporated": "2021-05-05",
+   "company_type": "Spółka z o.o.（资本 5,000 zł —— 法定最低；董事会代表）",
+   "sic": [
+    "PKD 32.99.Z — 其他制造（实为自有品牌 Kore Konect：布线 / 机柜 / 交换机 / UPS，外采贴牌出口至中东等地）"
+   ],
+   "address": "ul. Bartycka 22B/21A, 00-716 Warszawa（住宅楼）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（资本 5,000 zł；人数未取）",
+   "officers": [
+    "董事会成员姓名未取（研究档无 KP；info@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌但壳型公司（5,000 zł 资本、住宅地址、面向中东经销）** → 贴标需求真实但付款与量存疑 → **贴标 small：一页纸 + 预付款条款**（Kore Konect 标 STC-028GP / STC-228GP / STI-054GP），T/T 100% 预付、MOQ 1、不赊",
+    "收件人 info@；表内「已售 E-wind」→ 已有华南货源 → 第二次触达换主题「managed L2+ PoE under your label — 3-year STI warranty」；发信窗口 Thu 12–14 CET；不加厚"
+   ],
+   "notes": "贴标 small；壳型公司预付；一页纸。",
+   "code": "SB-199"
+  },
+  "SB-415": {
+   "batch": 101,
+   "name": "A2S（a2s.pl；波兰）— 研究档 KP Maciej Łuczyński ml@a2s.pl；**本轮 1 次检索未命中登记主体（仅见 MAJOA Sp. z o.o. 董事 Maciej Piotr Łuczyński，未证同人）→ 未坐实**",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索（关键词 A2S a2s.pl Maciej Łuczyński KRS）→ 返回 Polskie Sieci Teleinformatyczne S.A.、Łuczyński i Partnerzy、MAJOA Sp. z o.o.（KRS 0001014967；Maciej Piotr Łuczyński 董事 2023 起，150 udziałów）、A2Systems（NIP 6331740751）、A2 Sp. z o.o. 等 —— 均无法与 a2s.pl 对应；按「1 次未中即停」规则不再追；站点事实沿用研究档（a2s.pl，角色判定来源：官网文案）",
+   "url": "https://a2s.pl/",
+   "number": "未坐实（登记主体未取）",
+   "status": "站点在线（研究档快照 ok）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "网络 / 弱电产品分销或集成（研究档官网文案判定；细分未核）"
+   ],
+   "address": "波兰（门牌未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Maciej Łuczyński — 研究档 KP ml@a2s.pl（职务未核）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实** → 坐实前只发一页纸（STC-228GP / STC-2224GP / STI-144GP）；下轮补项：站点 Regulamin / Kontakt 页法人名 + NIP 再查 KRS / CEIDG",
+    "收件人 ml@；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "未坐实（1 次未中）；一页纸；下轮补项。",
+   "code": "SB-415"
+  },
+  "SB-418": {
+   "batch": 101,
+   "name": "ATEL ELECTRONICS Sp. z o.o.（atel.com.pl；Opole）— 光纤技术 / 工业与无线通信元件进口分销商，**ORing Industrial Networking 波兰授权分销**（工业交换机 / 媒体转换器 / 串口服务器、热成像、测量仪器、售后件）；KRS 0001010225（2023-01-02 登记，前身个体推定）；资本 50,000 zł；第三方营收区间 3.5–9.7 mln zł",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：官网页脚 / Zasady sprzedaży（Atel Electronics Sp. z o.o.；ul. Oleska 121, 45-231 Opole；Kapitał zakładowy 50.000,00；KRS 0001010225；Sąd Rejonowy w Opolu VIII Wydział KRS；REGON 524050890；NIP 7543356130）+ 官网 ORing 页（「Atel Electronics jest autoryzowanym dystrybutorem produktów firmy ORing Industrial Networking w Polsce」；ITS / 能源 / EN 50155 产品）+ krs-pobierz（登记 2023-01-02；最近变更 2026-06-30；主营电子 / 电信设备批发）+ bizraport（营收 3.5 / 9.7 mln zł 两档；光纤技术、工业 / 无线通信、工业交换机、热成像、售后件）+ Facebook（进口与分销网络元件、测量设备）+ Marketplanet 供应商库",
+   "url": "https://krs-pobierz.pl/atel-electronics-spolka-z-ograniczona-odpowiedzialnoscia-i0001010225",
+   "number": "KRS 0001010225 · NIP 7543356130 · REGON 524050890",
+   "status": "Aktywna（KRS 变更 2026-06-30）",
+   "incorporated": "2023-01-02（Sp. z o.o. 登记；业务更早，前身推定个体）",
+   "company_type": "Spółka z o.o.（资本 50,000 zł）",
+   "sic": [
+    "PKD 46.52.Z — 电子 / 电信设备批发（光纤技术、工业通信 ORing、无线、热成像、测量仪器、售后件进口分销）"
+   ],
+   "address": "ul. Oleska 121, 45-231 Opole",
+   "accounts": "第三方营收区间 3.5–9.7 mln zł（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "小型（人数未取）",
+   "officers": [
+    "董事会姓名未取（研究档无 KP；cust@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**ORing 授权分销（台系高价工业线）→ Saga STI 正好做其「价值线」第二货源 → 分销 20%**：STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM 对标 ORing IPS / IGS 系列价（表内「ORing 工业线在售（高价）」）+ STI-0240GE；ITS 道路 / 能源场景谈，**轨交 EN 50155 不谈（守界）**；加厚一次（对标价表）",
+    "收件人 cust@ 点名「dział handlowy / właściciel」；表内 1 次跟进无回复 → 第二次触达换主题「a value industrial line beside ORing — managed L2+, -40~75 °C, 3-year warranty」（不点名 ORing）；发信窗口 Thu 12–14 CET；下轮补项：KRS 董事会"
+   ],
+   "notes": "分销 20%；加厚一次；轨交守界；董事会下轮补。",
+   "code": "SB-418"
+  },
+  "SB-674": {
+   "batch": 101,
+   "name": "Noxel Sp. z o.o.（noxel.pl；Chorzów，前址 Katowice）— 2019 年成立的电子 / 安防网店（摄像机、NVR、网络、路由器、报警、视频对讲）；KRS 0000799308；资本 5,000 zł；PKD 47.91.Z 邮购 / 网络零售",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：官网 Kontakt / Regulamin（Noxel Sp. z o.o.；ul. Katowicka 16B, 41-500 Chorzów；KRS 0000799308；NIP 6762569629；REGON 384126338；资本 5,000 zł；kontakt@noxel.pl；32 708 55 36）+ GoWork / imsig / infoveriti（同号；aktywna）+ pkt / biznesfinder（2019 成立；PKD 47.91.Z；旧址 Józefowska 76, 40-145 Katowice）+ Facebook（「Sklep z elektroniką i zabezpieczeniami. Kamery, rejestratory, sieci, routery, alarmy, wideodomofony」）",
+   "url": "https://noxel.pl/regulamin/",
+   "number": "KRS 0000799308 · NIP 6762569629 · REGON 384126338",
+   "status": "Aktywna（站点 2026-08 更新）",
+   "incorporated": "2019",
+   "company_type": "Spółka z o.o.（资本 5,000 zł）",
+   "sic": [
+    "PKD 47.91.Z — 邮购 / 网络零售（电子与安防：摄像机 / NVR / 网络 / 路由器 / 报警 / 视频对讲）"
+   ],
+   "address": "ul. Katowicka 16B, 41-500 Chorzów（旧址 ul. Józefowska 76, 40-145 Katowice）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（资本 5,000 zł）",
+   "officers": [
+    "董事会姓名未取（研究档无 KP；kontakt@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型安防网店** → **分销 20% small，一页纸**：STC-028GP / STC-228GP（零售款 4–8 口 PoE）；MOQ 1 + DAP 华沙",
+    "收件人 kontakt@ 点名 właściciel；表内无跟进（用户表来源）→ 首信即一页纸；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% small；一页纸。",
+   "code": "SB-674"
   }
  }
 }

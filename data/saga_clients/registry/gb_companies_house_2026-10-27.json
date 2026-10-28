@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 51
+  "count": 55
  },
  "rows": {
   "SA-015": {
@@ -1763,6 +1763,141 @@
    ],
    "notes": "分销 20%（ACE）+ 集成商 25%（Oxford Aerials 另线）；KP 误归属已标；公司号下轮补。",
    "code": "SB-521"
+  },
+  "SB-385": {
+   "batch": 101,
+   "name": "DTS Digital（dtsdigitalcctv.co.uk；Scarborough, North Yorkshire）— 2009 年起的在线 CCTV 设备分销商（Genie / ZIP / SPRO / Vectus / NiteDevil / Alien / IRLAB / Dahua / Hanwha 授权分销；2–10 人；Owner Derek Stephenson）；**Companies House 同名 DTS DIGITAL LIMITED 06949184（Sheffield，2024-05 注销，董事 Southwell / Atherton）疑非本户 → 未坐实（法人主体未定）**",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：官网 company_info（DTS Digital；95–99 Dean Road, Scarborough YO12 7QS；contact@）+ RocketReach（2009；4 人；Owner Derek Stephenson）+ LinkedIn（2009；2–10；Self-Owned；Scarborough）+ Trustpilot / Professional Security（2009 起；Genie / ZIP / SPRO / Vectus / NiteDevil / Alien / IRLABS / Dahua / Hanwha 授权分销；联系人 D Stephenson；43 Newby Farm Road YO12 6UJ）+ Companies House 06949184（DTS DIGITAL LIMITED；Dinnington, Sheffield；2009-07-01 成立；**Dissolved 2024-05-07**；董事 Martin Raymond Southwell / Michael Albert Atherton / Melanie Southwell）—— 地址与人员均不符，疑同名他户；Scarborough 主体（Ltd 或个体）未取",
+   "url": "https://www.dtsdigitalcctv.co.uk/company_info.asp",
+   "number": "未坐实（Scarborough 主体未取；CH 06949184 疑他户且已注销）",
+   "status": "站点在线（2024-05 更新）",
+   "incorporated": "2009（自述）",
+   "company_type": "未取（Self-Owned；疑个体 / 小 Ltd）",
+   "sic": [
+    "CCTV 设备在线分销（HD IP / HD 模拟 / 套件）面向行业与零售客户，欧洲发货"
+   ],
+   "address": "95–99 Dean Road, Scarborough, North Yorkshire YO12 7QS",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Derek Stephenson — Owner（RocketReach / Professional Security「D Stephenson」）= 收件人",
+    "Pavel Tsenov — 研究档 KP contact@（职务未核）"
+   ],
+   "psc": "Derek Stephenson（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型在线 CCTV 分销** → **分销 20% small，一页纸**：STC-028GP / STC-228GP / STC-2216GP（配其 IP 套件；3 年保修对齐其「up to 3 years warranty」口径 → 用 STI 或写明延保）",
+    "收件人 contact@ 点名 Derek Stephenson；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 GMT；下轮补项：站点 Terms 法人名"
+   ],
+   "notes": "分销 20% small；一页纸；未坐实（主体待定）。",
+   "code": "SB-385"
+  },
+  "SB-386": {
+   "batch": 101,
+   "name": "DVS LTD（dvs.co.uk；Cardiff，Unit 3 Neptune Point）— 2003 年成立的 Hikvision 英国主要分销商（CCTV / 门禁 / 报警 / 智能家居）；2016 管理层收购，**2022-01 Midwich plc 取得多数股权**（母公司 Cooper Projects Limited 10121998 = PSC）；MD Tim Goodson；Companies House 04963144；注册地 c/o Midwich, Diss",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 04963144（DVS LTD；Active；2003-11-13 成立；注册地 C/O Midwich Limited, Vinces Road, Diss IP22 4YT（2022-01-20 由 Cardiff 迁入）；PSC Cooper Projects Limited 10121998（2016-06-20 起）；董事 Timothy Goodson 2016 / Gavin Francis Dunleavy 2013 / Stephen Barry Fenby 2022 / Mark Daniel Lowe 2022 / Adam Thomas Councell 2026-03-02）+ Endole（Hikvision CCTV 分销；Gavin Dunleavy — Commercial Director）+ theorg（Tim Goodson MD；David Davies 技术总监；Lynsey Morgan 财务总监；Josh Whitehead Head of Sales）+ SecurityInformed 2016（MBO，HSBC 融资）+ ChannelWeb 2022-01（Midwich 收购多数股权；Hikvision / Toshiba 分销）+ RocketReach（157 人；$6.6M —— 第三方，仅作区间）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04963144",
+   "number": "Companies House 04963144",
+   "status": "Active（新董事 2026-03-02）",
+   "incorporated": "2003-11-13",
+   "company_type": "Private limited company（Midwich plc 旗下，经 Cooper Projects Limited 控股）",
+   "sic": [
+    "安防产品分销（Hikvision 英国主分销；CCTV / 视频火灾探测 / 门禁 / 报警 / 智能家居），面向行业安装商"
+   ],
+   "address": "Unit 3, Neptune Point, Vanguard Way, Cardiff CF24 5PG（经营地；注册地 c/o Midwich, Diss）",
+   "accounts": "—（Midwich 集团并表）",
+   "accounts_due": "—",
+   "size_band": "中型（第三方 100+ 人；集团上市公司）",
+   "officers": [
+    "Timothy Goodson — Managing Director / Director（2016 起）",
+    "Gavin Francis Dunleavy — Commercial Director / Director（2013 起）",
+    "Stephen Barry Fenby / Mark Daniel Lowe — Director（Midwich 方，2022）",
+    "Adam Thomas Councell — Director（2026-03）",
+    "Josh Whitehead — Head of Sales",
+    "Scott Abraham — 研究档 KP scott.abraham@（职务未核）"
+   ],
+   "psc": "Cooper Projects Limited（10121998）→ Midwich plc",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上市集团旗下 Hikvision 主分销 → 供应商准入正式、绑定 Hikvision 生态 → 分销 20% 低概率但体量大**：切口 = 「非 Hikvision 的网络侧」STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W 作为其 PoE 交换机第二货源；一页纸即止，不加厚",
+    "收件人：Scott Abraham（研究档，已在收）+ 点名 Commercial Director Gavin Dunleavy / Head of Sales Josh Whitehead；研究档站点 http_error → 用 CH / theorg 信息；表内 1 次跟进无回复 → 第二次触达一次；发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "分销 20% 低概率（Midwich 集团）；一页纸。",
+   "code": "SB-386"
+  },
+  "SB-390": {
+   "batch": 101,
+   "name": "SSED Ltd（T/A Hunters Wholesalers；hunters-wholesalers.co.uk；Maidenhead，前址 Slough / Langley）— 2003 年起的多品牌电子安防批发商（CCTV / 门禁 / 对讲 / 入侵 / 消防；Hikvision / Videx / Fike / Bosch；2–10 人）；Companies House **04864055**（Terms 页）；联系人 Harjinder Narula；（HUNTERS WHOLESALERS LIMITED 06486469 = 2011 注销旧壳）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：官网 Terms（「Hunters Wholesalers, a trading name of SSED Ltd, company registration number 04864055 and registered office at Trade City, Unit 3 Martin Road, Clivemont Park, Maidenhead SL6 7DZ」）+ 官网 About（SSED T/A Hunters Wholesalers；2003 起；独立多品牌分销）+ LinkedIn（2003；2–10；Slough；Hikvision / Videx / Fike / Bosch）+ Kompass（SIC 80200；0–9 人；注册号误列 06486469）+ Companies House 06486469（HUNTERS WHOLESALERS LIMITED；2008-01-28 成立；**Dissolved 2011-02-22**；242 Trelawney Avenue, Langley = 旧壳）+ construction.co.uk（Mr Harjinder Narula）+ securitysuppliesdirect.co.uk（sales@hunters-wholesalers.co.uk；01628 669 124；同址）",
+   "url": "https://www.hunters-wholesalers.co.uk/information/terms?language=en-gb",
+   "number": "Companies House 04864055（SSED Ltd）；旧壳 HUNTERS WHOLESALERS LIMITED 06486469 已注销 2011",
+   "status": "Active（站点在线；多址运营）",
+   "incorporated": "2003（自述；SSED Ltd 号段 2003）",
+   "company_type": "Private limited company（SSED Ltd 以 Hunters Wholesalers 商号经营）",
+   "sic": [
+    "80200 — 安防系统服务（实为电子安防设备多品牌批发：CCTV / 门禁 / 对讲 / 报警 / 消防 / 卫星电视 / 配钥匙）"
+   ],
+   "address": "Trade City, Unit 3 Martin Road, Clivemont Park, Maidenhead SL6 7DZ（另址 Unit 4A Kelpatrick Road, Slough SL1 6BW）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Harjinder Narula — 联系人 / 负责人（construction.co.uk；董事身份未核）= 收件人（研究档无 KP）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "HUNTERS WHOLESALERS LIMITED（06486469，2008–2011 旧壳）"
+   ],
+   "lines": [
+    "**微型多品牌安防批发** → **分销 20% small，一页纸**：STC-028GP / STC-228GP / STC-2216GP（对标其 Hikvision PoE 交换机在售价）",
+    "收件人 sales@ 点名 Harjinder Narula；表内无跟进（研究档站点 timeout）→ 首信即一页纸；发信窗口 Thu 12–14 GMT；下轮补项：CH 04864055 董事 / 账目"
+   ],
+   "notes": "分销 20% small；一页纸；CH 04864055 待补董事。",
+   "code": "SB-390"
+  },
+  "SB-770": {
+   "batch": 101,
+   "name": "LANODE LIMITED（lanode.com / lanode.co.uk；Camberley, Surrey）— 1992 年成立的网络 / 传输 / 数据通信专业分销商（媒体转换器、工业以太网、交换机、PoE、SFP、CWDM / DWDM、串口服务器、E1 / G.SHDSL；KBC Networks 合作伙伴）；Companies House 02702078；**Managing Director Donal McDonnell（80% 股东）= 研究档 KP 本人**；2–10 人",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 02702078（LANODE LIMITED；Active；1992-03-31 成立；注册地 White Lodge, Saville Gardens, Camberley GU15 1DF；董事 Donal McDonnell *1958-03，1992 起）+ Pomanda（SIC 61100；最大股东 Donal McDonnell 80%）+ Endole（Company Secretary Raquel McDonnell；2 名股东、1 名 PSC）+ GlobalDatabase（Ian Philip — Technical Manager；Nige Howarth — Marketing；Mia Steward-Storey — Internal Sales）+ D&B（Managing Director Donal McDonnell；+44 1276 677220）+ prospeo（经营地 Unit 1 Phase 4, Albany Park, Camberley GU16 7PL；1–10 人）+ 官网 Products（Industrial Ethernet Managed & Unmanaged、PoE、Ethernet Switches、Media Converters、CWDM/DWDM）+ Light Reading 2023-11（Lanode 扩大与 KBC Networks 合作）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/02702078",
+   "number": "Companies House 02702078",
+   "status": "Active",
+   "incorporated": "1992-03-31",
+   "company_type": "Private limited company（Donal McDonnell 80%）",
+   "sic": [
+    "61100 — 有线电信活动（实为网络 / 传输 / 数据通信设备专业分销：媒体转换器、工业以太网、交换机、PoE、光模块、复用器、串口服务器）"
+   ],
+   "address": "White Lodge, Saville Gardens, Camberley GU15 1DF（注册）；Unit 1 Phase 4, Albany Park, Camberley GU16 7PL（经营）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Donal McDonnell — Director / Managing Director（*1958；80%）= **研究档 KP donal@ 本人**",
+    "Raquel McDonnell — Company Secretary（股东）",
+    "Ian Philip — Technical Manager",
+    "Mia Steward-Storey — Internal Sales"
+   ],
+   "psc": "Donal McDonnell（80%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**产品线与 Saga 完全同向（工业以太网 / PoE / 媒体转换）+ 老板本人收件 + 已代理 KBC（美系工业交换机）→ 分销 20%**：STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM（对标 KBC 工业线价，3 年保修）+ STC-228GP / STC-2224GP；加厚一次（工业线对标价表）",
+    "表内 1 次跟进无回复 → 第二次触达换主题「a value industrial Ethernet line beside KBC — managed L2+, 3-year warranty, MOQ 1」（不点名 KBC）；发信窗口 Thu 12–14 GMT；升 A 候选（回信即 A）"
+   ],
+   "notes": "分销 20%；KP = MD / 80% 股东本人；加厚一次；升 A 候选。",
+   "code": "SB-770"
   }
  }
 }

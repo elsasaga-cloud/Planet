@@ -38,7 +38,8 @@
    "title": "BD",
    "email": "rv@worldstarcctv.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Business Development（WorldStar Security Cameras）= 收件人（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -49,8 +50,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 worldstarsecuritycameras.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "500 S Dixie Hwy W, Pompano Beach, FL 33060",
+  "other": "官网 worldstarsecuritycameras.com，语言 ?，快照状态 ok；角色判定来源：待核；第 101 批：自有标安防摄像机 + 分销 → **贴标 OEM 30% 目标 + 分销 20%**（WSSC 标 STC-028GP / STC-228GP / STC-2224GP）；加厚一次；部分坐实（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "WorldStar Security Cameras（WSSC；FL 法定名 / Sunbiz 号未取 → 部分坐实）",
+  "founded": "2010（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "2–50 人；<$5M"
  },
  "business_lines": [
   "CCTV / 安防产品经销（美国）"

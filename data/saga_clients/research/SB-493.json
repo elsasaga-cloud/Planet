@@ -46,7 +46,8 @@
    "title": "Managing Director",
    "email": "naif.kiy@syserso.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Geschäftsführer（*1969；2019 起；Amtsgericht Hannover HRB 217735）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -57,8 +58,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 syserso.com，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Ahrensburger Straße 8, 30659 Hannover",
+  "other": "官网 syserso.com，语言 de-DE，快照状态 ok；角色判定来源：官网文案；第 101 批：运营商 / KRITIS 网络方案增值分销（Ribbon 线，ISO 9001 / 45001 / 27001）+ GF 本人收件 → **分销 20% 低中概率**（STC-424XGGPM-280W / STC-448XGGPM / STC-110XGE / STH-2C24XF-HSI 作其方案配套）；一页纸 + DC 规格；不加厚（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "Syserso Networks GmbH（HRB 217735 Hannover；资本 €260,000；ITTC Group；原名 Corning Services GmbH 2019–2021；GF Naif Kiy / Michael Clever；Vertriebsleiter Holger Kausch）",
+  "founded": "2019-01-29（2021-12 更名）（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "小型 / 中型（人数未取）"
  },
  "business_lines": [
   "ICT 网络规划 / 实施 / 支持（德国）"

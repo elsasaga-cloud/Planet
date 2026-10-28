@@ -53,7 +53,7 @@
  "kp": [
   {
    "name": "Nalan（姓待核）",
-   "role": "（用户表联系人）",
+   "role": "研究档 KP（姓待核；职务未核）= 收件人（第 101 批 官方登记核实 2026-10-28）",
    "email": "nalan@pcgbilgisayar.com（用户表）",
    "phone": "—（WhatsApp 已加）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -67,11 +67,12 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "PCG Bilgisayar Sistemleri Pazarlama San. ve Tic. Ltd. Şti.",
-  "founded": "1998（业务）/ 2004-06-04（法人）",
-  "hq": "Baltacı Mehmet Paşa Sok. No:4 Moment İstanbul B Blok D:77, Soğanlık, Kartal / İstanbul（+90 216 441 07 24；info@pcgbilgisayar.com）",
+  "legal_name": "PCG Bilgisayar Sistemleri Pazarlama San. ve Tic. Ltd. Şti.（İstanbul Kartal；EMIS 在册；MERSİS 号未取）",
+  "founded": "1998（自述）/ 2004-06-04（EMIS 登记）（第 101 批 官方登记核实 2026-10-28）",
+  "hq": "Baltacı Mehmet Paşa Sok. No 4, Moment İstanbul B Blok D 77, Soğanlık, Kartal / İstanbul 34880",
   "size": "11–50（LinkedIn）；17（ZoomInfo）",
-  "other": "Gigabyte Enterprise 独家分销；NVIDIA Compute Partner；Rejitek 工业 PC 独家分销（2026）"
+  "other": "Gigabyte Enterprise 独家分销；NVIDIA Compute Partner；Rejitek 工业 PC 独家分销（2026）；第 101 批：服务器 / 存储 / 网络 IT 分销 → **分销 20%（DC 线 STH 为主）**：STH-2C24XF-HSI / STH-8C48DX-HSI / STH-32C-HSI + STC-448XGGPM；B BIG；加厚；升 A 候选（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "5–50 人"
  },
  "business_lines": [
   "服务器/工作站/GPU/HPC 分销（Gigabyte、NVIDIA、E-View）",

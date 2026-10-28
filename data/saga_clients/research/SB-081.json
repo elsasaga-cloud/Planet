@@ -59,7 +59,8 @@
    "title": "（表内联系人）",
    "email": "zohaib@dabos.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "询盘联系人（职务未核；DABOS, Inc. 科研 / 实验室用品采购供应商）= 收件人（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": "B",
@@ -71,11 +72,12 @@
   "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Dabos（待核）",
+  "legal_name": "DABOS, Inc.（州登记号未取 → 部分坐实；DABS Inc 为同名他户）",
   "founded": "",
-  "hq": "USA",
+  "hq": "美国（Bethesda, MD 一带推定；门牌未取）",
   "size": "小型",
-  "other": ""
+  "other": "第 101 批：采购型供应商（替科研机构代购）→ 一页纸 small（STC-028GP / STC-228GP 按单报价）；不加厚（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "小型（人数未取）（第 101 批 官方登记核实 2026-10-28）"
  },
  "channels": {
   "role": "经销 / 电商（推断）",

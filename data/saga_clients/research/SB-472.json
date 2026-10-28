@@ -47,7 +47,8 @@
    "title": "Technical Lead",
    "email": "mats.hansen@bma-networks.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Head of Information Security（BMAnetworks GmbH；**非采购 / 非网络选型人**）= 抄送，收件改 info@ 点名 Einkauf / Netzwerk-Projektleitung（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -58,8 +59,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 bma-networks.com，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Preetzer Chaussee 55, 24222 Schwentinental（分部 Albert-Einstein-Ring 5, 22761 Hamburg）",
+  "other": "官网 bma-networks.com，语言 de，快照状态 ok；角色判定来源：官网文案；第 101 批：企业级 IT 系统集成（网络 / 安全 / ADC）→ **集成商 25% 低概率**（STC-4424GCPM / STC-424XGGPM-280W / STC-110XGE）；一页纸即止；第二次触达一次后不动（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "BMAnetworks GmbH（Amtsgericht Kiel HRB 4103；LEI 529900FOV9RXV8MQPE96；原名 Dierck Sicherheitstechnik GmbH；DIERCK GROUP 成员；GF Alisa Ehrk / Wolfgang Ehrk）",
+  "founded": "2007-10-09（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "18 人（2024 账；总资产 €4.5M；集团 260 人）"
  },
  "business_lines": [
   "企业 IT / 网络 / OT 安全系统集成"

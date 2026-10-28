@@ -29,14 +29,21 @@
    "title": "Sales Executive",
    "email": "tony@eclipsecctv.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Sales Executive（Eclipse CCTV Inc.）= 收件人（第 101 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Manuel Alvarez",
    "title": "Support Engineer",
    "email": "sales@eclipsecctv.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP sales@（职务未核）= 抄送（第 101 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Moises Faroy",
+   "role": "President（FL Sunbiz P20000058672；D&B / Buzzfile）= 拍板人（点名 / 抄送）（第 101 批 官方登记核实 2026-10-28）",
+   "email": ""
   }
  ],
  "grade_override": null,
@@ -47,8 +54,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 eclipsecctv.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "3900 N 29th Ave, Hollywood, FL 33020",
+  "other": "官网 eclipsecctv.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 101 批：自有品牌 Eclipse 安防整线（含 PoE 交换机）+ 总裁可点名 → **贴标 OEM 30% 目标**（Eclipse 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM）；B BIG；加厚；升 A 候选（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "Eclipse CCTV Inc.（DBA Eclipse Security；Florida Profit Corporation；Sunbiz P20000058672，前身 P03000006534 2003 注销）",
+  "founded": "1998（自述；现实体 2020 重新登记）（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "10–19 人；$1–5M"
  },
  "business_lines": [
   "CCTV 品牌 / 分销（美国）"

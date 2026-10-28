@@ -42,11 +42,12 @@
  ],
  "kp": [
   {
-   "name": "Ercan Ozturk",
+   "name": "Ercan Öztürk",
    "title": "General Manager-Owner",
    "email": "ercan.ozturk@intenet.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "General Manager（İntenet İletişim Teknolojileri Ltd. Şti.；LinkedIn）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -57,8 +58,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 intenet.com.tr，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Oruç Reis Mah. Giyimkent Sitesi, Giyimkent 2. Sokak No 56, 34237 Esenler / İstanbul",
+  "other": "官网 intenet.com.tr，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 101 批：电信 / 网络系统集成商 + GM 本人收件 → **集成商 25%**（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W / STC-110XGE）；加厚一次（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "İntenet İletişim Teknolojileri Ltd. Şti.（İstanbul；MERSİS 号未取）",
+  "founded": "1993（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "变电站自动化 / SCADA / 通信系统集成",

@@ -34,7 +34,8 @@
    "title": "（表内联系人）",
    "email": "basak.hatem@beastteknoloji.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Genel Müdür / Kurucu Ortak（总经理 / 创始合伙人；BEAST GÜVENLİK TEKNOLOJİLERİ A.Ş.）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -45,8 +46,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 beastteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Merdivenköy Mah. Günaydın Sok. No 4, Göztepe / Kadıköy, İstanbul",
+  "other": "官网 beastteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 101 批：安防技术外贸型 A.Ş. + GM / 创始合伙人本人收件 → **分销 20%（可谈贴标 OEM 30%）**（STC-028GP / STC-228GP / STC-2224GP）；加厚一次；升 A 候选（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "BEAST GÜVENLİK TEKNOLOJİLERİ A.Ş.（BİGİS 名录 BEAST GÜVENLİK TEKNOLOJİ SAN. DIŞ TİCARET A.Ş.；会员号 34SND561-34077；MERSİS 号未取）",
+  "founded": "2021（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "4–10 人"
  },
  "business_lines": [
   "安防产品分销（Tiandy / Dahua / Hikvision / Ajax）"

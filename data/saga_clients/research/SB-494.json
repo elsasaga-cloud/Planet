@@ -48,8 +48,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 teleone.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Mithatpaşa Cad. Zafer Apt. No 146 Kat 1 D 2-3, Konak / İzmir（Ankara 区域办）",
+  "other": "官网 teleone.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 101 批：电子安防整体方案 + 品牌分销 → **分销 20% 首选 TR**（STC-228GP / STC-2224GP / STC-4424GCPM / STI-144GP）；加厚一次；收件人 info@ 点名 satın alma（第 101 批 官方登记核实 2026-10-28）",
+  "legal_name": "Teleone Bilgi ve İletişim Hizmetleri（İzmir；法律形式 / MERSİS 号未取 → 部分坐实；TELEON 为同名他户）",
+  "founded": "1999（第 101 批 官方登记核实 2026-10-28）",
+  "staff": "小型（<$5M）"
  },
  "business_lines": [
   "视频监控方案（土耳其）"
