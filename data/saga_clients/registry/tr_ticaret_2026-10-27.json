@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 97
+  "count": 107
  },
  "rows": {
   "SA-086": {
@@ -3178,6 +3178,317 @@
    ],
    "notes": "分销 20%（BDCOM 同类经销；价格敏感）；加厚一次；部分坐实。",
    "code": "SB-642"
+  },
+  "SB-643": {
+   "batch": 104,
+   "name": "Arby Bilgisayar San. Tic. Ltd. Şti.（arbybilgisayar.com.tr；伊斯坦布尔 Maltepe）— 2004 年成立的企业 IT 维护合约 / IT 咨询公司（7/24 支持、云、网络安全 DDoS / Pentest、IP 摄像机系统）；11–50 人；研究档无 KP；表内 1 次跟进无回复",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网 Hakkımızda（2004 yılında kurulmuş olan Arby Bilgisayar San. Tic. Ltd. Şti.；İdealtepe Mah. Denizciler Sk. Blumaq Plaza No:14 Kat:2 Daire:3 İdealtepe-Maltepe / İstanbul；+90 216 519 71 99；bilgi@）+ LinkedIn（BT Hizmetleri；11–50；Maltepe；2004；Özel Şirket）+ firmadan / kurumsal.web.tr（同法定名同址，34841）+ 官网 kamera 页（IP 摄像机与智能安防方案）；MERSİS 未取",
+   "url": "https://www.arbybilgisayar.com.tr/",
+   "number": "Ltd. Şti.（İstanbul 商事登记；MERSİS 未取）",
+   "status": "Active（站点在线）",
+   "incorporated": "2004",
+   "company_type": "Limited Şirket（私有）",
+   "sic": [
+    "企业 IT 维护合约 / IT 咨询 / 云 / 网络安全 + IP 摄像机系统安装（MSP 型）"
+   ],
+   "address": "İdealtepe Mah. Denizciler Sk. Blumaq Plaza No:14 Kat:2 D:3, 34841 Maltepe / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "无具名（bilgi@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**MSP 型 IT 服务商（项目附带交换机）→ 集成商 25% small，一页纸即止**：STC-028GP / STC-228GP / STC-2224GP（摄像机 / 办公网项目 PoE）；不加厚；1 次无回复 → 二次触达一次后 `不动`",
+    "收件人 bilgi@ 点名 satın alma / teknik müdür；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "集成商 25% small；一页纸后不动。",
+   "code": "SB-643"
+  },
+  "SB-645": {
+   "batch": 104,
+   "name": "ART Haberleşme ve Güvenlik Sistemleri（arthaberlesme.com；伊斯坦布尔 Tuzla）— Karel 授权经销与服务（Kartal 区）：IP 交换机 IPG500/1000、云 PBX、MPLS VPN、Metro Ethernet、对讲、安防（Dahua）、二手设备；法定形式未见 → 部分坐实；研究档无 KP；表内 1 次跟进无回复",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网首页 / Hakkımızda（ART Haberleşme ve Güvenlik Sistemleri；Karel Yetkili Satıcı ve Servisi；İçmeler Mah. Aydınlı Yolu Cad. Erdoğan Sk. No:14/K2 Tuzla İstanbul；(0216) 593 4242 - 371 4141；05336224142）+ 产品页（MPLS VPN、Metro Ethernet、İnterkom、Telefon Santralları）；同名 Arter Haberleşme（Kartal）= 他家，不采；法定名 / MERSİS 未取",
+   "url": "https://www.arthaberlesme.com/hakkimizda/",
+   "number": "未取（商号 ART Haberleşme ve Güvenlik Sistemleri；法定形式 / MERSİS 未取 → 部分坐实）",
+   "status": "Active（站点在线）",
+   "incorporated": "未取",
+   "company_type": "未取（疑个体 / Ltd.）",
+   "sic": [
+    "Karel 授权经销与服务（PBX / IP 交换机 / 云 PBX / 运营商线路代理）+ 安防与对讲安装"
+   ],
+   "address": "İçmeler Mah. Aydınlı Yolu Cad. Erdoğan Sk. No:14/K2, Tuzla / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（推定 <10 人）",
+   "officers": [
+    "无具名（info@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Karel 经销小店（PBX 为主，交换机附带）→ 集成商 25% small，一页纸即止**：STC-028GP / STC-228GP（IP 话机配套 PoE）；不加厚；无回复 → `不动`",
+    "收件人 info@ 点名 sahibi；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "集成商 25% small；一页纸后不动；部分坐实。",
+   "code": "SB-645"
+  },
+  "SB-648": {
+   "batch": 104,
+   "name": "A Telekomünikasyon（atelekom.com.tr；伊斯坦布尔 Şişli Perpa）— 2002 年起的弱电产品分销商（Siemens / Panasonic / Karel 电话交换机与话机分销；**Hikvision 对讲系统土耳其分销商**；Hikvision 安防 / PoE 交换机在售）；法定名 / MERSİS 未取 → 部分坐实；研究档无 KP；表内 1 次跟进无回复",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网首页（A Telekomünikasyon 2002 年成立；Siemens / Karel / Hikvision；「Hikvision İnterkom Sistemleri Türkiye Distribütörü」）+ 产品页（2002 年起全国分销弱电产品）+ Karel 品牌页（0 212 222 88 44；Halil Rıfat Paşa Mah. Yüzer Havuz Sok. Perpa Ticaret Merkezi A Blok Kat:8 No:827-829）；法定名未见",
+   "url": "https://atelekom.com.tr/",
+   "number": "未取（商号 A Telekomünikasyon；法定形式 / MERSİS 未取 → 部分坐实）",
+   "status": "Active（2026-09 站点更新）",
+   "incorporated": "2002",
+   "company_type": "未取（疑 Ltd.）",
+   "sic": [
+    "弱电产品分销（PBX / 话机 Siemens·Panasonic·Karel；Hikvision 对讲土耳其分销；Hikvision 安防与 PoE 交换机）"
+   ],
+   "address": "Halil Rıfat Paşa Mah. Yüzer Havuz Sok. Perpa Ticaret Merkezi A Blok Kat:8 No:827-829, Şişli / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（推定 10–30 人）",
+   "officers": [
+    "无具名（info@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Hikvision 对讲分销商（PoE 交换机现卖 Hikvision 自家）→ 分销 20%，可做对讲配套 PoE 第二线**：STC-028GP / STC-228GP / STC-2216GP（对讲 / 话机 PoE，对标 Hikvision DS-3E 价）；一页纸；不加厚",
+    "收件人 info@ 点名 satın alma；1 次无回复 → 二次触达换切口「a PoE line beside your intercom range」；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "分销 20%；一页纸；部分坐实。",
+   "code": "SB-648"
+  },
+  "SB-656": {
+   "batch": 104,
+   "name": "Dijital Bina（dijitalbina.com；土耳其）— 楼宇自动化集成商（Schneider Electric EcoXpert 伙伴；Jade Bird / Esmi 火灾系统；CCTV）；**1 次检索仅命中官网页面，法定名 / 地址 / 登记均未取 → 未坐实**；表内 1 次跟进无回复",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：仅命中 dijitalbina.com Hakkımızda / EcoXpert 页（「Dijital Bina EcoXpert by Schneider iş birliği」）；其余结果为 Schneider 官方与他家 EcoXpert（Emo Otomasyon、İntegra）；法定名、地址、MERSİS 均未命中 → 未坐实（规则：1 次未命中即停）",
+   "url": "https://dijitalbina.com/hakkimizda/",
+   "number": "未取（未坐实）",
+   "status": "未取（站点 2025-09 更新）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "楼宇自动化 / BMS 集成（Schneider EcoXpert）+ 火灾 + CCTV"
+   ],
+   "address": "未取（研究档：土耳其）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取（推定小型）",
+   "officers": [
+    "无具名"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**BMS 集成商（交换机为项目附带）→ 集成商 25% small，一页纸即止**：STC-228GP / STC-2224GP（BMS / CCTV 项目 PoE）；未坐实，不补查；无回复 → `不动`",
+    "收件人 info@；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "集成商 25% small；未坐实；一页纸后不动。",
+   "code": "SB-656"
+  },
+  "SB-658": {
+   "batch": 104,
+   "name": "Ekingen Elektronik Paz. İth. İhr. San. ve Tic. Ltd. Şti.（ekingen.com.tr / genbayi.com；伊斯坦布尔 Bağcılar）— 1985 年成立的安防 / 电子批发进出口商（**Uniview 官方分销 + Wi-Tek 土耳其分销商**；Ajax、Ezviz、GST、Edwards；自有 / 自营品牌 GENBAYİ B2B 平台、DIGILINE、WESTA、DECON、LEXENCE、FUJITRON 等）；51–200 人（≈43），$5.8M；研究档无 KP；表内 1 次跟进无回复",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：DistributorIndex（Ekingen Elektronik Paz. İth. İhr. San. ve Tic. Ltd. Şti.；Uniview 名录；Mahmutbey Mahallesi 2650 Sokak No:15/11 Bağcılar；+90 850 811 34 36）+ 官网 Contact / Brands（Head Office Mahmutbey 2650 St. No:15/11 Bağcılar；品牌 GENBAYİ / DIGILINE / WESTA / DECON / LEXENCE / FUJITRON / AV-JEFE / TOPP PRO / AJAX / UNV / WI-TEK / EZVIZ / CODE / GST / ALARMLINE II / EDWARDS）+ witekturkiye.com（Wi-tek Türkiye Distribütörü Ekingen Elektronik）+ LinkedIn（Toptan İthalat İhracat；51–200；Bağcılar；1985；多门店）+ RocketReach（$5.8M；43 人；1985）",
+   "url": "https://www.distributorindex.com/distributors/ekingen-elektronik-paz-ith-ihr-san-ve-tic-ltd-sti/",
+   "number": "Ltd. Şti.（İstanbul 商事登记；MERSİS 未取）",
+   "status": "Active（2026-05 站点更新）",
+   "incorporated": "1985",
+   "company_type": "Limited Şirket（私有）",
+   "sic": [
+    "安防 / 电子产品批发进出口（CCTV Uniview·Ezviz、报警 Ajax、火灾 GST·Edwards、音频、网络 Wi-Tek；B2B 平台 GENBAYİ；多门店）+ 自营品牌线"
+   ],
+   "address": "Mahmutbey Mah. 2650 Sok. No:15/11, Bağcılar / İstanbul（另 Avcılar / Güngören / Bahçelievler 门店）",
+   "accounts": "第三方 $5.8M（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "中型（43–200 人）",
+   "officers": [
+    "无具名（研究档无 KP；info@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Wi-Tek（中国 PoE 交换机）土耳其分销 + 自营品牌多条 → 懂中国直采、有贴标习惯 → 分销 20% + 可谈贴标（DIGILINE / WESTA 标），B BIG**：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（对标 Wi-Tek 价位，Marvell L2+ 差异）；一页纸 + 价格对照 + 贴标条款，加厚一次",
+    "收件人 info@ 点名 satın alma müdürü / ürün müdürü；1 次无回复 → 二次触达换切口；发信窗口 Thu 10–12 TRT；升 A 次候选"
+   ],
+   "notes": "分销 20% / 可谈贴标；B BIG；加厚一次；升 A 次候选。",
+   "code": "SB-658"
+  },
+  "SB-659": {
+   "batch": 104,
+   "name": "ENTPA Elektronik Cihazlar Ticaret Pazarlama ve Turizm A.Ş.（entpa.com.tr / entcam.com.tr；伊斯坦布尔 Ümraniye Y. Dudullu OSB）— 2003 年由 ENTES Elektronik（1980 年起的土耳其电子制造商，出口 50 国）股东创立的安防分销商（**Hanwha Vision 官方分销**、Honeywell CCTV / 火灾、Sunell；**自有品牌 Entcam CCTV**；门锁、门禁、可视对讲、智能家居）；11–50 人；研究档 KP etekyildiz@；表内 1 次跟进无回复",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网 Hakkımızda / Sitemap（ENTPA Elektronik Cihazlar Tic. ve Turizm A.Ş.；Y.Dudullu OSB 1.Cadde No:23 34775 Ümraniye；+90 216 314 36 44；info@ / satis@；「ENTPA bir ENTES kuruluşudur」）+ index_en（2003 年由 ENTES 股东创立；ENTES 1980 起，出口近 50 国）+ hanwhavision.eu 分销名录（ENTPA ELEKTRONİK CİHAZLAR TİCARET PAZARLAMA VE TURİZM AŞ；Dudullu OSB 1. Cad. No:23）+ EMIS（法定名；34771）+ LinkedIn（11–50；Ümraniye）+ entcam.com.tr（自有品牌 Entcam）",
+   "url": "https://entpa.com.tr/hakkimizda_tr.asp",
+   "number": "A.Ş.（İstanbul 商事登记；MERSİS 未取）；母体 ENTES 集团",
+   "status": "Active（Hanwha 名录 2025）",
+   "incorporated": "2003",
+   "company_type": "Anonim Şirket（ENTES 股东持有）",
+   "sic": [
+    "安防产品分销（Hanwha Vision 官方分销、Honeywell、Sunell）+ 自有品牌 Entcam CCTV + 门锁 / 门禁 / 对讲 / 智能家居"
+   ],
+   "address": "Yukarı Dudullu OSB 1. Cadde No:23, 34775 Ümraniye / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人；集团背景）",
+   "officers": [
+    "E. Tekyıldız — 研究档 KP（etekyildiz@；职务未核）"
+   ],
+   "psc": "ENTES Elektronik 股东",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 Entcam + ENTES 制造集团背景 + Hanwha 分销 → 贴标 OEM 30% 可谈（Entcam 标 PoE）+ 分销 20%，B BIG**：Entcam 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（Hanwha 摄像机配套 PoE）；一页纸 + 贴标条款，加厚一次",
+    "收件人 etekyildiz@ 点名 + 抄 satis@；1 次无回复 → 二次触达换切口「a PoE switch line under the Entcam label」；发信窗口 Thu 10–12 TRT；升 A 候选（回信即 A）"
+   ],
+   "notes": "贴标 OEM 30% 可谈（Entcam）/ 分销 20%；B BIG；加厚一次；升 A 候选。",
+   "code": "SB-659"
+  },
+  "SB-666": {
+   "batch": 104,
+   "name": "MaviAlarm Kamera ve Güvenlik Teknolojileri Tic. Ltd. Şti.（mavialarm.com.tr；伊斯坦布尔 Kartal）— 2010 年成立的电子安防安装商 / 经销商（报警、CCTV Hikvision / Dahua / Uniview / Axis、火灾、门禁；运营 hikvisiontr.net / dahua-tr.com 经销站）；11–50 人；负责人 Aziz Vasıf Durmaz；研究档无 KP；表内 1 次跟进无回复",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：LinkedIn（Mavi Alarm Kamera ve Güvenlik Teknolojileri Tic. Ltd. Şti.；11–50；Kartal；2010；Yakacık Çarşı Mah. Mülayim Sok. No:55 34876）+ 官网 İletişim（0216 488 0 888；同址）+ makinaturkiye（Yetkili Aziz Vasıf Durmaz；Limited Şirketi；2010；11–50）+ adresrehberin（2010 起；创始团队 25 年经验；成立以来增长 15 倍）+ hikvisiontr.net / dahua-tr.com 隐私页（运营主体 MaviAlarm Ltd. Şti.）+ D&B（法定名）",
+   "url": "https://tr.linkedin.com/company/mavialarm",
+   "number": "Ltd. Şti.（İstanbul 商事登记；MERSİS 未取）",
+   "status": "Active（LinkedIn 近期更新）",
+   "incorporated": "2010",
+   "company_type": "Limited Şirket（私有）",
+   "sic": [
+    "电子安防安装与经销（报警、CCTV、火灾探测、门禁；多品牌经销站 hikvisiontr.net / dahua-tr.com）"
+   ],
+   "address": "Yakacık Çarşı Mah. Mülayim Sok. No:55, 34876 Kartal / İstanbul（另 Pendik 旧址）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Aziz Vasıf Durmaz — Yetkili / Genel Müdür（推定）= 收件人",
+    "Figen Yetiş — 员工（2022 起）"
+   ],
+   "psc": "Aziz Vasıf Durmaz（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安装商 + 多品牌经销站 → 集成商 25% / 采购型 small**：STC-028GP / STC-228GP / STC-2216GP（Hikvision / Dahua 摄像机配套 PoE）；一页纸；不加厚",
+    "收件人 info@ 点名 Aziz Vasıf Durmaz；1 次无回复 → 二次触达一次；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "集成商 25% small；一页纸。",
+   "code": "SB-666"
+  },
+  "SB-681": {
+   "batch": 104,
+   "name": "SER Rack Kabin Teknoloji ve Bilişim Sistemleri San. Tic. Ltd. Şti.（serrackkabin.com.tr；伊斯坦布尔 Sancaktepe + Perpa 销售处）— 2013 年成立的 19\" 机柜 / 数据中心机柜 / 电信户外柜制造销售商（「Yerli ve Milli Üretim」；LANDE 家族成员；站内铜缆 / 光纤网络产品与「Aktif Cihazlar / Switchler」有源分类）；1–10 人；研究档无 KP；表内 1 次跟进无回复",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：firmasec（SER RACK KABİN TEKNOLOJİ VE BİLİŞİM SİSTEMLERİ SAN.TİC.LTD.ŞTİ；Emek, Arzu Sok. No:46 D:3 34785 Dudullu OSB Sancaktepe；「LANDE ailesinin bir üyesidir」；2013 年入行 19\" 机柜）+ 官网 Biz Kimiz / İletişim（SER 2013 年成立；Emek Mah. Ordu Cad. Arzu Sok. No:46 Sancaktepe；+90 216 572 68 60；satis@；Perpa Ticaret Merkezi A Blok 11. Kat No:1469 Şişli 销售处）+ ZoomInfo（1–10 人；机柜、铜缆 / 光纤网络产品、PDU）",
+   "url": "https://www.serrackkabin.com.tr/Ser-Rack-Kabinet/Biz-Kimiz---Misyon---Vizyon",
+   "number": "Ltd. Şti.（İstanbul 商事登记；MERSİS 未取）；LANDE 关联",
+   "status": "Active（站点在线）",
+   "incorporated": "2013",
+   "company_type": "Limited Şirket（私有；LANDE 家族）",
+   "sic": [
+    "19\" 机柜 / 服务器与数据中心机柜 / 电信户外柜制造销售 + 铜缆 / 光纤网络产品 + 有源设备（交换机）转售"
+   ],
+   "address": "Emek Mah. Ordu Cad. Arzu Sok. No:46, 34785 Sancaktepe / İstanbul；销售处 Perpa Ticaret Merkezi A Blok Kat 11 No:1469, Şişli",
+   "accounts": "第三方 $7.2M（存疑，不采）",
+   "accounts_due": "—",
+   "size_band": "小微（1–10 人；集团背景）",
+   "officers": [
+    "无具名（satis@ / perpa@）"
+   ],
+   "psc": "LANDE 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**机柜制造商把交换机当配套卖 → 分销 20% small，可谈 SER 标捆绑**：STC-028GP / STC-228GP / STC-2224GP（机柜 + PoE 套餐）；一页纸 + 贴标条款；不加厚",
+    "收件人 satis@ 点名 satış müdürü；1 次无回复 → 二次触达换切口「a PoE switch to bundle with your cabinets」；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "分销 20% small / 可谈贴标；一页纸。",
+   "code": "SB-681"
+  },
+  "SB-690": {
+   "batch": 104,
+   "name": "Troyy Bilişim Geçiş Kontrol Sistemleri Elektronik Güvenlik San. ve Tic. Ltd. Şti.（Troyy Kontrol；troyykontrol.com；**安卡拉 İvedik OSB — 非伊斯坦布尔**）— 2016 年初成立的门禁 / 考勤（PDKS）系统开发商与集成商（自研 Smek PDKS / Access Nova 面板、闸机、停车道闸、手持探测器；n11 店 Msec）；**MERSİS 0859063031500011 · Vergi No 8590630315**；研究档无 KP；表内 1 次跟进无回复",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：n11 店铺信息（Şirket Ünvanı Troyy Bilişim Geçiş Kontrol Sistemleri Elektronik Güv. San. ve Tic. Ltd.；Tescilli Marka Troyy Kontrol；KEP info@troyykontrol.com；Vergi No 8590630315；Mersis No 0859063031500011）+ 官网 Hakkında（2016 年初于安卡拉 OSTİM 成立；İvedik OSB 1354. Cad. Fora İşmerkezi A Blok 1. Kat No:138/100 Yenimahalle / Ankara；+90 312 395 18 02）+ yenifirma.com.tr（法定名全称 + 地址）+ guvenlikonline（Access Nova 首个国产 Web 门禁面板；Smek Web）",
+   "url": "https://www.n11.com/magaza/msec",
+   "number": "MERSİS 0859063031500011 · Vergi No 8590630315（Ankara 商事登记）",
+   "status": "Active（站点在线；n11 店在营）",
+   "incorporated": "2016",
+   "company_type": "Limited Şirket（私有）",
+   "sic": [
+    "门禁 / 考勤（PDKS）系统软硬件开发与集成（闸机、道闸、人脸 / 指纹终端、访客系统、手持探测器）"
+   ],
+   "address": "İvedik OSB Mah. 1354. Cad. Fora İş Merkezi A Blok Kat 1 No:138/100, Yenimahalle / Ankara",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（推定 10–30 人）",
+   "officers": [
+    "无具名（info@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自研门禁 / PDKS 厂商（读头 / 闸机需 PoE）→ 集成商 25% small，可谈 Troyy 标小批量**：STC-028GP / STC-228GP / STI-054GP（门禁点位 PoE）；一页纸；不加厚",
+    "收件人 info@ 点名 teknik müdür / satın alma；1 次无回复 → 二次触达一次；发信窗口 Thu 10–12 TRT；城市 = 安卡拉"
+   ],
+   "notes": "集成商 25% small；一页纸；MERSİS 已取；城市 = 安卡拉。",
+   "code": "SB-690"
+  },
+  "SB-796": {
+   "batch": 104,
+   "name": "EDS Elektronik Destek San. ve Tic. Ltd. Şti.（品牌站 Destek Elektronik；destekelektronik.com.tr / eds.com.tr；伊斯坦布尔 Sancaktepe）— 1990-02 成立的安防电子制造 + 分销商（自产火灾 / 入侵 / 门禁 / 环境监控 / 电力电子，5,000 m² 工厂；**Hanwha Vision / FLIR / Aritech·UTC / Kilsen / Texecom / CQR / Paxton / Phihong 等独家分销**；出口 35+ 国）；≈60 人；研究档无 KP；表内 1 次跟进无回复",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：destekelektronik.com.tr 首页（Destek Elektronik；Hanwha Vision、Aritech、Kilsen、CQR、Texecom、Klaxon、Elmdene、Paxton、Phihong、FLIR、IPX、Unitech 等品牌土耳其代表 / 分销；IP 系统类目）+ hanwhavision.eu 分销名录（EDS Elektronik Destek Sanayi ve Ticaret Ltd. Şti.；Meclis Mah. Teraziler Cad. Hayran Sok. No:4 34785 Sancaktepe；eds@eds.com.tr）+ SourceSecurity（1990-02 成立；+90 216 528 4500；产品线火灾 / 入侵 / 门禁 / 自动化 / 环境监控 / 电力电子）+ Lusha（100% 本土；出口 35+ 国；≈60 人；5,000 m² 工厂；独家分销名单与 Destek 站品牌完全一致 → 推定同一主体）",
+   "url": "https://hanwhavision.eu/distributors/eds-elektronik-destek-sanayi-ve-ticaret-ltd-sti/",
+   "number": "Ltd. Şti.（İstanbul 商事登记；MERSİS 未取）；Destek Elektronik = EDS 分销品牌（品牌名单完全一致，推定）",
+   "status": "Active（Hanwha 名录 2025）",
+   "incorporated": "1990-02",
+   "company_type": "Limited Şirket（私有；100% 本土）",
+   "sic": [
+    "安防电子制造（火灾、入侵、门禁、环境监控、电力电子）+ 世界品牌土耳其独家分销（Hanwha Vision、FLIR、Aritech、Texecom、Paxton、Phihong PoE 电源等）"
+   ],
+   "address": "Meclis Mah. Teraziler Cad. Hayran Sok. No:4, 34785 Sancaktepe / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（≈60 人）",
+   "officers": [
+    "无具名（研究档无 KP；eds@ / pazarlama@eds.com.tr）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**制造 + 独家分销双身份、出口 35 国、PoE 类目在售（Phihong 注入器）→ 分销 20%，B BIG，可谈 EDS 标**：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM（Hanwha 摄像机配套 PoE 全档）；一页纸 + 产品线卡，加厚一次",
+    "收件人 pazarlama@eds.com.tr 点名 ürün müdürü；1 次无回复 → 二次触达换切口；发信窗口 Thu 10–12 TRT；升 A 次候选"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次；升 A 次候选；品牌站 = EDS（推定）。",
+   "code": "SB-796"
   }
  }
 }
