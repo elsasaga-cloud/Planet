@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,9 +86,25 @@ updated: 2026-10-27
 - `sklep-ecsystem.pl` → 同域名 MX → 托管在 unixstorm.eu（MX：mail.sklep-ecsystem.pl）。主机商附带邮箱（同域名 MX → 托管在 unixstorm.eu）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `ecsystem.pl` → Microsoft 365（MX：ecsystem-pl.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 92 批（PL · 1 次检索：rejestr.io（KRS 0000181283；NIP 6792784999；REGON 356766841；Prezes Mirosław Gabzdyl；股本 50 tys. zł）+ sklep-ecsystem.pl 规章（克拉克夫 Śródmieście 法院 XI 处；三家网店 sklep-ecsystem.pl / knivesfamilia.pl / gards.pl 同一主体）+ ecsystem.pl（集成商：CCTV / 门禁 / 报警 / 可视对讲；站点 dsdi.pl、audyt-ecsystem.pl；电商英文客服 Daniel Ochman；秘书 Joanna Mrozowska）+ alarmy.org（esklep@ / handel@ / biuro@），2026-10-28 查；https://rejestr.io/krs/181283/eltcrac-system）：**
+
+- 法定名 / 登记号：Eltcrac System Sp. z o.o.（EC System；ecsystem.pl / sklep-ecsystem.pl；Kraków） · KRS 0000181283 · NIP 6792784999 · REGON 356766841 · 状态 **Aktywna** · 成立 ≈2003（KRS 18 万段；REGON 3567 段） · Spółka z o.o.（股本 50,000 zł）
+- 行业码 / 经营范围：安防系统集成（CCTV / 门禁 / 报警 / 对讲）+ 安防电商 sklep-ecsystem.pl（Hasivo 商业 PoE 在售）+ 刀具 / 园艺网店（knivesfamilia / gards）
+- 注册地址：ul. Ruciana 3, 30-803 Kraków（+48 12 292 48 61）
+- 规模档：小型（估 10–25 人）
+- 账目：未取；7 月复盘
+- 高管：Mirosław Gabzdyl — Prezes Zarządu = 老板
+- 高管：Daniel Ochman — 电商 / 英文客服（研究档 KP esklep@ 对应人）
+- 高管：Joanna Mrozowska — 秘书处
+- 控制人 / 股东：Mirosław Gabzdyl（推定）
+- **这意味着什么：**
+  - **克拉克夫安防集成商 + 自营网店（卖 Hasivo 等深圳 PoE）** → 不是品牌商，是渠道 → **分销 20%**：STC-028GP / STC-228GP / STC-2224GP 对标 Hasivo 同口数报价，MOQ 1 箱
+  - 研究档 KP 是网店信箱（esklep@）→ 换写 handel@（批发口）抬头 Daniel Ochman（会英文）抄 Prezes Gabzdyl；19 封无回 → 第二封只给价格对照
+  - 同主体兼营刀具 / 园艺网店 = 电商为主、安防集成为辅 → 量小、价格敏感；100% 预付
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -126,16 +142,19 @@ updated: 2026-10-27
 - **【用户表】hasivo 的商业级；商业 PoE Hasivo 的**
   > 兴趣：hasivo的商业级;商业PoE Hasivo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（网店）（）esklep@ecsystem.pl +48 792 580 660〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Daniel Ochman（电商 / 英文客服（ecsystem.pl 联系页「Customer service in English」）= 网店口 —— **改写 handel@ecsystem.pl（批发口）抬头 Daniel，抄 Prezes Mirosław Gabzdyl**；公司 = 克拉克夫安防集成商 + 自营网店（卖 Hasivo 等深圳 PoE）= 渠道不是品牌商 → **分销 20%**：STC-028GP / STC-228GP / STC-2224GP 对标 Hasivo 同口数，MOQ 1 箱，100% 预付（第 92 批 官方登记核实 2026-10-28））esklep@ecsystem.pl +48 792 580 660〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Mirosław Gabzdyl（Prezes Zarządu（rejestr.io；KRS 0000181283）= 老板，抄送（第 92 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/181283/eltcrac-system〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Eltcrac System（待核） |
-| 总部/地址 | Poland |
-| 其他 | 已售 Hasivo（中国同行） |
+| 法定名称 | Eltcrac System Sp. z o.o.（EC System；KRS 0000181283 · NIP 6792784999 · REGON 356766841） |
+| 成立 | ≈2003（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Ruciana 3, 30-803 Kraków（+48 12 292 48 61）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 小型（估 10–25 人）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 已售 Hasivo（中国同行）；信箱：handel@ / biuro@ / inwestycje@ / esklep@；复盘 2027-07（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防网店（B2B）
 - **触达通道（公开）**：role: 网店 / 分销（已售中国同行）；region: 波兰
@@ -221,7 +240,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | esklep@ecsystem.pl | 用户表原值 | Clients/ 表 |
+| Daniel Ochman | 电商 / 英文客服（ecsystem.pl 联系页「Customer service in English」）= 网店口 —— **改写 handel@ecsystem.pl（批发口）抬头 Daniel，抄 Prezes Mirosław Gabzdyl**；公司 = 克拉克夫安防集成商 + 自营网店（卖 Hasivo 等深圳 PoE）= 渠道不是品牌商 → **分销 20%**：STC-028GP / STC-228GP / STC-2224GP 对标 Hasivo 同口数，MOQ 1 箱，100% 预付（第 92 批 官方登记核实 2026-10-28） | esklep@ecsystem.pl / +48 792 580 660 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mirosław Gabzdyl | Prezes Zarządu（rejestr.io；KRS 0000181283）= 老板，抄送（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejestr.io/krs/181283/eltcrac-system |
 
 - **通道建议**：企业邮箱可直发
 
@@ -290,7 +310,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Daniel,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. Beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?
 
@@ -315,12 +335,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

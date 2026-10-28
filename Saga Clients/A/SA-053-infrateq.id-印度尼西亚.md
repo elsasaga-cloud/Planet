@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,7 +91,7 @@ updated: 2026-10-27
 - `infrateq.id` → 同域名 MX → 托管在 upcloud.host（MX：mail.infrateq.id）。主机商附带邮箱（同域名 MX → 托管在 upcloud.host）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `divatel.co.id` → Google Workspace（MX：aspmx.l.google.com、aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 窗口内无该国法定假日
 
@@ -335,12 +335,12 @@ Pak Ismed, Simon from Saga Telecom. Next to the HR600-AFG-822S on infrateq.com, 
 
 ## 下次复核
 
-- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-11**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

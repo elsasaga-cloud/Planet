@@ -23,7 +23,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Wadii Kherfani",
+   "role": "Director（2020-02-12 起；1978 生；Companies House 12459641）= **老板 = 采购 = 联系人**（配偶 Anna Kherfani 2021-05 起亦为董事）—— 夫妻店自有品牌「BCP」结构化布线 + 机柜（自称 British manufacturer，实为 ISO 9000 工厂代工贴标）+ 关联 Teltronix Holdings Ltd（12455268）→ 产品线缺有源设备 → **OEM 30%：BCP 标 PoE 交换机 / 工业 DIN 补「end-to-end」方案**；MOQ 1 箱、T/T 50/50 或 100% 预付（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/12459641/officers"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -32,8 +40,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 britaniccablingproduction.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "注册 7 Premier Court, Boarden Close, Moulton Park Industrial Estate, Northampton NN3 6LF；营业 Unit 7 Cirrus Park, Lower Farm Road, Northampton NN3 6UR（+44 1604 434188）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 britaniccablingproduction.com，语言 ?，快照状态 http_error；角色判定来源：待核；账目至 2025-03-31 已报，下期 2026-12-31 到期；若回信来自 Teltronix 不算新客户（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "BRITANIC CABLING PRODUCTION LIMITED（Companies House 12459641；曾用名 TELTRONIX INTERNATIONAL LIMITED 2020-02 → 2021-02）",
+  "founded": "2020-02-12（官网自述 2004 起）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "微型 / 小型（估 3–15 人）；SIC 26309 / 27310 / 27320 / 46520（第 92 批 官方登记核实 2026-10-28）",
+  "size": "微型（自有品牌布线 + 机柜）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "布线 / 网络产品经销（英国）"

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,6 +75,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 92 批（DE · 1 次检索：Northdata（AG Düsseldorf HRB 60247；GF Igor Balter / Eduard Mushkatin；Stammkapital €25,000；2008-12-23 作为 Balter Security GmbH 登记、2009-01 股东名单；LEI 9845005D0A88DC60F633；词标「BALTER」）+ balter.de Impressum（USt DE263994622；WEEE DE 53076790）+ 官网「2006 起 Düsseldorf」+ feinkosten.de 品牌史（由安防批发扩展到 Balter 牌厨电）+ XING（Heiko Mehner、Bauleiter Holger Müller），2026-10-28 查；https://www.northdata.com/Balter%20GmbH,%20Langenfeld%20(Rheinland)/Amtsgericht%20D%C3%BCsseldorf%20HRB%2060247）：**
+
+- 法定名 / 登记号：Balter GmbH（balter.de / redshop.de；Langenfeld (Rheinland)） · AG Düsseldorf HRB 60247（USt DE263994622；LEI 9845005D0A88DC60F633） · 状态 **Aktiv** · 成立 2006（业务）/ 2008-12-23 登记为 Balter Security GmbH · GmbH（Stammkapital €25,000）
+- 行业码 / 经营范围：安防技术批发 + 自有品牌 BALTER（网络 / HD 视频监控、视频门禁、报警、Smart Home；另有 Balter 牌厨电 + 网店 redshop.de）
+- 注册地址：Elisabeth-Selbert-Str. 19, 40764 Langenfeld (Rheinland)（+49 211 22975914）
+- 规模档：小型（估 10–30 人）
+- 账目：Bundesanzeiger 小型公司简表（未取）；DE：年报次年 12-31 前；3 月复盘
+- 高管：Igor Balter — Geschäftsführer / 创始股东（2006 起）= 老板
+- 高管：Eduard Mushkatin — Geschäftsführer / 创始股东（XING 对外联系人）= 老板 = 联系人
+- 控制人 / 股东：Igor Balter + Eduard Mushkatin（推定两人持股）
+- 曾用名：Balter Security GmbH（2008 → 更名 Balter GmbH）
+- **这意味着什么：**
+  - **两位创始人自有品牌 BALTER（视频监控 / 门禁 / 报警全系贴标，研究档记 Utepo / 洪瑞 PoE）= OEM 品牌商序列第一位，且目前 PoE 货源是深圳同类** → **OEM 30% 一对一替代**：按 balter.de 在售 PoE 型号列对照表（4/8/16 口 + 工业 DIN），贴 BALTER 标、德语包装、CE/RoHS/WEEE 他们已有号
+  - **品牌已外延到厨电（Balter 空气炸锅）** = 安防不再是唯一重心、老板精力分散 → 回信概率中等；写 Eduard Mushkatin（对外口）抄 Igor Balter，一封讲清价差即可
+  - €25k 股本小型 GmbH + 两家网店 = 单笔 $3–10k；T/T 50/50；复盘 2027-03（Bundesanzeiger 2025 年报）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,14 +134,19 @@ updated: 2026-10-27
 - **【用户表】Utepo 与 HRUI 的 PoE，自己的 logo**
   > UTEPO的 也有洪瑞的poE 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Eduard Mushkatin（Geschäftsführer / 创始股东（2006 起；AG Düsseldorf HRB 60247；XING 对外联系人）= **老板 = 联系人**（抄 Igor Balter）—— 自有品牌 BALTER（视频监控 / 门禁 / 报警全系贴标，研究档记 Utepo / 洪瑞 PoE）= OEM 品牌商序列第一位，现 PoE 货源是深圳同类 → **OEM 30% 一对一替代**（按 balter.de 在售 PoE 型号列对照：4/8/16 口 + 工业 DIN，贴 BALTER 标、德语包装）；品牌已外延到厨电 = 精力分散 → 一封讲清价差即可（第 92 批 官方登记核实 2026-10-28）） 〔https://www.balter.de/impressum〕
+- **KP**：Igor Balter（Geschäftsführer / 创始股东（公司冠名人）= 老板，抄送（第 92 批 官方登记核实 2026-10-28）） 〔https://www.northdata.com/Balter%20GmbH,%20Langenfeld%20(Rheinland)/Amtsgericht%20D%C3%BCsseldorf%20HRB%2060247〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 balter.de，语言 de-de，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Balter GmbH（原 Balter Security GmbH；AG Düsseldorf HRB 60247；USt DE263994622；LEI 9845005D0A88DC60F633） |
+| 成立 | 2006（业务）/ 2008-12-23 登记（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Elisabeth-Selbert-Str. 19, 40764 Langenfeld (Rheinland)（+49 211 22975914）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 小型（估 10–30 人）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 balter.de，语言 de-de，快照状态 ok；角色判定来源：用户表；两位 GF / 创始股东 Igor Balter + Eduard Mushkatin；单笔 $3–10k，T/T 50/50；复盘 2027-03（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频监控 / 可视门禁 / 报警（自有品牌 Balter）
 - **触达通道（公开）**：role: 德国安防自有品牌商（PoE 部分由 HRUI 供货 → Q-33 口径）；region: 德国；contact: support@balter.de
@@ -220,7 +241,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | support@balter.de | 用户表原值 | Clients/ 表 |
+| Eduard Mushkatin | Geschäftsführer / 创始股东（2006 起；AG Düsseldorf HRB 60247；XING 对外联系人）= **老板 = 联系人**（抄 Igor Balter）—— 自有品牌 BALTER（视频监控 / 门禁 / 报警全系贴标，研究档记 Utepo / 洪瑞 PoE）= OEM 品牌商序列第一位，现 PoE 货源是深圳同类 → **OEM 30% 一对一替代**（按 balter.de 在售 PoE 型号列对照：4/8/16 口 + 工业 DIN，贴 BALTER 标、德语包装）；品牌已外延到厨电 = 精力分散 → 一封讲清价差即可（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.balter.de/impressum |
+| Igor Balter | Geschäftsführer / 创始股东（公司冠名人）= 老板，抄送（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.northdata.com/Balter%20GmbH,%20Langenfeld%20(Rheinland)/Amtsgericht%20D%C3%BCsseldorf%20HRB%2060247 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -256,7 +278,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；已推送 8 次无回复，邮件通道疲劳
+- **W**：已推送 8 次无回复，邮件通道疲劳
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
@@ -273,7 +295,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ 洪瑞 |
 | 采购量/预算 | ❓ 未确认 |
@@ -289,7 +311,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Eduard,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Balter-branded PoE switches that ship with your camera and door-intercom kits, we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, CE/RoHS — would a managed step-up suit your larger installations?
 
@@ -314,12 +336,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

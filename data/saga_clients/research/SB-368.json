@@ -32,7 +32,8 @@
    "title": "Managing Director / CTO",
    "email": "j.zenner@welotec.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Geschäftsführer / CTO（2018-03 起 GF；AG Steinfurt HRB 3363）—— **守界：Welotec 2025-04 起属 Westermo（Ependion AB，全球头部工业交换机制造商）集团，Westermo 派驻 Dr. Reinhard Lülff 2025-07 起单独代表 GF → 交换机货源 = 母公司 → B「不再补查」，不再发**（第 92 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -43,11 +44,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Welotec GmbH",
-  "founded": "1998（待核）",
-  "hq": "Laer, Germany",
-  "size": "中型方案商（自有品牌）",
-  "other": "IEC 61850-3 变电站线"
+  "legal_name": "Welotec GmbH — a Westermo Company（AG Steinfurt HRB 3363；USt DE121631449；Stammkapital €67,000）",
+  "founded": "1979-05-15（业务 1969）（第 92 批 官方登记核实 2026-10-28）",
+  "hq": "Zum Hagenbach 7, 48366 Laer（+49 2554 9130-00）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "中型（集团子公司）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "IEC 61850-3 变电站线；2023 年报：总资产 €8.34M / 负债 €6.68M；前 GF Daniel Maurice 2025-07 退出；此前控股 WELOTEC Holding GmbH（HRB 9320 Steinfurt）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "≈70 人；2024 营收 ≈ €24M（经营利润率 13.4%）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "变电站计算 / 网络方案（自有品牌 + Westermo）"

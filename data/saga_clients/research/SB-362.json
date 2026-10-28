@@ -39,7 +39,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Jeramie Cavanaugh",
+   "role": "Chief Technology Officer（ZoomInfo）= 推定合伙人 / 选品人 = 联系人 —— 网店型自有型号卖家（PoE 是主类目，首页挂工业 8 口 PoE+ L2+ 管理 2SFP）→ **OEM 30%：按他现有型号一对一替代报价**（工业 8 口 PoE+2SFP 管理 = STI-288DGGPM 档），MOQ 1 箱；第二封只放「他家型号 vs 我们型号 + 价差」对照表（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.zoominfo.com/c/main-tech-connect/1275453111"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -48,8 +56,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 maintechconnect.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "美国（州未取）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 maintechconnect.com，语言 en，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Main Tech Connect（州 / 法定名未核；**同名陷阱：Maintech, Incorporated 新泽西 1973 年 500+ 人 IT 运维商非本户**）",
+  "founded": "2001（ZoomInfo）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "11–50（ZoomInfo，疑虚高；按 2–10 人电商处理）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "微型 / 小型（电脑 / 网络配件 + PoE 电商）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电脑 / 网络配件网店",

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,7 +89,7 @@ updated: 2026-10-27
 - `novacom.com.tr` → 土耳其主机商邮箱（MX：mx1.alastyr.com、mx2.alastyr.com）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `nova-grup.com` → 土耳其主机商邮箱（MX：mx1.alastyr.com、mx2.alastyr.com）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
@@ -373,12 +373,12 @@ Mr. Pekyurek, Simon from Saga Telecom - ISAF follow-up on the industrial line. T
 
 ## 下次复核
 
-- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-11**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 72）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 72）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

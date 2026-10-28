@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,10 +87,25 @@ updated: 2026-10-27
 
 - `egemenelektronik.com` → 同域名 MX → 托管在 nictr.com（MX：egemenelektronik.com）。主机商附带邮箱（同域名 MX → 托管在 nictr.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+
+**公司底数 · 第 92 批（TR · 1 次检索：EMIS 公司档（2013-07-25 注册；2025 年 10 人；地址）+ LinkedIn 公司页（2013 / 11–50；Levent Pişman Co-Owner）+ 官网 hakkımızda（2013-07 开业，团队 20 年经验）+ Crunchbase（法定名 / Active）+ RocketReach（7 人；Deryanur Bulun 销售、Kerem Albayrak 物流），2026-10-28 查；https://www.emis.com/php/company-profile/TR/Egemen_Elektronik_Guvenlik_Bilgisayar_Sistemleri_San_Ve_Tic_Ltd_Sti_en_14288247.html）：**
+
+- 法定名 / 登记号：Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti.（egemenelektronik.com / egemendepo.com；Ümraniye） · Mersis / VKN 未取 · 状态 **Aktif（EMIS 2026-03 更新）** · 成立 2013-07-25 · Limited Şirket
+- 行业码 / 经营范围：电气 / 电子安防设备批发（CCTV、报警、门禁、电脑系统；B2B 商城 egemendepo.com）
+- 注册地址：Ihlamurkuyu Mh. Malazgirt Cd. Şendal Sk. No:1 Egemen Plaza, 34771 Ümraniye / İstanbul（0216 611 61 00）
+- 规模档：微型 / 小型（7–19 人）
+- 账目：—；—
+- 高管：Levent Pişman — Co-Owner（LinkedIn，10 年以上）= 老板之一 = 联系人（研究档 KP satis@）
+- 高管：Hüseyin Akkuş — 员工（LinkedIn）
+- 高管：Belkız Çınar — 销售（研究档 KP）
+- **这意味着什么：**
+  - **研究档 KP Levent Pişman = 共同所有人 → 直接写他**（satis@ 为公用箱，抬头写 Levent Bey）；自有「Egemen Plaza」楼 = 有点家底的 10 人批发商
+  - 安防批发 + B2B 商城 egemendepo.com → **分销 20%**：8/16 口 PoE + 4 口 DIN，先上商城一两个 SKU；研究档「打开 1 次」→ 第二封换主题（价格表 PDF 一页）
+  - 2013 年公司、ZoomInfo 营收 $0.5–1M 仅作量级参考 → 单笔 ≤ $3k，100% 预付或 50/50
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -142,16 +157,17 @@ updated: 2026-10-27
   > 商业POE CCTV为主 很多配件 … 90 53260 57018 网站上的 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Belkız Çınar（Co-Owner（用户表））satis@egemenelektronik.com +90 532 605 7018（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Levent Pişman（Co-Owner（用户表））satis@egemenelektronik.com —〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Levent Pişman（Co-Owner（LinkedIn，10 年以上）= **老板之一 = 联系人**（satis@ 公用箱，抬头写 Levent Bey）—— 公司 = Ümraniye 自有楼「Egemen Plaza」的 10 人安防批发 + B2B 商城 egemendepo.com → 分销 20%：8/16 口 PoE + 4 口 DIN 先上商城；单笔 ≤ $3k，100% 预付或 50/50（第 92 批 官方登记核实 2026-10-28））satis@egemenelektronik.com —〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti.（VKN 325 056 57 50 Alemdağ） |
-| 成立 | 2013-07-25 |
-| 总部/地址 | Ihlamurkuyu Mh. Malazgirt Cd. Şendal Sk. No:1 Egemen Plaza, 34771 Ümraniye / İstanbul（+90 216 611 61 00；satis@egemenelektronik.com） |
+| 法定名称 | Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti. |
+| 成立 | 2013-07-25（EMIS）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Ihlamurkuyu Mh. Malazgirt Cd. Şendal Sk. No:1 Egemen Plaza, 34771 Ümraniye / İstanbul（0216 611 61 00）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 7–19（EMIS 2025：10 人；LinkedIn 11–50）（第 92 批 官方登记核实 2026-10-28） |
 | 其他 | Uniview 官方分销；Hikvision Platinum；Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear 分销；B2B 网店 egemendepo.com |
 
 - **业务线**：CCTV / 门禁 / 报警 / 消防报警分销（多品牌）；网络配件与交换机（品类页）
@@ -240,7 +256,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Belkız Çınar | Co-Owner（用户表） | satis@egemenelektronik.com / +90 532 605 7018（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Levent Pişman | Co-Owner（用户表） | satis@egemenelektronik.com / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Levent Pişman | Co-Owner（LinkedIn，10 年以上）= **老板之一 = 联系人**（satis@ 公用箱，抬头写 Levent Bey）—— 公司 = Ümraniye 自有楼「Egemen Plaza」的 10 人安防批发 + B2B 商城 egemendepo.com → 分销 20%：8/16 口 PoE + 4 口 DIN 先上商城；单笔 ≤ $3k，100% 预付或 50/50（第 92 批 官方登记核实 2026-10-28） | satis@egemenelektronik.com / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Belkiz Cinar | — | satis@egemenelektronik.com / +905326057018 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -338,12 +354,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -90,6 +90,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 92 批（US · 1 次检索：bizprofile.net 加州 SoS 镜像（General Corporation；档号 2772255；2005-09-12 登记；Active，SoS / FTB / Agent 均 Good Standing；CEO / Secretary / CFO / Director / 注册代理人 全为 Ziqiang He，435 Glasgow Cir, Danville CA 94526；业务「R&D of networking devices」）+ dualcomm.com/pages/about-us（创始人 John He；2005 小企业；网络 TAP 发明人；PoE-over-Coax 专利；邮寄地址 2415 San Ramon Valley Blvd #4182 San Ramon 94583）+ ZoomInfo（1–10 人，<$5M），2026-10-28 查；https://www.bizprofile.net/ca/danville/dualcomm-technology-inc）：**
+
+- 法定名 / 登记号：Dualcomm Technology, Inc.（dualcomm.com；San Ramon / Danville, CA） · CA SoS 2772255 · 状态 **Active · Good Standing（SoS / FTB / Agent / VCFCF 四项 Good，2025-07）** · 成立 2005-09-12 · General Corporation（California）
+- 行业码 / 经营范围：网络 TAP / Ethernet-over-Coax 自研自销（小众网络监测设备）；网店直销 15,000+ 客户
+- 注册地址：注册 435 Glasgow Cir, Danville, CA 94526；邮寄 2415 San Ramon Valley Blvd #4182, San Ramon, CA 94583
+- 规模档：微型（1–10 人；一人公司）
+- 账目：—；—
+- 高管：Ziqiang He（John He）— CEO / Secretary / CFO / Director / Registered Agent（五职一人）= 老板 = 唯一联系人
+- 控制人 / 股东：Ziqiang He（推定 100%）
+- **这意味着什么：**
+  - **一人工程师公司（John He 五职一肩），主业是网络 TAP 和同轴传以太网，PoE 交换机只是配套 SKU** → 研究档「自己的牌子」成立，但量极小 → **B 不加厚**；若写只写 John 一句：Dualcomm 标 8 口 PoE 的 OEM 30% 单价 + MOQ 1 箱
+  - 20 年 Good Standing、无负面 = 付款安全；100% 预付小单即可
+  - 邮寄地址是 UPS 信箱（#4182）= 无仓，发货走小包
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,13 +146,17 @@ updated: 2026-10-27
 - **【用户表】MC FS 工业 MC EoC 自己的牌子**
   > MC FS 工业MC EOC  标价很高 最近在上新品    自己的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ziqiang (John) He（CEO / Secretary / CFO / Director / Registered Agent（加州 SoS 2772255 五职一人；官网「创始人 John He」，网络 TAP 发明人）= **老板 = 唯一联系人** —— 一人工程师公司，主业网络 TAP / 同轴传以太网，PoE 交换机只是配套 SKU → B 不加厚；若写只写一句 Dualcomm 标 8 口 PoE OEM 30% 单价 + MOQ 1 箱（第 92 批 官方登记核实 2026-10-28）） 〔https://www.bizprofile.net/ca/danville/dualcomm-technology-inc〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
+| 法定名称 | Dualcomm Technology, Inc.（California General Corporation；SoS 2772255；Good Standing 四项） |
+| 成立 | 2005-09-12（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 注册 435 Glasgow Cir, Danville, CA 94526；邮寄 UPS 信箱 2415 San Ramon Valley Blvd #4182, San Ramon, CA 94583（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 1–10（一人公司）（第 92 批 官方登记核实 2026-10-28） |
 | 其他 | 官网 dualcomm.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：网络 TAP / EoC / MC（自有品牌 Dualcomm）
@@ -247,7 +265,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@dualcomm.com | 用户表原值 | Clients/ 表 |
+| Ziqiang (John) He | CEO / Secretary / CFO / Director / Registered Agent（加州 SoS 2772255 五职一人；官网「创始人 John He」，网络 TAP 发明人）= **老板 = 唯一联系人** —— 一人工程师公司，主业网络 TAP / 同轴传以太网，PoE 交换机只是配套 SKU → B 不加厚；若写只写一句 Dualcomm 标 8 口 PoE OEM 30% 单价 + MOQ 1 箱（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.bizprofile.net/ca/danville/dualcomm-technology-inc |
 
 - **通道建议**：邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -284,7 +302,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；已推送 20 次无回复，邮件通道疲劳
+- **W**：已推送 20 次无回复，邮件通道疲劳
 - **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -301,7 +319,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认 |
@@ -342,12 +360,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

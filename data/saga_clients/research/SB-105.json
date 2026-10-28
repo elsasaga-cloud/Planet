@@ -42,8 +42,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 cenova.com.tr，语言 ?，快照状态 http_error；角色判定来源：用户表"
+  "hq": "Perpa Ticaret Merkezi B Blok K:8 No:902-904, Şişli / İstanbul（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 cenova.com.tr，语言 ?，快照状态 http_error；角色判定来源：用户表；OEM 30%：PoE 交换机贴 Cenova 标配自家相机；TIANDY 自带 PoE 交换机 = 现有基线，报价落在其下；关联店 Syscom Güvenlik（A Blok K:7）同一客服号；无公开老板姓名 → 写 satın alma（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. ve TİC. LTD. ŞTİ.（Şişli VD 2060665571）",
+  "founded": "2002（LinkedIn 2004）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "16–49（LinkedIn 18；kariyer 25–49）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "小型（Perpa 安防分销；自有品牌 Cenova + TIANDY / Wisetech 土耳其总代，bayi 导向）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "CCTV / PoE 分销（土耳其）"

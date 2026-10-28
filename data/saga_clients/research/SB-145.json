@@ -48,8 +48,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 digicomm.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
+  "hq": "Breite Str. 10, 40670 Meerbusch（02159 69375-0）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 digicomm.de，语言 de-DE，快照状态 ok；角色判定来源：用户表；**守界：研究档「自有 logo 工业交换机」成立，但采购 / OEM 决策已上收 AddSecure 集团 → B「不再补查」，不再发**；GF Andreas Kluß（2024-05 起，集团任命）（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "DigiComm Gesellschaft für Kommunikationssysteme mbH（AG Neuss HRB 5172）→ 2024-09 并入 AddSecure DigiComm GmbH",
+  "founded": "1987（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "11–50；母公司 AddSecure 1,000+（第 92 批 官方登记核实 2026-10-28）",
+  "size": "集团子公司（Bechtle → 2023-11 AddSecure（瑞典）→ 2024-09 吸收合并）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "关键基础设施数据通信（光纤 / 铜缆 / SHDSL / 无线）",

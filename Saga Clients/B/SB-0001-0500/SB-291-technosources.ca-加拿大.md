@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,7 +74,7 @@ updated: 2026-10-27
 - `technosources.ca` → 同域名 MX → 托管在 my-control-panel.com（MX：technosources.ca）。主机商附带邮箱（同域名 MX → 托管在 my-control-panel.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（加拿大 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（加拿大 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
@@ -306,12 +306,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

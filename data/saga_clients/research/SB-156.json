@@ -1,138 +1,140 @@
 {
-  "code": "SB-156",
-  "name_official": "Cyberteam Sp. z o.o.（波兰）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（cyberteam.pl，快照 2026-10-21，波兰语）",
-  "summary": "波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "MikroTik",
-    "Ubiquiti",
-    "Cyberteam（自有）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "光纤设备供应商 / 制造商：线缆、护套、机柜、外壳、网络保护器、MikroTik、Ubiquiti、SFP、跳线",
-      "quote": "Cyberteam dostawca producent: urządzenia światłowodowe, kable, osłony antyzakłóceniowe, szafy RACK, obudowy, netprotectory, MikroTik, Ubiquiti, moduły SFP, patchcordy",
-      "url": "https://cyberteam.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC Switch 等；MC 自己的 logo 其他人在卖；无源产品 Pon 等",
-      "quote": "兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Monika Patron",
-      "title": "Sales Manager",
-      "email": "m.patron@cyberteam.pl",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Tomasz Bartłomiej Nowak",
-      "title": "（表内联系人）",
-      "email": "t.b.nowak@cyberteam.pl",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-156",
+ "name_official": "Cyberteam Sp. z o.o.（波兰）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（cyberteam.pl，快照 2026-10-21，波兰语）",
+ "summary": "波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "MikroTik",
+  "Ubiquiti",
+  "Cyberteam（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "光纤设备供应商 / 制造商：线缆、护套、机柜、外壳、网络保护器、MikroTik、Ubiquiti、SFP、跳线",
+   "quote": "Cyberteam dostawca producent: urządzenia światłowodowe, kable, osłony antyzakłóceniowe, szafy RACK, obudowy, netprotectory, MikroTik, Ubiquiti, moduły SFP, patchcordy",
+   "url": "https://cyberteam.pl/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Cyberteam Sp. z o.o.",
-    "founded": "",
-    "hq": "Poland",
-    "size": "中小型供应商 / 制造（无源）",
-    "other": "自有 logo MC 已被他人转售"
-  },
-  "business_lines": [
-    "光纤无源 / 机柜制造",
-    "MC / SFP / 网络有源（贴牌）"
-  ],
-  "channels": {
-    "role": "供应商 + 自有品牌（OEM 采购）",
-    "region": "波兰"
-  },
-  "signals": [
-    "自有 logo MC 有渠道 → 贴牌量稳定"
-  ],
-  "risks": [
-    "PON 不供；1 次群发"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 30,
-    "why": "自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。"
-  },
-  "email_hook": "Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 cyberteam@cyberteam.pl, m.patron@cyberteam.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "PL 次级重点",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 17；用户表：「兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等」；研究档 risks：PON 不供；1 次群发；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读"
-    },
-    "situation": "波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。",
-    "need": "自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。",
-    "breakpoint": "PON 不供；1 次群发",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
-      "why": "自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?"
-    },
-    "facts": [
-      {
-        "date": "2025-10-09",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
-        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 cyberteam.pl, t.b.nowak@cyberteam.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-25",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-25（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "MC Switch 等；MC 自己的 logo 其他人在卖；无源产品 Pon 等",
+   "quote": "兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Monika Patron",
+   "title": "Sales Manager",
+   "email": "m.patron@cyberteam.pl",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Tomasz Bartłomiej Nowak",
+   "title": "（表内联系人）",
+   "email": "t.b.nowak@cyberteam.pl",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Prezes Zarządu / 股东（2007-07-24 起；1975 生；KRS 0000285290）= **老板 = 拍板人 = 联系人** —— 自有品牌 MC / 光纤产品 + 营收 ≈23.5 mln zł（≈$5.9M）+ 经济特区厂址（有组装 / 制造）→ **OEM 30%：Cyberteam 标 MC + 8/16 口 PoE + 工业 DIN**（只给整机贴标，不做裸板）；第二封 = 一句话 + 对照表（第 92 批 官方登记核实 2026-10-28）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Cyberteam Sp. z o.o.（KRS 0000285290 · NIP 9222908443 · REGON 060265810）",
+  "founded": "2007-07-24（第 92 批 官方登记核实 2026-10-28）",
+  "hq": "ul. Strefowa 8, 22-400 Zamość（第 92 批 官方登记核实 2026-10-28）",
+  "size": "中小型（网络 / 光纤自有品牌 + 元件批发制造；股本 200,000 zł）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "自有 logo MC 已被他人转售；Wiceprezes Radosław Marcin Skwarek；Prokurent Mirosława Ziemian；关联 Nowak Technologie（同一线）；复盘 2027-07（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "中小型（估 20–50 人）；营收 ≈23.5 mln zł / 资产 8.2 mln zł（第 92 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "光纤无源 / 机柜制造",
+  "MC / SFP / 网络有源（贴牌）"
+ ],
+ "channels": {
+  "role": "供应商 + 自有品牌（OEM 采购）",
+  "region": "波兰"
+ },
+ "signals": [
+  "自有 logo MC 有渠道 → 贴牌量稳定"
+ ],
+ "risks": [
+  "PON 不供；1 次群发"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。"
+ },
+ "email_hook": "Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 cyberteam@cyberteam.pl, m.patron@cyberteam.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等」；研究档 risks：PON 不供；1 次群发；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读"
+  },
+  "situation": "波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。",
+  "need": "自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。",
+  "breakpoint": "PON 不供；1 次群发",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+   "why": "自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?"
+  },
+  "facts": [
+   {
+    "date": "2025-10-09",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
+    "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 cyberteam.pl, t.b.nowak@cyberteam.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-09-25",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-25（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

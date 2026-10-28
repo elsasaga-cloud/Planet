@@ -1,6 +1,6 @@
 # watchnetinc.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-303`　|　优先级 ★★　|　状态：已推送 19 次·未回复
+> **评级 B**　|　加拿大　|　档案编号 `SB-303`　|　优先级 ★★　|　状态：已推送 19 次·未回复
 >
 > **类型**：北美安防品牌商（自有 POESW 系列，OEM 采购）（推断）　|　**历史关系**：推送 19 次（2024-04-23 → 2025-10-28）　|　**所在清单**：A优质名单(US)、AI评估(US)、E冷名单(埃及)、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-303
 rating: B
 rating_auto: B
 score: 47
-country: 美国
+country: 加拿大
+country_table: 美国  # 表内原填；调研纠正为 加拿大（research JSON country_fix）
 region: 北美
 website: watchnetinc.com
 type: 北美安防品牌商（自有 POESW 系列，OEM 采购）
@@ -25,7 +26,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -121,18 +122,38 @@ updated: 2026-10-27
 
 - `watchnetinc.com` → Google Workspace（MX：ASPMX.L.GOOGLE.com、ALT1.ASPMX.L.GOOGLE.com、ALT2.ASPMX.L.GOOGLE.com、ASPMX2.GOOGLEMAIL.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（加拿大 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：01-01 New Year's Day；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数 · 第 92 批（US(→CA) · 1 次检索：LinkedIn 公司页（2000 成立；11–50；总部 Markham ON；产品含 Network Switches）+ ZoomInfo / datanyze / RocketReach（351 Ferrier St Unit 5, Markham ON L3R 5Z2；33–50 人；第三方营收 $10.9–13.6M 仅作区间）+ contactout / signalhire 员工名录（Harish Babu Vettukuzhiyil VP Sales & Marketing；Karthikeyan R 采购物流经理；Milly Prince Executive Director；Roman Dabrowski VP；Matthew Durkee Director Sales USA），2026-10-28 查；https://www.linkedin.com/company/watchnet-inc-）：**
+
+- 法定名 / 登记号：WatchNET Inc.（watchnetinc.com；Markham, Ontario —— 实为加拿大） · Ontario 公司号未取（Ontario Business Registry 需登录） · 状态 **Active（LinkedIn 2026 更新、Intersec 参展）** · 成立 2000 · Inc.（安大略 / 联邦公司，待核）
+- 行业码 / 经营范围：视频监控 / 门禁 / IoT 设备自有品牌供应商（相机、录像机、网络交换机、无线 IoT）；北美 + 中东（迪拜号）
+- 注册地址：351 Ferrier St Unit 5, Markham, Ontario L3R 5Z2, Canada
+- 规模档：中小型（33–50 人；第三方营收区间 $10–14M）
+- 账目：—；—
+- 高管：Milly Prince — Executive Director（datanyze）
+- 高管：Roman Dabrowski — Vice President
+- 高管：Harish Babu Vettukuzhiyil — VP Sales & Marketing（2022–；研究档 KP harish@）
+- 高管：Karthikeyan R — Procurement & Logistics Manager（= 采购口）
+- 高管：Matthew Durkee — Director Sales USA
+- 高管：Joe Saju — Financial Controller
+- **这意味着什么：**
+  - **国别更正：WatchNET 总部在加拿大安省 Markham，不是美国** → 研究档加 country_fix 加拿大（证书写 ISED/FCC + CE 皆可；发信窗口按美东 Wed 08–10）
+  - **自有品牌含「Network Switches」= 现成 OEM 品牌商（目标序列第一位）**：37 封群发打开 1 次无回 → 换对象：**采购物流经理 Karthikeyan R**（名字已知、邮箱格式待推 first@watchnetinc.com）+ 抄 Harish；内容只给 OEM 30% 两款（8 口 PoE $xx / 24 口 PoE+2SFP $xx，贴 WatchNET 标）
+  - 33–50 人 + 中东分部（+971 号）= 有进口经验、能走 T/T 50/50；单笔 $5–20k 量级
+  - 复盘：加拿大无公开年报；每季看 LinkedIn 新品（若出新交换机 = 已另有 OEM 厂）
+- 备注：研究档「Utepo」= 现有 PoE 交换机货源为优特普同类 → 价格对标 HRUI 档再让 5%。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | watchnetinc.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国（另见：埃及） | 事实（用户表）|
+| 国家 | 加拿大（另见：埃及） | 事实（用户表）|
 | 网站/域名 | watchnetinc.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 北美安防品牌商（自有 POESW 系列，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Harish Vettukuzhiyil / Vice President Sales & Marketing / Junaize E / Technical Support Engineer / utepo的商业switch / good / 之前联系过 | 事实（用户表） |
@@ -170,16 +191,20 @@ updated: 2026-10-27
 - **【用户表】Utepo 的商业 switch / good**
   > Utepo / 网站：主要是商业POE switch / 主要是CCTV 商业PoE Utepo的；utepo的商业switch / good
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Harish Vettukuzhiyil（）harish@watchnetinc.com 〔用户表〕
+- **KP**：Harish Babu Vettukuzhiyil（Vice President, Sales & Marketing（2022–；ZoomInfo / contactout）= 销售副总（抄送）—— **公司在加拿大安省 Markham，用户表国别 US 误 → country_fix 加拿大**；自有品牌产品线含「Network Switches」= **现成 OEM 品牌商** → 换写采购物流经理 Karthikeyan R（抄 Harish），只给 OEM 30% 两款（8 口 PoE / 24 口 PoE+2SFP 贴 WatchNET 标）（第 92 批 官方登记核实 2026-10-28））harish@watchnetinc.com 〔用户表〕
 - **KP**：Junaize E（） 〔用户表〕
+- **KP**：Karthikeyan R（Procurement & Logistics Manager（contactout / signalhire）= **采购口 = 本轮首选收件人**（邮箱格式待推，first@watchnetinc.com）（第 92 批 官方登记核实 2026-10-28）） 〔https://contactout.com/company/watchnet-inc-5690〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 watchnetinc.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | WatchNET Inc.（Markham, Ontario, Canada；Ontario 公司号未取） |
+| 成立 | 2000（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 351 Ferrier St Unit 5, Markham, Ontario L3R 5Z2, Canada（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 33–50（RocketReach 33 / datanyze 50；LinkedIn 11–50）；第三方营收区间 $10–14M（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 watchnetinc.com，语言 en-US，快照状态 ok；角色判定来源：用户表；管理层：Milly Prince Executive Director / Roman Dabrowski VP / Matthew Durkee Director Sales USA / Joe Saju Financial Controller；研究档「Utepo」= 现 PoE 货源同类 → 价格对标 HRUI 档再让 5%；发信窗口按美东 Wed 08–10；证书 ISED/FCC + CE（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / NVR / 门禁（自有品牌 WatchNET）；配套 PoE 交换机（POESW 系列）
 
@@ -297,8 +322,10 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Harish Vettukuzhiyil | — | harish@watchnetinc.com | 调研核实（公开页） | 用户表 |
+| Harish Babu Vettukuzhiyil | Vice President, Sales & Marketing（2022–；ZoomInfo / contactout）= 销售副总（抄送）—— **公司在加拿大安省 Markham，用户表国别 US 误 → country_fix 加拿大**；自有品牌产品线含「Network Switches」= **现成 OEM 品牌商** → 换写采购物流经理 Karthikeyan R（抄 Harish），只给 OEM 30% 两款（8 口 PoE / 24 口 PoE+2SFP 贴 WatchNET 标）（第 92 批 官方登记核实 2026-10-28） | harish@watchnetinc.com | 调研核实（公开页） | 用户表 |
 | Junaize E | — | — | 调研核实（公开页） | 用户表 |
+| Karthikeyan R | Procurement & Logistics Manager（contactout / signalhire）= **采购口 = 本轮首选收件人**（邮箱格式待推，first@watchnetinc.com）（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://contactout.com/company/watchnet-inc-5690 |
+| Harish Vettukuzhiyil | — | info@watchnetinc.com / harish@watchnetinc.com | 用户表原值 | Clients/ 表 |
 | utepo | — | info@watchnetinc.com / harish@watchnetinc.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -394,12 +421,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 47）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 47）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

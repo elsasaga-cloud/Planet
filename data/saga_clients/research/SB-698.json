@@ -66,7 +66,15 @@
    "title": "Project Manager",
    "email": "info@cbo-it.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Project Manager（用户表）= 项目口 —— **本轮改写 GF Michael Abel**（光模块自有品牌商，交换机只是副线；Saga 不供光模块 Q-32 → 唯一一条线 = **CBO 标工业 / 商用交换机 OEM 30%** 配他们自家光模块卖套装）；第二封只给「CBO 标 8 口 PoE+2SFP 工业机 / 24 口 +4 SFP 管理型」两行价（第 92 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Michael Abel",
+   "role": "Geschäftsführer（Northdata：cbo GmbH, Schliersee, AG München HRB 93986 —— **推定匹配**，回信后以 Impressum 核 HRB）= 老板之一 = 本轮收件人（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.northdata.com/cbo%20GmbH,%20Schliersee/Amtsgericht%20M%C3%BCnchen%20HRB%2093986"
   }
  ],
  "grade_override": null,
@@ -77,8 +85,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 cbo-it.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Miesbacher Str. 16, 83727 Schliersee（上巴伐利亚）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 cbo-it.de，语言 de，快照状态 ok；角色判定来源：官网文案；GF Michael Abel / Thomas Seebauer；控股 BTW-IT GmbH；T/T 50/50 可谈；复盘 2027-03（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "cbo GmbH（原 cbo Computer- und Bürotechnikvertrieb Oberland GmbH；AG München HRB 93986；股东 BTW-IT GmbH —— 推定匹配）",
+  "founded": "≈1990 年代（Stammkapital 80,000 DEM）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "小型（估 10–30 人）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "小型（光模块 / AOC 自有品牌 CBO + 网络设备）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "光模块 / DAC / AOC / 跳线 / MPO（自有品牌 BlueOptics，主站 + 商城）"

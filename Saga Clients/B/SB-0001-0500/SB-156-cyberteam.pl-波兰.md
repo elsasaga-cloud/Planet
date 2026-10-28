@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,9 +83,26 @@ updated: 2026-10-27
 
 - `cyberteam.pl` → 自建 / 同域名邮件服务器（MX：cyberteam.pl）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
 
-**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 92 批（PL · 1 次检索：rejestr.io（KRS 0000285290；NIP 9222908443；REGON 060265810；2007-07-24 登记；股本 200 tys. zł；Prezes Tomasz Bartłomiej Nowak 2007 起；董事会多人时各自单独代表）+ bizraport（营收 23.5 mln zł / 资产 8.2 mln zł；prokurent Mirosława Ziemian）+ infoveriti（Nowak 1975 生）+ kompass（Wiceprezes Radosław Marcin Skwarek）+ cyberteam.pl 联系页（Strefowa 8）+ D&B（行业含通信设备制造）+ nowaktechnologie.pl（关联「Nowak Technologie」），2026-10-28 查；https://rejestr.io/krs/285290/cyberteam）：**
+
+- 法定名 / 登记号：Cyberteam Sp. z o.o.（cyberteam.pl；Zamość, lubelskie） · KRS 0000285290 · NIP 9222908443 · REGON 060265810 · 状态 **Aktywna（VAT 活跃）** · 成立 2007-07-24 · Spółka z o.o.（股本 200,000 zł）
+- 行业码 / 经营范围：网络 / 光纤 / 媒体转换器 自有品牌 Cyberteam + 电子元件批发与制造（PKD 多项含通信设备制造）；经济特区地址
+- 注册地址：ul. Strefowa 8, 22-400 Zamość（另记 Kalinowice 157）
+- 规模档：中小型（估 20–50 人）
+- 账目：KRS 财报：营收 ≈23.5 mln zł（≈$5.9M）、资产 8.2 mln zł；7 月复盘
+- 高管：Tomasz Bartłomiej Nowak — Prezes Zarządu / 股东（2007 起；1975 生；研究档 KP t.b.nowak@）= 老板 = 联系人
+- 高管：Radosław Marcin Skwarek — Wiceprezes Zarządu（kompass）
+- 高管：Mirosława Ziemian — Prokurent（商务代理）
+- 高管：Monika Patron — 研究档 KP（职务待核）
+- 控制人 / 股东：Tomasz Nowak（推定主要股东）
+- **这意味着什么：**
+  - **研究档 KP Tomasz Nowak 就是总裁兼股东 → 信已到拍板人**；自有品牌 MC / 光纤产品（研究档「MC 自己 logo」）+ 营收 ≈2,350 万 zł = 有规模的 OEM 品牌商 → **OEM 30%：Cyberteam 标 MC + 8/16 口 PoE + 工业 DIN**
+  - 2007 年公司、股本 20 万 zł、经济特区厂址 = 有自己的组装 / 制造 → 他们可能要「半成品 / 裸板 + 自己壳」—— 这我们不做，只给整机贴标；17 封无回 → 第二封换成 Tomasz 一句话 + 对照表
+  - 复盘 2027-07 看 2026 年报；关联公司 Nowak Technologie 若回信算同一线
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -124,16 +141,18 @@ updated: 2026-10-27
   > 兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Monika Patron（）m.patron@cyberteam.pl 〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Tomasz Bartłomiej Nowak（）t.b.nowak@cyberteam.pl 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Tomasz Bartłomiej Nowak（Prezes Zarządu / 股东（2007-07-24 起；1975 生；KRS 0000285290）= **老板 = 拍板人 = 联系人** —— 自有品牌 MC / 光纤产品 + 营收 ≈23.5 mln zł（≈$5.9M）+ 经济特区厂址（有组装 / 制造）→ **OEM 30%：Cyberteam 标 MC + 8/16 口 PoE + 工业 DIN**（只给整机贴标，不做裸板）；第二封 = 一句话 + 对照表（第 92 批 官方登记核实 2026-10-28））t.b.nowak@cyberteam.pl 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Cyberteam Sp. z o.o. |
-| 总部/地址 | Poland |
-| 其他 | 自有 logo MC 已被他人转售 |
+| 法定名称 | Cyberteam Sp. z o.o.（KRS 0000285290 · NIP 9222908443 · REGON 060265810） |
+| 成立 | 2007-07-24（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Strefowa 8, 22-400 Zamość（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 中小型（估 20–50 人）；营收 ≈23.5 mln zł / 资产 8.2 mln zł（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 自有 logo MC 已被他人转售；Wiceprezes Radosław Marcin Skwarek；Prokurent Mirosława Ziemian；关联 Nowak Technologie（同一线）；复盘 2027-07（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤无源 / 机柜制造；MC / SFP / 网络有源（贴牌）
 - **触达通道（公开）**：role: 供应商 + 自有品牌（OEM 采购）；region: 波兰
@@ -224,7 +243,7 @@ updated: 2026-10-27
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Monika Patron | — | m.patron@cyberteam.pl | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Tomasz Bartłomiej Nowak | — | t.b.nowak@cyberteam.pl | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Tomasz Bartłomiej Nowak | Prezes Zarządu / 股东（2007-07-24 起；1975 生；KRS 0000285290）= **老板 = 拍板人 = 联系人** —— 自有品牌 MC / 光纤产品 + 营收 ≈23.5 mln zł（≈$5.9M）+ 经济特区厂址（有组装 / 制造）→ **OEM 30%：Cyberteam 标 MC + 8/16 口 PoE + 工业 DIN**（只给整机贴标，不做裸板）；第二封 = 一句话 + 对照表（第 92 批 官方登记核实 2026-10-28） | t.b.nowak@cyberteam.pl | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -319,12 +338,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 54）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 54）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -43,11 +43,12 @@
  ],
  "kp": [
   {
-   "name": "Yusuf Olcer",
+   "name": "Yusuf Ölçer",
    "title": "Sales Manager",
    "email": "info@telkolink.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Yetkili / General Manager（katalogrehberi 法定联系人；LinkedIn 兼 Gelecekbt.com GM）= **老板 = 联系人 = 拍板人**（直邮 yusuf@telkolink.com）—— **Telkolink（自有标签）与 GelecekBT（gelecekbt.com = SB-275；外部库 XB-C0688）是同一老板的两块牌子 → 三处并一线，只写这一封**；OEM 30% 走 Telkolink 标（PoE 8/16 口 + MC），MOQ 1 箱、100% 预付（第 92 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -58,8 +59,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 telkolink.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "Perpa Ticaret Merkezi A Blok K.5 No:295-297, Okmeydanı Şişli / İstanbul（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 telkolink.com，语言 ?，快照状态 ok；角色判定来源：用户表；技术支持 sait@telkolink.com；与 SB-275 gelecekbt.com 同一公司 → 并线（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "Telkolink Gelecek Yönetim Merkezi Eğitim Dan. San. Tic. Ltd. Şti.（perpahaber 名录；创立方 GYM Bilgi Teknolojileri）",
+  "founded": "2004（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "1–10（Lusha / RocketReach 6）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "微型（Perpa A Blok 老商户）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "PoE 交换机 / 网络设备 / 光纤系统 / 布线 / 工业自动化产品分销",

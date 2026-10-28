@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 92 批（US · 1 次检索：ZoomInfo（Main Tech Connect；2001；11–50；<$5M；CTO Jeramie Cavanaugh；电脑 / 网络配件 + PoE 产品网店，美国本土 $50 包邮）+ maintechconnect.com 首页（在售「Industrial 8-Port Gigabit PoE+ L2+ Web-Managed Switch with 2 SFP」）。**同名陷阱：Maintech, Incorporated（新泽西 Cranford，1973，500+ 人，IT 运维服务商）非本户**，2026-10-28 查；https://www.zoominfo.com/c/main-tech-connect/1275453111）：**
+
+- 法定名 / 登记号：Main Tech Connect（maintechconnect.com；州未取） · 未取（州未定，SoS 不可查） · 状态 **Active（网店在售）** · 成立 2001（ZoomInfo） · 推定 LLC
+- 行业码 / 经营范围：电脑 / 网络配件 + AV + PoE 产品 电商（自有型号命名）
+- 注册地址：未取（美国本土发货）
+- 规模档：小型（11–50 ZoomInfo，存疑；更像 2–10 人电商）
+- 账目：—；—
+- 高管：Jeramie Cavanaugh — CTO（ZoomInfo）= 推定合伙人 / 选品人
+- **这意味着什么：**
+  - **网店型自有型号卖家（PoE 产品是主类目之一，首页就挂工业 8 口 PoE+ L2+ 管理型）** → 研究档「自己的 logo / 型号」成立 → **OEM 30%：按他现有型号一对一给替代报价**（工业 8 口 PoE+ 2SFP 管理 = STI-288DGGPM $137 档），MOQ 1 箱
+  - 州 / 法定名 / 老板未核 → 信写 Jeramie（CTO，选品人）；回信后再查 SoS
+  - 29 封群发无回 → 第二封只放一张「他家型号 vs 我们型号 + 价差」对照表
+- 备注：第三方 11–50 人数疑虚高；按微型处理（100% 预付）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $489 ← 「naged PoE++ Switch with 16 Gigabit Ethernet Ports and 2 Base-T/SFP Combo Ports Regular price $489」（https://maintechconnect.com/）
@@ -138,13 +152,17 @@ updated: 2026-10-27
 - **【用户表】自有 logo/型号，深圳式外壳**
   > 看着像是深圳公司的外壳 自己的logo/型号 产品较少
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Jeramie Cavanaugh（Chief Technology Officer（ZoomInfo）= 推定合伙人 / 选品人 = 联系人 —— 网店型自有型号卖家（PoE 是主类目，首页挂工业 8 口 PoE+ L2+ 管理 2SFP）→ **OEM 30%：按他现有型号一对一替代报价**（工业 8 口 PoE+2SFP 管理 = STI-288DGGPM 档），MOQ 1 箱；第二封只放「他家型号 vs 我们型号 + 价差」对照表（第 92 批 官方登记核实 2026-10-28）） 〔https://www.zoominfo.com/c/main-tech-connect/1275453111〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
+| 法定名称 | Main Tech Connect（州 / 法定名未核；**同名陷阱：Maintech, Incorporated 新泽西 1973 年 500+ 人 IT 运维商非本户**） |
+| 成立 | 2001（ZoomInfo）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 美国（州未取）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 11–50（ZoomInfo，疑虚高；按 2–10 人电商处理）（第 92 批 官方登记核实 2026-10-28） |
 | 其他 | 官网 maintechconnect.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
 - **业务线**：电脑 / 网络配件网店；工业以太网 / PoE 交换机（自有型号 IPS 系列）；机柜 / 光缆
@@ -259,7 +277,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@maintechconnect.com | 用户表原值 | Clients/ 表 |
+| Jeramie Cavanaugh | Chief Technology Officer（ZoomInfo）= 推定合伙人 / 选品人 = 联系人 —— 网店型自有型号卖家（PoE 是主类目，首页挂工业 8 口 PoE+ L2+ 管理 2SFP）→ **OEM 30%：按他现有型号一对一替代报价**（工业 8 口 PoE+2SFP 管理 = STI-288DGGPM 档），MOQ 1 箱；第二封只放「他家型号 vs 我们型号 + 价差」对照表（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.zoominfo.com/c/main-tech-connect/1275453111 |
 
 - **通道建议**：邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -353,12 +371,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

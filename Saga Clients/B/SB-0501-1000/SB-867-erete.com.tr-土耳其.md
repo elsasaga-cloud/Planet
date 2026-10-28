@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,10 +86,26 @@ updated: 2026-10-27
 
 - `erete.com.tr` → 土耳其主机商邮箱（MX：mx-in02.natrohost.com、mx-in02b.natrohost.com）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+
+**公司底数 · 第 92 批（TR · 1 次检索：erete.com.tr Hakkımızda（2001-12 成立；创始合伙人 Pınar Kabil / Murat Soyak / Timur Yıldız；「Network Okulu」培训）+ kariyer.net（法定全名 Erete Bilgi Sis. Dış Tic. ve San. Ltd. Şti.）+ xp-networks.com 分销商页（Güven Sok 4/2 Şişli；联系人 Murat Soyak）+ ZoomInfo（Murat Soyak = Kurucu Ortak；11–50），2026-10-28 查；https://www.erete.com.tr/Kullanici/Home/Hakkimizda）：**
+
+- 法定名 / 登记号：Erete Bilgi Sistemleri（erete.com.tr；Şişli / İstanbul） · Mersis / VKN 未取 · 状态 **Aktif** · 成立 2001-12 · Limited Şirket
+- 行业码 / 经营范围：网络基础设施产品分销（铜缆 / 光纤 / 配线到机箱交换机）+ 网络培训（Erete Network Okulu）
+- 注册地址：Güven Sok. 4/2, Şişli / İstanbul（+90 212 212 81 03）
+- 规模档：小型（11–50）
+- 账目：—；—
+- 高管：Murat Soyak — Kurucu Ortak（创始合伙人）= 联系人（murat.soyak@erete.com.tr）
+- 高管：Pınar Kabil — Kurucu Ortak
+- 高管：Timur Yıldız — Kurucu Ortak
+- 高管：Özen Taylanlı — 研究档 KP（职务待核）
+- **这意味着什么：**
+  - **研究档 KP Murat Soyak 就是三位创始合伙人之一 → 信已经写到拍板层**；24 年老分销 + 自办「网络学校」= 行业口碑型公司，不是网店
+  - 他们是 XP-Networks（研究档记 Etherwan）工业交换机分销商 = **已有工业 PoE 品牌线** → STI 工业 DIN 只能做「第二货源 + 低价位」：STI-154GP / STI-288DGGPM 报价对标 Etherwan 同口数 6–7 折，不要硬推 CENTEC
+  - 分销 20%；三合伙人制 → 回信慢属正常，第二封隔 6 周；复盘 TR 季度
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -138,7 +154,7 @@ updated: 2026-10-27
 - **【用户表】EtherWAN 工业 FS / MC，Voscom VC，ONV**
   > XP Etherwan的工业FS Etherwan的MC voscom的VC；XP是用ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Murat Soyak（）murat.soyak@erete.com.tr 〔用户表〕
+- **KP**：Murat Soyak（Kurucu Ortak（三位创始合伙人之一，2001-12 起；ZoomInfo）= **拍板层 = 联系人** —— 公司 = 24 年网络基础设施分销 + 自办「Erete Network Okulu」培训；**已是 XP-Networks（研究档记 Etherwan）工业交换机分销商 = 有工业 PoE 品牌线** → STI 只做第二货源，报价对标同口数 6–7 折，不推 CENTEC；分销 20%（第 92 批 官方登记核实 2026-10-28））murat.soyak@erete.com.tr 〔用户表〕
 - **KP**：Ozen Taylanli（）ozen.taylanli@erete.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -146,7 +162,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
+| 法定名称 | Erete Bilgi Sistemleri Dış Tic. ve San. Ltd. Şti. |
+| 成立 | 2001-12（创始合伙人 Pınar Kabil / Murat Soyak / Timur Yıldız）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Güven Sok. 4/2, Şişli / İstanbul（+90 212 212 81 03）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 11–50（ZoomInfo）（第 92 批 官方登记核实 2026-10-28） |
 | 其他 | 官网 erete.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：工业交换机 / 骨干与边缘交换机 / Open Networking；安防 CCTV / 结构化布线 / 机柜
@@ -246,7 +265,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Murat Soyak | — | murat.soyak@erete.com.tr | 调研核实（公开页） | 用户表 |
+| Murat Soyak | Kurucu Ortak（三位创始合伙人之一，2001-12 起；ZoomInfo）= **拍板层 = 联系人** —— 公司 = 24 年网络基础设施分销 + 自办「Erete Network Okulu」培训；**已是 XP-Networks（研究档记 Etherwan）工业交换机分销商 = 有工业 PoE 品牌线** → STI 只做第二货源，报价对标同口数 6–7 折，不推 CENTEC；分销 20%（第 92 批 官方登记核实 2026-10-28） | murat.soyak@erete.com.tr | 调研核实（公开页） | 用户表 |
 | Ozen Taylanli | — | ozen.taylanli@erete.com.tr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
@@ -341,12 +360,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

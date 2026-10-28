@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,9 +76,27 @@ updated: 2026-10-27
 
 - `kti.de` → 其他主机商邮箱（mail.kti.de）（MX：mail.kti.de、mail.avanis.de）。主机商附带邮箱（mail.kti.de）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（德国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（德国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 窗口内无该国法定假日
+
+**公司底数 · 第 92 批（DE · 1 次检索：Northdata（AG Bielefeld HRB 35444；GF Peter Kaiser；Thomas Passlack；Stammkapital 50,000 DEM = 2002 前设立；LEI 5299004AYCZJWJVHYO42；经营范围「网络组件贸易」）+ implisense（小企业；info@kti.de）+ kti.de über-uns / team（25 年独家进口台湾 Katron Technologies Inc.「KTI Networks」产品；团队 Paul Kaiser pkaiser@、Thomas Passlack、Danuta Kaiser；产品页列「OEM & ODM」服务）+ bielefeld.de 企业录，2026-10-28 查；https://www.northdata.com/KTI%20Distribution%20GmbH%20Netzwerkkomponentenhandel,%20Bielefeld/HRB%2035444）：**
+
+- 法定名 / 登记号：KTI Distribution GmbH Netzwerkkomponentenhandel（kti.de；Bielefeld） · AG Bielefeld HRB 35444（LEI 5299004AYCZJWJVHYO42） · 状态 **Aktiv** · 成立 ≈1998–2001（DEM 股本；官网「25 年」） · GmbH（Stammkapital 50,000 DEM）
+- 行业码 / 经营范围：网络组件批发（KTI Networks 台湾品牌 DACH 独家进口：媒体转换器、交换机、工业以太网、光模块）
+- 注册地址：Meisenstraße 79a, 33607 Bielefeld（+49 521 966800）
+- 规模档：微型 / 小型（家族，估 3–10 人）
+- 账目：小型公司简表（未取）；3 月复盘
+- 高管：Peter Kaiser — Geschäftsführer = 老板
+- 高管：Paul Kaiser — Management（研究档 KP pkaiser@kti.de；推定二代）
+- 高管：Thomas Passlack — Management / 登记人员
+- 高管：Danuta Kaiser — 团队（家族）
+- 控制人 / 股东：Kaiser 家族（推定）
+- **这意味着什么：**
+  - **台湾 Katron（KTI Networks，1983）在 DACH 的独家进口 + 品牌代理 = 「captive 分销」**：他们的交换机 / MC / 工业机全部来自 Katron，研究档「自己的牌子」其实是 Katron 的牌子 → **B 不动**；唯一缝隙是 Katron 缺的口型（2.5G PoE / 高瓦 BT），可一句话问 Paul Kaiser 是否补货源
+  - 家族微型公司（Kaiser 一家 + Passlack）= 决策快但忠于单一供应商 25 年；打开 1 次无回符合预期
+  - 复盘：每年 3 月看 kti.de 产品线是否出现非 Katron 型号（= 开始多货源）
+- 备注：守界：同行品牌代理；不发价格表。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -123,15 +141,18 @@ updated: 2026-10-27
 - **【用户表】分销，有自己的牌子也有别人的；质量高**
   > 分销 有自己的牌子 也有别人的；POE MC 工业FS SFP；质量高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：P. Kaiser（）pkaiser@kti.de 〔用户表〕
+- **KP**：Paul Kaiser（Management（kti.de 团队页；Kaiser 家族二代；GF 为 Peter Kaiser，AG Bielefeld HRB 35444）= 联系人 —— **守界：KTI Distribution = 台湾 Katron Technologies（KTI Networks，1983）在 DACH 的独家进口 + 品牌代理（captive 分销，25 年单一货源）→ 研究档「自己的牌子」实为 Katron 的牌子 → B 不动**；唯一缝隙：Katron 缺的口型（2.5G PoE / 高瓦 BT）可一句话问（第 92 批 官方登记核实 2026-10-28））pkaiser@kti.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 kti.de，语言 de-DE，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | KTI Distribution GmbH Netzwerkkomponentenhandel（AG Bielefeld HRB 35444；LEI 5299004AYCZJWJVHYO42） |
+| 成立 | ≈1998–2001（Stammkapital 50,000 DEM）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Meisenstraße 79a, 33607 Bielefeld（+49 521 966800）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 微型 / 小型（家族，估 3–10 人）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 kti.de，语言 de-DE，快照状态 ok；角色判定来源：用户表；GF Peter Kaiser；团队 Thomas Passlack / Danuta Kaiser；复盘：每年 3 月看 kti.de 是否出现非 Katron 型号（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备 / 交换机 / MC 分销（KTI 自有品牌 + Netsys + Ubiquiti）
 - **触达通道（公开）**：role: 台湾 KTI 欧洲分销（自有品牌 + 他牌；台湾厂商口径二供）；region: 德国；contact: sales@kti.de、pkaiser@kti.de
@@ -227,7 +248,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| P. Kaiser | — | pkaiser@kti.de | 调研核实（公开页） | 用户表 |
+| Paul Kaiser | Management（kti.de 团队页；Kaiser 家族二代；GF 为 Peter Kaiser，AG Bielefeld HRB 35444）= 联系人 —— **守界：KTI Distribution = 台湾 Katron Technologies（KTI Networks，1983）在 DACH 的独家进口 + 品牌代理（captive 分销，25 年单一货源）→ 研究档「自己的牌子」实为 Katron 的牌子 → B 不动**；唯一缝隙：Katron 缺的口型（2.5G PoE / 高瓦 BT）可一句话问（第 92 批 官方登记核实 2026-10-28） | pkaiser@kti.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -296,7 +317,7 @@ updated: 2026-10-27
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Paul,
 
 Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 24 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the KTI-branded industrial and PoE switches you distribute from Bielefeld, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8-PoE + 2 SFP L2+ commercial) from small lots, CE/RoHS — is a lower-cost second line something your German customers ask for?
 
@@ -321,12 +342,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

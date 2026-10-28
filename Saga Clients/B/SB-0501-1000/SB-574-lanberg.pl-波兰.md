@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -80,7 +80,7 @@ updated: 2026-10-27
 
 - `lanberg.pl` → Barracuda 网关（MX：d145780a.ess.barracudanetworks.com、d145780b.ess.barracudanetworks.com）。企业级邮件网关（Barracuda 网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
 
-**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -90,14 +90,19 @@ updated: 2026-10-27
 - 行业码 / 经营范围：IT 配件 / 网络产品 **自有品牌制造商 + 分销商**：Lanberg（机柜 / 跳线 / PDU / 网络配件 / 交换机）、Natec、Genesis 等；波兰 + 欧盟零售 / B2B 渠道
 - 注册地址：ul. Stanisława Lema 16, 62-050 Mosina（波兹南南）
 - 规模档：大型（Lanberg 品牌页 51–200；Impakt 集团数百人）
-- 账目：KRS 年报可取（未取）；股本 60.76M zł = 大型；PL 年报 7 月
-- 高管：Zarząd 未取（KRS 付费 / rejestr.io 下轮）；研究档无 KP（lanberg.pl 域）
-- 控制人 / 股东：未取
+- 账目：RDF 已报 2023 / 2024 / 2025 年财报（imsig）；主 PKD 46.51.Z 电脑 / 外设 / 软件批发；KRZ 无记录；PL 年报 7 月
+- 高管：Marcin Chojnacki — Prezes Zarządu（2025-07-01 起）
+- 高管：Tadeusz Piotr Alankiewicz — Wiceprezes Zarządu（2015-11-13 起；Prezes / Wiceprezes 可单独代表）
+- 高管：Łukasz Wardak — Członek Zarządu（2025-07-01 起）
+- 高管：Maciej Grygiel / Hubert Kaczmarek — Prokurenci
+- 高管：Robert Żurek（前 Prezes / 创始人）+ Celina Żurek — Rada Nadzorcza（监事会）= 控股家族
+- 高管：（gowork 旧记录：Robert Władysław Żurek Prezes、Dariusz Andrzej Żurkowski Wiceprezes —— 已换届）
+- 控制人 / 股东：国内自然人所有（bizraport「WŁASNOŚĆ KRAJOWYCH OSÓB FIZYCZNYCH」）；推定 Żurek 家族控股（夫妇坐监事会）
 - **这意味着什么：**
   - **硬发现：lanberg.pl 不是小店 —— Lanberg 是 Impakt S.A.（股本 6,076 万 zł 的波兰 IT 配件集团）的自有品牌，产品线里本来就有交换机 = 《背景信息》第一序列 OEM 品牌商** → 写 Lanberg product manager（Impakt 采购）：OEM 30% Lanberg 标 PoE 4/8/16/24 + 2.5G，彩盒 $2.5/套、CE/RoHS/REACH 文件齐、EU 代表由他们；先 2 台付费样机；PL 周四 12–14
   - 不说：不提其现有 ODM；不提 Natec / Genesis
   - 复查：rejestr.io 取 zarząd + 2025 年报营收
-- 备注：研究档 KP 空；国别 PL 不变。
+- 备注：第 92 批补项：zarząd 已取 —— **2025-07-01 换届**（创始人 Robert Żurek 退居监事会，新总裁 Marcin Chojnacki）→ 新管理层一年内重审品类 / 供应商 = Lanberg 交换机 OEM 的进门窗口；写 Lanberg 产品经理抄 Prezes 办公室；两人联署制（Prezes 或 Wiceprezes 可单独签）→ 合同走 Alankiewicz / Chojnacki。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -135,7 +140,7 @@ updated: 2026-10-27
 | 成立 | 品牌 Lanberg 2015；Impakt S.A. 2015-10 登记（集团更早）（第 91 批 官方登记核实 2026-10-27） |
 | 总部/地址 | ul. Stanisława Lema 16, 62-050 Mosina（波兹南南）（第 91 批 官方登记核实 2026-10-27） |
 | 人数 | Lanberg 品牌页 51–200；Impakt 集团数百人（第 91 批 官方登记核实 2026-10-27） |
-| 其他 | 官网 lanberg.pl，语言 ?，快照状态 http_error；角色判定来源：用户表；**lanberg.pl 不是小店 —— Lanberg 产品线本就含交换机 = OEM 品牌商首选 → 写 Lanberg product manager（Impakt 采购）OEM 30%**；zarząd 待 rejestr.io 补（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | 官网 lanberg.pl，语言 ?，快照状态 http_error；角色判定来源：用户表；**lanberg.pl 不是小店 —— Lanberg 产品线本就含交换机 = OEM 品牌商首选 → 写 Lanberg product manager（Impakt 采购）OEM 30%**；zarząd 待 rejestr.io 补（第 91 批 官方登记核实 2026-10-27）；第 92 批补 zarząd：**2025-07-01 换届** —— Prezes Marcin Chojnacki、Członek Łukasz Wardak 新任，Wiceprezes Tadeusz Alankiewicz（2015 起）留任，创始人 Robert Żurek 夫妇退居监事会；Prezes / Wiceprezes 可单独签 → 新管理层一年内重审品类 = Lanberg 交换机 OEM 进门窗口；RDF 2023–2025 年报已报；KRZ 无记录（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 配件 / 网络产品（品牌 Lanberg）
 - **触达通道（公开）**：role: 波兰 IT 配件品牌商（Lanberg，OEM 采购；体量较大）；region: 波兰；contact: support@lanberg.pl、export@lanberg.pl
@@ -296,12 +301,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

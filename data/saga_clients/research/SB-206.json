@@ -1,148 +1,158 @@
 {
-  "code": "SB-206",
-  "name_official": "Brainboxes Ltd（利物浦）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（brainboxes.com，快照 2026-10-21）",
-  "summary": "英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Brainboxes（自有）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "英国工业数据连接制造商：工业以太网交换机、IoT、串口、IO；终身保修",
-      "quote": "Trusted UK manufacturer of industrial data connectivity. Upgrade: rugged Industrial Ethernet switches, IoT, serial converters & IO. Lifetime warranty & support",
-      "url": "https://brainboxes.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "5/8 电口工业 FS 自己的 logo",
-      "quote": "兴趣：5/8电口工业FS 自己的logo",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Luke Walsh",
-      "title": "（表内联系人）",
-      "email": "luke.walsh@brainboxes.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Stephen Greer",
-      "title": "（表内联系人）",
-      "email": "stephen.greer@brainboxes.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-206",
+ "name_official": "Brainboxes Ltd（利物浦）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（brainboxes.com，快照 2026-10-21）",
+ "summary": "英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Brainboxes（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "英国工业数据连接制造商：工业以太网交换机、IoT、串口、IO；终身保修",
+   "quote": "Trusted UK manufacturer of industrial data connectivity. Upgrade: rugged Industrial Ethernet switches, IoT, serial converters & IO. Lifetime warranty & support",
+   "url": "https://brainboxes.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Brainboxes Ltd",
-    "founded": "1983",
-    "hq": "Liverpool, UK",
-    "size": "中型制造商",
-    "other": "自有工业交换机 SW 系列（部分外购）"
-  },
-  "business_lines": [
-    "工业以太网交换机 / 串口 / IO（自有品牌）"
-  ],
-  "channels": {
-    "role": "英国制造商（OEM 采购）",
-    "region": "英国"
-  },
-  "signals": [
-    "明确：5/8 口工业 FS 贴自己 logo → OEM 入口"
-  ],
-  "risks": [
-    "终身保修要求 → 品质 / 保修条款需谈",
-    "10 次群发无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-080GE",
-    "tier": 30,
-    "why": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。"
-  },
-  "email_hook": "Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 21 封 2025→2026，无记录打开，0 回；收件 luke.walsh@brainboxes.com, sales@brainboxes.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-18「16 Port PoE Managed Switch」；To 仅本户 sales@brainboxes.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@brainboxes.com` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "UK 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 21；用户表：「兴趣：5/8电口工业FS 自己的logo」；研究档 risks：终身保修要求 → 品质 / 保修条款需谈"
-    },
-    "situation": "英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。",
-    "need": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。",
-    "breakpoint": "终身保修要求 → 品质 / 保修条款需谈",
-    "saga_now": {
-      "p1": "STI-080GE",
-      "tier": 30,
-      "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-905 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-19 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
-      "why": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；5 年保修 + 备机是提议，Simon 发前确认）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-02-18",
-        "dir": "out",
-        "who": "Elsa → sales@brainboxes.com",
-        "quote": "16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19519ae2dd3e1a7c"
-      },
-      {
-        "date": "2026-09-04",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-        "why": "21 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-04（21 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：5/8电口工业FS 自己的logo",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2026-09-04",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "16 Port Industrial PoE Switch",
-        "why": "本日去信真实主题（邮箱索引 ee0eb596422705e6；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
-        "k": "ee0eb596422705e6"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "The 5- and 8-port industrial switches you would brand as Brainboxes - and the warranty question",
-      "body": "Hi Luke,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the 5- and 8-port unmanaged industrial switches you would brand as Brainboxes, from small lots, DIN-rail, -40 to 75 C, CE/RoHS/UKCA: 8 x Gigabit, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $18.5. Factory warranty on the industrial units is 3 years.\n\nOne question: your products carry a lifetime warranty - what warranty term do you need from the factory to back that, and does a 5-year term with spare-unit stock on your side do it?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "5/8 电口工业 FS 自己的 logo",
+   "quote": "兴趣：5/8电口工业FS 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Luke Walsh",
+   "title": "（表内联系人）",
+   "email": "luke.walsh@brainboxes.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Managing Director 兼登记 Director（2015-04-20 起；Walsh 家族二代；Companies House 03245094）= 拍板人 —— **守界：利物浦家族制造商（1984 起，自产串口 / 以太网 IO 模块 + 工业交换机，「Made in Britain + 终身保修」）= 我们 STI 对其是竞品而非货源 → B 不加厚**；唯一缝隙：PoE / 千兆管理型口数少，可问采购经理 Kevin Whittaker 是否补一款 OEM（与「Made in Britain」冲突，概率低）；21 封无回 = 没需求（第 92 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Stephen Greer",
+   "title": "（表内联系人）",
+   "email": "stephen.greer@brainboxes.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Sales Director 兼登记 Director（2023-07-11 起）= 销售口（同行，不发价格表）（第 92 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Kevin Whittaker",
+   "role": "Purchasing Manager（RocketReach）= 采购口（唯一可能的 OEM 补缺对话人）（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://rocketreach.co/brainboxes-ltd-profile_b5c74e47f42e0d1b"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "BRAINBOXES LIMITED（Companies House 03245094；VAT GB 414 5683 52；DUNS 525564092；曾用名 Brain Boxes Limited 1996–2006）",
+  "founded": "1996-09-03（业务 1984 起）（第 92 批 官方登记核实 2026-10-28）",
+  "hq": "18 Hurricane Court, Hurricane Drive, Speke, Liverpool L24 8RL（0151 220 2500）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "中小型（家族制造商）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "自有工业交换机 SW 系列（部分外购）；董事：Eamonn Thomas Walsh（创始人，兼 Secretary）/ Patricia Anne Walsh / Luke James Walsh / Joanne Walsh（2023-07）/ Stephen John Greer（2023-07）；PSC 3 名（Walsh 家族）；账目至 2025-10-31 已报，下期 2027-07-31（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "中小型（估 30–60 人；第三方营收 $7.8M 仅区间）；SIC 26512（第 92 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "工业以太网交换机 / 串口 / IO（自有品牌）"
+ ],
+ "channels": {
+  "role": "英国制造商（OEM 采购）",
+  "region": "英国"
+ },
+ "signals": [
+  "明确：5/8 口工业 FS 贴自己 logo → OEM 入口"
+ ],
+ "risks": [
+  "终身保修要求 → 品质 / 保修条款需谈",
+  "10 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-080GE",
+  "tier": 30,
+  "why": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。"
+ },
+ "email_hook": "Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 21 封 2025→2026，无记录打开，0 回；收件 luke.walsh@brainboxes.com, sales@brainboxes.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-18「16 Port PoE Managed Switch」；To 仅本户 sales@brainboxes.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@brainboxes.com` 仅此 1 条，complete）（第 74 批(m)）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21；用户表：「兴趣：5/8电口工业FS 自己的logo」；研究档 risks：终身保修要求 → 品质 / 保修条款需谈"
+  },
+  "situation": "英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。",
+  "need": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。",
+  "breakpoint": "终身保修要求 → 品质 / 保修条款需谈",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 30,
+   "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-905 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-19 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+   "why": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；5 年保修 + 备机是提议，Simon 发前确认）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-02-18",
+    "dir": "out",
+    "who": "Elsa → sales@brainboxes.com",
+    "quote": "16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19519ae2dd3e1a7c"
+   },
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "21 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-04（21 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：5/8电口工业FS 自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 ee0eb596422705e6；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "ee0eb596422705e6"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "The 5- and 8-port industrial switches you would brand as Brainboxes - and the warranty question",
+   "body": "Hi Luke,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the 5- and 8-port unmanaged industrial switches you would brand as Brainboxes, from small lots, DIN-rail, -40 to 75 C, CE/RoHS/UKCA: 8 x Gigabit, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $18.5. Factory warranty on the industrial units is 3 years.\n\nOne question: your products carry a lifetime warranty - what warranty term do you need from the factory to back that, and does a 5-year term with spare-unit stock on your side do it?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

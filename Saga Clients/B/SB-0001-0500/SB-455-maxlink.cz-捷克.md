@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,7 +72,7 @@ updated: 2026-10-27
 - `maxlink.cz` → 无 MX（只有 A 记录 172.67.174.128/104.21.40.16）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
 - `maxlink.eu` → 无 MX（只有 A 记录 104.21.5.32/172.67.132.219）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
 
-**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -266,12 +266,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

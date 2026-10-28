@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -148,7 +148,7 @@ updated: 2026-10-27
 |---|---|
 | 法定名称 | GelecekBT Bilgi Teknolojileri |
 | 总部/地址 | Istanbul（Şişli，Perpa Ticaret Merkezi）, 土耳其 |
-| 其他 | Planet 渠道档案 PB-054（2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json）；自有品牌：疑似（待首触核实）：独家分销的 CLR Networks 为其工业 PoE 类目主力（品牌计数 CLR Networks 44 / Planet 3 / 3Onedata 3），有独立品牌站 clrnetworks.com（英文、无公司信息），型号命名（CLR-IES-G82P / G824P / 4361P / M12S-5008P）为中国 ODM 通用命名 → 大概率为其自控贴牌线；最大未知：CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效 |
+| 其他 | Planet 渠道档案 PB-054（2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json）；自有品牌：疑似（待首触核实）：独家分销的 CLR Networks 为其工业 PoE 类目主力（品牌计数 CLR Networks 44 / Planet 3 / 3Onedata 3），有独立品牌站 clrnetworks.com（英文、无公司信息），型号命名（CLR-IES-G82P / G824P / 4361P / M12S-5008P）为中国 ODM 通用命名 → 大概率为其自控贴牌线；最大未知：CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效；**第 92 批核实：gelecekbt.com 与 Telkolink（SB-100）同一老板 Yusuf Ölçer（LinkedIn「Gelecekbt.com General Manager」+ telkolink.com 联系页）→ 本户并线到 SB-100，不单独发信**；外部库 XB-C0688 同样并线（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商/经销（2004 年起；以太网交换机、PoE 与工业交换机、SFP、光纤/视频转换器、CCTV、工业串口通信、结构化布线；CLR Networks 土耳其独家分销 + ONET / Telkolink / Netkablo 分销；2–10 人）
 
@@ -344,12 +344,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -46,7 +46,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Wen-Cheng Lee",
+   "role": "Director（2006-07-31 起）兼 Secretary（2001-10-27 起；英籍，1965 生；身份已核验；Companies House 04256748）= **老板 = 唯一在任高管 = 采购本人** —— 台裔一人公司，2001 起做网络 / 电脑配件分销 24 年；打开 1 次 = 他看过 → 写 Mr Lee 本人；**分销 20%**：STC-028GP / STC-228GP / STC-2224GP 含税到仓价，MOQ 1 箱，100% 预付（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/04256748/officers"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -55,10 +63,12 @@
   "level": "B 级加厚 v1（官网 + Companies House 核对）"
  },
  "company_facts": {
-  "legal_name": "Addon Technology Ltd（Companies House 04256748，2001-07-23；SIC 62090）",
-  "hq": "Ground Floor, Building 3, North London Business Park, Oakleigh Road South, London N11 1GN（+44 844 801 1286）",
-  "size": "<$5M（ZoomInfo）；小型",
-  "other": "渠道：distributors / system builders / VARs / e-traders across Europe"
+  "legal_name": "ADDON TECHNOLOGY LTD（Companies House 04256748）",
+  "hq": "Ground Floor, Building 3, Oakleigh Road South, North London Business Centre, London N11 1GN（第 92 批 官方登记核实 2026-10-28）",
+  "size": "微型（华人小分销，有进口经验）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "渠道：distributors / system builders / VARs / e-traders across Europe；账目至 2025-03-31 已报，下期 2026-12-31 到期；前董事 Tsuen Her Ling（同住址）2015-08 辞任；PSC 待补（推定 Lee 100%）（第 92 批 官方登记核实 2026-10-28）",
+  "founded": "2001-07-23（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "微型（估 2–10 人）；SIC 62090（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "ADDON 品牌 SOHO 网络产品（路由器、WiFi 扩展器、网卡、有线网络）",

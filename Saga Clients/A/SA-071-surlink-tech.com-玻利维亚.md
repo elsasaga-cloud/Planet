@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,7 +88,7 @@ updated: 2026-10-27
 
 - `surlink-tech.com` → 同域名 MX → 托管在 gcomhost.com（MX：_dc-mx.08cd7b53df1b.surlink-tech.com）。主机商附带邮箱（同域名 MX → 托管在 gcomhost.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（玻利维亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（玻利维亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -333,12 +333,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-11**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

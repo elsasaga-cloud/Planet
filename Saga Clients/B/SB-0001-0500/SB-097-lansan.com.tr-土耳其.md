@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,10 +85,24 @@ updated: 2026-10-27
 
 - `lansan.com.tr` → 土耳其主机商邮箱（MX：ni-spamexperts.guzel.net.tr、mt-spamexperts.guzel.net.tr）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+
+**公司底数 · 第 92 批（TR · 1 次检索：find.com.tr 工商镜像（ünvan / 类型 / 成立日 / 区）+ lansan.com.tr 首页（光纤配线架制造商自述）+ everychina「Shenzhen Lianxun High-Tech & LANSAN INTL LIMITED」（品牌 Lansan，200–300 人，2003），2026-10-28 查；https://www.find.com.tr/Company/lansanteknolojianonimsirketi）：**
+
+- 法定名 / 登记号：Lansan（lansan.com.tr；Şişli / İstanbul） · Mersis / VKN 未取 · 状态 **Aktif（域在用，2019-12 设立）** · 成立 2019-12-04 · Anonim Şirket（多股东 A.Ş.）
+- 行业码 / 经营范围：网络连接器材批发 + 光纤配线架制造（SFP/QSFP/DAC、交换机、光纤、防雷、门禁、机柜、线缆）
+- 注册地址：Şişli / İstanbul（街道地址未取）
+- 规模档：小型（估 5–20 人）
+- 账目：—；—
+- 高管：董事会成员未取（A.Ş.；find.com.tr 不列姓名）
+- **这意味着什么：**
+  - **2019 年底新设的多股东 A.Ş.，自有 Lansan 标签 + 自产光纤配线架 = 典型「有进口经验的自有品牌商」** → OEM 30% 线（MC 交换机 / 8–24 口 PoE 贴 Lansan 标），不走分销价
+  - **同名陷阱 / 供货链警示：深圳联迅（Shenzhen Lianxun）用「LANSAN INTL LIMITED」+ Lansan 品牌出口，成立 2003、200–300 人** → 土耳其 Lansan 极可能是该深圳品牌的土耳其公司 / 总代（名称完全一致、品类一致）→ 已有中国货源，PoE 交换机大概率也从同源拿 → 期望值调低：只给一页价 + 一款样机价，不再加厚
+  - 信件写采购 / 产品经理（无官方姓名）；A.Ş. 多股东 = 签单在董事会，不必追个人
+- 备注：研究档「MC switch 自己的 logo」与本批「深圳 Lansan 品牌」相互印证：标签是他们的，货可能是深圳的。
 
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
@@ -152,8 +166,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 lansan.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | LANSAN TEKNOLOJİ ANONİM ŞİRKETİ（tabela：Lansan Network Bağlantı Ekipmanları；find.com.tr） |
+| 成立 | 2019-12-04（Şişli / İstanbul）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Şişli / İstanbul（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 小型（估 5–20 人）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 lansan.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表；**供货链警示：深圳联迅 Shenzhen Lianxun High-Tech 以「LANSAN INTL LIMITED」+ Lansan 品牌出口（2003 起，200–300 人）→ 土耳其 Lansan 极可能是该深圳品牌的土方公司 / 总代 = 已有中国货源** → 只给一页价 + 一款样机价，不加厚；OEM 30% 口径（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络连接设备 / 光纤配线架（自有品牌 LANSAN）；PoE 交换机 / MC / SFP（自有 LNS 系列）
 
@@ -340,12 +357,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 60）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 60）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

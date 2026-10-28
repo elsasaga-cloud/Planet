@@ -41,7 +41,22 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Eduard Mushkatin",
+   "role": "Geschäftsführer / 创始股东（2006 起；AG Düsseldorf HRB 60247；XING 对外联系人）= **老板 = 联系人**（抄 Igor Balter）—— 自有品牌 BALTER（视频监控 / 门禁 / 报警全系贴标，研究档记 Utepo / 洪瑞 PoE）= OEM 品牌商序列第一位，现 PoE 货源是深圳同类 → **OEM 30% 一对一替代**（按 balter.de 在售 PoE 型号列对照：4/8/16 口 + 工业 DIN，贴 BALTER 标、德语包装）；品牌已外延到厨电 = 精力分散 → 一封讲清价差即可（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.balter.de/impressum"
+  },
+  {
+   "name": "Igor Balter",
+   "role": "Geschäftsführer / 创始股东（公司冠名人）= 老板，抄送（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.northdata.com/Balter%20GmbH,%20Langenfeld%20(Rheinland)/Amtsgericht%20D%C3%BCsseldorf%20HRB%2060247"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -50,8 +65,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 balter.de，语言 de-de，快照状态 ok；角色判定来源：用户表"
+  "hq": "Elisabeth-Selbert-Str. 19, 40764 Langenfeld (Rheinland)（+49 211 22975914）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 balter.de，语言 de-de，快照状态 ok；角色判定来源：用户表；两位 GF / 创始股东 Igor Balter + Eduard Mushkatin；单笔 $3–10k，T/T 50/50；复盘 2027-03（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "Balter GmbH（原 Balter Security GmbH；AG Düsseldorf HRB 60247；USt DE263994622；LEI 9845005D0A88DC60F633）",
+  "founded": "2006（业务）/ 2008-12-23 登记（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "小型（估 10–30 人）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "小型（安防自有品牌 + 网店 redshop.de；Stammkapital €25,000）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "视频监控 / 可视门禁 / 报警（自有品牌 Balter）"

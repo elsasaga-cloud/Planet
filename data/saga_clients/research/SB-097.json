@@ -46,8 +46,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 lansan.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "Şişli / İstanbul（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 lansan.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表；**供货链警示：深圳联迅 Shenzhen Lianxun High-Tech 以「LANSAN INTL LIMITED」+ Lansan 品牌出口（2003 起，200–300 人）→ 土耳其 Lansan 极可能是该深圳品牌的土方公司 / 总代 = 已有中国货源** → 只给一页价 + 一款样机价，不加厚；OEM 30% 口径（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "LANSAN TEKNOLOJİ ANONİM ŞİRKETİ（tabela：Lansan Network Bağlantı Ekipmanları；find.com.tr）",
+  "founded": "2019-12-04（Şişli / İstanbul）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "小型（估 5–20 人）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "小型（多股东 A.Ş.；自有标签 + 自产光纤配线架）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络连接设备 / 光纤配线架（自有品牌 LANSAN）",

@@ -1,167 +1,173 @@
 {
-  "code": "SB-174",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（karerguvenlik.com，快照 2026-10-21）",
-  "summary": "土耳其 Karer Güvenlik Sistemleri（报警与安防摄像机批发零售；自有 KR- 标 PoE 交换机 KR-S1710GU-AP（8+2 千兆 PoE）/ KR-S310CF-AP（8+2 百兆）/ KR-S1718CFU-AP、Hitachi 4+2 PoE；表内「商业 PoE」「质量一般」；KP Nurbaki Karatas（Company Owner）、Samet Sahin（Director of Technical Services））；表内 2 次跟进无回复。",
-  "type": "安防批发商（土耳其，自有 KR 标 PoE，OEM 采购）",
-  "size": "",
-  "brands_seen": [
-    "Hitachi"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Karer Güvenlik Sistemleri；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-      "quote": "Karer Güvenlik Sistemleri alarm ve güvenlik kamerası sektöründe toptan ve perakende satışı yapmakta olan kurumsal bir şirkettir...",
-      "url": "https://karerguvenlik.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业PoE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Karer Güvenlik 定位",
-      "quote": "Karer Güvenlik Sistemleri alarm ve güvenlik kamerası sektöründe toptan ve perakende satışı yapmakta olan kurumsal bir şirkettir...",
-      "url": "https://karerguvenlik.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业 PoE",
-      "quote": "商业PoE；质量一般",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Nurbaki Karatas",
-      "title": "Company Owner",
-      "email": "info@karerguvenlik.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Samet Sahin",
-      "title": "Director of Technical Services",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-174",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（karerguvenlik.com，快照 2026-10-21）",
+ "summary": "土耳其 Karer Güvenlik Sistemleri（报警与安防摄像机批发零售；自有 KR- 标 PoE 交换机 KR-S1710GU-AP（8+2 千兆 PoE）/ KR-S310CF-AP（8+2 百兆）/ KR-S1718CFU-AP、Hitachi 4+2 PoE；表内「商业 PoE」「质量一般」；KP Nurbaki Karatas（Company Owner）、Samet Sahin（Director of Technical Services））；表内 2 次跟进无回复。",
+ "type": "安防批发商（土耳其，自有 KR 标 PoE，OEM 采购）",
+ "size": "",
+ "brands_seen": [
+  "Hitachi"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Karer Güvenlik Sistemleri；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Karer Güvenlik Sistemleri alarm ve güvenlik kamerası sektöründe toptan ve perakende satışı yapmakta olan kurumsal bir şirkettir...",
+   "url": "https://karerguvenlik.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "土耳其",
-    "other": "官网 karerguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业PoE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "报警 / 安防摄像机批发零售（自有标 KR）"
-  ],
-  "channels": {
-    "role": "安防批发商（土耳其，自有 KR 标 PoE，OEM 采购）",
-    "region": "土耳其",
-    "contact": "info@karerguvenlik.com"
+  {
+   "kind": "官网快照",
+   "claim": "Karer Güvenlik 定位",
+   "quote": "Karer Güvenlik Sistemleri alarm ve güvenlik kamerası sektöründe toptan ve perakende satışı yapmakta olan kurumsal bir şirkettir...",
+   "url": "https://karerguvenlik.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "页面 /network-ekipmanlari/switchler/8-port/prd-kr-s1710gu-ap-82-port-poe-gbps-switch、/…/prd-kr-s310cf-ap-82-port-poe-mbps-switch、/…/4-port/prd-hiitachi-42-poe-swich；站内 KR-S1718CFU-AP",
-    "官网：alarm ve güvenlik kamerası sektöründe toptan ve perakende satışı yapmakta olan kurumsal bir şirkettir；KP Nurbaki Karatas / Company Owner；Samet Sahin / Director of Technical Services"
-  ],
-  "risks": [
-    "土耳其：汇率敏感；现代工（深圳）价格基准低；表内「质量一般」",
-    "2 次跟进无回复 → 改向 Owner 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有 KR-S1710GU-AP（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 KR 标；百兆位 HRUI STC-028GFP（$17.6）；16 口位 STC-2216GPM（HRUI 列表价）"
-  },
-  "email_hook": "Nurbaki, for the KR-S1710GU-AP / KR-S310CF-AP PoE switches under your label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget FE/GE unmanaged PoE models from small lots in your packaging, CE/RoHS, EXW USD — which KR model do you reorder most?",
-  "products_seen": [
-    {
-      "brand": "Karer（自有标）",
-      "model": "KR-S1710GU-AP",
-      "spec": "8 PoE + 2 千兆上联",
-      "saga": "STC-28DGGPM",
-      "url": "https://www.karerguvenlik.com/network-ekipmanlari/switchler/8-port/prd-kr-s1710gu-ap-82-port-poe-gbps-switch",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Karer（自有标）",
-      "model": "KR-S310CF-AP",
-      "spec": "8 PoE 百兆 + 2 上联",
-      "saga": "HRUI STC-028GFP（列表价，注明）",
-      "url": "https://karerguvenlik.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 info@karerguvenlik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）",
-      "type": "安防批发商（土耳其，自有 KR 标 PoE，OEM 采购）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "TR 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE」；研究档 risks：土耳其：汇率敏感；现代工（深圳）价格基准低；表内「质量一般」；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-    },
-    "situation": "土耳其 Karer Güvenlik Sistemleri（报警与安防摄像机批发零售；自有 KR- 标 PoE 交换机 KR-S1710GU-AP（8+2 千兆 PoE）/ KR-S310CF-AP（8+2 百兆）/ KR-S1718CFU-AP、Hitachi 4+2 PoE；表内「商业 PoE」「质量一般」；KP Nurbaki Karatas（Company Owner）、Samet Sahin（Director of Technical Services））；表内 2 次跟进无回复。",
-    "need": "自有 KR-S1710GU-AP（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 KR 标；百兆位 HRUI STC-028GFP（$17.6）；16 口位 STC-2216GPM（HRUI 列表价）",
-    "breakpoint": "土耳其：汇率敏感；现代工（深圳）价格基准低；表内「质量一般」",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
-      "why": "自有 KR-S1710GU-AP（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 KR 标；百兆位 HRUI STC-028GFP（$17.6）；16 口位 STC-2216GPM（HRUI 列表价）。已打开的主题（1/18 封有打开记录）：「2.5G Ethernet Switch」(2024-07-29) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Nurbaki, for the KR-S1710GU-AP / KR-S310CF-AP PoE switches under your label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget FE/GE unmanaged PoE models from small lots in your packaging, CE/RoHS, EXW USD — which KR model do you reorder most?"
-    },
-    "facts": [
-      {
-        "date": "2025-04-03",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@karerguvenlik.com, karerguvenlik.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-06",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-        "why": "18 封 / 1 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-10-06（18 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "商业PoE",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "商业PoE；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Nurbaki Karataş",
+   "title": "Company Owner",
+   "email": "info@karerguvenlik.com",
+   "phone": "",
+   "source": "用户表",
+   "role": "CEO / 创始人（2006–今；PESİAD 会员代表；ZoomInfo / RocketReach）= **老板 = 联系人 = 拍板人** —— 公司 = Pendik 1000 m² 批零兼营安防店（11–50 人）→ 分销 20%：STC-028GP / STC-228GP 配相机套装，样机 1 台付费（第 92 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Samet Sahin",
+   "title": "Director of Technical Services",
+   "email": "",
+   "phone": "",
+   "source": "用户表",
+   "role": "Director of Technical Services（RocketReach）= 技术口，抄送（第 92 批 官方登记核实 2026-10-28）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "Yayalar Mah. Atasever Cd. No:44, Pendik / İstanbul（0216 397 33 88）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 karerguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "Karer Güvenlik Sistemleri Sanayi ve Ticaret Ltd. Şti.",
+  "founded": "2006（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "11–50（datanyze 13）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "小型（报警 + CCTV 批发 & 零售）（第 92 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "报警 / 安防摄像机批发零售（自有标 KR）"
+ ],
+ "channels": {
+  "role": "安防批发商（土耳其，自有 KR 标 PoE，OEM 采购）",
+  "region": "土耳其",
+  "contact": "info@karerguvenlik.com"
+ },
+ "signals": [
+  "页面 /network-ekipmanlari/switchler/8-port/prd-kr-s1710gu-ap-82-port-poe-gbps-switch、/…/prd-kr-s310cf-ap-82-port-poe-mbps-switch、/…/4-port/prd-hiitachi-42-poe-swich；站内 KR-S1718CFU-AP",
+  "官网：alarm ve güvenlik kamerası sektöründe toptan ve perakende satışı yapmakta olan kurumsal bir şirkettir；KP Nurbaki Karatas / Company Owner；Samet Sahin / Director of Technical Services"
+ ],
+ "risks": [
+  "土耳其：汇率敏感；现代工（深圳）价格基准低；表内「质量一般」",
+  "2 次跟进无回复 → 改向 Owner 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 KR-S1710GU-AP（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 KR 标；百兆位 HRUI STC-028GFP（$17.6）；16 口位 STC-2216GPM（HRUI 列表价）"
+ },
+ "email_hook": "Nurbaki, for the KR-S1710GU-AP / KR-S310CF-AP PoE switches under your label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget FE/GE unmanaged PoE models from small lots in your packaging, CE/RoHS, EXW USD — which KR model do you reorder most?",
+ "products_seen": [
+  {
+   "brand": "Karer（自有标）",
+   "model": "KR-S1710GU-AP",
+   "spec": "8 PoE + 2 千兆上联",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.karerguvenlik.com/network-ekipmanlari/switchler/8-port/prd-kr-s1710gu-ap-82-port-poe-gbps-switch",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Karer（自有标）",
+   "model": "KR-S310CF-AP",
+   "spec": "8 PoE 百兆 + 2 上联",
+   "saga": "HRUI STC-028GFP（列表价，注明）",
+   "url": "https://karerguvenlik.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 info@karerguvenlik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）",
+   "type": "安防批发商（土耳其，自有 KR 标 PoE，OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE」；研究档 risks：土耳其：汇率敏感；现代工（深圳）价格基准低；表内「质量一般」；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+  },
+  "situation": "土耳其 Karer Güvenlik Sistemleri（报警与安防摄像机批发零售；自有 KR- 标 PoE 交换机 KR-S1710GU-AP（8+2 千兆 PoE）/ KR-S310CF-AP（8+2 百兆）/ KR-S1718CFU-AP、Hitachi 4+2 PoE；表内「商业 PoE」「质量一般」；KP Nurbaki Karatas（Company Owner）、Samet Sahin（Director of Technical Services））；表内 2 次跟进无回复。",
+  "need": "自有 KR-S1710GU-AP（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 KR 标；百兆位 HRUI STC-028GFP（$17.6）；16 口位 STC-2216GPM（HRUI 列表价）",
+  "breakpoint": "土耳其：汇率敏感；现代工（深圳）价格基准低；表内「质量一般」",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
+   "why": "自有 KR-S1710GU-AP（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 KR 标；百兆位 HRUI STC-028GFP（$17.6）；16 口位 STC-2216GPM（HRUI 列表价）。已打开的主题（1/18 封有打开记录）：「2.5G Ethernet Switch」(2024-07-29) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Nurbaki, for the KR-S1710GU-AP / KR-S310CF-AP PoE switches under your label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget FE/GE unmanaged PoE models from small lots in your packaging, CE/RoHS, EXW USD — which KR model do you reorder most?"
+  },
+  "facts": [
+   {
+    "date": "2025-04-03",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@karerguvenlik.com, karerguvenlik.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 1 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-10-06（18 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业PoE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -92,9 +92,9 @@ updated: 2026-10-27
 
 - `etictelecom.com` → OVH 主机邮箱（MX：mx0.mail.ovh.net、mx1.mail.ovh.net、mx2.mail.ovh.net、mx3.mail.ovh.net）。主机商附带邮箱（OVH 主机邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（法国 · 按下一步「现在 → 两周内」窗口 2026-10-27→2026-11-10）：**
+**假日避让（法国 · 按下一步「现在 → 两周内」窗口 2026-10-28→2026-11-11）：**
 
-- 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
 **公司底数 · 第 86 批（France · API Recherche d'entreprises（官方 SIRENE / RNE JSON，2026-10-26 更新），2026-10-27 查；https://recherche-entreprises.api.gouv.fr/search?q=ETIC%20TELECOM&per_page=1）：**
 
@@ -367,12 +367,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

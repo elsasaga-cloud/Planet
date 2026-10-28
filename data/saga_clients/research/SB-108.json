@@ -53,8 +53,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 gwsecurityusa.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "1230 Santa Anita Ave Ste A, South El Monte, CA 91733（洛杉矶东）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 gwsecurityusa.com，语言 en-US，快照状态 ok；角色判定来源：用户表；BBB 未认证、有发货 / 售后投诉 + Reddit 技术支持差评 = 售后薄弱 → 把 3 年保 / 英文固件 / 远程配置支持写成卖点；**OEM 30%：8/16 口 PoE 贴 GW 标配 NVR 套装**，样机 1 台付费；高管未核 → 抬头 Purchasing（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "GW Security（BBB 档；加州法定名未核）",
+  "founded": "2016-12-08（BBB Business Started）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "小型（估 5–20 人）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "小型（自有品牌安防套装：Amazon + 官网直销）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "自有品牌安防摄像机 / NVR 套装（住宅 + 商用）",

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 92 批（US · 1 次检索：edge-networks.us/about-us（2019 创立；President & CTO Chris Costa，1996 起做安防产品，曾领导 Fiber Options / GE Security / Radiant Communications / Comnet 工程团队；「USA based」坚固通信设备）+ LinkedIn Christopher Costa（President, Edge Networks USA 2020-07–今；此前 Communication Networks VP Eng 2011–2020）+ ZoomInfo（412 Brandam Ln Ste 103, Charleston SC 29492；1–10 人；<$5M；VP Sales Steven Carrozzo）+ Tracxn（2019；工业以太网交换机 / 媒体转换器 / 延长器 / 光纤 modem 制造商；员工 2，2026-01）。SC SoS 页 JS 未取，2026-10-28 查；https://edge-networks.us/index.php/about-us）：**
+
+- 法定名 / 登记号：Edge Networks LLC / Edge Networks USA（edge-networks.us；Charleston, SC） · SC SoS 实体号未取 · 状态 **Active（官网 / LinkedIn 2026）** · 成立 2019（LinkedIn 2020-07 任职起算） · LLC（南卡）
+- 行业码 / 经营范围：工业以太网交换机 / 媒体转换器 / 以太网延长器 / 光纤 modem 自有品牌（安防 / ITS / 工业 / 政府网络边缘）
+- 注册地址：412 Brandam Ln Ste 103, Charleston, SC 29492（(843) 654-9266）
+- 规模档：微型（2–10 人）
+- 账目：—；—
+- 高管：Christopher (Chris) Costa — President & CTO / 创始人（研究档 KP ccosta@）= 老板 = 技术拍板 = 联系人
+- 高管：Steven Carrozzo — VP Sales
+- 控制人 / 股东：Chris Costa（推定）
+- **这意味着什么：**
+  - **这就是目标序列第一位「OEM 品牌商」的标准像：前 Comnet / GE Security 工程总监自己开的 2–10 人品牌，产品线 = MC + 工业交换机 + 延长器，全部外采贴标** → **OEM 30% 全线**：STI-154GP / STI-288DGGPM 工业 DIN + MC 系列 + 8/16 口 PoE，贴 Edge Networks 标，提供英文固件 / 定制 logo / 3 年保
+  - 老板是工程师（1996 起设计安防产品）→ 信写技术参数不写话术：芯片、温宽、MTBF、认证（CE/FCC/RoHS，**不写 UL / NDAA**）；30 封群发无回 = 群发内容不对路，第二封换成「spec sheet + 一款样机价」
+  - 「USA based」是他的卖点 = 贴标后他不会提中国来源，正合我们「中性包装」；单笔 $3–10k，T/T 50/50
+  - 复盘：每季看他官网新品型号（出现与我们口型重合的新品 = 已找到别家 OEM）
+- 备注：建议升 A 候选（证据：自有品牌 + 全外采 + 老板即 KP）；Simon 定级优先，先留 B 标「OEM 首选」。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,15 +148,19 @@ updated: 2026-10-27
 - **【用户表】MC Switch 自己的牌子**
   > MC Switch 自己的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Christopher Costa（）ccosta@edge-networks.us 〔用户表〕
+- **KP**：Christopher (Chris) Costa（President & CTO / 创始人（2019；前 Comnet VP Eng 2011–2020、Radiant Communications 工程总监、GE Security 工程总监，1996 起设计安防产品）= **老板 = 技术拍板 = 联系人** —— **目标序列第一位「OEM 品牌商」标准像：2–10 人自有品牌，产品线 = MC + 工业交换机 + 延长器 + 光纤 modem，全部外采贴标 → OEM 30% 全线**（STI-154GP / STI-288DGGPM 工业 DIN + MC + 8/16 口 PoE 贴 Edge Networks 标）；信写参数（芯片 / 温宽 / MTBF / CE-FCC-RoHS，**不写 UL / NDAA**），第二封 = spec sheet + 一款样机价；建议升 A 候选（第 92 批 官方登记核实 2026-10-28））ccosta@edge-networks.us 〔用户表〕
+- **KP**：Steven Carrozzo（Vice President, Sales（ZoomInfo）= 商务口，抄送（第 92 批 官方登记核实 2026-10-28）） 〔https://www.zoominfo.com/pic/edge-networks/482033602〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 edge-networks.us，语言 en-gb，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Edge Networks LLC / Edge Networks USA（Charleston, SC；SC SoS 号未取） |
+| 成立 | 2019（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 412 Brandam Ln Ste 103, Charleston, SC 29492（(843) 654-9266）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 2–10（Tracxn 2 / ZoomInfo 1–10）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 edge-networks.us，语言 en-gb，快照状态 ok；角色判定来源：用户表；「USA based」是其卖点 = 贴标后不提来源，正合中性包装；单笔 $3–10k，T/T 50/50；复盘：每季看官网新品型号（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业交换机 / MC（自有品牌 Edge Networks）
 
@@ -249,7 +270,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Christopher Costa | — | ccosta@edge-networks.us | 调研核实（公开页） | 用户表 |
+| Christopher (Chris) Costa | President & CTO / 创始人（2019；前 Comnet VP Eng 2011–2020、Radiant Communications 工程总监、GE Security 工程总监，1996 起设计安防产品）= **老板 = 技术拍板 = 联系人** —— **目标序列第一位「OEM 品牌商」标准像：2–10 人自有品牌，产品线 = MC + 工业交换机 + 延长器 + 光纤 modem，全部外采贴标 → OEM 30% 全线**（STI-154GP / STI-288DGGPM 工业 DIN + MC + 8/16 口 PoE 贴 Edge Networks 标）；信写参数（芯片 / 温宽 / MTBF / CE-FCC-RoHS，**不写 UL / NDAA**），第二封 = spec sheet + 一款样机价；建议升 A 候选（第 92 批 官方登记核实 2026-10-28） | ccosta@edge-networks.us | 调研核实（公开页） | 用户表 |
+| Steven Carrozzo | Vice President, Sales（ZoomInfo）= 商务口，抄送（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.zoominfo.com/pic/edge-networks/482033602 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -343,12 +365,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,7 +74,7 @@ updated: 2026-10-27
 
 - `synchronet.net` → Microsoft 365（MX：synchronet-net.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
@@ -288,12 +288,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

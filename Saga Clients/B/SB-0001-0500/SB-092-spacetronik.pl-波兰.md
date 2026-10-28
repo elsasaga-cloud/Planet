@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,6 +84,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 92 批（PL · 1 次检索：wyszukiwarkakrs / bizraport / aleo / gowork（KRS 0000993625；NIP 6981862105；REGON 523197029；2022-09-23 登记；股本 50,000 zł = 1,000 股全部由 Mikołaj Adam Tomaszewski 持有；Prezes Zarządu 同人；bizraport 财报：营收 29.7 mln zł / 资产 22.3 mln zł；KRZ 无破产重整）+ okredo（VAT 活跃 2022-09-29；主 PKD 46.65.Z 办公家具批发 —— 登记分类与实际电子品类不符）+ spacetronik.pl 联系页（店主 NIP 6981681757 / REGON 300138031 = 同一老板更早的个体户 JDG），2026-10-28 查；https://www.bizraport.pl/krs/0000993625/spacetronik-spolka-z-ograniczona-odpowiedzialnoscia）：**
+
+- 法定名 / 登记号：Spacetronik Sp. z o.o.（spacetronik.pl；Kościan, wielkopolskie） · KRS 0000993625 · NIP 6981862105 · REGON 523197029（旧个体户 NIP 6981681757） · 状态 **Aktywna（VAT 活跃；KRZ 无记录；最近登记 2025-06-04）** · 成立 2022-09-23（sp. z o.o.；个体户 ≈2005 起，REGON 3001 段） · Spółka z o.o.（股本 50,000 zł，一人持股）
+- 行业码 / 经营范围：PKD 46.65.Z（登记）；实际：消费 / 安装电子自有品牌 Spacetronik（电视支架、天线、网络 / PoE 交换机、智能家居）电商 + 批发
+- 注册地址：ul. Wiśniowa 36, 64-000 Kościan（波兹南以南）
+- 规模档：中小型（估 30–80 人；营收 ≈$7M）
+- 账目：KRS 财报：营收 ≈29.7 mln zł（≈$7.4M）、资产 22.3 mln zł（年度未标，取最近一期）；PL：年报 7 月前报 KRS → 7 月复盘
+- 高管：Mikołaj Adam Tomaszewski — Prezes Zarządu 兼唯一股东（1,000 股）= 老板 = 签单人
+- 控制人 / 股东：Mikołaj Adam Tomaszewski 100%
+- 抵押 / 诉讼 / 担保：无（KRZ 无记录）
+- 曾用名：（个体户 Spacetronik Mikołaj Tomaszewski，NIP 6981681757）
+- **这意味着什么：**
+  - **一人持股、年营收 ≈3,000 万 zł 的自有品牌电商（Spacetronik 标，研究档记「洪瑞 工商 switch 自己 logo」）= OEM 品牌商序列第一位，且现货源是深圳同类** → **OEM 30% 一对一替代**：按 spacetronik.pl 在售 PoE / 工商交换机型号列对照（8/16/24 口 PoE、工业 DIN），贴 Spacetronik 标 + 波兰语包装；MOQ 1 箱起、量大按 20 尺柜谈
+  - 老板 Mikołaj Tomaszewski 既是唯一股东又是总裁 → 没有采购部门绕路；17 封群发无回 = 群发不对路 → 第二封直接写他本人（英文），附对照表
+  - 2022 才从个体户改制 + 资产 2,230 万 zł = 在扩张期，现金充裕 → 可谈 T/T 30/70；复盘 2027-07 看 2026 年报
+- 备注：建议升 A 候选（证据：自有品牌 + 深圳货源 + 老板即签单人 + 营收 ≈$7M）；Simon 定级优先。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,14 +144,18 @@ updated: 2026-10-27
 - **【用户表】HRUI 代工贴自己 logo，工商 switch**
   > 洪瑞的 贴了自己的logo / 工商Switch；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mikołaj Adam Tomaszewski（Prezes Zarządu 兼唯一股东（1,000 股 / 50,000 zł；KRS 0000993625；个体户 NIP 6981681757 ≈2005 起）= **老板 = 签单人 = 联系人** —— **一人持股、年营收 ≈29.7 mln zł（≈$7.4M）的自有品牌电商（Spacetronik 标，研究档记「洪瑞 工商 switch 自己 logo」）= OEM 品牌商序列第一位，现货源是深圳同类 → OEM 30% 一对一替代**（按 spacetronik.pl 在售 PoE / 工商交换机型号列对照，贴 Spacetronik 标 + 波兰语包装），MOQ 1 箱起、量大按柜谈；资产 22.3 mln zł = 扩张期 → T/T 30/70 可谈；建议升 A 候选（第 92 批 官方登记核实 2026-10-28）） 〔https://www.bizraport.pl/krs/0000993625/spacetronik-spolka-z-ograniczona-odpowiedzialnoscia〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 spacetronik.pl，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Spacetronik Sp. z o.o.（KRS 0000993625 · NIP 6981862105 · REGON 523197029） |
+| 成立 | 2022-09-23（sp. z o.o.；个体户 ≈2005 起）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Wiśniowa 36, 64-000 Kościan（波兹南以南）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 中小型（估 30–80 人）；营收 ≈29.7 mln zł / 资产 22.3 mln zł（KRS 财报）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 spacetronik.pl，语言 en，快照状态 ok；角色判定来源：用户表；登记主 PKD 46.65.Z（办公家具批发）与实际品类不符；VAT 活跃；KRZ 无记录；复盘 2027-07（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：自有品牌电子/安装/办公产品商店；网络交换机（HRUI 代工贴标）
 
@@ -225,7 +246,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | store@spacetronik.eu | 用户表原值 | Clients/ 表 |
+| Mikołaj Adam Tomaszewski | Prezes Zarządu 兼唯一股东（1,000 股 / 50,000 zł；KRS 0000993625；个体户 NIP 6981681757 ≈2005 起）= **老板 = 签单人 = 联系人** —— **一人持股、年营收 ≈29.7 mln zł（≈$7.4M）的自有品牌电商（Spacetronik 标，研究档记「洪瑞 工商 switch 自己 logo」）= OEM 品牌商序列第一位，现货源是深圳同类 → OEM 30% 一对一替代**（按 spacetronik.pl 在售 PoE / 工商交换机型号列对照，贴 Spacetronik 标 + 波兰语包装），MOQ 1 箱起、量大按柜谈；资产 22.3 mln zł = 扩张期 → T/T 30/70 可谈；建议升 A 候选（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.bizraport.pl/krs/0000993625/spacetronik-spolka-z-ograniczona-odpowiedzialnoscia |
 
 - **通道建议**：企业邮箱可直发
 
@@ -294,7 +315,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Mikołaj,
 
 Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 3 April 2025 - and there was no reason to answer a mass mail. This one is specific. For the Spacetronik-branded switch range, we can add a Marvell-based tier above your current models — 8-PoE + 2 SFP L2+ and 24-GE + 4×10G L2+ — from small lots in your housing and packaging, CE/RoHS; which of the two would fit your catalogue first?
 
@@ -319,12 +340,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 65）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 65）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -45,7 +45,15 @@
    "title": "Tech Director",
    "email": "tek@genieproducts.co.uk",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Technical Director（LeadIQ「T.O.」；2008 起在 Genie，非登记董事）= 技术口 / 样机测试人 —— **法定主体 BIOACCESS SALES LIMITED（12058650，2019-06 新设）；2023-03-21 两位创始董事同日辞任、Sharon Gorf 独任董事 = 公司换手，新东家两年内重审供应链 = 进门时机**；「Designed in Britain」Trade Only 安防自有品牌，全部外采贴标 → **OEM 30%：PoE 交换机贴 Genie 标配 IP 相机 / NVR**，第二封一页（单价 + 定制 logo / 包装 + UKCA）（第 92 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Sharon Gorf",
+   "role": "Director（唯一在任，2023-03-21 起；Companies House 12058650；身份已核验）= **现老板 / 签单人**（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://find-and-update.company-information.service.gov.uk/company/12058650/officers"
   }
  ],
  "grade_override": null,
@@ -56,8 +64,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 genieproducts.co.uk，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+  "hq": "营业 Caxton Point Business Centre, Caxton Way, Stevenage SG1 2XU；注册 c/o Becktech Limited, Terminus Road, Chichester PO19 8DW（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 genieproducts.co.uk，语言 en-GB，快照状态 ok；角色判定来源：用户表；账目至 2025-11-30 已报，下期 2027-08-31 到期；PSC 待补；微型账目 → T/T 50/50、MOQ 1 箱（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "BIOACCESS SALES LIMITED t/a Genie Products（Companies House 12058650；VAT GB 325 6941 88；**同名陷阱：Genie Products Ltd 16201440 Newquay / Genie Products Limited 09877102 Uttoxeter 均非本户**）",
+  "founded": "2019-06-19（品牌 Genie 早于此）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "11–50（LeadIQ ≈13）；SIC 26309（第 92 批 官方登记核实 2026-10-28）",
+  "size": "小型（英国安防自有品牌，Trade Only）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "CCTV / 门禁（自有品牌 Genie）",

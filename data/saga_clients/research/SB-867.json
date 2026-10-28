@@ -47,7 +47,8 @@
    "title": "（表内联系人）",
    "email": "murat.soyak@erete.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Kurucu Ortak（三位创始合伙人之一，2001-12 起；ZoomInfo）= **拍板层 = 联系人** —— 公司 = 24 年网络基础设施分销 + 自办「Erete Network Okulu」培训；**已是 XP-Networks（研究档记 Etherwan）工业交换机分销商 = 有工业 PoE 品牌线** → STI 只做第二货源，报价对标同口数 6–7 折，不推 CENTEC；分销 20%（第 92 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Ozen Taylanli",
@@ -65,8 +66,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 erete.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Güven Sok. 4/2, Şişli / İstanbul（+90 212 212 81 03）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 erete.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案",
+  "legal_name": "Erete Bilgi Sistemleri Dış Tic. ve San. Ltd. Şti.",
+  "founded": "2001-12（创始合伙人 Pınar Kabil / Murat Soyak / Timur Yıldız）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "11–50（ZoomInfo）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "小型（网络产品分销 + 培训）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业交换机 / 骨干与边缘交换机 / Open Networking",

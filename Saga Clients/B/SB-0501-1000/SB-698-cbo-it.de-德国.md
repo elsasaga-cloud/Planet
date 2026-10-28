@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +91,24 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 92 批（DE · 1 次检索：Northdata「cbo GmbH, Schliersee」（AG München HRB 93986；原名 cbo Computer- und Bürotechnikvertrieb Oberland GmbH；Miesbacher Str. 16, 83727 Schliersee；股东 BTW-IT GmbH；GF Michael Abel、Thomas Seebauer；Stammkapital 80,000 DEM；经营范围：电脑系统 / 外设 / 软件 / 通信设备销售、规划、维护）。**匹配依据：研究档「主业光模块 / AOC（CBO 品牌）」+ 名称 cbo + 唯一同名 Schliersee 主体；Impressum 未取 → 推定**，2026-10-28 查；https://www.northdata.com/cbo%20GmbH,%20Schliersee/Amtsgericht%20M%C3%BCnchen%20HRB%2093986）：**
+
+- 法定名 / 登记号：cbo GmbH（cbo-it.de；Schliersee —— 推定匹配） · AG München HRB 93986（推定） · 状态 **Aktiv** · 成立 ≈1990 年代（DEM 股本） · GmbH（Stammkapital 80,000 DEM；股东 BTW-IT GmbH）
+- 行业码 / 经营范围：光模块 / AOC / DAC 自有品牌 CBO + 网络设备（工业 FS / MC 副线）；IT 系统销售维护（登记范围）
+- 注册地址：Miesbacher Str. 16, 83727 Schliersee（上巴伐利亚）
+- 规模档：小型（估 10–30 人）
+- 账目：小型公司简表（未取）；3 月复盘
+- 高管：Michael Abel — Geschäftsführer
+- 高管：Thomas Seebauer — Geschäftsführer
+- 高管：Sandra Go — Project Manager（研究档 KP，用户表）
+- 控制人 / 股东：BTW-IT GmbH（控股公司，推定 Abel / Seebauer 持有）
+- 曾用名：cbo Computer- und Bürotechnikvertrieb Oberland GmbH
+- **这意味着什么：**
+  - **光模块自有品牌商（CBO 标 SFP/QSFP/AOC），交换机只是副线** → Saga 不供光模块（Q-32）→ 对他们只有一条线：**CBO 标工业 / 商用交换机 OEM 30%**（配他们自家光模块卖套装），写两位 GF 之一（Michael Abel）而非项目经理
+  - 24 封群发打开 1 次 → 第二封只给「CBO 标 8 口 PoE+2SFP 工业机 $xx / 24 口 +4 SFP 管理型 $xx」两行；MOQ 1 箱
+  - 控股结构（BTW-IT GmbH）+ DEM 股本 = 老牌稳健 → T/T 50/50 可谈；复盘 2027-03
+- 备注：推定匹配；回信后用邮件签名 / Impressum 核 HRB。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -143,15 +161,19 @@ updated: 2026-10-27
 - **【用户表】自己的 logo SFP MC AOC；着重跟**
   > 自己的logo SFP MC AOC等为主；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Sandra Go（）info@cbo-it.de 〔用户表〕
+- **KP**：Sandra Go（Project Manager（用户表）= 项目口 —— **本轮改写 GF Michael Abel**（光模块自有品牌商，交换机只是副线；Saga 不供光模块 Q-32 → 唯一一条线 = **CBO 标工业 / 商用交换机 OEM 30%** 配他们自家光模块卖套装）；第二封只给「CBO 标 8 口 PoE+2SFP 工业机 / 24 口 +4 SFP 管理型」两行价（第 92 批 官方登记核实 2026-10-28））info@cbo-it.de 〔用户表〕
+- **KP**：Michael Abel（Geschäftsführer（Northdata：cbo GmbH, Schliersee, AG München HRB 93986 —— **推定匹配**，回信后以 Impressum 核 HRB）= 老板之一 = 本轮收件人（第 92 批 官方登记核实 2026-10-28）） 〔https://www.northdata.com/cbo%20GmbH,%20Schliersee/Amtsgericht%20M%C3%BCnchen%20HRB%2093986〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 cbo-it.de，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | cbo GmbH（原 cbo Computer- und Bürotechnikvertrieb Oberland GmbH；AG München HRB 93986；股东 BTW-IT GmbH —— 推定匹配） |
+| 成立 | ≈1990 年代（Stammkapital 80,000 DEM）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Miesbacher Str. 16, 83727 Schliersee（上巴伐利亚）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 小型（估 10–30 人）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 cbo-it.de，语言 de，快照状态 ok；角色判定来源：官网文案；GF Michael Abel / Thomas Seebauer；控股 BTW-IT GmbH；T/T 50/50 可谈；复盘 2027-03（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光模块 / DAC / AOC / 跳线 / MPO（自有品牌 BlueOptics，主站 + 商城）
 - **触达通道（公开）**：role: 光模块品牌商（德国，BlueOptics；工业 FS / MC 为副线；用户着重）；region: 德国；contact: info@cbo-it.de
@@ -256,7 +278,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sandra Go | — | info@cbo-it.de | 调研核实（公开页） | 用户表 |
+| Sandra Go | Project Manager（用户表）= 项目口 —— **本轮改写 GF Michael Abel**（光模块自有品牌商，交换机只是副线；Saga 不供光模块 Q-32 → 唯一一条线 = **CBO 标工业 / 商用交换机 OEM 30%** 配他们自家光模块卖套装）；第二封只给「CBO 标 8 口 PoE+2SFP 工业机 / 24 口 +4 SFP 管理型」两行价（第 92 批 官方登记核实 2026-10-28） | info@cbo-it.de | 调研核实（公开页） | 用户表 |
+| Michael Abel | Geschäftsführer（Northdata：cbo GmbH, Schliersee, AG München HRB 93986 —— **推定匹配**，回信后以 Impressum 核 HRB）= 老板之一 = 本轮收件人（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.northdata.com/cbo%20GmbH,%20Schliersee/Amtsgericht%20M%C3%BCnchen%20HRB%2093986 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -352,12 +375,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

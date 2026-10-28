@@ -37,7 +37,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ziqiang (John) He",
+   "role": "CEO / Secretary / CFO / Director / Registered Agent（加州 SoS 2772255 五职一人；官网「创始人 John He」，网络 TAP 发明人）= **老板 = 唯一联系人** —— 一人工程师公司，主业网络 TAP / 同轴传以太网，PoE 交换机只是配套 SKU → B 不加厚；若写只写一句 Dualcomm 标 8 口 PoE OEM 30% 单价 + MOQ 1 箱（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.bizprofile.net/ca/danville/dualcomm-technology-inc"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -46,8 +54,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 dualcomm.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "注册 435 Glasgow Cir, Danville, CA 94526；邮寄 UPS 信箱 2415 San Ramon Valley Blvd #4182, San Ramon, CA 94583（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 dualcomm.com，语言 en，快照状态 ok；角色判定来源：用户表",
+  "legal_name": "Dualcomm Technology, Inc.（California General Corporation；SoS 2772255；Good Standing 四项）",
+  "founded": "2005-09-12（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "1–10（一人公司）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "微型（自研网络 TAP / EoC，网店直销 15,000+ 客户）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络 TAP / EoC / MC（自有品牌 Dualcomm）"

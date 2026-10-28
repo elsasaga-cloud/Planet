@@ -1,146 +1,158 @@
 {
-  "code": "SB-092",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（spacetronik.pl，快照 2026-10-21）",
-  "summary": "波兰 Spacetronik（自有品牌电子/安装/办公人体工学产品官方商店：24 口 2.5G + 10G SFP+ 交换机 SP-SGT124S、LAN PoE 与光纤测试仪、KVM、传感器；表内「HRUI（洪瑞）的，贴了自己的 logo；工商 switch」「质量一般」）；表内 1 次跟进无回复。",
-  "type": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
-  "size": "",
-  "brands_seen": [
-    "HRUI"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Spacetronik.pl - Official Brand Store | Electronics & Technology.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "A complete range of technological, installation, and ergonomic solutions in one place. Everything for a modern home and a professional office. Discover the world of the Spacetronik brand!",
-      "url": "https://spacetronik.pl/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "洪瑞的 贴了自己的logo；工商Switch",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Spacetronik 官方品牌商店",
-      "quote": "Spacetronik.pl - Official Brand Store | Electronics & Technology ; 24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S",
-      "url": "https://spacetronik.pl/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "HRUI 代工贴自己 logo，工商 switch",
-      "quote": "洪瑞的 贴了自己的logo / 工商Switch；质量一般",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-092",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（spacetronik.pl，快照 2026-10-21）",
+ "summary": "波兰 Spacetronik（自有品牌电子/安装/办公人体工学产品官方商店：24 口 2.5G + 10G SFP+ 交换机 SP-SGT124S、LAN PoE 与光纤测试仪、KVM、传感器；表内「HRUI（洪瑞）的，贴了自己的 logo；工商 switch」「质量一般」）；表内 1 次跟进无回复。",
+ "type": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
+ "size": "",
+ "brands_seen": [
+  "HRUI"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Spacetronik.pl - Official Brand Store | Electronics & Technology.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "A complete range of technological, installation, and ergonomic solutions in one place. Everything for a modern home and a professional office. Discover the world of the Spacetronik brand!",
+   "url": "https://spacetronik.pl/en/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "波兰",
-    "other": "官网 spacetronik.pl，语言 en，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "洪瑞的 贴了自己的logo；工商Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "自有品牌电子/安装/办公产品商店",
-    "网络交换机（HRUI 代工贴标）"
-  ],
-  "channels": {
-    "role": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
-    "region": "波兰",
-    "contact": "store@spacetronik.eu"
+  {
+   "kind": "官网快照",
+   "claim": "Spacetronik 官方品牌商店",
+   "quote": "Spacetronik.pl - Official Brand Store | Electronics & Technology ; 24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S",
+   "url": "https://spacetronik.pl/en/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页：24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S；Spacetronik LAN PoE & Fiber Optic Tester",
-    "官网：A complete range of technological, installation, and ergonomic solutions … Discover the world of the Spacetronik brand",
-    "表内：洪瑞的 贴了自己的 logo / 工商 Switch"
-  ],
-  "risks": [
-    "现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线",
-    "自有品牌商店：价格基准低；1 次跟进无回复，无具名 KP（store@）"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号"
-  },
-  "email_hook": "For the Spacetronik-branded switch range, we can add a Marvell-based tier above your current models — 8-PoE + 2 SFP L2+ and 24-GE + 4×10G L2+ — from small lots in your housing and packaging, CE/RoHS; which of the two would fit your catalogue first?",
-  "products_seen": [
-    {
-      "brand": "Spacetronik（自有）",
-      "model": "SP-SGT124S",
-      "spec": "24 口 2.5G + 10G SFP+",
-      "saga": "（Saga 24×2.5G 待核；近位 STC-424XGGM）",
-      "url": "https://spacetronik.pl/en/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 store@spacetronik.eu；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）",
-      "type": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
-      "sieve": "1（只收到群发）",
-      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-      "revive": "不动（Q-33）",
-      "lane": "PL 次级重点",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 17；用户表：「洪瑞的 贴了自己的logo；工商Switch」；研究档 risks：现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-    },
-    "situation": "波兰 Spacetronik（自有品牌电子/安装/办公人体工学产品官方商店：24 口 2.5G + 10G SFP+ 交换机 SP-SGT124S、LAN PoE 与光纤测试仪、KVM、传感器；表内「HRUI（洪瑞）的，贴了自己的 logo；工商 switch」「质量一般」）；表内 1 次跟进无回复。",
-    "need": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号",
-    "breakpoint": "现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）、2024-12-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）",
-      "why": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-04-03",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 spacetronik.eu, store@spacetronik.eu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-24",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "17 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-09-24（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "洪瑞的 贴了自己的logo；工商Switch",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "HRUI 代工贴自己 logo，工商 switch",
+   "quote": "洪瑞的 贴了自己的logo / 工商Switch；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mikołaj Adam Tomaszewski",
+   "role": "Prezes Zarządu 兼唯一股东（1,000 股 / 50,000 zł；KRS 0000993625；个体户 NIP 6981681757 ≈2005 起）= **老板 = 签单人 = 联系人** —— **一人持股、年营收 ≈29.7 mln zł（≈$7.4M）的自有品牌电商（Spacetronik 标，研究档记「洪瑞 工商 switch 自己 logo」）= OEM 品牌商序列第一位，现货源是深圳同类 → OEM 30% 一对一替代**（按 spacetronik.pl 在售 PoE / 工商交换机型号列对照，贴 Spacetronik 标 + 波兰语包装），MOQ 1 箱起、量大按柜谈；资产 22.3 mln zł = 扩张期 → T/T 30/70 可谈；建议升 A 候选（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.bizraport.pl/krs/0000993625/spacetronik-spolka-z-ograniczona-odpowiedzialnoscia"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "ul. Wiśniowa 36, 64-000 Kościan（波兹南以南）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 spacetronik.pl，语言 en，快照状态 ok；角色判定来源：用户表；登记主 PKD 46.65.Z（办公家具批发）与实际品类不符；VAT 活跃；KRZ 无记录；复盘 2027-07（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "Spacetronik Sp. z o.o.（KRS 0000993625 · NIP 6981862105 · REGON 523197029）",
+  "founded": "2022-09-23（sp. z o.o.；个体户 ≈2005 起）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "中小型（估 30–80 人）；营收 ≈29.7 mln zł / 资产 22.3 mln zł（KRS 财报）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "中小型（消费 / 安装电子自有品牌电商 + 批发）（第 92 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "自有品牌电子/安装/办公产品商店",
+  "网络交换机（HRUI 代工贴标）"
+ ],
+ "channels": {
+  "role": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
+  "region": "波兰",
+  "contact": "store@spacetronik.eu"
+ },
+ "signals": [
+  "首页：24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S；Spacetronik LAN PoE & Fiber Optic Tester",
+  "官网：A complete range of technological, installation, and ergonomic solutions … Discover the world of the Spacetronik brand",
+  "表内：洪瑞的 贴了自己的 logo / 工商 Switch"
+ ],
+ "risks": [
+  "现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线",
+  "自有品牌商店：价格基准低；1 次跟进无回复，无具名 KP（store@）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号"
+ },
+ "email_hook": "For the Spacetronik-branded switch range, we can add a Marvell-based tier above your current models — 8-PoE + 2 SFP L2+ and 24-GE + 4×10G L2+ — from small lots in your housing and packaging, CE/RoHS; which of the two would fit your catalogue first?",
+ "products_seen": [
+  {
+   "brand": "Spacetronik（自有）",
+   "model": "SP-SGT124S",
+   "spec": "24 口 2.5G + 10G SFP+",
+   "saga": "（Saga 24×2.5G 待核；近位 STC-424XGGM）",
+   "url": "https://spacetronik.pl/en/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 store@spacetronik.eu；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）",
+   "type": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "PL 次级重点",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 17；用户表：「洪瑞的 贴了自己的logo；工商Switch」；研究档 risks：现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+  },
+  "situation": "波兰 Spacetronik（自有品牌电子/安装/办公人体工学产品官方商店：24 口 2.5G + 10G SFP+ 交换机 SP-SGT124S、LAN PoE 与光纤测试仪、KVM、传感器；表内「HRUI（洪瑞）的，贴了自己的 logo；工商 switch」「质量一般」）；表内 1 次跟进无回复。",
+  "need": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号",
+  "breakpoint": "现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）、2024-12-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）",
+   "why": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-04-03",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 spacetronik.eu, store@spacetronik.eu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-09-24（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "洪瑞的 贴了自己的logo；工商Switch",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

@@ -39,11 +39,19 @@
  ],
  "kp": [
   {
-   "name": "Christopher Costa",
+   "name": "Christopher (Chris) Costa",
    "title": "President",
    "email": "ccosta@edge-networks.us",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President & CTO / 创始人（2019；前 Comnet VP Eng 2011–2020、Radiant Communications 工程总监、GE Security 工程总监，1996 起设计安防产品）= **老板 = 技术拍板 = 联系人** —— **目标序列第一位「OEM 品牌商」标准像：2–10 人自有品牌，产品线 = MC + 工业交换机 + 延长器 + 光纤 modem，全部外采贴标 → OEM 30% 全线**（STI-154GP / STI-288DGGPM 工业 DIN + MC + 8/16 口 PoE 贴 Edge Networks 标）；信写参数（芯片 / 温宽 / MTBF / CE-FCC-RoHS，**不写 UL / NDAA**），第二封 = spec sheet + 一款样机价；建议升 A 候选（第 92 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Steven Carrozzo",
+   "role": "Vice President, Sales（ZoomInfo）= 商务口，抄送（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.zoominfo.com/pic/edge-networks/482033602"
   }
  ],
  "grade_override": null,
@@ -54,8 +62,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 edge-networks.us，语言 en-gb，快照状态 ok；角色判定来源：用户表"
+  "hq": "412 Brandam Ln Ste 103, Charleston, SC 29492（(843) 654-9266）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 edge-networks.us，语言 en-gb，快照状态 ok；角色判定来源：用户表；「USA based」是其卖点 = 贴标后不提来源，正合中性包装；单笔 $3–10k，T/T 50/50；复盘：每季看官网新品型号（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "Edge Networks LLC / Edge Networks USA（Charleston, SC；SC SoS 号未取）",
+  "founded": "2019（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "2–10（Tracxn 2 / ZoomInfo 1–10）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "微型（自有品牌工业以太网 / MC 制造商 —— 实为外采贴标）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业交换机 / MC（自有品牌 Edge Networks）"

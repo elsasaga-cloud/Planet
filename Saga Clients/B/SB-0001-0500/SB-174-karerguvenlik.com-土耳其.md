@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -81,10 +81,25 @@ updated: 2026-10-27
 
 - `karerguvenlik.com` → 主机商 cPanel 类邮箱（MX：mail.karerguvenlik.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+
+**公司底数 · 第 92 批（TR · 1 次检索：PESİAD（Pendik 工商协会）会员页（法定全名 + 代表 Nurbaki KARATAŞ + 2006 + 1000 m²）+ ZoomInfo / RocketReach（CEO Nurbaki Karataş 2006–今；Samet Şahin 技术总监；11–50）+ DESi 经销商页（地址 Yayalar Atasever Cd No 44 Pendik），2026-10-28 查；https://www.pesiad.org.tr/firmalar/karer-guvenlik-sistemleri-sanayi-ve-ticaret-ltd-sti）：**
+
+- 法定名 / 登记号：Karer Güvenlik Sistemleri（karerguvenlik.com；Pendik / İstanbul） · Mersis / VKN 未取 · 状态 **Aktif（PESİAD 会员、X / Facebook 活跃）** · 成立 2006 · Limited Şirket
+- 行业码 / 经营范围：报警 + 监控摄像系统 批发 & 零售（AHD/IP 相机、DVR/NVR、报警、网络设备）
+- 注册地址：Yayalar Mah. Atasever Cd. No:44, Pendik / İstanbul（1000 m² 自有场地；0216 397 33 88）
+- 规模档：小型（11–50；datanyze 13）
+- 账目：—；—
+- 高管：Nurbaki Karataş — CEO / 创始人（2006–今；PESİAD 会员代表）= 老板 = 联系人
+- 高管：Samet Şahin — Director of Technical Services
+- 高管：Ebru Tekin — Muhasebe（2021–）
+- **这意味着什么：**
+  - **老板 Nurbaki Karataş 本人就是研究档里的 KP（info@）→ 写他，不用找别人**；20 年老店、1000 m² 仓 + 批零兼营 = 亚洲区安防小分销的标准样本
+  - 研究档「打开 1 次」+ 商业 PoE 需求 → **分销 20%**：8/16 口 PoE（STC-028GP / STC-228GP）配相机套装，样机 1 台付费试；同城 Pendik 有 Netaş 等大客户不相干
+  - 技术总监 Samet Şahin 可抄送（技术问题由他回）；复盘：TR 季度扫一次
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -136,15 +151,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE**
   > 商业PoE；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Nurbaki Karatas（）info@karerguvenlik.com 〔用户表〕
-- **KP**：Samet Sahin（） 〔用户表〕
+- **KP**：Nurbaki Karataş（CEO / 创始人（2006–今；PESİAD 会员代表；ZoomInfo / RocketReach）= **老板 = 联系人 = 拍板人** —— 公司 = Pendik 1000 m² 批零兼营安防店（11–50 人）→ 分销 20%：STC-028GP / STC-228GP 配相机套装，样机 1 台付费（第 92 批 官方登记核实 2026-10-28））info@karerguvenlik.com 〔用户表〕
+- **KP**：Samet Sahin（Director of Technical Services（RocketReach）= 技术口，抄送（第 92 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
+| 法定名称 | Karer Güvenlik Sistemleri Sanayi ve Ticaret Ltd. Şti. |
+| 成立 | 2006（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Yayalar Mah. Atasever Cd. No:44, Pendik / İstanbul（0216 397 33 88）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 11–50（datanyze 13）（第 92 批 官方登记核实 2026-10-28） |
 | 其他 | 官网 karerguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
 
 - **业务线**：报警 / 安防摄像机批发零售（自有标 KR）
@@ -235,8 +253,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nurbaki Karatas | — | info@karerguvenlik.com | 调研核实（公开页） | 用户表 |
-| Samet Sahin | — | — | 调研核实（公开页） | 用户表 |
+| Nurbaki Karataş | CEO / 创始人（2006–今；PESİAD 会员代表；ZoomInfo / RocketReach）= **老板 = 联系人 = 拍板人** —— 公司 = Pendik 1000 m² 批零兼营安防店（11–50 人）→ 分销 20%：STC-028GP / STC-228GP 配相机套装，样机 1 台付费（第 92 批 官方登记核实 2026-10-28） | info@karerguvenlik.com | 调研核实（公开页） | 用户表 |
+| Samet Sahin | Director of Technical Services（RocketReach）= 技术口，抄送（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -330,12 +348,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

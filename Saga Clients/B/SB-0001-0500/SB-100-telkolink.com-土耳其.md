@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,10 +85,26 @@ updated: 2026-10-27
 - `telkolink.com` → 主机商 cPanel 类邮箱（MX：mail.telkolink.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `clrnetworks.com` → 同域名 MX → 托管在 trwww.com（MX：clrnetworks.com）。主机商附带邮箱（同域名 MX → 托管在 trwww.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+
+**公司底数 · 第 92 批（TR · 1 次检索：perpahaber / perpalife 商户名录（法定全名 + 楼层）+ telkolink.com/tr/iletisim.html（Satış yusuf@；Teknik sait@）+ LinkedIn Yusuf Ölçer（Gelecekbt.com General Manager；GelecekBT 为 Telkolink / CLR / ONET 土耳其分销）+ RocketReach / Lusha（2004 年由 GYM Bilgi Teknolojileri 创立；1–10 人），2026-10-28 查；https://www.perpahaber.com/telkolink-gelecek-yonetim-merkezi/）：**
+
+- 法定名 / 登记号：Telkolink（telkolink.com；Perpa A Blok K.5 No:295-297 Şişli）= GelecekBT 同一老板 · Mersis / VKN 未取 · 状态 **Aktif（域 telkolink.com 在用，Perpa 名录 2024）** · 成立 2004（GYM Bilgi Teknolojileri 创立 Telkolink 品牌） · Limited Şirket
+- 行业码 / 经营范围：网络 / 光纤 / 电信产品批发 + 自有标签 Telkolink（光纤收发器、MC、PoE、配线）
+- 注册地址：Perpa Ticaret Merkezi A Blok K.5 No:295-297（名录另记 K:4,5,6 No:0297）Okmeydanı Şişli / İstanbul
+- 规模档：微型（1–10 人）
+- 账目：—；—
+- 高管：Yusuf Ölçer — Yetkili / General Manager（katalogrehberi 法定联系人；LinkedIn 同时任 Gelecekbt.com GM）= 老板 = 联系人
+- 高管：Sait（姓氏未取）— Teknik Destek sait@telkolink.com
+- 曾用名：GYM Bilgi Teknolojileri（创立方 / 旧名，gym-tech.net）
+- **这意味着什么：**
+  - **Telkolink（自有标签）与 GelecekBT（gelecekbt.com，分销店）是同一老板 Yusuf Ölçer 的两块牌子** → Saga 侧 SB-100 + SB-275 + 外部 XB-C0688 **并成一线**：只写 yusuf@telkolink.com 一封，不许三处各发
+  - 老板 = 联系人 = 拍板人，微型公司（≤10 人）→ 决策快但量小；研究档「合作很密切 / VC 自己牌子」→ **OEM 30% 走 Telkolink 标**（PoE 8/16 口 + MC），MOQ 1 箱、100% 预付
+  - 2004 年起做光纤 / 电信产品，Perpa A Blok 老商户 = 稳定、不会倒；复盘月：按 TR 惯例季度看一次域与 LinkedIn
+- 备注：三处记录合一：SB-100（主）/ SB-275（gelecekbt.com 并线）/ XB-C0688（外部 CCTV 库，本批改 C 并线）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -140,15 +156,18 @@ updated: 2026-10-27
 - **【用户表】VC 刷了自己的标，FS/机架/MC/SFP 合作密切**
   > VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司；在用ClR公司的 深圳公司
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Yusuf Olcer（）info@telkolink.com 〔用户表〕
+- **KP**：Yusuf Ölçer（Yetkili / General Manager（katalogrehberi 法定联系人；LinkedIn 兼 Gelecekbt.com GM）= **老板 = 联系人 = 拍板人**（直邮 yusuf@telkolink.com）—— **Telkolink（自有标签）与 GelecekBT（gelecekbt.com = SB-275；外部库 XB-C0688）是同一老板的两块牌子 → 三处并一线，只写这一封**；OEM 30% 走 Telkolink 标（PoE 8/16 口 + MC），MOQ 1 箱、100% 预付（第 92 批 官方登记核实 2026-10-28））info@telkolink.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 telkolink.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Telkolink Gelecek Yönetim Merkezi Eğitim Dan. San. Tic. Ltd. Şti.（perpahaber 名录；创立方 GYM Bilgi Teknolojileri） |
+| 成立 | 2004（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Perpa Ticaret Merkezi A Blok K.5 No:295-297, Okmeydanı Şişli / İstanbul（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 1–10（Lusha / RocketReach 6）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 telkolink.com，语言 ?，快照状态 ok；角色判定来源：用户表；技术支持 sait@telkolink.com；与 SB-275 gelecekbt.com 同一公司 → 并线（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：PoE 交换机 / 网络设备 / 光纤系统 / 布线 / 工业自动化产品分销；自有标视频转换器（VC）
 - **触达通道（公开）**：role: IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源）；region: 土耳其；contact: info@telkolink.com
@@ -243,7 +262,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Yusuf Olcer | — | info@telkolink.com | 调研核实（公开页） | 用户表 |
+| Yusuf Ölçer | Yetkili / General Manager（katalogrehberi 法定联系人；LinkedIn 兼 Gelecekbt.com GM）= **老板 = 联系人 = 拍板人**（直邮 yusuf@telkolink.com）—— **Telkolink（自有标签）与 GelecekBT（gelecekbt.com = SB-275；外部库 XB-C0688）是同一老板的两块牌子 → 三处并一线，只写这一封**；OEM 30% 走 Telkolink 标（PoE 8/16 口 + MC），MOQ 1 箱、100% 预付（第 92 批 官方登记核实 2026-10-28） | info@telkolink.com | 调研核实（公开页） | 用户表 |
+| Yusuf Olcer | — | info@telkolink.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -337,12 +357,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 60）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 60）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

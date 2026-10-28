@@ -43,7 +43,8 @@
    "title": "Chief Operating Officer",
    "email": "kang.yu@avcomm.us",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO / COO / Director（多源；H-1B 申报 Director；WHOIS 注册人；IANA PEN 57842 联系人）= 老板 —— **守界：这是同行 —— 华人团队在休斯顿运营的工业交换机自有品牌（自有 6000 系列 PoE 工业机 + 北京产品工程师 = 自己有设计 + 中国供应链）→ B 不再加厚**；若写只问一句「缺哪一款工业口型」，不发价格表（第 92 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,12 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 avcomm.us，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "333 West Loop N, Houston, TX 77024（第 92 批 官方登记核实 2026-10-28）",
+  "other": "官网 avcomm.us，语言 en-US，快照状态 ok；角色判定来源：用户表；H-1B 记录 CEO Xiao Luo；VP Ops Yukon Yu；Product Engineer Brenda Guan（北京）（第 92 批 官方登记核实 2026-10-28）",
+  "legal_name": "AVCOMM Technologies Inc.（Houston, TX；TX SoS 档号未取）",
+  "founded": "2018（官网；LinkedIn 2019）（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "6–50（H-1B 雇主）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "小型（工业以太网 / IIoT / 边缘计算 自有品牌）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业以太网交换机（自有品牌）",

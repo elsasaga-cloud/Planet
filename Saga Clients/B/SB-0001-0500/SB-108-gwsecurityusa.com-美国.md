@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -114,6 +114,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 92 批（US · 1 次检索：BBB（LA & Silicon Valley）档案 —— 1230 Santa Anita Ave Ste A, South El Monte CA 91733；Business Started 2016-12-08；BBB File 2018-07-18；未认证；有消费者投诉（2022 发货拖延）+ Reddit r/SecurityCamera 技术支持差评（2024-07）。加州 SoS 页 JS 不可取，法定名未核，2026-10-28 查；https://www.bbb.org/us/ca/south-el-monte/profile/security-equipment/gw-security-1216-892747）：**
+
+- 法定名 / 登记号：GW Security（gwsecurityusa.com；South El Monte, CA） · CA SoS 实体号未取（bizfile JS） · 状态 **Active（BBB 档在用、官网在售）** · 成立 2016-12-08（BBB Business Started） · 推定 Corporation / LLC（加州）
+- 行业码 / 经营范围：安防摄像 / NVR 自有品牌零售 + 批发（Amazon + 官网直销；4K IP 相机套装）
+- 注册地址：1230 Santa Anita Ave Ste A, South El Monte, CA 91733-3861（洛杉矶东）
+- 规模档：小型（估 5–20 人）
+- 账目：—；—
+- 高管：高管 / 股东姓名未取（BBB 不列；加州 SoS 需 JS）
+- 抵押 / 诉讼 / 担保：BBB 消费者投诉（发货 / 售后）；Reddit 差评 —— 非法律负债，仅说明售后薄弱
+- **这意味着什么：**
+  - **典型「华人在洛杉矶做自有品牌安防套装」卖家（2016 起，Amazon + 官网）→ 研究档 out 49 封 + 打开 1 次 = 读过不回** → 下一步不是再群发，而是 **OEM 30% 一页：8/16 口 PoE 贴 GW 标配他们的 NVR 套装**，样机付费 1 台
+  - 售后口碑差 = 他们缺技术支持 → 可以把「3 年保修 + 英文固件 + 远程配置支持」写成卖点（STI 3 年 / STC 1 年如实写）
+  - 法定名 / 高管未核 → 信抬头写 Purchasing；若回信即补 SoS 查档
+- 备注：研究档记「洪瑞 商业 PoE」= 现货源为洪瑞同类 → 报价对标 HRUI 档（STC-028GP $28 / STC-228GP $33）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -165,8 +180,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 gwsecurityusa.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | GW Security（BBB 档；加州法定名未核） |
+| 成立 | 2016-12-08（BBB Business Started）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1230 Santa Anita Ave Ste A, South El Monte, CA 91733（洛杉矶东）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 小型（估 5–20 人）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 gwsecurityusa.com，语言 en-US，快照状态 ok；角色判定来源：用户表；BBB 未认证、有发货 / 售后投诉 + Reddit 技术支持差评 = 售后薄弱 → 把 3 年保 / 英文固件 / 远程配置支持写成卖点；**OEM 30%：8/16 口 PoE 贴 GW 标配 NVR 套装**，样机 1 台付费；高管未核 → 抬头 Purchasing（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：自有品牌安防摄像机 / NVR 套装（住宅 + 商用）；配套 PoE 交换机 / 线缆
 - **触达通道（公开）**：role: 安防品牌商（自有 GW 系列，PoE 为套装配套；现用 HRUI）；region: 美国；contact: info@gwsecurityusa.com、sales@gwsecurityusa.com
@@ -389,12 +407,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 59）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

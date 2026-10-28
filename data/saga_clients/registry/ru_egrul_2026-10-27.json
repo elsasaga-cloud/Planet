@@ -3,7 +3,7 @@
   "kind": "registry",
   "source": "Russia · ЕГРЮЛ / Росстат 公开数据（rusprofile / list-org 镜像）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "count": 13
  },
  "rows": {
@@ -441,7 +441,7 @@
     "不说：不提 Hikvision（他们 2014 起靠 HD-TVI 起家）；不提制裁 / 物流",
     "复查：rusprofile ИНН 7204152580（总经理 / 营收）下轮补"
    ],
-   "notes": "研究档 legal_name 回填；KP 待补。",
+   "notes": "研究档 legal_name 回填；KP 待补。；第 92 批补项：web_search「ИНН 7204152580 rusprofile」一次未命中（结果全为无关 Rusprofile 自身条目）→ 按规程停，下轮如需改用 checko.ru / list-org 直链",
    "fetched": "2026-10-27",
    "code": "SB-537"
   }

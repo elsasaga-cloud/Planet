@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,25 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 92 批（DE · 1 次检索：Northdata（AG Neuss HRB 5172；2024-09-25 合并为 AddSecure DigiComm GmbH；2024-05-27 GF Andreas Kluß 接替 Carl von Campe；2021-08 Jörg Brunk 接替 Hans Theo Bongartz）+ LinkedIn（1987；11–50；Breite Str. 10 Meerbusch）+ CB Insights（2023-11 被 AddSecure 收购；工业通信：modem / 路由 / 交换机 / MC）+ finanzen.net OTS（2021 前属 Bechtle 集团），2026-10-28 查；https://www.northdata.com/DigiComm%20Gesellschaft%20f%C3%BCr%20Kommunikationssysteme%20mbH,%20Meerbusch/Amtsgericht%20Neuss%20HRB%205172）：**
+
+- 法定名 / 登记号：DigiComm Gesellschaft für Kommunikationssysteme mbH → AddSecure DigiComm GmbH（digicomm.de；Meerbusch） · AG Neuss HRB 5172（合并后主体 AddSecure DigiComm GmbH，新号未取） · 状态 **Aktiv（2024-09 吸收合并入 AddSecure 德国主体）** · 成立 1987 · GmbH → 集团子公司（AddSecure，瑞典 Castik Capital 旗下）
+- 行业码 / 经营范围：工业通信 / 远程监控（Fernwirk）设备：modem、路由器、交换机、媒体转换器 + 软件；能源 / 水务客户
+- 注册地址：Breite Str. 10, 40670 Meerbusch（02159 69375-0）
+- 规模档：小型（11–50）；母公司 AddSecure 1,000+ 人
+- 账目：集团合并报表（AddSecure）；—
+- 高管：Andreas Kluß — Geschäftsführer（2024-05 起；AddSecure 任命）
+- 高管：Carl von Campe — 前 GF（→ 2024-05）
+- 高管：Jörg Brunk — 前 GF（2021-08 → ）
+- 高管：Hans Theo Bongartz — 前 GF / 创始世代（→ 2021-08）
+- 控制人 / 股东：AddSecure Group（2023-11 收购；此前 Bechtle 集团）
+- 曾用名：DigiComm GmbH（商号）
+- **这意味着什么：**
+  - **研究档「自有 logo 工业交换机」成立，但公司已两易其主：Bechtle → 2023-11 AddSecure（瑞典安全通信集团）→ 2024-09 并入 AddSecure DigiComm GmbH** → 采购 / OEM 决策上收集团 = 我们这种体量进不去 → **B「不再补查」**
+  - 23 封群发无回符合「集团化后信箱无人管」；不再发；若集团有 OEM 招标另当别论（不会找我们）
+  - 复盘：无（挂起）
+- 备注：守界：集团子公司；不发价格表。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,8 +157,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 digicomm.de，语言 de-DE，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | DigiComm Gesellschaft für Kommunikationssysteme mbH（AG Neuss HRB 5172）→ 2024-09 并入 AddSecure DigiComm GmbH |
+| 成立 | 1987（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Breite Str. 10, 40670 Meerbusch（02159 69375-0）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 11–50；母公司 AddSecure 1,000+（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 digicomm.de，语言 de-DE，快照状态 ok；角色判定来源：用户表；**守界：研究档「自有 logo 工业交换机」成立，但采购 / OEM 决策已上收 AddSecure 集团 → B「不再补查」，不再发**；GF Andreas Kluß（2024-05 起，集团任命）（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：关键基础设施数据通信（光纤 / 铜缆 / SHDSL / 无线）；报警与安全软件
 - **触达通道（公开）**：role: 关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）；region: 德国；contact: info@digicomm.de
@@ -335,12 +357,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

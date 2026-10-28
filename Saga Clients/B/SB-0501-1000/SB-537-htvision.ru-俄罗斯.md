@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -96,7 +96,7 @@ updated: 2026-10-27
   - **硬发现：HTV 是俄罗斯自有品牌安防 OEM 品牌商，产品线明写「PoE коммутаторы」—— 和 SB-487 НПО Телеком 一样是俄语区的贴牌买家** → 俄语信写 info@ 请转产品 / 采购负责人：OEM 30%「HTV」PoE 交换机 4/8/16/24 口（STI-054GP / STC-028GP / STC-228GP / STC-2024GP）+ 工业 DIN（西伯利亚 -40℃），EAC 由他们现有流程，人民币预付 100%，FOB 深圳 → 他们的货代；莫斯科周四 北京 15–17
   - 不说：不提 Hikvision（他们 2014 起靠 HD-TVI 起家）；不提制裁 / 物流
   - 复查：rusprofile ИНН 7204152580（总经理 / 营收）下轮补
-- 备注：研究档 legal_name 回填；KP 待补。
+- 备注：研究档 legal_name 回填；KP 待补。；第 92 批补项：web_search「ИНН 7204152580 rusprofile」一次未命中（结果全为无关 Rusprofile 自身条目）→ 按规程停，下轮如需改用 checko.ru / list-org 直链
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -332,12 +332,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

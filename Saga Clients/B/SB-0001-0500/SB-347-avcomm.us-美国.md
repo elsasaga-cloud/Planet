@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +91,23 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 92 批（US · 1 次检索：avcomm.us/about-us（2018 休斯顿成立；核心团队 20 年工业自动化 / 电信经验，含产品设计 / 制造）+ LinkedIn（2019；11–50）+ signalhire / RocketReach / ZoomInfo（Kang Yu CEO / COO；333 West Loop N, Houston 77024；6–50 人）+ myvisajobs H-1B 记录（Xiao Luo CEO；Kang Yu Director）+ scamadviser WHOIS（注册人 Kang Yu，13907 Round Oak Ct Houston 77059）+ RocketReach 管理层含北京产品工程师 Brenda Guan + IANA PEN 57842（AVCOMM Technologies Inc，联系人 Kang Yu），2026-10-28 查；https://www.avcomm.us/about-us）：**
+
+- 法定名 / 登记号：AVCOMM Technologies Inc.（avcomm.us；Houston, TX） · TX SoS 档号未取（需付费 SOSDirect） · 状态 **Active（H-1B 雇主、IANA PEN、官网在售）** · 成立 2018（官网；LinkedIn 2019；inc.avcomm.us 自述 2015） · Inc.（德州公司）
+- 行业码 / 经营范围：工业以太网交换机 / IIoT / 边缘计算 自有品牌（6000 系列 PoE 工业交换机）+ 工业 IT 方案
+- 注册地址：333 West Loop N, Houston, TX 77024（WHOIS 住址 13907 Round Oak Ct, Houston 77059）
+- 规模档：小型（6–50 人；H-1B 雇主）
+- 账目：—；—
+- 高管：Kang Yu — CEO / COO / Director（多源；研究档 KP kang.yu@avcomm.us）= 老板 = 联系人
+- 高管：Xiao Luo — CEO（H-1B 申报口径）
+- 高管：Yukon Yu — VP Operations
+- 高管：Brenda Guan — Product Engineer（北京）
+- **这意味着什么：**
+  - **这是同行：华人团队在休斯顿运营的工业交换机自有品牌（自有 6000 系列 PoE 工业机、北京产品工程师、IANA 企业号）= 自己有设计 + 中国供应链** → 我们的 STI 工业 DIN 对他们只是「又一个深圳货源」→ **降为 B 不再加厚**；仅当他们缺某口型（如 2.5G / 12 口 L2+ 管理）时可报一款
+  - 若要写：写 Kang Yu（老板）一句话问「缺哪一款工业口型」，不发价格表；31 封群发无回已说明问题
+  - 法定名 AVCOMM Technologies Inc.（H-1B 记录 Avcomm Technologies）；TX SoS 不再查
+- 备注：守界：不是渠道客户，是品牌同行；留 B 作「潜在 OEM 补缺」。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,15 +150,18 @@ updated: 2026-10-27
 - **【用户表】工业 FS / SFP 自有 logo**
   > 工业FS SFP 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Kang Yu（）kang.yu@avcomm.us 〔用户表〕
+- **KP**：Kang Yu（CEO / COO / Director（多源；H-1B 申报 Director；WHOIS 注册人；IANA PEN 57842 联系人）= 老板 —— **守界：这是同行 —— 华人团队在休斯顿运营的工业交换机自有品牌（自有 6000 系列 PoE 工业机 + 北京产品工程师 = 自己有设计 + 中国供应链）→ B 不再加厚**；若写只问一句「缺哪一款工业口型」，不发价格表（第 92 批 官方登记核实 2026-10-28））kang.yu@avcomm.us 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 avcomm.us，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | AVCOMM Technologies Inc.（Houston, TX；TX SoS 档号未取） |
+| 成立 | 2018（官网；LinkedIn 2019）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 333 West Loop N, Houston, TX 77024（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 6–50（H-1B 雇主）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 avcomm.us，语言 en-US，快照状态 ok；角色判定来源：用户表；H-1B 记录 CEO Xiao Luo；VP Ops Yukon Yu；Product Engineer Brenda Guan（北京）（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业以太网交换机（自有品牌）；IIoT / 边缘计算 / 无线 AP
 - **触达通道（公开）**：role: 工业网络品牌商（自有 AP 系列，OEM 采购）；region: 美国；contact: info@avcomm.us、kang.yu@avcomm.us
@@ -250,7 +270,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kang Yu | — | kang.yu@avcomm.us | 调研核实（公开页） | 用户表 |
+| Kang Yu | CEO / COO / Director（多源；H-1B 申报 Director；WHOIS 注册人；IANA PEN 57842 联系人）= 老板 —— **守界：这是同行 —— 华人团队在休斯顿运营的工业交换机自有品牌（自有 6000 系列 PoE 工业机 + 北京产品工程师 = 自己有设计 + 中国供应链）→ B 不再加厚**；若写只问一句「缺哪一款工业口型」，不发价格表（第 92 批 官方登记核实 2026-10-28） | kang.yu@avcomm.us | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -344,12 +364,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

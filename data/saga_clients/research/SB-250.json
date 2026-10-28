@@ -32,7 +32,15 @@
    "title": "（表内联系人）",
    "email": "dariusz.piwowar@pf-electronic.pl",
    "phone": "+48 32 256 25 33",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Wiceprezes Zarządu（2005-09-06 起；KRS 0000046753；可单独代表）= **合伙人 = 拍板层 = 联系人** —— 西里西亚工业自动化分销 + 服务商（PLC / 变频 / 工业网络，25 年，营收 ≈9.3 mln zł）→ **工业 DIN 线分销 20%**：STI-054GP / STI-154GP / STI-288DGGPM 配 PLC 柜，样机 1 台付费；第二封只写工业场景（温宽 / DIN / 冗余供电 / ERPS），不写 CCTV（第 92 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Jacek Andrzej Nędza",
+   "role": "Prezes Zarządu（2005-09-06 起）= 老板之一，抄送（第 92 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://rejestr.io/krs/46753/pf-electronic"
   }
  ],
  "grade_override": null,
@@ -43,11 +51,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "PF Electronic Sp. z o.o.",
-  "founded": "",
-  "hq": "Katowice, Poland（+48 32）",
-  "size": "中小型工业分销",
-  "other": ""
+  "legal_name": "PF Electronic Sp. z o.o.（KRS 0000046753 · NIP 6342396659 · REGON 276904785）",
+  "founded": "2001-10-15（业务 2000 起）（第 92 批 官方登记核实 2026-10-28）",
+  "hq": "ul. Stanisława Konarskiego 18C, 44-100 Gliwice（+48 32 256 25 33；旧址 Katowice Bednorza 2a-6）（第 92 批 官方登记核实 2026-10-28）",
+  "size": "小型（工业自动化分销 + 维修安装 + 网店；股本 127,500 zł）（第 92 批 官方登记核实 2026-10-28）",
+  "other": "复盘 2027-07（第 92 批 官方登记核实 2026-10-28）",
+  "staff": "小型（估 10–25 人）；营收 ≈9.3 mln zł（≈$2.3M）（第 92 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业自动化元件分销"

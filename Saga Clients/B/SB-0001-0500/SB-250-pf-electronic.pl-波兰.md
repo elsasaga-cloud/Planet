@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,9 +76,25 @@ updated: 2026-10-27
 
 - `pf-electronic.pl` → 波兰主机商邮箱（MX：mx-pfelectronic.ogicom.pl）。主机商附带邮箱（波兰主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 92 批（PL · 1 次检索：rejestr.io（KRS 0000046753；NIP 6342396659；REGON 276904785；2001-10-15 登记；股本 127.5 tys. zł；Prezes Jacek Andrzej Nędza 与 Wiceprezes Dariusz Przemysław Piwowar 均 2005-09-06 起；各自单独代表；营收 9.3 mln zł；行业：批发为主 + 机器维修安装 + 电子制造 + 电信 + IT）+ pf-electronic.pl o-firmie / kontakt（Konarskiego 18C Gliwice；info@）+ krs-online（2000 起做工业自动化技术咨询 / 服务；旧址 Katowice Bednorza 2a-6）+ elektroonline（dariusz.piwowar@），2026-10-28 查；https://rejestr.io/krs/46753/pf-electronic）：**
+
+- 法定名 / 登记号：PF Electronic Sp. z o.o.（pf-electronic.pl；Gliwice，原 Katowice） · KRS 0000046753 · NIP 6342396659 · REGON 276904785 · 状态 **Aktywna（VAT 活跃）** · 成立 2001-10-15（业务 2000 起） · Spółka z o.o.（股本 127,500 zł）
+- 行业码 / 经营范围：工业自动化元器件批发 + 维修 / 安装服务 + 网店 sklep.pf-electronic.pl（PLC / 变频 / 工业网络）
+- 注册地址：ul. Stanisława Konarskiego 18C, 44-100 Gliwice（+48 32 256 25 33；旧址 Katowice Bednorza 2a-6）
+- 规模档：小型（估 10–25 人）
+- 账目：KRS 财报：营收 ≈9.3 mln zł（≈$2.3M）；7 月复盘
+- 高管：Jacek Andrzej Nędza — Prezes Zarządu（2005-09 起）= 老板之一
+- 高管：Dariusz Przemysław Piwowar — Wiceprezes Zarządu（2005-09 起；研究档 KP dariusz.piwowar@）= 老板之一 = 联系人
+- 高管：Ireneusz Marczyk / Adam Goździcki — 决策人（krs-online 历史记录）
+- 控制人 / 股东：Nędza + Piwowar（推定两人持股）
+- **这意味着什么：**
+  - **研究档 KP Dariusz Piwowar 是副总裁 / 合伙人 → 信已到拍板层**；公司 = 西里西亚工业自动化分销 + 服务商（PLC / 变频 / 工业网络），25 年、营收 ≈930 万 zł → **工业 DIN 线分销 20%**：STI-054GP / STI-154GP / STI-288DGGPM 配 PLC 柜，1 台样机付费试
+  - 打开 1 次无回 → 第二封只写工业场景（-40~75℃、DIN、冗余供电、ERPS 环网）不写 CCTV；他们客户是工厂维保 = 复购型
+  - 复盘 2027-07 看 2026 年报
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -116,15 +132,19 @@ updated: 2026-10-27
 - **【用户表】外壳比较特别；可以着重跟一下**
   > 兴趣：外壳比较特别
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Dariusz Piwowar（）dariusz.piwowar@pf-electronic.pl +48 32 256 25 33〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Dariusz Piwowar（Wiceprezes Zarządu（2005-09-06 起；KRS 0000046753；可单独代表）= **合伙人 = 拍板层 = 联系人** —— 西里西亚工业自动化分销 + 服务商（PLC / 变频 / 工业网络，25 年，营收 ≈9.3 mln zł）→ **工业 DIN 线分销 20%**：STI-054GP / STI-154GP / STI-288DGGPM 配 PLC 柜，样机 1 台付费；第二封只写工业场景（温宽 / DIN / 冗余供电 / ERPS），不写 CCTV（第 92 批 官方登记核实 2026-10-28））dariusz.piwowar@pf-electronic.pl +48 32 256 25 33〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jacek Andrzej Nędza（Prezes Zarządu（2005-09-06 起）= 老板之一，抄送（第 92 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/46753/pf-electronic〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | PF Electronic Sp. z o.o. |
-| 总部/地址 | Katowice, Poland（+48 32） |
+| 法定名称 | PF Electronic Sp. z o.o.（KRS 0000046753 · NIP 6342396659 · REGON 276904785） |
+| 成立 | 2001-10-15（业务 2000 起）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Stanisława Konarskiego 18C, 44-100 Gliwice（+48 32 256 25 33；旧址 Katowice Bednorza 2a-6）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 小型（估 10–25 人）；营收 ≈9.3 mln zł（≈$2.3M）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 复盘 2027-07（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化元件分销
 - **触达通道（公开）**：role: 工业分销商；region: 波兰
@@ -214,7 +234,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Dariusz Piwowar | — | dariusz.piwowar@pf-electronic.pl / +48 32 256 25 33 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Dariusz Piwowar | Wiceprezes Zarządu（2005-09-06 起；KRS 0000046753；可单独代表）= **合伙人 = 拍板层 = 联系人** —— 西里西亚工业自动化分销 + 服务商（PLC / 变频 / 工业网络，25 年，营收 ≈9.3 mln zł）→ **工业 DIN 线分销 20%**：STI-054GP / STI-154GP / STI-288DGGPM 配 PLC 柜，样机 1 台付费；第二封只写工业场景（温宽 / DIN / 冗余供电 / ERPS），不写 CCTV（第 92 批 官方登记核实 2026-10-28） | dariusz.piwowar@pf-electronic.pl / +48 32 256 25 33 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Jacek Andrzej Nędza | Prezes Zarządu（2005-09-06 起）= 老板之一，抄送（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejestr.io/krs/46753/pf-electronic |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -308,12 +329,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

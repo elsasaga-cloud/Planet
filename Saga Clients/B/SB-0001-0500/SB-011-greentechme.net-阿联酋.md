@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,7 +75,7 @@ updated: 2026-10-27
 
 - `greentechme.net` → 主机商 cPanel 类邮箱（MX：mail.greentechme.net）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（阿联酋 · 按下一步「现在 → 两周内」窗口 2026-10-27→2026-11-10）：**
+**假日避让（阿联酋 · 按下一步「现在 → 两周内」窗口 2026-10-28→2026-11-11）：**
 
 - 窗口内无该国法定假日
 
@@ -279,12 +279,12 @@ Shaji, following your earlier orders: for off-grid/solar sites we have DIN-rail 
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 88）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 88）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

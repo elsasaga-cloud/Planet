@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,6 +85,28 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 92 批（GB · web_search 取号（Companies House 03245094 + officers 摘要 + companycheck 董事任命日 + Endole 股东 4 / PSC 3 / VAT GB414568352 + RocketReach 管理层 + Crunchbase「1984 创立、Walsh 家族、Made in Britain、终身保修」）→ Companies House overview 1 页，2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/03245094）：**
+
+- 法定名 / 登记号：Brainboxes Limited（brainboxes.com；Speke, Liverpool） · 03245094（VAT GB 414 5683 52；DUNS 525564092） · 状态 **Active** · 成立 1996-09-03（业务 1984 起） · Private limited company
+- 行业码 / 经营范围：26512 电子工业过程控制设备制造
+- 注册地址：18 Hurricane Court, Hurricane Drive, Speke, Liverpool L24 8RL（0151 220 2500）
+- 规模档：中小型（估 30–60 人；第三方营收 $7.8M 仅作区间）
+- 账目：至 2025-10-31 已报；下期至 2026-10-31，2027-07-31 到期；确认声明 2027-07-25
+- 高管：WALSH, Eamonn Thomas — Director 兼 Secretary（1996 起；创始人，1955 生；Endole「Founder / Designer」）
+- 高管：WALSH, Patricia Anne — Director（1996 起；创始人配偶）
+- 高管：WALSH, Luke James — Director（2015-04-20 起）= Managing Director（RocketReach / LinkedIn）= 研究档 KP luke.walsh@
+- 高管：WALSH, Joanne — Director（2023-07-11 起）
+- 高管：GREER, Stephen John — Director（2023-07-11 起）= Sales Director = 研究档 KP stephen.greer@
+- 高管：Kevin Whittaker — Purchasing Manager（RocketReach；非董事）= 采购口
+- 高管：Antony McLoughlin — VP of Engineering
+- 控制人 / 股东：3 名控制人（Endole；推定 Walsh 家族）
+- 曾用名：BRAIN BOXES LIMITED（1996-09-03 → 2006-09-05）
+- **这意味着什么：**
+  - **利物浦家族制造商（Walsh 家族，1984 起；自产串口 / 以太网 IO 模块 + 工业交换机，「Made in Britain + 终身保修」是招牌）** → 他们的工业交换机自产 = 我们 STI 对其是竞品而非货源 → **B 不加厚**；唯一缝隙：他们 PoE / 千兆管理型口数少，可问采购经理 Kevin Whittaker 是否补一款 OEM（贴 Brainboxes 标会与「Made in Britain」冲突 → 概率低）
+  - 研究档两位 KP（Luke Walsh MD、Stephen Greer 销售总监）都是登记董事 = 信已到顶层；21 封群发无回 = 没需求，不是没看到 → 转季度一封新品 note
+  - 2023-07 新增两名董事（Joanne Walsh、Stephen Greer）= 二代 + 销售总监进董事会，公司在交接中；复盘 2027-07-31
+- 备注：守界：同行制造商；不发价格表。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,18 +143,20 @@ updated: 2026-10-27
 - **【用户表】5/8 电口工业 FS 自己的 logo**
   > 兴趣：5/8电口工业FS 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Luke Walsh（）luke.walsh@brainboxes.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Stephen Greer（）stephen.greer@brainboxes.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Luke Walsh（Managing Director 兼登记 Director（2015-04-20 起；Walsh 家族二代；Companies House 03245094）= 拍板人 —— **守界：利物浦家族制造商（1984 起，自产串口 / 以太网 IO 模块 + 工业交换机，「Made in Britain + 终身保修」）= 我们 STI 对其是竞品而非货源 → B 不加厚**；唯一缝隙：PoE / 千兆管理型口数少，可问采购经理 Kevin Whittaker 是否补一款 OEM（与「Made in Britain」冲突，概率低）；21 封无回 = 没需求（第 92 批 官方登记核实 2026-10-28））luke.walsh@brainboxes.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Stephen Greer（Sales Director 兼登记 Director（2023-07-11 起）= 销售口（同行，不发价格表）（第 92 批 官方登记核实 2026-10-28））stephen.greer@brainboxes.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Kevin Whittaker（Purchasing Manager（RocketReach）= 采购口（唯一可能的 OEM 补缺对话人）（第 92 批 官方登记核实 2026-10-28）） 〔https://rocketreach.co/brainboxes-ltd-profile_b5c74e47f42e0d1b〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Brainboxes Ltd |
-| 成立 | 1983 |
-| 总部/地址 | Liverpool, UK |
-| 其他 | 自有工业交换机 SW 系列（部分外购） |
+| 法定名称 | BRAINBOXES LIMITED（Companies House 03245094；VAT GB 414 5683 52；DUNS 525564092；曾用名 Brain Boxes Limited 1996–2006） |
+| 成立 | 1996-09-03（业务 1984 起）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 18 Hurricane Court, Hurricane Drive, Speke, Liverpool L24 8RL（0151 220 2500）（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 中小型（估 30–60 人；第三方营收 $7.8M 仅区间）；SIC 26512（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 自有工业交换机 SW 系列（部分外购）；董事：Eamonn Thomas Walsh（创始人，兼 Secretary）/ Patricia Anne Walsh / Luke James Walsh / Joanne Walsh（2023-07）/ Stephen John Greer（2023-07）；PSC 3 名（Walsh 家族）；账目至 2025-10-31 已报，下期 2027-07-31（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业以太网交换机 / 串口 / IO（自有品牌）
 - **触达通道（公开）**：role: 英国制造商（OEM 采购）；region: 英国
@@ -234,8 +258,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Luke Walsh | — | luke.walsh@brainboxes.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Stephen Greer | — | stephen.greer@brainboxes.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Luke Walsh | Managing Director 兼登记 Director（2015-04-20 起；Walsh 家族二代；Companies House 03245094）= 拍板人 —— **守界：利物浦家族制造商（1984 起，自产串口 / 以太网 IO 模块 + 工业交换机，「Made in Britain + 终身保修」）= 我们 STI 对其是竞品而非货源 → B 不加厚**；唯一缝隙：PoE / 千兆管理型口数少，可问采购经理 Kevin Whittaker 是否补一款 OEM（与「Made in Britain」冲突，概率低）；21 封无回 = 没需求（第 92 批 官方登记核实 2026-10-28） | luke.walsh@brainboxes.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Stephen Greer | Sales Director 兼登记 Director（2023-07-11 起）= 销售口（同行，不发价格表）（第 92 批 官方登记核实 2026-10-28） | stephen.greer@brainboxes.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Kevin Whittaker | Purchasing Manager（RocketReach）= 采购口（唯一可能的 OEM 补缺对话人）（第 92 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rocketreach.co/brainboxes-ltd-profile_b5c74e47f42e0d1b |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -329,12 +354,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

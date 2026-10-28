@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,10 +83,25 @@ updated: 2026-10-27
 
 - `cenova.com.tr` → 土耳其主机商邮箱（MX：mx-01.kurumsaleposta.com、mx-02.kurumsaleposta.com）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-27→2026-11-26）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+
+**公司底数 · 第 92 批（TR · 1 次检索：cenova.com.tr hakkımızda + üyelik sözleşmesi（法定全名、地址、Şişli VD 2060665571）+ LinkedIn 公司页（2004 / 11–50 / 18 人）+ kariyer.net（25–49 人）+ guvenliksistemleri.gen.tr（Cenova + TIANDY 相机、Wisetech 报警 土耳其分销，bayi 导向）+ perpa.com.tr 名录，2026-10-28 查；https://www.cenova.com.tr/sayfa/uyelik-sozle%C5%9Fmesi）：**
+
+- 法定名 / 登记号：Cenova Güvenlik（cenova.com.tr；Perpa B Blok K:8 No:902-904 Şişli） · VKN 2060665571（Şişli VD） · 状态 **Aktif（2024 招聘、官网 / X 活跃）** · 成立 2002（业务起点；LinkedIn 记 2004） · Limited Şirket
+- 行业码 / 经营范围：电子安防批发 / 进出口（CCTV、DVR/NVR、报警、门禁；自有品牌 Cenova + TIANDY / Wisetech 土耳其分销）
+- 注册地址：Perpa Ticaret Merkezi Elektrokent B Blok Kat:8 No:902-903-904, Şişli / İstanbul（客服 0850 333 66 82）
+- 规模档：小型（16–49 人）
+- 账目：—；—
+- 高管：经理 / 股东姓名未取（官网不列）
+- 高管：Necla Güler — Genel Muhasebe Sorumlusu（datanyze）
+- 高管：Abdurrahman Erkarslan — Technical Supervisor（datanyze）
+- **这意味着什么：**
+  - **Perpa 老牌安防分销，20 余年、16–49 人，自有品牌 Cenova（相机 / 录像机）+ TIANDY 总代** → **OEM 30%：PoE 交换机贴 Cenova 标**配自家相机套装；TIANDY 自带 PoE 交换机 = 他们现有基线，报价要落在 TIANDY 同口数以下
+  - 关联店 Syscom Güvenlik（Perpa A Blok K:7 No:859）同一客服号 → 若回信来自 Syscom 不算新客户
+  - 无公开老板姓名 → 写 satış / satın alma（采购）+ 抄技术主管；VKN 已取，可用于后续 e-fatura 对账
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -139,8 +154,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 cenova.com.tr，语言 ?，快照状态 http_error；角色判定来源：用户表 |
+| 法定名称 | CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. ve TİC. LTD. ŞTİ.（Şişli VD 2060665571） |
+| 成立 | 2002（LinkedIn 2004）（第 92 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Perpa Ticaret Merkezi B Blok K:8 No:902-904, Şişli / İstanbul（第 92 批 官方登记核实 2026-10-28） |
+| 人数 | 16–49（LinkedIn 18；kariyer 25–49）（第 92 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 cenova.com.tr，语言 ?，快照状态 http_error；角色判定来源：用户表；OEM 30%：PoE 交换机贴 Cenova 标配自家相机；TIANDY 自带 PoE 交换机 = 现有基线，报价落在其下；关联店 Syscom Güvenlik（A Blok K:7）同一客服号；无公开老板姓名 → 写 satın alma（第 92 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / PoE 分销（土耳其）
 - **触达通道（公开）**：role: CCTV 分销商（土耳其，PoE 现 Ewind）；region: 土耳其；contact: info@cenova.com.tr、rifat@cenova.com.tr
@@ -316,12 +334,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
