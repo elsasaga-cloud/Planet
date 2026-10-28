@@ -1,6 +1,6 @@
 # netronicsnetworks.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-713`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　加拿大　|　档案编号 `SB-713`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：无线传输设备品牌商（美国，PoE 为配套）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-713
 rating: B
 rating_auto: B
 score: 33
-country: 美国
+country: 加拿大
+country_table: 美国  # 表内原填；调研纠正为 加拿大（research JSON country_fix）
 region: 北美
 website: netronicsnetworks.com
 type: 无线传输设备品牌商（美国，PoE 为配套）
@@ -75,17 +76,34 @@ updated: 2026-10-28
 
 - `netronicsnetworks.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（加拿大 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
-- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
+**公司底数 · 第 98 批（US→CA · 1 次检索：官网 About（Headquarters Netronics Communications Inc., 600-15 Allstate Avenue Markham, Ontario L3R 5B4, Canada）+ LinkedIn（Netronics Technologies；1996；11–50；Markham + Dubai Oud Metha 办公室）+ PRNewswire 2020-06-16（Netronics Communications 迪拜办公室，母公司 Netronics Technologies 加拿大 Markham；MENA 市场 2002 起；Aviat 渠道协议）+ CB Insights（1996；Markham），2026-10-28 查；https://www.netronicsnetworks.com/about-us）：**
+
+- 法定名 / 登记号：Netronics Communications Inc.（netronicsnetworks.com；Markham, Ontario, 加拿大 + 迪拜办公室）— 无线宽带 / 微波 PtP-PtMP 设备品牌商（国别更正 US → CA） · Ontario 公司号未取（Ontario 登记付费 / JS） · 状态 **在营** · 成立 1996 · Inc.（安大略；私有；Netronics Technologies 为母公司）
+- 行业码 / 经营范围：无线宽带设备设计 / 制造：PtP / PtMP 微波、毫米波、户外 Wi-Fi 基站、SCADA 电台（WISP / 政府 / 油气）；中东北非为主要市场（迪拜办公室）
+- 注册地址：600-15 Allstate Parkway, Markham, Ontario L3R 5B4, Canada；G-12 Al Nasr Plaza, Oud Metha, Dubai
+- 规模档：小型（11–50 人；≈$3M）
+- 账目：—；—
+- 高管：Khatri Diallo — CEO（ZoomInfo，待核）
+- 高管：Kenneth Kioria — System Engineer
+- 控制人 / 股东：未取
+- 曾用名：Netronics Technologies（母公司 / 品牌）
+- **这意味着什么：**
+  - **国别更正**：用户表归 US，实为加拿大 Markham（美国无地址）→ country_fix 加拿大；发信窗口按 ET（Wed 08–10）
+  - 性质 = 无线电台品牌商，交换机只是配套（表内「推 PoE」= 给基站配 PoE 交换机 / 注入器）→ 可贴 Netronics 标的工业 PoE 小口数（STI-054GP / STI-144GP）= **贴标试探 small（OEM 30%）**，但销量跟随其电台卖到 MENA，复利有限
+  - 一页纸写「outdoor-cabinet 工业 PoE 4+1 / 4+1 SFP，-40~75 °C，3 年保修，可贴标」，收件人 info@；不加厚
+- 备注：国别更正 CA；低概率。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | netronicsnetworks.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | netronicsnetworks.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 无线传输设备品牌商（美国，PoE 为配套） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
@@ -118,8 +136,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 netronicsnetworks.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Netronics Communications Inc.（安大略；母公司 / 品牌 Netronics Technologies；Ontario 公司号未取） |
+| 成立 | 1996（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 600-15 Allstate Parkway, Markham, Ontario L3R 5B4, Canada（+ 迪拜 Oud Metha 办公室） |
+| 人数 | 11–50 人；≈$3M |
+| 其他 | 官网 netronicsnetworks.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 98 批：**国别更正 US → 加拿大**（美国无地址）；无线电台品牌商、MENA 为主市场 → 贴标试探 small：Netronics 标工业 PoE 4+1 / 4+1 SFP（STI-054GP / STI-144GP）配基站；收件人 info@；不加厚（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：无线宽带 / 微波传输 / 监控传输（自有品牌 Netronics）
 - **触达通道（公开）**：role: 无线传输设备品牌商（美国，PoE 为配套）；region: 美国；contact: info@netronicsnetworks.com

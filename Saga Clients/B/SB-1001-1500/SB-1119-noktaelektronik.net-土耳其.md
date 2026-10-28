@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,6 +86,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 98 批（TR · 1 次检索：官网 künye（Nokta Elektronik ve Bilişim Sistemleri A.Ş.；**MERSİS 0631-0730-5210-0020；Tic. Sicil No 555138-0**；Perpa Ticaret Merkezi B Blok Kat 8 No. 906, 34384 Şişli；KEP noktaelektronikvebilisim@hs03.kep.tr）+ 官网 About（25 年以上；自有品牌 upTech = TPTO 注册商标 2008/13951，2008-03-11 首次注册、保护至 2028；upTech 产品 = ethernet / PoE 交换机、SFP、MC、跳线、连接器；市场土耳其 + 中东 + 突厥语国家 + 巴尔干；Dahua 分销伙伴）+ 官网 Offices（总部 / 两分部 Şişli + **İstanbul Fabrika Arnavutköy**）+ EMIS（A.Ş. 2005-05-26 设立）+ LinkedIn（51–200 人；2000）+ Perpa 旧名录「…San. Tic. Ltd. Şti.」，2026-10-28 查；https://www.noktaelektronik.net/en/hakkimizda）：**
+
+- 法定名 / 登记号：Nokta Elektronik ve Bilişim Sistemleri Sanayi ve Ticaret A.Ş.（noktaelektronik.net / .com.tr；Perpa, Şişli, İstanbul + Arnavutköy 工厂）— 安防 / 网络 B2B 分销商，自有品牌 upTech（PoE 交换机 / SFP / MC） · MERSİS 0631-0730-5210-0020；İstanbul Tic. Sicil 555138-0 · 状态 **Active（ETBİS 在册；KEP 有效）** · 成立 2005-05-26（A.Ş.；业务 2000 / 「25 年以上」） · A.Ş.（原 Ltd. Şti.，Perpa 旧名录）
+- 行业码 / 经营范围：安防（CCTV / IP 摄像 / NVR）、网络（PoE 交换机 / SFP / MC / 布线）、火灾报警、护士呼叫 B2B 分销（bayi 体系，B2B 平台）；自有品牌 upTech 制造 / 贴牌（Arnavutköy 工厂）
+- 注册地址：Perpa Ticaret Merkezi B Blok Kat 8 No. 906, 34384 Şişli / İstanbul（总部）；Arnavutköy / İstanbul（工厂）
+- 规模档：中型（51–200 人）
+- 账目：—；—
+- 高管：未取（官网不列董事；研究档无 KP）
+- 控制人 / 股东：未取
+- 曾用名：Nokta Elektronik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（Perpa 名录旧称）
+- **这意味着什么：**
+  - **OEM 30% 首选（TR）**：自有注册商标 upTech 下明确卖 PoE 交换机 / SFP / MC，且有 bayi 渠道 + 中东 / 突厥 / 巴尔干出口 → 正是「贴 upTech 标的 PoE 交换机」买家；首页主推 PLANET GS-5220 说明高端管理型也有需求 → 对标 PLANET 报 STC-424XGGPM-280W（Marvell L2+）+ HRUI 线做入门
+  - 收件人：研究档无 KP → nokta@noktaelektronik.net 点名「upTech ürün müdürü / satın alma」；首信只提 OEM 贴标 + MOQ 1 + 3 年保修（STI 工业线对其 Endüstriyel ethernet 品类）
+  - **升 A 候选**（回信即 A）：规模 51–200 + 自有品牌 + 工厂 + 出口渠道，四项全中；B BIG
+  - 发信窗口 Thu 10–12 TRT；ETBİS 在册 = 正规电商主体，付款走 T/T 无障碍
+- 备注：B BIG；OEM 30% 首选；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,9 +143,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Nokta Elektronik ve Bilişim Sistemleri |
-| 总部/地址 | İstanbul, 土耳其 |
-| 其他 | Planet 渠道档案 PB-041（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无） |
+| 法定名称 | Nokta Elektronik ve Bilişim Sistemleri Sanayi ve Ticaret A.Ş.（MERSİS 0631-0730-5210-0020；İstanbul Tic. Sicil 555138-0；原 Ltd. Şti.） |
+| 成立 | 2005-05-26（A.Ş.；业务 2000 / 25 年以上）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Perpa Ticaret Merkezi B Blok Kat 8 No. 906, 34384 Şişli / İstanbul；工厂 Arnavutköy |
+| 人数 | 51–200 人 |
+| 其他 | Planet 渠道档案 PB-041（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）；第 98 批：**自有注册商标 upTech（TPTO 2008/13951，保护至 2028）下卖 PoE 交换机 / SFP / MC + 自有工厂 + bayi 渠道 + 中东 / 突厥 / 巴尔干出口 → OEM 30% 首选（TR），升 A 候选**；Dahua 分销伙伴；首页主推 PLANET GS-5220 → 对标报 STC-424XGGPM-280W；收件人 nokta@ 点名 upTech ürün müdürü / satın alma（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）
 
@@ -294,12 +313,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 19）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 19）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

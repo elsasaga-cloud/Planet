@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,6 +76,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 98 批（DE · 1 次检索：官网 Impressum（comtime GmbH；Gutenbergring 67b, 22848 Norderstedt；GF Markus Kasten；**HRB Kiel 4574 NO**；USt-ID DE 813138753；WEEE DE 84024192）+ Creditreform（HRB 4574 NO Amtsgericht Kiel；2026-02-04 公告：GF 3. Kasten, Markus *1995 Hamburg 单独代表；2025-03-24 公告：地址迁 Gutenbergring 67b）+ Creditsafe（2000 年登记）+ firmenwissen（Active；1 GF）+ PresseBox / wlw（Josef Dorfer = Marketing und Vertrieb, Vertriebsleiter）+ stellenwerk Bremen 2026-06（「Industrierouter Made in Germany – von der Hardware bis zur Firmware」），2026-10-28 查；https://comtime-com.de/impressum/）：**
+
+- 法定名 / 登记号：comtime GmbH（comtime-com.de；Norderstedt bei Hamburg）— 工业路由器 / M2M 调制解调器制造商「Made in Germany」（DIN 导轨；为他牌 OEM） · Amtsgericht Kiel HRB 4574 NO；USt-IdNr. DE 813138753 · 状态 **Active（2026-02 新任 GF）** · 成立 2000（登记） · GmbH
+- 行业码 / 经营范围：工业路由器 / M2M 调制解调器（5G / LTE / DSL / LAN、OpenVPN 连接服务器、WebCenter 设备管理）自研自产；为第三方 OEM（站内 OEM 19 处）
+- 注册地址：Gutenbergring 67b, 22848 Norderstedt（2025-03 迁入；旧址 Gutenbergring 22）；研发招聘地 Bremen
+- 规模档：小型
+- 账目：—；—
+- 高管：Markus Kasten — Geschäftsführer（*1995；2026-02-04 登记，新任）
+- 高管：Josef Dorfer — Vertriebsleiter（Marketing und Vertrieb）= 研究档 KP jd@ 本人（2013 起即是销售负责人）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **准同行（工业路由器厂）**：不买交换机做转售，只可能「配套」→ 缝隙 = 他们的 DIN 导轨路由器旁边缺工业 PoE 交换机 → 贴 comtime 标的 STI-054GP / STI-144GP（4+1 SFP）做「Router + Switch 套件」= **贴标试探 small（OEM 30%）**
+  - 2026-02 换了 30 岁的新 GF（Markus Kasten）→ 新管理层常会补产品线 → 第二次触达写给新 GF 抄 Josef Dorfer，主题「DIN-rail PoE switch to pair with your LTE routers」
+  - 8 次群发无回复 + 「Made in Germany」品牌叙事 → 贴标要中性包装 + 不提产地争议；低优先，一页纸即止
+- 备注：准同行；贴标试探 small；低概率。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,15 +134,19 @@ updated: 2026-10-27
 - **【用户表】质量高 比较专业**
   > 质量高 / 比较专业
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Josef Dorfer（）jd@comtime-com.de 〔用户表〕
+- **KP**：Josef Dorfer（Vertriebsleiter（Marketing und Vertrieb；PresseBox / wlw，2013 起）= 销售总监本人 = 抄送；主收件人改写新 GF（第 98 批 官方登记核实 2026-10-28））jd@comtime-com.de 〔用户表〕
+- **KP**：Markus Kasten（Geschäftsführer（*1995；HRB 4574 NO Kiel，2026-02-04 登记新任）= 第二次触达主收件人（info@ 点名）（第 98 批 官方登记核实 2026-10-28）） 〔https://comtime-com.de/impressum/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 comtime-com.de，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | comtime GmbH（Amtsgericht Kiel HRB 4574 NO；USt-IdNr. DE 813138753；WEEE DE 84024192） |
+| 成立 | 2000（登记）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Gutenbergring 67b, 22848 Norderstedt（2025-03 迁入）；研发招聘 Bremen |
+| 人数 | 小型 |
+| 其他 | 官网 comtime-com.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 98 批：工业路由器厂「Made in Germany」= 准同行 → 缝隙 = DIN 导轨路由器旁缺工业 PoE 交换机 → 贴 comtime 标 STI-054GP / STI-144GP「Router + Switch 套件」贴标试探 small；2026-02 新 GF → 新管理层补产品线的窗口；低优先（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业路由器 / 调制解调器（自有品牌 comtime）
 - **触达通道（公开）**：role: 工业路由器制造商（德国，自有品牌，交换机为邻近品类）；region: 德国；contact: jd@comtime-com.de、sales@comtime-com.de
@@ -219,7 +239,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Josef Dorfer | — | jd@comtime-com.de | 调研核实（公开页） | 用户表 |
+| Josef Dorfer | Vertriebsleiter（Marketing und Vertrieb；PresseBox / wlw，2013 起）= 销售总监本人 = 抄送；主收件人改写新 GF（第 98 批 官方登记核实 2026-10-28） | jd@comtime-com.de | 调研核实（公开页） | 用户表 |
+| Markus Kasten | Geschäftsführer（*1995；HRB 4574 NO Kiel，2026-02-04 登记新任）= 第二次触达主收件人（info@ 点名）（第 98 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://comtime-com.de/impressum/ |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -313,12 +334,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

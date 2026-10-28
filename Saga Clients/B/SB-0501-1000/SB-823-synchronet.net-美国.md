@@ -79,6 +79,25 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 98 批（US · 1 次检索：Clutch 档案引 NY Department of State Division of Corporations（Business Entity Name SynchroNet Industries, Inc.；Jurisdiction New York；Date of Formation 1999-02-12；Status Active；ID 2345709；Last Updated 2025-12-20）+ 官网 About（CEO Jerry Sheehan；Vice President Tanner Sanderson；serving Buffalo since 1998）+ ZoomInfo（1800 N America Dr Ste A, West Seneca NY 14224）+ RocketReach（27 人；$7M；旧址 3654 Clinton St），2026-10-28 查；https://clutch.co/profile/synchronet-industries）：**
+
+- 法定名 / 登记号：SynchroNet Industries, Inc.（synchronet.net；West Seneca / Buffalo, NY）— 托管 IT 服务商（MSP，1998 起） · NY DOS ID 2345709 · 状态 **Active（NY DOS，2025-12-20 更新）** · 成立 1999-02-12（业务 1998 起） · Inc.（纽约州；私有，老板 Jerry Sheehan）
+- 行业码 / 经营范围：托管 IT 服务 / IT 外包（MSP）：中小企业（医疗 / 制造 / 专业服务）网络运维、网络安全、备份、M365
+- 注册地址：1800 N America Dr, Suite A, West Seneca, NY 14224（旧址 3654 Clinton St, West Seneca）
+- 规模档：小型（10–49 人；≈$7M）
+- 账目：—；—
+- 高管：Jerry Sheehan — CEO / President（创办人，1998 起）
+- 高管：Tanner Sanderson — Vice President（Sales / Business Development，2019 起）= 研究档 KP tanner@ 本人
+- 高管：Gordon Brandt — Engineer（研究档 KP gbrandt@）
+- 高管：Jason Carnevale — vCIO
+- 高管：Michael Zekas — Operations Manager
+- 控制人 / 股东：Jerry Sheehan（推定；私有）
+- **这意味着什么：**
+  - **研究档 KP 坐实**：Tanner Sanderson = 公司 VP（销售 / BD）本人，不是普通销售 → 发信对象正确；Gordon Brandt 为工程师 = 技术选型人，抄送
+  - 性质 = MSP（给客户采购 + 代运维）→ 不是品牌商也不是分销商，走 **小项目集成商 25%**；买点是「客户项目用的堆叠 / PoE 接入交换机便宜 30–40%、3 年保修（STI）」
+  - 表内「Stacking」→ 只有 STH（CENTEC）能堆叠；MSP 中小客户更可能用 STC-4424GCPM / STC-424XGGPM-280W 做接入 + 10G 上联，一页纸写两档价即可
+  - 发信窗口 Wed 08–10 ET；不加厚（MSP 复购靠项目，复利一般）
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,16 +131,19 @@ updated: 2026-10-28
 - **【用户表】Stacking**
   > Stacking
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Tanner Sanderson（）tanner@synchronet.net 〔用户表〕
-- **KP**：Gordon Brandt（）gbrandt@synchronet.net 〔用户表〕
+- **KP**：Tanner Sanderson（Vice President（Sales / Business Development，2019 起；官网 About 列第二号人物）= **拍板人之一 = 收件人**（第 98 批 官方登记核实 2026-10-28））tanner@synchronet.net 〔用户表〕
+- **KP**：Gordon Brandt（Engineer（技术选型）= 抄送（第 98 批 官方登记核实 2026-10-28））gbrandt@synchronet.net 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 synchronet.net，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | SynchroNet Industries, Inc.（NY DOS ID 2345709；1999-02-12 成立；Active） |
+| 成立 | 1999-02-12（业务 1998）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1800 N America Dr, Suite A, West Seneca, NY 14224 |
+| 人数 | 10–49 人；≈$7M |
+| 其他 | 官网 synchronet.net，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 98 批：MSP（托管 IT）→ 小项目集成商 25%；CEO Jerry Sheehan（创办人）；表内「Stacking」只有 STH 能做，MSP 客户更可能用 STC-4424GCPM / STC-424XGGPM-280W（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：托管 IT 服务（MSP）
 - **触达通道（公开）**：role: MSP/IT 服务商（美国，堆叠需求）；region: 美国；contact: tanner@synchronet.net、gbrandt@synchronet.net
@@ -195,8 +217,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tanner Sanderson | — | tanner@synchronet.net | 调研核实（公开页） | 用户表 |
-| Gordon Brandt | — | gbrandt@synchronet.net | 调研核实（公开页） | 用户表 |
+| Tanner Sanderson | Vice President（Sales / Business Development，2019 起；官网 About 列第二号人物）= **拍板人之一 = 收件人**（第 98 批 官方登记核实 2026-10-28） | tanner@synchronet.net | 调研核实（公开页） | 用户表 |
+| Gordon Brandt | Engineer（技术选型）= 抄送（第 98 批 官方登记核实 2026-10-28） | gbrandt@synchronet.net | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

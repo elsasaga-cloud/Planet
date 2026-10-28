@@ -1,7 +1,7 @@
 # triotronik.com
 **官方名称（调研核实）**：TRIOTRONIK Computerhandels GmbH
 
-> **评级 B**　|　德国　|　档案编号 `SB-1091`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　奥地利　|　档案编号 `SB-1091`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:DE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "TRIOTRONIK Computerhandels GmbH"
 score: 25
-country: 德国
+country: 奥地利
+country_table: 德国  # 表内原填；调研纠正为 奥地利（research JSON country_fix）
 region: 欧洲
 website: triotronik.com
 type: 分销商/经销商
@@ -27,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,14 +83,32 @@ updated: 2026-10-27
 
 - `triotronik.com` → Microsoft 365（MX：triotronik-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让：** 下一步为「不动」，不排发信，略。
+**公司底数 · 第 98 批（DE→AT · 1 次检索：akademie.triotronik.com Impressum（TRIOTRONIK Computer und Netzwerktechnik GmbH；Energiestraße 10, 8160 Weiz；UID ATU63017835；**Firmenbuchnr. 287460k LG ZRS Graz**；Geschäftsführung Peter Hofer-Perner, Thomas Thir；Beteiligung TRIOTRONIK Holding GmbH 100%；Unternehmensgegenstand 网络组件批发 + 光纤 / 铜缆网络组件与 WLAN 天线制造）+ firmenatlas（FN 287460K 活跃；**2026-09-16 更名 TRIOTRONIK GmbH**；2007-02-07 设立；2025 年报 Bilanzsumme €12.4M / Eigenkapital €3.7M / Jahresüberschuss €3.6M；GF Thomas Thir-Greiter *1983 + Peter Hofer-Perner *1967（均 2021-10-11 起单独代表）；Prokurist Bernhard Flicker *1986）+ WKO（GISA 20818319 / 20895938；Krottendorf 站点 2012-11-20 起）+ unternehmen24（资本 €35,000）+ Kleine Zeitung 2026-09-30「So will die Firma Triotronik in Weiz weiter wachsen」（三位股东 Thir-Greiter / Flicker 销售总监 / Hofer-Perner），2026-10-28 查；https://www.firmenatlas.com/firma/287460k）：**
+
+- 法定名 / 登记号：TRIOTRONIK GmbH（2026-09-16 更名自 TRIOTRONIK Computer und Netzwerktechnik GmbH；triotronik.com；Weiz / Krottendorf, Steiermark, 奥地利）— 网络组件批发「der Netzwerkdistributor」+ 光纤 / 铜缆组件与 WLAN 天线制造（国别更正 DE → AT） · FN 287460k（LG ZRS Graz）；UID ATU63017835；GLN 9110017050682 · 状态 **Active（2026-09-16 更名；2025 年报已交）** · 成立 2007-02-07 · GmbH（资本 €35,000；TRIOTRONIK Holding GmbH 100% → 三位经营股东）
+- 行业码 / 经营范围：网络组件批发（MikroTik Master 分销、PLANET 在线销售专页、Ubiquiti 等）；光纤 / 铜缆网络组件与 WLAN 天线制造（自有品牌）；TRIOTRONIK Akademie 培训
+- 注册地址：Energiestraße 10, 8160 Weiz（Krottendorf）, Steiermark, Austria
+- 规模档：中型（净利 €3.6M；奥地利区域性分销商）
+- 账目：2025 年报：资产总额 €12.4M；权益 €3.7M（30.1%）；净利 €3.6M（firmenatlas）；—
+- 高管：Thomas Thir-Greiter — Geschäftsführer + Gesellschafter（2021-10-11 起；此前 Prokurist）
+- 高管：Peter (Hubert) Hofer-Perner — Geschäftsführer + Gesellschafter（2021-10-11 起）
+- 高管：Bernhard Flicker — Prokurist + Vertriebsleiter + Gesellschafter
+- 高管：Wolfgang Sembacher — 前 GF（已卸任）
+- 控制人 / 股东：TRIOTRONIK Holding GmbH（100%）→ Thir-Greiter / Hofer-Perner / Flicker
+- 曾用名：TRIOTRONIK Computer und Netzwerktechnik GmbH（2007-02-07 → 2026-09-16）
+- **这意味着什么：**
+  - **国别更正**：用户表归 DE，实为奥地利施蒂利亚 Weiz → country_fix 奥地利；发信窗口与 DE 同（Thu 12–14 CET）
+  - **分销 20%，B BIG**：MikroTik Master 分销 + PLANET 专页 = 正好卖我们对标的两个牌子；2025 净利 €3.6M、2021 管理层收购后三位股东经营、2026-09 更名 + 扩张报道 → 有钱有渠道有决策人
+  - 收件人：研究档无 KP → 写 Bernhard Flicker（Vertriebsleiter + 股东，产品线决策）抄 office@；对标 PLANET GS-4210 / MikroTik CRS 报 STC-424XGGPM-280W（$198 list）+ HRUI 入门线，卖点 = PLANET 同规格 -30%、Marvell L2+、3 年保修（STI）
+  - 自有制造（光纤 / 铜缆组件 + 天线）= 有贴标习惯 → 第二句带「TRIOTRONIK 标 PoE 交换机 OEM 30%，MOQ 1」；升 A 候选（回信即 A）
+- 备注：国别更正 AT；B BIG；分销 20% + 贴标；升 A 候选。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | triotronik.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 德国 | 事实（用户表）|
+| 国家 | 奥地利 | 事实（用户表）|
 | 网站/域名 | triotronik.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
 | 联系人 | 质量一般 | 事实（用户表） |
@@ -110,15 +129,18 @@ updated: 2026-10-27
 - **【Mikrotik 仓库】A-469 同户（人工 A）**
   > A-469 TRIOTRONIK 奥地利 分销（MikroTik 官方）… +43 3172 42299 0 / mikrotik@triotronik.com … «der Netzwerkdistributor»
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- **KP**：Bernhard Flicker（Prokurist + Vertriebsleiter + Gesellschafter（firmenatlas / Kleine Zeitung 2026-09-30）= 收件人（office@triotronik.com 点名；研究档无 KP）（第 98 批 官方登记核实 2026-10-28）） 〔https://www.firmenatlas.com/firma/287460k〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-038，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | TRIOTRONIK Computerhandels GmbH |
-| 总部/地址 | Weiz, 奥地利 |
-| 其他 | Planet 渠道档案 PB-038（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch） |
+| 法定名称 | TRIOTRONIK GmbH（2026-09-16 更名自 TRIOTRONIK Computer und Netzwerktechnik GmbH；FN 287460k LG ZRS Graz；UID ATU63017835；资本 €35,000；TRIOTRONIK Holding GmbH 100%） |
+| 成立 | 2007-02-07（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Energiestraße 10, 8160 Weiz（Krottendorf）, Steiermark, Austria |
+| 人数 | 中型（2025 年报：资产 €12.4M / 权益 €3.7M / 净利 €3.6M） |
+| 其他 | Planet 渠道档案 PB-038（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch）；第 98 批：**国别更正 DE → 奥地利**；MikroTik Master 分销 + PLANET 在线专页 + 自有光纤 / 铜缆组件与天线制造 → 分销 20% + 贴标（TRIOTRONIK 标 PoE OEM 30%）；GF Thomas Thir-Greiter + Peter Hofer-Perner（2021-10 起，三位经营股东）；**B BIG，升 A 候选**（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）
 
@@ -181,7 +203,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | office@triotronik.com | 用户表原值 | Clients/ 表 |
+| Bernhard Flicker | Prokurist + Vertriebsleiter + Gesellschafter（firmenatlas / Kleine Zeitung 2026-09-30）= 收件人（office@triotronik.com 点名；研究档无 KP）（第 98 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.firmenatlas.com/firma/287460k |
 
 - **通道建议**：企业邮箱可直发
 
@@ -249,7 +271,7 @@ updated: 2026-10-27
 **主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Bernhard,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. PLANET sits in your catalogue next to MikroTik; a PoE+ second source at a lower tier gives your Austrian resellers a price point between the two. Between MikroTik and PLANET, which brand do your resellers pick for 24-port PoE+ today, and on what grounds?
 
@@ -274,12 +296,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

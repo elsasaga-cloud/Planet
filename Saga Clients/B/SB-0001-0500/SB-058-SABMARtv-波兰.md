@@ -79,6 +79,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 98 批（PL · 1 次检索：GoWork（Nazwa pełna „SABMARTV” MARCIN WYPIOR；ul. Gruntowa 43D, 44-270 Rybnik；**NIP 6421823587；REGON 273230435**；Forma prawna Indywidualna działalność gospodarcza；Data rozpoczęcia 1997-05-14）+ Targeo（PKD 59.11.Z 影视 / 电视节目制作）+ krs-online / pkt.pl（Sabmar Studio foto-video，1996 起）+ WP SportoweFakty 2024-09-16（Marcin Wypiór = 网络电视 SABMARtv 所有人；速道赛转播）+ ppv.stream 规则页（组织者 SABMARtv, Rybnik, NIP 642-182-35-87），2026-10-28 查；https://www.gowork.pl/sabmartv-marcin-wypior,25701005/dane-kontaktowe-firmy）：**
+
+- 法定名 / 登记号：„SABMARTV” Marcin Wypiór（sabmar.tv；Rybnik）— 体育赛事网络直播 / 转播制作个体企业（摩托车速道赛 PPV）= 终端用户 · NIP 6421823587；REGON 273230435（CEIDG） · 状态 **Active（2024 转播活跃）** · 成立 1997-05-14（CEIDG） · Indywidualna działalność gospodarcza（个体）
+- 行业码 / 经营范围：59.11.Z 体育赛事网络直播 / 转播制作（2 辆转播车、虚拟演播室、PPV 平台）；27.31.Z 光缆生产（登记副业）
+- 注册地址：ul. Gruntowa 43D, 44-270 Rybnik（旧址 Modrzewiowa 22）
+- 规模档：微型（家庭经营；子 Błażej Wypiór 参与）
+- 账目：—（个体）；—
+- 高管：Marcin Wypiór — 业主 = 研究档 KP biuro@sabmar.tv
+- 控制人 / 股东：Marcin Wypiór
+- 曾用名：Sabmar Studio foto-video（1996）
+- **这意味着什么：**
+  - **终端用户（转播制作个体）**：买交换机只为自己转播车 / 演播室的 IP 视频网（SMPTE 2110 需要 PTP / 大缓存，非我们强项）→ **不加厚，一页纸即止**；若回信只报 STC-110XGE（10G）/ STC-424XGGPM-280W 两行
+  - 登记副业 27.31.Z 光缆生产 = 他们自己做光缆跳线 → 与我们无交集；复利无
+- 备注：终端用户；低概率；下轮不追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,7 +130,7 @@ updated: 2026-10-28
 - **【用户表】压缩 HDMI 光端机成样品单；WhatsApp 已加**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marcin Wypiór（Owner（官网/媒体公开））biuro@sabmar.tv（公司公开） +48 501 776 652〔http://www.sabmar.tv/〕
+- **KP**：Marcin Wypiór（业主（CEIDG „SABMARTV” Marcin Wypiór；NIP 6421823587；REGON 273230435）= 终端用户，不加厚（第 98 批 官方登记核实 2026-10-28））biuro@sabmar.tv（公司公开） +48 501 776 652〔http://www.sabmar.tv/〕
 - **调研后定级**：B（原自动 B）——成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。
 - 备注：若其视频项目需 PoE 交换机再报；不主动投入。
 
@@ -123,9 +138,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Sabmartv Marcin Wypior（NIP 6421823587） |
-| 总部/地址 | Modrzewiowa 22, 44-270 Rybnik, Polska（+48 501 776 652；biuro@sabmar.tv） |
-| 其他 | PKD 59.11.Z 影视制作；27.31.Z 光缆生产（登记）；Facebook 53 评 98% 推荐 |
+| 法定名称 | „SABMARTV” Marcin Wypiór（Indywidualna działalność gospodarcza；NIP 6421823587；REGON 273230435） |
+| 成立 | 1997-05-14（CEIDG）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Gruntowa 43D, 44-270 Rybnik |
+| 人数 | 微型（家庭经营） |
+| 其他 | PKD 59.11.Z 影视制作；27.31.Z 光缆生产（登记）；Facebook 53 评 98% 推荐；第 98 批：体育赛事网络直播制作个体（速道赛 PPV）= 终端用户，交换机只为转播车 / 演播室 → 一页纸即止（STC-110XGE / STC-424XGGPM-280W 两行）（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：体育/文化/会议赛事网络直播与电视信号制作（OB van）；虚拟演播室与远程制作；光纤/HDMI 信号传输自用与小批量采购
 - **触达通道（公开）**：网站: http://www.sabmar.tv/；电话: +48 501 776 652（官网公开）；邮箱（公开）: biuro@sabmar.tv / telewizjasabmar@gmail.com；Facebook: https://www.facebook.com/sabmartv/
@@ -154,7 +171,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marcin Wypiór | Owner（官网/媒体公开） | biuro@sabmar.tv（公司公开） / +48 501 776 652 | 调研核实（公开页） | http://www.sabmar.tv/ |
+| Marcin Wypiór | 业主（CEIDG „SABMARTV” Marcin Wypiór；NIP 6421823587；REGON 273230435）= 终端用户，不加厚（第 98 批 官方登记核实 2026-10-28） | biuro@sabmar.tv（公司公开） / +48 501 776 652 | 调研核实（公开页） | http://www.sabmar.tv/ |
 | Mr.Marcin Wypior | — | studio.sabmar@poczta.fm / +48501776652 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）

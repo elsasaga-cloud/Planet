@@ -80,6 +80,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 98 批（TR · 1 次检索：RocketReach（SFPTURKEY Elektronik İth. İhr. Ticaret Ltd. Şti.；**Managing Partner Ufuk Gören**）+ ZoomInfo（Ufuk Gören = Managing Partner；此前 Cinch Connectivity Solutions 土耳其国家经理、Vestel；Dokuz Eylül BA + Işık MSc）+ X @Kreasis（Sfpturkey Elektronik İthalat İhracat Ticaret Ltd Sti；Koşuyolu Mah, Kadıköy；0212 270 57 32 / 37）；研究档已载 2012 Kreasis 起家、2014 Gigacom / 2015 SFPTürkiye / 2016 geMaxx 三品牌唯一进口分销、2018 自营电商、2020 起 amazon.com.tr / hepsiburada / trendyol，2026-10-28 查；https://rocketreach.co/sfpturkey-elektronik-ith-ihr-ticaret-ltd-sti-profile_b7669894c53eb398）：**
+
+- 法定名 / 登记号：SFPTURKEY Elektronik İthalat İhracat Ticaret Ltd. Şti.（sfpturkey.com.tr；Koşuyolu, Kadıköy, İstanbul）— 光模块 / 网络设备进口商与电商，自有品牌 Gigacom / SFPTürkiye / geMaxx · MERSİS / 税号未取（1 次即停） · 状态 **Active（2023 社媒活跃；电商平台在售）** · 成立 2012（Kreasis 起） · Ltd. Şti.
+- 行业码 / 经营范围：光模块 / DAC / MC / 交换机进口与电商（自有品牌 Gigacom / SFPTürkiye / geMaxx 唯一进口商）；Amazon.com.tr / Hepsiburada / Trendyol 店铺
+- 注册地址：Koşuyolu Mah., Kadıköy / İstanbul
+- 规模档：微型 / 小型
+- 账目：—；—
+- 高管：Ufuk Gören — Managing Partner（老板）= 研究档 KP ufuk.goren@ 本人
+- 控制人 / 股东：Ufuk Gören（推定）
+- 曾用名：Kreasis（2012 起）
+- **这意味着什么：**
+  - **研究档 KP 坐实 = 老板本人**（Managing Partner，连接器行业出身 Cinch 国家经理）→ 发信直达决策人
+  - 三个「自有品牌」实为进口贴牌（Gigacom / geMaxx）→ **贴标试探（OEM 30%）**：geMaxx 标 MC / 小 PoE 交换机（STI-054GP / STC-028GP）MOQ 1 起；光模块本身 Saga 不做，信里不提
+  - 电商为主 → 价格敏感、小批量多频次 → HRUI 线报价 + DAP 伊斯坦布尔（百运网）一句；发信窗口 Thu 10–12 TRT；不加厚
+- 备注：KP = 老板本人。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - 6524 TL ← 「6524 TL Bayi Girişi Ara 0 Network Switch 100Mbit SFP Port 1Gigabit SFP Port SFP+ Port SFP28 Port QSFP+ Port QSFP28 Port Endüstriye」（https://www.sfpturkey.com.tr/products/667671489-network-switch）
@@ -117,17 +133,18 @@ updated: 2026-10-28
 - **【用户表】ISAF 互动：推荐 10G/2 光 2 电/2 光 4 电/bypass；修图需求**
   > Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站的图片需求， 我们修好图给客户
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ufuk Gören（（用户表联系人；职务待核））ufuk.goren@sfpturkey.com.tr（用户表） +90 555 090 87 37（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ufuk Gören（Managing Partner（RocketReach / ZoomInfo；前 Cinch Connectivity 土耳其国家经理、Vestel）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28））ufuk.goren@sfpturkey.com.tr（用户表） +90 555 090 87 37（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SFPTURKEY Elektronik İthalat İhracat Ticaret Ltd. Şti.（2022-11-18 更名） |
-| 成立 | 2012（Kreasis） |
-| 总部/地址 | Koşuyolu Mah. Cenap Şahabettin Sok. No.16, Kadıköy / İstanbul（+90 555 090 87 37；satis@sfpturkey.com.tr） |
-| 其他 | 自有品牌 SFPTÜRKİYE/SFPTURKEY（土耳其专利局注册）、geMaxx、Gigacom；CE/FC/RoHS；电商 + 市场平台店铺 |
+| 法定名称 | SFPTURKEY Elektronik İthalat İhracat Ticaret Ltd. Şti.（MERSİS 未取） |
+| 成立 | 2012（Kreasis 起）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Koşuyolu Mah., Kadıköy / İstanbul |
+| 人数 | 微型 / 小型 |
+| 其他 | 自有品牌 SFPTÜRKİYE/SFPTURKEY（土耳其专利局注册）、geMaxx、Gigacom；CE/FC/RoHS；电商 + 市场平台店铺；第 98 批：三个「自有品牌」Gigacom / SFPTürkiye / geMaxx 实为进口贴牌 → 贴标试探（OEM 30%）：geMaxx 标 MC / 小 PoE（STI-054GP / STC-028GP）MOQ 1；电商为主 → HRUI 线 + DAP 伊斯坦布尔；光模块不提（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：兼容光模块（1G–100G）进口与电商销售；网络交换机（含工业型）、介质转换器、光纤网卡（自有品牌）
 - **触达通道（公开）**：电商: https://www.sfpturkey.com.tr/ · https://sfpturkiye.com/；电话: +90 555 090 87 37（公开）；邮箱（公开）: satis@sfpturkey.com.tr / info@sfpturkey.com.tr；LinkedIn: https://tr.linkedin.com/company/sfpturkey
@@ -192,7 +209,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ufuk Gören | （用户表联系人；职务待核） | ufuk.goren@sfpturkey.com.tr（用户表） / +90 555 090 87 37（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ufuk Gören | Managing Partner（RocketReach / ZoomInfo；前 Cinch Connectivity 土耳其国家经理、Vestel）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28） | ufuk.goren@sfpturkey.com.tr（用户表） / +90 555 090 87 37（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | UFUK GOREN | — | ufuk.goren@sfpturkey.com.tr / satis@sfpturkey.com.tr / +05322254195 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

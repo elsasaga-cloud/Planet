@@ -78,6 +78,24 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 98 批（DE · 1 次检索：官网 Impressum（aplus Datenkabel und Kommunikationssysteme GmbH & Co. KG；Gerhard-Stalling-Straße 34, 26135 Oldenburg；**Amtsgericht Oldenburg HRA 4241**；Komplementärin aplusNET Beteiligungs-GmbH HRB 5681；GF Smilka Geserick, Sonja Geserick；USt-IdNr. DE814202910）+ companyhouse（2005-02-28；Kapital €250,000；Gesellschafter Sonja Geserick；Prokurist Arno Geserick 1994 起）+ kabelprofi.net Über uns / Compliance（1986 Arno Geserick 创办；1996 起扩至 IT 分销；1997 注册商标 a-plus / aplusNet；2005 二代 Smilka + Sonja Geserick 接班）+ Northdata（HRA 4241；文字图形商标 aplusNET）+ ChannelPartner「Spezial-Distributoren」名录（网络产品 + 定制线缆组装），2026-10-28 查；https://www.aplusnet.de/Informationen/Impressum/）：**
+
+- 法定名 / 登记号：aplus Datenkabel und Kommunikationssysteme GmbH & Co. KG（aplusnet.de / kabelprofi.net；Oldenburg）— 线缆组装起家的网络产品专业分销商（商标 a-plus / aplusNet；二代家族企业） · Amtsgericht Oldenburg HRA 4241（KG）/ HRB 5681（Komplementär-GmbH）；USt-IdNr. DE814202910 · 状态 **Active** · 成立 1986（业务）/ 2005-02-28（现 KG 形式） · GmbH & Co. KG（资本 €250,000；家族二代）
+- 行业码 / 经营范围：网络产品专业分销（SFP、工业交换机、MC、PoE；Digitus 等）；定制线缆 / 线束组装（机械设备、车辆测量、IT / 电信）；自有商标 a-plus / aplusNet
+- 注册地址：Gerhard-Stalling-Straße 34, 26135 Oldenburg
+- 规模档：小型 / 中型（资本 €250,000；专业分销）
+- 账目：—（KG 简式）；—
+- 高管：Sonja Geserick — Geschäftsführerin（Komplementär-GmbH）+ Gesellschafterin = 研究档 KP sonja.geserick@ 本人
+- 高管：Smilka Geserick — Geschäftsführerin
+- 高管：Arno Geserick — 创办人，Prokurist（1994 起）
+- 控制人 / 股东：Geserick 家族
+- **这意味着什么：**
+  - **研究档 KP 坐实 = 老板本人**（二代 GF + 股东）→ 发信直达决策人
+  - 表内「Digitus 的产品很多，价格很高」= 现用 Assmann/Digitus 做 MC / 工业 FS / PoE 货源 → **分销 20%**：对标 Digitus 报 STC-110XGE（$65）/ STI-288DGGPM（$137）/ STC-228GP（$33），卖点 = 同规格 -30~40%
+  - 自有商标 aplusNet 已注册 29 年 + 自有线缆组装 = 有贴标基因 → 第二句「aplusNet 标 MC / PoE 交换机 OEM 30%，MOQ 1」；收件人 Sonja Geserick；发信窗口 Thu 12–14 CET
+  - 官网 unreachable（研究档）但 kabelprofi.net / Impressum 2026 在线 → 地址与邮箱有效；表内「质量一般」= Simon 对其货的评价，不影响发信
+- 备注：KP = 老板本人；分销 20% + 贴标。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +123,18 @@ updated: 2026-10-28
 - **【用户表】Digitus 产品很多 价格很高**
   > SFP 工业FS MC POE Digitus的产品很多 价格很高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Sonja Geserick（）sonja.geserick@aplusnet.de 〔用户表〕
+- **KP**：Sonja Geserick（Geschäftsführerin（Komplementär-GmbH aplusNET Beteiligungs-GmbH HRB 5681）+ Gesellschafterin；二代（2005 接班）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28））sonja.geserick@aplusnet.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 aplusnet.de，语言 ?，快照状态 unreachable；角色判定来源：待核 |
+| 法定名称 | aplus Datenkabel und Kommunikationssysteme GmbH & Co. KG（Amtsgericht Oldenburg HRA 4241；USt-IdNr. DE814202910；资本 €250,000；商标 a-plus / aplusNet 1997） |
+| 成立 | 1986（业务）/ 2005-02-28（现 KG）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Gerhard-Stalling-Straße 34, 26135 Oldenburg |
+| 人数 | 小型 / 中型（专业分销） |
+| 其他 | 官网 aplusnet.de，语言 ?，快照状态 unreachable；角色判定来源：待核；第 98 批：线缆组装起家的网络产品专业分销商（ChannelPartner Spezial-Distributor）；表内「Digitus 的产品很多，价格很高」→ 对标 Digitus 报 STC-110XGE / STI-288DGGPM / STC-228GP，分销 20%；自有商标 aplusNet → 贴标第二句；GF 另一位 Smilka Geserick，创办人 Arno Geserick Prokurist（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品经销（德国）
 - **触达通道（公开）**：role: 网络产品经销商（德国，Digitus 为主）；region: 德国；contact: info@aplusnet.de、sonja.geserick@aplusnet.de
@@ -164,7 +185,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sonja Geserick | — | sonja.geserick@aplusnet.de | 调研核实（公开页） | 用户表 |
+| Sonja Geserick | Geschäftsführerin（Komplementär-GmbH aplusNET Beteiligungs-GmbH HRB 5681）+ Gesellschafterin；二代（2005 接班）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28） | sonja.geserick@aplusnet.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

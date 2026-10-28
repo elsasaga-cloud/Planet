@@ -91,6 +91,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 98 批（US · 1 次检索：Senao Networks 2021 年报 / 合并报表（EnGenius Technologies, Inc. 100% 子公司，Sales of communication products；Senao International Co., Ltd. 持 33.79% Senao Networks；Senao Networks 2006-10-12 自 Senao International 无线事业部分拆）+ LinkedIn（EnGenius Technologies；1999；201–500；Costa Mesa CA；Specialties Switches / Access Points / cloud management）+ Bloomberg 3900490Z:US + Wikitia（GM MC Leo；Senao Networks 董事长 Tommy Tsai），2026-10-28 查；https://static.engeniuscdn.com/wp-content/uploads/2022/08/09163213/%E7%A5%9E%E6%BA%962021Q4%E8%8B%B1%E6%96%87%E8%B2%A1%E5%A0%B1.pdf）：**
+
+- 法定名 / 登记号：EnGenius Technologies, Inc.（engeniustech.com；Costa Mesa, CA）— 台湾 Senao Networks（TWSE 3558）全资美国销售子公司 = 交换机品牌商 → 同行 · CA 公司（SoS 号未取）；母公司 Senao Networks, Inc. 台湾股票代码 3558 · 状态 **Active** · 成立 1999 · Inc.（加州；Senao Networks 100% 持有）
+- 行业码 / 经营范围：自有品牌网络设备销售：Wi-Fi AP、交换机（含云管理 EnGenius Cloud）、VPN 路由、PDU、AI 监控；母公司台湾桃园自产
+- 注册地址：1580 Scenic Ave, Costa Mesa, CA 92626（LinkedIn / 官网）
+- 规模档：中型（201–500 人；母公司 2,500 人）
+- 账目：—；—
+- 高管：MC Leo — General Manager, EnGenius Technologies, Inc.
+- 高管：Tommy Tsai — Chairman & CEO, Senao Networks（母公司）
+- 控制人 / 股东：Senao Networks, Inc.（100%）
+- **这意味着什么：**
+  - **同行**：这是台湾原厂（神準科技 Senao）自有品牌交换机的美国销售公司，交换机自产 + 云管理 → 不会买我们的 → **B 不动**（群发 10 次无回复也印证）
+  - 记档价值：表内「商业 FS 大口、SFP、PoE 配件」说的是他们的产品线而非需求；剔出群发名单
+- 备注：同行；不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,8 +145,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 engeniustech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | EnGenius Technologies, Inc.（加州；Senao Networks, Inc. 台湾 3558 100% 子公司） |
+| 成立 | 1999（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1580 Scenic Ave, Costa Mesa, CA 92626 |
+| 人数 | 201–500 人（母公司 2,500） |
+| 其他 | 官网 engeniustech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 98 批：**同行（台湾原厂自有品牌交换机的美国销售公司）→ 不发、剔出群发**；表内「商业 FS 大口、SFP、PoE 配件」是其产品线而非需求（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Wi-Fi / 交换机 / 监控 / VPN 路由 / PDU（自有品牌）
 - **触达通道（公开）**：role: 台湾网络品牌美国公司（台湾厂商口径二供）；region: 美国；contact: sales@engeniustech.com

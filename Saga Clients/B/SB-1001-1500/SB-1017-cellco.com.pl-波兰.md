@@ -79,6 +79,24 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 98 批（PL · 1 次检索：官网 Kontakt（Cellco Communications Sp. z o.o.；ul. Szczecińska 30E, 73-108 Kobylanka；分部 Plac Konesera 12, 03-736 Warszawa；**NIP 852-18-26-706；KRS 0000213509 Sąd Rejonowy w Szczecinie；Kapitał 52,000 zł**；Tomasz Wieczorek = CEO / Prezes Zarządu tomasz.wieczorek@；Piotr Wieczorek = Zastępca Prezesa；Bartosz Wieczorek = Head of Technology (R&D)）+ rejestr.io（2004-08-03；Prezes Tomasz Piotr Wieczorek 2004 起 = 股东 + 实际受益人；规模指标 24 mln）+ aleo（Tomasz Piotr Wieczorek 416 份 / 41,600 zł = 80%）+ krs-online（PKD 27.31.Z 光缆生产）+ gowork（Piotr Mariusz Wieczorek 副总），2026-10-28 查；https://www.cellco.com.pl/kontakt.htm）：**
+
+- 法定名 / 登记号：Cellco Communications Sp. z o.o.（cellco.com.pl；Kobylanka k. Szczecina + Warszawa 分部）— 光纤技术供应商 / 光缆生产（Wieczorek 家族） · KRS 0000213509（Szczecin）；NIP 8521826706 · 状态 **Active（2026 官网更新）** · 成立 2004-08-03 · Sp. z o.o.（资本 52,000 zł；Tomasz Wieczorek 80%）
+- 行业码 / 经营范围：27.31.Z 光缆生产 / 光纤技术供应：光缆、CWDM、GPON、跳线、光纤配线架、10G / FTTH；少量 MC / 交换机配套
+- 注册地址：ul. Szczecińska 30E, 73-108 Kobylanka（总部）；Plac Konesera 12, 03-736 Warszawa（分部）
+- 规模档：小型 / 中型（家族企业）
+- 账目：第三方规模指标 ≈24 mln zł（rejestr.io，口径未明）；—
+- 高管：Tomasz Piotr Wieczorek — Prezes Zarządu + 80% 股东 + 实际受益人 = 研究档 KP tomasz.wieczorek@ 本人
+- 高管：Piotr Mariusz Wieczorek — Zastępca Prezesa
+- 高管：Bartosz Wieczorek — Head of Technology (R&D)
+- 控制人 / 股东：Tomasz Piotr Wieczorek（80%）
+- 曾用名：Cellco S.A.（KRS 0000206576，2005-01 注销的前身）
+- **这意味着什么：**
+  - **研究档 KP 坐实 = 老板本人**（Prezes + 80% 股东）→ 发信直达决策人
+  - 光纤为主、交换机只是配套（表内「MC 较多 没咋看到 switch」）→ **分销 20%，窄品类**：只报带 SFP 上联 / 全光口的型号（STC-228GP 8+2 SFP $33–35、STC-2224GP 24+2+2、STC-110XGE 10G $65、STI-144GP 4+1 SFP 工业）做「光缆 + 光口交换机」配套，不发整本价格表
+  - 华沙 Plac Konesera（Koneser 园区）分部 = 面向运营商 / FTTH 项目；发信窗口 Thu 12–14 CET；不加厚
+- 备注：KP = 老板本人；窄品类分销 20%。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,15 +129,18 @@ updated: 2026-10-28
 - **【用户表】MC 较多**
   > MC较多 没咋看到switch；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Tomasz Wieczorek（）tomasz.wieczorek@cellco.com.pl 〔用户表〕
+- **KP**：Tomasz Wieczorek（Prezes Zarządu + 80% 股东 + 实际受益人（KRS 0000213509，2004 起）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28））tomasz.wieczorek@cellco.com.pl 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 cellco.com.pl，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | Cellco Communications Sp. z o.o.（KRS 0000213509 Szczecin；NIP 8521826706；资本 52,000 zł；PKD 27.31.Z 光缆生产） |
+| 成立 | 2004-08-03（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Szczecińska 30E, 73-108 Kobylanka（总部）；Plac Konesera 12, 03-736 Warszawa（分部） |
+| 人数 | 小型 / 中型（第三方规模指标 ≈24 mln zł，口径未明） |
+| 其他 | 官网 cellco.com.pl，语言 ?，快照状态 ok；角色判定来源：待核；第 98 批：光纤为主、交换机配套 → 窄品类分销 20%：只报 SFP 上联 / 全光口型号（STC-228GP / STC-2224GP / STC-110XGE / STI-144GP）做「光缆 + 光口交换机」配套；副总 Piotr Wieczorek、R&D Bartosz Wieczorek（家族）（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光缆 / CWDM / GPON / 光纤配线分销（波兰）
 - **触达通道（公开）**：role: 光纤技术分销商（波兰，MC 为有源副线）；region: 波兰；contact: tomasz.wieczorek@cellco.com.pl
@@ -173,7 +194,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tomasz Wieczorek | — | tomasz.wieczorek@cellco.com.pl | 调研核实（公开页） | 用户表 |
+| Tomasz Wieczorek | Prezes Zarządu + 80% 股东 + 实际受益人（KRS 0000213509，2004 起）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28） | tomasz.wieczorek@cellco.com.pl | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,6 +77,25 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 98 批（GB · 1 次检索：Companies House 06801342（Private limited company；Incorporated 2009-01-26；Active；Unit 3 Eastman Way, Pin Green Industrial Estate, Stevenage SG1 4SZ；Officers 3 / 0 resignations：LUO, Chin Ping, Ms.（Director，2009-01-26 起，British，b. 1977-09）；LO, Liu Jung（Director 2013-05-23 起 + Secretary 2009-01-26 起，b. 1975-09））+ Endole（PSC = Chin Ping Luo + Liu Jung Lo；Small）+ companiesintheuk（Capital £1,000；Accounts Total Exemption Full；Charges 0）+ LinkedIn（11–50 人；「home to the SPRO and Vectus brand of CCTV equipment」；Rio Luo = Director）+ 官网（© 2026；Registered in England No 6801342；Ruijie PoE 交换机在售），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/06801342）：**
+
+- 法定名 / 登记号：Luxrite Ltd（luxritesecurity.com；Stevenage, Hertfordshire）— Trade-only CCTV / 门禁 / 报警分销商，自有品牌 SPRO / Vectus · Companies House 06801342；VAT 未取 · 状态 **Active（2026 官网在线；Charges 0）** · 成立 2009-01-26 · Private limited company（资本 £1,000；两位董事 = PSC 夫妇式持股）
+- 行业码 / 经营范围：Trade-only 安防分销：HD / IP CCTV、报警（Ajax / Texecom / Dahua Airshield）、可视门禁、门禁；只供批发商 / 零售商 / 安装商；自有品牌 SPRO / Vectus（CCTV）
+- 注册地址：Unit 3 Eastman Way, Pin Green Industrial Estate, Stevenage, Hertfordshire SG1 4SZ
+- 规模档：小型（11–50 人）
+- 账目：Total Exemption Full（小型；资产负债表 <£7.5M）；未取（CH 页未抓到期日）
+- 高管：Chin Ping (Rio) Luo — Director / Sales Director + PSC（2009 起）
+- 高管：Liu Jung Lo — Director（2013 起）+ Secretary（2009 起）+ PSC
+- 高管：Vinny Lomonaco — Account Manager
+- 高管：Peter Cheung — IT Operations Manager
+- 控制人 / 股东：Chin Ping Luo + Liu Jung Lo
+- 抵押 / 诉讼 / 担保：0
+- **这意味着什么：**
+  - **自有品牌 SPRO / Vectus + 在售 Ruijie PoE** → 两条线：① 对标 Ruijie RG-ES2xx 报 HRUI STC-028GP / STC-228GP / STC-2224GP（分销 20%）；② **SPRO 标 PoE 交换机 OEM 30%**（他们已给摄像机贴自有标，PoE 配套贴标顺理成章）
+  - 两位董事 = PSC（Luo / Lo，华人姓氏，2009 起）→ 大概率已有华南 / 台湾直采渠道 → 卖点只能是「Marvell 管理型 + 3 年保修 + MOQ 1 混批」，不是价格；收件人：研究档无 KP → 写 Rio Luo（Sales Director）
+  - **升 A 候选**（回信即 A）：自有标 + 已进口 + 决策人直达 + 英国主战场；发信窗口 Thu 12–14 GMT；不提是否中文沟通（默认不）
+- 备注：自有标 SPRO / Vectus；OEM 30% + 分销 20%；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,14 +129,18 @@ updated: 2026-10-27
 - **【用户表】主要 CCTV 少量商业 PoE**
   > 主要是CCTV 少量商业POE；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Chin Ping (Rio) Luo（Director / Sales Director + PSC（CH 06801342，2009 起）= 收件人（sales@luxritesecurity.com 点名）（第 98 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/06801342/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 luxritesecurity.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Luxrite Ltd（Companies House 06801342；资本 £1,000；Total Exemption Full；Charges 0） |
+| 成立 | 2009-01-26（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 3 Eastman Way, Pin Green Industrial Estate, Stevenage, Hertfordshire SG1 4SZ |
+| 人数 | 11–50 人 |
+| 其他 | 官网 luxritesecurity.com，语言 en，快照状态 ok；角色判定来源：用户表；第 98 批：**Trade-only CCTV 分销 + 自有品牌 SPRO / Vectus + 在售 Ruijie PoE → ① 对标 Ruijie 报 HRUI 线分销 20%；② SPRO 标 PoE 交换机 OEM 30%；升 A 候选**；另一董事 / PSC Liu Jung Lo（Secretary）；两位董事华人姓氏 → 大概率已有直采渠道，卖点 = Marvell 管理型 + 3 年保修 + MOQ 1 混批（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Trade 安防分销（CCTV / 报警 / 门禁 / 可视门禁）
 
@@ -197,7 +220,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@luxritesecurity.com | 用户表原值 | Clients/ 表 |
+| Chin Ping (Rio) Luo | Director / Sales Director + PSC（CH 06801342，2009 起）= 收件人（sales@luxritesecurity.com 点名）（第 98 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/06801342/officers |
 
 - **通道建议**：企业邮箱可直发
 
@@ -264,7 +287,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Chin,
 
 Picking up our earlier exchange about PoE / industrial switches. Alongside the Ruijie RG-ES210GS-P and NBS3100-24 PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models from small lots, CE/RoHS/UKCA — which Ruijie size do your trade customers order most, so we quote its equivalent first?
 
@@ -289,12 +312,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

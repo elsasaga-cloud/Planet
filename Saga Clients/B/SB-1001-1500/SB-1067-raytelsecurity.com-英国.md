@@ -80,6 +80,25 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 98 批（GB · 1 次检索：官网 About（Raytel Security Systems Limited；Raytel House, 1-5 Cutlers Road, South Woodham Ferrers, Chelmsford CM3 5WA；Established 1979；**Company Registration No 1280393**；VAT GB 394 9607 00；Directors R. Lawrence (Managing), D. G. Brookes）+ Companies House 01280393（Incorporated 1976-10-06；Active；前名 ELEKTROFLO SYSTEMS LIMITED 1976-10-06 → 1979-12-31；Officers：BROOKES, David Gary（Director）；LAWRENCE, Roy（Director））+ Endole（Roy Lawrence b. 1934-04 = PSC，1991-11 起董事，92 岁，活跃于 6 家公司；David Gary Brookes b. 1960-02 Engineer；Secretary Michelle Mead；股东 2）+ raytel.co.uk（Raytel Group 1980 成立 = Rayleigh Instruments 1964 + Raytel Security Systems 1979 母公司）+ LinkedIn（2–10 人），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/01280393）：**
+
+- 法定名 / 登记号：Raytel Security Systems Limited（raytelsecurity.com；South Woodham Ferrers, Essex）— 门禁 / 门口机制造商兼库存商（1979；Vimar Elvox / Soyal 英国授权分销；Raytel Group） · Companies House 01280393；VAT GB 394 9607 00 · 状态 **Active** · 成立 1976-10-06（业务 1979 起） · Private limited company（Raytel Group 成员；PSC Roy Lawrence）
+- 行业码 / 经营范围：门禁 / 门口机（音视频对讲）产品制造 + 库存分销（自有 Raytel / AR- 系列读卡器 + Vimar Elvox + Soyal 英国授权分销）；ISO 9001（1991 起）
+- 注册地址：Raytel House, 1-5 Cutlers Road, South Woodham Ferrers, Chelmsford, Essex CM3 5WA
+- 规模档：微型（2–10 人）
+- 账目：未取（1 次即停）；未取
+- 高管：Roy Lawrence — Managing Director + PSC（b. 1934；1991 起）
+- 高管：David Gary Brookes — Director（Engineer，b. 1960）
+- 高管：Michelle Mead — Secretary
+- 控制人 / 股东：Roy Lawrence
+- 抵押 / 诉讼 / 担保：未取
+- 曾用名：Elektroflo Systems Limited（1976–1979）
+- **这意味着什么：**
+  - 微型（2–10 人）+ 92 岁老板 + 门禁为主、CCTV / PoE 只是配套 → **低概率，一页纸即止，不加厚**
+  - 自有品牌 Raytel 门禁产品 + Elvox IP 门口机需要 PoE → 一句「Raytel 标 4 / 8 口 PoE（STI-054GP / STC-028GP），MOQ 1」带过；收件人 info@ 点名 David Brookes（工程董事，更可能看技术信）
+  - 发信窗口 Thu 12–14 GMT
+- 备注：低概率；下轮不追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,14 +132,18 @@ updated: 2026-10-28
 - **【用户表】主要是 CCTV 少量商业 PoE**
   > 主要是CCTV 少量商业POE；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：David Gary Brookes（Director（Engineer，b. 1960；CH 01280393）= 收件人（info@raytelsecurity.com 点名；MD Roy Lawrence 92 岁 = PSC）（第 98 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/01280393/officers〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 raytelsecurity.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Raytel Security Systems Limited（Companies House 01280393；VAT GB 394 9607 00；前名 Elektroflo Systems Limited 1976–1979；Raytel Group 成员） |
+| 成立 | 1976-10-06（业务 1979 起）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Raytel House, 1-5 Cutlers Road, South Woodham Ferrers, Chelmsford, Essex CM3 5WA |
+| 人数 | 2–10 人 |
+| 其他 | 官网 raytelsecurity.com，语言 en，快照状态 ok；角色判定来源：用户表；第 98 批：门禁 / 门口机制造 + Vimar Elvox / Soyal 英国授权分销；微型 + 92 岁老板 → 低概率，一页纸：Raytel 标 4 / 8 口 PoE（STI-054GP / STC-028GP）MOQ 1 一句带过（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：门禁 / 门口机（Elvox / Soyal / 自有 AR 系列）；CCTV 与配套
 - **触达通道（公开）**：role: 门禁/CCTV 分销商（英国）；region: 英国；contact: info@raytelsecurity.com
@@ -182,7 +205,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@raytelsecurity.com | 用户表原值 | Clients/ 表 |
+| David Gary Brookes | Director（Engineer，b. 1960；CH 01280393）= 收件人（info@raytelsecurity.com 点名；MD Roy Lawrence 92 岁 = PSC）（第 98 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://find-and-update.company-information.service.gov.uk/company/01280393/officers |
 
 - **通道建议**：企业邮箱可直发
 

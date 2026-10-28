@@ -78,6 +78,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 98 批（TR · 1 次检索：官网 Hakkımızda（ÖZEL ELEKTRONİK；2007 年取得品牌名称权；Şükraniye Mah. Ankara Cad. No 242 Yıldırım / Bursa；**Vergi Dairesi Setbaşı，Vergi No 2360002288**；info@fourline.com.tr）+ 官网 Bayilerimiz（经销商 = 布尔萨本地电工 / 电子铺 5 家）+ 官网首页（自有 Fourline HD 卫星接收机、16 V 2 A 适配器；合作品牌 Botech / Hiremco / Komsis / Yu-Ma-Tu）+ Bursa İş Rehberi（Özel Elektronik Uydu Servis Montaj Satış），2026-10-28 查；https://www.fourline.com.tr/hakkimizda.asp）：**
+
+- 法定名 / 登记号：Özel Elektronik（FOURLINE 品牌；fourline.com.tr；Yıldırım, Bursa）— 天线 / 卫星 + CCTV / 报警批发零售（微型，自有品牌 2007） · VKN 2360002288（Setbaşı VD；未见 Ltd. / A.Ş. 后缀 → 推定 şahıs işletmesi） · 状态 **在营（官网在线）** · 成立 2007（品牌） · şahıs işletmesi（推定；未注册公司后缀）
+- 行业码 / 经营范围：卫星 / 天线系统批发零售（Fourline 自有品牌接收机）；CCTV / 报警 / 楼宇对讲配套（FRL 系列摄像机、适配器）
+- 注册地址：Şükraniye Mah. Ankara Cad. No 242, Yıldırım / Bursa
+- 规模档：微型（经销商为本地 5 家电工铺）
+- 账目：—；—
+- 高管：业主姓名未公开（官网 / 名录均无）
+- 控制人 / 股东：业主
+- **这意味着什么：**
+  - 微型卫星 / 天线批发（客户是布尔萨本地电工铺），PoE 只是 CCTV 配套 → **低概率，一页纸即止，不加厚**；若回信只报 HRUI STC-028GP / STC-228GP 两行价
+  - 「自有品牌 2007」= 卫星接收机 / 适配器贴牌，有贴标习惯 → 一句「Fourline 标 4 口 PoE（MOQ 1）」带过即可
+  - 发信窗口 Thu 10–12 TRT；收件人 info@（业主）
+- 备注：低概率；下轮不追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,17 +125,18 @@ updated: 2026-10-28
 - **【用户表】ISAF：不会英文，要 catalog；WA 加不上**
   > 不会英文， 要catalog / 0(224) 364 1888 加不上
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（姓名未记录）（业主/采购（待核））info@fourline.com.tr（用户表 = 官网公开） +90 555 995 5442（官网 GSM，可试 WhatsApp）〔https://www.fourline.com.tr/referanslar.asp〕
+- **KP**：（姓名未记录）（业主（Özel Elektronik；姓名未公开）= 收件人 —— 微型卫星 / 天线批发，一页纸即止（第 98 批 官方登记核实 2026-10-28））info@fourline.com.tr（用户表 = 官网公开） +90 555 995 5442（官网 GSM，可试 WhatsApp）〔https://www.fourline.com.tr/referanslar.asp〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Özel Elektronik（FOURLINE 品牌，Setbaşı 税务所 2360002288） |
-| 成立 | 品牌 2007 |
-| 总部/地址 | Şükraniye Mah. Ankara Cad. No:242 Yıldırım / Bursa（0224 364 1888；0555 995 5442；info@fourline.com.tr） |
-| 其他 | 自有品牌 Fourline（卫星、对讲、摄像机、适配器）；经销商登录 |
+| 法定名称 | Özel Elektronik（FOURLINE 品牌 2007；VKN 2360002288 Setbaşı VD；未见公司后缀 → 推定 şahıs işletmesi） |
+| 成立 | 2007（品牌）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Şükraniye Mah. Ankara Cad. No 242, Yıldırım / Bursa |
+| 人数 | 微型（经销商 = 布尔萨本地 5 家电工铺） |
+| 其他 | 自有品牌 Fourline（卫星、对讲、摄像机、适配器）；经销商登录；第 98 批：PoE 只是 CCTV 配套 → 低概率，不加厚；若回信只报 HRUI STC-028GP / STC-228GP；有贴标习惯（Fourline 接收机 / 适配器）→ 一句「Fourline 标 4 口 PoE MOQ 1」（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：天线/卫星系统批发零售；CCTV 与报警产品（自有品牌 Fourline）；住宅楼弱电工程
 - **触达通道（公开）**：网站: https://www.fourline.com.tr/；电话: +90 224 364 1888 / +90 555 995 5442（公开）；邮箱（公开）: info@fourline.com.tr

@@ -80,6 +80,24 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 98 批（US · 1 次检索：avproglobal.com 新闻稿 2026-01-14（AVPro Global Holdings LLC = AVPro Edge / AudioControl Pro / Bullet Train / RTI / ProControl / ThenAudio / Murideo 母公司；Matt Murray 由 CTO 升 CEO，创办人 Jeff Murray 转任 Chairman；总部 Sioux Falls SD，卫星办公室 St. Petersburg FL / Seattle / Minneapolis，欧洲 Bratislava，**深圳办公室**）+ Inc. 5000 2026（No. 4,514；Year Founded 2013；51–200 人）+ BusinessWire 2024-10-10（MXnet Systems Group 新设，Andy Herron / Deby Jimenez 负责商业系统）+ D&B（Key Principal Jeffrey Murray），2026-10-28 查；https://www.avproglobal.com/blogs/news/avpro-global-names-matt-murray-ceo-as-founder-jeff-murray-becomes-chairman）：**
+
+- 法定名 / 登记号：AVPro Global Holdings, LLC（avproglobal.com；Sioux Falls, SD）— 自有品牌 AV 制造商（AVPro Edge / MXnet AV-over-IP 自有标网络交换机） · SD 登记号未取（SD SoS 可查，本次 1 次即停） · 状态 **Active（Inc. 5000 2026 上榜）** · 成立 2013 · LLC（南达科他；私有家族控股，Murray 父子）
+- 行业码 / 经营范围：AV 分配 / AV-over-IP 设备制造（HDMI 矩阵、编解码器、控制系统 RTI）；自有标网络交换机 AC-MXNET-SW24E / SW48E / 10G-SW24C（配 MXnet 生态，含 PoE / 10G）
+- 注册地址：Sioux Falls, SD（总部）；卫星：St. Petersburg FL / Seattle WA / Minneapolis MN / Bratislava SK / 深圳
+- 规模档：中型（51–200 人；Inc. 5000 2026）
+- 账目：—；—
+- 高管：Matt Murray — CEO（2026-01-14 起；原 CTO）
+- 高管：Jeff (Jeffrey) Murray — Chairman（创办人，原 CEO）
+- 高管：Andy Herron / Deby Jimenez — MXnet Systems Group（商业系统，2024-10 起）
+- 控制人 / 股东：Murray 家族（推定）
+- **这意味着什么：**
+  - **自有标交换机品牌商 = OEM 30% 目标**：MXnet 生态里的 24 / 48 口 PoE + 10G 交换机是贴 AVPro Edge 标的 → 对标 STC-424XGGPM-280W（24×GE PoE + 4×10G）与 STC-448XGGPM（48 口）做 OEM 报价
+  - **难点**：公司在深圳有自己的办公室 → 他们已直接在华南找代工，我们的位置只能是「Marvell 管理型 L2+、IGMP / 多播调优（AV-over-IP 刚需）、3 年质保、MOQ 1 试产」而非价格
+  - 收件人：研究档无 KP → 写 MXnet Systems Group（商业系统负责人 Andy Herron）而非 CEO；主题点「IGMP snooping / fast leave 调优 + PoE 预算 280 W」最对口
+  - 2026-01 换帅（CTO 升 CEO = 技术派当家）→ 技术参数信比价格信有效；B BIG；发信窗口 Wed 08–10 CT
+- 备注：B BIG；OEM 30% 目标但有深圳办公室（已直采）；加厚一次即可。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,14 +131,18 @@ updated: 2026-10-28
 - **【用户表】大口 switch**
   > 大口Switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Andy Herron（MXnet Systems Group（商业系统，2024-10 起；BusinessWire）= 收件人（研究档无 KP；邮箱未公开 → 官网表单 / sales@）（第 98 批 官方登记核实 2026-10-28）） 〔https://www.businesswire.com/news/home/20241010489206/en/AVPro-Global-Expands-MXnet-Systems-Group〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 avproglobal.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | AVPro Global Holdings, LLC（南达科他；Inc. 5000 2026 No. 4,514） |
+| 成立 | 2013（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Sioux Falls, SD（卫星：St. Petersburg / Seattle / Minneapolis / Bratislava / 深圳） |
+| 人数 | 51–200 人 |
+| 其他 | 官网 avproglobal.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 98 批：2026-01-14 CTO Matt Murray 升 CEO，创办人 Jeff Murray 任 Chairman；自有标 MXnet 交换机 AC-MXNET-SW24E / SW48E / 10G-SW24C → OEM 30% 目标；但有深圳办公室 = 已直采 → 卖点只能是 Marvell L2+ / IGMP 调优 / 3 年保修 / MOQ 1；B BIG（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：AV 分配 / HDMI 延长 / 矩阵 / AV-over-IP（MXnet）；自有标网络交换机（MXnet）
 
@@ -208,7 +230,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@avproglobal.com | 用户表原值 | Clients/ 表 |
+| Andy Herron | MXnet Systems Group（商业系统，2024-10 起；BusinessWire）= 收件人（研究档无 KP；邮箱未公开 → 官网表单 / sales@）（第 98 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.businesswire.com/news/home/20241010489206/en/AVPro-Global-Expands-MXnet-Systems-Group |
 
 - **通道建议**：企业邮箱可直发
 
@@ -243,7 +265,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -260,7 +282,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -276,7 +298,7 @@ updated: 2026-10-28
 **主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Andy,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the MXnet 1G switch line (SW24E / SW48E), we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, IGMP snooping/querier preconfigured for AV-over-IP) from small lots under your label — would a 24-port unit for validation be useful?
 

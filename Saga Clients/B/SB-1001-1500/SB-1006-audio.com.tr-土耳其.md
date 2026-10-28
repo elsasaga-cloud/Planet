@@ -79,6 +79,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 98 批（TR · 1 次检索：官网 İletişim / KVKK（Audio Elektronik A.Ş；Fabrika Esenkent Mh. Barajyolu Cd. No 26, 34776 Dudullu-Ümraniye；0216 527 46 71）+ 官网 History（1979 起对讲行业；土耳其首家对讲 / 智能家居制造商；6,000 m² 工厂；ISO 9001）+ EMIS（Audio Elektronik A.S.；1988-09-20 设立；Audio and Video Equipment Manufacturing）+ Kompass（Audio Elektronik İthalat İhracat Sanayi ve Ticaret Ltd.Şti. 旧档；Registration No 103 004 9698 / Anadolu Kurumlar；1977；100–249 人）+ TÜBİTAK 名单（AUDIO ELEKTRONİK İTHALAT-İHRACAT SAN. VE TİC. AŞ；KOBİ）+ RocketReach（≈$66.9M；119 人）+ Crunchbase（101–250 人），2026-10-28 查；https://www.audio.com.tr/en/corporate/history/）：**
+
+- 法定名 / 登记号：Audio Elektronik İthalat İhracat Sanayi ve Ticaret A.Ş.（audio.com.tr；Dudullu-Ümraniye, İstanbul）— 楼宇可视对讲 / IP 对讲 / 智能家居制造商（1979 起，6,000 m² 工厂） · VKN 1030049698（Anadolu Kurumlar VD）；MERSİS 未取 · 状态 **Active（2026-09 官网更新）** · 成立 1988-09-20（A.Ş.；业务 1977 / 1979 起） · A.Ş.（原 Ltd. Şti.；KOBİ 名录）
+- 行业码 / 经营范围：楼宇可视 / 音频对讲、IP 对讲系统、智能家居、门口机制造（100% 本土生产）；别墅 / 小区 IP 系统方案
+- 注册地址：Esenkent Mah. Barajyolu Cad. No 26, 34776 Dudullu-Ümraniye / İstanbul（工厂 = 总部）
+- 规模档：中型（100–249 人；≈$67M）
+- 账目：—；—
+- 高管：董事会未取（官网不列；1 次即停）
+- 控制人 / 股东：未取
+- 曾用名：Audio Elektronik İthalat İhracat Sanayi ve Ticaret Ltd. Şti.（Kompass 旧档）
+- **这意味着什么：**
+  - **OEM 30% 首选（TR）**：IP 对讲系统（室内机 / 门口机 PoE 供电）需要配套 PoE 交换机，表内「买的 Hisource 的 PoE」= 已在从华南采购贴牌 → 对标 Hisource 报 Audio 标 STC-028GP（8+2）/ STC-228GP / STC-2224GP（24 口 300 W，小区楼栋用），MOQ 1 试产，30%
+  - 制造商 + 100% 本土生产口号 → 贴标要「中性包装 + Audio 标」且不提我们是 trading；卖点 = PoE 预算 / 长距（250 m 模式）/ 3 年保修（STI 工业线用于室外机柜）
+  - 收件人：研究档无 KP → info@audio.com.tr 点名「IP Sistemler ürün müdürü / satın alma müdürü」；**升 A 候选**（回信即 A）；B BIG；发信窗口 Thu 10–12 TRT
+- 备注：B BIG；OEM 30% 首选；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,8 +134,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 audio.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Audio Elektronik İthalat İhracat Sanayi ve Ticaret A.Ş.（VKN 1030049698 Anadolu Kurumlar VD；EMIS 1988-09-20 设立；Kompass 旧档 Ltd. Şti.；MERSİS 未取） |
+| 成立 | 1988-09-20（A.Ş.；业务 1977 / 1979 起）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Esenkent Mah. Barajyolu Cad. No 26, 34776 Dudullu-Ümraniye / İstanbul（6,000 m² 工厂 = 总部） |
+| 人数 | 100–249 人；≈$67M（第三方） |
+| 其他 | 官网 audio.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案；第 98 批：**土耳其首家对讲 / 智能家居制造商，IP 对讲系统需配套 PoE，表内「买的 Hisource 的 PoE」= 已在华南采购贴牌 → 对标 Hisource 报 Audio 标 STC-028GP / STC-228GP / STC-2224GP，MOQ 1，OEM 30% 首选（TR），升 A 候选；B BIG**；董事会未取；收件人 info@ 点名 IP Sistemler ürün müdürü / satın alma müdürü（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：楼宇可视对讲 / 智能家居制造（土耳其，自有品牌 Audio）
 - **触达通道（公开）**：role: 楼宇对讲/智能家居制造商（土耳其，PoE 现 Hisource）；region: 土耳其；contact: info@audio.com.tr

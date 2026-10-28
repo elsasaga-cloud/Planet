@@ -81,6 +81,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 98 批（TR · 1 次检索：官网页脚（© 2025 ANIL TELEKOMÜNİKASYON GÜVENLİK VE BİLİŞİM SİSTEMLERİ SAN. TİC. LTD. ŞTİ.）+ 官网 Contact（Head Office PERPA Tic. Merkezi A Blok No 1440-1442-1575-1577-1579 Kat 10-11-12 Şişli）+ Perpa 名录（旧称 Anıl Telekomünikasyon Elektrik Malz. Kablo Paz. San. ve Tic. Ltd. Şti.；A Blok 1442；Adres Kodu 2588833232）+ find.com.tr（「…Merkez Şubesi」分支 2025-02-26 登记）+ Karel 官方 Dağıtıcılar 名单（ANIL Telekom）+ Instagram（Ana Dağıtıcı：Dahua / Gigaset / Karel / Yealink / Panasonic / TP-Link / Ruijie / Lande / Ajax / Paradox / Westa / Decon）+ YouTube（2002 起）+ ZoomInfo（11–50 人），2026-10-28 查；https://www.aniltelekom.com/Default.aspx）：**
+
+- 法定名 / 登记号：Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（aniltelekom.com；Perpa A Blok, Şişli, İstanbul）— 安防 / 通信 / 网络「Ana Dağıtıcı」总分销（Dahua / Karel / TP-Link / Ruijie / Lande） · MERSİS 未取（1 次即停）；Perpa Adres Kodu 2588833232 · 状态 **Active（Karel 官方分销名单在列；2025 新登记分支）** · 成立 2002 · Ltd. Şti.（2025-02 新设 Merkez Şubesi 分支）
+- 行业码 / 经营范围：电子安防 / 消费电子 / 通信产品总分销（bayi 渠道）：Dahua 摄像、Karel / Yealink / Gigaset 话机、TP-Link / Ruijie / Lande 网络、Ajax / Paradox 报警
+- 注册地址：Perpa Ticaret Merkezi A Blok No 1440-1442-1575-1577-1579, Kat 10-11-12, Şişli / İstanbul
+- 规模档：小型（11–50 人；Perpa 三层五铺）
+- 账目：—；—
+- 高管：Cumhur Ölmez — Pazarlama ve Satış Yöneticisi（市场与销售经理）= 研究档 KP cumhur@ 本人
+- 高管：股东 / müdür 未取
+- 控制人 / 股东：未取
+- 曾用名：Anıl Telekomünikasyon Elektrik Malz. Kablo Paz. San. ve Tic. Ltd. Şti.（Perpa 旧名录）；Anıl Telekomünikasyon San. ve Tic. Ltd. Şti.（YouTube 简介）
+- **这意味着什么：**
+  - **分销 20%**：已是 TP-Link / Ruijie / Lande 的总分销 → 对标 TP-Link / Ruijie 入门 PoE 报 HRUI 线（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86），卖点 = 同档价 + 比 TP-Link 多 2 个 SFP + 1 年保修（HRUI）/ 3 年（STI）
+  - Perpa 三层五铺 + 2025 新开分支 = 在扩张；KP Cumhur Ölmez 是销售负责人（非采购）→ 信里问「hangi PoE modelleri bayilerinizde en çok dönüyor」一个问题即可
+  - Dahua 总分销 → NVR 配套 PoE 交换机走量大，但 Dahua 自己也有 PoE 交换机 → 我们只能打「非 Dahua 品牌 8/16/24 口价格带」；发信窗口 Thu 10–12 TRT
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,17 +132,18 @@ updated: 2026-10-28
 - **【用户表】ISAF：给了名片**
   > 应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Cumhur Ölmez（Pazarlama ve Satış Yöneticisi（市场与销售经理；ZoomInfo/ContactOut 公开））cumhur@aniltelekom.com（用户表） +90 212 292 90 90（公司）〔https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140〕
+- **KP**：Cumhur Ölmez（Pazarlama ve Satış Yöneticisi（市场与销售经理；ZoomInfo / ContactOut）= 收件人（销售负责人，非采购 → 信里只问一个渠道问题）（第 98 批 官方登记核实 2026-10-28））cumhur@aniltelekom.com（用户表） +90 212 292 90 90（公司）〔https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri Sanayi Ticaret Limited Şirketi |
-| 成立 | 2002 |
-| 总部/地址 | Perpa Ticaret Merkezi A Blok No:1440-1442-1575-1577-1579 Kat:10-11-12, Şişli / İstanbul（0212 292 90 90；aniltelekom@aniltelekom.com / info@aniltelekom.com） |
-| 其他 | 总分销：Dahua、Gigaset、Karel、Yealink、Panasonic、TP-Link、Ruijie、Lande、Ajax、Paradox、Westa、Decon |
+| 法定名称 | Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（官网 © 2025；Perpa 旧名录 Anıl Telekomünikasyon Elektrik Malz. Kablo Paz. San. ve Tic. Ltd. Şti.；2025-02-26 新登记 Merkez Şubesi；MERSİS 未取） |
+| 成立 | 2002（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Perpa Ticaret Merkezi A Blok No 1440-1442-1575-1577-1579, Kat 10-11-12, Şişli / İstanbul |
+| 人数 | 11–50 人（Perpa A Blok 三层五铺） |
+| 其他 | 总分销：Dahua、Gigaset、Karel、Yealink、Panasonic、TP-Link、Ruijie、Lande、Ajax、Paradox、Westa、Decon；第 98 批：Dahua / Karel / Yealink / TP-Link / Ruijie / Lande 「Ana Dağıtıcı」总分销 → 分销 20%：对标 TP-Link / Ruijie 入门 PoE 报 HRUI 线（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86）；Dahua 自带 PoE → 只打「非 Dahua 8/16/24 口价格带」（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防（Dahua、Ajax、Paradox）分销；通信（Karel、Yealink、Gigaset、Panasonic）分销；网络（TP-Link、Ruijie、Lande 机柜）分销
 - **触达通道（公开）**：网站: https://www.aniltelekom.com/；电话: +90 212 292 90 90（公开）；邮箱（公开）: aniltelekom@aniltelekom.com / info@aniltelekom.com；Instagram: https://www.instagram.com/aniltelekomunikasyon/
@@ -188,7 +205,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Cumhur Ölmez | Pazarlama ve Satış Yöneticisi（市场与销售经理；ZoomInfo/ContactOut 公开） | cumhur@aniltelekom.com（用户表） / +90 212 292 90 90（公司） | 调研核实（公开页） | https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140 |
+| Cumhur Ölmez | Pazarlama ve Satış Yöneticisi（市场与销售经理；ZoomInfo / ContactOut）= 收件人（销售负责人，非采购 → 信里只问一个渠道问题）（第 98 批 官方登记核实 2026-10-28） | cumhur@aniltelekom.com（用户表） / +90 212 292 90 90（公司） | 调研核实（公开页） | https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140 |
 | Cumhur OLMEZ | — | cumhur@aniltelekom.com / aniltelekom@aniltelekom.com / +05559769808 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

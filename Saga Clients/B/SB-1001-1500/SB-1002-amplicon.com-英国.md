@@ -82,6 +82,25 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 98 批（GB · 1 次检索：Companies House 01091353（Private limited company；Incorporated 1973-01-18；Active；Unit 11 Centenary Industrial Estate, Hollingdean Road, Brighton BN2 4AW（2024-03-15 自 Hughes Road 地址更正）；Officers 21 / 20 resignations：CITRONI, Gina（Director，2004-07-01 起，Occupation Commercial Director，b. 1958-11）；BUSHBY, Mark / SAUNDERS, Douglas（Operations Director）；Filing：AA 小型公司账目至 2024-06-30（2025-03-20 交）；PSC02 2024-12-13：Amplicon Group Holdings Ltd（14466238）自 2024-11-20 持股 ≥75%，接替 Amplicon Group Limited（06201353））+ Endole（Medium：50–250 人或 £10–50M），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/01091353）：**
+
+- 法定名 / 登记号：Amplicon Liveline Limited（amplicon.com；Brighton）— 工业计算 / 数据通信 / 测控 / 安防自动化分销商（1973；Amplicon Group） · Companies House 01091353 · 状态 **Active（账目至 2024-06-30 已交 2025-03-20）** · 成立 1973-01-18 · Private limited company（Amplicon Group Holdings Ltd 14466238 持股 ≥75%，2024-11 集团重组）
+- 行业码 / 经营范围：工业计算（工控机 / 嵌入式）、数据通信（工业交换机：Moxa / Hirschmann / Advantech / Cisco）、测控（DAQ）、安防自动化分销（面向系统集成商、OEM、制造商）
+- 注册地址：Unit 11 Centenary Industrial Estate, Hollingdean Road, Brighton BN2 4AW
+- 规模档：中型（50–250 人 / £10–50M，Endole）
+- 账目：小型公司账目至 2024-06-30（2025-03-20 交；Endole 评 Medium）；2025-06-30 期账目应于 2026-03-31 前交（按例推算，未核）
+- 高管：Gina Citroni — Director + Commercial Director（2004 起；亦为 Amplicon Group Ltd 董事 2007 起）= 研究档 KP gina.c@ 本人
+- 高管：Mark Bushby — Director
+- 高管：Douglas Saunders — Operations Director（CH 现列 resigned / 名录列现任，待核）
+- 控制人 / 股东：Amplicon Group Holdings Ltd（14466238；2024-11-20 起）
+- 抵押 / 诉讼 / 担保：未取
+- **这意味着什么：**
+  - **研究档 KP 坐实 = 商务总监兼董事本人**（Gina Citroni，2004 起）→ 发信直达采购决策人
+  - 表内「工业 FS 很多牌子的销售平台」= Moxa / Hirschmann / Advantech 工业交换机分销 → **分销 20%（工业线）**：对标 Moxa EDS 系列报 STI-288DGGPM（$137）/ STI-244DGGPM（$121）/ STI-0240GE（$130），卖点 = Moxa 同规格 -50%、3 年保修、-40~75 °C
+  - 2024-11 集团重组（新控股公司 14466238）+ 50 余年老牌 → 采购流程正规，先要证书（CE / RoHS / UKCA 齐）与样机（付费样机）；B BIG
+  - 发信窗口 Thu 12–14 GMT；不提 UL / 军工
+- 备注：KP = 商务总监本人；B BIG；分销 20% 工业线。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,17 +127,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS 很多牌子的销售平台；有 Case Communications 的**
   > 兴趣：工业FS 很多牌子的 销售平台 有case communication的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Gina C.（）gina.c@amplicon.com +44 1273 570 220〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Gina Citroni（Director + Commercial Director（CH 01091353，2004-07-01 起；亦任 Amplicon Group Ltd 董事）= **商务总监兼董事本人 = 收件人**（第 98 批 官方登记核实 2026-10-28））gina.c@amplicon.com +44 1273 570 220〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Amplicon Liveline Ltd |
-| 成立 | 1973（待核） |
-| 总部/地址 | Brighton, UK |
-| 其他 | 工业网络多品牌 |
+| 法定名称 | Amplicon Liveline Limited（Companies House 01091353；PSC Amplicon Group Holdings Ltd 14466238 自 2024-11-20） |
+| 成立 | 1973-01-18（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 11 Centenary Industrial Estate, Hollingdean Road, Brighton BN2 4AW |
+| 人数 | 50–250 人 / £10–50M（Endole Medium；CH 账目类别 Small） |
+| 其他 | 工业网络多品牌；第 98 批：工业计算 / 数据通信分销（Moxa / Hirschmann / Advantech / Cisco）→ 分销 20% 工业线：对标 Moxa EDS 报 STI-288DGGPM / STI-244DGGPM / STI-0240GE，卖点 -50% + 3 年保修 + 宽温；2024-11 集团重组；B BIG；账目至 2024-06-30 已交 2025-03-20（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业计算 / 数据通信分销；测控 / 安防自动化
 - **触达通道（公开）**：role: 工业分销商（多品牌）；region: 英国
@@ -185,7 +205,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gina C. | — | gina.c@amplicon.com / +44 1273 570 220 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Gina Citroni | Director + Commercial Director（CH 01091353，2004-07-01 起；亦任 Amplicon Group Ltd 董事）= **商务总监兼董事本人 = 收件人**（第 98 批 官方登记核实 2026-10-28） | gina.c@amplicon.com / +44 1273 570 220 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 

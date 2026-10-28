@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,6 +76,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 98 批（TR · 1 次检索：n11 店铺 künye（Şirket Ünvanı rima elektronik bilişim ve güvenlik sistemleri san. dış tic. ltd. şti.；**Tescilli Marka newstream；Vergi No 7350681650；MERSİS 0735068165000012**；KEP bilgi@）+ find.com.tr（Kuruluş 2010-07-15；Sermaye 123.456 TL）+ Turkcell Partner 页（2010 年更名为 Rima Elektronik Bilişim ve Güvenlik Sistemleri）+ kariyer.net（1997 起电脑 / 办公设备供应，2001 起安防）+ D&B（Key Principal Aycan Türkay）+ LinkedIn（11–50 人）+ 官网 Kurumsal（2000 年设立；校园 4 处监控项目参考），2026-10-28 查；https://www.n11.com/magaza/rimaelektronik）：**
+
+- 法定名 / 登记号：Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.（rimaelektronik.com；İstanbul）— 安防 / 网络集成商兼网店，注册商标 newstream · MERSİS 0735068165000012；VKN 7350681650 · 状态 **Active（n11 / Turkcell 伙伴在列）** · 成立 2010-07-15（现名；业务 1997 / 2000 起） · Ltd. Şti.（资本 123,456 TL）
+- 行业码 / 经营范围：IP CCTV / 视频分析 / 光纤基础设施 / 结构化布线 / 门禁 / 消防报警设计安装（校园、企业）；网店在售 PLANET PoE 交换机（PL-GS-4210-8P2S、IGS-5225-8P4S）与自有品牌 newstream
+- 注册地址：İstanbul（Kadıköy 侧；具体门牌官网未列；n11 店铺地址经核）
+- 规模档：小型（11–50 人；资本 123,456 TL）
+- 账目：—；—
+- 高管：Aycan Türkay — Key Principal（D&B；推定 müdür / 股东）
+- 控制人 / 股东：Aycan Türkay（推定）
+- 曾用名：Rima Bilişim（2010 前）
+- **这意味着什么：**
+  - 集成商为主（自己设计安装校园 / 企业监控）→ **集成商 25%**；网店在售 PLANET 管理型 PoE 说明有 PLANET 价位的客户 → 对标 PLANET GS-4210-8P2S 报 STC-228GP（8+2，$33–35）/ IGS 系列报 STI-288DGGPM（$137）
+  - 注册商标 newstream（摄像 / 记录仪）→ **贴标试探 small**：newstream 标 PoE 交换机配套其 NVR 套装（MOQ 1，30%）一句带过
+  - 收件人：bilgi@rimaelektronik.com 点名 Aycan Türkay；发信窗口 Thu 10–12 TRT；不加厚
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,15 +137,18 @@ updated: 2026-10-27
 - **【第三方】业务描述**
   > Rima Elektronik is a Turkish company specialize primarily in security systems and solutions also industrial automation solutions … Sales and Installation of Security Equipment（ensun）
   > 来源：https://ensun.io/company/rima-elektronik-bilisim-ve-guvenlik-sistemleri-san-ve-dis-tic-ltd-sti-6831d40abb221e8f64779ca4-managed（抓取 2026-10-19）
+- **KP**：Aycan Türkay（Key Principal（D&B；推定 müdür / 股东）= 收件人（bilgi@rimaelektronik.com 点名）（第 98 批 官方登记核实 2026-10-28）） 〔https://www.dnb.com/business-directory/company-profiles.rima_elektronik_bilisim_ve_guvenlik_sistemleri_sanayi_dis_ticaret_limited_sirketi.d597b24a4b8d4b314b57e7a2b00e6fc1.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti. |
-| 总部/地址 | İstanbul（Florya）, 土耳其 |
-| 其他 | Planet 渠道档案 PB-032（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：年项目数与交换机台数；是否也转售给其他安装商 |
+| 法定名称 | Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.（MERSİS 0735068165000012；VKN 7350681650；资本 123,456 TL；注册商标 newstream） |
+| 成立 | 2010-07-15（现名；业务 1997 / 2000 起）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | İstanbul |
+| 人数 | 11–50 人 |
+| 其他 | Planet 渠道档案 PB-032（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：年项目数与交换机台数；是否也转售给其他安装商；第 98 批：安防集成商为主（校园 / 企业监控设计安装）→ 集成商 25%；网店在售 PLANET PoE → 对标 GS-4210-8P2S 报 STC-228GP、IGS 报 STI-288DGGPM；商标 newstream → 贴标试探 small 一句带过（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）
 
@@ -226,6 +244,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Aycan Türkay | Key Principal（D&B；推定 müdür / 股东）= 收件人（bilgi@rimaelektronik.com 点名）（第 98 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.dnb.com/business-directory/company-profiles.rima_elektronik_bilisim_ve_guvenlik_sistemleri_sanayi_dis_ticaret_limited_sirketi.d597b24a4b8d4b314b57e7a2b00e6fc1.html |
 | Salih Senyurt | — | bilgi@rimaelektronik.com / salih.senyurt@rimaelektronik.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -295,7 +314,7 @@ updated: 2026-10-27
 **主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hi Salih,
+Hi Aycan,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Every multi-campus camera project you deliver needs PoE switching; a 24-port PoE+ at integrator pricing lowers your bill of materials without changing the design. On a typical campus camera project, do you deploy one 24-port PoE+ per building or several 8-port units per floor?
 
@@ -320,12 +339,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 98 批（PL · 1 次检索：obserwuj.pl Regulamin / Kontakt（Właścicielem sklepu jest FHU„TELSAT” s.c.；ul. Rolnicza 7, 33-100 Tarnów；**NIP 993-00-03-405**；tel. 14 627 44 11）+ Ceneo 店铺页（NIP 9930003405；卖家为 CEIDG 登记个体经营者），2026-10-28 查；https://www.obserwuj.pl/kontakt,p1.html）：**
+
+- 法定名 / 登记号：FHU „TELSAT” s.c.（obserwuj.pl；Tarnów）— CCTV 网店（民事合伙；Dahua 为主） · NIP 9930003405（s.c.；合伙人 CEIDG 登记） · 状态 **Active（Ceneo 在列；官网 timeout 偶发）** · 成立 未取（1 次即停） · Spółka cywilna（FHU = Firma Handlowo-Usługowa，民事合伙）
+- 行业码 / 经营范围：CCTV 网店：AHD / IP 监控套装、录像机、摄像机（Dahua 为主）、配套 FS / VC / MC / SFP
+- 注册地址：ul. Rolnicza 7, 33-100 Tarnów
+- 规模档：微型
+- 账目：—；—
+- 高管：合伙人姓名未公开（s.c.）
+- 控制人 / 股东：合伙人
+- **这意味着什么：**
+  - 微型 CCTV 网店（民事合伙，Dahua 套装为主）→ **低概率，一页纸即止，不加厚**；若回信只报 HRUI STC-028GP $28 / STC-228GP $33
+  - 表内「大华产品比较多」= Dahua 自带 PoE 交换机 → 我们只在「非 Dahua 8/16 口价格带」有位置
+- 备注：低概率；下轮不追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,8 +124,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 obserwuj.pl，语言 ?，快照状态 timeout；角色判定来源：待核 |
+| 法定名称 | FHU „TELSAT” s.c.（民事合伙；NIP 9930003405；合伙人 CEIDG 登记） |
+| 成立 | 未取（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Rolnicza 7, 33-100 Tarnów |
+| 人数 | 微型 |
+| 其他 | 官网 obserwuj.pl，语言 ?，快照状态 timeout；角色判定来源：待核；第 98 批：微型 CCTV 网店（Dahua 套装为主）→ 低概率，一页纸：HRUI STC-028GP / STC-228GP 两行；Dahua 自带 PoE → 只在非 Dahua 价格带有位置（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 网店（波兰）
 - **触达通道（公开）**：role: CCTV 网店（波兰，Dahua 为主）；region: 波兰；contact: info@obserwuj.pl

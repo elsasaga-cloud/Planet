@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 98 批（US · 1 次检索：LinkedIn（T1Nexus；Founded 2018；11–50；HQ 4701 Patrick Henry Dr, Santa Clara CA）+ 官网 Contact（Corporate HQ 47257 Fremont Blvd, Fremont CA 94538；T1Nexus UK Limited, Basepoint, Rivermead Drive, Swindon SN5 7EX）+ tech-intercept / sapply（「US joint venture partnered with leading optical transceiver manufacturers with factories in Taiwan and China / Malaysia」；white box switches）+ AI Infra Summit 2026（姊妹公司 US OPTO Corporation，Fremont，Penang 制造）+ konaequity（≈$4.4M，25 人），2026-10-28 查；https://t1nexus.com/contact-t1nexus/）：**
+
+- 法定名 / 登记号：T1 Nexus（T1Nexus；t1nexus.com；Fremont / Santa Clara, CA + T1Nexus UK Limited, Swindon）— OEM 兼容光模块品牌 = 台湾 / 亚洲光模块厂美国合资（准同行） · CA 实体名 / SoS 号未取（CA SoS JS；英国子公司 T1Nexus UK Limited CH 号未取） · 状态 **在营（2026 展会活跃）** · 成立 2018 · 合资公司（台湾 / 亚洲光模块厂 + 美国团队；私有）
+- 行业码 / 经营范围：OEM 兼容光模块 / DAC / AOC 自有品牌（终身保修）；白盒交换机 / MC（T1-DS2024G）转售；浸没冷却等数据中心配件
+- 注册地址：47257 Fremont Blvd, Fremont, CA 94538（2025 起）；旧址 4701 Patrick Henry Dr Bldg 16, Santa Clara, CA 95054；英国 Swindon SN5 7EX
+- 规模档：小型（11–50 人；≈$4M）
+- 账目：—；—
+- 高管：未取（官网不列高管；「executive team from large telecom companies」）
+- 控制人 / 股东：亚洲光模块厂合资方（推定）
+- **这意味着什么：**
+  - **准同行**：自己就是亚洲光模块厂的美国品牌壳，货源在台湾 / 马来西亚 / 中国 → 对我们的光模块无需求（Saga 本来不做光模块），交换机也走白盒合作方 → **低概率**
+  - 唯一缝隙 = 他们网店的 MC / 小交换机（T1-DS2024G）是凑品类的 → 可一页纸提 STI 工业 MC 替代 + STC 系列 OEM 贴 T1 标 30%（MOQ 1），回信再谈；不加厚
+  - 表内「MC 光路的」= 他们问过 MC；3 次跟进无回复 → 第二次触达只换主题，不换人（info@）
+- 备注：低概率；准同行。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,8 +134,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 t1nexus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | T1 Nexus（T1Nexus；台湾 / 亚洲光模块厂美国合资；CA 实体名未取；英国子公司 T1Nexus UK Limited） |
+| 成立 | 2018（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 47257 Fremont Blvd, Fremont, CA 94538（旧址 Santa Clara）；Swindon SN5 7EX |
+| 人数 | 11–50 人；≈$4M |
+| 其他 | 官网 t1nexus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 98 批：准同行（光模块品牌 + 白盒交换机 JV；姊妹公司 US OPTO）→ 低概率；唯一缝隙 = 其 MC / T1-DS2024G 小交换机凑品类 → 一页纸 STC / STI OEM 贴 T1 标 30%（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：兼容光模块 / 线缆 / MC / 交换机（自有品牌 T1）
 - **触达通道（公开）**：role: 兼容光模块/线缆品牌商（美国，MC/交换机副线）；region: 美国；contact: info@t1nexus.com

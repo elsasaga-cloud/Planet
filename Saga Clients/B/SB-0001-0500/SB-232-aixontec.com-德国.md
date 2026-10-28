@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,22 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 98 批（DE · 1 次检索：官网 Imprint（AIXONTEC GmbH；general manager Ashkan Ghaznavi；Freunder Weg 106, 52068 Aachen；VAT DE 301189253；**Amtsgericht Aachen HRB 19851**）+ Northdata（HRB 19851；2015-08-11 登记；MD A. Ghaznavi Monfared；Capital €25,000）+ webvalid（Gesellschaftsvertrag 2015-07-21；Unternehmensgegenstand「Entwicklung, Konfektion und Vertrieb von innovativen Produkten für die Netzwerk-Infrastruktur」；GF Ghaznavi Monfared, Ashkan，单独代表权 + 自我交易豁免）+ XING（Dipl.-Ing. Ashkan Ghaznavi = Partner / Gesellschafter + GF since 2011；此前 Leoni Kerpen 区域销售、Niedax 中东 / 印度区域销售经理）+ Amazon.de 卖家 Impressum，2026-10-28 查；https://www.northdata.com/AIXONTEC%20GmbH,%20Aachen/HRB%2019851）：**
+
+- 法定名 / 登记号：AIXONTEC GmbH（aixontec.com；Aachen）— 网络基础设施产品开发 / 组装 / 销售（自有品牌线缆 + 工业以太网；Amazon 卖家） · Amtsgericht Aachen HRB 19851；USt-IdNr. DE 301189253 · 状态 **Active** · 成立 2015-07-21（合同）/ 2015-08-11（登记）；业务自称 2011 起 · GmbH（资本 €25,000；一人 GF = 股东）
+- 行业码 / 经营范围：网络基础设施产品开发 / 线缆组装 / 销售（Verlegekabel、跳线、RFID 线缆资产管理、工业以太网、家庭光纤）；Amazon.de 自有品牌 AIXONTEC 卖家
+- 注册地址：Freunder Weg 106, 52068 Aachen
+- 规模档：微型 / 小型（资本 €25,000；一人 GF）
+- 账目：—（GmbH 小型，Bundesanzeiger 简式）；—
+- 高管：Dipl.-Ing. Ashkan Ghaznavi Monfared — Geschäftsführer + Gesellschafter（*1974；2011 起）= 研究档 KP ashkan.ghaznavi@ 本人
+- 控制人 / 股东：Ashkan Ghaznavi Monfared（推定全资）
+- **这意味着什么：**
+  - **研究档 KP 坐实 = 老板本人**（GF + 股东，线缆行业销售出身）→ 发信直达决策人；14 次群发无回复 = 读而不回或进垃圾箱，第二次触达换主题不换人
+  - 自有品牌 AIXONTEC（Amazon 卖家 + 自家网店）+ 表内「工业 FS 常总的 / 现从国内供应商采购」= **已在华南买工业交换机贴自己标** → 对标现供应商报 STI 工业线贴 AIXONTEC 标（OEM 30%，MOQ 1），卖点 3 年保修 + Marvell 管理型（STI-288DGGPM $137）
+  - 规模微型（€25k 资本、一人 GF）→ 单量小但「自有标 + 已进口 + 决策人直达」三项全中 → **贴标试探首选 small**；Simon 表内「可以着重跟一下」与此一致
+  - 发信窗口 Thu 12–14 CET；信用：Amazon 卖家 + 2015 起无变更，T/T 前 100% 起步
+- 备注：贴标试探 small（KP = 老板本人）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,15 +147,18 @@ updated: 2026-10-27
 - **【用户表】工业 FS 常总的；着重跟**
   > 工业FS 常总的；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ashkan Ghaznavi（）ashkan.ghaznavi@aixontec.com 〔用户表〕
+- **KP**：Ashkan Ghaznavi（Geschäftsführer + Gesellschafter（HRB 19851 Aachen；Dipl.-Ing.，*1974；前 Leoni Kerpen / Niedax 销售）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28））ashkan.ghaznavi@aixontec.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 aixontec.com，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | AIXONTEC GmbH（Amtsgericht Aachen HRB 19851；USt-IdNr. DE 301189253；资本 €25,000） |
+| 成立 | 2015-07-21（合同）/ 2015-08-11（登记）；自称 2011 起（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Freunder Weg 106, 52068 Aachen |
+| 人数 | 微型 / 小型（一人 GF） |
+| 其他 | 官网 aixontec.com，语言 de，快照状态 ok；角色判定来源：官网文案；第 98 批：自有品牌 AIXONTEC（Amazon 卖家）+ 表内「工业 FS 现从国内供应商采购」= 已在华南买工业交换机贴标 → **贴标试探首选 small（OEM 30%）**：STI 工业线贴 AIXONTEC 标，MOQ 1，3 年保修；14 次群发无回复 → 第二次触达换主题不换人（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络技术网店（电缆 / 工业以太网 / 光纤）；RFID 电缆资产管理
 - **触达通道（公开）**：role: 网络技术网店/自有品牌（德国，用户标「着重跟」）；region: 德国；contact: info@aixontec.com、ashkan.ghaznavi@aixontec.com
@@ -243,7 +262,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ashkan Ghaznavi | — | ashkan.ghaznavi@aixontec.com | 调研核实（公开页） | 用户表 |
+| Ashkan Ghaznavi | Geschäftsführer + Gesellschafter（HRB 19851 Aachen；Dipl.-Ing.，*1974；前 Leoni Kerpen / Niedax 销售）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28） | ashkan.ghaznavi@aixontec.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 14 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -337,12 +356,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

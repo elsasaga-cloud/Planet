@@ -91,6 +91,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 98 批（US · 1 次检索：infinityhardware.com Terms（Supplier Go Get International LLC dba Infinity Hardware；EIN 85-3229984；Reseller ID 601316851；registered office 3975 Netherstone Ln, High Point NC 27265）+ cage.report / DUNS 011668947（Not Fully Registered in SAM；Year Established 2020；LLC；Other Minority Owned, Subcontinent Asian American；812 Parliament St）+ MapQuest（Go Get International 业务 = Infinity Hardware / Eutility / GSS BPO / lead generation / app development）+ LinkedIn（Muhammad Awais Liaqat, Go Get International LLC），2026-10-28 查；https://infinityhardware.com/terms-and-conditions/）：**
+
+- 法定名 / 登记号：Go Get International LLC（dba Infinity Hardware；infinityhardware.us；High Point, NC）— 微型 IT 硬件转售 + BPO 混业 · EIN 85-3229984；DUNS 011668947（NC SoS 号未取，1 次即停） · 状态 **在营（SAM 未完成注册）** · 成立 2020 · LLC（北卡；少数族裔所有）
+- 行业码 / 经营范围：新品 / 翻新服务器、存储、网络设备（Cisco 等）、IP 话机、监控摄像转售；兼营 BPO / 线索生成 / App 开发（Go Get International 多业务）
+- 注册地址：3975 Netherstone Ln, High Point, NC 27265（注册办公地 = 住宅区街道）/ 812 Parliament St, High Point, NC 27265
+- 规模档：微型（2–10 人）
+- 账目：—；—
+- 高管：Muhammad Awais Liaqat — Go Get International LLC（LinkedIn；职务未列）
+- 高管：研究档 KP「Purchase Manager」姓名仍未核
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - 2020 年新起的家庭式 IT 转售 + BPO 混业微型 LLC（注册地为住宅街道，SAM 未完成）→ **低概率，一页纸即止，不加厚**；sales@ 群发保留
+  - 翻新设备为主 → 对新品 PoE 交换机价格敏感；若回信只给 HRUI 线（STC-028GP $28 / STC-228GP $33）两行价，付款 T/T 前 100%，不做账期
+- 备注：低概率；下轮不追。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,17 +138,18 @@ updated: 2026-10-28
 - **【用户表】贸易公司/Cisco 工业交换机；WhatsApp 已加**
   > 贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Purchase Manager（姓名待核）（采购（用户表））sales@infinityhardware.us（公开） +1 336 944 6904（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Purchase Manager（姓名待核）（公域 —— 家庭式微型转售 + BPO 混业（Go Get International LLC dba）：一页纸即止（第 98 批 官方登记核实 2026-10-28））sales@infinityhardware.us（公开） +1 336 944 6904（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Go Get International LLC（dba Infinity Hardware） |
-| 成立 | 2020 |
-| 总部/地址 | 3975 Netherstone Ln, High Point, NC 27265, USA（+1 336 944 6904；sales@infinityhardware.us） |
-| 其他 | 新品/翻新 IT 硬件转售；Cisco 等品牌；国际客户 |
+| 法定名称 | Go Get International LLC（dba Infinity Hardware；EIN 85-3229984；DUNS 011668947；北卡 LLC） |
+| 成立 | 2020（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 3975 Netherstone Ln, High Point, NC 27265（住宅区注册地）/ 812 Parliament St |
+| 人数 | 2–10 人 |
+| 其他 | 新品/翻新 IT 硬件转售；Cisco 等品牌；国际客户；第 98 批：SAM 未完成注册；少数族裔所有；兼营 BPO / 线索生成 → 低概率，不加厚（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：新品与翻新服务器/存储/网络硬件转售；IP 电话、监控摄像、配件
 - **触达通道（公开）**：网站: https://infinityhardware.com/；电话: +1 336 944 6904（公开）；邮箱（公开）: sales@infinityhardware.us / info@infinityhardware.us；LinkedIn: https://www.linkedin.com/company/infinity-hardware-us
@@ -198,7 +214,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Purchase Manager（姓名待核） | 采购（用户表） | sales@infinityhardware.us（公开） / +1 336 944 6904（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Purchase Manager（姓名待核） | 公域 —— 家庭式微型转售 + BPO 混业（Go Get International LLC dba）：一页纸即止（第 98 批 官方登记核实 2026-10-28） | sales@infinityhardware.us（公开） / +1 336 944 6904（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

@@ -82,6 +82,23 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 98 批（PL · 1 次检索：rejestr.io（BATNA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ；**KRS 0001003926**；Prezes Zarządu Magdalena Mucha 2022-12-01 起；Kapitał 40,000 zł；Olgi Boznańskiej 3E, 42-202 Częstochowa）+ aleo（股东 Łukasz Jan Mucha 5 份 / Magdalena Marzena Mucha 5 份）+ D&B（REGON 380387214）+ rejestr.io 24 BATNA Sp. z o.o. Sp. k.（KRS 0000908391；NIP 5732927213；REGON 389288258；2021-06-25；komplementariusz = Batna Sp. z o.o.；komandytariusz Łukasz Jan Mucha）+ bizraport（主业 46.52 电子 / 电信设备批发；页面示「392,5 mln zł」规模指标，口径未明 → 仅作区间）+ kadorf / Facebook（2001 起；「main European distributor of Ubiquiti Networks and MikroTik」）+ batna24.com 产品卡（Batna sp. z o. o., ul. 1 Maja 23, 42-217 Częstochowa；+48 34 361 04 48），2026-10-28 查；https://rejestr.io/krs/1003926/batna）：**
+
+- 法定名 / 登记号：Batna Sp. z o.o.（batna24.com / anteny24.pl；Częstochowa）— Ubiquiti / MikroTik 欧洲主力分销商（2001 起；Mucha 家族） · KRS 0001003926（Batna Sp. z o.o.）；REGON 380387214；关联 24 BATNA Sp. z o.o. Sp. k. KRS 0000908391 / NIP 5732927213 · 状态 **Active（2026-09 产品卡仍以 Batna sp. z o.o. 开票）** · 成立 2022-12-01（现 Sp. z o.o.；业务 2001 起；Sp. k. 2021-06-25） · Sp. z o.o.（资本 40,000 zł；Mucha 夫妇各半）+ Sp. k. 经营体
+- 行业码 / 经营范围：46.52 无线 / 网络设备批发：Ubiquiti、MikroTik、Extralink、LigoWave、TP-Link、RF elements、Totolink（switch 301 / camera 231 / poe 92 SKU）；多语种电商（PL / IT / CS …）
+- 注册地址：ul. Olgi Boznańskiej 3E, 42-202 Częstochowa（注册）；ul. 1 Maja 23, 42-217 Częstochowa（开票 / 门店）
+- 规模档：大型（欧洲级 Ubiquiti / MikroTik 分销；B BIG）
+- 账目：第三方规模指标：数亿 zł 级（bizraport，口径未明）；—
+- 高管：Magdalena (Marzena) Mucha — Prezes Zarządu + 股东 50%
+- 高管：Łukasz Jan Mucha — 股东 50% + Sp. k. komandytariusz（实际经营者，推定）
+- 控制人 / 股东：Mucha 夫妇
+- 曾用名：24 BATNA Sp. z o.o. Sp. k.（经营体）
+- **这意味着什么：**
+  - **B BIG，分销 20%**：欧洲级 Ubiquiti / MikroTik 分销商 = 正是我们对标的两个牌子的货架 → 对标 MikroTik CRS / Ubiquiti USW 报 STC-424XGGPM-280W（$198 list）+ HRUI 入门线 + STC-110XGE（10G $65），卖点 = 同规格 -30% + Marvell L2+
+  - 2022-12 重组为 Sp. z o.o.（原 Sp. k.）= 正常化；研究档 KP 只有 shop@ → 写 zakupy / product manager「switche」抄 shop@；波兰为次级战场，但这家是 PL 名单里最大的渠道
+  - 意大利语站点曾被归入意大利名单（研究档）→ 以 PL 主体为准，不重复发；发信窗口 Thu 12–14 CET；**升 A 候选**（回信即 A）
+- 备注：B BIG；分销 20%；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,16 +125,19 @@ updated: 2026-10-28
 - **【用户表】SFP 周边产品；POE 电源 MC（多是 tp-link 的）**
   > 兴趣：SFP 周边产品 POE电源 MC（多是tp-link的）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（网店）（）shop@batna24.com +48 34 361 04 48〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（网店）（公域 —— 写 zakupy / product manager「switche」抄 shop@（研究档无人名）（第 98 批 官方登记核实 2026-10-28））shop@batna24.com +48 34 361 04 48〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Łukasz Jan Mucha（股东 50% + 24 BATNA Sp. k. komandytariusz（rejestr.io / aleo；实际经营者，推定）= 收件人点名；Prezes = Magdalena Mucha（配偶，2022-12 起）（第 98 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/1003926/batna〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Batna24 Sp. z o.o. |
-| 总部/地址 | Częstochowa, Poland（+48 34） |
-| 其他 | Extralink 为其自有品牌（含 MC / PoE 配件） |
+| 法定名称 | Batna Sp. z o.o.（KRS 0001003926；REGON 380387214；资本 40,000 zł；关联经营体 24 BATNA Sp. z o.o. Sp. k. KRS 0000908391 / NIP 5732927213） |
+| 成立 | 2022-12-01（现 Sp. z o.o.；业务 2001 起）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Olgi Boznańskiej 3E, 42-202 Częstochowa（注册）/ ul. 1 Maja 23, 42-217 Częstochowa（开票） |
+| 人数 | 大型（欧洲级 Ubiquiti / MikroTik 分销；第三方规模指标数亿 zł 级，口径未明） |
+| 其他 | Extralink 为其自有品牌（含 MC / PoE 配件）；第 98 批：**「main European distributor of Ubiquiti Networks and MikroTik」→ 对标 MikroTik CRS / Ubiquiti USW 报 STC-424XGGPM-280W + HRUI 入门线 + STC-110XGE，分销 20%，B BIG，升 A 候选**；意大利语站点同主体，不重复发（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：ISP / 无线 / 网络设备泛欧分销（电商）
 - **触达通道（公开）**：role: 大型分销商 + 自有品牌 Extralink；region: 波兰 / 欧洲
@@ -172,7 +192,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | shop@batna24.com | 用户表原值 | Clients/ 表 |
+| Łukasz Jan Mucha | 股东 50% + 24 BATNA Sp. k. komandytariusz（rejestr.io / aleo；实际经营者，推定）= 收件人点名；Prezes = Magdalena Mucha（配偶，2022-12 起）（第 98 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rejestr.io/krs/1003926/batna |
 
 - **通道建议**：企业邮箱可直发
 

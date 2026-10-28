@@ -1,6 +1,6 @@
 # cratsol.ae
 
-> **评级 B**　|　英国　|　档案编号 `SB-1020`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　阿联酋　|　档案编号 `SB-1020`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：IT 贸易商（英国/阿联酋，DAC 询盘）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:UK　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,8 +9,9 @@ code: SB-1020
 rating: B
 rating_auto: B
 score: 25
-country: 英国
-region: 欧洲
+country: 阿联酋
+country_table: 英国  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
+region: 中东
 website: cratsol.ae
 type: IT 贸易商（英国/阿联酋，DAC 询盘）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:UK"]
@@ -76,16 +77,33 @@ updated: 2026-10-28
 - `cratsol.ae` → 主机商 cPanel 类邮箱（MX：mx10.antispam.mailspamprotection.com、mx20.antispam.mailspamprotection.com、mx30.antispam.mailspamprotection.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `cratsol.co.uk` → Microsoft 365（MX：cratsol-co-uk.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（英国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（阿联酋 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
 - 窗口内无该国法定假日
+
+**公司底数 · 第 98 批（GB→AE · 1 次检索：LinkedIn（Cratsol Technology LLC - UAE；2017；11–50；601 One by Omniyat, Business Bay, Dubai；另列 Chicago IL 地址）+ Crunchbase（Legal Name Cratsol Technology LLC；sales@cratsol.ae）+ 官网 Contact（CRATSOL TECHNOLOGY LLC, Office 605 Silver Tower, Business Bay）+ ZoomInfo（<$5M；Faisal Shahid 2019 起）+ **Companies House 11084123 CRATSOL LTD**（Incorporated 2017-11-27；Active；G18 Amber Court, William Armstrong Drive, Newcastle upon Tyne NE4 7YA = 注册地址服务），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/11084123）：**
+
+- 法定名 / 登记号：Cratsol Technology LLC（cratsol.ae；Dubai Business Bay）+ 英国壳 CRATSOL LTD（Newcastle upon Tyne）— IT 硬件增值转售商（VAR；国别更正 GB → AE） · UAE 营业执照号未取；英国壳 Companies House 11084123 · 状态 **Active（UAE 主体 2026-09 仍在；英国壳 Active）** · 成立 2017（UAE）/ 2017-11-27（英国壳） · LLC（迪拜）+ Private limited company（英国，注册地址服务）
+- 行业码 / 经营范围：IT 硬件 / 软件增值转售（台式机、工作站、显示器、打印机、网络；多品牌）面向 UAE 与海外
+- 注册地址：601 One by Omniyat / Office 605 Silver Tower, Business Bay, Dubai, UAE；英国壳 G18 Amber Court, William Armstrong Drive, Newcastle upon Tyne NE4 7YA
+- 规模档：小型（11–50 人；<$5M）
+- 账目：英国壳：未取；未取
+- 高管：Faisal Shahid — Cratsol Technology（ZoomInfo）
+- 高管：Issac Grant / Amir Zahirshah — 研究档询盘联系人（Skype）
+- 高管：英国壳董事未取
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **国别更正**：cratsol.co.uk 只是迪拜 VAR 的英国壳（Newcastle 注册地址服务）→ country_fix 阿联酋；不属四大主战场
+  - 唯一询盘是「10G DAC 3 m × 300 单价」= Saga 不做的品类 → 只能一页纸回 STC-110XGE（10G 交换机 $65）做关联，**低概率，不加厚**
+  - 迪拜 IT VAR 做政府 / 企业标 → 会要 Cisco 级品牌；我们没有位置；若回信按分销 20% 报，T/T 前 100%
+- 备注：国别更正 AE；低概率；下轮不追。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | cratsol.ae（取自域名，公司全名待核） | 推断 |
-| 国家 | 英国 | 事实（用户表）|
+| 国家 | 阿联酋 | 事实（用户表）|
 | 网站/域名 | cratsol.ae / cratsol.co.uk | 事实（用户表 URL/邮箱域名） |
 | 类型 | IT 贸易商（英国/阿联酋，DAC 询盘） | 推断（据兴趣/备注关键词） |
 | 联系人 | Issac Grant Skype人名 Amir Zahirshah 质量一般 | 事实（用户表） |
@@ -114,8 +132,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 cratsol.ae，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | Cratsol Technology LLC（迪拜 Business Bay；英国壳 CRATSOL LTD Companies House 11084123，Newcastle upon Tyne 注册地址服务） |
+| 成立 | 2017（UAE）/ 2017-11-27（英国壳）（第 98 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 601 One by Omniyat / Office 605 Silver Tower, Business Bay, Dubai, UAE |
+| 人数 | 11–50 人；<$5M |
+| 其他 | 官网 cratsol.ae，语言 ?，快照状态 ok；角色判定来源：待核；第 98 批：**国别更正 GB → 阿联酋**（cratsol.co.uk 仅为壳）；IT 硬件 VAR；唯一询盘 10G DAC（非品类）→ 一页纸 STC-110XGE 关联即止；低概率，不加厚（第 98 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 产品贸易（英国 / 阿联酋）
 - **触达通道（公开）**：role: IT 贸易商（英国/阿联酋，DAC 询盘）；region: 英国；contact: sales@cratsol.co.uk
@@ -197,8 +218,8 @@ updated: 2026-10-28
 
 ## SWOT
 
-- **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
+- **S**：名单内已有联系记录，不是零起点
+- **W**：中东：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-424XGGM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
