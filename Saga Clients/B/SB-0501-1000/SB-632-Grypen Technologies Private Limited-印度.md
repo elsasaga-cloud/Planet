@@ -74,6 +74,20 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：grypen.in/about-us（Grypen Technologies Private Limited at Delhi；IT & C system integrator, consulting & training；Plot No 467/A Mahipalpur New Delhi 110037；info@grypen.in；+91 8920992882；© 2024）+ zaubacorp / tracxn 同名（GRAPINE TECHNOLOGIES / GRYPHON TECHNOLOGIES / GRIP TECHNOLOGIES ≠）；CIN 未见；1 查即停；2026-10-28，2026-10-28 查；https://grypen.in/about-us.php）：**
+
+- 法定名 / 登记号：Grypen Technologies Private Limited（grypen.in；Plot 467/A, Mahipalpur, New Delhi 110037；info@grypen.in；+91 8920992882）— 德里 IT & 通信系统集成 + 咨询 / 培训（站内「integrator」）；**CIN 未取**（1 查无命中，同名 Grapine / Gryphon / Grip ≠）；阿里询盘「商业交换机」；KP Shubham Kumar（sucheytaa@grypen.in，职务待核）；未跟进 · 未取（CIN） · 状态 **Active（站点 2024）** · 成立 未取 · Private Limited（自称）
+- 行业码 / 经营范围：IT / 通信 系统集成（新德里）
+- 注册地址：Plot 467/A, Mahipalpur, New Delhi 110037
+- 规模档：微型 / 小型（推定）
+- 账目：—；—
+- 高管：Shubham Kumar — 研究档 KP（sucheytaa@grypen.in；职务待核）= 收件人（抄 info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **小型集成商 + 有「商业交换机」询盘 → 集成 25% small，一页纸一次（切口：STC-228GP / STC-2224GP / STC-4424GCPM 三档一口价 + MOQ 1；英文，Shubham 直呼 + info@ 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动
+  - CIN 未取 → 部分坐实；只做预付
+- 备注：集成 25% small；一页纸一次；部分坐实（站点地址；CIN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,15 +120,17 @@ updated: 2026-10-28
 - **【用户表】商业交换机询盘**
   > 商业交换机 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Shubham Kumar（）sucheytaa@grypen.in 〔用户表〕
+- **KP**：Shubham Kumar（Grypen Technologies 研究档 KP（职务待核）= 收件人（抄 info@grypen.in）（第 114 批 官方登记核实 2026-10-28））sucheytaa@grypen.in 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Grypen Technologies Private Limited（grypen.in；Plot 467/A, Mahipalpur, New Delhi 110037；IT & C 系统集成 + 咨询 / 培训；CIN 未取） |
+| 成立 | 未取（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | 官网 grypen.in，语言 zxx，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 grypen.in，语言 zxx，快照状态 ok；角色判定来源：官网文案；第 114 批：小型集成商 + 「商业交换机」询盘 → **集成 25% small，一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM 三档一口价 + MOQ 1；Shubham 直呼 + info@ 抄）**；再无回声 → 不动；CIN 未取 → 部分坐实；只做预付（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 安防业务方案集成（印度）
 - **触达通道（公开）**：role: IT/安防集成商（印度，商业交换机询盘）；region: 印度；contact: sucheytaa@grypen.in
@@ -167,7 +183,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Shubham Kumar | — | sucheytaa@grypen.in | 调研核实（公开页） | 用户表 |
+| Shubham Kumar | Grypen Technologies 研究档 KP（职务待核）= 收件人（抄 info@grypen.in）（第 114 批 官方登记核实 2026-10-28） | sucheytaa@grypen.in | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

@@ -87,6 +87,23 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：zaubacorp（MRO-TEK REALTY LIMITED CIN L28112KA1984PLC005873；Public company incorporated 10 Dec 1984；ROC Bangalore；paid up Rs. 93,423,000；Active）+ bseindia 年报 2025-26（UMIYA BUILDCON LIMITED (Formerly known as MRO-TEK Realty Limited)；GSTIN 29AAACM9875E1Z1；No.6 New BEL Road；Factory Konnappana Agrahara；Product segment revenue Rs. 3267.28 Lakhs FY2025-26 vs 1820.04；RoC no objection to name “MRO-TEK Networks Limited” 2026-07-09）+ bseindia 2024（Aniruddha Mehta Chairman & Managing Director DIN 00720504）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/company/MRO-TEK-REALTY-LIMITED/L28112KA1984PLC005873）：**
+
+- 法定名 / 登记号：MRO-TEK Realty Limited → UMIYA BUILDCON LIMITED（2026 更名；RoC 已同意再更名为「MRO-TEK Networks Limited」）；CIN L28112KA1984PLC005873（BSE 532376，1984-02-10 / 12-10 注册）；GSTIN 29AAACM9875E1Z1；No. 6, New BEL Road, Chikkamaranahalli, Bangalore 560054；工厂 Konnappana Agrahara, Bangalore 560100）— 1984 年起的印度网络 / 电信 / 安防 OEM（「designed, manufactured and certified in India」；工业交换机 CORNUS-82P / 84P、L3 LAVENDER-84X）；**产品板块营收 FY2025-26 ₹3,267 lakhs（≈$3.9M，+80%）**；Chairman & MD Aniruddha Mehta；KP Arun Raj（AVP Solution Sales）、Satish；14 封 1 次打开 0 回；表内「MC / 工业 FS / 普通 FS / 周边，从 Ra… 采购」 · CIN L28112KA1984PLC005873 / GSTIN 29AAACM9875E1Z1 · 状态 **Active（BSE 上市）** · 成立 1984-12-10 · Public Limited（上市）
+- 行业码 / 经营范围：网络 / 电信 / 安防 OEM 制造（班加罗尔）
+- 注册地址：No. 6, New BEL Road, Chikkamaranahalli, Bangalore 560054
+- 规模档：中型（上市；集团含房地产板块）
+- 账目：产品板块 ₹3,267 lakhs（FY2025-26）；—
+- 高管：Aniruddha Mehta — Chairman & Managing Director（DIN 00720504）= 拍板人
+- 高管：Arun Raj — AVP Solution Sales（研究档 KP）= 收件人
+- 高管：Satish — 研究档 KP = 抄
+- 控制人 / 股东：Mehta 家族（推定；上市公司）
+- 曾用名：MRO-TEK Limited；MRO-TEK Realty Limited；UMIYA BUILDCON LIMITED（2026）
+- **这意味着什么：**
+  - **上市 Make-in-India OEM 品牌、外采 ODM 整机 / SKD、产品板块高速增长 → 贴标 / 配套 30% B BIG，加厚一次（切口：CORNUS / LAVENDER 类工业与接入交换机的 SKD / 板级 + 整机第二来源 STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM + STC-4424GCPM / STC-424XGGPM-280W + 中性包装；英文，Arun 直呼 + Satish 抄，一问本地化（SKD）比例要求）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选升 A
+  - 守界：对方「certified in India」叙事（BIS / TEC）→ 稿内不声称印度认证；不点名其现供应商
+- 备注：贴标 / 配套 30%；B BIG 加厚一次；坐实（CIN + GSTIN + 年报 + 董事长）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,16 +147,19 @@ updated: 2026-10-28
 - **【用户表】从 Raisecom 买产品，MC / 工业 FS**
   > MC 工业FS 普通FS 周边产品 / switch；从raisecom买一些产品 / 之前联系过
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Arun Raj（）arun.raj@mro-tek.com 〔用户表〕
-- **KP**：Satish（）satish@mro-tek.com 〔用户表〕
+- **KP**：Arun Raj（AVP – Solution Sales（研究档）= 收件人（第 114 批 官方登记核实 2026-10-28））arun.raj@mro-tek.com 〔用户表〕
+- **KP**：Satish（MRO-TEK 研究档 KP = 抄（第 114 批 官方登记核实 2026-10-28））satish@mro-tek.com 〔用户表〕
+- **KP**：Aniruddha Mehta（Chairman & Managing Director（DIN 00720504；BSE 年报）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/company/MRO-TEK-REALTY-LIMITED/L28112KA1984PLC005873〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MRO-TEK Realty Limited → UMIYA BUILDCON LIMITED（2026 更名；RoC 已同意再更名 MRO-TEK Networks Limited）；CIN L28112KA1984PLC005873；BSE 532376；GSTIN 29AAACM9875E1Z1；No. 6, New BEL Road, Chikkamaranahalli, Bangalore 560054；工厂 Konnappana Agrahara |
+| 成立 | 1984-12-10（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | 官网 mro-tek.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 mro-tek.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 114 批：上市 Make-in-India 网络 / 电信 OEM，产品板块 FY2025-26 ₹3,267 lakhs（+80%）→ **贴标 / 配套 30% B BIG，加厚一次（CORNUS / LAVENDER 类工业与接入交换机 SKD / 板级 + 整机第二来源 STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM + STC-4424GCPM / STC-424XGGPM-280W + 中性包装；Arun 直呼 + Satish 抄；一问 SKD 本地化比例）**；回信 → 次候选升 A；稿内不声称 BIS / TEC（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业网络 / 电信 / 安防产品（印度 OEM 品牌）；工业交换机（CORNUS / LAVENDER 系列）
 
@@ -237,8 +257,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arun Raj | — | arun.raj@mro-tek.com | 调研核实（公开页） | 用户表 |
-| Satish | — | satish@mro-tek.com | 调研核实（公开页） | 用户表 |
+| Arun Raj | AVP – Solution Sales（研究档）= 收件人（第 114 批 官方登记核实 2026-10-28） | arun.raj@mro-tek.com | 调研核实（公开页） | 用户表 |
+| Satish | MRO-TEK 研究档 KP = 抄（第 114 批 官方登记核实 2026-10-28） | satish@mro-tek.com | 调研核实（公开页） | 用户表 |
+| Aniruddha Mehta | Chairman & Managing Director（DIN 00720504；BSE 年报）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.zaubacorp.com/company/MRO-TEK-REALTY-LIMITED/L28112KA1984PLC005873 |
 
 - **通道建议**：企业邮箱可直发
 

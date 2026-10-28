@@ -83,6 +83,23 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：tracxn（NEXTGEN AUTOMATION PRIVATE LIMITED CIN U31200WB2002PTC094683；incorporated May 24, 2002；ROC Kolkata；1/1A Mahendra Roy Lane PS PACE Unit 102；revenue ₹10–50 Cr FY2025）+ zaubacorp（paid up Rs. 2,062,200；Directors Sanjiv Dua / Amit Jhunjhunwala / Somini Sen Dua；sanjiv.dua@ngapl.com）+ ngapl.in/about（incorporated 2002；founded and headed by Mr Sanjiv Dua IIT Delhi；almost seventy five people；manufacturing unit 66865 sq ft）+ thecompanycheck（Open Charges ₹29.43 Cr）+ ngapl.com/contact（Regd Office Stephen Court 18A Park Street）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/NEXTGEN-AUTOMATION-PRIVATE-LIMITED-U31200WB2002PTC094683）：**
+
+- 法定名 / 登记号：NextGen Automation Pvt. Ltd.（NGAPL；ngapl.in / ngapl.com；CIN U31200WB2002PTC094683（2002-05-24；RoC Kolkata）；PS PACE, Unit 102, 1/1A Mahendra Roy Lane, Kolkata 700046；注册地 Stephen Court, 18A Park Street, Kolkata 700071）— 大型工业电气与自动化集成商（钢铁 / 矿山新建与改造项目；合作 MRA / VAHLE / Ouster / Kymati / Siemens；≈75 人；66,865 sq ft 制造车间）；创始人 / MD Sanjiv Dua（IIT Delhi）、董事 Amit Jhunjhunwala / Somini Sen Dua；营收 ₹10–50 Cr（FY2025）；未清抵押 ₹29.43 Cr；KP Rajendra Khamkar（Operation Head）；阿里询盘「EHG6408 8 电口」（Atop 型号）；未触达 · CIN U31200WB2002PTC094683 · 状态 **Active** · 成立 2002-05-24 · Private Limited
+- 行业码 / 经营范围：工业电气 / 自动化 系统集成 + 控制柜制造（加尔各答）
+- 注册地址：PS PACE, Unit 102, 1st Floor, 1/1A Mahendra Roy Lane, Kolkata 700046
+- 规模档：中型（≈75 人）
+- 账目：₹10–50 Cr（FY2025）；—
+- 高管：Sanjiv Dua — Founder / Managing Director = 拍板人
+- 高管：Rajendra Khamkar — Operation Head（研究档 KP）= 收件人
+- 高管：Amit Jhunjhunwala / Somini Sen Dua — Directors
+- 控制人 / 股东：Dua 家族（推定）
+- 抵押 / 诉讼 / 担保：₹29.43 Cr 未清抵押（项目融资常态）
+- **这意味着什么：**
+  - **钢铁 / 矿山大型自动化集成商、已有 8 口工业交换机询盘 → 集成 25% B BIG，加厚一次（切口：接上「8 电口工业」询盘 → STI-280GE（8 GE 非管理）/ STI-288GPM（8 PoE + 2 SFP 管理）+ 环网 STI-288DGGPM，导轨 + 宽温 + 3 年保，付费样机 2 台；英文，Rajendra 直呼 + info@ 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选升 A
+  - 守界：不声称 IEC 61850 / 防爆；不点名 Atop / Siemens
+- 备注：集成 25%；B BIG 加厚一次；坐实（CIN + 地址 + MD + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,15 +143,18 @@ updated: 2026-10-28
 - **【用户表】EHG6408 询盘**
   > EHG6408 8电口 / from: 阿里巴巴
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rajendra Khamkar（）info@ngapl.com 〔用户表〕
+- **KP**：Rajendra Khamkar（Operation Head（研究档）= 收件人（info@ 职能箱）（第 114 批 官方登记核实 2026-10-28））info@ngapl.com 〔用户表〕
+- **KP**：Sanjiv Dua（Founder / Managing Director（IIT Delhi；ngapl.in；MCA 董事）= 拍板人（第 114 批 官方登记核实 2026-10-28）） 〔https://ngapl.in/?page_id=11105〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | NextGen Automation Private Limited（NGAPL；CIN U31200WB2002PTC094683；PS PACE, Unit 102, 1/1A Mahendra Roy Lane, Kolkata 700046；注册地 Stephen Court, 18A Park Street；≈75 人；₹10–50 Cr FY2025；未清抵押 ₹29.43 Cr；66,865 sq ft 车间） |
+| 成立 | 2002-05-24（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | 官网 ngapl.in，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 ngapl.in，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 114 批：钢铁 / 矿山大型工业电气 + 自动化集成商，已有「8 电口工业交换机（Atop EHG6408）」询盘 → **集成 25% B BIG，加厚一次（STI-280GE 8 GE 非管理 / STI-288GPM 8 PoE + 2 SFP 管理 + 环网 STI-288DGGPM，导轨 + 宽温 + 3 年保 + 付费样机 2 台；Rajendra 直呼 + info@）**；回信 → 次候选升 A；守界：不声称 IEC 61850 / 防爆；不点名 Atop / Siemens（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化 / SCADA 集成（印度）
 - **触达通道（公开）**：role: 工业自动化集成商（印度，Atop EHG6408 询盘）；region: 印度；contact: info@ngapl.com
@@ -210,7 +230,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rajendra Khamkar | — | info@ngapl.com | 调研核实（公开页） | 用户表 |
+| Rajendra Khamkar | Operation Head（研究档）= 收件人（info@ 职能箱）（第 114 批 官方登记核实 2026-10-28） | info@ngapl.com | 调研核实（公开页） | 用户表 |
+| Sanjiv Dua | Founder / Managing Director（IIT Delhi；ngapl.in；MCA 董事）= 拍板人（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://ngapl.in/?page_id=11105 |
 
 - **通道建议**：企业邮箱可直发
 

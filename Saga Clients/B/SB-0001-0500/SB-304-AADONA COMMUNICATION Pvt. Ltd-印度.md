@@ -86,6 +86,22 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：indiafilings（AADONA COMMUNICATION PRIVATE LIMITED CIN U72900CT2018PTC008600；RoC-Chhattisgarh；Date of Incorporation 18-06-2018；Registered Address 07 SBI Colony Mahoba Bazar Raipur 492099；Email pinaki.chatterjee@aadona.com；Directors Soma Chatterjee / Pinaki Chatterjee / Shivani Chattirajee；Paid up 23,04,360；Active）+ tracxn（revenue <₹10 Cr FY2025）+ aadona.com（founded 2018 under Start-up India；HQ Phoenix Tech Tower IDA Uppal Hyderabad；MII Class I / II）+ LinkedIn（11-50；Hyderabad）；2026-10-28，2026-10-28 查；https://www.indiafilings.com/search/aadona-communication-private-limited-cin-U72900CT2018PTC008600）：**
+
+- 法定名 / 登记号：AADONA Communication Pvt. Ltd.（aadona.com；CIN U72900CT2018PTC008600（2018-06-18；RoC Chhattisgarh）；注册地 07, SBI Colony, Mahoba Bazar, Raipur 492099；总部 1st Floor, Phoenix Tech Tower, Plot 14/46, IDA Uppal, Hyderabad 500039）— Start-up India / DPIIT 登记的「Made in India」网络品牌（交换机 / 服务器 / NAS / CCTV / 无线 / 机柜；MII Class I / II；纯渠道品牌，面向 SI）；董事 Pinaki Chatterjee（研究档 CEO；ceo@）/ Shivani Chattirajee / Soma Chatterjee；实缴 ₹23.04 lakh；营收 <₹10 Cr（FY2025）；11–50 人；KP Govind Madhav；5 封 0 打开 · CIN U72900CT2018PTC008600 · 状态 **Active** · 成立 2018-06-18 · Private Limited
+- 行业码 / 经营范围：网络 / 安防 自有品牌（海得拉巴 / 赖布尔）
+- 注册地址：1st Floor, Phoenix Tech Tower, Plot 14/46, IDA Uppal, Hyderabad 500039（注册地 Raipur）
+- 规模档：小型（11–50 人）
+- 账目：<₹10 Cr（FY2025）；—
+- 高管：Pinaki Chatterjee — Director / CEO（研究档 KP ceo@）= 拍板人 / 收件人
+- 高管：Govind Madhav — 研究档 KP = 抄
+- 高管：Shivani Chattirajee / Soma Chatterjee — Directors
+- 控制人 / 股东：Chatterjee 家族
+- **这意味着什么：**
+  - **纯渠道自有品牌（MII 叙事、全线外采）→ 贴标 OEM 30% B，加厚一次（切口：AADONA 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP 整机或 SKD（配合 MII Class II 本地化）+ 中性包装 / 自编货号；英文，Pinaki 直呼 + Govind 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选
+  - 守界：MII Class I / II 为印度政府采购分类 → 稿内不声称、不替对方判断本地含量；不提政府项目
+- 备注：贴标 30%；B 加厚一次；坐实（CIN + 董事 + 两地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,18 +137,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS 比较多；监控；产品页 /industrial-switches/**
   > 兴趣：工业FS比较多 监控 https://aadona.com/industrial-switches/
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Pinaki Chatterjee（）ceo@aadona.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Govind Madhav（）govind.madhav@aadona.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Pinaki Chatterjee（Director / CEO（indiafilings 董事 2018-06-18–；pinaki.chatterjee@aadona.com 为登记邮箱）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28））ceo@aadona.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Govind Madhav（AADONA 研究档 KP = 抄（第 114 批 官方登记核实 2026-10-28））govind.madhav@aadona.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：自有品牌 OEM））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | AADONA Communication Pvt. Ltd. |
-| 成立 | （待核） |
+| 法定名称 | AADONA Communication Private Limited（CIN U72900CT2018PTC008600；RoC Chhattisgarh；注册地 07, SBI Colony, Mahoba Bazar, Raipur 492099；总部 Phoenix Tech Tower, IDA Uppal, Hyderabad 500039；董事 Pinaki Chatterjee / Shivani Chattirajee / Soma Chatterjee；实缴 ₹23.04 lakh；<₹10 Cr；11–50 人） |
+| 成立 | 2018-06-18（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | India |
-| 其他 | Make in India（SKD 组装可能） |
+| 其他 | Make in India（SKD 组装可能）；第 114 批：Start-up India「Made in India」纯渠道自有品牌（MII Class I / II；全线外采）→ **贴标 OEM 30% B，加厚一次（AADONA 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP 整机或 SKD + 中性包装 / 自编货号；Pinaki 直呼 + Govind 抄）**；稿内不声称 MII 分类 / 不提政府项目（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络交换机（含工业）/ 服务器 / CCTV / 无线（自有品牌）
 - **触达通道（公开）**：role: 品牌商（OEM/SKD 采购）；region: 印度
@@ -197,8 +213,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pinaki Chatterjee | — | ceo@aadona.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Govind Madhav | — | govind.madhav@aadona.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Pinaki Chatterjee | Director / CEO（indiafilings 董事 2018-06-18–；pinaki.chatterjee@aadona.com 为登记邮箱）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28） | ceo@aadona.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Govind Madhav | AADONA 研究档 KP = 抄（第 114 批 官方登记核实 2026-10-28） | govind.madhav@aadona.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 

@@ -110,6 +110,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 114 批（IN · 1 次检索：tracxn（APOLLO INFOWAYS PRIVATE LIMITED is the legal entity of Watch Dog；CIN U72900DL2014PTC264342；directors Ivy Prakash / Ravi Prakash since Feb 03, 2014；paid up ₹10L；revenue ₹10–50 Cr FY2025；AGM Sep 30, 2024）+ thecompanycheck（E 703 P No 60 Mayur Dhwaj Apartment Indra Prastha Extn New Delhi 110092）+ theenterpriseworld（Ravi Prakash Founder / CEO；products IP camera, NVR, ANPR, networking SFP / MC / router / switch）+ facebook（Noida；fastest growing Indian OEM for Surveillance and Networking Products "WatchDog"）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/APOLLO-INFOWAYS-PRIVATE-LIMITED-U72900DL2014PTC264342）：**
+
+- 法定名 / 登记号：Apollo Infoways Private Limited（WatchDog 品牌；apolloinfoways.in；CIN U72900DL2014PTC264342（2014-02-03；RoC Delhi）；注册地 E-703, Plot 60, Mayur Dhwaj Apartment, I.P. Extension, New Delhi 110092；运营 Noida）— 印度安防 + 网络 OEM 品牌（IP / AHD 摄像机、NVR、ANPR、人脸、4G 路由 + 自有型号交换机 WD6822-24X6H / WD6822-48X6H / WD5890、SFP / MC）；董事 **Ravi Prakash（Founder / CEO = KP ravi@）**/ Ivy Prakash；实缴 ₹10 lakh；营收 ₹10–50 Cr（FY2025）；11–50 人；表内「买丰润达的商业 PoE，工业 FS 是 AOA 的，8 PORT ROUTER」；未触达 · CIN U72900DL2014PTC264342 · 状态 **Active** · 成立 2014-02-03 · Private Limited
+- 行业码 / 经营范围：安防 + 网络 OEM 品牌（新德里 / 诺伊达）
+- 注册地址：E-703, Plot 60, Mayur Dhwaj Apartment, I.P. Extension, New Delhi 110092（运营 Noida）
+- 规模档：小型（11–50 人）
+- 账目：₹10–50 Cr（FY2025）；—
+- 高管：Ravi Prakash — Founder / CEO / Director（研究档 KP ravi@）= 拍板人 / 收件人
+- 高管：Ivy Prakash — Director
+- 控制人 / 股东：Prakash 夫妇
+- **这意味着什么：**
+  - **自有型号交换机全线、现用丰润达商用 PoE + AOA 工业 → 贴标 OEM 30% B BIG，加厚一次（Q-33 HRUI 口径：只推 SmartByte / Marvell 管理线 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业 STI-144GP / STI-288DGGPM 作 WatchDog 标第二源 + 中性包装 / 自编货号；不报与丰润达同款非管理 PoE；英文，Ravi 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选升 A
+  - 稿内不点名丰润达 / AOA
+- 备注：贴标 30%；B BIG 加厚一次；坐实（CIN + 董事 = KP + 地址 + 营收档）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -153,15 +168,18 @@ updated: 2026-10-28
 - **【用户表】买丰润达商业 PoE、AOA 工业 FS**
   > 买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ravi Prakash（）ravi@apolloinfoways.in 〔用户表〕
+- **KP**：Ravi Prakash（Founder / CEO / Director Apollo Infoways Private Limited（MCA 董事 2014-02-03–）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28））ravi@apolloinfoways.in 〔用户表〕
+- **KP**：Ivy Prakash（Director（MCA；2014-02-03–）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/APOLLO-INFOWAYS-PRIVATE-LIMITED-U72900DL2014PTC264342〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Apollo Infoways Private Limited（WatchDog；CIN U72900DL2014PTC264342；注册地 E-703, Plot 60, Mayur Dhwaj Apartment, I.P. Extension, New Delhi 110092；运营 Noida；实缴 ₹10 lakh；₹10–50 Cr FY2025；11–50 人） |
+| 成立 | 2014-02-03（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | 官网 apolloinfoways.in，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 apolloinfoways.in，语言 en，快照状态 ok；角色判定来源：官网文案；第 114 批：安防 + 网络 OEM 品牌，自有型号交换机全线，现用丰润达商用 PoE + AOA 工业 → **贴标 OEM 30% B BIG，加厚一次（Q-33 口径：只推 SmartByte / Marvell 管理线 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业 STI-144GP / STI-288DGGPM 作 WatchDog 标第二源 + 中性包装；不报与丰润达同款；Ravi 直呼）**；回信 → 次候选升 A；不点名丰润达 / AOA（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业网络 / 数据中心 / 安全（自有品牌 WatchDog）
 - **触达通道（公开）**：role: 印度网络品牌商（自有 WatchDog 型号，中国 ODM 采购）；region: 印度；contact: ravi@apolloinfoways.in、info@apolloinfoways.in
@@ -244,7 +262,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ravi Prakash | — | ravi@apolloinfoways.in | 调研核实（公开页） | 用户表 |
+| Ravi Prakash | Founder / CEO / Director Apollo Infoways Private Limited（MCA 董事 2014-02-03–）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28） | ravi@apolloinfoways.in | 调研核实（公开页） | 用户表 |
+| Ivy Prakash | Director（MCA；2014-02-03–）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.zaubacorp.com/APOLLO-INFOWAYS-PRIVATE-LIMITED-U72900DL2014PTC264342 |
 
 - **通道建议**：企业邮箱可直发
 

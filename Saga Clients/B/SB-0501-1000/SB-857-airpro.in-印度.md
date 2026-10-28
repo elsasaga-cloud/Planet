@@ -82,6 +82,23 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 114 批（IN · 1 次检索：tracxn（AIRPRO TECHNOLOGY INDIA LIMITED CIN U72900RJ2014PLC045127；paid up ₹1.89Cr；revenue ₹10–50 Cr FY2025；directors Deepak Jain / Rajesh Hasmukh Vakharia since Feb 17, 2014, Pankaj Bhansali since Sep 29, 2017）+ Draft Prospectus investors.airpronetworks.com（converted from Private Limited to Limited, fresh certificate April 28, 2025；promoters PANKAJ BHANSALI, DEEPAK JAIN, RAJESH HASMUKH VAKHARIA, ROOPALI BHANSALI；IPO 36,00,000 shares）+ zaubacorp（D-30 GAUTAM MARG NIRMAN NAGAR AJMER ROAD JAIPUR 302019）+ tofler（deepak@airpro.in）+ LinkedIn（AP-ESG3024P L2 Gigabit Managed PoE Switch）+ chittorgarh（OFS Deepak Jain 2,60,000）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/company/AIRPRO-TECHNOLOGY-INDIA-PRIVATE-LIMITED/U72900RJ2014PTC045127）：**
+
+- 法定名 / 登记号：AirPro Technology India Limited（原 Airpro Technology India Private Limited，2025-04-28 转公众公司；airpro.in / airpronetworks.com；CIN U72900RJ2014PLC045127（2014-02-17；RoC Jaipur）；D-30, Gautam Marg, Nirman Nagar, Ajmer Road, Jaipur 302019）— 自有品牌有线 / 无线网络产品（WLAN AP / 控制器、PoE L2-L3 管理交换机 AP-ESG3024P 24 PoE 400 W、工业 AP-IGS9014P、注入器、光接入、4G CPE）；发起人 Pankaj Bhansali / **Deepak Jain（Director = KP deepak@airpro.in；表内「比较重要」）**/ Rajesh Hasmukh Vakharia / Roopali Bhansali；实缴 ₹1.89 Cr；营收 ₹10–50 Cr（FY2025）；**SME IPO 招股书（36 lakh 股；OFS Deepak Jain 2.6 lakh）**；未触达 · CIN U72900RJ2014PLC045127 · 状态 **Active（SME IPO 进行中）** · 成立 2014-02-17 · Public Limited（未上市 → IPO）
+- 行业码 / 经营范围：网络设备 自有品牌（斋浦尔 / 孟买）
+- 注册地址：D-30, Gautam Marg, Nirman Nagar, Ajmer Road, Jaipur 302019
+- 规模档：中小型（IPO 前）
+- 账目：₹10–50 Cr（FY2025）；—
+- 高管：Deepak Jain — Promoter / Director（研究档 KP deepak@airpro.in）= 拍板人 / 收件人
+- 高管：Pankaj Bhansali — Promoter / Director
+- 高管：Rajesh Hasmukh Vakharia — Promoter / Director
+- 控制人 / 股东：Bhansali / Jain / Vakharia
+- 曾用名：Airpro Technology India Private Limited（–2025-04）
+- **这意味着什么：**
+  - **自有品牌交换机全线 + IPO 扩张期 → 贴标 OEM 30% B BIG，加厚一次（切口：AirPro 标 Marvell 管理 L2 / L3 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业 STI-144GP / STI-288DGGPM 第二代工源 + 中性包装 / 自编货号 + MOQ 小；英文，Deepak 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选升 A
+  - 稿内不提其 IPO / 不引用招股书；gmail 备用地址不作主收件
+- 备注：贴标 30%；B BIG 加厚一次；坐实（CIN + 发起人 = KP + 地址 + 营收档）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,15 +141,18 @@ updated: 2026-10-28
 - **【用户表】PoE MC SFP 自己的标，没啥工业品**
   > POE MC SFP 自己的标；没啥工业品；比较重要 Deepak
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Deepak（）sales@airpro.in 〔用户表〕
+- **KP**：Deepak Jain（Promoter / Director AirPro Technology India Limited（DIN 06504116；2014-02-17–；deepak@airpro.in 为登记邮箱）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28））sales@airpro.in 〔用户表〕
+- **KP**：Pankaj Bhansali（Promoter / Director（DIN 03154793；2017-09-29–）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/company/AIRPRO-TECHNOLOGY-INDIA-PRIVATE-LIMITED/U72900RJ2014PTC045127〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | AirPro Technology India Limited（原 Private Limited，2025-04-28 转公众公司；CIN U72900RJ2014PLC045127；D-30, Gautam Marg, Nirman Nagar, Ajmer Road, Jaipur 302019；实缴 ₹1.89 Cr；₹10–50 Cr FY2025；SME IPO 招股书 36 lakh 股） |
+| 成立 | 2014-02-17（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | 官网 airpro.in，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 airpro.in，语言 en-US，快照状态 ok；角色判定来源：用户表；第 114 批：自有品牌交换机全线（AP-ESG3024P 等）+ IPO 扩张期 → **贴标 OEM 30% B BIG，加厚一次（AirPro 标 Marvell 管理 L2 / L3 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业 STI-144GP / STI-288DGGPM 第二代工源 + 中性包装 + 小 MOQ；Deepak 直呼）**；回信 → 次候选升 A；稿内不提 IPO / 不引用招股书（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：WLAN AP / 控制器（自有品牌）；PoE 交换机 / 注入器 / MC（自有品牌）
 
@@ -223,7 +243,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Deepak | — | sales@airpro.in | 调研核实（公开页） | 用户表 |
+| Deepak Jain | Promoter / Director AirPro Technology India Limited（DIN 06504116；2014-02-17–；deepak@airpro.in 为登记邮箱）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28） | sales@airpro.in | 调研核实（公开页） | 用户表 |
+| Pankaj Bhansali | Promoter / Director（DIN 03154793；2017-09-29–）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.zaubacorp.com/company/AIRPRO-TECHNOLOGY-INDIA-PRIVATE-LIMITED/U72900RJ2014PTC045127 |
 
 - **通道建议**：企业邮箱可直发
 

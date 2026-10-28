@@ -87,6 +87,21 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：zaubacorp（TECHNICS INFOSOLUTIONS PRIVATE LIMITED CIN U72900DL2013PTC252728；info@technicsonline.com；4648/21 SEDHUMAL BUILDING DARYA GANJ NEW DELHI 110002；Active）+ tracxn（incorporated May 25, 2013；ROC Delhi）+ advantech.com/partners（established 1990；Advantech 15 years；clients AREVA, ROCKWELL, INDIAN RAILWAYS, ABB）+ Advantech 证书 IN250001（Premier Channel Partner 2025）+ zoominfo（Om Sharma 1996–；11-50）+ mytat（Kapil Gupta；Turnover Rs. 10-25 Crore）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/company/TECHNICS-INFOSOLUTIONS-PRIVATE-LIMITED/U72900DL2013PTC252728）：**
+
+- 法定名 / 登记号：Technics Infosolutions Pvt. Ltd.（technics-india.com / technicsonline.com；CIN U72900DL2013PTC252728（2013-05-25 注册；业务 1990 起）；4648/21, Sedhumal Building, Daryaganj, New Delhi 110002；销售办公 4731/21 Dayanand Road）— 新德里工业自动化分销商（**Advantech Premier Channel Partner 证书 IN250001（2025）**、Kyland；客户 AREVA / Rockwell / Indian Railways / ABB / Maruti；Delhi Metro 采购单）；11–50 人；年营业额 ₹10–25 Cr；KP Om (O.P.) Sharma（opsharma@；1996–；研究档名「Prakash」）、联系人 Kapil Gupta；表内询价「IM-FS240GM 250 pcs」；5 封 0 打开 · CIN U72900DL2013PTC252728 · 状态 **Active** · 成立 2013-05-25（业务 1990） · Private Limited
+- 行业码 / 经营范围：工业自动化 分销（新德里）
+- 注册地址：4648/21, Sedhumal Building, Daryaganj, New Delhi 110002
+- 规模档：小型（11–50 人）
+- 账目：₹10–25 Cr（自报）；—
+- 高管：Om (O.P.) Sharma — 研究档 KP（opsharma@；1996–；职务待核）= 收件人
+- 高管：Kapil Gupta — 联系人（mytat）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工业自动化分销 + 250 台具体询价 → 分销 20% B BIG，加厚一次（切口：接上「IM-FS240GM 250 pcs」询价 → 对应 STI-244GP（4 PoE 非管理）/ STI-0240GE 报 250 台阶梯价 + 付费样机 2 台 + FOB 深圳；英文，Om Sharma 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选升 A
+  - 守界：客户含 Indian Railways / Delhi Metro → 只谈非轨交项目线；不点名 Advantech / Kyland；研究档 KP 名「Prakash」更正为 Om (O.P.) Sharma
+- 备注：分销 20%；B BIG 加厚一次；坐实（CIN + 地址 + Advantech 证书 + KP 任期）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,15 +146,18 @@ updated: 2026-10-28
 - **【用户表】IM-FS240GM 250pcs 询价**
   > IM-FS240GM 250pcs；91 98112 35060
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Prakash（）opsharma@technicsonline.com 〔用户表〕
+- **KP**：Om (O.P.) Sharma（Technics Infosolutions 研究档 KP（1996–；zoominfo；职务待核；研究档原名「Prakash」更正）= 收件人（第 114 批 官方登记核实 2026-10-28））opsharma@technicsonline.com 〔用户表〕
+- **KP**：Kapil Gupta（联系人（mytat 目录）（第 114 批 官方登记核实 2026-10-28）） 〔https://mytat.co/mart-details/modbus-gateway/technics-infosolutions-private-limited-2246859〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Technics Infosolutions Private Limited（CIN U72900DL2013PTC252728；4648/21, Sedhumal Building, Daryaganj, New Delhi 110002；销售办公 4731/21 Dayanand Road；业务 1990 起；Advantech Premier Channel Partner IN250001；11–50 人；₹10–25 Cr） |
+| 成立 | 2013-05-25（业务 1990）（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | 官网 technics-india.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 technics-india.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 114 批：新德里工业自动化分销（Advantech / Kyland）+ 250 台工业 FS 具体询价 → **分销 20% B BIG，加厚一次（接上「IM-FS240GM 250 pcs」→ STI-244GP / STI-0240GE 250 台阶梯价 + 付费样机 2 台 + FOB 深圳；Om Sharma 直呼）**；回信 → 次候选升 A；守界：Indian Railways / Delhi Metro 客户 → 只谈非轨交线；不点名 Advantech / Kyland（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化分销（Advantech 等）；工业以太网交换机品类
 - **触达通道（公开）**：role: 工业自动化分销商（印度，Advantech；有 250 台具体询价）；region: 印度；contact: opsharma@technicsonline.com
@@ -212,7 +230,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Prakash | — | opsharma@technicsonline.com | 调研核实（公开页） | 用户表 |
+| Om (O.P.) Sharma | Technics Infosolutions 研究档 KP（1996–；zoominfo；职务待核；研究档原名「Prakash」更正）= 收件人（第 114 批 官方登记核实 2026-10-28） | opsharma@technicsonline.com | 调研核实（公开页） | 用户表 |
+| Kapil Gupta | 联系人（mytat 目录）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://mytat.co/mart-details/modbus-gateway/technics-infosolutions-private-limited-2246859 |
+| Prakash | — | opsharma@technicsonline.com / +919811235060 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -280,7 +300,7 @@ updated: 2026-10-28
 **主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Prakash,
+Hi Kapil,
 
 Over the past months you had a few product mails from us - most recently "Marvell Managed Commercial Switches" on 1 April 2026 - and there was no reason to answer a mass mail. This one is specific. Regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?
 

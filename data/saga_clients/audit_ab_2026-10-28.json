@@ -3655,7 +3655,7 @@
    "p1": "STI-288GP",
    "tier": 25,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-073": {
@@ -6933,7 +6933,7 @@
    "p1": "STI-110GE",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-1110": {
@@ -7615,7 +7615,7 @@
    "p1": "STC-424XGGPM-280W（24 PoE + 4×10G，L2+）/ STC-28DGGPM（8 PoE + 2×2.5G SFP，L2+）",
    "tier": 30,
    "signals": 0,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-1139": {
@@ -8869,7 +8869,7 @@
    "p1": "STC-424DGGPM-280W",
    "tier": 20,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-170": {
@@ -11861,7 +11861,7 @@
    "p1": "STI-280GM",
    "tier": 25,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-306": {
@@ -12697,7 +12697,7 @@
    "p1": "STI-288GPM",
    "tier": 25,
    "signals": 0,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-344": {
@@ -14985,7 +14985,7 @@
    "p1": "STI-244GP",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-448": {
@@ -15843,7 +15843,7 @@
    "p1": "STI-080GE",
    "tier": 25,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-487": {
@@ -18857,7 +18857,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-624": {
@@ -19253,7 +19253,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-642": {
@@ -19561,7 +19561,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 3,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-656": {
@@ -20199,7 +20199,7 @@
    "p1": "STC-424XGGM",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-685": {
@@ -22795,7 +22795,7 @@
    "p1": "STI-288GPM",
    "tier": 25,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-803": {
@@ -24005,7 +24005,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-858": {
@@ -24841,7 +24841,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-896": {
@@ -25259,7 +25259,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 4,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-915": {
@@ -26139,7 +26139,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-955": {

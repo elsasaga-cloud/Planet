@@ -78,6 +78,20 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：tracxn（AGILITY ELEKTROTEKNIKS PRIVATE LIMITED CIN U31908UP2014PTC066111；12 employees Oct 2024；revenue Rs. 139Cr FY2025）+ zaubacorp（incorporated 16 Dec 2014；ROC Kanpur；paid up Rs. 12,436,660）+ falconebiz（Incorporated 16 September 2014；Ghaziabad）+ agility.net.in（Head Office A-10/64 Meerut Road Industrial Area Site-III Ghaziabad 201003）+ industrialautomationindia（relay interface modules, cable assemblies, franchised distributor）+ LinkedIn Atul Tiwari（Agility Elektrotekniks Regional Sales Representative Apr 2021–Apr 2024 Vadodara → Werner Electric → Essen Deinki Regional Sales Manager Sep 2024–）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/company/AGILITY-ELEKTROTEKNIKS-PRIVATE-LIMITED/U31908UP2014PTC066111）：**
+
+- 法定名 / 登记号：Agility Elektrotekniks Private Limited（agility.net.in；CIN U31908UP2014PTC066111（2014-09-16；RoC Kanpur）；总部 A-10/64, Meerut Road Industrial Area, Site-III, Ghaziabad 201003（UP））— 继电器接口模块 / 线缆组件制造 + 工业自动化元件特许分销（库存 10 万 SKU）；12 人；实缴 ₹1.24 Cr；营收 ₹139 Cr（tracxn FY2025 口径，待核，疑为 ₹13.9 Cr）；**研究档 KP Atul Tiwari（Vadodara 区域销售代表 2021-04 → 2023/24）已离职，现任 Essen Deinki 区域销售经理 → 原联系线（agilitybaroda@gmail.com）失效**；2023 年曾要目录、对 bypass 宣传册回「有用」 · CIN U31908UP2014PTC066111 · 状态 **Active** · 成立 2014-09-16 · Private Limited
+- 行业码 / 经营范围：工业自动化 元件 制造 + 分销（加济阿巴德；瓦多达拉分部）
+- 注册地址：A-10/64, Meerut Road Industrial Area, Site-III, Ghaziabad 201003, Uttar Pradesh
+- 规模档：小型（12 人）
+- 账目：₹139 Cr（tracxn；待核）；—
+- 高管：Atul Tiwari — 前 Regional Sales Representative（Vadodara；2021-04 → 2024-04；**已离职 → Essen Deinki**）
+- 高管：（总部拍板人未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **KP 已离职 + 仅 gmail 分部地址 → 地址失效；不动（B 保留；总部公开邮箱待补后可一页纸：bypass 系列 + STI-144GP / STI-288DGGPM 作其自动化元件配套）**
+- 备注：不动（KP 离职 / 地址失效）；坐实（CIN + 总部地址 + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -100,16 +114,17 @@ updated: 2026-10-28
 - **【用户表】要 catalogue；2*2 bypass→thanks 问了证书 产品对他有用；bypass 宣传册→有用**
   > 回复：thanks 问了证书 产品对他有用；有用
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Atul Tiwari（）agilitybaroda@gmail.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Atul Tiwari（前 Regional Sales Representative（Vadodara；2021-04 → 2024-04；LinkedIn）**已离职 → 现 Essen Deinki 区域销售经理** → 原联系线失效（第 114 批 官方登记核实 2026-10-28））agilitybaroda@gmail.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Agility Elektrotekniks Pvt Ltd |
+| 法定名称 | Agility Elektrotekniks Private Limited（CIN U31908UP2014PTC066111；总部 A-10/64, Meerut Road Industrial Area, Site-III, Ghaziabad 201003；12 人；实缴 ₹1.24 Cr；营收 ₹139 Cr（tracxn 口径，待核）） |
+| 成立 | 2014-09-16（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Vadodara (Baroda), Gujarat, India |
-| 其他 | gmail |
+| 其他 | gmail；第 114 批：继电器接口模块制造 + 自动化元件特许分销；KP 已离职、仅 gmail 分部地址 → **不动（地址失效；B 保留；总部公开邮箱待补后可一页纸：bypass 系列 + STI-144GP / STI-288DGGPM 配套）**（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气 / 自动化工程（推断）
 - **触达通道（公开）**：role: 工程商；region: 印度（古吉拉特）
@@ -149,7 +164,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Atul Tiwari | — | agilitybaroda@gmail.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Atul Tiwari | 前 Regional Sales Representative（Vadodara；2021-04 → 2024-04；LinkedIn）**已离职 → 现 Essen Deinki 区域销售经理** → 原联系线失效（第 114 批 官方登记核实 2026-10-28） | agilitybaroda@gmail.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 

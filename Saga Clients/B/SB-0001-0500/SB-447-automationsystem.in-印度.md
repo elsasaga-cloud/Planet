@@ -96,6 +96,20 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：tatanexarc（Automation Systems And Solution；Mr. RAKESH KUMAR SHARMA / Mr. AZAD KHAN；2007；T12 3rd Floor Pankaj Central Market IP Extn Patparganj East Delhi 110092；Authorized distributor of Teltonika Networks, Procon, Banner, Shavison, Citel；Manage / Unmanage Ethernet Switch）+ indiamart（GST 07AOCPK7395A1Z0；Proprietorship；Company CEO R. K. Sharma；GST Partner Name Azad Khan；Upto 10 People；Annual Turnover 0 - 40 L）+ website.automationsystem.in/about（infoautomation18@gmail.com；+91-11 41709077）；2026-10-28，2026-10-28 查；https://www.indiamart.com/automation-systems-solution/profile.html）：**
+
+- 法定名 / 登记号：Automation Systems & Solution（automationsystem.in；**个体经营；GSTIN 07AOCPK7395A1Z0（2017-07-01；GST 登记人 Azad Khan = KP）；CEO R.K. (Rakesh Kumar) Sharma**；T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj, Delhi 110092；2007 起）— 德里工业自动化元器件分销 + 进口（Teltonika Networks / Procon / Banner / Shavison / Citel 授权；传感器、GSM 调制解调器、SMPS、浪涌、管理 / 非管理工业交换机自有编号 IND-D-M-FG-0402-N）；≤10 人；营业额 ₹0–40 lakh（IndiaMART 自报，疑偏低）；2025-04 对 2 光 4 PoE 回复要 DS · GSTIN 07AOCPK7395A1Z0 · 状态 **Active** · 成立 2007 · Proprietorship（个体）
+- 行业码 / 经营范围：工业自动化 元器件 分销 + 进口（德里）
+- 注册地址：T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj, Delhi 110092
+- 规模档：微型（≤10 人）
+- 账目：₹0–40 lakh（自报）；—
+- 高管：Azad Khan — GST 登记人 / 合伙经营（研究档 KP）= 收件人
+- 高管：R.K. Sharma — CEO
+- 控制人 / 股东：Khan / Sharma
+- **这意味着什么：**
+  - **个体但工业网络专营（自有编号工业交换机 + 授权进口商）、2025-04 主动要 DS → 分销 20% small，一页纸一次（切口：补发 2 光 4 PoE 对位 STI-154GP（4 PoE + 1 GE + 1 SFP）/ STI-144GP 规格书 + 一口价 + MOQ 1 + 付费样机；英文，Azad 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动（个体规则例外：PoE / 工业专营）
+- 备注：分销 20% small；一页纸一次（个体例外）；坐实（GSTIN + 地址 + 经营者 = KP）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,17 +136,18 @@ updated: 2026-10-28
 - **【用户表】从 ONV 买 几个台湾品牌；2025-04 群发 2 光 4 PoE→ds**
   > 兴趣：从ONV买 几个台湾品牌；回复：ds
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Azad Khan（）infoautomation18@gmail.com +91 99584 28786〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Azad Khan（GST 登记人 / 合伙经营 Automation Systems & Solution（indiamart）= 收件人；2025-04 对 2 光 4 PoE 回复要 DS（第 114 批 官方登记核实 2026-10-28））infoautomation18@gmail.com +91 99584 28786〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：R.K. (Rakesh Kumar) Sharma（CEO Automation Systems & Solution（indiamart / tatanexarc）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.indiamart.com/automation-systems-solution/profile.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Automation Systems and Solution |
-| 成立 | （待核） |
+| 法定名称 | Automation Systems & Solution（个体经营；GSTIN 07AOCPK7395A1Z0；T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj, Delhi 110092；2007 起；≤10 人；₹0–40 lakh 自报；Teltonika / Procon / Banner / Shavison / Citel 授权分销） |
+| 成立 | 2007（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Delhi 110092, India |
-| 其他 | 自有编号工业交换机（IND-D-M-FG-xxxx） |
+| 其他 | 自有编号工业交换机（IND-D-M-FG-xxxx）；第 114 批：个体但工业网络专营（自有编号工业交换机 IND-D-M-FG-0402-N + 授权进口商）、主动要 DS → **分销 20% small，一页纸一次（补发 2 光 4 PoE 对位 STI-154GP / STI-144GP 规格书 + 一口价 + MOQ 1 + 付费样机；Azad 直呼）**；再无回声 → 不动（个体规则例外：工业专营）（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化元器件分销；工业以太网交换机（ONV + 台湾品牌 + 自编号）；GSM 调制解调器 / 数据采集
 
@@ -227,7 +242,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Azad Khan | — | infoautomation18@gmail.com / +91 99584 28786 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Azad Khan | GST 登记人 / 合伙经营 Automation Systems & Solution（indiamart）= 收件人；2025-04 对 2 光 4 PoE 回复要 DS（第 114 批 官方登记核实 2026-10-28） | infoautomation18@gmail.com / +91 99584 28786 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| R.K. (Rakesh Kumar) Sharma | CEO Automation Systems & Solution（indiamart / tatanexarc）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.indiamart.com/automation-systems-solution/profile.html |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 

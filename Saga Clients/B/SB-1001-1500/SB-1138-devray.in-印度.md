@@ -97,6 +97,22 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：falconebiz（DEVRAY IT SOLUTIONS PRIVATE LIMITED CIN U62013UP2024PTC204532；directors YOGENDRA KUMAR RAJPUT / NEHA JAIN）+ zaubacorp（MAPLECLOUD TECH SERVICES PRIVATE LIMITED CIN U72900DL2018PTC338066；incorporated 31 August 2018；paid up Rs. 400,000；directors YOGENDRA KUMAR RAJPUT / RUCHI LAL / SURESH CHAND JAIN；Yogendra director of DEVRAY IT SOLUTIONS since 2024-06-13）+ crn.in / itvoice（MapleCloud Technologies, DevRay & Iris Global PartnerSphere 2025；targeting Rs 100 Crore revenue this fiscal；founded by Yogendra Rajput；100+ professionals；500+ enterprise clients；homegrown OEM）+ LinkedIn（Noida HQ；NGFW / SIEM / SD-WAN / NAC / switching）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/company/MAPLECLOUD-TECH-SERVICES-PRIVATE-LIMITED/U72900DL2018PTC338066）：**
+
+- 法定名 / 登记号：DevRay IT Solutions Private Limited（devray.in；CIN U62013UP2024PTC204532（2024-06-13；RoC Kanpur；Noida））+ 姊妹 MapleCloud Tech Services Private Limited（maplecloudtechnologies.com；CIN U72900DL2018PTC338066（2018-08-31；RoC Delhi；实缴 ₹4 lakh））— 「Make in India」网络安全 + 网络基础设施 OEM（NGFW / SIEM / SD-WAN / NAC / 交换）；**Founder / MD Yogendra Kumar Rajput（= KP，两家公司董事；CISA & CISM）**；董事 Neha Jain（DevRay）/ Ruchi Lal / Suresh Chand Jain（MapleCloud）；100+ 人、500+ 企业客户；2025-06 与 Iris Global 签全国分销、本财年目标 ₹100 Cr（含 DevRay）；Elsa 邮箱 12 封往来（MD 具名）：要 CENTEC「OEM Core Switching」8 GB RAM / 16 GB Flash L3 机型资料 + 价格、问能否中国以外产地提货 · CIN U62013UP2024PTC204532（DevRay）/ U72900DL2018PTC338066（MapleCloud） · 状态 **Active** · 成立 2024-06-13（DevRay）/ 2018-08-31（MapleCloud） · Private Limited ×2
+- 行业码 / 经营范围：网络安全 + 网络设备 OEM 品牌（诺伊达 / 德里）
+- 注册地址：Noida, Uttar Pradesh（总部；注册地址未取）
+- 规模档：中型（100+ 人）
+- 账目：集团目标 ₹100 Cr（FY2025-26；自报）；—
+- 高管：Yogendra Kumar Rajput — Founder / Managing Director（两家公司董事；研究档 KP）= 拍板人 / 收件人
+- 高管：Neha Jain — Director（DevRay）
+- 高管：Ruchi Lal / Suresh Chand Jain — Directors（MapleCloud）
+- 控制人 / 股东：Rajput（推定）
+- **这意味着什么：**
+  - **本土 OEM 品牌、MD 本人追问 CENTEC L3 核心机型 + 价格 → 贴标 OEM 30% B BIG（CENTEC 敲门砖），加厚一次（切口：逐条答复：STH-2C24XF-HSI / STH-8C48DX-HSI / STH-32C-HSI 的 RAM / Flash 按规格书据实写（不编 8 GB / 16 GB）、datasheet + 阶梯价、产地只能深圳（中国以外产地明说做不到）+ 中性包装 / 自编货号；英文，Yogendra 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → **升 A 候选**
+  - 守界：不声称 SONiC / ONIE（除非规格书写明）；不提其政府 / CERT-In 项目；注册地址未取 → 坐实（CIN ×2 + 董事 = KP）
+- 备注：贴标 OEM 30%；B BIG 加厚一次；升 A 候选；坐实（CIN ×2 + MD = KP + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,7 +140,8 @@ updated: 2026-10-28
 - **状态：已调研（2026-10-25）**　网站状态：未查
 - **是谁**：Elsa 邮箱 2025-12 → 2026-03 三个线程 12 封（来 5 去 7），全部是 Managing Director Yogendra Rajput 具名：2025-12-02 要完整资料 + 问公司在哪；2026-01-16/20 对 CENTEC「OEM Core Switching」追问「有无 8 GB RAM / 16 GB Flash 的 L3 机型？要 datasheet + 价格；能否从中国以外的产地提货？」——Elsa 只答了「We are based in China」+ 附件，RAM/Flash 与价格没答；2026-03-31「Are you ODM?」→ Elsa「OEM/ODM 都做」→「share data sheets along with the costing, we are interested in SKD」→ Elsa 只给链接 + 「SKD is fine with us」，costing 没给。两处欠答。
 - **类型**：印度 Make-in-India OEM（自称 OEM for Switches / NGFW / SDWAN；ISO 27001 / CERT-In Empanelled）
-- **KP**：Yogendra Rajput（）yogendra.rajput@maplecloudtechnologies.com / yogendra.rajput@devray.in +91-9739995151（信尾；对外材料不写电话）〔Elsa 邮箱 2026-01-16 签名〕
+- **KP**：Yogendra Kumar Rajput（Founder / Managing Director（CISA & CISM）；DevRay IT Solutions Pvt Ltd + MapleCloud Tech Services Pvt Ltd 两家董事（MCA）= 拍板人 / 收件人；Elsa 线程 12 封具名追问 CENTEC L3（第 114 批 官方登记核实 2026-10-28））yogendra.rajput@maplecloudtechnologies.com / yogendra.rajput@devray.in +91-9739995151（信尾；对外材料不写电话）〔Elsa 邮箱 2026-01-16 签名〕
+- **KP**：Neha Jain（Director DevRay IT Solutions Private Limited（MCA）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.falconebiz.com/company/DEVRAY-IT-SOLUTIONS-PRIVATE-LIMITED-U62013UP2024PTC204532〕
 - **调研后定级**：B（原自动 C）——2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：Managing Director 本人 4 轮具名提问，明确要 SKD（印度本地组装 = 绕产地限制的常见做法）+ 价格；两处是我方欠答而非对方冷。印度非主战场，B = 慢慢跟进；原 C 理由「低价值区域冷线索」留此备查。
 - 备注：（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）
 
@@ -132,8 +149,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | DevRay IT Solutions Pvt. Ltd. / MapleCloud Technologies |
+| 法定名称 | DevRay IT Solutions Private Limited（CIN U62013UP2024PTC204532；2024-06-13；Noida）+ MapleCloud Tech Services Private Limited（CIN U72900DL2018PTC338066；2018-08-31；实缴 ₹4 lakh；董事 Yogendra Kumar Rajput / Ruchi Lal / Suresh Chand Jain）；100+ 人；500+ 企业客户；FY26 目标 ₹100 Cr（含 Iris Global 全国分销） |
+| 成立 | 2018-08-31（MapleCloud）/ 2024-06-13（DevRay）（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 Noida |
+| 其他 | 第 114 批：本土网络安全 + 网络设备 OEM，MD 本人追问 CENTEC L3 核心机型（8 GB RAM / 16 GB Flash）+ 价格 + 中国以外产地 → **贴标 OEM 30% B BIG（CENTEC 敲门砖），加厚一次（STH-2C24XF-HSI / STH-8C48DX-HSI / STH-32C-HSI 的 RAM / Flash 按规格书据实、datasheet + 阶梯价、产地只能深圳明说 + 中性包装 / 自编货号；Yogendra 直呼）**；回信 → **升 A 候选**；守界：不声称 SONiC / ONIE；不提其政府 / CERT-In 项目（第 114 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：role: 印度 Make-in-India OEM（自称 OEM for Switches / NGFW / SDWAN；ISO 27001 / CERT-In Empanelled）；region: 印度 Noida
 - **风险/边界**：要「非中国产地提货」——Saga 给不了，只能 SKD 在印度组装；8 GB RAM / 16 GB Flash 像招标表抄 Cisco 9300 的硬指标，CENTEC 线 2 GB DRAM / 8 GB eMMC 对不上；印度价格战；SKD 只能做量
@@ -178,7 +197,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Yogendra Rajput | — | yogendra.rajput@maplecloudtechnologies.com / yogendra.rajput@devray.in / +91-9739995151（信尾；对外材料不写电话） | 调研核实（公开页） | Elsa 邮箱 2026-01-16 签名 |
+| Yogendra Kumar Rajput | Founder / Managing Director（CISA & CISM）；DevRay IT Solutions Pvt Ltd + MapleCloud Tech Services Pvt Ltd 两家董事（MCA）= 拍板人 / 收件人；Elsa 线程 12 封具名追问 CENTEC L3（第 114 批 官方登记核实 2026-10-28） | yogendra.rajput@maplecloudtechnologies.com / yogendra.rajput@devray.in / +91-9739995151（信尾；对外材料不写电话） | 调研核实（公开页） | Elsa 邮箱 2026-01-16 签名 |
+| Neha Jain | Director DevRay IT Solutions Private Limited（MCA）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.falconebiz.com/company/DEVRAY-IT-SOLUTIONS-PRIVATE-LIMITED-U62013UP2024PTC204532 |
+| Yogendra Rajput | — | sales@devray.in / yogendra.rajput@maplecloudtechnologies.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 

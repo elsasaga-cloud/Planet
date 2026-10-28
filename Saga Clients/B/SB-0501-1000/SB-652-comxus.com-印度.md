@@ -83,6 +83,20 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：comxus.com（rugged switches；L2/L3 managed；-40°C to +85°C）+ comxus.com/what-is-tec-certification（Comxus is an Indian industrial networking OEM … India-based manufacturing）+ about.me/comxus（industrial-grade Ethernet switches, PoE switches, media converters）+ zaubacorp（无 Comxus 命中；Comus Electronics & Technologies India Pvt Ltd CIN U32109TN2004PTC053620 Chennai 继电器 ≠）；CIN 未取；2026-10-28，2026-10-28 查；https://comxus.com/）：**
+
+- 法定名 / 登记号：Comxus（comxus.com；印度工业网络 OEM 品牌：自有品牌加固交换机 CX-NPA-4GS2I-L2 / 8GS4I-L2 / 16GS2I-L2 / 8GS40I-L3 / CX-ND-0GSF24S20-L3，-40~+85 °C，L2 / L3 管理 + PoE；自述「India-based manufacturing」+ TEC 认证叙事；行业油气 / 交通 / 制造 / 智慧城市）— **法定名 / CIN 未取**（1 查未见页脚 CIN；同名 Comus Electronics Chennai ≠）；KP Umesh Palanpuri（Deputy GM；umesh.palanpuri@）；8 封 1 次打开 0 回；表内「现由 Hasivo 代工」 · 未取（CIN） · 状态 **Active** · 成立 未取 · 未取（Pvt. Ltd. 推定）
+- 行业码 / 经营范围：工业网络 OEM 品牌（印度）
+- 注册地址：未取（印度）
+- 规模档：未取
+- 账目：—；—
+- 高管：Umesh Palanpuri — Deputy GM（研究档 KP umesh.palanpuri@）= 收件人 / 拍板人（抄 info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌工业交换机全线、现中系代工 → 贴标 OEM 30% B，加厚一次（切口：Comxus 标 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 作第二代工源（整机 / SKD 皆可谈）+ 中性包装 / 自编货号 + 3 年保；英文，Umesh 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选
+  - 守界：对方有 TEC 认证叙事 → 稿内不声称 TEC / BIS，只给 CE / FCC / RoHS；不点名 Hasivo；法定名 / CIN 未取 → 部分坐实
+- 备注：贴标 30%；B 加厚一次；部分坐实（品牌 + 产品线 + KP；CIN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,15 +140,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS 用 Hasivo 的**
   > 工业FS 用的hasivo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Umesh Palanpuri（）umesh.palanpuri@comxus.com 〔用户表〕
+- **KP**：Umesh Palanpuri（Deputy GM（研究档）= 收件人 / 拍板人（抄 info@）（第 114 批 官方登记核实 2026-10-28））umesh.palanpuri@comxus.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Comxus（comxus.com；印度工业网络 OEM 品牌 CX-NPA / CX-ND 系列；自述 India-based manufacturing + TEC 认证叙事；法定名 / CIN 未取） |
+| 成立 | 未取（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | 官网 comxus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 comxus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 114 批：自有品牌工业交换机全线、现中系代工 → **贴标 OEM 30% B，加厚一次（Comxus 标 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 第二代工源，整机 / SKD + 中性包装 + 3 年保；Umesh 直呼）**；稿内不声称 TEC / BIS；CIN 未取 → 部分坐实（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：加固工业交换机（自有品牌 CX 系列）；行业：油气 / 交通 / 制造 / CCTV
 
@@ -222,7 +238,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Umesh Palanpuri | — | umesh.palanpuri@comxus.com | 调研核实（公开页） | 用户表 |
+| Umesh Palanpuri | Deputy GM（研究档）= 收件人 / 拍板人（抄 info@）（第 114 批 官方登记核实 2026-10-28） | umesh.palanpuri@comxus.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

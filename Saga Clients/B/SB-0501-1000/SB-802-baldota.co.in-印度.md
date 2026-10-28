@@ -87,6 +87,22 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：tracxn（MSPL LIMITED Public Limited Company incorporated Oct 18, 1961；NO.117 BALDOTABHAVAN MAHARSHIKARVEROAD MUMBAI 400020；CIN U13100MH1961PLC012160；revenue >₹1,000 Cr FY2025）+ economictimes（Paid-up Capital 3840.0 lakhs；Mining & Quarrying）+ wikipedia（Narendra Baldota Chairman, MD & CEO；1000 employees；iron ore + wind）+ rocketreach（Baldota Enclave Abheraj Baldota Rd Hospet 583203；918 employees）；2026-10-28，2026-10-28 查；https://tracxn.com/d/legal-entities/india/mspl-limited/__Vhd3M1W3Iy_sITld1KfSyG6dNTJsqp3A5nSOTxxO1jU）：**
+
+- 法定名 / 登记号：MSPL Limited（baldota.co.in / mspllimited.com；CIN U13100MH1961PLC012160（1961-10-18；RoC Mumbai；Baldota 集团旗舰）；注册地 117, Baldota Bhavan, Maharshi Karve Road, Mumbai 400020；运营 Baldota Enclave, Hospet, Karnataka 583203）— 铁矿开采 / 球团 / 风电 / 工业气体 / 海运集团（≈1,000 人；营收 >₹1,000 Cr；实缴 ₹38.4 Cr）；Chairman & MD Narendra Baldota；**终端用户（矿业）项目型**；KP P.S. Vijaykumar（WA 已加无实质回复） · CIN U13100MH1961PLC012160 · 状态 **Active** · 成立 1961-10-18 · Public Limited（非上市）
+- 行业码 / 经营范围：铁矿开采 / 球团 / 风电 集团（终端用户）
+- 注册地址：117, Baldota Bhavan, Maharshi Karve Road, Mumbai 400020（运营 Hospet, Karnataka）
+- 规模档：大型（≈1,000 人）
+- 账目：>₹1,000 Cr（FY2025）；—
+- 高管：Narendra Baldota — Chairman & Managing Director
+- 高管：P.S. Vijaykumar — 研究档 KP（ps.vijay@mspllimited.com；WA 已加）= 收件人
+- 控制人 / 股东：Baldota 家族
+- 曾用名：Mineral Sales Private Limited（1961）
+- **这意味着什么：**
+  - **大型矿业终端、WA 无实质回复 → 终端 25% B 低优先，一页纸一次（切口：矿区 / 选矿厂非防爆区的工业 PoE 环网 STI-288DGGPM / STI-488DGGPM + 宽温 + 3 年保 + 付费样机；防爆区明说不做；英文，Vijaykumar 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动
+  - 守界：防爆 / IS-ATEX 不碰；不引用其财务
+- 备注：终端 B 低优先；一页纸一次；坐实（CIN + 地址 + 董事长 + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,17 +128,18 @@ updated: 2026-10-28
 - **【用户表】询盘统计表来源，无兴趣描述**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：P.S. Vijaykumar（）ps.vijay@mspllimited.com +91 99160 60959〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：P.S. Vijaykumar（MSPL Limited 研究档 KP（WA 已加无实质回复；职务待核）= 收件人（第 114 批 官方登记核实 2026-10-28））ps.vijay@mspllimited.com +91 99160 60959〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Narendra Baldota（Chairman & Managing Director MSPL Limited（Baldota 集团）— 不直接收件（第 114 批 官方登记核实 2026-10-28）） 〔https://en.wikipedia.org/wiki/MSPL_Limited〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：终端用户））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | MSPL Limited（Baldota Group） |
-| 成立 | 1961 |
+| 法定名称 | MSPL Limited（CIN U13100MH1961PLC012160；注册地 117, Baldota Bhavan, Maharshi Karve Road, Mumbai 400020；运营 Baldota Enclave, Hospet 583203；≈1,000 人；>₹1,000 Cr FY2025；实缴 ₹38.4 Cr；原名 Mineral Sales Private Limited） |
+| 成立 | 1961-10-18（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Hospet, Karnataka / Mumbai, India |
-| 其他 | 铁矿 / 风电 / 气体 / 海运 |
+| 其他 | 铁矿 / 风电 / 气体 / 海运；第 114 批：大型铁矿 / 球团 / 风电终端用户 → **终端 25% B 低优先，一页纸一次（矿区 / 选矿厂非防爆区工业 PoE 环网 STI-288DGGPM / STI-488DGGPM + 宽温 + 3 年保 + 付费样机；防爆区明说不做；Vijaykumar 直呼）**；再无回声 → 不动；守界：防爆 / IS-ATEX 不碰（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：铁矿开采（终端用户）；风电、工业气体、海运
 - **触达通道（公开）**：role: 终端用户（矿业项目）；region: 印度
@@ -195,7 +212,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| P.S. Vijaykumar | — | ps.vijay@mspllimited.com / +91 99160 60959 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| P.S. Vijaykumar | MSPL Limited 研究档 KP（WA 已加无实质回复；职务待核）= 收件人（第 114 批 官方登记核实 2026-10-28） | ps.vijay@mspllimited.com / +91 99160 60959 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Narendra Baldota | Chairman & Managing Director MSPL Limited（Baldota 集团）— 不直接收件（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://en.wikipedia.org/wiki/MSPL_Limited |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

@@ -84,6 +84,21 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：zaubacorp（BITS AND BYTE IT CONSULTING PRIVATE LIMITED CIN U72900KA2015PTC145953；incorporated 20 May 2015；ROC Bangalore）+ tracxn（No. 52 Vittal Mallya Road；directors Prakash Uppunda Rao / Ramachandra Raju；revenue ₹10–50 Cr FY2025；57 employees）+ bitsandbyte.net（legalName Bits And BYTE IT Consulting Pvt. Ltd.；#52 2nd Floor Vittal Mallya Road）+ LinkedIn（Ankit Arora Executive Director；51-200）+ rocketreach（56 employees）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/company/BITS-AND-BYTE-IT-CONSULTING-PRIVATE-LIMITED/U72900KA2015PTC145953）：**
+
+- 法定名 / 登记号：Bits and Byte IT Consulting Pvt. Ltd.（bits&BYTE；bitsandbyte.net；CIN U72900KA2015PTC145953（2015-05-20；RoC Bangalore）；#52, 2nd Floor, Vittal Mallya Road, Bangalore 560001）— 班加罗尔网络与数字集成商（SD-WAN / NaaS / 云 / 网络安全 / 数据中心）；董事 Ramachandra Raju（Co-Founder；研究档 KP）/ Prakash Uppunda Rao；Executive Director Ankit Arora（2025-11 入职；研究档 KP）；56–57 人；营收 ₹10–50 Cr（FY2025）；曾问环网收敛 <20 ms、2 光 10 电非 PoE、4 光 10 电 10G、bypass、100G；6 封 0 打开 · CIN U72900KA2015PTC145953 · 状态 **Active** · 成立 2015-05-20 · Private Limited
+- 行业码 / 经营范围：网络 / 数字 系统集成（班加罗尔）
+- 注册地址：#52, 2nd Floor, Vittal Mallya Road, Bangalore 560001
+- 规模档：中小型（≈57 人）
+- 账目：₹10–50 Cr（FY2025）；—
+- 高管：Ramachandra Raju (R) — Co-Founder / Director（研究档 KP）= 拍板人
+- 高管：Ankit Arora — Executive Director（2025-11–；研究档 KP）= 收件人
+- 高管：Prakash Uppunda Rao — Co-Founder / Director
+- 控制人 / 股东：Raju / Rao
+- **这意味着什么：**
+  - **有具体技术提问的集成商（环网 / 10G / bypass / 100G）→ 集成 25% B BIG，加厚一次（切口：逐条回答其问题：工业环网 STI-288DGGPM / STI-488DGGPM（收敛指标按规格书据实写，不编）、2 光 10 电非 PoE STI-0240GE、10G 上行 STC-424XGGPM-280W、100G 用 STH-32C-HSI；bypass 功能如无则明说无；英文，Ankit 直呼 + Ramachandra 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选升 A
+- 备注：集成 25%；B BIG 加厚一次；坐实（CIN + 地址 + 董事 + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,18 +134,19 @@ updated: 2026-10-28
 - **【用户表】问 Ring 时间能否小于 20ms；2 光 10 电不要 PoE 价格；4 光 10 电 10G 光；对 bypass 有兴趣看了接线图；问 100G/200G/400G 模块芯片方案**
   > 兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ramachandra R（）ramachandra.r@bitsandbyte.net +91 94484 58595〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Ankit Arora（）ankit@bitsandbyte.net +91 96206 18247〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ramachandra Raju (R)（Co-Founder / Director（MCA 董事；tracxn）= 拍板人（第 114 批 官方登记核实 2026-10-28））ramachandra.r@bitsandbyte.net +91 94484 58595〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ankit Arora（Executive Director – Global Sales and Alliances（2025-11–；LinkedIn）= 收件人（第 114 批 官方登记核实 2026-10-28））ankit@bitsandbyte.net +91 96206 18247〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Prakash Uppunda Rao（Co-Founder / Director（MCA 董事）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/company/BITS-AND-BYTE-IT-CONSULTING-PRIVATE-LIMITED/U72900KA2015PTC145953〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内：技术型买家））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Bits&Byte Consulting Pvt Ltd |
-| 成立 | （待核） |
+| 法定名称 | Bits and Byte IT Consulting Private Limited（bits&BYTE；CIN U72900KA2015PTC145953；#52, 2nd Floor, Vittal Mallya Road, Bangalore 560001；≈57 人；₹10–50 Cr FY2025；研究档「Bits&Byte Consulting Pvt Ltd」更正） |
+| 成立 | 2015-05-20（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Bengaluru, India |
-| 其他 | 与 BTON（百通）有合作 |
+| 其他 | 与 BTON（百通）有合作；第 114 批：班加罗尔网络与数字集成商，曾问环网 <20 ms / 2 光 10 电非 PoE / 10G / bypass / 100G → **集成 25% B BIG，加厚一次（逐条答复：STI-288DGGPM / STI-488DGGPM 环网（收敛按规格书据实）、STI-0240GE、STC-424XGGPM-280W 10G 上行、STH-32C-HSI 100G；bypass 如无明说无；Ankit 直呼 + Ramachandra 抄）**；回信 → 次候选升 A（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / 云 / 安全工程与托管服务
 - **触达通道（公开）**：role: 工程型集成商；region: 印度（班加罗尔）
@@ -208,8 +224,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ramachandra R | — | ramachandra.r@bitsandbyte.net / +91 94484 58595 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Ankit Arora | — | ankit@bitsandbyte.net / +91 96206 18247 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ramachandra Raju (R) | Co-Founder / Director（MCA 董事；tracxn）= 拍板人（第 114 批 官方登记核实 2026-10-28） | ramachandra.r@bitsandbyte.net / +91 94484 58595 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ankit Arora | Executive Director – Global Sales and Alliances（2025-11–；LinkedIn）= 收件人（第 114 批 官方登记核实 2026-10-28） | ankit@bitsandbyte.net / +91 96206 18247 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Prakash Uppunda Rao | Co-Founder / Director（MCA 董事）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.zaubacorp.com/company/BITS-AND-BYTE-IT-CONSULTING-PRIVATE-LIMITED/U72900KA2015PTC145953 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

@@ -79,6 +79,19 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：「Sri Annai Business Associates SABA Erode sabaindia.com Sampath Kumar CCTV」→ 仅 Sri Annai Agency（Erode 展示架 / 塑料椅经销，Kandasamy，≠）+ 无关新闻；域名失效；1 查即停；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：Sri Annai Business Associates（SABA；sabaindia.com 已失效；泰米尔纳德 Erode（0424）；R. Sampath Kumar +91 98427 13700；info@sabaindia.com / yahoo）— 安防经销（摄像机 + 门禁）；1 次检索无对应主体（命中 Erode 同名家具 / 塑料经销 Sri Annai Agency ≠）→ 未坐实；2024-04 对 L2 管理 2 光 8 PoE 报过 $75 后无进展 · 未取 · 状态 **站点失效** · 成立 未取 · 未取
+- 行业码 / 经营范围：安防 经销（埃罗德）
+- 注册地址：Erode, Tamil Nadu（具体未取）
+- 规模档：微型
+- 账目：—；—
+- 高管：R. Sampath Kumar — 经营者（研究档 KP；info@sabaindia.com / sriannaiassociates@yahoo.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实 + 官网失效 + 报价后 18 个月无进展 → 不动（B 保留；yahoo 箱若回声再按 STC-228GP 老价续）**
+- 备注：未坐实（1 查即停）→ 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,9 +124,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Sri Annai Business Associates |
+| 法定名称 | 未坐实（Sri Annai Business Associates；sabaindia.com 失效；Erode；1 查仅见同名家具 / 塑料经销 Sri Annai Agency ≠） |
+| 成立 | 未取（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Erode, Tamil Nadu, India（区号 0424） |
-| 其他 | 备用邮箱 sriannaiassociates@yahoo.com；域名失效 |
+| 其他 | 备用邮箱 sriannaiassociates@yahoo.com；域名失效；第 114 批：未坐实 + 官网失效 + 报价后 18 个月无进展 → **不动（B 保留；yahoo 箱回声再按 STC-228GP 老价续）**（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 门禁经销安装
 - **触达通道（公开）**：role: 安防经销 / 安装；region: 印度（泰米尔纳德）

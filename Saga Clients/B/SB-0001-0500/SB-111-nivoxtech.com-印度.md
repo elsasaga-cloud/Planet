@@ -79,6 +79,21 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：indiamart（Nivox Technologies；Partnership；GST 29AAIFN5171H1ZZ 2017；IEC 0711010331；Upto 10 People；GST Turnover 5 - 25 Cr；Year of Establishment 2011；Industrial POE Ethernet Switches Brand LANTECH - Taiwan Warranty 5 Years）+ kompass / tradeindia（No: 401B 4th Floor Nugen Residency 105 Dollars Scheme Nandini Layout Bengaluru 560096；Mr Hemanth Kumar Director；Ms. Kavitha D. D. Director）+ dnb（No. 30 2nd Floor 6th Cross 8th Main Nandini Layout 3rd Block；Key Principal Hemanth Kumar）+ crunchbase（Kavitha D. Director & CEO；51-100 虚高）+ iveonet.com（Iveonet products now part of Nivox）；2026-10-28，2026-10-28 查；https://www.indiamart.com/nivoxtechnologies/about-us.html）：**
+
+- 法定名 / 登记号：Nivox Technologies（nivoxtech.com / iveonet.com；**合伙企业；GSTIN 29AAIFN5171H1ZZ（2017）；IEC 0711010331；2011 创立**；401B, 4th Floor, Nugen Residency, 105 Dollars Scheme, Nandini Layout, Bengaluru 560096（另址 No. 30, 2nd Floor, 6th Cross 8th Main, Nandini Layout 3rd Block））— 班加罗尔工业以太网 + 加固光纤产品供应商（**Lantech（台湾）工业 PoE / 管理交换机印度分销，5 年保**；自有品牌 IVEONET 光配线 / 跳线）；董事 **Hemanth Kumar（= KP）**/ Kavitha D.（Director & CEO）；≤10 人；GST 营业额 ₹5–25 Cr；2024 要工业 MC 价格与证书，2025-05 问 EN 50155（Saga 无） · GSTIN 29AAIFN5171H1ZZ / IEC 0711010331 · 状态 **Active** · 成立 2011 · Partnership Firm
+- 行业码 / 经营范围：工业以太网 + 光纤产品 分销 / 自有品牌（班加罗尔）
+- 注册地址：401B, 4th Floor, Nugen Residency, 105 Dollars Scheme, Nandini Layout, Bengaluru 560096
+- 规模档：小型（≤10 人）
+- 账目：₹5–25 Cr（GST 档）；—
+- 高管：Hemanth Kumar — Director / 合伙人（研究档 KP）= 拍板人 / 收件人
+- 高管：Kavitha D. — Director & CEO / 合伙人
+- 控制人 / 股东：Hemanth Kumar / Kavitha D.
+- **这意味着什么：**
+  - **台湾品牌工业交换机分销 + 自有品牌、业主本人多次问价 → 分销 20% small，加厚 small 一次（切口：作其台湾线之外的性价比第二线：STI-144GP / STI-154GP / STI-288DGGPM + 工业 MC 对位 STC-110XGE，3 年保 + 付费样机；EN 50155 明说没有、轨交项目不接；英文，Hemanth 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选
+  - 守界：轨交线不碰；稿内不点名 Lantech
+- 备注：分销 20% small；加厚 small 一次；坐实（GSTIN + IEC + 合伙人 = KP + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,17 +126,18 @@ updated: 2026-10-28
 - **【用户表】2024-04 工业 MC→price 证书；2025-05 4/8/16 口工业 PoE→EN50155；备注 Atop 的工业 MC**
   > 回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hemanth Kumar（）hemanth@nivoxtech.com +91 98455 04242〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Hemanth Kumar（Director / 合伙人 Nivox Technologies（kompass / dnb）= 拍板人 / 收件人；2024–2025 多次问价（含 EN 50155）（第 114 批 官方登记核实 2026-10-28））hemanth@nivoxtech.com +91 98455 04242〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Kavitha D.（Director & CEO / 合伙人（crunchbase / kompass）（第 114 批 官方登记核实 2026-10-28）） 〔https://in.kompass.com/c/nivox-technologies/in433614/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + IndiaMART 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Nivox Technologies（Partnership） |
-| 成立 | 约 2017（GST） |
+| 法定名称 | Nivox Technologies（合伙企业；GSTIN 29AAIFN5171H1ZZ；IEC 0711010331；401B, 4th Floor, Nugen Residency, 105 Dollars Scheme, Nandini Layout, Bengaluru 560096；≤10 人；₹5–25 Cr；Lantech（台湾）工业交换机印度分销 + 自有品牌 IVEONET） |
+| 成立 | 2011（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Nandini Layout, Bengaluru 560096, Karnataka, India |
-| 其他 | Lantech 印度分销；自有品牌 IVEONET / IINVSYS |
+| 其他 | Lantech 印度分销；自有品牌 IVEONET / IINVSYS；第 114 批：台湾品牌工业交换机分销 + 业主本人多次问价 → **分销 20% small，加厚 small 一次（性价比第二线 STI-144GP / STI-154GP / STI-288DGGPM + 工业 MC 对位 STC-110XGE，3 年保 + 付费样机；EN 50155 明说没有、轨交不接；Hemanth 直呼）**；回信 → 次候选；不点名 Lantech（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业以太网交换机（Lantech 分销）；工业 MC（Atop）；坚固光纤配线 / 网线（IVEONET 自有品牌）
 
@@ -192,7 +208,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hemanth Kumar | — | hemanth@nivoxtech.com / +91 98455 04242 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Hemanth Kumar | Director / 合伙人 Nivox Technologies（kompass / dnb）= 拍板人 / 收件人；2024–2025 多次问价（含 EN 50155）（第 114 批 官方登记核实 2026-10-28） | hemanth@nivoxtech.com / +91 98455 04242 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Kavitha D. | Director & CEO / 合伙人（crunchbase / kompass）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://in.kompass.com/c/nivox-technologies/in433614/ |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

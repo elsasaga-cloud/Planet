@@ -79,6 +79,20 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：knowyourgst（TECHNOSYS GSTIN 27AWZPS2792Q2ZY；Proprietorship；RAVEN HOME 104 PLOT-36 SECTOR-21 KAMOTHE；Registration 26/10/2018）+ thecompanycheck（Proprietorship Firm incorporated 05-Jun-2010；repair and maintenance of computer）+ indiamart（GST Partner Name Randhir Kumar Singh；Annual Turnover 0 - 40 L；Ramarao Moorthy Manager）+ driveat（Mr Randhir Singh Proprietor；+91-9320207744）；2026-10-28，2026-10-28 查；https://www.knowyourgst.com/gst-number-search/technosys-27AWZPS2792Q2ZY/）：**
+
+- 法定名 / 登记号：TECHNOSYS（technosys.co.in / technosysglobal.com；**个体经营 Randhir Kumar Singh；GSTIN 27AWZPS2792Q2ZY（2018-10-26）；2010-06-05 成立**；#104, Raven Home, Plot 36, Sector 21, Kamothe, Khandeshwar, Navi Mumbai 410209；门店 Shop 21, Haware Green Park, Sector 22）— 新孟买小型 IT 服务 / 网店（网站、云、照相馆、房产等杂项）；营业额 ₹0–40 lakh；经理 Ramarao Moorthy；表内「买过台湾 KONTEN 工业 FS；在用 EtherWAN 工业 FS / MC」；0 跟进 · GSTIN 27AWZPS2792Q2ZY · 状态 **Active** · 成立 2010-06-05 · Proprietorship（个体）
+- 行业码 / 经营范围：IT 服务 / 小网店（新孟买）
+- 注册地址：#104, Raven Home, Plot 36, Sector 21, Kamothe, Khandeshwar, Navi Mumbai 410209
+- 规模档：个体 / 微型
+- 账目：₹0–40 lakh（自报）；—
+- 高管：Randhir Kumar Singh — Proprietor
+- 高管：Ramarao Moorthy — Manager
+- 控制人 / 股东：Singh
+- **这意味着什么：**
+  - **个体微型（营业额 <₹40 lakh）→ 不动（个体规则；B 保留；若其主动询工业 FS 再按 STI-288DGGPM 对位报价）**
+- 备注：不动（个体 / 微型）；坐实（GSTIN + 业主 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,6 +125,7 @@ updated: 2026-10-28
   > 工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
+- **KP**：Randhir Kumar Singh（Proprietor TECHNOSYS（GST 登记人）— 个体微型，不动（第 114 批 官方登记核实 2026-10-28）） 〔https://www.knowyourgst.com/gst-number-search/technosys-27AWZPS2792Q2ZY/〕
 - **调研后定级**：B（原自动 A）——无互动、印度非主攻区；EtherWAN 在用（台系高价）本可替代，但证据不足 → B。
 - 备注：首触一封：EtherWAN 工业 PoE 对位 STI-288DGGPM 价差。
 
@@ -118,9 +133,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | TECHNOSYS（全称待核） |
+| 法定名称 | TECHNOSYS（个体经营 Randhir Kumar Singh；GSTIN 27AWZPS2792Q2ZY；#104, Raven Home, Plot 36, Sector 21, Kamothe, Khandeshwar, Navi Mumbai 410209；₹0–40 lakh） |
+| 成立 | 2010-06-05（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Kamothe, Navi Mumbai 410209（+91 93202 07744；contact@technosys.co.in） |
-| 其他 | 官网业务杂（IT Shop / 云 / 照相馆）；外贸数据显示进口工业 FS |
+| 其他 | 官网业务杂（IT Shop / 云 / 照相馆）；外贸数据显示进口工业 FS；第 114 批：新孟买个体 IT 服务 / 小网店（营业额 <₹40 lakh）→ **不动（个体规则；B 保留；其主动询工业 FS 再按 STI-288DGGPM 对位报）**（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 产品零售/服务；（外贸数据）工业光纤交换机进口
 - **触达通道（公开）**：网站: https://technosys.co.in/；电话: +91 93202 07744（公开）；邮箱（公开）: contact@technosys.co.in
@@ -180,7 +196,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | contact@technosys.co.in | 用户表原值 | Clients/ 表 |
+| Randhir Kumar Singh | Proprietor TECHNOSYS（GST 登记人）— 个体微型，不动（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.knowyourgst.com/gst-number-search/technosys-27AWZPS2792Q2ZY/ |
 
 - **通道建议**：企业邮箱可直发
 

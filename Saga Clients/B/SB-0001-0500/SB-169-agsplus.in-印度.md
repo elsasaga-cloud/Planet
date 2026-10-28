@@ -102,6 +102,22 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：xexagon.co.in（Xexagon Odhav Ahmedabad；GST No. 24BWZPP0936L1ZR；Proprietorship；Upto 10 People；Annual Turnover 5 - 25 Cr；IEC BWZPP0936L；CEO Tusharkumar Rajeshbhai Patel；5 Port Unmanaged Industrial Ethernet Switch）+ indiafilings / tofler（XEXAGON HI-TECH PRIVATE LIMITED CIN U28299GJ2025PTC160203；12-03-2025；RoC-Ahmedabad；Block A-209 Global Business Park Odhav 382415；Nehaben Patel / Tusharkumar Rajeshbhai Patel）+ LinkedIn（XEXAGON industrial automation, hazardous area products；11-50）；AGS Plus 法人无命中；2026-10-28，2026-10-28 查；https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203）：**
+
+- 法定名 / 登记号：AGS Plus（agsplus.in 占位页；KP Vinod Tyagi +91 98105（德里号段）；sales@agsplus.in）+ 关联 Xexagon（xexagon.co.in；艾哈迈达巴德 Odhav；**个体 GST 24BWZPP0936L1ZR（2019-03-06）→ Xexagon Hi-Tech Private Limited CIN U28299GJ2025PTC160203（2025-03-12；Block A-209, Global Business Park, Odhav, Ahmedabad 382415；董事 Tusharkumar Rajeshbhai Patel / Nehaben Patel）**；工业自动化 / 防爆区产品代理 + 5 口非管理工业交换机；≤10 人；营业额 ₹5–25 Cr）— **两实体身份关系未清（德里 CCTV 经销 vs 艾哈迈达巴德自动化代理）**；表内：主 CCTV、用新桥商用 PoE、工业 FS 用 opstar；2025-06 对 24 PoE 回「price」 · Xexagon：GSTIN 24BWZPP0936L1ZR / CIN U28299GJ2025PTC160203；AGS Plus：未取 · 状态 **Active（Xexagon）；AGS Plus 站点占位** · 成立 Xexagon 2019（个体）→ 2025-03-12（Pvt Ltd） · Proprietorship → Private Limited（Xexagon）；AGS Plus 未取
+- 行业码 / 经营范围：CCTV / 网络 经销（德里？）+ 工业自动化 代理（艾哈迈达巴德）
+- 注册地址：Xexagon：Block A-209, Global Business Park, S.P. Ring Road, Odhav, Ahmedabad 382415；AGS Plus：未取
+- 规模档：小型（≤10 人）
+- 账目：Xexagon ₹5–25 Cr（自报）；—
+- 高管：Vinod Tyagi — 研究档 KP（sales@agsplus.in；2025-06 回「price」）= 收件人
+- 高管：Gunjan — 研究档 KP（gunjan@xexagon.co.in）= 抄
+- 高管：Tusharkumar Rajeshbhai Patel — Xexagon CEO / Director
+- 控制人 / 股东：Patel（Xexagon）
+- **这意味着什么：**
+  - **曾对 24 口 PoE 问价（2025-06）→ 分销 20% small，一页纸一次（切口：直接给 STC-2224GP 24 PoE 一口价 + STC-228GP + 工业 STI-054GP，MOQ 1；英文，Vinod 直呼 + Gunjan 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动
+  - 身份：AGS Plus（德里）与 Xexagon（艾哈迈达巴德）关系未清 → 部分坐实；Xexagon 代理防爆区产品 → 稿内不碰防爆
+- 备注：分销 20% small；一页纸一次；部分坐实（Xexagon 坐实；AGS Plus 查无）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,17 +144,19 @@ updated: 2026-10-28
 - **【用户表】主要是 CCTV 新桥的商业 PoE；工业 FS 周边产品；opstar 的工业 FS / 有 E-wind 产品；2025-06 24poe→price**
   > 兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Vinod Tyagi（）sales@agsplus.in +91 98105 61477〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Gunjan（）gunjan@xexagon.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Vinod Tyagi（AGS Plus 研究档 KP（+91 98105 德里号段；2025-06 对 24 PoE 回「price」）= 收件人（第 114 批 官方登记核实 2026-10-28））sales@agsplus.in +91 98105 61477〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Gunjan（Xexagon 研究档 KP = 抄（第 114 批 官方登记核实 2026-10-28））gunjan@xexagon.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Tusharkumar Rajeshbhai Patel（CEO / Director Xexagon Hi-Tech Private Limited（tofler / xexagon.co.in）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照占位 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （待核：AGS Plus / Xexagon） |
+| 法定名称 | AGS Plus（agsplus.in 占位；法人未取）+ 关联 Xexagon（Odhav, Ahmedabad；个体 GSTIN 24BWZPP0936L1ZR → Xexagon Hi-Tech Private Limited CIN U28299GJ2025PTC160203，Block A-209, Global Business Park, Odhav, Ahmedabad 382415；≤10 人；₹5–25 Cr）；两实体关系未清 |
+| 成立 | Xexagon 2019 → 2025-03-12（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度（德里 NCR，+91 98105） |
-| 其他 | 官网占位 |
+| 其他 | 官网占位；第 114 批：曾对 24 口 PoE 问价 → **分销 20% small，一页纸一次（STC-2224GP 一口价 + STC-228GP + 工业 STI-054GP，MOQ 1；Vinod 直呼 + Gunjan 抄）**；再无回声 → 不动；身份未清 → 部分坐实；Xexagon 代理防爆区产品 → 稿内不碰防爆（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV + 配套 PoE 交换机经销；工业交换机（OPSTAR）
 - **触达通道（公开）**：role: 安防 / 网络经销商（已购中国同行）；region: 印度
@@ -219,8 +237,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Vinod Tyagi | — | sales@agsplus.in / +91 98105 61477 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Gunjan | — | gunjan@xexagon.co.in | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Vinod Tyagi | AGS Plus 研究档 KP（+91 98105 德里号段；2025-06 对 24 PoE 回「price」）= 收件人（第 114 批 官方登记核实 2026-10-28） | sales@agsplus.in / +91 98105 61477 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Gunjan | Xexagon 研究档 KP = 抄（第 114 批 官方登记核实 2026-10-28） | gunjan@xexagon.co.in | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Tusharkumar Rajeshbhai Patel | CEO / Director Xexagon Hi-Tech Private Limited（tofler / xexagon.co.in）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203 |
 | opstar | — | sales@agsplus.in / gunjan@xexagon.co.in / +919810561477 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

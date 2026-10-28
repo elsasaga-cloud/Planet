@@ -80,6 +80,19 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：amitytechnologies.co.in（Plot No. 279 2nd Floor Vivekananda Nagar Kukatpally Hyderabad 500072；+91 9866938833；Rugged Ethernet Switches -40°C to +85°C）+ about-us（Established in 2009；ISO 9001:2015；military & Industrial mission critical applications）+ thecompanycheck（Partnership Firm incorporated 04-May-2009；Udyam Small 2022-23）+ tradekey（16-25 employees；sales $1-2.5M）+ indiamart（AT3U24RES；AT16RES3U）；2026-10-28，2026-10-28 查；https://amitytechnologies.co.in/about-us/）：**
+
+- 法定名 / 登记号：Amity Technologies（amitytechnologies.co.in；**合伙企业，2009-05-04 成立（Udyam：Small 2022-23）**；Plot 279, 2nd Floor, Vivekananda Nagar, Kukatpally, Hyderabad 500072 + Plot 38, Meridian Enclave, Nizampet Road 500085；班加罗尔分部）— 加固 / 军规 COTS 计算机、显示器、服务器、**加固以太网交换机（AT16RES / AT3U24RES，-40~+85 °C，航空铝机箱，军用与工业关键任务）**；ISO 9001:2015；16–25 人；年销 $1–2.5M；无 KP（info@）；表内「工业 FS」0 跟进 · 未取（合伙企业；Udyam 登记） · 状态 **Active** · 成立 2009-05-04 · Partnership Firm
+- 行业码 / 经营范围：加固 / 军规 计算与网络设备 制造（海得拉巴）
+- 注册地址：Plot 279, 2nd Floor, Vivekananda Nagar, Kukatpally, Hyderabad 500072
+- 规模档：小型（16–25 人）
+- 账目：$1–2.5M（自报）；—
+- 高管：（无 KP；info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **主业军规加固设备（military mission-critical）+ 同行自制加固交换机 → 不动（守界：军用不碰；B 保留）**
+- 备注：不动（守界 军用 + 同行）；坐实（合伙企业登记 + 地址 + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,9 +128,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Amity Technologies（amitytechnologies.co.in） |
+| 法定名称 | Amity Technologies（合伙企业，2009-05-04；Udyam Small 2022-23；Plot 279, 2nd Floor, Vivekananda Nagar, Kukatpally, Hyderabad 500072 + Plot 38, Meridian Enclave, Nizampet Road 500085；ISO 9001:2015；16–25 人；$1–2.5M） |
+| 成立 | 2009-05-04（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | India |
-| 其他 | 注：「买了台湾 KONTEN 的模块」为富通天下外贸数据（从同行采购），非 Saga 成交 |
+| 其他 | 注：「买了台湾 KONTEN 的模块」为富通天下外贸数据（从同行采购），非 Saga 成交；第 114 批：军规加固 COTS 计算机 + 自制加固以太网交换机（military mission-critical）→ **不动（守界：军用不碰 + 同行；B 保留）**（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品/光模块经销
 - **触达通道（公开）**：网站: amitytechnologies.co.in（未核）；邮箱: info@amitytechnologies.co.in（用户表）

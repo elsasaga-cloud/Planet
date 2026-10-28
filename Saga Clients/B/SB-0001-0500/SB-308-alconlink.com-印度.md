@@ -85,6 +85,21 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：indiafilings（ALCON WIRELESS PRIVATE LIMITED CIN U64200OR2010PTC011564；Incorporation 03-02-2010；PLOT NO. C-3 1ST FLOOR JAYADURGA NAGAR BOMIKHAL BHUBANESWAR 751006；Email pratap@alconlink.com；Director PRATAP KUMAR BARAL；Last AGM 30-09-2022）+ zaubacorp（Directors Pratap Kumar Baral / Anusuya Patra）+ alconlink.com（migrated from Alcon Telecommunication-Taiwan 2010；PoE Switches；3 importers 16+ distributors 200+ SI）+ alconlink.com/contact（Delhi / Mumbai / Kolkata / Odisha corp. off.）+ indiafilings（WIS NETWORKS DIGITAL TECHNOLOGIES INDIA PVT LTD 2017 pratap.alconlink@gmail.com）；2026-10-28，2026-10-28 查；https://www.indiafilings.com/search/alcon-wireless-private-limited-cin-U64200OR2010PTC011564）：**
+
+- 法定名 / 登记号：Alcon Wireless Private Limited（AlconLink；alconlink.com；CIN U64200OR2010PTC011564（2010-02-03；RoC Odisha）；Plot C-3, 1st Floor, Jayadurga Nagar, Bomikhal, Bhubaneswar 751006；办公 Delhi（Nehru Place）/ Mumbai / Kolkata）— 2010 年从台湾 Alcon Telecommunication 独立出来的印度 IP 监控品牌（网络摄像机 / NVR / AI / 热成像 / ANPR + **自有 logo PoE 交换机与工业交换机** + WIS 无线；印度 3 家进口商 + 16 家分销 + 200 家 SI；中东 / 尼泊尔 / 不丹）；**董事 Pratap Kumar Baral = 研究档 KP（pratap@）**、Anusuya Patra；关联 WIS Networks Digital Technologies India Pvt Ltd（2017）；最近 AGM 2022-09-30（申报滞后）；4 封 0 打开 · CIN U64200OR2010PTC011564 · 状态 **Active（AGM 申报滞后至 2022）** · 成立 2010-02-03 · Private Limited
+- 行业码 / 经营范围：IP 监控 品牌 + 自有 logo PoE / 工业交换机（布巴内斯瓦尔 + 德里 / 孟买 / 加尔各答）
+- 注册地址：Plot C-3, 1st Floor, Jayadurga Nagar, Bomikhal, Bhubaneswar 751006, Odisha
+- 规模档：小型（渠道 200+ SI）
+- 账目：未取；—
+- 高管：Pratap Kumar Baral — Director（研究档 KP pratap@；+91 97788 02333）= 拍板人 / 收件人
+- 高管：Anusuya Patra — Director
+- 控制人 / 股东：Baral（推定）
+- **这意味着什么：**
+  - **自有 logo PoE / 工业交换机 + 全国渠道、董事本人即 KP → 贴标 OEM 30% B，加厚 small 一次（切口：AlconLink 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP 第二代工源 + 中性包装 / 自编货号 + 小 MOQ；英文，Pratap 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳，不受 RU 路径限制**；回信 → 次候选
+  - AGM 申报滞后（2022）→ 付款只做 T/T 预付；稿内不点名其台湾前身
+- 备注：贴标 30%；加厚 small 一次；坐实（CIN + 董事 = KP + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,15 +142,17 @@ updated: 2026-10-28
 - **【用户表】商业 PoE CCTV 产品，自己的 logo**
   > 商业PoE CCTV产品 自己的logo；91-97788 02333
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Pratap（）pratap@alconlink.com 〔用户表〕
+- **KP**：Pratap Kumar Baral（Director Alcon Wireless Private Limited（DIN 02545994；2010-02-03–；indiafilings）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28））pratap@alconlink.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Alcon Wireless Private Limited（AlconLink；CIN U64200OR2010PTC011564；Plot C-3, 1st Floor, Jayadurga Nagar, Bomikhal, Bhubaneswar 751006；办公 Delhi / Mumbai / Kolkata；董事 Pratap Kumar Baral / Anusuya Patra；最近 AGM 2022-09-30；关联 WIS Networks Digital Technologies India Pvt Ltd 2017） |
+| 成立 | 2010-02-03（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | 官网 alconlink.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 alconlink.com，语言 en，快照状态 ok；角色判定来源：用户表；第 114 批：2010 从台湾 Alcon 独立的印度 IP 监控品牌 + 自有 logo PoE / 工业交换机 + 全国渠道（3 进口商 / 16 分销 / 200 SI）→ **贴标 OEM 30% B，加厚 small 一次（AlconLink 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP 第二代工源 + 中性包装 + 小 MOQ；Pratap 直呼）**；AGM 申报滞后 → 只做 T/T 预付；不点名其台湾前身（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 摄像机 / NVR / AI 方案（自有品牌）；PoE / 工业交换机（自有 logo）
 - **触达通道（公开）**：role: 印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购）；region: 印度；contact: pratap@alconlink.com
@@ -213,7 +230,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pratap | — | pratap@alconlink.com | 调研核实（公开页） | 用户表 |
+| Pratap Kumar Baral | Director Alcon Wireless Private Limited（DIN 02545994；2010-02-03–；indiafilings）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28） | pratap@alconlink.com | 调研核实（公开页） | 用户表 |
+| Pratap | — | pratap@alconlink.com / +919778802333 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

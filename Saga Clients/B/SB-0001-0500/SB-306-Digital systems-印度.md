@@ -78,6 +78,20 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 0 次检索（泛名「Digital Systems」+ hotmail 邮箱，无域名 / 地址线索，检索无法定向）；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：Digital Systems（古吉拉特；Jayesh Patel +91 98251 46654；digital_sys@hotmail.com；无域名）— 经销商，当前从本地市场买光纤收发器、想直接进口 MC；2024-04 对 10G MC 回「Yes」并发名片，此后仅「Hi」；**名称泛用 + hotmail → 0 次检索** · 未取 · 状态 **—** · 成立 未取 · 未取（个体推定）
+- 行业码 / 经营范围：网络 / 光纤 经销（古吉拉特）
+- 注册地址：未取（Gujarat）
+- 规模档：微型（推定）
+- 账目：—；—
+- 高管：Jayesh Patel — 经营者（研究档 KP；WA）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **有明确进口意愿（10G MC 回 Yes + 名片）但主体不可核 → 分销 20% small，一页纸一次（切口：STC-110XGE 10G MC + STC-028GP / STC-228GP 一口价，MOQ 1、T/T 预付、FOB 深圳 + 百运网 DAP 可选；英文，Jayesh 直呼；WA 同步）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动
+  - 未坐实（0 查）→ 只做预付
+- 备注：分销 20% small；一页纸一次；未坐实（0 查）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -100,15 +114,17 @@ updated: 2026-10-28
 - **【用户表】兴趣：buy mc from local market / want to import MC；2024-04 10G MC→Yes 发名片**
   > 兴趣：buy mc from local market want to import MC；回复：Yes, 发了右边的名片
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jayesh Patel（）digital_sys@hotmail.com +91 98251 46654〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jayesh Patel（Digital Systems 经营者（古吉拉特；WA；2024-04 对 10G MC 回 Yes + 名片）= 收件人（第 114 批 官方登记核实 2026-10-28））digital_sys@hotmail.com +91 98251 46654〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （待核） |
+| 法定名称 | 未坐实（「Digital Systems」泛名 + hotmail；0 查） |
+| 成立 | 未取（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度（古吉拉特号段） |
+| 其他 | 第 114 批：有明确进口意愿但主体不可核 → **分销 20% small，一页纸一次（STC-110XGE 10G MC + STC-028GP / STC-228GP 一口价，MOQ 1、T/T 预付、FOB 深圳 / 百运网 DAP 可选；Jayesh 直呼；WA 同步）**；再无回声 → 不动；只做预付（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络配件 / 光纤收发器经销
 - **触达通道（公开）**：role: 本地经销商（想转直接进口）；region: 印度
@@ -156,7 +172,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jayesh Patel | — | digital_sys@hotmail.com / +91 98251 46654 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Jayesh Patel | Digital Systems 经营者（古吉拉特；WA；2024-04 对 10G MC 回 Yes + 名片）= 收件人（第 114 批 官方登记核实 2026-10-28） | digital_sys@hotmail.com / +91 98251 46654 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 

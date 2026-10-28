@@ -79,6 +79,20 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：netstar.in/home（Contact Us Infonet Technologies 19 Limbani Complex Ambli Bopal Road Ahmedabad-380058；NS-RP071P-OD；NS-8G-RP）+ indiamart（Infonet Technologies；GST 24AAGFI3821H1ZN；Year of Establishment 1995；Partnership Firm；11 To 25 People；5 - 10 Crore）+ starpoe.com/about-us（IEC AAGFI3821H；Banker ICICI）+ tradeindia（Manager Mr. Dharmesh Patel）+ amazon.in（Manufacturer Infonet Technologies；switch@netstar.in；+91 9687688966）；2026-10-28，2026-10-28 查；https://www.netstar.in/home/）：**
+
+- 法定名 / 登记号：NETSTAR（netstar.in / starpoe.com；法人 **Infonet Technologies（合伙企业；GSTIN 24AAGFI3821H1ZN（2017-08-29）；IEC AAGFI3821H；1995 创立）**；Shop 19, Limbani Complex, Ambli Bopal Road, Ahmedabad 380058）— ISP / WISP 用反向 PoE / 无源 PoE / 室外 PoE 交换机与注入器自有品牌（NS-RP071P-OD / NS-8G-RP / RP-2U；IndiaMART / Amazon 在售）；11–25 人；营业额 ₹5–10 Cr；经理 Dharmesh Patel；switch@netstar.in（+91 96876 88966 WA 13 次无实质回复）；需求商用 PoE + 配件 · GSTIN 24AAGFI3821H1ZN / IEC AAGFI3821H · 状态 **Active** · 成立 1995 · Partnership Firm
+- 行业码 / 经营范围：ISP / WISP PoE 设备 自有品牌（艾哈迈达巴德）
+- 注册地址：Shop 19, Limbani Complex, Ambli Bopal Road, Ambli Gam, Ahmedabad 380058
+- 规模档：小型（11–25 人）
+- 账目：₹5–10 Cr（自报）；—
+- 高管：Dharmesh Patel — Manager（tradeindia）= 候选收件人
+- 高管：（研究档 KP = switch@netstar.in 职能箱；WA 已加）
+- 控制人 / 股东：未取（合伙人）
+- **这意味着什么：**
+  - **自有品牌但主打反向 / 无源 PoE（Saga 无此线）、WA 13 次无回 → 贴标 30% small，一页纸一次（切口：NETSTAR 标标准 802.3af/at PoE STC-028GP / STC-228GP + 室内千兆上行，小 MOQ + 中性包装；反向 PoE / 注入器明说不做；英文）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动
+- 备注：贴标 30% small；一页纸一次；坐实（GSTIN + IEC + 地址 + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -104,16 +118,18 @@ updated: 2026-10-28
 - **【用户表】商业 POE、POE 配件**
   > 兴趣：商业POE POE配件
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（交换机采购）（）switch@netstar.in +91 96876 88966〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（交换机采购）（NETSTAR 交换机采购职能箱（WA 13 次无实质回复）= 收件人（第 114 批 官方登记核实 2026-10-28））switch@netstar.in +91 96876 88966〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Dharmesh Patel（Manager Infonet Technologies / NETSTAR（tradeindia）= 候选具名收件人（第 114 批 官方登记核实 2026-10-28）） 〔https://www.tradeindia.com/products/netstar-outdoor-reverse-poe-switch-with-fiber-uplink-port-single-fiber-sc-rpoe-switch-with-fiber-uplink-10-100mbps-7128379.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Netstar（待核） |
+| 法定名称 | Infonet Technologies（NETSTAR 品牌；合伙企业；GSTIN 24AAGFI3821H1ZN；IEC AAGFI3821H；Shop 19, Limbani Complex, Ambli Bopal Road, Ahmedabad 380058；11–25 人；₹5–10 Cr） |
+| 成立 | 1995（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Ahmedabad, Gujarat, India |
-| 其他 | 反向 PoE / 室外 PoE 产品线 |
+| 其他 | 反向 PoE / 室外 PoE 产品线；第 114 批：ISP / WISP 反向 / 无源 PoE 自有品牌（Saga 无此线）→ **贴标 30% small，一页纸一次（NETSTAR 标标准 802.3af/at PoE STC-028GP / STC-228GP + 小 MOQ + 中性包装；反向 PoE / 注入器明说不做）**；再无回声 → 不动（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：ISP/WISP 产品（反向 PoE、PoE 配件、交换机）；家庭自动化 / 安防
 
@@ -190,7 +206,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | switch@netstar.in / +919687688966 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Dharmesh Patel | Manager Infonet Technologies / NETSTAR（tradeindia）= 候选具名收件人（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.tradeindia.com/products/netstar-outdoor-reverse-poe-switch-with-fiber-uplink-port-single-fiber-sc-rpoe-switch-with-fiber-uplink-10-100mbps-7128379.html |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -225,7 +241,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：WhatsApp 直达
-- **W**：无具名决策人，仍是公司级触达；已推送 13 次无回复，邮件通道疲劳；南亚：物流/收款/汇率摩擦高于主攻区
+- **W**：已推送 13 次无回复，邮件通道疲劳；南亚：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -242,7 +258,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

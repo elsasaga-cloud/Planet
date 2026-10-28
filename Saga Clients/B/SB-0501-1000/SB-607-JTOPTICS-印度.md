@@ -86,6 +86,20 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：zaubacorp（JAYANI TECHNOLOGIES LLP LLPIN AAA-6913；incorporated 17 Nov 2011；ROC Mumbai；Designated Partners VIJAY JANKIPRASAD GUPTA / NIDHI VIJAY GUPTA；OFFICE NO 23 3RD FLOOR BUILDING A GAMI INDUSTRIAL PARK TTC MIDC PAWANE NAVI MUMBAI 400705）+ jtoptics.com/about-us（founded 2011 Mumbai；Vijay Gupta Founder and CEO；Big Impact Award 2023）+ rocketreach（12 employees；+91 86930 99309）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/company/JAYANI-TECHNOLOGIES-LLP/AAA-6913）：**
+
+- 法定名 / 登记号：Jayani Technologies LLP（JTOPTICS®；jtoptics.com；LLPIN AAA-6913（2011-11-17；RoC Mumbai）；Office 23, 3rd Floor, Building A, Gami Industrial Park, TTC MIDC, Pawane, Navi Mumbai 400705）— 光模块 / DAC / AOC / MPO 自有品牌（1G–1.6T；数据中心 + 电信）；指定合伙人 Vijay Jankiprasad Gupta（Founder / CEO = KP）/ Nidhi Vijay Gupta（COO）；≈12 人（RocketReach；ZoomInfo 51–200 虚高）；**Simon 长期跟进：价格敏感（工业 MC $25 嫌贵）、称已与 BTON 合作 → 实质婉拒** · LLPIN AAA-6913 · 状态 **Active** · 成立 2011-11-17 · LLP
+- 行业码 / 经营范围：光模块 / 光连接 自有品牌（新孟买）
+- 注册地址：Office 23, 3rd Floor, Building A, Gami Industrial Park, TTC MIDC, Pawane, Navi Mumbai 400705
+- 规模档：小型（≈12 人）
+- 账目：未取；—
+- 高管：Vijay Jankiprasad Gupta — Designated Partner / Founder & CEO（研究档 KP）
+- 高管：Nidhi Vijay Gupta — Designated Partner / COO
+- 控制人 / 股东：Gupta 夫妇
+- **这意味着什么：**
+  - **主业光模块（Saga 不做）、交换机 / MC 价格敏感且已选他家 → 不动（婉拒规则；B 保留，其上交换机需求时再看）**
+- 备注：不动（实质婉拒 + 主业非目标）；坐实（LLPIN + 合伙人 = KP + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,17 +136,17 @@ updated: 2026-10-28
 - **【用户表】Simon 之前联系很久；价格敏感；工业 MC 报了 25 说贵；在和 BTON 合作**
   > 兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Vijay Gupta（）vijay@jtoptics.com +91 98193 91910〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Vijay Jankiprasad Gupta（Designated Partner / Founder & CEO Jayani Technologies LLP（DIN 05103167；2011-11-17–）— 价格敏感 + 已选他家 → 不动（第 114 批 官方登记核实 2026-10-28））vijay@jtoptics.com +91 98193 91910〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Jayani Technologies LLP |
-| 成立 | （待核） |
+| 法定名称 | Jayani Technologies LLP（JTOPTICS®；LLPIN AAA-6913；Office 23, 3rd Floor, Building A, Gami Industrial Park, TTC MIDC, Pawane, Navi Mumbai 400705；指定合伙人 Vijay Jankiprasad Gupta / Nidhi Vijay Gupta；≈12 人） |
+| 成立 | 2011-11-17（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Mumbai, India |
-| 其他 | 自有品牌 JTOptics（MC 贴牌） |
+| 其他 | 自有品牌 JTOptics（MC 贴牌）；第 114 批：主业光模块 / DAC / MPO（Saga 不做），交换机 / MC 价格敏感、称已与他家合作 → **不动（实质婉拒；B 保留，其上交换机需求时再看）**（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光模块 / 光纤跳线 / MC（自有品牌）
 - **触达通道（公开）**：role: 品牌商（贴牌采购 MC）；region: 印度
@@ -210,7 +224,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Vijay Gupta | — | vijay@jtoptics.com / +91 98193 91910 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Vijay Jankiprasad Gupta | Designated Partner / Founder & CEO Jayani Technologies LLP（DIN 05103167；2011-11-17–）— 价格敏感 + 已选他家 → 不动（第 114 批 官方登记核实 2026-10-28） | vijay@jtoptics.com / +91 98193 91910 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Vijay Gupta | — | vijay@jtoptics.com / +919819391910 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

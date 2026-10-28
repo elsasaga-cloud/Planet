@@ -88,6 +88,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 114 批（IN · 1 次检索：hdfcsky（Smartlink Holdings Q2FY26；100% owned subsidiary Digisol Systems Limited achieved ₹6,327.58 lakh revenue and ₹268.43 lakh PAT during the quarter；2025-11-06）+ owler（Digisol Systems limited CEO Devendra Kamtekar；Mumbai；Private Subsidiary of Smartlink Holdings Ltd.；est. 1993）+ tracxn（DIGISOL SYSTEMS LIMITED financials FY25 revenue 1557）；CIN 未见；1 查即停；2026-10-28，2026-10-28 查；https://www.owler.com/company/digisol）：**
+
+- 法定名 / 登记号：DIGISOL Systems Limited（digisol.com；Smartlink Holdings Ltd（BSE 上市）100% 子公司；孟买总部，果阿 Verna 工厂）— 「Made in India」网络品牌（交换机 / FTTH-PON / MC / 布线 / 监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE；新多千兆 L2 / L3 PoE）；CEO Devendra Kamtekar；**Q2 FY26 营收 ₹6,327.58 lakh / 季（≈$7.5M；年化 ≈$30M）、PAT ₹268.43 lakh**；FY2024-25 年营收 ₹1,557（tracxn 口径，单位待核）；**CIN 未取**（1 查未见）；KP Ranjan Gupta（Dy. BDM）/ Nandini Singh；表内「工业 FS 来自 HRUI（洪瑞）」→ Q-33 口径；未触达 · 未取（CIN；母公司 Smartlink Holdings Ltd 上市） · 状态 **Active** · 成立 未取（品牌 1993 / 分拆后独立） · Public Limited（非上市子公司）
+- 行业码 / 经营范围：网络 / 布线 / 监控 自有品牌 + 制造（孟买 / 果阿）
+- 注册地址：Mumbai（总部；具体地址未取）；工厂 Verna, Goa
+- 规模档：中型（上市集团子公司）
+- 账目：≈₹250 Cr / 年（按 Q2 FY26 年化；待核）；—
+- 高管：Devendra Kamtekar — CEO = 拍板人
+- 高管：Ranjan Gupta — Dy. Business Development Manager（研究档 KP）= 收件人
+- 高管：Nandini Singh — 研究档 KP = 抄
+- 控制人 / 股东：Smartlink Holdings Ltd 100%
+- **这意味着什么：**
+  - **上市集团 Make-in-India 品牌、工业线现由 HRUI 供 → 贴标 OEM 30% B BIG，加厚一次（Q-33 HRUI 口径：只推 SmartByte / Marvell 管理线 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业管理 STI-288DGGPM / STI-488DGGPM（SKD / 板级可谈，配合其本地制造）+ 中性包装；不报与 HRUI 同款；英文，Ranjan 直呼 + Nandini 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选升 A
+  - CIN 未取 → 部分坐实；稿内不点名 HRUI / 不声称 BIS / TEC
+- 备注：贴标 30%；B BIG 加厚一次；部分坐实（法人名 + 上市母公司 + CEO + 营收；CIN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,16 +147,19 @@ updated: 2026-10-28
 - **【用户表】工业 FS 来自洪瑞/Utepo，商用来自新桥**
   > 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业；工业FS MC 线缆 Pon 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ranjan Gupta（）ranjan.gupta@digisol.com 〔用户表〕
-- **KP**：Nandini Singh（）nandini.singh@digisol.com 〔用户表〕
+- **KP**：Ranjan Gupta（Dy. Business Development Manager（研究档）= 收件人（第 114 批 官方登记核实 2026-10-28））ranjan.gupta@digisol.com 〔用户表〕
+- **KP**：Nandini Singh（Deputy Manager（研究档）= 抄（第 114 批 官方登记核实 2026-10-28））nandini.singh@digisol.com 〔用户表〕
+- **KP**：Devendra Kamtekar（CEO DIGISOL Systems Limited（owler）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.owler.com/company/digisol〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | DIGISOL Systems Limited（Smartlink Holdings Ltd（BSE 上市）100% 子公司；孟买总部 / 果阿 Verna 工厂；Q2 FY26 营收 ₹6,327.58 lakh / 季、PAT ₹268.43 lakh；CIN 未取） |
+| 成立 | 未取（品牌 1993）（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | 官网 digisol.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 digisol.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 114 批：上市集团 Make-in-India 品牌，工业线现由 HRUI 供 → **贴标 OEM 30% B BIG，加厚一次（Q-33 HRUI 口径：只推 SmartByte / Marvell 管理线 STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + 工业管理 STI-288DGGPM / STI-488DGGPM（SKD / 板级可谈）+ 中性包装；不报与 HRUI 同款；Ranjan 直呼 + Nandini 抄）**；回信 → 次候选升 A；CIN 未取 → 部分坐实；不点名 HRUI / 不声称 BIS / TEC（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：交换机（商用 / 工业 / 多千兆 L3）；FTTH / PON / MC / 布线 / 监控（自有品牌）
 
@@ -237,8 +256,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ranjan Gupta | — | ranjan.gupta@digisol.com | 调研核实（公开页） | 用户表 |
-| Nandini Singh | — | nandini.singh@digisol.com | 调研核实（公开页） | 用户表 |
+| Ranjan Gupta | Dy. Business Development Manager（研究档）= 收件人（第 114 批 官方登记核实 2026-10-28） | ranjan.gupta@digisol.com | 调研核实（公开页） | 用户表 |
+| Nandini Singh | Deputy Manager（研究档）= 抄（第 114 批 官方登记核实 2026-10-28） | nandini.singh@digisol.com | 调研核实（公开页） | 用户表 |
+| Devendra Kamtekar | CEO DIGISOL Systems Limited（owler）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.owler.com/company/digisol |
 
 - **通道建议**：企业邮箱可直发
 

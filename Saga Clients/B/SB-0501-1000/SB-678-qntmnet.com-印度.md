@@ -83,6 +83,23 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：signalhire（Quantum Networks SG Pte Ltd；Ahmedabad Gujarat；Vidur Batra Vice President - System Engineering；@qntmnet.com 60 employees）+ rocketreach（Quantum Networks employs 57；Edgar Dias CRO；Dishen Majithia COO；Abhijit Potdar Corporate Vice President New Delhi；Vidur Batra VP System Engineering Bengaluru；IT dept 9）；印度法人 / CIN 未见；1 查即停；2026-10-28，2026-10-28 查；https://rocketreach.co/quantum-networks-management_b40c3be3ffc352b3）：**
+
+- 法定名 / 登记号：Quantum Networks（qntmnet.com；印度艾哈迈达巴德总部 + 新德里 / 班加罗尔 / 金奈 / 加尔各答 / 海得拉巴团队；关联 Quantum Networks SG Pte Ltd（新加坡））— 云管理全栈网络品牌（QN-S 交换机、工业 PoE QN-IS-225-8、AP / 控制器）；≈57 人；管理层 Edgar Dias（CRO）/ Dishen Majithia（COO）/ **Abhijit Potdar（Corporate VP = KP abhijit@）/ Vidur Batra（VP – System Engineering = KP）**；**印度法人名 / CIN 未取**（1 查仅见员工目录）；表内「国内的工业 switch」（现用中国产工业交换机）；未触达 · 未取（CIN；新加坡关联 Quantum Networks SG Pte Ltd） · 状态 **Active** · 成立 未取 · 未取（Pvt. Ltd. 推定 + SG Pte Ltd）
+- 行业码 / 经营范围：云管理网络 自有品牌（艾哈迈达巴德）
+- 注册地址：Ahmedabad, Gujarat（具体地址未取）
+- 规模档：中小型（≈57 人）
+- 账目：—；—
+- 高管：Abhijit Potdar — Corporate Vice President（研究档 KP abhijit@）= 拍板人
+- 高管：Vidur Batra — VP System Engineering（研究档 KP）= 收件人
+- 高管：Dishen Majithia — COO
+- 高管：Edgar Dias — CRO
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌（含工业 PoE 子线）、现用中国产工业交换机 → 贴标 OEM 30% B BIG，加厚一次（切口：只做其 QN-IS 工业线的第二代工源 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + 中性包装 / 自编货号 + 3 年保；云管理线不碰、稿内不声称云管理；英文，Vidur 直呼 + Abhijit 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选
+  - 法人 / CIN 未取 → 部分坐实；付款 T/T 预付
+- 备注：贴标 30%；B BIG 加厚一次；部分坐实（品牌 + 团队 + KP；CIN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,16 +143,18 @@ updated: 2026-10-28
 - **【用户表】国内的工业 switch**
   > 国内的工业switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Vidur Batra（）vidur.batra@qntmnet.com 〔用户表〕
-- **KP**：Abhijit Potdar（）abhijit@qntmnet.com 〔用户表〕
+- **KP**：Vidur Batra（Vice President – System Engineering, Pre-Sales & Post-Sales Strategy（signalhire / rocketreach）= 收件人（第 114 批 官方登记核实 2026-10-28））vidur.batra@qntmnet.com 〔用户表〕
+- **KP**：Abhijit Potdar（Corporate Vice President（rocketreach；New Delhi）= 拍板人 / 抄（第 114 批 官方登记核实 2026-10-28））abhijit@qntmnet.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Quantum Networks（qntmnet.com；Ahmedabad 总部 + 多城团队；≈57 人；COO Dishen Majithia / CRO Edgar Dias；关联 Quantum Networks SG Pte Ltd；印度法人 / CIN 未取） |
+| 成立 | 未取（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | 官网 qntmnet.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 qntmnet.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 114 批：云管理全栈自有品牌（含工业 PoE 子线 QN-IS），现用中国产工业交换机 → **贴标 OEM 30% B BIG，加厚一次（只做 QN-IS 工业线第二代工源 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + 中性包装 + 3 年保；云管理线不碰、不声称云管理；Vidur 直呼 + Abhijit 抄）**；CIN 未取 → 部分坐实；T/T 预付（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：云管理交换机 / AP（自有品牌）；工业 PoE 交换机（QN-IS 系列）
 
@@ -225,8 +244,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Vidur Batra | — | vidur.batra@qntmnet.com | 调研核实（公开页） | 用户表 |
-| Abhijit Potdar | — | abhijit@qntmnet.com | 调研核实（公开页） | 用户表 |
+| Vidur Batra | Vice President – System Engineering, Pre-Sales & Post-Sales Strategy（signalhire / rocketreach）= 收件人（第 114 批 官方登记核实 2026-10-28） | vidur.batra@qntmnet.com | 调研核实（公开页） | 用户表 |
+| Abhijit Potdar | Corporate Vice President（rocketreach；New Delhi）= 拍板人 / 抄（第 114 批 官方登记核实 2026-10-28） | abhijit@qntmnet.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

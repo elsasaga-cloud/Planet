@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,6 +77,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 114 批（IN · 0 次检索（泛名「Smart Security Systems」+ gmail，无域名 / 城市线索）；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：Smart Security Systems（印度；Rk Ahir；rkahir65@gmail.com；无域名 / 地址）— 安防安装 / 经销，2019 起阿里国际站；商用 PoE 需求；2025-07 对 2 光 8 PoE 回「price」；**名称泛用 + gmail → 0 次检索** · 未取 · 状态 **—** · 成立 未取 · 未取（个体推定）
+- 行业码 / 经营范围：安防 安装 / 经销（印度）
+- 注册地址：未取
+- 规模档：微型（推定）
+- 账目：—；—
+- 高管：Rk Ahir — 经营者（研究档 KP；gmail）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **刚问过价（2025-07）→ 分销 20% small，一页纸一次（切口：STC-228GP（8 PoE + 2 SFP）一口价 + STC-028GP，MOQ 1、T/T 预付、FOB 深圳；英文）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动
+  - 未坐实（0 查）→ 只做预付
+- 备注：分销 20% small；一页纸一次；未坐实（0 查）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -99,16 +113,17 @@ updated: 2026-10-27
 - **【用户表】2019 年加入国际站 商业 PoE；2025-07 28poe→price**
   > 兴趣：2019年加入国际站 商业PoE；回复：price
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rk Ahir（）rkahir65@gmail.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Rk Ahir（Smart Security Systems 经营者（2025-07 对 2 光 8 PoE 回「price」）= 收件人（第 114 批 官方登记核实 2026-10-28））rkahir65@gmail.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Smart Security Systems |
+| 法定名称 | 未坐实（「Smart Security Systems」泛名 + gmail；0 查） |
+| 成立 | 未取（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 印度 |
-| 其他 | gmail；阿里国际站买家 |
+| 其他 | gmail；阿里国际站买家；第 114 批：刚问过价 → **分销 20% small，一页纸一次（STC-228GP 一口价 + STC-028GP，MOQ 1、T/T 预付、FOB 深圳）**；再无回声 → 不动；只做预付（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统安装 / 经销
 - **触达通道（公开）**：role: 安防安装商；region: 印度
@@ -141,7 +156,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rk Ahir | — | rkahir65@gmail.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Rk Ahir | Smart Security Systems 经营者（2025-07 对 2 光 8 PoE 回「price」）= 收件人（第 114 批 官方登记核实 2026-10-28） | rkahir65@gmail.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 
@@ -236,12 +251,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

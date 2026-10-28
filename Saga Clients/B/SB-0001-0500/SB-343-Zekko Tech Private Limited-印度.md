@@ -88,6 +88,22 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：zaubacorp（ZEKKO TECH PRIVATE LIMITED CIN U74999MH2016PTC285972；incorporated 16 Sep 2016；ROC Mumbai；paid up Rs. 100,000；Turbhe Industrial Park Unit No. 122）+ thecompanycheck（Employing 4；Chandrasekaran Iyer Whole-Time Director；Sivaraj Iyer Nagarajan Additional Director；Anjana Maju Director；past director Seema Santosh Singh；₹2.25 Cr open charges；AGM 30 Sep 2024）+ zekko.co.in/about-us（Unit 122 Plot C-56/1 Turbhe MIDC Navi Mumbai 400705；+91 91360 07767；sales@zekko.co.in）；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972）：**
+
+- 法定名 / 登记号：Zekko Tech Private Limited（zekko.co.in；CIN U74999MH2016PTC285972（2016-09-16；RoC Mumbai）；Unit 122, 1st Floor, C-56/1, Turbhe Industrial Park, TTC Industrial Area, Turbhe MIDC, Navi Mumbai 400705）— 企业 / 电信 IT 与自动化方案「开发 + 营销」公司（4 人；实缴 ₹1 lakh；未清抵押 ₹2.25 Cr）；Whole-Time Director Chandrasekaran Iyer、Directors Anjana Maju / Sivaraj Iyer Nagarajan（前董事 Seema Santosh Singh = KP Santosh Singh 关联）；KP Yashraj Sharma（Manager）；需求工业级 / SFP；WA 已加无实质回复 · CIN U74999MH2016PTC285972 · 状态 **Active** · 成立 2016-09-16 · Private Limited
+- 行业码 / 经营范围：电信 / IT / 自动化 方案商（新孟买）
+- 注册地址：Unit 122, 1st Floor, C-56/1, Turbhe Industrial Park, TTC Industrial Area, Turbhe MIDC, Navi Mumbai 400705
+- 规模档：微型（4 人）
+- 账目：未取；—
+- 高管：Chandrasekaran Iyer — Whole-Time Director
+- 高管：Yashraj Sharma — Manager（研究档 KP）= 收件人
+- 高管：Santosh Singh — 研究档 KP（与前董事 Seema Santosh Singh 关联待证）
+- 控制人 / 股东：Iyer / Maju（推定）
+- 抵押 / 诉讼 / 担保：₹2.25 Cr 未清抵押
+- **这意味着什么：**
+  - **4 人微型方案商、WA 已加无实质回复 → 集成 25% small，一页纸一次（切口：工业 PoE STI-054GP / STI-144GP + STC-228GP 一口价 + MOQ 1；光模块明说不做；英文，Yashraj 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动
+- 备注：集成 small；一页纸一次；坐实（CIN + 地址 + 董事 + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,16 +139,19 @@ updated: 2026-10-28
 - **【用户表】工业级 / SFP**
   > 兴趣：工业级/SFP
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Yashraj Sharma（）yashraj@zekko.co.in +91 75060 52047〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Santosh Singh（）santosh@zekko.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Yashraj Sharma（Manager（研究档）= 收件人（第 114 批 官方登记核实 2026-10-28））yashraj@zekko.co.in +91 75060 52047〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Santosh Singh（Manager（研究档；与前董事 Seema Santosh Singh 关联待证）= 抄（第 114 批 官方登记核实 2026-10-28））santosh@zekko.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Chandrasekaran Iyer（Whole-Time Director（MCA；DIN 06879733）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Zekko Tech Private Limited |
+| 法定名称 | Zekko Tech Private Limited（CIN U74999MH2016PTC285972；Unit 122, 1st Floor, C-56/1, Turbhe Industrial Park, TTC Industrial Area, Turbhe MIDC, Navi Mumbai 400705；4 人；实缴 ₹1 lakh；未清抵押 ₹2.25 Cr） |
+| 成立 | 2016-09-16（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Mumbai, India |
+| 其他 | 第 114 批：4 人微型方案商、WA 已加无实质回复 → **集成 25% small，一页纸一次（工业 PoE STI-054GP / STI-144GP + STC-228GP 一口价 + MOQ 1；光模块不做；Yashraj 直呼）**；再无回声 → 不动（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业 / 电信 IT 方案；工业自动化网络
 - **触达通道（公开）**：role: 方案商 / 集成；region: 印度（孟买）
@@ -202,8 +221,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Yashraj Sharma | — | yashraj@zekko.co.in / +91 75060 52047 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Santosh Singh | — | santosh@zekko.co.in | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Yashraj Sharma | Manager（研究档）= 收件人（第 114 批 官方登记核实 2026-10-28） | yashraj@zekko.co.in / +91 75060 52047 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Santosh Singh | Manager（研究档；与前董事 Seema Santosh Singh 关联待证）= 抄（第 114 批 官方登记核实 2026-10-28） | santosh@zekko.co.in | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Chandrasekaran Iyer | Whole-Time Director（MCA；DIN 06879733）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

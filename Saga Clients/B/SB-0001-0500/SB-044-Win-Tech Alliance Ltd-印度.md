@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN / HK · 1 次检索：importgenius（Win-tech Alliance Ltd；Room 702b 7/f Valley Centre 80-82 Marrison Hill Road Wanchai Hong Kong；17 shipments；partners RADIX ELECTROSYSTEMS PVT LTD / GREENGLOBE FUEL SOLUTIONS / PUSHPAM；products Li-SOCl2 battery packs, 5" TFT LCD, IP68 plastic box, hand weighing scale；2022–2024）；HK CR 编号未见；1 查即停；2026-10-28，2026-10-28 查；https://www.importgenius.com/india/suppliers/win-tech-alliance-ltd）：**
+
+- 法定名 / 登记号：Win-Tech Alliance Ltd（**香港注册贸易商：Room 702B, 7/F, Valley Centre, 80-82 Morrison Hill Road, Wanchai, Hong Kong**；孟买操盘人 Harvinder Luthra +91 98199 91960 WA 已加；luthra@win-alliance.com；域名占位）— 对印度进口商的中国 / 香港元器件与成品供应商（海关记录 17 票：Radix Electrosystems / Greenglobe Fuel Solutions / Pushpam 等；锂电池、LCD、IP68 盒、秤）；**提出 5 / 8 口 2.5G 交换机 CKD 模式（散件进口、印度组装）**；2024 多次「暂时没需求」；HK 公司编号未取 · 未取（HK 公司编号） · 状态 **Active（2024-09 仍有出货）** · 成立 未取 · Limited（香港）
+- 行业码 / 经营范围：元器件 / 成品 进口代理（香港法人，孟买操盘）
+- 注册地址：Room 702B, 7/F, Valley Centre, 80-82 Morrison Hill Road, Wanchai, Hong Kong（操盘 Mumbai）
+- 规模档：微型（贸易）
+- 账目：—；—
+- 高管：Harvinder Luthra — 负责人（研究档 KP；WA 已加）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **香港贸易商替印度组装厂找 2.5G CKD → 分销 20% small，一页纸一次（切口：2.5G 整机 / SKD 方案 + MOQ + 单价区间；**待 Simon 定 SmartByte 2.5G 型号口径（与 SB-263 同一待办）后再发**；英文，Harvinder 直呼；WA 同步）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；无 2.5G 口径或再无回声 → 不动
+  - iso 保留 IN（操盘地）；法人为 HK → 部分坐实；报价 FOB 深圳 / 香港皆可
+- 备注：分销 20% small；一页纸一次（待 2.5G 口径）；部分坐实（HK 地址 + 海关记录；编号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,7 +124,7 @@ updated: 2026-10-28
 - **【用户表】兴趣 5 8 口 2.5G 交换机 CKD 模式；回复暂时没需求 ×2；发邮件给他 他发需求**
   > 兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Harvinder Luthra（）luthra@win-alliance.com +91 98199 91960〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Harvinder Luthra（Win-Tech Alliance Ltd（香港法人）孟买负责人；提出 5 / 8 口 2.5G 交换机 CKD = 收件人（第 114 批 官方登记核实 2026-10-28））luthra@win-alliance.com +91 98199 91960〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——CKD 散件模式需工厂直接配合（Saga 为贸易商，需 SmartByte 同意拆件供货，可行性未定）；印度非主攻区；1 次回复后 12 次推送无果 → 慢跟。
 - 备注：若 SmartByte 可做 2.5G 整机/半散件，一次性给方案与 MOQ；否则停。
 
@@ -118,9 +132,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Win-Tech Alliance Ltd（待核） |
+| 法定名称 | Win-Tech Alliance Ltd（香港：Room 702B, 7/F, Valley Centre, 80-82 Morrison Hill Road, Wanchai；海关记录 17 票对印度进口商 Radix Electrosystems / Greenglobe / Pushpam；HK 公司编号未取） |
+| 成立 | 未取（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Mumbai, India |
-| 其他 | CKD / 本地组装意向 |
+| 其他 | CKD / 本地组装意向；第 114 批：香港贸易商替印度组装厂找 2.5G CKD → **分销 20% small，一页纸一次（2.5G 整机 / SKD 方案 + MOQ + 单价区间；待 Simon 定 SmartByte 2.5G 型号口径（与 SB-263 同一待办）后再发；WA 同步）**；无口径或再无回声 → 不动；法人 HK、操盘 Mumbai → iso 保留 IN；部分坐实（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品进口 / 本地组装（CKD）
 - **触达通道（公开）**：role: 进口组装商（OEM/CKD）；region: 印度
@@ -185,7 +200,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Harvinder Luthra | — | luthra@win-alliance.com / +91 98199 91960 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Harvinder Luthra | Win-Tech Alliance Ltd（香港法人）孟买负责人；提出 5 / 8 口 2.5G 交换机 CKD = 收件人（第 114 批 官方登记核实 2026-10-28） | luthra@win-alliance.com / +91 98199 91960 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Harvinder Luthra | — | luthra@win-alliance.com / +919819991960 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

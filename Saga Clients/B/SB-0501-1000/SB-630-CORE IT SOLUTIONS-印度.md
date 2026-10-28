@@ -97,6 +97,20 @@ updated: 2026-10-28
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
 
+**公司底数 · 第 114 批（IN · 1 次检索：zaubacorp（CORE IT SOLUTIONS PRIVATE LIMITED CIN U72100MH2005PTC153203；incorporated 11 May 2005；ROC Mumbai；402 Panchmukhi Apartment Old Belapur Road Kalwa Thane；Company Status Strike Off；Hardware consultancy）—— 与 citsindia.com 是否同一主体未证；1 查即停；2026-10-28，2026-10-28 查；https://www.zaubacorp.com/company/CORE-IT-SOLUTIONS-PRIVATE-LIMITED/U72100MH2005PTC153203）：**
+
+- 法定名 / 登记号：Core IT Solutions（CITS；citsindia.com；孟买 IT 服务商：应用 / ERP、备份、云、FMS / AMC、ISP 服务、网络架构）— 1 次检索仅见同名 **CORE IT SOLUTIONS PRIVATE LIMITED CIN U72100MH2005PTC153203（2005-05-11；Thane Kalwa；Strike Off）** —— 是否同一主体未证（Strike Off 公司 ≠ 现运营站点可能性大）；KP Sarwar 原邮箱退信，仅 info@；2025-06 对 10G MC 群发回「price」 · 未证（同名 CIN U72100MH2005PTC153203 已 Strike Off） · 状态 **未证（同名法人 Strike Off）** · 成立 未取 · 未取
+- 行业码 / 经营范围：IT 服务 / 网络（孟买）
+- 注册地址：Mumbai（具体未取）
+- 规模档：未取
+- 账目：—；—
+- 高管：Sarwar — 研究档 KP（邮箱退信）
+- 高管：（info@citsindia.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **KP 邮箱退信 + 法人线索仅为 Strike Off 同名 → 身份不清；不动（B 保留；若 info@ 回声再核）**
+- 备注：不动（身份不清 / 地址失效）；未坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,10 +143,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Core IT Solutions |
-| 成立 | （待核） |
+| 法定名称 | Core IT Solutions（citsindia.com；孟买；1 查仅见同名 CORE IT SOLUTIONS PRIVATE LIMITED CIN U72100MH2005PTC153203（Thane；Strike Off）—— 是否同一主体未证） |
+| 成立 | 未取（第 114 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Mumbai, India |
-| 其他 | info@citsindia.com |
+| 其他 | info@citsindia.com；第 114 批：KP Sarwar 邮箱退信 + 法人线索仅为 Strike Off 同名 → **身份不清；不动（B 保留；info@ 回声再核）**（第 114 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 服务 / AMC / 云 / ISP 服务；网络硬件采购（SFP / MC / 交换机 / 路由）
 - **触达通道（公开）**：role: IT 服务商（项目采购）；region: 印度（孟买）

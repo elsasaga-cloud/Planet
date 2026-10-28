@@ -83,6 +83,19 @@ updated: 2026-10-28
 - 法定假日：01-26 Republic Day；03-06 Maha Shivaratri；03-10 Eid al-Fitr (estimated)；03-22 Holi；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 114 批（IN · 1 次检索：tradeindia（Fastball；GST 07AJJPR5445G1ZX；Proprietor Mr. Rishi Bansal；A 47/A Gali No. 4 Ashok Nagar Delhi 110093；Established 2021）+ splicingmachines.com（Rishi Kumar Bansal CEO；Signal Fire AI-5 exclusively import by FASTBALL in India；Main Shukra Bazar Road）+ indiamart（Founded 2016；Proprietorship；Upto 10 People；GST Registration 2021）；2026-10-28，2026-10-28 查；https://www.indiamart.com/fastball/profile.html）：**
+
+- 法定名 / 登记号：Fastball（Fastball Telecom & Networking；fastball.in；**个体经营 Rishi Kumar Bansal；GSTIN 07AJJPR5445G1ZX（2021）**；A-47/A, Gali No. 4, Main Shukra Bazar Road, Ashok Nagar, Delhi 110093）— FTTH / 光纤工具与配线分销（Signal Fire 熔接机印度独家进口、LIU / 配线架）；≤10 人；2016 起（IndiaMART 自述）；**成单 1 次（STSC20231009002，2023-10-09）；Simon 标 gg（已凉）** · GSTIN 07AJJPR5445G1ZX · 状态 **Active** · 成立 2016（GST 2021） · Proprietorship（个体）
+- 行业码 / 经营范围：FTTH 工具 / 光配线 分销（德里）
+- 注册地址：A-47/A, Gali No. 4, Main Shukra Bazar Road, Ashok Nagar, Delhi 110093
+- 规模档：个体 / 微型（≤10 人）
+- 账目：—；—
+- 高管：Rishi Kumar Bansal — Proprietor / CEO（研究档单据联系人 office@fastball.in）
+- 控制人 / 股东：Bansal
+- **这意味着什么：**
+  - **个体 FTTH 工具商、成单 1 次后已凉（gg）→ 不动（B 保留；复购自来时按老价 + T/T）**
+- 备注：不动（个体 + gg）；坐实（GSTIN + 业主 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,10 +130,16 @@ updated: 2026-10-28
 - **【公开平台核查（T29-U18）】splicingmachines.com：Fastball 独家进口 Signal Fire AI-5 / AI-9 熔接机，全印分销（孟买/特伦甘纳/加尔各答/德里/勒克瑙）**
   > Importer · Exclusively Import by FASTBALL in India … Distributor · Available in Mumbai, Telangana, Kolkata, Delhi, Lucknow
   > 来源：https://www.splicingmachines.com/fiber-optic-splicing-machine.html（抓取 2026-10-23）
-- **KP**：Rishi Kumar Bansal（单据联系人）office@fastball.in 〔PI.zip 单据〕
+- **KP**：Rishi Kumar Bansal（Proprietor / CEO Fastball（GST 07AJJPR5445G1ZX）— 成单 1 次后 gg（第 114 批 官方登记核实 2026-10-28））office@fastball.in 〔PI.zip 单据〕
 - **调研后定级**：B（原自动 A）——PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）
 
 ### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Fastball（Fastball Telecom & Networking；个体经营 Rishi Kumar Bansal；GSTIN 07AJJPR5445G1ZX；A-47/A, Gali No. 4, Main Shukra Bazar Road, Ashok Nagar, Delhi 110093；≤10 人；Signal Fire 熔接机印度独家进口） |
+| 成立 | 2016（GST 2021）（第 114 批 官方登记核实 2026-10-28） |
+| 其他 | 第 114 批：个体 FTTH 工具 / 光配线分销，成单 1 次（STSC20231009002）后已凉 → **不动（B 保留；复购自来按老价 + T/T）**（第 114 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：公开动态平台（监控中，T29-U18）: 官网 fastball.in（WordPress，RSS）；IndiaMART 店铺 indiamart.com/fastball（产品上新最勤）；TradeIndia 店铺；Rishi Kumar Bansal（CEO/业主，个体 GST 07AJJPR5445G1ZX，2021）
 - **近况信号**：
@@ -183,7 +202,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rishi Kumar Bansal | 单据联系人 | office@fastball.in | 调研核实（公开页） | PI.zip 单据 |
+| Rishi Kumar Bansal | Proprietor / CEO Fastball（GST 07AJJPR5445G1ZX）— 成单 1 次后 gg（第 114 批 官方登记核实 2026-10-28） | office@fastball.in | 调研核实（公开页） | PI.zip 单据 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
