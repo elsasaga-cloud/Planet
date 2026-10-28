@@ -4,7 +4,7 @@
   "source": "Canada · Corporations Canada / Ontario 登记（OpenCorporates 摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 28
+  "count": 32
  },
  "rows": {
   "SA-087": {
@@ -920,6 +920,131 @@
    ],
    "notes": "集成 / 分销 20–25%；B BIG 加厚一次（CENTEC 敲门砖）；部分坐实（法定名 + 址 + 高管 + 规模；NEQ 未取）。",
    "code": "SB-749"
+  },
+  "SB-1118": {
+   "batch": 113,
+   "name": "Télécommunications Alain Casault / CSPE（Centre de services professionnels en éducation；alaincasault.com / educationhmo.com；78 rue Blainville Ouest, Sainte-Thérèse, QC J7E 1X3）— **研究档「教育机构 IT」有误：实为 MikroTik 认证培训师 + 电信咨询个体业务**（Alain Casault ing.，1991 年起电气工程师，CSPE 副总裁 / 联合创始人，1996 起；1–10 人）；Alan 2026-09-29 单发后本人回「现在不要，留着邮箱以后参考」",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：alaincasault.com/ca/centre-de-formation（Centre de services professionnels en éducation 78 rue Blainville Ouest Sainte-Thérèse QC J7E 1X3；514-394-0419）+ alaincasault.com/ca/a-propos（electrical engineer since 1991；MikroTik certified trainer；wrote current MTCNA）+ solimedia.net/alain（CSPE … top Mikrotik training facilities in North America；casault.alain@educationhmo.com）+ zoominfo（Founded 1996；1-10；Vice President IT at Cspe）+ yellowpages（CSPE 450-686-4585；educationhmo.com）；NEQ 未取；2026-10-28",
+   "url": "https://alaincasault.com/ca/a-propos/",
+   "number": "未取（NEQ）",
+   "status": "Active",
+   "incorporated": "1996（CSPE）",
+   "company_type": "未取（个体 / 小公司）",
+   "sic": [
+    "MikroTik 培训 + 电信咨询（魁北克 Sainte-Thérèse）"
+   ],
+   "address": "78 rue Blainville Ouest, Sainte-Thérèse, QC J7E 1X3",
+   "accounts": "<$5M（估）",
+   "accounts_due": "—",
+   "size_band": "微型（1–10 人）",
+   "officers": [
+    "Alain Casault, ing. — 副总裁 / 联合创始人 CSPE；培训师本人（研究档 KP）"
+   ],
+   "psc": "Casault 家族（CSPE）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**MikroTik 培训师个体（非渠道、明示「现在不要」）→ 不动（B 保留；他主动来询再报）**",
+    "研究档类型「教育机构 / 终端用户」更正为 MikroTik 培训 / 咨询"
+   ],
+   "notes": "不动（非渠道 + 婉拒）；部分坐实（地址 + 本人 + 年份；NEQ 未取）；研究档类型更正。",
+   "code": "SB-1118"
+  },
+  "SB-555": {
+   "batch": 113,
+   "name": "TACEL LTD.（tacel.ca；联邦公司号 081582-9，CBCA 1979-02-14；总部 1148 Bellamy Road North, Scarborough (Toronto), ON M1H 1H2；分部 QC（8008 Rue Jarry, Anjou）/ AB / BC）— 加拿大领先的智能交通（ITS）与交通控制设备供应商 **兼交通机柜制造商**（ISO 9001:2015；ATC 控制器、交通管理系统、机柜总成、行人声响信号、检测器；Sensys Networks 加拿大独家分销 2023）；11–50 人；估 $19.1M；President Gil Marques（2015–；研究档 KP）、VP & GM Jeffrey Smart、George Soares GM；表内「Etherwan 的工业 FS」「可以多跟进一下」；8 封 0 回",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：companiesofcanada.com（TACEL LTD. 081582-9；Canada Business Corporations Act 1979-02-14；Non-distributing corporation）+ LinkedIn Tacel Ltd（incorporated in 1979；ITS Specialists & Canadian Traffic Cabinet Manufacturer；11-50；Scarborough）+ roadauthority.com（1148 Bellamy Road North Scarborough ON M1H 1H2；Manufacturer, Distributor；Gil Marques gil.marques@）+ zoominfo（$19.1M；Gil Marques President；Anjou QC 分部 8008 Rue Jarry）+ sensysnetworks 2023-03-27（sole distributor for Canada）+ rocketreach（ISO 9001:2015；branch offices AB / BC / QC）；2026-10-28",
+   "url": "https://www.companiesofcanada.com/company/081582-9/",
+   "number": "联邦公司号 081582-9（Corporations Canada）",
+   "status": "Active",
+   "incorporated": "1979-02-14",
+   "company_type": "Ltd.（联邦 CBCA）",
+   "sic": [
+    "智能交通 ITS 设备供应 + 交通机柜制造（多伦多）"
+   ],
+   "address": "1148 Bellamy Road North, Scarborough, ON M1H 1H2",
+   "accounts": "估 $19.1M（zoominfo）",
+   "accounts_due": "—",
+   "size_band": "中小型（11–50 人）",
+   "officers": [
+    "Gil Marques — President（2015–；研究档 KP gil.marques@）= 拍板人 / 收件人",
+    "Gabor Szabo — 研究档 KP（gabor.szabo@；职务待核）= 抄",
+    "George Soares — General Manager（研究档 KP）",
+    "Kevan Correia — VP / Sales Manager"
+   ],
+   "psc": "未取（100% 加拿大私有）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**交通机柜制造商 + ITS 分销、现用台系工业交换机 → 配套 / 集成 25–30% B，加厚一次（切口：机柜内 CCTV / 通信用工业 PoE / 非 PoE 交换机 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 作第二来源 + 宽温 + 3 年保 + 加拿大 DAP；英文，Gil 直呼 + Gabor 抄；一问：非信号机网络（CCTV / 通信）是否可接受工业级 CE / FCC 而非 NEMA TS2）；回信 → 次候选**",
+    "守界：Saga 无 NEMA TS2 / 交通信号认证 → 稿内绝不声称；只谈机柜内 CCTV / 通信侧网络；不点名 EtherWAN；发信窗口 CA Wed 08–10 ET"
+   ],
+   "notes": "配套 / 集成 25–30%；B 加厚一次；坐实（联邦公司号 + 成立日 + 地址 + 总裁）。",
+   "code": "SB-555"
+  },
+  "SB-694": {
+   "batch": 113,
+   "name": "François Burton（个人；Gmail francois.burton0@；+1 613 渥太华区号；表内名「Le Reveil」）— 需求「8 / 12 个 SFP+ 以上纯光口、不要网管 / 电口、工业温度」（Saga 工业线无此规格）；WA 已加；15 次跟进 0 回 — 无公司名 / 域名可查 → 0 次检索",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 0 次检索（仅 Gmail + 人名 + 手机区号；无法人线索）；按个人户处理；2026-10-28",
+   "url": "",
+   "number": "未取（个人）",
+   "status": "—",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "个人 / 小型需求方（渥太华）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "François Burton — 本人（WA / Gmail）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个人 Gmail 户 + 需求规格我方无（≥8×SFP+ 纯光口工业机）+ 15 次无果 → 不动（B 保留）**"
+   ],
+   "notes": "未坐实（个人，0 查）→ 不动。",
+   "code": "SB-694"
+  },
+  "SB-731": {
+   "batch": 113,
+   "name": "「JTS Telecom」（Hotmail joejts@；署名 Joe / 显示名 joy tann；加拿大小型电信承包 / 个体）— 1 次检索无命中（jts.net = 美国德州 JTS 无线集成商 ≠；JTS Consulting Inc. / JTS Contracting / JTS Mechanical 均 ≠）→ 未坐实；2024-07-30 索价表后 2025-11-21 回「No」",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "CA · 1 次检索：「\"JTS Telecom\" Canada Ontario」无对应法人（命中 jts.net 德州 JTS（Jim Johnston 1988，≠）/ jtsconsulting.ca（JTS Consulting Inc.，基础设施咨询，≠）/ jts-contracting.com（装修，≠）/ JTS Mechanical Systems Inc. Guelph（暖通，≠））；1 查即停；2026-10-28",
+   "url": "",
+   "number": "未取",
+   "status": "未取",
+   "incorporated": "未取",
+   "company_type": "个体 / 未登记（推定）",
+   "sic": [
+    "小型电信承包（加拿大，待证）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "个人 / 微型",
+   "officers": [
+    "Joe（显示名 joy tann）— 来信署名人（研究档 KP joejts@hotmail.com）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Hotmail 个体 + 查无实体 + 已回「No」→ 不动（B 保留）**"
+   ],
+   "notes": "未坐实（1 查即停）→ 不动。",
+   "code": "SB-731"
   }
  }
 }
