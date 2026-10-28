@@ -86,6 +86,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 101 批（DE · 1 次检索：官网 Impressum（Industrial Personal Computer 2U GmbH；Frankenring 6, D-30855 Langenhagen；+49 511 807 259-0；sales@ipc2u.de；USt-IdNr DE250846309；WEEE DE 353 065 04；台湾电话 +886 (2) 2930 1196）+ evsedo.de Impressum（Register AG Hannover HRB B201075；Geschäftsführer Arthur Barasch）+ Northdata（HRB 201075；LEI 5299004NVERIA0XMW716；2024-11-15 Name: Industrial Personal Computer 2U GmbH，此前 IPC2U GmbH；MD Arthur Barasch）+ companyhouse（Arthur Barasch, Berlin；alleinvertretungsberechtigt；另任 inektra GmbH / invara UG）+ 官网首页（「internationaler Anbieter und Systemintegrator für industrielle Computing-Lösungen mit mehr als 25 Jahren Erfahrung」；工业 PC / 嵌入式 / 面板 PC / 边缘服务器 / 19 英寸机架 / **industrielle Netzwerklösungen**；定制平台）+ openPR（IPC2U 成为 RuggON 德国分销商），2026-10-28 查；https://www.northdata.com/Industrial%20Personal%20Computer%202U%20GmbH,%20Langenhagen/Amtsgericht%20Hannover%20HRB%20201075）：**
+
+- 法定名 / 登记号：Industrial Personal Computer 2U GmbH（2024-11-15 前名 IPC2U GmbH；ipc2u.de / ipc2u.com；Langenhagen bei Hannover）— 25 年以上的工业电脑 / 嵌入式 / 面板 PC / 工业网络方案分销商兼系统集成商（EMEA；台湾采购口 +886；RuggON 等品牌分销）；Amtsgericht Hannover HRB 201075；**GF Arthur Barasch = 研究档 KP 本人** · HRB 201075（Amtsgericht Hannover）· LEI 5299004NVERIA0XMW716 · USt-ID DE250846309 · 状态 **Aktiv（Embedded World 2026 参展）** · 成立 未取（经营 25 年以上；公司号 2010 年代） · GmbH（GF Arthur Barasch，单独代表权）
+- 行业码 / 经营范围：工业电脑 / 嵌入式 / 面板 PC / 工业边缘服务器 / 19 英寸机架电脑分销与系统集成（整机装配、OS 预装、测试）；工业网络方案（交换机 / 网关 / IoT 网关）配套分销
+- 注册地址：Frankenring 6, 30855 Langenhagen
+- 规模档：小型（人数未取）
+- 账目：—；—
+- 高管：Arthur Barasch — Geschäftsführer（Berlin；单独代表）= **研究档 KP barasch@ 本人**
+- 控制人 / 股东：Arthur Barasch（推定）
+- 曾用名：IPC2U GmbH（— 2024-11）
+- **这意味着什么：**
+  - **工业 PC 分销 + 自带「工业网络方案」品类 + 台湾采购口 + GF 本人收件 → 分销 20%（可谈 IPC2U 标工业交换机 OEM 30%）**：STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE（导轨宽温，配其工业 PC 方案）；B BIG，**加厚**（对标台系工业交换机价 + 3 年保修 + MOQ 1）
+  - 表内 1 次跟进无回复 → 第二次触达换主题「DIN-rail managed switches as a second source beside your Taiwan line — your label possible」；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）
+- 备注：分销 20% / 可谈贴标；KP = GF 本人；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,15 +144,18 @@ updated: 2026-10-28
 - **【用户表】MaiWe**
   > MaiWe
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Arthur Barasch（）barasch@ipc2u.de 〔用户表〕
+- **KP**：Arthur Barasch（Geschäftsführer（单独代表权；Berlin；Amtsgericht Hannover HRB 201075）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28））barasch@ipc2u.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 ipc2u.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Industrial Personal Computer 2U GmbH（2024-11-15 前名 IPC2U GmbH；HRB 201075 Hannover；LEI 5299004NVERIA0XMW716；USt-ID DE250846309） |
+| 成立 | 未取（经营 25 年以上）（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Frankenring 6, 30855 Langenhagen |
+| 人数 | 小型（人数未取） |
+| 其他 | 官网 ipc2u.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 101 批：工业电脑 / 嵌入式分销 + 系统集成 + 自带工业网络方案品类 + 台湾采购口 + GF 本人收件 → **分销 20%（可谈 IPC2U 标 OEM 30%）**（STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE 配其工业 PC）；B BIG；加厚；升 A 候选（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业计算机系统（Box PC / DIN 导轨 PC / 面板 PC）；工业自动化组件分销（Moxa / Advantech / Maiwe）
 - **触达通道（公开）**：role: 工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）；region: 德国；contact: sales@ipc2u.com、barasch@ipc2u.de
@@ -231,7 +249,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arthur Barasch | — | barasch@ipc2u.de | 调研核实（公开页） | 用户表 |
+| Arthur Barasch | Geschäftsführer（单独代表权；Berlin；Amtsgericht Hannover HRB 201075）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28） | barasch@ipc2u.de | 调研核实（公开页） | 用户表 |
 | MaiWe | — | sales@ipc2u.com / barasch@ipc2u.de | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

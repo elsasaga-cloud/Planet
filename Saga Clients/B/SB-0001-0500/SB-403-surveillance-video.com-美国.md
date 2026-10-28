@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -98,6 +98,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 101 批（US · 1 次检索：BBB 类目页（Surveillance-Video.com；Accredited Business；BBB Rating A+；Surveillance Equipment / Security Cameras / Security System Monitors；(800) 955-5201；387 Canal Street, New York, NY 10013；Service Area USA）×4 页一致；法定名 / NY DOS 号未取（BBB 详情页未入结果），2026-10-28 查；https://www.bbb.org/us/ny/manhattan/category/security-equipment）：**
+
+- 法定名 / 登记号：Surveillance-Video.com（surveillance-video.com；New York, NY 387 Canal Street）— BBB A+ 认证的安防摄像机 / 监控设备在线零售批发商（表内「已售 E-link PoE 配件」）；**法定名未取 → 部分坐实** · 部分坐实（NY 实体；法定名 / DOS 号未取） · 状态 **Active（BBB 认证在册）** · 成立 未取 · 未取（私有零售批发商）
+- 行业码 / 经营范围：安防摄像机 / NVR / 监视器 / PoE 配件在线零售与批发（全美发货）
+- 注册地址：387 Canal Street, New York, NY 10013
+- 规模档：小型（人数未取）
+- 账目：—；—
+- 高管：无具名（研究档 info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **在线安防零售 + 已卖 PoE 配件** → **分销 20% small，一页纸**：STC-028GP / STC-228GP（4–8 口 PoE 零售款）+ STC-2216GP；MOQ 1、DAP 纽约
+  - 收件人 info@ 点名 purchasing；表内无具名 KP；发信窗口 Wed 08–10 ET；下轮补项：BBB 详情页法定名
+- 备注：分销 20% small；一页纸；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -141,9 +155,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Surveillance-Video.com（待核） |
-| 总部/地址 | USA（纽约，待核） |
-| 其他 | 已售 E-link PoE 配件 |
+| 法定名称 | Surveillance-Video.com（NY 实体法定名 / DOS 号未取 → 部分坐实） |
+| 总部/地址 | 387 Canal Street, New York, NY 10013（第 101 批 官方登记核实 2026-10-28） |
+| 其他 | 已售 E-link PoE 配件；第 101 批：BBB A+ 安防摄像机在线零售批发 → 分销 20% small（STC-028GP / STC-228GP / STC-2216GP）；一页纸；收件人 info@ 点名 purchasing（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防电商
 - **触达通道（公开）**：role: 电商；region: 美国
@@ -334,12 +348,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

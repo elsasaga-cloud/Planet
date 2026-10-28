@@ -83,6 +83,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 101 批（TR · 1 次检索：EMIS（Pcg Bilgisayar Sistemleri Pazarlama Sanayi Ve Ticaret Limited Sirketi；incorporated 2004-06-04；AC Moment Yapı No 4b/77 Soğanlık Yeni Mah. Baltacı Mehmetpaşa Sok. Kartal İstanbul 34880；Electronics Stores）+ 官网首页 / Markalar（1998 起；「Türkiye Resmi Gigabyte Enterprise Distribütörü」2016 起独家；NVIDIA Compute Partner；HPC / 数据中心 / 服务器方案）+ LinkedIn（1998；11–50；E-View İş İstasyonu ve Sunucu Çözümleri）+ RocketReach（5 人；1998）；MERSİS 号未取，2026-10-28 查；https://www.emis.com/php/company-profile/TR/Pcg_Bilgisayar_Sistemleri_Pazarlama_San_Ve_Tic_Ltd_Sti_en_3340875.html）：**
+
+- 法定名 / 登记号：PCG Bilgisayar Sistemleri Pazarlama San. ve Tic. Ltd. Şti.（pcgbilgisayar.com；İstanbul Kartal Soğanlık）— 1998 年起（EMIS 登记 2004-06-04）的服务器 / 工作站 / AI 算力分销商：**Gigabyte Enterprise 土耳其独家分销（2016 起）+ NVIDIA Compute Partner + E-View 自有工作站 / 服务器 + Rejitek 工业 PC 独家分销**；11–50 人 · Ltd. Şti.（İstanbul；EMIS 在册；MERSİS 号未取） · 状态 **Active（官网 2026-07 更新）** · 成立 1998（自述）/ 2004-06-04（EMIS 登记） · Limited Şirket（私有）
+- 行业码 / 经营范围：服务器 / 工作站 / GPU 算力 / 数据中心基础设施分销与集成（Gigabyte Enterprise 独家、NVIDIA、Rejitek 工业 PC）；自有品牌 E-View 工作站 / 服务器
+- 注册地址：Baltacı Mehmet Paşa Sok. No 4, Moment İstanbul B Blok D 77, Soğanlık, Kartal / İstanbul 34880
+- 规模档：小型（5–50 人）
+- 账目：—；—
+- 高管：Nalan（姓待核）— 研究档 KP nalan@（职务未核）
+- 高管：管理层姓名未取
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **卖服务器 / AI 算力的分销商 = 数据中心交换机客户（优先级规则）** → **分销 20%，DC 线为主**：STH-2C24XF-HSI（$1,500，24×25G + 100G 上联 ToR）/ STH-8C48DX-HSI（$4,800）/ STH-32C-HSI（$6,000，32×100G）配 Gigabyte 服务器机柜 + STC-110XGE（管理网）；B BIG，**加厚**（DC 方案一页纸 + 三档价 + 与白牌 ToR 对比）
+  - 收件人 nalan@（点名「sunucu / veri merkezi ürün müdürü」）；表内 1 次跟进无回复 → 第二次触达换主题「25G/100G ToR switches to ship with your Gigabyte racks」；发信窗口 Thu 10–12 TRT；升 A 候选（回信即 A）
+- 备注：分销 20%（DC 线 STH 为主）；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,17 +133,18 @@ updated: 2026-10-28
 - **【用户表】network appliance 询盘（珊姐转）**
   > network appliance / from: 珊姐转 / nalan@pcgbilgisayar.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Nalan（姓待核）（（用户表联系人））nalan@pcgbilgisayar.com（用户表） —（WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Nalan（姓待核）（研究档 KP（姓待核；职务未核）= 收件人（第 101 批 官方登记核实 2026-10-28））nalan@pcgbilgisayar.com（用户表） —（WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | PCG Bilgisayar Sistemleri Pazarlama San. ve Tic. Ltd. Şti. |
-| 成立 | 1998（业务）/ 2004-06-04（法人） |
-| 总部/地址 | Baltacı Mehmet Paşa Sok. No:4 Moment İstanbul B Blok D:77, Soğanlık, Kartal / İstanbul（+90 216 441 07 24；info@pcgbilgisayar.com） |
-| 其他 | Gigabyte Enterprise 独家分销；NVIDIA Compute Partner；Rejitek 工业 PC 独家分销（2026） |
+| 法定名称 | PCG Bilgisayar Sistemleri Pazarlama San. ve Tic. Ltd. Şti.（İstanbul Kartal；EMIS 在册；MERSİS 号未取） |
+| 成立 | 1998（自述）/ 2004-06-04（EMIS 登记）（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Baltacı Mehmet Paşa Sok. No 4, Moment İstanbul B Blok D 77, Soğanlık, Kartal / İstanbul 34880 |
+| 人数 | 5–50 人 |
+| 其他 | Gigabyte Enterprise 独家分销；NVIDIA Compute Partner；Rejitek 工业 PC 独家分销（2026）；第 101 批：服务器 / 存储 / 网络 IT 分销 → **分销 20%（DC 线 STH 为主）**：STH-2C24XF-HSI / STH-8C48DX-HSI / STH-32C-HSI + STC-448XGGPM；B BIG；加厚；升 A 候选（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：服务器/工作站/GPU/HPC 分销（Gigabyte、NVIDIA、E-View）；工业电脑与显示器分销（Rejitek，2026 起）；NAS（Terramaster/Thecus）
 - **触达通道（公开）**：网站: https://pcgbilgisayar.com/；电话: +90 216 441 07 24（公开）；邮箱（公开）: info@pcgbilgisayar.com；LinkedIn: https://tr.linkedin.com/company/pcgbilltd
@@ -200,7 +216,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nalan（姓待核） | （用户表联系人） | nalan@pcgbilgisayar.com（用户表） / —（WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Nalan（姓待核） | 研究档 KP（姓待核；职务未核）= 收件人（第 101 批 官方登记核实 2026-10-28） | nalan@pcgbilgisayar.com（用户表） / —（WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

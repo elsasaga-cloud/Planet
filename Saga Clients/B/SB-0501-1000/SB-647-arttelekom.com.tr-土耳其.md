@@ -80,6 +80,23 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 101 批（TR · 1 次检索：官网 İletişim（Art Telekom San.Tic.Ltd.Şti.；Mutlukent Mah. Angora Bulvarı Fesleğen Sok. No 7, Beysukent-Ankara；+90 312 472 47 47；Genel Müdür Hasan BALIKÇIOĞLU；Genel Müdür Yardımcısı Murat BALIKÇIOĞLU；**Dış Ticaret Müdürü Müjde BALIKÇIOĞLU**；Satış ve Proje Direktörü Tarkan ERDOĞAN）+ arttelekom.com Contact（Genel Müdürlük Ankara + İstanbul Ofis Kartal Uprise Elit Residence；方案：公共广播 / 同传 / AV / 结构化布线与网络 / 卫星电视 / 无线 / 光纤 / KGYS）+ LinkedIn（ART TELEKOM A.Ş.；1980 Ankara；11–50；Müjde Balıkçıoğlu 另任 TECOM Mühendislik A.Ş. Director Distribution Channel）+ EMIS（Art Telekom A.S.；incorporated 2002-06-26；Çankaya Ankara 06800）+ RocketReach（11 人；1980；Müjde — International Trade Manager）；MERSİS 号未取，2026-10-28 查；https://www.arttelekom.com.tr/iletisim/art-telekom-iletisim）：**
+
+- 法定名 / 登记号：Art Telekom San. Tic. Ltd. Şti.（LinkedIn / EMIS 写 ART TELEKOM A.Ş.；arttelekom.com.tr；Ankara Çankaya Beysukent，İstanbul Kartal 办）— 1980 年起（EMIS 现主体 2002-06-26）的语音 / 视频 / 数据通信集成商（Mitel / Aastra PBX、IP 电话、视频会议、CCTV、KGYS、结构化布线、光纤、无线；公共机构客户）；**Dış Ticaret Müdürü（外贸经理）Müjde Balıkçıoğlu = 研究档 KP 本人（家族企业：GM Hasan Balıkçıoğlu、副 GM Murat Balıkçıoğlu）**；11–50 人 · Ltd. Şti.（官网）/ A.Ş.（LinkedIn / EMIS）并存 — Ankara；MERSİS 号未取 · 状态 **Active（官网在线；两地办公）** · 成立 1980（自述）/ 2002-06-26（EMIS 现主体） · Limited Şirket / Anonim Şirket（家族企业 Balıkçıoğlu；关联 TECOM Mühendislik A.Ş.）
+- 行业码 / 经营范围：语音 / 视频 / 数据通信系统集成：PBX / IP 电话（Mitel / Aastra）、视频会议、CCTV / KGYS、公共广播与紧急广播、结构化布线与网络、光纤、无线、卫星电视 —— 公共机构与企业客户
+- 注册地址：Mutlukent Mah. Angora Bulvarı Fesleğen Sok. No 7, Beysukent / Çankaya, Ankara 06800（İstanbul 办：Balıkesir Cad. Uprise Elit Residence K 20 D 176, Kartal）
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Hasan Balıkçıoğlu — Genel Müdür（总经理）
+- 高管：Murat Balıkçıoğlu — Genel Müdür Yardımcısı（副总；2002 起）
+- 高管：Müjde Balıkçıoğlu — Dış Ticaret Müdürü（外贸 / 进口经理）= **研究档 KP mujde.balikcioglu@ 本人 = 进口决策人**
+- 高管：Tarkan Erdoğan — Satış ve Proje Direktörü
+- 控制人 / 股东：Balıkçıoğlu 家族
+- **这意味着什么：**
+  - **收件人就是外贸经理（管进口）+ 家族企业 + 公共项目集成 → 集成商 25%（兼分销 20%，TECOM 渠道）**：STC-2224GP / STC-4424GCPM（IP 电话 / 会议 / CCTV 项目 PoE）+ STI-288DGGPM（KGYS 杆位）+ STC-424XGGPM-280W（汇聚）；B BIG，**加厚**（进口流程 + 三档价 + 项目规格页）
+  - 表内 1 次跟进无回复 → 第二次触达换主题「direct import of managed PoE switches for your public-sector projects — EXW/DAP both quoted」；发信窗口 Thu 10–12 TRT；升 A 候选（回信即 A）
+- 备注：集成商 25% + 分销 20%；KP = 外贸经理本人；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,15 +125,18 @@ updated: 2026-10-28
 - **【官网快照】Art Telekom 定位**
   > Art Telekom - Telefon, IP Santral, Tümleşik iletişim, Çağrı Merkezi, Güvenlik Sistemleri ; /urun/444/430/aastra-mx-one-telefon-switch
   > 来源：https://www.arttelekom.com.tr/（抓取 2026-10-21）
-- **KP**：Müjde Balıkçıoğlu（）mujde.balikcioglu@arttelekom.com.tr 〔用户表〕
+- **KP**：Müjde Balıkçıoğlu（Dış Ticaret Müdürü（外贸 / 进口经理；Art Telekom 家族企业成员）= **进口决策人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28））mujde.balikcioglu@arttelekom.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 arttelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Art Telekom San. Tic. Ltd. Şti.（LinkedIn / EMIS 写 ART TELEKOM A.Ş.；Ankara Çankaya；MERSİS 号未取；关联 TECOM Mühendislik） |
+| 成立 | 1980（自述）/ 2002-06-26（EMIS 现主体）（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Mutlukent Mah. Angora Bulvarı Fesleğen Sok. No 7, Beysukent / Çankaya, Ankara 06800 |
+| 人数 | 11–50 人 |
+| 其他 | 官网 arttelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 101 批：电信 / 网络系统集成 + 进口分销（管理层 Hasan / Murat Balıkçıoğlu，销售总监 Tarkan Erdoğan）→ **集成商 25% + 分销 20%**（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W / STI-288DGGPM）；B BIG；加厚；升 A 候选（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IP 电话 / 统一通信 / 呼叫中心 / 安防项目（土耳其）
 - **触达通道（公开）**：role: 统一通信/安防集成商（土耳其）；region: 土耳其；contact: mujde.balikcioglu@arttelekom.com.tr
@@ -192,7 +212,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Müjde Balıkçıoğlu | — | mujde.balikcioglu@arttelekom.com.tr | 调研核实（公开页） | 用户表 |
+| Müjde Balıkçıoğlu | Dış Ticaret Müdürü（外贸 / 进口经理；Art Telekom 家族企业成员）= **进口决策人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28） | mujde.balikcioglu@arttelekom.com.tr | 调研核实（公开页） | 用户表 |
 | Mujde | — | mujde.balikcioglu@arttelekom.com.tr | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

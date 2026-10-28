@@ -81,6 +81,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 101 批（US · 1 次检索：blog.dabos.com（DABOS, Inc.；「At DABOS we support, encourage and equip innovation by supporting scientists and manufacturers of scientific supplies」；2026-02 博文）+ LinkedIn 个人页（Anastasia Khobta — Controller, Dabos, Inc.；Bethesda）；加州 DABS, Inc.（心理健康机构）为同名他户，不采；州 SoS / 法律形式 / 成立日未取，2026-10-28 查；https://blog.dabos.com/）：**
+
+- 法定名 / 登记号：DABOS, Inc.（dabos.com / blog.dabos.com；美国，马里兰 Bethesda 一带推定）— 科研 / 实验室用品与设备采购供应商（「we support scientists and manufacturers of scientific supplies」；研究档 KP M. Zohaib Razzaq zohaib@）；**1 次检索未命中州登记 → 部分坐实（域名主体确认，州 / 法律形式未取）** · 部分坐实（Inc.；州登记号未取） · 状态 **Active（博客 2026-02 更新；站点在线）** · 成立 未取 · Corporation（推定；私有）
+- 行业码 / 经营范围：科研 / 实验室用品、仪器与 IT 设备采购供应（面向科研机构 / 政府实验室的集采型供应商，推定）
+- 注册地址：美国（Bethesda, MD 一带推定；门牌未取）
+- 规模档：小型（人数未取）
+- 账目：—；—
+- 高管：M. Zohaib Razzaq — 研究档 KP zohaib@（询盘联系人；职务未核）
+- 高管：Anastasia Khobta — Controller（LinkedIn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **采购型供应商（替科研 / 政府客户配货）而非渠道** → 有单就报、无单不追 → **一页纸 small**：按其询盘型号直接报价（STC-228GP / STC-2224GP / STI-144GP），MOQ 1、DAP 报价、15 天有效
+  - 研究档「见 Clients 表询盘联系人」→ 回复走原询盘线程（不伪造 Re:）；发信窗口 Wed 08–10 ET；不加厚
+- 备注：采购型供应商；一页纸 small；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,7 +144,7 @@ updated: 2026-10-28
   > 兴趣：Trendnet 8电口
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表询盘联系人）（）info@dabos.com（公开） +1 240-880-2485〔用户 Clients 表 + 公开资料〕
-- **KP**：M. Zohaib Razzaq（）zohaib@dabos.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：M. Zohaib Razzaq（询盘联系人（职务未核；DABOS, Inc. 科研 / 实验室用品采购供应商）= 收件人（第 101 批 官方登记核实 2026-10-28））zohaib@dabos.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。
 - 备注：回复一次：Trendnet 8 口对位 STC-28DGGPM（FCC 文件齐），分销 20%；无回应即停。
 
@@ -137,8 +152,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Dabos（待核） |
-| 总部/地址 | USA |
+| 法定名称 | DABOS, Inc.（州登记号未取 → 部分坐实；DABS Inc 为同名他户） |
+| 总部/地址 | 美国（Bethesda, MD 一带推定；门牌未取） |
+| 人数 | 小型（人数未取）（第 101 批 官方登记核实 2026-10-28） |
+| 其他 | 第 101 批：采购型供应商（替科研机构代购）→ 一页纸 small（STC-028GP / STC-228GP 按单报价）；不加厚（第 101 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：role: 经销 / 电商（推断）；region: 美国
 - **风险/边界**：需求为 TRENDnet 级非管理 8 口（低价、无 UL 则美国零售受限）
@@ -203,7 +220,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| M. Zohaib Razzaq | — | zohaib@dabos.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| M. Zohaib Razzaq | 询盘联系人（职务未核；DABOS, Inc. 科研 / 实验室用品采购供应商）= 收件人（第 101 批 官方登记核实 2026-10-28） | zohaib@dabos.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 

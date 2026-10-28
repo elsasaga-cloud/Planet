@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 101 批（GB · 1 次检索：官网 company_info（DTS Digital；95–99 Dean Road, Scarborough YO12 7QS；contact@）+ RocketReach（2009；4 人；Owner Derek Stephenson）+ LinkedIn（2009；2–10；Self-Owned；Scarborough）+ Trustpilot / Professional Security（2009 起；Genie / ZIP / SPRO / Vectus / NiteDevil / Alien / IRLABS / Dahua / Hanwha 授权分销；联系人 D Stephenson；43 Newby Farm Road YO12 6UJ）+ Companies House 06949184（DTS DIGITAL LIMITED；Dinnington, Sheffield；2009-07-01 成立；**Dissolved 2024-05-07**；董事 Martin Raymond Southwell / Michael Albert Atherton / Melanie Southwell）—— 地址与人员均不符，疑同名他户；Scarborough 主体（Ltd 或个体）未取，2026-10-28 查；https://www.dtsdigitalcctv.co.uk/company_info.asp）：**
+
+- 法定名 / 登记号：DTS Digital（dtsdigitalcctv.co.uk；Scarborough, North Yorkshire）— 2009 年起的在线 CCTV 设备分销商（Genie / ZIP / SPRO / Vectus / NiteDevil / Alien / IRLAB / Dahua / Hanwha 授权分销；2–10 人；Owner Derek Stephenson）；**Companies House 同名 DTS DIGITAL LIMITED 06949184（Sheffield，2024-05 注销，董事 Southwell / Atherton）疑非本户 → 未坐实（法人主体未定）** · 未坐实（Scarborough 主体未取；CH 06949184 疑他户且已注销） · 状态 **站点在线（2024-05 更新）** · 成立 2009（自述） · 未取（Self-Owned；疑个体 / 小 Ltd）
+- 行业码 / 经营范围：CCTV 设备在线分销（HD IP / HD 模拟 / 套件）面向行业与零售客户，欧洲发货
+- 注册地址：95–99 Dean Road, Scarborough, North Yorkshire YO12 7QS
+- 规模档：微型（2–10 人）
+- 账目：—；—
+- 高管：Derek Stephenson — Owner（RocketReach / Professional Security「D Stephenson」）= 收件人
+- 高管：Pavel Tsenov — 研究档 KP contact@（职务未核）
+- 控制人 / 股东：Derek Stephenson（推定）
+- **这意味着什么：**
+  - **微型在线 CCTV 分销** → **分销 20% small，一页纸**：STC-028GP / STC-228GP / STC-2216GP（配其 IP 套件；3 年保修对齐其「up to 3 years warranty」口径 → 用 STI 或写明延保）
+  - 收件人 contact@ 点名 Derek Stephenson；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 GMT；下轮补项：站点 Terms 法人名
+- 备注：分销 20% small；一页纸；未坐实（主体待定）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,15 +147,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE 主要是 Utepo 的**
   > 主要是CCTV 商业PoE 主要是Utepo的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Pavel Tsenov（）contact@dtsdigitalcctv.co.uk 〔用户表〕
+- **KP**：Pavel Tsenov（研究档 KP（职务未核）= 收件人；点名 Owner Derek Stephenson（第 101 批 官方登记核实 2026-10-28））contact@dtsdigitalcctv.co.uk 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 dtsdigitalcctv.co.uk，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | DTS Digital（Scarborough；法人主体未取 → 未坐实；CH 06949184 DTS DIGITAL LIMITED Sheffield 2024-05 注销、董事 Southwell / Atherton 疑同名他户，不采） |
+| 成立 | 2009（自述）（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 95–99 Dean Road, Scarborough, North Yorkshire YO12 7QS |
+| 人数 | 2–10 人（Owner Derek Stephenson） |
+| 其他 | 官网 dtsdigitalcctv.co.uk，语言 ?，快照状态 ok；角色判定来源：用户表；第 101 批：微型在线 CCTV 分销（Genie / ZIP / SPRO / Dahua 授权）→ **分销 20% small**（STC-028GP / STC-228GP / STC-2216GP）；一页纸；下轮补项：站点 Terms 法人名（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 分销（HD IP / 模拟 / NVR / 配件）
 - **触达通道（公开）**：role: CCTV 分销商（英国，Utepo PoE 在售）；region: 英国；contact: contact@dtsdigitalcctv.co.uk
@@ -243,7 +261,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pavel Tsenov | — | contact@dtsdigitalcctv.co.uk | 调研核实（公开页） | 用户表 |
+| Pavel Tsenov | 研究档 KP（职务未核）= 收件人；点名 Owner Derek Stephenson（第 101 批 官方登记核实 2026-10-28） | contact@dtsdigitalcctv.co.uk | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -336,12 +354,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

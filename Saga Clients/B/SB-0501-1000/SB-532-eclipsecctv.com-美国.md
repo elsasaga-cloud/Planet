@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -80,6 +80,24 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 101 批（US · 1 次检索：Sunbiz 实体名列表（ECLIPSE CCTV INC. P20000058672 Active；旧实体 P03000006534 INACT、L20000138773 InActive）+ D&B（Eclipse CCTV Inc.；DBA Eclipse Security；Key Principal Moises Faroy；3900 N 29th Ave, Hollywood, FL 33020-1010）+ Buzzfile（Eclipse Cctv Inc.；Moises Faroy — President；(954) 929-3646）+ Explorium / Thomasnet（1998 成立；11–50 人；$500K–1M；员工 Tony Forbes — Sales executive；Manuel Alvarez；Ernesto Vazquez — Project manager）+ ZoomInfo（10–19 人；$1–5M）+ 官网博文（「Eclipse offers a 3-year manufacturers warranty … Eclipse products are only sold and distributed by CCTV Outlet, Inc in Ft Lauderdale」）+ Facebook（ECLIPSE CCTV INC.；sales@eclipsecctv.com），2026-10-28 查；https://search.sunbiz.org/Inquiry/corporationsearch/SearchResults?inquiryType=EntityName&searchTerm=ECLIPSE+CCTV+INC.）：**
+
+- 法定名 / 登记号：Eclipse CCTV Inc.（DBA Eclipse Security；eclipsecctv.com / eclipsesurveillance.com；Hollywood, FL）— 1998 年起的自有品牌 CCTV / NVR / 门禁品牌商（Eclipse 标，3 年保修；「只经 Ft Lauderdale 的 CCTV Outlet, Inc 分销」）；Sunbiz P20000058672 Active；President Moises Faroy；10–19 人；$1–5M · FL Sunbiz P20000058672（Active；前身 P03000006534 2003 已注销） · 状态 **Active** · 成立 1998（自述；现实体 2020 重新登记） · Florida Profit Corporation（私有；President Moises Faroy）
+- 行业码 / 经营范围：自有品牌安防产品（摄像机 / DVR / NVR / 门禁 / 对讲）设计与进口，经关联分销商 CCTV Outlet, Inc. 出货；安防工程（SIC 7381）
+- 注册地址：3900 N 29th Ave, Hollywood, FL 33020
+- 规模档：小型（10–19 人；$1–5M）
+- 账目：—；—
+- 高管：Moises Faroy — President（D&B / Buzzfile）= 拍板人（研究档无）
+- 高管：Tony Forbes — Sales Executive = 研究档 KP tony@
+- 高管：Manuel Alvarez — 研究档 KP sales@
+- 高管：Ernesto Vazquez — Project Manager
+- 控制人 / 股东：Moises Faroy（推定）
+- 曾用名：ECLIPSE CCTV INC.（P03000006534，2003–）
+- **这意味着什么：**
+  - **自有品牌 + 3 年保修承诺 + 已有进口 / 分销闭环（CCTV Outlet）→ 贴标 OEM 30% 目标**：Eclipse 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（HRUI 1 年保修 vs 其 3 年承诺 → 需写明可延保或改 STI 3 年线）；B BIG，**加厚**
+  - 收件人：Tony Forbes 主送（已在收）+ 点名 President Moises Faroy；研究档站点 http_error → 用 Facebook / BBB 信息；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）
+- 备注：贴标 OEM 30% 目标；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,16 +134,20 @@ updated: 2026-10-27
 - **【用户表】商业 PoE**
   > 商业PoE；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Tony Forbes（）tony@eclipsecctv.com 〔用户表〕
-- **KP**：Manuel Alvarez（）sales@eclipsecctv.com 〔用户表〕
+- **KP**：Tony Forbes（Sales Executive（Eclipse CCTV Inc.）= 收件人（第 101 批 官方登记核实 2026-10-28））tony@eclipsecctv.com 〔用户表〕
+- **KP**：Manuel Alvarez（研究档 KP sales@（职务未核）= 抄送（第 101 批 官方登记核实 2026-10-28））sales@eclipsecctv.com 〔用户表〕
+- **KP**：Moises Faroy（President（FL Sunbiz P20000058672；D&B / Buzzfile）= 拍板人（点名 / 抄送）（第 101 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 eclipsecctv.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Eclipse CCTV Inc.（DBA Eclipse Security；Florida Profit Corporation；Sunbiz P20000058672，前身 P03000006534 2003 注销） |
+| 成立 | 1998（自述；现实体 2020 重新登记）（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 3900 N 29th Ave, Hollywood, FL 33020 |
+| 人数 | 10–19 人；$1–5M |
+| 其他 | 官网 eclipsecctv.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 101 批：自有品牌 Eclipse 安防整线（含 PoE 交换机）+ 总裁可点名 → **贴标 OEM 30% 目标**（Eclipse 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM）；B BIG；加厚；升 A 候选（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 品牌 / 分销（美国）
 - **触达通道（公开）**：role: CCTV 品牌/分销商（美国）；region: 美国；contact: sales@eclipsecctv.com、tony@eclipsecctv.com
@@ -213,8 +235,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tony Forbes | — | tony@eclipsecctv.com | 调研核实（公开页） | 用户表 |
-| Manuel Alvarez | — | sales@eclipsecctv.com | 调研核实（公开页） | 用户表 |
+| Tony Forbes | Sales Executive（Eclipse CCTV Inc.）= 收件人（第 101 批 官方登记核实 2026-10-28） | tony@eclipsecctv.com | 调研核实（公开页） | 用户表 |
+| Manuel Alvarez | 研究档 KP sales@（职务未核）= 抄送（第 101 批 官方登记核实 2026-10-28） | sales@eclipsecctv.com | 调研核实（公开页） | 用户表 |
+| Moises Faroy | President（FL Sunbiz P20000058672；D&B / Buzzfile）= 拍板人（点名 / 抄送）（第 101 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -308,12 +331,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

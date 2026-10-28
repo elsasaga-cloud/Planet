@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 101 批（PL · 1 次检索：krs-pobierz（KORE KONECT SPÓŁKA Z O.O.；KRS 0000898338；NIP 5213927829；REGON 388906180；aktywna；资本 5,000 zł；ul. Bartycka 22B/21A, 00-716 Warszawa；登记 2021-05-05；最近变更 2024-08-13；主营 PKD 32.99 其他制造）+ 官网（Kore Konect；结构化布线铜缆 / 光纤、服务器机柜 7U–47U、Ethernet / PoE / Industrial PoE Switches、Media Converter、SFP、UPS、控制电缆；BARTYCKA 22B M21A；info@korekonect.com）+ gabs-me.com（中东经销页：「Polish based manufacturer of … Network Switches and UPS」）；Warszawa 的 KORE Sp. z o.o.（广告公司，KRS 0000206537）与 Szczecin 的 Kore Poland 为同名他户，不采，2026-10-28 查；https://krs-pobierz.pl/kore-konect-spolka-z-ograniczona-odpowiedzialnoscia-i7120353）：**
+
+- 法定名 / 登记号：Kore Konect Sp. z o.o.（korekonect.com；Warszawa Bartycka 22B/21A）— 2021-05-05 注册的结构化布线 / 机柜 / 交换机 / UPS「品牌制造商」（自称 manufacturer；产品线含 PoE / 工业 PoE 交换机、媒体转换器、SFP）；资本仅 5,000 zł、注册地为住宅楼；中东经销页（gabs-me.com）→ 疑为外资贸易型自有品牌公司 · KRS 0000898338 · NIP 5213927829 · REGON 388906180 · 状态 **Aktywna（KRS 变更 2024-08-13）** · 成立 2021-05-05 · Spółka z o.o.（资本 5,000 zł —— 法定最低；董事会代表）
+- 行业码 / 经营范围：PKD 32.99.Z — 其他制造（实为自有品牌 Kore Konect：布线 / 机柜 / 交换机 / UPS，外采贴牌出口至中东等地）
+- 注册地址：ul. Bartycka 22B/21A, 00-716 Warszawa（住宅楼）
+- 规模档：微型（资本 5,000 zł；人数未取）
+- 账目：—；—
+- 高管：董事会成员姓名未取（研究档无 KP；info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌但壳型公司（5,000 zł 资本、住宅地址、面向中东经销）** → 贴标需求真实但付款与量存疑 → **贴标 small：一页纸 + 预付款条款**（Kore Konect 标 STC-028GP / STC-228GP / STI-054GP），T/T 100% 预付、MOQ 1、不赊
+  - 收件人 info@；表内「已售 E-wind」→ 已有华南货源 → 第二次触达换主题「managed L2+ PoE under your label — 3-year STI warranty」；发信窗口 Thu 12–14 CET；不加厚
+- 备注：贴标 small；壳型公司预付；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,9 +136,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Kore Konect（待核） |
-| 总部/地址 | Poland |
-| 其他 | 已售 E-wind |
+| 法定名称 | Kore Konect Sp. z o.o.（KRS 0000898338；NIP 5213927829；REGON 388906180；资本 5,000 zł；PKD 32.99.Z；Warszawa 的 KORE Sp. z o.o. 为同名他户） |
+| 成立 | 2021-05-05（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Bartycka 22B/21A, 00-716 Warszawa（住宅楼） |
+| 人数 | 微型（资本 5,000 zł；人数未取） |
+| 其他 | 已售 E-wind；第 101 批：自有品牌布线 / 机柜 / 交换机 / UPS「制造商」实为壳型外采贴牌（面向中东经销）→ **贴标 small + 预付条款**（Kore Konect 标 STC-028GP / STC-228GP / STI-054GP，T/T 100% 预付、MOQ 1、不赊）；一页纸；不加厚（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备经销
 - **触达通道（公开）**：role: 经销商（已售中国同行）；region: 波兰

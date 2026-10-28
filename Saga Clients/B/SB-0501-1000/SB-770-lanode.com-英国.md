@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,6 +83,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 101 批（GB · 1 次检索：Companies House 02702078（LANODE LIMITED；Active；1992-03-31 成立；注册地 White Lodge, Saville Gardens, Camberley GU15 1DF；董事 Donal McDonnell *1958-03，1992 起）+ Pomanda（SIC 61100；最大股东 Donal McDonnell 80%）+ Endole（Company Secretary Raquel McDonnell；2 名股东、1 名 PSC）+ GlobalDatabase（Ian Philip — Technical Manager；Nige Howarth — Marketing；Mia Steward-Storey — Internal Sales）+ D&B（Managing Director Donal McDonnell；+44 1276 677220）+ prospeo（经营地 Unit 1 Phase 4, Albany Park, Camberley GU16 7PL；1–10 人）+ 官网 Products（Industrial Ethernet Managed & Unmanaged、PoE、Ethernet Switches、Media Converters、CWDM/DWDM）+ Light Reading 2023-11（Lanode 扩大与 KBC Networks 合作），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/02702078）：**
+
+- 法定名 / 登记号：LANODE LIMITED（lanode.com / lanode.co.uk；Camberley, Surrey）— 1992 年成立的网络 / 传输 / 数据通信专业分销商（媒体转换器、工业以太网、交换机、PoE、SFP、CWDM / DWDM、串口服务器、E1 / G.SHDSL；KBC Networks 合作伙伴）；Companies House 02702078；**Managing Director Donal McDonnell（80% 股东）= 研究档 KP 本人**；2–10 人 · Companies House 02702078 · 状态 **Active** · 成立 1992-03-31 · Private limited company（Donal McDonnell 80%）
+- 行业码 / 经营范围：61100 — 有线电信活动（实为网络 / 传输 / 数据通信设备专业分销：媒体转换器、工业以太网、交换机、PoE、光模块、复用器、串口服务器）
+- 注册地址：White Lodge, Saville Gardens, Camberley GU15 1DF（注册）；Unit 1 Phase 4, Albany Park, Camberley GU16 7PL（经营）
+- 规模档：微型（2–10 人）
+- 账目：—；—
+- 高管：Donal McDonnell — Director / Managing Director（*1958；80%）= **研究档 KP donal@ 本人**
+- 高管：Raquel McDonnell — Company Secretary（股东）
+- 高管：Ian Philip — Technical Manager
+- 高管：Mia Steward-Storey — Internal Sales
+- 控制人 / 股东：Donal McDonnell（80%）
+- **这意味着什么：**
+  - **产品线与 Saga 完全同向（工业以太网 / PoE / 媒体转换）+ 老板本人收件 + 已代理 KBC（美系工业交换机）→ 分销 20%**：STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM（对标 KBC 工业线价，3 年保修）+ STC-228GP / STC-2224GP；加厚一次（工业线对标价表）
+  - 表内 1 次跟进无回复 → 第二次触达换主题「a value industrial Ethernet line beside KBC — managed L2+, 3-year warranty, MOQ 1」（不点名 KBC）；发信窗口 Thu 12–14 GMT；升 A 候选（回信即 A）
+- 备注：分销 20%；KP = MD / 80% 股东本人；加厚一次；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,15 +143,18 @@ updated: 2026-10-27
 - **【官网快照】lanode.co.uk 产品页**
   > optical-transport/c-dwdm-multiplexers
   > 来源：https://www.lanode.co.uk/optical-transport/c-dwdm-multiplexers（抓取 2026-10-21）
-- **KP**：Donal McDonnell（）donal@lanode.com 〔用户表〕
+- **KP**：Donal McDonnell（Managing Director / Director（*1958；1992 起；80% 股东；Companies House 02702078）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28））donal@lanode.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 lanode.com，语言 en，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | LANODE LIMITED（Companies House 02702078；SIC 61100；Co Sec Raquel McDonnell；Technical Manager Ian Philip） |
+| 成立 | 1992-03-31（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 1 Phase 4, Albany Park, Camberley GU16 7PL（注册地 White Lodge, Saville Gardens, Camberley GU15 1DF） |
+| 人数 | 2–10 人 |
+| 其他 | 官网 lanode.com，语言 en，快照状态 ok；角色判定来源：待核；第 101 批：网络 / 传输 / 数据通信专业分销（媒体转换器 / 工业以太网 / PoE / SFP；KBC Networks 合作伙伴）+ 老板本人收件 → **分销 20%**（STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM + STC-228GP / STC-2224GP 对标其工业线）；加厚一次；升 A 候选（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光通信 / 数据通信产品分销（英国）
 - **触达通道（公开）**：role: 光/数据通信分销商（英国，Transition/CTC Union）；region: 英国；contact: sales@lanode.com、donal@lanode.com
@@ -236,7 +256,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Donal McDonnell | — | donal@lanode.com | 调研核实（公开页） | 用户表 |
+| Donal McDonnell | Managing Director / Director（*1958；1992 起；80% 股东；Companies House 02702078）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28） | donal@lanode.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -330,12 +350,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

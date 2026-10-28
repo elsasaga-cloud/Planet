@@ -89,6 +89,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 101 批（PL · 1 次检索：官网页脚 / Zasady sprzedaży（Atel Electronics Sp. z o.o.；ul. Oleska 121, 45-231 Opole；Kapitał zakładowy 50.000,00；KRS 0001010225；Sąd Rejonowy w Opolu VIII Wydział KRS；REGON 524050890；NIP 7543356130）+ 官网 ORing 页（「Atel Electronics jest autoryzowanym dystrybutorem produktów firmy ORing Industrial Networking w Polsce」；ITS / 能源 / EN 50155 产品）+ krs-pobierz（登记 2023-01-02；最近变更 2026-06-30；主营电子 / 电信设备批发）+ bizraport（营收 3.5 / 9.7 mln zł 两档；光纤技术、工业 / 无线通信、工业交换机、热成像、售后件）+ Facebook（进口与分销网络元件、测量设备）+ Marketplanet 供应商库，2026-10-28 查；https://krs-pobierz.pl/atel-electronics-spolka-z-ograniczona-odpowiedzialnoscia-i0001010225）：**
+
+- 法定名 / 登记号：ATEL ELECTRONICS Sp. z o.o.（atel.com.pl；Opole）— 光纤技术 / 工业与无线通信元件进口分销商，**ORing Industrial Networking 波兰授权分销**（工业交换机 / 媒体转换器 / 串口服务器、热成像、测量仪器、售后件）；KRS 0001010225（2023-01-02 登记，前身个体推定）；资本 50,000 zł；第三方营收区间 3.5–9.7 mln zł · KRS 0001010225 · NIP 7543356130 · REGON 524050890 · 状态 **Aktywna（KRS 变更 2026-06-30）** · 成立 2023-01-02（Sp. z o.o. 登记；业务更早，前身推定个体） · Spółka z o.o.（资本 50,000 zł）
+- 行业码 / 经营范围：PKD 46.52.Z — 电子 / 电信设备批发（光纤技术、工业通信 ORing、无线、热成像、测量仪器、售后件进口分销）
+- 注册地址：ul. Oleska 121, 45-231 Opole
+- 规模档：小型（人数未取）
+- 账目：第三方营收区间 3.5–9.7 mln zł（仅作区间）；—
+- 高管：董事会姓名未取（研究档无 KP；cust@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **ORing 授权分销（台系高价工业线）→ Saga STI 正好做其「价值线」第二货源 → 分销 20%**：STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM 对标 ORing IPS / IGS 系列价（表内「ORing 工业线在售（高价）」）+ STI-0240GE；ITS 道路 / 能源场景谈，**轨交 EN 50155 不谈（守界）**；加厚一次（对标价表）
+  - 收件人 cust@ 点名「dział handlowy / właściciel」；表内 1 次跟进无回复 → 第二次触达换主题「a value industrial line beside ORing — managed L2+, -40~75 °C, 3-year warranty」（不点名 ORing）；发信窗口 Thu 12–14 CET；下轮补项：KRS 董事会
+- 备注：分销 20%；加厚一次；轨交守界；董事会下轮补。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - 590,00 PLN ← 「19", 1-portowy KVM HDMI, 1U, pojedyncza szyna 8 590,00 PLN #09787 Edge-corE ECS4650-54P, Switch zarządzalny, 48x 10/100/1000 RJ-45 PoE, 6x 25G SFP28, 」（https://atel.com.pl/）
@@ -139,9 +153,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Atel Electronics（待核） |
-| 总部/地址 | Poland |
-| 其他 | ORing 工业线在售（高价） |
+| 法定名称 | ATEL ELECTRONICS Sp. z o.o.（KRS 0001010225；NIP 7543356130；REGON 524050890；资本 50,000 zł；Sąd Rejonowy w Opolu） |
+| 成立 | 2023-01-02（Sp. z o.o. 登记；业务更早，前身推定个体）（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Oleska 121, 45-231 Opole |
+| 人数 | 小型（人数未取；第三方营收区间 3.5–9.7 mln zł） |
+| 其他 | ORing 工业线在售（高价）；第 101 批：光纤 / 工业与无线通信元件进口分销，**ORing 波兰授权分销**（ITS / 能源 / EN 50155）→ Saga STI 作其「价值线」第二货源 → **分销 20%**（STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE 对标 ORing IPS / IGS 价）；轨交 EN 50155 守界不谈；加厚一次；董事会下轮补（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络元件 / 工具 / AV 进口分销
 - **触达通道（公开）**：role: 进口分销商；region: 波兰

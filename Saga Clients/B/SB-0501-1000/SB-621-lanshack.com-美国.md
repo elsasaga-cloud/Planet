@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -102,6 +102,24 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 101 批（US · 1 次检索：LinkedIn 公司页（LANshack；1995 进入分销与制造；1996 行业首家全电商；1999 购得 LANshack.com；「LANshack.com is a division of Atcom Services, Inc.」；11–50 人；Toms River NJ；President Andrea Damiano、VP Tom Damiano、CFO Toni Casazza）+ ZoomInfo 个人页（Andrea Damiano — President of LANshack，2007 起；155 Meadow Rd Ste 100, Clark, NJ 07066；(732) 396-3600）+ 官网 linecard PDF（Director of Sales Andrea Damiano 888-568-1230 x1001 andrea@；NAICS 335921 / 334417 / 332212）+ 官网 About（「Made in the USA Since 1993」；制造商兼分销商）+ Datanyze（CEO Anthony Casazza；$4.4M；22 人；1991）+ PRWeb 2023（Founded in 1997 online distributor）；Buyers Guide 的 Tecra Tools Inc（Denver CO）= 他户不采；NJ 实体号未取，2026-10-28 查；https://www.linkedin.com/company/lanshack）：**
+
+- 法定名 / 登记号：LANshack.com（Atcom Services, Inc. 旗下事业部；lanshack.com；Clark / Toms River, NJ）— 1993/1997 年起的结构化布线 / 光纤跳线制造 + 数据通信产品电商（在售 E-wind 媒体转换器 / 交换机；11–50 人 / 22 人；$4.4M）；**President Andrea Damiano = 研究档 KP 本人**；研究档「Tecra Tools, Inc.」为误配（Tecra Tools 是丹佛工具商） · NJ 实体（Atcom Services, Inc. dba LANshack.com；NJ 登记号未取） · 状态 **Active（Trustpilot 2026-09；站点 2025 更新）** · 成立 1993（自述）/ 1997（LANshack.com） · Corporation（私有；Damiano / Casazza 家族）
+- 行业码 / 经营范围：NAICS 335921 光纤线缆制造 / 334417 连接器制造 — 定制光纤 / 铜缆跳线制造；数据通信产品电商分销（布线硬件、媒体转换器、交换机、工具测试仪）
+- 注册地址：155 Meadow Rd, Suite 100, Clark, NJ 07066（LinkedIn 列 Toms River, NJ）
+- 规模档：小型（11–50 人；22；$4.4M）
+- 账目：—；—
+- 高管：Andrea Damiano — President / Director of Sales = **研究档 KP andrea@ 本人**
+- 高管：Tom (Thomas) Damiano — Vice President
+- 高管：Anthony Casazza — CEO（Datanyze）
+- 高管：Toni Casazza — CFO
+- 控制人 / 股东：Damiano / Casazza 家族（推定）
+- 曾用名：Atcom Services, Inc.（母公司名）
+- **这意味着什么：**
+  - **总裁本人在收件 + 已卖华南 E-wind 交换机 / MC + 自产光纤跳线 → 分销 20% 首选 US**（LANshack 标也可谈 OEM 30%）：STC-228GP / STC-2216GP / STC-2224GP 对标其 E-wind 在售价 + STI-144GP / STI-288DGGPM 配其光纤产品 + STC-110XGE（10G 上联）；B BIG，**加厚**
+  - 研究档法定名更正：Tecra Tools, Inc. → Atcom Services, Inc.（dba LANshack.com）；表内 1 次跟进无回复 → 第二次触达换主题「a managed PoE line beside E-wind — same source region, 3-year STI warranty」（不点名 E-wind）；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）
+- 备注：分销 20% 首选 US；KP = President 本人；B BIG；加厚；升 A 候选；法定名更正。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,17 +156,18 @@ updated: 2026-10-27
 - **【用户表】Ewind 产品较多**
   > 兴趣：Ewind产品较多
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Andrea Damiano（）andrea@lanshack.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Andrea Damiano（President / Director of Sales（Atcom Services, Inc. dba LANshack.com）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28））andrea@lanshack.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Tecra Tools, Inc. (LANshack) |
-| 成立 | （待核） |
-| 总部/地址 | USA（宾州 / 新泽西，待核） |
-| 其他 | 在售 E-wind MC / 交换机 |
+| 法定名称 | Atcom Services, Inc. dba LANshack.com（研究档原写 Tecra Tools, Inc. = 误，Tecra Tools 为同业他户；NJ 登记号未取） |
+| 成立 | 1993（Atcom）/ 1997（LANshack.com）（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 155 Meadow Rd, Suite 100, Clark, NJ 07066 |
+| 人数 | 11–50 人（22）；$4.4M |
+| 其他 | 在售 E-wind MC / 交换机；第 101 批：结构化布线 / 光纤跳线制造 + 数据网络配件电商 + 总裁本人收件 → **分销 20% 首选 US**（STC-228GP / STC-2224GP / STC-4424GCPM / STI-144GP 配其光纤跳线）；B BIG；加厚；升 A 候选；法定名更正（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤 / 铜缆组件制造；网络有源设备电商（E-wind 等）
 - **触达通道（公开）**：role: 制造商 + 电商（已售中国同行）；region: 美国
@@ -254,7 +273,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Andrea Damiano | — | andrea@lanshack.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Andrea Damiano | President / Director of Sales（Atcom Services, Inc. dba LANshack.com）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28） | andrea@lanshack.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -348,12 +367,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

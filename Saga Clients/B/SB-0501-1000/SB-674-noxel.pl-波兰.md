@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 101 批（PL · 1 次检索：官网 Kontakt / Regulamin（Noxel Sp. z o.o.；ul. Katowicka 16B, 41-500 Chorzów；KRS 0000799308；NIP 6762569629；REGON 384126338；资本 5,000 zł；kontakt@noxel.pl；32 708 55 36）+ GoWork / imsig / infoveriti（同号；aktywna）+ pkt / biznesfinder（2019 成立；PKD 47.91.Z；旧址 Józefowska 76, 40-145 Katowice）+ Facebook（「Sklep z elektroniką i zabezpieczeniami. Kamery, rejestratory, sieci, routery, alarmy, wideodomofony」），2026-10-28 查；https://noxel.pl/regulamin/）：**
+
+- 法定名 / 登记号：Noxel Sp. z o.o.（noxel.pl；Chorzów，前址 Katowice）— 2019 年成立的电子 / 安防网店（摄像机、NVR、网络、路由器、报警、视频对讲）；KRS 0000799308；资本 5,000 zł；PKD 47.91.Z 邮购 / 网络零售 · KRS 0000799308 · NIP 6762569629 · REGON 384126338 · 状态 **Aktywna（站点 2026-08 更新）** · 成立 2019 · Spółka z o.o.（资本 5,000 zł）
+- 行业码 / 经营范围：PKD 47.91.Z — 邮购 / 网络零售（电子与安防：摄像机 / NVR / 网络 / 路由器 / 报警 / 视频对讲）
+- 注册地址：ul. Katowicka 16B, 41-500 Chorzów（旧址 ul. Józefowska 76, 40-145 Katowice）
+- 规模档：微型（资本 5,000 zł）
+- 账目：—；—
+- 高管：董事会姓名未取（研究档无 KP；kontakt@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **微型安防网店** → **分销 20% small，一页纸**：STC-028GP / STC-228GP（零售款 4–8 口 PoE）；MOQ 1 + DAP 华沙
+  - 收件人 kontakt@ 点名 właściciel；表内无跟进（用户表来源）→ 首信即一页纸；发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - 1899,00 zł ← 「600 stojąca + akcesoria RL-6641SRE Racktel Racktel 1899,00 zł Zestaw monitoringu Dahua IP PoE 4 kamery 6MPx IPC-HFW1639TC-A-IL-0280B Dahua 2229,00 zł 」（https://noxel.pl/）
@@ -134,8 +148,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 noxel.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Noxel Sp. z o.o.（KRS 0000799308；NIP 6762569629；REGON 384126338；资本 5,000 zł；PKD 47.91.Z） |
+| 成立 | 2019（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Katowicka 16B, 41-500 Chorzów（旧址 ul. Józefowska 76, Katowice） |
+| 人数 | 微型（资本 5,000 zł） |
+| 其他 | 官网 noxel.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表；第 101 批：微型电子 / 安防网店（摄像机 / NVR / 网络 / 路由器 / 报警）→ **分销 20% small**（STC-028GP / STC-228GP）；一页纸；收件人 kontakt@ 点名 właściciel（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IP 监控 / 机柜 / UPS / 对讲网店
 - **触达通道（公开）**：role: 安防网店（波兰，Dahua 为主）；region: 波兰；contact: kontakt@noxel.pl

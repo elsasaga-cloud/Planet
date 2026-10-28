@@ -91,6 +91,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 101 批（TR · 1 次检索：LinkedIn 公司页（İntenet İletişim Teknolojileri LTD.；1993；11–50；Oruçreis İstanbul；员工 Ercan Ozturk — General Manager）+ list.istanbul（Oruç Reis Mah. Giyimkent Sitesi Giyimkent 2. Sokak No 56, Esenler 34237；info@intenet.com.tr）+ 官网 About Us（1993 成立；1996 TDM；1997–2000 TDM 分销；2000 后 Cisco 系统集成（VEDOP 税务局自动化、Sütaş WAN、财政部）；AT&T 方案商；2007 能源板块；TEİAŞ 变电站通信专长）+ 官网 İletişim（同址）；MERSİS 号未取，2026-10-28 查；https://tr.linkedin.com/company/intenet）：**
+
+- 法定名 / 登记号：İntenet İletişim Teknolojileri Ltd. Şti.（intenet.com.tr；İstanbul Esenler Giyimkent）— 1993 年起的电信 / 网络系统集成商（1996 把 TDM 带入土耳其、银行广域网 70%；2000 起 Cisco 系统集成；2007 起能源板块：TEİAŞ 变电站自动化与通信、风 / 水 / 火电厂；AT&T 土耳其方案商；11–50 人）；**General Manager Ercan Öztürk = 研究档 KP 本人** · Ltd. Şti.（İstanbul；MERSİS 号未取） · 状态 **Active（站点 2021 内容；LinkedIn 在线）** · 成立 1993 · Limited Şirket（私有）
+- 行业码 / 经营范围：电信 / 网络系统集成（广域网 / 局域网、Cisco）；能源行业变电站自动化与通信（TEİAŞ 输电变电站、HES / RES / 火电厂）交钥匙工程
+- 注册地址：Oruç Reis Mah. Giyimkent Sitesi, Giyimkent 2. Sokak No 56, 34237 Esenler / İstanbul
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Ercan Öztürk — General Manager（LinkedIn）= **研究档 KP ercan.ozturk@ 本人**
+- 高管：Adnan Bakar — 员工（LinkedIn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **变电站 / 电厂通信集成商 + GM 本人收件 → 集成商 25%**：STI-288DGGPM / STI-488DGGPM（导轨宽温，变电站 SCADA 环网，IEC 61850 认证未取 → 只说「industrial-grade, -40~75 °C」不说合规）+ STI-0240GE（机房汇聚）；一页纸 + 工业线规格
+  - 表内 1 次跟进无回复 → 第二次触达换主题「DIN-rail managed switches for substation LAN — 3-year warranty」；发信窗口 Thu 10–12 TRT；加厚一次
+- 备注：集成商 25%；KP = GM 本人；加厚一次；MERSİS 下轮补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -138,15 +153,18 @@ updated: 2026-10-28
 - **【用户表】工业交换机**
   > 工业交换机
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ercan Ozturk（）ercan.ozturk@intenet.com.tr 〔用户表〕
+- **KP**：Ercan Öztürk（General Manager（İntenet İletişim Teknolojileri Ltd. Şti.；LinkedIn）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28））ercan.ozturk@intenet.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 intenet.com.tr，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | İntenet İletişim Teknolojileri Ltd. Şti.（İstanbul；MERSİS 号未取） |
+| 成立 | 1993（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Oruç Reis Mah. Giyimkent Sitesi, Giyimkent 2. Sokak No 56, 34237 Esenler / İstanbul |
+| 人数 | 11–50 人 |
+| 其他 | 官网 intenet.com.tr，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 101 批：电信 / 网络系统集成商 + GM 本人收件 → **集成商 25%**（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W / STC-110XGE）；加厚一次（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：变电站自动化 / SCADA / 通信系统集成；光纤产品与基础设施
 - **触达通道（公开）**：role: 电力/变电站系统集成商（土耳其，守界）；region: 土耳其；contact: info@intenet.com.tr、ercan.ozturk@intenet.com.tr
@@ -237,7 +255,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ercan Ozturk | — | ercan.ozturk@intenet.com.tr | 调研核实（公开页） | 用户表 |
+| Ercan Öztürk | General Manager（İntenet İletişim Teknolojileri Ltd. Şti.；LinkedIn）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28） | ercan.ozturk@intenet.com.tr | 调研核实（公开页） | 用户表 |
+| Ercan Ozturk | — | info@intenet.com.tr / ercan.ozturk@intenet.com.tr | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 

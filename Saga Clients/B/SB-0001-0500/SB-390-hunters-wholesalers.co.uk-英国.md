@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,6 +83,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 101 批（GB · 1 次检索：官网 Terms（「Hunters Wholesalers, a trading name of SSED Ltd, company registration number 04864055 and registered office at Trade City, Unit 3 Martin Road, Clivemont Park, Maidenhead SL6 7DZ」）+ 官网 About（SSED T/A Hunters Wholesalers；2003 起；独立多品牌分销）+ LinkedIn（2003；2–10；Slough；Hikvision / Videx / Fike / Bosch）+ Kompass（SIC 80200；0–9 人；注册号误列 06486469）+ Companies House 06486469（HUNTERS WHOLESALERS LIMITED；2008-01-28 成立；**Dissolved 2011-02-22**；242 Trelawney Avenue, Langley = 旧壳）+ construction.co.uk（Mr Harjinder Narula）+ securitysuppliesdirect.co.uk（sales@hunters-wholesalers.co.uk；01628 669 124；同址），2026-10-28 查；https://www.hunters-wholesalers.co.uk/information/terms?language=en-gb）：**
+
+- 法定名 / 登记号：SSED Ltd（T/A Hunters Wholesalers；hunters-wholesalers.co.uk；Maidenhead，前址 Slough / Langley）— 2003 年起的多品牌电子安防批发商（CCTV / 门禁 / 对讲 / 入侵 / 消防；Hikvision / Videx / Fike / Bosch；2–10 人）；Companies House **04864055**（Terms 页）；联系人 Harjinder Narula；（HUNTERS WHOLESALERS LIMITED 06486469 = 2011 注销旧壳） · Companies House 04864055（SSED Ltd）；旧壳 HUNTERS WHOLESALERS LIMITED 06486469 已注销 2011 · 状态 **Active（站点在线；多址运营）** · 成立 2003（自述；SSED Ltd 号段 2003） · Private limited company（SSED Ltd 以 Hunters Wholesalers 商号经营）
+- 行业码 / 经营范围：80200 — 安防系统服务（实为电子安防设备多品牌批发：CCTV / 门禁 / 对讲 / 报警 / 消防 / 卫星电视 / 配钥匙）
+- 注册地址：Trade City, Unit 3 Martin Road, Clivemont Park, Maidenhead SL6 7DZ（另址 Unit 4A Kelpatrick Road, Slough SL1 6BW）
+- 规模档：微型（2–10 人）
+- 账目：—；—
+- 高管：Harjinder Narula — 联系人 / 负责人（construction.co.uk；董事身份未核）= 收件人（研究档无 KP）
+- 控制人 / 股东：未取
+- 曾用名：HUNTERS WHOLESALERS LIMITED（06486469，2008–2011 旧壳）
+- **这意味着什么：**
+  - **微型多品牌安防批发** → **分销 20% small，一页纸**：STC-028GP / STC-228GP / STC-2216GP（对标其 Hikvision PoE 交换机在售价）
+  - 收件人 sales@ 点名 Harjinder Narula；表内无跟进（研究档站点 timeout）→ 首信即一页纸；发信窗口 Thu 12–14 GMT；下轮补项：CH 04864055 董事 / 账目
+- 备注：分销 20% small；一页纸；CH 04864055 待补董事。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,14 +135,18 @@ updated: 2026-10-27
 - **【用户表】分销商 商业 PoE 有丰润达**
   > 分销商 商业PoE 有润丰达的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Harjinder Narula（联系人 / 负责人（construction.co.uk；董事身份未核；SSED Ltd T/A Hunters Wholesalers）= 收件人（sales@ 点名）（第 101 批 官方登记核实 2026-10-28））sales@hunters-wholesalers.co.uk 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 hunters-wholesalers.co.uk，语言 ?，快照状态 timeout；角色判定来源：用户表 |
+| 法定名称 | SSED Ltd T/A Hunters Wholesalers（Companies House 04864055，官网 Terms；旧壳 HUNTERS WHOLESALERS LIMITED 06486469 已于 2011 注销） |
+| 成立 | 2003（自述）（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Trade City, Unit 3 Martin Road, Clivemont Park, Maidenhead SL6 7DZ（另址 Slough） |
+| 人数 | 2–10 人 |
+| 其他 | 官网 hunters-wholesalers.co.uk，语言 ?，快照状态 timeout；角色判定来源：用户表；第 101 批：微型多品牌电子安防批发（Hikvision / Videx / Fike / Bosch）→ **分销 20% small**（STC-028GP / STC-228GP / STC-2216GP）；一页纸；下轮补项：CH 04864055 董事 / 账目（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气 / 安防产品批发（英国）
 - **触达通道（公开）**：role: 电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）；region: 英国；contact: sales@hunters-wholesalers.co.uk
@@ -218,7 +237,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@hunters-wholesalers.co.uk | 用户表原值 | Clients/ 表 |
+| Harjinder Narula | 联系人 / 负责人（construction.co.uk；董事身份未核；SSED Ltd T/A Hunters Wholesalers）= 收件人（sales@ 点名）（第 101 批 官方登记核实 2026-10-28） | sales@hunters-wholesalers.co.uk | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -287,7 +306,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Harjinder,
 
 Some time ago you had a product mail from us - "90W PoE Managed Switch" on 24 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the managed PoE switch position in your wholesale range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your trade customers buy most?
 
@@ -312,12 +331,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

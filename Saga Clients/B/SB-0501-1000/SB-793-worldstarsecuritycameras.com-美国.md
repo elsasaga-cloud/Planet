@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,6 +82,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 101 批（US · 1 次检索：官网首页（WorldStar Security Cameras；500 S Dixie Hwy W, Pompano Beach, FL 33060；(954) 534-9485；sales@worldstarcctv.com；「wholesale distributor and installer of security cameras, NVRs, access control, and network equipment for dealers, installers, integrators」；菜单含 Dealer Registration / **Custom Branding**；自称 NDAA 设备）+ ZoomInfo（2010；11–50；<$5M；3121 W Hallandale Beach Blvd Ste 110；Rolf Vilaire — Business Development）+ RocketReach（2010；2 人；$1M）+ LinkedIn（Partnership；2010；11–50）+ Yelp（两址）；Sunbiz 法定名未取，2026-10-28 查；https://worldstarsecuritycameras.com/）：**
+
+- 法定名 / 登记号：WorldStar Security Cameras（WSSC；worldstarsecuritycameras.com / worldstarcctv.com；Pompano Beach, FL，前址 Hallandale Beach）— 2010 年起的安防摄像机 / NVR / 门禁 / 网络设备批发 + 安装商（dealer 计划 + **「Custom Branding」自有标服务**；Partnership；11–50 人 / <$5M）；**FL 法定名未取 → 部分坐实** · 部分坐实（FL；法定名 / Sunbiz 号未取） · 状态 **Active（官网 2026-09 更新）** · 成立 2010 · Partnership（LinkedIn；私有）
+- 行业码 / 经营范围：安防摄像机 / NVR / 门禁 / 网络设备批发（dealer 计划）+ 本地安装 + 自有标（Custom Branding）服务
+- 注册地址：500 S Dixie Hwy W, Pompano Beach, FL 33060（前址 3121 W Hallandale Beach Blvd Ste 108/110, Hallandale Beach, FL 33009）
+- 规模档：小型（2–50 人；<$5M）
+- 账目：—；—
+- 高管：Rolf Vilaire — Business Development = 研究档 KP rv@worldstarcctv.com
+- 高管：合伙人姓名未取
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自己给 dealer 做「Custom Branding」= 已有贴牌需求 → 贴标 OEM 30% 目标（WorldStar 标 STC-028GP / STC-228GP / STC-2216GP）兼分销 20%**；其 NDAA 口径 = 我们不承诺 NDAA（规则），信里只谈规格 / 价格 / 保修；加厚一次
+  - 收件人 Rolf Vilaire（BD）；表内 1 次跟进无回复 → 第二次触达换主题「white-label PoE switches for your Custom Branding program」；发信窗口 Wed 08–10 ET；下轮补项：Sunbiz 法定名
+- 备注：贴标 OEM 30% 目标 + 分销 20%；加厚一次；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,15 +136,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE 新桥的**
   > 商业PoE 新桥的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rolf Vilaire（）rv@worldstarcctv.com 〔用户表〕
+- **KP**：Rolf Vilaire（Business Development（WorldStar Security Cameras）= 收件人（第 101 批 官方登记核实 2026-10-28））rv@worldstarcctv.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 worldstarsecuritycameras.com，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | WorldStar Security Cameras（WSSC；FL 法定名 / Sunbiz 号未取 → 部分坐实） |
+| 成立 | 2010（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 500 S Dixie Hwy W, Pompano Beach, FL 33060 |
+| 人数 | 2–50 人；<$5M |
+| 其他 | 官网 worldstarsecuritycameras.com，语言 ?，快照状态 ok；角色判定来源：待核；第 101 批：自有标安防摄像机 + 分销 → **贴标 OEM 30% 目标 + 分销 20%**（WSSC 标 STC-028GP / STC-228GP / STC-2224GP）；加厚一次；部分坐实（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 安防产品经销（美国）
 - **触达通道（公开）**：role: CCTV 经销商（美国，PoE 现新桥）；region: 美国；contact: sales@worldstarcctv.com、rv@worldstarcctv.com
@@ -221,7 +239,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rolf Vilaire | — | rv@worldstarcctv.com | 调研核实（公开页） | 用户表 |
+| Rolf Vilaire | Business Development（WorldStar Security Cameras）= 收件人（第 101 批 官方登记核实 2026-10-28） | rv@worldstarcctv.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -314,12 +332,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

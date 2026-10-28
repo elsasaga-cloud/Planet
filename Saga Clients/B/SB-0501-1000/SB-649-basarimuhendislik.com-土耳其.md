@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 101 批（TR · 1 次检索：EMIS（Basari Muhendislik Otomasyon Elektrik Ltd. Sti.；incorporated 2007-10-09；Herford Plaza No 128-2 İnönü Mah. Kayışdağı Cad. Ataşehir İstanbul 34755）+ 官网 İletişim / 首页（İnönü Mh. Kayışdağı Cd. Kandiş İş Merkezi No 128 Kat 1 Ataşehir；satis@；+90 216 469 7450；2007 起；SCADA & RTU、能源自动化、电信系统、工业 IoT、工业网络）+ LinkedIn（2007；11–50；Ataşehir）+ ContactOut（28 人；$4.2M）+ RocketReach（35 人；$5M；Co-Founder Murat Tunçer；LoRaWAN IoT）+ Kariyer（电厂、变电站、轨道系统、OSB、机场）；MERSİS 号未取，2026-10-28 查；https://www.emis.com/php/company-profile/TR/Basari_Muhendislik_Otomasyon_Elektrik_Ltd_Sti_en_3949953.html）：**
+
+- 法定名 / 登记号：Başarı Mühendislik Otomasyon Elektrik Ltd. Şti.（basarimuhendislik.com；İstanbul Ataşehir）— 2007-10-09 成立的能源自动化 / SCADA-RTU / 电信系统 / 工业网络 / LoRaWAN IoT 交钥匙工程商（变电站、电厂、OSB、机场、炼油厂、**轨道交通（守界）**、医院；28–35 人；$4–5M；联合创始人 Murat Tunçer） · Ltd. Şti.（İstanbul；EMIS 在册；MERSİS 号未取） · 状态 **Active（官网 2025 更新）** · 成立 2007-10-09 · Limited Şirket（私有；联合创始人 Murat Tunçer）
+- 行业码 / 经营范围：能源自动化 / SCADA-RTU / 电能质量与抄表 / 电信系统 / 工业网络 / LoRaWAN IoT 交钥匙工程（输配电、电厂、OSB、机场、炼油、轨交、医院）
+- 注册地址：İnönü Mah. Kayışdağı Cad. No 128 Kat 1 D 2（Kandiş / Herford Plaza）, 34755 Ataşehir / İstanbul
+- 规模档：小型（28–35 人；$4–5M）
+- 账目：—；—
+- 高管：Murat Tunçer — Co-Founder（RocketReach）
+- 高管：Hakan Öztürk — 研究档 KP hakan.ozturk@（职务未核；LinkedIn 同名 ERC Sistem 者为他人，不采）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工业自动化工程商 → 集成商 25%**：STI-288DGGPM / STI-488DGGPM（变电站 / 电厂 SCADA 环网，导轨宽温）+ STI-0240GE；**轨道交通项目不碰（守界：无 EN 50155）**，信里只谈能源 / OSB / 机场场景；一页纸 + 工业线规格
+  - 收件人 Hakan Öztürk 主送 + satis@ 抄；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 10–12 TRT；不加厚
+- 备注：集成商 25%；轨交守界；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,15 +123,18 @@ updated: 2026-10-28
 - **【官网快照】Başarı Mühendislik 定位**
   > Ana Sayfa - Başarı Mühendislik ; Enerji İzleme, Enerji Otomasyonu çözümlerimizle enerji altyapınızı optimize edin ; /endustriyel-gigabit-poe-switch/
   > 来源：https://www.basarimuhendislik.com/（抓取 2026-10-21）
-- **KP**：Hakan Öztürk（）hakan.ozturk@basarimuhendislik.com 〔用户表〕
+- **KP**：Hakan Öztürk（研究档 KP（职务未核；LinkedIn 同名 ERC Sistem 者为他人，不采）= 收件人（第 101 批 官方登记核实 2026-10-28））hakan.ozturk@basarimuhendislik.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 basarimuhendislik.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Başarı Mühendislik Otomasyon Elektrik Ltd. Şti.（İstanbul Ataşehir；EMIS 在册；MERSİS 号未取；联合创始人 Murat Tunçer） |
+| 成立 | 2007-10-09（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | İnönü Mah. Kayışdağı Cad. No 128 Kat 1 D 2, 34755 Ataşehir / İstanbul |
+| 人数 | 28–35 人；$4–5M |
+| 其他 | 官网 basarimuhendislik.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 101 批：能源自动化 / 电气工程集成 → **集成商 25%**（STI-054GP / STI-144GP / STI-288DGGPM 工业导轨）；轨交 EN 50155 守界不谈；一页纸（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：能源监测 / 能源自动化 / SCADA & RTU；工业 IoT / 通信系统（工业交换机栏目）
 - **触达通道（公开）**：role: 能源自动化集成商（土耳其，Korenix 在售；仅民用口径）；region: 土耳其；contact: hakan.ozturk@basarimuhendislik.com
@@ -198,7 +216,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hakan Öztürk | — | hakan.ozturk@basarimuhendislik.com | 调研核实（公开页） | 用户表 |
+| Hakan Öztürk | 研究档 KP（职务未核；LinkedIn 同名 ERC Sistem 者为他人，不采）= 收件人（第 101 批 官方登记核实 2026-10-28） | hakan.ozturk@basarimuhendislik.com | 调研核实（公开页） | 用户表 |
 | Hakan | — | hakan.ozturk@basarimuhendislik.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

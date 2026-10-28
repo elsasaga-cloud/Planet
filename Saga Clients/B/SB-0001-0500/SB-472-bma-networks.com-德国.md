@@ -78,6 +78,23 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 101 批（DE · 1 次检索：官网 Impressum（BMAnetworks GmbH；Albert-Einstein-Ring 5, 22761 Hamburg-Bahrenfeld；Vertretungsberechtigte Geschäftsführer Alisa Ehrk, Wolfgang Ehrk；Registergericht Amtsgericht Kiel HRB 4103；USt-IdNr DE167682158；DIERCK GROUP (Holding) Preetzer Chaussee 55, 24222 Schwentinental）+ Validatis（Sitz Schwentinental；HRB 4103；EUID DEX1517R.HRB4103；Jahresabschluss 2024（2026-02-18）：Bilanzsumme €4.5M +36 %，18 Mitarbeiter，Eigenkapital €1.7M）+ Northdata（HRB 4103 KI；LEI 529900FOV9RXV8MQPE96；2007-10-09 as Dierck Sicherheitstechnik GmbH）+ LinkedIn（2007；11–50；Systemintegrator IT-Networking / Security / ADC）+ Datanyze（Mats Hansen — Head of Information Security）+ Empack（DIERCK GROUP 260 人，140 年历史），2026-10-28 查；https://bma-networks.com/impressum）：**
+
+- 法定名 / 登记号：BMAnetworks GmbH（bma-networks.com；Schwentinental bei Kiel + Hamburg-Bahrenfeld）— 2007 年起的企业 IT 系统集成商（网络 / 安全 / ADC 项目；DIERCK GROUP 成员，集团 260 人）；Amtsgericht Kiel HRB 4103；GF Alisa Ehrk / Wolfgang Ehrk；18 人，总资产 €4.5M（2024 账）；研究档 KP Mats Hansen = Head of Information Security（非采购） · HRB 4103 KI（Amtsgericht Kiel）· LEI 529900FOV9RXV8MQPE96 · USt-ID DE167682158 · 状态 **Aktiv（2024 账已公示 2026-02-18）** · 成立 2007-10-09（原名 Dierck Sicherheitstechnik GmbH） · GmbH（DIERCK GROUP 集团成员）
+- 行业码 / 经营范围：IT 系统集成：企业网络、IT 安全、应用交付（ADC）、咨询与实施（厂商认证工程师；全德客户）
+- 注册地址：Preetzer Chaussee 55, 24222 Schwentinental（总部）；Albert-Einstein-Ring 5, 22761 Hamburg（分部）
+- 规模档：小型（18 人；集团 260 人）
+- 账目：2024 账：总资产 €4.5M，权益 €1.7M，18 人；—
+- 高管：Alisa Ehrk — Geschäftsführerin
+- 高管：Wolfgang Ehrk — Geschäftsführer / 内容责任人
+- 高管：Mats Hansen — Head of Information Security = 研究档 KP mats.hansen@（**非采购 / 非网络选型人**）
+- 控制人 / 股东：DIERCK GROUP (Holding)
+- 曾用名：Dierck Sicherheitstechnik GmbH（2007）
+- **这意味着什么：**
+  - **企业级 SI（Cisco / F5 一类项目）+ 研究档 KP 是信息安全负责人** → Saga 产品对口度低 → **集成商 25% 低概率，一页纸即止**：STC-4424GCPM / STC-424XGGPM-280W（楼宇接入 PoE 替代款）+ STC-110XGE；不加厚
+  - 收件人改 info@ 点名「Einkauf / Netzwerk-Projektleitung」，Mats Hansen 抄送；表内 1 次跟进无回复 → 第二次触达一次后 `when=不动`；发信窗口 Thu 12–14 CET
+- 备注：集成商 25% 低概率；一页纸；KP 非采购。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,15 +138,18 @@ updated: 2026-10-28
 - **【用户表】Networking**
   > Networking
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mats Hansen（）mats.hansen@bma-networks.com 〔用户表〕
+- **KP**：Mats Hansen（Head of Information Security（BMAnetworks GmbH；**非采购 / 非网络选型人**）= 抄送，收件改 info@ 点名 Einkauf / Netzwerk-Projektleitung（第 101 批 官方登记核实 2026-10-28））mats.hansen@bma-networks.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 bma-networks.com，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | BMAnetworks GmbH（Amtsgericht Kiel HRB 4103；LEI 529900FOV9RXV8MQPE96；原名 Dierck Sicherheitstechnik GmbH；DIERCK GROUP 成员；GF Alisa Ehrk / Wolfgang Ehrk） |
+| 成立 | 2007-10-09（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Preetzer Chaussee 55, 24222 Schwentinental（分部 Albert-Einstein-Ring 5, 22761 Hamburg） |
+| 人数 | 18 人（2024 账；总资产 €4.5M；集团 260 人） |
+| 其他 | 官网 bma-networks.com，语言 de，快照状态 ok；角色判定来源：官网文案；第 101 批：企业级 IT 系统集成（网络 / 安全 / ADC）→ **集成商 25% 低概率**（STC-4424GCPM / STC-424XGGPM-280W / STC-110XGE）；一页纸即止；第二次触达一次后不动（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业 IT / 网络 / OT 安全系统集成
 - **触达通道（公开）**：role: 企业 IT 系统集成商（德国，Extreme 生态）；region: 德国；contact: info@bma-networks.com、mats.hansen@bma-networks.com
@@ -221,7 +241,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mats Hansen | — | mats.hansen@bma-networks.com | 调研核实（公开页） | 用户表 |
+| Mats Hansen | Head of Information Security（BMAnetworks GmbH；**非采购 / 非网络选型人**）= 抄送，收件改 info@ 点名 Einkauf / Netzwerk-Projektleitung（第 101 批 官方登记核实 2026-10-28） | mats.hansen@bma-networks.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

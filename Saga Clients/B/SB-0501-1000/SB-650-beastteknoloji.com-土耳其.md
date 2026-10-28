@@ -81,6 +81,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 101 批（TR · 1 次检索：官网 İletişim（Beast Güvenlik Teknolojileri；Merdivenköy Mah. Günaydın Sok. No 4, Göztepe / İstanbul；+90 216 602 26 14；info@；Başak HATEM basak.hatem@ 0539 389 23 69 Dahili 104）+ RocketReach（BEAST GÜVENLİK TEKNOLOJİLERİ A.Ş.；2021；4 人；Başak Hatem — G.M. 2021 起，前 Eslife 产品经理 / ENTES 企业销售经理）+ LinkedIn 帖（BAŞAK ERDUR HATEM — Beast Güvenlik Teknolojileri A.Ş de Kurucu Ortak；Tiandy ana dağıtıcı）+ BİGİS 会员名录（BEAST GÜVENLİK TEKNOLOJİ SAN. DIŞ TİCARET A.Ş.；Başak HATEM；34SND561-34077）+ 官网 2025（BEAST & HIKVISION 会谈、Reolink 来访、ISAF 24 展台、AJAX 奖牌、TEKNİM 最佳分销商奖）；MERSİS 号未取，2026-10-28 查；https://www.beastteknoloji.com/iletisim/）：**
+
+- 法定名 / 登记号：BEAST GÜVENLİK TEKNOLOJİLERİ A.Ş.（BİGİS 名录写 BEAST GÜVENLİK TEKNOLOJİ SAN. DIŞ TİCARET A.Ş.；beastteknoloji.com；İstanbul Kadıköy Göztepe）— 2021 年成立的电子安防分销商（Tiandy 主分销、Hikvision / Reolink / Ajax / Teknim「最佳分销商」奖；ISAF 参展；4–10 人）；**G.M. / 创始合伙人 Başak (Erdur) Hatem = 研究档 KP 本人** · A.Ş.（İstanbul；BİGİS 会员号 34SND561-34077；MERSİS 号未取） · 状态 **Active（官网 2025-10 更新）** · 成立 2021 · Anonim Şirket（私有；创始合伙人 Başak Hatem）
+- 行业码 / 经营范围：电子安防设备分销（Tiandy 主分销；Hikvision / Reolink / Ajax / Teknim；摄像机 / NVR / 报警 / 门禁 / 安装耗材）面向安装商与工程商
+- 注册地址：Merdivenköy Mah. Günaydın Sok. No 4, Göztepe / Kadıköy, İstanbul
+- 规模档：微型 / 小型（4–10 人）
+- 账目：—；—
+- 高管：Başak (Erdur) Hatem — Genel Müdür / Kurucu Ortak（创始合伙人）= **研究档 KP basak.hatem@ 本人**
+- 控制人 / 股东：Başak Hatem（合伙人之一）
+- **这意味着什么：**
+  - **年轻安防分销商 + 老板本人收件 + 已代理多个外国品牌 → 分销 20%**：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（配 Tiandy / Hikvision 摄像机套件）；也可谈 Beast 标贴牌（OEM 30%）；加厚一次
+  - 表内 1 次跟进无回复 → 第二次触达换主题「a PoE switch line for your Tiandy kits — MOQ 1, 15-day quote」；发信窗口 Thu 10–12 TRT；升 A 候选（回信即 A）
+- 备注：分销 20%（可谈贴标）；KP = GM / 创始合伙人本人；加厚一次；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,15 +123,18 @@ updated: 2026-10-28
 - **【官网快照】Beast Teknoloji 品牌**
   > Beast Teknoloji ; Markalar Tiandy Tiandy Detaylar Dahua Dahua Detaylar Hikvision Hikvision Detaylar Ajax Ajax Detaylar Destek Bayilik Başvuru Formu
   > 来源：https://www.beastteknoloji.com/（抓取 2026-10-21）
-- **KP**：Başak Hatem（）basak.hatem@beastteknoloji.com 〔用户表〕
+- **KP**：Başak Hatem（Genel Müdür / Kurucu Ortak（总经理 / 创始合伙人；BEAST GÜVENLİK TEKNOLOJİLERİ A.Ş.）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28））basak.hatem@beastteknoloji.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 beastteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | BEAST GÜVENLİK TEKNOLOJİLERİ A.Ş.（BİGİS 名录 BEAST GÜVENLİK TEKNOLOJİ SAN. DIŞ TİCARET A.Ş.；会员号 34SND561-34077；MERSİS 号未取） |
+| 成立 | 2021（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Merdivenköy Mah. Günaydın Sok. No 4, Göztepe / Kadıköy, İstanbul |
+| 人数 | 4–10 人 |
+| 其他 | 官网 beastteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 101 批：安防技术外贸型 A.Ş. + GM / 创始合伙人本人收件 → **分销 20%（可谈贴标 OEM 30%）**（STC-028GP / STC-228GP / STC-2224GP）；加厚一次；升 A 候选（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防产品分销（Tiandy / Dahua / Hikvision / Ajax）
 - **触达通道（公开）**：role: 安防分销商（土耳其，Tiandy/Dahua/Hikvision）；region: 土耳其；contact: basak.hatem@beastteknoloji.com
@@ -195,7 +212,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Başak Hatem | — | basak.hatem@beastteknoloji.com | 调研核实（公开页） | 用户表 |
+| Başak Hatem | Genel Müdür / Kurucu Ortak（总经理 / 创始合伙人；BEAST GÜVENLİK TEKNOLOJİLERİ A.Ş.）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28） | basak.hatem@beastteknoloji.com | 调研核实（公开页） | 用户表 |
 | Basak | — | basak.hatem@beastteknoloji.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

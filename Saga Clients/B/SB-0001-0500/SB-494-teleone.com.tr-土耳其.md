@@ -89,6 +89,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 101 批（TR · 1 次检索：官网 Hakkımızda（İzmir 总部 800 m²；Ankara 区域经理处；Brickcom / Nuuo / Digital Watchdog 土耳其分销；2014 起 DMO 供应商、同领域前三；2008 起 TSE-HYB / ISO / OHSAS；Bilişim 500 两次；2016 全球最佳 Brickcom 分销商）+ ZoomInfo（1999 起；Mithatpaşa Cd. No 146 D 2-3, Konak, İzmir 35260；<$5M）+ 官网 İletişim（Mithatpaşa Cad. Zafer Apt. No 146 Kat 1 D 2-3 Konak / İzmir；0850 221 95 95）+ Facebook（info@teleone.com.tr）+ 官网首页（Sunell 热成像测温方案）；İstanbul 的 TELEON İletişim Hizmetleri（VKN 7350780251，2014）为同名他户，不采，2026-10-28 查；https://www.teleone.com.tr/hakkimizda/）：**
+
+- 法定名 / 登记号：Teleone（Teleone Bilgi ve İletişim Hizmetleri；teleone.com.tr；İzmir Konak，Ankara 区域办）— 1999 年起的电子安防整体方案商兼品牌分销商（Brickcom / Nuuo / Digital Watchdog / Sunell 土耳其分销；2014 起 DMO 国家采购平台供应商前三；TSE-HYB / ISO 2008 起；Bilişim 500 两次；<$5M）；**法律形式 / MERSİS 未取 → 部分坐实** · 部分坐实（İzmir；法律形式 / MERSİS 号未取） · 状态 **Active（站点在线；DMO 供应商）** · 成立 1999 · 未取（私有；自述 Bilgi ve İletişim Hizmetleri）
+- 行业码 / 经营范围：电子安防整体方案（视频监控 / 视频分析 / 网络 / 指挥中心）+ 外国品牌土耳其分销 + 公共采购（DMO）供货
+- 注册地址：Mithatpaşa Cad. Zafer Apt. No 146 Kat 1 D 2-3, Konak / İzmir（Ankara 区域办）
+- 规模档：小型（人数未取；<$5M）
+- 账目：—；—
+- 高管：无具名（研究档无 KP；info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **替外国品牌做土耳其分销 + DMO 公采通道 → 分销 20% 首选 TR（可把 Saga 列为其网络硬件品牌）**：STC-228GP / STC-2224GP / STC-4424GCPM（配其 NVR / 摄像机项目）+ STI-288DGGPM（市政 / 地铁杆位 —— 地铁站只谈站厅商业场景）；加厚一次
+  - 收件人 info@ 点名「satın alma / ürün müdürü」；表内无跟进 → 首信即一页纸 + DMO 适配说明（CE / RoHS 文件齐）；发信窗口 Thu 10–12 TRT；下轮补项：法律形式 / MERSİS
+- 备注：分销 20% 首选 TR；加厚一次；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -145,8 +159,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 teleone.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Teleone Bilgi ve İletişim Hizmetleri（İzmir；法律形式 / MERSİS 号未取 → 部分坐实；TELEON 为同名他户） |
+| 成立 | 1999（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Mithatpaşa Cad. Zafer Apt. No 146 Kat 1 D 2-3, Konak / İzmir（Ankara 区域办） |
+| 人数 | 小型（<$5M） |
+| 其他 | 官网 teleone.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 101 批：电子安防整体方案 + 品牌分销 → **分销 20% 首选 TR**（STC-228GP / STC-2224GP / STC-4424GCPM / STI-144GP）；加厚一次；收件人 info@ 点名 satın alma（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频监控方案（土耳其）
 - **触达通道（公开）**：role: 视频监控方案商（土耳其，PoE 现 Utepo）；region: 土耳其；contact: info@teleone.com.tr

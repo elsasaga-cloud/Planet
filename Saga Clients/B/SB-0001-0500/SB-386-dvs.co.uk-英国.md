@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,6 +88,25 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 101 批（GB · 1 次检索：Companies House 04963144（DVS LTD；Active；2003-11-13 成立；注册地 C/O Midwich Limited, Vinces Road, Diss IP22 4YT（2022-01-20 由 Cardiff 迁入）；PSC Cooper Projects Limited 10121998（2016-06-20 起）；董事 Timothy Goodson 2016 / Gavin Francis Dunleavy 2013 / Stephen Barry Fenby 2022 / Mark Daniel Lowe 2022 / Adam Thomas Councell 2026-03-02）+ Endole（Hikvision CCTV 分销；Gavin Dunleavy — Commercial Director）+ theorg（Tim Goodson MD；David Davies 技术总监；Lynsey Morgan 财务总监；Josh Whitehead Head of Sales）+ SecurityInformed 2016（MBO，HSBC 融资）+ ChannelWeb 2022-01（Midwich 收购多数股权；Hikvision / Toshiba 分销）+ RocketReach（157 人；$6.6M —— 第三方，仅作区间），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/04963144）：**
+
+- 法定名 / 登记号：DVS LTD（dvs.co.uk；Cardiff，Unit 3 Neptune Point）— 2003 年成立的 Hikvision 英国主要分销商（CCTV / 门禁 / 报警 / 智能家居）；2016 管理层收购，**2022-01 Midwich plc 取得多数股权**（母公司 Cooper Projects Limited 10121998 = PSC）；MD Tim Goodson；Companies House 04963144；注册地 c/o Midwich, Diss · Companies House 04963144 · 状态 **Active（新董事 2026-03-02）** · 成立 2003-11-13 · Private limited company（Midwich plc 旗下，经 Cooper Projects Limited 控股）
+- 行业码 / 经营范围：安防产品分销（Hikvision 英国主分销；CCTV / 视频火灾探测 / 门禁 / 报警 / 智能家居），面向行业安装商
+- 注册地址：Unit 3, Neptune Point, Vanguard Way, Cardiff CF24 5PG（经营地；注册地 c/o Midwich, Diss）
+- 规模档：中型（第三方 100+ 人；集团上市公司）
+- 账目：—（Midwich 集团并表）；—
+- 高管：Timothy Goodson — Managing Director / Director（2016 起）
+- 高管：Gavin Francis Dunleavy — Commercial Director / Director（2013 起）
+- 高管：Stephen Barry Fenby / Mark Daniel Lowe — Director（Midwich 方，2022）
+- 高管：Adam Thomas Councell — Director（2026-03）
+- 高管：Josh Whitehead — Head of Sales
+- 高管：Scott Abraham — 研究档 KP scott.abraham@（职务未核）
+- 控制人 / 股东：Cooper Projects Limited（10121998）→ Midwich plc
+- **这意味着什么：**
+  - **上市集团旗下 Hikvision 主分销 → 供应商准入正式、绑定 Hikvision 生态 → 分销 20% 低概率但体量大**：切口 = 「非 Hikvision 的网络侧」STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W 作为其 PoE 交换机第二货源；一页纸即止，不加厚
+  - 收件人：Scott Abraham（研究档，已在收）+ 点名 Commercial Director Gavin Dunleavy / Head of Sales Josh Whitehead；研究档站点 http_error → 用 CH / theorg 信息；表内 1 次跟进无回复 → 第二次触达一次；发信窗口 Thu 12–14 GMT
+- 备注：分销 20% 低概率（Midwich 集团）；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,15 +144,18 @@ updated: 2026-10-27
 - **【用户表】switch PoE 配件 Utepo**
   > switch PoE配件 有utepo的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Scott Abraham（）scott.abraham@dvs.co.uk 〔用户表〕
+- **KP**：Scott Abraham（研究档 KP（职务未核；DVS LTD）= 收件人；点名 Commercial Director Gavin Dunleavy / Head of Sales Josh Whitehead（第 101 批 官方登记核实 2026-10-28））scott.abraham@dvs.co.uk 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 dvs.co.uk，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | DVS LTD（Companies House 04963144；注册地 c/o Midwich Limited, Diss；PSC Cooper Projects Limited 10121998 → Midwich plc 2022-01 多数股权；MD Tim Goodson；董事 Dunleavy / Fenby / Lowe / Councell） |
+| 成立 | 2003-11-13（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 3, Neptune Point, Vanguard Way, Cardiff CF24 5PG |
+| 人数 | 中型（第三方 100+ 人；集团并表） |
+| 其他 | 官网 dvs.co.uk，语言 ?，快照状态 http_error；角色判定来源：待核；第 101 批：Hikvision 英国主分销（上市集团旗下，供应商准入正式）→ **分销 20% 低概率但体量大**（非 Hikvision 网络侧：STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W 作 PoE 交换机第二货源）；一页纸即止；不加厚（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 安防产品分销（英国）
 - **触达通道（公开）**：role: 安防分销商（英国，大型，Utepo 在供）；region: 英国；contact: contact@dvs.co.uk、scott.abraham@dvs.co.uk
@@ -226,7 +248,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Scott Abraham | — | scott.abraham@dvs.co.uk | 调研核实（公开页） | 用户表 |
+| Scott Abraham | 研究档 KP（职务未核；DVS LTD）= 收件人；点名 Commercial Director Gavin Dunleavy / Head of Sales Josh Whitehead（第 101 批 官方登记核实 2026-10-28） | scott.abraham@dvs.co.uk | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -320,12 +342,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

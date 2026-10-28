@@ -81,6 +81,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 101 批（DE · 1 次检索：官网 Impressum（UBF EDV Handel und Beratung Jürgen Fischer GmbH；Römerstr. 37, 44579 Castrop-Rauxel；+49 2305 9634 0；vertrieb@ubf.de；Handelsregister HRB Dortmund Nr. 32518；W-IdNr DE421854265；USt-ID DE 125 414 228；WEEE DE 77813798；DIN EN ISO 9001:2015）+ firmendatenbanken（GmbH；HRB 32518 Dortmund；Geschäftsführung Jürgen Fischer；Gesellschafter Jürgen Fischer）+ Northdata（Dortmund HRB 32518 / Traunstein HRB 24719 / Dortmund HRB 18432；MD Jürgen Fischer；Capital 50,000 DEM；Change of headquarters）+ vivid 登记公告（Gesellschaftsvertrag 1981-06-25；2004 由 Herne 迁 Castrop-Rauxel；2015-10-20 Sitz 迁 Mühldorf a. Inn（Amtsgericht Traunstein HRB 24719））+ branchen-info（B2B Hersteller / Distributor / Großhandel mit Netzwerkkomponenten），2026-10-28 查；https://www.northdata.com/UBF%20EDV%20Handel%20und%20Beratung%20J%C3%BCrgen%20Fischer%20GmbH,%20Castrop-Rauxel/Amtsgericht%20Dortmund%20HRB%2032518）：**
+
+- 法定名 / 登记号：UBF EDV Handel und Beratung Jürgen Fischer GmbH（ubf.de；Castrop-Rauxel，注册地 2015 迁 Mühldorf a. Inn）— 1981 年起的工业网络配件 B2B 电商 / 分销商（Industrial Ethernet、PoE、交换机、SFP、媒体转换器、串口 / 现场总线、LWL；ISO 9001:2015；GF 兼唯一股东 Jürgen Fischer） · HRB 32518（Amtsgericht Dortmund；2015 起注册地 Mühldorf a. Inn = Amtsgericht Traunstein HRB 24719）· USt-ID DE125414228 · 状态 **Aktiv（站点在线）** · 成立 1981-06-25（公司合同） · GmbH（资本 50,000 DEM；GF 兼唯一股东 Jürgen Fischer）
+- 行业码 / 经营范围：工业网络组件 B2B 电商 / 分销（Industrial Ethernet 交换机、PoE 供电器 / 交换机、SFP、媒体转换器、串口 RS-232/422/485 与现场总线、LWL 光缆 / 跳线、POF）
+- 注册地址：Römerstr. 37, 44579 Castrop-Rauxel（经营地；注册地 Mühldorf a. Inn）
+- 规模档：微型 / 小型（人数未取；一人公司推定）
+- 账目：—；—
+- 高管：Jürgen Fischer — Geschäftsführer / Alleingesellschafter = 拍板人（研究档无具名 KP，仅 vertrieb@）
+- 控制人 / 股东：Jürgen Fischer
+- 曾用名：UBF EDV Handel und Beratung Jürgen Firscher GmbH（登记笔误，2004 更正）
+- **这意味着什么：**
+  - **老牌工业网络电商 + 老板一人拍板** → **分销 20%，小户，一页纸**：STI-054GP / STI-144GP / STI-288DGGPM（导轨 PoE / 光口）+ STC-228GP；强调 MOQ 1 + 3 年 STI 保修 + 德国 DAP 运费
+  - 收件人 vertrieb@ 点名 Herrn Fischer；表内 1 次跟进无回复 → 第二次触达换主题「DIN-rail PoE switches for your industrial shop — 3-year warranty」；发信窗口 Thu 12–14 CET
+- 备注：分销 20%；小户；一页纸；研究档补 KP Jürgen Fischer。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,14 +132,18 @@ updated: 2026-10-28
   > 兴趣：工业FS MC SFP POE 好几种外壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（销售）（）vertrieb@ubf.de +49 2305 9634 0〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jürgen Fischer（Geschäftsführer / Alleingesellschafter（HRB Dortmund 32518；2015 起注册地 Mühldorf a. Inn = AG Traunstein HRB 24719）= 拍板人（vertrieb@ 点名）（第 101 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | UBF EDV Handel und Beratung Jürgen Fischer GmbH |
-| 总部/地址 | Castrop-Rauxel, Germany（+49 2305） |
+| 法定名称 | UBF EDV Handel und Beratung Jürgen Fischer GmbH（HRB 32518 Dortmund；USt-ID DE125414228；ISO 9001:2015） |
+| 成立 | 1981-06-25（公司合同）（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Römerstr. 37, 44579 Castrop-Rauxel（注册地 Mühldorf a. Inn） |
+| 人数 | 微型 / 小型（人数未取） |
+| 其他 | 第 101 批：1981 年起的工业网络配件 B2B 电商 / 分销（Industrial Ethernet / PoE / SFP / 媒体转换器 / 串口）→ **分销 20% small**（STI-054GP / STI-144GP / STI-288DGGPM + STC-228GP）；一页纸（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络配件 / 工业以太网 / IO 经销
 - **触达通道（公开）**：role: 经销商；region: 德国
@@ -214,7 +233,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | vertrieb@ubf.de | 用户表原值 | Clients/ 表 |
+| Jürgen Fischer | Geschäftsführer / Alleingesellschafter（HRB Dortmund 32518；2015 起注册地 Mühldorf a. Inn = AG Traunstein HRB 24719）= 拍板人（vertrieb@ 点名）（第 101 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -283,7 +302,7 @@ updated: 2026-10-28
 **主题**：STI-288GP - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Jürgen,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Industrial-Ethernet range: DIN 2-SFP + 8-PoE at $57, 5-port mini at $17 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); shall I send the catalogue with the housing variants you asked about?
 

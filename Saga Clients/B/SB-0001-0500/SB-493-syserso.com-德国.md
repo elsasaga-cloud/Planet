@@ -84,6 +84,24 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 101 批（DE · 1 次检索：官网 Impressum（Syserso Networks GmbH – an ITTC Group Company；Ahrensburger Straße 8, 30659 Hannover；Geschäftsführer Naif Kiy, Michael Clever；Amtsgericht Hannover HRB 217735；USt-ID DE 216719491；+49 511 740192-0）+ registercheck（Aktiv；资本 €260,000；GF Michael Clever *1965 / Naif Kiy *1969，登记 2024-11-22）+ online-handelsregister（成立 2019-01-29；最后变更 2021-12-20）+ OpenCorporates（2021-11/12 由 Corning Services GmbH 更名 Syserso Networks GmbH；Naif Kiy / Timothy Leonard GF 2019 起；Prokurist Detlef Böse）+ companyhouse（Naif Kiy GF seit Jan 2019）+ Xing 新闻（Ribbon INSIGHTS EMEA 2026 Best Channel Performer；GF Naif Kiy、销售总监 Holger Kausch）+ ContactOut（VoIP 安全、KRITIS 运营商方案；ISO 9001 / 45001 / 27001），2026-10-28 查；https://www.syserso.com/impressum/）：**
+
+- 法定名 / 登记号：Syserso Networks GmbH（syserso.com；Hannover）— ITTC Group 旗下电信网络 / VoIP 安全 / KRITIS 方案增值分销与集成商（Ribbon「Best Channel Performer 2026」；ISO 9001 / 45001 / 27001）；Amtsgericht Hannover HRB 217735；2019-01-29 成立为 Corning Services GmbH，2021-12 更名；资本 €260,000；**GF Naif Kiy = 研究档 KP 本人**（+ GF Michael Clever 2024-11 起） · HRB 217735（Amtsgericht Hannover）· USt-ID DE216719491 · 状态 **Aktiv（Creditreform 最后变更 2024-11-22）** · 成立 2019-01-29（原 Corning Services GmbH；2021-12 更名） · GmbH（资本 €260,000；ITTC Group 成员）
+- 行业码 / 经营范围：电信运营商 / 关键基础设施网络方案增值分销与集成（Ribbon 会话边界控制 / VoIP 安全、传输、接入）；全德区域销售处
+- 注册地址：Ahrensburger Straße 8, 30659 Hannover
+- 规模档：小型 / 中型（人数未取；4 名登记管理人）
+- 账目：—；—
+- 高管：Naif Kiy — Geschäftsführer（*1969，2019 起）= **研究档 KP naif.kiy@ 本人**
+- 高管：Michael Clever — Geschäftsführer（*1965，2024-11 起）
+- 高管：Holger Kausch — Vertriebsleiter
+- 高管：Detlef Böse — Prokurist（2019）
+- 控制人 / 股东：ITTC Group
+- 曾用名：Corning Services GmbH（2019–2021）
+- **这意味着什么：**
+  - **运营商 / KRITIS 增值分销（Ribbon 线）+ GF 本人收件** → 可切「接入 / 汇聚以太网交换机作为其方案配套」→ **分销 20% 低中概率**：STC-424XGGPM-280W / STC-448XGGPM（机房汇聚）+ STC-110XGE + STH-2C24XF-HSI（25G ToR）；一页纸 + DC 线规格，不加厚
+  - 表内 1 次跟进无回复 → 第二次触达换主题「Ethernet access/ToR switches to complement your Ribbon deployments」；发信窗口 Thu 12–14 CET
+- 备注：分销 20% 低中概率；KP = GF 本人；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,15 +145,18 @@ updated: 2026-10-28
 - **【用户表】Networking**
   > Networking
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Naif Kiy（）naif.kiy@syserso.com 〔用户表〕
+- **KP**：Naif Kiy（Geschäftsführer（*1969；2019 起；Amtsgericht Hannover HRB 217735）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28））naif.kiy@syserso.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 syserso.com，语言 de-DE，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Syserso Networks GmbH（HRB 217735 Hannover；资本 €260,000；ITTC Group；原名 Corning Services GmbH 2019–2021；GF Naif Kiy / Michael Clever；Vertriebsleiter Holger Kausch） |
+| 成立 | 2019-01-29（2021-12 更名）（第 101 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Ahrensburger Straße 8, 30659 Hannover |
+| 人数 | 小型 / 中型（人数未取） |
+| 其他 | 官网 syserso.com，语言 de-DE，快照状态 ok；角色判定来源：官网文案；第 101 批：运营商 / KRITIS 网络方案增值分销（Ribbon 线，ISO 9001 / 45001 / 27001）+ GF 本人收件 → **分销 20% 低中概率**（STC-424XGGPM-280W / STC-448XGGPM / STC-110XGE / STH-2C24XF-HSI 作其方案配套）；一页纸 + DC 规格；不加厚（第 101 批 官方登记核实 2026-10-28） |
 
 - **业务线**：ICT 网络规划 / 实施 / 支持（德国）
 - **触达通道（公开）**：role: ICT 集成商（德国，KRITIS/运营商，民用口径）；region: 德国；contact: info@syserso.com、naif.kiy@syserso.com
@@ -225,7 +246,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Naif Kiy | — | naif.kiy@syserso.com | 调研核实（公开页） | 用户表 |
+| Naif Kiy | Geschäftsführer（*1969；2019 起；Amtsgericht Hannover HRB 217735）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28） | naif.kiy@syserso.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
