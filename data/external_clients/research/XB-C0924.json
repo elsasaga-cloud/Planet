@@ -1,11 +1,11 @@
 {
  "code": "XB-C0924",
  "name": "GrosBill Pro",
- "round": "W3-R06",
+ "round": "W3-R11",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "GrosBill Pro（B2B IT 分销）",
- "type_final": "GrosBill Pro（B2B IT 分销）",
+ "summary": "零售商 B2B 分部（GrosBill Pro，Paris；GrosBill 连锁的企业客户部门）",
+ "type_final": "零售商 B2B 分部（GrosBill Pro，Paris；GrosBill 连锁的企业客户部门）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "pro.grosbill.com：Par e-mail contact@grosbill-pro.com；grosbill-pro.com 多家门店",
+   "quote": "GrosBill Pro : matériel informatique pour les entreprises",
+   "url": "https://pro.grosbill.com/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "零售集团旗下，邮箱待补 → B 不动",
+ "grade_reason_final": "零售集团的 B2B 窗口，不做进口选品 → B 不动；contact@grosbill-pro.com 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

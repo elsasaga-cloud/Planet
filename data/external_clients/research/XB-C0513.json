@@ -1,11 +1,11 @@
 {
  "code": "XB-C0513",
  "name": "Güler Güvenlik",
- "round": "W3-R06",
+ "round": "W3-R11",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Güler Güvenlik",
- "type_final": "Güler Güvenlik",
+ "summary": "安防经销/安装（Güler Güvenlik Teknoloji，İzmir Karşıyaka；Ruijie Reyee 经销）",
+ "type_final": "安防经销/安装（Güler Güvenlik Teknoloji，İzmir Karşıyaka；Ruijie Reyee 经销）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网 İletişim：info@gulerguvenlik.com.tr；guvenlikonline：Cevdet Bilsay Cad. No:92/E Karşıyaka/İZMİR",
+   "quote": "Güler Güvenlik Teknoloji ® Profesyonel Çözümler",
+   "url": "https://www.gulerguvenlik.com/iletisim"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "区域经销兼安装，规模小 → B 不动；info@gulerguvenlik.com.tr 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

@@ -1,11 +1,11 @@
 {
  "code": "XB-C0923",
  "name": "Topbiz.fr",
- "round": "W3-R06",
+ "round": "W3-R11",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Topbiz.fr（IT 批发）",
- "type_final": "Topbiz.fr（IT 批发）",
+ "summary": "IT 电商批发（Topbiz.fr / Actuelburo 集团，Narrosse 朗德省；2005 起；28,000 SKU；B2B + B2C）",
+ "type_final": "IT 电商批发（Topbiz.fr / Actuelburo 集团，Narrosse 朗德省；2005 起；28,000 SKU；B2B + B2C）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Grossiste informatique depuis près de 20 ans…28 370 références…serviceclient@topbiz.fr",
+   "quote": "Topbiz.fr fournit les revendeurs, les entreprises et les particuliers depuis les Landes",
+   "url": "https://www.topbiz.fr/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "目录电商、面向经销商和个人，非专业渠道 → B 不动；serviceclient@topbiz.fr 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

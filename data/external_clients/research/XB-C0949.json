@@ -1,11 +1,11 @@
 {
  "code": "XB-C0949",
  "name": "GT Distribution",
- "round": "W3-R06",
+ "round": "W3-R11",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "GT Distribution",
- "type_final": "GT Distribution",
+ "summary": "品牌自营分销（GT Distribution France，Villeneuve-d'Ascq；GT Alarme 官方分销）",
+ "type_final": "品牌自营分销（GT Distribution France，Villeneuve-d'Ascq；GT Alarme 官方分销）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Gt France Distribution le Distributeur Officiel des Alarmes et Produits GT ALARME…contact@gtfrance.fr",
+   "quote": "Gt France Distribution le Distributeur Officiel des Alarmes et Produits GT ALARME",
+   "url": "https://www.gtfrance.fr/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "单一品牌的自营分销 → B 不动；contact@gtfrance.fr 已记",
  "next_move": {
   "action": "不动",
   "angle": "",
