@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,6 +77,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 100 批（GB · 1 次检索：Companies House 10933159（CONNECTEC LIMITED；Active；Private limited；2017-08-25 成立；注册地 2026-07-30 起 Unit 4 Wrexham Midpoint, Dolydd Road, Wrexham LL13 7AJ（前 Unit B Wrexham Technology Park, Croesnewydd Road LL13 7YP）；AP01 Tao Wei 董事 2025-11-25；TM01 Ning Yu 2025-11-28 离任、Nathanael Tristan Owen 2025-06-12 离任；CS01 2026-02-17）+ companiesintheuk（11 名员工 2024 账；资本 £100；Total Exemption Full）+ Pomanda（SIC 47910；最大股东 Dynamic Technology Solutions Ltd 100%）+ 官网 brands/planet（「authorised Planet distributor」；公司号 10933159；VAT GB277433186；D-U-N-S 223187960；trade accounts）+ Business Wales / LinkedIn（Paul Jarvis — Managing Director），2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/10933159）：**
+
+- 法定名 / 登记号：CONNECTEC LIMITED（connectec.uk；Wrexham）— 2017 年起的消防 / 安防 / 网络 / 电气全国分销商；**PLANET 授权分销商** + Ruijie + Ajax；11 人；母公司 Dynamic Technology Solutions Ltd（100%）；董事 Tao Wei · Companies House 10933159 · VAT GB277433186 · D-U-N-S 223187960 · 状态 **Active（CS01 2026-02-17；AD01 2026-07-30）** · 成立 2017-08-25 · Private limited company（资本 £100；100% Dynamic Technology Solutions Ltd）
+- 行业码 / 经营范围：47910 — 邮购 / 互联网零售（实为消防、安防、网络、电气、TV & 卫星安装件的全国 B2B 分销）
+- 注册地址：Unit 4 Wrexham Midpoint, Dolydd Road, Wrexham LL13 7AJ
+- 规模档：小型（11 人）
+- 账目：Total Exemption Full（小型；2024 账 11 人）；—
+- 高管：Tao Wei — Director（2025-11-25 起；36 岁；PSC）
+- 高管：Paul Jarvis — Managing Director（LinkedIn / Business Wales；非登记董事）
+- 高管：Ning Yu — 董事 2025-06 → 2025-11（已离任）
+- 高管：Nathanael Tristan Owen — 董事（2025-06 离任）
+- 控制人 / 股东：Tao Wei（Endole）；股东 Dynamic Technology Solutions Ltd 100%
+- **这意味着什么：**
+  - **PLANET 授权分销商 + Ruijie 在售 + 2025 下半年董事全换（Tao Wei / Ning Yu）→ 正是「换货源窗口」→ 分销 20% 首选 GB**：STC-228GP / STC-2216GP / STC-2224GP（对标其 PLANET 非网管 / 网管 PoE 在售价）+ STI-144GP（工业）；B BIG，**加厚**（对标价表 + 库存 / 交期说明），升 A 候选（回信即 A）
+  - 收件人：研究档无 KP → sales@ 主送 + 点名 Paul Jarvis（MD）；董事为华人姓名 → **可选中文直联（默认仍英文，与 Vidos 同规则，Simon 定）**；表内无跟进 → 首信即一页纸；发信窗口 Thu 12–14 GMT
+- 备注：分销 20% 首选 GB；B BIG；加厚；升 A 候选；可选中文直联（Simon 定）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,6 +132,8 @@ updated: 2026-10-27
 - **【Mikrotik 仓库】C-107 同户：分销（PLANET 授权），B下放·无邮箱**
   > C-107 Connectec 英国 分销（PLANET 授权）PLANET（台厂工业/商用交换机）官网 Contact 页 … B下放·无邮箱（群发触达不到）… connectec.uk 自述 authorised Planet distributor，备货 Planet 交换机/光纤/Wi-Fi/工业以太网，提供贸易账户与批量折扣
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-09-22）
+- **KP**：Paul Jarvis（Managing Director（LinkedIn / Business Wales；非登记董事）= 收件人（sales@ 主送 + 点名）（第 100 批 官方登记核实 2026-10-28））sales@connectec.uk 〔〕
+- **KP**：Tao Wei（Director / PSC（Companies House 10933159，2025-11-25 起；母公司 Dynamic Technology Solutions Ltd 100%）= 拍板人（华人姓名 → 可选中文直联，Simon 定，默认英文）（第 100 批 官方登记核实 2026-10-28）） 〔〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-042 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -122,9 +141,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Connectec (Connectec UK) |
-| 总部/地址 | Wrexham（北威尔士）, 英国 |
-| 其他 | Planet 渠道档案 PB-042（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：PLANET 年台数；是否持有库存（自述 stock）；是否接受 EXW 直采（现从 PLANET 英国渠道拿货） |
+| 法定名称 | CONNECTEC LIMITED（Companies House 10933159；VAT GB277433186；D-U-N-S 223187960；SIC 47910） |
+| 成立 | 2017-08-25（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 4 Wrexham Midpoint, Dolydd Road, Wrexham LL13 7AJ（2026-07-30 起） |
+| 人数 | 11 人（2024 账） |
+| 其他 | Planet 渠道档案 PB-042（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：PLANET 年台数；是否持有库存（自述 stock）；是否接受 EXW 直采（现从 PLANET 英国渠道拿货）；第 100 批：**PLANET 授权分销商 + Ruijie 在售 + 2025 下半年董事全换（换货源窗口）→ 分销 20% 首选 GB**：STC-228GP / STC-2216GP / STC-2224GP 对标其 PLANET 在售价 + STI-144GP；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商/贸易柜台（面向安装商的消防、安防、网络与电气产品全国分销；展厅 + 贸易柜台；Top Brands：Hikvision / HiLook / Pyronix / Tenda / Planet）
 
@@ -169,7 +190,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@connectec.uk | 用户表原值 | Clients/ 表 |
+| Paul Jarvis | Managing Director（LinkedIn / Business Wales；非登记董事）= 收件人（sales@ 主送 + 点名）（第 100 批 官方登记核实 2026-10-28） | sales@connectec.uk | 调研核实（公开页） | 调研 |
+| Tao Wei | Director / PSC（Companies House 10933159，2025-11-25 起；母公司 Dynamic Technology Solutions Ltd 100%）= 拍板人（华人姓名 → 可选中文直联，Simon 定，默认英文）（第 100 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -205,7 +227,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-488DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -222,7 +244,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -239,7 +261,7 @@ updated: 2026-10-27
 **主题**：STI-488DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Paul,
 
 Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 25 August 2026 - and there was no reason to answer a mass mail. This one is specific. PLANET is the one networking brand on your trade counter; a second-source industrial PoE+ switch with the same 3-year cover gives your installers a lower price point on camera jobs. On your installers' camera jobs, is the 8-port industrial PoE+ (IGS-5225 class) what they take most, or the rack-mount 8/16/24-port units?
 
@@ -264,12 +286,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

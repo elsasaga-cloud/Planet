@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 100 批（TR · 1 次检索：官网 İletişim / Hakkımızda / Çerez（Telkotim Bilişim Teknolojileri Tic. Ltd. Şti.；Çamlıca Mah. Anadolu Bulvarı Timko İşyerleri No 20 c-4, Yenimahalle / Ankara；(0312) 473 09 99；bilgi@telkotim.com；2008 年成立；铜缆 / 光缆 / 数据中心布线方案，多品牌 bayi / dağıtıcı）+ Anadolu Ajansı 2022-04-19（Telkotim Bilişim Teknolojileri Genel Müdürü Veli Uysal：2008 起从事 IT / 光纤 / 数据系统；「Türkiye’den 136 ülkeye fiber optik ürün ihracatı」报道）+ Elektrik Dünyası 2024-11（ISAF 2024 参展）+ telkotim.com.tr（TTAF 集团 2003 İstanbul 成立，六大板块；页脚 © 2026 Telkotim … Ltd. Şti. ❤ İnfonet），2026-10-28 查；https://www.telkotim.com/iletisim）：**
+
+- 法定名 / 登记号：Telkotim Bilişim Teknolojileri Tic. Ltd. Şti.（telkotim.com / telkotim.com.tr；Ankara Yenimahalle）— 2008 年起的光纤 / 网络基础设施产品分销商（「Türkiye’nin Fiber & Network Alt Yapı Merkezi」；TTAF / HCS 光缆、D-Link / Ruijie 交换机；GM Veli Uysal） · Ltd. Şti.（Ankara；MERSİS 号未取） · 状态 **Active（ISAF 2024 参展；站点 2026）** · 成立 2008 · Limited Şirket（私有；GM Veli Uysal；关联 İnfonet / TTAF 光缆）
+- 行业码 / 经营范围：光纤 / 铜缆布线、数据中心、光缆与配件、熔接测试设备、机柜、交换机 / PoE 交换机（D-Link 铜口 / 光口 / 工业 / PoE；Ruijie）分销 —— 面向大型光纤 / 网络项目供货
+- 注册地址：Çamlıca Mahallesi Anadolu Bulvarı Timko İşyerleri No 20 c-4, Yenimahalle / Ankara
+- 规模档：小型（人数未取；AA 报道的出口主体为关联光缆厂）
+- 账目：—；—
+- 高管：Veli Uysal — Genel Müdür（总经理）= 研究档 KP「Veli」veli@ 本人
+- 控制人 / 股东：Veli Uysal（推定）
+- **这意味着什么：**
+  - **研究档 KP 坐实 = 总经理本人**（veli@ 即老板）；安卡拉光纤 / 网络项目供货商，已卖 D-Link 工业 / PoE 交换机 → **分销 20%**：STC-228GP / STC-2224GP（PoE）+ STI-144GP / STI-288DGGPM（工业光口，配其光缆项目）+ STI-0240GE（24 口 L2+ 投标）
+  - 表内 1 次跟进无回复 → 第二次触达换主题「fiber-port switches to ship with your cable」；发信窗口 Thu 10–12 TRT；加厚一次（规格 + 三档价）
+- 备注：KP = GM 本人；分销 20%；加厚一次。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,15 +122,17 @@ updated: 2026-10-28
 - **【官网快照】Telkotim 产品范围**
   > Telkotim Bilişim Teknolojileri, Fiber & Network ; Fiber Optik Kablolar, Fiber Optik aksesuarlar, Data Lan Kablolar, Data Lan Aksesuarlar, Switch, Poe Switch, Rack Kabinet
   > 来源：https://www.telkotim.com/（抓取 2026-10-21）
-- **KP**：Veli（）veli@telkotim.com 〔用户表〕
+- **KP**：Veli Uysal（Genel Müdür（总经理；Anadolu Ajansı 2022-04-19 采访署名）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28））veli@telkotim.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 telkotim.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Telkotim Bilişim Teknolojileri Tic. Ltd. Şti.（Ankara；MERSİS 号未取） |
+| 成立 | 2008（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Çamlıca Mah. Anadolu Bulvarı Timko İşyerleri No 20 c-4, Yenimahalle / Ankara（非 İstanbul） |
+| 其他 | 官网 telkotim.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：光纤 / 网络基础设施分销（TTAF / HCS 光缆，D-Link / Ruijie 交换机）→ 分销 20%：STC-228GP / STC-2224GP + STI-144GP / STI-288DGGPM 配其光缆项目；加厚一次（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤 / 网络产品分销网店
 - **触达通道（公开）**：role: 光纤/网络产品分销网店（土耳其，D-Link 在售）；region: 土耳其；contact: veli@telkotim.com
@@ -190,7 +206,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Veli | — | veli@telkotim.com | 调研核实（公开页） | 用户表 |
+| Veli Uysal | Genel Müdür（总经理；Anadolu Ajansı 2022-04-19 采访署名）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28） | veli@telkotim.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

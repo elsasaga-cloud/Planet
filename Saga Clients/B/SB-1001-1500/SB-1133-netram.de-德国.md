@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,6 +76,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 100 批（DE · 1 次检索：Northdata（Netram Memory GmbH；Amtsgericht Wuppertal HRB 19078；EUID DER1608.HRB19078；Dohlenweg 6, 42115 Wuppertal；2005-04-14 登记；Geschäftsführer Jürgen Hübner；资本 €25,000；经营范围 Vertrieb elektronischer Bauelemente）+ registercheck（Aktiv；成立 2005-03-08；GF Jürgen Hübner *1968，自 2005-04-13）+ Kompass（NACE 4651 批发；CEO Jürgen Hübner）+ Implisense（+49 202 758050；info@netram.de）+ LinkedIn（Netram GmbH；2–10 人），2026-10-28 查；https://www.northdata.com/Netram%20Memory%20GmbH,%20Wuppertal/HRB%2019078）：**
+
+- 法定名 / 登记号：Netram Memory GmbH（netram.de；Wuppertal）— 2005 年起的内存 / 光模块 / 网络配件小型分销商（HRB 19078 Wuppertal；GF Jürgen Hübner；2–10 人） · HRB 19078（Amtsgericht Wuppertal）· EUID DER1608.HRB19078 · 状态 **Aktiv** · 成立 2005-03-08（登记 2005-04-14） · GmbH（资本 €25,000；私有）
+- 行业码 / 经营范围：NACE 46.51 — 电脑 / 外设批发（兼容内存模块、光模块 / DAC、网络配件电商）
+- 注册地址：Dohlenweg 6, 42115 Wuppertal
+- 规模档：微型（2–10 人）
+- 账目：—；—
+- 高管：Jürgen Hübner — Geschäftsführer（*1968，自 2005）= 研究档 KP 本人
+- 控制人 / 股东：Jürgen Hübner（推定）
+- **这意味着什么：**
+  - **研究档 KP 坐实 = GF 本人**；光模块 / 内存配件电商，Saga 不做光模块 → 只能切「配光模块一起卖的交换机」：STC-110XGE（$65，8×2.5G + 2×10G SFP+）+ STC-228GP → **分销 20%，小户，一页纸**
+  - 表内 1 次跟进无回复 → 第二次触达换主题「a 10G uplink switch for your transceiver customers」；发信窗口 Thu 12–14 CET
+- 备注：KP = GF 本人；分销 20%；小户；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,7 +125,7 @@ updated: 2026-10-27
 - **【官网（搜索快照）】关联 PLANET 型号**
   > gs724t-400eus … 关联列出 IGS-6330-24T4S、WGSW-28040、GS-4210-24P2S（PLANET）
   > 来源：https://www.netram.de/gs724t-400eus-EN（抓取 2026-10-20）
-- **KP**：Jürgen Hübner（） +49 202 75805-0〔https://www.netram.de/Impressum〕
+- **KP**：Jürgen Hübner（Geschäftsführer（*1968，自 2005；HRB 19078 Wuppertal）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）） +49 202 75805-0〔https://www.netram.de/Impressum〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-095 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「德国」（country_fix）：域名 netram.de + 研究档 hq Wuppertal + 法定名 Netram Memory GmbH；表内国别空（Q-65 国别机检 2026-10-27）
 
@@ -119,9 +133,11 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Netram Memory GmbH |
-| 总部/地址 | Wuppertal（Dohlenweg 6, 42115 Wuppertal, NRW）, 德国 |
-| 其他 | Planet 渠道档案 PB-095（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（NETRAM 为自编货号 / 兼容光模块品牌）；最大未知：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存 |
+| 法定名称 | Netram Memory GmbH（HRB 19078 Amtsgericht Wuppertal；EUID DER1608.HRB19078；资本 €25,000） |
+| 成立 | 2005-03-08（登记 2005-04-14）（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Dohlenweg 6, 42115 Wuppertal |
+| 人数 | 2–10 人 |
+| 其他 | Planet 渠道档案 PB-095（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（NETRAM 为自编货号 / 兼容光模块品牌）；最大未知：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存；第 100 批：内存 / 光模块 / 网络配件微型电商 → 只切「配光模块一起卖的交换机」STC-110XGE（8×2.5G + 2×10G）+ STC-228GP → 分销 20%，小户，一页纸（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）
 
@@ -170,7 +186,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jürgen Hübner | — | +49 202 75805-0 | 调研核实（公开页） | https://www.netram.de/Impressum |
+| Jürgen Hübner | Geschäftsführer（*1968，自 2005；HRB 19078 Wuppertal）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28） | +49 202 75805-0 | 调研核实（公开页） | https://www.netram.de/Impressum |
 
 - **通道建议**：企业邮箱可直发
 
@@ -264,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 8）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 8）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

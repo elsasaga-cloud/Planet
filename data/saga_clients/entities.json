@@ -72968,7 +72968,7 @@
 "kp": [
 {
 "name": "Zack Yu",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"role": "President / Sales Manager（Megatel Industries Corporation 业主；D&B / Buzzfile）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）",
 "email": "zack@megatelindustries.com",
 "phone": "",
 "source": "S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补）"
@@ -72983,10 +72983,12 @@
 "level": "B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先）"
 },
 "company_facts": {
-"legal_name": "Megatel Industries（美国）",
-"hq": "美国",
+"legal_name": "Megatel Industries Corporation（PA Corporation；PA DOS 号未取；CAGE IRRG5）",
+"hq": "664 Wagner Court, North Wales, PA 19454",
 "size": "小型（待补证）",
-"other": "自有 logo 工业以太网线：IFS/IGS/IMC/ITP/IPSW/FMC 系列（多为 CTC Union 贴牌，亦有 ONV）；标价高（IGS-803SM-8PH24 标 $1,800 售 $699；IPSW-G04-1GE1SFP 售 $145；IMC-1000MS-PHE12 售 $345）；S 重点名单，22 次推送 0 回复"
+"other": "自有 logo 工业以太网线：IFS/IGS/IMC/ITP/IPSW/FMC 系列（多为 CTC Union 贴牌，亦有 ONV）；标价高（IGS-803SM-8PH24 标 $1,800 售 $699；IPSW-G04-1GE1SFP 售 $145；IMC-1000MS-PHE12 售 $345）；S 重点名单，22 次推送 0 回复；第 100 批：数据通信 / 光纤批发出口商兼 OEM 品牌商（3 人）→ 贴标 small（STC-228GP / STI-144GP）；政府 CAGE 客户不提；一页纸（第 100 批 官方登记核实 2026-10-28）",
+"founded": "1991（D&B）/ 1994（自述）（第 100 批 官方登记核实 2026-10-28）",
+"staff": "3 人；$0.4–2M"
 },
 "business_lines": [
 "自有品牌工业以太网交换机/介质转换器网店（OEM 采购）"
@@ -102169,7 +102171,13 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Piotr Błoński",
+"role": "业主（CEIDG；NIP 8231551721；研究档无 KP）= 收件人（第 100 批 官方登记核实 2026-10-28）",
+"email": ""
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -102178,8 +102186,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 kamsys.pl，语言 pl-pl，快照状态 ok；角色判定来源：官网文案"
+"hq": "ul. Wileńska 27, 05-120 Legionowo",
+"other": "官网 kamsys.pl，语言 pl-pl，快照状态 ok；角色判定来源：官网文案；第 100 批：监控 / 报警 / 门禁网店 + 安装 → 集成商 25%，小户，一页纸：STC-028GP / STC-228GP（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "KAMSYS Piotr Błoński（CEIDG 个体；NIP 8231551721；REGON 142179316；MSWiA 安防许可）",
+"founded": "2010-01-14（第 100 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "监控 / 报警 / 门禁网店（波兰）"
@@ -104084,7 +104094,13 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Andreas Bude",
+"role": "CEO / Geschäftsführer（wlw 企业档；研究档无 KP）= 收件人（第 100 批 官方登记核实 2026-10-28）",
+"email": ""
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -104093,8 +104109,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 lichtleiterkabel.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+"hq": "Provinzialstraße 40, 53859 Niederkassel",
+"other": "官网 lichtleiterkabel.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 100 批：LWL 光缆定制 / 布线 B2B 电商 → 有源件为配角 → 分销 20%，小户，一页纸：STI-144GP / STI-288DGGPM + STC-228GP（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "ServiceNet EDV-Vertrieb GmbH（店名 lichtleiterkabel.com；HRB 号未取；域名方 Traffictime Handels- & Marketing GmbH）",
+"founded": "1996（第 100 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤线缆 / 预端接 LWL 网店"
@@ -126214,7 +126232,18 @@
 "date": "2026-09-22"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Paul Jarvis",
+"role": "Managing Director（LinkedIn / Business Wales；非登记董事）= 收件人（sales@ 主送 + 点名）（第 100 批 官方登记核实 2026-10-28）",
+"email": "sales@connectec.uk"
+},
+{
+"name": "Tao Wei",
+"role": "Director / PSC（Companies House 10933159，2025-11-25 起；母公司 Dynamic Technology Solutions Ltd 100%）= 拍板人（华人姓名 → 可选中文直联，Simon 定，默认英文）（第 100 批 官方登记核实 2026-10-28）",
+"email": ""
+}
+],
 "grade_override": "B",
 "override_reason": "Planet 渠道档案 PB-042 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -126223,11 +126252,12 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-042，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "Connectec (Connectec UK)",
-"founded": "",
-"hq": "Wrexham（北威尔士）, 英国",
+"legal_name": "CONNECTEC LIMITED（Companies House 10933159；VAT GB277433186；D-U-N-S 223187960；SIC 47910）",
+"founded": "2017-08-25（第 100 批 官方登记核实 2026-10-28）",
+"hq": "Unit 4 Wrexham Midpoint, Dolydd Road, Wrexham LL13 7AJ（2026-07-30 起）",
 "size": "",
-"other": "Planet 渠道档案 PB-042（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：PLANET 年台数；是否持有库存（自述 stock）；是否接受 EXW 直采（现从 PLANET 英国渠道拿货）"
+"other": "Planet 渠道档案 PB-042（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：PLANET 年台数；是否持有库存（自述 stock）；是否接受 EXW 直采（现从 PLANET 英国渠道拿货）；第 100 批：**PLANET 授权分销商 + Ruijie 在售 + 2025 下半年董事全换（换货源窗口）→ 分销 20% 首选 GB**：STC-228GP / STC-2216GP / STC-2224GP 对标其 PLANET 在售价 + STI-144GP；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28）",
+"staff": "11 人（2024 账）"
 },
 "business_lines": [
 "分销商/贸易柜台（面向安装商的消防、安防、网络与电气产品全国分销；展厅 + 贸易柜台；Top Brands：Hikvision / HiLook / Pyronix / Tenda / Planet）"
@@ -126458,7 +126488,13 @@
 "date": "2026-10-20"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "（Borowscy 合伙人）",
+"role": "wspólnicy（KRS 0000317918 普通合伙；姓名未取）= 收件人 sklep@ 点名 właściciel / zakupy（第 100 批 官方登记核实 2026-10-28）",
+"email": "sklep@fonex.pl"
+}
+],
 "grade_override": "B",
 "override_reason": "Planet 渠道档案 PB-057 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -126467,11 +126503,11 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-057，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "FONEX K.T.M. Borowscy Sp. j.",
-"founded": "",
-"hq": "Częstochowa, 波兰",
+"legal_name": "FONEX K.T.M. Borowscy Sp. j.（KRS 0000317918；NIP 9492100567；REGON 241058180；BDO 000427576；PKD 46.52.Z）",
+"founded": "2008-11-18（第 100 批 官方登记核实 2026-10-28）",
+"hq": "ul. Wręczycka 13/15, 42-202 Częstochowa",
 "size": "",
-"other": "Planet 渠道档案 PB-057（2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json）；自有品牌：否；最大未知：人数/营收；PLANET 货源（Action/AB/Eltrox 等波兰分销？）；采购决策人"
+"other": "Planet 渠道档案 PB-057（2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json）；自有品牌：否；最大未知：人数/营收；PLANET 货源（Action/AB/Eltrox 等波兰分销？）；采购决策人；第 100 批：区域安防批发 + 网店 + 安装 → 分销 20%，小户，一页纸：STC-028GP / STC-228GP / STC-2216GP（第 100 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防分销商/电商（1994 年起电子安防系统分销：CCTV、报警、对讲/可视对讲、门禁、消防/排烟、门控自动化、智能家居；SATEL 授权分销；B2B 安装商与批发合作计划）"
@@ -129822,7 +129858,8 @@
 "title": "Geschäftsführer；Impressum 具名；无公开个人邮箱 → 不写",
 "email": "",
 "phone": "+49 202 75805-0",
-"source": "https://www.netram.de/Impressum"
+"source": "https://www.netram.de/Impressum",
+"role": "Geschäftsführer（*1968，自 2005；HRB 19078 Wuppertal）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": "B",
@@ -129833,11 +129870,12 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-095，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "Netram Memory GmbH",
-"founded": "",
-"hq": "Wuppertal（Dohlenweg 6, 42115 Wuppertal, NRW）, 德国",
+"legal_name": "Netram Memory GmbH（HRB 19078 Amtsgericht Wuppertal；EUID DER1608.HRB19078；资本 €25,000）",
+"founded": "2005-03-08（登记 2005-04-14）（第 100 批 官方登记核实 2026-10-28）",
+"hq": "Dohlenweg 6, 42115 Wuppertal",
 "size": "",
-"other": "Planet 渠道档案 PB-095（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（NETRAM 为自编货号 / 兼容光模块品牌）；最大未知：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存"
+"other": "Planet 渠道档案 PB-095（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（NETRAM 为自编货号 / 兼容光模块品牌）；最大未知：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存；第 100 批：内存 / 光模块 / 网络配件微型电商 → 只切「配光模块一起卖的交换机」STC-110XGE（8×2.5G + 2×10G）+ STC-228GP → 分销 20%，小户，一页纸（第 100 批 官方登记核实 2026-10-28）",
+"staff": "2–10 人"
 },
 "business_lines": [
 "IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）"
@@ -188750,7 +188788,13 @@
 "title": "（职务待核）",
 "email": "lg@hk-systeme.de",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档联系人（Impressum 域下；职务未核）= 收件人（第 100 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Johannes Brüls",
+"role": "Geschäftsführer（Dipl.-Ing.；Impressum；HRB 105842 Düsseldorf）= 拍板人（点名）（第 100 批 官方登记核实 2026-10-28）",
+"email": ""
 }
 ],
 "grade_override": null,
@@ -188761,8 +188805,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 hk-systeme.de，语言 ?，快照状态 http_error；角色判定来源：待核"
+"hq": "Albert-Einstein-Str. 5, 40764 Langenfeld",
+"other": "官网 hk-systeme.de，语言 ?，快照状态 http_error；角色判定来源：待核；第 100 批：消防报警 / 语音疏散 / 电声报警集成商 → IP 音频网络 PoE（STC-228GP / STC-2224GP）→ 集成商 25%，小户，一页纸（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "HK GmbH（HRB 105842 Amtsgericht Düsseldorf；USt-ID DE236356997；Paderborn 的 HKS Systeme GmbH 为他户）",
+"founded": "未取（经营 25 年以上）（第 100 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "系统集成（德国）"
@@ -234428,11 +234474,12 @@
 ],
 "kp": [
 {
-"name": "Sahil Karwat",
+"name": "Sahil Karwar",
 "title": "Director",
 "email": "info@trksolutions.co.uk",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director / PSC 75–100%（Companies House 12948953；研究档拼写 Karwat → 更正 Karwar）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -234443,8 +234490,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "英国",
-"other": "官网 trksolutions.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "Premier Business Centre, 47-49 Park Royal Road, London NW10 7LQ（商务中心）",
+"other": "官网 trksolutions.co.uk，语言 en，快照状态 ok；角色判定来源：用户表；第 100 批：CCTV / 门禁 / 报警微型安装商 → 集成商 25%，小户，一页纸：STC-028GP / STC-228GP / STC-2224GP；MOQ 1（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "TRK SOLUTIONS LTD（Companies House 12948953；VAT 437821090；SIC 43210 + 61100；同名 07147856 为他户）",
+"founded": "2020-10-14（第 100 批 官方登记核实 2026-10-28）",
+"staff": "<10 人；Micro"
 },
 "business_lines": [
 "CCTV / 门禁 / 火灾报警 / ANPR 安装（英国）"
@@ -263336,8 +263386,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 leoptics.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案"
+"hq": "ul. Rewolucji 1905 r. 18/63, 90-207 Łódź（CEIDG）",
+"other": "官网 leoptics.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案；第 100 批：光模块 / CWDM 网店（Saga 不做光模块）→ 只切 10G 上联 STC-110XGE + STC-228GP → 分销 20%，微型，一页纸；表内「German brand link」无证据不采（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "Leoptics（leoptics.pl；CEIDG 同名命中「Leoptics Maja Matyjewicz」Łódź NIP 7251850432 / REGON 364507458，经营者对应待核 → 部分坐实；Warszawa TELEOPTICS Sp. z o.o. 为他户）",
+"founded": "2018-10-07（CEIDG）（第 100 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤测试设备 / 光学仪器（自有型号 LEO-）",
@@ -270287,14 +270339,16 @@
 "title": "Portfolio Manager",
 "email": "can@cctvdepo.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Müşteri Temsilcisi（客户代表；官网 Hakkımızda；真实邮箱应为 asuman@，研究档误配 can@）= 抄送（第 100 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Can Gurcan",
 "title": "CTO",
 "email": "can@cctvdepo.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档联系人 can@（职务未核）= 主收件人，点名「satın alma / ürün müdürü」（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -270305,8 +270359,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 cctvdepo.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"hq": "Hürriyet Mh Güngören Sk 4b, Bahçelievler 34188 İstanbul（注册 Remzi Özkaya Cad. No 18 Yenibosna；门店 Perpa B Blok K8 No 836）",
+"other": "官网 cctvdepo.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：**自有品牌 SECUZI / TİRENZO 的生产商兼进口商 + 站内自有标 PoE 交换机（SZNT-*）+ 全国 bayi 批发 → OEM 30% 首选 TR**：SECUZI 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "CCTVDEPO Güvenlik Teknolojileri A.Ş.（MERSİS 0203034849100015；Ticaret Sicil 70431-5 İstanbul；VKN 2030348491）",
+"founded": "2004（第 100 批 官方登记核实 2026-10-28）",
+"staff": "51–200 人；$1–10M"
 },
 "business_lines": [
 "摄像机系统 / 网络产品 / 电脑与手机配件经销"
@@ -271389,7 +271446,8 @@
 "title": "CEO",
 "email": "gokhandemir@eurocamguvenlik.com.tr",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "CEO – Founding Manager（创办人；官网 EN About 署名 ext 14）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -271400,8 +271458,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 eurocamguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"hq": "Perpa Ticaret Merkezi A Blok 8. Kat No 918, 34384 Şişli / İstanbul",
+"other": "官网 eurocamguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：**自有网络品牌 Eurolink（网络 / 连接设备进口）+ 自有安防品牌 Eurocam（2020 起自产摄像机）+ 直接进口 + 500 bayi → OEM 30% 首选 TR**：Eurolink 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP；其官网承诺 2 年保修 → STI 3 年可对齐；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "Eurocam GD Güvenlik Elektronik ve Bilişim Sistemleri San. Dış Tic. Ltd. Şti.（前 GD Güvenlik Sistemleri San. Dış Tic. Ltd. Şti.；MERSİS 号未取；Bursa 的 Eurocam Yapı 为他户）",
+"founded": "2017（第 100 批 官方登记核实 2026-10-28）",
+"staff": "11–50 人；500+ bayi"
 },
 "business_lines": [
 "安防摄像机 / CCTV 进口分销",
@@ -274640,7 +274701,8 @@
 "title": "Managing Director",
 "email": "frank.menne@octogate.de",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Geschäftsführer（vertretungsberechtigt；Impressum + HRB 9944 Paderborn；创办人系，源自 HSM-Menne GmbH）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -274651,8 +274713,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "德国",
-"other": "官网 octogate.de，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "Friedrich-List-Str. 87, 33100 Paderborn",
+"other": "官网 octogate.de，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 100 批：**自有硬件品牌（OctoGate 防火墙 / Schulfirewall 学校整包）+ 已直采 FS.com 交换机 + GF 本人收件 → 贴标 OEM 30% 目标**：OctoGate 标 STC-228GP / STC-2224GP / STC-4424GCPM + STC-110XGE 上联；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "OctoGate IT Security Systems GmbH（HRB 9944 Amtsgericht Paderborn；USt-ID DE275066387；资本 €25,000）",
+"founded": "2010-10-07（登记 2010-11-19）（第 100 批 官方登记核实 2026-10-28）",
+"staff": "11–50 人"
 },
 "business_lines": [
 "防火墙 / 安全一体机",
@@ -274949,7 +275014,8 @@
 "title": "Sales Manager",
 "email": "okay.yucedag@portel.com.tr",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档联系人（Sales；职务未核）= 收件人（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -274960,8 +275026,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 portel.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"hq": "Yalı Mah. Kadir Sk. No 14, Helis More Residence K7 D82, 34873 Kartal / İstanbul",
+"other": "官网 portel.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：工业网络 + 半导体供应小型 A.Ş.，已直采三旺（表内）→ 分销 20%：切「Marvell 管理型 L2+ 工业 PoE」STI-288DGGPM / STI-488DGGPM + 3 年保修 + MOQ 1；铁路客户守界；一页纸（不点名三旺）（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.（VKN 7320767976；Ticaret Sicil 1075179 İstanbul；NACE 46.52.01）",
+"founded": "2017-05-23（第 100 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "半导体 / 工业网络部件分销（土耳其）"
@@ -275242,7 +275310,8 @@
 "title": "Project Manager",
 "email": "salih.yildirim@radioteknoloji.com.tr",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Project Manager（研究档；选型人）= 收件人（第 100 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Abdurrahman Pehlivanoglu",
@@ -275260,8 +275329,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 radioteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"hq": "Ataköy 7-8-9-10. Kısım Mah. Çobançeşme E-5 Yan Yol Cad. Avrupa Residence No 8/1 A Blok D10, Bakırköy / İstanbul",
+"other": "官网 radioteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：户外宽带无线（PtP / PtMP / LTE）分销 + 集成（KGYS / 港口 / 机场 / 市政；客户含 TSK → 信里不提军用）→ 集成商 25%：STI-054GP / STI-144GP / STI-288DGGPM 杆位 PoE；一页纸 + 杆位配置图（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "Radio Teknoloji Hizmetleri A.Ş.（İstanbul Bakırköy；MERSİS 号未取）",
+"founded": "2015（第 100 批 官方登记核实 2026-10-28）",
+"staff": "11–50 人"
 },
 "business_lines": [
 "无线电系统 / 数据传输基础设施方案"
@@ -277137,7 +277209,7 @@
 "kp": [
 {
 "name": "Bora Erim",
-"role": "业主（推测）",
+"role": "业主（Facebook 主页「By Bora Teknoloji Dünyası」Ağrı；WhatsApp 已加）= 收件人（第 100 批 官方登记核实 2026-10-28）",
 "email": "boraerim@gmail.com（用户表）",
 "phone": "+90 542 587 66 85（用户表，WhatsApp 已加）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -277151,10 +277223,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Bora Teknoloji Dünyası（待核）",
-"hq": "Ağrı, Türkiye",
+"legal_name": "By Bora Teknoloji Dünyası（Ağrı 个体门店；无 VKN / 域名 → 部分坐实；Trabzon 的 Bora Teknoloji 为他户）",
+"hq": "Ağrı（第 100 批 官方登记核实 2026-10-28）",
 "size": "微型门店",
-"other": "仅 Gmail"
+"other": "仅 Gmail；第 100 批：弱电 / 电脑 / 安防微型门店，询盘 2 SFP + 8 PoE ×10 → WhatsApp 直报 STC-228GP（$33 ×10）+ DAP 运费；不加厚、不进群发（第 100 批 官方登记核实 2026-10-28）",
+"staff": "1–5 人（推定）"
 },
 "business_lines": [
 "IT/安防零售安装（推测，待核）"
@@ -287924,7 +287997,13 @@
 "title": "Director",
 "email": "shaun@oxfordaerials.co.uk",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Owner / original installer, **Oxford Aerials Ltd（Wallingford 安装商）= ACE 的客户，非 ACE 人员 → 误归属**；另线集成商 25% 可直发（第 100 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "（ACE 采购）",
+"role": "Aerials & Cable Equipment Ltd 采购 / CCTV & networking buyer（公司号与董事未取 → 下轮补）= 本户主收件人（第 100 批 官方登记核实 2026-10-28）",
+"email": "sales@aceonline.co.uk"
 }
 ],
 "grade_override": null,
@@ -287935,11 +288014,12 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "ACE Distributors Ltd（待核）",
-"founded": "约 1990",
-"hq": "Oxford, UK",
+"legal_name": "Aerials & Cable Equipment Ltd（商号 ACE Distributors；Cheltenham；Companies House 号未取 → 部分坐实；研究档「Oxford, UK / 约 1990」有误）",
+"founded": "1983（第 100 批 官方登记核实 2026-10-28）",
+"hq": "Cheltenham, Gloucestershire（01242 511511）",
 "size": "中小型行业分销",
-"other": "关联 Oxford Aerials"
+"other": "关联 Oxford Aerials；第 100 批：天线 / 卫星 / CCTV / UniFi 全国安装商分销 → 分销 20%（sales@ 首信一页纸：STC-028GP / STC-228GP / STC-2224GP）；Shaun Guard = Oxford Aerials 另线（第 100 批 官方登记核实 2026-10-28）",
+"staff": "11–50 人"
 },
 "business_lines": [
 "天线 / 卫星 / CCTV 配件分销"
@@ -292472,7 +292552,8 @@
 },
 "company_facts": {
 "hq": "英国",
-"other": "官网 dynamode.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 dynamode.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案；第 100 批：自有品牌网络 / 电脑配件商 = 贴标 OEM 30% 目标但主体未坐实 → 坐实前只发一页纸（STC-028GP / STC-228GP / STC-2224GP 贴标）；收件 sales@（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "Dynamode（dynamode.co.uk；Companies House 1 次关键词检索未命中 → 未坐实；下轮补：站点 Terms 法人名）（第 100 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "计算机与网络设备（自有品牌 Dynamode）"
@@ -299627,7 +299708,8 @@
 "title": "GM",
 "email": "marek.niewczas@netinet.pl",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Prezes Zarządu（自 2002-03-07；KRS 0000096977；股东 10%，配偶 Agnieszka Niewczas 65%）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -299638,8 +299720,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "波兰",
-"other": "官网 netinet.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案"
+"hq": "ul. Arkuszowa 18, 01-934 Warszawa",
+"other": "官网 netinet.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案；第 100 批：Intellinet / Manhattan 品牌波兰运营型分销（测试 / 上市 / 营销 / 保修全包）+ 老板本人收件 → 分销 20% 或 Netinet 自有标 OEM 30%（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W）；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "NETINET Sp. z o.o.（KRS 0000096977；NIP 1181481416；REGON 016121659；资本 50,000 zł；前 IC Intracom Polska 项目）",
+"founded": "2002-03-07（经营自 1999）（第 100 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT / 网络方案分销（波兰）"
@@ -304731,7 +304815,13 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Thomas Kosse",
+"role": "President & CEO（VIPA ControlsAmerica；研究档无 KP）= 收件人（第 100 批 官方登记核实 2026-10-28）",
+"email": ""
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -304740,8 +304830,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 vipausa.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"hq": "980 Birmingham Rd. Ste 721, Alpharetta, GA 30004（非威斯康星）",
+"other": "官网 vipausa.com，语言 en，快照状态 ok；角色判定来源：用户表；第 100 批：PLC / HMI 北美销售公司 → 工业导轨交换机配套（STI-054GP / STI-144GP / STI-0240GE）贴标 small；一页纸（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "VIPA ControlsAmerica（GA 实体名 / SoS 号未取；德国 VIPA GmbH / YASKAWA 旗下北美销售服务公司）",
+"founded": "1998（第 100 批 官方登记核实 2026-10-28）",
+"staff": "8 人"
 },
 "business_lines": [
 "PLC / I/O / HMI / 现场总线连接器分销（VIPA）"
@@ -345600,11 +345693,12 @@
 ],
 "kp": [
 {
-"name": "Veli",
+"name": "Veli Uysal",
 "title": "（表内邮箱，姓氏职务待核）",
 "email": "veli@telkotim.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Genel Müdür（总经理；Anadolu Ajansı 2022-04-19 采访署名）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -345615,8 +345709,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "土耳其",
-"other": "官网 telkotim.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"hq": "Çamlıca Mah. Anadolu Bulvarı Timko İşyerleri No 20 c-4, Yenimahalle / Ankara（非 İstanbul）",
+"other": "官网 telkotim.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：光纤 / 网络基础设施分销（TTAF / HCS 光缆，D-Link / Ruijie 交换机）→ 分销 20%：STC-228GP / STC-2224GP + STI-144GP / STI-288DGGPM 配其光缆项目；加厚一次（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "Telkotim Bilişim Teknolojileri Tic. Ltd. Şti.（Ankara；MERSİS 号未取）",
+"founded": "2008（第 100 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤 / 网络产品分销网店"
@@ -364235,7 +364331,13 @@
 "title": "Account Executive",
 "email": "cmckee@canarycom.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档联系人（职务未核；非登记高管）= 收件人（第 100 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Vinh Quang Tran",
+"role": "Chief Executive Officer（CA SoS 1418771 Statement of Information）= 拍板人（抄送 / 点名）（第 100 批 官方登记核实 2026-10-28）",
+"email": ""
 }
 ],
 "grade_override": null,
@@ -364246,8 +364348,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 canarycom.com，语言 ?，快照状态 ok；角色判定来源：待核"
+"hq": "6040 Hellyer Avenue, Suite 150, San Jose, CA 95138",
+"other": "官网 canarycom.com，语言 ?，快照状态 ok；角色判定来源：待核；第 100 批：自有品牌媒体转换器 / 数据二极管商（表内从 VOLKTEK 买 MC）→ 自有标 PoE / 光口交换机贴标 small（STI-144GP / STC-228GP）；军方 / 政府客户不提；加厚一次（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "Canary Communications, Inc.（California General Corporation；CA SoS 1418771；SAM UEI WVRYXAA7DEK9）",
+"founded": "1987-09-25（第 100 批 官方登记核实 2026-10-28）",
+"staff": "1–10 人；<$5M"
 },
 "business_lines": [
 "光纤 MC / 交换机（自有品牌 Canary）"
@@ -365209,7 +365314,8 @@
 "title": "Partner",
 "email": "ryan@cleerline.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "President / Partner（Cleerline Technology Group, LLC；D’Addario & Co 关联）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -365220,8 +365326,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 cleerlinefiber.com，语言 ?，快照状态 ok；角色判定来源：待核"
+"hq": "8404 Elway Drive, Suite 2B, Missoula, MT 59808",
+"other": "官网 cleerlinefiber.com，语言 ?，快照状态 ok；角色判定来源：待核；第 100 批：自有品牌（SSF 光纤 + 网络配件）+ 总裁本人收件 → **贴标 OEM 30% 目标**：Cleerline 标 STC-228GP / STC-2224GP / STI-144GP 配其光纤；B BIG；加厚（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "Cleerline Technology Group, LLC（蒙大拿；SoS 号未取；SSF 光纤专利品牌）",
+"founded": "2012（第 100 批 官方登记核实 2026-10-28）",
+"staff": "11–50 人（15）"
 },
 "business_lines": [
 "SSF 光纤 / 有源配件（自有品牌 Cleerline）"
@@ -369593,14 +369702,16 @@
 "title": "Sales Manager",
 "email": "richard@fastercable.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Sales Manager（FasterCable, Las Vegas）= 收件人（第 100 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Juliette O",
 "title": "V. President",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director, Operations（研究档写 V. President；姓 Ozols）= 抄送（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -369611,8 +369722,10 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "3325 W Ali Baba Ln, Ste 619, Las Vegas, NV 89118",
+"other": "官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 100 批：线缆配件经销 + 自有标工业交换机型号（EISW8-100T 等）→ 贴标 small（STI-054GP / STI-144GP）；一页纸（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "FasterCable（fastercable.com；内华达实体名 / SoS 号未取 → 部分坐实；宾州 Faster Cables LLC 为同名他户）",
+"staff": "5 人（第 100 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "线缆 / 网络配件",
@@ -382587,11 +382700,12 @@
 ],
 "kp": [
 {
-"name": "Ramesh S",
+"name": "Ramesh Sheth",
 "title": "President",
 "email": "sales@sitech-bitdriver.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "President / Owner（S.I. Tech, Inc.；研究档「Ramesh S」）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -382602,8 +382716,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "美国",
-"other": "官网 sitech-bitdriver.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "1101 N. Raddant Road, Batavia, IL 60510",
+"other": "官网 sitech-bitdriver.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 100 批：光纤调制解调器 / 复用器老牌小厂（军方 / 工业客户，不提军用）→ 自有标光口交换机贴标 small（STI-144GP / STI-288DGGPM）；一页纸（第 100 批 官方登记核实 2026-10-28）",
+"legal_name": "S.I. Tech, Inc.（Illinois Corporation 1983-09-22；IL SoS 文件号未取）",
+"founded": "1983-09-22（开业 1984-03-01）（第 100 批 官方登记核实 2026-10-28）",
+"staff": "2–10 人；<$5M"
 },
 "business_lines": [
 "光纤调制解调器 / 复用器 / 中继器（自有品牌 Bit-Driver）",

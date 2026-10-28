@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,20 @@ updated: 2026-10-27
 - `dynamode.co.uk` → Microsoft 365（MX：dynamode-co-uk.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
 **假日避让：** 下一步为「不动」，不排发信，略。
+
+**公司底数 · 第 100 批（GB · 1 次检索（Companies House 关键词「Dynamode UK Ltd」）→ 仅返回 DYNOMAP UK LTD 12733659 等无关同音户，**未命中**；按「1 次未中即停」规则不再追；站点事实沿用研究档（dynamode.co.uk，自有品牌，sales@），2026-10-28 查；https://www.dynamode.co.uk/）：**
+
+- 法定名 / 登记号：Dynamode（dynamode.co.uk；英国）— 自有品牌网络 / 电脑配件品牌商（研究档：own brand；Elsa 已 1:1 去信 sales@）；**本轮 1 次检索未命中登记主体 → 未坐实** · 未坐实（登记主体 / 公司号未取） · 状态 **站点在线（研究档快照 ok）** · 成立 未取 · 未取（自有品牌商，推定 Ltd）
+- 行业码 / 经营范围：自有品牌网络 / 电脑配件（交换机、网卡、机箱电源等）—— 经英国 IT 分销渠道出货
+- 注册地址：英国（门牌未取）
+- 规模档：未取
+- 账目：—；—
+- 高管：无（研究档无 KP；Elsa 1:1 去信 sales@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 = 天然贴标对象（OEM 30% 目标）但主体未坐实** → 下轮补项：Companies House 关键词「Dynamode」/「Dynamode Ltd」+ 站点 Terms 页法人名；坐实前只发一页纸（STC-028GP / STC-228GP / STC-2224GP 贴标）不加厚
+  - 收件人 sales@（研究档）；表内 Elsa 1 次去信无回复 → 第二次触达换主题「your-label PoE switches, MOQ 1」；发信窗口 Thu 12–14 GMT
+- 备注：未坐实（1 次未中）；OEM 30% 目标待坐实；下轮补项。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -123,8 +137,9 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Dynamode（dynamode.co.uk；Companies House 1 次关键词检索未命中 → 未坐实；下轮补：站点 Terms 法人名）（第 100 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 英国 |
-| 其他 | 官网 dynamode.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 dynamode.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案；第 100 批：自有品牌网络 / 电脑配件商 = 贴标 OEM 30% 目标但主体未坐实 → 坐实前只发一页纸（STC-028GP / STC-228GP / STC-2224GP 贴标）；收件 sales@（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：计算机与网络设备（自有品牌 Dynamode）
 
@@ -314,12 +329,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

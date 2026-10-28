@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,6 +77,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 100 批（PL · 1 次检索：GoWork / krs-online（KAMSYS PIOTR BŁOŃSKI；NIP 8231551721；REGON 142179316；Indywidualna działalność gospodarcza；开业 2010-01-14；ul. Wileńska 27, 05-120 Legionowo）+ 官网 Kontakt / O firmie（同 NIP / REGON；+48 22 774 07 86；CCTV / SSWiN / SKD / RCP / 对讲 / 自动门；「Sprzedaż detaliczna i hurtowa」；MSWiA 许可）+ Marketplanet（Network infrastructure devices / Telecommunications equipment 品类），2026-10-28 查；https://www.gowork.pl/kamsys-piotr-blonski,22633776/dane-kontaktowe-firmy）：**
+
+- 法定名 / 登记号：KAMSYS Piotr Błoński（kamsys.pl；Legionowo）— 2010 年起的监控 / 报警 / 门禁 / 对讲网店兼安装商（CEIDG 个体；持 MSWiA 安防许可；零售 + 批发） · NIP 8231551721 · REGON 142179316（CEIDG） · 状态 **Active（站点在线；VAT 在册）** · 成立 2010-01-14 · Jednoosobowa działalność gospodarcza（个体）
+- 行业码 / 经营范围：安防系统（CCTV / 报警 / 门禁 / 考勤 / 对讲）网店 + 设计安装 + 批发；蓄电池 / 电工配件
+- 注册地址：ul. Wileńska 27, 05-120 Legionowo（mazowieckie）
+- 规模档：微型（个体）
+- 账目：—；—
+- 高管：Piotr Błoński — 业主（CEIDG）= 收件人（研究档无 KP）
+- 控制人 / 股东：Piotr Błoński
+- **这意味着什么：**
+  - **个体安防网店 + 安装** → **集成商 25%，小户，一页纸**：STC-028GP / STC-228GP（IP 监控 4–8 路）；MOQ 1 + DAP 华沙运费
+  - 收件人 Piotr Błoński（业主）；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 CET
+- 备注：集成商 25%；小户；一页纸；研究档补 KP Piotr Błoński。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,14 +124,17 @@ updated: 2026-10-27
 - **【用户表】SFP MC 工业 FS VC**
   > SFP MC 工业FS VC；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Piotr Błoński（业主（CEIDG；NIP 8231551721；研究档无 KP）= 收件人（第 100 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 kamsys.pl，语言 pl-pl，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | KAMSYS Piotr Błoński（CEIDG 个体；NIP 8231551721；REGON 142179316；MSWiA 安防许可） |
+| 成立 | 2010-01-14（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Wileńska 27, 05-120 Legionowo |
+| 其他 | 官网 kamsys.pl，语言 pl-pl，快照状态 ok；角色判定来源：官网文案；第 100 批：监控 / 报警 / 门禁网店 + 安装 → 集成商 25%，小户，一页纸：STC-028GP / STC-228GP（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：监控 / 报警 / 门禁网店（波兰）
 - **触达通道（公开）**：role: 安防网店（波兰）；region: 波兰；contact: sklep@kamsys.pl、wyceny@kamsys.pl
@@ -193,7 +210,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sklep@kamsys.pl / wyceny@kamsys.pl | 用户表原值 | Clients/ 表 |
+| Piotr Błoński | 业主（CEIDG；NIP 8231551721；研究档无 KP）= 收件人（第 100 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -260,7 +277,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Piotr,
 
 Picking up our earlier exchange about PoE / industrial switches. Alongside the BCS and Dahua systems in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches, DIN-rail industrial PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most?
 
@@ -285,12 +302,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

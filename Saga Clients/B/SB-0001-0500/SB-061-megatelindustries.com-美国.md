@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -106,6 +106,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 100 批（US · 1 次检索：官网 About（Founded in 1994, Megatel Industries corp.；批发 / 出口至亚洲、欧洲、非洲、加勒比、南美；664 Wagner Court, North Wales PA 19454；sales@）+ Buzzfile（Megatel Industries Corporation；Zack Yu = President；3 人；≈$0.42M；经营约 34 年；亚裔业主）+ D&B（Founded 1991；Incorporated PA；$1M；3 人）+ RocketReach（$2M；DoD 供应商 CAGE Code IRRG5；客户含联邦 / 州 / 市政府、军方、学校、出口贸易公司、批发商）+ Govcb / MapQuest（旧址 6 Crimson Drive, Norristown PA 19401）+ ZoomInfo（Zack Yu Sales Manager），2026-10-28 查；https://www.megatelindustries.com/info.html）：**
+
+- 法定名 / 登记号：Megatel Industries Corporation（megatelindustries.com；North Wales, PA）— 1991/1994 起的数据通信 / 光纤产品批发商、出口商兼 OEM 品牌商（IFS / IGS / IMC / FMC 系列 = CTC Union / ONV 贴牌；DoD 供应商 CAGE IRRG5；3 人；总裁 Zack Yu） · PA Corporation（PA DOS 号未取；CAGE IRRG5） · 状态 **Active（站点在线）** · 成立 1991（D&B）/ 1994（自述） · Corporation（宾夕法尼亚；业主 Zack Yu）
+- 行业码 / 经营范围：数据通信 / 光纤设备批发与出口 + 自有 logo：工业以太网 / PoE 交换机与转换器（IFS / IGS / IMC / ITP / IPSW / FMC）、EN50155 工业 PoE+ 管理型交换机、SFP、CWDM、T1/E1 / SDH 转换、工业电源
+- 注册地址：664 Wagner Court, North Wales, PA 19454（旧址 6 Crimson Dr, Norristown PA 19401）
+- 规模档：微型（3 人；$0.4–2M）
+- 账目：—；—
+- 高管：Zack Yu — President / Sales Manager = 研究档 KP zack@ 本人（业主）
+- 控制人 / 股东：Zack Yu
+- **这意味着什么：**
+  - **研究档 KP 坐实 = 业主 / 总裁本人**；微型（3 人）但自有 logo 全线工业交换机 + 政府 / 军方 + 出口客户 → **贴标 small（OEM 30%）**：Megatel 标 STI-054GP / STI-288DGGPM / STI-488DGGPM 对标其 CTC Union 贴牌款（表内其 8 口千兆管理 PoE 标 $1,800 → 我方 $147 级有巨大空间）
+  - 华人老板（Zack Yu）→ 可中文直联（Q 默认 no，先英文）；发信窗口 Wed 08–10 ET；一页纸 + 对比价；不提军用 / TAA
+- 备注：KP = 业主本人；贴标 small；一页纸。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - RM220 ← 「Site Map Main Menu POE Extender, Injector and Splitter Industrial Sync Ethernet Switch Multi-Service Platform FRM220 Series Chassis Ethernet Converter」（https://megatelindustries.com/）
@@ -144,16 +158,18 @@ updated: 2026-10-27
 - **【官网】IMC-1000MS-PHE12 管理型千兆 PoE 介质转换器售 $345**
   > IMC-1000MS-PHE12, Managed Gigabit PoE Ethernet Converter… Sale Price: $345.00
   > 来源：https://www.megatelindustries.com/imc1000100012.html（抓取 2026-10-21）
-- **KP**：Zack Yu（来信署名人（职务未在邮件署名里出现））zack@megatelindustries.com 〔S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补）〕
+- **KP**：Zack Yu（President / Sales Manager（Megatel Industries Corporation 业主；D&B / Buzzfile）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28））zack@megatelindustries.com 〔S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补）〕
 - 备注：画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $137.5 EXW（OEM 30%）'一句话价差。若再无回应则降 B。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Megatel Industries（美国） |
-| 总部/地址 | 美国 |
-| 其他 | 自有 logo 工业以太网线：IFS/IGS/IMC/ITP/IPSW/FMC 系列（多为 CTC Union 贴牌，亦有 ONV）；标价高（IGS-803SM-8PH24 标 $1,800 售 $699；IPSW-G04-1GE1SFP 售 $145；IMC-1000MS-PHE12 售 $345）；S 重点名单，22 次推送 0 回复 |
+| 法定名称 | Megatel Industries Corporation（PA Corporation；PA DOS 号未取；CAGE IRRG5） |
+| 成立 | 1991（D&B）/ 1994（自述）（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 664 Wagner Court, North Wales, PA 19454 |
+| 人数 | 3 人；$0.4–2M |
+| 其他 | 自有 logo 工业以太网线：IFS/IGS/IMC/ITP/IPSW/FMC 系列（多为 CTC Union 贴牌，亦有 ONV）；标价高（IGS-803SM-8PH24 标 $1,800 售 $699；IPSW-G04-1GE1SFP 售 $145；IMC-1000MS-PHE12 售 $345）；S 重点名单，22 次推送 0 回复；第 100 批：数据通信 / 光纤批发出口商兼 OEM 品牌商（3 人）→ 贴标 small（STC-228GP / STI-144GP）；政府 CAGE 客户不提；一页纸（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：自有品牌工业以太网交换机/介质转换器网店（OEM 采购）
 
@@ -267,7 +283,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Zack Yu | 来信署名人（职务未在邮件署名里出现） | zack@megatelindustries.com | 调研核实（公开页） | S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补） |
+| Zack Yu | President / Sales Manager（Megatel Industries Corporation 业主；D&B / Buzzfile）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28） | zack@megatelindustries.com | 调研核实（公开页） | S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补） |
 
 - **通道建议**：邮件已推送 22 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -361,12 +377,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

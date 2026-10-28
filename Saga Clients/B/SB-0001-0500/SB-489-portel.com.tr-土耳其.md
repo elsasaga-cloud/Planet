@@ -90,6 +90,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 100 批（TR · 1 次检索：vknsorgula（PORTEL TEKNOLOJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ；VKN 7320767976；Kuruluş 2017-05-23；VD 工作开始 2017-05-23 / 2021-01-29；Ticaret sicil 1075179；NACE 46.52.01；Yalı Mah. Kadir Sk. No 14 Kartal；电话 216 464 50 00；活跃）+ industrialnetworkcenter.com İletişim（Firma Resmi Adı PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.；Helis More Residence Kat 7 Daire 82；TL / USD / EUR 账户）+ 官网 Hakkımızda（20 年以上半导体供应经验；工业网络产品）+ 旧址 Kozyatağı-Kadıköy（隐私政策 2021）+ Tendata（2024-11：73 票进口，13 家供应商），2026-10-28 查；https://vknsorgula.net/7320767976）：**
+
+- 法定名 / 登记号：PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.（portel.com.tr / industrialnetworkcenter.com；İstanbul Kartal）— 2017 年成立的工业网络产品 + 半导体元件供应商（NACE 46.52.01 电信设备批发；在线商城 IndustrialNetworkCenter；表内「买 3onedata（三旺）的」） · VKN 7320767976 · Ticaret Sicil 1075179（İstanbul） · 状态 **Active（2025-12 官网更新；2024 进口 73 票）** · 成立 2017-05-23 · Anonim Şirket（私有，小型；注册地为住宅楼）
+- 行业码 / 经营范围：工业网络产品（工业交换机 / 串口服务器 / 光纤设备 —— 三旺等）与半导体元件供应；在线商城 IndustrialNetworkCenter；客户：电商 / 能源 / 海事 / 铁路网络与控制
+- 注册地址：Yalı Mah. Kadir Sk. No 14, Helis More Residence Kat 7 Daire 82, 34873 Kartal / İstanbul（旧址 Kozyatağı）
+- 规模档：微型 / 小型（A.Ş. 但住宅楼办公；人数未取）
+- 账目：—；—
+- 高管：Okay Yücedağ — 研究档 KP（Sales；职务未核）
+- 高管：董事会未取
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已直接从华南（三旺）进口工业交换机的小型 A.Ş. 电商** → 价格认知已到位 → **分销 20%**：切口 = 三旺没有的「Marvell 管理型 L2+ 工业 PoE」（STI-288DGGPM / STI-488DGGPM）+ 3 年保修 + MOQ 1；铁路客户不碰（守界）
+  - 收件人 Okay Yücedağ；发信窗口 Thu 10–12 TRT；一页纸即止（不点名三旺）
+- 备注：分销 20%；已直采三旺；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -140,15 +155,17 @@ updated: 2026-10-28
 - **【用户表】买三旺**
   > fiber networking 买3旺的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Okay Yücedağ（）okay.yucedag@portel.com.tr 〔用户表〕
+- **KP**：Okay Yücedağ（研究档联系人（Sales；职务未核）= 收件人（第 100 批 官方登记核实 2026-10-28））okay.yucedag@portel.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 portel.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.（VKN 7320767976；Ticaret Sicil 1075179 İstanbul；NACE 46.52.01） |
+| 成立 | 2017-05-23（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Yalı Mah. Kadir Sk. No 14, Helis More Residence K7 D82, 34873 Kartal / İstanbul |
+| 其他 | 官网 portel.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：工业网络 + 半导体供应小型 A.Ş.，已直采三旺（表内）→ 分销 20%：切「Marvell 管理型 L2+ 工业 PoE」STI-288DGGPM / STI-488DGGPM + 3 年保修 + MOQ 1；铁路客户守界；一页纸（不点名三旺）（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：半导体 / 工业网络部件分销（土耳其）
 - **触达通道（公开）**：role: 工业网络部件分销商（土耳其，现三旺）；region: 土耳其；contact: bilgi@industrialnetworkcenter.com、okay.yucedag@portel.com.tr
@@ -238,7 +255,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Okay Yücedağ | — | okay.yucedag@portel.com.tr | 调研核实（公开页） | 用户表 |
+| Okay Yücedağ | 研究档联系人（Sales；职务未核）= 收件人（第 100 批 官方登记核实 2026-10-28） | okay.yucedag@portel.com.tr | 调研核实（公开页） | 用户表 |
 | Okay Yucedag | — | bilgi@industrialnetworkcenter.com / okay.yucedag@portel.com.tr | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

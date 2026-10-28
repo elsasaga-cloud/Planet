@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,6 +88,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 100 批（US · 1 次检索：ZoomInfo（Fastercable；3325 W Ali Baba Ln Ste 619, Las Vegas NV 89118；(702) 456-8900；5 人；Juliette Ozols = Director, Operations；Richard Ozols = Sales Manager；电气 / 通信线缆、VFD 线缆、端子、断路器；经销商批量价）；检索同时命中 **Faster Cables LLC（宾州 Union City，业主 Gabriel Hershberger，fastercables.com）= 同名他户，不采**；NV SoS 法定名未取（1 次即停），2026-10-28 查；https://www.zoominfo.com/pic/fastercable/104466062）：**
+
+- 法定名 / 登记号：FasterCable（fastercable.com；Las Vegas, NV）— 电气 / 通信线缆与配件经销（Hellermann Tyton / Lutze 等；自有 EISW8-100T / EISW16-100T 百兆工业交换机）；Ozols 家族经营 5 人（≠ 宾州 Faster Cables LLC） · 部分坐实（NV 实体名 / SoS 号未取） · 状态 **Active（站点在线）** · 成立 未取 · 推定 NV 公司 / LLC（Ozols 家族）
+- 行业码 / 经营范围：电气 / 通信线缆与配件经销（plenum、VFD、Cat 线、端子、断路器、线管理）；自有标百兆工业以太网交换机 EISW8-100T / EISW16-100T
+- 注册地址：3325 W Ali Baba Ln, Ste 619, Las Vegas, NV 89118
+- 规模档：微型（5 人）
+- 账目：—；—
+- 高管：Juliette Ozols — Director, Operations = 研究档「Juliette O（V. President）」
+- 高管：Richard Ozols — Sales Manager = 研究档 KP richard@
+- 控制人 / 股东：Ozols 家族（推定）
+- **这意味着什么：**
+  - **微型家族经销 + 自有标百兆工业交换机** → 贴标 small：千兆升级 STI-054GP / STI-288DGGPM 贴 EISW 系列后继；一页纸即止
+  - 收件人 Richard Ozols；发信窗口 Wed 08–10 PT；不加厚；**不要与宾州 Faster Cables LLC 混淆**
+- 备注：部分坐实；贴标 small；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,16 +145,18 @@ updated: 2026-10-27
 - **【用户表】5/8/16 电口工业 FS**
   > 5/8/16电口工业FS 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Richard Ozols（）richard@fastercable.com 〔用户表〕
-- **KP**：Juliette O（） 〔用户表〕
+- **KP**：Richard Ozols（Sales Manager（FasterCable, Las Vegas）= 收件人（第 100 批 官方登记核实 2026-10-28））richard@fastercable.com 〔用户表〕
+- **KP**：Juliette O（Director, Operations（研究档写 V. President；姓 Ozols）= 抄送（第 100 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | FasterCable（fastercable.com；内华达实体名 / SoS 号未取 → 部分坐实；宾州 Faster Cables LLC 为同名他户） |
+| 总部/地址 | 3325 W Ali Baba Ln, Ste 619, Las Vegas, NV 89118 |
+| 人数 | 5 人（第 100 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 100 批：线缆配件经销 + 自有标工业交换机型号（EISW8-100T 等）→ 贴标 small（STI-054GP / STI-144GP）；一页纸（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：线缆 / 网络配件；工业以太网交换机（自有 EISW 系列）
 
@@ -249,8 +266,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Richard Ozols | — | richard@fastercable.com | 调研核实（公开页） | 用户表 |
-| Juliette O | — | — | 调研核实（公开页） | 用户表 |
+| Richard Ozols | Sales Manager（FasterCable, Las Vegas）= 收件人（第 100 批 官方登记核实 2026-10-28） | richard@fastercable.com | 调研核实（公开页） | 用户表 |
+| Juliette O | Director, Operations（研究档写 V. President；姓 Ozols）= 抄送（第 100 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 | Richard | — | richard@fastercable.com / sales@fastercable.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -345,12 +362,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

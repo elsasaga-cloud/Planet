@@ -5410,7 +5410,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1048": {
@@ -5564,7 +5564,7 @@
    "p1": "STI-280GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1054": {
@@ -7258,7 +7258,7 @@
    "p1": "STI-488DGGPM",
    "tier": 20,
    "signals": 1,
-   "kp": 0,
+   "kp": 2,
    "summary": true
   },
   "SB-1124": {
@@ -7280,7 +7280,7 @@
    "p1": "STI-288DGGPM",
    "tier": 20,
    "signals": 1,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1125": {
@@ -10866,7 +10866,7 @@
    "p1": "STC-28DGGPM",
    "tier": 25,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-261": {
@@ -16608,7 +16608,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-522": {
@@ -17444,7 +17444,7 @@
    "p1": "STI-080GE",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-560": {
@@ -21448,7 +21448,7 @@
    "p1": "STI-110GE",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-742": {

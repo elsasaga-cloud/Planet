@@ -81,6 +81,22 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 100 批（TR · 1 次检索：LinkedIn（Radio Teknoloji Hizmetleri A.Ş；2015；11–50 人；Bakırköy；「Türkiye’nin önde gelen Dış Ortam Kablosuz Distribütör ve Entegretör firması」；KGYS / EDS / Mobese / WISP / FBWA / TEDES）+ MÜSİAD Expo 参展名录（RADIO TEKNOLOJİ HİZMETLERİ A.Ş.；Ataköy 7-8-9-10. Kısım Mah. Çobançeşme E-5 Yan Yol Cad. Avrupa Residence No 8/1 A Blok Daire 10, Bakırköy）+ Facebook（+90 212 644 07 84；info@；客户 KGYS / TEDES / TSK / 边境 / 港口 / 机场 / 市政；接待国防部质保局长）+ SAHA Expo 参展页（分销商 + 系统集成商；PtP / PtMP / 室外 Wi-Fi / 车载移动通信 / 4G-5G LTE）+ 官网（InfiNet Wireless 等），2026-10-28 查；https://in.linkedin.com/company/radio-teknoloji-hizmetleri-a.%C5%9F）：**
+
+- 法定名 / 登记号：Radio Teknoloji Hizmetleri A.Ş.（radioteknoloji.com.tr；İstanbul Bakırköy）— 2015 年起户外宽带无线（PtP / PtMP / 室外 Wi-Fi / WiMAX / LTE）分销商兼系统集成商（KGYS / MOBESE 城市监控、TEDES、边境 / 港口 / 机场 / 市政；11–50 人；SAHA 国防展参展） · A.Ş.（İstanbul；MERSİS 号未取） · 状态 **Active（2026 官网改版；SAHA / MÜSİAD 参展）** · 成立 2015 · Anonim Şirket（私有，少数股东）
+- 行业码 / 经营范围：户外宽带无线设备分销与集成：PtP / PtMP 网桥、室外 Wi-Fi、WiMAX / LTE、微波、SCADA 数据传输、智慧城市 / 城市监控（KGYS）、国防通信基础设施
+- 注册地址：Ataköy 7-8-9-10. Kısım Mah. Çobançeşme E-5 Yan Yol Cad. Avrupa Residence No 8/1 A Blok D 10, Bakırköy / İstanbul
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Salih Yıldırım — Project Manager = 研究档 KP salih.yildirim@（职务为研究档记录，未另核）
+- 高管：Abdurrahman Pehlivanoğlu — 研究档 KP
+- 高管：董事会未取
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **户外无线分销 + 集成商** → 每个无线站点 / KGYS 杆位都要一台宽温 PoE 交换机 → **集成商 25%（兼分销 20%）**：STI-054GP / STI-144GP / STI-288DGGPM（导轨、-40~75 °C、PoE 给网桥与摄像机供电）
+  - 客户含 TSK（军方）→ 信里**只谈市政 / KGYS / 港口场景，不提军用**；收件人 Salih Yıldırım（项目经理 = 选型人）；发信窗口 Thu 10–12 TRT；一页纸 + 杆位配置图一张
+- 备注：集成商 25%；不提军用；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,7 +138,7 @@ updated: 2026-10-28
 - **【官网快照】Radio Technology 定位**
   > Radio Technology | Future-Shaping Communication Technologies ; Expert solutions in communication, defense, energy and smart city sectors. Radio systems and data transmission infrastructure since 2015.
   > 来源：https://www.radioteknoloji.com.tr/en/（抓取 2026-10-21）
-- **KP**：Salih Yildirim（）salih.yildirim@radioteknoloji.com.tr 〔用户表〕
+- **KP**：Salih Yildirim（Project Manager（研究档；选型人）= 收件人（第 100 批 官方登记核实 2026-10-28））salih.yildirim@radioteknoloji.com.tr 〔用户表〕
 - **KP**：Abdurrahman Pehlivanoglu（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -130,8 +146,11 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 radioteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Radio Teknoloji Hizmetleri A.Ş.（İstanbul Bakırköy；MERSİS 号未取） |
+| 成立 | 2015（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Ataköy 7-8-9-10. Kısım Mah. Çobançeşme E-5 Yan Yol Cad. Avrupa Residence No 8/1 A Blok D10, Bakırköy / İstanbul |
+| 人数 | 11–50 人 |
+| 其他 | 官网 radioteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：户外宽带无线（PtP / PtMP / LTE）分销 + 集成（KGYS / 港口 / 机场 / 市政；客户含 TSK → 信里不提军用）→ 集成商 25%：STI-054GP / STI-144GP / STI-288DGGPM 杆位 PoE；一页纸 + 杆位配置图（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：无线电系统 / 数据传输基础设施方案
 - **触达通道（公开）**：role: 无线通信方案商（土耳其，含国防领域 → 仅民用口径）；region: 土耳其；contact: info@radioteknoloji.com.tr、salih.yildirim@radioteknoloji.com.tr
@@ -214,7 +233,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Salih Yildirim | — | salih.yildirim@radioteknoloji.com.tr | 调研核实（公开页） | 用户表 |
+| Salih Yildirim | Project Manager（研究档；选型人）= 收件人（第 100 批 官方登记核实 2026-10-28） | salih.yildirim@radioteknoloji.com.tr | 调研核实（公开页） | 用户表 |
 | Abdurrahman Pehlivanoglu | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发

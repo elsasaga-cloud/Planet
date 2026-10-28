@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,6 +74,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 100 批（DE · 1 次检索：官网首页（「Seit 1996 … Netzwerkverkabelung, Glasfaserkabel, Komponenten (aktive und passive)」）+ wlw（lichtleiterkabel.com by ServiceNet EDV-Vertrieb GmbH；Provinzialstraße 40, 53859 Niederkassel；Distributor / Wholesaler；CEO Andreas Bude；1996）+ connektar 2018-12-13（Lichtleiterkabel.de 域名由 Traffictime Handels- & Marketing GmbH（Grafschaft；GF Holger Sockel）取得；「Betrieben wird der Shop durch die ServiceNet EDV Vertriebs GmbH」）；HRB 号未取（1 次检索），2026-10-28 查；https://www.wlw.com/en/company/lichtleiterkabelcom-by-servicenet-edv-vertrieb-gmbh-1805537）：**
+
+- 法定名 / 登记号：ServiceNet EDV-Vertrieb GmbH（店名 lichtleiterkabel.com；Niederkassel）— 1996 年起的 LWL 光缆定制 / 网络布线 B2B 电商（CEO Andreas Bude；域名持有方 Traffictime Handels- & Marketing GmbH / Holger Sockel） · GmbH（Niederkassel；HRB 号未取） · 状态 **Active（站点 2026-01 更新）** · 成立 1996 · GmbH（私有；CEO Andreas Bude）
+- 行业码 / 经营范围：LWL 光缆定制 / 网络布线（跳线 / 安装线）/ 有源无源组件 B2B 电商
+- 注册地址：Provinzialstraße 40, 53859 Niederkassel
+- 规模档：小型（人数未取）
+- 账目：—；—
+- 高管：Andreas Bude — CEO / Geschäftsführer（wlw）
+- 高管：Holger Sockel — 域名方 Traffictime GmbH GF（非本户经营者）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **光缆电商顺带卖有源件** → 交换机只是配角 → **分销 20%，小户，一页纸**：STI-144GP / STI-288DGGPM（光口工业，配其 LWL 定制线）+ STC-228GP
+  - 研究档无 KP；收件人 Andreas Bude（CEO）；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 CET
+- 备注：分销 20%；小户；一页纸；研究档补 KP Andreas Bude。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,14 +122,17 @@ updated: 2026-10-27
 - **【用户表】工业 FS(Planet) MC 周边，销售平台**
   > 工业FS(planet) MC 周边产品 销售平台；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Andreas Bude（CEO / Geschäftsführer（wlw 企业档；研究档无 KP）= 收件人（第 100 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 lichtleiterkabel.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | ServiceNet EDV-Vertrieb GmbH（店名 lichtleiterkabel.com；HRB 号未取；域名方 Traffictime Handels- & Marketing GmbH） |
+| 成立 | 1996（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Provinzialstraße 40, 53859 Niederkassel |
+| 其他 | 官网 lichtleiterkabel.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 100 批：LWL 光缆定制 / 布线 B2B 电商 → 有源件为配角 → 分销 20%，小户，一页纸：STI-144GP / STI-288DGGPM + STC-228GP（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤线缆 / 预端接 LWL 网店
 - **触达通道（公开）**：role: 光纤线缆网店（德国，Planet 工业 FS）；region: 德国；contact: info@lichtleiterkabel.com
@@ -170,7 +188,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@lichtleiterkabel.com | 用户表原值 | Clients/ 表 |
+| Andreas Bude | CEO / Geschäftsführer（wlw 企业档；研究档无 KP）= 收件人（第 100 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -238,7 +256,7 @@ updated: 2026-10-27
 **主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Andreas,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Planet industrial switches and converters you list with your fiber assemblies, we supply DIN-rail 8-GE + 2 SFP (and PoE) switches (managed versions on a Marvell platform) and gigabit media converters in neutral packing from small lots, CE/RoHS — which Planet model sells most in your shop?
 
@@ -263,12 +281,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

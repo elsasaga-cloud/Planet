@@ -76,6 +76,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 100 批（DE · 1 次检索：官网 Impressum（HK GmbH；Albert-Einstein-Str. 5, 40764 Langenfeld；Tel 02173-39959310；Handelsregister Amtsgericht Düsseldorf HRB 105842；USt-ID DE236 356 997；Geschäftsführer Dipl. Ing. Johannes Brüls；dispo@ / buero@hk-systeme.de；「Seit über 25 Jahren … Brandmeldeanlagen, Sprachalarmierung oder Elektroakustische Alarmanlagen」）+ registercheck（HK GmbH, Langenfeld；同址同邮）；Paderborn 的 HKS Systeme GmbH（HRB 571828）与 HK.SYSTEMS AG 为同名他户，不采，2026-10-28 查；https://hk-systeme.de/de/pages/impressum）：**
+
+- 法定名 / 登记号：HK GmbH（hk-systeme.de；Langenfeld）— 25 年以上的消防报警 / 语音疏散 / 电声报警系统集成商（HRB 105842 Düsseldorf；GF Dipl.-Ing. Johannes Brüls） · HRB 105842（Amtsgericht Düsseldorf）· USt-ID DE236356997 · 状态 **Aktiv** · 成立 未取（经营 25 年以上） · GmbH（私有）
+- 行业码 / 经营范围：消防报警（BMA）、语音报警（SAA）、电声报警系统（ENS）设计安装维保 —— 弱电集成商
+- 注册地址：Albert-Einstein-Str. 5, 40764 Langenfeld
+- 规模档：小型（人数未取）
+- 账目：—；—
+- 高管：Johannes Brüls（Dipl.-Ing.）— Geschäftsführer
+- 高管：Lukas Gierlirg — 研究档 KP lg@（职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **消防 / 语音疏散集成商** → IP 广播 / 语音报警网络要 PoE 交换机，但量小、认证重（EN 54 体系外设备仅作传输）→ **集成商 25%，小户，一页纸**：STC-228GP / STC-2224GP（给 IP 音频终端供电）
+  - 研究档站点 http_error → 收件人 Lukas Gierlirg lg@（在 Impressum 域下，可信）；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 CET
+- 备注：集成商 25%；小户；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,15 +127,18 @@ updated: 2026-10-28
 - **【用户表】有时候需要 PoE 带光口交换机**
   > 有时候需要POE，需要用到带光口的交换机
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Lukas Gierlirg（）lg@hk-systeme.de 〔用户表〕
+- **KP**：Lukas Gierlirg（研究档联系人（Impressum 域下；职务未核）= 收件人（第 100 批 官方登记核实 2026-10-28））lg@hk-systeme.de 〔用户表〕
+- **KP**：Johannes Brüls（Geschäftsführer（Dipl.-Ing.；Impressum；HRB 105842 Düsseldorf）= 拍板人（点名）（第 100 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 hk-systeme.de，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | HK GmbH（HRB 105842 Amtsgericht Düsseldorf；USt-ID DE236356997；Paderborn 的 HKS Systeme GmbH 为他户） |
+| 成立 | 未取（经营 25 年以上）（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Albert-Einstein-Str. 5, 40764 Langenfeld |
+| 其他 | 官网 hk-systeme.de，语言 ?，快照状态 http_error；角色判定来源：待核；第 100 批：消防报警 / 语音疏散 / 电声报警集成商 → IP 音频网络 PoE（STC-228GP / STC-2224GP）→ 集成商 25%，小户，一页纸（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：系统集成（德国）
 - **触达通道（公开）**：role: 系统集成商（德国，PoE + 光口需求）；region: 德国；contact: lg@hk-systeme.de
@@ -201,7 +219,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Lukas Gierlirg | — | lg@hk-systeme.de | 调研核实（公开页） | 用户表 |
+| Lukas Gierlirg | 研究档联系人（Impressum 域下；职务未核）= 收件人（第 100 批 官方登记核实 2026-10-28） | lg@hk-systeme.de | 调研核实（公开页） | 用户表 |
+| Johannes Brüls | Geschäftsführer（Dipl.-Ing.；Impressum；HRB 105842 Düsseldorf）= 拍板人（点名）（第 100 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 

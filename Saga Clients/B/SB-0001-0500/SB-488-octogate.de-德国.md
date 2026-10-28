@@ -86,6 +86,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 100 批（DE · 1 次检索：官网 Impressum（OctoGate IT Security Systems GmbH；Friedrich-List-Str. 87（旧 42）, 33100 Paderborn；+49 5251 18040-0；Vertretungsberechtigter Geschäftsführer Frank Menne；Amtsgericht Paderborn HRB 9944；USt-ID DE 275 066 387）+ Northdata（HRB 9944；EUID DER2809.HRB9944；MD Frank Menne, Jürgen Weiß；资本 €25,000；2010-11-23 登记；商标 OctoGate）+ Implisense（成立 2010-10-07；€25,000）+ LinkedIn（11–50 人；2010；IT Security / Firewall / IT Infrastruktur / WLAN / Digitalisierung）+ Regio Manager（源自 HSM-Menne GmbH / HSM IT-Services；2001 首台 OctoGate 防火墙；面向 KMU 与学校）+ 官网 Über uns（2010 从 HSM 拆分成立），2026-10-28 查；https://www.northdata.com/OctoGate%20IT%20Security%20Systems%20GmbH,%20Paderborn/HRB%209944）：**
+
+- 法定名 / 登记号：OctoGate IT Security Systems GmbH（octogate.de / schulfirewall.de / kitawall.de；Paderborn）— 2010 年起的防火墙 / 校园网络安全设备厂商（HRB 9944 Paderborn；GF Frank Menne；11–50 人；源自 2001 年 HSM-Menne 的 OctoGate 防火墙；表内「FS.com 买家，着重跟」） · HRB 9944（Amtsgericht Paderborn）· USt-ID DE275066387 · 状态 **Aktiv（2026-08 站点更新）** · 成立 2010-10-07（登记 2010-11-19） · GmbH（资本 €25,000；私有；GF Frank Menne）
+- 行业码 / 经营范围：IT 安全设备制造 / 软件开发：OctoGate 防火墙、Schulfirewall（学校）、Kitawall（幼儿园）、WLAN、云管理；通过系统集成商与教育机构交付
+- 注册地址：Friedrich-List-Str. 87, 33100 Paderborn
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Frank Menne — Geschäftsführer（创办人系；= 研究档 KP 本人）
+- 高管：Jürgen Weiß — 曾任 MD（Northdata）
+- 控制人 / 股东：Frank Menne（推定）
+- **这意味着什么：**
+  - **自有硬件品牌（OctoGate 防火墙 / 学校整包）+ 已从华南（FS.com）直采交换机 + GF 本人在收件 → 贴标 OEM 30% 目标**：OctoGate 标 STC-228GP / STC-2224GP / STC-4424GCPM（学校 PoE 接入，配其防火墙整包）+ STC-110XGE（10G 上联）；B BIG，**加厚**（贴标流程 + 三档价 + 学校场景一页纸）
+  - 表内「着重跟」且 1 次跟进无回复 → 第二次触达换主题「PoE access switches to ship with Schulfirewall — your label」；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）
+- 备注：贴标 OEM 30% 目标；KP = GF 本人；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,15 +144,18 @@ updated: 2026-10-28
 - **【用户表】飞速的，可着重跟**
   > 飞速的；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Frank Menne（）frank.menne@octogate.de 〔用户表〕
+- **KP**：Frank Menne（Geschäftsführer（vertretungsberechtigt；Impressum + HRB 9944 Paderborn；创办人系，源自 HSM-Menne GmbH）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28））frank.menne@octogate.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 德国 |
-| 其他 | 官网 octogate.de，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | OctoGate IT Security Systems GmbH（HRB 9944 Amtsgericht Paderborn；USt-ID DE275066387；资本 €25,000） |
+| 成立 | 2010-10-07（登记 2010-11-19）（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Friedrich-List-Str. 87, 33100 Paderborn |
+| 人数 | 11–50 人 |
+| 其他 | 官网 octogate.de，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 100 批：**自有硬件品牌（OctoGate 防火墙 / Schulfirewall 学校整包）+ 已直采 FS.com 交换机 + GF 本人收件 → 贴标 OEM 30% 目标**：OctoGate 标 STC-228GP / STC-2224GP / STC-4424GCPM + STC-110XGE 上联；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：防火墙 / 安全一体机；WLAN / 交换机（贴标）/ 云服务
 - **触达通道（公开）**：role: 德国 IT 安全品牌商（配套交换机贴标，现用 FS.com）；region: 德国；contact: info@octogate.de、frank.menne@octogate.de
@@ -232,7 +250,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Frank Menne | — | frank.menne@octogate.de | 调研核实（公开页） | 用户表 |
+| Frank Menne | Geschäftsführer（vertretungsberechtigt；Impressum + HRB 9944 Paderborn；创办人系，源自 HSM-Menne GmbH）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28） | frank.menne@octogate.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

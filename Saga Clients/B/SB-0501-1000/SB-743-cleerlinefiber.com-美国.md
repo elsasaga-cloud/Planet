@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -90,6 +90,25 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 100 批（US · 1 次检索：USITT / Worship Facility 新闻稿（Cleerline Technology Group 2012 年由 Robert D’Addario、Ryan Prentice、Rick Sant 作为 D’Addario & Co 关联企业创立；总部 Missoula, Montana）+ old.cleerline.com About（2009 Planet Waves 与 Custom Install Supply 合作；2012 合并成立；Prentice / Sant 来自西北太平洋集成商）+ D&B（Cleerline Technology Group, LLC；Key Principal Ryan Prentice）+ RocketReach（15 人；8404 Elway Dr Ste 2B, Missoula MT 59808）+ LinkedIn（11–50 人）+ Datanyze（Rick Sant Managing Partner；Ryan Prentice Partner）+ 2024-12 / 2025-12 / 2026-05 新闻（Ryan Prentice = President），2026-10-28 查；https://www.usitt.org/news/cleerline-introduces-ultra-compact-high-density-fiber-trunks）：**
+
+- 法定名 / 登记号：Cleerline Technology Group, LLC（cleerline.com / clrtec.com；Missoula, MT）— SSF 专利光纤品牌（2012，D’Addario & Co 关联企业；主理人 Ryan Prentice = President / Partner）；兼售工业交换机 / 10G MC / SFP · LLC（蒙大拿；SoS 号未取） · 状态 **Active（2026-05 / 2026-07 新品发布）** · 成立 2012（前身 Custom Install Supply 2000 年代中） · LLC（D’Addario 家族 + Prentice + Sant 合伙）
+- 行业码 / 经营范围：专利 SSF（玻璃-玻璃-聚合物）光纤线缆、预端接 / 跳线 / 配线、熔接盒、安装工具（AV 集成、数据中心、演出）；周边：工业交换机、10G 媒体转换器、串口光纤转换器（2025-05 新品）、SFP
+- 注册地址：8404 Elway Drive, Suite 2B, Missoula, MT 59808
+- 规模档：小型（11–50 人；15）
+- 账目：—；—
+- 高管：Ryan Prentice — President / Partner = 研究档 KP ryan@ 本人
+- 高管：Rick Sant — Managing Partner
+- 高管：Robert D’Addario — Principal（D’Addario & Co）
+- 高管：Gina D’Addario — PR Manager
+- 控制人 / 股东：D’Addario / Prentice / Sant
+- 曾用名：Custom Install Supply（Missoula）；Planet Waves Custom Installation
+- **这意味着什么：**
+  - **研究档 KP Ryan Prentice 坐实 = President / 合伙人本人**（拍板人）；D’Addario 集团背书 = 付款与规模无忧
+  - 自有标光纤品牌 + 已卖工业交换机 / 10G MC / SFP 周边（表内 MC 供应商为「光路」）→ **贴标 OEM 30% 目标（Cleerline 标 10G 上联交换机 STC-110XGE / 工业 STI-144GP 配其光纤）**；B；18 次群发无回复 → 第二次触达换主题「a switch line to match SSF」
+  - 发信窗口 Wed 08–10 MT；加厚一次（一页规格 + 贴标流程）
+- 备注：KP = President 本人；贴标 OEM 30% 目标；加厚一次。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,15 +148,18 @@ updated: 2026-10-27
 - **【用户表】工业 FS 10G MC SFP；光路是供应商**
   > 工业FS 10GMC SFP 周边产品 / 光路是供应商
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ryan Prentice（）ryan@cleerline.com 〔用户表〕
+- **KP**：Ryan Prentice（President / Partner（Cleerline Technology Group, LLC；D’Addario & Co 关联）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28））ryan@cleerline.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 cleerlinefiber.com，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | Cleerline Technology Group, LLC（蒙大拿；SoS 号未取；SSF 光纤专利品牌） |
+| 成立 | 2012（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 8404 Elway Drive, Suite 2B, Missoula, MT 59808 |
+| 人数 | 11–50 人（15） |
+| 其他 | 官网 cleerlinefiber.com，语言 ?，快照状态 ok；角色判定来源：待核；第 100 批：自有品牌（SSF 光纤 + 网络配件）+ 总裁本人收件 → **贴标 OEM 30% 目标**：Cleerline 标 STC-228GP / STC-2224GP / STI-144GP 配其光纤；B BIG；加厚（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：SSF 光纤 / 有源配件（自有品牌 Cleerline）
 - **触达通道（公开）**：role: 光纤品牌商（美国，有源配件现光路）；region: 美国；contact: info@clrtec.com、ryan@cleerline.com
@@ -232,7 +254,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ryan Prentice | — | ryan@cleerline.com | 调研核实（公开页） | 用户表 |
+| Ryan Prentice | President / Partner（Cleerline Technology Group, LLC；D’Addario & Co 关联）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28） | ryan@cleerline.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -326,12 +348,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

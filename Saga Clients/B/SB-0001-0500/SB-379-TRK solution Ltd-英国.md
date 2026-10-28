@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 100 批（GB · 1 次检索：Companies House 12948953（TRK SOLUTIONS LTD；Active；2020-10-14 成立；Premier Business Centre, 47-49 Park Royal Road, London NW10 7LQ；SIC 43210 电气安装 + 61100 有线电信）+ Endole（<10 人；资产负债表 <£500k；唯一董事 / 股东 / PSC Sahil Karwar，42 岁，2020-10 任；「High debt ratio」）+ bizstats（PSC 75–100%）+ companieslist（SAHIL KARWAR 董事）+ 官网（公司号 12948953；VAT 437821090；info@；0208 146 1234）+ LinkedIn（Sahil Karwar — TRK SOLUTIONS LTD）；TRK SOLUTIONS LIMITED 07147856（Knight 夫妇）为同名他户，不采，2026-10-28 查；https://find-and-update.company-information.service.gov.uk/company/12948953）：**
+
+- 法定名 / 登记号：TRK SOLUTIONS LTD（trksolutions.co.uk；London Park Royal）— 2020 年成立的 CCTV / 门禁 / 报警安装微型公司（Companies House 12948953；唯一董事 + PSC Sahil Karwar；<10 人） · Companies House 12948953 · VAT 437821090 · 状态 **Active（最近账 2023-10-31）** · 成立 2020-10-14 · Private limited company（单董事；注册地为商务中心）
+- 行业码 / 经营范围：43210 — 电气安装；61100 — 有线电信（CCTV / 门禁 / 报警 / 网络安装）
+- 注册地址：Premier Business Centre, 47-49 Park Royal Road, London NW10 7LQ（商务中心）
+- 规模档：微型（<10 人）
+- 账目：Micro（<£500k）；—
+- 高管：Sahil Karwar — Director / PSC 75–100%（研究档写 Karwat → 更正为 Karwar）
+- 控制人 / 股东：Sahil Karwar
+- **这意味着什么：**
+  - **微型安装商，老板本人收件** → **集成商 25%，小户，一页纸**：STC-028GP / STC-228GP（CCTV 4–8 路）+ STC-2224GP（门禁 + 摄像机项目）；MOQ 1 + 伦敦 DAP 运费说明
+  - 表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 GMT；研究档 KP 拼写更正 Karwat → Karwar
+- 备注：集成商 25%；小户；一页纸；KP 拼写更正。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,15 +146,18 @@ updated: 2026-10-27
 - **【用户表】主要用工业 PoE**
   > 主要用工业PoE 比较懂
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Sahil Karwat（）info@trksolutions.co.uk 〔用户表〕
+- **KP**：Sahil Karwar（Director / PSC 75–100%（Companies House 12948953；研究档拼写 Karwat → 更正 Karwar）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28））info@trksolutions.co.uk 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 英国 |
-| 其他 | 官网 trksolutions.co.uk，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | TRK SOLUTIONS LTD（Companies House 12948953；VAT 437821090；SIC 43210 + 61100；同名 07147856 为他户） |
+| 成立 | 2020-10-14（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Premier Business Centre, 47-49 Park Royal Road, London NW10 7LQ（商务中心） |
+| 人数 | <10 人；Micro |
+| 其他 | 官网 trksolutions.co.uk，语言 en，快照状态 ok；角色判定来源：用户表；第 100 批：CCTV / 门禁 / 报警微型安装商 → 集成商 25%，小户，一页纸：STC-028GP / STC-228GP / STC-2224GP；MOQ 1（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 门禁 / 火灾报警 / ANPR 安装（英国）
 - **触达通道（公开）**：role: 安防安装商（英国，工业 PoE 用户）；region: 英国；contact: info@trksolutions.co.uk
@@ -237,7 +254,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sahil Karwat | — | info@trksolutions.co.uk | 调研核实（公开页） | 用户表 |
+| Sahil Karwar | Director / PSC 75–100%（Companies House 12948953；研究档拼写 Karwat → 更正 Karwar）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28） | info@trksolutions.co.uk | 调研核实（公开页） | 用户表 |
+| Sahil Karwat | — | info@trksolutions.co.uk | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -331,12 +349,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

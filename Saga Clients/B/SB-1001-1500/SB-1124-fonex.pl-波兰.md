@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,6 +76,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 100 批（PL · 1 次检索：官网 Kontakt（FONEX K.T.M. Borowscy SP.J.；ul. Wręczycka 13/15, 42-202 Częstochowa；NIP 9492100567；KRS 0000317918；REGON 241058180；BDO 000427576；34 3 525 111；sklep@fonex.pl）+ krs-pobierz（Spółka jawna；aktywna；登记 2008-11-18；最近 KRS 变更 2026-04-17；主营 Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego）+ rejestr.io / aleo（同号）+ fonex.com.pl（安装业务；info@fonex.pl）+ 规程 Regulamin（Sąd Rejonowy w Częstochowie XVII Wydział KRS），2026-10-28 查；https://rejestr.io/krs/317918）：**
+
+- 法定名 / 登记号：FONEX K.T.M. Borowscy Sp. j.（fonex.pl / fonex.com.pl；Częstochowa）— 2008 年起的报警 / 监控 / 安防批发商 + 网店 + 安装（KRS 0000317918；Borowski 家族普通合伙；PKD 46.52 电子电信设备批发） · KRS 0000317918 · NIP 9492100567 · REGON 241058180 · BDO 000427576 · 状态 **Aktywna（KRS 变更 2026-04-17）** · 成立 2008-11-18 · Spółka jawna（普通合伙；Borowscy）
+- 行业码 / 经营范围：PKD 46.52.Z — 电子 / 电信设备批发（报警 SATEL、CCTV、门禁、对讲；网店 + 安装）
+- 注册地址：ul. Wręczycka 13/15, 42-202 Częstochowa（śląskie）
+- 规模档：小型（人数未取；区域批发）
+- 账目：—；—
+- 高管：Borowscy（合伙人；姓名未取）= 收件人 sklep@ / info@（研究档无 KP）
+- 控制人 / 股东：Borowski 家族
+- **这意味着什么：**
+  - **区域安防批发 + 网店** → **分销 20%，小户，一页纸**：STC-028GP / STC-228GP / STC-2216GP（对标其在售 PoE 交换机价）
+  - 收件人 sklep@fonex.pl（点名 właściciel / zakupy）；表内无跟进 → 首信即一页纸；发信窗口 Thu 12–14 CET
+- 备注：分销 20%；小户；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,6 +122,7 @@ updated: 2026-10-27
 - **【官网】定位：1994 年起安防分销、授权分销、B2B 批发计划**
   > Nieprzerwanie od 1994 roku działamy na rynku technologii związanych z elektronicznymi systemami bezpieczeństwa. Jesteśmy autoryzowanym dystrybutorem wielu cenionych w branży producentów. … Sprzedaż hurtowa Jeżeli jesteś zainteresowany nawiązaniem współpracy w modelu Hurt, napisz: wspolpraca@fonex.pl.
   > 来源：https://www.fonex.pl/strona/wspolpraca-b2b-7.html（抓取 2026-10-20）
+- **KP**：（Borowscy 合伙人）（wspólnicy（KRS 0000317918 普通合伙；姓名未取）= 收件人 sklep@ 点名 właściciel / zakupy（第 100 批 官方登记核实 2026-10-28））sklep@fonex.pl 〔〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-057 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -115,9 +130,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | FONEX K.T.M. Borowscy Sp. j. |
-| 总部/地址 | Częstochowa, 波兰 |
-| 其他 | Planet 渠道档案 PB-057（2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json）；自有品牌：否；最大未知：人数/营收；PLANET 货源（Action/AB/Eltrox 等波兰分销？）；采购决策人 |
+| 法定名称 | FONEX K.T.M. Borowscy Sp. j.（KRS 0000317918；NIP 9492100567；REGON 241058180；BDO 000427576；PKD 46.52.Z） |
+| 成立 | 2008-11-18（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Wręczycka 13/15, 42-202 Częstochowa |
+| 其他 | Planet 渠道档案 PB-057（2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json）；自有品牌：否；最大未知：人数/营收；PLANET 货源（Action/AB/Eltrox 等波兰分销？）；采购决策人；第 100 批：区域安防批发 + 网店 + 安装 → 分销 20%，小户，一页纸：STC-028GP / STC-228GP / STC-2216GP（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防分销商/电商（1994 年起电子安防系统分销：CCTV、报警、对讲/可视对讲、门禁、消防/排烟、门控自动化、智能家居；SATEL 授权分销；B2B 安装商与批发合作计划）
 
@@ -254,12 +270,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

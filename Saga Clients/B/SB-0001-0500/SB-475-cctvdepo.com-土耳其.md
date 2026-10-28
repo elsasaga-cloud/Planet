@@ -80,6 +80,23 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 100 批（TR · 1 次检索：官网 Gizlilik（Satıcı CCTVDEPO Güvenlik Teknolojileri A.Ş.；Remzi Özkaya Cad. No 18 Yenibosna；Yenibosna VD；MERSİS 0203034849100015；Ticaret sicil 70431-5；KEP cctvdepo@hs01.kep.tr）+ ETBİS（MERSİS 0203034849100015；Vergi No 2030348491；CCTVDEPO GÜVENLİK TEKNOLOJİLERİ ANONİM ŞİRKETİ；2004 年成立，电子安防系统批发）+ 官网 Hakkımızda（20 年以上团队；**SECUZI ve TİRENZO markalı ürünlerin üreticisi ve ithalatçısı**；客户代表 Asuman Özüdoğru / Mehmet Sağlam / Mert Yıldız；总部 Hürriyet Mh Güngören Sk 4b Bahçelievler；Perpa CepDepo B Blok K8 No 836）+ LinkedIn / SignalHire（51–200 / 100–200 人；2004；$1–10M）+ Kariyer 2026-06（招 Bayi Kanalı 销售；全国安防 bayi 供货），2026-10-28 查；https://www.eticaret.gov.tr/siteprofil/CE3F46BF44034071A9956AA7132E34DF/wwwcctvdepocombayi）：**
+
+- 法定名 / 登记号：CCTVDEPO Güvenlik Teknolojileri A.Ş.（cctvdepo.com；İstanbul Yenibosna / Bahçelievler + Perpa B Blok）— 2004 年起土耳其最早的安防 B2B 电商 / 全国 bayi 批发商；自有品牌 SECUZI / TİRENZO 的生产商兼进口商（51–200 人；站内自有标 SZNT- PoE 交换机） · MERSİS 0203034849100015 · Ticaret Sicil 70431-5（İstanbul）· VKN 2030348491 · 状态 **Active（ETBİS 在册；2026-06 招聘）** · 成立 2004 · Anonim Şirket（私有）
+- 行业码 / 经营范围：电子安防系统 B2B 批发电商（摄像机 / NVR / PoE 网络 / 电脑配件 / 手机配件 / 安装材料 / 智能安防；全国 bayi）；自有品牌 SECUZI / TİRENZO（生产 + 进口；站内 SZNT-PSY0420FL / PSP0820FLR / PSP0420GLR 等自有标 PoE 交换机）
+- 注册地址：Remzi Özkaya Cad. No 18, Yenibosna / İstanbul（注册）；Hürriyet Mh Güngören Sk 4b, Bahçelievler 34188（总部仓）；Perpa Ticaret Merkezi B Blok K8 No 836, Şişli（门店）
+- 规模档：中型（51–200 人；$1–10M）
+- 账目：—；—
+- 高管：Asuman Özüdoğru — Müşteri Temsilcisi（客户代表）= 研究档 KP（研究档误配 can@）
+- 高管：Mehmet Sağlam / Mert Yıldız — 客户代表
+- 高管：Can Gürcan — 研究档 KP can@（职务未核）
+- 高管：董事会未取
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **第 100 批 TR 最大户、OEM 30% 首选**：自有品牌 SECUZI / TİRENZO 下已卖自有标 PoE 交换机（SZNT- 型号 = 华南贴牌）+ 全国 bayi 批发 + 51–200 人 → **SECUZI 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP 贴标 OEM 30%，B BIG，升 A 候选（回信即 A）**
+  - 收件人：研究档 can@（Can Gürcan）主送、Asuman Özüdoğru 抄，点名「satın alma / ürün müdürü」；表内无跟进 → 首信即一页纸 + 对比价（其 4 口 / 8 口 PoE 在售价）；发信窗口 Thu 10–12 TRT；**加厚**
+- 备注：OEM 30% 首选；B BIG；升 A 候选；加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,16 +141,19 @@ updated: 2026-10-28
 - **【官网快照】CCTV Depo 经销门户栏目**
   > CCTV Depo A.Ş. ; Kamera Sistemleri ; Bilgisayar Aksesuarları ; Network Ürünleri ; Mobil Tel Aksesuarları ; Montaj Malzemeleri ; Akıllı Güvenlik
   > 来源：https://cctvdepo.com/bayi/（抓取 2026-10-21）
-- **KP**：Asuman Ozuedogru（）can@cctvdepo.com 〔用户表〕
-- **KP**：Can Gurcan（）can@cctvdepo.com 〔用户表〕
+- **KP**：Asuman Ozuedogru（Müşteri Temsilcisi（客户代表；官网 Hakkımızda；真实邮箱应为 asuman@，研究档误配 can@）= 抄送（第 100 批 官方登记核实 2026-10-28））can@cctvdepo.com 〔用户表〕
+- **KP**：Can Gurcan（研究档联系人 can@（职务未核）= 主收件人，点名「satın alma / ürün müdürü」（第 100 批 官方登记核实 2026-10-28））can@cctvdepo.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 cctvdepo.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | CCTVDEPO Güvenlik Teknolojileri A.Ş.（MERSİS 0203034849100015；Ticaret Sicil 70431-5 İstanbul；VKN 2030348491） |
+| 成立 | 2004（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Hürriyet Mh Güngören Sk 4b, Bahçelievler 34188 İstanbul（注册 Remzi Özkaya Cad. No 18 Yenibosna；门店 Perpa B Blok K8 No 836） |
+| 人数 | 51–200 人；$1–10M |
+| 其他 | 官网 cctvdepo.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：**自有品牌 SECUZI / TİRENZO 的生产商兼进口商 + 站内自有标 PoE 交换机（SZNT-*）+ 全国 bayi 批发 → OEM 30% 首选 TR**：SECUZI 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：摄像机系统 / 网络产品 / 电脑与手机配件经销
 - **触达通道（公开）**：role: 安防/电脑配件经销门户（土耳其，SZNT PoE）；region: 土耳其；contact: can@cctvdepo.com
@@ -217,8 +237,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Asuman Ozuedogru | — | can@cctvdepo.com | 调研核实（公开页） | 用户表 |
-| Can Gurcan | — | can@cctvdepo.com | 调研核实（公开页） | 用户表 |
+| Asuman Ozuedogru | Müşteri Temsilcisi（客户代表；官网 Hakkımızda；真实邮箱应为 asuman@，研究档误配 can@）= 抄送（第 100 批 官方登记核实 2026-10-28） | can@cctvdepo.com | 调研核实（公开页） | 用户表 |
+| Can Gurcan | 研究档联系人 can@（职务未核）= 主收件人，点名「satın alma / ürün müdürü」（第 100 批 官方登记核实 2026-10-28） | can@cctvdepo.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

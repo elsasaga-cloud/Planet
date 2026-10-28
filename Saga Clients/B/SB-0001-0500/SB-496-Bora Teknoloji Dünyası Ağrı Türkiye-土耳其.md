@@ -82,6 +82,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 100 批（TR · 1 次检索：Facebook 主页「By Bora Teknoloji Dünyası, Ağrı」（Zayıf Akım Sistemleri、Bilgisayar、Akıllı ev sistemleri、Güvenlik Kamerası、Hırsız alarm、İnternet alt yapı）= 与研究档一致；**Trabzon 的 Bora Teknoloji（borateknoloji.com.tr，2006）与 İstanbul Maltepe 的手机维修店为同名他户，不采**；无商业登记可查（个体门店），2026-10-28 查；https://www.facebook.com/ByBoraErimAgri/）：**
+
+- 法定名 / 登记号：By Bora Teknoloji Dünyası（Ağrı；Facebook 主页；无域名）— 土耳其东部阿勒的微型弱电 / 电脑 / 安防门店（Bora Erim；WhatsApp 已加；询盘 2 光 8 PoE 商业级 10 台） · 部分坐实（Facebook 主页；无 VKN / MERSİS） · 状态 **Active（主页在线）** · 成立 未取 · 个体门店（推定 şahıs işletmesi）
+- 行业码 / 经营范围：弱电系统、电脑、智能家居、监控摄像机、防盗报警、网络布线（阿勒本地安装 + 零售）
+- 注册地址：Ağrı（门牌未取）
+- 规模档：微型（1–5 人推定）
+- 账目：—；—
+- 高管：Bora Erim — 业主 = 研究档 KP（boraerim@gmail.com；WhatsApp 已加）
+- 控制人 / 股东：Bora Erim
+- **这意味着什么：**
+  - **微型门店但需求明确（2 SFP + 8 PoE 商业级 ×10）** → 直接 WhatsApp 报 STC-228GP（8+2 SFP，$33 ×10）+ 运费（DAP 走百运网）；WhatsApp 客户不走编号群发（规则）
+  - 不加厚、不建卡；成交即记一笔；下轮不追
+- 备注：微型门店；WhatsApp 直报 STC-228GP；不加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,16 +119,17 @@ updated: 2026-10-28
 - **【用户表】商业级 2 光 8 PoE 10 pcs；自建站 + WhatsApp**
   > 商业级2光8PoE 10pcs / from: 自建站 / 054258 76685 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Bora Erim（业主（推测））boraerim@gmail.com（用户表） +90 542 587 66 85（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Bora Erim（业主（Facebook 主页「By Bora Teknoloji Dünyası」Ağrı；WhatsApp 已加）= 收件人（第 100 批 官方登记核实 2026-10-28））boraerim@gmail.com（用户表） +90 542 587 66 85（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Bora Teknoloji Dünyası（待核） |
-| 总部/地址 | Ağrı, Türkiye |
-| 其他 | 仅 Gmail |
+| 法定名称 | By Bora Teknoloji Dünyası（Ağrı 个体门店；无 VKN / 域名 → 部分坐实；Trabzon 的 Bora Teknoloji 为他户） |
+| 总部/地址 | Ağrı（第 100 批 官方登记核实 2026-10-28） |
+| 人数 | 1–5 人（推定） |
+| 其他 | 仅 Gmail；第 100 批：弱电 / 电脑 / 安防微型门店，询盘 2 SFP + 8 PoE ×10 → WhatsApp 直报 STC-228GP（$33 ×10）+ DAP 运费；不加厚、不进群发（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT/安防零售安装（推测，待核）
 - **触达通道（公开）**：电话: +90 542 587 66 85（用户表，WhatsApp 已加）
@@ -153,7 +168,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Bora Erim | 业主（推测） | boraerim@gmail.com（用户表） / +90 542 587 66 85（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Bora Erim | 业主（Facebook 主页「By Bora Teknoloji Dünyası」Ağrı；WhatsApp 已加）= 收件人（第 100 批 官方登记核实 2026-10-28） | boraerim@gmail.com（用户表） / +90 542 587 66 85（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 

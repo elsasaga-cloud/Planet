@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 100 批（TR · 1 次检索：官网 EN About（「As the family of GD Güvenlik Sistemleri San. Dış Tic. Ltd. Şti … 2017」；「imports security systems products under the Eurocam brand, and imports network and connection equipment under the Eurolink brand」；「Since 2020 … producing many models of security cameras」；Gökhan DEMİR CEO - Founding Manager gokhandemir@；Perpa A Blok 8. Kat No 918 Şişli）+ Hakkımızda（500 多家 bayi；直接进口；页脚 © 2026 Eurocam GD Güvenlik ve Elektronik Sistemleri San. Dış Tic. Ltd. Şti.）+ b2b 站 İletişim（Eurocam GD Güvenlik Elektronik ve Bilişim Sistemleri San. Dış Tic. Ltd. Şti.）+ ZoomInfo（11–50 人）+ nereninmali / kiminmali（Eurocam 显示器 = GD Güvenlik 2017 成立，İstanbul）；Bursa 的 Eurocam Yapı Sistemleri（玻璃幕墙）为同名他户，不采，2026-10-28 查；https://www.eurocamguvenlik.com.tr/en.php）：**
+
+- 法定名 / 登记号：Eurocam GD Güvenlik Elektronik ve Bilişim Sistemleri San. Dış Tic. Ltd. Şti.（eurocamguvenlik.com.tr；İstanbul Perpa A Blok）— 2017 年起安防进口商：自有品牌 Eurocam（安防）+ **Eurolink（网络 / 连接设备）**；2020 起自产摄像机；500+ bayi；CEO / 创办人 Gökhan Demir · Ltd. Şti.（İstanbul；MERSİS 号未取） · 状态 **Active（站点 2026；b2b 站运行）** · 成立 2017 · Limited Şirket（创办人 CEO Gökhan Demir）
+- 行业码 / 经营范围：安防系统进口与分销（Eurocam 品牌：CCTV / IP 摄像机、显示器、车牌识别、考勤、消防、报警；2020 起自产摄像机）；网络 / 连接设备进口（**Eurolink 品牌** = 自有标交换机 / 线材）；Hikvision / Dahua / Ruijie 在售
+- 注册地址：Halil Rıfat Paşa Mah. Yüzer Havuz Sok. Perpa Ticaret Merkezi A Blok 8. Kat No 918, 34384 Şişli / İstanbul
+- 规模档：小型（11–50 人；500+ bayi）
+- 账目：—；—
+- 高管：Gökhan Demir — CEO / Founding Manager（创办人）= 研究档 KP gokhandemir@ 本人
+- 控制人 / 股东：Gökhan Demir
+- 曾用名：GD Güvenlik Sistemleri San. Dış Tic. Ltd. Şti.
+- **这意味着什么：**
+  - **研究档 KP 坐实 = 创办人 CEO 本人**；**自有网络品牌 Eurolink 已存在 + 直接进口 + 500 bayi → OEM 30% 首选（Eurolink 标 PoE 交换机：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP），B BIG，升 A 候选（回信即 A）**
+  - 表内 1 次跟进无回复 → 第二次触达换主题「Eurolink PoE line: 8 / 16 / 24-port with 2-year warranty you already promise」（其官网承诺 2 年保修 → HRUI 1 年需说明 / STI 3 年可对齐）；发信窗口 Thu 10–12 TRT；**加厚**（贴标流程 + 三档价）
+- 备注：OEM 30% 首选；KP = CEO 本人；B BIG；升 A 候选；加厚。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,15 +136,18 @@ updated: 2026-10-28
 - **【官网快照】Eurocam 定位**
   > Eurocam Güvenlik | Güvenlik Kameraları, CCTV & IP Kamera İthalatçısı ; Profesyonel güvenlik kamerası, CCTV ve IP kamera çözümleri. Türkiye’nin güvenilir ithalatçısı
   > 来源：https://eurocamguvenlik.com.tr/（抓取 2026-10-21）
-- **KP**：Gökhan Demir（）gokhandemir@eurocamguvenlik.com.tr 〔用户表〕
+- **KP**：Gökhan Demir（CEO – Founding Manager（创办人；官网 EN About 署名 ext 14）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28））gokhandemir@eurocamguvenlik.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 土耳其 |
-| 其他 | 官网 eurocamguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Eurocam GD Güvenlik Elektronik ve Bilişim Sistemleri San. Dış Tic. Ltd. Şti.（前 GD Güvenlik Sistemleri San. Dış Tic. Ltd. Şti.；MERSİS 号未取；Bursa 的 Eurocam Yapı 为他户） |
+| 成立 | 2017（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Perpa Ticaret Merkezi A Blok 8. Kat No 918, 34384 Şişli / İstanbul |
+| 人数 | 11–50 人；500+ bayi |
+| 其他 | 官网 eurocamguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 100 批：**自有网络品牌 Eurolink（网络 / 连接设备进口）+ 自有安防品牌 Eurocam（2020 起自产摄像机）+ 直接进口 + 500 bayi → OEM 30% 首选 TR**：Eurolink 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP；其官网承诺 2 年保修 → STI 3 年可对齐；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防摄像机 / CCTV 进口分销；弱电系统（广播、车牌识别、消防、报警）
 - **触达通道（公开）**：role: 安防进口分销商（土耳其）；region: 土耳其；contact: info@eurocamguvenlik.com.tr、gokhandemir@eurocamguvenlik.com.tr
@@ -209,7 +227,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gökhan Demir | — | gokhandemir@eurocamguvenlik.com.tr | 调研核实（公开页） | 用户表 |
+| Gökhan Demir | CEO – Founding Manager（创办人；官网 EN About 署名 ext 14）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28） | gokhandemir@eurocamguvenlik.com.tr | 调研核实（公开页） | 用户表 |
 | Gokhan DEMİR | — | info@eurocamguvenlik.com.tr / gokhandemir@eurocamguvenlik.com.tr | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

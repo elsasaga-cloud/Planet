@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,6 +89,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 100 批（US · 1 次检索：官网 / LinkedIn（VIPA ControlsAmerica；980 Birmingham Rd Ste 721 / 825, Alpharetta GA 30004；「North American arm of VIPA GmbH of Germany (a Yaskawa company)」；Established 1998；面向 OEM / 终端用户 / 系统集成商）+ ContactOut（1998；Thomas Kosse = President & CEO）+ RocketReach（8 人）+ 官网 About（VIPA GmbH 1985 Wolfgang Seel 创立；2012 YASKAWA Europe 收购多数股权；2019 法律合并入 Yaskawa Europe GmbH）；GA 实体法定名 / LLC 号未取（1 次即停），2026-10-28 查；https://www.linkedin.com/company/vipa-controls-america）：**
+
+- 法定名 / 登记号：VIPA ControlsAmerica（vipausa.com；Alpharetta, GA）— 德国 VIPA GmbH（YASKAWA 旗下）PLC / I/O / HMI 的北美销售与服务公司（1998；8 人；President & CEO Thomas Kosse；表内「工业 FS 自己的 logo」） · GA 实体名 / SoS 号未取（公开名 VIPA ControlsAmerica） · 状态 **Active（站点在线；墨西哥线 ventas@）** · 成立 1998 · 私有（美国独立销售公司；President & CEO Thomas Kosse；与 Yaskawa 关系为品牌授权 / 代理，未核股权）
+- 行业码 / 经营范围：VIPA（Yaskawa）PLC / 远程 I/O / HMI / PROFIBUS 连接器北美销售、服务与支持；Siemens STEP7 兼容；GermanAutomation® 站
+- 注册地址：980 Birmingham Rd. Ste 721 / 825, Alpharetta, GA 30004
+- 规模档：微型（8 人）
+- 账目：—；—
+- 高管：Thomas Kosse — President & CEO（研究档无 KP）
+- 控制人 / 股东：未取
+- 曾用名：VIPA Controls America
+- **这意味着什么：**
+  - **PLC 分销商卖自有 logo 工业交换机** = 柜内配套品，量随 PLC 项目 → **贴标 small（OEM 30%）**：STI-054GP / STI-144GP / STI-288DGGPM（导轨、宽温、PROFINET 环境常见需求 = 管理型 + 快速环网）
+  - 收件人 Thomas Kosse（President & CEO；info@vipausa.com 点名）；18 次群发无回复 → 换主题「DIN-rail managed PoE for PLC panels」；发信窗口 Wed 08–10 ET；一页纸
+- 备注：贴标 small；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,14 +137,18 @@ updated: 2026-10-27
 - **【用户表】工业 FS 自己的 logo**
   > 工业FS 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Thomas Kosse（President & CEO（VIPA ControlsAmerica；研究档无 KP）= 收件人（第 100 批 官方登记核实 2026-10-28）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 美国 |
-| 其他 | 官网 vipausa.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | VIPA ControlsAmerica（GA 实体名 / SoS 号未取；德国 VIPA GmbH / YASKAWA 旗下北美销售服务公司） |
+| 成立 | 1998（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 980 Birmingham Rd. Ste 721, Alpharetta, GA 30004（非威斯康星） |
+| 人数 | 8 人 |
+| 其他 | 官网 vipausa.com，语言 en，快照状态 ok；角色判定来源：用户表；第 100 批：PLC / HMI 北美销售公司 → 工业导轨交换机配套（STI-054GP / STI-144GP / STI-0240GE）贴标 small；一页纸（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：PLC / I/O / HMI / 现场总线连接器分销（VIPA）
 - **触达通道（公开）**：role: 自动化产品分销商（美国，VIPA/Yaskawa 线）；region: 美国；contact: info@vipausa.com、ventas@vipausa.com
@@ -238,7 +257,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@vipausa.com / ventas@vipausa.com | 用户表原值 | Clients/ 表 |
+| Thomas Kosse | President & CEO（VIPA ControlsAmerica；研究档无 KP）= 收件人（第 100 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -331,12 +350,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

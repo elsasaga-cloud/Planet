@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 100 批（PL · 1 次检索：OWG / CEIDG（Leoptics Maja Matyjewicz；NIP 7251850432；REGON 364507458；AKTYWNY；VAT czynny；自 2018-10-07；ul. Rewolucji 1905 r. 18/63, 90-207 Łódź）—— 同名命中但站点 Impressum 未取；Warszawa 的 TELEOPTICS Sp. z o.o.（KRS 0000165777，Fujikura 熔接机）为他户，不采；站点事实沿用研究档（leoptics.pl 「przełączniki sieciowe」品类、SPEED-CWDM 资料），2026-10-28 查；https://www.owg.pl/ceidg/leoptics_maja_matyjewicz_9,74,725185,7251850432）：**
+
+- 法定名 / 登记号：Leoptics（leoptics.pl；Łódź）— 光模块 / CWDM / 网络交换机波兰网店（WordPress；SPEED-CWDM 系列资料 2017）；**CEIDG 命中「Leoptics Maja Matyjewicz」（Łódź，NIP 7251850432，2018 起）但与站点经营者的对应未另核 → 部分坐实** · 部分坐实（CEIDG NIP 7251850432 · REGON 364507458；经营者对应待核） · 状态 **Active（CEIDG 在册；站点快照 ok）** · 成立 2018-10-07（CEIDG） · Jednoosobowa działalność gospodarcza（个体，推定）
+- 行业码 / 经营范围：光模块 / CWDM / DAC、网络交换机等光通信配件网店
+- 注册地址：ul. Rewolucji 1905 r. 18/63, 90-207 Łódź（CEIDG）
+- 规模档：微型（个体）
+- 账目：—；—
+- 高管：Maja Matyjewicz — 业主（CEIDG；对应待核）；研究档无 KP
+- 控制人 / 股东：Maja Matyjewicz（推定）
+- **这意味着什么：**
+  - **光模块网店（Saga 不做光模块）** → 只能切 10G 上联交换机 → **分销 20%，微型，一页纸**：STC-110XGE（$65）+ STC-228GP；表内「German brand link」未见证据 → 不采
+  - 收件人：站点联系邮箱（研究档）；表内 1 次跟进无回复 → 第二次触达换主题；发信窗口 Thu 12–14 CET；下轮补项：站点 Regulamin 法人名
+- 备注：分销 20%；微型；一页纸；部分坐实（经营者待核）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,8 +140,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 leoptics.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Leoptics（leoptics.pl；CEIDG 同名命中「Leoptics Maja Matyjewicz」Łódź NIP 7251850432 / REGON 364507458，经营者对应待核 → 部分坐实；Warszawa TELEOPTICS Sp. z o.o. 为他户） |
+| 成立 | 2018-10-07（CEIDG）（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Rewolucji 1905 r. 18/63, 90-207 Łódź（CEIDG） |
+| 其他 | 官网 leoptics.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案；第 100 批：光模块 / CWDM 网店（Saga 不做光模块）→ 只切 10G 上联 STC-110XGE + STC-228GP → 分销 20%，微型，一页纸；表内「German brand link」无证据不采（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤测试设备 / 光学仪器（自有型号 LEO-）；工业交换机（少量）
 - **触达通道（公开）**：role: 光纤测试设备供应商（波兰，工业 FS 为副线）；region: 波兰；contact: biuro@leoptics.pl

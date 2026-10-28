@@ -77,6 +77,23 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 100 批（PL · 1 次检索：rejestr.io（NETINET SPÓŁKA Z O.O.；KRS 0000096977；NIP 1181481416；Prezes Zarządu Marek Rafał Niewczas 自 2002-03-07；Członek Zarządu Agnieszka Maria Niewczas 自 2007-04-11；资本 50 tys. zł）+ krs-pobierz（REGON 016121659；ul. Arkuszowa 18, 01-934 Warszawa；登记 2002-03-07；最近变更 2026-07-16；主营电脑 / 外设 / 软件批发）+ bizraport（股东 Agnieszka Niewczas 65% 自 2017-01-20；Marek Niewczas 10%；prokurent Kamil Niewczas / Kazimierz Sojka；wspólnik Stefan Radzimiński）+ aleo（Marek Niewczas 54 岁）+ 官网 O firmie（「polskim dystrybutorem produktów IT działającym od ponad 30 lat」；IC Intracom Polska 项目结束后转为独立 Netinet，仍经波兰 IT 分销龙头承接 Intellinet / Manhattan 合同；全程包办测试 / 上市 / 营销 / 分销 / 保修），2026-10-28 查；https://rejestr.io/krs/96977/netinet）：**
+
+- 法定名 / 登记号：NETINET Sp. z o.o.（netinet.pl；Warszawa）— 1999 年起（KRS 2002）的波兰 IT 分销商，Intellinet / Manhattan 品牌波兰运营方（前 IC Intracom Polska）；Prezes Marek Niewczas（= 研究档 KP「着重跟」）；资本 50,000 zł · KRS 0000096977 · NIP 1181481416 · REGON 016121659 · 状态 **Aktywna（KRS 变更 2026-07-16）** · 成立 2002-03-07（经营自 1999） · Spółka z o.o.（资本 50,000 zł；Niewczas 家族控股）
+- 行业码 / 经营范围：PKD 46.51.Z — 电脑 / 外设 / 软件批发（Intellinet 网络 / Manhattan 配件品牌的波兰运营：测试、上市、营销、分销、保修）
+- 注册地址：ul. Arkuszowa 18, 01-934 Warszawa
+- 规模档：小型（人数未取；品牌运营型分销）
+- 账目：—；—
+- 高管：Marek Rafał Niewczas — Prezes Zarządu（自 2002；= 研究档 KP 本人）
+- 高管：Agnieszka Maria Niewczas — Członek Zarządu / 股东 65%
+- 高管：Kamil Niewczas / Kazimierz Sojka — prokurent
+- 控制人 / 股东：Agnieszka Niewczas 65% / Marek Niewczas 10%
+- 曾用名：（前身 IC Intracom Polska 项目）
+- **这意味着什么：**
+  - **品牌运营型分销（替品牌方做全套上市 / 保修）+ 老板本人收件** → 既可 **分销 20%**（Intellinet 之外补 Marvell 网管 PoE 线），也可谈 **自有标 OEM 30%**（Netinet 标 STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W）；B BIG，**加厚**，升 A 候选（回信即 A）
+  - 表内「着重跟」1 次跟进无回复 → 第二次触达换主题「a managed PoE line beside Intellinet — your label or ours」；发信窗口 Thu 12–14 CET
+- 备注：分销 20% / 自有标 OEM 30%；KP = Prezes 本人；B BIG；加厚；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,15 +137,17 @@ updated: 2026-10-28
 - **【用户表】都是 Intellinet；着重跟**
   > SFP MC PoE FS 都是intellinet这个牌子的；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marek Niewczas（）marek.niewczas@netinet.pl 〔用户表〕
+- **KP**：Marek Niewczas（Prezes Zarządu（自 2002-03-07；KRS 0000096977；股东 10%，配偶 Agnieszka Niewczas 65%）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28））marek.niewczas@netinet.pl 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 波兰 |
-| 其他 | 官网 netinet.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | NETINET Sp. z o.o.（KRS 0000096977；NIP 1181481416；REGON 016121659；资本 50,000 zł；前 IC Intracom Polska 项目） |
+| 成立 | 2002-03-07（经营自 1999）（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | ul. Arkuszowa 18, 01-934 Warszawa |
+| 其他 | 官网 netinet.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案；第 100 批：Intellinet / Manhattan 品牌波兰运营型分销（测试 / 上市 / 营销 / 保修全包）+ 老板本人收件 → 分销 20% 或 Netinet 自有标 OEM 30%（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W）；B BIG；加厚；升 A 候选（回信即 A）（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / 网络方案分销（波兰）
 - **触达通道（公开）**：role: IT 分销商（波兰，Intellinet 代理，用户着重）；region: 波兰；contact: info@netinet.pl、marek.niewczas@netinet.pl
@@ -224,7 +243,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marek Niewczas | — | marek.niewczas@netinet.pl | 调研核实（公开页） | 用户表 |
+| Marek Niewczas | Prezes Zarządu（自 2002-03-07；KRS 0000096977；股东 10%，配偶 Agnieszka Niewczas 65%）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28） | marek.niewczas@netinet.pl | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

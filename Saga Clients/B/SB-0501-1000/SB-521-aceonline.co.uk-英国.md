@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,6 +86,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 100 批（GB · 1 次检索：官网（ACE Distributors Ltd；「Aerials & Cable Equipment Ltd have been supplying the UK Aerial & Satellite industries with quality components since 1983」；Surveillance / Audio / Cables / CCTV / Installation Equipment；trade pricing login）+ LinkedIn（Aerials & Cable Equipment Ltd；Cheltenham；11–50 人；1983；01242 511511；sales@aceonline.co.uk；CCTV / Solar PV / HDMI / AV 分部；自有车队全国配送）+ X（Unifi / Sky / Sonos / Fibre）+ oxfordaerials.co.uk（「Shaun Guard is the owner and original installer of Oxford Aerials … Wallingford」；Oxford Aerials Ltd, Wyndham House, Lester Way, Wallingford OX10 9TD）；**Companies House 号未取**（1 次检索；同名 ACE LTD 06137240 / ACE TV & AERIAL INSTALLATIONS LTD 08500547 不采），2026-10-28 查；https://www.linkedin.com/company/aerials-&-cable-equipment-ltd）：**
+
+- 法定名 / 登记号：Aerials & Cable Equipment Ltd（商号 ACE Distributors；aceonline.co.uk；Cheltenham）— 1983 年起天线 / 卫星 / CCTV / 光纤 / UniFi / 音响全国分销商（11–50 人；自有车队）；**研究档 KP Shaun Guard 实为客户 Oxford Aerials Ltd（Wallingford 安装商）业主 → 误归属** · 部分坐实（法人名 Aerials & Cable Equipment Ltd；公司号未取） · 状态 **Active（站点 + LinkedIn 在线）** · 成立 1983 · Private limited company（私有）
+- 行业码 / 经营范围：天线 / 卫星 / IRS 分配、CCTV、光纤、UniFi 网络、HDMI 分配、音响、专用线缆 —— 面向安装商的全国 B2B 分销
+- 注册地址：Cheltenham, Gloucestershire（门牌未取）
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：无登记董事信息（公司号未取）
+- 高管：Shaun Guard — Oxford Aerials Ltd 业主（研究档 KP shaun@oxfordaerials.co.uk）= **误归属，非 ACE 人员**
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **两户混在一行**：域名 = ACE（全国安装商分销，卖 UniFi / CCTV → PoE 交换机正对口）→ **分销 20%**，收件人 sales@aceonline.co.uk（点名 purchasing / CCTV & networking buyer）；Shaun Guard = Oxford Aerials（微型安装商）→ 另线 **集成商 25% 一页纸**（shaun@ 可直发）
+  - 下轮补项：Companies House 关键词「Aerials & Cable Equipment」取公司号 + 董事；表内 1 次跟进（发给 Shaun）无回复 → ACE 一线为首信；发信窗口 Thu 12–14 GMT
+- 备注：分销 20%（ACE）+ 集成商 25%（Oxford Aerials 另线）；KP 误归属已标；公司号下轮补。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,17 +137,19 @@ updated: 2026-10-27
 - **【用户表】商业 PoE 也有 tplink 的；可以尝试多跟进一下**
   > 兴趣：商业PoE 也有tplink的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Shaun Guard（）shaun@oxfordaerials.co.uk 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Shaun Guard（Owner / original installer, **Oxford Aerials Ltd（Wallingford 安装商）= ACE 的客户，非 ACE 人员 → 误归属**；另线集成商 25% 可直发（第 100 批 官方登记核实 2026-10-28））shaun@oxfordaerials.co.uk 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（ACE 采购）（Aerials & Cable Equipment Ltd 采购 / CCTV & networking buyer（公司号与董事未取 → 下轮补）= 本户主收件人（第 100 批 官方登记核实 2026-10-28））sales@aceonline.co.uk 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ACE Distributors Ltd（待核） |
-| 成立 | 约 1990 |
-| 总部/地址 | Oxford, UK |
-| 其他 | 关联 Oxford Aerials |
+| 法定名称 | Aerials & Cable Equipment Ltd（商号 ACE Distributors；Cheltenham；Companies House 号未取 → 部分坐实；研究档「Oxford, UK / 约 1990」有误） |
+| 成立 | 1983（第 100 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Cheltenham, Gloucestershire（01242 511511） |
+| 人数 | 11–50 人 |
+| 其他 | 关联 Oxford Aerials；第 100 批：天线 / 卫星 / CCTV / UniFi 全国安装商分销 → 分销 20%（sales@ 首信一页纸：STC-028GP / STC-228GP / STC-2224GP）；Shaun Guard = Oxford Aerials 另线（第 100 批 官方登记核实 2026-10-28） |
 
 - **业务线**：天线 / 卫星 / CCTV 配件分销
 - **触达通道（公开）**：role: 行业分销商；region: 英国
@@ -229,7 +246,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Shaun Guard | — | shaun@oxfordaerials.co.uk | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Shaun Guard | Owner / original installer, **Oxford Aerials Ltd（Wallingford 安装商）= ACE 的客户，非 ACE 人员 → 误归属**；另线集成商 25% 可直发（第 100 批 官方登记核实 2026-10-28） | shaun@oxfordaerials.co.uk | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -322,12 +339,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
