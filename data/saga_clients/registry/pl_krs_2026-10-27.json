@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 50
+  "count": 51
  },
  "rows": {
   "SA-023": {
@@ -1668,6 +1668,38 @@
    ],
    "notes": "分销 20% small；一页纸。",
    "code": "SB-674"
+  },
+  "SB-172": {
+   "batch": 102,
+   "name": "CONSTEEL Electronics Sp. z o.o. Sp. k.（consteel-electronics.com；Sopot）— 2017-08-22 登记的工业自动化 / 工业电子分销商（面向 CCTV / BMS / 汽车 / 智能电网 / 轨道 / 数字标牌集成商与安装商；**3onedata 工业交换机 PoE+ / EN 50155 / IEC 61850、ADFweb 协议转换、Caimore 无线**）；KRS 0000691687，NIP 5862321609，REGON 368059985；营收 7.9 mln zł（bizraport）、8 人（2022）；普通合伙人 CONSTEEL ELECTRONICS Sp. z o.o.（KRS 0000681591）**Prezes Zarządu Bartosz Marciszewski = 研究档 KP sklep@ 本人**",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：官网 Regulamin / Dział sprzedaży（CONSTEEL Electronics sp. z o.o. sp. k.；ul. Rzemieślnicza 17/19, 81-855 Sopot；NIP 5862321609；REGON 368059985；KRS 0000691687）+ krs-pobierz（Spółka komandytowa；登记 2017-08-22；Sąd Rejonowy Gdańsk-Północ VIII Wydział KRS）+ bizraport（KRS 0000691687；资产 3.1 mln、营收 7.9 mln、利润 849 tys. zł）+ EMIS（2017-08-22；8 人 2022；2024 营收 -21.98%）+ rejestr.io（普通合伙人 CONSTEEL ELECTRONICS Sp. z o.o.；KRS 0000681591；NIP 5862319104；资本 50 tys. zł；Prezes Zarządu Bartosz Marciszewski（2020-02-20 起；500 udziałów）；Marta Ewa Borkowska（2023-01-05 起；500 udziałów））+ 官网 O firmie（3onedata：switche przemysłowe PoE+, EN50155, IEC61850, media konwertery, serwery portów；ADFweb；Caimore）+ automatyka.pl（客户群：集成商 / 分销商 / 制造商 / 安装商）+ LinkedIn（2017；11–50；Gdynia）",
+   "url": "https://krs-pobierz.pl/consteel-electronics-spolka-z-ograniczona-odpowiedzialnoscia-spolka-komandytowa-i6711118",
+   "number": "KRS 0000691687 · NIP 5862321609 · REGON 368059985（普通合伙人 KRS 0000681591）",
+   "status": "Aktywna（KRS 档案 2026-05 确认）",
+   "incorporated": "2017-08-22",
+   "company_type": "Spółka komandytowa（普通合伙人 CONSTEEL ELECTRONICS Sp. z o.o.，资本 50,000 zł）",
+   "sic": [
+    "PKD 46.90.Z — 非专业批发（实为工业自动化 / 工业通信 / 工业电子分销：3onedata 工业交换机、ADFweb 转换器、Caimore 路由、工业 PC、显示器）"
+   ],
+   "address": "ul. Rzemieślnicza 17-19, 81-855 Sopot",
+   "accounts": "营收 7.9 mln zł、利润 849 tys. zł（bizraport；2024 营收 -22%）",
+   "accounts_due": "—",
+   "size_band": "小型（8–11 人）",
+   "officers": [
+    "Bartosz Marciszewski — Prezes Zarządu（普通合伙人）/ 股东 50% = **研究档 KP sklep@ 本人**",
+    "Marta Ewa Borkowska — 股东 50%（2023 起）"
+   ],
+   "psc": "Marciszewski / Borkowska",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**3onedata 波兰分销（表内「质量一般」）+ 老板本人收件 → Saga STI 作其第二工业线 → 分销 20%**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE（对标 3onedata IES 系列价；-40~75 °C；3 年保修）；**轨道 EN 50155 / IEC 61850 不谈（守界）**；B BIG，**加厚**（对标价表）",
+    "表内「3onedata 的工业 FS 比较多；串口 / 工业 FS / MC」→ 第二次触达换主题「a second industrial Ethernet line beside your current Chinese brand — managed L2+, 3-year warranty, MOQ 1」（不点名 3onedata）；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）"
+   ],
+   "notes": "分销 20%；KP = Prezes 本人；B BIG；加厚；升 A 候选；轨道守界。",
+   "code": "SB-172"
   }
  }
 }

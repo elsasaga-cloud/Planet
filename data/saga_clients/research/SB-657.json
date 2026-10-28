@@ -34,7 +34,8 @@
    "title": "（表内联系人）",
    "email": "gokhan@egesanteknoloji.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核；疑业主 / 采购）= 收件人（第 102 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -45,8 +46,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 egesanteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Akçaalan Mah. Cumhuriyet Blv. No 120/1 A Blok, 48400 Bodrum / Muğla（**地域更正：Bodrum，非 İzmir**）",
+  "other": "官网 egesanteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 102 批：多品牌安防批发 + 自有品牌 Coremax 进口商 → **分销 20% + Coremax 贴标 OEM 30% 目标**（STC-028GP / STC-228GP / STC-2216GP / STC-2224GP 对标 Ruijie Reyee RG-ES 价）；加厚一次；升 A 次候选（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "EGESAN TEKNOLOJİ PAZARLAMA İTH. İHR. VE TİC. LTD. ŞTİ.（Vergi No 3250872231 Bodrum；MERSİS 未取；HiLook 土耳其官方分销；自有品牌 Coremax 商标持有人）",
+  "founded": "2005（自述）（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "小型（人数未取）"
  },
  "business_lines": [
   "安防 / 火灾探测 / 报警 / 摄像机批发"

@@ -36,11 +36,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "CCTVSpot（待核）",
-  "founded": "",
-  "hq": "UK",
+  "legal_name": "MB Vision Ltd.（保加利亚 Plovdiv；BG VAT / ЕИК 202150972；UK VAT GB411290538；cctvspot.co.uk 为英国销售前台）",
+  "founded": "2012（自述）（第 102 批 官方登记核实 2026-10-28）",
+  "hq": "ul. Sredets 20, 4003 Plovdiv, Bulgaria（**国别更正：保加利亚**）",
   "size": "小型安防电商",
-  "other": "无公开邮箱"
+  "other": "无公开邮箱；第 102 批：保加利亚在线 CCTV 进口零售商（Hikvision / Dahua 授权；表内用 UTEPO PoE）→ **分销 20% small**（STC-028GP / STC-228GP / STC-2216GP）；一页纸；联系 = 站点公示 Gmail cctv.mbvision@（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "微型（人数未取）"
  },
  "business_lines": [
   "CCTV 电商"
@@ -107,5 +108,6 @@
    "body": "Hello,\n\nWe supply neutral-brand PoE switches to CCTV e-shops. Next to the UTEPO commercial PoE units you list: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, UKCA/CE/RoHS - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity).\n\nOne question: which PoE port count do your installer customers buy most - 4, 8 or 16? If useful, I will send the datasheet to the address you prefer.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "保加利亚"
 }

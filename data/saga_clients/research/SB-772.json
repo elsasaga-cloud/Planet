@@ -29,14 +29,21 @@
    "title": "Engineering Manager",
    "email": "john.heath@mencom.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Engineering Manager（选型人）= 收件人（第 102 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "John J. Bisson",
    "title": "（职务待核）",
    "email": "john@mencom.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Sales（growjo；Kompass 误列 Owner）= 抄送（第 102 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Bruce E. Mistarz",
+   "role": "President / CEO / 创办人（1987；GA Domestic Profit Corporation 注册代理）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）",
+   "email": ""
   }
  ],
  "grade_override": null,
@@ -47,8 +54,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 mencom.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "5750 McEver Rd, Suite A, Oakwood, GA 30566（15 万平方英尺工厂）",
+  "other": "官网 mencom.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 102 批：美国工业连接器制造商，自有标工业交换机「标价高」且外采 → **贴标 OEM 30% 目标**（Mencom 标 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "Mencom Corporation（Georgia Domestic Profit Corporation；SoS 控制号未取；Secretary Barbara Mistarz）",
+  "founded": "1987（伊利诺伊起家，1990 年代迁乔治亚）（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "39–200 人；$26.2M（第三方）"
  },
  "business_lines": [
   "工业连接器 / 线缆组件（自有品牌 Mencom）",

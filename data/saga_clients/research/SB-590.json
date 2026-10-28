@@ -23,7 +23,13 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Miguel Asín Barcos",
+   "role": "Director / PSC / Sales Director（2011 起；Madrid；Companies House 07260202）= 收件点名；创始董事 Bruce Iain Sutherland（2010）（第 102 批 官方登记核实 2026-10-28）",
+   "email": ""
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -32,8 +38,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 carritech.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "London（注册）+ Madrid（运营）",
+  "other": "官网 carritech.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 102 批：运营商旧设备备件 / 翻新 / WEEE 回收商（同行·翻新类）+ 表内 2 次跟进无回复 → **一页纸一次后不动**（仅 STI-144GP / STC-228GP 配其光模块业务）（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "CARRITECH LTD（Companies House 07260202；SIC 61900；股本 £200；注册地 124 City Road EC1V 2NX 为虚拟办公地址）",
+  "founded": "2010-05-20（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "11 人（2025 账）；营收约 $1.45M（第三方）"
  },
  "business_lines": [
   "电信设备 / 光模块供应（英国）"

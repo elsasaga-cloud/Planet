@@ -36,14 +36,21 @@
    "title": "Technical Operations Officer",
    "email": "rodaniel@nellyssecurity.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Technical Operations Officer（2010 起；选型人）= 收件人（第 102 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Cole Cattaneo",
    "title": "Sales Representative",
    "email": "customerservice@nellyssecurity.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Sales（官网团队页）= 抄送（第 102 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Sean Nelson",
+   "role": "创始人（2008；另营自有 PoE 交换机品牌 IPCamPower）= 贴标线点名对象（第 102 批 官方登记核实 2026-10-28）",
+   "email": ""
   }
  ],
  "grade_override": null,
@@ -54,11 +61,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Nelly's Security（待核）",
-  "founded": "",
-  "hq": "USA（俄克拉荷马，待核）",
+  "legal_name": "Nelly’s Security LLC（Broken Arrow OK；BBB 列为 Rackmount Solutions 一部门，CEO / Owner Jeff Morton；PitchBook 列 Acquired / Merged — 待核）",
+  "founded": "2008-01-01（第 102 批 官方登记核实 2026-10-28）",
+  "hq": "501 N Aspen Ave, Broken Arrow, OK 74012",
   "size": "中型安防电商",
-  "other": "自有标 PoE 疑由 ONV 代工"
+  "other": "自有标 PoE 疑由 ONV 代工；第 102 批：安防分销电商 + 创始人自有 PoE 交换机品牌 IPCamPower → **分销 20%（STC-028GP / STC-228GP / STC-2216GP / STC-2224GP）+ IPCamPower 贴标 OEM 30%**；加厚一次；股权变更后先探采购人（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "15–25 人；$3.5M（第三方）"
  },
  "business_lines": [
   "安防电商"

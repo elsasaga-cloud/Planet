@@ -29,7 +29,8 @@
    "title": "（职务待核）",
    "email": "akgun@fonet.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核）= 收件人（第 102 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -40,8 +41,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 fonet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "İstanbul（门牌未取）",
+  "other": "官网 fonet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 102 批：30 年结构化布线 / 交钥匙数据中心集成商 → **集成商 25%**（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W + STC-448XGGPM / STH-2C24XF-HSI）；一页纸 + DC 规格（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "Fonet Fiber Optik Bilgisayar Hizmetleri Ticaret Limited Şirketi（Vergi No 3880095179；MERSİS 未取；**与上市公司 FONET Bilgi Teknolojileri A.Ş.（Ankara 医疗信息化）无关**）",
+  "founded": "1995（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "小型（人数未取）"
  },
  "business_lines": [
   "IT / 电信基础设施集成（土耳其）"

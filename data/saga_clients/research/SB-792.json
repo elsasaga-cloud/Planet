@@ -43,7 +43,13 @@
    "title": "（表内邮箱，职务待核）",
    "email": "robwinston@winstonele.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Winston 家族成员（robwinston@ 列于 CAGE 3AZP6 官方邮箱；职务未核）= 收件人（第 102 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Francis Winston",
+   "role": "President（Wikipedia；创办人 James Pratt Winston = CEO）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）",
+   "email": ""
   }
  ],
  "grade_override": null,
@@ -54,8 +60,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 weltronproducts.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Oxford, North Carolina（**州别更正：NC 非 FL**；门牌未取）",
+  "other": "官网 weltronproducts.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 102 批：自有品牌 Weltron 已含 PoE 交换机 + 家族企业直收 → **贴标 OEM 30% 目标**（Weltron 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-144GP）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "Winston International, Ltd.（Weltron® 品牌独家制造商；北卡公司；CAGE 3AZP6；DUNS 056291859；SoS 号未取；Sunbiz 的 Winston Electronics, Inc. 440526 为已解散同名他户）",
+  "founded": "1980（Winston International）；Weltron 品牌 1968（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人；<$5M（第三方）"
  },
  "business_lines": [
   "网络基础设施（线缆 / 光纤 / MC / PoE 交换机，自有品牌 Weltron）"

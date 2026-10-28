@@ -32,7 +32,8 @@
    "title": "（职务待核）",
    "email": "mahmut.bektas@mnsbilisim.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Founder / 业主（MNS Bilişim Hizmetleri San. ve Tic. Ltd. Şti.，2005 起）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -43,8 +44,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 mnsbilisim.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Mecidiyeköy Mah. Cemal Sahir Sk. Polat Mecidiyeköy İş Merkezi No 29, K:4 D:43, Şişli / İstanbul",
+  "other": "官网 mnsbilisim.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 102 批：Ruijie / UniFi 增值经销 + 老板本人收件 + 已卖 10G/25G → **集成商 25% + 分销 20%**（STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + STH-2C24XF-HSI + STC-110XGE 对标 Ruijie 6120）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "MNS Bilişim Hizmetleri San. ve Tic. Ltd. Şti.（Vergi No 6220446809 Zincirlikuyu；MERSİS 未取；电商 mnspazar.com；Ruijie / Ubiquiti 土耳其授权销售）",
+  "founded": "2005-07-07（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "企业网络集成 / IT 服务"

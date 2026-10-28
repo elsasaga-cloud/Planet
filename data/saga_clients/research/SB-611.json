@@ -46,14 +46,21 @@
    "title": "（表内联系人）",
    "email": "tpasslack@avanis.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Geschäftsführer / Gesellschafter（Avanis GmbH，HRB 37834 Bielefeld；2003 起）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Valentin Kaiser",
    "title": "Application Developer",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核）（第 102 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Paul Peter Kaiser",
+   "role": "Geschäftsführer / Gesellschafter（2003 起；pkaiser@avanis.de 官网团队页）= 抄送（第 102 批 官方登记核实 2026-10-28）",
+   "email": "pkaiser@avanis.de"
   }
  ],
  "grade_override": null,
@@ -64,8 +71,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 avanis.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Meisenstraße 79a, 33607 Bielefeld（Technologiepark）",
+  "other": "官网 avanis.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案；第 102 批：有源网络设备经销 + WLAN 规划（已用 Edgecore）+ 老板本人收件 → **分销 20% / 集成商 25% 两可**（STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM + STC-110XGE 对标 Edgecore ECS-4650）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "Avanis GmbH（Amtsgericht Bielefeld HRB 37834；资本 €70,000；LEI 529900I6QC9S0TFPUY37；USt-ID DE813687094）",
+  "founded": "2003-04-22（登记 2003-05-15）（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "8–19 人"
  },
  "business_lines": [
   "网络 / WLAN / RTLS 系统集成"

@@ -40,7 +40,13 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Robert Wachendorff",
+   "role": "Geschäftsführer & Inhaber（Dipl.-Wirtsch.-Ing.；Wachendorff Prozesstechnik GmbH & Co. KG，HRA 7403 Wiesbaden）= 拍板人（wp@ / vertrieb@ 点名）（第 102 批 官方登记核实 2026-10-28）",
+   "email": ""
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -49,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 wachendorff-prozesstechnik.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Industriestraße 7, 65366 Geisenheim",
+  "other": "官网 wachendorff-prozesstechnik.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 102 批：老牌工业电子进口分销（有进口经验者）+ 表内「可以着重跟一下」→ **分销 20%，可谈 Wachendorff 标 OEM 30%**（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE）；B BIG；加厚；升 A 候选；研究档 kontakt@segno.de 为关联域，收件改官方 wp@ / vertrieb@（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "Wachendorff Prozesstechnik GmbH & Co. KG（Amtsgericht Wiesbaden HRA 7403；Komplementär Wachendorff GmbH HRB 20054；USt-ID DE113657232）",
+  "founded": "1978-11-17（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "集团 >110 人；>€25M（2022）"
  },
  "business_lines": [
   "工业自动化组件（面板 PC / 远程维护 / 协议转换）"

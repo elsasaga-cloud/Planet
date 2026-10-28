@@ -55,14 +55,14 @@
  "kp": [
   {
    "name": "Mr. Ari",
-   "role": "采购（表内）",
+   "role": "采购（表内；WhatsApp +971 已加 → 海湾一线）= 收件人（第 102 批 官方登记核实 2026-10-28）",
    "email": "procurement@4demand.co.uk",
    "phone": "+971 55 964 5463（WA 已加）",
    "source": "用户 Clients 表"
   },
   {
    "name": "Mohsen Tavakoli Zaniani",
-   "role": "Director / PSC",
+   "role": "Director / PSC 75–100%（*1992-02；British；Companies House 14564199，2022-12-30 起）= 拍板人（抄送 / 点名）（第 102 批 官方登记核实 2026-10-28）",
    "email": "",
    "phone": "",
    "source": "Companies House（经 Endole）"
@@ -77,11 +77,12 @@
   "level": "B 级加厚 v1（Companies House + 官网核对）"
  },
  "company_facts": {
-  "legal_name": "4DEMAND LTD（Company No. 14564199）",
-  "founded": "2022-12-30",
-  "hq": "227 Nether Street, London N3 1NT（另见 Flat 62 North End Road, London W14 9EP）；020 3576 1986",
+  "legal_name": "4DEMAND LTD（Companies House 14564199；股本 £1；SIC 46900 / 62012 / 62020 / 62090；UK Skilled Worker 担保资质）",
+  "founded": "2022-12-30（第 102 批 官方登记核实 2026-10-28）",
+  "hq": "227 Nether Street, London N3 1NT（2024-10-23 起；前址 80 Golders Green Road NW11 8LN）",
   "size": "Micro：<10 人，营业额 <£1M（Endole，2024 年报）",
-  "other": "SIC 46900 非专业批发 / 62012 / 62020 / 62090；董事 Mohsen Tavakoli Zaniani（1992 年生）；Tradeford 简介称源自波斯湾地区企业合并；持技术工签担保资质"
+  "other": "SIC 46900 非专业批发 / 62012 / 62020 / 62090；董事 Mohsen Tavakoli Zaniani（1992 年生）；Tradeford 简介称源自波斯湾地区企业合并；持技术工签担保资质；第 102 批：£1 资本微型贸易 / 转口公司（面向海湾）→ **采购型 small：一页纸 + 100% 预付、不赊、不备货**（STC-028GP / STC-228GP / STC-2224GP 按单）；目的地 / 最终用户按出口合规核对（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "微型（<10 人；营业额 <£1M）"
  },
  "business_lines": [
   "IT 支持与设备供应/维护",

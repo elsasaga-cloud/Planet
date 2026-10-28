@@ -36,21 +36,29 @@
    "title": "Director, Data Center & Broadband Sales",
    "email": "（用户表把 dustin@ 记在他名下——同址属 Dustin Hall，Randy 本人地址待核）",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director, Data Center & Broadband Sales（2023 起；Lenoir NC；randy.harris@dmsimfg.com）= 产品线决策人 / 收件人（第 102 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Dustin Hall",
    "title": "（职务待核）",
    "email": "dustin@dmsimfg.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核）= 抄送（第 102 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Iylin Flock",
    "title": "General Manager",
    "email": "evan@dmsimfg.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档写 General Manager（姓名 / 邮箱对应待核）（第 102 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Jeneth D’Alonzo",
+   "role": "President & CEO（Tampa Bay Business Journal 2025-05）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）",
+   "email": ""
   }
  ],
  "grade_override": null,
@@ -61,8 +69,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 dmsimfg.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "105 Triple Diamond Blvd, Unit 101, North Venice, FL 34275",
+  "other": "官网 dmsimfg.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 102 批：光纤连接合同制造商（为全球品牌 OEM / 自有标代工）+ 自有标 MC 周边 → **贴标 OEM 30% 目标**（DMSI 标 STC-228GP / STI-144GP / STC-110XGE）+ DC 线 STH-2C24XF-HSI / STH-32C-HSI；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "Diversified Material Specialists, Inc.（DMSI / DMSI International；佛州公司；BBB 1996-07-05 注册；Sunbiz 文件号未取）",
+  "founded": "1996-07-05（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "51–200 人（63）；$18.5M（第三方）"
  },
  "business_lines": [
   "网络配件 / MC（自有品牌 DMSI）"

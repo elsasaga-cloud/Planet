@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 53
+  "count": 57
  },
  "rows": {
   "SA-008": {
@@ -1828,6 +1828,135 @@
    ],
    "notes": "分销 20% / 可谈贴标；KP = GF 本人；B BIG；加厚；升 A 候选。",
    "code": "SB-617"
+  },
+  "SB-791": {
+   "batch": 102,
+   "name": "Wachendorff Prozesstechnik GmbH & Co. KG（wachendorff-prozesstechnik.de；Geisenheim / Rheingau）— 1978-11-17 由 Rolf Wachendorff 创办的工业电子进口 / 分销商（面板 PC、远程维护、数据记录、协议转换、工业网络组件；「Alles aus einer Hand」、原机测试）；Amtsgericht Wiesbaden HRA 7403（普通合伙人 Wachendorff GmbH HRB 20054）；GF 兼所有人 Dipl.-Wirtsch.-Ing. Robert Wachendorff；集团 >110 人、>€25M（2022）；研究档联系 kontakt@segno.de（关联域）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（Wachendorff Prozesstechnik GmbH & Co. KG；Industriestraße 7, 65366 Geisenheim；+49 6722 996520；Amtsgericht Wiesbaden HRA 7403；USt-ID DE113657232；Komplementär Wachendorff GmbH, Amtsgericht Wiesbaden HRB 20054；Geschäftsführer Robert Wachendorff；WEEE DE 79288157）+ wer-zu-wem（Robert Wachendorff — Geschäftsführer & Inhaber）+ Wachendorff Group 历史（1978-11-17 Rolf Wachendorff 创办，进口工业电子；1985 两子 Dr. Peter 与 Robert 加入）+ 集团简介 PDF 2021（>110 人；2022 营收 >€25M；家族经营）+ industrial-production（160 人；€28M；GF Robert / Dr. Peter Wachendorff）+ LinkedIn（1978；51–200；Geisenheim）+ 关联 Wachendorff Automation GmbH & Co. KG（HRA 8377，编码器）",
+   "url": "https://www.wachendorff.com/legal-notice/",
+   "number": "HRA 7403（Amtsgericht Wiesbaden）· Komplementär Wachendorff GmbH HRB 20054 · USt-ID DE113657232",
+   "status": "Aktiv",
+   "incorporated": "1978-11-17",
+   "company_type": "GmbH & Co. KG（家族企业；GF / Inhaber Robert Wachendorff）",
+   "sic": [
+    "工业电子进口与分销（面板 PC、HMI、远程维护、数据记录、协议 / 信号转换器、工业网络组件；原机测试、一站式）",
+    "集团：Wachendorff Automation（编码器制造）"
+   ],
+   "address": "Industriestraße 7, 65366 Geisenheim",
+   "accounts": "集团 >€25M（2022，自报）",
+   "accounts_due": "—",
+   "size_band": "中型（集团 >110 人）",
+   "officers": [
+    "Robert Wachendorff — Geschäftsführer & Inhaber（Dipl.-Wirtsch.-Ing.）= 拍板人",
+    "Dr. Peter Wachendorff — 集团管理层",
+    "kontakt@segno.de — 研究档联系（关联域；无具名 KP）"
+   ],
+   "psc": "Wachendorff 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老牌工业电子进口分销（目标客户序列「有进口经验者」）+ 表内「电口」「可以着重跟一下」→ 分销 20%，可谈 Wachendorff 标 OEM 30%**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM / STI-0240GE（导轨宽温，配其面板 PC / 网关线）；B BIG，**加厚**（工业线对标价表 + 原机测试样机付费）",
+    "收件人改官方 wp@ / vertrieb@ 点名 Herrn Robert Wachendorff + Produktmanagement Industrielle Kommunikation；群发 8 次已打开 → 第二次触达换主题「DIN-rail managed switches for your industrial portfolio — tested samples, 3-year warranty」；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）"
+   ],
+   "notes": "分销 20% / 可谈贴标；B BIG；加厚；升 A 候选。",
+   "code": "SB-791"
+  },
+  "SB-411": {
+   "batch": 102,
+   "name": "Flöter SDT | Sicherheit, Detektei und Technik GmbH（floeter-sicherheit.de / floeter-sdt.de；Taucha bei Leipzig）— 2021-04-28 登记的保安服务 / 侦探 / 安防技术公司（报警、门禁；区域经理制）；Amtsgericht Leipzig HRB 38796；资本 €25,000；**GF 兼唯一股东 Daniel Flöter = 研究档 KP d@ 本人**；另设 SignalTech GmbH（2025-01-02，GF Daniel Flöter）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（Dewitzer Straße 77H, 04425 Taucha；buero@floeter-sdt.de；Geschäftsführer Daniel Flöter；Amtsgericht Leipzig HRB 38796）+ Creditreform（GmbH；HRB 38796 Leipzig；wirtschaftsaktiv；1 GF；1 Gesellschafter；最后变更 2021-09-15）+ companyhouse（Gesellschaftsvertrag 2021-04-22；Stammkapital €25,000；Zweck：Detektivbüro、Sicherheitsdienst、Bewachung；Daniel Flöter alleinvertretungsberechtigt 2021-04-28 起，Gesellschafter 2024-02 起）+ Northdata（2021-04-28 登记；Daniel Flöter 另任 SignalTech GmbH GF，2025-01-02 登记）+ cylex（团队：Melanie Zimmermann 助理、Sebastian Saupe / Ronny Dietze 区域经理、Lukas Diwisch 招聘 / 销售）",
+   "url": "https://www.companyhouse.de/Floeter-SDT-Sicherheit-Detektei-und-Technik-GmbH-Taucha",
+   "number": "HRB 38796（Amtsgericht Leipzig）",
+   "status": "Aktiv（2026-01 年报已公示）",
+   "incorporated": "2021-04-22（公司合同；登记 2021-04-28）",
+   "company_type": "GmbH（资本 €25,000；Daniel Flöter 唯一股东）",
+   "sic": [
+    "保安服务 / 侦探 / 安防技术安装（报警、门禁、Doorman）"
+   ],
+   "address": "Dewitzer Straße 77h, 04425 Taucha",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（人数未取）",
+   "officers": [
+    "Daniel Flöter — Geschäftsführer / Alleingesellschafter = **研究档 KP d@ 本人**（另任 SignalTech GmbH GF）"
+   ],
+   "psc": "Daniel Flöter",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**保安服务为主、安防技术为辅 + 表内 7 次跟进无回复** → **集成商 25% 低优先，一页纸最后一次后 `when=不动`**：STC-028GP / STC-228GP（报警 / 门禁小项目 PoE）",
+    "老板本人收件但长期不回 → 最后一次换主题「one-page: PoE switches for alarm & access installs — MOQ 1」；发信窗口 Thu 12–14 CET；若 SignalTech GmbH 为其技术线可另开一线"
+   ],
+   "notes": "集成商 25% 低优先；KP = GF 本人；一页纸一次后不动。",
+   "code": "SB-411"
+  },
+  "SB-611": {
+   "batch": 102,
+   "name": "Avanis GmbH（avanis.de；Bielefeld，Technologiepark Meisenstraße）— 2003 年成立的有源网络设备销售与 WLAN 规划专业商（「Netzwerk-Architekten」：交换机到 RTLS，Ekahau 测量，医院场景；站内 Edgecore / Fortinet）；Amtsgericht Bielefeld HRB 37834；资本 €70,000；LEI 529900I6QC9S0TFPUY37；**GF 兼股东 Thomas Passlack = 研究档 KP tpasslack@ 本人**（+ GF 兼股东 Paul Peter Kaiser）；8–19 人",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（Avanis GmbH；Meisenstraße 79a, 33607 Bielefeld；+49 521 26012 0；GF Thomas Passlack, Paul Peter Kaiser；Amtsgericht Bielefeld HRB 37834；USt-ID DE813687094）+ 官网 Über uns / Team（2003 成立；「Spezialisten im Vertrieb von aktiver Netzwerktechnik」；新楼 Technologiepark；Paul Kaiser / Thomas Passlack Geschäftsführung）+ implisense（Founded 2003-04-22；Share capital €70,000；LEI 529900I6QC9S0TFPUY37；Small enterprise）+ companyhouse（两 GF 自 2003-05-15 单独代表；地址变更 Am Fichtenbrink 38 → Meisenstraße 97a → 79a）+ firmendatenbanken（Gesellschafter Paul Peter Kaiser、Thomas Passlack）+ wlw（10–19 人）+ RocketReach（8 人）",
+   "url": "https://avanis.de/impressum",
+   "number": "HRB 37834（Amtsgericht Bielefeld）· LEI 529900I6QC9S0TFPUY37 · USt-ID DE813687094",
+   "status": "Aktiv",
+   "incorporated": "2003-04-22（公司合同；登记 2003-05-15）",
+   "company_type": "GmbH（资本 €70,000；两 GF 即两股东）",
+   "sic": [
+    "有源网络设备销售（交换机 / WLAN / 安全）+ WLAN 规划测量（Ekahau）+ RTLS；医院等项目"
+   ],
+   "address": "Meisenstraße 79a, 33607 Bielefeld",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（8–19 人）",
+   "officers": [
+    "Thomas Passlack — Geschäftsführer / Gesellschafter = **研究档 KP tpasslack@ 本人**",
+    "Paul Peter Kaiser — Geschäftsführer / Gesellschafter（pkaiser@）",
+    "Valentin Kaiser — 研究档 KP（职务未核）"
+   ],
+   "psc": "Passlack / Kaiser",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**网络设备经销 + 已用 Edgecore（OEM 低价定位）+ 老板本人收件 → 分销 20%（项目集成商 25% 两可）**：STC-4424GCPM / STC-424XGGPM-280W / STC-448XGGPM（楼宇 / 医院 PoE 接入，对标 Edgecore ECS-4650 价）+ STC-110XGE；B BIG，**加厚**（对标价表）",
+    "表内 1 次跟进无回复 → 第二次触达换主题「an alternative access-switch line beside your current OEM brand — Marvell L2+, 15-day quote」（不点名 Edgecore）；发信窗口 Thu 12–14 CET；升 A 候选（回信即 A）"
+   ],
+   "notes": "分销 20% / 集成商 25%；KP = GF 本人；B BIG；加厚；升 A 候选。",
+   "code": "SB-611"
+  },
+  "SB-626": {
+   "batch": 102,
+   "name": "Vision Dynamics ElectronX（visiondynamics.de；德国）— 研究档 KP Joseph（joseph.nb@）、enquiries@；表内「之前谈过」；**本轮 1 次检索仅命中 Vision Dynamics GmbH（vision-dynamics.de，Oberhaching bei München，Amtsgericht München HRB 235057，工业自动化工程咨询，GF Christian Zimmermann）—— 域名与业务均不符，疑同名他户，不采 → 未坐实**",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索（关键词 Vision Dynamics ElectronX visiondynamics.de Impressum）→ 返回 vision-dynamics.de Impressum（Vision Dynamics GmbH；Grünwalder Weg 32, 82041 Oberhaching；GF Christian P. Zimmermann；Amtsgericht München HRB 235057；USt-ID DE313379909）+ implisense / Northdata（2017-07-24 成立；资本 €25,000；经营范围：工业自动化项目管理 / 系统设计 / 软件集成）—— 电子贸易「ElectronX」与 enquiries@ 英式用语均对不上；按「1 次未中即停」规则不再追",
+   "url": "https://visiondynamics.de/",
+   "number": "未坐实（visiondynamics.de 主体未取；HRB 235057 为同名他户，不采）",
+   "status": "站点快照仅标题（研究档）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "电子 / 网络产品贸易（研究档待核）"
+   ],
+   "address": "德国（门牌未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Joseph（姓未取）— 研究档 KP joseph.nb@（职务未核）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实** → 表内「之前谈过」仍值一封：一页纸（STC-228GP / STC-2224GP / STI-144GP）点回旧话题；不加厚；下轮补项：站点 Impressum / whois 法人名",
+    "收件人 joseph.nb@ 抄 enquiries@；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "未坐实（1 次未中，同名他户不采）；一页纸。",
+   "code": "SB-626"
   }
  }
 }

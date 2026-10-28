@@ -36,7 +36,8 @@
    "title": "（职务待核）",
    "email": "joseph.nb@visiondynamics.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核；1 次检索未命中本户登记 → 未坐实）= 收件人（第 102 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -48,7 +49,8 @@
  },
  "company_facts": {
   "hq": "德国",
-  "other": "官网 visiondynamics.de，语言 ?，快照状态 ok；角色判定来源：待核"
+  "other": "官网 visiondynamics.de，语言 ?，快照状态 ok；角色判定来源：待核；第 102 批：**未坐实** → 表内「之前谈过」仍值一封一页纸（STC-228GP / STC-2224GP / STI-144GP）点回旧话题；下轮补项：Impressum / whois（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "Vision Dynamics ElectronX（visiondynamics.de；法人主体未取 → 未坐实；vision-dynamics.de 的 Vision Dynamics GmbH（HRB München 235057，工业自动化咨询）为同名他户，不采）"
  },
  "business_lines": [
   "（待核）"

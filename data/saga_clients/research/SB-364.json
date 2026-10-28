@@ -39,11 +39,17 @@
  ],
  "kp": [
   {
-   "name": "Daniel Morera（RCDD）",
+   "name": "Daniel Morera",
    "title": "Senior Technical Director",
    "email": "dmorera@nitrotelmanufacturing.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Senior Technical Director / VP New Business Development（RCDD；2022 起）= **产品线决策人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Ivette Patterson",
+   "role": "President（D&B / CAGE；Sunbiz P18000064924）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）",
+   "email": ""
   }
  ],
  "grade_override": null,
@@ -54,8 +60,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 nitrotelmanufacturing.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "10440 NW 37th Terrace, Doral, FL 33178（登记 4626 SW 147 Court, Miami, FL 33185）",
+  "other": "官网 nitrotelmanufacturing.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 102 批：自有品牌整线商（UL/ETL；已贴标 MC / SFP）+ 技术副总本人收件 → **贴标 OEM 30% 目标**（Nitrotel 标 STC-228GP / STC-2224GP / STC-4424GCPM + STI-144GP）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "Nitrotel Manufacturing Corp.（Florida Profit Corporation；Sunbiz P18000064924，2018-07-27；FEI 83-1401215；旧 Nitrotel International Group, LLC 已注销）",
+  "founded": "2001 品牌 / 2006 公司 / 2018-07-27 现主体（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "网络布线 / 光纤 / MC（自有品牌 Nitrotel）"

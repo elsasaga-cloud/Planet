@@ -43,7 +43,8 @@
    "title": "（负责人）",
    "email": "d@floeter-sdt.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Geschäftsführer / Alleingesellschafter（Amtsgericht Leipzig HRB 38796；另任 SignalTech GmbH GF）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 floeter-sdt.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Dewitzer Straße 77h, 04425 Taucha",
+  "other": "官网 floeter-sdt.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 102 批：保安服务为主、安防技术为辅 + 表内 7 次跟进无回复 → **集成商 25% 低优先**（STC-028GP / STC-228GP），一页纸最后一次后不动（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "Flöter SDT | Sicherheit, Detektei und Technik GmbH（HRB 38796 Leipzig；资本 €25,000）",
+  "founded": "2021-04-22（登记 2021-04-28）（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "微型 / 小型（人数未取）"
  },
  "business_lines": [
   "保安服务 / 侦探 / 安防技术（德国）"

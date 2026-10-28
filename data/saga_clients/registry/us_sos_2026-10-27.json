@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 88
+  "count": 96
  },
  "rows": {
   "SA-002": {
@@ -2986,6 +2986,298 @@
    ],
    "notes": "贴标 OEM 30% 目标 + 分销 20%；加厚一次；部分坐实。",
    "code": "SB-793"
+  },
+  "SB-221": {
+   "batch": 102,
+   "name": "Tycon Systems Inc.（DBA Tycon Power Systems；tyconsystems.com；Bluffdale, Utah）— 2008 年由 Scott Parsons（前 Pacific Wireless 创始人 / CEO）创办的离网供电 / 户外 UPS / PoE / 无线网络设备设计制造商（自有 TP- 系列 PoE 产品、太阳能监控拖车）；犹他 S 型公司；SAM UEI V8M1PCBVGN91，CAGE 5XBL3；**President Scott M. Parsons = 研究档 KP scottp@ 本人**",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 About（legalName Tycon Systems Inc.；foundingDate 2008；Bluffdale UT；「Scott Parsons, President」）+ SAM / opengovus（TYCON SYSTEMS INC；UEI V8M1PCBVGN91；CAGE 5XBL3；SAM 注册 2010-03-11，有效至 2026-12-29；业务始于 2008-01-01；930 W 14600 S Ste 600, Bluffdale, UT 84065；Incorporation State UT；2X 营利 / MF 制造商 / XS S 型公司；NAICS 334290；官员 Scott M Parsons PRESIDENT、Anita Parsons、Bruce Sutton ACCOUNTANT）+ 犹他 DBA（Tycon Power Systems，2008-04-04 备案，File 6970120-0151，注册代理 Scott Parsons）+ D&B（Key Principal Scott Parsons President）+ ZoomInfo（Bruce Sutton — CEO）+ Facebook / RocketReach（2008 创办人 Scott Parsons）",
+   "url": "https://opengovus.com/sam-entity/V8M1PCBVGN91",
+   "number": "UT 公司（DBA 备案 6970120-0151）· SAM UEI V8M1PCBVGN91 · CAGE 5XBL3",
+   "status": "Active（SAM 2025-12-31 激活）",
+   "incorporated": "2008-01-01（业务起始；DBA 2008-04-04）",
+   "company_type": "Subchapter S Corporation（犹他；Parsons 家族）",
+   "sic": [
+    "NAICS 334290 — 其他通信设备制造（离网太阳能 / 风能供电系统、户外 UPS、PoE 供电器 / 交换机、无线网桥、移动监控拖车）"
+   ],
+   "address": "930 W 14600 S, Suite 600, Bluffdale, UT 84065",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（人数未取；SAM 制造商）",
+   "officers": [
+    "Scott M. Parsons — President / 创办人 = **研究档 KP scottp@ 本人**",
+    "Bruce Sutton — Accountant（SAM）/ CEO（ZoomInfo）",
+    "Anita Parsons — 官员（SAM）",
+    "Daimyn Duong — 研究档 KP daimyn@（职务未核）",
+    "Andy Pierre — 研究档 KP（职务未核）"
+   ],
+   "psc": "Parsons 家族（推定）",
+   "charges": "",
+   "prev_names": [
+    "Tycon Power Systems（DBA）"
+   ],
+   "lines": [
+    "**自有 TP- 系列 PoE 产品线（TP-SW5G-D 导轨 5 口千兆 PoE 等）+ 总裁本人收件 → 贴标 OEM 30% 目标**：Tycon 标 STI-054GP / STI-144GP / STI-288DGGPM（导轨宽温 PoE，配其离网供电箱）+ STC-228GP；B BIG，**加厚**（对标其在售 TP-SW 价）",
+    "群发已打开 → 第二次触达换主题「DIN-rail PoE switches for your remote power enclosures — your label, 3-year warranty」；发信窗口 Wed 08–10 MT；升 A 候选（回信即 A）"
+   ],
+   "notes": "贴标 OEM 30% 目标；KP = President 本人；B BIG；加厚；升 A 候选。",
+   "code": "SB-221"
+  },
+  "SB-248": {
+   "batch": 102,
+   "name": "Nelly’s Security LLC（nellyssecurity.com；Broken Arrow, Oklahoma）— 2008 年 Sean Nelson 创办的商用级安防设备分销电商（Uniview / Hanwha / ZKTeco / TP-Link / Ubiquiti）；BBB 列为 Rackmount Solutions 一部门（CEO / Owner Jeff Morton），PitchBook 列 Acquired / Merged（Buyout）；创始人 Sean Nelson 另有自有品牌 **IPCamPower（2015 起，专为 IP 摄像机设计的 PoE 交换机）**；研究档 KP Ryan O’Daniel = Technical Operations Officer（2010 起）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 About / legacy About（2008 Sean Nelson 由 Nelly’s Surplus（Claremore OK）起家；团队 Ryan O’Daniel、Cole Cattaneo、Seth Paulson 等）+ D&B（Nelly’s Security LLC；501 N Aspen Ave, Broken Arrow, OK 74012-2220；Limited Liability Company）+ BBB（「Nelly’s Security, A Division of Rackmount Solutions」；Business Started 2008-01-01；LLC；Jeff Morton CEO/Owner；档案 2011-03-18）+ PitchBook（2008；19 人；Status Acquired/Merged；Buyout/LBO）+ LinkedIn（Wholesale；11–50；Broken Arrow；2008）+ Datanyze（$3.5M；25 人）+ ZoomInfo / RocketReach（Ryan O’Daniel — Technical Operations Officer，2010–；Tanner Dehart VP Logistics）+ IPCamPower About（Sean Nelson 2015 创办，PoE 交换机品牌）；OK SoS 备案号未取",
+   "url": "https://www.bbb.org/us/ok/broken-arrow/profile/surveillance-equipment/nellys-security-a-division-of-rackmount-solutions-1025-38020648",
+   "number": "OK LLC（SoS 备案号未取）；BBB 列为 Rackmount Solutions 一部门",
+   "status": "Active（站点在线；股权已变更 — 待核）",
+   "incorporated": "2008-01-01",
+   "company_type": "Limited Liability Company（俄克拉荷马；疑已并入 Rackmount Solutions）",
+   "sic": [
+    "商用安防设备分销电商（CCTV / 门禁 / 入侵报警 / 网络；Uniview、Hanwha、ZKTeco、TP-Link、Ubiquiti）",
+    "关联自有品牌 IPCamPower（PoE 交换机，创始人 Sean Nelson 另营）"
+   ],
+   "address": "501 N Aspen Ave, Broken Arrow, OK 74012",
+   "accounts": "第三方营收 $3.5M（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "小型（15–25 人）",
+   "officers": [
+    "Sean Nelson — 创始人（Claremore OK；另营 IPCamPower）",
+    "Jeff Morton — CEO / Owner（Rackmount Solutions；BBB）",
+    "Ryan O’Daniel — Technical Operations Officer（2010 起）= 研究档 KP rodaniel@",
+    "Cole Cattaneo — Sales = 研究档 KP customerservice@",
+    "Tanner Dehart — VP of Logistics"
+   ],
+   "psc": "Rackmount Solutions（BBB；待核）",
+   "charges": "",
+   "prev_names": [
+    "Nelly’s Surplus（2008）"
+   ],
+   "lines": [
+    "**安防分销电商 + 创始人自有 PoE 交换机品牌 IPCamPower → 两条线：Nelly’s 分销 20%（STC-028GP / STC-228GP / STC-2216GP / STC-2224GP）+ IPCamPower 贴标 OEM 30%**（专为 IP 摄像机的 PoE 交换机 = 咱们 STC 全线对口）；加厚一次（两线各一张价）",
+    "收件人 Ryan O’Daniel（技术运营，选型人）+ 点名 Sean Nelson（IPCamPower）；股权变更（Rackmount Solutions）→ 采购口可能上移，首信先探采购人；发信窗口 Wed 08–10 CT；升 A 次候选"
+   ],
+   "notes": "分销 20% + IPCamPower 贴标 OEM 30%；加厚一次；股权变更待核；升 A 次候选。",
+   "code": "SB-248"
+  },
+  "SB-364": {
+   "batch": 102,
+   "name": "Nitrotel Manufacturing Corp.（nitrotelmanufacturing.com；Miami / Doral, FL）— 自有品牌 Nitrotel 网络物理基础设施整线商（2001 品牌起、2006 公司起；Cat5e/6/6A 铜缆、光纤、机柜、MC NTFFSM 系列；2016 全线 UL/ETL；拉美导向）；FL Sunbiz **P18000064924**（2018-07-27 现主体）；President Ivette Patterson；**研究档 KP Daniel Morera = Senior Technical Director / VP New Business Development（RCDD）**",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：Sunbiz（NITROTEL MANUFACTURING CORP.；Florida Profit Corporation；Document P18000064924；FEI 83-1401215；Date Filed 2018-07-27，Effective 2018-07-26；ACTIVE；Last Event AMENDMENT 2018-10-24；Principal Address 4626 SW 147 Court, Miami, FL 33185；旧主体 NITROTEL INTERNATIONAL GROUP, LLC L07000033723 INACT）+ 官网 About（2001 品牌营销起；2006 Nitrotel Manufacturing Corp. 设于 Miami；2014 光纤方案 / 机柜线；2016 全线 UL/ETL）+ Corporate Profile 2024 PDF + LinkedIn（Partnership；11–50；Doral FL；2006）+ ZoomInfo（Daniel Morera — Senior Technical Director & VP & Business Developer，2022–；10440 NW 37th Terrace, Doral, FL 33178）+ cage.report / D&B（President Ivette Patterson）+ Manta（President Juan Viera —— 不一致，列备）",
+   "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByName",
+   "number": "FL Sunbiz P18000064924 · FEI 83-1401215",
+   "status": "ACTIVE",
+   "incorporated": "2018-07-27（现主体；品牌 2001，首家公司 2006）",
+   "company_type": "Florida Profit Corporation（私有；President Ivette Patterson）",
+   "sic": [
+    "网络物理基础设施自有品牌（铜缆 / 光纤 / 机柜 / 配线 / 媒体转换器 NTFFSM；UL/ETL）制造与分销，面向拉美与美国集成商"
+   ],
+   "address": "10440 NW 37th Terrace, Doral, FL 33178（经营地）；登记地址 4626 SW 147 Court, Miami, FL 33185",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Ivette Patterson — President（D&B / CAGE）",
+    "Daniel Morera — Senior Technical Director / VP New Business Development（RCDD；2022 起）= **研究档 KP dmorera@ 本人**",
+    "Juan Viera — President（Manta，不一致，列备）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "NITROTEL INTERNATIONAL GROUP, LLC（L07000033723，已注销）"
+   ],
+   "lines": [
+    "**自有品牌整线商（已贴标 MC / SFP）+ 技术副总本人收件 → 贴标 OEM 30% 目标**：Nitrotel 标 STC-228GP / STC-2224GP / STC-4424GCPM + STI-144GP（配其光纤 / MC 线；拉美出口不碰认证之外承诺）；B BIG，**加厚**",
+    "表内「工业 FS MC SFP 自己的 logo」→ 第二次触达主题「adding managed PoE switches to your Nitrotel line — same label workflow as your MCs」；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）"
+   ],
+   "notes": "贴标 OEM 30% 目标；KP = VP 本人；B BIG；加厚；升 A 候选。",
+   "code": "SB-364"
+  },
+  "SB-529": {
+   "batch": 102,
+   "name": "DMSI International = Diversified Material Specialists, Inc.（dmsimfg.com；North Venice, FL）— 1996-07-05 成立的美国光纤连接合同制造商（MTP / MMC / MDC 高密度组件、分光器、衰减器、媒体转换器、定制机箱；**为全球品牌做 OEM / 自有标制造**）；51–200 人，第三方营收 $18.5M；President & CEO Jeneth D’Alonzo；研究档 KP Randy Harris = Director, Data Center & Broadband Sales（2023 起）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：BBB（Diversified Material Specialists, Inc.；别名 DMSI；105 Triple Diamond Blvd Ste 101, North Venice, FL 34275-3646；Business Incorporated 1996-07-05；Corporation；CFO Jeffrey D’Alonzo）+ 官网 Who We Are（CORPORATE HQ Venice, Florida；info@dmsimfg.com）+ 官网新闻 2025-05（Tampa Bay Business Journal；Jeneth D’Alonzo — President & CEO；两年增长 15–20%）+ LinkedIn（DMSI International；Manufacturing；51–200；1996；OEM & contract manufacturing）+ RocketReach（$18.5M；63 人；Brandon Woodward — VP Business Development）+ 官网 /randy/（Randy Harris — Director, Data Center & Broadband Sales）+ LinkedIn Randy Harris（Lenoir NC；OEM and private-label manufacturing for leading global brands）；FL Sunbiz 文件号未取",
+   "url": "https://www.bbb.org/us/fl/north-venice/profile/fiber-optics/diversified-material-specialists-inc-0653-90109063",
+   "number": "FL Corporation（Sunbiz 文件号未取；BBB 法定名 Diversified Material Specialists, Inc.）",
+   "status": "Active（2025 扩产报道）",
+   "incorporated": "1996-07-05",
+   "company_type": "Corporation（私有；D’Alonzo 家族管理）",
+   "sic": [
+    "光纤连接合同制造（MTP / MMC / MDC 组件、PON / FTTx、分光器、媒体转换器、定制机箱）；数据中心 / 政府 / 宽带",
+    "OEM / 自有标代工（为全球品牌贴标）"
+   ],
+   "address": "105 Triple Diamond Blvd, Unit 101, North Venice, FL 34275",
+   "accounts": "第三方营收 $18.5M（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "中型（51–200 人；63）",
+   "officers": [
+    "Jeneth D’Alonzo — President & CEO",
+    "Jeffrey D’Alonzo — CFO（BBB）",
+    "Brandon Woodward — VP Business Development",
+    "Randy Harris — Director, Data Center & Broadband Sales（2023 起；Lenoir NC）= 研究档 KP（用户表误把 dustin@ 记其名下）",
+    "Dustin Hall — 研究档 KP dustin@（职务未核）",
+    "Iylin Flock — General Manager（研究档）= evan@（待核）"
+   ],
+   "psc": "D’Alonzo 家族（推定）",
+   "charges": "",
+   "prev_names": [
+    "DMSI International（商号）"
+   ],
+   "lines": [
+    "**光纤合同制造商 + 自有标 MC 周边 + 数据中心客户群 → 贴标 OEM 30% 目标（DMSI 标 STC-228GP / STI-144GP / STC-110XGE 配其光纤组件）+ DC 线 STH-2C24XF-HSI / STH-32C-HSI 作其数据中心客户配套**；B BIG，**加厚**",
+    "收件人 Randy Harris（数据中心 / 宽带销售总监，产品线决策人）抄 Dustin Hall；表内 1 次跟进无回复 → 第二次触达换主题「white-label managed switches to round out your fiber assemblies」；发信窗口 Wed 08–10 ET；升 A 候选"
+   ],
+   "notes": "贴标 OEM 30% 目标 + DC 线；B BIG；加厚；升 A 候选；Sunbiz 号下轮补。",
+   "code": "SB-529"
+  },
+  "SB-772": {
+   "batch": 102,
+   "name": "Mencom Corporation（mencom.com；Oakwood, Georgia）— 1987 年 Bruce E. Mistarz 创办（伊利诺伊起家，1990 年代迁乔治亚）的工业电气连接器 / 线缆组件制造商（15 万平方英尺美国工厂；兼售自有标工业交换机与媒体转换器）；Georgia Domestic Profit Corporation；President / CEO Bruce E. Mistarz；51–200 人，第三方营收 $26.2M；研究档 KP John Heath = Engineering Manager、John J. Bisson = Sales",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：bizstanding / GA SoS 摘录（Mencom Corporation；Domestic Profit Corporation；官员 S. Barbara Mistarz Secretary、E. Bruce Mistarz CFO、Bruce Mistarz Vice-President (inactive)、Barbara Mistarz President (inactive)；注册代理 Bruce E. Mistarz, 3745 Timber Walk Dr, Gainesville GA）+ LinkedIn（1987；51–200；Oakwood GA；Privately Held）+ ZoomInfo（Bruce Mistarz President，1987–；5750 McEver Rd, Oakwood, GA 30566；$26.2M）+ craft.co（Bruce E. Mistarz President, CEO & CFO；Bruce S. Mistarz Secretary）+ Gainesville Times 2008（Mistarz 伊利诺伊厨房起家，1996 前后迁 Gainesville）+ YouTube（150,000 sq ft 工厂 Oakwood）+ Kompass（John Bisson 列 Owner —— 与 growjo「Sales」不一致，按 Sales 记）+ RocketReach（39 人）；GA SoS 控制号未取",
+   "url": "https://bizstanding.com/p/mencom+corporation-180484562",
+   "number": "GA Domestic Profit Corporation（SoS 控制号未取）",
+   "status": "Active（在产）",
+   "incorporated": "1987（伊利诺伊起家；乔治亚现主体年份未取）",
+   "company_type": "Domestic Profit Corporation（乔治亚；Mistarz 家族）",
+   "sic": [
+    "工业电气连接器 / 线缆组件 / 面板接口连接器制造（美国制造）",
+    "自有标工业以太网交换机 / 媒体转换器（外采）"
+   ],
+   "address": "5750 McEver Rd, Suite A, Oakwood, GA 30566",
+   "accounts": "第三方营收 $26.2M（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "中型（39–200 人）",
+   "officers": [
+    "Bruce E. Mistarz — President / CEO / 创办人（注册代理）",
+    "Barbara Mistarz — Secretary",
+    "Catherine Saye — Director, Finance",
+    "John Heath — Engineering Manager = 研究档 KP john.heath@",
+    "John J. Bisson — Sales = 研究档 KP john@"
+   ],
+   "psc": "Bruce E. Mistarz（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**美国工业连接器制造商，自有标工业交换机「标价高」且外采 → 贴标 OEM 30% 目标**：Mencom 标 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM（导轨 PoE / 光口，与其 M12 / 线缆组件配套）；B BIG，**加厚**（对标其在售工业交换机价）",
+    "收件人 John Heath（工程经理 = 选型人）抄 John Bisson（销售）+ 点名 President Bruce Mistarz；表内 1 次跟进无回复 → 第二次触达主题「a lower-cost source for your private-label DIN-rail switches — managed L2+, 3-year warranty」；发信窗口 Wed 08–10 ET；升 A 候选"
+   ],
+   "notes": "贴标 OEM 30% 目标；B BIG；加厚；升 A 候选；GA 控制号下轮补。",
+   "code": "SB-772"
+  },
+  "SB-787": {
+   "batch": 102,
+   "name": "TC Communications, Inc.（tccomm.com / JumboSwitch.com；Irvine, California）— 1991-12 成立（Yorba Linda，1995 迁 Irvine）的工业光纤通信 / 工业以太网设计制造商（JumboSwitch® 工业千兆多业务平台、TC8000 系列复用器、导轨工业交换机；公用事业 / 公共安全 / 交通 / 航空 / 轨道 / 国防）；4 万平方英尺总部；创办人 President & CEO Kai Liang；CAGE 0S5C7；**研究档 KP Steve Cragg = Vice President Sales & Marketing**",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 35 周年页（1991-12 TC Communications, Inc. 成立于 Yorba Linda，创办人 Kai Liang；1995 迁 Irvine；现址 17881 Cartwright Road 40,000 sq ft；2000 TC8800；2008 JumboSwitch）+ cage.report（CAGE 0S5C7；Established 1992-02-06；Business started 1990-10-01；Incorporation jurisdiction CA；Entity type A 美国制造商）+ D&B（Kai Liang — President and CEO）+ amfibi（Elton Chai — COO）+ LinkedIn（1991；51–200；Irvine；Steve Cragg — Vice President Sales Marketing；Ted Langford — Marketing and Sales Director）+ leadiq（11–50；NAICS 517）+ Wiza（Ken Winward Director of Sales；Jessica Liang Director Marketing & Sales Ops）；CA SoS 实体号未取",
+   "url": "https://tccomm.com/Literature/Literature/Fiber-Optic-Promotion/TC-Anniversary",
+   "number": "CA Corporation（SoS 实体号未取）· CAGE 0S5C7",
+   "status": "Active（2026 年 35 周年）",
+   "incorporated": "1991-12（CAGE 载 1992-02-06）",
+   "company_type": "Corporation（加州；创办人 Kai Liang 家族）",
+   "sic": [
+    "工业光纤通信与工业以太网设备设计制造（JumboSwitch、复用器、导轨交换机、远动保护）；公用事业 / 公共安全 / 交通 / 航空 / **轨道 / 国防（守界，不提）**"
+   ],
+   "address": "17881 Cartwright Road, Irvine, CA 92614",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（11–200 人）",
+   "officers": [
+    "Kai Liang — President & CEO / 创办人",
+    "Elton Chai — Chief Operating Officer",
+    "Steve Cragg — Vice President Sales & Marketing = **研究档 KP stevec@ 本人**",
+    "Ken Winward — Director of Sales",
+    "Jessica Liang — Director, Marketing and Sales Operations",
+    "Fredrick Chow — 研究档 KP（职务未核）；larry@novaca.com = 外域联系人（代理 / 代表推定）"
+   ],
+   "psc": "Kai Liang（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自产高端工业平台（JumboSwitch）的制造商 → 入门级导轨工业交换机 / MC 可外采贴标 → 贴标 OEM 30% 目标**：TC 标 STI-054GP / STI-144GP / STI-154GP / STI-244GP（入门导轨线，填其 JumboSwitch 之下空档）；**只谈公用事业 / 交通 / 商用，不碰轨道 EN 50155 与国防**；加厚一次",
+    "收件人 Steve Cragg（销售副总 = 产品线扩充决策人）；表内 1 次跟进无回复 → 第二次触达主题「an entry-level DIN-rail line under your brand beneath JumboSwitch」；发信窗口 Wed 08–10 PT；升 A 次候选"
+   ],
+   "notes": "贴标 OEM 30% 目标（入门工业线）；KP = VP 本人；轨道 / 国防守界；加厚一次。",
+   "code": "SB-787"
+  },
+  "SB-792": {
+   "batch": 102,
+   "name": "Winston International, Ltd.（Weltron® 品牌独家制造商；weltronproducts.com / winstonele.com；**Oxford, North Carolina**）— 1980 年 James Pratt Winston 与 Gwendolyn Winston 创办的电信 / 数据基础设施进口制造商（Cat5e/6 跳线、光纤跳线、键石、配线架、MC、PoE 交换机、商用音响；1985 前后购得 1968 年 Weltron 品牌）；服务全美经销商；CAGE 3AZP6；研究档 KP Rob Winston（家族成员，职务未核）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 Weltron（1968 品牌起源 Model 2001 收音机）+ winstonele.com About（「Established in 1980 by James Pratt and Gwendolyn Winston, we are a small business located in Oxford, NC – 30 miles north of Research Triangle Park」；服务电脑 / 电子 / 电气分销商）+ Wikipedia Weltron（总部 Oxford NC，前 Durham NC；CEO James Pratt Winston；President Francis Winston；1980 Winston International 成立，约 1985 购 Weltron 品牌）+ LinkedIn Winston International LTD.（Telecommunication and Data Infrastructure Importer；1980 起制造商）+ Crunchbase（Legal Name Winston International LTD.；Oxford NC）+ cage.report（DUNS 056291859；robwinston@winstonele.com 列于 CAGE 3AZP6）+ ZoomInfo（11–50；<$5M；1968）；NC SoS 号未取；**Sunbiz 的 WINSTON ELECTRONICS, INC.（440526，Ft. Lauderdale，1983 已解散）为同名他户**",
+   "url": "http://www.winstonele.com/About_us.html",
+   "number": "NC 公司（SoS 号未取）· CAGE 3AZP6 · DUNS 056291859",
+   "status": "Active（站点 / 商店在线）",
+   "incorporated": "1980（Winston International）；Weltron 品牌 1968",
+   "company_type": "Ltd.（北卡；Winston 家族）",
+   "sic": [
+    "电信 / 数据基础设施产品进口与制造（Weltron 品牌：铜缆 / 光纤跳线、键石、配线架、媒体转换器、PoE 交换机、工业、商用音响、安防），面向全美分销商"
+   ],
+   "address": "Oxford, NC（门牌未取；研究档 / 旧地址勿按佛州处理）",
+   "accounts": "第三方 <$5M（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "James Pratt Winston — 创办人 / CEO",
+    "Francis Winston — President（Wikipedia）",
+    "Rob Winston — 研究档 KP robwinston@（家族成员；职务未核）",
+    "A. Winston — 研究档 awinston@（职务未核）"
+   ],
+   "psc": "Winston 家族",
+   "charges": "",
+   "prev_names": [
+    "Weltron Company（1968 品牌）"
+   ],
+   "lines": [
+    "**自有品牌 Weltron 已含 PoE 交换机 + 家族企业直收 → 贴标 OEM 30% 目标**：Weltron 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-144GP（配其跳线 / 键石 / 配线架整线）；B BIG，**加厚**（对标其在售 Weltron PoE 交换机价）",
+    "群发 8 次已打开 → 第二次触达换主题「managed PoE switches under the Weltron label — MOQ 1, 3-year option」；点名 President；发信窗口 Wed 08–10 ET；升 A 候选；州别更正：NC 非 FL"
+   ],
+   "notes": "贴标 OEM 30% 目标；B BIG；加厚；升 A 候选；州别 NC。",
+   "code": "SB-792"
+  },
+  "SB-1026": {
+   "batch": 102,
+   "name": "Epygi Technologies, LLC（原 Epygi Technologies, Ltd.；epygi.com；Altamonte Springs, FL，原 Plano, TX）— 2000 年成立的 IP PBX / VoIP 网关 / 云电话（ecQX）设计制造商（QX 系列；亚美尼亚研发中心）；CEO Mario Cuello；11–50 人，第三方营收 $10–50M；研究档无 KP（sales@）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：Epygi 支持站 About（Epygi Technologies, LLC；私有美国公司；2000 成立；总部 Altamonte Springs, Florida）+ 旧案例 PDF（Epygi Technologies, Ltd.；1400 Preston Road, Suite 300, Plano, Texas 75093；sales@epygi.com）+ LinkedIn（Epygi Technologies LLC；Telecommunications；11–50；Altamonte Springs FL；2000）+ leadiq / ContactOut（561 Maitland Avenue, Altamonte Springs, FL 32701；$10M–$50M；CEO Mario Cuello）+ theorg（Mario Cuello CEO；Annie Ghannoum Director；Levon Harutyunyan SW director）+ 官网 2024-07 新闻（Mario Cuello, CEO）+ RocketReach（$24.2M；26 人）；TX / FL 登记号未取",
+   "url": "https://support.epygi.com/Knowledgebase/List/Index/354/qx-ip-pbx-products",
+   "number": "LLC（TX 起家，现 FL；登记号未取 → 部分坐实）",
+   "status": "Active（2024 新闻）",
+   "incorporated": "2000",
+   "company_type": "Limited Liability Company（私有；原 Ltd.）",
+   "sic": [
+    "IP PBX / VoIP 网关 / SIP 会议 / 云电话（ecQX）设计制造与全球分销（经销商渠道）"
+   ],
+   "address": "561 Maitland Avenue, Altamonte Springs, FL 32701（原 1400 Preston Road Ste 300, Plano, TX 75093）",
+   "accounts": "第三方营收 $10–50M（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Mario Cuello — CEO",
+    "Annie Ghannoum — Director（Plano TX）",
+    "Levon Harutyunyan — Software Director（亚美尼亚）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "Epygi Technologies, Ltd."
+   ],
+   "lines": [
+    "**IP PBX 厂商 → 配套 IP 话机的 PoE 交换机可挂 Epygi 标 → 贴标 OEM 30% 目标 / 次选分销 20%**：Epygi 标 STC-028GP / STC-228GP / STC-2224GP（话机 PoE 预算、VLAN / QoS 语音优先）；一页纸 + 贴标条款，不加厚",
+    "收件人 sales@ 点名 CEO Mario Cuello / 产品管理；表内未跟进 → 首信即一页纸「a PoE switch line under your brand for QX deployments」；发信窗口 Wed 08–10 ET"
+   ],
+   "notes": "贴标 OEM 30% 目标 / 分销 20% 次选；一页纸；部分坐实。",
+   "code": "SB-1026"
   }
  }
 }

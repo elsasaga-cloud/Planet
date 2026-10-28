@@ -45,11 +45,12 @@
  ],
  "kp": [
   {
-   "name": "Ayse Narinsoez",
+   "name": "Ayşe Narinsöz",
    "title": "Project Manager",
    "email": "ayse@baburtech.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务待核；采购 / 产品推定）= 收件人（第 102 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -60,8 +61,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 baburtech.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Cumhuriyet Mah. Ziya Gökalp Cad. No 9/3, Kızılay, Çankaya / Ankara",
+  "other": "官网 baburtech.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 102 批：笔记本 / 手机配件电商 + 网络品转售（海思白牌交换机在售）→ **分销 20% small**（STC-028GP / STC-228GP / STC-2216GP）；一页纸（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "BABURTECH BİLİŞİM SANAYİ VE TİCARET ANONİM ŞİRKETİ（MERSİS 0128085731200001 — 商务部 ETBİS；Vergi No 1280857312 Çankaya）",
+  "founded": "2007（ETBİS 登记 2017-12-29）（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "小型 / 中型（自报 201–500 存疑）"
  },
  "business_lines": [
   "笔记本配件与维修电商",

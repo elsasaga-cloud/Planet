@@ -22,7 +22,8 @@
    "title": "（职务待核）",
    "email": "murat@goldnet.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "业主 Murat Gündeğer 推定同人（konkordato 申请人之一；未证）= 收件人（第 102 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -33,8 +34,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 goldnet.com.tr，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "Kazımiye Mah. Dadaloğlu Cad. No 42, Çorlu / Tekirdağ 59860（**地域更正：Çorlu，非 İstanbul**）",
+  "other": "官网 goldnet.com.tr，语言 ?，快照状态 ok；角色判定来源：待核；第 102 批：自有品牌 GOLDNET NVR / 摄像机，但 **2019 起 konkordato 重整程序（2019/297 → 2021/219 → 2024/79）→ 回款风险高** → 贴标 small，仅 100% 预付、不赊、不备货（STC-028GP / STC-228GP）；一页纸一次；对客不提重整（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "GOLD-NET BİLİŞİM ELEKTRONİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ（MERSİS 0396049037300015；Vergi No 3960490373；Ticaret Sicil 7956 Çorlu；关联 Teknogon Güvenlik）",
+  "founded": "2004-10-01（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "小型（人数未取）"
  },
  "business_lines": [
   "（待核）"

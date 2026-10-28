@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 55
+  "count": 59
  },
  "rows": {
   "SA-015": {
@@ -1898,6 +1898,136 @@
    ],
    "notes": "分销 20%；KP = MD / 80% 股东本人；加厚一次；升 A 候选。",
    "code": "SB-770"
+  },
+  "SB-040": {
+   "batch": 102,
+   "name": "4DEMAND LTD（4demand.co.uk；London N3）— 2022-12-30 注册的微型 IT / 贸易公司（SIC 46900 非专业批发 + 62012/62020/62090 软件 / IT 咨询；自述由波斯湾地区多家企业合并而来：IT 服务、CCTV / 报警、设备供应与进出口）；Companies House 14564199；资本 £1；**唯一董事 / PSC Mohsen Tavakoli Zaniani（*1992-02）**；英国 Skilled Worker 担保资质；研究档采购联系 Mr. Ari（procurement@）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 14564199（4DEMAND LTD；Active；Private limited company；Incorporated 2022-12-30；注册地 227 Nether Street, London N3 1NT（2024-10-23 由 80 Golders Green Road NW11 8LN 迁入）；SIC 46900 / 62012 / 62020 / 62090；董事 TAVAKOLI ZANIANI, Mohsen（2022-12-30 起，British，*1992-02）；PSC 同人 75–100%；NEWINC 股本 £1；CS01 2025-01-03）+ Endole（1 董事 / 1 股东 / 1 PSC；020 3576 1986）+ sponsorlicensechecker（UK 担保人名册 Skilled Worker，SIC 46900）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14564199",
+   "number": "Companies House 14564199",
+   "status": "Active（CS01 2025-01-03）",
+   "incorporated": "2022-12-30",
+   "company_type": "Private limited company（资本 £1；单一董事 / PSC）",
+   "sic": [
+    "46900 — 非专业批发",
+    "62012 / 62020 / 62090 — 软件开发 / IT 咨询 / 其他 IT 服务"
+   ],
+   "address": "227 Nether Street, London N3 1NT（住宅 / 小办公；前址 80 Golders Green Road NW11 8LN）",
+   "accounts": "—（微型豁免）",
+   "accounts_due": "—",
+   "size_band": "微型（<10 人；营业额 <£1M）",
+   "officers": [
+    "Mohsen Tavakoli Zaniani — Director / PSC（*1992-02；British）= 拍板人",
+    "Mr. Ari — 采购（表内 procurement@）= 收件人"
+   ],
+   "psc": "Mohsen Tavakoli Zaniani（75–100%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**£1 资本微型贸易 / 转口公司（面向海湾）→ 采购型 small：一页纸 + 100% 预付、不赊、不备货**：STC-028GP / STC-228GP / STC-2224GP 按单报价；**目的地与最终用户按出口合规核对（海湾转口）**",
+    "收件人 procurement@ 点名 Mr. Ari 抄 Director；表内已有采购联系 → 首信一页纸即止；发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "采购型 small；100% 预付；一页纸；转口合规核对。",
+   "code": "SB-040"
+  },
+  "SB-590": {
+   "batch": 102,
+   "name": "CARRITECH LTD（carritech.com / optics.carritech.com；London 注册，运营 UK + Madrid）— 2010-05-20 成立的运营商级电信设备备件供应 / 资产管理 / 翻新维修 / WEEE 回收商（延长旧网络寿命；光模块 / SFP 为主，MC 为副线）；Companies House 07260202；SIC 61900；资本 £200；11 人（2025 账）；董事 Bruce Iain Sutherland（创始人，2010）+ Miguel Asín Barcos（2011；PSC；Sales Director，Madrid）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 07260202（CARRITECH LTD；Active；Private limited company；Incorporated 2010-05-20；注册地 124 City Road, London EC1V 2NX（虚拟办公地址）；CH01 / PSC04 2025–2026 Miguel Asin Barcos 变更）+ companiesintheuk（SIC 61900；资本 £200；11 人 2025 账（2024 为 8）；董事 Miguel ASIN BARCOS 2011-04-12、Bruce Iain SUTHERLAND 2010-06-16；Total Exemption Full）+ Endole（微型；2 董事 / 2 股东 / 2 PSC；Sutherland 58 岁）+ 官网 Company（2010 由 Miguel Asín 与 Bruce Sutherland 创办；备件供应、资产管理、远程支持、硬件支持、WEEE 回收；UK + Spain）+ LinkedIn（11–50；光模块 / SFP、翻新维修、legacy telecoms）+ prospeo（营收约 $1.45M；Miguel Asin Barcos — Sales Director）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07260202",
+   "number": "Companies House 07260202",
+   "status": "Active（2025 账已报）",
+   "incorporated": "2010-05-20",
+   "company_type": "Private limited company（资本 £200；两创始董事即 PSC）",
+   "sic": [
+    "61900 — 其他电信活动（运营商旧设备备件供应、资产管理、翻新维修、WEEE 回收；光模块 / SFP 销售）"
+   ],
+   "address": "124 City Road, London EC1V 2NX（注册 / 虚拟）；运营 UK + Madrid",
+   "accounts": "第三方营收约 $1.45M（仅作区间）",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（11 人）",
+   "officers": [
+    "Bruce Iain Sutherland — Director / 创始人（2010）",
+    "Miguel Asín Barcos — Director / PSC / Sales Director（2011；Madrid）",
+    "Yura Saskevych — Global Account Director（Madrid）"
+   ],
+   "psc": "Sutherland / Asín Barcos",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**翻新备件商（同行·翻新类）+ 表内 2 次跟进无回复** → **一页纸一次后 `when=不动`**：仅 MC / 光口小件（STI-144GP / STC-228GP）配其光模块业务；不加厚",
+    "收件人 contact@ 点名 Sales Director；发信窗口 Thu 12–14 GMT（马德里团队 CET）"
+   ],
+   "notes": "翻新商 → 一页纸一次后不动。",
+   "code": "SB-590"
+  },
+  "SB-264": {
+   "batch": 102,
+   "name": "TIER1 DATA SYSTEMS LIMITED（tier1ds.com；London W1W 商务中心）— 2018-10-31 注册的 IT 硬件 / 备件经销微型公司（SIC 46520 电子电信设备批发 + 47910 网络零售；Cisco / Juniper / Fortinet / Huawei 品牌货、刀片服务器、配置服务；阿里巴巴 RFQ「Cisco Switch」）；Companies House 11652776；VAT GB311899586；1 人；**董事 / 创始人 Mohammad Samir Jamjam（印度籍，*1990-05）= 研究档 KP「Sameer JamJam」sales@ 本人**；历任多名印度籍董事进出",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 11652776（TIER1 DATA SYSTEMS LIMITED；Active；Private limited company；Incorporated 2018-10-31；注册地 167-169 Great Portland Street, 5th Floor, London W1W 5PF（前址 85 Great Portland Street, First Floor W1W 7LT）；SIC 46520 / 47910；9 名董事 / 7 名已辞；现任 JAMJAM, Mohammad Samir（2018-10-31 起）、KHATRI, Kajal（2026-07-07 起）；已辞 Antelawala / Katara（2025-10-04）/ Kothari 等）+ Endole（VAT GB311899586；2 股东 / 2 PSC；Jamjam 创始人，Indian，36 岁；Khatri 33 岁 首任董事）+ GlobalDatabase（1 人；CS01 2023-10-31）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11652776",
+   "number": "Companies House 11652776 · VAT GB311899586",
+   "status": "Active（新董事 2026-07-07）",
+   "incorporated": "2018-10-31",
+   "company_type": "Private limited company（微型；印度籍董事；商务中心注册地）",
+   "sic": [
+    "46520 — 电子与电信设备及零件批发（品牌 IT 硬件 / 备件经纪）",
+    "47910 — 邮购 / 网络零售"
+   ],
+   "address": "167-169 Great Portland Street, 5th Floor, London W1W 5PF（商务中心；非实体仓）",
+   "accounts": "—（微型）",
+   "accounts_due": "—",
+   "size_band": "微型（1 人）",
+   "officers": [
+    "Mohammad Samir Jamjam — Director / 创始人 / PSC（*1990-05；Indian）= **研究档 KP sales@ 本人**",
+    "Kajal Khatri — Director（2026-07 起）"
+   ],
+   "psc": "Jamjam + 1",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**品牌货经纪（Cisco 为主）+ 商务中心壳 + 1 人** → **采购型 small：一页纸 + 100% 预付、不赊**：STC-2224GP / STC-4424GCPM / STC-110XGE 按单报价；不加厚",
+    "收件人 sales@（= 老板本人）；表内无跟进 → 首信一页纸即止；发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "采购型 small；100% 预付；一页纸；KP = 董事本人。",
+   "code": "SB-264"
+  },
+  "SB-805": {
+   "batch": 102,
+   "name": "CCTVSpot.co.uk = **MB Vision Ltd.（保加利亚 Plovdiv）**— 2012 年起的 CCTV 设备进口 / 在线分销商（Hikvision / Dahua 授权经销、Ajax、Wi-Tek；欧洲发货）；英国站仅为销售前台（UK VAT GB411290538），总部 20 Sredets str., 4003 Plovdiv，BG VAT 202150972；无官方邮箱（Gmail 联系）→ **国别更正：保加利亚**",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：cctvspot.co.uk About Us（「MB Vision Ltd.；Headquarters for Europe: 20 Sredetc str., 4003 Plovdiv, Bulgaria；BG VAT N: BG 202150972；UK VAT N: GB 411290538」；品牌 Hikvision / Dahua / Ajax / Wi-Tek）+ 首页（「Since our inception in 2012, MB Vision Ltd. has been a leading importer and distributor of high-quality CCTV equipment … one of the most trusted online suppliers in Bulgaria … across Europe」）+ DVR kits 页（联系 cctv.mbvision@gmail.com；「imported directly for the EU market」）；保加利亚商业登记（ЕИК 202150972）未另查",
+   "url": "https://cctvspot.co.uk/about-us",
+   "number": "BG ЕИК / VAT 202150972 · UK VAT GB411290538",
+   "status": "Active（站点在线）",
+   "incorporated": "2012（自述）",
+   "company_type": "Ltd.（保加利亚 ООД 推定；英国无实体登记）",
+   "sic": [
+    "CCTV 设备进口与在线分销（Hikvision / Dahua 授权经销；套件、IP、HD-CVI、LPR）"
+   ],
+   "address": "ul. Sredets 20, 4003 Plovdiv, Bulgaria（英国站无实体地址）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（人数未取）",
+   "officers": [
+    "无具名（研究档无 KP；Gmail 联系 cctv.mbvision@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**保加利亚在线 CCTV 零售商（英国前台）+ 无官方邮箱 + 表内用 UTEPO PoE** → **分销 20% small，一页纸**：STC-028GP / STC-228GP / STC-2216GP（对标其在售 UTEPO / Wi-Tek 价）；DAP Plovdiv；不加厚",
+    "收件：站点联系表 / Gmail（公开邮箱规则：Gmail 为站点公示，可用）；发信窗口 Thu 12–14 EET；国别更正保加利亚（渲染 country_fix）"
+   ],
+   "notes": "分销 20% small；一页纸；国别更正 BG。",
+   "code": "SB-805"
   }
  }
 }

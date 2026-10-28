@@ -57,14 +57,16 @@
    "title": "（表内联系人）",
    "email": "daimyn@tyconsystems.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核）= 抄送（第 102 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Scott Parsons",
    "title": "（表内联系人）",
    "email": "scottp@tyconsystems.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President / 创办人（Tycon Systems Inc.；SAM UEI V8M1PCBVGN91）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -75,8 +77,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 tyconsystems.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "930 W 14600 S, Suite 600, Bluffdale, UT 84065",
+  "other": "官网 tyconsystems.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 102 批：自有 TP- 系列 PoE 产品线 + 总裁本人收件 → **贴标 OEM 30% 目标**（Tycon 标 STI-054GP / STI-144GP / STI-288DGGPM + STC-228GP）；B BIG；加厚；升 A 候选（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "Tycon Systems Inc.（DBA Tycon Power Systems；犹他 S 型公司；UT DBA 6970120-0151；SAM UEI V8M1PCBVGN91；CAGE 5XBL3）",
+  "founded": "2008-01-01（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "小型（SAM 制造商；人数未取）"
  },
  "business_lines": [
   "离网太阳能供电与 UPS 系统",

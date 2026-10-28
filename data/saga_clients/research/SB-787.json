@@ -43,14 +43,21 @@
    "title": "（表内联系人）",
    "email": "stevec@tccomm.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Vice President Sales & Marketing（TC Communications, Inc.）= **产品线扩充决策人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Fredrick Chow",
    "title": "（表内联系人）",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核）（第 102 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Kai Liang",
+   "role": "President & CEO / 创办人（1991）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）",
+   "email": ""
   }
  ],
  "grade_override": null,
@@ -61,8 +68,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 tccomm.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "17881 Cartwright Road, Irvine, CA 92614（4 万平方英尺）",
+  "other": "官网 tccomm.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 102 批：自产 JumboSwitch 工业平台的制造商 → 入门级导轨工业交换机可外采贴标 → **贴标 OEM 30% 目标**（TC 标 STI-054GP / STI-144GP / STI-154GP / STI-244GP）；只谈公用事业 / 交通 / 商用，**不碰轨道 EN 50155 与国防**；加厚一次；larry@novaca.com 为外域代表（待核）（第 102 批 官方登记核实 2026-10-28）",
+  "legal_name": "TC Communications, Inc.（加州公司；CAGE 0S5C7；SoS 实体号未取）",
+  "founded": "1991-12（Yorba Linda；1995 迁 Irvine）（第 102 批 官方登记核实 2026-10-28）",
+  "staff": "11–200 人"
  },
  "business_lines": [
   "光纤复用器 / 工业以太网（自研）",
