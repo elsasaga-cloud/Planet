@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 110
+  "count": 119
  },
  "rows": {
   "SA-061": {
@@ -3502,6 +3502,295 @@
    ],
    "notes": "贴标 / 配套 30% small；一页纸一次（换切口）；坐实（IČO + 所有人）。",
    "code": "SB-444"
+  },
+  "SB-573": {
+   "batch": 110,
+   "name": "INTEGRA NETWORK AND EMBEDDED SYSTEMS SL（Sociedad limitada unipersonal；商号 Integra Network；integranetwork.es / 邮箱域 integra-nes.es；马德里 Rivas-Vaciamadrid C/ Fundición 4 Bis, Nave 57, 28522；CIF B84961267；RM Madrid hoja 425407）— 2007-01-22 成立的工业计算 / 嵌入式 / 工业网络方案商（分销 + 设计 + 制造；行业：工业 / 轨交 / 交通 / 电信 / AV / 国防；IEC 61850 机柜 PC、工业交换机）；原址 Velilla de San Antonio；KP Lola Lucena（lola.lucena@）；empresite 联系人 julian.clemente@；表内 4 次跟进无回复",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：empresite（Integra Network And Embedded Systems Sl；CIF B84961267；Sociedad limitada unipersonal；constitución 22-1-2007；julian.clemente@integra-nes.es；www.integranetwork.es）+ einforma（NIF B84961267；creada 22/01/2007；objeto servicio integral de análisis de sistemas y distribución comercial de material informático industrial；domicilio anterior Calle de la Siega 3 Velilla de San Antonio）+ iberinform（BORME 23/04/2024；C/ FUNDICION 4-BIS NAVE 57 RIVAS-VACIAMADRID）+ integranetwork.es（C/ Fundición Nº4 Bis Nave 57 28522；sectores industrial ferroviario tráfico telecomunicaciones audiovisual defensa；Switches industriales）",
+   "url": "https://www.iberinform.es/empresa/2274551/integra-network-and-embedded-systems",
+   "number": "CIF B84961267",
+   "status": "Activa",
+   "incorporated": "2007-01-22",
+   "company_type": "S.L.U.",
+   "sic": [
+    "工业计算 / 嵌入式 / 工业网络 分销 + 设计制造"
+   ],
+   "address": "C/ Fundición 4 Bis, Nave 57, 28522 Rivas-Vaciamadrid (Madrid)",
+   "accounts": "未取（小型）",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Lola Lucena — 研究档 KP（lola.lucena@integra-nes.es）= 收件人",
+    "Julián Clemente — 登记联系人（empresite；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**轨交 / 国防在列 → 守界：只做工业 / 能源 / 交通固定机柜线 → 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作「第二价位」；西语引子）；有回声再加厚**",
+    "收件人 Lola 直呼；发信窗口 Thu 12–14 CET；稿内不点名 Lantech / 不提 IEC 61850 / EN 50155"
+   ],
+   "notes": "分销 20% small；一页纸一次（仅工业线）；坐实（CIF + 地址）。",
+   "code": "SB-573"
+  },
+  "SB-576": {
+   "batch": 110,
+   "name": "MATRIX ELECTRONICA SL（Sociedad limitada unipersonal；matrix.es；马德里 Calle Alejandro Sánchez 109, 28019；CIF B79611794；RM Madrid）— 1990-10-18 成立（活动 1991）的工业电子 / IoT 元器件与模块分销商（面向开发者 / 集成商 / 制造商；**Flexitron 集团成员，Administrador único FLEXITRON SL；自有 IoT 品牌 Webdyn**；办事处 Madrid / Barcelona / Durango / Valencia / Sevilla + Lisboa / 法国 / 印度）；59–60 名雇员（2023–2025）；销售额区间 €6–30M；CNAE 2630；KP Daniel Cortes（info@）、Jose Miguel；表内 4 次跟进无回复",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：iberinform（MATRIX ELECTRONICA SL；CIF B79611794；CALLE ALEJANDRO SANCHEZ 109 28019 MADRID；CNAE 2630；marca MATRIX）+ informa（creación 18/10/1990；Entre 50 y 250 trabajadores；Ventas Entre 6 y 30 millones €；60 empleados 2025）+ empresia（59 empleados 2023；Administrador único FLEXITRON SL；auditor GROSCLAUDE & PARTNERS）+ datoscif（Propietario FLEXITRON SL）+ matrix.es/en/about-matrix（Matrix, part of Flexitron Group；since 1991；offices Madrid Barcelona Durango Valencia Seville Lisbon France India；Webdyn IoT brand）+ legal-notice（B79611794）",
+   "url": "https://www.iberinform.es/empresa/1059395/matrix-electronica",
+   "number": "CIF B79611794",
+   "status": "Activa",
+   "incorporated": "1990-10-18",
+   "company_type": "S.L.U.（FLEXITRON SL 全资）",
+   "sic": [
+    "工业电子 / IoT 元器件与模块 分销（CNAE 2630）"
+   ],
+   "address": "Calle Alejandro Sánchez 109, 28019 Madrid",
+   "accounts": "销售额 €6–30M 区间；60 人",
+   "accounts_due": "—",
+   "size_band": "中型（60 人）",
+   "officers": [
+    "Daniel Cortes — 研究档 KP（info@matrix.es）= 收件人",
+    "Jose Miguel — 研究档 KP",
+    "（集团）FLEXITRON SL — Administrador único / 所有人"
+   ],
+   "psc": "FLEXITRON SL（Flexitron Group）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**60 人、7 个办事处、Flexitron 集团的工业电子分销商（4 次无回）→ 分销 20%，B BIG，加厚一次（换切口：面向其集成商 / 制造商客户的工业 PoE 模块化配套 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + 可配 Webdyn 网关项目；西语引子）**；次候选升 A",
+    "收件人 Daniel 直呼；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次（换切口）；坐实（CIF + 规模 + 集团）。",
+   "code": "SB-576"
+  },
+  "SB-593": {
+   "batch": 110,
+   "name": "SMART TECH IBD GLOBAL SOLUTIONS S.L.U.（原名 IPTECNO VIDEOVIGILANCIA SL；商号 IBD Global / IPTecno；ibdglobal.com；巴塞罗那 Montornès del Vallès Calle del Besòs 12, Pol. Ind. Can Buscarons de Baix；原址 Granollers Pla Ramassar 52 Nave 19；CIF B63904445；RM Barcelona）— 2020-04 由 BC Diid 与 IPTecno 合并而成的伊比利亚安防分销集团（2021-05 吸收合并 DIID Logística、Distribución de Sistemas de Seguridad BC España、IPTecno Seguridad；「百余名雇员」、西 / 葡多地物流基地；IndigoVision / IntelexVision 等）；管理层 Ignacio Barandiarán、Ricardo Costa、Jordi Bassa（Administrador；= 研究档 KP）、Joan Ojeda（Administrador solidario）；表内 4 次跟进无回复",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：einforma（SMART TECH IBD GLOBAL SOLUTIONS SLU；NIF B63904445；Denominación Antigua IPTECNO VIDEOVIGILANCIA SL；RM Barcelona；objeto comercio de equipos y sistemas de seguridad）+ ibdglobal.com/aviso-legal（Titular SMART TECH IBD GLOBAL SOLUTIONS S.L.；NIF B63904445；Calle del Besos 12 Pol Ind Can Buscarons de Baix）+ BORME-C-2021-3504（fusión por absorción 15/05/2021；Joan Ojeda Flores Administrador Solidario；Jordi Bassa Jansana Administrador）+ cuadernosdeseguridad 2020-04（más de un centenar de empleados；España y Portugal）+ intelexvision 2026-04（leading European security distributor）",
+   "url": "https://www.einforma.com/informacion-empresa/iptecno-videovigilancia",
+   "number": "CIF B63904445",
+   "status": "Activa",
+   "incorporated": "—（IPTecno 前身；2020 合并）",
+   "company_type": "S.L.U.（IBD Global 集团）",
+   "sic": [
+    "安防解决方案 分销（西 / 葡；100+ 人）"
+   ],
+   "address": "Calle del Besòs 12, Pol. Ind. Can Buscarons de Baix, Montornès del Vallès (Barcelona)",
+   "accounts": "未取（100+ 人）",
+   "accounts_due": "—",
+   "size_band": "中型（100+ 人）",
+   "officers": [
+    "Jordi Bassa Jansana — Administrador（BORME 2021；研究档 KP jordi@iptecno.com）= 拍板人 / 收件人",
+    "Joan Ojeda Flores — Administrador solidario（BORME 2021）",
+    "Ignacio Barandiarán — 管理层（BC Diid 方）",
+    "Ricardo Costa — 管理层（葡萄牙方）",
+    "Joan Balaguer — 研究档 KP"
+   ],
+   "psc": "未取（合并集团）",
+   "charges": "",
+   "prev_names": [
+    "IPTECNO VIDEOVIGILANCIA SL"
+   ],
+   "lines": [
+    "**伊比利亚 100+ 人安防分销集团、KP 即 Administrador（4 次无回）→ 分销 20%，B BIG，加厚一次（换切口：项目型安防分销的「工程配套 PoE」线：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP；西 / 葡两国 DAP）**；**回信即 A 候选**",
+    "收件人 Jordi 直呼；发信窗口 Thu 12–14 CET；加泰 / 西语一句引子；稿内不点名 IndigoVision"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次（换切口）；回信即 A；坐实（CIF + BORME 合并）。",
+   "code": "SB-593"
+  },
+  "SB-601": {
+   "batch": 110,
+   "name": "OPTIVISUS, LDA（商号 Visus / OptiVisus；原名 CENTRO DE OPTOMETRIA OPTIVISUS, LDA；visus.pt；里斯本 Rua Capitão Ramires 17-A, R/C Esq., 1000-084（联系地址 Rua Oscar Monteiro Torres 4, 1000-219 Lisboa）；NIPC 502 752 980）— 1991-01 成立（业务 1989；90 年代葡萄牙最大 BBS 起家）的 CCTV-IP / 网络 / 电信设备进口分销商（只经合作伙伴网络销售；Vivotek / DrayTek 等）；CAE 46660；KP Rui Jorge（rjorge@）；表内 4 次跟进无回复",
+   "iso": "PT",
+   "fetched": "2026-10-28",
+   "source": "PT · 1 次检索：visus.pt/politica-de-privacidade（OptiVisus, Lda.；mercado das TIC desde 1989；sede Rua Capitão Ramires 17-A R/C Esq. 1000-084 Lisboa；NIPC 502 752 980）+ einforma.pt（OPTIVISUS, LDA ATIVA；designação anterior CENTRO DE OPTOMETRIA OPTIVISUS LDA；CAE 46660；constituição janeiro 1991）+ visus.pt/sobre-nos（importação distribuição CCTV-IP Networking；Visus BBS）+ visus.pt/onde-comprar（não vende ao público；rede de parceiros）+ contactos（Oscar Monteiro Torres 4）",
+   "url": "https://www.einforma.pt/servlet/app/portal/ENTP/prod/ETIQUETA_EMPRESA_SITE/nif/502752980/website/www.visus.pt/",
+   "number": "NIPC 502 752 980",
+   "status": "Ativa",
+   "incorporated": "1991-01",
+   "company_type": "Lda.（私有）",
+   "sic": [
+    "CCTV-IP / 网络 / 电信设备 进口分销（CAE 46660）"
+   ],
+   "address": "Rua Capitão Ramires 17-A, R/C Esq., 1000-084 Lisboa",
+   "accounts": "未取（小型）",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Rui Jorge — 研究档 KP（rjorge@visus.pt）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "CENTRO DE OPTOMETRIA OPTIVISUS, LDA"
+   ],
+   "lines": [
+    "**里斯本老牌 CCTV / 网络分销商（只走经销网络；4 次无回）→ 分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP / STC-2224GP 配 IP 摄像机套件 + 葡语引子 + 葡萄牙 DAP）；有回声再加厚**",
+    "收件人 Rui 直呼；发信窗口 Thu 12–14 WET；稿内不点名 Vivotek / DrayTek"
+   ],
+   "notes": "分销 20% small；一页纸一次（换切口）；坐实（NIPC + 官网）。",
+   "code": "SB-601"
+  },
+  "SB-644": {
+   "batch": 110,
+   "name": "A.K. ART 2 SOFT LIMITED（商号 ART2SOFT / cy-wireless.com；art2soft.eu；尼科西亚 Lakatameia：登记处 Kapadokias 8A, Kato Lakatamia 2325；办公 Leoforos Archiepiskopou Makariou III 28, 2324；HE 147954）— 2004-04-30 注册（业务 2006 起）的塞浦路斯网络 / 无线 / VoIP 分销商（Ubiquiti / MikroTik / Ruijie / TP-Link Business / RF Elements / Yeastar / Fanvil 官方分销；「500+ 经销商」；NACE 4650）；董事 Thomas Thoma（Θωμάς Θωμά；Managing Director；= 研究档 KP）、Janet Bergeman Thomas（董事 / 秘书）；登记状态「Reminder letter sent」（年报 2020 后待补）；表内 4 次跟进无回复",
+   "iso": "CY",
+   "fetched": "2026-10-28",
+   "source": "CY · 1 次检索：cyprusregistry.com（A.K. ART 2 SOFT LIMITED；HE 147954；Private；Registration 30/04/04；Active；ΘΩΜΑΣ ΘΩΜΑ Director；JANET BERGEMAN THOMAS Director / Secretary）+ companiesregistry.cy（status Reminder letter sent；Καπαδοκίας 8Α Κάτω Λακατάμια）+ i-cyprus（Annual Return 20/12/2020）+ findbiz.gr（NACE 4650；Thomas Thoma；info@art2soft.eu）+ art2soft.eu（founded 2006；Ubiquiti；Leoforos Archiepiskopou Makariou III 28 Lakatameia 2324）+ facebook / youtube（Official Distributors Ubiquiti MikroTik Ruijie TP-Link Business Yeastar Fanvil）",
+   "url": "https://cyprusregistry.com/companies/HE/147954",
+   "number": "HE 147954",
+   "status": "Active（Reminder letter sent）",
+   "incorporated": "2004-04-30（业务 2006）",
+   "company_type": "Private Limited（Thoma 夫妇）",
+   "sic": [
+    "网络 / 无线 / VoIP 分销（塞浦路斯）"
+   ],
+   "address": "Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia（登记 Kapadokias 8A, Kato Lakatamia 2325）",
+   "accounts": "未取",
+   "accounts_due": "年报 2020 后待补",
+   "size_band": "小型",
+   "officers": [
+    "Thomas Thoma — Director / Managing Director（研究档 KP thomas.thoma@art2soft.eu）= 拍板人 / 收件人",
+    "Janet Bergeman Thomas — Director / Secretary"
+   ],
+   "psc": "Thomas Thoma + Janet Bergeman Thomas（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**塞浦路斯 MikroTik / Ubiquiti 系分销商（500+ 经销商；4 次无回）→ 分销 20% small，一页纸一次（换切口：MikroTik / TP-Link 价位带之间的 PoE 第二货源 STC-028GP / STC-228GP / STC-2224GP + 塞浦路斯 DAP 小起订）；有回声再加厚**",
+    "收件人 Thomas 直呼；发信窗口 Thu 12–14 EET；希腊语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次（换切口）；坐实（HE 号 + 董事）。",
+   "code": "SB-644"
+  },
+  "SB-832": {
+   "batch": 110,
+   "name": "Alidex Iberia（alidex.es；「Sedes en España e Italia」）— **= SB-417 ALIDEX NETWORKS S.R.L.（P.IVA 10924650962，Codogno）的西班牙站 / 品牌**；1 次检索未找到独立西班牙法人（alidex.es 无 aviso legal CIF；研究档出现的 garmasl.com = Garma Electrónica, S.L. CIF B20178372 San Sebastián 为无关电子分销商）；仅 info@alidex.es；表内未跟进",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：alidex.es/fabricantes（Alidex Iberia；Distribuidor de Soluciones Tecnológicas en el Sur Europa；Sedes en España e Italia；ORing）+ alidex.it 页脚（ALIDEX NETWORKS SRL P. IVA IT10924650962）+ garmasl.com/aviso-legal（Garma Electrónica, S.L. CIF B20178372 Donostia ≠ Alidex）；无西班牙 CIF",
+   "url": "https://www.alidex.es/fabricantes",
+   "number": "—（无独立西班牙法人；母体 P.IVA 10924650962 见 SB-417）",
+   "status": "并线 SB-417",
+   "incorporated": "—",
+   "company_type": "品牌 / 网站（意大利法人）",
+   "sic": [
+    "工业网络产品 分销（南欧；= SB-417）"
+   ],
+   "address": "—（西班牙站；法人在 Codogno (LO), Italy）",
+   "accounts": "见 SB-417",
+   "accounts_due": "—",
+   "size_band": "见 SB-417",
+   "officers": [
+    "（未具名）— info@alidex.es（= SB-417 同一业务）"
+   ],
+   "psc": "见 SB-417",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**与 SB-417 同一家 1 人分销商的西班牙站 → 并线 SB-417，不另发**"
+   ],
+   "notes": "部分坐实（无独立法人）→ 并线 SB-417。",
+   "code": "SB-832"
+  },
+  "SB-950": {
+   "batch": 110,
+   "name": "Linenet LLC（შპს；line-net.ge；第比利斯 法定 Tamar Mepe Ave. 13, Apt. 3, 0112 Didube-Chugureti；办公 Bakhtrioni str. 30, 0194 Vake-Saburtalo；识别码 / VAT 404486757）— 2015-02-05 在 NAPR 注册的网络 / 安防 / 消防系统设计与安装商（计算机网络设计安装、视频监控、门禁、火灾报警、电气工程）；KP Giorgi Beselia（giorgi@；WhatsApp 20 次未回）；表内「比较杂」",
+   "iso": "GE",
+   "fetched": "2026-10-28",
+   "source": "GE · 1 次检索：bia.ge/en/Company/95980（Linenet；LLC；VAT Number 404486757；Registration Date 05/02/2015；LEPL National Agency of Public Registry；Legal Address 0112 Tbilisi Tamar Mepe Ave. 13 Apt. 3；Status Operating；office 0194 Bakhtrioni str. 30；products video surveillance and security systems；fire-alarm installation；computer networks projection and installation；https://www.line-net.ge）",
+   "url": "https://www.bia.ge/en/Company/95980",
+   "number": "识别码 404486757",
+   "status": "Operating",
+   "incorporated": "2015-02-05",
+   "company_type": "LLC（შპს）",
+   "sic": [
+    "网络 / 安防 / 消防 系统设计与安装"
+   ],
+   "address": "Tamar Mepe Ave. 13, Apt. 3, 0112 Tbilisi（办公 Bakhtrioni str. 30, 0194）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "Giorgi Beselia — 研究档 KP（giorgi@line-net.ge；WhatsApp 20 次未回）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安装商、WhatsApp 20 次 0 回复 → 已触达无回 → 不动（B 保留；主动询盘则预付款）**"
+   ],
+   "notes": "坐实（识别码 + NAPR 日期）；多次 0 回复 → 不动。",
+   "code": "SB-950"
+  },
+  "SB-259": {
+   "batch": 110,
+   "name": "Dourte SRL / BV（商号 Dourte Elektriciteit；dourte.be；佛兰芒布拉班特 Sint-Pieters-Leeuw (Ruisbroek) Buitenplas 1 bus 15, 1601；BE 0684.917.295）— 2017-11-16 注册（LinkedIn 称 2010 起；原 Lembeek）的电气 + 安防安装商（电气、CCTV、门禁、火灾探测；Nacebel 43211）；10.2 FTE（2025，自 2022 的 6.3 稳步增长）；2025 毛利 €598k、净利 €8.5k（2023–2024 亏损）；创办人 Sébastien Dourte（研究档）；研究档无 KP 邮箱；表内未跟进",
+   "iso": "BE",
+   "fetched": "2026-10-28",
+   "source": "BE · 1 次确认检索：companyweb（Dourte SRL；BE0684917295；Established 22-11-2017；Small 10,2 FTE 2025；Commercial name Dourte Elektriciteit；Gross margin € 598,414 2025；Profit € 8,499；Employees 10.2 / 8.3 / 7.3 / 6.3）+ trendstop（BE 0684.917.295；Buitenplas 1 Boîte 15 1601 RUISBROEK；16-11-17；Nacebel 43211 Travaux d’installation électrotechnique）+ LinkedIn（Security Systems Services；11–50；Lembeek；Founded 2010；CCTV ACCESS CONTROL FIRE DETECTION）",
+   "url": "https://www.companyweb.be/en/0684917295/dourte",
+   "number": "BE 0684.917.295",
+   "status": "Actief",
+   "incorporated": "2017-11-16（业务 2010）",
+   "company_type": "SRL / BV（私有）",
+   "sic": [
+    "电气 + 安防 安装（Nacebel 43211）"
+   ],
+   "address": "Buitenplas 1 bus 15, 1601 Ruisbroek (Sint-Pieters-Leeuw)",
+   "accounts": "2025 毛利 €598,414；净利 €8,499；10.2 FTE",
+   "accounts_due": "—",
+   "size_band": "小型（10 FTE）",
+   "officers": [
+    "Sébastien Dourte — 创办人 / Gérant（研究档；邮箱未取）= 拍板人",
+    "收件人 info@dourte.be（推定；待核）"
+   ],
+   "psc": "Sébastien Dourte（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**10 人电气 + 安防安装商（增长中）→ 集成 25% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 配 CCTV / 门禁 + MOQ 1；法 / 荷双语一句引子）；再无回声 → 不动**",
+    "收件人 info@（Sébastien 抬头）；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "集成 25% small；一页纸一次；坐实（BE 号 + 财务）。",
+   "code": "SB-259"
+  },
+  "SB-075": {
+   "batch": 110,
+   "name": "ΓΕΜΚΑ – Καρύδη Αφοί Ο.Ε.（GEMKA – Karydis Bros O.E.；商号 ΓΕ.Μ.ΚΑ；gmka.gr；雅典 Αιγάλεω Αγ. Παντελεήμονος 8, 12241；Ομόρρυθμη Εταιρεία 普通合伙）— 1928 年创立（50 年代起专营钥匙 / 锁具进口，2009 迁至 Egaleo）的钥匙 / 锁具 / 电子锁 / 保险柜 / 门禁进口批发商；2–10 人；**ΑΦΜ / ΓΕΜΗ 未确认**（11888.gr 列「GEMKA - ΚΑΡΥΔΗΣ」ΑΦΜ 094019245 / ΓΕΜΗ 001037501000 但地址为 Μαρούσι Κηφισίας 99 → 待证）；KP Christos Karydis（info@）；表内未跟进",
+   "iso": "GR",
+   "fetched": "2026-10-28",
+   "source": "GR · 1 次检索（规则：锁具非目标 1 查即停）：findbiz.gr（GEMKA ΑΦΟΙ ΚΑΡΥΔΗ Ο.Ε.；Εισαγωγές και χονδρικό εμπόριο κλειδιών και κλειδαριών；Αγ. Παντελεήμονος 8 12241 Αιγάλεω；Νομική Μορφή Ομόρρυθμη Εταιρεία）+ gmka.gr/el/06（ιστορία 1928；2009 μετεγκατάσταση Αιγάλεω）+ LinkedIn（Founded 1928；2–10）+ 11888.gr（GEMKA - ΚΑΡΥΔΗΣ；ΑΦΜ 094019245；ΓΕΜΗ 001037501000；Κηφισίας 99 Μαρούσι → 地址不符，待证）",
+   "url": "https://findbiz.gr/el/company/gemka-karydis-bros-oe/601000075299",
+   "number": "ΑΦΜ 094019245 / ΓΕΜΗ 001037501000（11888.gr；地址不符 → 待证）",
+   "status": "Active（部分坐实）",
+   "incorporated": "1928（Ο.Ε. 登记日期未取）",
+   "company_type": "Ο.Ε.（Karydis 家族合伙）",
+   "sic": [
+    "钥匙 / 锁具 / 门禁 进口批发（非目标）"
+   ],
+   "address": "Αγ. Παντελεήμονος 8, 12241 Αιγάλεω (Αττική)",
+   "accounts": "—（2–10 人）",
+   "accounts_due": "—",
+   "size_band": "小微（2–10 人）",
+   "officers": [
+    "Christos Karydis — 合伙人（研究档 KP；info@gmka.gr）"
+   ],
+   "psc": "Karydis 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**百年锁具批发商（门禁仅为副线）→ 非目标行业 → 不动**"
+   ],
+   "notes": "部分坐实（ΑΦΜ 待证）；非目标 → 不动。",
+   "code": "SB-075"
   }
  }
 }

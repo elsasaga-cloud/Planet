@@ -4,7 +4,7 @@
   "source": "Lithuania · Registrų centras / Sodra 公开数据（rekvizitai.vz.lt）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 7
+  "count": 9
  },
  "rows": {
   "SB-789": {
@@ -235,6 +235,66 @@
    ],
    "notes": "分销 20%；B BIG；加厚一次（换切口）；坐实（kodas + 财务 + 人数）。",
    "code": "SB-195"
+  },
+  "SB-481": {
+   "batch": 110,
+   "name": "Itegra, MB（mažoji bendrija 小型合伙；itegra.lt；考纳斯 Partizanų g. 21B-11, LT-49478）— rekvizitai.lt 目录：电气安装、楼宇安防系统、电信 / 通信设备、视频监控（微型安装商）；**įmonės kodas 未取**（检索结果仅目录条目）；研究档无 KP、国家误写「意大利」（entities iso LT 正确）；表内未跟进",
+   "iso": "LT",
+   "fetched": "2026-10-28",
+   "source": "LT · 1 次检索：rekvizitai.vz.lt 搜索页「it darbai」条目（Itegra, MB；Partizanų g. 21B-11, LT-49478 Kaunas；Veiklos sritys: elektros instaliacijos darbai; apsaugos sistemos patalpoms; telekomunikacijos, ryšio priemonės; vaizdo stebėjimo sistemos）；未进入详情页 → 代码未取（1 查即停）",
+   "url": "https://rekvizitai.vz.lt/paieskos-frazes/it+darbai/",
+   "number": "—（MB；代码未取）",
+   "status": "部分坐实",
+   "incorporated": "—",
+   "company_type": "MB（小型合伙）",
+   "sic": [
+    "电气 / 安防 / 监控 安装（微型）"
+   ],
+   "address": "Partizanų g. 21B-11, LT-49478 Kaunas",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "（未具名）— 研究档无 KP"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**考纳斯微型安装合伙（无 KP、无回声史）→ 不动**"
+   ],
+   "notes": "部分坐实（目录条目）；微型无 KP → 不动。",
+   "code": "SB-481"
+  },
+  "SB-491": {
+   "batch": 110,
+   "name": "Rass-security systems（raskpreke.lt 网店「Rask Prekę」；维尔纽斯 Panerių g. 64, LT-03160；įmonės kodas 305706724；PVM LT100013849613）— 安防系统网店（法人形式 MB / UAB 未取；代码段提示 ≈2021 成立）；研究档无 KP、国家误写「意大利」（entities iso LT 正确）；表内未跟进",
+   "iso": "LT",
+   "fetched": "2026-10-28",
+   "source": "LT · 1 次检索：raskpreke.lt/en/privacy-policy-2（E-shop Rass-security systems；Company code 305706724；VAT number LT100013849613；Panerių g. 64 LT-03160 Vilnius；info@raskpreke.lt）；rekvizitai 详情未进入（1 查即停）",
+   "url": "https://www.raskpreke.lt/en/privacy-policy-2",
+   "number": "Įmonės kodas 305706724；PVM LT100013849613",
+   "status": "部分坐实（法人形式未取）",
+   "incorporated": "≈2021（代码段推定）",
+   "company_type": "MB / UAB（未取）",
+   "sic": [
+    "安防系统 网店"
+   ],
+   "address": "Panerių g. 64, LT-03160 Vilnius",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "（未具名）— 研究档无 KP；info@raskpreke.lt"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型安防网店（无 KP）→ 按「一人网店」规则 不动**"
+   ],
+   "notes": "部分坐实（网站代码）；微型网店 → 不动。",
+   "code": "SB-491"
   }
  }
 }

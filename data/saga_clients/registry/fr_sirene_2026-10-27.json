@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 11
+  "count": 13
  },
  "rows": {
   "SA-011": {
@@ -371,6 +371,70 @@
    ],
    "notes": "分销 20% small；一页纸一次；坐实（SIREN + 官员更新）。",
    "code": "SB-439"
+  },
+  "SB-021": {
+   "batch": 110,
+   "name": "星通資訊股份有限公司 Loop Telecommunication International, Inc.（looptelecom.com；台湾新竹科学园区新安路 8 号 6–7 楼 300092；統一編號 22099863；TWSE 3025「星通」，2001-02-01 上市）— 1991-12-03 成立的电信 / 工业以太网设备**制造商**（SDH / PDH / 工业交换机 / 路由器；董事长兼总经理葉茂林 Yeh Maw-Lin；资本总额 NT$1.28bn、实收 NT$567M）；研究档 KP Eric Piaget = 法国 Vaucresson 的外部顾问（EPA-Technologies SAS CEO，「Consultant chez Loop Telecom」，WhatsApp +33）→ 表内 FR 实为其欧洲销售顾问所在地；Henri Hovine 亦为欧洲销售代表；表内未跟进",
+   "iso": "TW（表内 FR = 欧洲顾问所在地）",
+   "fetched": "2026-10-28",
+   "source": "TW · 1 次检索（规则：同行制造商 1 查即停）：twincn（星通資訊股份有限公司；統一編號 22099863；上市 3025；代表人 葉茂林；新竹科學園區新安路8號7樓；原始登記 19920421）+ info.technews（核准設立 1991-12-03；資本總額 1,280,000,000；實收 567,364,400；www.looptelecom.com）+ 2023 Annual Report（Chairman / President Yeh Maw-Lin；Establishment December 3 1991；6F No.8 Xin’an Road）+ LinkedIn Loop Telecom International（Eric PIAGET eric-piaget@looptelecom.com；Henri Hovine）+ Eric Piaget LinkedIn（CEO EPA-Technologies SAS；Consultant chez Loop Telecom；Vaucresson）",
+   "url": "https://twincn.com/item.aspx?no=22099863",
+   "number": "統一編號 22099863；TWSE 3025",
+   "status": "營業中（上市）",
+   "incorporated": "1991-12-03",
+   "company_type": "股份有限公司（上市）",
+   "sic": [
+    "电信 / 工业以太网设备 制造（同行）"
+   ],
+   "address": "7F, No. 8, Xin’an Rd., Hsinchu Science Park, Hsinchu 300092, Taiwan",
+   "accounts": "实收资本 NT$567M（上市公司年报公开）",
+   "accounts_due": "—",
+   "size_band": "中型（上市制造商）",
+   "officers": [
+    "葉茂林 Yeh Maw-Lin — Chairman / President",
+    "Eric Piaget — 外部顾问 / 欧洲销售（研究档 KP；EPA-Technologies SAS，法国）",
+    "Henri Hovine — 欧洲销售代表（LinkedIn）"
+   ],
+   "psc": "上市公司",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**台湾上市的同行交换机制造商（KP 只是其法国销售顾问）→ 同行 → 不动（不进任何发送包；不 country_fix，仅注明）**"
+   ],
+   "notes": "坐实（統編 + 上市代码）；同行制造商 → 不动。",
+   "code": "SB-021"
+  },
+  "SB-155": {
+   "batch": 110,
+   "name": "JguyTech（表内名；Gmail jyguibreteau@gmail.com；研究档推断 J.-Y. Guibreteau；曾下 1 笔样品单 OM4301）— 1 次检索未找到任何「JguyTech」法人；**可能线索（未证）**：Jean-Yves Guibreteau（1986 年 5 月生）自 2025-02-10 起任 CG SYSTEMES SAS（SIREN 939 650 495）Directeur général（pappers）；同姓 GUIBRETEAU SCCV 837 855 048（房地产，已注销）/ Gregory Guibreteau ≠；研究档出现 faiveleytransport.com（轨交供应商）域名 → 若属实为轨交背景（守界）",
+   "iso": "FR",
+   "fetched": "2026-10-28",
+   "source": "FR · 1 次检索（规则：Gmail 联系人 1 查即停）：pappers CG SYSTEMES 939650495（GUIBRETEAU Jean-Yves Directeur général 40 ans 05/1986 depuis le 10/02/2025；CHAPERON Pierre-Antoine Président）+ societe.com GUIBRETEAU 837855048（SCCV 4110D Vertou ≠）→ 未坐实",
+   "url": "https://www.pappers.fr/entreprise/cg-systemes-939650495",
+   "number": "—（未找到；可能 CG SYSTEMES SIREN 939 650 495 待证）",
+   "status": "未坐实",
+   "incorporated": "—",
+   "company_type": "个人 / 未知",
+   "sic": [
+    "未知（Gmail 联系人；1 笔样品单）"
+   ],
+   "address": "法国（未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "J.-Y. Guibreteau（推断）— 研究档 KP（jyguibreteau@gmail.com）",
+    "Jean-Yves Guibreteau — CG SYSTEMES SAS DG（2025-02 起；是否同一人待证）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Gmail 个人、查无实体、曾买 1 件样品 → 不动（B 保留；再询盘走 Shopify 零售价 / 预付款）**",
+    "若回信自报 CG Systèmes → 补证后按集成 25% small 一页纸"
+   ],
+   "notes": "未坐实（1 查即停）→ 不动；可能线索 CG SYSTEMES 待证。",
+   "code": "SB-155"
   }
  }
 }
