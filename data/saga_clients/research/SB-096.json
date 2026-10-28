@@ -40,7 +40,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 ovisscctv.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 ovisscctv.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 112 批：研究档国别 CA 有误 → 美国加州 → **country_fix US**；湾区商用监控托管安装商 / 品牌（11–50 人）→ **贴标 30% small，一页纸一次（OVISS 标 STC-028GP / STC-228GP / STC-2224GP 配托管摄像机系统 + 中性包装 + FCC + 小 MOQ；hello@ 一问采购 / 运营负责人）**（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Oviss Labs Inc.（商号 OVISS CCTV；46259 Warm Springs Blvd, Fremont, CA 94539, USA；CA SoS 号未取）",
+  "founded": "2004（业务）（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "CCTV 与配套 PoE（自有品牌）"
@@ -124,5 +126,6 @@
    "body": "Hello OVISS team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches you bundle under your own label with camera systems, in your packaging from small lots, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); budget unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $27.2; 16 x Gigabit PoE+ + 2 x SFP, L2 managed - STC-2216GPM - $153.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which port count do your installers order most with the cameras - 8 or 16?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "美国"
 }

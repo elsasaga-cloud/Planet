@@ -44,6 +44,12 @@
    "email": "marlex@marlexconexion.com",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "Joan Albert Torras Madolell",
+   "role": "Administrador único / 业主（empresia / iberinform）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.empresia.es/"
   }
  ],
  "grade_override": null,
@@ -55,7 +61,9 @@
  },
  "company_facts": {
   "hq": "西班牙",
-  "other": "官网 marlexconexion.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "other": "官网 marlexconexion.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述；第 112 批：巴塞罗那微型网络分销（2 人）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 一口价 + MOQ 1）**（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "MARLEX CONEXION SL（CIF B65398588；Barcelona；2 人；≈€0.5M）",
+  "founded": "≈2010（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "连接 / 网络产品分销（西班牙）"

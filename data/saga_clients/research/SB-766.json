@@ -46,14 +46,16 @@
    "title": "President",
    "email": "joe.troiano@invidtech.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President（SAM / GSA 联系人；joe.troiano@）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Matt Troiano",
    "title": "Director of Sales",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director of Sales = 抄（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -65,7 +67,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 invidtech.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 invidtech.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 112 批：研究档国别 CA 有误 → 美国纽约州 → **country_fix US**；北美安防品牌（商用 PoE 现由深圳同行供货）→ **贴标 OEM 30%，加厚 small 一次（InVid 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 第二代工源 + 中性包装 / 自编货号 + FCC + 小 MOQ；Joe 直呼）**；守界：持 GSA 合同，稿内绝不提政府 / NDAA / TAA / GSA；不点名 Centro（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "INNOVATIVE VIDEO TECHNOLOGY, INC.（dba InVid Tech；SAM UEI C15VFM1N1VS6 / CAGE 8N8G4；355 Oser Avenue, Hauppauge, NY 11788, USA；GSA 47QTCA25D004R；NY DOS 号未取）",
+  "founded": "2016（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "AI 安防摄像机 / NVR / 云存储（自有品牌）",
@@ -150,5 +154,6 @@
    "body": "Hi Joe,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 21 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the InVid-branded PoE switches that ship with your camera and NVR lines (Centro-built today), a second ODM source in your housing from small lots, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. Web GUI with the InVid logo; colour box from 200 sets.\n\nOne question: which size would you dual-source first - the 8-port in the kits, or the 24-port for larger sites?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "美国"
 }

@@ -53,7 +53,8 @@
    "title": "President",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President（inaxsys.com 2024 新闻；ex-Paradox / ADT）— Q-33 不跟（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -65,7 +66,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 inaxsys.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 inaxsys.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 112 批：蒙特利尔安防品牌 / 分销；**交换机现由洪瑞（HRUI）代工贴标 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价）**（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Inaxsys Security Systems Inc.（11685 Avenue Philippe-Panneton, Montréal, QC H1E 4M1；NEQ 未取；22–24 人；Ajax 加拿大首家官方分销 2022）",
+  "founded": "2004（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防系统（自有品牌摄像机 / VMS / 录像机 / 电源）",

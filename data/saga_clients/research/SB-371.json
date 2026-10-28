@@ -43,7 +43,8 @@
    "title": "（职务待核）",
    "email": "clindquist@wirewerks.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Wirewerks 研究档 KP（职务待核）= 收件人，一问产品经理（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +56,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 wirewerks.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 wirewerks.com，语言 en，快照状态 ok；角色判定来源：用户表；第 112 批：蒙特利尔结构化布线制造商（自有标 MC 副线、有人转售）→ **贴标 / 配套 30% B BIG，加厚一次（Wirewerks 标 MC / 交换机 STC-028GP / STC-228GP / STC-2224GP / STI-054GP / STI-144GP 作布线系统有源端 + 中性包装 / 自编货号 + 加拿大 DAP；英 / 法文，Carl 直呼）**；升 A 候选（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Wirewerks（法定名 / NEQ 未取；19144 Cruickshank Avenue, Baie-d'Urfé, QC H9X 3P1；1991；估 44 人 / $24.4M）",
+  "founded": "1991（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "结构化布线（铜缆 / 光纤 / 数据中心 / 宽带）"

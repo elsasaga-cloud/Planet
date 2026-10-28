@@ -43,7 +43,14 @@
    "title": "Network Specialist - Fiber optics, PSTN, CATV",
    "email": "sales@gaotek.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Network Specialist（研究档 KP Ashish Prakash；sales@gaotek.com 2025-06-26 退信 → 改经 sales@gaorfid.com / 站内表单）（第 112 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Frank Gao",
+   "role": "Founder & CEO, Ph.D.（LinkedIn；GAO Tek Inc. 2005–）= 拍板人（邮箱未取）（第 112 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://gaotek.com/about-us/"
   }
  ],
  "grade_override": null,
@@ -55,7 +62,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 gaotek.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 gaotek.com，语言 en，快照状态 ok；角色判定来源：用户表；第 112 批：B2B 技术目录供应 / 贴牌平台（自有 logo MC / PoE；sales@ 退信）→ **贴标 30% small，一页纸一次（GAO 标 STC-028GP / STI-054GP 第二代工源 + 中性包装；经 sales@gaorfid.com 或站内表单一问采购）**；平台型低优先（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "GAO Tek Inc.（GAO Group；1885 Clements Rd, Suites 215-218, Pickering, ON L1W 3V4 + 244 Fifth Avenue Suite A31, New York；登记号未取；员工数各源 1–50 ↔ 自报数千）",
+  "founded": "2005（GAO Tek；集团 1992）（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IoT 硬件 / 测试仪器目录销售",

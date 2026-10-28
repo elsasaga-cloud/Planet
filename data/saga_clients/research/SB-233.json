@@ -45,14 +45,16 @@
    "title": "President",
    "email": "john@avycon.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President（john@avycon.com）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Jorge D",
    "title": "Technical Support Team Manager",
    "email": "info@avycon.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Technical Support Team Manager（Jorge Del Valle；zoominfo）= 抄（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -64,7 +66,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 avycon.com，语言 en，快照状态 ok；角色判定来源：待核"
+  "other": "官网 avycon.com，语言 en，快照状态 ok；角色判定来源：待核；第 112 批：研究档国别 CA 有误 → 美国加州 → **country_fix US**；北美视频监控品牌（190+ 款含网络产品）→ **贴标 OEM 30%，加厚 small 一次（AVYCON 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 第二代工源 + 中性包装 / 自编货号 + FCC + 小 MOQ；John 直呼）**；稿内绝不提 NDAA / TAA（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "AVYCON（法定名待取 Avycon Inc.；16682 Millikan Ave., Irvine, CA 92606, USA；CA SoS 号未取；17–50 人；估 $6.1M）",
+  "founded": "2012（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防摄像机 / 录像机 / PoE（自有品牌 AVYCON）"
@@ -147,5 +151,6 @@
    "body": "Hi John,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 7 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the AVYCON-branded PoE switches sold with your cameras and recorders (ONV-built today), a second ODM source in your packaging from small lots, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; industrial DIN-rail 8 x PoE+ + 2 x SFP, unmanaged, -40 to 75 C - STI-288GP - $62.2.\n\nOne question: which PoE SKU do your dealers reorder most - that is the one worth a side-by-side with the ONV unit?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "美国"
 }

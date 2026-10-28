@@ -46,14 +46,16 @@
    "title": "President",
    "email": "wassim.mekkaoui@ecin.ca",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President / CEO（2015–；LinkedIn / businesswire）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Hassan Khanafer",
    "title": "CTO",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CTO（theorg）= 技术抄（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -65,7 +67,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 ecin.ca，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 ecin.ca，语言 en-US，快照状态 ok；角色判定来源：用户表；第 112 批：蒙特利尔开放网络 / 数据中心系统集成 + 分销（SONiC 白盒、光模块、TAP、时钟；120 站点边缘案例）→ **集成 / 分销 20–25% B BIG，加厚一次，CENTEC 敲门砖（STH-2C24XF-HSI / STH-8C48DX-HSI / STH-32C-HSI 作边缘 / 汇聚固定配置 L3 第二来源 + STI 副线；Wassim 直呼 + Hassan 抄，一问是否愿评估付费样机）**；升 A 候选；守界：稿内不声称 SONiC / ONIE 兼容（未验证），不点名 Utepo；旁线索 NoviFlow（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "E.C.I. Networks Inc.（ECI Networks；1405 Trans Canada Route, Dorval, QC H9P 2V9（总部 Rigaud, QC）；NEQ 未取；18 人；2024-10 收购 NoviFlow）",
+  "founded": "1998（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "开放网络（SONiC 交换机 / 光模块 / TAP）集成",

@@ -36,7 +36,8 @@
    "title": "President & Co-Founder",
    "email": "stephen@mosonetworks.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "President & CEO / Co-Founder（prnewswire 2025-02；ex-Sercomm / ARRIS）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -48,7 +49,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 mosonetworks.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "other": "官网 mosonetworks.com，语言 ?，快照状态 ok；角色判定来源：待核；第 112 批：研究档国别 CA 有误 → 美国加州 → **country_fix US**；私有 5G / CBRS 小基站设备商（自有品牌、全靠 PoE 供电）→ **贴标 / 配套 30% small，一页纸一次（Moso 标或中性 PoE+ / PoE++ STC-228GP / STC-2224GP / STI-288GPM 配套供电 + FCC + 中性包装；Stephen 直呼）**；稿内绝不提 TAA / 政府 / 运营商名（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Moso Networks（原 MosoLabs；法定名待取 MosoLabs Inc.；2108 N St #9184, Sacramento, CA 95816, USA；CA SoS 号未取）",
+  "founded": "未取（2025-02 更名）（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络 / Wi-Fi 方案（加拿大）"
@@ -120,5 +123,6 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "美国"
 }

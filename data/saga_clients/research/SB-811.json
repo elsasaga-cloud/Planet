@@ -50,6 +50,12 @@
    "email": "esoft@esoft.fi",
    "phone": "",
    "source": "https://www.esoft.fi/"
+  },
+  {
+   "name": "Erno T.",
+   "role": "Tmi 业主（eSoft Tmi Erno T.；finder.fi）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.finder.fi/"
   }
  ],
  "grade_override": null,
@@ -60,11 +66,11 @@
   "level": "B 级加厚 v1（官网快照品牌识别：已售 HRUI）"
  },
  "company_facts": {
-  "legal_name": "（待核，eSoft Oy？）",
-  "founded": "（待核）",
+  "legal_name": "eSoft Tmi Erno T.（Y-tunnus 1962756-7；toiminimi；在售 PLANET + HRUI）",
+  "founded": "2009-10-30（第 112 批 官方登记核实 2026-10-28）",
   "hq": "芬兰",
   "size": "小型网店",
-  "other": "芬兰语站；PoE 全品类（含 Saga 价目缺口的注入器/分离器/COAX/SFP）"
+  "other": "芬兰语站；PoE 全品类（含 Saga 价目缺口的注入器/分离器/COAX/SFP）；第 112 批：芬兰一人 PoE 专精网店（已售同类 PoE）→ **分销 20% small，一页纸一次（一人网店例外：PoE 专精；STC-028GP / STC-228GP / STC-2224GP 一口价 + MOQ 1）**；稿内不点名 PLANET / HRUI（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络设备网店：PoE 交换机 / 工业 PoE / 注入器 / 分离器 / SFP / MC / GPS 追踪"

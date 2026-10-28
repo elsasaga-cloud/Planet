@@ -46,14 +46,16 @@
    "title": "Vice President of Operations",
    "email": "elliot@provowire.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Vice President of Operations（rocketreach；Greenberg 家族；elliot@）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Sy Greenberg",
    "title": "Procurement and Operations",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Procurement and Operations / Digital Marketing（LinkedIn Sy Greenberg, MBA）= 抄（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -65,7 +67,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 provowire.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 provowire.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案；第 112 批：加拿大最大低压线缆 / CCTV / AV 配件分销之一（自有开发产品线 + 代理线）→ **分销 20% + 贴标 30% 两线，B BIG，加厚一次（Provo 标或中性 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP / STI-144GP + 两仓 DAP；英 / 法文，Elliot 直呼 + Sy 抄）**；升 A 候选；稿内不点名 PLANET / BDCOM / Provision-ISR（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Provo Ltd. / Provo Ltée（620 Rowntree Dairy Rd., Woodbridge, ON L4L 5T8 + 401 rue Locke, St-Laurent, QC H4T 1X7；登记号未取；Key Principal Haskell Greenberg；≈44 人；估 $14.8M）",
+  "founded": "1958（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电子线缆 / CCTV / AV 配件分销（加拿大）"

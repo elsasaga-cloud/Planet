@@ -43,14 +43,16 @@
    "title": "（职务待核）",
    "email": "mnoveloso@nltinc.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Northern Light Technologies 研究档 KP（职务待核）= 收件人，一问采购 / 产品负责人（第 112 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Spanton",
    "title": "（职务待核）",
    "email": "spanton@nltinc.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Northern Light Technologies 研究档 KP（职务待核）= 抄（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -62,7 +64,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 nltinc.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 nltinc.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案；第 112 批：矿用矿灯 + 井下数字网络（N-Connex）制造商，反复外购 MC / MC 板 → **OEM 配套 30% B BIG，加厚一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 板级 / 整机 + 3 年保 + 加拿大 DAP；Marlon 直呼 + Spanton 抄）**；升 A 候选；守界：Saga 无本安 / 防爆认证（IS / ATEX / MSHA），稿内只谈非危险区设备、绝不声称矿用认证；旁线索 Levitt-Safety（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Northern Light Technologies（NLT；法定名 / 登记号未取；533 McNicoll Ave., Toronto, ON M2H 2C9；1984 年 Levitt-Safety 事业部起；≈100 人；加 / 澳 / 智利）",
+  "founded": "1984（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "矿用帽灯 / 照明 / 井下网络与摄像头（自有品牌 NLT）"

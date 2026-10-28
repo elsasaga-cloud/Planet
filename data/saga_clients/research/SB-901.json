@@ -25,9 +25,11 @@
   "level": "无域名 · 仅表内信息（检索无果）"
  },
  "company_facts": {
-  "legal_name": "Hersnet Ltd（表内；未能核实）",
+  "legal_name": "「Hersnet Ltd」未登记；电话 +36 20 946 6366 与 info@hersnet.hu 挂在 Aura Trans Kft.（Budapest, Rákóczi út 22；2009）名下 → 疑为其商号（待证）",
   "hq": "匈牙利（+36 20 移动号）",
-  "size": "微型/个体"
+  "size": "微型/个体",
+  "founded": "2009（Aura Trans Kft.）（第 112 批 官方登记核实 2026-10-28）",
+  "other": "第 112 批：匈牙利天线 / 弱电微型户，需求 HDMI KVM 延长器（非 Saga 品类）+ 20 次无果 → **不动**（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "天线/弱电安装（据邮箱推断）",

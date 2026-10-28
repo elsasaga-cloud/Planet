@@ -29,7 +29,8 @@
    "title": "",
    "email": "nedic.aleksandar@gmail.com",
    "phone": "",
-   "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
+   "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+   "role": "NAT tech doo（LinkedIn 自述；贝尔格莱德；法人待证）= 收件人 / 拍板人（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": "B",
@@ -40,11 +41,11 @@
   "level": "邮件证据"
  },
  "company_facts": {
-  "legal_name": "（未知）",
-  "founded": "",
+  "legal_name": "NAT tech doo（Beograd；仅 LinkedIn 自述，APR 登记未取 → 部分坐实）",
+  "founded": "未取（第 112 批 官方登记核实 2026-10-28）",
   "hq": "塞尔维亚",
   "size": "",
-  "other": ""
+  "other": "第 112 批：塞尔维亚小型网络集成（我方欠答）→ **集成 25% small，一页纸一次（欠答补发：STC-028GP / STC-228GP / STC-2224GP 一口价 + 非欧盟 DAP 买方清关）**（第 112 批 官方登记核实 2026-10-28）"
  },
  "channels": {
   "role": "经销/集成",

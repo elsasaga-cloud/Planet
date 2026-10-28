@@ -65,7 +65,9 @@
  },
  "company_facts": {
   "hq": "意大利",
-  "other": "官网 digimax.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 digimax.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 112 批：维琴察工业电子 / 电源分销商（2025 营收 €61.28M；93 人）→ **分销 20% B BIG，加厚一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 工业线 + STC-2224GP；Matteo 直呼）**；升 A 候选；旁线索 M2 NEXT HOLDING SRL（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "DIGIMAX SRL（P.IVA / CF 00916230246；REA VI-237542；Vicenza；母公司 M2 NEXT HOLDING SRL / Gruppo Giovannini；Mean Well 意大利首家分销）",
+  "founded": "1996-05-27（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业开关电源 / LED 驱动（Mean Well 等）分销",

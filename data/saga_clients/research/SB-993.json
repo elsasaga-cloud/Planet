@@ -1,114 +1,116 @@
 {
-  "code": "SB-993",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（http_error）",
-  "summary": "荷兰 Abigo4u（abigo4u.com：MC 与工业 MC，「很多牌子的」多品牌经销；官网 http_error）；表内未跟进。",
-  "type": "MC 多品牌经销商（荷兰）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC 工业MC 很多牌子的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC 工业 MC 很多牌子",
-      "quote": "MC 工业MC 很多牌子的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-993",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "荷兰 Abigo4u（abigo4u.com：MC 与工业 MC，「很多牌子的」多品牌经销；官网 http_error）；表内未跟进。",
+ "type": "MC 多品牌经销商（荷兰）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC 工业MC 很多牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "荷兰",
-    "other": "官网 abigo4u.com，语言 ?，快照状态 http_error；角色判定来源：待核"
-  },
-  "business_lines": [
-    "MC / 工业 MC 经销（荷兰）"
-  ],
-  "channels": {
-    "role": "MC 多品牌经销商（荷兰）",
-    "region": "荷兰",
-    "contact": "info@abigo4u.com、sales@abigo4u.com"
-  },
-  "signals": [
-    "表内：MC 工业 MC 很多牌子的",
-    "快照：http_error"
-  ],
-  "risks": [
-    "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 20,
-    "why": "MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位"
-  },
-  "email_hook": "Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2025-02-16「Industrial PoE Switch」（稿内无价，第 74 批(p) 已读稿），北欧/中东欧 批次 To info@alphatelecom.cc，0 回（第 74 批 Bcc 头核对 msg 1950e8126b659a15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 工业MC 很多牌子的」",
-      "type": "MC 多品牌经销商（荷兰）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "荷兰（欧洲全域主攻）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「MC 工业MC 很多牌子的」；研究档 risks：官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）本户见于 2025-02-16 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-    },
-    "situation": "荷兰 Abigo4u（abigo4u.com：MC 与工业 MC，「很多牌子的」多品牌经销；官网 http_error）；表内未跟进。",
-    "need": "MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位",
-    "breakpoint": "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 20,
-      "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → info@abigo4u.com（无具名 KP；公用地址）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2025-02-16「Industrial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-02-16",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次）",
-        "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 abigo4u.com, info@abigo4u.com, sales@abigo4u.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "MC 工业MC 很多牌子的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": {
-      "subject": "A budget industrial media-converter position below the branded lines",
-      "body": "Hello Abigo4u team,\n\nLast year you had a product mail from us - \"Industrial PoE Switch\" on 16 February 2025 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the media-converter brands you carry, three neutral-brand industrial converters, DIN-rail, -40 to 75 C, CE/RoHS, from single units: Gigabit, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); Gigabit PoE+ (powers the camera or AP on the copper side) - STI-111GP - $27.8; Fast Ethernet - STI-110FE - $19.7. SFP optics we do not supply.\n\nOne question: is there a budget MC position your customers ask for below the branded lines - and which type, gigabit or PoE?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "MC 工业 MC 很多牌子",
+   "quote": "MC 工业MC 很多牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "荷兰",
+  "other": "官网 abigo4u.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 112 批：Heesch 嵌入式 / 工业计算分销商的网店品牌（同一法人）→ **分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288GPM 工业线 + 中性包装）**；旁线索 Arcobel Embedded Solutions BV（同法人，主站另评估）（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Arcobel Embedded Solutions BV（网店 AbiGo4u / abigo4u.com；KvK 17140959；BTW NL810271382801；Heesch）",
+  "founded": "≈2002（KvK 1714…）（第 112 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "MC / 工业 MC 经销（荷兰）"
+ ],
+ "channels": {
+  "role": "MC 多品牌经销商（荷兰）",
+  "region": "荷兰",
+  "contact": "info@abigo4u.com、sales@abigo4u.com"
+ },
+ "signals": [
+  "表内：MC 工业 MC 很多牌子的",
+  "快照：http_error"
+ ],
+ "risks": [
+  "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位"
+ },
+ "email_hook": "Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2025-02-16「Industrial PoE Switch」（稿内无价，第 74 批(p) 已读稿），北欧/中东欧 批次 To info@alphatelecom.cc，0 回（第 74 批 Bcc 头核对 msg 1950e8126b659a15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 工业MC 很多牌子的」",
+   "type": "MC 多品牌经销商（荷兰）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "荷兰（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「MC 工业MC 很多牌子的」；研究档 risks：官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）本户见于 2025-02-16 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+  },
+  "situation": "荷兰 Abigo4u（abigo4u.com：MC 与工业 MC，「很多牌子的」多品牌经销；官网 http_error）；表内未跟进。",
+  "need": "MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位",
+  "breakpoint": "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → info@abigo4u.com（无具名 KP；公用地址）",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2025-02-16「Industrial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-02-16",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次）",
+    "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 abigo4u.com, info@abigo4u.com, sales@abigo4u.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC 工业MC 很多牌子的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "A budget industrial media-converter position below the branded lines",
+   "body": "Hello Abigo4u team,\n\nLast year you had a product mail from us - \"Industrial PoE Switch\" on 16 February 2025 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the media-converter brands you carry, three neutral-brand industrial converters, DIN-rail, -40 to 75 C, CE/RoHS, from single units: Gigabit, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); Gigabit PoE+ (powers the camera or AP on the copper side) - STI-111GP - $27.8; Fast Ethernet - STI-110FE - $19.7. SFP optics we do not supply.\n\nOne question: is there a budget MC position your customers ask for below the branded lines - and which type, gigabit or PoE?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-25"
+ }
 }

@@ -53,7 +53,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 citicalls.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 citicalls.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 112 批：研究档国别 CA 有误 → 美国加州 → **country_fix US**；一人 VoIP 网店（无 KP、0 打开）→ **不动（一人网店规则；B 保留）**（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "WinWealth Tech Inc.（商号 citiCalls；170 W Pomona Ave, Monrovia, CA 91016, USA；CA SoS 号未取；2003-05 起；eBay 卖家 2006 起；估 $2.4M / 0 员工）",
+  "founded": "2003-05（业务）（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "VoIP 话机 / PBX 网店",
@@ -127,5 +129,6 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "美国"
 }

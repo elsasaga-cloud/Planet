@@ -45,7 +45,14 @@
    "title": "Co-Founder",
    "email": "elmir@mapleye.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director / Co-Founder（Corporations Canada 14357191；elmir@；姊妹公司 AZECAM Security Systems Founder/CEO）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Aytan Mammadova",
+   "role": "Director（Corporations Canada）（第 112 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.canadacompanyregistry.com/companies/mapleye-technologies-corp/"
   }
  ],
  "grade_override": null,
@@ -57,7 +64,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 mapleye.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 mapleye.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案；第 112 批：多伦多自有品牌安防（Mapleye 摄像机 / NVR / PoE 套装，Amazon.ca 在售）+ 姊妹安装公司 → **贴标 30% small，加厚 small 一次（Mapleye 标 STC-028GP / STC-228GP / STC-2224GP 配 4K 套装 + 中性包装 / 自编货号 + 小 MOQ + 加拿大 DAP；Elmir 直呼）**；稿内不点名 HiSource；旁线索 AZECAM Security Systems（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Mapleye Technologies Corp.（联邦公司号 14357191；BN 704129105RC0001；CBCA 2022-09-09；16-207 Edgeley Boulevard, Vaughan, ON L4K 4B5；Active）",
+  "founded": "2022-09-09（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "视频监控系统（自有标套装）",

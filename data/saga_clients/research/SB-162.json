@@ -37,7 +37,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Pook-Ping Yao",
+   "role": "CTO / Co-Founder（crunchbase）= 拍板人（邮箱未取；info@ 点名）（第 112 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.crunchbase.com/organization/optigo-networks"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -47,7 +54,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 optigo.net，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 optigo.net，语言 en-US，快照状态 ok；角色判定来源：用户表；第 112 批：智能楼宇 OT 网络软件 + 自有品牌 Optigo Connect 硬件线 → **贴标 OEM 30%，加厚 small 一次（Optigo Connect 标 STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM + STC-2224GP 第二代工源 + 管理型 L2 + 3 年保 + 加拿大 DAP；info@ 点名 CTO）**（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Optigo Networks Inc.（#320 – 887 Great Northern Way, Vancouver, BC V5T 4T5；BC 登记号未取；21–50 人；估 $2.4M）",
+  "founded": "2012（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "智能楼宇 OT 网络监控软件"

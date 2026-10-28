@@ -36,7 +36,9 @@
  },
  "company_facts": {
   "hq": "保加利亚",
-  "other": "官网 t-automation.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 t-automation.by，语言 ru，快照状态 ok；角色判定来源：官网文案；第 112 批：工业自动化 / 工控分销（Advantech 官方分销；自报 >$5M）→ **分销 20% B BIG，加厚一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 工业线第二来源；预付款）— 待 Simon 定 BY 收款 / 物流路径后再发**；升 A 候选；研究档国别「保加利亚」有误，实为白俄罗斯（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "ООО «Территория Автоматизации»（t-automation.by；УНП 193074735；Минск；Advantech 白俄官方分销；自报 >$5M）",
+  "founded": "2018-05-08（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业自动化 / IoT / 嵌入式系统分销（IFM / Advantech / Noya）"

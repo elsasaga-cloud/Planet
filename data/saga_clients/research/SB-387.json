@@ -45,14 +45,16 @@
    "title": "（表内联系人）",
    "email": "ray.h@fatwiredist.ca",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Managing Director（Ray Haugland；zoominfo；ray.h@）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Michael Pothier",
    "title": "Inside Sales Specialist",
    "email": "mike.p@fatwiredist.ca",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Inside Sales Specialist（2019–）= 抄（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -64,7 +66,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 fatwiredist.ca，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 fatwiredist.ca，语言 ?，快照状态 ok；角色判定来源：官网文案；第 112 批：埃德蒙顿经销商型低压 / 信号分配分销（PoE 卖中系）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 作第二价位 + MOQ 1 + 加拿大 DAP；Ray 直呼 + Mike 抄）**；稿内不点名 Wi-Tek（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Fatwire Distributors / Fat Wire Distribution（法定名 / 阿省登记号未取；9325 63 Avenue NW, Edmonton, AB T6E 0G2；3–11 人；估 $5.1M）",
+  "founded": "2010（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "卫星安装 / 布线 / 低压元件分销"

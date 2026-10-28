@@ -48,7 +48,8 @@
    "title": "Founder",
    "email": "jaeden@xlrsecurity.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Founder / 业主（xlrsecurity.com legalName XLR Security Inc.；BBB）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "June Wang",
@@ -67,7 +68,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 xlrsecurity.com，语言 en-CA，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 xlrsecurity.com，语言 en-CA，快照状态 ok；角色判定来源：用户表；第 112 批：新创 CCTV 增值分销（Uniview 授权）；**研究档「自有云管理交换机品牌 Lysora」有误 — Lysora 为第三方品牌（美国由 ENS Security 分销），XLR 仅授权分销** → **分销 20% small，一页纸一次（非云管理 PoE STC-028GP / STC-228GP / STC-2224GP 作经销商第二价位 + MOQ 1 + 加拿大 DAP；Jaeden 直呼）**；稿内不点名 Uniview / Lysora（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "XLR Security Inc.（Unit 15 – 1 High Meadow Pl, Toronto, ON M9L 0A3；登记号未取；2–10 人）",
+  "founded": "2022（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防设备分销（视频监控 / 对讲 / 网络 / PoE 供电），面向安装商",

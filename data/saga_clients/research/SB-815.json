@@ -38,7 +38,8 @@
    "title": "CEO",
    "email": "info@lendoux.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO（LinkedIn；同时任 HOUPER 区域经理 → Houper 疑为关联自有品牌）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -50,7 +51,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 lendoux.com，语言 en，快照状态 parked_or_empty；角色判定来源：待核"
+  "other": "官网 lendoux.com，语言 en，快照状态 parked_or_empty；角色判定来源：待核；第 112 批：多伦多目录式 IT / 安防 / 仪表商店 + 关联品牌 Houper → **贴标 30% small，一页纸一次（Houper / Lendoux 标 STI-054GP / STI-144GP / STI-154GP + STC-2224GP 作目录第二价位 + 中性包装 + 加拿大 DAP；Rasel 直呼）**；守界：站内有「military」类目，稿内只谈商用 / 工业（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "Lendoux / Lendoux Group（Toronto, ON；法定名 / 登记号未取）",
+  "founded": "≈2024（LinkedIn 任期）（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "数据中心 / 电信 / 安防 / 工业仪表多品牌商店（加拿大）"

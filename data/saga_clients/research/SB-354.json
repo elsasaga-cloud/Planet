@@ -29,21 +29,24 @@
    "title": "Purchasing Agent",
    "email": "info@fiberopticlink.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Purchasing Agent（Cesar Ordaz；cordaz@）= 收件人（第 112 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Gary Gunning",
    "title": "（职务待核）",
    "email": "ggunning@fiberopticlink.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "RLH Industries 研究档 KP（职务待核）= 抄（第 112 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Albert G",
    "title": "Executive Vice President",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Executive Vice President（Albert Gregory；agregory@）= 拍板人（抄）（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -55,7 +58,9 @@
  },
  "company_facts": {
   "hq": "加拿大",
-  "other": "官网 fiberopticlink.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+  "other": "官网 fiberopticlink.com，语言 ?，快照状态 http_error；角色判定来源：用户表；第 112 批：研究档国别 CA 有误 → 美国加州（714 区号）→ **country_fix US**；加固型光纤 MC / 工业以太网交换机自有品牌商（定价高、有采购专员）→ **贴标 OEM 30%，B，加厚一次（RLH 标 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 第二代工源 + 中性包装 / 自编货号 + 3 年保 + FCC / CE；Cesar 直发 + Albert 抄）**；守界：不提政府 / 军用线（第 112 批 官方登记核实 2026-10-28）",
+  "legal_name": "RLH Industries, Inc.（商号 Fiber Optic Link；fiberopticlink.com / rlhfiber.com；936 N. Main Street, Orange, CA 92867, USA；CA SoS 号未取）",
+  "founded": "1988（第 112 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "光纤网络设备（自有品牌：工业 FS / MC / ONU）"
@@ -138,5 +143,6 @@
    "body": "Hi Cesar,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 24 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches and media converters sold under the Fiber Optic Link label, an ODM source in your housing from small lots, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5; PoE version - STI-111GP - $30.1. ONUs and GPON gear we do not carry.\n\nOne question: which model do your dealers reorder most - the managed switch or the converter?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "美国"
 }
