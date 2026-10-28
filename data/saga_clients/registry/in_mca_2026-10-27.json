@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 30
+  "count": 43
  },
  "rows": {
   "SA-073": {
@@ -999,6 +999,410 @@
    ],
    "notes": "不动（KP 离职 / 地址失效）；坐实（CIN + 总部地址 + 规模）。",
    "code": "SB-1104"
+  },
+  "SB-111": {
+   "batch": 114,
+   "name": "Nivox Technologies（nivoxtech.com / iveonet.com；**合伙企业；GSTIN 29AAIFN5171H1ZZ（2017）；IEC 0711010331；2011 创立**；401B, 4th Floor, Nugen Residency, 105 Dollars Scheme, Nandini Layout, Bengaluru 560096（另址 No. 30, 2nd Floor, 6th Cross 8th Main, Nandini Layout 3rd Block））— 班加罗尔工业以太网 + 加固光纤产品供应商（**Lantech（台湾）工业 PoE / 管理交换机印度分销，5 年保**；自有品牌 IVEONET 光配线 / 跳线）；董事 **Hemanth Kumar（= KP）**/ Kavitha D.（Director & CEO）；≤10 人；GST 营业额 ₹5–25 Cr；2024 要工业 MC 价格与证书，2025-05 问 EN 50155（Saga 无）",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：indiamart（Nivox Technologies；Partnership；GST 29AAIFN5171H1ZZ 2017；IEC 0711010331；Upto 10 People；GST Turnover 5 - 25 Cr；Year of Establishment 2011；Industrial POE Ethernet Switches Brand LANTECH - Taiwan Warranty 5 Years）+ kompass / tradeindia（No: 401B 4th Floor Nugen Residency 105 Dollars Scheme Nandini Layout Bengaluru 560096；Mr Hemanth Kumar Director；Ms. Kavitha D. D. Director）+ dnb（No. 30 2nd Floor 6th Cross 8th Main Nandini Layout 3rd Block；Key Principal Hemanth Kumar）+ crunchbase（Kavitha D. Director & CEO；51-100 虚高）+ iveonet.com（Iveonet products now part of Nivox）；2026-10-28",
+   "url": "https://www.indiamart.com/nivoxtechnologies/about-us.html",
+   "number": "GSTIN 29AAIFN5171H1ZZ / IEC 0711010331",
+   "status": "Active",
+   "incorporated": "2011",
+   "company_type": "Partnership Firm",
+   "sic": [
+    "工业以太网 + 光纤产品 分销 / 自有品牌（班加罗尔）"
+   ],
+   "address": "401B, 4th Floor, Nugen Residency, 105 Dollars Scheme, Nandini Layout, Bengaluru 560096",
+   "accounts": "₹5–25 Cr（GST 档）",
+   "accounts_due": "—",
+   "size_band": "小型（≤10 人）",
+   "officers": [
+    "Hemanth Kumar — Director / 合伙人（研究档 KP）= 拍板人 / 收件人",
+    "Kavitha D. — Director & CEO / 合伙人"
+   ],
+   "psc": "Hemanth Kumar / Kavitha D.",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**台湾品牌工业交换机分销 + 自有品牌、业主本人多次问价 → 分销 20% small，加厚 small 一次（切口：作其台湾线之外的性价比第二线：STI-144GP / STI-154GP / STI-288DGGPM + 工业 MC 对位 STC-110XGE，3 年保 + 付费样机；EN 50155 明说没有、轨交项目不接；英文，Hemanth 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → 次候选",
+    "守界：轨交线不碰；稿内不点名 Lantech"
+   ],
+   "notes": "分销 20% small；加厚 small 一次；坐实（GSTIN + IEC + 合伙人 = KP + 地址）。",
+   "code": "SB-111"
+  },
+  "SB-1113": {
+   "batch": 114,
+   "name": "Fastball（Fastball Telecom & Networking；fastball.in；**个体经营 Rishi Kumar Bansal；GSTIN 07AJJPR5445G1ZX（2021）**；A-47/A, Gali No. 4, Main Shukra Bazar Road, Ashok Nagar, Delhi 110093）— FTTH / 光纤工具与配线分销（Signal Fire 熔接机印度独家进口、LIU / 配线架）；≤10 人；2016 起（IndiaMART 自述）；**成单 1 次（STSC20231009002，2023-10-09）；Simon 标 gg（已凉）**",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：tradeindia（Fastball；GST 07AJJPR5445G1ZX；Proprietor Mr. Rishi Bansal；A 47/A Gali No. 4 Ashok Nagar Delhi 110093；Established 2021）+ splicingmachines.com（Rishi Kumar Bansal CEO；Signal Fire AI-5 exclusively import by FASTBALL in India；Main Shukra Bazar Road）+ indiamart（Founded 2016；Proprietorship；Upto 10 People；GST Registration 2021）；2026-10-28",
+   "url": "https://www.indiamart.com/fastball/profile.html",
+   "number": "GSTIN 07AJJPR5445G1ZX",
+   "status": "Active",
+   "incorporated": "2016（GST 2021）",
+   "company_type": "Proprietorship（个体）",
+   "sic": [
+    "FTTH 工具 / 光配线 分销（德里）"
+   ],
+   "address": "A-47/A, Gali No. 4, Main Shukra Bazar Road, Ashok Nagar, Delhi 110093",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "个体 / 微型（≤10 人）",
+   "officers": [
+    "Rishi Kumar Bansal — Proprietor / CEO（研究档单据联系人 office@fastball.in）"
+   ],
+   "psc": "Bansal",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体 FTTH 工具商、成单 1 次后已凉（gg）→ 不动（B 保留；复购自来时按老价 + T/T）**"
+   ],
+   "notes": "不动（个体 + gg）；坐实（GSTIN + 业主 + 地址）。",
+   "code": "SB-1113"
+  },
+  "SB-1138": {
+   "batch": 114,
+   "name": "DevRay IT Solutions Private Limited（devray.in；CIN U62013UP2024PTC204532（2024-06-13；RoC Kanpur；Noida））+ 姊妹 MapleCloud Tech Services Private Limited（maplecloudtechnologies.com；CIN U72900DL2018PTC338066（2018-08-31；RoC Delhi；实缴 ₹4 lakh））— 「Make in India」网络安全 + 网络基础设施 OEM（NGFW / SIEM / SD-WAN / NAC / 交换）；**Founder / MD Yogendra Kumar Rajput（= KP，两家公司董事；CISA & CISM）**；董事 Neha Jain（DevRay）/ Ruchi Lal / Suresh Chand Jain（MapleCloud）；100+ 人、500+ 企业客户；2025-06 与 Iris Global 签全国分销、本财年目标 ₹100 Cr（含 DevRay）；Elsa 邮箱 12 封往来（MD 具名）：要 CENTEC「OEM Core Switching」8 GB RAM / 16 GB Flash L3 机型资料 + 价格、问能否中国以外产地提货",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：falconebiz（DEVRAY IT SOLUTIONS PRIVATE LIMITED CIN U62013UP2024PTC204532；directors YOGENDRA KUMAR RAJPUT / NEHA JAIN）+ zaubacorp（MAPLECLOUD TECH SERVICES PRIVATE LIMITED CIN U72900DL2018PTC338066；incorporated 31 August 2018；paid up Rs. 400,000；directors YOGENDRA KUMAR RAJPUT / RUCHI LAL / SURESH CHAND JAIN；Yogendra director of DEVRAY IT SOLUTIONS since 2024-06-13）+ crn.in / itvoice（MapleCloud Technologies, DevRay & Iris Global PartnerSphere 2025；targeting Rs 100 Crore revenue this fiscal；founded by Yogendra Rajput；100+ professionals；500+ enterprise clients；homegrown OEM）+ LinkedIn（Noida HQ；NGFW / SIEM / SD-WAN / NAC / switching）；2026-10-28",
+   "url": "https://www.zaubacorp.com/company/MAPLECLOUD-TECH-SERVICES-PRIVATE-LIMITED/U72900DL2018PTC338066",
+   "number": "CIN U62013UP2024PTC204532（DevRay）/ U72900DL2018PTC338066（MapleCloud）",
+   "status": "Active",
+   "incorporated": "2024-06-13（DevRay）/ 2018-08-31（MapleCloud）",
+   "company_type": "Private Limited ×2",
+   "sic": [
+    "网络安全 + 网络设备 OEM 品牌（诺伊达 / 德里）"
+   ],
+   "address": "Noida, Uttar Pradesh（总部；注册地址未取）",
+   "accounts": "集团目标 ₹100 Cr（FY2025-26；自报）",
+   "accounts_due": "—",
+   "size_band": "中型（100+ 人）",
+   "officers": [
+    "Yogendra Kumar Rajput — Founder / Managing Director（两家公司董事；研究档 KP）= 拍板人 / 收件人",
+    "Neha Jain — Director（DevRay）",
+    "Ruchi Lal / Suresh Chand Jain — Directors（MapleCloud）"
+   ],
+   "psc": "Rajput（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本土 OEM 品牌、MD 本人追问 CENTEC L3 核心机型 + 价格 → 贴标 OEM 30% B BIG（CENTEC 敲门砖），加厚一次（切口：逐条答复：STH-2C24XF-HSI / STH-8C48DX-HSI / STH-32C-HSI 的 RAM / Flash 按规格书据实写（不编 8 GB / 16 GB）、datasheet + 阶梯价、产地只能深圳（中国以外产地明说做不到）+ 中性包装 / 自编货号；英文，Yogendra 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；回信 → **升 A 候选**",
+    "守界：不声称 SONiC / ONIE（除非规格书写明）；不提其政府 / CERT-In 项目；注册地址未取 → 坐实（CIN ×2 + 董事 = KP）"
+   ],
+   "notes": "贴标 OEM 30%；B BIG 加厚一次；升 A 候选；坐实（CIN ×2 + MD = KP + 规模）。",
+   "code": "SB-1138"
+  },
+  "SB-802": {
+   "batch": 114,
+   "name": "MSPL Limited（baldota.co.in / mspllimited.com；CIN U13100MH1961PLC012160（1961-10-18；RoC Mumbai；Baldota 集团旗舰）；注册地 117, Baldota Bhavan, Maharshi Karve Road, Mumbai 400020；运营 Baldota Enclave, Hospet, Karnataka 583203）— 铁矿开采 / 球团 / 风电 / 工业气体 / 海运集团（≈1,000 人；营收 >₹1,000 Cr；实缴 ₹38.4 Cr）；Chairman & MD Narendra Baldota；**终端用户（矿业）项目型**；KP P.S. Vijaykumar（WA 已加无实质回复）",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：tracxn（MSPL LIMITED Public Limited Company incorporated Oct 18, 1961；NO.117 BALDOTABHAVAN MAHARSHIKARVEROAD MUMBAI 400020；CIN U13100MH1961PLC012160；revenue >₹1,000 Cr FY2025）+ economictimes（Paid-up Capital 3840.0 lakhs；Mining & Quarrying）+ wikipedia（Narendra Baldota Chairman, MD & CEO；1000 employees；iron ore + wind）+ rocketreach（Baldota Enclave Abheraj Baldota Rd Hospet 583203；918 employees）；2026-10-28",
+   "url": "https://tracxn.com/d/legal-entities/india/mspl-limited/__Vhd3M1W3Iy_sITld1KfSyG6dNTJsqp3A5nSOTxxO1jU",
+   "number": "CIN U13100MH1961PLC012160",
+   "status": "Active",
+   "incorporated": "1961-10-18",
+   "company_type": "Public Limited（非上市）",
+   "sic": [
+    "铁矿开采 / 球团 / 风电 集团（终端用户）"
+   ],
+   "address": "117, Baldota Bhavan, Maharshi Karve Road, Mumbai 400020（运营 Hospet, Karnataka）",
+   "accounts": ">₹1,000 Cr（FY2025）",
+   "accounts_due": "—",
+   "size_band": "大型（≈1,000 人）",
+   "officers": [
+    "Narendra Baldota — Chairman & Managing Director",
+    "P.S. Vijaykumar — 研究档 KP（ps.vijay@mspllimited.com；WA 已加）= 收件人"
+   ],
+   "psc": "Baldota 家族",
+   "charges": "",
+   "prev_names": [
+    "Mineral Sales Private Limited（1961）"
+   ],
+   "lines": [
+    "**大型矿业终端、WA 无实质回复 → 终端 25% B 低优先，一页纸一次（切口：矿区 / 选矿厂非防爆区的工业 PoE 环网 STI-288DGGPM / STI-488DGGPM + 宽温 + 3 年保 + 付费样机；防爆区明说不做；英文，Vijaykumar 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动",
+    "守界：防爆 / IS-ATEX 不碰；不引用其财务"
+   ],
+   "notes": "终端 B 低优先；一页纸一次；坐实（CIN + 地址 + 董事长 + 规模）。",
+   "code": "SB-802"
+  },
+  "SB-447": {
+   "batch": 114,
+   "name": "Automation Systems & Solution（automationsystem.in；**个体经营；GSTIN 07AOCPK7395A1Z0（2017-07-01；GST 登记人 Azad Khan = KP）；CEO R.K. (Rakesh Kumar) Sharma**；T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj, Delhi 110092；2007 起）— 德里工业自动化元器件分销 + 进口（Teltonika Networks / Procon / Banner / Shavison / Citel 授权；传感器、GSM 调制解调器、SMPS、浪涌、管理 / 非管理工业交换机自有编号 IND-D-M-FG-0402-N）；≤10 人；营业额 ₹0–40 lakh（IndiaMART 自报，疑偏低）；2025-04 对 2 光 4 PoE 回复要 DS",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：tatanexarc（Automation Systems And Solution；Mr. RAKESH KUMAR SHARMA / Mr. AZAD KHAN；2007；T12 3rd Floor Pankaj Central Market IP Extn Patparganj East Delhi 110092；Authorized distributor of Teltonika Networks, Procon, Banner, Shavison, Citel；Manage / Unmanage Ethernet Switch）+ indiamart（GST 07AOCPK7395A1Z0；Proprietorship；Company CEO R. K. Sharma；GST Partner Name Azad Khan；Upto 10 People；Annual Turnover 0 - 40 L）+ website.automationsystem.in/about（infoautomation18@gmail.com；+91-11 41709077）；2026-10-28",
+   "url": "https://www.indiamart.com/automation-systems-solution/profile.html",
+   "number": "GSTIN 07AOCPK7395A1Z0",
+   "status": "Active",
+   "incorporated": "2007",
+   "company_type": "Proprietorship（个体）",
+   "sic": [
+    "工业自动化 元器件 分销 + 进口（德里）"
+   ],
+   "address": "T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj, Delhi 110092",
+   "accounts": "₹0–40 lakh（自报）",
+   "accounts_due": "—",
+   "size_band": "微型（≤10 人）",
+   "officers": [
+    "Azad Khan — GST 登记人 / 合伙经营（研究档 KP）= 收件人",
+    "R.K. Sharma — CEO"
+   ],
+   "psc": "Khan / Sharma",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体但工业网络专营（自有编号工业交换机 + 授权进口商）、2025-04 主动要 DS → 分销 20% small，一页纸一次（切口：补发 2 光 4 PoE 对位 STI-154GP（4 PoE + 1 GE + 1 SFP）/ STI-144GP 规格书 + 一口价 + MOQ 1 + 付费样机；英文，Azad 直呼）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动（个体规则例外：PoE / 工业专营）"
+   ],
+   "notes": "分销 20% small；一页纸一次（个体例外）；坐实（GSTIN + 地址 + 经营者 = KP）。",
+   "code": "SB-447"
+  },
+  "SB-357": {
+   "batch": 114,
+   "name": "（表内 infonet-tech.com；联系人 Sudesh Verma +91 74083 98524；需求「光猫」ONU）— **域名站点为北美加油站 POS / 燃油管理软件公司 Infonet Technology，与印度联系人及需求不符**；1 次检索「Sudesh Verma」仅见同名记者 / 律师 ≠ → 主体未坐实；需求 ONU（Saga 无）",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：「\"Sudesh Verma\" infonet India ONU fiber」→ 仅 zoominfo / oneindia 同名记者 Sudesh Verma（≠）；域名 infonet-tech.com 站点为北美 POS 软件公司（研究档既有判断）；1 查即停；2026-10-28",
+   "url": "",
+   "number": "未取",
+   "status": "主体不明",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "（不明；需求 ONU）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Sudesh Verma — 研究档 KP（sales@infonet-tech.com；+91 74083 98524）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主体未坐实（域名错配）+ 需求 ONU（Saga 无）→ 不动（B 保留）**"
+   ],
+   "notes": "未坐实（1 查即停）→ 不动。",
+   "code": "SB-357"
+  },
+  "SB-630": {
+   "batch": 114,
+   "name": "Core IT Solutions（CITS；citsindia.com；孟买 IT 服务商：应用 / ERP、备份、云、FMS / AMC、ISP 服务、网络架构）— 1 次检索仅见同名 **CORE IT SOLUTIONS PRIVATE LIMITED CIN U72100MH2005PTC153203（2005-05-11；Thane Kalwa；Strike Off）** —— 是否同一主体未证（Strike Off 公司 ≠ 现运营站点可能性大）；KP Sarwar 原邮箱退信，仅 info@；2025-06 对 10G MC 群发回「price」",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：zaubacorp（CORE IT SOLUTIONS PRIVATE LIMITED CIN U72100MH2005PTC153203；incorporated 11 May 2005；ROC Mumbai；402 Panchmukhi Apartment Old Belapur Road Kalwa Thane；Company Status Strike Off；Hardware consultancy）—— 与 citsindia.com 是否同一主体未证；1 查即停；2026-10-28",
+   "url": "https://www.zaubacorp.com/company/CORE-IT-SOLUTIONS-PRIVATE-LIMITED/U72100MH2005PTC153203",
+   "number": "未证（同名 CIN U72100MH2005PTC153203 已 Strike Off）",
+   "status": "未证（同名法人 Strike Off）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "IT 服务 / 网络（孟买）"
+   ],
+   "address": "Mumbai（具体未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Sarwar — 研究档 KP（邮箱退信）",
+    "（info@citsindia.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**KP 邮箱退信 + 法人线索仅为 Strike Off 同名 → 身份不清；不动（B 保留；若 info@ 回声再核）**"
+   ],
+   "notes": "不动（身份不清 / 地址失效）；未坐实。",
+   "code": "SB-630"
+  },
+  "SB-045": {
+   "batch": 114,
+   "name": "Advance Digital（advancedigital.co.in 已成占位页；古吉拉特 Subodh +91 94260 60606；info@）— 1 次检索无印度古吉拉特对应主体（命中为加拿大 AdvancedDigital Inc. / 泰国 / 美国 / 孟买 Advance Digital Solutions India 等 ≠）→ 未坐实；2024 起多轮索要资料、回复多为「有用 暂时没需求」",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：「Advance Digital advancedigital.co.in Gujarat Subodh」→ 全部为同名他国 / 他城主体（advanceddigital.com 多伦多；advancedigitaltech.com 曼谷；advancedigitals.in 孟买 Borivali 个体 ≠ 古吉拉特）；域名占位；1 查即停；2026-10-28",
+   "url": "",
+   "number": "未取",
+   "status": "站点占位",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "经销（古吉拉特？）"
+   ],
+   "address": "未取（Gujarat）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Subodh — 研究档 KP（info@advancedigital.co.in；+91 94260 60606）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 + 站点占位 + 多轮「暂时没需求」→ 不动（B 保留；其主动询价再报）**"
+   ],
+   "notes": "未坐实（1 查即停）→ 不动。",
+   "code": "SB-045"
+  },
+  "SB-1105": {
+   "batch": 114,
+   "name": "Suraj Katte（个人买家；仅 WA +91 76207 03705，无邮箱 / 公司名）— 0 次检索；2023-08 问价格册与路由器，20 次推送 1 次实质回复，2024-10 后无跟进",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 0 次检索（仅个人 WA 号；无公司 / 域名 / 邮箱线索）；2026-10-28",
+   "url": "",
+   "number": "未取（个人）",
+   "status": "—",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "个人 / 小买家（印度）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "Suraj Katte — 本人（WA）"
+   ],
+   "psc": "—",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个人买家、多次 0 回复 → 不动（B 保留；WA 不再推送）**"
+   ],
+   "notes": "未坐实（个人，0 查）→ 不动。",
+   "code": "SB-1105"
+  },
+  "SB-194": {
+   "batch": 114,
+   "name": "Sri Annai Business Associates（SABA；sabaindia.com 已失效；泰米尔纳德 Erode（0424）；R. Sampath Kumar +91 98427 13700；info@sabaindia.com / yahoo）— 安防经销（摄像机 + 门禁）；1 次检索无对应主体（命中 Erode 同名家具 / 塑料经销 Sri Annai Agency ≠）→ 未坐实；2024-04 对 L2 管理 2 光 8 PoE 报过 $75 后无进展",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：「Sri Annai Business Associates SABA Erode sabaindia.com Sampath Kumar CCTV」→ 仅 Sri Annai Agency（Erode 展示架 / 塑料椅经销，Kandasamy，≠）+ 无关新闻；域名失效；1 查即停；2026-10-28",
+   "url": "",
+   "number": "未取",
+   "status": "站点失效",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "安防 经销（埃罗德）"
+   ],
+   "address": "Erode, Tamil Nadu（具体未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "R. Sampath Kumar — 经营者（研究档 KP；info@sabaindia.com / sriannaiassociates@yahoo.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 + 官网失效 + 报价后 18 个月无进展 → 不动（B 保留；yahoo 箱若回声再按 STC-228GP 老价续）**"
+   ],
+   "notes": "未坐实（1 查即停）→ 不动。",
+   "code": "SB-194"
+  },
+  "SB-306": {
+   "batch": 114,
+   "name": "Digital Systems（古吉拉特；Jayesh Patel +91 98251 46654；digital_sys@hotmail.com；无域名）— 经销商，当前从本地市场买光纤收发器、想直接进口 MC；2024-04 对 10G MC 回「Yes」并发名片，此后仅「Hi」；**名称泛用 + hotmail → 0 次检索**",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 0 次检索（泛名「Digital Systems」+ hotmail 邮箱，无域名 / 地址线索，检索无法定向）；2026-10-28",
+   "url": "",
+   "number": "未取",
+   "status": "—",
+   "incorporated": "未取",
+   "company_type": "未取（个体推定）",
+   "sic": [
+    "网络 / 光纤 经销（古吉拉特）"
+   ],
+   "address": "未取（Gujarat）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "Jayesh Patel — 经营者（研究档 KP；WA）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**有明确进口意愿（10G MC 回 Yes + 名片）但主体不可核 → 分销 20% small，一页纸一次（切口：STC-110XGE 10G MC + STC-028GP / STC-228GP 一口价，MOQ 1、T/T 预付、FOB 深圳 + 百运网 DAP 可选；英文，Jayesh 直呼；WA 同步）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动",
+    "未坐实（0 查）→ 只做预付"
+   ],
+   "notes": "分销 20% small；一页纸一次；未坐实（0 查）。",
+   "code": "SB-306"
+  },
+  "SB-341": {
+   "batch": 114,
+   "name": "Smart Security Systems（印度；Rk Ahir；rkahir65@gmail.com；无域名 / 地址）— 安防安装 / 经销，2019 起阿里国际站；商用 PoE 需求；2025-07 对 2 光 8 PoE 回「price」；**名称泛用 + gmail → 0 次检索**",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 0 次检索（泛名「Smart Security Systems」+ gmail，无域名 / 城市线索）；2026-10-28",
+   "url": "",
+   "number": "未取",
+   "status": "—",
+   "incorporated": "未取",
+   "company_type": "未取（个体推定）",
+   "sic": [
+    "安防 安装 / 经销（印度）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "Rk Ahir — 经营者（研究档 KP；gmail）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**刚问过价（2025-07）→ 分销 20% small，一页纸一次（切口：STC-228GP（8 PoE + 2 SFP）一口价 + STC-028GP，MOQ 1、T/T 预付、FOB 深圳；英文）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动",
+    "未坐实（0 查）→ 只做预付"
+   ],
+   "notes": "分销 20% small；一页纸一次；未坐实（0 查）。",
+   "code": "SB-341"
+  },
+  "SB-632": {
+   "batch": 114,
+   "name": "Grypen Technologies Private Limited（grypen.in；Plot 467/A, Mahipalpur, New Delhi 110037；info@grypen.in；+91 8920992882）— 德里 IT & 通信系统集成 + 咨询 / 培训（站内「integrator」）；**CIN 未取**（1 查无命中，同名 Grapine / Gryphon / Grip ≠）；阿里询盘「商业交换机」；KP Shubham Kumar（sucheytaa@grypen.in，职务待核）；未跟进",
+   "iso": "IN",
+   "fetched": "2026-10-28",
+   "source": "IN · 1 次检索：grypen.in/about-us（Grypen Technologies Private Limited at Delhi；IT & C system integrator, consulting & training；Plot No 467/A Mahipalpur New Delhi 110037；info@grypen.in；+91 8920992882；© 2024）+ zaubacorp / tracxn 同名（GRAPINE TECHNOLOGIES / GRYPHON TECHNOLOGIES / GRIP TECHNOLOGIES ≠）；CIN 未见；1 查即停；2026-10-28",
+   "url": "https://grypen.in/about-us.php",
+   "number": "未取（CIN）",
+   "status": "Active（站点 2024）",
+   "incorporated": "未取",
+   "company_type": "Private Limited（自称）",
+   "sic": [
+    "IT / 通信 系统集成（新德里）"
+   ],
+   "address": "Plot 467/A, Mahipalpur, New Delhi 110037",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（推定）",
+   "officers": [
+    "Shubham Kumar — 研究档 KP（sucheytaa@grypen.in；职务待核）= 收件人（抄 info@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**小型集成商 + 有「商业交换机」询盘 → 集成 25% small，一页纸一次（切口：STC-228GP / STC-2224GP / STC-4424GCPM 三档一口价 + MOQ 1；英文，Shubham 直呼 + info@ 抄）— 印度常规：20 / 25 / 30 + T/T 预付 + FOB 深圳**；再无回声 → 不动",
+    "CIN 未取 → 部分坐实；只做预付"
+   ],
+   "notes": "集成 25% small；一页纸一次；部分坐实（站点地址；CIN 未取）。",
+   "code": "SB-632"
   }
  }
 }
