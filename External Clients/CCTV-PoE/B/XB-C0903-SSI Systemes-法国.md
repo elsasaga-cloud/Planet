@@ -1,6 +1,6 @@
 # XB-C0903 · SSI Systemes · 法国
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:14531 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:14531 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R07 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
@@ -48,12 +48,12 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R07，2026-10-28）
 
-- **结论：XB** — 邮箱待补 → B 不动
+- **结论：XB** — 对口但无公开邮箱（官网仅表单与电话）→ B 不动，下一轮 LinkedIn 补
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：SSI Systèmes（Rouen）
-- 是什么人：SSI Systèmes（Rouen）；规模：未量化
+- 一句话：安防电子批发 + 集成（SSI Systèmes，Oissel/Rouen；Groupe GTC France；Hikvision/EATON 伙伴；仅电话/表单）
+- 是什么人：安防电子批发 + 集成（SSI Systèmes，Oissel/Rouen；Groupe GTC France；Hikvision/EATON 伙伴；仅电话/表单）；规模：未量化
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -64,5 +64,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 鲁昂, 安防电子设计/分销/集成 |  |  | 2026-09-28 |
+| 本轮网查 | 官网：Grossiste Distributeur Concepteur Intégrateur de systèmes électroniques de Sécurité；联系方式仅 02 35 03 04 50 + 表单 | Grossiste Distributeur de systèmes électroniques de Sécurité - Sûreté, nous accompagnons les installateurs sur leurs projets courant faible | https://www.ssi-systemes.fr/ | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

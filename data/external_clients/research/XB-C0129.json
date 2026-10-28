@@ -1,12 +1,12 @@
 {
  "code": "XB-C0129",
  "name": "ZDAAS LLC（美国）",
- "round": "W3-R06",
+ "round": "W3-R07",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "ZDAAS LLC（美国工业 PoE 分销）",
- "type_final": "ZDAAS LLC（美国工业 PoE 分销）",
- "size": "未量化",
+ "summary": "IT 服务 + GSA 联邦经销（ZDAAS LLC，Glen Burnie MD；女性所有小企业；软件/人力 + 线缆/摄像机/交换机转售）",
+ "type_final": "IT 服务 + GSA 联邦经销（ZDAAS LLC，Glen Burnie MD；女性所有小企业；软件/人力 + 线缆/摄像机/交换机转售）",
+ "size": "IT 服务 + GSA 联邦经销（ZDAAS LLC，Glen Burnie MD；女性所有小企业；软件/人力 + 线缆/摄像机/交换机转售）",
  "brands_seen": [],
  "saga_line": "—",
  "fit": "",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "GSA eLibrary 列 ZDAAS LLC 合同 47QTCA18D008G；Thomasnet：distributor of cables, amplifiers, cameras…switches, routers",
+   "quote": "Permanent and temporary industrial staffing, software…Also distributor of cables, amplifiers, cameras, computers",
+   "url": "https://www.thomasnet.com/company/zdaas-llc-30917176/profile"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补（下一轮网查）→ B 不动",
+ "grade_reason_final": "联邦采购渠道（需 TAA 等资质）与 Saga 条件不符；info@zd-techsolutions.com 已记 → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

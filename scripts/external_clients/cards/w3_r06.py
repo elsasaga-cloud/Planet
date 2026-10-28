@@ -6,7 +6,10 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from w2lib import j as _j, run, CONS, ATP
 
 J = {}
-def j(*a, **k): _j(J, *a, **k)
+SKIP_R07 = {'XB-C0128','XB-C0129','XB-C0561','XB-C0757','XB-C0534','XB-C0589','XB-C0144','XB-C0892','XB-C0903','XB-C0538','XB-C0508','XB-C0566'}  # R07 补查已覆盖，重跑本脚本不回退
+def j(code, *a, **k):
+    if code in SKIP_R07: return
+    _j(J, code, *a, **k)
 BIG = '大型广线/集团分销，决策链长 → B 慢慢跟进'
 Q_IND = 'Would a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to the industrial brands you carry?'
 Q_D2 = 'Who on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?'

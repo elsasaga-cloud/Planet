@@ -1,11 +1,11 @@
 {
  "code": "XB-C0903",
  "name": "SSI Systemes",
- "round": "W3-R06",
+ "round": "W3-R07",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "SSI Systèmes（Rouen）",
- "type_final": "SSI Systèmes（Rouen）",
+ "summary": "安防电子批发 + 集成（SSI Systèmes，Oissel/Rouen；Groupe GTC France；Hikvision/EATON 伙伴；仅电话/表单）",
+ "type_final": "安防电子批发 + 集成（SSI Systèmes，Oissel/Rouen；Groupe GTC France；Hikvision/EATON 伙伴；仅电话/表单）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Grossiste Distributeur Concepteur Intégrateur de systèmes électroniques de Sécurité；联系方式仅 02 35 03 04 50 + 表单",
+   "quote": "Grossiste Distributeur de systèmes électroniques de Sécurité - Sûreté, nous accompagnons les installateurs sur leurs projets courant faible",
+   "url": "https://www.ssi-systemes.fr/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "对口但无公开邮箱（官网仅表单与电话）→ B 不动，下一轮 LinkedIn 补",
  "next_move": {
   "action": "不动",
   "angle": "",

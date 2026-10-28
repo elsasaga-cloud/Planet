@@ -1,11 +1,11 @@
 {
  "code": "XB-C0892",
  "name": "ECLATS ANTIVOLS",
- "round": "W3-R06",
+ "round": "W3-R07",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "ECLATS ANTIVOLS（自称法国第一安防分销）",
- "type_final": "ECLATS ANTIVOLS（自称法国第一安防分销）",
+ "summary": "安防设备分销/网店（Eclats Antivols，Toulouse centre de gros；1989 起；自述产品均为法国/欧洲制造）",
+ "type_final": "安防设备分销/网店（Eclats Antivols，Toulouse centre de gros；1989 起；自述产品均为法国/欧洲制造）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "rfqmatch 简介：All equipment offered is manufactured in France and Europe；infonet 列 contact@eclats-antivols.fr",
+   "quote": "All equipment offered is manufactured in France and Europe, ensuring superior quality",
+   "url": "https://www.rfqmatch.com/listing/b1e7300e-d3c5-41e1-8e49-7fb6aa43af77"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补（下一轮网查）→ B 不动",
+ "grade_reason_final": "定位「法国/欧洲制造」与中国货源相悖；contact@eclats-antivols.fr 已记 → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

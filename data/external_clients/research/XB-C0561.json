@@ -1,15 +1,15 @@
 {
  "code": "XB-C0561",
  "name": "Complete Control Solutions（美国宾州）",
- "round": "W3-R06",
+ "round": "W3-R07",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Complete Control Solutions（宾州；Antaira 授权分销）",
- "type_final": "Complete Control Solutions（宾州；Antaira 授权分销）",
- "size": "未量化",
+ "summary": "工业自动化服务 + 分销（Complete Control Solutions LLC，Lebanon PA；2010 起；约 8 人；2026 起 Antaira 授权分销、Invertek 分销；服务宾州/中大西洋工业客户；合伙人 Dan Kaiser）",
+ "type_final": "工业自动化服务 + 分销（Complete Control Solutions LLC，Lebanon PA；2010 起；约 8 人；2026 起 Antaira 授权分销、Invertek 分销；服务宾州/中大西洋工业客户；合伙人 Dan Kaiser）",
+ "size": "工业自动化服务 + 分销（Complete Control Solutions LLC，Lebanon PA；2010 起；约 8 人；2026 起 Antaira 授权分销、Invertek 分销；服务宾州/中大西洋工业客户；合伙人 Dan Kaiser）",
  "brands_seen": [],
- "saga_line": "—",
- "fit": "",
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "刚开始做工业以太网分销 → 第二来源切入窗口",
  "evidence": [
   {
    "kind": "来源库官网/名录核对",
@@ -17,26 +17,42 @@
    "quote": "",
    "url": "https://ccs-automation.com/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：CCS is an Antaira Authorized Distributor serving Pennsylvania and the Mid-Atlantic with industrial Ethernet switches；info@ccs-automation.com",
+   "quote": "Complete Control Solutions is an Antaira Authorized Distributor serving manufacturers and industrial operators throughout Pennsylvania and the surrounding Mid-Atlantic region",
+   "url": "https://ccs-automation.com/complete-control-solutions-is-now-an-antaira-authorized-distributor"
   }
  ],
  "contacts": {
-  "email": "",
-  "email_status": "缺",
-  "kp": []
+  "email": "info@ccs-automation.com",
+  "email_status": "来源库公开邮箱",
+  "kp": [
+   {
+    "name": "Dan Kaiser",
+    "role": "Managing Member（buzzfile / LinkedIn）",
+    "source": "https://www.linkedin.com/in/dan-kaiser-b4356651/"
+   }
+  ]
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
- "grade_final": "B",
- "grade_reason_final": "邮箱待补（下一轮网查）→ B 不动",
+ "grade_final": "A",
+ "grade_reason_final": "US 小型工业分销、邮箱已补 → 升 A 首触（轻，排 2027-01-13 周三）",
  "next_move": {
-  "action": "不动",
-  "angle": "",
-  "model": "",
-  "price": "",
-  "window": "",
-  "when": "不动"
+  "action": "首触",
+  "angle": "工业 DIN 轨 PoE 首触",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "CA 周三 08–10 当地",
+  "when": "2027-01-13"
  },
  "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
- "deep": false,
- "draft_en": null
+ "draft_en": {
+  "subject": "DIN-rail industrial PoE switches - second source for your line card",
+  "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point (FCC/CE certified).\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to the industrial brands you carry?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
 }

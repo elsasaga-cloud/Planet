@@ -1,15 +1,15 @@
 {
  "code": "XB-C0757",
  "name": "Streakwave",
- "round": "W3-R06",
+ "round": "W3-R07",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Streakwave Wireless（Tycon 分销）",
- "type_final": "Streakwave Wireless（Tycon 分销）",
+ "summary": "无线/网络增值分销（Streakwave Wireless, Inc.，San Jose CA；2005 起；圣何塞/盐湖城/辛辛那提 + 澳新；MikroTik/Ubiquiti/Cambium；服务 ISP/集成商/企业；总裁 Carl Moberg）",
+ "type_final": "无线/网络增值分销（Streakwave Wireless, Inc.，San Jose CA；2005 起；圣何塞/盐湖城/辛辛那提 + 澳新；MikroTik/Ubiquiti/Cambium；服务 ISP/集成商/企业；总裁 Carl Moberg）",
  "size": "未量化",
  "brands_seen": [],
- "saga_line": "—",
- "fit": "",
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "MikroTik/Ubiquiti 渠道 → SmartByte 商用 L2+ 对口",
  "evidence": [
   {
    "kind": "来源库官网/名录核对",
@@ -17,26 +17,42 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "招聘页：Since 2005…go-to distributor for ISPs, integrators, and enterprises…MikroTik, Ubiquiti, Cambium；Crunchbase contact@streakwave.com",
+   "quote": "We carry the industry’s top brands — MikroTik, Ubiquiti, Cambium, and many more — with deep technical expertise and real inventory",
+   "url": "https://employment.streakwave.com/"
   }
  ],
  "contacts": {
-  "email": "",
-  "email_status": "缺",
-  "kp": []
+  "email": "contact@streakwave.com",
+  "email_status": "来源库公开邮箱",
+  "kp": [
+   {
+    "name": "Carl Moberg",
+    "role": "President（buzzfile / OpenCorporates agent）",
+    "source": "https://www.buzzfile.com/business/Streakwave-Wireless,-Inc.-408-294-8415"
+   }
+  ]
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
- "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_final": "A",
+ "grade_reason_final": "US 网络 VAD、邮箱已补 → 升 A 首触（排 2027-01-13 周三）",
  "next_move": {
-  "action": "不动",
-  "angle": "",
-  "model": "",
-  "price": "",
-  "window": "",
-  "when": "不动"
+  "action": "首触",
+  "angle": "分销首触：24 口 PoE + STI 工业线",
+  "model": "STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "CA 周三 08–10 当地",
+  "when": "2027-01-13"
  },
  "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
- "deep": false,
- "draft_en": null
+ "draft_en": {
+  "subject": "L2+ PoE and industrial switches for your reseller channel",
+  "body": "Hi,\n\nSaga Telecom supplies network distributors with Marvell-based L2+ PoE switches and Centec-based L3 10G/25G/100G switches, under our label or the distributor's own, FCC/CE. Two lines that usually interest MikroTik and WISP channels:\n\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).\n- STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWho on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
 }

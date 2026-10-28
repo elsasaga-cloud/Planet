@@ -1,12 +1,12 @@
 {
  "code": "XB-C0538",
  "name": "Birmingham Telecom",
- "round": "W3-R06",
+ "round": "W3-R07",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Birmingham Telecom（英国 IT/网络经销）",
- "type_final": "Birmingham Telecom（英国 IT/网络经销）",
- "size": "未量化",
+ "summary": "企业电信/IT 服务商（Birmingham Telecommunications Ltd，Coleshill；2006 起；11–50 人；3CX/托管话音/宽带/Ubiquiti 安装）",
+ "type_final": "企业电信/IT 服务商（Birmingham Telecommunications Ltd，Coleshill；2006 起；11–50 人；3CX/托管话音/宽带/Ubiquiti 安装）",
+ "size": "企业电信/IT 服务商（Birmingham Telecommunications Ltd，Coleshill；2006 起；11–50 人；3CX/托管话音/宽带/Ubiquiti 安装）",
  "brands_seen": [],
  "saga_line": "—",
  "fit": "",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "LinkedIn：Hosted Telephony Specialists - 3CX Platinum Partner…Ubiquiti WiFI Installation；11–50 人",
+   "quote": "Hosted Telephony Specialists - 3CX Platinum Partner - SIP Trunking Integrator",
+   "url": "https://uk.linkedin.com/company/birmingham-telecommunications-limited"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "MSP/电信服务商，不是分销；info@birminghamtelecom.co.uk 已记 → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",
