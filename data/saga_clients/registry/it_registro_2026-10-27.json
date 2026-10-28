@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 27
+  "count": 29
  },
  "rows": {
   "SA-070": {
@@ -873,6 +873,73 @@
    ],
    "notes": "贴标 30% 可谈 small；B；一页纸一次；坐实（P.IVA 站脚）。",
    "code": "SB-816"
+  },
+  "SB-1092": {
+   "batch": 109,
+   "name": "UNIFIBRE（unifibre.it 电商与品牌；业务分支 2026-10-01 起并入 OPTOPLAST S.R.L.（rebrand Optoconnect）；P.IVA 01220320665；CF 05645630632；REA TO-916276；都灵 Via Onorato Vigliani 143/B, 10127）— 1988 年起的意大利铜缆 / 光纤连接制造商（ISO 9001；4 个工厂；电信 / 广播 / 数据中心 / 工业 / 军工；2023-01 起由 Star Capital SGR 控股；2024 营收 €20.67M、净利 €190k；109 人；股本 €1,059,136）；Unifibre 有源类目 10 款工业交换机全为 PLANET",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：optoplast.org 新闻 2026-09-30（1° ottobre 2026 — acquisizione da parte di Optoconnect (rebrand di Optoplast) del ramo d’azienda di Unifibre；页脚 Optoplast Srl Via Onorato Vigliani 143-B 10127 Torino CF 05645630632 P.IVA 01220320665 REA TO-916276 Capitale 1.059.136）+ unifibre.it 首页（OPTOPLAST SRL P.IVA 01220320665；Copyright Unifibre S.r.l.）+ ufficiocamerale（OPTOPLAST S.R.L.；Fatturato € 20.667.242 2024；Dipendenti 109；Iscrizione 23/04/2007；ATECO 2731；Utile € 189.856）+ LinkedIn（fondata 1988；dal gennaio 2023 controllata da Star Capital；quattro stabilimenti；fatturato 2022 22 M€）",
+   "url": "https://www.ufficiocamerale.it/6808/optoplast-spa",
+   "number": "P.IVA 01220320665；CF 05645630632；REA TO-916276（OPTOPLAST S.R.L.；Unifibre S.r.l. 原主体 P.IVA 未取）",
+   "status": "Active（Unifibre 分支 2026-10-01 并入）",
+   "incorporated": "1988（现主体登记 2007-04-23）",
+   "company_type": "S.r.l.（Star Capital SGR 控股）",
+   "sic": [
+    "铜缆 / 光纤连接产品制造（ATECO 27.31）+ Unifibre 光纤增值分销电商"
+   ],
+   "address": "Via Onorato Vigliani 143/B, 10127 Torino",
+   "accounts": "2024 营收 €20,667,242；净利 €189,856",
+   "accounts_due": "—",
+   "size_band": "中型（109 人；€20.7M）",
+   "officers": [
+    "（未具名）— Unifibre 分支 responsabile commerciale / acquisti（收件人 info@unifibre.it 点名）",
+    "（未具名）— Optoplast / Optoconnect 管理层（拍板人未取）"
+   ],
+   "psc": "Star Capital SGR（2023-01 起）",
+   "charges": "",
+   "prev_names": [
+    "Optoplast S.p.A.",
+    "Unifibre S.r.l.（业务分支）"
+   ],
+   "lines": [
+    "**刚被 €20M 光纤制造集团收购的光纤增值分销分支（有源类目全是台系工业交换机）→ 分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE 一页纸 + STC-110XGE；切口 = 「并购后供应商重审」；稿内不点名 Planet；军工业务不碰",
+    "收件人 info@unifibre.it 点名 Unifibre 原团队；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次；坐实（收购方 P.IVA + 财务；Unifibre 原 P.IVA 未取）。",
+   "code": "SB-1092"
+  },
+  "SB-295": {
+   "batch": 109,
+   "name": "WI-COM SOLUTIONS S.R.L.（wicomsolutions.it；Monza e Brianza Bovisio Masciago Via Leonardo da Vinci 11, 20813；P.IVA / CF 07628770963；REA MB-1880777）— 2011-11-30 登记的 RF / 无线 / 音频元器件代理分销商（天线 DAS / Small Cell / 专网 / RBS、同轴 / 数据 / 工业 / 军用连接、电池、光子器件；Helios / Hilinks / Gamma Nu 意大利代理；市场电信 / 汽车 / 工业 / 军工；switch & MC 栏目规格 EN 50155 / EN 50121-4 / IEC 60255 = 轨交 / 电力级）；股本 €20,000；3 人；2024 营收 €3.73M、净利 €1.44M；KP Alessandro Padovani",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（WI-COM SOLUTIONS S.R.L.；P.IVA 07628770963；VIA LEONARDO DA VINCI 11 20813 BOVISIO MASCIAGO；Rea 1880777；Iscrizione 30/11/2011；Fatturato € 3.727.563 2024；Dipendenti 3；Utile € 1.441.268；Capitale € 20.000；ATECO 46502）+ reportaziende（2025 fatturato €3,7M −0,3 %）+ LinkedIn（2011；2–10）+ wicomsolutions.it 页脚（C.F. / P. IVA 07628770963；info@）+ m2mforum（rappresentante per l’Italia di primarie società estere）",
+   "url": "https://www.ufficiocamerale.it/2764/wi-com-solutions-srl",
+   "number": "P.IVA / CF 07628770963；REA MB-1880777",
+   "status": "Active",
+   "incorporated": "2011-11-30",
+   "company_type": "S.r.l.（私有；股本 €20,000）",
+   "sic": [
+    "RF / 天线 / 连接 / 电池 元器件代理分销（ATECO 46.50.2）"
+   ],
+   "address": "Via Leonardo da Vinci 11, 20813 Bovisio Masciago (MB)",
+   "accounts": "2024 营收 €3,727,563；净利 €1,441,268",
+   "accounts_due": "—",
+   "size_band": "小微（3 人；€3.7M）",
+   "officers": [
+    "Alessandro Padovani — 研究档 KP = 收件人",
+    "（未具名）— amministratore（拍板人未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**3 人高毛利的 RF 元器件代理商（交换机栏目是轨交 / 电力级规格，我方无 EN 50155）→ 代理型 small，一页纸一次只给非轨交工业线（STI-054GP / STI-144GP / STI-154GP 作专网 / DAS 机柜配套）；无回声 → 不动**；军工 / 轨交不碰、不提",
+    "收件人 Alessandro 直呼；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "代理型 small；一页纸一次（非轨交）；坐实（P.IVA + REA + 财务）。",
+   "code": "SB-295"
   }
  }
 }

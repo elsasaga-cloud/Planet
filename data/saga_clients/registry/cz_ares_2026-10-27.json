@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 12
+  "count": 15
  },
  "rows": {
   "SA-089": {
@@ -400,6 +400,109 @@
    ],
    "notes": "贴标 30% 目标；B BIG；加厚一次；部分坐实（品牌 + 地址）。",
    "code": "SB-455"
+  },
+  "SB-1128": {
+   "batch": 109,
+   "name": "LOSAN s.r.o.（losan.cz / eshop.losan.cz；霍穆托夫 Chomutov Březenecká 4808, 430 04；IČO 64053580；DIČ CZ64053580；KS Ústí nad Labem C 10071）— 1995-12-18 成立的北波希米亚区域 IT 零售 / 电商 / 学校与机构 IT 供应商（门店 Chomutov / Most / Teplice；e-shop 上 PLANET 工业交换机带价带库存）；股本 CZK 100k；10–19 人；jednatelé Jan Stehno、Pavel Zwinger（2023-02-02 起）；姐妹公司 LOSAN internet s.r.o.（06878865；批发；股东 Stehno 45% / Weiss 45% / Zwinger 10%）、LOSAN servis s.r.o.",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：losan.cz/kontakty（IČO 64053580；DIČ CZ64053580；Březenecká 4808 Chomutov；KS Ústí nad Labem oddíl C vložka 10071）+ fakturujzdarma（Datum vzniku 18. prosince 1995；Základní kapitál 100 000 Kč；10–19 zaměstnanců；jednatelé Jan Stehno / Pavel Zwinger 2. února 2023）+ rejstrik.penize.cz（zapsáno 18. 12. 1995；历任 jednatel David Fojtík / Jiří Brož）+ idatabaze（pobočky Chomutov Palackého 4505 / Most / Teplice）+ LOSAN internet s.r.o. 06878865（společníci Stehno 45 % / Weiss 45 % / Zwinger 10 %）",
+   "url": "https://rejstrik.penize.cz/64053580-losan-s-r-o",
+   "number": "IČO 64053580；DIČ CZ64053580；C 10071 KS Ústí nad Labem",
+   "status": "Aktivní",
+   "incorporated": "1995-12-18",
+   "company_type": "s.r.o.（Stehno / Weiss / Zwinger）",
+   "sic": [
+    "IT 零售 + 电商 + 学校 / 机构 IT 供应 + 网络施工（北波希米亚）"
+   ],
+   "address": "Březenecká 4808, 430 04 Chomutov",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（10–19 人）",
+   "officers": [
+    "Jan Stehno — Jednatel / 股东 = 拍板人 / 收件人（obchod@ / info@losan.cz 点名）",
+    "Pavel Zwinger — Jednatel / 股东",
+    "David Weiss — 股东（LOSAN internet）"
+   ],
+   "psc": "Stehno / Weiss / Zwinger",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**三店区域 IT 商，e-shop 已备库台系工业交换机 → 分销 20% small，一页纸一次（STI-288DGGPM / STI-0240GE 对照其在库 10 口型号 + STC-028GP / STC-228GP 学校 PoE）；有回声再加厚**；稿内不点名 Planet",
+    "表内未跟进 → 首触；收件人点名 Jan Stehno；发信窗口 Thu 12–14 CET；捷克语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（IČO + 法院卷号）。",
+   "code": "SB-1128"
+  },
+  "SB-461": {
+   "batch": 109,
+   "name": "EMOS spol. s r.o.（emos.cz / emos.eu；普热罗夫 Přerov I-Město Šířava 295/17, 750 02；IČO 19014104；DIČ CZ19014104；KS Ostrava C 1167）— 1991-07-18 由 Jiří Lupač 创立的自有品牌消费电子 / 电工产品公司（电池、照明、天线、门铃、气象站、延长线、小家电；经 SK / PL / SI / HU 姐妹公司覆盖 26 国；GP Batteries 独家）；**2022 年被 Legrand 收购，2024-01-01 起唯一股东 Legrand France S.A.（出资 CZK 64.95M）**；jednatelé Yriex Dominique Roullac（2022-02-28）、Emmanuel Regent（2022-12-31）、Franck Lemery（2025-05-12）；≈400–450 人；集团营收 CZK 2.3bn（2020）",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：rejstrik.penize.cz（EMOS spol. s r.o.；Šířava 295/17 Přerov I-Město 75002；IČO 19014104；C 1167 KS Ostrava；Franck Lemery jednatel 12. 5. 2025 zapsáno 14. 10. 2025）+ kurzy.cz（jednatelé Yriex Dominique Roullac 28.2.2022 / Emmanuel Regent 31.12.2022 / Franck Lemery；společník Legrand France S.A. 758501001 Limoges vklad 64 950 000 Kč 100 % zapsáno 1. 1. 2024；前股东 EMOS CZ group a.s. 05645573）+ finmag（Jiří Lupač jednatel 18. 7. 1991）+ cs.wikipedia（založení 1991；401 zaměstnanců；majitel Legrand；2020 obrat 2,3 mld Kč）+ prerovsky.denik 2022-02-15（ÚOHS fúzi povolil）",
+   "url": "https://rejstrik.penize.cz/19014104-emos-spol-s-r-o",
+   "number": "IČO 19014104；DIČ CZ19014104；C 1167 KS Ostrava；LEI 31570010000000069450",
+   "status": "Aktivní（Legrand 子公司）",
+   "incorporated": "1991-07-18",
+   "company_type": "spol. s r.o.（Legrand France S.A. 100%）",
+   "sic": [
+    "自有品牌消费电子 / 电工产品 批发（中国代工）"
+   ],
+   "address": "Šířava 295/17, 750 02 Přerov I-Město",
+   "accounts": "集团营收 CZK 2.3bn（2020）",
+   "accounts_due": "—",
+   "size_band": "中型（≈400 人；Legrand 集团）",
+   "officers": [
+    "Franck Lemery — Jednatel（2025-05 起；Legrand 派驻）",
+    "Emmanuel Regent — Jednatel（VOP 签署人）",
+    "Yriex Dominique Roullac — Jednatel",
+    "Jiří Lupač — 创始人（已退出）"
+   ],
+   "psc": "Legrand France S.A.（Limoges）",
+   "charges": "",
+   "prev_names": [
+    "EMOS CZ group a.s.（前控股）"
+   ],
+   "lines": [
+    "**Legrand 旗下 400 人自有品牌消费电子商（代工采购集中、合规门槛高）→ 贴标 OEM 30% 理论可谈但命中率低，B，一页纸一次（STC-028GP / STC-228GP 非管理型 PoE 走其「网络配件」类目；只报 OEM 档）；无回声 → 不动**",
+    "收件人 nakup@ / info@emos.cz 点名 product manager（网络 / 电脑配件）；发信窗口 Thu 12–14 CET；捷克语一句引子；稿内不提 Legrand"
+   ],
+   "notes": "贴标 30% 低命中；B；一页纸一次；坐实（IČO + 股东）。",
+   "code": "SB-461"
+  },
+  "SB-309": {
+   "batch": 109,
+   "name": "Alternetivo s.r.o.（alternetivo.cz；布拉格 10 Záběhlice Žirovnická 2389/1a, 106 00；IČO 25098314；DIČ CZ25098314；MS Praha C 49492）— 1996 年起的捷克 / 斯洛伐克网络与电信技术增值分销商（交换 / 路由、无线与光网络、结构化布线、网络安全、IP 监控；**自有品牌 NNET 工业非管理 PoE 交换机**；ChannelWorld「年度 VAD」2017 / 2018 / 2021）；jednatelé Ondřej Valenta（2005-02-01 起）、Radim Dolák（2016-11-15 起）；股东 Valenta / Dolák / Lukáš Reif（= 研究档 KP）；KP Milan Krátký；表内「可以尝试多跟进一下」",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：alternetivo.cz/kontakty（Alternetivo s.r.o. Žirovnická 2389/1a 106 00 Praha 10；IČ 25098314 DIČ CZ25098314；MS v Praze oddíl C vložka 49492）+ kurzy.cz（jednatelé Ondřej Valenta 1.2.2005 / Radim Dolák 15.11.2016）+ detail.cz（vlastní Ondřej Valenta 55 / Radim Dolák 47 / Lukáš Reif 51）+ channeltrends（Specializovaný distributor / VAD）+ LinkedIn（since 1996；CZ + SK；VAD of the year）+ o-spolecnosti（ChannelWorld Awards 2017 / 2018 / 2021）",
+   "url": "https://rejstrik-firem.kurzy.cz/25098314/alternetivo-sro/",
+   "number": "IČO 25098314；DIČ CZ25098314；C 49492 MS Praha",
+   "status": "Aktivní",
+   "incorporated": "1996/1997",
+   "company_type": "s.r.o.（Valenta / Dolák / Reif）",
+   "sic": [
+    "网络 / 电信技术增值分销（CZ + SK）+ 自有品牌 NNET"
+   ],
+   "address": "Žirovnická 2389/1a, 106 00 Praha 10 – Záběhlice",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（VAD；人数未取）",
+   "officers": [
+    "Lukáš Reif — 股东（研究档 KP）= 拍板人 / 收件人",
+    "Milan Krátký — 研究档 KP（产品 / 采购）= 收件人（抄）",
+    "Ondřej Valenta — Jednatel / 股东",
+    "Radim Dolák — Jednatel / 股东"
+   ],
+   "psc": "Valenta / Dolák / Reif",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 NNET 已贴工业非管理 PoE 的捷克 VAD → 贴标 OEM 30% 可谈 + 分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-244GP（非管理）1:1 对照 NNET 在售型号 + STC-228GP / STC-2224GP；只报 OEM 档；稿内不点名其现有代工厂",
+    "收件人 Lukáš 直呼、抄 Milan；发信窗口 Thu 12–14 CET；捷克语一句引子"
+   ],
+   "notes": "贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；坐实（IČO + 法院卷号 + 股东）。",
+   "code": "SB-309"
   }
  }
 }

@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 84
+  "count": 92
  },
  "rows": {
   "SA-061": {
@@ -2661,6 +2661,262 @@
    ],
    "notes": "分销 20% + 贴标可谈；B；加厚一次（small）；坐实（adószám + cégjegyzékszám）。",
    "code": "SB-1052"
+  },
+  "SB-1086": {
+   "batch": 109,
+   "name": "TEAM TELECOM SRL（teamtelecom.ro；布加勒斯特 Sector 1 str. Copilului nr. 6-12, tronson II, Intrarea E, et. 1, Ansamblul Domenii Park, 012178；CUI RO14306256；J40/9771/2001）— 2001-11-21 成立的电信设备分销与集成商（光纤 / 结构化布线 / 门禁 / 19\" 机柜 / Alcatel-Lucent 交换与电话；PLANET 工业交换机页；表内「大口 FS / MC / 机架 / data center」）；CAEN 4650（年报 6110）；股本 RON 2,000；8 人；2024 营业额 RON 15.97M（≈€3.2M）、净利 RON 1.52M；administrator 未取",
+   "iso": "RO",
+   "fetched": "2026-10-28",
+   "source": "RO · 1 次检索：targetare.ro（TEAM TELECOM SRL；CUI 14306256；J2001009771405；înființare 21 noiembrie 2001；CAEN 4650；cifră de afaceri 15,968,419 RON 2024；profit 1,519,519 RON）+ termene.ro（J40/9771/2001；8 angajați；Activă fiscal）+ risco.ro（22 Nov 2001；turnover 15.968.419 RON 2024）+ kompass（capital 2,000 RON；VAT RO14306256）+ teamtelecom.ro/en/contact-en（str. Copilului 6-12 Domenii Park sector 1）",
+   "url": "https://www.risco.ro/en/verifica-firma/team-telecom-cui-14306256",
+   "number": "CUI RO14306256；J40/9771/2001（EUID ROONRC.J2001009771405）",
+   "status": "Activă",
+   "incorporated": "2001-11-21",
+   "company_type": "SRL（私有；股本 RON 2,000）",
+   "sic": [
+    "电信 / 网络设备分销 + 布线 / 门禁 / 机柜 集成（CAEN 4650 / 6110）"
+   ],
+   "address": "str. Copilului nr. 6-12, tronson II, Intrarea E, et. 1, Sector 1, 012178 București",
+   "accounts": "2024 营业额 RON 15,968,419；净利 RON 1,519,519",
+   "accounts_due": "—",
+   "size_band": "小型（8 人；≈€3.2M）",
+   "officers": [
+    "（未具名）— administrator（拍板人未取）；收件人 office@teamtelecom.ro（点名 director comercial）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€3.2M / 8 人、人均产出高的布加勒斯特电信分销集成商（目录已有台系工业交换机 + 机架 / DC 线）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 1:1 + STC-2224GP / STC-424XGGPM-280W 机房线）；有回声再加厚**；稿内不点名 Planet / Alcatel",
+    "表内未跟进 → 首触；发信窗口 Thu 12–14 EET；罗语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（CUI + J + 财务）。",
+   "code": "SB-1086"
+  },
+  "SB-1126": {
+   "batch": 109,
+   "name": "KLINGER Finland Oy（klinger.fi；Kirkkonummi Masala Tinankuja 3, 02430；Y-tunnus 0195519-1）— 1940 年成立、KLINGER 集团（奥地利家族）芬兰公司：工业阀门 / 密封 / 产品标识 / 机器自动化元件 / 仪表，另设 CCTV Systems 事业部（工业 IP 摄像机配 PLANET 工业 PoE）；辅名 Aseko / Klinger-Ramikro / Meckelborg / Tarraprint；toimitusjohtaja Esa Virtanen；董事长 Daniel Schibli；董事 Christoph Klinger-Lohr；2025 营收 €39.0M（−12.3%）、营业利润 €3.8M；115 人",
+   "iso": "FI",
+   "fetched": "2026-10-28",
+   "source": "FI · 1 次检索：proff.fi（Klinger Finland Oy 0195519-1；liikevaihto 39 MEUR 2025；115 henkilöä；liikevoitto 3,8 MEUR；Toimitusjohtaja Virtanen Esa Olavi；aputoiminimet Aseko / Klinger-Ramikro / Meckelborg；Tinankuja 3 02430 Masala）+ asiakastieto（perustettu 1940；Puheenjohtaja Schibli Daniel；liikevaihto 2021–2025 35.4 / 42.1 / 49.2 / 44.5 / 39.0 M€；henkilöstö 91→115）+ vainu（Christoph Klinger-Lohr hallitus）+ klinger.fi/en/contact（CCTV Systems）",
+   "url": "https://www.proff.fi/yrityksen/klinger-finland-oy/masala/koneet-ja-laitteet/0195519-1I10PO",
+   "number": "Y-tunnus 0195519-1",
+   "status": "Aktiivinen",
+   "incorporated": "1940",
+   "company_type": "Oy（KLINGER 集团子公司）",
+   "sic": [
+    "工业阀门 / 密封 / 仪表 / 标识 技术批发（TOL 4669）+ CCTV Systems 事业部"
+   ],
+   "address": "Tinankuja 3, 02430 Masala (Kirkkonummi)",
+   "accounts": "2025 营收 €38,997k；营业利润 €3,756k",
+   "accounts_due": "—",
+   "size_band": "中型（115 人；€39M）",
+   "officers": [
+    "Esa Virtanen — Toimitusjohtaja（集团子公司 CEO；不直接发）",
+    "（未具名）— CCTV Systems 事业部负责人 = 收件人（info@klinger.fi 点名 CCTV Systems）",
+    "Daniel Schibli — 董事长；Christoph Klinger-Lohr — 董事（集团）"
+   ],
+   "psc": "KLINGER Holding（奥地利）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€39M 工业技术批发集团子公司，只有 CCTV 事业部用得上（工业 PoE 配 IP 摄像机）→ 采购型 25% small（事业部级），一页纸一次（STI-054GP / STI-144GP / STI-154GP 1:1 对照其台系在用型号）；有回声再加厚**；稿内不点名 Planet",
+    "表内未跟进 → 首触；收件人 info@ 点名 CCTV Systems；发信窗口 Thu 12–14 EET；芬兰语一句引子"
+   ],
+   "notes": "采购型 25% small（事业部）；一页纸一次；坐实（Y-tunnus + 财务）。",
+   "code": "SB-1126"
+  },
+  "SB-985": {
+   "batch": 109,
+   "name": "QNV SL（品牌 QNV Solutions；qnv.com；巴塞罗那 Santa Coloma de Cervelló Carrer Tallador 37, Recinto Industrial Colònia Güell, 08690；CIF B60574779）— 1994-05-16 成立的工业计算 / 数据采集 / 工业通信 / 机器视觉 / 边缘 AI 分销与方案商（Adlink、Korenix、Cincoze 等；工业以太网交换机管理 / 非管理类目；分部 Madrid / Bizkaia / Portugal）；股本 €21,000；15 人（2026）；3 名 administradores solidarios（未具名）；KP Roberto Cordeiro；群发 15 次无回复",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：axesor（Qnv sl；CIF B60574779；constitución 16/05/1994；CALLE TALLADOR 37 RECINTO IND. COLONIA GUELL 08690 SANTA COLOMA DE CERVELLO；CNAE 4690；objeto importación y distribución de componentes informáticos para la industria）+ empresite（15 trabajadores 2026）+ einforma（Capital 21.000 €；órgano de administración 3 miembros 20/07/2026；BORME 27/07/2026 nombramientos）+ iberinform（marca QNV SOLUTIONS）+ qnv.com（desde 1994；Adlink, Korenix y Cincoze；delegaciones Barcelona / Madrid / Bizkaia / Portugal）+ LinkedIn（11–50）",
+   "url": "https://www.axesor.es/Informes-Empresas/723108/QNV_SL.html",
+   "number": "CIF B60574779",
+   "status": "Activa",
+   "incorporated": "1994-05-16",
+   "company_type": "S.L.（3 名连带管理人）",
+   "sic": [
+    "工业计算 / 工业通信 / 机器视觉 分销与方案（CNAE 4690）"
+   ],
+   "address": "Carrer Tallador 37, Recinto Industrial Colònia Güell, 08690 Santa Coloma de Cervelló (Barcelona)",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（15 人）",
+   "officers": [
+    "Roberto Cordeiro — 研究档 KP（r.cordeiro@ / ventas）= 收件人",
+    "（未具名）— administradores solidarios ×3（拍板人未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**卖 Korenix 的 15 人工业计算分销商（15 次群发无回）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作 Korenix JetNet 第二价位；换切口 = 交期 + 价差）；再无回声 → 不动**；稿内不点名 Korenix",
+    "收件人 Roberto 直呼；发信窗口 Thu 12–14 CET；西语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次（换切口）；坐实（CIF + 成立日）。",
+   "code": "SB-985"
+  },
+  "SB-015": {
+   "batch": 109,
+   "name": "SUMINISTROS INDUSTRIALES MP4 SL（品牌 MP4；suministros-industriales.es；巴塞罗那 Sabadell C/ Leonardo da Vinci 37-39, Local 2, 08204；CIF B63629968）— 2004-09-28 成立的工业用品供应商（自动化：电柜空调 / 机柜 / 安全传感器 / 执行器 / 气动输送；条导：拖链 / 型材 / 卷线器 / 滑触线；官网无网络类目）；股本 €3,460；6 人（2023）；微型；administradora única Silvia Pascual Fernández（2025-06 起）；KP Hugo Hernàndez（1 次回复、18 次跟进）",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：iberinform（SUMINISTROS INDUSTRIALES MP4 SL；CIF B63629968；CALLE LEONARDO DA VINCI 37, 39 LOCAL 2 08204 SABADELL；constitución 28/09/2004；BORME 12/06/2025 ADM.UNICO PASCUAL FERNANDEZ SILVIA）+ einforma（Capital 3.460 €；6 empleados 2023；microempresa）+ expansion（CNAE 4690；último depósito 2024）+ datoscif（Administrador Único Pascual Fernandez Silvia 19/06/2025）+ suministros-industriales.es（automatización y condúctica；info@）",
+   "url": "https://www.iberinform.es/empresa/1753516/suministros-industriales-mp4",
+   "number": "CIF B63629968",
+   "status": "Activa",
+   "incorporated": "2004-09-28",
+   "company_type": "S.L.（微型；股本 €3,460）",
+   "sic": [
+    "工业用品供应（自动化元件 / 条导）（CNAE 4690）"
+   ],
+   "address": "C/ Leonardo da Vinci 37-39, Local 2, 08204 Sabadell (Barcelona)",
+   "accounts": "—（微型）",
+   "accounts_due": "—",
+   "size_band": "小微（6 人）",
+   "officers": [
+    "Silvia Pascual Fernández — Administradora única（2025-06 起）= 拍板人",
+    "Hugo Hernàndez — 研究档 KP（曾 1 次回复）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**6 人工业用品商，主业无网络类目（只回过 1 次「价格」）→ 采购型 25% small，一页纸一次（STI-054GP / STI-144GP 配电柜 + STC-028GP；一口价 + MOQ 1）；再无回声 → 不动**",
+    "收件人 Hugo 直呼；发信窗口 Thu 12–14 CET；西语一句引子"
+   ],
+   "notes": "采购型 25% small；一页纸一次；坐实（CIF + 管理人）。",
+   "code": "SB-015"
+  },
+  "SB-024": {
+   "batch": 109,
+   "name": "Erstech Technika Kereskedelmi és Szolgáltató Kft.（erstechtechnika.hu；Pest 县 Tatárszentgyörgy Kinizsi u. 13, 2375（Dabas 附近）；adószám 13118145-2-13；cégjegyzékszám 13-09-108843）— 2003-09-29 成立的小型电气安装 + 安防（摄像 / 报警 / 空调系统维护）承包商（TEÁOR 4321）；jegyzett tőke HUF 8M；2025 营收 HUF 27.975M（≈€70k）；MD Janos Hogye（ISAF 2025 到访；对升压 5 口与 2 光 10 电机型有兴趣；之后 6 次推送无回）",
+   "iso": "HU",
+   "fetched": "2026-10-28",
+   "source": "HU · 1 次检索：opten（Erstech Technika Kft.；Adószám 13118145-2-13；2375 Tatárszentgyörgy Kinizsi u. 13；4321 Villanyszerelés；2003；27 975 ezer Ft 2025）+ partnercontrol（Alapítás 2003.09.29；Jegyzett tőke 8 000 000 HUF；árbevétel 27 975 000 HUF 2025）+ ceginfo（Cégjegyzékszám 13 09 108843）+ erstechtechnika.hu（kamera- riasztó- és klímarendszerek karbantartása；info@erstechtechnika.hu）",
+   "url": "https://ceginfo.hu/ceg-adatlap/erstech-technika-kereskedelmi-es-szolgaltato-kft-1309108843.html",
+   "number": "Adószám 13118145-2-13；Cégjegyzékszám 13-09-108843",
+   "status": "Active",
+   "incorporated": "2003-09-29",
+   "company_type": "Kft.（私有；HUF 8M）",
+   "sic": [
+    "电气安装 + 安防 / 空调系统维护（TEÁOR 4321）"
+   ],
+   "address": "Kinizsi u. 13, 2375 Tatárszentgyörgy",
+   "accounts": "2025 营收 HUF 27,975k（≈€70k）",
+   "accounts_due": "—",
+   "size_band": "小微（≈€70k 营收）",
+   "officers": [
+    "Janos Hogye（Hőgye János）— Ügyvezető = 拍板人 / 收件人（ISAF 2025 到访）"
+   ],
+   "psc": "Hőgye 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**年营收 €7 万的匈牙利小安装商（展会上点过 5 口升压 + 2 光 10 电）→ 集成 25% small，一页纸一次（STI-054GP / STC-228GP / STC-2216GP 按其点过的两款给一口价，MOQ 1）；再无回声 → 不动**",
+    "收件人 János 直呼；发信窗口 Thu 12–14 CET；匈牙利语一句引子；稿内引 ISAF 2025 见面"
+   ],
+   "notes": "集成 25% small；一页纸一次；坐实（adószám + 财务）。",
+   "code": "SB-024"
+  },
+  "SB-026": {
+   "batch": 109,
+   "name": "Safe-tech CCTV Systems SWEDEN AB（safe-tech.se；Kronoberg Markaryd Ljungbyvägen 61, 285 40；org.nr 556732-8181；VAT SE556732818101）— 2007-06-28 登记的小型 CCTV / 安防批发商（SNI 46649）；股本 SEK 100k；3 人；2024 营收 SEK 4.63M（−24%）、经营亏损 SEK −0.48M；董事 / 100% 实益人 Jimmy Leif Göran Johansson（1977 年生；ISAF 2025 到访、取目录、加 WA）、替补 Sara Mikaela Ahl；6 次推送 0 回复",
+   "iso": "SE",
+   "fetched": "2026-10-28",
+   "source": "SE · 1 次检索：allabolag（Safe-tech CCTV Systems SWEDEN AB；Org.nr 556732-8181；Ljungbyvägen 61 285 40 Markaryd；Registreringsdatum 2007-06-28；3 anställda；SNI 46649；Ledamot Jimmy Leif Göran Johansson f 1977）+ bolagsfakta（Verklig huvudman Jimmy Johansson 100 %；Suppleant Mikaela Ahl）+ eniro（Aktiekapital 100000；Revisor Fredrik Martin Jönsson）+ hitta（Moms SE556732818101）+ 研究档 allabolag 2024 数字（4.63 MSEK；−24 %；−0.48 MSEK）",
+   "url": "https://www.allabolag.se/5567328181/safe-tech-cctv-systems-sweden-ab",
+   "number": "Org.nr 556732-8181；VAT SE556732818101",
+   "status": "Aktiv",
+   "incorporated": "2007-06-28",
+   "company_type": "Aktiebolag（Jimmy Johansson 100%）",
+   "sic": [
+    "CCTV / 安防产品 批发（SNI 46649）"
+   ],
+   "address": "Ljungbyvägen 61, 285 40 Markaryd",
+   "accounts": "2024 营收 SEK 4.63M；经营亏损 SEK −0.48M",
+   "accounts_due": "—",
+   "size_band": "小微（3 人）",
+   "officers": [
+    "Jimmy Johansson（Jimmy Leif Göran Johansson）— Styrelseledamot / 100% 所有人 / CEO = 拍板人 / 收件人（WA 已加）",
+    "Sara Mikaela Ahl — Styrelsesuppleant"
+   ],
+   "psc": "Jimmy Johansson 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**3 人、亏损中的瑞典 CCTV 批发商（展会加过 WA）→ 分销 20% small，一页纸一次（WA 走 Simon：STC-028GP / STC-228GP 一口价 + MOQ 1）；再无回声 → 不动**",
+    "收件人 Jimmy 直呼（WA + 邮件同发）；发信窗口 Thu 12–14 CET；瑞典语一句引子；稿内引 ISAF 2025 见面"
+   ],
+   "notes": "分销 20% small；一页纸一次（WA）；坐实（org.nr + 实益人）。",
+   "code": "SB-026"
+  },
+  "SB-046": {
+   "batch": 109,
+   "name": "INTELIWARE SL（品牌 Domoticalia；domoticalia.es / inteliware.es；马德里 Torrejón de Ardoz C/ Juan Genovés 43, 28850；CIF B86690344；RM Madrid T 30835 F 163 H M-554995）— 2013-03-15 成立的智能家居 / IoT / 网络设备网店（多品牌含 Witek 工业 FS）；股本 €3,006；**1 名雇员（2024）、上年度亏损**；Administrador único Rafael Torrico Jiménez（= 研究档 KP）；8 次跟进 0 回复",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：empresia（INTELIWARE SL；CIF B86690344；constitución 15/03/2013；capital 3.006 €；C/ JUAN GENOVES 43 TORREJON DE ARDOZ）+ datoscif（Administrador Único Torrico Jimenez Rafael；T 30835 F 163 S 8 H M 554995）+ einforma（1 empleado 2024；microempresa；resultado negativo）+ domoticalia.es Legal Notice（INTELIWARE S.L. CIF B86690344 Juan Genovés 43 28850）",
+   "url": "https://www.empresia.es/empresa/inteliware/",
+   "number": "CIF B86690344",
+   "status": "Activa",
+   "incorporated": "2013-03-15",
+   "company_type": "S.L.（一人公司；股本 €3,006）",
+   "sic": [
+    "智能家居 / IoT / 网络设备 网店"
+   ],
+   "address": "C/ Juan Genovés 43, 28850 Torrejón de Ardoz (Madrid)",
+   "accounts": "—（微型；上年亏损）",
+   "accounts_due": "—",
+   "size_band": "小微（1 人）",
+   "officers": [
+    "Rafael Torrico Jiménez — Administrador único / 唯一雇员（研究档 KP Rafael Torrico）"
+   ],
+   "psc": "Rafael Torrico（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一人网店 + 亏损 + 8 次 0 回复 → 不动（B 保留但不进发送包）**",
+    "若其主动询盘 → 只做预付款小单"
+   ],
+   "notes": "坐实（CIF + 管理人）；一人网店 → 不动。",
+   "code": "SB-046"
+  },
+  "SB-589": {
+   "batch": 109,
+   "name": "BY DEMES SL（By Demes Group；bydemes.com；巴塞罗那 C/ San Fructuoso 50-56, 08004（马德里 Coslada Av. de la Industria 25, 28823；仓 L’Hospitalet）；CIF B60347010）— 1985 年起的伊比利亚头部电子安防分销商（CCTV / 对讲 / 门禁 / 入侵 / 消防 / 网络 / IoT；40+ 品牌 6,500 SKU；**自有品牌 AIRSPACE / CCTVDIRECT**；Hyundai 独家；7,500 客户 欧洲 / 非洲 / 中东；在售 Wi-Tek / Cudy 交换机）；132 人（2025）；Administrador único LAST ROUND HOLDING SL；Managing Director Ricardo Rubi Rio（= 研究档 KP）；采购 / 出口总监 María Gracia Guzzi；KP Liana Barragan",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：empresia（BY DEMES SL；CIF B60347010；CNAE 4643）+ einforma（132 empleados 2025；5 administradores）+ infocif（Administrador único LAST ROUND HOLDING SL；auditor ADADE）+ electrico.info（Administrador delegado Rubi Rio Ricardo；Director de compras / exportaciones Guzzi Maria Gracia；Director comercial Adrian Alvarez Marcelo）+ bydemes.com/en/company（San Fructuoso 50-56 08004 Barcelona；Coslada Madrid；almacén Hospitalet）+ aecoctrade（marcas propias AIRSPACE y CCTVDIRECT；6.500 referencias 40 marcas；HYUNDAI exclusiva）+ theorg（7,500 customers since 1985）",
+   "url": "https://www.einforma.com/informacion-empresa/by-demes",
+   "number": "CIF B60347010",
+   "status": "Activa",
+   "incorporated": "1985",
+   "company_type": "S.L.（LAST ROUND HOLDING SL 管理）",
+   "sic": [
+    "电子安防产品分销（伊比利亚 #1；CNAE 4643 / 4652）+ 自有品牌"
+   ],
+   "address": "C/ San Fructuoso 50-56, 08004 Barcelona",
+   "accounts": "—（2024 年报已存；审计 ADADE）",
+   "accounts_due": "—",
+   "size_band": "中型（132 人）",
+   "officers": [
+    "Ricardo Rubi Rio — Managing Director（研究档 KP Ricardo Rubi）= 拍板人",
+    "María Gracia Guzzi — Directora de compras / exportaciones = 收件人",
+    "Liana Barragan — 研究档 KP（抄）",
+    "Adrián Álvarez Marcelo — Director comercial"
+   ],
+   "psc": "LAST ROUND HOLDING SL",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**132 人、自有品牌 AIRSPACE / CCTVDIRECT 的伊比利亚头部安防分销商（在售国产 Wi-Tek / Cudy）→ 贴标 OEM 30% 正中目标，B BIG，加厚一次；有回声即升 A 候选**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 1:1 对照 Wi-Tek 在售型号 + STI-054GP；只报 OEM 档；稿内不点名 Wi-Tek / Cudy / Hyundai",
+    "收件人 compras（María Gracia Guzzi）+ Ricardo（抄）；发信窗口 Thu 12–14 CET；西语一句引子"
+   ],
+   "notes": "贴标 30% 目标；B BIG；加厚一次；升 A 候选（回信即 A）；坐实（CIF + 管理结构）。",
+   "code": "SB-589"
   }
  }
 }
